@@ -333,7 +333,7 @@
 
 ## 外部リンク
 
-  - [AB'S - ホーム](https://absthe3rd.wixsite.com/website)
+  - [AB'S - ホーム](https://www.abs-5.com/)
   - [AB'S - ホーム(Facebook)](https://www.facebook.com/absthe3rd/)
   - [Paradigm Shift 公式サイト](http://www.paradigmshift.jp/)
   - [芳野藤丸 on the WEB\!](http://www2u.biglobe.ne.jp/%7Ekrishna/fujimal/) ※BBSがAB'Sの旧公式サイト（既に閉鎖）と兼用
@@ -342,4 +342,4 @@
 
 1.  2013年、芳野藤丸はfacebookで、自身の血液型をずっとAB型だと思っていたが、この年に行った血液検査でB型であると判明した、と書いている。
 2.  英国ではAB'Sは「A.B.'s」というバンド表記で発売された。
-3.  2015年12月13日の「岡本敦男還暦祭」ライブにおいて、「スペクトラムにドラムスとして岡本を紹介したのは自分である」と、芳野本人から言及があった。
+3.  2015年12月13日の「岡本郭男還暦祭」ライブにおいて、「スペクトラムにドラムスとして岡本を紹介したのは自分である」と、芳野本人から言及があった。

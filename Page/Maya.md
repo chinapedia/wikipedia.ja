@@ -1,7 +1,7 @@
 > この記事は[Maya](https://ja.wikipedia.org/wiki/Maya)から翻訳されています。
 
 
-**Maya**（マヤ）は、[オートデスク](../Page/オートデスク.md "wikilink")社によるハイエンド[3次元コンピュータグラフィックス](../Page/3次元コンピュータグラフィックス.md "wikilink")ソフトウェアである。対応OSは、バージョン2019時点で[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") 7/10、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")、[Linux](../Page/Linux.md "wikilink")となっている<ref>Autodesk Maya の動作環境 - AUTODESK KNOWLEDGE NETWORK
+**Maya**（マヤ）は、[オートデスク](../Page/オートデスク.md "wikilink")社によるハイエンド[3次元コンピュータグラフィックス](../Page/3次元コンピュータグラフィックス.md "wikilink")アニメーションソフトウェアである。対応OSは、バージョン2019時点で[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") 7/10、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")、[Linux](../Page/Linux.md "wikilink")となっている<ref>Autodesk Maya の動作環境 - AUTODESK KNOWLEDGE NETWORK
 
 <https://knowledge.autodesk.com/ja/support/maya/learn-explore/caas/sfdcarticles/sfdcarticles/JPN/System-requirements-for-Autodesk-Maya.html></ref>。
 

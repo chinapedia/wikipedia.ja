@@ -47,7 +47,7 @@
   - [STVラジオ](../Page/STVラジオ.md "wikilink")（『[船守さちこのスーパーランキング](../Page/船守さちこのスーパーランキング.md "wikilink")』に内包されていた時期あり）
   - [秋田放送](../Page/秋田放送.md "wikilink")
   - [山形放送](../Page/山形放送.md "wikilink")
-  - [東北放送](../Page/東北放送.md "wikilink")
+  - [東北放送](../Page/東北放送.md "wikilink")（『[男女りすなぁ若者語](../Page/男女りすなぁ若者語.md "wikilink")』に内包されていた時期あり）
   - [茨城放送](../Page/茨城放送.md "wikilink")
   - [栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")（[1999年](../Page/1999年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 9月）

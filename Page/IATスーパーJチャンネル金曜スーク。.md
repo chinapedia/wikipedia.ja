@@ -77,6 +77,6 @@
 
 ## 外部リンク
 
-  - [金曜スーク。-IATスーパーJチャンネル](http://web.archive.org/web/20050527001404/http://www.iat.co.jp/SuperJ/souk/)（インターネット・アーカイブ保存データ）
+  - [金曜スーク。-IATスーパーJチャンネル](https://web.archive.org/web/20050527001404/http://www.iat.co.jp/SuperJ/souk/)（インターネット・アーカイブ保存データ）
 
 [Category:2004年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のテレビ番組_\(日本\) "wikilink") [Category:岩手朝日テレビの番組](https://ja.wikipedia.org/wiki/Category:岩手朝日テレビの番組 "wikilink") [Category:東北地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの情報・ワイドショー番組 "wikilink") [Category:東北地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:東北地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:スーパーJチャンネル](https://ja.wikipedia.org/wiki/Category:スーパーJチャンネル "wikilink")

@@ -69,7 +69,7 @@
   - Kentron UCAV-TD
   - [MiG](../Page/MiG.md "wikilink") [MiG スキャット](https://ja.wikipedia.org/wiki/スキャット_\(航空機\) "wikilink")
   - [スホーイ](../Page/スホーイ.md "wikilink")
-  - [防衛省](../Page/防衛省.md "wikilink")[技術研究本部](../Page/技術研究本部.md "wikilink")「UAV技術を基盤とした戦闘型無人機技術の研究」[1](http://www.mod.go.jp/trdi/data/pdf/setsumei.pdf%5D島しょ部侵略対処における敵部隊などに対する精密な攻撃%5Bhttp://www.mod.go.jp/trdi/data/pdf/chuchoki.pdf)
+  - [防衛省](../Page/防衛省.md "wikilink")[技術研究本部](../Page/技術研究本部.md "wikilink")「UAV技術を基盤とした戦闘型無人機技術の研究」[1](https://web.archive.org/20081227054239/http://www.mod.go.jp/trdi/data/pdf/setsumei.pdf%5D島しょ部侵略対処における敵部隊などに対する精密な攻撃%5Bhttps://web.archive.org/20081227054116/http://www.mod.go.jp/trdi/data/pdf/chuchoki.pdf)
 
 <!-- end list -->
 
@@ -160,7 +160,7 @@
 
 [Category:無人航空機](https://ja.wikipedia.org/wiki/Category:無人航空機 "wikilink") [Category:戦闘機](https://ja.wikipedia.org/wiki/Category:戦闘機 "wikilink") [Category:爆撃機](https://ja.wikipedia.org/wiki/Category:爆撃機 "wikilink") [Category:COIN機](https://ja.wikipedia.org/wiki/Category:COIN機 "wikilink")
 
-1.  [海幹校戦略研究 第１巻第２号（通巻第２号） ２０１１年１２月](http://www.mod.go.jp/msdf/navcol/SSG/review/1-2/1-2.pdf)
+1.  [海幹校戦略研究 第１巻第２号（通巻第２号） ２０１１年１２月](https://www.mod.go.jp/msdf/navcol/SSG/review/1-2/1-2.pdf)
 2.
 3.  石川潤一著 『2010年度 米国防予算案を読む』、軍事研究2009年7月号、（株）ジャパン・ミリタリー・レビュー
 4.  Krane, Jim. "Pilotless Warriors Soar To Success." CBS News, 25 April 2003.

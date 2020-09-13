@@ -40,7 +40,7 @@
 
   - [テレビ東京「音遊人」2006年4月8日放送出演分](https://www.tv-tokyo.co.jp/m-jin/onair/060408/index.html)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:日本のフュージョン・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のフュージョン・ミュージシャン "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:日本のフュージョン・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のフュージョン・ミュージシャン "wikilink")
 
 1.  [ダブル・ドラム・パフォーマンス](https://web.archive.org/web/20050326210804/http://www.rittor-music.co.jp/hp/video/drums_data/04517212.htm)（2005年3月26日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 2.  [登録情報「販売元」](https://www.amazon.co.jp/dp/B000ATJZ02) - Amazon.co.jp

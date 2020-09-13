@@ -1,7 +1,7 @@
 > この記事は[K.](https://ja.wikipedia.org/wiki/K.)から翻訳されています。
 
 
-**K.**（けい.、本名：山本景子（やまもと けいこ）、[1973年](../Page/1973年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink") - ）は日本の女性[歌手](../Page/歌手.md "wikilink")。[血液型A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**K.**（けい.、本名：山本景子（やまもと けいこ）、[1973年](../Page/1973年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink") - ）は日本の女性[歌手](../Page/歌手.md "wikilink")。[血液型A型](../Page/ABO式血液型.md "wikilink")。
 
 ## 経歴
 

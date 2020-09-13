@@ -52,7 +52,7 @@
   - [2006年](../Page/2006年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")に発表された[アキュラ・RDX](../Page/アキュラ・RDX.md "wikilink")に、バリアブルフロー・ターボを装着した2,300ccの**K23A**が採用された。
   - 2006年に発売された3代目CR-V（北米仕様）にて**K24Z**が採用された。
   - [2012年](../Page/2012年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink")に発表された9代目アコード（北米仕様）に、EARTH DREAMS TECHNOLOGYを投入した2,400ccの**K24W**が採用された。
-  - [2015年](../Page/2015年.md "wikilink")に発売された[シビック・タイプRに](../Page/ホンダ・シビックタイプR.md "wikilink")**K20C1**が採用された。
+  - [2015年](../Page/2015年.md "wikilink")に発売された[シビック・タイプRに](../Page/ホンダ・シビックタイプR.md "wikilink")[VTEC](../Page/VTEC.md "wikilink")と[ターボチャージャー](../Page/ターボチャージャー.md "wikilink")を組み合わせた**K20C1**が採用された。
 
 ## バリエーション
 

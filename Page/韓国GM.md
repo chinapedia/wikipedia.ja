@@ -13,15 +13,15 @@
 
 ## 歴史
 
-  - 1937年　キム・ヤンジョにより、**國産自動車**(グクサン-、Guksan Automotive。英字資料ではNational Motorと訳される事もある）が、仁川にて創業。主に[貨物自動車](../Page/貨物自動車.md "wikilink")の生産に従事<ref name="Die Internationale Automobil-Enzyklopädie">Harald Linz、Halwart Schrader
+  - 1937年　キム・ヤンジョにより、**國産自動車**(グクサン-、Guksan Automotive。英字資料ではNational Motorとも訳される）が、仁川にて創業。主に[貨物自動車](../Page/貨物自動車.md "wikilink")の生産に従事<ref name="Die Internationale Automobil-Enzyklopädie">Harald Linz、Halwart Schrader
 
 「Die Internationale Automobil-Enzyklopädie」United Soft Media Verlag、[ミュンヘン](../Page/ミュンヘン.md "wikilink")、2008年、ISBN 978-3-8032-9876-8、Kapitel Daewoo (I)</ref>。
 
   - 1954年　金昌源（キム・チャンウォン、弟）・金済源（キム・ジェイウォン、兄）兄弟により、新進工業が設立される。創業当初は自動車部品の製造工場であったが、1958年からは[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")で[アメリカ軍](../Page/アメリカ軍.md "wikilink")により使用された[ジープ](../Page/ジープ.md "wikilink")の修理や改造に着手し始める\[9\]。
   - 1962年　[在日韓国人実業家の朴魯貞](../Page/在日韓国・朝鮮人.md "wikilink")（パク・ノジョン）により、"新しい国"を意味する**セナラ自動車**([:de:Saenara Motor Company](https://ja.wikipedia.org/wiki/:de:Saenara_Motor_Company "wikilink")、）が設立される。[朴正煕](../Page/朴正煕.md "wikilink")[国家再建最高会議](../Page/国家再建最高会議.md "wikilink")議長(後、[大統領](../Page/大統領_\(大韓民国\).md "wikilink"))による第一次五カ年計画の一環として韓国政府の支援の下、[富平区](https://ja.wikipedia.org/wiki/富平区 "wikilink")に年産6000台を見込む新工場を設立\[10\]。[日産自動車](../Page/日産自動車.md "wikilink")と提携し、同年11月より[P312型ブルーバードを](../Page/日産・ブルーバード.md "wikilink")「セナラ」の名称で[ノックダウン生産](../Page/ノックダウン生産.md "wikilink")する\[11\]。同年、新進工業も事業を拡大し、軍用トラックの部品を流用した[マイクロバス](../Page/マイクロバス.md "wikilink")の製造に着手、[公共交通機関](../Page/公共交通機関.md "wikilink")で採用される等の成功を収める\[12\]。同年、グクサン自動車が倒産。同社の最後の社長であった李敏禹（リ・ミンウ）が金昌源の誘いを受け、新進工業に専務として就任する\[13\]。
-  - 1963年　5月、セナラ自動車はP312型セナラを2773台生産した段階で経営破綻。原因は韓国政府関係者による中間搾取により、工場の建設費用が当初予定の2倍を超えるほど膨れ上がった事。当時の韓国国内での販路の脆弱さから、建設費用を販売価格に転嫁できず、政府への借入金の支払いが行えなくなった事等も一因とされる\[14\]が、直接的な原因は[金鍾泌](../Page/金鍾泌.md "wikilink")が関わった後述の**セナラ自動車疑惑事件**であった。同年11月、新進工業はP312型セナラを[デッドコピー](https://ja.wikipedia.org/wiki/デッドコピー "wikilink")する形で新星号の製造を開始する。新星号はセナラの2倍近い価格を設定した上に、[エンジン](../Page/エンジン.md "wikilink")、[トランスミッション](../Page/トランスミッション.md "wikilink")を始め多くの部品をジープの中古車から流用していた為、セナラと比較しても非常に故障しやすく、1966年の製造終了まで322台しか売れなかった\[15\]\[16\]。
-  - 1964年　新進工業が**新進自動車**（シンジン-、[:en:Shinjin_Motors](https://ja.wikipedia.org/wiki/:en:Shinjin_Motors "wikilink")、）と改称。同年10月、同社専務がトヨタ自動車を訪れた事が契機となり、トヨタとの間に技術供与契約の「仮調印」を行う。仮となっているのは同年の段階で日韓間の国交が回復していなかったためとされる\[17\]。
-  - 1965年　7月、韓国政府は[韓国車](https://ja.wikipedia.org/wiki/韓国車 "wikilink")の部品の国内製造比率を、1967年までに90%以上とする事を目標にした三ヵ年計画を策定。その計画の一環として、新進自動車を小型車生産の独占企業に指定し、旧セナラ自動車の製造施設の買収を働きかける事となる。同年11月、新進工業がセナラ自動車の製造施設を取得するも、セナラの経営破綻の時点で日産自動車との提携関係が消滅していた為、翌年のトヨタとの提携までの繋ぎとして、[新三菱重工業](https://ja.wikipedia.org/wiki/新三菱重工業 "wikilink")から100台分の"Gold"モデル([三菱・コルト1000](../Page/三菱・コルト1000.md "wikilink")の誤読とみられる)のノックダウン生産部品を輸入する。新進によるセナラ買収では韓国政府によるかなり露骨な後押しがあったようで、他の韓国車メーカーからは大いに顰蹙を買ったという\[18\]。[石坂芳男](../Page/石坂芳男.md "wikilink")の回想によると、「[日韓基本条約](https://ja.wikipedia.org/wiki/日韓基本条約 "wikilink")締結直後の韓国では外貨が不足していた事もあり、当時経営トップであった弟の社長が病気療養中に、兄の会長が勝手に三菱とのノックダウン契約を決めてしまった。」らしく、これに対して[トヨタ自販](https://ja.wikipedia.org/wiki/トヨタ自販 "wikilink")の[神谷正太郎](https://ja.wikipedia.org/wiki/神谷正太郎 "wikilink")は、元[衆議院議員](https://ja.wikipedia.org/wiki/衆議院議員 "wikilink")の[朴春琴](../Page/朴春琴.md "wikilink")を通じて朴正煕に抗議の書簡を送り、三菱の部品輸入禁止措置を取らせる事で、新進に三菱との契約継続を断念させたという。当時のトヨタはセナラのブルーバードのノックダウン生産によって、小型[大衆車](../Page/大衆車.md "wikilink")の海外進出で日産に先行されていた事に焦燥感を抱いており、韓国企業の[ガバナンスの杜撰さに辟易しながらも](../Page/コーポレート・ガバナンス.md "wikilink")、[コロナの海外進出の為に](https://ja.wikipedia.org/wiki/トヨペット・コロナ "wikilink")、政財界からも手を回すなりふり構わぬ手段も用いて交渉を進めていったという\[19\]。
+  - 1963年　5月、セナラ自動車はP312型セナラを2773台生産した段階で経営破綻。原因は韓国政府関係者による中間搾取により、工場の建設費用が当初予定の2倍を超えるほど膨れ上がったこと、当時の韓国国内での販路の脆弱さから、建設費用を販売価格に転嫁できず、政府への借入金の支払いが行えなくなったこと等も一因とされる\[14\]が、直接的な原因は[金鍾泌](../Page/金鍾泌.md "wikilink")が関わった後述の**セナラ自動車疑惑事件**であった。同年11月、新進工業はP312型セナラを[デッドコピー](https://ja.wikipedia.org/wiki/デッドコピー "wikilink")する形で新星号の製造を開始する。新星号はセナラの2倍近い価格を設定した上に、[エンジン](../Page/エンジン.md "wikilink")、[トランスミッション](../Page/トランスミッション.md "wikilink")を始め多くの部品をジープの中古車から流用していたため、セナラと比較しても非常に故障しやすく、1966年の製造終了まで322台しか売れなかった\[15\]\[16\]。
+  - 1964年　新進工業が**新進自動車**（シンジン-、[:en:Shinjin_Motors](https://ja.wikipedia.org/wiki/:en:Shinjin_Motors "wikilink")、）と改称。同年10月、同社専務がトヨタ自動車を訪れたことが契機となり、トヨタとの間に技術供与契約の「仮調印」を行う。仮となっているのは同年の段階で日韓間の国交が回復していなかったためとされる\[17\]。
+  - 1965年　7月、韓国政府は[韓国車](https://ja.wikipedia.org/wiki/韓国車 "wikilink")の部品の国内製造比率を、1967年までに90%以上とすることを目標にした三ヵ年計画を策定。その計画の一環として、新進自動車を小型車生産の独占企業に指定し、旧セナラ自動車の製造施設の買収を働きかけることとなる。同年11月、新進工業がセナラ自動車の製造施設を取得するも、セナラの経営破綻の時点で日産自動車との提携関係が消滅していたため、翌年のトヨタとの提携までの繋ぎとして、[新三菱重工業](https://ja.wikipedia.org/wiki/新三菱重工業 "wikilink")から100台分の"Gold"モデル([三菱・コルト1000](../Page/三菱・コルト1000.md "wikilink")の誤読とみられる)のノックダウン生産部品を輸入する。新進によるセナラ買収では韓国政府によるかなり露骨な後押しがあったようで、他の韓国車メーカーからは大いに顰蹙を買ったという\[18\]。[石坂芳男](../Page/石坂芳男.md "wikilink")の回想によると、「[日韓基本条約](https://ja.wikipedia.org/wiki/日韓基本条約 "wikilink")締結直後の韓国では外貨が不足していたこともあり、当時経営トップであった弟の社長が病気療養中に、兄の会長が勝手に三菱とのノックダウン契約を決めてしまった。」らしく、これに対して[トヨタ自販](https://ja.wikipedia.org/wiki/トヨタ自販 "wikilink")の[神谷正太郎](https://ja.wikipedia.org/wiki/神谷正太郎 "wikilink")は、元[衆議院議員](https://ja.wikipedia.org/wiki/衆議院議員 "wikilink")の[朴春琴](../Page/朴春琴.md "wikilink")を通じて朴正煕に抗議の書簡を送り、三菱の部品輸入禁止措置を取らせることで、新進に三菱との契約継続を断念させたという。当時のトヨタはセナラのブルーバードのノックダウン生産によって、小型[大衆車](../Page/大衆車.md "wikilink")の海外進出で日産に先行されていたことに焦燥感を抱いており、韓国企業の[ガバナンスの杜撰さに辟易しながらも](../Page/コーポレート・ガバナンス.md "wikilink")、[コロナの海外進出のために](https://ja.wikipedia.org/wiki/トヨペット・コロナ "wikilink")、政財界からも手を回すなりふり構わぬ手段も用いて交渉を進めていったという\[19\]。
   - 1966年　5月[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")と正式に提携開始。[クラウン](../Page/トヨタ・クラウン.md "wikilink")、[コロナ](../Page/トヨタ・コロナ.md "wikilink")、[パブリカ](../Page/トヨタ・パブリカ.md "wikilink")、[トヨエースを](../Page/トヨタ・トヨエース.md "wikilink")[ノックダウン生産](../Page/ノックダウン生産.md "wikilink")する。（トヨエースは『エース』の車名で新進ブランドで販売）
   - 1972年　トヨタが撤退後、[GMが資本参加し](../Page/ゼネラルモーターズ.md "wikilink")、社名「GMコリア」（）に変更する。シボレー1700（[ホールデン](../Page/ホールデン_\(自動車\).md "wikilink")・トラーナがベース）やレコード1900、ロイヤル（[オペル･レコルトDがベース](https://ja.wikipedia.org/wiki/:w:Opel_Rekord_Series_D "wikilink")）をノックダウン生産する。
   - 1976年　韓国産業銀行がGMコリアの持ち株を購入し、セハン自動車（セハン-、[:en:Saehan Motors](https://ja.wikipedia.org/wiki/:en:Saehan_Motors "wikilink")、、Saehan Motor Company）に社名変更。[いすゞ・ジェミニ](../Page/いすゞ・ジェミニ.md "wikilink")、[いすゞ・エルフ](../Page/いすゞ・エルフ.md "wikilink")を[ノックダウン生産](../Page/ノックダウン生産.md "wikilink")する。
@@ -197,7 +197,7 @@
   - ヌビラII（ヌビラのMC版）
   - ローヤル/ローヤルサロン（オペル・レコルトがベースの中型セダン。ローヤルサロンは当時の[トヨタ・クラウン](../Page/トヨタ・クラウン.md "wikilink")に酷似していた）
   - プリンス/ローヤルプリンス（オペル・レコルトがベースの中型セダン）
-  - レガンツァ（中型セダン。エスペロの後継車）
+  - [レガンザ](../Page/大宇・レガンザ.md "wikilink")（中型セダン。エスペロ/プリンスの後継車）
   - スーパーサロン（プリンスがベースの高級セダン）
   - インペリアル（プリンスがベースの大型高級セダン）
   - [アカディア](https://ja.wikipedia.org/wiki/大宇・アカディア "wikilink")（ホンダ・レジェンドのライセンス生産車）
@@ -275,12 +275,13 @@
 ## 外部リンク
 
   - [Chevrolet Korea Home Page](http://www.chevrolet.co.kr/kor/index.do)
+  - [Cadillac Korea Home Page](https://www.cadillac.co.kr/kor/index.do)
   - [Chevrolet Europe Home Page](http://www.chevroleteurope.com/)
   - [株式会社オートレックス（マティスの輸入元）](http://www.matiz.co.jp/)
   - [GM Daewoo Vidamco Home Page](http://www.vidamco.com.vn/)
   - [Daewoo Automobile Romania Homepage](http://www.daewoo.ro/en/)
 
-[Category:韓国の自動車メーカー・ブランド](https://ja.wikipedia.org/wiki/Category:韓国の自動車メーカー・ブランド "wikilink") [Category:ゼネラルモーターズ](https://ja.wikipedia.org/wiki/Category:ゼネラルモーターズ "wikilink") [Category:経営再建した企業](https://ja.wikipedia.org/wiki/Category:経営再建した企業 "wikilink")
+[Category:韓国の自動車メーカー・ブランド](https://ja.wikipedia.org/wiki/Category:韓国の自動車メーカー・ブランド "wikilink") [Category:ゼネラルモーターズ](https://ja.wikipedia.org/wiki/Category:ゼネラルモーターズ "wikilink") [Category:経営再建した企業](https://ja.wikipedia.org/wiki/Category:経営再建した企業 "wikilink") [Category:韓国の貨物自動車メーカー](https://ja.wikipedia.org/wiki/Category:韓国の貨物自動車メーカー "wikilink")
 
 1.
 2.  もっとも、1971年に新進自動車とGMが共同で設立した際も、1978年に[大宇](https://ja.wikipedia.org/wiki/大宇 "wikilink")グループに買収されて大宇自動車となるまでの間も「韓国GM」だったため、33年ぶりの社名復活ともいえる。

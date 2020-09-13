@@ -17,9 +17,9 @@
 
 [1996年](../Page/1996年.md "wikilink")（平成8年）、[スーパーマーケット](../Page/スーパーマーケット.md "wikilink")を運営していた**株式会社ベスト**（[家電量販店](../Page/家電量販店.md "wikilink")の[ベスト電器](../Page/ベスト電器.md "wikilink")とは無関係。後に[シートゥーネットワークに事業譲渡し消滅](https://ja.wikipedia.org/wiki/イオンエブリ "wikilink")）内の事業部により、[東京都](../Page/東京都.md "wikilink")[立川市](../Page/立川市.md "wikilink")[若葉町に](https://ja.wikipedia.org/wiki/若葉町_\(立川市\) "wikilink")、SHOP99の前身となる「**99エンオンリーストア**」一号店が開業した。
 
-[2000年](../Page/2000年.md "wikilink")（平成12年）、**株式会社九九プラス**を設立し、株式会社ベストから独立。[2001年](../Page/2001年.md "wikilink")（平成13年）には新店舗出店時における店名を「**SHOP99**」に統一している。[2004年](../Page/2004年.md "wikilink")（平成16年）よりイメージキャラクターに[草彅剛を起用](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")。
+[2000年](../Page/2000年.md "wikilink")（平成12年）、**株式会社九九プラス**を設立し、株式会社ベストから独立。[2001年](../Page/2001年.md "wikilink")（平成13年）には新店舗出店時における店名を「**SHOP99**」に統一している。[2004年](../Page/2004年.md "wikilink")（平成16年）よりイメージキャラクターに[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")を起用。
 
-[アメリカの均一価格](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[チェーンストア](https://ja.wikipedia.org/wiki/チェーンストア "wikilink")をヒントに事業を立ち上げ、[100円ショップ](../Page/100円ショップ.md "wikilink")とコンビニエンスストアを合わせた業態として、多くの商品が[消費税](../Page/消費税.md "wikilink")抜99円、税込104円で販売されていた（ローソンストア100への一元化後は税抜100円、税込108円\[2\]となっている）。また、[生鮮食品](https://ja.wikipedia.org/wiki/生鮮食品 "wikilink")を取り扱う[生鮮コンビニ](../Page/生鮮コンビニ.md "wikilink")である点も特徴である。
+[アメリカの均一価格](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[チェーンストア](https://ja.wikipedia.org/wiki/チェーンストア "wikilink")をヒントに事業を立ち上げ、[100円ショップ](../Page/100円ショップ.md "wikilink")とコンビニエンスストアを合わせた業態として、多くの商品が店舗名の「99」に由来して[消費税](../Page/消費税.md "wikilink")抜99円、税込104円（当時5％）で販売されていた（ローソンストア100への一元化後は税抜100円、税込110円\[2\]、食料品は[軽減税率](https://ja.wikipedia.org/wiki/軽減税率 "wikilink")108円となっている）。また、[生鮮食品](https://ja.wikipedia.org/wiki/生鮮食品 "wikilink")を取り扱う[生鮮コンビニ](../Page/生鮮コンビニ.md "wikilink")である点も特徴である。
 
 顧客の要望により、税抜き99円以外の商品や[新聞](../Page/新聞.md "wikilink")・[雑誌](../Page/雑誌.md "wikilink")（これらは定価販売）を扱う店舗もあり、さらに商品によっては25円、50円の物もあり、「○個で99円」という価格設定になっていた（ローソンストア100移行後も店舗によって別価格帯の商品を扱っている）。
 
@@ -134,7 +134,7 @@ CDが発売される前から「SHOP99テーマソング」が店内に流れて
 [Category:ローソン](https://ja.wikipedia.org/wiki/Category:ローソン "wikilink") [Category:かつて存在した日本のコンビニエンスストア](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のコンビニエンスストア "wikilink")
 
 1.
-2.  2014年3月31日までは105円
+2.  2014年3月31日までは105円、2019年9月30日までは108円
 3.  [株式会社ローソンと株式会社九九プラスの業務・資本提携に関するお知らせ](http://www.lawson.co.jp/company/news/012232/) ローソン ニュースリリース 2007年2月28日
 4.  [ローソン、ショップ99と資本・業務提携。低価格ショップの統合も視野](http://www.gamenews.ne.jp/archives/2007/03/99.html) Garbagenews.com 2007年3月01日
 5.  [統一PBブランド「VL」商品発売＆統合目指した試験店展開](http://web.archive.org/web/20080303035141/http://www.shop99.co.jp/whatsnew/backnumber/402.html) SHOP99 新着情報 2008年2月18日（同年3月3日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）

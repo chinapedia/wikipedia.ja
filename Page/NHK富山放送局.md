@@ -102,7 +102,7 @@
   - [2004年](../Page/2004年.md "wikilink")（平成16年）[10月1日](../Page/10月1日.md "wikilink") - 総合・教育テレビ、[地上デジタル放送開始](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")。
   - [2009年](../Page/2009年.md "wikilink")（平成21年）[11月25日](../Page/11月25日.md "wikilink") - 「宇奈月大原」・「細入猪谷」の両デジタル中継局開局。これにより富山県内でのデジタル中継局の整備が完了（[参考リンク](http://www.soumu.go.jp/soutsu/hokuriku/press/2009/pre091125-1.html)）。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）[7月24日](../Page/7月24日.md "wikilink") - 正午で[アナログ放送終了](https://ja.wikipedia.org/wiki/NTSC#日本における実装_\(NTSC-J\) "wikilink")。翌7月25日の0時で完全停波。
-  - [2022年](../Page/2022年.md "wikilink")（令和4年）度頃 - [富山中央警察署](../Page/富山中央警察署.md "wikilink")の旧庁舎跡地である富山市[新桜町](https://ja.wikipedia.org/wiki/新桜町 "wikilink")4番10号に新放送会館を建設し移転する予定\[12\]\[13\]。
+  - [2022年](../Page/2022年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")4年）度頃 - [富山中央警察署](../Page/富山中央警察署.md "wikilink")の旧庁舎跡地である富山市[新桜町](https://ja.wikipedia.org/wiki/新桜町 "wikilink")4番10号に新放送会館を建設し移転する予定\[12\]\[13\]。
 
 ## 支局
 
@@ -126,7 +126,7 @@
   - 岩瀬浜海水浴場 - 季節運用
   - [八尾](../Page/八尾町.md "wikilink") - [おわら風の盆](../Page/おわら風の盆.md "wikilink")期間中に設置・運用
 
-## 富山放送局制作主要番組
+## 主な制作番組
 
 ### 現在
 
@@ -137,7 +137,8 @@
   - おはよう富山（平日 6:55 - 7:00、7:45 - 8:00）
   - [ニュース富山人](https://ja.wikipedia.org/wiki/ニュース富山人 "wikilink")（平日 18:10 - 19:00）
   - ニュースとやま845（平日 20:45 - 21:00）
-      - 祝日は、20:55から「東海北陸のニュース・気象情報」を放送。
+      - 祝日は、20:55から『東海北陸のニュース・気象情報』を放送。
+  - 越中とやまスペシャル（不定期金曜日 19:30 - 19:55、再放送：不定期土曜日 9:30 - 9:55\[16\]または不定期日曜日 13:05 - 13:30）
   - ニュースとやま（土日祝 18:45 - 18:59）
 
 <!-- end list -->
@@ -146,7 +147,7 @@
 
 <!-- end list -->
 
-  - [ラジオ富山人](https://ja.wikipedia.org/wiki/ラジオ富山人 "wikilink")（金曜 17:05 - 17:55）
+  - ラジオ富山人（金曜日 17:05 - 17:55）
 
 ### 過去
 
@@ -175,8 +176,8 @@
 
 <!-- end list -->
 
-  - [富山発スペシャルドラマ](https://ja.wikipedia.org/wiki/地域発ドラマ "wikilink") 港町相撲ボーイズ\[16\]
-      - [2011年](../Page/2011年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")（総合テレビ、東海・北陸地方）\[17\]ならびに[2012年](../Page/2012年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")（BSプレミアム）に放送。
+  - [富山発スペシャルドラマ](https://ja.wikipedia.org/wiki/地域発ドラマ "wikilink") 港町相撲ボーイズ\[17\]
+      - [2011年](../Page/2011年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")（総合テレビ、東海・北陸地方）\[18\]ならびに[2012年](../Page/2012年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")（BSプレミアム）に放送。
 
 ## アナウンサー・キャスター
 
@@ -197,34 +198,33 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/今城和久.md" title="wikilink">今城和久</a></p></td>
-<td><p><a href="../Page/NHK和歌山放送局.md" title="wikilink">和歌山</a></p></td>
-<td><p>放送部副部長<br />
-富山県のニュース</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/梶原典明.md" title="wikilink">梶原典明</a>*</p></td>
 <td><p><a href="../Page/NHK名古屋放送局.md" title="wikilink">名古屋</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニュース富山人" title="wikilink">ニュース富山人</a><br />
 （キャスター）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/石井智也_(アナウンサー)" title="wikilink">石井智也</a></p></td>
 <td><p><a href="../Page/NHK新潟放送局.md" title="wikilink">新潟</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/鹿沼健介.md" title="wikilink">鹿沼健介</a></p></td>
 <td><p><a href="../Page/NHK佐賀放送局.md" title="wikilink">佐賀</a></p></td>
 <td><p>富山県のニュース</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/齋藤湧希" title="wikilink">齋藤湧希</a></p></td>
 <td><p><strong>初任地</strong></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/柴田拡正" title="wikilink">柴田拡正</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/岩﨑果歩.md" title="wikilink">岩﨑果歩</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -235,13 +235,14 @@
 </tr>
 <tr class="odd">
 <td><p>石黒綾佳</p></td>
-<td></td>
+<td><p>名古屋<br />
+（契約キャスター）[19]</p></td>
 <td><p>ニュース富山人<br />
 （キャスター）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/舟本真理" title="wikilink">舟本真理</a></p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/舟本真理" title="wikilink">舟本真理</a>*</p></td>
+<td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -252,7 +253,7 @@
 </tr>
 <tr class="even">
 <td><p>松村優花</p></td>
-<td></td>
+<td><p><a href="../Page/エフエム岩手.md" title="wikilink">エフエム岩手</a></p></td>
 <td><p>|</p></td>
 </tr>
 <tr class="odd">
@@ -275,9 +276,9 @@
 
 ## 共同キャンペーン
 
-[2020年](../Page/2020年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")から、富山県内のテレビ・ラジオ局と共同で[新型コロナウイルス対策のキャンペーンを展開している](../Page/2019新型コロナウイルス.md "wikilink")\[18\]\[19\]。共同出演者は以下のとおり（いずれも放送時点）。
+[2020年](../Page/2020年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")から、富山県内のテレビ・ラジオ局と共同で[新型コロナウイルス対策のキャンペーンを展開した](../Page/2019新型コロナウイルス.md "wikilink")\[20\]。共同出演者は以下のとおり（いずれも放送時点）。
 
-  - テレビ（4月 - 5月）\[20\]：梶原典明（富山局）・[上野透](https://ja.wikipedia.org/wiki/上野透 "wikilink")（北日本放送）・[西美香](../Page/西美香.md "wikilink")（[チューリップテレビ](../Page/チューリップテレビ.md "wikilink")）・吉村尚郎（[富山テレビ放送](../Page/富山テレビ放送.md "wikilink")）
+  - テレビ（4月 - 5月）\[21\]：梶原典明（富山局）・[上野透](https://ja.wikipedia.org/wiki/上野透 "wikilink")（北日本放送）・[西美香](../Page/西美香.md "wikilink")（[チューリップテレビ](../Page/チューリップテレビ.md "wikilink")）・吉村尚郎（[富山テレビ放送](../Page/富山テレビ放送.md "wikilink")）
   - テレビ（5月 - ）：石井智也（富山局）・網谷辰海（北日本放送）・[日比あゆみ](../Page/日比あゆみ.md "wikilink")（チューリップテレビ）・矢野美沙（富山テレビ放送）
   - ラジオ（行動編）：梶原典明（富山局）・[小林淳子](../Page/小林淳子.md "wikilink")（北日本放送）・[今井隆信](https://ja.wikipedia.org/wiki/今井隆信 "wikilink")（[富山エフエム放送](../Page/富山エフエム放送.md "wikilink")）
   - ラジオ（3密を避けよう編）：梶原典明（富山局）・[木下一哉](../Page/木下一哉.md "wikilink")（北日本放送）・堀池真緒（富山エフエム放送）
@@ -291,6 +292,7 @@
 
   - [NHK富山放送局](https://www.nhk.or.jp/toyama/)
 
+  -
   -
 [Category:NHK富山](https://ja.wikipedia.org/wiki/Category:NHK富山 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:富山県のマスメディア](https://ja.wikipedia.org/wiki/Category:富山県のマスメディア "wikilink") [Category:東海・北陸地方のテレビ局](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビ局 "wikilink") [Category:東海・北陸地方のラジオ局](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のラジオ局 "wikilink") [Category:新総曲輪](https://ja.wikipedia.org/wiki/Category:新総曲輪 "wikilink")
 
@@ -309,8 +311,9 @@
 13.
 14. [アクセスマップ](https://www.nhk.or.jp/toyama/station_info/map.html) - NHK富山放送局
 15.
-16. [NHKドラマ 富山発スペシャルドラマ「港町相撲ボーイズ」](https://www6.nhk.or.jp/drama/pastprog/detail.html?i=sumo)
-17.
-18. [富山県のテレビ4局が新型コロナ対策で共同キャンペーン](https://www.nhk.or.jp/toyama/corona_minnade/) - NHK富山放送局
-19.
-20. [民放の新型コロナ対応 ～視聴者・リスナーに向けて 地域内での共同キャンペーン](https://j-ba.or.jp/category/COVID-19/jba103783) - 日本民間放送連盟
+16. 土曜日の再放送は『[ナビゲーション](https://ja.wikipedia.org/wiki/ナビゲーション_\(NHK\) "wikilink")』の再放送がない場合に限られる。
+17. [NHKドラマ 富山発スペシャルドラマ「港町相撲ボーイズ」](https://www6.nhk.or.jp/drama/pastprog/detail.html?i=sumo)
+18.
+19. [これからよろしくお願いします☆（石黒キャスター）](https://www.nhk.or.jp/toyama-blog/sp/200/427000.html)
+20.
+21. [民放の新型コロナ対応 ～視聴者・リスナーに向けて 地域内での共同キャンペーン](https://j-ba.or.jp/category/COVID-19/jba103783) - 日本民間放送連盟

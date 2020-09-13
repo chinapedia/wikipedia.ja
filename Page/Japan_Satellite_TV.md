@@ -5,7 +5,7 @@
 
 ## 概説
 
-放送内容は[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）および各[民放の番組の再送信が主であるが](../Page/民間放送.md "wikilink")、[日本時間夜](../Page/日本標準時.md "wikilink")19時台の[NHKニュース7](https://ja.wikipedia.org/wiki/NHKニュース7 "wikilink")、21時台の[ニュースウオッチ9](../Page/ニュースウオッチ9.md "wikilink")などは日本国内との同時放送である。また、[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")、[大河ドラマ](../Page/大河ドラマ.md "wikilink")、NHKの[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")および[FNNスピーク](../Page/FNNスピーク.md "wikilink")（[首都圏向け](../Page/首都圏_\(日本\).md "wikilink")）、[FNNみんなのニュース](https://ja.wikipedia.org/wiki/FNNみんなのニュース "wikilink")（全国放送部分）については同日に時差で放送される。 しかし民放の[ドラマ](../Page/ドラマ.md "wikilink")およびバラエティに関しては、権利関係の処理のため、日本国内の放送より遅れてしまう。これは、NHKの番組が海外でも放送されることを前提に制作されているのに対し、民放の大部分の番組に関しては、海外での放送を前提に契約等をしていないものが多いためである。
+放送内容は[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）および各[民放の番組の再送信が主であるが](../Page/民間放送.md "wikilink")、[日本時間夜](../Page/日本標準時.md "wikilink")19時台の[NHKニュース7](https://ja.wikipedia.org/wiki/NHKニュース7 "wikilink")、21時台の[ニュースウオッチ9](../Page/ニュースウオッチ9.md "wikilink")などは日本国内との同時放送である。また、[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")、[大河ドラマ](../Page/大河ドラマ.md "wikilink")、NHKの[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")および[FNN Live News days](https://ja.wikipedia.org/wiki/FNN_Live_News_days "wikilink")（[首都圏向け](../Page/首都圏_\(日本\).md "wikilink")）、[FNN Live News it\!](https://ja.wikipedia.org/wiki/FNN_Live_News_it! "wikilink")（全国放送部分）については同日に時差で放送される。 しかし民放の[ドラマ](../Page/ドラマ.md "wikilink")およびバラエティに関しては、権利関係の処理のため、日本国内の放送より遅れてしまう。これは、NHKの番組が海外でも放送されることを前提に制作されているのに対し、民放の大部分の番組に関しては、海外での放送を前提に契約等をしていないものが多いためである。
 
 衛星アンテナ経由、インターネットサービス JSTV-i、ケーブル会社経由の３つの受信方法があり、お住まいの地域に合わせて受信方法が選べる。
 

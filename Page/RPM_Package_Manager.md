@@ -31,7 +31,7 @@ RPMは、[C言語](../Page/C言語.md "wikilink")で書かれ、C言語、[Java]
   - [rpm.org](http://www.rpm.org/)
   - [rpm package manager](http://rpm5.org/)
 
-[Category:データ圧縮規格](https://ja.wikipedia.org/wiki/Category:データ圧縮規格 "wikilink") [Category:フリーパッケージ管理システム](https://ja.wikipedia.org/wiki/Category:フリーパッケージ管理システム "wikilink")
+[Category:レッドハット](https://ja.wikipedia.org/wiki/Category:レッドハット "wikilink") [Category:データ圧縮規格](https://ja.wikipedia.org/wiki/Category:データ圧縮規格 "wikilink") [Category:フリーパッケージ管理システム](https://ja.wikipedia.org/wiki/Category:フリーパッケージ管理システム "wikilink")
 
 1.
 2.

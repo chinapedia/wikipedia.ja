@@ -35,7 +35,7 @@
 
 ## 関連項目
 
-  - [S☆1 BASEBALL](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")（MBCテレビ）
+  - [S☆1 BASEBALL](https://ja.wikipedia.org/wiki/S☆1_BASEBALL "wikilink")（MBCテレビ）
 
 ## 外部リンク
 

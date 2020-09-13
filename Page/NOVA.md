@@ -1,13 +1,13 @@
 > この記事は[NOVA](https://ja.wikipedia.org/wiki/NOVA)から翻訳されています。
 
 
-**NOVA**（ノヴァ）は、**株式会社NOVA**（*NOVA Co., Ltd.*\[1\]）が運営する[外国語](../Page/外国語.md "wikilink")教室（[英会話教室](../Page/英会話教室.md "wikilink")など）のブランド名。全国に280教室を展開している（2014年8月末日現在）。[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")による運営で、[学校教育法](../Page/学校教育法.md "wikilink")で定める[学校](https://ja.wikipedia.org/wiki/学校 "wikilink")ではない。
+**NOVA**（ノヴァ）は、**株式会社NOVA**（*NOVA Co., Ltd.*\[1\]）が運営する[外国語](../Page/外国語.md "wikilink")教室（[英会話教室](../Page/英会話教室.md "wikilink")など）のブランド名。全国に280教室を展開している（2014年8月末日現在）。[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")による運営で、[学校教育法](../Page/学校教育法.md "wikilink")で定める[学校](https://ja.wikipedia.org/wiki/学校 "wikilink")ではない。本稿では、2013年12月以降における運営会社である株式会社NOVAについても記述する。
 
 ブランド・スローガンは『**やっぱり、NOVA 駅前留学。**』
 
 ## 運営会社
 
-2007年10月まで株式会社ノヴァによって運営されていたが、同社の経営破たんで株式会社[ジー・コミュニケーション](../Page/ジー・コミュニケーション.md "wikilink")傘下の株式会社[ジー・エデュケーション](https://ja.wikipedia.org/wiki/ジー・エデュケーション "wikilink")へ[事業譲渡](../Page/事業譲渡.md "wikilink")され、「ジーコムNOVA」のブランドが用いられていた。2010年10月、ジー・コミュニケーションが保有株式の2/3を売却し、筆頭株主が同社創業者である[稲吉正樹](https://ja.wikipedia.org/wiki/稲吉正樹 "wikilink")が代表を務めるいなよしキャピタルパートナーズ株式会社へ変更され、「ジーコムNOVA」から再び「NOVA」のブランド名に戻された。2011年、株式会社[ジー・エデュケーション](https://ja.wikipedia.org/wiki/ジー・エデュケーション "wikilink")が自分未来ホールディングス株式会社に社名を変更、親会社であったいなよしキャピタルパートナーズ株式会社と合併し、現在は[NOVAホールディングス](../Page/NOVAホールディングス.md "wikilink")株式会社に社名変更。
+2007年10月まで株式会社ノヴァによって運営されていたが、同社の経営破たんで株式会社[ジー・コミュニケーション](../Page/ジー・コミュニケーション.md "wikilink")傘下の株式会社ジー・エデュケーションへ[事業譲渡](../Page/事業譲渡.md "wikilink")され、「ジーコムNOVA」のブランドが用いられていた。2010年10月、ジー・コミュニケーションが保有株式の2/3を売却し、筆頭株主が同社創業者である[稲吉正樹](https://ja.wikipedia.org/wiki/稲吉正樹 "wikilink")が代表を務めるいなよしキャピタルパートナーズ株式会社へ変更され、「ジーコムNOVA」から再び「NOVA」のブランド名に戻された。2011年、株式会社ジー・エデュケーションが自分未来ホールディングス株式会社に社名を変更、親会社であったいなよしキャピタルパートナーズ株式会社と合併し、現在は[NOVAホールディングス](../Page/NOVAホールディングス.md "wikilink")株式会社に社名変更。運営は2013年12月に株式会社NOVAへ移管され、2018年5月には一部の教室の運営が新たに設立された株式会社NOVA東日本と株式会社NOVA西日本へ移管された\[2\]。
 
   -
     かつての運営会社について、詳しくは「[ノヴァ (外国語教室)](https://ja.wikipedia.org/wiki/ノヴァ_\(外国語教室\) "wikilink")」を参照のこと。
@@ -26,7 +26,7 @@
 
 ## 沿革
 
-### 旧運営会社時代
+### 初代運営会社時代
 
   - [1981年](../Page/1981年.md "wikilink")8月 - [有限会社](../Page/有限会社.md "wikilink")ノヴァ企画を設立。
   - 1981年9月 - [心斎橋](../Page/心斎橋.md "wikilink")に初出店。
@@ -38,12 +38,14 @@
   - [2002年](../Page/2002年.md "wikilink")9月 - [NOVAうさぎ](../Page/NOVAうさぎ.md "wikilink")が[CMを開始](../Page/コマーシャルメッセージ.md "wikilink")。以後、NOVAの[イメージキャラクターとして人気を集める](../Page/キャラクター.md "wikilink")。
   - [2007年](../Page/2007年.md "wikilink")11月 - 株式会社ノヴァ経営破綻。株式会社[ジー・エデュケーション](https://ja.wikipedia.org/wiki/ジー・エデュケーション "wikilink")へ事業譲渡。
 
-### 現運営会社時代
+### 2代目運営会社時代
 
   - [2007年](../Page/2007年.md "wikilink")11月 - ジー・コミュニケーション傘下の株式会社ジー･エデュケーションが事業譲受をして事業継続。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")10月 - 株式会社[ジー・エデュケーション](https://ja.wikipedia.org/wiki/ジー・エデュケーション "wikilink")の持株会社がジー・コミュニケーションから、いなよしキャピタルパートナーズ株式会社へ変更となる。
   - [2013年](../Page/2013年.md "wikilink")9月 - 旧いなよしキャピタルパートナーズ株式会社は[NOVAホールディングス](../Page/NOVAホールディングス.md "wikilink")株式会社と社名変更する。
   - [2013年](../Page/2013年.md "wikilink")12月 - [NOVAホールディングス](../Page/NOVAホールディングス.md "wikilink")株式会社から分社化し、株式会社NOVAを設立。
+  - [2018年](../Page/2018年.md "wikilink")5月 - 一部教室の運営を、NOVAホールディングス株式会社が新たに設立した株式会社NOVA東日本と株式会社NOVA西日本へ移管。
+  - [2020年](../Page/2020年.md "wikilink")7月 - 株式会社NOVAの本社を[東京都](../Page/東京都.md "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")から[名古屋市](../Page/名古屋市.md "wikilink")[中区へ](../Page/中区_\(名古屋市\).md "wikilink")、株式会社NOVA西日本の本社を東京都品川区から[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[西区へそれぞれ移転](../Page/西区_\(広島市\).md "wikilink")。
 
 ## レッスン内容
 
@@ -55,11 +57,11 @@
 
 2011年6月には、新しく月会費・テキストレンタル代・消費税が含まれた「1万円ポッキリ留学」、「2万円マンツーマン留学」がスタートした。これは月謝制、曜日・時間固定制コースとなっている。
 
-2013年4月よりメインテキストが旧NOVAから使用していた「Diplomat」より変更。これに伴い、レベルもレベル5～9の5段階に変更された。「Diplomat」ではターゲットを場面別に設定していたが、新テキストでは日本語の解説を交えながら、習得するターゲットや文法のテーマをより明確にしている。各レベルのユニット数も200ユニットに増加された。
+2013年4月よりメインテキストが初代NOVAから使用していた「Diplomat」より変更。これに伴い、レベルもレベル5～9の5段階に変更された。「Diplomat」ではターゲットを場面別に設定していたが、新テキストでは日本語の解説を交えながら、習得するターゲットや文法のテーマをより明確にしている。各レベルのユニット数も200ユニットに増加された。
 
 ### VOICE
 
-[授業](../Page/授業.md "wikilink")とは別に「VOICE（ヴォイス）」というルームがある。様々なレベルの生徒が講師陣と話をする場となる。授業とは別なため、この「VOICE」に参加する人は旧NOVA時代は別途**VOICEチケット**を購入する必要があったが、現在は1レッスン分（グループ）のポイントの消費で、1日中その教室のオープン時間中は時間無制限で参加でき出入りも自由、全国どこの教室のVOICEにでも参加が可能である。
+[授業](../Page/授業.md "wikilink")とは別に「VOICE（ヴォイス）」というルームがある。様々なレベルの生徒が講師陣と話をする場となる。授業とは別なため、この「VOICE」に参加する人は初代NOVA時代は別途**VOICEチケット**を購入する必要があったが、現在は1レッスン分（グループ）のポイントの消費で、1日中その教室のオープン時間中は時間無制限で参加でき出入りも自由、全国どこの教室のVOICEにでも参加が可能である。
 
 中には、初心者向け「VOICE」(Club7)や、[人事異動](../Page/人事異動.md "wikilink")・[退職](../Page/退職.md "wikilink")等でその教室を去る講師の[送別会](https://ja.wikipedia.org/wiki/送別会 "wikilink")も兼ねた「○○'s BYE BYE VOICE」なるものを開催したり、フランス語、ドイツ語、中国語のVOICEを開講している所もある。さらに、月替わりでのイベントVOICEを実施しているところもある。イベントVOICEの日程・開催場所等はホームページから確認することができる。レベルを上げるためにVOICEに参加する人も少なくない。
 
@@ -73,7 +75,7 @@
 
 ### 海外留学・海外語学研修
 
-旧NOVA時代は春・GW・夏・冬に、NOVAと提携している大学の語学学校の授業を短期留学の名目で斡旋を『NOVA ACADEMY』が行っていた。現在はハワイ・ケアンズ・バリに新たにNOVAの海外校を開校。短期留学プログラムをスタートさせている。
+初代NOVA時代は春・GW・夏・冬に、NOVAと提携している大学の語学学校の授業を短期留学の名目で斡旋を『NOVA ACADEMY』が行っていた。現在はハワイ・ケアンズ・バリに新たにNOVAの海外校を開校。短期留学プログラムをスタートさせている。
 
 ### 英語以外の言語
 
@@ -90,7 +92,7 @@
 
 <!-- end list -->
 
-  - [水原希子](https://ja.wikipedia.org/wiki/水原希子 "wikilink")（2017年イメージキャラクター）
+  - [武田玲奈](https://ja.wikipedia.org/wiki/武田玲奈 "wikilink")（2018年1月1日 - ）
 
 <!-- end list -->
 
@@ -98,6 +100,7 @@
 
 <!-- end list -->
 
+  - [水原希子](https://ja.wikipedia.org/wiki/水原希子 "wikilink")（2017年イメージキャラクター）
   - 林キセ子 - 1990年代初頭、NOVAと『農婆』を引っ掛けた形のCMに登場。「初代NOVAおばさん」。ほかに二代目も存在した。
   - [山崎一](../Page/山崎一.md "wikilink") - 1995〜1996年ごろ『鈴木』役で出演。「NOVAの鈴木さん」。
   - [松鶴家千とせ](../Page/松鶴家千とせ.md "wikilink") - 「兄貴は男前で妹は駅前だった」という過去の自分の持ちネタ風や、わらべうた「ほたるこい」の替え歌等、声のみで登場した。
@@ -115,6 +118,7 @@
   -
   -
   -
-[Category:外国語学校](https://ja.wikipedia.org/wiki/Category:外国語学校 "wikilink") [Category:日本の教育産業](https://ja.wikipedia.org/wiki/Category:日本の教育産業 "wikilink") [Category:英語教育](https://ja.wikipedia.org/wiki/Category:英語教育 "wikilink")
+[Category:外国語学校](https://ja.wikipedia.org/wiki/Category:外国語学校 "wikilink") [Category:日本の教育産業](https://ja.wikipedia.org/wiki/Category:日本の教育産業 "wikilink") [Category:名古屋市中区の企業](https://ja.wikipedia.org/wiki/Category:名古屋市中区の企業 "wikilink") [Category:2013年設立の企業](https://ja.wikipedia.org/wiki/Category:2013年設立の企業 "wikilink") [Category:東京都発祥の企業](https://ja.wikipedia.org/wiki/Category:東京都発祥の企業 "wikilink") [Category:英語教育](https://ja.wikipedia.org/wiki/Category:英語教育 "wikilink")
 
 1.  旧株式会社ノヴァは「*Nova Corporation*」。
+2.  [会社情報](https://nova-holdings.jp/about/)NOVAホールディングス

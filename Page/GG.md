@@ -13,6 +13,7 @@
   - 格闘家[ゲーリー・グッドリッジ](../Page/ゲーリー・グッドリッジ.md "wikilink")の愛称。
   - 韓国の女性歌手グループ[少女時代の略称](https://ja.wikipedia.org/wiki/少女時代_\(音楽グループ\) "wikilink")。（**G**irls' **G**eneration）
   - [茨城ゴールデンゴールズ](../Page/茨城ゴールデンゴールズ.md "wikilink") - 社会人野球チーム。
+  - [ゴールドジム](https://ja.wikipedia.org/wiki/ゴールドジム "wikilink") （**G**old's **G**ym） - 米国発祥のスポーツジム。
 
 <!-- end list -->
 

@@ -9,19 +9,19 @@
 
 本作品は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の他、[台湾](../Page/中華民国.md "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[タイ](../Page/タイ王国.md "wikilink")、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")の[アジア](../Page/アジア.md "wikilink")7ヶ国においてリリースされている\[1\]。
 
-アルバムタイトルは、本作より先にタイトルが決まっていた同発アルバムの『ark（＝箱船）』から連想し「箱船に乗って何処に向かうか」をメンバーで考え、語呂も良かったことから『ray（＝光）』に決まった\[2\]。
+アルバムタイトルは、本作より先にタイトルが決まっていた同発アルバムの『ark（=箱船）』から連想し「箱船に乗って何処に向かうか」をメンバーで考え、語呂も良かったことから『ray（=光）』に決まった\[2\]。ちなみに、[日本テレビ系音楽番組](../Page/日本テレビ放送網.md "wikilink")『[FUN](../Page/FUN.md "wikilink")』に出演した際に、司会の[松任谷正隆](../Page/松任谷正隆.md "wikilink")から「『ark』と『ray』のどちらが自信作か」を尋ねられ、[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")と[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")がこちらの作品を選んでいる。
 
-発売日が日本において一般的なCDの発売日である水曜日ではなく、木曜日なのはこの年に囁かれていた**「地球最期の日」**に合わせたものであり、**「[ノストラダムス大予言の日にアルバム](https://ja.wikipedia.org/wiki/ミシェル・ノストラダムス師の予言集#百詩篇第10巻72番 "wikilink")2枚同時リリース\!」**という宣伝がなされた。2枚合わせて収録曲が22曲に及ぶ為、[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")は「選曲と曲順を決めるのに難航した\[3\]」と述べており、決めるのに3日ほど掛かったと述懐している\[4\]。
+発売日が日本において一般的なCDの発売日である水曜日でなく木曜日になったのは、この年に囁かれていた「地球最期の日」に合わせたためであり、＜[ノストラダムス大予言の日にアルバム](https://ja.wikipedia.org/wiki/ミシェル・ノストラダムス師の予言集#百詩篇第10巻72番 "wikilink")2枚同時リリース\!＞という宣伝が当時なされた。アルバム2枚合わせ収録曲が22曲にも及ぶため、曲の振り分けから曲順の決定までが難航し、決定までに3日間ほどかかったという\[3\]。共同プロデューサーの[岡野ハジメ](../Page/岡野ハジメ.md "wikilink")曰く、メンバーの曲順の選定に違いがあったといい、「メンバーそれぞれに曲順を考えるポイントがあって。例えば[ken](https://ja.wikipedia.org/wiki/ken "wikilink")は「協調」なんですよ。"このキーの後に、このキーの曲は嫌だ"とかそういう部分での流れを重視してる。対して[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")はプロデューサーとしての目で曲順を見ている人で。彼の中ではバンドを成功させるためにはこれじゃダメだという高いレベルの何かがあったんでしょうね。かなり難航しました\[4\]」と述べている。kenは「最後は、24時間曲順決め大会みたいな感じになって、最終的に冷静な人が一人もいなかったんですよ。ちょっとずつみんな壊れて半笑いしているような状態で（笑）\[5\]」と当時を振り返っている。
 
-L'Arc〜en〜Ciel史上最大売上のヒットシングルとなった「[HONEY](../Page/HONEY_\(L'Arc〜en〜Cielの曲\).md "wikilink")」を始め、「[花葬](../Page/花葬.md "wikilink")」「[snow drop](https://ja.wikipedia.org/wiki/snow_drop_\(L'Arc〜en〜Cielの曲\) "wikilink")」「[浸食 〜lose control〜](../Page/浸食_〜lose_control〜.md "wikilink")」と話題になった3枚同時発売シングルを含む、[シングル](../Page/シングル.md "wikilink")4作品を収録。ちなみに、[日本テレビ系音楽番組](../Page/日本テレビ放送網.md "wikilink")『[FUN](../Page/FUN.md "wikilink")』に出演した際に、司会の[松任谷正隆](../Page/松任谷正隆.md "wikilink")から「『ark』と『ray』のどちらが自信作か」を尋ねられ、[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")と[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")がこちらの作品を選んだ。
+収録シングルは、自身最大売上のヒットシングルとなった「[HONEY](../Page/HONEY_\(L'Arc〜en〜Cielの曲\).md "wikilink")」に「[花葬](../Page/花葬.md "wikilink")」「[浸食 〜lose control〜](../Page/浸食_〜lose_control〜.md "wikilink")」と話題になった3枚同時発売シングルの表題曲に加え、「[snow drop](https://ja.wikipedia.org/wiki/snow_drop_\(L'Arc〜en〜Cielの曲\) "wikilink")」を含めた全4曲のシングル曲を含んでいる。なお、「snow drop」以外はシングルバージョンで収録され、既発曲全てに[テッド・ジェンセン](https://ja.wikipedia.org/wiki/テッド・ジェンセン "wikilink")によるリマスタリングが施された。また、本作と『ark』の6曲目には[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")作曲の[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")がそれぞれ収録されている。インストゥルメンタルが収録されているオリジナルアルバムはこの2作のみである。
 
-本作と『ark』の6曲目には[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")作曲の[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")がそれぞれ収録されている。インストゥルメンタルが収録されているオリジナルアルバムはこの2作のみである。
+また、hyde、ken、tetsuya、yukihiroの4人それぞれが作曲した楽曲が収録されており、yukihrioが在籍してからのL'Arc〜en〜Cielにおいて各メンバーに作曲クレジットが付いている最初のアルバムとなっている。hydeはメンバーがそれぞれ曲を書くことについて「自分の曲だと出てこないだろうなって、歌詞の引き出しが開くことはあります。自分では作れない曲を人が作ってくるから、受ける印象が全然違うんですよ\[6\]」と述べている。また、詞を手掛ける上で、hydeは「過去を食いつぶした\[7\]」とインタビューで述べており、本作の作詞について「今までは過去を振り返って書く詞が多かったんですよ。でも、今回は現在、もしくはこの後どうなるんだろうとか、そういうところで書いた歌詞が多い気がしますね\[8\]」「メンバーからテーマをもらったりすると、自分のテリトリーに無いものだったりしてね。そうすると新しい自分に気づくこともあった\[9\]」と振り返っている。
 
-[オリコン週間アルバムチャートにおいて](../Page/オリコンチャート.md "wikilink")、2週連続で1位、2位独占を飾っている (1位『ark』、2位『ray』)。発売初週の1999年7月15日付のオリコン週間アルバムチャートでは、約149万枚を売り上げて週間2位を獲得し、週間最高2位となったアルバムの中では歴代最高の初動売上を保持している。
+[オリコン週間アルバムチャートにおいて](../Page/オリコンチャート.md "wikilink")、2週連続で1位、2位独占を飾っている (1位『ark』、2位『ray』)。発売初週の1999年7月15日付のオリコン週間アルバムチャートでは、約149万枚を売り上げて週間2位を獲得し、週間最高2位となったアルバムの中では歴代最高の初動売上を保持している。オリコン歴代アルバム売上ランキングでも、[2020年](../Page/2020年.md "wikilink")現在で歴代68位にランクインしている。
 
 初回限定仕様は、スーパーピクチャーレーベルディスク、スペシャルパッケージ仕様。
 
-[2006年](../Page/2006年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")にはバンド結成15周年記念に行われた「L'Anniversary」の一環で、『ark』と共に当時のシングル曲の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")メイキング映像、関係者のインタビュー、コンサートの舞台裏や[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列で放送されていた『[稲妻\!ロンドンハーツ](../Page/ロンドンハーツ.md "wikilink")』でのライブを収録した[DVDを付属した](../Page/DVD-Video.md "wikilink")『ray 15th Anniversary Expanded Edition』がリリースされた。
+[2006年](../Page/2006年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")には、バンド結成15周年記念に行われた「L'Anniversary」の一環で、『ark』と共に当時のシングル曲の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")メイキング映像、関係者のインタビュー、コンサートの舞台裏や[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列で放送されていた『[稲妻\!ロンドンハーツ](../Page/ロンドンハーツ.md "wikilink")』でのライブを収録した[DVDを付属した](../Page/DVD-Video.md "wikilink")、『ray 15th Anniversary Expanded Edition』がリリースされた。
 
 ## 収録曲
 
@@ -42,47 +42,47 @@ L'Arc〜en〜Ciel史上最大売上のヒットシングルとなった「[HONEY
       - 作詞・作曲:hyde / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
-        10thシングル。3枚同時発売シングルのひとつ。3枚の中では最も売れ、ラルクの中でも最大のヒット曲。
+        10thシングル。シングル3作同時発売シングルのひとつ。3枚の中では最も売れ、L'Arc〜en〜Ciel史上最大のヒットシングルとなった。
 4.  **Sell my Soul**
       - 作詞・作曲:hyde / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
-        本作収録の「いばらの涙」とは同時に作られたため、両曲は双子だとhydeは語っている。この曲のドラムは、アナログ・フィルターを通し歪ませて録音されている\[5\]。
+        本作収録の「いばらの涙」とはと同時に作られたため、hydeは「両曲は双子」だと表現している\[10\]。この曲のドラムは、[Sherman Filter Bankを通し歪ませて録音されている](https://ja.wikipedia.org/wiki/フィルタバンク "wikilink")\[11\]。また、この曲でtetsuyaは1958年製の[フェンダー・プレシジョンベース](../Page/フェンダー・プレシジョンベース.md "wikilink")を弾いている\[12\]。
         [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に行われたライブツアー「[TOUR 2008 L'7 〜Trans ASIA via PARIS〜](https://ja.wikipedia.org/wiki/TOUR_2008_L'7_〜Trans_ASIA_via_PARIS〜 "wikilink")」において、ライブツアー「1999 GRAND CROSS TOUR」以来約9年ぶりに演奏された。
 5.  **[snow drop](https://ja.wikipedia.org/wiki/snow_drop_\(L'Arc〜en〜Cielの曲\) "wikilink") \[ray mix\]**
       - 作詞:hyde / 作曲:tetsu / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
         13thシングルのアルバムバージョン。タイトルは、春を告げる花といわれている[ヒガンバナ科](../Page/ヒガンバナ科.md "wikilink")の[マツユキソウの英語名](../Page/スノードロップ.md "wikilink")"snowdrop"から取られている。
-        tetsuyaが[アニメ](../Page/アニメ.md "wikilink")『[フランダースの犬](../Page/フランダースの犬_\(アニメ\).md "wikilink")』を観た後に制作した楽曲で、制作の経緯を聞いたhydeもアニメを観て作詞している\[6\]。
-        シングルバージョンのミックスをtetsuyaがあまり気に入っておらず、シングルバージョンと比べると[ベース音が弱くなっている](../Page/ベース_\(弦楽器\).md "wikilink")\[7\]。また、アルバムが夏の発売だったため、「夏らしくアレンジした」とも述べている。
+        tetsuyaが[アニメ](../Page/アニメ.md "wikilink")『[フランダースの犬](../Page/フランダースの犬_\(アニメ\).md "wikilink")』を観た後に制作した楽曲で、制作の経緯を聞いたhydeもアニメを観て作詞している\[13\]。
+        シングルバージョンのミックスをtetsuyaがあまり気に入っておらず、シングルバージョンと比べると[ベース音が弱くなっている](../Page/ベース_\(弦楽器\).md "wikilink")\[14\]。また、アルバムが夏の発売だったため、「夏らしくアレンジした」とも述べている。
 6.  **L'heure**
       - 作詞・作曲:[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink") / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
         [インストゥルメンタル](../Page/器楽曲.md "wikilink")。タイトルは[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")で読みは「ルー」で、「時間・時間帯」という意味。
-        曲中でも終始、フランス語で男女の会話が入っている。主な会話の内容は「退屈だからセックスでもしようよ」等\[8\]。
-        この曲と「trick」は、yukihiroがL'Arc〜en〜Cielに加入する以前から制作していた楽曲\[9\]。本作にこの曲を収録するにあたって前述の会話部分を新規収録している。
-        後年にyukihiroはこの2曲に関し、「以前在籍していたバンドでは採用されなかった楽曲だったからアルバムに入って嬉しかった\[10\]」と述べている。
+        曲中でも終始、フランス語で男女の会話が入っている。主な会話の内容は「暇だよね。やることないね、どうしよう\[15\]」「退屈だからセックスでもしようよ\[16\]」などで、yukihiro曰く「意味のない会話」であり、聴き手に会話の意味を分かり難くするため英語ではなくフランス語で収録されている\[17\]。
+        この曲と「trick」は、yukihiroがL'Arc〜en〜Cielに加入する以前から制作していた楽曲で\[18\]、本作にこの曲を収録するにあたって前述の会話部分を新規収録している。
+        後年にyukihiroはこの2曲に関し、「以前在籍していたバンドでは採用されなかった楽曲だったからアルバムに入って嬉しかった\[19\]」と述べている。
         また、yukihiroによるリミックスバージョンも制作され、リミックスアルバム『[ectomorphed works](https://ja.wikipedia.org/wiki/ectomorphed_works "wikilink")』に「l'heure (quiet afternoon mix)」として収録された。
 7.  **[花葬](../Page/花葬.md "wikilink")**
       - 作詞:hyde / 作曲:ken / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
-        11thシングル。3枚同時発売シングルのひとつ。当初は「HONEY」の[カップリング](https://ja.wikipedia.org/wiki/カップリング "wikilink")曲として制作されていた楽曲。
-        この曲のベースラインは聴こえ難い部分でも[16分を細かく散りばめられており](https://ja.wikipedia.org/wiki/音符#基本的な音符と休符の種類 "wikilink")、[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")は特に自信があるベースラインであると発言をしている\[11\]。
+        11thシングル。シングル3作同時発売シングルのひとつ。
+        この曲のベースラインは聴こえ難い部分でも[16分を細かく散りばめられており](https://ja.wikipedia.org/wiki/音符#基本的な音符と休符の種類 "wikilink")、[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")は特に自信があるベースラインであると発言をしている\[20\]。制作当初は「HONEY」の[カップリング](https://ja.wikipedia.org/wiki/カップリング "wikilink")曲として制作されていた楽曲だった。
 8.  **[浸食 〜lose control〜](../Page/浸食_〜lose_control〜.md "wikilink")**
       - 作詞:hyde / 作曲:ken / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
-        12thシングル。3枚同時発売シングルのひとつ。変拍子が盛り込まれた楽曲となっている。
-        作曲者であるkenは「曲出しの時、いくらテンポを説明しても全然みんなに伝わらなかった」と述べている。
+        12thシングル。シングル3作同時発売シングルのひとつ。
+        [トライスター・ピクチャーズ](https://ja.wikipedia.org/wiki/トライスター・ピクチャーズ "wikilink")/[東宝](../Page/東宝.md "wikilink")配給映画『[GODZILLA](../Page/GODZILLA.md "wikilink")』挿入歌に起用されている。歌詞も映画を踏まえ「何かのきっかけで自分が理性を失う瞬間\[21\]」をテーマに歌詞が書かれている。[変拍子](https://ja.wikipedia.org/wiki/変拍子 "wikilink")が盛り込まれた楽曲となっており、作曲者であるkenは「曲出しの時、いくらテンポを説明しても全然みんなに伝わらなかった」と述べている。
 9.  **trick**
       - 作詞・作曲:yukihiro / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
-        yukihiroがL'Arc〜en〜Cielで初めて作詞した曲で、全英語詞の楽曲。yukihiro曰く、楽曲の構想は4、5年前からあったといい、「その頃に自宅で楽器も自分で演奏してサンプリングしていた\[12\]」「歌詞も完成していて、デモを自分で歌って録音してあった\[13\]」と述べている。
-        本作に収録するにあたり、kenがギターを一部弾き直しているが、自宅で録ったyukihiroのギターも入っている\[14\]。
+        yukihiroがL'Arc〜en〜Cielで初めて作詞した曲で、全英語詞の楽曲。楽曲の構想はyukihiroの中に4、5年前からあったといい、「その頃に自宅で楽器も自分で演奏してサンプリングしていた\[22\]」「歌詞も完成していて、デモを自分で歌って録音してあった\[23\]」と述べている。歌詞はyukihiro曰く「詞というよりも英語の語呂合わせ\[24\]」だという。
+        本作に収録するにあたり、kenがギターを一部弾き直しているが、自宅で録ったyukihiroのギターも入っている\[25\]。また、この曲でtetsuyaはフェンダー・プレシジョンベースを弾いており\[26\]、「mt'Lab GERMA DRIVE」という[ファズを使用している](../Page/ファズ_\(音響機器\).md "wikilink")。
         [ライブではメンバーがパートチェンジしながら](../Page/演奏会.md "wikilink")[演奏](../Page/演奏.md "wikilink")することが多く、[2003年](../Page/2003年.md "wikilink")に行われたライブ「Shibuya Seven days 2003」では、メンバー4人が交互にボーカルを担当し、yukihiroのボーカルパートではkenが[ドラム](https://ja.wikipedia.org/wiki/ドラム "wikilink")を担当している。
         [2006年](../Page/2006年.md "wikilink")、[2015年](../Page/2015年.md "wikilink")、[2018年](../Page/2018年.md "wikilink")に開催されたライブでは、メンバー全員がギターを担当し、ボーカルを交互に担当するバージョンで披露された。
         yukihiroによるリミックスバージョンが制作され、19thシングル「[NEO UNIVERSE／finale](https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale "wikilink")」及びリミックスアルバム『ectomorphed works』にそれぞれ別バージョンが収録された。
@@ -91,14 +91,14 @@ L'Arc〜en〜Ciel史上最大売上のヒットシングルとなった「[HONEY
     <!-- end list -->
       -
         [テレビ朝日](../Page/テレビ朝日.md "wikilink")系ドラマ『[青い鳥症候群](../Page/青い鳥症候群_\(テレビドラマ\).md "wikilink")』イメージソング。
-        [イントロのギターによる](../Page/導入部.md "wikilink")[アルペジオ](https://ja.wikipedia.org/wiki/アルペジオ "wikilink")と、激しいロック調のサビが印象的な曲。歌詞を手掛けたhydeは「1つの神を信じるっていう、すごく盲目な感じはあんまり好きではなくて。それに準じて個人が死んじゃうことだって出来るって、すごく不思議、バカげたことだと思ってた\[15\]」「バカげたことだと思いつつも、それを信じて死ねるっていうのも、ある種美しいのかなと思いながら書いた。だから、ちょっと今までの価値観と違う視点で書いたんです、この曲は\[16\]」と述べている。
+        [イントロのギターによる](../Page/導入部.md "wikilink")[アルペジオ](https://ja.wikipedia.org/wiki/アルペジオ "wikilink")と、激しいロック調のサビが印象的な曲。歌詞を手掛けたhydeは「1つの神を信じるっていう、すごく盲目な感じはあんまり好きではなくて。それに準じて個人が死んじゃうことだって出来るって、すごく不思議、バカげたことだと思ってた\[27\]」「バカげたことだと思いつつも、それを信じて死ねるっていうのも、ある種美しいのかなと思いながら書いた。だから、ちょっと今までの価値観と違う視点で書いたんです、この曲は\[28\]」と述べている。ちなみに、本作収録の「Sell my Soul」とはと同時に作られたため、hydeは「両曲は双子」だと表現している\[29\]
         [2007年](../Page/2007年.md "wikilink")に行われたホールツアー「Are you ready? 2007 またハートに火をつけろ\!」の[秋田県民会館](../Page/秋田県民会館.md "wikilink")公演で、演奏予定が一切無かったが急遽演奏された。
-        また、ライブでは基本的にhydeとkenのツインギター構成で披露されていることが多いが、[2012年](../Page/2012年.md "wikilink")に行われたライブツアー「[WORLD TOUR 2012](https://ja.wikipedia.org/wiki/L'Arc〜en〜Ciel_WORLD_TOUR_2012 "wikilink")」、「[20th L'Anniversary WORLD TOUR 2012 THE FINAL](https://ja.wikipedia.org/wiki/L'Arc〜en〜Ciel_WORLD_TOUR_2012 "wikilink")」ではイントロを[ピアノ](../Page/ピアノ.md "wikilink")[アレンジにし](../Page/編曲.md "wikilink")、hydeはギターパートを担当せずハンドマイクのみで歌唱している\[17\]。
+        また、ライブでは基本的にhydeとkenのツインギター構成で披露されていることが多いが、[2012年](../Page/2012年.md "wikilink")に行われたライブツアー「[WORLD TOUR 2012](https://ja.wikipedia.org/wiki/L'Arc〜en〜Ciel_WORLD_TOUR_2012 "wikilink")」、「[20th L'Anniversary WORLD TOUR 2012 THE FINAL](https://ja.wikipedia.org/wiki/L'Arc〜en〜Ciel_WORLD_TOUR_2012 "wikilink")」ではイントロを[ピアノ](../Page/ピアノ.md "wikilink")[アレンジにし](../Page/編曲.md "wikilink")、hydeはギターパートを担当せずハンドマイクのみで歌唱している\[30\]。
 11. **the silver shining**
       - 作詞:hyde / 作曲:ken / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
-        当時のL'Arc〜en〜Cielとしては珍しく歌詞のほとんどが英詞のバラードで、この曲の後にアルバム『ark』の頭に戻るイメージで本作の最後に収録された\[18\]。
+        当時のL'Arc〜en〜Cielとしては珍しく歌詞のほとんどが英詞のバラードで、この曲の後にアルバム『ark』の頭に戻るイメージで本作の最後に収録された\[31\]。
         1999年に開催されたコンサートツアー「1999 GRAND CROSS TOUR」では曲の雰囲気をさらに出すため、日没時間を計算して演奏された。
         仮タイトルは曲のイメージとなったロックバンド、[U2](../Page/U2.md "wikilink")に因んで「U3」と付けられた。
 
@@ -293,25 +293,36 @@ L'Arc〜en〜Ciel史上最大売上のヒットシングルとなった「[HONEY
 
 ## 脚注
 
-<references/>
-
 [Category:L'Arc〜en〜Cielのアルバム](https://ja.wikipedia.org/wiki/Category:L'Arc〜en〜Cielのアルバム "wikilink") [Category:1999年のアルバム](https://ja.wikipedia.org/wiki/Category:1999年のアルバム "wikilink") [Category:キューンミュージックのアルバム](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアルバム "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 
 1.  [L'Arc〜en〜Ciel-Pieces](http://www.sonymusic.co.jp/Music/Info/LArc-en-Ciel/Pieces/)
 2.  ラジオ番組『[やまだひさしのラジアンリミテッドF](https://ja.wikipedia.org/wiki/やまだひさしのラジアンリミテッドF "wikilink")』2012年2月10日放送回より
-3.  リットーミュージック社『BASS MAGAZINE SPECIAL FEATURE SERIES/tetsuya L'Arc〜en〜Ciel』」2010年
-4.
-5.  [本邦初公開、yukihiroのself studio！](http://www.sonymusic.co.jp/Music/Info/LArc-en-Ciel/arkray_/_portrait/yukihiro/under.html) - SonyMusic
-6.  『PATi PATi』、p.19、ソニー・マガジンズ、1998年10月号
+3.  リットーミュージック社『BASS MAGAZINE SPECIAL FEATURE SERIES/tetsuya L'Arc〜en〜Ciel』」、p.18、2010年
+4.  『音楽プロデューサー 岡野ハジメ エンサイクロペディア CATHARSIS OF MUSIC』、p.156、シンコーミュージック・エンタテイメント、2019年
+5.  ぴあ社『R\&R NewsMaker』、p.35、1999年7月号
+6.  『PATi PATi』、p.18、1999年7月号
 7.
-8.  ラジオ番組『[やまだひさしのラジアンリミテッド](../Page/やまだひさしのラジアンリミテッド.md "wikilink")』1999年6月24日放送回より
-9.  『[ROCKIN'ON JAPAN](../Page/ROCKIN'ON_JAPAN.md "wikilink")』2004年3月号、[ロッキング・オン](../Page/ロッキング・オン.md "wikilink")
+8.
+9.
 10.
-11. 「BASS MAGAZINE SPECIAL FEATURE SERIES 『tetsuya/L'Arc〜en〜Ciel』」、p.82、リットーミュージック、2010年
-12.
-13.
-14.
-15. 『音楽と人』、p.47、株式会社音楽と人、1999年11月号
-16.
-17. [国立霞ヶ丘陸上競技場](../Page/国立霞ヶ丘陸上競技場.md "wikilink")公演を除いたすべての公演の1曲目で披露している。
-18.
+11. [本邦初公開、yukihiroのself studio！](http://www.sonymusic.co.jp/Music/Info/LArc-en-Ciel/arkray_/_portrait/yukihiro/under.html) - SonyMusic
+12. リットーミュージック社『BASS MAGAZINE SPECIAL FEATURE SERIES/tetsuya L'Arc〜en〜Ciel』」、p.40、2010年
+13. 『PATi PATi』、p.19、ソニー・マガジンズ、1998年10月号
+14. リットーミュージック社『BASS MAGAZINE SPECIAL FEATURE SERIES/tetsuya L'Arc〜en〜Ciel』」、p.59、2010年
+15. ぴあ社『R\&R NewsMaker』、p.38、1999年7月号
+16. ラジオ番組『[やまだひさしのラジアンリミテッド](../Page/やまだひさしのラジアンリミテッド.md "wikilink")』1999年6月24日放送回より
+17.
+18. 『[ROCKIN'ON JAPAN](../Page/ROCKIN'ON_JAPAN.md "wikilink")』2004年3月号、[ロッキング・オン](../Page/ロッキング・オン.md "wikilink")
+19.
+20. 「BASS MAGAZINE SPECIAL FEATURE SERIES 『tetsuya/L'Arc〜en〜Ciel』」、p.82、リットーミュージック、2010年
+21. 『R\&R NewsMaker』、p.19、1998年6月号
+22.
+23.
+24.
+25.
+26.
+27. 『音楽と人』、p.47、株式会社音楽と人、1999年11月号
+28.
+29.
+30. [国立霞ヶ丘陸上競技場](../Page/国立霞ヶ丘陸上競技場.md "wikilink")公演を除いたすべての公演の1曲目で披露している。
+31.

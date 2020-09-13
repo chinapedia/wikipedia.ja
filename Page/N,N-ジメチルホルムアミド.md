@@ -33,4 +33,4 @@ DMFは100度以上の高温でゆっくりと分解し、[ジメチルアミン]
 
 <references />
 
-[Category:ホルムアミド](https://ja.wikipedia.org/wiki/Category:ホルムアミド "wikilink") [Category:溶媒](https://ja.wikipedia.org/wiki/Category:溶媒 "wikilink") [Category:第2石油類](https://ja.wikipedia.org/wiki/Category:第2石油類 "wikilink") [Category:SVHC](https://ja.wikipedia.org/wiki/Category:SVHC "wikilink")
+[Category:ホルムアミド](https://ja.wikipedia.org/wiki/Category:ホルムアミド "wikilink") [Category:溶媒](https://ja.wikipedia.org/wiki/Category:溶媒 "wikilink") [Category:第2石油類](https://ja.wikipedia.org/wiki/Category:第2石油類 "wikilink") [Category:SVHC](https://ja.wikipedia.org/wiki/Category:SVHC "wikilink") [Category:肝毒素](https://ja.wikipedia.org/wiki/Category:肝毒素 "wikilink")

@@ -27,7 +27,7 @@
   - 「**INORAN**」の芸名の由来は、最初のあだ名だった「**井上ちゃん**」が変化していったものと思われ、本人も「**気が付いたら（いつの間にか）そう呼ばれていた**」とのこと。
   - 中学時代に[Jと出会い](../Page/J_\(ミュージシャン\).md "wikilink")、LUNA SEAの原型となる「LUNACY」を高校1年生の頃に学祭バンドとして結成し、活動をスタートさせた。当時はコピー中心で、高2辺りからオリジナルを演り始めた。LUNA SEAのメンバーの[SUGIZO](../Page/SUGIZO.md "wikilink")も同じ中学校に通っていたが、学年が異なっており（SUGIZOが1歳年長）、また、[マンモス校](../Page/マンモス校.md "wikilink")だったために気付かなかったという。（SUGIZOはINORANのことを知っていた）。
   - INORAN本人曰く、中学3年生の時にギターを一番最初にINORANに教えたのはJ。その時に教わった曲はマイケル・ジャクソンの「ビートイット」とアクションの「アメリカンキッス」。それから色々と洋楽を耳コピするようになり、よくコピーしていたのはデフレパード、モトリークルー、WASPなどで、Jの影響で日本のインディーズ物のムルバスやサヴラベルズ等々。土台はハードロックだが、チェッカーズなどジャンルに捉われずに、いい物はいいという感じで演っていたのがLUNACY。幅広く色々と演っていた。SUGIZOは当時のINORANについて、「この男は中3の時から長髪でした。俺の頭はチリチリでした」と語っている。\[1\]
-  - LUNACYでオリジナルを演るようになった頃に「運命的」に昔のD'ERLANGERを聴き、「そこからパーッと一直線で、そっちの方へと走っていった」\[2\]。その流れで憧れだったギタリストは[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")の[瀧川一郎](../Page/瀧川一郎.md "wikilink")で、デビュー後には交流も生まれた。ちなみに、2008年D'ERLANGER主催のイヴェントABSTINENCE'S DOOR \#002、2015年LUNA SEAの主催ロックフェス[LUNATIC FEST.にて](https://ja.wikipedia.org/wiki/LUNATIC_FEST. "wikilink")、それぞれゲストギタリストとしてD'ERLANGERとの共演を果たした。
+  - LUNACYでオリジナルを演るようになった頃に「運命的」に昔のD'ERLANGERを聴き、「そこからパーッと一直線で、そっちの方へと走っていった」\[2\]。その流れで憧れだったギタリストは[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")の[CIPHER(瀧川一郎)で](../Page/瀧川一郎.md "wikilink")、青紫色のシングルコイルピックアップのレスポールタイプのギターははメーカーこそESPとフェルナンデスと違うもののほぼズバリで、初期にはステージングにもリスペクトしている事が伺える動き等があった。CIPHERとはデビュー後には交流も生まれ、D'ERLANGER再結成後の2008年主催のイヴェントABSTINENCE'S DOOR \#002、2015年LUNA SEAの主催ロックフェス[LUNATIC FEST.にて](https://ja.wikipedia.org/wiki/LUNATIC_FEST. "wikilink")、それぞれゲストギタリストとしてD'ERLANGERとの共演を果たした。
   - LUNA SEA時代はギターソロなどはSUGIZOが担当し、本人は「ベーシックな部分をしっかり出す」ということを意識しており、「サイドギターって意識はある」と言っていた。しかし、INORANがずっとリズムを刻むということもなく、お互いにリードにもサイドにもなる\[3\]。また、作曲も手がけ、シングルの[カップリングの曲にINORAN原曲のものが多い](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")。
   - 左利きだが、[ギター](../Page/ギター.md "wikilink")を弾き始めた当時は左利き用のギターは種類が少なく、かつ値段も高かったため（これは現在も同じで、いわゆる「特注扱い」になるため、同じ機種であっても、大体右利き用よりも2〜3割増しの価格になる）、右利き用のギターを使用している。後にMonophonicにて、左利き用のギターを試奏してみたが、全く弾けなかったと語っている。
   - LUNACY時代の楽曲「もう死んだ振りさせない」ではSUGIZOではなくINORANが唯一ギターソロを披露しているが、公式に音源化はされていない。
@@ -61,7 +61,7 @@
 <td><p><strong>想</strong></p></td>
 <td><p>TMDL-30050</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全3曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -80,12 +80,12 @@
 <td><p><strong>Won't leave my mind</strong></p></td>
 <td><p>AMCM-4535</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全3曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>Won’t leave my mind</li>
+<li>Won't leave my mind</li>
 <li>#1(insrumental)</li>
 <li>Can you hear it?
 </div>
@@ -99,7 +99,7 @@
 <td><p><strong>Waves/Felicidad</strong></p></td>
 <td><p>INORANFC-001</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全2曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -117,7 +117,7 @@
 <td><p><strong>時化 -Elements of Foundation Limited Edition-</strong></p></td>
 <td><p>DINO-003</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全2曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -135,7 +135,7 @@
 <td><p><strong>Hide and Seek</strong></p></td>
 <td><p>KICM91361</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全2+2曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -147,7 +147,7 @@
 <p>DVD</p>
 <ol>
 <li>Hide and Seek (MUSIC VIDEO)</li>
-<li>Hide and Seek (MUSIC VIDEO DIRECTOR’S CUT)
+<li>Hide and Seek (MUSIC VIDEO DIRECTOR'S CUT)
 </div>
 </div></li>
 </ol></td>
@@ -156,7 +156,7 @@
 <tr class="even">
 <td><p>KICM91362</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全5曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -177,7 +177,7 @@
 <tr class="odd">
 <td><p>KICM1363</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全3曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -199,7 +199,7 @@
 <td><p><strong>Something about you</strong></p></td>
 <td><p>DINO-005</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全2曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -244,7 +244,7 @@
 <td><p>TMCN-30009<br />
 [CD+DVD]・TECI1310:リイシュー盤</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全10+1曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -256,7 +256,7 @@
 <li>FAITH</li>
 <li>想</li>
 <li>Have You Read</li>
-<li>Owl’s Tear</li>
+<li>Owl's Tear</li>
 <li>Rat Race</li>
 <li>人魚</li>
 <li>The Agenda (リイシュー盤ボーナストラック)
@@ -271,14 +271,14 @@
 <td><p><strong>Fragment</strong></p></td>
 <td><p>AMCM-4543</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全10曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>Bring to one’s senses (instrumental)</li>
+<li>Bring to one's senses (instrumental)</li>
 <li>Spirit</li>
-<li>Won’t leave my mind (album mix)</li>
+<li>Won't leave my mind (album mix)</li>
 <li>not a serious wound</li>
 <li>Bay (instrumental)</li>
 <li>Come closer</li>
@@ -299,14 +299,14 @@
 <td><p>AMCM-4572:CDアルバム<br />
 DDDW-1001:アナログ盤</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全8曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>Bring to one’s senses (super mad’s mix) remixed by ryuichiro yunoki (<a href="../Page/EL-MALO.md" title="wikilink">EL-MALO</a>)</li>
+<li>Bring to one's senses (super mad's mix) remixed by ryuichiro yunoki (<a href="../Page/EL-MALO.md" title="wikilink">EL-MALO</a>)</li>
 <li>Spirit (steak mix) remixed by <a href="https://ja.wikipedia.org/wiki/pre-school" title="wikilink">pre-school</a></li>
-<li>Won’t leave my mind (Line of Flight mix by Sneaker Pimps) remixed by Sneaker Pimps</li>
+<li>Won't leave my mind (Line of Flight mix by Sneaker Pimps) remixed by Sneaker Pimps</li>
 <li>not a serious wound (Q.Y.P. mix on this holy night) remixed by Takeshi Nakatsuka (QYPTHONE)</li>
 <li>艶 (DJ uppercut mix) remixed by DJ uppercut</li>
 <li>I wish I had never met you (far north mix) remixed by TATOO</li>
@@ -323,7 +323,7 @@ DDDW-1001:アナログ盤</p></td>
 <td><p><strong>photograph</strong></p></td>
 <td><p>BZCS-1040</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全10曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -350,7 +350,7 @@ DDDW-1001:アナログ盤</p></td>
 <td><p>通常盤・KICS-1313<br />
 初回限定盤[CD+DVD]・KICS-91313</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全10曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -376,7 +376,7 @@ DDDW-1001:アナログ盤</p></td>
 <td><p><strong>THE BEST</strong></p></td>
 <td><p>[CD+DVD]・KIZC-31/32</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全15曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -391,7 +391,7 @@ DDDW-1001:アナログ盤</p></td>
 <li>Waves</li>
 <li>Can you hear it?</li>
 <li>想</li>
-<li>Won’t leave my mind</li>
+<li>Won't leave my mind</li>
 <li>STK</li>
 <li>Unstoppable</li>
 <li>raize</li>
@@ -408,14 +408,14 @@ DDDW-1001:アナログ盤</p></td>
 <td><p>通常版・KICS-1394<br />
 初回限定盤[CD+DVD]・KICS-91394</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全13曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>The beginning and the end</li>
-<li>Cheval’s palace is here</li>
-<li>I’ll</li>
+<li>Cheval's palace is here</li>
+<li>I'll</li>
 <li>Rightaway</li>
 <li>千年花</li>
 <li>Hydrangea</li>
@@ -437,13 +437,13 @@ DDDW-1001:アナログ盤</p></td>
 <td><p><strong>Shadow</strong></p></td>
 <td><p>KICS-1421</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全10曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>Impression</li>
-<li>Runnin’</li>
+<li>Runnin'</li>
 <li>Sleeveless</li>
 <li>a bribe</li>
 <li>Cryptic</li>
@@ -464,7 +464,7 @@ DDDW-1001:アナログ盤</p></td>
 <td><p><strong>Watercolor</strong></p></td>
 <td><p>[CD+DVD]・KIZC-63/4</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全10曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -478,7 +478,7 @@ DDDW-1001:アナログ盤</p></td>
 <li>蒼茫</li>
 <li>see you</li>
 <li>tender</li>
-<li>I’ll be there
+<li>I'll be there
 </div>
 </div></li>
 </ol></td>
@@ -491,7 +491,7 @@ DDDW-1001:アナログ盤</p></td>
 <td><p>通常盤・KICS-1647<br />
 初回限定盤[CD+DVD] シリアルナンバー入り写真集付き・KICS-91647</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全7曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -515,7 +515,7 @@ DDDW-1001:アナログ盤</p></td>
 <td><p>通常盤・KICS-1787<br />
 15周年記念初回限定盤[CD+DVD+30cmLP] ・KICS-91787</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全10曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -542,7 +542,7 @@ DDDW-1001:アナログ盤</p></td>
 <td><p>通常盤・KICS-303<br />
 15周年記念初回限定盤[CD+DVD+36P写真集](LPサイズ特別仕様) ・KICS-93031</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全5曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -564,7 +564,7 @@ DDDW-1001:アナログ盤</p></td>
 <td><p>通常盤・KICS-3257<br />
 初回限定盤 [CD＋DVD＋PHOTO BOOKLET] ・KICS-93257</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全10曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -591,7 +591,7 @@ DDDW-1001:アナログ盤</p></td>
 <td><p>通常盤・KICS-3418<br />
 初回限定盤 [CD＋DVD＋フォトカード16枚](特製BOX・デジパック仕様)・KICS-93418</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全10曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -618,7 +618,7 @@ DDDW-1001:アナログ盤</p></td>
 <td><p>通常盤[2CD]・KICS-3516/7<br />
 初回限定盤 [2CD+DVD+52P写真集スペシャルパッケージ仕様]・KICS-93516/7</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全6+7曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -645,10 +645,44 @@ DDDW-1001:アナログ盤</p></td>
 </ol></td>
 <td><p>オリコン最高32位</p></td>
 </tr>
+<tr class="even">
+<td><p>12th</p></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/8月7日.md" title="wikilink">8月7日</a></p></td>
+<td><p><strong>2019</strong></p></td>
+<td><p>通常盤[CD]・KICS-3829<br />
+完全生産限定盤-PERFECT BOX- [CD+DVD+LP]・NKCD-6868</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全11曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<p>CD</p>
+<ol>
+<li>Gonna break it</li>
+<li>COWBOY PUNI-SHIT</li>
+<li>You'll see</li>
+<li>Rise Again</li>
+<li>Don't you worry</li>
+<li>Starlight</li>
+<li>It Ain't Easy</li>
+<li>For Now</li>
+<li>Don't Know What To Say…</li>
+<li>Long Time Comin</li>
+<li>Made Of Fire</li>
+</ol>
+<p>DVD</p>
+<ol>
+<li>「Starlight」Music Video</li>
+</ol>
+<p>LPはCDと同内容</p>
+</div>
+</div></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
-### VHS・DVD
+### VHS・DVD・Blu-ray
 
 <table>
 <thead>
@@ -723,7 +757,7 @@ WPBL-90002:DVD</p></td>
 <tr class="odd">
 <td><p>9th</p></td>
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a><a href="../Page/4月6日.md" title="wikilink">4月6日</a></p></td>
-<td><p><strong>TOUR 2015 -BEAUTIFUL NOW- at EX THEATER ROPPONGI</strong></p></td>
+<td><p><strong>INORAN TOUR 2015 -BEAUTIFUL NOW- at EX THEATER ROPPONGI</strong></p></td>
 <td><p>KIBM-90564〜7:DVD(初回生産限定版)<br />
 KIBM-568:DVD(通常版)</p></td>
 <td></td>
@@ -743,10 +777,18 @@ KIBM-568:DVD(通常版)</p></td>
 KIZB-281:DVD＋CD(通常版)</p></td>
 <td><p>SOLO 20TH ANNIVERSARY TOUR 2017 -INTENSE / MELLOW-＜B-DAY LIVE CODE929/2017＞at SHINKIBA STUDIO COAST ライブ映像<br />
 INORAN 20th DOCUMENTARY<br />
-CD：M1「I’m Here for you」、限定版M2「We've Lost Control」、通常版M2「Turn It Around」<br />
+CD：M1「I'm Here for you」、限定版M2「We've Lost Control」、通常版M2「Turn It Around」<br />
 PHOTOBOOK：スペインでの撮り下ろし写真他</p></td>
 </tr>
 <tr class="even">
+<td><p>12th</p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/2月26日.md" title="wikilink">2月26日</a></p></td>
+<td><p><strong>INORAN TOUR 2019 COWBOY PUNI-SHIT LIVE in TOKYO</strong></p></td>
+<td><p>KIXM-419:Blu-ray</p></td>
+<td><p>TOUR 2019「COWBOY PUNI-SHIT」〈B-DAY LIVE CODE929/2019〉at TSUTAYA O-EAST ライブ映像<br />
+【特典映像】「COWBOY PUNI-SHIT」Music Video、「Gonna break it」Dance Video</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -949,7 +991,7 @@ KICS-1770</p></td>
   - TOUR 2016 –Thank you-
       -
         2016年 9月2日 水戸LIGHT HOUSE / 9月4日 梅田CLUB QUATTRO / 9月8日 広島SECOND CRUTCH / 9月10日 熊本B.9 V2 / 9月11日 福岡DRUM Be-1 / 9月14日 仙台darwin / 9月16日 長野CLUB JUNK BOX / 9月17日 名古屋E.L.L. / 9月29日 新木場STUDIO COAST (B-DAY LIVE CODE929/2016)
-  - NO NAME? MEMBERS’ LIMITED LIVE -Solo 20th Anniversary Special-
+  - NO NAME? MEMBERS' LIMITED LIVE -Solo 20th Anniversary Special-
       -
         [2017年](../Page/2017年.md "wikilink") 5月3日 恵比寿LIQUIDROOM<sup>\*</sup>
   - [SUGIZO](../Page/SUGIZO.md "wikilink") vs INORAN PRESENTS BEST BOUT 2017〜L2/5〜
@@ -960,11 +1002,11 @@ KICS-1770</p></td>
         2017年 9月1日 長野CLUB JUNK BOX / 9月2日 新潟GOLDEN PIGS RED STAGE / 9月7日 広島SECOND CRUTCH / 9月8日 福岡DRUM Be-1 / 9月10日 熊本B.9 V1 / 9月12日 香川DIME / 9月14日 京都 磔磔 / 9月16日 梅田CLUB QUATTRO / 9月18日 名古屋E.L.L. / 9月21日 札幌cube garden / 9月23日 岩手CLUB CHANGE WAVE / 9月24日 仙台darwin / 9月29日 新木場STUDIO COAST (B-DAY LIVE CODE929/2017)
   - TOUR 2018 “Override 66”
       -
-        [2018年](../Page/2018年.md "wikilink") 9月14日 新宿BLAZE / 9月17日 梅田CLUB QUATTRO / 9月21日 仙台darwin / 9月24日 名古屋ElectricLadyLand / 9月29日 品川Stellar Ball<sup>\*</sup> (NO NAME? MEMBERS’ LIMITED LIVE – INORAN PREMIUM B-DAY –)
+        [2018年](../Page/2018年.md "wikilink") 9月14日 新宿BLAZE / 9月17日 梅田CLUB QUATTRO / 9月21日 仙台darwin / 9月24日 名古屋ElectricLadyLand / 9月29日 品川Stellar Ball<sup>\*</sup> (NO NAME? MEMBERS' LIMITED LIVE – INORAN PREMIUM B-DAY –)
   - TOUR 2018 -ENCORE-
       -
         2018年 12月27日 梅田Shangri-La
-  - NO NAME? MEMBERS’ LIMITED LIVE
+  - NO NAME? MEMBERS' LIMITED LIVE
       -
         2018年 12月30日 SHIBUYA duo -MUSIC EXCHANGE-<sup>\*</sup>
   - 2019 NEW YEAR PREMIUM ACOUSTIC LIVE
@@ -986,11 +1028,11 @@ KICS-1770</p></td>
   - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 11/12 - 2011年12月28日 幕張メッセ国際展示場
   - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2013 - 2013年8月2日 国営ひたち海浜公園
   - サロン・デル・マンガ＆日本文化 [アリカンテ](../Page/アリカンテ.md "wikilink") - 2018年4月7日 スペイン・アリカンテIFA（Institución Ferial Alicantina）
-  - [ap bank fes](https://ja.wikipedia.org/wiki/ap_bank_fes "wikilink") ’18 - 2018年7月15日 つま恋リゾート 彩の郷（RYUICHI, SUGIZO & INORAN　として）
+  - [ap bank fes](https://ja.wikipedia.org/wiki/ap_bank_fes "wikilink") '18 - 2018年7月15日 つま恋リゾート 彩の郷（RYUICHI, SUGIZO & INORAN　として）
   - HAPPY JACK 2019〜H-FINAL EDITION〜 【LIVE CIRCUIT】- 2019年3月16日 熊本B.9 V1
   - TAKASAKI ARENA LIVE FESTIVAL “GBGB2019”- 2019年6月29日 高崎アリーナ
   - FENDER CUSTOM SHOP EXPERIENCE - 2019年6月15日 ラフォーレミュージアム原宿
-  - TOKYO MX FES.2019 vol.2「[イケダンMAX](https://ja.wikipedia.org/wiki/イケダンMAX "wikilink")のつなげる つなげる つなげる」\[4\] \[5\] - 2019年9月18日、[豊洲PIT](https://ja.wikipedia.org/wiki/豊洲PIT "wikilink")
+  - TOKYO MX FES.2019 vol.2「[イケダンMAX](https://ja.wikipedia.org/wiki/イケダンMAX "wikilink")のつなげる つなげる つなげる」\[4\]\[5\] - 2019年9月18日、[豊洲PIT](https://ja.wikipedia.org/wiki/豊洲PIT "wikilink")
 
 ## サポートミュージシャン
 
@@ -1027,7 +1069,7 @@ KICS-1770</p></td>
   - [真矢](../Page/真矢_\(ドラマー\).md "wikilink")：ドラム
   - [葉山拓亮](../Page/葉山拓亮.md "wikilink")：ピアノ、キーボード
   - [笹川美和](https://ja.wikipedia.org/wiki/笹川美和 "wikilink")：ボーカル
-  - [SARAH](https://ja.wikipedia.org/wiki/SARAH（歌手） "wikilink")：ボーカル
+  - [SARAH](https://ja.wikipedia.org/wiki/SARAH_\(歌手\) "wikilink")：ボーカル
   - [NAI-WEN YANG](https://ja.wikipedia.org/wiki/NAI-WEN_YANG "wikilink")：ボーカル
   - [河村隆一](../Page/河村隆一.md "wikilink")：ボーカル
   - [OLIVIA](https://ja.wikipedia.org/wiki/OLIVIA_\(日本の歌手\) "wikilink")：ボーカル

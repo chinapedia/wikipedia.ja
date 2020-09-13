@@ -102,7 +102,7 @@
 
   - [ウォーハンマー40,000:スペースマリーン](https://ja.wikipedia.org/wiki/ウォーハンマー_\(ミニチュアゲーム\)#関連作品 "wikilink") (日本版は[サイバーフロント](../Page/サイバーフロント.md "wikilink")より発売） - [セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")に売却
 
-  - [NEXUiZ](https://ja.wikipedia.org/wiki/Nexuiz "wikilink")（[英語版記事](https://ja.wikipedia.org/wiki/w:Nexuiz_\(2012_video_game\) "wikilink")、日本未発売）
+  - [NEXUiZ](../Page/Nexuiz.md "wikilink")（[英語版記事](https://ja.wikipedia.org/wiki/w:Nexuiz_\(2012_video_game\) "wikilink")、日本未発売）
 
   - （[ユービーアイソフト](../Page/ユービーアイソフト.md "wikilink")によりIPが購入された後、2013年末に発売　※日本未発売）
 

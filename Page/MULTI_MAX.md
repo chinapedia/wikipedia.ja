@@ -619,7 +619,7 @@ MULTI MAX '89</strong></p></th>
   - [淺井ひろみ Official Web Site -Dear Friends'-](https://hiromi.himegimi.jp/)
   - [HIROMI オフィシャルブログ『この指と～まれ』](https://ameblo.jp/hiromi-asai/)
 
-[Category:CHAGE_and_ASKA](https://ja.wikipedia.org/wiki/Category:CHAGE_and_ASKA "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")
+[Category:CHAGE_and_ASKA](https://ja.wikipedia.org/wiki/Category:CHAGE_and_ASKA "wikilink") [Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:1989年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1989年に結成した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
 
 1.
 2.  「WINDY ROAD」はその後のライブで、演奏中に紙飛行機を飛ばすパフォーマンスが恒例になる。

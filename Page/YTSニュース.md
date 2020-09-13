@@ -36,7 +36,7 @@
   - 週末の夕方は『**[スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")YTSニュース**』として『ANNスーパーJチャンネル』全国ゾーン終了後の17:46頃より放送。
   - FNN系列時代は、『[FNNスピーク](../Page/FNNスピーク.md "wikilink")』や『[産経テレニュースFNN](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")』でも県内ニュースを伝えていた。また、昼ニュースは1992年3月27日まで『FNNスピーク（←[FNNニュースレポート11:30](../Page/FNNニュースレポート11:30.md "wikilink")）』全国パート終了後の11:48より放送。
 
-## 関連項目・番組
+## 関連項目
 
   - [YTSお昼のN天ステーション](../Page/YTSお昼のN天ステーション.md "wikilink")
   - [YTSイブニングワイド](../Page/YTSイブニングワイド.md "wikilink")

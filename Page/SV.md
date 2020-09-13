@@ -19,6 +19,7 @@
   - [遠隔表示](https://ja.wikipedia.org/wiki/遠隔表示 "wikilink") () - 有線遠隔監視システム
   - [活性汚泥沈殿率](https://ja.wikipedia.org/wiki/活性汚泥沈殿率 "wikilink") ()
   - [テクニカルエンジニア(情報セキュリティ)試験](../Page/テクニカルエンジニア\(情報セキュリティ\)試験.md "wikilink")の略語。[情報処理技術者試験](../Page/情報処理技術者試験.md "wikilink")の1区分。2008年度を最後に[情報セキュリティスペシャリスト試験](https://ja.wikipedia.org/wiki/情報セキュリティスペシャリスト試験 "wikilink")に統合され廃止。
+  - [補足投票](../Page/補足投票.md "wikilink")（Supplementary vote） - 投票方式の1つ。
 
 ### 固有名詞
 

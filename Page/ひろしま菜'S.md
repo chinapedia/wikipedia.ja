@@ -126,7 +126,7 @@
   - スタイリスト：荒谷薫
   - ヘアメイク：久保マサカズ
   - 広報：田村洋子
-  - 衣装協力：FLAXUS、[LUCA](https://ja.wikipedia.org/wiki/LUCA "wikilink")
+  - 衣装協力：FLAXUS、LUCA
   - 製作協力：OFFICE AT'S、ホームテレビ映像、オフィスJ、放送制作、ビデオワーク、ビー・クライム
   - プロデューサー：小田明子
   - 制作著作：広島ホームテレビ

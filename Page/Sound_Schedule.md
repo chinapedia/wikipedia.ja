@@ -311,6 +311,6 @@
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ヤマハミュージックコミュニケーションズのアーティスト](https://ja.wikipedia.org/wiki/Category:ヤマハミュージックコミュニケーションズのアーティスト "wikilink") [Category:兵庫県立大学出身の人物](https://ja.wikipedia.org/wiki/Category:兵庫県立大学出身の人物 "wikilink")
 
-1.  <http://www.soundschedule.net/other.php>
+1.
 2.  [ピーターパン・シンドローム](https://ja.wikipedia.org/wiki/ピーターパン・シンドローム "wikilink")を演奏。
 3.  Sound Shimodule(Bass下上貴弘)として出演。

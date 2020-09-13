@@ -231,7 +231,7 @@
 <strong>「Finally」</strong></p></td>
 <td><p>同曲を最後に<a href="https://ja.wikipedia.org/wiki/新垣寿子" title="wikilink">新垣寿子</a>が脱退。<br />
 <br />
-両曲共にBest Album『ORIGINAL TRACKS VOL.1』に収録。表題曲のみ、1st Album『DANCE TRACKS VOL.1』とBest Album『Finally』に収録され、前者はアルバム用に制作されたリミックス・ヴァージョンで、後者は新録ヴァージョンで収録。</p></td>
+両曲共にBest Album『ORIGINAL TRACKS VOL.1』に収録。表題曲のみ1st Album『DANCE TRACKS VOL.1』とBest Album『Finally』に収録され、前者はアルバム用に制作されたリミックス・ヴァージョンで、後者の『Finally』には新録ヴァージョンで収録。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -255,7 +255,7 @@
 <strong>「Finally」</strong></p></td>
 <td><p>この曲より松田律子、宮内玲奈が加入。<br />
 <br />
-両曲共にBest Album『ORIGINAL TRACKS VOL.1』に収録。表題曲のみ1st Album『DANCE TRACKS VOL.1』、Best Album『181920』と『Finally』に収録。表題曲の前者はアルバム用に制作されたリミックス・ヴァージョンで、後者の『Finally』には新録ヴァージョンで収録。</p></td>
+両曲共にBest Album『ORIGINAL TRACKS VOL.1』に収録。表題曲のみ1st Album『DANCE TRACKS VOL.1』、Best Album『181920』と『Finally』に収録。表題曲のみ1stアルバムのリミックス・ヴァージョンで、後者の『Finally』には新録ヴァージョンで収録。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -296,7 +296,7 @@
 <strong>「Finally」</strong></p></td>
 <td><p>この作品より単独での、ソロ初のシングルとなっているが、裏ジャケットには「<strong>安室奈美恵 with SUPER MONKEY'S</strong>」と記載。<br />
 <br />
-両曲共にBest Album『ORIGINAL TRACKS VOL.1』に収録。表題曲のみ1st Album『DANCE TRACKS VOL.1』、Best Album『181920』と『Finally』に収録。表題曲の前者はアルバム用に制作されたリミックス・ヴァージョンで、後者の『Finally』には新録ヴァージョンで収録。</p></td>
+両曲共に1st Album『DANCE TRACKS VOL.1』およびBest Album『ORIGINAL TRACKS VOL.1』に収録。表題曲のみ安室名義のBest Album『181920』と『Finally』に収録。1st Albumにはリミックス・ヴァージョンで、『Finally』には新録ヴァージョンで収録。</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -315,7 +315,7 @@
 <strong>「181920」</strong></p></td>
 <td><p>EMI在籍時代、最後のシングル。<br />
 <br />
-両曲共にBest Album『ORIGINAL TRACKS VOL.1』に収録。表題曲のみ1st Album『DANCE TRACKS VOL.1』、Best Album『181920』に収録。</p></td>
+両曲共にBest Album『ORIGINAL TRACKS VOL.1』に収録。表題曲のみ1st Album『DANCE TRACKS VOL.1』、Best Album『181920』に収録。1stアルバムにはリミックス・ヴァージョンが収録。</p></td>
 <td></td>
 <td></td>
 <td></td>

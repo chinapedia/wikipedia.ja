@@ -22,7 +22,7 @@
 ## 音楽関係
 
   - [DNA (川本真琴の曲)](../Page/DNA_\(川本真琴の曲\).md "wikilink") - [川本真琴](https://ja.wikipedia.org/wiki/川本真琴 "wikilink")の楽曲、シングル。
-  - [DNA](https://ja.wikipedia.org/wiki/LOVE_YOURSELF_承“Her”#MIC_Drop/DNA/Crystal_Snow "wikilink") - [防弾少年団](https://ja.wikipedia.org/wiki/防弾少年団 "wikilink")（BTS）のシングル[MIC Drop/DNA/Crystal Snowに収録されている楽曲](https://ja.wikipedia.org/wiki/LOVE_YOURSELF_承“Her”#MIC_Drop/DNA/Crystal_Snow "wikilink")。
+  - [DNA](https://ja.wikipedia.org/wiki/LOVE_YOURSELF_承“Her”#MIC_Drop/DNA/Crystal_Snow "wikilink") - [防弾少年団](https://ja.wikipedia.org/wiki/BTS_\(音楽グループ\) "wikilink")（BTS）のシングル[MIC Drop/DNA/Crystal Snowに収録されている楽曲](https://ja.wikipedia.org/wiki/LOVE_YOURSELF_承“Her”#MIC_Drop/DNA/Crystal_Snow "wikilink")。
   - [DNA (バンド)](../Page/DNA_\(バンド\).md "wikilink") - [アート・リンゼイ](../Page/アート・リンゼイ.md "wikilink")が結成した[バンド](../Page/バンド_\(音楽\).md "wikilink")。
 
 ### アルバム

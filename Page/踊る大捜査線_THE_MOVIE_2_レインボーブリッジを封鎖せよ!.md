@@ -1,13 +1,20 @@
 > この記事は[踊る大捜査線 THE MOVIE 2 レインボーブリッジを封鎖せよ!](https://ja.wikipedia.org/wiki/踊る大捜査線_THE_MOVIE_2_レインボーブリッジを封鎖せよ!)から翻訳されています。
 
 
-『**踊る大捜査線 THE MOVIE 2 レインボーブリッジを封鎖せよ\!**』（おどるだいそうさせん ザ ムービー ツー レインボーブリッジをふうさせよ）は、[2003年](../Page/2003年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")に公開された[日本映画](../Page/日本映画.md "wikilink")(実写)である。
+『**踊る大捜査線 THE MOVIE 2 レインボーブリッジを封鎖せよ\!**』（おどるだいそうさせん ザ ムービー ツー レインボーブリッジをふうさせよ）は、[2003年](../Page/2003年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")に公開された[日本映画](../Page/日本映画.md "wikilink")（実写）である。
 
 キャッチコピーは、**「」** **「**（彼が戻ってきた）**」** **「現場に正義を。」**（青島） **「所轄に愛を。」**（すみれ・和久） **「捜査に信念を。」**（雪乃・真下） **「接待にモナカを。」**（室井・スリーアミーゴス）
 
 ## 概要
 
 [フジテレビの連続](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[踊る大捜査線](../Page/踊る大捜査線.md "wikilink")』の劇場版第2作。スタッフからの略称はOD2。日本国内での観客動員数1260万人、[興行収入](../Page/興行収入.md "wikilink")173.5億円で、2003年の国内劇場公開映画の[興行収入](../Page/興行収入.md "wikilink")第1位を記録した\[1\]。これは、**実写邦画歴代興行収入第1位**、邦画歴代興行収入でも第5位の記録である（2020年現在）\[2\]。本映画のヒット後、再編集・再録音された『[踊る大捜査線 BAYSIDE SHAKEDOWN 2](https://ja.wikipedia.org/wiki/#踊る大捜査線_BAYSIDE_SHAKEDOWN_2 "wikilink")』が制作され、上映された。劇中の設定は、2003年11月22日から24日の3日間である。
+
+### テレビ放映
+
+  - [2005年](../Page/2005年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink") [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビ系 "wikilink")にて地上波初登場(視聴率18.8%)
+  - [2005年](../Page/2005年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink") 同局の[プレミアムステージ](https://ja.wikipedia.org/wiki/プレミアムステージ "wikilink")にて完全版初放送(視聴率26.7%)
+  - [2007年](../Page/2007年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")｢10th anniversary特別企画｣と題して同局の[土曜プレミアム](../Page/土曜プレミアム.md "wikilink")にて完全版を放送(視聴率23.9%)
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月17日](../Page/7月17日.md "wikilink")｢[踊る大捜査線 THE MOVIE3 ヤツらを解放せよ\!](https://ja.wikipedia.org/wiki/踊る大捜査線_THE_MOVIE3_ヤツらを解放せよ! "wikilink")｣満員御礼記念として[土曜プレミアム](../Page/土曜プレミアム.md "wikilink")にて放送(視聴率19.7%)
 
 ## ストーリー
 
@@ -42,7 +49,7 @@
   - りつ子の上司 - [高嶋ちさ子](../Page/高嶋ちさ子.md "wikilink")
   - スリ一家：母親 - [山下裕子](../Page/山下裕子.md "wikilink")、父親 - [原田修一](https://ja.wikipedia.org/wiki/原田修一 "wikilink")、長男 - [神木隆之介](https://ja.wikipedia.org/wiki/神木隆之介 "wikilink")、里佳子 - [向井地美音](../Page/向井地美音.md "wikilink")
   - 噛み付き魔の被害者の女子高校生 - [小松彩夏](https://ja.wikipedia.org/wiki/小松彩夏 "wikilink")
-  - ガールズ7 - [橘凛](https://ja.wikipedia.org/wiki/橘凛 "wikilink")、[津乃村真子](https://ja.wikipedia.org/wiki/津乃村真子 "wikilink")、[千崎若菜](../Page/千崎若菜.md "wikilink")、[広澤草](../Page/広澤草.md "wikilink")、[川田希](https://ja.wikipedia.org/wiki/川田希 "wikilink")、[柴田かよこ](../Page/柴田かよこ.md "wikilink")、[木村陽子](https://ja.wikipedia.org/wiki/木村陽子 "wikilink")
+  - ガールズ7 - [橘凛](https://ja.wikipedia.org/wiki/橘凛 "wikilink")、[津乃村真子](https://ja.wikipedia.org/wiki/津乃村真子 "wikilink")、[千崎若菜](../Page/千崎若菜.md "wikilink")、[広澤草](../Page/広澤草.md "wikilink")、[川田希](https://ja.wikipedia.org/wiki/川田希 "wikilink")、[柴田かよこ](../Page/柴田かよこ.md "wikilink")、[木村陽子](https://ja.wikipedia.org/wiki/木村陽子_\(女優\) "wikilink")
   - 事務職員 - [近江谷太郎](https://ja.wikipedia.org/wiki/近江谷太郎 "wikilink")
   - 小池茂（監視モニター室オペレーター・警察庁[情報通信局](../Page/情報通信局.md "wikilink")付技術捜査官） - [小泉孝太郎](../Page/小泉孝太郎.md "wikilink")
   - 江戸りつ子 - [小西真奈美](https://ja.wikipedia.org/wiki/小西真奈美 "wikilink")

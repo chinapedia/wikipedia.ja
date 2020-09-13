@@ -5,11 +5,11 @@
 
 ## 概要
 
-1989年6月に東名阪で初の単独公演『B'z LIVE-GYM \#00 "OFF THE ROCK"』開催後、「作品づくり」と「ツアー」はB'zの主な活動になっている\[1\]。これまでに[ライブハウス](../Page/ライブハウス.md "wikilink")から[ホール](../Page/コンサートホール.md "wikilink")、[アリーナ](../Page/アリーナ.md "wikilink")、[ドーム](https://ja.wikipedia.org/wiki/ドーム球場#コンサート会場としてのドーム球場 "wikilink")、[スタジアム](../Page/スタジアム.md "wikilink")まで規模の異なる会場でライブを開催しており、日本国外でのライブも開催している。また、[ロック・フェスティバル](../Page/ロック・フェスティバル.md "wikilink")などの[イベント](../Page/イベント.md "wikilink")に出演する機会もある。
+1989年6月に[東名阪で初の単独公演](https://ja.wikipedia.org/wiki/三大都市圏 "wikilink")『B'z LIVE-GYM \#00 "OFF THE ROCK"』開催後、「作品づくり」と「ツアー」はB'zの主な活動になっている\[1\]。これまでに[ライブハウス](../Page/ライブハウス.md "wikilink")から[ホール](../Page/コンサートホール.md "wikilink")、[アリーナ](../Page/アリーナ.md "wikilink")、[ドーム](https://ja.wikipedia.org/wiki/ドーム球場#コンサート会場としてのドーム球場 "wikilink")、[スタジアム](../Page/スタジアム.md "wikilink")まで規模の異なる会場でライブを開催しており、日本国外でのライブも開催している。また、[ロック・フェスティバル](../Page/ロック・フェスティバル.md "wikilink")などの[イベント](../Page/イベント.md "wikilink")に出演する機会もある。
 
-「LIVE-GYM」という名称については、当時所属していたレコード会社「[BMGビクター](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")」がB'zのライブに相応しい呼び名を考えたとしている\[2\]\[3\]。
+「LIVE-GYM」という名称については、当時所属していたレコード会社『[BMGビクター](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")』がB'zのライブに相応しい呼び名を考えたとしている\[2\]\[3\]。
 
-2017年にB'zのコンサート情報、チケット販売情報ウェブサイト「B'z Club-Gym」を開設した\[4\]。名称については「LIVE-GYM」にちなんでおり、他には[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")を務めた「[B'z WAVE-GYM](../Page/B'z_WAVE-GYM.md "wikilink")」やファンクラブイベント「[B'z VIDEO-GYM](https://ja.wikipedia.org/wiki/B'z_Party#B'z_VIDEO-GYM_#01 "wikilink")」、30周年記念イベント「[B'z Loud-Gym](https://ja.wikipedia.org/wiki/B'z_Loud-Gym "wikilink")」がある。
+2017年にB'zのコンサート情報、チケット販売情報ウェブサイト『B'z Club-Gym』を開設した\[4\]。名称については「LIVE-GYM」にちなんでおり、他には[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")を務めた『[B'z WAVE-GYM](../Page/B'z_WAVE-GYM.md "wikilink")』や公式ファンクラブイベント『[B'z VIDEO-GYM](https://ja.wikipedia.org/wiki/B'z_Party#ファンクラブイベント "wikilink")』、30周年記念イベント『[B'z Loud-Gym](https://ja.wikipedia.org/wiki/B'z_Loud-Gym "wikilink")』がある。
 
 ## ライブの種類
 
@@ -19,7 +19,7 @@
 
 ### Pleasureツアー
 
-Pleasureツアーは、オリジナル・アルバムの発売がないところで開催するライブ・シリーズであり、タイトルは8thシングル「[LADY NAVIGATION](../Page/LADY_NAVIGATION.md "wikilink")」の2nd beat（[カップリング](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")）「Pleasure '91 〜人生の快楽〜」に由来している\[5\]。1991年に『B'z LIVE-GYM "Pleasure '91"』を開催した当初はメンバーもスタッフもシリーズ化するかはわからなかったが、シリーズ化に伴って1992年の『B'z LIVE-GYM Pleasure '92 "TIME"』からPleasureの後にタイトルが付くようになった。かつて松本は「デビューからその時点までをグッと凝縮して表すのが、毎年のPleasureだと解釈している。その点では、B'zが次の新しいステップに踏み出すためのスプリング・ボードのような存在だと思う」と述べている。その後、1993年、1995年、1997年、2000年とPleasureシリーズを開催してきたが、デビュー15周年となる2003年の『B'z LIVE-GYM The Final Pleasure "IT'S SHOWTIME\!\!"』を以って一旦封印した。このことについて松本は、「長くやってくうちに、アルバム・ツアーとの変化がなくなってきちゃったんですよね。“Pleasure”とあんまり変わらないじゃん、ってなってきて。それで、定期的にやるのがちょっと重くなってたのかもしれないですね」と述べている。デビュー20周年となる2008年に『B'z LIVE-GYM Pleasure 2008 -GLORY DAYS-』を開催し、稲葉は「この5年で、古い曲とか含めてずっとやらない曲も増えてきましたから。Finalした時は、ニューアルバムと半分はヒットパレードみたいな感じになりがちだったんで、それじゃない曲達にスポットを当てられるようになったんです。それが今違和感なく出来るんで、その陰で、昔のメジャーな曲をやらなくなってるのも多いので、今度のPleasureがちょうどいい感じで出来そうな気がします\[6\]」と述べており、以後の「Pleasureシリーズ」は5年ごとの開催になっている\[7\]。
+Pleasureツアーは、オリジナル・アルバムの発売がないところで開催するライブ・シリーズであり、タイトルは8thシングル『[LADY NAVIGATION](../Page/LADY_NAVIGATION.md "wikilink")』の2nd beat（[カップリング](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")）「Pleasure '91 〜人生の快楽〜」に由来している\[5\]。1991年に『B'z LIVE-GYM "Pleasure '91"』を開催した当初はメンバーもスタッフもシリーズ化するかはわからなかったが、シリーズ化に伴って1992年の『B'z LIVE-GYM Pleasure '92 "TIME"』からPleasureの後にタイトルが付くようになった。かつて松本は「デビューからその時点までをグッと凝縮して表すのが、毎年のPleasureだと解釈している。その点では、B'zが次の新しいステップに踏み出すためのスプリング・ボードのような存在だと思う」と述べている。その後、1993年、1995年、1997年、2000年とPleasureシリーズを開催してきたが、デビュー15周年となる2003年の『B'z LIVE-GYM The Final Pleasure "IT'S SHOWTIME\!\!"』を以って一旦封印した。このことについて松本は、「長くやってくうちに、アルバム・ツアーとの変化がなくなってきちゃったんですよね。“Pleasure”とあんまり変わらないじゃん、ってなってきて。それで、定期的にやるのがちょっと重くなってたのかもしれないですね」と述べている。デビュー20周年となる2008年に『B'z LIVE-GYM Pleasure 2008 -GLORY DAYS-』を開催し、稲葉は「この5年で、古い曲とか含めてずっとやらない曲も増えてきましたから。Finalした時は、ニューアルバムと半分はヒットパレードみたいな感じになりがちだったんで、それじゃない曲達にスポットを当てられるようになったんです。それが今違和感なく出来るんで、その陰で、昔のメジャーな曲をやらなくなってるのも多いので、今度のPleasureがちょうどいい感じで出来そうな気がします\[6\]」と述べており、以後の「Pleasureシリーズ」は5年ごとの開催になっている\[7\]。
 
 ### SHOWCASE
 

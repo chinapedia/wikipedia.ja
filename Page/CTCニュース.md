@@ -25,7 +25,7 @@
 
 ## 関連項目
 
-  - CTCニュース 930ライフ
+  - [CTCニュース 930ライフ](../Page/CTCニュース_930ライフ.md "wikilink")
   - [ニュースC-MASTER](https://ja.wikipedia.org/wiki/ニュースC-MASTER "wikilink")
   - [スポットニュース](../Page/スポットニュース.md "wikilink")
 

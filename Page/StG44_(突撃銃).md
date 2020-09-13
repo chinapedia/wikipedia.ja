@@ -61,7 +61,7 @@ MKb42(H)は、MP43/1という過渡期の形状を経て、名称を**Maschinenp
 
 ### StG44
 
-[Bundesarchiv_Bild_183-1985-0104-501,_Ardennenoffensive,_Grenadiere_in_Luxemburg.jpg](https://ja.wikipedia.org/wiki/File:Bundesarchiv_Bild_183-1985-0104-501,_Ardennenoffensive,_Grenadiere_in_Luxemburg.jpg "fig:Bundesarchiv_Bild_183-1985-0104-501,_Ardennenoffensive,_Grenadiere_in_Luxemburg.jpg")でのドイツ兵\]\] [G3_and_StG44.jpg](https://ja.wikipedia.org/wiki/File:G3_and_StG44.jpg "fig:G3_and_StG44.jpg") 1944年春、MP43は**MP44**や**Gewehr 44**という名称を経て、**Sturmgewehr 44**（44年式突撃銃）すなわちStG44と改称された\[15\]。"Sturmgewehr"（突撃銃）という用語は新しい種別の小銃であることを強調する宣伝的な名称として、ヒトラー自身が考案したとも言われている。
+[Bundesarchiv_Bild_183-1985-0104-501,_Ardennenoffensive,_Grenadiere_in_Luxemburg.jpg](https://ja.wikipedia.org/wiki/File:Bundesarchiv_Bild_183-1985-0104-501,_Ardennenoffensive,_Grenadiere_in_Luxemburg.jpg "fig:Bundesarchiv_Bild_183-1985-0104-501,_Ardennenoffensive,_Grenadiere_in_Luxemburg.jpg")でのドイツ兵\]\] [G3_and_StG44.jpg](https://ja.wikipedia.org/wiki/File:G3_and_StG44.jpg "fig:G3_and_StG44.jpg") [Bundesarchiv_Bild_183-J28344,_Westfront,_Grenadiere_gehen_bei_Aachen_vor.jpg](https://ja.wikipedia.org/wiki/File:Bundesarchiv_Bild_183-J28344,_Westfront,_Grenadiere_gehen_bei_Aachen_vor.jpg "fig:Bundesarchiv_Bild_183-J28344,_Westfront,_Grenadiere_gehen_bei_Aachen_vor.jpg") 1944年春、MP43は**MP44**や**Gewehr 44**という名称を経て、**Sturmgewehr 44**（44年式突撃銃）すなわちStG44と改称された\[15\]。"Sturmgewehr"（突撃銃）という用語は新しい種別の小銃であることを強調する宣伝的な名称として、ヒトラー自身が考案したとも言われている。
 
 StG44はほとんどが陸軍部隊に配備されたが、[武装親衛隊](../Page/武装親衛隊.md "wikilink")でも使用された\[16\]。戦利品としての人気も高く、[バストーニュの戦い](https://ja.wikipedia.org/wiki/バストーニュの戦い "wikilink")の際には鹵獲したStG44を愛用したアメリカ兵がいたと伝えられている。
 
@@ -78,6 +78,8 @@ krummer Lauf（クルマー ラウフ）または Krummlauf（クルムラウフ
 [モーゼル](../Page/モーゼル.md "wikilink")は、[ローラー遅延式ブローバック方式を採用した](https://ja.wikipedia.org/wiki/ブローバック#ローラー遅延式 "wikilink")[StG45](https://ja.wikipedia.org/wiki/StG45 "wikilink")(M)の[プロトタイプ](../Page/プロトタイプ.md "wikilink")を開発していた。これらは後に、[セトメ・ライフル](https://ja.wikipedia.org/wiki/セトメ・ライフル "wikilink")、[H\&K](../Page/ヘッケラー&コッホ.md "wikilink") [G3および](../Page/H&K_G3.md "wikilink")[MP5に引き継がれた](../Page/H&K_MP5.md "wikilink")。
 
 終戦の直前に、さらに安価に量産するための土壇場の努力がなされた。これは、[国民突撃銃](https://ja.wikipedia.org/wiki/国民突撃銃 "wikilink")（Volkssturmgewehr, VG）と呼ばれ、そのプロトタイプのうち、いくつかはガス・ブローバック方式を採用していた。
+
+[Volkssturm_Gewehr_VG_1-5.JPG](https://ja.wikipedia.org/wiki/File:Volkssturm_Gewehr_VG_1-5.JPG "fig:Volkssturm_Gewehr_VG_1-5.JPG")
 
 ### 戦後
 

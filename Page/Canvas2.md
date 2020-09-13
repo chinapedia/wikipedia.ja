@@ -329,7 +329,7 @@ Canvas2 〜虹色のスケッチ〜</p></th>
   - 色彩設定 - 片山由美子
   - 編集 - 内田恵
   - 音響監督 - [岩浪美和](../Page/岩浪美和.md "wikilink")
-  - 音楽 - [ドアーズ・ミュージック・エンタテインメント](../Page/DOORS_MUSIC_ENTERTAINMENT.md "wikilink")、[4-EVER](https://ja.wikipedia.org/wiki/4-EVER "wikilink")
+  - 音楽 - [ドアーズ・ミュージック・エンタテインメント](../Page/DOORS_MUSIC_ENTERTAINMENT.md "wikilink")、[4-EVER](../Page/4-EVER.md "wikilink")
   - 音楽プロデューサー - [かなすぎはじめ](https://ja.wikipedia.org/wiki/金杉はじめ "wikilink")
   - 音楽制作 - [TYRELL LAB](https://ja.wikipedia.org/wiki/タイレルラボラトリー "wikilink")、[ブロッコリー](../Page/ブロッコリー_\(企業\).md "wikilink")
   - プロデューサー - 立崎孝史、鈴木智子、田中壮明、松林正人、中野葉子、川﨑とも子
@@ -657,7 +657,7 @@ KIM SOON YEON<br />
   -
   - [バンダイチャンネル](https://www.b-ch.com/titles/595/)
 
-  - [Canvas2 〜虹色のスケッチ〜 PS2版](http://web.archive.org/web/20140820164153/http://www.kadokawa.co.jp/game/game/canvas2/index.html)
+  - [Canvas2 〜虹色のスケッチ〜 PS2版](https://web.archive.org/web/20140820164153/http://www.kadokawa.co.jp/game/game/canvas2/index.html)
 
 [Category:F\&Cのゲームソフト](https://ja.wikipedia.org/wiki/Category:F&Cのゲームソフト "wikilink") [Category:2004年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2004年のアダルトゲーム "wikilink") [Category:テレビアニメ化されたアダルトゲーム](https://ja.wikipedia.org/wiki/Category:テレビアニメ化されたアダルトゲーム "wikilink") [Category:DVDPG](https://ja.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:角川書店のゲームソフト](https://ja.wikipedia.org/wiki/Category:角川書店のゲームソフト "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:教師を主人公としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:教師を主人公としたコンピュータゲーム "wikilink") [Category:学校を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:学校を舞台としたコンピュータゲーム "wikilink") [Category:絵画を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:絵画を題材としたコンピュータゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:漫画作品_き](https://ja.wikipedia.org/wiki/Category:漫画作品_き "wikilink") [Category:月刊少年エースの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊少年エースの漫画作品 "wikilink") [Category:月刊コンプエース](https://ja.wikipedia.org/wiki/Category:月刊コンプエース "wikilink") [Category:教師を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:教師を主人公とした漫画作品 "wikilink") [Category:ファミ通文庫](https://ja.wikipedia.org/wiki/Category:ファミ通文庫 "wikilink") [Category:教師を主人公とした小説](https://ja.wikipedia.org/wiki/Category:教師を主人公とした小説 "wikilink") [Category:いとこの恋愛を扱った作品](https://ja.wikipedia.org/wiki/Category:いとこの恋愛を扱った作品 "wikilink")
 

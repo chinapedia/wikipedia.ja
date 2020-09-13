@@ -131,6 +131,7 @@
 | [2017-18](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2017-2018 "wikilink") | セリエA                                        | 38                                         |
 | [2018-19](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2018-2019 "wikilink") | セリエA                                        | 38                                         |
 | [2019-20](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2019-2020 "wikilink") | セリエA                                        | 38                                         |
+| [2020-21](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2020-2021 "wikilink") | セリエA                                        | 38                                         |
 
 ## 歴代会長
 

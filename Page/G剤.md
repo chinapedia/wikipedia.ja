@@ -13,6 +13,6 @@ G剤には、[タブン](../Page/タブン.md "wikilink")・[サリン](../Page/
 
 ## 脚注
 
-[Category:神経ガス](https://ja.wikipedia.org/wiki/Category:神経ガス "wikilink") [Category:有機リン化合物](https://ja.wikipedia.org/wiki/Category:有機リン化合物 "wikilink") [Category:コリンエステラーゼ阻害薬](https://ja.wikipedia.org/wiki/Category:コリンエステラーゼ阻害薬 "wikilink")
+[Category:化学兵器](https://ja.wikipedia.org/wiki/Category:化学兵器 "wikilink") [Category:神経ガス](https://ja.wikipedia.org/wiki/Category:神経ガス "wikilink") [Category:有機リン化合物](https://ja.wikipedia.org/wiki/Category:有機リン化合物 "wikilink") [Category:コリンエステラーゼ阻害薬](https://ja.wikipedia.org/wiki/Category:コリンエステラーゼ阻害薬 "wikilink") [Category:G剤](https://ja.wikipedia.org/wiki/Category:G剤 "wikilink")
 
 1.  [神経剤 (Nerve Agents) 国立医薬品食品衛生研究所](http://www.nihs.go.jp/hse/c-hazard/bc-info/cagent/nerve.html)

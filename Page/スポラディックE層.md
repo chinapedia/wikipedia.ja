@@ -75,16 +75,16 @@ Eスポによる最長の伝播距離は1500Km以内になる。
 
 ## 外部リンク
 
-  - [日本国内の電離層観測データ（独立行政法人 情報通信研究機構）](http://wdc-c2.nict.go.jp/ISDJ/index.html)
-  - \[<http://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/>.../1/sgepss_2014_oral.pdf GPS-TECによる中緯度スポラディックEの空間構造の観測\]
-  - [観測ロケットS-520-29号機「スポラディックE層空間構造の立体観測実験](http://www.isas.jaxa.jp/j/topics/topics/2014/0618_rocket.shtml)
-  - [電波の異常伝搬によるテレビの受信障害](http://www.soumu.go.jp/soutsu/kanto/bc/shogai/izyou/)
-  - [スポラディックE層によるテレビ受信障害の現状とその対策](http://ci.nii.ac.jp/naid/110003685852)
-  - [sporadic-E propagation at VHF](http://www.uksmg.org/content/sporade.htm)
+  - [日本国内の電離層観測データ（独立行政法人 情報通信研究機構）](https://wdc-c2.nict.go.jp/ISDJ/index.html)
+  - [GPS-TECによる中緯度スポラディックEの空間構造の観測](https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/58217)
+  - [観測ロケットS-520-29号機「スポラディックE層空間構造の立体観測実験](https://www.isas.jaxa.jp/j/topics/topics/2014/0618_rocket.shtml)
+  - [電波の異常伝搬によるテレビの受信障害](https://www.soumu.go.jp/soutsu/kanto/bc/shogai/izyou/)
+  - [スポラディックE層によるテレビ受信障害の現状とその対策](https://ci.nii.ac.jp/naid/110003685852)
+  - [sporadic-E propagation at VHF](https://www.uksmg.org/content/sporade.htm)
   - [Sporadic E and sudden neutral layers](http://www.irf.se/upatm/old_020302/se.html)
-  - [Suporadic E samarry](http://www.mmmonvhf.de/es.php)
+  - [Suporadic E samarry](https://www.mmmonvhf.de/es.php)
 
 [Category:無線工学](https://ja.wikipedia.org/wiki/Category:無線工学 "wikilink") [Category:大気電磁現象](https://ja.wikipedia.org/wiki/Category:大気電磁現象 "wikilink")
 
 1.  [関東総合通信局 \> 放送 \> 電波の異常伝搬によるテレビの受信障害](http://www.soumu.go.jp/soutsu/kanto/bc/shogai/izyou/)
-2.  NHKではかつて、テレビ放送に1 - 3チャンネルを使用している地域などに向け『(Eスポの影響が無い)周辺のUHF中継局を受信する様に』と案内していた。民放でも同様に1 - 3チャンネルを使用している放送局では、画面に“外国電波の影響により、一部で受信困難な地域が発生しております…”等とテロップを入れることがあった。
+2.  NHKではかつて、テレビ放送に1 - 3チャンネルを使用している地域などに向け『(UHF中継局が受信できる場合は、Eスポの影響が無い)周辺のUHF中継局を受信する様に』と案内していた。民放でも同様に1 - 3チャンネルを使用している放送局では、画面に“外国電波の影響により、一部で受信困難な地域が発生しております…”等とテロップを入れることがあった。

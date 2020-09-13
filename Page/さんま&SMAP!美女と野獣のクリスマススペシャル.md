@@ -93,7 +93,7 @@
       - [中居正広](../Page/中居正広.md "wikilink")
       - [木村拓哉](../Page/木村拓哉.md "wikilink")
       - [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")
-      - [草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")
+      - [草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")
       - [香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")
 
 ### 進行アシスタント
@@ -518,7 +518,7 @@ X'masプレゼント交換会<br />
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a>（JRT）</p></td>
+<td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a>（JRT）</p></td>
 <td></td>
 <td></td>
 <td></td>

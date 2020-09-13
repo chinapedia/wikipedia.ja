@@ -41,7 +41,7 @@
       - Pallet（[近藤佳奈子](../Page/近藤佳奈子.md "wikilink")・[三好りえ](../Page/三好りえ.md "wikilink")・[阿部玲子](../Page/阿部玲子.md "wikilink")・依田恵理子）
 
   - Cafe de KATAYOSE
-    ダーク片寄が主に女性声優にインタビューするという文化放送A\&Gサイトのメールマガジンで掲載されていたコーナーのBSQR489版の放送。ダーク片寄が文化放送の編成部長に人事異動することとなりコーナーが続けられなくなり終了した。eXtendedMusicでは[名塚佳織](../Page/名塚佳織.md "wikilink")、[朴璐美](../Page/朴ロ美.md "wikilink")、[白石涼子](https://ja.wikipedia.org/wiki/白石涼子 "wikilink")、[浅野真澄](../Page/浅野真澄.md "wikilink")、[豊口めぐみ](../Page/豊口めぐみ.md "wikilink")のインタビューを放送した。
+    ダーク片寄が主に女性声優にインタビューするという文化放送A\&Gサイトのメールマガジンで掲載されていたコーナーのBSQR489版の放送。ダーク片寄が文化放送の編成部長に人事異動することとなりコーナーが続けられなくなり終了した。eXtendedMusicでは[名塚佳織](../Page/名塚佳織.md "wikilink")、[朴璐美](../Page/朴璐美.md "wikilink")、[白石涼子](https://ja.wikipedia.org/wiki/白石涼子 "wikilink")、[浅野真澄](../Page/浅野真澄.md "wikilink")、[豊口めぐみ](../Page/豊口めぐみ.md "wikilink")のインタビューを放送した。
 
   - バロン大野のアニメってほんとにイイですねぇ
 
@@ -302,11 +302,11 @@
 
 [Category:超\!A\&G+](https://ja.wikipedia.org/wiki/Category:超!A&G+ "wikilink") [Category:文化放送の音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:文化放送の音楽番組の歴史 "wikilink") [Category:デジタルラジオ](https://ja.wikipedia.org/wiki/Category:デジタルラジオ "wikilink")
 
-1.  [Twitter / amusicstream: 宣伝になるかもですけど。A-MusicStreamの ...](http://web.archive.org/web/20140903060322/https://twitter.com/amusicstream/statuses/239416705284198400?lang=ja)（Webアーカイブ）
+1.  [Twitter / amusicstream: 宣伝になるかもですけど。A-MusicStreamの ...](https://web.archive.org/web/20140903060322/https://twitter.com/amusicstream/statuses/239416705284198400?lang=ja)（Webアーカイブ）
 2.  2008年7月19日放送分の発言。
 3.  これに関しては、原口本人も放送やTwitterで「BSQR時代が戻ったような気もする」と発言している。
-4.  [Twitter / amusicstream: 回数表を眺めていて、いわゆる10分で本編スタート、という回数 ...](http://web.archive.org/web/20140903234835/https://twitter.com/amusicstream/status/486877432167669761?lang=ja)（Webアーカイブ）
-5.  [Twitter / amusicstream: 話戻って最初の10分。しゃべっていたのは苦肉の策。映像で文字 ...](http://web.archive.org/web/20140817063528/https://twitter.com/amusicstream/status/486885139306143744?lang=ja)（Webアーカイブ）
+4.  [Twitter / amusicstream: 回数表を眺めていて、いわゆる10分で本編スタート、という回数 ...](https://web.archive.org/web/20140903234835/https://twitter.com/amusicstream/status/486877432167669761?lang=ja)（Webアーカイブ）
+5.  [Twitter / amusicstream: 話戻って最初の10分。しゃべっていたのは苦肉の策。映像で文字 ...](https://web.archive.org/web/20140817063528/https://twitter.com/amusicstream/status/486885139306143744?lang=ja)（Webアーカイブ）
 6.  これに関しては原口がかつてTwitterで地上波復帰時の曲が途中で切れることに対して苦言を呈する事が度々あったため、それが影響してる可能性もあるが実際の所は不明。
 7.  2019年度以降は文化放送の制作で[福井放送](../Page/福井放送.md "wikilink")\<FBCラジオ、2019年度まで\>・[山口放送](../Page/山口放送.md "wikilink")<KRYラジオ>への[裏送り](../Page/裏送り.md "wikilink")に変更されている。
 8.  <https://radio-net.jp/nrnnighter.html>

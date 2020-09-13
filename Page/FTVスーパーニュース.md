@@ -384,7 +384,7 @@
 
   - 18:17ごろ冒頭に出るオープニングタイトルは、2009年3月30日の放送からは「情熱スクープ」と出た後に「FTVスーパーニュース」と出るオープニングが月曜から木曜までは中央にて表示、金曜のみは左下にて表示されていたが、2010年3月29日の放送からスーパーニュースのロゴ変更などもあり、右下表示となった。2009年以前も左下に表示されるケースが多かった。
   - 2007年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から使われているセットは、[石川テレビで現在使われている](../Page/石川テレビ放送.md "wikilink")『[石川テレビスーパーニュース](../Page/石川テレビスーパーニュース.md "wikilink")』のセットとほぼ同じようなデザインである。どちらもHD対応。2009年3月30日からはセットの右側部分のみ新しいものに作り替えられている。
-  - [2011年](../Page/2011年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")に東日本大震災が発生し、これにより福島県にある福島第1原子力発電所から放射性物質が出た影響で、新潟県に避難した福島県民もいた。これに伴い、同じFNS・FNN系列のNST[新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")は、新潟県に避難中の福島県民向けに、同年3月22日から4月29日まで平日16:45から10分間、この番組の福島ローカル部分のダイジェスト放送を、「福島テレビニュース」として放送した。
+  - [2011年](../Page/2011年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")に東日本大震災が発生し、これにより福島県にある福島第1原子力発電所から放射性物質が出た影響で、新潟県に避難した福島県民もいた。これに伴い、同じFNS・FNN系列の[NST新潟総合テレビ](../Page/NST新潟総合テレビ.md "wikilink")は、新潟県に避難中の福島県民向けに、同年3月22日から4月29日まで平日16:45から10分間、この番組の福島ローカル部分のダイジェスト放送を、「福島テレビニュース」として放送した。
 
 ## 脚注
 
@@ -419,6 +419,6 @@
   - [FTVスーパーニュース（2011年度）](http://www.fukushima-tv.co.jp/jisya/ftvsn2011/sn_index.htm)
   - [FTVスーパーニュース：番組情報](http://www.fukushima-tv.co.jp/program/supernews.html)
 
-[Category:1998年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のテレビ番組_\(日本\) "wikilink") [Category:福島テレビ番組](https://ja.wikipedia.org/wiki/Category:福島テレビ番組 "wikilink") [Category:東北地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの帯番組 "wikilink") [Category:東北地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:東北地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:FNNスーパーニュース](https://ja.wikipedia.org/wiki/Category:FNNスーパーニュース "wikilink")
+[Category:1998年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のテレビ番組_\(日本\) "wikilink") [Category:福島テレビの番組](https://ja.wikipedia.org/wiki/Category:福島テレビの番組 "wikilink") [Category:東北地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの帯番組 "wikilink") [Category:東北地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:東北地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:FNNスーパーニュース](https://ja.wikipedia.org/wiki/Category:FNNスーパーニュース "wikilink")
 
 1.  2018年4月より『FTVテレポートプラス』を開始し「テレポート」の名称が復活する。

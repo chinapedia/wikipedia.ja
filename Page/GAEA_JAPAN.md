@@ -9,7 +9,7 @@
 
 ## 歴史
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月15日](../Page/4月15日.md "wikilink")、[後楽園ホール](../Page/後楽園ホール.md "wikilink")で旗揚げ戦を開催。代表に[杉山由果](https://ja.wikipedia.org/wiki/杉山由果 "wikilink")、統括に[木村一廊](https://ja.wikipedia.org/wiki/木村一廊 "wikilink")（後に代表に就任）が就任して選手代表の[長与千種](../Page/長与千種.md "wikilink")とのトロイカ体制で発進。旗揚げ当時は長与、[KAORU](../Page/KAORU_\(プロレスラー\).md "wikilink")（元[全日本女子プロレス](../Page/全日本女子プロレス.md "wikilink")）、[ボンバー光](https://ja.wikipedia.org/wiki/ボンバー光 "wikilink")（元[ジャパン女子プロレス](../Page/ジャパン女子プロレス.md "wikilink")）の3人しか選手経験がなく他は約1年掛けて育てた新人選手しかいなかった。しかし新人選手しかいないという状況を逆手に取り寮での合宿で徹底的にプロレスを教え込んだ上でデビューさせて新人選手らしからぬ試合展開に「脅威の新人」と呼ばれた（ただし、それ以降の新人選手の印象が一部を除き薄くなってしまったという弊害も作ってしまった）。当時、女子プロレス興行は各女子プロレス団体年間100大会以上だったがGAEAは試合数を月5大会程度に絞り地方も含めすべてプロモータに売らず自主興行で賄った。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月15日](../Page/4月15日.md "wikilink")、[後楽園ホール](../Page/後楽園ホール.md "wikilink")で旗揚げ戦を開催。代表に[杉山由果](https://ja.wikipedia.org/wiki/杉山由果 "wikilink")、統括に[木村一廊](https://ja.wikipedia.org/wiki/木村一廊 "wikilink")（後に代表に就任）が就任して選手代表の[長与千種](../Page/長与千種.md "wikilink")とのトロイカ体制で発進。旗揚げ当時は長与、[KAORU](../Page/KAORU_\(プロレスラー\).md "wikilink")（元[全日本女子プロレス](../Page/全日本女子プロレス.md "wikilink")）、[ボンバー光](https://ja.wikipedia.org/wiki/ボンバー光 "wikilink")（元[ジャパン女子プロレス](../Page/ジャパン女子プロレス.md "wikilink")）の3人しか選手経験がなく他は約1年掛けて育てた新人選手しかいなかった。しかし新人選手しかいないという状況を逆手に取り、寮での合宿で徹底的にプロレスを教え込んだ上でデビューさせ、新人選手らしからぬ試合展開に「脅威の新人」と呼ばれた（ただし、それ以降の新人選手の印象が一部を除き薄くなってしまったという弊害も作ってしまった）。当時、女子プロレス興行は各女子プロレス団体年間100大会以上だったが、GAEAは試合数を月5大会程度に絞り、地方も含めすべてプロモーターに売らず自主興行で賄った。
 
 [1996年](../Page/1996年.md "wikilink")、長与の元付き人だった[北斗晶](https://ja.wikipedia.org/wiki/北斗晶 "wikilink")が電撃入団して業界を驚かせた。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、全日本女子から[山田敏代](../Page/山田敏代.md "wikilink")も移籍。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[クラッシュ・ギャルズ](https://ja.wikipedia.org/wiki/クラッシュ・ギャルズ "wikilink")の盟友の[ライオネス飛鳥](../Page/ライオネス飛鳥.md "wikilink")がフリーとして参戦。[1999年](../Page/1999年.md "wikilink")、飛鳥対長与の「クラッシュ対決」が10年ぶりに実現。[2000年](../Page/2000年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink")、旗揚げ5周年記念大会で新生クラッシュ・ギャルズ（正式名は[クラッシュ2000](https://ja.wikipedia.org/wiki/クラッシュ・ギャルズ "wikilink")）がスタート。
 
@@ -25,13 +25,15 @@
 
 ## 解散の理由
 
-最後まで黒字経営だったにもかかわらず解散になった。[週刊プロレス](../Page/週刊プロレス.md "wikilink")に掲載されていた記事によるときっかけは[2003年](../Page/2003年.md "wikilink")12月に[長与千種](../Page/長与千種.md "wikilink")が来年末辺りに引退する意向を示したことで1期生以降にデビューした選手とフロントの間で長与の引退後の運営方針が話し合われた。その場で複数の選手が[2005年](../Page/2005年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")に開催する「旗揚げ10周年記念大会」をメドに退団とフリー活動移行の意思を表明。長与が引退する上に何人かの所属選手の退団と引退が加わりフリー、他団体の選手が出場選手の大半を占めるようになってまでGAEAを名乗る意味はないとの結論に達して[2004年](../Page/2004年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")の[国立代々木競技場](../Page/国立代々木競技場.md "wikilink")大会を開催した後にミーティングで選手とフロントが「2005年4月10日の旗揚げ10周年記念大会での解散」に合意。
+最後まで黒字経営だったにもかかわらず解散になった。[週刊プロレス](../Page/週刊プロレス.md "wikilink")に掲載されていた記事によると、きっかけは[2003年](../Page/2003年.md "wikilink")12月に[長与千種](../Page/長与千種.md "wikilink")が来年末辺りに引退する意向を示したことで、1期生以降にデビューした選手とフロントの間で長与の引退後の運営方針が話し合われた。その場で複数の選手が[2005年](../Page/2005年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")に開催する「旗揚げ10周年記念大会」をメドに退団とフリー活動移行の意思を表明。長与が引退する上に何人かの所属選手の退団と引退が加わり、フリー他団体の選手が出場選手の大半を占めるようになってまでGAEAを名乗る意味はないとの結論に達し、[2004年](../Page/2004年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")の[国立代々木競技場](../Page/国立代々木競技場.md "wikilink")大会を開催した後にミーティングで選手とフロントが「2005年4月10日の旗揚げ10周年記念大会での解散」に合意。
 
 [広田さくら](../Page/広田さくら_\(プロレスラー\).md "wikilink")（現：旧姓・広田さくら）以降は生え抜き選手が全く育たず（GAEAでデビューした選手で現役として活動しているのは1期生の[里村明衣子](../Page/里村明衣子.md "wikilink")、[永島千佳世](../Page/永島千佳世.md "wikilink")、[加藤園子](../Page/加藤園子.md "wikilink")、後に復帰した広田、[センダイガールズプロレスリング](../Page/センダイガールズプロレスリング.md "wikilink")で再デビューした[水波綾](../Page/水波綾.md "wikilink")の5人のみである）、参戦選手の半分近くをフリーに依存していたため条件面で折り合いがつかなかったことが原因であると言われている。長与は「もし私が役員に名を連ねていたら解散はなかったんじゃないかな」と語っている。
 
-## 一夜限りの興行
+## 一夜限りの復活興行
 
-[2020年](../Page/2020年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")、長与千種、里村明衣子による記者会見にて「GAEAISM -Decade of quarter century-」興行開催、旗揚げ戦と同じ，[4月15日](../Page/4月15日.md "wikilink")[後楽園ホール](../Page/後楽園ホール.md "wikilink")を発表した。同時に決定分のカードとして、メインは長与、里村の愛弟子である[彩羽匠](https://ja.wikipedia.org/wiki/彩羽匠 "wikilink") vs [橋本千紘](https://ja.wikipedia.org/wiki/橋本千紘 "wikilink")。そして元所属による長与千種、里村明衣子、旧姓・広田さくら vs KAORU、永島千佳世、植松寿絵が発表された。
+[2020年](../Page/2020年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")、長与千種、里村明衣子による記者会見が行われ、旗揚げ日である[4月15日](../Page/4月15日.md "wikilink")に[後楽園ホール](../Page/後楽園ホール.md "wikilink")において「GAEAISM -Decade of quarter century-」興行の開催を発表した。同時に決定分のカードとして、メインは長与と里村の愛弟子である[彩羽匠](https://ja.wikipedia.org/wiki/彩羽匠 "wikilink") vs [橋本千紘](https://ja.wikipedia.org/wiki/橋本千紘 "wikilink")。そして元所属である長与千種、里村明衣子、旧姓・広田さくら vs KAORU、永島千佳世、植松寿絵が発表された。
+
+4月3日、[新型コロナウイルスの感染拡大により興行の開催を延期することが発表された](https://ja.wikipedia.org/wiki/重症急性呼吸器症候群コロナウイルス2型 "wikilink")\[1\]。[2021年](../Page/2021年.md "wikilink")の大会開催を目指している。
 
 ## タイトル
 
@@ -138,9 +140,13 @@
 
 旗揚げ1年目に[長与千種](../Page/長与千種.md "wikilink")が「本当は私達（の若手時代）のように若手を地方の小さい会場とかで試合経験を積ませたいんだけど」と[週刊プロレス](../Page/週刊プロレス.md "wikilink")のインタビューで悩みを語ったところ、その記事を読んだ[ザ・グレート・サスケ](../Page/ザ・グレート・サスケ.md "wikilink")が「だったら、うち（[みちのくプロレス](../Page/みちのくプロレス.md "wikilink")）に来ればいい」とコメントして、それを受けて若手（1シリーズ毎に交代）が、みちのくプロレスに参戦して修行を積んだ。その修行を経験した1人である[里村明衣子](../Page/里村明衣子.md "wikilink")はGAEAの解散後に、みちのくプロレスの支援を受けて[センダイガールズプロレスリング](../Page/センダイガールズプロレスリング.md "wikilink")を設立している。
 
+## 脚注
+
 ## 外部リンク
 
   - [GAEAISM公式サイト](https://www.gaeajapan.com/)
   - [GEAE JAPAN公式サイト（復刻）](https://www.gaeajapan.com/archive/index.html)
 
 [Category:GAEA_JAPAN](https://ja.wikipedia.org/wiki/Category:GAEA_JAPAN "wikilink") [Category:現在活動していない日本の女子プロレス団体](https://ja.wikipedia.org/wiki/Category:現在活動していない日本の女子プロレス団体 "wikilink") [Category:長与千種](https://ja.wikipedia.org/wiki/Category:長与千種 "wikilink")
+
+1.

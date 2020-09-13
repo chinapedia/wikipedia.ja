@@ -167,7 +167,7 @@
 
   - [UP-FRONT WORKSディスコグラフィ](http://www.up-front-works.jp/discography/piccolotown/08/list.html)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:モーニング娘。](https://ja.wikipedia.org/wiki/Category:モーニング娘。 "wikilink") [Category:シャ乱Q](https://ja.wikipedia.org/wiki/Category:シャ乱Q "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink") [Category:2003年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に解散した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:モーニング娘。](https://ja.wikipedia.org/wiki/Category:モーニング娘。 "wikilink") [Category:シャ乱Q](https://ja.wikipedia.org/wiki/Category:シャ乱Q "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink") [Category:2003年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に解散した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
 
 1.  オリコン・エンタテイメント『オリコン年鑑 2003年版』
 2.

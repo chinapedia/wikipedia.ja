@@ -180,7 +180,7 @@
 
 合間にはミニコント形式で、「賞金1000万」をかけた『サザンオールスターズ一番頭がいいのは誰だ?選手権』を開催。ジャンル別に出題されるクイズに正解して最もポイントを多く稼いだ人間（寅さん(桑田)を含むメンバー）が優勝となる。最終的に[松田弘](../Page/松田弘.md "wikilink")が優勝し、賞金1000万[トルコリラ](../Page/トルコリラ.md "wikilink")（当時の貨幣価値で50万円）が贈られた。
 
-番組のラストには「[私の世紀末カルテ 〜20世紀へのメッセージ〜](https://ja.wikipedia.org/wiki/LOVE_AFFAIR_〜秘密のデート〜#収録曲 "wikilink")」を桑田の弾き語りで披露。「私の世紀末カルテ」の歌詞を新たに改変したもので、このバージョンは同年に行われたカウントダウンライブ『[ゴン太君のつどい](https://ja.wikipedia.org/wiki/ゴン太君のつどい "wikilink")』でも演奏されている。
+番組のラストには「[私の世紀末カルテ 〜20世紀へのメッセージ〜](https://ja.wikipedia.org/wiki/LOVE_AFFAIR_〜秘密のデート#収録曲 "wikilink")」を桑田の弾き語りで披露。「私の世紀末カルテ」の歌詞を新たに改変したもので、このバージョンは同年に行われたカウントダウンライブ『ゴン太君のつどい』でも演奏されている。
 
 ### STAGE 14 今世紀第一弾\! 寅さん歌会始め
 
@@ -307,6 +307,10 @@
 3.  [車屋さん](https://ja.wikipedia.org/wiki/車屋さん "wikilink")(美空ひばり)
 4.  [愛燦燦](https://ja.wikipedia.org/wiki/愛燦燦_\(美空ひばりの曲\) "wikilink")(美空ひばり)
 
+<!-- end list -->
+
+  - バンドメンバーは、桑田（ボーカル）、小倉博和（ギター）、納浩一（ベース）、[島健](../Page/島健.md "wikilink")（ピアノ）、[山木秀夫](../Page/山木秀夫.md "wikilink")（ドラムス）、杵屋五吉郎（三味線）、荒木敏男（トランペット）、河東伸夫（トランペット）、菅坡雅彦（トランペット）、奥村晶（トランペット）、[村田陽一](../Page/村田陽一.md "wikilink")（トロンボーン）、辻冬樹（トロンボーン）、池城勉（バストロンボーン）、吉田治（アルトサックス）、近藤和彦（アルトサックス）、包国充（テナーサックス）、竹野昌邦（バリトンサックス）、山本拓夫（バンドマスター・テナーサックス）。
+
 ### STAGE 23・24 ミスチル桜井VS寅さん カラオケPRIDE対決
 
   - 2001年[3月16日](../Page/3月16日.md "wikilink")・[3月23日](../Page/3月23日.md "wikilink")放送
@@ -355,7 +359,7 @@
 
 ユースケによれば、「これは『リニューアル』として一度桑田佳祐に死んでもらい、『新生桑田佳祐』として生まれ変わってもらおうという意図（[生前葬](../Page/生前葬.md "wikilink")）があった」とのこと。追悼特番の終了後、スタジオライブ形式で桑田のライブがスタート。このライブではアンコールを除きサザンオールスターズおよびソロの曲は一切演奏せず、主にアメリカンロックが披露された。また、曲の合間の[MC](../Page/MC.md "wikilink")ではこのライブを「佐々木アナご[着床](../Page/着床.md "wikilink")・[分娩](../Page/分娩.md "wikilink")記念ライブ」だと発言したりと、やはりこちらでも好き勝手な言動を繰り返した。
 
-前述のオープニングの影響もあり、この企画はネット上で様々な反響を呼んだ\[16\]。また、「フジテレビ史上第2位」とされる程の量の苦情の電話も殺到し、これが原因で恭子アナの兄・[佐々木将](https://ja.wikipedia.org/wiki/佐々木将 "wikilink")プロデューサーは髪が白髪になるほどのストレスになった事がDVD版で言及された\[17\]。
+前述のオープニングの影響もあり、この企画はネット上で様々な反響を呼んだ\[16\]。また、「フジテレビ史上第2位」とされる程の量の苦情の電話も殺到し、これが原因で恭子アナの兄・[佐々木将](https://ja.wikipedia.org/wiki/佐々木将 "wikilink")プロデューサーは髪が白髪になるほどのストレスになった事がDVD版で言及された\[17\]。視聴率9.8%。
 
   - 演奏曲
 
@@ -394,7 +398,7 @@
 
 桑田とユースケは、曲作りの為[浅草六区](https://ja.wikipedia.org/wiki/浅草六区 "wikilink")へ。[くじら料理店](../Page/クジラ.md "wikilink")「捕鯨船」、[ストリップ劇場](https://ja.wikipedia.org/wiki/ストリップ_\(性風俗\) "wikilink")「[浅草ロック座](https://ja.wikipedia.org/wiki/浅草ロック座 "wikilink")」を巡り、浅草太鼓を堪能した桑田は、早速ビクタースタジオ（401スタジオ）で曲作りを開始。曲作りの模様はドキュメントタッチで放送された（この間、生放送開始までのカウントダウンが画面右上に常時表示されていた）。今回は「MUSIC TIGER」のような「一人バンド形式」ではなく、バックバンドも従えたものになっている。この曲はシングル『[君にサヨナラを](https://ja.wikipedia.org/wiki/君にサヨナラを "wikilink")』のカップリングとして収録。
 
-なお、ユースケは実際には「[テレフォンショッキング](https://ja.wikipedia.org/wiki/テレフォンショッキング "wikilink")」で番組宣伝を行ったのみであり、レコーディング自体も2009年3月に行われている\[19\]。
+なお、ユースケは実際には「[テレフォンショッキング](https://ja.wikipedia.org/wiki/テレフォンショッキング "wikilink")」で番組宣伝を行ったのみであり、レコーディング自体も2009年3月に行われている\[19\]。視聴率9.4%。
 
   - 演奏曲
     [こまっちゃうナ](https://ja.wikipedia.org/wiki/こまっちゃうナ "wikilink")（[山本リンダ](https://ja.wikipedia.org/wiki/山本リンダ "wikilink")） - 桑田が合いの手を入れているだけのユースケに対し「発声練習をしよう」と述べ、ユースケが「そんな事言われてもこまっちゃうな」と言った流れで歌唱した。歌詞は「アソコに毛が生えた」という[清水アキラ](../Page/清水アキラ.md "wikilink")が[研ナオコ](../Page/研ナオコ.md "wikilink")のものまねをして歌唱した際の替え歌になっていた。
@@ -818,11 +822,15 @@
 4.  車屋さん ([美空ひばり](../Page/美空ひばり.md "wikilink"))
 5.  [Can't Take My Eyes Off You](../Page/君の瞳に恋してる.md "wikilink") ([ボーイズ・タウン・ギャング](https://ja.wikipedia.org/wiki/:en:Boys_Town_Gang "wikilink"))
 
+<!-- end list -->
+
+  - バンドメンバーは、桑田（ボーカル）、斎藤誠（ギター）、美久月千晴（ベース）、片山敦夫（キーボード）、鎌田清（ドラムス）、角谷仁宣（シンセ・マニピュレーター）、奥村晶（トランペット）、横山均（トランペット）、[小林正弘](../Page/小林正弘.md "wikilink")（トランペット）、藤沢端（トランペット）、広原正典（トロンボーン）、花坂義孝（トロンボーン）、鍵和田道男（トロンボーン）、山道明広（バストロンボーン）、[平原まこと](../Page/平原まこと.md "wikilink")（アルトサックス・フルート）、吉田治（アルトサックス・フルート）、渕野繁雄（テナーサックス）、上里稔（テナーサックス）、宮本大路（バリトンサックス）、木村道代（ヴァイオリン）、栄田嘉彦（ヴァイオリン）、[石亀協子](../Page/石亀協子.md "wikilink")（ヴァイオリン）、上里はな子（ヴァイオリン）、三木章子（ヴィオラ）、舘泉礼一（ヴィオラ）、[島健](../Page/島健.md "wikilink")（ピアノ・編曲）。
+
 ### 第19回 「山中湖ライブスペシャル」
 
   - 2009年[9月7日](../Page/9月7日.md "wikilink")放送
 
-[8月30日](../Page/8月30日.md "wikilink")に[山中湖](../Page/山中湖.md "wikilink")で開催されたライブイベント「[SWEET LOVE SHOWER](../Page/SWEET_LOVE_SHOWER.md "wikilink") 2009」に「桑田佳祐 & SUPER MUSIC TIGERS」として参加したときの模様。
+[8月30日](../Page/8月30日.md "wikilink")に[山中湖](../Page/山中湖.md "wikilink")で開催されたライブイベント「[SWEET LOVE SHOWER](../Page/SWEET_LOVE_SHOWER.md "wikilink") 2009」に「桑田佳祐 & SUPER MUSIC TIGERS」として参加したときの模様。視聴率8.8%。
 
   -
     演奏曲目
@@ -849,7 +857,7 @@
 
   - 2009年[9月14日](../Page/9月14日.md "wikilink")放送
 
-「日本版[ウッドストック](../Page/ウッドストック・フェスティバル.md "wikilink")」を木場で開催する件につき実行委員会を開催。実行委員の背後には、不敵に笑う謎の人物が…。 政治とウッドストックの関連性を、政治家・ミュージシャン・音楽評論家にコスプレしてウッドストックが社会問題に対してどう向き合っていくのかを話し合う企画で、2009年の[衆議院](https://ja.wikipedia.org/wiki/衆議院 "wikilink")選挙に合わせ、それに伴ったネタが披露された。実行委員は実在の人物の、本人寄せ（似）で構成されている。この企画では、桑田は1人5役を演じるため、収録が深夜まで及び、頭が混乱していた事がDVD版で語られている\[40\]。
+「日本版[ウッドストック](../Page/ウッドストック・フェスティバル.md "wikilink")」を木場で開催する件につき実行委員会を開催。実行委員の背後には、不敵に笑う謎の人物が…。 政治とウッドストックの関連性を、政治家・ミュージシャン・音楽評論家にコスプレしてウッドストックが社会問題に対してどう向き合っていくのかを話し合う企画で、2009年の[衆議院](https://ja.wikipedia.org/wiki/衆議院 "wikilink")選挙に合わせ、それに伴ったネタが披露された。実行委員は実在の人物の、本人寄せ（似）で構成されている。この企画では、桑田は1人5役を演じるため、収録が深夜まで及び、頭が混乱していた事がDVD版で語られている\[40\]。視聴率5.5%。
 
   - [田原ソースケ氏](../Page/田原総一朗.md "wikilink")：進行役（ユースケ・サンタマリア）
   - [鳩川氏](https://ja.wikipedia.org/wiki/鳩山由紀夫 "wikilink")：新委員長 - 宇宙人という設定であり、頭に触角を模したカチューシャを着用していた。（桑田佳祐）
@@ -877,7 +885,7 @@
 
   - 2009年[9月21日](../Page/9月21日.md "wikilink")放送
 
-最終回ということで、これまで放送された番組の足跡をダイジェストで放送した後に、撮り下ろしで下記2曲が披露された。番組の最後には、収録後のユースケと桑田がとあるレンタルビデオ屋の成人向けコーナーで偶然出くわし気まずい雰囲気になってしまうという内容のコントがあった。
+最終回ということで、これまで放送された番組の足跡をダイジェストで放送した後に、撮り下ろしで下記2曲が披露された。番組の最後には、収録後のユースケと桑田がとあるレンタルビデオ屋の成人向けコーナーで偶然出くわし気まずい雰囲気になってしまうという内容のコントがあった。視聴率5.1%。
 
   - 演奏曲目
 
@@ -941,7 +949,7 @@
 
 #### サザンオールスターズ SPECIAL LIVE in 建長寺
 
-[Kenchoji_Sanmon_2009.jpg](https://ja.wikipedia.org/wiki/File:Kenchoji_Sanmon_2009.jpg "fig:Kenchoji_Sanmon_2009.jpg") [建長寺](../Page/建長寺.md "wikilink")で行われたサザンオールスターズのライブを放送。放送では前述のバー「南ちゃん」のコントとつなげる形で、ユースケが閉店後の店を飛び出して鎌倉に向かい、「いざ、鎌倉\!\!」と叫んで和太鼓を叩くと、その音につられる形で専業主婦に扮した[原由子](../Page/原由子.md "wikilink")、タクシー運転手に扮した[松田弘](../Page/松田弘.md "wikilink")、土木作業員に扮した[関口和之](../Page/関口和之.md "wikilink")、やり手社長に扮した[野沢秀行](../Page/野沢秀行.md "wikilink")、たこ焼き職人に扮した桑田、傘張り職人に扮した[小倉博和](../Page/小倉博和.md "wikilink")が、それぞれの移動手段(原は[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")、松田は[タクシー](../Page/タクシー.md "wikilink")、関口は[原付バイク](https://ja.wikipedia.org/wiki/原付バイク "wikilink")、桑田は[馬](https://ja.wikipedia.org/wiki/馬 "wikilink"))で鎌倉に向かうコントが放送され、前述の記者会見の会場の壁が開く形でライブがスタートするという演出を行った。なお、野沢秀行に関しては「鎌倉」を「[キャバクラ](../Page/キャバクラ.md "wikilink")」と聞き間違えてキャバ嬢と遊び、ライブには参加しないというオチとなった(当時野沢は持病の[ヘルニア](https://ja.wikipedia.org/wiki/ヘルニア "wikilink")でライブを休むことが多かったため、そうした演出を行った)。
+[Kenchoji_Sanmon_2009.jpg](https://ja.wikipedia.org/wiki/File:Kenchoji_Sanmon_2009.jpg "fig:Kenchoji_Sanmon_2009.jpg") [建長寺](../Page/建長寺.md "wikilink")で行われたサザンオールスターズのライブを放送。放送では前述のバー「南ちゃん」のコントとつなげる形で、ユースケが閉店後の店を飛び出して鎌倉に向かい、「いざ、鎌倉\!\!」と叫んで和太鼓を叩くと、その音につられる形で専業主婦に扮した[原由子](../Page/原由子.md "wikilink")、タクシー運転手に扮した[松田弘](../Page/松田弘.md "wikilink")、土木作業員に扮した[関口和之](../Page/関口和之.md "wikilink")、やり手社長に扮した[野沢秀行](../Page/野沢秀行.md "wikilink")、たこ焼き職人に扮した桑田、傘張り職人に扮した[小倉博和](../Page/小倉博和.md "wikilink")が、それぞれの移動手段(原は[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")、松田は[タクシー](../Page/タクシー.md "wikilink")、関口は[原付バイク](https://ja.wikipedia.org/wiki/原付バイク "wikilink")、桑田は[馬](https://ja.wikipedia.org/wiki/馬 "wikilink"))で鎌倉に向かうコントが放送され、前述の記者会見の会場の壁が開く形でライブがスタートするという演出を行った。なお、野沢秀行に関しては「鎌倉」を「[キャバクラ](../Page/キャバクラ.md "wikilink")」と聞き間違えてキャバ嬢と遊び、ライブには参加しないというオチとなった(当時野沢は持病の[ヘルニア](../Page/ヘルニア.md "wikilink")でライブを休むことが多かったため、そうした演出を行った)。
 
   - 演奏曲
 
@@ -974,7 +982,7 @@
 
 ユースケが桑田を呼び出し、突如[夏フェス](../Page/ロック・フェスティバル.md "wikilink")\[48\]への出演を宣言。「持ち歌がない」ユースケは「女性(?)との密会現場」を捉えた[写メール](../Page/写メール.md "wikilink")（後述）で桑田を脅し、ビクタースタジオ・303スタジオを押さえ（たという名目。普段桑田は401スタジオを使用しているが、ユースケは「いくら俺でも押さえられなかった」と述べている。）\[49\]、夏フェス用の楽曲を制作。曲作りはほぼ桑田主導で行われ、ユースケは「スリーコード進行」「期間が短く曲を覚えられないから、全て一音のメロディ」など、注文を付けるのみであった（詞は桑田・ユースケがディスカッション形式で共作）。
 
-楽曲制作中には桑田が「[女呼んでブギ](../Page/熱い胸さわぎ.md "wikilink")」「[栞のテーマ](../Page/栞のテーマ.md "wikilink")」([サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink"))、「[Love Me Do](../Page/ラヴ・ミー・ドゥ.md "wikilink")」「[A Hard Day's Night](../Page/ビートルズがやって来るヤァ!ヤァ!ヤァ!_\(曲\).md "wikilink")」「[Get Back](../Page/ゲット・バック.md "wikilink")」([ザ・ビートルズ](https://ja.wikipedia.org/wiki/ザ・ビートルズ "wikilink"))を、ユースケが「ユウスケの「サマー・ビーチジゴロ」」([BINGO BONGO](https://ja.wikipedia.org/wiki/BINGO_BONGO "wikilink"))を歌唱する場面もあった。
+楽曲制作中には桑田が「[女呼んでブギ](../Page/熱い胸さわぎ.md "wikilink")」「[栞のテーマ](../Page/栞のテーマ.md "wikilink")」([サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink"))、「[Love Me Do](../Page/ラヴ・ミー・ドゥ.md "wikilink")」「[A Hard Day's Night](../Page/ア・ハード・デイズ・ナイト_\(曲\).md "wikilink")」「[Get Back](../Page/ゲット・バック.md "wikilink")」([ビートルズ](../Page/ビートルズ.md "wikilink"))を、ユースケが「ユウスケの「サマー・ビーチジゴロ」」([BINGO BONGO](https://ja.wikipedia.org/wiki/BINGO_BONGO "wikilink"))を歌唱する場面もあった。
 
 楽曲は無事完成し、タイトルは『突然の吐き気 〜えりの思い出〜』と決定\[50\]。しかし、「THE 夢人島 Fes.」の開催日だった[8月26日](../Page/8月26日.md "wikilink")・[27日には自身の主演映画](../Page/8月27日.md "wikilink")『[UDON](../Page/UDON.md "wikilink")』の舞台挨拶と重なっており、ユースケは「やっぱり参加できない」「原さんと来て」と、『UDON』のペア鑑賞券を残してスタジオから退室した。楽曲自体公式に音源化されていなかったものの、2012年の桑田のベストアルバム『[I LOVE YOU -now & forever-](https://ja.wikipedia.org/wiki/I_LOVE_YOU_-now_&_forever- "wikilink")』完全限定生産盤にようやく収録されることになった。また、前述の通り、「突然の吐き気」は2009年に半年間放送された音楽寅さんの番組仮タイトルの候補にもなっていた。
 
@@ -1002,7 +1010,7 @@ DVD-BOX発売記念の[\#第2期（本放送）](https://ja.wikipedia.org/wiki/#
 
   - [2012年](../Page/2012年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")放送
 
-桑田のスペシャルベストアルバム『[I LOVE YOU -now & forever-](https://ja.wikipedia.org/wiki/I_LOVE_YOU_-now_&_forever- "wikilink")』の宣伝も兼ねて制作された。[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に収録された公開ライブの模様を放送。また、後半では「MASARU」のミュージック・ビデオと「愛しい人へ捧ぐ歌」のスタジオライブが放送された。[8月12日](../Page/8月12日.md "wikilink")に[フジテレビNEXT](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")でライブの完全版を放送。
+桑田のスペシャルベストアルバム『[I LOVE YOU -now & forever-](https://ja.wikipedia.org/wiki/I_LOVE_YOU_-now_&_forever- "wikilink")』の宣伝も兼ねて制作された。[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に収録された公開ライブの模様を放送。また、後半では「MASARU」のミュージック・ビデオと「愛しい人へ捧ぐ歌」のスタジオライブが放送された。[8月12日](../Page/8月12日.md "wikilink")に[フジテレビNEXT](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")でライブの完全版を放送。視聴率7.2%。
 
   - 演奏曲
 
@@ -1094,8 +1102,8 @@ DVD-BOX発売記念の[\#第2期（本放送）](https://ja.wikipedia.org/wiki/#
 
 ## 外部リンク
 
-  - [桑田佳祐の音楽寅さん（2001年版）](http://www.fujitv.co.jp/b_hp/ongakutr/) - フジテレビ公式ページ
-  - [桑田佳祐の音楽寅さん（2009年版）](http://www.fujitv.co.jp/b_hp/ongakutr2/) - フジテレビ公式ページ
+  - [桑田佳祐の音楽寅さん（2001年版）](https://www.fujitv.co.jp/b_hp/ongakutr/) - フジテレビ公式ページ
+  - [桑田佳祐の音楽寅さん（2009年版）](https://www.fujitv.co.jp/b_hp/ongakutr2/) - フジテレビ公式ページ
   - [「桑田佳祐の音楽寅さん 〜MUSIC TIGER〜」あいなめBOX](http://www.amuse-s-e.co.jp/music_tiger/main.html) - アミューズソフト
 
 [Category:フジテレビの音楽番組](https://ja.wikipedia.org/wiki/Category:フジテレビの音楽番組 "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:フジテレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:フジテレビの一社提供番組 "wikilink") [Category:日産自動車一社提供番組](https://ja.wikipedia.org/wiki/Category:日産自動車一社提供番組 "wikilink") [Category:バラパラ](https://ja.wikipedia.org/wiki/Category:バラパラ "wikilink") [Category:音組](https://ja.wikipedia.org/wiki/Category:音組 "wikilink") [Category:2000年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のテレビ番組_\(日本\) "wikilink") [Category:2009年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2009年のテレビ番組_\(日本\) "wikilink") [Category:桑田佳祐](https://ja.wikipedia.org/wiki/Category:桑田佳祐 "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink")

@@ -63,7 +63,7 @@ Visioに用意されている図形の部品はビジネス文書やプレゼン
 ## 外部リンク
 
   - [Microsoft Visio](https://www.microsoft.com/ja-jp/microsoft-365/visio/flowchart-software)
-  - [Visio のヘルプとラーニング - Office サポート](https://support.office.com/ja-jp/visio)
+  - [Visio のヘルプとラーニング - Microsoft サポート](https://support.microsoft.com/ja-jp/visio)
   - [Microsoft Visio 2016 Viewer](https://www.microsoft.com/ja-jp/download/details.aspx?id=51188) - 閲覧専用ソフトの配布ページ
 
 [Category:画像処理ソフト](https://ja.wikipedia.org/wiki/Category:画像処理ソフト "wikilink") [Category:Microsoft_Office](https://ja.wikipedia.org/wiki/Category:Microsoft_Office "wikilink") [Category:1992年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1992年のソフトウェア "wikilink") [Category:図](https://ja.wikipedia.org/wiki/Category:図 "wikilink") [Category:UMLツール](https://ja.wikipedia.org/wiki/Category:UMLツール "wikilink")

@@ -22,7 +22,7 @@
 ## 音楽
 
   - 楽曲
-      - YOU - [大江千里の楽曲](../Page/大江千里_\(アーティスト\).md "wikilink")。1987年発売のシングルに収録。
+      - [YOU (大江千里の曲)](../Page/YOU_\(大江千里の曲\).md "wikilink") - [大江千里の楽曲](../Page/大江千里_\(アーティスト\).md "wikilink")。1987年発売。
       - YOU - [結城めぐみ](../Page/結城めぐみ.md "wikilink")の楽曲。1988年発売。アニメ『美味しんぼ』オープニングテーマ。
       - YOU - サザンオールスターズの楽曲。1990年発売のアルバム『[Southern All Stars](../Page/Southern_All_Stars_\(アルバム\).md "wikilink")』などに収録。
       - [YOU (布袋寅泰の曲)](https://ja.wikipedia.org/wiki/YOU_\(布袋寅泰の曲\) "wikilink") - 布袋寅泰の楽曲。1991年のアルバム『[GUITARHYTHM II](../Page/GUITARHYTHM_II.md "wikilink")』に収録。
@@ -71,6 +71,7 @@
 
   - 三越YOU館（You by Mitsukoshi） - 東京都にある商業施設。現在の[サンシャインシティ・アルタ](https://ja.wikipedia.org/wiki/サンシャインシティ・アルタ "wikilink")。
   - You - [小倉優子](https://ja.wikipedia.org/wiki/小倉優子 "wikilink")プロデュースのジュエリーブランド。
+  - You - 『[タイム](../Page/タイム_\(雑誌\).md "wikilink")』誌が2006年の[パーソン・オブ・ザ・イヤー](../Page/パーソン・オブ・ザ・イヤー.md "wikilink")に選出した「人物」。[あなた (パーソン・オブ・ザ・イヤー)を参照](../Page/あなた_\(パーソン・オブ・ザ・イヤー\).md "wikilink")。
 
 ## 関連項目
 

@@ -1,7 +1,7 @@
 > この記事は[金子隆一 \(SF\)](https://ja.wikipedia.org/wiki/金子隆一_\(SF\))から翻訳されています。
 
 
-**金子 隆一**（かねこ りゅういち、[1956年](../Page/1956年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")\[1\] - [2013年](../Page/2013年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink")\[2\]\[3\]）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[サイエンスライター](../Page/サイエンスライター.md "wikilink")、[SF](../Page/SF.md "wikilink")研究家。有限会社コンタクト代表取締役、会員、[宇宙エレベーター協会](https://ja.wikipedia.org/wiki/宇宙エレベーター協会 "wikilink")名誉会員\[4\]、[ハードSF研究所](../Page/ハードSF研究所.md "wikilink")所員\[5\]、CONTACT Japan 会員、[宇宙作家クラブ](../Page/宇宙作家クラブ.md "wikilink")会員\[6\]。
+**金子 隆一**（かねこ りゅういち、[1956年](../Page/1956年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")\[1\] - [2013年](../Page/2013年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink")\[2\]\[3\]）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[サイエンスライター](../Page/サイエンスライター.md "wikilink")、[SF研究家](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")。有限会社コンタクト代表取締役、会員、[宇宙エレベーター協会](https://ja.wikipedia.org/wiki/宇宙エレベーター協会 "wikilink")名誉会員\[4\]、[ハードSF研究所](../Page/ハードSF研究所.md "wikilink")所員\[5\]、CONTACT Japan 会員、[宇宙作家クラブ](../Page/宇宙作家クラブ.md "wikilink")会員\[6\]。
 
 ## 概要
 

@@ -1,7 +1,7 @@
 > この記事は[木曜Junk さまぁ〜ずの逆にアレだろ!\?](https://ja.wikipedia.org/wiki/木曜Junk_さまぁ〜ずの逆にアレだろ!\?)から翻訳されています。
 
 
-**木曜Junk さまぁ〜ずの逆にアレだろ\!?**（もくようジャンク さまぁ〜ずのぎゃくにアレだろ\!?）は、[2002年](../Page/2002年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")までの2年間にわたり、[TBSラジオ](../Page/TBSラジオ.md "wikilink")制作・[JRN系の](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")[木曜](https://ja.wikipedia.org/wiki/木曜 "wikilink")[Junk（現：JUNK）枠内で放送されていた](../Page/JUNK.md "wikilink")、お笑いコンビ・[さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")が[パーソナリティを務める](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。全104回放送。
+**木曜Junk さまぁ〜ずの逆にアレだろ\!?**（もくようジャンク さまぁ〜ずのぎゃくにアレだろ\!?）は、[2002年](../Page/2002年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")までの2年間にわたり、[TBSラジオ](../Page/TBSラジオ.md "wikilink")制作・[JRN系の](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")[木曜](../Page/木曜日.md "wikilink")[Junk（現：JUNK）枠内で放送されていた](../Page/JUNK.md "wikilink")、お笑いコンビ・[さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")が[パーソナリティを務める](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。全104回放送。
 
 [深夜放送](../Page/深夜放送.md "wikilink")特有の[下ネタ](../Page/下ネタ.md "wikilink")に輪をかけた下ネタで人気を博した。また[聴取率](../Page/聴取率.md "wikilink")調査週間（スペシャルウィーク）には「関東お笑い祭」「関東芸人祭」と称し、さまぁ〜ずと親交の深いお笑い芸人たち（[出川哲朗](../Page/出川哲朗.md "wikilink")、[ふかわりょう](../Page/ふかわりょう.md "wikilink")など）をゲストに招くのが恒例だった。
 

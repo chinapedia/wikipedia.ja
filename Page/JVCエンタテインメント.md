@@ -39,6 +39,7 @@
 <li><a href="../Page/君嶋ゆかり.md" title="wikilink">君嶋ゆかり</a></li>
 <li><a href="../Page/五代高之.md" title="wikilink">五代高之</a></li>
 <li><a href="../Page/近藤彩希.md" title="wikilink">近藤彩希</a></li>
+<li>佐々木光一</li>
 <li><a href="../Page/三四六.md" title="wikilink">三四六</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/白石美帆" title="wikilink">白石美帆</a></li>
 <li><a href="../Page/末永遥.md" title="wikilink">末永遥</a></li>

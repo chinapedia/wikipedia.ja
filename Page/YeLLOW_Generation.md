@@ -5,7 +5,7 @@
 
 ## 概要
 
-[放送作家](../Page/放送作家.md "wikilink")の[おちまさと](../Page/おちまさと.md "wikilink")が[パーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")・構成を担当していた[ラジオ番組](../Page/ラジオ番組.md "wikilink")「[ロストジェネレーション](https://ja.wikipedia.org/wiki/ロストジェネレーション（ラジオ番組） "wikilink")」（[TOKYO FM](../Page/エフエム東京.md "wikilink")）内の詩の朗読コーナーにて表現力を認められ、ユニットを結成。[2002年](../Page/2002年.md "wikilink")、おちまさとプロデュース・作詞の「LOST Generation」（作曲：[イズミカワソラ](../Page/イズミカワソラ.md "wikilink")）にてデビュー。
+[放送作家](../Page/放送作家.md "wikilink")の[おちまさと](../Page/おちまさと.md "wikilink")が[パーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")・構成を担当していた[ラジオ番組](../Page/ラジオ番組.md "wikilink")「[ロストジェネレーション](https://ja.wikipedia.org/wiki/ロストジェネレーション_\(ラジオ番組\) "wikilink")」（[TOKYO FM](../Page/エフエム東京.md "wikilink")）内の詩の朗読コーナーにて表現力を認められ、ユニットを結成。[2002年](../Page/2002年.md "wikilink")、おちまさとプロデュース・作詞の「LOST Generation」（作曲：[イズミカワソラ](../Page/イズミカワソラ.md "wikilink")）にてデビュー。
 
 同年に発売されたセカンドシングル「[北風と太陽](https://ja.wikipedia.org/wiki/北風と太陽_\(YeLLOW_Generationの曲\) "wikilink")」が15万枚を超えるヒットを記録し、[2003年](../Page/2003年.md "wikilink")、[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")「ニュー・アーティスト・オブ・ザ・イヤー」を受賞。
 
@@ -324,7 +324,7 @@ DFCL-1249:CD</p></td>
 </ul></li>
 <li>扉の向こうへ〜FULLMETAL mix〜
 <ul>
-<li>出演:<a href="../Page/朴ロ美.md" title="wikilink">朴ロ美</a>,<a href="https://ja.wikipedia.org/wiki/釘宮理恵" title="wikilink">釘宮理恵</a></li>
+<li>出演:<a href="../Page/朴璐美.md" title="wikilink">朴璐美</a>,<a href="https://ja.wikipedia.org/wiki/釘宮理恵" title="wikilink">釘宮理恵</a></li>
 </ul></li>
 </ol></td>
 <td><p>100位</p></td>
@@ -415,7 +415,7 @@ DFBL-7055:DVD</p></td>
 <li>トリトマ[MUSIC VIDEO]</li>
 <li>League of Jewel[1st~3rd game]</li>
 </ol>
-<p>#[SPECIAL TRACK]YeLLOW Generation 3周年記念ピクニック</p></td>
+<p># [SPECIAL TRACK]YeLLOW Generation 3周年記念ピクニック</p></td>
 </tr>
 </tbody>
 </table>
@@ -455,11 +455,11 @@ DFBL-7055:DVD</p></td>
 ## 関連項目
 
   - [工藤順子](../Page/工藤順子.md "wikilink")（作品提供）
-  - [小西康陽](../Page/小西康陽.md "wikilink")(シングル「Dual」プロデュース）
+  - [小西康陽](../Page/小西康陽.md "wikilink")（シングル「Dual」プロデュース）
 
 ## 外部リンク
 
   - [浅見ユウコ オフィシャルブログ](https://ameblo.jp/asami-yuko/)
   - [鈴木ゆき オフィシャルブログ](https://ameblo.jp/suzuki-yuki/)
 
-[Category:過去の研音グループ所属者](https://ja.wikipedia.org/wiki/Category:過去の研音グループ所属者 "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:デフスターレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:デフスターレコーズのアーティスト "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink") [Category:2006年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2006年に解散した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
+[Category:過去の研音グループ所属者](https://ja.wikipedia.org/wiki/Category:過去の研音グループ所属者 "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:デフスターレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:デフスターレコーズのアーティスト "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink") [Category:2006年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2006年に解散した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")

@@ -6,7 +6,7 @@
 ## メンバー
 
   - [浅岡雄也](../Page/浅岡雄也.md "wikilink")（あさおか ゆうや、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[1月25日](../Page/1月25日.md "wikilink") - ） / [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")
-    [東京都](../Page/東京都.md "wikilink")出身。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。解散後はソロ活動を行っている。詳細項目を参照。
+    [東京都](../Page/東京都.md "wikilink")出身。[血液型はA型](../Page/ABO式血液型.md "wikilink")。解散後はソロ活動を行っている。詳細項目を参照。
   - [小橋琢人](https://ja.wikipedia.org/wiki/小橋琢人 "wikilink")（こはし たくと、[1965年](../Page/1965年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink") - ） / [ドラムス](../Page/ドラムセット.md "wikilink")、作詞、作曲（リーダー）
     東京都出身。血液型はA型。
     解散後は、[リュ・シウォン](../Page/リュ・シウォン.md "wikilink")「桜」などの楽曲にドラマーとして参加している。また、[Being Music Schoolではドラムの講師を務めている](https://ja.wikipedia.org/wiki/Being_Music_School "wikilink")。
@@ -15,10 +15,20 @@
   - [新津健二](https://ja.wikipedia.org/wiki/新津健二 "wikilink")（にいつ けんじ、[1965年](../Page/1965年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink") - ） / [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、作曲、編曲
     東京都出身。血液型はO型。「[DAN DAN 心魅かれてく](https://ja.wikipedia.org/wiki/DAN_DAN_心魅かれてく "wikilink")」におけるテレビ番組出演より参加。解散後は、[Ryu](../Page/Ryu_\(歌手\).md "wikilink")「聞こえない告白」などの楽曲にベースとして参加するほか、[北原愛子](../Page/北原愛子.md "wikilink")「思い出にスクワレテモ」などではギターとして参加している。また、現在はタレント[DAIGO](../Page/DAIGO.md "wikilink")がボーカルを務めるロックバンド[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")のマネージャーとして活躍中。
 
-## 元メンバー
+### 元メンバー
 
   - [安部潤](../Page/安部潤.md "wikilink")（あべ じゅん、[1968年](../Page/1968年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink") - ） / [キーボード](../Page/キーボード_\(楽器\).md "wikilink")、編曲
     [福岡県](../Page/福岡県.md "wikilink")出身。自身の[アレンジャー活動に専念するため](../Page/編曲家.md "wikilink")、3rdシングル「[Last Good-bye](../Page/Last_Good-bye.md "wikilink")」をもってFIELD OF VIEWを脱退。脱退後はアレンジャー、[キーボーディスト](../Page/キーボーディスト.md "wikilink")として活躍。ソロになった浅岡雄也の楽曲のアレンジも手掛け、浅岡の1stライブと2ndライブにはサポートキーボードとして参加。
+
+### サポートメンバー
+
+  - 蓬田尚紀（よもぎだ なおき、Naoki "J" Yomogida ） / ベース
+    新津が加入するまでの間、サポートベーシストとして活動していた。
+
+<!-- end list -->
+
+  - 2人の女性バックコーラス
+    音楽番組で、コーラスとしてほぼ毎度出演していた。
 
 ## 来歴
 
@@ -29,10 +39,11 @@
   - [2001年](../Page/2001年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")、シングル「[夏の記憶](https://ja.wikipedia.org/wiki/夏の記憶 "wikilink")」で**the FIELD OF VIEW**に改名。レコード会社を*Beat reC*から、古巣[ZAIN RECORDSへ戻る](../Page/ZAIN_RECORDS.md "wikilink")。
   - [2002年](../Page/2002年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink")、FIELD OF VIEWとしてデビューから数えて20枚目となる最後のシングル「[Melody](https://ja.wikipedia.org/wiki/Melody_\(FIELD_OF_VIEWの曲\) "wikilink")」を発売。年内に[解散](https://ja.wikipedia.org/wiki/解散 "wikilink")することを発表。
   - [2002年](../Page/2002年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")、解散に伴う[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")「[Memorial BEST 〜Gift of Melodies〜](https://ja.wikipedia.org/wiki/Memorial_BEST_〜Gift_of_Melodies〜 "wikilink")」と、初の[クリップ集](../Page/ミュージック・ビデオ.md "wikilink")「[VIEW CLIPS 〜Memorial Best〜](https://ja.wikipedia.org/wiki/VIEW_CLIPS_〜Memorial_Best〜 "wikilink")」を発売。
-  - [2002年](../Page/2002年.md "wikilink")11月、東京（[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")）と大阪（[大阪厚生年金会館](https://ja.wikipedia.org/wiki/オリックス劇場#大阪厚生年金会館 "wikilink")）で解散ライブを行う。
-  - [2002年](../Page/2002年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")、この日[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")で行われた追加公演をもって解散。その翌年に解散ライブの[DVD](../Page/DVD.md "wikilink")「[the FIELD OF VIEW FINAL LIVE “Live Horizon-SUPERIOR 2002 〜Gift of Memories〜”](https://ja.wikipedia.org/wiki/the_FIELD_OF_VIEW_FINAL_LIVE_“Live_Horizon-SUPERIOR_2002_〜Gift_of_Memories〜” "wikilink")」が発売された。
+  - [2002年](../Page/2002年.md "wikilink")11月、東京（[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")）と大阪（[大阪厚生年金会館](https://ja.wikipedia.org/wiki/オリックス劇場#大阪厚生年金会館 "wikilink")）で解散ツアーを行う。
+  - [2002年](../Page/2002年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")、[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")で追加公演かつラストライブ「the FIELD OF VIEW Live Horizon the FINAL ～Gift of Extra Emotion～」を開催し解散。その翌年に解散ライブの[DVD](../Page/DVD.md "wikilink")「[the FIELD OF VIEW FINAL LIVE “Live Horizon-SUPERIOR 2002 〜Gift of Memories〜”](https://ja.wikipedia.org/wiki/the_FIELD_OF_VIEW_FINAL_LIVE_“Live_Horizon-SUPERIOR_2002_〜Gift_of_Memories〜” "wikilink")」が発売された。
   - [2012年](../Page/2012年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") - [11月29日](../Page/11月29日.md "wikilink")、『[BEING LEGEND Live Tour 2012](http://beinggiza.com/beinglegend/index.html)』に参加するため一時的に再結成。但し会場・公演日により参加メンバーが異なるため、完全復活ではない（全公演に参加するのは浅岡雄也のみ、小田孝は全公演とも不参加）。中途で脱退した安部潤も一部の公演に参加しており、公演によっては小田を除く4人が参加。
-  - [2020年](../Page/2020年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")、ボーカルを務める浅岡雄也の公式サイトより**[FIELD OF VIEW 25th Anniversary Extra Rare Best 2020](../Page/FIELD_OF_VIEW_25th_Anniversary_Extra_Rare_Best_2020.md "wikilink")**アルバム発売が決定された。同時、[5月15日](../Page/5月15日.md "wikilink")- [5月24日](../Page/5月24日.md "wikilink")、東京と大阪でのライブも決定された。\[1\]なお、ライブは延期が決定している。
+  - [2020年](../Page/2020年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")、ボーカルを務める浅岡雄也の公式サイトより『[FIELD OF VIEW 25th Anniversary Extra Rare Best 2020](../Page/FIELD_OF_VIEW_25th_Anniversary_Extra_Rare_Best_2020.md "wikilink")』アルバム発売が決定された。同時、[5月15日](../Page/5月15日.md "wikilink")- [5月24日](../Page/5月24日.md "wikilink")、東京と大阪でのライブも決定された。\[1\]なお、ライブは延期が決定している。
+  - [2020年](../Page/2020年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink")放送のTBS「[音楽の日](https://ja.wikipedia.org/wiki/音楽の日 "wikilink")」にFIELD OF VIEW名義で出演。\[2\]メンバーは浅岡の他は[葉山たけし](../Page/葉山たけし.md "wikilink")、[麻井寛史](../Page/麻井寛史.md "wikilink")、[車谷啓介](../Page/車谷啓介.md "wikilink")であった。
 
 解散後、ボーカルの浅岡雄也は、ソロとしてアルバム・シングルなどをリリースし、ライブも行い、精力的に活動を続けている。小橋及び新津は2016年3月現在もビーイングに在籍している。
 
@@ -362,7 +373,7 @@
 | Best | 2002/10/9  | [Memorial BEST 〜Gift of Melodies〜](https://ja.wikipedia.org/wiki/Memorial_BEST_〜Gift_of_Melodies〜 "wikilink")                                       | 19位   |
 | Best | 2003/8/20  | [complete of FIELD OF VIEW at the BEING studio](https://ja.wikipedia.org/wiki/complete_of_FIELD_OF_VIEW_at_the_BEING_studio "wikilink")             | 83位   |
 | Best | 2007/12/12 | [BEST OF BEST 1000 FIELD OF VIEW](https://ja.wikipedia.org/wiki/BEST_OF_BEST_1000#BEST_OF_BEST_1000_FIELD_OF_VIEW "wikilink")                       | 107位  |
-| Best | 2013/6/12  | [FIELD OF VIEW BEST HITS](https://ja.wikipedia.org/wiki/FIELD_OF_VIEW_BEST_HITS "wikilink")                                                         | 圏外    |
+| Best | 2013/6/12  | [FIELD OF VIEW BEST HITS](https://ja.wikipedia.org/wiki/FIELD_OF_VIEW_BEST_HITS "wikilink")                                                         | 集計対象外 |
 | Best | 2020/5/13  | [FIELD OF VIEW 25th Anniversary Extra Rare Best 2020](../Page/FIELD_OF_VIEW_25th_Anniversary_Extra_Rare_Best_2020.md "wikilink")                    | 11位   |
 
 ### DVD
@@ -513,3 +524,4 @@
 [Category:FIELD_OF_VIEW](https://ja.wikipedia.org/wiki/Category:FIELD_OF_VIEW "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:過去のボックスコーポレーション所属者](https://ja.wikipedia.org/wiki/Category:過去のボックスコーポレーション所属者 "wikilink") [Category:過去のビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:過去のビーイング系列所属者 "wikilink") [Category:日本コロムビアのアーティスト](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアーティスト "wikilink")
 
 1.
+2.

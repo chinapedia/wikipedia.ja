@@ -172,4 +172,4 @@
 
 [Category:TM_NETWORKのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:TM_NETWORKのベスト・アルバム "wikilink") [Category:小室哲哉プロデュースのアルバム](https://ja.wikipedia.org/wiki/Category:小室哲哉プロデュースのアルバム "wikilink") [Category:1996年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:1996年のベスト・アルバム "wikilink") [Category:EPICソニーのアルバム](https://ja.wikipedia.org/wiki/Category:EPICソニーのアルバム "wikilink")
 
-1.  株式会社スコラ刊「[スコラ](../Page/スコラ.md "wikilink")」1997年1月1日号52Pより。
+1.  株式会社スコラ刊「[スコラ](../Page/スコラ.md "wikilink")」1997年1月1日号「小室哲哉 新プロジェクトへの挑戦\! TKブランド、ゲーム界へ進出\! 盟友・宇都宮隆『TMNの新曲』を語る」52Pより。

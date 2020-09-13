@@ -11,7 +11,7 @@
 
   - **景山 俊之**（かげやま としゆき、[1970年](../Page/1970年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink") - ）
       -
-        [奈良県](../Page/奈良県.md "wikilink")[大和郡山市](https://ja.wikipedia.org/wiki/大和郡山市 "wikilink")出身。[血液型A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+        [奈良県](../Page/奈良県.md "wikilink")[大和郡山市](https://ja.wikipedia.org/wiki/大和郡山市 "wikilink")出身。[血液型A型](../Page/ABO式血液型.md "wikilink")。
   - **廣田 幸一**（ひろた こういち、1970年[7月29日](../Page/7月29日.md "wikilink") - ）
       -
         [大阪府](../Page/大阪府.md "wikilink")[富田林市](https://ja.wikipedia.org/wiki/富田林市 "wikilink")出身。血液型O型。

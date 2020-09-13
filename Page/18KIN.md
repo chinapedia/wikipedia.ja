@@ -1,11 +1,9 @@
 > この記事は[18KIN](https://ja.wikipedia.org/wiki/18KIN)から翻訳されています。
 
 
-**18KIN**（じゅうはちきん）は、[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")所属の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")結成。
+**18KIN**（じゅうはちきん）は、かつて[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")で活動していた[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")結成。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")活動休止。
 
-コンビ名には、18歳未満禁止という意味を表す[18禁と](../Page/レイティング.md "wikilink")、自分たちが将来18金のように輝いて売れていきたいという二つの意味が含まれている。2008年7月より活動を休止している。
-
-2011年7月5日「若手ベテラン会」にて一夜限りの復活、約3年ぶりに漫才を披露。
+[2011年](../Page/2011年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")「若手ベテラン会」にて一夜限りの復活、約3年ぶりに漫才を披露した。
 
 ## メンバー
 
@@ -16,7 +14,7 @@
     [ボケ担当](https://ja.wikipedia.org/wiki/漫才#ボケとツッコミ "wikilink")。
     血液型A型。
     利き酒を得意とする。
-    活動休止後は[ハロープロジェクトの舞台構成作家として活動](../Page/ハロー!プロジェクト.md "wikilink")。また[安井順平](../Page/安井順平.md "wikilink")と共にコントライブの開催等も行い、「タキヤス」という漫才コンビを安井と組み、2008年の[M-1グランプリ](../Page/M-1グランプリ.md "wikilink")に出場している。
+    活動休止後は[ハロープロジェクトの舞台構成作家として活動](../Page/ハロー!プロジェクト.md "wikilink")。また[安井順平](../Page/安井順平.md "wikilink")と共にコントライブの開催等も行い、「**タキヤス**」という漫才コンビを安井と組み、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の[M-1グランプリ](../Page/M-1グランプリ.md "wikilink")に出場している。
 
 **今泉 稔**（いまいずみ みのる、 - ）
 
@@ -24,11 +22,17 @@
     東京都[府中市出身](../Page/府中市_\(東京都\).md "wikilink")。
     [ツッコミ](https://ja.wikipedia.org/wiki/ツッコミ "wikilink")担当。
     血液型AB型。
-    [三味線](../Page/三味線.md "wikilink")を得意とする。[名取](../Page/名取.md "wikilink")であり、「工藤詩摩菊」という別名を持つ。
+    [三味線](../Page/三味線.md "wikilink")を得意とする。[名取](../Page/名取.md "wikilink")であり、「**工藤詩摩菊**」という別名を持つ。
     [ババ抜き](../Page/ババ抜き.md "wikilink")、[神経衰弱](https://ja.wikipedia.org/wiki/神経衰弱 "wikilink")、[大富豪](https://ja.wikipedia.org/wiki/大富豪 "wikilink")、[ポーカー](../Page/ポーカー.md "wikilink")、[スピード](../Page/スピード_\(トランプ\).md "wikilink")、その他トランプゲームが得意。
-    18KIN結成前は「ネンチャクパンチ」というコンビを組んでいた。
-    活動休止後はピン芸人**「18KIN今泉」**となり、後に**「今泉」**に改名。ピン芸人としての主な芸には、「酒の力を借りて、一度言ってみたかったカッコいいセリフ」がテーマのネタがあり、落ちは主に自虐ネタで、「言ってみてぇ{{～}}\!」が決め台詞である。
-    2018年4月、コンビ時代から長らく所属していたワタナベエンターテインメントを離れ、フリーとなる\[1\]。同年7月、[SMA NEET Projectに入ることを発表](../Page/SMA_NEET_Project.md "wikilink")。
+    18KIN結成前は「**ネンチャクパンチ**」というコンビを組んでいた。
+    活動休止後は[ピン芸人](../Page/ピン芸人.md "wikilink")「**18KIN今泉**」となり、後に「**今泉**」に改名。ピン芸人としての主な芸には、「酒の力を借りて、一度言ってみたかったカッコいいセリフ」がテーマのネタがあり、落ちは主に自虐ネタで、「言ってみてぇ{{～}}\!」が決め台詞である。
+    [2018年](../Page/2018年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、コンビ時代から長らく所属していたワタナベエンターテインメントを離れ、フリーとなる\[1\]。同年7月、[SMA NEET Projectに入ることを発表](../Page/SMA_NEET_Project.md "wikilink")。
+
+## 概要
+
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にコンビ結成。コンビ名には「18歳未満禁止という意味を表す[18禁](../Page/レイティング.md "wikilink")」「自分たちが将来18金のように輝いて売れていきたい」という二つの意味が含まれている。
+
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")より活動を休止。[2011年](../Page/2011年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")「若手ベテラン会」にて一夜限りの復活、約3年ぶりに漫才を披露した。
 
 ## 出演番組
 

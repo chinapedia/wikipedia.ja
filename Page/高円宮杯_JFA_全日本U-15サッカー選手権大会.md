@@ -27,7 +27,7 @@
 | 関東  | 7   | [関東ユース (U-15)サッカーリーグの上位](https://ja.wikipedia.org/wiki/関東ユース_\(U-15\)サッカーリーグ "wikilink")4チームを含む           |
 | 北信越 | 2   | [北信越ユース (U-15)サッカーリーグの優勝チームを含む](https://ja.wikipedia.org/wiki/北信越ユース_\(U-15\)サッカーリーグ "wikilink")          |
 | 東海  | 5   | [東海地域リーグ (U-15)の上位](https://ja.wikipedia.org/wiki/東海地域リーグ_\(U-15\) "wikilink")2チームを含む                     |
-| 関西  | 5   | [関西サッカーリーグ (U-15)サンライズリーグの上位](https://ja.wikipedia.org/wiki/関西サッカーリーグ_\(U-15\)サンライズリーグ "wikilink")2チームを含む |
+| 関西  | 4   | [関西サッカーリーグ (U-15)サンライズリーグの上位](https://ja.wikipedia.org/wiki/関西サッカーリーグ_\(U-15\)サンライズリーグ "wikilink")2チームを含む |
 | 中国  | 2   | [高円宮杯U-15プログレスリーグ](https://ja.wikipedia.org/wiki/高円宮杯U-15プログレスリーグ "wikilink")の優勝チームを含む                    |
 | 四国  | 2   | [四国U-15クローバーリーグ](https://ja.wikipedia.org/wiki/四国U-15クローバーリーグ "wikilink")の優勝チームを含む                        |
 | 九州  | 3   | [九州ユース (U-15)サッカーリーグの優勝チームを含む](https://ja.wikipedia.org/wiki/九州ユース_\(U-15\)サッカーリーグ "wikilink")            |
@@ -37,7 +37,9 @@
   - 32チームによるトーナメント制。
   - 試合時間は80分（40分ハーフ）。同点の場合は20分（10分ハーフ）の延長戦を行い、それでも決しない場合は[PK戦](../Page/PK戦.md "wikilink")で勝敗を決する。
 
-## 結果
+## 結果と統計
+
+### 結果
 
 <table>
 <thead>
@@ -323,10 +325,18 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/大宮アルディージャ" title="wikilink">大宮アルディージャ</a>ジュニアユース<br />
 <a href="../Page/ヴィッセル神戸.md" title="wikilink">ヴィッセル神戸</a>ジュニアユース</p></td>
 </tr>
+<tr class="even">
+<td></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
+<td><p>大会中止</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
-## チーム別成績
+### チーム別成績
 
 <table>
 <thead>

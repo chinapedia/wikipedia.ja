@@ -46,7 +46,7 @@
 松任谷由実によるオリジナルヴァージョンは[JASRACに於いて](../Page/日本音楽著作権協会.md "wikilink")[2018年](../Page/2018年.md "wikilink")現在、[内国作品](https://ja.wikipedia.org/wiki/日本 "wikilink")／出典：PW<small>(出版者詞曲者作品届)</small>／作品コード **126-4968-6 ＳＭＩＬＥ　ＡＧＡＩＮ**として登録\[1\]。それ以外（[日本語](../Page/日本語.md "wikilink")）以外の著作権概況は以下の通りである。
 
   - [英語](../Page/英語.md "wikilink")（[ディック・リー](../Page/ディック・リー.md "wikilink")）：**外国**作品／出典：PJ<small>(サブ出版者作品届)</small>／作品コード **0U5-6628-9 SMILE AGAIN /ENGLISH VERSION/**
-  - [中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")（[amin](https://ja.wikipedia.org/wiki/amin "wikilink")）：内国作品／出典：PC<small>(出版者作曲者作品届)</small>／作品コード **128-9733-7 ＳＭＩＬＥ　ＡＧＡＩＮ～ＣＨＩＮＥＳＥ　ＶＥＲＳＩＯＮ**
+  - [中国語](../Page/中国語.md "wikilink")（[amin](https://ja.wikipedia.org/wiki/amin "wikilink")）：内国作品／出典：PC<small>(出版者作曲者作品届)</small>／作品コード **128-9733-7 ＳＭＩＬＥ　ＡＧＡＩＮ～ＣＨＩＮＥＳＥ　ＶＥＲＳＩＯＮ**
   - [韓国語](https://ja.wikipedia.org/wiki/韓国語 "wikilink")（[イム・ヒョンジュ](https://ja.wikipedia.org/wiki/イム・ヒョンジュ "wikilink")）：内国作品／出典：PC<small>(出版者作曲者作品届)</small>／作品コード **128-9736-1 ＳＭＩＬＥ　ＡＧＡＩＮ～ＫＯＲＥＡＮ　ＶＥＲＳＩＯＮ**
 
 [出版者](../Page/音楽出版.md "wikilink")・サブ出版\[2\]はいずれも[雲母音楽出版](https://ja.wikipedia.org/wiki/雲母社 "wikilink")。英語版のみ他に出版者登録が存在するが「*UNKNOWN PUBLISHER*」となっており、また外国作品扱いであるため英語版の[演奏](../Page/演奏.md "wikilink")・[録音](../Page/録音.md "wikilink")・[出版](../Page/出版.md "wikilink")等には注意が必要である\[3\]。

@@ -1,7 +1,7 @@
 > この記事は[If もしも....](https://ja.wikipedia.org/wiki/If_もしも....)から翻訳されています。
 
 
-『**If もしも....**』（*If....*）は、[リンゼイ・アンダーソン](../Page/リンゼイ・アンダーソン.md "wikilink")監督による[1968年製作の](../Page/1968年の映画.md "wikilink")[イギリス映画](https://ja.wikipedia.org/wiki/イギリスの映画 "wikilink")。
+『**If もしも....**』（*If....*）は、[リンゼイ・アンダーソン](../Page/リンゼイ・アンダーソン.md "wikilink")監督による[1968年製作の](../Page/1968年の映画.md "wikilink")[イギリス](https://ja.wikipedia.org/wiki/イギリスの映画 "wikilink")、[アメリカ合衆国の映画](../Page/アメリカ合衆国の映画.md "wikilink")。
 
 監督生による[体罰](../Page/体罰.md "wikilink")、下級生の酷使、[同性愛](https://ja.wikipedia.org/wiki/同性愛 "wikilink")、[いじめ](https://ja.wikipedia.org/wiki/いじめ "wikilink")など、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[パブリックスクール](../Page/パブリックスクール.md "wikilink")の実態を過激な妄想と[ブラックユーモア](https://ja.wikipedia.org/wiki/ブラックユーモア "wikilink")を交えながら描き、賛否両論を巻き起こした。
 
@@ -28,4 +28,4 @@
   -
   -
   -
-[Category:1968年の映画](https://ja.wikipedia.org/wiki/Category:1968年の映画 "wikilink") [Category:イギリスの青春映画](https://ja.wikipedia.org/wiki/Category:イギリスの青春映画 "wikilink") [Category:イギリスの犯罪映画](https://ja.wikipedia.org/wiki/Category:イギリスの犯罪映画 "wikilink") [Category:イギリスのサスペンス映画](https://ja.wikipedia.org/wiki/Category:イギリスのサスペンス映画 "wikilink") [Category:イギリスのLGBT関連映画](https://ja.wikipedia.org/wiki/Category:イギリスのLGBT関連映画 "wikilink") [Category:イギリスの風刺映画](https://ja.wikipedia.org/wiki/Category:イギリスの風刺映画 "wikilink") [Category:リンゼイ・アンダーソンの監督映画](https://ja.wikipedia.org/wiki/Category:リンゼイ・アンダーソンの監督映画 "wikilink") [Category:パルム・ドール受賞作](https://ja.wikipedia.org/wiki/Category:パルム・ドール受賞作 "wikilink") [Category:学校を舞台とした映画・オリジナルビデオ](https://ja.wikipedia.org/wiki/Category:学校を舞台とした映画・オリジナルビデオ "wikilink")
+[Category:1968年の映画](https://ja.wikipedia.org/wiki/Category:1968年の映画 "wikilink") [Category:イギリスの青春映画](https://ja.wikipedia.org/wiki/Category:イギリスの青春映画 "wikilink") [Category:イギリスの犯罪映画](https://ja.wikipedia.org/wiki/Category:イギリスの犯罪映画 "wikilink") [Category:イギリスのサスペンス映画](https://ja.wikipedia.org/wiki/Category:イギリスのサスペンス映画 "wikilink") [Category:イギリスのLGBT関連映画](https://ja.wikipedia.org/wiki/Category:イギリスのLGBT関連映画 "wikilink") [Category:イギリスの風刺映画](https://ja.wikipedia.org/wiki/Category:イギリスの風刺映画 "wikilink") [Category:リンゼイ・アンダーソンの監督映画](https://ja.wikipedia.org/wiki/Category:リンゼイ・アンダーソンの監督映画 "wikilink") [Category:パルム・ドール受賞作](https://ja.wikipedia.org/wiki/Category:パルム・ドール受賞作 "wikilink") [Category:学校を舞台とした映画・オリジナルビデオ](https://ja.wikipedia.org/wiki/Category:学校を舞台とした映画・オリジナルビデオ "wikilink") [Category:グロスタシャーで製作された映画作品](https://ja.wikipedia.org/wiki/Category:グロスタシャーで製作された映画作品 "wikilink") [Category:ハートフォードシャーで製作された映画作品](https://ja.wikipedia.org/wiki/Category:ハートフォードシャーで製作された映画作品 "wikilink")

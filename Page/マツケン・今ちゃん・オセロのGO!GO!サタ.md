@@ -140,7 +140,7 @@
 
 ## 脚注・出典
 
-[Category:フジテレビのトーク番組](https://ja.wikipedia.org/wiki/Category:フジテレビのトーク番組 "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:フジテレビの料理番組](https://ja.wikipedia.org/wiki/Category:フジテレビの料理番組 "wikilink") [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink") [Category:今田耕司](https://ja.wikipedia.org/wiki/Category:今田耕司 "wikilink") [Category:オセロ_(お笑いコンビ)](https://ja.wikipedia.org/wiki/Category:オセロ_\(お笑いコンビ\) "wikilink")
+[Category:フジテレビのトーク番組](https://ja.wikipedia.org/wiki/Category:フジテレビのトーク番組 "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:フジテレビの料理番組](https://ja.wikipedia.org/wiki/Category:フジテレビの料理番組 "wikilink") [Category:フジクリエイティブコーポレーション](https://ja.wikipedia.org/wiki/Category:フジクリエイティブコーポレーション "wikilink") [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink") [Category:今田耕司](https://ja.wikipedia.org/wiki/Category:今田耕司 "wikilink") [Category:オセロ_(お笑いコンビ)](https://ja.wikipedia.org/wiki/Category:オセロ_\(お笑いコンビ\) "wikilink")
 
 1.  これはかつて[毎日放送](../Page/毎日放送.md "wikilink")が[植木等](https://ja.wikipedia.org/wiki/植木等 "wikilink")の冠番組『[植木等デラックス](../Page/植木等デラックス.md "wikilink")』を開始したときも、植木の「[スーダラ節](../Page/スーダラ節.md "wikilink")」のリバイバルヒットに便乗していたことにも同様のことがいえよう。
 2.  [まごまご嵐](https://ja.wikipedia.org/wiki/まごまご嵐 "wikilink")→[GRA](../Page/GRA_\(テレビ番組\).md "wikilink")→[VS嵐](https://ja.wikipedia.org/wiki/VS嵐 "wikilink")

@@ -40,7 +40,7 @@
       - [☆Taku Takahashi](https://ja.wikipedia.org/wiki/☆Taku_Takahashi "wikilink")（2014年 - ）
   - [May J.](https://ja.wikipedia.org/wiki/May_J. "wikilink")（2009年 - ）
   - [Q'ulle](https://ja.wikipedia.org/wiki/Q'ulle "wikilink")（2017年 - ）
-  - [Raychell](https://ja.wikipedia.org/wiki/Raychell "wikilink")（2013年 - ）
+  - [Raychell](../Page/Raychell.md "wikilink")（2013年 - ）
   - [RED DIAMOND DOGS](https://ja.wikipedia.org/wiki/RED_DIAMOND_DOGS "wikilink")（2016年 - ）
   - [THE RAMPAGE from EXILE TRIBE](https://ja.wikipedia.org/wiki/THE_RAMPAGE_from_EXILE_TRIBE "wikilink")（2017年 - ）
   - [Yup'in](https://ja.wikipedia.org/wiki/Yup'in "wikilink")（2017年 - ）

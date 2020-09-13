@@ -1244,7 +1244,7 @@
 </tr>
 <tr class="odd">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オリンピック・リヨン" title="wikilink">オリンピック・リヨン</a></p></td>
+<td><p><a href="../Page/オリンピック・リヨン.md" title="wikilink">オリンピック・リヨン</a></p></td>
 <td><p>2–1</p></td>
 <td><p>1–2</p></td>
 <td><p>'''3–3<br />
@@ -1356,7 +1356,7 @@
 
   - 2020年2月1日現在
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))
 
 ※括弧内の国旗はその他保有国籍、もしくは市民権を示す。
 
@@ -1620,7 +1620,7 @@
 
   - [Beşiktaş: Istanbul's third club but Constantinople's first](http://thesefootballtimes.co/2016/03/27/besiktas-istanbuls-third-club-but-constantinoples-first/) at thesefootballtimes.co
 
-[Category:トルコのサッカークラブ](https://ja.wikipedia.org/wiki/Category:トルコのサッカークラブ "wikilink") [Category:イスタンブールのスポーツチーム](https://ja.wikipedia.org/wiki/Category:イスタンブールのスポーツチーム "wikilink") [Category:ベシクタシュJK](https://ja.wikipedia.org/wiki/Category:ベシクタシュJK "wikilink")
+[Category:ベシクタシュJK](https://ja.wikipedia.org/wiki/Category:ベシクタシュJK "wikilink") [Category:トルコのサッカークラブ](https://ja.wikipedia.org/wiki/Category:トルコのサッカークラブ "wikilink") [Category:イスタンブールのサッカークラブ](https://ja.wikipedia.org/wiki/Category:イスタンブールのサッカークラブ "wikilink") [Category:イスタンブールのスポーツチーム](https://ja.wikipedia.org/wiki/Category:イスタンブールのスポーツチーム "wikilink")
 
 1.
 2.

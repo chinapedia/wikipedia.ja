@@ -5,7 +5,7 @@
 
 ## 概要
 
-[マルチリンガル](https://ja.wikipedia.org/wiki/マルチリンガル "wikilink")であり\[3\]、[日本語](../Page/日本語.md "wikilink")を中心としつつ、全ての曲を[英語](../Page/英語.md "wikilink")で吹き込んだアルバム(Marie II)\[4\] や、8カ国語（[日本語](../Page/日本語.md "wikilink")・[イタリア語](../Page/イタリア語.md "wikilink")・[ミャンマー語](https://ja.wikipedia.org/wiki/ミャンマー語 "wikilink")・[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")・[韓国語](https://ja.wikipedia.org/wiki/韓国語 "wikilink")・[英語](../Page/英語.md "wikilink")・[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")・[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink") - Marie IV、日本語、ミャンマー語、英語、中国語、ポルトガル語、フランス語、チェコ語、ドイツ語 - Marie VIII\[5\]）の楽曲を収録したアルバムを発表したことがある。
+[マルチリンガル](https://ja.wikipedia.org/wiki/マルチリンガル "wikilink")であり\[3\]、[日本語](../Page/日本語.md "wikilink")を中心としつつ、全ての曲を[英語](../Page/英語.md "wikilink")で吹き込んだアルバム(Marie II)\[4\] や、8カ国語（[日本語](../Page/日本語.md "wikilink")・[イタリア語](../Page/イタリア語.md "wikilink")・[ミャンマー語](https://ja.wikipedia.org/wiki/ミャンマー語 "wikilink")・[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")・[韓国語](https://ja.wikipedia.org/wiki/韓国語 "wikilink")・[英語](../Page/英語.md "wikilink")・[中国語](../Page/中国語.md "wikilink")・[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink") - Marie IV、日本語、ミャンマー語、英語、中国語、ポルトガル語、フランス語、チェコ語、ドイツ語 - Marie VIII\[5\]）の楽曲を収録したアルバムを発表したことがある。
 
 国内のみでなく、海外でもライブ活動を展開。2007年、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[カンヌ](../Page/カンヌ.md "wikilink")で行われた[MIDEM](https://ja.wikipedia.org/wiki/MIDEM "wikilink")（国際音楽産業見本市）に出演し、その模様は[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[衛星放送](../Page/衛星放送.md "wikilink")された。
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-番組開始当初は、[競艇](../Page/競艇.md "wikilink")の[テレビ中継](https://ja.wikipedia.org/wiki/テレビ中継 "wikilink")[リポーター](../Page/リポーター.md "wikilink")などで知られた車田由美、[スポーツライター](https://ja.wikipedia.org/wiki/スポーツライター "wikilink")の白瀬まゆ美が[パーソナリティを担当](../Page/ラジオパーソナリティ.md "wikilink")。 2012年4月以降、スナオマサカズ（[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")）が担当。
+番組開始当初は、[競艇](../Page/競艇.md "wikilink")の[テレビ中継](https://ja.wikipedia.org/wiki/テレビ中継 "wikilink")[リポーター](../Page/リポーター.md "wikilink")などで知られた車田由美、[スポーツライター](../Page/スポーツライター.md "wikilink")の白瀬まゆ美が[パーソナリティを担当](../Page/ラジオパーソナリティ.md "wikilink")。 2012年4月以降、スナオマサカズ（[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")）が担当。
 
 清水エスパルスの試合[ハイライト](https://ja.wikipedia.org/wiki/ハイライト "wikilink")、選手の試合後のコメント、シーズンオフにはそのシーズンを振り返っての[インタビュー](../Page/インタビュー.md "wikilink")、また[リスナー](../Page/リスナー.md "wikilink")に対する月間賞のプレゼントで構成されている。
 

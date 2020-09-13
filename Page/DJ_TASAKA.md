@@ -29,25 +29,35 @@
 
 2017年、電気グルーヴのベストアルバム「DENKI GROOVE DECADE 2008～2017」のダイジェストミックスを担当。[2](https://www.youtube.com/watch?v=_A85OcDgugM)
 
+2018年、[JUZU a.k.a MOOCHYとのユニット](https://ja.wikipedia.org/wiki/JUZU_a.k.a_MOOCHY "wikilink")「HIGHTIME Inc.」のアルバム『Alchemist Now\!』をリリース。[3](https://ototoy.jp/feature/20171218)
+
+2019年、電気グルーヴのアルバム「30」のダイジェストミックスを担当。[4](https://www.youtube.com/watch?v=wSfjiLj-NzA)
+
+2020年、アルバム「Goodie Bag」をリリース。[5](https://www.youtube.com/watch?v=NeIorAOMhaE)
+
 ## ディスコグラフィ
 
 **アルバム**
 
-*PASSPORT FOR DISCO*　(2002)
+●*PASSPORT FOR DISCO*　(2002)
 
 1\. DISCO IMMIGRATION 2. STREET STARS BREAKIN’ 3. STAY FUNKY 4. GANZ GANGRO IS DEAD 5. LOOPA TROOPER 6. YOU LIKE THAT?
 
-''GO DJ '' (2005)　
+●''GO DJ '' (2005)　
 
 1\. Intro 2. Let me 3. Speaker Typhoon 4. the Discjockey 5. Bass For Your Face 6. Acid Action 7. Nightmare Of Disco 8. On The Spot 9. Southern Tribal Stars 10. Hanabi 11. Jack You All 12. Hikiwari 13. Get down To My Loop 14. Mic Robo 15. Rockin’ Onna 16. Miss Controller . Baby Dub 18. Time To Roll 19. Seed
 
-*SOUL CLAP 　*(2009)
+●''SOUL CLAP ''(2009)
 
 1\. Day For Night 2. You Are Welcome 3. Wood 4. Waterside 5. Wayback 6. Purple People 7. Like A Rolling Stoner 8. Count To Go 9. Glocal Soul 10. Baiu 11. Heart Shaped One 12. Opener
 
-''UpRight '' (2015)
+●''UpRight '' (2015)
 
 1.INTRO -Let’ s Keep Our Head Up-　 2. BLEND iz beautiful feat.MC JOE　3. Smash Em　4. Edge of Panic feat.Kinue　5. UnderGuard 6. Out in the Park 7. Free Those Freaks 8. Mitakueoyashin feat.SoRA 9. C Side Wins 10. Counter Side feat.Kinue 11. No\!No\!No\! 12. Attendance
+
+●*Goodie Bag* (2020)
+
+01.Pirate Parade　02.Soleado　03.Enchilada　04.Side to Side　05.Rowers　06.Agua con gas　07.A Bear Dances　08.Around the Corner 09.Hypnotize　10.Hakkoutai　11.DISKORAVE　12.Oriental Funk　13.Bass of Hope
 
 **シングル・コンピレーション**
 
@@ -205,10 +215,12 @@
 
 ## 外部リンク
 
-  - [djtasaka.jp](http://www.djtasaka.jp) -公式サイト
-
   -
-[Category:テクノミュージシャン](https://ja.wikipedia.org/wiki/Category:テクノミュージシャン "wikilink") [Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1974年生](https://ja.wikipedia.org/wiki/Category:1974年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+  - YouTube Ch <https://www.youtube.com/channel/UCBmJUFWbDstQPMCQwSMf6mA>
+
+  - <https://soundcloud.com/dj-tasaka>
+
+[Category:日本のテクノミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のテクノミュージシャン "wikilink") [Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1974年生](https://ja.wikipedia.org/wiki/Category:1974年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  <http://www.djtasaka.jp/biography>
 2.  <http://www.kikkawa.com/discography/detail/294>

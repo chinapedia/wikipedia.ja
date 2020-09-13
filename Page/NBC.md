@@ -1,9 +1,9 @@
 > この記事は[NBC](https://ja.wikipedia.org/wiki/NBC)から翻訳されています。
 
 
-**NBC**（、全国放送会社）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[三大ネットワーク](https://ja.wikipedia.org/wiki/ネットワーク_\(放送\)#アメリカ "wikilink")（）のひとつで、[NBCユニバーサル](../Page/NBCユニバーサル.md "wikilink")グループの主体となる企業である。ネットワークの本部は[ニューヨーク](../Page/ニューヨーク.md "wikilink")・[マンハッタン](../Page/マンハッタン.md "wikilink")の[ロックフェラー・センター](../Page/ロックフェラー・センター.md "wikilink")（[GEビルディング](../Page/GEビルディング.md "wikilink")）に置かれている。  [GE_Building_by_David_Shankbone.JPG](https://ja.wikipedia.org/wiki/File:GE_Building_by_David_Shankbone.JPG "fig:GE_Building_by_David_Shankbone.JPG")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:NBC_Tower,_Chicago.jpg "wikilink")）\]\]
+**NBC**（、全国放送会社）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[三大ネットワーク](https://ja.wikipedia.org/wiki/ネットワーク_\(放送\)#アメリカ "wikilink")（[Big Three television networks](https://ja.wikipedia.org/wiki/:en:Big_Three_television_networks "wikilink")）のひとつで、[NBCユニバーサル](../Page/NBCユニバーサル.md "wikilink")グループの主体となる企業である。ネットワークの本部は[ニューヨーク](../Page/ニューヨーク.md "wikilink")・[マンハッタン](../Page/マンハッタン.md "wikilink")の[ロックフェラー・センター](../Page/ロックフェラー・センター.md "wikilink")（[GEビルディング](../Page/GEビルディング.md "wikilink")）に置かれている。  [GE_Building_by_David_Shankbone.JPG](https://ja.wikipedia.org/wiki/File:GE_Building_by_David_Shankbone.JPG "fig:GE_Building_by_David_Shankbone.JPG")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:NBC_Tower,_Chicago.jpg "wikilink")）\]\]
 
-なお、日本の長崎県をエリアとする[長崎放送](../Page/長崎放送.md "wikilink")（NBC）とは一切関係も提携関係もない。
+なお、日本の長崎県を放送エリアとする[長崎放送](../Page/長崎放送.md "wikilink")（NBC）とは資本・提携関係は一切ない。
 
 ## 沿革
 
@@ -13,7 +13,7 @@
   - [1939年](../Page/1939年.md "wikilink") テレビ試験放送開始。
   - [1940年](../Page/1940年.md "wikilink") [連邦通信委員会](../Page/連邦通信委員会.md "wikilink")が[チェーン・ブロードキャスティングを独占行為として起訴](https://ja.wikipedia.org/wiki/:en:Chain_broadcasting "wikilink")。NBC 側敗訴により、NBC **Red** network がNBC Red Network, Inc.、また、NBC **Blue** network がNBC Blue Network, Inc.と2社に分割される。赤ネットは以前[AT\&T](../Page/AT&T.md "wikilink") 所有であったネットワークをRCA が買収した事業。青ネットはRCA が独自に開拓したネットワーク事業。
   - [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")[7月1日](../Page/7月1日.md "wikilink") 世界で初めてテレビ本放送開始（米CBSと同時）。
-  - [1943年](../Page/1943年.md "wikilink") 親会社「RCA」がNBC Blue Network, Inc.をエドワード・ジョン・ノーブルに売却し、NBC Blue Network, Inc.は、社名をThe Blue Network, Inc.と改称し、ネットワーク名を「[アメリカン・ブロードキャスティング・カンパニー](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")（ABC）」とする。
+  - [1943年](../Page/1943年.md "wikilink") 親会社「RCA」がNBC Blue Network, Inc.をエドワード・ジョン・ノーブルに売却し、社名をThe Blue Network, Inc.と改称し、ネットワーク名を「[アメリカン・ブロードキャスティング・カンパニー](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")（ABC）」とする。
   - [1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[10月30日](../Page/10月30日.md "wikilink") 世界初のNTSC方式によるカラー試験放送を開始。
 
 ### テレビ時代
@@ -41,9 +41,9 @@
 
   - ロゴマークとともに有名なものが、NBCチャイム（NBC Chimes、[英語版](https://ja.wikipedia.org/wiki/:en:NBC_chimes "wikilink")）と呼ばれる三つの[音高](../Page/音高.md "wikilink")からなるチャイム。[1931年](../Page/1931年.md "wikilink")にNBCのラジオ放送において、ネットワークとローカル放送の切り替えの合図として採用された。[1947年](../Page/1947年.md "wikilink")には[米国特許商標庁](../Page/米国特許商標庁.md "wikilink")から初めて[音声商標として認められており](../Page/商標.md "wikilink")\[6\]、現在でもNBCのネットワークで放映される番組や、直営・加盟局のニュース番組の音楽など、あらゆる場面で使われている。
 
-### オリンピック
+### オリンピック・パラリンピック
 
-  - NBCは1964年に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で行われた[東京大会で初めてオリンピックの放映権を獲得](../Page/1964年東京オリンピック.md "wikilink")。2020年現在、1988年に[大韓民国](../Page/大韓民国.md "wikilink")で行われた[ソウル大会以降の](../Page/1988年ソウルオリンピック.md "wikilink")[夏季オリンピック](../Page/夏季オリンピック.md "wikilink")と2002年にアメリカ合衆国で行われた[ソルトレークシティ大会以降の](https://ja.wikipedia.org/wiki/2002年ソルトレークシティオリンピック "wikilink")[冬季オリンピック](../Page/冬季オリンピック.md "wikilink")の全てのオリンピック大会をアメリカ国内において独占放送している\[7\]\[8\]。そのため、大会期間中は朝の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")『[トゥデイ](../Page/トゥデイ_\(テレビ番組\).md "wikilink")』など、NBCの人気番組を開催地からの生中継で放送することがある\[9\]。
+  - NBCは1964年に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で行われた[東京大会で初めてオリンピックの放映権を獲得](../Page/1964年東京オリンピック.md "wikilink")。2020年現在、1988年に[大韓民国](../Page/大韓民国.md "wikilink")で行われた[ソウル大会以降の](../Page/1988年ソウルオリンピック.md "wikilink")[夏季オリンピック](../Page/夏季オリンピック.md "wikilink")と2002年にアメリカ合衆国で行われた[ソルトレークシティ大会以降の](https://ja.wikipedia.org/wiki/2002年ソルトレークシティオリンピック "wikilink")[冬季オリンピック](../Page/冬季オリンピック.md "wikilink")の全てのオリンピック・パラリンピック大会をアメリカ国内において独占放送している\[7\]\[8\]。そのため、大会期間中は朝の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")『[トゥデイ](../Page/トゥデイ_\(テレビ番組\).md "wikilink")』など、NBCの人気番組を開催地からの生中継で放送することがある\[9\]。
 
 <!-- end list -->
 

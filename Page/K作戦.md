@@ -1,7 +1,7 @@
 > この記事は[K作戦](https://ja.wikipedia.org/wiki/K作戦)から翻訳されています。
 
 
-**K作戦**（けーさくせん）とは、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に[日本海軍が実施した](../Page/大日本帝国海軍.md "wikilink")[二式飛行艇](../Page/二式飛行艇.md "wikilink")（二式大艇）を使用した[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")の[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")準州に対する航空作戦\[1\]。第一次は[真珠湾](../Page/真珠湾.md "wikilink")に対する空襲を企図した。この作戦は二式大艇の初の[実戦](https://ja.wikipedia.org/wiki/実戦 "wikilink")となった。第二次は[ミッドウェー作戦](https://ja.wikipedia.org/wiki/ミッドウェー作戦 "wikilink")のため、ハワイにいると思われる敵機動部隊に対する偵察を企図した。
+**K作戦**（けーさくせん）とは、[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")中に[日本海軍が実施した](../Page/大日本帝国海軍.md "wikilink")[二式飛行艇](../Page/二式飛行艇.md "wikilink")（二式大艇）を使用した[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")の[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")準州に対する航空作戦\[1\]。第一次は[真珠湾](../Page/真珠湾.md "wikilink")に対する空襲を企図した。この作戦は二式大艇の初の[実戦](https://ja.wikipedia.org/wiki/実戦 "wikilink")となった。第二次は[ミッドウェー作戦](https://ja.wikipedia.org/wiki/ミッドウェー作戦 "wikilink")のため、ハワイにいると思われる敵機動部隊に対する偵察を企図した。
 
 ## 第一次
 

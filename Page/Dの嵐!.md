@@ -1347,7 +1347,7 @@
 <td><p>90</p></td>
 <td><p>3月30日</p></td>
 <td><p>相葉・櫻井</p></td>
-<td><p><a href="../Page/かつみ・さゆり.md" title="wikilink">かつみ・さゆり</a></p></td>
+<td><p><a href="../Page/かつみ♥さゆり.md" title="wikilink">かつみ♥さゆり</a></p></td>
 <td><p>どれだけ巨大な<br />
 雪ダルマが作れるか?</p></td>
 <td><p>湯沢町で朝から日没まで雪だるまを作り続ける</p></td>
@@ -2204,8 +2204,7 @@
 
 ## 外部リンク
 
-  - [番組公式サイト](http://www.ntv.co.jp/arashi/d/)
-
+  -
 <!-- end list -->
 
   -

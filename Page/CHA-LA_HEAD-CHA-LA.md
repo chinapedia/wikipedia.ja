@@ -5,7 +5,7 @@
 
 ## 概要
 
-『[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』のオープニングテーマとして発表された[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")で、同アニメ第1話から第199話までの前期オープニングとして約4年5か月の間使用され、その後、『[WE GOTTA POWER](https://ja.wikipedia.org/wiki/WE_GOTTA_POWER "wikilink")』へと変わった。オリジナル版の[カップリングには](https://ja.wikipedia.org/wiki/A面/B面#A面曲とB面曲の違い "wikilink")、MANNAが歌う同アニメの前期エンディングテーマ「でてこい とびきりZENKAIパワー\!」が収録されている。のちに発売された「CHA-LA HEAD-CHA-LA〜2005〜」には、[WE GOTTA POWER](https://ja.wikipedia.org/wiki/WE_GOTTA_POWER "wikilink") (2005 Ver.) が収録されている。
+表題曲の「CHA-LA HEAD-CHA-LA」は、『[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』のオープニングテーマとして発表された[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")で、同アニメ第1話から第199話までの前期オープニングとして約4年5か月の間使用され、その後、『[WE GOTTA POWER](https://ja.wikipedia.org/wiki/WE_GOTTA_POWER "wikilink")』へと変わった。オリジナル版の[カップリングには](https://ja.wikipedia.org/wiki/A面/B面#A面曲とB面曲の違い "wikilink")、MANNAが歌う同アニメの前期エンディングテーマ「でてこい とびきりZENKAIパワー\!」が収録されている。のちに発売された「CHA-LA HEAD-CHA-LA〜2005〜」には、「[WE GOTTA POWER](https://ja.wikipedia.org/wiki/WE_GOTTA_POWER "wikilink") (2005 Ver.)」が収録されている。
 
 歌詞で使われている「Sparking\!」という単語は、『[ドラゴンボールZ Sparking\!](../Page/ドラゴンボールZ_Sparking!.md "wikilink")』のようなゲーム作品でも使われている。
 
@@ -70,30 +70,157 @@
 
 ## カバー
 
-| 曲名                                 | 発売日                                                                    | 歌手名                                                                                                       | CDタイトル                                                                |
-| ---------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| CHA-LA HEAD-CHA-LA                 | 2006年8月23日                                                             | [東京ブラススタイル](../Page/東京ブラススタイル.md "wikilink")                                                              | 饗宴ラフレシア～アニジャズ 2nd note～                                               |
-| 2007年5月23日                         | VOIX DOUCE                                                             | アニカペラ VOL.1                                                                                               |                                                                       |
-| 2007年7月11日                         | 泉こなた（[平野綾](../Page/平野綾.md "wikilink")）                                 | [TVアニメ『らき☆すた』エンディングテーマ集 〜ある日のカラオケボックス〜](../Page/TVアニメ『らき☆すた』エンディングテーマ集_〜ある日のカラオケボックス〜.md "wikilink")      |                                                                       |
-| 2007年10月3日                         | [加藤英美里](../Page/加藤英美里.md "wikilink")                                   | [百歌声爛 女性声優編](https://ja.wikipedia.org/wiki/百歌声爛#女性声優編 "wikilink")                                         |                                                                       |
-| 2009年7月8日                          | [佐山雅弘](../Page/佐山雅弘.md "wikilink")                                     | アニピアノ                                                                                                     |                                                                       |
-| 2011年1月26日                         | 真城最高（[阿部敦](../Page/阿部敦.md "wikilink")）                                 | テレビアニメ『[バクマン。](https://ja.wikipedia.org/wiki/バクマン。_\(アニメ\) "wikilink")』DVD & Blu-ray第1巻初回限定版特典CD          |                                                                       |
-| 2013年7月24日                         | TVアニメ「バクマン。」キャラクターカバーソングアルバム                                           |                                                                                                           |                                                                       |
-| 2012年2月8日                          | [松風雅也](../Page/松風雅也.md "wikilink")                                     | [新・百歌声爛II 男性声優編](https://ja.wikipedia.org/wiki/百歌声爛#男性声優編II（新） "wikilink")                                |                                                                       |
-| [KENN](../Page/KENN.md "wikilink") |                                                                        |                                                                                                           |                                                                       |
-| 2012年7月11日                         | [田村直美](../Page/田村直美.md "wikilink")                                     | リスペクト フォー アニソン                                                                                            |                                                                       |
-| 2012年8月1日                          | [SCREW](https://ja.wikipedia.org/wiki/SCREW_\(バンド\) "wikilink")        | V-ANIME ROCKS\!                                                                                           |                                                                       |
-| 2013年3月20日                         | [FLOW](../Page/FLOW.md "wikilink")\[1\]                                | [HERO 〜希望の歌〜/CHA-LA HEAD-CHA-LA](https://ja.wikipedia.org/wiki/HERO_〜希望の歌〜/CHA-LA_HEAD-CHA-LA "wikilink") |                                                                       |
-| 2015年4月29日                         | [ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")\[2\] | [『Z』の誓い](https://ja.wikipedia.org/wiki/『Z』の誓い "wikilink")（“Z盤”のみ）                                         |                                                                       |
-| 2015年7月29日                         | [片霧烈火](../Page/片霧烈火.md "wikilink")                                     | 熱烈\!アニソン魂 THE BEST カバー楽曲集 TVアニメシリーズ「ドラゴンボールシリーズ」vol.1                                                     |                                                                       |
-| Andy                               |                                                                        |                                                                                                           |                                                                       |
-| 2016年9月23日                         | [古谷徹](../Page/古谷徹.md "wikilink")\[3\]                                  | 古谷徹 50TH ANNIVERSARY「Thanks-感謝-」                                                                          |                                                                       |
-| でてこい とびきりZENKAIパワー\!               | 2009年3月18日                                                             | [田中理恵](../Page/田中理恵_\(声優\).md "wikilink")                                                                 | [百歌声爛 女性声優編Ⅲ](https://ja.wikipedia.org/wiki/百歌声爛#女性声優編III "wikilink") |
-| 2010年3月10日                         | [中川翔子](../Page/中川翔子.md "wikilink")                                     | [しょこたん☆かばー3 〜アニソンは人類をつなぐ〜](https://ja.wikipedia.org/wiki/しょこたん☆かばー3_〜アニソンは人類をつなぐ〜 "wikilink")             |                                                                       |
-| 2012年2月8日                          | [後藤沙緒里](../Page/後藤沙緒里.md "wikilink")                                   | [新・百歌声爛II 女性声優編](https://ja.wikipedia.org/wiki/百歌声爛#女性声優編II（新） "wikilink")                                |                                                                       |
-| 2015年7月29日                         | なかにし鈴子                                                                 | 熱烈\!アニソン魂 THE BEST カバー楽曲集 TVアニメシリーズ「ドラゴンボールシリーズ」vol.1                                                     |                                                                       |
-| 2016年9月14日                         | [ばってん少女隊](https://ja.wikipedia.org/wiki/ばってん少女隊 "wikilink")\[4\]       | よかよかダンス（ドラゴンボール超とごいっしょ盤・聴きんしゃい盤のみ）                                                                        |                                                                       |
-|                                    |                                                                        |                                                                                                           |                                                                       |
+<table>
+<thead>
+<tr class="header">
+<th><p>曲名</p></th>
+<th><p>発売日</p></th>
+<th><p>歌手名</p></th>
+<th><p>CDタイトル</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>CHA-LA HEAD-CHA-LA</p></td>
+<td><p>1997年4月21日</p></td>
+<td><p>マイケル・G<br />
+（英訳詞）</p></td>
+<td><p>ハッピー・チャイルド!〜英語でうたおう　こどものうた　みんなのうた〜</p></td>
+</tr>
+<tr class="even">
+<td><p>2006年8月23日</p></td>
+<td><p><a href="../Page/東京ブラススタイル.md" title="wikilink">東京ブラススタイル</a></p></td>
+<td><p>饗宴ラフレシア～アニジャズ 2nd note～</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2007年5月23日</p></td>
+<td><p>VOIX DOUCE</p></td>
+<td><p>アニカペラ VOL.1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2007年7月11日</p></td>
+<td><p>泉こなた（<a href="../Page/平野綾.md" title="wikilink">平野綾</a>）</p></td>
+<td><p><a href="../Page/TVアニメ『らき☆すた』エンディングテーマ集_〜ある日のカラオケボックス〜.md" title="wikilink">TVアニメ『らき☆すた』エンディングテーマ集 〜ある日のカラオケボックス〜</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2007年10月3日</p></td>
+<td><p><a href="../Page/加藤英美里.md" title="wikilink">加藤英美里</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/百歌声爛#女性声優編" title="wikilink">百歌声爛 女性声優編</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2009年7月8日</p></td>
+<td><p><a href="../Page/佐山雅弘.md" title="wikilink">佐山雅弘</a></p></td>
+<td><p>アニピアノ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2011年1月26日</p></td>
+<td><p>真城最高（<a href="../Page/阿部敦.md" title="wikilink">阿部敦</a>）</p></td>
+<td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/バクマン。_(アニメ)" title="wikilink">バクマン。</a>』DVD &amp; Blu-ray第1巻初回限定版特典CD</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2013年7月24日</p></td>
+<td><p>TVアニメ「バクマン。」キャラクターカバーソングアルバム</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2012年2月8日</p></td>
+<td><p><a href="../Page/松風雅也.md" title="wikilink">松風雅也</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/百歌声爛#男性声優編II（新）" title="wikilink">新・百歌声爛II 男性声優編</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/KENN.md" title="wikilink">KENN</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2012年7月11日</p></td>
+<td><p><a href="../Page/田村直美.md" title="wikilink">田村直美</a></p></td>
+<td><p>リスペクト フォー アニソン</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2012年8月1日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/SCREW_(バンド)" title="wikilink">SCREW</a></p></td>
+<td><p>V-ANIME ROCKS!</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2013年3月20日</p></td>
+<td><p><a href="../Page/FLOW.md" title="wikilink">FLOW</a>[1]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/HERO_〜希望の歌〜/CHA-LA_HEAD-CHA-LA" title="wikilink">HERO 〜希望の歌〜/CHA-LA HEAD-CHA-LA</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2015年4月29日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ももいろクローバーZ" title="wikilink">ももいろクローバーZ</a>[2]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/『Z』の誓い" title="wikilink">『Z』の誓い</a>（“Z盤”のみ）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2015年7月29日</p></td>
+<td><p><a href="../Page/片霧烈火.md" title="wikilink">片霧烈火</a></p></td>
+<td><p>熱烈!アニソン魂 THE BEST カバー楽曲集 TVアニメシリーズ「ドラゴンボールシリーズ」vol.1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Andy</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016年9月23日</p></td>
+<td><p><a href="../Page/古谷徹.md" title="wikilink">古谷徹</a>[3]</p></td>
+<td><p>古谷徹 50TH ANNIVERSARY「Thanks-感謝-」</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>でてこい とびきりZENKAIパワー!</p></td>
+<td><p>2009年3月18日</p></td>
+<td><p><a href="../Page/田中理恵_(声優).md" title="wikilink">田中理恵</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/百歌声爛#女性声優編III" title="wikilink">百歌声爛 女性声優編Ⅲ</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2010年3月10日</p></td>
+<td><p><a href="../Page/中川翔子.md" title="wikilink">中川翔子</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/しょこたん☆かばー3_〜アニソンは人類をつなぐ〜" title="wikilink">しょこたん☆かばー3 〜アニソンは人類をつなぐ〜</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2012年2月8日</p></td>
+<td><p><a href="../Page/後藤沙緒里.md" title="wikilink">後藤沙緒里</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/百歌声爛#女性声優編II（新）" title="wikilink">新・百歌声爛II 女性声優編</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2015年7月29日</p></td>
+<td><p>なかにし鈴子</p></td>
+<td><p>熱烈!アニソン魂 THE BEST カバー楽曲集 TVアニメシリーズ「ドラゴンボールシリーズ」vol.1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016年9月14日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ばってん少女隊" title="wikilink">ばってん少女隊</a>[4]</p></td>
+<td><p>よかよかダンス（ドラゴンボール超とごいっしょ盤・聴きんしゃい盤のみ）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 収録作品
 

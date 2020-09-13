@@ -29,7 +29,7 @@
 
   - [福田英次](https://ja.wikipedia.org/wiki/福田英次 "wikilink")
     名目上はアシスタントだが、番組内では大竹他に最も弄られていたキャラであり、所謂[リアクション芸人](../Page/リアクション芸人.md "wikilink")的な立ち位置での出演だった。特にバラエティパートでは体を張ったアクションを多々要求され、ロケでも市川と同じく重用されたりと、メンバー内では最も番組の為に奔走していたといえる。当時の福田は、この番組だけが唯一のレギュラー出演での仕事だったので、番組内ではよくレギュラー降格を匂わせるネタで弄られていた。タヒチアンダンスに挑戦する回では人格が変わったように終始激しく踊り狂い、そのあまりの変貌ぶりに水を得た魚のようだと周囲を驚かせたこともある。
-    番組の終盤には、もう僕をテレビで見ることは永久に無いかもしれないと言っていたが、番組終了後も様々な番組にテレビ出演をしている。現在は[タイムリーオフィス](https://ja.wikipedia.org/wiki/タイムリーオフィス "wikilink")に所属しており、俳優、声優、ナレーター、番組司会、キャスター、リポーターなどで活動中。
+    番組の終盤には、もう僕をテレビで見ることは永久に無いかもしれないと言っていたが、番組終了後も様々な番組にテレビ出演をしている。現在は[タイムリーオフィス](https://ja.wikipedia.org/wiki/タイムリーオフィス "wikilink")に所属し、芸能活動の傍ら『早慶学院プラスジュニア砂町教室』の教育長を務めている\[1\]。
 
 <!-- end list -->
 
@@ -123,8 +123,12 @@
   - プロデューサー：平隆夫（テレビ東京） → 中村豊志（テレビ東京）、藤田貴己（G・カンパニー）
   - 製作：テレビ東京、G・カンパニー
 
+## 脚注
+
 ## 外部リンク
 
   - [tadaima-pcland - gamers' hideout](http://www.josefdotsky.com/gamers-hideout/columns/column02.php)
 
 [Category:1989年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1989年のテレビ番組_\(日本\) "wikilink") [Category:テレビ東京のアニメ・ゲーム情報番組](https://ja.wikipedia.org/wiki/Category:テレビ東京のアニメ・ゲーム情報番組 "wikilink") [Category:コンピュータゲーム情報番組](https://ja.wikipedia.org/wiki/Category:コンピュータゲーム情報番組 "wikilink") [Category:PCエンジン](https://ja.wikipedia.org/wiki/Category:PCエンジン "wikilink") [Category:ハドソン](https://ja.wikipedia.org/wiki/Category:ハドソン "wikilink") [Category:テレビ東京のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のバラエティ番組の歴史 "wikilink")
+
+1.  [早慶学院プラスジュニア砂町教室](https://www.sokei-sunamachi.com/%E5%B0%8F%E5%AD%A6%E7%94%9F%E4%B8%AD%E5%AD%A6%E5%8F%97%E9%A8%93%E5%80%8B%E5%88%A5%E6%8E%88%E6%A5%AD%E3%82%B3%E3%83%BC%E3%82%B9/%E6%95%99%E8%82%B2%E7%90%86%E5%BF%B5/)2020年08月30日閲覧

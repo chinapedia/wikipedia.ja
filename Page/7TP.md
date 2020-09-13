@@ -60,7 +60,7 @@
   - [4TP](https://ja.wikipedia.org/wiki/4TP "wikilink")
   - [10TP](https://ja.wikipedia.org/wiki/10TP "wikilink")
 
-[Category:ポーランドの戦車](https://ja.wikipedia.org/wiki/Category:ポーランドの戦車 "wikilink")
+[Category:ポーランドの戦車](https://ja.wikipedia.org/wiki/Category:ポーランドの戦車 "wikilink") [Category:軽戦車](https://ja.wikipedia.org/wiki/Category:軽戦車 "wikilink")
 
 1.  "VA"はヴィッカース・アームストロング、"U"は国営技術工廠のウルスス部門（もと民間企業だったが世界恐慌を経て1930年に国営化）、もしくは改善を意味するポーランド語"ulepszeny"の頭文字、"-33"は1933年型をそれぞれ示す
 2.  Janusz Magnuski(1996), p7

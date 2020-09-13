@@ -15,7 +15,7 @@ RIPは、経由する可能性のある[ルータを](../Page/ルーター.md "w
 
 1990年代半ばまでは計算機の能力に余裕がなく、[OSPF対応ルータは高価であり](../Page/Open_Shortest_Path_First.md "wikilink")、上記の問題への対応よりも計算負荷の低さのメリットが優先されたためにRIPの運用が広く行われていた。
 
-2000年以降の計算機の性能向上により、上記の問題を全て解決したリンクステート型の[OSPFで用いるダイクストラ法の計算負荷は大きな問題ではなくなった](../Page/Open_Shortest_Path_First.md "wikilink")。 現在は[RIP](https://ja.wikipedia.org/wiki/RIP "wikilink")専用ルータから[OSPF対応ルータへと置き換えが進んだことで](../Page/Open_Shortest_Path_First.md "wikilink")、[RIP](https://ja.wikipedia.org/wiki/RIP "wikilink")は利用可能な計算資源が非常に少ない場合を除いて全く使用されなくなった。
+2000年以降の計算機の性能向上により、上記の問題を全て解決したリンクステート型の[OSPFで用いるダイクストラ法の計算負荷は大きな問題ではなくなった](../Page/Open_Shortest_Path_First.md "wikilink")。 現在はRIP専用ルータから[OSPF対応ルータへと置き換えが進んだことで](../Page/Open_Shortest_Path_First.md "wikilink")、RIPは利用可能な計算資源が非常に少ない場合を除いて全く使用されなくなった。
 
 ### ホップ数と固定メトリック
 

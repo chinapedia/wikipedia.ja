@@ -25,7 +25,7 @@
 
 本作のレコーディングは1987年[7月20日](../Page/7月20日.md "wikilink")から[8月29日](../Page/8月29日.md "wikilink")まで、日本国内のセディックスタジオ、[CBSソニー信濃町スタジオ](https://ja.wikipedia.org/wiki/ソニー・ミュージックスタジオ "wikilink")、スマイルガレージ、ビクター青山スタジオ、[サウンド・シティ](https://ja.wikipedia.org/wiki/サウンド・シティ_\(企業\) "wikilink")、[一口坂スタジオ](../Page/一口坂スタジオ.md "wikilink")にて行われ、さらに同年[9月4日](../Page/9月4日.md "wikilink")から[9月18日](../Page/9月18日.md "wikilink")まで、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")のIgnited Productions、[Record One](https://ja.wikipedia.org/wiki/オーシャン・ウェイ・レコーディング "wikilink")、Image Recordingにて行われた。プロデューサーは前作に続き小室および[小坂洋二](../Page/小坂洋二.md "wikilink")が担当している。
 
-本作において日本国外でのレコーディングが取り入れられた理由としては、ロックバンド[BOØWYがアルバム](../Page/BOOWY.md "wikilink")『[BOØWY](../Page/BOOWY_\(アルバム\).md "wikilink")』（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）において[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")の[ハンザ・スタジオ](https://ja.wikipedia.org/wiki/ハンザ・スタジオ "wikilink")にてレコーディングを行っており、[東西冷戦の空気感を取り入れたコンセプトでアルバムを製作している事などを受けて](../Page/冷戦.md "wikilink")、小室は「すごいところまで行っちゃった。これは追いつくのが大変だ」と対抗意識を認識した事から決定された\[2\]。
+本作において日本国外でのレコーディングが取り入れられた理由としては、ロックバンド[BOØWY](../Page/BOØWY.md "wikilink")がアルバム『[BOØWY](https://ja.wikipedia.org/wiki/BOØWY_\(アルバム\) "wikilink")』（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）において[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")の[ハンザ・スタジオ](https://ja.wikipedia.org/wiki/ハンザ・スタジオ "wikilink")にてレコーディングを行っており、[東西冷戦の空気感を取り入れたコンセプトでアルバムを製作している事などを受けて](../Page/冷戦.md "wikilink")、小室は「すごいところまで行っちゃった。これは追いつくのが大変だ」と対抗意識を認識した事から決定された\[2\]。
 
 [デモテープ](https://ja.wikipedia.org/wiki/デモテープ "wikilink")は1987年7月下旬に小室と木根が共同で10曲作った。木根が2曲・後は小室が制作した。日本国外でのレコーディングのスケジュールが差し迫っていたため、状況に応じて、メロディ・テイク等をその日の内に決めなければならない程の即断即決を迫られた。コンセプトの全体像が固まったのは日本でのレコーディング終盤で、その頃同時に日本・海外のサポートミュージシャンを同時に決めて、許諾を得た後に契約を進めつつ、4曲程日本でレコーディングした。この時既に[ウォーレン・ククルロとも契約を結んでいたが](https://ja.wikipedia.org/wiki/:en:Warren_Cuccurullo "wikilink")、小室曰く「エキセントリックな弾き方をする人」だったため、ポップな曲を安全パイとして[鳥山雄司](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink")を筆頭とした日本のギタリストに任せて、冒険できる曲をウォーレンにやってもらった。逆にロサンゼルスのレコーディングでは、小室が思う通りの時間が取れ、午後2時から翌日早朝5時まで行った。海外のエンジニアからは「信じられない…」ときつそうな表情で見られたという\[3\]。
 
@@ -133,8 +133,8 @@
         ヨハン・パッヘルベルのカノンのコード進行を引用している\[44\]。
 8.  **[Resistance](../Page/RESISTANCE_\(TM_NETWORKの曲\).md "wikilink")**
       -
-        元々はバラードソングとして製作されたが、「Get Wild」路線の曲が必要であると判断した小室は[青山純](../Page/青山純.md "wikilink")のドラムスを入れロックテイストの曲に仕上げた\[45\]。
-        後に12thシングルとしてシングルカットされている。
+        12thシングルとしてシングルカットされた曲。元々はバラードソングとして製作されたが、「Get Wild」路線の曲が必要であると判断した小室は[青山純](../Page/青山純.md "wikilink")のドラムスを入れロックテイストの曲に仕上げた\[45\]。
+        後に小室哲哉がソロアルバム[Hit Factoryで同曲をカバーしているが](../Page/Hit_Factory.md "wikilink")、本曲と違いテンポはスローで音も重い感じのものなっている。
 9.  **Come Back to Asia**
       -
         日本国外でのレコーディングという環境から製作された曲であり、エンターテインメントに関して[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")と比較して日本が小さく見えた事から、「アメリカから見た日本」を意識して製作された\[46\]。

@@ -72,20 +72,38 @@
   - [優香](../Page/優香.md "wikilink")
       - [2019年](../Page/2019年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink")に第1子を懐妊中であることを公表している\[10\]。このため、2020年3月9日放送をもって産休のために一時降板\[11\]。
   - [高山一実](https://ja.wikipedia.org/wiki/高山一実 "wikilink")（[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")）
-      - [2020年](../Page/2020年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")放送から優香産休中の代理として出演。\[12\]
+      - [2020年](../Page/2020年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")放送から優香産休中の代理として出演\[12\]。
 
-### Qさまプレゼンター(初期)
+### 見届け人
+
+  - [山崎弘也](../Page/山崎弘也.md "wikilink")（[アンタッチャブル](../Page/アンタッチャブル_\(お笑いコンビ\).md "wikilink")）
+
+### 進行アシスタント
+
+  - [清水俊輔](../Page/清水俊輔.md "wikilink")（テレビ朝日アナウンサー）
+
+<!-- end list -->
+
+  -
+    プレッシャーSTUDYにほぼ固定されてからは、MCを補佐する進行・実況を担当。現在の螺旋階段方式のクイズの進行・実況も担当。
+
+### 過去の出演者
+
+'''Qさまプレゼンター（初期） '''
 
   -
     プレゼンターは[スタジオ](../Page/スタジオ_\(映像撮影\).md "wikilink")、[ロケともにほぼ毎回番組](../Page/ロケーション撮影.md "wikilink")[ロゴ入りの同じ衣装を着用する](../Page/ロゴタイプ.md "wikilink")。
-  - レギュラープレゼンター
+
+**レギュラープレゼンター**
+
+  -
     かつてはクイズのプレゼンを行うほか常にスタジオ[ひな壇](https://ja.wikipedia.org/wiki/ひな壇 "wikilink")に控えているが、「プレッシャーSTUDY」中心の編成の現在はそのようなセットはなく、レギュラープレゼンターという肩書きは事実上有名無実化しているが、レギュラーとして「プレッシャーSTUDY」で交互に解答者として出演し、「Qさま\!\!」特別枠となっていた。しかし、学力王がメインとなった2018年現在は山崎以外はほとんど出演がなく、事実上の降板状態となっている。
 
 <!-- end list -->
 
   - [青木さやか](../Page/青木さやか.md "wikilink")
       - [黒色](https://ja.wikipedia.org/wiki/黒色 "wikilink")の[OL](../Page/OL.md "wikilink")風スーツを着用、髪は常に[ポニーテール](../Page/ポニーテール.md "wikilink")
-  - [アンタッチャブル](../Page/アンタッチャブル_\(お笑いコンビ\).md "wikilink")（[山崎弘也](../Page/山崎弘也.md "wikilink")・[柴田英嗣](../Page/柴田英嗣.md "wikilink")）
+  - アンタッチャブル（山崎弘也・[柴田英嗣](../Page/柴田英嗣.md "wikilink")）
       - プレゼンター時、山崎は薄緑、柴田はオレンジの白掛けボーダーラインシャツと、両人とも紺[デニム](../Page/デニム.md "wikilink")の[オーバーオール](../Page/オーバーオール.md "wikilink")を着用。
       - 2005年5月26日・6月2日は司会
       - 2018年まで、番組公式サイトでは唯一山崎のみ紹介されている。
@@ -96,34 +114,58 @@
   - [南海キャンディーズ](../Page/南海キャンディーズ.md "wikilink")（[山ちゃん](../Page/山里亮太.md "wikilink")・[しずちゃん](../Page/山崎静代.md "wikilink")）
       - しずちゃんは白のパンツルック、山ちゃんはピンクのジャケットを着用。南海キャンディーズ舞台衣装の一部を黒からピンクに変えたようなデザイン。
       - 2005年11月3日放送のレギュラー検定プレゼン（落ちたら死ぬぐらいの高さに設置された凄く小さい板の上で命綱無しでラジオ体操をするというもの）を経て、しずちゃんのみレギュラー入り決定。山ちゃんはあまりにも不甲斐無かったので「サブメンバー」としての参加であった（ただし実質的はレギュラーと変わりは無かった）。
-      - 前述の通り山崎以外の他のメンバーと同様に実質的に降板同然の状態にあったが、山ちゃんは正式に卒業を発表することがないまま2019年4月以降は[裏番組にMCとしてレギュラー出演する結果となった](https://ja.wikipedia.org/wiki/メイドインジャパン! "wikilink")。
+      - 前述の通り山崎以外の他のメンバーと同様に実質的に降板同然の状態にあったが、山ちゃんは正式に卒業を発表することがないまま2019年度は[裏番組にMCとしてレギュラー出演する結果となった](https://ja.wikipedia.org/wiki/メイドインジャパン! "wikilink")。
 
 <!-- end list -->
 
   -
     ※ 夏季放送の時、[レギュラー](https://ja.wikipedia.org/wiki/レギュラー "wikilink")プレゼンター（青木・アンタッチャブル・ロバート）は夏仕様の半袖になっていた。
-  - 準プレゼンター（深夜時代)
+
+**準プレゼンター（深夜時代）**
+
+  -
     末期はレギュラープレゼンターと共同でプレゼンを行うことがほとんどであった。
 
 <!-- end list -->
 
   - [大原かおり](https://ja.wikipedia.org/wiki/大原かおり "wikilink")
   - [KABA.ちゃん](../Page/KABA.ちゃん.md "wikilink")
-      -
-        青い派手なスーツを着用。
+
+<!-- end list -->
+
+  -
+    青い派手なスーツを着用。
+
+<!-- end list -->
+
   - [根本はるみ](https://ja.wikipedia.org/wiki/根本はるみ "wikilink")
-      -
-        赤い上着に黒の服を着用。「ニセ温泉」などアンタッチャブルと合同でのプレゼンが多い。
+
+<!-- end list -->
+
+  -
+    赤い上着に黒の服を着用。「ニセ温泉」などアンタッチャブルと合同でのプレゼンが多い。
+
+<!-- end list -->
+
   - [MEGUMI](https://ja.wikipedia.org/wiki/MEGUMI "wikilink")
   - [小阪由佳](../Page/小阪有花.md "wikilink")
   - 「[トリック](../Page/トリック_\(テレビドラマ\).md "wikilink")」チーム（[仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")、[阿部寛](../Page/阿部寛.md "wikilink")、[野際陽子](../Page/野際陽子.md "wikilink")、[生瀬勝久](https://ja.wikipedia.org/wiki/生瀬勝久 "wikilink")、[池田鉄洋](../Page/池田鉄洋.md "wikilink")）
-      -
-        映画「トリック劇場版2」のプロモーションで出演した。
-  - [インリン・オブ・ジョイトイ](https://ja.wikipedia.org/wiki/インリン・オブ・ジョイトイ "wikilink")
-      -
-        2006年11月13日放送分の「すれ違いリアルビビリ橋」でプレゼン。但し、スタジオ出演及び審査はなかった。
 
-### 競技実況・進行アシスタント
+<!-- end list -->
+
+  -
+    映画「トリック劇場版2」のプロモーションで出演した。
+
+<!-- end list -->
+
+  - [インリン・オブ・ジョイトイ](https://ja.wikipedia.org/wiki/インリン・オブ・ジョイトイ "wikilink")
+
+<!-- end list -->
+
+  -
+    2006年11月13日放送分の「すれ違いリアルビビリ橋」でプレゼン。但し、スタジオ出演及び審査はなかった。
+
+**競技実況・進行アシスタント**
 
   - [櫻井健介](../Page/櫻井健介.md "wikilink")（テレビ朝日元アナウンサー）
 
@@ -131,15 +173,6 @@
 
   -
     深夜枠からゴールデンタイム進出後も進行と出題を担当。クイズロケにも同行していた。
-
-<!-- end list -->
-
-  - [清水俊輔](../Page/清水俊輔.md "wikilink")（テレビ朝日アナウンサー）
-
-<!-- end list -->
-
-  -
-    プレッシャースタディーにほぼ固定されてからはMCを補佐する進行、実況を担当。現在の螺旋階段方式のクイズの進行、実況も担当。
 
 ### 主な解答者（2015年以降）
 
@@ -722,8 +755,9 @@
 
 ## 外部リンク
 
-  - [Qさま\!\!](http://www.tv-asahi.co.jp/qsama/)（公式サイト）
+  - [クイズプレゼンバラエティー Qさま\!\!](https://www.tv-asahi.co.jp/qsama/) - 番組公式サイト
 
+  -
   -
   -
 [Category:テレビ朝日のバラエティ番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日のバラエティ番組 "wikilink") [Category:テレビ朝日のクイズ番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日のクイズ番組 "wikilink") [Category:2004年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のテレビ番組_\(日本\) "wikilink") [Category:さまぁ〜ず](https://ja.wikipedia.org/wiki/Category:さまぁ〜ず "wikilink") [Category:優香](https://ja.wikipedia.org/wiki/Category:優香 "wikilink") [Category:データ放送連動番組](https://ja.wikipedia.org/wiki/Category:データ放送連動番組 "wikilink") [Category:ネオバラエティ](https://ja.wikipedia.org/wiki/Category:ネオバラエティ "wikilink") [Category:ドスペ\!](https://ja.wikipedia.org/wiki/Category:ドスペ! "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")

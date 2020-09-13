@@ -1,7 +1,7 @@
 > この記事は[DAB](https://ja.wikipedia.org/wiki/DAB)から翻訳されています。
 
 
-[thumb|300px|right|alt=DAB, DAB+, DMB globally.|   （2018年）](https://ja.wikipedia.org/wiki/ファイル:Digital_Audio_Broadcasting.svg "wikilink") **DAB**（）とは、[デジタルラジオ](../Page/デジタルラジオ.md "wikilink")の規格である。主に[ヨーロッパ諸国](https://ja.wikipedia.org/wiki/ヨーロッパ諸国 "wikilink")の一部と[オーストラリア](../Page/オーストラリア.md "wikilink")で採用されている。
+[thumb|300px|right|alt=DAB, DAB+, DMB globally.|   （2018年）](https://ja.wikipedia.org/wiki/ファイル:Digital_Audio_Broadcasting.svg "wikilink") **DAB**（）とは、[デジタルラジオ](../Page/デジタルラジオ.md "wikilink")の規格である。主に[ヨーロッパ諸国](https://ja.wikipedia.org/wiki/ヨーロッパ諸国 "wikilink")の一部と[オーストラリア](../Page/オーストラリア.md "wikilink")、[韓国で採用されている](../Page/大韓民国.md "wikilink")。
 
 ## 概要
 

@@ -11,6 +11,8 @@
 
 [2006年](../Page/2006年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")には[パシフィコ横浜](https://ja.wikipedia.org/wiki/パシフィコ横浜 "wikilink")国立大ホールで開催された「中華年記念音楽祭」に出演。これは日本での最初の公式コンサートとなった。
 
+[2018年](../Page/2018年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")、デビュー以来所属していた[華研国際音楽](../Page/華研国際音楽.md "wikilink")を離籍し、それぞれが設立した新会社に移籍した\[2\]\[3\]。
+
 ## メンバー
 
 ### セリナ
@@ -61,7 +63,7 @@ S.H.Eでは、ボーカルとしては低音を、キャラクターとしては
 
 [ドラマ](../Page/ドラマ.md "wikilink")での主演女優としての経歴も着実に積みつつある。「真命天女」で2006年[金鐘奨](https://ja.wikipedia.org/wiki/金鐘奨 "wikilink")・ドラマ部門最優秀主演女優賞にノミネートされた他、『[花様少年少女](https://ja.wikipedia.org/wiki/花ざかりの君たちへ_\(テレビドラマ\)#台湾ドラマ版『花樣少年少女』 "wikilink")』などでの演技も好評を博している。2012年1月26日に、マレーシア籍の男性と結婚することを発表し、2012年5月5日結婚。
 
-2015年、ソロアルバム『Why Not』をリリースした。2016年3月13日、映画『缺角一族（邦題：[欠けてる一族](https://ja.wikipedia.org/wiki/欠けてる一族 "wikilink")）』で、第11回[大阪アジアン映画祭](https://ja.wikipedia.org/wiki/大阪アジアン映画祭 "wikilink")の薬師真珠賞（最も輝きを放っていると評価された俳優）を獲得した\[2\]\[3\]。2017年4月に男児誕生。
+2015年、ソロアルバム『Why Not』をリリースした。2016年3月13日、映画『缺角一族（邦題：[欠けてる一族](https://ja.wikipedia.org/wiki/欠けてる一族 "wikilink")）』で、第11回[大阪アジアン映画祭](https://ja.wikipedia.org/wiki/大阪アジアン映画祭 "wikilink")の薬師真珠賞（最も輝きを放っていると評価された俳優）を獲得した\[4\]\[5\]。2017年4月に男児誕生。
 
 ## ディスコグラフィー
 
@@ -363,7 +365,7 @@ S.H.Eでは、ボーカルとしては低音を、キャラクターとしては
   - 2010年 [君には絶対恋してない](https://ja.wikipedia.org/wiki/君には絶対恋してない "wikilink")\!(陳嘉樺主演)
   - 2014年 謊言遊戲(陳嘉樺主演)
   - 2014年 河畔卿卿(陳嘉樺)
-  - 2015年 [幸せが聴こえる](https://ja.wikipedia.org/wiki/幸せが聴こえる "wikilink")(任家萱)
+  - 2015年 [幸せが聴こえる](../Page/幸せが聴こえる.md "wikilink")(任家萱)
 
 ### 映画
 
@@ -400,7 +402,7 @@ S.H.Eでは、ボーカルとしては低音を、キャラクターとしては
   - 2006年7月13日　[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")・[香港コロシアム](../Page/香港コロシアム.md "wikilink")
   - 2006年10月14日　[中国](../Page/中国.md "wikilink")・[瀋陽](https://ja.wikipedia.org/wiki/瀋陽 "wikilink")：[瀋陽五里河体育場](https://ja.wikipedia.org/wiki/瀋陽五里河体育場 "wikilink")
   - 2006年10月21日　[中国](../Page/中国.md "wikilink")・[武漢](https://ja.wikipedia.org/wiki/武漢 "wikilink")：[武漢体育中心](https://ja.wikipedia.org/wiki/武漢体育中心 "wikilink")
-  - 2006年11月11日　[中国](../Page/中国.md "wikilink")・[深セン](https://ja.wikipedia.org/wiki/深セン "wikilink")：[深セン体育場](https://ja.wikipedia.org/wiki/深セン体育場 "wikilink")
+  - 2006年11月11日　[中国](../Page/中国.md "wikilink")・[深圳](https://ja.wikipedia.org/wiki/深圳 "wikilink")：[深圳体育場](https://ja.wikipedia.org/wiki/深圳体育場 "wikilink")
   - 2006年12月16日　[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[台北](https://ja.wikipedia.org/wiki/台北 "wikilink")：[台北アリーナ](../Page/台北アリーナ.md "wikilink")
   - 2007年9月1日　[中国](../Page/中国.md "wikilink")・[北京](https://ja.wikipedia.org/wiki/北京 "wikilink")：[国家オリンピックスポーツセンター](https://ja.wikipedia.org/wiki/国家オリンピックスポーツセンター "wikilink")
   - 2007年10月13日　[中国](../Page/中国.md "wikilink")・[長沙](https://ja.wikipedia.org/wiki/長沙 "wikilink")：[賀竜体育中心](https://ja.wikipedia.org/wiki/賀竜体育中心 "wikilink")
@@ -434,7 +436,7 @@ S.H.Eでは、ボーカルとしては低音を、キャラクターとしては
   - 2013年10月12日,13日,14日　[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")・[香港コロシアム](../Page/香港コロシアム.md "wikilink")
   - 2013年10月20日　[中国](../Page/中国.md "wikilink")・[天津](https://ja.wikipedia.org/wiki/天津 "wikilink")：天津体育中心
   - 2013年10月26日　[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")・[シンガポール・インドア・スタジアム](https://ja.wikipedia.org/wiki/シンガポール・インドア・スタジアム "wikilink")
-  - 2014年5月17日　[中国](../Page/中国.md "wikilink")・[深セン](https://ja.wikipedia.org/wiki/深セン "wikilink")：[深セン湾体育中心](https://ja.wikipedia.org/wiki/深セン湾体育中心 "wikilink")
+  - 2014年5月17日　[中国](../Page/中国.md "wikilink")・[深圳](https://ja.wikipedia.org/wiki/深圳 "wikilink")：[深圳湾体育中心](https://ja.wikipedia.org/wiki/深圳湾体育中心 "wikilink")
   - 2014年5月31日　[中国](../Page/中国.md "wikilink")・[武漢](https://ja.wikipedia.org/wiki/武漢 "wikilink")：[武漢体育中心](https://ja.wikipedia.org/wiki/武漢体育中心 "wikilink")
   - 2014年7月12日　[中国](../Page/中国.md "wikilink")・[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")：[上海万博文化センター](https://ja.wikipedia.org/wiki/上海万博文化センター "wikilink")
   - 2014年7月19日　[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[高雄](https://ja.wikipedia.org/wiki/高雄 "wikilink")：[高雄アリーナ](https://ja.wikipedia.org/wiki/高雄アリーナ "wikilink")
@@ -472,3 +474,5 @@ S.H.Eでは、ボーカルとしては低音を、キャラクターとしては
 1.  [「S・H・E」が日本文化伝える](http://web.archive.org/web/20041205165813/http://www.sponichi.co.jp/entertainment/kiji/2003/11/13/08.html)、[スポニチアネックス](../Page/スポーツニッポン.md "wikilink")、2003年11月13日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
 2.
 3.
+4.
+5.

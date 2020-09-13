@@ -81,49 +81,22 @@
 
 ### 過去
 
-  - [わらいのじかん](https://ja.wikipedia.org/wiki/わらいのじかん "wikilink") ([テレビ朝日](../Page/テレビ朝日.md "wikilink"))
   - [ワイドABCDE〜す](../Page/ワイドABCDE〜す.md "wikilink")（[ABC](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")）「駅前情報局」担当
   - [すんげー\!Best10](../Page/すんげー!Best10.md "wikilink")（ABC）
   - [急性吉本炎](https://ja.wikipedia.org/wiki/急性吉本炎 "wikilink")→慢性吉本炎（TBSテレビ、1995年－1996年）
   - 嵐MASSE‼（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")、1996年 - 1997年）
   - [U-CDTV](../Page/COUNT_DOWN_TV.md "wikilink")（TBSテレビ）お笑いCDTVのコーナーに出演
-  - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")（[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")）戦績6勝3敗 最高517KB
-      - 漫才での挑戦が多かったが、2000年11月12日放送回ではコントを披露した（結果は245kbで6位オフエア）。
   - [べえぇす\!](../Page/べえぇす!.md "wikilink")（[テレビ大阪](../Page/テレビ大阪.md "wikilink")、2000年11月 - 2001年3月）
-  - [オールザッツ漫才](https://ja.wikipedia.org/wiki/オールザッツ漫才 "wikilink")（毎日放送）
   - [よしもとオンライン](https://ja.wikipedia.org/wiki/よしもとオンライン "wikilink")「週刊COWOO\!NEWS」（[よしもと劇場](https://ja.wikipedia.org/wiki/よしもと劇場 "wikilink")）毎週水曜日
-  - [ザ・イロモネア](https://ja.wikipedia.org/wiki/ウンナン極限ネタバトル!_ザ・イロモネア_笑わせたら100万円 "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")）ゴールドラッシュ2008ではFINAL敗退、本戦では3rdステージ敗退
   - [ジャングルTV 〜タモリの法則〜](../Page/ジャングルTV_〜タモリの法則〜.md "wikilink")（毎日放送）ジャングルクッキングにレポーター役として出演
-  - [お笑いDynamite\!](../Page/お笑いDynamite!.md "wikilink")（TBS、2007年12月29日）キャッチコピーは「アットホームコメディ」
-  - [めちゃ<sup>2</sup>イケてるッ\!](../Page/めちゃ×2イケてるッ!.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、「[笑わず嫌い王決定戦](../Page/笑わず嫌い王決定戦.md "wikilink")」2008年3月8日）（「恋の中かま騒ぎ」、2008年10月25日、11月8日、2011年1月29日）（「近くへ行きたい」、2011年11月26日）
   - [あらびき団](https://ja.wikipedia.org/wiki/あらびき団 "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")、「チーム秒殺」として、2008年3月12日）その他不定期
-  - [リンカーン](../Page/リンカーン_\(テレビ番組\).md "wikilink")（TBS、「第2回・真夏の芸人大運動会」、2008年8月12日\[前\]、2008年8月19日\[後\]）
-  - [タモリのボキャブラ天国 大復活祭スペシャル](https://ja.wikipedia.org/wiki/ボキャブラ天国 "wikilink")（フジテレビ、2008年9月28日）キャッチコピーは「和牛の襲来」
-  - [ヨシモト∞](https://ja.wikipedia.org/wiki/ヨシモト∞ "wikilink")（[よしもと劇場](https://ja.wikipedia.org/wiki/よしもと劇場 "wikilink") 隔週木曜日 19:00 - 20:00）
-  - [フジケン](../Page/フジケン_\(テレビ番組\).md "wikilink")（[EXエンタテイメント](https://ja.wikipedia.org/wiki/EXエンタテイメント "wikilink")）
-  - [上方演芸ホール](../Page/上方演芸ホール.md "wikilink")（[NHK大阪](../Page/NHK大阪放送局.md "wikilink")）
-  - [快傑えみちゃんねる](../Page/快傑えみちゃんねる.md "wikilink")（[関西テレビ](../Page/関西テレビ放送.md "wikilink")）
   - [キンコンヒルズ](../Page/キンコンヒルズ.md "wikilink")（テレビ東京、不定期だが主に「ダメダメモンスターズ」回）
-  - [やりすぎコージー](../Page/やりすぎコージー.md "wikilink")（テレビ東京、「第4回もうひとつのM-1グランプリ」、2005年11月5日）（「オ〜ガの泉〜モヤモヤ芸人救済SP〜」、2008年2月16日）
-  - [雨上がり決死隊のトーク番組アメトーク\!](https://ja.wikipedia.org/wiki/雨上がり決死隊のトーク番組アメトーク! "wikilink")（テレビ朝日、2005年9月12日「大林素子芸人」）
-  - [99プラス](../Page/99プラス.md "wikilink")（[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")）
   - [ものまねグランプリ](https://ja.wikipedia.org/wiki/ものまねグランプリ "wikilink")（日本テレビ、不定期）
-  - [爆笑レッドシアター](https://ja.wikipedia.org/wiki/爆笑レッドシアター "wikilink")（フジテレビ）
-  - [オモバカ8](https://ja.wikipedia.org/wiki/オモバカ8 "wikilink")（フジテレビ、「〜第二回オモバカ王者決定トーナメント〜」、2010年10月12日）（「〜第三回オモバカ王者決定トーナメント〜」、2011年4月7日）
   - [おはスタ](../Page/おはスタ.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、月・水曜）
       - 645ファミリーとして「あたりまえ体操」毎月・水曜放送されていた。
       - ヤマダムシ（山田與志）・タダムシ（多田健二） - [アニメ](../Page/アニメ.md "wikilink")としても登場した。
-  - [ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")（[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")）
-  - [革命×テレビ](https://ja.wikipedia.org/wiki/革命×テレビ "wikilink")（TBS、「天才大学、アメリカ・マサチューセッツ工科大学、通称“MIT”スペシャル第1弾」、2011年1月9日）（「天才大学、アメリカ・マサチューセッツ工科大学、通称“MIT”スペシャル第2弾」、2011年1月16日）
   - [ミックスパイください](../Page/ミックスパイください.md "wikilink")（[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）（中継コーナー担当）
-  - [エンタの神様](https://ja.wikipedia.org/wiki/エンタの神様 "wikilink")（日本テレビ、不定期、2007年5月初出演）
-      - キャッチコピーは「牛ギュウ詰めの笑ホール」
-  - [爆笑レッドカーペット](../Page/爆笑レッドカーペット.md "wikilink")（フジテレビ、不定期）
-      - キャッチコピーは「劇場番長初登場\!」→「劇場番長再び登場\!」→「劇場番長 登場\!」
-  - [スパモク\!\!](https://ja.wikipedia.org/wiki/スパモク!! "wikilink") 「今！この芸人が面白い\! [爆問パワフルフェイス\!](https://ja.wikipedia.org/wiki/爆問パワフルフェイス! "wikilink") 見逃し厳禁ネタ30連発」（TBS、2011年11月24日）
-  - [バカソウル](https://ja.wikipedia.org/wiki/バカソウル "wikilink")（テレビ東京）
   - [ざっくりハイタッチ](https://ja.wikipedia.org/wiki/ざっくりハイタッチ "wikilink")（テレビ東京、不定期）
-  - [サタデーバリューフィーバー](https://ja.wikipedia.org/wiki/サタデーバリューフィーバー "wikilink")魔法のランプSHOW2（[2013年](../Page/2013年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")、日本テレビ）
   - [最強銀河 究極ゼロ 〜バトルスピリッツ〜](https://ja.wikipedia.org/wiki/最強銀河_究極ゼロ_〜バトルスピリッツ〜 "wikilink")（[2014年](../Page/2014年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")、善しがヨシ船長役、多田がタダ先輩役、[メ〜テレ](../Page/名古屋テレビ放送.md "wikilink")） - 声の出演(ゲスト出演)
   - [情報ワイド てっぺん静岡](https://ja.wikipedia.org/wiki/情報ワイド_てっぺん静岡 "wikilink")（[テレビ静岡](../Page/テレビ静岡.md "wikilink")、2013年9月-2019年6月）- 月曜「静岡あたりまえ散歩」のコーナーに出演。
 
@@ -192,8 +165,7 @@
   -
   -
   -
-＊COWCOW公式チャンネル　https://www.youtube.com/channel/UCdJxIr3VR_NY9Ga91tfAAzw
-
+  -
 [Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink")
 
 1.

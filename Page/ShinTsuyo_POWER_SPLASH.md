@@ -1,7 +1,7 @@
 > この記事は[ShinTsuyo POWER SPLASH](https://ja.wikipedia.org/wiki/ShinTsuyo_POWER_SPLASH)から翻訳されています。
 
 
-**ShinTsuyo POWER SPLASH**（しんつよパワースプラッシュ）は、[草彅剛と](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")がパーソナリティを務める[bayfmの](../Page/ベイエフエム.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")で、草彅と香取の冠番組である。略称は、**パワスプ**\[1\]。
+**ShinTsuyo POWER SPLASH**（しんつよパワースプラッシュ）は、[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")と[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")がパーソナリティを務める[bayfmの](../Page/ベイエフエム.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")で、草彅と香取の冠番組である。略称は、**パワスプ**\[1\]。
 
 本項目では、前身番組『**SMAP POWER SPLASH**』（スマップパワースプラッシュ）についても記述する。
 
@@ -21,9 +21,9 @@
 
 [ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")の当時の方針により[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")による関東以外からのエリアフリー聴取やタイムフリー聴取、[LISMO WAVEでの聴取には対応していなかったが](https://ja.wikipedia.org/wiki/LISMO#LISMO_WAVE "wikilink")、香取と草彅が同事務所を退所したため[2017年](../Page/2017年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")放送分よりradikoのエリアフリー聴取とタイムフリー聴取に対応することになった\[5\]\[6\]。なお、LISMO WAVEでは2019年9月のサービス終了まで配信停止状態が続いていた。
 
-2018年4月1日放送より、[広島建設](https://ja.wikipedia.org/wiki/広島建設 "wikilink")がスポンサーにつき、『ShinTsuyo POWER SPLASH presented by Hirosima Kensetsu Scenario House』として放送\[7\]。これに伴い、それまで1回しか放送されなかった番組内のコマーシャルも複数回流れ、19時28分頃に放送されていた交通情報も番組終了後の19時54分頃の放送に変更された。なお、広島建設はbayfmの時報スポットも提供しており、週によっては広島建設の時報コマーシャルのあと、当番組が放送される事がある。
+2018年4月1日放送より[広島建設](https://ja.wikipedia.org/wiki/広島建設 "wikilink")がスポンサーにつき、『ShinTsuyo POWER SPLASH presented by Hirosima Kensetsu Scenario House（ - プレゼンティッド バイ ひろしまけんせつ セナリオハウス）』として放送\[7\]。これに伴い、それまで1回しか放送されなかった番組内のコマーシャル\[8\]も複数回流れ、19時28分頃に放送されていた交通情報も番組終了後の19時54分頃の放送に変更された。なお、広島建設はbayfmの時報スポットも提供しており、週によっては広島建設の時報コマーシャルのあと、当番組が放送される事があった。
 
-なお、2019年12月28日（土曜日）は、「[KEIYOGINKO GRAND COUNTDOWN REAL](https://ja.wikipedia.org/wiki/KEIYOGINKO_GRAND_COUNTDOWN_REAL "wikilink")」に香取慎吾がスペシャルゲストとして出演。
+なお、広島建設の提供は2020年3月29日をもって終了し、翌週4月5日放送からは再びノンスポンサーで放送しているが、交通情報はそのまま19時54分頃の放送のままである。
 
 [2020年](../Page/2020年.md "wikilink")4月で当番組は放送25周年となった。
 
@@ -99,11 +99,11 @@
 
 上記同様の番組20周年記念の企画で、2015年10月25日にも生放送が行われている。その際は原宿駅前にある『Amebaリフレッシュスタジオ』から公開生放送として実施した。会場周辺の混乱を防ぐため、公開生放送の告知は当日の放送時間の数時間前に行われ、事前に配られた整理券を持つ者のみが交代制で間近で見学することができた。放送内では当日の番組開始後にその旨が初めてアナウンスされた。この日もコマーシャルとTRAFFIC UPDATESは休止された。
 
-2017年9月24日の放送では、香取が出演する[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink")『[おじゃMAP\!\!](https://ja.wikipedia.org/wiki/おじゃMAP!! "wikilink")』のスタッフが入り、同番組で香取と共演する[山崎弘也](../Page/山崎弘也.md "wikilink")もゲスト出演した。2017年10月4日放送の『おじゃMAP\!\!』にて、当番組の収録風景の一部が放映された\[8\]。この時の収録場所は、当番組の制作会社の事務所を使っていた。
+2017年9月24日の放送では、香取が出演する[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink")『[おじゃMAP\!\!](https://ja.wikipedia.org/wiki/おじゃMAP!! "wikilink")』のスタッフが入り、同番組で香取と共演する[山崎弘也](../Page/山崎弘也.md "wikilink")もゲスト出演した。2017年10月4日放送の『おじゃMAP\!\!』にて、当番組の収録風景の一部が放映された\[9\]。この時の収録場所は、当番組の制作会社の事務所を使っていた。
 
-2017年11月5日には[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")『[72時間ホンネテレビ](https://ja.wikipedia.org/wiki/72時間ホンネテレビ "wikilink")』生配信との同時放送が行われた。番組の最中には2人による録音コメントが差し込まれ、生放送進行として[有村昆](../Page/有村昆.md "wikilink")が出演\[9\]。
+2017年11月5日には[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")『[72時間ホンネテレビ](https://ja.wikipedia.org/wiki/72時間ホンネテレビ "wikilink")』生配信との同時放送が行われた。番組の最中には2人による録音コメントが差し込まれ、生放送進行として[有村昆](../Page/有村昆.md "wikilink")が出演\[10\]。
 
-2018年4月1日より同じくAbemaTVにて生配信される番組『[7.2 新しい別の窓](https://ja.wikipedia.org/wiki/7.2_新しい別の窓 "wikilink")』が第1日曜日に開始され\[10\]、それ以降は毎月第1日曜日の放送は「新しいベイの窓」と題し、一部時間帯でAbemaTVとの同時放送となる(AbemaTVの音声をラジオで放送する形式)。その際、bayfm側の進行は小野紫（おのゆかり）\[11\]が担当するが、草彅・香取は事前コメントで小野のことを『ゆかべぇ』と呼びかけている。
+2018年4月1日より同じくAbemaTVにて生配信される番組『[7.2 新しい別の窓](https://ja.wikipedia.org/wiki/7.2_新しい別の窓 "wikilink")』が第1日曜日に開始され\[11\]、それ以降は毎月第1日曜日の放送は「新しいベイの窓」と題し、一部時間帯でAbemaTVとの同時放送となる(AbemaTVの音声をラジオで放送する形式)。その際、bayfm側の進行は小野紫（おのゆかり）\[12\]が担当するが、草彅・香取は事前コメントで小野のことを『ゆかべぇ』と呼びかけている。
 
 ## テーマ曲
 
@@ -129,7 +129,8 @@
 5.  [【ShinTsuyo POWER SPLASH】10/1（日）放送分より、radikoのタイムフリー聴取＆エリアフリー聴取に対応します！聴いてくださいね！](https://twitter.com/bayfm78MHz/status/912267854078205952)
 6.  なお、ジャニーズ事務所の方針変更により、2018年4月1日から所属タレントが出演する番組に対してもタイムフリー聴取、関東地方以外からのエリアフリー聴取に対応しており、当番組はそれに先立つ対応となった。
 7.  [“ShinTsuyo POWER SPLASH presented by 広島建設 セナリオハウス”がスタート！](http://www.hirosima.co.jp/blog/2018/04/post-1335.html)広島建設ホームページ
-8.  この回の『おじゃMAP\!\!』のゲストは草彅で、『おじゃMAP\!\!』のロケ収録の合間に当番組を収録する形となっていた。
-9.
-10. 2019年1月と5月および2020年1月は『7.2 新しい別の窓』が第1日曜日以外の日(2019年1月1日・2019年4月30日・2020年1月1日)に放送されたため、2020年1月6日・2019年5月5日・2020年1月5日は通常編成となった。
-11. 毎週日曜日にbayfmで[ニュース・天気予報・交通情報を担当している](https://ja.wikipedia.org/wiki/Updates_\(ベイエフエム\) "wikilink")。
+8.  ノンスポンサー時のコマーシャルは[パーティシペーション](../Page/パーティシペーション.md "wikilink")形式で、2018年3月当時は[日本広告審査機構](../Page/日本広告審査機構.md "wikilink")や[日本民間放送連盟](../Page/日本民間放送連盟.md "wikilink")などのコマーシャルに限られていた。
+9.  この回の『おじゃMAP\!\!』のゲストは草彅で、『おじゃMAP\!\!』のロケ収録の合間に当番組を収録する形となっていた。
+10.
+11. 2019年1月と5月および2020年1月は『7.2 新しい別の窓』が第1日曜日以外の日(2019年1月1日・2019年4月30日・2020年1月1日)に放送されたため、2020年1月6日・2019年5月5日・2020年1月5日は通常編成となった。
+12. 毎週日曜日にbayfmで[ニュース・天気予報・交通情報を担当している](https://ja.wikipedia.org/wiki/Updates_\(ベイエフエム\) "wikilink")。

@@ -13,7 +13,7 @@
 
 前番組『[やしがにのウインク](../Page/やしがにのウインク.md "wikilink")』までは松下電器産業（現・[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")）の一社提供だったが、この番組からパナソニック筆頭の複数社提供へ移行した。さらに、2003年10月11日放送分（第52回）をもってリニューアルし、[北陽](../Page/北陽.md "wikilink")がレギュラーメンバーに加わった。
 
-クロスネット局の[テレビ大分](../Page/テレビ大分.md "wikilink")では毎週土曜日23:00 - 23:30\[1\]に、[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")では毎週日曜日0:50 - 1:20（土曜日深夜）\[2\]に放送されていた。また、系列外の[青森テレビ](../Page/青森テレビ.md "wikilink")、[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")、[山口朝日放送](../Page/山口朝日放送.md "wikilink")、[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")でも放送されていた。
+クロスネット局の[テレビ大分](../Page/テレビ大分.md "wikilink")では毎週土曜日23:00 - 23:30\[1\]に、[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")では毎週日曜日0:50 - 1:20（土曜日深夜）\[2\]に放送されていた。また、系列外の[青森テレビ](../Page/青森テレビ.md "wikilink")、[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")、[山口朝日放送](../Page/山口朝日放送.md "wikilink")、[四国放送](../Page/四国放送.md "wikilink")でも放送されていた。
 
 ## 出演者
 

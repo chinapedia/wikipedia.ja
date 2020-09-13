@@ -1,7 +1,7 @@
 > この記事は[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU)から翻訳されています。
 
 
-**CHOKKAKU**（チョッカク、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[3月30日](../Page/3月30日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。旧名は**島田直角**で、本名は島田直。[広島県](../Page/広島県.md "wikilink")出身。[広島修道大学](../Page/広島修道大学.md "wikilink")[商学部](../Page/商学部.md "wikilink")[経営学](../Page/経営学.md "wikilink")科出身。
+**CHOKKAKU**（チョッカク、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[3月30日](../Page/3月30日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[アレンジャー](../Page/編曲家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。旧名は**島田直角**で、本名は島田直。[広島県](../Page/広島県.md "wikilink")出身。[広島修道大学](../Page/広島修道大学.md "wikilink")[商学部](../Page/商学部.md "wikilink")[経営学](../Page/経営学.md "wikilink")科出身。
 
 ## 人物
 
@@ -11,7 +11,7 @@
 
 解散後は主に[アレンジャー](../Page/編曲家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")として活動。
 
-自身のアレンジには[エレクトリック・ギター](../Page/エレクトリック・ギター.md "wikilink")をメインに使用しているが、打ち込みアレンジのためにキーボードをはじめ、他楽器の演奏もこなす[マルチプレイヤー](https://ja.wikipedia.org/wiki/マルチプレイヤー "wikilink")である。
+自身のアレンジには[エレクトリック・ギター](../Page/エレクトリック・ギター.md "wikilink")をメインに使用しているが、打ち込みアレンジのためにキーボードをはじめ、他楽器の演奏もこなす[マルチプレイヤーである](../Page/マルチプレイヤー_\(音楽\).md "wikilink")。
 
 ## 提供作品
 

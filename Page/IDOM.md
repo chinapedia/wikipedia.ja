@@ -1,7 +1,7 @@
 > この記事は[IDOM](https://ja.wikipedia.org/wiki/IDOM)から翻訳されています。
 
 
-**株式会社IDOM**（イドム、）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に本社を置く[自動車](../Page/自動車.md "wikilink")の買取・販売会社。旧社名は**株式会社ガリバーインターナショナル**（）。
+**株式会社IDOM**（イドム、）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に本社を置く[自動車](../Page/自動車.md "wikilink")の買取・販売会社。旧社名は**株式会社ガリバーインターナショナル**（）。設立10年以内に売上高10億ドル（約1000億円）を達成した日本でも数少ないハイパーグロースカンパニー。
 
 ## 概要
 
@@ -18,27 +18,55 @@
 
 ## 沿革
 
-  - 1994年 - **東京マイカー販売株式会社**の車買取部門としてガリバー1号店安積店をオープン、ガリバーフランチャイズ1号店弘前店をオープン、[福島県](../Page/福島県.md "wikilink")[郡山市](https://ja.wikipedia.org/wiki/郡山市 "wikilink")に株式会社ガリバーインターナショナル・コーポレーションを設立。
-  - 1996年 - [千葉県](../Page/千葉県.md "wikilink")[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")に東京本社を開設しフランチャイズ本部機能を移転、[商号](../Page/商号.md "wikilink")を**株式会社ガリバーインターナショナル**に変更。
-  - 1998年 - [日本証券業協会](../Page/日本証券業協会.md "wikilink")に[株式](../Page/株式.md "wikilink")を登録。
-  - 2000年 - 本社を[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[丸の内](../Page/丸の内.md "wikilink")に移転、[東京証券取引所](../Page/東京証券取引所.md "wikilink")市場第二部に[上場](../Page/上場.md "wikilink")。
-  - 2001年 - [ISO 9000](../Page/ISO_9000.md "wikilink")（2000年度版）取得。
-  - 2003年 - [東京証券取引所](../Page/東京証券取引所.md "wikilink")市場第一部に指定替え。
-  - 2004年 - 初の海外拠点 Gulliver USA, Inc. を設立。
-  - 2006年 - 丸の内本社を[東京ビルディングに移転](../Page/東京ビルディング_\(丸の内\).md "wikilink")、[ポーター賞](https://ja.wikipedia.org/wiki/ポーター賞 "wikilink")受賞。
+  - 1994年 - **東京マイカー販売株式会社**の車買取部門としてガリバー1号店安積店をオープン
+
+　　　　 　 - ガリバーフランチャイズ1号店弘前店をオープン
+
+　　　　 　 - [福島県](../Page/福島県.md "wikilink")[郡山市](https://ja.wikipedia.org/wiki/郡山市 "wikilink")に株式会社ガリバーインターナショナル・コーポレーションを設立
+
+  - 1996年 - [千葉県](../Page/千葉県.md "wikilink")[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")に東京本社を開設しフランチャイズ本部機能を移転
+
+　　　　 　 - [商号](../Page/商号.md "wikilink")を**株式会社ガリバーインターナショナル**に変更
+
+  - 1998年 - [日本証券業協会](../Page/日本証券業協会.md "wikilink")に[株式](../Page/株式.md "wikilink")を登録
+
+　　　　 　 - 画像販売システム「ドルフィネット」が第2回日本オンラインショッピング大賞を受賞
+
+  - 2000年 - 本社を[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[丸の内](../Page/丸の内.md "wikilink")に移転
+
+　　　 　 　- [東京証券取引所](../Page/東京証券取引所.md "wikilink")市場第二部に[上場](../Page/上場.md "wikilink")
+
+  - 2001年 - [ISO 9000](../Page/ISO_9000.md "wikilink")（2000年度版）取得
+  - 2002年 - IR優良企業奨励賞受賞
+  - 2003年 - [東京証券取引所](../Page/東京証券取引所.md "wikilink")市場第一部に指定替え
+  - 2004年 - 初の海外拠点 Gulliver USA, Inc. を設立
+  - 2005年 - 「[リセールバリュー](https://ja.wikipedia.org/wiki/リセールバリュー#中古車のリセールバリュー "wikilink")」を商標登録
+  - 2006年 - 丸の内本社を[東京ビルディングに移転](../Page/東京ビルディング_\(丸の内\).md "wikilink")
+
+　　　　 　- [ポーター賞](https://ja.wikipedia.org/wiki/ポーター賞 "wikilink")受賞
+
   - 2007年 - [プロ野球オールスターゲームを冠協賛](../Page/オールスターゲーム_\(日本プロ野球\).md "wikilink")\[3\]
+  - 2008年 - ハイ・サービス日本300選受賞
   - 2009年
-      - 5月 - 中古車販売専門店「ガリバーアウトレット」を開店。
-      - 6月 - 業界初となる中古車を10年間保証\~国産中古車「あんしん10年保証」、納車後100日後の返品を可能とする「100日返品サービス」を開始\~
-  - 2013年2月 - 高級車専門の中古車販売店「リベラーラ」を開店\[4\]。
+      - 5月 - 中古車販売専門店「ガリバーアウトレット」を開店
+      - 7月 - 業界初となる中古車を10年間保証\~国産中古車「あんしん10年保証」、納車後100日後の返品を可能とする「100日返品サービス」を開始
+
+<!-- end list -->
+
+  - 2011年 - [Great Place to Work(R) Institute Japanが主催する](https://ja.wikipedia.org/wiki/「働きがいのある会社」ランキング "wikilink")「働きがいのある会社（従業員1000名以上部門）」ランキングにて選出（以降、7年連続ランクイン）
+  - 2012年 - IT Jaoan Award2012において準グランプリを受賞
+  - 2013年2月 - 高級車専門の中古車販売店「リベラーラ」を開店\[4\]
   - 2014年
       - 1月 - [軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")専門の中古車販売店「ガリバーミニクル」を開店
       - 4月 - [ミニバン](../Page/ミニバン.md "wikilink")専門の中古車販売店「スナップハウス」を開店\[5\]
-  - 2016年7月15日 - 各種事業を複数ブランドで拡大展開していることから、グループ統括会社の立場を明確にするべく、**未来へ「挑む」**の意味を込めて、商号を「*株式会社IDOM*」に変更。店舗ブランド「ガリバー」は引き続き使用。
-  - 2017年5月31日 - 「攻めのIT経営銘柄2017」に選出。
-  - 2019年9月5日 - 新スローガン「どこまでも、全力少年。」を発表。併せて、[スキマスイッチ](../Page/スキマスイッチ.md "wikilink")の「[全力少年](../Page/全力少年.md "wikilink")」を起用した自社初の60秒企業CMの放映を開始\[6\]。
+  - 2016年7月15日 - 各種事業を複数ブランドで拡大展開していることから、グループ統括会社の立場を明確にするべく、**未来へ「挑む」**の意味を込めて、商号を「*株式会社IDOM*」に変更。店舗ブランド「ガリバー」は引き続き使用
+  - 2017年 - 「攻めのIT経営銘柄2017」に選出
+  - 2019年 - 新スローガン「どこまでも、全力少年。」を発表。併せて、[スキマスイッチ](../Page/スキマスイッチ.md "wikilink")の「[全力少年](../Page/全力少年.md "wikilink")」を起用した自社初の60秒企業CMの放映を開始\[6\]　　　　　 　　　
 
-## 連結子会社
+　　　 　　 - クルマのセルフ査定アプリ「Gulliver AUTO」が「DESIGN OF THE DAY 14 DEC」を受賞
+
+
+\== 連結子会社 ==
 
   - [ジー・ワンファイナンシャルサービス](../Page/ジー・ワンファイナンシャルサービス.md "wikilink")
   - ガリバーインシュアランス
@@ -77,12 +105,55 @@ Gulliver East, Inc.
 
 [2017年](../Page/2017年.md "wikilink")12月8日、販売店で「10年保証対象車」「保証付き」などと記載した新聞の折り込みチラシを発行していたが、実際は保証は別料金（約10万から30万円）だったとして、[景品表示法](https://ja.wikipedia.org/wiki/景品表示法 "wikilink")違反（有利誤認）で[消費者庁](https://ja.wikipedia.org/wiki/消費者庁 "wikilink")から再発防止の措置命令を受けた\[7\]。
 
+
+
+## その他の活動
+
+  - 2004年〜2006年
+
+<!-- end list -->
+
+  -
+    「松井秀喜ホームランチャリティー・世界遺産スタディープログラム」を実施。背番号55番にちなみ公式戦におけるホームラン数を1本につき55万円に換算し、社会貢献活動の一環として拠出。未来へ挑戦する青少年達に海外の各分野で活躍する日本人との対談を行うなどのプログラムを展開。
+
+<!-- end list -->
+
+  - 2007年〜2011年
+
+<!-- end list -->
+
+  -
+    買取1台につき、ワクチン1人分を日本委員会（JCV）を通じ、途上国で必要とされているワクチンを供給。中国ホルチン砂漠の緑化に賛同し、車の販売1台につき苗木10本分の苗木を寄付。
+    現在は日本ユニセフ協会を通じて、破傷風ワクチンや抗マラリア薬や栄養補強ミルクなど8種類のユニセフ支援ギフトをもっとも必要としている国や地域に届けている。
+
+<!-- end list -->
+
+  - 2008年
+
+<!-- end list -->
+
+  -
+    ネパール教育支援の実施。小学校の校舎を建設するとともに、地域住民への啓発や入学推進活動など総合的な学習環境の改善支援を行った。
+
+<!-- end list -->
+
+  - 2011年
+
+<!-- end list -->
+
+  -
+    東日本大震災復興支援活動「TAG PROJECT（タッグプロジェクト）」の一環として中古車1,000台を無償提供。
+
+<!-- end list -->
+
+  - 2020年
+
+<!-- end list -->
+
+  -
+    ガリバーのクルマ支援「\#Save Moving」は、医療従事者をはじめ移動を必要とする全国10,000名にクルマを無償提供を開始。
+
 ## テレビCM出演者
-
-**現在**
-
-  - [瀧本美織](https://ja.wikipedia.org/wiki/瀧本美織 "wikilink")
-  - [大塚明夫](../Page/大塚明夫.md "wikilink")(ナレーション)
 
 **過去**
 
@@ -111,6 +182,9 @@ Gulliver East, Inc.
   - [瀬川あやか](https://ja.wikipedia.org/wiki/瀬川あやか "wikilink")（北海道限定）
   - [DA PUMP](../Page/DA_PUMP.md "wikilink")
   - [瀧本美織](https://ja.wikipedia.org/wiki/瀧本美織 "wikilink")
+  - [貴島明日香](https://ja.wikipedia.org/wiki/貴島明日香 "wikilink")
+  - [大塚明夫](../Page/大塚明夫.md "wikilink")(ナレーション)
+  - かまいたち
 
 ## 脚注
 
@@ -118,7 +192,7 @@ Gulliver East, Inc.
 
 ## 外部リンク
 
-  - [株式会社IDOM](https://www.idom-inc.com/)
+  - [株式会社IDOM](https://221616.com/idom/)
   - [中古車のガリバー公式サイト](https://221616.com/)
 
 [Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:1998年上場の企業](https://ja.wikipedia.org/wiki/Category:1998年上場の企業 "wikilink") [Category:中古車ディーラー](https://ja.wikipedia.org/wiki/Category:中古車ディーラー "wikilink") [Category:買取専門店](https://ja.wikipedia.org/wiki/Category:買取専門店 "wikilink") [Category:福島県発祥の企業](https://ja.wikipedia.org/wiki/Category:福島県発祥の企業 "wikilink") [Category:1994年設立の企業](https://ja.wikipedia.org/wiki/Category:1994年設立の企業 "wikilink")

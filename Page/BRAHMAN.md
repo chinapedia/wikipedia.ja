@@ -11,7 +11,7 @@
 
   -
     [茨城県](../Page/茨城県.md "wikilink") 出身。[女優の](../Page/俳優.md "wikilink")[りょう](https://ja.wikipedia.org/wiki/りょう "wikilink")は妻。
-    本名は宮田俊郎
+    本名は宮田俊郎。血液型B型。
     2000年代には俳優の[井浦新](../Page/井浦新.md "wikilink")が手がけるアパレルブランド「REVOLVER」内でスポーツテイストを強めたブランド「suiseeda」や「farrell」に携わる。（現在は終了）
     弟は宮田亮。井浦新が手がけるアパレルブランド「ELNEST CREATIVE ACTIVITY」の運営に携わる。
 
@@ -23,7 +23,7 @@
 
   -
     [和歌山県](../Page/和歌山県.md "wikilink")[新宮市](../Page/新宮市.md "wikilink")出身。
-    本名は掘幸起
+    本名は掘幸起。血液型A型。
     ストリートブランド「GIGGLY ROY」のディレクションに関わる。
 
 <!-- end list -->
@@ -34,7 +34,7 @@
 
   -
     [長野県](../Page/長野県.md "wikilink")[松本市](../Page/松本市.md "wikilink")出身。RONZIとは高校の同級生。
-    本名は小澤誠
+    本名は小澤誠。血液型O型。
 
 <!-- end list -->
 
@@ -44,7 +44,7 @@
 
   -
     [長野県](../Page/長野県.md "wikilink")[松本市](../Page/松本市.md "wikilink")出身。
-    本名は小林論史
+    本名は小林論史。血液型A型。
 
 ### 旧メンバー
 

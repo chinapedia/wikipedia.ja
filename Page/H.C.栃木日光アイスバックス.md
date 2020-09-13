@@ -152,6 +152,7 @@
       - [かにしデンタルクリニック](https://ja.wikipedia.org/wiki/かにしデンタルクリニック "wikilink")
       - [グローブライド](http://www.globeride.co.jp/)
   - オフィシャルスポンサー
+      - [古河産業](../Page/古河産業.md "wikilink")
       - 医療法人[康清会](https://ja.wikipedia.org/wiki/康清会 "wikilink") 大島皮ふ科・形成外科
       - [鬼怒川温泉ホテル](http://www.kinugawaonsenhotel.com/)
       - [金谷ホテル観光](http://www.kinugawakanaya.com/)

@@ -36,7 +36,7 @@ NFS v2の仕様は1984年に発表され、[1985年](https://ja.wikipedia.org/wi
 
 [AFSや](../Page/Andrew_File_System.md "wikilink")[CIFS](https://ja.wikipedia.org/wiki/CIFS "wikilink")の存在を踏まえ、[2000年](../Page/2000年.md "wikilink")12月に RFC 3010 で、また[2003年](../Page/2003年.md "wikilink")4月に RFC 3530 で、さらに2015年3月に RFC 7530 で改定されたNFS v4では、性能の向上策、[Kerberos認証などの強力なセキュリティ](../Page/ケルベロス認証.md "wikilink")、またステートフルなプロトコルを導入した。NFS v4からはその開発主体が[Internet Engineering Task Forceへ移動し](../Page/Internet_Engineering_Task_Force.md "wikilink")、サン・マイクロシステムズに加え[ネットアップ](../Page/ネットアップ.md "wikilink")なども規格策定に携わった。
 
-NFS version 4.1 は、2010年1月に RFC 5661 で公開された。
+NFS version 4.1 は、2010年1月に RFC 5661 で、2020年8月に RFC 8881 で公開された。
 
 NFS version 4.2 は、2016年11月に RFC 7862 で公開された。
 

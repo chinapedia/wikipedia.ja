@@ -502,7 +502,7 @@ Good bye, yesterday：<a href="https://ja.wikipedia.org/wiki/CBCテレビ" title
 
   - [Miz オフィシャルブログ](https://ameblo.jp/mizrock/) Powered by [Ameba](../Page/アメーバブログ.md "wikilink")（2007年7月12日 - ）
 
-  - [ユニバーサルミュージックによるアーティストページ](http://www.universal-music.co.jp/mizrock/)
+  - [ユニバーサルミュージックによるアーティストページ](https://www.universal-music.co.jp/mizrock/)
 
   -
 [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:1981年生](https://ja.wikipedia.org/wiki/Category:1981年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:北海道出身の人物](https://ja.wikipedia.org/wiki/Category:北海道出身の人物 "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink")

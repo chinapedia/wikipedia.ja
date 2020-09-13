@@ -86,6 +86,6 @@
 
 ## 外部リンク
 
-  - [AJINOMOTO 6 P.M.](http://web.archive.org/web/20050308164310/http://www.j-wave.co.jp/original/6pm/) - [Internet Archiveにより保存されている](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink")2005年3月8日時点の番組公式サイト
+  - [AJINOMOTO 6 P.M.](https://web.archive.org/web/20050308164310/http://www.j-wave.co.jp/original/6pm/) - [Internet Archiveにより保存されている](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink")2005年3月8日時点の番組公式サイト
 
 [Category:J-WAVEの番組の歴史](https://ja.wikipedia.org/wiki/Category:J-WAVEの番組の歴史 "wikilink") [Category:味の素一社提供番組](https://ja.wikipedia.org/wiki/Category:味の素一社提供番組 "wikilink") [Category:JFL系ラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:JFL系ラジオの一社提供番組 "wikilink") [Category:1999年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のラジオ番組_\(日本\) "wikilink")

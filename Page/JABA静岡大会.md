@@ -300,79 +300,79 @@
 <tr class="even">
 <td><p>1992年（第40回）</p></td>
 <td><p><strong><a href="../Page/三菱重工神戸・高砂硬式野球部.md" title="wikilink">三菱重工神戸</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>8</strong>-4</p></td>
+<td><p>NTT信越</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1993年（第41回）</p></td>
 <td><p><strong><a href="../Page/ヤマハ硬式野球部.md" title="wikilink">ヤマハ</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>6</strong>-2</p></td>
+<td><p>プリンスホテル</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1994年（第42回）</p></td>
 <td><p><strong>プリンスホテル</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>6</strong>-2</p></td>
+<td><p>NTT北陸</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1995年（第43回）</p></td>
 <td><p><strong>日産自動車</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>4</strong>-3</p></td>
+<td><p>西濃運輸</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1996年（第44回）</p></td>
 <td><p><strong><a href="../Page/Honda鈴鹿硬式野球部.md" title="wikilink">本田技研鈴鹿</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>7</strong>-6</p></td>
+<td><p><a href="../Page/三菱重工長崎硬式野球部.md" title="wikilink">三菱重工長崎</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1997年（第45回）</p></td>
 <td><p><strong>日産自動車</strong></p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
+<td><p><strong>14</strong>-1</p></td>
+<td><p><a href="../Page/JR東海硬式野球部.md" title="wikilink">JR東海</a></p></td>
+<td><p>8回コールド</p></td>
 </tr>
 <tr class="even">
 <td><p>1998年（第46回）</p></td>
 <td><p><strong><a href="../Page/JR九州硬式野球部.md" title="wikilink">JR九州</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>10</strong>-3</p></td>
+<td><p>河合楽器</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1999年（第47回）</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/新日本製鐵八幡硬式野球部" title="wikilink">新日本製鐵八幡</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
+<td><p><strong>7</strong>-3</p></td>
+<td><p>松下電器</p></td>
+<td><p>延長15回</p></td>
 </tr>
 <tr class="even">
 <td><p>2000年（第48回）</p></td>
 <td><p><strong>日産自動車</strong></p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
+<td><p><strong>11</strong>-4</p></td>
+<td><p>東芝</p></td>
+<td><p>8回コールド</p></td>
 </tr>
 <tr class="odd">
 <td><p>2001年（第49回）</p></td>
 <td><p><strong>日産自動車</strong></p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
+<td><p><strong>14</strong>-4</p></td>
+<td><p>河合楽器</p></td>
+<td><p>8回コールド</p></td>
 </tr>
 <tr class="even">
 <td><p>2002年（第50回）</p></td>
 <td><p><strong>ヤマハ</strong></p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
+<td><p><strong>9</strong>-5</p></td>
+<td><p><a href="../Page/一光硬式野球部.md" title="wikilink">一光</a></p></td>
+<td><p>延長12回</p></td>
 </tr>
 <tr class="odd">
 <td><p>2003年（第51回）</p></td>
@@ -392,7 +392,7 @@
 <td><p>2005年（第53回）</p></td>
 <td><p><strong><a href="../Page/三菱重工名古屋硬式野球部.md" title="wikilink">三菱重工名古屋</a></strong></p></td>
 <td><p><strong>4</strong>-1</p></td>
-<td><p><a href="../Page/一光硬式野球部.md" title="wikilink">一光</a></p></td>
+<td><p>一光</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -455,7 +455,7 @@
 <td><p>2014年（<a href="https://ja.wikipedia.org/wiki/第40回社会人野球日本選手権大会予選#日本選手権対象大会" title="wikilink">第61回</a>）</p></td>
 <td><p><strong><a href="../Page/鷺宮製作所硬式野球部.md" title="wikilink">鷺宮製作所</a></strong></p></td>
 <td><p><strong>7</strong>-0</p></td>
-<td><p><a href="../Page/三菱重工長崎硬式野球部.md" title="wikilink">三菱重工長崎</a></p></td>
+<td><p>三菱重工長崎</p></td>
 <td><p>7回コールド</p></td>
 </tr>
 <tr class="odd">
@@ -491,6 +491,13 @@
 <td><p><strong><a href="../Page/王子硬式野球部.md" title="wikilink">王子</a></strong></p></td>
 <td><p><strong>13</strong>-2</p></td>
 <td><p>鷺宮製作所</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020年</p></td>
+<td><p>大会中止</p></td>
+<td><p>新型コロナウイルス感染拡大防止のため中止となった。</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>

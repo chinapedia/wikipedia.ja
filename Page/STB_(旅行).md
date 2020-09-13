@@ -52,6 +52,10 @@
   - [夜行列車](../Page/夜行列車.md "wikilink")
   - [完乗](../Page/完乗.md "wikilink")
 
+## 外部リンク
+
+  - [DLマニアの為の駅寝講座](http://teamde10.fem.jp/data/maruyo.html)
+
 [Category:鉄道旅行](https://ja.wikipedia.org/wiki/Category:鉄道旅行 "wikilink") [Category:宿泊](https://ja.wikipedia.org/wiki/Category:宿泊 "wikilink") [Category:登山](https://ja.wikipedia.org/wiki/Category:登山 "wikilink")
 
 1.

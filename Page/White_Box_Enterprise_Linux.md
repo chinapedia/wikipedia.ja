@@ -11,4 +11,4 @@
   - [Beauregard Parish Library](http://library.beau.org/)
   - [WhiteBoxLinux-FAQ - 2ch-Linux-Beginners](http://www12.atwiki.jp/linux2ch/pages/37.html) - 日本語FAQ集
 
-[Category:Linuxディストリビューション](https://ja.wikipedia.org/wiki/Category:Linuxディストリビューション "wikilink")
+[Category:Red_Hat派生ディストリビューション](https://ja.wikipedia.org/wiki/Category:Red_Hat派生ディストリビューション "wikilink")

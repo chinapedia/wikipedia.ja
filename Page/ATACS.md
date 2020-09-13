@@ -147,6 +147,9 @@ ATACSの開発は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（[
 
 ## 導入線区
 
+[ATS→ATACS切り替え看板.jpg](https://ja.wikipedia.org/wiki/File:ATS→ATACS切り替え看板.jpg "fig:ATS→ATACS切り替え看板.jpg")埼京線ホームにある[ATS](../Page/自動列車停止装置.md "wikilink")→ATACS切り替え指示標識。
+この標識の前後で[川越線](https://ja.wikipedia.org/wiki/川越線 "wikilink")から埼京線へ入る為、保安装置切り替えを促すもの。\]\]
+
   - [仙石線](https://ja.wikipedia.org/wiki/仙石線 "wikilink")（あおば通 - 東塩釜間）：2011年（平成23年）10月10日 -
   - [埼京線](https://ja.wikipedia.org/wiki/埼京線 "wikilink")（池袋 - 大宮間\[10\]）：[2017年](../Page/2017年.md "wikilink")（平成29年）[11月4日](../Page/11月4日.md "wikilink") -　
 

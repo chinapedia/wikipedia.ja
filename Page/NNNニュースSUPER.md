@@ -257,7 +257,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a>（JRT）</p></td>
+<td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a>（JRT）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -324,7 +324,7 @@
 
 ## 外部リンク
 
-  - [ズームイン\!\!SUPER](http://www.ntv.co.jp/zoomin/)
+  -
   - [日テレNEWS24](http://www.news24.jp/news24/)
 
 [Category:NNN番組の歴史](https://ja.wikipedia.org/wiki/Category:NNN番組の歴史 "wikilink") [Category:ズームイン\!\!](https://ja.wikipedia.org/wiki/Category:ズームイン!! "wikilink") [Category:日本テレビの番組の企画](https://ja.wikipedia.org/wiki/Category:日本テレビの番組の企画 "wikilink")

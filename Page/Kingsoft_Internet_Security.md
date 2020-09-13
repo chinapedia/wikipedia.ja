@@ -1,7 +1,7 @@
 > この記事は[Kingsoft Internet Security](https://ja.wikipedia.org/wiki/Kingsoft_Internet_Security)から翻訳されています。
 
 
-**Kingsoft Internet Security**（キングソフトインターネットセキュリティ、[中国名](../Page/中華人民共和国.md "wikilink")：金山毒覇）とは[キングソフト社](../Page/金山軟件.md "wikilink")（中国名：[金山軟件](../Page/金山軟件.md "wikilink")有限公司）が提供する[Windows専用の](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[無料および低価格帯の](../Page/フリーウェア.md "wikilink")[総合セキュリティソフトである](../Page/インターネットセキュリティスイート.md "wikilink")。本項では主に最新版のインターネットセキュリティスイート「Kingsoft Internet Security 2015」について解説する。
+**Kingsoft Internet Security**（キングソフトインターネットセキュリティ、[中国名](../Page/中華人民共和国.md "wikilink")：金山毒覇）とは[キングソフト社](../Page/金山軟件.md "wikilink")（中国名：[金山軟件](../Page/金山軟件.md "wikilink")有限公司）が提供する[Windows専用の](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[無料および低価格帯の](../Page/フリーウェア.md "wikilink")[総合セキュリティソフトである](../Page/インターネットセキュリティスイート.md "wikilink")。本項では主にインターネットセキュリティスイート「Kingsoft Internet Security 2015」について解説する。なお、最新版は2019年にリリースされた「Kingsoft Internet Security 20」である。
 
 __TOC__{{-}}
 
@@ -121,6 +121,10 @@ __TOC__{{-}}
 
   - 2月13日 「Kingsoft Internet Security 2017」を公開。
 
+2019年
+
+  - 10月10日　「Kingsoft Internet Security 20」を公開\[4\]。
+
 ## 関連項目
 
   - [Kingsoft Office](https://ja.wikipedia.org/wiki/Kingsoft_Office "wikilink")
@@ -139,3 +143,4 @@ __TOC__{{-}}
 1.  キングソフトニュースリリース <http://info.kingsoft.jp/company/information/2010/07/20100708.html>
 2.  [キングソフト、ステマ依頼を否定、「ありのまま」執筆してもらう意図と釈明](http://internet.watch.impress.co.jp/docs/news/20120914_559801.html)
 3.  [キングソフト製品のWindows XP対応について](http://info.kingsoft.jp/company/information/2014/02/20140205.html)
+4.  [キングソフト、広告付き無償セキュリティ「KINGSOFT Internet Security 20」を公開](https://forest.watch.impress.co.jp/docs/news/1212375.html)

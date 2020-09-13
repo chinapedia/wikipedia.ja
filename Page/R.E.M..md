@@ -6,9 +6,9 @@
 ## メンバー
 
   - [マイケル・スタイプ](https://ja.wikipedia.org/wiki/マイケル・スタイプ "wikilink")（*Michael Stipe*） - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - ピーター・バック（*Peter Buck*） - [ギター](../Page/ギター.md "wikilink")
+  - ピーター・バック（*Peter Buck*） - [ギター](../Page/ギター.md "wikilink")、マンドリン
       - 2011年、「ローリング・ストーンの選ぶ歴史上最も偉大な100人のギタリスト」において第94位。
-  - [マイク・ミルズ](https://ja.wikipedia.org/wiki/マイク・ミルズ "wikilink")（*Mike Mills*） - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
+  - [マイク・ミルズ](https://ja.wikipedia.org/wiki/マイク・ミルズ "wikilink")（*Mike Mills*） - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、ピアノ
 
 ### 旧メンバー
 
@@ -159,7 +159,7 @@
 
   - [公式ウェブサイト](https://www.remhq.com/)
 
-[Category:R.E.M.](https://ja.wikipedia.org/wiki/Category:R.E.M. "wikilink") [Category:アメリカ合衆国のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のオルタナティヴ・ロック・バンド "wikilink") [Category:アメリカ合衆国のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のインディー・ロック・バンド "wikilink") [Category:ドリーム・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:ドリーム・ポップ・バンド "wikilink") [Category:ローファイ・バンド](https://ja.wikipedia.org/wiki/Category:ローファイ・バンド "wikilink") [Category:ロックの殿堂入りの人物](https://ja.wikipedia.org/wiki/Category:ロックの殿堂入りの人物 "wikilink") [Category:ワーナー・ミュージック・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナー・ミュージック・グループのアーティスト "wikilink")
+[Category:R.E.M.](https://ja.wikipedia.org/wiki/Category:R.E.M. "wikilink") [Category:アメリカ合衆国のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のオルタナティヴ・ロック・バンド "wikilink") [Category:アメリカ合衆国のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のインディー・ロック・バンド "wikilink") [Category:ドリーム・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:ドリーム・ポップ・バンド "wikilink") [Category:ローファイ・バンド](https://ja.wikipedia.org/wiki/Category:ローファイ・バンド "wikilink") [Category:ブリット・アワード受賞者](https://ja.wikipedia.org/wiki/Category:ブリット・アワード受賞者 "wikilink") [Category:ロックの殿堂入りの人物](https://ja.wikipedia.org/wiki/Category:ロックの殿堂入りの人物 "wikilink") [Category:ワーナー・ミュージック・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナー・ミュージック・グループのアーティスト "wikilink")
 
 1.
 2.

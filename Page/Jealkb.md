@@ -81,7 +81,7 @@
 
 [2011年](../Page/2011年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink")、ZEPP札幌で[Janne Da Arc](../Page/Janne_Da_Arc.md "wikilink") [yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")(vo)ソロプロジェクト[Acid Black Cherry主催イベント](../Page/Acid_Black_Cherry.md "wikilink")“The Sixth Sense”の第一回に出演。
 
-同年[1月28日](../Page/1月28日.md "wikilink")、ZEPP札幌でAcid Black Cherry主催イベント“The Sixth Sense”の第二回に出演。
+同年[1月28日](../Page/1月28日.md "wikilink")、ZEPP名古屋でAcid Black Cherry主催イベント“The Sixth Sense”の第二回に出演。
 
 同年[3月19日](../Page/3月19日.md "wikilink")、名古屋E.L.Lの際、サンシャインサカエ前でメンバーが直接、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の義援金の募金活動を行う。
 
@@ -194,6 +194,7 @@ chaosとmoftoは本業のお笑い活動に専念するために、[2010年](htt
   - 普通のバンドではインパクトが無いので、「メイクをする事で普段の自分とは違う自分になれる」という理由でヴィジュアル系を選んだ\[7\]。メンバーそれぞれ適当にヴィジュアル系っぽい名前を名乗ったことで、現在のジュアルネームとなった。
   - 結成当初はバンド演奏を人にみせるつもりはなく、スタジオで練習したりメイクをしてビデオ撮影をしていただけだったが、elsaの友人である[水玉れっぷう隊](../Page/水玉れっぷう隊.md "wikilink")のアキを中心に構成されるバンド「[GB](https://ja.wikipedia.org/wiki/GB_\(バンド\) "wikilink")」が、ワンマンライブを開催することとなり、その際にjealkbがオープニングアクトとして誘われる。そこから大急ぎでオリジナル曲を制作する流れとなり、遊びの一線を超えた本格的なバンド活動がはじまる\[8\]。[2005年](../Page/2005年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")、晴れてその[GBのワンマンライブにてオープニングACTをつとめ](https://ja.wikipedia.org/wiki/GB_\(バンド\) "wikilink")、これがjealkbの初ステージとなった。
   - メンバーが芸人であるがゆえに一時的な企画もののバンドだと思われることもあるが、メンバー曰く「ガチでやってる」「お笑いもバンドも人を楽しませることは一緒」という理念の元に活動を続けている\[9\]。
+  - 結成時には[田村亮](https://ja.wikipedia.org/wiki/田村亮 "wikilink")にも声をかけていたが、「歌唱力がない」と言う理由で見送られた。
 
 ## 作品
 
@@ -308,7 +309,7 @@ chaosとmoftoは本業のお笑い活動に専念するために、[2010年](htt
 | 楽曲                                                                                                                                         | タイアップ先                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 黒い砂漠                                                                                                                                       | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系ドラマ24「[エリートヤンキー三郎](https://ja.wikipedia.org/wiki/エリートヤンキー三郎 "wikilink")」エンディングテーマ                                            |
-| 誓い                                                                                                                                         | [TBS系テレビ全国ネット](../Page/TBSテレビ.md "wikilink")「[カウントダウンTV](https://ja.wikipedia.org/wiki/カウントダウンTV "wikilink")」11月度オープニングテーマ                                                           |
+| 誓い                                                                                                                                         | [TBS系テレビ全国ネット](../Page/TBSテレビ.md "wikilink")「[カウントダウンTV](https://ja.wikipedia.org/wiki/カウントダウンTV "wikilink")」11月度オープニングテーマ [広田レオナ](../Page/広田レオナ.md "wikilink")監督作品映画 お江戸のキャンディー主題歌  |
 | Fly                                                                                                                                        | [スターフライヤー](../Page/スターフライヤー.md "wikilink")関空線キャンペーンソング（2008/3/1 - 9/30）                                                                                                              |
 | Shell                                                                                                                                      | [ルネサンス高等学校](../Page/ルネサンス高等学校.md "wikilink")イベントソング（2008 - 2009）                                                                                                                     |
 | ORANGE HERO                                                                                                                                | [DRAGON BALL新作アニメ](https://ja.wikipedia.org/wiki/DRAGON_BALL "wikilink")「オッス\!帰ってきた孫悟空と仲間たち\!〜」エンディングテーマ                                                                             |

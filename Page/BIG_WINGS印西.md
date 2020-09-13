@@ -39,6 +39,8 @@
 
 <http://bigwingsinzaibbc.com/>
 
+<https://bigwings-inzai.jimdofree.com/>
+
 [Category:関東地方の社会人野球チーム](https://ja.wikipedia.org/wiki/Category:関東地方の社会人野球チーム "wikilink") [Category:千葉県のスポーツチーム](https://ja.wikipedia.org/wiki/Category:千葉県のスポーツチーム "wikilink") [Category:印西市](https://ja.wikipedia.org/wiki/Category:印西市 "wikilink") [Category:船橋市のスポーツ](https://ja.wikipedia.org/wiki/Category:船橋市のスポーツ "wikilink") [Category:2000年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:2000年設立のスポーツチーム "wikilink")
 
 1.

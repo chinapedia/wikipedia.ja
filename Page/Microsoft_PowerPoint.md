@@ -1,7 +1,7 @@
 > この記事は[Microsoft PowerPoint](https://ja.wikipedia.org/wiki/Microsoft_PowerPoint)から翻訳されています。
 
 
-**Microsoft PowerPoint** （マイクロソフト パワーポイント）は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")、[iOSおよび](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[Android](../Page/Android.md "wikilink")向けに開発・販売している[Microsoft Officeに含まれる](../Page/Microsoft_Office.md "wikilink")[プレゼンテーションソフトウェア](../Page/プレゼンテーションソフトウェア.md "wikilink")である。
+**Microsoft PowerPoint** （マイクロソフト パワーポイント）は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")、[iOSおよび](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[Android向けに開発](../Page/Android_\(オペレーティングシステム\).md "wikilink")・販売している[Microsoft Officeに含まれる](../Page/Microsoft_Office.md "wikilink")[プレゼンテーションソフトウェア](../Page/プレゼンテーションソフトウェア.md "wikilink")である。
 
 ## 概要
 
@@ -70,7 +70,7 @@ Windows版のみであるが閲覧用の単独アプリケーションとして*
 ## 外部リンク
 
   - [Microsoft PowerPoint](https://www.microsoft.com/ja-jp/microsoft-365/powerpoint)
-  - [PowerPoint のヘルプとラーニング - Office サポート](https://support.office.com/ja-jp/powerpoint)
+  - [PowerPoint のヘルプとラーニング - Microsoft サポート](https://support.microsoft.com/ja-jp/powerpoint)
   - [管理者および IT プロフェッショナル向けの Office ドキュメント](https://docs.microsoft.com/ja-jp/office/)
 
 [Category:Microsoft_Office](https://ja.wikipedia.org/wiki/Category:Microsoft_Office "wikilink") [Category:プレゼンテーションソフトウェア](https://ja.wikipedia.org/wiki/Category:プレゼンテーションソフトウェア "wikilink") [Category:1987年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1987年のソフトウェア "wikilink") [Category:MacOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:MacOSのソフトウェア "wikilink") [Category:iOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:iOSのソフトウェア "wikilink")

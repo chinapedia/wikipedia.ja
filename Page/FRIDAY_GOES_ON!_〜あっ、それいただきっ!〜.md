@@ -29,6 +29,8 @@
 
 ## ネット局
 
+2020年8月現在
+
 全て金曜の放送で、それぞれ放送時間の早い順から記載。
 
 全局「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink").jp」や「radikoプレミアム」で聴取可能。
@@ -59,7 +61,7 @@
 <tr class="even">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
 <td><p><a href="../Page/長野エフエム放送.md" title="wikilink">長野エフエム放送</a>（FM長野）</p></td>
-<td><p>13:55 - 14:00：<a href="../Page/積水ハウス.md" title="wikilink">SEKISUI HOUSE</a> presents エコチル信州応援団</p></td>
+<td><p>13:55 - 14:00：<a href="../Page/積水ハウス.md" title="wikilink">積水ハウス</a> presents エコチル信州応援団</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -87,8 +89,7 @@
 <td><p><a href="../Page/エフエム岐阜.md" title="wikilink">エフエム岐阜</a>（FM GIFU）</p></td>
 <td><p>2006年10月6日 - 2007年9月28日<br />
 2009年4月3日 -</p></td>
-<td><p>13:55 - 14:00：岐阜インフォメーション<br />
-14:40 - 14:45：快適生活ラジオショッピング</p></td>
+<td><p>14:40 - 14:45：快適生活ラジオショッピング</p></td>
 <td><p>[4]</p></td>
 <td></td>
 </tr>
@@ -115,21 +116,21 @@
 <td><p>13:30 - 15:00[5]</p></td>
 <td><p>2003年4月4日 -</p></td>
 <td><p>13:55 - 14:00：MONTHLY LOOP</p></td>
-<td><p>[6]</p></td>
+<td><p>[6][7]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/エフエム山形.md" title="wikilink">エフエム山形</a>（Rhythm Station）</p></td>
-<td><p>14:00 - 15:55[7]</p></td>
+<td><p>14:00 - 15:55[8]</p></td>
 <td><p>2003年4月4日 - 2010年3月26日<br />
 2019年4月5日 -</p></td>
 <td></td>
-<td><p>[8]</p></td>
+<td><p>[9]</p></td>
 </tr>
 </tbody>
 </table>
 
-### 過去
+### 過去・単発
 
 <table>
 <thead>
@@ -150,7 +151,7 @@
 2011年5月6日 - 2012年3月26日</p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/Do_You!?" title="wikilink">Do You!?</a>」終了に伴い再びネット再開したが、<br />
 「KAWATOKU presents ROCK ON THE FM!」の放送開始のため、<br />
-再び打ち切り。[9]</p></td>
+再び打ち切り。[10]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/島根県.md" title="wikilink">島根県</a>・<a href="../Page/鳥取県.md" title="wikilink">鳥取県</a></p></td>
@@ -158,7 +159,7 @@
 <td><p>2003年4月4日 - ?<br />
 2011年4月1日 - 2019年3月29日</p></td>
 <td><p>「MIZUKI-SHIGERUのFRIDAY×FRIDAY」放送開始のため、<br />
-打ち切り。[10][11]</p></td>
+打ち切り。[11][12]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -166,7 +167,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/エフエム山口" title="wikilink">エフエム山口</a>（FMY）</p></td>
 <td><p>2003年4月4日 - 2004年3月26日<br />
 2010年4月2日 - 2019年3月29日</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/Happy_Happy_FRIDAY" title="wikilink">Happy Happy FRIDAY</a>」放送時間拡大のため、打ち切り。[12][13][14]</p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/Happy_Happy_FRIDAY" title="wikilink">Happy Happy FRIDAY</a>」放送時間拡大のため、打ち切り。[13][14][15]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -179,7 +180,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a></p></td>
 <td><p><a href="../Page/岡山エフエム放送.md" title="wikilink">岡山エフエム放送</a>（FM OKAYAMA）</p></td>
-<td><p>13:30 - 15:45[15]</p></td>
+<td><p>13:30 - 15:45[16]</p></td>
 <td><p>2003年4月4日 - 2008年3月28日</p></td>
 <td><p>「牛嶋俊明 ドリームファクトリー」の放送開始のため、打ち切り。</p></td>
 </tr>
@@ -189,6 +190,13 @@
 <td><p>13:30 - 15:55</p></td>
 <td><p>2003年4月4日 - 2010年3月26日</p></td>
 <td><p>「[[REBOOT</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/広島県.md" title="wikilink">広島県</a></p></td>
+<td><p><a href="../Page/広島エフエム放送.md" title="wikilink">広島エフエム放送</a>（HFM）</p></td>
+<td><p>13:30 - 15:55</p></td>
+<td><p>年末年始のみ放送</p></td>
+<td><p>自社制作番組が年末年始による休止時のみ不定期で放送。</p></td>
 </tr>
 </tbody>
 </table>
@@ -202,13 +210,13 @@
   - 14:00 14時台オープニング
   - 14:08 DJリョーツの3分半コラム
   - 14:15 JFNラジオショッピング または JFNブランニューヒッツ
-  - 14:21 ゲストコーナー
+  - 14:21 宇宙レベルのゲストコーナー ザ・スペイシー・ゲスト・タイム ツー
   - 14:40 クイズ240
   - 14:49 メッセージ紹介、リクエスト
   - 14:55 [MY OLYMPIC α](../Page/MY_OLYMPIC.md "wikilink")（JFN全国ネット番組、一部局は除く）
   - 15:00 15時台オープニング、おとなのいただき情報 または ALOHA HOT LINE
       -
-        【「ALOHA HOT LINE」はハワイのラジオ局「[KZOO](../Page/KZOO.md "wikilink")」のスタジオと中継を繋ぎ、同局のアナウンサーである[小椋カリーン弘恵](https://ja.wikipedia.org/wiki/小椋カリーン弘恵 "wikilink")\[16\]\[17\]にハワイの話題を伝えてもらう】
+        【「ALOHA HOT LINE」はハワイのラジオ局「[KZOO](../Page/KZOO.md "wikilink")」のスタジオと中継を繋ぎ、同局のアナウンサーである[小椋カリーン弘恵](https://ja.wikipedia.org/wiki/小椋カリーン弘恵 "wikilink")\[17\]\[18\]にハワイの話題を伝えてもらう】
   - 15:11 メッセージ紹介、リクエスト
   - 15:20 音楽ランキング
       -
@@ -216,7 +224,7 @@
   - 15:38 メッセージ紹介、リクエスト
   - 15:48 エンディング
 
-（2017年3月現在。随時リスナーのメッセージを紹介している）
+（2020年8月現在。随時リスナーのメッセージを紹介している）
 
 ## 脚注
 
@@ -233,14 +241,15 @@
 4.  2006年10月から15時台のみネット、2007年9月で打ち切り。2009年4月よりネットを再開し15時台は未ネットしたが、2010年4月改編で14時台のみの放送に変更。2011年10月よりフルネットとなったが、2012年2月 - 2013年12月は15時台は「岐阜活性化プログラム G.F COMPANY」の開始に伴い再び未ネットとなったが、2014年1月に再びフルネットに戻った。
 5.  実質的な当番組の終了時間は「MY OLYMPIC α」開始までの14:55であるが、局発行の番組表では**「MY OLYMPIC α」を内包番組として表記しているため、15:00終了と表記**している。
 6.  2011年1月 - 2012年3月、同年11月 - 2013年3月は13:30 - 14:55の放送だった。
-7.  「石田純一のNo Socks J Life」（13:30 - 13:55）、「ビートルズは終わらない〜The Beatles 4 Ever〜」（13:55 - 14:00）の放送のため、途中で飛び乗り。
-8.  「岩崎敬のラジオロイド」の放送開始のため、打ち切られていたが、同番組の放送終了に伴い、放送再開。
-9.  「MUSIC FOEVER」の放送開始のため、途中で飛び降り。
-10. 2019年3月までは15:00 - 15:55「ちぇけら♪FRIDAY♪」を放送したため、飛び降りていた。
-11. [エフエム山陰30周年記念 公開生放送 FRIDAY GOES ON 『恋する春の山陰スペシャル\!』](http://www.fm-sanin.co.jp/topics/2683/)を放送する2016年4月1日は13:30 - 15:55に臨時で放送時間を拡大した。
-12. 放送期間中は14:30 - 14:35：道路交通情報、14:35 - 14:40：PUSH ONEのため中断していた。
-13. 2004年4月に『[MEN'S FOUR ビリビリFriday](../Page/MEN'S_FOUR_ビリビリFriday.md "wikilink")』（後に『[ビリフラMAX](../Page/ビリフラMAX.md "wikilink")』→『[まるてんフライデー](https://ja.wikipedia.org/wiki/まるてんフライデー "wikilink")』）を放送開始のため一旦打ち切られたが、2010年4月より放送再開。放送再開の2010年4月 - 2011年3月はフルネット。
-14. 2015年10月 - 2016年3月は「BUTCHと山田優子のキラキラ☆ラジオ」放送の為13時台のネットを、また2014年10月 - 2015年3月及び2017年10月 - 2018年3月は、同番組内のラジオショッピングコーナーの放送の為、14時代後半のネットをそれぞれ打ち切っていた。
-15. 「〜YOMIURI RADIO WEEKLY〜 [緒方かな子](../Page/緒方かな子.md "wikilink")のY's Cafe」（[広島FM](../Page/広島エフエム放送.md "wikilink")）をネットしているため、途中で飛び降り。
-16. [再びIKKOステージの後の囲み取材｜ハワイの二宮みさ マハロな生活](http://ameblo.jp/hawaii-kzoo-misa/entry-10758602271.html)
-17. [アナウンサー - ハワイのラジオ局 AM 1210 Kzoo Radio](http://www.kzoohawaii.com/jp/announcers/)
+7.  2020年5月のみ自社制作番組『CHANGE』の放送時間短縮に伴い、フルネットしていた。
+8.  「石田純一のNo Socks J Life」（13:30 - 13:55）の放送のため、途中で飛び乗り。
+9.  「岩崎敬のラジオロイド」の放送開始のため、打ち切られていたが、同番組の放送終了に伴い、放送再開。
+10. 「MUSIC FOEVER」の放送開始のため、途中で飛び降り。
+11. 2019年3月までは15:00 - 15:55「ちぇけら♪FRIDAY♪」を放送したため、飛び降りていた。
+12. [エフエム山陰30周年記念 公開生放送 FRIDAY GOES ON 『恋する春の山陰スペシャル\!』](http://www.fm-sanin.co.jp/topics/2683/)を放送する2016年4月1日は13:30 - 15:55に臨時で放送時間を拡大した。
+13. 放送期間中は14:30 - 14:35：道路交通情報、14:35 - 14:40：PUSH ONEのため中断していた。
+14. 2004年4月に『[MEN'S FOUR ビリビリFriday](../Page/MEN'S_FOUR_ビリビリFriday.md "wikilink")』（後に『[ビリフラMAX](../Page/ビリフラMAX.md "wikilink")』→『[まるてんフライデー](https://ja.wikipedia.org/wiki/まるてんフライデー "wikilink")』）を放送開始のため一旦打ち切られたが、2010年4月より放送再開。放送再開の2010年4月 - 2011年3月はフルネット。
+15. 2015年10月 - 2016年3月は「BUTCHと山田優子のキラキラ☆ラジオ」放送の為13時台のネットを、また2014年10月 - 2015年3月及び2017年10月 - 2018年3月は、同番組内のラジオショッピングコーナーの放送の為、14時代後半のネットをそれぞれ打ち切っていた。
+16. 「〜YOMIURI RADIO WEEKLY〜 [緒方かな子](../Page/緒方かな子.md "wikilink")のY's Cafe」（[HFM](../Page/広島エフエム放送.md "wikilink")）をネットしているため、途中で飛び降り。
+17. [再びIKKOステージの後の囲み取材｜ハワイの二宮みさ マハロな生活](http://ameblo.jp/hawaii-kzoo-misa/entry-10758602271.html)
+18. [アナウンサー - ハワイのラジオ局 AM 1210 Kzoo Radio](http://www.kzoohawaii.com/jp/announcers/)

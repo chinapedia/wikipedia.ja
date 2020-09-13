@@ -35,6 +35,7 @@
   - [トヨタ・WiLL Vi](../Page/トヨタ・WiLL_Vi.md "wikilink")
   - [トヨタ・WiLL サイファ](../Page/トヨタ・WiLL_サイファ.md "wikilink")
   - [トヨタ・オーリス](https://ja.wikipedia.org/wiki/トヨタ・オーリス "wikilink")
+  - [トヨタ・Opa](../Page/トヨタ・Opa.md "wikilink")
   - [特捜戦隊デカレンジャー](../Page/特捜戦隊デカレンジャー.md "wikilink") - 劇中での登場車両「マシンブル」のベースとなった（製造を担当した[セントラル自動車](../Page/セントラル自動車.md "wikilink")(現・[トヨタ自動車東日本](https://ja.wikipedia.org/wiki/トヨタ自動車東日本 "wikilink"))の夏祭りで、デカレンジャー・ショーが行われたことがある）
 
 [en:Toyota WiLL](https://ja.wikipedia.org/wiki/en:Toyota_WiLL "wikilink") [ru:Toyota WiLL](https://ja.wikipedia.org/wiki/ru:Toyota_WiLL "wikilink")

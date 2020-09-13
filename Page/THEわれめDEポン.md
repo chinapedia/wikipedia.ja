@@ -184,7 +184,7 @@
   - [ガダルカナル・タカ](../Page/ガダルカナル・タカ.md "wikilink")
   - [片山まさゆき](../Page/片山まさゆき.md "wikilink")
   - [桂ざこば](../Page/桂ざこば_\(2代目\).md "wikilink")
-  - 桂三枝（現：[六代目桂文枝](../Page/桂文枝_\(6代目\).md "wikilink")）
+  - 桂三枝（現：[6代目桂文枝](../Page/桂文枝_\(6代目\).md "wikilink")）
   - [加藤茶](../Page/加藤茶.md "wikilink")（[ザ・ドリフターズ](../Page/ザ・ドリフターズ.md "wikilink")）
   - [金子昇](../Page/金子昇.md "wikilink")
   - [狩野英孝](../Page/狩野英孝.md "wikilink")
@@ -359,7 +359,7 @@
 
 ## 外部リンク
 
-  - [芸能界麻雀最強位決定戦 THEわれめDEポン 公式サイト](http://www.fujitv.co.jp/otn/warepon/index.html)
+  - [芸能界麻雀最強位決定戦 THEわれめDEポン 公式サイト](https://otn.fujitv.co.jp/warepon/index.html)
   - [芸能界麻雀最強位決定戦 THEわれめDEポン 生スペシャル 紹介ページ](https://otn.fujitv.co.jp/b_hp/911200167.html)
   - [THEわれめDEポン プレイバック 紹介ページ](https://otn.fujitv.co.jp/b_hp/911200244.html)
   - [われポンオンライン - フジテレビ](http://www.fujitv.co.jp/games/warepon/index.html)

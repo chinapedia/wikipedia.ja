@@ -33,7 +33,7 @@
 **Andrew** （アンドリュー）
 
   -
-    [ドラムス担当](../Page/ドラムセット.md "wikilink")。本名：アンドリュー・フォールズ・ナオヤ。インディーズレーベル「TIGHT RECORDS」の社長であり、長年にわたり数多くのバンドの[サウンドエンジニア](https://ja.wikipedia.org/wiki/サウンドエンジニア "wikilink")を務めてきた。RISE、FUCK YOU HEROES、FULLSCRATCHのドラムでもある。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")国籍の[ハーフ](https://ja.wikipedia.org/wiki/ハーフ "wikilink")。2009年正式加入。GOOD4NOTHINGやHOTSQUALL等のPAも行う。口癖は「入り」「入ります」＃草加クオリティーである。
+    [ドラムス担当](../Page/ドラムセット.md "wikilink")。本名：アンドリュー・フォールズ・ナオヤ。インディーズレーベル「TIGHT RECORDS」の社長であり、長年にわたり数多くのバンドの[サウンドエンジニア](https://ja.wikipedia.org/wiki/サウンドエンジニア "wikilink")を務めてきた。RISE、FUCK YOU HEROES、FULLSCRATCHのドラムでもある。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")国籍の[ハーフ](https://ja.wikipedia.org/wiki/ハーフ "wikilink")。2009年正式加入。GOOD4NOTHINGやHOTSQUALL等のPAも行う。口癖は「入り」「入ります」である。
 
 ## 旧メンバー
 

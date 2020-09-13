@@ -117,7 +117,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p>コロリン、オアシス星からやって来るのコロリ!</p></td>
+<td><p>コロリン、オアシス星から やって来るのコロリ!</p></td>
 <td><p>西村孝史</p></td>
 <td><p><a href="../Page/高本宣弘.md" title="wikilink">高本宣弘</a></p></td>
 <td><p><strong><a href="../Page/1992年.md" title="wikilink">1992年</a></strong><br />
@@ -146,7 +146,7 @@
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p>切っても切ってもムダカミラー!のコロリ</p></td>
+<td><p>切っても切っても ムダカミラー!のコロリ</p></td>
 <td><p>大山歳郎</p></td>
 <td><p><a href="../Page/池端隆史.md" title="wikilink">池端隆史</a></p></td>
 <td><p><a href="../Page/5月13日.md" title="wikilink">5月13日</a></p></td>
@@ -195,7 +195,7 @@
 </tr>
 <tr class="even">
 <td><p>12</p></td>
-<td><p>チョウのおばけにチョービックリ!のコロリ</p></td>
+<td><p>チョウのおばけに チョービックリ!のコロリ</p></td>
 <td><p>山田隆司</p></td>
 <td><p>小田仁</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/7月8日" title="wikilink">7月8日</a></p></td>

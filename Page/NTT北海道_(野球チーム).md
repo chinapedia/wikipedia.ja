@@ -72,6 +72,5 @@
 
 ## 外部リンク
 
-  - [NTT北海道野球部](http://www3.ocn.ne.jp/~champ/baseball/baseball_top.htm)
-
+  -
 [Category:現在活動していない日本の社会人野球チーム](https://ja.wikipedia.org/wiki/Category:現在活動していない日本の社会人野球チーム "wikilink") [Category:北海道の社会人野球チーム](https://ja.wikipedia.org/wiki/Category:北海道の社会人野球チーム "wikilink") [Category:現在活動していない北海道のスポーツチーム](https://ja.wikipedia.org/wiki/Category:現在活動していない北海道のスポーツチーム "wikilink") [Category:札幌市のスポーツチーム](https://ja.wikipedia.org/wiki/Category:札幌市のスポーツチーム "wikilink") [Category:札幌市のスポーツ史](https://ja.wikipedia.org/wiki/Category:札幌市のスポーツ史 "wikilink") [Category:NTTグループのスポーツ活動](https://ja.wikipedia.org/wiki/Category:NTTグループのスポーツ活動 "wikilink") [Category:NTTグループの歴史](https://ja.wikipedia.org/wiki/Category:NTTグループの歴史 "wikilink") [Category:1956年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1956年設立のスポーツチーム "wikilink") [Category:2006年廃止のスポーツチーム](https://ja.wikipedia.org/wiki/Category:2006年廃止のスポーツチーム "wikilink")

@@ -158,6 +158,12 @@
 <td><p>2019年11月9日(土)・10日(日)</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>22<br />
+<a href="../Page/2020年.md" title="wikilink">2020</a></p></td>
+<td><p><s>2020年11月14日(土)・15日(日)</s>[1]</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -493,7 +499,7 @@
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------- | ---------- |
 | [滋賀県](../Page/滋賀県.md "wikilink")                                      | [滋賀県立甲西高等学校](../Page/滋賀県立甲西高等学校.md "wikilink")                            | 1回                   | 1          |
 | [滋賀県立石山高等学校](../Page/滋賀県立石山高等学校.md "wikilink")                        | 3回                                                                        | 3〜5                  |            |
-| [京都府](../Page/京都府.md "wikilink")                                      | [洛南高等学校](https://ja.wikipedia.org/wiki/洛南高等学校 "wikilink")                 | 20回                  | 1〜17、19〜21 |
+| [京都府](../Page/京都府.md "wikilink")                                      | [洛南高等学校](../Page/洛南高等学校・附属中学校.md "wikilink")                              | 20回                  | 1〜17、19〜21 |
 | [京都府立東舞鶴高等学校](../Page/京都府立東舞鶴高等学校.md "wikilink")                      | 1回                                                                        | 6                    |            |
 | [京都両洋高等学校](../Page/京都両洋高等学校.md "wikilink")                            | 4回                                                                        | 15〜17、20             |            |
 | [京都光華高等学校](https://ja.wikipedia.org/wiki/京都光華高等学校 "wikilink")         | 1回                                                                        | 17                   |            |
@@ -717,7 +723,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/神村学園高等部" title="wikilink">神村学園高等部</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/神村学園初等部・中等部・高等部" title="wikilink">神村学園高等部</a></p></td>
 <td><p>1回</p></td>
 <td><p>7</p></td>
 <td></td>
@@ -752,8 +758,14 @@
   - [日本高等学校吹奏楽連盟](../Page/日本高等学校吹奏楽連盟.md "wikilink")
   - [全日本高等学校選抜吹奏楽大会](https://ja.wikipedia.org/wiki/全日本高等学校選抜吹奏楽大会 "wikilink")
 
+## 脚注
+
+### 注釈
+
 ## 外部リンク
 
   - [日本高等学校吹奏楽連盟](http://www.nipponkousuiren.com/)
 
 [Category:全日本高等学校吹奏楽大会in横浜](https://ja.wikipedia.org/wiki/Category:全日本高等学校吹奏楽大会in横浜 "wikilink") [Category:1999年開始のイベント](https://ja.wikipedia.org/wiki/Category:1999年開始のイベント "wikilink")
+
+1.  新型コロナウイルス感染拡大の影響を考慮して中止。

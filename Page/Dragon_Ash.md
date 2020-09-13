@@ -5,7 +5,7 @@
 
 ## メンバー
 
-  - **Kj** （ケイジェイ、[降谷建志](../Page/降谷建志.md "wikilink")（ふるや けんじ））：[ボーカル](../Page/歌.md "wikilink")、[ギター](../Page/ギター.md "wikilink")
+  - **Kj**（ケイジェイ、[降谷建志](../Page/降谷建志.md "wikilink")（ふるや けんじ））：[ボーカル](../Page/歌.md "wikilink")、[ギター](../Page/ギター.md "wikilink")
 
 <!-- end list -->
 
@@ -16,86 +16,99 @@
 
 <!-- end list -->
 
-  - **MAKOTO SAKURAI** （マコト サクライ、桜井誠（さくらい まこと））：[ドラムス](../Page/ドラムセット.md "wikilink")
+  - **MAKOTO SAKURAI**（マコト サクライ、桜井誠（さくらい まこと））：[ドラムス](../Page/ドラムセット.md "wikilink")
 
 <!-- end list -->
 
   -
 
       -
-        Kj、BOTSとは同級生。HIROKIと共に[endive](https://ja.wikipedia.org/wiki/endive "wikilink")としても活動している。ライブでは[MCを担当することが多い](../Page/司会.md "wikilink")。趣味はゲームと料理で料理本を出版しており、ライブやフェスでも「桜井食堂」として出店している。最近では単独でパチスロ番組への出演も多くなっており、多くのライターとも共演している（CSフジテレビ1で放送の「パチスロ(旅)」で射駒タケシと共演他）
+        Kj、BOTSとは同級生。HIROKIと共に[endive](https://ja.wikipedia.org/wiki/endive "wikilink")としても活動している。ライブでは[MCを担当することが多い](../Page/司会.md "wikilink")。趣味はゲームと料理で料理本を出版しており、ライブやフェスでも「桜井食堂」として出店している。最近では単独で[パチスロ](../Page/パチスロ.md "wikilink")番組への出演も多くなっており、多くのライターとも共演している（『パチスロ(旅)』（[フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")）で射駒タケシと共演他）
 
 <!-- end list -->
 
-  - **BOTS** （ボッツ、佐藤哲也（さとう てつや））：[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")
-
-<!-- end list -->
-
-  -
-
-      -
-        [1999年](../Page/1999年.md "wikilink")加入。正規メンバーとなる前から、PVやライブに参加していた。近年のステージではターンテーブリストとしてスクラッチを刻むだけではなく、ティンバレスを叩く姿も数多く見られる。サッカーチームではキャプテンを務めている。好きなサッカーチームは[東京ヴェルディ](https://ja.wikipedia.org/wiki/東京ヴェルディ "wikilink")である。
-
-<!-- end list -->
-
-  - **HIROKI** （ヒロキ、杉山弘樹（すぎやま ひろき））：ギター
+  - **BOTS**（ボッツ、佐藤哲也（さとう てつや））：[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")
 
 <!-- end list -->
 
   -
 
       -
-        [2003年](../Page/2003年.md "wikilink")加入。[Dt.](../Page/Dt..md "wikilink")やstrobo、そして桜井誠とのユニットendiveなど様々なプロジェクトでも活動し、他のアーティストへの楽曲提供やプロデュースワークなども行っている。
+        [1999年](../Page/1999年.md "wikilink")加入。正規メンバーとなる前から、PVやライブに参加していた。近年のステージではターンテーブリストとしてスクラッチを刻むだけではなく、[ティンバレス](../Page/ティンバレス.md "wikilink")を叩く姿も数多く見られる。サッカーチームではキャプテンを務めている。好きなサッカーチームは[東京ヴェルディ](https://ja.wikipedia.org/wiki/東京ヴェルディ "wikilink")である。
 
 <!-- end list -->
 
-  - **DRI-V** （ドライブ、千葉雅紀（ちば よしのり））：[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")
-
-<!-- end list -->
-
-  -
-
-      -
-        2003年加入。[RIP SLYMEの紹介で加入](../Page/RIP_SLYME.md "wikilink")。ヒップホップ、ブレイキン、パントマイムなどダンスのあらゆる要素を独自の解釈で取り入れて活動。「DRI-V DANCE SCHOOL」として都内でダンス[インストラクター](https://ja.wikipedia.org/wiki/インストラクター "wikilink")としても活動している。
-
-<!-- end list -->
-
-  - **ATSUSHI** （アツシ、高橋アツシ（たかはし あつし））：ダンサー
+  - **HIROKI**（ヒロキ、杉山弘樹（すぎやま ひろき））：ギター
 
 <!-- end list -->
 
   -
 
       -
-        2003年加入。[為末大](../Page/為末大.md "wikilink")に、ヒップホップダンスを教えている。Dragon Ashの曲の振り付けを担当。RIP SLYMEの紹介で加入。2009年、プロジェクト「POWER of Life」を発起。
+        [2003年](../Page/2003年.md "wikilink")加入。[Dt.](../Page/Dt..md "wikilink")や[STROBO](https://ja.wikipedia.org/wiki/STROBO "wikilink")、そして桜井誠とのユニットendiveなど様々なプロジェクトでも活動し、他のアーティストへの楽曲提供やプロデュースワークなども行っている。
 
 <!-- end list -->
 
-  - **IKÜZÖNE** （イクゾーン、馬場育三（ばば いくぞう）、[1965年](../Page/1965年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink") - [2012年](../Page/2012年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")）：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
+  - **DRI-V**（ドライブ、千葉雅紀（ちば よしのり））：[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")
 
 <!-- end list -->
 
   -
 
       -
-        [ピンキー青木](https://ja.wikipedia.org/wiki/ピンキー青木 "wikilink")が結成したPinky & The Crazy Love Machineなどで活動後、Dragon Ashのメンバー募集のオーディションにより加入。メンバー最年長者としてDragon Ashの活動を支え続けた。2012年4月21日、急性心不全のため逝去。没46歳。Dragon Ash以外では、桜井と共にMotor Headphoneを結成し、[YMOのトリビュートアルバムや](../Page/イエロー・マジック・オーケストラ.md "wikilink")、[PENICILLIN](../Page/PENICILLIN.md "wikilink")の[千聖](../Page/千聖.md "wikilink")のソロプロジェクトである[Crack 6にも参加した](../Page/Crack_6.md "wikilink")。インディーズ時代、飲みの席でhideを遠目に見て憧れていた。hideの死後、泥酔しhide ミュージアムの壁に落書きをするなどした。腕にはhideの刺青を入れ、アンプヘッドにhide人形を飾っていたが、生前の[hide](https://ja.wikipedia.org/wiki/hide "wikilink")と直接の関わりは無かった。[ジャパニーズ・メタル](../Page/ジャパニーズ・メタル.md "wikilink")と[ダイムバッグ・ダレル](../Page/ダイムバッグ・ダレル.md "wikilink")をこよなく愛していた。
+        2003年加入。[RIP SLYMEの紹介で加入](../Page/RIP_SLYME.md "wikilink")。[ヒップホップ](../Page/ヒップホップ_\(ダンス\).md "wikilink")、[ブレイキン](https://ja.wikipedia.org/wiki/ブレイキン "wikilink")、[パントマイム](../Page/パントマイム.md "wikilink")などダンスのあらゆる要素を独自の解釈で取り入れて活動。「DRI-V DANCE SCHOOL」として都内でダンス[インストラクター](https://ja.wikipedia.org/wiki/インストラクター "wikilink")としても活動している。2020年9月4日、[TACHIKAWA STAGE GARDENでのワンマンライブ](https://ja.wikipedia.org/wiki/TACHIKAWA_STAGE_GARDEN "wikilink")「DRAGONASH LIVE "DEPARTURE"」を以て脱退する事を発表\[1\]。
+
+<!-- end list -->
+
+  - **ATSUSHI**（アツシ、高橋アツシ（たかはし あつし））：ダンサー
+
+<!-- end list -->
+
+  -
+
+      -
+        2003年加入。[為末大](../Page/為末大.md "wikilink")に、[ヒップホップダンス](https://ja.wikipedia.org/wiki/ヒップホップダンス "wikilink")を教えている。Dragon Ashの曲の振り付けを担当。RIP SLYMEの紹介で加入。2009年、プロジェクト「POWER of LIFE」を発起。2012年、[平間至](../Page/平間至.md "wikilink")と共に[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[塩竈市](../Page/塩竈市.md "wikilink")に於いて「GAMA ROCK FES」を立ち上げる。ランウェイモデルとして[パリコレクション](https://ja.wikipedia.org/wiki/パリコレクション "wikilink")にも出演している。2020年9月4日、TACHIKAWA STAGE GARDENでのワンマンライブ「DRAGONASH LIVE "DEPARTURE"」を以て脱退する事を発表\[2\]。
+
+<!-- end list -->
+
+  - **IKÜZÖNE**（イクゾーン、馬場育三（ばば いくぞう）、[1965年](../Page/1965年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink") - [2012年](../Page/2012年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")）：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
+
+<!-- end list -->
+
+  -
+
+      -
+        [ピンキー青木](https://ja.wikipedia.org/wiki/ピンキー青木 "wikilink")が結成したPinky & The Crazy Love Machineなどで活動後、Dragon Ashのメンバー募集のオーディションにより加入。メンバー最年長者としてDragon Ashの活動を支え続けた。2012年4月21日、急性心不全のため逝去。没46歳。Dragon Ash以外では、桜井と共にMotor Headphoneを結成し、[YMOのトリビュートアルバムや](../Page/イエロー・マジック・オーケストラ.md "wikilink")、[PENICILLIN](../Page/PENICILLIN.md "wikilink")の[千聖](../Page/千聖.md "wikilink")のソロプロジェクトである[Crack 6にも参加した](../Page/Crack_6.md "wikilink")。インディーズ時代、飲みの席で[hide](https://ja.wikipedia.org/wiki/hide "wikilink")を遠目に見て憧れていた。hideの死後、泥酔しhide ミュージアムの壁に落書きをするなどした。腕にはhideの刺青を入れ、[アンプヘッドにhide人形を飾っていたが](../Page/アンプ_\(音響機器\).md "wikilink")、生前のhideと直接の関わりは無かった。[ジャパニーズ・メタル](../Page/ジャパニーズ・メタル.md "wikilink")と[ダイムバッグ・ダレル](../Page/ダイムバッグ・ダレル.md "wikilink")をこよなく愛していた。
+
+### 現サポートメンバー
+
+  - **T$UYO$HI**（ツヨシ、石川剛（いしかわ つよし））：ベース
+
+<!-- end list -->
+
+  -
+
+      -
+        [Pay money To my Pain](../Page/Pay_money_To_my_Pain.md "wikilink")、[The BONEZのメンバー](https://ja.wikipedia.org/wiki/The_BONEZ "wikilink")。[KenKen](../Page/KenKen.md "wikilink")のサポート終了後から参加。
 
 ### 旧サポートメンバー
 
-  - **[KenKen](../Page/KenKen.md "wikilink")** （ケンケン、金子賢輔（かねこ けんすけ））：ベース
+  - **[KenKen](../Page/KenKen.md "wikilink")**（ケンケン、金子賢輔（かねこ けんすけ））：ベース
 
 <!-- end list -->
 
   -
 
       -
-        IKUZONEが左腕神経麻痺で療養していた2011年6月以降のライブにサポートベーシストとして参加する\[1\]。2014年リリースのアルバム「[THE FACES](https://ja.wikipedia.org/wiki/THE_FACES_\(Dragon_Ashのアルバム\) "wikilink")」では楽曲を提供し、2016年リリースのシングル「[光りの街](https://ja.wikipedia.org/wiki/光りの街 "wikilink")」から本格的にレコーディングに参加し、2017年リリースのアルバム「[MAJESTIC](https://ja.wikipedia.org/wiki/MAJESTIC_\(Dragon_Ashのアルバム\) "wikilink")」ではDragon Ashのメンバーとしてクレジットされ、Dragon Ashのデビュー20周年に関する各方面の取材にもDragon Ashのメンバーとして対応した。
+        [RIZE](../Page/RIZE.md "wikilink")のメンバー。IKUZONEが左腕神経麻痺で療養していた2011年6月以降のライブにサポートベーシストとして参加する\[3\]。2014年リリースのアルバム『[THE FACES](https://ja.wikipedia.org/wiki/THE_FACES_\(Dragon_Ashのアルバム\) "wikilink")』では楽曲を提供し、2016年リリースのシングル「[光りの街](https://ja.wikipedia.org/wiki/光りの街 "wikilink")」から本格的にレコーディングに参加し、2017年リリースのアルバム『[MAJESTIC](https://ja.wikipedia.org/wiki/MAJESTIC_\(Dragon_Ashのアルバム\) "wikilink")』ではDragon Ashのメンバーとしてクレジットされ、Dragon Ashのデビュー20周年に関する各方面の取材にもDragon Ashのメンバーとして対応した。2019年サポート終了。
 
 ## 概要
 
 [ロック](../Page/ロック_\(音楽\).md "wikilink")、[パンク](../Page/パンク・ロック.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")、[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")、[ラテン](../Page/ラテン音楽.md "wikilink")、[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")など、様々なジャンルの音楽を取り入れた7人組のバンド。
 
-バンド名の「Dragon Ash」はKjが考えた造語であり、"drag on ash"（だらだらしていたら灰になる）という意味を込めているという説があるが、IKÜZÖNEはFAN CLUB（[D.A.CREW](https://ja.wikipedia.org/wiki/D.A.CREW "wikilink")）の会報でこれを否定している。 が2006年ZeppTokyoでKjが真実だと発言。 関西で開催されるロックフェス『[RUSH BALL](../Page/RUSH_BALL.md "wikilink")』や『[京都大作戦](https://ja.wikipedia.org/wiki/京都大作戦 "wikilink")』には開催当初からラインナップに名を連ねている。
+バンド名の「Dragon Ash」はKjが考えた造語であり、"drag on ash"（だらだらしていたら灰になる）という意味を込めているという説があるが、IKÜZÖNEはFAN CLUB（[D.A.CREW](https://ja.wikipedia.org/wiki/D.A.CREW "wikilink")）の会報でこれを否定していた。しかし、2006年ZeppTokyoでKjが真実だと発言。
+
+関西で開催されるロックフェス『[RUSH BALL](../Page/RUSH_BALL.md "wikilink")』や『[京都大作戦](https://ja.wikipedia.org/wiki/京都大作戦 "wikilink")』には開催当初からラインナップに名を連ねている。
 
 また、[ROCK IN JAPAN FESTIVALの初年度から全て出演し続けており](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")、過去16回の出演中、7回でトリ（さらにそのうち2回は大トリ）を務めている。
 
@@ -172,12 +185,12 @@
 ### 2014年
 
   - [1月15日](../Page/1月15日.md "wikilink")、10thアルバム『[THE FACES](https://ja.wikipedia.org/wiki/THE_FACES_\(Dragon_Ashのアルバム\) "wikilink")』を発売。
-  - [5月31日](../Page/5月31日.md "wikilink")、ライブツアー「Dragon Ash Tour 〜THE SHOW MUST GO ON〜」のファイナル公演を、キャリア初となる[日本武道館](../Page/日本武道館.md "wikilink")で開催した\[2\]。
+  - [5月31日](../Page/5月31日.md "wikilink")、ライブツアー「Dragon Ash Tour 〜THE SHOW MUST GO ON〜」のファイナル公演を、キャリア初となる[日本武道館](../Page/日本武道館.md "wikilink")で開催した\[4\]。
 
 ### 2015年
 
   - [3月16日](../Page/3月16日.md "wikilink")、[Kjがソロ活動を開始](../Page/降谷建志.md "wikilink")。
-  - [9月26日](../Page/9月26日.md "wikilink")、[タワーレコード](../Page/タワーレコード.md "wikilink")プレゼンツイベント「**Bowline 2015**」のキュレーターを務め、15年ぶりに「**TMC**」を復活させた\[3\]。
+  - [9月26日](../Page/9月26日.md "wikilink")、[タワーレコード](../Page/タワーレコード.md "wikilink")プレゼンツイベント「**Bowline 2015**」のキュレーターを務め、15年ぶりに「**TMC**」を復活させた\[5\]。
 
 ### 2016年
 
@@ -191,18 +204,18 @@
 
 ### 2019年
 
-  - [7月10日](../Page/7月10日.md "wikilink")、「Red Bull Air Race Chiba 2019」大会テーマ・ソングとして製作された、およそ2年振りとなる新曲「FLY OVER」を配信限定でリリース\[4\]。
-  - [7月19日](../Page/7月19日.md "wikilink")、KenKenが[大麻取締法](../Page/大麻取締法.md "wikilink")違反（[大麻](https://ja.wikipedia.org/wiki/大麻 "wikilink")所持）容疑で[逮捕された](https://ja.wikipedia.org/wiki/逮捕_\(日本法\) "wikilink")。これを受け、[翌日](../Page/7月20日.md "wikilink")、所属するJVCケンウッド・ビクターエンタテインメントでは、彼が制作に携わった楽曲（音源）が含まれる全作品\[5\]の出荷や配信の全面停止を発表した\[6\]。
-  - [7月24日](../Page/7月24日.md "wikilink")、サポートベーシストとして**T$UYO$HI**（[The BONEZ](https://ja.wikipedia.org/wiki/The_BONEZ "wikilink")、[Pay money To my Pain](../Page/Pay_money_To_my_Pain.md "wikilink")）を迎え、今夏のフェスおよびイベントに出演することを発表した\[7\]。
-  - [9月11日](../Page/9月11日.md "wikilink")、配信停止となってしまった新曲「FLY OVER」を、新体制でリレコーディングした「**Fly Over feat. T$UYO$HI**」として再配信。また、ツアー会場限定でCD版も販売。内容は本曲が収録されたCDと、Tシャツをパッケージングしたもの\[8\]。
-  - [11月13日](../Page/11月13日.md "wikilink")、出荷・配信停止となっていた2014年以降の作品の再生産・再配信を開始\[9\]。但し「FLY OVER」のオリジナル版に関しては配信されていない。
-  - [11月18日](../Page/11月18日.md "wikilink")、KenKenが脱退\[10\]。
+  - [7月10日](../Page/7月10日.md "wikilink")、「Red Bull Air Race Chiba 2019」大会テーマ・ソングとして製作された、およそ2年振りとなる新曲「FLY OVER」を配信限定でリリース\[6\]。
+  - [7月19日](../Page/7月19日.md "wikilink")、KenKenが[大麻取締法](../Page/大麻取締法.md "wikilink")違反（[大麻](https://ja.wikipedia.org/wiki/大麻 "wikilink")所持）容疑で[逮捕された](https://ja.wikipedia.org/wiki/逮捕_\(日本法\) "wikilink")。これを受け、[翌日](../Page/7月20日.md "wikilink")、所属するJVCケンウッド・ビクターエンタテインメントでは、彼が制作に携わった楽曲（音源）が含まれる全作品\[7\]の出荷や配信の全面停止を発表した\[8\]。
+  - [7月24日](../Page/7月24日.md "wikilink")、サポートベーシストとして**T$UYO$HI**（[The BONEZ](https://ja.wikipedia.org/wiki/The_BONEZ "wikilink")、[Pay money To my Pain](../Page/Pay_money_To_my_Pain.md "wikilink")）を迎え、今夏のフェスおよびイベントに出演することを発表した\[9\]。
+  - [9月11日](../Page/9月11日.md "wikilink")、配信停止となってしまった新曲「FLY OVER」を、新体制でリレコーディングした「**Fly Over feat. T$UYO$HI**」として再配信。また、ツアー会場限定でCD版も販売。内容は本曲が収録されたCDと、Tシャツをパッケージングしたもの\[10\]。
+  - [11月13日](../Page/11月13日.md "wikilink")、出荷・配信停止となっていた2014年以降の作品の再生産・再配信を開始\[11\]。但し「FLY OVER」のオリジナル版に関しては配信されていない。
+  - [11月18日](../Page/11月18日.md "wikilink")、KenKenがサポートから離れる\[12\]。
 
 ### 2020年
 
   - [2月21日](../Page/2月21日.md "wikilink")、300を超える楽曲のストリーミング配信開始<ref>
 
-</ref>\[11\]\[12\]\[13\]\[14\]
+</ref>\[13\]\[14\]\[15\]\[16\]
 
 ## ディスコグラフィー
 
@@ -224,11 +237,11 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/オリコン.md" title="wikilink">オリコン</a><br />
-[15]</p></td>
+[17]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Billboard_Japan_Hot_100" title="wikilink">Billboard<br />
 Japan<br />
 Hot 100</a><br />
-[16]</p></td>
+[18]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -499,7 +512,7 @@ Hot 100</a><br />
 <td><p>VICL-36618 (CD)</p></td>
 <td><p>9位</p></td>
 <td><p>95位<br />
-[17]</p></td>
+[19]</p></td>
 </tr>
 <tr class="odd">
 <td><p>VICL-36619 (CD)</p></td>
@@ -674,7 +687,7 @@ Hot 100</a><br />
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/オリコン.md" title="wikilink">オリコン</a><br />
-[18]</p></td>
+[20]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Billboard_JAPAN" title="wikilink">Billboard<br />
 Japan<br />
 Hot Albums</a><br />
@@ -849,7 +862,7 @@ Hot Albums</a><br />
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/オリコン.md" title="wikilink">オリコン</a><br />
-[19]</p></td>
+[21]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -906,7 +919,7 @@ Hot Albums</a><br />
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/オリコン.md" title="wikilink">オリコン</a><br />
-[20][21]</p></td>
+[22][23]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1694,7 +1707,7 @@ At BUDOKAN May 31, 2014</strong></p></td>
 
 ### ウェブテレビ
 
-  - [（株）サク・コウイチ・サンブの木曜The NIGHT](https://ja.wikipedia.org/wiki/The_NIGHT "wikilink")（2017年11月10日 - 12月1日、[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")）\[22\]櫻井のみ出演
+  - [（株）サク・コウイチ・サンブの木曜The NIGHT](https://ja.wikipedia.org/wiki/The_NIGHT "wikilink")（2017年11月10日 - 12月1日、[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")）\[24\]櫻井のみ出演
 
 ## 脚注
 
@@ -1747,13 +1760,13 @@ At BUDOKAN May 31, 2014</strong></p></td>
   -
 [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:ミクスチャー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ミクスチャー・ロック・バンド "wikilink") [Category:オルタナティヴ・メタル・バンド](https://ja.wikipedia.org/wiki/Category:オルタナティヴ・メタル・バンド "wikilink") [Category:ニュー・メタル・バンド](https://ja.wikipedia.org/wiki/Category:ニュー・メタル・バンド "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink") [Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
 
-1.  [Dragon Ash よりお知らせ](http://www.dragonash.co.jp/info/detail/?nid=225)
-2.  『ロッキング・オン・ジャパン』2014年8月号、p20
-3.  [TOWER RECORDS presents Bowline 2015](http://bowlinelive.jp/?page_id=2331)タワーレコード
-4.
-5.  "具体的には『[THE FACES](https://ja.wikipedia.org/wiki/THE_FACES_\(Dragon_Ashのアルバム\) "wikilink")』以降に発売された全作品。
+1.
+2.
+3.  [Dragon Ash よりお知らせ](http://www.dragonash.co.jp/info/detail/?nid=225)
+4.  『ロッキング・オン・ジャパン』2014年8月号、p20
+5.  [TOWER RECORDS presents Bowline 2015](http://bowlinelive.jp/?page_id=2331)タワーレコード
 6.
-7.
+7.  "具体的には『[THE FACES](https://ja.wikipedia.org/wiki/THE_FACES_\(Dragon_Ashのアルバム\) "wikilink")』以降に発売された全作品。
 8.
 9.
 10.
@@ -1761,11 +1774,13 @@ At BUDOKAN May 31, 2014</strong></p></td>
 12.
 13.
 14.
-15. [Dragon Ashのシングル作品](http://www.oricon.co.jp/prof/7046/products/single/) オリコン
-16. [Dragon Ash - Chart History](http://www.billboard.com/artist/5878942/dragon-ash/chart) Billboard
-17. "ROCK BAND"のチャート最高位。
-18. [Dragon Ashのアルバム作品](http://www.oricon.co.jp/prof/7046/products/album/) オリコン
-19.
-20. [Dragon AshのDVD作品](http://www.oricon.co.jp/prof/7046/products/dvd/) オリコン
-21. [Dragon AshのBlu-ray作品](http://www.oricon.co.jp/prof/7046/products/Blu-ray/) オリコン
-22.
+15.
+16.
+17. [Dragon Ashのシングル作品](http://www.oricon.co.jp/prof/7046/products/single/) オリコン
+18. [Dragon Ash - Chart History](http://www.billboard.com/artist/5878942/dragon-ash/chart) Billboard
+19. "ROCK BAND"のチャート最高位。
+20. [Dragon Ashのアルバム作品](http://www.oricon.co.jp/prof/7046/products/album/) オリコン
+21.
+22. [Dragon AshのDVD作品](http://www.oricon.co.jp/prof/7046/products/dvd/) オリコン
+23. [Dragon AshのBlu-ray作品](http://www.oricon.co.jp/prof/7046/products/Blu-ray/) オリコン
+24.

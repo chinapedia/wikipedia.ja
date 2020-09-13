@@ -45,7 +45,7 @@
 
 ## 脚注
 
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:関西Jr.](https://ja.wikipedia.org/wiki/Category:関西Jr. "wikilink") [Category:関ジャニ∞](https://ja.wikipedia.org/wiki/Category:関ジャニ∞ "wikilink") [Category:ユニット](https://ja.wikipedia.org/wiki/Category:ユニット "wikilink")
+[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:関西Jr.](https://ja.wikipedia.org/wiki/Category:関西Jr. "wikilink") [Category:関ジャニ∞](https://ja.wikipedia.org/wiki/Category:関ジャニ∞ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink")
 
 1.
 2.

@@ -160,7 +160,7 @@
 
 ## 外部リンク
 
-  - [Hikaru★星の国から](http://www.k4.dion.ne.jp/~star_web/top.html) - 公式サイト　（閉鎖）
+  - \- 公式サイト　（閉鎖）
 
 [Category:日本の女子プロレスラー](https://ja.wikipedia.org/wiki/Category:日本の女子プロレスラー "wikilink") [Category:全日本女子プロレスに所属した女子プロレスラー](https://ja.wikipedia.org/wiki/Category:全日本女子プロレスに所属した女子プロレスラー "wikilink") [Category:SUNに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:SUNに所属したプロレスラー "wikilink") [Category:ハッスルの人物](https://ja.wikipedia.org/wiki/Category:ハッスルの人物 "wikilink") [Category:埼玉県出身の人物](https://ja.wikipedia.org/wiki/Category:埼玉県出身の人物 "wikilink") [Category:1981年生](https://ja.wikipedia.org/wiki/Category:1981年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 

@@ -56,7 +56,26 @@
       - [庄子淳](https://ja.wikipedia.org/wiki/庄子淳 "wikilink")
       - [関嗣明](https://ja.wikipedia.org/wiki/関嗣明 "wikilink")
       - [俵口和浩](https://ja.wikipedia.org/wiki/俵口和浩 "wikilink")
+      - [田代大輔](../Page/田代大輔.md "wikilink")
       - [池谷亨](../Page/池谷亨.md "wikilink")（不定期出演）
+      - [渡辺博栄](../Page/渡辺博栄.md "wikilink")
+      - [村山貢司](../Page/村山貢司.md "wikilink")
+      - [高田斉](../Page/高田斉.md "wikilink")
+      - [半井小絵](https://ja.wikipedia.org/wiki/半井小絵 "wikilink")
+      - [新見多一](https://ja.wikipedia.org/wiki/新見多一 "wikilink")
+      - [伊藤宏幸](https://ja.wikipedia.org/wiki/伊藤宏幸 "wikilink")
+      - [平井史生](https://ja.wikipedia.org/wiki/平井史生 "wikilink")
+      - [中村次郎](../Page/中村次郎.md "wikilink")
+      - [鈴木勝博](https://ja.wikipedia.org/wiki/鈴木勝博 "wikilink")
+      - [木原実 (タレント)](../Page/木原実_\(タレント\).md "wikilink")
+      - [岩田総司](https://ja.wikipedia.org/wiki/岩田総司 "wikilink")
+      - [松並健治](https://ja.wikipedia.org/wiki/松並健治 "wikilink")
+      - [南利幸](../Page/南利幸.md "wikilink")
+      - [船木正人](https://ja.wikipedia.org/wiki/船木正人 "wikilink")
+      - [斉田季実治](https://ja.wikipedia.org/wiki/斉田季実治 "wikilink")
+      - [依田司](https://ja.wikipedia.org/wiki/依田司 "wikilink")
+      - [天達武史](../Page/天達武史.md "wikilink")
+      - [杉江勇次](../Page/杉江勇次.md "wikilink")
   - JASDAQ中継（以下共に[日経CNBC](https://ja.wikipedia.org/wiki/日経CNBC "wikilink")キャスター）
       - [中根わたる](https://ja.wikipedia.org/wiki/中根わたる "wikilink")
       - [大森由布子](https://ja.wikipedia.org/wiki/大森由布子 "wikilink")（木曜・金曜）
@@ -64,6 +83,14 @@
       - [あざみ陽子](https://ja.wikipedia.org/wiki/あざみ陽子 "wikilink")（月曜・火曜）
       - [木次真紀](../Page/木次真紀.md "wikilink")（月曜・火曜）
       - [大里希世](../Page/大里希世.md "wikilink")（水 - 金曜）
+      - [片山美紀](../Page/片山美紀.md "wikilink")（水 - 金曜）
+      - [荒嶋恵里子](https://ja.wikipedia.org/wiki/荒嶋恵里子 "wikilink")（月曜・火曜）
+      - [関口奈美](https://ja.wikipedia.org/wiki/関口奈美 "wikilink")（木曜）
+      - [増田雅昭](https://ja.wikipedia.org/wiki/増田雅昭 "wikilink")（不定期出演）
+      - [谷尻萌](https://ja.wikipedia.org/wiki/谷尻萌 "wikilink")（木曜）
+      - [阿部華也子](https://ja.wikipedia.org/wiki/阿部華也子 "wikilink")（不定期出演）
+      - [佐藤公俊](../Page/佐藤公俊.md "wikilink")（不定期出演）
+      - [檜山靖洋](https://ja.wikipedia.org/wiki/檜山靖洋 "wikilink")（不定期出演）
   - コメンテーター
       - [岡田晃](../Page/岡田晃_\(経済評論家\).md "wikilink")（隔週月曜、[大阪経済大学](../Page/大阪経済大学.md "wikilink")客員教授、元・テレビ東京）
       - [永見和彦](https://ja.wikipedia.org/wiki/永見和彦 "wikilink")（金曜、[岡三証券](../Page/岡三証券.md "wikilink")）

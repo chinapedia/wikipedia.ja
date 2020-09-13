@@ -31,8 +31,8 @@
 
 ## 外部リンク
 
-  - [Girl is Girl by nicola](http://web.archive.org/web/20080501130732/http://www.nicola.jp/gg_top/index.html) - アーカイブス2008年5月1日付け
-  - 伊藤忠ニュースリリース\#1 [新潮社と伊藤忠による月刊誌「ニコラ」読者層を対象にしたビジネス展開について](http://www.itochu.co.jp/main/news/2002/news_020222.html) [キャッシュ](http://web.archive.org/web/20020602090338/http://www.itochu.co.jp/main/news/2002/news_020222.html)
-  - 伊藤忠ニュースリリース\#2 [「ガールイズガール バイニコラ」のライセンス展開について](http://www.itochu.co.jp/main/news/2003/news_030528_01.html) [キャッシュ](http://web.archive.org/web/20030628084308/http://www.itochu.co.jp/main/news/2003/news_030528_01.html)
+  - [Girl is Girl by nicola](https://web.archive.org/web/20080501130732/http://www.nicola.jp/gg_top/index.html) - アーカイブス2008年5月1日付け
+  - 伊藤忠ニュースリリース\#1 [新潮社と伊藤忠による月刊誌「ニコラ」読者層を対象にしたビジネス展開について](http://www.itochu.co.jp/main/news/2002/news_020222.html) [キャッシュ](https://web.archive.org/web/20020602090338/http://www.itochu.co.jp/main/news/2002/news_020222.html)
+  - 伊藤忠ニュースリリース\#2 [「ガールイズガール バイニコラ」のライセンス展開について](http://www.itochu.co.jp/main/news/2003/news_030528_01.html) [キャッシュ](https://web.archive.org/web/20030628084308/http://www.itochu.co.jp/main/news/2003/news_030528_01.html)
 
 [Category:日本のファッションブランド](https://ja.wikipedia.org/wiki/Category:日本のファッションブランド "wikilink") [Category:ニコラ](https://ja.wikipedia.org/wiki/Category:ニコラ "wikilink") [Category:セレクトショップ](https://ja.wikipedia.org/wiki/Category:セレクトショップ "wikilink")

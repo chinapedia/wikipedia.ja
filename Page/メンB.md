@@ -122,8 +122,7 @@
 
 ## 外部リンク
 
-  - [メンB](http://www.ntv.co.jp/men-b/indexx.html)
-
+  -
 [Category:日本テレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビの深夜番組の歴史 "wikilink") [Category:日本テレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビのバラエティ番組の歴史 "wikilink") [Category:2004年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のテレビ番組_\(日本\) "wikilink")
 
 1.  メロディは[マイク眞木](../Page/マイク眞木.md "wikilink")『キャンプだホイ』の替え歌。

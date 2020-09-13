@@ -79,4 +79,4 @@
   - [芙苑晶　公式サイト](http://www.fzono.com/)
   - [Lavalamp Records](http://www.lavalamp-records.com/)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:テクノミュージシャン](https://ja.wikipedia.org/wiki/Category:テクノミュージシャン "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")
+[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:日本のテクノミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のテクノミュージシャン "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")

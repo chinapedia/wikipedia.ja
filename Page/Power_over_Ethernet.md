@@ -23,7 +23,7 @@
 
 そもそも日本において電力線（強電流回路）と信号線（弱電流回路）は[内線規程](../Page/内線規程.md "wikilink")により区別されているため、信号線を電力線代わりにするPoEは規程外の使用方法にあたることに注意しなければならない。
 
-なお、海外においては[TN-C接地](https://ja.wikipedia.org/wiki/TN-C接地 "wikilink")や[TN-S接地](https://ja.wikipedia.org/wiki/TN-S接地 "wikilink")が多く用いられているため、PoE機器を始め通信機器がサージで壊れる可能性は低いが、日本では[内線規程](../Page/内線規程.md "wikilink")により[TT接地](https://ja.wikipedia.org/wiki/TT接地 "wikilink")が標準であるため[等電位ボンディング](https://ja.wikipedia.org/wiki/等電位ボンディング "wikilink")が難しく、PoE機器など海外製通信機器が壊れやすい環境であることに留意しなければならない。\[出展のCIAJの記事を参照\]
+なお、海外においては[TN-C接地や](https://ja.wikipedia.org/wiki/接地#TN "wikilink")[TN-S接地が多く用いられているため](https://ja.wikipedia.org/wiki/接地#TN "wikilink")、PoE機器を始め通信機器がサージで壊れる可能性は低いが、日本では[内線規程](../Page/内線規程.md "wikilink")により[TT接地が標準であるため](https://ja.wikipedia.org/wiki/接地#TT "wikilink")[等電位ボンディング](https://ja.wikipedia.org/wiki/等電位ボンディング "wikilink")が難しく、PoE機器など海外製通信機器が壊れやすい環境であることに留意しなければならない。（出典のCIAJの記事を参照）
 
 ## 拡張規格
 
@@ -46,7 +46,7 @@ IEEE802.3afを拡張し、2009年9月に標準化されたIEEE 802.3at (PoE Plus
 
   - [CPDV100: Control Poe by Internet, www.reset.cl](http://www.reset.cl/index.php?categoria=Electronica)
   - [POE供电技术：以太网POE供电技术剖析](http://www.poesw.com/poepowersupply/7.html)
-  - [CIAJ「雷過電圧に対する通信機器の保護ガイドライン ＣＥＳ－００４０－２」](https://www.ciaj.or.jp/ciaj-wp/wp-content/uploads_sec/2014/06/CES_0040_2.pdf)
+  - [CIAJ「雷過電圧に対する通信機器の保護ガイドライン CES-0040-2」](https://www.ciaj.or.jp/ciaj-wp/wp-content/uploads_sec/2014/06/CES_0040_2.pdf)
 
 ## 関連項目
 

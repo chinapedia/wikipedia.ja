@@ -167,7 +167,7 @@
   - 9月23日 [WIN BACK](https://ja.wikipedia.org/wiki/WIN_BACK "wikilink")（[コーエー](../Page/コーエー.md "wikilink")）
   - 10月1日 [トランスフォーマー ビーストウォーズメタルス64](https://ja.wikipedia.org/wiki/トランスフォーマー_ビーストウォーズメタルス64 "wikilink")（タカラ）
   - 10月14日 [V-RALLY EDITION99](https://ja.wikipedia.org/wiki/V-RALLY_EDITION99 "wikilink")（[スパイク](../Page/スパイク_\(ゲーム会社\).md "wikilink")）
-  - 10月22日 [夜光虫II〜殺人航路〜](https://ja.wikipedia.org/wiki/夜光虫II〜殺人航路〜 "wikilink")（[アテナ](../Page/アテナ_\(ゲーム会社\).md "wikilink")）
+  - 10月22日 [夜光虫II〜殺人航路〜](https://ja.wikipedia.org/wiki/夜光虫II〜殺人航路〜 "wikilink")（[アテナ](../Page/アテナ_\(ゲーム会社\).md "wikilink")、256MB）
   - 10月29日 [スーパーロボット大戦64](../Page/スーパーロボット大戦64.md "wikilink")（[バンプレスト](../Page/バンプレスト.md "wikilink")）
   - 11月5日 [プロ麻雀 兵64 雀荘バトルに挑戦](https://ja.wikipedia.org/wiki/プロ麻雀_兵64_雀荘バトルに挑戦 "wikilink")（カルチャーブレーン）
   - 11月5日 [64花札 天使の約束](https://ja.wikipedia.org/wiki/64花札_天使の約束 "wikilink")（[アルトロン](https://ja.wikipedia.org/wiki/アルトロン "wikilink")）
@@ -188,13 +188,13 @@
 ## 2000年（全37タイトル）
 
   - 1月28日 [バーチャルプロレス2 ～王道継承～](../Page/バーチャル・プロレスリング.md "wikilink")（[アスミック・エースエンタテインメント](https://ja.wikipedia.org/wiki/アスミック・エースエンタテインメント "wikilink")）
-  - 1月28日 [バイオハザード2](../Page/バイオハザード2.md "wikilink")（カプコン）
+  - 1月28日 [バイオハザード2](../Page/バイオハザード2.md "wikilink")（カプコン、512MB）
   - 2月4日 [トップギア・ラリー](https://ja.wikipedia.org/wiki/トップギア・ラリー "wikilink")2（コトブキシステム）
   - 2月23日 [シムシティー64](https://ja.wikipedia.org/wiki/シムシティー64 "wikilink")（任天堂）●
   - 2月23日 [ランドネットディスク](https://ja.wikipedia.org/wiki/ランドネット#ランドネットディスクで利用できるサービス "wikilink")（ランドネットDD）●
   - 2月23日 [マリオアーティスト タレントスタジオ](https://ja.wikipedia.org/wiki/マリオアーティストシリーズ#タレントスタジオ "wikilink")（任天堂、NINTENDO64マイク、キャプチャーカセット同梱）●
   - 3月17日 [トップギア・ハイパーバイク](https://ja.wikipedia.org/wiki/トップギア・ハイパーバイク "wikilink")（コトブキシステム）
-  - 3月24日 [星のカービィ64](https://ja.wikipedia.org/wiki/星のカービィ64 "wikilink")（任天堂）★
+  - 3月24日 [星のカービィ64](https://ja.wikipedia.org/wiki/星のカービィ64 "wikilink")（任天堂、256MB）★
   - 3月31日 [糸井重里のバス釣りNo.1 決定版\!](../Page/糸井重里のバス釣りNo.1.md "wikilink")（任天堂）
   - 4月7日 [ガントレットレジェンド](../Page/ガントレット_\(ゲーム\).md "wikilink")（エポック社）
   - 4月7日 [大刀 DAIKATANA](../Page/大刀_\(ゲーム\).md "wikilink")（コトブキシステム）
@@ -306,7 +306,7 @@
   - 『トップギア・ラリー2』
   - 『DT BLOODMASTERS』　　　　
   - 『井出洋介の麻雀塾』
-  - 『[ドラゴンクエストVII](https://ja.wikipedia.org/wiki/ドラゴンクエストVII_エデンの戦士たち "wikilink")』PlayStationに移行
+  - 『[ドラゴンクエストVII](https://ja.wikipedia.org/wiki/ドラゴンクエストVII_エデンの戦士たち "wikilink")』→PlayStationに移行
   - 『将棋』　　　　　　　　　　　　　
   - 『ウォール街』
   - ウルトラドンキーコング→ROMカートリッジで「ドンキーコング64」として発売
@@ -314,14 +314,14 @@
   - 『スーパーマリオ64　2』
   - 『スーパーマリオRPG-2』→ROMカートリッジで「マリオストーリー」として発売
   - 『ゼルダの伝説64』→ROMカートリッジで「ゼルダの伝説 時のオカリナ」として発売
-  - 『ゼルダの伝説DD』→3DS「ゼルダの伝説 時のオカリナ3D」でリメイク
+  - 『ゼルダの伝説DD』→GC版「ゼルダの伝説 時のオカリナ」\[1\]と3DS版「ゼルダの伝説 時のオカリナ3D」に裏ゼルダとして収録
   - 『どうぶつの森』→ROMカートリッジに移行
   - 『動物番長』→GCに移行
   - 『ファイアーエムブレム64』
   - 『ポケットモンスター64』→『[ポケットモンスター ルビー・サファイア](../Page/ポケットモンスター_ルビー・サファイア.md "wikilink")』ゲームボーイアドバンスに移行
   - 『ポケモンでパネポン金銀』→『[ポケモンでパネポン](https://ja.wikipedia.org/wiki/ポケモンでパネポン "wikilink")』ゲームボーイカラーに移行
   - 『ポケモンスタジアムDD』→ →ROMカートリッジで『ポケモンスタジアム』
-  - 『MOTHER 3　豚王の最期』\[1\]　　
+  - 『MOTHER 3　豚王の最期』\[2\]　　
   - 『マリオアーティスト　サウンドメーカー』
   - 『マリオペイント64』
   - 『ＴＥＯ　-64DD版-』
@@ -345,4 +345,5 @@
 
 [Category:NINTENDO64用ソフト](https://ja.wikipedia.org/wiki/Category:NINTENDO64用ソフト "wikilink") [Category:ゲーム機別ゲームタイトル一覧](https://ja.wikipedia.org/wiki/Category:ゲーム機別ゲームタイトル一覧 "wikilink")
 
-1.  <http://ksnk.jp/ddlab/hard/unre.html>
+1.  CG用ソフト「ゼルダの伝説 風のタクト」の予約特典として配布された
+2.  <http://ksnk.jp/ddlab/hard/unre.html>

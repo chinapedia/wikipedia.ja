@@ -381,6 +381,8 @@
   - [OFC女子ネイションズカップ](https://ja.wikipedia.org/wiki/OFC女子ネイションズカップ "wikilink")
   - [AFC/OFCチャレンジカップ](https://ja.wikipedia.org/wiki/AFC/OFCチャレンジカップ "wikilink")
 
+## 脚注
+
 ## 外部リンク
 
   - [大会公式サイト](http://www.oceaniafootball.com/ofc/Competitions/ScheduleandResults/tabid/1015/Competition/09be9943-752c-4b17-98e2-351ffce7971d/language/en-US/Default.aspx?CompTitle=Men's) - oceaniafootball.com

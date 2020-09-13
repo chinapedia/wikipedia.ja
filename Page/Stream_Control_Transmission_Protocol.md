@@ -1,7 +1,7 @@
 > この記事は[Stream Control Transmission Protocol](https://ja.wikipedia.org/wiki/Stream_Control_Transmission_Protocol)から翻訳されています。
 
 
-**Stream Control Transmission Protocol**（ストリーム コントロール トランスミッション プロトコル、SCTP）は、[2000年](../Page/2000年.md "wikilink")に[SIGTRAN](https://ja.wikipedia.org/wiki/SIGTRAN "wikilink") ワーキンググループによって定義された[トランスポート層](../Page/トランスポート層.md "wikilink")の[プロトコル](../Page/プロトコル.md "wikilink")である。
+**Stream Control Transmission Protocol**（ストリーム制御伝送プロトコル、ストリーム コントロール トランスミッション プロトコル、SCTP）は、[2000年](../Page/2000年.md "wikilink")に[SIGTRAN](https://ja.wikipedia.org/wiki/SIGTRAN "wikilink") ワーキンググループによって定義された[トランスポート層](../Page/トランスポート層.md "wikilink")の[プロトコル](../Page/プロトコル.md "wikilink")である。
 
   - RFC 4960 - Stream Control Transmission Protocol
   - RFC 3286 - 導入テキスト

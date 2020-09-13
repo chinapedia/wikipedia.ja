@@ -1,11 +1,11 @@
 > この記事は[ヒューバート・H・ハンフリー・メトロドーム](https://ja.wikipedia.org/wiki/ヒューバート・H・ハンフリー・メトロドーム)から翻訳されています。
 
 
-**ヒューバート・H・ハンフリー・メトロドーム**（*Hubert H. Humphrey Metrodome*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ミネソタ州](https://ja.wikipedia.org/wiki/ミネソタ州 "wikilink")[ミネアポリスにあった](https://ja.wikipedia.org/wiki/ミネアポリス_\(ミネソタ州\) "wikilink")、[野球](../Page/野球.md "wikilink")や[アメフトなどに使用される](../Page/アメリカンフットボール.md "wikilink")[多目的ドーム](../Page/ドーム球場.md "wikilink")。通称**メトロドーム**（*Metrodome*）。**HHHメトロドーム**とも称される。[2009年](../Page/2009年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")にアメリカ最大のショッピングモールの[モール・オブ・アメリカ](../Page/モール・オブ・アメリカ.md "wikilink")が3年契約で取得、[2012年](../Page/2012年.md "wikilink")[2月29日](../Page/2月29日.md "wikilink")までは**モール・オブ・アメリカ・フィールド・アット・ザ・ヒューバート・H・ハンフリー・メトロドーム**の名称であった。
+**ヒューバート・H・ハンフリー・メトロドーム**（*Hubert H. Humphrey Metrodome*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ミネソタ州](https://ja.wikipedia.org/wiki/ミネソタ州 "wikilink")[ミネアポリスにかつて存在した](https://ja.wikipedia.org/wiki/ミネアポリス_\(ミネソタ州\) "wikilink")、[野球](../Page/野球.md "wikilink")や[アメフトなどに使用される](../Page/アメリカンフットボール.md "wikilink")[多目的ドーム](../Page/ドーム球場.md "wikilink")。通称**メトロドーム**（*Metrodome*）。**HHHメトロドーム**とも称される。[2009年](../Page/2009年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")にアメリカ最大のショッピングモールの[モール・オブ・アメリカ](../Page/モール・オブ・アメリカ.md "wikilink")が3年契約で取得、[2012年](../Page/2012年.md "wikilink")[2月29日](../Page/2月29日.md "wikilink")までは**モール・オブ・アメリカ・フィールド・アット・ザ・ヒューバート・H・ハンフリー・メトロドーム**の名称であった。
 
-[NFL](../Page/NFL.md "wikilink")[ミネソタ・バイキングス](../Page/ミネソタ・バイキングス.md "wikilink")、[NCAA](../Page/全米大学体育協会.md "wikilink")（カレッジ・スポーツ）[ミネソタ・ゴールデンゴファーズ](https://ja.wikipedia.org/wiki/ミネソタ・ゴールデンゴファーズ "wikilink")（[ミネソタ大学](../Page/ミネソタ大学ツインシティー校.md "wikilink")）の野球チーム、[NBA](../Page/NBA.md "wikilink")[ミネソタ・ティンバーウルブズ](../Page/ミネソタ・ティンバーウルブズ.md "wikilink")、[MLB](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")[ミネソタ・ツインズ](../Page/ミネソタ・ツインズ.md "wikilink")がここをホームにしていた。
+[NFL](../Page/NFL.md "wikilink")[ミネソタ・バイキングス](../Page/ミネソタ・バイキングス.md "wikilink")、[NCAA](../Page/全米大学体育協会.md "wikilink")（カレッジ・スポーツ）[ミネソタ・ゴールデンゴファーズ](https://ja.wikipedia.org/wiki/ミネソタ・ゴールデンゴファーズ "wikilink")（[ミネソタ大学](../Page/ミネソタ大学ツインシティー校.md "wikilink")）の野球チーム、[NBA](../Page/NBA.md "wikilink")[ミネソタ・ティンバーウルブズ](../Page/ミネソタ・ティンバーウルブズ.md "wikilink")、[MLB](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")[ミネソタ・ツインズ](../Page/ミネソタ・ツインズ.md "wikilink")がここを本拠地としていた。
 
-日本では空気圧で膨らませる屋根が[東京ドーム](../Page/東京ドーム.md "wikilink")のモデルになったことで有名である。
+日本では、空気圧で膨らませる屋根が[東京ドーム](../Page/東京ドーム.md "wikilink")のモデルになったことで知られている。
 
 ## 概要
 
@@ -13,7 +13,7 @@
 
 通常のアメフト・野球共用スタジアムでは、サイドラインとセンターラインを平行にするが当ドームではサイドラインと三塁ファウルラインを平行にしている。スタンドはアメフトを優先しており全体は長方形で設計されている。野球時には右翼にある部分の座席が収納される。そのため右翼スタンドはかなり高い場所にあり、右翼側のフィールドは左翼側のフィールドよりやや狭い。その狭い部分を補うため、右翼フェンスは7メートルに設定されている。
 
-老朽化にともない、まずMLB・ツインズが2009年シーズンをもって使用を終了。2010年シーズンからは新本拠地[ターゲット・フィールド](https://ja.wikipedia.org/wiki/ターゲット・フィールド "wikilink")に移転した。 NFL・バイキングスも2013シーズンが最終年となり\[2\]、その後2014年1月にメトロドームは解体された。解体後には同じ敷地内にバイキングスの新本拠地[USバンク・スタジアム](https://ja.wikipedia.org/wiki/USバンク・スタジアム "wikilink")を建設し、2016年7月1日に開場する\[3\]。
+老朽化にともない、まずMLB・ツインズが2009年シーズンをもって使用を終了。2010年シーズンからは新本拠地[ターゲット・フィールド](https://ja.wikipedia.org/wiki/ターゲット・フィールド "wikilink")に移転した。NFL・バイキングスも2013シーズンが最終年となり\[2\]、その後2014年1月にメトロドームは解体された。解体後には同じ敷地内にバイキングスの新本拠地[USバンク・スタジアム](https://ja.wikipedia.org/wiki/USバンク・スタジアム "wikilink")を建設し、2016年7月1日に開場する\[3\]。
 
 ### 特殊な屋根形状
 

@@ -19,4 +19,6 @@
 | 2007.3.21  | Chiptop Lips      | アルバム    |                  |
 | 2010.9.2   | Secret Borderline | ライブアルバム | アマゾン、会場限定        |
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")
+[カテゴリ:1997年に結成した音楽グループ](https://ja.wikipedia.org/wiki/カテゴリ:1997年に結成した音楽グループ "wikilink") [カテゴリ:2010年に解散した音楽グループ](https://ja.wikipedia.org/wiki/カテゴリ:2010年に解散した音楽グループ "wikilink")
+
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")

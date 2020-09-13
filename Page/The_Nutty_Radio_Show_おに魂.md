@@ -495,7 +495,7 @@ AKB48・向井地美音のみーおんたいむ♪<br />
 <td><p><a href="https://ja.wikipedia.org/wiki/ヒメノアキラ" title="wikilink">ヒメノアキラ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Lunakate" title="wikilink">Lunakate</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/fromnou" title="wikilink">fromnou</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Raychell" title="wikilink">Lay</a></p></td>
+<td><p><a href="../Page/Raychell.md" title="wikilink">Lay</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2011年1月 - 3月</p></td>
@@ -570,7 +570,7 @@ AKB48・向井地美音のみーおんたいむ♪<br />
 <tr class="even">
 <td><p>2013年7月 - 9月</p></td>
 <td><p><a href="../Page/南里侑香.md" title="wikilink">南里侑香</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Raychell" title="wikilink">Raychell</a></p></td>
+<td><p><a href="../Page/Raychell.md" title="wikilink">Raychell</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1893,16 +1893,9 @@ AKB48・向井地美音のみーおんたいむ♪<br />
 <!-- end list -->
 
   - きっくんのいたずら
-
-<!-- end list -->
-
-  -
     きっくんはたまにいたずらをすることがある。(食いしん坊でもあり、お菓子に纏わるエピソードも多い。)
       - ある日、放送終了後にバカボン鬼塚の誕生日のお祝いをする際に、バカボンの後ろに隠れ、ケーキのロウソクを後ろから消してしまう。
       - バカボン鬼塚が、罰ゲームで飲まされるせんぶり茶の苦味から逃れる為に持ってきたチョコレートを食べてしまう。(公平を期す為とも言えるが。)
-
-<!-- end list -->
-
   - きっくんの失敗
 
 <!-- end list -->
@@ -2306,7 +2299,7 @@ AKB48・向井地美音のみーおんたいむ♪<br />
 61. なおこの時、斉藤優里があまりの恐怖でビリビリマシンを怖がってしまい、離脱してしまう事態になってしまった。そのため放送後のツイキャスで、バカボン鬼塚が作家の関口を指名、きっくんは酒向プロデューサーを指名し、3人で実施。結果は酒向プロデューサーだけ勝利し、斉藤は号泣。そのまま翌日のマル決向け指令を撮らされ、この悲惨な状況を聴いたバカボン鬼塚・きっくんとプラスワンパーソナリティー藤井ペイジの3人は「ヘコんでるなぁ・・・。」と笑いを交えてコメントした。
 62. なお、罰ゲームはじゃんけんをして負けた2人がキスをするというものだったが、藤井ペイジは回避となり、バカボン鬼塚ときっくんの2人がキスをしてしまった。
 63. なお、正解は藤井ペイジがきっくんの額にキスをするというものであったが、リスナーは3人のヒントを参考に制限時間1分以内で答えを導き出したため、この日の3人の罰ゲームであるビリビリマシンを回避した。
-64. [11](http://nogizaka-journal.com/archives/onitama1410-monday-nogizaka46.html)
+64. [10月の「おに魂」月曜日は乃木坂46増し増し月間。13日は深川麻衣が登場](http://nogizaka-journal.com/archives/onitama1410-monday-nogizaka46.html)
 65. <http://platon-idea.com/index.html>
 66. [本校講師田中イデア先生の『ウケる\!トーク術』が近日発売\!](http://www.tohogakuen.ac.jp/announce/news/news_view.php?msg_id=705)
 67. 6月23日放送の「〜IDOL SHOWCASE〜 i-BAN\!\!」内でi-BANから卒業していたことが発表された。

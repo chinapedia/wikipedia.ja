@@ -24,7 +24,7 @@
 
 全曲の作詞を森重樹一、作曲を戸城憲夫
 
-※「EVERYTHING IS ALRIGHT」のみ作曲森重、「TRICKSTER」のラップ部分のみ作詞[MCU](https://ja.wikipedia.org/wiki/MCU "wikilink")
+※「EVERYTHING IS ALRIGHT」のみ作曲森重、「TRICKSTER」のラップ部分のみ作詞[MCU](../Page/MCU_\(ラッパー\).md "wikilink")
 
 ### アルバム
 
@@ -82,7 +82,7 @@
 </ol></td>
 <td><p>TKCA-73101</p></td>
 <td><p>The DUST'N'BONEZ初のメジャーレーベルからのアルバム 「激情」「透明なピストル」は先にリリースされたシングル収録のものとはヴァージョンが異なる</p>
-<p>「TRICKSTER」には<a href="https://ja.wikipedia.org/wiki/MCU" title="wikilink">MCU</a>が<a href="../Page/ラップ.md" title="wikilink">ラップ</a>で参加している</p>
+<p>「TRICKSTER」には<a href="../Page/MCU_(ラッパー).md" title="wikilink">MCUが</a><a href="../Page/ラップ.md" title="wikilink">ラップ</a>で参加</p>
 <p>メジャーデビューアルバム</p>
 <dl>
 <dt></dt>

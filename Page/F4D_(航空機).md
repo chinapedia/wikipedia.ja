@@ -140,7 +140,7 @@ F-6A</p></td>
 <td><p>F4D-1<br />
 F-6A</p></td>
 <td><p>134836</p></td>
-<td><p><a href="https://imgproc.airliners.net/photos/airliners/1/7/2/1862271.jpg?v=v40">写真</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:New_England_Air_Museum_(NEAM)_at_Bradley_International_Airport,_Windsor_Locks,_Connecticut_LCCN2012630922.tif" title="fig:New_England_Air_Museum_(NEAM)_at_Bradley_International_Airport,_Windsor_Locks,_Connecticut_LCCN2012630922.tif">New_England_Air_Museum_(NEAM)_at_Bradley_International_Airport,_Windsor_Locks,_Connecticut_LCCN2012630922.tif</a></p></td>
 <td><p>アメリカ コネティカット州</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:New_England_Air_Museum" title="wikilink">ニュー・イングランド航空博物館</a><a href="https://www.neam.org/">9</a></p></td>
 <td><p>公開</p></td>

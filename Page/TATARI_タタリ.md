@@ -3,7 +3,7 @@
 
 『**TATARI タタリ**』（原題：*House on Haunted Hill*）は、[ウィリアム・キャッスル](../Page/ウィリアム・キャッスル.md "wikilink")監督の[ホラー映画](../Page/ホラー映画.md "wikilink")『[地獄へつゞく部屋](../Page/地獄へつゞく部屋.md "wikilink")』(1959年)の[リメイク](../Page/リメイク.md "wikilink")作品。1999年に制作された。
 
-廃病院に潜む[死霊](../Page/死霊.md "wikilink")の恐怖を最新の[VFX](../Page/VFX.md "wikilink")（視覚効果）と、[グロテスク](../Page/グロテスク.md "wikilink")な[特殊メイク](../Page/特殊メイク.md "wikilink")を駆使して描く。[ダーク・キャッスル・エンターテインメント](../Page/ダーク・キャッスル・エンターテインメント.md "wikilink")が制作した最初の作品でもある。 日本語版字幕は東野聡が担当。 [映倫](https://ja.wikipedia.org/wiki/映倫 "wikilink")では[PG-12](https://ja.wikipedia.org/wiki/PG-12 "wikilink")指定がされており、[MPAA](https://ja.wikipedia.org/wiki/MPAA "wikilink")ではR指定がなされている。
+廃病院に潜む[死霊](../Page/死霊.md "wikilink")の恐怖を最新の[VFX](../Page/VFX.md "wikilink")（視覚効果）と、[グロテスク](../Page/グロテスク.md "wikilink")な[特殊メイク](../Page/特殊メイク.md "wikilink")を駆使して描く。[ダーク・キャッスル・エンターテインメント](../Page/ダーク・キャッスル・エンターテインメント.md "wikilink")が制作した最初の作品でもある。日本語版字幕は東野聡が担当。[映倫では](../Page/映画倫理機構.md "wikilink")[PG-12指定がされており](https://ja.wikipedia.org/wiki/映画のレイティングシステム#PG12 "wikilink")、[MPAAでは](../Page/アメリカ映画協会_\(業界団体\).md "wikilink")[R指定がなされている](https://ja.wikipedia.org/wiki/映画のレイティングシステム#R（Restricted） "wikilink")。
 
 ## ストーリー
 
@@ -62,6 +62,8 @@
 ## 外部リンク
 
   -
+  - [House On Haunted Hill \[Collector's Edition](https://www.shoutfactory.com/product/house-on-haunted-hill-collector-s-edition?product_id=6860) - Blu-ray | Shout\! Factory\]
+
   -
   -
   -

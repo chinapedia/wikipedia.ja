@@ -1,7 +1,7 @@
 > この記事は[DJ天国!クジラジオ](https://ja.wikipedia.org/wiki/DJ天国!クジラジオ)から翻訳されています。
 
 
-**DJ天国\!クジラジオ**（ディージェイてんごく\!クジラジオ）は[徳島](https://ja.wikipedia.org/wiki/徳島県 "wikilink")・[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")制作のリスナー参加型ラジオバラエティー番組。[1999年](../Page/1999年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")〜[2004年](../Page/2004年.md "wikilink")[9月](../Page/9月.md "wikilink")に放送された。各地方局がこの時間帯の番組を全国ネットの番組で埋める傾向になった時代の数少ないローカル番組であり、徳島だけでなく、電波がよく届く和歌山・兵庫県姫路周辺で人気を博していた。
+**DJ天国\!クジラジオ**（ディージェイてんごく\!クジラジオ）は[徳島](https://ja.wikipedia.org/wiki/徳島県 "wikilink")・[四国放送](../Page/四国放送.md "wikilink")制作のリスナー参加型ラジオバラエティー番組。[1999年](../Page/1999年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")〜[2004年](../Page/2004年.md "wikilink")[9月](../Page/9月.md "wikilink")に放送された。各地方局がこの時間帯の番組を全国ネットの番組で埋める傾向になった時代の数少ないローカル番組であり、徳島だけでなく、電波がよく届く和歌山・兵庫県姫路周辺で人気を博していた。
 
 ちなみに、同番組打ち切り以降、同局による同枠内での自社製作を縮小することとなった。
 

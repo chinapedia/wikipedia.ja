@@ -795,7 +795,7 @@
 <tr class="odd">
 <td><p><a href="../Page/広域放送.md" title="wikilink">近畿広域圏</a></p></td>
 <td><p><a href="../Page/朝日放送テレビ.md" title="wikilink">朝日放送</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列</a></p></td>
+<td><p><a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">テレビ朝日系列</a></p></td>
 <td><p><strong>制作局</strong></p></td>
 </tr>
 <tr class="even">
@@ -851,10 +851,10 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新潟総合テレビ" title="wikilink">新潟総合テレビ</a></p></td>
+<td><p><a href="../Page/NST新潟総合テレビ.md" title="wikilink">新潟総合テレビ</a></p></td>
 <td><p>フジテレビ系列<br />
 テレビ朝日系列</p></td>
-<td></td>
+<td><p>現・NST新潟総合テレビ</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
@@ -866,7 +866,7 @@
 <tr class="even">
 <td><p><a href="../Page/山梨県.md" title="wikilink">山梨県</a></p></td>
 <td><p><a href="../Page/テレビ山梨.md" title="wikilink">テレビ山梨</a></p></td>
-<td><p>TBS系列</p></td>
+<td><p><a href="../Page/ジャパン・ニュース・ネットワーク.md" title="wikilink">TBS系列</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -920,7 +920,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a></p></td>
+<td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a></p></td>
 <td><p>日本テレビ系列</p></td>
 <td></td>
 </tr>

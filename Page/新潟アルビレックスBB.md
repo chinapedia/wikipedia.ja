@@ -1,7 +1,7 @@
 > この記事は[新潟アルビレックスBB](https://ja.wikipedia.org/wiki/新潟アルビレックスBB)から翻訳されています。
 
 
-**新潟アルビレックスBB**（にいがたアルビレックスビービー、）は、[新潟県](../Page/新潟県.md "wikilink")の[長岡市](../Page/長岡市.md "wikilink")を本拠地として[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")・[上越市](../Page/上越市.md "wikilink")といった新潟県全域で活動する[B.LEAGUEに所属するプロ](https://ja.wikipedia.org/wiki/ジャパン・プロフェッショナル・バスケットボールリーグ "wikilink")[バスケットボール](../Page/バスケットボール.md "wikilink")チーム。
+**新潟アルビレックスBB**（にいがたアルビレックスビービー、）は、[新潟県](../Page/新潟県.md "wikilink")[長岡市](../Page/長岡市.md "wikilink")を本拠地として[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")・[上越市](../Page/上越市.md "wikilink")といった新潟県全域で活動する[B.LEAGUEに所属するプロ](https://ja.wikipedia.org/wiki/ジャパン・プロフェッショナル・バスケットボールリーグ "wikilink")[バスケットボール](../Page/バスケットボール.md "wikilink")チーム。
 
 ## 概要
 
@@ -175,7 +175,7 @@ Image:TOKI MESSE.jpg|朱鷺メッセ Image:Niigata east sports center.jpg|東総
 
 中村HCが退任、OBでもあり高松ACであった[庄司和広](../Page/庄司和広.md "wikilink")が新HCに就任した。
 
-日本人選手は[五十嵐圭](../Page/五十嵐圭.md "wikilink")(三菱)、[遥天翼](https://ja.wikipedia.org/wiki/遥天翼 "wikilink")(熊本)、[畠山俊樹](https://ja.wikipedia.org/wiki/畠山俊樹 "wikilink")(西宮)が新加入、[木村啓太郎](https://ja.wikipedia.org/wiki/木村啓太郎 "wikilink")(青森)、[武井弘明](https://ja.wikipedia.org/wiki/武井弘明 "wikilink")(信州)、[小松秀平](https://ja.wikipedia.org/wiki/小松秀平 "wikilink")(奈良)、[加藤竜太](https://ja.wikipedia.org/wiki/加藤竜太 "wikilink")(奈良・レンタル)が退団、[堀田剛司](../Page/堀田剛司.md "wikilink")・[仲西翔自](../Page/仲西翔自.md "wikilink")は引退した。尚、[渡邊大我](https://ja.wikipedia.org/wiki/渡邊大我 "wikilink")も五十嵐と共に三菱から移籍したが、シーズン前に契約解除となった。外国出身選手は総入れ替えを行い、[ダバンテ・ガードナー](https://ja.wikipedia.org/wiki/ダバンテ・ガードナー "wikilink")(西宮)、[クリント・チャップマン](https://ja.wikipedia.org/wiki/クリント・チャップマン "wikilink")(千葉)が新加入、バン・トリースが福島から復帰した。
+日本人選手は[五十嵐圭](../Page/五十嵐圭.md "wikilink")(三菱)、[遥天翼](https://ja.wikipedia.org/wiki/遥天翼 "wikilink")(熊本)、[畠山俊樹](https://ja.wikipedia.org/wiki/畠山俊樹 "wikilink")(西宮)が新加入、[木村啓太郎](../Page/木村啓太郎.md "wikilink")(青森)、[武井弘明](https://ja.wikipedia.org/wiki/武井弘明 "wikilink")(信州)、[小松秀平](https://ja.wikipedia.org/wiki/小松秀平 "wikilink")(奈良)、[加藤竜太](https://ja.wikipedia.org/wiki/加藤竜太 "wikilink")(奈良・レンタル)が退団、[堀田剛司](../Page/堀田剛司.md "wikilink")・[仲西翔自](../Page/仲西翔自.md "wikilink")は引退した。尚、[渡邊大我](https://ja.wikipedia.org/wiki/渡邊大我 "wikilink")も五十嵐と共に三菱から移籍したが、シーズン前に契約解除となった。外国出身選手は総入れ替えを行い、[ダバンテ・ガードナー](https://ja.wikipedia.org/wiki/ダバンテ・ガードナー "wikilink")(西宮)、[クリント・チャップマン](https://ja.wikipedia.org/wiki/クリント・チャップマン "wikilink")(千葉)が新加入、バン・トリースが福島から復帰した。
 
 開幕2戦目で富山からBリーグ初勝利を挙げた。ホーム開幕戦には球団史上初の5千人超えとなる5,286人が、ホームアリーナである[アオーレ長岡](https://ja.wikipedia.org/wiki/アオーレ長岡 "wikilink")に駆け付け、2戦目でNBL企業チームの流れをくむSR渋谷からホーム初勝利をあげる。12月に5連勝を挙げ、前半戦を地区4位ながらも15勝14敗で折り返す。[森井健太](../Page/森井健太.md "wikilink")と[田口凛](https://ja.wikipedia.org/wiki/田口凛 "wikilink")の若手選手を強化選手として獲得したが、2月19日の京都戦でガードナーが負傷離脱すると、3月18日に復帰するまでの間、6連敗を喫した。その後は一進一退となり、7試合を残してB1残留を決めたが、同時にCS進出が途絶えた。最終的には、地区4位で18チーム中全体では10番目ながらも、27勝33敗で旧bj勢のなかでは健闘を見せた。しかし、旧NBL勢、特にNBL企業チームの流れをくむ三河・A東京・川崎には未勝利、名古屋Dからは1勝を挙げるも、SR渋谷に1勝7敗と大きく負け越す点で力の違いを感じたシーズンを終えた。
 
@@ -201,7 +201,15 @@ Image:TOKI MESSE.jpg|朱鷺メッセ Image:Niigata east sports center.jpg|東総
 
 #### 2019-20シーズン（B1中地区）
 
-日本人選手では、山口（富山）と渡辺（SR渋谷）以外が残留。外国出身選手はハミルトンが残留したが、ガードナーは三河、エゲケゼは海外チームへそれぞれ移籍した。 大卒ルーキーである[ニック・パーキンス](https://ja.wikipedia.org/wiki/ニック・パーキンス "wikilink")を開幕前唯一の新加入選手として迎え入れ、シーズンに挑んだ。
+日本人選手では、山口（富山）と渡辺（SR渋谷）以外が残留。外国出身選手はハミルトンが残留したが、ガードナーは三河、エゲケゼは海外チームへそれぞれ移籍した。 大卒ルーキーである[ニック・パーキンズ](https://ja.wikipedia.org/wiki/ニック・パーキンズ "wikilink")を開幕前唯一の新加入選手として迎え入れ、シーズンに挑んだ。
+
+昨シーズンと同じ顔触れ（川崎・横浜・富山・三遠・三河）となった中地区王者として挑んだが、開幕5連敗スタートや3連勝以上ができない等、苦しいシーズンとなった。チームとして初めてSR渋谷と千葉のアウェーで勝つ事もできたが、B2との入れ替え戦圏内である下位4位から抜け出せない状態が続いた。年が明けて特別指定枠で[星野曹樹](https://ja.wikipedia.org/wiki/星野曹樹 "wikilink")と大阪のスコアラーであった[エグゼビア・ギブソン](https://ja.wikipedia.org/wiki/エグゼビア・ギブソン "wikilink")を加えたが、シーズン途中での打ち切りとなった。 13勝28敗という成績で全体の下位4位となったが、特例措置でB1残留となった。
+
+#### 2020-21シーズン（B1東地区）
+
+B1チーム数が20となった為、東西2地区制に変更。中地区のチームは東西に振り分けられ、 新潟は川崎・横浜・富山と共に、北海道・秋田・宇都宮・千葉・A東京・SR渋谷がいる東地区に編入する形となった。
+
+庄司和弘HCが退任し（後に愛媛HC）、横浜HCであった[福田将吾](../Page/福田将吾.md "wikilink")を新HCに迎えた。日本人選手では、星野・五十嵐・石井・池田が残留。[柏倉哲平](https://ja.wikipedia.org/wiki/柏倉哲平 "wikilink")（東京Z）、[納見悠仁](https://ja.wikipedia.org/wiki/納見悠仁 "wikilink")（島根）、[林翔太郎](https://ja.wikipedia.org/wiki/林翔太郎 "wikilink")（川崎）といった若手選手が新加入。ホームタウン・長岡市出身の[佐藤公威](../Page/佐藤公威.md "wikilink")が島根から復帰し3度目の入団となった。尚、同じ長岡市出身の今村は琉球に新天地を求めた。外国出身選手は総入れ替えを敢行、[ロスコ・アレン](https://ja.wikipedia.org/wiki/ロスコ・アレン "wikilink")（群馬）や[リチャード・ヘンドリックス](https://ja.wikipedia.org/wiki/リチャード・ヘンドリックス "wikilink")（大阪）という日本でのプレー経験者と、日本初挑戦となる[チャールズ・ミッチェル](https://ja.wikipedia.org/wiki/チャールズ・ミッチェル "wikilink")といった3選手を6月時点で契約した。
 
 ### チーム名の変遷
 
@@ -632,6 +640,23 @@ Image:TOKI MESSE.jpg|朱鷺メッセ Image:Niigata east sports center.jpg|東総
   - 2015年 - 2016年 : [ブル・ファイト](https://ja.wikipedia.org/wiki/ブル・ファイト "wikilink")
   - 2016年 - 現在 : [フープスター・サカイ](http://www.hoopstar.co.jp/)
 
+### 歴代ユニフォーム
+
+| HOME                          |
+| ----------------------------- |
+| {{Basketball kit|filetype=png |
+|                               |
+
+| AWAY                          |
+| ----------------------------- |
+| {{Basketball kit|filetype=png |
+|                               |
+
+| Other                         |
+| ----------------------------- |
+| {{Basketball kit|filetype=png |
+|                               |
+
 ### ウェアスポンサー
 
   - [NSGグループ](../Page/NSGグループ.md "wikilink")
@@ -650,7 +675,7 @@ Bリーグ移行後は、毎シーズン1試合を生中継することになっ
 ### 応援番組・コーナー
 
   - [新潟テレビ21](https://ja.wikipedia.org/wiki/新潟テレビ21 "wikilink")「スーパーJチャンネル にいがた」内のコーナー、「ガッツリート」
-  - [新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")「[アルビSTADIUM HYPER](https://ja.wikipedia.org/wiki/アルビスタジアムNST "wikilink")」
+  - [NST新潟総合テレビ](../Page/NST新潟総合テレビ.md "wikilink")「[アルビSTADIUM HYPER](https://ja.wikipedia.org/wiki/アルビスタジアムNST "wikilink")」
   - [新潟県民エフエム放送](../Page/新潟県民エフエム放送.md "wikilink")「GOOD MORNING PORT CITY Saturday」内のコーナー、「アルビフリーク」
   - [とことんアルビ\!\!](https://ja.wikipedia.org/wiki/とことんアルビ!! "wikilink")（[テレビ新潟放送網](../Page/テレビ新潟放送網.md "wikilink")）
 

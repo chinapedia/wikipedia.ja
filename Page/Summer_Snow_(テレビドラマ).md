@@ -1,7 +1,7 @@
 > この記事は[Summer Snow \(テレビドラマ\)](https://ja.wikipedia.org/wiki/Summer_Snow_\(テレビドラマ\))から翻訳されています。
 
 
-『**Summer Snow**』（サマー・スノー）は、[2000年](../Page/2000年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")から[9月15日](../Page/9月15日.md "wikilink")まで毎週金曜日21:00 - 21:54に、[TBS系の](../Page/TBSテレビ.md "wikilink")「[金曜21時](../Page/TBS金曜9時枠の連続ドラマ.md "wikilink")」枠で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[堂本剛](../Page/堂本剛.md "wikilink")。平均視聴率は18.1%。
+『**Summer Snow**』（サマー・スノー）は、[2000年](../Page/2000年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")から[9月15日](../Page/9月15日.md "wikilink")まで毎週金曜日21:00 - 21:54に、[TBS系の](../Page/TBSテレビ.md "wikilink")「[金曜9時](../Page/TBS金曜9時枠の連続ドラマ.md "wikilink")」枠で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[堂本剛](../Page/堂本剛.md "wikilink")。平均視聴率は18.1%。
 
 両親を亡くし、自転車店を営みながら弟妹と暮らしている夏生と、[心筋拡大症を患いながら](https://ja.wikipedia.org/wiki/特発性拡張型心筋症 "wikilink")[信用金庫](https://ja.wikipedia.org/wiki/信用金庫 "wikilink")に勤めるユキのラブストーリー。
 
@@ -23,7 +23,7 @@
   - 片瀬ユキ
     演 - [広末涼子](https://ja.wikipedia.org/wiki/広末涼子 "wikilink")
     信用金庫に勤務。営業周りをしているときに夏生と出会う。
-    ヒロイン役として夏生と恋愛関係を築いてゆく。心臓に持病があるが、生き方は前向き。
+    夏生と恋愛関係を築いてゆく。心臓に持病があるが、生き方は前向き。
   - 末次弘人
     演 - [今井翼](../Page/今井翼.md "wikilink")（当時[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")）
     夏生にとっては弟のような存在。
@@ -102,7 +102,7 @@
 
 ## 舞台
 
-[2013年](../Page/2013年.md "wikilink")、このテレビドラマを原作とした[ミュージカル](../Page/ミュージカル.md "wikilink")が韓国人キャストで製作、日本で上演された。韓国語上演（日本語字幕あり）。 [あましんアルカイックホール](../Page/尼崎市総合文化センター.md "wikilink")（[兵庫県](../Page/兵庫県.md "wikilink")[尼崎市](../Page/尼崎市.md "wikilink")）にて2013年[4月12日](../Page/4月12日.md "wikilink") - [4月19日](../Page/4月19日.md "wikilink")まで全15回公演\[1\]、東京・[赤坂ACTシアター](https://ja.wikipedia.org/wiki/赤坂ACTシアター "wikilink")にて[5月31日](../Page/5月31日.md "wikilink") - [6月15日](../Page/6月15日.md "wikilink")まで全30回公演\[2\]。
+[2013年](../Page/2013年.md "wikilink")、このテレビドラマを原作とした[ミュージカル](../Page/ミュージカル.md "wikilink")が韓国人キャストで製作、韓国ミュージカル「Summer Snow」として日本で上演された。韓国語上演（日本語字幕あり）。 [あましんアルカイックホール](../Page/尼崎市総合文化センター.md "wikilink")（[兵庫県](../Page/兵庫県.md "wikilink")[尼崎市](../Page/尼崎市.md "wikilink")）にて2013年[4月12日](../Page/4月12日.md "wikilink") - [4月19日](../Page/4月19日.md "wikilink")まで全15回公演\[1\]、東京・[赤坂ACTシアター](https://ja.wikipedia.org/wiki/赤坂ACTシアター "wikilink")にて[5月31日](../Page/5月31日.md "wikilink") - [6月15日](../Page/6月15日.md "wikilink")まで全30回公演\[2\]。
 
 ### キャスト
 
@@ -154,7 +154,7 @@
   -
   - [赤坂ACTシアター（東京公演）](http://www.tbs.co.jp/act/event/summersnow/) - [赤坂ACTシアター](https://ja.wikipedia.org/wiki/赤坂ACTシアター "wikilink")公式ページ
 
-[Category:TBS金曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS金曜9時枠の連続ドラマ "wikilink") [Category:2000年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2000年のテレビドラマ "wikilink") [Category:恋愛ドラマ](https://ja.wikipedia.org/wiki/Category:恋愛ドラマ "wikilink") [Category:ホームドラマ](https://ja.wikipedia.org/wiki/Category:ホームドラマ "wikilink") [Category:日本の舞台作品](https://ja.wikipedia.org/wiki/Category:日本の舞台作品 "wikilink") [Category:2013年の舞台作品](https://ja.wikipedia.org/wiki/Category:2013年の舞台作品 "wikilink") [Category:テレビドラマを原作とする舞台作品](https://ja.wikipedia.org/wiki/Category:テレビドラマを原作とする舞台作品 "wikilink") [Category:堂本剛](https://ja.wikipedia.org/wiki/Category:堂本剛 "wikilink")
+[Category:TBS金曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS金曜9時枠の連続ドラマ "wikilink") [Category:2000年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2000年のテレビドラマ "wikilink") [Category:恋愛ドラマ](https://ja.wikipedia.org/wiki/Category:恋愛ドラマ "wikilink") [Category:ホームドラマ](https://ja.wikipedia.org/wiki/Category:ホームドラマ "wikilink") [Category:闘病を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:闘病を題材としたテレビドラマ "wikilink") [Category:自転車を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:自転車を題材としたテレビドラマ "wikilink") [Category:聴覚障害を扱ったテレビドラマ](https://ja.wikipedia.org/wiki/Category:聴覚障害を扱ったテレビドラマ "wikilink") [Category:2010年代のミュージカル](https://ja.wikipedia.org/wiki/Category:2010年代のミュージカル "wikilink") [Category:2013年の舞台作品](https://ja.wikipedia.org/wiki/Category:2013年の舞台作品 "wikilink") [Category:テレビドラマを原作とする舞台作品](https://ja.wikipedia.org/wiki/Category:テレビドラマを原作とする舞台作品 "wikilink") [Category:堂本剛](https://ja.wikipedia.org/wiki/Category:堂本剛 "wikilink")
 
 1.
 2.

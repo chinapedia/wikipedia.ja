@@ -40,7 +40,7 @@
   - [山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink") 10:40 - 10:45
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink") 12:40 - 12:45
   - [山口放送](../Page/山口放送.md "wikilink") 9:55 - 10:00
-  - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") 11:35 - 11:40
+  - [四国放送](../Page/四国放送.md "wikilink") 11:35 - 11:40
   - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink") 9:30 - 9:35
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink") 9:35 - 9:45（『[JOAF\!らくさぶろうのモーニングおん\!](../Page/JOAF!らくさぶろうのモーニングおん!.md "wikilink")』(月 - 木)・『真さんのいよ\!AM-igo』(金)内）
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink") 10:40 - 10:45

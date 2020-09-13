@@ -44,6 +44,6 @@
 
 ## 外部リンク
 
-  - [公式サイトのアーカイブ一覧](http://web.archive.org/web/*/www.tbs.co.jp/radio/b-junk/)
+  - [公式サイトのアーカイブ一覧](https://web.archive.org/web/*/www.tbs.co.jp/radio/b-junk/)
 
 [Category:JUNK](https://ja.wikipedia.org/wiki/Category:JUNK "wikilink") [Category:ラジオ放送枠](https://ja.wikipedia.org/wiki/Category:ラジオ放送枠 "wikilink") [Category:2002年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のラジオ番組_\(日本\) "wikilink")

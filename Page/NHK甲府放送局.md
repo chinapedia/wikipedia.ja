@@ -196,61 +196,66 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/江藤泰彦" title="wikilink">江藤泰彦</a></p></td>
 <td><p><a href="../Page/NHK大分放送局.md" title="wikilink">大分</a></p></td>
-<td><p>|山梨県のニュース</p></td>
+<td><p>山梨県のニュース</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/西岡遼" title="wikilink">西岡遼</a></p></td>
-<td><p>|<strong>初任地</strong></p></td>
-<td><p>かいラジ<br />
-山梨県のニュース</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/堀井優太" title="wikilink">堀井優太</a></p></td>
+<td><p><strong>初任地</strong></p></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/西岡遼" title="wikilink">西岡遼</a></p></td>
+<td><p>かいラジ<br />
+山梨県のニュース</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>田中友栄</p></td>
 <td></td>
 <td><p>Newsかいドキ（キャスター）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>清水唯菜</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>林聖海</p></td>
 <td></td>
 <td><p>Newsかいドキ（リポーター）<br />
 おはよう山梨</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>平山裕子</p></td>
 <td><p><a href="../Page/NHK福井放送局.md" title="wikilink">福井</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>八幡優</p></td>
 <td></td>
 <td><p>Newsかいドキ（スポーツ）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>吉田遥</p></td>
 <td></td>
 <td><p>Newsかいドキ（リポーター）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳田留美" title="wikilink">徳田留美</a></p></td>
 <td></td>
 <td><p>Newsかいドキ</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>佐藤涼太</p></td>
 <td></td>
 <td></td>

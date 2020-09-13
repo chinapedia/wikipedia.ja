@@ -44,10 +44,7 @@
 
 ## 外部リンク
 
-  - [セイコーエプソン・音声合成IC](http://www.epson.jp/device/semicon/product/speech_audio/index.htm)
-  - [沖電気・音声合成LSI](http://www.okisemi.com/jp/semicon/speech_audio/246/index.html)
   - [アクト・ブレイン　音声合成LSI](http://www.actbrain.jp/development/inhouse/index.html) - 規則音声合成機能を1チップに集約
-  - ヤマハ音源LSI [YMU765『MA-5』](http://smaf-yamaha.com/jp/what/soundchip_ma5.html) - 携帯電話 [SMAF](../Page/SMAF.md "wikilink") 用
   - アクエスト音声合成LSI [AquesTalk pico LSI『ATP3011F4』](http://www.a-quest.com/products/atp3011f4-pu.html) - 1チップ音声合成
 
 [Category:音声合成](https://ja.wikipedia.org/wiki/Category:音声合成 "wikilink") [Category:集積回路](https://ja.wikipedia.org/wiki/Category:集積回路 "wikilink")

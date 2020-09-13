@@ -50,7 +50,7 @@
 
   - [海鳴館WEB](http://www.kaimeikan.co.jp/)
 
-[Category:日本のゲイ雑誌](https://ja.wikipedia.org/wiki/Category:日本のゲイ雑誌 "wikilink")
+[Category:日本のゲイ雑誌](https://ja.wikipedia.org/wiki/Category:日本のゲイ雑誌 "wikilink") [Category:日本のアダルト雑誌](https://ja.wikipedia.org/wiki/Category:日本のアダルト雑誌 "wikilink")
 
 1.  「オトコノコのためのボーイフレンド：ゲイ・ハンドブック～ゲイマガジン～」（少年社・発売雪淫社）
 2.  [創刊間もない頃のSAMSONの表紙](https://lh6.googleusercontent.com/-yHivjanqo54/T8X89V7rewI/AAAAAAAAAN8/EpaD94Nxq2M/s128/%25E3%2582%25B5%25E3%2583%25A0%25E3%2582%25BD%25E3%2583%25B3.jpg)

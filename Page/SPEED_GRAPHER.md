@@ -393,7 +393,7 @@
     1.  ISBN 4-15-030804-7
     2.  ISBN 4-15-030816-0
     3.  ISBN 4150308292
-  - [コミカライズ](https://ja.wikipedia.org/wiki/コミカライズ "wikilink")
+  - [コミカライズ](../Page/コミカライズ.md "wikilink")
     [メディアワークス](../Page/メディアワークス.md "wikilink")『[月刊電撃コミックガオ\!](../Page/月刊電撃コミックガオ!.md "wikilink")』に連載。作画は[ともぞ](https://ja.wikipedia.org/wiki/ともぞ "wikilink")。単行本は[電撃コミックス](https://ja.wikipedia.org/wiki/電撃コミックス "wikilink")から全3巻で刊行。
     オリジナルのクライマックスやドラマCDのシナリオを取り入れた特別編など、放送されたものとは違うストーリー展開や本編とは別のおまけ要素なども描かれている。
     1.  ISBN 9784840231930

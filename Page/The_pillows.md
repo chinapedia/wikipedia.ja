@@ -1,6 +1,8 @@
 > この記事は[The pillows](https://ja.wikipedia.org/wiki/The_pillows)から翻訳されています。
 
 
+| 活動期間 = [1989年](../Page/1989年.md "wikilink") - | レーベル =  | 事務所 = [BAD MUSIC GROUP](https://ja.wikipedia.org/wiki/BAD_MUSIC_GROUP "wikilink") | 共同作業者 = 有江嘉典 | 公式サイト = [\*the pillows official web site\*](http://www.pillows.jp/) | メンバー =  | 旧メンバー = \* [上田ケンジ](../Page/上田ケンジ.md "wikilink")（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")） }}
+
 **the pillows**（ザ・ピロウズ）は、[1989年](../Page/1989年.md "wikilink")に結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の3人組[オルタナティヴ・ロック](../Page/オルタナティヴ・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")\[1\]。ヒットチャートの上位にランクインすることは少ないものの、長期にわたって音楽活動を継続しており\[2\]、[2000年代](../Page/2000年代.md "wikilink")以降は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")をはじめとした日本国外での人気も得ている\[3\]\[4\]。[音楽レーベルは自主レーベル](../Page/レコードレーベル.md "wikilink")[DELICIOUS LABELに所属](../Page/DELICIOUS_LABEL.md "wikilink")。2009年には結成20周年を記念して初の武道館ライブを行った。2019年9月16日に結成30年を迎える。
 
 ## 概要
@@ -53,39 +55,39 @@ the pillowsは、バンドの構成や楽曲の傾向から第一期（[1989年]
 
 第一期[KENZI & THE TRIPSの解散](https://ja.wikipedia.org/wiki/KENZI_&_THE_TRIPS "wikilink")\[15\]後、ベーシストであった上田ケンジは[コインロッカー・ベイビーズのボーカリストであった](../Page/コインロッカー・ベイビーズ_\(バンド\).md "wikilink")[山中さわお](../Page/山中さわお.md "wikilink")との新しいバンド結成を構想した。その後KENZI\&THE TRIPSのドラマーであった[佐藤シンイチロウ](../Page/佐藤シンイチロウ.md "wikilink")を誘い、また[ペルシャのギタリストであった](https://ja.wikipedia.org/wiki/ペルシャ_\(バンド\) "wikilink")[真鍋吉明](../Page/真鍋吉明.md "wikilink")を加えて、1989年9月16日にthe pillowsが結成された\[16\]。
 
-the pillowsは[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")の山中さわお、[ベースの上田ケンジ](../Page/ベース_\(弦楽器\).md "wikilink")、[ドラムスの佐藤シンイチロウの](../Page/ドラムセット.md "wikilink")3ピースバンドとしてデビューする予定であったが、山中さわお本人によると「僕のギターがあまりに下手だったため、ほかの2人が頭を抱えてしまい」急遽ギタリストをオーディションすることとなり、後に[怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink")の[増子直純](https://ja.wikipedia.org/wiki/増子直純 "wikilink")の紹介で真鍋吉明が加入した\[17\]\[18\]。
+the pillowsは[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")の山中さわお、[ベースの上田ケンジ](../Page/ベース_\(弦楽器\).md "wikilink")、[ドラムスの佐藤シンイチロウの](../Page/ドラムセット.md "wikilink")3ピースバンドとしてデビューする予定であったが、山中さわお本人によると「僕のギターがあまりに下手だったため、ほかの2人が頭を抱えてしまい」急遽ギタリストをオーディションすることとなり、後に[怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink")の[増子直純](https://ja.wikipedia.org/wiki/増子直純 "wikilink")の紹介で真鍋吉明が加入した\[17\]。
 
 このようにして結成されたthe pillowsは[インディーズ](../Page/インディーズ.md "wikilink")で活動を始め、[キャプテンレコード](https://ja.wikipedia.org/wiki/キャプテンレコード "wikilink")から2枚のミニアルバムをリリースした。[1991年](../Page/1991年.md "wikilink")には[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")からシングル「雨にうたえば」でメジャーデビューを果たし、シングル2枚とアルバム2枚をリリースした。
 
-第一期the pillowsの楽曲には目指す明確なジャンルや方向性はなく\[19\]、メンバー自身の語るところによれば「[The Beatlesのように良い楽曲を奏でたい](../Page/ビートルズ.md "wikilink")」という漠然とした共通認識のみが存在した\[20\]。
+第一期the pillowsの楽曲には目指す明確なジャンルや方向性はなく\[18\]、メンバー自身の語るところによれば「[The Beatlesのように良い楽曲を奏でたい](../Page/ビートルズ.md "wikilink")」という漠然とした共通認識のみが存在した\[19\]。
 
-[パンク・ロック](../Page/パンク・ロック.md "wikilink")バンドとして人気を誇った\[21\]KENZI\&THE TRIPSの知名度もあって精力的にバンド活動を展開した第一期the pillowsであったが、一方でバンド内での音楽的なイニシアティブの相違は徐々に深まり、1993年にリーダーの上田ケンジが脱退するにいたった。第一期the pillowsは上田ケンジと山中さわおという2人の[コンポーザーを有していたが](../Page/作曲家.md "wikilink")\[22\]、それぞれの目指す音楽性やバンドの方向性には次第に不可逆的なズレが生じていたという\[23\]。リーダーを失ったthe pillowsは、レコード会社の移籍なども重なり、およそ一年間にわたって表立ったバンド活動が休止状態となった\[24\]。
+[パンク・ロック](../Page/パンク・ロック.md "wikilink")バンドとして人気を誇った\[20\]KENZI\&THE TRIPSの知名度もあって精力的にバンド活動を展開した第一期the pillowsであったが、一方でバンド内での音楽的なイニシアティブの相違は徐々に深まり、1993年にリーダーの上田ケンジが脱退するにいたった。第一期the pillowsは上田ケンジと山中さわおという2人の[コンポーザーを有していたが](../Page/作曲家.md "wikilink")\[21\]、それぞれの目指す音楽性やバンドの方向性には次第に不可逆的なズレが生じていたという\[22\]。リーダーを失ったthe pillowsは、レコード会社の移籍なども重なり、およそ一年間にわたって表立ったバンド活動が休止状態となった\[23\]。
 
 ### 第二期
 
-第二期は脱退した上田ケンジに代わりボーカルの山中さわおがリーダーとなって本格的に活動を再開した1994年から、1996年に「Tiny Boat」での失敗を機に活動方針の転換を図るまでの時期である。上田ケンジ抜きの新たなthe pillowsを模索した時期であり、第三期への過渡期となる\[25\]。
+第二期は脱退した上田ケンジに代わりボーカルの山中さわおがリーダーとなって本格的に活動を再開した1994年から、1996年に「Tiny Boat」での失敗を機に活動方針の転換を図るまでの時期である。上田ケンジ抜きの新たなthe pillowsを模索した時期であり、第三期への過渡期となる\[24\]。
 
-上田ケンジ脱退からおよそ一年間にわたって表立ったバンド活動が休止状態となっていたthe pillowsは、新たに山中さわおをリーダーとし、ベーシストにはサポートメンバーとして[SUPER BADの](https://ja.wikipedia.org/wiki/SUPER_BAD "wikilink")[鹿島達也](https://ja.wikipedia.org/wiki/鹿島達也 "wikilink")を迎え本格的に活動を再開。しかし、売上低迷の打開策として招かれた[某・大物プロデューサーの持つ楽曲制作法に山中が相容れる事が出来ず](../Page/高橋研.md "wikilink")（決して人間的に嫌悪していた訳ではなく、そういう方法もあるという一定の理解は示した上で）、レコーディング初日に反故した事から、ポニーキャニオンとの契約が破棄。その後、楽曲を評価してくれたキングレコードに移籍する事となり、鹿島達也の紹介により[プロデューサーに](../Page/音楽プロデューサー.md "wikilink")[SALON MUSICの](https://ja.wikipedia.org/wiki/SALON_MUSIC "wikilink")[吉田仁](https://ja.wikipedia.org/wiki/吉田仁 "wikilink")が加わるなど、バンドの様相が大きく変わった\[26\]。第二期の間にシングル3枚とアルバム2枚をリリースした。
+上田ケンジ脱退からおよそ一年間にわたって表立ったバンド活動が休止状態となっていたthe pillowsは、新たに山中さわおをリーダーとし、ベーシストにはサポートメンバーとして[SUPER BADの](https://ja.wikipedia.org/wiki/SUPER_BAD "wikilink")[鹿島達也](https://ja.wikipedia.org/wiki/鹿島達也 "wikilink")を迎え本格的に活動を再開。しかし、売上低迷の打開策として招かれた[某・大物プロデューサーの持つ楽曲制作法に山中が相容れる事が出来ず](../Page/高橋研.md "wikilink")（決して人間的に嫌悪していた訳ではなく、そういう方法もあるという一定の理解は示した上で）、レコーディング初日に反故した事から、ポニーキャニオンとの契約が破棄。その後、楽曲を評価してくれたキングレコードに移籍する事となり、鹿島達也の紹介により[プロデューサーに](../Page/音楽プロデューサー.md "wikilink")[SALON MUSICの](https://ja.wikipedia.org/wiki/SALON_MUSIC "wikilink")[吉田仁](https://ja.wikipedia.org/wiki/吉田仁 "wikilink")が加わるなど、バンドの様相が大きく変わった\[25\]。第二期の間にシングル3枚とアルバム2枚をリリースした。
 
-第二期the pillowsの楽曲は、新たにリーダーとなった山中さわおが[ソウルミュージック](../Page/ソウルミュージック.md "wikilink")や[ボサノヴァ](../Page/ボサノヴァ.md "wikilink")風のテイストを取り入れたことによる\[27\]多彩な[リズム](../Page/リズム.md "wikilink")・アプローチとスタイリッシュなサウンドをその特徴とし\[28\]、[ポップなメロディーを目指しつつも凝ったアレンジの楽曲が多く作られた](../Page/ポップ・ミュージック.md "wikilink")\[29\]。
+第二期the pillowsの楽曲は、新たにリーダーとなった山中さわおが[ソウルミュージック](../Page/ソウルミュージック.md "wikilink")や[ボサノヴァ](../Page/ボサノヴァ.md "wikilink")風のテイストを取り入れたことによる\[26\]多彩な[リズム](../Page/リズム.md "wikilink")・アプローチとスタイリッシュなサウンドをその特徴とし\[27\]、[ポップなメロディーを目指しつつも凝ったアレンジの楽曲が多く作られた](../Page/ポップ・ミュージック.md "wikilink")\[28\]。
 
-第二期のthe pillowsは山中さわおが「売れることを凄く意識した時期」と語るように、周囲の意見を取り入れタイアップなどの商業戦略が積極的に試みられた\[30\]。しかし、望まれたほどの商業的な成功を収めることはできず、次第に周囲の考えと自分たちの求める音楽とのギャップに苦しむことになる\[31\]。特に1996年1月に発売した5thシングル「Tiny Boat」のセールスが低調に終わったことに対するメンバーの失意は大きく\[32\]、このことがきっかけとなってthe pillowsは第三期へと移行する。
+第二期のthe pillowsは山中さわおが「売れることを凄く意識した時期」と語るように、周囲の意見を取り入れタイアップなどの商業戦略が積極的に試みられた\[29\]。しかし、望まれたほどの商業的な成功を収めることはできず、次第に周囲の考えと自分たちの求める音楽とのギャップに苦しむことになる\[30\]。特に1996年1月に発売した5thシングル「Tiny Boat」のセールスが低調に終わったことに対するメンバーの失意は大きく\[31\]、このことがきっかけとなってthe pillowsは第三期へと移行する。
 
 ### 第三期
 
-第三期とは1996年6月の「[ストレンジ カメレオン](../Page/ストレンジ_カメレオン.md "wikilink")」発売以後、2012年の一時活動休止までの期間を指す。ロックや[オルタナティブというスタイルを追求し](https://ja.wikipedia.org/wiki/オルタナティブ・ミュージック "wikilink")\[33\]、現在のリスナーの多くがこの時期にthe pillowsを知ったとも言われるように\[34\]、緩やかに支持を伸ばし現在のイメージを確立した時期である。
+第三期とは1996年6月の「[ストレンジ カメレオン](../Page/ストレンジ_カメレオン.md "wikilink")」発売以後、2012年の一時活動休止までの期間を指す。ロックや[オルタナティブというスタイルを追求し](https://ja.wikipedia.org/wiki/オルタナティブ・ミュージック "wikilink")\[32\]、現在のリスナーの多くがこの時期にthe pillowsを知ったとも言われるように\[33\]、緩やかに支持を伸ばし現在のイメージを確立した時期である。
 
-6thシングル「ストレンジ カメレオン」は、大衆的な音楽を目指すも失敗した自分たちを「まわりの色に馴染まない出来損ないのカメレオン」とたとえ\[35\]、それまでthe pillowsが築いてきた音楽やスタイルを大きく否定するものであった。そのため「ストレンジ カメレオン」の発売は、反対するレコード会社とメンバーの対立の中、半ば強行的に行われた\[36\]。また「ストレンジ カメレオン」を収録した5thアルバム『[Please Mr.Lostman](https://ja.wikipedia.org/wiki/Please_Mr.Lostman "wikilink")』は、メンバーにとってインディーズへの後退も覚悟した「音楽業界への遺書」であり\[37\]、同時にどんな状況下でも自分たちの信じる音楽を頑なに貫く\[38\]という決意のアルバムであった。
+6thシングル「ストレンジ カメレオン」は、大衆的な音楽を目指すも失敗した自分たちを「まわりの色に馴染まない出来損ないのカメレオン」とたとえ\[34\]、それまでthe pillowsが築いてきた音楽やスタイルを大きく否定するものであった。そのため「ストレンジ カメレオン」の発売は、反対するレコード会社とメンバーの対立の中、半ば強行的に行われた\[35\]。また「ストレンジ カメレオン」を収録した5thアルバム『[Please Mr.Lostman](https://ja.wikipedia.org/wiki/Please_Mr.Lostman "wikilink")』は、メンバーにとってインディーズへの後退も覚悟した「音楽業界への遺書」であり\[36\]、同時にどんな状況下でも自分たちの信じる音楽を頑なに貫く\[37\]という決意のアルバムであった。
 
-こうしてバンドの方向性を大きく転換したthe pillowsは、「ストレンジ カメレオン」がFM局の[ヘヴィー・ローテーション](../Page/ヘヴィー・ローテーション.md "wikilink")を獲得するなど\[39\]、次第に支持を集めるようになる。また逆境を共に乗り越えたメンバーやスタッフの間の結束はより強固なものとなったという\[40\]。続く6thアルバム『[LITTLE BUSTERS](../Page/LITTLE_BUSTERS.md "wikilink")』で山中さわおが「初めてリスナーの方を向いて」「目の前の理解者に対する感謝の気持ち」を歌ったと語るように\[41\]、活動方針の転換を機にthe pillowsを取り巻く状況は徐々に好転していった。
+こうしてバンドの方向性を大きく転換したthe pillowsは、「ストレンジ カメレオン」がFM局の[ヘヴィー・ローテーション](../Page/ヘヴィー・ローテーション.md "wikilink")を獲得するなど\[38\]、次第に支持を集めるようになる。また逆境を共に乗り越えたメンバーやスタッフの間の結束はより強固なものとなったという\[39\]。続く6thアルバム『[LITTLE BUSTERS](../Page/LITTLE_BUSTERS.md "wikilink")』で山中さわおが「初めてリスナーの方を向いて」「目の前の理解者に対する感謝の気持ち」を歌ったと語るように\[40\]、活動方針の転換を機にthe pillowsを取り巻く状況は徐々に好転していった。
 
-その後、the pillowsはオルタナティブという手法を通じて、現在のロックバンドとしてのスタイルを確立していく\[42\]。この頃からサポートベーシストには鹿島達也に代わって[THE CHEWINGGUM WEEKENDの](https://ja.wikipedia.org/wiki/THE_CHEWINGGUM_WEEKEND "wikilink")[鈴木淳が加入した](../Page/鈴木淳_\(ベーシスト\).md "wikilink")。
+その後、the pillowsはオルタナティブという手法を通じて、現在のロックバンドとしてのスタイルを確立していく\[41\]。この頃からサポートベーシストには鹿島達也に代わって[THE CHEWINGGUM WEEKENDの](https://ja.wikipedia.org/wiki/THE_CHEWINGGUM_WEEKEND "wikilink")[鈴木淳が加入した](../Page/鈴木淳_\(ベーシスト\).md "wikilink")。
 
-第三期the pillowsはオリジナル・アルバムの作成と並行して[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")や[B-side集をリリースし](../Page/コンピレーション・アルバム.md "wikilink")、[2004年](../Page/2004年.md "wikilink")にはデビュー15周年を記念した[セルフカバー](../Page/セルフカバー.md "wikilink")アルバムと[トリビュートアルバム](https://ja.wikipedia.org/wiki/トリビュートアルバム "wikilink")を発表する\[43\]など、多様な楽曲展開を行うようになった。2006年末にはレーベルをavex traxへと移し、[2007年](../Page/2007年.md "wikilink")にはキングレコード在籍時にリリースされたシングルの収録曲を網羅した[シングル・コレクションも発売されている](../Page/コンピレーション・アルバム.md "wikilink")\[44\]。またDVDなどの映像作品やバンドスコアなどの書籍の発売も積極的に行うようになった。
+第三期the pillowsはオリジナル・アルバムの作成と並行して[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")や[B-side集をリリースし](../Page/コンピレーション・アルバム.md "wikilink")、[2004年](../Page/2004年.md "wikilink")にはデビュー15周年を記念した[セルフカバー](../Page/セルフカバー.md "wikilink")アルバムと[トリビュートアルバム](https://ja.wikipedia.org/wiki/トリビュートアルバム "wikilink")を発表する\[42\]など、多様な楽曲展開を行うようになった。2006年末にはレーベルをavex traxへと移し、[2007年](../Page/2007年.md "wikilink")にはキングレコード在籍時にリリースされたシングルの収録曲を網羅した[シングル・コレクションも発売されている](../Page/コンピレーション・アルバム.md "wikilink")\[43\]。またDVDなどの映像作品やバンドスコアなどの書籍の発売も積極的に行うようになった。
 
-[2000年代](../Page/2000年代.md "wikilink")以降は多くのファンの声に応え日本国外でのライブ活動も行っている。[2005年](../Page/2005年.md "wikilink")の[アメリカツアーを皮切りに](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、度々日本国外で公演やツアーを行い成功を収めるなど、アメリカをはじめとした日本国外におけるthe pillowsの人気はメンバー自身も驚くほどに高いようである\[45\]\[46\]。こうした海外での高い評価は、そのほとんどがthe pillowsがテーマソングや挿入歌を提供した[ガイナックス](../Page/ガイナックス.md "wikilink")製作の[OVA](../Page/OVA.md "wikilink")『[フリクリ](../Page/フリクリ.md "wikilink")』の海外での人気とともに得られたものである\[47\]。『フリクリ』は2000年～2001年にかけて公開されたもので、全6話中にthe pillowsの楽曲が20曲以上も使用されていた\[48\]。
+[2000年代](../Page/2000年代.md "wikilink")以降は多くのファンの声に応え日本国外でのライブ活動も行っている。[2005年](../Page/2005年.md "wikilink")の[アメリカツアーを皮切りに](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、度々日本国外で公演やツアーを行い成功を収めるなど、アメリカをはじめとした日本国外におけるthe pillowsの人気はメンバー自身も驚くほどに高いようである\[44\]\[45\]。こうした海外での高い評価は、そのほとんどがthe pillowsがテーマソングや挿入歌を提供した[ガイナックス](../Page/ガイナックス.md "wikilink")製作の[OVA](../Page/OVA.md "wikilink")『[フリクリ](../Page/フリクリ.md "wikilink")』の海外での人気とともに得られたものである\[46\]。『フリクリ』は2000年～2001年にかけて公開されたもので、全6話中にthe pillowsの楽曲が20曲以上も使用されていた\[47\]。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、[Oasisの来日公演の前座のオファーがきたが](https://ja.wikipedia.org/wiki/オアシス_\(バンド\) "wikilink")、「断った方がネタになるから」という理由で断る\[49\]。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、[Oasisの来日公演の前座のオファーがきたが](https://ja.wikipedia.org/wiki/オアシス_\(バンド\) "wikilink")、「断った方がネタになるから」という理由で断る\[48\]。
 
 [2009年](../Page/2009年.md "wikilink")、結成20周年を迎え、『LATE BLOOMER SERIES』と称し、2枚のベスト・アルバムの発売や多数のツアー、動画サイト[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")を利用した全世界対象のカバーコンテストなどの企画に加え、更には初の[日本武道館](../Page/日本武道館.md "wikilink")でのワンマンライブも行う。その翌月には16thアルバム『OOPARTS』を発表している。
 
@@ -95,9 +97,9 @@ the pillowsは[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilin
 
 [2013年](../Page/2013年.md "wikilink")[6月](../Page/6月.md "wikilink")より、the pillowsの活動を再開することがアナウンスされた。
 
-[2014年](../Page/2014年.md "wikilink")、結成25周年を記念した企画『NEVER ENDING STORY』として、新宿ロフトにて元リーダーであり初代ベーシストの上田ケンジを迎えた第一期楽曲で構成されたライブ、2枚目となるトリビュートアルバムの発売およびその参加バンドとの対バンツアー、東名阪での第二期楽曲を中心に構成されたライブがおこなわれた。さらに10月4日にはアニバーサリーライブ『DON'T FORGET TODAY』が東京ドームシティホールにて開かれ、同月には19thアルバム『[ムーンダスト](https://ja.wikipedia.org/wiki/ムーンダスト_\(the_pillowsのアルバム\) "wikilink")』も発売された。山中は同アルバム発表時のインタビューで、2013年の活動再開後よりバンドが「“末期”」に突入したと宣言した\[50\]。第一期～第二期から第三期に変化した時ほどのサウンドの隔たりはないが、山中によれば、第四期は「オルタナティブを封印」した音楽性であるという\[51\]。
+[2014年](../Page/2014年.md "wikilink")、結成25周年を記念した企画『NEVER ENDING STORY』として、新宿ロフトにて元リーダーであり初代ベーシストの上田ケンジを迎えた第一期楽曲で構成されたライブ、2枚目となるトリビュートアルバムの発売およびその参加バンドとの対バンツアー、東名阪での第二期楽曲を中心に構成されたライブがおこなわれた。さらに10月4日にはアニバーサリーライブ『DON'T FORGET TODAY』が東京ドームシティホールにて開かれ、同月には19thアルバム『[ムーンダスト](https://ja.wikipedia.org/wiki/ムーンダスト_\(the_pillowsのアルバム\) "wikilink")』も発売された。山中は同アルバム発表時のインタビューで、2013年の活動再開後よりバンドが「“末期”」に突入したと宣言した\[49\]。第一期～第二期から第三期に変化した時ほどのサウンドの隔たりはないが、山中によれば、第四期は「オルタナティブを封印」した音楽性であるという\[50\]。
 
-[2015年](../Page/2015年.md "wikilink")3月、「ムーンダスト」ツアー最終日をもって長年サポートを務めた鈴木淳が長年の素行不良が原因で離脱\[52\]。
+[2015年](../Page/2015年.md "wikilink")3月、「ムーンダスト」ツアー最終日をもって長年サポートを務めた鈴木淳が長年の素行不良が原因で離脱\[51\]。
 
 [2016年](../Page/2016年.md "wikilink")4月、縁のある5人のベーシスト（上田ケンジ、[JIRO](../Page/JIRO.md "wikilink")（[GLAY](../Page/GLAY.md "wikilink")）、宮川トモユキ（[HiGE](../Page/HiGE.md "wikilink")）、鹿島達也、有江嘉典）を迎えて制作された20thアルバム『[STROLL AND ROLL](https://ja.wikipedia.org/wiki/STROLL_AND_ROLL "wikilink")』を発売した。本アルバムより山中が主宰するDELICIOUS LABELに移籍し、アルバムの販売元は古巣のキングレコードに事実上復帰した。
 
@@ -673,7 +675,7 @@ AVCD-38201</p></td>
 <td><p>2018年9月19日<br />
 【CD+DVD】QECD-9008(BUMP-078)<br />
 【CD】QECD-10008(BUMP-079)</p></td>
-<td><p>30周年企画「Thank you, my highlight」の第1弾リリース[53] タイアップ<br />
+<td><p>30周年企画「Thank you, my highlight」の第1弾リリース[52] タイアップ<br />
 (眩しい闇のメロディー)</p></td>
 </tr>
 </tbody>
@@ -1346,7 +1348,7 @@ DVD:QEBD-10001（BUMP-060）</p></td>
 <tr class="odd">
 <td></td>
 <td><p><strong>ROCK’N’ROLL AND YOUR SUN</strong></p></td>
-<td><p>30周年企画「Thank you, my highlight」の第3弾リリース[54]。2018年に行われたアメリカツアー(MONO ME YOU SUN TOUR)のドキュメンタリー・DVD。ライブ会場、通販限定販売。</p></td>
+<td><p>30周年企画「Thank you, my highlight」の第3弾リリース[53]。2018年に行われたアメリカツアー(MONO ME YOU SUN TOUR)のドキュメンタリー・DVD。ライブ会場、通販限定販売。</p></td>
 <td><p>2018年11月23日</p>
 <p>BUMP-081</p></td>
 </tr>
@@ -1482,7 +1484,7 @@ DVD:QEBD-10001（BUMP-060）</p></td>
 | EMERALD CITY                                                                                                                      | 17thアルバム『HORN AGAIN』収録                    | dビデオ powered by BeeTVスペシャル『[闇金ウシジマくん (テレビドラマ)](https://ja.wikipedia.org/wiki/闇金ウシジマくん_\(テレビドラマ\) "wikilink")』主題歌                      |
 | About A Rock’n’Roll Band                                                                                                          | 36thシングル                                  | テレビ東京系『[モヤモヤさまぁ～ず](https://ja.wikipedia.org/wiki/モヤモヤさまぁ～ず "wikilink")2』エンディングテーマ                                                     |
 | Locomotion, more\! more\!                                                                                                         | 20thアルバム『STROLL AND ROLL』収録               | TOKYO MX『[ニンジャスレイヤー](https://ja.wikipedia.org/wiki/ニンジャスレイヤー "wikilink") フロムアニメイシヨン』TVシリーズ第1話エンディングテーマ                                |
-| BE WILD                                                                                                                           | 21stアルバム『NOOK IN THE BRAIN』収録             | [東新住建](../Page/東新住建.md "wikilink") CMソング \[55\]                                                                                       |
+| BE WILD                                                                                                                           | 21stアルバム『NOOK IN THE BRAIN』収録             | [東新住建](../Page/東新住建.md "wikilink") CMソング \[54\]                                                                                       |
 | Star overhead                                                                                                                     | 「フリクリ」サウンドトラックFooL on CooL generation収録   | 劇場版『フリクリ オルタナ』主題歌                                                                                                                     |
 | Spiky Seeds                                                                                                                       | 「フリクリ」サウンドトラックFooL on CooL generation収録   | 劇場版『フリクリ プログレ』主題歌                                                                                                                     |
 | 眩しい闇のメロディー                                                                                                                        | 22ndアルバム『REBROADCAST』収録                   | 映画『[純平、考え直せ](https://ja.wikipedia.org/wiki/純平、考え直せ "wikilink")』主題歌                                                                    |
@@ -1927,7 +1929,7 @@ DVD:QEBD-10001（BUMP-060）</p></td>
   - [SALON MUSIC](https://ja.wikipedia.org/wiki/SALON_MUSIC "wikilink")
     第二期以降、the pillowsのプロデューサーを務める[吉田仁](https://ja.wikipedia.org/wiki/吉田仁 "wikilink")が所属するロックユニット。the pillowsのライブではSALON MUSICの楽曲がオープニングSEに用いられている。
   - [thee michelle gun elephant](../Page/THEE_MICHELLE_GUN_ELEPHANT.md "wikilink")
-    同じ事務所に所属していたことから交流があり、山中さわおはロックバンドの象徴的存在として度々thee michelle gun elephantの名を挙げている。またthe pillowsが第二期のスタイリッシュなスタイルから第三期のロックバンドとなったきっかけは、まだデビュー前であったthee michelle gun elephantのライブパフォーマンスに圧倒されたためであるという\[56\]。
+    同じ事務所に所属していたことから交流があり、山中さわおはロックバンドの象徴的存在として度々thee michelle gun elephantの名を挙げている。またthe pillowsが第二期のスタイリッシュなスタイルから第三期のロックバンドとなったきっかけは、まだデビュー前であったthee michelle gun elephantのライブパフォーマンスに圧倒されたためであるという\[55\]。
   - [怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink")
     the pillowsの結成を様々な形でサポートしたthe pillowsの兄貴分のような存在。the pillows主催のライブ・ツアー『[Born in The '60s](https://ja.wikipedia.org/wiki/Born_in_The_'60s "wikilink")』で共演。
   - [noodles](https://ja.wikipedia.org/wiki/noodles "wikilink")
@@ -1942,6 +1944,10 @@ DVD:QEBD-10001（BUMP-060）</p></td>
     the pillowsが主催のライブ・ツアー『Born in The '60s』にて共演。山中さわおは、ザ・コレクターズの前身バンドであるザ・バイクのファンでもある。
 
 ## 脚注
+
+### 注釈
+
+### 出典
 
 ## 外部リンク
 
@@ -1958,7 +1964,7 @@ DVD:QEBD-10001（BUMP-060）</p></td>
 
   -
   -
-[Category:the_pillows](https://ja.wikipedia.org/wiki/Category:the_pillows "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:パワー・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:パワー・ポップ・バンド "wikilink") [Category:ローファイ・バンド](https://ja.wikipedia.org/wiki/Category:ローファイ・バンド "wikilink") [Category:キングレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:キングレコードのアーティスト "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:1989年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1989年に結成した音楽グループ "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
+[Category:the_pillows](https://ja.wikipedia.org/wiki/Category:the_pillows "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:日本のポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のポップ・ロック・バンド "wikilink") [Category:パワー・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:パワー・ポップ・バンド "wikilink") [Category:ローファイ・バンド](https://ja.wikipedia.org/wiki/Category:ローファイ・バンド "wikilink") [Category:キングレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:キングレコードのアーティスト "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:1989年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1989年に結成した音楽グループ "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
 
 1.
 2.  津田健.「UNGA\!-NO.104」フリーペーパー. [UNGA\!](http://blog.livedoor.jp/ungaweb/).2006年.（参照：2009年3月17日）
@@ -1977,10 +1983,10 @@ DVD:QEBD-10001（BUMP-060）</p></td>
 15. KENZI.「[BIOGRAPY](http://www.kentori.net/pc/biography/index.html)」.KENZI\&THE TRIPSオフィシャルサイト【KENTORI.NET】.（参照：2009年3月17日）
 16. （参照：2009年3月17日）
 17.
-18. 活動初期には、山中さわおはギターを持たせてもらえずにハンドマイクで歌った時期もあった（山中さわお.『白い夏と緑の自転車 赤い髪と黒いギター』.QUIP MAGAZINE）
+18.
 19.
-20.
-21. 「[KENZI\&THE TRIPS](http://www.barks.jp/artist/?id=52006491&m=bio)」.[BARKS](https://ja.wikipedia.org/wiki/BARKS "wikilink").（参照：2009年3月17日）
+20. 「[KENZI\&THE TRIPS](http://www.barks.jp/artist/?id=52006491&m=bio)」.[BARKS](https://ja.wikipedia.org/wiki/BARKS "wikilink").（参照：2009年3月17日）
+21.
 22.
 23.
 24.
@@ -1993,26 +1999,25 @@ DVD:QEBD-10001（BUMP-060）</p></td>
 31.
 32.
 33.
-34.
-35. 「the pillows Live」.[NHK-BS2](../Page/NHK衛星第2テレビジョン.md "wikilink").2007年12月8日.
+34. 「the pillows Live」.[NHK-BS2](../Page/NHK衛星第2テレビジョン.md "wikilink").2007年12月8日.
+35.
 36.
 37.
 38.
 39.
 40.
 41.
-42.
-43. 「[シンクロナイズド・ロッカーズ](http://www.pillows.jp/p/kingrecords/16-album/203-20040916-out-r-.html)」.the pillows official web site.（参照：2009年3月17日）
-44. 「[the pillows](http://www.kingrecords.co.jp/thepillows/index.html)」. Kingrecords Webcommunication.（参照：2009年3月17日）
+42. 「[シンクロナイズド・ロッカーズ](http://www.pillows.jp/p/kingrecords/16-album/203-20040916-out-r-.html)」.the pillows official web site.（参照：2009年3月17日）
+43. 「[the pillows](http://www.kingrecords.co.jp/thepillows/index.html)」. Kingrecords Webcommunication.（参照：2009年3月17日）
+44. （参照：2009年3月17日）
 45. （参照：2009年3月17日）
-46. （参照：2009年3月17日）
-47. 石井恵梨子.「[INTERVIEWS the pillows](http://www.v-music.ch/interviews/int036.html)」[VMC](https://ja.wikipedia.org/wiki/ミュージックビデオ専門/VMC "wikilink").2007年.（参照：2009年3月17日）
-48. [GAINAX NETWORK](http://www.gainax.co.jp/anime/flcl/bgm.html) - [ガイナックス](../Page/ガイナックス.md "wikilink").2010年.（参照：2012年9月14日）
-49. 出演した[ロックの学園](https://ja.wikipedia.org/wiki/ロックの学園 "wikilink")2009の「ロックの授業」公開収録の中で山中が公表。この模様は「ロックの学園2009 一日目」（NHK-BSHi.2009年4月27日）番組内でも放映されている
-50.
-51. [the pillows「STROLL AND ROLL」発売記念特集 山中さわお×上田健司対談 (4/5) - 音楽ナタリー Power Push](http://natalie.mu/music/pp/thepillows04/page/4)
-52. [the pillowsのサポートベーシスト鈴木淳がバンド離脱](http://natalie.mu/music/news/147795)
+46. 石井恵梨子.「[INTERVIEWS the pillows](http://www.v-music.ch/interviews/int036.html)」[VMC](https://ja.wikipedia.org/wiki/ミュージックビデオ専門/VMC "wikilink").2007年.（参照：2009年3月17日）
+47. [GAINAX NETWORK](http://www.gainax.co.jp/anime/flcl/bgm.html) - [ガイナックス](../Page/ガイナックス.md "wikilink").2010年.（参照：2012年9月14日）
+48. 出演した[ロックの学園](https://ja.wikipedia.org/wiki/ロックの学園 "wikilink")2009の「ロックの授業」公開収録の中で山中が公表。この模様は「ロックの学園2009 一日目」（NHK-BSHi.2009年4月27日）番組内でも放映されている
+49.
+50. [the pillows「STROLL AND ROLL」発売記念特集 山中さわお×上田健司対談 (4/5) - 音楽ナタリー Power Push](http://natalie.mu/music/pp/thepillows04/page/4)
+51. [the pillowsのサポートベーシスト鈴木淳がバンド離脱](http://natalie.mu/music/news/147795)
+52.
 53.
 54.
-55.
-56. 松木美歩.「JUICE」フリーペーパー.[WEB JUICE](http://www.juicemusic.com/index.html) .2007年.（参照：2009年3月17日）
+55. 松木美歩.「JUICE」フリーペーパー.[WEB JUICE](http://www.juicemusic.com/index.html) .2007年.（参照：2009年3月17日）

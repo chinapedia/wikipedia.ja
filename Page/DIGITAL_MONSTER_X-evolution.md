@@ -1,11 +1,11 @@
 > この記事は[DIGITAL MONSTER X-evolution](https://ja.wikipedia.org/wiki/DIGITAL_MONSTER_X-evolution)から翻訳されています。
 
 
-**DIGITAL MONSTER X-evolution**（**デジタルモンスター ゼヴォリューション**、通称：ゼヴォ）は、[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")製作の[TVSP](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。『[デジモンクロニクル](../Page/デジモンクロニクル.md "wikilink")』を基にストーリーを構成した[CG](https://ja.wikipedia.org/wiki/CG "wikilink")作品。CGアニメーション制作は[意馬](https://ja.wikipedia.org/wiki/意馬 "wikilink")（[Imagi Animation Studios Limited](https://ja.wikipedia.org/wiki/Imagi_Animation_Studios_Limited "wikilink")）が担当。
+『**DIGITAL MONSTER X-evolution**』（**デジタルモンスター ゼヴォリューション**、通称：ゼヴォ）は、[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")製作の[TVSP](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。『[デジモンクロニクル](../Page/デジモンクロニクル.md "wikilink")』を基にストーリーを構成した[CG](https://ja.wikipedia.org/wiki/CG "wikilink")作品。CGアニメーション制作は[意馬](https://ja.wikipedia.org/wiki/意馬 "wikilink")が担当。
 
 ## 概要
 
-この作品は、製作発表当初、原名は『DIGITAL MONSTER X-evolution ～13番目のロイヤルナイツ～』（デジタルモンスター ゼヴォリューション ～13番目のロイヤルナイツ～）、[2005年](../Page/2005年.md "wikilink")映画公開予定と発表されていたが\[1\]、諸事情により予定が変更になり、2005年[1月3日](../Page/1月3日.md "wikilink")に[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")で[テレビ放送](https://ja.wikipedia.org/wiki/テレビ放送 "wikilink")された。変更に至った理由は不明。
+この作品は、製作発表当初、原名は『DIGITAL MONSTER X-evolution 〜13番目のロイヤルナイツ〜』（デジタルモンスター ゼヴォリューション 13ばんめのロイヤルナイツ）、[2005年](../Page/2005年.md "wikilink")映画公開予定と発表されていたが\[1\]、諸事情により予定が変更になり、2005年[1月3日](../Page/1月3日.md "wikilink")に[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")で[テレビ放送](https://ja.wikipedia.org/wiki/テレビ放送 "wikilink")された。変更に至った理由は不明。
 
 当初はデジモンシリーズ5作目として扱われる場合もあったが、後に正規の最新作『[デジモンセイバーズ](../Page/デジモンセイバーズ.md "wikilink")』が開始したため、現在では本作は番外編のような扱いとなっている。
 
@@ -92,16 +92,16 @@
   - 制作 - [東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")
   - CG制作 - [意馬](https://ja.wikipedia.org/wiki/意馬 "wikilink")（[Imagi Animation Studios Limited](https://ja.wikipedia.org/wiki/Imagi_Animation_Studios_Limited "wikilink")）
 
+## 脚注
+
+<references />
+
 ## 関連項目
 
   - [東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")
   - [デジタルモンスター](../Page/デジタルモンスター.md "wikilink")
   - [デジモンクロニクル](../Page/デジモンクロニクル.md "wikilink")
   - [時空冒険記ゼントリックス](../Page/時空冒険記ゼントリックス.md "wikilink")
-
-## 脚注
-
-<references />
 
 ## 外部リンク
 

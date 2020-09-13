@@ -79,19 +79,19 @@
 
 ## 外部リンク
 
-  - [陸上自衛隊](http://www.mod.go.jp/gsdf/) - [LR-2](http://www.mod.go.jp/gsdf/equipment/index.html#/detail/3/3_11/)
+  - [陸上自衛隊](https://www.mod.go.jp/gsdf/) - [LR-2](https://www.mod.go.jp/gsdf/equipment/index.html#/detail/3/3_11/)
 
 [Category:日本の偵察機](https://ja.wikipedia.org/wiki/Category:日本の偵察機 "wikilink") [Category:連絡機](https://ja.wikipedia.org/wiki/Category:連絡機 "wikilink") [Category:陸上自衛隊の装備品](https://ja.wikipedia.org/wiki/Category:陸上自衛隊の装備品 "wikilink") [Category:ビーチクラフトの航空機](https://ja.wikipedia.org/wiki/Category:ビーチクラフトの航空機 "wikilink")
 
 1.
 2.  [令和元年度防衛白書 資料9 主要航空機の保有数・性能諸元](https://www.mod.go.jp/j/publication/wp/wp2019/html/ns009000.html)
-3.  [第25回防衛セミナー議事録](http://www.mod.go.jp/rdb/okinawa/02seminar/h27/25seminagijiroku.pdf)
+3.  [第25回防衛セミナー議事録](https://www.mod.go.jp/rdb/okinawa/02seminar/h27/25seminagijiroku.pdf)
 4.
-5.  [防衛省・自衛隊 急患輸送実績について （２７年４月２２日（水）～２７年５月１２日（火））](http://www.mod.go.jp/j/press/news/2015/05/13d.html)
-6.  [防衛省・自衛隊 急患輸送実績について （２７年６月３日（水）～２７年６月９日（火）））](http://www.mod.go.jp/j/press/news/2015/06/10a.html)
+5.  [防衛省・自衛隊 急患輸送実績について （２７年４月２２日（水）～２７年５月１２日（火））](https://www.mod.go.jp/j/press/news/2015/05/13d.html)
+6.  [防衛省・自衛隊 急患輸送実績について （２７年６月３日（水）～２７年６月９日（火）））](https://www.mod.go.jp/j/press/news/2015/06/10a.html)
 7.
 8.
 9.
 10. [ＭＨＩエアロエンジンサービス | 取扱製品 | 下請機種 | PT6A](http://www.mhi-aes.co.jp/products/subcontract/pt6a/pt6a.html)
-11. [航空隊本部付隊](http://www.mod.go.jp/gsdf/nae/11d/jgsdf-post/images/okadama/syozaibutai/kouhonnduki/kouhonnduki.html)
-12. [第15ヘリコプター隊 航空機](http://www.mod.go.jp/gsdf/wae/15b/15b/images/15heri/koukuuki/koukuuki.html)
+11. [航空隊本部付隊](https://www.mod.go.jp/gsdf/nae/11d/jgsdf-post/images/okadama/syozaibutai/kouhonnduki/kouhonnduki.html)
+12. [第15ヘリコプター隊 航空機](https://www.mod.go.jp/gsdf/wae/15b/15b/images/15heri/koukuuki/koukuuki.html)

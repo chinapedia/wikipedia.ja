@@ -19,7 +19,7 @@
   - 2004年： 自社ビルを北海道[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[中央区大通東](../Page/中央区_\(札幌市\).md "wikilink")8丁目に竣工する。
       - 大手芸能事務所・[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")との業務提携を行う。
       - 同年12月に東京で開催された演劇『LOOSER-失い続けてしまうアルバム-』アンコール公演は提携後初の事業である。
-  - 2007年6月30日-7月1日： 北海道[夕張市](../Page/夕張市.md "wikilink")[マウントレースイ](../Page/マウントレースイ.md "wikilink")スキー場にて[GLAY](../Page/GLAY.md "wikilink")や[樋口了一](https://ja.wikipedia.org/wiki/樋口了一 "wikilink")など北海道に縁のあるバンド・ミュージシャンが多数参加した野外[ロック・フェスティバル](../Page/ロック・フェスティバル.md "wikilink")「CUE MUSIC JAM-BOREE in ゆうばり」を開催する。
+  - 2007年6月30日-7月1日： 北海道[夕張市](../Page/夕張市.md "wikilink")[マウントレースイ](../Page/マウントレースイ.md "wikilink")スキー場にて[GLAY](../Page/GLAY.md "wikilink")や[樋口了一](https://ja.wikipedia.org/wiki/樋口了一 "wikilink")、[スターダストレビュー](../Page/スターダストレビュー.md "wikilink")、[PUFFY](../Page/PUFFY.md "wikilink")など北海道や、CREATIVE OFFICE CUEに縁のあるバンド・ミュージシャンが多数参加した野外[ロック・フェスティバル](../Page/ロック・フェスティバル.md "wikilink")「CUE MUSIC JAM-BOREE in ゆうばり」を開催する。
   - 2008年10月： 新社屋を北海道札幌市中央区北2条東3丁目に竣工して本社機能を移転する。同時に多目的ホール「cube garden」を開設する。
   - 2012年1月11日：ベーカリーショップやレストラン事業を展開する傘下企業として「株式会社 Link & Loop」を設立する。
   - 2012年8月1日：それまで社長を務めてきた鈴井貴之が会長に就任し、同時に副社長であった鈴井亜由美が新社長に就任する。
@@ -30,10 +30,10 @@
 
   - [鈴井貴之](../Page/鈴井貴之.md "wikilink")（1992年創設）
   - [TEAM NACS](../Page/TEAM_NACS.md "wikilink")（1996年結成。業務提携：[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")）
-      - [大泉洋](../Page/大泉洋.md "wikilink")（1995年契約）
-      - [安田顕](../Page/安田顕.md "wikilink")（1993年契約）
       - [森崎博之](../Page/森崎博之.md "wikilink")（1999年契約）
-      - [戸次重幸](../Page/戸次重幸.md "wikilink")（2000年契約。旧姓：佐藤）
+      - [安田顕](../Page/安田顕.md "wikilink")（1993年契約）
+      - [戸次重幸](../Page/戸次重幸.md "wikilink")（2000年契約。旧芸名：佐藤重幸）
+      - [大泉洋](../Page/大泉洋.md "wikilink")（1995年契約）
       - [音尾琢真](../Page/音尾琢真.md "wikilink")（2000年契約）
   - [小橋亜樹](../Page/小橋亜樹.md "wikilink")（1999年契約）
   - [北川久仁子](../Page/北川久仁子.md "wikilink")（2005年契約）
@@ -53,7 +53,7 @@
 
 ### バンド・ミュージシャン
 
-  - Chima（2010年契約。レーベル：[ランティス](../Page/ランティス.md "wikilink")、A-CUE RECORDS）
+  - [Chima](../Page/Chima.md "wikilink")（2010年契約。レーベル：[ランティス](../Page/ランティス.md "wikilink")、A-CUE RECORDS）
   - [綾野ましろ](https://ja.wikipedia.org/wiki/綾野ましろ "wikilink")（2014年契約。レーベル：[サクラミュージック](https://ja.wikipedia.org/wiki/SACRA_MUSIC "wikilink")）
   - [nonoc](https://ja.wikipedia.org/wiki/nonoc "wikilink")（2018年契約。レーベル：[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")）
 
@@ -110,17 +110,22 @@
   - [TEAM NACS](../Page/TEAM_NACS.md "wikilink")（森崎・安田・戸次・大泉・音尾）
   - [モリプロ](https://ja.wikipedia.org/wiki/モリプロ "wikilink")（森崎主宰）
   - [ロックメン](../Page/ロックメン.md "wikilink")（戸次主宰）
-  - [水曜天幕團](../Page/水曜天幕團.md "wikilink")（『[水曜どうでしょう](../Page/水曜どうでしょう.md "wikilink")』との共同企画）
+  - [水曜天幕團](../Page/水曜天幕團.md "wikilink")（[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")『[水曜どうでしょう](../Page/水曜どうでしょう.md "wikilink")』との共同企画）
 
 ## 飲食店経営
 
-飲食店事業として札幌市内に飲食店を3店舗経営していたが、2005年3月末日をもって終了した。
+札幌市中央区にて以下の飲食店を経営している。
 
-  - フーコック（ベトナム料理） - 2005年4月からは元従業員が独立して営業
+  - boulangerie coron（ブーランジェリー コロン） - 2012年1月にに開店したベーカリーショップ、現在2店舗。
+  - brasserie coron（ブラッスリー コロン） - 北海道産の農産物を使用した料理と北海道産ワインを提供する料理店。
+
+### 閉店店舗
+
+2005年3月末日をもって終了。
+
+  - フーコック（ベトナム料理） - 2005年4月からは元従業員が独立して営業していたが2013年に[洞爺湖](../Page/洞爺湖.md "wikilink")に移転、名称変更。
   - はしや（和食居酒屋）
   - スーア（東南アジア料理）
-
-2012年1月には札幌市中央区にベーカリーショップ「boulangerie coron（ブーランジェリー コロン）」を開店した。また、北海道産の農産物を使用した料理と北海道産ワインを提供する料理店「brasserie coron（ブラッスリー コロン）」も開店した。現在は札幌市中央区にて「boulangerie coron」2店舗と「brasserie coron」1店舗を営業している。
 
 ## 多目的ホール経営
 

@@ -13,7 +13,7 @@
 
 [1988年](../Page/1988年.md "wikilink")、1st[アルバム](../Page/アルバム.md "wikilink")*Let's Get It Started*を大ヒットさせ、ミュージック・ビデオで見せるユニークで斬新なストリートダンススタイルで注目を浴び、世界中にダンスブームを巻き起こす。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、2ndアルバム『[プリーズ・ハマー・ドント・ハーテム](https://ja.wikipedia.org/wiki/プリーズ・ハマー・ドント・ハーテム "wikilink") (*Please Hammer, Don't Hurt 'Em*)』が世界で累計1,000万枚以上を売上げた。特にファンククラシックの「」（[リック・ジェームス](../Page/リック・ジェームス.md "wikilink")の楽曲）をサンプリングした「」が大ヒットし、[ラップ](../Page/ラップ.md "wikilink")や「[I.S.D](https://ja.wikipedia.org/wiki/I.S.D "wikilink")」 (International Step Dance) と呼ばれるようになる新しい[ストリートダンス](../Page/ストリートダンス.md "wikilink")を世界に知らしめた。同名のビデオ映画も人気を博した。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、2ndアルバム『[プリーズ・ハマー・ドント・ハーテム](https://ja.wikipedia.org/wiki/プリーズ・ハマー・ドント・ハーテム "wikilink") (*Please Hammer, Don't Hurt 'Em*)』が世界で累計1,000万枚以上を売上げた。特にファンククラシックの「[スーパー・フリーク](https://ja.wikipedia.org/wiki/スーパー・フリーク "wikilink")」（[リック・ジェームス](../Page/リック・ジェームス.md "wikilink")の楽曲）をサンプリングした「」が大ヒットし、[ラップ](../Page/ラップ.md "wikilink")や「[I.S.D](https://ja.wikipedia.org/wiki/I.S.D "wikilink")」 (International Step Dance) と呼ばれるようになる新しい[ストリートダンス](../Page/ストリートダンス.md "wikilink")を世界に知らしめた。同名のビデオ映画も人気を博した。
 
 日本においてもそのサクセスストーリーが漫画化され 、また彼の髪型や服装、ダンスのスタイルを真似した「ハマ男」（はまお）と称される者が現れるなど社会現象にもなった。
 
@@ -86,7 +86,7 @@
 
   - [MC Hammer Blog](http://mchammer.blogspot.com/)
 
-[Category:アメリカ合衆国のラッパー](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のラッパー "wikilink") [Category:アメリカ合衆国のダンサー](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のダンサー "wikilink") [Category:EMIグループのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIグループのアーティスト "wikilink") [Category:オリコン年間アルバムチャート1位獲得アーティスト](https://ja.wikipedia.org/wiki/Category:オリコン年間アルバムチャート1位獲得アーティスト "wikilink") [Category:馬主](https://ja.wikipedia.org/wiki/Category:馬主 "wikilink") [Category:アフリカ系アメリカ人のミュージシャン](https://ja.wikipedia.org/wiki/Category:アフリカ系アメリカ人のミュージシャン "wikilink") [Category:カリフォルニア州オークランド出身の人物](https://ja.wikipedia.org/wiki/Category:カリフォルニア州オークランド出身の人物 "wikilink") [Category:1962年生](https://ja.wikipedia.org/wiki/Category:1962年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:アメリカ合衆国のラッパー](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のラッパー "wikilink") [Category:アメリカ合衆国のダンサー](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のダンサー "wikilink") [Category:EMIグループのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIグループのアーティスト "wikilink") [Category:オリコン年間アルバムチャート1位獲得アーティスト](https://ja.wikipedia.org/wiki/Category:オリコン年間アルバムチャート1位獲得アーティスト "wikilink") [Category:ブリット・アワード受賞者](https://ja.wikipedia.org/wiki/Category:ブリット・アワード受賞者 "wikilink") [Category:馬主](https://ja.wikipedia.org/wiki/Category:馬主 "wikilink") [Category:アフリカ系アメリカ人のミュージシャン](https://ja.wikipedia.org/wiki/Category:アフリカ系アメリカ人のミュージシャン "wikilink") [Category:カリフォルニア州オークランド出身の人物](https://ja.wikipedia.org/wiki/Category:カリフォルニア州オークランド出身の人物 "wikilink") [Category:1962年生](https://ja.wikipedia.org/wiki/Category:1962年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.

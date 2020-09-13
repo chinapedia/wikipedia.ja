@@ -39,7 +39,7 @@ awkにおいても[連想配列](../Page/連想配列.md "wikilink")の処理を
 ``` awk
 for (変数 in 配列)
 {
-  文
+    文
 }
 ```
 
@@ -48,7 +48,7 @@ for (変数 in 配列)
 ``` csharp
 foreach (変数 in コレクション)
 {
-  文
+    文
 }
 ```
 

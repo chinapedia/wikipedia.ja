@@ -47,7 +47,7 @@
 
   - [磯村茂昭](https://ja.wikipedia.org/wiki/磯村茂昭 "wikilink")（進行）
   - [星野一弘](https://ja.wikipedia.org/wiki/星野一弘 "wikilink")
-  - [坂部友宏](https://ja.wikipedia.org/wiki/坂部友宏 "wikilink")（2014年9月から）
+  - [坂部友宏](../Page/坂部友宏.md "wikilink")（2014年9月から）
   - [近藤丈靖](../Page/近藤丈靖.md "wikilink")
   - 黒崎貴之
 

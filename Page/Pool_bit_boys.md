@@ -12,7 +12,7 @@
 ## メンバー
 
   - **KINJI**（キンジ、[1975年](../Page/1975年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink") - ）本名：伊藤欣司（いとう きんじ）。
-      - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。[山口県](../Page/山口県.md "wikilink")出身。[血液型A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+      - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。[山口県](../Page/山口県.md "wikilink")出身。[血液型A型](../Page/ABO式血液型.md "wikilink")。
   - **DAN**（ダン、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[8月16日](../Page/8月16日.md "wikilink") - ）本名：永井康貴（ながい やすたか）。
       - [ギター](../Page/ギター.md "wikilink")・[ラップ](../Page/ラップ.md "wikilink")担当。[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")出身。血液型O型。
       - 長くアメリカで生活していた[帰国子女](../Page/帰国子女.md "wikilink")。デビュー当時は日本語があまり話せなかった。
@@ -152,4 +152,4 @@
 
   - [KINJI channel](http://itokinji.net/) - 伊藤欣司のオフィシャルサイト。2017年1月閉鎖。
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")

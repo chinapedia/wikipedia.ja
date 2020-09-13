@@ -155,8 +155,8 @@
 ## 外部リンク
 
   - [福下恵美 オフィシャルブログ](https://ameblo.jp/megumi-fukushita/)
-  - [立花彩野 オフィシャルサイト](https://www.sunmusic.org/tachibana/index.html)
+  - [立花彩野 オフィシャルサイト](http://www.sunmusic.org/tachibana/index.html)
 
-[Category:BeForU](https://ja.wikipedia.org/wiki/Category:BeForU "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:BEMANIシリーズの人物](https://ja.wikipedia.org/wiki/Category:BEMANIシリーズの人物 "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink")
+[Category:BeForU](https://ja.wikipedia.org/wiki/Category:BeForU "wikilink") [Category:日本のポップ・アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・アイドルグループ "wikilink") [Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:BEMANIシリーズの人物](https://ja.wikipedia.org/wiki/Category:BEMANIシリーズの人物 "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink")
 
 1.  [BRE∀K DOWN\! (GF\&DM STYLE)](http://www.konami.jp/am/gfdm/gf8dm7/music/03_break.html) - KONAMI

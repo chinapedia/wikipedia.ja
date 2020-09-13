@@ -38,7 +38,7 @@
 | [2017](https://ja.wikipedia.org/wiki/2017年の地域リーグ_\(サッカー\) "wikilink") | 7位                                      | 8      | 14 | 2  | 2  | 10 | 7   | 21 | \-14 | [橋本雄二](../Page/橋本雄二.md "wikilink")                         | \-                                                       |                                                |
 | [2018](https://ja.wikipedia.org/wiki/2018年の地域リーグ_\(サッカー\) "wikilink") | 関西2部                                    | 2位     | 30 | 14 | 9  | 3  | 2   | 26 | 13   | 13                                                         | 橋本雄二/[出口司](https://ja.wikipedia.org/wiki/出口司 "wikilink") | \-                                             |
 | [2019](https://ja.wikipedia.org/wiki/2019年の地域リーグ_\(サッカー\) "wikilink") | 関西1部                                    | 6位     | 12 | 14 | 3  | 3  | 8   | 14 | 28   | \-14                                                       | 出口司                                                      | \-                                             |
-| [2020](https://ja.wikipedia.org/wiki/2020年の地域リーグ_\(サッカー\) "wikilink") |                                         |        | 14 |    |    |    |     |    |      | [今西晃一](../Page/今西晃一.md "wikilink")                         |                                                          |                                                |
+| [2020](../Page/2020年の地域リーグ_\(サッカー\).md "wikilink")                    |                                         |        | 14 |    |    |    |     |    |      | [今西晃一](../Page/今西晃一.md "wikilink")                         |                                                          |                                                |
 
 ## タイトル
 
@@ -289,9 +289,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>27</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤松潤" title="wikilink">藤松潤</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東海大学体育会サッカー部" title="wikilink">東海大学</a></p></td>
+<td><p><strong>29</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/三崎クリストファー定" title="wikilink">三崎クリストファー定</a></p></td>
+<td><p></p></td>
 <td><p>2020年</p></td>
 <td><p>新加入</p></td>
 <td></td>
@@ -630,7 +630,7 @@
   -
 
 
-[Category:滋賀県のサッカークラブ](https://ja.wikipedia.org/wiki/Category:滋賀県のサッカークラブ "wikilink")
+[Category:滋賀県のサッカークラブ](https://ja.wikipedia.org/wiki/Category:滋賀県のサッカークラブ "wikilink") [Category:2005年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:2005年設立のスポーツチーム "wikilink") [Category:守山市](https://ja.wikipedia.org/wiki/Category:守山市 "wikilink")
 
 1.
 2.

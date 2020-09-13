@@ -13,7 +13,7 @@
 
 ## 放送される内容
 
-基本的にコミュニティFMの電波で放送されるものと同じものが放送される（[CMや時報も含む](../Page/コマーシャルメッセージ.md "wikilink")）。一部局ではスタジオのライブ映像も配信している。ただし、[J-WAVE](../Page/J-WAVE.md "wikilink")など一部の外部制作会社の再配信の場合はSimulRadioでのオンライン放送ができない。その時間帯は配信休止またはSimulRadio向けに短いサイクルのBGMに差し替えを行う。[ミュージックバード](../Page/ミュージックバード.md "wikilink")制作の番組も[2011年](../Page/2011年.md "wikilink")10月までは放送できなかったが、現在は配信が可能となっている\[1\]。
+基本的にコミュニティFMの電波で放送されるものと同じものが放送される（[CMや時報も含む](../Page/コマーシャルメッセージ.md "wikilink")）。一部局ではスタジオのライブ映像も配信している。ただし、一部の外部制作会社の再配信の場合はSimulRadioでのオンライン放送ができない。その時間帯は配信休止またはSimulRadio向けに短いサイクルのBGMに差し替えを行う。[ミュージックバード](../Page/ミュージックバード.md "wikilink")制作の番組は[2011年](../Page/2011年.md "wikilink")10月まで、[J-WAVE](../Page/J-WAVE.md "wikilink")の番組は2020年5月まで\[1\]放送できなかったが、現在は配信が可能となっている\[2\]。
 
 また、[Jリーグなどのスポーツ中継において](../Page/日本プロサッカーリーグ.md "wikilink")、放送権の都合で放送を中止する局もある。
 
@@ -24,7 +24,7 @@
       - [TuneIn Radioの](https://ja.wikipedia.org/wiki/TuneIn_Radio "wikilink")[Windows 8](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink") [Modern UI版でも聞くことが可能](https://ja.wikipedia.org/wiki/Modern_UI "wikilink")。こちらは[Windowsストア](https://ja.wikipedia.org/wiki/Windowsストア "wikilink")からダウンロードが可能。
       - [Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")のWebブラウザ（[Firefox](https://ja.wikipedia.org/wiki/Firefox "wikilink")など）でも聴取は可能。WMA互換のメディアプレイヤーとそのプラグインを利用する形になる（両者の組み合わせ次第では一部の局で再生不可になる事も）。
   - [W-ZERO3](../Page/W-ZERO3.md "wikilink")（[ウィルコム](../Page/ウィルコム.md "wikilink")） - [W+Radio](https://ja.wikipedia.org/wiki/W+Radio "wikilink")を起動することで、SimulRadioで聴取可能なほとんどの局の利用が可能。
-  - [iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")（[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")、[iPod touch](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")） - CSRA公式の専用アプリ「コミュニティFM for iPhone （i-コミュラジ）」（有料）をダウンロードする必要がある（一部対象局のみ）。また、無料のインターネットラジオ聴取アプリ「TuneIn Radio」または「[Fstream](https://ja.wikipedia.org/wiki/Fstream "wikilink")」など各種非公式アプリを使用しての聴取も可能\[2\]。
+  - [iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")（[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")、[iPod touch](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")） - CSRA公式の専用アプリ「コミュニティFM for iPhone （i-コミュラジ）」（有料）をダウンロードする必要がある（一部対象局のみ）。また、無料のインターネットラジオ聴取アプリ「TuneIn Radio」または「[Fstream](https://ja.wikipedia.org/wiki/Fstream "wikilink")」など各種非公式アプリを使用しての聴取も可能\[3\]。
   - [Android](../Page/Android.md "wikilink") - 無料のインターネットラジオ聴取アプリ「TuneIn Radio」など各種非公式アプリを使用しての聴取が可能。専用アプリ「SimulRadio for Android」は遅くとも2014年12月にほぼ全局のサービスが終了している。
 
 いずれの方法も、都道府県域の民放ラジオ局で実施されている「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")」とは異なり、聴取エリアの制限はなく、全国および全世界で無料で（通信料のみで）利用できる。
@@ -44,7 +44,7 @@
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[6月2日](../Page/6月2日.md "wikilink") - 全国のコミュニティFM局19局で「**Community SimulRadio Alliance**（CSRA、コミュニティ・サイマルラジオ・アライアンス）」を発足させる。代表は湘南ビーチFM代表の[木村太郎](https://ja.wikipedia.org/wiki/木村太郎_\(ジャーナリスト\) "wikilink")。同日サイトをリニューアル。これ以降配信局が順次追加される。
   - [2009年](../Page/2009年.md "wikilink")（平成21年）4月1日 - 現在のサイトにリニューアル。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[3月24日](../Page/3月24日.md "wikilink") - [iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")・[iPod touch用アプリ](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")「コミュニティFM for iPhone（i-コミュラジ）」発売開始。
-  - [2013年](../Page/2013年.md "wikilink")（平成25年）[8月30日](../Page/8月30日.md "wikilink") - [調布エフエム放送](../Page/調布エフエム放送.md "wikilink")の発表によると、この日の15時をもってサイマルラジオのサイト閉鎖がされると告知がなされ\[3\]、各放送局が代替の配信方法\[4\]を案内するなど対応に追われたが、同日中に閉鎖は回避された\[5\]。
+  - [2013年](../Page/2013年.md "wikilink")（平成25年）[8月30日](../Page/8月30日.md "wikilink") - [調布エフエム放送](../Page/調布エフエム放送.md "wikilink")の発表によると、この日の15時をもってサイマルラジオのサイト閉鎖がされると告知がなされ\[4\]、各放送局が代替の配信方法\[5\]を案内するなど対応に追われたが、同日中に閉鎖は回避された\[6\]。
 
 ## 現在配信中の放送局
 
@@ -487,7 +487,7 @@ FMドラマシティ</a>★</p></td>
 <tr class="odd">
 <td><p><a href="../Page/レインボータウンエフエム放送.md" title="wikilink">レインボータウンFM</a></p></td>
 <td><p>東京都<a href="https://ja.wikipedia.org/wiki/江東区" title="wikilink">江東区</a></p></td>
-<td><p><span style="display:none">20110801</span>2011年8月1日[6]</p></td>
+<td><p><span style="display:none">20110801</span>2011年8月1日[7]</p></td>
 <td><p>-</p></td>
 <td><p>△</p></td>
 <td></td>
@@ -495,7 +495,7 @@ FMドラマシティ</a>★</p></td>
 <tr class="even">
 <td><p><a href="../Page/葛飾エフエム放送.md" title="wikilink">かつしかFM</a></p></td>
 <td><p>東京都<a href="https://ja.wikipedia.org/wiki/葛飾区" title="wikilink">葛飾区</a></p></td>
-<td><p><span style="display:none">20110701</span>2011年7月1日[7]</p></td>
+<td><p><span style="display:none">20110701</span>2011年7月1日[8]</p></td>
 <td><p>○</p></td>
 <td><p>△</p></td>
 <td></td>
@@ -655,7 +655,7 @@ FMドラマシティ</a>★</p></td>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/FMいずのくに" title="wikilink">FMいずのくに</a>★</p></td>
 <td><p>静岡県<a href="../Page/伊豆の国市.md" title="wikilink">伊豆の国市</a></p></td>
-<td><p><span style="display:none">20140920</span>2014年9月20日[8]</p></td>
+<td><p><span style="display:none">20140920</span>2014年9月20日[9]</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -679,7 +679,7 @@ FMドラマシティ</a>★</p></td>
 <tr class="odd">
 <td><p><a href="../Page/新川コミュニティ放送.md" title="wikilink">ラジオ・ミュー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a><a href="../Page/黒部市.md" title="wikilink">黒部市</a></p></td>
-<td><p>[9]</p></td>
+<td><p>[10]</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -717,7 +717,7 @@ FMドラマシティ</a>★</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/京丹後コミュニティ放送" title="wikilink">エフエムたんご</a>[10]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/京丹後コミュニティ放送" title="wikilink">エフエムたんご</a>[11]</p></td>
 <td><p>京都府<a href="../Page/京丹後市.md" title="wikilink">京丹後市</a></p></td>
 <td><p><span style="display:none">20150202</span>2015年2月2日</p></td>
 <td><p>-</p></td>
@@ -775,7 +775,7 @@ FMドラマシティ</a>★</p></td>
 <tr class="odd">
 <td><p><a href="../Page/エフエムあまがさき.md" title="wikilink">FM aiai</a></p></td>
 <td><p>兵庫県<a href="../Page/尼崎市.md" title="wikilink">尼崎市</a></p></td>
-<td><p><span style="display:none">20130401</span>2013年4月1日[11]</p></td>
+<td><p><span style="display:none">20130401</span>2013年4月1日[12]</p></td>
 <td><p>-</p></td>
 <td><p>△</p></td>
 <td></td>
@@ -877,7 +877,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/北九州シティエフエム.md" title="wikilink">FM KITAQ</a>[12]</p></td>
+<td><p><a href="../Page/北九州シティエフエム.md" title="wikilink">FM KITAQ</a>[13]</p></td>
 <td><p>福岡県北九州市<a href="../Page/小倉北区.md" title="wikilink">小倉北区</a></p></td>
 <td><p><span style="display:none">20111015</span>2011年10月15日</p></td>
 <td><p>-</p></td>
@@ -920,7 +920,7 @@ FMドラマシティ</a>★</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ゆふいんラヂオ局" title="wikilink">ゆふいんラヂオ局</a></p></td>
 <td><p>大分県<a href="../Page/由布市.md" title="wikilink">由布市</a></p></td>
 <td><p><span style="display:none">20120611</span>2012年6月11日</p></td>
-<td><p>|-[13]</p></td>
+<td><p>|-[14]</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -1056,16 +1056,17 @@ FMドラマシティ</a>★</p></td>
 
 [Category:日本のインターネットラジオ局](https://ja.wikipedia.org/wiki/Category:日本のインターネットラジオ局 "wikilink") [Category:日本のコミュニティ放送局](https://ja.wikipedia.org/wiki/Category:日本のコミュニティ放送局 "wikilink") [Category:Androidのソフトウェア](https://ja.wikipedia.org/wiki/Category:Androidのソフトウェア "wikilink") [Category:IOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:IOSのソフトウェア "wikilink")
 
-1.  ただし参加局の中には現在もミュージックバードの番組をSimulRadioで配信しないところもある。
-2.  [参考記事](http://mobapp.in/fm/index.html)
-3.  [【重要】「サイマルラジオ」web閉鎖に伴う新たなwebラジオのご案内について（web閉鎖は回避されました）](http://www.chofu-fm.com/24271) [調布エフエム放送](../Page/調布エフエム放送.md "wikilink")株式会社
-4.  代表的なものに、「[JCBAインターネットサイマルラジオ](https://ja.wikipedia.org/wiki/JCBAインターネットサイマルラジオ "wikilink")」や「[ListenRadio](https://ja.wikipedia.org/wiki/ListenRadio "wikilink")」がある。
-5.  [【重要】「サイマルラジオ」web閉鎖回避のご案内（第二報）](http://www.chofu-fm.com/24287) 調布エフエム放送株式会社
-6.  本配信に先立ち、2011年7月28日から試験配信を実施。
-7.  かつて独自にネット配信していた。
-8.  2014年9月10日頃より試験放送を実施。
-9.  2015年3月現在、試験放送中。
-10. 2014年11月22日に試験放送。
-11. 2013年3月26日頃より試験放送を実施。
-12. メタファイルはFMしまばらのサーバーにある。
-13. 2014年7月25日までは○。
+1.  [DIGITAL J-WAVE、IPサイマル解禁](https://www.bunkatsushin.com/news/article.aspx?id=176627) 文化通信.com 2020年5月27日
+2.  ただし参加局の中には現在もミュージックバード・J-WAVEの番組をSimulRadioで配信しないところもある。
+3.  [参考記事](http://mobapp.in/fm/index.html)
+4.  [【重要】「サイマルラジオ」web閉鎖に伴う新たなwebラジオのご案内について（web閉鎖は回避されました）](http://www.chofu-fm.com/24271) [調布エフエム放送](../Page/調布エフエム放送.md "wikilink")株式会社
+5.  代表的なものに、「[JCBAインターネットサイマルラジオ](https://ja.wikipedia.org/wiki/JCBAインターネットサイマルラジオ "wikilink")」や「[ListenRadio](https://ja.wikipedia.org/wiki/ListenRadio "wikilink")」がある。
+6.  [【重要】「サイマルラジオ」web閉鎖回避のご案内（第二報）](http://www.chofu-fm.com/24287) 調布エフエム放送株式会社
+7.  本配信に先立ち、2011年7月28日から試験配信を実施。
+8.  かつて独自にネット配信していた。
+9.  2014年9月10日頃より試験放送を実施。
+10. 2015年3月現在、試験放送中。
+11. 2014年11月22日に試験放送。
+12. 2013年3月26日頃より試験放送を実施。
+13. メタファイルはFMしまばらのサーバーにある。
+14. 2014年7月25日までは○。

@@ -39,6 +39,10 @@
   - [東京モノレール羽田空港線](../Page/東京モノレール羽田空港線.md "wikilink")の[路線記号](../Page/駅ナンバリング.md "wikilink")（Tokyo **MO**norail）。
   - [大日本帝国海軍](../Page/大日本帝国海軍.md "wikilink")が[英連邦](../Page/イギリス連邦.md "wikilink")[オーストラリア](../Page/オーストラリア.md "wikilink")領[ニューギニアの](../Page/ニューギニア島.md "wikilink")[ポートモレスビー](../Page/ポートモレスビー.md "wikilink")（Port Moresby）を示すものとして付与した通称および暗号名。
 
+<!-- end list -->
+
+  - 旧[ボーダフォン日本法人における](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")、[モトローラ製携帯電話の型番に付けられる符号](https://ja.wikipedia.org/wiki/モトローラ・モビリティ "wikilink")。
+
 ## 他の記号等を付して用いるもの
 
   - **[.mo](https://ja.wikipedia.org/wiki/.mo "wikilink")** - [マカオ](../Page/マカオ.md "wikilink")の[国別コードトップレベルドメイン](../Page/国別コードトップレベルドメイン.md "wikilink")（ccTLD）

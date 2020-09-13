@@ -222,7 +222,7 @@
 
   - [MANSAKU\!?](http://mansaku.cocolog-nifty.com/blog/) - MANSAKUブログ（上原、川田）Podcastあり
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:過去のアミューズ所属者](https://ja.wikipedia.org/wiki/Category:過去のアミューズ所属者 "wikilink") [Category:テイチクエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:テイチクエンタテインメントのアーティスト "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:日本のポップ・アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・アイドルグループ "wikilink") [Category:過去のアミューズ所属者](https://ja.wikipedia.org/wiki/Category:過去のアミューズ所属者 "wikilink") [Category:アミューズのアイドル](https://ja.wikipedia.org/wiki/Category:アミューズのアイドル "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:テイチクエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:テイチクエンタテインメントのアーティスト "wikilink")
 
 1.  上原、川田、田野は沖縄アクターズスクール大阪校在籍後、キャレスボーカル＆ダンススクール大阪校に移籍
 2.  TBS系『クローンキッド』にて[ガッツ石松](../Page/ガッツ石松.md "wikilink")作詞・[鶴久政治](../Page/鶴久政治.md "wikilink")作曲の「ガッツだぴょん」を歌う。なおこの時期、川田はテレビ東京『[おはスタ](../Page/おはスタ.md "wikilink")』のおはガールグレープの一員としての活動が主だった

@@ -1,7 +1,7 @@
 > この記事は[新機動戦記ガンダムW Endless Waltz](https://ja.wikipedia.org/wiki/新機動戦記ガンダムW_Endless_Waltz)から翻訳されています。
 
 
-『**新機動戦記ガンダムW Endless Waltz**』（しんきどうせんきガンダムウイング エンドレス ワルツ）は、[ガンダムシリーズの](../Page/ガンダムシリーズ一覧.md "wikilink")[OVA](../Page/OVA.md "wikilink")（オリジナルビデオアニメ）で、『[新機動戦記ガンダムW](../Page/新機動戦記ガンダムW.md "wikilink")』の続編および完結編として[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に全3話が制作された。後に再編集され、追加映像を加えた『特別篇』が劇場公開された（後述）。
+『**新機動戦記ガンダムW Endless Waltz**』（しんきどうせんきガンダムウイング エンドレス ワルツ / *NEW MOBILE REPORT GUNDAM-W Endless Waltz*）は、[ガンダムシリーズの](../Page/ガンダムシリーズ一覧.md "wikilink")[OVA](../Page/OVA.md "wikilink")（オリジナルビデオアニメ）。TVアニメ『[新機動戦記ガンダムW](../Page/新機動戦記ガンダムW.md "wikilink")』の続編および完結編として[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に全3話が制作された。後に再編集され、追加の新作シーンを加えた[アニメーション映画](../Page/アニメーション映画.md "wikilink")『**新機動戦記ガンダムW Endless Waltz 特別篇**』として全国[松竹](../Page/松竹.md "wikilink")系で劇場公開された（後述）。同時上映は『[機動戦士ガンダム 第08MS小隊 ミラーズ・リポート](../Page/機動戦士ガンダム_第08MS小隊.md "wikilink")』。この2作を合わせてガンダム生誕20周年記念作品とし、『**GUNDAM THE MOVIE（ガンダム・ザ・ムービー）**』と銘打たれている。略称は「Endless Waltz」の頭文字を取った『**EW**』など。
 
 ## 作品概要
 
@@ -11,7 +11,7 @@
 
 ## 物語
 
-かつての戦いから1年。全ての武力を放棄して平和への道を進む世界に対し、トレーズ・クシュリナーダの実子を名乗る少女マリーメイアを頂く、コロニー組織の黒幕であったバートン一族が地球圏支配を狙って「真の」オペレーション・メテオを再び画策。彼らは、放棄されたはずのMS[リーオー](../Page/リーオー.md "wikilink")他旧式戦力に新型MS[サーペントを加えての武力侵攻と](https://ja.wikipedia.org/wiki/アフターコロニーの機動兵器#サーペント "wikilink")、平和の象徴でもあるリリーナ・ドーリアンを拉致し、地球圏へ宣戦布告を行った。
+A.C.196年。かつての戦いから1年。全ての武力を放棄して平和への道を進む世界に対し、トレーズ・クシュリナーダの実子を名乗る少女マリーメイアを頂く、コロニー組織の黒幕であったバートン一族が地球圏支配を狙って「真の」オペレーション・メテオを再び画策。彼らは、放棄されたはずのMS[リーオー](../Page/リーオー.md "wikilink")他旧式戦力に新型MS[サーペントを加えての武力侵攻と](https://ja.wikipedia.org/wiki/アフターコロニーの機動兵器#サーペント "wikilink")、平和の象徴でもあるリリーナ・ドーリアンを拉致し、地球圏へ宣戦布告を行った。
 
 特務機関プリベンターを組織して、亡きトレーズの意思を継ぎ地球圏の平和維持に当たっていたレディはノインやポォと共に事態の収拾を図るが、対応に追われていたレディの前に「火消しの風・ウインド」を名乗るゼクスが現れ、プリベンターとして活動する権限と封印されたトールギスIIIを貸し与えるように願い出た。そして同じく、マリーメイア軍の暴挙に対抗すべくヒイロとデュオも行動を開始し、カトルも先の戦いの終結後、太陽に向けて飛ばすことで廃棄予定であったガンダムの封印を解く。しかしその前に立ちはだかったのはマリーメイアの軍門に下ったトロワ、そしてガンダムパイロットの中でただ1人ガンダムを手放していなかった五飛だった。マリーメイア側についた五飛は、1年前にあれほどの戦火を体験したにもかかわらず、何も変わらない人々に業を煮やし、自らもトレーズとの決着と、戦いそのものへのこだわりから抜け出せないでいた。
 
@@ -37,17 +37,27 @@
 
 ## 登場兵器
 
-  - XXXG-00W0 [ウイングガンダムゼロ](https://ja.wikipedia.org/wiki/ウイングガンダムゼロ#Endless_Waltz版 "wikilink")（EW版）
-  - XXXG-01D2 [ガンダムデスサイズヘル](https://ja.wikipedia.org/wiki/ガンダムデスサイズ#ガンダムデスサイズヘル_\(Endless_Waltz版\) "wikilink")（EW版）
-  - XXXG-01H2 [ガンダムヘビーアームズ改](https://ja.wikipedia.org/wiki/ガンダムヘビーアームズ#ガンダムヘビーアームズ改_\(Endless_Waltz版\) "wikilink")（EW版）
-  - XXXG-01SR2 [ガンダムサンドロック改](https://ja.wikipedia.org/wiki/ガンダムサンドロック#ガンダムサンドロック改_\(Endless_Waltz版\) "wikilink")（EW版）
-  - XXXG-01S2 [アルトロンガンダム](https://ja.wikipedia.org/wiki/シェンロンガンダム#アルトロンガンダム_\(Endless_Waltz版\) "wikilink")（ガンダムナタク）
+  - XXXG-00W0 [ウイングガンダムゼロ](https://ja.wikipedia.org/wiki/ウイングガンダムゼロ#ウイングガンダムゼロ_\(Endless_Waltz版\) "wikilink")（EW版）
+  - XXXG-01D2 [ガンダムデスサイズヘル](https://ja.wikipedia.org/wiki/ガンダムデスサイズ#Endless_Waltz版_\(デスサイズヘル\) "wikilink")（EW版）
+  - XXXG-01H2 [ガンダムヘビーアームズ改](https://ja.wikipedia.org/wiki/ガンダムヘビーアームズ#Endless_Waltz版_\(ヘビーアームズ改\) "wikilink")（EW版）
+  - XXXG-01SR2 [ガンダムサンドロック改](https://ja.wikipedia.org/wiki/ガンダムサンドロック#Endless_Waltz版_\(サンドロック改\) "wikilink")（EW版）
+  - XXXG-01S2 [アルトロンガンダム](https://ja.wikipedia.org/wiki/シェンロンガンダム#Endless_Waltz版_\(アルトロン\) "wikilink")（ガンダムナタク）
   - MMS-01 [サーペント](https://ja.wikipedia.org/wiki/アフターコロニーの機動兵器#サーペント "wikilink")
   - OZ-00MS2B [トールギスIII](https://ja.wikipedia.org/wiki/トールギス#トールギスIII "wikilink")
 
+## 劇場版
+
+OVA版のヒットを受けてOVA版全3話を劇場公開用に再編集し、OVAでは無かった新作カットを多数挿入して[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月1日](../Page/8月1日.md "wikilink")に劇場版『新機動戦記ガンダムW Endless Waltz 特別篇』（しんきどうせんきガンダムウイング エンドレス ワルツ とくべつへん）として全国公開。
+
+特別前売券として、『ガンダムW』からヒイロ、デュオ、トロワ、カトル、五飛の各5種と『第08MS小隊』からシローの1種の全6種類から選べる長さ140cmのタペストリーの付いた前売りチケットが、「チケタペ」として各2,800円で発売された。『ガンダムW』のタペストリーのみ並べると絵が繋がって見える仕様になっている。
+
+また劇場公開日当日はガンダム20周年記念イベント『ガンダムビッグバン宣言』がパシフィコ横浜で開催され、上映映画館とこのイベント限定で1/144HGウイングガンダムゼロ（クリアー版）が販売された\[2\]。 CS放送局はもちろんのこと、『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』や『[機動戦士ガンダム00](https://ja.wikipedia.org/wiki/機動戦士ガンダム00 "wikilink")』の放送開始に合わせ、[毎日放送](../Page/毎日放送.md "wikilink")（関西ローカル）でも繰り返しオンエアされた。
+
+2020年1月10日より機動戦士ガンダム40周年プロジェクト『ガンダム映像新体験TOUR』として特別篇がTCX（TOHO独自企画ラージスクリーン）で劇場上映\[3\]。
+
 ## スタッフ
 
-### OVA版スタッフ
+### OVA版
 
   - [企画](https://ja.wikipedia.org/wiki/企画 "wikilink") - [サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")
   - [原作](../Page/原作.md "wikilink") - [矢立肇](../Page/矢立肇.md "wikilink")、[富野由悠季](../Page/富野由悠季.md "wikilink")（「[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")」より）
@@ -56,14 +66,14 @@
   - 衣装デザイン協力 - [出渕裕](../Page/出渕裕.md "wikilink")
   - [美術監督](../Page/美術監督.md "wikilink") - [佐藤勝](../Page/佐藤勝.md "wikilink")
   - 美術設定 - 平沢晃弘
-  - [色彩設計](https://ja.wikipedia.org/wiki/色彩設計 "wikilink") - 池さゆり、[片山由美子](../Page/片山由美子.md "wikilink")\[2\]
+  - [色彩設計](https://ja.wikipedia.org/wiki/色彩設計 "wikilink") - 池さゆり、[片山由美子](../Page/片山由美子.md "wikilink")\[4\]
   - [撮影監督](../Page/撮影監督.md "wikilink") - 大神洋一
   - [編集](../Page/編集.md "wikilink") - 辺見俊夫、山森重之、[ジェイ・フィルム](../Page/ジェイ・フィルム.md "wikilink")
   - [音響監督](../Page/音響監督.md "wikilink") - [浦上靖夫](../Page/浦上靖夫.md "wikilink")
   - [音楽](../Page/劇伴.md "wikilink") - [大谷幸](../Page/大谷幸.md "wikilink")
   - [監督](https://ja.wikipedia.org/wiki/アニメ監督 "wikilink") - [青木康直](../Page/青木康直.md "wikilink")
 
-### 劇場版スタッフ
+### 劇場版
 
   - 企画・[製作](https://ja.wikipedia.org/wiki/製作 "wikilink") - 株式会社 サンライズ
   - 製作 - 吉井孝幸
@@ -163,25 +173,43 @@
 </tbody>
 </table>
 
+## 映像ソフト
+
+バンダイビジュアル株式会社より発売。
+
+### OVA
+
+#### DVD
+
+**『新機動戦記ガンダムW Endless Waltz**』 ([2007年](../Page/2007年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")発売)
+
+HDリマスター版\[5\]。全3話収録。
+
+#### Blu-ray
+
+『**新機動戦記ガンダムＷ Endless Waltz　Blu-ray Box（特装限定版）**』([2017年](../Page/2017年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")発売)
+
+OVA全3話とテレビシリーズ総集編を収録\[6\]。
+
 ## 関連作品
 
-### 劇場版
+### 漫画
 
-OVA版のヒットを受けてOVA版全3話を劇場公開用に再編集し、OVAでは無かった新作カットを多数挿入して[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月1日](../Page/8月1日.md "wikilink")に劇場版『**新機動戦記ガンダムW Endless Waltz 特別篇**』（しんきどうせんきガンダムウイング エンドレス ワルツ とくべつへん）として全国[松竹](../Page/松竹.md "wikilink")系映画館で公開。『[機動戦士ガンダム 第08MS小隊 ミラーズ・リポート](../Page/機動戦士ガンダム_第08MS小隊.md "wikilink")』と同時上映された。
+**新機動戦記ガンダムW エンドレスワルツ** 劇場版の公開に合わせて、[ときた洸一](../Page/ときた洸一.md "wikilink")の作画で[コミックボンボン](../Page/コミックボンボン.md "wikilink")1998年4月号-8月号に連載。『[新機動戦記ガンダムW BATTLEFIELD OF PACIFIST](../Page/新機動戦記ガンダムW_BATTLEFIELD_OF_PACIFIST.md "wikilink")』のオリジナル設定に言及する場面があり、厳密には『BATTLEFIELD OF PACIFIST』の続編になっている。単行本は全1巻。
 
-この2作を合わせてガンダム生誕20周年記念作品とし『**GUNDAM THE MOVIE（ガンダム・ザ・ムービー）**』と銘打たれている。特別前売券として、『ガンダムW』からヒイロ、デュオ、トロワ、カトル、五飛の各5種と『第08MS小隊』からシローの1種の全6種類から選べる長さ140cmのタペストリーの付いた前売りチケットが、「チケタペ」として各2,800円で発売された。『ガンダムW』のタペストリーのみ並べると絵が繋がって見える仕様になっている。
+**単行本**
 
-また劇場公開日当日はガンダム20周年記念イベント『ガンダムビッグバン宣言』がパシフィコ横浜で開催され、上映映画館とこのイベント限定で1/144HGウイングガンダムゼロ（クリアー版）が販売された\[3\]。 CS放送局はもちろんのこと、『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』や『[機動戦士ガンダム00](https://ja.wikipedia.org/wiki/機動戦士ガンダム00 "wikilink")』の放送開始に合わせ、[毎日放送](../Page/毎日放送.md "wikilink")（関西ローカル）でも繰り返しオンエアされた。
+  - 講談社、1998年8月4日発行、ISBN 978-4-06-321847-3\[7\]
 
-2020年1月10日より機動戦士ガンダム40周年プロジェクト『ガンダム映像新体験TOUR』として特別篇がTCX（TOHO独自企画ラージスクリーン）で劇場上映\[4\]。
+**新機動戦記ガンダムW episode Zero** [かんべあきら](https://ja.wikipedia.org/wiki/かんべあきら "wikilink")作、[月刊アニメV](https://ja.wikipedia.org/wiki/月刊アニメV "wikilink")（[月刊アニメディア](https://ja.wikipedia.org/wiki/月刊アニメディア "wikilink")増刊）連載の漫画。時系列はテレビシリーズより前を描いた作品だが、巻末に『Endless Waltz』の後日談である『PREVENTER 5（サンク）』が掲載されている。
 
-### 漫画版
+**単行本**
 
-劇場版の公開に合わせて、[ときた洸一](../Page/ときた洸一.md "wikilink")の作画で[コミックボンボン](../Page/コミックボンボン.md "wikilink")に連載。『[新機動戦記ガンダムW BATTLEFIELD OF PACIFIST](../Page/新機動戦記ガンダムW_BATTLEFIELD_OF_PACIFIST.md "wikilink")』のオリジナル設定に言及する場面があり、厳密には『BATTLEFIELD OF PACIFIST』の続編になっている。
+  - 学研プラス、1997年7月26日発行、ISBN 978-4056017106
 
-### 小説版
+### 小説
 
-本作の脚本を担当した隅沢克之によるノベライズ作品。講談社から新書版で出ていたが、2007年10月に[角川スニーカー文庫](https://ja.wikipedia.org/wiki/角川スニーカー文庫 "wikilink")で加筆・訂正の上文庫化された。テレビ版で設定が起こされながら描かれることがなかった各主要人物の過去（デュオ・マックスウェルの名前の由来、五飛が自身の機体を「ナタク」と呼ぶ理由、カトルとマグアナック隊の出会いなど）が語られており、新機動戦記ガンダムW EPISODE ZEROで漫画化されている。 また、『[新機動戦記ガンダムW BLIND TARGET](../Page/新機動戦記ガンダムW_BLIND_TARGET.md "wikilink")』と『新機動戦記ガンダムW BATTLEFIELD OF PACIFIST』の出来事についても言及されている。
+**新機動戦記ガンダムW Endless Waltz** 本作の脚本を担当した隅沢克之によるノベライズ作品。講談社から新書版で出ていたが、2007年10月に[角川スニーカー文庫](https://ja.wikipedia.org/wiki/角川スニーカー文庫 "wikilink")で加筆・訂正の上文庫化された。テレビ版で設定が起こされながら描かれることがなかった各主要人物の過去（デュオ・マックスウェルの名前の由来、五飛が自身の機体を「ナタク」と呼ぶ理由、カトルとマグアナック隊の出会いなど）が語られており、新機動戦記ガンダムW EPISODE ZEROで漫画化されている。 また、『[新機動戦記ガンダムW BLIND TARGET](../Page/新機動戦記ガンダムW_BLIND_TARGET.md "wikilink")』と『新機動戦記ガンダムW BATTLEFIELD OF PACIFIST』の出来事についても言及されている。
 
   -
     『新機動戦記ガンダムW Endless Waltz 上巻』 ISBN 4-06-330405-1 [講談社](../Page/講談社.md "wikilink") 1997年4月
@@ -201,15 +229,20 @@ OVA版のヒットを受けてOVA版全3話を劇場公開用に再編集し、O
 
   - [サンライズ公式Web](http://www.sunrise-inc.co.jp/works/list/detail.php?cid=89)
 
+  - [新機動戦記ガンダムW Endless Waltz／新機動戦記ガンダムW Endless Waltz 特別篇 - GUNDAM.INFO](https://www.gundam.info/special-series/gundam-works/special-series_gundam-works_20110128_524p.html)
+
   - [新機動戦記ガンダムW Endless Waltz](http://www.gundam-w.jp/endless_waltz/staffcast/)
 
   -
   -
   -
   -
-[Category:ガンダムシリーズのOVA](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズのOVA "wikilink") [Category:アフターコロニー](https://ja.wikipedia.org/wiki/Category:アフターコロニー "wikilink") [Category:アニメ作品_し](https://ja.wikipedia.org/wiki/Category:アニメ作品_し "wikilink") [Category:1997年のOVA](https://ja.wikipedia.org/wiki/Category:1997年のOVA "wikilink") [Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:コミックボンボン](https://ja.wikipedia.org/wiki/Category:コミックボンボン "wikilink") [Category:スーパーロボット大戦シリーズの参戦作品](https://ja.wikipedia.org/wiki/Category:スーパーロボット大戦シリーズの参戦作品 "wikilink")
+[Category:ガンダムシリーズ](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズ "wikilink") [Category:ガンダムシリーズのOVA](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズのOVA "wikilink") [Category:アフターコロニー](https://ja.wikipedia.org/wiki/Category:アフターコロニー "wikilink") [Category:アニメ作品_し](https://ja.wikipedia.org/wiki/Category:アニメ作品_し "wikilink") [Category:1997年のOVA](https://ja.wikipedia.org/wiki/Category:1997年のOVA "wikilink") [Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:1998年の漫画](https://ja.wikipedia.org/wiki/Category:1998年の漫画 "wikilink") [Category:コミックボンボン](https://ja.wikipedia.org/wiki/Category:コミックボンボン "wikilink") [Category:講談社の漫画](https://ja.wikipedia.org/wiki/Category:講談社の漫画 "wikilink") [Category:ガンダムシリーズのアニメ映画](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズのアニメ映画 "wikilink") [Category:巨大ロボットを題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたアニメ映画 "wikilink") [Category:1998年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1998年のアニメ映画 "wikilink") [Category:松竹のアニメ映画](https://ja.wikipedia.org/wiki/Category:松竹のアニメ映画 "wikilink") [Category:ガンダムシリーズ小説作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズ小説作品 "wikilink") [Category:巨大ロボットを題材とした小説](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材とした小説 "wikilink") [Category:1997年の小説](https://ja.wikipedia.org/wiki/Category:1997年の小説 "wikilink") [Category:角川スニーカー文庫](https://ja.wikipedia.org/wiki/Category:角川スニーカー文庫 "wikilink") [Category:スーパーロボット大戦シリーズの参戦作品](https://ja.wikipedia.org/wiki/Category:スーパーロボット大戦シリーズの参戦作品 "wikilink")
 
 1.  劇場版のみ登場。
-2.  第3話のみ。
-3.  イベントは2回行われたが、前売り全席指定にも関わらず1回目の来場者にプラモデルを全部売ってしまい、劇場に行かず2回目に参加した人が全く買えないアクシデントが発生した。この事について富野由悠季が謝罪する場面があった。
-4.  [「ガンダム映像新体験TOUR」TCXで実施決定！DOLBY CINEMAでの上映日も公開！](https://www.gundam.info/news/event/news_event_20191112_03.html)2019年11月①4日 機動戦士ガンダム40周年プロジェクト
+2.  イベントは2回行われたが、前売り全席指定にも関わらず1回目の来場者にプラモデルを全部売ってしまい、劇場に行かず2回目に参加した人が全く買えないアクシデントが発生した。この事について富野由悠季が謝罪する場面があった。
+3.  [「ガンダム映像新体験TOUR」TCXで実施決定！DOLBY CINEMAでの上映日も公開！](https://www.gundam.info/news/event/news_event_20191112_03.html)2019年11月①4日 機動戦士ガンダム40周年プロジェクト
+4.  第3話のみ。
+5.
+6.
+7.

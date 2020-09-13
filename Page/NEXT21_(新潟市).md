@@ -145,8 +145,8 @@ BRT[萬代橋ライン](https://ja.wikipedia.org/wiki/萬代橋ライン "wikili
 8.  [市長発言集 平成23年7月1日 なかなか古町新事務所開所式](http://warp.da.ndl.go.jp/info:ndljp/pid/10205551/www.city.niigata.lg.jp/shisei/mayor/shichohatsugen/h23hatsugen/230701.html) - 新潟市 - WARP
 9.  [グランドメゾン西堀通タワー](https://www.sekisuihouse.co.jp/company/newsobj865.html) - 積水ハウス
 10. [空港周辺における建物等設置の制限](http://www.cab.mlit.go.jp/tcab/img/information/index_02_img/niigata.pdf)（[国土交通省](../Page/国土交通省.md "wikilink")東京航空局）
-11. \[<https://www.nikkei.com/article/DGXMZO21830140T01C17A0L21000/>　新潟・古町の人出じわり回復　区役所移転で\] - 日本経済新聞.2017年10月4日付。
-12. \[<http://www.sankeibiz.jp/business/news/180926/bsd1809262315014-n1.htm>　新潟三越、32年に閉鎖　「避けられない決断」無念の社長\] - SankeiBiz.2018年9月26日付。
+11.
+12.
 13. [タイムズNEXT21（基本情報）](https://times-info.net/P15-niigata/C103/park-detail-BUK0040958/) - タイムズ Parking Information.2019年3月13日閲覧。
 14.
 15.

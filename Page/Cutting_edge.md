@@ -1,7 +1,7 @@
 > この記事は[Cutting edge](https://ja.wikipedia.org/wiki/Cutting_edge)から翻訳されています。
 
 
-**cutting edge**（カッティング・エッジ）は、[エイベックス・エンタテインメント](../Page/エイベックス・エンタテインメント.md "wikilink")の[レコードレーベル](../Page/レコードレーベル.md "wikilink")。
+**cutting edge**（カッティング・エッジ）は、[エイベックス・エンタテインメント](../Page/エイベックス・エンタテインメント.md "wikilink")の[レコードレーベル](../Page/レコードレーベル.md "wikilink")。cutting edge内には**motorod**や**avex ideak**などのレーベルも作られた。
 
 ## 歴史
 
@@ -9,14 +9,12 @@
 
 主にメディアやテレビ出演をあまり行わないアーティストやバンドが所属している。
 
-cutting edge内に[motorod](https://ja.wikipedia.org/wiki/motorod "wikilink")や[avex ideakなどのレーベルも作られた](https://ja.wikipedia.org/wiki/avex_ideak "wikilink")。
-
 ## cutting edgeレーベルのアーティスト
 
 <table>
 <thead>
 <tr class="header">
-<th><p>アーティスト面</p></th>
+<th><p>アーティスト名</p></th>
 <th><p>読み</p></th>
 <th><p>所属期間</p></th>
 <th><p>備考</p></th>
@@ -61,66 +59,72 @@ cutting edge内に[motorod](https://ja.wikipedia.org/wiki/motorod "wikilink")や
 <td><p>APRILRECORDSより移籍</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/戸渡陽太" title="wikilink">戸渡陽太</a></p></td>
-<td><p>とわたりようた</p></td>
-<td><p>2016年〜</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/MONDO_GROSSO.md" title="wikilink">MONDO GROSSO</a></p></td>
-<td><p>モンドグロッソ</p></td>
-<td><p>2017年〜</p></td>
-<td><p>14年ぶりに活動再開</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/SWANKY_DANK.md" title="wikilink">SWANKY DANK</a></p></td>
-<td><p>スワンキーダンク</p></td>
-<td><p>2017年〜</p></td>
-<td><p>アコースティック形態の「SWANKY OCEAN ACOUSTIX」は<a href="https://ja.wikipedia.org/wiki/avex_trax" title="wikilink">avex traxより発売</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/jan_and_naomi" title="wikilink">jan and naomi</a></p></td>
-<td><p>ジャンアンドナオミ</p></td>
-<td><p>2018年〜</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/ANARCHY.md" title="wikilink">ANARCHY</a></p></td>
-<td><p>アナーキー</p></td>
-<td><p>2019年〜</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/伊藤ふみお" title="wikilink">伊藤ふみお</a></p></td>
-<td><p>いとうふみお</p></td>
-<td><p>2019年〜</p></td>
-<td><p><a href="../Page/Kemuri.md" title="wikilink">KEMURIのボーカリスト</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/waterweed" title="wikilink">waterweed</a></p></td>
-<td><p>ウォーターウィード</p></td>
-<td><p>2019年〜</p></td>
-<td><p>MAXIMUM10との共同発売</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/NOT_WONK" title="wikilink">NOT WONK</a></p></td>
-<td><p>ノットウォンク</p></td>
-<td><p>2019年〜</p></td>
-<td><p>KiliKiliVillaより移籍</p></td>
-</tr>
-<tr class="odd">
-<td><p>[[betcover</p></td>
-<td><p>|betcover</p></td>
-<td><p>]]</p></td>
-<td><p>ベットカバー</p></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/シシド・カフカ" title="wikilink">シシド・カフカ</a></p></td>
 <td><p>ししど　かふか</p></td>
 <td><p>2014年～</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/戸渡陽太" title="wikilink">戸渡陽太</a></p></td>
+<td><p>とわたりようた</p></td>
+<td><p>2016年〜</p></td>
+<td></td>
+</tr>
 <tr class="odd">
+<td><p><a href="../Page/MONDO_GROSSO.md" title="wikilink">MONDO GROSSO</a></p></td>
+<td><p>モンドグロッソ</p></td>
+<td><p>2017年〜</p></td>
+<td><p>14年ぶりに活動再開</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/SWANKY_DANK.md" title="wikilink">SWANKY DANK</a></p></td>
+<td><p>スワンキーダンク</p></td>
+<td><p>2017年〜</p></td>
+<td><p>アコースティック形態の「SWANKY OCEAN ACOUSTIX」は<a href="https://ja.wikipedia.org/wiki/avex_trax" title="wikilink">avex traxより発売</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/jan_and_naomi" title="wikilink">jan and naomi</a></p></td>
+<td><p>ジャンアンドナオミ</p></td>
+<td><p>2018年〜</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/ANARCHY.md" title="wikilink">ANARCHY</a></p></td>
+<td><p>アナーキー</p></td>
+<td><p>2019年〜</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/伊藤ふみお" title="wikilink">伊藤ふみお</a></p></td>
+<td><p>いとうふみお</p></td>
+<td><p>2019年〜</p></td>
+<td><p><a href="../Page/Kemuri.md" title="wikilink">KEMURIのボーカリスト</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/waterweed" title="wikilink">waterweed</a></p></td>
+<td><p>ウォーターウィード</p></td>
+<td><p>2019年〜</p></td>
+<td><p>MAXIMUM10との共同発売</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/NOT_WONK" title="wikilink">NOT WONK</a></p></td>
+<td><p>ノットウォンク</p></td>
+<td><p>2019年〜</p></td>
+<td><p>KiliKiliVillaより移籍</p></td>
+</tr>
+<tr class="even">
+<td><p>[[betcover</p></td>
+<td><p>|betcover</p></td>
+<td><p>]]</p></td>
+<td><p>ベットカバー</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/tricot" title="wikilink">tricot</a></p></td>
+<td><p>トリコ</p></td>
+<td><p>2019年～</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -271,7 +275,7 @@ cutting edge内に[motorod](https://ja.wikipedia.org/wiki/motorod "wikilink")や
 
   - [BASS PATROL\!](https://ja.wikipedia.org/wiki/BASS_PATROL! "wikilink")（コンピレーション） (1994年〜1999年)
   - [EUROBEAT FLASH](../Page/EUROBEAT_FLASH.md "wikilink")（コンピレーション） (1996年〜1999年)
-  - [EUROMACH](https://ja.wikipedia.org/wiki/EUROMACH "wikilink")（コンピレーション、Vol.10以降は[avex traxよりリリース](https://ja.wikipedia.org/wiki/avex_trax "wikilink")） (1999年〜2001年)
+  - [EUROMACH](../Page/EUROMACH.md "wikilink")（コンピレーション、Vol.10以降は[avex traxよりリリース](https://ja.wikipedia.org/wiki/avex_trax "wikilink")） (1999年〜2001年)
 
 <div class="NavFrame" style="clear:both;border:0;">
 

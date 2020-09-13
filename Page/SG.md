@@ -31,6 +31,7 @@ __NOTOC__ **SG**, **Sg**, **sg**
   - [三文ゴシップ](https://ja.wikipedia.org/wiki/三文ゴシップ "wikilink")(Sambun Gossip)。[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")の4枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。
   - [東急電鉄](https://ja.wikipedia.org/wiki/東急電鉄 "wikilink")の[駅ナンバリング](../Page/駅ナンバリング.md "wikilink")で、[世田谷線を表す記号](https://ja.wikipedia.org/wiki/東急世田谷線 "wikilink")。
   - [湘南ゴールド](../Page/湘南ゴールド.md "wikilink")()柑橘類
+  - SG Group - [後閑信吾](https://ja.wikipedia.org/wiki/後閑信吾 "wikilink")が率いるバーテンダー集団で、国内外でバーを中心とした飲食店を企画・開発する会社。
 
 ## Sg
 

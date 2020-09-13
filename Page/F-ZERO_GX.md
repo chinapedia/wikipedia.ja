@@ -214,6 +214,6 @@ AXとの連動もしくは一定条件を満たすとタイムアタックや対
 
 ## 脚注
 
-[Category:2003年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2003年のコンピュータゲーム "wikilink") [Category:F-ZERO](https://ja.wikipedia.org/wiki/Category:F-ZERO "wikilink") [Category:ゲームキューブ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームキューブ用ソフト "wikilink")
+[Category:2003年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2003年のコンピュータゲーム "wikilink") [Category:F-ZERO](https://ja.wikipedia.org/wiki/Category:F-ZERO "wikilink") [Category:ゲームキューブ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームキューブ用ソフト "wikilink") [Category:セガのゲームソフト](https://ja.wikipedia.org/wiki/Category:セガのゲームソフト "wikilink")
 
 1.  隠しBGMのカバー版は原曲を尊重してロック調でアレンジ。また、サウンドトラックでは別の曲調でもアレンジされている。

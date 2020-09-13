@@ -17,7 +17,7 @@
   - 鉄道：[仙台駅](../Page/仙台駅.md "wikilink") - [新潟駅](https://ja.wikipedia.org/wiki/新潟駅 "wikilink")
       - 「[べにばな (列車)\#沿革](https://ja.wikipedia.org/wiki/べにばな_\(列車\)#沿革 "wikilink")」参照
 
-航空路線は、1981年（昭和56年）の新潟空港の年間乗降客数の5位が[仙台便](../Page/仙台空港.md "wikilink")（5.0万人）\[1\]であり、一定の需要があった\[2\]。1982年（昭和57年）に[東北新幹線](https://ja.wikipedia.org/wiki/東北新幹線 "wikilink")および[上越新幹線](https://ja.wikipedia.org/wiki/上越新幹線 "wikilink")の両線がともに[大宮駅以北で開業したが](https://ja.wikipedia.org/wiki/大宮駅_\(埼玉県\) "wikilink")、新潟 - 仙台便は継続された\[3\]\[4\]。これは、当時の両新幹線の[最高速度が](https://ja.wikipedia.org/wiki/新幹線#定義 "wikilink")210[km/hだったため](../Page/キロメートル毎時.md "wikilink")、仙台駅 - 大宮駅間が最速1時間59分（2016年現在：最速1時間07分、最高速度320km/h）、新潟駅 - 大宮駅間が最速1時間45分（2016年現在：最速1時間15分、最高速度240km/h）であり、空港までの時間や待ち時間を入れると実質的に3時間程度である新潟 - 仙台便より所要時間が長かったためである。しかし、両新幹線で増発が続き、最高速度も240km/hに引き上げられるなどする中、1987年（昭和62年）の新潟 - 仙台便の年間乗降客数は2.7万人\[5\]と、6年前の半分近くにまで減少\[6\]。結局、[バブル崩壊](../Page/バブル崩壊.md "wikilink")後に廃止に至った。
+航空路線は、1981年（昭和56年）の新潟空港の年間乗降客数の5位が[仙台便](../Page/仙台空港.md "wikilink")（5.0万人）\[1\] であり、一定の需要があった\[2\]。1982年（昭和57年）に[東北新幹線](https://ja.wikipedia.org/wiki/東北新幹線 "wikilink")および[上越新幹線](https://ja.wikipedia.org/wiki/上越新幹線 "wikilink")の両線がともに[大宮駅以北で開業したが](https://ja.wikipedia.org/wiki/大宮駅_\(埼玉県\) "wikilink")、新潟 - 仙台便は継続された\[3\]\[4\]。これは、当時の両新幹線の[最高速度が](https://ja.wikipedia.org/wiki/新幹線#定義 "wikilink")210[km/hだったため](../Page/キロメートル毎時.md "wikilink")、仙台駅 - 大宮駅間が最速1時間59分（2016年現在：最速1時間07分、最高速度320km/h）、新潟駅 - 大宮駅間が最速1時間45分（2016年現在：最速1時間15分、最高速度240km/h）であり、空港までの時間や待ち時間を入れると実質的に3時間程度である新潟 - 仙台便より所要時間が長かったためである。しかし、両新幹線で増発が続き、最高速度も240km/hに引き上げられるなどする中、1987年（昭和62年）の新潟 - 仙台便の年間乗降客数は2.7万人\[5\] と、6年前の半分近くにまで減少\[6\]。結局、[バブル崩壊](../Page/バブル崩壊.md "wikilink")後に廃止に至った。
 
 一方の直通急行は、所要時間で新幹線（大宮乗り継ぎ）に勝てず、[山形新幹線](../Page/山形新幹線.md "wikilink")の工事進捗もあり、米沢 - 山形 - 仙台間は段階的に廃止され、快速に格下げされた。その後は新幹線か在来線を乗り継がなければならなかった。
 
@@ -58,7 +58,7 @@
 <td><p><small style="font-size:0.7em"><a href="https://ja.wikipedia.org/wiki/宮城県" title="wikilink">宮城県</a></p></td>
 <td><p><small style="font-size:0.7em"><a href="../Page/仙台市.md" title="wikilink">仙台市</a></p></td>
 <td><p><small style="font-size:0.7em"><a href="../Page/宮城野区.md" title="wikilink">宮城野区</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/仙台駅バスのりば#仙台駅東口" title="wikilink">仙台駅東口</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/仙台駅のバス乗り場#仙台駅東口" title="wikilink">仙台駅東口</a></p></td>
 </tr>
 <tr class="even">
 <td><p><small style="font-size:0.7em"><a href="../Page/青葉区_(仙台市).md" title="wikilink">青葉区</a></p></td>
@@ -123,14 +123,14 @@
 
 ### 現在
 
-  - 新潟行（） ： [仙台駅](../Page/仙台駅.md "wikilink")[東口バスプール](https://ja.wikipedia.org/wiki/仙台駅バスのりば#東口バスプール "wikilink") - [国道48号](../Page/国道48号.md "wikilink")[仙台西道路](../Page/仙台西道路.md "wikilink") - （[仙台宮城IC](../Page/仙台宮城インターチェンジ.md "wikilink")） - [東北自動車道](../Page/東北自動車道.md "wikilink") - （[郡山JCT](../Page/郡山ジャンクション.md "wikilink")） - [磐越自動車道](../Page/磐越自動車道.md "wikilink") - （[新潟中央JCT](../Page/新潟中央ジャンクション.md "wikilink")） - [日本海東北自動車道](../Page/日本海東北自動車道.md "wikilink") - （[新潟亀田IC](../Page/新潟亀田インターチェンジ.md "wikilink")） - [国道49号](../Page/国道49号.md "wikilink")[亀田バイパス](../Page/亀田バイパス.md "wikilink") - [国道7号](../Page/国道7号.md "wikilink")[栗ノ木バイパス](../Page/栗ノ木バイパス.md "wikilink")・明石通 - [新潟県道33号新潟停車場線](../Page/新潟県道33号新潟停車場線.md "wikilink") - [国道7号](../Page/国道7号.md "wikilink")
+  - 新潟行（） ： [仙台駅](../Page/仙台駅.md "wikilink")[東口バスプール](https://ja.wikipedia.org/wiki/仙台駅のバス乗り場#東口バスプール "wikilink") - [国道48号](../Page/国道48号.md "wikilink")[仙台西道路](../Page/仙台西道路.md "wikilink") - （[仙台宮城IC](../Page/仙台宮城インターチェンジ.md "wikilink")） - [東北自動車道](../Page/東北自動車道.md "wikilink") - （[郡山JCT](../Page/郡山ジャンクション.md "wikilink")） - [磐越自動車道](../Page/磐越自動車道.md "wikilink") - （[新潟中央JCT](../Page/新潟中央ジャンクション.md "wikilink")） - [日本海東北自動車道](../Page/日本海東北自動車道.md "wikilink") - （[新潟亀田IC](../Page/新潟亀田インターチェンジ.md "wikilink")） - [国道49号](../Page/国道49号.md "wikilink")[亀田バイパス](../Page/亀田バイパス.md "wikilink") - [国道7号](../Page/国道7号.md "wikilink")[栗ノ木バイパス](../Page/栗ノ木バイパス.md "wikilink")・明石通 - [新潟県道33号新潟停車場線](../Page/新潟県道33号新潟停車場線.md "wikilink") - [国道7号](../Page/国道7号.md "wikilink")
   - 仙台行 ： 新潟行の逆経路（但し、万代シテイバスセンター - 新潟駅前の経路は往復で異なる）
 
 なお、[GW](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")・[お盆](../Page/お盆.md "wikilink")など東北自動車道の[渋滞](../Page/渋滞.md "wikilink")が予想される時や通行止めとなった場合は、郡山JCTを経由せず[国道115号](../Page/国道115号.md "wikilink")[土湯バイパス](../Page/土湯バイパス.md "wikilink")を経由したり、下記の旧経路（但し、[荒川胎内IC以南は](../Page/荒川胎内インターチェンジ.md "wikilink")[日本海東北自動車道](../Page/日本海東北自動車道.md "wikilink")経由）で迂回運行する事がある。
 
 ### 1997年10月1日まで
 
-仙台駅東口 - （[国道286号](../Page/国道286号.md "wikilink")） - （[仙台南IC](../Page/仙台南インターチェンジ.md "wikilink")） - （東北自動車道） - （菅生PA） - （[山形自動車道](../Page/山形自動車道.md "wikilink")） - （[国道13号](../Page/国道13号.md "wikilink")） - [小国](../Page/小国駅.md "wikilink")（JRバス東北小国営業所） - （[国道113号](../Page/国道113号.md "wikilink")） - 下関 - （国道7号） - 中条営業所（その後中条営業所移転に伴い、中条町中心部に中条バス停を開設） - 新発田城北町 - （同・[新新バイパス](../Page/新潟バイパス.md "wikilink")） - 新潟駅前 - 万代シテイバスセンター
+仙台駅東口 - （[国道286号](../Page/国道286号.md "wikilink")） - （[仙台南IC](../Page/仙台南インターチェンジ.md "wikilink")） - （東北自動車道） - （菅生PA） - （[山形自動車道](../Page/山形自動車道.md "wikilink")） - （[国道13号](../Page/国道13号.md "wikilink")） - [小国](../Page/小国駅.md "wikilink")（JRバス東北小国営業所） - （[国道113号](../Page/国道113号.md "wikilink")） - 下関 - （国道7号） - 中条営業所（その後中条営業所移転に伴い、中条町中心部に中条バス停を開設） - 新発田城北町 - （同・[新新バイパス](https://ja.wikipedia.org/wiki/新新バイパス "wikilink")） - 新潟駅前 - 万代シテイバスセンター
 
 ## 運行回数
 
@@ -156,7 +156,11 @@
       - [4月1日](../Page/4月1日.md "wikilink") - 運賃改定\[11\]。
       - [7月14日](../Page/7月14日.md "wikilink") - 同日乗車分より季節・運行日毎に変動運賃制（A運賃・B運賃・C運賃）を導入、往復割引を廃止\[12\]。
   - [2019年](../Page/2019年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")元年）[6月21日](../Page/6月21日.md "wikilink") - 運賃改定\[13\]。
-  - [2020年](../Page/2020年.md "wikilink")（令和2年）[4月25日](../Page/4月25日.md "wikilink") - [新型コロナウイルスの影響により](../Page/2019新型コロナウイルス.md "wikilink")、この日より当面の間一部便（5往復。同年[4月29日](../Page/4月29日.md "wikilink")からは6往復）を運休\[14\]。
+  - [2020年](../Page/2020年.md "wikilink")（令和2年）
+      - [4月25日](../Page/4月25日.md "wikilink") - [新型コロナウイルスの影響により](../Page/2019新型コロナウイルス.md "wikilink")、この日より当面の間一部便（5往復。同年[4月29日](../Page/4月29日.md "wikilink")からは6往復）を運休\[14\]。
+      - [6月1日](../Page/6月1日.md "wikilink") - この日より一部便（2往復、新潟交通担当便）の運行を再開\[15\]。
+      - [6月26日](../Page/6月26日.md "wikilink") - この日より一部便（1往復、JRバス東北担当便）の運行を再開\[16\]。
+      - [7月22日](../Page/7月22日.md "wikilink") - この日より一部便（1往復、JRバス東北担当便）の運行を再開\[17\]。
 
 ## 使用車両
 
@@ -164,7 +168,7 @@
 
   - 40人乗りハイデッカー4列シート
   - 29人乗りハイデッカー3列独立シート（夜行便および昼行便1往復）
-      - 昼行便は、仙台発が4便目\[15\]、新潟発が4便目が該当、それぞれの折り返しが夜行便となる。
+      - 昼行便は、仙台発が4便目\[18\]、新潟発が4便目が該当、それぞれの折り返しが夜行便となる。
 
 ### 過去の車両
 
@@ -236,4 +240,7 @@
 12. [【県外高速バス】高速バスがもっと便利に！（東京線・京都大阪線・仙台線）](http://www.niigata-kotsu.co.jp/new/140611kousoku.htm#sendai)（新潟交通 2014年6月2日）
 13.
 14.
-15. 2017年3月31日発車分までは2便目
+15.
+16.
+17.
+18. 2017年3月31日発車分までは2便目

@@ -11,7 +11,7 @@
   - スペシャル (**SP**ecial)。特別・特殊。[特別番組](../Page/特別番組.md "wikilink")など。
   - [セールスプロモーション](https://ja.wikipedia.org/wiki/セールスプロモーション "wikilink") (**S**ales **P**romotion)。[マスコミ以外の媒体による](../Page/マスメディア.md "wikilink")[広告](../Page/広告.md "wikilink")を「**SP広告**」と呼ぶ。
   - [スピーカー](../Page/スピーカー.md "wikilink") (**SP**eaker)
-  - [スポットライト](https://ja.wikipedia.org/wiki/スポットライト "wikilink") (**SP**ot light)
+  - [スポットライト](../Page/スポットライト.md "wikilink") (**SP**ot light)
   - [溶解パラメーター](https://ja.wikipedia.org/wiki/溶解パラメーター "wikilink") (**S**olubility **P**arameter)
   - [副検事](../Page/副検事.md "wikilink") (**S**ub-**P**rosecutor)
   - [SPレコード](../Page/SPレコード.md "wikilink") (**S**tandard **P**laying)

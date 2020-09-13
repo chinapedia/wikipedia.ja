@@ -5,14 +5,13 @@
 
 ## 来歴
 
-[1993年](../Page/1993年.md "wikilink")に大学のジャズ研究会で結成される。1997年に[高橋幸宏](../Page/高橋幸宏.md "wikilink")主催のインディーズレーベル[コンシピオ](https://ja.wikipedia.org/wiki/コンシピオ "wikilink")からデビュー。翌1998年にメジャーデビューする。2002年からゲストボーカルの[Nino](https://ja.wikipedia.org/wiki/Nino "wikilink")を加え、**ROUND TABLE featuring Nino**（ ‐ フィーチャリング・ニノ）名義での活動もしていたが、10周年となる2012年にベストアルバム『SINGLES BEST 2002-2012 MEMORIES』発売をもって「ROUND TABLE featuring Nino」名義での活動休止が宣言された。音楽性はいわゆる[ピチカート・ファイヴ](https://ja.wikipedia.org/wiki/ピチカート・ファイヴ "wikilink")や[フリッパーズ・ギター](../Page/フリッパーズ・ギター.md "wikilink")などに影響を受けた[渋谷系](../Page/渋谷系.md "wikilink")といわれる。近年は両者とも楽曲提供を積極的に行っている。
+[1993年](../Page/1993年.md "wikilink")に[日本大学商学部](https://ja.wikipedia.org/wiki/日本大学商学部 "wikilink")のジャズ研究会で結成される\[1\]。1997年に[高橋幸宏](../Page/高橋幸宏.md "wikilink")主催のインディーズレーベル[コンシピオ](https://ja.wikipedia.org/wiki/コンシピオ "wikilink")からデビュー。翌1998年にメジャーデビューする。2002年からゲストボーカルの[Nino](https://ja.wikipedia.org/wiki/Nino "wikilink")を加え、**ROUND TABLE featuring Nino**（ ‐ フィーチャリング・ニノ）名義での活動もしていたが、10周年となる2012年にベストアルバム『SINGLES BEST 2002-2012 MEMORIES』発売をもって「ROUND TABLE featuring Nino」名義での活動休止が宣言された。音楽性はいわゆる[ピチカート・ファイヴ](https://ja.wikipedia.org/wiki/ピチカート・ファイヴ "wikilink")や[フリッパーズ・ギター](../Page/フリッパーズ・ギター.md "wikilink")などに影響を受けた[渋谷系](../Page/渋谷系.md "wikilink")といわれる。近年は両者とも楽曲提供を積極的に行っている。
 
 ## メンバー
 
   - 北川勝利（きたがわ かつとし [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[10月18日](../Page/10月18日.md "wikilink")生まれ）
       - [ボーカル・](../Page/ベース_\(弦楽器\).md "wikilink")[ギター](../Page/ギター.md "wikilink")・[ベース・コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
-
-      -
+      - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[函館](https://ja.wikipedia.org/wiki/函館 "wikilink")出身、[函館東高校卒業](../Page/市立函館高等学校.md "wikilink")\[2\]。
   - 伊藤利恵子（いとう りえこ / [1972年](../Page/1972年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")生まれ）
       - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")・ボーカル・コーラス担当
 
@@ -533,6 +532,16 @@
             作詞：[宮川弾](../Page/宮川弾.md "wikilink") / 作曲：北川勝利 / 編曲：acane_madder・北川勝利
             スマートフォンゲーム『[Fate/Grand Order](https://ja.wikipedia.org/wiki/Fate/Grand_Order "wikilink")』テーマ曲
 
+## ROUND TABLE 六花 w/acane_madder 名義
+
+  -
+
+      -
+        **流星RODEO GIRLS**
+          -
+            作詞：[Yamachang](https://ja.wikipedia.org/wiki/Yamachang "wikilink") / 作曲・編曲：北川勝利
+            スマートフォンゲーム『[Fate/Grand Order](https://ja.wikipedia.org/wiki/Fate/Grand_Order "wikilink")』期間限定イベント「セイバーウォーズ2 ～始まりの宇宙へ～」CM楽曲
+
 ## 楽曲提供
 
   -
@@ -972,6 +981,22 @@
             テレビアニメ『[あまんちゅ\!](https://ja.wikipedia.org/wiki/あまんちゅ! "wikilink")〜あどばんす〜 』オープニングテーマ
             『Crosswalk/リワインド』収録
 
+<!-- end list -->
+
+  - [RYUTist](https://ja.wikipedia.org/wiki/RYUTist "wikilink")
+
+<!-- end list -->
+
+  -
+
+      -
+        **黄昏のダイアリー** - 作曲・編曲：[沖井礼二](../Page/沖井礼二.md "wikilink")・北川勝利
+          -
+            『黄昏のダイアリー』収録
+        **絶対に絶対に絶対にGO！** - 作詞：[藤村鼓乃美](https://ja.wikipedia.org/wiki/藤村鼓乃美 "wikilink")・北川勝利 / 作曲・編曲
+          -
+            『ファルセット』収録
+
 ### アニメ
 
   - 『[ちょびっツ](../Page/ちょびっツ.md "wikilink")』
@@ -1292,7 +1317,7 @@
         **Everyday** - 作詞・作曲 / 編曲：ROUND TABLE
           -
             『NEW CHAPPIE』収録
-            ボーカルはNino、原華子(corniche camomile)、Kyoko(SPOOCHY)の三人が曜日・パートごとに交代して歌っている。\[1\]
+            ボーカルはNino、原華子(corniche camomile)、Kyoko(SPOOCHY)の三人が曜日・パートごとに交代して歌っている。\[3\]
 
 ## 外部リンク
 
@@ -1305,6 +1330,8 @@
   -
 ## 脚注
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:渋谷系](https://ja.wikipedia.org/wiki/Category:渋谷系 "wikilink") [Category:1997年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に結成した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:渋谷系](https://ja.wikipedia.org/wiki/Category:渋谷系 "wikilink") [Category:1997年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に結成した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")
 
-1.  [ROUND TABLE Official Website - Discography](http://www.round-table.jp/discography.html#NEWCHAPPIE)
+1.
+2.
+3.  [ROUND TABLE Official Website - Discography](http://www.round-table.jp/discography.html#NEWCHAPPIE)

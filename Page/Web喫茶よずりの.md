@@ -1,7 +1,7 @@
 > この記事は[Web喫茶よずりの](https://ja.wikipedia.org/wiki/Web喫茶よずりの)から翻訳されています。
 
 
-**web喫茶よずりの**（ウェブきっさ よずりの）は、架空の[喫茶店](../Page/喫茶店.md "wikilink")を舞台に和み系のトークを展開する[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組である。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")と[rino](https://ja.wikipedia.org/wiki/rino "wikilink")、2人で[yozurino\*](https://ja.wikipedia.org/wiki/yozurino* "wikilink")というユニットを結成している。
+『**web喫茶よずりの**』（ウェブきっさ よずりの）は、架空の[喫茶店](../Page/喫茶店.md "wikilink")を舞台に和み系のトークを展開する[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組である。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")と[rino](https://ja.wikipedia.org/wiki/rino "wikilink")、2人で[yozurino\*](https://ja.wikipedia.org/wiki/yozurino* "wikilink")というユニットを結成している。
 
 ## 概要
 
@@ -47,31 +47,22 @@
   - 第179回放送(2007年7月21日配信) [MOSAIC.WAV](../Page/MOSAIC.WAV.md "wikilink")
   - 第181回放送(2007年8月4日配信) [野川さくら](../Page/野川さくら.md "wikilink")
   - 第182回放送(2007年8月11日配信) [美郷あき](../Page/美郷あき.md "wikilink")
-  - 第183回放送(2007年8月18日配信) [marble](https://ja.wikipedia.org/wiki/marble "wikilink")
+  - 第183回放送(2007年8月18日配信) [marble](https://ja.wikipedia.org/wiki/marble_\(音楽ユニット\) "wikilink")
   - 第192回放送(2007年10月20日配信) [美郷あき](../Page/美郷あき.md "wikilink")
   - 第195回放送(2007年11月10日配信) [ゆうまお](../Page/ゆうまお.md "wikilink")
   - 第197回放送(2007年11月24日配信) Snow\*（[大竹佑季](../Page/大竹佑季.md "wikilink")）
   - 第198回放送(2007年12月1日配信) [YURIA](../Page/YURIA.md "wikilink")
-  - 第207回放送(2008年2月2日配信) [marble](https://ja.wikipedia.org/wiki/marble "wikilink")
+  - 第207回放送(2008年2月2日配信) [marble](https://ja.wikipedia.org/wiki/marble_\(音楽ユニット\) "wikilink")
   - 第209回放送(2008年2月16日配信) [ゆうまお](../Page/ゆうまお.md "wikilink")
 
 ## コーナー
 
   - 今週のおすすめ（メールメニュー）
-
-<!-- end list -->
-
-  -
-    [リスナー](../Page/リスナー.md "wikilink")からの[メールを紹介するコーナー](../Page/電子メール.md "wikilink")。
-
-<!-- end list -->
-
+      -
+        [リスナー](../Page/リスナー.md "wikilink")からの[メールを紹介するコーナー](../Page/電子メール.md "wikilink")。
   - 今週のおすすめ（その他のメニュー）
-
-<!-- end list -->
-
-  -
-    [スタッフ](../Page/スタッフ.md "wikilink")が用意した物品についてトークするコーナー。
+      -
+        [スタッフ](../Page/スタッフ.md "wikilink")が用意した物品についてトークするコーナー。
 
 ## 主題歌
 

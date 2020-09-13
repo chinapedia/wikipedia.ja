@@ -41,7 +41,7 @@
 ### 準レギュラー（3以降）
 
   - [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")（「ゴローのムービージャッジ」を担当）
-  - [草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")
+  - [草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")
 
 ### ナレーター
 
@@ -498,7 +498,7 @@
 
 ## SmaTIMES
 
-番組から発行される[フリーペーパー](../Page/フリーペーパー.md "wikilink")で、全国の[HMV](../Page/HMV.md "wikilink")、系列のテレビ局の本社・支社・関連施設で配布される。 また、裏表紙には香取が撮影した写真や、オリジナルロゴなどが印刷されていたこともあり、現在は香取による絵が掲載されている。また、その裏表紙は [Smastation 公式サイト](http://www.tv-asahi.co.jp/ss/) にて公開されている。また、その写真をまとめて写真集としたのがSNAP NO SHINGOである。
+番組から発行される[フリーペーパー](../Page/フリーペーパー.md "wikilink")で、全国の[HMV](../Page/HMV.md "wikilink")、系列のテレビ局の本社・支社・関連施設で配布される。 また、裏表紙には香取が撮影した写真や、オリジナルロゴなどが印刷されていたこともあり、現在は香取による絵が掲載されている。また、その裏表紙は [Smastation 公式サイト](https://www.tv-asahi.co.jp/ss/) にて公開されている。また、その写真をまとめて写真集としたのがSNAP NO SHINGOである。
 
 青森朝日放送、福島放送、瀬戸内海放送、広島ホームテレビは番組ED時にSmaTIMESについての告知テロップを独自で出している（右上で表示）。
 
@@ -766,7 +766,7 @@
 
 ## 外部リンク
 
-  - [SmaSTATION\!\!](http://www.tv-asahi.co.jp/ss/) - 公式サイト
+  - [SmaSTATION\!\!](https://www.tv-asahi.co.jp/ss/) - 公式サイト
 
 [Category:2001年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のテレビ番組_\(日本\) "wikilink") [Category:テレビ朝日の深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜番組の歴史 "wikilink") [Category:テレビ朝日の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の情報・ワイドショー番組 "wikilink") [Category:テレビ朝日の教養番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の教養番組 "wikilink") [Category:テレビ朝日のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ朝日のバラエティ番組の歴史 "wikilink") [Category:香取慎吾](https://ja.wikipedia.org/wiki/Category:香取慎吾 "wikilink") [Category:SMAP](https://ja.wikipedia.org/wiki/Category:SMAP "wikilink") [Category:ジャニーズ関連の放送番組](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連の放送番組 "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink")
 

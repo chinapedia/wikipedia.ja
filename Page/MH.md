@@ -36,7 +36,7 @@
       - [マーシャル諸島](https://ja.wikipedia.org/wiki/マーシャル諸島 "wikilink") () の[ISO国名コード](https://ja.wikipedia.org/wiki/ISO国名コード "wikilink")。
       - [モントセラト](../Page/モントセラト.md "wikilink") () の [FIPS 10-4](https://ja.wikipedia.org/wiki/:en:List_of_FIPS_country_codes "wikilink") [国名コード](../Page/国名コード.md "wikilink")。
       - [マハーラーシュトラ州](../Page/マハーラーシュトラ州.md "wikilink") () の[州名コード（インド）](../Page/ISO_3166-2:IN.md "wikilink")。
-      - [ミース州](https://ja.wikipedia.org/wiki/ミース州 "wikilink") () の[ナンバープレートコード（アイルランド）](https://ja.wikipedia.org/wiki/:en:Vehicle_registration_plates_of_Ireland "wikilink")。
+      - [ミース県](https://ja.wikipedia.org/wiki/ミース県 "wikilink") () の[ナンバープレートコード（アイルランド）](https://ja.wikipedia.org/wiki/:en:Vehicle_registration_plates_of_Ireland "wikilink")。
   - 製品・サービス
       - \- パブリックドメインの[メールクライアント](https://ja.wikipedia.org/wiki/メールクライアント "wikilink")。
 

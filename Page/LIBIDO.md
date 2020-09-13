@@ -63,7 +63,7 @@
 
   - （リンク切れ）
 
-  - [UNDEAD WEB](http://www.undead.co.jp/) - JOY RIDEの立ち上げた新ブランド（リンク切れ）
+  - [UNDEAD WEB](http://web.archive.org/web/20100530014123/http://www.undead.co.jp/) - JOY RIDEの立ち上げた新ブランド（リンク切れ）
 
   - [JOY RIDE](https://twitter.com/joyride1969) - JOY RIDEのTwitter
 

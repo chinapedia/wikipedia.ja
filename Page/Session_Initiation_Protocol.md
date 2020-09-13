@@ -1,11 +1,11 @@
 > この記事は[Session Initiation Protocol](https://ja.wikipedia.org/wiki/Session_Initiation_Protocol)から翻訳されています。
 
 
-**Session Initiation Protocol**（**セッション イニシエーション プロトコル**、**SIP**、**セッション確立プロトコル**）とは 2 つ以上のクライアント間で[セッション](../Page/セッション.md "wikilink")を確立するための [IETF](../Page/Internet_Engineering_Task_Force.md "wikilink") 標準の[通信プロトコル](../Page/通信プロトコル.md "wikilink")である。
+**Session Initiation Protocol**（**セッション イニシエーション プロトコル**、**SIP**、**セッション確立プロトコル**）とは 2 つ以上のクライアント間で[セッション](../Page/セッション.md "wikilink")を確立するための [IETF](../Page/Internet_Engineering_Task_Force.md "wikilink") 標準の[通信プロトコル](../Page/通信プロトコル.md "wikilink")である。[IP電話](../Page/IP電話.md "wikilink")の呼制御などに利用されている。
 
 ## 概要
 
-SIP は [H.323](../Page/H.323.md "wikilink") に代わる汎用のセッション制御プロトコルとして DynamicSoft（当時） の J. Rosenberg らを中心に開発された（ここでいう“セッション”とは [OSI参照モデル](../Page/OSI参照モデル.md "wikilink") で規定される第5層とは異なる）。すなわち、[IP電話](../Page/IP電話.md "wikilink")などのセッションの開始、変更、終了などの操作をおこなうことができる。SIP はインターネット上の会議 ([Mbone](https://ja.wikipedia.org/wiki/Mbone "wikilink")) 等、マルチメディア通信制御をドメインとしている。現在の主な用途は電話、[テレビ電話](../Page/テレビ電話.md "wikilink")や[インスタント・メッセージングのような双方向の](../Page/インスタントメッセンジャー.md "wikilink")[リアルタイム通信](https://ja.wikipedia.org/wiki/リアルタイム通信 "wikilink")である。このようなリアルタイム通信においては基本的に通信者は対等であり、[サーバ](../Page/サーバ.md "wikilink")と[クライアントというような役割分担は存在しない](../Page/クライアント_\(コンピュータ\).md "wikilink")。SIP においてはこれを、両者がサーバとクライアントの機能をあわせもつというかたちで表現している。すなわち、SIP は [HTTP](../Page/Hypertext_Transfer_Protocol.md "wikilink") (ハイパーテキスト転送プロトコル) をもとにしてつくられたので基本的には 要求-応答型 のプロトコルだが、要求者 (後述の UAC) がクライアントであり、応答者 (後述の UAS) がサーバであるが、両者がこれら両方の役割を演じることができる。
+SIP は [H.323](../Page/H.323.md "wikilink") に代わる汎用のセッション制御プロトコルとして DynamicSoft（当時） の J. Rosenberg らを中心に開発された（ここでいう“セッション”とは [OSI参照モデル](../Page/OSI参照モデル.md "wikilink") で規定される第5層とは異なる）。現在の主な用途は電話、[テレビ電話](../Page/テレビ電話.md "wikilink")や[インスタント・メッセージングのような双方向のリアルタイム通信である](../Page/インスタントメッセンジャー.md "wikilink")。このようなリアルタイム通信においては基本的に通信者は対等であり、[サーバ](../Page/サーバ.md "wikilink")と[クライアントというような役割分担は存在しない](../Page/クライアント_\(コンピュータ\).md "wikilink")。SIP においてはこれを、両者がサーバとクライアントの機能をあわせもつというかたちで表現している。すなわち、SIP は [HTTP](../Page/Hypertext_Transfer_Protocol.md "wikilink") (ハイパーテキスト転送プロトコル) をもとにしてつくられたので基本的には 要求-応答型 のプロトコルだが、要求者 (後述の UAC) がクライアントであり、応答者 (後述の UAS) がサーバであるが、両者がこれら両方の役割を演じることができる。
 
 HTTP においてはその下層のプロトコルとして高信頼な [TCP](../Page/Transmission_Control_Protocol.md "wikilink") を使用することが前提とされているが、SIPでは [UDP](../Page/User_Datagram_Protocol.md "wikilink") を元に設計されている。しかし、商用では信頼性のため後に拡張された [TCP](../Page/Transmission_Control_Protocol.md "wikilink") が使用される場合が多い。SIP はセキュリティやプライバシーを守るための機能拡張も備える。
 

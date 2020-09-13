@@ -61,7 +61,7 @@
   - TIME MACHINE :いわゆる「今日は何の日」。テレビ版はBS朝日の放送日を元にしている。
   - REQUEST: テレビ版のみ。視聴者からの[リクエストで懐かしの曲の](../Page/リクエスト番組.md "wikilink")[ミュージックビデオ](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")が流れる\[55\]。
 
-※2015年以降、"COUNT DOWN USA"以外のコーナーは事実上消滅している。
+※2020年以降、"COUNT DOWN USA"、"HOT MENU"、"STAR OF THE WEEK"、"TIME MACHINE"以外のコーナーは事実上消滅している。
 
 ※ラジオ版には"COUNT DOWN USA"と"TIME MACHINE"のみ存在する。
 
@@ -116,7 +116,7 @@
       - ヴェイパー・トレイルズのイギリスでの正式デビュー名は「VT's」であった。当時、ポリスターレコードから「Autum Breez」というアルバムが発売されたがジャケットは全く変更されていた\[59\]\[60\]。番組スタッフとポリスターレコードのスタッフ との話し合いにより、同社からジャケットとタイトルを変更して発売された。OP映像の倒れて来るレコードジャケットの中にはVT'sのイギリス盤オリジナルジャケットが含まれている。
   - 上記『サーフ・サイド・フリーウェイ』に代わり、2013年4月から「[A.L.L.Y.](https://ja.wikipedia.org/wiki/A.L.L.Y. "wikilink")」の『The Walk』が使用されていたが、2015年8月28日放送分から『Don't Worry Baby』の使用が再開された。また、テーマ曲に合わせてタイトル映像も変わり、『The Walk』時代のロボット（立方体形の頭部がCDジャケットになっている）が行進する映像から、番組開始当初に使用されていた「CDジャケットがドミノ倒し風に倒れていく映像」に現代風アレンジを加えつつも忠実に再現した映像に変更されている。
   - 一部の曲には、英語の歌詞テロップもしくは日本語訳のテロップが付く場合がある。
-  - テレビ朝日から[通販CD](../Page/通販CD.md "wikilink")も発売している。[関連リンク](http://www.tv-asahi.co.jp/besthitusa/cd.html)
+  - テレビ朝日から[通販CD](../Page/通販CD.md "wikilink")も発売している。[関連リンク](https://www.tv-asahi.co.jp/besthitusa/cd.html)
   - [ANA国際線のシートテレビでは](../Page/全日本空輸.md "wikilink")、毎月「ANA presents タイムマシーンスペシャル」として番組のコーナーを独立させた動画を配信し、好評を博している。
   - 2006年10月から2009年3月23日までは、[静岡朝日テレビ](../Page/静岡朝日テレビ.md "wikilink")でも放送されていた。
   - 2007年4月より、[KDDI](../Page/KDDI.md "wikilink")ならびに[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の各[au携帯電話で当番組と連動したサイト](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")「ベストヒットau」をスタート。先着100名に洋楽の[着うた](../Page/着うた.md "wikilink")をプレゼントしている。
@@ -213,7 +213,7 @@
 
   - [BS朝日・ベストヒットUSA](http://www.bs-asahi.co.jp/usa/)
 
-  - [テレビ朝日・ベストヒットUSA](http://www.tv-asahi.co.jp/besthitusa/)
+  - [テレビ朝日・ベストヒットUSA](https://www.tv-asahi.co.jp/besthitusa/)
 
   - [小林克也インタビュー](http://www.musicman-net.com/relay/16.html)
 
@@ -225,14 +225,14 @@
 
   - 公式ページ（日本語）
 
-[Category:BS朝日の深夜番組](https://ja.wikipedia.org/wiki/Category:BS朝日の深夜番組 "wikilink") [Category:BS朝日の音楽番組](https://ja.wikipedia.org/wiki/Category:BS朝日の音楽番組 "wikilink") [Category:テレビ朝日の音楽番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の音楽番組 "wikilink") [Category:テレビ朝日の一社提供番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の一社提供番組 "wikilink") [Category:テレビ朝日の深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜番組の歴史 "wikilink") [Category:データ放送連動番組](https://ja.wikipedia.org/wiki/Category:データ放送連動番組 "wikilink") [Category:1981年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1981年のテレビ番組_\(日本\) "wikilink") [Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink") [Category:NACK5の番組](https://ja.wikipedia.org/wiki/Category:NACK5の番組 "wikilink") [Category:独立系FMラジオの音楽番組‎](https://ja.wikipedia.org/wiki/Category:独立系FMラジオの音楽番組‎ "wikilink") [Category:1993年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1993年のラジオ番組_\(日本\) "wikilink") [Category:ブリヂストン](https://ja.wikipedia.org/wiki/Category:ブリヂストン "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
+[Category:BS朝日の深夜番組](https://ja.wikipedia.org/wiki/Category:BS朝日の深夜番組 "wikilink") [Category:BS朝日の音楽番組](https://ja.wikipedia.org/wiki/Category:BS朝日の音楽番組 "wikilink") [Category:テレビ朝日の音楽番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の音楽番組 "wikilink") [Category:テレビ朝日の一社提供番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の一社提供番組 "wikilink") [Category:テレビ朝日の深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜番組の歴史 "wikilink") [Category:データ放送連動番組](https://ja.wikipedia.org/wiki/Category:データ放送連動番組 "wikilink") [Category:1981年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1981年のテレビ番組_\(日本\) "wikilink") [Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink") [Category:NACK5の番組](https://ja.wikipedia.org/wiki/Category:NACK5の番組 "wikilink") [Category:独立系FMラジオの音楽番組](https://ja.wikipedia.org/wiki/Category:独立系FMラジオの音楽番組 "wikilink") [Category:1993年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1993年のラジオ番組_\(日本\) "wikilink") [Category:ブリヂストン](https://ja.wikipedia.org/wiki/Category:ブリヂストン "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
 1.  ただし、テレビ朝日以外の[番組販売](../Page/番組販売.md "wikilink")で放送されていた大半の地域においては、ブリヂストンの提供はなく[PTもしくはそれぞれの放送局が独自にスポンサーをつけて放送していたため](../Page/パーティシペーション.md "wikilink")、それらの地域でのオープニングタイトルは副題（ブリヂストン・サウンド・ハイウェイ）が出る直前で静止画の番組ロゴなどに差し替えられており、テーマ曲も提供コメントとの兼ね合いからオリジナル曲を上書きする格好で放送されていた。
 2.  [\#ROCKDAD](https://ja.wikipedia.org/wiki/#ROCKDAD "wikilink")、61頁
 3.  [\#80s洋楽](https://ja.wikipedia.org/wiki/#80s洋楽 "wikilink")、30-39、46-49、62-69、116-123、144-153頁
 4.  [2016年03月27日（日） - 今日は何の日？ - CDJournal.com - カレンダー](http://www.cdjournal.com/main/calendar/20160327)、[小林克也　洋楽不況について「これまで売れすぎてただけ」 NEWS ポストセブン](https://www.news-postseven.com/archives/20111004_33391.html)、[最初は不発？ MJ『スリラー』の知られざる苦労話 | Michael Jackson](https://www.barks.jp/news/?id=1000038744)、[第126回：ヒゲもクルマもないけれど、少年には愛がある『シング・ストリート 未来へのうた』](http://www.webcg.net/articles/-/34736)
 5.  [大編集後記その壱。小林克也さん。 | 雑誌・昭和40年男](http://www.s40otoko.com/archives/16872)、 [スタートアップの瞬間 Vol.11 - プロフェッショナルインタビュー 宮坂学](https://web.archive.org/web/20141025181710/https://livejam.sakura.ne.jp/linkedin_fb/interview/startup_vol11.html)、[TOEIC初級者はテキスト3回、上級者は出題パターンを知れば点がグンと伸びる！](http://news.mynavi.jp/articles/2012/09/26/takahashim/)、[エスパー伊東、プリンスさん急死に「天才のまだ早すぎる死が惜しい」スポーツ報知](http://www.hochi.co.jp/entertainment/20160423-OHT1T50077.html)、[椿鬼奴の冠音楽番組スタート、ライブハウスのオーナーに扮する](http://natalie.mu/owarai/news/133310)、[（華麗な人）English口ずさみ独学 小林克也さん：朝日新聞デジタル](https://web.archive.org/web/20140110085329/http://www.asahi.com/articles/ASG1654C4G16UZVL005.html)、[【編集局から】『ベストヒットUSA』春の改編期も乗り越え継続　懐かしいオープニングも復活](http://www.zakzak.co.jp/entertainment/ent-news/news/20160421/enn1604211200011-n1.htm)、[MTV世代 - Sony Music](http://www.sonymusic.co.jp/Music/International/Special/80slover/music/playback/index.html)
-6.  [小室哲哉「なんでこの2組が？」森山直太朗やSCANDAL等との対談実現……キュウソネコカミとともまさかの邂逅 billboard-japan](http://www.billboard-japan.com/sp/d_news/detail/44080/2)、[Mr.DJ 小林克也さんに捧ぐ - 81.3 FM J-WAVE : BEHIND THE MELODY](http://www.j-wave.co.jp/blog/fmkameda/2013/03/mrdj.html)、[KGDR（ex.キングギドラ）「空からの力」発売20周年記念インタビュー](http://natalie.mu/music/pp/kgdr)、[坂上 忍が語る、デヴィッド・ボウイの魅力「変化に対して勇気を持ったアーティストだ」 - Real Sound｜リアルサウンド](http://realsound.jp/2014/11/post-1798.html)、[カジ ヒデキが語る、80年代UKインディシーン「レーベルもやっていたS・パステルは神様でした」](http://realsound.jp/2015/01/post-2314.html)、[高田渡の『イキテル・ソング』──父の歌をうたうことへの想い　高田漣インタビュー 後編](http://www.tapthepop.net/extra/28076)、[【日暮愛葉】私がいる場所が、彼女の場所｜MUSICSHELF](http://www.musicshelf.jp/playlist/673393)、「[HIRO](../Page/五十嵐広行.md "wikilink")（[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")）インタビュー "好奇心"と"行動力"の20年～」 『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink") 』2008年5月号、[ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")、42-45頁。
+6.  [小室哲哉「なんでこの2組が？」森山直太朗やSCANDAL等との対談実現……キュウソネコカミとともまさかの邂逅 billboard-japan](http://www.billboard-japan.com/sp/d_news/detail/44080/2)、[Mr.DJ 小林克也さんに捧ぐ - 81.3 FM J-WAVE : BEHIND THE MELODY](http://www.j-wave.co.jp/blog/fmkameda/2013/03/mrdj.html)、[KGDR（ex.キングギドラ）「空からの力」発売20周年記念インタビュー](http://natalie.mu/music/pp/kgdr) 、[坂上 忍が語る、デヴィッド・ボウイの魅力「変化に対して勇気を持ったアーティストだ」 - Real Sound｜リアルサウンド](http://realsound.jp/2014/11/post-1798.html)、[カジ ヒデキが語る、80年代UKインディシーン「レーベルもやっていたS・パステルは神様でした」](http://realsound.jp/2015/01/post-2314.html)、[高田渡の『イキテル・ソング』──父の歌をうたうことへの想い　高田漣インタビュー 後編](http://www.tapthepop.net/extra/28076)、[【日暮愛葉】私がいる場所が、彼女の場所｜MUSICSHELF](http://www.musicshelf.jp/playlist/673393)、「[HIRO](../Page/五十嵐広行.md "wikilink")（[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")）インタビュー "好奇心"と"行動力"の20年～」 『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink") 』2008年5月号、[ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")、42-45頁。
 7.
 8.
 9.

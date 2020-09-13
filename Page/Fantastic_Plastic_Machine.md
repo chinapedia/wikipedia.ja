@@ -7,7 +7,7 @@
 
 ## 略歴
 
-[京都市](../Page/京都市.md "wikilink")[上京区](../Page/上京区.md "wikilink")にて生まれる\[1\]。中学生のころから音楽に興味を持ち、[市立紫野高校時代から](../Page/京都市立紫野高等学校.md "wikilink")[龍谷大学](../Page/龍谷大学.md "wikilink")法学部在学時代までバンド活動をしていた\[2\]。 18歳のころ、[ディスコ](../Page/ディスコ.md "wikilink")で皿洗いのアルバイトをしていた関係でDJの存在を知り、人から勧められたこともあり、DJとしての活動を始めた\[3\]。この頃について田中は[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")とのインタビューの中で「バンドにターンテーブルを取り入れるなど、当時としては斬新なことをした」と振り返っている\[4\]。バンドとしてデビューする予定だったが、デビュー先のレコード会社が倒産したため、就職活動をせざるを得なくなり、アパレル会社へ入社。その後出版社の誘いを受けて、雑誌編集者に転職した\[5\]。その間、週に一度の割合でDJとしての活動を行い、給料でレコードを購入していたが、レコード店には自分のほしい曲がないと感じ、楽曲制作を始めるようになった\[6\]。1995年、DJ活動の拡大に伴い辞職して上京する\[7\]。当時[ピチカート・ファイヴ](https://ja.wikipedia.org/wiki/ピチカート・ファイヴ "wikilink")のメンバーだった[小西康陽](../Page/小西康陽.md "wikilink")の誘いを受けてデビューアルバムを制作し、世界中で名前が知られるきっかけとなった\[8\]。 その後、世界中で活動を続けるが、2001年に起きた[アメリカ同時多発テロ事件](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")がきっかけで自分がアジア人であるという認識が高まったため、アジアでの活動に重きを置いた\[9\]。
+[京都市](../Page/京都市.md "wikilink")[上京区](../Page/上京区.md "wikilink")にて生まれる\[1\]。中学生のころから音楽に興味を持ち、[市立紫野高校時代から](../Page/京都市立紫野高等学校.md "wikilink")[龍谷大学](../Page/龍谷大学.md "wikilink")法学部在学時代までバンド活動をしていた。\[2\] 18歳のころ、[ディスコ](../Page/ディスコ.md "wikilink")で皿洗いのアルバイトをしていた関係でDJの存在を知り、人から勧められたこともあり、DJとしての活動を始めた。この頃について田中は[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")とのインタビューの中で「バンドにターンテーブルを取り入れるなど、当時としては斬新なことをした」と振り返っている。バンドとしてデビューする予定だったが、デビュー先のレコード会社が倒産したため、就職活動をせざるを得なくなり、アパレル会社へ入社。その後出版社の誘いを受けて、雑誌編集者に転職した。その間、週に一度の割合でDJとしての活動を行い、給料でレコードを購入していたが、レコード店には自分のほしい曲がないと感じ、楽曲制作を始めるようになった。1995年、DJ活動の拡大に伴い辞職して上京する。当時[ピチカート・ファイヴ](https://ja.wikipedia.org/wiki/ピチカート・ファイヴ "wikilink")のメンバーだった[小西康陽](../Page/小西康陽.md "wikilink")の誘いを受けてデビューアルバムを制作し、世界中で名前が知られるきっかけとなった。 その後、世界中で活動を続けるが、2001年に起きた[アメリカ同時多発テロ事件](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")がきっかけで自分がアジア人であるという認識が高まったため、アジアでの活動に重きを置いた。
 
 1995年にリリースされたピチカート・ファイブのアルバム『ロマンチック’96』の中に、自身のソロ・プロジェクトFantastic Plastic Machine＝FPM 名義の楽曲「ジェット機のハウス」が収録されメジャーデビュー。その後、‘97年『The Fantastic Plastic Machine』に1stアルバムをリリース。2004年に立ち上げたDJ-MIXシリーズ『Sound Concierge』は、これまでに全11作を発表し、いずれも異例のセールスを記録している。
 
@@ -21,7 +21,9 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 
 活動の幅は音楽のみに留まらず、過去には大手アパレル企業でMDとして、また某ファッション誌でエディターの経験もあり、時計や車などへの造詣も深い。特にヴィンテージ・ウェアのコレクター/マニアとしては知る人ぞ知る存在である。
 
-自身のブランド、ListやConnecteeのディレクターとしての顔もある。
+自身のブランド、ListやConnecteeのディレクター\[3\]としての顔もある。
+
+2020年4月22日に、本名となる田中知之名義で「Alone」を発表。 2020年5月13日には[高野寛](../Page/高野寛.md "wikilink")と[原田郁子](../Page/原田郁子.md "wikilink")（[クラムボン](https://ja.wikipedia.org/wiki/クラムボン "wikilink")）をボーカルに迎えた「Change the World Again」もリリースされた。 いずれも[新型コロナウィルス](https://ja.wikipedia.org/wiki/新型コロナウィルス "wikilink")の影響を受けて制作された曲である事がインタビューでも語られている。\[4\]
 
 ## ディスコグラフィ
 
@@ -1444,7 +1446,7 @@ VICL-63932</p></td>
 
 :\*\* [三菱商事](../Page/三菱商事.md "wikilink") 企業 CM（9月）
 
-:\*\* [サッポロビール](../Page/サッポロビール.md "wikilink")「[ヱビスビール](../Page/ヱビスビール.md "wikilink")」（10月）\[10\]
+:\*\* [サッポロビール](../Page/サッポロビール.md "wikilink")「[ヱビスビール](../Page/ヱビスビール.md "wikilink")」（10月）\[5\]
 
 :\***2018年**
 
@@ -1463,7 +1465,7 @@ VICL-63932</p></td>
   - [ビックロ](https://ja.wikipedia.org/wiki/ビックロ "wikilink") 「新宿店オープンTVCM」
   - [パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink") 「ECONAVI」
   - [大塚製薬](../Page/大塚製薬.md "wikilink")「ネイチャーメイド スーパーシリーズ」
-  - [キリンビバレッジ](../Page/キリンビバレッジ.md "wikilink")「[生茶](../Page/生茶.md "wikilink")」 Like A Virgin - [2NE1](https://ja.wikipedia.org/wiki/2NE1 "wikilink") produced by FPM （原曲は[マドンナ](https://ja.wikipedia.org/wiki/マドンナ_\(歌手\) "wikilink")）\[11\]
+  - [キリンビバレッジ](../Page/キリンビバレッジ.md "wikilink")「[生茶](../Page/生茶.md "wikilink")」 Like A Virgin - [2NE1](https://ja.wikipedia.org/wiki/2NE1 "wikilink") produced by FPM （原曲は[マドンナ](https://ja.wikipedia.org/wiki/マドンナ_\(歌手\) "wikilink")）\[6\]
   - [カネボウ](../Page/カネボウ.md "wikilink")「ブランシール スペリア」
   - 大塚製薬「ネイチャーメイド スーパーシリーズ」
   - [ユニクロ](../Page/ユニクロ.md "wikilink")「夏チノ・夏カーゴ」
@@ -1628,13 +1630,8 @@ VICL-63932</p></td>
 [Category:ハウスミュージシャン](https://ja.wikipedia.org/wiki/Category:ハウスミュージシャン "wikilink") [Category:日本の作曲家](https://ja.wikipedia.org/wiki/Category:日本の作曲家 "wikilink") [Category:日本の編曲家](https://ja.wikipedia.org/wiki/Category:日本の編曲家 "wikilink") [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:渋谷系](https://ja.wikipedia.org/wiki/Category:渋谷系 "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:京都市出身の人物](https://ja.wikipedia.org/wiki/Category:京都市出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:1966年生](https://ja.wikipedia.org/wiki/Category:1966年生 "wikilink")
 
 1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10. 韓国のみOA
-11. 2012年3月28日にリリースされる、[2NE1](https://ja.wikipedia.org/wiki/2NE1 "wikilink")のアルバムに収録。[インターネットラジオ](../Page/インターネットラジオ.md "wikilink") [block.fm](https://ja.wikipedia.org/wiki/block.fm "wikilink")『Hyper Society』（2012年3月15日放送回）にて、制作にまつわる話と共に発売予定はないとされる「Like A Virgin (Long Mix)」が初公開された。
+2.  [祐真朋樹・編集大魔王対談｜vol.36 FPM 田中知之さん](https://openers.jp/lounge/lounge_music/1748218)- OPENERS 2019年3月27日
+3.  [FPM 田中知之がファッションをリミックス？　あらたなファッションのプラットフォーム「list」誕生](https://openers.jp/fashion/14565)- OPENERS 2015年2月23日
+4.  [田中知之（FPM）「今作っているものは“まったく自分”なんです」](https://www.barks.jp/news/?id=1000181620) - BARKSインタビュー2020.5.13
+5.  韓国のみOA
+6.  2012年3月28日にリリースされる、[2NE1](https://ja.wikipedia.org/wiki/2NE1 "wikilink")のアルバムに収録。[インターネットラジオ](../Page/インターネットラジオ.md "wikilink") [block.fm](https://ja.wikipedia.org/wiki/block.fm "wikilink")『Hyper Society』（2012年3月15日放送回）にて、制作にまつわる話と共に発売予定はないとされる「Like A Virgin (Long Mix)」が初公開された。

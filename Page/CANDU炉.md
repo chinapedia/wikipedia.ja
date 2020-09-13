@@ -28,7 +28,7 @@
 [CANDU_fuel_bundles.jpg](https://ja.wikipedia.org/wiki/File:CANDU_fuel_bundles.jpg "fig:CANDU_fuel_bundles.jpg")
 
   - 中性子の減速に重水を使用する
-  - [天然ウラン](../Page/天然ウラン.md "wikilink")が使用できるため、[ウラン濃縮](../Page/ウラン濃縮.md "wikilink")の必要性がない運転中燃料交換を可能に
+  - [天然ウラン](../Page/天然ウラン.md "wikilink")が使用できるため、[ウラン濃縮](../Page/ウラン濃縮.md "wikilink")の必要性がない。
       - この点は、ウラン資源が豊富なカナダにおいては、特に利点となる
   - [ウラン](../Page/ウラン.md "wikilink")がない場合は[トリウム](../Page/トリウム.md "wikilink")から資源を得る事ができる
   - 天然ウランから効率的に[プルトニウム](https://ja.wikipedia.org/wiki/プルトニウム "wikilink")を生産できる
@@ -102,7 +102,7 @@
 
 ## 外部リンク
 
-  - [カナダ型重水炉(CANDU) (02-01-01-05)](http://www.rist.or.jp/atomica/data/dat_detail.php?Title_Key=02-01-01-05) [ATOMICA](https://ja.wikipedia.org/wiki/ATOMICA "wikilink")より
+  -
   - [CANDU炉群](http://www.candu.org/candu_reactors.html)
 
 [Category:原子炉の形式](https://ja.wikipedia.org/wiki/Category:原子炉の形式 "wikilink") [Category:カナダの原子力](https://ja.wikipedia.org/wiki/Category:カナダの原子力 "wikilink") [Category:重水炉](https://ja.wikipedia.org/wiki/Category:重水炉 "wikilink") [Category:CANDU炉の原子力発電所](https://ja.wikipedia.org/wiki/Category:CANDU炉の原子力発電所 "wikilink")

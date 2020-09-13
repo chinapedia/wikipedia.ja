@@ -5,7 +5,7 @@
 
 また、公式サイトでは『**SOUTHERN ALL STARS**』という表記をされている\[1\]。
 
-後に[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月22日](../Page/5月22日.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月3日](../Page/12月3日.md "wikilink")の計2回再発売されている。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月22日](../Page/5月22日.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月3日](../Page/12月3日.md "wikilink")にはCDとして再発売されている。[2014年](../Page/2014年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")からはダウンロード配信、[2019年](../Page/2019年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")からはストリーミング配信が開始されている\[2\]\[3\]。
 
 ## 背景・制作
 
@@ -23,12 +23,12 @@
 
 ### 再発売
 
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月22日](../Page/5月22日.md "wikilink")（CD）
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月3日](../Page/12月3日.md "wikilink")（CD）リマスタリング
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月22日](../Page/5月22日.md "wikilink")（CD）VICL-60220
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月3日](../Page/12月3日.md "wikilink")（CD）VICL-63310 リマスタリング
 
 ## プロモーション
 
-発売に先駆け、[新聞](../Page/新聞.md "wikilink")に収録曲の[歌詞](../Page/歌詞.md "wikilink")を載せた大きな広告を掲載したほか、東京・大阪の鉄道5路線に電車の車内吊り広告を、[西武鉄道](../Page/西武鉄道.md "wikilink")の全駅に1か月間ポスターを掲示するプロモーションを行った\[2\]。
+発売に先駆け、[新聞](../Page/新聞.md "wikilink")に収録曲の[歌詞](../Page/歌詞.md "wikilink")を載せた大きな広告を掲載したほか、東京・大阪の鉄道5路線に電車の車内吊り広告を、[西武鉄道](../Page/西武鉄道.md "wikilink")の全駅に1か月間ポスターを掲示するプロモーションを行った\[4\]。
 
 ## 受賞歴
 
@@ -37,9 +37,9 @@
 
 ## チャート成績
 
-本作は累計119.3万枚（オリコン調べ）を売り上げて、自身としてはシングル・アルバム通して初となる[オリコン集計での](../Page/オリコンチャート.md "wikilink")[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録した\[3\]。なお、このミリオン記録は初回盤（3330円盤）と通常盤での合算であり、当時のオリコンチャートは品番の異なる同一作品でも別集計であったため、週間チャートでは別作品としてチャートインしていた\[4\]。
+本作は累計119.3万枚（オリコン調べ）を売り上げて、自身としてはシングル・アルバム通して初となる[オリコン集計での](../Page/オリコンチャート.md "wikilink")[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録した\[5\]。なお、このミリオン記録は初回盤（3330円盤）と通常盤での合算であり、当時のオリコンチャートは品番の異なる同一作品でも別集計であったため、週間チャートでは別作品としてチャートインしていた\[6\]。
 
-発売後1週間で、ビクターエンターテイメント発表の出荷枚数は140万枚に達した\[5\]。
+発売後1週間で、ビクターエンターテイメント発表の出荷枚数は140万枚に達した\[7\]。
 
 ## 収録曲
 
@@ -52,20 +52,20 @@
       -
         27枚目シングル。
 2.  **愛は花のように (Olé\!)** (3'35)
-    （作詞:[Luis Sartor](https://ja.wikipedia.org/wiki/ルイス・サルタール "wikilink")／作曲:桑田佳祐／編曲:サザンオールスターズ & [小林武史](../Page/小林武史.md "wikilink")）
+    （作詞:Luis Sartor／作曲:桑田佳祐／編曲:サザンオールスターズ & [小林武史](../Page/小林武史.md "wikilink")）
       -
         桑田出演の[NISSAY](https://ja.wikipedia.org/wiki/日本生命保険 "wikilink") [CMソング](../Page/コマーシャルソング.md "wikilink")。
         全て[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")で歌われた曲。バックにはラテン系のコーラスが使われている。同年発売される桑田が監督を務めた映画『[稲村ジェーン](../Page/稲村ジェーン.md "wikilink")』の[同名サウンドトラックにも収録されている](../Page/稲村ジェーン_\(サウンドトラック\).md "wikilink")。
 3.  **悪魔の恋** (4'13)
     （作詞・作曲:桑田佳祐／英語補作詞:[Tommy Snyder](../Page/トミー・スナイダー.md "wikilink")／編曲:サザンオールスターズ）
       -
-        歌詞は語感重視で、「稲村ジェーン」という言葉も登場。アルバム曲では最初に制作された楽曲である\[6\]。
+        歌詞は語感重視で、「稲村ジェーン」という言葉も登場。アルバム曲では最初に制作された楽曲である\[8\]。
 4.  **忘れられた Big Wave** (3'10)
     （作詞・作曲:桑田佳祐／編曲:サザンオールスターズ & [門倉聡](../Page/門倉聡.md "wikilink")）
       -
         桑田出演の[リクルート](../Page/リクルートホールディングス.md "wikilink")『B-ing』CMソング。また、映画『稲村ジェーン』挿入歌。
         サウンドトラック『[稲村ジェーン](../Page/稲村ジェーン_\(サウンドトラック\).md "wikilink")』にも収録。楽器音が一切無く、全て桑田の声の多重録音と指打ち音で歌われている[ア・カペラ](../Page/ア・カペラ.md "wikilink")の楽曲。クレジット上はメンバー全員がボーカル及びコーラスとなっているが、実際はすべて桑田1人の声を重ねたものである。[PVは製作されていないが](../Page/ミュージック・ビデオ.md "wikilink")、[2003年](../Page/2003年.md "wikilink")の[DVD](../Page/DVD-Video.md "wikilink")『[Inside Outside U・M・I](../Page/Inside_Outside_U・M・I.md "wikilink")』にイメージビデオが収録された。
-        [スティーヴ・ジョブズ](https://ja.wikipedia.org/wiki/スティーヴ・ジョブズ "wikilink")が、[2001年](../Page/2001年.md "wikilink")に[シリコンバレー](../Page/シリコンバレー.md "wikilink")の[アップル本社で行った](../Page/アップル_\(企業\).md "wikilink")[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")のプレゼンテーションにて、[サラ・マクラクラン](../Page/サラ・マクラクラン.md "wikilink")、[ボブ・マーリー](../Page/ボブ・マーリー.md "wikilink")、[ヨーヨーマ](https://ja.wikipedia.org/wiki/ヨーヨーマ "wikilink")、[ビートルズ](../Page/ビートルズ.md "wikilink")の楽曲に続けて「日本の曲をかけてみよう」と話し、この曲を流した。これは、[ソニー](../Page/ソニー.md "wikilink")の[ウォークマン](../Page/ウォークマン.md "wikilink")を意識し、日本にも受け入れてもらいたいという、ジョブズの意向からと思われる\[7\]。
+        [スティーヴ・ジョブズ](https://ja.wikipedia.org/wiki/スティーヴ・ジョブズ "wikilink")が、[2001年](../Page/2001年.md "wikilink")に[シリコンバレー](../Page/シリコンバレー.md "wikilink")の[アップル本社で行った](../Page/アップル_\(企業\).md "wikilink")[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")のプレゼンテーションにて、[サラ・マクラクラン](../Page/サラ・マクラクラン.md "wikilink")、[ボブ・マーリー](../Page/ボブ・マーリー.md "wikilink")、[ヨーヨーマ](https://ja.wikipedia.org/wiki/ヨーヨーマ "wikilink")、[ビートルズ](../Page/ビートルズ.md "wikilink")の楽曲に続けて「日本の曲をかけてみよう」と話し、この曲を流した。これは、[ソニー](../Page/ソニー.md "wikilink")の[ウォークマン](../Page/ウォークマン.md "wikilink")を意識し、日本にも受け入れてもらいたいという、ジョブズの意向からと思われる\[9\]。
 5.  **YOU** (4'31)
     （作詞・作曲:桑田佳祐／英語補作詞:Tommy Snyder／編曲:サザンオールスターズ）
       -
@@ -73,7 +73,7 @@
 6.  **ナチカサヌ恋歌** (4'20)
     （作詞・作曲:桑田佳祐／編曲:サザンオールスターズ）
       -
-        [原由子](../Page/原由子.md "wikilink")ボーカル曲。曲調、歌詞共に[沖縄](https://ja.wikipedia.org/wiki/沖縄 "wikilink")をモチーフとしており、『ナチカサヌ』とは沖縄の方言で「悲しい」という意味。沖縄を訪れて取材をしたことを基に制作された\[8\]。
+        [原由子](../Page/原由子.md "wikilink")ボーカル曲。曲調、歌詞共に[沖縄](https://ja.wikipedia.org/wiki/沖縄 "wikilink")をモチーフとしており、『ナチカサヌ』とは沖縄の方言で「悲しい」という意味。沖縄を訪れて取材をしたことを基に制作された\[10\]。
 7.  **OH, GIRL (悲しい胸のスクリーン)** (3'57)
     （作詞・作曲:桑田佳祐／英語補作詞:Tommy Snyder／編曲:サザンオールスターズ）
       -
@@ -85,7 +85,7 @@
 9.  **政治家** (3'32)
     （作詞・作曲:桑田佳祐／英語補作詞:Tommy Snyder／編曲:サザンオールスターズ）
       -
-        タイトル通り[政治家](../Page/政治家.md "wikilink")や政界を揶揄した[歌詞](../Page/歌詞.md "wikilink")となっており、政治通を自称するスタッフの言葉などを参考にしたという\[9\]。
+        タイトル通り[政治家](../Page/政治家.md "wikilink")や政界を揶揄した[歌詞](../Page/歌詞.md "wikilink")となっており、政治通を自称するスタッフの言葉などを参考にしたという\[11\]。
 10. **MARIKO** (3'54)
     （作詞・作曲:桑田佳祐／編曲:サザンオールスターズ）
 11. **[さよならベイビー](../Page/さよならベイビー.md "wikilink")** (4'54)
@@ -93,13 +93,13 @@
       -
         26枚目シングル。
 12. **GORILLA** (4'42)
-    （作詞:[LINDA OMORI](https://ja.wikipedia.org/wiki/LINDA_OMORI "wikilink")／作曲:[大森隆志](../Page/大森隆志.md "wikilink")／編曲:サザンオールスターズ）
+    （作詞:LINDA OMORI／作曲:[大森隆志](../Page/大森隆志.md "wikilink")／編曲:サザンオールスターズ）
       -
         作詞はLINDA OMORI、作曲は[ギター](../Page/ギター.md "wikilink")の大森によるものであるが、大森のメインボーカル曲ではない。歌詞には大森の出身地である[宮崎弁](../Page/宮崎弁.md "wikilink")が密かに使われている。
 13. **逢いたくなった時に君はここにいない** (4'40)
     （作詞・作曲:桑田佳祐／編曲:サザンオールスターズ）
       -
-        歌詞に英語が一切登場せず、全て日本語で書かれている。後に[中村雅俊](https://ja.wikipedia.org/wiki/中村雅俊 "wikilink")がアルバム「[WITHOUT YOU](https://ja.wikipedia.org/wiki/WITHOUT_YOU "wikilink")」でカバーした。
+        歌詞に英語が一切登場せず、全て日本語で書かれている。後に[中村雅俊](https://ja.wikipedia.org/wiki/中村雅俊 "wikilink")がアルバム「WITHOUT YOU」でカバーした。
 
 ## 参加ミュージシャン
 
@@ -148,11 +148,13 @@
 [Category:サザンオールスターズのアルバム](https://ja.wikipedia.org/wiki/Category:サザンオールスターズのアルバム "wikilink") [Category:ビクタータイシタのアルバム](https://ja.wikipedia.org/wiki/Category:ビクタータイシタのアルバム "wikilink") [Category:1990年のアルバム](https://ja.wikipedia.org/wiki/Category:1990年のアルバム "wikilink") [Category:1990年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1990年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 
 1.  この表記が使われることもあるとしたように、現在公式サイトでも大文字表記になっている。ただし、発売時の掲載及び原盤での表記は小文字を含んだものである。
-2.  「レコードも大宣伝時代 車内ポスターやTV広告、ファッション性重視」『[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")』1990年2月15日付夕刊、17頁。
-3.  [サザンオールスターズ 売上別TOP10＆主な記録](http://www.oricon.co.jp/news/54526/full/) オリコン 2015年1月22日閲覧
-4.  [【オリコン】サザンオールスターズ、40周年アルバムが首位 キャリア40年以上の国内グループ史上初](https://www.oricon.co.jp/news/2117039/full/) オリコン 2018年8月7日閲覧。
-5.
-6.  [SWITCH](../Page/スイッチ・パブリッシング.md "wikilink") Vol.31 No.8 Southern All Stars \[僕らのサザン、みんなのサザン\] p49より。
-7.  [サザンのiTunes全曲配信は音楽シーンに何をもたらす？　関係者・識者が語る「266曲」のインパクト](http://realsound.jp/2014/12/post-2100.html) - リアルサウンド、2014年12月24日、2016年3月13日閲覧。
-8.  『ただの歌詩じゃねえかこんなもん'84-'90』P197、新潮社、1990年
-9.
+2.  [サザン、全266曲を世界111ヶ国で配信](https://www.oricon.co.jp/news/2046030/full/) オリコン 2014年12月17日配信, 2020年6月4日閲覧
+3.  [サザン関連全972曲 サブスク一斉解禁 メンバーソロ曲も対象に](https://www.oricon.co.jp/news/2151435/full/) オリコン 2019年12月20日配信, 2019年12月20日閲覧
+4.  「レコードも大宣伝時代 車内ポスターやTV広告、ファッション性重視」『[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")』1990年2月15日付夕刊、17頁。
+5.  [サザンオールスターズ 売上別TOP10＆主な記録](http://www.oricon.co.jp/news/54526/full/) オリコン 2015年1月22日閲覧
+6.  [【オリコン】サザンオールスターズ、40周年アルバムが首位 キャリア40年以上の国内グループ史上初](https://www.oricon.co.jp/news/2117039/full/) オリコン 2018年8月7日閲覧。
+7.
+8.  [SWITCH](../Page/スイッチ・パブリッシング.md "wikilink") Vol.31 No.8 Southern All Stars \[僕らのサザン、みんなのサザン\] p49より。
+9.  [サザンのiTunes全曲配信は音楽シーンに何をもたらす？　関係者・識者が語る「266曲」のインパクト](http://realsound.jp/2014/12/post-2100.html) - リアルサウンド、2014年12月24日、2016年3月13日閲覧。
+10. 『ただの歌詩じゃねえかこんなもん'84-'90』P197、新潮社、1990年
+11.

@@ -7,9 +7,9 @@
 
 [FLAC](../Page/FLAC.md "wikilink")の[コードをベースに開発されたロスレス](../Page/ソースコード.md "wikilink")・オーディオコンプレッサーである。正式リリース以前はYalacと呼ばれていた。[可逆圧縮](../Page/可逆圧縮.md "wikilink")の[音声ファイルフォーマット](../Page/音声ファイルフォーマット.md "wikilink")であるため、元の音声データからの音質の[劣化](../Page/劣化.md "wikilink")が無い。FLAC並（もしくは以上）のデコード速度とエンコード速度及び再生負荷（軽さ）\[1\]\[2\]、内部cueシート対応等と総合的に高い性能を誇る。
 
-無償で利用できるが[オープンソース](../Page/オープンソース.md "wikilink")ではない。そのため、再生は[Foobar2000](../Page/Foobar2000.md "wikilink")や[Winamp](https://ja.wikipedia.org/wiki/Winamp "wikilink")など、エンコードはtakc.exeを外部エンコーダーとして利用できる物およびtak.exe本体のみと非常に限られていたが、現在は公認[DirectShow](https://ja.wikipedia.org/wiki/DirectShow "wikilink")フィルターにより[Windows Media Playerなどでも利用できる](../Page/Windows_Media_Player.md "wikilink")。また、開発者向けにデコード用の[SDKが公開され](../Page/ソフトウェア開発キット.md "wikilink")、公式以外のアプリケーションからも簡単に利用できるようになった。Tak Ver 1.x系列はVer 1.1.2 Final（[2009年](../Page/2009年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")）をもって開発が終了。現在、Tak Ver 2.x系列の開発に移行しており、最新版はVer 2.3.0 Final（[2013年](../Page/2013年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")）がリリースされている\[3\]ほか、最新評価版としてはVer 2.3.0 Beta 2（[2013年](../Page/2013年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink")）がリリースされた\[4\]。
+無償で利用できるが[オープンソース](../Page/オープンソース.md "wikilink")ではない。そのため、再生は[Foobar2000](../Page/Foobar2000.md "wikilink")や[Winamp](https://ja.wikipedia.org/wiki/Winamp "wikilink")など、エンコードはtakc.exeを外部エンコーダーとして利用できる物およびtak.exe本体のみと非常に限られていたが、現在は公認[DirectShow](https://ja.wikipedia.org/wiki/DirectShow "wikilink")フィルターにより[Windows Media Playerなどでも利用できる](../Page/Windows_Media_Player.md "wikilink")。また、開発者向けにデコード用の[SDKが公開され](../Page/ソフトウェア開発キット.md "wikilink")、公式以外のアプリケーションからも簡単に利用できるようになった。[FFmpeg](../Page/FFmpeg.md "wikilink")に独自のオープンソースによるデコーダが実装されているため、デコードに限ればWindows以外のプラットフォームでも利用可能である。
 
-しかし6年以上アップデートがない。flac, opus, webmといった拡張子を持つファイルにとってかわられつつあることは否めず、64bit版を作成するのをTomが渋った結果、64bit版のためのソフトウェアからは遠ざかってしまった。
+TAK Ver 1.x系列はVer 1.1.2 Final（[2009年](../Page/2009年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")）をもって開発が終了。現在、TAK Ver 2.x系列の開発に移行しており、最新版はVer 2.3.0 Final（[2013年](../Page/2013年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")）がリリースされている\[3\]ほか、最新評価版としてはVer 2.3.1 Beta 1（[2018年](../Page/2018年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")）がリリースされた\[4\]。オープンソース化や[Linux](../Page/Linux.md "wikilink")対応、64ビット化のために、[Delphi](../Page/Delphi.md "wikilink")から[Lazarus](../Page/Lazarus.md "wikilink")や[C言語](../Page/C言語.md "wikilink")に移植するための作業が行われている。
 
 ## 特徴
 
@@ -26,8 +26,8 @@
       - Logを格納する事により、エンコード時の環境等を確認する事が可能。
       - [ID3タグ](../Page/ID3タグ.md "wikilink")とデータの高い互換性を有する。
   - [ストリーミング](../Page/ストリーミング.md "wikilink")への利用可能なデータ形式。
-  - クローズドソース故に対応ソフトが限られていた。現在は他のアプリケーションから簡単に利用できるデコード用の[SDKが公開されている](../Page/ソフトウェア開発キット.md "wikilink")
-  - エンコードに関してはtak.exe本体の他、[Exact Audio Copyや](https://ja.wikipedia.org/wiki/Exact_Audio_Copy "wikilink")[Foobar2000](../Page/Foobar2000.md "wikilink")等、takc.exeを外部エンコーダーとして利用できるソフトウェアであれば、エンコードする事が可能である。
+  - クローズドソース故に対応ソフトが限られていた。現在は他のアプリケーションから簡単に利用できるデコード用の[SDKが公開されている](../Page/ソフトウェア開発キット.md "wikilink")。また、[FFmpeg](../Page/FFmpeg.md "wikilink")にオープンソースのデコーダが実装されている
+  - エンコードに関してはtak.exe本体の他、[Exact Audio Copyや](../Page/Exact_Audio_Copy.md "wikilink")[Foobar2000](../Page/Foobar2000.md "wikilink")等、takc.exeを外部エンコーダーとして利用できるソフトウェアであれば、エンコードする事が可能である。
   - 公認DirectShowフィルターにより、DirectShowを利用可能なソフトで使用する事ができる。(最新版：[dsfTAKSource v0.0.1.6(TAK2.2.0互換)](http://liviocavallo.altervista.org/))
   - Hydrogenaudioでのアンケートによれば、可逆音声ファイル内での普及率は2012年現在、FLAC、WavPack、Apple Losslessに次ぐ4位となっている。\[5\]
 
@@ -37,7 +37,7 @@
   - [Quintessential Player](https://ja.wikipedia.org/wiki/Quintessential_Player "wikilink") - [オーディオプレーヤー](https://ja.wikipedia.org/wiki/オーディオプレーヤー "wikilink")
   - [Winamp](https://ja.wikipedia.org/wiki/Winamp "wikilink") - [メディアプレーヤー](../Page/メディアプレーヤー.md "wikilink")
   - [XMPlay](https://ja.wikipedia.org/wiki/XMPlay "wikilink") - [メディアプレーヤー](../Page/メディアプレーヤー.md "wikilink")
-  - [Exact Audio Copy](https://ja.wikipedia.org/wiki/Exact_Audio_Copy "wikilink") - [リッパー](../Page/リッピング.md "wikilink")・[ライター](../Page/ライティングソフトウェア.md "wikilink")
+  - [Exact Audio Copy](../Page/Exact_Audio_Copy.md "wikilink") - [リッパー](../Page/リッピング.md "wikilink")・[ライター](../Page/ライティングソフトウェア.md "wikilink")
   - [ImgBurn](../Page/ImgBurn.md "wikilink") - [リッパー](../Page/リッピング.md "wikilink")・[ライター](../Page/ライティングソフトウェア.md "wikilink")
   - [GermaniX](https://ja.wikipedia.org/wiki/GermaniX "wikilink") - [トランスコーダー](../Page/トランスコード.md "wikilink")
   - [Transcoder](https://ja.wikipedia.org/wiki/Transcoder "wikilink") - [トランスコーダー](../Page/トランスコード.md "wikilink")
@@ -73,5 +73,5 @@
 1.  [Lossless audio codec comparison - Revision 3 (August 10, 2013)](http://www.icer.nl/losslesstest/Lossless%20audio%20codec%20comparison%20-%20revision%203.pdf)
 2.  [synthetic-soul.（可逆音声ファイル 設定別 各形式比較表（圧縮率、Decode・Encode速度））](http://www.synthetic-soul.co.uk/comparison/lossless/)
 3.  [TAK 2.3.0 - Hydrogenaudio Forums](http://www.hydrogenaudio.org/forums/index.php?showtopic=101386)
-4.  [TAK 2.3.0 - Hydrogenaudio Forums](http://www.hydrogenaudio.org/forums/index.php?showtopic=101128)
+4.  [TAK 2.3.1 Beta 1 - Hydrogenaudio Forums](https://hydrogenaud.io/index.php/topic,115769.0.html)
 5.  [2012 ripping/encoding general poll - Hydrogenaudio Forums](http://www.hydrogenaudio.org/forums/index.php?showtopic=92660)

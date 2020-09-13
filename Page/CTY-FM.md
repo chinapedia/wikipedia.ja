@@ -11,7 +11,7 @@
 
 その後、エフエムよっかいちは、[2011年](../Page/2011年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2017年](../Page/2017年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで四日市市に本社を置く[ケーブルテレビ局](../Page/ケーブルテレビ局.md "wikilink")[シー・ティー・ワイ](../Page/シー・ティー・ワイ.md "wikilink")の[完全子会社](https://ja.wikipedia.org/wiki/完全子会社 "wikilink")であった。同局のほか、[津市](../Page/津市.md "wikilink")に本社を置くケーブルテレビ局[ZTV](../Page/ZTV.md "wikilink")（津・亀山エリアのみ）が[再送信](https://ja.wikipedia.org/wiki/再送信 "wikilink")している。長らく**PORT WAVE**（ポートウェイブ）の愛称で[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")をしていたが、[2017年](../Page/2017年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に合併のためコールネーム全体が**CTY-FM**に変更された。本社と[演奏所](https://ja.wikipedia.org/wiki/演奏所 "wikilink")（スタジオ）は四日市市本町8番2号、[送信所](../Page/送信所.md "wikilink")は[四日市港ポートビル](../Page/四日市港ポートビル.md "wikilink")にある。また、かつてサテライトスタジオが四日市一番街商店街内の文化の諏訪駅にあった。放送エリアは、四日市市と菰野町の他、[鈴鹿市](../Page/鈴鹿市.md "wikilink")、[いなべ市](../Page/いなべ市.md "wikilink")、[桑名市](../Page/桑名市.md "wikilink")、[朝日町](../Page/朝日町_\(三重県\).md "wikilink")、[川越町](../Page/川越町.md "wikilink")、[東員町](../Page/東員町.md "wikilink")で、エリア内合計人口77万6千人の85%をカバーする\[1\]。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")の一部でも良好に聞こえる地域がある。
 
-株式会社シー･ティー･ワイとエフエムよっかいち株式会社は、2017年4月1日付にて合併\[2\]。エフエムよっかいちの名称も2017年4月1日付でコールネームからなくなった。コールネームにはCTY-FMとハイフンが入っているが、新ロゴにはハイフンは省略されている。時報通知の際も「CTYが午前(あるいは午後)○○時をお伝えします」とCTY提供であることを明示している。呼出名称は放送内で用いられていない。新しい[ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")は[エレキギター](https://ja.wikipedia.org/wiki/エレキギター "wikilink")のソロの後で「シー・ティー・ワイ・エフエム(x2-3)セブンティ・シックス・ポイント・エイト(x1)」で、PORT WAVE時代の周波数コール\[3\]を含んだ[SF](../Page/SF.md "wikilink")の後に短く全員で愛称を囁くヴァージョンよりボーカルを前面に出した構成\[4\]。予報・正報音は省略される。
+株式会社シー･ティー･ワイとエフエムよっかいち株式会社は、2017年4月1日付にて合併\[2\]。エフエムよっかいちの名称も2017年4月1日付でコールネームからなくなった。コールネームにはCTY-FMとハイフンが入っているが、新ロゴにはハイフンは省略されている。時報通知の際も「CTYが午前(あるいは午後)○○時をお伝えします」とCTY提供であることを明示している。呼出名称は放送内で用いられていない。新しい[ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")は[エレキギター](https://ja.wikipedia.org/wiki/エレキギター "wikilink")のソロの後で「シー・ティー・ワイ・エフエム(x2-3)セブンティ・シックス・ポイント・エイト(x1)」で、PORT WAVE時代の周波数コール\[3\]を含んだ[SFの後に短く全員で愛称を囁くヴァージョンよりボーカルを前面に出した構成](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")\[4\]。予報・正報音は省略される。
 
 ## 沿革
 
@@ -33,7 +33,7 @@
   - [2019年](../Page/2019年.md "wikilink")（令和元年）
       - [9月](../Page/9月.md "wikilink")に開局20周年を迎えた。
   - [2020年](../Page/2020年.md "wikilink")（令和2年）
-      - [2月1日](../Page/2月1日.md "wikilink") [パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")の[ブラウザ](https://ja.wikipedia.org/wiki/ブラウザ "wikilink")への[インターネット](../Page/インターネット.md "wikilink")[ラジオ](../Page/ラジオ.md "wikilink")が、正式に[FM++](https://ja.wikipedia.org/wiki/FM++ "wikilink")音源へ変更\[12\]。
+      - [2月1日](../Page/2月1日.md "wikilink") [パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")の[ブラウザ](https://ja.wikipedia.org/wiki/ブラウザ "wikilink")への[インターネット](../Page/インターネット.md "wikilink")[ラジオ](../Page/ラジオ.md "wikilink")が、正式に[FM++](https://ja.wikipedia.org/wiki/FM++ "wikilink")音源へ変更\[12\]。FM聴からの配信を終了。
 
 ## 放送内容
 

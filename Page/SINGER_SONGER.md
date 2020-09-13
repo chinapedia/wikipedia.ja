@@ -144,7 +144,7 @@ VICL-62637（期間限定特別価格盤）</p></td>
   - [SINGER SONGER公式サイト](http://www.singersonger.com/)
   - [SINGER SONGER](https://www.jvcmusic.co.jp/-/Artist/A019691.html) - 所属レーベルSPEEDSTAR RECORDSのアーティストページ
 
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:くるり](https://ja.wikipedia.org/wiki/Category:くるり "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
+[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:くるり](https://ja.wikipedia.org/wiki/Category:くるり "wikilink") [Category:Cocco](https://ja.wikipedia.org/wiki/Category:Cocco "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
 
 1.
 2.

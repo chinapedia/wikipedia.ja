@@ -126,7 +126,7 @@ FOMAサービス先駆けて、マルチメディアサービス[M-stage](../Pag
   - [2003年](../Page/2003年.md "wikilink")4月：@FreeDサービス開始。P-in Free 1S、P-in Free 1P、WRISTOMO発売
   - 2003年7月：P-in Free 2PWL発売
   - [2005年](../Page/2005年.md "wikilink")4月：新規契約受付を終了。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月7日24時、サービス終了。[PHS](../Page/PHS.md "wikilink")の顧客だった人達には[FOMA](../Page/FOMA.md "wikilink")を中心としたドコモの[携帯電話](../Page/携帯電話.md "wikilink")への変更を引き続き案内している。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月7日24時、サービス終了、[停波](../Page/停波.md "wikilink")。[PHS](../Page/PHS.md "wikilink")の顧客だった人達には[FOMA](../Page/FOMA.md "wikilink")を中心としたドコモの[携帯電話](../Page/携帯電話.md "wikilink")への変更を引き続き案内している。
 
 ## 通信端末
 

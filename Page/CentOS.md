@@ -477,17 +477,28 @@ Maintenance Updates</p></th>
 <td><p>2019年9月24日</p></td>
 <td><p>2019年5月7日</p></td>
 <td><p>140日</p></td>
-<td></td>
-<td></td>
+<td><p>2024年 5月</p></td>
+<td><p>2029年5月31日</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>8.1-1911（最新）</p></td>
+<td><p>8.1-1911</p></td>
 <td><p>x86-64, POWER8 LE, AArch64</p></td>
 <td><p>4.18.0-147</p></td>
 <td><p>2020年1月15日</p></td>
 <td><p>2019年11月5日</p></td>
 <td><p>71日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>8.2.2004（最新）</p></td>
+<td><p>x86-64, POWER8 LE, AArch64</p></td>
+<td><p>4.18.0-193</p></td>
+<td><p>2020年6月15日</p></td>
+<td><p>2020年4月28日</p></td>
+<td><p>48日</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -520,20 +531,66 @@ CentOSは8では[x86-64](https://ja.wikipedia.org/wiki/x86-64 "wikilink")、[POW
 
 ## 派生品
 
+### CentOS/RHEL派生
+
+[RedHatFamilyTree1210.svg](https://ja.wikipedia.org/wiki/File:RedHatFamilyTree1210.svg "fig:RedHatFamilyTree1210.svg")  ※[CentOS/RHEL派生版一覧に掲載され](https://ja.wikipedia.org/wiki/:en:List_of_Linux_distributions#CentOS/RHEL-based "wikilink")、パッケージ管理等が同様のもの
+
+<table>
+<thead>
+<tr class="header">
+<th><p>配布版</p></th>
+<th><p>説明</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/Asianux.md" title="wikilink">Asianux</a></p></td>
+<td><p>アジア5ヵ国の企業が共同開発。<a href="../Page/Red_Hat_Enterprise_Linux.md" title="wikilink">Red Hat Enterprise Linux派生</a>。前身は<a href="../Page/MIRACLE_LINUX.md" title="wikilink">MIRACLE LINUX</a>、、<a href="../Page/Haansoft_Linux.md" title="wikilink">Haansoft Linux</a>（韓国製）。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>Small Business Server. File, Print, Messaging, UTM, VPN.</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/Fermi_Linux_LTS" title="wikilink">Fermi Linux LTS</a></p></td>
+<td><p>Scientific Linuxの前身。フェルミ国立加速器研究所の研究施設に特有のソフトウェアを追加[28]。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/MIRACLE_LINUX.md" title="wikilink">MIRACLE LINUX</a></p></td>
+<td><p>商用、<a href="../Page/Oracle_Database.md" title="wikilink">Oracle対応</a>、日本製。Asianuxへと移行。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/Oracle_Linux.md" title="wikilink">Oracle Linux</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Oracle" title="wikilink">Oracle</a>がOracle製品に最適化したUnbreakable Enterprise Kernel（UEK）を採用。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:zh:紅旗Linux" title="wikilink">紅旗Linux</a> 是<a href="../Page/中華人民共和国.md" title="wikilink">中国製</a>。Asianuxへと移行。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>for computer clusters, is now based on CentOS</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/Scientific_Linux.md" title="wikilink">Scientific Linux</a></p></td>
+<td><p>Fermi Linuxの後継。Red Hat Enterprise Linuxのクローン。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>CentOSから派生。</p></td>
+</tr>
+</tbody>
+</table>
+
+### その他
+
   - NuOnce Networks CentOS / BlueQuartz CD
   - BlueOnyx
   - Openfiler
-  - Rocks Cluster Distribution, for computer clusters, is now based on CentOS
-  - SME Server
   - Trixbox, a PBX solution
   - XenEnterprise
   - PBX in a Flash
   - FreePBX Distro
-
-## 関連項目
-
-  - [Linuxディストリビューションの比較](../Page/Linuxディストリビューションの比較.md "wikilink")
-  - [Red Hat Enterprise Linux派生ディストリビューション](https://ja.wikipedia.org/wiki/Red_Hat_Enterprise_Linux派生ディストリビューション "wikilink")
 
 ## 脚注
 
@@ -559,7 +616,12 @@ CentOSは8では[x86-64](https://ja.wikipedia.org/wiki/x86-64 "wikilink")、[POW
       - [RHEL](http://distrowatch.com/table.php?distribution=redhat)
       - [Fedora](http://distrowatch.com/table.php?distribution=fedora)
 
-[Category:Linuxディストリビューション](https://ja.wikipedia.org/wiki/Category:Linuxディストリビューション "wikilink") [Category:2004年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2004年のソフトウェア "wikilink")
+## 関連項目
+
+  - [Linuxディストリビューションの比較](../Page/Linuxディストリビューションの比較.md "wikilink")
+  - [Red Hat Enterprise Linux派生ディストリビューション](https://ja.wikipedia.org/wiki/Red_Hat_Enterprise_Linux派生ディストリビューション "wikilink")
+
+[Category:Red_Hat派生ディストリビューション](https://ja.wikipedia.org/wiki/Category:Red_Hat派生ディストリビューション "wikilink") [Category:2004年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2004年のソフトウェア "wikilink")
 
 1.
 2.
@@ -588,3 +650,4 @@ CentOSは8では[x86-64](https://ja.wikipedia.org/wiki/x86-64 "wikilink")、[POW
 25.
 26.
 27. [CentOS 7 32ビット版](http://mirror.centos.org/altarch/7/isos/i386/)
+28.

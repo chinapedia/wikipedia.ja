@@ -46,7 +46,7 @@
 
 ## 人物
 
-  - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[秦野市](../Page/秦野市.md "wikilink")出身。[神奈川県立伊勢原高等学校](../Page/神奈川県立伊勢原高等学校.md "wikilink")卒業。身長175cm。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+  - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[秦野市](../Page/秦野市.md "wikilink")出身。[神奈川県立伊勢原高等学校](../Page/神奈川県立伊勢原高等学校.md "wikilink")卒業。身長175cm。[血液型は](../Page/ABO式血液型.md "wikilink")[O型](../Page/ABO式血液型.md "wikilink")。
   - 出生時の本名は「**杉原 康弘**」だが、2度改名しており、1度目の改名では**杉原 悠**、現在は**杉原 有音**（すぎはら ゆうね）。
   - 両親がオーケストラ([東京都交響楽団](../Page/東京都交響楽団.md "wikilink"))の団員という音楽一家に生まれ（父親はトランペット、母親はチェロ）、3歳の頃から[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")を学ぶ。[篠崎功子](../Page/篠崎功子.md "wikilink")に師事。
   - ロックに最初に触れたのは中学1年の13歳の時。[YMOと](../Page/イエロー・マジック・オーケストラ.md "wikilink")[ジャパンと](../Page/ジャパン_\(バンド\).md "wikilink")[RCサクセション](../Page/RCサクセション.md "wikilink")だった。「これだ」と思った瞬間に、音楽をやっていきたいと思い、その時には既にステージに立っている自分の姿を自分の中に描いていて、音楽でプロになりたいと思っていた。その後、パンクが好きになり、「パンクスもどきの真似小僧」になり、高校1年生の時は何もしないで遊んでいた。フラフラ遊びながらも、「俺は何をしたいのかな」と悩み、最終的に行き着いたのが音楽だった。高校2年生の時からは「ギター一辺倒」で、当時は「これをやりたい」という音楽がなかったのと、たまたまやっていたバンドがヘビメタ系だったため、「テクニックを磨くにはヘビメタがいい」と思い、だんだんのめり込んでいった\[6\]。
@@ -67,7 +67,7 @@
 
 ### 社会活動
 
-  - 娘（名前はLuna）が生まれてからは（離婚後、妻と娘はアメリカに住んでおり、現在でもオフには娘に会いに行くという。）、環境問題に取り組むようになり、ソロ・ユニット活動と並行しながらイベントなどに多数出演している他、自身の[ブログ](../Page/ブログ.md "wikilink")など、[インターネット](../Page/インターネット.md "wikilink")上で度々政治的発言を行うこともある。[STOP ROKKASHOにも参加し](../Page/STOP_ROKKASHO.md "wikilink")、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")と[岩手県](../Page/岩手県.md "wikilink")産品の[不買などを呼びかけている](../Page/ボイコット.md "wikilink")。
+  - 娘（名前はLuna）が生まれてからは（離婚後、妻と娘はアメリカに住んでおり、現在でもオフには娘に会いに行くという。）、環境問題に取り組むようになり、ソロ・ユニット活動と並行しながらイベントなどに多数出演している他、自身の[ブログ](../Page/ブログ.md "wikilink")など、[インターネット](../Page/インターネット.md "wikilink")上で度々政治的発言を行うこともある。[STOP ROKKASHOにも参加し](../Page/STOP_ROKKASHO.md "wikilink")、
   - 毛皮反対も公言している。自身のソロ活動においても、「アルバムが発売されれば収録されているシングルCDは必要無くなってしまう」という理由で、2009年以降シングルは全てデジタル配信で発表している。
   - 政治的発言も多く、2011年の[福島第一原子力発電所事故](https://ja.wikipedia.org/wiki/福島第一原子力発電所事故 "wikilink")発生以降は[坂本龍一](../Page/坂本龍一.md "wikilink")らと共に脱原発を訴えており、2014年には脱原発を争点にして都知事選に出馬した[細川護熙](../Page/細川護熙.md "wikilink")と対談を行っている\[12\]。
   - [2016年](../Page/2016年.md "wikilink")3月、[シリア](../Page/シリア.md "wikilink")[難民](https://ja.wikipedia.org/wiki/難民 "wikilink")が暮らす[ヨルダン](../Page/ヨルダン.md "wikilink")の「ザータリ難民キャンプ」「アズラク難民キャンプ」を訪問し、帰国後の6月20日「[世界難民の日](https://ja.wikipedia.org/wiki/世界難民の日 "wikilink")」に併せ、トーク・イベントやラジオ番組に出演した\[13\]\[14\]。ステージやテレビ番組出演時に使用するギターには「SAVE SYRIA」と書かれている\[15\]。
@@ -1206,11 +1206,22 @@
 <td><p>「機動戦士ガンダム」の楽曲をアコースティックギターによってインストゥルメンタルカヴァーしたコンピレーションアルバム。</p></td>
 </tr>
 <tr class="odd">
-<td><p>2013</p></td>
-<td><p><strong>Dead End Tribute - Song of Lunatics</strong></p></td>
+<td><p>2013/9/4</p></td>
+<td><p><strong>DEAD END Tribute - SONG OF LUNATICS -</strong></p></td>
 <td><p>Serafine</p></td>
 <td></td>
 <td><p>ギター参加</p></td>
+</tr>
+<tr class="even">
+<td><p>2020/6/24</p></td>
+<td><p><strong>機動戦士ガンダム 40th Anniversary Album ～BEYOND～</strong></p></td>
+<td><p>めぐりあい（SUGIZO feat. <a href="https://ja.wikipedia.org/wiki/GLIM_SPANKY" title="wikilink">GLIM SPANKY名義</a>） <a href="https://ja.wikipedia.org/wiki/水の星へ愛をこめて" title="wikilink">水の星へ愛をこめて</a>（SUGIZO feat． コムアイ（<a href="https://ja.wikipedia.org/wiki/水曜日のカンパネラ" title="wikilink">水曜日のカンパネラ</a>）名義）</p>
+<p>A Red Ray（SUGIZO feat.<a href="https://ja.wikipedia.org/wiki/miwa" title="wikilink">miwa</a>名義）</p>
+<p>光の涯（SUGIZO feat． <a href="https://ja.wikipedia.org/wiki/アイナ・ジ・エンド" title="wikilink">アイナ・ジ・エンド</a>（<a href="https://ja.wikipedia.org/wiki/BiSH" title="wikilink">BiSH</a>）名義）</p>
+<p>EGO<SODv>（<a href="../Page/澤野弘之.md" title="wikilink">澤野弘之</a> feat.mizuki＆SUGIZO名義）</p>
+<p>ビギニング</p></td>
+<td></td>
+<td><p>SUGIZOは同アルバムの監修を担当。さらに『機動戦士ガンダム40周年プロジェクト』の総合音楽プロデューサーに就任し、『機動戦士ガンダム40周年プロジェクト』記念テーマ曲を制作・プロデュースしている。</p></td>
 </tr>
 </tbody>
 </table>

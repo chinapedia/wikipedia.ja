@@ -44,7 +44,7 @@
 | 第26回                                                  | 1976年     | [荒川洋治](../Page/荒川洋治.md "wikilink")                             | 水駅             |
 | 第27回                                                  | 1977年     | [小長谷清実](https://ja.wikipedia.org/wiki/小長谷清実 "wikilink")        | 小航海26          |
 | 第28回                                                  | 1978年     | [大野新](https://ja.wikipedia.org/wiki/大野新_\(詩人\) "wikilink")     | 家              |
-| 第29回                                                  | 1979年     | [松下育男](https://ja.wikipedia.org/wiki/松下育男 "wikilink")          | 肴              |
+| 第29回                                                  | 1979年     | [松下育男](../Page/松下育男.md "wikilink")                             | 肴              |
 | 第30回                                                  | 1980年     | [一色真理](https://ja.wikipedia.org/wiki/一色真理 "wikilink")          | 純粋病            |
 | 第31回                                                  | 1981年     | [小松弘愛](https://ja.wikipedia.org/wiki/小松弘愛 "wikilink")          | 狂泉物語           |
 | [ねじめ正一](../Page/ねじめ正一.md "wikilink")                  | ふ         |                                                                |                |

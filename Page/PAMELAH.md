@@ -66,22 +66,17 @@
 
 #### ベストアルバム
 
-|  | 発売日         | タイトル                                                                                 | 規格品番       | 最高位 |
-|  | ----------- | ------------------------------------------------------------------------------------ | ---------- | --- |
-|  | 1997年12月20日 | **[HIT COLLECTION -CONFIDENCE-](../Page/HIT_COLLECTION_-CONFIDENCE-.md "wikilink")** | COCA-14772 | 9位  |
+|     | 発売日         | タイトル                                                                                                                             | 規格品番       | 最高位  |
+| --- | ----------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---- |
+| 1st | 1997年12月20日 | **[HIT COLLECTION -CONFIDENCE-](../Page/HIT_COLLECTION_-CONFIDENCE-.md "wikilink")**                                             | COCA-14772 | 9位   |
+| 2nd | 2003年1月25日  | [complete of PAMELAH at the BEING studio](https://ja.wikipedia.org/wiki/complete_of_PAMELAH_at_the_BEING_studio "wikilink")（非公認） | JBCJ-5007  | 126位 |
+| 3rd | 2007年12月12日 | [BEST OF BEST 1000 PAMELAH](https://ja.wikipedia.org/wiki/BEST_OF_BEST_1000#BEST_OF_BEST_1000_PAMELAH "wikilink")（非公認）           | JBCS-1008  | 237位 |
 
 #### リミックスアルバム
 
 |  | 発売日        | タイトル                                                                                                  | 規格品番       | 最高位 |
 |  | ---------- | ----------------------------------------------------------------------------------------------------- | ---------- | --- |
 |  | 1999年7月28日 | **[REMIX EDITION〜PAMELAHOLIC〜](https://ja.wikipedia.org/wiki/REMIX_EDITION〜PAMELAHOLIC〜 "wikilink")** | COCP-50117 | 39位 |
-
-#### 非公認アルバム
-
-|  | 発売日         | タイトル                                                                                                                        | 規格品番      |
-|  | ----------- | --------------------------------------------------------------------------------------------------------------------------- | --------- |
-|  | 2003年1月25日  | [complete of PAMELAH at the BEING studio](https://ja.wikipedia.org/wiki/complete_of_PAMELAH_at_the_BEING_studio "wikilink") | JBCJ-5007 |
-|  | 2007年12月12日 | [BEST OF BEST 1000 PAMELAH](https://ja.wikipedia.org/wiki/BEST_OF_BEST_1000#BEST_OF_BEST_1000_PAMELAH "wikilink")           | JBCS-1008 |
 
 ### 映像作品
 

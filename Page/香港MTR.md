@@ -1,15 +1,15 @@
 > この記事は[香港MTR](https://ja.wikipedia.org/wiki/香港MTR)から翻訳されています。
 
 
-**MTR**（エムティーアール、**M**ass **T**ransit **R**ailway）は、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")最大の[鉄道路線](../Page/鉄道路線.md "wikilink")システムである。[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")では**港鉄**（[繁体字](../Page/繁体字.md "wikilink")：（こうてつ））。[2007年](../Page/2007年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")に香港地鉄公司へ[九広鉄路](../Page/九広鉄路.md "wikilink")公司の運営権が譲渡、統合されて誕生した[香港鉄路有限公司が運営している](../Page/香港鉄路_\(企業\).md "wikilink")。
+**MTR**（エムティーアール、**M**ass **T**ransit **R**ailway）は、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")最大の[鉄道路線](../Page/鉄道路線.md "wikilink")システムである。[中国語](../Page/中国語.md "wikilink")では**港鉄**（こうてつ、）。[2007年](../Page/2007年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")に香港地鉄公司へ[九広鉄路](../Page/九広鉄路.md "wikilink")公司の運営権が譲渡、統合されて誕生した[香港鉄路有限公司が運営している](../Page/香港鉄路_\(企業\).md "wikilink")。
 
 ## 概要
 
-[1979年](../Page/1979年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、[観塘線](https://ja.wikipedia.org/wiki/観塘線 "wikilink")の[観塘駅](https://ja.wikipedia.org/wiki/観塘駅 "wikilink") (Kwun Tong) - [石硤尾駅](https://ja.wikipedia.org/wiki/石コウ尾駅 "wikilink") (Shek Kip Mei) 間の開通を皮切りに、現在では[香港島](../Page/香港島.md "wikilink")北部、[九龍](../Page/九龍.md "wikilink")地区、[新界](../Page/新界.md "wikilink")南部、および[ランタオ島](https://ja.wikipedia.org/wiki/ランタオ島 "wikilink")の4地区で全11路線（全長174.4km）・93駅を営業、一日の利用者数は約470万人程であ る。
+[1979年](../Page/1979年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、[観塘線](https://ja.wikipedia.org/wiki/観塘線 "wikilink")の[観塘駅](https://ja.wikipedia.org/wiki/観塘駅 "wikilink")から[石硤尾駅](https://ja.wikipedia.org/wiki/石硤尾駅 "wikilink")間の開通を皮切りに、現在では[香港島](../Page/香港島.md "wikilink")北部、[九龍](../Page/九龍.md "wikilink")地区、[新界](../Page/新界.md "wikilink")南部、および[ランタオ島](../Page/ランタオ島.md "wikilink")の4地区で全11路線（全長174.4 km）・93駅を営業、一日の利用者数は約470万人程である。
 
 [2007年](../Page/2007年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")からは、[九広鉄路](../Page/九広鉄路.md "wikilink")公司が運営していた4路線の運営も行っている。
 
-[ロゴマーク](https://ja.wikipedia.org/wiki/ロゴマーク "wikilink")は漢字の「[木](https://ja.wikipedia.org/wiki/木 "wikilink")」の[篆書体](../Page/篆書体.md "wikilink")に由来し、「力・安定・成長」を意味する。また、2つの「M」や[九竜半島と](../Page/九龍.md "wikilink")[香港島](../Page/香港島.md "wikilink")を表す円弧を1つの棒で繋げることにも見える\[1\]。
+[ロゴマーク](https://ja.wikipedia.org/wiki/ロゴマーク "wikilink")は漢字の「[木](https://ja.wikipedia.org/wiki/木 "wikilink")」の[篆書体](../Page/篆書体.md "wikilink")に由来し、「力・安定・成長」を意味する。また、2つの「M」や[九竜半島と](../Page/九龍.md "wikilink")[香港島](../Page/香港島.md "wikilink")を表す円弧を1つの棒で繫げることにも見える\[1\]。
 
 ## 施設
 
@@ -17,12 +17,12 @@
 
 #### 旧香港地鉄
 
-  - [メトロキャメル電車（直流）（M-Train）](../Page/香港地下鉄メトロキャメル電車_\(直流\).md "wikilink") - [観塘線](https://ja.wikipedia.org/wiki/観塘線 "wikilink")・[{{Lang](https://ja.wikipedia.org/wiki/セン湾線 "wikilink")・[港島線](https://ja.wikipedia.org/wiki/港島線 "wikilink")・[将軍澳線](https://ja.wikipedia.org/wiki/将軍澳線 "wikilink")・[迪士尼線](https://ja.wikipedia.org/wiki/迪士尼線 "wikilink")
+  - [メトロキャメル電車（直流）（M-Train）](../Page/香港地下鉄メトロキャメル電車_\(直流\).md "wikilink") - [観塘線](https://ja.wikipedia.org/wiki/観塘線 "wikilink")・[荃湾線](https://ja.wikipedia.org/wiki/荃湾線 "wikilink")・[港島線](https://ja.wikipedia.org/wiki/港島線 "wikilink")・[将軍澳線](https://ja.wikipedia.org/wiki/将軍澳線 "wikilink")・[迪士尼線](https://ja.wikipedia.org/wiki/迪士尼線 "wikilink")
   - [Rotem電車（K-Train）](../Page/香港地下鉄Rotem電車.md "wikilink") - [東涌線](https://ja.wikipedia.org/wiki/東涌線 "wikilink")・[将軍澳線](https://ja.wikipedia.org/wiki/将軍澳線 "wikilink")
   - [ADtranz-CAF電車](../Page/香港地鉄ADtranz-CAF電車.md "wikilink") - [東涌線](https://ja.wikipedia.org/wiki/東涌線 "wikilink")・[機場快線](https://ja.wikipedia.org/wiki/機場快線 "wikilink")
   - [中国製電車](../Page/香港鉄路市区線中国製電車_\(初代\).md "wikilink")（C-Train） - [観塘線](https://ja.wikipedia.org/wiki/観塘線 "wikilink")
   - [南港島線中国製電車](../Page/香港鉄路南港島線中国製電車.md "wikilink")（S-Train） - [南港島線](https://ja.wikipedia.org/wiki/南港島線 "wikilink")
-  - [中車四方電車](https://ja.wikipedia.org/wiki/:en:MTR_Urban_Lines_Vision_Train "wikilink")（Q-Train）（2019年より導入予定）- [觀塘線古いシステム](https://ja.wikipedia.org/wiki/観塘線 "wikilink")・[{{Lang](https://ja.wikipedia.org/wiki/セン湾線 "wikilink")・[港島線](https://ja.wikipedia.org/wiki/港島線 "wikilink")・[将軍澳線](https://ja.wikipedia.org/wiki/将軍澳線 "wikilink")
+  - [中車四方電車](https://ja.wikipedia.org/wiki/:en:MTR_Urban_Lines_Vision_Train "wikilink")（Q-Train）（2019年より導入予定）- [觀塘線古いシステム](https://ja.wikipedia.org/wiki/観塘線 "wikilink")・[荃湾線](https://ja.wikipedia.org/wiki/荃湾線 "wikilink")・[港島線](https://ja.wikipedia.org/wiki/港島線 "wikilink")・[将軍澳線](https://ja.wikipedia.org/wiki/将軍澳線 "wikilink")
 
 旧香港地下鉄の路線で使用されている車両は2019年現在5種類存在する。一般車両については[英国](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[韓国](../Page/大韓民国.md "wikilink")、[中国の各国で製造されている](../Page/中華人民共和国.md "wikilink")。一次車では元宗主国であった[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")が建設した影響からか、[ロンドン地下鉄](../Page/ロンドン地下鉄.md "wikilink")と近い[デザイン](../Page/デザイン.md "wikilink")の施しが随所に見られた。連結部は貫通しており扉は無く車両間の移動は自由である。また連結部の扉が無いため、直線部への列車進入時には前後では長い空間が広がる。[座席](../Page/座席.md "wikilink")は全て[ロングシートで](../Page/鉄道車両の座席.md "wikilink")、素材は[ステンレスである](../Page/ステンレス鋼.md "wikilink")。2009年より[優先席](https://ja.wikipedia.org/wiki/優先席 "wikilink")や[車椅子](https://ja.wikipedia.org/wiki/車椅子 "wikilink")専用エリアが設置された。
 
@@ -41,7 +41,7 @@ MTR内の車両は全て[冷房](../Page/冷房.md "wikilink")完備である。
 #### 旧KCR
 
   - [メトロキャメル電車（交流）](https://ja.wikipedia.org/wiki/九広鉄路メトロキャメル電車_\(交流\) "wikilink") - [東鉄線](https://ja.wikipedia.org/wiki/東鉄線 "wikilink")
-  - [SP1900・1950形電車](../Page/九広鉄路SP1900形電車.md "wikilink") - [東鉄線](https://ja.wikipedia.org/wiki/東鉄線 "wikilink")・[西鉄線](https://ja.wikipedia.org/wiki/西鉄線 "wikilink")・[馬鞍山線](../Page/馬鞍山線.md "wikilink")
+  - [SP1900・1950形電車](../Page/九広鉄路SP1900形電車.md "wikilink") - [東鉄線](https://ja.wikipedia.org/wiki/東鉄線 "wikilink")・[西鉄線](../Page/西鉄線.md "wikilink")・[馬鞍山線](../Page/馬鞍山線.md "wikilink")
   - [屯馬線中国製電車](https://ja.wikipedia.org/wiki/:en:MTR_CRRC_Changchun_EMU "wikilink")（TML C-Train）- [馬鞍山線](../Page/馬鞍山線.md "wikilink")
 
 ##### [軽鉄](../Page/軽鉄_\(香港\).md "wikilink")
@@ -52,7 +52,7 @@ MTR内の車両は全て[冷房](../Page/冷房.md "wikilink")完備である。
 
 メトロキャメル電車は1997年よりリニューアル工事を受けたのち、別名MLR車 (Mid-Life Refurbished train) と呼称されている。座席はMTRの車両と同じく、[ステンレス](https://ja.wikipedia.org/wiki/ステンレス "wikilink")製の[ロングシートが採用されている](../Page/鉄道車両の座席.md "wikilink")。加えて、車端部にステンレス製の[クロスシートを備えている](../Page/鉄道車両の座席.md "wikilink")。また、一等車両（2ドア）以外の一般車両ドア数は5ドアとなっている。
 
-[SP1900・1950形は日本の](../Page/九広鉄路SP1900形電車.md "wikilink")[近畿車輛](../Page/近畿車輛.md "wikilink")及び[川崎重工業](../Page/川崎重工業.md "wikilink")製である。これは[九広西鉄の開業に前後して導入されたものであり](https://ja.wikipedia.org/wiki/西鉄線 "wikilink")、車端部のクロスシートが無くなるなど、車内はよりMTRの車両と類似している。また1等車のシートについても若干グレードが上がっている。LED表示は、ようやくマス目が無くなり、中寄せで表示する事が可能となった。車両中央部には[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")が装備され、各種広告や情報が流されている。なお西鉄線および馬鞍山線にもほぼ同じ車両が導入されているが、一等車を連結しない、編成両数が異なる（東鉄線：12両編成、西鉄線・馬鞍山線：8両）、車内案内表示器が異なるなどの差異がある。
+[SP1900・1950形は日本の](../Page/九広鉄路SP1900形電車.md "wikilink")[近畿車輛](../Page/近畿車輛.md "wikilink")及び[川崎重工業](../Page/川崎重工業.md "wikilink")製である。これは[九広西鉄の開業に前後して導入されたものであり](../Page/西鉄線.md "wikilink")、車端部のクロスシートが無くなるなど、車内はよりMTRの車両と類似している。また1等車のシートについても若干グレードが上がっている。LED表示は、ようやくマス目が無くなり、中寄せで表示する事が可能となった。車両中央部には[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")が装備され、各種広告や情報が流されている。なお西鉄線および馬鞍山線にもほぼ同じ車両が導入されているが、一等車を連結しない、編成両数が異なる（東鉄線：12両編成、西鉄線・馬鞍山線：8両）、車内案内表示器が異なるなどの差異がある。
 
 また[軽鉄については](../Page/軽鉄_\(香港\).md "wikilink")、[川崎重工業](../Page/川崎重工業.md "wikilink")製の車両が導入されている。LRTは最大2両編成の連結で運転されているが、後部に連結される車両については、運転台のついていない連結専用のタイプ（トレーラー）がある。
 
@@ -68,7 +68,7 @@ MTR内の車両は全て[冷房](../Page/冷房.md "wikilink")完備である。
 
 香港鉄路では現在駅施設の[バリアフリー](../Page/バリアフリー.md "wikilink")化を進めており、駅要所出入り口の[エレベーター](../Page/エレベーター.md "wikilink")設置、転落防止や坑道風対策の[ホームドア](../Page/ホームドア.md "wikilink")を全地下駅に設置する予定である。
 
-東涌線を除くMTR路線内の地下化駅構内には、駅毎に異なる色の[タイル](../Page/タイル.md "wikilink")が使用されており、独特の雰囲気を醸し出している。また構内のインフォメーションや誘導の[サイン表示は全路線で統一されており](../Page/標識.md "wikilink")、[ピクトグラム](../Page/ピクトグラム.md "wikilink")の他に言語表示として[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")（[繁体字](../Page/繁体字.md "wikilink")）と英語で表記されている。駅アナウンスは列車内と同様に広東語、普通話（北京語）、英語の自動放送である。
+東涌線を除くMTR路線内の地下化駅構内には、駅毎に異なる色の[タイル](../Page/タイル.md "wikilink")が使用されており、独特の雰囲気を醸し出している。また構内のインフォメーションや誘導の[サイン表示は全路線で統一されており](../Page/標識.md "wikilink")、[ピクトグラム](../Page/ピクトグラム.md "wikilink")の他に言語表示として[中国語](../Page/中国語.md "wikilink")（[繁体字](../Page/繁体字.md "wikilink")）と英語で表記されている。駅アナウンスは列車内と同様に広東語、普通話（北京語）、英語の自動放送である。
 
 改札内の駅構内には、トンネル壁面とエスカレーターの設置壁面、柱部分などに各種[広告](../Page/広告.md "wikilink")が掲出されている。改札外では、壁面に[アクリル板やロール式表示機による広告が掲出されている](../Page/アクリル樹脂.md "wikilink")。トンネル壁面の広告では[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")や[プラズマディスプレイ](../Page/プラズマディスプレイ.md "wikilink")、[プロジェクター](https://ja.wikipedia.org/wiki/プロジェクター "wikilink")による投影式で[動画](../Page/動画.md "wikilink")による広告も存在する。
 
@@ -98,15 +98,15 @@ MTR内の車両は全て[冷房](../Page/冷房.md "wikilink")完備である。
 
 ## オクトパス（八達通）
 
-香港では、公共交通機関の中では世界の先頭を切って、日本の[ソニー](../Page/ソニー.md "wikilink")が開発した非接触型[ICカード](../Page/ICカード.md "wikilink")規格である[FeliCa](../Page/FeliCa.md "wikilink")を採用した「オクトパスカード（八達通: Octopus Card）」と呼ばれる交通[プリペイドカード](../Page/プリペイドカード.md "wikilink")を[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に導入した。現在、このICカードで香港域内の[地下鉄](../Page/地下鉄.md "wikilink")、[鉄道](../Page/鉄道.md "wikilink")、[バス](../Page/バス_\(交通機関\).md "wikilink")、[香港トラム](https://ja.wikipedia.org/wiki/香港トラム "wikilink")、[LRT](../Page/軽鉄_\(香港\).md "wikilink")、[フェリー](../Page/フェリー.md "wikilink")、[ケーブルカーなど](../Page/ピークトラム.md "wikilink")、[タクシー](../Page/タクシー.md "wikilink")を除く、香港域内ほとんどの公共交通機関において使用が可能である（タクシーはごく一部使用可能車両有り）。また市中のコンビニエンスストア、[ファーストフード](../Page/ファーストフード.md "wikilink")店、コーヒーショップ、主に大衆チェーンの[レストラン](../Page/レストラン.md "wikilink")、[自動販売機](../Page/自動販売機.md "wikilink")、[証明写真](../Page/証明写真.md "wikilink")撮影機、[公衆電話](../Page/公衆電話.md "wikilink")、[駐車場](../Page/駐車場.md "wikilink")の支払いなどの様々な加盟店・施設で[電子マネー](../Page/電子マネー.md "wikilink")としての決済使用が可能である。
+香港では、公共交通機関の中では世界の先頭を切って、日本の[ソニー](../Page/ソニー.md "wikilink")が開発した非接触型[ICカード](../Page/ICカード.md "wikilink")規格である[FeliCa](../Page/FeliCa.md "wikilink")を採用した「オクトパスカード（Octopus Card、八達通）」と呼ばれる交通[プリペイドカード](../Page/プリペイドカード.md "wikilink")を[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に導入した。現在、このICカードで香港域内の[地下鉄](../Page/地下鉄.md "wikilink")、[鉄道](../Page/鉄道.md "wikilink")、[バス](../Page/バス_\(交通機関\).md "wikilink")、[香港トラム](https://ja.wikipedia.org/wiki/香港トラム "wikilink")、[LRT](../Page/軽鉄_\(香港\).md "wikilink")、[フェリー](../Page/フェリー.md "wikilink")、[ケーブルカーなど](../Page/ピークトラム.md "wikilink")、[タクシー](../Page/タクシー.md "wikilink")を除く、香港域内ほとんどの公共交通機関において使用が可能である（タクシーはごく一部使用可能車両有り）。また市中のコンビニエンスストア、[ファーストフード](../Page/ファーストフード.md "wikilink")店、コーヒーショップ、主に大衆チェーンの[レストラン](../Page/レストラン.md "wikilink")、[自動販売機](../Page/自動販売機.md "wikilink")、[証明写真](../Page/証明写真.md "wikilink")撮影機、[公衆電話](../Page/公衆電話.md "wikilink")、[駐車場](../Page/駐車場.md "wikilink")の支払いなどの様々な加盟店・施設で[電子マネー](../Page/電子マネー.md "wikilink")としての決済使用が可能である。
 
-運賃面での特徴として、旧KCR路線における[オクトパスの使い方に](../Page/八達通.md "wikilink")、ホーム上あるいは連結部に設置されたカードリーダにかざすことにより、1等車の利用手続きを行える\[7\]、旧KCR直営のフィーダーバスや[軽鉄と旧KCR鉄道線相互に乗り継ぐ際](../Page/軽鉄_\(香港\).md "wikilink")、フィーダーバスや軽鉄の運賃が後追いで無料サービスとなるシステム、普通乗車券よりも常に低廉な運賃、エアポート・エクスプレスとの乗り継ぎに関する1乗車の運賃免除、また「2乗車目10%引き」プロモーション、バスを乗り継ぐ際の割引、街中に設置された「Fare saver」による割引サービス（カードをかざすだけで割引を受けられ、MTRを利用するように促す）などICカードであることの利点を活かしたサービスが行われている。
+運賃面での特徴として、旧KCR路線における[オクトパスの使い方に](../Page/八達通.md "wikilink")、ホーム上あるいは連結部に設置されたカードリーダにかざすことにより、1等車の利用手続きを行える\[7\]、旧KCR直営のフィーダーバスや[軽鉄と旧KCR鉄道線相互に乗り継ぐ際](../Page/軽鉄_\(香港\).md "wikilink")、フィーダーバスや軽鉄の運賃が後追いで無料サービスとなるシステム、普通乗車券よりも常に低廉な運賃、エアポート・エクスプレスとの乗り継ぎに関する1乗車の運賃免除、また「2乗車目10%引き」プロモーション、バスを乗り継ぐ際の割引、街中に設置された「fare saver」による割引サービス（カードをかざすだけで割引を受けられ、MTRを利用するように促す）などICカードであることの利点を活かしたサービスが行われている。
 
 ### 運賃・料金制度
 
 相互駅間の運賃については、各駅において掲示され、日本におけるいわゆる「三角表」のような表も公式が公表している。
 
-原則として距離を鑑みた構造になっているが、「海底トンネルを通過する区間」「馬場駅が発着に含まれる」「羅湖・落馬州駅が発着に含まれる」区間に関しては割り増しの計算が行われている。また、エアポートエクスプレスについては、他線との乗り継ぎを認めない独立運賃となっている（ただし先述のようにOCTOPUSでAELとの乗り継ぎに関する無償優遇は実施されている）。 また、小児の運賃と、敬老運賃が設定されている。特に敬老運賃は海底トンネル・馬場駅の運賃上昇を免除されているため、格段に安い。 料金面では、1等車利用時の料金となるが、これは原則として運賃と同額であるため、わかりやすい制度となっている。
+原則として距離を鑑みた構造になっているが、「海底トンネルを通過する区間」「馬場駅が発着に含まれる」「羅湖・落馬州駅が発着に含まれる」区間に関しては割り増しの計算が行われている。また、エアポートエクスプレスについては、他線との乗り継ぎを認めない独立運賃となっている（ただし先述のようにオクトパスでAELとの乗り継ぎに関する無償優遇は実施されている）。 また、小児の運賃と、敬老運賃が設定されている。特に敬老運賃は海底トンネル・馬場駅の運賃上昇を免除されているため、格段に安い。 料金面では、1等車利用時の料金となるが、これは原則として運賃と同額であるため、わかりやすい制度となっている。
 
 ## 建設計画
 
@@ -114,13 +114,13 @@ MTR内の車両は全て[冷房](../Page/冷房.md "wikilink")完備である。
 
 香港MTRは現在延伸工事を実施している。
 
-2020年4月現在で駅まで延伸されている[屯馬線](../Page/屯馬線.md "wikilink")一期は、今後紅駅まで延伸し、西鉄線と合わせて屯馬線(東西走廊)とする計画がされている。
+2020年4月現在で啓徳駅まで延伸されている[屯馬線](../Page/屯馬線.md "wikilink")一期は、今後紅磡駅まで延伸し、西鉄線と合わせて屯馬線（東西走廊）とする計画がされている。
 
-また、東鉄線を紅（Hung Hom）から香港島へ延伸し、湾仔北部の新駅を経て金鐘駅まで至る計画がされている。
+また、東鉄線を紅磡から香港島へ延伸し、湾仔北部の新駅を経て金鐘駅まで至る計画がされている。
 
 ## 旧駅名
 
-[{{Langと](https://ja.wikipedia.org/wiki/セン湾線 "wikilink")[東鉄線](https://ja.wikipedia.org/wiki/東鉄線 "wikilink")に、開業当時から名前が変わった駅がいくつかある。以下に、その変遷を記す。
+[荃湾線](https://ja.wikipedia.org/wiki/荃湾線 "wikilink")と[東鉄線](https://ja.wikipedia.org/wiki/東鉄線 "wikilink")に、開業当時から名前が変わった駅がいくつかある。以下に、その変遷を記す。
 
 ### 湾線
 
@@ -172,7 +172,7 @@ MTR内の車両は全て[冷房](../Page/冷房.md "wikilink")完備である。
 </tr>
 <tr class="odd">
 <td><p> </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セン湾線" title="wikilink">{{Lang</a> (Tsuen Wan Line)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/荃湾線" title="wikilink">荃湾線</a> (Tsuen Wan Line)</p></td>
 <td><p>（Tsuen Wan）〜（Central）</p></td>
 <td><p>16.0km</p></td>
 <td><p><a href="../Page/1982年.md" title="wikilink">1982年</a></p></td>
@@ -207,7 +207,7 @@ MTR内の車両は全て[冷房](../Page/冷房.md "wikilink")完備である。
 </tr>
 <tr class="even">
 <td><p> </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/西鉄線" title="wikilink">西鉄線</a> (West Rail Line)</p></td>
+<td><p><a href="../Page/西鉄線.md" title="wikilink">西鉄線</a> (West Rail Line)</p></td>
 <td><p>（Hung Hom）〜（Tuen Mun）</p></td>
 <td><p>35.7km</p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a>,<a href="../Page/2009年.md" title="wikilink">2009年</a>(九竜南線)</p></td>
@@ -289,7 +289,7 @@ MTR内の車両は全て[冷房](../Page/冷房.md "wikilink")完備である。
 
 ## 画像
 
-ファイル:HK MTR ChaiWan TrainWaiting 2003Jan17.JPG|MTR車両 [M-train](../Page/香港地下鉄メトロキャメル電車_\(直流\).md "wikilink")（1次車） ファイル:MTR Jordan station (2).jpg|MTRの出入札口（佐敦駅） ファイル:Hong Kong MTR Concourse.JPG|香港駅のインタウン・チェックイン ファイル:MTR-Airport-Express-Line.jpg|機場快線（エアポート・エクスプレス）欣澳駅にて撮影 ファイル:Misc trainstop hongkong.JPG|将軍澳線のホーム ファイル:Drl train.jpg|迪士尼線（ディズニーランドリゾート線）の車両 ファイル:KCR East Rail Kowloon Tong.jpg|(旧) KCR九龍塘駅のMLR ファイル:KCR East Tsim Sha Tsui station (3).jpg|(旧) KCR尖東駅 ファイル:KCR Mong Kok station (1).jpg|(旧) [KCR](https://ja.wikipedia.org/wiki/KCR "wikilink")[旺角駅](https://ja.wikipedia.org/wiki/旺角駅_\(東鉄線\) "wikilink") ファイル:KCR Light Rail Route 751.jpg|軽鉄の1次車（オーストラリア製） ファイル:KCR West Rail Tuen Mun.jpg|(旧) [KCR](https://ja.wikipedia.org/wiki/KCR "wikilink")[屯門駅](https://ja.wikipedia.org/wiki/屯門駅 "wikilink") ファイル:KCR MOS Rail Tai Wai.jpg|(旧) [KCR](https://ja.wikipedia.org/wiki/KCR "wikilink")[大囲駅](https://ja.wikipedia.org/wiki/大囲駅 "wikilink") ファイル:MTR Hong Kong M-Stock train.JPG|2次車車内 ファイル:MTR Hong Kong K-Stock train.JPG|K-train車内 ファイル:MTR-Airport-Express-Line-inside.jpg|エアポート・エクスプレス車内 ファイル:Central Island Platform 3 (2).JPG|MTRのホームドア ファイル:MTR-LokFu1.JPG|ホームにあるLED式案内表示機(旧) ファイル:HKMTR KIOSK.JPG|東涌駅にある売店 ファイル:East Rail modernized interior.jpg|1次車 ([メトロキャメル電車](https://ja.wikipedia.org/wiki/九広鉄路メトロキャメル電車_\(交流\) "wikilink"))車内（2等車） ファイル:KCR West Rail interior.jpg|2次車（[SP1900形電車](../Page/九広鉄路SP1900形電車.md "wikilink")）車内 ファイル:OctopusReaderGate.jpg|オクトパスカード読取部 ファイル:No eating, drinking or smoking in MTR Airport Express 20060622.jpg|機場快線（Airport Express、エアポート・エクスプレス）車両内に掲出されている、禁止事項の警告シール。普通列車内にも、これとほぼ同様のものが掲出されている。 ファイル:MTR CSR Sifang EMU in Shek Kong Stabling Sidings 201710.jpg|CRH380A形動感號電車 ファイル:TLS002 Kowloon to Guangzhou East(MTR KTT) 27-02-2016.jpg|[Ktt列車](https://ja.wikipedia.org/wiki/Ktt_\(列車\) "wikilink") ファイル:MTR first Q-train in Qingdao Sifang factory test track.jpg|[未來列車](https://ja.wikipedia.org/wiki/Q-train "wikilink") ファイル:Mtr map on 4 oct.png|2019-10-4 ファイル:Mtr map on 1 oct.png|2019-10-1 ファイル:MTR history.gif ファイル:Hong Kong Railway Route Map ring.pdf ファイル:Mtr map on 5 oct.png|2019-10-5
+ファイル:HK MTR ChaiWan TrainWaiting 2003Jan17.JPG|MTR車両 [M-train](../Page/香港地下鉄メトロキャメル電車_\(直流\).md "wikilink")（1次車） ファイル:MTR Jordan station (2).jpg|MTRの出入札口（佐敦駅） ファイル:Hong Kong MTR Concourse.JPG|香港駅のインタウン・チェックイン ファイル:MTR-Airport-Express-Line.jpg|[機場快線](https://ja.wikipedia.org/wiki/機場快線 "wikilink")欣澳駅にて撮影 ファイル:Misc trainstop hongkong.JPG|将軍澳線のホーム ファイル:Drl train.jpg|[迪士尼線](https://ja.wikipedia.org/wiki/迪士尼線 "wikilink")の車両 ファイル:KCR East Rail Kowloon Tong.jpg|（旧）[KCR](https://ja.wikipedia.org/wiki/KCR "wikilink")九龍塘駅のMLR ファイル:KCR East Tsim Sha Tsui station (3).jpg|（旧）KCR尖東駅 ファイル:KCR Mong Kok station (1).jpg|（旧）KCR[旺角駅](https://ja.wikipedia.org/wiki/旺角駅_\(東鉄線\) "wikilink") ファイル:KCR Light Rail Route 751.jpg|軽鉄の1次車（オーストラリア製） ファイル:KCR West Rail Tuen Mun.jpg|（旧）KCR[屯門駅](https://ja.wikipedia.org/wiki/屯門駅 "wikilink") ファイル:KCR MOS Rail Tai Wai.jpg|（旧）KCR[大囲駅](https://ja.wikipedia.org/wiki/大囲駅 "wikilink") ファイル:MTR Hong Kong M-Stock train.JPG|2次車車内 ファイル:MTR Hong Kong K-Stock train.JPG|K-train車内 ファイル:MTR-Airport-Express-Line-inside.jpg|機場快線車内 ファイル:Central Island Platform 3 (2).JPG|MTRのホームドア ファイル:MTR-LokFu1.JPG|ホームにあるLED式案内表示機（旧） ファイル:HKMTR KIOSK.JPG|東涌駅にある売店 ファイル:East Rail modernized interior.jpg|1次車（[メトロキャメル電車](https://ja.wikipedia.org/wiki/九広鉄路メトロキャメル電車_\(交流\) "wikilink")）車内（2等車） ファイル:KCR West Rail interior.jpg|2次車（[SP1900形電車](../Page/九広鉄路SP1900形電車.md "wikilink")）車内 ファイル:OctopusReaderGate.jpg|オクトパスカード読取部 ファイル:No eating, drinking or smoking in MTR Airport Express 20060622.jpg|機場快線車両内に掲出されている、禁止事項の警告シール。普通列車内にも、これとほぼ同様のものが掲出されている
 
 ## 脚注
 

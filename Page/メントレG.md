@@ -87,7 +87,7 @@ TOKIOと、スタッフの一部は、同年10月から『[5LDK](https://ja.wiki
 <!-- end list -->
 
   -
-    ※[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")は拡大を機に打ち切られた。後番組は『[VivaVivaV6](../Page/VivaVivaV6.md "wikilink")』。
+    ※[四国放送](../Page/四国放送.md "wikilink")は拡大を機に打ち切られた。後番組は『[VivaVivaV6](../Page/VivaVivaV6.md "wikilink")』。
 
 ### 2007年3月まで
 

@@ -17,7 +17,7 @@
 
 2012年、全ダイヤモンド資産を[ドミニオン・ダイヤモンド・コーポレーションに売却した](https://ja.wikipedia.org/wiki/:en:Dominion_Diamond_Corporation "wikilink")。
 
-現時点で世界首位の銅生産量を誇るスペイン鉱山会社*[Minera Escondida](https://ja.wikipedia.org/wiki/:en:Minera_Escondida "wikilink")* の株式過半数を保有。この会社株は[リオ・ティント](../Page/リオ・ティント.md "wikilink")が30％、[三菱グループ](../Page/三菱グループ.md "wikilink")も2.5％保有している。
+現時点で世界首位の銅生産量を誇るチリの鉱山会社*[Minera Escondida](https://ja.wikipedia.org/wiki/:en:Minera_Escondida "wikilink")* の株式過半数を保有。この会社株は[リオ・ティント](../Page/リオ・ティント.md "wikilink")が30％、[三菱グループ](../Page/三菱グループ.md "wikilink")も2.5％保有している。
 
 ## 脚注
 

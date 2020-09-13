@@ -673,8 +673,7 @@ B型H系よ、永遠（とわ）に</p></td>
 
   -
   -
-  - [B型R系（ビーガタ・ラジオケイ）](http://hibiki-radio.jp/description/b_r.html)
-
+  -
 [Category:漫画作品_ひ](https://ja.wikipedia.org/wiki/Category:漫画作品_ひ "wikilink") [Category:週刊ヤングジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊ヤングジャンプの漫画作品 "wikilink") [Category:4コマ漫画](https://ja.wikipedia.org/wiki/Category:4コマ漫画 "wikilink") [Category:高等学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした漫画作品 "wikilink") [Category:恋愛漫画](https://ja.wikipedia.org/wiki/Category:恋愛漫画 "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink") [Category:アニメ作品_ひ](https://ja.wikipedia.org/wiki/Category:アニメ作品_ひ "wikilink") [Category:2010年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2010年のテレビアニメ "wikilink") [Category:AT-Xのアニメ](https://ja.wikipedia.org/wiki/Category:AT-Xのアニメ "wikilink") [Category:UHFアニメ](https://ja.wikipedia.org/wiki/Category:UHFアニメ "wikilink") [Category:ハルフィルムメーカー](https://ja.wikipedia.org/wiki/Category:ハルフィルムメーカー "wikilink") [Category:TYOアニメーションズ](https://ja.wikipedia.org/wiki/Category:TYOアニメーションズ "wikilink") [Category:ハピネットのアニメ作品](https://ja.wikipedia.org/wiki/Category:ハピネットのアニメ作品 "wikilink") [Category:MAGES.のアニメ作品](https://ja.wikipedia.org/wiki/Category:MAGES.のアニメ作品 "wikilink") [Category:電通のアニメ作品](https://ja.wikipedia.org/wiki/Category:電通のアニメ作品 "wikilink") [Category:ヤングジャンプ・コミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:ヤングジャンプ・コミックスのアニメ作品 "wikilink") [Category:4コマ漫画原作アニメ](https://ja.wikipedia.org/wiki/Category:4コマ漫画原作アニメ "wikilink") [Category:高等学校を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台としたアニメ作品 "wikilink") [Category:ギャグアニメ](https://ja.wikipedia.org/wiki/Category:ギャグアニメ "wikilink") [Category:恋愛アニメ](https://ja.wikipedia.org/wiki/Category:恋愛アニメ "wikilink") [Category:ギャグ漫画](https://ja.wikipedia.org/wiki/Category:ギャグ漫画 "wikilink")
 
 1.  連載開始時の作者サイトで「まだヒロインの下の名前が**決まってない**」と書かれていたが、作中で明らかにされる事はなかった。原作では9巻の後書きに一言だけ言及されている。アニメでは1話冒頭で「今んとこナイショ」と説明された。

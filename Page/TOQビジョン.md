@@ -68,7 +68,7 @@ CM動画は[劇団四季](../Page/劇団四季.md "wikilink")や[パナソニッ
 
 
 
-[Category:鉄道広告](https://ja.wikipedia.org/wiki/Category:鉄道広告 "wikilink") [Category:東京急行電鉄](https://ja.wikipedia.org/wiki/Category:東京急行電鉄 "wikilink") [Category:東急グループ](https://ja.wikipedia.org/wiki/Category:東急グループ "wikilink")
+[Category:鉄道広告](https://ja.wikipedia.org/wiki/Category:鉄道広告 "wikilink") [Category:東急電鉄](https://ja.wikipedia.org/wiki/Category:東急電鉄 "wikilink") [Category:東急グループ](https://ja.wikipedia.org/wiki/Category:東急グループ "wikilink")
 
 1.  **O**ut **o**f **H**omeの略称で、自宅以外の場所で接触する広告メディアを指す（*「[広告\#他の媒体](https://ja.wikipedia.org/wiki/広告#他の媒体 "wikilink")」を参照*）。
 2.  [鉄道車内でニュース・天気予報の配信を開始しました](http://www.tokyu.co.jp/information/list/Pid=post_72.html)（東急電鉄 2018年6月20日）

@@ -421,7 +421,7 @@
 <!-- end list -->
 
   -
-    2007年12月の新宿[高島屋](../Page/高島屋.md "wikilink")のイベント「Twinkle Spring Collection by momoko DOLL」および[セキグチ](../Page/セキグチ.md "wikilink")オンラインショップ限定。
+    2007年12月の新宿[髙島屋](../Page/髙島屋.md "wikilink")のイベント「Twinkle Spring Collection by momoko DOLL」および[セキグチ](../Page/セキグチ.md "wikilink")オンラインショップ限定。
 
 <!-- end list -->
 

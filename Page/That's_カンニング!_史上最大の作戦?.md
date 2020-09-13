@@ -71,7 +71,7 @@
 
   - [拓殖大学](../Page/拓殖大学.md "wikilink")
   - [日本大学](https://ja.wikipedia.org/wiki/日本大学 "wikilink")
-  - [白鴎大学](../Page/白鴎大学.md "wikilink")
+  - [白鷗大学](https://ja.wikipedia.org/wiki/白鷗大学 "wikilink")
   - [千葉工業大学](../Page/千葉工業大学.md "wikilink")
 
 ## 主題歌

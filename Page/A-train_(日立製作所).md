@@ -1,7 +1,7 @@
 > この記事は[A-train \(日立製作所\)](https://ja.wikipedia.org/wiki/A-train_\(日立製作所\))から翻訳されています。
 
 
-**A-train**（エートレイン）は、[日立製作所](../Page/日立製作所.md "wikilink")が開発した[鉄道車両](../Page/鉄道車両.md "wikilink")の製造技術（次世代[アルミ車両システム](../Page/アルミニウム合金製の鉄道車両.md "wikilink")）。"A-train"に用いられた「A」は、Advanced・Amenity・Ability・Aluminum を統合的に表したものとしている。
+**A-train**（エートレイン）は、[日立製作所](../Page/日立製作所.md "wikilink")が開発した[鉄道車両](../Page/鉄道車両.md "wikilink")の製造技術（次世代[アルミニウム合金車両システム](../Page/アルミニウム合金製の鉄道車両.md "wikilink")）。"A-train"に用いられた「A」は、Advanced・Amenity・Ability・Aluminum を統合的に表したものとしている。
 
 ## 概要
 
@@ -52,9 +52,11 @@
           - [20000系電車](https://ja.wikipedia.org/wiki/相鉄20000系電車 "wikilink")\[9\]
       - [阪急電鉄](../Page/阪急電鉄.md "wikilink")
           - [9300系電車以降の全形式](../Page/阪急9300系電車.md "wikilink")\[10\]
+  - [第三セクター鉄道](../Page/第三セクター鉄道.md "wikilink")
       - [首都圏新都市鉄道](../Page/首都圏新都市鉄道.md "wikilink")（[つくばエクスプレス](https://ja.wikipedia.org/wiki/首都圏新都市鉄道つくばエクスプレス "wikilink")）
           - [TX-1000系電車](../Page/首都圏新都市鉄道TX-1000系電車.md "wikilink")\[11\]
           - [TX-2000系電車](../Page/首都圏新都市鉄道TX-2000系電車.md "wikilink")
+          - [TX-3000系電車](https://ja.wikipedia.org/wiki/首都圏新都市鉄道TX-3000系電車 "wikilink")
       - [東葉高速鉄道](../Page/東葉高速鉄道.md "wikilink")
           - [2000系電車](../Page/東葉高速鉄道2000系電車.md "wikilink")
   - [公営鉄道](../Page/公営企業.md "wikilink")
@@ -107,7 +109,7 @@ A-trainの日本国外向け製品には種類によって4種類のシリーズ
 
 同じく2015年3月には、インターシティ・エクスプレス計画で800形・801形（後者は2016年に800形に変更）の導入が決まっていた[グレート・ウェスタン・レールウェイ](../Page/グレート・ウェスタン・レールウェイ.md "wikilink")（当時の名称はファースト・グレート・ウェスタン）が800形同様のバイモード車両である[802形を](https://ja.wikipedia.org/wiki/イギリス鉄道802形 "wikilink")5両編成22本・9両編成7本発注した。800形との差異は[デヴォン](../Page/デヴォン.md "wikilink")・[コーンウォール](../Page/コーンウォール.md "wikilink")の勾配区間に対応するために出力の増強が図られていることと燃料タンクが大型化されていることである。バイモード車両であることから[ロンドン・パディントン駅からニューベリー駅](../Page/パディントン駅.md "wikilink")<small>（[英語版駅](https://ja.wikipedia.org/wiki/:en:_Newbury_railway_station "wikilink")・[日本語版街](https://ja.wikipedia.org/wiki/ニューベリー_\(バークシャー\) "wikilink")）</small>までの電化区間では架線からの集電によって走行する\[27\]。当初の契約は合計29本であったが、9両編成7本がのちに追加された。グレート・ウェスタン・レールウェイでの営業運転開始は800形が2017年10月、802形が2018年8月であった。グレート・ウェスタン・レールウェイのAT-300は800形、802形ともに「インターシティ・エクスプレス・トレインズ（IET）」という愛称が与えられている\[28\]\[29\]。
 
-イースト・コースト本線での運行事業者である[ロンドン・ノース・イースタン・レールウェイでは](https://ja.wikipedia.org/wiki/ロンドン・ノース・イースタン鉄道 "wikilink")、[誘導障害](https://ja.wikipedia.org/wiki/誘導障害 "wikilink")が発覚したため運行開始が遅れ、800形は2019年5月、801形は同年9月に営業運転を開始している。グレート・ウェスタン・レールウェイとは異なり、ロンドン・ノース・イースタン・レールウェイのAT-300は東の[和名](../Page/和名.md "wikilink")にちなみ、「あずま」と名付けられている\[30\]
+イースト・コースト本線での運行事業者である[ロンドン・ノース・イースタン・レールウェイ](https://ja.wikipedia.org/wiki/ロンドン・ノース・イースタン・レールウェイ "wikilink")では、[誘導障害](https://ja.wikipedia.org/wiki/誘導障害 "wikilink")が発覚したため運行開始が遅れ、800形は2019年5月、801形は同年9月に営業運転を開始している。グレート・ウェスタン・レールウェイとは異なり、ロンドン・ノース・イースタン・レールウェイのAT-300は東の[和名](../Page/和名.md "wikilink")にちなみ、「あずま」と名付けられている\[30\]
 
 イギリスではこれらの他にもAT-300が発注されており、[トランスペナイン・エクスプレス](https://ja.wikipedia.org/wiki/トランスペナイン・エクスプレス "wikilink")（愛称「ノヴァ1」）、（愛称「パラゴン」）それぞれの802形が現在運行を開始している。これらに加え、2021年には（[803形](../Page/イギリス鉄道803形電車.md "wikilink")）、2022年には（[810形](../Page/イギリス鉄道810形.md "wikilink")）、（形式未定）で新たに運行を開始することになっている\[31\]\[32\]。
 
@@ -183,7 +185,7 @@ A-trainの日本国外向け製品には種類によって4種類のシリーズ
 <tr class="odd">
 <td><p>/1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Edinburgh_-_LNER_800108_in_the_new_bay_platform.jpg" title="fig:120x120ピクセル">120x120ピクセル</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロンドン・ノース・イースタン鉄道" title="wikilink">ロンドン・ノース・イースタン・レールウェイ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ロンドン・ノース・イースタン・レールウェイ" title="wikilink">ロンドン・ノース・イースタン・レールウェイ</a></p></td>
 <td><p>あずま</p></td>
 <td><p>9両</p></td>
 <td><p>13本</p></td>

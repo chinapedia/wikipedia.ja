@@ -38,7 +38,7 @@
   - RSK[山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")　月曜18:20～18:30
   - RCC[中国放送](../Page/中国放送.md "wikilink")　月曜20:00～20:10
   - KRY[山口放送](../Page/山口放送.md "wikilink")　月曜18:20～18:30
-  - JRT[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")　月曜18:20～18:30
+  - JRT[四国放送](../Page/四国放送.md "wikilink")　月曜18:20～18:30
   - RNC[西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")　金曜18:00～18:10
   - RNB[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")　火曜16:00～16:10
   - RKC[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")　月曜20:50～21:00
@@ -87,4 +87,4 @@
 
   - [JOMO あの人の物語](http://www.tbs.co.jp/radio/anohito/)
 
-[Category:TBSラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSラジオの音楽番組の歴史 "wikilink") [Category:TBSラジオのミニ番組](https://ja.wikipedia.org/wiki/Category:TBSラジオのミニ番組 "wikilink") [Category:TBSラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:TBSラジオの一社提供番組 "wikilink") [Category:JXTGグループ単独提供番組](https://ja.wikipedia.org/wiki/Category:JXTGグループ単独提供番組 "wikilink") [Category:JRN](https://ja.wikipedia.org/wiki/Category:JRN "wikilink") [Category:2004年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のラジオ番組_\(日本\) "wikilink")
+[Category:TBSラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSラジオの音楽番組の歴史 "wikilink") [Category:TBSラジオのミニ番組](https://ja.wikipedia.org/wiki/Category:TBSラジオのミニ番組 "wikilink") [Category:TBSラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:TBSラジオの一社提供番組 "wikilink") [Category:ENEOSグループ単独提供番組](https://ja.wikipedia.org/wiki/Category:ENEOSグループ単独提供番組 "wikilink") [Category:JRN](https://ja.wikipedia.org/wiki/Category:JRN "wikilink") [Category:2004年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のラジオ番組_\(日本\) "wikilink")

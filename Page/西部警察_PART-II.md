@@ -86,6 +86,8 @@
       - 作詞・作曲：[竹田賢](https://ja.wikipedia.org/wiki/竹田賢 "wikilink") 編曲：[竜崎孝路](../Page/竜崎孝路.md "wikilink") 歌：[豊島ひとみ](https://ja.wikipedia.org/wiki/豊島ひとみ "wikilink")
   - 「男と女のWaltz」
       - 作詞・作曲：[古田喜昭](../Page/古田喜昭.md "wikilink") 編曲：[若草恵](../Page/若草恵.md "wikilink") 歌：[八木美代子](https://ja.wikipedia.org/wiki/八木美代子 "wikilink")
+  - 「涙は俺がふく」（第28話のみ）
+      - 作詞：[なかにし礼](../Page/なかにし礼.md "wikilink")作曲：[弦哲也](../Page/弦哲也.md "wikilink") 編曲：[竜崎孝路](../Page/竜崎孝路.md "wikilink") 歌：[石原裕次郎](https://ja.wikipedia.org/wiki/石原裕次郎 "wikilink")
 
 ## 制作
 
@@ -122,7 +124,7 @@
 <td><p>大都会に舞う男</p></td>
 <td><p>6月6日</p></td>
 <td><p><a href="../Page/峯尾基三.md" title="wikilink">峯尾基三</a></p></td>
-<td><p><a href="../Page/片桐竜次.md" title="wikilink">片桐竜次</a>、<a href="../Page/高品剛.md" title="wikilink">高品正広</a>、<a href="https://ja.wikipedia.org/wiki/吉沢健" title="wikilink">吉沢健</a>、<a href="https://ja.wikipedia.org/wiki/水上功治" title="wikilink">水上功治</a>、<a href="https://ja.wikipedia.org/wiki/岡本広美" title="wikilink">岡本広美</a>、<a href="https://ja.wikipedia.org/wiki/真木恭介" title="wikilink">真木恭介</a>、<a href="https://ja.wikipedia.org/wiki/西尾東" title="wikilink">西尾東</a>、<a href="https://ja.wikipedia.org/wiki/石井和彦" title="wikilink">石井和彦</a>、<a href="https://ja.wikipedia.org/wiki/竹下玲奈_(女優)" title="wikilink">竹下玲奈</a>、<a href="https://ja.wikipedia.org/wiki/入江正徳" title="wikilink">入江正徳</a>、<a href="https://ja.wikipedia.org/wiki/高崎良三" title="wikilink">高崎良三</a>、<a href="https://ja.wikipedia.org/wiki/大木史朗" title="wikilink">大木史朗</a>、<a href="https://ja.wikipedia.org/wiki/中瀬博文" title="wikilink">中瀬博文</a>、<a href="https://ja.wikipedia.org/wiki/千葉長門" title="wikilink">千葉長門</a>、<a href="https://ja.wikipedia.org/wiki/三木愛子" title="wikilink">三木愛子</a>、<a href="https://ja.wikipedia.org/wiki/藤井千代子" title="wikilink">藤井千代子</a>、<a href="https://ja.wikipedia.org/wiki/相沢一郎" title="wikilink">相沢一郎</a></p></td>
+<td><p><a href="../Page/片桐竜次.md" title="wikilink">片桐竜次</a>、<a href="../Page/高品剛.md" title="wikilink">高品正広</a>、<a href="https://ja.wikipedia.org/wiki/吉沢健" title="wikilink">吉沢健</a>、<a href="https://ja.wikipedia.org/wiki/水上功治" title="wikilink">水上功治</a>、<a href="https://ja.wikipedia.org/wiki/岡本広美" title="wikilink">岡本広美</a>、<a href="https://ja.wikipedia.org/wiki/真木恭介" title="wikilink">真木恭介</a>、<a href="https://ja.wikipedia.org/wiki/西尾東" title="wikilink">西尾東</a>、<a href="https://ja.wikipedia.org/wiki/石井和彦" title="wikilink">石井和彦</a>、<a href="https://ja.wikipedia.org/wiki/竹下玲奈_(女優)" title="wikilink">竹下玲奈</a>、<a href="../Page/入江正徳.md" title="wikilink">入江正徳</a>、<a href="https://ja.wikipedia.org/wiki/高崎良三" title="wikilink">高崎良三</a>、<a href="https://ja.wikipedia.org/wiki/大木史朗" title="wikilink">大木史朗</a>、<a href="https://ja.wikipedia.org/wiki/中瀬博文" title="wikilink">中瀬博文</a>、<a href="https://ja.wikipedia.org/wiki/千葉長門" title="wikilink">千葉長門</a>、<a href="https://ja.wikipedia.org/wiki/三木愛子" title="wikilink">三木愛子</a>、<a href="https://ja.wikipedia.org/wiki/藤井千代子" title="wikilink">藤井千代子</a>、<a href="https://ja.wikipedia.org/wiki/相沢一郎" title="wikilink">相沢一郎</a></p></td>
 <td><p>18.1%</p></td>
 <td></td>
 </tr>
@@ -237,7 +239,7 @@
 <td><p>男たちの絆[2]</p></td>
 <td><p>9月19日</p></td>
 <td><p>宮田雪</p></td>
-<td><p><a href="../Page/上月左知子.md" title="wikilink">上月左知子</a> <a href="../Page/山谷初男.md" title="wikilink">山谷初男</a> <a href="https://ja.wikipedia.org/wiki/関川慎二" title="wikilink">関川慎二</a> <a href="../Page/神田隆_(俳優).md" title="wikilink">神田隆</a>、檀喧太、<a href="https://ja.wikipedia.org/wiki/畑中猛重" title="wikilink">畑中猛</a>、 <a href="../Page/夏樹レナ.md" title="wikilink">夏樹レナ</a>、<a href="https://ja.wikipedia.org/wiki/南裕輔" title="wikilink">南裕輔</a>、<a href="https://ja.wikipedia.org/wiki/入江正徳" title="wikilink">入江正徳</a>、<a href="https://ja.wikipedia.org/wiki/浅見小四郎" title="wikilink">浅見小四郎</a>、<a href="https://ja.wikipedia.org/wiki/秋田谷一憲" title="wikilink">秋田谷一憲</a>、<a href="https://ja.wikipedia.org/wiki/上野忠彦" title="wikilink">上野忠彦</a>、<a href="https://ja.wikipedia.org/wiki/渡会良彦" title="wikilink">渡会良彦</a>、<a href="https://ja.wikipedia.org/wiki/大場英二" title="wikilink">大場英二</a></p></td>
+<td><p><a href="../Page/上月左知子.md" title="wikilink">上月左知子</a> <a href="../Page/山谷初男.md" title="wikilink">山谷初男</a> <a href="https://ja.wikipedia.org/wiki/関川慎二" title="wikilink">関川慎二</a> <a href="../Page/神田隆_(俳優).md" title="wikilink">神田隆</a>、檀喧太、<a href="https://ja.wikipedia.org/wiki/畑中猛重" title="wikilink">畑中猛</a>、 <a href="../Page/夏樹レナ.md" title="wikilink">夏樹レナ</a>、<a href="https://ja.wikipedia.org/wiki/南裕輔" title="wikilink">南裕輔</a>、<a href="../Page/入江正徳.md" title="wikilink">入江正徳</a>、<a href="https://ja.wikipedia.org/wiki/浅見小四郎" title="wikilink">浅見小四郎</a>、<a href="https://ja.wikipedia.org/wiki/秋田谷一憲" title="wikilink">秋田谷一憲</a>、<a href="https://ja.wikipedia.org/wiki/上野忠彦" title="wikilink">上野忠彦</a>、<a href="https://ja.wikipedia.org/wiki/渡会良彦" title="wikilink">渡会良彦</a>、<a href="https://ja.wikipedia.org/wiki/大場英二" title="wikilink">大場英二</a></p></td>
 <td><p>17.2%</p></td>
 <td></td>
 </tr>
@@ -467,7 +469,7 @@
 －名古屋篇－</p></td>
 <td><p>3月6日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/西脇英夫" title="wikilink">西脇英夫</a></p></td>
-<td><p><a href="../Page/今井健二.md" title="wikilink">今井健二</a>、<a href="https://ja.wikipedia.org/wiki/吉田豊明" title="wikilink">吉田豊明</a>、<a href="https://ja.wikipedia.org/wiki/一ノ瀬康子" title="wikilink">一ノ瀬康子</a>、花かおる、<a href="https://ja.wikipedia.org/wiki/神弘無" title="wikilink">神弘無</a>、岩瀬威司、<a href="https://ja.wikipedia.org/wiki/西口天子" title="wikilink">西口天子</a>、大島光幸、中瀬博文、西内彰、有馬明良、<a href="https://ja.wikipedia.org/wiki/清水徳" title="wikilink">清水徳</a>、<a href="https://ja.wikipedia.org/wiki/石文康昭" title="wikilink">石文康昭</a></p></td>
+<td><p><a href="../Page/今井健二.md" title="wikilink">今井健二</a>、<a href="https://ja.wikipedia.org/wiki/吉田豊明" title="wikilink">吉田豊明</a>、<a href="https://ja.wikipedia.org/wiki/一ノ瀬康子" title="wikilink">一ノ瀬康子</a>、花かおる、<a href="https://ja.wikipedia.org/wiki/神弘無" title="wikilink">神弘無</a>、<a href="../Page/岩瀬威司.md" title="wikilink">岩瀬威司</a>、<a href="https://ja.wikipedia.org/wiki/西口天子" title="wikilink">西口天子</a>、大島光幸、中瀬博文、西内彰、有馬明良、<a href="https://ja.wikipedia.org/wiki/清水徳" title="wikilink">清水徳</a>、<a href="https://ja.wikipedia.org/wiki/石文康昭" title="wikilink">石文康昭</a></p></td>
 <td><p>17.4%</p></td>
 <td></td>
 </tr>
@@ -492,7 +494,7 @@
 </tbody>
 </table>
 
-※DVD：鳩村BOX1には第1話～第20話、鳩村BOX2には第21話～第40話（DVDBOXにおける、シリーズでは唯一の全話収録）、ダーティーキャラクターコレクションシリーズ1には第23話を収録。
+※DVD：鳩村BOX1には第1話～第20話、鳩村BOX2には第21話～第40話、ダーティーキャラクターコレクションシリーズ1には第23話を収録。後に「西部警察 40th Anniversary コンプリートDVD-BOX」が発売されるまでは、DVD化におけるシリーズ中唯一の全話収録であった。
 
 ### 注
 
@@ -553,12 +555,12 @@
   - [スーパーZ](https://ja.wikipedia.org/wiki/西部警察#大門軍団特殊車両 "wikilink")（15話 - ）
   - [マシンRS](https://ja.wikipedia.org/wiki/西部警察#大門軍団特殊車両 "wikilink")（15話 - ）
 
-## 備考
+## 補足
 
   - 第18話の広島ロケの爆破シーンで使用されたのは[元大阪市電1801型の](../Page/大阪市交通局1801形電車.md "wikilink")[広島電鉄750形電車](../Page/広島電鉄750形電車.md "wikilink")766号車（登録上は755号車）であった。撮影のために塗装・広告（[パールライス](../Page/パールライス.md "wikilink") → [にしき堂](../Page/にしき堂.md "wikilink")）を変更して行われた。ちなみに電車の車体横の広告は「にしき堂のもみじ饅頭」だった。撮影終了後、766号車は登録抹消、解体された。
   - 当時の土曜日昼の人気番組、『[独占\!女の60分](../Page/独占!女の60分.md "wikilink")』では、本作の地方ロケ編が放映される前日に、同番組のアタッカー（[リポーター](../Page/リポーター.md "wikilink")）がロケ現場を訪れ、その舞台裏などを紹介する企画が放送された。
-  - 本作の終了と同時に[福井県](../Page/福井県.md "wikilink")における放映[ネット局](https://ja.wikipedia.org/wiki/ネット局 "wikilink")が変更される。[前作から](../Page/西部警察_\(PART1\).md "wikilink")2作連続で実施されてきた[福井テレビ](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系](../Page/フジネットワーク.md "wikilink")）での土曜日13時00分 - 13時54分における西部警察シリーズの[遅れネット](../Page/遅れネット.md "wikilink")は本作で終了となり、次作（すなわち『[西部警察 PART-III](../Page/西部警察_PART-III.md "wikilink")』）についてはもう1つの[県域局である](../Page/県域放送.md "wikilink")[福井放送](../Page/福井放送.md "wikilink")（放送当時は[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系](../Page/日本テレビネットワーク協議会.md "wikilink")・[1989年](../Page/1989年.md "wikilink")4月からはテレビ朝日系との[クロスネット局](../Page/クロスネット局.md "wikilink")）に変更され、併せて放送日時も1日遅れの月曜日21時00分 - 21時54分となった\[14\]（そのためそれまで[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")だった『[月曜スター劇場](../Page/月曜スター劇場.md "wikilink")』枠が土曜日23時台での遅れネットに降格し、以後[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")4月改編で日テレとの同時ネットに再度回帰するまでこの事態が続いた）。
-  - 2011年2月にCS放送の[ファミリー劇場](../Page/ファミリー劇場.md "wikilink")で本作の「HDリマスター版」CS初放送開始にあたり、その宣伝企画として『ファミ缶2月号』内で[日本テレビの旅番組](../Page/日本テレビ放送網.md "wikilink")『[ぶらり途中下車の旅](../Page/ぶらり途中下車の旅.md "wikilink")』を下敷きにしたミニコーナー『日本全国ぶらり[爆破](../Page/爆破.md "wikilink")の旅』が製作・放送された。
+  - 本作の終了と同時に[福井県](../Page/福井県.md "wikilink")と[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")における放映[ネット局](https://ja.wikipedia.org/wiki/ネット局 "wikilink")が変更される。[前作から](../Page/西部警察_\(PART1\).md "wikilink")2作連続で実施されてきた[福井テレビおよび](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")[石川テレビ](../Page/石川テレビ放送.md "wikilink")（ともに[フジテレビ系](../Page/フジネットワーク.md "wikilink")）での土曜日13時00分 - 13時54分における西部警察シリーズの[遅れネット](../Page/遅れネット.md "wikilink")は本作で終了となり、次作（すなわち『[西部警察 PART-III](../Page/西部警察_PART-III.md "wikilink")』）については福井県ではもう1つの[県域局である](../Page/県域放送.md "wikilink")[福井放送](../Page/福井放送.md "wikilink")（放送当時は[日本テレビ系](../Page/日本テレビネットワーク協議会.md "wikilink")・[1989年](../Page/1989年.md "wikilink")4月からはテレビ朝日系との[クロスネット局](../Page/クロスネット局.md "wikilink")）に変更され、併せて放送日時も1日遅れの月曜日21時00分 - 21時54分となった（1983年4月4日付の[福井新聞](../Page/福井新聞.md "wikilink")における[ラ・テ欄より](https://ja.wikipedia.org/wiki/番組表 "wikilink")）\[14\]。また、石川県ではやはり当時もう1つの県域局だった[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（[TBS系](https://ja.wikipedia.org/wiki/TBSネットワーク "wikilink")）に変更され、放送日時も2日遅れの火曜日22時00分 - 22時54分となった。
+  - 2011年2月にCS放送の[ファミリー劇場](../Page/ファミリー劇場.md "wikilink")で本作の「HDリマスター版」CS初放送開始にあたり、その宣伝企画として『ファミ缶2月号』内で日本テレビの旅番組『[ぶらり途中下車の旅](../Page/ぶらり途中下車の旅.md "wikilink")』を下敷きにしたミニコーナー『日本全国ぶらり[爆破](../Page/爆破.md "wikilink")の旅』が製作・放送された。
 
 ## 脚注
 
@@ -577,4 +579,4 @@
 11. 『西部警察 LEGEND3 大門軍団、緊急招集\!』（青志社、ISBN 978-4-905042-74-7）P.122の記述から
 12. 2004年の[復活スペシャル版は](../Page/西部警察_SPECIAL.md "wikilink")、PART1の正式な続編という設定となっている。
 13. 静岡朝日テレビ20年史によると、市街地しかも駅前広場にヘリコプターを着陸させる案が出た当時、静岡市や静岡県警に何度も交渉した末にようやく許可が出たと記されている。また、このシーンに際して、他のテレビ朝日系列局からクレームも寄せられたという。
-14. 出典：1983年4月4日付の[福井新聞](../Page/福井新聞.md "wikilink")における[ラ・テ欄より](https://ja.wikipedia.org/wiki/番組表 "wikilink")。
+14. そのためそれまで[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")だった『[月曜スター劇場](../Page/月曜スター劇場.md "wikilink")』枠が土曜日23時台での遅れネットに降格し、以後[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")4月改編で日テレとの同時ネットに再度回帰するまでこの事態が続いた。

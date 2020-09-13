@@ -48,7 +48,7 @@
 ## 外部リンク
 
   - [原文のコピー](http://www.pbm.com/~lindahl/real.programmers.html)
-  - [本物のプログラマは Pascalを使わない](http://www.genpaku.org/realprogrammerj.html)(かつてMike Schenk によって編纂され、USENETを通じて世界中に配信された The Real Programmer Stories の日本語訳)
+  - [本物のプログラマは Pascalを使わない](https://dajya-ranger.com/software/real-programmers-dont-use-pascal/)(かつてMike Schenk によって編纂され、USENETを通じて世界中に配信された The Real Programmer Stories の日本語訳)
 
 [Category:コンピュータ史](https://ja.wikipedia.org/wiki/Category:コンピュータ史 "wikilink")
 

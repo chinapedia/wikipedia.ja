@@ -114,6 +114,9 @@
     水沢 加世（みずさわ かよ）
     演 - [板谷由夏](https://ja.wikipedia.org/wiki/板谷由夏 "wikilink")
     斉藤の元交際相手。最終的にヨリを戻す。
+  - 水沢 翼（みずさわ つばさ）
+    演 - [仲條友彪](../Page/仲條友彪.md "wikilink")
+    加世の息子。
 
 <!-- end list -->
 
@@ -135,7 +138,7 @@
     チカ
     演 - [水川あさみ](https://ja.wikipedia.org/wiki/水川あさみ "wikilink")
     奈央子の同居人。
-  - 坂口 百合子
+  - 阪口 百合子
     演 - [木村理恵](../Page/木村理恵.md "wikilink")
     阪口司の妻。
 
@@ -340,7 +343,7 @@
 
 ## 外部リンク
 
-  - [anego](http://www.ntv.co.jp/anego/) - 日本テレビ
+  - [anego](https://www.ntv.co.jp/anego/) - 日本テレビ
 
 [Category:林真理子](https://ja.wikipedia.org/wiki/Category:林真理子 "wikilink") [Category:日本の小説](https://ja.wikipedia.org/wiki/Category:日本の小説 "wikilink") [Category:2003年の小説](https://ja.wikipedia.org/wiki/Category:2003年の小説 "wikilink") [Category:2005年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2005年のテレビドラマ "wikilink") [Category:日本テレビ水曜10時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:日本テレビ水曜10時枠の連続ドラマ "wikilink") [Category:日本テレビのスペシャルドラマ](https://ja.wikipedia.org/wiki/Category:日本テレビのスペシャルドラマ "wikilink") [Category:オフィスクレッシェンド製作のテレビ作品](https://ja.wikipedia.org/wiki/Category:オフィスクレッシェンド製作のテレビ作品 "wikilink") [Category:林真理子原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:林真理子原作のテレビドラマ "wikilink") [Category:職場恋愛を扱った作品](https://ja.wikipedia.org/wiki/Category:職場恋愛を扱った作品 "wikilink") [Category:中園ミホ脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:中園ミホ脚本のテレビドラマ "wikilink")
 

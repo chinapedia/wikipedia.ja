@@ -206,7 +206,7 @@
 
 ## 外部リンク
 
-  - [公式サイト](http://asuka-web.jp/)
+  - [公式サイト](https://asuka-web.jp/)
 
   -
 [Category:日本の漫画雑誌](https://ja.wikipedia.org/wiki/Category:日本の漫画雑誌 "wikilink") [Category:角川書店の漫画雑誌](https://ja.wikipedia.org/wiki/Category:角川書店の漫画雑誌 "wikilink") [Category:月刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:月刊漫画雑誌 "wikilink") [Category:少女漫画雑誌](https://ja.wikipedia.org/wiki/Category:少女漫画雑誌 "wikilink") [Category:1985年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1985年創刊の雑誌 "wikilink") [Category:月刊Asuka](https://ja.wikipedia.org/wiki/Category:月刊Asuka "wikilink") [Category:刊行中の漫画雑誌](https://ja.wikipedia.org/wiki/Category:刊行中の漫画雑誌 "wikilink")

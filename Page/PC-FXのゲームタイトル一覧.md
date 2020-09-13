@@ -358,7 +358,7 @@
 <tr class="odd">
 <td><p>33</p></td>
 <td><p>1996年09月27日</p></td>
-<td><p><a href="../Page/きゃんきゃんバニー.md" title="wikilink">きゃんきゃんバニー</a>エクストラDX</p></td>
+<td><p><a href="../Page/きゃんきゃんバニーシリーズ.md" title="wikilink">きゃんきゃんバニーエクストラDX</a></p></td>
 <td><p><a href="../Page/カクテル・ソフト.md" title="wikilink">カクテル・ソフト</a></p></td>
 <td><p><a href="../Page/アドベンチャーゲーム.md" title="wikilink">ADV</a></p></td>
 <td><p>18禁</p></td>
@@ -551,7 +551,7 @@
 <td><p><a href="../Page/カクテル・ソフト.md" title="wikilink">カクテル・ソフト</a></p></td>
 <td><p><a href="../Page/アドベンチャーゲーム.md" title="wikilink">ADV</a></p></td>
 <td><p>18禁</p></td>
-<td><p>『<a href="../Page/きゃんきゃんバニー.md" title="wikilink">きゃんバニEXDX</a>』と『[[Piaキャロットへようこそ</p></td>
+<td><p>『<a href="../Page/きゃんきゃんバニーシリーズ.md" title="wikilink">きゃんバニEXDX</a>』と『[[Piaキャロットへようこそ</p></td>
 </tr>
 <tr class="odd">
 <td><p>55</p></td>

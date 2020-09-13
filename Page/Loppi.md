@@ -1,9 +1,9 @@
 > この記事は[Loppi](https://ja.wikipedia.org/wiki/Loppi)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Lawson_Loppi.jpg "wikilink") **Loppi**（ロッピー）は日本全国の[ローソン](../Page/ローソン.md "wikilink")に設置されている、各種グッズ販売や[チケット](https://ja.wikipedia.org/wiki/チケット "wikilink")販売、[保険](../Page/保険.md "wikilink")への加入、[クレジットカード](../Page/クレジットカード.md "wikilink")・公共料金の支払い代行、消費者金融の返済などを代表とする[オンライン](../Page/オンライン.md "wikilink")取引を行える[マルチメディアキオスク端末](../Page/マルチメディアステーション.md "wikilink")（MMK）である。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Lawson_Loppi.jpg "wikilink") **Loppi**（ロッピー）は、日本全国の[ローソン](../Page/ローソン.md "wikilink")に設置されている、各種グッズ販売や[チケット](https://ja.wikipedia.org/wiki/チケット "wikilink")販売、[保険](../Page/保険.md "wikilink")への加入、[クレジットカード](../Page/クレジットカード.md "wikilink")・公共料金の支払い代行、消費者金融の返済などを代表とする[オンライン](../Page/オンライン.md "wikilink")取引を行える[マルチメディアステーション](../Page/マルチメディアステーション.md "wikilink")（MMS）である。
 
-本稿では、[2012年](../Page/2012年.md "wikilink")秋からは全国の[ミニストップ](https://ja.wikipedia.org/wiki/ミニストップ "wikilink")に順次設置されている「MINISTOP Loppi」についても記述する。
+本稿では、[2012年](../Page/2012年.md "wikilink")秋からは全国の[ミニストップ](https://ja.wikipedia.org/wiki/ミニストップ "wikilink")に順次設置されている**MINISTOP Loppi**（ミニストップ・ロッピー）についても記述する。
 
 ## 概要
 
@@ -137,7 +137,7 @@
 <!-- end list -->
 
   -
-    ミニストップでは非取扱いのため、MINISTOP Loppiでこれらのカードや会員情報が登録された[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")を読み込ませるとサービス対応外の表示がされる。
+    ミニストップでは[smart WAONを導入している関係からこの](../Page/WAON.md "wikilink")2サービスが非取扱いのため、MINISTOP Loppiでこれらのカードや会員情報が登録された[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")を読み込ませるとサービス対応外の表示がされる。
 
 <!-- end list -->
 

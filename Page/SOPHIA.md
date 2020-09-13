@@ -19,35 +19,35 @@
 <td><p><strong><a href="../Page/松岡充.md" title="wikilink">松岡充</a></strong><br />
 （まつおか みつる）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">ボーカル</a></p></td>
-<td><p>、<a href="https://ja.wikipedia.org/wiki/ABO式血液型" title="wikilink">B型</a>、<a href="../Page/兵庫県.md" title="wikilink">兵庫県</a><a href="../Page/高砂市.md" title="wikilink">高砂市</a>出身</p></td>
+<td><p>、<a href="../Page/ABO式血液型.md" title="wikilink">B型</a>、<a href="../Page/兵庫県.md" title="wikilink">兵庫県</a><a href="../Page/高砂市.md" title="wikilink">高砂市</a>出身</p></td>
 <td><p>幼年期を<a href="../Page/山口県.md" title="wikilink">山口県</a><a href="../Page/岩国市.md" title="wikilink">岩国市</a>で過ごす</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>豊田和貴</strong><br />
 （とよた かずたか）</p></td>
 <td><p><a href="../Page/ギター.md" title="wikilink">ギター</a></p></td>
-<td><p>、<a href="https://ja.wikipedia.org/wiki/ABO式血液型" title="wikilink">A型</a>、<a href="../Page/大阪府.md" title="wikilink">大阪府</a><a href="../Page/吹田市.md" title="wikilink">吹田市</a>出身</p></td>
+<td><p>、<a href="../Page/ABO式血液型.md" title="wikilink">A型</a>、<a href="../Page/大阪府.md" title="wikilink">大阪府</a><a href="../Page/吹田市.md" title="wikilink">吹田市</a>出身</p></td>
 <td><p>通称''ジル</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>黒柳能生</strong><br />
 （くろやなぎ よしお）</p></td>
 <td><p><a href="../Page/ベース_(弦楽器).md" title="wikilink">ベース</a></p></td>
-<td><p>、<a href="https://ja.wikipedia.org/wiki/ABO式血液型" title="wikilink">O型</a>、<a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a><a href="../Page/知立市.md" title="wikilink">知立市</a>出身</p></td>
-<td><p>愛称クロ 現在はラーメン屋</p></td>
+<td><p>、<a href="../Page/ABO式血液型.md" title="wikilink">O型</a>、<a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a><a href="../Page/知立市.md" title="wikilink">知立市</a>出身</p></td>
+<td><p>愛称クロ</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>赤松芳朋</strong><br />
 （あかまつ よしとも）</p></td>
 <td><p><a href="../Page/ドラムセット.md" title="wikilink">ドラム</a></p></td>
-<td><p>、<a href="https://ja.wikipedia.org/wiki/ABO式血液型" title="wikilink">B型</a>、兵庫県<a href="../Page/加古郡.md" title="wikilink">加古郡</a><a href="../Page/播磨町.md" title="wikilink">播磨町</a>出身</p></td>
+<td><p>、<a href="../Page/ABO式血液型.md" title="wikilink">B型</a>、兵庫県<a href="../Page/加古郡.md" title="wikilink">加古郡</a><a href="../Page/播磨町.md" title="wikilink">播磨町</a>出身</p></td>
 <td><p>愛称トモ</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/都啓一.md" title="wikilink">都啓一</a></strong><br />
 （みやこ けいいち）</p></td>
 <td><p><a href="../Page/キーボード_(楽器).md" title="wikilink">キーボード</a></p></td>
-<td><p>、<a href="https://ja.wikipedia.org/wiki/ABO式血液型" title="wikilink">B型</a>、兵庫県<a href="../Page/伊丹市.md" title="wikilink">伊丹市</a>出身</p></td>
+<td><p>、<a href="../Page/ABO式血液型.md" title="wikilink">B型</a>、兵庫県<a href="../Page/伊丹市.md" title="wikilink">伊丹市</a>出身</p></td>
 <td><p>愛称ミヤコ</p></td>
 </tr>
 </tbody>
@@ -202,7 +202,7 @@
 
 <!-- end list -->
 
-  - ゴールデンウィークに、2006年以来2度目のZeppツアーを敢行。来場者には限定CD「BANDAGE」を会場別で配布した(着うた・着うたフル限定での配信もある)。[4月24日](../Page/4月24日.md "wikilink")の[ライブでは](../Page/演奏会.md "wikilink")、[事務所](../Page/事務所.md "wikilink")側のミスにより違う日のCDを配布してしまう。該当者は、チケットを郵送すると新しいCDが送られてくる事となり、これにより行っていない日のCDも入手できた。
+  - ゴールデンウィークに、2006年以来2度目のZeppツアーを敢行。来場者には限定CD「BANDAGE」を会場別で配布した(着うた・着うたフル限定での配信もある)。[4月24日](../Page/4月24日.md "wikilink")の[ライブでは](../Page/演奏会.md "wikilink")、[事務所側のミスにより違う日のCDを配布してしまう](../Page/芸能事務所.md "wikilink")。該当者は、チケットを郵送すると新しいCDが送られてくる事となり、これにより行っていない日のCDも入手できた。
   - 7月には今まで前例のない神戸[メリケンパーク](../Page/メリケンパーク.md "wikilink")にてライブを行った。
   - 秋から冬にかけて全国ツアー『BAND AGE』を成功させた。
   - レコード会社の移籍を発表。UNIVERSAL Jへ。
@@ -272,15 +272,20 @@
   - 3月10日、全国ツアーSOPHIA LIVE 2013スタート。しかし、4月9日に全国ツアー終了をもって活動休止を発表する。
   - 8月12日、全国ツアーSOPHIA LIVE 2013最終日。日本武道館でラストライブ。この開催をもって活動休止した。
 
+<!-- end list -->
+
+  -
+    松岡、豊田、赤松は新バンド「[MICHAEL](https://ja.wikipedia.org/wiki/MICHAEL_\(バンド\) "wikilink")」を結成。松岡は平行して役者として精力的に活動。赤松は翌年MICHAELを脱退しサポートの他、2018年に[cune](https://ja.wikipedia.org/wiki/cune "wikilink")の生熊耕治、[Sadieの亜季と共にバンド](../Page/Sadie_\(バンド\).md "wikilink")「BLUEVINE」を結成している\[6\]。都は楽曲提供やライブサポートで活動、2010年に「[Rayflower](https://ja.wikipedia.org/wiki/Rayflower "wikilink")」を結成。黒柳は飲食店を経営。
+
 ## エピソード
 
   - ツアー『ALIVE』以降、「本編だけで余力を残さず完全燃焼してるつもりだから」という理由で[アンコール](../Page/アンコール.md "wikilink")は基本的に行わなかった。本来満足した客が自主的に行うものであるはずのアンコールが慣例化し、行われるのが半ば暗黙の了解になっていることに疑問を抱いた結果である。このため全く行わないというわけではなく、ライブハウスツアーや野外等の特殊なライブ、またはライブの内容が良く会場の開放時間に余裕があるときなどは、稀に行われることもあった。
   - 2019年現在、トイズファクトリー、東芝EMI、ユニバーサルミュージック在籍時に発売したシングル・アルバム・VHSは廃盤になっている。トイズファクトリーで発表したシングル曲のうち「進化論 〜GOOD MORNING\! -HELLO\! 21st-CENTURY〜」から「-僕はここにいる-」までの9曲のPVはVHS・DVDなどになっていなかったため、2005年に東芝EMIからDVD『philosophy-VII』として発売された。
   - ライブのSEは、本編が始まる直前には必ず[エディット・ピアフ](../Page/エディット・ピアフ.md "wikilink")の「愛の讃歌」が流れた。終了後は同じくピアフの「ばら色の人生」が流された。ちなみに「愛の讃歌」は2005年にシングル「one summer day」の[カップリングとして](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")[カバー](../Page/カバー.md "wikilink")した他、原曲に松岡のオリジナル歌詞を付けた「青空の破片（かけら）」という曲を「獅子に翼IV」と2005年11月放送の[BEAT MOTION](../Page/BEAT_MOTION.md "wikilink")、ライブツアー「SOPHIA 10th ANNIVERSARRY TOUR 2005 a piece of blue sky〜遥かなる宝島〜」にて披露。長らく音源の無い曲となっていたが、2007年9月にCD化。
   - 毎年[ファンクラブ](../Page/ファンクラブ.md "wikilink")で希望者を募ってメンバーと共に旅行に出掛ける[イベント](../Page/イベント.md "wikilink")「さく-a\!」（さくあ）が催された。国内だけに留まらず[オーストラリア](../Page/オーストラリア.md "wikilink")など海外も訪れ、適時[メンバー](https://ja.wikipedia.org/wiki/メンバー "wikilink")と交流したりしながら旅行を楽しんだ。ちなみに「さく-a\!」というのは略称で、正式名称は「**さくれつ\!THE DYNAMITE Holiday inゴージャス ミラクル ファンタスティク アーンド デリシャス ○○（目的地名） with スィート デンジャラス Funky sophia\!**」である。
-  - 2007年のツアーの神戸公演(2007.11.29)より、ヒマワリの花（造花・300円）を販売し、その収益金の全額を夏目雅子ひまわり基金及び夏目雅子ひまわり基金の推薦団体へ寄付することとする（なおSOPHIAにとっての「ヒマワリの花」は、LIVEで観客の大部分が持参し、彼らの初めてのシングル曲「ヒマワリ」で各々手に持つことが、ファンには知られているが、自然発生的に始まった事であり、今まで公式に売られたことはなかった\[6\]）。
+  - 2007年のツアーの神戸公演(2007.11.29)より、ヒマワリの花（造花・300円）を販売し、その収益金の全額を夏目雅子ひまわり基金及び夏目雅子ひまわり基金の推薦団体へ寄付することとする（なおSOPHIAにとっての「ヒマワリの花」は、LIVEで観客の大部分が持参し、彼らの初めてのシングル曲「ヒマワリ」で各々手に持つことが、ファンには知られているが、自然発生的に始まった事であり、今まで公式に売られたことはなかった\[7\]）。
   - ツアーでの神戸・新潟公演では[阪神淡路大震災](https://ja.wikipedia.org/wiki/阪神淡路大震災 "wikilink")発生をもとに作った『Like forever』を演奏している。また、2008年に松岡、赤松、都の出身地である兵庫県への恩返しを込めて、メリケンパークにてライブを行った。
-  - 2007年12月30日の[大阪厚生年金会館](https://ja.wikipedia.org/wiki/大阪厚生年金会館 "wikilink")大ホールのライブにて、バンドによる同ホールの最多公演を記録。ホールを細かく回るツアースタイルの功績ともいえる半面、大阪城ホール等アリーナでのライブを行えない現状も寄与している。2010年3月28日の公演をもって同ホールでの公演を終了することとなる\[7\]。
+  - 2007年12月30日の[大阪厚生年金会館](https://ja.wikipedia.org/wiki/大阪厚生年金会館 "wikilink")大ホールのライブにて、バンドによる同ホールの最多公演を記録。ホールを細かく回るツアースタイルの功績ともいえる半面、大阪城ホール等アリーナでのライブを行えない現状も寄与している。2010年3月28日の公演をもって同ホールでの公演を終了することとなる\[8\]。
 
 ## ディスコグラフィ
 
@@ -808,7 +813,7 @@ AVCD-38739/B<br />
 AVXD-91666 (Blu-ray Disc Music)</p></td>
 <td><p>全13曲<br />
 （初回限定盤のみ全14曲）</p></td>
-<td><p>初回限定盤のみ特性スリーブケース＋SOPHIA SPECIAL PHOTO COLLECTION BOOK 24P</p></td>
+<td><p>初回限定盤のみ特製スリーブケース＋SOPHIA SPECIAL PHOTO COLLECTION BOOK 24P</p></td>
 <td><p>15位</p></td>
 </tr>
 </tbody>
@@ -909,7 +914,7 @@ TOCT-25837</p></td>
 <td><p>12cmCD</p></td>
 <td><p>UPCY-6947</p></td>
 <td><p>全15曲</p></td>
-<td><p>20周年記念ベストアルバムの前期作品[8]。</p></td>
+<td><p>20周年記念ベストアルバムの前期作品[9]。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1065,7 +1070,7 @@ TOCT-25837</p></td>
   - 6thシングル「君と揺れていたい」PV
   - 13thシングル「walk」PV
 
-[中村友彦](https://ja.wikipedia.org/wiki/中村友彦 "wikilink")
+[中村友彦](../Page/中村友彦.md "wikilink")
 
   - 1stミニアルバム『BOYS』収録曲「Kissing blue memories」 PV
   - 2ndミニアルバム『GIRLS』収録曲「STILL」 PV
@@ -1227,7 +1232,7 @@ TOCT-25837</p></td>
 
   - TOUR 2008 "BANDAGE" - 6ヶ所7公演
   - LIVE 2008 "スターライトKOBE" - [神戸メリケンパーク](https://ja.wikipedia.org/wiki/神戸メリケンパーク "wikilink")特設ステージ
-  - TOUR 2008 "BAND AGE"\[9\] - 9ヶ所11公演
+  - TOUR 2008 "BAND AGE"\[10\] - 9ヶ所11公演
 
 <!-- end list -->
 
@@ -1398,7 +1403,7 @@ TOCT-25837</p></td>
 
 <!-- end list -->
 
-  - 月光（TX系『[たけしのニッポンのミカタ\!](https://ja.wikipedia.org/wiki/たけしのニッポンのミカタ! "wikilink")』10月度エンディングテーマ）\[10\]
+  - 月光（TX系『[たけしのニッポンのミカタ\!](https://ja.wikipedia.org/wiki/たけしのニッポンのミカタ! "wikilink")』10月度エンディングテーマ）\[11\]
 
 ## その他の作品
 
@@ -1420,15 +1425,16 @@ TOCT-25837</p></td>
   - [Matsuoka Mitsuru Official Site “7zoo7.com”](https://www.7zoo7.com/)  - Matsuoka Mitsuru Official Site "7zoo7"
   - [未来SOPHIA宣言](https://ch.nicovideo.jp/sophia) -ニコニコ公式ブロマガ
 
-[Category:SOPHIA](https://ja.wikipedia.org/wiki/Category:SOPHIA "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:ポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・ロック・バンド "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:ミクスチャー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ミクスチャー・ロック・バンド "wikilink") [Category:トイズファクトリーのアーティスト](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのアーティスト "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:1994年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1994年に結成した音楽グループ "wikilink") [Category:2013年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2013年に解散した音楽グループ "wikilink")
+[Category:SOPHIA](https://ja.wikipedia.org/wiki/Category:SOPHIA "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のポップ・ロック・バンド "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:ミクスチャー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ミクスチャー・ロック・バンド "wikilink") [Category:トイズファクトリーのアーティスト](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのアーティスト "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:1994年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1994年に結成した音楽グループ "wikilink")
 
 1.
 2.  [SOPHIAより ファンの皆様ならびに関係者の皆様へ大事なお知らせ](http://www.sophia-eternal.com/news/?id=1269169648) SOPHIAオフィシャルリリース 2010年3月21日発信
 3.  [SOPHIAメンバーが悪性リンパ腫公表](http://www.sponichi.co.jp/entertainment/flash/KFullFlash20100321143.html) スポーツニッポン 2010年3月21日閲覧
 4.
 5.
-6.  2007.11.29、神戸国際会館こくさいホールでのMCより
-7.  大阪厚生年金会館の閉鎖による
-8.
-9.  綴りは同じだが区切りが異なる。春に行われたものが「バンデージ」秋が「バンドエイジ（BandAge）」と読む。
-10. [SOPHIA OFFICIAL SITE](http://sophia-eternal.jp/official/news/2012/10/post-59.html)「最新リリース情報|News」より。
+6.
+7.  2007.11.29、神戸国際会館こくさいホールでのMCより
+8.  大阪厚生年金会館の閉鎖による
+9.
+10. 綴りは同じだが区切りが異なる。春に行われたものが「バンデージ」秋が「バンドエイジ（BandAge）」と読む。
+11. [SOPHIA OFFICIAL SITE](http://sophia-eternal.jp/official/news/2012/10/post-59.html)「最新リリース情報|News」より。

@@ -557,7 +557,7 @@
 
 ::
 
-:\*西村智彦 ([SING LIKE TALKING](https://ja.wikipedia.org/wiki/Sing_Like_Talking "wikilink")) [オリジナル・アルバム](../Page/スタジオ・アルバム.md "wikilink")『WONDERLAND』（2015年）
+:\*[西村智彦](https://ja.wikipedia.org/wiki/西村智彦 "wikilink") ([SING LIKE TALKING](../Page/SING_LIKE_TALKING.md "wikilink")) [オリジナル・アルバム](../Page/スタジオ・アルバム.md "wikilink")『WONDERLAND』（2015年）
 
   -
 
@@ -665,6 +665,12 @@ The Primrose Hills
   - 山田直子 (Ba)
   - 大島直美 (Dr)
   - Yuko (Cho)
+
+### 君に逢いたいだけ
+
+  - Chage
+  - 力石理江 (Key)
+  - KB (Gt)
 
 ### ディナーショー
 
@@ -1338,7 +1344,7 @@ CHAGE&amp;ASKAの3部構成ライブ</p>
 ◆ CRIMSON ◆</p></td>
 <td><div class="NavFrame" style="clear:both;border:0">
 <div class="NavHead" style="text-align:center">
-<p>5回開催</p>
+<p>5公演</p>
 </div>
 <div class="NavContent" style="text-align:center">
 <p>8月25日 東京 豊洲PIT<br />
@@ -1355,7 +1361,7 @@ CHAGE&amp;ASKAの3部構成ライブ</p>
 ～ ちゃんと祝ってくれるかな ? ～</p></td>
 <td><div class="NavFrame" style="clear:both;border:0">
 <div class="NavHead" style="text-align:center">
-<p>1回開催</p>
+<p>1公演</p>
 </div>
 <div class="NavContent" style="text-align:center">
 <p>9月15日 東京 Zepp Tokyo</p>
@@ -1391,7 +1397,7 @@ CHAGE&amp;ASKAの3部構成ライブ</p>
 feedback</p></td>
 <td><div class="NavFrame" style="clear:both;border:0">
 <div class="NavHead" style="text-align:center">
-<p>5回開催</p>
+<p>5公演</p>
 </div>
 <div class="NavContent" style="text-align:center">
 <p>8月31日 名古屋 Zepp Nagoya<br />
@@ -1408,7 +1414,7 @@ feedback</p></td>
 上海演唱会</p></td>
 <td><div class="NavFrame" style="clear:both;border:0">
 <div class="NavHead" style="text-align:center">
-<p>1回開催</p>
+<p>1公演</p>
 </div>
 <div class="NavContent" style="text-align:center">
 <p>11月17日 中国 上海東方芸術中心</p>
@@ -1444,7 +1450,7 @@ feedback</p></td>
 </p></td>
 <td><div class="NavFrame" style="clear:both;border:0">
 <div class="NavHead" style="text-align:center">
-<p>5回開催</p>
+<p>5公演</p>
 </div>
 <div class="NavContent" style="text-align:center">
 <p>9月5日 名古屋 Zepp Nagoya<br />
@@ -1456,6 +1462,19 @@ feedback</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>配信ライブ</p></td>
+<td><p><br />
+</p></td>
+<td><div class="NavFrame" style="clear:both;border:0">
+<div class="NavHead" style="text-align:center">
+<p>1回開催</p>
+</div>
+<div class="NavContent" style="text-align:center">
+<p>9月5日</p>
+</div></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1796,8 +1815,23 @@ Chage ライブステージ</strong></p></td>
 「Graduation」</p></td>
 </tr>
 <tr class="odd">
-<td><p>2020年5月10日</p></td>
+<td><p>2020年6月16日</p></td>
+<td><p><strong>川島ケイジの「君のために歌いマホ」Special Stage with Chage</strong></p></td>
+<td><p>「<strong>終章（エピローグ）</strong>」「SOME DAY」</p></td>
+</tr>
+<tr class="even">
+<td><p>2020年7月14日</p></td>
+<td><p><strong>川島ケイジの「君のために歌いマホ」Special Stage with Chage〜第２弾〜</strong></p></td>
+<td><p>「少年時代」「ふたりの愛ランド」</p></td>
+</tr>
+<tr class="odd">
+<td><p>2020年11月23日</p></td>
 <td><p><strong>川島ケイジ STRINGS CONCERT 2020 ～My Sweet Ume Town～</strong></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>

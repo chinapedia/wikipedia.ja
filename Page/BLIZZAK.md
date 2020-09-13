@@ -1,7 +1,7 @@
 > この記事は[BLIZZAK](https://ja.wikipedia.org/wiki/BLIZZAK)から翻訳されています。
 
 
-**BLIZZAK**(ブリザック) とは[ブリヂストン](../Page/ブリヂストン.md "wikilink")が販売する[スタッドレスタイヤ](../Page/スタッドレスタイヤ.md "wikilink")の商品名。本項では同社が扱うブリザックブランド以外のスタッドレスタイヤに関しても記載する。
+**BLIZZAK**(ブリザック) とは、[ブリヂストン](../Page/ブリヂストン.md "wikilink")が販売する[スタッドレスタイヤ](../Page/スタッドレスタイヤ.md "wikilink")の商品名。本項では同社が扱うブリザックブランド以外のスタッドレスタイヤに関しても記載する。
 
 ## 概要
 
@@ -56,7 +56,7 @@
   - ICEPARTNER
       - 2012年発売。2011年には一部海外向けとして販売されていた。
   - ICEPARTNER 2
-      - 2018年発売。REVOGZのトレッドパターンを流用。
+      - 2018年発売。REVO GZのトレッドパターンを流用。
 
 ### 4X4・SUV用
 
@@ -134,9 +134,14 @@
 
 ### タクシー用
 
-  - TM-01
-  - TM-01LS
-  - TM-02
+耐摩耗性を重視。
+
+  - BLIZZAK TM-01
+  - BLIZZAK TM-01LS
+  - BLIZZAK TM-02
+  - BLIZZAK TM-02LS
+  - BLIZZAK TM-03
+  - BLIZZAK TM-03LS
 
 ## キャッチフレーズ
 

@@ -459,7 +459,7 @@ Percussion 竹本一匹 / Saxophone 宇賀まり参加。
 <!-- end list -->
 
   -
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:イカ天出身のバンド](https://ja.wikipedia.org/wiki/Category:イカ天出身のバンド "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:ファンク](https://ja.wikipedia.org/wiki/Category:ファンク "wikilink") [Category:1988年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1988年に結成した音楽グループ "wikilink") [Category:1998年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1998年に解散した音楽グループ "wikilink") [Category:2007年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2007年に再結成した音楽グループ "wikilink")
+[Category:イカ天出身のバンド](https://ja.wikipedia.org/wiki/Category:イカ天出身のバンド "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:ファンク](https://ja.wikipedia.org/wiki/Category:ファンク "wikilink") [Category:1988年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1988年に結成した音楽グループ "wikilink") [Category:1998年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1998年に解散した音楽グループ "wikilink") [Category:2007年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2007年に再結成した音楽グループ "wikilink")
 
 1.  [朝日新聞デジタル](http://www.asahi.com/and_w/interest/SDI2016021290271.html)「フライングキッズ、「いか天」のあの頃　浜崎貴司（前編）」2016年2月26日、2016年4月3日閲覧。
 2.  [浜崎貴司OFFICIAL SITE～TANEMAKI～](http://hamazaki.org/news/) [flyingkids official web site](http://fk6.jp/)「FLYING KIDS 結成30周年！新メンバー加入で９人に！『新・我想うゆえに我あり』をリリース！」(2017.9.20アクセス)。

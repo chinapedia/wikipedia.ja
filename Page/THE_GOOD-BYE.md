@@ -23,7 +23,7 @@
 <tr class="odd">
 <td><p><strong><a href="../Page/野村義男.md" title="wikilink">野村義男</a></strong><br />
 <small>（のむら よしお）</small></p></td>
-<td><p>、<a href="https://ja.wikipedia.org/wiki/ABO式血液型" title="wikilink">A型</a>、<a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/中野区" title="wikilink">中野区</a>出身</p></td>
+<td><p>、<a href="../Page/ABO式血液型.md" title="wikilink">A型</a>、<a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/中野区" title="wikilink">中野区</a>出身</p></td>
 <td><p>ヨッちゃん</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">ボーカル</a>&amp;<a href="../Page/ギター.md" title="wikilink">ギター</a></p></td>
 <td></td>
@@ -31,25 +31,25 @@
 <tr class="even">
 <td><p><strong><a href="../Page/曾我泰久.md" title="wikilink">曽我泰久</a></strong>（現在は<strong>曾我</strong>泰久） （リーダー）<br />
 <small>（そが やすひさ）</small></p></td>
-<td><p>、<a href="https://ja.wikipedia.org/wiki/ABO式血液型" title="wikilink">A型</a>、<a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/北区_(東京都)" title="wikilink">北区</a><a href="../Page/赤羽.md" title="wikilink">赤羽</a>出身</p></td>
+<td><p>、A型、東京都<a href="https://ja.wikipedia.org/wiki/北区_(東京都)" title="wikilink">北区</a><a href="../Page/赤羽.md" title="wikilink">赤羽</a>出身</p></td>
 <td><p>ヤッチン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">ボーカル</a>&amp;<a href="../Page/ギター.md" title="wikilink">ギター</a></p></td>
+<td><p>ボーカル&amp;ギター</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/加賀八郎.md" title="wikilink">加賀八郎</a></strong><br />
 <small>（かが はちろう）</small></p></td>
-<td><p>- 、<a href="https://ja.wikipedia.org/wiki/ABO式血液型" title="wikilink">B型</a>、<a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/目黒区" title="wikilink">目黒区</a><a href="../Page/祐天寺.md" title="wikilink">祐天寺</a>出身</p></td>
+<td><p>- 、<a href="../Page/ABO式血液型.md" title="wikilink">B型</a>、<a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/目黒区" title="wikilink">目黒区</a><a href="../Page/祐天寺.md" title="wikilink">祐天寺</a>出身</p></td>
 <td><p>ハチ、ぱっつぁん、スヌーキー</p></td>
-<td><p><a href="../Page/ベース_(弦楽器).md" title="wikilink">ベース</a>&amp;<a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">ボーカル</a></p></td>
+<td><p><a href="../Page/ベース_(弦楽器).md" title="wikilink">ベース</a>&amp;ボーカル</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/衛藤浩一" title="wikilink">衛藤浩一</a></strong><br />
 <small>（えとう こういち）</small></p></td>
-<td><p>1963年6月8日（56歳）、AB型、大分出身</p></td>
+<td><p>1963年6月8日（56歳）、<a href="../Page/ABO式血液型.md" title="wikilink">AB型</a>、大分出身</p></td>
 <td><p>こーちゃん、スマープ</p></td>
-<td><p><a href="../Page/ドラムセット.md" title="wikilink">ドラム</a>&amp;<a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">ボーカル</a></p></td>
+<td><p><a href="../Page/ドラムセット.md" title="wikilink">ドラム</a>&amp;ボーカル</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -68,9 +68,9 @@
 1.  気まぐれONE WAY BOY／DANCE×3（1983年9月1日）
       - 作詞 : [橋本淳](../Page/橋本淳_\(作詞家\).md "wikilink")、作曲 : [山本寛太郎](https://ja.wikipedia.org/wiki/山本寛太郎 "wikilink")、編曲 : [甲斐正人](../Page/甲斐正人.md "wikilink")
 2.  涙のティーンエイジ・ブルース／二人だけのクリスマス（1983年11月8日）
-      - 作詞 : [橋本淳](../Page/橋本淳_\(作詞家\).md "wikilink")、作曲・編曲 : The Good-Bye
+      - 作詞 : 橋本淳、作曲・編曲 : The Good-Bye
 3.  モダンボーイ狂想曲／浮気なロンリーガール（1984年3月8日）
-      - 作詞 : [橋本淳](../Page/橋本淳_\(作詞家\).md "wikilink")／野村義男、作曲・編曲 : The Good-Bye
+      - 作詞 : 橋本淳／野村義男、作曲・編曲 : The Good-Bye
 4.  YOU惑－MAY惑／LOVE AGAIN（1984年7月5日）　※ [味の素](../Page/味の素.md "wikilink") [マーガリン](../Page/マーガリン.md "wikilink")「マリーナ」CMソング
       - 作詞 : 野村義男、作曲 : 曽我泰久、編曲 : The Good-Bye
 5.  にくめないのがニクイのサ／Don't Make Me Blue（1984年11月1日）　※ 味の素 マーガリン「マリーナ」CMソング
@@ -153,16 +153,18 @@
 
   - [ヤングタウンTOKYO](../Page/ヤングタウンTOKYO.md "wikilink") 「ザ・グッバイのマリーナ・マイ・フレッシュ・ライブ」
       -
-        （[1984年](../Page/1984年.md "wikilink")10月 - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")10月、[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")、公開番組）
+        （[1984年](../Page/1984年.md "wikilink")10月 - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")10月、[TBSラジオ](../Page/TBSラジオ.md "wikilink")、公開番組）
 
 ## 脚注
 
-<references />
+## 関連項目
+
+  - [1983年の音楽\#デビュー](https://ja.wikipedia.org/wiki/1983年の音楽#デビュー "wikilink") - 同じ年にデビューした歌手
 
 ## 外部リンク
 
   - [The Good-Bye UNIVERSAL MUSIC JAPAN Official Web](https://www.universal-music.co.jp/the-good-bye/)
 
-[Category:ジャニーズ](https://ja.wikipedia.org/wiki/Category:ジャニーズ "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink")
+[Category:ジャニーズ](https://ja.wikipedia.org/wiki/Category:ジャニーズ "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink")
 
 1.  ビクター（当時）のプロデューサー、[川原伸司](../Page/川原伸司.md "wikilink")の変名

@@ -62,4 +62,4 @@
 
   - [東ハト](../Page/東ハト.md "wikilink") ミニハーベスト、フルーツショコラ
 
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:沖縄県出身の人物](https://ja.wikipedia.org/wiki/Category:沖縄県出身の人物 "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:日本のポップ・アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・アイドルグループ "wikilink") [Category:沖縄県出身の人物](https://ja.wikipedia.org/wiki/Category:沖縄県出身の人物 "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink")

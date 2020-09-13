@@ -56,7 +56,7 @@ JUNET 終了後のドメイン名割当て機能は JNIC（後の [JPNIC](https:
 
 ## 参考文献
 
-  - JUNET利用の手引作成委員会『JUNET利用の手引(第1版)』1988年。
+  - JUNET利用の手引作成委員会『[JUNET利用の手引(第1版)](https://www.cs.tsukuba.ac.jp/~yas/fj/junet-tebiki/)』1988年。
 
 <!-- end list -->
 

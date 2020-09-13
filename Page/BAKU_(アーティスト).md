@@ -22,7 +22,7 @@
 <!-- end list -->
 
   -
-    解散後はSpiral Life、AIRを経て、Laika Came Backとして活動。
+    解散後は[Spiral Life](../Page/Spiral_Life.md "wikilink")、[AIRを経て](../Page/車谷浩司.md "wikilink")、[Laika Came Backとして活動](https://ja.wikipedia.org/wiki/Laika_Came_Back "wikilink")。
 
 <!-- end list -->
 

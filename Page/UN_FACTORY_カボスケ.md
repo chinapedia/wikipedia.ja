@@ -22,7 +22,7 @@
   - [ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")
   - [ココリコ](../Page/ココリコ.md "wikilink")
   - [底ぬけAIR-LINE](../Page/底ぬけAIR-LINE.md "wikilink")
-  - [吉村くん](https://ja.wikipedia.org/wiki/吉村くん "wikilink")
+  - [吉村くん](../Page/吉村くん.md "wikilink")
   - [オセロ](../Page/オセロ_\(お笑い\).md "wikilink")
   - [なかよし](https://ja.wikipedia.org/wiki/なかよし_\(お笑いコンビ\) "wikilink")
   - [アニマル梯団](../Page/アニマル梯団.md "wikilink")
@@ -50,7 +50,7 @@
   - VE：北井勇作
   - 音声：石井俊二
   - 照明：八木原伸治
-  - 音響効果：田中寿一（O.C.B）
+  - 音響効果：田中寿一（[O.C.B](../Page/OCBプロ.md "wikilink")）
   - 編集：吉原祐司・中根敏晶・木元雄大（[パッチワーク](../Page/パッチワーク_\(ポストプロダクション\).md "wikilink")）
   - MA：篠原正宏（[パッチワーク](../Page/パッチワーク_\(ポストプロダクション\).md "wikilink")）
   - TK：山口美香

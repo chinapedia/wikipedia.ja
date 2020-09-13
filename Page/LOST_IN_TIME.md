@@ -33,7 +33,7 @@
 
   -
     [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink")、[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")担当。
-    [岩手生まれの](../Page/岩手県.md "wikilink")[埼玉育ち](../Page/埼玉県.md "wikilink")。[血液型A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+    [岩手生まれの](../Page/岩手県.md "wikilink")[埼玉育ち](../Page/埼玉県.md "wikilink")。[血液型A型](../Page/ABO式血液型.md "wikilink")。
     [町田直隆](../Page/町田直隆.md "wikilink")、小寺良太 (ex-[椿屋四重奏](../Page/椿屋四重奏.md "wikilink"))とmoke(s)としても活動中。
     [スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")「STUDIO GROWN」の水曜VJを担当していた。2006年3月に番組終了。
 
@@ -627,7 +627,7 @@ VIDEO CLIP: 1.手紙 2.約束 3.列車 4.ココロノウタ 5.ココロノウタ
   -
   - [gennozi.com](https://ameblo.jp/gennozi/) - 大岡源一郎のブログ
 
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:2001年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に結成した音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
+[Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:2001年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に結成した音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
 
 1.
 2.

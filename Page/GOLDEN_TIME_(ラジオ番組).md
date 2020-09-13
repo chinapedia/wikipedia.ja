@@ -200,6 +200,6 @@
 
   - [GOLDEN TIME Blog](http://www.j-wave.co.jp/blog/goldentime/) - 番組公式ブログ
   - [みうらじゅん&安斎肇の勝手に観光協会](http://www.discberry.com/kanko.html)
-  - [GOLDEN TIME](http://web.archive.org/web/20060807054724/http://www.j-wave.co.jp/original/goldentime/) - [Internet Archiveにより保存されている](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink")2006年8月7日時点の番組公式サイト
+  - [GOLDEN TIME](https://web.archive.org/web/20060807054724/http://www.j-wave.co.jp/original/goldentime/) - [Internet Archiveにより保存されている](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink")2006年8月7日時点の番組公式サイト
 
 [Category:J-WAVEの番組の歴史](https://ja.wikipedia.org/wiki/Category:J-WAVEの番組の歴史 "wikilink") [Category:ラジオのバラエティ番組](https://ja.wikipedia.org/wiki/Category:ラジオのバラエティ番組 "wikilink") [Category:深夜ラジオ番組](https://ja.wikipedia.org/wiki/Category:深夜ラジオ番組 "wikilink") [Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink")

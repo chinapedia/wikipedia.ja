@@ -83,15 +83,15 @@ CM28-5414</p></td>
 ## 参加ミュージシャン
 
   - **後藤次利** - [ベース](../Page/エレクトリックベース.md "wikilink")
-  - **山木秀夫** - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
-  - **富樫春生** - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
-  - **中村哲** - キーボード
-  - **今剛** - [ギター](../Page/ギター.md "wikilink")
+  - **[山木秀夫](../Page/山木秀夫.md "wikilink")** - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
+  - **[富樫春生](https://ja.wikipedia.org/wiki/富樫春生 "wikilink")** - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
+  - **[中村哲](../Page/中村哲_\(作曲家\).md "wikilink")** - キーボード
+  - **[今剛](../Page/今剛.md "wikilink")** - [ギター](../Page/ギター.md "wikilink")
   - **[Char](../Page/Char.md "wikilink")** - ギター
-  - **矢口博康** - [サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")
+  - **[矢口博康](https://ja.wikipedia.org/wiki/矢口博康 "wikilink")** - [サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")
   - **[松武秀樹](../Page/松武秀樹.md "wikilink")** - [コンピュータ](../Page/コンピュータ.md "wikilink")[プログラミング](../Page/プログラミング.md "wikilink")
   - **NOBODY** - [コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - **佐藤健** - コーラス
-  - **大橋純子** - コーラス
+  - **[大橋純子](../Page/大橋純子.md "wikilink")** - コーラス
 
 [Category:吉川晃司のアルバム](https://ja.wikipedia.org/wiki/Category:吉川晃司のアルバム "wikilink") [Category:1985年のアルバム](https://ja.wikipedia.org/wiki/Category:1985年のアルバム "wikilink") [Category:1985年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1985年のオリコンアルバムチャート1位獲得作品 "wikilink")

@@ -23,8 +23,11 @@
 ## 業績
 
   - [1917年](../Page/1917年.md "wikilink")、*The Scientific Study and Teaching of Languages*（言語に関する科学的な研究および教授）出版。
+  - [1917年](../Page/1917年.md "wikilink")、*A First Course of English Phonetics, Including an Explanation of the Scope of the Science of Phonetics, the Theory of Sounds, a Catalogue of English Sounds and a Number of Articulation, Pronunciation and Transcription Exercises*出版。
   - [1921年](../Page/1921年.md "wikilink")、*The Principles of Language-Study*（語学研究の法則）出版。*The Oral Method of Teaching Languages*（言語を教える口頭方法）出版。
+  - [1921年](../Page/1921年.md "wikilink")、*The Oral Method of Teaching Language*（言語教授のオーラル・メソッド）出版。
   - [1922年](../Page/1922年.md "wikilink")、*English Intonation, With Systematic Exercises*（英語の抑揚の系統的練習）出版。
+  - [1922年](../Page/1922年.md "wikilink")、*Everyday Sentences in Spoken English in Phonetic Transcription with Intonation Marks (For the Use of Foreign Students)*出版
   - [1924年](../Page/1924年.md "wikilink")、*Memorandum on Problems of English Teaching in the Light of a New Theory*（英語教授問題についての新説に照らした覚書）出版。*A Grammar of Spoken English*（口頭英語の文法）出版。
   - [1925年](../Page/1925年.md "wikilink")、*[English through Actions](https://ja.wikipedia.org/wiki/English_through_Actions "wikilink")*（動作による英語）出版。
   - [1929年](../Page/1929年.md "wikilink")、*Eigo no rokushukan (The First Six Weeks of English)*（英語の六週間）出版。

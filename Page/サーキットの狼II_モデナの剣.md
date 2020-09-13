@@ -87,18 +87,26 @@
 
 <!-- end list -->
 
-  - キャスト
+  - オールキャスト
 
 <!-- end list -->
 
   - 竹内力
   - [根津甚八](../Page/根津甚八_\(俳優\).md "wikilink")
   - [原久美子](../Page/原久美子.md "wikilink")
+  - [葉山レイコ](../Page/葉山レイコ.md "wikilink")
   - [鶴見辰吾](../Page/鶴見辰吾.md "wikilink")
   - [布川敏和](../Page/布川敏和.md "wikilink")
   - 元木慎
   - [久我陽子](../Page/久我陽子.md "wikilink")
+  - [鈴木ヒロミツ](../Page/鈴木ヒロミツ.md "wikilink")
   - [鈴木清順](../Page/鈴木清順.md "wikilink")
+  - [松永博史](../Page/松永博史.md "wikilink")
+  - [馬渕英里何](https://ja.wikipedia.org/wiki/馬渕英里何 "wikilink")
+  - [山口祥行](../Page/山口祥行.md "wikilink")
+  - [草薙良一](https://ja.wikipedia.org/wiki/草薙良一 "wikilink")
+  - セクシーメイツ（染谷正美・[星野かおり](https://ja.wikipedia.org/wiki/星野かおり "wikilink")・[斉藤りさ](../Page/斉藤りさ.md "wikilink")）
+  - [新堂有望](https://ja.wikipedia.org/wiki/新堂有望 "wikilink")
 
 <!-- end list -->
 
@@ -106,12 +114,19 @@
 
 <!-- end list -->
 
-  - 監督：南部英夫
+  - 監督：[南部英夫](https://ja.wikipedia.org/wiki/南部英夫 "wikilink")
   - 原作・監修：[池沢さとし](https://ja.wikipedia.org/wiki/池沢さとし "wikilink")
-  - 製作：鈴木正勝、田中重男、石川博
-  - 企画・構成：長澤隆之
-  - 脚本：高田純
+  - 脚本：[高田純](https://ja.wikipedia.org/wiki/高田純 "wikilink")
+  - 音楽：[岩間南平](https://ja.wikipedia.org/wiki/岩間南平 "wikilink")
   - 撮影：満井坦彦
+  - ポスプロ：[映広](../Page/映広.md "wikilink")
+  - 現像・テレシネ：[東京現像所](../Page/東京現像所.md "wikilink")
+  - 製作者：鈴木正勝、田中重男、石川博
+  - 企画・制作：長澤隆之
+  - プロデューサー：小坂一雄
+  - 製作協力：[パック・イン・ビデオ](../Page/パック・イン・ビデオ.md "wikilink")、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、[ホリプロ](../Page/ホリプロ.md "wikilink")
+  - 制作プロダクション：レオナ（現：レオナ企画）
+  - 製作：モデナの剣製作委員会
 
 ## 出典
 

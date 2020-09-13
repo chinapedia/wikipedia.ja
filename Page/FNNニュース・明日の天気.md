@@ -15,6 +15,12 @@
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")をもって終了。同年[3月30日](../Page/3月30日.md "wikilink")からはこの時間のニュースは『**[FNNレインボー発](https://ja.wikipedia.org/wiki/FNNレインボー発 "wikilink")・あすの天気**』とタイトルを改めてスタートした。
 
+## タイトルロゴ
+
+1984年から番組終了まで変わることなく表示された。　
+
+　
+
 ## 放送時間
 
 | 期間        | 月曜日       | 火曜日         | 水曜日        | 木曜日   | 金曜日 | 土曜日 | 日曜日 | 放送分 |
@@ -412,7 +418,7 @@
 
 ## 脚注
 
-[Category:FNN番組の歴史](https://ja.wikipedia.org/wiki/Category:FNN番組の歴史 "wikilink") [Category:フジテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:フジテレビのミニ番組 "wikilink") [Category:1968年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1968年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:フジテレビの一社提供番組 "wikilink") [Category:みずほフィナンシャルグループ](https://ja.wikipedia.org/wiki/Category:みずほフィナンシャルグループ "wikilink") [Category:フジパン](https://ja.wikipedia.org/wiki/Category:フジパン "wikilink")
+[Category:FNN番組の歴史](https://ja.wikipedia.org/wiki/Category:FNN番組の歴史 "wikilink") [Category:フジテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:フジテレビのミニ番組 "wikilink") [Category:1968年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1968年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:フジテレビの一社提供番組 "wikilink") [Category:みずほフィナンシャルグループ単独提供番組](https://ja.wikipedia.org/wiki/Category:みずほフィナンシャルグループ単独提供番組 "wikilink") [Category:フジパン](https://ja.wikipedia.org/wiki/Category:フジパン "wikilink")
 
 1.  [東京12チャンネル（現：テレビ東京）が夜のスポットタイムを](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")5分に拡大するのはもっと遅れて、[1974年](../Page/1974年.md "wikilink")10月に行った。
 2.  『[火曜ワイドスペシャル](../Page/火曜ワイドスペシャル.md "wikilink")』放送のため。

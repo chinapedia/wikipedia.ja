@@ -1,7 +1,7 @@
 > この記事は[CAM型光合成](https://ja.wikipedia.org/wiki/CAM型光合成)から翻訳されています。
 
 
-**CAM型光合成**(CAMがたこうごうせい)は[砂漠](../Page/砂漠.md "wikilink")などの[多肉植物](../Page/多肉植物.md "wikilink")や、同様に水分ストレスの大きな環境に生息する[着生植物](../Page/着生植物.md "wikilink")に多く見られる[光合成](https://ja.wikipedia.org/wiki/光合成 "wikilink")の一形態である。これを行なう植物を**CAM植物**と呼ぶ。この方法の特徴として、**[CO<sub>2</sub>の取り込みを夜に行い](../Page/二酸化炭素.md "wikilink")、昼に[還元](../Page/還元.md "wikilink")する**ことが挙げられる。**CAM**とはベンケイソウ型有機酸代謝のことで **C**rassulacean **A**cid **M**etabolism の頭字語である。
+**CAM型光合成**（CAMがたこうごうせい）は、[砂漠](../Page/砂漠.md "wikilink")などの[多肉植物](../Page/多肉植物.md "wikilink")や、同様に水分ストレスの大きな環境に生息する[着生植物](../Page/着生植物.md "wikilink")に多く見られる[光合成](https://ja.wikipedia.org/wiki/光合成 "wikilink")の一形態である。これを行う植物を**CAM植物**と呼ぶ。この方法の特徴として、**[CO<sub>2</sub>の取り込みを夜に行い](../Page/二酸化炭素.md "wikilink")、昼に[還元](../Page/還元.md "wikilink")する**ことが挙げられる。**CAM**とはベンケイソウ型有機酸代謝のことで **C**rassulacean **A**cid **M**etabolism の頭字語である。
 
 ## CAM経路
 
@@ -15,7 +15,7 @@ CAM植物は夜間にCO<sub>2</sub>を取り込み、それを水和させ、HCO
 
 ## このような機構になる理由
 
-CAM型光合成は[砂漠](../Page/砂漠.md "wikilink")といった水分が慢性的に不足しており、かつ昼夜の温度差が大きい環境に[適応](../Page/適応.md "wikilink")したものだと考えられる。通常の植物は昼に[気孔](../Page/気孔.md "wikilink")を開け、CO<sub>2</sub>を取り込む。ただし、このような環境下の場合、同時に大量の水分を失ってしまう。しかし、CAM植物は涼しい夜に[気孔](../Page/気孔.md "wikilink")を開け、CO<sub>2</sub>の取り込みを行い、昼は[気孔](../Page/気孔.md "wikilink")を閉じることで**水分の損失を最小限に抑える**ことができる。 [アナナス科](https://ja.wikipedia.org/wiki/アナナス科 "wikilink")、[ラン科](../Page/ラン科.md "wikilink")植物など熱帯降雨林に生息するCAM植物の場合は、[着生](https://ja.wikipedia.org/wiki/着生 "wikilink")環境で水が得にくい環境に生息すること、また夜間にCO<sub>2</sub>を吸収することは、C3植物との競合がないためCO<sub>2</sub>を吸収しやすいと言った意味も考えられる。
+CAM型光合成は[砂漠](../Page/砂漠.md "wikilink")といった水分が慢性的に不足しており、かつ昼夜の温度差が大きい環境に[適応](../Page/適応.md "wikilink")したものだと考えられる。通常の植物は昼に[気孔](../Page/気孔.md "wikilink")を開け、CO<sub>2</sub>を取り込む。ただし、このような環境下の場合、同時に大量の水分を失ってしまう。しかし、CAM植物は涼しい夜に[気孔](../Page/気孔.md "wikilink")を開け、CO<sub>2</sub>の取り込みを行い、昼は[気孔](../Page/気孔.md "wikilink")を閉じることで**水分の損失を最小限に抑える**ことができる。[アナナス科](https://ja.wikipedia.org/wiki/アナナス科 "wikilink")、[ラン科](../Page/ラン科.md "wikilink")植物など熱帯降雨林に生息するCAM植物の場合は、[着生](https://ja.wikipedia.org/wiki/着生 "wikilink")環境で水が得にくい環境に生息すること、また夜間にCO<sub>2</sub>を吸収することは、C3植物との競合がないためCO<sub>2</sub>を吸収しやすいと言った意味も考えられる。
 
 ## C4型光合成との違い
 

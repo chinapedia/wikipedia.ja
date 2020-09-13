@@ -7,11 +7,10 @@
 
 ## 主な役員
 
-  - 代表理事：[早瀬昇](../Page/早瀬昇.md "wikilink") - 社会福祉法人[大阪ボランティア協会](https://ja.wikipedia.org/wiki/大阪ボランティア協会 "wikilink")常務理事
+  - 代表理事：[萩原なつ子](https://ja.wikipedia.org/wiki/萩原なつ子 "wikilink") - [立教大学](../Page/立教大学.md "wikilink")社会学部教授
   - 副代表理事：[大島誠](https://ja.wikipedia.org/wiki/大島誠 "wikilink") - 特定非営利活動法人[くびき野NPOサポートセンター](https://ja.wikipedia.org/wiki/くびき野NPOサポートセンター "wikilink")理事
-  - 副代表理事：[萩原なつ子](https://ja.wikipedia.org/wiki/萩原なつ子 "wikilink") - [立教大学](../Page/立教大学.md "wikilink")社会学部教授
-  - 常務理事：[今田克司](https://ja.wikipedia.org/wiki/今田克司 "wikilink") - 一般財団法人[CSOネットワーク](https://ja.wikipedia.org/wiki/CSOネットワーク "wikilink")代表理事
-  - 特任理事：[田尻佳史](https://ja.wikipedia.org/wiki/田尻佳史 "wikilink") - 専任
+  - 副代表理事：山崎宏 - 特定非営利活動法人 [ホールアース研究所](https://ja.wikipedia.org/wiki/ホールアース研究所 "wikilink") 代表理事
+  - 常務理事：[田尻佳史](https://ja.wikipedia.org/wiki/田尻佳史 "wikilink") - 専任
 
 ## 外部リンク
 

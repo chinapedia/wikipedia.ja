@@ -101,7 +101,7 @@
 
   - [アビスパ福岡の選手一覧](https://ja.wikipedia.org/wiki/アビスパ福岡の選手一覧 "wikilink")
   - [ギラヴァンツ北九州の選手一覧](../Page/ギラヴァンツ北九州の選手一覧.md "wikilink")
-  - [サガン鳥栖の選手一覧](https://ja.wikipedia.org/wiki/サガン鳥栖の選手一覧 "wikilink")
+  - [サガン鳥栖の選手一覧](../Page/サガン鳥栖の選手一覧.md "wikilink")
   - [V・ファーレン長崎の選手一覧](https://ja.wikipedia.org/wiki/V・ファーレン長崎の選手一覧 "wikilink")
 
 <!-- end list -->

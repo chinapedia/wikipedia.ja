@@ -115,7 +115,7 @@
 <tr class="odd">
 <td><p>1984</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/家族の絆" title="wikilink">家族の絆</a><br />
-<em>Firstborn</em></p></td>
+<em><a href="https://ja.wikipedia.org/wiki/:en:Firstborn_(1984_film)" title="wikilink">Firstborn</a></em></p></td>
 <td><p>リー</p></td>
 <td></td>
 <td></td>
@@ -130,7 +130,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ハイスクール・ファイター" title="wikilink">ハイスクール・ファイター</a><br />
-<em>Tuff Turf</em></p></td>
+<em><a href="https://ja.wikipedia.org/wiki/:en:Tuff_Turf" title="wikilink">Tuff Turf</a></em></p></td>
 <td><p>ジミー・パーカー</p></td>
 <td></td>
 <td></td>
@@ -139,7 +139,7 @@
 <tr class="even">
 <td><p>1986</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バック・トゥ・スクール" title="wikilink">バック・トゥ・スクール</a><br />
-<em>Back to School</em></p></td>
+<em><a href="https://ja.wikipedia.org/wiki/:en:Back_to_School" title="wikilink">Back to School</a></em></p></td>
 <td><p>デレク</p></td>
 <td></td>
 <td><p><a href="../Page/塩沢兼人.md" title="wikilink">塩沢兼人</a>（テレビ朝日版）</p></td>
@@ -147,7 +147,7 @@
 <tr class="odd">
 <td><p>1987</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ピックアップ・アーチスト" title="wikilink">ピックアップ・アーチスト</a><br />
-<em>The Pick-up Artist</em></p></td>
+<em><a href="https://ja.wikipedia.org/wiki/:en:The_Pick-up_Artist_(film)" title="wikilink">The Pick-up Artist</a></em></p></td>
 <td><p>ジャック</p></td>
 <td><p>初主演作</p></td>
 <td></td>
@@ -170,7 +170,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ハリウッド行進曲/私をスタジオに連れてって" title="wikilink">ハリウッド行進曲/私をスタジオに連れてって</a><br />
-<em>Rented Lips</em></p></td>
+<em><a href="https://ja.wikipedia.org/wiki/:en:Rented_Lips" title="wikilink">Rented Lips</a></em></p></td>
 <td><p>Wolf Dangler</p></td>
 <td><p>ロバート・ダウニー・Sr.監督作品</p></td>
 <td></td>
@@ -203,7 +203,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/トゥルー・ビリーヴァー/はぐれ弁護士の執念" title="wikilink">トゥルー・ビリーヴァー/はぐれ弁護士の執念</a><br />
-<em>True Believer</em></p></td>
+<em><a href="https://ja.wikipedia.org/wiki/:en:True_Believer_(1989_film)" title="wikilink">True Believer</a></em></p></td>
 <td><p>ロジャー</p></td>
 <td></td>
 <td></td>
@@ -221,7 +221,7 @@
 <tr class="even">
 <td><p>1991</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ストレンジ・ピープル" title="wikilink">ストレンジ・ピープル</a><br />
-<em>Too Much Sun</em></p></td>
+<em><a href="https://ja.wikipedia.org/wiki/:en:Too_Much_Sun" title="wikilink">Too Much Sun</a></em></p></td>
 <td><p>リード</p></td>
 <td><p>ロバート・ダウニー・Sr.監督作品</p></td>
 <td></td>
@@ -264,7 +264,7 @@
 <tr class="odd">
 <td><p>1994</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ワイルドボーイズ" title="wikilink">ワイルドボーイズ</a><br />
-<em>Hail Caesar</em></p></td>
+<em><a href="https://ja.wikipedia.org/wiki/:en:Hail_Caesar_(1994_film)" title="wikilink">Hail Caesar</a></em></p></td>
 <td><p>ジェリー</p></td>
 <td></td>
 <td></td>
@@ -335,7 +335,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ヒューゴ・プール" title="wikilink">ヒューゴ・プール</a><br />
-<em>Hugo Pool</em></p></td>
+<em><a href="https://ja.wikipedia.org/wiki/:en:Hugo_Pool" title="wikilink">Hugo Pool</a></em></p></td>
 <td><p>フランツ</p></td>
 <td><p>ロバート・ダウニー・Sr.監督作品</p></td>
 <td><p><em>TBA</em></p></td>
@@ -387,7 +387,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ブラック_AND_ホワイト" title="wikilink">ブラック AND ホワイト</a><br />
-<em>Black and White</em></p></td>
+<em><a href="https://ja.wikipedia.org/wiki/:en:Black_and_White_(1999_drama_film)" title="wikilink">Black and White</a></em></p></td>
 <td><p>テリー</p></td>
 <td></td>
 <td></td>
@@ -407,7 +407,7 @@
 <em>The Singing Detective</em></p></td>
 <td><p>ダン・ダーク</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サテライト賞" title="wikilink">サテライト賞</a>主演男優賞（ミュージカル・コメディ部門）ノミネート</p></td>
-<td></td>
+<td><p>（吹き替え版なし）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/ゴシカ.md" title="wikilink">ゴシカ</a><br />
@@ -431,7 +431,7 @@
 <em>Game 6</em></p></td>
 <td><p>スティーブン・シュウィマー</p></td>
 <td></td>
-<td></td>
+<td><p>（吹き替え版なし）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/キスキス,バンバン" title="wikilink">キスキス,バンバン</a><br />
@@ -464,7 +464,7 @@
 <em>A Guide to Recognizing Your Saints</em></p></td>
 <td><p>ディート・モンティエル</p></td>
 <td><p>共同プロデュース作品</p></td>
-<td></td>
+<td><p>（吹き替え版なし）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -477,7 +477,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/毛皮のエロス/ダイアン・アーバス_幻想のポートレイト" title="wikilink">毛皮のエロス/ダイアン・アーバス 幻想のポートレイト</a><br />
-<em>Fur: An Imaginary Portrait of Diane Arbus</em></p></td>
+<em><a href="https://ja.wikipedia.org/wiki/:en:Fur_(film)" title="wikilink">Fur: An Imaginary Portrait of Diane Arbus</a></em></p></td>
 <td><p>ライオネル</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山賀教弘" title="wikilink">山賀教弘</a></p></td>
@@ -496,7 +496,7 @@
 <em>Lucky You</em></p></td>
 <td><p>テレフォン・ジャック</p></td>
 <td><p>カメオ出演</p></td>
-<td><p><em>TBA</em></p></td>
+<td><p><a href="../Page/古澤徹.md" title="wikilink">古澤徹</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -676,7 +676,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>All-Star Weekend</p></td>
+<td><p><em>All-Star Weekend</em></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -684,22 +684,15 @@
 </tr>
 <tr class="odd">
 <td><p>2021</p></td>
-<td><p>Sherlock Holmes 3</p></td>
+<td><p><em>Sherlock Holmes 3</em></p></td>
 <td><p>シャーロック・ホームズ</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>TBA</p></td>
-<td><p>Untitled John Brinkley Biopic</p></td>
+<td><p><em>Untitled John Brinkley Biopic</em></p></td>
 <td><p>Dr. John Brinkley</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -711,7 +704,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p>公開年</p></th>
+<th><p>放映年</p></th>
 <th><p>邦題<br />
 原題</p></th>
 <th><p>役名</p></th>
@@ -721,7 +714,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>1985–1986</p></td>
+<td><p>1985-1986</p></td>
 <td><p><a href="../Page/サタデー・ナイト・ライブ.md" title="wikilink">サタデー・ナイト・ライブ</a><br />
 <em>Saturday Night Live</em></p></td>
 <td><p>本人</p></td>
@@ -741,26 +734,29 @@
 <td><p><a href="../Page/アリー_my_Love.md" title="wikilink">アリー my Love</a><br />
 <em>Ally McBeal</em></p></td>
 <td><p>ラリー・ポール</p></td>
-<td><p><a href="../Page/ゴールデングローブ賞.md" title="wikilink">ゴールデングローブ賞</a> 助演男優賞（ミニシリーズ/テレビ映画部門）受賞<br />
+<td><p>計21話出演<br />
+<a href="../Page/ゴールデングローブ賞.md" title="wikilink">ゴールデングローブ賞</a> 助演男優賞（ミニシリーズ/テレビ映画部門）受賞<br />
 <a href="../Page/全米映画俳優組合賞.md" title="wikilink">全米映画俳優組合賞</a> 主演男優賞（コメディ部門）受賞<br />
 <a href="../Page/エミー賞.md" title="wikilink">エミー賞</a> 助演男優賞（コメディ部門） ノミネート</p></td>
 <td><p>郷田ほづみ</p></td>
 </tr>
 <tr class="even">
+<td><p>2005</p></td>
+<td><p><a href="../Page/ファミリー・ガイ.md" title="wikilink">ファミリー・ガイ</a><br />
+<em>Family Guy</em></p></td>
+<td><p>パトリック・ピーターシュミット</p></td>
+<td><p>声の出演<br />
+第4シーズン第17話「<em>The Fat Guy Strangler</em>」</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>2019</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ザ・シェフ・ショー_-だから料理は楽しい!-" title="wikilink">ザ・シェフ・ショー -だから料理は楽しい!-</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/ザ・シェフ・ショー_-だから料理は楽しい!-" title="wikilink">ザ・シェフ・ショー 〜だから料理は楽しい!〜</a><br />
 <em>The Chef Show</em></p></td>
 <td><p>本人</p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a>オリジナル作品<br />
-1話出演</p></td>
+第1シーズン第2話「アベンジャーズとアトランタ」</p></td>
 <td><p>藤原啓治</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -775,7 +771,9 @@
 
 ## 日本語吹き替え
 
-『[アイアンマン](https://ja.wikipedia.org/wiki/アイアンマン_\(映画\) "wikilink")』（劇場公開版）以後、大半の作品を[藤原啓治](../Page/藤原啓治.md "wikilink")が担当していた（同シリーズの第1作、[第2作の](https://ja.wikipedia.org/wiki/アイアンマン2 "wikilink")[日曜洋画劇場](../Page/日曜洋画劇場.md "wikilink")版に限っては、[池田秀一](../Page/池田秀一.md "wikilink")が担当）。その他、[郷田ほづみ](../Page/郷田ほづみ.md "wikilink")、[桐本拓哉](../Page/桐本拓哉.md "wikilink")、[大塚芳忠](../Page/大塚芳忠.md "wikilink")、[山寺宏一](https://ja.wikipedia.org/wiki/山寺宏一 "wikilink")、[平田広明](../Page/平田広明.md "wikilink")等が複数の作品で声を当てている。
+『[アイアンマン](https://ja.wikipedia.org/wiki/アイアンマン_\(映画\) "wikilink")』（劇場公開版）以後、大半の作品を[藤原啓治](../Page/藤原啓治.md "wikilink")が担当していた（同シリーズの第1作、[第2作の](https://ja.wikipedia.org/wiki/アイアンマン2 "wikilink")[日曜洋画劇場](../Page/日曜洋画劇場.md "wikilink")版に限っては[池田秀一](../Page/池田秀一.md "wikilink")が担当）。
+
+その他、[郷田ほづみ](../Page/郷田ほづみ.md "wikilink")、[桐本拓哉](../Page/桐本拓哉.md "wikilink")、[大塚芳忠](../Page/大塚芳忠.md "wikilink")、[山寺宏一](https://ja.wikipedia.org/wiki/山寺宏一 "wikilink")、[平田広明](../Page/平田広明.md "wikilink")等が複数の作品で声を当てている。
 
 ## 参考文献
 

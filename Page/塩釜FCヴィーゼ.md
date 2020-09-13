@@ -237,7 +237,7 @@
 |                                                                       |                                                                 |        |    |    |   |    |    |    |      |                                                         |                                                       |
 | --------------------------------------------------------------------- | --------------------------------------------------------------- | ------ | -- | -- | - | -- | -- | -- | ---- | ------------------------------------------------------- | ----------------------------------------------------- |
 | 年度                                                                    | 所属                                                              | 順位     | 勝点 | 試合 | 勝 | 分  | 敗  | 得点 | 失点   | 差                                                       | 監督                                                    |
-| [2004](https://ja.wikipedia.org/wiki/2004年の地域リーグ_\(サッカー\) "wikilink") | [東北リーグ](../Page/東北社会人サッカーリーグ.md "wikilink")1部                   | 2位     | 26 | 14 | 8 | 2  | 4  | 37 | 28   | 9                                                       | [野地芳生](https://ja.wikipedia.org/wiki/野地芳生 "wikilink") |
+| [2004](https://ja.wikipedia.org/wiki/2004年の地域リーグ_\(サッカー\) "wikilink") | [東北](../Page/東北社会人サッカーリーグ.md "wikilink")1部                      | 2位     | 26 | 14 | 8 | 2  | 4  | 37 | 28   | 9                                                       | [野地芳生](https://ja.wikipedia.org/wiki/野地芳生 "wikilink") |
 | [2005](https://ja.wikipedia.org/wiki/2005年の地域リーグ_\(サッカー\) "wikilink") | 4位                                                              | 14     | 12 | 3  | 5 | 4  | 22 | 18 | 4    | [小野寺陽人](https://ja.wikipedia.org/wiki/小野寺陽人 "wikilink") |                                                       |
 | [2006](https://ja.wikipedia.org/wiki/2006年の地域リーグ_\(サッカー\) "wikilink") | 6位                                                              | 12     | 14 | 3  | 8 | 3  | 20 | 25 | \-5  |                                                         |                                                       |
 | [2007](https://ja.wikipedia.org/wiki/2007年の地域リーグ_\(サッカー\) "wikilink") | 4位                                                              | 18     | 14 | 5  | 3 | 6  | 18 | 21 | \-3  |                                                         |                                                       |
@@ -252,6 +252,7 @@
 | 2016                                                                  | 7位                                                              | 16     | 14 | 4  | 4 | 6  | 24 | 36 | \-12 |                                                         |                                                       |
 | 2017                                                                  | [宮城県](https://ja.wikipedia.org/wiki/宮城県社会人サッカーリーグ "wikilink")2部 | **優勝** | 28 | 12 | 9 | 1  | 2  | 35 | 13   | 22                                                      |                                                       |
 | 2018                                                                  | [宮城県](https://ja.wikipedia.org/wiki/宮城県社会人サッカーリーグ "wikilink")1部 | 7位     | 14 | 14 | 4 | 8  | 2  | 22 | 28   | \-6                                                     |                                                       |
+| 2019                                                                  | [宮城県](https://ja.wikipedia.org/wiki/宮城県社会人サッカーリーグ "wikilink")2部 | 2位     | 30 | 14 | 9 | 3  | 2  | 39 | 22   | 17                                                      |                                                       |
 
 ## ユニフォーム
 
@@ -300,7 +301,7 @@
 
   -
   -
-[Category:宮城県のサッカークラブ](https://ja.wikipedia.org/wiki/Category:宮城県のサッカークラブ "wikilink") [Category:宮城県の一般社団法人](https://ja.wikipedia.org/wiki/Category:宮城県の一般社団法人 "wikilink") [Category:一般社団法人_(スポーツ関係)](https://ja.wikipedia.org/wiki/Category:一般社団法人_\(スポーツ関係\) "wikilink") [Category:塩竈市](https://ja.wikipedia.org/wiki/Category:塩竈市 "wikilink")
+[Category:宮城県のサッカークラブ](https://ja.wikipedia.org/wiki/Category:宮城県のサッカークラブ "wikilink") [Category:宮城県の一般社団法人](https://ja.wikipedia.org/wiki/Category:宮城県の一般社団法人 "wikilink") [Category:一般社団法人_(サッカー関係)](https://ja.wikipedia.org/wiki/Category:一般社団法人_\(サッカー関係\) "wikilink") [Category:塩竈市](https://ja.wikipedia.org/wiki/Category:塩竈市 "wikilink")
 
 1.
 2.

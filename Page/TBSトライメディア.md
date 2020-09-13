@@ -28,7 +28,7 @@
 ## 外部リンク
 
   - [（株）TBSトライメディア](http://www.tbs-tm.com/)
-  - [星の王子さまミュージアム](http://www.tbs.co.jp/l-prince/)
+  - [星の王子さまミュージアム](https://www.tbs.co.jp/l-prince/)
 
 [Category:TBSの歴史](https://ja.wikipedia.org/wiki/Category:TBSの歴史 "wikilink") [Category:かつて存在した日本のテレビプロダクション](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のテレビプロダクション "wikilink") [Category:ウェブ制作会社](https://ja.wikipedia.org/wiki/Category:ウェブ制作会社 "wikilink") [Category:かつて存在した東京都の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した東京都の企業 "wikilink") [Category:2005年設立の企業](https://ja.wikipedia.org/wiki/Category:2005年設立の企業 "wikilink") [Category:2019年廃止の企業](https://ja.wikipedia.org/wiki/Category:2019年廃止の企業 "wikilink") [Category:セブン-イレブン](https://ja.wikipedia.org/wiki/Category:セブン-イレブン "wikilink")
 

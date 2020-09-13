@@ -129,6 +129,8 @@
       -
         ※[マルス端末は](../Page/マルス_\(システム\).md "wikilink")[鉄道情報システム](../Page/鉄道情報システム.md "wikilink")、[ビューカード](../Page/ビューカード.md "wikilink")の基幹システム・[ビューアルッテ](../Page/ビューアルッテ.md "wikilink")関係は[JR東日本情報システム](https://ja.wikipedia.org/wiki/JR東日本情報システム "wikilink")によるもので、JREMの製品には含まれない。
 
+JR East Kamoi sta. Turnstile 2013-12.jpg|EG20型改札機（ICカード専用） Ja JR Ikebukuro Sta. (North entrance).jpg|EG2型改札機（中央はICカード専用） Train ticket machine internals.jpg|EG2型改札機の内部 Akihabara new JR ticket machines - nov 24 2016.jpg|自動券売機 Farebox Chugoku JR Bus.jpg|JREM製IC処理部を持つ[レシップ](../Page/レシップ.md "wikilink")製カードリーダーを設置した[小田原機器](../Page/小田原機器.md "wikilink")製運賃箱
+
 ## 関連項目
 
   - [システムインテグレーター](../Page/システムインテグレーター.md "wikilink") - [ユーザー系](../Page/ユーザー系.md "wikilink")

@@ -42,7 +42,7 @@
 
 ### 韓国
 
-韓国ではかつてMBN CNBC（[毎日経済新聞](https://ja.wikipedia.org/wiki/毎日経済新聞 "wikilink")との提携）として放送していたが、2005年に提携を解消した。現在は[SBS CNBCにより放送されている](https://ja.wikipedia.org/wiki/:ko:SBS_CNBC "wikilink")。
+韓国ではかつてMBN CNBC（[毎日経済新聞](https://ja.wikipedia.org/wiki/毎日経済新聞 "wikilink")との提携）として放送していたが、2005年に提携を解消した。現在はにより放送されている。
 
 ### その他
 

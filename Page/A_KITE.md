@@ -235,17 +235,17 @@
 1.
 2.
 3.  [「MEZZO」DVD化に梅津泰臣監督が記者会見](http://av.watch.impress.co.jp/docs/20040416/happi.htm)
-4.  [『KITE』ハリウッドで実写化決定！](http://web.archive.org/web/20090609212346/http://www.accessa.co.jp/produce/kite.html)
+4.  [『KITE』ハリウッドで実写化決定！](https://web.archive.org/web/20090609212346/http://www.accessa.co.jp/produce/kite.html)
 5.
 6.
 7.
-8.  [グリーンバニー公式サイトの『A KITE VOL.1』紹介ページのインターネットアーカイブ2006年7月15日分キャッシュ](http://web.archive.org/web/20060715124727/http://www.green-bunny.com/catalog/kite/kite1.html)
-9.  [グリーンバニー公式サイトの『A KITE VOL.2』紹介ページのインターネットアーカイブ2006年7月15日分キャッシュ](http://web.archive.org/web/20060715124739/http://www.green-bunny.com/catalog/kite/kite2.html)
-10. [グリーンバニー公式サイトの『A KITE INTERNATIONAL VERSION』紹介ページのインターネットアーカイブ2006年6月23日分キャッシュ](http://web.archive.org/web/20060623153416/http://www.green-bunny.com/catalog/kite/kiteinter.html)
+8.  [グリーンバニー公式サイトの『A KITE VOL.1』紹介ページのインターネットアーカイブ2006年7月15日分キャッシュ](https://web.archive.org/web/20060715124727/http://www.green-bunny.com/catalog/kite/kite1.html)
+9.  [グリーンバニー公式サイトの『A KITE VOL.2』紹介ページのインターネットアーカイブ2006年7月15日分キャッシュ](https://web.archive.org/web/20060715124739/http://www.green-bunny.com/catalog/kite/kite2.html)
+10. [グリーンバニー公式サイトの『A KITE INTERNATIONAL VERSION』紹介ページのインターネットアーカイブ2006年6月23日分キャッシュ](https://web.archive.org/web/20060623153416/http://www.green-bunny.com/catalog/kite/kiteinter.html)
 11. [Getchu.com公式サイトの『A KITE PREMIUM COLLECTORS VERSION』紹介ページ](http://www.getchu.com/soft.phtml?id=462445)
 12. [原作アニメ「A KITE」　Blu-ray\&DVD 再リリース決定！ 「A KITE/カイト...](https://web.archive.org/web/20150317005636/https://kite-movie.tumblr.com/post/112036428462/a-kite-blu-ray-dvd-a-kite)
-13. [『KITE LIBERATOR』公式サイトのコラム・第20回（インターネットアーカイブ2010年9月1日分キャッシュ）](http://web.archive.org/web/20100901162401/http://www.kite-liberator.com/column/column_20.html)
-14. [『KITE LIBERATOR』公式サイトのコラム・第24回（インターネットアーカイブ2010年8月7日分キャッシュ）](http://web.archive.org/web/20100807232615/http://www.kite-liberator.com/column/column_24.html)
+13. [『KITE LIBERATOR』公式サイトのコラム・第20回（インターネットアーカイブ2010年9月1日分キャッシュ）](https://web.archive.org/web/20100901162401/http://www.kite-liberator.com/column/column_20.html)
+14. [『KITE LIBERATOR』公式サイトのコラム・第24回（インターネットアーカイブ2010年8月7日分キャッシュ）](https://web.archive.org/web/20100807232615/http://www.kite-liberator.com/column/column_24.html)
 15. [日本の18禁アニメ「カイト」がハリウッドで実写化！『ファイナル・デスティネーション』シリーズの監督がメガホンを取る！ - シネマトゥデイ](http://www.cinematoday.jp/page/N0035110)
 16. [日本の18禁アニメ実写化、サミュエル・L・ジャクソンが出演！ - シネマトゥデイ](http://www.cinematoday.jp/page/N0048759)
 17. [『スネークフライト』デヴィッド・R・エリス監督死去　享年60歳　日本アニメ実写化を企画中だった… - シネマトゥデイ](http://www.cinematoday.jp/page/N0049162)

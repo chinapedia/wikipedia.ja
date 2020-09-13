@@ -30,4 +30,4 @@
   - [多摩美術大学教員業績公開システム](http://faculty.tamabi.ac.jp/html/ja/100000349.html)
   - [luther_ichimura-Twitter](https://twitter.com/luther_ichimura)
 
-[Category:日本の歌手](https://ja.wikipedia.org/wiki/Category:日本の歌手 "wikilink") [Category:1960年生](https://ja.wikipedia.org/wiki/Category:1960年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の男性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ポップ歌手 "wikilink") [Category:1960年生](https://ja.wikipedia.org/wiki/Category:1960年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

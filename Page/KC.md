@@ -32,6 +32,7 @@
 
   - 日本の音楽プロデューサー、[松尾潔](https://ja.wikipedia.org/wiki/松尾潔 "wikilink")（Kiyoshi "KC" Matsuo）の通称および活動名義。
   - [KC&ザ・サンシャイン・バンド](https://ja.wikipedia.org/wiki/KC&ザ・サンシャイン・バンド "wikilink")（[KC and the Sunshine Band](https://ja.wikipedia.org/wiki/:en:KC_and_the_Sunshine_Band "wikilink")） - [アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ディスコ](../Page/ディスコ.md "wikilink")バンド
+  - [イングランド](../Page/イングランド.md "wikilink")の[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")・バンド、[キング・クリムゾン](../Page/キング・クリムゾン.md "wikilink")の略名。
 
 企業・団体
 

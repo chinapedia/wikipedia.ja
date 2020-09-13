@@ -17,11 +17,11 @@
 
 19:00～21:00
 
-  - [STVラジオ](../Page/STVラジオ.md "wikilink")（当時は[札幌テレビが運営](../Page/札幌テレビ放送.md "wikilink")）、[茨城放送](../Page/茨城放送.md "wikilink")、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")、[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、[西日本放送](../Page/西日本放送.md "wikilink")、[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")、[ラジオ沖縄](https://ja.wikipedia.org/wiki/ラジオ沖縄 "wikilink")
+  - [STVラジオ](../Page/STVラジオ.md "wikilink")（当時は[札幌テレビが運営](../Page/札幌テレビ放送.md "wikilink")）、[茨城放送](../Page/茨城放送.md "wikilink")、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")、[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、[西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")、[九州朝日放送](../Page/KBCラジオ.md "wikilink")、[ラジオ沖縄](https://ja.wikipedia.org/wiki/ラジオ沖縄 "wikilink")
 
 19:00～20:00
 
-  - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")、[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")、[東北放送](../Page/東北放送.md "wikilink")、[秋田放送](../Page/秋田放送.md "wikilink")、[山形放送](../Page/山形放送.md "wikilink")、[ラジオ福島](../Page/ラジオ福島.md "wikilink")、[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")、[信越放送](../Page/信越放送.md "wikilink")、[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")、[北日本放送](../Page/北日本放送.md "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、[福井放送](../Page/福井放送.md "wikilink")、、[和歌山放送](../Page/和歌山放送.md "wikilink")、[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")、[山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")、[中国放送](../Page/中国放送.md "wikilink")、[山口放送](../Page/山口放送.md "wikilink")、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")、[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")、[長崎放送](../Page/長崎放送.md "wikilink")、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")、[大分放送](../Page/大分放送.md "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
+  - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")、[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")、[東北放送](../Page/東北放送.md "wikilink")、[秋田放送](../Page/秋田放送.md "wikilink")、[山形放送](../Page/山形放送.md "wikilink")、[ラジオ福島](../Page/ラジオ福島.md "wikilink")、[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")、[信越放送](../Page/信越放送.md "wikilink")、[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")、[北日本放送](../Page/北日本放送.md "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、[福井放送](../Page/福井放送.md "wikilink")、、[和歌山放送](../Page/和歌山放送.md "wikilink")、[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")、[山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")、[中国放送](../Page/中国放送.md "wikilink")、[山口放送](../Page/山口放送.md "wikilink")、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")、[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")、[長崎放送](../Page/長崎放送.md "wikilink")、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")、[大分放送](../Page/大分放送.md "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
 
 <!-- end list -->
 
@@ -29,6 +29,6 @@
 
 <!-- end list -->
 
-  - [毎日放送](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")（金曜日のみ18:00-20:00に「[桂坊枝の駅前生出し大放送](https://ja.wikipedia.org/wiki/桂坊枝の駅前生出し大放送 "wikilink")」を放送、ただし19時台のCMのみネット。それ以外の曜日は20:00飛び降りでネット受けしていた）、[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")（19:00～19:30は[ミュージック・イン・ハイフォニック (リメイク版)](../Page/ミュージック・イン・ハイフォニック_\(リメイク版\).md "wikilink")、19:30～はローカル番組）
+  - [毎日放送](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")（金曜日のみ18:00-20:00に「[桂坊枝の駅前生出し大放送](https://ja.wikipedia.org/wiki/桂坊枝の駅前生出し大放送 "wikilink")」を放送、ただし19時台のCMのみネット。それ以外の曜日は20:00飛び降りでネット受けしていた）、[四国放送](../Page/四国放送.md "wikilink")（19:00～19:30は[ミュージック・イン・ハイフォニック (リメイク版)](../Page/ミュージック・イン・ハイフォニック_\(リメイク版\).md "wikilink")、19:30～はローカル番組）
 
-[Category:2000年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のラジオ番組_\(日本\) "wikilink") [Category:ニッポン放送の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:ニッポン放送の帯番組の歴史 "wikilink") [Category:ニッポン放送の音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:ニッポン放送の音楽番組の歴史 "wikilink") [Category:吉田拓郎](https://ja.wikipedia.org/wiki/Category:吉田拓郎 "wikilink")
+[Category:2000年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のラジオ番組_\(日本\) "wikilink") [Category:ニッポン放送の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:ニッポン放送の帯番組の歴史 "wikilink") [Category:ニッポン放送の音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:ニッポン放送の音楽番組の歴史 "wikilink") [Category:松山千春](https://ja.wikipedia.org/wiki/Category:松山千春 "wikilink") [Category:吉田拓郎](https://ja.wikipedia.org/wiki/Category:吉田拓郎 "wikilink")

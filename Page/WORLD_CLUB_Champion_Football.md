@@ -1,7 +1,7 @@
 > この記事は[WORLD CLUB Champion Football](https://ja.wikipedia.org/wiki/WORLD_CLUB_Champion_Football)から翻訳されています。
 
 
-『**WORLD CLUB Champion Football**』（ワールド クラブ チャンピオン フットボール）は[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")が発売した[トレーディングカードアーケードゲーム](../Page/トレーディングカードアーケードゲーム.md "wikilink")。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")リーグを題材にした[ゲーム](../Page/ゲーム.md "wikilink")である。公式サイトによるとジャンルはスポーツカードゲームとされている。略称**WCCF**。
+『**WORLD CLUB Champion Football**』（ワールド クラブ チャンピオン フットボール）は[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")（2015年4月から2020年3月までは[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）が発売した[トレーディングカードアーケードゲーム](../Page/トレーディングカードアーケードゲーム.md "wikilink")。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")リーグを題材にした[ゲーム](../Page/ゲーム.md "wikilink")である。公式サイトによるとジャンルはスポーツカードゲームとされている。略称**WCCF**。
 
 ## 概説
 
@@ -18,7 +18,7 @@
 
 なお、基本プレイ料金は1クレジット（1試合）200円、3クレジット500円。他のアーケードゲーム同様、稼動期間が長くなるとクレジットサービス等を行い事実上の値下げを行う店舗も多い。カードは1試合（1クレジット）終了後に1枚払い出される\[3\]。また、現在は1クレジット終了後にクレジットを消化して最大2枚追加の払い出しができる。
 
-2004-2005バージョン以前のシリーズに関しては2017年3月31日を以って修理サポートが終了した\[4\]。2008年以降に発売された8Pメイン筐体並びに4Pメイン筐体のメインDLPプロジェクターは、8Pメイン筐体が[三菱電機](../Page/三菱電機.md "wikilink")製と[東芝](../Page/東芝.md "wikilink")製の2種があり、4Pメイン筐体は三菱電機製のみを採用している。8Pメイン筐体用メインDLPプロジェクターの修理サポートは、三菱電機製が2016年9月30日を以って、東芝製が同年12月31日を以ってそれぞれサポートを終了した他、4Pメイン筐体用メインDLPプロジェクターの修理サポートも2018年4月30日を以って終了（対象外の筐体もある）。サポート終了後は代替品としてMINIメインキャビネットを用意するとしている\[5\]。
+2004-2005バージョン以前のシリーズに関しては2017年3月31日を以って修理サポートが終了した他\[4\]、2006-2007バージョン～2017-2018バージョンの修理サポートも、2021年2月26日を以って修理サポートが終了する予定\[5\]。2008年以降に発売された8Pメイン筐体並びに4Pメイン筐体のメインDLPプロジェクターは、8Pメイン筐体が[三菱電機](../Page/三菱電機.md "wikilink")製と[東芝](../Page/東芝.md "wikilink")製の2種があり、4Pメイン筐体は三菱電機製のみを採用している。8Pメイン筐体用メインDLPプロジェクターの修理サポートは、三菱電機製が2016年9月30日を以って、東芝製が同年12月31日を以ってそれぞれサポートを終了した他、4Pメイン筐体用メインDLPプロジェクターの修理サポートも2018年4月30日を以って終了（対象外の筐体もある）。サポート終了後は代替品としてMINIメインキャビネットを用意するとしている\[6\]。
 
 ## ゲームシステム
 
@@ -43,7 +43,7 @@
 
 なお、特定のエリアに特定のポジションの選手を配置しなければならないということはなく、ディフェンスエリアにフォワードの選手を配置することも、その逆も可能であり、フィールドプレイヤー全員がゴールキーパーという配置も可能である。
 
-また、実際のサッカーでは有り得ないようなフォーメーションを組むことも可能である。一例として、ネットワーク対戦が可能になった2004-2005バージョンと2005-2006バージョンでは、ディフェンスエリアにディフェンダーを3人ずつ2列、計6人配置して守りを固める「6バック\[6\]」が大流行し、ネットワーク大会では6-1-3や7-1-2といったフォーメーションばかりが見られた。2006-2007バージョン以降では、このようなフォーメーションを組むと一種のペナルティとしてチームの士気が大幅に下がるようになった。
+また、実際のサッカーでは有り得ないようなフォーメーションを組むことも可能である。一例として、ネットワーク対戦が可能になった2004-2005バージョンと2005-2006バージョンでは、ディフェンスエリアにディフェンダーを3人ずつ2列、計6人配置して守りを固める「6バック\[7\]」が大流行し、ネットワーク大会では6-1-3や7-1-2といったフォーメーションばかりが見られた。2006-2007バージョン以降では、このようなフォーメーションを組むと一種のペナルティとしてチームの士気が大幅に下がるようになった。
 
 ### キープレイヤーシステム
 
@@ -361,7 +361,7 @@ H&Ａトーナメント制・5試合。
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [オリンピック・リヨン](https://ja.wikipedia.org/wiki/オリンピック・リヨン "wikilink")
+  - [オリンピック・リヨン](../Page/オリンピック・リヨン.md "wikilink")
   - [オリンピック・マルセイユ](../Page/オリンピック・マルセイユ.md "wikilink")
   - [パリ・サンジェルマン](https://ja.wikipedia.org/wiki/パリ・サンジェルマン "wikilink")
   - [バイエルン・ミュンヘン](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")
@@ -393,7 +393,7 @@ H&Ａトーナメント制・5試合。
   - [リヴァプール](../Page/リヴァプールFC.md "wikilink")
   - [FCジロンダン・ボルドー](../Page/FCジロンダン・ボルドー.md "wikilink")
   - [リールOSC](https://ja.wikipedia.org/wiki/リールOSC "wikilink")
-  - [オリンピック・リヨン](https://ja.wikipedia.org/wiki/オリンピック・リヨン "wikilink")
+  - [オリンピック・リヨン](../Page/オリンピック・リヨン.md "wikilink")
 
 </div>
 
@@ -451,7 +451,7 @@ H&Ａトーナメント制・5試合。
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [オリンピック・リヨン](https://ja.wikipedia.org/wiki/オリンピック・リヨン "wikilink")
+  - [オリンピック・リヨン](../Page/オリンピック・リヨン.md "wikilink")
   - [バイエルン・ミュンヘン](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")
   - [アヤックス](../Page/アヤックス・アムステルダム.md "wikilink")
   - [フェイエノールト](../Page/フェイエノールト.md "wikilink")
@@ -503,7 +503,7 @@ H&Ａトーナメント制・5試合。
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [オリンピック・リヨン](https://ja.wikipedia.org/wiki/オリンピック・リヨン "wikilink")
+  - [オリンピック・リヨン](../Page/オリンピック・リヨン.md "wikilink")
   - [バイエルン・ミュンヘン](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")
   - [アヤックス](../Page/アヤックス・アムステルダム.md "wikilink")
   - [フェイエノールト](../Page/フェイエノールト.md "wikilink")
@@ -552,7 +552,7 @@ H&Ａトーナメント制・5試合。
   - [マンチェスター・ユナイテッド](../Page/マンチェスター・ユナイテッドFC.md "wikilink")
   - [リヴァプール](../Page/リヴァプールFC.md "wikilink")
   - [FCジロンダン・ボルドー](../Page/FCジロンダン・ボルドー.md "wikilink")
-  - [オリンピック・リヨン](https://ja.wikipedia.org/wiki/オリンピック・リヨン "wikilink")
+  - [オリンピック・リヨン](../Page/オリンピック・リヨン.md "wikilink")
 
 </div>
 
@@ -617,7 +617,7 @@ H&Ａトーナメント制・5試合。
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [オリンピック・マルセイユ](../Page/オリンピック・マルセイユ.md "wikilink")
-  - [オリンピック・リヨン](https://ja.wikipedia.org/wiki/オリンピック・リヨン "wikilink")
+  - [オリンピック・リヨン](../Page/オリンピック・リヨン.md "wikilink")
   - [バイエルン・ミュンヘン](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")
   - [ボルシア・ドルトムント](../Page/ボルシア・ドルトムント.md "wikilink")
   - [アヤックス・アムステルダム](../Page/アヤックス・アムステルダム.md "wikilink")
@@ -996,7 +996,7 @@ H&Ａトーナメント制・5試合。
   - 総合監督ランキングを導入。
   - レアアイテムが購入できる「WCCF SELECTED STORE」を導入。
   - [スポルディングCPが新たに追加された](../Page/スポルティング・クルーベ・デ・ポルトゥガル.md "wikilink")。
-  - 2018年10月25日より、「Aime」や[バンダイナムコアミューズメント](../Page/バンダイナムコアミューズメント.md "wikilink")の「バナパスポート」の他にも、[コナミアミューズメント](../Page/コナミアミューズメント.md "wikilink")の「[e-AMUSEMENT PASS](https://ja.wikipedia.org/wiki/e-AMUSEMENT_PASS "wikilink")」（[Amusement IC対応カードのみ](https://ja.wikipedia.org/wiki/Amusement_IC "wikilink")）にも対応\[7\]\[8\]\[9\]。
+  - 2018年10月25日より、「Aime」や[バンダイナムコアミューズメント](../Page/バンダイナムコアミューズメント.md "wikilink")の「バナパスポート」の他にも、[コナミアミューズメント](../Page/コナミアミューズメント.md "wikilink")の「[e-AMUSEMENT PASS](https://ja.wikipedia.org/wiki/e-AMUSEMENT_PASS "wikilink")」（[Amusement IC対応カードのみ](https://ja.wikipedia.org/wiki/Amusement_IC "wikilink")）にも対応\[8\]\[9\]\[10\]。
   - 秘書に[北村真姫](https://ja.wikipedia.org/wiki/仮面女子 "wikilink")、[橘ゆりか](https://ja.wikipedia.org/wiki/橘ゆりか "wikilink")、[長谷川ゆう](https://ja.wikipedia.org/wiki/長谷川ゆう "wikilink")、[琉河天](https://ja.wikipedia.org/wiki/琉河天 "wikilink")が登場。
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
@@ -1049,7 +1049,7 @@ H&Ａトーナメント制・5試合。
   - パラメータを一新
   - カードはオンデマンド印刷に変更
   - 実況が[青嶋達也](../Page/青嶋達也.md "wikilink")（[フジテレビアナウンサー](https://ja.wikipedia.org/wiki/フジテレビアナウンサー "wikilink")）に変更
-  - 過去の「WCCF」のカードはFOOTISTA開始当初「WCCF2017-18」のみ、01-02から16-17vir.については各年度3枚ずつの指定されたカードが使用可能という条件で「FOOTISTA2019」がスタートしたが\[10\]、以後バージョン更新ごとに段階的に解禁され、第2弾(2019年4月25日稼働)で「WCCF2015-2016」まで\[11\]、第3弾（2019年6月27日稼働）で「WCCF2011-2012」までが解禁\[12\]。第4弾（2019年8月7日稼働）へのバージョン更新で過去の全WCCFカードがFOOTISTAに引き継いでの使用が可能となった。
+  - 過去の「WCCF」のカードはFOOTISTA開始当初「WCCF2017-18」のみ、01-02から16-17vir.については各年度3枚ずつの指定されたカードが使用可能という条件で「FOOTISTA2019」がスタートしたが\[11\]、以後バージョン更新ごとに段階的に解禁され、第2弾(2019年4月25日稼働)で「WCCF2015-2016」まで\[12\]、第3弾（2019年6月27日稼働）で「WCCF2011-2012」までが解禁\[13\]。第4弾（2019年8月7日稼働）へのバージョン更新で過去の全WCCFカードがFOOTISTAに引き継いでの使用が可能となった。
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
@@ -1091,8 +1091,8 @@ H&Ａトーナメント制・5試合。
 
 ### FOOTISTA 2020（2020年1月30日稼動）
 
-  - リーグ戦のデッキコストがそれまでの1500から1600に引き上げられた\[13\]。
-  - 起用した選手の所属クラブごとにランキングされる「クラブマスターランキング」を新たに制定\[14\]。
+  - リーグ戦のデッキコストがそれまでの1500から1600に引き上げられた\[14\]。
+  - 起用した選手の所属クラブごとにランキングされる「クラブマスターランキング」を新たに制定\[15\]。
   - 同じクラブ所属の3選手をホットラインで結ぶと発動しパラメータ数値が上昇する「クラブホットライン」を新設。
   - カップ戦にそれまでの「ノーマル」、「スーパー」に加え新たに「エキスパート」クラスを新設。
   - ターミナルでのフリースカウトの廃止。
@@ -1142,9 +1142,9 @@ H&Ａトーナメント制・5試合。
 
 ゲームで使用するカードには、「クラブチームカード」と「選手カード」がある。筐体が設置されている場所付近にある自動販売機で、カードスリーブ（30枚入り）、スターターパック（選手カード11枚+スリーブ11枚のセット）が購入できる。11-12からはAimeを別に購入する必要がある（[バナパスポートカード](https://ja.wikipedia.org/wiki/バナパスポートカード "wikilink")・[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")でも可能）。
 
-選手カードのサイズは一般的なサイズ（[ベースボールカード](../Page/ベースボールカード.md "wikilink")などでポピュラーな3.5インチ×2.5インチや、それより小さい[ISO/IEC 7810のID-1の](https://ja.wikipedia.org/wiki/ISO/IEC_7810#ID-1 "wikilink")85.60mm×53.98mm（[クレジットカード](../Page/クレジットカード.md "wikilink")等））より、長手方向が短い81mm×58mmである\[15\]。これは、[アサヒ飲料](../Page/アサヒ飲料.md "wikilink")「オー・プラス」の販促キャンペーンの中田英寿カードを参考にしたもの\[16\]だが、試作品で筐体サイズがあまりにも大きくなってしまったための苦肉の策である、とも言っている\[17\]。
+選手カードのサイズは一般的なサイズ（[ベースボールカード](../Page/ベースボールカード.md "wikilink")などでポピュラーな3.5インチ×2.5インチや、それより小さい[ISO/IEC 7810のID-1の](https://ja.wikipedia.org/wiki/ISO/IEC_7810#ID-1 "wikilink")85.60mm×53.98mm（[クレジットカード](../Page/クレジットカード.md "wikilink")等））より、長手方向が短い81mm×58mmである\[16\]。これは、[アサヒ飲料](../Page/アサヒ飲料.md "wikilink")「オー・プラス」の販促キャンペーンの中田英寿カードを参考にしたもの\[17\]だが、試作品で筐体サイズがあまりにも大きくなってしまったための苦肉の策である、とも言っている\[18\]。
 
-セガ・インタラクティブは2015年7月16日に、偽造選手カードによる不正プレイが行われていることを確認していることを明らかにした\[18\]。
+セガ・インタラクティブは2015年7月16日に、偽造選手カードによる不正プレイが行われていることを確認していることを明らかにした\[19\]。
 
 ### クラブチームカード
 
@@ -1152,9 +1152,9 @@ H&Ａトーナメント制・5試合。
 
 ### 選手カード
 
-選手カードはイタリアのスポーツトレーディングカード企業である[パニーニ社と提携し](https://ja.wikipedia.org/wiki/パニーニ・グループ "wikilink")、パニーニ社が権利を持つ選手写真を使用している\[19\]\[20\]。 カードには、ポジションと[オフェンス](https://ja.wikipedia.org/wiki/オフェンス "wikilink")、[ディフェンス](../Page/ディフェンス.md "wikilink")、[テクニック](https://ja.wikipedia.org/wiki/テクニック "wikilink")、[パワー](../Page/パワー.md "wikilink")、[スピード](../Page/スピード.md "wikilink")、[スタミナ](https://ja.wikipedia.org/wiki/スタミナ "wikilink")の6項目の能力値と特殊能力（スキル）が設定されており、これらで選手カードの能力・特徴が表現されていく。また、簡単な選手紹介も表記されている。
+選手カードはイタリアのスポーツトレーディングカード企業である[パニーニ社と提携し](https://ja.wikipedia.org/wiki/パニーニ・グループ "wikilink")、パニーニ社が権利を持つ選手写真を使用している\[20\]\[21\]。 カードには、ポジションと[オフェンス](https://ja.wikipedia.org/wiki/オフェンス "wikilink")、[ディフェンス](../Page/ディフェンス.md "wikilink")、[テクニック](https://ja.wikipedia.org/wiki/テクニック "wikilink")、[パワー](../Page/パワー.md "wikilink")、[スピード](../Page/スピード.md "wikilink")、[スタミナ](https://ja.wikipedia.org/wiki/スタミナ "wikilink")の6項目の能力値と特殊能力（スキル）が設定されており、これらで選手カードの能力・特徴が表現されていく。また、簡単な選手紹介も表記されている。
 
-ただし、06-07バージョンで追加された「チームスタイル」をはじめ、各選手には公表されていない様々な裏データが存在する。これらは全て筐体に登録されており、カードを使用するときに筐体から呼び出す形のため、カードから直接データを読み取る事は不可能である。代表的な裏データとして「選手の相性」がある。これはある計算式で選手をカテゴライズし、各カテゴリーごとに選手間連携の上がりやすさを決めたものである\[21\]。
+ただし、06-07バージョンで追加された「チームスタイル」をはじめ、各選手には公表されていない様々な裏データが存在する。これらは全て筐体に登録されており、カードを使用するときに筐体から呼び出す形のため、カードから直接データを読み取る事は不可能である。代表的な裏データとして「選手の相性」がある。これはある計算式で選手をカテゴライズし、各カテゴリーごとに選手間連携の上がりやすさを決めたものである\[22\]。
 
 2016-2017バージョンからは役割適性の項目が追加された。キャプテン適性、フリーキッカー適性、コーナーキッカー適性、PK適性の4つで、B〜Sのランクがある。
 
@@ -1202,9 +1202,9 @@ H&Ａトーナメント制・5試合。
 
 WCCFでは2014年より、ゲーム中に登場する女性秘書などを「WCCFガール」として一般から公募している。
 
-  - 2014年（第1期）: [結木みいあ](https://ja.wikipedia.org/wiki/結木みいあ "wikilink")、[山本茉奈](https://ja.wikipedia.org/wiki/山本茉奈 "wikilink")、[おくむらなつこ](https://ja.wikipedia.org/wiki/おくむらなつこ "wikilink")\[22\]
-    2015年（第2期）: [河村美咲](https://ja.wikipedia.org/wiki/河村美咲 "wikilink")、[橘杏](https://ja.wikipedia.org/wiki/橘杏 "wikilink")\[23\]
-    2016年（第3期）: [芳賀遥](https://ja.wikipedia.org/wiki/芳賀遥 "wikilink")\[24\]
+  - 2014年（第1期）: [結木みいあ](https://ja.wikipedia.org/wiki/結木みいあ "wikilink")、[山本茉奈](https://ja.wikipedia.org/wiki/山本茉奈 "wikilink")、[おくむらなつこ](https://ja.wikipedia.org/wiki/おくむらなつこ "wikilink")\[23\]
+    2015年（第2期）: [河村美咲](https://ja.wikipedia.org/wiki/河村美咲 "wikilink")、[橘杏](https://ja.wikipedia.org/wiki/橘杏 "wikilink")\[24\]
+    2016年（第3期）: [芳賀遥](https://ja.wikipedia.org/wiki/芳賀遥 "wikilink")\[25\]
 
 ## 脚注
 
@@ -1240,23 +1240,24 @@ WCCFでは2014年より、ゲーム中に登場する女性秘書などを「WCC
 2.  [スクエニプロデューサー安藤武博氏のブログ“スマゲ★革命”第十八回「PSO2とセガ魂」](https://app.famitsu.com/20120423_56673/)
 3.  「[ワールドサッカーキング](https://ja.wikipedia.org/wiki/ワールドサッカーキング "wikilink")」「[サムライサッカーキング](https://ja.wikipedia.org/wiki/サムライサッカーキング "wikilink")」「[週刊サッカーマガジン](https://ja.wikipedia.org/wiki/週刊サッカーマガジン "wikilink")」といったサッカー雑誌や、「[サッカーゲームキング](https://ja.wikipedia.org/wiki/サッカーゲームキング "wikilink")」「[月刊アルカディア](../Page/月刊アルカディア.md "wikilink")」「[電撃アーケードゲーム](https://ja.wikipedia.org/wiki/電撃アーケードゲーム "wikilink")」といったゲーム雑誌には、本作品の特製選手カードがたびたび付録として封入されている。またセガの「エクストラカードキャンペーン」や本作品の選手カードバインダーのおまけなどでも追加カードが手に入る。変わった例では、第6回[サッカー検定](https://ja.wikipedia.org/wiki/サッカー検定 "wikilink")の合格者に、合格証とともに追加カードが送られたことがあった。[1](http://web.archive.org/web/20130122194405/http://www.soccer-kentei.jp/blog/news/2012/06/20120622100000.html)
 4.  [弊社製品保守対応の終了について](https://www2.sls-net.co.jp/cms/sls/pdf/news/201611_p_maintenance.pdf)セガ・インタラクティブ、セガ・ロジスティクスサービス 2016年11月
-5.  [「WCCFシリーズ 8P・4Pメイン筐体」用DLPプロジェクター 保守対応終息のお知らせ](https://www2.sls-net.co.jp/cms/sls/pdf/news/16_05_WCCF_DLP.pdf)セガ・インタラクティブ、セガ・ロジスティクスサービス 2016年5月
-6.  トリプルボランチ型フォーメーションでの守備的ミッドフィールダーを3人ともディフェンスエリアまで下げたフォーメーション。
-7.  [セガ・インタラクティブ,コナミアミューズメント,バンダイナムコアミューズメント 3社共通「アミューズメントICカード」対応開始 10月25日より「アミューズメントICカード」対応Aimeカード発売](https://sega-interactive.co.jp/news/181025_information_1/)セガ・インタラクティブ 2018年10月25日
-8.  [カード1枚でバンダイナムコ、コナミ、セガのアーケードゲーム対応サービスが相互利用可能に\! 3社共通「アミューズメントICカード」の対応をスタートします 10月25日より「アミューズメントICカード対応バナパスポートカード」を発売](https://bandainamco-am.co.jp/NEWS/game_center/20181025_1100_14-P-073.html)バンダイナムコアミューズメント 2018年10月25日
-9.  [アミューズメントICカード対応「e-amusement passカード」の相互利用開始－KONAMI、セガ、バンダイナムコ3社のゲームが、もっと身近に、もっと楽しく－](https://www.konami.com/amusement/corporate/ja/news/release/20181025/?cm_sp=01-_-release-_-20181025)コナミアミューズメント 2018年10月25日
-10. [WCCFカードの再印刷について](https://www.footista.jp/teaser/blog/2019-03-11/) Footista公式ブログ
-11. [FOOTISTA2019第2弾稼働\!](https://www.footista.jp/news/0397_c99e8d60657a82c9/) Footista公式ニュース 2019年4月25日
-12. [第3弾 6月27日（木）に稼働決定\!](https://www.footista.jp/news/0545_3c5c54b8ff10920a/) Footista公式アップデートニュース 2019年6月18日
-13. [WCCF FOOTISTA 2020新要素](https://www.footista.jp/game/new)Footista公式 2020年1月30日
-14. [「WCCF FOOTISTA 2020」が本日1月30日（木）より稼働開始\!](https://www.soccer-king.jp/news/release/20200130/1028440.html)[サッカーキング](https://ja.wikipedia.org/wiki/サッカーキング "wikilink") 2020年1月30日
-15. [WCCF公式サイト「カードについて」](http://www.wccf.jp/card.html)(2013年9月13日閲覧)より
-16. [前山芳孝. (@Maetona). "ちなみに、WCCFのカードサイズはオープラスの中田カードを参考にして作られました。通常のカードよりひと回り小さくて丁度良かったんで。 2010年5月9日, 12:15 (JST). Tweet.](https://twitter.com/Maetona/status/13644966057)
-17. [WCCF公式サイト「開発者座談会」](http://www.wccf.jp/wccf0102/site/taidan_main.html)(2013年9月13日閲覧)より
-18. [重要 WCCFを応援してくださっている皆様へ](http://www.wccf.jp/index.html#2015071601)WCCF公式サイト 2015年7月16日
-19. 選手カード裏面には、パニーニ社の社章が小さく印刷されている。また、このカードは[JFAのオフィシャルグッズとしても認定されており](../Page/日本サッカー協会.md "wikilink")、現役日本代表選手カードの裏面にはJFAの認定マークも小さく印刷されている。
-20. 選手の肖像権管理などのクラブとの交渉はセガ・インタラクティブの親会社である[セガホールディングス](https://ja.wikipedia.org/wiki/セガホールディングス "wikilink")が担当している。ただし、肖像権を選手本人が管理している場合があり、このためカード化できなかった選手も存在する。06-07シリーズの[ウェイン・ルーニー](../Page/ウェイン・ルーニー.md "wikilink")がこれに当たる。
-21. あくまでゲーム上の相性であって、実際の選手間の相性ではない。ただし、血縁関係の選手（例：[ファビオ・カンナヴァロ](https://ja.wikipedia.org/wiki/ファビオ・カンナヴァロ "wikilink")と[パオロ・カンナヴァロ](https://ja.wikipedia.org/wiki/パオロ・カンナヴァロ "wikilink")、[フィリッポ・インザーギ](../Page/フィリッポ・インザーギ.md "wikilink")と[シモーネ・インザーギ](../Page/シモーネ・インザーギ.md "wikilink")、[ディエゴ・ミリート](../Page/ディエゴ・ミリート.md "wikilink")と[ガブリエル・ミリート](../Page/ガブリエル・ミリート.md "wikilink")、[コロ・トゥーレ](../Page/コロ・トゥーレ.md "wikilink")と[ヤヤ・トゥーレ](../Page/ヤヤ・トゥーレ.md "wikilink")など）や同じ国籍の選手、実際のサッカーで目立った活躍を見せたコンビやその反対に反目の相手など、様々な特殊連携も存在する。
-22. [3人のWCCFガールが決定！AC「WORLD CLUB Champion Football」ゲーム内に結木みいあさん、山本茉奈さん、おくむらなつこさんが出演](http://www.gamer.ne.jp/news/201405270031/) - Gamer・2014年5月27日
-23. [『WORLD CLUB Champion Football』シリーズの第2期“WCCFガール”が決定](http://www.famitsu.com/news/201506/03080008.html) - ファミ通.com・2015年6月3日
-24. [『第3期 WCCFガール』決定\!](http://www.wccf.jp/news/campaign/160614_01.html) - WCCF・2016年6月14日
+5.  [弊社製品保守対応の終了について](https://www2.sls-net.co.jp/cms/sls/pdf/news/202007maintenance_end1.pdf)セガ、セガ・ロジスティクスサービス 2020年7月
+6.  [「WCCFシリーズ 8P・4Pメイン筐体」用DLPプロジェクター 保守対応終息のお知らせ](https://www2.sls-net.co.jp/cms/sls/pdf/news/16_05_WCCF_DLP.pdf)セガ・インタラクティブ、セガ・ロジスティクスサービス 2016年5月
+7.  トリプルボランチ型フォーメーションでの守備的ミッドフィールダーを3人ともディフェンスエリアまで下げたフォーメーション。
+8.  [セガ・インタラクティブ,コナミアミューズメント,バンダイナムコアミューズメント 3社共通「アミューズメントICカード」対応開始 10月25日より「アミューズメントICカード」対応Aimeカード発売](https://sega-interactive.co.jp/news/181025_information_1/)セガ・インタラクティブ 2018年10月25日
+9.  [カード1枚でバンダイナムコ、コナミ、セガのアーケードゲーム対応サービスが相互利用可能に\! 3社共通「アミューズメントICカード」の対応をスタートします 10月25日より「アミューズメントICカード対応バナパスポートカード」を発売](https://bandainamco-am.co.jp/NEWS/game_center/20181025_1100_14-P-073.html)バンダイナムコアミューズメント 2018年10月25日
+10. [アミューズメントICカード対応「e-amusement passカード」の相互利用開始－KONAMI、セガ、バンダイナムコ3社のゲームが、もっと身近に、もっと楽しく－](https://www.konami.com/amusement/corporate/ja/news/release/20181025/?cm_sp=01-_-release-_-20181025)コナミアミューズメント 2018年10月25日
+11. [WCCFカードの再印刷について](https://www.footista.jp/teaser/blog/2019-03-11/) Footista公式ブログ
+12. [FOOTISTA2019第2弾稼働\!](https://www.footista.jp/news/0397_c99e8d60657a82c9/) Footista公式ニュース 2019年4月25日
+13. [第3弾 6月27日（木）に稼働決定\!](https://www.footista.jp/news/0545_3c5c54b8ff10920a/) Footista公式アップデートニュース 2019年6月18日
+14. [WCCF FOOTISTA 2020新要素](https://www.footista.jp/game/new)Footista公式 2020年1月30日
+15. [「WCCF FOOTISTA 2020」が本日1月30日（木）より稼働開始\!](https://www.soccer-king.jp/news/release/20200130/1028440.html)[サッカーキング](https://ja.wikipedia.org/wiki/サッカーキング "wikilink") 2020年1月30日
+16. [WCCF公式サイト「カードについて」](http://www.wccf.jp/card.html)(2013年9月13日閲覧)より
+17. [前山芳孝. (@Maetona). "ちなみに、WCCFのカードサイズはオープラスの中田カードを参考にして作られました。通常のカードよりひと回り小さくて丁度良かったんで。 2010年5月9日, 12:15 (JST). Tweet.](https://twitter.com/Maetona/status/13644966057)
+18. [WCCF公式サイト「開発者座談会」](http://www.wccf.jp/wccf0102/site/taidan_main.html)(2013年9月13日閲覧)より
+19. [重要 WCCFを応援してくださっている皆様へ](http://www.wccf.jp/index.html#2015071601)WCCF公式サイト 2015年7月16日
+20. 選手カード裏面には、パニーニ社の社章が小さく印刷されている。また、このカードは[JFAのオフィシャルグッズとしても認定されており](../Page/日本サッカー協会.md "wikilink")、現役日本代表選手カードの裏面にはJFAの認定マークも小さく印刷されている。
+21. 選手の肖像権管理などのクラブとの交渉はセガ・インタラクティブの親会社である[セガホールディングス](https://ja.wikipedia.org/wiki/セガホールディングス "wikilink")が担当している。ただし、肖像権を選手本人が管理している場合があり、このためカード化できなかった選手も存在する。06-07シリーズの[ウェイン・ルーニー](../Page/ウェイン・ルーニー.md "wikilink")がこれに当たる。
+22. あくまでゲーム上の相性であって、実際の選手間の相性ではない。ただし、血縁関係の選手（例：[ファビオ・カンナヴァロ](https://ja.wikipedia.org/wiki/ファビオ・カンナヴァロ "wikilink")と[パオロ・カンナヴァロ](https://ja.wikipedia.org/wiki/パオロ・カンナヴァロ "wikilink")、[フィリッポ・インザーギ](../Page/フィリッポ・インザーギ.md "wikilink")と[シモーネ・インザーギ](../Page/シモーネ・インザーギ.md "wikilink")、[ディエゴ・ミリート](../Page/ディエゴ・ミリート.md "wikilink")と[ガブリエル・ミリート](../Page/ガブリエル・ミリート.md "wikilink")、[コロ・トゥーレ](../Page/コロ・トゥーレ.md "wikilink")と[ヤヤ・トゥーレ](../Page/ヤヤ・トゥーレ.md "wikilink")など）や同じ国籍の選手、実際のサッカーで目立った活躍を見せたコンビやその反対に反目の相手など、様々な特殊連携も存在する。
+23. [3人のWCCFガールが決定！AC「WORLD CLUB Champion Football」ゲーム内に結木みいあさん、山本茉奈さん、おくむらなつこさんが出演](http://www.gamer.ne.jp/news/201405270031/) - Gamer・2014年5月27日
+24. [『WORLD CLUB Champion Football』シリーズの第2期“WCCFガール”が決定](http://www.famitsu.com/news/201506/03080008.html) - ファミ通.com・2015年6月3日
+25. [『第3期 WCCFガール』決定\!](http://www.wccf.jp/news/campaign/160614_01.html) - WCCF・2016年6月14日

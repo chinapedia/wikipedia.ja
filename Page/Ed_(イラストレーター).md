@@ -114,10 +114,15 @@
 ### 装画、エディトリアル
 
   - [小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")『パンダのanan』（1997年、[マガジンハウス](../Page/マガジンハウス.md "wikilink")）
+
   - [フランシス・フォード・コッポラ](../Page/フランシス・フォード・コッポラ.md "wikilink")他『ゾエトロープ（pop）（biz）』（[ウィリアム N.伊藤訳](https://ja.wikipedia.org/wiki/ウィリアム_N.伊藤 "wikilink")）（2001年、Book plus）
+
   - [小林聡美](../Page/小林聡美.md "wikilink")『マダムだもの』（[2002年](../Page/2002年.md "wikilink")、[幻冬舎](../Page/幻冬舎.md "wikilink")）
+
   - [ドン・デリーロ](../Page/ドン・デリーロ.md "wikilink")『ボディ・アーティスト』（[上岡伸雄](../Page/上岡伸雄.md "wikilink")訳）（2002年、[新潮社](../Page/新潮社.md "wikilink")）
-  - [フランチェスカ・リアブロック](https://ja.wikipedia.org/wiki/フランチェスカ・リアブロック "wikilink")『ヴァイオレット&クレア』（[金原瑞人](../Page/金原瑞人.md "wikilink")訳）（[2003年](../Page/2003年.md "wikilink")、[主婦の友社](../Page/主婦の友社.md "wikilink")）
+
+  - 『ヴァイオレット&クレア』（[金原瑞人](../Page/金原瑞人.md "wikilink")訳）（[2003年](../Page/2003年.md "wikilink")、[主婦の友社](../Page/主婦の友社.md "wikilink")）
+
   - [金森美也子](https://ja.wikipedia.org/wiki/金森美也子 "wikilink")『nui-gurumi』（[2009年](../Page/2009年.md "wikilink")、FOIL）
 
 ほか\[10\]

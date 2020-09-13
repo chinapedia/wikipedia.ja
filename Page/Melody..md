@@ -1,7 +1,7 @@
 > この記事は[Melody.](https://ja.wikipedia.org/wiki/Melody.)から翻訳されています。
 
 
-**melody.**（メロディー、[1982年](../Page/1982年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") - ）は、[日系アメリカ人](https://ja.wikipedia.org/wiki/日系アメリカ人 "wikilink")の元女性[歌手](../Page/歌手.md "wikilink")。[血液型はO型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。2009年1月に引退時の所属事務所は[テンカラット](../Page/テンカラット.md "wikilink")、レコード会社は[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")。夫は[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")の[MIYAVI](../Page/MIYAVI.md "wikilink")。妹はクリスティーン（なみんじこと並木に弟子入り）。
+**melody.**（メロディー、[1982年](../Page/1982年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") - ）は、[日系アメリカ人](https://ja.wikipedia.org/wiki/日系アメリカ人 "wikilink")の元女性[歌手](../Page/歌手.md "wikilink")。[血液型はO型](../Page/ABO式血液型.md "wikilink")。2009年1月に引退時の所属事務所は[テンカラット](../Page/テンカラット.md "wikilink")、レコード会社は[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")。夫は[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")の[MIYAVI](../Page/MIYAVI.md "wikilink")。妹はクリスティーン（なみんじこと並木に弟子入り）。
 
 ## 来歴・人物
 

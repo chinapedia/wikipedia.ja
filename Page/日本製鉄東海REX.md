@@ -13,13 +13,13 @@
 
 に[都市対抗野球に初出場](../Page/第45回都市対抗野球大会.md "wikilink")。には初出場した[日本選手権で初優勝を果たした](https://ja.wikipedia.org/wiki/第3回社会人野球日本選手権大会 "wikilink")。
 
-その後、[鉄鋼](https://ja.wikipedia.org/wiki/鉄鋼 "wikilink")不況の影響から新日本製鐵本社がスポーツ支援体制の見直しを進める中で、同チームはから本社が企業チームとして直接運営する形から、複数の地元企業や団体などと共に地域に密着したクラブ型の運営方針に変更することとなり、[広域複合企業チーム](../Page/広域複合企業チーム.md "wikilink")の『**硬式野球クラブ 東海REX**』として再出発した\[1\]。
+その後、[鉄鋼](https://ja.wikipedia.org/wiki/鉄鋼 "wikilink")不況の影響から新日本製鐵本社がスポーツ支援体制の見直しを進める中で、同チームはから本社が企業チームとして直接運営する形から、複数の地元企業や団体などと共に地域に密着したクラブ型の運営方針に変更することとなり、[広域複合企業チーム](../Page/広域複合企業チーム.md "wikilink")の『**硬式野球クラブ 東海REX**』として再出発したが、それ以降は同じく新日本製鐵君津から広域複合企業チームに転換した[かずさマジック共々長期にわたる低迷状態に陥り](../Page/日本製鉄かずさマジック.md "wikilink")、同名称時代には都市対抗野球には一度も出場できなかった。
 
-[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、新日本製鐵と[住友金属工業](../Page/住友金属工業.md "wikilink")が合併し[新日鐵住金](https://ja.wikipedia.org/wiki/新日鐵住金 "wikilink")が発足し、新たに冠スポンサーとなり、広域複合企業チームのままチーム名を『**新日鐵住金東海REX**』に改称した\[2\]\[3\]。
+[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、新日本製鐵と[住友金属工業](../Page/住友金属工業.md "wikilink")が合併し[新日鐵住金](https://ja.wikipedia.org/wiki/新日鐵住金 "wikilink")が発足し、新たに冠スポンサーとなり、広域複合企業チームのままチーム名を『**新日鐵住金東海REX**』に改称した\[1\]。
 
 、[都市対抗野球で東海地区第](https://ja.wikipedia.org/wiki/第85回都市対抗野球大会 "wikilink")2代表の座を獲得し、1998年以来16年ぶりに本戦出場を果たした。
 
-4月、新日鐵住金の商号変更に伴い、チーム名を『**日本製鉄東海REX**』に改称した\[4\]。
+4月、新日鐵住金の商号変更に伴い、チーム名を『**日本製鉄東海REX**』に改称した\[2\]。
 
 ## 沿革
 
@@ -87,7 +87,5 @@
 
 [Category:東海地方の社会人野球チーム](https://ja.wikipedia.org/wiki/Category:東海地方の社会人野球チーム "wikilink") [Category:社会人野球日本選手権大会優勝チーム](https://ja.wikipedia.org/wiki/Category:社会人野球日本選手権大会優勝チーム "wikilink") [Category:愛知県のスポーツチーム](https://ja.wikipedia.org/wiki/Category:愛知県のスポーツチーム "wikilink") [Category:日本製鉄グループのスポーツ活動](https://ja.wikipedia.org/wiki/Category:日本製鉄グループのスポーツ活動 "wikilink") [Category:1965年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1965年設立のスポーツチーム "wikilink")
 
-1.  新日本製鐵君津も[かずさマジックと改め](../Page/日本製鉄かずさマジック.md "wikilink")、同様に広域複合企業チームとなった
+1.
 2.
-3.  かずさマジックも新日鐵住金かずさマジックに、新日鐵大分ベースボールクラブも[新日鐵住金大分クラブに改称した](../Page/日本製鉄大分硬式野球部.md "wikilink")。
-4.

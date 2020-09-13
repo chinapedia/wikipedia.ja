@@ -175,7 +175,7 @@
 
 ## 外部リンク
 
-  - [陸上自衛隊](http://www.mod.go.jp/gsdf/) -[9mm拳銃](http://www.mod.go.jp/gsdf/equipment/index.html#/detail/0/0_27/)
+  - [陸上自衛隊](https://www.mod.go.jp/gsdf/) -[9mm拳銃](https://www.mod.go.jp/gsdf/equipment/index.html#/detail/0/0_27/)
 
 [Category:自動式拳銃](https://ja.wikipedia.org/wiki/Category:自動式拳銃 "wikilink") [Category:陸上自衛隊の小火器](https://ja.wikipedia.org/wiki/Category:陸上自衛隊の小火器 "wikilink") [Category:海上自衛隊の装備品](https://ja.wikipedia.org/wiki/Category:海上自衛隊の装備品 "wikilink") [Category:航空自衛隊の装備品](https://ja.wikipedia.org/wiki/Category:航空自衛隊の装備品 "wikilink") [Category:9mmパラベラム弾使用銃](https://ja.wikipedia.org/wiki/Category:9mmパラベラム弾使用銃 "wikilink")
 

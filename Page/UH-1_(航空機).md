@@ -107,7 +107,7 @@ UH-1Hの最終生産8機は[暗視ゴーグル](../Page/暗視装置.md "wikilin
 
 ### UH-1J
 
-[JGSDF_UH-1J_20120520-01.JPG](https://ja.wikipedia.org/wiki/File:JGSDF_UH-1J_20120520-01.JPG "fig:JGSDF_UH-1J_20120520-01.JPG") 平成3年度（[1991年](../Page/1991年.md "wikilink")度）予算からは、[エンジン](../Page/エンジン.md "wikilink")を[AH-1Sと同じT](https://ja.wikipedia.org/wiki/AH-1_コブラ#日本 "wikilink")53-K-703に換装し、ワイヤーカッターなどを装備した富士重工業独自の改良型**UH-1J**（平成3年[防衛白書](../Page/防衛白書.md "wikilink")にはHU-1H改、平成4年度防衛白書にはUH-1H改と記載）の調達に切り替え、[2007年](../Page/2007年.md "wikilink")（平成19年）までに130機を納入した。2019年3月末時点のＵＨ-1Jの保有数は127機である\[7\]。
+[JGSDF_UH-1J_20120520-01.JPG](https://ja.wikipedia.org/wiki/File:JGSDF_UH-1J_20120520-01.JPG "fig:JGSDF_UH-1J_20120520-01.JPG") 平成3年度（[1991年](../Page/1991年.md "wikilink")度）予算からは、[エンジン](../Page/エンジン.md "wikilink")を[AH-1Sと同じT](https://ja.wikipedia.org/wiki/AH-1_コブラ#日本 "wikilink")53-K-703に換装し、ワイヤーカッターなどを装備した富士重工業独自の改良型**UH-1J**（平成3年[防衛白書](../Page/防衛白書.md "wikilink")にはHU-1H改、平成4年度防衛白書にはUH-1H改と記載）の調達に切り替え、[2007年](../Page/2007年.md "wikilink")（平成19年）までに130機を納入した。2020年3月末時点のUH-1Jの保有数は124機である\[7\]。
 
 UH-1Jは[ベルとの共同開発をベースとしているが](../Page/ベル・エアクラフト.md "wikilink")、80パーセントを国産技術としている。UH-1Jは当初より、[暗視ゴーグル対応](../Page/暗視装置.md "wikilink")[コックピットで生産され](../Page/軍用機のコックピット.md "wikilink")、また、大半の機体はヘリコプター映像伝送装置か[赤外線監視装置を搭載できる準備工事が施されている](../Page/FLIR.md "wikilink")。エンジンカウリングの上部にはIRジャマーも搭載可能。また、J型の民間版205Bも開発し、販売している。
 
@@ -362,17 +362,17 @@ UH-1Jの調達数\[8\]\[9\]
 
 ## 外部リンク
 
-  - [陸上自衛隊](http://www.mod.go.jp/gsdf/) - [UH-1H](http://www.mod.go.jp/gsdf/equipment/index.html#/detail/3/3_7/) - [UH-1J](http://www.mod.go.jp/gsdf/equipment/index.html#/detail/3/3_8/)
+  - [陸上自衛隊](https://www.mod.go.jp/gsdf/) - [UH-1H](https://www.mod.go.jp/gsdf/equipment/index.html#/detail/3/3_7/) - [UH-1J](https://www.mod.go.jp/gsdf/equipment/index.html#/detail/3/3_8/)
 
 [Category:アメリカ合衆国の軍用機](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の軍用機 "wikilink") [Category:アメリカ合衆国のヘリコプター](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のヘリコプター "wikilink") [Category:アメリカ合衆国海兵隊の装備](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国海兵隊の装備 "wikilink") [Category:ベトナム戦争](https://ja.wikipedia.org/wiki/Category:ベトナム戦争 "wikilink") [Category:陸上自衛隊の装備品](https://ja.wikipedia.org/wiki/Category:陸上自衛隊の装備品 "wikilink") [Category:ベルの航空機](https://ja.wikipedia.org/wiki/Category:ベルの航空機 "wikilink") [Category:軍用ヘリコプター](https://ja.wikipedia.org/wiki/Category:軍用ヘリコプター "wikilink") [Category:艦載ヘリコプター](https://ja.wikipedia.org/wiki/Category:艦載ヘリコプター "wikilink")
 
 1.  [:en:Folding-Fin Aerial Rocket\#US Mk 40 FFAR Launchers](https://ja.wikipedia.org/wiki/:en:Folding-Fin_Aerial_Rocket#US_Mk_40_FFAR_Launchers "wikilink")
 2.  Drendel, Lou: *Huey*, pages 14-17. Squadron/Signal Publications, Carrollton, Texas, 1983. ISBN 0-89747-145-8
 3.  　昭和53年度総合火力演習でロケット弾ポッドを装備したHU-1Bが初登場した。
-4.  [平成27年度防衛白書 資料35 主要航空機の保有数・性能諸元](http://www.mod.go.jp/j/publication/wp/wp2015/html/ns035000.html)
+4.  [平成27年度防衛白書 資料35 主要航空機の保有数・性能諸元](https://www.mod.go.jp/j/publication/wp/wp2015/html/ns035000.html)
 5.  [ヘリコプター事始め50年記念講演](http://www.geocities.co.jp/Technopolis/2415/makino.html)
 6.
-7.  [令和元年度防衛白書 資料9 主要航空機の保有数・性能諸元](https://www.mod.go.jp/j/publication/wp/wp2019/html/ns009000.html)
+7.  [令和2年度防衛白書 p.494 資料5 主要航空機の保有数・性能諸元](https://www.mod.go.jp/j/publication/wp/wp2020/pdf/R02shiryo.pdf)
 8.  [JapanDefense.com](http://www.japandefense.com/)
 9.  [防衛白書の検索](http://www.clearing.mod.go.jp/hakusho_web/)
 10.

@@ -253,7 +253,7 @@ ARMADA - [組み込みシステム](../Page/組み込みシステム.md "wikilin
   - [Z80](../Page/Z80.md "wikilink") - [1976年](../Page/1976年.md "wikilink")
   - [Z180](https://ja.wikipedia.org/wiki/Z180 "wikilink")
   - [Z280](https://ja.wikipedia.org/wiki/Z280 "wikilink")
-  - [Z380](https://ja.wikipedia.org/wiki/Z380 "wikilink")
+  - [Z380](../Page/Z380.md "wikilink")
   - [eZ80](https://ja.wikipedia.org/wiki/eZ80 "wikilink")
   - [Z8000](../Page/Z8000.md "wikilink")
   - [Z80000](https://ja.wikipedia.org/wiki/Z80000 "wikilink")

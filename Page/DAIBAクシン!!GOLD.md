@@ -209,8 +209,6 @@
 
   - [DAIBA Database](http://www.fujitv.co.jp/DAIBA/)
 
------
-
 [Category:1999年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:フジテレビのローカル番組](https://ja.wikipedia.org/wiki/Category:フジテレビのローカル番組 "wikilink") [Category:フジテレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:フジテレビの一社提供番組 "wikilink") [Category:テレビのアイドル番組](https://ja.wikipedia.org/wiki/Category:テレビのアイドル番組 "wikilink") [Category:チェキッ娘](https://ja.wikipedia.org/wiki/Category:チェキッ娘 "wikilink") [Category:ドリームキャスト](https://ja.wikipedia.org/wiki/Category:ドリームキャスト "wikilink")
 
 1.  なお、本番組のすぐあとの16:55～17:25では『[∀ガンダム](../Page/∀ガンダム.md "wikilink")』を放送していた。

@@ -70,8 +70,8 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新潟総合テレビ" title="wikilink">新潟総合テレビ</a></p></td>
-<td></td>
+<td><p><a href="../Page/NST新潟総合テレビ.md" title="wikilink">新潟総合テレビ</a></p></td>
+<td><p>現：NST新潟総合テレビ</p></td>
 <td></td>
 </tr>
 <tr class="odd">

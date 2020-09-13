@@ -173,11 +173,11 @@ JR東日本[埼京線](https://ja.wikipedia.org/wiki/埼京線 "wikilink")各駅
 
 #### 2016年
 
-  - [7月16日](../Page/7月16日.md "wikilink")、**Suicaのペンギン広場**が[新宿駅](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")の新南口に、[バスタ新宿](https://ja.wikipedia.org/wiki/バスタ新宿 "wikilink")の近隣に位置していることから、それのオープンに合わせてオープンした。これまで、Suicaのペンギン像は、期間限定で、[イベント](../Page/イベント.md "wikilink")形式で設置されていたものの、常設で、[銅像](../Page/銅像.md "wikilink")としての設置である。ただし、2019年3月初旬から、2020年6月頃まで、[リニューアル](https://ja.wikipedia.org/wiki/リニューアル "wikilink")[工事](https://ja.wikipedia.org/wiki/工事 "wikilink")のため、一時的ではあるが、撤去され、周辺に立ち入ることは出来なくなっている。
+  - [7月16日](../Page/7月16日.md "wikilink")、**Suicaのペンギン広場**が[新宿駅](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")の新南口にある[バスタ新宿](https://ja.wikipedia.org/wiki/バスタ新宿 "wikilink")と同時にオープンした。これまでSuicaのペンギン像は、期間限定で[イベント](../Page/イベント.md "wikilink")形式で設置されていたものの、常設で[銅像](../Page/銅像.md "wikilink")としては初の設置となった。なお、2019年3月初旬から2020年6月30日までは、リニューアル工事のため一時的に撤去が行われていた。
 
 #### 2019年
 
-  - TVアニメ『[新幹線変形ロボ シンカリオン THE ANIMATION](https://ja.wikipedia.org/wiki/新幹線変形ロボ_シンカリオン "wikilink")』（[TBS](../Page/TBSテレビ.md "wikilink")）第53話「クイズ\!\!ブラックシンカリオンとペンギン」に“新幹線超進化研究所総指令長、東スバルが総指令長室のロッカーの中でこっそり飼っているペット”としてゲスト出演。
+  - TVアニメ『[新幹線変形ロボ シンカリオン THE ANIMATION](https://ja.wikipedia.org/wiki/新幹線変形ロボ_シンカリオン "wikilink")』（[TBS系](https://ja.wikipedia.org/wiki/JNN "wikilink")）第53話「クイズ\!\!ブラックシンカリオンとペンギン」に“新幹線超進化研究所総指令長、東スバルが総指令長室のロッカーの中でこっそり飼っているペット”としてゲスト出演。
 
 #### CMイメージソング
 

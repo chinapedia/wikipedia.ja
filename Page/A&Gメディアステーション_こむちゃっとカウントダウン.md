@@ -26,7 +26,7 @@
   - 23:08 今週のこむちゃーとベスト10発表（10～6位）
   - 23:20 今夜のこむちゃゲスト - 年2回ある櫻井・アシスタント誕生日近辺の回は、誕生日企画
   - 23:40 今週のこむちゃーとベスト10発表（5～1位）
-  - 23:55 エンディング（次週のゲスト及びメールテーマ発表、後続番組「[上坂すみれの♡（はーと）をつければかわいかろう](https://ja.wikipedia.org/wiki/上坂すみれの（はーと）をつければかわいかろう "wikilink")」予告）
+  - 23:55 エンディング（次週のゲスト及びメールテーマ発表、後続番組「[上坂すみれの♡（はーと）をつければかわいかろう](https://ja.wikipedia.org/wiki/上坂すみれの♡（はーと）をつければかわいかろう "wikilink")」予告）
 
 <!-- end list -->
 
@@ -76,7 +76,7 @@
       - 6月19日 - [2010 FIFAワールドカップ中継『日本×オランダ』](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ・グループE#オランダ_vs_日本 "wikilink")（20:10 - 22:40）のため22:40 - 24:00にて「アニスパ\!」（超\!A\&G+では「アニスパ\!・プラス」）が80分枠で放送された事により、超\!A\&G+も含めて「こむちゃ」が全編休止となった。公式サイトでも「こむチャート」が発表されなかったのはこの週が初めてであり、現在に至るまで唯一の事例である。この関係で、この週の前後にランクインした曲は2010年の年間ベストヒット10の集計で、1週分の不利を被ることになった\[2\]。
       - 6月27日 - 番組400回を記念した特別番組「文化放送ホームランナイター [センパツ\!](https://ja.wikipedia.org/wiki/センパツ! "wikilink")スペシャル　放送400回突破記念\! こむちゃっとプレミアム」を[茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")、[GRANRODEO](../Page/GRANRODEO.md "wikilink")、[坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink")をゲストに迎えて放送。
   - 2011年
-      - 3月12日 - 前日に発生した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")関連の[報道特別番組](../Page/報道特別番組.md "wikilink")（23:30までは[NRN報道特番扱い](../Page/全国ラジオネットワーク.md "wikilink")）のため、超\!A\&G+も含めて休止。ただし先述の例とは異なり「こむチャート」の集計は行っており、公式サイトで「2011年3月12日**付け**　第439回こむチャート」として発表されている\[3\]。
+      - 3月12日 - 前日に発生した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")関連の[報道特別番組](../Page/報道特別番組.md "wikilink")（23:30までは[NRN報道特番扱い](../Page/全国ラジオネットワーク.md "wikilink")）のため、超\!A\&G+も含めて休止。ただし先述の例とは異なり「こむチャート」の集計は行っており、公式サイトで「2011年3月12日**付け** 第439回 こむチャート」として発表されている\[3\]。
       - 7月27日 - ボーカルCD「こむちゃっとカウントダウン　Vocal CD 2011」発売。収録曲「Party-Life\!\!」は、第460回 こむチャートで初登場6位、第465回のこむチャートより、4連続首位（V4達成）を記録し、同年の年間チャート1位を獲得した。2018年までの年間チャート1位楽曲の中で唯一主題歌タイアップのない曲となっている。
       - 7月30日 - 番組イベント「COMCHA FES 2011」を[Shibuya O-EASTにて開催](https://ja.wikipedia.org/wiki/TSUTAYA_O-EAST "wikilink")\[4\]。
   - 2012年6月2日 - 番組500回。記念の公開録音を開催（なお、概要の項で述べたとおり、オンエアとチャートにはズレがあるためチャートは5月12日に500回となった）。
@@ -92,7 +92,7 @@
       - 3月10日 - 放送800回を記念したスペシャルトークイベントが文化放送メディアプラスホールで行われた。
       - 4月14日 - 放送800回を記念し21時から3時間の特別番組「A\&Gメディアステーション こむちゃっとカウントダウン 放送800回突破記念スペシャル」が、同年3月10日に行われたスペシャルトークイベントの模様を含めて放送された。なお、「[A\&G TRIBAL RADIO エジソン](https://ja.wikipedia.org/wiki/A&G_TRIBAL_RADIO_エジソン "wikilink")」の[フロート番組はそれぞれの時間に放送された](https://ja.wikipedia.org/wiki/A&G_TRIBAL_RADIO_エジソン#エジソン_スペース\(フロート番組枠\) "wikilink")。当番組の特別番組は2010年6月27日に放送された「文化放送ホームランナイター センパツ\!スペシャル 放送400回突破記念\! こむちゃっとプレミアム」（20:00 - 21:30）以来7年と10ヶ月ぶりである。
   - 2019年
-      - 1月5日 - 「文化放送新春スペシャル A\&G TRIVAL RADIO エジソン」が21時から3時間の収録放送されたため休止となった。なお、当放送枠である23時台は「エジソン～集まれ年男\!～」に寺島拓篤、千葉翔也が出演した。ただし「こむチャート」の集計は行っており、公式サイトで「2019年1月5日放送分 第847回こむチャート」として発表されている。
+      - 1月5日 - 「文化放送新春スペシャル A\&G TRIVAL RADIO エジソン」が21時から3時間の収録放送されたため休止となった。なお、当放送枠である23時台は「エジソン～集まれ年男\!～」に寺島拓篤、千葉翔也が出演した。ただし「こむチャート」の集計は行っており、公式サイトで「2019年1月5日放送分 第847回 こむチャート」として発表されている。
       - 4月6日 - 10年間アシスタントを務めた井口に代わり、[白石晴香](https://ja.wikipedia.org/wiki/白石晴香 "wikilink")が4代目アシスタントに就任。
       - 10月12日 - [令和元年東日本台風](https://ja.wikipedia.org/wiki/令和元年東日本台風 "wikilink")（台風19号）接近に伴い、ゲストの[仲村宗悟](https://ja.wikipedia.org/wiki/仲村宗悟 "wikilink")のスタジオ出演がなくなり電話出演に変更された。ゲストが電話出演となるのは番組開始以来初めてのことである。
 
@@ -3440,7 +3440,7 @@ ELISA</p></td>
 <tr class="odd">
 <td><p>4月15日</p></td>
 <td><p>754</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/fhana" title="wikilink">fhana</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/fhána" title="wikilink">fhána</a></p></td>
 <td><p>757</p></td>
 </tr>
 <tr class="even">
@@ -4543,6 +4543,82 @@ ClariS（録音）</p></td>
 <td><p>920</p></td>
 </tr>
 <tr class="odd">
+<td><p>6月6日</p></td>
+<td><p>917</p></td>
+<td><p>オーイシマサヨシ<br />
+（リモート出演）</p></td>
+<td><p>921</p></td>
+</tr>
+<tr class="even">
+<td><p>6月13日</p></td>
+<td><p>918</p></td>
+<td><p>MASOCHISTIC ONO BAND</p></td>
+<td><p>922</p></td>
+</tr>
+<tr class="odd">
+<td><p>6月20日</p></td>
+<td><p>919</p></td>
+<td><p>田村ゆかり</p></td>
+<td><p>923</p></td>
+</tr>
+<tr class="even">
+<td><p>6月27日</p></td>
+<td><p>920</p></td>
+<td><p>寺島拓篤[30]<br />
+鈴木達央<br />
+<a href="../Page/前野智昭.md" title="wikilink">前野智昭</a></p></td>
+<td><p>924</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月4日</p></td>
+<td><p>921</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/相羽あいな" title="wikilink">相羽あいな</a><br />
+イヤホンズ（録音）</p></td>
+<td><p>925</p></td>
+</tr>
+<tr class="even">
+<td><p>7月11日</p></td>
+<td><p>922</p></td>
+<td><p>井口裕香</p></td>
+<td><p>926</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月18日</p></td>
+<td><p>923</p></td>
+<td><p>坂本真綾</p></td>
+<td><p>927</p></td>
+</tr>
+<tr class="even">
+<td><p>7月25日</p></td>
+<td><p>924</p></td>
+<td><p>虹ヶ咲学園スクールアイドル同好会</p></td>
+<td><p>928</p></td>
+</tr>
+<tr class="odd">
+<td><p>8月1日</p></td>
+<td><p>925</p></td>
+<td><p>東山奈央</p></td>
+<td><p>929</p></td>
+</tr>
+<tr class="even">
+<td><p>8月8日</p></td>
+<td><p>926</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/楠木ともり" title="wikilink">楠木ともり</a></p></td>
+<td><p>930</p></td>
+</tr>
+<tr class="odd">
+<td><p>8月15日</p></td>
+<td><p>927</p></td>
+<td><p>下野紘</p></td>
+<td><p>931</p></td>
+</tr>
+<tr class="even">
+<td><p>8月22日</p></td>
+<td><p>928</p></td>
+<td><p>内田雄馬</p></td>
+<td><p>932</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -4696,7 +4772,7 @@ ClariS（録音）</p></td>
 | ナノ                                                                       | 石                      | 743 |                                                                                   |
 | 鈴木このみ                                                                    | 酢豚                     | 748 |                                                                                   |
 | 西沢幸奏                                                                     | サンシャイン西沢               | 749 |                                                                                   |
-| [佐藤純一](https://ja.wikipedia.org/wiki/佐藤純一 "wikilink")                    | 新潟っ子                   | 754 | fhána                                                                             |
+| [佐藤純一](../Page/佐藤純一_\(音楽家\).md "wikilink")                               | 新潟っ子                   | 754 | fhána                                                                             |
 | yuxukiwaga                                                               | 道産子                    |     |                                                                                   |
 | kevin mitsunaga                                                          | TOKYO刈り                |     |                                                                                   |
 | MICHI                                                                    | コミュニケーションおばけ           | 756 |                                                                                   |
@@ -4758,7 +4834,14 @@ ClariS（録音）</p></td>
 | 鬼頭明里                                                                     | 海外セレブ                  | 903 |                                                                                   |
 | 上田麗奈                                                                     | アイオライト                 | 906 |                                                                                   |
 | 三澤紗千香                                                                    | 自称「山梨の星」               | 913 |                                                                                   |
+| 前野智昭                                                                     | 643                    | 920 | [QUARTET NIGHTのメンバー](https://ja.wikipedia.org/wiki/QUARTET_NIGHT "wikilink")      |
+| 相羽あいな                                                                    | なにわの暴走機関車              | 921 | Roseliaのメンバー                                                                      |
+| [大西亜玖璃](https://ja.wikipedia.org/wiki/大西亜玖璃 "wikilink")                  | 美少女                    | 924 | 虹ヶ咲学園スクールアイドル同好会のメンバー                                                             |
+| [前田佳織里](https://ja.wikipedia.org/wiki/前田佳織里 "wikilink")                  | 新宿西口でハトを蹴散らしていたチワワ     |     |                                                                                   |
+| 楠木ともり                                                                    | ボブ・ゲーラー                | 926 |                                                                                   |
 |                                                                          |                        |     |                                                                                   |
+
+　
 
 ## 年間ランキング1位獲得曲
 
@@ -4874,7 +4957,7 @@ ClariS（録音）</p></td>
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a>（JRT）</p></td>
+<td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a>（JRT）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Japan_Radio_Network" title="wikilink">JRN</a>・<a href="../Page/全国ラジオネットワーク.md" title="wikilink">NRN系列</a><br />
 <a href="../Page/クロスネット局.md" title="wikilink">クロスネット</a></p></td>
 <td><p>不明</p></td>
@@ -4922,7 +5005,7 @@ ClariS（録音）</p></td>
 22:30 - 23:00</p></td>
 <td><p>--&gt;2010年4月10日 - 2012年9月</p></td>
 <td><p>2011年3月5日までは22:00 - 22:30での放送であった。<br />
-翌月からは同じ文化放送の『<a href="../Page/水樹奈々_スマイル・ギャング.md" title="wikilink">水樹奈々 スマイル・ギャング</a>』をネット受け。</p></td>
+翌月からは同じ文化放送の『<a href="../Page/水樹奈々_スマイルギャング.md" title="wikilink">水樹奈々 スマイルギャング</a>』をネット受け。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鳥取県.md" title="wikilink">鳥取県</a>・<a href="../Page/島根県.md" title="wikilink">島根県</a></p></td>
@@ -4979,7 +5062,7 @@ ClariS（録音）</p></td>
 <td><p>毎週金曜日<br />
 19:00 - 19:30</p></td>
 <td><p>2018年4月6日 - 2019年3月29日</p></td>
-<td><p>地上波ネット局と同様に30分の編集版を配信[30]<br />
+<td><p>地上波ネット局と同様に30分の編集版を配信[31]<br />
 2018年9月までは毎週金曜の20:00から配信していた。</p></td>
 </tr>
 </tbody>
@@ -5014,7 +5097,7 @@ CMはRAB、ABSでは放送されず、CMフィラーが放送される。
   -
 
       -
-        引き続き、1時間放送が基本となる。ただし、1時間放送の場合と30分短縮放送の場合があり、その対応はまちまちである。30分版の場合はチャート優先の場合はゲストパートが無くなり、特集やゲストを優先する場合はチャートは読み上げのみとなる\[31\]。これは、野球中継が22時を越えて延長した場合、23:30 - 翌5:00（2014年以前は23:30 - 翌3:00）の番組をローテーションで休止させる対応を取っており、本番組の短縮対応がこのローテーションの中に含まれているためである。
+        引き続き、1時間放送が基本となる。ただし、1時間放送の場合と30分短縮放送の場合があり、その対応はまちまちである。30分版の場合はチャート優先の場合はゲストパートが無くなり、特集やゲストを優先する場合はチャートは読み上げのみとなる\[32\]。これは、野球中継が22時を越えて延長した場合、23:30 - 翌5:00（2014年以前は23:30 - 翌3:00）の番組をローテーションで休止させる対応を取っており、本番組の短縮対応がこのローテーションの中に含まれているためである。
 
   - 超\!A\&G+
 
@@ -5042,7 +5125,7 @@ CMはRAB、ABSでは放送されず、CMフィラーが放送される。
 
 ## 刊行物
 
-  - こむちゃっとカウントダウン Vocal CD 2011\[32\]（2011年7月27日発売、文化放送 QRAG-24）
+  - こむちゃっとカウントダウン Vocal CD 2011\[33\]（2011年7月27日発売、文化放送 QRAG-24）
   - ドリカンからこむちゃへ アニソン黄金伝説\!\!（2012年3月2日発売、[扶桑社](../Page/扶桑社.md "wikilink") ISBN 978-4-594-06568-3）
   - こむちゃっとカウントダウン Vocal CD 2014（2014年5月28日発売、文化放送 ）
   - こむちゃっとカウントダウン Vocal CD 2017（2017年4月5日発売、文化放送 QRAG-114）
@@ -5063,11 +5146,11 @@ CMはRAB、ABSでは放送されず、CMフィラーが放送される。
   - [番組公式ページ](http://www.joqr.co.jp/comcha/)
 
   -
-[Category:文化放送A\&Gゾーン](https://ja.wikipedia.org/wiki/Category:文化放送A&Gゾーン "wikilink") [Category:超\!A\&G+](https://ja.wikipedia.org/wiki/Category:超!A&G+ "wikilink") [Category:文化放送の音楽番組](https://ja.wikipedia.org/wiki/Category:文化放送の音楽番組 "wikilink") [Category:アニメソングのラジオ番組](https://ja.wikipedia.org/wiki/Category:アニメソングのラジオ番組 "wikilink") [Category:音楽ランキング番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:音楽ランキング番組_\(ラジオ\) "wikilink") [Category:2002年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のラジオ番組_\(日本\) "wikilink") [Category:ABEMA_RADIO](https://ja.wikipedia.org/wiki/Category:ABEMA_RADIO "wikilink")
+[Category:文化放送A\&Gゾーン](https://ja.wikipedia.org/wiki/Category:文化放送A&Gゾーン "wikilink") [Category:超\!A\&G+](https://ja.wikipedia.org/wiki/Category:超!A&G+ "wikilink") [Category:文化放送の音楽番組](https://ja.wikipedia.org/wiki/Category:文化放送の音楽番組 "wikilink") [Category:アニメソングのラジオ番組](https://ja.wikipedia.org/wiki/Category:アニメソングのラジオ番組 "wikilink") [Category:音楽ランキング番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:音楽ランキング番組_\(ラジオ\) "wikilink") [Category:2002年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のラジオ番組_\(日本\) "wikilink") [Category:ABEMA_RADIO](https://ja.wikipedia.org/wiki/Category:ABEMA_RADIO "wikilink") [Category:リクエスト番組](https://ja.wikipedia.org/wiki/Category:リクエスト番組 "wikilink")
 
 1.  本社機能などはその直前に移転済みであった。
 2.  前後の週で1位を記録し、年間ベストヒット10にもランクインした田村ゆかり『おしえてAtoZ』など。
-3.  通常は「～**放送分**　第～回こむチャート」と表記される。
+3.  通常は「～**放送分** 第～回 こむチャート」と表記される。
 4.  [アニソンカウントダウン番組『こむちゃ』イベントは、歌ありトークあり](http://www.barks.jp/news/?id=1000099203) barks 2014年1月26日、2015年1月30日閲覧。
 5.  [茅原実里、三森すずこ、angelaらがゲスト出演！「こむちゃ」放送600回記念『COMCHA FES 2014 in 野音』](http://www.koepota.jp/news/2014/05/03/0201.html) こえぽた 2014年5月3日、2015年1月30日閲覧。
 6.  [めっちゃきれい。ありがとう―『COMCHA FES 2017 in 野音』（こむちゃフェス） イベントレポート](https://nizista.com/views/article2?id=b6b330a041f611e7b040231b0d95e227)
@@ -5094,6 +5177,7 @@ CMはRAB、ABSでは放送されず、CMフィラーが放送される。
 27.
 28. 「キミまち」「エジソン」「こむちゃ」3番組連続生出演企画のため、番組冒頭に出演。
 29.
-30. [こむちゃっとカウントダウン | AbemaTV(アベマTV)](https://abema.tv/channels/abema-radio/slots/DBQ5cSfA7NMu6X)
-31. 2009年7月12日放送分（本来は前日の11日に放送予定だった分）の場合だと、0:00 - 0:30の短縮版だったが、この時は特集コーナーをメインに行うためか、チャートは読み上げのみで、「こむちぇっく」は休止された
-32.
+30.
+31. [こむちゃっとカウントダウン | AbemaTV(アベマTV)](https://abema.tv/channels/abema-radio/slots/DBQ5cSfA7NMu6X)
+32. 2009年7月12日放送分（本来は前日の11日に放送予定だった分）の場合だと、0:00 - 0:30の短縮版だったが、この時は特集コーナーをメインに行うためか、チャートは読み上げのみで、「こむちぇっく」は休止された
+33.

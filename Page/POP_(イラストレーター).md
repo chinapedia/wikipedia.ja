@@ -53,6 +53,7 @@
   - Lollipop 〜ろりぽっぷ〜（三才ブックス、[2005年](../Page/2005年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")）
   - SUPER LOLLIPOP（三才ブックス、[2007年](../Page/2007年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink")）
   - ani pop girls POP Animation Works（[一迅社](../Page/一迅社.md "wikilink")、[2013年](../Page/2013年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")）
+  - POPCAN2020 fruit shower
 
 ### アニメ
 

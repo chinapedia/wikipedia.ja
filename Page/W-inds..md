@@ -1,43 +1,19 @@
 > この記事は[W-inds.](https://ja.wikipedia.org/wiki/W-inds.)から翻訳されています。
 
 
-**w-inds.** （ウィンズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性ダンス＆ボーカルユニット。[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")所属。レーベルは[FLIGHT MASTER](../Page/フライトマスター.md "wikilink")。
+**w-inds.**（ウィンズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性ダンス＆ボーカルユニット、アイドルグループ。[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")所属。レーベルは[FLIGHT MASTER](../Page/フライトマスター.md "wikilink")。
 
 ## 概要
 
   - ユニット名は北（[千葉と](../Page/千葉涼平.md "wikilink")[緒方が](../Page/緒方龍一.md "wikilink")[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身）と南（[橘が](../Page/橘慶太.md "wikilink")[福岡県](../Page/福岡県.md "wikilink")出身）の**風（wind）**が一つになって世界中に届くようにと名付けられた。その他にも**勝つ（win）**という意味もある。また、「-」や「.」は結成当時[インターネット](../Page/インターネット.md "wikilink")が普及したことを受け、「ネット」でも自分たちを知ってもらいたいという願いも込められている。
-
-<!-- end list -->
-
   - R\&Bやヒップホップ、ダンスミュージックなど、一つのジャンルに留まらず多様な音楽の活動を行うのが特徴である。
-
-<!-- end list -->
-
   - [DA PUMPの後輩グループにあたり](../Page/DA_PUMP.md "wikilink")、デビュー曲は当時DA PUMPのメンバーであった[KENが振り付けを担当したほか](https://ja.wikipedia.org/wiki/KEN_\(DA_PUMP\) "wikilink")、お互いのライブで前座を務め合うなどの交流があった。
-
-<!-- end list -->
-
   - 2000年11月から[代々木公園](../Page/代々木公園.md "wikilink")や[渋谷](../Page/渋谷.md "wikilink")でストリートパフォーマンスを開始し、2001年3月のデビュー直前には渋谷ホコ天に8,000人を動員し、3月14日にシングル「[Forever Memories](../Page/Forever_Memories.md "wikilink")」でメジャーデビュー。同年の[第43回日本レコード大賞](https://ja.wikipedia.org/wiki/第43回日本レコード大賞 "wikilink")最優秀新人賞を受賞。1stアルバム『[w-inds.〜1st message〜](https://ja.wikipedia.org/wiki/w-inds.〜1st_message〜 "wikilink")』が初登場1位を獲得。翌2002年には、[紅白歌合戦に初出場を果たす](../Page/NHK紅白歌合戦.md "wikilink")。
-
-<!-- end list -->
-
   - 2004年、初の海外単独公演を[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")で開催する。なお台湾では、3rdアルバム『[w-inds.〜PRIME OF LIFE〜](https://ja.wikipedia.org/wiki/w-inds.PRIME_OF_LIFE "wikilink")』が総合チャートで1位を獲得。日本人男性歌手としては初、女性を含めても[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")と[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")に次いで史上3組目であった。2006年には宇多田ヒカルと浜崎あゆみを抜き、台湾にてアルバム4作連続首位獲得という外国人アーティスト初の快挙を成し遂げた。
-
-<!-- end list -->
-
   - 以降も、[中国](../Page/中華人民共和国.md "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")で原盤リリース、ライブ開催等を行い、各国で様々なアワードを受賞。また、[タイ](../Page/タイ王国.md "wikilink")、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")へも国際レベルのイベント参加等を通じて相次いで進出している。2009年11月7日付の[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")紙上のインタビューでは、[橘慶太](../Page/橘慶太.md "wikilink")が「マレーシアやシンガポールでライブをやりたい」と語るなど、より一層のアジア圏進出への熱意を表明し、日本国内だけでなく東アジア圏などの海外を勢力範囲として音楽活動を続けている。
-
-<!-- end list -->
-
   - 2014年、2004年リリースされたアルバム『[w-inds.PRIME OF LIFE](https://ja.wikipedia.org/wiki/w-inds.PRIME_OF_LIFE "wikilink")』をはじめ2012年までに合計10作品でIFPI香港 Top Sales Music Awardベストセールスリリース日韓部門を受賞した功績により、功労賞が授与された。
-
-<!-- end list -->
-
-  - グループカラーは青。これまでは2005年にリリースされたアルバム『[ageha](https://ja.wikipedia.org/wiki/ageha "wikilink")』のジャケットアートに因み、各メンバーごとにイメージカラー（[涼平](../Page/千葉涼平.md "wikilink")：青、[慶太](../Page/橘慶太.md "wikilink")：黄→2006年より赤、[龍一](../Page/緒方龍一.md "wikilink")：緑）が割り当てられ、公式サインライトの色等に用いられていたが、2009年夏よりグループ統一のイメージカラーとして定められており、ライブでのサインライト使用も青色に制限されている。青色が選ばれたのは当時のマネージャーの発案によるもので、サッカー日本代表のユニフォームカラーに由来し、音楽界の日本代表を目指す意が込められている。なお、メンバーカラーは現在でも衣裳や公式ライブグッズ等に用いられることがある。例えば、35thシングル「In Love With The Music」のミュージックビデオで各メンバーカラーの衣装を着用している。
-
-<!-- end list -->
-
-  - 2020年6月1日 - 所属事務所が2020年5月31日付けでメンバーの緒方龍一が[心身症](../Page/心身症.md "wikilink")のため脱退・契約終了を発表。今後は、橘・千葉の2人でグループ活動を継続することを発表した｡
+  - グループカラーは青。これまでは2005年にリリースされたアルバム『[ageha](https://ja.wikipedia.org/wiki/ageha_\(w-inds.のアルバム\) "wikilink")』のジャケットアートにちなみ、各メンバーごとにイメージカラー（[涼平](../Page/千葉涼平.md "wikilink")：青、[慶太](../Page/橘慶太.md "wikilink")：黄→2006年より赤、[龍一](../Page/緒方龍一.md "wikilink")：緑）が割り当てられ、公式サインライトの色等に用いられていたが、2009年夏よりグループ統一のイメージカラーとして定められており、ライブでのサインライト使用も青色に制限されている。青色が選ばれたのは当時のマネージャーの発案によるもので、サッカー日本代表のユニフォームカラーに由来し、音楽界の日本代表を目指す意が込められている。なお、メンバーカラーは現在でも衣裳や公式ライブグッズ等に用いられることがある。例えば、35thシングル「In Love With The Music」のミュージックビデオで各メンバーカラーの衣装を着用している。
+  - 2020年6月1日 - 所属事務所が2020年5月31日付けでメンバーの緒方龍一が[心身症](../Page/心身症.md "wikilink")のため脱退・契約終了を発表。今後は、橘・千葉の2人でグループ活動を継続することを発表した。
 
 ## 主な出演・開催イベント
 
@@ -76,7 +52,7 @@
       - 9月30日、福岡県北九州市八幡東区のスペースワールド駅前にて開催された「北九州博覧祭記念」に出演。
       - 11月2日、南日本放送イベントに出演。
       - 11月4日、ファミリーマート主催のイベントに出演。
-      - 10月?日、「Paradox』発売イベントを全国5ヶ所で行った。
+      - 10月?日、「Paradox」発売イベントを全国5ヶ所で行った。
       - 11月10日、9月1日にファンクラブ「w-inds.day」を発足した後、初となるファンクラブイベント「w-inds. FAN CLUB EVENT 2001」をSHIBUYA-AXにて開催。
       - 12月24日、国立代々木競技場オリンピックプラザにて「w-inds.〜1st message〜」発売記念クリスマスイベントを開催。
 
@@ -114,7 +90,7 @@
       - 2月22日、｢いろメロミックス｣内パケラジPRの為、Leadとともに記者会見に参加。
       - 3月6日、テレビ朝日主催｢w-inds.スペシャルLIVE｣を開催。
       - 3月30日～5月5日まで、[札幌、名古屋、福岡、大阪、東京](https://ja.wikipedia.org/wiki/札幌、名古屋、福岡、大阪、東京 "wikilink")にて「w-inds. museum 2005」を開催。
-      - 9月24日および25日、約10ヶ月振りとなる台湾単独公演「w-inds. Live Tour 2005 "ageha" In Taiwan」を新荘体育館にて開催。
+      - 9月24日および25日、約10か月振りとなる台湾単独公演「w-inds. Live Tour 2005 "ageha" In Taiwan」を新荘体育館にて開催。
       - 11月26日、[渋谷](../Page/渋谷.md "wikilink")で行われた「コスモアースコンシャス アクト クリーンキャンペーン in 東京」に参加、事前にweb上で参加申込みされた約400名と渋谷の街を清掃した。
 
 <!-- end list -->
@@ -134,7 +110,7 @@
       - 5月26日、さいたまスーパーアリーナにて行なわれた、「MTV VIDEO MUSIC AWARDS JAPAN 2007」に出演。
       - 7月2日、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")返還10周年記念イベントPOP ROCK GALAにゲスト出演。
           - IFPI香港ベストセールス賞を贈呈された。
-      - 11月10日および11日、約2年2ヶ月振りとなる台湾単独公演「w-inds.Live Tour 2007 \~Journey\~ in Taiwan」を台北ドームにて開催。
+      - 11月10日および11日、約2年2か月振りとなる台湾単独公演「w-inds.Live Tour 2007 \~Journey\~ in Taiwan」を台北ドームにて開催。
 
 <!-- end list -->
 
@@ -190,7 +166,7 @@
       - 4月29日、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")で開催されたE-DA SUPER ASIA Music Festivalにライブパフォーマンスゲストとして参加。
       - 6月23日、幕張メッセにて行なわれた、「MTV VIDEO MUSIC AWARDS JAPAN 2012」に出演。
       - 8月24日、「お台場合衆国 めざましライブ2012」に出演。
-      - 10月20日、約11ヶ月振りとなる香港単独公演「w-inds. LIVE TOUR 2012 "MOVE LIKE THIS" in HONG KONG」をKitec - Star Hall（九龍灣國際展貿中心- 匯星）にて開催。
+      - 10月20日、約11か月振りとなる香港単独公演「w-inds. LIVE TOUR 2012 "MOVE LIKE THIS" in HONG KONG」をKitec - Star Hall（九龍灣國際展貿中心- 匯星）にて開催。
 
 <!-- end list -->
 
@@ -202,7 +178,7 @@
 <!-- end list -->
 
   - 2014年
-      - 1月18日、約1年2ヶ月振りとなる香港単独公演「w-inds. LIVE TOUR "AWAKE"in Hong Kong」をAsia World Expo：Arena Hall 1（亜洲博覧館Hall 1）にて開催。
+      - 1月18日、約1年2か月振りとなる香港単独公演「w-inds. LIVE TOUR "AWAKE"in Hong Kong」をAsia World Expo：Arena Hall 1（亜洲博覧館Hall 1）にて開催。
       - 2月23日、フィリピン台風被災児童支援チャリティーイベントに出演。
       - 6月11日、「代々木凱旋フリーミニライブ」を代々木公園 野外ステージにて開催。2000年11月26日に代々木公園で3人しかいないお客さんの前で初のストリートライブを行なってから4945日、デビュー14年目に突入したw-inds.がデビュー当時にストリートライブをしていた代々木公園にて、凱旋フリーミニライブを行った。
       - 6月14日、[MTV Video Music Awards Japanで](../Page/MTV_Video_Music_Awards_Japan.md "wikilink")[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")、[道重さゆみ](https://ja.wikipedia.org/wiki/道重さゆみ "wikilink")と共にMCを務めた。
@@ -210,10 +186,10 @@
       - 8月9日、神奈川県・リビエラ逗子マリーナ特設会場（神奈川県逗子市小坪5-23-16）にて開催された「MTV ZUSHI FES 14 supported by RIVIERA」に出演。
       - 8月14日、東京・国立代々木競技場第一体育館にて開催された「a-nation island powered by inゼリー　Asia Progress 〜from a-nation〜」に出演。
       - 9月13日、台北 南港101文創会館にて開催された[a-nation](https://ja.wikipedia.org/wiki/a-nation "wikilink")初の海外公演となるa-nation Taiwanに出演。
-      - 10月4日、約9ヶ月振りとなる香港単独公演「w-inds. LIVE TOUR 2014 “Timeless”in Hong Kong」をKowLoon Bay KITEC-Star Hall　（九龍灣國際展貿中心- 匯星）にて開催。
+      - 10月4日、約9か月振りとなる香港単独公演「w-inds. LIVE TOUR 2014 “Timeless”in Hong Kong」をKowLoon Bay KITEC-Star Hall　（九龍灣國際展貿中心- 匯星）にて開催。
       - 11月23日、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")にてSUPER GIRLS EXPO最強美少女博覧会に出演。
       - 11月29日、「第8回アジア国際子ども映画祭」に出演。
-      - 12月26日～28日、舞浜アンフィシアターにて開催された「RISING福島復興支援コンサート」に出演。橘慶太と緒方龍一が高熱を発生したため医師の診察を受けたところ「インフルエンザA型」と診断され、医師より完治するまでの約1週間を外出禁止という判断が下った為、w-inds.としての参加を取り止め。w-inds.としてのパフォーマンスはが、千葉涼平のみはイベントに参加。
+      - 12月26日～28日、舞浜アンフィシアターにて開催された「RISING福島復興支援コンサート」に出演。橘慶太と緒方龍一が高熱を発生したため医師の診察を受けたところ「インフルエンザA型」と診断され、医師より完治するまでの約1週間を外出禁止という判断が下ったため、w-inds.としての参加を取り止め。w-inds.としてのパフォーマンスはが、千葉涼平のみはイベントに参加。
 
 <!-- end list -->
 
@@ -225,7 +201,7 @@
       - 8月1日および2日、「RISING PEACE FES 2015」に出演。
       - 9月2日、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")・レイテ島のドゥラグ町ダカイ小学校校舎完成式典に出席。同校と同町サンラファエル小学校校舎は、2013年11月にフィリピンを襲った台風災害に対して、2014年2月所属事務所主催のチャリティコンサートを行った収益により再建された。式典でw-inds.は[ミニコンサート](https://www.facebook.com/ICAN.NGO/videos/vb.388967961221139/872362726214991/?type=2&theater)を行った。また寄付先であるNGO団体[ICAN](http://www.ican.or.jp/)が運営するマニラ市の路上生活児童保護施設も訪問した。
       - 10月18日、「スポーツ・オブ・ハート 2015 応援ライブ」に出演。
-      - 11月1日、約1年1ヶ月振りとなる香港単独公演「w-inds. LIVE TOUR 2015"Blue Blood" in Hong Kong」をKowLoon Bay KITEC-Star Hall（九龍灣國際展貿中心- 匯星）にて開催。翌11月2日、在香港日本国総領事館にて松田邦紀総領事より「在外公館長表彰(総領事表彰)」を授与された。
+      - 11月1日、約1年1か月振りとなる香港単独公演「w-inds. LIVE TOUR 2015"Blue Blood" in Hong Kong」をKowLoon Bay KITEC-Star Hall（九龍灣國際展貿中心- 匯星）にて開催。翌11月2日、在香港日本国総領事館にて松田邦紀総領事より「在外公館長表彰(総領事表彰)」を授与された。
       - 11月28日、「第9回アジア国際子ども映画祭」に出演。
 
 <!-- end list -->
@@ -265,7 +241,7 @@
       - 9月23日、「DOBERMAN INFINITY Presents D.Island 2018」に出演。
       - 10月04日、「第2回 日・ASEAN音楽祭」に出演。
       - 11月24日、「第12回 アジア国際子ども映画祭」に出演。
-      - 12月8日、約1年1ヶ月振りとなる香港単独公演「w-inds. LIVE TOUR 2018 "100" in Hong Kong」をKitec-Star Hall　九龍湾国際展覧中心‐匯星にて開催。
+      - 12月8日、約1年1か月振りとなる香港単独公演「w-inds. LIVE TOUR 2018 "100" in Hong Kong」をKitec-Star Hall　九龍湾国際展覧中心‐匯星にて開催。
 
 <!-- end list -->
 
@@ -281,7 +257,7 @@
       - 10月20日、豊洲PITにて「w-inds. Fes ADSR 2019 –Attitude Dance Sing Rhythm-」を開催。
       - 10月27日、堂島リバーフォーラム（大阪府）にて開催された「MONSTER HALLOWEEN CARNIVAL2019 powered by ytv CUNE\!」に出演。
       - 11月3日、豊崎美らSUNビーチ（沖縄県豊見城市）にて開催された「ドゥシフェス2019」に出演。
-      - 11月30日、上海で約8年振りとなる単独公演「w-inds. LIVE TOUR 2019 "Future/Past" in SHANGHAI」を上海国家会展中心虹館EH(Shanghai National Exhibition and Convention Center）にて開催。
+      - 11月30日、上海で約8年振りとなる単独公演「w-inds. LIVE TOUR 2019 "Future/Past" in SHANGHAI」を上海国家会展中心虹館EH（Shanghai National Exhibition and Convention Center）にて開催。
       - 12月3日、東京・LUMINE 0ホールにて「『ストップ・オレオレ詐欺47～家族の絆作戦～』プロジェクトチーム決起集会2019」が行われ、警察庁「ストップ・オレオレ詐欺47〜家族の絆作戦～」プロジェクトチーム（略称：SOS47）の特別防犯支援官として出演。
       - 12月6日および7日、兵庫県・南あわじ市（淡路島）にて出演を予定していた「アジア国際子ども映画祭」の前日イベント「南あわじ市再発見の旅～w-inds.とファンの皆さんの世界初へのチャレンジ～」に、契約上の瑕疵があり、関係各所と協議の上、中止。
       - 12月7日、兵庫県・南あわじ市（淡路島）にて開催された「第13回アジア国際子ども映画祭」に出演。
@@ -289,7 +265,7 @@
 <!-- end list -->
 
   - 2020年
-      - 1月5日、台北で約10年2ヶ月振りとなる単独公演「w-inds. LIVE TOUR 2019 "Future/Past" in TAIPEI」を新北市新荘體育館にて開催。
+      - 1月5日、台北で約10年2か月振りとなる単独公演「w-inds. LIVE TOUR 2019 "Future/Past" in TAIPEI」を新北市新荘體育館にて開催。
 
 ## メンバー
 
@@ -310,7 +286,7 @@
 ちば りょうへい</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a><a href="https://ja.wikipedia.org/wiki/札幌市" title="wikilink">札幌市</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ABO式血液型" title="wikilink">B型</a></p></td>
+<td><p><a href="../Page/ABO式血液型.md" title="wikilink">B型</a></p></td>
 <td><p>青</p></td>
 <td><p>リーダー<br />
 ダンス＆コーラス・ラップ</p></td>
@@ -320,7 +296,7 @@
 たちばな けいた</p></td>
 <td></td>
 <td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a><a href="https://ja.wikipedia.org/wiki/福岡市" title="wikilink">福岡市</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ABO式血液型" title="wikilink">B型</a></p></td>
+<td><p><a href="../Page/ABO式血液型.md" title="wikilink">B型</a></p></td>
 <td><p>赤</p></td>
 <td><p>ボーカル＆ダンス</p></td>
 </tr>
@@ -347,11 +323,11 @@
 おがた りゅういち</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a><a href="https://ja.wikipedia.org/wiki/札幌市" title="wikilink">札幌市</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ABO式血液型" title="wikilink">O型</a></p></td>
+<td><p><a href="../Page/ABO式血液型.md" title="wikilink">O型</a></p></td>
 <td><p>緑</p></td>
 <td><p>ダンス＆コーラス・ラップ</p></td>
-<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/5月31日.md" title="wikilink">5月31日</a>をもって脱退し[1]、<br />
-同時に芸能界も引退。</p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/5月31日.md" title="wikilink">5月31日</a>をもって脱退。[1]、<br />
+</p></td>
 </tr>
 </tbody>
 </table>
@@ -765,14 +741,14 @@ c/w「Love or Leave」（全盤共通）<br />
 | 1  | **[w-inds.〜1st message〜](https://ja.wikipedia.org/wiki/w-inds.〜1st_message〜 "wikilink")**               | 2001年12月19日 |                                           | 1位  |
 | 2  | **[w-inds.〜THE SYSTEM OF ALIVE〜](https://ja.wikipedia.org/wiki/w-inds.THE_SYSTEM_OF_ALIVE "wikilink")** | 2002年12月18日 | [CCCD](../Page/コピーコントロールCD.md "wikilink") | 3位  |
 | 3  | **[w-inds.〜PRIME OF LIFE〜](https://ja.wikipedia.org/wiki/w-inds.PRIME_OF_LIFE "wikilink")**             | 2003年12月17日 | CCCD                                      | 5位  |
-| 4  | **[ageha](https://ja.wikipedia.org/wiki/ageha "wikilink")**                                             | 2005年6月1日   | CD/CD+DVD                                 | 1位  |
+| 4  | **[ageha](https://ja.wikipedia.org/wiki/ageha_\(w-inds.のアルバム\) "wikilink")**                            | 2005年6月1日   | CD/CD+DVD                                 | 1位  |
 | 5  | **[THANKS](../Page/THANKS_\(w-inds.のアルバム\).md "wikilink")**                                             | 2006年3月15日  |                                           | 4位  |
 | 6  | **[Journey](../Page/Journey_\(w-inds.のアルバム\).md "wikilink")**                                           | 2007年3月7日   | CD/CD+DVD                                 | 8位  |
 | 7  | **[Seventh Ave.](../Page/Seventh_Ave..md "wikilink")**                                                  | 2008年7月2日   | CD/CD+DVD                                 | 10位 |
 | 8  | **[Another World](https://ja.wikipedia.org/wiki/Another_World_\(w-inds.のアルバム\) "wikilink")**            | 2010年3月10日  | CD/CD+DVD                                 | 7位  |
 | 9  | **[MOVE LIKE THIS](https://ja.wikipedia.org/wiki/MOVE_LIKE_THIS "wikilink")**                           | 2012年7月4日   | CD/CD+DVD                                 | 4位  |
 | 10 | **[Timeless](https://ja.wikipedia.org/wiki/Timeless_\(w-inds.のアルバム\) "wikilink")**                      | 2014年7月9日   | CD/CD+DVD                                 | 8位  |
-| 11 | **[Blue Blood](https://ja.wikipedia.org/wiki/Blue_Blood "wikilink")**                                   | 2015年7月8日   | CD/CD+DVD                                 | 11位 |
+| 11 | **[Blue Blood](https://ja.wikipedia.org/wiki/Blue_Blood_\(w-inds.のアルバム\) "wikilink")**                  | 2015年7月8日   | CD/CD+DVD                                 | 11位 |
 | 12 | **[INVISIBLE](https://ja.wikipedia.org/wiki/INVISIBLE_\(w-inds.のアルバム\) "wikilink")**                    | 2017年3月15日  | CD/CD+DVD/2CD+BD                          | 4位  |
 | 13 | **[100](https://ja.wikipedia.org/wiki/100_\(w-inds.のアルバム\) "wikilink")**                                | 2018年7月4日   | CD/CD+BD                                  | 11位 |
 
@@ -1452,7 +1428,7 @@ c/w「Love or Leave」（全盤共通）<br />
 9月14日 <a href="https://ja.wikipedia.org/wiki/大宮ソニックシティ_大ホール" title="wikilink">大宮ソニックシティ 大ホール</a><br />
 9月22日 <a href="https://ja.wikipedia.org/wiki/日本特殊陶業市民会館_フォレストホール" title="wikilink">日本特殊陶業市民会館 フォレストホール</a><br />
 10月4日 <a href="https://ja.wikipedia.org/wiki/東京国際フォーラム_ホールA" title="wikilink">東京国際フォーラム ホールA</a><br />
-11月30日 <a href="https://ja.wikipedia.org/wiki/上海国家会展中心虹館EH(Shanghai_National_Exhibition_and_Convention_Center）" title="wikilink">上海国家会展中心虹館EH(Shanghai National Exhibition and Convention Center）</a><br />
+11月30日 上海国家会展中心虹館EH（Shanghai National Exhibition and Convention Center）<br />
 2020年1月5日 <a href="https://ja.wikipedia.org/wiki/新北市新荘體育館" title="wikilink">新北市新荘體育館</a><br />
 </p></td>
 </tr>
@@ -1955,7 +1931,7 @@ c/w「Love or Leave」（全盤共通）<br />
 | 8  | 2009年（[第51回](https://ja.wikipedia.org/wiki/第51回日本レコード大賞 "wikilink")） | [Rain Is Fallin'](https://ja.wikipedia.org/wiki/Rain_Is_Fallin' "wikilink")    | 優秀作品賞（大賞ノミネート作品）        |
 | 9  | 2010年（[第52回](https://ja.wikipedia.org/wiki/第52回日本レコード大賞 "wikilink")） | [New World](https://ja.wikipedia.org/wiki/New_World "wikilink")                | 優秀作品賞（大賞ノミネート作品）        |
 
-#### NHK 紅白歌合戦
+#### NHK紅白歌合戦出場歴
 
 | \# | 年度（放送回）                                                              | タイトル                                                                 | 出演順    | 対戦相手                                                                                 |
 | -- | -------------------------------------------------------------------- | -------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------ |
@@ -2037,7 +2013,7 @@ c/w「Love or Leave」（全盤共通）<br />
 
   - [ドワンゴ](../Page/ドワンゴ.md "wikilink") [パケットラジオ](https://ja.wikipedia.org/wiki/パケットラジオ "wikilink") 『w-inds.のパケラジドリーム』 （2005年 - 2006年12月25日／全96回）
   - [GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink") [w-inds.デビュー6周年特別企画番組『w-inds.road](http://www.gyao.jp/keyword/ikemen/)』（2007年3月14日 - 5月7日）
-  - GyaO『[音楽番組を板尾創路](../Page/音楽番組を板尾創路.md "wikilink")』（2008年1月9日 - 1月16日,2008年4月23日 - 5月22日)
+  - GyaO『[音楽番組を板尾創路](../Page/音楽番組を板尾創路.md "wikilink")』（2008年1月9日 - 1月16日,2008年4月23日 - 5月22日）
   - 携帯デコレーションメールサイト「デコガール」にてW-inds.デコメ配信中。（2008年3月 - ）
 
 ## 書籍
@@ -2119,7 +2095,7 @@ c/w「Love or Leave」（全盤共通）<br />
 
   - Yahoo\!Hongkong Buzz Music Awards ： The Best International Group 2005
 
-  - IFPI香港ベストセールス賞日韓部門 best seller album 2005 （『**[ageha](https://ja.wikipedia.org/wiki/ageha "wikilink")**』）
+  - IFPI香港ベストセールス賞日韓部門 best seller album 2005 （『**[ageha](https://ja.wikipedia.org/wiki/ageha_\(w-inds.のアルバム\) "wikilink")**』）
 
 <!-- end list -->
 
@@ -2183,7 +2159,7 @@ c/w「Love or Leave」（全盤共通）<br />
 
   - [第51回日本レコード大賞](https://ja.wikipedia.org/wiki/第51回日本レコード大賞 "wikilink") 優秀作品賞 （『**[Rain Is Fallin'](https://ja.wikipedia.org/wiki/Rain_Is_Fallin'/HYBRID_DREAM "wikilink")**』）
 
-      - “w-inds.×G-DRAGON([BIGBANG](https://ja.wikipedia.org/wiki/BIG_BANG "wikilink"))”と銘打ち、韓国のグループ[BIGBANGのG](https://ja.wikipedia.org/wiki/BIG_BANG "wikilink")-DRAGONとコラボレーションした作品
+      - “w-inds.×G-DRAGON([BIGBANG](https://ja.wikipedia.org/wiki/BIGBANG "wikilink"))”と銘打ち、韓国のグループ[BIGBANG](https://ja.wikipedia.org/wiki/BIGBANG "wikilink")のG-DRAGONとコラボレーションした作品
 
 <!-- end list -->
 
@@ -2313,6 +2289,6 @@ c/w「Love or Leave」（全盤共通）<br />
   -
   -
   -
-[Category:w-inds.](https://ja.wikipedia.org/wiki/Category:w-inds. "wikilink") [Category:ライジングプロダクション](https://ja.wikipedia.org/wiki/Category:ライジングプロダクション "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:バーニングプロダクション系列所属者](https://ja.wikipedia.org/wiki/Category:バーニングプロダクション系列所属者 "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本のボーイ・バンド](https://ja.wikipedia.org/wiki/Category:日本のボーイ・バンド "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:2000年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に結成した音楽グループ "wikilink") [Category:日本のラジオパーソナリティ](https://ja.wikipedia.org/wiki/Category:日本のラジオパーソナリティ "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink")
+[Category:w-inds.](https://ja.wikipedia.org/wiki/Category:w-inds. "wikilink") [Category:ライジングプロダクション](https://ja.wikipedia.org/wiki/Category:ライジングプロダクション "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:バーニングプロダクション系列所属者](https://ja.wikipedia.org/wiki/Category:バーニングプロダクション系列所属者 "wikilink") [Category:日本のポップ・アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・アイドルグループ "wikilink") [Category:日本の男性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の男性アイドルグループ "wikilink") [Category:日本のボーイ・バンド](https://ja.wikipedia.org/wiki/Category:日本のボーイ・バンド "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:日本のラジオパーソナリティ](https://ja.wikipedia.org/wiki/Category:日本のラジオパーソナリティ "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:2000年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に結成した音楽グループ "wikilink")
 
 1.

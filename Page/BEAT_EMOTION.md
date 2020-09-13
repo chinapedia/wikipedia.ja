@@ -1,11 +1,11 @@
 > この記事は[BEAT EMOTION](https://ja.wikipedia.org/wiki/BEAT_EMOTION)から翻訳されています。
 
 
-『**BEAT EMOTION**』（ビート・エモーション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")[BOØWY](../Page/BOOWY.md "wikilink")（ボウイ）の5枚目のアルバム。
+『**BEAT EMOTION**』（ビート・エモーション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")[BOØWY](../Page/BOØWY.md "wikilink")（ボウイ）の5枚目のアルバム。
 
 ## 背景
 
-前作『[JUST A HERO](../Page/JUST_A_HERO_\(BOOWYのアルバム\).md "wikilink")』（1986年）リリース後、全国ツアー最終日である7月2日に日本武道館単独公演を成功させ、同日に初のビデオ『[BOØWY VIDEO](../Page/BOOWY_VIDEO.md "wikilink")』をリリース、また7月31日には日本武道館のライブを収めた初のライブ・アルバム『[“GIGS” JUST A HERO TOUR 1986](../Page/“GIGS”_JUST_A_HERO_TOUR_1986.md "wikilink")』を10万枚限定でリリースし、ライブアルバムは売れないという定説を覆して完売するなど、人気はさらに上昇し続けていた。
+前作『[JUST A HERO](../Page/JUST_A_HERO_\(BOØWYのアルバム\).md "wikilink")』（1986年）リリース後、全国ツアー最終日である7月2日に日本武道館単独公演を成功させ、同日に初のビデオ『[BOØWY VIDEO](https://ja.wikipedia.org/wiki/BOØWY_VIDEO "wikilink")』をリリース、また7月31日には日本武道館のライブを収めた初のライブ・アルバム『[“GIGS” JUST A HERO TOUR 1986](../Page/“GIGS”_JUST_A_HERO_TOUR_1986.md "wikilink")』を10万枚限定でリリースし、ライブアルバムは売れないという定説を覆して完売するなど、人気はさらに上昇し続けていた。
 
 その最中、 前作においてサウンド面で納得のいくアルバムを作ることが出来たメンバーが、今度は商業面での成功、「チャート1位を狙う」という目的でレコーディングを開始する事となった。
 
@@ -87,7 +87,7 @@ ZH28-1743</p></td>
 <td><p>CD</p></td>
 <td><p>TOCT-6395</p></td>
 <td><p>2位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CD-BOX" title="wikilink">CD-BOX</a>『<a href="../Page/BOOWY_COMPLETE.md" title="wikilink">BOØWY COMPLETE</a> LIMITED EDITION』収録</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/CD-BOX" title="wikilink">CD-BOX</a>『<a href="../Page/BOØWY_COMPLETE.md" title="wikilink">BOØWY COMPLETE</a> LIMITED EDITION』収録</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -187,7 +187,7 @@ ZH28-1743</p></td>
     <!-- end list -->
       -
         4thシングル。制作段階では「TRUE BLUE」というタイトルだったが、[マドンナが同名のアルバムを発表したため](https://ja.wikipedia.org/wiki/マドンナ_\(歌手\) "wikilink")、タイトルが変更された。
-2.  **[ONLY YOU](../Page/ONLY_YOU_\(BOOWYの曲\).md "wikilink")** (4:10)
+2.  **[ONLY YOU](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOØWYの曲\) "wikilink")** (4:10)
       - 作詞：氷室京介 / 作曲・編曲：布袋寅泰
     <!-- end list -->
       -
@@ -251,7 +251,7 @@ ZH28-1743</p></td>
 #### A面
 
 1.  **[B・BLUE](../Page/B・BLUE.md "wikilink")** (3:57)
-2.  **[ONLY YOU](../Page/ONLY_YOU_\(BOOWYの曲\).md "wikilink")** (4:10)
+2.  **[ONLY YOU](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOØWYの曲\) "wikilink")** (4:10)
 3.  **RUNAWAY TRAIN** (3:21)
 4.  **BEAT SWEET** (3:22)
 5.  **NOISE LIMITTER** (2:40)
@@ -279,7 +279,7 @@ ZH28-1743</p></td>
 ### CD版
 
 1.  **[B・BLUE](../Page/B・BLUE.md "wikilink")** (3:57)
-2.  **[ONLY YOU](../Page/ONLY_YOU_\(BOOWYの曲\).md "wikilink")** (4:10)
+2.  **[ONLY YOU](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOØWYの曲\) "wikilink")** (4:10)
 3.  **RUNAWAY TRAIN** (3:21)
 4.  **BEAT SWEET** (3:22)
 5.  **NOISE LIMITTER** (2:40)
@@ -304,10 +304,10 @@ ZH28-1743</p></td>
 
 **参加ミュージシャン**
 
-  - 松武秀樹 - [シンセサイザー](../Page/シンセサイザー.md "wikilink")・オペレーター
+  - [松武秀樹](../Page/松武秀樹.md "wikilink") - [シンセサイザー](../Page/シンセサイザー.md "wikilink")・オペレーター
   - 鈴木浩之 - シンセサイザー・オペレーター
   - 田久保誓一 - シンセサイザー・オペレーター
-  - 矢口博康 - [サックス](../Page/サクソフォーン.md "wikilink")
+  - [矢口博康](https://ja.wikipedia.org/wiki/矢口博康 "wikilink") - [サックス](../Page/サクソフォーン.md "wikilink")
   - [ホッピー神山](../Page/ホッピー神山.md "wikilink") - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - [山下久美子](../Page/山下久美子.md "wikilink") - コーラス（クレジット表記なし）
 

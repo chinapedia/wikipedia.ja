@@ -525,7 +525,7 @@
 <tr class="even">
 <td><p>グレース</p></td>
 <td><p>♀</p></td>
-<td><p><a href="../Page/朴ロ美.md" title="wikilink">朴璐美</a></p></td>
+<td><p><a href="../Page/朴璐美.md" title="wikilink">朴璐美</a></p></td>
 <td><p><a href="../Page/オーストラリア.md" title="wikilink">オーストラリア</a></p></td>
 <td><p>23歳</p></td>
 <td><p>×</p></td>
@@ -631,7 +631,7 @@
 <tr class="even">
 <td><p>サギリ</p></td>
 <td><p>♀</p></td>
-<td><p><a href="../Page/日高のり子.md" title="wikilink">日高のり子</a></p></td>
+<td><p><a href="../Page/日髙のり子.md" title="wikilink">日髙のり子</a></p></td>
 <td><p>日本</p></td>
 <td><p>22歳</p></td>
 <td><p>×</p></td>
@@ -3234,7 +3234,7 @@
   -
   -
   -
-[Category:ソニー・コンピュータエンタテインメントのゲームソフト](https://ja.wikipedia.org/wiki/Category:ソニー・コンピュータエンタテインメントのゲームソフト "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:PlayStation_Portable用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable用ソフト "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:ゴルフゲーム](https://ja.wikipedia.org/wiki/Category:ゴルフゲーム "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:1997年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1997年のコンピュータゲーム "wikilink") [Category:コンピュータゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのシリーズ "wikilink") [Category:キャメロットのゲームソフト](https://ja.wikipedia.org/wiki/Category:キャメロットのゲームソフト "wikilink")
+[Category:ソニー・コンピュータエンタテインメントのゲームソフト](https://ja.wikipedia.org/wiki/Category:ソニー・コンピュータエンタテインメントのゲームソフト "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:PlayStation_Portable用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable用ソフト "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:ゴルフゲーム](https://ja.wikipedia.org/wiki/Category:ゴルフゲーム "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:1997年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1997年のコンピュータゲーム "wikilink") [Category:スポーツゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:スポーツゲームのシリーズ "wikilink") [Category:キャメロットのゲームソフト](https://ja.wikipedia.org/wiki/Category:キャメロットのゲームソフト "wikilink")
 
 1.  [株式会社QBQ](http://qbq.jp/)編　『プレイステーションクソゲー番付』マイウェイ出版発行、2018年。ISBN 9784865118346 p31
 2.  [GEIMIN.NET／国内歴代ミリオン出荷タイトル一覧](https://web.archive.org/web/20161101133440/http://geimin.net/da/db/m_domestic/index.php)、GEIMIN.NET、（2016年11月1日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）

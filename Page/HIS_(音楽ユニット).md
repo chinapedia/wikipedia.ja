@@ -5,7 +5,7 @@
 
 ## 概要
 
-[東芝EMIの創立](../Page/EMIミュージック・ジャパン.md "wikilink")30周年記念イベント「**ロックの生まれた日**」（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）で忌野と坂本が[三宅伸治](../Page/三宅伸治.md "wikilink")と3人で**SMI**を名乗り、[小林和生](https://ja.wikipedia.org/wiki/小林和生 "wikilink")がウッドベース、[ケニー・モズレー](https://ja.wikipedia.org/wiki/ケニー・モズレー "wikilink")がパーカッションとして参加し共演した。その後、細野晴臣をプロデューサー兼メンバーとして迎えてHISが誕生した。HISという名称は各人の頭文字を取ったものである。また、衣装は主に[学生服](../Page/学生服.md "wikilink")、[セーラー服](../Page/セーラー服.md "wikilink")を着用した。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、[東芝EMIの創立](../Page/EMIミュージック・ジャパン.md "wikilink")30周年記念イベント「**ロックの生まれた日**」で忌野と坂本が[三宅伸治](../Page/三宅伸治.md "wikilink")と3人で**SMI**を名乗り、[小林和生](https://ja.wikipedia.org/wiki/小林和生 "wikilink")がウッドベース、[ケニー・モズレー](https://ja.wikipedia.org/wiki/ケニー・モズレー "wikilink")がパーカッションとして参加した。その後、細野晴臣をプロデューサー兼メンバーとして迎えてHISが誕生した。HISという名称は各人の頭文字を取ったものである。また、衣装は主に[学生服](../Page/学生服.md "wikilink")、[セーラー服](../Page/セーラー服.md "wikilink")を着用した。
 
 [1991年](../Page/1991年.md "wikilink")、アルバム『**日本の人**』発表。「**ロックが生まれた日**」では演奏した7曲全てがカバー曲だったが、アルバムではカバー曲を14曲中5曲にとどめ、あとはオリジナル曲となった。
 
@@ -52,4 +52,4 @@
   -
     [NHKラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")「[旅するラジオ こんにちは\!80ちゃんです](https://ja.wikipedia.org/wiki/こんにちは!80ちゃんです "wikilink")」テーマ曲。カップリング曲の「幸せハッピー」ともども作詞・忌野、作曲・細野だが、坂本冬美名義。この2曲は2016年12月に再々発売された『日本の人』SHM-CD版にボーナストラックとして収録されている。
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:細野晴臣](https://ja.wikipedia.org/wiki/Category:細野晴臣 "wikilink") [Category:忌野清志郎](https://ja.wikipedia.org/wiki/Category:忌野清志郎 "wikilink")
+[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:細野晴臣](https://ja.wikipedia.org/wiki/Category:細野晴臣 "wikilink") [Category:忌野清志郎](https://ja.wikipedia.org/wiki/Category:忌野清志郎 "wikilink")

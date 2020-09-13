@@ -7,7 +7,7 @@
 
 水曜 - 金曜に[NRNナイター](../Page/全国ラジオネットワーク.md "wikilink")（キー局：[ニッポン放送](../Page/ニッポン放送.md "wikilink")）をネットして放送する番組。
 
-他地方のNRNクロスネット局と同様に、[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")戦中心の編成となっており、同じ[近畿圏の在阪AM局](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")（[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")・[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）の[阪神タイガース](../Page/阪神タイガース.md "wikilink")戦中心の編成とは異なる。このため、これらの局と中継カードが重なることは少ない。和歌山県内で聴取できるラジオ局としては、海を挟んだ隣の[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")にある[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")の『[JRTゴールデンナイター](../Page/JRTゴールデンナイター.md "wikilink")』とは中継カードが全く同一になる\[1\]。また、ABCやMBSが制作を担当するゲームをネットすることもある（[後述](https://ja.wikipedia.org/wiki/#制作担当局 "wikilink")）。
+他地方のNRNクロスネット局と同様に、[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")戦中心の編成となっており、同じ[近畿圏の在阪AM局](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")（[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")・[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）の[阪神タイガース](../Page/阪神タイガース.md "wikilink")戦中心の編成とは異なる。このため、これらの局と中継カードが重なることは少ない。和歌山県内で聴取できるラジオ局としては、海を挟んだ隣の[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")にある[四国放送](../Page/四国放送.md "wikilink")の『[JRTゴールデンナイター](../Page/JRTゴールデンナイター.md "wikilink")』とは中継カードが全く同一になる\[1\]。また、ABCやMBSが制作を担当するゲームをネットすることもある（[後述](https://ja.wikipedia.org/wiki/#制作担当局 "wikilink")）。
 
 [2009年](../Page/2009年.md "wikilink")までは、火・土・日曜に[JRNナイター](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")（キー局：[TBSラジオ](../Page/TBSラジオ.md "wikilink")）を編成。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に土・日曜が、[2018年](../Page/2018年.md "wikilink")から火曜の放送がなくなったため、NRNのみの3日間の編成に縮小された。各曜日とも後番組には、TBSラジオ制作の定時番組を編成（土・日は、後に独自編成に移行）。
 

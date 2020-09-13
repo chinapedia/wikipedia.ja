@@ -5,7 +5,7 @@
 
 ## 概要
 
-1981年4月6日放送開始。番組名に冠している通り、自動車メーカーである[スズキ株式会社の一社提供番組となっている](../Page/スズキ_\(企業\).md "wikilink")\[1\]。番組構成は、通勤前の[サラリーマン](../Page/サラリーマン.md "wikilink")や[OL](../Page/OL.md "wikilink")、通学前の[学生](https://ja.wikipedia.org/wiki/学生 "wikilink")、これから家事をはじめる主婦に、パーソナリティがその週で決められたお題について、[コラム](https://ja.wikipedia.org/wiki/コラム "wikilink")を語る\[2\]。番組のクライマックスでは必ずエールとして、**「それではまた明日（金曜の場合は「来週の月曜日に」）お会いしましょう。お相手は**（パーソナリティの氏名）**でした。今日も一日お元気で、いってらっしゃい。」**と番組を締め括るメッセージ的な内容になっている\[3\]\[4\]。
+1981年4月6日放送開始。番組名に冠している通り、自動車メーカーである[スズキ株式会社の一社提供番組となっている](../Page/スズキ_\(企業\).md "wikilink")\[1\]。番組構成は、通勤前の[サラリーマン](../Page/サラリーマン.md "wikilink")や[OL](../Page/OL.md "wikilink")、通学前の[学生](https://ja.wikipedia.org/wiki/学生 "wikilink")、これから家事をはじめる主婦に、パーソナリティがその週で決められたお題について、[コラム](https://ja.wikipedia.org/wiki/コラム "wikilink")を語る\[2\]。番組のクライマックスでは必ず、**「それではまた明日（金曜の場合は「来週の月曜日に」）お会いしましょう。お相手は**（パーソナリティの氏名）**でした。今日も一日お元気で、いってらっしゃい。」**とリスナーにエールを送り番組を締め括る\[3\]\[4\]。
 
 パーソナリティは番組開始以後から38年間女優が担当していた。しかし2020年2月5日に番組を担当していた鈴木が自身の週刊誌による記事\[5\]により\[6\]\[7\]、鈴木の事務所が制作局のニッポン放送と協議の上、翌6日の放送回を最後に番組から降板\[8\]\[9\]。当面の間は内包先番組のアシスタントを務める、同局アナウンサーの新行がパーソナリティを担当する事が発表した\[10\]\[11\]\[12\]。その後、同年4月6日から羽田が受け持つ事を内包先の『飯田浩司のOK\! Cozy up\!』の番組内と『いってらっしゃい』の羽田の冒頭挨拶で発表した\[13\]。
 
@@ -72,8 +72,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北陸放送" title="wikilink">北陸放送</a>（MRO）</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/あさ*ダッシュ!" title="wikilink">角野達洋のあさ☀ダッシュ!（月曜.火曜<br />
-あさ☀ダッシュ!（水曜・木曜・金曜）</a>』内</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -108,7 +107,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a>（JRT）</p></td>
+<td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a>（JRT）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -269,13 +268,13 @@ Goodモーニング 守屋です（木曜・金曜）</a>』内</p></td>
 
 ## 外部リンク
 
-  - [SUZUKIハッピーモーニング 羽田美智子のいってらっしゃい](http://www.1242.com/hada/)
+  - [SUZUKIハッピーモーニング 羽田美智子のいってらっしゃい](https://www.1242.com/hada/)
 
 [Category:ニッポン放送の帯番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送の帯番組 "wikilink") [Category:スズキ一社提供番組](https://ja.wikipedia.org/wiki/Category:スズキ一社提供番組 "wikilink") [Category:ニッポン放送のミニ番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送のミニ番組 "wikilink") [Category:ニッポン放送の一社提供番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送の一社提供番組 "wikilink") [Category:1981年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1981年のラジオ番組_\(日本\) "wikilink") [Category:ラジオのミニ番組](https://ja.wikipedia.org/wiki/Category:ラジオのミニ番組 "wikilink") [Category:女優のラジオ番組](https://ja.wikipedia.org/wiki/Category:女優のラジオ番組 "wikilink")
 
 1.  [東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")発災以降と同様、ACジャパンでの対応ケース有
 2.
-3.  2020年4月8日放送分からは、[新型コロナウイルス感染拡大に伴う緊急事態宣言の影響で](../Page/2019新型コロナウイルス.md "wikilink")"外出自粛"が呼び掛けられていることから、番組タイトルでもある締め括りの言葉「いってらっしゃい」（＝外出を送り出す挨拶）が省かれている。
+3.  2020年4月8日放送分から5月29日放送分までは、[新型コロナウイルス感染拡大に伴う](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")[緊急事態宣言の影響で](../Page/新型インフルエンザ等対策特別措置法に基づく休業.md "wikilink")"外出自粛"が呼び掛けられていたことから、番組タイトルでもある締め括りの言葉「いってらっしゃい」（＝外出を送り出す挨拶）が省かれた
 4.  [ヒッチハイクに](https://ja.wikipedia.org/wiki/ヒッチハイク_\(放送\) "wikilink")[ACジャパン](../Page/ACジャパン.md "wikilink")CMが放送される
 5.
 6.  2020年2月6日放送分はニッポン放送のみ、同社の冠を外して放送

@@ -14,6 +14,7 @@
 ## 関連項目
 
   - [ノルマンディー上陸作戦](../Page/ノルマンディー上陸作戦.md "wikilink")
+  - [Xデー](../Page/Xデー.md "wikilink")
 
 [Category:アメリカ合衆国の軍事](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の軍事 "wikilink") [Category:軍事史](https://ja.wikipedia.org/wiki/Category:軍事史 "wikilink") [Category:6月](https://ja.wikipedia.org/wiki/Category:6月 "wikilink") [Category:西部戦線_(1944年‐1945年)](https://ja.wikipedia.org/wiki/Category:西部戦線_\(1944年‐1945年\) "wikilink")
 

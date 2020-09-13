@@ -1,7 +1,7 @@
 > この記事は[KREVA](https://ja.wikipedia.org/wiki/KREVA)から翻訳されています。
 
 
-**KREVA**（クレバ、[1976年](../Page/1976年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。[KICK THE CAN CREWのメンバーおよび](../Page/KICK_THE_CAN_CREW.md "wikilink")[FUNKY GRAMMAR UNIT](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")、[神輿ロッカーズ](https://ja.wikipedia.org/wiki/神輿ロッカーズ "wikilink")の一員。DJネームは908。所属レコード会社は[SPEEDSTAR RECORDS](../Page/SPEEDSTAR_RECORDS.md "wikilink")。所属レーベルは[くレーベル](../Page/くレーベル.md "wikilink")。
+**KREVA**（クレバ、[1976年](../Page/1976年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。[KICK THE CAN CREWのメンバーおよび](../Page/KICK_THE_CAN_CREW.md "wikilink")[FUNKY GRAMMAR UNIT](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")、[神輿ロッカーズ](https://ja.wikipedia.org/wiki/神輿ロッカーズ "wikilink")の一員。DJネームは908。所属レコード会社は[SPEEDSTAR RECORDS](../Page/SPEEDSTAR_RECORDS.md "wikilink")。所属レーベルは[くレーベル](../Page/くレーベル.md "wikilink")。既婚。
 
 ## 来歴
 
@@ -39,7 +39,7 @@
 
 ## 人物
 
-  - [血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[身長](../Page/身長.md "wikilink")178cm。名前の由来は[英単語](../Page/英語.md "wikilink")*clever*（「ずる賢い」の意）から。
+  - [血液型は](../Page/ABO式血液型.md "wikilink")[O型](../Page/ABO式血液型.md "wikilink")。[身長](../Page/身長.md "wikilink")178cm。名前の由来は[英単語](../Page/英語.md "wikilink")*clever*（「ずる賢い」の意）から。
   - [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")、[小柳ゆき](https://ja.wikipedia.org/wiki/小柳ゆき "wikilink")など様々なアーティストの楽曲のリミックスや客演等も行い、CUEZERO、 [SONOMIを率いて自らのレーベル](../Page/SONOMI_\(歌手\).md "wikilink")「[くレーベル](../Page/くレーベル.md "wikilink")」を発足し、プロデューサーとしても活動。[DJ TATSUTAと結成した](../Page/DJ_TATSUTA.md "wikilink")[顔PASSブラザーズ](https://ja.wikipedia.org/wiki/顔PASSブラザーズ "wikilink")、[BLAST RAMPAGEの](https://ja.wikipedia.org/wiki/BLAST_RAMPAGE "wikilink")[千晴](https://ja.wikipedia.org/wiki/千晴 "wikilink")と結成した[ストレスFREE](https://ja.wikipedia.org/wiki/ストレスFREE "wikilink")としても活動。
   - 「[B-BOY PARK](https://ja.wikipedia.org/wiki/B-BOY_PARK "wikilink")」の[MCバトル](https://ja.wikipedia.org/wiki/MCバトル "wikilink")\[2\] にて史上初の3連覇（[1999年](../Page/1999年.md "wikilink") - [2001年](../Page/2001年.md "wikilink")）を達成。2001年をもって大会殿堂入りを果たしている。
   - 2004年からソロ活動を始めた理由は、思いついたメロディや言葉を、聞こえてきたまま、形にしたかったからと述べている。また、グループだから聞かないという人に向けたものをやりたかったという\[3\]。ソロ活動開始当初は全都道府県の[ラジオ局](https://ja.wikipedia.org/wiki/ラジオ局 "wikilink")を訪ね、KICK THE CAN CREWの話は極力避けながら新人アーティストとしてプロモーション活動をしていた\[4\]。
@@ -221,7 +221,7 @@ CD+DVD</p></td>
 <tr class="even">
 <td><p>21st</p></td>
 <td><p>2014年2月5日</p></td>
-<td><p>トランキライザー</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/トランキライザー" title="wikilink">トランキライザー</a></p></td>
 <td><p>CD<br />
 CD+DVD</p></td>
 <td></td>
@@ -234,10 +234,10 @@ CD+DVD</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><small>インディーズ</small></p></td>
+<td><p>2020年6月24日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/素敵な時を重ねましょう" title="wikilink">素敵な時を重ねましょう</a>feat. <a href="https://ja.wikipedia.org/wiki/SONOMI" title="wikilink">SONOMI</a></p></td>
+<td><p>CDオフィシャルWebショップ限定販売</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -474,7 +474,7 @@ CD+DVD</p></td>
       - [Vo Vo Tau](../Page/Vo_Vo_Tau.md "wikilink")、アルバム『VVT 03』に収録
   - ラップおじいちゃん feat. [AMIDA](../Page/アミダ_\(ミュージシャン\).md "wikilink"), KREVA（2005年12月21日）
       - [餓鬼レンジャー](https://ja.wikipedia.org/wiki/餓鬼レンジャー "wikilink")、アルバム『GO 4 BROKE』に収録
-  - ウィークエンド・シャッフル feat. MCU, [RYO-Z](../Page/RYO-Z.md "wikilink"), KREVA, CUEZERO, [CHANNEL](../Page/CHANNEL.md "wikilink"), [KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink"), [SU](https://ja.wikipedia.org/wiki/SU "wikilink"), LITTLE, [ILMARI](../Page/ILMARI.md "wikilink"), [GAKU-MC](../Page/GAKU-MC.md "wikilink"), SONOMI, [PES](../Page/PES.md "wikilink"), [K.I.N](https://ja.wikipedia.org/wiki/K.I.N "wikilink"), 童子-T（2006年3月6日）
+  - ウィークエンド・シャッフル feat. MCU, [RYO-Z](../Page/RYO-Z.md "wikilink"), KREVA, CUEZERO, [CHANNEL](../Page/CHANNEL.md "wikilink"), [KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink"), [SU](../Page/SU_\(RIP_SLYME\).md "wikilink"), LITTLE, [ILMARI](../Page/ILMARI.md "wikilink"), [GAKU-MC](../Page/GAKU-MC.md "wikilink"), SONOMI, [PES](../Page/PES.md "wikilink"), [K.I.N](https://ja.wikipedia.org/wiki/K.I.N "wikilink"), 童子-T（2006年3月6日）
       - [RHYMESTER](../Page/RHYMESTER.md "wikilink")、アルバム『[HEAT ISLAND](../Page/HEAT_ISLAND_\(アルバム\).md "wikilink")』に収録
   - ライツ、カメラ、アクション Remix feat. KREVA（2006年5月3日）
       - レミー・マー、アルバム『THERE'S SOMETHING ABOUT REMY : BASED ON A TRUE STORY』に収録
@@ -546,9 +546,13 @@ CD+DVD</p></td>
   - [最後のニュース](../Page/最後のニュース.md "wikilink")（2019年11月27日）
       - オムニバスアルバム「井上陽水トリビュート」に収録
   - 嫌気がさすほど愛してる（feat. KREVA）（2020年1月1日）
-      - [香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")「[20200101](../Page/20200101.md "wikilink")」に収録
+      - [香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")、アルバム「[20200101](../Page/20200101.md "wikilink")」に収録
   - 「火事と喧嘩は江戸の華」 feat. KREVA（2020年2月19日）
-      - [石川さゆり](../Page/石川さゆり.md "wikilink")「粋～Iki～」に収録
+      - [石川さゆり](../Page/石川さゆり.md "wikilink")、アルバム「粋～Iki～」に収録
+  - 夢追人 feat. KREVA（2020年7月1日）
+      - [PUNPEE](https://ja.wikipedia.org/wiki/PUNPEE "wikilink")、配信アルバム「[The Sofakingdom](../Page/The_Sofakingdom.md "wikilink")」に収録
+  - One Mic feat. KREVA（2020年8月19日）
+      - [ZORN](https://ja.wikipedia.org/wiki/ZORN "wikilink")、配信シングル「[One Mic feat. KREVA](../Page/One_Mic_feat._KREVA.md "wikilink")」に収録
 
 ### リミックス
 
@@ -1114,7 +1118,7 @@ CD+DVD</p></td>
 <li><a href="../Page/ANARCHY.md" title="wikilink">ANARCHY</a></li>
 <li><a href="../Page/LB.md" title="wikilink">LB</a>(<a href="https://ja.wikipedia.org/wiki/LBとOtowa" title="wikilink">LBとOtowa</a>)</li>
 <li><a href="../Page/L-VOKAL.md" title="wikilink">L-VOKAL</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/MCU" title="wikilink">MCU</a></li>
+<li><a href="../Page/MCU_(ラッパー).md" title="wikilink">MCU</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/KLOOZ" title="wikilink">KLOOZ</a></li>
 <li><a href="../Page/KEN_THE_390.md" title="wikilink">KEN THE 390</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/サイプレス上野" title="wikilink">サイプレス上野</a></li>
@@ -1218,7 +1222,7 @@ CD+DVD</p></td>
 <li><a href="../Page/鈴木雅之_(歌手).md" title="wikilink">鈴木雅之</a></li>
 <li><a href="../Page/三浦大知.md" title="wikilink">三浦大知</a></li>
 <li><a href="../Page/RHYMESTER.md" title="wikilink">RHYMESTER</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/UL" title="wikilink">UL</a> ※Special Guest</li>
+<li><a href="../Page/UL_(ヒップホップ).md" title="wikilink">UL</a> ※Special Guest</li>
 <li>908FES HOUSE BAND</li>
 </ul>
 <p>(<a href="https://ja.wikipedia.org/wiki/熊井吾郎" title="wikilink">熊井吾郎</a>,<a href="../Page/柿崎洋一郎.md" title="wikilink">柿崎洋一郎</a>,<a href="https://ja.wikipedia.org/wiki/岡雄三" title="wikilink">岡雄三</a>,<a href="https://ja.wikipedia.org/wiki/近田潔人" title="wikilink">近田潔人</a>,<a href="https://ja.wikipedia.org/wiki/白根佳尚" title="wikilink">白根佳尚</a>)</p></td>

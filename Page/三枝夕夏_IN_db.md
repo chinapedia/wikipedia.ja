@@ -187,7 +187,7 @@
   - [三枝夕夏 IN db official website](http://www.uka-saegusa.com/)
   - [三枝夕夏 IN db ブログ](http://blog.livedoor.jp/uka_db/)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:過去のビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:過去のビーイング系列所属者 "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink") [Category:2010年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2010年に解散した音楽グループ "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:過去のビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:過去のビーイング系列所属者 "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink") [Category:2010年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2010年に解散した音楽グループ "wikilink")
 
 1.  [三枝夕夏 IN db「解散に迷いはありませんでした」](http://news.livedoor.com/article/detail/4408459/) 2009年10月22日 1時0分 [livedoor ニュース](https://ja.wikipedia.org/wiki/livedoor_ニュース "wikilink")
 2.  [Music Freak Magazine](https://ja.wikipedia.org/wiki/Music_Freak_Magazine "wikilink") Vol.91より。

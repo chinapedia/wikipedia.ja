@@ -298,7 +298,7 @@
 3.  M.B.MOOK『懐かしファミコンパーフェクトガイド』32ページ
 4.  [サウンドトラック](https://ja.wikipedia.org/wiki/#参考文献 "wikilink")。
 5.
-6.  ファン同士・[二次資料](https://ja.wikipedia.org/wiki/二次資料 "wikilink")・[CD](https://ja.wikipedia.org/wiki/CD "wikilink")取扱店（例えば[Amazon.co.jp](../Page/Amazon.co.jp.md "wikilink")）などでは「祈り（D.B.）」などと表記ないし周知されている場合がある。
+6.  ファン同士・[二次資料](../Page/二次資料.md "wikilink")・[CD](https://ja.wikipedia.org/wiki/CD "wikilink")取扱店（例えば[Amazon.co.jp](../Page/Amazon.co.jp.md "wikilink")）などでは「祈り（D.B.）」などと表記ないし周知されている場合がある。
 7.  本来の英語のつづりならAdventu**re**だが、なので誤記ではない。
 8.  厳密には[ハートの約物は線画](https://ja.wikipedia.org/wiki/ハート_\(シンボル\) "wikilink")（中ヌキ）が正しく、白や♥など一色（塗り潰し）のものは誤用。
 9.

@@ -412,6 +412,14 @@
 <tr class="even">
 <td><p>2019-20</p></td>
 <td><p>プレミアシップ</p></td>
+<td><p>29</p></td>
+<td><p>21</p></td>
+<td><p>4</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="odd">
+<td><p>2020-21</p></td>
+<td><p>プレミアシップ</p></td>
 <td><p>38</p></td>
 <td></td>
 <td></td>
@@ -430,7 +438,7 @@
 
 </div>
 
-([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))    ([第2主将](../Page/主将.md "wikilink"))
+([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))     ([第2主将](../Page/主将.md "wikilink"))
 
 ### ローン移籍
 
@@ -823,7 +831,7 @@
 
   - [シュテファン・クロス](https://ja.wikipedia.org/wiki/シュテファン・クロス "wikilink") 1998-2007
 
-  - [アラン・マクレガー](../Page/アラン・マクレガー.md "wikilink") 1998-2012
+  - [アラン・マクレガー](../Page/アラン・マクレガー.md "wikilink") 1998-2012, 2018-
 
   - [トーマス・ミューレ](../Page/トーマス・ミューレ.md "wikilink") 1999
 
@@ -851,9 +859,9 @@
 
   - [アーサー・ニューマン](https://ja.wikipedia.org/wiki/アーサー・ニューマン "wikilink") 1998-2003
 
-<!-- end list -->
-
   - [アンディ・ドゥーウィー](https://ja.wikipedia.org/wiki/アンディ・ドゥーウィー "wikilink") 1999-2004
+
+<!-- end list -->
 
   - [フェルナンド・リックセン](https://ja.wikipedia.org/wiki/フェルナンド・リックセン "wikilink") 2000-2006
 
@@ -871,7 +879,11 @@
 
   - [デヴィッド・ウィアー](../Page/デヴィッド・ウィアー_\(サッカー選手\).md "wikilink") 2007-2012
 
+  - [スティーヴン・ウィテカー](https://ja.wikipedia.org/wiki/スティーヴン・ウィテカー "wikilink") 2007-2012
+
   - [マジード・ブーゲッラ](https://ja.wikipedia.org/wiki/マジード・ブーゲッラ "wikilink") 2008-2011
+
+  - [ダニー・ウィルソン](https://ja.wikipedia.org/wiki/ダニー・ウィルソン "wikilink") 2009-2010, 2015-2018
 
 ### MF
 
@@ -919,7 +931,7 @@
 
   - [ペドロ・メンデス](../Page/ペドロ・メンデス.md "wikilink") 2008-2010
 
-  - [スティーヴン・デイヴィス](../Page/スティーヴン・デイヴィス.md "wikilink") 2008-2012
+  - [スティーヴン・デイヴィス](../Page/スティーヴン・デイヴィス.md "wikilink") 2008-2012, 2019-
 
   - [モーリス・エドゥ](https://ja.wikipedia.org/wiki/モーリス・エドゥ "wikilink") 2008-2012
 
@@ -949,11 +961,11 @@
 
   - [トーレ・アンドレ・フロー](../Page/トーレ・アンドレ・フロー.md "wikilink") 2000-2002
 
-<!-- end list -->
-
   - [ペーター・レーヴェンクランズ](../Page/ペーター・レーヴェンクランズ.md "wikilink") 2000-2006
 
-  - [ケニー・ミラー](../Page/ケニー・ミラー.md "wikilink") 2001-2002, 2008-2011, 2014-
+<!-- end list -->
+
+  - [ケニー・ミラー](../Page/ケニー・ミラー.md "wikilink") 2001-2002, 2008-2011, 2014-2018
 
   - [クラウディオ・カニーヒア](https://ja.wikipedia.org/wiki/クラウディオ・カニーヒア "wikilink") 2001-2003
 
@@ -965,7 +977,11 @@
 
   - [ダド・プルソ](https://ja.wikipedia.org/wiki/ダド・プルソ "wikilink") 2004-2007
 
-  - [クリス・ボイド](../Page/クリス・ボイド.md "wikilink") 2006-2010
+  - [ナチョ・ノボ](https://ja.wikipedia.org/wiki/イグナシオ・ノボ "wikilink") 2004-2010
+
+  - [クリス・ボイド](../Page/クリス・ボイド.md "wikilink") 2006-2010, 2014-2015
+
+  - [カイル・ラファーティ](https://ja.wikipedia.org/wiki/カイル・ラファーティ "wikilink") 2008-2012, 2018-2019
 
   - [ニキツァ・イェラヴィッチ](https://ja.wikipedia.org/wiki/ニキツァ・イェラヴィッチ "wikilink") 2010-2012
 

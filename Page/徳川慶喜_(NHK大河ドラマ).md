@@ -164,6 +164,8 @@
   - [山岡鉄太郎](../Page/山岡鉄舟.md "wikilink")：[伊武雅刀](../Page/伊武雅刀.md "wikilink")
   - [岩瀬忠震](../Page/岩瀬忠震.md "wikilink")：[冨家規政](../Page/冨家規政.md "wikilink")
   - [川路聖謨](../Page/川路聖謨.md "wikilink")：[勝部演之](../Page/勝部演之.md "wikilink")
+      -
+        勘定奉行。
   - [永井尚志](../Page/永井尚志.md "wikilink")：[阿部雅彦](https://ja.wikipedia.org/wiki/阿部雅彦 "wikilink")→[早川純一](https://ja.wikipedia.org/wiki/早川純一 "wikilink")
   - [近藤勇](../Page/近藤勇.md "wikilink")：[勝野洋](../Page/勝野洋.md "wikilink")
       -

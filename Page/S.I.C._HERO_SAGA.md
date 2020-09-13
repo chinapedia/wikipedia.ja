@@ -206,7 +206,7 @@
 </tr>
 <tr class="odd">
 <td><p>MASKED RIDER DEN-O 『ロスト・トレイン』</p></td>
-<td><p>2019年3月号</p></td>
+<td><p>2019年3月号 - 2020年8月号</p></td>
 <td></td>
 </tr>
 </tbody>

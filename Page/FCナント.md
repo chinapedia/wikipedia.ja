@@ -118,478 +118,492 @@ FCナントのライバルは[FCジロンダン・ボルドー](../Page/FCジロ
 <tbody>
 <tr class="odd">
 <td><p>ディビジョン</p></td>
-<td><p>順位</p></td>
 <td><p>試</p></td>
 <td><p>勝</p></td>
+<td><p>分</p></td>
 </tr>
 <tr class="even">
 <td><p>1943-44</p></td>
 <td><p>DHウェスト</p></td>
-<td><p>2位</p></td>
+<td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p>1944-45</p></td>
 <td><p>DHウェスト</p></td>
-<td><p><strong>1位</strong></p></td>
+<td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
 <td><p>1945-46</p></td>
 <td><p><a href="../Page/リーグ・ドゥ.md" title="wikilink">ディヴィジョン・ドゥ</a></p></td>
-<td><p>5位</p></td>
 <td><p>26</p></td>
+<td><p>11</p></td>
 </tr>
 <tr class="odd">
 <td><p>1946-47</p></td>
 <td><p>ディヴィジョン・ドゥ</p></td>
-<td><p>8位</p></td>
 <td><p>42</p></td>
+<td><p>16</p></td>
 </tr>
 <tr class="even">
 <td><p>1947-48</p></td>
 <td><p>ディヴィジョン・ドゥ</p></td>
-<td><p>11位</p></td>
 <td><p>38</p></td>
+<td><p>16</p></td>
 </tr>
 <tr class="odd">
 <td><p>1948-49</p></td>
 <td><p>ディヴィジョン・ドゥ</p></td>
-<td><p>9位</p></td>
 <td><p>36</p></td>
+<td><p>13</p></td>
 </tr>
 <tr class="even">
 <td><p>1949-50</p></td>
 <td><p>ディヴィジョン・ドゥ</p></td>
-<td><p>17位</p></td>
 <td><p>34</p></td>
+<td><p>9</p></td>
 </tr>
 <tr class="odd">
 <td><p>1950-51</p></td>
 <td><p>ディヴィジョン・ドゥ</p></td>
-<td><p>10位</p></td>
 <td><p>32</p></td>
+<td><p>11</p></td>
 </tr>
 <tr class="even">
 <td><p>1951-52</p></td>
 <td><p>ディヴィジョン・ドゥ</p></td>
-<td><p>4位</p></td>
 <td><p>34</p></td>
+<td><p>17</p></td>
 </tr>
 <tr class="odd">
 <td><p>1952-53</p></td>
 <td><p>ディヴィジョン・ドゥ</p></td>
-<td><p>6位</p></td>
 <td><p>34</p></td>
+<td><p>16</p></td>
 </tr>
 <tr class="even">
 <td><p>1953-54</p></td>
 <td><p>ディヴィジョン・ドゥ</p></td>
-<td><p>9位</p></td>
 <td><p>38</p></td>
+<td><p>14</p></td>
 </tr>
 <tr class="odd">
 <td><p>1954-55</p></td>
 <td><p>ディヴィジョン・ドゥ</p></td>
-<td><p>10位</p></td>
 <td><p>38</p></td>
+<td><p>13</p></td>
 </tr>
 <tr class="even">
 <td><p>1955-56</p></td>
 <td><p>ディヴィジョン・ドゥ</p></td>
-<td><p>17位</p></td>
 <td><p>38</p></td>
+<td><p>10</p></td>
 </tr>
 <tr class="odd">
 <td><p>1956-57</p></td>
 <td><p>ディヴィジョン・ドゥ</p></td>
-<td><p>13位</p></td>
 <td><p>38</p></td>
+<td><p>13</p></td>
 </tr>
 <tr class="even">
 <td><p>1957-58</p></td>
 <td><p>ディヴィジョン・ドゥ</p></td>
-<td><p>13位</p></td>
 <td><p>42</p></td>
+<td><p>13</p></td>
 </tr>
 <tr class="odd">
 <td><p>1958-59</p></td>
 <td><p>ディヴィジョン・ドゥ</p></td>
-<td><p>14位</p></td>
 <td><p>38</p></td>
+<td><p>13</p></td>
 </tr>
 <tr class="even">
 <td><p>1959-60</p></td>
 <td><p>ディヴィジョン・ドゥ</p></td>
-<td><p>8位</p></td>
 <td><p>38</p></td>
+<td><p>16</p></td>
 </tr>
 <tr class="odd">
 <td><p>1960-61</p></td>
 <td><p>ディヴィジョン・ドゥ</p></td>
-<td><p>11位</p></td>
 <td><p>36</p></td>
+<td><p>15</p></td>
 </tr>
 <tr class="even">
 <td><p>1961-62</p></td>
 <td><p>ディヴィジョン・ドゥ</p></td>
-<td><p>6位</p></td>
 <td><p>36</p></td>
+<td><p>16</p></td>
 </tr>
 <tr class="odd">
 <td><p>1962-63</p></td>
 <td><p>ディヴィジョン・ドゥ</p></td>
-<td><p>2位</p></td>
 <td><p>36</p></td>
+<td><p>25</p></td>
 </tr>
 <tr class="even">
 <td><p>1963-64</p></td>
 <td><p><a href="../Page/リーグ・アン.md" title="wikilink">ディヴィジョン・アン</a></p></td>
-<td><p>8位</p></td>
 <td><p>34</p></td>
+<td><p>13</p></td>
 </tr>
 <tr class="odd">
 <td><p>1964-65</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p><strong>1位</strong></p></td>
 <td><p>34</p></td>
+<td><p>16</p></td>
 </tr>
 <tr class="even">
 <td><p>1965-66</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p><strong>1位</strong></p></td>
 <td><p>38</p></td>
+<td><p>26</p></td>
 </tr>
 <tr class="odd">
 <td><p>1966-67</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>2位</p></td>
 <td><p>38</p></td>
+<td><p>17</p></td>
 </tr>
 <tr class="even">
 <td><p>1967-68</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>7位</p></td>
 <td><p>38</p></td>
+<td><p>15</p></td>
 </tr>
 <tr class="odd">
 <td><p>1968-69</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>10位</p></td>
 <td><p>34</p></td>
+<td><p>13</p></td>
 </tr>
 <tr class="even">
 <td><p>1969-70</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>10位</p></td>
 <td><p>34</p></td>
+<td><p>13</p></td>
 </tr>
 <tr class="odd">
 <td><p>1970-71</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>3位</p></td>
 <td><p>38</p></td>
+<td><p>17</p></td>
 </tr>
 <tr class="even">
 <td><p>1971-72</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>7位</p></td>
 <td><p>38</p></td>
+<td><p>17</p></td>
 </tr>
 <tr class="odd">
 <td><p>1972-73</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p><strong>1位</strong></p></td>
 <td><p>38</p></td>
+<td><p>23</p></td>
 </tr>
 <tr class="even">
 <td><p>1973-74</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>2位</p></td>
 <td><p>38</p></td>
+<td><p>19</p></td>
 </tr>
 <tr class="odd">
 <td><p>1974-75</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>5位</p></td>
 <td><p>38</p></td>
+<td><p>16</p></td>
 </tr>
 <tr class="even">
 <td><p>1975-76</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>4位</p></td>
 <td><p>38</p></td>
+<td><p>15</p></td>
 </tr>
 <tr class="odd">
 <td><p>1976-77</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p><strong>1位</strong></p></td>
 <td><p>38</p></td>
+<td><p>25</p></td>
 </tr>
 <tr class="even">
 <td><p>1977-78</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>2位</p></td>
 <td><p>38</p></td>
+<td><p>21</p></td>
 </tr>
 <tr class="odd">
 <td><p>1978-79</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>2位</p></td>
 <td><p>38</p></td>
+<td><p>23</p></td>
 </tr>
 <tr class="even">
 <td><p>1979-80</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p><strong>1位</strong></p></td>
 <td><p>38</p></td>
+<td><p>26</p></td>
 </tr>
 <tr class="odd">
 <td><p>1980-81</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>2位</p></td>
 <td><p>38</p></td>
+<td><p>22</p></td>
 </tr>
 <tr class="even">
 <td><p>1981-82</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>6位</p></td>
 <td><p>38</p></td>
+<td><p>19</p></td>
 </tr>
 <tr class="odd">
 <td><p>1982-83</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p><strong>1位</strong></p></td>
 <td><p>38</p></td>
+<td><p>24</p></td>
 </tr>
 <tr class="even">
 <td><p>1983-84</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>6位</p></td>
 <td><p>38</p></td>
+<td><p>18</p></td>
 </tr>
 <tr class="odd">
 <td><p>1984-85</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>2位</p></td>
 <td><p>38</p></td>
+<td><p>24</p></td>
 </tr>
 <tr class="even">
 <td><p>1985-86</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>2位</p></td>
 <td><p>38</p></td>
+<td><p>20</p></td>
 </tr>
 <tr class="odd">
 <td><p>1986-87</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>12位</p></td>
 <td><p>38</p></td>
+<td><p>12</p></td>
 </tr>
 <tr class="even">
 <td><p>1987-88</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>10位</p></td>
 <td><p>38</p></td>
+<td><p>13</p></td>
 </tr>
 <tr class="odd">
 <td><p>1988-89</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>6位</p></td>
 <td><p>38</p></td>
+<td><p>15</p></td>
 </tr>
 <tr class="even">
 <td><p>1989-90</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>7位</p></td>
 <td><p>38</p></td>
+<td><p>13</p></td>
 </tr>
 <tr class="odd">
 <td><p>1990-91</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>12位</p></td>
 <td><p>38</p></td>
+<td><p>9</p></td>
 </tr>
 <tr class="even">
 <td><p>1991-92</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>9位</p></td>
 <td><p>38</p></td>
+<td><p>12</p></td>
 </tr>
 <tr class="odd">
 <td><p>1992-93</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>5位</p></td>
 <td><p>38</p></td>
+<td><p>17</p></td>
 </tr>
 <tr class="even">
 <td><p>1993-94</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>5位</p></td>
 <td><p>38</p></td>
+<td><p>17</p></td>
 </tr>
 <tr class="odd">
 <td><p>1994-95</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p><strong>1位</strong></p></td>
 <td><p>38</p></td>
+<td><p>21</p></td>
 </tr>
 <tr class="even">
 <td><p>1995-96</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>7位</p></td>
 <td><p>38</p></td>
+<td><p>14</p></td>
 </tr>
 <tr class="odd">
 <td><p>1996-97</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>3位</p></td>
 <td><p>38</p></td>
+<td><p>16</p></td>
 </tr>
 <tr class="even">
 <td><p>1997-98</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>11位</p></td>
 <td><p>34</p></td>
+<td><p>11</p></td>
 </tr>
 <tr class="odd">
 <td><p>1998-99</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>7位</p></td>
 <td><p>34</p></td>
+<td><p>12</p></td>
 </tr>
 <tr class="even">
 <td><p>1999-00</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>12位</p></td>
 <td><p>34</p></td>
+<td><p>12</p></td>
 </tr>
 <tr class="odd">
 <td><p>2000-01</p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p><strong>1位</strong></p></td>
 <td><p>34</p></td>
+<td><p>21</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ディヴィジオン・アン2001-2002" title="wikilink">2001-02</a></p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>10位</p></td>
 <td><p>34</p></td>
+<td><p>12</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/リーグ・アン2002-2003" title="wikilink">2002-03</a></p></td>
 <td><p><a href="../Page/リーグ・アン.md" title="wikilink">リーグ・アン</a></p></td>
-<td><p>9位</p></td>
 <td><p>38</p></td>
+<td><p>16</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/リーグ・アン2003-2004" title="wikilink">2003-04</a></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>6位</p></td>
 <td><p>38</p></td>
+<td><p>17</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/リーグ・アン2004-2005" title="wikilink">2004-05</a></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>17位</p></td>
 <td><p>38</p></td>
+<td><p>10</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/リーグ・アン2005-2006" title="wikilink">2005-06</a></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>14位</p></td>
 <td><p>38</p></td>
+<td><p>11</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/リーグ・アン2006-2007.md" title="wikilink">2006-07</a></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>20位</p></td>
 <td><p>38</p></td>
+<td><p>7</p></td>
 </tr>
 <tr class="even">
 <td><p>2007-08</p></td>
 <td><p><a href="../Page/リーグ・ドゥ.md" title="wikilink">リーグ・ドゥ</a></p></td>
-<td><p>2位</p></td>
 <td><p>38</p></td>
+<td><p>19</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/リーグ・アン2008-2009" title="wikilink">2008-09</a></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>19位</p></td>
 <td><p>38</p></td>
+<td><p>9</p></td>
 </tr>
 <tr class="even">
 <td><p>2009-10</p></td>
 <td><p>リーグ・ドゥ</p></td>
-<td><p>15位</p></td>
 <td><p>38</p></td>
+<td><p>12</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010-11</p></td>
 <td><p>リーグ・ドゥ</p></td>
-<td><p>13位</p></td>
 <td><p>38</p></td>
+<td><p>11</p></td>
 </tr>
 <tr class="even">
 <td><p>2011-12</p></td>
 <td><p>リーグ・ドゥ</p></td>
-<td><p>9位</p></td>
 <td><p>38</p></td>
+<td><p>14</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012-13</p></td>
 <td><p>リーグ・ドゥ</p></td>
-<td><p>3位</p></td>
 <td><p>38</p></td>
+<td><p>19</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/リーグ・アン2013-2014" title="wikilink">2013-14</a></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>13位</p></td>
 <td><p>38</p></td>
+<td><p>12</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/リーグ・アン2014-2015" title="wikilink">2014-15</a></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>14位</p></td>
 <td><p>38</p></td>
+<td><p>11</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/リーグ・アン2015-2016" title="wikilink">2015-16</a></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>14位</p></td>
 <td><p>38</p></td>
+<td><p>12</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/リーグ・アン2016-2017" title="wikilink">2016-17</a></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>7位</p></td>
 <td><p>38</p></td>
+<td><p>14</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/リーグ・アン2017-2018" title="wikilink">2017-18</a></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>9位</p></td>
 <td><p>38</p></td>
+<td><p>14</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/リーグ・アン2018-2019" title="wikilink">2018-19</a></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>12位</p></td>
 <td><p>38</p></td>
+<td><p>13</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/リーグ・アン2019-2020" title="wikilink">2019-20</a></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>位</p></td>
+<td><p>28</p></td>
+<td><p>11</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/リーグ・アン2020-2021" title="wikilink">2020-21</a></p></td>
+<td><p>リーグ・アン</p></td>
 <td><p>38</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
 
 ## 現所属メンバー
 
-  - [2020年](../Page/2020年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink")現在
+  - 2019-20シーズンフォーメーション
+
+<div style="position: relative;">
+
+[350px](https://ja.wikipedia.org/wiki/ファイル:Soccer_Field_Transparant.svg "wikilink")
+
+</div>
+
+  - [2020年](../Page/2020年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")現在
 
 <!-- end list -->
 
@@ -598,6 +612,14 @@ FCナントのライバルは[FCジロンダン・ボルドー](../Page/FCジロ
 <!-- end list -->
 
   - [クリスティアン・グルキュフ](https://ja.wikipedia.org/wiki/クリスティアン・グルキュフ "wikilink")
+
+### ローン移籍
+
+  - in
+
+<!-- end list -->
+
+  - out
 
 ## 歴代監督
 

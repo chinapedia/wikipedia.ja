@@ -1,7 +1,7 @@
 > この記事は[TOTOリモデル 住まいの何でも大事典](https://ja.wikipedia.org/wiki/TOTOリモデル_住まいの何でも大事典)から翻訳されています。
 
 
-**TOTOリモデル 住まいの何でも大事典**（トートーリモデルすまいのなんでもだいじてん）は、[TBSラジオ](../Page/TBSラジオ.md "wikilink")をキーステーションに[JRN](https://ja.wikipedia.org/wiki/JRN "wikilink")全国12局ネットで放送されていたラジオ番組。パーソナリティは[柳井麻希](../Page/柳井麻希.md "wikilink")。提供は[TOTO](../Page/TOTO_\(企業\).md "wikilink")。
+**TOTOリモデル 住まいの何でも大事典**（トートーリモデルすまいのなんでもだいじてん）は、[TBSラジオ](../Page/TBSラジオ.md "wikilink")をキーステーションに[JRN全国](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")12局ネットで放送されていたラジオ番組。パーソナリティは[柳井麻希](../Page/柳井麻希.md "wikilink")。提供は[TOTO](../Page/TOTO_\(企業\).md "wikilink")。
 
 もともとは[2003年](../Page/2003年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に「[mix](https://ja.wikipedia.org/wiki/mix "wikilink")」内におけるJRN全国ネットの1コーナーとしてスタート。翌[2004年](../Page/2004年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")より「JRN[テープネット](../Page/テープネット.md "wikilink")番組」としてmix内コーナーから独立、[2009年](../Page/2009年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")放送分を以て番組終了。
 

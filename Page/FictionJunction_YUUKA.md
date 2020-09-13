@@ -92,4 +92,4 @@
   - [FictionJunction YUUKA 公式サイト](https://www.jvcmusic.co.jp/flyingdog/-/Artist/A018153.html)
   - [梶浦由記ファミリー公式ファンクラブ FictionJunction CLUB](http://www.spacecraft.co.jp/fjc/)
 
-[Category:FictionJunction](https://ja.wikipedia.org/wiki/Category:FictionJunction "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink")
+[Category:FictionJunction](https://ja.wikipedia.org/wiki/Category:FictionJunction "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink")

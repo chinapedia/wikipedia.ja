@@ -78,7 +78,7 @@ MP4は下記に採用されており、実際に利用されている。
   - [SONY XDCAM EX](../Page/XDCAM.md "wikilink")
   - [Windows Media Player](../Page/Windows_Media_Player.md "wikilink") 12以降
   - [Windows Phone](https://ja.wikipedia.org/wiki/Windows_Phone "wikilink") ([Windows Mobile](../Page/Windows_Mobile.md "wikilink"))
-  - [Android](../Page/Android.md "wikilink")
+  - [Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")
   - [DivX Plus](https://ja.wikipedia.org/wiki/DivX "wikilink") v9以降
   - [mora](https://ja.wikipedia.org/wiki/mora "wikilink")
   - [chromebook](https://ja.wikipedia.org/wiki/chromebook "wikilink")

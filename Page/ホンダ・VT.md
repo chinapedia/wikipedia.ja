@@ -152,7 +152,7 @@ MC15型エンジンを、VTZ250の1988年モデルと同じスペックとした
 
   - VT125シャドウ - 輸出仕様の[クルーザーモデル](../Page/クルーザー_\(オートバイ\).md "wikilink")
   - VT400・VT500・VT1100 CUSTOM - [NVシリーズの輸出仕様車](../Page/ホンダ・NV.md "wikilink")
-  - VT4000S・VT750S - [シャドウシリーズの派生車種](https://ja.wikipedia.org/wiki/ホンダ・シャドウ "wikilink")
+  - VT400S・VT750S - [シャドウシリーズの派生車種](https://ja.wikipedia.org/wiki/ホンダ・シャドウ "wikilink")
   - VT1300CR・VT1300CS・VT1300CX
   - [VTR](https://ja.wikipedia.org/wiki/ホンダ・VTR "wikilink") - 事実上の後継車
   - [VTR1000F](../Page/ホンダ・VTR1000F.md "wikilink")

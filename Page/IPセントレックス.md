@@ -7,7 +7,7 @@
 
 既存の内線電話網の次のような問題点が顕在化した。
 
-  - [構内交換機](https://ja.wikipedia.org/wiki/構内交換機 "wikilink")と[電話機](https://ja.wikipedia.org/wiki/電話機 "wikilink")が同一シリーズのものでないと接続できないなど、囲い込みが行われるようになった。
+  - [構内交換機](https://ja.wikipedia.org/wiki/構内交換機 "wikilink")と[電話機](https://ja.wikipedia.org/wiki/電話機 "wikilink")が同一シリーズのものでないと接続できないなどの[ベンダーロックイン](../Page/ベンダーロックイン.md "wikilink")
   - 人事異動などの際の電話の移設工事の計画の手間や費用が負担となる。
   - 毎月のシステムの[リース](../Page/リース.md "wikilink")・保守の費用が高い。
 

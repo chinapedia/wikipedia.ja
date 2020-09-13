@@ -24,7 +24,7 @@
   - [金原ゆかり](https://ja.wikipedia.org/wiki/金原ゆかり "wikilink")（共演していた長田と後年結婚）
   - [財目かおり](https://ja.wikipedia.org/wiki/財目かおり "wikilink")
   - [綿谷尚子](https://ja.wikipedia.org/wiki/綿谷尚子 "wikilink")
-  - [川崎華菜子](https://ja.wikipedia.org/wiki/川崎華菜子 "wikilink")（末期の月・火曜）
+  - [川崎華菜子](https://ja.wikipedia.org/wiki/川崎華菜子 "wikilink")（末期の月・火曜、MRO記者）
   - [近藤淳子](https://ja.wikipedia.org/wiki/近藤淳子 "wikilink")（末期の水-金曜）
   - [笹原忠義](https://ja.wikipedia.org/wiki/笹原忠義 "wikilink")（末期の土曜。後番組『[MRO NEWS ON 6](../Page/MRO_NEWS_ON_6.md "wikilink")』も続投）
   - [橘俊江](../Page/橘俊江.md "wikilink")（同上）

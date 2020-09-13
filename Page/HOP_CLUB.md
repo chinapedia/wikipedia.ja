@@ -91,7 +91,7 @@
   -   - **[安藤輝子](https://ja.wikipedia.org/wiki/安藤輝子 "wikilink")**（あんどう てるこ）
         2008年加入\[2\]。Osaka-Hyogo-Tokyo-USA で活動中。
 
-  -   - **[久保陽香](http://ameblo.jp/kuboharuka/)**（くぼ はるか、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink") - ）
+  -   - **[久保陽香](https://ameblo.jp/kuboharuka/)**（くぼ はるか、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink") - ）
         2009年加入。[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")出身。2011年4月、ホリプロ大阪を離籍。俳優として舞台等で活動中。
 
 ## グループの特徴
@@ -165,7 +165,9 @@
 
   - [HOP CLUBのアイドル大阪環状線番組ブログ（ラジオ大阪）](http://obcidolkanjo.livedoor.biz/)
 
-[\*](https://ja.wikipedia.org/wiki/カテゴリ:HOP_CLUB "wikilink") [カテゴリ:ホリプロ](https://ja.wikipedia.org/wiki/カテゴリ:ホリプロ "wikilink") [カテゴリ:日本の歌手グループ](https://ja.wikipedia.org/wiki/カテゴリ:日本の歌手グループ "wikilink") [カテゴリ:日本のアイドルグループ](https://ja.wikipedia.org/wiki/カテゴリ:日本のアイドルグループ "wikilink") [カテゴリ:近畿地方のローカルアイドル](https://ja.wikipedia.org/wiki/カテゴリ:近畿地方のローカルアイドル "wikilink")
+[\*](https://ja.wikipedia.org/wiki/カテゴリ:HOP_CLUB "wikilink") [カテゴリ:ホリプロ](https://ja.wikipedia.org/wiki/カテゴリ:ホリプロ "wikilink") [カテゴリ:日本の歌手グループ](https://ja.wikipedia.org/wiki/カテゴリ:日本の歌手グループ "wikilink") [カテゴリ:近畿地方のローカルアイドル](https://ja.wikipedia.org/wiki/カテゴリ:近畿地方のローカルアイドル "wikilink")
+
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink")
 
 1.  [HOP CLUB、新リーダーは前途多難！？ - 芸能 - SANSPO.COM](http://www.sanspo.com/geino/news/100517/gnj1005171044021-n1.htm)
 2.  2008年当時は「レッスン生」の呼称を用いていたが、2009年より廃止

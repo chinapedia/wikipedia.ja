@@ -207,7 +207,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a></p></td>
+<td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a></p></td>
 <td><p>日本テレビ系列</p></td>
 <td></td>
 </tr>
@@ -280,7 +280,7 @@
 
 ## 脚注
 
-[Category:1982年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1982年のテレビ番組_\(日本\) "wikilink") [Category:日本テレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:日本テレビの情報・ワイドショー番組 "wikilink") [Category:日本テレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビのバラエティ番組の歴史 "wikilink") [Category:オフィス・トゥー・ワン](https://ja.wikipedia.org/wiki/Category:オフィス・トゥー・ワン "wikilink") [Category:久米宏](https://ja.wikipedia.org/wiki/Category:久米宏 "wikilink") [Category:横山やすし・西川きよし](https://ja.wikipedia.org/wiki/Category:横山やすし・西川きよし "wikilink")
+[Category:1982年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1982年のテレビ番組_\(日本\) "wikilink") [Category:日本テレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:日本テレビの情報・ワイドショー番組 "wikilink") [Category:日本テレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビのバラエティ番組の歴史 "wikilink") [Category:オフィス・トゥー・ワン](https://ja.wikipedia.org/wiki/Category:オフィス・トゥー・ワン "wikilink") [Category:久米宏](https://ja.wikipedia.org/wiki/Category:久米宏 "wikilink") [Category:横山やすし](https://ja.wikipedia.org/wiki/Category:横山やすし "wikilink")
 
 1.  久米宏『久米宏です。ニュースステーションはザ・ベストテンだった』2017年9月25日、[世界文化社](../Page/世界文化社.md "wikilink")、110頁。
 2.  久米宏『久米宏です。ニュースステーションはザ・ベストテンだった』2017年9月25日、[世界文化社](../Page/世界文化社.md "wikilink")、112頁。

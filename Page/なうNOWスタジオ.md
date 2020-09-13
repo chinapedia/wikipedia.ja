@@ -107,8 +107,8 @@
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
 <td><p><a href="../Page/テレビ信州.md" title="wikilink">テレビ信州</a><br />
 （TSB）</p></td>
-<td><p>テレビ朝日系列<br />
-日本テレビ系列</p></td>
+<td><p>日本テレビ系列<br />
+テレビ朝日系列</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -166,8 +166,7 @@
 <a href="../Page/島根県.md" title="wikilink">島根県</a></p></td>
 <td><p><a href="../Page/日本海テレビジョン放送.md" title="wikilink">日本海テレビ</a><br />
 （NKT）</p></td>
-<td><p>日本テレビ系列<br />
-テレビ朝日系列</p></td>
+<td><p>日本テレビ系列</p></td>
 <td><p>遅れネット</p></td>
 <td><p>2局並行放送</p></td>
 </tr>
@@ -249,8 +248,8 @@
 <td><p><a href="../Page/大分県.md" title="wikilink">大分県</a></p></td>
 <td><p><a href="../Page/テレビ大分.md" title="wikilink">テレビ大分</a><br />
 （TOS）</p></td>
-<td><p><a href="../Page/フジネットワーク.md" title="wikilink">フジテレビ系列</a><br />
-日本テレビ系列<br />
+<td><p>日本テレビ系列<br />
+<a href="../Page/フジネットワーク.md" title="wikilink">フジテレビ系列</a><br />
 テレビ朝日系列</p></td>
 <td><p>同時ネット</p></td>
 <td></td>

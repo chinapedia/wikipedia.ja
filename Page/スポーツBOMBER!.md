@@ -109,8 +109,8 @@
   - [北日本放送](../Page/北日本放送.md "wikilink")
   - [福井放送](../Page/福井放送.md "wikilink")
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")
-  - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")
-  - [西日本放送](../Page/西日本放送.md "wikilink")
+  - [山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")
+  - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")
 

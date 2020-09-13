@@ -9,16 +9,17 @@
 
 ## 歴代パーソナリティと番組名
 
-  - [南こうせつ](https://ja.wikipedia.org/wiki/南こうせつ "wikilink") - 星のみちくさ帰り道（[1979年](../Page/1979年.md "wikilink")10月当時）
+  - [南こうせつ](https://ja.wikipedia.org/wiki/南こうせつ "wikilink") - 星のみちくさ帰り道（[1979年](../Page/1979年.md "wikilink")10月 - 1980年3月）
   - [山口百恵](../Page/山口百恵.md "wikilink") - 夢のあとさき　（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")4月 - 1980年10月）
+  - [郷ひろみ](../Page/郷ひろみ.md "wikilink") - とびきりグッドラック\!　（1980年10月 - 1981年3月）
   - [松田聖子](../Page/松田聖子.md "wikilink") - 夢で逢えたら　（[1981年](../Page/1981年.md "wikilink")4月 - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")3月）
   - [川島なお美](../Page/川島なお美.md "wikilink") - 恋のサウンドグラフィティ　（1983年4月 - [1984年](../Page/1984年.md "wikilink")9月）
   - [菊池桃子](../Page/菊池桃子.md "wikilink") - 桃子と少し夜更かし　（1984年10月 - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")3月）
   - [松本典子](../Page/松本典子.md "wikilink") - ひみつのエアメール　（1985年4月 - [1986年](../Page/1986年.md "wikilink")3月）
-  - [国生さゆり](../Page/国生さゆり.md "wikilink") - 走れメロン　（1986年4月 - [1988年](../Page/1988年.md "wikilink")3月）
-  - [渡辺美奈代](../Page/渡辺美奈代.md "wikilink") - 恋はちょっぴり\!　（1988年4月 - [1989年](../Page/1989年.md "wikilink")12月）
-  - [ribbon](https://ja.wikipedia.org/wiki/ribbon_\(アイドルグループ\) "wikilink") - ハートに“ribbon”　（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")1月 - [1992年](../Page/1992年.md "wikilink")3月）
-  - [羽野晶紀](https://ja.wikipedia.org/wiki/羽野晶紀 "wikilink") - 学園スクランブル　（1992年4月 - [1993年](../Page/1993年.md "wikilink")3月）　（この番組を最後にソニーがスポンサーを降板）
+  - [国生さゆり](../Page/国生さゆり.md "wikilink") - [走れメロン](../Page/国生さゆり_走れメロン.md "wikilink")　（1986年4月 - [1988年](../Page/1988年.md "wikilink")3月）
+  - [渡辺美奈代](../Page/渡辺美奈代.md "wikilink") - [恋はちょっぴり\!](../Page/渡辺美奈代_恋はちょっぴり.md "wikilink")　（1988年4月 - [1989年](../Page/1989年.md "wikilink")12月）
+  - [ribbon](https://ja.wikipedia.org/wiki/ribbon_\(アイドルグループ\) "wikilink") - [ハートにribbon](../Page/ハートにribbon.md "wikilink")　（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")1月 - [1992年](../Page/1992年.md "wikilink")3月）
+  - [羽野晶紀](https://ja.wikipedia.org/wiki/羽野晶紀 "wikilink") - [学園スクランブル](../Page/羽野晶紀の学園スクランブル.md "wikilink")　（1992年4月 - [1993年](../Page/1993年.md "wikilink")3月）　（この番組途中の1992年9月限りでソニーがスポンサーを降板）
 
 ## ネット局
 
@@ -26,12 +27,13 @@
 
 <!-- end list -->
 
+  - ニッポン放送以外はいずれも1992年9月まで。
   - [STVラジオ](../Page/STVラジオ.md "wikilink")（土）23:30 - 24:00
-  - [東北放送](../Page/東北放送.md "wikilink")（土）24:00 - 24:30
+  - [東北放送](../Page/東北放送.md "wikilink")（土）23:30 - 24:00
   - [ニッポン放送](../Page/ニッポン放送.md "wikilink")（日）22:00 - 22:30
   - [東海ラジオ](../Page/東海ラジオ放送.md "wikilink")（日）22:30 - 23:00
   - [朝日放送](https://ja.wikipedia.org/wiki/ABCラジオ "wikilink")（日）22:30 - 23:00
-  - [中国放送](../Page/中国放送.md "wikilink")（土）23:00 - 23:30
+  - [中国放送](../Page/中国放送.md "wikilink")（土）23:00 - 23:30（1988年10月から）
   - [KBCラジオ](../Page/KBCラジオ.md "wikilink")（土）23:30 - 24:00
 
 [Category:ニッポン放送の番組の歴史](https://ja.wikipedia.org/wiki/Category:ニッポン放送の番組の歴史 "wikilink") [Category:ラジオ放送枠](https://ja.wikipedia.org/wiki/Category:ラジオ放送枠 "wikilink") [Category:ソニー一社提供番組](https://ja.wikipedia.org/wiki/Category:ソニー一社提供番組 "wikilink") [Category:南こうせつ](https://ja.wikipedia.org/wiki/Category:南こうせつ "wikilink") [Category:山口百恵](https://ja.wikipedia.org/wiki/Category:山口百恵 "wikilink") [Category:松田聖子](https://ja.wikipedia.org/wiki/Category:松田聖子 "wikilink") [Category:ラジオのアイドル番組](https://ja.wikipedia.org/wiki/Category:ラジオのアイドル番組 "wikilink")

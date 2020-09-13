@@ -9,7 +9,7 @@
 
 ポルトガルで最も人気のあるフットボール・チームの一つである\[2\]。まだ欧州で無名の若手を安く買い、育てて他のビッグクラブへ高額で売却するという方針で多額の利益を上げており\[3\]、これまで[リカルド・カルヴァーリョ](../Page/リカルド・カルヴァーリョ.md "wikilink")、[ブルーノ・アウヴェス](https://ja.wikipedia.org/wiki/ブルーノ・アウヴェス "wikilink")、[ラウール・メイレレス](https://ja.wikipedia.org/wiki/ラウール・メイレレス "wikilink")、[ジョアン・モウティーニョ](../Page/ジョアン・モウティーニョ.md "wikilink")、[フレディ・グアリン](https://ja.wikipedia.org/wiki/フレディ・グアリン "wikilink")、[ハメス・ロドリゲス](https://ja.wikipedia.org/wiki/ハメス・ロドリゲス "wikilink")、[ルイス・ゴンサレス](../Page/ルイス・ゴンサレス.md "wikilink")、[リサンドロ・ロペス](../Page/リサンドロ・ロペス.md "wikilink")、[フッキ](https://ja.wikipedia.org/wiki/フッキ "wikilink")、[ラダメル・ファルカオ](https://ja.wikipedia.org/wiki/ラダメル・ファルカオ "wikilink")といった選手が在籍してきた (下記参照) 。
 
-アメリカ「[フォーブス](../Page/フォーブス.md "wikilink")」誌が、2003～04年度シーズンの世界のビッグクラブの収益体制を調査した報告によると、当時のクラブ収入は1億1000ドルで欧州第12位であった\[4\]。
+アメリカ「[フォーブス](../Page/フォーブス_\(雑誌\).md "wikilink")」誌が、2003～04年度シーズンの世界のビッグクラブの収益体制を調査した報告によると、当時のクラブ収入は1億1000ドルで欧州第12位であった\[4\]。
 
 ## 歴史
 
@@ -51,12 +51,17 @@ FCポルトのライバルは[ベンフィカと](../Page/SLベンフィカ.md "
 
 ### 国内タイトル
 
-  - **[プリメイラ・リーガ](https://ja.wikipedia.org/wiki/プリメイラ・リーガ "wikilink")：28回**
-      - 1934-35, 1938-39, 1939-40, 1955-56, 1958-59, 1977-78, 1978-79, 1984-85, 1985-86, 1987-88, 1989-90, 1991-92, 1992-93, 1994-95, 1995-96, 1996-97, 1997-98, 1998-99, 2002-03, 2003-04, 2005-06, 2006-07, 2007-08, 2008-09, 2010-11, 2011-12, 2012-13, 2017-18
-  - **[ポルトガル全国選手権](../Page/タッサ・デ・ポルトガル.md "wikilink")：20回**
-      - 1921-22, 1924-25, 1931-32, 1936-37, 1955-56, 1957-58, 1967-68, 1976-77, 1983-84, 1987-88, 1990-91, 1993-94, 1997-98, 1999-00, 2000-01, 2002-03, 2005-06, 2008-09, 2009-10, 2010-11
+  - **[プリメイラ・リーガ](https://ja.wikipedia.org/wiki/プリメイラ・リーガ "wikilink")：29回**
+      - 1934-35, 1938-39, 1939-40, 1955-56, 1958-59, 1977-78, 1978-79, 1984-85, 1985-86, 1987-88, 1989-90, 1991-92, 1992-93, 1994-95, 1995-96, 1996-97, 1997-98, 1998-99, 2002-03, 2003-04, 2005-06, 2006-07, 2007-08, 2008-09, 2010-11, 2011-12, 2012-13, 2017-18, 2019-20
+  - **[ポルトガル・カップ](../Page/タッサ・デ・ポルトガル.md "wikilink")：17回**
+      - 1955-56, 1957-58, 1967-68, 1976-77, 1983-84, 1987-88, 1990-91, 1993-94, 1997-98, 1999-00, 2000-01, 2002-03, 2005-06, 2008-09, 2009-10, 2010-11, 2019-20
   - **[スーパーカップ](../Page/スーペルタッサ・カンディド・デ・オリベイラ.md "wikilink")：21回**
       - 1981, 1983, 1984, 1986, 1990, 1991, 1993, 1994, 1996, 1998, 1999, 2001, 2003, 2004, 2006, 2009, 2010, 2011, 2012, 2013, 2018
+
+<!-- end list -->
+
+  - **[ポルトガル選手権(旧カップ戦)](../Page/タッサ・デ・ポルトガル.md "wikilink"):4回**
+      - 1921-22, 1924-25, 1931-32, 1936-37
 
 ### 国際タイトル
 
@@ -376,11 +381,11 @@ FCポルトのライバルは[ベンフィカと](../Page/SLベンフィカ.md "
 <tr class="odd">
 <td><p>2019-20</p></td>
 <td><p>プリメイラ・リーガ</p></td>
-<td><p>位</p></td>
+<td><p>1位</p></td>
 <td><p>34</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>26</p></td>
+<td><p>4</p></td>
+<td><p>4</p></td>
 </tr>
 </tbody>
 </table>
@@ -395,9 +400,9 @@ FCポルトのライバルは[ベンフィカと](../Page/SLベンフィカ.md "
 
 </div>
 
-  - [2020年](../Page/2020年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[8月14日](../Page/8月14日.md "wikilink")現在
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Brazil.svg "wikilink"))    ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guinea-Bissau.svg "wikilink")) ★ ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink")) ★  ★ ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guinea-Bissau.svg "wikilink")) ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))  ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))   ★  ★
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Brazil.svg "wikilink"))    ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guinea-Bissau.svg "wikilink")) ★ ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink")) ★  ★ ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guinea-Bissau.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))   ★   ★
 
 括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 

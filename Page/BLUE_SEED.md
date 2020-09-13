@@ -1,7 +1,7 @@
 > この記事は[BLUE SEED](https://ja.wikipedia.org/wiki/BLUE_SEED)から翻訳されています。
 
 
-『**BLUE SEED**』（ブルーシード）は、[高田裕三](../Page/高田裕三.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品、および[1994年](../Page/1994年.md "wikilink")放映の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。続編の[OVA](../Page/OVA.md "wikilink")『**BLUE SEED2**』についても記述する。
+『**BLUE SEED**』（ブルーシード）は、[高田裕三](../Page/高田裕三.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品、および[1994年](../Page/1994年.md "wikilink")放映の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")\[1\]。続編の[OVA](../Page/OVA.md "wikilink")『**BLUE SEED2**』についても記述する。
 
 ## 漫画
 
@@ -13,8 +13,8 @@
 
 ### 書籍情報
 
-  - 碧奇魂ブルーシード 1巻（1994年3月、[竹書房](../Page/竹書房.md "wikilink")） - ISBN 978-4-88475-705-2
-  - 碧奇魂ブルーシード 2巻（1995年、竹書房） - ISBN 9784812450048
+  - 碧奇魂ブルーシード 1巻（1994年3月、[竹書房](../Page/竹書房.md "wikilink")） - ISBN 978-4-88475-705-2\[2\]
+  - 碧奇魂ブルーシード 2巻（1995年、竹書房） - ISBN 9784812450048\[3\]
   - 新装版（2010年 講談社） - ISBN 9784063523379
 
 ## テレビアニメ
@@ -43,7 +43,7 @@
   - 草薙護（くさなぎ まもる）
     声 - [井上和彦](../Page/井上和彦_\(声優\).md "wikilink")
     素性が一切謎な男。
-    【TV】生まれてまもなく、[ヤマタノオロチ](../Page/ヤマタノオロチ.md "wikilink")に両親を殺されたうえ、体に7つの魂（みたま）を宿された。その日から奇稲田を守ること、ただそれだけが目的の天涯孤独な男となった。楓を守っていた時期もあったが、紅葉と出会って以降、苦悩しながら紅葉を守っている。[セクシャルハラスメント言動が多く](https://ja.wikipedia.org/wiki/セクハラ "wikilink")、毎回紅葉が[パンチラ](../Page/パンチラ.md "wikilink")をした際に登場するのがお決まりのパターンとなっており、紅葉自身が彼に好意を告白する手段を管理室の面々に相談したところ、**「好きです」と書かれたパンツを穿く**ことを提案されてしまった。当初は楓への想いを忘れられず、双子の妹である紅葉に楓の面影を重ねていたが、やがて一人の女性として真剣に愛するようになる。
+    【TV】生まれてまもなく、[ヤマタノオロチ](../Page/ヤマタノオロチ.md "wikilink")に両親を殺されたうえ、体に7つの魂（みたま）を宿された\[4\]。その日から奇稲田を守ること、ただそれだけが目的の天涯孤独な男となった。楓を守っていた時期もあったが、紅葉と出会って以降、苦悩しながら紅葉を守っている。[セクシャルハラスメント言動が多く](https://ja.wikipedia.org/wiki/セクハラ "wikilink")、毎回紅葉が[パンチラ](../Page/パンチラ.md "wikilink")をした際に登場するのがお決まりのパターンとなっており、紅葉自身が彼に好意を告白する手段を管理室の面々に相談したところ、**「好きです」と書かれたパンツを穿く**ことを提案されてしまった。当初は楓への想いを忘れられず、双子の妹である紅葉に楓の面影を重ねていたが、やがて一人の女性として真剣に愛するようになる。
     【OVA】スサノオの一件が片付いた後、フリーのカメラマンとなり、国木田の紹介で借りた阿佐ヶ谷のマンションに住む。
   - 国木田楓（くにきだ かえで）
     声 - [弥生みつき](../Page/弥生みつき.md "wikilink")
@@ -484,6 +484,8 @@
 
 また2003年には本作ヒロインを演じる[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")と[たかはしごう](../Page/たかはしごう.md "wikilink")が歌う、TV版主題歌のカバーシングル「[CARNIVAL・BABEL・REVIVAL](https://ja.wikipedia.org/wiki/CARNIVAL・BABEL・REVIVAL "wikilink")」が発売された。
 
+## 脚注
+
 ## 関連項目
 
   - [クシナダヒメ](../Page/クシナダヒメ.md "wikilink")（奇稲田姫）
@@ -495,3 +497,8 @@
   - [BLUE SEED｜作品紹介 : PRODUCTION REED](http://www.pro-reed.com/works/tv_series/w026.html)
 
 [Category:高田裕三](https://ja.wikipedia.org/wiki/Category:高田裕三 "wikilink") [Category:メディアミックス作品](https://ja.wikipedia.org/wiki/Category:メディアミックス作品 "wikilink") [Category:アニメ作品_ふ](https://ja.wikipedia.org/wiki/Category:アニメ作品_ふ "wikilink") [Category:1994年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1994年のテレビアニメ "wikilink") [Category:テレビ東京系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京系アニメ "wikilink") [Category:Production_I.Gのアニメ作品](https://ja.wikipedia.org/wiki/Category:Production_I.Gのアニメ作品 "wikilink") [Category:葦プロダクション](https://ja.wikipedia.org/wiki/Category:葦プロダクション "wikilink") [Category:日本アドシステムズのアニメ作品](https://ja.wikipedia.org/wiki/Category:日本アドシステムズのアニメ作品 "wikilink") [Category:スターチャイルドのアニメ作品](https://ja.wikipedia.org/wiki/Category:スターチャイルドのアニメ作品 "wikilink") [Category:ムービックのアニメ作品](https://ja.wikipedia.org/wiki/Category:ムービックのアニメ作品 "wikilink") [Category:バンブーコミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンブーコミックスのアニメ作品 "wikilink") [Category:ファンタジーアニメ](https://ja.wikipedia.org/wiki/Category:ファンタジーアニメ "wikilink") [Category:日本神話を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:日本神話を題材としたアニメ作品 "wikilink") [Category:双子を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:双子を題材としたアニメ作品 "wikilink") [Category:島根県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:島根県を舞台とした作品 "wikilink") [Category:植物を題材とした作品](https://ja.wikipedia.org/wiki/Category:植物を題材とした作品 "wikilink") [Category:寄生生物を題材とした作品](https://ja.wikipedia.org/wiki/Category:寄生生物を題材とした作品 "wikilink") [Category:未完の漫画作品](https://ja.wikipedia.org/wiki/Category:未完の漫画作品 "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink")
+
+1.
+2.
+3.
+4.

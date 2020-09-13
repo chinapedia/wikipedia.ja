@@ -96,7 +96,7 @@
       - [柳和佐](../Page/宇恵さやか.md "wikilink")
   - [尾木プロ](../Page/プロダクション尾木.md "wikilink")
       - [尾崎恵理](https://ja.wikipedia.org/wiki/尾崎恵理 "wikilink")
-  - [ホリエージェンシー](../Page/ホリエージェンシー.md "wikilink")
+  - [ホリ・エージェンシー](../Page/ホリ・エージェンシー.md "wikilink")
       - [いいむれまさき](https://ja.wikipedia.org/wiki/いいむれまさき "wikilink")
       - [笠間あゆみ](https://ja.wikipedia.org/wiki/笠間あゆみ "wikilink")
       - 吉田美花葉
@@ -198,7 +198,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/さくらんぼテレビ" title="wikilink">さくらんぼテレビ</a></p></td>
+<td><p><a href="../Page/さくらんぼテレビジョン.md" title="wikilink">さくらんぼテレビ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -212,7 +212,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新潟総合テレビ" title="wikilink">新潟総合テレビ</a></p></td>
+<td><p><a href="../Page/NST新潟総合テレビ.md" title="wikilink">新潟総合テレビ</a></p></td>
 <td></td>
 <td></td>
 <td></td>

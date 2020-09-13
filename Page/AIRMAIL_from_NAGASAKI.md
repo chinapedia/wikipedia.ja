@@ -88,7 +88,7 @@
 
 [en:Airmail from Nagasaki](https://ja.wikipedia.org/wiki/en:Airmail_from_Nagasaki "wikilink")
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:1985年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1985年に結成した音楽グループ "wikilink") [Category:1987年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1987年に解散した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
 
 1.  「DOGEN?」封入ライナーノートより。
 2.  「DOGEN?」封入ライナーノートより。

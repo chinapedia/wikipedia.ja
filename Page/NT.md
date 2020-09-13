@@ -26,6 +26,7 @@
       - [日暮里・舎人ライナーの](https://ja.wikipedia.org/wiki/東京都交通局日暮里・舎人ライナー "wikilink")[路線記号](../Page/駅ナンバリング.md "wikilink")(**N**ippori-**T**oneri Liner)
       - エヌ・ティ・愛媛 - [ネッツトヨタ愛媛](https://ja.wikipedia.org/wiki/ネッツトヨタ愛媛 "wikilink")の別称。
       - イギリスの[ナショナル・シアター](https://ja.wikipedia.org/wiki/ロイヤル・ナショナル・シアター "wikilink")(National Theatre)。→[NTライヴ](https://ja.wikipedia.org/wiki/NTライヴ "wikilink")
+      - [新台湾ドル](https://ja.wikipedia.org/wiki/新台湾ドル "wikilink")（New Taiwan dollar、NT$） - 台湾の通貨
   - フィクションの登場物
       - [ニュータイプ](../Page/ニュータイプ.md "wikilink") - [『ガンダム』シリーズの用語](https://ja.wikipedia.org/wiki/ガンダムシリーズ "wikilink")
 

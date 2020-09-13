@@ -1,7 +1,7 @@
 > この記事は[BUTCH](https://ja.wikipedia.org/wiki/BUTCH)から翻訳されています。
 
 
-**BUTCH**（ブッチ、[1955年](../Page/1955年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")-）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[俳優](../Page/俳優.md "wikilink")、[DJ](../Page/ディスクジョッキー.md "wikilink")、[パーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")、[ローカルタレント](../Page/ローカルタレント.md "wikilink")である。本名の**永淵幸利**（ながふち ゆきとし）とクレジットされること（番組の内容によっては）もある。[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[早良区](../Page/早良区.md "wikilink")田隈出身、。西区在住。血[液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")、[西南学院大学](../Page/西南学院大学.md "wikilink")卒業。主に[福岡県](../Page/福岡県.md "wikilink")を拠点に活動を行っている。
+**BUTCH**（ブッチ、[1955年](../Page/1955年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")-）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[俳優](../Page/俳優.md "wikilink")、[DJ](../Page/ディスクジョッキー.md "wikilink")、[パーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")、[ローカルタレント](../Page/ローカルタレント.md "wikilink")である。本名の**永淵幸利**（ながふち ゆきとし）とクレジットされること（番組の内容によっては）もある。[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[早良区](../Page/早良区.md "wikilink")田隈出身、。西区在住。血[液型](../Page/ABO式血液型.md "wikilink")[O型](../Page/ABO式血液型.md "wikilink")、[西南学院大学](../Page/西南学院大学.md "wikilink")卒業。主に[福岡県](../Page/福岡県.md "wikilink")を拠点に活動を行っている。
 
 ## 芸風
 

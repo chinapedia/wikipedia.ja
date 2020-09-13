@@ -499,10 +499,10 @@ DONA-35</p></td>
 
   - [ボーカルKUMIのGo\!Go\!漫遊記](http://blog.excite.co.jp/yumyumblog)
 
-  - [From Yum\! ～RYUのつぶやき～](http://yumorange.exblog.jp/)
+  - [From Yum\! ～RYUのつぶやき～](https://yumorange.exblog.jp/)
 
   -   -
       -
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:スカ](https://ja.wikipedia.org/wiki/Category:スカ "wikilink") [Category:名古屋市出身の人物](https://ja.wikipedia.org/wiki/Category:名古屋市出身の人物 "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:スカ](https://ja.wikipedia.org/wiki/Category:スカ "wikilink") [Category:名古屋市出身の人物](https://ja.wikipedia.org/wiki/Category:名古屋市出身の人物 "wikilink") [Category:1999年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に結成した音楽グループ "wikilink") [Category:7人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:7人組の音楽グループ "wikilink")
 
 1.  [B-DASH](../Page/B-DASH.md "wikilink")、[SHAKALABBITS](../Page/SHAKALABBITS.md "wikilink")、[175R](../Page/175R.md "wikilink")などを輩出

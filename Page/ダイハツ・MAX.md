@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2001年](../Page/2001年.md "wikilink")に[軽トールワゴン](https://ja.wikipedia.org/wiki/軽トールワゴン "wikilink")（[ムーヴ](../Page/ダイハツ・ムーヴ.md "wikilink")）と[ハッチバック](../Page/ハッチバック.md "wikilink")（[ミラ](../Page/ダイハツ・ミラ.md "wikilink")）の間を埋める車種として、全高を抑え、[機械式駐車場に対応のパッケージングとした](https://ja.wikipedia.org/wiki/駐車場#形態による分類 "wikilink")[セミトールワゴンとして登場した](https://ja.wikipedia.org/wiki/軽セミトールワゴン "wikilink")。主要コンポーネンツは2代目ムーヴとほぼ共通である。
+[2001年](../Page/2001年.md "wikilink")に[軽トールワゴン](https://ja.wikipedia.org/wiki/軽トールワゴン "wikilink")（[ムーヴ](../Page/ダイハツ・ムーヴ.md "wikilink")）と[軽ハッチバックセダン](https://ja.wikipedia.org/wiki/セダン#軽セダン "wikilink")（[ミラ](../Page/ダイハツ・ミラ.md "wikilink")/[ミラジーノ](../Page/ダイハツ・ミラジーノ.md "wikilink")）の間を埋める車種として、既存の[ネイキッド同様](../Page/ダイハツ・ネイキッド.md "wikilink")、全高を抑え、[機械式駐車場に対応のパッケージングとした](https://ja.wikipedia.org/wiki/駐車場#形態による分類 "wikilink")[セミトールワゴンとして登場した](https://ja.wikipedia.org/wiki/軽セミトールワゴン "wikilink")。プラットフォームを含む主要コンポーネンツは2代目ムーヴとほぼ共通である。
 
 軽自動車規格変更後から3年を経過し、新しい車種として高級、スポーティ路線を打ち出しており、サイバー4WDシステムや4気筒ターボエンジン\[1\]による高い運動性能、動きのあるダイナミックなデザインが特徴。[AT車にはインパネ中央設置のゲート式セレクターが採用された](../Page/オートマチックトランスミッション.md "wikilink")\[2\]。上級かつスポーティー路線で、パーソナルユースの若者がメインターゲットであった\[3\]。
 

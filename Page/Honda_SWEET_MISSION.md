@@ -29,7 +29,7 @@
   - 2005年11月3日には「ホリデースペシャル」として『Honda LIFE presents GLOBAL MISSION～Safety Drive\!Enjoy LIFE\!～』が放送され（レギュラー放送未ネットのFMぐんま、radio CUBE FM三重でも放送）、ゲストに[ホンダ・ライフ](../Page/ホンダ・ライフ.md "wikilink")のCMソングを歌っていた[山下達郎](../Page/山下達郎.md "wikilink")も登場した。
   - 2006年11月3日から26日まで、「Honda Sweet Mission おでかけLifeキャンペーン」を行っているが、このキャンペーンは38局すべての局が参加しており、ネット上でホンダ・ライフがあたる懸賞も行っている。
   - 番組終了後にはヒッチハイク枠として[サノフィアベンティス](https://ja.wikipedia.org/wiki/サノフィアベンティス "wikilink")（2008年5月19日～30日にも放送）、アースコンシャス関連、[クラリオン](../Page/クラリオン.md "wikilink")のCMが流れる。2007年12月には[ジョージア缶コーヒー](https://ja.wikipedia.org/wiki/ジョージア缶コーヒー "wikilink")、2008年3月には[ヨコハマタイヤ](https://ja.wikipedia.org/wiki/ヨコハマタイヤ "wikilink")、2008年6月には[FIRE](https://ja.wikipedia.org/wiki/FIRE "wikilink")（2008年6月16日～27日）のCMも流れた。
-  - ジローラモは降板期間中、「イタリア支局に転勤」という設定になっている[1](http://web.archive.org/web/20071230062755/http://blog.excite.co.jp/sweetmission/5420434/)。なお、この降板時期にジローラモは同業他社である[日産・ティーダ](https://ja.wikipedia.org/wiki/日産・ティーダ "wikilink")のテレビCMに出演している（艶エクステリア篇、2007年5月～）。
+  - ジローラモは降板期間中、「イタリア支局に転勤」という設定になっている[1](https://web.archive.org/web/20071230062755/http://blog.excite.co.jp/sweetmission/5420434/)。なお、この降板時期にジローラモは同業他社である[日産・ティーダ](https://ja.wikipedia.org/wiki/日産・ティーダ "wikilink")のテレビCMに出演している（艶エクステリア篇、2007年5月～）。
   - 探偵事務所「フラワーカンパニー」は、後継番組『Honda Smile Mission』にも設定が引き継がれ、SHEILAは本番組から引き続き「チーフ」として登場する。
 
 ## 備考

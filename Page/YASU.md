@@ -1,7 +1,7 @@
 > この記事は[YASU](https://ja.wikipedia.org/wiki/YASU)から翻訳されています。
 
 
-**YASU**（やす、[1960年](../Page/1960年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink") - ）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")で活動する男性[歌手](../Page/歌手.md "wikilink")、メディア・[パーソナリティ](../Page/司会.md "wikilink")、[ローカルタレント](../Page/ローカルタレント.md "wikilink")。本名は**久保田 泰弘**（くぼたやすひろ）。[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[伊勢崎市](https://ja.wikipedia.org/wiki/伊勢崎市 "wikilink")出身。[血液型A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。個人事務所「Y's works」所属。
+**YASU**（やす、[1960年](../Page/1960年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink") - ）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")で活動する男性[歌手](../Page/歌手.md "wikilink")、メディア・[パーソナリティ](../Page/司会.md "wikilink")、[ローカルタレント](../Page/ローカルタレント.md "wikilink")。本名は**久保田 泰弘**（くぼたやすひろ）。[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[伊勢崎市](https://ja.wikipedia.org/wiki/伊勢崎市 "wikilink")出身。[血液型A型](../Page/ABO式血液型.md "wikilink")。個人事務所「Y's works」所属。
 
 ## 来歴・人物
 
@@ -10,6 +10,8 @@
 [横浜銀蝿](../Page/横浜銀蝿.md "wikilink")リーダー・[嵐の事務所](../Page/嵐ヨシユキ.md "wikilink")（現・嵐レコード）に所属する。[花王](../Page/花王.md "wikilink")洗濯用洗剤「[アタック](../Page/アタック_\(洗剤\).md "wikilink")」CMや、「[ザブ](https://ja.wikipedia.org/wiki/ザブ_\(洗剤\) "wikilink")」CMの「頑固な汚れにザーブ\!」といったCMソングを担当した。「ストリート・ダンサー」としてはデビュー曲『サイテー男にご用心』は「スズキ・スクーター『Hi』」のCMソング、『だから帰らない』は『[ねるとん紅鯨団](../Page/ねるとん紅鯨団.md "wikilink")』のエンディングテーマとなった。またソロとして、アニメ『[クッキングパパ](../Page/クッキングパパ.md "wikilink")』のオープニングテーマも歌っている（[2012年](../Page/2012年.md "wikilink")10月5日放送の『カーナビラジオ午後一番\!』で作者・[うえやまとち](../Page/うえやまとち.md "wikilink")と初めて会ったという\[1\]）。また、[ビートルズ](../Page/ビートルズ.md "wikilink")をこよなく愛し、[2004年](../Page/2004年.md "wikilink")に大学時代の音楽仲間など同年代を中心としたメンバーで「[ブラック・ビートルズ](https://ja.wikipedia.org/wiki/ブラック・ビートルズ "wikilink")」というバンドを結成、現在も活動している。
 
 [声優](../Page/声優.md "wikilink")としての活動もあり、[2003年](../Page/2003年.md "wikilink")に[ディズニーの長編](../Page/ウォルト・ディズニー・カンパニー.md "wikilink")[アニメーション](../Page/アニメーション.md "wikilink")映画『[ファインディング・ニモ](../Page/ファインディング・ニモ.md "wikilink")』で声優デビュー。その際に自身が出演したHBCテレビの深夜番組『[もくなび](../Page/もくなび.md "wikilink")』にて密着取材を敢行し、監督のアンドリュー・スタントンにインタビューを行った。2004年には長編アニメーション映画『[Mr.インクレディブル](../Page/Mr.インクレディブル.md "wikilink")』にも出演し、録音会場に「Mr.インクレディブル」のコスプレで登場しアフレコし、雑誌にも取り上げられた。
+
+2019年、北海道の民放5局\[2\]と[NHK札幌放送局](../Page/NHK札幌放送局.md "wikilink")による共同キャンペーン『[One Hokkaido Project](https://ja.wikipedia.org/wiki/One_Hokkaido_Project "wikilink")』のキャンペーンソングに参加\[3\]。
 
 ## 主な作品
 
@@ -23,8 +25,9 @@
   - ハッピー<sup>2</sup>ダンス（YASU、[ABCテレビ](../Page/朝日放送テレビ.md "wikilink")『[クッキングパパ](../Page/クッキングパパ.md "wikilink")』オープニング）
   - [勇気のファイター](https://ja.wikipedia.org/wiki/勇気のファイター "wikilink")（YASU、[OVA](../Page/OVA.md "wikilink")『[うしおととら](../Page/うしおととら.md "wikilink")』オープニング）
   - Which is?（YASU）
-  - ラジオは魔法の周波数（[カーナビRadio午後一番！内で制作された番組オリジナルソング第](../Page/カーナビラジオ午後一番!.md "wikilink")1弾）
+  - ラジオは魔法の周波数、桜色のペンキ、照れくさいけどBe With You（[カーナビRadio午後一番！内で制作された番組オリジナルソング](../Page/カーナビラジオ午後一番!.md "wikilink")（作詞、作曲も））
   - [セイコーマート](../Page/セイコーマート.md "wikilink") イメージソング
+  - [私たちの道](https://ja.wikipedia.org/wiki/私たちの道 "wikilink")（One Hokkaido Project参加作品）※"One Hokkaido Project"名義
 
 ## 主な出演
 
@@ -63,9 +66,9 @@
 
 ### テレビCM
 
-  - サッポロクラシック（[サッポロビール](../Page/サッポロビール.md "wikilink")）
+  - [サッポロクラシック](https://ja.wikipedia.org/wiki/サッポロクラシック "wikilink")（[サッポロビール](../Page/サッポロビール.md "wikilink")）
   - [セイコーマート](../Page/セイコーマート.md "wikilink")（CMソングも担当）
-  - 学校法人創研学園・看予備（一時、[田村美香](https://ja.wikipedia.org/wiki/田村美香 "wikilink")とも共演）
+  - [学校法人創研学園](../Page/学校法人創価学園.md "wikilink")・看予備（一時、[田村美香](https://ja.wikipedia.org/wiki/田村美香 "wikilink")とも共演）
   - 北のダイニング 祭祭 （さいさい）- 札幌市すすきのにある居酒屋
   - 上記の他に国際証券「利子（としこ）さん」などのCMソングを担当（冗談画報より）
 
@@ -73,11 +76,16 @@
 
   - 池田食品（豆菓子などを販売する札幌の菓子メーカー、2008年の節分豆のラジオCMに出演）
   - 伊藤建業（[釧路市](../Page/釧路市.md "wikilink")の建築会社、2009年秋よりHBCラジオの帯広・釧路局エリア限定のローカルラジオCMに出演）
+  - すけみつ株式会社（札幌市にあるリフォーム会社2020年からカーナビラジオ午後一番！の1時台のHBCニュース、道路情報、天気予報の後、CMに出演）
 
 ### 映画
 
   - [ファインディング・ニモ](../Page/ファインディング・ニモ.md "wikilink")（ディズニー/[ピクサー](https://ja.wikipedia.org/wiki/ピクサー・アニメーション・スタジオ "wikilink")）
   - [Mr.インクレディブル](../Page/Mr.インクレディブル.md "wikilink")（ディズニー/ピクサー）
+
+### MV
+
+  - 私たちの道 - One Hokkaido Project（参加作品、2019年）\[4\]
 
 ## 外部リンク
 
@@ -90,6 +98,9 @@
 
 ## 脚注
 
-[Category:日本の男性歌手](https://ja.wikipedia.org/wiki/Category:日本の男性歌手 "wikilink") [Category:北海道のローカルタレント](https://ja.wikipedia.org/wiki/Category:北海道のローカルタレント "wikilink") [Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink") [Category:1960年生](https://ja.wikipedia.org/wiki/Category:1960年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:群馬県出身の人物](https://ja.wikipedia.org/wiki/Category:群馬県出身の人物 "wikilink") [Category:法政大学出身の人物](https://ja.wikipedia.org/wiki/Category:法政大学出身の人物 "wikilink")
+[Category:日本の男性歌手](https://ja.wikipedia.org/wiki/Category:日本の男性歌手 "wikilink") [Category:北海道のローカルタレント](https://ja.wikipedia.org/wiki/Category:北海道のローカルタレント "wikilink") [Category:日本のラジオパーソナリティ](https://ja.wikipedia.org/wiki/Category:日本のラジオパーソナリティ "wikilink") [Category:1960年生](https://ja.wikipedia.org/wiki/Category:1960年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:群馬県出身の人物](https://ja.wikipedia.org/wiki/Category:群馬県出身の人物 "wikilink") [Category:法政大学出身の人物](https://ja.wikipedia.org/wiki/Category:法政大学出身の人物 "wikilink")
 
 1.
+2.  UHB（[北海道文化放送](../Page/北海道文化放送.md "wikilink"))、HTB（[北海道テレビ](../Page/北海道テレビ放送.md "wikilink")）、STV（[札幌テレビ](../Page/札幌テレビ放送.md "wikilink")）、TVｈ（[テレビ北海道](../Page/テレビ北海道.md "wikilink")）、HBC（[北海道放送](../Page/北海道放送.md "wikilink")）
+3.
+4.

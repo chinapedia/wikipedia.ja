@@ -653,7 +653,7 @@
 <p>10/23(土) 宿毛市総合社会福祉センター</p>
 <p>10/25(月) 松山市民会館（中）</p>
 <p>10/29(金) 女子美術大学 女子美祭（相模原）</p>
-<p>10/30(土) 白鴎大学 白鴎祭（小山）</p>
+<p>10/30(土) 白鷗大学 白鷗祭（小山）</p>
 <p>10/31(日) 青山女子短期大学 青山祭（青山）</p>
 <p>11/2(火) 徳島大学 蔵本祭</p>
 <p>11/3(水･祝) 下関市立大学 馬関祭</p>
@@ -1138,8 +1138,10 @@
 ## 外部リンク
 
   - [↑THE HIGH-LOWS↓](http://high-lows.net/) - HAPPYSONG RECORDSによる公式ページ。
-  - [白井幹夫商店](http://www1.odn.ne.jp/shiraimikio_sms/)
 
+  - [THE HIGH-LOWS](https://www.universal-music.co.jp/high-lows/) - [UNIVERSAL MUSIC JAPAN](https://ja.wikipedia.org/wiki/UNIVERSAL_MUSIC_JAPAN "wikilink")
+
+  -
 [Category:THE_HIGH-LOWS](https://ja.wikipedia.org/wiki/Category:THE_HIGH-LOWS "wikilink") [Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:アリオラジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:アリオラジャパンのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:1995年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1995年に結成した音楽グループ "wikilink") [Category:2005年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に解散した音楽グループ "wikilink")
 
 1.  [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で、**THE HIGH LOWS**（ザ・ハイ・ロウズ）というバンドがデビューしているが、無関係である。

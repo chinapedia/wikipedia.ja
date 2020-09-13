@@ -68,6 +68,6 @@
 
 ## 外部リンク
 
-  - [上海ルーキーSHOW](http://www.fujitv.co.jp/b_hp/shanghai/) - フジテレビ
+  - [上海ルーキーSHOW](https://www.fujitv.co.jp/b_hp/shanghai/) - フジテレビ
 
 [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:久本雅美](https://ja.wikipedia.org/wiki/Category:久本雅美 "wikilink")

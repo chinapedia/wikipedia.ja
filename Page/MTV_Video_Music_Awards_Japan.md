@@ -3,7 +3,7 @@
 
 **MTV Video Music Awards Japan**（エムティービー・ビデオ・ミュージック・アワード・ジャパン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[MTVジャパン](../Page/MTVジャパン.md "wikilink")が主催する[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")の祭典。略称は「**VMAJ**」。
 
-[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で行われる「[MTV Video Music Awards](../Page/MTV_Video_Music_Awards.md "wikilink")」と同様に一年間を通じて各部門で最も活躍した[アーティストに対して賞を与える](../Page/芸術家.md "wikilink")[イベント](../Page/イベント.md "wikilink")である。[アジア](../Page/アジア.md "wikilink")圏を網羅した[MTV Asia Awardsより独立した](https://ja.wikipedia.org/wiki/MTV_Asia_Awards "wikilink")。
+[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で行われる「[MTV Video Music Awards](../Page/MTV_Video_Music_Awards.md "wikilink")」と同様に1年間を通じて各部門で最も活躍した[アーティストに対して賞を与える](../Page/芸術家.md "wikilink")[イベント](../Page/イベント.md "wikilink")である。[アジア](../Page/アジア.md "wikilink")圏を網羅した[MTV Asia Awardsより独立した](https://ja.wikipedia.org/wiki/MTV_Asia_Awards "wikilink")。
 
 2010年は名称を『**MTV WORLD STAGE VMAJ**』として開催し、司会者を設けずにナレーター・プレゼンターが案内・紹介スタイルで進行となった。また、2011年は名称を『**MTV Video Music Aid Japan**』（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")のチャリティーイベント）として初めて6月に開催された。
 
@@ -330,23 +330,23 @@
 
   -   - 第14回の表彰はなし。
 
-| 回  | 年     | アーティスト名                                                                                                | 曲名                                                                                                              |
-| -- | ----- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
-| 2  | 2003年 | RIP SLYME                                                                                              | [FUNKASTIC](../Page/FUNKASTIC.md "wikilink")                                                                    |
-| 3  | 2004年 | ZEEBRA                                                                                                 | Touch the sky                                                                                                   |
-| 4  | 2005年 | [ビースティ・ボーイズ](../Page/ビースティ・ボーイズ.md "wikilink")                                                         | Ch-Check It Out                                                                                                 |
-| 5  | 2006年 | [50セント](../Page/50セント.md "wikilink") feat. [モブ・ディープ](https://ja.wikipedia.org/wiki/モブ・ディープ "wikilink") | アウタ・コントロール                                                                                                      |
-| 6  | 2007年 | [KREVA](../Page/KREVA.md "wikilink")                                                                   | [THE SHOW](../Page/THE_SHOW.md "wikilink")                                                                      |
-| 7  | 2008年 | RIP SLYME                                                                                              | I・N・G                                                                                                           |
-| 8  | 2009年 | [TERIYAKI BOYZ®](../Page/TERIYAKI_BOYZ.md "wikilink")                                                  | ZOCK ON\! feat.[Pharrell](../Page/ファレル・ウィリアムス.md "wikilink") and [Busta Rhymes](../Page/バスタ・ライムス.md "wikilink") |
-| 9  | 2010年 | KREVA                                                                                                  | [瞬間speechless](https://ja.wikipedia.org/wiki/赤_\(KREVAのシングル\) "wikilink")                                       |
-| 10 | 2011年 | エミネム                                                                                                   | ノット・アフレイド                                                                                                       |
-| 11 | 2012年 | KREVA                                                                                                  | [基準](../Page/基準.md "wikilink")                                                                                  |
-| 12 | 2013年 | [エイサップ・ロッキー](https://ja.wikipedia.org/wiki/エイサップ・ロッキー "wikilink")                                      | F\*\*kin' Problems feat. DRAKE, 2 CHAINZ & KENDRICK LAMAR                                                       |
-| 13 | 2014年 | [SKY-HI](https://ja.wikipedia.org/wiki/SKY-HI "wikilink")                                              | [愛ブルーム](https://ja.wikipedia.org/wiki/愛ブルーム/RULE "wikilink")                                                    |
-| 15 | 2016年 | [AK-69](https://ja.wikipedia.org/wiki/AK-69 "wikilink")                                                | Flying B                                                                                                        |
-| 17 | 2018年 | [SKY-HI](https://ja.wikipedia.org/wiki/SKY-HI "wikilink")                                              | Marble                                                                                                          |
-| 18 | 2019年 | KREVA                                                                                                  | 音色 ～2019 Ver.～                                                                                                  |
+| 回  | 年     | アーティスト名                                                                             | 曲名                                                                                                              |
+| -- | ----- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 2  | 2003年 | RIP SLYME                                                                           | [FUNKASTIC](../Page/FUNKASTIC.md "wikilink")                                                                    |
+| 3  | 2004年 | ZEEBRA                                                                              | Touch the sky                                                                                                   |
+| 4  | 2005年 | [ビースティ・ボーイズ](../Page/ビースティ・ボーイズ.md "wikilink")                                      | Ch-Check It Out                                                                                                 |
+| 5  | 2006年 | [50セント](../Page/50セント.md "wikilink") feat. [モブ・ディープ](../Page/モブ・ディープ.md "wikilink") | アウタ・コントロール                                                                                                      |
+| 6  | 2007年 | [KREVA](../Page/KREVA.md "wikilink")                                                | [THE SHOW](../Page/THE_SHOW.md "wikilink")                                                                      |
+| 7  | 2008年 | RIP SLYME                                                                           | I・N・G                                                                                                           |
+| 8  | 2009年 | [TERIYAKI BOYZ®](../Page/TERIYAKI_BOYZ.md "wikilink")                               | ZOCK ON\! feat.[Pharrell](../Page/ファレル・ウィリアムス.md "wikilink") and [Busta Rhymes](../Page/バスタ・ライムス.md "wikilink") |
+| 9  | 2010年 | KREVA                                                                               | [瞬間speechless](https://ja.wikipedia.org/wiki/赤_\(KREVAのシングル\) "wikilink")                                       |
+| 10 | 2011年 | エミネム                                                                                | ノット・アフレイド                                                                                                       |
+| 11 | 2012年 | KREVA                                                                               | [基準](../Page/基準.md "wikilink")                                                                                  |
+| 12 | 2013年 | [エイサップ・ロッキー](https://ja.wikipedia.org/wiki/エイサップ・ロッキー "wikilink")                   | F\*\*kin' Problems feat. DRAKE, 2 CHAINZ & KENDRICK LAMAR                                                       |
+| 13 | 2014年 | [SKY-HI](https://ja.wikipedia.org/wiki/SKY-HI "wikilink")                           | [愛ブルーム](https://ja.wikipedia.org/wiki/愛ブルーム/RULE "wikilink")                                                    |
+| 15 | 2016年 | [AK-69](https://ja.wikipedia.org/wiki/AK-69 "wikilink")                             | Flying B                                                                                                        |
+| 17 | 2018年 | [SKY-HI](https://ja.wikipedia.org/wiki/SKY-HI "wikilink")                           | Marble                                                                                                          |
+| 18 | 2019年 | KREVA                                                                               | 音色 ～2019 Ver.～                                                                                                  |
 
 ### 最優秀コラボレーションビデオ賞／Best Collaboration Video
 
@@ -415,13 +415,13 @@
 
   - 第14回の表彰はなし。
 
-| 回  | 年     | アーティスト名                                                                                               | 作品名                                                                               |
-| -- | ----- | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 12 | 2013年 | ももいろクローバーZ                                                                                            | [サラバ、愛しき悲しみたちよ](https://ja.wikipedia.org/wiki/サラバ、愛しき悲しみたちよ "wikilink")           |
-| 13 | 2014年 | [E-girls](https://ja.wikipedia.org/wiki/E-girls "wikilink")                                           | [ごめんなさいのKissing You](https://ja.wikipedia.org/wiki/ごめんなさいのKissing_You "wikilink") |
-| 15 | 2016年 | [GENERATIONS from EXILE TRIBE](https://ja.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink") | [AGEHA](https://ja.wikipedia.org/wiki/AGEHA "wikilink")                           |
-| 17 | 2018年 | [E-girls](https://ja.wikipedia.org/wiki/E-girls "wikilink")                                           | Show Time                                                                         |
-| 18 | 2019年 | [日向坂46](https://ja.wikipedia.org/wiki/日向坂46 "wikilink")                                               | キュン                                                                               |
+| 回  | 年     | アーティスト名                                                                                               | 作品名                                                                                        |
+| -- | ----- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| 12 | 2013年 | ももいろクローバーZ                                                                                            | [サラバ、愛しき悲しみたちよ](https://ja.wikipedia.org/wiki/サラバ、愛しき悲しみたちよ "wikilink")                    |
+| 13 | 2014年 | [E-girls](https://ja.wikipedia.org/wiki/E-girls "wikilink")                                           | [ごめんなさいのKissing You](https://ja.wikipedia.org/wiki/ごめんなさいのKissing_You "wikilink")          |
+| 15 | 2016年 | [GENERATIONS from EXILE TRIBE](https://ja.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink") | [AGEHA](https://ja.wikipedia.org/wiki/AGEHA_\(GENERATIONS_from_EXILE_TRIBEの曲\) "wikilink") |
+| 17 | 2018年 | [E-girls](https://ja.wikipedia.org/wiki/E-girls "wikilink")                                           | Show Time                                                                                  |
+| 18 | 2019年 | [日向坂46](https://ja.wikipedia.org/wiki/日向坂46 "wikilink")                                               | キュン                                                                                        |
 
 ### 最優秀シェアビデオ賞／Best Share Video
 

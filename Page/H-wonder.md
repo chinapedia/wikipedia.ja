@@ -93,6 +93,20 @@
             作詞・作曲：和田弘樹、編曲：岩崎琢
     3.  きっと大丈夫 (INSTRUMENTAL)
 
+<!-- end list -->
+
+  - ＨＡＰＰＹ（[1998年9月30日](https://ja.wikipedia.org/wiki/1998年9月30日 "wikilink")、NDSｰ49）
+
+　　　1.HAPPY
+
+　　　　　　作詞・作曲・編曲：和田弘樹
+
+　　　　　　AIR’G “GO・I・S”presents　北海道限定ソング
+
+　　　2.HAPPY（Original KARAOKE）
+
+　　　　　　作詞・作曲・編曲：和田弘樹
+
 ### アルバム
 
   - WONDER HERO（1995年[4月21日](../Page/4月21日.md "wikilink")、VICL-659）

@@ -2,6 +2,7 @@
 
 
 **LL BROTHERS**（エルエルブラザーズ）は、実の兄弟による男性R\&Bボーカルダンスデュオ、[ソングライター](../Page/ソングライター.md "wikilink")。[福岡県](../Page/福岡県.md "wikilink")[久留米市](../Page/久留米市.md "wikilink")出身。
+
 グループ名は、2009年より「L.L BROTHERS」から「.」を削除した「LL BROTHERS」に改名。
 
 ## メンバー

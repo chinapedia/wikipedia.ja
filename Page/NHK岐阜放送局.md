@@ -201,7 +201,7 @@
 
 ### 総合テレビ
 
-  - みのひだ情報局（平日11:50～11:54、[名古屋局制作](../Page/NHK名古屋放送局.md "wikilink")『[東海北陸フレッシュ便 さらさらサラダ](https://ja.wikipedia.org/wiki/東海北陸フレッシュ便_さらさらサラダ "wikilink")』（平日11:30～12:00）の一部）
+  - みのひだ情報局（平日11:50～11:54、[名古屋局制作](../Page/NHK名古屋放送局.md "wikilink")『[さらさらサラダ](https://ja.wikipedia.org/wiki/さらさらサラダ "wikilink")』（平日11:30～12:00）の一部）
   - 県内の[気象情報](../Page/気象情報_\(NHK\).md "wikilink")（平日11:57～12:00）
 
 <!-- end list -->
@@ -279,7 +279,7 @@
   - [NHK岐阜放送局](https://www.nhk.or.jp/gifu/)
 
   -
-[Category:NHK岐阜](https://ja.wikipedia.org/wiki/Category:NHK岐阜 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:東海・北陸地方のテレビ局](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビ局 "wikilink") [Category:東海・北陸地方のラジオ局](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のラジオ局 "wikilink") [Category:岐阜市の建築物](https://ja.wikipedia.org/wiki/Category:岐阜市の建築物 "wikilink")
+[Category:NHK岐阜](https://ja.wikipedia.org/wiki/Category:NHK岐阜 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:岐阜県のマスメディア](https://ja.wikipedia.org/wiki/Category:岐阜県のマスメディア "wikilink") [Category:東海・北陸地方のテレビ局](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビ局 "wikilink") [Category:東海・北陸地方のラジオ局](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のラジオ局 "wikilink") [Category:岐阜市の建築物](https://ja.wikipedia.org/wiki/Category:岐阜市の建築物 "wikilink")
 
 1.
 2.  「1」は[東海テレビ](../Page/東海テレビ放送.md "wikilink")（名古屋のアナログ親局1ch）が使うため、名古屋放送局に合わせて「3」になった。

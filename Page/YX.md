@@ -7,9 +7,9 @@
 
 ### 次期旅客機YS-33の研究
 
-[Japan_aerospace_2016_YS-33_scale_model.jpg](https://ja.wikipedia.org/wiki/File:Japan_aerospace_2016_YS-33_scale_model.jpg "fig:Japan_aerospace_2016_YS-33_scale_model.jpg") [1966年](../Page/1966年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")41年）、[日本航空機製造](../Page/日本航空機製造.md "wikilink")（日航製）では[防衛庁](https://ja.wikipedia.org/wiki/防衛庁 "wikilink")向け戦術[輸送機](../Page/輸送機.md "wikilink")C-Xの計画が具体化していたが、同時にYS-11に続く民間機の研究のため、8月から航空審議会によって「次期民間輸送機のための研究」が始まり、[通商産業省](https://ja.wikipedia.org/wiki/通商産業省 "wikilink")は[1967年](../Page/1967年.md "wikilink")（昭和42年）の予算に2000万円を計上し、調査委託費を調達した。
+[Japan_aerospace_2016_YS-33_scale_model.jpg](https://ja.wikipedia.org/wiki/File:Japan_aerospace_2016_YS-33_scale_model.jpg "fig:Japan_aerospace_2016_YS-33_scale_model.jpg") [1966年](../Page/1966年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")41年）、[日本航空機製造](../Page/日本航空機製造.md "wikilink")（日航製）では[防衛庁](https://ja.wikipedia.org/wiki/防衛庁 "wikilink")向け戦術[輸送機](../Page/輸送機.md "wikilink")[C-Xの計画が具体化していたが](../Page/C-1_\(輸送機\).md "wikilink")、同時にYS-11に続く民間機の研究のため、8月から航空審議会によって「次期民間輸送機のための研究」が始まり、[通商産業省](https://ja.wikipedia.org/wiki/通商産業省 "wikilink")は[1967年](../Page/1967年.md "wikilink")（昭和42年）の予算に2000万円を計上し、調査委託費を調達した。
 
-[1968年](../Page/1968年.md "wikilink")（昭和43年）3月には「90席前後の[ターボジェット旅客機](../Page/ジェットエンジン.md "wikilink")」が発案された。開発費は150億円から160億円と見積もられ、これはYS-11の3倍にあたった。このため、開発準備のために2億円の補助金を拠出された。こうして計画は本格化し、日航製内に「YX開発本部」が設置されて、市場調査と基礎設計が行われた。
+[1968年](../Page/1968年.md "wikilink")（昭和43年）3月には「90席前後の[ターボジェット旅客機](../Page/ターボジェットエンジン.md "wikilink")」が発案された。開発費は150億円から160億円と見積もられ、これはYS-11の3倍にあたった。このため、開発準備のために2億円の補助金を拠出された。こうして計画は本格化し、日航製内に「YX開発本部」が設置されて、市場調査と基礎設計が行われた。
 
 [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）に計画は「**YS-33**」構想と呼ばれる3発ジェットエンジン（形態は[DC-10や](../Page/マクドネル・ダグラス_DC-10.md "wikilink")[L-1011のようなもので](../Page/ロッキード_L-1011_トライスター.md "wikilink")、当時は双発や4発より燃費効率が良いと信じられていた）の旅客機となった。機体はYS-11の2から2.5倍の細胴で90席前後、1300m級の滑走路に着陸可能とした。開発費はさらに膨らみ、YS-11の4倍以上となる240億円と予想された。
 
@@ -24,7 +24,7 @@
   - YX-B/C案：150席〜180席クラス
   - YX-D案：200席から250席クラスの中型機
 
-この中で、YX-Dは実現性が低いため、YS-33かYX-B/Cを優先して計画が進められた。低公害でハイテクノロジーの世界初の3軸式[ターボファン](https://ja.wikipedia.org/wiki/ターボファン "wikilink")、[ロールス・ロイス](../Page/ロールス・ロイス・ホールディングス.md "wikilink")[RB.203を予定していたが](https://ja.wikipedia.org/wiki/ロールス・ロイス_トレント#二代目_\(RB.203\) "wikilink")、需要が見込めないとの理由で同社が開発中止したため、この他に適当なエンジンが見つからず、また航空機工業審議会においても、大きさが需要と合わないと判断されて白紙還元（中止）された。
+この中で、YX-Dは実現性が低いため、YS-33かYX-B/Cを優先して計画が進められた。低公害でハイテクノロジーの世界初の3軸式[ターボファン](../Page/ターボファンエンジン.md "wikilink")、[ロールス・ロイス](../Page/ロールス・ロイス・ホールディングス.md "wikilink")[RB.203 トレントを予定していたが](https://ja.wikipedia.org/wiki/ロールス・ロイス_RB.203_トレント "wikilink")、需要が見込めないとの理由で同社が開発中止したため、この他に適当なエンジンが見つからず、また航空機工業審議会においても、大きさが需要と合わないと判断されて白紙還元（中止）された。
 
 ### 日航製の規模縮小
 

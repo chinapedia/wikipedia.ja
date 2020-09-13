@@ -300,7 +300,7 @@
 ### 漫画
 
   - イワタナオミによる3D・CG漫画『グレゴリーホラーショー』が、[講談社](../Page/講談社.md "wikilink")「[ヤングマガジンアッパーズ](../Page/ヤングマガジンアッパーズ.md "wikilink")」にて2000年に連載。
-  - [鈴木小波](https://ja.wikipedia.org/wiki/鈴木小波 "wikilink")による[コミカライズ](https://ja.wikipedia.org/wiki/コミカライズ "wikilink")『GREGORY HORROR SHOW ANOTHER WORLD』が、講談社「[モーニング](https://ja.wikipedia.org/wiki/モーニング_\(漫画雑誌\) "wikilink")」にて2007年46号から2008年6号にかけて連載。（後にコミックス化。全1巻）
+  - [鈴木小波](https://ja.wikipedia.org/wiki/鈴木小波 "wikilink")による[コミカライズ](../Page/コミカライズ.md "wikilink")『GREGORY HORROR SHOW ANOTHER WORLD』が、講談社「[モーニング](https://ja.wikipedia.org/wiki/モーニング_\(漫画雑誌\) "wikilink")」にて2007年46号から2008年6号にかけて連載。（後にコミックス化。全1巻）
   - 「[e-manga](https://ja.wikipedia.org/wiki/e-manga "wikilink")」で[ウェブコミック](../Page/ウェブコミック.md "wikilink")連載（現在終了、イワタナオミ版の再配信）。
 
 ### 海外展開

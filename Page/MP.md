@@ -82,6 +82,7 @@
 ## mP
 
   - ミリ[ポアズ](https://ja.wikipedia.org/wiki/ポアズ "wikilink") () = 1/10000 [パスカル秒](https://ja.wikipedia.org/wiki/パスカル秒 "wikilink")
+  - [40mP](https://ja.wikipedia.org/wiki/40mP "wikilink")（よんじゅうメートルピー） - [ボカロP](https://ja.wikipedia.org/wiki/ボカロP "wikilink")。
 
 ## 関連項目
 

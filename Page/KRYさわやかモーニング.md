@@ -7,7 +7,7 @@
 
 この番組は[山口県](../Page/山口県.md "wikilink")内において、唯一ローカル情報を伝える早朝番組である。さらに、他局が番組タイトルを変えつつ放送する中で唯一変えていない番組でもあり、[NNN系列の早朝番組としても最古参となる](../Page/日本ニュースネットワーク.md "wikilink")\[1\]。同時に[朝のローカル情報番組の中では](https://ja.wikipedia.org/wiki/朝の情報番組#ローカル番組 "wikilink")[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")の『[おはよう朝日です](../Page/おはよう朝日です.md "wikilink")（おはよう朝日土曜日です）』に次いで2番目の長さである。
 
-[どさんこワイド朝p](https://ja.wikipedia.org/wiki/どさんこワイド!!朝! "wikilink")（[札幌テレビ](../Page/札幌テレビ放送.md "wikilink")）、[朝生ワイド す・またん\!](https://ja.wikipedia.org/wiki/朝生ワイド_す・またん! "wikilink")（[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")）、[バリはやッ\!ZIP\!](https://ja.wikipedia.org/wiki/バリはやッ!ZIP! "wikilink")（[福岡放送](../Page/福岡放送.md "wikilink")）とともに『[Oha\!4 NEWS LIVE](../Page/Oha!4_NEWS_LIVE.md "wikilink")』（[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")制作）第2部および『[ZIP\!](https://ja.wikipedia.org/wiki/ZIP! "wikilink")』5:50 - 6:30枠の時間帯を差し替えている数少ない局であり、基幹局以外では唯一である。ただし、番組の中で『Oha\!4 NEWS LIVE』（第2部）の一部コーナーとNNN協定により『ZIP\!』の『[NNNニュースZIP\!](https://ja.wikipedia.org/wiki/NNNニュースZIP! "wikilink")』を同時ネットするほか、札幌テレビ・読売テレビ・福岡放送とは異なり『[ZIP\!](https://ja.wikipedia.org/wiki/ZIP! "wikilink")』の6:30以降の部分はほぼフルネットとなっている（6:56の『ZIP\! WEATHER・関東』を長年続く『**JAの天気予報**』に差し替えるのみ）。
+[どさんこワイド\!\!朝\!](https://ja.wikipedia.org/wiki/どさんこワイド朝 "wikilink")（[札幌テレビ](../Page/札幌テレビ放送.md "wikilink")）、[朝生ワイド す・またん\!](https://ja.wikipedia.org/wiki/朝生ワイド_す・またん! "wikilink")（[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")）、[バリはやッ\!ZIP\!](https://ja.wikipedia.org/wiki/バリはやッ!ZIP! "wikilink")（[福岡放送](../Page/福岡放送.md "wikilink")）とともに『[Oha\!4 NEWS LIVE](../Page/Oha!4_NEWS_LIVE.md "wikilink")』（[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")制作）第2部および『[ZIP\!](https://ja.wikipedia.org/wiki/ZIP! "wikilink")』5:50 - 6:30枠の時間帯を差し替えている数少ない局であり、基幹局以外では唯一である。ただし、番組の中で『Oha\!4 NEWS LIVE』（第2部）の一部コーナーとNNN協定により『ZIP\!』の『[NNNニュースZIP\!](https://ja.wikipedia.org/wiki/NNNニュースZIP! "wikilink")』を同時ネットするほか、札幌テレビ・読売テレビ・福岡放送とは異なり『[ZIP\!](https://ja.wikipedia.org/wiki/ZIP! "wikilink")』の6:30以降の部分はほぼフルネットとなっている（6:56の『ZIP\! WEATHER・関東』を長年続く『**JAの天気予報**』に差し替えるのみ）。
 
 一時期、5:25 - 5:55の枠にて[テレビ山口](../Page/テレビ山口.md "wikilink")で同じ山口ローカルの情報番組『[ぐちモニ](../Page/ぐちモニ.md "wikilink")』を放送していた時期もある（2005.3 - 2005.9）。
 
@@ -31,7 +31,7 @@
 ## 歴史
 
   - [1992年](../Page/1992年.md "wikilink")3月30日：ネットしていた『[ルンルンあさ6生情報](../Page/ルンルンあさ6生情報.md "wikilink")』の放送終了に伴い放送開始。
-      - 当時の放送枠は6:00 - 7:00（ただし年末年始は休止となり、年末は『[ジパングあさ6](../Page/ジパングあさ6.md "wikilink")』を臨時フルネット）
+      - 当時の放送枠は6:00 - 7:00（ただし年末年始は休止となり、年末は『[ジパングあさ6](../Page/ジパングあさ6.md "wikilink")』を単独番組扱いで臨時フルネット）
       - 初代キャスターは[向田好美](https://ja.wikipedia.org/wiki/向田好美 "wikilink")、[國本泰功](../Page/國本泰功.md "wikilink")。
       - 6:15頃 - 6:35頃に『ジパング』の以下のコーナーを内包。ニュースジパングとここがポイント\!の間に挟まれた関東ローカル枠は山口発の県内天気予報に差し替え。
     <!-- end list -->
@@ -57,7 +57,7 @@
       - 『Oha\!4』の差し替えポイントも変更され、最新ニュースに代えて5:31頃 - 5:44頃のおはにゃん・スポーツ・エンタメをネットする。
   - [2017年](../Page/2017年.md "wikilink")10月30日、キャスター陣総入れ替え。男性キャスターが[成田弘毅](https://ja.wikipedia.org/wiki/成田弘毅 "wikilink")、女性キャスターが[八木美佐子](https://ja.wikipedia.org/wiki/八木美佐子 "wikilink")。共に（月曜 - 金曜）の担当。番組セットもリニューアルされる。\[7\]
   - [2020年](../Page/2020年.md "wikilink")3月30日：女性キャスターを入れ替え、新人の上田奈央アナウンサーを抜擢。
-  - [2020年](../Page/2020年.md "wikilink")4月20日 - 5月22日：新型コロナウィルスの感染拡大防止の観点から放送時間を30分縮小して5:50 - 6:30に変更（Oha\!4を5時台臨時フルネット化）
+  - [2020年](../Page/2020年.md "wikilink")4月20日 - 5月22日：新型コロナウィルスの感染拡大防止の観点から放送時間を30分縮小して5:50 - 6:30に変更（Oha\!4の5時台を臨時フルネット）
 
 ## 出演者
 
@@ -139,7 +139,7 @@
   - [朝生ワイド す・またん\!](https://ja.wikipedia.org/wiki/朝生ワイド_す・またん! "wikilink")（[大阪府](../Page/大阪府.md "wikilink")の[ytvが放送している近畿向けの朝の情報番組](../Page/讀賣テレビ放送.md "wikilink")）
   - [バリはやッ\!ZIP\!](https://ja.wikipedia.org/wiki/バリはやッ!ZIP! "wikilink")（[福岡県](../Page/福岡県.md "wikilink")の[福岡放送](../Page/福岡放送.md "wikilink")が放送している福岡・佐賀向けの朝の情報番組）
   - [おはZIP\!](https://ja.wikipedia.org/wiki/おはZIP! "wikilink")（[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")の[中京テレビが放送していた東海向けの朝の情報番組](../Page/中京テレビ放送.md "wikilink")）
-  - [おはようとくしま プラス](https://ja.wikipedia.org/wiki/おはようとくしま_プラス "wikilink")（[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")の[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")が「ズームイン\!\!」第2部を全面差し替えして放送していた徳島向けの朝の情報番組）
+  - [おはようとくしま プラス](https://ja.wikipedia.org/wiki/おはようとくしま_プラス "wikilink")（[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")の[四国放送](../Page/四国放送.md "wikilink")が「ズームイン\!\!」第2部を全面差し替えして放送していた徳島向けの朝の情報番組）
 
 ## 外部リンク
 
@@ -147,7 +147,7 @@
 
 [Category:1992年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1992年のテレビ番組_\(日本\) "wikilink") [Category:山口放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:山口放送のテレビ番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:中国・四国地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの情報・ワイドショー番組 "wikilink") [Category:ズームイン\!\!](https://ja.wikipedia.org/wiki/Category:ズームイン!! "wikilink") [Category:Oha\!4_NEWS_LIVE](https://ja.wikipedia.org/wiki/Category:Oha!4_NEWS_LIVE "wikilink") [Category:ZIP\!](https://ja.wikipedia.org/wiki/Category:ZIP! "wikilink")
 
-1.  1971年から続いていた[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")の『[おはようとくしま](../Page/おはようとくしま.md "wikilink")』『[おはようとくしま プラス](https://ja.wikipedia.org/wiki/おはようとくしま_プラス "wikilink")』が通算で40年続いていたが、2011年3月31日で終了。それにより、当番組が最古参となっている。
+1.  1971年から続いていた[四国放送](../Page/四国放送.md "wikilink")の『[おはようとくしま](../Page/おはようとくしま.md "wikilink")』『[おはようとくしま プラス](https://ja.wikipedia.org/wiki/おはようとくしま_プラス "wikilink")』が通算で40年続いていたが、2011年3月31日で終了。それにより、当番組が最古参となっている。
 2.  [國本泰功のおはようございました『世界遺産』](http://kry.co.jp/blog/kunimoto/)
 3.  日テレNEWS24（CS・旧：NNN24）制作。
 4.  日テレNEWS24制作。

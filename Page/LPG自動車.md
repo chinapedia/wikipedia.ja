@@ -1,8 +1,9 @@
 > この記事は[LPG自動車](https://ja.wikipedia.org/wiki/LPG自動車)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:1NZ-FXP_Engine_TOYOTA_JPN_TAXI_NTP10_01.jpg "wikilink")）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Toyota_DBA-TSS10_1TR-FPE.jpg "wikilink")）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Toyota_ABA-YXS10_3Y-PE.jpg "wikilink")（YXS10型）、[トヨタ・クラウンコンフォート](../Page/トヨタ・クラウンコンフォート.md "wikilink")（YXS10型）、[トヨタ・コンフォート](../Page/トヨタ・コンフォート.md "wikilink")（YXS11型）用ガスミキサー式LPGエンジン
-（[トヨタ・3Y-PE型](../Page/トヨタ・Y型エンジン.md "wikilink")）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:In-vehicle_LPG_bottle_001.JPG "wikilink") LPI に搭載されるLPG[タンク](../Page/タンク.md "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:LPG_tank_equipped_on_Honda_Accord_CF4.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:autogastank_in_japan.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:LPI_011.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:F1000065.JPG "wikilink")
+[thumb](https://ja.wikipedia.org/wiki/ファイル:1NZ-FXP_Engine_TOYOTA_JPN_TAXI_NTP10_01.jpg "wikilink")（NTP10型）用液体噴射（インジェクション）式LPGハイブリッドエンジン
+（[トヨタ・1NZ-FXP型](../Page/トヨタ・NZエンジン.md "wikilink")）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Toyota_DBA-TSS10_1TR-FPE.jpg "wikilink")（TSS10型）、[トヨタ・クラウンコンフォート](../Page/トヨタ・クラウンコンフォート.md "wikilink")（TSS10型）、[トヨタ・コンフォート](../Page/トヨタ・コンフォート.md "wikilink")（TSS11型）用液体噴射（インジェクション）式LPGエンジン
+（[トヨタ・1TR-FPE型](../Page/トヨタ・TRエンジン.md "wikilink")）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Toyota_ABA-YXS10_3Y-PE.jpg "wikilink")）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:In-vehicle_LPG_bottle_001.JPG "wikilink") LPI に搭載されるLPG[タンク](../Page/タンク.md "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:LPG_tank_equipped_on_Honda_Accord_CF4.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:autogastank_in_japan.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:LPI_011.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:F1000065.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:EGasFalconFiller.JPG "wikilink")
 
 **LPG自動車**（エルピージーじどうしゃ）は、LPG（[液化石油ガス](../Page/液化石油ガス.md "wikilink")、）を[燃料](../Page/燃料.md "wikilink")とする[オットーサイクル](../Page/オットーサイクル.md "wikilink")[エンジンを](../Page/内燃機関.md "wikilink")[原動機](../Page/原動機.md "wikilink")とした[自動車](../Page/自動車.md "wikilink")である。**LPG車**、**プロパン車**、**LPガス自動車**とも呼ばれる。
 
@@ -16,13 +17,13 @@ LPG自動車用の燃料として販売されるLPGは[プロパン](https://ja.
 
 ## 燃料の単価比較
 
-日本でのLPG単価をガソリンや軽油と比較すると、一例として、2007年11月時点でレギュラーガソリンは145円、軽油は121円であるのに対し、LPGは84.1円である\[4\]。2010年3月時点ではレギュラーガソリンは131.3円、軽油は110.5円に対し、LPGは85.0円(店頭現金価格)である\[5\]。価格には国税である[石油ガス税](https://ja.wikipedia.org/wiki/石油ガス税 "wikilink")が9.8円/[L](../Page/リットル.md "wikilink")（17円50銭/[kg](https://ja.wikipedia.org/wiki/キログラム "wikilink")）が含まれている（地方税はない）。天然ガスと比較すると、道路財源（[道路特定財源制度](../Page/道路特定財源制度.md "wikilink")）としての燃料課税は無税で、2007年4月の時点における[東京](../Page/東京.md "wikilink")地区の価格は71.03-84.68円/[N](../Page/標準状態.md "wikilink")[m<sup>3</sup>となっている](../Page/立方メートル.md "wikilink")\[6\]。
+日本でのLPG単価をガソリンや軽油と比較すると、一例として、2007年11月時点でレギュラーガソリンは145円、軽油は121円であるのに対し、LPGは84.1円である\[4\]。2010年3月時点ではレギュラーガソリンは131.3円、軽油は110.5円に対し、LPGは85.0円(店頭現金価格)である\[5\]。価格には国税である[石油ガス税](../Page/石油ガス税.md "wikilink")が9.8円/[L](../Page/リットル.md "wikilink")（17円50銭/[kg](https://ja.wikipedia.org/wiki/キログラム "wikilink")）が含まれている（地方税はない）。天然ガスと比較すると、道路財源（[道路特定財源制度](../Page/道路特定財源制度.md "wikilink")）としての燃料課税は無税で、2007年4月の時点における[東京](../Page/東京.md "wikilink")地区の価格は71.03-84.68円/[N](../Page/標準状態.md "wikilink")[m<sup>3</sup>となっている](../Page/立方メートル.md "wikilink")\[6\]。
 
 ## 普及状況
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:68218_at_Badachu_\(20060203162750\).JPG "wikilink")、2006年撮影）\]\] 2011年の世界におけるLPG自動車の普及台数は2,100万台で、2000年の730万台から3倍以上に増えている\[7\]。国別の普及台数は、第1位がトルコの334万台、第2位が[ポーランド](../Page/ポーランド.md "wikilink")の248万台、第3位が韓国の246万台、第4位が[イタリア](../Page/イタリア.md "wikilink")の179万台、第5位が[インド](../Page/インド.md "wikilink")の171万台、第6位が[ロシア](../Page/ロシア.md "wikilink")の140万台となっている\[8\]。
 
-車種構成は国によって異なり、日本や韓国ではタクシーや小型貨物車がオートガス需要の多くを占め、欧州では自家用車が多くを占める\[9\]。韓国では、LPG供給量の問題から、タクシーのような事業用自動車、障害者、国家有功者にLPG車の購入が制限されているが、大気汚染対策から、一般人の購入を解禁する動きがある。
+車種構成は国によって異なり、日本や韓国ではタクシーや小型貨物車がオートガス需要の多くを占め、欧州では自家用車が多くを占める\[9\]。韓国では、LPG供給量の問題から、タクシーのような事業用自動車、障害者、国家有功者にLPG車の購入が制限されているが、大気汚染対策から、一般人の購入を解禁する動きがある。日本国内では購入の制限はないものの、需要家が事業用自動車が中心であることからオートガススタンドの営業時間がガソリンスタンドより短かかったり、そもそもオートガススタンド自体が数がガソリンスタンドよりは圧倒的に少ない（それでも天然ガス自動車用の天然ガススタンドよりはまだ多い）こと、充填にも資格が必要とされるためセルフ式スタンドが存在しないこと、定期的な容器検査が必要とされること等が、一部の趣味者を除いてLPG自動車の一般車としての普及の足かせであることは否めない。
 
 イギリスでは、政府のパワーシフトプログラムにより普及が進んでいる。燃料税の優遇の他、[ロードプライシング](../Page/ロードプライシング.md "wikilink")での通行税免除や、[バスレーン](../Page/バスレーン.md "wikilink")通行許可等の多数の優遇があり、[エネルギー](https://ja.wikipedia.org/wiki/エネルギー "wikilink")分散化の一手として行われており、周辺のオランダなどからLPG改造した車両の輸入も多い。欧州でのLPG車のシェアは、どの国でも全保有台数の約5%程度である\[10\]。世界LPG協会（WLPGA）は、協会内に委員会（GAIN）を設置してLPG車の積極的な普及活動を行っている\[11\]。
 

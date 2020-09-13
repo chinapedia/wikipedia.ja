@@ -35,7 +35,7 @@
       -
         「ON THE WAY COMEDY 道草」
 
-2006年4月よりスポンサーが[新日本石油](https://ja.wikipedia.org/wiki/新日本石油 "wikilink")（現：[JXTGエネルギー](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")）ほか各社（タイムテーブルの表記による）となり、それまで40秒×2回であったENEOSの[CM枠が](../Page/コマーシャルメッセージ.md "wikilink")40秒×1回となった。そのため番組名から「ENEOS」がなくなり、番組公式サイトにおけるENEOSの表記も少なくなった。2007年4月からはタイトルに再び「ENEOS」が付いたが、2007年9月をもって撤退した。
+2006年4月よりスポンサーが[新日本石油](https://ja.wikipedia.org/wiki/新日本石油 "wikilink")（現：[ENEOS](../Page/ENEOS.md "wikilink")）ほか各社（タイムテーブルの表記による）となり、それまで40秒×2回であったENEOSの[CM枠が](../Page/コマーシャルメッセージ.md "wikilink")40秒×1回となった。そのため番組名から「ENEOS」がなくなり、番組公式サイトにおけるENEOSの表記も少なくなった。2007年4月からはタイトルに再び「ENEOS」が付いたが、2007年9月をもって撤退した。
 
 道草は金曜日には放送されなかったが、オープニング後枠とドラマ終了後枠のCMが、各局金曜日夕方の番組内のCM枠で放送されることがあった。
 
@@ -102,7 +102,7 @@
 
   - \- [DVD](../Page/DVD.md "wikilink")版公式サイト
 
-[Category:TOKYO_FMの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組の歴史 "wikilink") [Category:JFN系のラジオドラマ](https://ja.wikipedia.org/wiki/Category:JFN系のラジオドラマ "wikilink") [Category:ラジオのミニ番組](https://ja.wikipedia.org/wiki/Category:ラジオのミニ番組 "wikilink") [Category:JFN系ラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの一社提供番組 "wikilink") [Category:JXTGグループ単独提供番組](https://ja.wikipedia.org/wiki/Category:JXTGグループ単独提供番組 "wikilink") [Category:番組の企画](https://ja.wikipedia.org/wiki/Category:番組の企画 "wikilink") [Category:木皿泉](https://ja.wikipedia.org/wiki/Category:木皿泉 "wikilink") [Category:2001年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のラジオ番組_\(日本\) "wikilink") [Category:2001年のラジオドラマ](https://ja.wikipedia.org/wiki/Category:2001年のラジオドラマ "wikilink") [Category:コメディドラマ](https://ja.wikipedia.org/wiki/Category:コメディドラマ "wikilink")
+[Category:TOKYO_FMの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組の歴史 "wikilink") [Category:JFN系のラジオドラマ](https://ja.wikipedia.org/wiki/Category:JFN系のラジオドラマ "wikilink") [Category:ラジオのミニ番組](https://ja.wikipedia.org/wiki/Category:ラジオのミニ番組 "wikilink") [Category:JFN系ラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの一社提供番組 "wikilink") [Category:ENEOSグループ単独提供番組](https://ja.wikipedia.org/wiki/Category:ENEOSグループ単独提供番組 "wikilink") [Category:番組の企画](https://ja.wikipedia.org/wiki/Category:番組の企画 "wikilink") [Category:木皿泉](https://ja.wikipedia.org/wiki/Category:木皿泉 "wikilink") [Category:2001年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のラジオ番組_\(日本\) "wikilink") [Category:2001年のラジオドラマ](https://ja.wikipedia.org/wiki/Category:2001年のラジオドラマ "wikilink") [Category:コメディドラマ](https://ja.wikipedia.org/wiki/Category:コメディドラマ "wikilink")
 
 1.  公式[ホームページ](../Page/ホームページ.md "wikilink")で事前に告知された。例を挙げるとTOKYO FMでの[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")放送は18:00 - 18:10であった。
 2.  15:00前か18:00以降のどこかで必ず放送されるが、その放送時間は局によって異なった。

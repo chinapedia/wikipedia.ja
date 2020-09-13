@@ -13,7 +13,7 @@
 
 ### お菓子系時代
 
-一旦は芸能への道を絶たれた形となったが、その後、路上[スカウトにより](../Page/スカウト_\(勧誘\).md "wikilink")[グラビアモデル](https://ja.wikipedia.org/wiki/グラビアモデル "wikilink")としての活動を決意。[お菓子系](../Page/お菓子系.md "wikilink")雑誌『[クリーム](https://ja.wikipedia.org/wiki/クリーム_\(雑誌\) "wikilink")』（1997年8月号）でグラビアデビューを飾った。なお、このときスカウトを行った人物である千堂絵美（後の[清水かおり](../Page/清水かおり.md "wikilink")）は、以後萩原のマネージャー業務を担当したが、スカウト当時は自らもお菓子系アイドルとして活動していた異色の存在であった。萩原本人は、現役モデルによるスカウトであったことが仕事を受諾した一因と話している。
+一旦は芸能への道を絶たれた形となったが、その後、路上[スカウトにより](../Page/スカウト_\(勧誘\).md "wikilink")[グラビアモデル](https://ja.wikipedia.org/wiki/グラビアモデル "wikilink")としての活動を決意。[お菓子系](../Page/お菓子系.md "wikilink")雑誌『[クリーム](../Page/クリーム_\(雑誌\).md "wikilink")』（1997年8月号）でグラビアデビューを飾った。なお、このときスカウトを行った人物である千堂絵美（後の[清水かおり](../Page/清水かおり.md "wikilink")）は、以後萩原のマネージャー業務を担当したが、スカウト当時は自らもお菓子系アイドルとして活動していた異色の存在であった。萩原本人は、現役モデルによるスカウトであったことが仕事を受諾した一因と話している。
 
 デビュー最初期はこの千堂マネージャーによって与えられた**久保 くるみ**（くぼ くるみ）名義で誌面に登場していたが、この芸名を「変だからヤダ」と感じたことから**萩原 舞**と自ら考案し、改名\[7\]。
 
@@ -73,7 +73,7 @@
   - 猥褻モデル （2005年11月18日、アリスJAPAN）
   - 白液姫〜しろえきひめ〜 （2005年12月16日、アリスJAPAN）
   - ももいろの園 （2006年1月20日、アリスJAPAN） - 共演:[早乙女みなき](../Page/早乙女みなき.md "wikilink")、白河みゆり
-  - マイチィの[痴女](../Page/痴女.md "wikilink")日記 （2006年2月17日、アリスJAPAN）
+  - マイチィの痴女日記 （2006年2月17日、アリスJAPAN）
   - 悶絶セレナーデ （2006年3月17日、アリスJAPAN）
   - 萩原舞スペシャル3 （2006年7月28日、サクセス・ビデオコミュニティー）
   - COMPLETE FUCK 萩原舞 （2006年12月22日、アリスJAPAN）※総集編
@@ -126,8 +126,6 @@
 ※以下は、[18禁サイト](../Page/レイティング.md "wikilink")
 
   - [アリスJAPAN 女優詳細 萩原舞](http://www.alicejapan.co.jp/actress.php?actress_id=eec394e626a643fe071ba4edf0624053)
-
-__目次強制__
 
 [Category:日本のAV女優](https://ja.wikipedia.org/wiki/Category:日本のAV女優 "wikilink") [Category:お菓子系アイドル](https://ja.wikipedia.org/wiki/Category:お菓子系アイドル "wikilink") [Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink") [Category:1982年生](https://ja.wikipedia.org/wiki/Category:1982年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:本名非公開の人物](https://ja.wikipedia.org/wiki/Category:本名非公開の人物 "wikilink")
 

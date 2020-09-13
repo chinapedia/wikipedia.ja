@@ -27,7 +27,9 @@
 
 [2013年](../Page/2013年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")にAndroid版がリリースされた。ボイスは今まで同様全員フルボイスであるが、『D\&T』が含まれていない。値段は1,600円であり、Google Play等で購入できる。
 
-2014年、完全版にあたる『智代アフター 〜It's a Wonderful Life〜 PerfectEdition』の発売が9月26日に決定した\[3\]。こちらのバージョンには『D\&T』が収録されている。
+[2014年](../Page/2014年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")には、完全版にあたる『智代アフター 〜It's a Wonderful Life〜 PerfectEdition』が発売された\[3\]。こちらのバージョンには『D\&T』が収録されている。
+
+[2020年](../Page/2020年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")にNintendo Swich版『智代アフター～It's a Wonderful Life～CS Edition』が発売予定。
 
 ## ストーリー
 
@@ -113,8 +115,6 @@
 
 オープニング、エンディング曲のフルコーラス版は入手手段がPC初回限定版の付録サウンドトラックのみしかなく、長らくの間一般発売されなかったが、2007年[4月27日](../Page/4月27日.md "wikilink")にそのサウンドトラックが単体で発売された。
 
-『Light colors』は2009年5月に[MintJam](https://ja.wikipedia.org/wiki/MintJam "wikilink")によってカバーされた。『-KEY tribute album- Vivid Colors』に収録されている。
-
 ## スタッフ
 
   - 企画 - [麻枝准](../Page/麻枝准.md "wikilink")
@@ -141,10 +141,13 @@
 ## 外部リンク
 
   - [Key公式サイト](http://key.visualarts.gr.jp/) <span style="color:red">18歳未満閲覧禁止ページへのリンクあり</span>
-  - [PS2版公式サイト（プロトタイプ）](http://www.prot.co.jp/ps2/tomoyoafter/)
-  - [Xbox 360版公式サイト（プロトタイプ）](http://www.prot.co.jp/xbox/tomoyoafter/)
+  - プロトタイプ公式サイト
+      - [PlayStation 2版](http://www.prot.co.jp/ps2/tomoyoafter/)
+      - [Xbox 360版](http://www.prot.co.jp/xbox/tomoyoafter/)
+      - [Nintendo Switch版](https://www.prot.co.jp/switch/tomoyoafter/index.html)
+  - [ビジュアルアーツ★MottoSP（Android版サイト）](http://sp.v-motto.jp/pc/appli/tomoyo/index.php)
 
-[Category:CLANNAD](https://ja.wikipedia.org/wiki/Category:CLANNAD "wikilink") [Category:Keyのゲームソフト](https://ja.wikipedia.org/wiki/Category:Keyのゲームソフト "wikilink") [Category:2005年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2005年のアダルトゲーム "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:PlayStation_Portable用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable用ソフト "wikilink") [Category:Xbox_360用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_360用ソフト "wikilink") [Category:PlayStation_3用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_3用ソフト "wikilink") [Category:ゲームのスピンオフ作品](https://ja.wikipedia.org/wiki/Category:ゲームのスピンオフ作品 "wikilink") [Category:家族を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:家族を題材としたコンピュータゲーム "wikilink") [Category:健忘を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:健忘を題材としたコンピュータゲーム "wikilink")
+[Category:CLANNAD](https://ja.wikipedia.org/wiki/Category:CLANNAD "wikilink") [Category:Keyのゲームソフト](https://ja.wikipedia.org/wiki/Category:Keyのゲームソフト "wikilink") [Category:2005年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2005年のアダルトゲーム "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:PlayStation_Portable用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable用ソフト "wikilink") [Category:Xbox_360用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_360用ソフト "wikilink") [Category:PlayStation_3用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_3用ソフト "wikilink") [Category:Nintendo_Switch用ソフト](https://ja.wikipedia.org/wiki/Category:Nintendo_Switch用ソフト "wikilink") [Category:ゲームのスピンオフ作品](https://ja.wikipedia.org/wiki/Category:ゲームのスピンオフ作品 "wikilink") [Category:家族を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:家族を題材としたコンピュータゲーム "wikilink") [Category:健忘を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:健忘を題材としたコンピュータゲーム "wikilink")
 
 1.  コンプティーク2009年2月号付録
 2.  [PSP版『智代アフター 〜It's a Wonderful Life〜 CS Edition』の詳細が発表 ホビー マイコミジャーナル](https://news.mynavi.jp/news/2008/09/18/061/)

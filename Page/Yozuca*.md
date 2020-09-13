@@ -3,7 +3,7 @@
 
 **yozuca\***（ヨズカ、[3月21日](../Page/3月21日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")。
 
-[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")出身\[2\]。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")\[3\]。[愛称](../Page/愛称.md "wikilink")は「**ヨズ**」\[4\]など。[音楽ユニット](../Page/音楽ユニット.md "wikilink")「[yozurino\*](https://ja.wikipedia.org/wiki/yozurino* "wikilink")」や「GLS」としても活動しており、[アニメ](../Page/アニメ.md "wikilink")や[ゲーム](../Page/ゲーム.md "wikilink")の曲を多く歌っている。所属[レコードレーベル](../Page/レコードレーベル.md "wikilink")と[事務所](../Page/事務所.md "wikilink")は、[ロックンバナナ](../Page/ロックンバナナ.md "wikilink")を経て現在では**[Lantis](../Page/ランティス.md "wikilink")・Peak A Soul+**に在籍している。
+[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")出身\[2\]。[血液型は](../Page/ABO式血液型.md "wikilink")[A型](../Page/ABO式血液型.md "wikilink")\[3\]。[愛称](../Page/愛称.md "wikilink")は「**ヨズ**」\[4\]など。[音楽ユニット](../Page/音楽ユニット.md "wikilink")「[yozurino\*](https://ja.wikipedia.org/wiki/yozurino* "wikilink")」や「GLS」としても活動しており、[アニメ](../Page/アニメ.md "wikilink")や[ゲーム](../Page/ゲーム.md "wikilink")の曲を多く歌っている。所属[レコードレーベル](../Page/レコードレーベル.md "wikilink")と[事務所は](../Page/芸能事務所.md "wikilink")、[ロックンバナナ](../Page/ロックンバナナ.md "wikilink")を経て現在では**[Lantis](../Page/ランティス.md "wikilink")・Peak A Soul+**に在籍している。
 
 代表曲は、「[サクラサクミライコイユメ](../Page/サクラサクミライコイユメ.md "wikilink")」、「[S.S.D\!](https://ja.wikipedia.org/wiki/S.S.D! "wikilink")」、「[会いたいよ](https://ja.wikipedia.org/wiki/会いたいよ/メグル/REFLECTION "wikilink")」など\[5\]。
 

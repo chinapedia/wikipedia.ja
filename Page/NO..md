@@ -12,7 +12,7 @@
   - [ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")は、元・[Mi-Ke](../Page/Mi-Ke.md "wikilink")の[村上遙](../Page/村上遙.md "wikilink")が担当し、オープニングの「エヌオーッ\!」というタイトルコールの叫びは、ナレーターを務める村上遥が「エヌオーッ\!」のタイトルコールを叫ぶ回と、プロモーションビデオに出演するアーティスト自ら「エヌオーッ\!」のタイトルコールを叫ぶ回があり、オープニングの「エヌオーッ\!」のタイトルコールの声で、今日はどのアーティストのプロモーションビデオが放映されるかが分かる目安にもなっていた。ただし、必ず声とその日に登場するアーティストが一致しているわけではなかった。ちなみに、「エヌオーッ\!」のタイトルコールを収録していたアーティストは、[B'z](../Page/B'z.md "wikilink")・[ZARD](../Page/ZARD.md "wikilink")（[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")）・[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")・[宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")・[FIELD OF VIEW](../Page/FIELD_OF_VIEW.md "wikilink")（ボーカルの[浅岡雄也](../Page/浅岡雄也.md "wikilink")）・[PAMELAH](../Page/PAMELAH.md "wikilink")（ボーカルの[水原由貴](../Page/水原由貴.md "wikilink")）などであった。
   - [1996年](../Page/1996年.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")には、年末の1時間スペシャル番組として「NO.スペシャル」が一部系列局を除き放送されていた\[1\]。司会は[村上遥](https://ja.wikipedia.org/wiki/村上遥 "wikilink")とUJが担当していた回や、[テレビ朝日](../Page/テレビ朝日.md "wikilink")の[高井正憲](../Page/高井正憲.md "wikilink")アナ（当時）が担当していた回もあった。
   - オープニングや放送中に表示されるタイトルロゴは何度か変遷しており、1993年の放送開始～1998年3月まではオープニングで使用された様々なロゴをそのまま使用し、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")4月からは、NO.の文字ロゴ、オープニングのタイトルコール、担当ナレーターが一新され、1998年夏から1999年の1月末までは、当時「[CD NEWS](https://ja.wikipedia.org/wiki/CD_NEWS "wikilink")」のナレーターも担当していた[鈴木聖子](https://ja.wikipedia.org/wiki/鈴木聖子 "wikilink")がナレーターを担当、1999年2月から9月24日の最終回まではHIROMIがナレーターを担当した。
-  - キー局のテレビ朝日では[月曜](https://ja.wikipedia.org/wiki/月曜 "wikilink")から[金曜](https://ja.wikipedia.org/wiki/金曜 "wikilink")の20:54から20:56までの2分間の放送であったが、放送時間帯は各系列局によって異なっていた。各局の過去の放送時間は、各局の放送時間を参照のこと。
+  - キー局のテレビ朝日では[月曜から](../Page/月曜日.md "wikilink")[金曜の](../Page/金曜日.md "wikilink")20:54から20:56までの2分間の放送であったが、放送時間帯は各系列局によって異なっていた。各局の過去の放送時間は、各局の放送時間を参照のこと。
   - 1997年1月には、放送1000回を数え、その1000回目に放送されたのは、[B'z](../Page/B'z.md "wikilink")の[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")の初のソロアルバム『[マグマ](../Page/マグマ_\(アルバム\).md "wikilink")』の収録曲「波」のビデオクリップだった。
   - 当番組で放送された多数のビデオクリップは、VHSやDVDでの商品化に至っていない映像も多数存在しているが、2003年7月21日に発売された、アニメ『[スラムダンク](https://ja.wikipedia.org/wiki/スラムダンク "wikilink")』のコンピレーション・アルバム『[THE BEST OF TV ANIMATION SLAM DUNK〜Single Collection〜](https://ja.wikipedia.org/wiki/THE_BEST_OF_TV_ANIMATION_SLAM_DUNK〜Single_Collection〜 "wikilink")』に付属している特典DVDに、ZARD「[マイ フレンド](../Page/マイ_フレンド.md "wikilink")」や大黒摩季「[あなただけ見つめてる](../Page/あなただけ見つめてる.md "wikilink")」などの、当時放送された映像をそのまま収録しており、「NO.」で放送された映像を、唯一公式にDVD化した作品となっている。
   - 1999年5月27日にZARDの初のベストアルバム『[ZARD BEST The Single Collection 〜軌跡〜](https://ja.wikipedia.org/wiki/ZARD_BEST_The_Single_Collection_〜軌跡〜 "wikilink")』が発売されるにあたり、当番組ではこのベストアルバムの紹介映像が放送される際には、画面左上にテロップで「発売まであと○日」と表示し、カウントダウンを行っていた。
@@ -50,7 +50,7 @@
   - B'z「[LOOSE](../Page/LOOSE.md "wikilink")」全曲紹介 「[BAD COMMUNICATION（000-18）](../Page/LOOSE.md "wikilink")」
   - 大黒摩季「[ら・ら・ら](../Page/ら・ら・ら.md "wikilink")」「[いちばん近くにいてね](../Page/いちばん近くにいてね.md "wikilink")」「[愛してます](https://ja.wikipedia.org/wiki/愛してます_\(大黒摩季の曲\) "wikilink")」
   - 大黒摩季「[LA.LA.LA](../Page/LA.LA.LA.md "wikilink")」全曲紹介
-  - 大黒摩季「[BACK BEATs \#1](https://ja.wikipedia.org/wiki/BACK_BEATs_#1 "wikilink")」全曲紹介
+  - 大黒摩季「[BACK BEATs\#1](https://ja.wikipedia.org/wiki/BACK_BEATs#1 "wikilink")」全曲紹介
   - 大黒摩季「[ROCKs](../Page/永遠の夢に向かって_\(アルバム\).md "wikilink")」(ベストアルバム「BACK BEATs \#1」発売時に新たに制作されたビデオクリップが放送された。)
   - 宇徳敬子「[不思議な世界](../Page/不思議な世界.md "wikilink")」
   - [PAMELAH](../Page/PAMELAH.md "wikilink")「[LOOKING FOR THE TRUTH](../Page/LOOKING_FOR_THE_TRUTH.md "wikilink")」
@@ -127,12 +127,6 @@
   - [都のかおり](https://ja.wikipedia.org/wiki/都のかおり "wikilink")（同じく、同時期のテレ朝の帯番組）
 
 ## 脚注
-
-<div class="references-small">
-
-<references />
-
-</div>
 
 [Category:1993年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1993年のテレビ番組_\(日本\) "wikilink") [Category:テレビ朝日の音楽番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の音楽番組 "wikilink") [Category:テレビ朝日の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ朝日の帯番組の歴史 "wikilink") [Category:テレビ朝日のミニ番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日のミニ番組 "wikilink") [Category:ビーイング](https://ja.wikipedia.org/wiki/Category:ビーイング "wikilink")
 

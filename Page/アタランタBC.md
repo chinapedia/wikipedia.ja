@@ -3,11 +3,11 @@
 
 [220px](https://ja.wikipedia.org/wiki/ファイル:Atalanta_1913-14.jpg "wikilink")
 
-**アタランタ・ベルガマスカ・カルチョ**（**Atalanta Bergamasca Calcio s.p.a.**）は、[イタリア](../Page/イタリア.md "wikilink")の[ロンバルディア州](../Page/ロンバルディア州.md "wikilink")[ベルガモ](../Page/ベルガモ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。チーム名のアタランタとは[ギリシア神話](../Page/ギリシア神話.md "wikilink")の[アタランテー](../Page/アタランテー.md "wikilink")のこと。
+**アタランタ・ベルガマスカ・カルチョ**（**Atalanta Bergamasca Calcio**）は、[イタリア](../Page/イタリア.md "wikilink")の[ロンバルディア州](../Page/ロンバルディア州.md "wikilink")[ベルガモ](../Page/ベルガモ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。チーム名のアタランタとは[ギリシア神話](../Page/ギリシア神話.md "wikilink")の[アタランテー](../Page/アタランテー.md "wikilink")のこと。
 
 ## 歴史
 
-レスラトンでの会合ががきっかけとなって、1907年10月17日、ジノとフェルッチョのアマティ兄弟、エウジェニオ・エリオ、ジョバンニ・ロベルティ、アレッサンドロ・フォルリニの5人の男達によって創設された。この頃のユニフォームの配色は白と黒。戦争などの中断期間を経た後、1920年の全国選手権はベルガモから出場できるのは1チームだけという規定があったので同じ市内のライバルチームであるベルガマスカとブレシアで試合をおこない2-0と破った後、4月4日にベルガマスカと合併。この時にユニフォームの配色がアタランタの黒とベルガマスカの青を組み合わせて青黒になった。\[1\]
+レスラトンでの会合がきっかけとなって、1907年10月17日、ジノとフェルッチョのアマティ兄弟、エウジェニオ・エリオ、ジョバンニ・ロベルティ、アレッサンドロ・フォルリニの5人の男達によって創設された。この頃のユニフォームの配色は白と黒。戦争などの中断期間を経た後、1920年の全国選手権はベルガモから出場できるのは1チームだけという規定があったので同じ市内のライバルチームであるベルガマスカとブレシアで試合をおこない2-0と破った後、4月4日にベルガマスカと合併。この時にユニフォームの配色がアタランタの黒とベルガマスカの青を組み合わせて青黒になった。\[1\]
 
 定評ある選手育成においては、[ロベルト・ドナドーニ](../Page/ロベルト・ドナドーニ.md "wikilink")、[ドメニコ・モルフェオ](../Page/ドメニコ・モルフェオ.md "wikilink")ら、数々の優秀な選手を輩出している。ビッグクラブで出場機会の少ない有望な若手などの有力な(レンタル)移籍先ともなっている。[フィリッポ・インザーギ](../Page/フィリッポ・インザーギ.md "wikilink")が得点王を獲得し、スターダムへ駆け昇るきっかけとなったクラブでもある。また[マルチェロ・リッピ](../Page/マルチェロ・リッピ.md "wikilink")、[チェーザレ・プランデッリ](../Page/チェーザレ・プランデッリ.md "wikilink")、[フランチェスコ・グイドリン](https://ja.wikipedia.org/wiki/フランチェスコ・グイドリン "wikilink")など優れた指導者を輩出するクラブでもある。1999年から2003年まで、下部組織からチーム作りに携わってきた[ジョヴァンニ・ヴァヴァッソーリ](https://ja.wikipedia.org/wiki/ジョヴァンニ・ヴァヴァッソーリ "wikilink")が監督を務めた。2004-05シーズンに[アンドレア・マンドルリーニ](https://ja.wikipedia.org/wiki/アンドレア・マンドルリーニ "wikilink")の下で[セリエAに昇格したが](../Page/セリエA_\(サッカー\).md "wikilink")、同シーズン終了時に降格となった。
 
@@ -121,10 +121,9 @@
 | [2017-18](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2017-2018 "wikilink") | セリエA                                                                  | 38                                         |
 | [2018-19](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2018-2019 "wikilink") | セリエA                                                                  | 38                                         |
 | [2019-20](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2019-2020 "wikilink") | セリエA                                                                  | 38                                         |
+| [2020-21](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2020-2021 "wikilink") | セリエA                                                                  | 38                                         |
 
 ## 記録
-
-  - 2020年3月10日現在
 
 ### 欧州の成績
 
@@ -186,10 +185,40 @@
 </tr>
 <tr class="odd">
 <td><p>準々決勝</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/パリ・サンジェルマンFC" title="wikilink">パリ・サンジェルマン</a></p></td>
+<td><p>'''1-2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>'''</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020-21</p></td>
+<td><p><a href="../Page/UEFAチャンピオンズリーグ_2020-21.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
+<td><p>グループ</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>'''位</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -267,7 +296,7 @@
 <td><p>2017-18</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2017-18" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>グループE</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オリンピック・リヨン" title="wikilink">オリンピック・リヨン</a></p></td>
+<td><p><a href="../Page/オリンピック・リヨン.md" title="wikilink">オリンピック・リヨン</a></p></td>
 <td><p>1-0</p></td>
 <td><p>1-1</p></td>
 <td><p>'''1位</p></td>
@@ -414,7 +443,7 @@
 
 ### 欧州での記録
 
-  - 2020年3月10日現在
+  - 2020年8月12日現在
 
 | 大会                                                                          | 試 | 勝 | 分 | 敗 | 得 | 失 | 差 | 勝率 |
 | --------------------------------------------------------------------------- | - | - | - | - | - | - | - | -- |
@@ -433,9 +462,9 @@
 
 </div>
 
-  - 2020年1月31日現在
+  - 2020年8月31日現在
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))(副主将)   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cameroon.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))(第3主将)  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink")) ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))★ ★   ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Switzerland.svg "wikilink"))★      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Croatia.svg "wikilink"))  ★
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))(副主将)   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cameroon.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))(第3主将)  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink")) ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))★ ★   ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Switzerland.svg "wikilink"))★      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Croatia.svg "wikilink"))  ★    ★
 
 括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 
@@ -495,6 +524,8 @@
 
 ### GK
 
+  - [エトリト・ベリシャ](https://ja.wikipedia.org/wiki/エトリト・ベリシャ "wikilink")
+
 ### DF
 
   - [ガエターノ・シレア](../Page/ガエターノ・シレア.md "wikilink")
@@ -503,7 +534,27 @@
 
   - [パオロ・モンテーロ](../Page/パオロ・モンテーロ.md "wikilink")
 
+  - [グリエルモ・ステンダルド](https://ja.wikipedia.org/wiki/グリエルモ・ステンダルド "wikilink")
+
+  - [アブドゥレイ・コンコ](https://ja.wikipedia.org/wiki/アブドゥレイ・コンコ "wikilink")
+
+  - [ブカリ・ドラメ](https://ja.wikipedia.org/wiki/ブカリ・ドラメ "wikilink")
+
+  - [アンドレア・マジエッロ](https://ja.wikipedia.org/wiki/アンドレア・マジエッロ "wikilink")
+
   - [ウルビー・エマヌエルソン](../Page/ウルビー・エマヌエルソン.md "wikilink")
+
+  - [エルヴィン・ズカノヴィッチ](https://ja.wikipedia.org/wiki/エルヴィン・ズカノヴィッチ "wikilink")
+
+  - [レオナルド・スピナッツォーラ](https://ja.wikipedia.org/wiki/レオナルド・スピナッツォーラ "wikilink")
+
+  - [アリ・アドナン](https://ja.wikipedia.org/wiki/アリ・アドナン "wikilink")
+
+  - [アンドレア・コンティ](https://ja.wikipedia.org/wiki/アンドレア・コンティ_\(1994年生のサッカー選手\) "wikilink")
+
+  - [ジャンルカ・マンチーニ](https://ja.wikipedia.org/wiki/ジャンルカ・マンチーニ "wikilink")
+
+  - [アレッサンドロ・バストーニ](https://ja.wikipedia.org/wiki/アレッサンドロ・バストーニ "wikilink")
 
 ### MF
 
@@ -517,9 +568,35 @@
 
   - [コスティーニャ](https://ja.wikipedia.org/wiki/コスティーニャ "wikilink")
 
+  - [クリスティアン・ライモンディ](https://ja.wikipedia.org/wiki/クリスティアン・ライモンディ "wikilink")
+
+  - [ジュリオ・ミリアッチョ](https://ja.wikipedia.org/wiki/ジュリオ・ミリアッチョ "wikilink")
+
   - [リッカルド・モントリーヴォ](../Page/リッカルド・モントリーヴォ.md "wikilink")
 
+  - [カルロス・カルモナ](https://ja.wikipedia.org/wiki/カルロス・カルモナ "wikilink")
+
   - [マルセロ・エスティガリビア](https://ja.wikipedia.org/wiki/マルセロ・エスティガリビア "wikilink")
+
+  - [ヤスミン・クルティッチ](https://ja.wikipedia.org/wiki/ヤスミン・クルティッチ "wikilink")
+
+  - [マルコ・ダレッサンドロ](https://ja.wikipedia.org/wiki/マルコ・ダレッサンドロ "wikilink")
+
+  - [エミリアーノ・リゴーニ](https://ja.wikipedia.org/wiki/エミリアーノ・リゴーニ "wikilink")
+
+  - [ジョアン・シミッチ](https://ja.wikipedia.org/wiki/ジョアン・フェリピ・シュミット・ウルバノ "wikilink")
+
+  - [ロベルト・ガリアルディーニ](https://ja.wikipedia.org/wiki/ロベルト・ガリアルディーニ "wikilink")
+
+  - [ブライアン・クリスタンテ](https://ja.wikipedia.org/wiki/ブライアン・クリスタンテ "wikilink")
+
+  - [アルベルト・グラッシ](https://ja.wikipedia.org/wiki/アルベルト・グラッシ "wikilink")
+
+  - [アルカディウシュ・レツァ](https://ja.wikipedia.org/wiki/アルカディウシュ・レツァ "wikilink")
+
+  - [フランク・ケシエ](https://ja.wikipedia.org/wiki/フランク・ケシエ "wikilink")
+
+  - [デヤン・クルゼフスキ](https://ja.wikipedia.org/wiki/デヤン・クルゼフスキ "wikilink")
 
 ### FW
 
@@ -531,9 +608,27 @@
 
   - [フェデリコ・マガジャネス](https://ja.wikipedia.org/wiki/フェデリコ・マガジャネス "wikilink")
 
+  - [マウリシオ・ピニージャ](https://ja.wikipedia.org/wiki/マウリシオ・ピニージャ "wikilink")
+
   - [ジャンパオロ・パッツィーニ](../Page/ジャンパオロ・パッツィーニ.md "wikilink")
 
   - [アレッシオ・チェルチ](https://ja.wikipedia.org/wiki/アレッシオ・チェルチ "wikilink")
+
+  - [アントニー・ムニエ](https://ja.wikipedia.org/wiki/アントニー・ムニエ "wikilink")
+
+  - [アルベルト・パロスキ](../Page/アルベルト・パロスキ.md "wikilink")
+
+  - [アレクサンダル・ペシッチ](https://ja.wikipedia.org/wiki/アレクサンダル・ペシッチ "wikilink")
+
+  - [アンドレアス・コルネリウス](https://ja.wikipedia.org/wiki/アンドレアス・コルネリウス "wikilink")
+
+  - [アンドレア・ペターニャ](https://ja.wikipedia.org/wiki/アンドレア・ペターニャ "wikilink")
+
+  - [リッカルド・オルソリーニ](https://ja.wikipedia.org/wiki/リッカルド・オルソリーニ "wikilink")
+
+  - [ブリアン・カベサス](https://ja.wikipedia.org/wiki/ブリアン・カベサス "wikilink")
+
+  - [マルコ・トゥミネッロ](https://ja.wikipedia.org/wiki/マルコ・トゥミネッロ "wikilink")
 
 ## サポーター
 

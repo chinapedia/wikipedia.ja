@@ -206,7 +206,7 @@
 
 ## 脚注
 
-[Category:1982年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1982年のテレビ番組_\(日本\) "wikilink") [Category:関西テレビの番組の歴史](https://ja.wikipedia.org/wiki/Category:関西テレビの番組の歴史 "wikilink") [Category:関西テレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:関西テレビの情報・ワイドショー番組 "wikilink") [Category:フジテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:フジテレビの情報・ワイドショー番組 "wikilink") [Category:横山やすし・西川きよし](https://ja.wikipedia.org/wiki/Category:横山やすし・西川きよし "wikilink")
+[Category:1982年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1982年のテレビ番組_\(日本\) "wikilink") [Category:関西テレビの番組の歴史](https://ja.wikipedia.org/wiki/Category:関西テレビの番組の歴史 "wikilink") [Category:関西テレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:関西テレビの情報・ワイドショー番組 "wikilink") [Category:フジテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:フジテレビの情報・ワイドショー番組 "wikilink") [Category:横山やすし](https://ja.wikipedia.org/wiki/Category:横山やすし "wikilink")
 
 1.  それまでは[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（MBS）の『[八木治郎ショー・いい朝8時](../Page/八木治郎ショー・いい朝8時.md "wikilink")』をネットしていた。
 2.  それまでは[朝日放送](../Page/朝日放送テレビ.md "wikilink")（ABC）の『[おはようワイド・土曜の朝に](../Page/おはようワイド・土曜の朝に.md "wikilink")』をネットしていたが、同時期に開局した[新潟テレビ21](https://ja.wikipedia.org/wiki/新潟テレビ21 "wikilink")に同番組のネット権を移譲して放送を開始。

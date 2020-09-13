@@ -3,11 +3,13 @@
 
 **m.c.A・T**（エムシーエーティー、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[5月15日](../Page/5月15日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。[1990年代](../Page/1990年代.md "wikilink")に[DA PUMPの](../Page/DA_PUMP.md "wikilink")[プロデューサー](../Page/プロデューサー.md "wikilink")として数多くのヒット曲を送り出してきた。
 
-本名及び旧芸名は**富樫 明生**（とがし あきお）で、作曲・編曲は本名名義で行っている（作詞のみm.c.A・T名義）。血液型は[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。個人事務所であるアキオワンダー（aquio wonder）所属。
+本名及び旧芸名は**富樫 明生**（とがし あきお）で、作曲・編曲は本名名義で行っている（作詞のみm.c.A・T名義）。血液型は[O型](../Page/ABO式血液型.md "wikilink")。個人事務所であるアキオワンダー（aquio wonder）所属。
+
+90'sのニューヨークハウスでよく用いられていたm.c.A・T本人のボイスサンプルが流行した裏の顔も持つ。
 
 ## 来歴・人物
 
-[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[豊平区](../Page/豊平区.md "wikilink")出身\[1\]。父は[NHK札幌放送局](../Page/NHK札幌放送局.md "wikilink")の職員だった。[北海道札幌月寒高等学校](../Page/北海道札幌月寒高等学校.md "wikilink")、[北海道教育大学](https://ja.wikipedia.org/wiki/北海道教育大学 "wikilink")旭川校卒業。小学校、中学国語、高校国語、養護学校[教員免許](https://ja.wikipedia.org/wiki/教員免許 "wikilink")所持\[2\]。中学生のときからギターを始め、高校時代から[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")に関心を持つ\[3\]。[北海道教育大学](https://ja.wikipedia.org/wiki/北海道教育大学 "wikilink")旭川校では軽音部に所属、在学時代から**アキオ・ワンダー・トガシ**と名乗り、カモフラージュJやアキオ・ワンダーwithミルク玉虫などのアマチュアバンドで活躍し、地元のアマチュア音楽界では有名な存在だった。
+[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[豊平区](../Page/豊平区.md "wikilink")出身\[1\]。父は[NHK札幌放送局](../Page/NHK札幌放送局.md "wikilink")の職員だった。[北海道札幌月寒高等学校](../Page/北海道札幌月寒高等学校.md "wikilink")、[北海道教育大学](https://ja.wikipedia.org/wiki/北海道教育大学 "wikilink")旭川校卒業。小学校、中学国語、高校国語、特別支援学校[教員免許](https://ja.wikipedia.org/wiki/教員免許 "wikilink")所持\[2\]。中学生のときからギターを始め、高校時代から[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")に関心を持つ\[3\]。[北海道教育大学](https://ja.wikipedia.org/wiki/北海道教育大学 "wikilink")旭川校では軽音部に所属、在学時代から**アキオ・ワンダー・トガシ**と名乗り、カモフラージュJやアキオ・ワンダーwithミルク玉虫などのアマチュアバンドで活躍し、地元のアマチュア音楽界では有名な存在だった。
 
 本名・**富樫 明生**の名義で、[1989年](../Page/1989年.md "wikilink")にデビュー。シングル・アルバム1枚ずつリリースした後しばし沈黙。[1992年](../Page/1992年.md "wikilink")、[小松壮一郎](https://ja.wikipedia.org/wiki/小松壮一郎 "wikilink")監督の日本初の"音楽ダンス映画"といわれる『[ハートブレイカー 弾丸より愛を込めて](https://ja.wikipedia.org/wiki/ハートブレイカー_弾丸より愛を込めて "wikilink")』の音楽を手がけた後\[4\]\[5\]\[6\][1993年](../Page/1993年.md "wikilink")にm.c.A・Tとして[avex traxより](https://ja.wikipedia.org/wiki/avex_trax "wikilink")『[Bomb A Head\!](../Page/Bomb_A_Head!.md "wikilink")』で再デビュー（富樫自身は、自らはプロデューサーであって、A・Tは別人格だと主張している）。[エイベックスに於いては同時期にメジャーデビューした](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[TRF](../Page/TRF.md "wikilink")と並び最長の在籍期間を持つ。メロディアスでハイトーンのヴォーカル、アップテンポな曲調が特徴。その他の代表的な曲としては『風に叫ぶ』や、コカ・コーラ社製品「ファンタ」のCMソングに起用された『SUPER HAPPY』、後に自身がプロデュースする[DA PUMPがカバーした](../Page/DA_PUMP.md "wikilink")『[ごきげんだぜっ\!](https://ja.wikipedia.org/wiki/ごきげんだぜっ!_〜Nothing_But_Something〜 "wikilink")』などがある。
 
@@ -18,6 +20,8 @@
 オフィシャルブログでは、自身が[仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ "wikilink")のファンであることが分かる。幼馴染にNHKキャスターの[有江活子](../Page/有江活子.md "wikilink")がいる。
 
 [2017年](../Page/2017年.md "wikilink")、あるある議事堂SPに出演し、[DA PUMPのプロデュース時代に数億円稼いでいたと明らかにした](../Page/DA_PUMP.md "wikilink")。また、その時に作ったスタジオで現在でも[Prizmmy☆](https://ja.wikipedia.org/wiki/Prizmmy☆ "wikilink")や[たこやきレインボー](https://ja.wikipedia.org/wiki/たこやきレインボー "wikilink")などに楽曲提供や[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")とともにプロバスケットボールチーム「レバンガ北海道」の応援歌を制作したり、「2017 m.c.A・T祭 " 俺フェス "」などのイベントを開催するなどして活動している。
+
+[2019年](../Page/2019年.md "wikilink")、北海道の民放5局と[NHK札幌放送局](../Page/NHK札幌放送局.md "wikilink")による共同キャンペーン『[One Hokkaido Project](https://ja.wikipedia.org/wiki/One_Hokkaido_Project "wikilink")』のキャンペーンソングに参加\[8\]。
 
 ## m.c.＋A・T
 
@@ -684,7 +688,7 @@ AVCD-23295:通常盤</p></td>
 <li>Bomb A Head! / 小西彩乃 （東京女子流）</li>
 <li>Bomb A Head! - ACAPPELLA</li>
 </ol>
-<p>「Bomb A Head!」のさまざまなバージョンだけのコンピレーションアルバム[8]</p></td>
+<p>「Bomb A Head!」のさまざまなバージョンだけのコンピレーションアルバム[9]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -834,26 +838,31 @@ AVCD-23295:通常盤</p></td>
 <td><p>作曲</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/西城秀樹" title="wikilink">西城秀樹</a></p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/Love_Torture" title="wikilink">Love Torture</a>」</p></td>
+<td><p>作詞：m.c.A・T、作曲編曲：富樫明生</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/SHU-I" title="wikilink">SHU-I</a></p></td>
 <td><p>「大逆転」</p></td>
 <td><p>作詞</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/SUPER_JUNIOR-M" title="wikilink">SUPER JUNIOR-M</a></p></td>
 <td><p>「太完美(Perfection)」</p></td>
 <td><p>作詞</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/貴水博之.md" title="wikilink">貴水博之</a></p></td>
 <td><p>「転がる街」</p></td>
 <td><p>作曲</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/たこやきレインボー" title="wikilink">たこやきレインボー</a></p></td>
 <td><p>「怒るでしかし！」</p></td>
 <td><p>作曲</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/DA_PUMP.md" title="wikilink">DA PUMP</a></p></td>
 <td><p>「Strawberry Letter」「if...」「Nice Vibe!」「One and Only」「Com'on! Be My Girl!」「I wonder...」「We can't stop the music」「Joyful」<br />
 「Around The World」「Rhapsody in Blue」「ごきげんだぜっ！ ～Nothing But Something～」「Love Is The Final Liberty」「Feelin' Good -It's PARADAISE-」<br />
@@ -862,7 +871,7 @@ AVCD-23295:通常盤</p></td>
 「Crazy Rain」「Crash! my Love★Thanx! my Friends」「All Night Long」「We'll get The Wonderful one」</p></td>
 <td><p>作詞：m.c.A・T/作曲：富樫明生</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>「RAIN OF PAIN」「Loose Life (not so bad)」「White Moon Lullaby」「Somebody」「Do The Bad Thing」「Forever This Time」「Dragon Screamer」<br />
 「All My Love To You」「Misunderstanding」「Rollin' Fall in Love」「Without you」「ONE LOVE」「Angelize」「Steppin' and Shakin'」「Purple The Orion」<br />
@@ -871,82 +880,82 @@ AVCD-23295:通常盤</p></td>
 「Delight」「Destinies」「Chocochip Cookie &amp; Black Coffee」「Celebrator」「Sweet Thang」</p></td>
 <td><p>作詞：m.c.A・T/作曲：AKIO TOGASHI</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>「One Love WATTER NU UMUI」「Break! Go!」「LOVE PSYCHOLOGY」</p></td>
 <td><p>作詞：DA PUMP＆m.c.A・T/作曲：AKIO TOGASHI</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>「Sparkle」「Everybody Join Us (in The Party)」「Thrill」「Sound Of Bounce」</p></td>
 <td><p>作詞：KEN・m.c.A・T</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>「CORAZON」「Missin' You」</p></td>
 <td><p>作詞：ISSA &amp; m.c.A・T</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>「ROCK DA HOUSE」</p></td>
 <td><p>作詞：m.c.A・T/作曲：AKIO TOGASHI &amp; YASUHIKO HOSHINO</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>「New Position」「Who's That Girl」</p></td>
 <td><p>作詞：m.c.A・T/作曲：m.c.A・T</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/玉置成実.md" title="wikilink">玉置成実</a></p></td>
 <td><p>「暗闇物語」「Future Step」</p></td>
 <td><p>作詞：m.c.A・T/作曲：Akio Togashi</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/丹下桜.md" title="wikilink">丹下桜</a>＆<a href="https://ja.wikipedia.org/wiki/氷上恭子" title="wikilink">氷上恭子</a></p></td>
 <td><p>「C.H.O.C.O.」</p></td>
 <td><p>作詞作曲</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/TRF.md" title="wikilink">TRF</a></p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/Unite!_The_Night!" title="wikilink">Unite! The Night!</a>」「Get up! Stand up! Unity!」</p></td>
 <td><p>作詞：m.c.A・T、作曲：富樫明生</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/東方神起#.E3.82.B7.E3.83.B3.E3.82.B0.E3.83.AB" title="wikilink">東方神起</a></p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/Rising_Sun/Heart,_Mind_and_Soul" title="wikilink">Rising Sun</a>」</p></td>
 <td><p>作詞</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/AAA_(音楽グループ).md" title="wikilink">AAA</a></p></td>
 <td><p>「<a href="../Page/Friday_Party.md" title="wikilink">Friday Party</a>」</p></td>
 <td><p>作詞：m.c.A・T/作曲：Akio Togashi</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>「“Q”」</p></td>
 <td><p>作詞</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/長澤奈央" title="wikilink">長澤奈央</a></p></td>
 <td><p>「Fun Time」</p></td>
 <td><p>作詞：m.c.A・T、作曲：富樫明生</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a></p></td>
 <td><p>「from your letter」</p></td>
 <td><p>作曲</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Prizmmy☆" title="wikilink">Prizmmy☆</a></p></td>
 <td><p>「Smooth &amp; Easy」</p></td>
 <td><p>作詞作曲</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/LUV_2_SHY" title="wikilink">LUV 2 SHY</a></p></td>
 <td><p>「What's Your Name? ×××」</p></td>
 <td><p>作詞作曲</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -965,11 +974,12 @@ AVCD-23295:通常盤</p></td>
   - DVD[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")『Live Bomb\!\!Level.6 15th Anniversary Super Final in パシフィコ横浜〜My Music My Life〜』（2009年2月4日） ※ゲスト参加
   - 芸能★BANG\! 番組テーマ曲：「芸能★BANG\!」(2011年10月17日 - )
   - ええじゃないか豊橋伝播隊　DOEE 曲：「ええじゃないか♡special」(2014年10月18日発表 )　作詞　作曲　編曲
-  - Lightning Boogie with m.c.A・T/[浦田直也](../Page/浦田直也.md "wikilink")（アルバム『un BEST』収録）プロデュース \[9\]
+  - Lightning Boogie with m.c.A・T/[浦田直也](../Page/浦田直也.md "wikilink")（アルバム『un BEST』収録）プロデュース \[10\]
   - 真田幸村のテーマソング（「[戦国BASARA](../Page/戦国BASARA.md "wikilink") 武将テーマボーカルコレクション」収録）※歌唱
   - 前田慶次のテーマソング（「戦国BASARA 武将テーマボーカルコレクション」収録）※歌唱
   - Go\! Go\! Ghost\!（「仮面ライダーゴースト オリジナルTVサウンドトラック」収録）※歌唱
   - [秋田音頭](../Page/秋田音頭.md "wikilink")-AKITA・ONDO-/[藤あや子](../Page/藤あや子.md "wikilink") feat. m.c.A・T（2019年1月1日） ※プロデュース、およびヴォーカル参加
+  - 私たちの道（2019年2月20日）※ヴォーカル参加
 
 ## タイアップ
 
@@ -1067,11 +1077,15 @@ AVCD-23295:通常盤</p></td>
 
 ### テレビドラマ
 
-  - [仮面ライダーゴースト](https://ja.wikipedia.org/wiki/仮面ライダーゴースト "wikilink")（2015年 - 2016年） - ゴーストドライバー音声\[10\]
+  - [仮面ライダーゴースト](https://ja.wikipedia.org/wiki/仮面ライダーゴースト "wikilink")（2015年 - 2016年） - ゴーストドライバー音声\[11\]
 
 ### CM
 
   - スバル「インプレッサ グラベルEX」
+
+### MV
+
+  - One Hokkaido Project「私たちの道」\[12\]
 
 ## 脚注
 
@@ -1083,6 +1097,8 @@ AVCD-23295:通常盤</p></td>
 
   -
   -
+  - [One Hokkaido Project](https://one-hokkaido.jp/)
+
 [Category:日本の男性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ポップ歌手 "wikilink") [Category:日本のラッパー](https://ja.wikipedia.org/wiki/Category:日本のラッパー "wikilink") [Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:北海道教育大学出身の人物](https://ja.wikipedia.org/wiki/Category:北海道教育大学出身の人物 "wikilink") [Category:札幌市出身の人物](https://ja.wikipedia.org/wiki/Category:札幌市出身の人物 "wikilink") [Category:1961年生](https://ja.wikipedia.org/wiki/Category:1961年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  [富樫明生公式サイト](http://aquiowonder.com/artists_t.htm)
@@ -1095,3 +1111,5 @@ AVCD-23295:通常盤</p></td>
 8.
 9.
 10.
+11.
+12.

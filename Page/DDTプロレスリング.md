@@ -40,9 +40,9 @@
 
 ### 2006年
 
-  - [1月29日](../Page/1月29日.md "wikilink")、後楽園ホールで社長職をかけて高木、三和兄弟（会長の三和と弟の[三和太](https://ja.wikipedia.org/wiki/三和太 "wikilink")）、[泉州力](https://ja.wikipedia.org/wiki/泉州力 "wikilink")、[大鷲透](../Page/大鷲透.md "wikilink")、[ゴージャス松野](../Page/松野行秀.md "wikilink")、[すぎはら美里](https://ja.wikipedia.org/wiki/すぎはら美里 "wikilink")、[子川直也](https://ja.wikipedia.org/wiki/子川直也 "wikilink")、[大家健](https://ja.wikipedia.org/wiki/大家健 "wikilink")、[ヨシヒコ](https://ja.wikipedia.org/wiki/ヨシヒコ "wikilink")の10人でロイヤルランブルを行い、優勝した高木が社長に就任。
+  - [1月29日](../Page/1月29日.md "wikilink")、後楽園ホールで社長職をかけて高木、三和兄弟（会長の三和と弟の[三和太](https://ja.wikipedia.org/wiki/三和太 "wikilink")）、[泉州力](https://ja.wikipedia.org/wiki/泉州力 "wikilink")、[大鷲透](../Page/大鷲透.md "wikilink")、[ゴージャス松野](https://ja.wikipedia.org/wiki/ゴージャス松野 "wikilink")、[すぎはら美里](https://ja.wikipedia.org/wiki/すぎはら美里 "wikilink")、[子川直也](https://ja.wikipedia.org/wiki/子川直也 "wikilink")、[大家健](https://ja.wikipedia.org/wiki/大家健 "wikilink")、[ヨシヒコ](https://ja.wikipedia.org/wiki/ヨシヒコ "wikilink")の10人でロイヤルランブルを行い、優勝した高木が社長に就任。
   - やがて[大鷲透](../Page/大鷲透.md "wikilink")による[DISASTER BOX](https://ja.wikipedia.org/wiki/DISASTER_BOX "wikilink")、[イタリア](../Page/イタリア.md "wikilink")から来日したユニット「[イタリアンフォーホースメン](https://ja.wikipedia.org/wiki/イタリアンフォーホースメン "wikilink")」などと軍団抗争が活発化。
-  - 新日本プロレスを退団したリングアナウンサーが[田中秀和が参戦して高木とのファンタジープロレス論で口論となり](../Page/田中ケロ.md "wikilink")、[長井満也](../Page/長井満也.md "wikilink")、[ポイズン澤田JULIE](https://ja.wikipedia.org/wiki/ポイズン澤田JULIE "wikilink")と同期である[後藤達俊](../Page/後藤達俊.md "wikilink")を引きつれ乱入。田中は澤田の呪文を無視する行動に出たため、澤田は呪文の修行で一時離脱。
+  - 新日本プロレスを退団したリングアナウンサーの[田中秀和が参戦](../Page/田中ケロ.md "wikilink")、高木とのファンタジープロレス論で口論となり、[長井満也](../Page/長井満也.md "wikilink")、[ポイズン澤田JULIE](https://ja.wikipedia.org/wiki/ポイズン澤田JULIE "wikilink")と同期である[後藤達俊](../Page/後藤達俊.md "wikilink")を引きつれ乱入。田中は澤田の呪文を無視する行動に出たため、澤田は呪文の修行で一時離脱。
   - [6月4日](../Page/6月4日.md "wikilink")、後楽園ホールで高木&澤田組対長井&後藤組。終盤に後藤を呪文で蛇手にかけることに成功して澤田が勝利を飾る。試合後にはリングアナウンサーの田中も蛇手させることができた。
   - [11月23日](../Page/11月23日.md "wikilink")、[DDT EXTREME級王座を創立](https://ja.wikipedia.org/wiki/DDT_EXTREME級選手権 "wikilink")。
   - 年末には正規軍に活を入れるべく[蝶野正洋](../Page/蝶野正洋.md "wikilink")スタイルに扮した高木、[天山広吉](../Page/天山広吉.md "wikilink")スタイル（角をつけただけ）のKUDO、おまけの[矢郷さんと共に](../Page/矢郷良明.md "wikilink")（後に[アシュレイ"ノートン"サウザーが加入](https://ja.wikipedia.org/wiki/アシュレイ・サウザー "wikilink")）ヒールユニット「[チーム・2サウザンアイランド](https://ja.wikipedia.org/wiki/チーム・2サウザンアイランド "wikilink")」を結成。期間は短かったもののMIKAMIや[HARASHIMA](../Page/HARASHIMA.md "wikilink")を奮起させた。しかし、その後は蛇界、DISASTER BOX、イタリアンフォーホースメンなどのチームが次々と解散して活動休止となったため、帰国となってしまう（後に蛇界は[新・蛇界転生](https://ja.wikipedia.org/wiki/新・蛇界転生 "wikilink")として復活）。
@@ -229,7 +229,10 @@
 ### 2020年
 
   - [1月29日](../Page/1月29日.md "wikilink")、[プロレスリング・ノア](../Page/プロレスリング・ノア.md "wikilink")の発行済み株式100%を[サイバーエージェント](https://ja.wikipedia.org/wiki/サイバーエージェント "wikilink")に譲渡。高木がノアの社長に就任。
+  - 5月9日、全日本プロレスの秋山準がDDTのゲストコーチに就任。「DDTの選手に王道を叩き込む」と宣言し、若手の育成の他、自身も選手として参戦していくことを発表する。
   - 5月12日、動画配信サービス「DDT UNIVERSE」を「WRESTLE UNIVERSE」に名称変更。\[14\]
+  - 7月1日、秋山準がDDTにレンタル移籍。
+  - 7月27日、株式会社DDTプロレスリング、ノア・グローバルエンタテインメント株式会社、株式会社DDTフーズの3社経営統合を発表\[15\]。9月より、株式会社CyberFightの運営するブランドとなる\[16\]。
 
 ## 他団体との交流
 
@@ -241,13 +244,14 @@
     ケニー・オメガが[世界ジュニアヘビー級王座](../Page/世界ジュニアヘビー級王座.md "wikilink")奪取も果たしている。全日本からは[カズ・ハヤシ](../Page/カズ・ハヤシ.md "wikilink")、[KAIらが参戦した](../Page/KAI_\(プロレスラー\).md "wikilink")。最近では全日本プロレス元練習生の石井慧介属する[チーム・ドリーム・フューチャーズ](https://ja.wikipedia.org/wiki/チーム・ドリーム・フューチャーズ "wikilink")が全日本に、逆に全日本からは所属となった[曙が](../Page/曙太郎.md "wikilink")（フリー時より継続して）DDTに参戦している。2014年4月29日のDDT後楽園大会では全日本（[PWF](../Page/PWF.md "wikilink")）が管理する[アジアタッグ王座](../Page/アジアタッグ王座.md "wikilink")の防衛戦が行われ、チーム・ドリフが奪取、王座を奪われた[秋山準](../Page/秋山準.md "wikilink")は引き換えに[アイアンマンヘビーメタル級王座](https://ja.wikipedia.org/wiki/アイアンマンヘビーメタル級王座 "wikilink")を獲得した。逆に8月30日の全日本[愛知県体育館](../Page/愛知県体育館.md "wikilink")大会でチーム・ドリフが持つKO-D6人タッグ王座が懸けられたこともある。また、若手・練習生がおらず手不足だった2013年の全日本のシリーズにDDTの練習生を貸し出し。この頃、新日やノア、大日本との関係が悪化していた全日本にとって主要な交流団体となっていた。また[三富政行](https://ja.wikipedia.org/wiki/三富政行 "wikilink")も地方大会に何度か参戦していた。2015年6月には高尾蒼馬だけが1シリーズ参戦のほか、欠場でレンタル移籍の流れた当時、ユニオンの[福田洋も参戦](https://ja.wikipedia.org/wiki/トランザム★ヒロシ "wikilink")。10月のシリーズと世界最強決定タッグリーグには星誕期も参戦。
   - [プロレスリング・ノア](../Page/プロレスリング・ノア.md "wikilink")
     前出のとおり、高木三四郎大社長とノアの元ゼネラルマネージャー[仲田龍](../Page/仲田龍.md "wikilink")の交流から友好関係にあり、ノアが中心となって設立された[GPWAにも加盟していた](../Page/グローバル・レスリング連盟.md "wikilink")。過去には[飯伏幸太](../Page/飯伏幸太.md "wikilink")や[マサ高梨](../Page/マサ高梨.md "wikilink")が参戦。高梨は原点回帰のため、本名の高梨将弘のリングネームで同期の[石森太二](../Page/石森太二.md "wikilink")と対戦している。2007年の新潟大会のメインで[鈴木鼓太郎](../Page/鈴木鼓太郎.md "wikilink")のパートナーXとして[三沢光晴](../Page/三沢光晴.md "wikilink")が登場した。だが、仲田亡き後はノアの興行にDDTの選手が、DDTの興行にノアの選手がそれぞれ出場するケースは少なくなっている。2014年7月20日に石森太二がスペシャルマッチに参戦。2015年9月に行われた「[日テレG+杯争奪ジュニアヘビー級タッグ・リーグ戦](https://ja.wikipedia.org/wiki/日テレG+杯争奪ジュニアヘビー級タッグ・リーグ戦 "wikilink")」にDDT選抜メンバーとして[KUDO](../Page/KUDO.md "wikilink")&[梅田公太](https://ja.wikipedia.org/wiki/梅田公太 "wikilink")組が参戦。2017年7月に行われた「日テレG+杯争奪ジュニアヘビー級タッグ・リーグ戦」に[勝俣瞬馬](https://ja.wikipedia.org/wiki/勝俣瞬馬 "wikilink")・[MAO組が参戦](https://ja.wikipedia.org/wiki/井上麻生 "wikilink")。
+    2018年9月に両国国技館にて、デビュー20周年記念興行『丸藤正道デビュー20周年記念大会「飛翔」』が開催され、高木三四郎・HARASHIMA・男色ディーノが参戦。
     [2020年](../Page/2020年.md "wikilink")、サイバーエージェントの子会社として運営会社「ノア・グローバルエンタテインメント株式会社」が加入し、同時に高木三四郎がノアの代表取締役社長に就任した。高木自身は試合に関しては一切触れず経営方面を担当する。
   - [プロレスリングZERO1](../Page/ZERO1.md "wikilink")
     GPWAが活動していた時代に盛んに相互参戦を行っていた。その後は2011年の[ディック東郷](../Page/ディック東郷.md "wikilink")国内引退興行に[日高郁人](../Page/日高郁人.md "wikilink")が参戦。2013年には[橋本大地の復帰戦の相手を飯伏が務めた](https://ja.wikipedia.org/wiki/橋本大地_\(プロレスラー\) "wikilink")。2014年にはZERO1の道場をDDTとスターダムとZERO1の3団体でシェアをして使用することが決定。2015年に、[木高イサミ](../Page/木高イサミ.md "wikilink")と[勝俣瞬馬](https://ja.wikipedia.org/wiki/勝俣瞬馬 "wikilink")が[天下一Jr.](../Page/天下一Jr..md "wikilink")に参戦している。
   - [WRESTLE-1](https://ja.wikipedia.org/wiki/WRESTLE-1 "wikilink")
-    2014年に男色ディーノが参戦。また、DDTには2014年両国大会に[近藤修司](../Page/近藤修司.md "wikilink")が参戦。WRESTLE-1からは[DNAに一部選手が参戦する等の交流があったが](https://ja.wikipedia.org/wiki/DDT_NEW_ATTITUDE "wikilink")、2015年の高木三四郎が同団体のCEO就任以降は、高木の方針により交流は行われていない。例外として2016年に高木&大鷲組のXとして[黒潮"イケメン"二郎が](https://ja.wikipedia.org/wiki/黒潮二郎 "wikilink")1度参戦をしている。
+    2014年に男色ディーノが参戦。また、DDTには2014年両国大会に[近藤修司](../Page/近藤修司.md "wikilink")が参戦。WRESTLE-1からは[DNAに一部選手が参戦する等の交流があったが](https://ja.wikipedia.org/wiki/DDT_NEW_ATTITUDE "wikilink")、2015年の高木三四郎が同団体のCEO就任以降は、高木の方針により交流は行われていない。例外として2016年に高木&大鷲組のXとして[黒潮"イケメン"二郎](https://ja.wikipedia.org/wiki/黒潮"イケメン"二郎 "wikilink")が1度参戦をしている。
   - [大日本プロレス](../Page/大日本プロレス.md "wikilink")
-    「[天下三分の計](../Page/天下三分の計_\(プロレス興行\).md "wikilink")」、[年越しプロレス](https://ja.wikipedia.org/wiki/年越しプロレス "wikilink")で連携するなど、「盟友みたいなもの（鶴見亜門GM）」と言える深い関係にある\[15\]。また、DDTブランド時代のユニオンと合同興行も不定期で開催。[木高イサミ](../Page/木高イサミ.md "wikilink")と[石川修司](../Page/石川修司.md "wikilink")は大日本のデスマッチ戦線に参入し、それぞれ[BJW認定デスマッチヘビー級王座](../Page/BJW認定デスマッチヘビー級王座.md "wikilink")を戴冠、木高は宮本裕向とのタッグで[BJW認定タッグ王座](../Page/BJW認定タッグ王座.md "wikilink")を戴冠した。[関本大介](../Page/関本大介.md "wikilink")はKO-D無差別級王座戴冠歴、[岡林裕二](../Page/岡林裕二.md "wikilink")は関本とのタッグでKO-Dタッグ王座戴冠歴がある。DDTからは[HARASHIMA](../Page/HARASHIMA.md "wikilink")、[男色ディーノ](../Page/男色ディーノ.md "wikilink")らがスポット参戦。
+    「[天下三分の計](../Page/天下三分の計_\(プロレス興行\).md "wikilink")」、[年越しプロレス](https://ja.wikipedia.org/wiki/年越しプロレス "wikilink")で連携するなど、「盟友みたいなもの（鶴見亜門GM）」と言える深い関係にある\[17\]。また、DDTブランド時代のユニオンと合同興行も不定期で開催。[木高イサミ](../Page/木高イサミ.md "wikilink")と[石川修司](../Page/石川修司.md "wikilink")は大日本のデスマッチ戦線に参入し、それぞれ[BJW認定デスマッチヘビー級王座](../Page/BJW認定デスマッチヘビー級王座.md "wikilink")を戴冠、木高は宮本裕向とのタッグで[BJW認定タッグ王座](../Page/BJW認定タッグ王座.md "wikilink")を戴冠した。[関本大介](../Page/関本大介.md "wikilink")はKO-D無差別級王座戴冠歴、[岡林裕二](../Page/岡林裕二.md "wikilink")は関本とのタッグでKO-Dタッグ王座戴冠歴がある。DDTからは[HARASHIMA](../Page/HARASHIMA.md "wikilink")、[男色ディーノ](../Page/男色ディーノ.md "wikilink")らがスポット参戦。
   - [プロレスリングFREEDOMS](https://ja.wikipedia.org/wiki/プロレスリングFREEDOMS "wikilink")
     [佐々木貴](../Page/佐々木貴.md "wikilink")と[GENTARO](../Page/GENTARO.md "wikilink")が元DDT所属。他に[葛西純](../Page/葛西純.md "wikilink")も時折参戦。
   - [みちのくプロレス](../Page/みちのくプロレス.md "wikilink")
@@ -356,7 +360,7 @@
 ### 不定期開催している興行
 
   - [DDTドラマティック総選挙](https://ja.wikipedia.org/wiki/DDTドラマティック総選挙 "wikilink")（旧：DDT48総選挙）
-    [AKB48選抜総選挙をモデルにした人気投票で年](https://ja.wikipedia.org/wiki/AKB48#選抜総選挙 "wikilink")1回初秋に行われている。対象はDDTとユニオンまたはレギュラー参戦選手。上位入選者には特別興行参戦権や[KO-D無差別級王座](https://ja.wikipedia.org/wiki/KO-D無差別級王座 "wikilink")挑戦権などが与えられる。興行中のアピールは禁止されているが休憩中やネットコンテンツでの選挙活動は認められる。DDTでは選手をDDT48と呼んでいる\[16\]。2014年からは名称をDDTドラマティック総選挙に変更して興行権を懸けたユニット総選挙もあわせて行われる。ユニット総選挙最下位のユニットは強制解散になる。2019年度は開催せず。
+    [AKB48選抜総選挙をモデルにした人気投票で年](https://ja.wikipedia.org/wiki/AKB48#選抜総選挙 "wikilink")1回初秋に行われている。対象はDDTとユニオンまたはレギュラー参戦選手。上位入選者には特別興行参戦権や[KO-D無差別級王座](https://ja.wikipedia.org/wiki/KO-D無差別級王座 "wikilink")挑戦権などが与えられる。興行中のアピールは禁止されているが休憩中やネットコンテンツでの選挙活動は認められる。DDTでは選手をDDT48と呼んでいる\[18\]。2014年からは名称をDDTドラマティック総選挙に変更して興行権を懸けたユニット総選挙もあわせて行われる。ユニット総選挙最下位のユニットは強制解散になる。2019年度は開催せず。
   - [大森UTANフェスタ](https://ja.wikipedia.org/wiki/大森UTANフェスタ "wikilink")
     毎年10月に開催している[大森駅東口前商店街主催のイベントの中で行われている大会](https://ja.wikipedia.org/wiki/大森駅_\(東京都\) "wikilink")。
   - [路上プロレス](https://ja.wikipedia.org/wiki/路上プロレス "wikilink")
@@ -372,7 +376,7 @@
   - [闘うビアガーデン](https://ja.wikipedia.org/wiki/闘うビアガーデン "wikilink")
     DDTの前身たる[PWCより休止期間を挟み夏の恒例イベントとして毎年](../Page/Pro_Wrestling_Crusaders.md "wikilink")7月末から8月頭にかけて約1週間、連日趣向を凝らした内容で開催している興行。観客席をビアガーデンスタイルにしてビール片手に試合を楽しんでもらっている。
   - [新北京プロレス](../Page/新北京プロレス.md "wikilink")
-    [中国の](../Page/中華人民共和国.md "wikilink")[北京市](../Page/北京市.md "wikilink")を拠点としているプロレス団体。毎年2月ごろ（中国の正月ごろ）[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で興行を開催している。[前漢](../Page/前漢.md "wikilink")時代に設立して[2000年](../Page/2000年.md "wikilink")の歴史を誇る。所属選手は10億人にも及ぶという。所属選手の[趙雲子龍が留学生として日本に参戦している](../Page/趙雲子龍_\(プロレスラー\).md "wikilink")。[2007年](../Page/2007年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")、[新木場1stRING](../Page/新木場1stRING.md "wikilink")で2000年の歴史の中で初の日本公演「新北京プロレス Japan Tour 2007」を開催。ゴングの代わりに銅鑼が使用されてカウントも[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")で数えられるなどセットや衣装まですべて中国から直輸入された。
+    [中国の](../Page/中華人民共和国.md "wikilink")[北京市](../Page/北京市.md "wikilink")を拠点としているプロレス団体。毎年2月ごろ（中国の正月ごろ）[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で興行を開催している。[前漢](../Page/前漢.md "wikilink")時代に設立して[2000年](../Page/2000年.md "wikilink")の歴史を誇る。所属選手は10億人にも及ぶという。所属選手の[趙雲子龍が留学生として日本に参戦している](../Page/趙雲子龍_\(プロレスラー\).md "wikilink")。[2007年](../Page/2007年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")、[新木場1stRING](../Page/新木場1stRING.md "wikilink")で2000年の歴史の中で初の日本公演「新北京プロレス Japan Tour 2007」を開催。ゴングの代わりに銅鑼が使用されてカウントも[中国語](../Page/中国語.md "wikilink")で数えられるなどセットや衣装まですべて中国から直輸入された。
 
 ### 終了または長期間開催していた興行
 
@@ -416,7 +420,7 @@
   - [ハードヒット](https://ja.wikipedia.org/wiki/ハードヒット "wikilink")
     通常のプロレスルールに加えてダウンやロープエスケープで減点となるロストポイント制を採用して元[UWFインターナショナル](../Page/UWFインターナショナル.md "wikilink")のレフェリーの[和田良覚](https://ja.wikipedia.org/wiki/和田良覚 "wikilink")がルールの監修を行って開催している興行。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月16日](../Page/3月16日.md "wikilink")、[新木場1stRING](../Page/新木場1stRING.md "wikilink")で旗揚げ戦を開催。[2009年](../Page/2009年.md "wikilink")[5月6日](../Page/5月6日.md "wikilink")、[北沢タウンホール](https://ja.wikipedia.org/wiki/北沢タウンホール "wikilink")大会を最後に活動休止。[2011年](../Page/2011年.md "wikilink")[11月13日](../Page/11月13日.md "wikilink")、新木場1stRINGで約2年半ぶりに興行を開催。[DDT48総選挙で第](https://ja.wikipedia.org/wiki/DDTドラマティック総選挙 "wikilink")1位を獲得していた[佐藤光留](../Page/佐藤光留.md "wikilink")が全試合終了後に「城をください」とDDT代表の高木に直訴して承諾を得たためハードヒットは佐藤の下で再始動することになった。[11月14日](../Page/11月14日.md "wikilink")、佐藤がプロデューサーに就任。運営と興行はDDTが協力していく。[2012年](../Page/2012年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")、佐藤のプロデュース興行第1弾を[新宿FACE](../Page/新宿FACE.md "wikilink")で開催。ルールも3カウントフォールを廃止。[2015年](../Page/2015年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink")、ハードヒットの運営と興行の諸権利がDDTから佐藤へ譲渡されて独立。DDTとの協力体制は継続していく。選手、スタッフ、リングの貸し出しなど興行面以外においては引き続きDDTが可能な範囲で協力していく。
   - [プロレスリングBASARA](https://ja.wikipedia.org/wiki/プロレスリングBASARA "wikilink")
-    2015年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")、[後楽園ホール](../Page/後楽園ホール.md "wikilink")で開催された[ユニオンプロレス](../Page/ユニオンプロレス.md "wikilink")の解散興行で[木高イサミ](../Page/木高イサミ.md "wikilink")が「新しい家を作る」と宣言して新たなプロレス団体の設立に向けて動き始めた\[17\]。[10月7日](../Page/10月7日.md "wikilink")、木高がプロレスリングBASARAを設立することを発表\[18\]。[2016年](../Page/2016年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")、[新宿FACE](../Page/新宿FACE.md "wikilink")で旗揚げ戦「伐折羅・壱〜乾坤一擲〜」を開催。[2019年](../Page/2019年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")、今年限りで株式会社DDTプロレスリングから独立して新会社を設立することを発表\[19\]。
+    2015年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")、[後楽園ホール](../Page/後楽園ホール.md "wikilink")で開催された[ユニオンプロレス](../Page/ユニオンプロレス.md "wikilink")の解散興行で[木高イサミ](../Page/木高イサミ.md "wikilink")が「新しい家を作る」と宣言して新たなプロレス団体の設立に向けて動き始めた\[19\]。[10月7日](../Page/10月7日.md "wikilink")、木高がプロレスリングBASARAを設立することを発表\[20\]。[2016年](../Page/2016年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")、[新宿FACE](../Page/新宿FACE.md "wikilink")で旗揚げ戦「伐折羅・壱〜乾坤一擲〜」を開催。[2019年](../Page/2019年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")、今年限りで株式会社DDTプロレスリングから独立して新会社を設立することを発表\[21\]。
 
 ## タイトルホルダー
 
@@ -434,28 +438,29 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/KO-D無差別級王座" title="wikilink">KO-D無差別級王座</a></p></td>
-<td><p><a href="../Page/田中将斗.md" title="wikilink">田中将斗</a></p></td>
-<td><p>第74代</p></td>
-<td><p>4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/遠藤哲哉" title="wikilink">遠藤哲哉</a></p></td>
+<td><p>第75代</p></td>
+<td><p>2</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/KO-Dタッグ王座" title="wikilink">KO-Dタッグ王座</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/上野勇希" title="wikilink">上野勇希</a><br />
 <a href="https://ja.wikipedia.org/wiki/吉村直巳" title="wikilink">吉村直巳</a></p></td>
 <td><p>第67代</p></td>
-<td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小野寺卓也" title="wikilink">T-Hawk</a><br />
-<a href="https://ja.wikipedia.org/wiki/林悠河" title="wikilink">エル・リンダマン</a></p></td>
+<td><p>6</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/KO-D6人タッグ王座" title="wikilink">KO-D6人タッグ王座</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/遠藤哲哉" title="wikilink">遠藤哲哉</a><br />
-<a href="https://ja.wikipedia.org/wiki/小野寺卓也" title="wikilink">T-Hawk</a><br />
-<a href="https://ja.wikipedia.org/wiki/林悠河" title="wikilink">エル・リンダマン</a></p></td>
-<td><p>第40代</p></td>
-<td><p>2</p></td>
-<td></td>
+<td><p><a href="../Page/坂口征夫.md" title="wikilink">坂口征夫</a><br />
+<a href="https://ja.wikipedia.org/wiki/樋口和貞" title="wikilink">樋口和貞</a><br />
+<a href="../Page/赤井沙希.md" title="wikilink">赤井沙希</a></p></td>
+<td><p>第41代</p></td>
+<td><p>1</p></td>
+<td><p><a href="../Page/男色ディーノ.md" title="wikilink">男色ディーノ</a><br />
+<a href="https://ja.wikipedia.org/wiki/立花誠吾" title="wikilink">立花誠吾</a><br />
+<a href="https://ja.wikipedia.org/wiki/世志琥" title="wikilink">世志琥</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/KO-D10人タッグ王座" title="wikilink">KO-D10人タッグ王座</a></p></td>
@@ -469,31 +474,29 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/DDT_UNIVERSAL王座" title="wikilink">DDT UNIVERSAL王座</a></p></td>
-<td><p><a href="../Page/佐々木大輔_(プロレスラー).md" title="wikilink">佐々木大輔</a></p></td>
-<td><p>第2代</p></td>
-<td><p>2</p></td>
-<td><p><a href="../Page/木高イサミ.md" title="wikilink">木高イサミ</a><br />
-<a href="https://ja.wikipedia.org/wiki/勝俣瞬馬" title="wikilink">勝俣瞬馬</a><br />
-(3wayマッチ)</p></td>
+<td><p><a href="../Page/DDT_UNIVERSAL王座.md" title="wikilink">DDT UNIVERSAL王座</a></p></td>
+<td><p><a href="../Page/クリス・ブルックス.md" title="wikilink">クリス・ブルックス</a></p></td>
+<td><p>第3代</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ドリュー・パーカー" title="wikilink">ドリュー・パーカー</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/DDT_EXTREME級選手権" title="wikilink">DDT EXTREME級王座</a></p></td>
 <td><p><a href="../Page/青木真也.md" title="wikilink">青木真也</a></p></td>
 <td><p>第48代</p></td>
-<td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/納谷幸男" title="wikilink">納谷幸男</a></p></td>
+<td><p>4</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/アイアンマンヘビーメタル級王座" title="wikilink">アイアンマンヘビーメタル級王座</a></p></td>
-<td><p><a href="../Page/男色ディーノ.md" title="wikilink">男色ディーノ</a></p></td>
-<td><p>第1479代</p></td>
+<td><p><a href="../Page/ディーン・マレンコ.md" title="wikilink">ディーン・マレンコ</a></p></td>
+<td><p>第1492代</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/O-40王座" title="wikilink">O-40王座</a></p></td>
-<td><p><a href="../Page/松野行秀.md" title="wikilink">ゴージャス松野</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ゴージャス松野" title="wikilink">ゴージャス松野</a></p></td>
 <td><p>第2代</p></td>
 <td><p>2</p></td>
 <td></td>
@@ -505,7 +508,7 @@
 
 <!-- end list -->
 
-  - [大森夢フェア認定世界大森級王座](https://ja.wikipedia.org/wiki/大森夢フェア認定世界大森級王座 "wikilink")\[20\]
+  - [大森夢フェア認定世界大森級王座](https://ja.wikipedia.org/wiki/大森夢フェア認定世界大森級王座 "wikilink")\[22\]
   - [世界ミッドブレス級王座](https://ja.wikipedia.org/wiki/世界ミッドブレス級王座 "wikilink")
   - [JET世界ジェット級王座](https://ja.wikipedia.org/wiki/JET世界ジェット級王座 "wikilink")
   - [GAY世界アナル級王座](https://ja.wikipedia.org/wiki/GAY世界アナル級王座 "wikilink")
@@ -516,10 +519,10 @@
   - [自由が丘広小路会認定6人タッグ王座](https://ja.wikipedia.org/wiki/自由が丘6人タッグ王座 "wikilink")
   - [キング・オブ・ダーク王座](https://ja.wikipedia.org/wiki/キング・オブ・ダーク王座 "wikilink")
 
-| タイトル                                                                            | 覇者                                                      | 年代    |
-| ------------------------------------------------------------------------------- | ------------------------------------------------------- | ----- |
-| [D王 GRAND PRIX](https://ja.wikipedia.org/wiki/D王_GRAND_PRIX "wikilink")         | [田中将斗](../Page/田中将斗.md "wikilink")                      | 2020年 |
-| [KING OF DDTトーナメント](https://ja.wikipedia.org/wiki/KING_OF_DDTトーナメント "wikilink") | [竹下幸之介](https://ja.wikipedia.org/wiki/竹下幸之介 "wikilink") | 2019年 |
+| タイトル                                                                            | 覇者                                                    | 年代    |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------- | ----- |
+| [D王 GRAND PRIX](https://ja.wikipedia.org/wiki/D王_GRAND_PRIX "wikilink")         | [田中将斗](../Page/田中将斗.md "wikilink")                    | 2020年 |
+| [KING OF DDTトーナメント](https://ja.wikipedia.org/wiki/KING_OF_DDTトーナメント "wikilink") | [遠藤哲哉](https://ja.wikipedia.org/wiki/遠藤哲哉 "wikilink") | 2020年 |
 
 **DDTプロレスリングが開催しているリーグ戦、トーナメント戦**
 
@@ -557,7 +560,7 @@
 
 <!-- end list -->
 
-  - [\#STRONGHEARTS](https://ja.wikipedia.org/wiki/STRONGHEARTS "wikilink")\[21\]
+  - [\#STRONGHEARTS](https://ja.wikipedia.org/wiki/STRONGHEARTS "wikilink")\[23\]
 
 <!-- end list -->
 
@@ -570,7 +573,7 @@
   - [竹下幸之介](https://ja.wikipedia.org/wiki/竹下幸之介 "wikilink")
   - [彰人](https://ja.wikipedia.org/wiki/彰人 "wikilink")
   - [勝俣瞬馬](https://ja.wikipedia.org/wiki/勝俣瞬馬 "wikilink")
-  - [飯野雄貴](https://ja.wikipedia.org/wiki/飯野雄貴 "wikilink")
+  - [飯野雄貴](https://ja.wikipedia.org/wiki/飯野雄貴 "wikilink")（欠場中）
 
 ### ERUPTION
 
@@ -585,15 +588,21 @@
 
 ### MOONLIGHT EXPRESS
 
-  - [MAO](https://ja.wikipedia.org/wiki/井上麻生 "wikilink")
+  - [MAO](https://ja.wikipedia.org/wiki/井上麻生 "wikilink")（欠場中）
   - [マイク・ベイリー](https://ja.wikipedia.org/wiki/マイク・ベイリー "wikilink")（フリー）
+
+### 準烈
+
+  - [秋山準](../Page/秋山準.md "wikilink")
+  - [大石真翔](../Page/大石真翔.md "wikilink")
+  - [渡瀬瑞基](https://ja.wikipedia.org/wiki/渡瀬瑞基 "wikilink")（[よしもとクリエイティブ・エージェンシー](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー "wikilink")兼任所属）
+  - [岡谷英樹](../Page/岡谷英樹.md "wikilink")
 
 ### 無所属
 
   - [高木三四郎](../Page/高木三四郎.md "wikilink")
   - [KUDO](../Page/KUDO.md "wikilink")（欠場中）
-  - [大石真翔](../Page/大石真翔.md "wikilink")
-  - [ゴージャス松野](../Page/松野行秀.md "wikilink")（限定参戦）
+  - [ゴージャス松野](https://ja.wikipedia.org/wiki/ゴージャス松野 "wikilink")（限定参戦）
   - [男色ディーノ](../Page/男色ディーノ.md "wikilink")
   - [スーパー・ササダンゴ・マシン](../Page/マッスル坂井.md "wikilink")（[松竹芸能](../Page/松竹芸能.md "wikilink")兼任所属）（限定参戦）
   - [中澤マイケル](../Page/中澤マイケル.md "wikilink")（[AEW兼任所属](https://ja.wikipedia.org/wiki/オール・エリート・レスリング "wikilink")）（限定参戦）
@@ -602,12 +611,10 @@
   - [松永智充](https://ja.wikipedia.org/wiki/松永智充 "wikilink")
   - [伊橋剛太](https://ja.wikipedia.org/wiki/伊橋剛太 "wikilink")
   - [レディビアード](https://ja.wikipedia.org/wiki/レディビアード "wikilink")（限定参戦）
-  - [渡瀬瑞基](https://ja.wikipedia.org/wiki/渡瀬瑞基 "wikilink")（[よしもとクリエイティブ・エージェンシー](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー "wikilink")兼任所属）
   - [ゆに](https://ja.wikipedia.org/wiki/ゆに "wikilink")（限定参戦）
   - [納谷幸男](https://ja.wikipedia.org/wiki/納谷幸男 "wikilink")
   - [ポコたん](https://ja.wikipedia.org/wiki/ポコたん "wikilink")（限定参戦）
   - [中村圭吾](../Page/中村圭吾.md "wikilink")
-  - [岡谷英樹](../Page/岡谷英樹.md "wikilink")
   - [ジョーダン・ヒートリー](https://ja.wikipedia.org/wiki/ジョーダン・ヒートリー "wikilink")
 
 ### レギュラー参戦選手
@@ -627,7 +634,10 @@
 
   - [黒田哲広](../Page/黒田哲広.md "wikilink")
   - [島谷常寛](https://ja.wikipedia.org/wiki/島谷常寛 "wikilink")
+  - [立花誠吾](https://ja.wikipedia.org/wiki/立花誠吾 "wikilink")
   - [タノムサク鳥羽](../Page/タノムサク鳥羽.md "wikilink")
+  - [魔苦・怒鳴門](https://ja.wikipedia.org/wiki/魔苦・怒鳴門 "wikilink")
+  - [MIKAMI](../Page/MIKAMI.md "wikilink")
   - [ヤス・ウラノ](../Page/ヤス・ウラノ.md "wikilink")
 
 <!-- end list -->
@@ -677,10 +687,21 @@
 
 <!-- end list -->
 
+  - [全日本プロレス](../Page/全日本プロレス.md "wikilink")
+
+<!-- end list -->
+
+  - [秋山準](../Page/秋山準.md "wikilink")
+
+<!-- end list -->
+
   - [プロレスリング・ノア](../Page/プロレスリング・ノア.md "wikilink")
 
 <!-- end list -->
 
+  - [拳王](../Page/拳王_\(プロレスラー\).md "wikilink")
+  - [覇王](../Page/佐藤悠己.md "wikilink")
+  - [マサ北宮](https://ja.wikipedia.org/wiki/マサ北宮 "wikilink")
   - [丸藤正道](../Page/丸藤正道.md "wikilink")
 
 <!-- end list -->
@@ -708,15 +729,32 @@
   - [ジ・インテリジェンス・センセーショナル・グランドパッションマスク4号](https://ja.wikipedia.org/wiki/小仲＝ペールワン "wikilink")
   - [高井憲吾](../Page/高井憲吾.md "wikilink")
 
+<!-- end list -->
+
+  - [プロレスリングBASARA](https://ja.wikipedia.org/wiki/プロレスリングBASARA "wikilink")
+
+<!-- end list -->
+
+  - [木高イサミ](../Page/木高イサミ.md "wikilink")
+
 ### 女子プロレスラー
 
   - フリー
 
 <!-- end list -->
 
+  - [朱崇花](https://ja.wikipedia.org/wiki/朱崇花 "wikilink")
   - [安納サオリ](https://ja.wikipedia.org/wiki/安納サオリ "wikilink")
   - [伊藤麻希](https://ja.wikipedia.org/wiki/伊藤麻希 "wikilink")
   - [山下りな](https://ja.wikipedia.org/wiki/山下りな "wikilink")
+
+<!-- end list -->
+
+  - [AEW](https://ja.wikipedia.org/wiki/All_Elite_Wrestling "wikilink")
+
+<!-- end list -->
+
+  - [里歩](../Page/里歩.md "wikilink")
 
 <!-- end list -->
 
@@ -724,6 +762,7 @@
 
 <!-- end list -->
 
+  - [里村明衣子](../Page/里村明衣子.md "wikilink")
   - [橋本千紘](https://ja.wikipedia.org/wiki/橋本千紘 "wikilink")
 
 <!-- end list -->
@@ -736,6 +775,14 @@
 
 <!-- end list -->
 
+  - [ガンバレ☆プロレス](https://ja.wikipedia.org/wiki/ガンバレ☆プロレス "wikilink")
+
+<!-- end list -->
+
+  - [HARUKAZE](https://ja.wikipedia.org/wiki/加藤悠 "wikilink")
+
+<!-- end list -->
+
   - [MAKAI](https://ja.wikipedia.org/wiki/魔界_\(イベント\) "wikilink")
 
 <!-- end list -->
@@ -745,6 +792,14 @@
 ## 来日外国人選手
 
 2020年から参戦した選手のみ列記。
+
+  - [大日本プロレス](../Page/大日本プロレス.md "wikilink")
+
+<!-- end list -->
+
+  - [ドリュー・パーカー](https://ja.wikipedia.org/wiki/ドリュー・パーカー "wikilink")
+
+<!-- end list -->
 
   - フリー
 
@@ -811,12 +866,12 @@
   - [愛野ユキ](https://ja.wikipedia.org/wiki/愛野ユキ "wikilink")
   - [猫はるな](https://ja.wikipedia.org/wiki/猫はるな "wikilink")
   - [原宿ぽむ](https://ja.wikipedia.org/wiki/原宿ぽむ "wikilink")
-  - [YUMI](https://ja.wikipedia.org/wiki/YUMI_\(プロレスラー\) "wikilink")
   - [うなぎひまわり](https://ja.wikipedia.org/wiki/うなぎひまわり "wikilink")
   - [桐生真弥](https://ja.wikipedia.org/wiki/桐生真弥 "wikilink")
   - [舞海魅星](https://ja.wikipedia.org/wiki/舞海魅星 "wikilink")
   - [鈴芽](https://ja.wikipedia.org/wiki/鈴芽 "wikilink")
   - [汐凛セナ](../Page/汐凛セナ.md "wikilink")
+  - [宮本もか](../Page/宮本もか.md "wikilink")
 
 ## DDTプロレスリングの別ブランドスタッフ
 
@@ -941,32 +996,33 @@
 
 ## ビッグマッチ一覧
 
-| 大会名                                                                                                                   | 開催年月日       | 会場                                                                    | 観衆      |
-| --------------------------------------------------------------------------------------------------------------------- | ----------- | --------------------------------------------------------------------- | ------- |
-| [両国ピーターパン〜大人になんてなれないよ〜](https://ja.wikipedia.org/wiki/両国ピーターパン_〜大人になんてなれないよ〜 "wikilink")                              | 2009年8月23日  | [両国国技館](../Page/両国国技館.md "wikilink")                                  | 8,865人  |
-| [両国ピーターパン2010〜夏休み ああ夏休み 夏休み〜](https://ja.wikipedia.org/wiki/両国ピーターパン2010_〜夏休み_ああ夏休み_夏休み〜 "wikilink")                  | 2010年7月25日  | 8,800人                                                                |         |
-| [両国ピーターパン2011〜二度あることは三度ある〜](https://ja.wikipedia.org/wiki/両国ピーターパン2011〜二度あることは三度ある〜 "wikilink")                       | 2011年7月24日  | 8,660人                                                                |         |
-| [武道館ピーターパン](https://ja.wikipedia.org/wiki/武道館ピーターパン "wikilink")〜DDTの15周年、ドーンと見せます超豪華4時間SP\!〜                          | 2012年8月18日  | [日本武道館](../Page/日本武道館.md "wikilink")                                  | 10,124人 |
-| [DDT万博〜プロレスの進歩と調和〜](https://ja.wikipedia.org/wiki/真夏のプロレス祭り "wikilink")                                               | 2013年8月17日  | 両国国技館                                                                 | 8,500人  |
-| [両国ピーターパン2013〜プロレスの傾向と対策〜](https://ja.wikipedia.org/wiki/真夏のプロレス祭り "wikilink")                                        | 2013年8月18日  | 9,000人                                                                |         |
-| [両国ピーターパン2014〜人生変えちゃう夏かもね\!〜](https://ja.wikipedia.org/wiki/両国ピーターパン2014〜人生変えちゃう夏かもね!〜 "wikilink")                    | 2014年8月17日  | 9,100人                                                                |         |
-| [さいたまスーパーDDT2015](https://ja.wikipedia.org/wiki/さいたまスーパーDDT2015 "wikilink")                                           | 2015年2月15日  | [さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")コミュニティアリーナ          | 6,500人  |
-| [両国ピーターパン2015〜DDTより愛をこめて〜](https://ja.wikipedia.org/wiki/両国ピーターパン2015〜DDTより愛をこめて〜 "wikilink")                         | 2015年8月23日  | 両国国技館                                                                 | 6,670人  |
-| [大阪オクトパス2015](https://ja.wikipedia.org/wiki/大阪オクトパス2015 "wikilink")                                                   | 2015年11月28日 | [エディオンアリーナ大阪第](../Page/大阪府立体育会館.md "wikilink")1競技場                    | 2,332人  |
-| [Judgement2016〜DDT旗揚げ19周年記念大会〜](https://ja.wikipedia.org/wiki/Judgement2016〜DDT旗揚げ19周年記念大会〜 "wikilink")               | 2016年3月21日  | 両国国技館                                                                 | 6,938人  |
-| [両国ピーターパン2016〜世界でいちばん熱い夏〜](https://ja.wikipedia.org/wiki/両国ピーターパン2016〜世界でいちばん熱い夏〜 "wikilink")                         | 2016年8月28日  | 5,394人                                                                |         |
-| [DDTフェス2016 supported by ナタリー](https://ja.wikipedia.org/wiki/DDTフェス2016_supported_by_ナタリー "wikilink")                 | 2016年11月6日  | [STUDIO COAST](../Page/STUDIO_COAST.md "wikilink")                    | 1,630人  |
-| [DDTプロレスリング台湾大会〜ドラマティック・ドリーム・台湾〜](https://ja.wikipedia.org/wiki/DDTプロレスリング台湾大会〜ドラマティック・ドリーム・台湾〜 "wikilink")           | 2016年11月20日 | [ATT SHOW BOX](https://ja.wikipedia.org/wiki/ATT_SHOW_BOX "wikilink") | 675人    |
-| [大阪オクトパス2016〜浪花節だよプロレスは〜](https://ja.wikipedia.org/wiki/大阪オクトパス2016〜浪花節だよプロレスは〜 "wikilink")                           | 2016年12月4日  | エディオンアリーナ大阪第1競技場                                                      | 2,355人  |
-| [Judgement2017〜DDT旗揚げ20周年記念大会〜](https://ja.wikipedia.org/wiki/Judgement2017〜DDT旗揚げ20周年記念大会〜 "wikilink")               | 2017年3月20日  | さいたまスーパーアリーナ                                                          | 10,702人 |
-| [両国ピーターパン2017〜ピーターパン 二十歳になっても ピーターパン〜](https://ja.wikipedia.org/wiki/両国ピーターパン2017〜ピーターパン_二十歳になっても_ピーターパン〜 "wikilink") | 2017年8月20日  | 両国国技館                                                                 | 5,900人  |
-| [Judgement2018〜DDT旗揚げ21周年記念大会〜](https://ja.wikipedia.org/wiki/Judgement2018〜DDT旗揚げ21周年記念大会〜 "wikilink")               | 2018年3月25日  | 5,796人                                                                |         |
-| [両国ピーターパン2018〜秋のプロレス文化祭〜](https://ja.wikipedia.org/wiki/両国ピーターパン2018〜秋のプロレス文化祭〜 "wikilink")                           | 2018年10月21日 | 6,259人                                                                |         |
-| [Judgement2019〜DDT旗揚げ22周年記念大会〜](https://ja.wikipedia.org/wiki/Judgement2019〜DDT旗揚げ22周年記念大会〜 "wikilink")               | 2019年2月17日  | 4,177人                                                                |         |
-| [Wrestle Peter Pan 2019](https://ja.wikipedia.org/wiki/Wrestle_Peter_Pan_2019 "wikilink")                             | 2019年7月15日  | [大田区総合体育館](https://ja.wikipedia.org/wiki/大田区総合体育館 "wikilink")         | 3,798人  |
-| [大阪オクトパス2019](https://ja.wikipedia.org/wiki/大阪オクトパス2019 "wikilink")                                                   | 2019年9月1日   | エディオンアリーナ大阪第2競技場                                                      | 678人    |
-| [Ultimate Party 2019〜DDTグループ大集合\!〜](https://ja.wikipedia.org/wiki/Ultimate_Party_2019〜DDTグループ大集合!〜 "wikilink")        | 2019年11月3日  | 両国国技館                                                                 | 5,869人  |
-| [Wrestle Peter Pan 2020](https://ja.wikipedia.org/wiki/Wrestle_Peter_Pan_2020 "wikilink")                             | 2020年6月7日   | さいたまスーパーアリーナ                                                          |         |
+| 大会名                                                                                                                   | 開催年月日       | 会場                                                                    | 観衆       |
+| --------------------------------------------------------------------------------------------------------------------- | ----------- | --------------------------------------------------------------------- | -------- |
+| [両国ピーターパン〜大人になんてなれないよ〜](https://ja.wikipedia.org/wiki/両国ピーターパン_〜大人になんてなれないよ〜 "wikilink")                              | 2009年8月23日  | [両国国技館](../Page/両国国技館.md "wikilink")                                  | 8,865人   |
+| [両国ピーターパン2010〜夏休み ああ夏休み 夏休み〜](https://ja.wikipedia.org/wiki/両国ピーターパン2010_〜夏休み_ああ夏休み_夏休み〜 "wikilink")                  | 2010年7月25日  | 8,800人                                                                |          |
+| [両国ピーターパン2011〜二度あることは三度ある〜](https://ja.wikipedia.org/wiki/両国ピーターパン2011〜二度あることは三度ある〜 "wikilink")                       | 2011年7月24日  | 8,660人                                                                |          |
+| [武道館ピーターパン](https://ja.wikipedia.org/wiki/武道館ピーターパン "wikilink")〜DDTの15周年、ドーンと見せます超豪華4時間SP\!〜                          | 2012年8月18日  | [日本武道館](../Page/日本武道館.md "wikilink")                                  | 10,124人  |
+| [DDT万博〜プロレスの進歩と調和〜](https://ja.wikipedia.org/wiki/真夏のプロレス祭り "wikilink")                                               | 2013年8月17日  | 両国国技館                                                                 | 8,500人   |
+| [両国ピーターパン2013〜プロレスの傾向と対策〜](https://ja.wikipedia.org/wiki/真夏のプロレス祭り "wikilink")                                        | 2013年8月18日  | 9,000人                                                                |          |
+| [両国ピーターパン2014〜人生変えちゃう夏かもね\!〜](https://ja.wikipedia.org/wiki/両国ピーターパン2014〜人生変えちゃう夏かもね!〜 "wikilink")                    | 2014年8月17日  | 9,100人                                                                |          |
+| [さいたまスーパーDDT2015](https://ja.wikipedia.org/wiki/さいたまスーパーDDT2015 "wikilink")                                           | 2015年2月15日  | [さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")コミュニティアリーナ          | 6,500人   |
+| [両国ピーターパン2015〜DDTより愛をこめて〜](https://ja.wikipedia.org/wiki/両国ピーターパン2015〜DDTより愛をこめて〜 "wikilink")                         | 2015年8月23日  | 両国国技館                                                                 | 6,670人   |
+| [大阪オクトパス2015](https://ja.wikipedia.org/wiki/大阪オクトパス2015 "wikilink")                                                   | 2015年11月28日 | [エディオンアリーナ大阪第](../Page/大阪府立体育会館.md "wikilink")1競技場                    | 2,332人   |
+| [Judgement2016〜DDT旗揚げ19周年記念大会〜](https://ja.wikipedia.org/wiki/Judgement2016〜DDT旗揚げ19周年記念大会〜 "wikilink")               | 2016年3月21日  | 両国国技館                                                                 | 6,938人   |
+| [両国ピーターパン2016〜世界でいちばん熱い夏〜](https://ja.wikipedia.org/wiki/両国ピーターパン2016〜世界でいちばん熱い夏〜 "wikilink")                         | 2016年8月28日  | 5,394人                                                                |          |
+| [DDTフェス2016 supported by ナタリー](https://ja.wikipedia.org/wiki/DDTフェス2016_supported_by_ナタリー "wikilink")                 | 2016年11月6日  | [STUDIO COAST](../Page/STUDIO_COAST.md "wikilink")                    | 1,630人   |
+| [DDTプロレスリング台湾大会〜ドラマティック・ドリーム・台湾〜](https://ja.wikipedia.org/wiki/DDTプロレスリング台湾大会〜ドラマティック・ドリーム・台湾〜 "wikilink")           | 2016年11月20日 | [ATT SHOW BOX](https://ja.wikipedia.org/wiki/ATT_SHOW_BOX "wikilink") | 675人     |
+| [大阪オクトパス2016〜浪花節だよプロレスは〜](https://ja.wikipedia.org/wiki/大阪オクトパス2016〜浪花節だよプロレスは〜 "wikilink")                           | 2016年12月4日  | エディオンアリーナ大阪第1競技場                                                      | 2,355人   |
+| [Judgement2017〜DDT旗揚げ20周年記念大会〜](https://ja.wikipedia.org/wiki/Judgement2017〜DDT旗揚げ20周年記念大会〜 "wikilink")               | 2017年3月20日  | さいたまスーパーアリーナ                                                          | 10,702人  |
+| [両国ピーターパン2017〜ピーターパン 二十歳になっても ピーターパン〜](https://ja.wikipedia.org/wiki/両国ピーターパン2017〜ピーターパン_二十歳になっても_ピーターパン〜 "wikilink") | 2017年8月20日  | 両国国技館                                                                 | 5,900人   |
+| [Judgement2018〜DDT旗揚げ21周年記念大会〜](https://ja.wikipedia.org/wiki/Judgement2018〜DDT旗揚げ21周年記念大会〜 "wikilink")               | 2018年3月25日  | 5,796人                                                                |          |
+| [両国ピーターパン2018〜秋のプロレス文化祭〜](https://ja.wikipedia.org/wiki/両国ピーターパン2018〜秋のプロレス文化祭〜 "wikilink")                           | 2018年10月21日 | 6,259人                                                                |          |
+| [Judgement2019〜DDT旗揚げ22周年記念大会〜](https://ja.wikipedia.org/wiki/Judgement2019〜DDT旗揚げ22周年記念大会〜 "wikilink")               | 2019年2月17日  | 4,177人                                                                |          |
+| [Wrestle Peter Pan 2019](https://ja.wikipedia.org/wiki/Wrestle_Peter_Pan_2019 "wikilink")                             | 2019年7月15日  | [大田区総合体育館](https://ja.wikipedia.org/wiki/大田区総合体育館 "wikilink")         | 3,798人   |
+| [大阪オクトパス2019](https://ja.wikipedia.org/wiki/大阪オクトパス2019 "wikilink")                                                   | 2019年9月1日   | エディオンアリーナ大阪第2競技場                                                      | 678人     |
+| [Ultimate Party 2019〜DDTグループ大集合\!〜](https://ja.wikipedia.org/wiki/Ultimate_Party_2019〜DDTグループ大集合!〜 "wikilink")        | 2019年11月3日  | 両国国技館                                                                 | 5,869人   |
+| [WRESTLE PETER PAN 2020【DAY1】](../Page/WRESTLE_PETER_PAN_2020【DAY1】.md "wikilink")                                    | 2020年6月6日   | DDT TV SHOWスタジオ                                                       | 0人\[24\] |
+| [WRESTLE PETER PAN 2020【DAY2】](../Page/WRESTLE_PETER_PAN_2020【DAY2】.md "wikilink")                                    | 2020年6月7日   | 0人\[25\]                                                              |          |
 
 ## DDTプロレスリング芸能部
 
@@ -1036,7 +1092,7 @@
 
 ## ベストストレッチ
 
-DDTが開店したストレッチ専門店。[2012年](../Page/2012年.md "wikilink")[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に[代々木上原店を開店](https://ja.wikipedia.org/wiki/代々木上原駅 "wikilink")。トレーナーは[風戸大智](https://ja.wikipedia.org/wiki/風戸大智 "wikilink")。[2013年](../Page/2013年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")、[千葉県](../Page/千葉県.md "wikilink")に[柏店が開店](https://ja.wikipedia.org/wiki/柏市 "wikilink")。トレーナーは[諸橋晴也](../Page/諸橋晴也.md "wikilink")。[2016年](../Page/2016年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")、東京都[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")に[新宿御苑前店と](https://ja.wikipedia.org/wiki/新宿御苑前駅 "wikilink")**新宿ぎょえん整骨院&新宿ぎょえん鍼灸治療院**を開店。トレーナーは[勝俣瞬馬](https://ja.wikipedia.org/wiki/勝俣瞬馬 "wikilink")、新宿ぎょえん院長は[松永智充](https://ja.wikipedia.org/wiki/松永智充 "wikilink")。[10月31日](../Page/10月31日.md "wikilink")、柏店が閉店。新宿御苑前店と新宿ぎょえんが業務統合。[2018年](../Page/2018年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")、新宿ぎょえん整骨院店が閉店。[2019年](../Page/2019年.md "wikilink")1月、代々木上原店の営業権を風戸に譲渡\[22\]。
+DDTが開店したストレッチ専門店。[2012年](../Page/2012年.md "wikilink")[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に[代々木上原店を開店](https://ja.wikipedia.org/wiki/代々木上原駅 "wikilink")。トレーナーは[風戸大智](https://ja.wikipedia.org/wiki/風戸大智 "wikilink")。[2013年](../Page/2013年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")、[千葉県](../Page/千葉県.md "wikilink")に[柏店が開店](https://ja.wikipedia.org/wiki/柏市 "wikilink")。トレーナーは[諸橋晴也](../Page/諸橋晴也.md "wikilink")。[2016年](../Page/2016年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")、東京都[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")に[新宿御苑前店と](https://ja.wikipedia.org/wiki/新宿御苑前駅 "wikilink")**新宿ぎょえん整骨院&新宿ぎょえん鍼灸治療院**を開店。トレーナーは[勝俣瞬馬](https://ja.wikipedia.org/wiki/勝俣瞬馬 "wikilink")、新宿ぎょえん院長は[松永智充](https://ja.wikipedia.org/wiki/松永智充 "wikilink")。[10月31日](../Page/10月31日.md "wikilink")、柏店が閉店。新宿御苑前店と新宿ぎょえんが業務統合。[2018年](../Page/2018年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")、新宿ぎょえん整骨院店が閉店。[2019年](../Page/2019年.md "wikilink")1月、代々木上原店の営業権を風戸に譲渡\[26\]。
 
 ## 同人誌
 
@@ -1085,7 +1141,8 @@ DDTが開店したストレッチ専門店。[2012年](../Page/2012年.md "wikil
 <!-- end list -->
 
   -
-    [2019年](../Page/2019年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から放送しているテレビアニメ。放送に先駆けて公開された実写プロモーションビデオならびにオープニング曲「 闘魂（ファイト）\! ケモナーマスク」のプロモーションビデオにHARASHIMA（ケモナーマスク役）と[MAO](https://ja.wikipedia.org/wiki/井上麻生 "wikilink")（MAO（マカデミアンオーガ）役\[23\]）で出演している。[11月10日](../Page/11月10日.md "wikilink")、豊島区中池袋公園で開催される[アニメイトガールズフェスティバル](https://ja.wikipedia.org/wiki/アニメイトガールズフェスティバル "wikilink")のイベント「DDTプロレスリング×AGF2019〜きらめく乙女の筋肉ランド〜」でケモナーマスク&[上野勇希](https://ja.wikipedia.org/wiki/上野勇希 "wikilink")組対MAO&[坂口征夫](../Page/坂口征夫.md "wikilink")組によるスペシャルコラボマッチが行われる予定。
+    [2019年](../Page/2019年.md "wikilink")10月より放送されていたテレビアニメ。DDTプロレスリングが制作に協力しており、放送に先駆けて公開された実写プロモーションビデオならびにオープニング曲「 闘魂（ファイト）\! ケモナーマスク」のプロモーションビデオにHARASHIMA（ケモナーマスク役）と[MAO](https://ja.wikipedia.org/wiki/井上麻生 "wikilink")（MAO（マカデミアンオーガ）役\[27\]）で出演。[AT-Xや動画配信サービスでは各話放送後に](../Page/アニメシアターX.md "wikilink")[スーパー・ササダンゴ・マシンなど所属選手がその日の放送回に登場したプロレス技を実写で再現するミニコーナー](../Page/マッスル坂井.md "wikilink")「今週のけものみち」が放送・配信されていた。
+    この他、[11月10日](../Page/11月10日.md "wikilink")に豊島区中池袋公園で開催された[アニメイトガールズフェスティバル](https://ja.wikipedia.org/wiki/アニメイトガールズフェスティバル "wikilink")のイベント「DDTプロレスリング×AGF2019〜きらめく乙女の筋肉ランド〜」でケモナーマスク&[上野勇希](https://ja.wikipedia.org/wiki/上野勇希 "wikilink")組対MAO&[坂口征夫](../Page/坂口征夫.md "wikilink")組によるスペシャルコラボマッチが行われた。
 
 ## 脚注
 
@@ -1129,12 +1186,16 @@ DDTが開店したストレッチ専門店。[2012年](../Page/2012年.md "wikil
 12. 一般社団法人[ベストボディ・ジャパン協会](https://ja.wikipedia.org/wiki/ベストボディ・ジャパン協会 "wikilink")主催
 13. [グラビアタレント・白川未奈、プロレスデビュー表明「時は来た\!」 - ORICON NEWS](https://www.oricon.co.jp/news/2110160/full/)
 14. [DDT UNIVERSEがサービス拡大により名称変更！　新名称はWRESTLE UNIVERSE（レッスルユニバース）！](https://www.ddtpro.com/news/14042)
-15. [DDT 7.19後楽園大会　坂口vs.入江、彰人vs.アントンのEXTREME級戦、MIKAMIのDDT所属最終試合](http://battle-news.com/?p=11805) 2015年7月19日付　バトル・ニュース
-16. [プロレスラー入門テストの季節](http://www.plus-blog.sportsnavi.com/kiyono/article/38) 清野茂樹のシゲキ的リング 2006年11月19日
-17.
-18.
+15.
+16.
+17. [DDT 7.19後楽園大会　坂口vs.入江、彰人vs.アントンのEXTREME級戦、MIKAMIのDDT所属最終試合](http://battle-news.com/?p=11805) 2015年7月19日付　バトル・ニュース
+18. [プロレスラー入門テストの季節](http://www.plus-blog.sportsnavi.com/kiyono/article/38) 清野茂樹のシゲキ的リング 2006年11月19日
 19.
-20. タイトルマッチは毎年10月に開催している[大森UTANフェスタ](https://ja.wikipedia.org/wiki/大森UTANフェスタ "wikilink")で行われている。
-21. [DAMNATION](https://ja.wikipedia.org/wiki/DAMNATION "wikilink")と業務提携を結んでいる。
-22.
-23. [MAOをモデルにしたアニメオリジナルキャラクター](https://ja.wikipedia.org/wiki/井上麻生 "wikilink")。
+20.
+21.
+22. タイトルマッチは毎年10月に開催している[大森UTANフェスタ](https://ja.wikipedia.org/wiki/大森UTANフェスタ "wikilink")で行われている。
+23. [DAMNATION](https://ja.wikipedia.org/wiki/DAMNATION "wikilink")と業務提携を結んでいる。
+24. 配信限定興行のため。
+25.
+26.
+27. [MAOをモデルにしたアニメオリジナルキャラクター](https://ja.wikipedia.org/wiki/井上麻生 "wikilink")。

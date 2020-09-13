@@ -56,7 +56,7 @@
   - [トリビアの泉 〜素晴らしきムダ知識〜](../Page/トリビアの泉_〜素晴らしきムダ知識〜.md "wikilink")（フジテレビ）
   - [ホンマでっか\!?TV](https://ja.wikipedia.org/wiki/ホンマでっか!?TV "wikilink")（フジテレビ）
   - [芸能界の告白](https://ja.wikipedia.org/wiki/芸能界の告白 "wikilink")（フジテレビ）
-  - [IPPON グランプリ](https://ja.wikipedia.org/wiki/IPPON_グランプリ "wikilink")（フジテレビ）
+  - [IPPONグランプリ](https://ja.wikipedia.org/wiki/IPPONグランプリ "wikilink")（フジテレビ）
   - [芸能界特技王決定戦 TEPPEN](https://ja.wikipedia.org/wiki/芸能界特技王決定戦_TEPPEN "wikilink")（フジテレビ）
   - [(株)世界衝撃映像社](https://ja.wikipedia.org/wiki/\(株\)世界衝撃映像社 "wikilink")（フジテレビ）
 

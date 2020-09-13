@@ -1,14 +1,6 @@
 > この記事は[DLP](https://ja.wikipedia.org/wiki/DLP)から翻訳されています。
 
 
-**DLP**
-
-1.  映像表示システムの一種。本項で紹介。
-2.  [離散対数問題](https://ja.wikipedia.org/wiki/離散対数問題 "wikilink")。[ElGamal暗号](../Page/ElGamal暗号.md "wikilink")や[楕円曲線暗号](../Page/楕円曲線暗号.md "wikilink")の[数論](../Page/数論.md "wikilink")的安全性の根拠。
-3.  [情報漏洩](../Page/情報漏洩.md "wikilink")対策。**D**ata **L**oss **P**revention あるいは **D**ata **L**eak **P**reventionの頭字語。
-
------
-
 **DLP**（ディーエルピー）とは、[デジタルミラーデバイス](../Page/デジタルミラーデバイス.md "wikilink") (DMD)を用いた映像表示システムのことで[機械式テレビジョン](../Page/機械式テレビジョン.md "wikilink")の一種である。*Digital Light Processing*の[頭字語](../Page/頭字語.md "wikilink")で、[テキサス・インスツルメンツ](../Page/テキサス・インスツルメンツ.md "wikilink")の[登録商標](https://ja.wikipedia.org/wiki/登録商標 "wikilink")である（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")登録）\[1\]\[2\]。
 
 [2004年](../Page/2004年.md "wikilink")現在、[プロジェクタ](../Page/プロジェクタ.md "wikilink")市場の47%を占め\[3\]、[液晶](../Page/液晶.md "wikilink")式プロジェクタと[市場占有率](../Page/市場占有率.md "wikilink")を争っていたが、[2011年](../Page/2011年.md "wikilink")末ではDLPのシェアが1年でほぼ倍増した。世界のシアターのほぼ半数以上が[デジタルシネマ](../Page/デジタルシネマ.md "wikilink")に移行したとし、これが[2015年](../Page/2015年.md "wikilink")までには完了するだろうと発表した\[4\]。

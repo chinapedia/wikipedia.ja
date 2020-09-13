@@ -48,7 +48,7 @@
         最大100Mbps。回線共有型。マンション内では[有線LANで接続](../Page/イーサネット.md "wikilink")。
   - TEPCOひかり マンションタイプ 5GHz無線プラン → ひかりoneマンションタイプ 無線
       -
-        最大30Mbps。回線共有型。[スピードネット](../Page/スピードネット.md "wikilink")の無線アクセスサービスを引き継いだもの。[無線LAN](../Page/無線LAN.md "wikilink")([IEEE 802.11a](https://ja.wikipedia.org/wiki/IEEE802.11#IEEE_802.11a "wikilink"))の親機を電柱に設置し、加入者宅の子機にパソコンなどを接続する\[12\]。
+        最大30Mbps。回線共有型。[スピードネット](../Page/スピードネット.md "wikilink")の無線アクセスサービスを引き継いだもの。[無線LAN](../Page/無線LAN.md "wikilink")([IEEE 802.11a](https://ja.wikipedia.org/wiki/IEEE802.11#IEEE_802.11a "wikilink"))の親機を電柱に設置し、加入者宅の子機にパソコンなどを接続する\[12\]。現在の[公衆無線LAN](../Page/公衆無線LAN.md "wikilink")と同じ仕組みであった。
 
 ### 現行サービス
 

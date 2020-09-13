@@ -139,7 +139,7 @@
 </tr>
 <tr class="even">
 <td><p>1986年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ト阿玉" title="wikilink">涂阿玉</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/涂阿玉" title="wikilink">涂阿玉</a></p></td>
 <td><p>-3</p></td>
 <td><p>兵庫県</p></td>
 <td><p>ライオンズカントリー倶楽部</p></td>

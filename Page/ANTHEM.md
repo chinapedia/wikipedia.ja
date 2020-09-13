@@ -672,7 +672,7 @@ ANTHEM以外では<a href="../Page/SABBRABELLS.md" title="wikilink">SABBRABELLS<
 
 ### レコード・レーベル
 
-  - [ユニバーサル・ミュージック内ページ](http://www.universal-music.co.jp/anthem)
+  - [ユニバーサル・ミュージック内ページ](https://www.universal-music.co.jp/anthem/)
   - [ビクターエンターテインメント内ページ](http://www.jvcmusic.co.jp/anthem/)
   - [ニュークリア・ブラスト内ページ](https://www.nuclearblast.de/anthem)
   - [ゴールデン・ロボット・レコード内ページ](http://goldenrobotrecords.com/golden-robot-records/anthem-jpn/)

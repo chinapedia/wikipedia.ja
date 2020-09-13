@@ -1,12 +1,16 @@
 > この記事は[PP](https://ja.wikipedia.org/wiki/PP)から翻訳されています。
 
 
-**PP**
+**PP**（ピーピー）
 
 ## 化学
 
   - [ポリプロピレン](../Page/ポリプロピレン.md "wikilink") (*Polypropylene*)
   - [フェノールフタレイン](../Page/フェノールフタレイン.md "wikilink") - Phenol Phthalein ([pH指示薬](https://ja.wikipedia.org/wiki/pH指示薬 "wikilink"))
+
+## 映画
+
+  - [パラマウント・ピクチャーズ](https://ja.wikipedia.org/wiki/パラマウント・ピクチャーズ "wikilink") - Paramount Picturesの略。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の映画製作会社。
 
 ## 情報
 

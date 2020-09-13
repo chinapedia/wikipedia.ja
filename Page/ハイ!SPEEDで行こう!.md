@@ -27,7 +27,7 @@
 
 もともとこの番組は原則[関東ローカルで](../Page/広域放送.md "wikilink")、一部ネットの放送だったが、1999年10月の解散発表以降、ネット局が急遽増えたことは有名。『あなたの卒業式をプロデュース』が関係していた模様。
 
-番組終了後も[島袋寛子](../Page/島袋寛子.md "wikilink")は[ソロ](https://ja.wikipedia.org/wiki/ソロ "wikilink")として[レギュラー](https://ja.wikipedia.org/wiki/レギュラー "wikilink")[番組](../Page/番組.md "wikilink")「[hiro素顔でMelody Fair](https://ja.wikipedia.org/wiki/hiro素顔でMelody_Fair "wikilink")」をニッポン放送で[2000年](../Page/2000年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送した。
+番組終了後も[島袋寛子](../Page/島袋寛子.md "wikilink")は[ソロ](../Page/ソロ.md "wikilink")として[レギュラー](https://ja.wikipedia.org/wiki/レギュラー "wikilink")[番組](../Page/番組.md "wikilink")「[hiro素顔でMelody Fair](https://ja.wikipedia.org/wiki/hiro素顔でMelody_Fair "wikilink")」をニッポン放送で[2000年](../Page/2000年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送した。
 
 その他、ニッポン放送では期間限定復活期間中の[2003年](../Page/2003年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")に「SPEEDのオールナイトニッポン」が放送された。現役時代は年齢制限の関係で生放送は難しかったが、この時は生で[放送](../Page/放送.md "wikilink")された。（所用で上原は[録音](../Page/録音.md "wikilink")で参加）
 

@@ -23,8 +23,7 @@ InterConnect 2004は[Microsoft Office](../Page/Microsoft_Office.md "wikilink") 2
 
 ## 外部リンク
 
-  - [Microsoft Office InterConnect 2004 ホーム](http://www.microsoft.com/japan/office/previous/2003/iconnect/prodinfo/default.mspx)
-  - [Microsoft Office InterConnect 2007の製品概要](http://office.microsoft.com/ja-jp/support/HA010197549.aspx)
+  - [Download InterConnect from Official Microsoft Download Center](https://www.microsoft.com/ja-jp/download/details.aspx?id=31386)
 
 [Category:Microsoft_Office](https://ja.wikipedia.org/wiki/Category:Microsoft_Office "wikilink")
 

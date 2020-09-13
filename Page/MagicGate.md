@@ -13,6 +13,8 @@
   - [メモリースティックビデオ](../Page/メモリースティックビデオ.md "wikilink")
   - [メモリースティックオーディオ](../Page/メモリースティックオーディオ.md "wikilink")
   - [SonicStage](https://ja.wikipedia.org/wiki/SonicStage "wikilink")
+  - [OpenMG](https://ja.wikipedia.org/wiki/OpenMG "wikilink")
+  - [ATRAC](../Page/ATRAC.md "wikilink")
 
 ## 外部リンク
 

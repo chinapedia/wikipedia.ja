@@ -199,6 +199,29 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>回</p></td>
+<td><p>開催年</p></td>
+<td><p>開催国</p></td>
+<td><p>決勝戦</p></td>
+<td><p>準決勝敗退国（3位決定戦無し）</p></td>
+<td><p>出場<br />
+国数</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>優勝</p></td>
+<td><p>結果</p></td>
+<td><p>準優勝</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/AFCアジアカップ1996.md" title="wikilink">11</a></p></td>
 <td><p><a href="../Page/1996年.md" title="wikilink">1996年</a></p></td>
 <td></td>
@@ -268,29 +291,6 @@
 <td></td>
 <td></td>
 <td><p><strong>3 - 2</strong></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>回</p></td>
-<td><p>開催年</p></td>
-<td><p>開催国</p></td>
-<td></td>
-<td><p>決勝戦</p></td>
-<td></td>
-<td><p>準決勝敗退国（3位決定戦無し）</p></td>
-<td></td>
-<td><p>出場<br />
-国数</p></td>
-</tr>
-<tr class="odd">
-<td><p>優勝</p></td>
-<td><p>結果</p></td>
-<td><p>準優勝</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">

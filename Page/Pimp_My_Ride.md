@@ -144,7 +144,7 @@
 3.  グラマン・トラック
 4.  「アース・デー・スペシャル」Break The Addiction特別版　[シボレー・インパラ](../Page/シボレー・インパラ.md "wikilink")
       -
-        この回では[アース・デーにちなんで](https://ja.wikipedia.org/wiki/アースデー "wikilink")[バイオディーゼル](../Page/バイオディーゼル.md "wikilink")に対応した[エンジンへの換装やリサイクルした素材を使うなど環境に配慮した改造が行われたほか](https://ja.wikipedia.org/wiki/エンジンスワップ "wikilink")、当時のカリフォルニア州知事[アーノルド・シュワルツェネッガー](../Page/アーノルド・シュワルツェネッガー.md "wikilink")がゲストで登場し環境対策をPRした。
+        この回では[アース・デーにちなんで](https://ja.wikipedia.org/wiki/アースデー "wikilink")[バイオディーゼル](../Page/バイオディーゼル.md "wikilink")に対応した[エンジンへの換装やリサイクルした素材を使うなど環境に配慮した改造が行われたほか](https://ja.wikipedia.org/wiki/エンジンスワップ "wikilink")、当時のカリフォルニア州知事[アーノルド・シュワルツェネッガー](../Page/アーノルド・シュワルツェネッガー.md "wikilink")がゲストで登場しカリフォルニアの環境政策をPRした。
 5.  [メルセデス・ベンツ・300SE](../Page/メルセデス・ベンツ・W140.md "wikilink")
 6.  シボレー・バン
 7.  [クライスラー・グランドボイジャー](https://ja.wikipedia.org/wiki/クライスラー・グランドボイジャー "wikilink")

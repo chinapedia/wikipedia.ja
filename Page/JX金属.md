@@ -1,13 +1,13 @@
 > この記事は[JX金属](https://ja.wikipedia.org/wiki/JX金属)から翻訳されています。
 
 
-**JX金属株式会社**（ジェイエックスきんぞく、[英文社名](../Page/英語.md "wikilink") *JX Nippon Mining & Metals Corporation*）は、[銅](../Page/銅.md "wikilink")を中心とする[非鉄金属](../Page/非鉄金属.md "wikilink")製品の製造・販売などを手がける[JXTGホールディングス](https://ja.wikipedia.org/wiki/JXTGホールディングス "wikilink")の中核事業会社である。略称は、**NMM**。
+**JX金属株式会社**（ジェイエックスきんぞく、[英文社名](../Page/英語.md "wikilink") *JX Nippon Mining & Metals Corporation*）は、[銅](../Page/銅.md "wikilink")を中心とする[非鉄金属](../Page/非鉄金属.md "wikilink")製品の製造・販売などを手がける[ENEOSホールディングス](https://ja.wikipedia.org/wiki/ENEOSホールディングス "wikilink")の中核事業会社である。略称は、**NMM**。
 
 2010年7月、すでに[中間持株会社](https://ja.wikipedia.org/wiki/中間持株会社 "wikilink")の状態にあった[新日鉱ホールディングス](../Page/新日鉱ホールディングス.md "wikilink")が、日鉱金属を吸収合併して事業会社に転換し、JX日鉱日石金属となった。2016年1月、現商号に変更した。
 
 ## 概要
 
-[ジャパンエナジー](../Page/ジャパンエナジー.md "wikilink")（現・[JXTGエネルギー](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")）と共に、[日立製作所](../Page/日立製作所.md "wikilink")や[日産自動車](../Page/日産自動車.md "wikilink")をはじめとする[日産コンツェルン](../Page/日産コンツェルン.md "wikilink")の源流であった。日立銅山に端を発する(日立製作所もその銅線事業から始まっている)同グループにとって、創立以来の中核事業であった非鉄金属事業部門を継承している。日立金属安来工場に次ぐ合金設計の歴史を持っている。
+[ジャパンエナジー](../Page/ジャパンエナジー.md "wikilink")（現・[ENEOS](../Page/ENEOS.md "wikilink")）と共に、[日立製作所](../Page/日立製作所.md "wikilink")や[日産自動車](../Page/日産自動車.md "wikilink")をはじめとする[日産コンツェルン](../Page/日産コンツェルン.md "wikilink")の源流であった。日立銅山に端を発する(日立製作所もその銅線事業から始まっている)同グループにとって、創立以来の中核事業であった非鉄金属事業部門を継承している。日立金属安来工場に次ぐ合金設計の歴史を持っている。
 
 事業は[資源](../Page/資源.md "wikilink")開発・[金属](../Page/金属.md "wikilink")[製錬](../Page/製錬.md "wikilink")・電材化工・環境[リサイクル](../Page/リサイクル.md "wikilink")の4つに大別される。資源開発では鉱山権益の拡大など非鉄金属資源の開発を手掛ける。金属製錬では、子会社の[パンパシフィック・カッパー](../Page/パンパシフィック・カッパー.md "wikilink")株式会社 (PPC) が[PPC佐賀関製錬所で銅製錬などを行っている](https://ja.wikipedia.org/wiki/パンパシフィック・カッパー佐賀関製錬所 "wikilink")。またパンパシフィック・カッパーは非鉄金属の販売も行う。電材化工では[電子機器](https://ja.wikipedia.org/wiki/電子機器 "wikilink")に使用される銅箔や[化合物半導体](../Page/化合物半導体.md "wikilink")などの製造、精密圧延などの精密加工を手掛ける。環境リサイクルではリサイクル原料や[産業廃棄物](https://ja.wikipedia.org/wiki/産業廃棄物 "wikilink")からの有価金属の回収を行っている。
 
@@ -17,7 +17,7 @@
 
 ### 本社・事務所
 
-  - [本社](../Page/本社.md "wikilink") - [東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[大手町一丁目](../Page/大手町_\(千代田区\).md "wikilink")1番2号
+  - [本社](../Page/本社.md "wikilink") - [東京都](../Page/東京都.md "wikilink")[港区虎ノ門二丁目](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")10番4号 オークラ プレステージタワー
   - チリ事務所 - [サンティアゴ](https://ja.wikipedia.org/wiki/サンティアゴ・デ・チレ "wikilink")（[チリ](../Page/チリ.md "wikilink")）
 
 ### 生産拠点
@@ -94,7 +94,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Pan_Pacific_Copper.jpg "wikilink")
 
-旧・日鉱金属のグループ会社はそのままJX金属のグループ会社となるとともに[JXTGグループ](../Page/JXTGグループ.md "wikilink")の一員になる。また、一部のグループ企業は商号変更もおこなわれている。[JXTGグループ](../Page/JXTGグループ.md "wikilink")も参照のこと。
+旧・日鉱金属のグループ会社はそのままJX金属のグループ会社となるとともに[ENEOSグループ](../Page/ENEOSグループ.md "wikilink")の一員になる。また、一部のグループ企業は商号変更もおこなわれている。[ENEOSグループ](../Page/ENEOSグループ.md "wikilink")も参照のこと。
 
 **関連事業**
 
@@ -141,7 +141,7 @@
 ## 関連項目
 
   - [日本鉱業佐賀関鉄道](https://ja.wikipedia.org/wiki/日本鉱業佐賀関鉄道 "wikilink")
-  - [JXTGホールディングス](https://ja.wikipedia.org/wiki/JXTGホールディングス "wikilink")
+  - [ENEOSホールディングス](https://ja.wikipedia.org/wiki/ENEOSホールディングス "wikilink")
   - [新日鉱ホールディングス](../Page/新日鉱ホールディングス.md "wikilink")
   - [ジャパンエナジー](../Page/ジャパンエナジー.md "wikilink")
   - [カッパーくん](https://ja.wikipedia.org/wiki/カッパーくん "wikilink")（JX金属のマスコットキャラクター）
@@ -149,11 +149,11 @@
 
 ## 外部リンク
 
-  - [JX金属株式会社](http://www.nmm.jx-group.co.jp/)
+  - [JX金属株式会社](https://www.nmm.jx-group.co.jp/)
 
 [de:Shin-Nikkō Holdings](https://ja.wikipedia.org/wiki/de:Shin-Nikkō_Holdings "wikilink")
 
-[Category:日本の非鉄金属メーカー](https://ja.wikipedia.org/wiki/Category:日本の非鉄金属メーカー "wikilink") [Category:JXTGグループ](https://ja.wikipedia.org/wiki/Category:JXTGグループ "wikilink") [Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink")
+[Category:日本の非鉄金属メーカー](https://ja.wikipedia.org/wiki/Category:日本の非鉄金属メーカー "wikilink") [Category:ENEOSグループ](https://ja.wikipedia.org/wiki/Category:ENEOSグループ "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink")
 
 1.
 2.

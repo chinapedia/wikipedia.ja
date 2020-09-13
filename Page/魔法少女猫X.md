@@ -35,7 +35,7 @@
 
 ## 単行本
 
-1.  ISBN 4047123803
-2.  ISBN 4047123935
+1.  2004年11月29日、ISBN 4-04-712380-3
+2.  2005年3月29日、ISBN 4-04-712393-5
 
 [Category:漫画作品_ま](https://ja.wikipedia.org/wiki/Category:漫画作品_ま "wikilink") [Category:月刊ドラゴンエイジ](https://ja.wikipedia.org/wiki/Category:月刊ドラゴンエイジ "wikilink") [Category:ネコを主題とする作品](https://ja.wikipedia.org/wiki/Category:ネコを主題とする作品 "wikilink") [Category:魔法少女](https://ja.wikipedia.org/wiki/Category:魔法少女 "wikilink") [Category:BDSM作品](https://ja.wikipedia.org/wiki/Category:BDSM作品 "wikilink")

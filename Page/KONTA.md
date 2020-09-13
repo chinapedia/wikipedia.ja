@@ -97,29 +97,237 @@
 
 ## ディスコグラフィー
 
-### アルバム
-
-|         | 発売日        | タイトル     | 曲数 | 備考                                                     |
-| ------- | ---------- | -------- | -- | ------------------------------------------------------ |
-| **1st** | 1993年7月21日 | F ACT    | 11 | オリコン最高6位                                               |
-| **2nd** | 1994年7月1日  | even     | 12 | オリコン最高30位                                              |
-| **3rd** | 1996年1月24日 | Jane Doe | 6  | オリコン最高48位 ※角松敏生が作曲・アレンジ・プロデュースで参加                      |
-| **4th** | 1997年11月6日 | KONTA    | 10 | [DAIPRO-X](../Page/DAIPRO-X.md "wikilink") ※移籍1枚目のアルバム |
-| **5th** | 1998年5月2日  | GUY      | 9  | 全曲の作曲とアレンジを本人が担当                                       |
-
 ### シングル
 
-|         | リリース日       | タイトル         | 2曲目以降（カラオケ除く）   | 備考                       |
-| ------- | ----------- | ------------ | --------------- | ------------------------ |
-| **1st** | 1993年7月21日  | Mars         | 怒ってみろ / しゃらくせぇ！ | アルバム『F ACT』と同時発売。オリコン58位 |
-| **2nd** | 1994年5月21日  | いびつなワルツ      | のらねこ / でまかせ     | オリコン67位                  |
-| **3rd** | 1995年12月16日 | otherwise    | 悪戯（いいこと）しよう     | オリコン100位                 |
-| **4th** | 1997年10月22日 | 出てくぜ         | あいつがいれば完璧な日     | DAIPRO-X移籍1枚目のシングル       |
-| **5th** | 1998年1月21日  | 馬に蹴られろ\!     | コラール            | アルバム『KONTA』からのシングルカット    |
-| **6th** | 1998年4月22日  | 気をつけろ\!      | ひめごと            |                          |
-| **7th** | 2002年12月11日 | ふざけるな        | \-              | 配信限定                     |
-| **8th** | 2003年2月12日  | Cynical Babe | \-              | 配信限定                     |
-| **9th** | 2003年-月-日   | A SAD GIRL   | \-              | 配信限定                     |
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>リリース日</p></th>
+<th><p>タイトル</p></th>
+<th><p>2曲目以降（カラオケ除く）</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>1st</strong></p></td>
+<td><p>1993年7月21日</p></td>
+<td><p><strong>Mars</strong></p></td>
+<td><ol>
+<li>Mars　</li>
+<li>怒ってみろ</li>
+<li>しゃらくせぇ！（GIMMIX）</li>
+</ol></td>
+<td><ul>
+<li>アルバム『F ACT』と同時発売。</li>
+<li>オリコン58位</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><strong>2nd</strong></p></td>
+<td><p>1994年5月21日</p></td>
+<td><p><strong>いびつなワルツ</strong></p></td>
+<td><ol>
+<li>いびつなワルツ　</li>
+<li>のらねこ</li>
+<li>でまかせ（）　</li>
+</ol></td>
+<td><ul>
+<li>オリコン67位</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><strong>3rd</strong></p></td>
+<td><p>1995年12月16日</p></td>
+<td><p><strong>otherwise</strong></p></td>
+<td><ol>
+<li>otherwise　</li>
+<li>悪戯（いいこと）しよう　</li>
+<li>otherwise（TV MIX）　</li>
+</ol></td>
+<td><ul>
+<li>オリコン100位</li>
+<li><strong>『otherwise』</strong>
+<dl>
+<dt></dt>
+<dd>日本テレビ・読売テレビ系アニメーション「<a href="../Page/シティーハンター.md" title="wikilink">シティーハンター</a>スペシャル　ザ・シークレット・サービス」主題歌
+</dd>
+</dl></li>
+<li><strong>『悪戯（いいこと）しよう』</strong>
+<dl>
+<dt></dt>
+<dd>フジテレビジョン「エンタメゆうえんち」オープニングテーマ
+</dd>
+</dl></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><strong>4th</strong></p></td>
+<td><p>1997年10月22日</p></td>
+<td><p><strong>出てくぜ</strong></p></td>
+<td><ol>
+<li>出てくぜ</li>
+<li>あいつがいれば完璧な日　</li>
+<li>出てくぜ（オリジナルカラオケ）</li>
+</ol></td>
+<td><ul>
+<li><a href="../Page/DAIPRO-X.md" title="wikilink">DAIPRO-X</a>移籍1枚目のシングル　</li>
+<li>全作詞・作曲・編曲を本人が手がける　</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><strong>5th</strong></p></td>
+<td><p>1998年1月21日</p></td>
+<td><p><strong>馬に蹴られろ!</strong></p></td>
+<td><ol>
+<li>馬に蹴られろ！</li>
+<li>コラール　</li>
+<li>馬に蹴られろ！（）</li>
+</ol></td>
+<td><ul>
+<li>アルバム『KONTA』からのシングルカット</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><strong>6th</strong></p></td>
+<td><p>1998年4月22日</p></td>
+<td><p><strong>気をつけろ!</strong></p></td>
+<td><ol>
+<li>気をつけろ！　</li>
+<li>ひめごと　</li>
+<li>気をつけろ！（オリジナルカラオケ）</li>
+</ol></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>7th</strong></p></td>
+<td><p>2002年12月11日</p></td>
+<td><p>ふざけるな</p></td>
+<td><p>-</p></td>
+<td><p>配信限定</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>8th</strong></p></td>
+<td><p>2003年2月12日</p></td>
+<td><p>Cynical Babe</p></td>
+<td><p>-</p></td>
+<td><p>配信限定</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>9th</strong></p></td>
+<td><p>2003年-月-日</p></td>
+<td><p>A SAD GIRL</p></td>
+<td><p>-</p></td>
+<td><p>配信限定</p></td>
+</tr>
+</tbody>
+</table>
+
+### アルバム
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>収録内容</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>1st</strong></p></td>
+<td><p>1993年7月21日</p></td>
+<td><p><strong>F ACT</strong></p></td>
+<td><ol>
+<li>Mars　</li>
+<li>怒ってみろ　</li>
+<li>遠いルビー</li>
+<li>おとなげ　</li>
+<li>いぢめないよ　</li>
+<li>しゃらくせえ！　</li>
+<li>まだかい　</li>
+<li>I.O.U.</li>
+<li>デッドアイマリア　</li>
+<li>これでおしまい　</li>
+<li>いぢめないよ（reprise）　</li>
+</ol></td>
+<td><p>オリコン最高6位</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>2nd</strong></p></td>
+<td><p>1994年7月1日</p></td>
+<td><p><strong>even</strong></p></td>
+<td><ol>
+<li>Overture</li>
+<li>Cry Cry Cry　</li>
+<li>火事のもと</li>
+<li>Ronde</li>
+<li>しゃくなパーティ</li>
+<li>アラビアのお酒</li>
+<li>いびつなワルツ</li>
+<li>…そして天使の羽音が</li>
+<li>口笛ふいて</li>
+<li>のらねこ</li>
+<li>ゴムのナイフ</li>
+<li>even</li>
+</ol></td>
+<td><p>オリコン最高30位</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>3rd</strong></p></td>
+<td><p>1996年1月24日</p></td>
+<td><p><strong>Jane Doe</strong></p></td>
+<td><ol>
+<li>早射ちマック　</li>
+<li>otherwise・・・Nightbreak　</li>
+<li>Cats and Dogs　</li>
+<li>ジュジュ　</li>
+<li>からす　</li>
+<li>エピローグ　</li>
+</ol></td>
+<td><p>オリコン最高48位<br />
+<a href="https://ja.wikipedia.org/wiki/角松敏生" title="wikilink">角松敏生</a>が作曲・アレンジ・プロデュースで参加</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>4th</strong></p></td>
+<td><p>1997年11月6日</p></td>
+<td><p><strong>KONTA</strong></p></td>
+<td><ol>
+<li>エース5枚に骰子の7</li>
+<li>馬に蹴られろ!</li>
+<li>からだだけは正直だ</li>
+<li>GIFT</li>
+<li>コラール</li>
+<li>愛を語ると</li>
+<li>出てくぜ</li>
+<li>ダンサー</li>
+<li>あいつがいれば完璧な日</li>
+<li>パパによろしく</li>
+</ol></td>
+<td><p><a href="../Page/DAIPRO-X.md" title="wikilink">DAIPRO-X</a>移籍1枚目のアルバム</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>5th</strong></p></td>
+<td><p>1998年5月2日</p></td>
+<td><p><strong>GUY</strong></p></td>
+<td><ol>
+<li>Another Shadow　</li>
+<li>Reset　</li>
+<li>神さまよろしく　</li>
+<li>役たたず　</li>
+<li>ひめごと　</li>
+<li>子守歌　</li>
+<li>Night Walker　</li>
+<li>気をつけろ！　</li>
+<li>スイートメロディ　</li>
+</ol></td>
+<td><p>全曲の作曲とアレンジを本人が担当</p></td>
+</tr>
+</tbody>
+</table>
 
 ### 参加作品
 

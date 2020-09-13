@@ -18,6 +18,7 @@
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")からはフェアライトCMIの使用を止め、生演奏をアナログ録音することに徹底的にこだわった『Signal』、ミュージシャン各人がDATで自宅録音した音素材を使うスタジオレスレコーディングの『HOLIDAY』、Macintoshパソコン向けのマルチメディアCD-ROM『The Seven Colors』、アコースティック楽器によるセルフカヴァー『HOME MADE』など毎回制作手法を大幅に変化させる作風が特徴となる。
   - [1996年](../Page/1996年.md "wikilink")、松浦雅也がDTM雑誌『[PC music](../Page/PC_music.md "wikilink")』6月号誌上の連載ページにて解散を発表。8月1日のベストアルバム『[Two Bridges](https://ja.wikipedia.org/wiki/Two_Bridges "wikilink")』の発売をもって解散した（のちに"終焉"と表現された）。
   - 11年間の活動中（デビュー前には、2年間の音楽制作期間がある）、松浦と安則が仕事以外でプライベートで会ったのはたった1回、「30分程度喫茶店でお茶をしただけ」 （松浦談）だったというが、それは「音楽のみでつながっていたい、と松浦くんが望んだから」（CHAKA談）とのこと。
+  - 2020年6月17日同時発売予定の『[ATLAS](http://www.110107.com/s/oto/page/psys35?ima=3524)』（[初のアナログ化：品番MHJL-150](http://www.sonymusic.co.jp/artist/Psys/info/518464)）と『[LIVE PSY・S Looking For The "ATLAS" Tour '89](http://www.110107.com/s/oto/page/psys35?ima=3524)』（[初ブルーレイ化：品番MHXL-82](http://www.sonymusic.co.jp/artist/Psys/info/518464)）が2020年4月7日に新型コロナウイルス感染拡大に伴い発令された「[緊急事態宣言](https://corona.go.jp/news/news_20200405_19.html)」のため制作遅延となり、2020年7月22日に発売が延期となった。（[2020年5月22日発表](http://www.sonymusic.co.jp/artist/Psys/info/518635)）
 
 ## 代表曲
 
@@ -25,6 +26,11 @@
     1988年4月21日発売。作詞:[松尾由紀夫](../Page/松尾由紀夫.md "wikilink")、作曲:松浦雅也、編曲:松浦雅也。『[シティーハンター2](../Page/シティーハンター_\(アニメ\).md "wikilink")』オープニングテーマ曲
   - Woman･S
     [明石家さんま](../Page/明石家さんま.md "wikilink")の冠テレビ番組『[さんまのまんま](https://ja.wikipedia.org/wiki/さんまのまんま "wikilink")』エンディングテーマ曲（1987年）
+
+### Kisses
+
+  -
+    1990年9月21日発売。『[東京テレメッセージ](../Page/東京テレメッセージ.md "wikilink")』CMソング。14thシングル・6thアルバム『[SIGNAL](https://ja.wikipedia.org/wiki/SIGNAL_\(PSY・Sのアルバム\) "wikilink")』収録
   - [Friends or Lovers](https://ja.wikipedia.org/wiki/Friends_or_Lovers "wikilink")
     1991年2月10日発売。[TBS系TV金曜ドラマ](../Page/TBSテレビ.md "wikilink")『[ママってきれい\!?](https://ja.wikipedia.org/wiki/ママってきれい!? "wikilink")』テーマ・ソング
   - [Lemonの勇気](https://ja.wikipedia.org/wiki/Lemonの勇気 "wikilink")
@@ -98,8 +104,8 @@
 5.  **[Two Bridges](https://ja.wikipedia.org/wiki/Two_Bridges "wikilink")**（1996年8月1日）ベストアルバム
 6.  **[Brand-New Menu+Another Diary](https://ja.wikipedia.org/wiki/Brand_New_Menu+Another_Diary "wikilink")**（1998年）
 7.  **[GOLDEN☆BEST PSY・S (SINGLES+)](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_PSY・S_SINGLES+ "wikilink")**（2002年11月20日）シングルベストアルバム
-8.  **Psyclopedia**（2012年12月12日）
-      - オリジナルアルバム9作、Collection、TWO HEARTS、HOME MADE、TWO BRIDGES、TWO SPIRITS HISTORY（TWO SPIRITSの再構成盤）、初収録曲等を加えたリマスタリングBlu-Spec CD 14枚ボックスセット
+8.  **Psyclopedia**（2012年12月12日）オリジナルアルバム9作、Collection、TWO HEARTS、HOME MADE、TWO BRIDGES、TWO SPIRITS HISTORY（TWO SPIRITSの再構成盤）、初収録曲等を加えたリマスタリングBlu-Spec CD 14枚ボックスセット
+9.  [**ATLAS**](http://www.110107.com/s/oto/page/psys35?ima=3524)（2020年7月22日）6thアルバム『[ATLAS](https://ja.wikipedia.org/wiki/ATLAS_\(アルバム\) "wikilink")』を初アナログ化 [松浦雅也](../Page/松浦雅也.md "wikilink")監修のもと、1/2インチのオリジナルマスターテープからダイレクト・カッティング
 
 ### ビデオシングル
 
@@ -122,6 +128,10 @@
 ### DVD
 
   - LIVE PSY･S NON-FICTION TOUR '88-'89/PSY･S 4SIZE（2005年9月7日）
+
+### Blu-ray
+
+  - [LIVE PSY・S Looking For The "ATLAS" Tour '89](http://www.110107.com/s/oto/page/psys35?ima=3524)（2020年7月22日）『[ATLAS](https://ja.wikipedia.org/wiki/ATLAS_\(アルバム\) "wikilink")』リリース時のツアーから1989年10月21日の中野サンプラザ公演の模様を収録画質・音質を大幅にアップしたHDリマスター版仕様
 
 ### VIDEO CD
 

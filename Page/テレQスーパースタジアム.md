@@ -49,9 +49,8 @@
 
   - [柴原洋](../Page/柴原洋.md "wikilink")（2012年 - ）
   - [斉藤和巳](../Page/斉藤和巳.md "wikilink")（2014年 - 、2015年からテレビ東京解説者兼。2017年からはスポナビライブのDeNA戦やDAZNの広島戦（いずれも対ソフトバンク戦以外も含む）の解説も担当）
-  - [森福允彦](../Page/森福允彦.md "wikilink")（2020年 - 、[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（テレビ・ラジオ）・[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")（テレビ）解説者兼。）
 
-3人とも[スポーツライブ+](../Page/スポーツライブ+.md "wikilink")で放送の球団制作中継の中継を兼任。
+2人とも[スポーツライブ+](../Page/スポーツライブ+.md "wikilink")で放送の球団制作中継の中継を兼任。
 
 ### ゲスト解説
 
@@ -93,7 +92,7 @@
   - [山本琢也](../Page/山本琢也.md "wikilink")
   - [吉松孝](../Page/吉松孝.md "wikilink")（退職）
   - [加地良光](../Page/加地良光.md "wikilink")（昇進による配置転換でアナウンスを離れる）
-  - [南鉄平](https://ja.wikipedia.org/wiki/南鉄平 "wikilink")（フリー、J SPORTS実況兼）
+  - [南鉄平](../Page/南鉄平.md "wikilink")（フリー、J SPORTS実況兼）
 
 ## [副音声](https://ja.wikipedia.org/wiki/副音声 "wikilink")実況
 

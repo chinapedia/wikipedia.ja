@@ -218,7 +218,7 @@
   - プロデューサー：原田聡、依田萌
   - チーフプロデューサー：鬼塚信次(2018年10月 - )
   - 取材協力：[RED VOLTAGE](../Page/レッドボルテージ.md "wikilink")、[RedsLand](../Page/レッズランド.md "wikilink")
-  - 技術協力：TAP
+  - 技術協力：[TAP（ティーエーピー）](../Page/ティーエーピー.md "wikilink")
   - 協力：[NIKE](../Page/ナイキ.md "wikilink")
   - 制作協力：AON、ARTROCK
 

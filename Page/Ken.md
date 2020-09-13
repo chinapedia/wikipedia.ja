@@ -3,7 +3,7 @@
 
 **ken**（ケン、[1968年](../Page/1968年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[ギタリスト](../Page/ギタリスト.md "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。
 
-[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のギタリスト。また、元[SONS OF ALL PUSSYSのヴォーカリスト](../Page/SONS_OF_ALL_PUSSYS.md "wikilink")・ギタリスト、元[P'UNK〜EN〜CIEL](https://ja.wikipedia.org/wiki/P'UNK〜EN〜CIEL "wikilink")の[ドラマー](../Page/ドラマー.md "wikilink")。SONS OF ALL PUSSYS・ソロではKen名義、[P'UNK〜EN〜CIEL](https://ja.wikipedia.org/wiki/P'UNK〜EN〜CIEL "wikilink")ではKEN P'UNK名義で活動している。愛称は「kenちゃん」。[滋賀県](../Page/滋賀県.md "wikilink")[米原市](../Page/米原市.md "wikilink")出身。[名古屋工業大学](https://ja.wikipedia.org/wiki/名古屋工業大学 "wikilink")卒業。既婚。1児の父。所属事務所は[MAVERICK](../Page/マーヴェリック・ディー・シー・グループ.md "wikilink")。
+[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のギタリスト。また、元[SONS OF ALL PUSSYSのヴォーカリスト](../Page/SONS_OF_ALL_PUSSYS.md "wikilink")・ギタリスト、元[P'UNK〜EN〜CIEL](https://ja.wikipedia.org/wiki/P'UNK〜EN〜CIEL "wikilink")の[ドラマー](../Page/ドラマー.md "wikilink")。SONS OF ALL PUSSYS・ソロではKen名義、[P'UNK〜EN〜CIEL](https://ja.wikipedia.org/wiki/P'UNK〜EN〜CIEL "wikilink")ではKEN P'UNK名義で活動している。愛称は「kenちゃん」。[滋賀県](../Page/滋賀県.md "wikilink")[米原市](../Page/米原市.md "wikilink")出身。[名古屋工業大学](https://ja.wikipedia.org/wiki/名古屋工業大学 "wikilink")卒業。既婚。所属事務所は[MAVERICK](../Page/マーヴェリック・ディー・シー・グループ.md "wikilink")。
 
 ## 概要
 
@@ -874,7 +874,7 @@ Ken with Naughty stars</p></td>
 
 ## 外部リンク
 
-  - [Ken OFFICIAL WEB SITE](http://www.ken-curlyhair.com/)
+  - [Ken OFFICIAL WEB SITE](https://www.ken-curlyhair.com/)
 
   -
   - [Ken’s C.H.Lionの冒険](https://ameblo.jp/ken-chlionragbaby/) オフィシャルブログ by Ameba
@@ -883,9 +883,13 @@ Ken with Naughty stars</p></td>
   - [MAVERICK](https://maverick-dci.com/)
 
   -
-  - [L'Arc〜en〜Ciel/LArcom.net](https://www.larcom.net/)
+  - [L'Arc-en-Ciel/LArcom.net](https://www.larcom.net/)
 
-  - [SONS OF ALL PUSSYS OFFICIAL WEB SITE](http://www.bubble-star.com/)\[56\]
+  - [SONS OF ALL PUSSYS OFFICIAL WEB SITE](https://www.bubble-star.com/)\[56\]
+
+  - [Fender](https://shop.fender.com/ja-JP/start)
+
+  - [FREE THE TONE](https://www.freethetone.com/)
 
 ## 脚注
 

@@ -64,4 +64,4 @@
 [Category:自作パソコン](https://ja.wikipedia.org/wiki/Category:自作パソコン "wikilink")
 
 1.  [米Intel，高誘電率ゲート絶縁膜／金属製ゲート採用のトランジスタ開発に成功](http://itpro.nikkeibp.co.jp/free/ITPro/USNEWS/20031106/2/)
-2.  [AMDの新しいマザーボード規格(DTX)の可能性は...](http://web.archive.org/web/20090906030411/http://japan.cnet.com/blog/kichi/2007/01/12/amddtx_63b2//)
+2.  [AMDの新しいマザーボード規格(DTX)の可能性は...](https://web.archive.org/web/20090906030411/http://japan.cnet.com/blog/kichi/2007/01/12/amddtx_63b2//)

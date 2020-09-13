@@ -183,7 +183,7 @@
   - [刻命館](../Page/刻命館.md "wikilink")
   - [吸血鬼ハンターD](../Page/吸血鬼ハンターD.md "wikilink")
   - [天空のレストラン](https://ja.wikipedia.org/wiki/天空のレストラン "wikilink")
-  - [太陽のしっぽ](https://ja.wikipedia.org/wiki/太陽のしっぽ "wikilink")
+  - [太陽のしっぽ](../Page/太陽のしっぽ.md "wikilink")
   - [女神異聞録ペルソナ](../Page/女神異聞録ペルソナ.md "wikilink")
   - [学校をつくろう\!\!](../Page/学校をつくろう!!.md "wikilink")
   - [学校をつくろう\!\!](../Page/学校をつくろう!!.md "wikilink")2

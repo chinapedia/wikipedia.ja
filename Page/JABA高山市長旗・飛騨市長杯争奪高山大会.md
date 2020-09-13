@@ -23,6 +23,7 @@
 <th><p>参加チーム数</p></th>
 <th><p>優勝チーム</p></th>
 <th><p>準優勝チーム</p></th>
+<th><p>備考</p></th>
 </tr>
 </thead>
 <tbody>
@@ -32,12 +33,14 @@
 <td></td>
 <td><p><a href="../Page/信越硬式野球クラブ.md" title="wikilink">NTT信越</a></p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>1987</p></td>
 <td></td>
 <td><p>NTT信越</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -46,6 +49,7 @@
 <td></td>
 <td><p><a href="../Page/西濃運輸硬式野球部.md" title="wikilink">西濃運輸</a></p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
@@ -53,96 +57,110 @@
 <td></td>
 <td><p><a href="../Page/ヤマハ硬式野球部.md" title="wikilink">ヤマハ</a></p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>1990</p></td>
-<td></td>
+<td><p>12</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大昭和製紙硬式野球部" title="wikilink">大昭和製紙</a></p></td>
+<td><p>三菱名古屋</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
 <td><p>1991</p></td>
-<td></td>
+<td><p>12</p></td>
 <td><p><a href="../Page/トヨタ自動車硬式野球部.md" title="wikilink">トヨタ自動車</a></p></td>
+<td><p>JR東海</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>1992</p></td>
-<td></td>
+<td><p>14</p></td>
 <td><p>トヨタ自動車</p></td>
+<td><p>|NTT東海</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
 <td><p>1993</p></td>
-<td></td>
+<td><p>12</p></td>
 <td><p>西濃運輸</p></td>
+<td><p>トヨタ自動車</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
 <td><p>1994</p></td>
-<td></td>
+<td><p>14</p></td>
 <td><p><a href="../Page/日本製鉄東海REX.md" title="wikilink">新日本製鐵名古屋</a></p></td>
+<td><p>NTT東海</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
 <td><p>1995</p></td>
-<td></td>
+<td><p>15</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/昭和コンクリート硬式野球部" title="wikilink">昭和コンクリート</a></p></td>
+<td><p>JR東日本</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
 <td><p>1996</p></td>
-<td></td>
+<td><p>16</p></td>
 <td><p>昭和コンクリート</p></td>
+<td><p>JR東海</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
 <td><p>1997</p></td>
-<td></td>
+<td><p>14</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/NTT西日本名古屋野球クラブ" title="wikilink">NTT東海</a></p></td>
+<td><p>三菱自動車岡崎</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
 <td><p>1998</p></td>
-<td></td>
+<td><p>14</p></td>
 <td><p>昭和コンクリート</p></td>
+<td><p>富士重工</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
 <td><p>1999</p></td>
-<td></td>
+<td><p>14</p></td>
 <td><p>昭和コンクリート</p></td>
+<td><p>三菱重工名古屋</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
 <td><p>2000</p></td>
-<td></td>
+<td><p>14</p></td>
 <td><p><a href="../Page/東邦ガス硬式野球部.md" title="wikilink">東邦ガス</a></p></td>
+<td><p>一光</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>16</p></td>
 <td><p>2001</p></td>
-<td></td>
+<td><p>16</p></td>
 <td><p><a href="../Page/Honda鈴鹿硬式野球部.md" title="wikilink">ホンダ鈴鹿</a></p></td>
+<td><p>一光</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>17</p></td>
 <td><p>2002</p></td>
-<td></td>
+<td><p>14</p></td>
 <td><p>ホンダ鈴鹿</p></td>
+<td><p>JR東海</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -151,6 +169,7 @@
 <td><p>8</p></td>
 <td><p>東邦ガス</p></td>
 <td><p>トヨタ自動車</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>19</p></td>
@@ -158,6 +177,7 @@
 <td><p>8</p></td>
 <td><p>トヨタ自動車</p></td>
 <td><p>三菱重工名古屋</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>20</p></td>
@@ -165,6 +185,7 @@
 <td><p>8</p></td>
 <td><p>東邦ガス</p></td>
 <td><p><a href="../Page/一光硬式野球部.md" title="wikilink">一光</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>21</p></td>
@@ -172,6 +193,7 @@
 <td><p>8</p></td>
 <td><p><a href="../Page/東芝硬式野球部.md" title="wikilink">東芝</a></p></td>
 <td><p><a href="../Page/JFE東日本硬式野球部.md" title="wikilink">JFE東日本</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>22</p></td>
@@ -179,6 +201,7 @@
 <td><p>8</p></td>
 <td><p><a href="../Page/SUBARU硬式野球部.md" title="wikilink">富士重工業</a></p></td>
 <td><p><a href="../Page/JR東日本硬式野球部.md" title="wikilink">JR東日本</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>23</p></td>
@@ -186,6 +209,7 @@
 <td><p>8</p></td>
 <td><p>JR東日本</p></td>
 <td><p><a href="../Page/王子硬式野球部.md" title="wikilink">王子製紙</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>24</p></td>
@@ -194,6 +218,7 @@
 <td><p>王子製紙<br />
 <a href="../Page/JX-ENEOS野球部.md" title="wikilink">新日本石油ENEOS</a>[1]</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>25</p></td>
@@ -201,6 +226,7 @@
 <td><p>8</p></td>
 <td><p>ヤマハ</p></td>
 <td><p>三菱重工名古屋</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>26</p></td>
@@ -208,6 +234,7 @@
 <td><p>8</p></td>
 <td><p>西濃運輸</p></td>
 <td><p><a href="../Page/日本製鉄鹿島硬式野球部.md" title="wikilink">住友金属鹿島</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>27</p></td>
@@ -215,6 +242,7 @@
 <td><p>8</p></td>
 <td><p>トヨタ自動車</p></td>
 <td><p>硬式野球クラブ 東海REX</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>28</p></td>
@@ -222,6 +250,7 @@
 <td><p>8</p></td>
 <td><p>西濃運輸</p></td>
 <td><p><a href="../Page/王子硬式野球部.md" title="wikilink">王子</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>29</p></td>
@@ -229,6 +258,7 @@
 <td><p>8</p></td>
 <td><p><a href="../Page/東海理化硬式野球部.md" title="wikilink">東海理化</a></p></td>
 <td><p><a href="../Page/伏木海陸運送硬式野球部.md" title="wikilink">伏木海陸運送</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>30</p></td>
@@ -236,6 +266,7 @@
 <td><p>8</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジェイプロジェクト硬式野球部" title="wikilink">ジェイプロジェクト</a></p></td>
 <td><p>伏木海陸運送</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>31</p></td>
@@ -243,6 +274,7 @@
 <td><p>8</p></td>
 <td><p>西濃運輸</p></td>
 <td><p>東海理化</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>32</p></td>
@@ -250,6 +282,7 @@
 <td><p>8</p></td>
 <td><p>西濃運輸</p></td>
 <td><p>新日鐵住金東海REX</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>33</p></td>
@@ -257,6 +290,7 @@
 <td><p>8</p></td>
 <td><p>西濃運輸</p></td>
 <td><p><a href="../Page/三菱自動車岡崎硬式野球部.md" title="wikilink">三菱自動車岡崎</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>34</p></td>
@@ -264,6 +298,16 @@
 <td><p>8</p></td>
 <td><p><a href="../Page/三菱重工名古屋硬式野球部.md" title="wikilink">三菱重工名古屋</a></p></td>
 <td><p>三菱自動車岡崎</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>35</p></td>
+<td><p>2020</p></td>
+<td><p>8</p></td>
+<td><p>大会中止</p></td>
+<td><p>出場予定チームが<a href="../Page/新型コロナウイルス.md" title="wikilink">新型コロナウイルス</a>感染拡大により出場を辞退ことと、<br />
+岐阜県において第二波非常事態宣言が発令されたため[2]。</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -277,3 +321,4 @@
 [Category:日本の社会人野球大会](https://ja.wikipedia.org/wiki/Category:日本の社会人野球大会 "wikilink") [Category:東海地方の社会人野球](https://ja.wikipedia.org/wiki/Category:東海地方の社会人野球 "wikilink") [Category:岐阜県のスポーツ](https://ja.wikipedia.org/wiki/Category:岐阜県のスポーツ "wikilink") [Category:1986年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1986年開始のスポーツイベント "wikilink")
 
 1.  最終日が雨天中止となり、両チーム優勝の扱いとなった。
+2.

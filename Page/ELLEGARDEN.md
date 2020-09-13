@@ -372,7 +372,7 @@ SRCL-5719</p></td>
 </tr>
 <tr class="even">
 <td><p>2004年09月16日</p></td>
-<td><p><strong><a href="../Page/SYNCHRONIZED_ROCKERS.md" title="wikilink">シンクロナイズド・ロッカーズ</a></strong></p></td>
+<td><p><strong><a href="../Page/SYNCHRONIZED_ROCKERS.md" title="wikilink">SYNCHRONIZED ROCKERS</a></strong></p></td>
 <td><p>KICS-1103</p></td>
 <td><p>「Funny Bunny」（<a href="https://ja.wikipedia.org/wiki/the_pillows" title="wikilink">the pillowsの同名曲のカバー</a>）</p></td>
 <td></td>
@@ -695,8 +695,8 @@ SRCL-5719</p></td>
 
 ## 外部リンク
 
-  - [ELLEGARDEN 公式モバイルサイト](http://www.ellegarden.jp/)
-  - [細美武士 公式サイト](http://www.takeshihosomi.com/index.html)
+  - [ELLEGARDEN 公式モバイルサイト](https://ellegarden.jp/)
+  - [細美武士 公式サイト](https://www.takeshihosomi.com/)
   - [生形真一 公式サイト](https://www.ncis.jp/)
   - [高田雄一 公式ブログ](https://lineblog.me/takadametal/)
   - [高橋宏貴 公式ブログ](https://lineblog.me/takahashihirotaka/)

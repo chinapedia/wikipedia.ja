@@ -36,7 +36,7 @@
   - [政次夏希](../Page/政次夏希.md "wikilink")（中京テレビ契約 → フリー）
   - [松本亜梨](../Page/松本亜梨.md "wikilink")（中京テレビ契約 → フリー）
   - [若杉直美](../Page/若杉直美.md "wikilink")（名古屋テレビ契約 → フリー）
-  - [下岡陽子](https://ja.wikipedia.org/wiki/下岡陽子 "wikilink")（[富山テレビ契約](../Page/富山テレビ放送.md "wikilink") → 東海ラジオ契約→ フリー\[2\]→岐阜放送契約→フリー）
+  - [下岡陽子](https://ja.wikipedia.org/wiki/下岡陽子 "wikilink")（[富山テレビ契約](../Page/富山テレビ放送.md "wikilink") → 東海ラジオ契約→ フリー\[2\]→岐阜放送契約→フリー→中京テレビ契約）
 
 ## 過去の所属タレント・アナウンサー
 

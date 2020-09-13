@@ -1,7 +1,7 @@
 > この記事は[STNet](https://ja.wikipedia.org/wiki/STNet)から翻訳されています。
 
 
-**株式会社STNet**（エスティネット、*STNet Inc.*）とは、[香川県](../Page/香川県.md "wikilink")[高松市](https://ja.wikipedia.org/wiki/高松市 "wikilink")に本社を置く、[電気通信事業者](../Page/電気通信事業者.md "wikilink")の一つで、[システムインテグレーター](../Page/システムインテグレーター.md "wikilink")（[ユーザー系](../Page/ユーザー系.md "wikilink")）である。[四国電力](https://ja.wikipedia.org/wiki/四国電力 "wikilink")の[連結子会社](../Page/連結子会社.md "wikilink")で、[四国地方](https://ja.wikipedia.org/wiki/四国地方 "wikilink")を拠点としている。
+**株式会社STNet**（エスティネット、*STNet, Incorporated*）は、[香川県](../Page/香川県.md "wikilink")[高松市](https://ja.wikipedia.org/wiki/高松市 "wikilink")に本社を置く、[電気通信事業者](../Page/電気通信事業者.md "wikilink")の一つで、[システムインテグレーター](../Page/システムインテグレーター.md "wikilink")（[ユーザー系](../Page/ユーザー系.md "wikilink")）である。[四国電力](https://ja.wikipedia.org/wiki/四国電力 "wikilink")の[完全子会社で](../Page/子会社.md "wikilink")、[四国地方](https://ja.wikipedia.org/wiki/四国地方 "wikilink")を拠点としている。
 
 ## 概要
 

@@ -186,10 +186,10 @@
 
 <div style="float: left; font-size: 85%; vertical-align: top; margin-right: 1em;">
 
-| [エルサルバドル](https://ja.wikipedia.org/wiki/エルサルバドル "wikilink") | 3 - 2 | [トリニダード・トバゴ](https://ja.wikipedia.org/wiki/トリニダード・トバゴ "wikilink") |
-| ----------------------------------------------------------- | ----- | ----------------------------------------------------------------- |
-| [アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")    | 3 - 2 | [トリニダード・トバゴ](https://ja.wikipedia.org/wiki/トリニダード・トバゴ "wikilink") |
-| [アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")    | 2 - 0 | [エルサルバドル](https://ja.wikipedia.org/wiki/エルサルバドル "wikilink")       |
+| [エルサルバドル](https://ja.wikipedia.org/wiki/エルサルバドル "wikilink") | 3 - 2 | [トリニダード・トバゴ](../Page/トリニダード・トバゴ.md "wikilink")              |
+| ----------------------------------------------------------- | ----- | ----------------------------------------------------------- |
+| [アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")    | 3 - 2 | [トリニダード・トバゴ](../Page/トリニダード・トバゴ.md "wikilink")              |
+| [アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")    | 2 - 0 | [エルサルバドル](https://ja.wikipedia.org/wiki/エルサルバドル "wikilink") |
 
 </div>
 

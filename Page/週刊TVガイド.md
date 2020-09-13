@@ -30,7 +30,7 @@
       - 中部版（[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")、[岐阜県](../Page/岐阜県.md "wikilink")、[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")）
       - 関西版（[大阪府](../Page/大阪府.md "wikilink")、[滋賀県](../Page/滋賀県.md "wikilink")、[京都府](../Page/京都府.md "wikilink")、[兵庫県](../Page/兵庫県.md "wikilink")、[奈良県](../Page/奈良県.md "wikilink")、[和歌山県](../Page/和歌山県.md "wikilink")、[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")）
       - 岡山・香川・愛媛・高知版（[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")、[香川県](../Page/香川県.md "wikilink")、[愛媛県](../Page/愛媛県.md "wikilink")、[高知県](../Page/高知県.md "wikilink")）
-          - 旧：岡山・香川版と旧：愛媛・高知版を統合([サンテレビ](https://ja.wikipedia.org/wiki/サンテレビ "wikilink")と[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")は関西版に一本化)。
+          - 旧：岡山・香川版と旧：愛媛・高知版を統合([サンテレビ](https://ja.wikipedia.org/wiki/サンテレビ "wikilink")と[四国放送](../Page/四国放送.md "wikilink")は関西版に一本化)。
       - 広島・島根・鳥取・山口東版\[2\]（[広島県](../Page/広島県.md "wikilink")、[島根県](../Page/島根県.md "wikilink")、[鳥取県](../Page/鳥取県.md "wikilink")、[山口県](../Page/山口県.md "wikilink")）
       - 福岡・佐賀・山口西版\[3\]（[福岡県](../Page/福岡県.md "wikilink")、[佐賀県](../Page/佐賀県.md "wikilink")、[山口県](../Page/山口県.md "wikilink")）
       - 長崎・熊本版（[長崎県](../Page/長崎県.md "wikilink")、[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")）
@@ -61,7 +61,7 @@
       - 岡山・香川版（[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")、[香川県](../Page/香川県.md "wikilink")、[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")、[サンテレビ](https://ja.wikipedia.org/wiki/サンテレビ "wikilink")）
           - 旧：岡山・四国版（岡山県、四国全域）
           - 初期は岡山・香川・徳島版を名乗っていた時期があった。
-          - 徳島県のテレビ局（[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")）と[サンテレビ](https://ja.wikipedia.org/wiki/サンテレビ "wikilink")は関西版と岡山・香川版の両方に掲載されていた。
+          - 徳島県のテレビ局（[四国放送](../Page/四国放送.md "wikilink")）と[サンテレビ](https://ja.wikipedia.org/wiki/サンテレビ "wikilink")は関西版と岡山・香川版の両方に掲載されていた。
       - 愛媛・高知版（[愛媛県](../Page/愛媛県.md "wikilink")、[高知県](../Page/高知県.md "wikilink")）
           - 旧：岡山・四国版（岡山県、四国全域）
       - 福岡・佐賀・山口西版\[5\]（[福岡県](../Page/福岡県.md "wikilink")、[佐賀県](../Page/佐賀県.md "wikilink")、[山口県](../Page/山口県.md "wikilink")）
@@ -80,7 +80,7 @@
 
   - 創刊号の表紙を飾ったのは、[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")を経て、日本初の[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")として活躍していた[高橋圭三](../Page/高橋圭三.md "wikilink")であった\[6\]。
   - 架空のキャラクターが表紙を飾ったことがある。架空のキャラクターの表紙はアニメキャラクターとしては[1963年](../Page/1963年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")号の[アトムが](../Page/鉄腕アトム.md "wikilink")、人形劇（着ぐるみ劇）キャラクターとしては[1965年](../Page/1965年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink")号の[ブーフーウー](../Page/ブーフーウー.md "wikilink")が、特撮ヒーローのキャラクターとしては[1967年](../Page/1967年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink")号の[ウルトラマン](../Page/ウルトラマン.md "wikilink")と[マグマ大使がそれぞれ第一号である](https://ja.wikipedia.org/wiki/マグマ大使_\(テレビドラマ\) "wikilink")。また[1977年](../Page/1977年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")号では[蒸気機関車](../Page/蒸気機関車.md "wikilink")が、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")号では[恐竜](https://ja.wikipedia.org/wiki/恐竜 "wikilink")（のイラスト）が表紙を飾ったことがある。
-  - [2011年](../Page/2011年.md "wikilink")·創刊49周年時点でのTVガイド表紙登場回数ランキングは1位 [SMAP](../Page/SMAP.md "wikilink")（46回）、2位 [KinKi Kids](../Page/KinKi_Kids.md "wikilink")（44回）、3位 [木村拓哉](../Page/木村拓哉.md "wikilink")（40回）、4位 [香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")（39回）、5位 [嵐](../Page/嵐_\(グループ\).md "wikilink")（31回）、6位 [草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")（30回）、7位 [山口百恵](../Page/山口百恵.md "wikilink")（29回）、8位 [中居正広](../Page/中居正広.md "wikilink")（28回）、9位 [長瀬智也](../Page/長瀬智也.md "wikilink")（27回）、10位 [KAT-TUN](../Page/KAT-TUN.md "wikilink")（25回）、11位 [堂本剛](../Page/堂本剛.md "wikilink")（23回）、11位 [関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")（23回）、15位 [滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")（20回）、16位 [堂本光一](../Page/堂本光一.md "wikilink")（18回）、17位 [近藤真彦](../Page/近藤真彦.md "wikilink")（17回）、20位 [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")（16回）\[7\]。
+  - [2011年](../Page/2011年.md "wikilink")·創刊49周年時点でのTVガイド表紙登場回数ランキングは1位 [SMAP](../Page/SMAP.md "wikilink")（46回）、2位 [KinKi Kids](../Page/KinKi_Kids.md "wikilink")（44回）、3位 [木村拓哉](../Page/木村拓哉.md "wikilink")（40回）、4位 [香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")（39回）、5位 [嵐](../Page/嵐_\(グループ\).md "wikilink")（31回）、6位 [草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")（30回）、7位 [山口百恵](../Page/山口百恵.md "wikilink")（29回）、8位 [中居正広](../Page/中居正広.md "wikilink")（28回）、9位 [長瀬智也](../Page/長瀬智也.md "wikilink")（27回）、10位 [KAT-TUN](../Page/KAT-TUN.md "wikilink")（25回）、11位 [堂本剛](../Page/堂本剛.md "wikilink")（23回）、11位 [関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")（23回）、15位 [滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")（20回）、16位 [堂本光一](../Page/堂本光一.md "wikilink")（18回）、17位 [近藤真彦](../Page/近藤真彦.md "wikilink")（17回）、20位 [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")（16回）\[7\]。
 
 ### 節目の号に表紙を飾った人物
 

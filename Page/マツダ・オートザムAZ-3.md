@@ -39,7 +39,7 @@
 
 ## 外部リンク
 
-[Category:マツダの車種](https://ja.wikipedia.org/wiki/Category:マツダの車種 "wikilink") [Category:クーペ](https://ja.wikipedia.org/wiki/Category:クーペ "wikilink") [Category:ハッチバック](https://ja.wikipedia.org/wiki/Category:ハッチバック "wikilink")
+[Category:マツダの車種](https://ja.wikipedia.org/wiki/Category:マツダの車種 "wikilink") [Category:クーペ](https://ja.wikipedia.org/wiki/Category:クーペ "wikilink") [Category:ハッチバック](https://ja.wikipedia.org/wiki/Category:ハッチバック "wikilink") [Category:スペシャルティカー](https://ja.wikipedia.org/wiki/Category:スペシャルティカー "wikilink")
 
 1.
 2.  しかしながらAZ-3は3ナンバー車（普通車）ではなく5ナンバー車（小型車）。

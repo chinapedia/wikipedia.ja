@@ -1,13 +1,23 @@
 > この記事は[SKワイバーンズ](https://ja.wikipedia.org/wiki/SKワイバーンズ)から翻訳されています。
 
 
-**SKワイバーンズ**（エスケーワイバーンズ、[ハングル](https://ja.wikipedia.org/wiki/ハングル "wikilink"):에스케이 와이번스、[英語](../Page/英語.md "wikilink"): SK Wyverns）は、[KBOリーグ](https://ja.wikipedia.org/wiki/KBOリーグ "wikilink")に所属する[大韓民国](../Page/大韓民国.md "wikilink")の[プロ野球](../Page/プロ野球.md "wikilink")チームである。[ホームタウン](../Page/ホームタウン.md "wikilink")は[仁川広域市](../Page/仁川広域市.md "wikilink")。同市内の[仁川SK Happy Dreamパークを](../Page/文鶴野球場.md "wikilink")[本拠地](https://ja.wikipedia.org/wiki/本拠地 "wikilink")とする。韓国有数の[企業グループ](https://ja.wikipedia.org/wiki/企業グループ "wikilink")・[SKグループ](../Page/SKグループ.md "wikilink")傘下であり、[2000年](../Page/2000年.md "wikilink")、[アジア通貨危機](../Page/アジア通貨危機.md "wikilink")で経営危機に陥った繊維メーカーのサンバンウルが傘下のプロ野球球団である[サンバンウル・レイダース](../Page/サンバンウル・レイダース.md "wikilink")を解散したあと、[SKグループ](../Page/SKグループ.md "wikilink")がその選手たちを受け入れ「新球団」として誕生した。チーム名の「ワイバーンズ」は、空想上の竜の怪物・[ワイバーン](../Page/ワイバーン.md "wikilink")（wyvern、飛龍）から。
+**SKワイバーンズ**（エスケー・ワイバーンズ、[韓国語](https://ja.wikipedia.org/wiki/韓国語 "wikilink"):에스케이 와이번스、[英語](../Page/英語.md "wikilink"): SK Wyverns）は、[KBOリーグ](https://ja.wikipedia.org/wiki/KBOリーグ "wikilink")に所属する[大韓民国](../Page/大韓民国.md "wikilink")の[プロ野球](../Page/プロ野球.md "wikilink")チームである。[ホームタウン](../Page/ホームタウン.md "wikilink")は[仁川広域市](../Page/仁川広域市.md "wikilink")。同市内の[仁川SK Happy Dreamパークを](../Page/文鶴野球場.md "wikilink")[本拠地](https://ja.wikipedia.org/wiki/本拠地 "wikilink")とする。
 
-## チーム略歴
+## 概要
+
+[仁川国際空港](https://ja.wikipedia.org/wiki/仁川国際空港 "wikilink")でも知られる[ソウル特別市](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")の西側に位置する[仁川広域市](../Page/仁川広域市.md "wikilink")に本拠を置く。
+
+韓国有数の[企業グループ](https://ja.wikipedia.org/wiki/企業グループ "wikilink")・[SKグループ](../Page/SKグループ.md "wikilink")傘下であり、[2000年](../Page/2000年.md "wikilink")、[アジア通貨危機](../Page/アジア通貨危機.md "wikilink")で経営危機に陥った繊維メーカーのサンバンウルが傘下のプロ野球球団である[サンバンウル・レイダース](../Page/サンバンウル・レイダース.md "wikilink")を解散したあと、[SKグループ](../Page/SKグループ.md "wikilink")がその選手たちを受け入れ「新球団」として誕生した。チーム名の「ワイバーンズ」は、空想上の竜の怪物・[ワイバーン](../Page/ワイバーン.md "wikilink")（wyvern、飛龍）から。
+
+スタジアムは、球団創設から2001年までの2年間、[中区の](../Page/中区_\(仁川広域市\).md "wikilink")[仁川公設運動場野球場](../Page/仁川公設運動場野球場.md "wikilink")（桃園（ドウォン）球場）を使用した後、2002年より同市[弥鄒忽区](https://ja.wikipedia.org/wiki/弥鄒忽区 "wikilink")に新規開場した[文鶴（ムナク）野球場](../Page/文鶴野球場.md "wikilink")（現愛称：仁川SK Happy Dreamパーク）に移転。2013年11月以降、仁川広域市に代わりSKワイバーンズ自身が民間委託運営者として球場運営をしている。現在の球団事務所も同球場内にある。
+
+練習施設と二軍球場は、同市[江華郡](../Page/江華郡.md "wikilink")吉祥面にあるSKドリームパークである。
+
+## 歴史
 
 **2000年**に韓国野球委員会とSKグループがサンバンウル・レイダースに代わる新球団の創設に合意。
 本拠地はプロチームとしてのビジネスのできる人口基盤を求めて、サンバンウルのホームである[全羅北道](../Page/全羅北道.md "wikilink")[全州市](https://ja.wikipedia.org/wiki/全州市 "wikilink")（人口およそ60万）ではなく、およそ100万以上の人口を抱えて、周辺都市まであわせると営業可能な人口基盤がおよそ200万に及ぶと考えられると同時に親会社と繋がりのある首都圏の[京畿道](../Page/京畿道.md "wikilink")[水原市](https://ja.wikipedia.org/wiki/水原市 "wikilink")を希望。しかし、[現代ユニコーンズ](../Page/現代ユニコーンズ.md "wikilink")が以前から希望していたソウルへの移転を前提として暫定的に水原市に本拠地を移動させることになり、空席となった仁川を本拠地として受け入れることになった。
-なお、このとき現代ユニコーンズはSK側が仁川を本拠地として受け入れるか否かとは関係なく、ソウル移転計画を強行推進した。その後、仁川を捨てた現代ユニコーンズは、暫定本拠地・水原での人気を得られず、現代グループの分裂などによる経営危機に陥り3度の売却交渉に失敗。その後、2008年から投資会社がスポンサーを募集し経営する新球団、[ウリ・ヒーローズが発足して解散となった](https://ja.wikipedia.org/wiki/ネクセン・ヒーローズ "wikilink")。
+なお、このとき現代ユニコーンズはSK側が仁川を本拠地として受け入れるか否かとは関係なく、ソウル移転計画を強行推進した。その後、仁川を捨てた現代ユニコーンズは、暫定本拠地・水原での人気を得られず、現代グループの分裂などによる経営危機に陥り3度の売却交渉に失敗。その後、2008年から投資会社がスポンサーを募集し経営する新球団、[ウリ・ヒーローズが発足して解散となった](https://ja.wikipedia.org/wiki/ネクセン・ヒーローズ "wikilink")。初年度の2000年は最下位だった。
 
 **2002年**、[サッカーワールドカップ誘致に伴う仁川広域市の新総合運動場建設計画によって](../Page/2002_FIFAワールドカップ.md "wikilink")、[メインスタジアムの隣に受容人員](../Page/仁川文鶴競技場.md "wikilink")3万人規模の[文鶴（ムナク）野球場が完成](../Page/文鶴野球場.md "wikilink")。これに伴って仁川都心部の[桃園（ドウォン）球場から同球場に本拠地を移転](../Page/仁川公設運動場野球場.md "wikilink")。
 
@@ -38,9 +48,11 @@
 
 **2017年**はレギュラーシーズン5位で、2年ぶりにワイルドカード決定戦に進出したが[NCダイノス](https://ja.wikipedia.org/wiki/NCダイノス "wikilink")に敗れた。
 
-**2018年**はレギュラーシーズン2位で、ネクセンとのプレーオフ、斗山との韓国シリーズで勝利し8年ぶり4度目の優勝となった。ヒルマン監督が退任し、廉京燁が監督に就任した。
+**2018年**はレギュラーシーズン2位で、ネクセンとのプレーオフ、斗山との韓国シリーズで勝利し8年ぶり4度目の優勝となった。ヒルマン監督が退任し、[廉京燁](../Page/廉京燁.md "wikilink")が監督に就任した。
 
 **2019年**はレギュラーシーズンを終え斗山と同じ勝率で並ぶが、直接対決で負け越していたため2位扱いとなり、ポストシーズンはプレーオフから出場すると[キウム・ヒーローズ](../Page/キウム・ヒーローズ.md "wikilink")に敗れた。
+
+**2020年**は[COVID-19の影響でシーズン開始が大幅に遅れる](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink")。6月25日の試合中、廉京燁監督が突然失神し、緊急搬送された。廉京燁の治療の間、[朴勍完](https://ja.wikipedia.org/wiki/朴勍完 "wikilink")が監督代行を務め、廉京燁監督は9月1日より復帰した。
 
 ## 歴代監督
 
@@ -50,7 +62,8 @@
   - [李萬洙](../Page/李萬洙.md "wikilink")（イ・マンス、2011途中から終了まで : 監督代行　2012 - 2014：監督）
   - [金用煕](https://ja.wikipedia.org/wiki/金用煕 "wikilink")（キム・ヨンヒ、2015 - 2016）
   - [トレイ・ヒルマン](../Page/トレイ・ヒルマン.md "wikilink")（2017 - 2018）
-  - [廉京燁](https://ja.wikipedia.org/wiki/廉京燁 "wikilink")（ヨム・ギョンヨプ、2019 - ）
+  - [廉京燁](../Page/廉京燁.md "wikilink")（ヨム・ギョンヨプ、2019 - ）
+      - [朴勍完](https://ja.wikipedia.org/wiki/朴勍完 "wikilink")（パク・キョンワン、2020途中から監督代行）
 
 ## 主な在籍選手
 
@@ -60,7 +73,8 @@
 
   - 10 [金勢玹](https://ja.wikipedia.org/wiki/金勢ヒョン "wikilink")（キム・セヒョン）
   - 13 [河載勲](https://ja.wikipedia.org/wiki/河載勲 "wikilink")（ハ・ジェフン）
-  - 15 [ニック・キンガム](https://ja.wikipedia.org/wiki/ニック・キンガム "wikilink")
+  - 17 [李太陽](https://ja.wikipedia.org/wiki/李太陽 "wikilink")（イ・テヤン）
+  - 23 [李建郁](https://ja.wikipedia.org/wiki/李建郁 "wikilink")（イ・ゴンウク）
   - 35 [リカルド・ピント](https://ja.wikipedia.org/wiki/リカルド・ピント "wikilink")
   - 47 [朴熙洙](https://ja.wikipedia.org/wiki/朴熙洙 "wikilink")（パク・ヒス）
   - 50 [朴鐘勲](https://ja.wikipedia.org/wiki/朴鐘勲 "wikilink")（パク・チョンフン）
@@ -78,8 +92,8 @@
 
   - 4 [崔恒](https://ja.wikipedia.org/wiki/崔恒 "wikilink")（チェ・ハン）
   - 14 [崔廷](https://ja.wikipedia.org/wiki/崔廷 "wikilink")（チェ・ジョン）
+  - 15 [タイラー・ホワイト](https://ja.wikipedia.org/wiki/タイラー・ホワイト "wikilink")
   - 27 [ジェイミー・ロマック](https://ja.wikipedia.org/wiki/ジェイミー・ロマック "wikilink")
-  - 38 [呉重錫](https://ja.wikipedia.org/wiki/呉重錫 "wikilink")（オ・ジュンヒョク）
 
 </div>
 
@@ -87,8 +101,9 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - 0 [金江珉](https://ja.wikipedia.org/wiki/金江ミン "wikilink")（キム・ガンミン）
+  - 0 [金江珉](https://ja.wikipedia.org/wiki/金江珉 "wikilink")（キム・ガンミン）
   - 37 [鄭義潤](../Page/鄭義潤.md "wikilink")（チョン・ウィユン）
+  - 38 [呉俊赫](https://ja.wikipedia.org/wiki/呉俊赫 "wikilink")（オ・ジュンヒョク）
   - 53 [高宗郁](https://ja.wikipedia.org/wiki/高宗郁 "wikilink")（コ・ジョンウク）
 
 </div>
@@ -109,7 +124,7 @@
   - [曺雄天](https://ja.wikipedia.org/wiki/曺雄天 "wikilink")（チョ・ウンチョン、2001-2009）
   - [李承浩](https://ja.wikipedia.org/wiki/李承浩 "wikilink")（イ・スンホ、2000-2011）
   - [金圓衡](../Page/金圓衡.md "wikilink")（キム・ウォンヒョン、2000-2011）
-  - [鄭大炫](../Page/鄭大ヒョン.md "wikilink")（チョン・デヒョン、2000-2011）
+  - [鄭大炫](../Page/鄭大炫.md "wikilink")（チョン・デヒョン、2000-2011）
   - [李昊俊](https://ja.wikipedia.org/wiki/李昊俊 "wikilink")（イ・ホジュン、2000-2012）
   - [朴栽弘](https://ja.wikipedia.org/wiki/朴栽弘 "wikilink")（パク・チェホン、2005-2012）
   - [朴勍完](https://ja.wikipedia.org/wiki/朴勍完 "wikilink")（パク・キョンワン、2003-2013）
@@ -122,7 +137,7 @@
   - [高孝準](https://ja.wikipedia.org/wiki/高孝準 "wikilink")（コ・ヒョジュン、2003-2016） - 現[ロッテ・ジャイアンツ](../Page/ロッテ・ジャイアンツ.md "wikilink")
   - [李承浩](https://ja.wikipedia.org/wiki/李承浩 "wikilink")（イ・スンホ、2000-2011, 2016）
   - [朴正権](https://ja.wikipedia.org/wiki/朴正権 "wikilink")（パク・チョングォン、2004-2019）
-  - [金廣鉉](../Page/金廣鉉.md "wikilink")（キム・グァンヒョン、2007-2019）
+  - [金廣鉉](../Page/金廣鉉.md "wikilink")（キム・グァンヒョン、2007-2019）- 現[セントルイス・カージナルス](../Page/セントルイス・カージナルス.md "wikilink")
 
 ### 外国人選手
 
@@ -158,6 +173,7 @@
   - [メリル・ケリー](https://ja.wikipedia.org/wiki/メリル・ケリー "wikilink")（2015-2018） - 現[アリゾナ・ダイヤモンドバックス](../Page/アリゾナ・ダイヤモンドバックス.md "wikilink")
   - [ヘンリー・ソーサ](https://ja.wikipedia.org/wiki/ヘンリー・ソーサ "wikilink")（2019）
   - [エンジェル・サンチェス](../Page/エンジェル・サンチェス.md "wikilink") (2018-2019) - 現[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")
+  - [ニック・キンガム](https://ja.wikipedia.org/wiki/ニック・キンガム "wikilink")（2020）
 
 ### 在日韓国人選手
 

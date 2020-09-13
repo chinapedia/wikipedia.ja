@@ -111,7 +111,7 @@
   - 尾藤イサオ
   - [九重佑三子](../Page/九重佑三子.md "wikilink")
   - 布施明
-  - [尾崎紀世彦](https://ja.wikipedia.org/wiki/尾崎紀世彦 "wikilink")
+  - [尾崎紀世彦](../Page/尾崎紀世彦.md "wikilink")
   - [鈴木ヤスシ](https://ja.wikipedia.org/wiki/鈴木ヤスシ "wikilink")
   - 伊藤愛子
   - [ジェリー藤尾](../Page/ジェリー藤尾.md "wikilink")

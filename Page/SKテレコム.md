@@ -19,6 +19,8 @@
 
 [2019年](../Page/2019年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")、当初の予定（5日）を2日前倒しして、KT、LGユープラスと共に商用[5G](https://ja.wikipedia.org/wiki/5G "wikilink")移動通信サービスを開始\[1\]。
 
+[2020年](../Page/2020年.md "wikilink")6月12日、[科学技術情報通信部](https://ja.wikipedia.org/wiki/科学技術情報通信部 "wikilink")はSKテレコムから申請されていた2Gサービスの廃止について承認した。これにより、011、017番号は2021年6月をもって完全に廃止され、010に統一されることになる。
+
 ## 日本との関係
 
 [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の事業者との繋がりは、吸収合併した新世紀通信と国際[ローミング](../Page/ローミング.md "wikilink")を行っていた[KDDI](../Page/KDDI.md "wikilink")（[auブランド](../Page/Au_\(携帯電話\).md "wikilink")）との関係が一番強いとされる（国際ローミングも引き続き行われている）。現在は[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")、[ワイモバイル](../Page/ワイモバイル.md "wikilink")ともW-CDMAサービスで国際ローミングを行っている。なおNTTドコモとは、日本のPDC方式と韓国のCDMA方式の両サービスを利用できる端末を開発したりしてきたが\[2\]、NTTドコモが[2005年](../Page/2005年.md "wikilink")末にKTFに出資することになったため、繋がりは薄くなったといえる。

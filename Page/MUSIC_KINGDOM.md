@@ -68,6 +68,10 @@
 
 注：SMAPの「世界に一つだけの花」が振るわないのは、この番組が2004年4月から放送開始された番組だからである。3月まで同時刻に放送された番組「[THE RANKING](https://ja.wikipedia.org/wiki/THE_RANKING "wikilink")」では、[2003年](../Page/2003年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")から番組終了の[3月31日](../Page/3月31日.md "wikilink")まで13連覇を記録したため、合計で考えると24回1位になったことになる。
 
+## 姉妹番組
+
+[MUSIC KINGDOM FRIDAY](https://ja.wikipedia.org/wiki/MUSIC_KINGDOM_FRIDAY "wikilink") - 本番組の金曜日版。
+
 ## 外部リンク
 
   - [MUSIC KINGDOM公式サイト](http://www.fmyokohama.co.jp/onair/program/king/)

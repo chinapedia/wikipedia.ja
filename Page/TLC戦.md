@@ -233,7 +233,7 @@
   -
     ○[ブラウン・ストローマン](https://ja.wikipedia.org/wiki/アダム・シェル "wikilink") vs [バロン・コービン](https://ja.wikipedia.org/wiki/トム・ペストック "wikilink")●
     3WAY [WWE・スマックダウン女子選手権試合](https://ja.wikipedia.org/wiki/WWE・スマックダウン女子王座 "wikilink")
-    ●[ベッキー・リンチ](https://ja.wikipedia.org/wiki/レベッカ・ノックス "wikilink")(c) vs [シャーロット・フレアー](https://ja.wikipedia.org/wiki/アシュリー・フレアー "wikilink") vs [アスカ](../Page/華名.md "wikilink")○
+    ●[ベッキー・リンチ](https://ja.wikipedia.org/wiki/レベッカ・ノックス "wikilink")(c) vs [シャーロット・フレアー](https://ja.wikipedia.org/wiki/アシュリー・フレアー "wikilink") vs [アスカ](../Page/ASUKA_\(プロレスラー\).md "wikilink")○
       -
         （ベッキーが王座防衛に失敗）
 

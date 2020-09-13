@@ -8,10 +8,10 @@
 ## 沿革
 
   - [1992年](../Page/1992年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink") - ビーイングと[BMGビクター](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")（当時、現：[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")）の共同出資によって、株式会社BMG ROOMS設立\[2\]。
-  - [1992年](../Page/1992年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink") - 第1回新譜としてB'zの11thシングル「[ZERO](../Page/ZERO_\(B'zの曲\).md "wikilink")」が[CD](https://ja.wikipedia.org/wiki/CD "wikilink")[シングル](../Page/シングル.md "wikilink")と[カセットシングルにて発売](https://ja.wikipedia.org/wiki/シングル#シングル・カセット "wikilink")。
+  - [1992年](../Page/1992年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink") - 第1回新譜としてB'zの11thシングル『[ZERO](../Page/ZERO_\(B'zの曲\).md "wikilink")』が[CD](https://ja.wikipedia.org/wiki/CD "wikilink")[シングル](../Page/シングル.md "wikilink")と[カセットシングルにて発売](https://ja.wikipedia.org/wiki/シングル#シングル・カセット "wikilink")。
   - [1993年](../Page/1993年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink") - BMG ROOMS所属アーティストの楽曲を管理する音楽出版会社として、株式会社ルームスミュージックを同社内に設立\[3\]。
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[5月31日](../Page/5月31日.md "wikilink") - B'zの新プライベートレーベルとしてVERMILLIONが同社内に設立。16thシングル「[ねがい](../Page/ねがい_\(B'zの曲\).md "wikilink")」より使用。
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[9月1日](../Page/9月1日.md "wikilink") - ビーイング100%出資に伴って、株式会社ルームスレコーズへ社名変更。その際、本社が渋谷から六本木に移転。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[5月31日](../Page/5月31日.md "wikilink") - B'zの新プライベートレーベルとしてVERMILLIONが同社内に設立。16thシングル『[ねがい](../Page/ねがい_\(B'zの曲\).md "wikilink")』より使用。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[9月1日](../Page/9月1日.md "wikilink") - ビーイング100%出資に伴い、株式会社ルームスレコーズへ社名変更。その際、本社が渋谷から六本木に移転。
   - [1996年](../Page/1996年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink") - 販売元がBMGビクターから、前年に設立されたビーイング自前のディストリビューション会社J-DISC（現：[J-DISC Being](../Page/J-DISC_Being.md "wikilink")）へ移管\[4\]。
   - [2002年](../Page/2002年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink") - 株式会社ルームスレコーズが株式会社バーミリオンレコードへ社名変更\[5\]。
   - [2003年](../Page/2003年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink") - 再度ビーイングが[GIZA](https://ja.wikipedia.org/wiki/GIZA "wikilink")以外の楽曲管理を一元して行う事により、ルームスミュージックが吸収される\[6\]。
@@ -55,8 +55,8 @@
 
 ## 過去に設けられたレーベル
 
-  - ZEZ - 1990年10月に[アリオラジャパン内に設立されたB](https://ja.wikipedia.org/wiki/BMG_JAPAN#BMGビクター "wikilink")'zのプライベートレーベル。1992年に同社設立に伴い移管。1994年発売の15thシングル「[MOTEL](https://ja.wikipedia.org/wiki/MOTEL "wikilink")」まで使用された。
-  - VERMILLION (バーミリオン) - "ZEZ"に替わり、1995年に新たに設立されたB'zのプライベートレーベル。2009年発売された[DVD](../Page/DVD.md "wikilink")『[B'z LIVE-GYM Pleasure 2008 -GLORY DAYS-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_Pleasure_2008_-GLORY_DAYS- "wikilink")』まで使用。同年発売された46thシングル「[イチブトゼンブ/DIVE](https://ja.wikipedia.org/wiki/イチブトゼンブ/DIVE "wikilink")」以降の作品では使われていない。
+  - ZEZ - 1990年10月に[アリオラジャパン内に設立されたB](https://ja.wikipedia.org/wiki/BMG_JAPAN#BMGビクター "wikilink")'zのプライベートレーベル。1992年に同社設立に伴い移管。1994年発売の15thシングル『[MOTEL](../Page/MOTEL_\(B'zの曲\).md "wikilink")』まで使用された。
+  - VERMILLION (バーミリオン) - "ZEZ"に替わり、1995年に新たに設立されたB'zのプライベートレーベル。2009年発売された[DVD](../Page/DVD.md "wikilink")『[B'z LIVE-GYM Pleasure 2008 -GLORY DAYS-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_Pleasure_2008_-GLORY_DAYS- "wikilink")』まで使用。同年発売された46thシングル『[イチブトゼンブ/DIVE](https://ja.wikipedia.org/wiki/イチブトゼンブ/DIVE "wikilink")』以降の作品では使われていない。
   - Rhisome (リゾーム) - 1989年にビーイングが[アリオラジャパン内に設立したレーベル](https://ja.wikipedia.org/wiki/BMGビクター "wikilink")。1992年に同社設立に伴い移管。フュージョン・ブルース系のアーティストが中心で、[近藤房之助](../Page/近藤房之助.md "wikilink")や[坪倉唯子](../Page/坪倉唯子.md "wikilink")、[DIMENSION](../Page/DIMENSION.md "wikilink")、[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")が所属。[B.B.クイーンズ](https://ja.wikipedia.org/wiki/B.B.クイーンズ "wikilink")の「[おどるポンポコリン](../Page/おどるポンポコリン.md "wikilink")」は本レーベルから発表され、原盤権の関係でアリオラジャパンから販売され続けている。2002年に終了。
   - D.O.G. HOUSE (ドッグハウス) - 1991年にビーイングが[アリオラジャパン内に設立したレーベル](https://ja.wikipedia.org/wiki/BMGビクター "wikilink")。1992年に同社設立に伴い移管。B.B.クイーンズや[Mi-Ke](../Page/Mi-Ke.md "wikilink")らが所属。1997年に[SO-FI](../Page/SO-FI.md "wikilink")のアルバム『[SO-First](https://ja.wikipedia.org/wiki/SO-First "wikilink")』以降は本レーベルからのリリースはない。
   - Rooms RECORDS (ルームスレコーズ) - 旧メインレーベル。[秋吉契里](../Page/秋吉契里.md "wikilink")と[LOUDNESS](../Page/LOUDNESS.md "wikilink")が所属。
@@ -121,4 +121,4 @@
 5.  B'zのプライベートレーベル化に伴い、[近藤房之助](../Page/近藤房之助.md "wikilink")や[DIMENSION](../Page/DIMENSION.md "wikilink")など所属アーティストは[ZAIN RECORDSへ移籍](../Page/ZAIN_RECORDS.md "wikilink")。かつて所属していた[B.B.クィーンズ](../Page/B.B.クィーンズ.md "wikilink")、[Mi-Ke](../Page/Mi-Ke.md "wikilink")、[織田哲郎](../Page/織田哲郎.md "wikilink")[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")、[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")らの原盤権は、[B-Gram RECORDSへ移管の上継承される事になった](../Page/B-Gram_RECORDS.md "wikilink")。
 6.  2007年のグループ会社再編に伴い、[ビー企画室](https://ja.wikipedia.org/wiki/ビー企画室 "wikilink")に移管されている。2014年以降の楽曲は、ビーイングパブリッシングにて管理。
 7.  [中島みゆき](../Page/中島みゆき.md "wikilink")や[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")の作品には、2006年以降[B-Gram RECORDS所属とクレジットされている](../Page/B-Gram_RECORDS.md "wikilink")。
-8.  1993年12月にシングル「あなたがわからない」を発売。既に生産中止になっているが、Beingの商品カタログには掲載されており廃盤になっていない。
+8.  1993年12月にシングル『あなたがわからない』を発売。既に生産中止になっているが、Beingの商品カタログには掲載されており廃盤になっていない。

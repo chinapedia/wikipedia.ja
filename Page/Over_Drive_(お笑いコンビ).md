@@ -1,7 +1,7 @@
 > この記事は[Over Drive \(お笑いコンビ\)](https://ja.wikipedia.org/wiki/Over_Drive_\(お笑いコンビ\))から翻訳されています。
 
 
-**Over Drive**（オーバードライブ）は、かつて[松竹芸能](../Page/松竹芸能.md "wikilink")に所属した[お笑い](https://ja.wikipedia.org/wiki/お笑い "wikilink")[コンビ](https://ja.wikipedia.org/wiki/コンビ "wikilink")｡[1996年](../Page/1996年.md "wikilink")結成。[2007年](../Page/2007年.md "wikilink")解散。
+**Over Drive**（オーバードライブ）は、かつて[松竹芸能](../Page/松竹芸能.md "wikilink")で活動していた[お笑い](https://ja.wikipedia.org/wiki/お笑い "wikilink")[コンビ](https://ja.wikipedia.org/wiki/コンビ "wikilink")。[1996年](../Page/1996年.md "wikilink")結成。[2007年](../Page/2007年.md "wikilink")解散。
 
 ## メンバー
 
@@ -11,7 +11,7 @@
 
   -
     [ボケ担当](https://ja.wikipedia.org/wiki/ボケ_\(漫才\) "wikilink")。[兵庫県](../Page/兵庫県.md "wikilink")出身。AB型。
-    元「テンショック」の片割れ。現在は[俳優](../Page/俳優.md "wikilink")業に専念。
+    元「**テンショック**」の片割れ。現在は[俳優](../Page/俳優.md "wikilink")業に専念。
 
 <!-- end list -->
 
@@ -21,8 +21,8 @@
 
   -
     [ツッコミ](https://ja.wikipedia.org/wiki/ツッコミ "wikilink")担当。[大阪府](../Page/大阪府.md "wikilink")[和泉市](../Page/和泉市.md "wikilink")出身。A型。
-    元「doop」の片割れ。
-    解散後はピン芸人「**Over Drive緒方**」として活動。[2009年](../Page/2009年.md "wikilink")[9月](../Page/9月.md "wikilink")に「**オキャディー**」と改名を経て、2011年に[和泉工業高校の後輩である元](../Page/大阪府立和泉総合高等学校.md "wikilink")[ダブルダッチの西井と](../Page/ダブルダッチ_\(お笑いコンビ\).md "wikilink")「いずみ」を結成したが、後に解散。
+    元「**doop**」の片割れ。
+    解散後はピン芸人「**Over Drive緒方**」として活動。[2009年](../Page/2009年.md "wikilink")[9月](../Page/9月.md "wikilink")に「**オキャディー**」と改名を経て、2011年に[和泉工業高校の後輩である元](../Page/大阪府立和泉総合高等学校.md "wikilink")[ダブルダッチの西井と](../Page/ダブルダッチ_\(お笑いコンビ\).md "wikilink")「**いずみ**」を結成したが、後に解散。
 
 ## 概要
 

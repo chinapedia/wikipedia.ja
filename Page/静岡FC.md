@@ -5,49 +5,57 @@
 
 ## 概要
 
-  - 2000年
+  - [2000年](../Page/2000年.md "wikilink")
 
-8月、[静岡市](../Page/静岡市.md "wikilink")にJリーグチームを作ることを目的として[ヴェルディ川崎元社長の森下源基が理事長となり](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink")、[三浦知良](../Page/三浦知良.md "wikilink")の育ての親といわれる納谷義郎（叔父）、宣雄（実父）の兄弟らが中心となって「[特定非営利活動法人](../Page/特定非営利活動法人.md "wikilink")静岡市にJリーグチームを作る会」が設立（11月に認証）\[2\]\[3\]。
+8月、[静岡市](../Page/静岡市.md "wikilink")にJリーグチームを作ることを目的として[ヴェルディ川崎元社長の森下源基が理事長となり](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink")、[三浦知良](../Page/三浦知良.md "wikilink")の育ての親といわれる納谷義郎（叔父）、宣雄（実父）の兄弟らが中心となって「**[特定非営利活動法人](../Page/特定非営利活動法人.md "wikilink")静岡市にJリーグチームを作る会**」が設立（11月に認証）\[2\]\[3\]。
 
   - [2001年](../Page/2001年.md "wikilink")
 
-2月21日に運営法人として「株式会社静岡フットボールクラブ」が設立\[4\]。同年3月に[静岡県社会人サッカーリーグ](https://ja.wikipedia.org/wiki/静岡県社会人サッカーリーグ "wikilink")1部の「静岡やまき屋SC」を母体として**静岡FC**が創設された\[5\]。静岡県リーグ1部で優勝し、[東海社会人サッカーリーグ](../Page/東海社会人サッカーリーグ.md "wikilink")へ昇格した。
+2月21日に運営法人として「**株式会社静岡フットボールクラブ**」が設立\[4\]。同年3月に[静岡県社会人サッカーリーグ](https://ja.wikipedia.org/wiki/静岡県社会人サッカーリーグ "wikilink")1部の「**静岡やまき屋SC**」を母体として**静岡FC**が創設された\[5\]。
 
-  - 2002年
+静岡県リーグ1部で優勝。[東海社会人サッカートーナメントBブロックでも優勝し](https://ja.wikipedia.org/wiki/東海社会人サッカートーナメント大会 "wikilink")、[東海社会人サッカーリーグ](../Page/東海社会人サッカーリーグ.md "wikilink")へ昇格した。翌年から東海リーグは2部制となっているが、2部リーグではなく1部リーグに昇格している（詳細不明）。
 
-東海リーグで優勝。[全国地域サッカーリーグ決勝大会は決勝リーグ戦で敗退](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")。
+  - [2002年](../Page/2002年.md "wikilink")
+
+東海リーグ1部で優勝。[全国地域サッカーリーグ決勝大会では](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")1次ラウンドを勝ち上がるも、決勝ラウンドで[佐川印刷SC](../Page/SP京都FC.md "wikilink")、[アイン食品に連敗し](../Page/アイン食品サッカー部.md "wikilink")3位で[JFL昇格を逃す](../Page/日本フットボールリーグ.md "wikilink")。
 
   - [2003年](../Page/2003年.md "wikilink")
 
-東海リーグで2年連続2回目の優勝。地域決勝大会は決勝リーグで敗退。[全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")で準優勝。
+東海リーグ1部で2年連続2回目の優勝。地域リーグ決勝大会では1次ラウンドを勝ち上がるも、決勝ラウンドで[群馬FCホリコシ](../Page/アルテ高崎.md "wikilink")、[ザスパ草津に連敗し](https://ja.wikipedia.org/wiki/ザスパクサツ群馬 "wikilink")2年連続3位。[全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")で準優勝。
 
   - [2004年](../Page/2004年.md "wikilink")
 
-東海リーグで3位。地域決勝大会はグループリーグで敗退。なお、[天皇杯に初出場した](../Page/第84回天皇杯全日本サッカー選手権大会.md "wikilink")。
+東海リーグ1部では3位だったが、2位の[中京大学FCが](https://ja.wikipedia.org/wiki/中京大学体育会サッカー部 "wikilink")[地域リーグ決勝大会への出場を辞退したため](https://ja.wikipedia.org/wiki/第28回全国地域リーグ決勝大会 "wikilink")、繰り上げ出場。同年9月に全所属選手が退団した[沖縄かりゆしFC](../Page/沖縄かりゆしFC.md "wikilink")から9選手を補強し1次ラウンドに臨むも、[三菱自動車水島FC](../Page/三菱自動車水島FC.md "wikilink")に敗れ1次ラウンド2位で敗退。
+
+[静岡県サッカー選手権大会](https://ja.wikipedia.org/wiki/静岡県サッカー選手権大会 "wikilink")で優勝し、[第84回天皇杯に初出場](../Page/第84回天皇杯全日本サッカー選手権大会.md "wikilink")。2回戦で[FCセントラル中国にPK戦の末敗れる](https://ja.wikipedia.org/wiki/デッツォーラ島根 "wikilink")。
 
   - [2005年](../Page/2005年.md "wikilink")
 
-東海リーグで2年ぶり3回目の優勝。地域決勝大会はグループリーグで敗退。
+東海リーグ1部を14戦無敗で2年ぶり3回目の優勝。[地域リーグ決勝大会は](https://ja.wikipedia.org/wiki/第29回全国地域リーグ決勝大会 "wikilink")[バンディオンセ神戸に敗れ](https://ja.wikipedia.org/wiki/Cento_Cuore_HARIMA "wikilink")1次ラウンド2位で敗退。
 
   - [2006年](../Page/2006年.md "wikilink")
 
-元[横浜フリューゲルス](../Page/横浜フリューゲルス.md "wikilink")の[高田昌明](../Page/高田昌明.md "wikilink")が選手兼任監督に、[ヴィッセル神戸](../Page/ヴィッセル神戸.md "wikilink")元チーム統括本部長の[三浦泰年](../Page/三浦泰年.md "wikilink")がテクニカルアドバイザー（総監督）に就任。東海リーグは[FC岐阜](../Page/FC岐阜.md "wikilink")に次ぐ2位。[全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")は準優勝の成績を収めたが、地域決勝大会はグループリーグで敗退した。なお、[第86回天皇杯全日本サッカー選手権大会](../Page/第86回天皇杯全日本サッカー選手権大会.md "wikilink")3回戦でJ2の[水戸ホーリーホック](../Page/水戸ホーリーホック.md "wikilink")に勝利した。
+元[横浜フリューゲルス](../Page/横浜フリューゲルス.md "wikilink")の[高田昌明](../Page/高田昌明.md "wikilink")が選手兼任監督に、[ヴィッセル神戸](../Page/ヴィッセル神戸.md "wikilink")元チーム統括本部長の[三浦泰年](../Page/三浦泰年.md "wikilink")がテクニカルアドバイザー（総監督）に就任。
+
+東海リーグ1部は[FC岐阜](../Page/FC岐阜.md "wikilink")に次ぐ2位だったが、全国社会人サッカー大会では準優勝し、この年から設定された『全社枠』により[地域リーグ決勝大会に出場](https://ja.wikipedia.org/wiki/第30回全国地域リーグ決勝大会 "wikilink")。しかし1次ラウンドでFC岐阜と同組となり、FC岐阜、[FC Mi-OびわこKusatsuに連敗し](../Page/MIOびわこ滋賀.md "wikilink")1次ラウンド3位で敗退。
+
+[第86回天皇杯に](../Page/第86回天皇杯全日本サッカー選手権大会.md "wikilink")2年ぶりに出場。2回戦でJFLの[アルテ高崎](../Page/アルテ高崎.md "wikilink")に勝利すると、3回戦ではJ2の[水戸ホーリーホック](../Page/水戸ホーリーホック.md "wikilink")に勝利した。4回戦では[浦和レッズに挑んだものの](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")0-5で敗れる。
 
   - [2007年](../Page/2007年.md "wikilink")
 
-東海リーグで2年ぶり4回目の優勝。地域決勝大会はグループリーグで敗退。
+東海リーグ1部で2年ぶり4回目の優勝。[地域リーグ決勝大会は](https://ja.wikipedia.org/wiki/第31回全国地域リーグ決勝大会 "wikilink")1次ラウンド第2戦で[FC町田ゼルビア](https://ja.wikipedia.org/wiki/FC町田ゼルビア "wikilink")にPK負け、第3戦でバンディオンセ神戸に敗れ、1次ラウンド3位で敗退。
 
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
 
-東海リーグで5回目の優勝。地域決勝大会はグループリーグで敗退。
+東海リーグ1部は14戦無敗で2年連続5回目の優勝。[地域リーグ決勝大会は](https://ja.wikipedia.org/wiki/第32回全国地域サッカーリーグ決勝大会 "wikilink")1次ラウンドで3連敗となった。
 
   - [2009年](../Page/2009年.md "wikilink")
 
-東海リーグで3位。全社は1回戦で敗退し、地域決勝大会は出場できなかった。
+東海リーグ1部は3位。[全社は](https://ja.wikipedia.org/wiki/第45回全国社会人サッカー選手権大会 "wikilink")1回戦で[福島ユナイテッドFC](../Page/福島ユナイテッドFC.md "wikilink")に敗れ、地域リーグ決勝大会には出場できなかった。
 
-  - 2010年
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")
 
-1月、静岡県1部の[藤枝MYFC](https://ja.wikipedia.org/wiki/藤枝MYFC "wikilink")に吸収合併された\[6\]。これにより静岡FCとしての歴史に幕を下ろした。なお、合併以降の[藤枝MYFC](https://ja.wikipedia.org/wiki/藤枝MYFC "wikilink")の状況は当該項目を参照のこと。
+1月、静岡県リーグ1部の**[藤枝MYFC](https://ja.wikipedia.org/wiki/藤枝MYFC "wikilink")**に吸収合併された\[6\]。これにより静岡FCとしての歴史に幕を下ろした。なお、合併以降の[藤枝MYFC](https://ja.wikipedia.org/wiki/藤枝MYFC "wikilink")の状況は当該項目を参照のこと。
 
 ## 成績・歴代監督
 
@@ -214,7 +222,7 @@
   - **[全国地域リーグ決勝大会](https://ja.wikipedia.org/wiki/全国地域リーグ決勝大会 "wikilink")**
       - 3位：2回 (2002年、2003年)
 
-## 歴代選手
+## 歴代所属選手
 
   - [森川達矢](https://ja.wikipedia.org/wiki/森川達矢 "wikilink")
   - [白坂公二](https://ja.wikipedia.org/wiki/白坂公二 "wikilink")

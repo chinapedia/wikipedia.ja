@@ -27,8 +27,9 @@
 <!-- end list -->
 
   - IT
-      - [Fast Scalable Machine Learning API For Smarter Applications](http://h2o-release.s3.amazonaws.com/h2o/rel-weierstrass/3/index.html) 機械学習のソフトウェア
-      - [the optimized HTTP/1.x, HTTP/2 server](https://h2o.examp1e.net/) DeNA Co., Ltd.が開発したHTTP/1 HTTP/2 サーバー
+      - \- [機械学習](../Page/機械学習.md "wikilink")のための[ライブラリ](../Page/ライブラリ.md "wikilink")。
+
+      - [H2O (Webサーバ)](../Page/H2O_\(Webサーバ\).md "wikilink") - [DeNA](https://ja.wikipedia.org/wiki/DeNA "wikilink")が開発した[Webサーバ](../Page/Webサーバ.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")。
 
 <!-- end list -->
 

@@ -162,7 +162,7 @@
   - [PIZZICATO FIVE](https://ja.wikipedia.org/wiki/PIZZICATO_FIVE "wikilink")
   - [仲井戸麗市](../Page/仲井戸麗市.md "wikilink")
   - [THE ASS BABOONS OF VENUS](https://ja.wikipedia.org/wiki/THE_ASS_BABOONS_OF_VENUS "wikilink")
-  - [草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")
+  - [草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")
   - [SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")
   - [和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")
   - [奥居香](https://ja.wikipedia.org/wiki/奥居香 "wikilink")

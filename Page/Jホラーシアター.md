@@ -41,6 +41,7 @@
   - 原案 - [君塚良一](../Page/君塚良一.md "wikilink")（『[世にも奇妙な物語](https://ja.wikipedia.org/wiki/世にも奇妙な物語 "wikilink")』の1作品、「[急患](https://ja.wikipedia.org/wiki/急患 "wikilink")」が原作）
   - 脚本・監督 - [落合正幸](../Page/落合正幸.md "wikilink")
   - 音楽 - [蓜島邦明](../Page/はい島邦明.md "wikilink")
+  - キャスティング - 山口正志
   - 主題歌 - [奥田美和子](https://ja.wikipedia.org/wiki/奥田みわ "wikilink")「夢」（[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")）
   - サウンドデザイナー - [志田博英](../Page/志田博英.md "wikilink")
 
@@ -73,6 +74,7 @@
   - 監督 - [鶴田法男](../Page/鶴田法男.md "wikilink")
   - 美術 - 斎藤岩男
   - 音楽 - [川井憲次](../Page/川井憲次.md "wikilink")
+  - キャスティング - 山口正志
   - 主題歌 - [荘野ジュリ](../Page/荘野ジュリ.md "wikilink")「うたかた」
 
 ## 『輪廻』

@@ -38,7 +38,7 @@
 ## メンバー
 
   - ビリー・ギボンズ ([Billy Gibbons](https://ja.wikipedia.org/wiki/:en:Billy_Gibbons "wikilink")) - [ギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")/[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - ダスティ・ヒル ([Dusty Hill](https://ja.wikipedia.org/wiki/:en:Dusty_Hill "wikilink")) - [ベース](../Page/エレクトリックベース.md "wikilink")/ボーカル
+  - ダスティ・ヒル ([Dusty Hill](https://ja.wikipedia.org/wiki/:en:Dusty_Hill "wikilink")) - [ベース](../Page/エレクトリックベース.md "wikilink")/[キーボード](../Page/キーボード_\(楽器\).md "wikilink")/ボーカル
   - フランク・ベアード ([Frank Beard](https://ja.wikipedia.org/wiki/:en:Frank_Beard_\(musician\) "wikilink")) - [ドラムス](../Page/ドラムセット.md "wikilink")
 
 <File:Billy> Gibbons of ZZ Top performing in San Antonio, Texas 2015.jpg|ビリー・ギボンズ(G) 2015年 <File:Dusty> Hill of ZZ Top performing in San Antonio, Texas 2015.jpg|ダスティ・ヒル(B) 2015年 <File:Frank> Beard of ZZ Top performing in San Antonio, Texas 2015.jpg|フランク・ベアード(Ds) 2015年

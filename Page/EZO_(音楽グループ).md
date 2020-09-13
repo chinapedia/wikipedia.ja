@@ -25,7 +25,7 @@
   - [矢萩渉](../Page/矢萩渉.md "wikilink") （やはぎ わたる）- [音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")
   - [武沢侑昂](../Page/武沢豊.md "wikilink") （たけざわ ゆたか）-[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:2014年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2014年に結成した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:2014年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2014年に結成した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
 
 1.  Yahooニュース <http://megalodon.jp/2015-0109-1741-42/headlines.yahoo.co.jp/hl?a=20150109-00000031-minkei-hok>
 2.  NoBodyHurts HP <http://nbh.jp.net>

@@ -65,7 +65,7 @@
   - [秋田朝日放送](../Page/秋田朝日放送.md "wikilink")
       - [原田千秋紀](https://ja.wikipedia.org/wiki/原田千秋紀 "wikilink")
       - [舘山えり奈](https://ja.wikipedia.org/wiki/舘山えり奈 "wikilink")
-      - [工藤東子](https://ja.wikipedia.org/wiki/工藤東子 "wikilink")
+      - [工藤東子](../Page/工藤東子.md "wikilink")
       - [伊藤聡子](../Page/伊藤聡子.md "wikilink")
       - [石井陽子](../Page/田村陽子.md "wikilink")
       - [千田まゆこ](../Page/千田まゆこ.md "wikilink")（リポーター兼秋田担当[ディレクター](../Page/ディレクター.md "wikilink")）

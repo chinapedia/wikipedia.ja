@@ -3,7 +3,7 @@
 
 **佐藤 B作**（さとう ビーさく、本名：**佐藤 俊夫**（さとう としお）、[1949年](../Page/1949年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[俳優](../Page/俳優.md "wikilink")。
 
-身長164cm。[血液型AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[福島県](../Page/福島県.md "wikilink")[福島市](../Page/福島市.md "wikilink")出身。[福島県立福島高等学校](../Page/福島県立福島高等学校.md "wikilink")卒業、[早稲田大学](../Page/早稲田大学.md "wikilink")[商学部](../Page/商学部.md "wikilink")中退。妻は[女優の](../Page/俳優.md "wikilink")[あめくみちこ](../Page/あめくみちこ.md "wikilink")（[2001年](../Page/2001年.md "wikilink")に再婚）、息子は[佐藤銀平](../Page/佐藤銀平.md "wikilink")。[劇団東京ヴォードヴィルショー](../Page/劇団東京ヴォードヴィルショー.md "wikilink")主宰者。オフィスボードビル所属。
+身長164cm。[血液型AB型](../Page/ABO式血液型.md "wikilink")。[福島県](../Page/福島県.md "wikilink")[福島市](../Page/福島市.md "wikilink")出身。[福島県立福島高等学校](../Page/福島県立福島高等学校.md "wikilink")卒業、[早稲田大学](../Page/早稲田大学.md "wikilink")[商学部](../Page/商学部.md "wikilink")中退。妻は[女優の](../Page/俳優.md "wikilink")[あめくみちこ](../Page/あめくみちこ.md "wikilink")（[2001年](../Page/2001年.md "wikilink")に再婚）、息子は[佐藤銀平](../Page/佐藤銀平.md "wikilink")。[劇団東京ヴォードヴィルショー](../Page/劇団東京ヴォードヴィルショー.md "wikilink")主宰者。オフィスボードビル所属。
 
 ## 来歴・人物
 
@@ -29,6 +29,7 @@
 #### NHK
 
   - [銀河テレビ小説](../Page/銀河テレビ小説.md "wikilink") ふるさとシリーズ2 [上野駅周辺](https://ja.wikipedia.org/wiki/上野駅周辺 "wikilink")（1978年）
+  - [はね駒](../Page/はね駒.md "wikilink")（1986年） ‐ 吉川勘太郎
   - [かりん](../Page/かりん_\(テレビドラマ\).md "wikilink")（1993 - 1994年） - 黒田忠治 役
   - [系列](../Page/系列_\(テレビドラマ\).md "wikilink")（1993年） - 前畑浩 役
       - [系列 II](../Page/系列_\(テレビドラマ\).md "wikilink")（1994年） - 前畑浩 役
@@ -60,6 +61,7 @@
   - [毎度おさわがせします](../Page/毎度おさわがせします.md "wikilink")第1シリーズ（1985年） - 佐野倉和彦 役
   - [早春物語](../Page/早春物語.md "wikilink")（1986年） - 横谷亮 役
   - [金曜日には花を買って](../Page/金曜日には花を買って.md "wikilink")（1986年10月10日 - 1987年1月23日） - 沢井公平 役
+  - [ウルトラマンになりたかった男](https://ja.wikipedia.org/wiki/ウルトラマンになりたかった男 "wikilink")（1993年）- 松田特技監督 役
   - [渡る世間は鬼ばかり](https://ja.wikipedia.org/wiki/渡る世間は鬼ばかり "wikilink")（2002年 - 2013年） - 金田典介 役
   - [こちら本池上署](../Page/こちら本池上署.md "wikilink")シリーズ - 篠田吾郎 役
       - 第1シリーズ（2002年7月8日 - 9月16日）
@@ -143,7 +145,7 @@
   - [ドクターY〜外科医・加地秀樹〜](https://ja.wikipedia.org/wiki/ドクターY〜外科医・加地秀樹〜 "wikilink")（2018年） ‐ 清水権蔵
   - [土曜ワイド劇場](../Page/土曜ワイド劇場.md "wikilink")
       - [松本清張スペシャル・数の風景](https://ja.wikipedia.org/wiki/数の風景#テレビドラマ "wikilink")（1991年3月30日）
-      - [セールスレディは何を見た](https://ja.wikipedia.org/wiki/セールスレディは何を見た "wikilink")（1993年）
+      - [セールスレディは何を見た](../Page/セールスレディは何を見た.md "wikilink")（1993年）
       - [家政婦は見た\!](../Page/家政婦は見た!.md "wikilink")13（1994年） - 谷口五郎 役
       - 下町女占い師 清香姐さんの人情事件簿（1995年5月）
       - 怪人食いしんぼ フグで殺す（1996年4月）
@@ -266,7 +268,7 @@
   - （2012年3月-）
 
   -
-[Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:日本の舞台俳優](https://ja.wikipedia.org/wiki/Category:日本の舞台俳優 "wikilink") [Category:1949年生](https://ja.wikipedia.org/wiki/Category:1949年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:福島県出身の人物](https://ja.wikipedia.org/wiki/Category:福島県出身の人物 "wikilink") [Category:欽ちゃんファミリー](https://ja.wikipedia.org/wiki/Category:欽ちゃんファミリー "wikilink") [Category:日本・ガンビア関係](https://ja.wikipedia.org/wiki/Category:日本・ガンビア関係 "wikilink")
+[Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:日本の舞台俳優](https://ja.wikipedia.org/wiki/Category:日本の舞台俳優 "wikilink") [Category:1949年生](https://ja.wikipedia.org/wiki/Category:1949年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:福島県出身の人物](https://ja.wikipedia.org/wiki/Category:福島県出身の人物 "wikilink") [Category:欽ちゃんファミリー](https://ja.wikipedia.org/wiki/Category:欽ちゃんファミリー "wikilink") [Category:日本・ガンビア関係](https://ja.wikipedia.org/wiki/Category:日本・ガンビア関係 "wikilink") [Category:東京ヴォードヴィルショー](https://ja.wikipedia.org/wiki/Category:東京ヴォードヴィルショー "wikilink")
 
 1.  [佐藤B作推薦の「いかにんじん錦秋」](http://www.sakyu-iizaka.com/) 飯坂温泉佐久商店
 2.  [俳優・佐藤B作（1）生まれ育った飯坂温泉](https://www.nikkei.com/article/DGKDZO69462320V00C14A4BE0P00/) [日本経済新聞](../Page/日本経済新聞.md "wikilink") 2014年4月17日夕刊

@@ -1,7 +1,7 @@
 > この記事は[ウシミツリクエストABC](https://ja.wikipedia.org/wiki/ウシミツリクエストABC)から翻訳されています。
 
 
-**ウシミツリクエストABC**とは、[1993年](../Page/1993年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")～[1999年](../Page/1999年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")にかけて、[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")（ABCラジオ）で[月曜](https://ja.wikipedia.org/wiki/月曜 "wikilink")～[木曜](https://ja.wikipedia.org/wiki/木曜 "wikilink")[深夜](../Page/深夜.md "wikilink")25時～27時（金曜日は1994年から放送開始、後に25:10～になり、後期は25:40～のスタートとなった）に放送されていた音楽リクエスト番組である。
+**ウシミツリクエストABC**とは、[1993年](../Page/1993年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")～[1999年](../Page/1999年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")にかけて、[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")（ABCラジオ）で[月曜](../Page/月曜日.md "wikilink")～[木曜](../Page/木曜日.md "wikilink")[深夜](../Page/深夜.md "wikilink")25時～27時（金曜日は1994年から放送開始、後に25:10～になり、後期は25:40～のスタートとなった）に放送されていた音楽リクエスト番組である。
 
 内容は、リクエストハガキを紹介して曲をかけるというオーソドックスなものだが、曲をかける前と後に必ず歌手名と曲名をアナウンスし、ナレーションは決して曲にはかぶせず、曲は前奏から後奏まで完全に流すというスタイル（FM局とほぼ同じスタイル）であったことが番組最大の特徴だった。 テーマ曲は[国境の南](https://ja.wikipedia.org/wiki/国境の南 "wikilink")（演奏は、ユーゴー・ウィンターハルター楽団）。
 

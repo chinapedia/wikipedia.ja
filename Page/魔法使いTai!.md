@@ -25,7 +25,7 @@
     [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[6月6日](../Page/6月6日.md "wikilink")生まれ。AB型。身長：178cm。体重：56Kg。3年F組。魔法クラブの副部長。スポーツ万能かつ、魔法も使いこなす美男子。親衛隊が作られるほど全校の女子生徒に人気。武男が好きで、七香も次第に意識する。
   - 愛川茜（あいかわ あかね）
     声 - [岩男潤子](https://ja.wikipedia.org/wiki/岩男潤子 "wikilink")
-    [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")生まれ。B型。身長：159cm。B/W/H：86/52/86。1年D組。魔法クラブの新入部員。性格はマイペースで自由奔放。モデル。放課後はデートや仕事で部活にはあまり参加しないが、平部員の中では最も魔法の物覚えが速い。マンションに一人暮らし。
+    [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")生まれ。B型。身長：159cm。B/W/H：86/52/86。1年D組。魔法クラブの新入部員。性格はマイペースで自由奔放。モデル。放課後はデートや仕事で部活にはあまり参加しないが、平部員の中では最も魔法の物覚えが早い。マンションに一人暮らし。
   - J / 仁乃樹里加（じぇい / じんの じゅりか）
     声 - [宮原永海](../Page/宮原永海.md "wikilink")
     1年D組。見た目が少女っぽい、不思議な美少年。誰よりも強力な魔法を使いこなし、何らかの企みを遂行する。後の魔法クラブの新入部員。テレビシリーズに登場。
@@ -407,15 +407,9 @@
 
 ## ラジオ
 
-『**魔法使い隊の子ッ\!**』というラジオ番組が、[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")で[1996年](../Page/1996年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")に放送された。放送時間帯は[火曜](https://ja.wikipedia.org/wiki/火曜 "wikilink")23時30分から24時00分。パーソナリティは[ミンキー・ヤス](../Page/ミンキー・ヤス.md "wikilink")、[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")、[小西寛子](../Page/小西寛子.md "wikilink")。
+『**魔法使い隊の子ッ\!**』というラジオ番組が、[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")で[1996年](../Page/1996年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")に放送された。放送時間帯は[火曜](../Page/火曜日.md "wikilink")23時30分から24時00分。パーソナリティは[ミンキー・ヤス](../Page/ミンキー・ヤス.md "wikilink")、[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")、[小西寛子](../Page/小西寛子.md "wikilink")。
 
 ## 脚注
-
-<div class="references-small">
-
-<references />
-
-</div>
 
 ## 外部リンク
 

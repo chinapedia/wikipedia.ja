@@ -1,7 +1,7 @@
 > この記事は[ACキエーヴォ・ヴェローナ](https://ja.wikipedia.org/wiki/ACキエーヴォ・ヴェローナ)から翻訳されています。
 
 
-**アッソチャツィオーネ・カルチョ・キエーヴォ・ヴェローナ**（**Associazione Calcio Chievo Verona**）は、[イタリア](../Page/イタリア.md "wikilink")・[ヴェローナ](https://ja.wikipedia.org/wiki/ヴェローナ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。2019-20シーズンは[セリエBに所属している](../Page/セリエB_\(サッカー\).md "wikilink")。
+**アッソチャツィオーネ・カルチョ・キエーヴォ・ヴェローナ**（**Associazione Calcio Chievo Verona S.r.l.**）は、[イタリア](../Page/イタリア.md "wikilink")・[ヴェローナ](https://ja.wikipedia.org/wiki/ヴェローナ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。2020-21シーズンは[セリエBに所属している](../Page/セリエB_\(サッカー\).md "wikilink")。
 
 ## 概略
 
@@ -255,7 +255,7 @@
 <td><p>15</p></td>
 </tr>
 <tr class="even">
-<td><p>1999-2000</p></td>
+<td><p>1999-00</p></td>
 <td><p>セリエB</p></td>
 <td><p>38</p></td>
 <td><p>11</p></td>
@@ -404,7 +404,14 @@
 <tr class="odd">
 <td><p>2019-20</p></td>
 <td><p>セリエB</p></td>
-<td><p>42</p></td>
+<td><p>38</p></td>
+<td><p>14</p></td>
+<td><p>14</p></td>
+</tr>
+<tr class="even">
+<td><p>2020-21</p></td>
+<td><p>セリエB</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>

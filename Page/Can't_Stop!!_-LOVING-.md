@@ -16,6 +16,8 @@
   - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")』のエンディングテーマ曲に使用された。
   - 2016年12月26日『SMAP×SMAP』最終回のエンディングにて、『SMAP×SMAP』のスタッフと歴代スタッフを含めメンバー全員と一緒に記念撮影するシーンで同曲が使用された。
   - 2019年7月6日に[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")で放送された『[THE MUSIC DAY](https://ja.wikipedia.org/wiki/THE_MUSIC_DAY "wikilink")』のジャニーズシャッフルメドレー第2部で[二宮和也](../Page/二宮和也.md "wikilink")、[錦戸亮](../Page/錦戸亮.md "wikilink")、[亀梨和也](../Page/亀梨和也.md "wikilink")、[薮宏太](../Page/薮宏太.md "wikilink")、[千賀健永](../Page/千賀健永.md "wikilink")によって披露された。
+  - カップリング曲「SMAP MEDLEY」の内の1曲「SMAP」では、木村、森にソロパート（掛け声）（カモン\!とOK\!）がある。
+  - カップリング曲「SMAP MEDLEY」の内の1曲「SMAP No.5」では、中居、木村にソロパートがある。
 
 ## チャート成績
 

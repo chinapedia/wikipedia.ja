@@ -18,6 +18,8 @@
       - [能勢電鉄](../Page/能勢電鉄.md "wikilink") () の[スルッとKANSAI](../Page/スルッとKANSAI.md "wikilink")での符号
       - [日本生命保険](https://ja.wikipedia.org/wiki/日本生命保険 "wikilink") () - [NS30ビル](https://ja.wikipedia.org/wiki/NS30ビル "wikilink")など
       - [日本製鐵](../Page/日本製鐵.md "wikilink") ()
+      - [日本製鉄](https://ja.wikipedia.org/wiki/日本製鉄 "wikilink") ()
+  - 商品
   - 商品
       - [ホンダ・NS](../Page/ホンダ・NS.md "wikilink") - [ホンダの](../Page/本田技研工業.md "wikilink")[オートバイ](../Page/オートバイ.md "wikilink")
       - [ナイトストライカー](../Page/ナイトストライカー.md "wikilink") () - [タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")の[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。
@@ -41,6 +43,7 @@
   - その他
       - [いすゞ自動車](../Page/いすゞ自動車.md "wikilink")製の一般大型[ノンステップバス](../Page/ノンステップバス.md "wikilink")を表す（**N**on-step i**S**uzu）[名古屋市営バス](../Page/名古屋市営バス.md "wikilink")の[局内管理番号](https://ja.wikipedia.org/wiki/名古屋市営バス#管理番号 "wikilink")
       - [新暦（グレゴリオ暦）](../Page/グレゴリオ暦.md "wikilink") ()
+      - [ニッケルシルバー](../Page/洋白.md "wikilink") ()
       - [近鉄12200系電車の編成記号](../Page/近鉄12000系電車.md "wikilink")。
       - [ニューシャトル](https://ja.wikipedia.org/wiki/埼玉新都市交通伊奈線 "wikilink") () - [埼玉新都市交通](../Page/埼玉新都市交通.md "wikilink")の路線（愛称）
       - [ノースキン](https://ja.wikipedia.org/wiki/ノースキン "wikilink") () - [コンドーム](../Page/コンドーム.md "wikilink")を着用しない性交（[膣内射精\#性風俗業界の「中出し」](https://ja.wikipedia.org/wiki/膣内射精#性風俗業界の「中出し」 "wikilink")参照）

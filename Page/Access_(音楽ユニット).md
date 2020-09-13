@@ -295,8 +295,16 @@
 <!-- end list -->
 
   - 4月24日、配信限定シングル『Sync Parade 2020』をリリース。
-  - 5月4日〜6月26日、ライブツアー「access ELECTRIC NIGHT 2020」（11都市13公演）を行う。
   - 6月11日、配信限定シングル『Virgin Emotion DTC MIX ver.2020』をリリース。
+  - 10月10日〜12月18日、ライブツアー「access 2020 LIMITED CONCERT SYNC-STR」（8都市8公演）を行う。
+
+<!-- end list -->
+
+  - [2021年](../Page/2021年.md "wikilink")
+
+<!-- end list -->
+
+  - 1月8日〜3月2日、ライブツアー「access ELECTRIC NIGHT 2020」（11都市13公演）を行う。
 
 ## ディスコグラフィ
 
@@ -1409,26 +1417,45 @@ double decades + half Special SYNC LIVE 1125/1126</p></td>
 </div></td>
 </tr>
 <tr class="even">
-<td><p>2020年5月4日〜6月26日</p></td>
+<td><p>2020年10月10日〜12月18日</p></td>
+<td><p>access 2020 LIMITED CONCERT SYNC-STR</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>8都市8公演</p>
+</div>
+<div class="NavContent" style="text-align:center;">
+<p>10月10日 厚木市文化会館<br />
+10月30日 なら100年会館<br />
+10月31日 岸和田市立浪切ホール<br />
+11月3日 中野サンプラザ<br />
+11月15日 神戸文化ホール<br />
+12月11日 森のホール21<br />
+12月13日 名古屋市民会館<br />
+12月18日 府中の森芸術劇場</p>
+</div>
+</div></td>
+</tr>
+<tr class="odd">
+<td><p>2021年1月8日〜3月2日</p></td>
 <td><p>access ELECTRIC NIGHT 2020</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
 <p>11都市13公演</p>
 </div>
 <div class="NavContent" style="text-align:center;">
-<p>5月4日 名古屋DIAMOND HALL<br />
-5月5日 名古屋DIAMOND HALL<br />
-5月9日 高松MONSTER<br />
-5月10日 広島CLUB QUATTRO<br />
-5月15日 仙台Rensa<br />
-5月23日 福岡DRUM LOGOS<br />
-5月24日 熊本B.9<br />
-5月31日 札幌PENNY LANE24<br />
-6月4日 横浜ベイホール<br />
-6月5日 横浜ベイホール<br />
-6月11日 STUDIO COAST<br />
-6月14日 なんばHatch<br />
-6月26日 新潟LOTS</p>
+<p>1月8日 新潟LOTS<br />
+1月14日 横浜ベイホール<br />
+1月15日 横浜ベイホール<br />
+1月22日 なんばHatch<br />
+1月23日 高松MONSTER<br />
+2月2日 札幌PENNY LANE24<br />
+2月4日 仙台Rensa<br />
+2月9日 名古屋DIAMOND HALL<br />
+2月10日 名古屋DIAMOND HALL<br />
+2月20日 福岡DRUM LOGOS<br />
+2月21日 熊本B.9<br />
+2月27日 広島CLUB QUATTRO<br />
+3月2日 STUDIO COAST</p>
 </div>
 </div></td>
 </tr>
@@ -1655,4 +1682,4 @@ double decades + half Special SYNC LIVE 1125/1126</p></td>
   -
   -
   -
-[Category:Access](https://ja.wikipedia.org/wiki/Category:Access "wikilink") [Category:浅倉大介](https://ja.wikipedia.org/wiki/Category:浅倉大介 "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:アリオラジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:アリオラジャパンのアーティスト "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink") [Category:ソニー・ミュージックアソシエイテッドレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアソシエイテッドレコーズのアーティスト "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:1992年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1992年に結成した音楽グループ "wikilink")
+[Category:Access](https://ja.wikipedia.org/wiki/Category:Access "wikilink") [Category:浅倉大介](https://ja.wikipedia.org/wiki/Category:浅倉大介 "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:アリオラジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:アリオラジャパンのアーティスト "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink") [Category:ソニー・ミュージックアソシエイテッドレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアソシエイテッドレコーズのアーティスト "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:1992年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1992年に結成した音楽グループ "wikilink")

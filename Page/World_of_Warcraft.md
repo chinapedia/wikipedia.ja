@@ -339,6 +339,14 @@ War Craft III: The Frozen Throne の時代より4年、世界は Orc/Tauren/Trol
 
 追加項目
 
+## 出来事
+
+2005年、本作に登場する血神ハッカルがまき散らす伝染性のデバフ「Corrputed Blood」が、ダンジョン外にまで拡散した結果、仮想空間内でのパンデミックへと発展し、のちにこの出来事は[Corrupted Blood事件](../Page/Corrupted_Blood事件.md "wikilink") として知られるようになった\[4\]。
+
+## 関連項目
+
+  - \- テレビアニメ『[サウスパーク](../Page/サウスパーク.md "wikilink")』のエピソードで、本作とのコラボレーションである\[5\]。
+
 ## 脚注
 
 ## 外部リンク
@@ -350,3 +358,5 @@ War Craft III: The Frozen Throne の時代より4年、世界は Orc/Tauren/Trol
 1.
 2.
 3.  ''[World of Warcraft - World of Warcraft - BGでの報酬について](http://members3.jcom.home.ne.jp/warcraft/eots.html) ''
+4.
+5.

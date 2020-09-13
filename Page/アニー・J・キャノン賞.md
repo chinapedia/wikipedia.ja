@@ -10,7 +10,7 @@
   - 1934年 [セシリア・ペイン＝ガポーシュキン](../Page/セシリア・ペイン＝ガポーシュキン.md "wikilink")
   - 1937年 [シャーロット・ムーア＝シタリー](https://ja.wikipedia.org/wiki/シャーロット・ムーア＝シタリー "wikilink")
   - 1940年 Julie Vinter Hansen
-  - 1943年 [アントニア・モーリ](https://ja.wikipedia.org/wiki/アントニア・モーリ "wikilink")
+  - 1943年 [アントニア・モーリ](../Page/アントニア・モーリ.md "wikilink")
   - 1946年 [エマ・ヴィソツキー](https://ja.wikipedia.org/wiki/エマ・ヴィソツキー "wikilink")
   - 1949年 [ヘレン・ソーヤー・ホッグ](https://ja.wikipedia.org/wiki/ヘレン・ソーヤー・ホッグ "wikilink")
   - 1952年 Ida Barney

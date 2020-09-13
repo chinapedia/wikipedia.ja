@@ -39,7 +39,7 @@
 これより以下はKBS京都ラジオでの中継には基本的に出演しない。
 
   - [寺西裕一](../Page/寺西裕一.md "wikilink")（元KBS京都アナウンサー）
-  - [行部宗一](https://ja.wikipedia.org/wiki/行部宗一 "wikilink")（元[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")）
+  - [行部宗一](https://ja.wikipedia.org/wiki/行部宗一 "wikilink")（元[四国放送](../Page/四国放送.md "wikilink")）
   - [桐山隆](../Page/桐山隆.md "wikilink")（元[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")）
   - [和田りつ子](../Page/和田りつ子.md "wikilink")（サンガがJリーグを目指す頃からラジオ・テレビでレポーターを担当。『[サッカーマガジン](../Page/サッカーマガジン.md "wikilink")』などの雑誌記事出稿も）
   - [能政夕介](https://web.archive.org/web/20170722041148/http://kotokake.jp/profile/)（フリーアナウンサー）\[2\]

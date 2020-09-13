@@ -1,7 +1,7 @@
 > この記事は[EPICアーキテクチャ](https://ja.wikipedia.org/wiki/EPICアーキテクチャ)から翻訳されています。
 
 
-**EPICアーキテクチャ**（Explicitly Parallel Instruction Computing Architecture、えぴっくあーきてくちゃ)は、[VLIW](../Page/VLIW.md "wikilink")をベースに改良を施したアーキテクチャで、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")および[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")が、[IA-64](../Page/IA-64.md "wikilink")（[Itanium](../Page/Itanium.md "wikilink")）で開発・採用した。
+**EPICアーキテクチャ**（エピック・アーキテクチャ）は、[VLIW](../Page/VLIW.md "wikilink")をベースに改良が施された[コンピュータ・アーキテクチャ](../Page/コンピュータ・アーキテクチャ.md "wikilink")。[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")および[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")が、[IA-64](../Page/IA-64.md "wikilink")（[Itanium](../Page/Itanium.md "wikilink")）で開発・採用した。Explicitly Parallel Instruction Computing Architectureの略。
 
 ## 背景
 

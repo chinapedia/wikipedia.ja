@@ -150,11 +150,11 @@ UMCK-9852</p></td>
 ## 外部リンク
 
   -
-  - [YEN TOWN BAND](http://www.universal-music.co.jp/yen-town-band) - ユニバーサルミュージックジャパン
+  - [YEN TOWN BAND](https://www.universal-music.co.jp/yen-town-band/) - ユニバーサルミュージックジャパン
 
   - [YEN TOWN BAND](https://www.sonymusic.co.jp/artist/YenTownBand/) - ソニーミュージック
 
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:映画の登場人物](https://ja.wikipedia.org/wiki/Category:映画の登場人物 "wikilink") [Category:架空の音楽グループ](https://ja.wikipedia.org/wiki/Category:架空の音楽グループ "wikilink")
+[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:映画の登場人物](https://ja.wikipedia.org/wiki/Category:映画の登場人物 "wikilink") [Category:架空の音楽グループ](https://ja.wikipedia.org/wiki/Category:架空の音楽グループ "wikilink") [Category:CHARA](https://ja.wikipedia.org/wiki/Category:CHARA "wikilink")
 
 1.  劇中ではグリコ（[CHARA](https://ja.wikipedia.org/wiki/CHARA "wikilink")）と彼女の養子アゲハ（[伊藤歩](https://ja.wikipedia.org/wiki/伊藤歩 "wikilink")）の2人が胸にスワロウテイル・バタフライ=[オオルリアゲハのタトゥーをしており](https://ja.wikipedia.org/wiki/アゲハチョウ "wikilink")、それが映画のタイトルの由来となっている。
 2.

@@ -59,7 +59,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/commons:Category:MTR" title="wikilink">香港鉄路 (旧香港地鉄)</a></li>
 </ul></li>
 <li><a href="https://ja.wikipedia.org/wiki/commons:Category:Shanghai_Metro" title="wikilink">上海地下鉄</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/commons:Category:Shenzhen_Metro" title="wikilink">深セン地下鉄</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/commons:Category:Shenzhen_Metro" title="wikilink">深圳地下鉄</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/commons:Category:Tianjin_Metro" title="wikilink">天津地下鉄</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/commons:Category:Binhai_Mass_Transit" title="wikilink">浜海快速</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/commons:Category:Nanjing_Metro" title="wikilink">南京地下鉄</a></li>

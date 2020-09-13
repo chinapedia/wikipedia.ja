@@ -1,7 +1,7 @@
 > この記事は[Sd Kfz 251](https://ja.wikipedia.org/wiki/Sd_Kfz_251)から翻訳されています。
 
 
-[250px](https://ja.wikipedia.org/wiki/ファイル:SdKfz251-7.jpg "wikilink") "Pionierpanzerwagen"\]\] [250px搭載支援車両](https://ja.wikipedia.org/wiki/ファイル:SdKfz251-9.jpg "wikilink") "Stummel"初期型\]\] [250pxで](https://ja.wikipedia.org/wiki/ファイル:Warsaw_Uprising_-_Captured_SdKfz_251_\(1944\).jpg "wikilink")[ポーランド国内軍](https://ja.wikipedia.org/wiki/ポーランド国内軍 "wikilink")に[鹵獲](../Page/鹵獲.md "wikilink")されたSd.Kfz.251/1型 Ausf.D\]\] **Sd.Kfz.251**は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ハノマーク](https://ja.wikipedia.org/wiki/ハノマーク "wikilink")社が3t[ハーフトラック](../Page/半装軌車.md "wikilink")（[Sd.kfz.11](../Page/Sd_Kfz_11.md "wikilink")）をベースに、[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")[部隊](../Page/部隊.md "wikilink")に[歩兵](../Page/歩兵.md "wikilink")を追随させるために[1937年](../Page/1937年.md "wikilink")から開発を開始した中型[装甲兵員輸送車](../Page/装甲兵員輸送車.md "wikilink")の[制式番号を指す](../Page/特殊車輌番号.md "wikilink")。この制式番号がドイツの装甲兵員輸送車の代名詞となった。[ドイツ語](../Page/ドイツ語.md "wikilink")で"Mittlerer Schützenpanzerwagen"と表記される。
+**Sd.Kfz.251**は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ハノマーク](https://ja.wikipedia.org/wiki/ハノマーク "wikilink")社が3t[ハーフトラック](../Page/半装軌車.md "wikilink")（[Sd.kfz.11](../Page/Sd_Kfz_11.md "wikilink")）をベースに、[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")[部隊](../Page/部隊.md "wikilink")に[歩兵](../Page/歩兵.md "wikilink")を追随させるために[1937年](../Page/1937年.md "wikilink")から開発を開始した中型[装甲兵員輸送車](../Page/装甲兵員輸送車.md "wikilink")の[制式番号を指す](../Page/特殊車輌番号.md "wikilink")。この制式番号がドイツの装甲兵員輸送車の代名詞となった。[ドイツ語](../Page/ドイツ語.md "wikilink")で"Mittlerer Schützenpanzerwagen"と表記される。
 
 ## 概要
 
@@ -13,51 +13,119 @@
 
 ## バリエーション
 
+[250pxで](https://ja.wikipedia.org/wiki/ファイル:Warsaw_Uprising_-_Captured_SdKfz_251_\(1944\).jpg "wikilink")[ポーランド国内軍](https://ja.wikipedia.org/wiki/ポーランド国内軍 "wikilink")に[鹵獲](../Page/鹵獲.md "wikilink")されたSd.Kfz.251/1型 Ausf.D\]\]
+
   - Sd.Kfz.251/1
     基本形となる[装甲兵員輸送車](../Page/装甲兵員輸送車.md "wikilink")型であり、[兵員](../Page/兵士.md "wikilink")10名を[輸送](https://ja.wikipedia.org/wiki/輸送 "wikilink")可能。基本的には2丁の7.92mm[機関銃](../Page/機関銃.md "wikilink")（[MG34または](https://ja.wikipedia.org/wiki/ラインメタル/マウザー・ヴェルケMG34機関銃 "wikilink")[MG42](../Page/グロスフスMG42機関銃.md "wikilink")）を装備し、[兵員室前方の防盾付き機](https://ja.wikipedia.org/wiki/キャビン "wikilink")[銃架](../Page/銃架.md "wikilink")および兵員室後方の機銃架に搭載可能であった\[1\]。この他、車内から操作可能な[重機関銃](../Page/重機関銃.md "wikilink")架（sMG）搭載型・[ロケットランチャー](../Page/ロケットランチャー.md "wikilink")（[ヴルフラーメン40](https://ja.wikipedia.org/wiki/ヴルフラーメン40 "wikilink")）搭載型・[赤外線暗視装置装備型](../Page/FLIR.md "wikilink")（ファルケ）も存在した\[2\]。
+
+{{-}}
+
   - Sd.Kfz.251/2
     [8 cm sGrW 34](https://ja.wikipedia.org/wiki/8_cm_sGrW_34 "wikilink")[迫撃砲](../Page/迫撃砲.md "wikilink")搭載の重装備[小隊](../Page/小隊.md "wikilink")用支援車型。迫撃砲は車内に搭載したまま使用できたが、専用の台座が用意されているわけではなかった。A-D型まで全てのタイプで製造された\[3\]。
+
+<!-- end list -->
+
   - Sd.Kfz.251/3
     [無線機](https://ja.wikipedia.org/wiki/無線機 "wikilink")搭載の[指揮車型](../Page/指揮_\(軍事\).md "wikilink")。搭載する無線機の相違によるバリエーションがあり、フレーム[アンテナ](../Page/アンテナ.md "wikilink")や星型アンテナを装備していた\[4\]。A-D型まで全てのタイプで製造されたが、星型アンテナの方が[通信](../Page/通信.md "wikilink")距離が長く、D型ベースの車両では全て星型アンテナが使用されている\[5\]。
+
+<!-- end list -->
+
   - Sd.Kfz.251/4
     [7.5 cm leIG 18](../Page/7.5_cm_leIG_18.md "wikilink")[歩兵砲](../Page/歩兵砲.md "wikilink")牽引用車型。[1943年](../Page/1943年.md "wikilink")に廃止されたため、D型ベースでは製造されていないと見られる\[6\]。
+
+<!-- end list -->
+
   - Sd.Kfz.251/5
     [工兵](../Page/工兵.md "wikilink")[部隊](../Page/部隊.md "wikilink")用の[戦闘工兵車](https://ja.wikipedia.org/wiki/戦闘工兵車 "wikilink")型。工兵用機材を搭載している以外は基本型とほぼ同じである\[7\]。1943年に廃止され、その多くは後述のSd.Kfz.251/7に改修された\[8\]。
+
+<!-- end list -->
+
   - Sd.Kfz.251/6
     [上級士官用の無線機搭載指揮車型](../Page/士官.md "wikilink")。[エニグマ暗号機も搭載](../Page/エニグマ_\(暗号機\).md "wikilink")。A-C型をベースに製造され、多くはA型であった\[9\]。
+
+[250px](https://ja.wikipedia.org/wiki/ファイル:SdKfz251-7.jpg "wikilink") "Pionierpanzerwagen"\]\]
+
   - Sd.Kfz.251/7
     工兵部隊用の戦闘工兵車型。Sd.Kfz.251/5の発展型であり、突撃橋を装備。A-D型まで全てのタイプで製造された\[10\]。
+
+{{-}}
+
   - Sd.Kfz.251/8
     装甲野戦救急車型。[兵員室内に](https://ja.wikipedia.org/wiki/キャビン "wikilink")[担架を搭載可能](../Page/ストレッチャー.md "wikilink")。7.92mm機関銃は装備されておらず、A-D型まで全てのタイプで製造された\[11\]。車体には赤十字マークが描かれている。
+
+[250px搭載支援車両](https://ja.wikipedia.org/wiki/ファイル:SdKfz251-9.jpg "wikilink") "Stummel"初期型\]\]
+
   - Sd.Kfz.251/9
     [7.5 cm KwK 37](https://ja.wikipedia.org/wiki/7.5_cm_KwK_37 "wikilink")[戦車砲](../Page/戦車砲.md "wikilink")搭載火力支援車型。搭載方法により前期型と後期型がある\[12\]。前期型は兵員室の床に設置された台座に砲を搭載しており、兵員室前面の助手席側に砲を位置させるため、搭載位置は車体右舷側にオフセットしていた\[13\]。後期型では車体自体に大きな改造を施さず、車体上に設置したフレームに7.5cm砲と[防弾](https://ja.wikipedia.org/wiki/防弾 "wikilink")板を取り付ける、[Sd.Kfz.234/3と同じ構造となった](../Page/Sd_Kfz_234.md "wikilink")\[14\]。これにより左右の射界が広がり構造は簡略化されたが、砲の搭載位置は高くなっている。前期型はC型およびD型、後期型は全てD型をベースに製造された\[15\]。
+
+{{-}}
+
   - Sd.Kfz.251/10
     [3.7 cm PaK 36](../Page/3.7_cm_PaK_36.md "wikilink")[対戦車砲](../Page/対戦車砲.md "wikilink")搭載型で小隊長車用。対戦車砲の防盾がそのままの初期型と、小型化した標準型がある。A-D型まで全ての形式で生産されたが、多くはB型およびC型であった\[16\]。
+
+<!-- end list -->
+
   - Sd.Kfz.251/11
     [電話線敷設車型](../Page/電話回線.md "wikilink")。電話線を敷設するためのリールを搭載している\[17\]。
+
+<!-- end list -->
+
   - Sd.Kfz.251/12
     [砲兵](../Page/砲兵.md "wikilink")隊用観測車型。方位や距離の観測機材を搭載。1943年に廃止されたため、D型ベースでは製造されていないと見られる\[18\]。
+
+<!-- end list -->
+
   - Sd.Kfz.251/13
     砲兵隊用の聴音車型。1943年に廃止されたため、D型ベースでは製造されていないと見られる\[19\]。
+
+<!-- end list -->
+
   - Sd.Kfz.251/14
     砲兵隊用の音響測定車型。音波測定により測距を行う。1943年に廃止されたため、D型ベースでは製造されていないと見られる\[20\]。
+
+<!-- end list -->
+
   - Sd.Kfz.251/15
     砲兵隊用向けに敵[火砲の発射光測定観測車として](../Page/大砲.md "wikilink")1943年9月頃より開発されたが中止となり、量産にはいたらなかった\[21\]。
+
+<!-- end list -->
+
   - Sd.Kfz.251/16
     [火炎放射器](../Page/火炎放射器.md "wikilink")搭載型。兵員室両側面にそれぞれ1基ずつ、2基の火炎放射器を搭載しており、兵員室前方の7.92mm機関銃も装備されている。1943年1月頃から実戦配備されており、ベース車体にはC型およびD型が用いられた\[22\]。
+
+<!-- end list -->
+
   - Sd.Kfz.251/17
     C型をベースに兵員室左右の[装甲](../Page/装甲.md "wikilink")板の形状を変更し、また、左右に開けられるように改造して[2 cm Flak 38](../Page/2_cm_Flak_38.md "wikilink")[機関砲](../Page/機関砲.md "wikilink")を搭載した[対空自走砲型と](../Page/自走式対空砲.md "wikilink")、D型をベースに2 cm KwK 38を搭載した小型[砲塔](../Page/砲塔.md "wikilink")をもつ[歩兵戦闘車](../Page/歩兵戦闘車.md "wikilink")型が知られているが、前者は10輌しか製造が確認されておらず、[ヘルマン・ゲーリング師団高射砲連隊の第](https://ja.wikipedia.org/wiki/第1降下装甲師団 "wikilink")6中隊と第10中隊に配備された、[空軍部隊専用の改造車輌であるとする説もある](https://ja.wikipedia.org/wiki/ドイツ空軍_\(国防軍\) "wikilink")\[23\]。これに加え、前者の改造車体に対空機関砲を搭載せず、長距離無線機とフレームアンテナを搭載した指揮通信型も2輌製造された\[24\]。
     またこれらの他、2cm高射砲搭載 1t牽引車のように開放型後部デッキに2 cm FlaK 38を搭載した対空自走砲型も、アウト・ウニオン社により1944年3月から翌年2月までに604輌生産されているが、装甲化された車体前半部に対しシャーシと車体後部は非装甲であり、やはり分類上はSd.Kfz.251/17ではなく3t牽引車のバリエーション扱いとする説、大戦前半に使用されていた装輪無線装甲車の、Sd.Kfz.261のナンバーが与えられたとする説もある。
+
+<!-- end list -->
+
   - Sd.Kfz.251/18
     砲兵部隊用観測・指揮車型。兵員室前方に地図を広げるための大型の台が設置されているのが特徴\[25\]。
+
+<!-- end list -->
+
   - Sd.Kfz.251/19
     移動式電話交換車型\[26\]。
+
+<!-- end list -->
+
   - Sd.Kfz.251/20
     赤外線照射灯搭載型。通称ウーフー。開発されたのが[1944年](../Page/1944年.md "wikilink")8月以降であり、生産車は全てD型の車両である\[27\]。
+
+<!-- end list -->
+
   - Sd.Kfz.251/21
     空軍で余剰となった航空機用機関砲を転用した、3連装対空機関砲（[15mm MG 151または](../Page/MG_151_機関砲.md "wikilink")2cm MG 151/20）搭載型。生産車はほとんどがD型の車両であるが、初期にはC型ベースの車両も少数製造された\[28\]。
+
+<!-- end list -->
+
   - Sd.Kfz.251/22
     [7.5 cm PaK 40対戦車砲搭載型](../Page/7.5_cm_PaK_40.md "wikilink")。「可能な限り既存車輌を使った対戦車自走砲を生産すべし」という総統命令により開発された車輌の一つ。生産開始は1944年12月頃からで、生産車は全てD型ベースである\[29\]。
+
+<!-- end list -->
+
   - Sd.Kfz.251/23
     2 cm KwK 38搭載[偵察車型](../Page/偵察戦闘車.md "wikilink")\[30\]。以前は同型砲を搭載した17型と混同されていたが、17型とは異なり[Sd.Kfz.234/1や](../Page/Sd_Kfz_234.md "wikilink")38(t)偵察戦車と同型のヘンゲラフェッテ38型砲塔が搭載されている。ただし、本車のものとされる写真が合成であることから、計画のみで終わった可能性が高い。
     また、戦後の[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")での生産型で、Sd.Kfz.251を改良して、[空冷](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")に変更し、兵員室に上面装甲や[射撃ポートを加えた](../Page/銃眼.md "wikilink")、**OT-810**などがある。

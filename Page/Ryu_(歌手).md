@@ -59,8 +59,8 @@
 
 ### テレビ番組
 
-  - NHK\[NHK紅白歌合戦\]（2004）
-  - テレビ朝日\[ミュージックステーション\]
+  - NHK[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")（2004）
+  - テレビ朝日[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")
   - TBS\[うたばん\]
   - フジテレビ\[FNS歌謡祭\]
   - NHK教育テレビ「[アンニョンハシムニカ？ハングル講座](https://ja.wikipedia.org/wiki/アンニョンハシムニカ？ハングル講座 "wikilink")」レギュラー出演（2005,2006）

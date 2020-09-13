@@ -20,10 +20,10 @@
       - 「[ふくおか新発見](https://ja.wikipedia.org/wiki/ふくおか新発見 "wikilink")」（[福岡放送](../Page/福岡放送.md "wikilink")）
       - 「[ふくおかにリンク](https://ja.wikipedia.org/wiki/ふくおかにリンク "wikilink")」（テレビ西日本）
   - [華丸・大吉のなんしようと？](https://ja.wikipedia.org/wiki/華丸・大吉のなんしようと? "wikilink")
-  - [Jリーグ中継](../Page/Jリーグ中継.md "wikilink")（[DAZN](https://ja.wikipedia.org/wiki/DAZN "wikilink")<委託制作> [サガン鳥栖](https://ja.wikipedia.org/wiki/サガン鳥栖 "wikilink")ホームゲーム）
+  - [Jリーグ中継](../Page/Jリーグ中継.md "wikilink")（[DAZN](https://ja.wikipedia.org/wiki/DAZN "wikilink")<制作受託> [サガン鳥栖](https://ja.wikipedia.org/wiki/サガン鳥栖 "wikilink")ホームゲーム）
       -
         [スカパー\!による中継当時から担当](../Page/スカパー!プレミアムサービス.md "wikilink")。2014年までは[アビスパ福岡](../Page/アビスパ福岡.md "wikilink")主催試合を委託制作していたが、2015年から[福岡放送](../Page/福岡放送.md "wikilink")と委託制作局を交換する形でサガン戦を担当することになった。
-        実況は主に九州地区で活躍するフリーアナウンサーが担当しているが、近年は親会社のテレビ西日本のアナウンサーが担当することも増えている。
+        実況は主に九州地区で活躍するフリーアナウンサー（[南鉄平](../Page/南鉄平.md "wikilink")など）が担当しているが、近年は親会社のテレビ西日本のアナウンサーが担当することも増えている。
   - [匠の蔵](https://ja.wikipedia.org/wiki/匠の蔵 "wikilink")（FNS九州沖縄8局ネット）
   - 「[日経スペシャル ガイアの夜明け](../Page/日経スペシャル_ガイアの夜明け.md "wikilink")」（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
       - 大空の革新者たち

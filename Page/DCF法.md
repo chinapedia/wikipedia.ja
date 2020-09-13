@@ -1,7 +1,7 @@
 > この記事は[DCF法](https://ja.wikipedia.org/wiki/DCF法)から翻訳されています。
 
 
-**DCF法**（DCFほう）は、収益資産の価値を評価する方法の1つ。具体的には、[株式](../Page/株式.md "wikilink")や[不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")その他多様な投資プロジェクトの価値を算出する場合に用いられる。*Discounted Cash Flow* 法の略で、ただ **DCF** とだけいう場合も多い。
+**DCF法**（DCFほう）は、収益資産の価値を評価する方法の1つ。具体的には、[株式](../Page/株式.md "wikilink")や[不動産](../Page/不動産.md "wikilink")その他多様な投資プロジェクトの価値を算出する場合に用いられる。*Discounted Cash Flow* 法の略で、ただ **DCF** とだけいう場合も多い。
 
 ## 概要
 

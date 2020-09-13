@@ -138,7 +138,7 @@ etc
 
 ## 備考
 
-  - 2005年9月までは[FM山口でも放送されていた](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")。
+  - 2005年4月、JFNCの『[MUSICERA](https://ja.wikipedia.org/wiki/MUSICERA "wikilink")』を打ち切って[エフエム山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")でも放送していたが、わずか半年で打ち切ってJFNCネット（Muic Buyer）に復帰。
   - 広島東洋カープの嶋重宣外野手と新井貴浩内野手が出演していた当時（2005年10月3日～2006年3月27日）の番組の題名は「嶋も新井もDO THE CARP」になっていた。
 
 ## リンク

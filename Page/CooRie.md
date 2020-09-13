@@ -333,7 +333,7 @@
   - [CooRie Official Blog 『夢降ル夜に君想フ』](https://rinocoorie.exblog.jp/)
 
   -
-[Category:日本のポップ歌手](https://ja.wikipedia.org/wiki/Category:日本のポップ歌手 "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:ゲーム音楽家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽家 "wikilink") [Category:ランティスのアーティスト](https://ja.wikipedia.org/wiki/Category:ランティスのアーティスト "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink")
+[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:ゲーム音楽家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽家 "wikilink") [Category:ランティスのアーティスト](https://ja.wikipedia.org/wiki/Category:ランティスのアーティスト "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")
 
 1.
 2.

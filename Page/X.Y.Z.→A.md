@@ -53,7 +53,7 @@
 
 <!-- end list -->
 
-  - 2月28日、6thシングル『[PURE](https://ja.wikipedia.org/wiki/PURE "wikilink")』を発売。
+  - 2月28日、6thシングル『[PURE](../Page/PURE.md "wikilink")』を発売。
   - 4月24日、3rdアルバム『[LIFE](https://ja.wikipedia.org/wiki/LIFE_\(X.Y.Z.→Aのアルバム\) "wikilink")』を発売。
   - 4月、X.Y.Z.→A WORLD TOUR2002 「THE 無礼講 \~Life goes on\~」を開始。
   - 6月、『[日中国交正常化](../Page/日中国交正常化.md "wikilink")30周年記念イベント』（[日本大使館](https://ja.wikipedia.org/wiki/日本大使館 "wikilink")主催）にて、ロック親善大使として[北京に招待された](../Page/北京市.md "wikilink")。

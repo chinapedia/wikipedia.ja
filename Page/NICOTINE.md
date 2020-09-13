@@ -1742,7 +1742,7 @@ WPCL-10128:通常盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>2003年12月24日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BOØWY" title="wikilink">BOØWY</a>トリビュートアルバム『<a href="https://ja.wikipedia.org/wiki/BOØWY_Tribute" title="wikilink">BOØWY Tribute</a>』</p></td>
+<td><p><a href="../Page/BOØWY.md" title="wikilink">BOØWY</a>トリビュートアルバム『<a href="https://ja.wikipedia.org/wiki/BOØWY_Tribute" title="wikilink">BOØWY Tribute</a>』</p></td>
 <td><p>FLCF-3993</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">

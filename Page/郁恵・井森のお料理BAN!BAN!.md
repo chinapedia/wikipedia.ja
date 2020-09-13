@@ -30,6 +30,10 @@
   - 15:30 - 15:55 （1999年4月1日 - 2000年3月31日）
   - 10:55頃 - 11:10頃（2000年4月3日 - 2001年3月30日）
 
+## 番組テーマ曲　
+
+  - 「Soca In Yuh Bam-Bam」[Duke](https://ja.wikipedia.org/wiki/Duke "wikilink")
+
 ## 放送局
 
   - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")（CX・製作局）
@@ -39,7 +43,7 @@
   - [秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")（AKT）●
   - [さくらんぼテレビジョン](../Page/さくらんぼテレビジョン.md "wikilink")（SAY・1997年4月 - ）
   - [福島テレビ](../Page/福島テレビ.md "wikilink")（FTV）
-  - [新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")（NST）●
+  - [新潟総合テレビ](../Page/NST新潟総合テレビ.md "wikilink")（NST）●
   - [長野放送](../Page/長野放送.md "wikilink")（NBS）
   - [富山テレビ放送](../Page/富山テレビ放送.md "wikilink")（BBT）
   - [石川テレビ放送](../Page/石川テレビ放送.md "wikilink")（ITC）▲
@@ -47,7 +51,7 @@
   - [テレビ静岡](../Page/テレビ静岡.md "wikilink")（SUT）●
   - [山陰中央テレビジョン放送](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")（TSK）
   - [岡山放送](../Page/岡山放送.md "wikilink")（OHK）
-  - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")（JRT・1999年4月 - 2000年3月、[日本テレビ系列](../Page/日本テレビネットワーク協議会.md "wikilink")）\[1\]▲
+  - [四国放送](../Page/四国放送.md "wikilink")（JRT・1999年4月 - 2000年3月、[日本テレビ系列](../Page/日本テレビネットワーク協議会.md "wikilink")）\[1\]▲
   - [愛媛放送](../Page/テレビ愛媛.md "wikilink")（EBC）●
   - [高知さんさんテレビ](../Page/高知さんさんテレビ.md "wikilink")（KSS・1997年4月 - ）
   - [テレビ西日本](../Page/テレビ西日本.md "wikilink")（TNC）▲

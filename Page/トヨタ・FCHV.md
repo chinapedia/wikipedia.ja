@@ -23,23 +23,23 @@
 
 ## 歴史
 
-  - [1996年](../Page/1996年.md "wikilink")10月：実験車FCHVを開発
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")9月：[メタノール](../Page/メタノール.md "wikilink")改質器搭載型FCHVを開発
-  - [1999年](../Page/1999年.md "wikilink")：FCHVを発表
-  - [2001年](../Page/2001年.md "wikilink")3月：[水素吸蔵合金](../Page/水素吸蔵合金.md "wikilink")タンク搭載型のFCHV-3を開発
-  - [2001年](../Page/2001年.md "wikilink")6月：高圧水素タンク搭載型のFCHV-4を開発、日米で公道走行試験を開始
-  - 2001年10月：液体燃料CHFから水素を取り出す改質型FCHV-5を開発
-  - 2002年12月：FCHV-4をベースとしたFCHVを発表、型式を**HEU20W**とする。
+  - [1996年](../Page/1996年.md "wikilink")10月 - 実験車FCHVを開発
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")9月 - [メタノール](../Page/メタノール.md "wikilink")改質器搭載型FCHVを開発
+  - [1999年](../Page/1999年.md "wikilink") - FCHVを発表
+  - [2001年](../Page/2001年.md "wikilink")3月 - [水素吸蔵合金](../Page/水素吸蔵合金.md "wikilink")タンク搭載型のFCHV-3を開発
+  - [2001年](../Page/2001年.md "wikilink")6月 - 高圧水素タンク搭載型のFCHV-4を開発、日米で公道走行試験を開始
+  - 2001年10月 - 液体燃料CHFから水素を取り出す改質型FCHV-5を開発
+  - 2002年12月 - FCHV-4をベースとしたFCHVを発表、型式を**HEU20W**とする。
       - [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に4台（[内閣府](../Page/内閣府.md "wikilink")・[経済産業省](../Page/経済産業省.md "wikilink")・[国土交通省](../Page/国土交通省.md "wikilink")・[環境省](../Page/環境省.md "wikilink")）、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")に2台（[カリフォルニア大学](../Page/カリフォルニア大学.md "wikilink")アーバイン校、同デービス校）を限定リース開始
       - 経済産業省の支援する「水素・燃料電池実証プロジェクト」(JHFC)に参加（2011年3月まで）
-  - 2003年8月:[地方自治体](https://ja.wikipedia.org/wiki/地方自治体 "wikilink")（[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")・[名古屋市](../Page/名古屋市.md "wikilink")）、民間企業（[新日本石油](https://ja.wikipedia.org/wiki/新日本石油 "wikilink")・[東京ガス](../Page/東京ガス.md "wikilink")・[岩谷産業](../Page/岩谷産業.md "wikilink")・[東邦ガス](../Page/東邦ガス.md "wikilink")）へ限定リース開始
+  - 2003年8月 - [地方自治体](https://ja.wikipedia.org/wiki/地方自治体 "wikilink")（[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")・[名古屋市](../Page/名古屋市.md "wikilink")）、民間企業（[新日本石油](https://ja.wikipedia.org/wiki/新日本石油 "wikilink")・[東京ガス](../Page/東京ガス.md "wikilink")・[岩谷産業](../Page/岩谷産業.md "wikilink")・[東邦ガス](../Page/東邦ガス.md "wikilink")）へ限定リース開始
   - [2007年](../Page/2007年.md "wikilink")
-      - 2月：[東京マラソン](https://ja.wikipedia.org/wiki/東京マラソン "wikilink")にオフィシャルカーとして登場（2009年まで）
-      - 4月：[ヤマト運輸](../Page/ヤマト運輸.md "wikilink")にリース、常滑市内で配送車として供用開始（2010年12月まで）
-      - 夏：水素充填圧力を35MPaから70MPaに増強したFCHVアドバンスドで大阪→東京間の無充填走行テストを実施
+      - 2月 - [東京マラソン](https://ja.wikipedia.org/wiki/東京マラソン "wikilink")にオフィシャルカーとして登場（2009年まで）
+      - 4月 - [ヤマト運輸](../Page/ヤマト運輸.md "wikilink")にリース、常滑市内で配送車として供用開始（2010年12月まで）
+      - 夏 - 水素充填圧力を35MPaから70MPaに増強したFCHVアドバンスドで大阪→東京間の無充填走行テストを実施
   - 2008年
-      - 7月：[第34回主要国首脳会議](https://ja.wikipedia.org/wiki/第34回主要国首脳会議 "wikilink")（洞爺湖サミット）の環境ショーケースに出品
-      - 9月：FCHVアドバンスドの限定リース販売を開始
+      - 7月 - [第34回主要国首脳会議](https://ja.wikipedia.org/wiki/第34回主要国首脳会議 "wikilink")（洞爺湖サミット）の環境ショーケースに出品
+      - 9月 - FCHVアドバンスドの限定リース販売を開始
   - 2011年1月
       - 第87回[東京箱根間往復大学駅伝競走](../Page/東京箱根間往復大学駅伝競走.md "wikilink")（箱根駅伝）で緊急対応車両を務める。
       - 水素供給・利用技術研究組合（HySUT）の水素ハイウェイプロジェクトに参加、松崎（まんざき）交通（[ベイサイドホールディングス](https://ja.wikipedia.org/wiki/ベイサイドホールディングス "wikilink")グループ）に貸与して[ハイヤー](../Page/ハイヤー.md "wikilink")としての実証運行を開始。[1](http://hysut.or.jp/topics/highway20110121.pdf)
@@ -93,12 +93,12 @@
     万博閉幕後は2006年3月に[知多乗合](../Page/知多乗合.md "wikilink")に1台が貸し出されて[知多半田駅](../Page/知多半田駅.md "wikilink") - [常滑駅](../Page/常滑駅.md "wikilink")間と[中部国際空港](../Page/中部国際空港.md "wikilink")島内の[路線バス](../Page/路線バス.md "wikilink")および駐車場シャトルバスとして2009年12月まで営業運行に供され、7月には中部スカイサポート（2007年4月よりANAグランドサービス中部）に2台が貸し出されて中部国際空港内の[ランプバス](https://ja.wikipedia.org/wiki/ランプバス "wikilink")として運行されている。2010年10月には[名鉄バス](../Page/名鉄バス.md "wikilink")に1台が貸与されて2012年11月まで[とよたおいでんバス](../Page/とよたおいでんバス.md "wikilink")豊田東環状線で特定日に運行されていた。また、2012年10月より2014年3月まで[関西国際空港](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink")内の[エアロプラザ](https://ja.wikipedia.org/wiki/エアロプラザ "wikilink")から[第二ターミナルビルを結ぶシャトルバスにも導入された](https://ja.wikipedia.org/wiki/関西国際空港#LCC専用ターミナルビル（第2ターミナルビル） "wikilink")\[1\]。他にもトヨタ自動車に返却された車両が自動車や燃料電池、環境関連のイベントで試乗車として登場するほか、[東京マラソン](https://ja.wikipedia.org/wiki/東京マラソン "wikilink")や2007年に大阪で開催された[世界陸上](https://ja.wikipedia.org/wiki/世界陸上 "wikilink")ではスタッフカーとして使用されたことがある。
     [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月16日](../Page/12月16日.md "wikilink")から[2013年](../Page/2013年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")まで、[羽田空港と](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")[新宿駅](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")・[東京シティエアターミナル](../Page/東京シティエアターミナル.md "wikilink")を結ぶ[東京空港交通](../Page/東京空港交通.md "wikilink")の[リムジンバス](../Page/リムジンバス.md "wikilink")において実証実験が行われた。ノンステップバスがベースのため、定員は25名に抑えられ、前面や客室は[日野・セレガ](../Page/日野・セレガ.md "wikilink")（2代目）に似た形状としている。
 
-ファイル:FCHV-BUS2.jpg|2002年の東京モーターショーに出品されていたFCHV-BUS
-（初期型：日野自動車所有） ファイル:Tobus S-L111 FCHV-BUS.jpg|[東京都交通局](../Page/東京都交通局.md "wikilink")に貸し出されていたFCHV-BUS
-（初期型：[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[台場にて](https://ja.wikipedia.org/wiki/台場_\(東京都港区\) "wikilink")、2003{{～}}2004年） ファイル:Tobus S-L111 FCHV-BUS rear.jpg|FCHV-BUS初期型の後部
-（東京ビッグサイトにて） ファイル:Tobus S-L111 cabin.jpg|FCHV-BUS初期型の客室 ファイル:TOYOTA FCHV Bus.jpg|[2005年日本国際博覧会](../Page/2005年日本国際博覧会.md "wikilink")（愛・地球博）会場間シャトルバス当時のFCHV-BUS ファイル:ANA groundservice-chubu RB-3 FCHV-BUS.jpg|中部国際空港ランプバス ファイル:燃料電池バス-01.jpg|とよたおいでんバス
-（豊田市駅付近にて） ファイル:HySUT 0274.jpg|関西国際空港内シャトルバス ファイル:FCHV-BUS cabin.jpg|愛・地球博バージョンの車内 ファイル:Limousinebus 951-00925FCV FCHV-BUS.jpg|東京空港交通リムジンバス
-（2代目セレガマスク：東京国際空港にて） ファイル:Limousinebus 951-00925FCV FCHV-BUS right.jpg|東京空港交通バージョンの後部 ファイル:Limousinebus 951-00925FCV Cabin.jpg|東京空港交通バージョンの車内 ファイル:Limousinebus 951-00925FCV Cockpit.jpg|運転席 ファイル:Toyota Motor FCHV-BUS ex Limousine Bus 952-00925FCV.jpg|トヨタ自動車に返却された東京空港交通バージョン
+FCHV-BUS2.jpg|2002年の東京モーターショーに出品されていたFCHV-BUS
+（初期型：日野自動車所有） Tobus S-L111 FCHV-BUS.jpg|[東京都交通局](../Page/東京都交通局.md "wikilink")に貸し出されていたFCHV-BUS
+（初期型：[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[台場にて](https://ja.wikipedia.org/wiki/台場_\(東京都港区\) "wikilink")、2003{{～}}2004年） Tobus S-L111 FCHV-BUS rear.jpg|FCHV-BUS初期型の後部
+（東京ビッグサイトにて） Tobus S-L111 cabin.jpg|FCHV-BUS初期型の客室 TOYOTA FCHV Bus.jpg|[2005年日本国際博覧会](../Page/2005年日本国際博覧会.md "wikilink")（愛・地球博）会場間シャトルバス当時のFCHV-BUS ANA groundservice-chubu RB-3 FCHV-BUS.jpg|中部国際空港ランプバス 燃料電池バス-01.jpg|とよたおいでんバス
+（豊田市駅付近にて） HySUT 0274.jpg|関西国際空港内シャトルバス FCHV-BUS cabin.jpg|愛・地球博バージョンの車内 Limousinebus 951-00925FCV FCHV-BUS.jpg|東京空港交通リムジンバス
+（2代目セレガマスク：東京国際空港にて） Limousinebus 951-00925FCV FCHV-BUS right.jpg|東京空港交通バージョンの後部 Limousinebus 951-00925FCV Cabin.jpg|東京空港交通バージョンの車内 Limousinebus 951-00925FCV Cockpit.jpg|運転席 Toyota Motor FCHV-BUS ex Limousine Bus 952-00925FCV.jpg|トヨタ自動車に返却された東京空港交通バージョン
 （2015年の人とくるまのテクノロジー展試乗車）
 
 ### FCバス
@@ -119,21 +119,23 @@
 <!-- end list -->
 
   -
-    上述の各車種での走行実証を踏まえ、[2017年](../Page/2017年.md "wikilink")初頭にトヨタブランドで「トヨタFCバス」として発売が開始される。外観はミラー類が樹脂一体成型品から従来品に変更された事以外は2015年に実証実験を行った車両とほぼ同一である。初年度は同年2月 - 3月にかけて東京都交通局に[リース](../Page/リース.md "wikilink")方式で2台が納入され、同年[3月21日](../Page/3月21日.md "wikilink")より都05-2系統（東京駅丸の内南口 - 東京ビッグサイト）/都05-2急行系統（東京駅丸の内南口 - 東京ビッグサイト）で路線バスとして運行を開始した\[2\]\[3\]\[4\]\[5\]。トヨタブランドでのバス販売はDR15系リアエンジンバスの販売が終了した昭和49年以来43年ぶりである。
+    上述の各車種での走行実証を踏まえ、[2017年](../Page/2017年.md "wikilink")初頭にトヨタブランドで「トヨタFCバス」として発売が開始される。外観はミラー類が樹脂一体成型品から従来品に変更された事以外は2015年に実証実験を行った車両とほぼ同一である。初年度は同年2月 - 3月にかけて東京都交通局に[リース](../Page/リース.md "wikilink")方式で2台が納入され、同年[3月21日](../Page/3月21日.md "wikilink")より都05-2系統（東京駅丸の内南口 - 東京ビッグサイト）/都05-2急行系統（東京駅丸の内南口 - 東京ビッグサイト）で路線バスとして運行を開始した\[2\]\[3\]\[4\]\[5\]。トヨタブランドでの大型バス販売はDR15系リアエンジンバスの販売が終了した1974年以来43年ぶりである。
 
 ### SORA
 
-[Keihin_Kyuko_Bus_SORA_at_Ōimachi_Station_01.jpg](https://ja.wikipedia.org/wiki/File:Keihin_Kyuko_Bus_SORA_at_Ōimachi_Station_01.jpg "fig:Keihin_Kyuko_Bus_SORA_at_Ōimachi_Station_01.jpg") FCバスの後継車種。2017年10月の[東京モーターショー](../Page/東京モーターショー.md "wikilink")で初めて公開された。2018年3月7日にリース販売開始\[6\]。燃料電池車のバスとしては国内で初めて国交省の型式認証を取得し**ZBC-MUM1NAE**となった。[2018年](../Page/2018年.md "wikilink")3月現在、都営バスに3台導入されている\[7\]。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Keihin_Kyuko_Bus_SORA_at_Ōimachi_Station_01.jpg "wikilink") FCバスの後継車種。2017年10月の[東京モーターショー](../Page/東京モーターショー.md "wikilink")で初めて公開された。2018年3月7日にリース販売開始\[6\]。燃料電池車のバスとしては国内で初めて国交省の型式認証を取得し**ZBC-MUM1NAE**\[7\]となった。[2018年](../Page/2018年.md "wikilink")3月現在、都営バスに3台導入されている\[8\]。
 
-2018年9月6日、民間のバス会社では初めて[京浜急行バス](https://ja.wikipedia.org/wiki/京浜急行バス "wikilink")が[2019年](../Page/2019年.md "wikilink")春に導入することを発表した\[8\]。2019年3月より[大井町駅と台場の路線を運行する](../Page/京浜急行バス大森営業所.md "wikilink")。
+2018年9月6日、民間のバス会社では初めて[京浜急行バス](https://ja.wikipedia.org/wiki/京浜急行バス "wikilink")が[2019年](../Page/2019年.md "wikilink")春に導入することを発表\[9\]し、2019年3月より[大井町駅と台場の路線で運行を開始した](../Page/京浜急行バス大森営業所.md "wikilink")。
 
-2018年9月26日、トヨタは、トヨタ自動車と[Toyota Motor Europe (TME)はSORAで確立した路線バス用FCシステムを](https://ja.wikipedia.org/wiki/:en:Toyota_Motor_Europe "wikilink")、ポルトガルのカエタノ・バス社（Caetano Bus SA、[ポルトガル語版](https://ja.wikipedia.org/wiki/:pt:CaetanoBus "wikilink")）に供給すること を発表した\[9\]。
+2018年9月26日、トヨタ自動車と[Toyota Motor Europe (TME)はSORAで確立した路線バス用FCシステムを](https://ja.wikipedia.org/wiki/:en:Toyota_Motor_Europe "wikilink")、ポルトガルのカエタノ・バス社（Caetano Bus SA、[ポルトガル語版](https://ja.wikipedia.org/wiki/:pt:CaetanoBus "wikilink")）に供給することを発表した\[10\]。
 
-2020年4月1日には[東急バス](https://ja.wikipedia.org/wiki/東急バス "wikilink")が[東京駅 - 等々力操車場の路線に導入](https://ja.wikipedia.org/wiki/東急バス目黒営業所 "wikilink")\[10\]、[新常磐交通](../Page/新常磐交通.md "wikilink")でも同じく2020年4月1日にいわき - 鹿島 - 小名浜線に導入している\[11\]\[12\]。
+2019年9月には愛知県豊田市の「[とよたおいでんバス](../Page/とよたおいでんバス.md "wikilink")（土橋・豊田東環状線）」で導入された\[11\]。また、同年10月2日には神奈川県初の事例として[横浜市営バス](../Page/横浜市営バス.md "wikilink")が[横浜港大さん橋国際客船ターミナルシャトルバスで初運行し](../Page/大さん橋.md "wikilink")、今後は[横浜市](../Page/横浜市.md "wikilink")の環境イベント等への出展や[みなとみらい](../Page/みなとみらい.md "wikilink")地区等での路線運行を予定している\[12\]。
+
+2020年4月1日には[東急バス](https://ja.wikipedia.org/wiki/東急バス "wikilink")が[東京駅 - 等々力操車場の路線](https://ja.wikipedia.org/wiki/東急バス目黒営業所 "wikilink")\[13\]に、[新常磐交通](../Page/新常磐交通.md "wikilink")がいわき - 鹿島 - 小名浜線にそれぞれ導入\[14\]\[15\]し、同年7月には[京王バス南](https://ja.wikipedia.org/wiki/京王バス南 "wikilink")が[多摩営業所管轄路線に導入した](../Page/京王バス南・多摩営業所.md "wikilink")\[16\]。
 
 ## その他
 
-[Toyota_L\&F_7FB25_Fuel_Cell_Forklift_at_Eco-Products_2015.jpg](https://ja.wikipedia.org/wiki/File:Toyota_L&F_7FB25_Fuel_Cell_Forklift_at_Eco-Products_2015.jpg "fig:Toyota_L&F_7FB25_Fuel_Cell_Forklift_at_Eco-Products_2015.jpg") トヨタグループでは他に[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")から[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")版として[ムーヴEV-FCとムーヴFCV-K-2](../Page/ダイハツ・ムーヴ.md "wikilink")、[タントFCHVが](../Page/ダイハツ・タント.md "wikilink")、[豊田自動織機](../Page/豊田自動織機.md "wikilink")（トヨタL\&F）からは燃料電池を搭載した[フォークリフト](../Page/フォークリフト.md "wikilink")"FCHV-F"が登場しており、これらには30kWのトヨタ製燃料電池スタックが搭載されている。(RF駆動) {{-}}
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Toyota_L&F_7FB25_Fuel_Cell_Forklift_at_Eco-Products_2015.jpg "wikilink") トヨタグループでは他に[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")から[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")版として[ムーヴEV-FCとムーヴFCV-K-2](../Page/ダイハツ・ムーヴ.md "wikilink")、[タントFCHVが](../Page/ダイハツ・タント.md "wikilink")、[豊田自動織機](../Page/豊田自動織機.md "wikilink")（トヨタL\&F）からは燃料電池を搭載した[フォークリフト](../Page/フォークリフト.md "wikilink")"FCHV-F"が登場しており、これらには30kWのトヨタ製燃料電池スタックが搭載されている。(RF駆動) {{-}}
 
 ## 関連項目
 
@@ -147,6 +149,10 @@
 
 ## 脚注
 
+### 注釈
+
+### 出典
+
 ## 外部リンク
 
   - [燃料電池ハイブリッド車 トヨタFCHV](http://www.toyota.co.jp/jp/tech/environment/fchv/index.html)
@@ -159,10 +165,14 @@
 3.  [都営バスで燃料電池バスによる運行を開始！](http://www.kotsu.metro.tokyo.jp/newsevent/news/bus/2017/bus_p_201702246053_h.html)（2017年2月24日 東京都交通局プレスリリース）
 4.
 5.  [燃料電池バス運行開始のお知らせ](https://www.kotsu.metro.tokyo.jp/pickup_information/news/bus/2017/bus_i_201703156075_h.html)（2017年3月15日 東京都交通局プレスリリース）
-6.  [トヨタ自動車、量販型燃料電池バス「SORA」を発売](https://newsroom.toyota.co.jp/jp/corporate/21862392.html)(トヨタグローバルニュースルーム)2018年3月29日閲覧。
-7.  [量産型燃料電池バスが導入されました](https://www.kotsu.metro.tokyo.jp/pickup_information/news/bus/2018/bus_p_201803287863_h.html)(東京都交通局ホームページ)2018年3月29日閲覧。
-8.  [燃料電池バス「SORA」を導入します！](http://www.keikyu-bus.co.jp/topics/2018/0906_1467.html)(京浜急行バスホームページ)2018年9月7日閲覧。
-9.  [トヨタ、ポルトガルのバス製造会社カエタノ・バス社に燃料電池システムを供給](https://newsroom.toyota.co.jp/jp/corporate/24694662.html) - トヨタ自動車（2018年09月26日発表）2018年10月16日閲覧
-10. [燃料電池バスを導入いたします](https://www.tokyubus.co.jp/news/002169.html) - 東急バス 2020年03月26日発表 2020年5月4日閲覧
+6.
+7.  トヨタ車でありながら日野式の型式となっている。また、日野の一般路線バス（[ブルーリボンや](../Page/日野・ブルーリボン.md "wikilink")[レインボー](../Page/日野・レインボー.md "wikilink")）がいすゞの一般路線バス（[エルガや](../Page/いすゞ・エルガ.md "wikilink")[エルガミオ](https://ja.wikipedia.org/wiki/いすゞ・エルガミオ "wikilink")）との統合モデルに統一されて以降、[ジェイ・バス](../Page/ジェイ・バス.md "wikilink")宇都宮事業所（旧・[いすゞバス製造](../Page/いすゞバス製造.md "wikilink")宇都宮工場）製で統一されたが、SORA（および前身のFCバスやFCHV-BUS）は同社小松事業所（旧・[日野車体工業](../Page/日野車体工業.md "wikilink")小松工場）製であり、2015年にブルーリボンハイブリッドが宇都宮製のエルガタイプの車体に変更されて以来、小松製では唯一のブルーリボンシティタイプの車体で生産される一般路線バスとなっている。
+8.  [量産型燃料電池バスが導入されました](https://www.kotsu.metro.tokyo.jp/pickup_information/news/bus/2018/bus_p_201803287863_h.html)(東京都交通局ホームページ)2018年3月29日閲覧。
+9.  [燃料電池バス「SORA」を導入します！](http://www.keikyu-bus.co.jp/topics/2018/0906_1467.html)(京浜急行バスホームページ)2018年9月7日閲覧。
+10.
 11.
 12.
+13. [燃料電池バスを導入いたします](https://www.tokyubus.co.jp/news/002169.html) - 東急バス 2020年3月26日発表 2020年5月4日閲覧
+14.
+15.
+16. [環境にやさしい燃料電池バスを導入しました](https://www.keio-bus.com/news/d9fa9e5e2983caaa4c33.pdf) - 京王バス 2020年7月1日発表 2020年7月17日閲覧

@@ -10,7 +10,7 @@
 <!-- end list -->
 
   -
-    [ボケ担当](https://ja.wikipedia.org/wiki/漫才#ボケとツッコミ "wikilink")、（アリ）　[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")出身、[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")
+    [ボケ担当](https://ja.wikipedia.org/wiki/漫才#ボケとツッコミ "wikilink")、（アリ）　[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")出身、[O型](../Page/ABO式血液型.md "wikilink")
     現在も[ホリプロ](../Page/ホリプロ.md "wikilink")に所属。
 
 <!-- end list -->

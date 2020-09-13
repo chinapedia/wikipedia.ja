@@ -37,9 +37,12 @@ BETTIMEが終了するとフィーチャーとしてEXTRASPOT(最高2個)とBING
 
 曲はオリジナルとなっており、全部で3種類の曲が用意されている。使用されるシーンは、BETを受け付けているとき、抽選(前半)、抽選(後半)である。後継作のMULTICARDでも同じ曲が使われているが、後半BGMのテンポが若干早くなっている。
 
-## 関連記事
+## 関連項目
 
   - [BINGO PARTY MULTICARD](https://ja.wikipedia.org/wiki/BINGO_PARTY_MULTICARD "wikilink")
   - [BINGO PARTY PHOENIX](../Page/BINGO_PARTY_PHOENIX.md "wikilink")
+  - [BINGO PARTY SPLASH](../Page/BINGO_PARTY_SPLASH.md "wikilink")
+  - [BINGO PARTY SPLASH SP](../Page/BINGO_PARTY_SPLASH_SP.md "wikilink")
+  - [BINGO PARTY PIRATES](../Page/BINGO_PARTY_PIRATES.md "wikilink")
 
 [Category:セガのメダルゲーム](https://ja.wikipedia.org/wiki/Category:セガのメダルゲーム "wikilink") [Category:1992年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1992年のコンピュータゲーム "wikilink")

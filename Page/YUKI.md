@@ -14,7 +14,7 @@
   - ユキ または YUKI - 元[YeLLOW Generationのメンバー](../Page/YeLLOW_Generation.md "wikilink")。
   - YUKI または 由紀 - 元[Whiteberry](../Page/Whiteberry.md "wikilink")のヴォーカル。
   - YUKI - 元[Λucifer](../Page/Λucifer.md "wikilink")のギター、現[DUSTAR-3](https://ja.wikipedia.org/wiki/DUSTAR-3 "wikilink")のギター&ヴォーカル。男性。本名は[結城雅彦](https://ja.wikipedia.org/wiki/結城雅彦 "wikilink")
-  - YUKI または [徐懷鈺](../Page/徐懐ギョク.md "wikilink") - [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の女性歌手。
+  - YUKI または [徐懐鈺](../Page/徐懐鈺.md "wikilink") - [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の女性歌手。
   - YUKI - [Versaillesのドラマー](../Page/Versailles_\(バンド\).md "wikilink")。
   - Yuki - [D_Drive](https://ja.wikipedia.org/wiki/D_Drive "wikilink")のギタリスト。
   - [岡崎友紀](../Page/岡崎友紀.md "wikilink")が[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に[ドゥー・ユー・リメンバー・ミー](../Page/ドゥー・ユー・リメンバー・ミー.md "wikilink")を歌った時の名義。

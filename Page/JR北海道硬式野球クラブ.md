@@ -50,7 +50,7 @@
 
 ## 元プロ野球選手の競技者登録
 
-  - 武藤好貴（元：[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")） - 投手（2018年～）
+  - 武藤好貴（元：[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")） - 投手（2018～2019年）
   - [立田将太](https://ja.wikipedia.org/wiki/立田将太 "wikilink")（元：[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")） - 投手（2020年～）
 
 ## 主な在籍選手

@@ -257,7 +257,7 @@
 
 ### DVD
 
-1.  **[BEING LEGEND Live Tour 2012](https://ja.wikipedia.org/wiki/BEING_LEGEND_Live_Tour_2012 "wikilink")** （2012/4/10、[T-BOLAN](../Page/T-BOLAN.md "wikilink")、[FIELD OF VIEW](../Page/FIELD_OF_VIEW.md "wikilink")、[DEEN](../Page/DEEN.md "wikilink")と共演）
+1.  **[BEING LEGEND Live Tour 2012](https://ja.wikipedia.org/wiki/BEING_LEGEND_Live_Tour_2012 "wikilink")** （2013/4/10、[T-BOLAN](../Page/T-BOLAN.md "wikilink")、[FIELD OF VIEW](../Page/FIELD_OF_VIEW.md "wikilink")、[DEEN](../Page/DEEN.md "wikilink")と共演）
 
 ## タイアップ
 
@@ -307,7 +307,7 @@
 
   - [B.B.クィーンズ公式サイト](http://www.b-b-queens.com/)
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:ビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:ビーイング系列所属者 "wikilink") [Category:オリコン年間シングルチャート1位獲得アーティスト](https://ja.wikipedia.org/wiki/Category:オリコン年間シングルチャート1位獲得アーティスト "wikilink") [Category:栗林誠一郎](https://ja.wikipedia.org/wiki/Category:栗林誠一郎 "wikilink") [Category:覆面ミュージシャン](https://ja.wikipedia.org/wiki/Category:覆面ミュージシャン "wikilink") [Category:日本レコード大賞受賞者](https://ja.wikipedia.org/wiki/Category:日本レコード大賞受賞者 "wikilink") [Category:1990年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1990年に結成した音楽グループ "wikilink") [Category:1993年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1993年に解散した音楽グループ "wikilink") [Category:2011年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2011年に再結成した音楽グループ "wikilink")
+[Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:覆面ミュージシャン](https://ja.wikipedia.org/wiki/Category:覆面ミュージシャン "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:ビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:ビーイング系列所属者 "wikilink") [Category:オリコン年間シングルチャート1位獲得アーティスト](https://ja.wikipedia.org/wiki/Category:オリコン年間シングルチャート1位獲得アーティスト "wikilink") [Category:栗林誠一郎](https://ja.wikipedia.org/wiki/Category:栗林誠一郎 "wikilink") [Category:日本レコード大賞受賞者](https://ja.wikipedia.org/wiki/Category:日本レコード大賞受賞者 "wikilink") [Category:1990年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1990年に結成した音楽グループ "wikilink") [Category:1993年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1993年に解散した音楽グループ "wikilink") [Category:2011年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2011年に再結成した音楽グループ "wikilink")
 
 1.  [B.B.クイーンズが19年ぶり再始動 結成20周年で初ライブ決定](http://www.oricon.co.jp/news/music/85147/full/)、ORICON STYLE、2011年2月24日。
 2.  『読売新聞』1990年11月11日付東京朝刊2部、4頁。

@@ -45,7 +45,7 @@
 
 ## 関連項目
 
-  - [DRAMATIC BASEBALL](../Page/Fun!BASEBALL!!.md "wikilink")（ABSテレビ）
+  - [DRAMATIC BASEBALL](../Page/DRAMATIC_BASEBALL.md "wikilink")（ABSテレビ）
 
 [Category:秋田放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:秋田放送のラジオ番組 "wikilink") [Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink")
 

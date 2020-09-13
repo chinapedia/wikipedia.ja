@@ -1,7 +1,7 @@
 > この記事は[MacUser日本版](https://ja.wikipedia.org/wiki/MacUser日本版)から翻訳されています。
 
 
-『**MacUser日本版**』（マックユーザーにほんばん）は、かつて[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")が発行していた、[Macintosh](../Page/Macintosh.md "wikilink")専門のコンピュータ雑誌。編集長は松尾公也。[1993年](../Page/1993年.md "wikilink")10月創刊、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")3月休刊。
+『**MacUser日本版**』（マックユーザーにほんばん）は、かつて[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")が発行していた、[Macintosh](../Page/Macintosh.md "wikilink")専門のコンピュータ雑誌。編集長は松尾公也。[1993年](../Page/1993年.md "wikilink")11月創刊、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")3月休刊。
 
 アメリカの雑誌『』の日本語版として、[アップルコンピュータ周辺ニュースや製品レビューを翻訳掲載するほか](../Page/アップル_\(企業\).md "wikilink")、日本独自取材のニュースをアメリカ版のMacUser・に提供したり、ソフトウェアの体験版や読者投稿コンテンツをCD-ROMに収録して提供していた。またMacintosh専門の月刊誌としては初めて、毎月付録にCD-ROM（*MACBIN*と言う名称がつけられていた）をつけた。
 

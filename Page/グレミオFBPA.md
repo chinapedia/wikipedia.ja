@@ -1,13 +1,13 @@
 > この記事は[グレミオFBPA](https://ja.wikipedia.org/wiki/グレミオFBPA)から翻訳されています。
 
 
-**グレミオ・フットボール・ポルト・アレグレンセ** () 、通称**グレミオ** (Grêmio) は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[リオグランデ・ド・スル州](../Page/リオグランデ・ド・スル州.md "wikilink")の州都[ポルト・アレグレ](../Page/ポルト・アレグレ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。グレミオは[ブラジルポルトガル語](../Page/ブラジルポルトガル語.md "wikilink")で、団体・組織・組合・クラブを意味する。グレーミオと表記されることもある。
+**グレミオ・フット＝ボール・ポルト・アレグレンシ** () 、通称**グレミオ** (Grêmio) は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[リオグランデ・ド・スル州](../Page/リオグランデ・ド・スル州.md "wikilink")の州都[ポルト・アレグレ](../Page/ポルト・アレグレ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。グレミオは[ブラジルポルトガル語](../Page/ブラジルポルトガル語.md "wikilink")で、団体・組織・組合・クラブを意味する。グレーミオと表記されることもある。
 
 ## 概要
 
-1903年にドイツ系移民によって創立された。[リオグランデ・ド・スル州選手権](https://ja.wikipedia.org/wiki/カンピオナート・ガウショ "wikilink")33回優勝のほか、[ブラジル全国選手権](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink")4回、[コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink")2回、[トヨタカップ](../Page/インターコンチネンタルカップ_\(サッカー\).md "wikilink")1回優勝を経験している。その伝統的なプレースタイルは、激しくスピード感にあふれ、ヨーロッパのスタイルに近い。同じポルト・アレグレを本拠地とする[SCインテルナシオナル](../Page/SCインテルナシオナル.md "wikilink")とはライバル関係にあり、その試合は「Gre-Nal (グレ-ナウ) 」と呼ばれるポルト・アレグレ伝統のクラシコとして盛り上がる。ブラジル全国で7番目に人気のあるクラブで、リオグランデ・ド・スル州で1番人気のあるクラブである。\[1\]
+1903年にドイツ系移民によって創立された。[リオグランデ・ド・スル州選手権](https://ja.wikipedia.org/wiki/カンピオナート・ガウショ "wikilink")33回優勝のほか、[ブラジル全国選手権](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink")4回、[コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink")2回、[トヨタカップ](../Page/インターコンチネンタルカップ_\(サッカー\).md "wikilink")1回優勝を経験している。その伝統的なプレースタイルは、激しくスピード感にあふれ、ヨーロッパのスタイルに近い。同じポルト・アレグレを本拠地とする[SCインテルナシオナル](../Page/SCインテルナシオナル.md "wikilink")とはライバル関係にあり、その試合は「Gre-Nal (グレ＝ナウ) 」と呼ばれるポルト・アレグレ伝統のクラシコとして盛り上がる。ブラジル全国で7番目に人気のあるクラブで、リオグランデ・ド・スル州で1番人気のあるクラブである\[1\]。
 
-また、1997年から2000年までは日本の[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（98年までは[旧JFL](../Page/ジャパンフットボールリーグ.md "wikilink")）の[川崎フロンターレ](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")と提携し、日本人選手の留学受け入れや[ブラジル人](https://ja.wikipedia.org/wiki/ブラジル人 "wikilink")選手の斡旋などを行っていた。川崎のユニフォームやエンブレムはグレミオを模した物となり、2001年の提携解消後も川崎はグレミオ提携時からのチームカラーである水色と黒を継承している。2013年[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")所属の [FC大阪](https://ja.wikipedia.org/wiki/FC大阪 "wikilink") とクラブ提携を結んでいる。
+また、1997年から2000年までは日本の[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（98年までは[旧JFL](../Page/ジャパンフットボールリーグ.md "wikilink")）の[川崎フロンターレ](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")と提携し、日本人選手の留学受け入れや[ブラジル人](https://ja.wikipedia.org/wiki/ブラジル人 "wikilink")選手の斡旋などを行っていた。川崎のユニフォームやエンブレムはグレミオを模した物となり、2001年の提携解消後も川崎はグレミオ提携時からのチームカラーである水色と黒を継承している。2013年より[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")所属の [FC大阪](https://ja.wikipedia.org/wiki/FC大阪 "wikilink") とクラブ提携を結んでいる。
 
 ## タイトル
 
@@ -15,29 +15,14 @@
 
   - **[カンピオナート・ブラジレイロ・セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") : 2回** [CBF_-_Brazilian_Championship.svg](https://ja.wikipedia.org/wiki/File:CBF_-_Brazilian_Championship.svg "fig:CBF_-_Brazilian_Championship.svg") [CBF_-_Brazilian_Championship.svg](https://ja.wikipedia.org/wiki/File:CBF_-_Brazilian_Championship.svg "fig:CBF_-_Brazilian_Championship.svg")
       - [1981](https://ja.wikipedia.org/wiki/1981_カンピオナート・ブラジレイロ・セリエA "wikilink"), [1996](https://ja.wikipedia.org/wiki/1996_カンピオナート・ブラジレイロ・セリエA "wikilink")
-
-<!-- end list -->
-
   - **[カンピオナート・ブラジレイロ・セリエB](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエB "wikilink") : 1回**
       - 2005
-
-<!-- end list -->
-
   - **[コパ・ド・ブラジル](https://ja.wikipedia.org/wiki/コパ・ド・ブラジル "wikilink") : 5回** [CBF_Brazilian_Cup.png](https://ja.wikipedia.org/wiki/File:CBF_Brazilian_Cup.png "fig:CBF_Brazilian_Cup.png")[CBF_Brazilian_Cup.png](https://ja.wikipedia.org/wiki/File:CBF_Brazilian_Cup.png "fig:CBF_Brazilian_Cup.png")[CBF_Brazilian_Cup.png](https://ja.wikipedia.org/wiki/File:CBF_Brazilian_Cup.png "fig:CBF_Brazilian_Cup.png")[CBF_Brazilian_Cup.png](https://ja.wikipedia.org/wiki/File:CBF_Brazilian_Cup.png "fig:CBF_Brazilian_Cup.png")[CBF_Brazilian_Cup.png](https://ja.wikipedia.org/wiki/File:CBF_Brazilian_Cup.png "fig:CBF_Brazilian_Cup.png")
       - 1989, 1994, 1997, 2001, 2016
-
-<!-- end list -->
-
   - **[スーペルコパ・ド・ブラジル](https://ja.wikipedia.org/wiki/スーペルコパ・ド・ブラジル "wikilink") : 1回** [SuperCopaBrasil.jpg](https://ja.wikipedia.org/wiki/File:SuperCopaBrasil.jpg "fig:SuperCopaBrasil.jpg")
       - 1990
-
-<!-- end list -->
-
   - **[コパ・スル＝ミナス](https://ja.wikipedia.org/wiki/コパ・スル＝ミナス "wikilink") : 1回**
       - 1999
-
-<!-- end list -->
-
   - **[リオグランデ・ド・スル州選手権](https://ja.wikipedia.org/wiki/カンピオナート・ガウショ "wikilink") : 36回**
       - 1921, 1922, 1926, 1931, 1932, 1946, 1949, 1956, 1957, 1958, 1959, 1960, 1962, 1963, 1964,
         1965, 1966, 1967, 1968, 1977, 1979, 1980, 1985, 1986, 1987, 1988, 1989, 1990, 1993, 1995,
@@ -47,19 +32,10 @@
 
   - **[インターコンチネンタルカップ](../Page/インターコンチネンタルカップ_\(サッカー\).md "wikilink") : 1回**
       - 1983
-
-<!-- end list -->
-
   - **[コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink") : 3回**
       - [1983](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス1983 "wikilink"), [1995](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス1995 "wikilink"), [2017](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス2017 "wikilink")
-
-<!-- end list -->
-
   - **[レコパ・スダメリカーナ](../Page/レコパ・スダメリカーナ.md "wikilink") : 1回**
       - 1996
-
-<!-- end list -->
-
   - **[サンワバンクカップ](../Page/サンワバンクカップ.md "wikilink") : 1回**
       - 1995
 
@@ -92,7 +68,7 @@
 
 ## 現所属メンバー
 
-  - [2018年](../Page/2018年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[8月14日](../Page/8月14日.md "wikilink")現在
 
 <!-- end list -->
 
@@ -117,4 +93,4 @@
 
 [Category:ブラジルのサッカークラブ](https://ja.wikipedia.org/wiki/Category:ブラジルのサッカークラブ "wikilink") [Category:ポルト・アレグレのスポーツ](https://ja.wikipedia.org/wiki/Category:ポルト・アレグレのスポーツ "wikilink") [Category:1903年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1903年設立のスポーツチーム "wikilink")
 
-1.  <http://www.lanacion.com.ar/642142-flamengo-el-equipo-mas-popular-de-brasil>
+1.  [Flamengo, el equipo más popular de Brasil](http://www.lanacion.com.ar/642142-flamengo-el-equipo-mas-popular-de-brasil) [ラ・ナシオン](../Page/ラ・ナシオン.md "wikilink") 2004年10月4日

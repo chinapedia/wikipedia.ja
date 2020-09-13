@@ -113,12 +113,12 @@
 
 ## かつて在籍していた主な選手
 
-  - [河原井正雄](../Page/河原井正雄.md "wikilink")（[内野手](../Page/内野手.md "wikilink")） - 選手として在籍し、引退後にマネージャーを務めた。現在は、[青山学院大学硬式野球部](../Page/青山学院大学硬式野球部.md "wikilink")の監督。
-  - [筑川利希也](https://ja.wikipedia.org/wiki/筑川利希也 "wikilink")（[投手](../Page/投手.md "wikilink")） - 選手として在籍。[第80回都市対抗野球大会](https://ja.wikipedia.org/wiki/第80回都市対抗野球大会 "wikilink")で[橋戸賞](https://ja.wikipedia.org/wiki/橋戸賞 "wikilink")を受賞。現在は当部のコーチ
-  - [斎藤義典](../Page/斎藤義典.md "wikilink")（投手） - [近鉄バファローズからの](../Page/大阪近鉄バファローズ.md "wikilink")ドラフト5位指名を拒否し入団。
-  - [衣川隆夫](../Page/衣川隆夫.md "wikilink")（[捕手](../Page/捕手.md "wikilink")、[外野手](../Page/外野手.md "wikilink")） - 選手として在籍。引退後は、[日本大学硬式野球部](../Page/日本大学硬式野球部.md "wikilink")のコーチを務めた。
+  - [河原井正雄](../Page/河原井正雄.md "wikilink")（[内野手](../Page/内野手.md "wikilink")） - 選手として在籍し、引退後にマネージャーを務めた。その後は、[青山学院大学硬式野球部](../Page/青山学院大学硬式野球部.md "wikilink")の監督。子息も投手、マネージャーで在籍した。
+  - [筑川利希也](https://ja.wikipedia.org/wiki/筑川利希也 "wikilink")（[投手](../Page/投手.md "wikilink")） - 選手として在籍。[第80回都市対抗野球大会](https://ja.wikipedia.org/wiki/第80回都市対抗野球大会 "wikilink")で[橋戸賞](https://ja.wikipedia.org/wiki/橋戸賞 "wikilink")を受賞。コーチも歴任。
+  - [斎藤義典](../Page/斎藤義典.md "wikilink")（投手） - [近鉄バファローズからの](../Page/大阪近鉄バファローズ.md "wikilink")ドラフト5位指名を拒否し入団。翌年には移籍した。
+  - [衣川隆夫](../Page/衣川隆夫.md "wikilink")（[捕手](../Page/捕手.md "wikilink")、[外野手](../Page/外野手.md "wikilink")） - 選手として在籍。引退後は、[日本大学硬式野球部](../Page/日本大学硬式野球部.md "wikilink")のコーチ、監督代行を務めた。
   - [諏訪部貴大](https://ja.wikipedia.org/wiki/諏訪部貴大 "wikilink")（投手） - 選手として在籍。[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")からのドラフト6位指名を拒否し残留。
-  - [西郷泰之](../Page/西郷泰之.md "wikilink")（内野手） - 選手として在籍。[アトランタオリンピック](../Page/1996年アトランタオリンピックの野球競技.md "wikilink")[日本代表](../Page/1996年アトランタオリンピックの野球競技・日本代表.md "wikilink")。「**ミスター社会人**」の異名を取った。現在は筑川と同じく当部のコーチをしている。
+  - [西郷泰之](../Page/西郷泰之.md "wikilink")（内野手） - 選手として在籍。[アトランタオリンピック](../Page/1996年アトランタオリンピックの野球競技.md "wikilink")[日本代表](../Page/1996年アトランタオリンピックの野球競技・日本代表.md "wikilink")。「**ミスター社会人**」の異名を取った。コーチも歴任。
   - [黒沢征治](https://ja.wikipedia.org/wiki/黒沢征治 "wikilink")（[投手](../Page/投手.md "wikilink")） - 選手として在籍。退部後に[日本競輪学校](https://ja.wikipedia.org/wiki/日本競輪学校 "wikilink")に113期生として入学。現在は[日本競輪選手会](https://ja.wikipedia.org/wiki/日本競輪選手会 "wikilink")埼玉支部所属の競輪選手。
 
 ## 脚注

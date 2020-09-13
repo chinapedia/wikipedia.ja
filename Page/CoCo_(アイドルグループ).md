@@ -642,7 +642,7 @@ CoCo was CoCo made</p></td>
   - [伊集院光](../Page/伊集院光.md "wikilink")
   - [斉藤一美](../Page/斉藤一美.md "wikilink")
 
-[Category:CoCo](https://ja.wikipedia.org/wiki/Category:CoCo "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:横浜DeNAベイスターズ関連人物](https://ja.wikipedia.org/wiki/Category:横浜DeNAベイスターズ関連人物 "wikilink") [Category:乙女塾](https://ja.wikipedia.org/wiki/Category:乙女塾 "wikilink") [Category:フジテレビの番組発のグループ](https://ja.wikipedia.org/wiki/Category:フジテレビの番組発のグループ "wikilink") [Category:過去のプロダクション尾木所属者](https://ja.wikipedia.org/wiki/Category:過去のプロダクション尾木所属者 "wikilink") [Category:1994年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1994年に解散した音楽グループ "wikilink")
+[Category:CoCo](https://ja.wikipedia.org/wiki/Category:CoCo "wikilink") [Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:横浜DeNAベイスターズ関連人物](https://ja.wikipedia.org/wiki/Category:横浜DeNAベイスターズ関連人物 "wikilink") [Category:乙女塾](https://ja.wikipedia.org/wiki/Category:乙女塾 "wikilink") [Category:フジテレビの番組発のグループ](https://ja.wikipedia.org/wiki/Category:フジテレビの番組発のグループ "wikilink") [Category:過去のプロダクション尾木所属者](https://ja.wikipedia.org/wiki/Category:過去のプロダクション尾木所属者 "wikilink") [Category:1994年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1994年に解散した音楽グループ "wikilink")
 
 1.
 2.  [岡島紳士](https://ja.wikipedia.org/wiki/岡島紳士 "wikilink")、[岡田康宏](https://ja.wikipedia.org/wiki/岡田康宏 "wikilink")『グループアイドル進化論: 「アイドル戦国時代」がやってきた\!』2011年、198ページ

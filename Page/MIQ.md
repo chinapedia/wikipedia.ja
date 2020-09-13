@@ -1,7 +1,7 @@
 > この記事は[MIQ](https://ja.wikipedia.org/wiki/MIQ)から翻訳されています。
 
 
-**MIQ**（みく、[10月3日](../Page/10月3日.md "wikilink") - ）は、[東京都](../Page/東京都.md "wikilink")出身の歌手・ヴォーカルトレーナー。[血液型はAB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[芸能トータルプロデュース hiMe story](https://himestory.com/)所属。
+**MIQ**（みく、[10月3日](../Page/10月3日.md "wikilink") - ）は、[東京都](../Page/東京都.md "wikilink")出身の歌手・ヴォーカルトレーナー。[血液型はAB型](../Page/ABO式血液型.md "wikilink")。[芸能トータルプロデュース hiMe story](https://himestory.com/)所属。
 
 ## 人物
 

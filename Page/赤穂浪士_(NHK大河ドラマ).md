@@ -161,7 +161,7 @@
   - 春山権之丞：[杉浦宏策](https://ja.wikipedia.org/wiki/杉浦宏策 "wikilink")
   - 浮橋太夫：[越路吹雪](../Page/越路吹雪.md "wikilink")
   - [新井白石](../Page/新井白石.md "wikilink")：[尾上松緑](../Page/尾上松緑_\(2代目\).md "wikilink")
-  - [山田宗偏](../Page/山田宗偏.md "wikilink")：[柳永二郎](https://ja.wikipedia.org/wiki/柳永二郎 "wikilink")
+  - [山田宗徧](../Page/山田宗徧.md "wikilink")：[柳永二郎](https://ja.wikipedia.org/wiki/柳永二郎 "wikilink")
   - [羽倉斎宮](../Page/荷田春満.md "wikilink")：[北村和夫](../Page/北村和夫.md "wikilink")
   - [宝井其角](../Page/宝井其角.md "wikilink")：[田崎潤](../Page/田崎潤.md "wikilink")
   - 三国屋市左衛門：[下條正巳](../Page/下條正巳.md "wikilink")

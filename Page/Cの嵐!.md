@@ -101,7 +101,7 @@
 <td><p>二宮</p></td>
 <td><p><a href="../Page/不動産会社.md" title="wikilink">不動産会社</a><br />
 トータルコミュニケーションサービス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/不動産" title="wikilink">不動産</a>の物件</p></td>
+<td><p><a href="../Page/不動産.md" title="wikilink">不動産</a>の物件</p></td>
 </tr>
 <tr class="odd">
 <td><p>相葉・大野・櫻井</p></td>
@@ -368,7 +368,7 @@ ZOO</p></td>
 <td><p>松本・大野</p></td>
 <td><p><a href="../Page/不動産会社.md" title="wikilink">不動産会社</a><br />
 トータルコミュニケーションサービス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/不動産" title="wikilink">不動産</a>の物件、<a href="../Page/敷金.md" title="wikilink">敷金</a></p></td>
+<td><p><a href="../Page/不動産.md" title="wikilink">不動産</a>の物件、<a href="../Page/敷金.md" title="wikilink">敷金</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>29</p></td>

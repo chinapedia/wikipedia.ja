@@ -15,16 +15,21 @@
 
 ## 配信番組
 
+## 脚注
+
 ## 関連項目
 
-## 脚注
+  - [EZチャンネルプラス](../Page/EZチャンネルプラス.md "wikilink")
+      - [LISMO Channel](https://ja.wikipedia.org/wiki/LISMO_Channel "wikilink")
+  - [LISMO Video](../Page/LISMO_Video.md "wikilink")
+  - [TELASA](https://ja.wikipedia.org/wiki/TELASA "wikilink")
 
 ## 外部リンク
 
   - [EZチャンネル](http://www.au.kddi.com/ez_channel/index.html)
   - [EZチャンネル - KDDI用語集](http://www.kddi.com/yogo/KDDI%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/EZ%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB.html)
 
-[Category:携帯電話_(au)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(au\) "wikilink") [Category:EZチャンネル](https://ja.wikipedia.org/wiki/Category:EZチャンネル "wikilink")
+[Category:EZチャンネル](https://ja.wikipedia.org/wiki/Category:EZチャンネル "wikilink")
 
 1.
 2.

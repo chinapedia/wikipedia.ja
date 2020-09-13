@@ -1,7 +1,7 @@
 > この記事は[YOMI](https://ja.wikipedia.org/wiki/YOMI)から翻訳されています。
 
 
-**YOMI/黄泉**（ヨミ、[1981年](../Page/1981年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[ヴォーカリスト](../Page/歌手.md "wikilink")、[作詞家](../Page/作詞家.md "wikilink")であり、ロックバンド[ナイトメアの](../Page/ナイトメア_\(バンド\).md "wikilink")[ヴォーカルである](https://ja.wikipedia.org/wiki/ボーカル "wikilink")。弟はコミックバンド[仙台貨物](../Page/仙台貨物.md "wikilink")の[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")、イガグリ千葉（という設定）。[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[大崎市](https://ja.wikipedia.org/wiki/大崎市 "wikilink")（旧・[古川市](https://ja.wikipedia.org/wiki/古川市 "wikilink")）出身。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**YOMI/黄泉**（ヨミ、[1981年](../Page/1981年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[ヴォーカリスト](../Page/歌手.md "wikilink")、[作詞家](../Page/作詞家.md "wikilink")であり、ロックバンド[ナイトメアの](../Page/ナイトメア_\(バンド\).md "wikilink")[ヴォーカルである](https://ja.wikipedia.org/wiki/ボーカル "wikilink")。弟はコミックバンド[仙台貨物](../Page/仙台貨物.md "wikilink")の[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")、イガグリ千葉（という設定）。[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[大崎市](https://ja.wikipedia.org/wiki/大崎市 "wikilink")（旧・[古川市](https://ja.wikipedia.org/wiki/古川市 "wikilink")）出身。[血液型はA型](../Page/ABO式血液型.md "wikilink")。
 
 ## 来歴
 

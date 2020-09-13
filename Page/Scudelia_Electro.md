@@ -712,16 +712,16 @@ TOUR“FINALIZER”2005.6.17.SHIBUYA AX</strong></p></td>
 
 ## ミュージックビデオ
 
-|                                                                     |                        |
-| ------------------------------------------------------------------- | ---------------------- |
-| **監督**                                                              | **曲名**                 |
-| Shokichi Ishida/黒田智之                                                | 「太陽道路」                 |
-| [黒田至恭](https://ja.wikipedia.org/wiki/黒田至恭 "wikilink")               | 「Rainy Day」「一万マイルの彼方へ」 |
-| [黒田智之](https://ja.wikipedia.org/wiki/黒田智之 "wikilink")               | 「Shout it Loud」        |
-| [丹修一](../Page/丹修一.md "wikilink")                                    | 「BETTER DAYS」「TRUTH」   |
-| [Higuchinsky](https://ja.wikipedia.org/wiki/Higuchinsky "wikilink") | 「Rock'n roll missing」  |
-| 不明                                                                  | 「MISS」「Rainbow」「white」 |
-|                                                                     |                        |
+|                                                       |                        |
+| ----------------------------------------------------- | ---------------------- |
+| **監督**                                                | **曲名**                 |
+| Shokichi Ishida/黒田智之                                  | 「太陽道路」                 |
+| [黒田至恭](https://ja.wikipedia.org/wiki/黒田至恭 "wikilink") | 「Rainy Day」「一万マイルの彼方へ」 |
+| [黒田智之](https://ja.wikipedia.org/wiki/黒田智之 "wikilink") | 「Shout it Loud」        |
+| [丹修一](../Page/丹修一.md "wikilink")                      | 「BETTER DAYS」「TRUTH」   |
+| [Higuchinsky](../Page/Higuchinsky.md "wikilink")      | 「Rock'n roll missing」  |
+| 不明                                                    | 「MISS」「Rainbow」「white」 |
+|                                                       |                        |
 
 ## 外部リンク
 

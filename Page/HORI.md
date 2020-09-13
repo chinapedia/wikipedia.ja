@@ -12,7 +12,7 @@
   - ホリコマンダー
     [ファミコンの](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")[連射](../Page/連射.md "wikilink")付き外付け[パッド](../Page/ゲームパッド.md "wikilink")。ABボタンは丸型。連射機能は三段階に調節可能で32、64、128連射の三段階の連射が可能である。
 
-  - 「ファイティングスティック」シリーズ:[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")版『[ストリートファイターII](../Page/ストリートファイターII.md "wikilink")』発売当時から製造が始まり、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")現在[プレイステーション3用や](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用、[Xbox 360用も発売されている汎用型](../Page/Xbox_360.md "wikilink")[ジョイスティック](../Page/ジョイスティック.md "wikilink")。
+  - 「ファイティングスティック」シリーズ:[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")版『[ストリートファイターII](../Page/ストリートファイターII.md "wikilink")』発売当時から製造が始まり、[2020年](../Page/2020年.md "wikilink")現在[プレイステーション4と](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")[PC用に対応したモデルが出ている](../Page/パーソナルコンピュータ.md "wikilink")[ジョイスティック](../Page/ジョイスティック.md "wikilink")。
     よりアーケードゲームに近い操作感を求めていく開発コンセプトが後述の「リアルアーケード」シリーズへと反映されていく事になる。
 
   - 「ファイティングコマンダー」シリーズ:ジョイスティックを使う機会が少ないライトユーザーが格闘ゲームを遊びやすくするために、主要なボタンを前面に配置した連射付きパッド（一部連射機能のない商品もある）。
@@ -25,8 +25,8 @@
     [エースコンバット7 スカイズ・アンノウン用に発売された](https://ja.wikipedia.org/wiki/エースコンバット7_スカイズ・アンノウン "wikilink")\[2\]。[ライトバー](https://ja.wikipedia.org/wiki/ライトバー "wikilink")、スピーカー、[モーションセンサー](https://ja.wikipedia.org/wiki/モーションセンサー "wikilink")機能は非搭載。
 
   - リアルアーケードVF:[セガサターン](../Page/セガサターン.md "wikilink")用のジョイスティック型コントローラ。アーケードゲーム筐体と同じ部品（以下、業務用部品）を使用している。「VF」とは『[バーチャファイター](https://ja.wikipedia.org/wiki/バーチャファイター "wikilink")』のことであり、ボタンが3つしかないなど、ほぼ専用設計である。
-    リアルアーケードPro シリーズ:[プレイステーションシリーズ用のジョイスティック型コントローラ](../Page/PlayStation_\(ゲーム機\).md "wikilink")。こちらも業務用部品を使用している。ただし、通常モデルはレバーのみが業務用部品の三和電子製JLF-TP-8Y-SKだが、ボタンも業務用部品を使用した特別モデルが存在する。通常モデルもボタンの寸法は業務用と同等のため、ユーザー側で容易に部品を入れ替えることができる。特別モデルにはレバーおよびボタンが[セイミツ工業](https://ja.wikipedia.org/wiki/セイミツ工業 "wikilink")製の「リアルアーケードPro SE」や[三和電子](https://ja.wikipedia.org/wiki/三和電子 "wikilink")製のリアルアーケードPro SA、リアルアーケードPro2 SAがある。
-    [プレイステーション2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[プレイステーション3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[Xbox 360](../Page/Xbox_360.md "wikilink")、[プレイステーション4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")、[Xbox Oneといった新世代のゲーム機用のものや](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")、リアルアーケードProの名を冠さないものの様々なシューティングゲームや格闘ゲームとのコラボレーションモデルも存在する。
+    リアルアーケードPro シリーズ:主に[プレイステーションシリーズに発売されているジョイスティック型コントローラ](../Page/PlayStation_\(ゲーム機\).md "wikilink")。こちらも業務用部品を使用している。ただし、通常モデルはレバーのみが業務用部品の三和電子製JLF-TP-8Y-SKだが、ボタンも業務用部品を使用した特別モデルが存在する。通常モデルもボタンの寸法は業務用と同等のため、ユーザー側で容易に部品を入れ替えることができる。特別モデルにはレバーおよびボタンが[セイミツ工業](https://ja.wikipedia.org/wiki/セイミツ工業 "wikilink")製の「リアルアーケードPro SE」や[三和電子](https://ja.wikipedia.org/wiki/三和電子 "wikilink")製のリアルアーケードPro SA、リアルアーケードPro2 SAがある。
+    [プレイステーション2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[プレイステーション3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[Xbox 360](../Page/Xbox_360.md "wikilink")、プレイステーション4、[Xbox Oneといった新世代のゲーム機用のものや](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")、リアルアーケードProの名を冠さないものの様々なシューティングゲームや格闘ゲームとのコラボレーションモデルも存在する。
 
   - リアルアーケードPro VLX:[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")のアーケード筐体「[VEWLIX](https://ja.wikipedia.org/wiki/VEWLIX "wikilink")」を外観上のモデルにしたもの。
     [Ezplusコントローラ](../Page/Ezplusコントローラ.md "wikilink"):詳細は当該項目を参照。[au携帯電話用ゲームアプリ用のコントローラ](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")。
@@ -97,6 +97,8 @@
 
   - わいわい雀荘コントローラー
     自社タイトルのPlayStationソフト『わいわい雀荘』専用のコントローラーで、手牌を隠しながら麻雀をプレイするためのコントローラー\[4\]。
+
+  - SGコマンダー([SG-1000](../Page/SG-1000.md "wikilink"), [SC-3000](../Page/SC-3000.md "wikilink"), [SG-1000 II](https://ja.wikipedia.org/wiki/SG-1000_II "wikilink"), [オセロマルチビジョン](../Page/オセロマルチビジョン.md "wikilink"), [セガ・マークIII](../Page/セガ・マークIII.md "wikilink"), [セガ・マスターシステム](https://ja.wikipedia.org/wiki/セガ・マスターシステム "wikilink")用)
 
 ## ホリストア限定生産製品
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-Becky\! Internet Mailは、[有限会社](../Page/有限会社.md "wikilink")リムアーツの乗松知博が開発した、[Windows上で動く](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[シェアウェア](../Page/シェアウェア.md "wikilink")の[電子メールクライアント](../Page/電子メールクライアント.md "wikilink")である。主に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で使用されている日本製のソフトウェアではあるが、[日本語](../Page/日本語.md "wikilink")版のほかに[英語](../Page/英語.md "wikilink")版も同時に公式リリースされている。これらに加え、ユーザーの手で翻訳改編された、[ドイツ語](../Page/ドイツ語.md "wikilink")版や[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")([繁体字](../Page/繁体字.md "wikilink"))版もある。
+Becky\! Internet Mailは、[有限会社](../Page/有限会社.md "wikilink")リムアーツの乗松知博が開発した、[Windows上で動く](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[シェアウェア](../Page/シェアウェア.md "wikilink")の[電子メールクライアント](../Page/電子メールクライアント.md "wikilink")である。主に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で使用されている日本製のソフトウェアではあるが、[日本語](../Page/日本語.md "wikilink")版のほかに[英語](../Page/英語.md "wikilink")版も同時に公式リリースされている。これらに加え、ユーザーの手で翻訳改編された、[ドイツ語](../Page/ドイツ語.md "wikilink")版や[中国語](../Page/中国語.md "wikilink")([繁体字](../Page/繁体字.md "wikilink"))版もある。
 
 [1996年](../Page/1996年.md "wikilink")（平成8年）に発表され、Windows用電子メールクライアントとしては古株に属する。[テキストエディタ](../Page/テキストエディタ.md "wikilink")の[Dana](../Page/Dana.md "wikilink")がサブセットとして組み込まれており、高機能メーラーとして人気を得た。[1999年](../Page/1999年.md "wikilink")（平成11年）には[オンラインソフトウェア大賞を受賞した](../Page/フリーソフトウェア大賞.md "wikilink")。シェアウェアであるが、日本国内ではすでに定番[メールソフトとして評価を確立しており](../Page/電子メールクライアント.md "wikilink")、雑誌・書籍などでも頻繁に紹介されている。
 

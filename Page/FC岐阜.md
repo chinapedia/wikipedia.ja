@@ -5,7 +5,7 @@
 
 ## 概要
 
-運営会社は株式会社岐阜フットボールクラブであり\[2\]、2007年3月に[Jリーグ準加盟クラブ](../Page/Jリーグ準加盟クラブ.md "wikilink")として承認され\[3\]、2008年にJリーグへ加盟した\[4\]。チームカラーやエンブレムなどは岐阜県花である「[レンゲソウ](../Page/ゲンゲ.md "wikilink")」と「[木曽三川](../Page/木曽三川.md "wikilink")」をモチーフとして、[赤](../Page/赤.md "wikilink")は情熱、[青](../Page/青.md "wikilink")は知性、[緑](../Page/緑.md "wikilink")は調和をそれぞれ表している\[5\]。
+運営会社は**株式会社岐阜フットボールクラブ**であり\[2\]、2007年3月に[Jリーグ準加盟クラブ](../Page/Jリーグ準加盟クラブ.md "wikilink")として承認され\[3\]、2008年にJリーグへ加盟した\[4\]。チームカラーやエンブレムなどは岐阜県花である「[レンゲソウ](../Page/ゲンゲ.md "wikilink")」と「[木曽三川](../Page/木曽三川.md "wikilink")」をモチーフとして、[赤](../Page/赤.md "wikilink")は情熱、[青](../Page/青.md "wikilink")は知性、[緑](../Page/緑.md "wikilink")は調和をそれぞれ表している\[5\]。
 
 ホームスタジアムは、[岐阜メモリアルセンター長良川競技場](../Page/岐阜メモリアルセンター長良川競技場.md "wikilink")、練習場は[岐阜メモリアルセンター長良川球技メドウや](../Page/長良川球技メドウ.md "wikilink")[岐阜市北西部運動公園](https://ja.wikipedia.org/wiki/岐阜市北西部運動公園 "wikilink")などである\[6\]（詳細は[\#スタジアム・練習場](https://ja.wikipedia.org/wiki/#スタジアム・練習場 "wikilink")を参照）。
 
@@ -15,7 +15,7 @@
 
 ### 創設の経緯
 
-2001年4月、[国民体育大会](../Page/国民体育大会.md "wikilink")に向けて強化する目的で岐阜県サッカー協会により創設\[10\]。2002年、[岐阜経済大学](https://ja.wikipedia.org/wiki/岐阜経済大学 "wikilink")が中心となって地域に根ざした総合スポーツクラブの実現を目指して設立され、[特定非営利活動法人](../Page/特定非営利活動法人.md "wikilink")（NPO法人）スティックルバックスポーツクラブ（SSC）が運営母体となった。SSCはまず陸上競技部門とサッカー部門、2004年からラグビー部門を設立（サッカー部門の監督に[西濃運輸サッカー部](../Page/西濃運輸サッカー部.md "wikilink")元監督の[勝野正之](https://ja.wikipedia.org/wiki/勝野正之 "wikilink")が就任）。サッカー部門のトップチームはJリーグ加盟を目指すため、運営会社となる株式会社岐阜フットボールクラブ（岐阜FC）を2006年8月30日に設立した\[11\]。初代代表に岐阜経済大学教授、鈴木誠が就任。これに伴いSSCのサッカー部門の育成普及事業を岐阜FCに移管、SSCは名称を「NPO法人FC岐阜スティックルバック」に変更した\[12\]。
+2001年4月、[国民体育大会](../Page/国民体育大会.md "wikilink")に向けて強化する目的で岐阜県サッカー協会により創設\[10\]。2002年、[岐阜経済大学](https://ja.wikipedia.org/wiki/岐阜経済大学 "wikilink")が中心となって地域に根ざした総合スポーツクラブの実現を目指して設立され、[特定非営利活動法人](../Page/特定非営利活動法人.md "wikilink")（NPO法人）**スティックルバックスポーツクラブ**（SSC）が運営母体となった。SSCはまず陸上競技部門とサッカー部門、2004年からラグビー部門を設立（サッカー部門の監督に[西濃運輸サッカー部](../Page/西濃運輸サッカー部.md "wikilink")元監督の[勝野正之](https://ja.wikipedia.org/wiki/勝野正之 "wikilink")が就任）。サッカー部門のトップチームはJリーグ加盟を目指すため、運営会社となる**株式会社岐阜フットボールクラブ**（岐阜FC）を2006年8月30日に設立した\[11\]。初代代表に岐阜経済大学教授、鈴木誠が就任。これに伴いSSCのサッカー部門の育成普及事業を岐阜FCに移管、SSCは名称を「**NPO法人FC岐阜スティックルバック**」に変更した\[12\]。
 
 ### 2005年 - 2006年（東海リーグ）
 
@@ -344,7 +344,8 @@ FC岐阜では、岐阜市に対し、[岐阜市北西部運動公園](http://gi
 <tr class="odd">
 <td><p>年度</p></td>
 <td><p>胸</p></td>
-<td><p>鎖骨</p></td>
+<td><p>鎖骨左</p></td>
+<td><p>鎖骨右</p></td>
 <td><p>背中上部</p></td>
 <td><p>背中下部</p></td>
 <td><p>袖</p></td>
@@ -360,12 +361,14 @@ FC岐阜では、岐阜市に対し、[岐阜市北西部運動公園](http://gi
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p><a href="../Page/ロット_(企業).md" title="wikilink">Lotto</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2006</p></td>
 <td><p><a href="../Page/アクトス.md" title="wikilink">{{smaller</a></p></td>
 <td><p>アサヒ給湯岐阜</p></td>
 <td><p><a href="../Page/オリエントコーポレーション.md" title="wikilink">Orico</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -380,6 +383,7 @@ FC岐阜では、岐阜市に対し、[岐阜市北西部運動公園](http://gi
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2008</p></td>
@@ -387,6 +391,7 @@ FC岐阜では、岐阜市に対し、[岐阜市北西部運動公園](http://gi
 <td><p>- /<br />
 <a href="https://ja.wikipedia.org/wiki/教育企画" title="wikilink">名進研</a></p></td>
 <td><p><a href="../Page/ミズノ.md" title="wikilink">Mizuno</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -406,6 +411,7 @@ FC岐阜では、岐阜市に対し、[岐阜市北西部運動公園](http://gi
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2010</p></td>
@@ -417,6 +423,7 @@ FC岐阜では、岐阜市に対し、[岐阜市北西部運動公園](http://gi
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2011</p></td>
@@ -424,6 +431,7 @@ FC岐阜では、岐阜市に対し、[岐阜市北西部運動公園](http://gi
 <td><p><a href="../Page/エイデン.md" title="wikilink">EIDEN</a></p></td>
 <td><p><a href="../Page/鈴木栄光堂.md" title="wikilink">鈴木栄光堂</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/コパン_(スポーツクラブ)" title="wikilink">COPIN</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -440,6 +448,7 @@ Field<br />
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2013</p></td>
@@ -447,18 +456,21 @@ Field<br />
 {{smaller</a></p></td>
 <td><p><a href="../Page/ワイジェイカード.md" title="wikilink">KC Card</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/コパン_(スポーツクラブ)" title="wikilink">COPIN</a></p></td>
-<td><p><a href="../Page/森ビル.md" title="wikilink">アクティブG<br />
-{{smaller</a></p></td>
+<td><p><a href="https://active-g.co.jp/">アクティブG<br />
+</a></p></td>
 <td><p><a href="http://gol-deportes.com/">gol.</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2014</p></td>
-<td><p><a href="../Page/日本特殊陶業.md" title="wikilink">NGK</a></p></td>
+<td><p><a href="../Page/日本特殊陶業.md" title="wikilink">NGK{{!}}NTK<br />
+{{smaller</a></p></td>
 <td><p><a href="../Page/Jトラスト.md" title="wikilink">J TRUST</a></p></td>
 <td><p><a href="../Page/バロー_(チェーンストア).md" title="wikilink">Valor</a></p></td>
 <td><p><a href="../Page/セイノーホールディングス.md" title="wikilink">SEINO</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -467,6 +479,7 @@ Field<br />
 <td><p>2015</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/西濃運輸" title="wikilink">SEINO</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/コパン_(スポーツクラブ)" title="wikilink">COPIN</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -482,6 +495,7 @@ Field<br />
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
@@ -493,11 +507,12 @@ Field<br />
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2018</p></td>
-<td><p><a href="../Page/名鉄協商.md" title="wikilink">{{smaller</a>（左）<br />
-<a href="https://ja.wikipedia.org/wiki/岐阜車体工業" title="wikilink">岐阜車体</a>（右）</p></td>
+<td><p><a href="../Page/名鉄協商.md" title="wikilink">{{smaller</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/岐阜車体工業" title="wikilink">岐阜車体</a></p></td>
 <td><p><a href="http://www.eco-act.jp/">ACT HOLDINGS</a></p></td>
 <td><p><a href="http://www.noda-crane.co.jp/"><br />
 キャプテン翼<br />
@@ -520,6 +535,7 @@ Field<br />
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2020</p></td>
@@ -530,8 +546,10 @@ Field<br />
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1031,7 +1049,7 @@ FC岐阜専属のチアダンススクールとして、地域貢献と地域ス
 54.
 55.
 56.
-57. [中日新聞:FC岐阜、長良川球技メドウにホーム変更:岐阜(CHUNICHI Web)](http://web.archive.org/web/20091121083402/http://www.chunichi.co.jp/article/gifu/20091118/CK2009111802000023.html)
+57. [中日新聞:FC岐阜、長良川球技メドウにホーム変更:岐阜(CHUNICHI Web)](https://web.archive.org/web/20091121083402/http://www.chunichi.co.jp/article/gifu/20091118/CK2009111802000023.html)
 58.
 59.
 60.

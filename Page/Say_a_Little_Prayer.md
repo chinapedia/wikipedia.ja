@@ -25,16 +25,115 @@
 
 ### シングル
 
-|         | 発売日         | タイトル                                                         | 規格品番       | カップリング（カラオケ除く）                    | 備考                      |
-| ------- | ----------- | ------------------------------------------------------------ | ---------- | --------------------------------- | ----------------------- |
-|         | 1997年8月3日   | **小さな星**                                                     | \-         | \-                                | インディーズ盤                 |
-| **1st** | 1997年10月1日  | **[小さな星](https://ja.wikipedia.org/wiki/小さな星/好き "wikilink")** | BFDA-00002 | 好き                                | 最高6位 / 両A面扱い            |
-| **2nd** | 1998年3月18日  | **a day**                                                    | BFDA-00003 | 流れ星                               | 最高20位 / 両A面扱い           |
-| **3rd** | 1998年4月29日  | **深愛**                                                       | BFDA-00004 | 三人                                | 最高29位                   |
-| **4th** | 1998年11月18日 | **like or love**                                             | BFDA-00006 | figure                            | 最高27位                   |
-| **5th** | 1999年2月17日  | **Yes No**                                                   | BFDA-00008 | 星の数だけ                             | 最高44位 / この作品まで8cm盤でリリース |
-| **6th** | 1999年4月21日  | **Kiss me**                                                  | BFCA-10015 | 一周 / Kiss me (R-K MIX)            | 最高46位 / 初回トレーディングカード付き  |
-| **7th** | 1999年7月28日  | **Dream**                                                    | BFCA-80001 | escape / Dream (Acoustic Version) | 最高53位 / 初回トレーディングカード付き  |
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>規格品番</p></th>
+<th><p>収録曲</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p>1997年8月3日</p></td>
+<td><p><strong>小さな星</strong></p></td>
+<td><p>TOWER-0003</p></td>
+<td></td>
+<td><p>インディーズ盤</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>1st</strong></p></td>
+<td><p>1997年10月1日</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/小さな星/好き" title="wikilink">小さな星</a></strong></p></td>
+<td><p>BFDA-00002</p></td>
+<td><ol>
+<li>小さな星</li>
+<li>好き</li>
+<li>小さな星（オリジナル・カラオケ）</li>
+<li>好き（オリジナル・カラオケ）</li>
+</ol></td>
+<td><p>最高6位 / 両A面扱い</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>2nd</strong></p></td>
+<td><p>1998年3月18日</p></td>
+<td><p><strong>a day</strong></p></td>
+<td><p>BFDA-00003</p></td>
+<td><ol>
+<li>a day</li>
+<li>流れ星</li>
+<li>a day（オリジナル・カラオケ）</li>
+</ol></td>
+<td><p>最高20位 / 両A面扱い</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>3rd</strong></p></td>
+<td><p>1998年4月29日</p></td>
+<td><p><strong>深愛</strong></p></td>
+<td><p>BFDA-00004</p></td>
+<td><ol>
+<li>深愛</li>
+<li>三人</li>
+<li>深愛（オリジナル・カラオケ）</li>
+</ol></td>
+<td><p>最高29位</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>4th</strong></p></td>
+<td><p>1998年11月18日</p></td>
+<td><p><strong>like or love</strong></p></td>
+<td><p>BFDA-00006</p></td>
+<td><ol>
+<li>like or love</li>
+<li>figure</li>
+<li>like or love（オリジナル・カラオケ）</li>
+</ol></td>
+<td><p>最高27位</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>5th</strong></p></td>
+<td><p>1999年2月17日</p></td>
+<td><p><strong>Yes No</strong></p></td>
+<td><p>BFDA-00008</p></td>
+<td><ol>
+<li>Yes No</li>
+<li>星の数だけ</li>
+<li>Yes No（オリジナル・カラオケ）</li>
+</ol></td>
+<td><p>最高44位 / この作品まで8cm盤でリリース</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>6th</strong></p></td>
+<td><p>1999年4月21日</p></td>
+<td><p><strong>Kiss me</strong></p></td>
+<td><p>BFCA-10015</p></td>
+<td><ol>
+<li>Kiss me</li>
+<li>一周</li>
+<li>Kiss me (R・K MIX)</li>
+<li>Kiss me（TV MIX）</li>
+</ol></td>
+<td><p>最高46位 / 初回トレーディングカード付き</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>7th</strong></p></td>
+<td><p>1999年7月28日</p></td>
+<td><p><strong>Dream</strong></p></td>
+<td><p>BFCA-80001</p></td>
+<td><ol>
+<li>Dream</li>
+<li>escape</li>
+<li>Dream (Acoustic Version)</li>
+<li>Dream（TV MIX）</li>
+</ol></td>
+<td><p>最高53位 / 初回トレーディングカード付き</p></td>
+</tr>
+</tbody>
+</table>
 
 ### アルバム
 

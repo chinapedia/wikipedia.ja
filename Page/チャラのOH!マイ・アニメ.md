@@ -89,7 +89,7 @@
 
   - [アキバチック天国](../Page/アキバチック天国.md "wikilink")
   - [へきる、淳司 NATURE](../Page/へきる、淳司_NATURE.md "wikilink")
-  - [祥子のチョット・CHAT・CHAT](../Page/菅原祥子.md "wikilink")
+  - [祥子のチョット・CHAT・CHAT](https://ja.wikipedia.org/wiki/祥子のチョット・CHAT・CHAT "wikilink")
   - [林原めぐみのHeartful Station](../Page/林原めぐみのHeartful_Station.md "wikilink")
   - [岡崎瑞生](https://ja.wikipedia.org/wiki/岡崎瑞生 "wikilink")
 

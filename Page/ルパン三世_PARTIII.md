@@ -5,7 +5,7 @@
 
 ## 概要
 
-本作は『PARTIII』と表記されており、後年の『[ルパン三世　PART5](https://ja.wikipedia.org/wiki/ルパン三世_PART5 "wikilink")』と同様番組名で区別できる作品となっている。但し、本作中内でのTV第1・第2シリーズとの明確なつながりは描写されていない。 本シリーズでのルパンは**ピンクのジャケット**を着用。
+本作は『PARTIII』と表記されており、後年の『[ルパン三世 PART5](https://ja.wikipedia.org/wiki/ルパン三世_PART5 "wikilink")』と同様番組名で区別できる作品となっている。但し、本作中内でのTV第1・第2シリーズとの明確なつながりは描写されていない。 本シリーズでのルパンは**ピンクのジャケット**を着用。
 
 ### 設定
 
@@ -746,7 +746,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a></p></td>
+<td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a></p></td>
 <td><p>日本テレビ系列</p></td>
 <td></td>
 </tr>

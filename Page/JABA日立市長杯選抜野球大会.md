@@ -120,92 +120,92 @@
 <tr class="even">
 <td><p>1990年（第14回）</p></td>
 <td><p><strong><a href="../Page/ヤマハ硬式野球部.md" title="wikilink">ヤマハ</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>5</strong>-4</p></td>
+<td><p>熊谷組</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1991年（第15回）</p></td>
 <td><p><strong><a href="../Page/三菱日立パワーシステムズ硬式野球部.md" title="wikilink">三菱重工横浜</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>8</strong>-4</p></td>
+<td><p>三菱自動車川崎</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1992年（第16回）</p></td>
 <td><p><strong>日産自動車</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>8</strong>-7</p></td>
+<td><p>日立製作所</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1993年（第17回）</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/いすゞ自動車硬式野球部" title="wikilink">いすゞ自動車</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>11</strong>-5</p></td>
+<td><p>日本通運</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1994年（第18回）</p></td>
 <td><p><strong><a href="../Page/パナソニック野球部.md" title="wikilink">松下電器</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
+<td><p><strong>12</strong>-5</p></td>
+<td><p>川崎製鉄千葉</p></td>
+<td><p>決勝は7回コールド</p></td>
 </tr>
 <tr class="odd">
 <td><p>1995年（第19回）</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/NTT関東硬式野球部" title="wikilink">NTT関東</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>11</strong>-9</p></td>
+<td><p>三菱自動車川崎</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1996年（第20回）</p></td>
 <td><p><strong>NTT関東</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>11</strong>-2</p></td>
+<td><p>日立製作所</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1997年（第21回）</p></td>
 <td><p><strong><a href="../Page/三菱ふそう川崎硬式野球部.md" title="wikilink">三菱自動車川崎</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
+<td><p><strong>14</strong>-4</p></td>
+<td><p>住友金属鹿島</p></td>
+<td><p>決勝は7回コールド</p></td>
 </tr>
 <tr class="even">
 <td><p>1998年（第22回）</p></td>
 <td><p><strong>NTT関東</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>10</strong>-7</p></td>
+<td><p>日立製作所</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1999年（第23回）</p></td>
 <td><p><strong><a href="../Page/日本製鉄かずさマジック.md" title="wikilink">新日本製鐵君津</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
+<td><p><strong>9</strong>-1</p></td>
+<td><p>NTT東日本</p></td>
+<td><p>決勝は7回コールド</p></td>
 </tr>
 <tr class="even">
 <td><p>2000年（第24回）</p></td>
 <td><p><strong><a href="../Page/日本製鉄鹿島硬式野球部.md" title="wikilink">住友金属鹿島</a></strong></p></td>
 <td><p>-</p></td>
-<td></td>
+<td><p>日本生命</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2001年（第25回）</p></td>
 <td><p><strong>日立製作所</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>8</strong>-7</p></td>
+<td><p>三菱ふそう川崎</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2002年（第26回）</p></td>
 <td><p><strong><a href="../Page/三菱ふそう川崎硬式野球部.md" title="wikilink">三菱ふそう川崎</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>9</strong>-4</p></td>
+<td><p>日立製作所</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -232,15 +232,15 @@
 <tr class="even">
 <td><p>2006年（第30回）</p></td>
 <td><p><strong>富士重工業</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>4</strong>-3</p></td>
+<td><p>ヤマハ</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2007年（第31回）</p></td>
 <td><p><strong>日立製作所</strong></p></td>
 <td><p><strong>8</strong>-0</p></td>
-<td><p><a href="../Page/埼玉西武ライオンズ_(ファーム).md" title="wikilink">グッドウィル</a></p></td>
+<td><p><a href="../Page/埼玉西武ライオンズ_(ファーム).md" title="wikilink">グッドウィル（西武ファーム）</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -326,6 +326,13 @@
 <td><p><strong><a href="../Page/鷺宮製作所硬式野球部.md" title="wikilink">鷺宮製作所</a></strong></p></td>
 <td><p><strong>2</strong>-0</p></td>
 <td><p><a href="../Page/三菱重工名古屋硬式野球部.md" title="wikilink">三菱重工名古屋</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020年</p></td>
+<td><p>大会中止</p></td>
+<td><p>新型コロナウイルスの感染拡大防止の影響のため中止となった。</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>

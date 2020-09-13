@@ -728,7 +728,7 @@
 
   - [韋駄天翔ドットコム](http://www.idatenjump.com/)
   - [テレビ東京・あにてれ 韋駄天翔](https://www.tv-tokyo.co.jp/anime/idaten/)
-  - [へっぽこレーシング](http://heppokor.exblog.jp/)
+  - [へっぽこレーシング](https://heppokor.exblog.jp/)
 
 [Category:漫画作品_い](https://ja.wikipedia.org/wiki/Category:漫画作品_い "wikilink") [Category:コミックボンボン](https://ja.wikipedia.org/wiki/Category:コミックボンボン "wikilink") [Category:マウンテンバイク](https://ja.wikipedia.org/wiki/Category:マウンテンバイク "wikilink") [Category:自転車を題材にした漫画作品](https://ja.wikipedia.org/wiki/Category:自転車を題材にした漫画作品 "wikilink") [Category:異世界への転生・転移を題材とした作品](https://ja.wikipedia.org/wiki/Category:異世界への転生・転移を題材とした作品 "wikilink")
 

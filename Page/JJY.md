@@ -3,7 +3,7 @@
 
 **JJY**（ジェイ・ジェイ・ワイ）とは、[日本標準時](../Page/日本標準時.md "wikilink")を送信する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[無線局](https://ja.wikipedia.org/wiki/無線局 "wikilink")である\[1\]。[総務省](../Page/総務省.md "wikilink")所管の[国立研究開発法人](https://ja.wikipedia.org/wiki/国立研究開発法人 "wikilink")[情報通信研究機構](../Page/情報通信研究機構.md "wikilink")（NICT）が運用している\[2\]。
 
-JJYは[呼出符号](https://ja.wikipedia.org/wiki/呼出符号 "wikilink")（コールサイン）であるが、無線局そのものも指す。
+JJYは[呼出符号](https://ja.wikipedia.org/wiki/呼出符号 "wikilink")であるが、無線局そのものも指す。
 
 ## 概要
 
@@ -427,7 +427,7 @@ ST5とST6は、停波の期間を表す。
 
   - [名崎無線送信所研究サイト](http://x680.x0.com/nazaki-tx1/WEB/INDEX1.htm)（個人サイト）
 
-[Category:日本の時間](https://ja.wikipedia.org/wiki/Category:日本の時間 "wikilink") [Category:無線局](https://ja.wikipedia.org/wiki/Category:無線局 "wikilink") [Category:登録商標](https://ja.wikipedia.org/wiki/Category:登録商標 "wikilink") [Category:標準時](https://ja.wikipedia.org/wiki/Category:標準時 "wikilink") [Category:呼出符号](https://ja.wikipedia.org/wiki/Category:呼出符号 "wikilink")
+[Category:日本の時間](https://ja.wikipedia.org/wiki/Category:日本の時間 "wikilink") [Category:日本の無線局](https://ja.wikipedia.org/wiki/Category:日本の無線局 "wikilink") [Category:登録商標](https://ja.wikipedia.org/wiki/Category:登録商標 "wikilink") [Category:標準時](https://ja.wikipedia.org/wiki/Category:標準時 "wikilink") [Category:呼出符号](https://ja.wikipedia.org/wiki/Category:呼出符号 "wikilink")
 
 1.
 2.

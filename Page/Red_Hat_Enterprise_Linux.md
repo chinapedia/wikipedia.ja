@@ -760,12 +760,91 @@ Panama (ES)</p></td>
 
 バージョンの読み方として、旧表記で RHEL 4 Update 5 だったものは、新しい表記で 4.5 と呼ぶようになっている。
 
+## 派生版
+
+[RedHatFamilyTree1210.svg](https://ja.wikipedia.org/wiki/File:RedHatFamilyTree1210.svg "fig:RedHatFamilyTree1210.svg")  ※[CentOS/RHEL派生版一覧に掲載され](https://ja.wikipedia.org/wiki/:en:List_of_Linux_distributions#CentOS/RHEL-based "wikilink")、パッケージ管理等が同様のもの
+
+<table>
+<thead>
+<tr class="header">
+<th><p>配布版</p></th>
+<th><p>説明</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/Asianux.md" title="wikilink">Asianux</a></p></td>
+<td><p>Red Hat Enterprise Linux派生。<a href="https://ja.wikipedia.org/wiki/日本" title="wikilink">日</a>、<a href="../Page/中国.md" title="wikilink">中</a>、<a href="https://ja.wikipedia.org/wiki/韓国" title="wikilink">韓</a>、<a href="https://ja.wikipedia.org/wiki/越南" title="wikilink">越</a>、<a href="../Page/タイ.md" title="wikilink">タイ</a>の<a href="../Page/アジア.md" title="wikilink">アジア</a>5ヵ国の企業が共同開発。前身は<a href="../Page/MIRACLE_LINUX.md" title="wikilink">MIRACLE LINUX</a>、、<a href="../Page/Haansoft_Linux.md" title="wikilink">Haansoft Linux</a>（韓国製）。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/CentOS.md" title="wikilink">CentOS</a></p></td>
+<td><p>Red Hat Enterprise Linuxの無償版。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>Small Business Server. File, Print, Messaging, <a href="https://ja.wikipedia.org/wiki/UTM" title="wikilink">UTM</a>, <a href="https://ja.wikipedia.org/wiki/VPN" title="wikilink">VPN</a>.</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/Fermi_Linux_LTS" title="wikilink">Fermi Linux LTS</a></p></td>
+<td><p>Scientific Linuxの前身。フェルミ国立加速器研究所の研究施設に特有のソフトウェアを追加[3]。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/MIRACLE_LINUX.md" title="wikilink">MIRACLE LINUX</a></p></td>
+<td><p>商用、<a href="../Page/Oracle_Database.md" title="wikilink">Oracle対応</a>、日本製。Asianuxへと移行。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/Oracle_Linux.md" title="wikilink">Oracle Linux</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Oracle" title="wikilink">Oracle</a> が Oracle 製品に最適化した Unbreakable Enterprise Kernel（UEK）を採用。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:zh:紅旗Linux" title="wikilink">紅旗Linux</a> 是<a href="../Page/中華人民共和国.md" title="wikilink">中国製</a>。Asianux へと移行。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>RHEL(初期版)とCentOS(最近の配布版)より派生。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/Scientific_Linux.md" title="wikilink">Scientific Linux</a></p></td>
+<td><p>Fermi Linuxの後継。Red Hat Enterprise Linux から派生。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>CentOSから派生。</p></td>
+</tr>
+</tbody>
+</table>
+
+### その他RPM系
+
+※[その他RPM系派生版一覧に掲載](https://ja.wikipedia.org/wiki/:en:List_of_Linux_distributions#Independent_RPM_distributions "wikilink")
+
+<table>
+<thead>
+<tr class="header">
+<th><p>配布版</p></th>
+<th><p>説明</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p>(複数の系列) <a href="https://ja.wikipedia.org/wiki/Red_Hat_Enterprise_Linux派生ディストリビューション" title="wikilink">Red Hat Enterprise Linux派生ディストリビューションも参照</a>。</p></td>
+</tr>
+</tbody>
+</table>
+
+## その他の派生版
+
+  - [RedHawk Linux](https://ja.wikipedia.org/wiki/RedHawk_Linux "wikilink") : RHELの[カーネル](../Page/カーネル.md "wikilink")（核）をリアルタイムLinuxカーネルに置き換えた。商用。
+  - [RedSleeve](https://ja.wikipedia.org/wiki/RedSleeve "wikilink") : [ARM環境向け](../Page/ARMアーキテクチャ.md "wikilink")。
+
+### 開発停止
+
+  - [White Box Enterprise Linux](../Page/White_Box_Enterprise_Linux.md "wikilink") : Red Hat Enterprise Linux から派生。
+  - [StartCom Linux](../Page/StartCom_Linux.md "wikilink") : Red Hat Enterprise Linux母体のGNU/Linux。
+
 ## 脚注
-
-## 関連項目
-
-  - [Linuxディストリビューションの比較](../Page/Linuxディストリビューションの比較.md "wikilink")
-  - [Red Hat Enterprise Linux派生ディストリビューション](https://ja.wikipedia.org/wiki/Red_Hat_Enterprise_Linux派生ディストリビューション "wikilink")
 
 ## 外部リンク
 
@@ -773,7 +852,15 @@ Panama (ES)</p></td>
   - [Red Hat Enterprise Linux Life Cycle(英語サイト)](https://access.redhat.com/support/policy/updates/errata/)
   - [30日試用版(英語サイト)](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
 
-[Category:Linuxディストリビューション](https://ja.wikipedia.org/wiki/Category:Linuxディストリビューション "wikilink") [Category:レッドハット](https://ja.wikipedia.org/wiki/Category:レッドハット "wikilink") [Category:2000年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2000年のソフトウェア "wikilink")
+## 関連項目
+
+  - [Linuxディストリビューションの比較](../Page/Linuxディストリビューションの比較.md "wikilink")
+  - [Red Hat Enterprise Linux派生ディストリビューション](https://ja.wikipedia.org/wiki/Red_Hat_Enterprise_Linux派生ディストリビューション "wikilink")
+  - [CentOS](../Page/CentOS.md "wikilink")
+  - [Fedora](../Page/Fedora.md "wikilink")
+
+[Category:Red_Hat派生ディストリビューション](https://ja.wikipedia.org/wiki/Category:Red_Hat派生ディストリビューション "wikilink") [Category:レッドハット](https://ja.wikipedia.org/wiki/Category:レッドハット "wikilink") [Category:2000年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2000年のソフトウェア "wikilink")
 
 1.  [Red Hat Enterprise Linux Life Cycle](https://access.redhat.com/support/policy/updates/errata/)
 2.  [Red Hat Enterprise Linux Release Dates](https://access.redhat.com/articles/3078)
+3.

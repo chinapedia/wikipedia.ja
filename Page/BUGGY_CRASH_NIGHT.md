@@ -36,7 +36,7 @@
 
   - [BUGGY CRASH NIGHT](http://funky802.com/dbcn/)（FM802）
 
-  - [BUGGY CRASH NIGHT](http://web.archive.org/web/20001110110800/fm802.co.jp/buggycrashnight/)（日曜日放送時代のサイト／キャッシュ）
+  - [BUGGY CRASH NIGHT](https://web.archive.org/web/20001110110800/fm802.co.jp/buggycrashnight/)（日曜日放送時代のサイト／キャッシュ）
 
   -
 ## 脚注

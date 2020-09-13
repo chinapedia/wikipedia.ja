@@ -5,7 +5,7 @@
 
 ## 略歴
 
-[秋田県](../Page/秋田県.md "wikilink")[秋田市](../Page/秋田市.md "wikilink")出身。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[聖霊女子短期大学付属高等学校](https://ja.wikipedia.org/wiki/聖霊女子短期大学付属高等学校 "wikilink")卒業。
+[秋田県](../Page/秋田県.md "wikilink")[秋田市](../Page/秋田市.md "wikilink")出身。[血液型はA型](../Page/ABO式血液型.md "wikilink")。[聖霊女子短期大学付属高等学校](https://ja.wikipedia.org/wiki/聖霊女子短期大学付属高等学校 "wikilink")卒業。
 
 [1996年](../Page/1996年.md "wikilink")、シングル「Hitch Hike」で[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")よりデビュー。以降、[2000年](../Page/2000年.md "wikilink")までにアルバム4枚、ミニアルバム3枚、シングル9枚を発表。2001年の4枚目のアルバム『ブルー』以降、メジャーから姿を消し、その後は[インディーズ](../Page/インディーズ.md "wikilink")で活動を行う。
 

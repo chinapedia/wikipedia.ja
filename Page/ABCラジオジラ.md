@@ -18,7 +18,7 @@
 ## 担当パーソナリティ
 
   - 月曜日：[円広志](../Page/円広志.md "wikilink")、[三田寛子](../Page/三田寛子.md "wikilink") （1986年10月 - 同年11月）
-  - 月曜日：[金山一彦](../Page/金山一彦.md "wikilink")、[若宮テイ子](https://ja.wikipedia.org/wiki/若宮テイ子 "wikilink") （1986年12月 - 1987年9月）
+  - 月曜日：[金山一彦](../Page/金山一彦.md "wikilink")、[若宮テイ子](../Page/若宮テイ子.md "wikilink") （1986年12月 - 1987年9月）
   - 火曜日：[桂雀々](../Page/桂雀々.md "wikilink")、[板谷祐三子](../Page/板谷祐三子.md "wikilink")（元・[セイントフォー](../Page/セイントフォー.md "wikilink")）、[小田寿一](https://ja.wikipedia.org/wiki/小田寿一 "wikilink")（当時ABCアナウンサー）
   - 水曜日：[売野雅勇](../Page/売野雅勇.md "wikilink")、桂べかこ（現・[桂南光](https://ja.wikipedia.org/wiki/桂南光 "wikilink")）、[藤原正美](https://ja.wikipedia.org/wiki/藤原正美 "wikilink")
   - 木曜日：[和田加奈子](../Page/和田加奈子.md "wikilink")、[石川泰久](https://ja.wikipedia.org/wiki/石川泰久 "wikilink")、[伊藤史隆](../Page/伊藤史隆.md "wikilink")（ABCアナウンサー） （1986年10月 - 1987年3月）

@@ -108,7 +108,7 @@
 
 | 放送日                                                                                         | 視聴率   |
 | ------------------------------------------------------------------------------------------- | ----- |
-| [2004年](../Page/2004年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")                      |       |
+| [2004年](../Page/2004年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")                      | 14.8% |
 | 2004年[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")                              |       |
 | [2005年](../Page/2005年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")                    |       |
 | 2005年[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")                              |       |

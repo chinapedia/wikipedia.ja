@@ -3,7 +3,7 @@
 
 **AKINA**（アキナ、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月19日](../Page/6月19日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[タレント](../Page/タレント.md "wikilink")、[女優](../Page/俳優.md "wikilink")、[振付師](../Page/振付師.md "wikilink")、元アイドル[歌手](../Page/歌手.md "wikilink")。本名、。
 
-[沖縄県](../Page/沖縄県.md "wikilink")出身。所属事務所は[Gオフィス](https://ja.wikipedia.org/wiki/Gオフィス "wikilink")。元[Folder](../Page/Folder_\(音楽グループ\).md "wikilink")、[Folder5](../Page/Folder5.md "wikilink")メンバー。夫は[ビビる大木](https://ja.wikipedia.org/wiki/ビビる大木 "wikilink")。[血液型はAB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+[沖縄県](../Page/沖縄県.md "wikilink")出身。所属事務所は[Gオフィス](https://ja.wikipedia.org/wiki/Gオフィス "wikilink")。元[Folder](../Page/Folder_\(音楽グループ\).md "wikilink")、[Folder5](../Page/Folder5.md "wikilink")メンバー。夫は[ビビる大木](https://ja.wikipedia.org/wiki/ビビる大木 "wikilink")。[血液型はAB型](../Page/ABO式血液型.md "wikilink")。
 
 ## 来歴
 
@@ -493,15 +493,11 @@
 ## 外部リンク
 
   -
-  - [タレント一覧](http://goffice.biz/talent/) - Gオフィス
-
-  - \- 公式ブログ（2014年7月15日 - ）
-
   -
   -
   -
   -
-[Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:日本の女優](https://ja.wikipedia.org/wiki/Category:日本の女優 "wikilink") [Category:K-point](https://ja.wikipedia.org/wiki/Category:K-point "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:過去のライジングプロダクション所属者](https://ja.wikipedia.org/wiki/Category:過去のライジングプロダクション所属者 "wikilink") [Category:沖縄県出身の人物](https://ja.wikipedia.org/wiki/Category:沖縄県出身の人物 "wikilink") [Category:1985年生](https://ja.wikipedia.org/wiki/Category:1985年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:Folder5](https://ja.wikipedia.org/wiki/Category:Folder5 "wikilink") [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:日本の女優](https://ja.wikipedia.org/wiki/Category:日本の女優 "wikilink") [Category:K-point](https://ja.wikipedia.org/wiki/Category:K-point "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:過去のライジングプロダクション所属者](https://ja.wikipedia.org/wiki/Category:過去のライジングプロダクション所属者 "wikilink") [Category:沖縄県出身の人物](https://ja.wikipedia.org/wiki/Category:沖縄県出身の人物 "wikilink") [Category:1985年生](https://ja.wikipedia.org/wiki/Category:1985年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.

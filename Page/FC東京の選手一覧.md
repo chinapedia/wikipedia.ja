@@ -30,15 +30,15 @@
 <td><p><a href="../Page/長澤徹.md" title="wikilink">長澤徹</a></p></td>
 <td></td>
 <td><p>2019年 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファジアーノ岡山" title="wikilink">ファジアーノ岡山</a> 監督</p></td>
-<td></td>
+<td><p><a href="../Page/ファジアーノ岡山FC.md" title="wikilink">ファジアーノ岡山</a> 監督</p></td>
+<td><p>2019年はU-23監督兼任</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/安間貴義.md" title="wikilink">安間貴義</a></p></td>
 <td></td>
 <td><p>2019年 -</p></td>
 <td><p><a href="../Page/カターレ富山.md" title="wikilink">カターレ富山</a> 監督</p></td>
-<td></td>
+<td><p>2017年9月 - 同年終了まで監督</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -135,23 +135,14 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/ディフェンダー_(サッカー).md" title="wikilink">DF</a></p></td>
-<td><p><strong>2</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/室屋成" title="wikilink">室屋成</a></p></td>
-<td></td>
-<td><p>2016年 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/明治大学体育会サッカー部" title="wikilink">明治大学</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><strong>3</strong></p></td>
 <td><p><a href="../Page/森重真人.md" title="wikilink">森重真人</a></p></td>
 <td></td>
 <td><p>2010年 -</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大分トリニータ" title="wikilink">大分トリニータ</a></p></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>4</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/渡辺剛_(サッカー選手)" title="wikilink">渡辺剛</a></p></td>
 <td></td>
@@ -160,7 +151,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>5</strong></p></td>
 <td><p><a href="../Page/丹羽大輝.md" title="wikilink">丹羽大輝</a></p></td>
 <td></td>
@@ -169,7 +160,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>6</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小川諒也" title="wikilink">小川諒也</a></p></td>
 <td></td>
@@ -178,7 +169,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>22</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/中村拓海" title="wikilink">中村拓海</a></p></td>
 <td></td>
@@ -187,7 +178,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>32</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョアン・オマリ" title="wikilink">ジョアン・オマリ</a></p></td>
 <td></td>
@@ -196,7 +187,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>37</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/中村帆高" title="wikilink">中村帆高</a></p></td>
 <td></td>
@@ -205,7 +196,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>47</strong></p></td>
 <td><p><a href="../Page/木村誠二.md" title="wikilink">木村誠二</a></p></td>
 <td></td>
@@ -214,7 +205,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>49</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バングーナガンデ佳史扶" title="wikilink">バングーナガンデ佳史扶</a></p></td>
 <td></td>
@@ -223,7 +214,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/ミッドフィールダー.md" title="wikilink">MF</a></p></td>
 <td><p><strong>7</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/三田啓貴" title="wikilink">三田啓貴</a></p></td>
@@ -233,7 +224,7 @@
 <td><p><a href="../Page/ヴィッセル神戸.md" title="wikilink">ヴィッセル神戸</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>8</strong></p></td>
 <td><p><a href="../Page/高萩洋次郎.md" title="wikilink">髙萩洋次郎</a></p></td>
 <td></td>
@@ -242,7 +233,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>10</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東慶悟" title="wikilink">東慶悟</a> </p></td>
 <td></td>
@@ -251,7 +242,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>15</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アダイウトン・ドス・サントス・ダ・シルバ" title="wikilink">アダイウトン</a></p></td>
 <td></td>
@@ -260,26 +251,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p><strong>17</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/羅相浩" title="wikilink">ナ・サンホ</a></p></td>
-<td></td>
-<td><p>2019年 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/光州FC" title="wikilink">光州FC</a></p></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
-<td><p><strong>18</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/橋本拳人" title="wikilink">橋本拳人</a></p></td>
-<td></td>
-<td><p>2012年 - 2013年5月<br />
-2015年 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロアッソ熊本" title="wikilink">ロアッソ熊本</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><strong>19</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/宮崎幾笑" title="wikilink">宮崎幾笑</a></p></td>
 <td></td>
@@ -288,7 +260,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>20</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウェベルソン・レアンドロ・オリベイラ・モウラ" title="wikilink">レアンドロ</a></p></td>
 <td></td>
@@ -297,7 +269,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>28</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/内田宅哉" title="wikilink">内田宅哉</a></p></td>
 <td></td>
@@ -306,21 +278,12 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>31</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/安部柊斗" title="wikilink">安部柊斗</a></p></td>
 <td></td>
 <td><p>2020年 -</p></td>
 <td><p>明治大学</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>34</strong></p></td>
-<td><p><a href="../Page/チャヤトーン・タプスワナウォン.md" title="wikilink">チャヤトーン</a></p></td>
-<td></td>
-<td><p>2020年3月 -</p></td>
-<td><p><a href="../Page/バンコク・ユナイテッドFC.md" title="wikilink">バンコク・ユナイテッドFC</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -363,7 +326,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>45</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アルトゥール・シルバ" title="wikilink">アルトゥール・シルバ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アルトゥール・シウヴァ・フェイトーザ" title="wikilink">アルトゥール・シルバ</a></p></td>
 <td></td>
 <td><p>2019年 -</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/CAヴォトゥポランゲンセ" title="wikilink">CAヴォトゥポランゲンセ</a></p></td>
@@ -448,14 +411,6 @@
 <td><p>鹿島と対戦する公式戦出場不可</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/チャヤトーン・タプスワナウォン.md" title="wikilink">チャヤトーン</a></p></td>
-<td></td>
-<td><p><a href="../Page/バンコク・ユナイテッドFC.md" title="wikilink">バンコク・ユナイテッドFC</a></p></td>
-<td><p>2020年3月1日 - 2021年1月1日</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -517,16 +472,56 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>MF</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/羅相浩" title="wikilink">ナ・サンホ</a></p></td>
+<td></td>
+<td><p>2019年 - 2020年6月</p></td>
+<td><p><a href="../Page/城南FC.md" title="wikilink">城南FC</a></p></td>
+<td><p>2020年6月10日 - 2020年12月31日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>FW</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジャエウ・フェレイラ・ヴィエイラ" title="wikilink">ジャエル</a></p></td>
 <td></td>
 <td><p>2019年</p></td>
 <td><p><a href="../Page/松本山雅FC.md" title="wikilink">松本山雅FC</a></p></td>
 <td><p>2020年2月1日 - 2021年1月1日</p></td>
+<td><p>FC東京と対戦する公式戦出場不可</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
+</tbody>
+</table>
+
+### 加入内定選手
+
+<table>
+<tbody>
 <tr class="odd">
+<td><p>Pos</p></td>
+<td><p>選手名</p></td>
+<td><p>生年月日 (年齢)</p></td>
+<td><p>加入年</p></td>
+<td><p>現所属</p></td>
+<td><p>備考</p></td>
+</tr>
+<tr class="even">
+<td><p>DF</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/蓮川壮大" title="wikilink">蓮川壮大</a></p></td>
 <td></td>
+<td><p>2021年</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/明治大学体育会サッカー部" title="wikilink">明治大学</a></p></td>
+<td><p>ユース出身</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1653,7 +1648,7 @@
 </tr>
 <tr class="even">
 <td><p>2020</p></td>
-<td><p>安倍柊斗</p></td>
+<td><p>安部柊斗</p></td>
 <td><p>ジョアン・オマリ</p></td>
 <td><p>林彰洋</p></td>
 <td><p>チャヤトーン</p></td>
@@ -3012,6 +3007,12 @@
 <td><p>期限付き移籍での加入</p></td>
 <td><p><a href="../Page/ガンバ大阪.md" title="wikilink">ガンバ大阪</a></p></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/室屋成" title="wikilink">室屋成</a></p></td>
+<td><p>2016-2020.8</p></td>
+<td></td>
+<td><p><a href="../Page/ハノーファー96.md" title="wikilink">ハノーファー96</a></p></td>
+</tr>
 </tbody>
 </table>
 
@@ -3366,6 +3367,18 @@
 <td><p>2018-2019</p></td>
 <td></td>
 <td><p><a href="../Page/ジュビロ磐田.md" title="wikilink">ジュビロ磐田</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/チャヤトーン・タプスワナウォン.md" title="wikilink">チャヤトーン</a></p></td>
+<td><p>2020.3-6</p></td>
+<td></td>
+<td><p><a href="../Page/バンコク・ユナイテッドFC.md" title="wikilink">バンコク・ユナイテッドFC</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/橋本拳人" title="wikilink">橋本拳人</a></p></td>
+<td><p>2012-2020.7</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FCロストフ" title="wikilink">FCロストフ</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>

@@ -51,7 +51,7 @@
 
 ## 外部リンク
 
-  - [パンドラの秘宝 - フジテレビ](http://www.fujitv.co.jp/b_hp/pandora/)
+  - [パンドラの秘宝 - フジテレビ](https://www.fujitv.co.jp/b_hp/pandora/)
 
 [Category:2004年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:オフィス・トゥー・ワン](https://ja.wikipedia.org/wiki/Category:オフィス・トゥー・ワン "wikilink") [Category:爆笑問題](https://ja.wikipedia.org/wiki/Category:爆笑問題 "wikilink")
 

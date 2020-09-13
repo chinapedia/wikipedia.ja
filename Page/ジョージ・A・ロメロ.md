@@ -77,12 +77,6 @@
 
   - [ナイト・オブ・ザ・リビングデッド/死霊創世記](https://ja.wikipedia.org/wiki/ナイト・オブ・ザ・リビングデッド#ナイト・オブ・ザ・リビングデッド/死霊創世紀 "wikilink") *Night of the Living Dead* （1990）※製作総指揮兼任
 
-  - [ドーン・オブ・ザ・デッド](../Page/ドーン・オブ・ザ・デッド.md "wikilink") *Dawn of the Dead* （2004）
-
-  - [超立体映画ゾンビ3D](https://ja.wikipedia.org/wiki/ナイト・オブ・ザ・リビングデッド#超立体映画ゾンビ3D "wikilink") *Night of the Living Dead 3D* （2006）
-
-  - [デイ・オブ・ザ・デッド](https://ja.wikipedia.org/wiki/デイ・オブ・ザ・デッド "wikilink") *Day of the Dead* （2008）
-
   - [クレイジーズ](https://ja.wikipedia.org/wiki/クレイジーズ "wikilink") *Crazies* （2010）※製作総指揮兼任
 
 ## 備考

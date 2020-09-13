@@ -33,7 +33,7 @@
       - [10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") - ep055チャンネルのチャンネル名称が「ショップチャンネル」に改称。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月1日](../Page/1月1日.md "wikilink") - [e2 by スカパー\!](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")・Ch.177で行われていたショップチャンネルの[標準画質放送の終了に伴い](../Page/標準画質映像.md "wikilink")、完全サイマル放送から東経110度CS放送チャンネル（プラットフォームに属さない独立チャンネル）に放送形態を変更（e2から移行、ショップチャンネルの公式サイトではこの日がCS055chの本放送開始日となっている）。
   - [2012年](../Page/2012年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - 東経110度CS放送でのプラットフォームをSCサテライト放送直営からスカパー\!e2（現・スカパー\!）に移管（チャンネルは変更なし）。
-  - [2013年](../Page/2013年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink") - [シーエス日本から](../Page/CS日本.md "wikilink")[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")の基幹放送事業を譲受。
+  - [2013年](../Page/2013年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink") - [シーエス日本](https://ja.wikipedia.org/wiki/シーエス日本 "wikilink")から[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")の基幹放送事業を譲受。
   - [2018年](../Page/2018年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink") - [新4K8K衛星放送](https://ja.wikipedia.org/wiki/4K_8Kテレビ放送 "wikilink")「**ショップチャンネル 4K**」開始。（[リモコンキーID](../Page/リモコンキーID.md "wikilink")は「**11**」）
 
 ## チャンネル
@@ -60,7 +60,7 @@
 
   - Ch.349：**[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")**（番組供給事業者：[日本テレビ放送網](../Page/日本テレビ放送網.md "wikilink")） - 12スロット
       - 2013年1月29日 - スロットが分割され試験放送を開始。
-      - 2013年[2月1日](../Page/2月1日.md "wikilink") - シーエス日本から衛星基幹放送事業を承継、チャンネル番号を変更。
+      - 2013年[2月1日](../Page/2月1日.md "wikilink") - [シーエス日本](https://ja.wikipedia.org/wiki/シーエス日本 "wikilink")から衛星基幹放送事業を承継、チャンネル番号を変更。
       - 標準画質で、画角情報は、4:3SD放送だったが、2014年3月3日より、16:9の画角情報を付加し、フルサイズのSD放送を開始。
       - 2018年9月26日 - スロット数を8から12に拡大（ショップチャンネルの縮小分）し、HD放送を開始。
 
@@ -72,7 +72,6 @@
 
   - Ch.BS4K 211：**ショップチャンネル4K**（番組供給事業者：ジュピターショップチャンネル） - BS-8ch 40スロット
       - 2018年12月1日放送開始。[リモコンキーID](../Page/リモコンキーID.md "wikilink")は「**11**」。
-      - 尚、当チャンネルはスカパー\!の構成チャンネルには含まれていない。
 
 ### かつて放送されていたチャンネル
 

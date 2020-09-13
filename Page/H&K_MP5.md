@@ -1,7 +1,7 @@
 > この記事は[H\&K MP5](https://ja.wikipedia.org/wiki/H\&K_MP5)から翻訳されています。
 
 
-**H\&K MP5**は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ヘッケラー&コッホ](../Page/ヘッケラー&コッホ.md "wikilink")（H\&K）社が設計した[短機関銃](../Page/短機関銃.md "wikilink")（SMG）。第2次世界大戦後に設計された短機関銃としては成功した製品の一つであり、命中精度の高さから、[対テロ作戦](../Page/対テロ作戦.md "wikilink")部隊などでは標準的な装備となっている。
+**H\&K MP5**は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ヘッケラー&コッホ](../Page/ヘッケラー&コッホ.md "wikilink")（H\&K）社が設計した[短機関銃](../Page/短機関銃.md "wikilink")（SMG）。第2次世界大戦後に設計された短機関銃としては最も成功した製品の一つであり、命中精度の高さから、[対テロ作戦](../Page/対テロ作戦.md "wikilink")部隊などでは標準的な装備となっている。
 
 ## 来歴
 

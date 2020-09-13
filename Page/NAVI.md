@@ -11,7 +11,7 @@
 
 ### 内容
 
-[徳大寺有恒](../Page/徳大寺有恒.md "wikilink")、[吉田匠](https://ja.wikipedia.org/wiki/吉田匠 "wikilink")、[清水和夫](https://ja.wikipedia.org/wiki/清水和夫 "wikilink")など自動車[評論家](../Page/評論家.md "wikilink")の記事、[泉麻人](../Page/泉麻人.md "wikilink")、[えのきどいちろう](https://ja.wikipedia.org/wiki/えのきどいちろう "wikilink")、[神足裕司](../Page/神足裕司.md "wikilink")らのコラム、[田中康夫](../Page/田中康夫.md "wikilink")、[渡辺和博](../Page/渡辺和博.md "wikilink")、[矢作俊彦](../Page/矢作俊彦.md "wikilink")、[笠井潔](../Page/笠井潔.md "wikilink")、[村上春樹](../Page/村上春樹.md "wikilink")、[栗本慎一郎](../Page/栗本慎一郎.md "wikilink")など[作家](../Page/作家.md "wikilink")や学者の評論、対談、[小説](../Page/小説.md "wikilink")、などを創刊当初から、のちに[テリー伊藤](../Page/テリー伊藤.md "wikilink")、[小西良幸](../Page/小西良幸.md "wikilink")（ドン小西）、[近田春夫](../Page/近田春夫.md "wikilink")の対談評論などを、それぞれ連載した。主に自動車愛好家らが好んで用いる「エンスージアスト」の略語である「[エンスー](../Page/エンスージアスト.md "wikilink")」は渡辺和博が本誌の連載で用いた。
+[徳大寺有恒](../Page/徳大寺有恒.md "wikilink")、[吉田匠](https://ja.wikipedia.org/wiki/吉田匠 "wikilink")、[清水和夫](../Page/清水和夫.md "wikilink")など自動車[評論家](../Page/評論家.md "wikilink")の記事、[泉麻人](../Page/泉麻人.md "wikilink")、[えのきどいちろう](https://ja.wikipedia.org/wiki/えのきどいちろう "wikilink")、[神足裕司](../Page/神足裕司.md "wikilink")らのコラム、[田中康夫](../Page/田中康夫.md "wikilink")、[渡辺和博](../Page/渡辺和博.md "wikilink")、[矢作俊彦](../Page/矢作俊彦.md "wikilink")、[笠井潔](../Page/笠井潔.md "wikilink")、[村上春樹](../Page/村上春樹.md "wikilink")、[栗本慎一郎](../Page/栗本慎一郎.md "wikilink")など[作家](../Page/作家.md "wikilink")や学者の評論、対談、[小説](../Page/小説.md "wikilink")、などを創刊当初から、のちに[テリー伊藤](../Page/テリー伊藤.md "wikilink")、[小西良幸](../Page/小西良幸.md "wikilink")（ドン小西）、[近田春夫](../Page/近田春夫.md "wikilink")の対談評論などを、それぞれ連載した。主に自動車愛好家らが好んで用いる「エンスージアスト」の略語である「[エンスー](../Page/エンスージアスト.md "wikilink")」は渡辺和博が本誌の連載で用いた。
 
 徳大寺、[舘内端](../Page/舘内端.md "wikilink")、編集長の大川が座談会形式で前年に登場した自動車を総括する「ナビトーク」は、毎年3月号に掲載して人気を得た。
 
@@ -64,7 +64,7 @@
 <!-- end list -->
 
   -
-    [清水和夫](https://ja.wikipedia.org/wiki/清水和夫 "wikilink")が数台の乗用車を様々な路面状況で試乗し、制動距離やハンドリングの限界特性を比較する。多くの場合、数台の欧州車+国産車が俎上に乗せられる。
+    [清水和夫](../Page/清水和夫.md "wikilink")が数台の乗用車を様々な路面状況で試乗し、制動距離やハンドリングの限界特性を比較する。多くの場合、数台の欧州車+国産車が俎上に乗せられる。
 
 <!-- end list -->
 

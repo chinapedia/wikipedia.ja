@@ -28,11 +28,11 @@
 
 <!-- end list -->
 
-  - [1996年](../Page/1996年.md "wikilink") - ZAIN RECORDS大阪内に、新レーベルWESTHAUSを設立。LOWDOWNと[新堂敦士](../Page/新堂敦士.md "wikilink")を輩出。
+  - [1996年](../Page/1996年.md "wikilink") - ZAIN RECORDS大阪\[2\]内に、新レーベルWESTHAUSを設立。LOWDOWNと[新堂敦士](../Page/新堂敦士.md "wikilink")を輩出。
 
 <!-- end list -->
 
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - Spoonfulレーベルより[小松未歩](../Page/小松未歩.md "wikilink")がデビューし、デビューシングル「[謎](../Page/謎_\(曲\).md "wikilink")」がヒット。新たなレーベルとして[Amemura O-town Recordを設立](../Page/Amemura_O-town_Record.md "wikilink")\[2\]した。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - Spoonfulレーベルより[小松未歩](../Page/小松未歩.md "wikilink")がデビューし、デビューシングル「[謎](../Page/謎_\(曲\).md "wikilink")」がヒット。新たなレーベルとして[Amemura O-town Recordを心斎橋ダイヤモンドビル内に設立](../Page/Amemura_O-town_Record.md "wikilink")\[3\]した。
 
 <!-- end list -->
 
@@ -41,7 +41,7 @@
 
 <!-- end list -->
 
-  - [2000年](../Page/2000年.md "wikilink") - 新たな自前による洋楽レーベルとしてMarinaと海外のレーベルRICEの作品を発売開始するものの、1年ほどでレーベルとしての活動が終了
+  - [2000年](../Page/2000年.md "wikilink") - 新たな自前による洋楽レーベルとしてMarinaと海外のレーベルRICEの作品を発売開始するものの、1年ほどでレーベルとしての活動が終了。
       - [11月29日](../Page/11月29日.md "wikilink")に発売された『[THE BEST OF DETECTIVE CONAN 〜名探偵コナン テーマ曲集〜](../Page/THE_BEST_OF_DETECTIVE_CONAN_〜名探偵コナン_テーマ曲集〜.md "wikilink")』が、翌年にかけてロングセラーとなりミリオンセールスを記録している。
 
 <!-- end list -->
@@ -66,7 +66,7 @@
         1993年4月2日にZAIN品番で再発売された川島だりあの旧譜作品にのみ使用。
   - **BIG.MF**(規格品番：ZA○B-○○○○)
       -
-        1999年に設立されたギタリストの[KUNI](https://ja.wikipedia.org/wiki/KUNI "wikilink")主宰のHR/HMレーベル。ビーインググループ内に株式会社BIG M.Fとして設立された経緯から、事務所はZAIN RECORDS内ではなく[VERMILLION RECORDSと同じフロアに構えていた事もあった](https://ja.wikipedia.org/wiki/Rooms_RECORDS "wikilink")。レーベル事業以外にも、[B'z](../Page/B'z.md "wikilink")の海外A\&R業務\[3\]やAnnekei等の海外アーティストのコーディネート業務を行っていた。レーベルには[FEEL SO BADや](../Page/FEEL_SO_BAD.md "wikilink")[MR.ORANGE](https://ja.wikipedia.org/wiki/MR.ORANGE "wikilink")、[SCHON](../Page/SCHON.md "wikilink")が所属。本レーベルから発売したFEEL SO BADのアルバムは洋盤扱いだった。
+        1999年に設立されたギタリストの[KUNI](https://ja.wikipedia.org/wiki/KUNI "wikilink")主宰のHR/HMレーベル。ビーインググループ内に株式会社BIG M.Fとして設立された経緯から、事務所はZAIN RECORDS内ではなく[VERMILLION RECORDSと同じフロアに構えていた事もあった](https://ja.wikipedia.org/wiki/Rooms_RECORDS "wikilink")。レーベル事業以外にも、[B'z](../Page/B'z.md "wikilink")の海外A\&R業務\[4\]やAnnekei等の海外アーティストのコーディネート業務を行っていた。レーベルには[FEEL SO BADや](../Page/FEEL_SO_BAD.md "wikilink")[MR.ORANGE](https://ja.wikipedia.org/wiki/MR.ORANGE "wikilink")、[SCHON](../Page/SCHON.md "wikilink")が所属。本レーベルから発売したFEEL SO BADのアルバムは洋盤扱いだった。
   - **WESTHAUS**(規格品番：ZA○W-○○○○)
       -
         1996年春に、ZAIN RECORDS大阪内に設立されたレーベル。[新堂敦士](../Page/新堂敦士.md "wikilink")らが所属。
@@ -135,5 +135,6 @@
 [Category:ビーイング](https://ja.wikipedia.org/wiki/Category:ビーイング "wikilink") [Category:日本のレコード・レーベル](https://ja.wikipedia.org/wiki/Category:日本のレコード・レーベル "wikilink") [Category:かつて存在した日本のレコード会社](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のレコード会社 "wikilink") [Category:1991年設立の企業](https://ja.wikipedia.org/wiki/Category:1991年設立の企業 "wikilink")
 
 1.
-2.  Spoonfulは、ZAIN RECORDSの内部レーベル扱いから、Amemura O-town Recordの内部レーベル扱いとなった。
-3.  現在の海外A\&R業務は、B'zのマネジメント会社[VERMILLION](../Page/VERMILLION.md "wikilink")が担当。
+2.  当初は心斎橋ミナミビルに入居していたが、後にART CUBEビルへ移動。
+3.  Spoonfulは、ZAIN RECORDSの内部レーベル扱いから、Amemura O-town Recordの内部レーベル扱いとなった。
+4.  現在の海外A\&R業務は、B'zのマネジメント会社[VERMILLION](../Page/VERMILLION.md "wikilink")が担当。

@@ -48,7 +48,7 @@
       -
         （c/w） Circus Parade
 3.  あのコによろしく （1990年7月25日）
-      - 2018年2月13日、[ハコイリムスメ](https://ja.wikipedia.org/wiki/ハコイリムスメ "wikilink")がカバー・アルバム「青春の音符たち〜Respect for 80’s&90’s」でカバー。
+      - 2018年2月13日、[ハコイリ♡ムスメ](https://ja.wikipedia.org/wiki/ハコイリ♡ムスメ "wikilink")がカバー・アルバム「青春の音符たち〜Respect for 80’s&90’s」でカバー。
     <!-- end list -->
       -
         （c/w） バ・ブ・ル
@@ -149,10 +149,10 @@
 
 ### ラジオ
 
-  - [SONY Night Square・ハートにribbon](../Page/SONY_Night_Square.md "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")）
+  - [SONY Night Square](../Page/SONY_Night_Square.md "wikilink")・[ハートにribbon](../Page/ハートにribbon.md "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")）
   - ルームメイト気分で（[文化放送](../Page/文化放送.md "wikilink")）
-  - CUTE\!（[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")）
-  - [Radio THIS](../Page/Radio_THIS.md "wikilink")（[毎日放送](../Page/毎日放送.md "wikilink")）
+  - CUTE\!（[TBSラジオ](../Page/TBSラジオ.md "wikilink")）
+  - [Radio THIS](../Page/Radio_THIS.md "wikilink")（[毎日放送](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）
 
 ## 書籍
 
@@ -171,4 +171,4 @@
   - [女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")
   - [CoCo](../Page/CoCo_\(アイドルグループ\).md "wikilink")
 
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:過去のケイダッシュ系列所属者](https://ja.wikipedia.org/wiki/Category:過去のケイダッシュ系列所属者 "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:フジテレビの番組発のグループ](https://ja.wikipedia.org/wiki/Category:フジテレビの番組発のグループ "wikilink") [Category:乙女塾](https://ja.wikipedia.org/wiki/Category:乙女塾 "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:1994年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1994年に解散した音楽グループ "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:過去のケイダッシュ系列所属者](https://ja.wikipedia.org/wiki/Category:過去のケイダッシュ系列所属者 "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:フジテレビの番組発のグループ](https://ja.wikipedia.org/wiki/Category:フジテレビの番組発のグループ "wikilink") [Category:乙女塾](https://ja.wikipedia.org/wiki/Category:乙女塾 "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:1994年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1994年に解散した音楽グループ "wikilink")

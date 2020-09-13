@@ -1,7 +1,7 @@
 > この記事は[THE 地球防衛軍](https://ja.wikipedia.org/wiki/THE_地球防衛軍)から翻訳されています。
 
 
-『**THE 地球防衛軍**』（ザ・ちきゅうぼうえいぐん）は、[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より[2003年](../Page/2003年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")に発売された『[SIMPLE2000シリーズ](../Page/SIMPLEシリーズ.md "wikilink")』第31作目の[PlayStation 2用の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")3D[アクションシューティング](../Page/シューティングゲーム.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")（[サードパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/ファーストパーソン・シューティングゲーム#サードパーソン・シューティング "wikilink")）である。開発は[サンドロット](../Page/サンドロット.md "wikilink")。販売は[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")。『4』発売前の2012年時点で、世界累計150万本（国内累計120万本）を出荷している。
+『**THE 地球防衛軍**』（ザ・ちきゅうぼうえいぐん）は、[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より[2003年](../Page/2003年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")に発売された『[SIMPLE2000シリーズ](../Page/SIMPLEシリーズ.md "wikilink")』第31作目の[PlayStation 2用の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")3D[アクションシューティング](../Page/シューティングゲーム.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")（[サードパーソン・シューティングゲーム](../Page/サードパーソン・シューティングゲーム.md "wikilink")）である。開発は[サンドロット](../Page/サンドロット.md "wikilink")。販売は[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")。『4』発売前の2012年時点で、世界累計150万本（国内累計120万本）を出荷している。
 
 本項では同じく『SIMPLE2000シリーズ』として発売された続編『**THE 地球防衛軍2**』にも触れる。『SIMPLEシリーズ』から独立して、単独のゲームシリーズとなった『[地球防衛軍3](../Page/地球防衛軍3.md "wikilink")』以降の作品の詳細は、各作品の項目を参照。
 
@@ -391,7 +391,7 @@
         サンダースナイパーの変種モデル。シリーズは存在しない。高威力・高精度・長射程の雷を1発発射する。狙撃兵器の中では随一のズーム倍率を誇るが、消費エネルギーが非常に激しく連射速度も低い。
   - 範囲攻撃兵器
     着弾時の爆発による範囲攻撃が可能。以下の2シリーズに大別される。
-      - プラズマ・ランチャー
+      - [プラズマ](https://ja.wikipedia.org/wiki/プラズマ "wikilink")・ランチャー
         ランチャータイプ。発射後は主に緩やかな放物線を描いて飛んでいく。各モデルごとに弾速や射程にばらつきがある。標準モデルのE型・爆破範囲重視のD型・連装モデルのM型・高出力のブラスト型・その他特殊モデル等、非常に多くの種類が登場する。
         装弾数は設定されていないため、ユニットのエネルギーを直接消費して使用する。全体的に適度な速射性を持つが、1発あたりの消費エネルギーが多い。
       - プラズマ・グレネード
@@ -426,7 +426,7 @@
         下方向に雷を放出する。雷撃兵器と同様に、洞窟マップなどの閉所で使用すれば強力。
       - サイ・クラスター
         広範囲に光線を乱射する。各モデル毎に攻撃方向が異なる。
-      - アルマゲドン・クラスター
+      - [アルマゲドン](https://ja.wikipedia.org/wiki/アルマゲドン "wikilink")・クラスター
         特定の条件を満たすことで入手可能。シリーズは存在しない。下方向に5発の光弾が降り注ぎ、着弾するとそれぞれが大規模な爆風を発生させる。あらゆる敵を一撃で撃破する桁違いの威力を誇り、総合的に陸戦兵のジェノサイド砲をも上回る超広範囲攻撃が可能。
         従来のシリーズに比べて光球の投擲距離が非常に長いため遠距離で効果を発揮し、上空から爆撃する形になるため障害物を気にせずに使用することができる。しかしその性質上、近距離戦や対空戦・閉所では無力である上、光弾の降り注ぐ方向はランダムなので狙って命中させにくいという欠点もある。
         消費エネルギーが桁違いに多い・投擲距離が非常に長い・チャージ時間が若干短い・従来のシリーズに見られた「長時間の連射攻撃」とは対照的に「瞬間的な単発範囲攻撃」である等、支援兵器の中でも特に異質な性能を持つ。
@@ -524,9 +524,13 @@
   - 地球防衛軍4.1 ウイングダイバー・ザ・シューター
     2017年11月22日に配信された[PlayStation 4用ソフト](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")。開発は[ギガ連射](https://ja.wikipedia.org/wiki/ギガ連射 "wikilink")、クラウズ。ゲームエンジンは[Unity](https://ja.wikipedia.org/wiki/Unity "wikilink")。
   - [地球防衛軍5](https://ja.wikipedia.org/wiki/地球防衛軍5 "wikilink")
-    2017年12月7日発売の[PlayStation 4用ソフト](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")。2018年1月18日に日本国内におけるパッケージ版の累計出荷本数及びDL版の販売本数の合計が30万本を突破したことが明らかにされている。
+    2017年12月7日発売の[PlayStation 4用ソフト](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")。日本国内50万本を超えるシリーズ最高のヒット作となった。
   - [EARTH DEFENSE FORCE: IRON RAIN](https://ja.wikipedia.org/wiki/EARTH_DEFENSE_FORCE:_IRON_RAIN "wikilink")
     2019年4月11日発売の[PlayStation 4用ソフト](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")。開発は[ユークス](../Page/ユークス.md "wikilink")。ストーリーや世界観のつながりはなく、敵は「アグレッサー」と呼ばれている。なお、ゲームエンジンに[Unreal Engineを使用している](../Page/Unreal_Engine.md "wikilink")。また、シリーズ初のゲーム内通貨を採用。
+  - ま～るい地球が四角くなった\!? デジボク地球防衛軍 EARTH DEFENSE：WORLD BROTHERS
+    2020年6月23日に発表された[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")・[Nintendo Switch用ソフト](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")。2020年発売予定。
+  - 地球防衛軍6
+    2020年6月23日に発表されたCSタイトル。2021年発売予定。
 
 ## 外部リンク
 
@@ -545,5 +549,7 @@
   - [『地球防衛軍4.1 ウイングダイバー・ザ・シューター』公式サイト](https://www.d3p.co.jp/edf4.1_wds/)
   - [『地球防衛軍5』公式サイト](https://www.d3p.co.jp/edf5/)
   - [『EARTH DEFENSE FORCE: IRON RAIN』公式サイト](https://www.d3p.co.jp/edfir/)
+  - [『ま～るい地球が四角くなった\!? デジボク地球防衛軍 EARTH DEFENSE FORCE: WORLD BROTHERS』公式サイト](https://www.d3p.co.jp/edfwb/)
+  - [『地球防衛軍6』公式サイト](https://www.d3p.co.jp/edf6/)
 
 [Category:SIMPLEシリーズ](https://ja.wikipedia.org/wiki/Category:SIMPLEシリーズ "wikilink") [Category:アクションゲーム](https://ja.wikipedia.org/wiki/Category:アクションゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:2003年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2003年のコンピュータゲーム "wikilink")

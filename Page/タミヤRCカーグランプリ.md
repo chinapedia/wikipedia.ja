@@ -1,7 +1,7 @@
 > この記事は[タミヤRCカーグランプリ](https://ja.wikipedia.org/wiki/タミヤRCカーグランプリ)から翻訳されています。
 
 
-『**タミヤRCカーグランプリ**』（タミヤアールシーカーグランプリ）は、田宮模型（現・[タミヤ](../Page/タミヤ.md "wikilink")）が開催するラジコンカーによるレース大会である。また、[えすと](../Page/えすと.md "wikilink")制作により[テレビ東京系列局ほかで放送されていた](https://ja.wikipedia.org/wiki/TXN "wikilink")、田宮模型（現・[タミヤ](../Page/タミヤ.md "wikilink")）[一社提供](../Page/一社提供.md "wikilink")の[テレビ番組](../Page/テレビ番組.md "wikilink")。製作局の[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")では[1984年](../Page/1984年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1999年](../Page/1999年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送。
+『**タミヤRCカーグランプリ**』（タミヤアールシーカーグランプリ）は、田宮模型（現・[タミヤ](../Page/タミヤ.md "wikilink")）が開催するラジコンカーによるレース大会である。また、[えすと](../Page/えすと.md "wikilink")制作により[テレビ東京系列局ほかで放送されていた](https://ja.wikipedia.org/wiki/TXN "wikilink")、田宮模型（現・[タミヤ](../Page/タミヤ.md "wikilink")）[一社提供](../Page/一社提供.md "wikilink")の[テレビ番組](../Page/テレビ番組.md "wikilink")。製作局の[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")では[1984年](../Page/1984年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[1999年](../Page/1999年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで放送。
 
 ## 概要
 
@@ -18,7 +18,7 @@
 ### 歴代リポーター
 
   - [大野香菜](../Page/大野香菜.md "wikilink")（開始〜1986年9月）
-  - [日高のり子](../Page/日高のり子.md "wikilink")（1986年10月〜1990年5月） - 1998年ではアニメ『[爆走兄弟レッツ&ゴー\!\!MAX](https://ja.wikipedia.org/wiki/爆走兄弟レッツ&ゴー!!MAX "wikilink")』の主人公の一人・一文字烈矢を演じる。
+  - [日髙のり子](../Page/日髙のり子.md "wikilink")（1986年10月〜1990年5月） - 1998年ではアニメ『[爆走兄弟レッツ&ゴー\!\!MAX](https://ja.wikipedia.org/wiki/爆走兄弟レッツ&ゴー!!MAX "wikilink")』の主人公の一人・一文字烈矢を演じる。
   - [前田靖幸](https://ja.wikipedia.org/wiki/前田靖幸 "wikilink") （1988年4月〜1994年3月） - 1986年より田宮模型の名物開発スタッフとして「前ちゃん」の愛称で番組に登場。巧みな話術を買われ1988年より社員ながら正式にレギュラーの司会･解説役に起用される。尚、現在はタミヤを退社し、[スクウェア](../Page/スクウェア_\(ゲーム会社\).md "wikilink")（現：[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）、[楽天](https://ja.wikipedia.org/wiki/楽天 "wikilink")、[AQインタラクティブ](../Page/AQインタラクティブ.md "wikilink")を経て、[ユビキタスエンターテインメント](https://ja.wikipedia.org/wiki/ユビキタスエンターテインメント "wikilink")に勤務している。
   - [小林彩子](https://ja.wikipedia.org/wiki/小林彩子 "wikilink")（1990年5月〜1991年5月）
   - [春風亭昇太](../Page/春風亭昇太.md "wikilink")（1994年4月〜終了まで）
@@ -49,18 +49,21 @@
   - 制作協力：[グレートデン](https://ja.wikipedia.org/wiki/グレートデン "wikilink")
   - 製作：テレビ東京、EST→えすと
 
-## 放送時間・ネット局
+## 放送時間
 
-いずれもテレビ東京との同時ネットの放送時間。
+いずれもテレビ東京の時間帯とする（出典：\[2\]）。
 
-  - 金曜17:55 - 18:10 （1984年10月 - 1985年3月）
-  - 金曜17:55 - 18:15 （1985年4月 - 1985年12月）
-  - 金曜18:00 - 18:20 （1986年1月 - 1989年3月）
-  - 水曜18:00 - 18:20 （1989年4月 - 1990年3月）
-  - 月曜17:00 - 17:20 （1990年4月 - 1990年9月）
-  - 月曜07:20 - 07:50 （1990年10月 - 1992年3月）
-  - 月曜07:00 - 07:30 （1992年4月 - 1993年3月）
-  - 日曜07:00 - 07:30 （1993年4月 - 1999年3月）
+| 放送期間       | 放送時間（[日本時間](../Page/日本標準時.md "wikilink")） |
+| ---------- | ----------------------------------------- |
+| 1984.10.05 | 1985.12.27                                |
+| 1986.01.10 | 1989.03.31                                |
+| 1989.04.04 | 1990.03.28                                |
+| 1990.04.02 | 1990.09.24                                |
+| 1990.10.01 | 1992.03.30                                |
+| 1992.04.06 | 1993.03.29                                |
+| 1993.04.04 | 1999.03.28                                |
+
+## 放送局
 
 <table>
 <caption>同時ネット局</caption>
@@ -80,7 +83,9 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
 <td><p><a href="../Page/テレビ北海道.md" title="wikilink">テレビ北海道</a></p></td>
-<td><p>1989年10月開局</p></td>
+<td><p>1989年10月開局。開局当初から1990年3月28日までは同時ネット。<br />
+1990年4月6日から同年9月28日までは金曜 7:50 - 8:10に遅れネット。<br />
+1990年10月1日以降は同時ネットに戻る[3]。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a></p></td>
@@ -162,7 +167,7 @@
 <tr class="odd">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
 <td><p><a href="../Page/長野放送.md" title="wikilink">長野放送</a>（FNS）</p></td>
-<td><p>1989年3月時点では、金曜 16:40 - 17:00にて放送[2]</p></td>
+<td><p>1989年3月時点では、金曜 16:40 - 17:00にて放送[4]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a></p></td>
@@ -190,7 +195,7 @@
 <tr class="even">
 <td><p><a href="../Page/岐阜県.md" title="wikilink">岐阜県</a></p></td>
 <td><p><a href="../Page/岐阜放送.md" title="wikilink">岐阜放送</a>（独立局）</p></td>
-<td><p><a href="http://www.hs-tamtam.jp/">TAMTAM</a>1社提供[3]</p></td>
+<td><p><a href="http://www.hs-tamtam.jp/">TAMTAM</a>1社提供[5]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/滋賀県.md" title="wikilink">滋賀県</a></p></td>
@@ -267,8 +272,10 @@
 
 ### 出典
 
-[Category:1984年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1984年のテレビ番組_\(日本\) "wikilink") [Category:テレビ東京の番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の番組の歴史 "wikilink") [Category:テレビ東京の一社提供番組](https://ja.wikipedia.org/wiki/Category:テレビ東京の一社提供番組 "wikilink") [Category:日本のCSテレビ番組](https://ja.wikipedia.org/wiki/Category:日本のCSテレビ番組 "wikilink") [Category:タミヤ](https://ja.wikipedia.org/wiki/Category:タミヤ "wikilink") [Category:ラジコン](https://ja.wikipedia.org/wiki/Category:ラジコン "wikilink") [Category:ミニ四駆](https://ja.wikipedia.org/wiki/Category:ミニ四駆 "wikilink")
+[Category:タミヤ](https://ja.wikipedia.org/wiki/Category:タミヤ "wikilink") [Category:1984年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1984年のテレビ番組_\(日本\) "wikilink") [Category:テレビ東京の番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の番組の歴史 "wikilink") [Category:テレビ東京の一社提供番組](https://ja.wikipedia.org/wiki/Category:テレビ東京の一社提供番組 "wikilink") [Category:日本のCSテレビ番組](https://ja.wikipedia.org/wiki/Category:日本のCSテレビ番組 "wikilink") [Category:日本の競技会](https://ja.wikipedia.org/wiki/Category:日本の競技会 "wikilink") [Category:ラジコン](https://ja.wikipedia.org/wiki/Category:ラジコン "wikilink") [Category:ミニ四駆](https://ja.wikipedia.org/wiki/Category:ミニ四駆 "wikilink") [Category:静岡市の文化](https://ja.wikipedia.org/wiki/Category:静岡市の文化 "wikilink")
 
 1.  タミヤRCカーグランプリ　イベント一覧[1](https://www.tamiya.com/japan/rc/event/rccargp_beginner/eventlist.html)
-2.  『長野放送二十年の歩み』（1989年5月25日、長野放送発行）175pより。
-3.  ただしオープニング・エンディングには「タミヤ」の文字が入っていた
+2.  『[読売新聞](../Page/読売新聞.md "wikilink")』（縮刷・関東版） 1984年（昭和59年）10月 - 1999年（平成11年）3月、テレビ欄。
+3.  『[北海道新聞](../Page/北海道新聞.md "wikilink")』（縮刷版） 1989年（平成元年）10月 - 1999年（平成11年）3月、テレビ欄。
+4.  『長野放送二十年の歩み』（1989年5月25日、長野放送発行）175pより。
+5.  ただしオープニング・エンディングには「タミヤ」の文字が入っていた

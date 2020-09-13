@@ -113,7 +113,7 @@
   - [福岡NEWSファイル CUBE](https://www.tnc.co.jp/cube/) - 番組公式サイト
 
   -
-[Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink") [Category:テレビ西日本の番組](https://ja.wikipedia.org/wiki/Category:テレビ西日本の番組 "wikilink") [Category:九州・沖縄地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビのニュース・報道番組 "wikilink") [Category:九州・沖縄地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビの情報・ワイドショー番組 "wikilink")
+[Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink") [Category:テレビ西日本の番組](https://ja.wikipedia.org/wiki/Category:テレビ西日本の番組 "wikilink") [Category:九州・沖縄地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビのニュース・報道番組 "wikilink") [Category:九州・沖縄地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビの情報・ワイドショー番組 "wikilink") [Category:継続中にタイトルが変更された作品](https://ja.wikipedia.org/wiki/Category:継続中にタイトルが変更された作品 "wikilink")
 
 1.
 2.  西日本新聞社は北九州本社開設に合わせて組織を再編。旧スポーツ本部は報道本部など関係先に分割・統合された。

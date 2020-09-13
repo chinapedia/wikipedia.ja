@@ -18,7 +18,7 @@
 ## 収録曲
 
 1.  **Stage of the ground**
-      - 作詞:・作曲:[Motoo Fujiwara](https://ja.wikipedia.org/wiki/藤原基央 "wikilink")
+      - 作詞・作曲:[Motoo Fujiwara](https://ja.wikipedia.org/wiki/藤原基央 "wikilink")
     <!-- end list -->
       -
         メンバーの友人に子供が生まれ、記念に作った曲。[歌詞](../Page/歌詞.md "wikilink")にその子の名前の[漢字](../Page/漢字.md "wikilink")が散りばめられており（直井はそれにすぐ気づいた）「那由多」という言葉は「由」を使うために入れた（「自由」という言葉は使いたくなかったので「[那由多](https://ja.wikipedia.org/wiki/那由多 "wikilink")」という単語が出てきたらしい）。
@@ -27,12 +27,12 @@
         アルバム曲だが、ベストアルバム『[BUMP OF CHICKEN I ＜1999-2004＞](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN_I_＜1999-2004＞ "wikilink")』にも収録されている。
         ドラマ「[天体観測](../Page/天体観測_\(テレビドラマ\).md "wikilink")」挿入歌。
 2.  **[天体観測](../Page/天体観測_\(曲\).md "wikilink")**
-      - 作詞:・作曲:Motoo Fujiwara
+      - 作詞・作曲:Motoo Fujiwara
     <!-- end list -->
       -
         2ndシングル。ドラマ「天体観測」挿入歌。
 3.  **Title of mine**
-      - 作詞:・作曲:Motoo Fujiwara
+      - 作詞・作曲:Motoo Fujiwara
     <!-- end list -->
       -
         「ダイヤモンド」製作後、[メロディー](https://ja.wikipedia.org/wiki/メロディー "wikilink")から先に作られた曲。藤原が初めて嫌いになった曲であるという（今ではもう受け入れることが出来たらしい）。藤原曰く「当初、自分は天才じゃないかと思うくらいの自信作だったが、歌詞を書いているうちに自分自身と重なり始め、歌うのが辛くなった」らしい。メンバーに支えられながらなんとかレコーディングをした。旧タイトルが「Title」だったが、スタッフ等の提案から「Title of mine」にしたと言う話もある。
@@ -41,36 +41,36 @@
     <!-- end list -->
       -
         増川と藤原による共作。箱根で合宿を行い完成した。作詞にあたって、二人は[キャッチボール](../Page/キャッチボール.md "wikilink")ではなく[バドミントン](../Page/バドミントン.md "wikilink")をした。藤原はキャッチボールを題材に「制作中の増川のことを書いた」と語っている。
-5.  **[ハルジオン](../Page/ハルジオン_\(曲\).md "wikilink")**
-      - 作詞:・作曲:Motoo Fujiwara
+5.  **[ハルジオン](https://ja.wikipedia.org/wiki/ハルジオン_\(BUMP_OF_CHICKENの曲\) "wikilink")**
+      - 作詞・作曲:Motoo Fujiwara
     <!-- end list -->
       -
         3rdシングル。MVに出てくる白い花は、ハルジオンでは無い。
 6.  **ベンチとコーヒー**
-      - 作詞:・作曲:Motoo Fujiwara
+      - 作詞・作曲:Motoo Fujiwara
     <!-- end list -->
       -
         藤原が実際の一日の経験を元に作詞し、直井の誕生日に贈った曲。今も直井は贈られた歌詞を[額縁](../Page/額縁.md "wikilink")に入れて飾っているという。
 7.  **メロディーフラッグ**
-      - 作詞:・作曲:Motoo Fujiwara
+      - 作詞・作曲:Motoo Fujiwara
     <!-- end list -->
       -
         雪の日に転んで一時的な記憶障害に陥った親友に贈った歌とされている。この曲のPVでは、過去のPVの映像も一部使用されている。
         ドラマ「天体観測」挿入歌。
 8.  **ベル**
-      - 作詞:・作曲:Motoo Fujiwara
+      - 作詞・作曲:Motoo Fujiwara
     <!-- end list -->
       -
         メロディーから先に作られた曲。完成当時、タイトルは決まっていなかった。『天体観測』がヒットした当時、全く交流のなかった知り合いなどから多くの電話がかかってきて人間不信になりかけた。だが、突然友人から「大丈夫か」との電話がかかってきて、それに救われたのをきっかけに作曲されたという。
         楽曲発表後、ライブでは一度も演奏されたことがなかったが、2016年2月11日に行われた結成20周年記念ライブ『20』で発表から14年を経て初披露された\[3\]。
         ドラマ「天体観測」挿入歌。
 9.  **[ダイヤモンド](../Page/ダイヤモンド_\(BUMP_OF_CHICKENの曲\).md "wikilink")**
-      - 作詞:・作曲:Motoo Fujiwara
+      - 作詞・作曲:Motoo Fujiwara
     <!-- end list -->
       -
         メジャーデビューシングル。
 10. **ダンデライオン**
-      - 作詞:・作曲:Motoo Fujiwara
+      - 作詞・作曲:Motoo Fujiwara
     <!-- end list -->
       -
         百獣の王[ライオン](../Page/ライオン.md "wikilink")とDande**lion**（[タンポポ](../Page/タンポポ.md "wikilink")）をかけており、ライオンのタンポポへの一方的な友情を描いた曲。もともとそんなに[テンポ](../Page/テンポ.md "wikilink")が速い曲ではなかったのだが、直井曰く、升が勘違いしてドカドカ叩いてしまったので、今のような曲調になったとのこと。

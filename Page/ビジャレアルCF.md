@@ -1,7 +1,7 @@
 > この記事は[ビジャレアルCF](https://ja.wikipedia.org/wiki/ビジャレアルCF)から翻訳されています。
 
 
-**ビジャレアル・クルブ・デ・フトボル**(Villarreal Club de Fútbol) は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バレンシア州](https://ja.wikipedia.org/wiki/バレンシア州 "wikilink")[カステリョン県](../Page/カステリョン県.md "wikilink")[ヴィラ＝レアル](../Page/ヴィラ＝レアル.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。2019-20シーズンは[プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink")（1部）に所属している。1923年に創設され、24,890人収容の[エル・マドリガル](https://ja.wikipedia.org/wiki/エル・マドリガル "wikilink")をホームスタジアムとしている。
+**ビジャレアル・クルブ・デ・フトボル**(Villarreal Club de Fútbol) は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バレンシア州](https://ja.wikipedia.org/wiki/バレンシア州 "wikilink")[カステリョン県](../Page/カステリョン県.md "wikilink")[ヴィラ＝レアル](../Page/ヴィラ＝レアル.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。2020-21シーズンは[プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink")（1部）に所属している。1923年に創設され、24,890人収容の[エル・マドリガル](https://ja.wikipedia.org/wiki/エル・マドリガル "wikilink")をホームスタジアムとしている。
 
 ビジャレアルとはスペイン語で「王の町」という意味であり、その名の通りチームのエンブレムには王冠があしらわれている。ただし、この場合の王とは[アラゴン王国](../Page/アラゴン王国.md "wikilink")の王を指し、現在のスペイン王室ではない。そのため王冠のデザインも他のレアルを冠するチームのものとは異なっている\[1\]。しばしば、成功したスモールクラブの例として引き合いに出される\[2\]。
 
@@ -43,11 +43,13 @@
 
 2017-18シーズン、スタートに躓き、[フラン・エスクリバ](https://ja.wikipedia.org/wiki/フラン・エスクリバ "wikilink")監督を解任し、[Bチームを指揮していた](https://ja.wikipedia.org/wiki/ビジャレアルCF_B "wikilink")[ハビエル・カジェハ](https://ja.wikipedia.org/wiki/ハビエル・カジェハ "wikilink")監督をトップチームに招集した。就任後は瞬く間にチームを掌握し、初陣となった[エイバル戦で](../Page/SDエイバル.md "wikilink")[セドリック・バカンブ](https://ja.wikipedia.org/wiki/セドリック・バカンブ "wikilink")がハットトリックを決め3-0と快勝した。2月に調子を落とすが、33節の[レガネス戦から復調し](https://ja.wikipedia.org/wiki/CDレガネス "wikilink")、結果、18勝7分け13敗のリーグ5位でシーズンを終えた。
 
+2020年7月23日、ウナイ・エメリのトップチーム監督就任を発表。
+
 ## クラブカラーとユニフォーム
 
 [第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前のユニフォームは白色のシャツと黒色のパンツであり、よく知られた黄色いユニフォームの起源は1947年まで遡る。新シーズンを間近に控えたある日、会長の息子がバレンシアのスポーツ店に立ち寄ったが、ユニフォームの在庫が黄色しかなく、しかたなく黄色いユニフォームを買って地元に帰ったことがユニフォームカラー変更のきっかけである。選手たちは黄色のシャツに関してはクラブにうってつけであるとしたが、黒色のパンツは好まず、会長の息子がカステリョンまで赴いて白色のパンツを人数分購入した。その後、選手たちの投票によってパンツが青色に染められた\[40\]。この後しばらくは黄色のシャツと青色のパンツという組み合わせが続いたが、2003-04シーズンに黄色のシャツと黄色のパンツという組み合わせに変更された\[41\]。アウェーユニフォームにはしばしば濃紺色が使われる。
 
-2005-06シーズンから2010-11シーズンまではカステリョン空港（Aeroport Castello、アエロポルト・カステーリョ）が胸スポンサーであったが、2011-12シーズン以降は胸スポンサーがない状態が続いている。かつては[プーマ](../Page/プーマ.md "wikilink")（ドイツ）がユニフォームサプライヤーであったが、現在はXtep（中国）がユニフォームを製造している。
+2005-06シーズンから2010-11シーズンまではカステリョン空港（Aeroport Castello、アエロポルト・カステーリョ）が胸スポンサーであったが、2011-12シーズン以降は胸スポンサーがない状態が続いている。かつては[プーマ](../Page/プーマ.md "wikilink")がユニフォームサプライヤーであったが、現在はJoma(ホマ)がユニフォームを製造している。
 
 ## ニックネームとマスコット
 
@@ -67,30 +69,12 @@
 
 ### 国内タイトル
 
-  - **[プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink") 2位 : (1)**
-
-<!-- end list -->
-
-  -
-    2007–08
-
-<!-- end list -->
-
   - **[セグンダ・ディビシオン](../Page/セグンダ・ディビシオン.md "wikilink") プリメーラ昇格 : (3)**
 
 <!-- end list -->
 
   -
     1997–98, 1999-00, 2012-13
-
-<!-- end list -->
-
-  - **[セグンダ・ディビシオンB](../Page/セグンダ・ディビシオンB.md "wikilink") 2位 : (2)**
-
-<!-- end list -->
-
-  -
-    1987–88, 1991–92
 
 <!-- end list -->
 
@@ -102,24 +86,6 @@
     1969-70
 
 ### 国際タイトル
-
-  - **[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink") ベスト4 : (1)**
-
-<!-- end list -->
-
-  -
-    2005–06
-
-<!-- end list -->
-
-  - **[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink") ベスト4 : (2)**
-
-<!-- end list -->
-
-  -
-    2003–04, 2010–11
-
-<!-- end list -->
 
   - **[UEFAインタートトカップ](../Page/UEFAインタートトカップ.md "wikilink") 優勝 : (2)**
 
@@ -522,6 +488,38 @@
 </tr>
 <tr class="even">
 <td><p>2018-19</p></td>
+<td><p>14位</p></td>
+<td><p>38</p></td>
+<td><p>10</p></td>
+<td><p>14</p></td>
+<td><p>14</p></td>
+<td><p>49</p></td>
+<td><p>52</p></td>
+<td><p><strong>44</strong></p></td>
+<td><p>ベスト16</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2018-19" title="wikilink">UEL</a></p></td>
+<td><p>準々決勝敗退</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/カール・トコ・エカンビ" title="wikilink">エカンビ</a></p></td>
+<td><p>18点</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019-20</p></td>
+<td><p>5位</p></td>
+<td><p>38</p></td>
+<td><p>18</p></td>
+<td><p>6</p></td>
+<td><p>14</p></td>
+<td><p>63</p></td>
+<td><p>49</p></td>
+<td><p><strong>60</strong></p></td>
+<td><p>準々決勝敗退</p></td>
+<td></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジェラール・モレノ" title="wikilink">モレノ</a></p></td>
+<td><p>20点</p></td>
+</tr>
+<tr class="even">
+<td><p>2020-21</p></td>
 <td><p>位</p></td>
 <td><p>38</p></td>
 <td></td>
@@ -530,9 +528,9 @@
 <td></td>
 <td></td>
 <td><p>''' '''</p></td>
-<td><p>ベスト16</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2018-19" title="wikilink">UEL</a></p></td>
-<td><p>準々決勝敗退</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2020-21" title="wikilink">UEL</a></p></td>
+<td></td>
 <td></td>
 <td><p>点</p></td>
 </tr>
@@ -899,7 +897,7 @@
 <td><p>2007–08</p></td>
 <td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>2位</p></td>
-<td><p>ベスト8</p></td>
+<td><p>準々決勝敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>2008–09</p></td>
@@ -917,7 +915,7 @@
 <td><p>2010–11</p></td>
 <td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>4位</p></td>
-<td><p>ベスト8</p></td>
+<td><p>準々決勝敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011–12</p></td>
@@ -960,7 +958,7 @@
 <td><p>2014–15</p></td>
 <td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>6位</p></td>
-<td><p>ベスト4</p></td>
+<td><p>準決勝敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>2015-16</p></td>
@@ -983,8 +981,20 @@
 <tr class="odd">
 <td><p>2018-19</p></td>
 <td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
-<td><p>位</p></td>
+<td><p>14位</p></td>
 <td><p>ベスト16</p></td>
+</tr>
+<tr class="even">
+<td><p>2019-20</p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>5位</p></td>
+<td><p>準々決勝敗退</p></td>
+</tr>
+<tr class="odd">
+<td><p>2020-21</p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>位</p></td>
+<td></td>
 </tr>
 </tbody>
 </table></td>
@@ -994,7 +1004,7 @@
 
 -----
 
-  - **19**シーズン - [プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink")（1部）
+  - **21**シーズン - [プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink")（1部）
   - **10**シーズン - [セグンダ・ディビシオン](../Page/セグンダ・ディビシオン.md "wikilink")（2部）
   - **4**シーズン - [セグンダ・ディビシオンB](../Page/セグンダ・ディビシオンB.md "wikilink")（3部相当、1977年創設）
   - **23**シーズン - [テルセーラ・ディビシオン](../Page/テルセーラ・ディビシオン.md "wikilink")（4部相当、1977年以前は3部相当）
@@ -1010,9 +1020,9 @@
 
 </div>
 
-  - 2020年2月1日時点
+  - 2020年8月12日時点
 
-([副主将](../Page/主将.md "wikilink"))   ★   ★  ★        ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))
+([副主将](../Page/主将.md "wikilink"))    ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Martinique.svg "wikilink")) ★  ★     ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))
 
 ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 
@@ -1020,7 +1030,7 @@
 
 <!-- end list -->
 
-  - [ハビエル・カジェハ](https://ja.wikipedia.org/wiki/ハビエル・カジェハ "wikilink")
+  - [ウナイ・エメリ](../Page/ウナイ・エメリ.md "wikilink")
 
 ### ローン移籍
 
@@ -1072,9 +1082,11 @@
 
   - [フラン・エスクリバ](https://ja.wikipedia.org/wiki/フラン・エスクリバ "wikilink") 2016.8-2017.9
 
-  - [ハビエル・カジェハ](https://ja.wikipedia.org/wiki/ハビエル・カジェハ "wikilink") 2017.9-2018.12, 2019.1-
+  - [ハビエル・カジェハ](https://ja.wikipedia.org/wiki/ハビエル・カジェハ "wikilink") 2017.9-2018.12, 2019.1-2020.7
 
   - [ルイス・ガルシア・プラサ](https://ja.wikipedia.org/wiki/ルイス・ガルシア・プラサ "wikilink") 2018.12-2019.1
+
+  - [ウナイ・エメリ](../Page/ウナイ・エメリ.md "wikilink") 2020.7-
 
 ## 歴代所属選手
 

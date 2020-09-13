@@ -12,7 +12,7 @@
 ## 出演者
 
   - [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の有名釣り師の[西山徹](../Page/西山徹.md "wikilink")、[大塚貴汪](../Page/大塚貴汪.md "wikilink")、[村越正海](../Page/村越正海.md "wikilink")、[村田満](../Page/村田満.md "wikilink")、[岩井渓一郎](../Page/岩井渓一郎.md "wikilink")や、[バスプロの](../Page/バスフィッシング・プロフェッショナル.md "wikilink")[並木敏成](../Page/並木敏成.md "wikilink")、[清水盛三](../Page/清水盛三.md "wikilink")、[大森貴洋](../Page/大森貴洋.md "wikilink")、[宮崎友輔](https://ja.wikipedia.org/wiki/宮崎友輔 "wikilink")などが出演している（出演していた）。西山に関しては、放送時間が土曜夕方に変更された際に特別追悼番組が制作された。
-  - 釣り愛好家の[反町隆史](https://ja.wikipedia.org/wiki/反町隆史 "wikilink")や元[YMOの](../Page/イエロー・マジック・オーケストラ.md "wikilink")[高橋幸宏](../Page/高橋幸宏.md "wikilink")、[プロ野球選手](../Page/プロ野球選手.md "wikilink")の[田中将大](https://ja.wikipedia.org/wiki/田中将大 "wikilink")、女性タレントきっての釣り愛好家として知られる[水野裕子](../Page/水野裕子.md "wikilink")、[上野ひとみ](https://ja.wikipedia.org/wiki/上野ひとみ "wikilink")、[児島玲子](../Page/児島玲子.md "wikilink")（長年[釣り・ロマンを求めて](../Page/釣り・ロマンを求めて.md "wikilink")等シマノ系に出演していたが2014年よりがダイワとテスター契約したために）、[あべなぎさ](../Page/あべなぎさ.md "wikilink")、[晴山由梨](https://ja.wikipedia.org/wiki/晴山由梨 "wikilink")など芸能人や著名人も登場する。水野は2003年10月から数年間自身のコーナーが存在し、事実上の準レギュラーでもあった。
+  - 釣り愛好家の[反町隆史](https://ja.wikipedia.org/wiki/反町隆史 "wikilink")や[つるの剛士](https://ja.wikipedia.org/wiki/つるの剛士 "wikilink")、元[YMOの](../Page/イエロー・マジック・オーケストラ.md "wikilink")[高橋幸宏](../Page/高橋幸宏.md "wikilink")、[プロ野球選手](../Page/プロ野球選手.md "wikilink")の[田中将大](https://ja.wikipedia.org/wiki/田中将大 "wikilink")、女性タレントきっての釣り愛好家として知られる[水野裕子](../Page/水野裕子.md "wikilink")、[上野ひとみ](https://ja.wikipedia.org/wiki/上野ひとみ "wikilink")、[児島玲子](../Page/児島玲子.md "wikilink")（長年[釣り・ロマンを求めて](../Page/釣り・ロマンを求めて.md "wikilink")等シマノ系に出演していたが2014年よりがダイワとテスター契約したために）、[あべなぎさ](../Page/あべなぎさ.md "wikilink")、[晴山由梨](https://ja.wikipedia.org/wiki/晴山由梨 "wikilink")など芸能人や著名人も登場する。水野は2003年10月から数年間自身のコーナーが存在し、事実上の準レギュラーでもあった。
 
 この時の構成は、タレントフィッシングカップのプロデューサー　水野重幸が行っている。
 
@@ -245,7 +245,7 @@
     [福井県](../Page/福井県.md "wikilink")・[福井テレビ](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")（FTB）
     [三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")・[三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")（MTV）
     [鳥取県・島根県](../Page/山陰地方.md "wikilink")・[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")（BSS）
-    [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")・[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")（JRT）
+    [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")・[四国放送](../Page/四国放送.md "wikilink")（JRT）
     [愛媛県](../Page/愛媛県.md "wikilink")・[テレビ愛媛](../Page/テレビ愛媛.md "wikilink")（EBC）
       - この8局は2009年[3月29日](../Page/3月29日.md "wikilink")をもって終了
   - [広島県](../Page/広島県.md "wikilink")・[広島テレビ](../Page/広島テレビ放送.md "wikilink")（HTV）
@@ -299,7 +299,7 @@
   - [THEフィッシング](https://www.tv-osaka.co.jp/ip4/the_fishing/)
   - [DAIWA:FISHING ch.](http://www.fishingch.jp/index.html)
 
-[Category:1983年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1983年のテレビ番組_\(日本\) "wikilink") [Category:テレビ大阪番組](https://ja.wikipedia.org/wiki/Category:テレビ大阪番組 "wikilink") [Category:テレビ東京のドキュメンタリー番組](https://ja.wikipedia.org/wiki/Category:テレビ東京のドキュメンタリー番組 "wikilink") [Category:釣り番組](https://ja.wikipedia.org/wiki/Category:釣り番組 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
+[Category:1983年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1983年のテレビ番組_\(日本\) "wikilink") [Category:テレビ大阪の番組](https://ja.wikipedia.org/wiki/Category:テレビ大阪の番組 "wikilink") [Category:テレビ東京のドキュメンタリー番組](https://ja.wikipedia.org/wiki/Category:テレビ東京のドキュメンタリー番組 "wikilink") [Category:釣り番組](https://ja.wikipedia.org/wiki/Category:釣り番組 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
 1.  自身もかなりの釣り好きでこの仕事が決まった時かなり喜んだという。
 2.  2014年3月までは日曜 6:15 - 6:45、2015年9月までは日曜 6:30 - 7:00に放送された。

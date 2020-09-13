@@ -546,6 +546,6 @@
 1.  2002年に少年エースの誌上通販で販売された。
 2.  第2期の第7話のみ。
 3.  [北米版公式サイト](http://www.girlsbravodvd.com/) 「Products」を参照。2007年11月11日閲覧
-4.  [GIRLSブラボー first season](http://web.archive.org/web/20071218070659/http://www.at-x.com/program_detail/index.html/2155/) AT-X 2007年11月11日閲覧（2007年12月18日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
-5.  [GIRLSブラボー second season](http://web.archive.org/web/20071218070705/http://www.at-x.com/program_detail/index.html/2202/) AT-X 2007年11月11日閲覧（2007年12月18日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+4.  [GIRLSブラボー first season](https://web.archive.org/web/20071218070659/http://www.at-x.com/program_detail/index.html/2155/) AT-X 2007年11月11日閲覧（2007年12月18日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+5.  [GIRLSブラボー second season](https://web.archive.org/web/20071218070705/http://www.at-x.com/program_detail/index.html/2202/) AT-X 2007年11月11日閲覧（2007年12月18日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 6.  『Girlsブラボー』 first season アニメ版 DVD 第6巻 映像特典

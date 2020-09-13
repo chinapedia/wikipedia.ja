@@ -23,11 +23,13 @@
 
 オーディションでグランプリに選ばれ、メンズノンノ・モデルになると、1年専属契約を結び、誌面に登場する。他のモデルとは違い、契約期間中は『MEN'S NON-NO』以外の仕事は基本的に出来ない。
 
-主な専属モデル出身者には、俳優の[田辺誠一](../Page/田辺誠一.md "wikilink")やミュージシャンの[マーク・パンサー](../Page/マーク・パンサー.md "wikilink")、現在も『MEN'S NON-NO』やファッション誌でモデルとして活躍した[勝哲也](https://ja.wikipedia.org/wiki/勝哲也 "wikilink")、[東出昌大](../Page/東出昌大.md "wikilink")などがいる。
+主な専属モデル出身者には、俳優の[田辺誠一](../Page/田辺誠一.md "wikilink")、[勝哲也](https://ja.wikipedia.org/wiki/勝哲也 "wikilink")、[東出昌大](../Page/東出昌大.md "wikilink")、[坂口健太郎](https://ja.wikipedia.org/wiki/坂口健太郎 "wikilink")やミュージシャンの[マーク・パンサー](../Page/マーク・パンサー.md "wikilink")、現在も『MEN'S NON-NO』やファッション誌でモデルとして活躍した[柳俊太郎](https://ja.wikipedia.org/wiki/柳俊太郎 "wikilink")、[成田凌](https://ja.wikipedia.org/wiki/成田凌 "wikilink")、[清原翔](https://ja.wikipedia.org/wiki/清原翔 "wikilink")、[宮沢氷魚](https://ja.wikipedia.org/wiki/宮沢氷魚 "wikilink")などがいる。
 
 ## モデル
 
 ### 歴代専属モデル（メンズノンノ・モデル）
+
+★は在籍中。
 
 ### 専属以外のレギュラーモデル
 
@@ -58,5 +60,7 @@
 
   - [MEN'S NON-NO WEB](https://www.mensnonno.jp/)
 
+  -
+  -
   -
 [Category:集英社の雑誌](https://ja.wikipedia.org/wiki/Category:集英社の雑誌 "wikilink") [Category:男性向けファッション雑誌](https://ja.wikipedia.org/wiki/Category:男性向けファッション雑誌 "wikilink") [Category:1986年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1986年創刊の雑誌 "wikilink")

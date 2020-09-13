@@ -19,57 +19,56 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [青沼郁夫](../Page/青沼郁夫.md "wikilink")(あおぬま・いくお)\[2\]\[3\]
-  - [秋山和平](https://ja.wikipedia.org/wiki/秋山和平 "wikilink")(あきやま・かずへい)\[4\]
-  - [秋山隆](https://ja.wikipedia.org/wiki/秋山隆 "wikilink")(あきやま・たかし)
-  - [飯田恵一](https://ja.wikipedia.org/wiki/飯田恵一 "wikilink")(いいだ・けいいち)
-  - [石戸谷健一](../Page/石戸谷健一.md "wikilink")(いしとや・けんいち)
-  - [伊藤文樹](https://ja.wikipedia.org/wiki/伊藤文樹 "wikilink")(いとう・ふみき)
-  - [伊藤健三](https://ja.wikipedia.org/wiki/伊藤健三 "wikilink")(いとう・けんぞう)
-  - [岩井正](https://ja.wikipedia.org/wiki/岩井正 "wikilink")(いわい・ただし)\[5\]\[6\]
-  - [岩澤忠彦](https://ja.wikipedia.org/wiki/岩澤忠彦 "wikilink")(いわさわ・ただひこ)\[7\]\[8\]
-  - [植木彰](https://ja.wikipedia.org/wiki/植木彰 "wikilink")(うえき・あきら)
-  - [梅津正樹](../Page/梅津正樹.md "wikilink")(うめづ・まさき)
-  - [大沢肇](https://ja.wikipedia.org/wiki/大沢肇 "wikilink")(おおさわ・はじめ)
-  - [大野済也](../Page/大野済也.md "wikilink")(おおの・せいや)
-  - [岡留正嗣](https://ja.wikipedia.org/wiki/岡留正嗣 "wikilink")(おかどめ・まさつぐ)
-  - [岡部晃彦](../Page/岡部晃彦.md "wikilink")(おかべ・あきひこ)
-  - [恩蔵憲一](../Page/恩蔵憲一.md "wikilink")(おんぞう・けんいち)
-  - [風見雅章](https://ja.wikipedia.org/wiki/風見雅章 "wikilink")(かざみ・まさあき)\[9\]\[10\]\[11\]
-  - [加藤昌男](../Page/加藤昌男.md "wikilink")(かとう・まさお)\[12\]
-  - [金井直己](https://ja.wikipedia.org/wiki/金井直己 "wikilink")(かない・なおき)
-  - [兼本泰興](https://ja.wikipedia.org/wiki/兼本泰興 "wikilink")(かねもと・たいこう)
-  - [蕪木弘道](https://ja.wikipedia.org/wiki/蕪木弘道 "wikilink")(かぶらぎ・ひろみち)
-  - [河路勝](https://ja.wikipedia.org/wiki/河路勝 "wikilink")(かわじ・まさる)\[13\]
-  - [木原秋好](https://ja.wikipedia.org/wiki/木原秋好 "wikilink")(きはら・あきよし)\[14\]\[15\]
-  - [草柳隆三](https://ja.wikipedia.org/wiki/草柳隆三 "wikilink")(くさやなぎ・りゅうぞう)
-  - [栗田晴行](../Page/栗田晴行.md "wikilink")(くりた・はるゆき)
-  - [幸田儔朗](https://ja.wikipedia.org/wiki/幸田儔朗 "wikilink")(こうだ・としろう)
-  - [後藤繁榮](../Page/後藤繁榮.md "wikilink")(ごとう・しげよし)\[16\]
-  - [合田敏行](https://ja.wikipedia.org/wiki/合田敏行 "wikilink")(ごうだ・としゆき)
-  - [小沼俊男](https://ja.wikipedia.org/wiki/小沼俊男 "wikilink")(こぬま・としお)
-  - [金野正人](../Page/金野正人.md "wikilink")(こんの・まさと)\[17\]
-  - [斎藤季夫](../Page/斎藤季夫.md "wikilink")(さいとう・すえお)
-  - [榊寿之](../Page/榊寿之.md "wikilink")(さかき・としゆき)
-  - [佐藤淳](../Page/佐藤淳_\(NHKアナウンサー\).md "wikilink")(さとう・じゅん)
-  - [清水紀雄](https://ja.wikipedia.org/wiki/清水紀雄 "wikilink")(しみず・のりお)
-  - [杉澤陽太郎](https://ja.wikipedia.org/wiki/杉澤陽太郎 "wikilink")(すぎさわ・ようたろう)\[18\]\[19\]
-  - [高橋淳之](https://ja.wikipedia.org/wiki/高橋淳之 "wikilink")(たかはし・あつゆき)\[20\]
-  - [武井康彦](https://ja.wikipedia.org/wiki/武井康彦 "wikilink")(たけい・やすひこ)\[21\]
-  - [田仲清司](https://ja.wikipedia.org/wiki/田仲清司 "wikilink")(たなか・せいじ)\[22\]\[23\]
-  - [寺田道雄](https://ja.wikipedia.org/wiki/寺田道雄 "wikilink")(てらだ・みちお)\[24\]
-  - [西村弘](https://ja.wikipedia.org/wiki/西村弘 "wikilink")(にしむら・ひろし)\[25\]
-  - [花田和明](https://ja.wikipedia.org/wiki/花田和明 "wikilink")(はなだ・かずあき)\[26\]
-  - [半谷進彦](https://ja.wikipedia.org/wiki/半谷進彦 "wikilink")(はんや・のぶひこ)
-  - [樋口淳一](https://ja.wikipedia.org/wiki/樋口淳一 "wikilink")(ひぐち・じゅんいち)
-  - [藤原尚武](https://ja.wikipedia.org/wiki/藤原尚武 "wikilink")(ふじわら・なおたけ)\[27\]
-  - [古屋明信](https://ja.wikipedia.org/wiki/古屋明信 "wikilink")(ふるや・あきのぶ)\[28\]
-  - [星野豊](../Page/星野豊.md "wikilink")(ほしの・ゆたか)
-  - [松井治伸](../Page/松井治伸.md "wikilink")(まつい・はるのぶ)
-  - [三宅民夫](../Page/三宅民夫.md "wikilink")(みやけ・たみお)
-  - [村田昭](https://ja.wikipedia.org/wiki/村田昭_\(アナウンサー\) "wikilink")(むらた・あきら)
-  - [山下俊文](../Page/山下俊文.md "wikilink")(やました・としふみ)\[29\]
-  - [渡部英美](../Page/渡部英美.md "wikilink")(わたべ・ひでみ)
+  - [青沼郁夫](../Page/青沼郁夫.md "wikilink")（あおぬま・いくお）\[2\]\[3\]
+  - [秋山和平](https://ja.wikipedia.org/wiki/秋山和平 "wikilink")（あきやま・かずへい）\[4\]
+  - [秋山隆](https://ja.wikipedia.org/wiki/秋山隆 "wikilink")（あきやま・たかし）
+  - [飯田恵一](https://ja.wikipedia.org/wiki/飯田恵一 "wikilink")（いいだ・けいいち）
+  - [石戸谷健一](../Page/石戸谷健一.md "wikilink")（いしとや・けんいち）
+  - [伊藤文樹](https://ja.wikipedia.org/wiki/伊藤文樹 "wikilink")（いとう・ふみき）
+  - [伊藤健三](https://ja.wikipedia.org/wiki/伊藤健三 "wikilink")（いとう・けんぞう）
+  - [岩井正](https://ja.wikipedia.org/wiki/岩井正 "wikilink")（いわい・ただし）\[5\]\[6\]
+  - [岩澤忠彦](https://ja.wikipedia.org/wiki/岩澤忠彦 "wikilink")（いわさわ・ただひこ）\[7\]\[8\]
+  - [植木彰](https://ja.wikipedia.org/wiki/植木彰 "wikilink")（うえき・あきら）
+  - [梅津正樹](../Page/梅津正樹.md "wikilink")（うめづ・まさき）
+  - [大沢肇](https://ja.wikipedia.org/wiki/大沢肇 "wikilink")（おおさわ・はじめ）
+  - [岡留正嗣](https://ja.wikipedia.org/wiki/岡留正嗣 "wikilink")（おかどめ・まさつぐ）
+  - [岡部晃彦](../Page/岡部晃彦.md "wikilink")（おかべ・あきひこ）
+  - [恩蔵憲一](../Page/恩蔵憲一.md "wikilink")（おんぞう・けんいち）
+  - [風見雅章](https://ja.wikipedia.org/wiki/風見雅章 "wikilink")（かざみ・まさあき）\[9\]\[10\]\[11\]
+  - [加藤昌男](../Page/加藤昌男.md "wikilink")（かとう・まさお）\[12\]
+  - [金井直己](https://ja.wikipedia.org/wiki/金井直己 "wikilink")（かない・なおき）
+  - [兼本泰興](https://ja.wikipedia.org/wiki/兼本泰興 "wikilink")（かねもと・たいこう）
+  - [蕪木弘道](https://ja.wikipedia.org/wiki/蕪木弘道 "wikilink")（かぶらぎ・ひろみち）
+  - [河路勝](https://ja.wikipedia.org/wiki/河路勝 "wikilink")（かわじ・まさる）\[13\]
+  - [木原秋好](https://ja.wikipedia.org/wiki/木原秋好 "wikilink")（きはら・あきよし）\[14\]\[15\]
+  - [草柳隆三](https://ja.wikipedia.org/wiki/草柳隆三 "wikilink")（くさやなぎ・りゅうぞう）
+  - [栗田晴行](../Page/栗田晴行.md "wikilink")（くりた・はるゆき）
+  - [幸田儔朗](https://ja.wikipedia.org/wiki/幸田儔朗 "wikilink")（こうだ・としろう）
+  - [後藤繁榮](../Page/後藤繁榮.md "wikilink")（ごとう・しげよし）\[16\]
+  - [合田敏行](https://ja.wikipedia.org/wiki/合田敏行 "wikilink")（ごうだ・としゆき）
+  - [小沼俊男](https://ja.wikipedia.org/wiki/小沼俊男 "wikilink")（こぬま・としお）
+  - [金野正人](../Page/金野正人.md "wikilink")（こんの・まさと）\[17\]
+  - [斎藤季夫](../Page/斎藤季夫.md "wikilink")（さいとう・すえお）
+  - [榊寿之](../Page/榊寿之.md "wikilink")（さかき・としゆき）
+  - [佐藤淳](../Page/佐藤淳_\(NHKアナウンサー\).md "wikilink")（さとう・じゅん）
+  - [清水紀雄](https://ja.wikipedia.org/wiki/清水紀雄 "wikilink")（しみず・のりお）
+  - [杉澤陽太郎](https://ja.wikipedia.org/wiki/杉澤陽太郎 "wikilink")（すぎさわ・ようたろう）\[18\]\[19\]
+  - [高橋淳之](https://ja.wikipedia.org/wiki/高橋淳之 "wikilink")（たかはし・あつゆき）\[20\]
+  - [武井康彦](https://ja.wikipedia.org/wiki/武井康彦 "wikilink")（たけい・やすひこ）\[21\]
+  - [田仲清司](https://ja.wikipedia.org/wiki/田仲清司 "wikilink")（たなか・せいじ）\[22\]\[23\]
+  - [寺田道雄](https://ja.wikipedia.org/wiki/寺田道雄 "wikilink")（てらだ・みちお）\[24\]
+  - [西村弘](https://ja.wikipedia.org/wiki/西村弘 "wikilink")（にしむら・ひろし）\[25\]
+  - [花田和明](https://ja.wikipedia.org/wiki/花田和明 "wikilink")（はなだ・かずあき）\[26\]
+  - [半谷進彦](https://ja.wikipedia.org/wiki/半谷進彦 "wikilink")（はんや・のぶひこ）
+  - [樋口淳一](https://ja.wikipedia.org/wiki/樋口淳一 "wikilink")（ひぐち・じゅんいち）
+  - [藤原尚武](https://ja.wikipedia.org/wiki/藤原尚武 "wikilink")（ふじわら・なおたけ）\[27\]
+  - [古屋明信](https://ja.wikipedia.org/wiki/古屋明信 "wikilink")（ふるや・あきのぶ）\[28\]
+  - [星野豊](../Page/星野豊.md "wikilink")（ほしの・ゆたか）
+  - [松井治伸](../Page/松井治伸.md "wikilink")（まつい・はるのぶ）
+  - [三宅民夫](../Page/三宅民夫.md "wikilink")（みやけ・たみお）
+  - [村田昭](https://ja.wikipedia.org/wiki/村田昭_\(アナウンサー\) "wikilink")（むらた・あきら）
+  - [山下俊文](../Page/山下俊文.md "wikilink")（やました・としふみ）\[29\]
+  - [渡部英美](../Page/渡部英美.md "wikilink")（わたべ・ひでみ）
 
 </div>
 
@@ -81,9 +80,9 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [杉澤紀美子](https://ja.wikipedia.org/wiki/杉澤紀美子 "wikilink")(すぎさわ・きみこ)
-  - [松田喜和子](https://ja.wikipedia.org/wiki/松田喜和子 "wikilink")(まつだ・きわこ)
-  - [石井麻由子](../Page/石井麻由子.md "wikilink")(いしい・まゆこ)
+  - [杉澤紀美子](https://ja.wikipedia.org/wiki/杉澤紀美子 "wikilink")（すぎさわ・きみこ）
+  - [松田喜和子](https://ja.wikipedia.org/wiki/松田喜和子 "wikilink")（まつだ・きわこ）
+  - [石井麻由子](../Page/石井麻由子.md "wikilink")（いしい・まゆこ）
 
 </div>
 

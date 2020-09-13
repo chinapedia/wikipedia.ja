@@ -78,11 +78,11 @@ MD32-5022</p></td>
   - **後藤次利** - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - **[山木秀夫](../Page/山木秀夫.md "wikilink")** - [ドラムス](../Page/ドラムセット.md "wikilink")
   - **[青山純](../Page/青山純.md "wikilink")** - ドラムス
-  - **富樫春生** - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
+  - **[富樫春生](https://ja.wikipedia.org/wiki/富樫春生 "wikilink")** - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - **[国吉良一](../Page/国吉良一.md "wikilink")** - キーボード
   - **[布袋寅泰](../Page/布袋寅泰.md "wikilink")** - [ギター](../Page/ギター.md "wikilink")
   - **[北島健二](../Page/北島健二.md "wikilink")** - ギター
-  - **矢口博康** - [サクソフォーン](../Page/サクソフォーン.md "wikilink")
+  - **[矢口博康](https://ja.wikipedia.org/wiki/矢口博康 "wikilink")** - [サクソフォーン](../Page/サクソフォーン.md "wikilink")
   - **[Jake.H.Conception](https://ja.wikipedia.org/wiki/ジェイク・コンセプション "wikilink")** - サクソフォーン
   - **[松武秀樹](../Page/松武秀樹.md "wikilink")** - [コンピュータ](../Page/コンピュータ.md "wikilink")[プログラミング](https://ja.wikipedia.org/wiki/プログラミング_\(コンピュータ\) "wikilink")
   - **佐藤健** - [コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")

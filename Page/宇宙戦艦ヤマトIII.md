@@ -166,7 +166,7 @@
 
   - オープニングテーマ
 
-:; 「宇宙戦艦ヤマト」　（読み：うちゅううせんかんヤマト）
+:; 「宇宙戦艦ヤマト」
 
   -
 
@@ -175,19 +175,19 @@
 
   - エンディングテーマ
 
-:; 「銀河伝説」　（読み：ぎんがでんせつ）
+:; 「」
 
 ::作詞 - 阿久悠 / 作曲 - 宮川泰 / 編曲 - [川口真](../Page/川口真.md "wikilink") / 歌 - [岩崎宏美](../Page/岩崎宏美.md "wikilink")
 
 ::※第1・2話のEDで使用。
 
-:; 「別離」　（読み：べつり）
+:; 「」
 
 ::作詞 - 和田順子、[山口洋子](../Page/山口洋子.md "wikilink") / 作曲・編曲 - 宮川泰 / 歌 - [堀江美都子](../Page/堀江美都子.md "wikilink")
 
 ::※第3・4・5および6話以降の偶数回で使用。
 
-:; 「ヤマトよ永遠に」　（読み：ヤマトよとわに）
+:; 「ヤマトよに」
 
   -
 
@@ -508,7 +508,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/青森県" title="wikilink">青森県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/青森放送" title="wikilink">青森放送</a></p></td>
 <td><p>日本テレビ系列<br />
-<a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列</a></p></td>
+<a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">テレビ朝日系列</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -549,12 +549,13 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新潟総合テレビ" title="wikilink">新潟総合テレビ</a></p></td>
+<td><p>新潟総合テレビ</p></td>
 <td><p>火曜 18:30 - 19:00</p></td>
 <td><p><a href="../Page/フジネットワーク.md" title="wikilink">フジテレビ系列</a><br />
 日本テレビ系列<br />
 テレビ朝日系列</p></td>
-<td><p>24話まで放映。<br />
+<td><p>現：<a href="../Page/NST新潟総合テレビ.md" title="wikilink">NST新潟総合テレビ</a><br />
+24話まで放映。<br />
 1981年4月にテレビ新潟の開局に伴い、NNNを脱退。</p></td>
 </tr>
 <tr class="even">
@@ -625,7 +626,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a></p></td>
+<td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a></p></td>
 <td><p>日本テレビ系列</p></td>
 <td></td>
 <td></td>
@@ -693,7 +694,7 @@
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
 <td><p><a href="../Page/長崎放送.md" title="wikilink">長崎放送</a></p></td>
 <td><p>日曜 18:00 - 18:30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a></p></td>
+<td><p><a href="../Page/ジャパン・ニュース・ネットワーク.md" title="wikilink">TBS系列</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

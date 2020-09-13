@@ -152,7 +152,7 @@
 ## 外部リンク
 
   - [公式サイト](http://www.sum41.com/)
-  - [日本公式サイト](http://www.universal-music.co.jp/sum41/) （ユニバーサルミュージック）
+  - [日本公式サイト](https://www.universal-music.co.jp/sum41/) （ユニバーサルミュージック）
 
 [Category:カナダのオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:カナダのオルタナティヴ・ロック・バンド "wikilink") [Category:カナダのパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:カナダのパンク・ロック・バンド "wikilink") [Category:オルタナティヴ・メタル・バンド](https://ja.wikipedia.org/wiki/Category:オルタナティヴ・メタル・バンド "wikilink") [Category:ポップ・パンク・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・パンク・バンド "wikilink") [Category:メロディック・ハードコア・バンド](https://ja.wikipedia.org/wiki/Category:メロディック・ハードコア・バンド "wikilink") [Category:アイランド・レコードのアーティスト](https://ja.wikipedia.org/wiki/Category:アイランド・レコードのアーティスト "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink")
 

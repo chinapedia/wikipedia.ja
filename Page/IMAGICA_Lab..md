@@ -797,7 +797,7 @@
   - **[芸能界の告白 大ヒットに隠された壮絶人生SP](https://ja.wikipedia.org/wiki/芸能界の告白 "wikilink")**（フジテレビ　2009年8月-）
   - フジテレビ開局50周年記念 [記録よりも記憶に残るフジテレビの笑う50年 めちゃ<sup>2</sup>オボえてるッ\! -What A SUPER MEMORY we have\!-](https://ja.wikipedia.org/wiki/記録よりも記憶に残るフジテレビの笑う50年_〜めちゃ×2オボえてるッ!〜 "wikilink")（フジテレビ　2009年10月）
   - 第2回[さんまの笑顔映像グランプリ](https://ja.wikipedia.org/wiki/さんまの笑顔映像グランプリ "wikilink")（フジテレビ　2009年12月）
-  - **[IPPON グランプリ](https://ja.wikipedia.org/wiki/IPPON_グランプリ "wikilink")**（フジテレビ　2009年12月-）
+  - **[IPPONグランプリ](https://ja.wikipedia.org/wiki/IPPONグランプリ "wikilink")**（フジテレビ　2009年12月-）
   - [爆笑 大日本アカン警察](https://ja.wikipedia.org/wiki/爆笑_大日本アカン警察 "wikilink") パイロット版（フジテレビ　2009年12月-2010年9月）
 
 </div>
@@ -1671,7 +1671,7 @@
   - [大捜査線](../Page/大捜査線.md "wikilink")
   - [黄金の犬](../Page/黄金の犬.md "wikilink")
   - [炎の犬](../Page/炎の犬.md "wikilink")
-  - [加山雄三のブラック・ジャック](https://ja.wikipedia.org/wiki/ブラック・ジャック_\(実写版\)#_連続ドラマ（1981年・加山雄三版） "wikilink")
+  - [加山雄三のブラック・ジャック](https://ja.wikipedia.org/wiki/ブラック・ジャック_\(実写版\)#連続ドラマ（1981年・加山雄三版） "wikilink")
   - [西部警察 PART-II](../Page/西部警察_PART-II.md "wikilink")
   - [ザ・ハングマンII](https://ja.wikipedia.org/wiki/ザ・ハングマン#ザ・ハングマンII "wikilink")
   - [西部警察 PART-III](../Page/西部警察_PART-III.md "wikilink")
@@ -1751,5 +1751,5 @@
 [Category:SFX会社](https://ja.wikipedia.org/wiki/Category:SFX会社 "wikilink") [Category:テレビ技術会社](https://ja.wikipedia.org/wiki/Category:テレビ技術会社 "wikilink") [Category:IMAGICA_GROUP](https://ja.wikipedia.org/wiki/Category:IMAGICA_GROUP "wikilink") [Category:品川区の企業](https://ja.wikipedia.org/wiki/Category:品川区の企業 "wikilink") [Category:京都府発祥の企業](https://ja.wikipedia.org/wiki/Category:京都府発祥の企業 "wikilink") [Category:2006年設立の企業](https://ja.wikipedia.org/wiki/Category:2006年設立の企業 "wikilink")
 
 1.  同年[イマジカ・ロボット ホールディングスに再変更後フォトロンに吸収合併](https://ja.wikipedia.org/wiki/イマジカ・ロボット_ホールディングス "wikilink")
-2.  [商号の変更等に関するお知らせ](https://contents.xj-storage.jp/xcontents/AS07313/4330bb28/42ec/4c6b/a991/1854a4204738/140120180402403081.pdf)イマジカ・ロボット ホールディングス 2018年4月2日
-3.  [新商号決定のお知らせ](https://www.imagica.com/news/new_company_name/)IMAGICA 2018年4月25日
+2.  [商号の変更等に関するお知らせ](https://contents.xj-storage.jp/xcontents/AS07313/4330bb28/42ec/4c6b/a991/1854a4204738/140120180402403081.pdf) イマジカ・ロボット ホールディングス 2018年4月2日
+3.  [新商号決定のお知らせ](https://www.imagica.com/news/new_company_name/) IMAGICA 2018年4月25日

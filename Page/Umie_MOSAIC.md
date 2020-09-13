@@ -1,7 +1,7 @@
 > この記事は[Umie MOSAIC](https://ja.wikipedia.org/wiki/Umie_MOSAIC)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Mosaic08s3200.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Mosaic09s3200.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Kobe_Mosaic18s3072.jpg "wikilink")
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Mosaic08s3200.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Mosaic09s3200.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Kobe_Mosaic18s3072.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Kobe_mosaic_20131116.jpg "wikilink")
 
 **umie MOSAIC**（ウミエ モザイク）は、[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[中央区](../Page/中央区_\(神戸市\).md "wikilink")・[神戸ハーバーランド](../Page/神戸ハーバーランド.md "wikilink")にある[複合商業施設](../Page/複合商業施設.md "wikilink")。
 

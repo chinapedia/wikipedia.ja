@@ -15,7 +15,7 @@ NHK歌謡コンサートの第1回放送は[1993年](../Page/1993年.md "wikilin
 
 トリは基本的に出演者の中で最も実績を収めてきた、いわゆる重鎮歌手が務め、自身の最新曲を披露する場合がほとんどであった。
 
-[2015年](../Page/2015年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink")の放送で900回を達成したが、NHK全体の編成見直しにより翌年[3月15日](../Page/3月15日.md "wikilink")の放送を最後に終了。最終回は[NHK大阪ホール](../Page/NHK大阪ホール.md "wikilink")から生放送で行われ、過去の名場面や歌で構成。最後は[細川たかし](../Page/細川たかし.md "wikilink")による『[浪花節だよ人生は](https://ja.wikipedia.org/wiki/浪花節だよ人生は "wikilink")』の生歌唱で締め括られ、歌い終わるとステージのキャノン砲から[紙テープ](../Page/紙テープ.md "wikilink")が発射されて大団円となった。
+[2015年](../Page/2015年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink")の放送で900回を達成したが、NHK全体の編成見直しにより2016年[3月15日](../Page/3月15日.md "wikilink")の放送を最後に終了。最終回は[NHK大阪ホール](../Page/NHK大阪ホール.md "wikilink")から生放送で行われ、過去の名場面や歌で構成。最後は[細川たかし](../Page/細川たかし.md "wikilink")による『[浪花節だよ人生は](https://ja.wikipedia.org/wiki/浪花節だよ人生は "wikilink")』の生歌唱で締め括られ、歌い終わるとステージのキャノン砲から[紙テープ](../Page/紙テープ.md "wikilink")が発射されて大団円となった。
 
 後継番組は通称から名前を採っている『**[うたコン](https://ja.wikipedia.org/wiki/うたコン "wikilink")**』（『歌コン』ではない）で、放送時間も19:30 - 20:15に繰り上げられ\[3\]、月1回程度は20:43まで延長放送を行うこともある\[4\]。なお、同番組は若者向け音楽番組として2007年4月7日 - 2016年4月3日まで放送された『[MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")』と統合した総合音楽番組として装いも新たに生まれ変わった。
 
@@ -64,6 +64,22 @@ NHK歌謡コンサートの第1回放送は[1993年](../Page/1993年.md "wikilin
 
   - 三原綱木とザ・ニューブリード／[東京放送管弦楽団](../Page/東京放送管弦楽団.md "wikilink")
       - 指揮：[三原綱木](https://ja.wikipedia.org/wiki/三原綱木 "wikilink")。2007年8月28日および2012年12月16日（日曜日・同年12月4日の『[NHKニュース7](https://ja.wikipedia.org/wiki/NHKニュース7 "wikilink")』の時間枠拡大に伴い収録に変更）の放送では指揮のほか歌手（[ジャッキー吉川とブルーコメッツ](https://ja.wikipedia.org/wiki/ジャッキー吉川とブルーコメッツ "wikilink")のメンバー）としても登場。2011年7月12日の放送では「[つなき&みどり](https://ja.wikipedia.org/wiki/つなき&みどり "wikilink")」として、元妻の[田代みどり](https://ja.wikipedia.org/wiki/田代みどり "wikilink")と登場した。2012年2月7日放送の歌コン最前線のコーナーでは「あとの祭りだョ」をソロで披露した。
+
+## 音楽・編曲
+
+  - [宮川泰](../Page/宮川泰.md "wikilink")
+  - [たかしまあきひこ](../Page/たかしまあきひこ.md "wikilink")
+  - [藤野浩一](https://ja.wikipedia.org/wiki/藤野浩一 "wikilink")
+
+他
+
+## 作・構成
+
+  - [塚田茂](../Page/塚田茂.md "wikilink")
+  - [玉井貴代志](../Page/玉井貴代志.md "wikilink")
+  - [野中浩之](https://ja.wikipedia.org/wiki/野中浩之 "wikilink")
+
+他
 
 ## コーナー
 

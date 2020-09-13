@@ -1,29 +1,29 @@
 > この記事は[徳川家康 \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/徳川家康_\(NHK大河ドラマ\))から翻訳されています。
 
 
-『**徳川家康**』（とくがわいえやす）は、[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[1月9日](../Page/1月9日.md "wikilink")から[12月18日](../Page/12月18日.md "wikilink")にかけて放送された[大河ドラマ](../Page/大河ドラマ.md "wikilink")第21作。主人公は[徳川家康](../Page/徳川家康.md "wikilink")。
+『**徳川家康**』（とくがわいえやす）は、[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[1月9日](../Page/1月9日.md "wikilink")から[12月18日](../Page/12月18日.md "wikilink")にかけて放送された[大河ドラマ](../Page/大河ドラマ.md "wikilink")第21作。
 
 ## 概要
 
-「昭和59年から大河ドラマは近代路線に移行する」とのタイムテーブルのもと、時代劇大河・最後の作品として「戦国時代・最後の大物」徳川家康を主人公としたこのドラマは企画された。スタッフが意図したものは大河ドラマの王道たる「直球」的作品。当初はオリジナル脚本案も浮上したが、過去にNET系（現:テレビ朝日）でドラマ化された例はあるものの「山岡荘八・著『徳川家康』ほど家康に関する名作はない」との結論に達し、[山岡荘八](../Page/山岡荘八.md "wikilink")の小説『[徳川家康](../Page/徳川家康_\(山岡荘八\).md "wikilink")』を原作にしたドラマ化がスタートした。家康の出生前からその死までを描く山岡版「家康」、その原作に忠実を期し「家康の生涯は生母・於大を抜きには語れない」との意見から於大役に、息子・家康役の[滝田栄](../Page/滝田栄.md "wikilink")より7歳年下の[大竹しのぶ](https://ja.wikipedia.org/wiki/大竹しのぶ "wikilink")を配するなど大胆な配役がされた。従来陽気な秀吉に比べ老獪な謀略家としての面が強調されていた家康を泰平を求める求道者として描いた。
+「昭和59年から大河ドラマは近代路線に移行する」とのタイムテーブルのもと、時代劇大河・最後の作品として「戦国時代・最後の大物」[徳川家康](../Page/徳川家康.md "wikilink")を主人公としたこのドラマは企画された。スタッフが意図したものは大河ドラマの王道たる「直球」的作品。当初はオリジナル脚本案も浮上したが、過去にNET系（現:テレビ朝日）でドラマ化された例はあるものの「山岡荘八・著『徳川家康』ほど家康に関する名作はない」との結論に達し、[山岡荘八](../Page/山岡荘八.md "wikilink")の小説『[徳川家康](../Page/徳川家康_\(山岡荘八\).md "wikilink")』を原作にしたドラマ化がスタートした。家康の出生前からその死までを描く山岡版「家康」、その原作に忠実を期し「家康の生涯は生母・於大を抜きには語れない」との意見から於大役に、息子・家康役の[滝田栄](../Page/滝田栄.md "wikilink")より7歳年下の[大竹しのぶ](https://ja.wikipedia.org/wiki/大竹しのぶ "wikilink")を配するなど大胆な配役がされた。従来陽気な秀吉に比べ老獪な謀略家としての面が強調されていた家康を泰平を求める求道者として描いた。
 
 また、それまで一般に知られていなかった若手俳優[役所広司](../Page/役所広司.md "wikilink")が織田信長を演じて人気を博した。この作品で一躍注目を集めた役所は出演ドラマ・映画が増え、NHKでも翌年の[NHK新大型時代劇](https://ja.wikipedia.org/wiki/大河ドラマ#NHK新大型時代劇 "wikilink")『[宮本武蔵](../Page/宮本武蔵_\(NHK新大型時代劇\).md "wikilink")』で主演を果たしている。
 
 音楽は過去『[新・平家物語](../Page/新・平家物語_\(NHK大河ドラマ\).md "wikilink")』などでもテーマを手がけた[冨田勲](../Page/冨田勲.md "wikilink")が担当した。この作品でもシンセサイザーと混声合唱、打ち込み音楽をあわせたものであり、重要な局面においては[館野直光](https://ja.wikipedia.org/wiki/館野直光 "wikilink")アナウンサーの語りと相まった。そして、オープニング・テーマでは一定の旋律を転調しながら繰り返すのみのシンプルな楽曲であった。
 
-映像では山奥の小さなせせらぎが小川となり、幾つかの滝や濁流を経て大河となって、やがて大海に注がれるといった演出がなされた。また、家康にゆかりのある日光の[華厳滝](../Page/華厳滝.md "wikilink")なども登場した。
+映像では山奥の小さなせせらぎが小川となり、いくつかの滝や濁流を経て大河となって、やがて大海に注がれるといった演出がなされた。また、家康にゆかりのある日光の[華厳滝](../Page/華厳滝.md "wikilink")なども登場した。
 
 原作が大作であり、たくさんのエピソードが多く盛り込まれており、ドラマ展開がスピーディー過ぎてひとつひとつのエピソードが希薄な印象になりがちであった。第35回「太閤死す」では前半に関白・秀次の死があり、さらに後半に秀吉の死が描かれるという一回の放送分に大きな山場が二度あった。「初回から総集編を見せられているようだ」「もっとじっくりとした描き方を望む」との意見が新聞紙上に寄せられたこともある。さらに当初、重要な役どころだった登場人物がその役割を終えるや、後日譚もその死も全く語られない人物が幾人か見られる。
 
 なおこの年、堪忍の心の家康、同年に放送された[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[おしん](../Page/おしん.md "wikilink")』の我慢強さ、苦難を越えて横綱となった力士・[隆の里とを合わせ](../Page/隆の里俊英.md "wikilink")、「おしん、家康、隆の里」という流行語も生まれた\[1\]。
 
-平均視聴率が31.2%、最高視聴率が37.4%という高い記録を残した。
+平均視聴率31.2%、最高視聴率37.4%という高い記録を残した。
 
 ## キャスティング
 
-  - 徳川家康：当初は小柄で丸顔、小太りという従来のイメージのもとキャスティング選考が行われた。リストアップされたのは[緒形拳](../Page/緒形拳.md "wikilink")、[松平健](../Page/松平健.md "wikilink")、[中村梅之助](../Page/中村梅之助_\(4代目\).md "wikilink")、[江守徹](../Page/江守徹.md "wikilink")。しかしながら、前者三人は前年度の大河『[峠の群像](../Page/峠の群像.md "wikilink")』に出演しているため見送り、江守もスケジュールや家康の16歳時からの出演という条件には無理があり、こちらも実現出来なかった。代わってスタッフ間に浮上してきたのが「なにも家康の[そっくりショー](../Page/そっくりショー.md "wikilink")をやるわけではない。われわれの手で新しい家康像を作り出そうではないか」という声で、30代前半の俳優に的を絞り、実力本位で選考した結果、[滝田栄](../Page/滝田栄.md "wikilink")に決定。かくて長身で面長、「最も家康に似ていない俳優」が家康役に決定した。なお、候補の1人だった中村梅之助は2年後のNHK大型時代劇『[真田太平記](../Page/真田太平記_\(テレビドラマ\).md "wikilink")』で家康を演じ、松平健も[徳川家康と三人の女](https://ja.wikipedia.org/wiki/徳川家康と三人の女 "wikilink")（2008年、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）と映画「[真田十勇士](https://ja.wikipedia.org/wiki/真田十勇士_\(2014年の劇作品\) "wikilink")」（2016年）で家康を演じている。
+  - 徳川家康：当初は小柄で丸顔、小太りという従来のイメージのもとキャスティング選考が行われた。リストアップされたのは[緒形拳](../Page/緒形拳.md "wikilink")、[松平健](../Page/松平健.md "wikilink")、[中村梅之助](../Page/中村梅之助_\(4代目\).md "wikilink")、[江守徹](../Page/江守徹.md "wikilink")であった。しかしながら、前者三人は前年度の大河『[峠の群像](../Page/峠の群像.md "wikilink")』に出演しているため見送り、江守もスケジュールや家康の16歳時からの出演という条件には無理があり、こちらも実現出来なかった。代わってスタッフ間に浮上してきたのが「なにも家康の[そっくりショー](../Page/そっくりショー.md "wikilink")をやるわけではない。われわれの手で新しい家康像を作り出そうではないか」という声で30代前半の俳優に的を絞り、実力本位で選考した結果、[滝田栄](../Page/滝田栄.md "wikilink")が選ばれた。滝田はかくて長身で面長、「最も家康に似ていない俳優」が家康役に決定した。なお、候補の1人だった中村梅之助は2年後のNHK大型時代劇『[真田太平記](../Page/真田太平記_\(テレビドラマ\).md "wikilink")』で家康を演じ、松平健も[徳川家康と三人の女](https://ja.wikipedia.org/wiki/徳川家康と三人の女 "wikilink")（2008年、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）と映画「[真田十勇士](https://ja.wikipedia.org/wiki/真田十勇士_\(2014年の劇作品\) "wikilink")」（2016年）で家康を演じている。
   - 豊臣秀吉：脚本担当の[小山内美江子](../Page/小山内美江子.md "wikilink")の強い希望により[武田鉄矢](../Page/武田鉄矢.md "wikilink")に秀吉役が配された。武田は2作前の『[おんな太閤記](../Page/おんな太閤記.md "wikilink")』（同作の脚本担当は[橋田壽賀子](https://ja.wikipedia.org/wiki/橋田壽賀子 "wikilink")）の時にも秀吉役の最有力候補だったが、当時はTBS系『[3年B組金八先生](https://ja.wikipedia.org/wiki/3年B組金八先生 "wikilink")』第2シリーズ（小山内が脚本担当）に出演中だったため実現しなかった。
-  - 織田信長：「最後の時代劇大河」になるかも知れない、ということで有終の美を飾らんと番組のヒットを祈念するスタッフは信長役には大物俳優の起用を切望していた。その第一候補は当時の大人気歌手[沢田研二](../Page/沢田研二.md "wikilink")である。この出演依頼に沢田も所属事務所の[渡辺プロダクション](../Page/渡辺プロダクション.md "wikilink")も大乗り気。早速スケジュールの調整が行われたが沢田の予定は既に先の先まで埋まっており、拘束時間の長い時代劇大河の入り込む余地は殆んど無く、「出演不可能」の結論が出されたのは配役発表の一週間前\[2\]。トップ演出の大原誠はじめスタッフは急遽大物スターの起用を諦め、新人採用の方針に転換。[時任三郎](https://ja.wikipedia.org/wiki/時任三郎 "wikilink")などが候補に挙がったが、最終的に端役ながら[大河ドラマ](../Page/大河ドラマ.md "wikilink")出演の経験もあり、3年前に連続テレビ小説『[なっちゃんの写真館](../Page/なっちゃんの写真館.md "wikilink")』でヒロインの夫・西城亮平役の滝田とも共演済みで、NHKスタッフには既にその実力が認知されていた[無名塾](../Page/無名塾.md "wikilink")所属の[役所広司](../Page/役所広司.md "wikilink")に決定。放送後、[NHKには問い合わせの電話が殺到](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、評判となった。送られてきたファンレターも番組出演者中最大量。「役所君の持つ、精悍さの中にある優しい瞳に我々は賭けたのだ」というスタッフの意気に応えた\[3\]。
+  - 織田信長：「最後の時代劇大河」になるかも知れない、ということで有終の美を飾らんと番組のヒットを祈念するスタッフは信長役には大物俳優の起用を切望していた。その第一候補は当時の大人気歌手[沢田研二](../Page/沢田研二.md "wikilink")である。この出演依頼に沢田も所属事務所の[渡辺プロダクション](../Page/渡辺プロダクション.md "wikilink")も大乗り気。早速スケジュールの調整が行われたが沢田の予定は既に先の先まで埋まっており、拘束時間の長い時代劇大河の入り込む余地は殆んど無く、「出演不可能」の結論が出されたのは配役発表の一週間前\[2\]。トップ演出の大原誠はじめスタッフは急遽大物スターの起用を諦め、新人採用の方針に転換。[時任三郎](https://ja.wikipedia.org/wiki/時任三郎 "wikilink")などが候補に挙がったが、最終的に端役ながら[大河ドラマ](../Page/大河ドラマ.md "wikilink")出演の経験もあり、3年前に連続テレビ小説『[なっちゃんの写真館](../Page/なっちゃんの写真館.md "wikilink")』でヒロインの夫・西城亮平役の滝田とも共演済みで、NHKスタッフには既にその実力が認知されていた[無名塾](../Page/無名塾.md "wikilink")所属の[役所広司](../Page/役所広司.md "wikilink")に決まった。放送後、[NHKには問い合わせの電話が殺到](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、評判となった。送られてきたファンレターも番組出演者中最大量。「役所君の持つ、精悍さの中にある優しい瞳に我々は賭けたのだ」というスタッフの意気に応えた\[3\]。
 
 ## 戦のシーン
 
@@ -283,7 +283,7 @@
     演：[山本亘](../Page/山本亘.md "wikilink")
   - [大久保長安](../Page/大久保長安.md "wikilink")
     演：[津川雅彦](../Page/津川雅彦.md "wikilink")
-    武田遺臣で、金山奉行となった。
+    武田家の遺臣で、金山奉行となった。
   - [井伊直孝](../Page/井伊直孝.md "wikilink")
     演：[門田俊](https://ja.wikipedia.org/wiki/門田俊 "wikilink")
     井伊直政の次男。
@@ -295,7 +295,7 @@
     元忠の三男。
   - [板倉重昌](../Page/板倉重昌.md "wikilink")
     演：[下塚誠](../Page/下塚誠.md "wikilink")
-    板倉勝重の三男。
+    板倉勝重の三男。[島原の乱](../Page/島原の乱.md "wikilink")で[原城](../Page/原城.md "wikilink")を攻めるが戦死する。
   - [土井利勝](../Page/土井利勝.md "wikilink")
     演：[木村四郎](https://ja.wikipedia.org/wiki/木村四郎 "wikilink")
   - [松平勝隆](../Page/松平勝隆.md "wikilink")
@@ -393,7 +393,7 @@
     演：[加藤正之](../Page/加藤正之.md "wikilink")
     信秀の叔父。
   - [織田彦五郎](../Page/織田信友.md "wikilink")
-    演：[入江正徳](https://ja.wikipedia.org/wiki/入江正徳 "wikilink")
+    演：[入江正徳](../Page/入江正徳.md "wikilink")
     尾張下四郡の守護代。
 
 ### 織田家の家臣たち
@@ -428,7 +428,7 @@
     演：[遠藤征慈](https://ja.wikipedia.org/wiki/遠藤征慈 "wikilink")
   - [津川義冬](../Page/津川義冬.md "wikilink")
     演：[池田鴻](../Page/池田鴻.md "wikilink")
-    織田信雄の家老。
+    信雄の家老。
 
 ### 豊臣家の人々
 
@@ -494,7 +494,7 @@
     演：[堀勝之祐](../Page/堀勝之祐.md "wikilink")
   - [石田三成](../Page/石田三成.md "wikilink")
     演：[鹿賀丈史](../Page/鹿賀丈史.md "wikilink")
-    関ヶ原の戦いでは西軍を率いて家康と戦った。
+    関ヶ原の戦いでは西軍を率いて家康と戦った。敗戦後、斬首される。
   - [長束正家](../Page/長束正家.md "wikilink")
     演：[石濱朗](../Page/石濱朗.md "wikilink")
 
@@ -519,7 +519,7 @@
     演：[相原巨典](../Page/相原巨典.md "wikilink")
   - [安国寺恵瓊](../Page/安国寺恵瓊.md "wikilink")
     演：[滝田裕介](../Page/滝田裕介.md "wikilink")
-    毛利家臣。
+    毛利家家臣。
   - [大谷吉継](../Page/大谷吉継.md "wikilink")
     演：[有川博](../Page/有川博.md "wikilink")
   - [小西行長](../Page/小西行長.md "wikilink")
@@ -528,7 +528,7 @@
     演：[田崎潤](../Page/田崎潤.md "wikilink")
   - [島津豊久](../Page/島津豊久.md "wikilink")
     演：[片岡弘貴](https://ja.wikipedia.org/wiki/片岡弘貴 "wikilink")
-    義弘の甥。
+    義弘の甥。関ヶ原の戦いで戦死。
   - [宗義智](../Page/宗義智.md "wikilink")
     演：[真野等坪](https://ja.wikipedia.org/wiki/真野等坪 "wikilink")
     対馬領主。
@@ -584,7 +584,7 @@
     利家の正室。利長、利政の実母。
   - [細川ガラシャ](../Page/細川ガラシャ.md "wikilink")
     演：[丸尾りえ](https://ja.wikipedia.org/wiki/丸尾利恵子 "wikilink")
-    明智光秀の娘。忠興の正室。
+    明智光秀の娘で、忠興の正室。
 
 ### （秀吉死後の）豊臣家の家臣たち
 
@@ -901,7 +901,7 @@
   - [大河ドラマ　徳川家康 - NHK名作選(動画・静止画) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010284_00000)
   - [番組エピソード　大河ドラマ『徳川家康』-　NHKアーカイブス](https://www2.nhk.or.jp/archives/search/special/detail/?d=taiga030)
 
-[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1983年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1983年のテレビドラマ "wikilink") [Category:戦国時代_(日本)を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:戦国時代_\(日本\)を舞台としたテレビドラマ "wikilink") [Category:安土桃山時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:安土桃山時代を舞台としたテレビドラマ "wikilink") [Category:江戸時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:江戸時代を舞台としたテレビドラマ "wikilink") [Category:徳川家康を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:徳川家康を題材としたテレビドラマ "wikilink") [Category:関ヶ原の戦いを題材とした作品](https://ja.wikipedia.org/wiki/Category:関ヶ原の戦いを題材とした作品 "wikilink") [Category:大坂の陣を題材とした作品](https://ja.wikipedia.org/wiki/Category:大坂の陣を題材とした作品 "wikilink") [Category:小説を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:小説を原作とするテレビドラマ "wikilink") [Category:静岡県を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:静岡県を舞台としたテレビドラマ "wikilink") [Category:静岡市を舞台とした作品](https://ja.wikipedia.org/wiki/Category:静岡市を舞台とした作品 "wikilink") [Category:NHK名古屋](https://ja.wikipedia.org/wiki/Category:NHK名古屋 "wikilink") [Category:NHK静岡](https://ja.wikipedia.org/wiki/Category:NHK静岡 "wikilink") [Category:山岡荘八](https://ja.wikipedia.org/wiki/Category:山岡荘八 "wikilink") [Category:NHKオンデマンド配信番組](https://ja.wikipedia.org/wiki/Category:NHKオンデマンド配信番組 "wikilink") [Category:滝田栄](https://ja.wikipedia.org/wiki/Category:滝田栄 "wikilink")
+[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1983年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1983年のテレビドラマ "wikilink") [Category:日本の戦国時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:日本の戦国時代を舞台としたテレビドラマ "wikilink") [Category:安土桃山時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:安土桃山時代を舞台としたテレビドラマ "wikilink") [Category:江戸時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:江戸時代を舞台としたテレビドラマ "wikilink") [Category:徳川家康を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:徳川家康を題材としたテレビドラマ "wikilink") [Category:関ヶ原の戦いを題材とした作品](https://ja.wikipedia.org/wiki/Category:関ヶ原の戦いを題材とした作品 "wikilink") [Category:大坂の陣を題材とした作品](https://ja.wikipedia.org/wiki/Category:大坂の陣を題材とした作品 "wikilink") [Category:小説を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:小説を原作とするテレビドラマ "wikilink") [Category:静岡県を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:静岡県を舞台としたテレビドラマ "wikilink") [Category:静岡市を舞台とした作品](https://ja.wikipedia.org/wiki/Category:静岡市を舞台とした作品 "wikilink") [Category:NHK名古屋](https://ja.wikipedia.org/wiki/Category:NHK名古屋 "wikilink") [Category:NHK静岡](https://ja.wikipedia.org/wiki/Category:NHK静岡 "wikilink") [Category:山岡荘八](https://ja.wikipedia.org/wiki/Category:山岡荘八 "wikilink") [Category:NHKオンデマンド配信番組](https://ja.wikipedia.org/wiki/Category:NHKオンデマンド配信番組 "wikilink") [Category:滝田栄](https://ja.wikipedia.org/wiki/Category:滝田栄 "wikilink")
 
 1.  参考・出典　大原誠・著「NHK大河ドラマの歳月」日本放送出版協会
 2.  沢田は翌年の大河ドラマ「[山河燃ゆ](../Page/山河燃ゆ.md "wikilink")」に出演している。
@@ -909,7 +909,7 @@
 4.  「NHK大河ドラマストーリー　徳川家康」（日本放送出版協会、1982年）p114-115参照。
 5.  『[独眼竜政宗](../Page/独眼竜政宗_\(NHK大河ドラマ\).md "wikilink")』においても徳川秀忠を演じている。
 6.  [岸田森](../Page/岸田森.md "wikilink")の予定だったが、死去（病死）のため変更。
-7.  [沖雅也](https://ja.wikipedia.org/wiki/沖雅也 "wikilink")の予定だったが、死去（飛び降り自殺）のため変更。『[独眼竜政宗](../Page/独眼竜政宗_\(NHK大河ドラマ\).md "wikilink")』においても真田幸村を演じている。
+7.  [沖雅也](https://ja.wikipedia.org/wiki/沖雅也 "wikilink")の予定だったが、沖が死去（飛び降り自殺）のため変更。『[独眼竜政宗](../Page/独眼竜政宗_\(NHK大河ドラマ\).md "wikilink")』においても真田幸村を演じている。
 8.  タイトル音楽は1話から5話までのものと、6話以降のものとは別のバージョンになっている
 9.  一部放送日時の変更あり
 10. 「テレビ視聴率季報（関東地区）」ビデオリサーチ。

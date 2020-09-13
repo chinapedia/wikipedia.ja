@@ -46,15 +46,11 @@
 
 ## 脚注
 
-### 注釈・出典
-
 <references />
 
 ## 外部リンク
 
   - [NDR Elbphilharmonie Orchester | NDR.de - Orchester und Chor - NDR Sinfonieorchester](http://www.ndr.de/orchester_chor/elbphilharmonieorchester/index.html) - 公式サイト
-
-__目次強制__
 
 [Category:ドイツの放送局のオーケストラ](https://ja.wikipedia.org/wiki/Category:ドイツの放送局のオーケストラ "wikilink") [Category:ハンブルクの文化](https://ja.wikipedia.org/wiki/Category:ハンブルクの文化 "wikilink") [Category:ハンブルクの組織](https://ja.wikipedia.org/wiki/Category:ハンブルクの組織 "wikilink") [Category:1945年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1945年に結成した音楽グループ "wikilink")
 

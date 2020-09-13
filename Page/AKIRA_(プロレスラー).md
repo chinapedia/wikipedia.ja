@@ -27,7 +27,7 @@
 
 2012年4月5日、TAJIRI以下元SMASH所属全選手、レフェリー、練習生と行動をともにし、新団体「[Wrestling New Classic](https://ja.wikipedia.org/wiki/Wrestling_New_Classic "wikilink")」に参加した。現在はWNCのほか他団体にも出場中のいまだ健在の選手でもある。
 
-2014年6月、音楽とプロレスと演劇を融合したイベント「魔界」スタート、7月1日よりTAJIRI、[児玉裕輔](https://ja.wikipedia.org/wiki/児玉裕輔 "wikilink")、[土肥孝司](https://ja.wikipedia.org/wiki/土肥孝司 "wikilink")、[黒潮"イケメン"二郎](https://ja.wikipedia.org/wiki/黒潮二郎 "wikilink")、[藤原ライオン](https://ja.wikipedia.org/wiki/藤原ライオン "wikilink")とともに[WRESTLE-1](https://ja.wikipedia.org/wiki/WRESTLE-1 "wikilink")に移籍\[1\]した。
+2014年6月、音楽とプロレスと演劇を融合したイベント「魔界」スタート、7月1日よりTAJIRI、[児玉裕輔](https://ja.wikipedia.org/wiki/児玉裕輔 "wikilink")、[土肥孝司](https://ja.wikipedia.org/wiki/土肥孝司 "wikilink")、[黒潮"イケメン"二郎](https://ja.wikipedia.org/wiki/黒潮"イケメン"二郎 "wikilink")、[藤原ライオン](https://ja.wikipedia.org/wiki/藤原ライオン "wikilink")とともに[WRESTLE-1](https://ja.wikipedia.org/wiki/WRESTLE-1 "wikilink")に移籍\[1\]した。
 
 10月10日、AKIRA30周年記念生前葬としてプロレスと演劇を組み合わせた「地獄から来たチャンピオン」を新宿FACEで開催した。
 

@@ -76,7 +76,7 @@
   - [YOUは何しに日本へ?](https://ja.wikipedia.org/wiki/YOUは何しに日本へ? "wikilink")（本放送：土曜 12:00 - 12:55、再放送：月曜 24:30 - 25:25）
   - [土曜スペシャル](https://ja.wikipedia.org/wiki/土曜スペシャル_\(テレビ東京\) "wikilink")（土曜 13:00 - 14:55、[ローカル路線バス乗り継ぎの旅](https://ja.wikipedia.org/wiki/ローカル路線バス乗り継ぎの旅 "wikilink")は過去に[UXでも放送されたことがある](https://ja.wikipedia.org/wiki/新潟テレビ21 "wikilink")。）
   - [開運\!なんでも鑑定団](../Page/開運!なんでも鑑定団.md "wikilink")（土曜 16:30 - 17:30 再放送・日曜 12:55 - 14:00）
-  - [カードファイト\!\! ヴァンガード（続・高校生編→新右衛門編）](https://ja.wikipedia.org/wiki/カードファイト!!_ヴァンガード_\(アニメ\) "wikilink")（日曜 9:30 - 10:00、[テレビ愛知](../Page/テレビ愛知.md "wikilink")制作）
+  - [カードファイト\!\! ヴァンガード（続・高校生編→新右衛門編）→カードファイト\!\! ヴァンガード外伝 イフ-if-](https://ja.wikipedia.org/wiki/カードファイト!!_ヴァンガード_\(アニメ\) "wikilink")（日曜 9:30 - 10:00、[テレビ愛知](../Page/テレビ愛知.md "wikilink")制作）
   - [突撃\!隣のスゴイ家](https://ja.wikipedia.org/wiki/突撃!隣のスゴイ家 "wikilink")（日曜 12:00 - 12:55、[BSテレ東](https://ja.wikipedia.org/wiki/BSテレ東 "wikilink")制作）
   - [所さんの学校では教えてくれないそこんトコロ\!](../Page/所さんの学校では教えてくれないそこんトコロ!.md "wikilink")（日曜 14:00 - 14:55）
   - [超かわいい映像連発\!どうぶつピース\!\!](https://ja.wikipedia.org/wiki/超かわいい映像連発!どうぶつピース!! "wikilink")（不定期放送）

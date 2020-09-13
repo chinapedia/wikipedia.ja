@@ -48,30 +48,77 @@
 
 ## メンバー
 
-  - **[motsu](https://ja.wikipedia.org/wiki/motsu "wikilink")**（モツ、本名：瀬川素公（せがわ もとたか）、生年非公開[5月22日](../Page/5月22日.md "wikilink") - ） ラップ、ボーカル担当、作詞担当
-  - **[yuri](https://ja.wikipedia.org/wiki/yuri "wikilink")**（ユリ、[1977年](../Page/1977年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink") - ） ボーカル担当
-
-### 元メンバー
-
-  - [t-kimura](https://ja.wikipedia.org/wiki/t-kimura "wikilink")（ティー・キムラ、本名：木村貴志（きむら たかし）、[1968年](../Page/1968年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink") - ） リーダー、プロデュース、作曲・編曲、シンセサイザー、キーボード、ギター、ピアノ、ヴォコーダー、ボーカル担当
+<table>
+<thead>
+<tr class="header">
+<th><p>名前</p></th>
+<th><p>担当</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/motsu" title="wikilink">motsu</a></strong><br />
+（モツ）</p></td>
+<td><p>ラップ</p></td>
+<td><ul>
+<li>生年月日: 生年非公開 <a href="../Page/5月22日.md" title="wikilink">5月22日</a></li>
+<li>本名: 瀬川素公（せがわ もとたか）</li>
+<li>血液型: O型</li>
+<li>ほぼ全ての楽曲の作詞を担当。t-kimura脱退後は、一部楽曲で作曲、編曲も行っている。</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/yuri" title="wikilink">yuri</a></strong><br />
+（ユリ）</p></td>
+<td><p>ボーカル</p></td>
+<td><ul>
+<li>生年月日: </li>
+<li>本名: 益田 祐里（ますだ ゆり）</li>
+<li>血液型: O型</li>
+<li>一部楽曲で作詞をしている。</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>旧メンバー</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/t-kimura" title="wikilink">t-kimura</a></strong><br />
+（ティー・キムラ）</p></td>
+<td><p><a href="../Page/ミュージックシーケンサー.md" title="wikilink">プログラミング</a><br />
+<a href="../Page/キーボード_(楽器).md" title="wikilink">キーボード</a><br />
+<a href="../Page/エレクトリック・ギター.md" title="wikilink">ギター</a></p></td>
+<td><ul>
+<li>生年月日: </li>
+<li>本名: 木村 貴志（きむら たかし）</li>
+<li>血液型: B型</li>
+<li>2009年まで在籍。</li>
+<li>メンバー在籍時における全ての楽曲の作曲、編曲を担当。脱退後もプロデューサーとして楽曲制作に関わっている。</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
 
 ### サポート
 
   - [ASAKI](../Page/ASAKI.md "wikilink")（アサキ） ギター担当
   - Charlie K（チャーリーケイ） キーボード担当
 
-## 結成に至る経緯
+## 概要
 
-[Favorite Blueで活躍していた](../Page/Favorite_Blue.md "wikilink")[木村貴志が](https://ja.wikipedia.org/wiki/t-kimura "wikilink")、覆面ユニット（実際、結成初期のmoveのラジオ番組では、FBとのデュエット等、セッション企画も進んでいるとmotsuが発言していた）として考えていた計画を実行に移す為に結成。その中で、オーディション番組『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』が開催したとあるオーディションに参加していたyuriに着目。そのオーディションは合格者なしという結果だったが、楽曲に非常にマッチしたことからyuriを正式に抜擢した。moveというグループ名の由来は、「一つの音楽性に落ち着かず、つねに何かを追い求める」。そして、「国籍や音楽的な枠組みと言ったジャンルに囚われず常に進化と変化を繰り返す」というプロデューサーであるt-kimuraのコンセプトの元に集合したユニットである。
+### 結成に至る経緯
 
-## 楽曲の特徴
+[Favorite Blueで活躍していた](../Page/Favorite_Blue.md "wikilink")[木村貴志が](https://ja.wikipedia.org/wiki/t-kimura "wikilink")、覆面ユニット（結成初期のmoveのラジオ番組では、FBとのデュエット等、セッション企画も進んでいるとmotsuが発言していた）として考えていた計画を実行に移す為に結成。その中で、オーディション番組『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』が開催したとあるオーディションに参加していたyuriに着目。そのオーディションは合格者なしという結果だったが、楽曲に非常にマッチしたことからyuriを正式に抜擢した。moveというグループ名の由来は、「一つの音楽性に落ち着かず、つねに何かを追い求める」。そして、「国籍や音楽的な枠組みと言ったジャンルに囚われず常に進化と変化を繰り返す」というプロデューサーであるt-kimuraのコンセプトの元に集合したユニットである。
 
-  - 基本的にyuriが平メロとサビを歌い、間奏部分（若しくはVocalに乗せる形で）にmotsuのRapが入る。
+### 音楽性
+
+  - 基本的にyuriが平メロとサビを歌い、間奏部分（もしくはVocalに乗せる形で）にmotsuのRapが入る。
   - 楽曲のジャンルはグループ名の由来にあるように限定されておらず、幅広いサウンドスタイルで基本的には多くのジャンルに手広く挑戦するオールラウンドタイプだが、サウンドの基礎部分には[電子楽器](../Page/電子楽器.md "wikilink")を用いた俗に言うエレクトリックサウンドやをダンスミュージック導入しているものがほとんどである。
-  - 近年はそれまでに見られなかったバラードも多く製作している。「[Angel Eyes](../Page/Angel_Eyes_\(m.o.v.eの曲\).md "wikilink")」は初の試みとして、シングルA面に[バラード](../Page/バラード.md "wikilink")を配置した。
   - ライブでは個性的なパフォーマンスをすることが多く、ドラムの代わりに和太鼓を使用したりシンセサイザーの上に立ち上がったり曲の演奏中に半裸の男性（[土屋滋生](../Page/土屋滋生.md "wikilink")など）を乱入させるなどをした。
 
-### 楽曲のジャンル一覧
+#### 楽曲のジャンル
 
   - [ユーロビート](../Page/ユーロビート.md "wikilink")
   - [ロック](../Page/ロック_\(音楽\).md "wikilink")
@@ -87,6 +134,22 @@
   - [ヒップホップ](../Page/ヒップホップ.md "wikilink")
   - [ラテン音楽](../Page/ラテン音楽.md "wikilink")
   - [ヴォコーダー](../Page/ヴォコーダー.md "wikilink")
+
+### m.o.v.eと頭文字D
+
+[InitialD_FD3S_m.o.v.e.JPG](https://ja.wikipedia.org/wiki/File:InitialD_FD3S_m.o.v.e.JPG "fig:InitialD_FD3S_m.o.v.e.JPG")」のPVに登場した
+[マツダ](../Page/マツダ.md "wikilink") [FD3S・RX-7](https://ja.wikipedia.org/wiki/マツダ・RX-7#3代目_FD3S型（1991-2002年） "wikilink")
+[フジミ模型](../Page/フジミ模型.md "wikilink")1/24頭文字Dシリーズより改造\]\]
+
+  - アニメ『[頭文字D](../Page/頭文字D.md "wikilink")』の主題歌をFirst StageからFinal Stageまで、ゲーム『[頭文字D ARCADE STAGE](../Page/頭文字D_ARCADE_STAGE.md "wikilink")』でも2以降で、一部の例外を除いて一貫して担当しており、同作品のイメージが色濃いユニットでもある。攻撃的なビートが、[ドリフトのアグレッシブな走行シーンにとてもマッチしている](../Page/ドリフト走行.md "wikilink")。
+  - ゲーム雑誌のインタビューやラジオなどで、メンバーがファンである事を過去に明かしている。「[BREAK IN2 THE NITE](../Page/BREAK_IN2_THE_NITE.md "wikilink")」、「[DOGFIGHT](../Page/DOGFIGHT.md "wikilink")」、「The Double Ace」など、作中の背景を踏まえた楽曲も制作されている。アニメの関連楽曲としてRemixも多く制作されている。
+  - 1st Stageでは、主題歌以外にも1stアルバム「[electrock](https://ja.wikipedia.org/wiki/electrock "wikilink")」収録曲のほとんどが劇中で挿入歌として使用されている。
+  - 4th Stageのact.20に[ゲスト出演する](https://ja.wikipedia.org/wiki/頭文字Dの登場人物#パープルシャドウ "wikilink")。
+  - 「[FREAKY PLANET](../Page/FREAKY_PLANET.md "wikilink")」「[DISCO TIME](../Page/DISCO_TIME.md "wikilink")」「[雷鳴-out of kontrol-](../Page/雷鳴-out_of_kontrol-.md "wikilink")」「[Angel Eyes](../Page/Angel_Eyes_\(m.o.v.eの曲\).md "wikilink")」の4ヵ月連続リリースシングルは『[頭文字D](../Page/頭文字D.md "wikilink")』とのコラボレーションとして企画され、4曲のPVを組み合わせたショートムービーを制作。アルバム「[GRID](../Page/GRID.md "wikilink")」のDVDには、この作品の完全版が収録されている。
+      - 第1弾「[FREAKY PLANET](../Page/FREAKY_PLANET.md "wikilink")」では、[榛名山](../Page/榛名山.md "wikilink")で撮影。劇中では[ハチロクも登場する](../Page/トヨタ・AE86.md "wikilink")。
+      - 第3弾の「[雷鳴-out of kontrol-](../Page/雷鳴-out_of_kontrol-.md "wikilink")」では、頭文字Dのスタッフによって制作、メンバー3人が主人公・[藤原拓海](../Page/藤原拓海.md "wikilink")と共演。\[12\]
+          - motsu（ドライバー）・t-kimura（助手席）・・・赤い[FD3S・RX-7](https://ja.wikipedia.org/wiki/マツダ・RX-7#3代目_FD3S型（1991-2002年） "wikilink")（ナンバー「品川33 む 05-111」）
+          - yuri・・・拓海のハチロクの助手席
 
 ## ディスコグラフィ
 
@@ -121,17 +184,17 @@
 | 25th | [2005年](../Page/2005年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")                    | *' [雷鳴-out of kontrol-](../Page/雷鳴-out_of_kontrol-.md "wikilink")*'                                                             | AVCT-30112\~3/B | 44位                                                                               |     |
 | 26th | [2005年](../Page/2005年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")                    | ''' [Angel Eyes](../Page/Angel_Eyes_\(m.o.v.eの曲\).md "wikilink") '''                                                            | AVCT-30114\~5/B | 45位                                                                               |     |
 | 27th | [2007年](../Page/2007年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")                      | ''' [Systematic Fantasy/Good Day Good Time](https://ja.wikipedia.org/wiki/Systematic_Fantasy/Good_Day_Good_Time "wikilink") ''' | AVCT-30123      |                                                                                   | 52位 |
-| 28th | [2007年](../Page/2007年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")                      | *' [SPEED MASTER](../Page/SPEED_MASTER.md "wikilink")*'\[12\]                                                                   | AVCT-30124      | 58位                                                                               |     |
+| 28th | [2007年](../Page/2007年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")                      | *' [SPEED MASTER](../Page/SPEED_MASTER.md "wikilink")*'\[13\]                                                                   | AVCT-30124      | 58位                                                                               |     |
 | 29th | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月2日](../Page/7月2日.md "wikilink")     | *' [DIVE INTO STREAM](https://ja.wikipedia.org/wiki/DIVE_INTO_STREAM "wikilink")*'                                              | AVCT-30129      | [Humanizer](https://ja.wikipedia.org/wiki/Humanizer "wikilink")                   | 31位 |
 | 30th | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月13日](../Page/1月13日.md "wikilink")   | *' [Fate Seeker](https://ja.wikipedia.org/wiki/Fate_Seeker "wikilink")*'                                                        | AVCT-30130      | Dream Again                                                                       | 49位 |
-| 31st | [2011年](../Page/2011年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink")                        | *' [oveRtaKerS](https://ja.wikipedia.org/wiki/oveRtaKerS "wikilink")*'\[13\]                                                    | AVCT-30131      | oveRtaKerS SPIRIT                                                                 | 53位 |
+| 31st | [2011年](../Page/2011年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink")                        | *' [oveRtaKerS](https://ja.wikipedia.org/wiki/oveRtaKerS "wikilink")*'\[14\]                                                    | AVCT-30131      | oveRtaKerS SPIRIT                                                                 | 53位 |
 
 #### 配信限定
 
-  - FREAKY PLANET (English Version) (2005年9月14日) \[14\]
-  - Raise Up（2012年11月4日）\[15\]
-  - 夕愁想花（2013年2月6日）\[16\]
-  - Outsoar The Rainbow（2014年5月16日）\[17\]
+  - FREAKY PLANET (English Version) (2005年9月14日) \[15\]
+  - Raise Up（2012年11月4日）\[16\]
+  - 夕愁想花（2013年2月6日）\[17\]
+  - Outsoar The Rainbow（2014年5月16日）\[18\]
 
 ### アルバム
 
@@ -169,10 +232,10 @@
 | 枚                                               | 発売日                                                                      | タイトル                                                                                                                    | 規格品番            |
 | ----------------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- | --------------- |
 | 1st                                             | [2002年](../Page/2002年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink") | ''' [move super tune -BEST SELECTIONS-](https://ja.wikipedia.org/wiki/move_super_tune_-BEST_SELECTIONS- "wikilink") ''' | AVCT-10116      |
-| [2004年](../Page/2004年.md "wikilink")1月28日\[18\] | AVAT-91200                                                               |                                                                                                                         |                 |
+| [2004年](../Page/2004年.md "wikilink")1月28日\[19\] | AVAT-91200                                                               |                                                                                                                         |                 |
 | 2nd                                             | [2004年](../Page/2004年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink") | ''' [REWIND〜singles collection+〜](../Page/REWIND〜singles_collection+〜.md "wikilink") '''                                | AVCT-10142      |
 | 3rd                                             | [2007年](../Page/2007年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink") | ''' [10th Anniversary MEGA BEST](../Page/10th_Anniversary_MEGA_BEST.md "wikilink") '''                                  | AVCT-10163/4    |
-| 4th                                             | [2012年](../Page/2012年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")   | ''' [m.o.v.e B-SIDE BEST](https://ja.wikipedia.org/wiki/m.o.v.e_B-SIDE_BEST "wikilink") '''\[19\]                       |                 |
+| 4th                                             | [2012年](../Page/2012年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")   | ''' [m.o.v.e B-SIDE BEST](https://ja.wikipedia.org/wiki/m.o.v.e_B-SIDE_BEST "wikilink") '''\[20\]                       |                 |
 | 5th                                             | [2013年](../Page/2013年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink") | ''' [Best moves. 〜and move goes on〜](https://ja.wikipedia.org/wiki/Best_moves._〜and_move_goes_on〜 "wikilink") '''       | AVCT-10186\~8/B |
 
 #### ライブアルバム
@@ -210,329 +273,89 @@
 
 ## タイアップ一覧
 
-<table>
-<thead>
-<tr class="header">
-<th><p>年</p></th>
-<th><p>楽曲</p></th>
-<th><p>タイアップ</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>1997年</p></td>
-<td><p>ROCK IT DOWN</p></td>
-<td><p>テレビ東京系「<a href="https://ja.wikipedia.org/wiki/ASAYAN" title="wikilink">ASAYAN</a>」オープニングテーマ アニメ「<a href="../Page/頭文字D.md" title="wikilink">頭文字D</a>」挿入歌</p></td>
-</tr>
-<tr class="even">
-<td><p>1998年</p></td>
-<td><p>around the world</p></td>
-<td><p>アニメ「<a href="../Page/頭文字D.md" title="wikilink">頭文字D</a>」オープニングテーマ</p></td>
-</tr>
-<tr class="odd">
-<td><p>over drive</p></td>
-<td><p>テレビ東京系「<a href="https://ja.wikipedia.org/wiki/ASAYAN" title="wikilink">ASAYAN</a>」エンディングテーマ</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Rage your dream</p></td>
-<td><p>アニメ「<a href="../Page/頭文字D.md" title="wikilink">頭文字D</a>」エンディングテーマ</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Bust the Future Wall move into the rockin' beat</p></td>
-<td><p>アニメ「<a href="../Page/頭文字D.md" title="wikilink">頭文字D</a>」挿入歌 プレイステーションゲームソフト「JGTC」イメージソング</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Wanna fly to be wild</p></td>
-<td><p>アニメ「<a href="../Page/頭文字D.md" title="wikilink">頭文字D</a>」挿入歌</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>See you, my best love</p></td>
-<td><p>アニメ「<a href="../Page/頭文字D.md" title="wikilink">頭文字D</a>」挿入歌</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>take me higher</p></td>
-<td><p>アニメ「<a href="../Page/頭文字D.md" title="wikilink">頭文字D</a>」挿入歌</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>past days～追憶</p></td>
-<td><p>アニメ「<a href="../Page/頭文字D.md" title="wikilink">頭文字D</a>」挿入歌</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>BREAK IN2 THE NITE</p></td>
-<td><p>アニメ「<a href="../Page/頭文字D.md" title="wikilink">頭文字D</a>」オープニングテーマ</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1999年</p></td>
-<td><p>platinum</p></td>
-<td><p>テレビ東京系「[[スキヤキ</p></td>
-</tr>
-<tr class="even">
-<td><p>Blazin' Beat</p></td>
-<td><p>アニメ「<a href="https://ja.wikipedia.org/wiki/頭文字D_Second_Stage" title="wikilink">頭文字D Second Stage</a>」オープニングテーマ</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2000年</p></td>
-<td><p>words of the mind ～brandnew journey～</p></td>
-<td><p>テレビ東京系「<a href="https://ja.wikipedia.org/wiki/ASAYAN" title="wikilink">ASAYAN</a>」エンディングテーマ 光通信「phonet a」TVCMソング</p></td>
-</tr>
-<tr class="even">
-<td><p>sweet vibration</p></td>
-<td><p>たかの友梨ビューティクリニックTVCMソング TBSテレビ系「CDTV」エンディングテーマ</p>
-<p>コーエー社ゲーム「真・三国無双」イメージソング</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Can't Quit This</p></td>
-<td></td>
-<td><p>～KNOCK'EM OUT～</p></td>
-</tr>
-<tr class="even">
-<td><p>2001年</p></td>
-<td><p>Gamble Rumble</p></td>
-<td><p>映画「<a href="https://ja.wikipedia.org/wiki/頭文字D_Third_Stage" title="wikilink">頭文字D Third Stage</a>」オープニングテーマ ゲーム「<a href="https://ja.wikipedia.org/wiki/頭文字D_Special_Stage" title="wikilink">頭文字D Special Stage</a>」オープニングテーマ</p></td>
-</tr>
-<tr class="odd">
-<td><p>Strike On</p></td>
-<td><p>映画「<a href="https://ja.wikipedia.org/wiki/頭文字D_Third_Stage" title="wikilink">頭文字D Third Stage</a>」挿入歌</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>SUPER SONIC DANCE</p></td>
-<td><p>テレビ東京系「[[スキヤキ</p></td>
-<td><p>ロンドンブーツ大作戦|スキヤキ</p></td>
-</tr>
-<tr class="odd">
-<td><p>FLY ME SO HIGH</p></td>
-<td><p>ゲーム「<a href="../Page/エナジーエアフォース.md" title="wikilink">エナジーエアフォース</a>」テーマソング 日本テレビ系「TOYOTA PRINCESS CUP 2001」大会イメージソング</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>come together</p></td>
-<td><p>TBS系列「<a href="https://ja.wikipedia.org/wiki/ワンダフル" title="wikilink">ワンダフル</a>」テーマソング</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2002年</p></td>
-<td><p>Romancing Train</p></td>
-<td><p>テレビ東京系アニメ『<a href="https://ja.wikipedia.org/wiki/FF：U_～ファイナルファンタジー:アンリミテッド～" title="wikilink">FF：U ～ファイナルファンタジー:アンリミテッド～</a>』エンディングテーマ</p></td>
-</tr>
-<tr class="even">
-<td><p>FUTURE BREEZE</p></td>
-<td><p>TBSテレビ系「<a href="https://ja.wikipedia.org/wiki/CDTV-Neo" title="wikilink">CDTV-Neo</a>」オープニングテーマ</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>¡WAKE YOUR LOVE!</p></td>
-<td><p>テレビ東京系アニメ「<a href="../Page/アソボット戦記五九.md" title="wikilink">アソボット戦記五九</a>」エンディングテーマ</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2003年</p></td>
-<td><p>BURNING DANCE</p></td>
-<td><p>テレビ東京系テレビアニメ『<a href="../Page/アソボット戦記五九.md" title="wikilink">アソボット戦記五九</a>』エンディングテーマ</p></td>
-</tr>
-<tr class="odd">
-<td><p>Drivin' Through The Night</p></td>
-<td><p><a href="../Page/アニメシアターX.md" title="wikilink">AT-X系テレビアニメ</a>『<a href="../Page/一騎当千_(漫画).md" title="wikilink">一騎当千</a>』オープニングテーマ</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>WORLD'S END -Rebirth-</p></td>
-<td><p>TX系「Game Jockey」オープニングテーマ</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2004年</p></td>
-<td><p>DOGFIGHT</p></td>
-<td><p>アニメ「<a href="https://ja.wikipedia.org/wiki/頭文字D_Fourth_Stage" title="wikilink">頭文字D Fourth Stage</a>」オープニングテーマ</p></td>
-</tr>
-<tr class="even">
-<td><p>Blast My Desire</p></td>
-<td><p>アニメ「<a href="https://ja.wikipedia.org/wiki/頭文字D_Fourth_Stage" title="wikilink">頭文字D Fourth Stage</a>」エンディングテーマ</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>DEEP CALM</p></td>
-<td><p>TX系「ピカピカプリンス」エンディング・テーマ</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>GHETTO BLASTER</p></td>
-<td><p>X-TRAIL Cup in お台場オフィシャルソング 2004 Swatch-Fivb World Tour大阪大会イメージソング</p>
-<p>MBS系音楽番組「Fuzz」8月度エンディングテーマ</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2005年</p></td>
-<td><p>How To See You Again</p></td>
-<td><p>TBS系 「<a href="../Page/世界バリバリ★バリュー.md" title="wikilink">世界バリバリ★バリュー</a>」エンディングテーマ MBSテレビ「アニメシャワー」オープニングテーマ 「TOKYO AUTO SALON 2005 with NAPAC」CMソング</p></td>
-</tr>
-<tr class="even">
-<td><p>Noizy Tribe</p></td>
-<td><p>アニメ「<a href="https://ja.wikipedia.org/wiki/頭文字D_Fourth_Stage" title="wikilink">頭文字D Fourth Stage</a>」オープニングテーマ</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Nobody reason ～ノアの方舟</p></td>
-<td><p>アニメ「<a href="https://ja.wikipedia.org/wiki/頭文字D_Fourth_Stage" title="wikilink">頭文字D Fourth Stage</a>」エンディングテーマ</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>FREAKY PLANET</p></td>
-<td><p>オンラインREMIXコンテスト「ACID planet」</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>DISCO TIME</p></td>
-<td><p>TBS系「エンタメキャッチ」オープニングテーマ</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>雷鳴 ～out of kontrol～</p></td>
-<td><p>第21回東日本女子駅伝大会テーマ曲 アーケードゲーム「<a href="https://ja.wikipedia.org/wiki/頭文字D_ARCADE_STAGE_4" title="wikilink">頭文字D ARCADE STAGE 4</a>」オープニング曲</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>ANGEL EYES</p></td>
-<td><p>TBS系「<a href="../Page/世界バリバリ★バリュー.md" title="wikilink">世界バリバリ★バリュー</a>」1～3月度エンディングテーマ</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2006年</p></td>
-<td><p>NAMIDA 3000</p></td>
-<td><p>セガゲームソフト「頭文字D STREET STAGE」CM曲 アーケードゲーム「頭文字D ARCADE STAGE 4」エンディング曲</p></td>
-</tr>
-<tr class="odd">
-<td><p>DISINFECTED GENERATION</p></td>
-<td><p>｢マイルドセブン JAPAN CROSS GAME MASTERS SBX 2006｣大会イメージソング</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2007年</p></td>
-<td><p>SYSTEMATIC FANTASY</p></td>
-<td><p>テレビ東京系「<a href="../Page/激走!GT.md" title="wikilink">激走!GT</a>」2007年度エンディングテーマ</p></td>
-</tr>
-<tr class="odd">
-<td><p>Good Day Good Time</p></td>
-<td><p>テレビ東京系「<a href="../Page/激走!GT.md" title="wikilink">激走!GT</a>」 2006年度エンディングテーマ</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>SPEED MASTER</p></td>
-<td><p>映画「<a href="https://ja.wikipedia.org/wiki/スピードマスター_(漫画)" title="wikilink">SPEED MASTER</a>」エンディングテーマ</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2008年</p></td>
-<td><p>DIVE INTO STREAM</p></td>
-<td><p>プレイステーション3専用ゲーム「<a href="https://ja.wikipedia.org/wiki/頭文字D_Extreme_Stage" title="wikilink">頭文字D Extreme Stage</a>」オープニングテーマ</p></td>
-</tr>
-<tr class="even">
-<td><p>KEEP ON MOVIN'</p></td>
-<td><p>プレイステーション3専用ゲーム「<a href="https://ja.wikipedia.org/wiki/頭文字D_Extreme_Stage" title="wikilink">頭文字D Extreme Stage</a>」エンディングテーマ</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>蒼穹のflight</p></td>
-<td><p>プレイステーション3専用ゲーム「<a href="https://ja.wikipedia.org/wiki/頭文字D_Extreme_Stage" title="wikilink">頭文字D Extreme Stage</a>」収録曲 OVA「<a href="https://ja.wikipedia.org/wiki/頭文字D_Extra_Stage" title="wikilink">頭文字D Extra Stage 2 ～旅立ちのグリーン～</a>」オープニングテーマ</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2009年</p></td>
-<td><p>BLAZABILITY</p></td>
-<td><p>アーケードゲーム『<a href="https://ja.wikipedia.org/wiki/頭文字D_ARCADE_STAGE_5" title="wikilink">頭文字D ARCADE STAGE 5</a>』 オープニングテーマ</p></td>
-</tr>
-<tr class="odd">
-<td><p>Lady Butterfly</p></td>
-<td><p>アーケードゲーム『<a href="https://ja.wikipedia.org/wiki/頭文字D_ARCADE_STAGE_5" title="wikilink">頭文字D ARCADE STAGE 5</a>』 エンディングテーマ</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2010年</p></td>
-<td><p>Fate Seeker</p></td>
-<td><p>シーアンドシーメディア社ゲーム「TARTAROS-タルタロス-」テーマソング NTV系「歌スタ</p></td>
-</tr>
-<tr class="odd">
-<td><p>The Pacific Caravan</p></td>
-<td><p>アーケードゲーム「頭文字D EXTREME STAGE」エンディングテーマ</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2011年</p></td>
-<td><p>oveRtaKerS</p></td>
-<td><p>映画「ガクドリ」主題歌</p></td>
-</tr>
-<tr class="odd">
-<td><p>The Double Ace</p></td>
-<td><p>アーケードゲーム『<a href="https://ja.wikipedia.org/wiki/頭文字D_ARCADE_STAGE_6_AA" title="wikilink">頭文字D ARCADE STAGE 6 AA</a>』 オープニングテーマ</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>BIRD</p></td>
-<td><p>アーケードゲーム『<a href="https://ja.wikipedia.org/wiki/頭文字D_ARCADE_STAGE_6_AA" title="wikilink">頭文字D ARCADE STAGE 6 AA</a>』 エンディングテーマ</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2012年</p></td>
-<td><p>ダイアの花</p></td>
-<td><p>テレビ東京「<a href="https://ja.wikipedia.org/wiki/アニソンぷらす" title="wikilink">アニソンぷらす</a>」2012年2月度EDテーマ 「<a href="https://ja.wikipedia.org/wiki/Anime-TV" title="wikilink">Anime-TV</a>」2012年2月度OPテーマ</p></td>
-</tr>
-<tr class="even">
-<td><p>XII</p></td>
-<td><p>大阪オートメッセ2012 テーマソング とちぎテレビ「CarXs」2012年2月度・3月度EDテーマ</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>NATIVE SHOUT</p></td>
-<td><p>東京オートサロン2012テーマソング</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2013年</p></td>
-<td><p>Raise Up</p></td>
-<td><p>アニメ「<a href="../Page/頭文字D.md" title="wikilink">頭文字D Fifth Stage</a>」オープニングテーマ</p></td>
-</tr>
-<tr class="odd">
-<td><p>Cross the X</p></td>
-<td><p>アーケードゲーム『<a href="https://ja.wikipedia.org/wiki/頭文字D_ARCADE_STAGE_7_AA_X" title="wikilink">頭文字D ARCADE STAGE 7 AAX</a>』 オープニングテーマ</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Ignite The Fire</p></td>
-<td><p>D1 GRAND PRIX TOKYO DRIFT IN ODAIBA テーマソング</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Gamble Ramble ～Stage 7 Version～</p></td>
-<td><p>アーケードゲーム『<a href="https://ja.wikipedia.org/wiki/頭文字D_ARCADE_STAGE_7_AA_X" title="wikilink">頭文字D ARCADE STAGE 7 AAX</a>』収録曲</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>夕愁想花</p></td>
-<td><p>アニメ「<a href="../Page/頭文字D.md" title="wikilink">頭文字D Fifth Stage</a>」エンディングテーマ</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2014年</p></td>
-<td><p>Outsoar The Rainbow</p></td>
-<td><p>アニメ「<a href="../Page/頭文字D.md" title="wikilink">頭文字D Final Stage</a>」オープニングテーマ アーケードゲーム『<a href="https://ja.wikipedia.org/wiki/頭文字D_ARCADE_STAGE_8_インフィニティ" title="wikilink">頭文字D ARCADE STAGE 8 ∞</a>』 オープニングテーマ</p></td>
-</tr>
-<tr class="even">
-<td><p>Days</p></td>
-<td><p>アニメ「<a href="../Page/頭文字D.md" title="wikilink">頭文字D Final Stage</a>」挿入歌</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 起用年                                                                                                                                                                                                            | 楽曲                                                                                                               | タイアップ                                                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| 1997年                                                                                                                                                                                                          | ROCK IT DOWN                                                                                                     | テレビ東京系「[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")」オープニングテーマ                                            |
+| アニメ「[頭文字D](../Page/頭文字D.md "wikilink")」挿入歌                                                                                                                                                                     |                                                                                                                  |                                                                                                                       |
+| 1998年                                                                                                                                                                                                          | around the world                                                                                                 | アニメ「[頭文字D](../Page/頭文字D.md "wikilink")」オープニングテーマ                                                                      |
+| over drive                                                                                                                                                                                                     | テレビ東京系「[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")」エンディングテーマ                                       |                                                                                                                       |
+| Rage your dream                                                                                                                                                                                                | アニメ「[頭文字D](../Page/頭文字D.md "wikilink")」エンディングテーマ                                                                 |                                                                                                                       |
+| Bust the Future Wall \[move into the rockin' beat\]                                                                                                                                                            | アニメ「[頭文字D](../Page/頭文字D.md "wikilink")」挿入歌                                                                       |                                                                                                                       |
+| [プレイステーションゲーム](../Page/PlayStation_\(ゲーム機\).md "wikilink")『[JGTC -ALL JAPAN GRAND TOURING CAR CHAMPIONSHIP-](https://ja.wikipedia.org/wiki/JGTC_-ALL_JAPAN_GRAND_TOURING_CAR_CHAMPIONSHIP- "wikilink")』イメージソング |                                                                                                                  |                                                                                                                       |
+| Wanna fly to be wild                                                                                                                                                                                           | アニメ「[頭文字D](../Page/頭文字D.md "wikilink")」挿入歌                                                                       |                                                                                                                       |
+| See you, my best love                                                                                                                                                                                          | アニメ「[頭文字D](../Page/頭文字D.md "wikilink")」挿入歌                                                                       |                                                                                                                       |
+| take me higher                                                                                                                                                                                                 | アニメ「[頭文字D](../Page/頭文字D.md "wikilink")」挿入歌                                                                       |                                                                                                                       |
+| past days～追憶                                                                                                                                                                                                   | アニメ「[頭文字D](../Page/頭文字D.md "wikilink")」挿入歌                                                                       |                                                                                                                       |
+| BREAK IN2 THE NITE                                                                                                                                                                                             | アニメ「[頭文字D](../Page/頭文字D.md "wikilink")」オープニングテーマ                                                                 |                                                                                                                       |
+| 1999年                                                                                                                                                                                                          | platinum                                                                                                         | テレビ東京系「\[\[スキヤキ                                                                                                       |
+| Blazin' Beat                                                                                                                                                                                                   | アニメ「[頭文字D Second Stage](https://ja.wikipedia.org/wiki/頭文字D_Second_Stage "wikilink")」オープニングテーマ                    |                                                                                                                       |
+| 2000年                                                                                                                                                                                                          | words of the mind ～brandnew journey～                                                                             | テレビ東京系「[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")」エンディングテーマ                                            |
+| 光通信「phonet a」TVCMソング                                                                                                                                                                                           |                                                                                                                  |                                                                                                                       |
+| sweet vibration                                                                                                                                                                                                | たかの友梨ビューティクリニックTVCMソング                                                                                           |                                                                                                                       |
+| TBSテレビ系「CDTV」エンディングテーマ                                                                                                                                                                                         |                                                                                                                  |                                                                                                                       |
+| コーエー社ゲーム「真・三国無双」イメージソング                                                                                                                                                                                        |                                                                                                                  |                                                                                                                       |
+| Can't Quit This KNOCK'EM OUT                                                                                                                                                                                   | プレイステーション2専用ゲーム「[真・三國無双](https://ja.wikipedia.org/wiki/真・三國無双 "wikilink")」主題歌                                    |                                                                                                                       |
+| 2001年                                                                                                                                                                                                          | Gamble Rumble                                                                                                    | 映画「[頭文字D Third Stage](https://ja.wikipedia.org/wiki/頭文字D_Third_Stage "wikilink")」オープニングテーマ                            |
+| ゲーム「[頭文字D Special Stage](https://ja.wikipedia.org/wiki/頭文字D_Special_Stage "wikilink")」オープニングテーマ                                                                                                                |                                                                                                                  |                                                                                                                       |
+| Strike On                                                                                                                                                                                                      | 映画「[頭文字D Third Stage](https://ja.wikipedia.org/wiki/頭文字D_Third_Stage "wikilink")」挿入歌                             |                                                                                                                       |
+| SUPER SONIC DANCE                                                                                                                                                                                              | テレビ東京系「\[\[スキヤキ                                                                                                  | ロンドンブーツ大作戦|スキヤキ                                                                                                       |
+| FLY ME SO HIGH                                                                                                                                                                                                 | ゲーム「[エナジーエアフォース](../Page/エナジーエアフォース.md "wikilink")」テーマソング                                                        |                                                                                                                       |
+| 日本テレビ系「TOYOTA PRINCESS CUP 2001」大会イメージソング                                                                                                                                                                      |                                                                                                                  |                                                                                                                       |
+| come together                                                                                                                                                                                                  | TBS系列「[ワンダフル](https://ja.wikipedia.org/wiki/ワンダフル "wikilink")」テーマソング                                             |                                                                                                                       |
+| 2002年                                                                                                                                                                                                          | Romancing Train                                                                                                  | テレビ東京系アニメ『[FF：U ～ファイナルファンタジー:アンリミテッド～](https://ja.wikipedia.org/wiki/FF：U_～ファイナルファンタジー:アンリミテッド～ "wikilink")』エンディングテーマ |
+| FUTURE BREEZE                                                                                                                                                                                                  | TBSテレビ系「[CDTV-Neo](https://ja.wikipedia.org/wiki/CDTV-Neo "wikilink")」オープニングテーマ                                  |                                                                                                                       |
+| ¡WAKE YOUR LOVE\!                                                                                                                                                                                              | テレビ東京系アニメ「[アソボット戦記五九](../Page/アソボット戦記五九.md "wikilink")」エンディングテーマ                                                 |                                                                                                                       |
+| 2003年                                                                                                                                                                                                          | BURNING DANCE                                                                                                    | テレビ東京系テレビアニメ『[アソボット戦記五九](../Page/アソボット戦記五九.md "wikilink")』エンディングテーマ                                                   |
+| Drivin' Through The Night                                                                                                                                                                                      | [AT-X系テレビアニメ](../Page/アニメシアターX.md "wikilink")『[一騎当千](../Page/一騎当千_\(漫画\).md "wikilink")』オープニングテーマ                |                                                                                                                       |
+| WORLD'S END -Rebirth-                                                                                                                                                                                          | TX系「Game Jockey」オープニングテーマ                                                                                        |                                                                                                                       |
+| 2004年                                                                                                                                                                                                          | DOGFIGHT                                                                                                         | アニメ「[頭文字D Fourth Stage](https://ja.wikipedia.org/wiki/頭文字D_Fourth_Stage "wikilink")」オープニングテーマ                         |
+| PSP専用ゲーム 頭文字D Street Stage オープニングテーマ                                                                                                                                                                           |                                                                                                                  |                                                                                                                       |
+| Blast My Desire                                                                                                                                                                                                | アニメ「[頭文字D Fourth Stage](https://ja.wikipedia.org/wiki/頭文字D_Fourth_Stage "wikilink")」エンディングテーマ                    |                                                                                                                       |
+| DEEP CALM                                                                                                                                                                                                      | TX系「ピカピカプリンス」エンディング・テーマ                                                                                          |                                                                                                                       |
+| GHETTO BLASTER                                                                                                                                                                                                 | X-TRAIL Cup in お台場オフィシャルソング                                                                                      |                                                                                                                       |
+| 2004 Swatch-Fivb World Tour大阪大会イメージソング                                                                                                                                                                         |                                                                                                                  |                                                                                                                       |
+| MBS系音楽番組「Fuzz」8月度エンディングテーマ                                                                                                                                                                                     |                                                                                                                  |                                                                                                                       |
+| 2005年                                                                                                                                                                                                          | How To See You Again                                                                                             | TBS系 「[世界バリバリ★バリュー](../Page/世界バリバリ★バリュー.md "wikilink")」エンディングテーマ                                                      |
+| MBSテレビ「アニメシャワー」オープニングテーマ                                                                                                                                                                                       |                                                                                                                  |                                                                                                                       |
+| 「TOKYO AUTO SALON 2005 with NAPAC」CMソング                                                                                                                                                                        |                                                                                                                  |                                                                                                                       |
+| Noizy Tribe                                                                                                                                                                                                    | アニメ「[頭文字D Fourth Stage](https://ja.wikipedia.org/wiki/頭文字D_Fourth_Stage "wikilink")」オープニングテーマ                    |                                                                                                                       |
+| Nobody reason ～ノアの方舟                                                                                                                                                                                           | アニメ「[頭文字D Fourth Stage](https://ja.wikipedia.org/wiki/頭文字D_Fourth_Stage "wikilink")」エンディングテーマ                    |                                                                                                                       |
+| FREAKY PLANET                                                                                                                                                                                                  | オンラインREMIXコンテスト「ACID planet」                                                                                     |                                                                                                                       |
+| DISCO TIME                                                                                                                                                                                                     | TBS系「エンタメキャッチ」オープニングテーマ                                                                                          |                                                                                                                       |
+| 雷鳴 ～out of kontrol～                                                                                                                                                                                            | 第21回東日本女子駅伝大会テーマ曲                                                                                                |                                                                                                                       |
+| アーケードゲーム「[頭文字D ARCADE STAGE 4](https://ja.wikipedia.org/wiki/頭文字D_ARCADE_STAGE_4 "wikilink")」オープニング曲                                                                                                           |                                                                                                                  |                                                                                                                       |
+| ANGEL EYES                                                                                                                                                                                                     | TBS系「[世界バリバリ★バリュー](../Page/世界バリバリ★バリュー.md "wikilink")」1～3月度エンディングテーマ                                             |                                                                                                                       |
+| 2006年                                                                                                                                                                                                          | NAMIDA 3000                                                                                                      | セガゲームソフト「頭文字D STREET STAGE」CM曲                                                                                        |
+| アーケードゲーム「頭文字D ARCADE STAGE 4」エンディング曲                                                                                                                                                                           |                                                                                                                  |                                                                                                                       |
+| DISINFECTED GENERATION                                                                                                                                                                                         | ｢マイルドセブン JAPAN CROSS GAME MASTERS SBX 2006｣大会イメージソング                                                             |                                                                                                                       |
+| 2007年                                                                                                                                                                                                          | SYSTEMATIC FANTASY                                                                                               | テレビ東京系「[激走\!GT](../Page/激走!GT.md "wikilink")」2007年度エンディングテーマ                                                          |
+| Good Day Good Time                                                                                                                                                                                             | テレビ東京系「[激走\!GT](../Page/激走!GT.md "wikilink")」 2006年度エンディングテーマ                                                    |                                                                                                                       |
+| SPEED MASTER                                                                                                                                                                                                   | 映画「[SPEED MASTER](https://ja.wikipedia.org/wiki/スピードマスター_\(漫画\) "wikilink")」エンディングテーマ                            |                                                                                                                       |
+| 2008年                                                                                                                                                                                                          | DIVE INTO STREAM                                                                                                 | プレイステーション3専用ゲーム「[頭文字D Extreme Stage](https://ja.wikipedia.org/wiki/頭文字D_Extreme_Stage "wikilink")」オープニングテーマ           |
+| KEEP ON MOVIN'                                                                                                                                                                                                 | プレイステーション3専用ゲーム「[頭文字D Extreme Stage](https://ja.wikipedia.org/wiki/頭文字D_Extreme_Stage "wikilink")」エンディングテーマ      |                                                                                                                       |
+| 蒼穹のflight                                                                                                                                                                                                      | OVA「[頭文字D Extra Stage 2 ～旅立ちのグリーン～](https://ja.wikipedia.org/wiki/頭文字D_Extra_Stage "wikilink")」オープニングテーマ         |                                                                                                                       |
+| プレイステーション3専用ゲーム「[頭文字D Extreme Stage](https://ja.wikipedia.org/wiki/頭文字D_Extreme_Stage "wikilink")」収録曲                                                                                                          |                                                                                                                  |                                                                                                                       |
+| 2009年                                                                                                                                                                                                          | BLAZABILITY                                                                                                      | アーケードゲーム『[頭文字D ARCADE STAGE 5](https://ja.wikipedia.org/wiki/頭文字D_ARCADE_STAGE_5 "wikilink")』 オープニングテーマ               |
+| Lady Butterfly                                                                                                                                                                                                 | アーケードゲーム『[頭文字D ARCADE STAGE 5](https://ja.wikipedia.org/wiki/頭文字D_ARCADE_STAGE_5 "wikilink")』 エンディングテーマ          |                                                                                                                       |
+| 2010年                                                                                                                                                                                                          | Fate Seeker                                                                                                      | シーアンドシーメディア社ゲーム「TARTAROS-タルタロス-」テーマソング                                                                                |
+| NTV系「歌スタ                                                                                                                                                                                                       | 」オープニング・テーマ                                                                                                      |                                                                                                                       |
+| The Pacific Caravan                                                                                                                                                                                            | アーケードゲーム「頭文字D EXTREME STAGE」エンディングテーマ                                                                            |                                                                                                                       |
+| 2011年                                                                                                                                                                                                          | oveRtaKerS                                                                                                       | 映画「ガクドリ」主題歌                                                                                                           |
+| The Double Ace                                                                                                                                                                                                 | アーケードゲーム『[頭文字D ARCADE STAGE 6 AA](https://ja.wikipedia.org/wiki/頭文字D_ARCADE_STAGE_6_AA "wikilink")』 オープニングテーマ    |                                                                                                                       |
+| BIRD                                                                                                                                                                                                           | アーケードゲーム『[頭文字D ARCADE STAGE 6 AA](https://ja.wikipedia.org/wiki/頭文字D_ARCADE_STAGE_6_AA "wikilink")』 エンディングテーマ    |                                                                                                                       |
+| 2012年                                                                                                                                                                                                          | ダイアの花                                                                                                            | テレビ東京「[アニソンぷらす](https://ja.wikipedia.org/wiki/アニソンぷらす "wikilink")」2012年2月度EDテーマ                                       |
+| 「[Anime-TV](https://ja.wikipedia.org/wiki/Anime-TV "wikilink")」2012年2月度OPテーマ                                                                                                                                   |                                                                                                                  |                                                                                                                       |
+| XII                                                                                                                                                                                                            | 大阪オートメッセ2012 テーマソング                                                                                              |                                                                                                                       |
+| とちぎテレビ「CarXs」2012年2月度・3月度EDテーマ                                                                                                                                                                                 |                                                                                                                  |                                                                                                                       |
+| NATIVE SHOUT                                                                                                                                                                                                   | 東京オートサロン2012テーマソング                                                                                               |                                                                                                                       |
+| 2013年                                                                                                                                                                                                          | Raise Up                                                                                                         | アニメ「[頭文字D Fifth Stage](../Page/頭文字D.md "wikilink")」オープニングテーマ                                                          |
+| Cross the X                                                                                                                                                                                                    | アーケードゲーム『[頭文字D ARCADE STAGE 7 AAX](https://ja.wikipedia.org/wiki/頭文字D_ARCADE_STAGE_7_AA_X "wikilink")』 オープニングテーマ |                                                                                                                       |
+| Ignite The Fire                                                                                                                                                                                                | D1 GRAND PRIX TOKYO DRIFT IN ODAIBA テーマソング                                                                       |                                                                                                                       |
+| Gamble Ramble ～Stage 7 Version～                                                                                                                                                                                | アーケードゲーム『[頭文字D ARCADE STAGE 7 AAX](https://ja.wikipedia.org/wiki/頭文字D_ARCADE_STAGE_7_AA_X "wikilink")』収録曲        |                                                                                                                       |
+| 夕愁想花                                                                                                                                                                                                           | アニメ「[頭文字D Fifth Stage](../Page/頭文字D.md "wikilink")」エンディングテーマ                                                     |                                                                                                                       |
+| 2014年                                                                                                                                                                                                          | Outsoar The Rainbow                                                                                              | アニメ「[頭文字D Final Stage](../Page/頭文字D.md "wikilink")」オープニングテーマ                                                          |
+| アーケードゲーム『[頭文字D ARCADE STAGE 8 ∞](https://ja.wikipedia.org/wiki/頭文字D_ARCADE_STAGE_8_インフィニティ "wikilink")』 オープニングテーマ                                                                                              |                                                                                                                  |                                                                                                                       |
+| Days                                                                                                                                                                                                           | アニメ「[頭文字D Final Stage](../Page/頭文字D.md "wikilink")」挿入歌                                                           |                                                                                                                       |
 
 ## 出演
 
@@ -586,23 +409,7 @@
 ### ラジオ
 
   - THE ROCK'N DREAMERS〜move "Massive Beat"（毎週月曜 24：00-25：00、[NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink")：1999年1月～2002年6月）
-  - PLANET BEAT（[RADIO BERRY](https://ja.wikipedia.org/wiki/RADIO_BERRY "wikilink")：2002年10月～2003年3月）\[20\]
-
-## m.o.v.eと頭文字D
-
-[InitialD_FD3S_m.o.v.e.JPG](https://ja.wikipedia.org/wiki/File:InitialD_FD3S_m.o.v.e.JPG "fig:InitialD_FD3S_m.o.v.e.JPG")」のPVに登場した
-[マツダ](../Page/マツダ.md "wikilink") [FD3S・RX-7](https://ja.wikipedia.org/wiki/マツダ・RX-7#3代目_FD3S型（1991-2002年） "wikilink")
-[フジミ模型](../Page/フジミ模型.md "wikilink")1/24頭文字Dシリーズより改造\]\]
-
-  - アニメ『[頭文字D](../Page/頭文字D.md "wikilink")』の主題歌をFirst StageからFinal Stageまで、ゲーム『[頭文字D ARCADE STAGE](../Page/頭文字D_ARCADE_STAGE.md "wikilink")』でも2以降で、一部の例外を除いて一貫して担当しており、同作品のイメージが色濃いユニットでもある。攻撃的なビートが、[ドリフトのアグレッシブな走行シーンにとてもマッチしている](../Page/ドリフト走行.md "wikilink")。
-  - ゲーム雑誌のインタビューやラジオなどで、メンバーがファンである事を過去に明かしている。[motsu](https://ja.wikipedia.org/wiki/motsu "wikilink")と[t-kimura](https://ja.wikipedia.org/wiki/t-kimura "wikilink")の両名は[サブカルチャー](../Page/サブカルチャー.md "wikilink")に深い事はファンにも周知の事実である。「[DOGFIGHT](../Page/DOGFIGHT.md "wikilink")」をはじめ、タイトル・歌詞に作中の情景を強く意識した楽曲も非常に多い。愛着も深いのか、過去楽曲の歌い直し・Remixも多い。アニメのサントラには、シングルの新録・Remixを提供している（yuriの歌い方自体も大きく変わっている）。
-  - 1st Stageでは、主題歌以外にも1stアルバム「[electrock](https://ja.wikipedia.org/wiki/electrock "wikilink")」収録曲のほとんどが劇中で挿入歌として使用されている。
-  - 4th Stageのact.20に[ゲスト出演する](https://ja.wikipedia.org/wiki/頭文字Dの登場人物#パープルシャドウ "wikilink")（ほんの[脇役](https://ja.wikipedia.org/wiki/脇役 "wikilink")程度だが）。
-  - 「[FREAKY PLANET](../Page/FREAKY_PLANET.md "wikilink")」「[DISCO TIME](../Page/DISCO_TIME.md "wikilink")」「[雷鳴-out of kontrol-](../Page/雷鳴-out_of_kontrol-.md "wikilink")」「[Angel Eyes](../Page/Angel_Eyes_\(m.o.v.eの曲\).md "wikilink")」の4ヵ月連続リリースシングルは『[頭文字D](../Page/頭文字D.md "wikilink")』とのコラボレーションとして企画され、4曲のPVを組み合わせたショートムービーを制作。アルバム「[GRID](../Page/GRID.md "wikilink")」に付いているDVDには、この作品の完全版が収録されている。
-      - 第1弾「[FREAKY PLANET](../Page/FREAKY_PLANET.md "wikilink")」では、[榛名山](../Page/榛名山.md "wikilink")で撮影。劇中では[ハチロクも登場する](../Page/トヨタ・AE86.md "wikilink")。
-      - 第3弾の「[雷鳴-out of kontrol-](../Page/雷鳴-out_of_kontrol-.md "wikilink")」では、頭文字Dのスタッフによって制作、メンバー3人が主人公・[藤原拓海](../Page/藤原拓海.md "wikilink")と共演。\[21\]
-          - motsu（ドライバー）・t-kimura（助手席）・・・赤い[FD3S・RX-7](https://ja.wikipedia.org/wiki/マツダ・RX-7#3代目_FD3S型（1991-2002年） "wikilink")（ナンバー「品川33 む 05-111」）
-          - yuri・・・拓海のハチロクの助手席
+  - PLANET BEAT（[RADIO BERRY](https://ja.wikipedia.org/wiki/RADIO_BERRY "wikilink")：2002年10月～2003年3月）\[21\]
 
 ## 脚注
 
@@ -623,12 +430,12 @@
 
 ## 外部リンク
 
-  - [m.o.v.e OFFICIAL WEBSITE](http://electropica.com/index.html)
+  - [M.O.V.E Official Website](https://electropica.com/index.html)
+  - [m.o.v.eオフィシャルブログ](https://ameblo.jp/blog-move)
   - [J\!-ENT英語のインタビュー10th Anniversary Edition](http://nt2099.com/J-ENT/INTERVIEWS/move/index.html)
   - [ACID PLANET](http://www.acidplanet.com/contests/?T=5498)
-  - [m.o.v.e. OFFICIAL BLOG](https://ameblo.jp/blog-move)
 
-[Category:M.o.v.e](https://ja.wikipedia.org/wiki/Category:M.o.v.e "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:1997年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に結成した音楽グループ "wikilink") [Category:2013年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2013年に解散した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
+[Category:M.o.v.e](https://ja.wikipedia.org/wiki/Category:M.o.v.e "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:1997年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に結成した音楽グループ "wikilink") [Category:2013年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2013年に解散した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
 
 1.
 2.
@@ -641,13 +448,13 @@
 9.
 10.
 11.
-12. m.o.v.e feat. 8-BALL名義。8-BALL feat. m.o.v.e名義で同名の異なる楽曲が制作されている。
-13. m.o.v.e feat. RYUICHI KAWAMURA × SUGIZO 名義。
-14. iTunes store限定。
-15. ベストアルバム『Best moves. 〜and move goes on〜 』に収録される新曲として先行配信。
-16.
-17. 解散後に未発表楽曲として配信された。2014年7月11日発売『頭文字D Final Best Collection』（AVCT-10197）に未発表曲Daysと共に収録。
-18. DVD Audioとして発売。
-19. 配信限定。
-20.
+12.
+13. m.o.v.e feat. 8-BALL名義。8-BALL feat. m.o.v.e名義で同名の異なる楽曲が制作されている。
+14. m.o.v.e feat. RYUICHI KAWAMURA × SUGIZO 名義。
+15. iTunes store限定。
+16. ベストアルバム『Best moves. 〜and move goes on〜 』に収録される新曲として先行配信。
+17.
+18. 解散後に未発表楽曲として配信された。2014年7月11日発売『頭文字D Final Best Collection』（AVCT-10197）に未発表曲Daysと共に収録。
+19. DVD Audioとして発売。
+20. 配信限定。
 21.

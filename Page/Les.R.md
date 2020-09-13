@@ -140,4 +140,4 @@
 
   - [公式サイト](http://www.lesr.jp/)
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")
+[Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:日本の双子タレント](https://ja.wikipedia.org/wiki/Category:日本の双子タレント "wikilink") [Category:兄弟姉妹の音楽デュオ](https://ja.wikipedia.org/wiki/Category:兄弟姉妹の音楽デュオ "wikilink")

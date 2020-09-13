@@ -23,9 +23,9 @@ GATEWAY2000の名が広まっていったのは、[1989年](../Page/1989年.md "
 
 ### 日本進出
 
-[Yokohama_Business_Park.jpg](https://ja.wikipedia.org/wiki/File:Yokohama_Business_Park.jpg "fig:Yokohama_Business_Park.jpg")）\]\] [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")9月には世界第2位のパソコン市場である[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に進出し、日本法人である「日本ゲートウェイ弐千株式会社」（1999年に[日本ゲートウェイ](../Page/日本ゲートウェイ.md "wikilink")株式会社に変更）を[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")に設立した。
+[Yokohama_Business_Park.jpg](https://ja.wikipedia.org/wiki/File:Yokohama_Business_Park.jpg "fig:Yokohama_Business_Park.jpg")（[横浜市](../Page/横浜市.md "wikilink")）\]\] [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")9月には世界第2位のパソコン市場である[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に進出し、日本法人である「日本ゲートウェイ弐千株式会社」（1999年に[日本ゲートウェイ](../Page/日本ゲートウェイ.md "wikilink")株式会社に変更）を[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")に設立した。
 
-個人向けは本国同様直販によるBTO方式を採用し、直営店舗の「ゲートウェイカントリー」を全国の主要都市に展開した他、[ウェブサイト](../Page/ウェブサイト.md "wikilink")と[電話](../Page/電話.md "wikilink")による販売を行った。法人向けは[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に法人営業本部を置き、[大阪](../Page/大阪.md "wikilink")や[福岡](../Page/福岡県.md "wikilink")、[札幌などの全国の主要都市に法人営業部のオフィスを設置し](https://ja.wikipedia.org/wiki/札幌市 "wikilink")、「Beyond the Box」のスローガンのもとで、主に[三菱電機](../Page/三菱電機.md "wikilink")や富士電機、[ダイワボウ情報システム](../Page/ダイワボウ情報システム.md "wikilink")などのベンダー経由でパソコンとサーバ、周辺機器の販売を行った。
+個人向けは本国同様の直販によるBTO方式を採用し、直営店舗の「ゲートウェイカントリー」を全国の主要都市に展開した他、[ウェブサイト](../Page/ウェブサイト.md "wikilink")と[電話](../Page/電話.md "wikilink")による販売を行った。法人向けは[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に法人営業本部を置き、[大阪](../Page/大阪.md "wikilink")や[福岡](../Page/福岡県.md "wikilink")、[札幌などの全国の主要都市に法人営業部のオフィスを設置し](https://ja.wikipedia.org/wiki/札幌市 "wikilink")、「Beyond the Box」のスローガンのもとで、主に[三菱電機](../Page/三菱電機.md "wikilink")や富士電機、[ダイワボウ情報システム](../Page/ダイワボウ情報システム.md "wikilink")などのベンダー経由でパソコンとサーバ、周辺機器の販売を行った。
 
 高性能と低価格、充実したサポートを売りに、[伊東美咲](https://ja.wikipedia.org/wiki/伊東美咲 "wikilink")や[Every Little Thingなどを使ったテレビCMや雑誌広告など](../Page/Every_Little_Thing.md "wikilink")、派手で先鋭的な広告活動を行った。さらにフリーペーパーの発行や[シティカード](https://ja.wikipedia.org/wiki/シティカード "wikilink")との提携[クレジットカード](../Page/クレジットカード.md "wikilink")の発行や、全国の主要都市に数十店の直営店を持つ他、日本市場向けの製品を含め次々と新製品を投入するなどまさに飛ぶ鳥を落とす勢いであった。[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")との繋がりが最も強いメーカーとしても知られていた。
 
@@ -35,9 +35,9 @@ GATEWAY2000の名が広まっていったのは、[1989年](../Page/1989年.md "
 
 ### 世界市場から撤退
 
-短期間のうちに世界各国へ進出したものの、競争の激化を受けた2000年頃からのアメリカ本社の急激な経営悪化に伴い、[2001年](../Page/2001年.md "wikilink")の年初頃から世界的に事業を縮小することが噂され、社内基幹システム変更や新規路面店の展開など様々な新規プロジェクトが突如凍結された。その後[8月](../Page/8月.md "wikilink")に日本や[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")や[オーストラリア](../Page/オーストラリア.md "wikilink")などの国際市場から突如撤退し、同時にこれらの国に向けた製品を生産していた、[アイルランド](../Page/アイルランド.md "wikilink")と[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")にある生産工場も閉鎖することを発表した。この大規模な[リストラ](../Page/リストラ.md "wikilink")により、1万9000人いる全世界の従業員の25%を削減し、年間で約3億ドルのコスト削減が達成できるものと予想された。
+短期間のうちに世界各国へ進出したものの、競争の激化を受けた2000年頃からのアメリカ本社の急激な経営悪化に伴い、[2001年](../Page/2001年.md "wikilink")の年初頃から世界的に事業を縮小することが噂され、社内基幹システム変更や新規路面店の展開など様々な新規プロジェクトが突如凍結された。その後[8月](../Page/8月.md "wikilink")に日本や[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")や[オーストラリア](../Page/オーストラリア.md "wikilink")などの国際市場から突如撤退し、同時にこれらの国に向けた製品を生産していた、[アイルランド](../Page/アイルランド.md "wikilink")と[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")にある生産工場も閉鎖することを発表した。この大規模な[リストラ](../Page/リストラ.md "wikilink")により、1万9,000人いた全世界の従業員の25%を削減し、年間で約3億ドルのコスト削減が達成できるものと予想された。
 
-社内のみならず社外でも撤退の噂はあったものの、正式発表は実際に撤退、事業停止するわずか数日前のことであったために顧客に混乱を起こし、まさに[ITバブル](https://ja.wikipedia.org/wiki/ITバブル "wikilink")崩壊の象徴的な出来事として大きく報じられた。日本ゲートウェイとデルコンピュータの熾烈な価格競争が、日本のパソコン市場の価格低下に与えた影響は大きかったため、多くのパソコンユーザー（特にハイエンドユーザー）がその撤退を惜しんだ。実際、日本ゲートウェイの撤退後、日本ゲートウェイの顧客が大量にライバルのBTOメーカー、特にデルコンピュータに大きく移動したため、大きく収益とシェアを伸ばすことになった。
+社内のみならず社外でも撤退の噂はあったものの、正式発表は実際に撤退・事業停止するわずか数日前のことであったために顧客に混乱を起こし、まさに[ITバブル](https://ja.wikipedia.org/wiki/ITバブル "wikilink")崩壊の象徴的な出来事として大きく報じられた。日本ゲートウェイとデルコンピュータの熾烈な価格競争が、日本のパソコン市場の価格低下に与えた影響は大きかったため、多くのパソコンユーザー（特にハイエンドユーザー）がその撤退を惜しんだ。実際、日本ゲートウェイの撤退後、日本ゲートウェイの顧客が大量にライバルのBTOメーカー、特にデルコンピュータに大きく移動したため、大きく収益とシェアを伸ばすことになった。
 
 日本撤退後は、米[Vsource](http://www.vsource.com)社に顧客サポート業務が引き継がれた\[2\]。太平洋地域全般においてもVsourceにサポートが引き継がれた\[3\]。Vsourceは従来のゲートウェイの電話番号等によるサポートの他、[ヤフオク\!](../Page/ヤフオク!.md "wikilink")を利用してアフターパーツの供給・[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")の販売等を行った\[4\]。PC/AT互換機はゲートウェイと共通の取引先であった[パソコン工房](../Page/ユニットコム.md "wikilink")\[5\]の製品であるかは不明。ゲートウェイの日本撤退後、ノートパソコンのバッテリーが供給されないなど、アフターサービスに混乱が発生した。
 
@@ -53,7 +53,7 @@ GATEWAY2000の名が広まっていったのは、[1989年](../Page/1989年.md "
 
 ### 現在
 
-[2007年](../Page/2007年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink")、ゲートウェイは中華民国（台湾）のパソコンメーカー最大手の[エイサーにより買収総額およそ](../Page/エイサー_\(企業\).md "wikilink")7億1000万ドルで買収されることに合意したとエイサー側より発表され、[10月8日](../Page/10月8日.md "wikilink")に、買収完了によってエイサーの子会社となる。2009年[1月1日](../Page/1月1日.md "wikilink")にゲートウェイはエイサーに吸収され、**ブランド名のみ**が残る。
+[2007年](../Page/2007年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink")、ゲートウェイは中華民国（台湾）のパソコンメーカー最大手の[エイサーにより買収総額およそ](../Page/エイサー_\(企業\).md "wikilink")7億1,000万ドルで買収されることに合意したとエイサー側より発表され、[10月8日](../Page/10月8日.md "wikilink")に、買収完了によってエイサーの子会社となる。2009年[1月1日](../Page/1月1日.md "wikilink")にゲートウェイはエイサーに吸収され、**ブランド名のみ**が残る。
 
 ## 主な機種
 

@@ -56,7 +56,7 @@
 ## 提供
 
   - [雪印乳業](../Page/雪印乳業.md "wikilink")（現・[雪印メグミルク](https://ja.wikipedia.org/wiki/雪印メグミルク "wikilink")）
-  - [リッカー](../Page/リッカー.md "wikilink")ミシン（現・[セディナ](https://ja.wikipedia.org/wiki/セディナ "wikilink")）
+  - [リッカー](../Page/リッカー.md "wikilink")ミシン（現・[SMBCファイナンスサービス](../Page/SMBCファイナンスサービス.md "wikilink")）
   - [ライオン油脂](../Page/ライオン_\(企業\).md "wikilink")（現・[ライオン](../Page/ライオン_\(企業\).md "wikilink")）
 
 ## 関連項目

@@ -17,13 +17,67 @@
 
 ## 現メンバー
 
-| 名前   | 誕生日                                                                                           | パート    | 本名             | 出身 | 血液型 | 備考                                                                              |
-| ---- | --------------------------------------------------------------------------------------------- | ------ | -------------- | -- | --- | ------------------------------------------------------------------------------- |
-| シノブ  | [1977年](../Page/1977年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")                      | トップテナー | 瀬川忍（せがわしのぶ）    | 大阪 | O型  | [大阪音楽大学](../Page/大阪音楽大学.md "wikilink")卒業                                        |
-| ユースケ | [1979年](../Page/1979年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")                    | テナー    | 水野裕介（みずのゆうすけ）  | 京都 | A型  | 名前の由来：広い心で人を介（たすけ）る。 [立命館大学](https://ja.wikipedia.org/wiki/立命館大学 "wikilink")中退。 |
-| チェリー | [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[11月14日](../Page/11月14日.md "wikilink") | リードテナー | 櫻井貴之（さくらいたかゆき） | 東京 | A型  |                                                                                 |
-| ケン   | [1975年](../Page/1975年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")                        | バリトン   | 若松健治（わかまつけんじ）  | 大阪 | AB型 | [関西大学](../Page/関西大学.md "wikilink")卒業                                            |
-| ユウ   | [1974年](../Page/1974年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink")                      | ベース    | 藤森祐輔（ふじもりゆうすけ） | 東京 | A型  | Shinobuの高校の先輩。                                                                  |
+<table>
+<thead>
+<tr class="header">
+<th><p>名前</p></th>
+<th><p>誕生日</p></th>
+<th><p>パート</p></th>
+<th><p>本名</p></th>
+<th><p>出身</p></th>
+<th><p>血液型</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>シノブ</p></td>
+<td><p><a href="../Page/1977年.md" title="wikilink">1977年</a><a href="../Page/1月31日.md" title="wikilink">1月31日</a></p></td>
+<td><p>トップテナー</p></td>
+<td><p>瀬川忍（せがわしのぶ）</p></td>
+<td><p>大阪</p></td>
+<td><p>O型</p></td>
+<td><p><a href="../Page/大阪音楽大学.md" title="wikilink">大阪音楽大学</a>卒業</p></td>
+</tr>
+<tr class="even">
+<td><p>ユースケ</p></td>
+<td><p><a href="../Page/1979年.md" title="wikilink">1979年</a><a href="../Page/11月19日.md" title="wikilink">11月19日</a></p></td>
+<td><p>テナー</p></td>
+<td><p>水野裕介（みずのゆうすけ）</p></td>
+<td><p>京都</p></td>
+<td><p>A型</p></td>
+<td><p>名前の由来：広い心で人を介（たすけ）る。<br />
+<a href="https://ja.wikipedia.org/wiki/立命館大学" title="wikilink">立命館大学</a>中退。</p></td>
+</tr>
+<tr class="odd">
+<td><p>チェリー</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1978年" title="wikilink">1978年</a><a href="../Page/11月14日.md" title="wikilink">11月14日</a></p></td>
+<td><p>リードテナー</p></td>
+<td><p>櫻井貴之（さくらいたかゆき）</p></td>
+<td><p>東京</p></td>
+<td><p>A型</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>ケン</p></td>
+<td><p><a href="../Page/1975年.md" title="wikilink">1975年</a><a href="../Page/9月5日.md" title="wikilink">9月5日</a></p></td>
+<td><p>バリトン</p></td>
+<td><p>若松健治（わかまつけんじ）</p></td>
+<td><p>大阪</p></td>
+<td><p>AB型</p></td>
+<td><p><a href="../Page/関西大学.md" title="wikilink">関西大学</a>卒業</p></td>
+</tr>
+<tr class="odd">
+<td><p>ユウ</p></td>
+<td><p><a href="../Page/1974年.md" title="wikilink">1974年</a><a href="../Page/7月30日.md" title="wikilink">7月30日</a></p></td>
+<td><p>ベース</p></td>
+<td><p>藤森祐輔（ふじもりゆうすけ）</p></td>
+<td><p>東京</p></td>
+<td><p>A型</p></td>
+<td><p>Shinobuの高校の先輩。</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 元メンバー
 
@@ -1000,7 +1054,7 @@ BTRA-0007:通常盤</p></td>
 
 ## 備考
 
-[TBSラジオで番組間に流れる公式ページ案内](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")（<http://www.tbs.co.jp/radio>）の[サウンドロゴ（ジングル）を歌っている](https://ja.wikipedia.org/wiki/ジングル_\(ラジオ\) "wikilink")。内容はURLを歌にしたもので、URL以外は口にしていない。
+[TBSラジオ](../Page/TBSラジオ.md "wikilink")で番組間に流れる公式ページ案内（<http://www.tbs.co.jp/radio>）の[サウンドロゴ（ジングル）を歌っている](https://ja.wikipedia.org/wiki/ジングル_\(ラジオ\) "wikilink")。内容はURLを歌にしたもので、URL以外は口にしていない。
 なお、放送開始時と終了時に流れるテーマソングも歌い方が似ているためBaby Booが歌っていると間違われるが、実際は[高尾直樹](../Page/高尾直樹.md "wikilink")という歌手が歌っている。
 
 ## 脚注
@@ -1019,7 +1073,7 @@ BTRA-0007:通常盤</p></td>
   - [キットカット ブレイクタウン](http://www.breaktown.com/label/index.htm)
   - [あっ！とおどろく放送局](http://www.odoroku.tv/index.html)
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:ケイダッシュ系列所属者](https://ja.wikipedia.org/wiki/Category:ケイダッシュ系列所属者 "wikilink") [Category:コーラス・グループ](https://ja.wikipedia.org/wiki/Category:コーラス・グループ "wikilink") [Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink")
+[Category:日本の男性歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の男性歌手グループ "wikilink") [Category:ケイダッシュ系列所属者](https://ja.wikipedia.org/wiki/Category:ケイダッシュ系列所属者 "wikilink") [Category:コーラス・グループ](https://ja.wikipedia.org/wiki/Category:コーラス・グループ "wikilink") [Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink")
 
 1.  [舞台 黒椿](http://kurotsubaki.com/)
 2.

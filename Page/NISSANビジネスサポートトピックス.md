@@ -36,10 +36,10 @@
   - KBS[京都放送](../Page/京都放送.md "wikilink")（[笑福亭晃瓶のほっかほかラジオ](../Page/笑福亭晃瓶のほっかほかラジオ.md "wikilink")）
   - [ラジオ大阪](../Page/大阪放送.md "wikilink")（7:40～7:50　[むさし・ふみ子の朝はミラクル\!](../Page/むさし・ふみ子の朝はミラクル!.md "wikilink")）
   - [和歌山放送](../Page/和歌山放送.md "wikilink")（8:25～8:35　[つれもてワイド](../Page/つれもてワイド.md "wikilink") 朝からつれもて）
-  - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")（7:30～7:40　石田好伸の通勤ラジオ絶好調\!）
+  - [山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")（7:30～7:40　石田好伸の通勤ラジオ絶好調\!）
   - [中国放送](../Page/中国放送.md "wikilink")（8:32～8:40　[寺内優のおはようラジオ](../Page/寺内優のおはようラジオ.md "wikilink")）
-  - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")（8:40～8:50　えんやこらワイド）
-  - [西日本放送](../Page/西日本放送.md "wikilink")（7:45～7:57　[さわやかラジオ きょうも一日きし、快晴\!](../Page/さわやかラジオ_きょうも一日きし、快晴!.md "wikilink")）
+  - [四国放送](../Page/四国放送.md "wikilink")（8:40～8:50　えんやこらワイド）
+  - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")（7:45～7:57　[さわやかラジオ きょうも一日きし、快晴\!](../Page/さわやかラジオ_きょうも一日きし、快晴!.md "wikilink")）
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")（7:34～7:49　[JOAF\!らくさぶろうのモーニングおん\!](../Page/JOAF!らくさぶろうのモーニングおん!.md "wikilink")）
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")（7:30～7:40）
   - [KBCラジオ](../Page/KBCラジオ.md "wikilink")（7:35～7:50　[中村もときの通勤ラジオ](../Page/中村もときの通勤ラジオ.md "wikilink")）

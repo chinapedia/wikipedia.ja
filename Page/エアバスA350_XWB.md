@@ -135,44 +135,52 @@ USエアウェイズは[アメリカン航空](../Page/アメリカン航空.md 
 
 | 航空会社                                                                  | A350-900 | A350-1000 | 合計  |
 | --------------------------------------------------------------------- | -------- | --------- | --- |
-| [カタール航空](https://ja.wikipedia.org/wiki/カタール航空 "wikilink")\[29\]\[30\] | 35       | 9         | 44  |
-| [シンガポール航空](../Page/シンガポール航空.md "wikilink")\[31\]\[32\]                | 36       |           | 36  |
-| [キャセイパシフィック航空](../Page/キャセイパシフィック航空.md "wikilink")\[33\]\[34\]        | 22       | 12        | 34  |
-| [チャイナエアライン](../Page/チャイナエアライン.md "wikilink")\[35\]                    | 14       |           | 14  |
-| [ベトナム航空](../Page/ベトナム航空.md "wikilink")\[36\]                          | 14       |           | 14  |
-| [フィンランド航空](../Page/フィンエアー.md "wikilink")\[37\]\[38\]                  | 14       |           | 14  |
-| [ルフトハンザドイツ航空](../Page/ルフトハンザドイツ航空.md "wikilink")\[39\]                | 14       |           | 14  |
-| [デルタ航空](../Page/デルタ航空.md "wikilink")\[40\]                            | 13       |           | 13  |
-| [タイ国際航空](../Page/タイ国際航空.md "wikilink")\[41\]                          | 12       |           | 12  |
-| [エチオピア航空](../Page/エチオピア航空.md "wikilink")\[42\]                        | 12       |           | 12  |
-| [中国国際航空](../Page/中国国際航空.md "wikilink")\[43\]                          | 10       |           | 10  |
-| [LATAM ブラジル](../Page/LATAM_ブラジル.md "wikilink")\[44\]                  | 9        |           | 9   |
-| [アシアナ航空](../Page/アシアナ航空.md "wikilink")\[45\]                          | 8        |           | 8   |
-| [中国東方航空](../Page/中国東方航空.md "wikilink")\[46\]                          | 6        |           | 6   |
-| [香港航空](../Page/香港航空.md "wikilink")\[47\]                              | 6        |           | 6   |
+| [カタール航空](https://ja.wikipedia.org/wiki/カタール航空 "wikilink")\[29\]\[30\] | 34       | 14        | 48  |
+| [シンガポール航空](../Page/シンガポール航空.md "wikilink")\[31\]\[32\]                | 48       |           | 48  |
+| [キャセイパシフィック航空](../Page/キャセイパシフィック航空.md "wikilink")\[33\]\[34\]        | 23       | 12        | 35  |
+| [ルフトハンザドイツ航空](../Page/ルフトハンザドイツ航空.md "wikilink")\[35\]                | 16       |           | 16  |
+| [フィンランド航空](../Page/フィンエアー.md "wikilink")\[36\]\[37\]                  | 15       |           | 15  |
+| [チャイナエアライン](../Page/チャイナエアライン.md "wikilink")\[38\]                    | 14       |           | 14  |
+| [ベトナム航空](../Page/ベトナム航空.md "wikilink")\[39\]                          | 14       |           | 14  |
+| [エチオピア航空](../Page/エチオピア航空.md "wikilink")\[40\]                        | 14       |           | 14  |
+| [デルタ航空](../Page/デルタ航空.md "wikilink")\[41\]                            | 13       |           | 13  |
+| [タイ国際航空](../Page/タイ国際航空.md "wikilink")\[42\]                          | 12       |           | 12  |
+| [アシアナ航空](../Page/アシアナ航空.md "wikilink")\[43\]                          | 11       |           | 11  |
+| [中国国際航空](../Page/中国国際航空.md "wikilink")\[44\]                          | 10       |           | 10  |
+| [イベリア航空](../Page/イベリア航空.md "wikilink")\[45\]                          | ９        |           | ９   |
+| [LATAM ブラジル](../Page/LATAM_ブラジル.md "wikilink")\[46\]                  | 8        |           | 8   |
+| [中国東方航空](../Page/中国東方航空.md "wikilink")\[47\]                          | 7        |           | 7   |
 | [フィリピン航空](../Page/フィリピン航空.md "wikilink")\[48\]                        | 6        |           | 6   |
 | [マレーシア航空](https://ja.wikipedia.org/wiki/マレーシア航空 "wikilink")\[49\]     | 6        |           | 6   |
-| [イベリア航空](../Page/イベリア航空.md "wikilink")\[50\]                          | 5        |           | 5   |
-| [海南航空](../Page/海南航空.md "wikilink")\[51\]                              | 4        |           | 4   |
-| [四川航空](../Page/四川航空.md "wikilink")\[52\]                              | 4        |           | 4   |
-| [フレンチ・ビー](../Page/フレンチ・ビー.md "wikilink")\[53\]                        | 3        |           | 3   |
-| [エア・カライベス](https://ja.wikipedia.org/wiki/エア・カライベス "wikilink")\[54\]   | 2        |           | 2   |
-| [モーリシャス航空](https://ja.wikipedia.org/wiki/モーリシャス航空 "wikilink")\[55\]   | 2        |           | 2   |
-| [日本航空](../Page/日本航空.md "wikilink")\[56\]\[57\]                        | 3        |           | 3   |
-| [エベロップ航空](https://ja.wikipedia.org/wiki/エベロップ航空 "wikilink")\[58\]     | 1        |           | 1   |
-| 合計                                                                    | 259      | 21        | 280 |
+| [日本航空](../Page/日本航空.md "wikilink")\[50\]\[51\]                        | 6        |           | 6   |
+| [ブリティッシュ・エアウェイズ](../Page/ブリティッシュ・エアウェイズ.md "wikilink")\[52\]          |          | 6         | 6   |
+| [中国南方航空](../Page/中国南方航空.md "wikilink")\[53\]                          | 6        |           | 6   |
+| [エールフランス](../Page/エールフランス.md "wikilink")\[54\]                        | 5        |           | 5   |
+| [四川航空](../Page/四川航空.md "wikilink")\[55\]                              | 4        |           | 4   |
+| [エア・カライベス](https://ja.wikipedia.org/wiki/エア・カライベス "wikilink")\[56\]   | 2        | 2         | 4   |
+| [南アフリカ航空](../Page/南アフリカ航空.md "wikilink")\[57\]                        | 4        |           | 4   |
+| [ヴァージン・アトランティック航空](../Page/ヴァージン・アトランティック航空.md "wikilink")\[58\]      |          | 4         | 4   |
+| [フレンチ・ビー](../Page/フレンチ・ビー.md "wikilink")\[59\]                        | 3        |           | 3   |
+| [スカンジナビア航空](../Page/スカンジナビア航空.md "wikilink")\[60\]                    | 3        |           | 3   |
+| [海南航空](../Page/海南航空.md "wikilink")\[61\]                              | 2        |           | 2   |
+| [香港航空](../Page/香港航空.md "wikilink")\[62\]                              | 2        |           | 2   |
+| [モーリシャス航空](https://ja.wikipedia.org/wiki/モーリシャス航空 "wikilink")\[63\]   | 2        |           | 2   |
+| [エベロップ航空](https://ja.wikipedia.org/wiki/エベロップ航空 "wikilink")\[64\]     | 2        |           | 2   |
+| [フィジー・エアウェイズ](../Page/フィジー・エアウェイズ.md "wikilink")\[65\]                | 2        |           | 2   |
+| [アエロフロート・ロシア航空](../Page/アエロフロート・ロシア航空.md "wikilink")\[66\]            | 1        |           | 1   |
+| 合計                                                                    | 295      | 38        | 333 |
 
-style="white-space:nowrap"|エアバスA350 XWB オペレーター（2019年6月現在）\[28\]
+style="white-space:nowrap"|エアバスA350 XWB オペレーター（2020年6月現在）\[28\]
 
 
 
 ## 日本における運用
 
-日本の航空会社からは[日本航空](../Page/日本航空.md "wikilink")より唯一、受注を得ている(-900型と-1000型)。同社では自社発注としては初めて\[59\]のエアバス機となり、-900型は国内線（主に国内幹線）、-1000型は国際線に投入することを計画している。また、同社として操舵ハンドルがサイドスティック式の航空機を初めて導入することとなった。-900型機が先に導入され、2019年9月1日より就航した。今後はB777-200/-300の後継機として位置付けられ、同社の主力機と運用される予定である。
+日本の航空会社からは[日本航空](../Page/日本航空.md "wikilink")より唯一、受注を得ている(-900型と-1000型)。同社では自社発注としては初めて\[67\]のエアバス機となり、-900型は国内線（主に国内幹線）、-1000型は国際線に投入することを計画している。また、同社として操舵ハンドルがサイドスティック式の航空機を初めて導入することとなった。-900型機が先に導入され、2019年9月1日より就航した。今後はB777-200/-300の後継機として位置付けられ、同社の主力機と運用される予定である。
 
 ## 発注、引渡状況
 
-[A350_SXF.JPG](https://ja.wikipedia.org/wiki/File:A350_SXF.JPG "fig:A350_SXF.JPG") [2014年](../Page/2014年.md "wikilink")12月22日、ローンチカスタマーである[カタール航空](https://ja.wikipedia.org/wiki/カタール航空 "wikilink")に最初の1機が引き渡され、2015年1月15日から[ドーハ](https://ja.wikipedia.org/wiki/ハマド国際空港 "wikilink") - [フランクフルト線で営業運行を開始した](../Page/フランクフルト空港.md "wikilink")\[60\]\[61\]\[62\]。
+[A350_SXF.JPG](https://ja.wikipedia.org/wiki/File:A350_SXF.JPG "fig:A350_SXF.JPG") [2014年](../Page/2014年.md "wikilink")12月22日、ローンチカスタマーである[カタール航空](https://ja.wikipedia.org/wiki/カタール航空 "wikilink")に最初の1機が引き渡され、2015年1月15日から[ドーハ](https://ja.wikipedia.org/wiki/ハマド国際空港 "wikilink") - [フランクフルト線で営業運行を開始した](../Page/フランクフルト空港.md "wikilink")\[68\]\[69\]\[70\]。
 
 ### 顧客別受注
 
@@ -320,7 +328,7 @@ style="white-space:nowrap"|エアバスA350 XWB オペレーター（2019年6月
 <td></td>
 <td><p><a href="../Page/アシアナ航空.md" title="wikilink">アシアナ航空</a></p></td>
 <td><p>2016</p></td>
-<td><p>8[63]</p></td>
+<td><p>8[71]</p></td>
 <td><p>12</p></td>
 <td><p>10</p></td>
 <td><p><strong>30</strong></p></td>
@@ -387,11 +395,13 @@ style="white-space:nowrap"|エアバスA350 XWB オペレーター（2019年6月
 <td><p><a href="../Page/USエアウェイズ.md" title="wikilink">USエアウェイズ</a></p></td>
 <td><p>2017</p></td>
 <td></td>
-<td><p>22</p></td>
+<td><p>0</p></td>
 <td></td>
-<td><p><strong>22</strong></p></td>
+<td><p>0</p></td>
 <td></td>
-<td><p><a href="http://www.airbus.com/en/presscentre/pressreleases/pressreleases_items/07_10_05_us_airways_92aircraft.html">20</a>, <a href="http://www.rolls-royce.com/media/showPR.jsp?PR_ID=40490">21</a> A350-800から切換も含む</p></td>
+<td><p><a href="http://www.airbus.com/en/presscentre/pressreleases/pressreleases_items/07_10_05_us_airways_92aircraft.html">20</a>, <a href="http://www.rolls-royce.com/media/showPR.jsp?PR_ID=40490">21</a> A350-800から切換も含む</p>
+<p>22機の発注内容はアメリカン航空へ合併後も引き継がれたが、</p>
+<p>2018年に全機キャンセル[72]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -452,7 +462,7 @@ style="white-space:nowrap"|エアバスA350 XWB オペレーター（2019年6月
 <td></td>
 <td><p><a href="../Page/アエロフロート・ロシア航空.md" title="wikilink">アエロフロート・ロシア航空</a></p></td>
 <td><p>2018</p></td>
-<td><p>8[64]</p></td>
+<td><p>8[73]</p></td>
 <td><p>14</p></td>
 <td></td>
 <td><p><strong>22</strong></p></td>
@@ -673,7 +683,7 @@ style="white-space:nowrap"|エアバスA350 XWB オペレーター（2019年6月
 
 ### 機種別受注、引渡数
 
-[2020年](../Page/2020年.md "wikilink")3月末現在\[65\]
+[2020年](../Page/2020年.md "wikilink")3月末現在\[74\]
 
 |     |          |           |     |
 | --- | -------- | --------- | --- |
@@ -691,7 +701,7 @@ style="white-space:nowrap"|エアバスA350 XWB オペレーター（2019年6月
 
 ### 年度別受注、引渡数
 
-2020年3月末現在\[66\]
+2020年3月末現在\[75\]
 
 |     |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |         |
 | --- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ------- |
@@ -734,7 +744,7 @@ PlotData=
 ## 仕様
 
   - A350-800が787-9の、A350-900が777-200ERおよび787-10の、A350-900ULRが777-200LRの、A350-1000が777-300ERおよび777-8の競合機に当たる。
-  - A350-900ULRは、シンガポール航空の要請により開発された、シンガポール - 北米間を直行運航可能な超長距離路線仕様機。2015年10月にエアバスが開発することを決定し、7機が納入された。ULRとは超長距離（Ultra Long Range）という意味で、A350-900と比較して燃料タンクが拡張されノンストップで1.6万km飛行できる。ビジネスクラスとプレミアムエコノミーの2クラス制で運航された（エコノミークラスは設定されず）。また[カンタス航空](https://ja.wikipedia.org/wiki/カンタス航空 "wikilink")もシドニー - ロンドン線やメルボルン - ニューヨーク線の直行便に新たに開発されるA350-1000の長距離型機材A350-1000ULRを2023年頃に就航を検討している\[67\]が、エアバスはシンガポール航空仕様で19時間程度の飛行時間を想定していて、カンタス航空の要求は21時間程度の飛行時間想定のため、さらなる性能などの向上が望まれる\[68\]。
+  - A350-900ULRは、シンガポール航空の要請により開発された、シンガポール - 北米間を直行運航可能な超長距離路線仕様機。2015年10月にエアバスが開発することを決定し、7機が納入された。ULRとは超長距離（Ultra Long Range）という意味で、A350-900と比較して燃料タンクが拡張されノンストップで1.6万km飛行できる。ビジネスクラスとプレミアムエコノミーの2クラス制で運航された（エコノミークラスは設定されず）。また[カンタス航空](https://ja.wikipedia.org/wiki/カンタス航空 "wikilink")もシドニー - ロンドン線やメルボルン - ニューヨーク線の直行便に新たに開発されるA350-1000の長距離型機材A350-1000ULRを2023年頃に就航を検討している\[76\]が、エアバスはシンガポール航空仕様で19時間程度の飛行時間を想定していて、カンタス航空の要求は21時間程度の飛行時間想定のため、さらなる性能などの向上が望まれる\[77\]。
   - 長距離のプライベートジェット仕様を2016年にACJ350 XWBとして発表。[エアバス コーポレートジェット](https://ja.wikipedia.org/wiki/エアバス_コーポレートジェット "wikilink")(ACJ)の「イージーフィット」コンセプトを採用し、当初から搭載される客室仕様に加えて、カーボンファイバーの胴体に壁材や内装などを簡単に装着できる。内装をA350 XWBと同じものに戻すことも容易で、売却時にA350 XWB仕様に戻すことでリセールバリューを高めることができる。航続距離は20,550kmで、25人の搭乗で22時間以上飛行可能とされ、2019年にドイツが政府専用機として3機発注している。
 
 <table>
@@ -747,9 +757,9 @@ PlotData=
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>-800 [69]<br />
+<td><p>-800 [78]<br />
 (A330-900neoと競合のため開発中止)</p></td>
-<td><p>-900 [70]</p></td>
+<td><p>-900 [79]</p></td>
 <td><p>-1000</p></td>
 </tr>
 <tr class="even">
@@ -884,46 +894,55 @@ PlotData=
 25. [A350-1000初号機、初飛行を実施](http://www.airbusjapan.com/single-jp/detail/a350-1000-7/) エアバスジャパン プレスリリース（2016年11月24日）
 26. [「静かで快適」は本当？　エアバスA350に乗ってみた](http://www.aviationwire.jp/archives/49999) - Aviation Wire（2014年11月21日付、11月22日閲覧）
 27. [A350 XWB、FAAより180分超のETOPS承認](http://www.airbusjapan.com/single-jp/detail/a350-xwbfaa180etops/)　エアバス社プレスリリース（2016年5月2日）
-28. [Airbus A350 XWB Operators](https://www.planespotters.net/operators/Airbus/A350)
+28.
 29. <https://www.qatarairways.com/content/dam/documents/fleet/seatmap-a350-283.pdf>
 30. <https://www.qatarairways.com/content/dam/documents/fleet/seatpmap-a350-1000.pdf>
 31. <https://www.singaporeair.com/saar5/pdf/OurFleet/A350-900-3classes-LongHaul.pdf>
 32. <https://www.singaporeair.com/saar5/pdf/OurFleet/A350-900-ULR.pdf>
 33. <https://www.cathaypacific.com/cx/ja_JP/travel-information/flying-with-us/aircraft-and-fleet/airbus-a350/900.html>
 34. <https://www.cathaypacific.com/cx/ja_JP/travel-information/flying-with-us/aircraft-and-fleet/airbus-a350/1000.html>
-35. <https://www.china-airlines.com/jp/jp/Images/A359-Lopa-en_tcm57-19484.jpg>
-36. <https://www.vietnamairlines.com/au/en/plan-book/our-fleets/airbus-a350/cabin-a350-popup>
-37. <https://www.finnair.com/go/2019.6-35/Images/fleet/new/A350_(OH-LWA--LWB--LWC--LWD--LWE--LWF).jpg>
-38. <https://www.finnair.com/go/2019.6-35/Images/fleet/new/A350_(OH-LWI,--LWK,--LWL)seatmap.jpg>
-39. <https://magazin.lufthansa.com/xx/en/fleet/a350-en/seat-map/>
-40. <https://ja.delta.com/content/www/en_US/traveling-with-us/airports-and-aircraft/Aircraft/airbus-a350.html>
-41. <https://www.seatguru.com/airlines/Thai_Airways/Thai_Airways_Airbus_A350-900.php>
-42. <https://www.ethiopianairlines.com/AA/EN/%20services/onboard/seat-map>
-43. <https://www.airchina.jp/JP/JP/info/aircraft-introduction/airbus350.html>
-44. <https://www.latam.com/pt_br/conheca-nos/sobre-nos/nossa-frota/frotta/A350/>
-45. <https://m.flyasiana.com/C/US/EN/contents/a350-900>
-46. <https://airwaysmag.com/airlines/china-eastern-receives-first-a350-900-new-cabin-photos/>
-47. <https://www.seatguru.com/airlines/Hong_Kong_Airlines/Hong_Kong_Airlines_Airbus_A350-900.php>
+35. <https://magazin.lufthansa.com/xx/en/fleet/a350-en/seat-map/>
+36. <https://www.finnair.com/go/2019.6-35/Images/fleet/new/A350_(OH-LWA--LWB--LWC--LWD--LWE--LWF).jpg>
+37. <https://www.finnair.com/go/2019.6-35/Images/fleet/new/A350_(OH-LWI,--LWK,--LWL)seatmap.jpg>
+38. <https://www.china-airlines.com/jp/jp/Images/A359-Lopa-en_tcm57-19484.jpg>
+39. <https://www.vietnamairlines.com/au/en/plan-book/our-fleets/airbus-a350/cabin-a350-popup>
+40. <https://www.ethiopianairlines.com/AA/EN/%20services/onboard/seat-map>
+41. <https://ja.delta.com/content/www/en_US/traveling-with-us/airports-and-aircraft/Aircraft/airbus-a350.html>
+42. <https://www.seatguru.com/airlines/Thai_Airways/Thai_Airways_Airbus_A350-900.php>
+43. <https://m.flyasiana.com/C/US/EN/contents/a350-900>
+44. <https://www.airchina.jp/JP/JP/info/aircraft-introduction/airbus350.html>
+45. <https://www.iberia.com/gb/fleet/iberia/A350/>
+46. <https://www.latam.com/pt_br/conheca-nos/sobre-nos/nossa-frota/frotta/A350/>
+47. <https://airwaysmag.com/airlines/china-eastern-receives-first-a350-900-new-cabin-photos/>
 48. <https://www.philippineairlines.com/en/travelinformation/beforeyoufly/palaircraft/a350-900/seatmapA350-900>
 49. <https://www.malaysiaairlines.com/hq/en/experience/fleet/a350-900.html>
-50. <https://www.iberia.com/gb/fleet/iberia/A350/>
-51. <https://www.hainanairlines.com/HUPortal/dyn/portal/DisplayPage?COUNTRY_SITE=ES&SITE=CBHZCBHZ&LANGUAGE=GB&PAGE=ABFT>
-52. <https://onemileatatime.com/sichuan-airlines-a350-lax/>
-53. <https://seatmap.org/en/airlines/french-bee/french-bee-airbus-a350-900>
-54. <https://www.aircaraibes.com/plan-cabine-a350-900>
-55. <https://www.airmauritius.com/A350.htm>
-56. <https://www.jal.co.jp/aircraft/conf/359.html>
-57. 運航開始は2019年9月より。
-58. <https://samchui.com/2019/03/29/evelop-takes-delivery-of-first-airbus-a350/>
-59. [日本エアシステム](../Page/日本エアシステム.md "wikilink")から継承した[エアバスA300](https://ja.wikipedia.org/wiki/エアバスA300 "wikilink")を2011年5月まで運用していた。
+50. <https://www.jal.co.jp/aircraft/conf/359.html>
+51. 運航開始は2019年9月より。
+52.  ブリティッシュ・エアウェイズ（British Airways）について {{\!}} ブリティッシュ・エアウェイズ（British Airways）|url=[https://www.britishairways.com/ja-jp/information/about-ba/fleet-facts/airbus-350-1000|website=www.britishairways.com|accessdate=2020-06-28|language=ja-jp](https://www.britishairways.com/ja-jp/information/about-ba/fleet-facts/airbus-350-1000%7Cwebsite=www.britishairways.com%7Caccessdate=2020-06-28%7Clanguage=ja-jp)}}
+53.
+54.
+55. <https://onemileatatime.com/sichuan-airlines-a350-lax/>
+56. <https://www.aircaraibes.com/plan-cabine-a350-900>
+57.
+58.
+59. <https://seatmap.org/en/airlines/french-bee/french-bee-airbus-a350-900>
 60.
-61. [カタール航空 A350XWB](http://www.qatarairways.com/jp/jp/airbus-350.page)（[カタール航空](https://ja.wikipedia.org/wiki/カタール航空 "wikilink")公式サイト）
-62.
-63. 開発中止により、導入は白紙となった。この8機分については、A350-900やA330neoへ切換を依頼。
-64. 開発中止により、導入は白紙となった。この8機分については、A350-900やA330neoへ切換を依頼。
-65. [Airbus official O\&D".](https://www.airbus.com/aircraft/market/orders-deliveries.html)
+61. <https://www.hainanairlines.com/HUPortal/dyn/portal/DisplayPage?COUNTRY_SITE=ES&SITE=CBHZCBHZ&LANGUAGE=GB&PAGE=ABFT>
+62. <https://www.seatguru.com/airlines/Hong_Kong_Airlines/Hong_Kong_Airlines_Airbus_A350-900.php>
+63. <https://www.airmauritius.com/A350.htm>
+64. <https://samchui.com/2019/03/29/evelop-takes-delivery-of-first-airbus-a350/>
+65.
 66.
-67.
+67. [日本エアシステム](../Page/日本エアシステム.md "wikilink")から継承した[エアバスA300](https://ja.wikipedia.org/wiki/エアバスA300 "wikilink")を2011年5月まで運用していた。
 68.
-69. [Airbus goes for extra width - A350 XWB special report](http://www.flightglobal.com/Articles/2006/07/25/208045/Airbus+goes+for+extra+width+-+A350+XWB+special+report.html). Flight International
-70. [Singapore Airlines orders 20 Airbus A350 XWB-900s and 9 Airbus A380s](http://business-times.asiaone.com/mnt/html/pdf/SIA_july21.pdf)
+69. [カタール航空 A350XWB](http://www.qatarairways.com/jp/jp/airbus-350.page)（[カタール航空](https://ja.wikipedia.org/wiki/カタール航空 "wikilink")公式サイト）
+70.
+71. 開発中止により、導入は白紙となった。この8機分については、A350-900やA330neoへ切換を依頼。
+72.
+73. 開発中止により、導入は白紙となった。この8機分については、A350-900やA330neoへ切換を依頼。
+74. [Airbus official O\&D".](https://www.airbus.com/aircraft/market/orders-deliveries.html)
+75.
+76.
+77.
+78. [Airbus goes for extra width - A350 XWB special report](http://www.flightglobal.com/Articles/2006/07/25/208045/Airbus+goes+for+extra+width+-+A350+XWB+special+report.html). Flight International
+79. [Singapore Airlines orders 20 Airbus A350 XWB-900s and 9 Airbus A380s](http://business-times.asiaone.com/mnt/html/pdf/SIA_july21.pdf)

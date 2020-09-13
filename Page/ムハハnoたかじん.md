@@ -114,7 +114,7 @@
 </tr>
 <tr class="even">
 <td><p>2004年12月10日</p></td>
-<td><p><a href="../Page/立原啓裕.md" title="wikilink">立原啓裕</a>、<a href="../Page/かつみ・さゆり.md" title="wikilink">かつみ・さゆり</a>、<a href="../Page/タージン.md" title="wikilink">タージン</a></p></td>
+<td><p><a href="../Page/立原啓裕.md" title="wikilink">立原啓裕</a>、<a href="../Page/かつみ♥さゆり.md" title="wikilink">かつみ♥さゆり</a>、<a href="../Page/タージン.md" title="wikilink">タージン</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="odd">

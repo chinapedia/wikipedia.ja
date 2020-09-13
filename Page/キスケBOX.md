@@ -56,7 +56,7 @@
 ## 周辺
 
   - [伊予鉄道](../Page/伊予鉄道.md "wikilink")[高浜線](https://ja.wikipedia.org/wiki/伊予鉄道高浜線 "wikilink") [大手町駅](https://ja.wikipedia.org/wiki/大手町駅_\(愛媛県\) "wikilink")
-  - [伊予鉄高島屋](../Page/伊予鉄高島屋.md "wikilink")
+  - [伊予鉄髙島屋](../Page/伊予鉄髙島屋.md "wikilink")
   - [フジグラン松山](https://ja.wikipedia.org/wiki/フジグラン松山 "wikilink")
   - [総務省](../Page/総務省.md "wikilink")[四国総合通信局](../Page/総合通信局.md "wikilink")
   - [四国ガス](../Page/四国ガス.md "wikilink")松山本社

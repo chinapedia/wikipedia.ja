@@ -48,7 +48,7 @@
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink") (土)16:30〜16:45
   - [中国放送](../Page/中国放送.md "wikilink") (土)17:30〜17:45
   - [山口放送](../Page/山口放送.md "wikilink") (土)14:30〜14:45
-  - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") (土)10:0010:15（「[土曜ワイド徳島](https://ja.wikipedia.org/wiki/土曜ワイド徳島 "wikilink")」(8:20〜11:50)枠内）
+  - [四国放送](../Page/四国放送.md "wikilink") (土)10:0010:15（「[土曜ワイド徳島](https://ja.wikipedia.org/wiki/土曜ワイド徳島 "wikilink")」(8:20〜11:50)枠内）
   - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink") (土)11:35〜11:50
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink") (土)11:45〜12:00
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink") (土)17:20〜17:35

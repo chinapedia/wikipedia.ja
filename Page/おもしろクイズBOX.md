@@ -28,4 +28,19 @@
 
 1984年1月3日（火曜） 16:00 - 16:40 と 1985年1月3日（木曜） 15:15 - 16:00 には放送時間を拡大した『お正月スペシャル』を放送。同特番も40分間（1984年）ないし45分間（1985年）通してロート製薬の一社提供だった。製薬会社提供の番組は、レギュラー番組に関しては製薬会社同士の[紳士協定](../Page/紳士協定.md "wikilink")によって、放送時間が30分を超えるテレビ番組を単独提供することはできないが、単発番組だけは特例となっていた。
 
+## 放送局
+
+特筆の無い限り全て同時ネット。
+
+  - 日本テレビ
+  - [札幌テレビ](../Page/札幌テレビ放送.md "wikilink")\[1\]
+  - [北日本放送](../Page/北日本放送.md "wikilink")\[2\]
+  - [福井放送](../Page/福井放送.md "wikilink")（1984年3月26日までは、同時ネットの時間帯に『[クイズ天国と地獄](../Page/クイズ天国と地獄.md "wikilink")』（[TBS制作](../Page/TBSテレビ.md "wikilink")）を放送していたため、30分先行の月曜 19:00 - 19:30にて放送していた。同年4月9日より、日本テレビとの同時ネットに移行した。）\[3\]
+
+## 脚注
+
 [Category:1983年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1983年のテレビ番組_\(日本\) "wikilink") [Category:日本テレビのクイズ番組](https://ja.wikipedia.org/wiki/Category:日本テレビのクイズ番組 "wikilink") [Category:日本テレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビのバラエティ番組の歴史 "wikilink") [Category:日本テレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:日本テレビの一社提供番組 "wikilink") [Category:ロート製薬一社提供番組](https://ja.wikipedia.org/wiki/Category:ロート製薬一社提供番組 "wikilink") [Category:IVSテレビ制作](https://ja.wikipedia.org/wiki/Category:IVSテレビ制作 "wikilink") [Category:かつて存在した日本テレビの年末年始特番](https://ja.wikipedia.org/wiki/Category:かつて存在した日本テレビの年末年始特番 "wikilink")
+
+1.  『[北海道新聞](../Page/北海道新聞.md "wikilink")』（縮刷版） 1984年（昭和59年）3月、テレビ欄。
+2.  『[北國新聞](https://ja.wikipedia.org/wiki/北國新聞 "wikilink")』1984年3月26日付、4月9日付各朝刊、テレビ欄。
+3.

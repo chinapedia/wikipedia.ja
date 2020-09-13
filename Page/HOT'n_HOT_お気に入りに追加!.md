@@ -9,13 +9,13 @@
 
 [2004年](../Page/2004年.md "wikilink")春の改編の際、垣花は夕方から夜の担当になりこの番組を担当する事になった。（夕方の担当だった[森永卓郎](../Page/森永卓郎.md "wikilink")は朝に、朝の担当だった[高嶋秀武](../Page/高嶋秀武.md "wikilink")は夕方に変わった）
 
-[2004年](../Page/2004年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")からは直前の時間帯に*HOT'n HOT もうすぐお気に入りに追加\!*という前座番組がスタートしたが、こちらはニッポン放送のみの放送であった。
+2004年[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")からは直前の時間帯に*HOT'n HOT もうすぐお気に入りに追加\!*という前座番組がスタートしたが、こちらはニッポン放送のみの放送であった。
 
-[2004年](../Page/2004年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")からは毎週月曜日～木曜日日替わりコメンテーターゲストが登場し（金曜日は、垣花アナウンサーがスタジオを出て生放送）、番組ジングル・BGM・コーナーなどを一新した。また、リニューアルしてから、垣花アナウンサーは番組名を『**垣花正のHOT'n HOT お気に入りに追加\!**』と言っていた（月曜日のみ『**渡辺真理と垣花正の-**』と言っていた）。
+2004年[11月8日](../Page/11月8日.md "wikilink")からは毎週月曜日～木曜日日替わりコメンテーターゲストが登場し（金曜日は、垣花アナウンサーがスタジオを出て生放送）、番組ジングル・BGM・コーナーなどを一新した。また、リニューアルしてから、垣花アナウンサーは番組名を『**垣花正のHOT'n HOT お気に入りに追加\!**』と言っていた（月曜日のみ『**渡辺真理と垣花正の-**』と言っていた）。
 
 尚、番組後期頃から同局は[レイティング](../Page/レイティング.md "wikilink")期間中に限り、同番組の放送を行わず、比較的安定した聴取率が期待できるニッポン放送の昼間のワイド番組を増刊号という形で放送していた（『[高田文夫のラジオビバリー昼ズ](../Page/高田文夫のラジオビバリー昼ズ.md "wikilink")』、『[テリー伊藤のってけラジオ](../Page/テリー伊藤のってけラジオ.md "wikilink")』、『[鶴光・美和子噂のゴールデンリクエスト](../Page/鶴光・美和子噂のゴールデンリクエスト.md "wikilink")』、『[森永卓郎と垣花正の夜もモリタク\!もりだくSUN](../Page/森永卓郎の朝はモリタク!もりだくSUN.md "wikilink")』、『[アッコのいいかげんに1000回増刊号](../Page/ゴッドアフタヌーン_アッコのいいかげんに1000回.md "wikilink")』の5番組だが、鶴光は例外）。（ただネット局に関しては、通常通りに同番組を[裏送り](../Page/裏送り.md "wikilink")で放送している。）また、『森永卓郎と垣花正のHOT'n HOT お気に入りに追加\!』として[森永卓郎](../Page/森永卓郎.md "wikilink")とともにスペシャル版で放送されたこともある。
 
-[2004年](../Page/2004年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")に放送を開始したが、わずか1年で打ち切られた。全国ネットでは[2005年](../Page/2005年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")で終了。ただしニッポン放送以外のネット局（一部を除く）では翌[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に[番外編が放送された](https://ja.wikipedia.org/wiki/#番外編 "wikilink")（詳細は後述）。
+2004年[3月29日](../Page/3月29日.md "wikilink")に放送を開始したが、わずか1年で打ち切られた。全国ネットでは[2005年](../Page/2005年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")で終了。ただしニッポン放送以外のネット局（一部を除く）では翌[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に[番外編が放送された](https://ja.wikipedia.org/wiki/#番外編 "wikilink")（詳細は後述）。
 
 この番組で人気コーナーだった「ゴージャス&不景気川柳」は[扶桑社](../Page/扶桑社.md "wikilink")から『[金持ち川柳　貧乏川柳](http://www.fusosha.co.jp/senden/2005/04980X.html)』として発売された。
 
@@ -121,7 +121,7 @@
 
   - [2004年](../Page/2004年.md "wikilink")[6月3日](../Page/6月3日.md "wikilink")の放送は[沖縄県](../Page/沖縄県.md "wikilink")[平良市](../Page/平良市.md "wikilink")（現[宮古島市](../Page/宮古島市.md "wikilink")）の[垣花正](../Page/垣花正.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の実家から生放送した。
   - [2005年](../Page/2005年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")の放送は[阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")関連の特別放送として[ラジオ関西](../Page/ラジオ関西.md "wikilink")から生放送した。
-  - [2005年](../Page/2005年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")の放送は[愛知万博関連の特別放送として](../Page/2005年日本国際博覧会.md "wikilink")[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")から生放送した。
+  - 2005年[3月18日](../Page/3月18日.md "wikilink")の放送は[愛知万博関連の特別放送として](../Page/2005年日本国際博覧会.md "wikilink")[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")から生放送した。
 
 ## HOT'n HOT もうすぐお気に入りに追加\!
 
@@ -173,7 +173,7 @@
 
 垣花正が選ぶHOT'n思い出ベスト3
 
-1位　**[五木寛之](../Page/五木寛之.md "wikilink")に気に入られて[TBSラジオに出かかる](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")**
+1位　**[五木寛之](../Page/五木寛之.md "wikilink")に気に入られて[TBSラジオ](../Page/TBSラジオ.md "wikilink")に出かかる**
 
 2位　**[中島みゆき](../Page/中島みゆき.md "wikilink")から手紙をもらった**
 
@@ -209,7 +209,7 @@
 
 <!-- end list -->
 
-  - [BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")　『[わがままジュリエット](../Page/わがままジュリエット.md "wikilink")』
+  - [BOØWY](../Page/BOØWY.md "wikilink")　『[わがままジュリエット](../Page/わがままジュリエット.md "wikilink")』
 
 <!-- end list -->
 

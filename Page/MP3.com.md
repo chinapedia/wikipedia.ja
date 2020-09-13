@@ -35,8 +35,8 @@ MP3.comを1998年に設立したMichael Robertsonは、のちに[Lindows, Incを
 
 ## 外部リンク
 
-  - [mp3.com](https://mp3.com/)
-  - [Trusonic, Inc.](http://www.trusonic.com/)
+  - [MP3.com](https://mp3.com/)
+  - [Mood Media North America](https://us.moodmedia.com/)
   - [CNET Download](https://download.cnet.com/), CNETの音楽ダウンロードサービス
   - [RIAA Sues MP3.com](http://web.archive.org/web/20000511111516/www.mp3newswire.net/stories/2000/riaavmp3.html) - 音楽業界とMy.MP3.comとの訴訟に関する2000年1月の記事（英語）
   - [The Merits in the MP3.com Lawsuit](http://web.archive.org/web/20000619111301/www.mp3newswire.net/stories/2000/mp3courtpoint.html) - Universal/MP3.com裁判に関する2000年5月の記事（英語）

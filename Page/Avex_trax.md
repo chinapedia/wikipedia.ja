@@ -32,6 +32,7 @@
   - [イトヲカシ](https://ja.wikipedia.org/wiki/イトヲカシ "wikilink") (2016年〜)
   - [大阪☆春夏秋冬](https://ja.wikipedia.org/wiki/大阪☆春夏秋冬 "wikilink") (2018年〜)
   - [大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink") (2003年〜2010年,2013年〜)
+  - [大塚紗英](https://ja.wikipedia.org/wiki/大塚紗英 "wikilink") (2020年〜)
   - [大森靖子](https://ja.wikipedia.org/wiki/大森靖子 "wikilink") (2014年〜)
       - 大森靖子\&THEピンクトカレフ (2015年)
   - [お掃除ユニットCLEAR'S](https://ja.wikipedia.org/wiki/お掃除ユニットCLEAR'S "wikilink") (2016年〜)
@@ -65,6 +66,7 @@
   - [平井大](https://ja.wikipedia.org/wiki/平井大 "wikilink") (2013年〜)
   - [豚乙女](https://ja.wikipedia.org/wiki/豚乙女 "wikilink")(2017年〜)
   - [松居慶子](../Page/松居慶子.md "wikilink") (2011年〜)
+  - [豆柴の大群](../Page/豆柴の大群.md "wikilink")（2020年〜）
   - [吉田拓郎](../Page/吉田拓郎.md "wikilink") (2009年〜)（[エレック](https://ja.wikipedia.org/wiki/エレックレコード "wikilink")→[ODYSSEY/CBSソニー](../Page/ソニー・ミュージックレコーズ.md "wikilink")→[フォーライフ](../Page/フォーライフ・レコード.md "wikilink")→[インペリアルより移籍](../Page/インペリアルレコード_\(日本\).md "wikilink")）
   - [龍雅-Ryoga-](https://ja.wikipedia.org/wiki/龍雅-Ryoga- "wikilink") (2016年〜)
   - [和楽器バンド](https://ja.wikipedia.org/wiki/和楽器バンド "wikilink") (2014年〜)
@@ -75,13 +77,13 @@
 <div style="float:left; width:50%;">
 
   - [AAA](../Page/AAA_\(音楽グループ\).md "wikilink") (2005年〜)
-      - [URATA NAOYA](../Page/浦田直也.md "wikilink") (2010年〜)
       - [與真司郎](../Page/與真司郎.md "wikilink") (2013年)
-      - [SKY-HI](https://ja.wikipedia.org/wiki/SKY-HI "wikilink") (2013年〜)
+      - [日高光啓](../Page/日高光啓.md "wikilink") (2013年〜)
       - [宇野実彩子](../Page/宇野実彩子.md "wikilink") (2017年〜)
       - [Nissy(西島隆弘)](../Page/西島隆弘.md "wikilink") (2018年〜)
       - [末吉秀太](../Page/末吉秀太.md "wikilink") (2018年〜)
-      - [伊藤千晃](../Page/伊藤千晃.md "wikilink") (2018年〜)
+  - [URATA NAOYA](../Page/浦田直也.md "wikilink") (2010年〜)
+  - [伊藤千晃](../Page/伊藤千晃.md "wikilink") (2018年〜)
   - [Beverly](https://ja.wikipedia.org/wiki/Beverly "wikilink") (2017年〜)
   - [BiSH](https://ja.wikipedia.org/wiki/BiSH "wikilink") (2016年〜)
       - セントチヒロ・チッチ/アイナ・ジ・エンド (2018年)
@@ -105,7 +107,7 @@
   - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink") (2011年〜)
       - [舞祭組](https://ja.wikipedia.org/wiki/舞祭組 "wikilink") (2013年〜)
   - [kolme](https://ja.wikipedia.org/wiki/kolme "wikilink") (2015年〜)
-  - [lol](https://ja.wikipedia.org/wiki/lol_\(音楽グループ\) "wikilink") (2015年〜)
+  - [lol-エルオーエル-](https://ja.wikipedia.org/wiki/lol_\(音楽グループ\) "wikilink") (2015年〜)
   - [MASH](../Page/MASH_\(ミュージシャン\).md "wikilink") (2019年〜)
   - [MAX](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink") (1995年〜2015年,2019年)
   - [Miyuu](https://ja.wikipedia.org/wiki/Miyuu "wikilink") (2018年〜)

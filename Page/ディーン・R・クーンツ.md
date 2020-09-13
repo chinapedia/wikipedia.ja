@@ -38,7 +38,7 @@
 
   - 一年でいちばん暗い夕暮れに
   - 殺人プログラミング
-  - 闇の目
+  - 闇の眼
   - 闇の囁き
   - ウィスパーズ
   - [ウォッチャーズ](https://ja.wikipedia.org/wiki/ウォッチャーズ "wikilink")
@@ -102,6 +102,7 @@
   - Mr．マーダー
   - ファントム
   - [オッド・トーマス 死神と奇妙な救世主](https://ja.wikipedia.org/wiki/オッド・トーマス_死神と奇妙な救世主 "wikilink")
+  - [デュカリオン](https://ja.wikipedia.org/wiki/デュカリオン "wikilink")
 
 ## 脚注
 

@@ -15,17 +15,15 @@
 
 政治活動の過去は就職を困難にさせたにも関わらず、[インディアナ大学](https://ja.wikipedia.org/wiki/インディアナ大学 "wikilink")で[動物学](../Page/動物学.md "wikilink")の教職を得た。
 
-[1946年](../Page/1946年.md "wikilink")にX線によって突然変異が誘導できること（[人為突然変異](https://ja.wikipedia.org/wiki/人為突然変異 "wikilink")）を発見し、[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")が物質からできていることの証拠となり、その後の[分子生物学](../Page/分子生物学.md "wikilink")の誕生にも影響を与えた。また彼はX線照射による[染色体](../Page/染色体.md "wikilink")への影響を観察し、[逆位や](https://ja.wikipedia.org/wiki/染色体異常#染色体部分異常の種類 "wikilink")[欠失など様々な](https://ja.wikipedia.org/wiki/染色体異常#染色体部分異常の種類 "wikilink")[染色体異常](../Page/染色体異常.md "wikilink")を記載している。この過程で染色体末端の構造[テロメア](../Page/テロメア.md "wikilink")の定義も行った。
+[1927年](../Page/1927年.md "wikilink")にX線によって突然変異が誘導できること（[人為突然変異](https://ja.wikipedia.org/wiki/人為突然変異 "wikilink")）を発見し、[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")が物質からできていることの証拠となり、その後の[分子生物学](../Page/分子生物学.md "wikilink")の誕生にも影響を与えた。この業績により[1946年](../Page/1946年.md "wikilink")に[ノーベル生理学・医学賞](../Page/ノーベル生理学・医学賞.md "wikilink")を受賞した。また彼はX線照射による[染色体](../Page/染色体.md "wikilink")への影響を観察し、[逆位や](https://ja.wikipedia.org/wiki/染色体異常#染色体部分異常の種類 "wikilink")[欠失など様々な](https://ja.wikipedia.org/wiki/染色体異常#染色体部分異常の種類 "wikilink")[染色体異常](../Page/染色体異常.md "wikilink")を記載している。この過程で染色体末端の構造[テロメア](../Page/テロメア.md "wikilink")の定義も行った。
 
 [1955年](../Page/1955年.md "wikilink")、[ラッセル＝アインシュタイン宣言](../Page/ラッセル＝アインシュタイン宣言.md "wikilink")に署名した。
 
 ## ショウジョウバエに対する実験
 
-ショウジョウバエのオスに放射線を当てて異常が出ないかを実験していたところ、その二代目、三代目に異常が出たため、マラーは実験に基づき『放射線の害はその量に直線的に比例する』という仮説を発表し、これを受けてICRP([国際放射線防護委員会](../Page/国際放射線防護委員会.md "wikilink"))は、放射線は有害であると訴えた\[1\]。
+1927年にキイロショウジョウバエの雄にX線を照射する実験を行い、放射線被ばくによる影響が子孫にも伝わること、および放射線によって突然変異を人為的に発生させられることを初めて証明した。この実験が放射線防護において遺伝的影響を考慮する契機となり、[米国科学アカデミー](../Page/米国科学アカデミー.md "wikilink")原子放射線の生物的影響に関する委員会(Committee on Biological Effects of Atomic Radiation; BEAR)が1956年に集団の防護基準として遺伝線量を提案、[国際放射線防護委員会](../Page/国際放射線防護委員会.md "wikilink")(ICRP)が1958年勧告においてこれを参考値として追認した。
 
-マラーが実験を行った時代には染色体の存在は知られていたもののその細部の[DNA](https://ja.wikipedia.org/wiki/DNA "wikilink")については研究が進んでいなかった。現在ではDNAの修復活動は人間の細胞1個では一日に百万件行われていることに対し、ショウジョウバエの精子は修復活動をしない特別なものであることが判明している\[2\]が、ICRPは現在もショウジョウバエの実験データを放射能の危険数値の基準にしている\[3\]。
-
-（注）参考文献に挙げられている服部氏以外には、ICRPの根拠がマラーだと言われているものはない。ICRPの勧告にはマラーが根拠であると書いてあるものは無い。
+マラーが実験を行った時代には染色体の存在は知られていたもののその細部の[DNA](https://ja.wikipedia.org/wiki/DNA "wikilink")については研究が進んでいなかった。現在ではDNAの修復活動は人間の細胞1個では一日に百万件行われていることに対し、ショウジョウバエの精子は修復活動をしない特別なものであることが判明している\[1\]。
 
 ## 発言
 
@@ -44,6 +42,8 @@
 ## 参考文献
 
   -
+  -
+  -
 ## 関連項目
 
   - [J・B・S・ホールデン](../Page/J・B・S・ホールデン.md "wikilink") ホールデン・マラーの原理でマラーとともに知られており、同じ20世紀を代表する改革派[優生学](../Page/優生学.md "wikilink")者
@@ -57,6 +57,4 @@
 
 [Category:アメリカ合衆国の遺伝学者](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の遺伝学者 "wikilink") [Category:集団遺伝学者](https://ja.wikipedia.org/wiki/Category:集団遺伝学者 "wikilink") [Category:進化生物学者](https://ja.wikipedia.org/wiki/Category:進化生物学者 "wikilink") [Category:放射線研究者](https://ja.wikipedia.org/wiki/Category:放射線研究者 "wikilink") [Category:優生学者](https://ja.wikipedia.org/wiki/Category:優生学者 "wikilink") [Category:ノーベル生理学・医学賞受賞者](https://ja.wikipedia.org/wiki/Category:ノーベル生理学・医学賞受賞者 "wikilink") [Category:アメリカ合衆国のノーベル賞受賞者](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のノーベル賞受賞者 "wikilink") [Category:王立協会外国人会員](https://ja.wikipedia.org/wiki/Category:王立協会外国人会員 "wikilink") [Category:日本学士院客員](https://ja.wikipedia.org/wiki/Category:日本学士院客員 "wikilink") [Category:米国科学アカデミー会員](https://ja.wikipedia.org/wiki/Category:米国科学アカデミー会員 "wikilink") [Category:マンハッタン計画の人物](https://ja.wikipedia.org/wiki/Category:マンハッタン計画の人物 "wikilink") [Category:インディアナ大学の教員](https://ja.wikipedia.org/wiki/Category:インディアナ大学の教員 "wikilink") [Category:アマースト大学の教員](https://ja.wikipedia.org/wiki/Category:アマースト大学の教員 "wikilink") [Category:テキサス大学オースティン校の教員](https://ja.wikipedia.org/wiki/Category:テキサス大学オースティン校の教員 "wikilink") [Category:ドイツユダヤ系アメリカ人](https://ja.wikipedia.org/wiki/Category:ドイツユダヤ系アメリカ人 "wikilink") [Category:ニューヨーク市出身の人物](https://ja.wikipedia.org/wiki/Category:ニューヨーク市出身の人物 "wikilink") [Category:1890年生](https://ja.wikipedia.org/wiki/Category:1890年生 "wikilink") [Category:1967年没](https://ja.wikipedia.org/wiki/Category:1967年没 "wikilink")
 
-1.  [服部 2011](https://ja.wikipedia.org/wiki/#服部_2011 "wikilink") pp.11,103
-2.  [服部 2011](https://ja.wikipedia.org/wiki/#服部_2011 "wikilink") pp.11-12,104
-3.  [服部 2011](https://ja.wikipedia.org/wiki/#服部_2011 "wikilink") p.104
+1.  [服部 2011](https://ja.wikipedia.org/wiki/#服部_2011 "wikilink") pp.11-12,104

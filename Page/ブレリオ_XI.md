@@ -88,7 +88,7 @@
 ## 外部リンク
 
   - [Those Magnificent Men In Their Frying Machines](http://www.geocities.com/CapeCanaveral/5497/bleriotp.htm)
-  - [100年前のフランスの出来事](http://france100.exblog.jp/10051182/)
+  - [100年前のフランスの出来事](https://france100.exblog.jp/10051182/)
 
 [Category:フランスの航空機](https://ja.wikipedia.org/wiki/Category:フランスの航空機 "wikilink") [Category:初期の航空機](https://ja.wikipedia.org/wiki/Category:初期の航空機 "wikilink") [Category:第一次世界大戦時の航空機](https://ja.wikipedia.org/wiki/Category:第一次世界大戦時の航空機 "wikilink")
 

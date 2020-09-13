@@ -1,7 +1,7 @@
 > この記事は[ノリッジ・シティFC](https://ja.wikipedia.org/wiki/ノリッジ・シティFC)から翻訳されています。
 
 
-**ノリッジ・シティ・フットボール・クラブ**（**Norwich City Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")東部・[ノーフォーク](../Page/ノーフォーク.md "wikilink")州[ノリッジ](../Page/ノリッジ.md "wikilink")をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。
+**ノリッジ・シティ・フットボール・クラブ**（**Norwich City Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")東部・[ノーフォーク](../Page/ノーフォーク.md "wikilink")州[ノリッジ](../Page/ノリッジ.md "wikilink")をホームタウンとする、イングランドプロサッカーリーグ（[EFLチャンピオンシップ](../Page/EFLチャンピオンシップ.md "wikilink")）に加盟するプロサッカークラブ。
 
 著名な料理研究家、[デリア・スミス](https://ja.wikipedia.org/wiki/デリア・スミス "wikilink")が役員の1人であることでも知られる。
 
@@ -12,6 +12,8 @@
 プレミアリーグ復帰初年度の2011-12シーズンを12位で終えた後、ランバートは空席となっていた[アストン・ヴィラの監督に就任し](../Page/アストン・ヴィラFC.md "wikilink")、後任に[クリス・ヒュートン](https://ja.wikipedia.org/wiki/クリス・ヒュートン "wikilink")が就任した。
 
 2012-13シーズンはアウェーでの開幕戦こそ[フラムに](../Page/フラムFC.md "wikilink")0-5で敗れたが\[4\]、[アーセナル](../Page/アーセナルFC.md "wikilink")\[5\]と[マンチェスター・ユナイテッド](../Page/マンチェスター・ユナイテッドFC.md "wikilink")\[6\]に対してホームで1-0で勝利するなどシーズンを通して降格争いに巻き込まれることもなく、11位で終えた\[7\]。しかし、2013-14シーズンは18位に終わり、チャンピオンシップに降格した。
+
+2017年5月25日、ドイツ人の[ダニエル・ファルケ](https://ja.wikipedia.org/wiki/ダニエル・ファルケ "wikilink")が就任し、クラブ創設以来114年の歴史の中で、初めて[ブリテン諸島](../Page/ブリテン諸島.md "wikilink")以外の出身の監督となった\[8\]。初年度の2017-18シーズンは低迷し14位で終えたものの\[9\]\[10\]、2018-19シーズンはシーズンの大半を首位で過ごし、2019年4月27日、ホームでのブラックバーン・ローヴァーズ戦に2-1で勝利し、チャンピオンシップ優勝と3シーズンぶりのプレミアリーグ昇格を果たした\[11\]。しかし、2019-20シーズンはプレミアリーグ最下位に低迷し、1シーズンでチャンピンシップ降格となり、プレミアリーグ史上最多記録となる5度目の降格となった\[12\]。
 
 ## タイトル
 
@@ -80,7 +82,7 @@
 </tr>
 <tr class="even">
 <td><p>1982-83</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・ファーストディビジョン" title="wikilink">ディビジョン1</a></p></td>
+<td><p><a href="../Page/イングリッシュ・フットボールリーグ.md" title="wikilink">ディビジョン1</a></p></td>
 <td><p>42</p></td>
 <td><p>14</p></td>
 <td><p>12</p></td>
@@ -88,7 +90,7 @@
 </tr>
 <tr class="odd">
 <td><p>1983-84</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・ファーストディビジョン" title="wikilink">ディビジョン1</a></p></td>
+<td><p>ディビジョン1</p></td>
 <td><p>42</p></td>
 <td><p>12</p></td>
 <td><p>15</p></td>
@@ -104,7 +106,7 @@
 </tr>
 <tr class="odd">
 <td><p>1985-86</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・セカンドディビジョン" title="wikilink">ディビジョン2</a></p></td>
+<td><p>ディビジョン2</p></td>
 <td><p>42</p></td>
 <td><p>25</p></td>
 <td><p>9</p></td>
@@ -215,7 +217,7 @@
 <td><p>14</p></td>
 </tr>
 <tr class="odd">
-<td><p>1999-2000</p></td>
+<td><p>1999-00</p></td>
 <td><p>ディビジョン1</p></td>
 <td><p>46</p></td>
 <td><p>14</p></td>
@@ -374,6 +376,22 @@
 <td><p>13</p></td>
 <td><p>6</p></td>
 </tr>
+<tr class="odd">
+<td><p>2019-20</p></td>
+<td><p>プレミア</p></td>
+<td><p>38</p></td>
+<td><p>5</p></td>
+<td><p>6</p></td>
+<td><p>27</p></td>
+</tr>
+<tr class="even">
+<td><p>2020-21</p></td>
+<td><p>チャンピオン</p></td>
+<td><p>46</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -387,9 +405,9 @@
 
 </div>
 
-  - [2020年](../Page/2020年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")現在\[8\]
+  - [2020年](../Page/2020年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")現在\[13\]
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Croatia.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cameroon.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink"))★
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Croatia.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink"))★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Nigeria.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Nigeria.svg "wikilink"))
 
 ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 
@@ -401,9 +419,11 @@
 
   - out
 
-### 加入内定選手
-
 ## 歴代監督
+
+  -
+
+    \[14\]\[15\]
 
 <table>
 <thead>
@@ -709,3 +729,10 @@
 6.
 7.
 8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.

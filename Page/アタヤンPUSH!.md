@@ -60,4 +60,6 @@
   - [KANのアタヤンPUSH\!](https://ja.wikipedia.org/wiki/KANのアタヤンPUSH! "wikilink")
   - [STVアタックナイター](https://ja.wikipedia.org/wiki/STVアタックナイター "wikilink")（アタックヤングからタイトルをつけたのではないかとされている）
 
-[Category:アタックヤング](https://ja.wikipedia.org/wiki/Category:アタックヤング "wikilink") [Category:STVラジオの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:STVラジオの帯番組の歴史 "wikilink") [Category:1999年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のラジオ番組_\(日本\) "wikilink")
+
+
+[Category:アタックヤング](https://ja.wikipedia.org/wiki/Category:アタックヤング "wikilink") [Category:STVラジオの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:STVラジオの帯番組の歴史 "wikilink") [Category:1999年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のラジオ番組_\(日本\) "wikilink") [Category:音尾琢真](https://ja.wikipedia.org/wiki/Category:音尾琢真 "wikilink")

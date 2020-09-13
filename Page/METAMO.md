@@ -68,4 +68,4 @@
   - [ファイトマネー](../Page/ファイトマネー_\(テレビ番組\).md "wikilink")（[関西テレビ制作](../Page/関西テレビ放送.md "wikilink")、フジテレビ系ネット　2001年4月～2001年9月）
   - TOKYO★1週間（[BS-i](../Page/BS-TBS.md "wikilink")　毎週[木曜日](../Page/木曜日.md "wikilink")、2001年7月～2001年9月）
 
-[Category:チェキッ娘](https://ja.wikipedia.org/wiki/Category:チェキッ娘 "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")
+[Category:チェキッ娘](https://ja.wikipedia.org/wiki/Category:チェキッ娘 "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")

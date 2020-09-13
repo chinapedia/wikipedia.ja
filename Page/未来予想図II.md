@@ -1,7 +1,7 @@
 > この記事は[未来予想図II](https://ja.wikipedia.org/wiki/未来予想図II)から翻訳されています。
 
 
-「**未来予想図II**」（みらいよそうず つー）は、[DREAMS COME TRUEの楽曲](../Page/DREAMS_COME_TRUE.md "wikilink")。[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")は[吉田美和](../Page/吉田美和.md "wikilink")、編曲は[中村正人](https://ja.wikipedia.org/wiki/中村正人 "wikilink")。
+「**未来予想図II**」（みらいよそうず ツー）は、[DREAMS COME TRUEの楽曲](../Page/DREAMS_COME_TRUE.md "wikilink")。[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")は[吉田美和](../Page/吉田美和.md "wikilink")、編曲は[中村正人](https://ja.wikipedia.org/wiki/中村正人 "wikilink")。
 
 ## 解説
 
@@ -20,6 +20,7 @@
 
 ## カバー
 
+  - [川上とも子](../Page/川上とも子.md "wikilink") - 2000年発売のアルバム『タイムカプセル8』収録。
   - [SMOOTH ACE](../Page/SMOOTH_ACE.md "wikilink") - 2002年発売のアルバム『Smooth Le Gout Avec Piano』収録。
   - [SOTTE BOSSE](../Page/SOTTE_BOSSE.md "wikilink") - 2006年発売のアルバム『Essence of life』収録。
   - [徳永英明](../Page/徳永英明.md "wikilink") - 2006年発売のアルバム『[VOCALIST 2](../Page/VOCALIST_2.md "wikilink")』収録。

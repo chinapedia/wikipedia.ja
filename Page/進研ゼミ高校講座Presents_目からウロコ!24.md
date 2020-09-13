@@ -7,7 +7,7 @@
 
 ## 概要
 
-[2003年](../Page/2003年.md "wikilink")[9月](../Page/9月.md "wikilink")、前身にあたる[月曜](https://ja.wikipedia.org/wiki/月曜 "wikilink")から[木曜](https://ja.wikipedia.org/wiki/木曜 "wikilink")[生放送](../Page/生放送.md "wikilink")の[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")・[目からウロコ\!21](../Page/目からウロコ!21.md "wikilink")がスタートした(21時\~21時50分)。高校受験生・大学受験生リスナーが主で、有田先生版の「目からウロコ\!21・24」は[メール](https://ja.wikipedia.org/wiki/メール "wikilink")で、有田に対し、[リスナー](../Page/リスナー.md "wikilink")から「**有田先生**」と言われていた。「**21**」としてはいったん[2004年](../Page/2004年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")で終了し、半年後の[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から「**24**」になり、週1・20分録音番組として復活して現在の形式となる。
+[2003年](../Page/2003年.md "wikilink")[9月](../Page/9月.md "wikilink")、前身にあたる[月曜から](../Page/月曜日.md "wikilink")[木曜](../Page/木曜日.md "wikilink")[生放送](../Page/生放送.md "wikilink")の[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")・[目からウロコ\!21](../Page/目からウロコ!21.md "wikilink")がスタートした(21時\~21時50分)。高校受験生・大学受験生リスナーが主で、有田先生版の「目からウロコ\!21・24」は[メール](https://ja.wikipedia.org/wiki/メール "wikilink")で、有田に対し、[リスナー](../Page/リスナー.md "wikilink")から「**有田先生**」と言われていた。「**21**」としてはいったん[2004年](../Page/2004年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")で終了し、半年後の[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から「**24**」になり、週1・20分録音番組として復活して現在の形式となる。
 
 兄弟番組に「[知ってる?24時。](../Page/知ってる?24時。.md "wikilink")」があった（パーソナリティは[2005年](../Page/2005年.md "wikilink")[6月](../Page/6月.md "wikilink")放送までは[上田晋也](../Page/上田晋也.md "wikilink")（[くりぃむしちゅー](../Page/くりぃむしちゅー.md "wikilink")）、[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")放送より[増田英彦](../Page/増田英彦.md "wikilink")（[ますだおかだ](../Page/ますだおかだ.md "wikilink")）、月曜 - 木曜の深夜24時 - 25時放送の番組、[2006年](../Page/2006年.md "wikilink")3月終了）。
 

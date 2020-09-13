@@ -349,7 +349,7 @@ HondaJetで採用されている主翼上面エンジン配置が航空機の新
 
 </ref>\[108\]。また、日本のプロゴルファーの[松山英樹](https://ja.wikipedia.org/wiki/松山英樹 "wikilink")選手も、2018年8月12日、ウィンダム選手権に参戦するため、HondaJetで[ノースカロライナ州](../Page/ノースカロライナ州.md "wikilink")[グリーンズボロに到着している](https://ja.wikipedia.org/wiki/グリーンズボロ_\(ノースカロライナ州\) "wikilink")\[109\]。
 
-  - [ガーミン](https://ja.wikipedia.org/wiki/ガーミン "wikilink")初の統合アビオニクスシステム[G1000は](https://ja.wikipedia.org/wiki/:en:Garmin_G1000 "wikilink")、1999年、藤野道格とガーミン共同創業者のが将来のビジネスジェットのアビオニクスの姿を議論し意気投合してその共同開発が始まった。その為、HondaJet技術実証機がG1000を搭載した最初のビジネスジェット機となったことが知られている\[110\]。
+  - [ガーミン](https://ja.wikipedia.org/wiki/ガーミン "wikilink")初の統合アビオニクスシステム[G1000は](../Page/Garmin_G1000.md "wikilink")、1999年、藤野道格とガーミン共同創業者のが将来のビジネスジェットのアビオニクスの姿を議論し意気投合してその共同開発が始まった。その為、HondaJet技術実証機がG1000を搭載した最初のビジネスジェット機となったことが知られている\[110\]。
   - プロテニスプレーヤーの[西岡良仁](https://ja.wikipedia.org/wiki/西岡良仁 "wikilink")は、[全米オープンに参戦するため](../Page/全米オープン_\(テニス\).md "wikilink")2019年8月18日にHondaJetで[ニューヨーク](../Page/ニューヨーク.md "wikilink")に移動している。「移動の疲れが軽減出来る」とコメントしている<ref>
 
 </ref>。また、2018年の[ウィンストン・セーラム](../Page/ウィンストン・セーラム.md "wikilink")オープン選手権では、[杉田祐一](../Page/杉田祐一.md "wikilink")、[ダニエル太郎](https://ja.wikipedia.org/wiki/ダニエル太郎 "wikilink")などプロテニスプレーヤー達がHondaJetで[ノースカロライナ州](../Page/ノースカロライナ州.md "wikilink")ウィンストン・セーラム市に移動している\[111\]\[112\]。

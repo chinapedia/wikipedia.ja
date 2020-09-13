@@ -118,37 +118,39 @@
 
 | シーズン                                                                                | ディビジョン                                                                       | [DFBポカール](../Page/DFBポカール.md "wikilink") |
 | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------- |
-| リーグ                                                                                 | 順位                                                                           | 試                                        |
-| 1989-90                                                                             | [ブンデスリーガ2部](https://ja.wikipedia.org/wiki/2._ブンデスリーガ_\(ドイツサッカー\) "wikilink") | '''13位                                   |
-| 1990-91                                                                             | ブンデスリーガ2部                                                                    | '''9位                                    |
-| 1991-92                                                                             | ブンデスリーガ2部                                                                    | '''3位                                    |
-| 1992-93                                                                             | ブンデスリーガ2部                                                                    | '''1位                                    |
-| [1993-94](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1993-1994 "wikilink")            | [ブンデスリーガ1部](../Page/サッカー・ブンデスリーガ_\(ドイツ\).md "wikilink")                      | '''15位                                   |
-| [1994-95](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1994-1995 "wikilink")            | ブンデスリーガ1部                                                                    | '''3位                                    |
-| [1995-96](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1995-1996 "wikilink")            | ブンデスリーガ1部                                                                    | '''11位                                   |
-| [1996-97](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1996-1997 "wikilink")            | ブンデスリーガ1部                                                                    | '''17位                                   |
-| 1997-98                                                                             | ブンデスリーガ2部                                                                    | '''2位                                    |
-| [1998-99](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1998-1999 "wikilink")            | ブンデスリーガ1部                                                                    | '''12位                                   |
-| [1999-00](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1999-2000 "wikilink")            | ブンデスリーガ1部                                                                    | '''12位                                   |
-| [2000-01](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2000-2001 "wikilink")            | ブンデスリーガ1部                                                                    | '''6位                                    |
-| [2001-02](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2001-2002 "wikilink")            | ブンデスリーガ1部                                                                    | '''16位                                   |
-| 2002-03                                                                             | ブンデスリーガ2部                                                                    | '''1位                                    |
-| [2003-04](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2003-2004 "wikilink")            | ブンデスリーガ1部                                                                    | '''13位                                   |
-| [2003-04](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2004-2005 "wikilink")            | ブンデスリーガ1部                                                                    | '''18位                                   |
-| 2005-06                                                                             | ブンデスリーガ2部                                                                    | '''4位                                    |
-| 2006-07                                                                             | ブンデスリーガ2部                                                                    | '''4位                                    |
-| 2007-08                                                                             | ブンデスリーガ2部                                                                    | '''5位                                    |
-| 2008-09                                                                             | ブンデスリーガ2部                                                                    | '''1位                                    |
-| [2009-10](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2009-2010 "wikilink")            | ブンデスリーガ1部                                                                    | '''14位                                   |
-| [2010-11](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2010-2011 "wikilink")            | ブンデスリーガ1部                                                                    | '''9位                                    |
-| [2011-12](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2011-2012 "wikilink")            | ブンデスリーガ1部                                                                    | '''12位                                   |
-| [2012-13](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2012-2013 "wikilink")            | ブンデスリーガ1部                                                                    | '''5位                                    |
-| [2013-14](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2013-2014 "wikilink")            | ブンデスリーガ1部                                                                    | '''14位                                   |
-| [2014-15](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2014-2015 "wikilink")            | ブンデスリーガ1部                                                                    | '''17位                                   |
-| [2015-16](https://ja.wikipedia.org/wiki/2._ブンデスリーガ_\(ドイツサッカー\)2015-2016 "wikilink") | ブンデスリーガ2部                                                                    | '''1位                                    |
-| [2016-17](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2016-2017 "wikilink")            | ブンデスリーガ1部                                                                    | '''7位                                    |
-| [2017-18](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2017-2018 "wikilink")            | ブンデスリーガ1部                                                                    | '''15位                                   |
-| [2018-19](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2018-2019 "wikilink")            | ブンデスリーガ1部                                                                    | '''位                                     |
+| リーグ                                                                                 | 試                                                                            | 勝                                        |
+| 1989-90                                                                             | [ブンデスリーガ2部](https://ja.wikipedia.org/wiki/2._ブンデスリーガ_\(ドイツサッカー\) "wikilink") | 38                                       |
+| 1990-91                                                                             | ブンデスリーガ2部                                                                    | 38                                       |
+| 1991-92                                                                             | ブンデスリーガ2部                                                                    | 32                                       |
+| 1992-93                                                                             | ブンデスリーガ2部                                                                    | 46                                       |
+| [1993-94](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1993-1994 "wikilink")            | [ブンデスリーガ1部](../Page/サッカー・ブンデスリーガ_\(ドイツ\).md "wikilink")                      | 34                                       |
+| [1994-95](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1994-1995 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [1995-96](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1995-1996 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [1996-97](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1996-1997 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| 1997-98                                                                             | ブンデスリーガ2部                                                                    | 34                                       |
+| [1998-99](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1998-1999 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [1999-00](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1999-2000 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2000-01](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2000-2001 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2001-02](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2001-2002 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| 2002-03                                                                             | ブンデスリーガ2部                                                                    | 34                                       |
+| [2003-04](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2003-2004 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2003-04](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2004-2005 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| 2005-06                                                                             | ブンデスリーガ2部                                                                    | 34                                       |
+| 2006-07                                                                             | ブンデスリーガ2部                                                                    | 34                                       |
+| 2007-08                                                                             | ブンデスリーガ2部                                                                    | 34                                       |
+| 2008-09                                                                             | ブンデスリーガ2部                                                                    | 34                                       |
+| [2009-10](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2009-2010 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2010-11](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2010-2011 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2011-12](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2011-2012 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2012-13](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2012-2013 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2013-14](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2013-2014 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2014-15](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2014-2015 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2015-16](https://ja.wikipedia.org/wiki/2._ブンデスリーガ_\(ドイツサッカー\)2015-2016 "wikilink") | ブンデスリーガ2部                                                                    | 34                                       |
+| [2016-17](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2016-2017 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2017-18](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2017-2018 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2018-19](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2018-2019 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2019-20](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2019-2020 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2020-21](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2020-2021 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
 
 ## 欧州の成績
 
@@ -161,7 +163,7 @@
 <th><p>対戦相手</p></th>
 <th><p>ホーム</p></th>
 <th><p>アウェー</p></th>
-<th><p>　合計　</p></th>
+<th><p>合計</p></th>
 <th></th>
 </tr>
 </thead>
@@ -171,9 +173,9 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1995-96" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="../Page/SKスラヴィア・プラハ.md" title="wikilink">スラヴィア・プラハ</a></p></td>
-<td><p>1–2</p></td>
-<td><p>0–0</p></td>
-<td><p>'''1–2</p></td>
+<td><p>1-2</p></td>
+<td><p>0-0</p></td>
+<td><p>'''1-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
@@ -181,17 +183,17 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2001-02" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FKプーホフ" title="wikilink">プーホフ</a></p></td>
-<td><p>2–1</p></td>
-<td><p>0–0</p></td>
-<td><p>'''2–1</p></td>
+<td><p>2-1</p></td>
+<td><p>0-0</p></td>
+<td><p>'''2-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
 <td><p><a href="../Page/FCザンクト・ガレン.md" title="wikilink">ザンクト・ガレン</a></p></td>
-<td><p>0–1</p></td>
-<td><p>4–1</p></td>
-<td><p>'''4–2</p></td>
+<td><p>0-1</p></td>
+<td><p>4-1</p></td>
+<td><p>'''4-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -199,9 +201,9 @@
 <tr class="even">
 <td><p>3回戦</p></td>
 <td><p><a href="../Page/フェイエノールト.md" title="wikilink">フェイエノールト</a></p></td>
-<td><p>2–2</p></td>
-<td><p>0–1</p></td>
-<td><p>'''2–3</p></td>
+<td><p>2-2</p></td>
+<td><p>0-1</p></td>
+<td><p>'''2-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -211,15 +213,15 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2013-14" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>グループH</p></td>
 <td><p><a href="../Page/セビージャFC.md" title="wikilink">セビージャ</a></p></td>
-<td><p>0–2</p></td>
-<td><p>0–2</p></td>
+<td><p>0-2</p></td>
+<td><p>0-2</p></td>
 <td><p>'''3位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/GDエストリル・プライア" title="wikilink">エストリル・プライア</a></p></td>
-<td><p>1–1</p></td>
-<td><p>0–0</p></td>
+<td><p>1-1</p></td>
+<td><p>0-0</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -228,8 +230,8 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/FCスロヴァン・リベレツ.md" title="wikilink">スロヴァン・リベレツ</a></p></td>
-<td><p>2–2</p></td>
-<td><p>2–1</p></td>
+<td><p>2-2</p></td>
+<td><p>2-1</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -241,7 +243,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2017-18" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選3回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/NKドムジャレ" title="wikilink">ドムジャレ</a></p></td>
-<td><p>1–0</p></td>
+<td><p>1-0</p></td>
 <td><p>0-2</p></td>
 <td><p>'''1-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
@@ -251,7 +253,7 @@
 
 ## 現所属メンバー
 
-  - 2018-19シーズン フォーメーション
+  - 2019-20シーズン フォーメーション
 
 <div style="position: relative">
 
@@ -259,9 +261,9 @@
 
 </div>
 
-  - [2020年](../Page/2020年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")現在\[1\]
+  - [2020年](../Page/2020年.md "wikilink")[8月29日](../Page/8月29日.md "wikilink")現在\[1\]
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Switzerland_\(Pantone\).svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))        ★         ★  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Switzerland_\(Pantone\).svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ★        ★  ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))
 
 ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 

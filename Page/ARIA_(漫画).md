@@ -125,7 +125,7 @@
 
 ### 外国語版
 
-この他、[英語](../Page/英語.md "wikilink")版、[イタリア語](../Page/イタリア語.md "wikilink")版、[ドイツ語](../Page/ドイツ語.md "wikilink")版、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")版、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")版、[韓国語版](../Page/朝鮮語.md "wikilink")、[インドネシア語](../Page/インドネシア語.md "wikilink")版、[タイ語](../Page/タイ語.md "wikilink")版も出版されている。英語版は『ARIA』のみがADV Mangaにより出版されていたが、売り上げが伸びず迷走状態が続き、最終的に『ARIA』3巻までで翻訳が打ち切られてしまった。その後[TOKYOPOP](../Page/TOKYOPOP.md "wikilink")が英語版の翻訳を受け継ぎ『AQUA』も含め再出版されることとなったものの、出版ペースが極端に遅い状況が続いた。同社にて遅れて開始されたドイツ語翻訳は2011年に終了した一方、同年のTOKYOPOPの英語圏における漫画事業撤退までに英語版は6巻までしか出版されなかった。結果、英語版のみが未だ最終巻まで翻訳されていない状況が続いており、他社による引継ぎの声明も出ていない。なお、『ARIA』1-3巻については英語版が2種類存在することになるが、TOKYOPOPによる英語版（ドイツ語版はオリジナルのまま）は『AQUA』を含む全巻において大きくロゴが変更されている。
+この他、[英語](../Page/英語.md "wikilink")版、[イタリア語](../Page/イタリア語.md "wikilink")版、[ドイツ語](../Page/ドイツ語.md "wikilink")版、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")版、[中国語](../Page/中国語.md "wikilink")版、[韓国語版](../Page/朝鮮語.md "wikilink")、[インドネシア語](../Page/インドネシア語.md "wikilink")版、[タイ語](../Page/タイ語.md "wikilink")版も出版されている。英語版は『ARIA』のみがADV Mangaにより出版されていたが、売り上げが伸びず迷走状態が続き、最終的に『ARIA』3巻までで翻訳が打ち切られてしまった。その後[TOKYOPOP](../Page/TOKYOPOP.md "wikilink")が英語版の翻訳を受け継ぎ『AQUA』も含め再出版されることとなったものの、出版ペースが極端に遅い状況が続いた。同社にて遅れて開始されたドイツ語翻訳は2011年に終了した一方、同年のTOKYOPOPの英語圏における漫画事業撤退までに英語版は6巻までしか出版されなかった。結果、英語版のみが未だ最終巻まで翻訳されていない状況が続いており、他社による引継ぎの声明も出ていない。なお、『ARIA』1-3巻については英語版が2種類存在することになるが、TOKYOPOPによる英語版（ドイツ語版はオリジナルのまま）は『AQUA』を含む全巻において大きくロゴが変更されている。
 
 ## アニメ
 
@@ -171,8 +171,8 @@
     同年4月に正式なキャストが発表。メインキャストは全員テレビシリーズから、そのまま継続。2011年に逝去したアテナ役の[川上とも子](../Page/川上とも子.md "wikilink")も原作者などが同意の上、特別クレジットという形で記名されている\[5\]。
     時間軸的には『ORIGINATION』のアイ入社からさらに後（アイがシングルに昇格しているので、1年程度経過していると推測できる）。灯里がアリシアからARIAカンパニーを受け継ぎ、直後に入社したアイが「シングル」として修行に励みつつ、他のカンパニーの新人「あずさ」と「アーニャ」と共に新世代のウンディーネとして、かつての灯里・藍華・アリスたちのように交流を深め「プリマ」を目指している。
     アーニャ役の[茅野愛衣](https://ja.wikipedia.org/wiki/茅野愛衣 "wikilink")は美容師として働いていた頃、帰宅後につけたテレビアニメ版を見て、自身の心がとても癒されたことで「アニメにも癒しの力がある」とアニメに興味を持つようになったという。それを期に声優業を志した茅野は、そのきっかけとなった本作に参加したことについて、監督の佐藤は、アフレコ現場で感動のあまり泣き出してしまったことを打ち明けている\[6\]。
-  - 2020年新作アニメ
-    2020年冬に新作アニメが公開予定。前作ではライブラリ出演となっていたアテナは、新規に[佐藤利奈](../Page/佐藤利奈.md "wikilink")がキャスティングされており、新規収録が行われる\[7\]\[8\]。
+  -
+    2021年春に新作アニメが劇場公開予定。前作ではライブラリ出演となっていたアテナは、新規に[佐藤利奈](../Page/佐藤利奈.md "wikilink")がキャスティングされており、新規収録が行われる\[7\]\[8\]。
 
 ### スタッフ
 
@@ -187,11 +187,13 @@
 <th><p>OVA</p></th>
 <th><p>第3期</p></th>
 <th><p>AVVENIRE</p></th>
+<th><p>CREPUSCOLO</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>監督・シリーズ構成</p></td>
+<td><p>総監督</p></td>
+<td></td>
 <td><p><a href="../Page/佐藤順一.md" title="wikilink">佐藤順一</a></p></td>
 <td></td>
 <td></td>
@@ -199,17 +201,37 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>監督</p></td>
+<td><p>佐藤順一</p></td>
+<td><p>名取孝浩</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>助監督</p></td>
 <td><p>布施木一喜</p></td>
 <td><p>竹下健一</p></td>
 <td></td>
 <td><p>竹下健一</p></td>
 <td><p>名取孝浩</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>シリーズ構成</p></td>
+<td><p>佐藤順一</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>キャラクターデザイン</p></td>
 <td><p><a href="../Page/古賀誠_(アニメーター).md" title="wikilink">古賀誠</a></p></td>
 <td><p><a href="../Page/音地正行.md" title="wikilink">音地正行</a>[9]</p></td>
+<td><p>伊東葉子</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -221,6 +243,7 @@
 <td></td>
 <td><p>音地正行</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>美術監督</p></td>
@@ -228,6 +251,7 @@
 <td><p>吉川洋史</p></td>
 <td><p>田尻健一</p></td>
 <td><p>佐藤正浩</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -237,10 +261,12 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>デザインワークス</p></td>
 <td><p>春日井浩之</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -254,10 +280,12 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>撮影監督</p></td>
 <td><p>吉田寛</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -270,10 +298,12 @@
 <td><p>西山茂</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>音楽</p></td>
 <td><p><a href="../Page/Choro_Club.md" title="wikilink">Choro Club</a> feat. <a href="https://ja.wikipedia.org/wiki/妹尾武" title="wikilink">Senoo</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -286,11 +316,13 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>井上裕香子</p></td>
 <td><p>西辺誠</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -302,6 +334,7 @@
 <td><p>皆川護</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>プロデューサー</p></td>
@@ -310,9 +343,11 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>内田哲夫</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -328,10 +363,12 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>田頭伸哉</p></td>
 <td><p>三上康博</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -344,11 +381,13 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>アニメーション制作</p></td>
 <td><p><a href="../Page/ハルフィルムメーカー.md" title="wikilink">ハルフィルムメーカー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/TYOアニメーションズ" title="wikilink">TYOアニメーションズ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/J.C.STAFF" title="wikilink">J.C.STAFF</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -362,6 +401,7 @@
 <td><p>ARIA<br />
 カンパニー</p></td>
 <td><p>松竹</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -1524,12 +1564,16 @@ Navigation</p></td>
 
   - [「ARIA The ORIGINATION」公式サイト](https://www.ariacompany.net/3rd/)
 
-  - [「ARIA The AVVENIRE」公式サイト](https://www.ariacompany.net/)
+  - [「ARIA The AVVENIRE」公式サイト](https://www.ariacompany.net/4th/)
+
+  - [「ARIA The CREPUSCOLO」公式サイト](https://www.ariacompany.net/)
 
   - [「ARIA The NATURAL」公式サイト](https://www.tv-tokyo.co.jp/anime/aria_na/)（テレビ東京）
 
   - [「ARIA The ORIGINATION」公式サイト](https://www.tv-tokyo.co.jp/anime/aria/)（テレビ東京）
 
+  -
+  -
   -
   -
 [Category:ARIA](https://ja.wikipedia.org/wiki/Category:ARIA "wikilink") [Category:漫画作品_あ](https://ja.wikipedia.org/wiki/Category:漫画作品_あ "wikilink") [Category:月刊コミックブレイドの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊コミックブレイドの漫画作品 "wikilink") [Category:月刊ステンシル](https://ja.wikipedia.org/wiki/Category:月刊ステンシル "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink") [Category:アニメ作品_あ](https://ja.wikipedia.org/wiki/Category:アニメ作品_あ "wikilink") [Category:ファンタジーアニメ](https://ja.wikipedia.org/wiki/Category:ファンタジーアニメ "wikilink") [Category:松竹のアニメ作品](https://ja.wikipedia.org/wiki/Category:松竹のアニメ作品 "wikilink") [Category:メディアファクトリーのアニメ作品](https://ja.wikipedia.org/wiki/Category:メディアファクトリーのアニメ作品 "wikilink") [Category:テレビ東京メディアネットのアニメ作品](https://ja.wikipedia.org/wiki/Category:テレビ東京メディアネットのアニメ作品 "wikilink") [Category:マッグガーデンのアニメ作品](https://ja.wikipedia.org/wiki/Category:マッグガーデンのアニメ作品 "wikilink") [Category:アルケミストのゲームソフト](https://ja.wikipedia.org/wiki/Category:アルケミストのゲームソフト "wikilink") [Category:ノベルゲーム](https://ja.wikipedia.org/wiki/Category:ノベルゲーム "wikilink") [Category:マッグガーデンノベルス](https://ja.wikipedia.org/wiki/Category:マッグガーデンノベルス "wikilink") [Category:火星を舞台とした作品](https://ja.wikipedia.org/wiki/Category:火星を舞台とした作品 "wikilink") [Category:未来を題材にした漫画作品](https://ja.wikipedia.org/wiki/Category:未来を題材にした漫画作品 "wikilink") [Category:未来を題材にしたアニメ作品](https://ja.wikipedia.org/wiki/Category:未来を題材にしたアニメ作品 "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink")

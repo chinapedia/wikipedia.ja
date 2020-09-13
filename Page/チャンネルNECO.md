@@ -89,10 +89,10 @@
       - [この世の果て](../Page/この世の果て.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
       - [家なき子](../Page/家なき子_\(1994年のテレビドラマ\).md "wikilink")（日本テレビ） 他
   - 武侠ドラマ23（金曜 23:00 - ）
-      - [射鵰英雄伝](https://ja.wikipedia.org/wiki/射雕英雄伝_\(2003年のテレビドラマ\) "wikilink")（[2005年](../Page/2005年.md "wikilink")1月）
+      - [射鵰英雄伝](https://ja.wikipedia.org/wiki/射鵰英雄伝_\(2003年のテレビドラマ\) "wikilink")（[2005年](../Page/2005年.md "wikilink")1月）
       - [天龍八部](../Page/天龍八部_\(2003年のテレビドラマ\).md "wikilink")（2005年5月）
       - [笑傲江湖](https://ja.wikipedia.org/wiki/笑傲江湖_\(2001年のテレビドラマ\) "wikilink")（2005年10月、2007年）
-      - [神鵰侠侶](https://ja.wikipedia.org/wiki/神雕侠侶_\(2006年のテレビドラマ\) "wikilink")（[2007年](../Page/2007年.md "wikilink")1月）
+      - [神鵰侠侶](https://ja.wikipedia.org/wiki/神鵰侠侶_\(2006年のテレビドラマ\) "wikilink")（[2007年](../Page/2007年.md "wikilink")1月）
       - [連城訣](https://ja.wikipedia.org/wiki/連城訣_\(2004年のテレビドラマ\) "wikilink")（2007年6月）
       - [大旗英雄伝](https://ja.wikipedia.org/wiki/大旗英雄伝 "wikilink")（2007年8月）
       - [碧血剣](https://ja.wikipedia.org/wiki/碧血剣_\(2007年のテレビドラマ\) "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")5月）
@@ -150,6 +150,7 @@
   - [直CUE\!勝負 目指せ\!北海道完全征服\!?](https://ja.wikipedia.org/wiki/直CUE!勝負_目指せ!北海道完全征服!? "wikilink")
   - [竹内力、始めました](https://ja.wikipedia.org/wiki/竹内力、始めました "wikilink")\[2\]
   - 映画酒
+  - [綾小路きみまろTV](https://kimimaro.tv/) （月1回放送）
 
 ### 終了した番組
 
@@ -178,6 +179,11 @@
   - [映画・チャンネルNECO 公式サイト](http://www.necoweb.com/neco/)
 
   -
+  -
+  - [チャンネルNECOチャンネル](https://www.youtube.com/user/channelneco/) - YouTubeチャンネル
+
+  - \- チャンネルNECOキャラクター
+
 [Category:日活](https://ja.wikipedia.org/wiki/Category:日活 "wikilink") [Category:スカパー\!のチャンネル](https://ja.wikipedia.org/wiki/Category:スカパー!のチャンネル "wikilink") [Category:映画専門チャンネル](https://ja.wikipedia.org/wiki/Category:映画専門チャンネル "wikilink")
 
 1.

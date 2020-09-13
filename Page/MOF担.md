@@ -1,7 +1,7 @@
 > この記事は[MOF担](https://ja.wikipedia.org/wiki/MOF担)から翻訳されています。
 
 
-**MOF担**（モフたん）とは、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[都市銀行](../Page/都市銀行.md "wikilink")や[証券会社](../Page/証券会社.md "wikilink")などの大手金融機関のミドルオフィスに所属し、当時金融行政も担っていた[大蔵省](../Page/大蔵省.md "wikilink")（[財務省の前身](../Page/財務省_\(日本\).md "wikilink")、英称は両者とも**M**inistry **o**f **F**inance）に頻繁に出入りし様々な情報を[官僚](../Page/官僚.md "wikilink")から聞き出す「対大蔵省折衝担当者」の俗称である。
+**MOF担**（モフたん）とは、かつて[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[都市銀行](../Page/都市銀行.md "wikilink")や[証券会社](../Page/証券会社.md "wikilink")などの大手金融機関のミドルオフィスに所属し、金融行政を所管していた[大蔵省](../Page/大蔵省.md "wikilink")（[財務省の前身](../Page/財務省_\(日本\).md "wikilink")、英称は両者とも**M**inistry **o**f **F**inance）と[癒着](../Page/癒着.md "wikilink")し様々な情報を[官僚](../Page/官僚.md "wikilink")から聞き出していた「対大蔵省折衝担当者」の俗称である。
 
 ## 概要
 

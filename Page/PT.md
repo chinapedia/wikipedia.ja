@@ -22,7 +22,8 @@
       - プログラム開発 (Program and unit Test)
   - [東洋電機製造](../Page/東洋電機製造.md "wikilink")の[鉄道](../Page/鉄道.md "wikilink")車両用[パンタグラフの形式](../Page/集電装置.md "wikilink")。
   - **[Pro Tools](../Page/Pro_Tools.md "wikilink")**の略 - [デジタルオーディオワークステーション](https://ja.wikipedia.org/wiki/デジタルオーディオワークステーション "wikilink")(DAW)ソフトウェア
-  - Penetrant Testingの略。[浸透探傷検査](../Page/浸透探傷検査.md "wikilink")。[非破壊検査](../Page/非破壊検査.md "wikilink")の一種。
+  - **Penetrant Testing**の略。[浸透探傷検査](../Page/浸透探傷検査.md "wikilink")。[非破壊検査](../Page/非破壊検査.md "wikilink")の一種。
+  - **P.T.** - [セロファン](../Page/セロファン.md "wikilink")の一種。普通セロファン。
 
 ## 医学
 
@@ -42,11 +43,12 @@
   - **[クライスラー・PTクルーザー](../Page/クライスラー・PTクルーザー.md "wikilink")** - [クライスラー](../Page/クライスラー.md "wikilink")の[乗用車](../Page/乗用車.md "wikilink")
   - **[ATS-PT](https://ja.wikipedia.org/wiki/自動列車停止装置#ATS-PT形_（JR東海ATS-P） "wikilink")** - [JR東海の在来線全線で使用されるされる](../Page/東海旅客鉄道.md "wikilink")[自動列車停止装置](../Page/自動列車停止装置.md "wikilink")（ATS）。
   - **[パンテック&キュリテル](../Page/パンテック&キュリテル.md "wikilink") (Pantech & Curitel)** を表す符丁 - [韓国の](../Page/大韓民国.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")会社
-  - **Perseroan Terbatas** - [インドネシア](../Page/インドネシア.md "wikilink")会社法での[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")。
+  - **** ()- [インドネシア](../Page/インドネシア.md "wikilink")会社法での[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")。
   - **[パーペチュアル・トラベラー](../Page/パーペチュアル・トラベラー.md "wikilink")([Perpetual traveler](https://ja.wikipedia.org/wiki/:en:Perpetual_traveler "wikilink"))**の略 - 「永遠の旅行者」を意味し、各国で、非居住者とみなされる滞在期間の間だけ滞在し、税金を国家へ合法的に払わない、もしくは納税する税金を最小にするライフスタイル。
   - **ポリス＆シーフ (Police & Thief)** - 警察と泥棒、[ケイドロ](../Page/ケイドロ.md "wikilink")のこと。
-  - **[労働者党 (ブラジル)](https://ja.wikipedia.org/wiki/労働者党_\(ブラジル\) "wikilink")**（**Partido dos Trabalhadores**）－1980年2月に結成された[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")の[社会主義](../Page/社会主義.md "wikilink")[政党](../Page/政党.md "wikilink")。
+  - **[労働者党 (ブラジル)](https://ja.wikipedia.org/wiki/労働者党_\(ブラジル\) "wikilink")**（）－1980年2月に結成された[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")の[社会主義](../Page/社会主義.md "wikilink")[政党](../Page/政党.md "wikilink")。
   - **[フィジカルトレーニング](../Page/フィジカルトレーニング.md "wikilink")([Physical Training](https://ja.wikipedia.org/wiki/:en:Physical_training "wikilink"))** の略 - 「体力トレーニング」を意味する
+  - '''[プロジェクトチーム](https://ja.wikipedia.org/wiki/プロジェクトチーム "wikilink")()
   - **[白金](../Page/白金.md "wikilink") (platinum)** の[元素記号](../Page/元素記号.md "wikilink")
   - **[P-T境界](../Page/P-T境界.md "wikilink")** 約2億5,100万年前の[古生代](../Page/古生代.md "wikilink")と[中生代](../Page/中生代.md "wikilink")の境目
   - **[P.T. (ホラーゲーム)](https://ja.wikipedia.org/wiki/P.T._\(ホラーゲーム\) "wikilink")** [小島プロダクション](../Page/小島プロダクション.md "wikilink")制作の、制作中止になったゲーム『Silent Hills』のプレイアブル・ティーザー(Playable Teaser)

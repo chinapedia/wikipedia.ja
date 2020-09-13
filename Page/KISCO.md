@@ -157,7 +157,7 @@
 ### 本体のサイト
 
   - [KISCO株式会社](http://www.kisco-net.co.jp/)
-  - [近代建築Watch](http://hardcandy.exblog.jp/7587938/)（神戸営業所の写真多数）
+  - [近代建築Watch](https://hardcandy.exblog.jp/7587938/)（神戸営業所の写真多数）
 
 ### グループ企業・関連企業のサイト
 

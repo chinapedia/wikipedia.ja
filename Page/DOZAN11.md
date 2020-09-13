@@ -659,7 +659,7 @@ UMCF-9507</p></td>
 
 ## 外部リンク
 
-  - [DOZAN11 - UNIVERSAL MUSIC JAPAN](http://www.universal-music.co.jp/dozan11)
+  - [DOZAN11 - UNIVERSAL MUSIC JAPAN](https://www.universal-music.co.jp/dozan11/)
 
   -
   -

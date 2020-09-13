@@ -1,7 +1,7 @@
 > この記事は[サウンド・インS](https://ja.wikipedia.org/wiki/サウンド・インS)から翻訳されています。
 
 
-『**サウンド・イン“S”**』（Sound Inn "S"）は、[BS-TBS](../Page/BS-TBS.md "wikilink")で毎月第3土曜日に放送されている[音楽番組](../Page/音楽番組.md "wikilink")である。かつては、[1974年](../Page/1974年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1981年](../Page/1981年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")。この前番組が放送終了してから34年後の[2015年](../Page/2015年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")から「Seiko presents Sound Inn "S"」として新たに放送されている。番組は、SEIKO（[服部時計店](../Page/服部時計店.md "wikilink")、後の[セイコーホールディングス](../Page/セイコーホールディングス.md "wikilink")）の一社提供である。
+『**サウンド・イン“S”**』（Sound Inn "S"）は、[BS-TBS](../Page/BS-TBS.md "wikilink")で毎月第3土曜日に放送されている[音楽番組](../Page/音楽番組.md "wikilink")である。かつては、[1974年](../Page/1974年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1981年](../Page/1981年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[TBS系列局で放送されていた](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")。この前番組が放送終了してから34年後の[2015年](../Page/2015年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")から「Seiko presents Sound Inn "S"」として新たに放送されている。番組は、SEIKO（[服部時計店](../Page/服部時計店.md "wikilink")、後の[セイコーホールディングス](../Page/セイコーホールディングス.md "wikilink")）の一社提供である。
 
 ## 概要
 
@@ -82,7 +82,7 @@
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")
   - 中部日本放送（現：[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）
   - [朝日放送](../Page/朝日放送テレビ.md "wikilink")（1975年3月まで） → [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（1975年4月以降）
-  - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送テレビ "wikilink")
+  - [山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")（現：[RSK山陽放送](../Page/RSK山陽放送.md "wikilink")）
   - [中国放送](../Page/中国放送.md "wikilink")
   - [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")
   - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")
@@ -93,7 +93,9 @@
 
 [CS放送の](../Page/日本における衛星放送.md "wikilink")[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")（現・TBSチャンネル1）では、開始時期は不明ながら[2007年](../Page/2007年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")まで再放送され、同日5:00のリピート放送をもって終了した。
 
-レギュラー放送終了後には追悼特別番組としてたびたび放送されており、終了から約4年10ヶ月ぶりとなる2012年6月26日（初回放送）には同年5月に死去した[尾崎紀世彦](https://ja.wikipedia.org/wiki/尾崎紀世彦 "wikilink")の出演した回を、2013年1月3日（初回放送）には前年10月に死去した[桑名正博](../Page/桑名正博.md "wikilink")の出演した回をそれぞれ放送した。
+レギュラー放送終了後には追悼特別番組としてたびたび放送されており、終了から約4年10ヶ月ぶりとなる2012年6月26日（初回放送）には同年5月に死去した[尾崎紀世彦](../Page/尾崎紀世彦.md "wikilink")の出演した回を、2013年1月3日（初回放送）には前年10月に死去した[桑名正博](../Page/桑名正博.md "wikilink")の出演した回をそれぞれ放送した。
+
+[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")没後、CSTBS2チャンネルにて[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")出演回の\#223、\#263を[2018年](../Page/2018年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink")を皮切りに、[2019年](../Page/2019年.md "wikilink")、[2020年](../Page/2020年.md "wikilink")と複数回ずつ放送されている。
 
 ## サウンド・イン"S" 音楽のじかん
 
@@ -120,6 +122,10 @@
   - プロデューサー：[服部英司](../Page/服部英司.md "wikilink")
   - 制作著作：TBS
 
+## スペシャルライブ2020
+
+  - [斉藤慎二](../Page/斉藤慎二.md "wikilink")と[山形純菜](https://ja.wikipedia.org/wiki/山形純菜 "wikilink")の司会で2020年2月27日に[マイナビBLITZ赤坂において新型コロナ対策のため無観客で収録されたもの](../Page/赤坂BLITZ.md "wikilink")。2020年3月21日19:00-20:00(1時間)と4月18日(通常放送・30分)に放送された。\[3\]なお、全曲ノーカット完全版が2020年5月23日、TBSチャンネル1で放送された。
+
 ## 脚注
 
 ## 外部リンク
@@ -138,3 +144,4 @@
 
 1.  『[福島民報](../Page/福島民報.md "wikilink")』1975年5月28日付朝刊、8面。
 2.  『福島民報』1974年10月4日 - 1975年6月27日付朝刊、テレビ欄。
+3.

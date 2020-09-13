@@ -38,7 +38,7 @@
 1.  **[グッド・タイムズ・バッド・タイムズ](https://ja.wikipedia.org/wiki/グッド・タイムズ・バッド・タイムズ "wikilink")** - *Good Times Bad Times* (Page, Jones & Bonham)
       - アメリカ他数カ国でシングルカットされ、全米80位にランクイン\[16\]。
 2.  **ゴナ・リーヴ・ユー** - *Babe I'm Gonna Leave You* (Anne Bredon, arr., Page, Plant)
-      - [ジョーン・バエズ](../Page/ジョーン・バエズ.md "wikilink")のライブアルバムに収録されていたフォークナンバーのカバー。バンドは当初この曲をトラディショナルソングと勘違いし、作者クレジットもそのように記載されていたが、[1980年代](../Page/1980年代.md "wikilink")に入りアン・ブレドンという女性歌手の作品である事が判明し、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の[リマスターズ以降はブレドンの名がクレジットされるようになった](../Page/レッド・ツェッペリン・リマスターズ.md "wikilink")\[17\]。
+      - [ジョーン・バエズ](../Page/ジョーン・バエズ.md "wikilink")のライブアルバムに収録されていたフォークナンバーのカバー。バンドは当初この曲を[トラディショナルソングと勘違いし](https://ja.wikipedia.org/wiki/民族音楽#類義語との違い "wikilink")、作者クレジットもそのように記載されていたが、[1980年代](../Page/1980年代.md "wikilink")に入りアン・ブレドンという女性歌手の作品である事が判明し、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の[リマスターズ以降はブレドンの名がクレジットされるようになった](../Page/レッド・ツェッペリン・リマスターズ.md "wikilink")\[17\]。
 3.  **ユー・シュック・ミー** - *You Shook Me* ([Willie Dixon](../Page/ウィリー・ディクスン.md "wikilink"), J. B. Lenoir)
       - ツェッペリンが敬愛してやまないウィリー・ディクスンが[1962年](../Page/1962年.md "wikilink")にマディ・ウォーターズに提供したブルースナンバーのカバー。彼らに先んじて、[ジェフ・ベック・グループ](../Page/ジェフ・ベック・グループ.md "wikilink")が1stアルバム『[トゥルース](../Page/トゥルース_\(アルバム\).md "wikilink")』で採り上げている。
 4.  **[幻惑されて](https://ja.wikipedia.org/wiki/幻惑されて "wikilink")** -*Dazed and Confused* (Page)
@@ -53,7 +53,7 @@
 1.  **時が来たりて** -*Your Time is Gonna Come* (Page & Jones)
       - ジョーンズによる[ハモンドオルガン](../Page/ハモンドオルガン.md "wikilink")を大きくフィーチュアした曲。[トラフィックの](../Page/トラフィック_\(バンド\).md "wikilink")「ディア・ミスター・ファンタジー」（1967年のアルバム『*Mr. Fantasy*』収録）に似ているという指摘がある\[19\]。
 2.  **ブラック・マウンテン・サイド** -*Black Mountain Side* (Page)
-      - イギリスのフォーク・シンガー、アン・ブリッグス（[Anne Briggs](https://ja.wikipedia.org/wiki/:en:Anne_Briggs "wikilink")）が、友人の民族音楽史家、アル・ロイドから伝授された短いトラディショナルナンバーを元に作曲した「Black Water Side」が原曲である。直接的にはそれを引用した[バート・ヤンシュ](../Page/バート・ヤンシュ.md "wikilink")の演奏にペイジが影響を受け、これにインド音楽的な要素を加味させて創作された曲。[タブラ](https://ja.wikipedia.org/wiki/タブラ "wikilink")はヴィラム・ジャサニなる外部ミュージシャンが演奏している。
+      - イギリスのフォーク・シンガー、[アン・ブリッグス](../Page/アン・ブリッグス.md "wikilink")が、友人の民族音楽史家、アル・ロイドから伝授された短いトラディショナルナンバーを元に作曲した「Black Water Side」が原曲である。直接的にはそれを引用した[バート・ヤンシュ](../Page/バート・ヤンシュ.md "wikilink")の演奏にペイジが影響を受け、これにインド音楽的な要素を加味させて創作された曲。[タブラ](https://ja.wikipedia.org/wiki/タブラ "wikilink")はヴィラム・ジャサニなる外部ミュージシャンが演奏している。
 3.  **[コミュニケイション・ブレイクダウン](https://ja.wikipedia.org/wiki/コミュニケイション・ブレイクダウン "wikilink")** -*Communication Breakdown* (Page, Jones & Bonham)
       - シングル「グッド・タイムズ・バッド・タイムズ」のB面曲。ツェッペリン活動期間中に唯一の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が製作された曲でもある。
 4.  **君から離れられない** -*I Can't Quit You Baby* (Willie Dixon)

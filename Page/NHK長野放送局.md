@@ -1,7 +1,7 @@
 > この記事は[NHK長野放送局](https://ja.wikipedia.org/wiki/NHK長野放送局)から翻訳されています。
 
 
-[right](https://ja.wikipedia.org/wiki/ファイル:NHK_Nagano.jpg "wikilink") **NHK長野放送局**（エヌエイチケイながのほうそうきょく）は、[長野県](../Page/長野県.md "wikilink")を[放送対象地域とする](https://ja.wikipedia.org/wiki/放送#放送対象地域 "wikilink")[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで県域放送を行っている。
+**NHK長野放送局**（エヌエイチケイながのほうそうきょく）は、[長野県](../Page/長野県.md "wikilink")を[放送対象地域とする](https://ja.wikipedia.org/wiki/放送#放送対象地域 "wikilink")[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで県域放送を行っている。
 
 ## 概要
 
@@ -63,47 +63,7 @@
 
 ※アナログ・デジタルテレビとFMラジオ放送の親局である美ヶ原局は、[信越放送](../Page/信越放送.md "wikilink")のデジタルテレビ放送と送信施設・鉄塔を共同使用している。
 
-## 支局
-
-  - 支局
-
-<!-- end list -->
-
-  - [松本](https://ja.wikipedia.org/wiki/NHK松本支局 "wikilink")
-  - 飯田
-  - 諏訪
-
-## 主な長野局制作番組
-
-### 総合テレビ
-
-  - ニュース・気象情報
-      - 平日：6:55 - 7:00・7:55 - 8:00・11:57 - 12:00（※気象情報のみ）・12:15 - 12:20（※ニュースのみ）
-      - 土日：18:55 - 19:00
-  - [イブニング信州](../Page/イブニング信州.md "wikilink")（平日：18:10 - 18:59）
-  - 知るしん。（金曜日：19:30 - 19:55、不定期）
-  - [信州845](https://ja.wikipedia.org/wiki/信州845 "wikilink")（平日：20:45 - 21:00）
-      - 祝日は、20:55 - 21:00に**関東・甲信越地方のニュース・気象情報**を放送。
-
-### ラジオ第1放送
-
-  - ゆる信ワイド\!（金曜：16:05 - 18:00\[9\]）
-
-## 過去の制作番組
-
-### 総合テレビ
-
-  - 長野ニュースワイド→モーニングワイドながの→モーニングワイド信州→おはよう信州
-  - くらしのメモ信州→おいでよ\!プラザN→ひるとく
-  - ゆうゆう信州→遊夕信州
-  - 信州640→信州630→イブニングネットワーク信州→まるごと信州610→まるごと信州600→ニュースアップ信州600→ニュースアップ信州
-
-### ラジオ第一
-
-  - もぎたて信州朝いちばん
-  - ゆる～り信州
-
-## アナログテレビチャンネル
+### アナログテレビチャンネル
 
 「総合/教育」の順で表記。
 
@@ -121,7 +81,7 @@
   - 伊那 53ch/51ch 100W
   - 飯田 4ch/3ch 250W
 
-## 地上デジタル放送
+### 地上デジタル放送
 
   - 総合　011ch・012ch
   - 教育　021ch・022ch・023ch
@@ -131,12 +91,7 @@
   -
     ※[ワンセグ](../Page/ワンセグ.md "wikilink")では2006年まで、関東甲信越エリアを統括する[東京本局の内容を](../Page/NHK放送センター.md "wikilink")[サイマル放送](../Page/サイマル放送.md "wikilink")していた（現在は長野放送局の番組を放送）。
 
-## 天気ループ
-
-  - 基本的に、毎日朝の時間帯に表示される（「[おはよう日本](../Page/NHKニュースおはよう日本.md "wikilink")」内など）。デジタル放送では、[データ放送](../Page/データ放送.md "wikilink")を利用して表示する方式を採用している。
-  - **表示順**は、郵便番号の設定による登録地（天気マーク・降水確率→最高気温、デジタル放送のみ）→北部（天気マーク・降水確率）→長野（最高気温）→中部（天気マーク・降水確率）→松本（最高気温）→諏訪（最高気温）→軽井沢（最高気温）→南部（天気マーク・降水確率）→飯田（最高気温）→東京（天気マーク・降水確率→最高気温）→名古屋（天気マーク・降水確率→最高気温）の順。
-
-## AM 周波数
+### AM 周波数
 
 「第1放送/第2放送」の順で表記。
 
@@ -156,7 +111,7 @@
   - 木曽楢川（FM波）86.0MHz（10W）/-
   - 南木曽（FM波）86.6MHz（10W）/-
 
-## FM 周波数
+### FM 周波数
 
   - 親局 長野（美ヶ原） 84.0MHz（出力500W）
 
@@ -187,6 +142,55 @@
   - 信濃阿南 82.8MHz（10W）
   - 遠山 85.1MHz（10W）
 
+## 支局
+
+  - 支局
+
+<!-- end list -->
+
+  - [松本](https://ja.wikipedia.org/wiki/NHK松本支局 "wikilink")
+  - 飯田
+  - 諏訪
+
+## 主な長野局制作番組
+
+### 総合テレビ
+
+  - ニュース・気象情報
+      - 平日：6:55 - 7:00・7:55 - 8:00・11:57 - 12:00（※気象情報・お知らせ）・12:15 - 12:20（※ニュースのみ）
+      - 土曜日・日曜日：18:55 - 19:00（この時間以外は東京からのネット受け）
+  - [イブニング信州](../Page/イブニング信州.md "wikilink")（平日 18:10 - 18:59）
+  - 知るしん。 信州を知るテレビ（不定期金曜日 19:30 - 19:55、20:42までの場合あり）
+  - [信州845](https://ja.wikipedia.org/wiki/信州845 "wikilink")（平日 20:45 - 21:00）
+      - 祝日は、20:55 - 21:00に**関東・甲信越地方のニュース・気象情報**を放送。
+
+### ラジオ第1
+
+  - ゆる信ワイド\!（金曜日 16:05 - 18:00\[9\]）
+
+## 過去の制作番組
+
+### 総合テレビ
+
+  - 長野ニュースワイド→モーニングワイドながの→モーニングワイド信州→おはよう信州
+  - くらしのメモ信州→おいでよ\!プラザN→ひるとく
+  - ゆうゆう信州→遊夕信州
+  - 信州640→信州630→イブニングネットワーク信州→まるごと信州610→まるごと信州600→ニュースアップ信州600→ニュースアップ信州
+
+### ラジオ第1
+
+  - もぎたて信州朝いちばん
+  - ゆる～り信州
+
+### [BSプレミアム](https://ja.wikipedia.org/wiki/BSプレミアム "wikilink")
+
+  - [ピンぼけの家族](https://ja.wikipedia.org/wiki/ピンぼけの家族 "wikilink")（[2020年](../Page/2020年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")） - [信州発地域ドラマとして放送](https://ja.wikipedia.org/wiki/地域発ドラマ "wikilink")\[10\]\[11\]。
+
+## 天気ループ
+
+  - 基本的に、毎日朝の時間帯に表示される（「[おはよう日本](../Page/NHKニュースおはよう日本.md "wikilink")」内など）。デジタル放送では、[データ放送](../Page/データ放送.md "wikilink")を利用して表示する方式を採用している。
+  - **表示順**は、郵便番号の設定による登録地（天気マーク・降水確率→最高気温、デジタル放送のみ）→北部（天気マーク・降水確率）→長野（最高気温）→中部（天気マーク・降水確率）→松本（最高気温）→諏訪（最高気温）→軽井沢（最高気温）→南部（天気マーク・降水確率）→飯田（最高気温）→東京（天気マーク・降水確率→最高気温）→名古屋（天気マーク・降水確率→最高気温）の順。
+
 ## アナウンサー・キャスター
 
   - **\***は過去にも長野局勤務の経験があることを表す。
@@ -208,38 +212,31 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/阪本篤志.md" title="wikilink">阪本篤志</a></p></td>
-<td><p><a href="../Page/NHK宮崎放送局.md" title="wikilink">宮崎</a></p></td>
-<td><p>放送部副部長<br />
-長野県のニュース</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/田中寛人.md" title="wikilink">田中寛人</a></p></td>
 <td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td><p><a href="../Page/イブニング信州.md" title="wikilink">イブニング信州</a>（キャスター）</p></td>
 <td><p>長野県出身</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/松村正代.md" title="wikilink">松村正代</a></p></td>
 <td><p>長野県のニュース<br />
 ゆる信ワイド!</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/渡辺裕之_(アナウンサー).md" title="wikilink">渡辺裕之</a></p></td>
 <td><p><a href="../Page/NHKさいたま放送局.md" title="wikilink">さいたま</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/山田康弘" title="wikilink">山田康弘</a>*</p></td>
 <td><p><a href="../Page/NHKラジオセンター.md" title="wikilink">ラジオセンター</a></p></td>
 <td><p>長野県出身</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/西川典孝" title="wikilink">西川典孝</a></p></td>
 <td><p><a href="../Page/NHK富山放送局.md" title="wikilink">富山</a></p></td>
 <td><p>イブニング信州<br />
@@ -247,45 +244,45 @@
 長野県のニュース</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/川口由梨香.md" title="wikilink">川口由梨香</a></p></td>
 <td><p><strong>初任地</strong></p></td>
 <td><p>長野県のニュース</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/田村有葵子" title="wikilink">田村有葵子</a></p></td>
 <td></td>
 <td><p>イブニング信州<br />
 （キャスター）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/加藤永莉香" title="wikilink">加藤永莉香</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/宮野里緒" title="wikilink">宮野里緒</a></p></td>
 <td></td>
 <td><p>イブニング信州<br />
 （リポーター）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/星庵美咲" title="wikilink">星庵美咲</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/松本結花" title="wikilink">松本結花</a></p></td>
 <td></td>
 <td><p>イブニング信州<br />
@@ -293,26 +290,26 @@
 ゆる信ワイド!</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/若竹明日香" title="wikilink">若竹明日香</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/瀧埜ひとみ" title="wikilink">瀧埜ひとみ</a></p></td>
 <td></td>
 <td><p>イブニング信州<br />
 （スポーツ）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/気象予報士.md" title="wikilink">気象予報士</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/杉山真理" title="wikilink">杉山真理</a></p></td>
 <td></td>
 <td><p>イブニング信州</p></td>
@@ -321,10 +318,116 @@
 </tbody>
 </table>
 
+## テレビ信州との共同企画
+
+[2019年](../Page/2019年.md "wikilink")度、NHK長野放送局は[テレビ信州](../Page/テレビ信州.md "wikilink")（TSB）との共同企画を展開した。両局のアナウンサーやキャスターが相互の番組に出演するだけでなく、共同企画も展開していた。テレビ信州公式サイトの[信州 テレビ新時代](https://www.tsb.jp/tv_newperiod/index.html)も参照。実施された主な企画は以下のとおり（出演者は放送時点）。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>実施日</p></th>
+<th><p>実施番組など</p></th>
+<th><p>出演者</p></th>
+<th><p>企画など</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019年<a href="../Page/5月31日.md" title="wikilink">5月31日</a></p></td>
+<td><p>ゆる信ワイド<br />
+<a href="../Page/ゆうがたGet!.md" title="wikilink">ゆうがたGet!</a></p></td>
+<td><p>田中寛人<br />
+<a href="https://ja.wikipedia.org/wiki/齋藤沙弥香" title="wikilink">齋藤沙弥香</a></p></td>
+<td><p>テレビ・ラジオ同時放送</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年<a href="../Page/6月26日.md" title="wikilink">6月26日</a></p></td>
+<td><p>ゆうがたGet!</p></td>
+<td><p><a href="../Page/宮崎大地.md" title="wikilink">宮崎大地</a><br />
+川口由梨香</p></td>
+<td><p>NHK側の訪問</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年<a href="../Page/6月28日.md" title="wikilink">6月28日</a></p></td>
+<td><p>イブニング信州</p></td>
+<td><p><a href="../Page/伊東陽司.md" title="wikilink">伊東陽司</a></p></td>
+<td><p>TSB側の訪問</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年<a href="../Page/8月1日.md" title="wikilink">8月1日</a></p></td>
+<td><p>同上</p></td>
+<td><p>田中寛人<br />
+齋藤沙弥香</p></td>
+<td><p><a href="../Page/埴科郡.md" title="wikilink">埴科郡</a><a href="../Page/坂城町.md" title="wikilink">坂城町</a>でのロケ</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年<a href="../Page/8月5日.md" title="wikilink">8月5日</a></p></td>
+<td><p>ゆうがたGet!</p></td>
+<td><p>同上</p></td>
+<td><p>同上</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年<a href="../Page/8月30日.md" title="wikilink">8月30日</a></p></td>
+<td><p><a href="../Page/番組宣伝.md" title="wikilink">番組宣伝</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/西川典孝" title="wikilink">西川典孝</a><br />
+<a href="../Page/厚芝智行.md" title="wikilink">厚芝智行</a></p></td>
+<td><p><a href="../Page/ラグビーワールドカップ2019.md" title="wikilink">ラグビーワールドカップ2019</a>の共同スポット</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年<a href="../Page/9月2日.md" title="wikilink">9月2日</a> - <a href="../Page/9月6日.md" title="wikilink">9月6日</a></p></td>
+<td><p>イブニング信州<br />
+<a href="https://ja.wikipedia.org/wiki/news_every._(テレビ信州)" title="wikilink">news every.</a></p></td>
+<td><p>各局記者</p></td>
+<td><p>防災コラボ、両局の記者が相互出演</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年<a href="../Page/12月14日.md" title="wikilink">12月14日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ピンぼけの家族" title="wikilink">ピンぼけの家族</a></p></td>
+<td><p>伊東陽司<br />
+<a href="https://ja.wikipedia.org/wiki/鈴木恵理香" title="wikilink">鈴木恵理香</a></p></td>
+<td><p>ドラマ出演<br />
+<a href="https://ja.wikipedia.org/wiki/地域発ドラマ" title="wikilink">地域発ドラマ</a>において現役の<a href="../Page/民間放送.md" title="wikilink">民放アナウンサーが初めて出演</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年<a href="../Page/12月2日.md" title="wikilink">12月2日</a></p></td>
+<td><p>イブニング信州<br />
+news every.</p></td>
+<td><p>西川典孝<br />
+菅野直道</p></td>
+<td><p>西川が『news every.』において<a href="../Page/全国高等学校駅伝競走大会.md" title="wikilink">高校駅伝を紹介</a><br />
+菅野が『イブニング信州』において<a href="../Page/全国高等学校サッカー選手権大会.md" title="wikilink">高校サッカーを紹介</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/1月20日.md" title="wikilink">1月20日</a> - <a href="../Page/1月22日.md" title="wikilink">1月22日</a></p></td>
+<td><p>同上</p></td>
+<td><p>各局記者</p></td>
+<td><p>防災コラボ、<a href="https://ja.wikipedia.org/wiki/令和元年東日本台風" title="wikilink">令和元年東日本台風</a>（台風19号）での現状取材</p></td>
+</tr>
+<tr class="odd">
+<td><p>2020年<a href="../Page/2月19日.md" title="wikilink">2月19日</a></p></td>
+<td><p><a href="../Page/マイチャン。.md" title="wikilink">マイチャン。</a>おはなし隊</p></td>
+<td><p>若竹明日香<br />
+<a href="https://ja.wikipedia.org/wiki/木下歌織" title="wikilink">木下歌織</a></p></td>
+<td><p><a href="../Page/上伊那郡.md" title="wikilink">上伊那郡</a><a href="../Page/箕輪町.md" title="wikilink">箕輪町</a>での<a href="../Page/絵本.md" title="wikilink">絵本</a>読み聞かせ</p></td>
+</tr>
+<tr class="even">
+<td><p>2020年<a href="../Page/3月13日.md" title="wikilink">3月13日</a></p></td>
+<td><p>信州を元気に!同時生放送SP</p></td>
+<td><p>田中寛人<br />
+<a href="../Page/阪本篤志.md" title="wikilink">阪本篤志</a><br />
+加藤永莉香<br />
+伊東陽司<br />
+鈴木恵理香<br />
+齋藤沙弥香</p></td>
+<td><p>18:25 - 19:00に同時生放送</p></td>
+</tr>
+</tbody>
+</table>
+
 ## その他
 
   - NHKの甲信越地域の放送局では、最初に動画ニュースの配信を開始した。
-  - アナログ放送終了時はそれに関するお知らせを長野局独自で送出し、さらに停波時には、長野局のコールサインアナウンスも送出された。\[10\]
+  - アナログ放送終了時はそれに関するお知らせを長野局独自で送出し、さらに停波時には、長野局のコールサインアナウンスも送出された。\[12\]
 
 ## 関連項目
 
@@ -336,7 +439,7 @@
 
   - [NHK長野放送局](https://www.nhk.or.jp/nagano/)
 
-[Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:NHK長野](https://ja.wikipedia.org/wiki/Category:NHK長野 "wikilink")
+[Category:NHK長野](https://ja.wikipedia.org/wiki/Category:NHK長野 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:長野県のマスメディア](https://ja.wikipedia.org/wiki/Category:長野県のマスメディア "wikilink") [Category:関東・甲信越地方のテレビ局](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビ局 "wikilink") [Category:関東・甲信越地方のラジオ局](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のラジオ局 "wikilink")
 
 1.  当時テレビは1チャンネルのみ。後に、教育テレビ（Eテレ）の誕生により、この局は総合テレビの局となる。
 2.  この日は、長野県を含む全国のNHKの地方局13局と、全国の地方民放40局が同時に予備免許を取得した。[インプレス社AV Watch 2005年6月9日付記事](http://av.watch.impress.co.jp/docs/20050609/soumu.htm)
@@ -347,4 +450,6 @@
 7.  [NHK新潟放送局](../Page/NHK新潟放送局.md "wikilink")と同時。19:30～20:45は、通常の1番組編成によるハイビジョン放送。
 8.
 9.  月～木は「[にっぽん列島夕方ラジオ](https://ja.wikipedia.org/wiki/にっぽん列島夕方ラジオ "wikilink")」（17:05 - 17:55）を放送。
-10. その他の地域では停波の際にアナログ放送終了のお知らせをカットアウトしていた。
+10.
+11.
+12. その他の地域では停波の際にアナログ放送終了のお知らせをカットアウトしていた。

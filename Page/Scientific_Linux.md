@@ -403,7 +403,7 @@ RHELのリリース日</p></th>
   - [Scientific Linux Tips](http://ribf.riken.jp/comp/tips/SL3.html) （Scientific Linux のインストールのヒント - 日本語）
   - [ScientificLinux-FAQ - 2ch-Linux-Beginners](http://www12.atwiki.jp/linux2ch/pages/36.html) (Scientific Linux に関するFAQ - 日本語)
 
-[Category:Linuxディストリビューション](https://ja.wikipedia.org/wiki/Category:Linuxディストリビューション "wikilink") [Category:2004年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2004年のソフトウェア "wikilink") [Category:フェルミラボ](https://ja.wikipedia.org/wiki/Category:フェルミラボ "wikilink") [Category:CERNのソフトウェア](https://ja.wikipedia.org/wiki/Category:CERNのソフトウェア "wikilink")
+[Category:Red_Hat派生ディストリビューション](https://ja.wikipedia.org/wiki/Category:Red_Hat派生ディストリビューション "wikilink") [Category:2004年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2004年のソフトウェア "wikilink") [Category:フェルミラボ](https://ja.wikipedia.org/wiki/Category:フェルミラボ "wikilink") [Category:CERNのソフトウェア](https://ja.wikipedia.org/wiki/Category:CERNのソフトウェア "wikilink")
 
 1.  [Welcome to Scientific Linux (SL)](https://www.scientificlinux.org/)
 2.  [General Questions about Scientific Linux (Community)](https://www.scientificlinux.org/documentation/faq/faq-community/)

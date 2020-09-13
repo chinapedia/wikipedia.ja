@@ -109,7 +109,7 @@
       - [デーモン小暮のオールナイトニッポン](../Page/デーモン小暮のオールナイトニッポン.md "wikilink")
       - [坂崎幸之助のオールナイトニッポン](../Page/坂崎幸之助のオールナイトニッポン.md "wikilink")
       - [渡辺美里のオールナイトニッポン](../Page/渡辺美里のオールナイトニッポン.md "wikilink")
-  - [セイ\!ヤング21](../Page/セイ!ヤング21.md "wikilink")
+  - [オールナイトニッポンPremium](https://ja.wikipedia.org/wiki/オールナイトニッポンPremium "wikilink")
 
 ## 脚注
 

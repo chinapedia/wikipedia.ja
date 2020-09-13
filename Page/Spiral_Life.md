@@ -1104,4 +1104,4 @@ UVBA-5001</p></td>
 
   - [演劇集団キャラメルボックス](../Page/演劇集団キャラメルボックス.md "wikilink")
 
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:サイケデリック・ロック・バンド](https://ja.wikipedia.org/wiki/Category:サイケデリック・ロック・バンド "wikilink") [Category:シューゲイザー・バンド](https://ja.wikipedia.org/wiki/Category:シューゲイザー・バンド "wikilink") [Category:渋谷系](https://ja.wikipedia.org/wiki/Category:渋谷系 "wikilink")
+[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:サイケデリック・ロック・バンド](https://ja.wikipedia.org/wiki/Category:サイケデリック・ロック・バンド "wikilink") [Category:シューゲイザー・バンド](https://ja.wikipedia.org/wiki/Category:シューゲイザー・バンド "wikilink") [Category:渋谷系](https://ja.wikipedia.org/wiki/Category:渋谷系 "wikilink")

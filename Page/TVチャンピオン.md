@@ -335,7 +335,7 @@
 <!-- end list -->
 
   - 歴代エンディングテーマ
-    2002年3月まで本編エンディングの王者の椅子に座るシーンで使用。同年4月以降は本編でのエンディングテーマ自体が廃止され、別の曲（スタジオオープニング・チャンピオンのスタジオ登場時にも使用）が使われていた。ただし、同時ネット局のみ流される本編終了後の告知部分でエンディングテーマは残されていた。
+    1993年4月から2002年3月まで本編エンディングの王者の椅子に座るシーンで使用。同年4月以降は本編でのエンディングテーマ自体が廃止され、別の曲（スタジオオープニング・チャンピオンのスタジオ登場時にも使用）が使われていた。ただし、同時ネット局のみ流される本編終了後の告知部分でエンディングテーマは残されていた。
 
 <!-- end list -->
 
@@ -522,7 +522,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/青森県" title="wikilink">青森県</a></p></td>
 <td><p><a href="../Page/青森テレビ.md" title="wikilink">青森テレビ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a></p></td>
+<td><p><a href="../Page/ジャパン・ニュース・ネットワーク.md" title="wikilink">TBS系列</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -557,8 +557,8 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新潟総合テレビ" title="wikilink">新潟総合テレビ</a></p></td>
-<td></td>
+<td><p><a href="../Page/NST新潟総合テレビ.md" title="wikilink">新潟総合テレビ</a></p></td>
+<td><p>現：NST新潟総合テレビ</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -594,7 +594,7 @@
 <tr class="odd">
 <td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a></p></td>
 <td><p><a href="../Page/静岡朝日テレビ.md" title="wikilink">静岡朝日テレビ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列</a></p></td>
+<td><p><a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">テレビ朝日系列</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -667,7 +667,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a></p></td>
+<td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -791,9 +791,10 @@
 ## 外部リンク
 
   - [TVチャンピオン](https://www.tv-tokyo.co.jp/tvchamp1/index.htm)
-  - [TVチャンピオン2](https://www.tv-tokyo.co.jp/tvchamp/index.html)
-  - [「TVチャンピオン」番組メイキング（テレビコ）](http://www.tvco.tv/interview/index.php?action=detail&id=19)
 
+  - [TVチャンピオン2](https://www.tv-tokyo.co.jp/tvchamp/index.html)
+
+  -
 [Category:1992年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1992年のテレビ番組_\(日本\) "wikilink") [Category:TVチャンピオン](https://ja.wikipedia.org/wiki/Category:TVチャンピオン "wikilink") [Category:テレビ東京のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のバラエティ番組の歴史 "wikilink")
 
 1.  当初は7月28日土曜日の『[土曜スペシャル](https://ja.wikipedia.org/wiki/土曜スペシャル_\(テレビ東京\) "wikilink")』枠である19:00-20:54となっていたが、ローカル番組扱いで土曜洋画劇場「[リーグ・オブ・レジェンド/時空を超えた戦い](https://ja.wikipedia.org/wiki/リーグ・オブ・レジェンド/時空を超えた戦い "wikilink")」の編成が組まれたため当初の予定を変更。

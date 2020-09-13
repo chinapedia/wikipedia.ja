@@ -5,7 +5,7 @@
 
 ## 来歴
 
-[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")出身。[サンフランシスコ州立大学](../Page/サンフランシスコ州立大学.md "wikilink")を卒業。[ブロードウェイ](https://ja.wikipedia.org/wiki/ブロードウェイ "wikilink")・デビュー作の『[M.バタフライ](https://ja.wikipedia.org/wiki/M.バタフライ "wikilink")』で[トニー賞](../Page/トニー賞.md "wikilink")、[ドラマディスク賞](https://ja.wikipedia.org/wiki/ドラマディスク賞 "wikilink")\[1\]、[Outer Critics Circle Award](https://ja.wikipedia.org/wiki/:en:Outer_Critics_Circle_Award "wikilink")\[2\]、[Clarence Derwent Awards](https://ja.wikipedia.org/wiki/:en:Clarence_Derwent_Awards "wikilink")、[シアター・ワールド賞](https://ja.wikipedia.org/wiki/:en:Theatre_World_Award "wikilink")\[3\]の5つの賞を受賞した。同じ役で5つ受賞した俳優は彼しかいない。
+[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")出身。[サンフランシスコ州立大学](../Page/サンフランシスコ州立大学.md "wikilink")を卒業。[ブロードウェイ](https://ja.wikipedia.org/wiki/ブロードウェイ "wikilink")・デビュー作の『[M.バタフライ](../Page/M.バタフライ.md "wikilink")』で[トニー賞](../Page/トニー賞.md "wikilink")、[ドラマディスク賞](https://ja.wikipedia.org/wiki/ドラマディスク賞 "wikilink")\[1\]、[Outer Critics Circle Award](https://ja.wikipedia.org/wiki/:en:Outer_Critics_Circle_Award "wikilink")\[2\]、[Clarence Derwent Awards](https://ja.wikipedia.org/wiki/:en:Clarence_Derwent_Awards "wikilink")、[シアター・ワールド賞](https://ja.wikipedia.org/wiki/:en:Theatre_World_Award "wikilink")\[3\]の5つの賞を受賞した。同じ役で5つ受賞した俳優は彼しかいない。
 
 映画では『[ジュラシック・パーク](../Page/ジュラシック・パーク.md "wikilink")』といった大作や、ディズニー映画の『[ムーラン](../Page/ムーラン_\(1998年の映画\).md "wikilink")』などに出演。人気テレビシリーズの『[X-ファイル](../Page/X-ファイル.md "wikilink")』や『[LAW & ORDER](https://ja.wikipedia.org/wiki/LAW_&_ORDER "wikilink")』、『[セサミ・ストリート](https://ja.wikipedia.org/wiki/セサミ・ストリート "wikilink")』などにゲスト出演したこともある。
 

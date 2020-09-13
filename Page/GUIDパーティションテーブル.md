@@ -590,7 +590,7 @@ HFS+ 用 FileVault パーティションの容器</p></td>
 
   - [GUID パーティション テーブル](http://technet.microsoft.com/ja-jp/library/cc773223.aspx) [マイクロソフト](../Page/マイクロソフト.md "wikilink")社のWebサイトにある説明
 
-[Category:ブート](https://ja.wikipedia.org/wiki/Category:ブート "wikilink") [Category:補助記憶装置](https://ja.wikipedia.org/wiki/Category:補助記憶装置 "wikilink")
+[Category:ブート](https://ja.wikipedia.org/wiki/Category:ブート "wikilink") [Category:補助記憶装置](https://ja.wikipedia.org/wiki/Category:補助記憶装置 "wikilink") [Category:BIOS](https://ja.wikipedia.org/wiki/Category:BIOS "wikilink")
 
 1.  <http://www.gnu.org/software/grub/manual/html_node/BIOS-installation.html>
 2.  <https://help.ubuntu.com/community/MacBook>

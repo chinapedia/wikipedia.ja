@@ -545,7 +545,9 @@
 
   - 挿入歌
 
-:;「ナヌリズマ」
+:;「νανουρισμα(ナヌリズマ)」
+
+:: 作詞 - [両澤千晶](../Page/両澤千晶.md "wikilink") / 作曲・編曲 - [浅見昴生](https://ja.wikipedia.org/wiki/浅見昴生 "wikilink") / 歌 - ベガ(三石琴乃)
 
 :; 「HEART DRIVE」
 
@@ -596,7 +598,7 @@
 <td><p>出現! ユニコーンドリル</p></td>
 <td><p><a href="../Page/日高政光.md" title="wikilink">日高政光</a></p></td>
 <td><p>渡邊哲哉</p></td>
-<td><p>山口晋</p></td>
+<td><p><a href="../Page/山口晋_(アニメ演出家).md" title="wikilink">山口晋</a></p></td>
 <td><p><a href="../Page/10月11日.md" title="wikilink">10月11日</a></p></td>
 <td></td>
 <td></td>
@@ -1054,6 +1056,7 @@
   - [SUNRISE WORLDWAR from サンライズ英雄譚](../Page/サンライズ英雄譚.md "wikilink")
   - [スーパーロボット大戦R](../Page/スーパーロボット大戦R.md "wikilink")
   - [スーパーロボット大戦MX](../Page/スーパーロボット大戦MX.md "wikilink")
+  - [スーパーロボット大戦X-Ω](https://ja.wikipedia.org/wiki/スーパーロボット大戦X-Ω "wikilink")
 
 スパロボシリーズではゲームバランスの兼ね合いや原作システムの再現などからエネルギーの補給が固有システムになっていたり（他のユニットに存在する自然回復もない）、データウェポンの能力がインストールしているものしか使えない（本来は形態に関わらず契約したDWの能力を使える）など、破壊力は高いが扱いづらい部類に入っている。
 

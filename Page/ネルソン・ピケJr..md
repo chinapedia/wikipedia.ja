@@ -25,7 +25,7 @@
 
 2005年は[GP2](../Page/GP2.md "wikilink")への参戦を開始。ここでも父ピケは既存のレーシングチームであるハイテック(Hitech)チームに参画することでハイテック・ピケ・スポーツとし、ピケJr.は同チームに所属した。[スパ・フランコルシャン](../Page/スパ・フランコルシャン.md "wikilink")のレース1では優勝をあげている。また、F1の[B・A・R](../Page/B・A・R.md "wikilink")チームのテストにも参加した。この年は、同じく[ブラジル人](https://ja.wikipedia.org/wiki/ブラジル人 "wikilink")F1チャンピオンを親族に持つ[ブルーノ・セナ](../Page/ブルーノ・セナ.md "wikilink")がイギリスF3への参戦を始めたため、「二世ドライバー」としてブラジルでは併せて注目を集めるようになる。
 
-同じ2005年、9月に初めて開幕した冬季開催の国別対抗の[2005-2006](https://ja.wikipedia.org/wiki/2005年から2006年のA1グランプリ "wikilink")[A1グランプリ](../Page/A1グランプリ.md "wikilink")にブラジル代表として参戦。[ブランズ・ハッチ](../Page/ブランズ・ハッチ.md "wikilink")で行われた開幕戦でスプリントレース、フィーチャーレースを共に制し、[ファステストラップ](../Page/ファステストラップ.md "wikilink")まで刻むという完勝劇を見せた。その後はマシントラブルなど苦難が続き、結局ブラジルチームは総合結果6位で幕を閉じる。（ピケJr.は第8戦以降、参戦していない。最高位1位2回、2位と3位を各1回。）
+同じ2005年、9月に初めて開幕した冬季開催の国別対抗の[2005-2006 A1グランプリにブラジル代表として参戦](https://ja.wikipedia.org/wiki/2005年から2006年のA1グランプリ "wikilink")。[ブランズ・ハッチ](../Page/ブランズ・ハッチ.md "wikilink")で行われた開幕戦でスプリントレース、フィーチャーレースを共に制し、[ファステストラップ](../Page/ファステストラップ.md "wikilink")まで刻むという完勝劇を見せた。その後はマシントラブルなど苦難が続き、結局ブラジルチームは総合結果6位で幕を閉じる。（ピケJr.は第8戦以降、参戦していない。最高位1位2回、2位と3位を各1回。）
 
 2006年は引き続きGP2に参戦し、4勝をあげチャンピオン争いを展開するが、[ルイス・ハミルトン](../Page/ルイス・ハミルトン.md "wikilink")に及ばず、ランキング2位で終えた。しかしながら、[ハンガロリンク](../Page/ハンガロリンク.md "wikilink")でのレースではポールポジションを獲得すると、レース1を優勝。レース2では[リバースグリッド](../Page/リバースグリッド.md "wikilink")となるため、レース1の勝者が優勝することは困難であるにも拘わらずレース2も優勝し、更に両レースでファステストラップも記録するという完全勝利を飾った。以前に同一ラウンド中の2レースで連勝を達成したドライバーとしては、前年最終戦で達成したロズベルグと、2006年の[ニュルブルクリンク](https://ja.wikipedia.org/wiki/ニュルブルクリンク "wikilink")と[シルバーストン](https://ja.wikipedia.org/wiki/シルバーストン "wikilink")で達成したハミルトンがいるが、いずれもポールポジション\]かいずれかのファステストラップを逃している。
 
@@ -45,7 +45,7 @@
 
 #### クラッシュゲート
 
-[2008_Singapore_Grand_Prix_Renault_Nelson_Piquet_Jr_crash.jpg](https://ja.wikipedia.org/wiki/File:2008_Singapore_Grand_Prix_Renault_Nelson_Piquet_Jr_crash.jpg "fig:2008_Singapore_Grand_Prix_Renault_Nelson_Piquet_Jr_crash.jpg")に撤去されるネルソン・ピケJr.のマシン。（※：写真は[2008年シンガポールGPにて](https://ja.wikipedia.org/wiki/2008年シンガポールグランプリ "wikilink")）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Flavio_Briatore_Chinese_GP_2008.jpg "wikilink") この事件が露見する以前に父ピケは息子から真相を聞いており、最終戦[ブラジルGPの時点で](https://ja.wikipedia.org/wiki/2008年ブラジルグランプリ "wikilink")[チャーリー・ホワイティング](https://ja.wikipedia.org/wiki/チャーリー・ホワイティング "wikilink")や[マックス・モズレー](../Page/マックス・モズレー.md "wikilink")ら[国際自動車連盟](../Page/国際自動車連盟.md "wikilink") (FIA) 上層陣に対して相談をしていた。FIA側はピケJr.本人の供述が必要という立場を示したが、ピケはこれを口外することで息子のキャリアが大きく傷つくことを怖れて相談だけに留めた\[3\]。
+[2008_Singapore_Grand_Prix_Renault_Nelson_Piquet_Jr_crash.jpg](https://ja.wikipedia.org/wiki/File:2008_Singapore_Grand_Prix_Renault_Nelson_Piquet_Jr_crash.jpg "fig:2008_Singapore_Grand_Prix_Renault_Nelson_Piquet_Jr_crash.jpg")に撤去されるネルソン・ピケJr.のマシン。（※：写真は[2008年シンガポールGPにて](https://ja.wikipedia.org/wiki/2008年シンガポールグランプリ "wikilink")）\]\] この事件が露見する以前に父ピケは息子から真相を聞いており、最終戦[ブラジルGPの時点で](https://ja.wikipedia.org/wiki/2008年ブラジルグランプリ "wikilink")[チャーリー・ホワイティング](https://ja.wikipedia.org/wiki/チャーリー・ホワイティング "wikilink")や[マックス・モズレー](../Page/マックス・モズレー.md "wikilink")ら[国際自動車連盟](../Page/国際自動車連盟.md "wikilink") (FIA) 上層陣に対して相談をしていた。FIA側はピケJr.本人の供述が必要という立場を示したが、ピケはこれを口外することで息子のキャリアが大きく傷つくことを怖れて相談だけに留めた\[3\]。
 
 ピケJr.がルノーを解雇された2009年ハンガリーGP直後から、[2008年シンガポールGPでのクラッシュがチームの指示による意図的なものだったのではないかとの噂が流れ始めた](https://ja.wikipedia.org/wiki/2008年シンガポールグランプリ "wikilink")（これはピケJr.本人がブラジルのテレビ局[ヘジ・グローボ](../Page/ヘジ・グローボ.md "wikilink")の番組に出演した際、「昨年のシンガポールGPでのクラッシュはチームの命令で行った。」と告白した事が発端となっていた）。当初は真相が表沙汰になっていない事と、アロンソと比較して戦績が芳しくない事も相まって、解雇をされた事に対する腹癒せでこのような事を述べていると風評された。やがてFIAが調査を始めるまでに至ったことから、事件の詳細を裏付けられるものをピケJr.本人が握っているものと考えられた\[4\]。
 
@@ -61,13 +61,39 @@
 
 ピケ親子とチームとの間ではその後もチームに対する名誉毀損を巡る訴訟が続行していたが、2010年12月7日にチームは2009年9月11日に発表したピケ親子を非難するプレスリリースを撤回した上で、ピケ親子に対し全面的に謝罪すると共に損害賠償を支払う意向を明らかにした\[22\]。なお損害賠償の金額等は明らかにされていない。
 
+## 多様なカテゴリでの活躍
+
+上述の通りF1では不本意な形でシートを失ったが、才能は高く評価されており、多種多様なカテゴリに参戦している。
+
 ### NASCAR
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:30_Nelson_Piquet_Jr_2012_Road_America_Nationwide_Sargento_200_Qualifying.jpg "wikilink") 2010年、[NASCAR](../Page/NASCAR.md "wikilink")に転向\[23\]。この年は[キャンピング・ワールド・トラック・シリーズ](https://ja.wikipedia.org/wiki/キャンピング・ワールド・トラック・シリーズ "wikilink")と[ネイションワイド・シリーズ](https://ja.wikipedia.org/wiki/ネイションワイド・シリーズ "wikilink")に数戦スポット参戦するにとどまった。2011年からはトラックシリーズを主戦場としフル参戦、2011年はシリーズランキング10位。2012年はシーズン2勝をあげシリーズランキング7位となったほか、スポット参戦したネイションワイドシリーズでの[ロード・アメリカ](https://ja.wikipedia.org/wiki/ロード・アメリカ "wikilink")でのレースでも勝利している（ただし主戦場はトラックシリーズのためポイントはなし）。2017年現在、NASCARの三大カップ戦で勝利を挙げた唯一のブラジル人ドライバーである。{{-}}
+[thumb](https://ja.wikipedia.org/wiki/ファイル:30_Nelson_Piquet_Jr_2012_Road_America_Nationwide_Sargento_200_Qualifying.jpg "wikilink") 2010年、[NASCAR](../Page/NASCAR.md "wikilink")に転向\[23\]。この年は[キャンピング・ワールド・トラック・シリーズ](https://ja.wikipedia.org/wiki/キャンピング・ワールド・トラック・シリーズ "wikilink")と[ネイションワイド・シリーズ](https://ja.wikipedia.org/wiki/ネイションワイド・シリーズ "wikilink")に数戦スポット参戦するにとどまった。2011年からはトラックシリーズを主戦場としフル参戦、2011年はシリーズランキング10位。2012年はシーズン2勝をあげシリーズランキング7位となったほか、スポット参戦したネイションワイドシリーズでの[ロード・アメリカ](https://ja.wikipedia.org/wiki/ロード・アメリカ "wikilink")でのレースでも勝利している（ただし主戦場はトラックシリーズのためポイントはなし）。2020年現在、NASCARの三大カップ戦で勝利を挙げた唯一のブラジル人ドライバーである。{{-}}
 
 ### フォーミュラE
 
 2014年より[フォーミュラE](https://ja.wikipedia.org/wiki/フォーミュラE "wikilink")にチャイナ・レーシング・フォーミュラEチーム（シーズン中にチーム名を「NEXTEV TCR・フォーミュラEチーム」に変更）より参戦\[24\]。第6戦[ロングビーチ](../Page/ロングビーチ市街地コース.md "wikilink")e-prixで自身初勝利を挙げ、同サーキットで親子2代で勝利を挙げた（父親の時代は「F1アメリカ西GP」）。第9戦のモスクワで2勝目を挙げるなど終始安定した走りを披露。[セバスチャン・ブエミ](https://ja.wikipedia.org/wiki/セバスチャン・ブエミ "wikilink")との優勝争いは最終戦のロンドンにもつれ込んだが、予選では悪天候などの不運に見舞われ、16番グリッドからのスタートを余儀無くされる。それでも決勝レースではトップより2周遅くピットインする戦略が成功、更に終盤には、ブエミのファステストラップを塗り替えるなど奮闘した同僚[オリバー・ターベイ](https://ja.wikipedia.org/wiki/オリバー・ターベイ "wikilink")にも前を譲られ、7位まで順位を上げた。ブエミはそれでも激しく迫ったが、最終ラップの最終コーナーでブルーノ・セナに厳しいブロックを受けて5位に終わる。その結果1ポイント差でピケが競り勝ち、初代年間チャンピオンに輝いた。
+
+しかしよくシーズンからはディフェンディングチャンピオンどころかテールエンダーと見紛うほどの低迷が続き、4シーズン目には[ジャガー](../Page/ジャガー.md "wikilink")に移籍するものの、5シーズン目途中で解雇という憂き目に遭っている。
+
+### ラリークロス
+
+2013年に[三菱・ランサーエボリューション](../Page/三菱・ランサーエボリューション.md "wikilink")で[グローバル・ラリークロス](https://ja.wikipedia.org/wiki/グローバル・ラリークロス "wikilink")にスポット参戦すると、翌2014年には[フォード・フィエスタ](../Page/フォード・フィエスタ.md "wikilink")でフル参戦。2015年ワシントンD.Cでは唯一の優勝を記録し、シーズン4位を獲得。2016年は終盤3戦にスポット参戦するのみで終えている。
+
+2019年には欧州のタイタンRXインターナショナルに4戦ほどスポット参戦した。
+
+### 耐久レース
+
+GP2ドライバーであった頃の2006年[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")にGT1クラスから参戦し、[アストンマーティン・DB9](../Page/アストンマーティン・DB9.md "wikilink")をドライブした（クラス4位完走）。
+
+2016年[WEC](https://ja.wikipedia.org/wiki/WEC "wikilink")では[レベリオン・レーシング](https://ja.wikipedia.org/wiki/レベリオン・レーシング "wikilink")からLMP1クラスにル・マンまでの間スポット参戦し、翌2017年は同チームのLMP2でフル参戦しているが、いずれもクラス優勝は果たせなかった。
+
+## GTレース
+
+2014年に[BMW](../Page/BMW.md "wikilink")スポーツトロフィー・チームブラジルから、[ブランパンスプリントシリーズの半数以上のイベントに参戦しているが](https://ja.wikipedia.org/wiki/GTワールドチャレンジ "wikilink")、予選レース含めてトップ10フィニッシュは1回と良いところなく終えている。
+
+### ストックカー・ブラジル
+
+2014～2016年の間開幕戦のみスポット参戦していたが、2018年からフル参戦を開始。2020年から[トヨタ・カローラ](../Page/トヨタ・カローラ.md "wikilink")をドライブすることになる。
 
 ## レース戦績
 
@@ -576,31 +602,6 @@ SPR</a><br />
 <td><p>0</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </tbody>
 </table>
 
@@ -772,22 +773,15 @@ SPR</a><br />
 <small>Ret</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2019年三亜eプリ" title="wikilink">SNY</a><br />
 <small>Ret</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2019年ローマeプリ" title="wikilink">ROM</a><br />
-<small></small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2019年パリeプリ" title="wikilink">PAR</a><br />
-<small></small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2019年モナコeプリ" title="wikilink">MON</a><br />
-<small></small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2019年ベルリンeプリ" title="wikilink">BER</a><br />
-<small></small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2019年ベルンeプリ" title="wikilink">BRN</a><br />
-<small></small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2019年ニューヨークeプリ" title="wikilink">NYC</a><br />
-<small></small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2019年ニューヨークeプリ" title="wikilink">NYC</a><br />
-<small></small></p></td>
-<td><p>22位<sup>*</sup></p></td>
-<td><p>1<sup>*</sup></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2019年ローマeプリ" title="wikilink">ROM</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2019年パリeプリ" title="wikilink">PAR</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2019年モナコeプリ" title="wikilink">MON</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2019年ベルリンeプリ" title="wikilink">BER</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2019年ベルンeプリ" title="wikilink">BRN</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2019年ニューヨークeプリ" title="wikilink">NYC</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2019年ニューヨークeプリ" title="wikilink">NYC</a></p></td>
+<td><p>22位</p></td>
+<td><p>1</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -795,7 +789,6 @@ SPR</a><br />
 
   - **太字**は[ポールポジション](../Page/ポールポジション.md "wikilink")、*斜字*は[ファステストラップ](../Page/ファステストラップ.md "wikilink")。([key](https://ja.wikipedia.org/wiki/:Template:Motorsport_driver_results_legend "wikilink"))
   - <sup>†</sup> : リタイアだが、90%以上の距離を走行したため規定により完走扱い。
-  - <sup>\*</sup> : 今シーズンの順位。（現時点）
   - <sup>+</sup> : ファンブースト。
 
 ### FIA 世界耐久選手権
@@ -832,18 +825,12 @@ SPR</a><br />
 <small>4</small></p></td>
 <td><p><a href="../Page/サルト・サーキット.md" title="wikilink">LMN</a><br />
 <small>13</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NÜR</a><br />
-<small></small></p></td>
-<td><p><a href="../Page/エルマノス・ロドリゲス・サーキット.md" title="wikilink">MEX</a><br />
-<small></small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サーキット・オブ・ジ・アメリカズ" title="wikilink">COA</a><br />
-<small></small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a><br />
-<small></small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/上海インターナショナルサーキット" title="wikilink">SHA</a><br />
-<small></small></p></td>
-<td><p><a href="../Page/バーレーン・インターナショナル・サーキット.md" title="wikilink">BHR</a><br />
-<small></small></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NÜR</a></p></td>
+<td><p><a href="../Page/エルマノス・ロドリゲス・サーキット.md" title="wikilink">MEX</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/サーキット・オブ・ジ・アメリカズ" title="wikilink">COA</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/上海インターナショナルサーキット" title="wikilink">SHA</a></p></td>
+<td><p><a href="../Page/バーレーン・インターナショナル・サーキット.md" title="wikilink">BHR</a></p></td>
 <td><p>15位</p></td>
 <td><p>25</p></td>
 </tr>
@@ -858,8 +845,7 @@ SPR</a><br />
 <small>4</small></p></td>
 <td><p><a href="../Page/サルト・サーキット.md" title="wikilink">{{Color</a><br />
 <small>DSQ</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NÜR</a><br />
-<small></small></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NÜR</a></p></td>
 <td><p><a href="../Page/エルマノス・ロドリゲス・サーキット.md" title="wikilink">MEX</a><br />
 <small>5</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サーキット・オブ・ジ・アメリカズ" title="wikilink">COA</a><br />

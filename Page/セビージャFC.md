@@ -1,9 +1,9 @@
 > この記事は[セビージャFC](https://ja.wikipedia.org/wiki/セビージャFC)から翻訳されています。
 
 
-**セビージャ・フトボル・クルブ**（）\[1\]は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[アンダルシア州](../Page/アンダルシア州.md "wikilink")[セビリア](../Page/セビリア.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。セビリアFCとも表記される。2019-20シーズンは[プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink")に所属している。
+**セビージャ・フトボル・クルブ**（）\[1\]は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[アンダルシア州](../Page/アンダルシア州.md "wikilink")[セビリア](../Page/セビリア.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。セビリアFCとも表記される。2020-21シーズンは[プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink")に所属している。
 
-1890年10月14日に設立された。[リーガ・エスパニョーラ](../Page/リーガ・エスパニョーラ.md "wikilink")で優勝1度、[コパ・デル・レイ](../Page/コパ・デル・レイ.md "wikilink")で優勝5度、[スーペルコパ・デ・エスパーニャ](../Page/スーペルコパ・デ・エスパーニャ.md "wikilink")で優勝1度、[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")で優勝5度を数える。セビージャFCのサポーターはセビジスタと呼ばれ、富裕層を中心にファンが多いとされる。同じセビリアを本拠地とし、労働者階級に強い支持基盤を持つ[レアル・ベティス](../Page/レアル・ベティス.md "wikilink")との対戦はセビリア・ダービーと呼ばれ、スペインで最も熱いダービーと言われている\[2\]。
+1890年10月14日に設立された。[リーガ・エスパニョーラ](../Page/リーガ・エスパニョーラ.md "wikilink")で優勝1度、[コパ・デル・レイ](../Page/コパ・デル・レイ.md "wikilink")で優勝5度、[スーペルコパ・デ・エスパーニャ](../Page/スーペルコパ・デ・エスパーニャ.md "wikilink")で優勝1度、[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")で優勝6度を数える。セビージャFCのサポーターはセビジスタと呼ばれ、富裕層を中心にファンが多いとされる。同じセビリアを本拠地とし、労働者階級に強い支持基盤を持つ[レアル・ベティス](../Page/レアル・ベティス.md "wikilink")との対戦はセビリア・ダービーと呼ばれ、スペインで最も熱いダービーと言われている\[2\]。
 
 ## 歴史
 
@@ -607,8 +607,8 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 
 ### 国際タイトル
 
-  - **[UEFAカップ/UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink") : 5回**
-      - 2005-06, 2006-07, 2013-14, 2014-15, 2015-16
+  - **[UEFAカップ/UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink") : 6回**
+      - 2005-06, 2006-07, 2013-14, 2014-15, 2015-16, 2019-20
 
 <!-- end list -->
 
@@ -622,9 +622,9 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
   -
     {|class="wikitable"
 
-|-bgcolor="\#efefef" \!シーズン \!ディビジョン \!順位 \!試 \!勝 \!引 \!敗 \!得 \!失 \!点 \![国王杯](../Page/コパ・デル・レイ.md "wikilink") \!colspan=2|欧州カップ戦 \!備考 |- |1996-97 |[プリメーラ](../Page/プリメーラ・ディビシオン.md "wikilink") |align=right bgcolor="\#FFCCCC"| **20** |align=right|42||align=right|12||align=right|7||align=right|23 |align=right|50||align=right|69||align=right|**43** ||3回戦敗退 |||| |bgcolor="\#FFCCCC"|降格 |- |1997-98 | rowspan="2" |[セグンダ](../Page/セグンダ・ディビシオン.md "wikilink") |align=right |**7** |align=right|38||align=right|12||align=right|17||align=right|9 |align=right|44||align=right|31||align=right|**53** ||1回戦敗退 ||||| |- |1998-99 |align=right bgcolor="DDFFDD"|**4** |align=right|38||align=right|16||align=right|13||align=right|9 |align=right|49||align=right|38||align=right|**61** |ベスト32 |||| |bgcolor="\#DDFFDD"|昇格 |- |1999-00 |プリメーラ |align=right bgcolor="\#FFCCCC"| **20** |align=right|38||align=right|5||align=right|13||align=right|20 |align=right|42||align=right|67||align=right|**28** | |||| |bgcolor="\#FFCCCC"|降格 |- |2000-01 |セグンダ |align=right bgcolor="DDFFDD"| **1** |align=right|38||align=right|14||align=right|8||align=right|16 |align=right|46||align=right|44||align=right|**50** ||ベスト64 |||| |bgcolor="\#DDFFDD"|昇格 |- |2001-02 | rowspan="23" |プリメーラ |align=right |**8** |align=right|38||align=right|14||align=right|11||align=right|13 |align=right|51||align=right|40||align=right|**53** ||ベスト64 ||||| |- |2002-03 |align=right |**10** |align=right|38||align=right|13||align=right|11||align=right|14 |align=right|38||align=right|39||align=right|**50** ||準々決勝敗退 ||||| |- |2003-04 |align=right |**6** |align=right|38||align=right|15||align=right|10||align=right|13 |align=right|56||align=right|45||align=right|**55** ||準決勝敗退 ||||| |- |2004-05 |align=right |**6** |align=right|38||align=right|17||align=right|9||align=right|12 |align=right|44||align=right|41||align=right|**60** ||準々決勝敗退 ||[UC](https://ja.wikipedia.org/wiki/UEFAカップ_2004-05 "wikilink")|||ベスト16 | |- |2005-06 |align=right |**5** |align=right|38||align=right|20||align=right|8||align=right|10 |align=right|54||align=right|39||align=right|**68** ||ベスト16 |bgcolor=gold| [UC](https://ja.wikipedia.org/wiki/UEFAカップ_2005-06 "wikilink")||bgcolor=gold| 優勝 | |- | rowspan="2" |2006-07 | rowspan="2" align="right" bgcolor=\#cc9966 |**3** | rowspan="2" align="right" |38|| rowspan="2" align="right" |21|| rowspan="2" align="right" |8|| rowspan="2" align="right" |9 | rowspan="2" align="right" |64|| rowspan="2" align="right" |35|| rowspan="2" align="right" |**71** | rowspan="2" bgcolor="gold" |優勝 |bgcolor=gold| [UC](https://ja.wikipedia.org/wiki/UEFAカップ_2006-07 "wikilink")
+|-bgcolor="\#efefef" \!シーズン \!ディビジョン \!順位 \!試 \!勝 \!引 \!敗 \!得 \!失 \!点 \![国王杯](../Page/コパ・デル・レイ.md "wikilink") \!colspan=2|欧州カップ戦 \!備考 |- |1996-97 |[プリメーラ](../Page/プリメーラ・ディビシオン.md "wikilink") |align=right bgcolor="\#FFCCCC"| **20** |align=right|42||align=right|12||align=right|7||align=right|23 |align=right|50||align=right|69||align=right|**43** ||3回戦敗退 |||| |bgcolor="\#FFCCCC"|降格 |- |1997-98 | rowspan="2" |[セグンダ](../Page/セグンダ・ディビシオン.md "wikilink") |align=right |**7** |align=right|38||align=right|12||align=right|17||align=right|9 |align=right|44||align=right|31||align=right|**53** ||1回戦敗退 ||||| |- |1998-99 |align=right bgcolor="DDFFDD"|**4** |align=right|38||align=right|16||align=right|13||align=right|9 |align=right|49||align=right|38||align=right|**61** |ベスト32 |||| |bgcolor="\#DDFFDD"|昇格 |- |1999-00 |プリメーラ |align=right bgcolor="\#FFCCCC"| **20** |align=right|38||align=right|5||align=right|13||align=right|20 |align=right|42||align=right|67||align=right|**28** | |||| |bgcolor="\#FFCCCC"|降格 |- |2000-01 |セグンダ |align=right bgcolor="DDFFDD"| **1** |align=right|38||align=right|14||align=right|8||align=right|16 |align=right|46||align=right|44||align=right|**50** ||ベスト64 |||| |bgcolor="\#DDFFDD"|昇格 |- |2001-02 | rowspan="24" |プリメーラ |align=right |**8** |align=right|38||align=right|14||align=right|11||align=right|13 |align=right|51||align=right|40||align=right|**53** ||ベスト64 ||||| |- |2002-03 |align=right |**10** |align=right|38||align=right|13||align=right|11||align=right|14 |align=right|38||align=right|39||align=right|**50** ||準々決勝敗退 ||||| |- |2003-04 |align=right |**6** |align=right|38||align=right|15||align=right|10||align=right|13 |align=right|56||align=right|45||align=right|**55** ||準決勝敗退 ||||| |- |2004-05 |align=right |**6** |align=right|38||align=right|17||align=right|9||align=right|12 |align=right|44||align=right|41||align=right|**60** ||準々決勝敗退 ||[UC](https://ja.wikipedia.org/wiki/UEFAカップ_2004-05 "wikilink")|||ベスト16 | |- |2005-06 |align=right |**5** |align=right|38||align=right|20||align=right|8||align=right|10 |align=right|54||align=right|39||align=right|**68** ||ベスト16 |bgcolor=gold| [UC](https://ja.wikipedia.org/wiki/UEFAカップ_2005-06 "wikilink")||bgcolor=gold| 優勝 | |- | rowspan="2" |2006-07 | rowspan="2" align="right" bgcolor=\#cc9966 |**3** | rowspan="2" align="right" |38|| rowspan="2" align="right" |21|| rowspan="2" align="right" |8|| rowspan="2" align="right" |9 | rowspan="2" align="right" |64|| rowspan="2" align="right" |35|| rowspan="2" align="right" |**71** | rowspan="2" bgcolor="gold" |優勝 |bgcolor=gold| [UC](https://ja.wikipedia.org/wiki/UEFAカップ_2006-07 "wikilink")
 || bgcolor="gold" | 優勝 | |- |bgcolor=gold| [USC](../Page/UEFAスーパーカップ.md "wikilink")
-|| bgcolor="gold" | 優勝 | |- |rowspan="2"|2007-08 |rowspan="2" align=right |**5** |rowspan="2" align=right|38||rowspan="2" align=right|20||rowspan="2" align=right|4||rowspan="2" align=right|14 |rowspan="2" align=right|75||rowspan="2" align=right|49||rowspan="2" align=right|**64** |rowspan="2"|ベスト16 ||[CL](../Page/UEFAチャンピオンズリーグ.md "wikilink")|||ベスト16 |rowspan="2" bgcolor=gold| [SCE優勝](../Page/スーペルコパ・デ・エスパーニャ.md "wikilink") |- |bgcolor=silver|[USC](../Page/UEFAスーパーカップ.md "wikilink")||bgcolor=silver|準優勝 |- |2008-09 |align=right bgcolor=\#cc9966|**3** |align=right|38||align=right|21||align=right|7||align=right|10 |align=right|54||align=right|39||align=right|**70** ||準決勝敗退 ||[UC](https://ja.wikipedia.org/wiki/UEFAカップ_2008-09 "wikilink")|||グループステージ敗退 | |- |2009-10 |align=right |**4** |align=right|38||align=right|19||align=right|6||align=right|13 |align=right|65||align=right|49||align=right|**63** |bgcolor=gold|優勝 ||[CL](../Page/UEFAチャンピオンズリーグ.md "wikilink")|||ベスト16 | |- | rowspan="2" |2010-11 | rowspan="2" align="right" |**5** | rowspan="2" align="right" |38|| rowspan="2" align="right" |17|| rowspan="2" align="right" |7|| rowspan="2" align="right" |14 | rowspan="2" align="right" |62|| rowspan="2" align="right" |61|| rowspan="2" align="right" |**58** | rowspan="2" |準決勝敗退 ||[CL](../Page/UEFAチャンピオンズリーグ.md "wikilink")|||プレーオフ敗退 | rowspan="2" bgcolor="silver" | [SCE準優勝](../Page/スーペルコパ・デ・エスパーニャ.md "wikilink") |- |[EL](../Page/UEFAヨーロッパリーグ.md "wikilink") |ベスト32 |- |2011-12 | align="right" |**9** | align="right" |38|| align="right" |13|| align="right" |11|| align="right" |14 | align="right" |48|| align="right" |47|| align="right" |**50** ||ベスト16 ||[EL](../Page/UEFAヨーロッパリーグ.md "wikilink")|||プレーオフ敗退 | |- |2012-13 | align="right" |**9** | align="right" |38|| align="right" |14|| align="right" |8|| align="right" |16 | align="right" |58|| align="right" |54|| align="right" |**50** ||準決勝敗退 ||||| |- |2013-14 | align="right" |**5** | align="right" |38|| align="right" |18|| align="right" |9|| align="right" |11 | align="right" |69|| align="right" |52|| align="right" |**63** ||ベスト16 | bgcolor="gold" |[EL](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2013-14 "wikilink")|| bgcolor="gold" |優勝 | |- |2014-15 | align="right" |**5** | align="right" |38|| align="right" |23|| align="right" |7|| align="right" |8 | align="right" |71|| align="right" |45|| align="right" |**76** ||準々決勝敗退 | bgcolor="gold" |[EL](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2014-15 "wikilink")|| bgcolor="gold" |優勝 | |- | rowspan="2" |2015-16 | rowspan="2" align="right" |**7** | rowspan="2" align="right" |38|| rowspan="2" align="right" |14|| rowspan="2" align="right" |10|| rowspan="2" align="right" |14 | rowspan="2" align="right" |51|| rowspan="2" align="right" |50|| rowspan="2" align="right" |**52** | rowspan="2" bgcolor="silver" | 準優勝 |[CL](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2015-16 "wikilink")||グループステージ敗退 | rowspan="2" | |- |bgcolor=gold|[EL](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2015-16 "wikilink")||bgcolor=gold|優勝 |- |2016-17 |align=right |**4 |align=right|38||align=right|21||align=right|9||align=right|8 |align=right|69||align=right|49||align=right|**72 ||ベスト16 ||[CL](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2016-17 "wikilink") |ベスト16 | |- |2017-18 |align=right |**7 |align=right|38||align=right|17||align=right|7||align=right|14 |align=right|49||align=right|58||align=right|**58 |bgcolor="silver" | 準優勝 |[CL](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2017-18 "wikilink") |ベスト16 | |- |2018-19 |align=right |**6 |align=right|38||align=right|17||align=right|8||align=right|13 |align=right|62||align=right|47||align=right|**59 |準々決勝敗退 |[EL](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2018-19 "wikilink") |ベスト16 | |- |2019-20 |align=right |*' |align=right|38||align=right|　||align=right|　||align=right| |align=right|　||align=right|　||align=right|*' |ベスト16 |[EL](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2019-20 "wikilink") |*ラウンド16* | |}
+|| bgcolor="gold" | 優勝 | |- |rowspan="2"|2007-08 |rowspan="2" align=right |**5** |rowspan="2" align=right|38||rowspan="2" align=right|20||rowspan="2" align=right|4||rowspan="2" align=right|14 |rowspan="2" align=right|75||rowspan="2" align=right|49||rowspan="2" align=right|**64** |rowspan="2"|ベスト16 ||[CL](../Page/UEFAチャンピオンズリーグ.md "wikilink")|||ベスト16 |rowspan="2" bgcolor=gold| [SCE優勝](../Page/スーペルコパ・デ・エスパーニャ.md "wikilink") |- |bgcolor=silver|[USC](../Page/UEFAスーパーカップ.md "wikilink")||bgcolor=silver|準優勝 |- |2008-09 |align=right bgcolor=\#cc9966|**3** |align=right|38||align=right|21||align=right|7||align=right|10 |align=right|54||align=right|39||align=right|**70** ||準決勝敗退 ||[UC](https://ja.wikipedia.org/wiki/UEFAカップ_2008-09 "wikilink")|||グループステージ敗退 | |- |2009-10 |align=right |**4** |align=right|38||align=right|19||align=right|6||align=right|13 |align=right|65||align=right|49||align=right|**63** |bgcolor=gold|優勝 ||[CL](../Page/UEFAチャンピオンズリーグ.md "wikilink")|||ベスト16 | |- | rowspan="2" |2010-11 | rowspan="2" align="right" |**5** | rowspan="2" align="right" |38|| rowspan="2" align="right" |17|| rowspan="2" align="right" |7|| rowspan="2" align="right" |14 | rowspan="2" align="right" |62|| rowspan="2" align="right" |61|| rowspan="2" align="right" |**58** | rowspan="2" |準決勝敗退 ||[CL](../Page/UEFAチャンピオンズリーグ.md "wikilink")|||プレーオフ敗退 | rowspan="2" bgcolor="silver" | [SCE準優勝](../Page/スーペルコパ・デ・エスパーニャ.md "wikilink") |- |[EL](../Page/UEFAヨーロッパリーグ.md "wikilink") |ベスト32 |- |2011-12 | align="right" |**9** | align="right" |38|| align="right" |13|| align="right" |11|| align="right" |14 | align="right" |48|| align="right" |47|| align="right" |**50** ||ベスト16 ||[EL](../Page/UEFAヨーロッパリーグ.md "wikilink")|||プレーオフ敗退 | |- |2012-13 | align="right" |**9** | align="right" |38|| align="right" |14|| align="right" |8|| align="right" |16 | align="right" |58|| align="right" |54|| align="right" |**50** ||準決勝敗退 ||||| |- |2013-14 | align="right" |**5** | align="right" |38|| align="right" |18|| align="right" |9|| align="right" |11 | align="right" |69|| align="right" |52|| align="right" |**63** ||ベスト16 | bgcolor="gold" |[EL](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2013-14 "wikilink")|| bgcolor="gold" |優勝 | |- |2014-15 | align="right" |**5** | align="right" |38|| align="right" |23|| align="right" |7|| align="right" |8 | align="right" |71|| align="right" |45|| align="right" |**76** ||準々決勝敗退 | bgcolor="gold" |[EL](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2014-15 "wikilink")|| bgcolor="gold" |優勝 | |- | rowspan="2" |2015-16 | rowspan="2" align="right" |**7** | rowspan="2" align="right" |38|| rowspan="2" align="right" |14|| rowspan="2" align="right" |10|| rowspan="2" align="right" |14 | rowspan="2" align="right" |51|| rowspan="2" align="right" |50|| rowspan="2" align="right" |**52** | rowspan="2" bgcolor="silver" | 準優勝 |[CL](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2015-16 "wikilink")||グループステージ敗退 | rowspan="2" | |- |bgcolor=gold|[EL](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2015-16 "wikilink")||bgcolor=gold|優勝 |- |2016-17 |align=right |**4 |align=right|38||align=right|21||align=right|9||align=right|8 |align=right|69||align=right|49||align=right|**72 ||ベスト16 ||[CL](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2016-17 "wikilink") |ベスト16 | |- |2017-18 |align=right |**7 |align=right|38||align=right|17||align=right|7||align=right|14 |align=right|49||align=right|58||align=right|**58 |bgcolor="silver" | 準優勝 |[CL](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2017-18 "wikilink") |ベスト16 | |- |2018-19 |align=right |**6 |align=right|38||align=right|17||align=right|8||align=right|13 |align=right|62||align=right|47||align=right|**59 |準々決勝敗退 |[EL](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2018-19 "wikilink") |ベスト16 | |- |2019-20 |align=right |**4 |align=right|38||align=right|19||align=right|13||align=right|6 |align=right|54||align=right|34||align=right|**70 |ベスト16 |bgcolor=gold|[EL](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2019-20 "wikilink") |bgcolor=gold|優勝 | |- |2020-21 |align=right |*' |align=right|38||align=right|　||align=right|　||align=right| |align=right|　||align=right|　||align=right|*' | |[CL](../Page/UEFAチャンピオンズリーグ_2020-21.md "wikilink") |*グループステージ* | |}
 
   -
     {| class="wikitable"
@@ -647,7 +647,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><p>シーズン</p></td>
 </tr>
 <tr class="odd">
-<td><p>1957-58</p></td>
+<td><p><a href="../Page/UEFAチャンピオンズカップ_1957-58.md" title="wikilink">1957-58</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ラウンド16</p></td>
@@ -656,35 +656,82 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><p>準々決勝</p></td>
 </tr>
 <tr class="even">
-<td><p>2007-08</p></td>
+<td><p><a href="../Page/UEFAチャンピオンズリーグ_2007-08.md" title="wikilink">2007-08</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>グループステージ<br />
-(Group H)</p></td>
+<td><p>グループH</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/SKスラヴィア・プラハ.md" title="wikilink">SKスラヴィア・プラハ</a></p></td>
+<td><p><a href="../Page/SKスラヴィア・プラハ.md" title="wikilink">スラヴィア・プラハ</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/FCステアウア・ブカレスト.md" title="wikilink">FCステアウア・ブカレスト</a></p></td>
-</tr>
-<tr class="even">
-<td><p>ラウンド16</p></td>
-</tr>
-<tr class="odd">
-<td><p>2009-10</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/レンジャーズFC.md" title="wikilink">レンジャーズFC</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/VfBシュトゥットガルト" title="wikilink">VfBシュトゥットガルト</a></p></td>
+<td><p><a href="../Page/FCステアウア・ブカレスト.md" title="wikilink">ステアウア・ブカレスト</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ラウンド16</p></td>
 </tr>
 <tr class="odd">
-<td><p>2010-11</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2009-10" title="wikilink">2009-10</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/レンジャーズFC.md" title="wikilink">レンジャーズ</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/VfBシュトゥットガルト" title="wikilink">シュトゥットガルト</a></p></td>
+</tr>
+<tr class="even">
+<td><p>ラウンド16</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2010-11" title="wikilink">2010-11</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2015-16" title="wikilink">2015-16</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/ユヴェントスFC.md" title="wikilink">ユヴェントス</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/マンチェスター・シティFC.md" title="wikilink">マンチェスター・シティ</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2016-17" title="wikilink">2016-17</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/オリンピック・リヨン" title="wikilink">リヨン</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/NKディナモ・ザグレブ.md" title="wikilink">ディナモ・ザグレブ</a></p></td>
+</tr>
+<tr class="even">
+<td><p>ラウンド16</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2017-18" title="wikilink">2017-18</a></p></td>
+</tr>
+<tr class="even">
+<td><p>グループE</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/NKマリボル" title="wikilink">マリボル</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/FCスパルタク・モスクワ.md" title="wikilink">スパルタク・モスクワ</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>ラウンド16</p></td>
+</tr>
+<tr class="even">
+<td><p>準々決勝</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/UEFAチャンピオンズリーグ_2020-21.md" title="wikilink">2020-21</a></p></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
 </tr>
 <tr class="even">
 <td><p>UEFAカップ / UEFAヨーロッパリーグ</p></td>
@@ -693,7 +740,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><p>シーズン</p></td>
 </tr>
 <tr class="even">
-<td><p>1982-83</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1982-83" title="wikilink">1982-83</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ラウンド32</p></td>
@@ -702,60 +749,16 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><p>ラウンド16</p></td>
 </tr>
 <tr class="odd">
-<td><p>1983-84</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1983-84" title="wikilink">1983-84</a></p></td>
 </tr>
 <tr class="even">
-<td><p>1990-91</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1990-91" title="wikilink">1990-91</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ラウンド32</p></td>
 </tr>
 <tr class="even">
-<td><p>1995-96</p></td>
-</tr>
-<tr class="odd">
-<td><p>ラウンド32</p></td>
-</tr>
-<tr class="even">
-<td><p>ラウンド16</p></td>
-</tr>
-<tr class="odd">
-<td><p>2004-05</p></td>
-</tr>
-<tr class="even">
-<td><p>グループステージ<br />
-(Group H)</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/FCゼニト・サンクトペテルブルク.md" title="wikilink">FCゼニト・サンクトペテルブルク</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/AEKアテネFC" title="wikilink">AEKアテネFC</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/LOSCリール・メトロポール.md" title="wikilink">LOSCリール・メトロポール</a></p></td>
-</tr>
-<tr class="even">
-<td><p>ラウンド32</p></td>
-</tr>
-<tr class="odd">
-<td><p>ラウンド16</p></td>
-</tr>
-<tr class="even">
-<td><p>2005-06</p></td>
-</tr>
-<tr class="odd">
-<td><p>グループステージ<br />
-(Group H)</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/FCゼニト・サンクトペテルブルク.md" title="wikilink">FCゼニト・サンクトペテルブルク</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/ヴィトーリアSC.md" title="wikilink">ヴィトーリアSC</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/ボルトン・ワンダラーズFC.md" title="wikilink">ボルトン・ワンダラーズFC</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1995-96" title="wikilink">1995-96</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ラウンド32</p></td>
@@ -764,29 +767,40 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><p>ラウンド16</p></td>
 </tr>
 <tr class="odd">
-<td><p>準々決勝</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2004-05" title="wikilink">2004-05</a></p></td>
 </tr>
 <tr class="even">
-<td><p>準決勝</p></td>
+<td><p>グループH</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>決勝</strong></p></td>
+<td><p><a href="../Page/FCゼニト・サンクトペテルブルク.md" title="wikilink">ゼニト</a></p></td>
 </tr>
 <tr class="even">
-<td><p>2006-07</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/AEKアテネFC" title="wikilink">AEKアテネ</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>グループステージ<br />
-(Group C)</p></td>
+<td><p><a href="../Page/LOSCリール・メトロポール.md" title="wikilink">リール</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/SCブラガ.md" title="wikilink">SCブラガ</a></p></td>
+<td><p>ラウンド32</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/グラスホッパー・クラブ・チューリッヒ.md" title="wikilink">グラスホッパー・クラブ・チューリッヒ</a></p></td>
+<td><p>ラウンド16</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/AZアルクマール.md" title="wikilink">AZアルクマール</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2005-06" title="wikilink">2005-06</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>グループH</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/FCゼニト・サンクトペテルブルク.md" title="wikilink">ゼニト</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/ヴィトーリアSC.md" title="wikilink">ヴィトーリア・ギマランイス</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/ボルトン・ワンダラーズFC.md" title="wikilink">ボルトン</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ラウンド32</p></td>
@@ -804,11 +818,40 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><p><strong>決勝</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>2008-09</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2006-07" title="wikilink">2006-07</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>グループステージ<br />
-(Group C)</p></td>
+<td><p>グループC</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/SCブラガ.md" title="wikilink">ブラガ</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/グラスホッパー・クラブ・チューリッヒ.md" title="wikilink">グラスホッパーズ</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/AZアルクマール.md" title="wikilink">AZ</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>ラウンド32</p></td>
+</tr>
+<tr class="even">
+<td><p>ラウンド16</p></td>
+</tr>
+<tr class="odd">
+<td><p>準々決勝</p></td>
+</tr>
+<tr class="even">
+<td><p>準決勝</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>決勝</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2008-09" title="wikilink">2008-09</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>グループC</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/スタンダール・リエージュ.md" title="wikilink">スタンダール・リエージュ</a></p></td>
@@ -817,26 +860,37 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><p><a href="../Page/パルチザン・ベオグラード.md" title="wikilink">パルチザン・ベオグラード</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/UCサンプドリア.md" title="wikilink">UCサンプドリア</a></p></td>
+<td><p><a href="../Page/UCサンプドリア.md" title="wikilink">サンプドリア</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>2011-12</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2010-11" title="wikilink">2010-11</a></p></td>
 </tr>
 <tr class="even">
-<td><p>2013-14</p></td>
+<td><p><a href="../Page/ボルシア・ドルトムント.md" title="wikilink">ボルシア・ドルトムント</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>予選プレーオフ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FCカルパティ・リヴィウ" title="wikilink">カルパティ・リヴィウ</a></p></td>
 </tr>
 <tr class="even">
-<td><p>グループステージ<br />
-(Group H)</p></td>
+<td><p>ラウンド32</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/GDエストリル・プライア" title="wikilink">GDエストリル・プライア</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2011-12" title="wikilink">2011-12</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/SCフライブルク.md" title="wikilink">SCフライブルク</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2013-14" title="wikilink">2013-14</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>プレーオフ</p></td>
+</tr>
+<tr class="even">
+<td><p>グループH</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/SCフライブルク.md" title="wikilink">フライブルク</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/FCスロヴァン・リベレツ.md" title="wikilink">スロヴァン・リベレツ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ラウンド32</p></td>
@@ -854,10 +908,10 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><p><strong>決勝</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>2014-15</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2014-15" title="wikilink">2014-15</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/HNKリエカ.md" title="wikilink">HNKリエカ</a></p></td>
+<td><p><a href="../Page/HNKリエカ.md" title="wikilink">リエカ</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/スタンダール・リエージュ.md" title="wikilink">スタンダール・リエージュ</a></p></td>
@@ -878,25 +932,88 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><p><strong>決勝</strong></p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2015-16" title="wikilink">2015-16</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>ラウンド16</p></td>
+</tr>
+<tr class="even">
+<td><p>準々決勝</p></td>
+</tr>
+<tr class="odd">
+<td><p>準決勝</p></td>
+</tr>
+<tr class="even">
+<td><p>決勝</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2018-19" title="wikilink">2018-19</a></p></td>
+</tr>
+<tr class="even">
+<td><p>予選3回戦</p></td>
+</tr>
+<tr class="odd">
+<td><p>プレーオフ</p></td>
+</tr>
+<tr class="even">
+<td><p>グループJ</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/スタンダール・リエージュ.md" title="wikilink">スタンダール・リエージュ</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/アクヒサル・ベレディイェスポル" title="wikilink">アクヒサル・ベレディイェスポル</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>ラウンド32</p></td>
+</tr>
+<tr class="even">
+<td><p>ラウンド16</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2019-20" title="wikilink">2019-20</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/カラバフFK" title="wikilink">カラバフ</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/F91デュドランジュ.md" title="wikilink">F91デュドランジュ</a></p></td>
+</tr>
+<tr class="even">
+<td><p>ラウンド32</p></td>
+</tr>
+<tr class="odd">
+<td><p>ラウンド16</p></td>
+</tr>
+<tr class="even">
+<td><p>準々決勝</p></td>
+</tr>
+<tr class="odd">
+<td><p>準決勝</p></td>
+</tr>
+<tr class="even">
+<td><p>決勝</p></td>
+</tr>
+<tr class="odd">
 <td><p>UEFAカップウィナーズカップ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>シーズン</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1962-63</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>インターシティーズ・フェアーズカップ</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>シーズン</p></td>
 </tr>
-<tr class="odd">
-<td><p>1966-67</p></td>
-</tr>
 <tr class="even">
-<td><p>1970-71</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/インターシティーズ・フェアーズカップ1966-67" title="wikilink">1966-67</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/インターシティーズ・フェアーズカップ1970-71" title="wikilink">1970-71</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -937,9 +1054,9 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 
 [350px](https://ja.wikipedia.org/wiki/ファイル:Soccer_Field_Transparant.svg "wikilink")
 
-  - [2020年](../Page/2020年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[8月29日](../Page/8月29日.md "wikilink")現在
 
-★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Brazil.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Morocco.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Benin.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Canada.svg "wikilink") )★   ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink"))    ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))
+★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Morocco.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Benin.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Canada.svg "wikilink") )★   ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink"))     ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))
 
 括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 
@@ -1136,6 +1253,8 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
   - [ディディエ・ゾコラ](../Page/ディディエ・ゾコラ.md "wikilink") 2009-2011
 
   - [イヴァン・ラキティッチ](../Page/イヴァン・ラキティッチ.md "wikilink") 2011.1-2014
+
+  - [清武弘嗣](../Page/清武弘嗣.md "wikilink") 2016-2017
 
 </div>
 

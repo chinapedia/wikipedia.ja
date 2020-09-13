@@ -46,7 +46,7 @@
   - music japan リクエスト（生放送）
   - music japan リクエスト [J:COMスペシャル](../Page/ジュピターテレコム.md "wikilink")（生放送、本放送は「J:COMチャンネル」でもサイマル放送）
   - Shohjo隊 あいどる☆一番星（[酒井瞳](https://ja.wikipedia.org/wiki/酒井瞳 "wikilink")（[アイドリング\!\!\!](https://ja.wikipedia.org/wiki/アイドリング!!!_\(グループ\) "wikilink")）、[Shohjo隊](https://ja.wikipedia.org/wiki/Shohjo隊 "wikilink")）
-  - アイ活\!\!（[遠藤舞](../Page/遠藤舞.md "wikilink")）
+  - アイ活\!\!（[遠藤舞](../Page/遠藤淳_\(ディスクジョッキー\).md "wikilink")）
   - 週刊\![加藤和樹](../Page/加藤和樹.md "wikilink")
   - [SHU-I](https://ja.wikipedia.org/wiki/SHU-I "wikilink") インソクのキラキラ遺産
   - MJインタビュー
@@ -63,7 +63,7 @@
 
   - 生リク510
   - 闘え\![mjtvチャンネルアーティスト](http://www.mjtv.jp/ch_artist/)
-  - なんちゃってホストクラブ（生放送、マネージャー：[遠藤淳](../Page/遠藤淳.md "wikilink")、ホスト：[仙石幸一](../Page/仙石幸一.md "wikilink")・[中岡優介](https://ja.wikipedia.org/wiki/中岡優介 "wikilink")・[北原昌平](https://ja.wikipedia.org/wiki/北原昌平 "wikilink")・[酒井啓輔](https://ja.wikipedia.org/wiki/酒井啓輔 "wikilink")）
+  - なんちゃってホストクラブ（生放送、マネージャー：[遠藤淳](../Page/遠藤淳_\(ディスクジョッキー\).md "wikilink")、ホスト：[仙石幸一](../Page/仙石幸一.md "wikilink")・[中岡優介](https://ja.wikipedia.org/wiki/中岡優介 "wikilink")・[北原昌平](https://ja.wikipedia.org/wiki/北原昌平 "wikilink")・[酒井啓輔](https://ja.wikipedia.org/wiki/酒井啓輔 "wikilink")）
   - 生リクタイム\! （生放送、VJ 月曜奇数週：千石幸一・偶数週：[アズマッチ](https://ja.wikipedia.org/wiki/アズマッチ "wikilink")、火曜奇数週：[中庭浩史](https://ja.wikipedia.org/wiki/中庭浩史 "wikilink")・偶数週：[さぁさ](https://ja.wikipedia.org/wiki/さぁさ "wikilink")・音楽占い：[檜垣信子](https://ja.wikipedia.org/wiki/檜垣信子 "wikilink")、水曜第1週と第3週：[大垣知哉](https://ja.wikipedia.org/wiki/大垣知哉 "wikilink")・第2週：北原昌平・第4週：酒井啓輔、木曜は視聴者からの動画メールによるリクエスト）
   - BREAK TV
   - CD INDEX

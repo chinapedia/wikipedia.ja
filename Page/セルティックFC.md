@@ -3,7 +3,7 @@
 
 **セルティック・フットボール・クラブ**（, ）は、[スコットランド](../Page/スコットランド.md "wikilink")南西部の都市[グラスゴー](../Page/グラスゴー.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。クラブは1887年に創設され、1888年に初試合を行った。セルティックは同じグラスゴーを本拠地とする[レンジャーズとライバル関係にあり](../Page/レンジャーズFC.md "wikilink")、これら2つのクラブはまとめて[オールドファーム](https://ja.wikipedia.org/wiki/オールドファーム "wikilink")として知られている。
 
-セルティックは[スコティッシュ・プレミアリーグ](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")を50度、[スコティッシュカップ](../Page/スコティッシュカップ.md "wikilink")を39度、[スコティッシュリーグカップ](../Page/スコティッシュリーグカップ.md "wikilink")を18度制覇している。1967年に史上初の五冠を達成した。この年はイギリスのクラブとして初めて\[1\]\[2\][ヨーロピアンカップを制覇しただけでなく](../Page/UEFAチャンピオンズカップ_1966-67.md "wikilink")、スコティッシュリーグ、スコティッシュカップ、スコティッシュリーグカップ、[グラスゴーカップ](https://ja.wikipedia.org/wiki/グラスゴーカップ "wikilink")を制した。また、[1970年ヨーロピアンカップ決勝と](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1969-70 "wikilink")2003年[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")決勝にも進出した\[3\]\[4\]\[5\]。
+セルティックは[スコティッシュ・プレミアリーグ](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")を51回、[スコティッシュカップ](../Page/スコティッシュカップ.md "wikilink")を39回、[スコティッシュリーグカップ](../Page/スコティッシュリーグカップ.md "wikilink")を19回制覇している。1967年に史上初の五冠を達成した。この年はイギリスのクラブとして初めて\[1\]\[2\][ヨーロピアンカップを制覇しただけでなく](../Page/UEFAチャンピオンズカップ_1966-67.md "wikilink")、スコティッシュリーグ、スコティッシュカップ、スコティッシュリーグカップ、[グラスゴーカップ](https://ja.wikipedia.org/wiki/グラスゴーカップ "wikilink")を制した。また、[1970年ヨーロピアンカップ決勝と](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1969-70 "wikilink")2003年[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")決勝にも進出した\[3\]\[4\]\[5\]。
 
 ## 概要
 
@@ -101,8 +101,8 @@
 
 [Celtic_FC_trophy_case.JPG](https://ja.wikipedia.org/wiki/File:Celtic_FC_trophy_case.JPG "fig:Celtic_FC_trophy_case.JPG")に飾られているトロフィー。\]\]
 
-  - **[スコティッシュ・プレミアリーグ](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")/[スコティッシュ・プレミアシップ](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアシップ "wikilink")：50回**
-      - 1892-93, 1893-94, 1895-96, 1897-98, 1904-05, 1905-06, 1906-07, 1907-08, 1908-09, 1909-10, 1913-14, 1914-15, 1915-16, 1916-17, 1918-19, 1921-22, 1925-26, 1935-36, 1937-38, 1953-54, 1965-66, 1966-67, 1967-68, 1968-69, 1969-70, 1970-71, 1971-72, 1972-73, 1973-74, 1976-77, 1978-79, 1980-81, 1981-82, 1985-86, 1987-88, 1997-98, 2000-01, 2001-02, 2003-04, 2005-06, 2006-07, 2007-08, 2011-12, 2012-13, 2013-14, 2014-15, 2015-16, 2016-17, 2017-18, 2018-19
+  - **[スコティッシュ・プレミアリーグ](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")/[スコティッシュ・プレミアシップ](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアシップ "wikilink")：51回**
+      - 1892-93, 1893-94, 1895-96, 1897-98, 1904-05, 1905-06, 1906-07, 1907-08, 1908-09, 1909-10, 1913-14, 1914-15, 1915-16, 1916-17, 1918-19, 1921-22, 1925-26, 1935-36, 1937-38, 1953-54, 1965-66, 1966-67, 1967-68, 1968-69, 1969-70, 1970-71, 1971-72, 1972-73, 1973-74, 1976-77, 1978-79, 1980-81, 1981-82, 1985-86, 1987-88, 1997-98, 2000-01, 2001-02, 2003-04, 2005-06, 2006-07, 2007-08, 2011-12, 2012-13, 2013-14, 2014-15, 2015-16, 2016-17, 2017-18, 2018-19, 2019-20
 
 <!-- end list -->
 
@@ -111,8 +111,8 @@
 
 <!-- end list -->
 
-  - **[スコティッシュリーグカップ](../Page/スコティッシュリーグカップ.md "wikilink")：18回**
-      - 1956-57, 1957-58, 1965-66, 1966-67, 1967-68, 1968-69, 1969-70, 1974-75, 1982-83, 1997-98, 1999-2000, 2000-01, 2005-06, 2008-09, 2014-15, 2016-17, 2017-18, 2018-19
+  - **[スコティッシュリーグカップ](../Page/スコティッシュリーグカップ.md "wikilink")：19回**
+      - 1956-57, 1957-58, 1965-66, 1966-67, 1967-68, 1968-69, 1969-70, 1974-75, 1982-83, 1997-98, 1999-2000, 2000-01, 2005-06, 2008-09, 2014-15, 2016-17, 2017-18, 2018-19, 2019-20
 
 <!-- end list -->
 
@@ -155,7 +155,7 @@
 
 | シーズン    | カテゴリ                                                                | 順位     | 試  | 勝  | 引 | 敗   | 得  | 失   | 点      | [カップ](../Page/スコティッシュカップ.md "wikilink") | [リーグカップ](../Page/スコティッシュリーグカップ.md "wikilink")                              | [UEFACL](../Page/UEFAチャンピオンズリーグ.md "wikilink")\[92\]                       | [UEFAEL](../Page/UEFAヨーロッパリーグ.md "wikilink")\[93\]                     |
 | ------- | ------------------------------------------------------------------- | ------ | -- | -- | - | --- | -- | --- | ------ | --------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| 2019-20 | [プレミアシップ](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアシップ "wikilink") | **位**  | 38 |    |   |     |    |     |        | ''' '''                                 | ''' '''                                                                    | [予選3回戦敗退](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2019-20 "wikilink") | [ベスト32](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2019-20 "wikilink") |
+| 2019-20 | [プレミアシップ](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアシップ "wikilink") | **1位** | 38 |    |   |     |    |     |        | ''' '''                                 | ''' '''                                                                    | [予選3回戦敗退](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2019-20 "wikilink") | [ベスト32](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2019-20 "wikilink") |
 | 2018-19 | **1位**                                                              | 38     | 27 | 6  | 5 | 77  | 20 | 87  | **優勝** | **優勝**                                  | [予選3回戦敗退](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2018-19 "wikilink") | [ベスト32](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2018-19 "wikilink")     |                                                                        |
 | 2017-18 | **1位**                                                              | 38     | 24 | 10 | 4 | 73  | 25 | 82  | **優勝** | **優勝**                                  | [GS敗退](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2017-18 "wikilink")    | [ベスト32](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2017-18 "wikilink")     |                                                                        |
 | 2016-17 | **1位**                                                              | 38     | 34 | 4  | 0 | 106 | 24 | 106 | **優勝** | **優勝**                                  | [GS敗退](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2016-17 "wikilink")    | ‐                                                                          |                                                                        |
@@ -188,7 +188,7 @@
 
 </div>
 
-\[94\]      ★  ([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))  ★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Iran.svg "wikilink"))★   ★       ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Morocco.svg "wikilink"))★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))   ★ ★
+\[94\]  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink"))   ★  ([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Albania.svg "wikilink"))★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Serbia.svg "wikilink"))★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cameroon.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_French_Guiana.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Morocco.svg "wikilink"))★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink")) ★  ★
 
 ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 

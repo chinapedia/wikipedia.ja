@@ -28,7 +28,7 @@
 
 ## 来歴
 
-### 結成～CDデビュー
+### 1993年結成～1996年オーディション
 
 [1993年](../Page/1993年.md "wikilink")、高校の文化祭で2年生の永谷と3年生の椎名が知り合いバンドを結成。当時は2人の他、永谷と同じ軽音部の[ベーシスト](../Page/ベーシスト.md "wikilink")と[キーボディスト](https://ja.wikipedia.org/wiki/キーボディスト "wikilink")が在籍しており、ドラムレスバンドだった\[3\]。
 
@@ -36,7 +36,7 @@
 
 [1996年](../Page/1996年.md "wikilink")、「[AXIA](https://ja.wikipedia.org/wiki/AXIA "wikilink")アーティストオーディション'96」の最終審査会に残る。数ヶ月後に現在の所属事務所から[スカウトされる](../Page/スカウト_\(勧誘\).md "wikilink")。
 
-### 1998年～2000年
+### 1998年CDデビュー～2000年
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月27日](../Page/5月27日.md "wikilink")、ユニバーサルミュージック（[旧マーキュリー・レコード](https://ja.wikipedia.org/wiki/フィリップス・レコード#日本での事業 "wikilink")）よりシングル『それじゃあバイバイ』でデビュー。
 
@@ -52,7 +52,7 @@
 
 2000年11月～12月、初の全国ホールツアー「SURFACE\#2　Face to Fate」を敢行。全国10ヶ所で約16,000人を動員し、最終日の国際フォーラムのチケットは即日完売。
 
-### 2001年～移籍
+### 2001年～2005年移籍
 
 [2001年](../Page/2001年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")、10thシングル「[.5 (HALF) / about love](https://ja.wikipedia.org/wiki/.5_\(HALF\)_/_about_love "wikilink")」、1stライブアルバム「Phase to Face」を同時リリース。
 
@@ -66,7 +66,7 @@
 
 2004年11月、「SURFACE\#5 HANDS」開催。
 
-### 2005年～解散
+### 2005年～2010年解散
 
 [2005年](../Page/2005年.md "wikilink")10月、ソニー・ミュージックレコーズに移籍。これに併せユニット名も[大文字](../Page/大文字.md "wikilink")「SURFACE」から[小文字](../Page/小文字.md "wikilink")「surface」に改名する。
 
@@ -179,6 +179,20 @@
 収録曲「キミスター★」：日本テレビ系『NNN Newsリアルタイム』“リアルSPORTSテーマソング”</p></td>
 <td><p>18位</p></td>
 </tr>
+<tr class="odd">
+<td><p>7th</p></td>
+<td><p>2019年7月24日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ON" title="wikilink">ON</a></p></td>
+<td><p>11年振りのオリジナルアルバム</p></td>
+<td><p>21位</p></td>
+</tr>
+<tr class="even">
+<td><p>8th</p></td>
+<td><p>2020年10月7日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/PASS_THE_BEAT" title="wikilink">PASS THE BEAT</a></p></td>
+<td><p>初回限定版A、B、通常版の3形態で発売</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -287,7 +301,9 @@
 
 :\* 「[一斉の声](https://ja.wikipedia.org/wiki/一斉の声 "wikilink")」（作詞：椎名慶治、作曲：TAKUYA）
 
-:\* 「[Rain of mind](https://ja.wikipedia.org/wiki/一斉の声 "wikilink")」 （作詞：椎名慶治 / 作曲：川副克弥）
+:\* 「[Rain of mind](https://ja.wikipedia.org/wiki/一斉の声 "wikilink")」 （作詞：椎名慶治 / 作曲：川副克弥） 羽田野渉
+
+  - 「フワリ フワリ」（作詞：椎名慶治、野口圭　作曲：椎名慶治、永谷喬夫）2019年
 
 ## 出典
 
@@ -298,7 +314,7 @@
 
   - \- 公式サイト
 
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:過去の研音グループ所属者](https://ja.wikipedia.org/wiki/Category:過去の研音グループ所属者 "wikilink") [Category:1993年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1993年に結成した音楽グループ "wikilink") [Category:2010年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2010年に解散した音楽グループ "wikilink") [Category:2018年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2018年に再結成した音楽グループ "wikilink")
+[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:過去の研音グループ所属者](https://ja.wikipedia.org/wiki/Category:過去の研音グループ所属者 "wikilink") [Category:1993年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1993年に結成した音楽グループ "wikilink") [Category:2010年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2010年に解散した音楽グループ "wikilink") [Category:2018年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2018年に再結成した音楽グループ "wikilink")
 
 1.
 2.

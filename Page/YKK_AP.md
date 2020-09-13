@@ -3,7 +3,7 @@
 
 **YKK AP株式会社**（ワイケイケイエイピー、）は、[アルミ](https://ja.wikipedia.org/wiki/アルミ "wikilink")[建材](https://ja.wikipedia.org/wiki/建材 "wikilink")メーカー。[YKK](../Page/YKK.md "wikilink")グループで[ファスナー事業と並ぶ中核事業を担う](https://ja.wikipedia.org/wiki/線ファスナー "wikilink")。アルミサッシの国内シェアは[LIXIL](https://ja.wikipedia.org/wiki/LIXIL "wikilink")（トステム）に次いで第2位。社名の「**AP**」の部分は「**A**rchitectural **P**roducts」の略。
 
-## 歴史
+## 沿革
 
   - [1957年](../Page/1957年.md "wikilink")（昭和32年） - 吉田工業（現・[YKK](../Page/YKK.md "wikilink")）の子会社で[スライドファスナーの輸出と伸銅品の営業を手がける](https://ja.wikipedia.org/wiki/線ファスナー "wikilink")「吉田商事」として発足
   - [1959年](../Page/1959年.md "wikilink")（昭和34年） - [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[黒部市](../Page/黒部市.md "wikilink")でアルミ溶解と押し出しの操業開始
@@ -22,28 +22,31 @@
   - [1986年](../Page/1986年.md "wikilink")（昭和61年） - アルミ建材初の海外一貫生産工場YKKアルミコ・インドネシア社（現・YKK APインドネシア社）設立
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年） - アルミ外装建材生産販売開始
   - [1988年](../Page/1988年.md "wikilink")（昭和63年） - 引違いサッシ7Hシリーズ「フレミング」生産販売開始
-  - 1989年 - YKK台湾社 AP事業部を開設。アメリカH.H.ロバートソン社・カプルスプロダクツ事業部とカーテンウォールにおいて技術提携
-  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年） - 商号を「ワイケイケイアーキテクチュラルプロダクツ株式会社」(YKK AP)に変更。ビル用システムサッシ「エクシマ」生産販売開始
-  - [1991年](../Page/1991年.md "wikilink")（平成3年） - 河内アルミニウム（現・YKK APエクステリア）を傘下に納める。YKK APアメリカ社を設立
-  - [1992年](../Page/1992年.md "wikilink")（平成4年） - 滑川工場（現・滑川事業所）が操業開始
-  - [1993年](../Page/1993年.md "wikilink")（平成5年） - R\&Dセンターを開設 商品開発機能を一元化
-  - [1994年](../Page/1994年.md "wikilink")（平成6年） - 建材製品の商標を｢YKK」から「YKK AP」に変更。YKKグループが環境憲章を制定
+  - [1989年](../Page/1989年.md "wikilink")（平成元年） - YKK台湾社 AP事業部を開設。アメリカH.H.ロバートソン社・カプルスプロダクツ事業部とカーテンウォールにおいて技術提携
+  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年） - 商号を「YKKアーキテクチュラルプロダクツ株式会社」に変更し、YKK APが創業
+  - [1991年](../Page/1991年.md "wikilink")（平成3年） - 河内アルミニウム工業株式会社（旧 YKK APエクステリア株式会社）の発行済み全株式を取得。YKK APアメリカ社を設立
+  - [1992年](../Page/1992年.md "wikilink")（平成4年） - 滑川工場（富山県 現 滑川製造所）が操業開始
+  - [1994年](../Page/1994年.md "wikilink")（平成6年） - 建材製品の商標を｢YKK」から「YKK AP」に変更。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年） - 荻生工場（現・黒部荻生製造所）が操業開始
-  - [1999年](../Page/1999年.md "wikilink")（平成11年） - 大連YKK AP社（現・YKK AP大連社）設立
-  - [2000年](../Page/2000年.md "wikilink")（平成12年） - アルミ樹脂複合サッシ「エピソード70」生産販売開始
-  - [2001年](../Page/2001年.md "wikilink")（平成13年） - YKK AP深セン社設立。沖縄YKK AP以外の国内地域販売・製造会社を順次合併
-  - [2002年](../Page/2002年.md "wikilink")（平成14年） - 東陶機器株式会社（現・TOTO株式会社）、大建工業株式会社とリモデル分野で業務提携。商号を「YKK AP株式会社」に変更する
-  - [2003年](../Page/2003年.md "wikilink")（平成15年） - YKK株式会社の建材製造事業本部を統合し、YKKグループの建材事業を完全一体化。ビル用システムサッシ「SYSTEMA」シリーズの生産販売開始
-  - [2004年](../Page/2004年.md "wikilink")（平成16年） - 東陶機器株式会社（現・TOTO株式会社）、大建工業株式会社と「ショールーム広島」を開設
-  - [2005年](../Page/2005年.md "wikilink")（平成17年） - YKK APアメリカ社が「NAHBショー」に住宅用樹脂窓を出展。「YKK APショールーム品川」を開設
-  - [2006年](../Page/2006年.md "wikilink")（平成18年） - 窓事業ブランド「APW」第一弾商品として「APW700」「APW500」を発売
+  - [1999年](../Page/1999年.md "wikilink")（平成11年） - YKK AP香港社、大連YKK AP社（現・YKK AP大連社）を設立
+  - [2001年](../Page/2001年.md "wikilink")（平成13年） - YKK AP深圳社（現 YKK AP中国社）を設立。
+  - [2002年](../Page/2002年.md "wikilink")（平成14年） - 東陶機器株式会社（現 TOTO株式会社）、大建工業株式会社とリモデル分野で業務提携。YKK AP蘇州社を設立。商号を「YKK AP株式会社」に変更する。YKK中国投資社AP事業部（現 YKK AP中国投資社）を設立
+  - [2003年](../Page/2003年.md "wikilink")（平成15年） - YKK株式会社の建材製造事業本部を統合し、YKKグループの建材事業を完全一体化
+  - [2004年](../Page/2004年.md "wikilink")（平成16年） - 東陶機器株式会社（現 TOTO株式会社）、大建工業株式会社と「ショールーム広島」を開設
+  - [2005年](../Page/2005年.md "wikilink")（平成17年） - 「YKK APショールーム品川」（現 YKK AP体感ショールーム）を開設
+  - [2006年](../Page/2006年.md "wikilink")（平成18年） - 窓事業ブランド「APW」を発売開始
   - [2007年](../Page/2007年.md "wikilink")（平成19年） - 「価値検証センター」を開設
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年） - YKK AP FACADE社をシンガポールに設立。YKK AP上海社を設立
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年） - YKK AP FACADE社をシンガポールに設立。YKK AP上海社（現 YKK AP中国社）を設立
   - [2009年](../Page/2009年.md "wikilink")（平成21年） - 樹脂窓「APW330」を東北エリアから販売開始
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年） - 窓リフォームの新店舗ブランド「MADOショップ」を運営開始。テレビ[CMでは](../Page/コマーシャルメッセージ.md "wikilink")[チューリップの](../Page/チューリップ_\(バンド\).md "wikilink")「サボテンの花」、[テレサ・テン](../Page/テレサ・テン.md "wikilink")の「つぐない」が起用された（どちらの曲も「窓」にちなんだフレーズが登場している）。
-  - [2011年](../Page/2011年.md "wikilink")（平成23年）
-      - [3月31日](../Page/3月31日.md "wikilink") - 秋田工場（秋田県秋田市）閉鎖、東北事業所へ統合。
-      - 6月 - 創業以来初の創業家以外の社長が誕生\[1\]。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年） - 窓リフォームの新店舗ブランド「MADOショップ」を運営開始
+  - [2011年](../Page/2011年.md "wikilink")（平成23年） - 埼玉窓工場の操業を開始
+  - [2013年](../Page/2013年.md "wikilink")（平成26年）- インドのボルーカアルミニウム社（現 ボルーカエクストリュージョンズ社）の事業譲受
+  - [2014年](../Page/2014年.md "wikilink")（平成27年）- 大規模修繕会社｢株式会社ラクシー｣（現 YKK APラクシー）発行済み全株式を取得
+  - [2015年](../Page/2015年.md "wikilink")（平成27年）- YKK APタイ社を設立
+  - [2016年](../Page/2016年.md "wikilink")（平成28年）- YKK AP R\&Dセンターを開設
+  - [2017年](../Page/2017年.md "wikilink")（平成29年）- YKK AP R\&Dセンター（ドイツ）を開設。｢製品安全対策ゴールド企業｣に認定
+  - [2018年](../Page/2018年.md "wikilink")（平成30年）- YKK AP R\&Dセンター（インドネシア）を開設
+  - [2019年](../Page/2019年.md "wikilink")（令和元年）- YKK APアメリカ社がカナダのカーテンウォールメーカー「エリーAP社」の発行済み全株式を取得
 
 ## 広告
 
@@ -90,5 +93,3 @@
   - [リモデル.jp](http://re-model.jp/app/)
 
 [Category:YKKグループ](https://ja.wikipedia.org/wiki/Category:YKKグループ "wikilink") [Category:日本の金属製品メーカー](https://ja.wikipedia.org/wiki/Category:日本の金属製品メーカー "wikilink") [Category:建設資材に関する企業](https://ja.wikipedia.org/wiki/Category:建設資材に関する企業 "wikilink") [Category:住宅関連企業](https://ja.wikipedia.org/wiki/Category:住宅関連企業 "wikilink") [Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink") [Category:1957年設立の企業](https://ja.wikipedia.org/wiki/Category:1957年設立の企業 "wikilink")
-
-1.  [asahi.com（朝日新聞社）：YKKとYKK APの社長交代　ともに創業家以外から－ビジネス・経済](http://www.asahi.com/business/update/0302/TKY201103020414.html)2011年12月23日閲覧

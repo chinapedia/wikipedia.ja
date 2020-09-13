@@ -169,7 +169,7 @@
 
 :\* [1月28日](../Page/1月28日.md "wikilink")、初音源である『第1実験室』発売。
 
-:\* [2月16日](../Page/2月16日.md "wikilink")、[目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink")にて、デモテープ『洗脳』無料配布ライブ開催。
+:\* [2月16日](../Page/2月16日.md "wikilink")、[目黒鹿鳴館](../Page/目黒鹿鳴館.md "wikilink")にて、デモテープ『洗脳』無料配布ライブ開催。
 
 :\* [5月15日](../Page/5月15日.md "wikilink")、『洗脳』のセカンドプレスを発売。
 
@@ -431,7 +431,7 @@
 
 :\* [3月31日](../Page/3月31日.md "wikilink")、ライブイベント『ボビーフェスティバル ～VERY BEST OF CHOCKYU～』（新木場STUDIO COAST）出演。
 
-:\* [4月4日](../Page/4月4日.md "wikilink")、シングル『[春の日](https://ja.wikipedia.org/wiki/春の日_\(cali≠gariのシングル\) "wikilink")』発売。[目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink")にて、ライブ『ニュウシングル「春の日」発売記念GIG』開催。
+:\* [4月4日](../Page/4月4日.md "wikilink")、シングル『[春の日](https://ja.wikipedia.org/wiki/春の日_\(cali≠gariのシングル\) "wikilink")』発売。[目黒鹿鳴館](../Page/目黒鹿鳴館.md "wikilink")にて、ライブ『ニュウシングル「春の日」発売記念GIG』開催。
 
 :\* [6月22日](../Page/6月22日.md "wikilink")、日比谷野外大音楽堂にて、ライブ「caliversary in YAON "2003-2013"『死せる青春』Days which made adolescence,and…」開催。
 
@@ -1361,7 +1361,7 @@ DVD『オヤスミナサイ____。△15th Caliversary 2018 LAST GIGS 2018.04.04 
 
   - [日本コロムビア | cali≠gari](http://columbia.jp/artist-info/caligari/)
 
-  - [Victor Entertainment | cal≠gari](http://www.jvcmusic.co.jp/-/Artist/A016947.html)
+  - [Victor Entertainment | cal≠gari](https://www.jvcmusic.co.jp/-/Artist/A016947.html)
 
   -
   - [LA'ROYQUE'DE ZAVY](http://twitter.com/LAROYQUEDEZAVY) (@LAROYQUEDEZAVY) - Twitter

@@ -1,7 +1,7 @@
 > この記事は[SAM \(ダンサー\)](https://ja.wikipedia.org/wiki/SAM_\(ダンサー\))から翻訳されています。
 
 
-**SAM**（サム、[1962年](../Page/1962年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink") - ）本名、**丸山 正温**（まるやま まさはる）は、日本の[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")で、[TRF](../Page/TRF.md "wikilink")のメンバーである。[埼玉県](../Page/埼玉県.md "wikilink")[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")[岩槻区](https://ja.wikipedia.org/wiki/岩槻区 "wikilink")出身。[獨協中学校](https://ja.wikipedia.org/wiki/獨協中学校 "wikilink")、[獨協高等学校](https://ja.wikipedia.org/wiki/獨協高等学校 "wikilink")卒業。身長176cm。血液型B型。
+**SAM**（サム、[1962年](../Page/1962年.md "wikilink")（昭和37年）[1月13日](../Page/1月13日.md "wikilink") - ）本名、**丸山 正温**（まるやま まさはる）は、日本の[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")で、[TRF](../Page/TRF.md "wikilink")のメンバーである。[埼玉県](../Page/埼玉県.md "wikilink")[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")[岩槻区](https://ja.wikipedia.org/wiki/岩槻区 "wikilink")出身。[獨協中学校](https://ja.wikipedia.org/wiki/獨協中学校 "wikilink")、[獨協高等学校](https://ja.wikipedia.org/wiki/獨協高等学校 "wikilink")卒業。身長176cm。血液型B型。
 
 ## 来歴・人物
 

@@ -16,7 +16,7 @@
       - [ドラバラ鈴井の巣](../Page/ドラバラ鈴井の巣.md "wikilink")
       - [ハナタレナックス](../Page/ハナタレナックス.md "wikilink")
       - [素晴らしい世界](../Page/素晴らしい世界.md "wikilink")
-      - [イチオシ\!](https://ja.wikipedia.org/wiki/イチオシ! "wikilink")
+      - [イチオシ\!\!](../Page/イチオシ!!.md "wikilink")
       - [おはよう天気HTB](../Page/おはよう天気HTB.md "wikilink")
       - [スキップ (情報番組)](../Page/スキップ_\(情報番組\).md "wikilink")
   - [美術](../Page/美術.md "wikilink")

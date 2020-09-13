@@ -174,7 +174,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a> (JRT)</p></td>
+<td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a> (JRT)</p></td>
 <td><p>日本テレビ系列</p></td>
 <td></td>
 </tr>

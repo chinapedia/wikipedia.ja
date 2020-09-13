@@ -1,7 +1,7 @@
 > この記事は[リーガMX](https://ja.wikipedia.org/wiki/リーガMX)から翻訳されています。
 
 
-**リーガMX**（**Liga MX** ）は、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink")に加盟する[メキシコ](../Page/メキシコ.md "wikilink")の国内プロ[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の最上位リーグである。2013年よりBBVA Bancomer（現：BBVA México）が公式スポンサーとなり、**リーガ・BBVA・MX** (**Liga BBVA MX**)として知られる。\[1\] \[2\]
+**リーガMX**（**Liga MX** ）は、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink")に加盟する[メキシコ](../Page/メキシコ.md "wikilink")の国内プロ[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の最上位リーグである。現在はBBVA Méxicoが公式スポンサーとなり、**リーガBBVA MX**（**Liga BBVA MX**）として知られる\[1\]。
 
 ## リーグ概要
 
@@ -9,24 +9,26 @@
 
 ## リーグ形式
 
-参加クラブ数は18クラブ。1シーズンは2ステージ制であり、それぞれのステージごとに優勝を争う。前半戦（8月-12月）のステージを[アペルトゥーラ](https://ja.wikipedia.org/wiki/アペルトゥーラとクラウスーラ "wikilink")（Apertura、開幕ステージ）、後半戦（翌年1月-5月）を[クラウスーラ](https://ja.wikipedia.org/wiki/アペルトゥーラとクラウスーラ "wikilink")（Clausura、閉幕ステージ）と呼称する。
+参加クラブ数は18クラブ。1シーズンは2ステージ制であり、それぞれのステージごとに優勝を争う。前半戦（8月-12月）のステージを*[アペルトゥーラ](https://ja.wikipedia.org/wiki/アペルトゥーラとクラウスーラ "wikilink")*（Apertura、開幕ステージ）、後半戦（翌年1月-5月）を*[クラウスーラ](https://ja.wikipedia.org/wiki/アペルトゥーラとクラウスーラ "wikilink")*（Clausura、閉幕ステージ）と呼称する。
 
-レギュラーシーズン（リーグ戦）はそれぞれのステージ全18チーム1回ずつの総当り方式となっており、各チーム17試合ずつを消化した時点での上位8チームがリギージャ（Liguilla）と呼ばれる決勝トーナメントに進出する。
+レギュラーシーズン（リーグ戦）はそれぞれのステージ全18チーム1回ずつの総当り方式となっており、各チーム17試合ずつを消化した時点での上位8チームが*リギージャ*（Liguilla）と呼ばれる決勝トーナメントに進出する。
 
 リギージャ準々決勝はリーグ戦の成績に基づいて「1位vs8位」「2位vs7位」「3位vs6位」「4位vs5位」のタスキがけ方式で対戦する。[ホーム・アンド・アウェー](../Page/ホーム・アンド・アウェー.md "wikilink")の2試合の合計得点と[アウェーゴール](../Page/アウェーゴール.md "wikilink")数が同じ場合はリーグ戦の順位が上だったチームが勝ち上がるが、決勝戦ではアウェーゴールルールは適用されず、延長戦、PK戦を行う。各ステージの優勝チームと準優勝チームには特典として次年度の[CONCACAFチャンピオンズリーグ](../Page/CONCACAFチャンピオンズリーグ.md "wikilink")出場資格が与えられる。
 
-なお、2010-11シーズンまでは18チームが前2シーズンのリーグ戦のみの合計成績（勝ち点・得失点差）により、3グループに分けた上で\[3\]、グループに関係なく1回ずつ総当たり方式で対戦し、グループ内の順位と、総合順位によりリギージャに進出するチームが決められていた。
+なお、2010-11シーズンまでは18チームが前2シーズンのリーグ戦のみの合計成績（勝ち点・得失点差）により、3グループに分けた上で\[2\]、グループに関係なく1回ずつ総当たり方式で対戦し、グループ内の順位と、総合順位によりリギージャに進出するチームが決められていた。
+
+2020-21シーズンは[新型コロナウイルス感染症と闘う医療従事者を称えて](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink")、開幕ステージが「トルネオ・グアルディアネス2020（Torneo Guardianes 2020）」の名称となった\[3\]\[4\]。
 
 ## 2016-17シーズン所属クラブ
 
 | クラブ名                                                                              | ホームタウン                                                                                                                    | ホームスタジアム                                                                              | data-sort-type="number" | 収容人数 |
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------ |
-| [クラブ・アメリカ](../Page/クラブ・アメリカ.md "wikilink")                                        | [トラルパン](https://ja.wikipedia.org/wiki/トラルパン "wikilink"), [メキシコシティ](../Page/メキシコシティ.md "wikilink")                         | [エスタディオ・アステカ](../Page/エスタディオ・アステカ.md "wikilink")                                      | 84,000                         |
+| [クルブ・アメリカ](../Page/クラブ・アメリカ.md "wikilink")                                        | [トラルパン](../Page/トラルパン.md "wikilink"), [メキシコシティ](../Page/メキシコシティ.md "wikilink")                                            | [エスタディオ・アステカ](../Page/エスタディオ・アステカ.md "wikilink")                                      | 84,000                         |
 | [CFアトラス](../Page/CFアトラス.md "wikilink")                                            | [グアダラハラ](../Page/グアダラハラ_\(メキシコ\).md "wikilink"), [ハリスコ州](../Page/ハリスコ州.md "wikilink")                                     | [エスタディオ・ハリスコ](https://ja.wikipedia.org/wiki/エスタディオ・ハリスコ "wikilink")                   | 54,500                         |
 | [チアパスFC](https://ja.wikipedia.org/wiki/チアパスFC "wikilink")                         | [トゥストラ・グティエレス](https://ja.wikipedia.org/wiki/トゥストラ・グティエレス "wikilink"), [チアパス州](../Page/チアパス州.md "wikilink")               | [エスタディオ・ビクトル・マヌエル・レイナ](https://ja.wikipedia.org/wiki/エスタディオ・ビクトル・マヌエル・レイナ "wikilink") | 24,290                         |
 | [クルス・アスル](../Page/クルス・アスル.md "wikilink")                                          | [ベニート・フアレス](../Page/ベニート・フアレス_\(メキシコシティ\).md "wikilink"), [メキシコシティ](../Page/メキシコシティ.md "wikilink")                        | [エスタディオ・アスル](https://ja.wikipedia.org/wiki/エスタディオ・アスル "wikilink")                     | 33,042                         |
 | [CDグアダラハラ](https://ja.wikipedia.org/wiki/CDグアダラハラ "wikilink")                     | [グアダラハラ](../Page/グアダラハラ_\(メキシコ\).md "wikilink"), [ハリスコ州](../Page/ハリスコ州.md "wikilink")                                     | [エスタディオ・オムニライフ](https://ja.wikipedia.org/wiki/エスタディオ・オムニライフ "wikilink")               | 46,232                         |
-| [クラブ・レオン](https://ja.wikipedia.org/wiki/クラブ・レオン "wikilink")                       | [レオン](../Page/レオン_\(メキシコ\).md "wikilink"), [グアナフアト州](../Page/グアナフアト州.md "wikilink")                                       | [エスタディオ・レオン](https://ja.wikipedia.org/wiki/エスタディオ・レオン "wikilink")                     | 31,297                         |
+| [クルブ・レオン](https://ja.wikipedia.org/wiki/クラブ・レオン "wikilink")                       | [レオン](../Page/レオン_\(メキシコ\).md "wikilink"), [グアナフアト州](../Page/グアナフアト州.md "wikilink")                                       | [エスタディオ・レオン](https://ja.wikipedia.org/wiki/エスタディオ・レオン "wikilink")                     | 31,297                         |
 | [CFモンテレイ](../Page/CFモンテレイ.md "wikilink")                                          | [モンテレイ](../Page/モンテレイ_\(メキシコ\).md "wikilink"), [ヌエボ・レオン州](../Page/ヌエボ・レオン州.md "wikilink")                                 | [エスタディオBBVAバンコメル](https://ja.wikipedia.org/wiki/エスタディオBBVAバンコメル "wikilink")           | 53,500                         |
 | [モナルカス・モレリア](../Page/モナルカス・モレリア.md "wikilink")                                    | [モレリア](../Page/モレリア.md "wikilink"), [ミチョアカン州](../Page/ミチョアカン州.md "wikilink")                                              | [エスタディオ・モレロス](https://ja.wikipedia.org/wiki/エスタディオ・モレロス "wikilink")                   | 34,794                         |
 | [クルブ・ネカクサ](../Page/クルブ・ネカクサ.md "wikilink")                                        | [アグアスカリエンテス](../Page/アグアスカリエンテス.md "wikilink"), [アグアスカリエンテス州](../Page/アグアスカリエンテス州.md "wikilink")                          | [エスタディオ・ビクトリア](https://ja.wikipedia.org/wiki/エスタディオ・ビクトリア "wikilink")                 | 23,933                         |
@@ -34,18 +36,18 @@
 | [プエブラFC](https://ja.wikipedia.org/wiki/プエブラFC "wikilink")                         | [プエブラ](../Page/プエブラ.md "wikilink"), [プエブラ州](../Page/プエブラ州.md "wikilink")                                                  | [エスタディオ・クアウテモック](https://ja.wikipedia.org/wiki/エスタディオ・クアウテモック "wikilink")             | 50,754                         |
 | [ケレタロFC](https://ja.wikipedia.org/wiki/ケレタロFC "wikilink")                         | [ケレタロ](https://ja.wikipedia.org/wiki/ケレタロ "wikilink"), [ケレタロ州](../Page/ケレタロ州.md "wikilink")                               | [エスタディオ・コレヒドラ](https://ja.wikipedia.org/wiki/エスタディオ・コレヒドラ "wikilink")                 | 34,045                         |
 | [サントス・ラグナ](https://ja.wikipedia.org/wiki/サントス・ラグナ "wikilink")                     | [トレオン](../Page/トレオン.md "wikilink"), [コアウイラ州](../Page/コアウイラ州.md "wikilink")                                                | [エスタディオ・コロナ](https://ja.wikipedia.org/wiki/エスタディオ・コロナ "wikilink")                     | 29,327                         |
-| [クラブ・ティフアナ](https://ja.wikipedia.org/wiki/クラブ・ティフアナ "wikilink")                   | [ティフアナ](../Page/ティフアナ.md "wikilink"), [バハ・カリフォルニア州](../Page/バハ・カリフォルニア州.md "wikilink")                                    | [エスタディオ・カリエンテ](https://ja.wikipedia.org/wiki/エスタディオ・カリエンテ "wikilink")                 | 27,333                         |
+| [クルブ・ティフアナ](https://ja.wikipedia.org/wiki/クラブ・ティフアナ "wikilink")                   | [ティフアナ](../Page/ティフアナ.md "wikilink"), [バハ・カリフォルニア州](../Page/バハ・カリフォルニア州.md "wikilink")                                    | [エスタディオ・カリエンテ](https://ja.wikipedia.org/wiki/エスタディオ・カリエンテ "wikilink")                 | 27,333                         |
 | [デポルティーボ・トルーカFC](https://ja.wikipedia.org/wiki/デポルティーボ・トルーカFC "wikilink")         | [トルーカ](../Page/トルーカ.md "wikilink"), [メヒコ州](../Page/メヒコ州.md "wikilink")                                                    | [エスタディオ・ネメシオ・ディエス](https://ja.wikipedia.org/wiki/エスタディオ・ネメシオ・ディエス "wikilink")         | 18,651                         |
 | [UANLティグレス](https://ja.wikipedia.org/wiki/UANLティグレス "wikilink")                   | [サン・ニコラス・デ・ロス・ガルサ](https://ja.wikipedia.org/wiki/サン・ニコラス・デ・ロス・ガルサ "wikilink"), [ヌエボ・レオン州](../Page/ヌエボ・レオン州.md "wikilink") | [エスタディオ・ウニベルシタリオ](https://ja.wikipedia.org/wiki/エスタディオ・ウニベルシタリオ "wikilink")           | 41,650                         |
-| [クラブ・ウニベルシダ・ナシオナル](https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル "wikilink")     | [コヨアカン](../Page/コヨアカン.md "wikilink"), [メキシコシティ](../Page/メキシコシティ.md "wikilink")                                            | [エスタディオ・オリンピコ・ウニベルシタリオ](../Page/エスタディオ・オリンピコ・ウニベルシタリオ.md "wikilink")                  | 52,000                         |
+| [クルブ・ウニベルシダ・ナシオナル](https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル "wikilink")     | [コヨアカン](../Page/コヨアカン.md "wikilink"), [メキシコシティ](../Page/メキシコシティ.md "wikilink")                                            | [エスタディオ・オリンピコ・ウニベルシタリオ](../Page/エスタディオ・オリンピコ・ウニベルシタリオ.md "wikilink")                  | 52,000                         |
 | [ティブロネス・ロホス・デ・ベラクルス](https://ja.wikipedia.org/wiki/ティブロネス・ロホス・デ・ベラクルス "wikilink") | [ベラクルス](../Page/ベラクルス.md "wikilink"), [ベラクルス州](../Page/ベラクルス州.md "wikilink")                                              | [エスタディオ・ルイス・デ・ラ・フエンテ](https://ja.wikipedia.org/wiki/エスタディオ・ルイス・デ・ラ・フエンテ "wikilink")   | 28,703                         |
 
 ## 歴代優勝クラブ
 
 | シーズン     | 優勝                                                                            | 準優勝                                                                       |
 | -------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 1943-44  | **[アストゥリアス](https://ja.wikipedia.org/wiki/アストゥリアスFC "wikilink")**             | [レアル・クラブ・エスパーニャ](https://ja.wikipedia.org/wiki/レアル・クラブ・エスパーニャ "wikilink") |
-| 1944-45  | **[レアル・クラブ・エスパーニャ](https://ja.wikipedia.org/wiki/レアル・クラブ・エスパーニャ "wikilink")** | [プエブラ](https://ja.wikipedia.org/wiki/CFプエブラ "wikilink")                   |
+| 1943-44  | **[アストゥリアス](https://ja.wikipedia.org/wiki/アストゥリアスFC "wikilink")**             | [レアル・クルブ・エスパーニャ](https://ja.wikipedia.org/wiki/レアル・クルブ・エスパーニャ "wikilink") |
+| 1944-45  | **[レアル・クルブ・エスパーニャ](https://ja.wikipedia.org/wiki/レアル・クルブ・エスパーニャ "wikilink")** | [プエブラ](https://ja.wikipedia.org/wiki/CFプエブラ "wikilink")                   |
 | 1945-46  | **[ベラクルス](https://ja.wikipedia.org/wiki/CDベラクルス "wikilink")**                 | [アトランテ](https://ja.wikipedia.org/wiki/CFアトランテ "wikilink")                 |
 | 1946-47  | **[アトランテ](https://ja.wikipedia.org/wiki/CFアトランテ "wikilink")**                 | [レオン](https://ja.wikipedia.org/wiki/クラブ・レオン "wikilink")                   |
 | 1947-48  | **[レオン](https://ja.wikipedia.org/wiki/クラブ・レオン "wikilink")**                   | [オーロ](https://ja.wikipedia.org/wiki/CDオーロ "wikilink")                     |
@@ -194,7 +196,7 @@
 <tr class="odd">
 <td><p>1943-44</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イシドロ・ランガラ" title="wikilink">イシドロ・ランガラ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レアル・クラブ・エスパーニャ" title="wikilink">レアル・クラブ・エスパーニャ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/レアル・クルブ・エスパーニャ" title="wikilink">レアル・クルブ・エスパーニャ</a></p></td>
 <td><p>27</p></td>
 </tr>
 <tr class="even">
@@ -206,7 +208,7 @@
 <tr class="odd">
 <td><p>1945-46</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イシドロ・ランガラ" title="wikilink">イシドロ・ランガラ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レアル・クラブ・エスパーニャ" title="wikilink">レアル・クラブ・エスパーニャ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/レアル・クルブ・エスパーニャ" title="wikilink">レアル・クルブ・エスパーニャ</a></p></td>
 <td><p>40</p></td>
 </tr>
 <tr class="even">
@@ -838,34 +840,42 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/クラブ・レオン" title="wikilink">レオン</a></p></td>
 <td><p>14</p></td>
 </tr>
+<tr class="even">
+<td><p>2019 (A)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/マウロ・キロガ" title="wikilink">マウロ・キロガ</a><br />
+ <a href="https://ja.wikipedia.org/wiki/アラン・プリード" title="wikilink">アラン・プリード</a></p></td>
+<td><p><a href="../Page/クルブ・ネカクサ.md" title="wikilink">ネカクサ</a><br />
+<a href="https://ja.wikipedia.org/wiki/CDグアダラハラ" title="wikilink">グアダラハラ</a></p></td>
+<td><p>12</p></td>
+</tr>
 </tbody>
 </table>
 
 ## ダービーマッチ
 
   - ナショナルダービー
-      - スーペル・クラシコ　[クラブ・アメリカ](../Page/クラブ・アメリカ.md "wikilink")　VS　[グアダラハラ](https://ja.wikipedia.org/wiki/CDグアダラハラ "wikilink")
+      - [クラシコ・デ・クラシコス](https://ja.wikipedia.org/wiki/クラシコ・デ・クラシコス "wikilink")（クラシコの中のクラシコ）　[クルブ・アメリカ](../Page/クラブ・アメリカ.md "wikilink")　VS　[CDグアダラハラ](https://ja.wikipedia.org/wiki/CDグアダラハラ "wikilink")
 
 <!-- end list -->
 
   - メキシコシティダービー
-      - クラシコ・カピタリーノ（首都ダービー）　[クラブ・アメリカ](../Page/クラブ・アメリカ.md "wikilink")　VS　[UNAM](https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル "wikilink")
-      - クラシコ・ホベン（新首都ダービー）　[クラブ・アメリカ](../Page/クラブ・アメリカ.md "wikilink")　VS　[クルス・アスル](../Page/クルス・アスル.md "wikilink")
+      - [クラシコ・カピタリーノ](https://ja.wikipedia.org/wiki/クラシコ・カピタリーノ "wikilink")（首都ダービー）　[クルブ・アメリカ](../Page/クラブ・アメリカ.md "wikilink")　VS　[UNAMプーマス](https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル "wikilink")
+      - [クラシコ・ホベン](https://ja.wikipedia.org/wiki/クラシコ・ホベン "wikilink")（若いダービー）　[クルブ・アメリカ](../Page/クラブ・アメリカ.md "wikilink")　VS　[クルス・アスル](../Page/クルス・アスル.md "wikilink")
 
 <!-- end list -->
 
   - グアダラハラダービー
-      - クラシコ・タパティオ　[グアダラハラ](https://ja.wikipedia.org/wiki/CDグアダラハラ "wikilink")　VS　[アトラス](https://ja.wikipedia.org/wiki/FCアトラス "wikilink")
+      - [クラシコ・タパティオ](https://ja.wikipedia.org/wiki/クラシコ・タパティオ "wikilink")　[CDグアダラハラ](https://ja.wikipedia.org/wiki/CDグアダラハラ "wikilink")　VS　[CFアトラス](https://ja.wikipedia.org/wiki/FCアトラス "wikilink")
 
 <!-- end list -->
 
   - モンテレイダービー
-      - クラシコ・レヒオモンターノ　[モンテレイ](../Page/CFモンテレイ.md "wikilink")　VS　[UANL](https://ja.wikipedia.org/wiki/UANLティグレス "wikilink")
+      - [クラシコ・レヒオモンターノ](https://ja.wikipedia.org/wiki/クラシコ・レヒオモンターノ "wikilink")　[CFモンテレイ](../Page/CFモンテレイ.md "wikilink")　VS　[UANLティグレス](https://ja.wikipedia.org/wiki/UANLティグレス "wikilink")
 
 <!-- end list -->
 
-  - イダルゴダービー
-      - クラシコ・イダルヘンセ　[パチューカ](../Page/CFパチューカ.md "wikilink")　VS　[クルス・アスル](../Page/クルス・アスル.md "wikilink")
+  - イダルゴ州ダービー
+      - [クラシコ・イダルゲンセ](https://ja.wikipedia.org/wiki/クラシコ・イダルゲンセ "wikilink")　[CFパチューカ](../Page/CFパチューカ.md "wikilink")　VS　[クルス・アスル](../Page/クルス・アスル.md "wikilink")
 
 　　※クルス・アスルの発祥はイダルゴ州であり、現在も下部組織がイダルゴ州にあるためダービーとして認識される
 
@@ -877,7 +887,7 @@
 
   - **[CONCACAFチャンピオンズリーグ](../Page/CONCACAFチャンピオンズリーグ.md "wikilink")優勝** 29回
       - [クルス・アスル](../Page/クルス・アスル.md "wikilink") （5回）
-      - [クラブ・アメリカ](../Page/クラブ・アメリカ.md "wikilink") （5回）
+      - [クルブ・アメリカ](../Page/クラブ・アメリカ.md "wikilink") （5回）
       - [パチューカ](../Page/CFパチューカ.md "wikilink") （4回）
       - [UNAM](https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル "wikilink") （3回）
       - [モンテレイ](../Page/CFモンテレイ.md "wikilink") （3回）
@@ -989,13 +999,13 @@
 </tr>
 <tr class="odd">
 <td><p><strong>2013-14</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レオネス・ネグロス・U・デ・G" title="wikilink">U・デ・G</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/レオネス・ネグロスUdeG" title="wikilink">UdeG</a></p></td>
 <td><p><em><a href="https://ja.wikipedia.org/wiki/アトランテFC" title="wikilink">アトランテ</a></em></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2014-15</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ドラドス・デ・シナロア" title="wikilink">ドラドス・デ・シナロア</a></p></td>
-<td><p><em><a href="https://ja.wikipedia.org/wiki/レオネス・ネグロス・U・デ・G" title="wikilink">U・デ・G</a></em></p></td>
+<td><p><em><a href="https://ja.wikipedia.org/wiki/レオネス・ネグロスUdeG" title="wikilink">UdeG</a></em></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2015-16</strong></p></td>
@@ -1004,6 +1014,11 @@
 </tr>
 </tbody>
 </table>
+
+## シーズン別大会名
+
+  - Liga BBVA Bancomer MX（2013-2019）
+  - Liga BBVA MX（2019-現在）
 
 ## 関連項目
 
@@ -1021,10 +1036,12 @@
 ## 外部リンク
 
   - [公式サイト](http://www.ligamx.net/)
+  - [mediotiempo.com](http://www.mediotiempo.com/)
   - [RSSSFによるプリメーラ・ディビシオンの記録](http://www.rsssf.com/tablesm/mexchamp.html)
 
 [Category:メキシコのサッカー大会](https://ja.wikipedia.org/wiki/Category:メキシコのサッカー大会 "wikilink") [Category:国内の最上位サッカーリーグ](https://ja.wikipedia.org/wiki/Category:国内の最上位サッカーリーグ "wikilink") [Category:1943年開始のイベント](https://ja.wikipedia.org/wiki/Category:1943年開始のイベント "wikilink")
 
 1.
-2.
-3.  Aグループは1位、6位、7位、12位、13位、18位のチーム、Bグループは2位、5位、8位、11位、14位、17位のチーム、Cグループは3位、4位、9位、10位、15位、16位のチームが属する
+2.  Aグループは1位、6位、7位、12位、13位、18位のチーム、Bグループは2位、5位、8位、11位、14位、17位のチーム、Cグループは3位、4位、9位、10位、15位、16位のチームが属する
+3.
+4.

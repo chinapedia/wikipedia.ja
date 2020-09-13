@@ -67,7 +67,7 @@
   - オープニングテーマ「Legend」
     作詞 - [有森聡美](https://ja.wikipedia.org/wiki/有森聡美 "wikilink") / 作曲 - LEGOLGEL with [見良津健雄](../Page/見良津健雄.md "wikilink") / 歌 - [LEGOLGEL](https://ja.wikipedia.org/wiki/LEGOLGEL "wikilink")
   - エンディングテーマ「[Heaven Knows](../Page/Heaven_Knows.md "wikilink")」
-    作詞 - 村野直球 / 作曲 - 住吉中 / 編曲 - NOV / 歌 - [水樹奈々](../Page/水樹奈々.md "wikilink")
+    作詞 - 村野直球 / 作曲 - 住吉中 / 編曲 - [牧野信博](../Page/牧野信博.md "wikilink") / 歌 - [水樹奈々](../Page/水樹奈々.md "wikilink")
 
 ## 各話リスト
 

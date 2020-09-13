@@ -21,6 +21,7 @@
   - [2011年](../Page/2011年.md "wikilink")ライブツアー「sacra Live Rubato 2011」にて活動を本格的に再開。
   - [2012年](../Page/2012年.md "wikilink")[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")より2度目のメジャーデビュー\[1\]。
   - [2016年](../Page/2016年.md "wikilink")加藤が、5月末日を以てsacraとしての活動を無期限で休止すると発表\[2\]\[3\]。その後は木谷、足土の2人で活動中。
+  - [2018年](../Page/2018年.md "wikilink")4月1日、sacra主催のフェス「SAC FES\!2018」をshibuya duo MUSIC EXCHANGEより開催。
 
 ## メンバー
 

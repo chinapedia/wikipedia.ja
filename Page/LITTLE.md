@@ -1,7 +1,7 @@
 > この記事は[LITTLE](https://ja.wikipedia.org/wiki/LITTLE)から翻訳されています。
 
 
-**LITTLE**（**リトル**、本名：小島 健司（こじま けんじ）、[1976年](../Page/1976年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink") - ）は、[東京都](../Page/東京都.md "wikilink")[八王子市](https://ja.wikipedia.org/wiki/八王子市 "wikilink")出身の[ラッパー](../Page/ラップ.md "wikilink")。[KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink")、[UL](https://ja.wikipedia.org/wiki/UL "wikilink")、[アスタラビスタ](https://ja.wikipedia.org/wiki/アスタラビスタ "wikilink")のメンバー及び[FUNKY GRAMMAR UNIT](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")、[神輿ロッカーズ](https://ja.wikipedia.org/wiki/神輿ロッカーズ "wikilink")、[GAKUDAN](https://ja.wikipedia.org/wiki/GAKUDAN "wikilink")の一員。名前の由来は身長が低いことから（156cm）。自称「東京一小さなMC」。ソロ活動では[ユニバーサルミュージックに所属していたが](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、[Ariola Japanを経て](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")、現在は[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")に所属している。
+**LITTLE**（**リトル**、本名：小島 健司（こじま けんじ）、[1976年](../Page/1976年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink") - ）は、[東京都](../Page/東京都.md "wikilink")[八王子市](https://ja.wikipedia.org/wiki/八王子市 "wikilink")出身の[ラッパー](../Page/ラップ.md "wikilink")。[KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink")、[UL](../Page/UL_\(ヒップホップ\).md "wikilink")、[アスタラビスタ](https://ja.wikipedia.org/wiki/アスタラビスタ "wikilink")のメンバー及び[FUNKY GRAMMAR UNIT](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")、[神輿ロッカーズ](https://ja.wikipedia.org/wiki/神輿ロッカーズ "wikilink")、[GAKUDAN](https://ja.wikipedia.org/wiki/GAKUDAN "wikilink")の一員。名前の由来は身長が低いことから（156cm）。自称「東京一小さなMC」。ソロ活動では[ユニバーサルミュージックに所属していたが](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、[Ariola Japanを経て](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")、現在は[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")に所属している。
 
 ## 来歴
 
@@ -17,7 +17,7 @@
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月7日](../Page/5月7日.md "wikilink")、3rdアルバム『[“YES” rhyme-dentity](https://ja.wikipedia.org/wiki/“YES”_rhyme-dentity "wikilink")』をリリース。同日自らの誕生日とデビュー10周年記念を兼ねたライブを行った。ゲストとしてアルバムで共演した[MICRO](../Page/MICRO_\(ラッパー\).md "wikilink")（[HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")）、SMALLEST（[トリカブト](../Page/トリカブト_\(ユニット\).md "wikilink")）、[SHOGO](../Page/SHOGO.md "wikilink")（[175R](../Page/175R.md "wikilink")）、[CUEZERO](../Page/CUEZERO.md "wikilink")、[童子-T](../Page/童子-T.md "wikilink")、[Mummy-D](../Page/Mummy-D.md "wikilink")らの他、サプライズで[KREVA](../Page/KREVA.md "wikilink")と[MCUが登場し](../Page/MCU_\(ラッパー\).md "wikilink")、ライブDJを務めた[DJ SHUHOを含めKICK](../Page/DJ_SHUHO.md "wikilink") THE CAN CREWのメンバーが集結したことも話題となった。
 
-2011年、MCUと[UL](https://ja.wikipedia.org/wiki/UL "wikilink")を結成。
+2011年、MCUと[ULを結成](../Page/UL_\(ヒップホップ\).md "wikilink")。
 
 2015年7月、エフエム福岡にて「[LITTLE miyake KAZRUのサタデーナイトミストン](https://ja.wikipedia.org/wiki/LITTLE_miyake_KAZRUのサタデーナイトミストン "wikilink")」が始まる。毎週土曜日25:00-25:30 OA。
 
@@ -31,19 +31,19 @@
 
   -
     **シングル**
-      - CHILD PLAY （[2000年](../Page/2000年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")）
+      - [CHILD PLAY](https://ja.wikipedia.org/wiki/CHILD_PLAY "wikilink") （[2000年](../Page/2000年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")）
     <!-- end list -->
     1.  CHILD PLAY
     2.  レスキュー('BLUESBREAKER MIX' featuring SHIGEO from [スケボーキング](../Page/スケボーキング.md "wikilink")）
     3.  DOG FOOD
     <!-- end list -->
-      - 八王子少年～春よ、来い～feat.RYOJI　fromケツメイシ(2020年3月1日)
+      - [八王子少年～春よ、来い～](https://ja.wikipedia.org/wiki/八王子少年～春よ、来い～ "wikilink")feat.RYOJI　fromケツメイシ(2020年3月1日)
 
 (2020年3月1日)配信シングル
 
   -
     **アルバム**
-      - いいの （[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月15日](../Page/11月15日.md "wikilink")）
+      - [いいの](https://ja.wikipedia.org/wiki/いいの "wikilink") （[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月15日](../Page/11月15日.md "wikilink")）
     <!-- end list -->
     1.  いいの
     2.  ジゴロメン
@@ -56,42 +56,20 @@
 
   - [I SING, I SAY](https://ja.wikipedia.org/wiki/I_SING,_I_SAY "wikilink") （2004年[7月21日](../Page/7月21日.md "wikilink")）
   - [聖者が街にやってくる](https://ja.wikipedia.org/wiki/聖者が街にやってくる_\(LITTLEの曲\) "wikilink") （2004年[11月24日](../Page/11月24日.md "wikilink")）
-  - はつ恋の 〜What's Going On〜 feat. [トータス松本](../Page/トータス松本.md "wikilink") （[2005年](../Page/2005年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink")）
-
-:\# はつ恋の 〜What's Going On〜 feat. トータス松本
-
-:\# はつ恋の 〜What's Going On〜 feat. トータス松本 (Ver.2.0)
-
-:\# 聖者が街にやってくる ([DJ SUZUKI](https://ja.wikipedia.org/wiki/DJ_SUZUKI "wikilink") Remix)
-
-:\# はつ恋の 〜What's Going On〜 feat. トータス松本 -Instrumental-
-
-:\# はつ恋の 〜What's Going On〜 feat. トータス松本 (Ver.2.0) -Instrumental-
-
-:\# 聖者が街にやってくる (DJ SUZUKI Remix) -Instrumental-
-
-  -
-
+  - [はつ恋の 〜What's Going On〜](https://ja.wikipedia.org/wiki/はつ恋の_〜What's_Going_On〜 "wikilink") feat. [トータス松本](../Page/トータス松本.md "wikilink") （[2005年](../Page/2005年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink")）
       -
         『はつ恋の 〜What's Going On〜 feat. トータス松本』は[EAST ENDの](../Page/EAST_END.md "wikilink")[ROCK-Tee](../Page/ROCK-Tee.md "wikilink")プロデュース。
         [ウルフルズ](../Page/ウルフルズ.md "wikilink")の[トータス松本](../Page/トータス松本.md "wikilink")が参加。
-
-<!-- end list -->
-
   - [ワンマンショウ](../Page/ワンマンショウ.md "wikilink")（[2007年](../Page/2007年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink")）
   - [夢のせい](../Page/夢のせい.md "wikilink")（2007年[10月10日](../Page/10月10日.md "wikilink")）
 
 **アルバム**
 
-:\* [Mr.COMPACT](../Page/Mr.COMPACT.md "wikilink") （2001年[12月5日](../Page/12月5日.md "wikilink")）
-
-:\* [LIFE](../Page/LIFE_\(LITTLEのアルバム\).md "wikilink") （2005年[6月22日](../Page/6月22日.md "wikilink")）
-
-:\* [“YES” rhyme-dentity](https://ja.wikipedia.org/wiki/“YES”_rhyme-dentity "wikilink") （[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月7日](../Page/5月7日.md "wikilink")）
-
-:\* [アカリタイトル1](https://ja.wikipedia.org/wiki/アカリタイトル1 "wikilink") （[2014年](../Page/2014年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")）
-
-:\* [アカリタイトル2](https://ja.wikipedia.org/wiki/アカリタイトル2 "wikilink") （[2015年](../Page/2015年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink")）
+  - [Mr.COMPACT](../Page/Mr.COMPACT.md "wikilink") （2001年[12月5日](../Page/12月5日.md "wikilink")）
+  - [LIFE](../Page/LIFE_\(LITTLEのアルバム\).md "wikilink") （2005年[6月22日](../Page/6月22日.md "wikilink")）
+  - [“YES” rhyme-dentity](https://ja.wikipedia.org/wiki/“YES”_rhyme-dentity "wikilink") （[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月7日](../Page/5月7日.md "wikilink")）
+  - [アカリタイトル1](https://ja.wikipedia.org/wiki/アカリタイトル1 "wikilink") （[2014年](../Page/2014年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")）
+  - [アカリタイトル2](https://ja.wikipedia.org/wiki/アカリタイトル2 "wikilink") （[2015年](../Page/2015年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink")）
 
 ### 客演
 

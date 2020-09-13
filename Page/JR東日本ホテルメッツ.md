@@ -322,18 +322,19 @@ JR線沿線ではなく、<a href="../Page/西武新宿線.md" title="wikilink">
 
 ## ギャラリー
 
-<File:Hotel> METS Hachinohe - panoramio.jpg|JR東日本ホテルメッツ八戸
-（2005年2月22日） <File:Hotel> Mets Fukushima.JPG|JR東日本ホテルメッツ福島
-（2017年3月5日） <File:PASEO> Utsunomiya, Hotel Mets.jpg|JR東日本ホテルメッツ宇都宮
-（2020年4月） <File:Hotel> Mets Urawa.JPG|JR東日本ホテルメッツ浦和
-（2015年1月4日） <File:Hotel> Mets Shibuya.JPG|JR東日本ホテルメッツ渋谷
-（2017年5月21日） <File:Hotel> Mets Kokubunji.jpg|JR東日本ホテルメッツ国分寺
-（2018年5月12日） <File:JR-East> Hotel Mets Tachikawa.JPG|JR東日本ホテルメッツ立川
-（2018年11月17日） <File:Hotel> Mets Kawasaki.JPG|JR東日本ホテルメッツ川崎
-（2014年12月13日） <File:Sea-crane> 20150605.jpg|JR東日本ホテルメッツ横浜鶴見
-（2015年6月5日） <File:Nagaoka> Station East exit 20041114.jpg|JR東日本ホテルメッツ長岡
-（2004年11月14日） <File:Niigata-Station> CoCoLo-West-Building 20130804.JPG|JR東日本ホテルメッツ新潟
-（2013年8月4日）
+ファイル:Hotel METS Hachinohe - panoramio.jpg|JR東日本ホテルメッツ八戸
+（2005年2月） ファイル:Hotel Mets Fukushima.JPG|JR東日本ホテルメッツ福島
+（2017年3月） ファイル:PASEO Utsunomiya, Hotel Mets.jpg|JR東日本ホテルメッツ宇都宮
+（2020年4月） ファイル:Hotel Mets Urawa.JPG|JR東日本ホテルメッツ浦和
+（2015年1月） ファイル:Hotel Mets Shibuya.JPG|JR東日本ホテルメッツ渋谷
+（2017年5月） ファイル:Hotel Mets Kokubunji.jpg|JR東日本ホテルメッツ国分寺
+（2018年5月） ファイル:JR-East Hotel Mets Tachikawa.JPG|JR東日本ホテルメッツ立川
+（2018年11月） ファイル:Hotel Mets Kawasaki.JPG|JR東日本ホテルメッツ川崎
+（2014年12月） ファイル:Sea-crane 20150605.jpg|JR東日本ホテルメッツ横浜鶴見
+（2015年6月5日） ファイル:Nagaoka Station East exit 20041114.jpg|JR東日本ホテルメッツ長岡
+（2004年11月） ファイル:Niigata-Station CoCoLo-West-Building 20130804.JPG|JR東日本ホテルメッツ新潟
+（2013年8月） ファイル:JR-EAST.HOTEL-METS-Sapporo.JPG|JR東日本ホテルメッツ札幌
+（2020年7月）
 
 ## 脚注
 

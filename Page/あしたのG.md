@@ -7,7 +7,7 @@
 
   - [高島彩](../Page/高島彩.md "wikilink")（2002.10 - 2003.3） - 初代キャスター
   - [吉岡美穂](../Page/吉岡美穂.md "wikilink")（2003.4.5 - ） - 2代キャスター
-  - [中村仁美](https://ja.wikipedia.org/wiki/中村仁美 "wikilink")（2003.4.5 - 2004.3） - 『[すぽると](https://ja.wikipedia.org/wiki/すぽると "wikilink")』へ異動のため1年で降板
+  - [中村仁美](https://ja.wikipedia.org/wiki/中村仁美 "wikilink")（2003.4.5 - 2004.3） - 『[すぽると\!](../Page/すぽると!.md "wikilink")』へ異動のため1年で降板
   - [長野翼](https://ja.wikipedia.org/wiki/長野翼 "wikilink")（2004.4 - ）
 
 ### その他出演者
@@ -41,7 +41,7 @@
   - [北海道文化放送](../Page/北海道文化放送.md "wikilink")
   - [仙台放送](../Page/仙台放送.md "wikilink")
   - [福島テレビ](../Page/福島テレビ.md "wikilink")
-  - [新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")
+  - [新潟総合テレビ](../Page/NST新潟総合テレビ.md "wikilink")
   - [長野放送](../Page/長野放送.md "wikilink")
   - [テレビ静岡](../Page/テレビ静岡.md "wikilink")
 

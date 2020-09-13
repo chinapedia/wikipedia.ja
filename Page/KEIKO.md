@@ -1,13 +1,15 @@
 > この記事は[KEIKO](https://ja.wikipedia.org/wiki/KEIKO)から翻訳されています。
 
 
-**KEIKO**（ケイコ、[1972年](../Page/1972年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である。[エイベックス・ヴァンガード](https://ja.wikipedia.org/wiki/エイベックス・ヴァンガード "wikilink")所属。夫は同じくglobeのメンバーである[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")。音楽グループ **[globe](https://ja.wikipedia.org/wiki/globe "wikilink")**の[ヴォーカリストとして活動](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、『K-C-O』名義でソロ活動も行っていたが、病気療養のため[2011年](../Page/2011年.md "wikilink")10月より活動停止中。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[Ａ型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[大分県](../Page/大分県.md "wikilink")[臼杵市](../Page/臼杵市.md "wikilink")出身。
+**KEIKO**（ケイコ、[1972年](../Page/1972年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である。[エイベックス・ヴァンガード](https://ja.wikipedia.org/wiki/エイベックス・ヴァンガード "wikilink")所属。夫は同じくglobeのメンバーである[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")。音楽グループ **[globe](https://ja.wikipedia.org/wiki/globe "wikilink")**の[ヴォーカリストとして活動](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、『K-C-O』名義でソロ活動も行っていたが、病気療養のため[2011年](../Page/2011年.md "wikilink")10月より活動停止中。[血液型は](../Page/ABO式血液型.md "wikilink")[Ａ型](../Page/ABO式血液型.md "wikilink")。[大分県](../Page/大分県.md "wikilink")[臼杵市](../Page/臼杵市.md "wikilink")出身。
 
 ## 人物
 
 [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")は「[チャカ・カーン](../Page/チャカ・カーン.md "wikilink")・[美空ひばり](../Page/美空ひばり.md "wikilink")・[エンヤ](../Page/エンヤ.md "wikilink")の間を揺れ動ける、凄くお得なポジションにいる良い声」\[1\]「歌うと『シャーッ』という音色も一緒に出ている。そういう声は美空ひばり・[松田聖子](../Page/松田聖子.md "wikilink")・KEIKOだけ」\[2\]と評している。
 
 実家は地元で有名な[料亭](https://ja.wikipedia.org/wiki/料亭 "wikilink")「山田屋」で、東京の系列店（[ふぐ料理](../Page/ふぐ料理.md "wikilink")専門店）は[ミシュランガイド](../Page/ミシュランガイド.md "wikilink")で三つ星の評価を得た\[3\]。 高校在学中に、文化祭のためにバンド、「パリンセス・パリンセス」を結成、担当は[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")\[4\]。 高校卒業後、大阪に就職・移住したために、[関西弁](https://ja.wikipedia.org/wiki/関西弁 "wikilink")を話す事もある。大阪[大国町](https://ja.wikipedia.org/wiki/大国町 "wikilink")に住んでいた時は、[大阪ビジネスパーク](../Page/大阪ビジネスパーク.md "wikilink")の[ホテルニューオータニ大阪](../Page/ホテルニューオータニ大阪.md "wikilink")内にある[日本料理](../Page/日本料理.md "wikilink")「城見」や、[心斎橋](../Page/心斎橋.md "wikilink")の[ブティック](https://ja.wikipedia.org/wiki/ブティック "wikilink")「エルミタージュ」などに勤務していた。
+
+[中居正広](../Page/中居正広.md "wikilink")とは生年月日が全く同じである。
 
 ## 略歴
 

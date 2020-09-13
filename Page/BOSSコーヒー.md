@@ -334,6 +334,11 @@
       - 4月21日　「**クラフトボス レモンティー**」を発売、「クラフトボス TEA ノンシュガー」をリニューアル。
       - 5月12日　「**プレミアムボス アロマロースト**」を自動販売機限定で発売。
       - 5月26日　「カフェベース」の新フレーバーとして、「**ハニー&ロースト**」を期間限定で発売。本品はブラック兼用タイプで、水で割ることも可能。
+      - 6月2日　「**ファイブオリジンブレンド**」を自動販売機限定で発売。
+      - 6月23日　「**とろけるカフェモカ**」を発売。
+      - 7月7日 「**クラフトボス デカフェ**」を発売。
+      - 7月21日 「カフェベース」の新フレーバーとして、「**アイスソルティバニラ**」を期間限定発売。ブラック兼用タイプで、水で割ることも可能。
+      - 8月18日 「**レジェンドボス**」を自動販売機限定で発売。
 
 ## 現在の商品ラインナップ
 
@@ -620,7 +625,7 @@
         共演者・内容については、[\#BOSS HGコラボCF シリーズを参照](https://ja.wikipedia.org/wiki/#BOSS_HGコラボCF_シリーズ "wikilink")
     <!-- end list -->
       - [豊川悦司](../Page/豊川悦司.md "wikilink")、[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")（2002年）
-      - [CREATIVE OFFICE CUE所属タレント一同](../Page/CREATIVE_OFFICE_CUE.md "wikilink")（[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")のみ）
+      - [CREATIVE OFFICE CUE所属タレント一同](../Page/CREATIVE_OFFICE_CUE.md "wikilink")（[鈴井貴之](../Page/鈴井貴之.md "wikilink")、[TEAM NACSほか](../Page/TEAM_NACS.md "wikilink")、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")のみ）
       - [矢作兼](../Page/矢作兼.md "wikilink")（2006年9月 - ・Begin\!のみ）
   - BOSSレインボーマウンテン
       - [中居正広](../Page/中居正広.md "wikilink")「Good job・みんなで光を・反射篇」、「秘宝を探せ・黄金ジャン篇（[アニマル浜口](../Page/アニマル浜口.md "wikilink")共演）」、「Good job・企画会議・男はつらいよ篇」（2004年11月 - 2005年6月）
@@ -700,7 +705,7 @@
       - [上川隆也](../Page/上川隆也.md "wikilink")、[佐藤B作](../Page/佐藤B作.md "wikilink")、[佐藤蛾次郎](../Page/佐藤蛾次郎.md "wikilink")（2009年11月 - ）
     <!-- end list -->
       -
-        このCMには、[イタリア](../Page/イタリア.md "wikilink")[映画](../Page/映画.md "wikilink")「[ひまわり](../Page/ひまわり_\(映画\).md "wikilink")」テーマ曲（[ヘンリー・マンシーニ](../Page/ヘンリー・マンシーニ.md "wikilink")作曲）が用いられている。
+        このCMには、映画『[ひまわり](../Page/ひまわり_\(1970年の映画\).md "wikilink")』テーマ曲（[ヘンリー・マンシーニ](../Page/ヘンリー・マンシーニ.md "wikilink")作曲）が用いられている。
   - BOSSシルキーブラック
       -
         出演者は全員、「シルキーブラックオーケストラ」という楽団の一員という設定。
@@ -847,7 +852,7 @@
 
 ### 概要（ジョーンズ）
 
-2006年4月から放送されている長期シリーズ。**宇宙人ジョーンズ**が、地球人に化け、様々な職場に潜り込んで地球の潜入調査を行うというコンセプト。大の親日家として知られるハリウッド俳優トミー・リー・ジョーンズが主演を務める。「地球」とは言いながらもほとんどの舞台は日本であり、CM中における「地球（人）」の概念を「日本（人）」に置き換えると、放映時点の日本の世情を風刺する内容となるように作られている。
+2006年4月から放送されている長期シリーズ。**宇宙人ジョーンズ**が、地球人に化け、様々な職場に潜り込んで地球の潜入調査を行うというコンセプト。大の親日家として知られるハリウッド俳優[トミー・リー・ジョーンズ](../Page/トミー・リー・ジョーンズ.md "wikilink")が主演を務める。「地球」とは言いながらもほとんどの舞台は日本であり、CM中における「地球（人）」の概念を「日本（人）」に置き換えると、放映時点の日本の世情を風刺する内容となるように作られている。
 
 キャッチコピーは「**このろくでもない、すばらしき世界**」。
 
@@ -1127,272 +1132,272 @@
 <tbody>
 <tr class="odd">
 <td><p>『登場篇』</p></td>
-<td><p>2006年4月</p></td>
+<td><p>2006年4月4日</p></td>
 <td><p>-[50]</p></td>
 </tr>
 <tr class="even">
 <td><p>『工場篇』</p></td>
-<td><p>2006年</p></td>
+<td><p>2006年4月22日</p></td>
 <td><p>運搬作業員</p></td>
 </tr>
 <tr class="odd">
 <td><p>『ディスカウントストア篇』</p></td>
-<td><p>2006年</p></td>
+<td><p>2006年7月1日</p></td>
 <td><p><a href="../Page/ディスカウントストア.md" title="wikilink">ディスカウントストア</a>店員</p></td>
 </tr>
 <tr class="even">
 <td><p>『宅配便篇』</p></td>
-<td><p>2006年9月</p></td>
+<td><p>2006年9月12日</p></td>
 <td><p>宅配便の配達員</p></td>
 </tr>
 <tr class="odd">
 <td><p>『カラオケ篇』[51]</p></td>
-<td><p>2006年</p></td>
+<td><p>2006年11月3日</p></td>
 <td><p><a href="../Page/カラオケボックス.md" title="wikilink">カラオケボックス</a>店員</p></td>
 </tr>
 <tr class="even">
 <td><p>『競争社会篇』</p></td>
-<td><p>2007年1月</p></td>
+<td><p>2006年12月31日</p></td>
 <td><p>ホスト</p></td>
 </tr>
 <tr class="odd">
 <td><p>『牧場篇』</p></td>
-<td><p>2007年4月</p></td>
+<td><p>2007年4月26日</p></td>
 <td><p>牧場の従業員</p></td>
 </tr>
 <tr class="even">
 <td><p>『ホットペッパー篇』</p></td>
-<td><p>2007年6月</p></td>
+<td><p>2007年6月23日</p></td>
 <td><p><a href="../Page/ホットペッパー_(フリーペーパー).md" title="wikilink">ホットペッパー配り</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>『空港篇』</p></td>
-<td><p>2007年8月</p></td>
+<td><p>2007年8月28日</p></td>
 <td><p><a href="../Page/空港警備.md" title="wikilink">空港警備</a>員</p></td>
 </tr>
 <tr class="even">
 <td><p>『帰還篇』</p></td>
-<td><p>2007年9月</p></td>
+<td><p>2007年9月18日</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p>『温泉篇』</p></td>
-<td><p>2007年11月</p></td>
+<td><p>2007年11月17日</p></td>
 <td><p>旅館従業員</p></td>
 </tr>
 <tr class="even">
 <td><p>『秋葉原篇』</p></td>
-<td><p>2008年1月</p></td>
+<td><p>2008年2月2日</p></td>
 <td><p>取材クルーの照明担当スタッフ</p></td>
 </tr>
 <tr class="odd">
 <td><p>『農家篇』</p></td>
-<td><p>2008年3月</p></td>
+<td><p>2008年4月1日</p></td>
 <td><p>農家のお手伝い</p></td>
 </tr>
 <tr class="even">
 <td><p>『時代劇篇』</p></td>
-<td><p>2008年4月</p></td>
+<td><p>2008年4月19日</p></td>
 <td><p>時代劇俳優（<a href="../Page/エキストラ.md" title="wikilink">エキストラ</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>『大工篇』</p></td>
-<td><p>2008年7月</p></td>
+<td><p>2008年7月12日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大工" title="wikilink">大工</a></p></td>
 </tr>
 <tr class="even">
 <td><p>『地上の星篇』[52]</p></td>
-<td><p>2008年8月</p></td>
+<td><p>2008年8月25日</p></td>
 <td><p>工事作業員</p></td>
 </tr>
 <tr class="odd">
 <td><p>『ラーメン屋台篇』</p></td>
-<td><p>2008年12月</p></td>
+<td><p>2008年12月6日</p></td>
 <td><p>ラーメン屋台店主</p></td>
 </tr>
 <tr class="even">
 <td><p>『知事篇』</p></td>
-<td><p>2009年4月</p></td>
+<td><p>2009年4月4日</p></td>
 <td><p><a href="../Page/知事.md" title="wikilink">知事</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>『刑事篇』[53]</p></td>
-<td><p>2009年6月</p></td>
+<td><p>2009年6月20日</p></td>
 <td><p><a href="../Page/刑事.md" title="wikilink">刑事</a></p></td>
 </tr>
 <tr class="even">
 <td><p>『結婚篇』</p></td>
-<td><p>2009年8月</p></td>
+<td><p>2009年8月18日</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p>『お父さん篇』</p></td>
-<td><p>2009年9月</p></td>
+<td><p>2009年9月1日</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
 <td><p>『サンタクロース篇』</p></td>
-<td><p>2009年12月</p></td>
+<td><p>2009年11月28日</p></td>
 <td><p>ケーキショップ店員</p></td>
 </tr>
 <tr class="odd">
 <td><p>『人類史篇』</p></td>
-<td><p>2010年1月</p></td>
+<td><p>2009年12月31日</p></td>
 <td><p>道路作業員[54]</p></td>
 </tr>
 <tr class="even">
 <td><p>『桜篇』</p></td>
-<td><p>2010年3月</p></td>
+<td><p>2010年3月17日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/神社" title="wikilink">神社</a>の従業員</p></td>
 </tr>
 <tr class="odd">
 <td><p>『鵜飼い篇』</p></td>
-<td><p>2010年6月</p></td>
+<td><p>2010年6月1日</p></td>
 <td><p><a href="../Page/鵜飼い.md" title="wikilink">鵜飼い</a></p></td>
 </tr>
 <tr class="even">
 <td><p>『2つのタワー篇』[55]</p></td>
-<td><p>2010年8月</p></td>
+<td><p>2010年8月18日</p></td>
 <td><p>エレベーター案内役</p></td>
 </tr>
 <tr class="odd">
 <td><p>『<a href="../Page/タクシー.md" title="wikilink">タクシー</a>篇』</p></td>
-<td><p>2010年11月</p></td>
+<td><p>2010年11月27日</p></td>
 <td><p><a href="../Page/タクシー.md" title="wikilink">タクシー</a>運転手</p></td>
 </tr>
 <tr class="even">
 <td><p>『とある老人篇』[56]</p></td>
-<td><p>2011年1月</p></td>
+<td><p>2010年12月31日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>『2011年特別篇』[57]</p></td>
-<td><p>2011年4月</p></td>
+<td><p>2011年4月16日</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
 <td><p>『駅員篇』[58]</p></td>
-<td><p>2011年4月</p></td>
+<td><p>2011年5月1日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/鉄道員" title="wikilink">鉄道の駅員</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>『教師篇』[59]</p></td>
-<td><p>2011年6月</p></td>
+<td><p>2011年6月18日</p></td>
 <td><p><a href="../Page/教員.md" title="wikilink">学校の教師</a></p></td>
 </tr>
 <tr class="even">
 <td><p>『奥の細道篇』[60]</p></td>
-<td><p>2011年9月</p></td>
+<td><p>2011年9月20日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/俳人" title="wikilink">俳人</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>『宇宙篇』</p></td>
-<td><p>2011年12月</p></td>
+<td><p>2011年12月29日</p></td>
 <td><p><a href="../Page/宇宙飛行士.md" title="wikilink">宇宙飛行士</a></p></td>
 </tr>
 <tr class="even">
 <td><p>『宇宙(実験)篇』</p></td>
-<td></td>
+<td><p>2012年1月7日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>『医師篇』</p></td>
-<td><p>2012年1月</p></td>
+<td><p>2012年1月28日</p></td>
 <td><p><a href="../Page/医師.md" title="wikilink">医師</a></p></td>
 </tr>
 <tr class="even">
 <td><p>『子役篇』</p></td>
-<td><p>2012年7月</p></td>
+<td><p>2012年7月1日</p></td>
 <td><p><a href="../Page/マネージャー.md" title="wikilink">芸能マネージャー</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>『出会い篇』[61]</p></td>
-<td><p>2012年8月</p></td>
+<td><p>2012年8月21日</p></td>
 <td><p>宇宙飛行士</p></td>
 </tr>
 <tr class="even">
 <td><p>『出会い(告知)篇』[62]</p></td>
-<td></td>
+<td><p>2012年8月24日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>『白戸家篇』</p></td>
-<td><p>2012年9月</p></td>
+<td><p>2012年9月4日</p></td>
 <td><p><a href="../Page/家政婦.md" title="wikilink">家政婦</a>（家政夫）</p></td>
 </tr>
 <tr class="even">
 <td><p>『海外旅行篇』</p></td>
-<td></td>
+<td><p>2012年9月30日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>『一乗谷篇』</p></td>
-<td><p>2012年10月</p></td>
+<td><p>2012年10月10日</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>『別れ篇』[63]</p></td>
-<td></td>
+<td><p>2012年12月16日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>『ネット篇』[64][65]</p></td>
-<td><p>2013年1月</p></td>
+<td><p>『ネット特別篇』[64][65][66]</p></td>
+<td><p>2013年1月1日</p></td>
 <td><p>宅配ピザの配達員</p></td>
 </tr>
 <tr class="even">
-<td><p>『ネット特別篇』[66][67][68]</p></td>
-<td></td>
+<td><p>『ネット篇』[67][68]</p></td>
+<td><p>2013年1月7日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>『大相撲篇』[69]</p></td>
-<td><p>2013年4月</p></td>
+<td><p>2013年4月6日</p></td>
 <td><p><a href="../Page/行司.md" title="wikilink">行司</a></p></td>
 </tr>
 <tr class="even">
 <td><p>『黒スーツの男篇』[70][71]</p></td>
-<td><p>2013年6月</p></td>
+<td><p>2013年6月4日</p></td>
 <td><p><a href="../Page/ネオン.md" title="wikilink">ネオン</a>作業員</p></td>
 </tr>
 <tr class="odd">
 <td><p>『コンサート出会い篇』[72]</p></td>
-<td><p>2013年8月</p></td>
+<td><p>2013年8月20日</p></td>
 <td><p><a href="../Page/警備員.md" title="wikilink">警備員</a></p></td>
 </tr>
 <tr class="even">
 <td><p>『コンサート篇』[73][74]</p></td>
-<td><p>2013年9月</p></td>
+<td><p>2013年9月3日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>『コンビニ篇』[75]</p></td>
-<td><p>2013年10月</p></td>
+<td><p>2013年10月1日</p></td>
 <td><p><a href="../Page/コンビニエンスストア.md" title="wikilink">コンビニエンスストア</a>店員</p></td>
 </tr>
 <tr class="even">
 <td><p>『マンション篇』[76]</p></td>
-<td><p>2014年1月</p></td>
+<td><p>2013年12月31日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マンション" title="wikilink">マンション</a>管理人</p></td>
 </tr>
 <tr class="odd">
 <td><p>『用具係篇』[77]</p></td>
-<td><p>2014年4月</p></td>
+<td><p>2014年4月22日</p></td>
 <td><p><a href="../Page/横浜DeNAベイスターズ.md" title="wikilink">横浜DeNAベイスターズ</a>用具係</p></td>
 </tr>
 <tr class="even">
 <td><p>『黒ドレスの女篇』[78]</p></td>
-<td><p>2014年6月</p></td>
+<td><p>2014年6月3日</p></td>
 <td><p>パーティーのウェイター</p></td>
 </tr>
 <tr class="odd">
 <td><p>『プレミアムな出会い篇』[79]</p></td>
-<td><p>2014年8月</p></td>
+<td><p>2014年8月29日</p></td>
 <td><p><a href="../Page/花屋.md" title="wikilink">花屋</a>の配達員</p></td>
 </tr>
 <tr class="even">
 <td><p>『テレビ局篇』[80]</p></td>
-<td><p>2014年9月</p></td>
+<td><p>2014年9月2日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1407,27 +1412,27 @@
 </tr>
 <tr class="odd">
 <td><p>『テレビと若者篇』</p></td>
-<td><p>2014年12月</p></td>
+<td><p>2014年11月22日</p></td>
 <td><p>屋根の塗装作業員</p></td>
 </tr>
 <tr class="even">
 <td><p>『Pepper（職場）篇』[85]</p></td>
-<td><p>2015年2月</p></td>
+<td><p>2015年2月7日</p></td>
 <td><p>スタジアム建設作業員</p></td>
 </tr>
 <tr class="odd">
 <td><p>『Pepper（家庭）篇』</p></td>
+<td><p>2015年2月22日</p></td>
 <td><p><a href="../Page/庭師.md" title="wikilink">庭師</a></p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>『プレミアム鉄道篇』[86]</p></td>
-<td><p>2015年3月</p></td>
+<td><p>2015年3月15日</p></td>
 <td><p><a href="../Page/動力車操縦者.md" title="wikilink">列車の運転士兼</a><a href="../Page/車掌.md" title="wikilink">車掌</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>『<a href="../Page/時代_(中島みゆきの曲).md" title="wikilink">時代篇</a>』</p></td>
-<td><p>2015年8月</p></td>
+<td><p>2015年9月1日</p></td>
 <td><p><a href="../Page/回転寿司.md" title="wikilink">回転寿司</a>店店員</p></td>
 </tr>
 <tr class="even">
@@ -1437,47 +1442,47 @@
 </tr>
 <tr class="odd">
 <td><p>『<a href="../Page/恋人も濡れる街角.md" title="wikilink">恋人も濡れる街角</a>篇』</p></td>
+<td><p>2015年9月2日</p></td>
 <td><p>養鯉場従業員</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>『プレミアム京都篇』[87][88]</p></td>
-<td><p>2015年10月</p></td>
+<td><p>2015年9月29日</p></td>
 <td><p>寺男</p></td>
 </tr>
 <tr class="odd">
 <td><p>『<a href="https://ja.wikipedia.org/wiki/地上の星/ヘッドライト・テールライト" title="wikilink">ヘッドライト・テールライト篇</a>』</p></td>
-<td><p>2015年12月</p></td>
+<td><p>2015年12月11日</p></td>
 <td><p>長距離トラック運転手</p></td>
 </tr>
 <tr class="even">
 <td><p>『<a href="https://ja.wikipedia.org/wiki/北海道新幹線" title="wikilink">北海道新幹線</a>篇』</p></td>
-<td><p>2016年1月</p></td>
+<td><p>2016年2月2日</p></td>
 <td><p><a href="../Page/保線.md" title="wikilink">保線</a>作業員</p></td>
 </tr>
 <tr class="odd">
 <td><p>『プレミアム城跡篇』[89][90]</p></td>
-<td><p>2016年3月</p></td>
+<td><p>2016年3月1日</p></td>
 <td><p>現地ガイド[91]</p></td>
 </tr>
 <tr class="even">
 <td><p>『プレミアム祭り篇』[92]</p></td>
-<td><p>2016年9月</p></td>
+<td><p>2016年9月6日</p></td>
 <td><p><a href="../Page/的屋.md" title="wikilink">的屋</a>[93]</p></td>
 </tr>
 <tr class="odd">
 <td><p>『おまわりさん篇』[94]</p></td>
+<td><p>2016年9月26日</p></td>
 <td><p><a href="../Page/巡査.md" title="wikilink">交番勤務の警察官</a></p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>『プレミアムTOKYO篇』[95]</p></td>
+<td><p>2016年9月27日</p></td>
 <td><p>水上タクシーの運転手[96]</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>『昭和篇』[97]</p></td>
-<td><p>2016年12月</p></td>
+<td><p>2016年12月1日</p></td>
 <td><p>ラジオ番組ディレクター<br />
 演劇スタッフ<br />
 『<a href="../Page/クイズダービー.md" title="wikilink">クイズダービー</a>』出場者<br />
@@ -1485,67 +1490,67 @@
 </tr>
 <tr class="even">
 <td><p>『プレミアム熊本篇』</p></td>
-<td><p>2017年2月</p></td>
+<td><p>2017年2月7日</p></td>
 <td><p><a href="../Page/熊本城.md" title="wikilink">熊本城</a>修復工事の作業員</p></td>
 </tr>
 <tr class="odd">
 <td><p>『ボスジャンの先輩篇』</p></td>
-<td><p>2017年9月</p></td>
+<td><p>2017年9月5日</p></td>
 <td><p>建設作業現場の作業員</p></td>
 </tr>
 <tr class="even">
 <td><p>『25年間』</p></td>
-<td><p>2017年9月</p></td>
+<td><p>2017年10月7日</p></td>
 <td><p>電器店店長、漁師、議員事務所のスタッフ</p></td>
 </tr>
 <tr class="odd">
 <td><p>『CRAFT BOSS篇』</p></td>
-<td><p>2017年9月～</p></td>
+<td><p>2017年9月7日</p></td>
 <td><p>宅配ピザ配達員、清掃スタッフ(窓拭き清掃員を含む)、リフォーム工事業者、冒険家。</p></td>
 </tr>
 <tr class="even">
 <td><p>『休みとは篇』</p></td>
-<td><p>2018年2月</p></td>
+<td><p>2018年2月1日</p></td>
 <td><p>行列の整理</p></td>
 </tr>
 <tr class="odd">
 <td><p>『<a href="https://ja.wikipedia.org/wiki/海女" title="wikilink">海女</a>篇』</p></td>
-<td><p>2018年2月</p></td>
+<td><p>2018年2月6日</p></td>
 <td><p>海女、ポリネシアンダンサー</p></td>
 </tr>
 <tr class="even">
 <td><p>『<a href="https://ja.wikipedia.org/wiki/関ヶ原の戦い" title="wikilink">関が原篇</a>』</p></td>
-<td><p>2018年9月</p></td>
+<td><p>2018年9月4日</p></td>
 <td><p>足軽</p></td>
 </tr>
 <tr class="odd">
 <td><p>『<a href="../Page/忠臣蔵.md" title="wikilink">忠臣蔵</a>篇』</p></td>
-<td><p>2018年11月</p></td>
+<td><p>2018年11月2日</p></td>
 <td><p>吉良邸の奉公人</p></td>
 </tr>
 <tr class="even">
 <td><p>『<a href="https://ja.wikipedia.org/wiki/地上の星/ヘッドライト・テールライト" title="wikilink">ヘッドライト・テールライト</a>2019篇』</p></td>
-<td><p>2019年2月</p></td>
+<td><p>2019年2月2日</p></td>
 <td><p>長距離トラック運転手</p></td>
 </tr>
 <tr class="odd">
 <td><p>『CRAFT BOSS TEA 新しい風・ロンドン篇』</p></td>
-<td><p>2019年3月</p></td>
+<td><p>2019年3月19日</p></td>
 <td><p>バグパイプ演奏者</p></td>
 </tr>
 <tr class="even">
 <td><p>『<a href="../Page/平成.md" title="wikilink">平成</a>特別篇』</p></td>
-<td><p>2019年4月</p></td>
+<td><p>2019年4月30日</p></td>
 <td><p>役場の職員</p></td>
 </tr>
 <tr class="odd">
 <td><p>『<a href="../Page/老舗.md" title="wikilink">老舗</a>篇』</p></td>
-<td><p>2019年9月</p></td>
+<td><p>2019年9月3日</p></td>
 <td><p>和菓子職人</p></td>
 </tr>
 <tr class="even">
 <td><p>『<a href="../Page/漁港.md" title="wikilink">漁港</a>篇』</p></td>
-<td><p>2020年2月</p></td>
+<td><p>2020年2月4日</p></td>
 <td><p>魚市場の従業員</p></td>
 </tr>
 </tbody>
@@ -1631,11 +1636,11 @@
 61. BGMには[2001年宇宙の旅](../Page/2001年宇宙の旅.md "wikilink")のテーマソングが使われている。
 62. 『出会い篇』の続篇。
 63. 山に篭っているため、正確には元家政夫である。
-64. ジョーンズの吹き替えを演じる谷口は2012年12月に死去したため、このCMが遺作となった。
-65. BGMには『[Xファイル](https://ja.wikipedia.org/wiki/Xファイル "wikilink")』のテーマソングが使われている。
-66.
-67.
-68. 『ネット篇』の新春限定CM。ジョーンズを捕獲するという、『ネット篇』とは異なる展開になっている。また、CMの最後に自転車で空を飛ぶシーンは『[E.T.](../Page/E.T..md "wikilink")』のパロディとなっている。
+64.
+65.
+66. 『ネット篇』の新春限定CM。ジョーンズを捕獲するという、『ネット篇』とは異なる展開になっている。また、CMの最後に自転車で空を飛ぶシーンは『[E.T.](../Page/E.T..md "wikilink")』のパロディとなってい る。
+67. ジョーンズの吹き替えを演じる谷口は2012年12月に死去したため、このCMが遺作となった。
+68. BGMには『[Xファイル](https://ja.wikipedia.org/wiki/Xファイル "wikilink")』のテーマソングが使われている。
 69. ロケ地は[両国国技館](../Page/両国国技館.md "wikilink")と[東関部屋](../Page/東関部屋.md "wikilink")の稽古場。BGMに[中島みゆき](../Page/中島みゆき.md "wikilink")の『[糸](https://ja.wikipedia.org/wiki/命の別名/糸 "wikilink")』が使用されている。
 70. BGMには『[ピーター・ガン](https://ja.wikipedia.org/wiki/ピーター・ガン "wikilink")』のテーマソングが使用されている。
 71. ロケ地は[SHIBUYA109の屋上](https://ja.wikipedia.org/wiki/109_\(商業施設\)#SHIBUYA109（渋谷） "wikilink")。

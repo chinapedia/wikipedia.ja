@@ -3,7 +3,7 @@
 
 **Microsoft IME**（マイクロソフト・アイエムイー）は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が開発した[インプットメソッド](../Page/インプットメソッド.md "wikilink")（[IME](https://ja.wikipedia.org/wiki/IME "wikilink")）である。**MS-IME**（エムエス・アイエムイー）と略されることがある。**IME**は、Windowsのインプットメソッド全般の一般名称である。
 
-[日本語](../Page/日本語.md "wikilink")、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")（[繁体字](../Page/繁体字.md "wikilink")・[簡体字](https://ja.wikipedia.org/wiki/簡体字 "wikilink")）、[韓国語など](../Page/朝鮮語.md "wikilink")、入力できる言語ごとにMicrosoft IMEが存在するが、ここでは[日本語入力システム](../Page/日本語入力システム.md "wikilink")（日本語IME）としてのMicrosoft IMEについて述べる。
+[日本語](../Page/日本語.md "wikilink")、[中国語](../Page/中国語.md "wikilink")（[繁体字](../Page/繁体字.md "wikilink")・[簡体字](https://ja.wikipedia.org/wiki/簡体字 "wikilink")）、[韓国語など](../Page/朝鮮語.md "wikilink")、入力できる言語ごとにMicrosoft IMEが存在するが、ここでは[日本語入力システム](../Page/日本語入力システム.md "wikilink")（日本語IME）としてのMicrosoft IMEについて述べる。
 
 ## 概要
 
@@ -184,7 +184,7 @@ Windows NT 4.0 SP4</p></td>
 ## 外部リンク
 
   - [Microsoft Office IME 2010](https://www.microsoft.com/ja-jp/download/details.aspx?id=30390)
-  - [IME チームのブログ](https://blogs.technet.microsoft.com/ime/)
+  - [IME Archives - Windows Blog for Japan](https://blogs.windows.com/japan/tag/ime/)
   - [Microsoft日本語IMEの使い方・設定方法](https://support.microsoft.com/ja-jp/help/4462244/microsoft-ime)
 
 [Category:Microsoft_Office](https://ja.wikipedia.org/wiki/Category:Microsoft_Office "wikilink") [Category:Microsoft_Windows](https://ja.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink") [Category:マイクロソフトのソフトウェア](https://ja.wikipedia.org/wiki/Category:マイクロソフトのソフトウェア "wikilink") [Category:日本語入力ソフト](https://ja.wikipedia.org/wiki/Category:日本語入力ソフト "wikilink") [Category:Windowsのコンポーネント](https://ja.wikipedia.org/wiki/Category:Windowsのコンポーネント "wikilink") [Category:1990年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1990年のソフトウェア "wikilink")

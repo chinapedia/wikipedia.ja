@@ -7,7 +7,7 @@
 
 ## 来歴・人物
 
-  - 最終学歴は、[日本大学](https://ja.wikipedia.org/wiki/日本大学 "wikilink")芸術学部音楽科[ヴィオラ](../Page/ヴィオラ.md "wikilink")学科卒業。血液型は[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+  - 最終学歴は、[日本大学](https://ja.wikipedia.org/wiki/日本大学 "wikilink")芸術学部音楽科[ヴィオラ](../Page/ヴィオラ.md "wikilink")学科卒業。血液型は[B型](../Page/ABO式血液型.md "wikilink")。
   - 幼少期、[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")ファンの父親の影響で子供の頃から洋楽を聞く。中学から[作詞](../Page/作詞.md "wikilink")を、高校から[作曲](../Page/作曲.md "wikilink")を始める。
   - 1986年、[ポリスター](../Page/ポリスター.md "wikilink")から[フィンランド](../Page/フィンランド.md "wikilink")で録音した[LP盤](https://ja.wikipedia.org/wiki/LP盤 "wikilink")「MOI」と[シングル](../Page/シングル.md "wikilink")「さよならなんていわないで」で[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")、8枚の[スタジオアルバム](https://ja.wikipedia.org/wiki/スタジオアルバム "wikilink")を残しつつ、[今井美樹](../Page/今井美樹.md "wikilink")、[原田知世](https://ja.wikipedia.org/wiki/原田知世 "wikilink")などに楽曲提供する。
   - 1998年、[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")（現・[ユニバーサルミュージック傘下の](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")[EMI RECORDS](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\)#EMI_RECORDS "wikilink")）へ移籍、現在も籍を置く。
@@ -110,7 +110,7 @@
       - 「STEADY BOYS」 - 作曲（作詞：透影月奈・安藤芳彦、編曲：武部聡志）
       - 「バースデイには勇気を出して」 - 作曲（作詞：透影月奈・安藤芳彦、編曲：武部聡志）
       - 「Tears of Joy」 - 作曲（作詞：原田知世、編曲：[羽毛田丈史](../Page/羽毛田丈史.md "wikilink")）
-  - [日高のり子](../Page/日高のり子.md "wikilink")
+  - [日髙のり子](../Page/日髙のり子.md "wikilink")
       -
         「去りゆく想い」 - 作曲（作詞：佐藤純子、編曲：[見良津健雄](../Page/見良津健雄.md "wikilink")）
   - [深津絵里](https://ja.wikipedia.org/wiki/深津絵里 "wikilink")
@@ -159,9 +159,9 @@ AK名義。
 
 ## 外部リンク
 
-  - [AK US Official Site - AKNYC](http://www.aknyc.com/)
+  - [AK US Official Site - AKNYC](https://aknyc.com/)
 
-  - [AK](http://www.universal-music.co.jp/ak/) - UNIVERSAL MUSIC JAPAN
+  - [AK](https://www.universal-music.co.jp/ak/) - UNIVERSAL MUSIC JAPAN
 
   -
   -

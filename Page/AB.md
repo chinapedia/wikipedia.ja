@@ -11,8 +11,8 @@
   - [学士（教養）](https://ja.wikipedia.org/wiki/学士（教養） "wikilink") () - 学位
   - アドレスブック、[住所録](https://ja.wikipedia.org/wiki/住所録 "wikilink") ()
   - [スウェーデン語](../Page/スウェーデン語.md "wikilink")で「[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")」を意味する[アクチエボラグ](https://ja.wikipedia.org/wiki/アクチエボラグ "wikilink") () の略。
-  - [アイタレーヤ・ブラーフマナ](https://ja.wikipedia.org/wiki/アイタレーヤ・ブラーフマナ "wikilink") () - [ヒンドゥー教](../Page/ヒンドゥー教.md "wikilink")の[リグ・ヴェーダ](../Page/リグ・ヴェーダ.md "wikilink")と関連付けられる[婆羅門](https://ja.wikipedia.org/wiki/婆羅門 "wikilink")。
-  - AB型 - ヒトの[ABO式血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")のひとつ。
+  - [アイタレーヤ・ブラーフマナ](https://ja.wikipedia.org/wiki/アイタレーヤ・ブラーフマナ "wikilink") () - ヴェーダ文献の一つ[リグ・ヴェーダ](../Page/リグ・ヴェーダ.md "wikilink") (リグ・ヴェーダ・サンヒター)の[ブラーフマナ](../Page/ブラーフマナ.md "wikilink")(釈義書)。
+  - AB型 - ヒトの[ABO式血液型](../Page/ABO式血液型.md "wikilink")のひとつ。
   - [抗体](../Page/抗体.md "wikilink") ()
   - [膿瘍](https://ja.wikipedia.org/wiki/膿瘍 "wikilink") ()
   - [腹筋](https://ja.wikipedia.org/wiki/腹筋 "wikilink") ()

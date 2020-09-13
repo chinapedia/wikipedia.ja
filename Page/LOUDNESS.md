@@ -1,7 +1,7 @@
 > この記事は[LOUDNESS](https://ja.wikipedia.org/wiki/LOUDNESS)から翻訳されています。
 
 
-**LOUDNESS**（ラウドネス）は、元[レイジー](../Page/レイジー.md "wikilink")の[高崎晃](../Page/高崎晃.md "wikilink")と[樋口宗孝](../Page/樋口宗孝.md "wikilink")が中心になって結成された、日本の[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")\[1\]\[2\]。現在のメンバーは、[二井原実](../Page/二井原実.md "wikilink")（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）、[高崎晃](../Page/高崎晃.md "wikilink")（[ギター](../Page/ギター.md "wikilink")）、[山下昌良](../Page/山下昌良.md "wikilink")（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）、[鈴木政行](https://ja.wikipedia.org/wiki/鈴木政行 "wikilink")（[ドラム](../Page/ドラムセット.md "wikilink")）の4人である。レーベルは[ワードレコーズ](https://ja.wikipedia.org/wiki/ワードレコーズ "wikilink")、所属事務所は[カタナミュージック](https://ja.wikipedia.org/wiki/カタナミュージック "wikilink")。
+**LOUDNESS**（ラウドネス）は、1981年当時元[レイジー](../Page/レイジー.md "wikilink")のメンバーだった[高崎晃](../Page/高崎晃.md "wikilink")と[樋口宗孝](../Page/樋口宗孝.md "wikilink")が中心になって結成された、日本の[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")\[1\]\[2\]。現在のメンバーは、[二井原実](../Page/二井原実.md "wikilink")（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）、[高崎晃](../Page/高崎晃.md "wikilink")（[ギター](../Page/ギター.md "wikilink")）、[山下昌良](../Page/山下昌良.md "wikilink")（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）、[鈴木政行](https://ja.wikipedia.org/wiki/鈴木政行 "wikilink")（[ドラム](../Page/ドラムセット.md "wikilink")）の4人である。レーベルは[ワードレコーズ](https://ja.wikipedia.org/wiki/ワードレコーズ "wikilink")、所属事務所は[カタナミュージック](https://ja.wikipedia.org/wiki/カタナミュージック "wikilink")。
 
 80年代中盤に海外進出し、[ビルボード](../Page/ビルボード.md "wikilink")TOP100にアルバムを送り込んだ。さらに[モトリー・クルー](../Page/モトリー・クルー.md "wikilink")の前座ではあるものの、日本人アーティストとして初めて、「[マディソン・スクエア・ガーデン](../Page/マディソン・スクエア・ガーデン.md "wikilink")（MSG）」のステージに立つという快挙も成し遂げ、名実共に日本を代表するロックバンドとなった。
 
@@ -168,47 +168,47 @@ LOUDNESSのサウンドは高崎の指向がとても強く、第1期-第3期ま
 
 #### 結成からデビューまで
 
-[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")、所属事務所（[トライアングルプロダクション](https://ja.wikipedia.org/wiki/トライアングルプロダクション "wikilink")）の意向でアイドルバンドとしての活動を余儀なくされていた[LAZY](../Page/レイジー.md "wikilink")。そのLAZYのリーダーである樋口宗孝は他のメンバーより先に成人を迎えていた事から、多くの先輩ミュージシャンと呑みに行くうちに様々な情報を手に入れていた。そうした先輩ミュージシャンとの交流を深めていく内に所属事務所や業界の考えに違和感を持つ様になり、所属事務所側にいちリーダー、年長者として様々な口出しをする様になる\[5\]。そうした樋口の態度に対し事務所側は樋口を解雇しようとする動きに出るが、それを耳にした高崎晃は、樋口がいなくなるのなら自分も一緒に辞めると考える様になり\[6\]、その様な状況で12月にリリースされた『[宇宙船地球号](../Page/宇宙船地球号_\(アルバム\).md "wikilink")』はヘヴィメタル宣言をしたアルバムとして注目を集めたが、高崎によると当時の評価は「アイドルバンドがヘヴィメタルに挑戦しただけ」\[7\]というネガティブな受け止められ方が強かった事や、[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")と[井上俊次](../Page/井上俊次.md "wikilink")の2人が[ジューダス・プリースト](../Page/ジューダス・プリースト.md "wikilink")や[アイアン・メイデン](../Page/アイアン・メイデン.md "wikilink")らを中心に当時イギリスで注目を集めていたNWOBHMの様な音楽性に着いていけなくなった事\[8\]\[9\]も含め、上記の様な事情が重なり合った結果、LAZY解散の道へ向かう事となった\[10\]。
+[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")、所属事務所（[トライアングルプロダクション](https://ja.wikipedia.org/wiki/トライアングルプロダクション "wikilink")）の強い意向でアイドルバンドとしての活動を余儀なくされていた[LAZY](../Page/レイジー.md "wikilink")。そのLAZYのリーダーである樋口宗孝は他のメンバーより先に成人を迎えていた事から、多くの先輩ミュージシャンと呑みに行くうちに様々な情報を手に入れていた。そうした先輩ミュージシャンとの交流を深めていく内に所属事務所や業界の考えに違和感を持つ様になり、所属事務所側にいちリーダー、年長者として様々な口出しをする様になる\[5\]。そうした樋口の態度に対し社長の[藤田浩一](https://ja.wikipedia.org/wiki/藤田浩一 "wikilink")は樋口と衝突して解雇騒動にまで発展\[6\]、それを耳にした高崎晃は、樋口がいなくなるのなら自分も一緒に辞めると考える様になり\[7\]、その様な状況で12月にリリースされた『[宇宙船地球号](../Page/宇宙船地球号_\(アルバム\).md "wikilink")』はヘヴィメタル宣言をしたアルバムとして注目を集めたが、高崎によると当時の評価は「アイドルバンドがヘヴィメタルに挑戦しただけ」\[8\]というネガティブな受け止められ方が強かった事や、[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")と[井上俊次](../Page/井上俊次.md "wikilink")の2人が[ジューダス・プリースト](../Page/ジューダス・プリースト.md "wikilink")や[アイアン・メイデン](../Page/アイアン・メイデン.md "wikilink")らを中心に当時イギリスで注目を集めていたNWOBHMの様な音楽性に付いていけなくなった事\[9\]\[10\]も含め、上記の様な事情が重なり合った結果、LAZY解散の道へ向かう事となった\[11\]。
 
-[1981年](../Page/1981年.md "wikilink")2月、所属事務所とバンドメンバーとの協議の結果、2月18日のコンサートでLAZYは解散宣言をする。3月には高崎と樋口、[田中宏幸は高崎が](https://ja.wikipedia.org/wiki/田中宏幸_\(ベーシスト\) "wikilink")“東京の兄貴”と慕うレイジー初期の現場マネージャーだった元[テイチク・レコードの中下利行を従えて新バンド結成を決意](../Page/テイチクエンタテインメント.md "wikilink")\[11\]\[12\]。2〜3人程の候補者を招いてボーカルオーディションを開く。候補者の一人には後に第4期LOUDNESSのベーシストとなる柴田直人が当時在籍していた「BLACK HOLE」のボーカリスト（定リオ）もいた\[13\]。最終的に選ばれたのは高崎の幼馴染である山下昌良が推薦した元[EARTHSHAKER](../Page/EARTHSHAKER.md "wikilink")のボーカルの[二井原実](../Page/二井原実.md "wikilink")で、[パーシー・スレッジ](https://ja.wikipedia.org/wiki/パーシー・スレッジ "wikilink")の「[男が女を愛する時](https://ja.wikipedia.org/wiki/男が女を愛する時 "wikilink")」をピアノの弾き語りで歌った事が加入の決め手となりバンドに迎えられ\[14\]\[15\]、高崎晃プロジェクトとして始動。所属事務所も中下が[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")とビジネス上の付き合いがあった事から[ビーイング](../Page/ビーイング.md "wikilink")に籍を置く事となった\[16\]。
+[1981年](../Page/1981年.md "wikilink")2月、所属事務所とバンドメンバーとの協議の結果、2月18日のコンサートでLAZYは解散宣言をする。3月には高崎と樋口、[田中宏幸は高崎が](https://ja.wikipedia.org/wiki/田中宏幸_\(ベーシスト\) "wikilink")“東京の兄貴”と慕うレイジー初期の現場マネージャーだった元[テイチク・レコードの中下利行を従えて新バンド結成を決意](../Page/テイチクエンタテインメント.md "wikilink")\[12\]\[13\]。2〜3人程の候補者を招いてボーカルオーディションを開く。候補者の一人には後に第4期LOUDNESSのベーシストとなる柴田直人が当時在籍していた「BLACK HOLE」のボーカリスト（定リオ）もいた\[14\]。最終的に選ばれたのは高崎の幼馴染である山下昌良が推薦した元[EARTHSHAKER](../Page/EARTHSHAKER.md "wikilink")のボーカルの[二井原実](../Page/二井原実.md "wikilink")で、[パーシー・スレッジ](https://ja.wikipedia.org/wiki/パーシー・スレッジ "wikilink")の「[男が女を愛する時](https://ja.wikipedia.org/wiki/男が女を愛する時 "wikilink")」をピアノの弾き語りで歌った事が加入の決め手となりバンドに迎えられ\[15\]\[16\]、高崎晃プロジェクトとして始動。所属事務所も中下が[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")とビジネス上の付き合いがあった事から[ビーイング](../Page/ビーイング.md "wikilink")に籍を置く事となった\[17\]。
 
-5月31日にLAZYは正式に解散。しかし、程なくして田中は音楽性の違いや樋口との意見が合わなくなった事から離脱\[17\]。そこで高崎の幼馴染で、二井原をボーカルに推薦した[山下昌良](../Page/山下昌良.md "wikilink")をベースに迎え、山下は6月に上京し高崎の自宅マンションに居候として住み込め始めた\[18\]。ここから高崎晃プロジェクトからバンドという体制に方向転換する。(当初はあくまでも高崎晃のソロアルバム制作を目的に動いていたプロジェクトであったがスタジオでのセッションが予想以上に良かったため樋口の提案により、このメンツでの新バンド結成に繋がった)\[19\]\[20\]。山下は二井原を推薦した当時、「ゼファー」というバンド（山下以外には後に[MARINOに加入する](https://ja.wikipedia.org/wiki/MARINO_\(バンド\) "wikilink")[大谷令文](../Page/大谷令文.md "wikilink")、後に[X-RAY](../Page/X-RAY.md "wikilink")に加入する[高橋ロジャー和久](../Page/高橋ロジャー和久.md "wikilink")が在籍）を結成しており、山下の自宅でゼファーのファーストライブの打ち合わせをしている時に、高崎から電話でLOUDNESSに誘われている\[21\]。
+5月31日にLAZYは正式に解散。しかし、程なくして田中は音楽性の違いや樋口との意見が合わなくなった事から離脱\[18\]。そこで高崎の幼馴染で、二井原をボーカルに推薦した[山下昌良](../Page/山下昌良.md "wikilink")をベースに迎え、山下は6月に上京し高崎の自宅マンションに居候として住み込め始めた\[19\]。ここから高崎晃プロジェクトからバンドという体制に方向転換する。(当初はあくまでも高崎晃のソロアルバム制作を目的に動いていたプロジェクトであったがスタジオでのセッションが予想以上に良かったため樋口の提案により、このメンツでの新バンド結成に繋がった)\[20\]\[21\]。山下は二井原を推薦した当時、「ゼファー」というバンド（山下以外には後に[MARINOに加入する](https://ja.wikipedia.org/wiki/MARINO_\(バンド\) "wikilink")[大谷令文](../Page/大谷令文.md "wikilink")、後に[X-RAY](../Page/X-RAY.md "wikilink")に加入する[高橋ロジャー和久](../Page/高橋ロジャー和久.md "wikilink")が在籍）を結成しており、山下の自宅でゼファーのファーストライブの打ち合わせをしている時に、高崎から電話でLOUDNESSに誘われている\[22\]。
 
-同年8月、エンジニアに[小野誠彦](https://ja.wikipedia.org/wiki/小野誠彦 "wikilink")を迎え、三重県のチェスナットスタジオでレコーディングを行い、マスタリング作業を含めてたった5日間で終わらせた\[22\]。バンド名もこの頃に「LOUDNESS」に決まった\[23\]。
+同年8月、エンジニアに[小野誠彦](https://ja.wikipedia.org/wiki/小野誠彦 "wikilink")を迎え、三重県のチェスナットスタジオでレコーディングを行い、マスタリング作業を含めてたった5日間で終わらせた\[23\]。バンド名もこの頃に「LOUDNESS」に決まった\[24\]。
 
 #### デビュー〜海外進出
 
-[11月25日](../Page/11月25日.md "wikilink")、[日本コロムビア](../Page/日本コロムビア.md "wikilink")より、アルバム『[THE BIRTHDAY EVE 〜誕生前夜〜](https://ja.wikipedia.org/wiki/THE_BIRTHDAY_EVE_〜誕生前夜〜 "wikilink")』でデビューした。この作品でのサウンドは[ヴァン・ヘイレン](../Page/ヴァン・ヘイレン.md "wikilink")の『[炎の導火線](https://ja.wikipedia.org/wiki/炎の導火線 "wikilink")』\[24\]や[NWOBHM](../Page/NWOBHM.md "wikilink")を意識しており、1曲1曲に様々なリフを詰め込み、全体的に長い演奏時間や変拍子な曲調から[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")の傾向も見られる。[12月17日](../Page/12月17日.md "wikilink")に[浅草国際劇場](https://ja.wikipedia.org/wiki/浅草国際劇場 "wikilink")にてデビューコンサートを実施。「日本のハードロックは売れない」と言う当時の邦楽界の見方に反し、3000枚近くあったチケットは即座に完売し、関係者を驚かせた\[25\]。
+[11月25日](../Page/11月25日.md "wikilink")、[日本コロムビア](../Page/日本コロムビア.md "wikilink")より、アルバム『[THE BIRTHDAY EVE 〜誕生前夜〜](https://ja.wikipedia.org/wiki/THE_BIRTHDAY_EVE_〜誕生前夜〜 "wikilink")』でデビューした。この作品でのサウンドは[ヴァン・ヘイレン](../Page/ヴァン・ヘイレン.md "wikilink")の『[炎の導火線](https://ja.wikipedia.org/wiki/炎の導火線 "wikilink")』\[25\]や[NWOBHM](../Page/NWOBHM.md "wikilink")を意識しており、1曲1曲に様々なリフを詰め込み、全体的に長い演奏時間や変拍子な曲調から[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")の傾向も見られる。[12月17日](../Page/12月17日.md "wikilink")に[浅草国際劇場](https://ja.wikipedia.org/wiki/浅草国際劇場 "wikilink")にてデビューコンサートを実施。「日本のハードロックは売れない」と言う当時の邦楽界の見方に反し、3000枚近くあったチケットは即座に完売し、関係者を驚かせた\[26\]。
 
-1982年1月18日、[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")で行われた『JAPAN HEAVY METAL FESTIVAL』、22日には[大阪毎日ホール](https://ja.wikipedia.org/wiki/大阪毎日ホール "wikilink")で行われた『JAPAN HEAVY METAL FANTASY』といったイベントに出演。二井原はプロ経験が浅かった事もあり、多くのミスを犯してしまった事から初めてプロとして活動する厳しさを痛感する\[26\]。4月6日には本格的なツアーを開始するが、4月10日で行われた[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")公演で大音量で演奏した事から近隣住民からクレームが殺到したとの事で出入り禁止を下されたとの噂が広まった\[27\]。ただし高崎曰く「出禁と言うよりは、その後しばらく出られなくなった」との事\[28\]。 5月1日にはデビューシングル『BURNING LOVE』をリリース、7月25日にリリースされた『[DEVIL SOLDIER 〜戦慄の奇蹟〜](https://ja.wikipedia.org/wiki/DEVIL_SOLDIER_〜戦慄の奇蹟〜 "wikilink")』では[レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")にジョージ吾妻の紹介で[ダニー・マクレンドン](https://ja.wikipedia.org/wiki/ダニー・マクレンドン "wikilink")を起用したが、サウンド的には前作の延長上であった（実際に前作からの[アウトテイク](https://ja.wikipedia.org/wiki/アウトテイク "wikilink")曲もある）が『誕生前夜』以上の売上を記録した\[29\]。
+1982年1月18日、[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")で行われた『JAPAN HEAVY METAL FESTIVAL』、22日には[大阪毎日ホール](https://ja.wikipedia.org/wiki/大阪毎日ホール "wikilink")で行われた『JAPAN HEAVY METAL FANTASY』といったイベントに出演。二井原はプロ経験が浅かった事もあり、多くのミスを犯してしまった事から初めてプロとして活動する厳しさを痛感する\[27\]。4月6日には本格的なツアーを開始するが、4月10日で行われた[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")公演で大音量で演奏した事から近隣住民からクレームが殺到したとの事で出入り禁止を下されたとの噂が広まったが\[28\]、高崎によると「出禁と言うよりは、その後しばらく出られなくなった」との事\[29\]。 5月1日にはデビューシングル『BURNING LOVE』をリリース、7月25日にリリースされた『[DEVIL SOLDIER 〜戦慄の奇蹟〜](https://ja.wikipedia.org/wiki/DEVIL_SOLDIER_〜戦慄の奇蹟〜 "wikilink")』では[レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")にジョージ吾妻の紹介で[ダニー・マクレンドン](https://ja.wikipedia.org/wiki/ダニー・マクレンドン "wikilink")を起用したが、サウンド的には前作の延長上であった（実際に前作からの[アウトテイク](https://ja.wikipedia.org/wiki/アウトテイク "wikilink")曲もある）が『誕生前夜』以上の売上を記録した\[30\]。
 
-1983年、ビーイングを離脱し、中下が新たに設立した音楽事務所「LOUDNESS MUSIC」に移籍。1月21日にリリースされた『[THE LAW OF DEVIL'S LAND 〜魔界典章〜](https://ja.wikipedia.org/wiki/THE_LAW_OF_DEVIL'S_LAND_〜魔界典章〜 "wikilink")』でもダニー・マクレンドンを起用。ダニーはアメリカの関係者との繋がりもある事から幾つかの現地のライブハウスにブッキングをし\[30\]、バンドは7月9日に渡米。現地のラジオ局が「IN THE MIRROR」や「SPEED」を流した事や、メタルマニア向けのレコード・ショップでLOUDNESSのアルバムを扱っていた事も含め、アンダーグラウンドな[ファンジン](https://ja.wikipedia.org/wiki/ファンジン "wikilink")で情報を得ていたアメリカのメタルマニアが当時高額だった日本盤を購入するという現象が起きた\[31\]。
+1983年、ビーイングを離脱し、中下が新たに設立した音楽事務所「LOUDNESS MUSIC」に移籍。1月21日にリリースされた『[THE LAW OF DEVIL'S LAND 〜魔界典章〜](https://ja.wikipedia.org/wiki/THE_LAW_OF_DEVIL'S_LAND_〜魔界典章〜 "wikilink")』でもダニー・マクレンドンを起用。ダニーはアメリカの関係者との繋がりもある事から幾つかの現地のライブハウスにブッキングをし\[31\]、バンドは7月9日に渡米。現地のラジオ局が「IN THE MIRROR」や「SPEED」を流した事や、メタルマニア向けのレコード・ショップでLOUDNESSのアルバムを扱っていた事も含め、アンダーグラウンドな[ファンジン](https://ja.wikipedia.org/wiki/ファンジン "wikilink")で情報を得ていたアメリカのメタルマニアが当時高額だった日本盤を購入するという現象が起きた\[32\]。
 
-7月26日、全米ツアーを成功させた後に帰国。8月にはヨーロッパ・ツアーと新作のレコーディングの為に初の渡欧。エンジニアに[イエスの](../Page/イエス_\(バンド\).md "wikilink")『[ロンリー・ハート](../Page/ロンリー・ハート.md "wikilink")』を手がけた[ジュリアン・メンデルゾーンを迎え](https://ja.wikipedia.org/wiki/:en:Julian_Mendelsohn "wikilink")、1984年1月21日に発売された『[DISILLUSION 〜撃剣霊化〜](https://ja.wikipedia.org/wiki/DISILLUSION_〜撃剣霊化〜 "wikilink")』でバンド初期のサウンドは完成した。それと前後する形で1983年11月に初の2枚組ライブアルバム『[LIVE-LOUD-ALIVE LOUDNESS IN TOKYO](https://ja.wikipedia.org/wiki/LIVE-LOUD-ALIVE_LOUDNESS_IN_TOKYO "wikilink")』、翌12月には同名のライブビデオが発売された。この時期の作品はヨーロッパでは[ロードランナーや](../Page/ロードランナー・レコード.md "wikilink")[ミュージック・フォー・ネイションズ](https://ja.wikipedia.org/wiki/ミュージック・フォー・ネイションズ "wikilink")を通じてリリースされていた\[32\]。
+7月26日、全米ツアーを成功させた後に帰国。8月にはヨーロッパ・ツアーと新作のレコーディングの為に初の渡欧。エンジニアに[イエスの](../Page/イエス_\(バンド\).md "wikilink")『[ロンリー・ハート](../Page/ロンリー・ハート.md "wikilink")』を手がけた[ジュリアン・メンデルゾーンを迎え](https://ja.wikipedia.org/wiki/:en:Julian_Mendelsohn "wikilink")、1984年1月21日に発売された『[DISILLUSION 〜撃剣霊化〜](https://ja.wikipedia.org/wiki/DISILLUSION_〜撃剣霊化〜 "wikilink")』でバンド初期のサウンドは完成した。それと前後する形で1983年11月に初の2枚組ライブアルバム『[LIVE-LOUD-ALIVE LOUDNESS IN TOKYO](https://ja.wikipedia.org/wiki/LIVE-LOUD-ALIVE_LOUDNESS_IN_TOKYO "wikilink")』、翌12月には同名のライブビデオが発売された。この時期の作品はヨーロッパでは[ロードランナーや](../Page/ロードランナー・レコード.md "wikilink")[ミュージック・フォー・ネイションズ](https://ja.wikipedia.org/wiki/ミュージック・フォー・ネイションズ "wikilink")を通じてリリースされていた\[33\]。
 
 1984年4月20日から5月6日まで2度目のヨーロッパ・ツアーを行い、このツアーの模様は8月1日にライブビデオ『EUROBOUNDS』としてリリース、7月には歌詞を全て英語に翻訳した『[DISILLUSION English Version](https://ja.wikipedia.org/wiki/DISILLUSION_〜撃剣霊化〜 "wikilink")』をリリースした。
 
 #### 本格的な海外進出
 
-1983年のヨーロッパツアー及び『撃剣霊化』のレコーディング中の間にアメリカの[RCAレコード](../Page/RCAレコード.md "wikilink")や[ゾンバ・ミュージック・グループ](../Page/ゾンバ・ミュージック・グループ.md "wikilink")からのオファーが事務所宛に届く\[33\]。この時点で中下は「RCAと契約した方が良いのではないか？」とメンバーと打ち合わせをしていたが、1984年5月のヨーロッパツアー中\[34\]に[ワーナー・パイオニアを通じで](../Page/ワーナーミュージック・ジャパン.md "wikilink")[アトランティック・レコード](../Page/アトランティック・レコード.md "wikilink")より「LOUDNESSに興味がある」との一報が所属事務所に入った\[35\]。中下はこの時点でアトランティック・レコードの存在を知らなかったが、メンバーにとっては憧れの[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")らを輩出した大手レーベルであった事から協議の結果アトランティックと契約\[36\]。契約内容も7年間にアルバム7枚をリリースするという日本人アーティストとしても前例のない契約であった\[37\]。
+1983年のヨーロッパツアー及び『撃剣霊化』のレコーディング中の間にアメリカの[RCAレコード](../Page/RCAレコード.md "wikilink")や[ゾンバ・ミュージック・グループ](../Page/ゾンバ・ミュージック・グループ.md "wikilink")からのオファーが事務所宛に届く\[34\]。この時点で中下は「RCAと契約した方が良いのではないか？」とメンバーと打ち合わせをしていたが、1984年5月のヨーロッパツアー中\[35\]に[ワーナー・パイオニアを通じで](../Page/ワーナーミュージック・ジャパン.md "wikilink")[アトランティック・レコード](../Page/アトランティック・レコード.md "wikilink")より「LOUDNESSに興味がある」との一報が所属事務所に入った\[36\]。中下はこの時点でアトランティック・レコードの存在を知らなかったが、メンバーにとっては憧れの[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")らを輩出した大手レーベルであった事から協議の結果アトランティックと契約\[37\]。契約内容も7年間にアルバム7枚をリリースするという日本人アーティストとしても前例のない契約であった\[38\]。
 
-これと前後して[デイヴ・ムステイン](../Page/デイヴ・ムステイン.md "wikilink")を解雇したばかりの[メタリカ](https://ja.wikipedia.org/wiki/メタリカ "wikilink")側のマネージメントから高崎へ、まだメジャーレーベルと契約する前の無名バンドだったメタリカへの加入へのオファーの手紙とデモテープが届くが、高崎が「LOUDNESSに命を賭けている」事や「日本人チームで世界と闘いたい」という強い思いからオファーを断っている\[38\]。
+これと前後して[デイヴ・ムステイン](../Page/デイヴ・ムステイン.md "wikilink")を解雇したばかりの[メタリカ](https://ja.wikipedia.org/wiki/メタリカ "wikilink")側のマネージメントから高崎へ、まだメジャーレーベルと契約する前の無名バンドだったメタリカへの加入へのオファーの手紙とデモテープが届くが、高崎が「LOUDNESSに命を賭けている」事や「日本人チームで世界と闘いたい」という強い思いからオファーを断っている\[39\]。
 
-1984年5月、高崎はアトランティックとの打ち合わせの為に渡米、全米デビューアルバムのプロデューサーとして[エディ・クレイマー](https://ja.wikipedia.org/wiki/エディ・クレイマー "wikilink")、[ニール・カーノン](https://ja.wikipedia.org/wiki/:en:Neil_Kernon "wikilink")、[マックス・ノーマン](https://ja.wikipedia.org/wiki/:en:Max_Norman "wikilink")\[39\]の名が挙がる中、高崎はノーマンが手がけた[オジー・オズボーン](../Page/オジー・オズボーン.md "wikilink")のアルバム、特に[ランディ・ローズ](../Page/ランディ・ローズ.md "wikilink")の音を好んでいた事から協議の結果、アルバムの[プロデューサーにノーマンを迎えた](../Page/音楽プロデューサー.md "wikilink")\[40\]。ノーマンはアメリカ進出するバンドが成功する事を強く意識し、当時アメリカのヘヴィメタルシーンでムーブメントを起こしていた[グラム・メタル](../Page/グラム・メタル.md "wikilink")の様な明るいサウンドを目指す方向性に舵を取った。
+1984年5月、高崎はアトランティックとの打ち合わせの為に渡米、全米デビューアルバムのプロデューサーとして[エディ・クレイマー](https://ja.wikipedia.org/wiki/エディ・クレイマー "wikilink")、[ニール・カーノン](https://ja.wikipedia.org/wiki/:en:Neil_Kernon "wikilink")、[マックス・ノーマン](https://ja.wikipedia.org/wiki/:en:Max_Norman "wikilink")\[40\]の名が挙がる中、高崎はノーマンが手がけた[オジー・オズボーン](../Page/オジー・オズボーン.md "wikilink")のアルバム、特に[ランディ・ローズ](../Page/ランディ・ローズ.md "wikilink")の音を好んでいた事から協議の結果、アルバムの[プロデューサーにノーマンを迎えた](../Page/音楽プロデューサー.md "wikilink")\[41\]。ノーマンはアメリカ進出するバンドが成功する事を強く意識し、当時アメリカのヘヴィメタルシーンでムーブメントを起こしていた[グラム・メタル](../Page/グラム・メタル.md "wikilink")の様な明るいサウンドを目指す方向性に舵を取った。
 
-1984年7月、中下に英語の発音の悪さを指摘された二井原が、英語やヴォーカルレッスンの為に先に渡米\[41\]\[42\]。8月下旬、レコーディングの為残りのメンバー全員が渡米。ノーマンの一切の妥協を許さぬ厳しい指導に耐えながらの2ヶ月以上もの長期レコーディングを経て12月1日、先行シングルとして『CRAZY NIGHT』、翌1985年1月24日に『[THUNDER IN THE EAST](https://ja.wikipedia.org/wiki/THUNDER_IN_THE_EAST "wikilink")』がリリース。アルバムは日本の[オリコン](../Page/オリコン.md "wikilink")チャートでは最高第4位\[43\]、アメリカのビルボード総合チャートで最高74位を記録した\[44\]ビルボードでは24週に渡り、200位圏内にランクインされた\[45\]。
+1984年7月、中下に英語の発音の悪さを指摘された二井原が、英語やヴォーカルレッスンの為に先に渡米\[42\]\[43\]。8月下旬、レコーディングの為残りのメンバー全員が渡米。ノーマンの一切の妥協を許さぬ厳しい指導に耐えながらの2ヶ月以上もの長期レコーディングを経て12月1日、先行シングルとして『CRAZY NIGHT』、翌1985年1月24日に『[THUNDER IN THE EAST](https://ja.wikipedia.org/wiki/THUNDER_IN_THE_EAST "wikilink")』がリリース。アルバムは日本の[オリコン](../Page/オリコン.md "wikilink")チャートでは最高第4位\[44\]、アメリカのビルボード総合チャートで最高74位を記録した\[45\]ビルボードでは24週に渡り、200位圏内にランクインされた\[46\]。
 
-12月2日の[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")を皮切りに翌1985年2月1日まで日本ツアーを開始。4月から6月にかけて全米ツアーを行う。6月21日には劇場用アニメ『[オーディーン_光子帆船スターライト](../Page/オーディーン_光子帆船スターライト.md "wikilink")』の主題歌や劇中BGMを収録した12インチシングル「GOTTA FIGHT」をリリース、6月30日から8月6日にサポートキーボーディストに元[ノヴェラ](../Page/ノヴェラ.md "wikilink")〜[GERARD](../Page/GERARD.md "wikilink")の[永川敏郎](https://ja.wikipedia.org/wiki/永川敏郎 "wikilink")を迎えて日本ツアー\[46\]を行った後、8月8日より[モトリー・クルー](../Page/モトリー・クルー.md "wikilink")の前座として全米ツアーに参加。8月14日には日本人アーティスト及び日本のバンドとして初めて[マディソン・スクエア・ガーデン](../Page/マディソン・スクエア・ガーデン.md "wikilink")のステージに立った\[47\]。
+12月2日の[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")を皮切りに翌1985年2月1日まで日本ツアーを開始。4月から6月にかけて全米ツアーを行う。6月21日には劇場用アニメ『[オーディーン_光子帆船スターライト](../Page/オーディーン_光子帆船スターライト.md "wikilink")』の主題歌や劇中BGMを収録した12インチシングル「GOTTA FIGHT」をリリース、6月30日から8月6日にサポートキーボーディストに元[ノヴェラ](../Page/ノヴェラ.md "wikilink")〜[GERARD](../Page/GERARD.md "wikilink")の[永川敏郎](https://ja.wikipedia.org/wiki/永川敏郎 "wikilink")を迎えて日本ツアー\[47\]を行った後、8月8日より[モトリー・クルー](../Page/モトリー・クルー.md "wikilink")の前座として全米ツアーに参加。8月14日には日本人アーティスト及び日本のバンドとして初めて[マディソン・スクエア・ガーデン](../Page/マディソン・スクエア・ガーデン.md "wikilink")のステージに立った\[48\]。
 
-モトリー・クルーとのツアーは9月18日まで続き、ツアー終了後に帰国。12月には再びノーマンを迎えて六本木のセディック・スタジオでレコーディングを開始\[48\]。レコード会社も日本コロムビアからワーナー・パイオニアに移籍、1986年3月には『[SHADOWS OF WAR](https://ja.wikipedia.org/wiki/SHADOWS_OF_WAR "wikilink")』がリリースされる。同時に[大阪城ホール](../Page/大阪城ホール.md "wikilink")を皮切りに日本ツアーを開始。4月3日、4日に行われた[代々木オリンピックプール公演の模様は同年](../Page/国立代々木競技場.md "wikilink")9月に映像作品『LIVE IN TOKYO〜LIGHTNING STRIKES』、11月には2枚組みライブアルバム『[8186 LIVE](https://ja.wikipedia.org/wiki/8186_LIVE "wikilink")』として発売された。
+モトリー・クルーとのツアーは9月18日まで続き、ツアー終了後に帰国。12月には再びノーマンを迎えて六本木のセディック・スタジオでレコーディングを開始\[49\]。レコード会社も日本コロムビアからワーナー・パイオニアに移籍、1986年3月には『[SHADOWS OF WAR](https://ja.wikipedia.org/wiki/SHADOWS_OF_WAR "wikilink")』がリリースされる。同時に[大阪城ホール](../Page/大阪城ホール.md "wikilink")を皮切りに日本ツアーを開始。4月3日、4日に行われた[代々木オリンピックプール公演の模様は同年](../Page/国立代々木競技場.md "wikilink")9月に映像作品『LIVE IN TOKYO〜LIGHTNING STRIKES』、11月には2枚組みライブアルバム『[8186 LIVE](https://ja.wikipedia.org/wiki/8186_LIVE "wikilink")』として発売された。
 
-7月25日には前出の『SHADOWS OF WAR』のUSミックス盤『[LIGHTNING STRIKES](https://ja.wikipedia.org/wiki/LIGHTNING_STRIKES "wikilink")』が全米で発売。ビルボード総合チャート64位と前作『THUNDER IN THE EAST』を上回る記録を残した\[49\]。8月には全米ツアー、10月にはヨーロッパツアーを行う。このツアーの間にアメリカでは前半に[ポイズン](../Page/ポイズン_\(ロックバンド\).md "wikilink")\[50\]、[シンデレラ](../Page/シンデレラ_\(バンド\).md "wikilink")\[51\]を前座に、後半は[AC/DC](https://ja.wikipedia.org/wiki/AC/DC "wikilink")\[52\]の前座として、ヨーロッパでは[サクソン](../Page/サクソン.md "wikilink")\[53\]と共に行っていた。全米ツアー終了後の9月25日には[シンセサイザー](../Page/シンセサイザー.md "wikilink")を多用した[ディスコ](../Page/ディスコ.md "wikilink")的な『[RISKY WOMAN](https://ja.wikipedia.org/wiki/RISKY_WOMAN "wikilink")』をリリース。12月28日、29日にはバンド初の[日本武道館](../Page/日本武道館.md "wikilink")公演を行っている。
+7月25日には前出の『SHADOWS OF WAR』のUSミックス盤『[LIGHTNING STRIKES](https://ja.wikipedia.org/wiki/LIGHTNING_STRIKES "wikilink")』が全米で発売。ビルボード総合チャート64位と前作『THUNDER IN THE EAST』を上回る記録を残した\[50\]。8月には全米ツアー、10月にはヨーロッパツアーを行う。このツアーの間にアメリカでは前半に[ポイズン](../Page/ポイズン_\(ロックバンド\).md "wikilink")\[51\]、[シンデレラ](../Page/シンデレラ_\(バンド\).md "wikilink")\[52\]を前座に、後半は[AC/DC](https://ja.wikipedia.org/wiki/AC/DC "wikilink")\[53\]の前座として、ヨーロッパでは[サクソン](../Page/サクソン.md "wikilink")\[54\]と共に行っていた。全米ツアー終了後の9月25日には[シンセサイザー](../Page/シンセサイザー.md "wikilink")を多用した[ディスコ](../Page/ディスコ.md "wikilink")的な『[RISKY WOMAN](https://ja.wikipedia.org/wiki/RISKY_WOMAN "wikilink")』をリリース。12月28日、29日にはバンド初の[日本武道館](../Page/日本武道館.md "wikilink")公演を行っている。
 
 #### アトコ・レコードへの移籍〜二井原実への解雇通告
 
-1987年2月から3月にかけて新作のためのリハーサルや制作を開始。4月にはプロデューサーに[エディ・クレイマー](https://ja.wikipedia.org/wiki/エディ・クレイマー "wikilink")を迎え日本とアメリカでレコーディングを開始。7月31日には[ストライパー](../Page/ストライパー.md "wikilink")を前座に迎えて全米ツアーを開始。8月25日には『[HURRICANE EYES](https://ja.wikipedia.org/wiki/HURRICANE_EYES "wikilink")』がリリースされ、第1期LOUDNESSのバンドサウンドは完成の域に達した。日本のオリコンチャートでは4位を記録したものの\[54\]、ビルボードでは190位と前作よりも大きく下回った\[55\]。また、この時期より高崎の愛器が[ESPのランダムスターから荒木一三が設立した](../Page/イーエスピー.md "wikilink")[キラーギターズ](../Page/キラーギターズ.md "wikilink")のプライムを使用するようになる\[56\]。1988年には日本のみで長期ツアーを行い、5月にはミニアルバム『JEALOUSY』をリリース。しかし、『[SOLDIER OF FORTUNE](../Page/SOLDIER_OF_FORTUNE.md "wikilink")』レコーディング中の[1988年](../Page/1988年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に二井原が脱退（事実上の解雇）し、第1期LOUDNESSは終了する。
+1987年2月から3月にかけて新作のためのリハーサルや制作を開始。4月にはプロデューサーに[エディ・クレイマー](https://ja.wikipedia.org/wiki/エディ・クレイマー "wikilink")を迎え日本とアメリカでレコーディングを開始。7月31日には[ストライパー](../Page/ストライパー.md "wikilink")を前座に迎えて全米ツアーを開始。8月25日には『[HURRICANE EYES](https://ja.wikipedia.org/wiki/HURRICANE_EYES "wikilink")』がリリースされ、第1期LOUDNESSのバンドサウンドは完成の域に達した。日本のオリコンチャートでは4位を記録したものの\[55\]、ビルボードでは190位と前作よりも大きく下回った\[56\]。また、この時期より高崎の愛器が[ESPのランダムスターから荒木一三が設立した](../Page/イーエスピー.md "wikilink")[キラーギターズ](../Page/キラーギターズ.md "wikilink")のプライムを使用するようになる\[57\]。1988年には日本のみで長期ツアーを行い、5月にはミニアルバム『JEALOUSY』をリリース。しかし、『[SOLDIER OF FORTUNE](../Page/SOLDIER_OF_FORTUNE.md "wikilink")』レコーディング中の[1988年](../Page/1988年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に二井原が脱退（事実上の解雇）し、第1期LOUDNESSは終了する。
 
-二井原脱退の背景に高崎は「もっと先に進むためにはネイティブな英語を操るフロントマンが必要だった」というバンド側の意見があったとし、当時の二井原の歌唱力や英語の発音の問題を指摘\[57\]。一方二井原も自身の歌唱力の限界を認めた上での自主的な脱退である事を認めており、フロントマンを代える事でマンネリ化を打破し、バンドを劇的に変える特効薬がフロントマンの交代であったとも述べている\[58\]。また、『SOLDIER OF FORTUNE』の[プリプロダクション](https://ja.wikipedia.org/wiki/プリプロダクション "wikilink")が始まった時点でバンド内の空気が怪しくなっていたとし、海外メディアで取材を受ける際にライターから「LOUDNESSがボーカリストのオーディションをしているらしいとの噂を聞いた」という話を耳にし、インタビューから1週間後にバンド側から解雇通告をされたと述懐している\[59\]。
+二井原脱退の背景に高崎は「もっと先に進むためにはネイティブな英語を操るフロントマンが必要だった」というバンド側の意見があったとし、当時の二井原の歌唱力や英語の発音の問題を指摘\[58\]。一方二井原も自身の歌唱力の限界を認めた上での自主的な脱退である事を認めており、フロントマンを代える事でマンネリ化を打破し、バンドを劇的に変える特効薬がフロントマンの交代であったとも述べている\[59\]。また、『SOLDIER OF FORTUNE』の[プリプロダクション](https://ja.wikipedia.org/wiki/プリプロダクション "wikilink")が始まった時点でバンド内の空気が怪しくなっていたとし、海外メディアで取材を受ける際にライターから「LOUDNESSがボーカリストのオーディションをしているらしいとの噂を聞いた」という話を耳にし、インタビューから1週間後にバンド側から解雇通告をされたと述懐している\[60\]。
 
 この時期のサウンドは二井原の高音を生かしたボーカルが特徴である。日本語よりも英語を多用した抽象的なものが多い。歌詞のテーマとしては、恋愛、ファンタジー、戦争などがある。
 
@@ -226,7 +226,7 @@ LOUDNESSのサウンドは高崎の指向がとても強く、第1期-第3期ま
 
 バンドのプロデュースは高崎が務め、ギターやベースが半音下げチューニングになり、山田の力強いボーカルと相まって、[グルーヴ・メタル](https://ja.wikipedia.org/wiki/グルーヴ・メタル "wikilink")を髣髴とさせる攻撃的でヘヴィなサウンドになった。沢田はあまり目立とうとはせず、高崎のギターとの[ユニゾンプレイによる重厚なアンサンブルを作り出すことに徹底している](https://ja.wikipedia.org/wiki/斉唱 "wikilink")。高崎との高速リフにおけるユニゾンはもちろん、「ジャック・オフ・ビブラート」と呼ばれるテクニックまで揃える。そして各所で盛り込まれる流麗なフレーズや、かつてのLOUDNESSにはあまり見られなかった[スラップ奏法](../Page/スラップ奏法.md "wikilink")によるベースソロをフィーチャーしている。沢田のプレイスタイルについて樋口は、自身が即興で叩いたドラミングに合わせて沢田が弾いたベースフレーズを絶賛している。
 
-元[Xという経歴を持つ沢田の加入は各方面で波紋を呼んだ](../Page/X_JAPAN.md "wikilink")。沢田加入によりライブには（沢田あるいは[Xの](../Page/X_JAPAN.md "wikilink")）女性ファンが来るようになり、それまでの男性ファンからはツアー初日に大ブーイングを浴びせられていたが、高崎によると「半信半疑のファンもいたんだろうけど、ツアーやってるうちにみんな泰司の事を認めだしていた」と当時の様子を語り、沢田もまた高崎、樋口のコンビネーションとどう合わせるか、毎日考えさせられていたと述懐していた。\[60\]CD売上・知名度・人気度において頂点を極めた時期だったが、当時の所属事務所が海外展開に全く興味を示さなかった事から海外での活動が止まってしまった\[61\]。
+元[Xという経歴を持つ沢田の加入は各方面で波紋を呼んだ](../Page/X_JAPAN.md "wikilink")。沢田加入によりライブには（沢田あるいは[Xの](../Page/X_JAPAN.md "wikilink")）女性ファンが来るようになり、それまでの男性ファンからはツアー初日に大ブーイングを浴びせられていたが、高崎によると「半信半疑のファンもいたんだろうけど、ツアーやってるうちにみんな泰司の事を認めだしていた」と当時の様子を語り、沢田もまた高崎、樋口のコンビネーションとどう合わせるか、毎日考えさせられていたと述懐していた。\[61\]CD売上・知名度・人気度において頂点を極めた時期だったが、当時の所属事務所が海外展開に全く興味を示さなかった事から海外での活動が止まってしまった\[62\]。
 
 事務所との契約の関係などの様々なトラブルにより実質解散寸前状態に陥り、[1993年](../Page/1993年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に山田が脱退の意を示すが、樋口の説得により撤回する。[11月](../Page/11月.md "wikilink")に樋口がLOUDNESS復活をメンバーに知らせるが、この直前に沢田はこの状況ではLOUDNESS復帰が絶望的だと判断し、自身のソロプロジェクト（後の[D.T.R](../Page/D.T.R.md "wikilink")）を行うことを所属事務所レベルで決定していたため参加を断念せざるを得ず、脱退する。その後バンドのリーダーである樋口が脱退し、第3期LOUDNESSは1枚のアルバム（ライブアルバムを含めても2枚）を残して早々と終わってしまった。以降、復活後も高崎がリーダーを務めることになる。樋口は脱退した直後に沢田に対して「泰司とはフリーでもいいからすぐに音を出したい」と声を掛けたりしていたそうで、樋口にとって沢田はかなりお気に入りのベーシストであるらしく、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に樋口自身がプロデュースした[コージー・パウエル](../Page/コージー・パウエル.md "wikilink")[トリビュートアルバム](../Page/トリビュート・アルバム.md "wikilink")『COZY POWELL FOREVER』に沢田を呼んでいる。
 
@@ -240,7 +240,7 @@ LOUDNESSのサウンドは高崎の指向がとても強く、第1期-第3期ま
 
 しかしこの頃、[レイジー](../Page/レイジー.md "wikilink")が再結成し高崎と樋口のコンビが復活。また樋口プロデュースによる[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")のカバーアルバム「SUPER ROCK SUMMIT 〜天国への階段〜」（1999年）では第1期LOUDNESSメンバーが全員参加するなど、後のオリジナルメンバー復活に繋がる活動が見られるようになる。
 
-[2000年](../Page/2000年.md "wikilink")に高崎がオリジナルメンバーによる復活を宣言し、第4期LOUDNESSは終了する。オリジナルメンバー再集結については、高崎本人の意向だけでなく現状のLOUDNESSに疑問を感じていたMASAKIから「オリジナルメンバーでやってみては」と助言された事も手伝っての決定だと高崎が語っている\[62\]。
+[2000年](../Page/2000年.md "wikilink")に高崎がオリジナルメンバーによる復活を宣言し、第4期LOUDNESSは終了する。オリジナルメンバー再集結については、高崎本人の意向だけでなく現状のLOUDNESSに疑問を感じていたMASAKIから「オリジナルメンバーでやってみては」と助言された事も手伝っての決定だと高崎が語っている\[63\]。
 
 ### 第5期（2000〜2008）
 
@@ -252,7 +252,7 @@ LOUDNESSのサウンドは高崎の指向がとても強く、第1期-第3期ま
 
 [2009年](../Page/2009年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に[C.C.Lemonホールにて樋口追悼ライブを行う](../Page/渋谷公会堂.md "wikilink")。
 
-[2009年](../Page/2009年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")、鈴木“アンパン”政行が樋口の後任ドラマーとして正式に加入。\[63\]
+[2009年](../Page/2009年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")、鈴木“アンパン”政行が樋口の後任ドラマーとして正式に加入。\[64\]
 
 同年4月より『[THE BIRTHDAY EVE 〜誕生前夜〜](https://ja.wikipedia.org/wiki/THE_BIRTHDAY_EVE_〜誕生前夜〜 "wikilink")』〜『[DISILLUSION 〜撃剣霊化〜](https://ja.wikipedia.org/wiki/DISILLUSION_〜撃剣霊化〜 "wikilink")』の頃の楽曲のみに絞った選曲でのライブツアー、『CLASSIC LOUDNESS LIVE 2009 The Birthday Eve〜Disillusion』をスタート。予定通り同月中に一旦終了するも追加公演を6〜7月まで行う。8〜9月には、続編として、24年前に本格的にアメリカ進出を果たした5thアルバム『[THUNDER IN THE EAST](https://ja.wikipedia.org/wiki/THUNDER_IN_THE_EAST "wikilink")』の楽曲を軸とする『CLASSIC LOUDNESS LIVE 2009 THUNDER IN THE EAST TOUR』を敢行。
 
@@ -260,9 +260,9 @@ LOUDNESSのサウンドは高崎の指向がとても強く、第1期-第3期ま
 
 今後のLOUDNESSについて高崎は「LOUDNESSはこれまでどんなメンバーチェンジがあっても解散することなく続いてきた。LOUDNESSは日本を代表するバンドとしてこれからもずっと続いていきます。例え、僕が抜けても。」と、メンバーチェンジがあろうとも永久に存続させたいビジョンを語っている。
 
-2017年4月18日、ツアーのために訪れたアメリカの空港で入国拒否された\[64\]。同年8月には[ワードレコーズ](https://ja.wikipedia.org/wiki/ワードレコーズ "wikilink")に移籍する事が発表された\[65\]。
+2017年4月18日、ツアーのために訪れたアメリカの空港で入国拒否された\[65\]。同年8月には[ワードレコーズ](https://ja.wikipedia.org/wiki/ワードレコーズ "wikilink")に移籍する事が発表された\[66\]。
 
-2018年2月8日、鈴木が自身の体調の異変に気付き病院で診察を受けた結果、[脳梗塞](../Page/脳梗塞.md "wikilink")を発症している事が判明。幸い、症状は軽度のものであったが[リハビリ](https://ja.wikipedia.org/wiki/リハビリ "wikilink")や検査のため、そのまま[入院](https://ja.wikipedia.org/wiki/入院 "wikilink")となる。鈴木は病状が無事快方に向かい、体調回復し復帰。鈴木が療養中の間はサポートドラマーに元[NOVELA](https://ja.wikipedia.org/wiki/NOVELA "wikilink")や[VIENNA](https://ja.wikipedia.org/wiki/VIENNA "wikilink")等の活動で知られる西田竜一を迎え海外でも活動。鈴木復帰後も鈴木がフルで演奏出来る状態ではないことから西田がメインでドラムを演奏し、鈴木がアンコール等で数曲演奏するスタイルとなっている\[66\]\[67\]。
+2018年2月8日、鈴木が自身の体調の異変に気付き病院で診察を受けた結果、[脳梗塞](../Page/脳梗塞.md "wikilink")を発症している事が判明。幸い、症状は軽度のものであったが[リハビリ](https://ja.wikipedia.org/wiki/リハビリ "wikilink")や検査のため、そのまま[入院](https://ja.wikipedia.org/wiki/入院 "wikilink")となる。鈴木は病状が無事快方に向かい、体調回復し復帰。鈴木が療養中の間はサポートドラマーに元[NOVELA](https://ja.wikipedia.org/wiki/NOVELA "wikilink")や[VIENNA](https://ja.wikipedia.org/wiki/VIENNA "wikilink")等の活動で知られる西田竜一を迎え海外でも活動。鈴木復帰後も鈴木がフルで演奏出来る状態ではないことから西田がメインでドラムを演奏し、鈴木がアンコール等で数曲演奏するスタイルとなっている\[67\]\[68\]。
 
 ## 来歴
 
@@ -274,7 +274,7 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
 
 <!-- end list -->
 
-  - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、当時[レイジー](../Page/レイジー.md "wikilink")に在籍していたギターの[高崎晃](../Page/高崎晃.md "wikilink")とドラムの[樋口宗孝](../Page/樋口宗孝.md "wikilink")、ベースの[田中宏幸が](https://ja.wikipedia.org/wiki/田中宏幸_\(ベーシスト\) "wikilink")、新バンド結成を決意。オーディションによって選ばれた[二井原実](../Page/二井原実.md "wikilink")を迎え、高崎晃ソロプロジェクトとして始動。しかし、田中は音楽性の違いから離脱。新たに[山下昌良](../Page/山下昌良.md "wikilink")をベースに迎えLOUDNESS結成\[68\]（**第1期LOUDNESS**）。
+  - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、当時[レイジー](../Page/レイジー.md "wikilink")に在籍していたギターの[高崎晃](../Page/高崎晃.md "wikilink")とドラムの[樋口宗孝](../Page/樋口宗孝.md "wikilink")、ベースの[田中宏幸が](https://ja.wikipedia.org/wiki/田中宏幸_\(ベーシスト\) "wikilink")、新バンド結成を決意。オーディションによって選ばれた[二井原実](../Page/二井原実.md "wikilink")を迎え、高崎晃ソロプロジェクトとして始動。しかし、田中は音楽性の違いから離脱。新たに[山下昌良](../Page/山下昌良.md "wikilink")をベースに迎えLOUDNESS結成\[69\]（**第1期LOUDNESS**）。
   - [11月25日](../Page/11月25日.md "wikilink")、[日本コロムビア](../Page/日本コロムビア.md "wikilink")より、1stアルバム『[THE BIRTHDAY EVE 〜誕生前夜〜](https://ja.wikipedia.org/wiki/THE_BIRTHDAY_EVE_〜誕生前夜〜 "wikilink")』でデビュー。
   - [12月17日](../Page/12月17日.md "wikilink")、[浅草国際劇場](https://ja.wikipedia.org/wiki/浅草国際劇場 "wikilink")にでデビューコンサートを行う。
 
@@ -589,7 +589,7 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
   - [10月26日](../Page/10月26日.md "wikilink")、[モトリー・クルー](../Page/モトリー・クルー.md "wikilink")の前座を[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")にて努める。
   - [11月30日](../Page/11月30日.md "wikilink")、半年以上もの間、復帰に向けて闘病生活を続けていた樋口であったが、この日の[早朝](https://ja.wikipedia.org/wiki/早朝 "wikilink")、大阪市内にある実家の自室において、激しい[嘔吐](../Page/嘔吐.md "wikilink")の末、[呼吸](../Page/呼吸.md "wikilink")[停止](https://ja.wikipedia.org/wiki/停止 "wikilink")･[意識不明](https://ja.wikipedia.org/wiki/意識不明 "wikilink")の状態で倒れているのを母親に発見される。そのまま、同市内にある病院へ[緊急](https://ja.wikipedia.org/wiki/緊急 "wikilink")[搬送](https://ja.wikipedia.org/wiki/搬送 "wikilink")されるも、午前10時44分、[死亡](../Page/死亡.md "wikilink")が確認される。享年51、満49歳。
   - [12月6日](../Page/12月6日.md "wikilink")、[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")にてイベントライブ「Peace Maker 2008」に出演。MCでバンドの活動を続けることを表明する。
-  - [12月24日](../Page/12月24日.md "wikilink")東京・青山葬儀所にて樋口のファン葬を執り行う。ファン、関係者、有名人合わせて1300人以上が参列した。\[69\]
+  - [12月24日](../Page/12月24日.md "wikilink")東京・青山葬儀所にて樋口のファン葬を執り行う。ファン、関係者、有名人合わせて1300人以上が参列した。\[70\]
 
 <!-- end list -->
 
@@ -598,7 +598,7 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
 <!-- end list -->
 
   - [2月14日](../Page/2月14日.md "wikilink")、[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")にて樋口宗孝追悼コンサートを行う。
-  - [2月16日](../Page/2月16日.md "wikilink")、高崎のブログにて元[SABER TIGERの鈴木](../Page/SABER_TIGER.md "wikilink")“アンパン”政行が樋口の後任ドラマーとして正式に加入することが発表される。\[70\]
+  - [2月16日](../Page/2月16日.md "wikilink")、高崎のブログにて元[SABER TIGERの鈴木](../Page/SABER_TIGER.md "wikilink")“アンパン”政行が樋口の後任ドラマーとして正式に加入することが発表される。\[71\]
   - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、初期作品を軸にした東名阪ツアー「Classic Loudness Live 2009 The Birthday Eve - Disillusion」を計3公演行う。
   - [5月27日](../Page/5月27日.md "wikilink")、アルバム『[THE EVERLASTING -魂宗久遠-](https://ja.wikipedia.org/wiki/THE_EVERLASTING_-魂宗久遠- "wikilink")』をリリース。
   - [6月18日](../Page/6月18日.md "wikilink")から[7月2日](../Page/7月2日.md "wikilink")まで全国ツアー「Classic Loudness Live 2009 The Birthday Eve - Disillusion Chapter 2」を計7公演行う。
@@ -632,7 +632,7 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
 <!-- end list -->
 
   - 5月〜6月にかけて5年ぶりの全米ツアーを行う。
-  - 7月15日、第3期ベーシストの沢田がサイパンに向かう航空機内で女性乗務員に対し暴行を起こし逮捕。拘束中にシーツを使って首吊り自殺を図り意識不明の重体となり、病院に運ばれたが、17日に死亡\[71\]。
+  - 7月15日、第3期ベーシストの沢田がサイパンに向かう航空機内で女性乗務員に対し暴行を起こし逮捕。拘束中にシーツを使って首吊り自殺を図り意識不明の重体となり、病院に運ばれたが、17日に死亡\[72\]。
   - [9月14日](../Page/9月14日.md "wikilink")、アルバム『[Eve to Dawn 旭日昇天](https://ja.wikipedia.org/wiki/Eve_to_Dawn "wikilink")』をリリース。
 
 <!-- end list -->
@@ -643,7 +643,7 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
 
   - アルバム『[Eve to Dawn 旭日昇天](https://ja.wikipedia.org/wiki/Eve_to_Dawn "wikilink")』が元[ジェントル・ジャイアント](../Page/ジェントル・ジャイアント.md "wikilink")のデレク・シャルマンが運営するレーベル「FROSTBYTE」より8月14日に世界中でリリース。
   - 8月22日、アルバム『[2・0・1・2](https://ja.wikipedia.org/wiki/2・0・1・2 "wikilink")』リリース。
-  - 8月24日、[尖閣諸島問題](https://ja.wikipedia.org/wiki/尖閣諸島問題 "wikilink")による日中関係悪化を理由に中国・貴陽での「YOGA MIDIフェスティバル」の出演を当日にキャンセルされた。LOUDNESSが政治問題を理由にライブを中止するのはこれが初めてとなる\[72\]。また、25日には上海公演も行われる予定であったが、公演先のライブハウスの建設上の問題により中止になっている\[73\]。
+  - 8月24日、[尖閣諸島問題](https://ja.wikipedia.org/wiki/尖閣諸島問題 "wikilink")による日中関係悪化を理由に中国・貴陽での「YOGA MIDIフェスティバル」の出演を当日にキャンセルされた。LOUDNESSが政治問題を理由にライブを中止するのはこれが初めてとなる\[73\]。また、25日には上海公演も行われる予定であったが、公演先のライブハウスの建設上の問題により中止になっている\[74\]。
 
 <!-- end list -->
 
@@ -711,15 +711,15 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
 <!-- end list -->
 
   - 1月26日、アルバム『[RISE TO GLORY - 8118 -](../Page/RISE_TO_GLORY_-_8118_-.md "wikilink")』リリース。
-  - 2月8日、ドラムの鈴木が[脳梗塞](../Page/脳梗塞.md "wikilink")のため、緊急入院\[74\]。
-  - 6月24日、[LUNA SEA主催のフェス](../Page/LUNA_SEA.md "wikilink")『[LUNATIC FEST.](https://ja.wikipedia.org/wiki/LUNATIC_FEST. "wikilink")』に出演\[75\]。
+  - 2月8日、ドラムの鈴木が[脳梗塞](../Page/脳梗塞.md "wikilink")のため、緊急入院\[75\]。
+  - 6月24日、[LUNA SEA主催のフェス](../Page/LUNA_SEA.md "wikilink")『[LUNATIC FEST.](https://ja.wikipedia.org/wiki/LUNATIC_FEST. "wikilink")』に出演\[76\]。
   - 9月24日、「METAL WEEKEND 第4弾 LOUDNESS & FRIENDS -AMPAN RETURNS-」にて鈴木が「LOUDNESS」でドラムを披露。
 
 ## 影響
 
 ### 与えた影響
 
-[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")\[76\]、[X JAPAN](../Page/X_JAPAN.md "wikilink")\[77\]、[NOV](https://ja.wikipedia.org/wiki/NOV_\(ボーカリスト\) "wikilink")\[78\]、[SEX MACHINEGUNS](../Page/SEX_MACHINEGUNS.md "wikilink")、[Laputa](../Page/Laputa.md "wikilink")\[79\]、[La'cryma Christiなどのハードロック系](../Page/La'cryma_Christi.md "wikilink")、ヴィジュアル系バンドだけでなく、[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")\[80\]、[サイキックラバー](../Page/サイキックラバー.md "wikilink")\[81\]、[斉藤和義](../Page/斉藤和義.md "wikilink")\[82\]\[83\]、[奥田民生](../Page/奥田民生.md "wikilink")\[84\]、[上杉昇](../Page/上杉昇.md "wikilink")など多くの音楽アーティストに影響を与えた。
+[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")\[77\]、[X JAPAN](../Page/X_JAPAN.md "wikilink")\[78\]、[NOV](https://ja.wikipedia.org/wiki/NOV_\(ボーカリスト\) "wikilink")\[79\]、[SEX MACHINEGUNS](../Page/SEX_MACHINEGUNS.md "wikilink")、[Laputa](../Page/Laputa.md "wikilink")\[80\]、[La'cryma Christiなどのハードロック系](../Page/La'cryma_Christi.md "wikilink")、ヴィジュアル系バンドだけでなく、[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")\[81\]、[サイキックラバー](../Page/サイキックラバー.md "wikilink")\[82\]、[斉藤和義](../Page/斉藤和義.md "wikilink")\[83\]\[84\]、[奥田民生](../Page/奥田民生.md "wikilink")\[85\]、[上杉昇](../Page/上杉昇.md "wikilink")など多くの音楽アーティストに影響を与えた。
 
 ## 作品
 
@@ -955,7 +955,7 @@ LP初回盤のみボーナストラックシングル付属</p></td>
 <td><p>MASTERS OF LOUDNESS</p></td>
 <td><p>1996年7月25日</p></td>
 <td><p>主にワーナー時代の曲を集めたベストアルバム<br />
-新曲『MASTER OF THE HIGHWAY』を収録[85]</p></td>
+新曲『MASTER OF THE HIGHWAY』を収録[86]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1332,8 +1332,8 @@ Amazon限定販売</p></td>
 
   - 1982年4月10日に[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")で行われたライブではあまりの音量のデカさに近所の住民から苦情が殺到し、長年出入り禁止になった。以後もLOUDNESSとしては日比谷公演は行われて無いものの、各メンバーが別のバンドやイベントで日比谷で演奏をすることはあった。出入り禁止されてから30年以上が経過した2013年7月7日のライブイベント「ROCK BEATS CANCER FES VOL.2」にLOUDNESSとして出演している。
   - 1986年4月3日、4日に[代々木オリンピックプール](https://ja.wikipedia.org/wiki/代々木オリンピックプール "wikilink")で行われたライブ（後に「8186LIVE」として発売）では当時コレまでに無い大規模な音響設備と照明設備により[原宿駅](https://ja.wikipedia.org/wiki/原宿駅 "wikilink")から苦情が来るほどの大音量であったと言う。
-  - 1985年、[モトリー・クルー](../Page/モトリー・クルー.md "wikilink")と共にツアーに周った際、前座を担当したLOUDNESSの方が音が良く観客ウケも良かったことから、モトリー・クルー側のサウンドエンジニアがクビになりかけたり、LOUDNESS側の音量を小さくさせられたこともあった\[86\]。
-  - 1987年に共にツアーを周った[ストライパー](../Page/ストライパー.md "wikilink")のマイケル・スウィートはLOUDNESSとツアーを周ったことについて「**LOUDNESSはヘヴィ過ぎて僕らとしっくり行かないよ**」と愚痴をこぼしたことがある。マイケル曰くこの組み合わせによるツアーはマネージャーが決めたとのことであり、マイケルは[ハリケーンか](https://ja.wikipedia.org/wiki/ハリケーン_\(バンド\) "wikilink")[TNTとツアーを周りたかったようである](../Page/TNT_\(バンド\).md "wikilink")\[87\]。
+  - 1985年、[モトリー・クルー](../Page/モトリー・クルー.md "wikilink")と共にツアーに周った際、前座を担当したLOUDNESSの方が音が良く観客ウケも良かったことから、モトリー・クルー側のサウンドエンジニアがクビになりかけたり、LOUDNESS側の音量を小さくさせられたこともあった\[87\]。
+  - 1987年に共にツアーを周った[ストライパー](../Page/ストライパー.md "wikilink")のマイケル・スウィートはLOUDNESSとツアーを周ったことについて「**LOUDNESSはヘヴィ過ぎて僕らとしっくり行かないよ**」と愚痴をこぼしたことがある。マイケル曰くこの組み合わせによるツアーはマネージャーが決めたとのことであり、マイケルは[ハリケーンか](https://ja.wikipedia.org/wiki/ハリケーン_\(バンド\) "wikilink")[TNTとツアーを周りたかったようである](../Page/TNT_\(バンド\).md "wikilink")\[88\]。
   - 樋口によれば、2001年7月28日に[富士急ハイランド](https://ja.wikipedia.org/wiki/富士急ハイランド "wikilink")で行われたイベント「Hard Rock Summit in FUJI-Q」でLOUDNESSの演奏中、長野県にまで爆音が風に乗って流れたそうで、長野県側から苦情が来た事を2005年9月16日放送の[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")で明かしている。また、この番組では司会を担当していた[西川貴教](../Page/西川貴教.md "wikilink")から「10年後のLOUDNESSはどうなっているか？」という質問に対し樋口は「[TMの](../Page/T.M.Revolution.md "wikilink")[バックでもするか](https://ja.wikipedia.org/wiki/バックバンド "wikilink")」とジョークを飛ばしたが、西川は苦笑しつつも「**僕の歌聞えなくなると思うんですけど…**」と、丁寧に断っている。
   - 樋口宗孝の本葬儀に出席した高崎晃は「僕らは一番でかい音を出すバンドをやろうと思っていた。リゾートの遊園地で野外ライブ(上記の富士急ハイランドの事)を開いたとき、『隣の県から苦情がきたらしい』とうれしそうに話していたのを思い出す」と振り返った。
 
@@ -1387,17 +1387,17 @@ Amazon限定販売</p></td>
 3.
 4.  ヘドバン Vol.4 （シンコーミュージック・エンタテイメント）28p
 5.
-6.
+6.  [「君たち解散したら」　社長のひと言にあっさり承諾 バンダイナムコアーツ　副社長　井上俊次氏（9）](https://style.nikkei.com/article/DGXZZO62029510Z20C20A7000000) 出世ナビ 仕事人秘録セレクション 2020年7月31日 2020年8月13日 閲覧
 7.
-8.  影山ヒロノブ『ゴールをぶっ壊せ』（2018年 [中公新書ラクレ](https://ja.wikipedia.org/wiki/中公新書ラクレ "wikilink")）pp37
-9.  BURRN\! JAPAN Vol.10（2018年 シンコーミュージック・エンタテイメント）pp26
-10.
+8.
+9.  影山ヒロノブ『ゴールをぶっ壊せ』（2018年 [中公新書ラクレ](https://ja.wikipedia.org/wiki/中公新書ラクレ "wikilink")）pp37
+10. BURRN\! JAPAN Vol.10（2018年 シンコーミュージック・エンタテイメント）pp26
 11.
 12.
 13.
 14.
-15. [オーディション２　“WHEN A MAN LOVES A WOMAN”](http://loudness.exblog.jp/8280507/) 二井原実BLOG 「R\&R GYPSY」2008年6月3日 2015年12月16日閲覧
-16.
+15.
+16. [オーディション２　“WHEN A MAN LOVES A WOMAN”](http://loudness.exblog.jp/8280507/) 二井原実BLOG 「R\&R GYPSY」2008年6月3日 2015年12月16日閲覧
 17.
 18.
 19.
@@ -1407,65 +1407,66 @@ Amazon限定販売</p></td>
 23.
 24.
 25.
-26. [ズタズタになる・・・](http://loudness.exblog.jp/8728192/) 二井原実 BLOG R\&R GYPSY 2008年7月29日 2015年12月20日閲覧
-27.
+26.
+27. [ズタズタになる・・・](http://loudness.exblog.jp/8728192/) 二井原実 BLOG R\&R GYPSY 2008年7月29日 2015年12月20日閲覧
 28.
 29.
-30. [ロッキンf](https://ja.wikipedia.org/wiki/ロッキンf "wikilink") 2015年（サウンド・デザイナー）13p
-31.
+30.
+31. [ロッキンf](https://ja.wikipedia.org/wiki/ロッキンf "wikilink") 2015年（サウンド・デザイナー）13p
 32.
 33.
 34.
 35.
 36.
-37. バンドスコア『MASTERS OF LOUDNESS』（1997年 [ドレミ楽譜出版社](../Page/ドレミ楽譜出版社.md "wikilink")）426p
-38.
+37.
+38. バンドスコア『MASTERS OF LOUDNESS』（1997年 [ドレミ楽譜出版社](../Page/ドレミ楽譜出版社.md "wikilink")）426p
 39.
-40. [ロッキンf](https://ja.wikipedia.org/wiki/ロッキンf "wikilink") 2015（サウンド・デザイナー） 10p
-41. [絶望と救われる道](http://loudness.exblog.jp/m2009-09-01/) 二井原実 BLOG 「R\&R GYPSY」2009年9月25日 2015年12月24日閲覧
-42. [一人ぼっちのアメリカ](http://loudness.exblog.jp/12221059/) 二井原実 BLOG 「R\&R GYPSY」2009年10月30日 2015年12月24日閲覧
-43.
-44. [Thunder in the East \> Charts(allmusic.com)](http://www.allmusic.com/album/thunder-in-the-east-mw0000312439/awards)
-45.
-46. ロッキンf（立東社）1985年9月号 7p
-47. ロッキンf誌 1985年10月号 139〜141p
-48.
-49. [LIGHTNING STRIKES Charts(allmusic.com)](http://www.allmusic.com/album/lightning-strikes-mw0000190834/awards)
-50. ロッキンf（立東社）1986年12月号 47p
-51.
+40.
+41. [ロッキンf](https://ja.wikipedia.org/wiki/ロッキンf "wikilink") 2015（サウンド・デザイナー） 10p
+42. [絶望と救われる道](http://loudness.exblog.jp/m2009-09-01/) 二井原実 BLOG 「R\&R GYPSY」2009年9月25日 2015年12月24日閲覧
+43. [一人ぼっちのアメリカ](http://loudness.exblog.jp/12221059/) 二井原実 BLOG 「R\&R GYPSY」2009年10月30日 2015年12月24日閲覧
+44.
+45. [Thunder in the East \> Charts(allmusic.com)](http://www.allmusic.com/album/thunder-in-the-east-mw0000312439/awards)
+46.
+47. ロッキンf（立東社）1985年9月号 7p
+48. ロッキンf誌 1985年10月号 139〜141p
+49.
+50. [LIGHTNING STRIKES Charts(allmusic.com)](http://www.allmusic.com/album/lightning-strikes-mw0000190834/awards)
+51. ロッキンf（立東社）1986年12月号 47p
 52.
-53. ロッキンf（立東社）1986年12月号 5p
-54.
-55. [Hurricane Eyes Charts(allmusic.com)](http://www.allmusic.com/album/hurricane-eyes-mw0000192661/awards)
-56. 参考資料 ロッキンf（立東社） 1987年10月号 41p
-57.
+53.
+54. ロッキンf（立東社）1986年12月号 5p
+55.
+56. [Hurricane Eyes Charts(allmusic.com)](http://www.allmusic.com/album/hurricane-eyes-mw0000192661/awards)
+57. 参考資料 ロッキンf（立東社） 1987年10月号 41p
 58.
-59. [BURRN\!](../Page/BURRN!.md "wikilink")（[シンコーミュージック・エンタテイメント](../Page/シンコーミュージック・エンタテイメント.md "wikilink")）2016年2月号 29p
-60. [We Rock](https://ja.wikipedia.org/wiki/We_Rock "wikilink") Vol.1（2007年11月）11p
-61.
-62. [高崎晃(LOUDNESS) SPECIAL INTERVIEW \!\!](https://web.archive.org/web/20071028010849/http://mysound.jp/hrhm/2007/10/004741.php) Hard Rock / Heavy Metal Magazine LAZY\!\! 2007年10月22日 [インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")より
-63. 2009年11月29日（樋口の[一周忌](https://ja.wikipedia.org/wiki/一周忌 "wikilink")の前日）、公式HPにて正式なドラマーとして任命された。
-64.
-65. [LOUDNESS　全世界戦略開始！　東洋からの雷鳴が、ふたたび世界に鳴り響く！](https://wardrecords.com/page/infomation/loudness/) ワードレコーズ・ダイレクト 2017年8月4日 同日閲覧
-66. [二井原 実インタビュー――LOUDNESS JAPAN TOUR 19 HURRICANE EYES＋JEALOUSY](http://e.usen.com/enjoy-u/24111/) USENのオウンドメディア encore 2019年2月15日 2019年8月1日閲覧
-67. [『LOUDNESS JAPAN TOUR 2019 “HURRICANE EYES + JEALOUSY”』ツアー最終日＠Zepp Tokyo](https://burrn.online/live-report/273) [BURRN\! ONLINE](../Page/BURRN!.md "wikilink") 2019年6月4日 2019年8月26日 閲覧
-68.
-69. [ラウドネス樋口宗孝さん　誕生日にお別れ会](http://www.sponichi.co.jp/entertainment/news/2008/12/25/20.html)
-70. [](http://www.akiratakasaki.com/index.php?e=548)
-71. [元Ｘの沢田容疑者が死亡　サイパンで逮捕後自殺図る](http://sankei.jp.msn.com/entertainments/news/110717/ent11071717550015-n1.htm) 産経新聞 2011年7月17日
-72. [中国での音楽フェス、LOUDNESSなど出演中止に](http://www.yomiuri.co.jp/entertainment/news2/20120826-OYT8T00395.htm) 読売新聞 2012年8月26日
-73. [多分最高数。 「MINORU NIIHARA "ROCK ME BABY\!\!\!"」](http://blog.goo.ne.jp/m-niihara/e/bf841161c30099bbca4af6674744a791) 2012年8月25日 2012年8月26日閲覧
-74.
+59.
+60. [BURRN\!](../Page/BURRN!.md "wikilink")（[シンコーミュージック・エンタテイメント](../Page/シンコーミュージック・エンタテイメント.md "wikilink")）2016年2月号 29p
+61. [We Rock](https://ja.wikipedia.org/wiki/We_Rock "wikilink") Vol.1（2007年11月）11p
+62.
+63. [高崎晃(LOUDNESS) SPECIAL INTERVIEW \!\!](https://web.archive.org/web/20071028010849/http://mysound.jp/hrhm/2007/10/004741.php) Hard Rock / Heavy Metal Magazine LAZY\!\! 2007年10月22日 [インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")より
+64. 2009年11月29日（樋口の[一周忌](https://ja.wikipedia.org/wiki/一周忌 "wikilink")の前日）、公式HPにて正式なドラマーとして任命された。
+65.
+66. [LOUDNESS　全世界戦略開始！　東洋からの雷鳴が、ふたたび世界に鳴り響く！](https://wardrecords.com/page/infomation/loudness/) ワードレコーズ・ダイレクト 2017年8月4日 同日閲覧
+67. [二井原 実インタビュー――LOUDNESS JAPAN TOUR 19 HURRICANE EYES＋JEALOUSY](http://e.usen.com/enjoy-u/24111/) USENのオウンドメディア encore 2019年2月15日 2019年8月1日閲覧
+68. [『LOUDNESS JAPAN TOUR 2019 “HURRICANE EYES + JEALOUSY”』ツアー最終日＠Zepp Tokyo](https://burrn.online/live-report/273) [BURRN\! ONLINE](../Page/BURRN!.md "wikilink") 2019年6月4日 2019年8月26日 閲覧
+69.
+70. [ラウドネス樋口宗孝さん　誕生日にお別れ会](http://www.sponichi.co.jp/entertainment/news/2008/12/25/20.html)
+71. [](http://www.akiratakasaki.com/index.php?e=548)
+72. [元Ｘの沢田容疑者が死亡　サイパンで逮捕後自殺図る](http://sankei.jp.msn.com/entertainments/news/110717/ent11071717550015-n1.htm) 産経新聞 2011年7月17日
+73. [中国での音楽フェス、LOUDNESSなど出演中止に](http://www.yomiuri.co.jp/entertainment/news2/20120826-OYT8T00395.htm) 読売新聞 2012年8月26日
+74. [多分最高数。 「MINORU NIIHARA "ROCK ME BABY\!\!\!"」](http://blog.goo.ne.jp/m-niihara/e/bf841161c30099bbca4af6674744a791) 2012年8月25日 2012年8月26日閲覧
 75.
-76. 過去にLOUDNESSのコピーバンド『ICBM』のボーカルとして参加したこともある（稲葉の項目参照）
-77. 後にLOUDNESSのメンバーとなった[TAIJIのみならず](../Page/沢田泰司.md "wikilink")、[TOSHIもLOUDNESSのコピーをして腕を磨いたと二井原との対談で明かしている](https://ja.wikipedia.org/wiki/Toshl "wikilink")（ロッキンf 1995年3月号）
-78. [番長 清原が生んだ？！カリスマメタルボーカリストNOVインタビュー](http://myuu.jp/?p=3516/) Myuu 2016年1月9日 2020年1月3日 閲覧
-79. 『Laputa―from the cradle to the grave 1999 (Fool’s Mate extrax)』、 FOOL’S MATE、1999年、p.54、ISBN 4938716186
-80. [リズム＆ドラム・マガジン](https://ja.wikipedia.org/wiki/リズム＆ドラム・マガジン "wikilink")2009年3月号『追悼 樋口宗孝』より
-81. [ウェイバックマシン](https://ja.wikipedia.org/wiki/ウェイバックマシン "wikilink") [東映ヒーローネット、サイキックラバーインタビュー](https://web.archive.org/web/20110513195940/http://www.toeihero.net/archive/noa/backnumber/deka/interview/02_2.html)のアーカイブより
-82.
+76.
+77. 過去にLOUDNESSのコピーバンド『ICBM』のボーカルとして参加したこともある（稲葉の項目参照）
+78. 後にLOUDNESSのメンバーとなった[TAIJIのみならず](../Page/沢田泰司.md "wikilink")、[TOSHIもLOUDNESSのコピーをして腕を磨いたと二井原との対談で明かしている](https://ja.wikipedia.org/wiki/Toshl "wikilink")（ロッキンf 1995年3月号）
+79. [番長 清原が生んだ？！カリスマメタルボーカリストNOVインタビュー](http://myuu.jp/?p=3516/) Myuu 2016年1月9日 2020年1月3日 閲覧
+80. 『Laputa―from the cradle to the grave 1999 (Fool’s Mate extrax)』、 FOOL’S MATE、1999年、p.54、ISBN 4938716186
+81. [リズム＆ドラム・マガジン](https://ja.wikipedia.org/wiki/リズム＆ドラム・マガジン "wikilink")2009年3月号『追悼 樋口宗孝』より
+82. [ウェイバックマシン](https://ja.wikipedia.org/wiki/ウェイバックマシン "wikilink") [東映ヒーローネット、サイキックラバーインタビュー](https://web.archive.org/web/20110513195940/http://www.toeihero.net/archive/noa/backnumber/deka/interview/02_2.html)のアーカイブより
 83.
 84.
-85. 初回盤のみ手違いで山田ver.の『CRAZY NIGHT』の予定がマイクver.の同曲が収録されている。
-86. ロッキンf 2001年 5月号 18P
-87. [ロッキンf](https://ja.wikipedia.org/wiki/ロッキンf "wikilink") 1987年9月号 164P
+85.
+86. 初回盤のみ手違いで山田ver.の『CRAZY NIGHT』の予定がマイクver.の同曲が収録されている。
+87. ロッキンf 2001年 5月号 18P
+88. [ロッキンf](https://ja.wikipedia.org/wiki/ロッキンf "wikilink") 1987年9月号 164P

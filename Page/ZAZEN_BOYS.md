@@ -1,7 +1,7 @@
 > この記事は[ZAZEN BOYS](https://ja.wikipedia.org/wiki/ZAZEN_BOYS)から翻訳されています。
 
 
-**ZAZEN BOYS**（ザゼン・ボーイズ）は、2003年に結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。
+**ZAZEN BOYS**（ザゼン・ボーイズ）は、[2003年](../Page/2003年.md "wikilink")に結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。
 
 所属[レーベルは](../Page/レコードレーベル.md "wikilink")、メンバーの[向井秀徳](../Page/向井秀徳.md "wikilink")が自ら立ち上げた「[MATSURI STUDIO](https://ja.wikipedia.org/wiki/MATSURI_STUDIO "wikilink")」。
 
@@ -9,16 +9,19 @@
 
 ### 現メンバー
 
-  - **[向井秀徳](../Page/向井秀徳.md "wikilink")**（むかい しゅうとく）-1973年生まれ- [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")、[キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。
-  - **[吉兼聡](https://ja.wikipedia.org/wiki/吉兼聡 "wikilink")**（よしかね そう）-1974年生まれ- ギター、[サンプラー](../Page/サンプラー.md "wikilink")担当。右手に施された[刺青](https://ja.wikipedia.org/wiki/刺青 "wikilink")がトレードマーク。通称「カシオマン」
-  - **[松下敦](https://ja.wikipedia.org/wiki/松下敦 "wikilink")**（まつした あつし）-1969年生まれ- [ドラム担当](../Page/ドラムセット.md "wikilink")。2005年1月加入。通称「[柔道](../Page/柔道.md "wikilink")二段・松下敦」
-  - **[MIYA](https://ja.wikipedia.org/wiki/BLEACH_\(バンド\) "wikilink")**（みや）-1979年生まれ- [ベース担当](../Page/エレクトリックベース.md "wikilink")。2018年7月加入。
+  - **[向井 秀徳](../Page/向井秀徳.md "wikilink")**（むかい しゅうとく、- ） [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")、[キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。
+  - **[吉兼 聡](https://ja.wikipedia.org/wiki/吉兼聡 "wikilink")**（よしかね そう、- ）ギター、[サンプラー](../Page/サンプラー.md "wikilink")担当。右手に施された[刺青](https://ja.wikipedia.org/wiki/刺青 "wikilink")がトレードマーク。通称「**カシオマン**」。
+  - **[松下 敦](https://ja.wikipedia.org/wiki/松下敦 "wikilink")**（まつした あつし、- ）[ドラム担当](../Page/ドラムセット.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")加入。通称「**[柔道](../Page/柔道.md "wikilink")二段・松下敦**」。
+  - **[MIYA](https://ja.wikipedia.org/wiki/BLEACH_\(バンド\) "wikilink")**（みや、- ）[ベース担当](../Page/エレクトリックベース.md "wikilink")。[2018年](../Page/2018年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")加入。
 
 ### 元メンバー
 
-  - **[アヒト・イナザワ](../Page/アヒト・イナザワ.md "wikilink")** - [ドラム担当](../Page/ドラムセット.md "wikilink")。2004年12月脱退。脱退後、[VOLA & THE ORIENTAL MACHINEを結成](../Page/VOLA_&_THE_ORIENTAL_MACHINE.md "wikilink")。通称「アピート・イナザワンテ」。
-  - **[日向秀和](https://ja.wikipedia.org/wiki/日向秀和 "wikilink")**（ひなた ひでかず）- [ベース担当](../Page/エレクトリックベース.md "wikilink")。2007年2月脱退。以降はZAZEN在籍当時から並行して参加していた[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")、脱退後に結成された[Nothing's Carved In Stone他様々なバンドでの活動を継続](https://ja.wikipedia.org/wiki/Nothing's_Carved_In_Stone "wikilink")。在籍時の通称は「[町田のヤンキー](../Page/町田市.md "wikilink")」。
-  - **[吉田一郎](../Page/吉田一郎_\(ミュージシャン\).md "wikilink")**（よしだ いちろう） -1982年生まれ- [ベース担当](../Page/エレクトリックベース.md "wikilink")。2007年3月加入。2017年12月をもって脱退。
+  - **[アヒト・イナザワ](../Page/アヒト・イナザワ.md "wikilink")** （- ） [ドラム担当](../Page/ドラムセット.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")脱退。
+      - 通称「**アピート・イナザワンテ**」。脱退後は、[VOLA & THE ORIENTAL MACHINEを結成](../Page/VOLA_&_THE_ORIENTAL_MACHINE.md "wikilink")。
+  - **[日向 秀和](https://ja.wikipedia.org/wiki/日向秀和 "wikilink")**（ひなた ひでかず、- ）[ベース担当](../Page/エレクトリックベース.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")脱退。
+      - 通称「**[町田のヤンキー](../Page/町田市.md "wikilink")**」。脱退後は、在籍時から並行して参加していた[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")や、脱退後に結成された[Nothing's Carved In Stone他](https://ja.wikipedia.org/wiki/Nothing's_Carved_In_Stone "wikilink")、様々なバンドで活動。
+  - **[吉田 一郎](../Page/吉田一郎_\(ミュージシャン\).md "wikilink")**（よしだ いちろう、- ） [ベース担当](../Page/エレクトリックベース.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")加入。[2017年](../Page/2017年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")脱退。
+      - 脱退後は、吉田一郎不可触世界として活動中。
 
 ## 来歴
 
@@ -784,6 +787,7 @@ MSVL-016</p></td>
   - 2016年 - MATSURI SESSION
   - 2017年 - MATSURI SESSION
   - 2018年 - MATSURI SESSION
+  - 2019年 - MATSURI SESSION
 
 ### 出演イベント
 

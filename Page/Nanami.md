@@ -1,7 +1,7 @@
 > この記事は[Nanami](https://ja.wikipedia.org/wiki/Nanami)から翻訳されています。
 
 
-**Nanami**（ななみ、[1986年](../Page/1986年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女優](../Page/俳優.md "wikilink")・[女性](../Page/女性.md "wikilink")[ファッションモデル](../Page/ファッションモデル.md "wikilink")。旧名義は**上原 千夏子**（うえはら ちかこ）。[千葉県](../Page/千葉県.md "wikilink")[木更津市](https://ja.wikipedia.org/wiki/木更津市 "wikilink")出身。[大妻女子大学短期大学部](https://ja.wikipedia.org/wiki/大妻女子大学短期大学部 "wikilink")英文科卒。現在は休養中。
+**Nanami**（ななみ、[1994年](../Page/1994年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女優](../Page/俳優.md "wikilink")・[女性](../Page/女性.md "wikilink")[ファッションモデル](../Page/ファッションモデル.md "wikilink")。旧名義は**上原 千夏子**（うえはら ちかこ）。[千葉県](../Page/千葉県.md "wikilink")[木更津市](https://ja.wikipedia.org/wiki/木更津市 "wikilink")出身。[大妻女子大学短期大学部](https://ja.wikipedia.org/wiki/大妻女子大学短期大学部 "wikilink")英文科卒。現在は休養中。
 
 なお、同じくモデルで[堀北真希](https://ja.wikipedia.org/wiki/堀北真希 "wikilink")の妹として知られる[NANAMI](https://ja.wikipedia.org/wiki/NANAMI "wikilink")（1994年生まれ）は同名の別人。
 

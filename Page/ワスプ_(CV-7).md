@@ -202,6 +202,8 @@
   - 『[ジパング](https://ja.wikipedia.org/wiki/ジパング_\(漫画\) "wikilink")』
     登場する架空の[護衛艦](../Page/護衛艦.md "wikilink")ゆきなみ型の３番艦で第二次世界大戦時に[タイムスリップしてしまった](https://ja.wikipedia.org/wiki/タイムトラベル "wikilink")「[みらい](https://ja.wikipedia.org/wiki/ジパング_\(漫画\)#DDH-182_みらい "wikilink")」の発射した[トマホークがワスプに命中](https://ja.wikipedia.org/wiki/トマホーク_\(ミサイル\) "wikilink")、撃沈された。
 
+{{-}}
+
 ## 脚注
 
 ## 関連項目

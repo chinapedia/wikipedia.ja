@@ -1,11 +1,9 @@
 > この記事は[ディグダグII](https://ja.wikipedia.org/wiki/ディグダグII)から翻訳されています。
 
 
-『**ディグダグII**』（ディグダグ・ツー）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月12日](../Page/3月12日.md "wikilink")に日本の[ナムコから稼働された](../Page/バンダイナムコエンターテインメント.md "wikilink")[アーケード用](../Page/アーケードゲーム.md "wikilink")[固定画面アクションゲーム](../Page/アクションゲーム.md "wikilink")。
+『**ディグダグII**』（ディグダグ・ツー）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月12日](../Page/3月12日.md "wikilink")にナムコ（後の[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")）から発売された[アーケード用](../Page/アーケードゲーム.md "wikilink")[固定画面アクションゲーム](../Page/アクションゲーム.md "wikilink")。
 
 同社のアーケードゲーム『[ディグダグ](../Page/ディグダグ.md "wikilink")』（[1982年](../Page/1982年.md "wikilink")）の続編。本作では「戦略的島崩しゲーム」と銘打ち、「舞台となる小さな島の表面にひびを入れて崩し、崩落に敵を巻き込んで倒す」というスタイルに変更された。開発はナムコ開発一課が行い、音楽は[小沢純子](../Page/小沢純子.md "wikilink")が担当している。
-
-[1986年](../Page/1986年.md "wikilink")に[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[ファミリーコンピュータ ディスクシステムに移植された他](../Page/ファミリーコンピュータ_ディスクシステム.md "wikilink")、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")には[X68000](https://ja.wikipedia.org/wiki/X68000 "wikilink")用ソフト『**ビデオゲームアンソロジーVol.12 ディグダグI & II**』として『ディグダグ』と併録する形で移植された。[2004年](../Page/2004年.md "wikilink")以降は携帯電話アプリゲームとして配信された他、[2009年](../Page/2009年.md "wikilink")には[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ソフトとして[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")アーケードにてアーケード版が配信、さらに[2016年](../Page/2016年.md "wikilink")には[Wii U用ソフトとしてバーチャルコンソールにてファミリーコンピュータ版が配信された](https://ja.wikipedia.org/wiki/Wii_U "wikilink")。それ以外にもアーケード版は[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")、[Xbox360](https://ja.wikipedia.org/wiki/Xbox360 "wikilink")などのオムニバスソフトに収録された。
 
 ## ゲーム内容
 
@@ -201,12 +199,28 @@
 <td><p>-</p></td>
 <td><p>ファミリーコンピュータ版の移植</p></td>
 </tr>
+<tr class="even">
+<td><p>14</p></td>
+<td><p><a href="../Page/ナムコットコレクション.md" title="wikilink">NAMCO MUSEUM ARCHIVES Vol.2</a></p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Nintendo_Switch" title="wikilink">Nintendo Switch</a>（日本国外）<br />
+<a href="https://ja.wikipedia.org/wiki/PlayStation_4" title="wikilink">PlayStation 4</a><br />
+<a href="https://ja.wikipedia.org/wiki/Xbox_One" title="wikilink">Xbox One</a><br />
+<a href="https://ja.wikipedia.org/wiki/Windows" title="wikilink">Windows</a>(<a href="../Page/Steam.md" title="wikilink">Steam</a>)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/B.B.スタジオ" title="wikilink">B.B.スタジオ</a><br />
+M2</p></td>
+<td><p>バンナム</p></td>
+<td><p>ダウンロード</p></td>
+<td><p>-</p></td>
+<td><p>NES版を収録</p></td>
+</tr>
 </tbody>
 </table>
 
   - ファミリーコンピュータ版
     [1986年](../Page/1986年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")に「ナムコット ファミリーコンピュータゲームシリーズ」第14弾として発売された。中間デモのディグダグシアター、BGM、島を1ブロック崩すと出る魚、スペシャルフラッグ、夜間の背景のラウンドや地面のカラーの追加、広大なラウンドでは開始前にスクロールして全景を見せるなどが追加された。また、FC版では全72ステージの構成となっている。
-    [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[8月31日](../Page/8月31日.md "wikilink")には[ファミリーコンピュータ ディスクシステム書き換え専用としても発売](../Page/ファミリーコンピュータ_ディスクシステム.md "wikilink")。また、[2016年](../Page/2016年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink")には[Wii U](https://ja.wikipedia.org/wiki/Wii_U "wikilink")[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")用ソフトとして配信された。
+    [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[8月31日](../Page/8月31日.md "wikilink")には[ファミリーコンピュータ ディスクシステム書き換え専用としても発売](../Page/ファミリーコンピュータ_ディスクシステム.md "wikilink")。
+    また、[2016年](../Page/2016年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink")には[Wii U](https://ja.wikipedia.org/wiki/Wii_U "wikilink")[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")用ソフトとして配信され、[2020年](../Page/2020年.md "wikilink")発売の[NAMCO MUSEUM ARCHIVES Vol.2には](../Page/ナムコットコレクション.md "wikilink")[NES版が収録された](../Page/Nintendo_Entertainment_System.md "wikilink")。
   - X68000版
     1995年発売。電波新聞社より発売の『ビデオゲームアンソロジーVol.12 ディグダグ I\&II』に初代と同時収録で移植された。
   - Windows版
@@ -218,7 +232,7 @@
   - ニンテンドーDS版
     [2007年](../Page/2007年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink")発売された『[ナムコミュージアム](../Page/ナムコミュージアム.md "wikilink")DS』に収録。開発は[M2](../Page/M2_\(ゲーム会社\).md "wikilink")。マニアックオプションにNEWバージョンも収録された。また縦画面モードなど様々な画面モードやライブモードも実装されている。その他にもゲーム中に自由に説明を見ることができたり、インストラクションカードや当時のチラシの画像やプレイのヒントなどが資料館モードに収録。
   - Wii版
-    [2009年](../Page/2009年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")より『[バーチャルコンソール アーケード](../Page/バーチャルコンソール.md "wikilink")』で配信開始。
+    [2009年](../Page/2009年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")より『[バーチャルコンソール アーケード](../Page/バーチャルコンソール.md "wikilink")』で配信開始（2019年1月31日をもって購入不可になった）。
   - Xbox 360版
     2009年[11月5日](../Page/11月5日.md "wikilink")発売の『ナムコミュージアム バーチャルアーケード』に収録。
 

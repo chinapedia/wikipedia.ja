@@ -1,7 +1,7 @@
 > この記事は[B\'z The Best Treasure](https://ja.wikipedia.org/wiki/B\'z_The_Best_Treasure)から翻訳されています。
 
 
-『**B'z The Best "Treasure"**』（ビーズ・ザ・ベスト・トレジャー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")がデビュー10周年となる[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月20日](../Page/9月20日.md "wikilink")に[Rooms RECORDSからリリースした](../Page/VERMILLION_RECORDS.md "wikilink")2枚目の公認[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。全曲[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")収録。
+『**B'z The Best "Treasure"**』（ビーズ・ザ・ベスト・トレジャー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")がデビュー10周年となる1998年9月20日に[Rooms RECORDSからリリースした](../Page/VERMILLION_RECORDS.md "wikilink")2枚目の公認[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。全曲[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")収録。
 
 ## 概要
 
@@ -17,7 +17,7 @@ B'zデビュー10周年を記念して発売されたベスト・アルバム第
 
 発売前のCMでは「[Pleasure'91 〜人生の快楽〜](../Page/LADY_NAVIGATION.md "wikilink")」の[イントロが使用された](https://ja.wikipedia.org/wiki/イントロダクション "wikilink")。
 
-なお、発売日の1998年9月20日はB'zが[1988年](../Page/1988年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")にシングル・アルバム同時発売でメジャーデビューしてから満10年目の日である。
+なお、発売日の1998年9月20日はB'zが1988年9月21日にシングル・アルバム同時発売でメジャーデビューしてから満10年目の日である。
 
 本作発売時には前作『B'z The Best "Pleasure"』同様、主要CDショップに於いて購入先着でB'zのオリジナルグッズが当たる抽選会"B'z DAY"が行なわれた。
 
@@ -41,7 +41,7 @@ B'zデビュー10周年を記念して発売されたベスト・アルバム第
 1.  **[BLOWIN'](../Page/BLOWIN'.md "wikilink")**　(3:55)
       -
         10thシングル。アルバム初収録。2008年にリリースされた『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』では別バージョンで収録されたため、2013年に『[B'z The Best XXV 1988-1998](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1988-1998 "wikilink")』がリリースされるまではシングルバージョンの音源は本作にしか収録されていなかった。
-2.  **[恋心 (KOI-GOKORO)](../Page/ZERO_\(B'zの曲\).md "wikilink")**　(3:49)
+2.  **[恋心(KOI-GOKORO)](../Page/ZERO_\(B'zの曲\).md "wikilink")**　(3:49)
       -
         11thシングル『ZERO』2nd beat。アルバム初収録。
 3.  **[TIME](../Page/BLOWIN'.md "wikilink")**　(4:57)
@@ -98,7 +98,7 @@ B'zデビュー10周年を記念して発売されたベスト・アルバム第
 
 ※出典\[9\]
 
-  - 1位：恋心 (KOI-GOKORO)（11th Single『[ZERO](../Page/ZERO_\(B'zの曲\).md "wikilink")』2nd beat）
+  - 1位：恋心(KOI-GOKORO)（11th Single『[ZERO](../Page/ZERO_\(B'zの曲\).md "wikilink")』2nd beat）
   - 2位：[BLOWIN'](../Page/BLOWIN'.md "wikilink")（10th Single）
   - 3位：[ねがい](../Page/ねがい_\(B'zの曲\).md "wikilink")（16th Single）
   - 4位：[もう一度キスしたかった](../Page/もう一度キスしたかった.md "wikilink")（5th Album『[IN THE LIFE](../Page/IN_THE_LIFE.md "wikilink")』収録）

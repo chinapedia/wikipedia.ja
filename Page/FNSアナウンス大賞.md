@@ -285,7 +285,7 @@ FNS系列各局のアナウンサーの資質向上を目的に[1985年](https:/
 （<a href="../Page/仙台放送.md" title="wikilink">仙台放送</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東日本大震災" title="wikilink">東日本大震災</a>報道</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/横内美紗" title="wikilink">横内美紗</a><br />
-（<a href="https://ja.wikipedia.org/wiki/新潟総合テレビ" title="wikilink">新潟総合テレビ</a>）</p></td>
+（<a href="../Page/NST新潟総合テレビ.md" title="wikilink">新潟総合テレビ</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>第29回<br />

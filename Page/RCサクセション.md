@@ -49,8 +49,9 @@ etc</p></td>
 ボーカル</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/小林和生" title="wikilink">小林和生</a></strong><br />
 （こばやし かずお）</p></td>
-<td><p>林小 和生<br />
-リンコ・ワッショー 小林やわお</p></td>
+<td><p>林小和生<br />
+リンコ・ワッショー<br />
+小林やわお</p></td>
 <td></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="../Page/国立市.md" title="wikilink">国立市</a></p></td>
 <td><p>1968年〜1991年</p></td>
@@ -72,7 +73,7 @@ etc</p></td>
 ドラム</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/春日博文" title="wikilink">春日博文</a></strong><br />
 （かすが ひろふみ）</p></td>
-<td></td>
+<td><p>ハチ</p></td>
 <td></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/港区_(東京都)" title="wikilink">港区</a><a href="../Page/青山_(東京都港区).md" title="wikilink">青山</a></p></td>
 <td><p>1978年<br />
@@ -173,7 +174,7 @@ G2</p></td>
 <td><p>1970年代前期</p></td>
 </tr>
 <tr class="even">
-<td><p>キーボード</p></td>
+<td><p>ピアノ</p></td>
 <td><p><strong><a href="../Page/佐山雅弘.md" title="wikilink">佐山雅弘</a></strong><br />
 （さやま まさひろ）</p></td>
 <td><p>セクシー佐山</p></td>
@@ -182,7 +183,7 @@ G2</p></td>
 <td><p>1975年〜1976年頃</p></td>
 </tr>
 <tr class="odd">
-<td><p>キーボード</p></td>
+<td><p>ドラム</p></td>
 <td><p><strong>鈴木ウータン正夫</strong><br />
 （すずきウータンまさお）</p></td>
 <td><p>ワンダフル鈴木</p></td>
@@ -215,7 +216,7 @@ G2</p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="../Page/世田谷区.md" title="wikilink">世田谷区</a><a href="../Page/下北沢.md" title="wikilink">下北沢</a></p></td>
-<td><p>1980年〜</p></td>
+<td><p>1988年〜1989年頃</p></td>
 </tr>
 </tbody>
 </table>
@@ -292,19 +293,19 @@ G2</p></td>
 
 [1977年](../Page/1977年.md "wikilink")、破廉が正式脱退。
 
-[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")、春日がメンバーとして参加し、フォーク形態から[ロック](../Page/ロック_\(音楽\).md "wikilink") / [R\&B形態へとバージョンアップされる](../Page/リズム・アンド・ブルース.md "wikilink") (当時は、その衝撃の大きさからマスコミでは「[パンク・ロック](../Page/パンク・ロック.md "wikilink")」と評されることが多かった)。さらに、新井田、仲井戸が正式に加入し、RCの黄金期を形成するバンドの基礎が完成する。忌野は髪を短く切って逆立て、派手な衣裳にどぎついメイクをしてステージに出るようになる。
+[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")、春日がメンバーとして参加し、フォーク形態から[ロック](../Page/ロック_\(音楽\).md "wikilink") / [R\&B形態へとバージョンアップされる](../Page/リズム・アンド・ブルース.md "wikilink") (当時は、その衝撃の大きさからマスコミでは「[パンク・ロック](../Page/パンク・ロック.md "wikilink")」と評されることが多かった)。仲井戸がサポートとして参加。さらに、新井田が正式に加入し、RCの黄金期を形成するバンドの基礎が完成する。忌野は髪を短く切って逆立て、派手な衣裳にどぎついメイクをしてステージに出るようになる。
 
 [1979年](../Page/1979年.md "wikilink")、春日に替わって小川が加入。RCはそのライブパフォーマンスが評判となり、マスコミでたびたび取り上げられるようになる。[ジョニー、ルイス&チャーの前座として初めて](../Page/ピンククラウド.md "wikilink")[日本武道館](../Page/日本武道館.md "wikilink")のステージに立つ。
 
-音楽評論家の[吉見佑子](https://ja.wikipedia.org/wiki/吉見佑子 "wikilink")らが3rdアルバム「シングル・マン」の再発売を懇願するため「シングルマン再発実行委員会」を発足、[ポリドールとの折衝が繰り返された結果](../Page/ポリドール・レコード.md "wikilink")、自主制作というかたちで300枚限定で異例の再発売が決定する。当初は国立の「レコード・プラント」、青山の「[パイドパイパー・ハウス](https://ja.wikipedia.org/wiki/パイド・パイパー・ハウス "wikilink")」の2店のみでの販売だった。
+音楽評論家の[吉見佑子](https://ja.wikipedia.org/wiki/吉見佑子 "wikilink")らが3rdアルバム「シングル・マン」の再発売を懇願するため「シングルマン再発実行委員会」を発足、[ポリドールとの折衝が繰り返された結果](../Page/ポリドール・レコード.md "wikilink")、自主制作というかたちで300枚限定で異例の再発売が決定する。当初は国立の「レコード・プラント」、青山の「[パイドパイパー・ハウス](https://ja.wikipedia.org/wiki/パイド・パイパー・ハウス "wikilink")」の2店のみでの販売だった。仲井戸が正式メンバーとなる。
 
-[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")、「雨あがりの夜空に」発売記念として渋谷のライブハウス「[屋根裏](https://ja.wikipedia.org/wiki/屋根裏_\(ライブハウス\) "wikilink")」で4日連続のコンサートを開催。のべ800人の観客を動員し、同ライブハウスの動員記録を打ち立てる。[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")での[シーナ&ロケッツ](https://ja.wikipedia.org/wiki/シーナ&ロケッツ "wikilink")、[バウワウとのジョイントコンサートも約](../Page/BOWWOW.md "wikilink")2000人の観客動員を達成、RC人気に火がつく。「シングル・マン」が正式に再発売される。
+[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")、「雨あがりの夜空に」発売記念として渋谷のライブハウス「[屋根裏](https://ja.wikipedia.org/wiki/屋根裏_\(ライブハウス\) "wikilink")」で4日連続のコンサートを開催。のべ800人の観客を動員し、同ライブハウスの動員記録を打ち立てる。[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")での[シーナ&ロケッツ](https://ja.wikipedia.org/wiki/シーナ&ロケッツ "wikilink")、[BOWWOW](../Page/BOWWOW.md "wikilink")とのジョイントコンサートも約2000人の観客動員を達成、RC人気に火がつく。「シングル・マン」が正式に再発売される。
 
-エレキ化後のデビュー盤となる “RHAPSODY” をリリース、半年以上のロングランヒットとなる。このアルバムは、1980年6月、東京・久保講堂におけるコンサートの実況録音盤である。同アルバムリリースと前後し、小川が脱退。替わって、それまでサポートメンバーとして参加していたGee2woが正式メンバーとなる。
+エレキ化後のデビュー盤となる “RHAPSODY” をリリース、半年以上のロングランヒットとなる。このアルバムは、1980年4月、東京・久保講堂におけるコンサートの実況録音盤である。このコンサートを最後に、小川が脱退。替わって、それまでサポートメンバーとして参加していたGee2woが正式メンバーとなる。
 
 [1981年](../Page/1981年.md "wikilink")、初の日本武道館単独公演。この年を始めとしてその後10年間連続で武道館クリスマスコンサートを行う。この年はその他にも年間100本近いコンサートを行う。\[4\]
 
-[1982年](../Page/1982年.md "wikilink")、忌野が[坂本龍一](../Page/坂本龍一.md "wikilink")（当時[イエロー・マジック・オーケストラ](../Page/イエロー・マジック・オーケストラ.md "wikilink")）と組んで発表したシングル「[い・け・な・いルージュマジック](../Page/い・け・な・いルージュマジック.md "wikilink")」が[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")82春のキャンペーンソングとしてヒット。[PVでは](../Page/ミュージック・ビデオ.md "wikilink")、どぎつい化粧をして男同士でキスをするなど過激なパフォーマンスを展開、時代を席巻する。RCとしては同年、[サム・ムーア](../Page/サム&デイヴ.md "wikilink")、[チャック・ベリー](../Page/チャック・ベリー.md "wikilink")らとのジョイントコンサートを大阪[住之江競艇場](https://ja.wikipedia.org/wiki/住之江競艇場 "wikilink")にて開催（アルバム『THE DAY OF R\&B』収録）。[ロンドン・レコード](https://ja.wikipedia.org/wiki/ロンドン・レコード "wikilink")に移籍。自身の[レーベル](../Page/レコードレーベル.md "wikilink")「BARCA」を設立。
+[1982年](../Page/1982年.md "wikilink")、忌野が[坂本龍一](../Page/坂本龍一.md "wikilink")（当時[イエロー・マジック・オーケストラ](../Page/イエロー・マジック・オーケストラ.md "wikilink")）と組んで発表したシングル「[い・け・な・いルージュマジック](../Page/い・け・な・いルージュマジック.md "wikilink")」が[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")82年春のキャンペーンソングとしてヒット。[PVでは](../Page/ミュージック・ビデオ.md "wikilink")、どぎつい化粧をして男同士でキスをするなど過激なパフォーマンスを展開、時代を席巻する。RCとしては同年、[サム・ムーア](../Page/サム&デイヴ.md "wikilink")、[チャック・ベリー](../Page/チャック・ベリー.md "wikilink")らとのジョイントコンサートを大阪[住之江競艇場](https://ja.wikipedia.org/wiki/住之江競艇場 "wikilink")にて開催（アルバム『THE DAY OF R\&B』収録）。[ロンドン・レコード](https://ja.wikipedia.org/wiki/ロンドン・レコード "wikilink")に移籍。自身の[レーベル](../Page/レコードレーベル.md "wikilink")「BARCA」を設立。
 
 [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、事務所「りぼん」から独立。自分たちの事務所「うむ」を設立。西武劇場（現[PARCO劇場](../Page/PARCO劇場.md "wikilink")）で独立記念コンサート「スーパーエイプリルフール」を開催（[泉谷しげる](../Page/泉谷しげる.md "wikilink")、坂本龍一、[矢野顕子](../Page/矢野顕子.md "wikilink")、三浦友和らがゲスト参加）。
 
@@ -338,13 +339,10 @@ G2</p></td>
 
   - [1975年](../Page/1975年.md "wikilink")、仕事がほとんどなくなり、活動休止状態になる。
   - [1976年](../Page/1976年.md "wikilink")、ホリプロとの契約が切れ、正式に「りぼん」に移籍。
-  - レコード会社を東芝音工からポリドールに移し、3年1ヵ月ぶりのシングル「[スローバラード](https://ja.wikipedia.org/wiki/スローバラード "wikilink")」、3年4ヵ月ぶりの3rdアルバム『[シングル・マン](../Page/シングル・マン_\(RCサクセションのアルバム\).md "wikilink")』をリリース、さらにキティレーベル(後のキティレコード）に移籍してシングル「わかってもらえるさ」を発売するも、すぐにそれらのレコードは廃盤となる。
-
-<!-- end list -->
-
+  - レコード会社を東芝音工からポリドールに移し、3年1ヵ月ぶりのシングル「[スローバラード](https://ja.wikipedia.org/wiki/スローバラード "wikilink")」、3年4ヵ月ぶりの3rdアルバム『[シングル・マン](../Page/シングル・マン_\(RCサクセションのアルバム\).md "wikilink")』をリリース、さらにキティレーベル(後のキティレコード）に移籍してシングル「わかってもらえるさ」を発売するも、すぐにそれらは廃盤となる。
   - アルバム『[シングル・マン](../Page/シングル・マン_\(RCサクセションのアルバム\).md "wikilink")』には契約上クレジットされなかったが、[タワー・オブ・パワー](../Page/タワー・オブ・パワー.md "wikilink")や[ミッキー吉野](../Page/ミッキー吉野.md "wikilink")、[柴田義也](https://ja.wikipedia.org/wiki/柴田義也 "wikilink")らが参加していた。また、「わかってもらえるさ」ではメンバーに破廉がクレジットされているものの、破廉は極度の鬱状態でギターが弾けず、ギターはすべて忌野が弾いた。\[8\]
 
-また、アルバムには契約の問題で上記のゲストミュージシャンを表記できなかった為「このレコードは世界的ミュージシャンが豊富に使用されておりますので安心してご利用ください」と書いてある。
+また、アルバムには契約の問題で上記のゲストミュージシャンを記載できなかった為「このレコードは世界的ミュージシャンが豊富に使用されておりますので安心してご利用ください」と書いてある。
 
   - アルバム『[シングル・マン](../Page/シングル・マン_\(RCサクセションのアルバム\).md "wikilink")』のジャケットに使われているイラストは[幼児児童絵画統覚検査図版](https://ja.wikipedia.org/wiki/幼児児童絵画統覚検査図版 "wikilink")（金子出版）のもの。元本は忌野自身が探してきた。なお、当アルバムのジャケットに使われているRCサクセションのロゴも忌野がデザインしている。
   - 5万円で買った忌野の愛車[日産・サニー](../Page/日産・サニー.md "wikilink")クーペが廃車となる。[井上陽水](../Page/井上陽水.md "wikilink")のアルバム「氷の世界」に提供した二曲の印税で買ったと言われる。この車をモデルとしてこの頃「雨あがりの夜空に」の歌詞が書かれた。\[9\]その後も忌野は2台続けて中古のサニークーペを購入したが、これは当時一番安い中古車だったからである。
@@ -364,12 +362,12 @@ G2</p></td>
 
 ### 『BEAT POPS』 〜 『King of Live』（絶頂期）
 
-  - [関川誠](https://ja.wikipedia.org/wiki/関川誠 "wikilink")編集長のもと、パンク、[ニュー・ウェーブ系の音楽雑誌となっていた雑誌](../Page/ニュー・ウェイヴ_\(音楽\).md "wikilink")『宝島』で、日本のロック・バンドのシンボル的存在として何度も取り上げられる。特に清志郎は「ロック少年・ロック少女たちの[カリスマ](../Page/カリスマ.md "wikilink")的存在」となり、漫画等にも清志郎をモデルとしたと思われるキャラクターが描かれるようになる。
+  - [関川誠](https://ja.wikipedia.org/wiki/関川誠 "wikilink")編集長のもと、パンク、[ニュー・ウェーブ系の音楽雑誌となっていた雑誌](../Page/ニュー・ウェイヴ_\(音楽\).md "wikilink")『[宝島](../Page/宝島_\(雑誌\).md "wikilink")』で、日本のロック・バンドのシンボル的存在として何度も取り上げられる。特に清志郎は「ロック少年・ロック少女たちの[カリスマ](../Page/カリスマ.md "wikilink")的存在」となり、漫画等にも清志郎をモデルとしたと思われるキャラクターが描かれるようになる。
   - [1982年](../Page/1982年.md "wikilink")、レコード会社をロンドン・レコードに移籍。
-  - [1982年](../Page/1982年.md "wikilink")、シングル「サマーツアー」がヒット。TBS系テレビ「[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")」に8位で一回のみランクインし、出演。（8月5日）
+  - [1982年](../Page/1982年.md "wikilink")、シングル「サマーツアー」がヒット。8月5日、TBS系テレビ「[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")」に8位で一回のみランクインし、出演。
   - [1982年](../Page/1982年.md "wikilink")6月14日、フジテレビ系生放送番組「[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")」に出演しサマーツアーを演奏した際、清志郎が曲の最中画面狭しと暴れまわったり、司会者とのトーク時より噛み続けていたガムをテレビカメラに向かって吐きかけるなどの悪ふざけをし、さらにそのことで視聴者へ謝罪する司会者の後ろで舌を出したり顔をしかめるなどしたことから、テレビ局に「ふざけるな」など抗議の電話が殺到。その数は500本近くに上ったと言われている。
-  - アルバム『[OK](../Page/OK_\(RCサクセションのアルバム\).md "wikilink")』は、RC初の海外（ハワイ）録音。飛行機嫌い、海外嫌いだった仲井戸が初めて海外に行った。感想は「けっこういいとこだったよ。外には出なかったけど」。
-  - アルバム『OK』制作時頃より、忌野の体調が最悪の状態になる。喫煙、ジャンクフード、ドラッグ漬けの生活といった長年の不摂生、ライブとレコーディングに追われる過密スケジュール、風呂なし極貧アパートでの不衛生な生活という低待遇など無理が重なったためと思われ、検査の結果、医者に「君の肝臓は一生治らない」と宣告される。
+  - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")のアルバム『[OK](../Page/OK_\(RCサクセションのアルバム\).md "wikilink")』で、RC初の海外（ハワイ）録音を行う。飛行機嫌い、海外嫌いだった仲井戸が初めて海外に行った。感想は「けっこういいとこだったよ。外には出なかったけど。」
+  - この頃より、忌野の体調が最悪の状態になる。喫煙、ジャンクフード、ドラッグ漬けの生活といった長年の不摂生、ライブとレコーディングに追われる過密スケジュール、風呂なし極貧アパートでの不衛生な生活という低待遇など無理が重なったためと思われ、検査の結果、医者に「君の肝臓は一生治らない」と宣告される。
 
 ### 『FEEL SO BAD』 〜 『Tears of a Clown』（激動期・その1）
 
@@ -387,13 +385,14 @@ G2</p></td>
 
   - [1988年](../Page/1988年.md "wikilink")、[反戦](https://ja.wikipedia.org/wiki/反戦 "wikilink")・反核をテーマにしたカバーアルバム『[COVERS（カバーズ）](../Page/COVERS_\(RCサクセションのアルバム\).md "wikilink")』とシングル「ラヴ・ミー・テンダー」を制作するも、発売元の [東芝EMIの親会社](../Page/EMIミュージック・ジャパン.md "wikilink")・東芝が原子力関連企業でもあったため、歌詞の内容が問題視され急遽発売中止になる。東芝EMIは全国紙 ([毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")、[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")、[読売新聞](../Page/読売新聞.md "wikilink")) で「素晴らしすぎて発売できません」との[広告](../Page/広告.md "wikilink")を打つ（これは忌野が東芝から「企業の倫理とかいうのがあってどうも…素晴らしすぎて出せない」と発売の中止を告げられたことを受け、「素晴らしすぎて出せないっていうんだったら、それを新聞に出してくれ」と言ったことによる。\[12\]）。急遽レコード会社を古巣キティレコードに変えて発売されたこのアルバムは、話題性もありRC初の[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位を獲得する。この事件に関しては、『[COVERS](../Page/COVERS_\(RCサクセションのアルバム\).md "wikilink")』の頁に詳細を記述。\[13\]
   - アルバム『COVERS』の発売中止から、2ヵ月後の8月15日にライブを行い、この模様を収録したライブアルバム『コブラの悩み』をその年の12月にリリース。演奏曲目はほとんどが怒りをストレートに表現したもので、「発売中止騒動の時のマスコミの対応」や「東芝」を痛烈に批判した（ただし、このアルバム自体は東芝EMIからリリースされている）。
-  - ライブアルバム『コブラの悩み』には、スタジオ録音である「君は Love Me Tender を聴いたか？」がアルバムラストに曲の冒頭部分のみ収録されている。この曲は、発禁問題を引き起こした「Love Me Tender」に対するセルフ・アンサーソングであるが、核心部分を語ろうとする「あの歌は、反…」という歌詞のところで音声が途切れ終わっている。なお、[1988年](../Page/1988年.md "wikilink")のクリスマス武道館ライブではこの曲がフルバージョンで披露された。内容は、「反原発ロック」などというレッテルを貼られた曲に対するシンパシーや、たかが一曲の歌ごときにレコード会社やマスコミなどの大企業が政治力まで使い圧力をかけてくることやことほどさように大騒ぎすることの愚かさ、日本の社会や報道機関の未熟さを皮肉った内容となっている。フルバージョンはラジオ放送で何度かオンエアされた事はあったものの、結局今日に至るまでCD化されていない。
+  - ライブアルバム『コブラの悩み』には、スタジオ録音である「君は Love Me Tender を聴いたか？」がアルバムラストに曲の冒頭部分のみ収録されている。この曲は、発禁問題を引き起こした「Love Me Tender」に対するセルフ・アンサーソングであるが、核心部分を語ろうとする「あの歌は、反…」という歌詞のところで途切れ終わっている。なお、[1988年](../Page/1988年.md "wikilink")のクリスマス武道館ライブではこの曲がフルバージョンで披露された。内容は、「反原発ロック」などというレッテルを貼られた曲に対するシンパシーや、たかが一曲の歌ごときにレコード会社やマスコミなどの大企業が政治力まで使い圧力をかけてくることやことほどさように大騒ぎすることの愚かさ、日本の社会や報道機関の未熟さを皮肉った内容となっている。フルバージョンは忌野のラジオ番組で何度かオンエアされた事はあったものの、結局今日に至るまでCD化されていない。
 
 ### 『Baby A Go Go』（終焉期）
 
-  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、メンバー間での話し合いの末、Gee2woが脱退（趣味に夢中になり過ぎ練習をすっぽかすことが度々あったこと、小林らとの音楽的な志向性の違いがあったことなどが主要因と言われている）\[14\]。以降、キーボードにはVOW WOWの厚見玲衣がサポートで参加することになる。
-  - 『Baby a Go Go』の制作中、ミキサー（[ヘンリー・ハーシュ](https://ja.wikipedia.org/wiki/ヘンリー・ハーシュ "wikilink")、[デイヴィッド・ドマーニッチ](https://ja.wikipedia.org/wiki/デイヴィッド・ドマーニッチ "wikilink")）と忌野が、曲によってドラマーを春日博文や外部のドラマーに変えたいという方針を打ち出したことに新井田が猛反発し、RCを脱退する\[15\]。結果、RCは清志郎、仲井戸、小林の3人編成となる。
-  - 忌野、仲井戸、小林の3人で現時点でのラストオリジナルアルバム『Baby a Go Go』をリリース。ヘンリー・ハーシュら外国人プロデューサーを迎えアナログ制作にこだわって作られたこのアルバムは高い評価を得る。
+  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、メンバー間での話し合いの末、Gee2woが脱退（趣味のスキーに夢中になり過ぎ練習をすっぽかすことが度々あったこと、小林らとの音楽的な志向性の違いがあったことなどが主要因と言われている）\[14\]。
+  - 仲井戸がセカンドソロアルバム『絵』をリリース。
+  - 『Baby a Go Go』の制作中、ミキサーの[ヘンリー・ハーシュ](https://ja.wikipedia.org/wiki/ヘンリー・ハーシュ "wikilink")、[デイヴィッド・ドマーニッチ](https://ja.wikipedia.org/wiki/デイヴィッド・ドマーニッチ "wikilink")と忌野が、曲によってドラマーを春日博文や外部のドラマーに変えたいという方針を打ち出したことに新井田が猛反発し、RCを脱退する\[15\]。結果、RCは清志郎、仲井戸、小林の3人編成となり、以降、ドラムには春日博文が、キーボードにはVOW WOWの厚見玲衣がそれぞれサポートで参加することになる。
+  - 現時点でのラストオリジナルアルバム『Baby a Go Go』をリリース。ヘンリー・ハーシュら外国人プロデューサーを迎えアナログ制作にこだわって作られたこのアルバムは高い評価を得る。
   - 1990年[12月25日](../Page/12月25日.md "wikilink")、日本武道館でラストライブを開催し、翌年1月に無期限活動休止。
 
 ### その後 〜 現在
@@ -414,7 +413,7 @@ G2</p></td>
   - 『PLEASE』収録の「あきれて物も言えない」は、RCの暗黒期に事務所のスタッフにハッパをかけようとして泉谷しげるが言った「清志郎はもうだめだよ、立ち直れねえよ」という言葉を人づてに歪曲して聞いた忌野が激怒して作った曲。歌詞の「どっかの山師が 俺が死んでるって言ったってさ」の部分を、ライブでは足の不自由な泉谷のことをあからさまに侮蔑する歌詞に替えて歌っていた。\[17\]
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、RC20周年記念で出版された『遊びじゃないんだっ\!（[マガジンハウス](../Page/マガジンハウス.md "wikilink")）』の表紙および帯には、「RCサクセションの40年・上巻」「下巻は2010年の発売です」と書かれていたが、ジョークだったのか下巻は2014年現在も発売されていない。
   - 清志郎のソロアルバム『夢助』に収録された「激しい雨」は、忌野と仲井戸が共作した楽曲。歌詞の中で「RCサクセションが 聴こえる RCサクセションが 流れてる」と歌っている。仲井戸本人によると、[ニール・ヤング](../Page/ニール・ヤング.md "wikilink")がかつて在籍していたバンド [バッファロー・スプリングフィールド](../Page/バッファロー・スプリングフィールド.md "wikilink") について歌う「バッファロー・スプリングフィールド・アゲイン」という曲に感銘を受け、ラジオから『RCサクセションが 聴こえる』という歌詞が、一発で忌野と分かる声で聞こえたら面白いのではないか、というきっかけで歌詞が作られたという。\[18\]
-  - [BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の[氷室京介](../Page/氷室京介.md "wikilink")は、1980年7月5日のRC[野音ライブを観て](../Page/日比谷野外音楽堂.md "wikilink")、バンド結成を思い立ったとインタビューで語っている。
+  - [BOØWY](../Page/BOØWY.md "wikilink")の[氷室京介](../Page/氷室京介.md "wikilink")は、1980年7月5日のRC[野音ライブを観て](../Page/日比谷野外音楽堂.md "wikilink")、バンド結成を思い立ったとインタビューで語っている。
   - その他の詳細エピソードについては、[忌野清志郎](../Page/忌野清志郎.md "wikilink")の頁を参照。
 
 ## ディスコグラフィー
@@ -510,172 +509,44 @@ G2</p></td>
 | 8th                                                        | [2005年](../Page/2005年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")                                   | **[RHAPSODY NAKED](https://ja.wikipedia.org/wiki/RHAPSODY_NAKED "wikilink")**       | 圏外   |
 | 9th                                                        | [2013年](../Page/2013年.md "wikilink")[5月3日](../Page/5月3日.md "wikilink")                                       | **悲しいことばっかり (オフィシャル・ブートレグ)**                                                        | 19位  |
 | なかよしグループ                                                   |                                                                                                              |                                                                                     |      |
-| 10th                                                       | [2016年](../Page/2016年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")（発売延期）                               | **初期のシングル・マン -The Immortal RC SUCCESSION-**                                         | \-   |
+| 10th                                                       | [2016年](../Page/2016年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")                                       | **PLEASE ROCK ME OUT at 日比谷野外音楽堂 1981.5.30/5.31**                                   | \-   |
 
-### ベストアルバム
+#### ベストアルバム
 
-<table>
-<thead>
-<tr class="header">
-<th></th>
-<th><p>発売日</p></th>
-<th><p>タイトル</p></th>
-<th><p>最高順位</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="../Page/ユニバーサルミュージック_(日本).md" title="wikilink">Kitty Records</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1st</p></td>
-<td><p><a href="../Page/1981年.md" title="wikilink">1981年</a><a href="../Page/6月1日.md" title="wikilink">6月1日</a></p></td>
-<td><p><strong><a href="../Page/EPLP.md" title="wikilink">EPLP</a></strong></p></td>
-<td><p>22位</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">東芝EMI</a> / EXPRESS</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2nd</p></td>
-<td><p><a href="../Page/1982年.md" title="wikilink">1982年</a><a href="../Page/3月21日.md" title="wikilink">3月21日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ハードフォーク・サクセション" title="wikilink">ハードフォーク・サクセション</a></strong></p></td>
-<td><p>圏外</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/NEWSレコード.md" title="wikilink">NEWSレコード</a> / SPEED SHOCK</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>3rd</p></td>
-<td><p><a href="../Page/1984年.md" title="wikilink">1984年</a><a href="../Page/7月21日.md" title="wikilink">7月21日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/EPLP-2" title="wikilink">EPLP-2</a></strong></p></td>
-<td><p>圏外</p></td>
-</tr>
-<tr class="odd">
-<td><p>4th</p></td>
-<td><p><a href="../Page/1984年.md" title="wikilink">1984年</a><a href="../Page/12月21日.md" title="wikilink">12月21日</a></p></td>
-<td><p><strong>MIX &amp; MIXER</strong></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>東芝EMI / EASTWORLD</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>5th</p></td>
-<td><p><a href="../Page/1982年.md" title="wikilink">1982年</a><a href="../Page/3月21日.md" title="wikilink">3月21日</a></p></td>
-<td><p><strong>ニュー・ベストナウ</strong></p></td>
-<td><p>圏外</p></td>
-</tr>
-<tr class="even">
-<td><p>6th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1990年" title="wikilink">1990年</a><a href="../Page/11月7日.md" title="wikilink">11月7日</a></p></td>
-<td><p><strong>BEST OF RC SUCCESSION 1970-1980</strong></p></td>
-<td><p>269位</p></td>
-</tr>
-<tr class="odd">
-<td><p>7th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1990年" title="wikilink">1990年</a><a href="../Page/11月14日.md" title="wikilink">11月14日</a></p></td>
-<td><p><strong>BEST OF RC SUCCESSION 1981-1990</strong></p></td>
-<td><p>圏外</p></td>
-</tr>
-<tr class="even">
-<td><p>Kitty Records</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>8th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a><a href="../Page/9月25日.md" title="wikilink">9月25日</a></p></td>
-<td><p><strong>SOULMATES THE RC SUCCESSION '76-'81&amp;'88</strong></p></td>
-<td><p>圏外</p></td>
-</tr>
-<tr class="even">
-<td><p>9th</p></td>
-<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/6月30日.md" title="wikilink">6月30日</a></p></td>
-<td><p><strong>TREASURE COLLECTION</strong></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>キティMME</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>10th</p></td>
-<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="https://ja.wikipedia.org/wiki/12月19日" title="wikilink">12月19日</a></p></td>
-<td><p><strong>スーパー・バリュー</strong></p></td>
-<td><p>圏外</p></td>
-</tr>
-<tr class="odd">
-<td><p>東芝EMI / EASTWORLD</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>11th</p></td>
-<td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/6月19日.md" title="wikilink">6月19日</a></p></td>
-<td><p><strong>ゴールデン☆ベスト</strong></p></td>
-<td><p>圏外</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/ユニバーサルミュージック_(日本).md" title="wikilink">ユニバーサルミュージック</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>12th</p></td>
-<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/2月25日.md" title="wikilink">2月25日</a></p></td>
-<td><p><strong>ゴールデン☆ベスト RCサクセション ユニバーサル・エディション</strong></p></td>
-<td><p>31位</p></td>
-</tr>
-<tr class="odd">
-<td><p>13th</p></td>
-<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/6月1日.md" title="wikilink">6月1日</a></p></td>
-<td><p><strong>Wonderful Days 1970-80</strong></p></td>
-<td><p>60位</p></td>
-</tr>
-<tr class="even">
-<td><p>東芝EMI / EASTWORLD</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>14th</p></td>
-<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/6月1日.md" title="wikilink">6月1日</a></p></td>
-<td><p><strong>Greatful Days 1981-90</strong></p></td>
-<td><p>60位</p></td>
-</tr>
-<tr class="even">
-<td><p>ユニバーサルミュージック</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>15th</p></td>
-<td></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/COMPLETE_EPLP_〜ALL_TIME_SINGLE_COLLECTION〜" title="wikilink">COMPLETE EPLP 〜ALL TIME SINGLE COLLECTION〜</a></strong></p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+|                                                            | 発売日                                                                                           | タイトル                                                                                                                                  | 最高順位 |
+| ---------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| [Kitty Records](../Page/ユニバーサルミュージック_\(日本\).md "wikilink") |                                                                                               |                                                                                                                                       |      |
+| 1st                                                        | [1981年](../Page/1981年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")                        | **[EPLP](../Page/EPLP.md "wikilink")**                                                                                                | 22位  |
+| [東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink") / EXPRESS    |                                                                                               |                                                                                                                                       |      |
+| 2nd                                                        | [1982年](../Page/1982年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")                      | **[ハードフォーク・サクセション](https://ja.wikipedia.org/wiki/ハードフォーク・サクセション "wikilink")**                                                         | 圏外   |
+| [NEWSレコード](../Page/NEWSレコード.md "wikilink") / SPEED SHOCK   |                                                                                               |                                                                                                                                       |      |
+| 3rd                                                        | [1984年](../Page/1984年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")                      | **[EPLP-2](https://ja.wikipedia.org/wiki/EPLP-2 "wikilink")**                                                                         | 圏外   |
+| 4th                                                        | [1984年](../Page/1984年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")                    | **MIX & MIXER**                                                                                                                       |      |
+| 東芝EMI / EASTWORLD                                          |                                                                                               |                                                                                                                                       |      |
+| 5th                                                        | [1982年](../Page/1982年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")                      | **ニュー・ベストナウ**                                                                                                                         | 圏外   |
+| 6th                                                        | [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[11月7日](../Page/11月7日.md "wikilink")   | **BEST OF RC SUCCESSION 1970-1980**                                                                                                   | 269位 |
+| 7th                                                        | [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[11月14日](../Page/11月14日.md "wikilink") | **BEST OF RC SUCCESSION 1981-1990**                                                                                                   | 圏外   |
+| Kitty Records                                              |                                                                                               |                                                                                                                                       |      |
+| 8th                                                        | [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[9月25日](../Page/9月25日.md "wikilink")   | **SOULMATES THE RC SUCCESSION '76-'81&'88**                                                                                           | 圏外   |
+| 9th                                                        | [1999年](../Page/1999年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")                      | **TREASURE COLLECTION**                                                                                                               |      |
+| キティMME                                                     |                                                                                               |                                                                                                                                       |      |
+| 10th                                                       | [2001年](../Page/2001年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink") | **スーパー・バリュー**                                                                                                                         | 圏外   |
+| 東芝EMI / EASTWORLD                                          |                                                                                               |                                                                                                                                       |      |
+| 11th                                                       | [2002年](../Page/2002年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")                      | **ゴールデン☆ベスト**                                                                                                                         | 圏外   |
+| [ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")  |                                                                                               |                                                                                                                                       |      |
+| 12th                                                       | [2004年](../Page/2004年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")                      | **ゴールデン☆ベスト RCサクセション ユニバーサル・エディション**                                                                                                  | 31位  |
+| 13th                                                       | [2005年](../Page/2005年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")                        | **Wonderful Days 1970-80**                                                                                                            | 60位  |
+| 東芝EMI / EASTWORLD                                          |                                                                                               |                                                                                                                                       |      |
+| 14th                                                       | [2005年](../Page/2005年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")                        | **Greatful Days 1981-90**                                                                                                             | 60位  |
+| ユニバーサルミュージック                                               |                                                                                               |                                                                                                                                       |      |
+| 15th                                                       | [2020年](../Page/2020年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")                        | **[COMPLETE EPLP 〜ALL TIME SINGLE COLLECTION〜](https://ja.wikipedia.org/wiki/COMPLETE_EPLP_〜ALL_TIME_SINGLE_COLLECTION〜 "wikilink")** |      |
+
+#### 未発表音源集
+
+|          | 発売日                                                                            | タイトル                                        | 最高順位 |
+| -------- | ------------------------------------------------------------------------------ | ------------------------------------------- | ---- |
+| なかよしグループ |                                                                                |                                             |      |
+| 1st      | [2016年](../Page/2016年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")（発売延期） | **初期のシングル・マン -The Immortal RC SUCCESSION-** | \-   |
 
 ### ビデオ・DVD
 
@@ -822,14 +693,18 @@ RCサクセションとしての出演番組を記載。個人としての出演
 
 ほか
 
+## 関連項目
+
+  - [1970年の音楽\#デビュー](https://ja.wikipedia.org/wiki/1970年の音楽#デビュー "wikilink") - 同じ年にデビューした歌手
+
 ## 外部リンク
 
-  - [忌野清志郎公式ウェブサイト「地味変」](http://www.kiyoshiro.co.jp/)
+  - [忌野清志郎公式ウェブサイト「地味変」](https://www.kiyoshiro.co.jp/)
   - [仲井戸麗市公式ウェブサイト「Chabo Web Book」](http://www.up-down.com/020chabo/index0.html)
   - [新井田耕造公式ウェブサイト「新井田耕造オフィシャルホームページ」](http://www.niidakozo.net/)
   - [RCサクセション - Universal Music Japanアーティストページ](https://www.universal-music.co.jp/rc-succession/)
 
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:過去のホリプロ所属者](https://ja.wikipedia.org/wiki/Category:過去のホリプロ所属者 "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:忌野清志郎](https://ja.wikipedia.org/wiki/Category:忌野清志郎 "wikilink") [Category:1969年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1969年に結成した音楽グループ "wikilink") [Category:1991年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1991年に解散した音楽グループ "wikilink")
+[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:過去のホリプロ所属者](https://ja.wikipedia.org/wiki/Category:過去のホリプロ所属者 "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:忌野清志郎](https://ja.wikipedia.org/wiki/Category:忌野清志郎 "wikilink") [Category:1968年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1968年に結成した音楽グループ "wikilink") [Category:1991年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1991年に解散した音楽グループ "wikilink")
 
 1.  [忌野清志郎の公式HP「地味変」のUNIT紹介の項目](http://www.kiyoshiro.co.jp/unit/unit/main22.html)には、(1)清志郎、林小、破廉(1968〜1977) (2)忌野、林小、仲井戸、新井田、小川(1977〜1979) (3)忌野、小林、仲井戸、新井田、Gee2wo(1980〜1989) (4)忌野、仲井戸、小林、春日、厚見(1989〜1990) 以上4つの形態が「RCサクセション」として紹介されている。
 2.  『GOTTA\! 忌野清志郎』中、清志郎談

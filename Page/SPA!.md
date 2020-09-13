@@ -35,39 +35,50 @@
 
 ## 連載企画
 
-  - ニュースコンビニエンス
-  - ニュースバカ一代（[勝谷誠彦](../Page/勝谷誠彦.md "wikilink")）
-  - [みうらじゅん](../Page/みうらじゅん.md "wikilink")×リリー・フランキーのグラビアン魂
-  - エッジな人々
-  - 東京ペログリ日記リターンズ（[田中康夫](../Page/田中康夫.md "wikilink")）
-  - バカはサイレンで泣く（読者投稿企画）
-  - デジペディア
-  - [おちまさと](../Page/おちまさと.md "wikilink")プロデュース「社長の腹」
-  - 寝言サイズの断末魔（[松尾スズキ](../Page/松尾スズキ.md "wikilink")）
-  - うああ心理学入悶（[須賀原洋行](../Page/須賀原洋行.md "wikilink")の漫画）
-  - 中華人民毒報
-  - どるばこ（美女タレント発掘&応援プロジェクト）
-  - [タイツくん](../Page/タイツくん.md "wikilink")大人のたしなみ通信講座
-  - [江川達也](../Page/江川達也.md "wikilink")の時事漫画 にあいこ≒るリアル
-  - ネット炎上観察記（[ひろゆき](https://ja.wikipedia.org/wiki/ひろゆき "wikilink")）
+### 漫画
+
+  - [ゴーマニズム宣言](../Page/ゴーマニズム宣言.md "wikilink")（[小林よしのり](../Page/小林よしのり.md "wikilink")、1992年1月22日号～1995年8月9日号、2018年4月10・17日合併号～\[6\]）
+  - 少年イン・ザ・フッド（Ghette Hollywood）
+  - 月夜のグルメ (原案・舞城王太郎　漫画・奥西チエ)
+  - 全員くたばれ！大学生（サレンダー橋本）
+  - ぼっちぼち村（[市橋俊介](https://ja.wikipedia.org/wiki/市橋俊介 "wikilink")）
+  - AV女優ちゃん（[峰なゆか](../Page/峰なゆか.md "wikilink")）
   - [できるかな](https://ja.wikipedia.org/wiki/できるかな_\(漫画\) "wikilink")（[西原理恵子](../Page/西原理恵子.md "wikilink")の漫画。不定期連載）
-  - [アラサーちゃん](https://ja.wikipedia.org/wiki/アラサーちゃん "wikilink")（[峰なゆか](../Page/峰なゆか.md "wikilink")）
-  - ぼっち村（[市橋俊介](https://ja.wikipedia.org/wiki/市橋俊介 "wikilink")）
-  - ドンキホーテのピアス（[鴻上尚史](../Page/鴻上尚史.md "wikilink")のコラム
-  - 今週の顔（グラビア＋インタビュー）
+
+### グラビア
+
+  - [みうらじゅん](../Page/みうらじゅん.md "wikilink")×リリー・フランキーのグラビアン魂
+  - 美女地図
+  - [ずぶ濡れSKE48](../Page/ずぶ濡れSKE48.md "wikilink")(SKE48メンバーの1人グラビア）
+  - マジロケ！（月１連載・[マジカル・パンチライン](https://ja.wikipedia.org/wiki/マジカル・パンチライン "wikilink")のメンバーの１人グラビア）
+
+### コラム
+
+  - ８cmヒールで踏みつけたい（鈴木涼美）
+  - ドン・キホーテのピアス（[鴻上尚史](../Page/鴻上尚史.md "wikilink")）
+  - 働きアリに花束を（爪切男）
   - [猫組長](https://ja.wikipedia.org/wiki/猫組長 "wikilink")と西原理恵子の「ネコノミクス宣言」
   - 東京スナイパー（大根仁）
-  - [ゴハンスキー](https://ja.wikipedia.org/wiki/ゴハンスキー "wikilink")（[清野とおる](../Page/清野とおる.md "wikilink")）
-  - 美女地図（グラビア）
-  - [ロマンス暴風域](https://ja.wikipedia.org/wiki/ロマンス暴風域 "wikilink")（[鳥飼茜](https://ja.wikipedia.org/wiki/鳥飼茜 "wikilink")、2016年10月25日号～）
-  - [ゴーマニズム宣言](../Page/ゴーマニズム宣言.md "wikilink")（[小林よしのり](../Page/小林よしのり.md "wikilink")、1992年1月22日号～1995年8月9日号、2018年4月10・17日合併号～\[6\]）
-  - 他人円満（[犬山紙子](https://ja.wikipedia.org/wiki/犬山紙子 "wikilink")）
-  - 湯遊白書（[まんしゅうきつこ](https://ja.wikipedia.org/wiki/まんしゅうきつこ "wikilink")）
+  - すべて忘れてしまうから（燃え殻）
+  - ヘビーユース108（MB）
+  - 僕が親ならこうするね（[ひろゆき](https://ja.wikipedia.org/wiki/ひろゆき "wikilink")）
+  - 誰も知らなかったゴルフの真実（三觜喜一）
+  - インテリジェンス人生相談（佐藤優）
 
-<!-- end list -->
+### レギュラー
 
-  -
-    ほか
+  - 今週の顔（グラビア＋インタビュー）
+  - 言論ストロングスタイル(倉山満)
+  - コロナと五輪と不動産
+  - 週刊・匿名記者座談会
+  - 大J林（千原ジュニア）
+  - バカはサイレンで泣く（読者投稿企画）
+  - S級グルメ
+  - 俺の夜
+  - SPA\! AUTO CLUB
+  - エッジな人々
+
+(2020年6月現在）
 
 ## 過去の連載企画
 
@@ -89,6 +100,25 @@
   - 激裏クリニック
   - [ビッグダディのさすらい乱取り](https://ja.wikipedia.org/wiki/林下清志 "wikilink")
   - 『負け美女』のオトコ観察絵日記 痛男(イタメン)\!（犬山紙子）
+  - 東京ペログリ日記リターンズ（[田中康夫](../Page/田中康夫.md "wikilink")）
+  - デジペディア
+  - [おちまさと](../Page/おちまさと.md "wikilink")プロデュース「社長の腹」
+  - 寝言サイズの断末魔（[松尾スズキ](../Page/松尾スズキ.md "wikilink")）
+  - うああ心理学入悶（[須賀原洋行](../Page/須賀原洋行.md "wikilink")の漫画）
+  - 中華人民毒報
+  - どるばこ（美女タレント発掘&応援プロジェクト）
+  - [タイツくん](../Page/タイツくん.md "wikilink")大人のたしなみ通信講座
+  - [江川達也](../Page/江川達也.md "wikilink")の時事漫画 にあいこ≒るリアル
+  - [ゴハンスキー](https://ja.wikipedia.org/wiki/ゴハンスキー "wikilink")（[清野とおる](../Page/清野とおる.md "wikilink")）
+  - [ロマンス暴風域](https://ja.wikipedia.org/wiki/ロマンス暴風域 "wikilink")（[鳥飼茜](https://ja.wikipedia.org/wiki/鳥飼茜 "wikilink")、2016年10月25日号～）
+  - 他人円満（[犬山紙子](https://ja.wikipedia.org/wiki/犬山紙子 "wikilink")）
+  - 湯遊白書（[まんしゅうきつこ](https://ja.wikipedia.org/wiki/まんしゅうきつこ "wikilink")）
+  - ぼっち村（市橋俊介）
+  - [アラサーちゃん](https://ja.wikipedia.org/wiki/アラサーちゃん "wikilink")（峰なゆか）
+  - ネット炎上観察記（ひろゆき）
+  - ニュースバカ一代（[勝谷誠彦](../Page/勝谷誠彦.md "wikilink")）
+  - ニュースコンビニエンス
+  - [SKE48のふたり遊び](https://ja.wikipedia.org/wiki/SKE48のふたり遊び "wikilink")
 
 <!-- end list -->
 
@@ -113,7 +143,7 @@
 
 ## 関連項目
 
-  - [つる師一彦](../Page/つる師一彦.md "wikilink")
+  - [ツルシカズヒコ](../Page/ツルシカズヒコ.md "wikilink")
   - [諏訪地方連続放火事件](https://ja.wikipedia.org/wiki/諏訪地方連続放火事件 "wikilink")（容疑者の女の水着姿を写した写真が掲載された）
   - [蛙男商会](https://ja.wikipedia.org/wiki/蛙男商会 "wikilink")
   - [小林よしのり](../Page/小林よしのり.md "wikilink")

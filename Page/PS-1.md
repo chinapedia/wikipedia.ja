@@ -140,4 +140,4 @@ PS-1は事故により6機と37名の搭乗員を失った。
 
   - [新明和工業](http://www.shinmaywa.co.jp/) - [飛行艇開発ストーリー](http://www.shinmaywa.co.jp/aircraft/us2/us2_history.html)
 
-[Category:飛行艇](https://ja.wikipedia.org/wiki/Category:飛行艇 "wikilink") [Category:対潜哨戒機](https://ja.wikipedia.org/wiki/Category:対潜哨戒機 "wikilink") [Category:日本の軍用機](https://ja.wikipedia.org/wiki/Category:日本の軍用機 "wikilink") [Category:海上自衛隊の装備品](https://ja.wikipedia.org/wiki/Category:海上自衛隊の装備品 "wikilink") [Category:新明和の航空機](https://ja.wikipedia.org/wiki/Category:新明和の航空機 "wikilink")
+[Category:日本の飛行艇](https://ja.wikipedia.org/wiki/Category:日本の飛行艇 "wikilink") [Category:対潜哨戒機](https://ja.wikipedia.org/wiki/Category:対潜哨戒機 "wikilink") [Category:日本の軍用機](https://ja.wikipedia.org/wiki/Category:日本の軍用機 "wikilink") [Category:海上自衛隊の装備品](https://ja.wikipedia.org/wiki/Category:海上自衛隊の装備品 "wikilink") [Category:新明和の航空機](https://ja.wikipedia.org/wiki/Category:新明和の航空機 "wikilink")

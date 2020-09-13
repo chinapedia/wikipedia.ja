@@ -39,9 +39,11 @@
 
 [2018年](../Page/2018年.md "wikilink")、全国ツアー「1/4802のすべて～ひとつかみの無限大～」を敢行。最終日の北海道公演では[HTB系スポーツ番組](../Page/北海道テレビ放送.md "wikilink")「[FFFFF](../Page/FFFFF.md "wikilink")」のテーマソング「シナリオ」を発表。6月からの4ヵ月連続配信シングルの第1弾としてリリースされた。同配信シングルは第2弾「The gardenー五稜星の夏ー」（[サッポロビール](../Page/サッポロビール.md "wikilink") THEサッポロビヤガーデンテーマソング）、第3弾「apricot」、第4弾「かなでるまんま」（「渋谷ズンチャカ」テーマソング）と続いている。
 
-同年9月、メジャーレーベル[アイビーレコード](https://ja.wikipedia.org/wiki/アイビーレコード "wikilink")への移籍を発表。同時に[2019年](../Page/2019年.md "wikilink")1月にニューアルバム「THETA-never ending fantasy」を[コロムビア・マーケティング](https://ja.wikipedia.org/wiki/コロムビア・マーケティング "wikilink")と共同でリリースすることがアナウンスされた。
+同年9月、メジャーレーベル[アイビーレコード](https://ja.wikipedia.org/wiki/アイビーレコード "wikilink")への移籍を発表。同時に[2019年](../Page/2019年.md "wikilink")1月に8枚目のフルアルバム「THETA-never ending fantasy」を[コロムビア・マーケティング](https://ja.wikipedia.org/wiki/コロムビア・マーケティング "wikilink")と共同でリリース。
 
 2019年1月16日、ギターの川村が脱退を発表した。
+
+2020年1月29日、9枚目のフルアルバム「unanimous」をリリース。
 
 ## 特徴
 

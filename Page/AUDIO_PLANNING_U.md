@@ -23,7 +23,7 @@
 
 ### 音響監督
 
-  - [大熊昭](../Page/大熊昭.md "wikilink")（元取締役、東京スタジオセンター出身）
+  - [大熊昭](../Page/大熊昭.md "wikilink")（元取締役、東京スタジオセンター出身、テレビアニメドラえもん）
   - 田中章喜（ミキサー兼任）
   - [山田知明](https://ja.wikipedia.org/wiki/山田知明 "wikilink")（フリー、ライズスピリット）
   - 浦上靖之
@@ -35,6 +35,7 @@
   - 田口信孝
   - 小沼則義
   - 渡辺翔太
+  - 原田純次
 
 ### 音響制作デスク
 
@@ -65,7 +66,7 @@
 
 ### シンエイ動画
 
-  - [ドラえもん](../Page/ドラえもん_\(1979年のテレビアニメ\).md "wikilink")
+  - [ドラえもん](../Page/ドラえもん_\(1979年のテレビアニメ\).md "wikilink")(1979年から2005年まで)
   - [クレヨンしんちゃん](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_\(アニメ\) "wikilink")
   - [ゲームセンターあらし](../Page/ゲームセンターあらし.md "wikilink")
   - [あたしンち](../Page/あたしンち.md "wikilink")
@@ -74,7 +75,7 @@
   - [エスパー魔美](../Page/エスパー魔美.md "wikilink")
   - [ウルトラB](../Page/ウルトラB.md "wikilink")
   - [つるピカハゲ丸](../Page/つるピカハゲ丸.md "wikilink")くん
-  - [新プロゴルファー猿](https://ja.wikipedia.org/wiki/新プロゴルファー猿 "wikilink")
+  - [新プロゴルファー猿](../Page/プロゴルファー猿.md "wikilink")
   - [ビリ犬](../Page/ビリ犬.md "wikilink")
   - [美味しんぼ](../Page/美味しんぼ.md "wikilink")
   - [おぼっちゃまくん](../Page/おぼっちゃまくん.md "wikilink")

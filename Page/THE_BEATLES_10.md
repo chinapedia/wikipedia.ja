@@ -169,7 +169,7 @@
 
 ## ネット局
 
-2020年1月現在。放送時間の早い順から記載。
+2020年7月現在。放送時間の早い順から記載。
 
 | 放送対象地域                                                | 放送局名                                                             | 放送時間               | 放送基準    |
 | ----------------------------------------------------- | ---------------------------------------------------------------- | ------------------ | ------- |
@@ -180,12 +180,9 @@
 | [福井県](../Page/福井県.md "wikilink")                      | [福井放送](../Page/福井放送.md "wikilink")（FBC）                          | 毎週日曜 10:00 - 11:00 | 13時間先行  |
 | [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")   | [北日本放送](../Page/北日本放送.md "wikilink")（KNB）                        | 毎週日曜 16:00 - 17:00 | 7時間先行   |
 | [岐阜県](../Page/岐阜県.md "wikilink")                      | [岐阜放送](https://ja.wikipedia.org/wiki/ぎふチャンラジオ "wikilink")（ぎふチャン） | 毎週日曜 19:00 - 20:00 | 同時ネット   |
-| [新潟県](../Page/新潟県.md "wikilink")                      | [新潟県民エフエム放送](../Page/新潟県民エフエム放送.md "wikilink")（FM PORT）          | 毎週日曜 23:00 - 24:00 | 4時間遅れ   |
-| [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")   | [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（RKK）       | 毎週月曜 22:00 - 23:00 | 1日遅れ    |
+| [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")   | [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（RKK）       | 毎週月曜 22:00 - 23:00 | 27時間遅れ  |
 
 ## 脚注
-
-<references />
 
 ## 外部リンク
 

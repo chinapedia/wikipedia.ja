@@ -168,7 +168,7 @@
 
   - [シロキFCリベルタ・チーム情報](http://www.jfa-teams.jp/teamInfoDetail/?id=709&area_cd=05&bg_mix=hokushinetsu)
 
-[Category:現在活動していない日本のサッカークラブ](https://ja.wikipedia.org/wiki/Category:現在活動していない日本のサッカークラブ "wikilink") [Category:日本の女子サッカークラブ](https://ja.wikipedia.org/wiki/Category:日本の女子サッカークラブ "wikilink") [Category:現在活動していない愛知県のスポーツチーム](https://ja.wikipedia.org/wiki/Category:現在活動していない愛知県のスポーツチーム "wikilink") [Category:豊川市の歴史](https://ja.wikipedia.org/wiki/Category:豊川市の歴史 "wikilink") [Category:1991年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1991年設立のスポーツチーム "wikilink") [Category:1998年廃止のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1998年廃止のスポーツチーム "wikilink")
+[Category:現在活動していない日本のサッカークラブ](https://ja.wikipedia.org/wiki/Category:現在活動していない日本のサッカークラブ "wikilink") [Category:日本の女子サッカークラブ](https://ja.wikipedia.org/wiki/Category:日本の女子サッカークラブ "wikilink") [Category:現在活動していない愛知県のスポーツチーム](https://ja.wikipedia.org/wiki/Category:現在活動していない愛知県のスポーツチーム "wikilink") [Category:豊川市の歴史](https://ja.wikipedia.org/wiki/Category:豊川市の歴史 "wikilink") [Category:1991年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1991年設立のスポーツチーム "wikilink") [Category:1998年廃止のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1998年廃止のスポーツチーム "wikilink") [Category:東急グループの歴史](https://ja.wikipedia.org/wiki/Category:東急グループの歴史 "wikilink")
 
 1.
 2.

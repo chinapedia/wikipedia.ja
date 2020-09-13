@@ -82,7 +82,7 @@
 
   - [ジェイド・ノース](https://ja.wikipedia.org/wiki/ジェイド・ノース "wikilink") 2009
 
-  - [薛琦鉉](../Page/薛ギ鉉.md "wikilink") 2012-2014
+  - [薛琦鉉](../Page/薛琦鉉.md "wikilink") 2012-2014
 
   - [和田倫季](https://ja.wikipedia.org/wiki/和田倫季 "wikilink") 2015
 

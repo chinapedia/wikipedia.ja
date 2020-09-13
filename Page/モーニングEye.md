@@ -44,7 +44,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/1985年" title="wikilink">1985年</a><a href="../Page/3月29日.md" title="wikilink">3月29日</a></p></td>
 <td><p>月曜 - 金曜 8:30 - 9:55（85分）</p></td>
 <td><p><strong>森本ワイド モーニングEye</strong></p></td>
-<td><p><a href="../Page/森本毅郎.md" title="wikilink">森本毅郎</a><sup>1</sup></p></td>
+<td><p><a href="../Page/森本毅郎.md" title="wikilink">森本毅郎</a><sup>12</sup></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1985年" title="wikilink">1985年</a><a href="../Page/4月1日.md" title="wikilink">4月1日</a></p></td>
@@ -56,7 +56,7 @@
 <tr class="odd">
 <td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/3月31日.md" title="wikilink">3月31日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1987年" title="wikilink">1987年</a><a href="../Page/9月25日.md" title="wikilink">9月25日</a></p></td>
-<td><p><a href="../Page/絵門ゆう子.md" title="wikilink">池田裕子</a></p></td>
+<td><p><a href="../Page/絵門ゆう子.md" title="wikilink">池田裕子</a><sup>2</sup></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -71,20 +71,20 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/1987年" title="wikilink">1987年</a><a href="../Page/10月5日.md" title="wikilink">10月5日</a></p></td>
 <td><p><a href="../Page/1991年.md" title="wikilink">1991年</a><a href="../Page/3月29日.md" title="wikilink">3月29日</a></p></td>
 <td><p><strong>モーニングEye</strong></p></td>
-<td><p><a href="../Page/山本文郎.md" title="wikilink">山本文郎</a></p></td>
-<td><p><a href="../Page/長峰由紀.md" title="wikilink">長峰由紀</a></p></td>
+<td><p><a href="../Page/山本文郎.md" title="wikilink">山本文郎</a><sup>2</sup></p></td>
+<td><p><a href="../Page/長峰由紀.md" title="wikilink">長峰由紀</a><sup>2</sup></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1991年.md" title="wikilink">1991年</a><a href="../Page/4月1日.md" title="wikilink">4月1日</a></p></td>
 <td><p><a href="../Page/1992年.md" title="wikilink">1992年</a><a href="../Page/10月2日.md" title="wikilink">10月2日</a></p></td>
-<td><p><a href="../Page/渡辺真理.md" title="wikilink">渡辺真理</a></p></td>
+<td><p><a href="../Page/渡辺真理.md" title="wikilink">渡辺真理</a><sup>2</sup></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1992年.md" title="wikilink">1992年</a><a href="../Page/10月5日.md" title="wikilink">10月5日</a></p></td>
 <td><p><a href="../Page/1996年.md" title="wikilink">1996年</a><a href="https://ja.wikipedia.org/wiki/9月27日" title="wikilink">9月27日</a></p></td>
-<td><p>月曜 - 金曜 8:30 - 10:20（110分）<sup>2</sup></p></td>
+<td><p>月曜 - 金曜 8:30 - 10:20（110分）<sup>3</sup></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -92,7 +92,8 @@
 <td><p><small></p>
 <ul>
 <li><sup>1</sup> 『<a href="../Page/森本毅郎さわやかワイド.md" title="wikilink">森本毅郎さわやかワイド</a>』から続投。</li>
-<li><sup>2</sup> 一部地域は9:55で飛び降り</li>
+<li><sup>2</sup>出演時TBSアナウンサー（森本、池田は<a href="../Page/局契約.md" title="wikilink">局契約</a>）</li>
+<li><sup>3</sup> 一部地域は9:55で飛び降り</li>
 </ul>
 <p></small></p></td>
 <td></td>

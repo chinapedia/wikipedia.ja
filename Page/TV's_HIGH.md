@@ -34,7 +34,7 @@
 ### 特別出演
 
   - [中谷美紀](https://ja.wikipedia.org/wiki/中谷美紀 "wikilink")（第1回、声のみ）
-  - [ト阿玉](https://ja.wikipedia.org/wiki/ト阿玉 "wikilink")（第1回）
+  - [涂阿玉](https://ja.wikipedia.org/wiki/涂阿玉 "wikilink")（第1回）
   - [水野晴男](https://ja.wikipedia.org/wiki/水野晴男 "wikilink")（第5回）
   - [村山富市](../Page/村山富市.md "wikilink")（第5回）
   - [石田ひかり](../Page/石田ひかり.md "wikilink")（第11回～第13回）

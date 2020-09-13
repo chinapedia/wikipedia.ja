@@ -5,8 +5,8 @@
 
 ## メンバー
 
-  - **深沢 邦之**（**ふかさわ くにゆき** [1966年](../Page/1966年.md "wikilink")[9月15日](../Page/9月15日.md "wikilink")-）- ツッコミ担当。[東京都](../Page/東京都.md "wikilink")[練馬区](https://ja.wikipedia.org/wiki/練馬区 "wikilink")出身、[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。妻は女優の[田中美佐子](../Page/田中美佐子.md "wikilink")。一児の父。
-  - **東 貴博**（**あずま たかひろ** 本名：飛田 貴博（ひだ たかひろ）[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[12月31日](../Page/12月31日.md "wikilink")-） - ボケ担当。[東京都](../Page/東京都.md "wikilink")[台東区](../Page/台東区.md "wikilink")[浅草](../Page/浅草.md "wikilink")出身、[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。妻は[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")の[安めぐみ](https://ja.wikipedia.org/wiki/安めぐみ "wikilink")。父はコメディアンの[東八郎](../Page/東八郎.md "wikilink")。
+  - **深沢 邦之**（**ふかさわ くにゆき** [1966年](../Page/1966年.md "wikilink")[9月15日](../Page/9月15日.md "wikilink")-）- ツッコミ担当。[東京都](../Page/東京都.md "wikilink")[練馬区](https://ja.wikipedia.org/wiki/練馬区 "wikilink")出身、[A型](../Page/ABO式血液型.md "wikilink")。妻は女優の[田中美佐子](../Page/田中美佐子.md "wikilink")。一児の父。
+  - **東 貴博**（**あずま たかひろ** 本名：飛田 貴博（ひだ たかひろ）[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[12月31日](../Page/12月31日.md "wikilink")-） - ボケ担当。[東京都](../Page/東京都.md "wikilink")[台東区](../Page/台東区.md "wikilink")[浅草](../Page/浅草.md "wikilink")出身、[O型](../Page/ABO式血液型.md "wikilink")。妻は[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")の[安めぐみ](https://ja.wikipedia.org/wiki/安めぐみ "wikilink")。父はコメディアンの[東八郎](../Page/東八郎.md "wikilink")。
 
 ## 来歴
 
@@ -68,7 +68,7 @@
 #### ラジオ番組
 
   - [フライデーズキングTake2](https://ja.wikipedia.org/wiki/フライデーズキングTake2 "wikilink")（[TOKYO FM](../Page/エフエム東京.md "wikilink")）
-  - [Take2のバトルナイト](https://ja.wikipedia.org/wiki/Take2のバトルナイト "wikilink")、[木曜UP'S](https://ja.wikipedia.org/wiki/UP'S～Ultra_Performer'S_radio～ "wikilink") Take2のバットルナイト（[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")）
+  - [Take2のバトルナイト](https://ja.wikipedia.org/wiki/Take2のバトルナイト "wikilink")、[木曜UP'S](https://ja.wikipedia.org/wiki/UP'S～Ultra_Performer'S_radio～ "wikilink") Take2のバットルナイト（[TBSラジオ](../Page/TBSラジオ.md "wikilink")）
   - [ライオン レ・レ・レのレ](../Page/ライオン_レ・レ・レのレ.md "wikilink")（[文化放送](../Page/文化放送.md "wikilink")）
 
 単独での出演は深沢、東それぞれの項目を参照。

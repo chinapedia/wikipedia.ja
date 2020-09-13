@@ -19,7 +19,7 @@
 
 立命館大学でも軽音楽部に所属し「A.O.D」というバンドを結成、ベースを務めた。しかしあまり刺激を感じず、他のサークル活動を見学していたところ、立命館[プロレス](../Page/プロレス.md "wikilink")同好会（RWF）のメンバーに魅かれるものがあり、入部した。[学生プロレス](../Page/学生プロレス.md "wikilink")中心の生活となる中で、[同志社大学](../Page/同志社大学.md "wikilink")の住谷正樹（後の[レイザーラモンHG](../Page/レイザーラモンHG.md "wikilink")）と出会う。また、「[ガロ](../Page/ガロ_\(雑誌\).md "wikilink")」「[COMIC CUE](https://ja.wikipedia.org/wiki/COMIC_CUE "wikilink")」といったサブカルチャー系の漫画にものめり込み、自ら漫画を描いて出版社に持ち込むまでにもなった。一方で学業にも真面目に取り組み、3回生の頃には就職の内定を決めていた\[10\]。
 
-立命館在学中の[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")10月に、住谷とお笑いコンビ「**[レイザーラモン](../Page/レイザーラモン.md "wikilink")**」を結成。当時、大阪で[心斎橋筋2丁目劇場](../Page/心斎橋筋2丁目劇場.md "wikilink")が人気となっていたため、卒業記念に2丁目劇場のオーディションライブ「SABIKI」を受けてみたところ合格し、同劇場へ出演するようになる。さらに、その勢いで参加した「[今宮子供えびすマンザイ新人コンクール](../Page/今宮子供えびすマンザイ新人コンクール.md "wikilink")」では福笑い大賞を受賞した。卒業後はカーディーラー（[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の販売店）に就職し、営業職などを務めつつお笑いも続けていたが、仕事になじめず3ヵ月ほどで退職し、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")に入社。アルバイトを掛け持ちしつつ、本格的にお笑い芸人としての活動を始める\[11\]。
+立命館在学中の[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")10月に、住谷とお笑いコンビ「**[レイザーラモン](../Page/レイザーラモン.md "wikilink")**」を結成。当時、大阪で[心斎橋筋2丁目劇場](../Page/心斎橋筋2丁目劇場.md "wikilink")が人気となっていたため、卒業記念に2丁目劇場のオーディションライブ「SABIKI」を受けてみたところ合格し、同劇場へ出演するようになる。さらに、その勢いで参加した「[今宮子供えびすマンザイ新人コンクール](../Page/今宮子供えびすマンザイ新人コンクール.md "wikilink")」では福笑い大賞を受賞した。卒業後はカーディーラー（[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の販売店）に就職し、営業職などを務めつつお笑いも続けていたが、仕事になじめず3ヵ月ほどで退職し、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")に所属。アルバイトを掛け持ちしつつ、本格的にお笑い芸人としての活動を始める\[11\]。
 
 [1999年](../Page/1999年.md "wikilink")、[バッファロー吾郎](../Page/バッファロー吾郎.md "wikilink")プロデュースの「爆笑新ネタ逆転満塁ホームラン寄席」に初出演。同年10月、初のレギュラー番組となる毎日放送『[クヮンガクッ](../Page/クヮンガクッ.md "wikilink")』がスタート（翌3月までレギュラー）。[2000年](../Page/2000年.md "wikilink")、「[ABCお笑い新人グランプリ](../Page/ABCお笑い新人グランプリ.md "wikilink")」で審査員特別賞を受賞。
 
@@ -91,7 +91,7 @@
 
 ### 物真似
 
-  - マニアックな物真似（主に[形態模写](https://ja.wikipedia.org/wiki/形態模写 "wikilink")）を得意としている。レパートリーは[蛭子能収](../Page/蛭子能収.md "wikilink")、[デーブ・スペクター](../Page/デーブ・スペクター.md "wikilink")、[KONTA](../Page/KONTA.md "wikilink")、[中島らも](../Page/中島らも.md "wikilink")、[セルジオ越後](../Page/セルジオ越後.md "wikilink")、[カルロス・トシキ](../Page/カルロス・トシキ.md "wikilink")、[ケンタロウ](../Page/ケンタロウ.md "wikilink")、[スティーブ・ジョブズ](../Page/スティーブ・ジョブズ.md "wikilink")、[落合博満](../Page/落合博満.md "wikilink")、[布袋寅泰](../Page/布袋寅泰.md "wikilink")、[杉山清貴](../Page/杉山清貴.md "wikilink")、[佐野元春](../Page/佐野元春.md "wikilink")、[前田日明](https://ja.wikipedia.org/wiki/前田日明 "wikilink")、[天龍源一郎](../Page/天龍源一郎.md "wikilink")、[高橋ジョージ](https://ja.wikipedia.org/wiki/高橋ジョージ "wikilink")、[GAO](../Page/GAO_\(歌手\).md "wikilink")、[三遊亭好楽](../Page/三遊亭好楽.md "wikilink")、[羽田圭介](../Page/羽田圭介.md "wikilink")、[ゲッターズ飯田](https://ja.wikipedia.org/wiki/ゲッターズ飯田 "wikilink")、[細川たかし](../Page/細川たかし.md "wikilink")、[ドナルド・トランプ](https://ja.wikipedia.org/wiki/ドナルド・トランプ "wikilink")、[リーチマイケル](https://ja.wikipedia.org/wiki/リーチマイケル "wikilink")、[今昔庵のマスターなど](https://ja.wikipedia.org/wiki/東京メディアシティ#今昔庵 "wikilink")。
+  - マニアックな物真似（主に[形態模写](https://ja.wikipedia.org/wiki/形態模写 "wikilink")）を得意としている。レパートリーは[蛭子能収](../Page/蛭子能収.md "wikilink")、[デーブ・スペクター](../Page/デーブ・スペクター.md "wikilink")、[KONTA](../Page/KONTA.md "wikilink")、[中島らも](../Page/中島らも.md "wikilink")、[セルジオ越後](../Page/セルジオ越後.md "wikilink")、[カルロス・トシキ](../Page/カルロス・トシキ.md "wikilink")、[ケンタロウ](../Page/ケンタロウ.md "wikilink")、[スティーブ・ジョブズ](../Page/スティーブ・ジョブズ.md "wikilink")、[落合博満](../Page/落合博満.md "wikilink")、[布袋寅泰](../Page/布袋寅泰.md "wikilink")、[杉山清貴](../Page/杉山清貴.md "wikilink")、[佐野元春](../Page/佐野元春.md "wikilink")、[前田日明](https://ja.wikipedia.org/wiki/前田日明 "wikilink")、[天龍源一郎](../Page/天龍源一郎.md "wikilink")、[高橋ジョージ](https://ja.wikipedia.org/wiki/高橋ジョージ "wikilink")、[GAO](../Page/GAO_\(歌手\).md "wikilink")、[三遊亭好楽](../Page/三遊亭好楽.md "wikilink")、[羽田圭介](../Page/羽田圭介.md "wikilink")、[ゲッターズ飯田](https://ja.wikipedia.org/wiki/ゲッターズ飯田 "wikilink")、[細川たかし](../Page/細川たかし.md "wikilink")、[ドナルド・トランプ](https://ja.wikipedia.org/wiki/ドナルド・トランプ "wikilink")、[リーチマイケル](https://ja.wikipedia.org/wiki/リーチマイケル "wikilink")、[市川猿之助](../Page/市川猿之助_\(4代目\).md "wikilink")、[今昔庵のマスターなど](https://ja.wikipedia.org/wiki/東京メディアシティ#今昔庵 "wikilink")。
   - RGは物真似について、「物真似の技術は本職でやってらっしゃる方には到底かなわない」と自覚した上で、「誰もやっていない時に『そこを攻めるか』という“早さ”と“センサー”」のネタ選びで勝負していると語っている\[27\]。
   - 『R-1ぐらんぷり』でも物真似ネタを演じており、2014年はスティーブ・ジョブズ、2017年はドナルド・トランプに扮してネタを披露した。
   - 芸能リポーターの[井上公造](../Page/井上公造.md "wikilink")の物真似をしたことが縁で、井上が出演している[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[ザ\!情報ツウ](../Page/ザ!情報ツウ.md "wikilink")』でRGがピックアップされ、逆に井上が『[新喜劇フー\!\!](../Page/新喜劇フー!!.md "wikilink")』に友情出演をすることにもなった。
@@ -114,6 +114,7 @@
 
   - 一歳下の妹がいるが、高校時代は彼女のほうが何倍も面白い人物だったという。
   - 妻は4歳年下\[37\]で、熊本市の出身\[38\]。熊本県には親戚が多数いる\[39\]。
+  - 長男の「武丸(たけまる)」という名は[くっきー\!](../Page/くっきー!.md "wikilink")が名付けた。
   - [2009年](../Page/2009年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")、NHK教育テレビの『[おかあさんといっしょ](../Page/おかあさんといっしょ.md "wikilink")』の「はみがきじょうずかな」のコーナーに親子で出演。コネなどではなく普通に応募したところ、当選して出演する運びになった。もちろん、収録スタジオでは、誰も芸人のレイザーラモンRGだとは気づかずに、一般のお父さんとしての扱いだった\[40\]。
   - [2014年](../Page/2014年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink")、[ツイッター](https://ja.wikipedia.org/wiki/ツイッター "wikilink")で娘が2013年に[18トリソミー](https://ja.wikipedia.org/wiki/18トリソミー "wikilink")で死産したことを報告した\[41\]。
 
@@ -209,7 +210,7 @@ RWFの先輩には芸人の[ユリオカ超特Q](../Page/ユリオカ超特Q.md 
 <!-- end list -->
 
   -
-    なお、上記の2番組は、[山陽放送](https://ja.wikipedia.org/wiki/山陽放送テレビ "wikilink")・[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")でも放送。
+    なお、上記の2番組は、[山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")・[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")でも放送。
 
 ### テレビ
 
@@ -260,6 +261,7 @@ RWFの先輩には芸人の[ユリオカ超特Q](../Page/ユリオカ超特Q.md 
   - [レイザーラモンRGのオールナイトニッポンR](../Page/オールナイトニッポンR.md "wikilink")（2006年2月4日、[ニッポン放送](../Page/ニッポン放送.md "wikilink") ほか）
   - [とことん '90年代洋楽](https://ja.wikipedia.org/wiki/とことん○○ "wikilink")（2013年5月6日 - 24日、[NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM "wikilink")） - マンスリーDJ
   - [レイザーラモンRGのあるあるミュージックショー](https://ja.wikipedia.org/wiki/レイザーラモンRGのあるあるミュージックショー "wikilink")→レイザーラモンRGのあるあるミュージック勝負！（2012年4月 - 2015年9月、[ラジオ大阪](../Page/大阪放送.md "wikilink") ほか）
+  - [内山絵理加のふくわうち](https://ja.wikipedia.org/wiki/ふくわうち#内山絵里加のふくわうち "wikilink") 木曜パーソナリティ（2020年4月 - 、[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")）
 
 ### 舞台
 
@@ -315,6 +317,7 @@ RWFの先輩には芸人の[ユリオカ超特Q](../Page/ユリオカ超特Q.md 
   -
   - （RGが参加しているヘヴィメタルバンド）
 
+  -
   -
   -
 [Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink") [Category:吉本新喜劇](https://ja.wikipedia.org/wiki/Category:吉本新喜劇 "wikilink") [Category:お笑い芸人](https://ja.wikipedia.org/wiki/Category:お笑い芸人 "wikilink") [Category:ものまねタレント](https://ja.wikipedia.org/wiki/Category:ものまねタレント "wikilink") [Category:ハッスルの人物](https://ja.wikipedia.org/wiki/Category:ハッスルの人物 "wikilink") [Category:立命館大学出身の人物](https://ja.wikipedia.org/wiki/Category:立命館大学出身の人物 "wikilink") [Category:熊本県出身の人物](https://ja.wikipedia.org/wiki/Category:熊本県出身の人物 "wikilink") [Category:1974年生](https://ja.wikipedia.org/wiki/Category:1974年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:格闘技の関係者](https://ja.wikipedia.org/wiki/Category:格闘技の関係者 "wikilink")

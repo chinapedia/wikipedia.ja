@@ -3,7 +3,7 @@
 
 **Final Cut Pro**（ファイナルカット・プロ）は、[アップルの開発](../Page/アップル_\(企業\).md "wikilink")・販売する[ソフトウェア](../Page/ソフトウェア.md "wikilink")のひとつで、[パソコン向けの](../Page/パーソナルコンピュータ.md "wikilink")[ノンリニアビデオ編集](https://ja.wikipedia.org/wiki/ノンリニアビデオ編集 "wikilink")を目的とした[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")向けのソフトである。アップルのプロフェッショナル向け映像ソリューションの中核となるソフトウェア。
 
-バージョン６とバージョン7は、[Motion](../Page/Motion.md "wikilink")、[Soundtrack Pro](https://ja.wikipedia.org/wiki/Soundtrack_Pro "wikilink")、[DVD Studio Pro](https://ja.wikipedia.org/wiki/w:DVD_Studio_Pro "wikilink")、[Compressor](https://ja.wikipedia.org/wiki/w:Compressor_\(software\) "wikilink")、[Colorなどを含むソフトウェアスイート](https://ja.wikipedia.org/wiki/w:Color_\(software\) "wikilink")**[Final Cut Studio](../Page/Final_Cut_Studio.md "wikilink")**（ファイナルカット・スタジオ）として販売されていた。
+バージョン６とバージョン7は、[Motion](../Page/Motion.md "wikilink")、[Soundtrack Pro](https://ja.wikipedia.org/wiki/Soundtrack_Pro "wikilink")、[DVD Studio Pro](https://ja.wikipedia.org/wiki/w:DVD_Studio_Pro "wikilink")、[Compressor](https://ja.wikipedia.org/wiki/Compressor "wikilink")、[Colorなどを含むソフトウェアスイート](https://ja.wikipedia.org/wiki/w:Color_\(software\) "wikilink")**[Final Cut Studio](../Page/Final_Cut_Studio.md "wikilink")**（ファイナルカット・スタジオ）として販売されていた。
 
 ## 概要
 
@@ -70,6 +70,7 @@ Final Cut Pro Xは2011年6月21日からMac App Storeでダウンロード可能
       - 10.4.6 - 2019年3月21日リリース\[14\]。ライブラリに追加した互換性のないメディアファイルを自動スキャンし、変換することが可能となった。\[15\]
       - 10.4.7 - 2019年10月8日リリース。[Metalベースプロセッシングエンジンへ刷新し処理速度向上](https://ja.wikipedia.org/wiki/Metal_\(API\) "wikilink")、[Mac Pro (2019)やAfterburner](https://ja.wikipedia.org/wiki/Mac_Pro#Mac_Pro（2019） "wikilink") Cardへの対応・最適化でパフォーマンス向上\[16\]
       - 10.4.8 - 2019年12月10日リリース。
+      - 10.4.9 - 2020年8月25日リリース。編集ワークフローの強化\[17\]
 
 ## Final Cut Proの画面（Final Cut Pro 7まで）
 
@@ -107,3 +108,4 @@ Final Cut Pro Xは2011年6月21日からMac App Storeでダウンロード可能
 14.
 15.
 16.
+17.

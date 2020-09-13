@@ -23,19 +23,19 @@
 
 #### シングル
 
-  - ココカラ　（2001年11月23日）
+  - [ココカラ](https://ja.wikipedia.org/wiki/ココカラ "wikilink")　（2001年11月23日）
     1.  ココカラ
     2.  キッカケ
     3.  その一歩だ
     4.  キッカケ(RED ZONE Remix)
-  - イーゼ　（2002年2月22日）
+  - [イーゼ](https://ja.wikipedia.org/wiki/イーゼ "wikilink")　（2002年2月22日）
     1.  イーゼ
     2.  easy?
     3.  シノビ.コム
 
 #### アルバム
 
-  - ZERO　（2001年1月17日）
+  - [ZERO](https://ja.wikipedia.org/wiki/ZERO "wikilink")　（2001年1月17日）
     1.  CAPITALC
     2.  J.A.P. IN THE HOUSE
     3.  TOKYO
@@ -52,13 +52,25 @@
     14. STYLE OF SURVIVE
     15. TO MY MEN
     16. ENDLESS EPISODE
-  - THE ASCENSION　（2012年12月12日）
+  - [THE ASCENSION](https://ja.wikipedia.org/wiki/THE_ASCENSION "wikilink")　（2012年12月12日）
+    1.  THE ASCENSION
+    2.  オートマティック
+    3.  KICK DA SHIT\! feat. 金持ち兄弟
+    4.  ムネヲハレ\!
+    5.  トンネル feat. SIMON JAP
+    6.  マタモトノイチ
+    7.  Mr. 低空飛行
+    8.  サマーマッドネス feat. 金持ち兄弟
+    9.  Beautiful
+    10. 今日から (Happy Birthday)
+    11. ALIVE
+    12. THE GAME NEEDS ME feat. CHANNEEL,SIMON JAP
 
 ### メジャー
 
 #### シングル
 
-  - トップホイッスル REMIX　（2003年7月16日）
+  - [トップホイッスル REMIX](https://ja.wikipedia.org/wiki/トップホイッスル_REMIX "wikilink")　（2003年7月16日）
     1.  トップホイッスル REMIX feat. [KREVA](../Page/KREVA.md "wikilink")
     2.  CUEZERO THE WORLD [Mr.Drunk](https://ja.wikipedia.org/wiki/Mr.Drunk "wikilink") REMIX
     3.  トップホイッスル
@@ -67,7 +79,7 @@
 
 #### アルバム
 
-  - CUEZERO THE WORLD 秋の祭典　（2003年2月21日）
+  - [CUEZERO THE WORLD 秋の祭典](https://ja.wikipedia.org/wiki/CUEZERO_THE_WORLD_秋の祭典 "wikilink")　（2003年2月21日）
     1.  トップホイッスル
     2.  CUEZERO THE WORLD
     3.  モノホンヒップホップ
@@ -87,7 +99,7 @@
     <!-- end list -->
       -
         DJ陣に[DJ TATSUTA](../Page/DJ_TATSUTA.md "wikilink")、G.M-KAZ、[ROCK-Tee](../Page/EAST_END.md "wikilink")、[DJ SHUHO](../Page/DJ_SHUHO.md "wikilink")、MC陣には[KICK THE CAN CREWの](../Page/KICK_THE_CAN_CREW.md "wikilink")[LITTLE](../Page/LITTLE.md "wikilink")や[童子-T](../Page/童子-T.md "wikilink")が参加。オリコン最高順位216位。
-  - 3分クッキング　（2004年3月17日）
+  - [3分クッキング](https://ja.wikipedia.org/wiki/3分クッキング "wikilink")　（2004年3月17日）
     1.  3分男
     2.  太鼓盤 feat. [KREVA](../Page/KREVA.md "wikilink")
     3.  3分クッキング feat. [Mummy-D](../Page/Mummy-D.md "wikilink")
@@ -108,7 +120,7 @@
 
 #### ミニアルバム
 
-  - バァァァック！　（2007年4月25日）
+  - [バァァァック！](https://ja.wikipedia.org/wiki/バァァァック！ "wikilink")　（2007年4月25日）
     1.  バァァァック！
     \*\#ラップ虎の穴
     1.  それ…‥なのか？
@@ -118,7 +130,7 @@
 
 ### 客演
 
-BY PHAR THE DOPEST、くレーベルを除く
+[BY PHAR THE DOPEST](../Page/BY_PHAR_THE_DOPEST.md "wikilink")、くレーベルを除く
 
   - [鈴木あみ](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")『[THANK YOU 4 EVERY DAY EVERY BODY](../Page/THANK_YOU_4_EVERY_DAY_EVERY_BODY.md "wikilink")』（2000年4月12日）
       -

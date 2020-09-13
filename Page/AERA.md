@@ -1,7 +1,7 @@
 > この記事は[AERA](https://ja.wikipedia.org/wiki/AERA)から翻訳されています。
 
 
-**AERA**（アエラ）は、[朝日新聞出版](../Page/朝日新聞出版.md "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")発行分までは[朝日新聞社](../Page/朝日新聞社.md "wikilink")出版本部）が毎週発行する[週刊誌である](../Page/雑誌.md "wikilink")。正式には「[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")ウィークリー AERA」という。発行部数8.7万部（2016年10月1日～2017年9月30日において）は[SPA\!](../Page/SPA!.md "wikilink")に次いで業界第11位\[1\]。
+**AERA**（アエラ）は、[朝日新聞出版](../Page/朝日新聞出版.md "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")発行分までは[朝日新聞社](../Page/朝日新聞社.md "wikilink")出版本部）が毎週発行する[週刊誌である](../Page/雑誌.md "wikilink")。正式には「[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")ウィークリー AERA」という。発行部数7万872部（2018年10月1日～2019年9月30日において）は一般週刊誌（[女性週刊誌](../Page/女性週刊誌.md "wikilink")除く）において、[SPA\!](../Page/SPA!.md "wikilink")に次いで業界第11位\[1\]。
 
 ## 概要
 

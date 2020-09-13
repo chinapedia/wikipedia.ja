@@ -377,7 +377,7 @@
 </tr>
 <tr class="odd">
 <td><p>2020</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/別世界からのメッセージ" title="wikilink">別世界からのメッセージ</a><br />
+<td><p><a href="../Page/別世界からのメッセージ.md" title="wikilink">別世界からのメッセージ</a><br />
 <em>Dispatches from Elsewhere</em></p></td>
 <td><p>オクタビオ・コールマン</p></td>
 <td><p>メイン</p></td>

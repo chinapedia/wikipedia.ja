@@ -664,14 +664,14 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
 <td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a></p></td>
 <td><p>水曜 17:00 - 17:30</p></td>
-<td></td>
+<td><p>1986年12月10日から1988年1月13日まで放送[5]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
 <td><p><a href="../Page/福井放送.md" title="wikilink">福井放送</a></p></td>
 <td><p>日曜 11:00 - 11:30</p></td>
-<td></td>
+<td><p>1987年4月12日から放送[6]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -819,3 +819,5 @@
 2.  『[アニメディア](../Page/アニメディア.md "wikilink") 1987年10月号』　1987年、[学研パブリッシング](https://ja.wikipedia.org/wiki/学研パブリッシング "wikilink")、テレビ局ネットワーク pp.79 - 81
 3.  北海道新聞テレビ欄より
 4.  熊本日日新聞テレビ欄より
+5.  『[北國新聞](https://ja.wikipedia.org/wiki/北國新聞 "wikilink")』1986年12月10日 - 1988年1月13日付朝刊、テレビ欄。
+6.  『北國新聞』1987年4月12日付朝刊、テレビ欄。

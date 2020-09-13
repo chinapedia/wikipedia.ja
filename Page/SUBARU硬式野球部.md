@@ -56,11 +56,12 @@
   - [石幡信弘](https://ja.wikipedia.org/wiki/石幡信弘 "wikilink")（[投手](../Page/投手.md "wikilink")） - ドラフト5位で[大洋ホエールズに入団](../Page/横浜DeNAベイスターズ.md "wikilink")
   - [皆川康夫](../Page/皆川康夫.md "wikilink")（投手） - ドラフト5位で[東映フライヤーズに入団](../Page/北海道日本ハムファイターズ.md "wikilink")
   - [野崎恒男](../Page/野崎恒男.md "wikilink")（投手） - ドラフト1位で[南海ホークスに入団](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")
+  - [伊藤正信](https://ja.wikipedia.org/wiki/伊藤正信 "wikilink")（投手） - ドラフト2位で南海ホークスに入団
   - [柴田民男](https://ja.wikipedia.org/wiki/柴田民男 "wikilink")（投手） - 退団後、1976年[ドラフト外で大洋ホエールズに入団](../Page/ドラフト外入団.md "wikilink")
   - [橋本敬司](../Page/橋本敬司.md "wikilink")（投手） - ドラフト4位で[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")から指名を受け、翌1982年シーズン終了後に入団
   - [谷良治](../Page/谷良治.md "wikilink")（投手） - 1983年ドラフト外で[阪急ブレーブスに入団](../Page/オリックス・バファローズ.md "wikilink")
   - [井場友和](../Page/井場友和.md "wikilink")（投手） - ドラフト1位で[日本ハムファイターズに入団](../Page/北海道日本ハムファイターズ.md "wikilink")
-  - [高谷裕亮](../Page/高谷裕亮.md "wikilink")（[捕手](../Page/捕手.md "wikilink")） - 退団後、[白鴎大学](../Page/白鴎大学.md "wikilink")に進学し、大学生・社会人ドラフト3位で[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")に入団
+  - [高谷裕亮](../Page/高谷裕亮.md "wikilink")（[捕手](../Page/捕手.md "wikilink")） - 退団後、[白鷗大学](https://ja.wikipedia.org/wiki/白鷗大学 "wikilink")に進学し、大学生・社会人ドラフト3位で[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")に入団
   - [鬼崎裕司](../Page/鬼崎裕司.md "wikilink")（[内野手](../Page/内野手.md "wikilink")） - 大学生・社会人ドラフト3位で[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")に入団
   - [東明大貴](https://ja.wikipedia.org/wiki/東明大貴 "wikilink")（投手） - ドラフト2位で[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")に入団
   - [西村凌](https://ja.wikipedia.org/wiki/西村凌 "wikilink")（捕手） - ドラフト5位でオリックス・バファローズに入団
@@ -68,7 +69,7 @@
 
 ## 在籍中及びかつて在籍した選手・コーチ・監督
 
-  - [阿部次男](../Page/阿部次男.md "wikilink")（投手） - 投手（1991年～2011年）→ヘッドコーチ（2013年～2017年6月）→監督（2017年7月～）
+  - [阿部次男](../Page/阿部次男.md "wikilink")（投手） - 投手（1991年～2011年）→ヘッドコーチ（2013年～2017年6月）→監督（2017年7月～2019年6月）
   - [平井英一](../Page/平井英一.md "wikilink")（投手） - 投手（2002年～2014年）→投手コーチ（2015年～）
   - [西嶋一記](https://ja.wikipedia.org/wiki/西嶋一記 "wikilink")（投手） - 投手（2015年・2016年）
   - [斎藤義典](../Page/斎藤義典.md "wikilink")（投手） - 投手（1998年～2002年）　※[近鉄バファローズからの](../Page/大阪近鉄バファローズ.md "wikilink")ドラフト5位指名を拒否。

@@ -106,7 +106,7 @@ UMKは『[さんさんサタデー](../Page/さんさんサタデー.md "wikilin
 
 ## 外部リンク
 
-  - [UMK テレビ宮崎｜番組紹介｜JAGAJAGA天国](http://web.archive.org/web/20100818212740/http://www.umk.co.jp/jaga/)（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")保存データ）
+  - [UMK テレビ宮崎｜番組紹介｜JAGAJAGA天国](https://web.archive.org/web/20100818212740/http://www.umk.co.jp/jaga/)（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")保存データ）
 
 [Category:1995年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1995年のテレビ番組_\(日本\) "wikilink") [Category:テレビ宮崎の番組](https://ja.wikipedia.org/wiki/Category:テレビ宮崎の番組 "wikilink") [Category:九州・沖縄地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビの情報・ワイドショー番組 "wikilink")
 

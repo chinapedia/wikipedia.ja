@@ -52,7 +52,7 @@
   - [サイファーポール](https://ja.wikipedia.org/wiki/サイファーポール "wikilink") ()。漫画・アニメ「[ONE PIECE](../Page/ONE_PIECE.md "wikilink")」に登場する、架空の組織。
   - クレジットポイント。[元気のレースゲーム](../Page/元気_\(ゲーム会社\).md "wikilink")「[首都高バトルシリーズ](../Page/首都高バトルシリーズ.md "wikilink")」・「[街道バトルシリーズ](../Page/街道バトルシリーズ.md "wikilink")」・「[レーシングバトル -C1 GRAND PRIX-](../Page/レーシングバトル_-C1_GRAND_PRIX-.md "wikilink")」に登場するゲーム内通貨。
   - キャッスルポイント。ゲーム「[ポケットモンスター プラチナ](https://ja.wikipedia.org/wiki/ポケットモンスター_ダイヤモンド・パール#プラチナ "wikilink")」・「[ポケットモンスター ハートゴールド・ソウルシルバー](https://ja.wikipedia.org/wiki/ポケットモンスター_ハートゴールド・ソウルシルバー "wikilink")」に登場する施設[バトルフロンティア](../Page/バトルフロンティア.md "wikilink")のひとつであるバトルキャッスルで登場するゲーム内通貨。
-  - コンバットパワー（Combat Power）。[ナイアンティックが提供するスマートフォン向け](https://ja.wikipedia.org/wiki/Niantic,_Inc. "wikilink")[位置情報ゲーム](https://ja.wikipedia.org/wiki/位置情報ゲーム "wikilink")[アプリ](https://ja.wikipedia.org/wiki/モバイルアプリケーション "wikilink")「[ポケモンGO](https://ja.wikipedia.org/wiki/Pokemon_GO "wikilink")」における、[ポケモンの強さを表す数値](../Page/ポケットモンスター_\(架空の生物\).md "wikilink")。
+  - コンバットパワー（Combat Power）。[ナイアンティックが提供するスマートフォン向け](https://ja.wikipedia.org/wiki/Niantic,_Inc. "wikilink")[位置情報ゲーム](https://ja.wikipedia.org/wiki/位置情報ゲーム "wikilink")[アプリ](https://ja.wikipedia.org/wiki/モバイルアプリケーション "wikilink")「[ポケモンGO](https://ja.wikipedia.org/wiki/Pokémon_GO "wikilink")」における、[ポケモンの強さを表す数値](../Page/ポケットモンスター_\(架空の生物\).md "wikilink")。
 
 ## Cp
 

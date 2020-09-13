@@ -168,7 +168,7 @@ DoD識別記号</p></th>
 <td><p>Finback</p></td>
 <td><p>フィンバック</p></td>
 <td></td>
-<td><p><span style="display:none">J8</span>瀋陽 <a href="../Page/J-8_(航空機).md" title="wikilink">J-8</a> / <a href="../Page/J-8II_(航空機).md" title="wikilink">J-8II</a></p></td>
+<td><p><span style="display:none">J08</span>瀋陽 <a href="../Page/J-8_(航空機).md" title="wikilink">J-8</a> / <a href="../Page/J-8II_(航空機).md" title="wikilink">J-8II</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -196,18 +196,24 @@ DoD識別記号</p></th>
 <td><p>Fishbed</p></td>
 <td><p>フィッシュベッド</p></td>
 <td></td>
-<td><p><span style="display:none">MIG021</span>ミグ <a href="../Page/MiG-21_(航空機).md" title="wikilink">MiG-21</a> / Ye-4 / 23-31 /<br />
-<a href="https://ja.wikipedia.org/wiki/成都飛機工業公司" title="wikilink">成都</a> <a href="../Page/J-7_(航空機).md" title="wikilink">J-7</a></p></td>
+<td><p><span style="display:none">MIG021</span>ミグ <a href="../Page/MiG-21_(航空機).md" title="wikilink">MiG-21</a> / Ye-4 / 23-31</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>Fishcan</p></td>
+<td><p>フィッシュカン</p></td>
+<td></td>
+<td><p><span style="display:none">J07</span><a href="https://ja.wikipedia.org/wiki/成都飛機工業公司" title="wikilink">成都</a> <a href="../Page/J-7_(航空機).md" title="wikilink">J-7</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>Fishpot</p></td>
 <td><p>フィッシュポット</p></td>
 <td></td>
 <td><p><span style="display:none">Su09</span>スホーイ <a href="../Page/Su-9_(航空機).md" title="wikilink">Su-9 (2代)</a> / <a href="../Page/Su-11_(航空機).md" title="wikilink">Su-11 (2代)</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Fitter</p></td>
 <td><p>フィッター</p></td>
 <td></td>
@@ -215,14 +221,14 @@ DoD識別記号</p></th>
 <a href="../Page/Su-17_(航空機).md" title="wikilink">Su-17 (2代) / Su-20 / Su-22</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Flagon</p></td>
 <td><p>フラゴン</p></td>
 <td></td>
 <td><p><span style="display:none">Su15</span>スホーイ <a href="../Page/Su-15_(航空機).md" title="wikilink">Su-15 (2代)</a> / (Su-21)</p></td>
 <td><p>NATO側はSu-15TMの改良型をSu-21として認識していた。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Flanker</p></td>
 <td><p>フランカー</p></td>
 <td><p>RAM-K</p></td>
@@ -230,147 +236,147 @@ DoD識別記号</p></th>
 <a href="../Page/Su-35_(航空機・初代).md" title="wikilink">Su-35 (初代)</a> / <a href="../Page/Su-37_(航空機).md" title="wikilink">Su-37 (2代)</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Flashlight</p></td>
 <td><p>フラッシュライト</p></td>
 <td></td>
 <td><p><span style="display:none">Yak25</span>ヤコヴレフ <a href="https://ja.wikipedia.org/wiki/Yak-25_(航空機・2代)" title="wikilink">Yak-25 (2代)</a> / <a href="https://ja.wikipedia.org/wiki/Yak-26_(航空機)" title="wikilink">Yak-26</a> / <a href="https://ja.wikipedia.org/wiki/Yak-27_(航空機)" title="wikilink">Yak-27</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Flatpack</p></td>
 <td><p>フラットパック</p></td>
 <td></td>
 <td><p><span style="display:none">MIG144</span>ミグ <a href="../Page/1.44_(航空機).md" title="wikilink">1.44</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Flipper</p></td>
 <td><p>フリッパー</p></td>
 <td></td>
 <td><p><span style="display:none">MIGY152</span>ミグ <a href="https://ja.wikipedia.org/wiki/Ye-150_(航空機)" title="wikilink">Ye-152A</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Flogger</p></td>
 <td><p>フロッガー</p></td>
 <td></td>
 <td><p><span style="display:none">MIG023</span>ミグ 23-11 / <a href="../Page/MiG-23_(航空機).md" title="wikilink">MiG-23</a> / <a href="../Page/MiG-27_(航空機).md" title="wikilink">MiG-27</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Flora</p></td>
 <td><p>フローラ</p></td>
 <td><p>Type 28</p></td>
 <td><p><span style="display:none">Yak023</span>ヤコヴレフ <a href="../Page/Yak-23_(航空機).md" title="wikilink">Yak-23</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Flounder</p></td>
 <td><p>フラウンダー</p></td>
 <td></td>
 <td><p><span style="display:none">Su37</span>スホーイ <a href="../Page/Su-37_(航空機・初代).md" title="wikilink">Su-37 (初代)</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Flounder</p></td>
 <td><p>フラウンダー</p></td>
 <td></td>
 <td><p><span style="display:none">JH7</span> <a href="https://ja.wikipedia.org/wiki/西安飛機工業公司" title="wikilink">西安</a> <a href="../Page/JH-7_(航空機).md" title="wikilink">JH-7</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Forger</p></td>
 <td><p>フォージャー</p></td>
 <td></td>
 <td><p><span style="display:none">Yak038</span>ヤコヴレフ <a href="../Page/Yak-38_(航空機).md" title="wikilink">Yak-38</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Foxbat</p></td>
 <td><p>フォックスバット</p></td>
 <td></td>
 <td><p><span style="display:none">MIG025</span>ミグ <a href="../Page/MiG-25_(航空機).md" title="wikilink">MiG-25</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Foxhound</p></td>
 <td><p>フォックスハウンド</p></td>
 <td></td>
 <td><p><span style="display:none">MIG031</span>ミグ <a href="../Page/MiG-31_(航空機).md" title="wikilink">MiG-31</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Frank</p></td>
 <td><p>フランク</p></td>
 <td></td>
 <td><p><span style="display:none">Yak009</span>ヤコヴレフ <a href="https://ja.wikipedia.org/wiki/Yak-9_(航空機)" title="wikilink">Yak-9</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Fred</p></td>
 <td><p>フレッド</p></td>
 <td></td>
 <td><p><span style="display:none">P63</span><a href="../Page/ベル・エアクラフト.md" title="wikilink">ベル</a> <a href="../Page/P-63_(航空機).md" title="wikilink">P-63</a> キングコブラ</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Freehand</p></td>
 <td><p>フリーハンド</p></td>
 <td></td>
 <td><p><span style="display:none">Yak036</span>ヤコヴレフ <a href="https://ja.wikipedia.org/wiki/Yak-36_(航空機)" title="wikilink">Yak-36</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Freestyle</p></td>
 <td><p>フリースタイル</p></td>
 <td><p>RAM-T</p></td>
 <td><p><span style="display:none">Yak141</span>ヤコヴレフ <a href="../Page/Yak-141_(航空機).md" title="wikilink">Yak-41 / Yak-141</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Fresco</p></td>
 <td><p>フレスコ</p></td>
 <td><p>Type 38</p></td>
 <td><p><span style="display:none">MIG017</span>ミグ <a href="../Page/MiG-17_(航空機).md" title="wikilink">MiG-17</a> / 瀋陽 <a href="https://ja.wikipedia.org/wiki/J-5_(航空機)" title="wikilink">J-5</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Fritz</p></td>
 <td><p>フリッツ</p></td>
 <td></td>
 <td><p><span style="display:none">La09</span>ラーヴォチュキン <a href="../Page/La-9_(航空機).md" title="wikilink">La-9</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Frogfoot</p></td>
 <td><p>フロッグフット</p></td>
 <td><p>RAM-J</p></td>
 <td><p><span style="display:none">Su25</span>スホーイ <a href="../Page/Su-25_(航空機).md" title="wikilink">Su-25 / Su-39</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Frosty</p></td>
 <td><p>フロスティ</p></td>
 <td></td>
 <td><p><span style="display:none">Tu010</span>ツポレフ <a href="https://ja.wikipedia.org/wiki/Tu-10_(航空機)" title="wikilink">Tu-10</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Fulcrum</p></td>
 <td><p>フルクラム</p></td>
 <td><p>RAM-L</p></td>
 <td><p><span style="display:none">MIG029</span>ミグ <a href="../Page/MiG-29_(航空機).md" title="wikilink">MiG-29 / MiG-33</a> / <a href="../Page/MiG-35_(航空機).md" title="wikilink">MiG-35</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Fullback</p></td>
 <td><p>フルバック</p></td>
 <td></td>
 <td><p><span style="display:none">Su34</span>スホーイ <a href="../Page/Su-34_(航空機).md" title="wikilink">Su-27IB / Su-32 / Su-34</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Felon</p></td>
 <td><p>フェロン</p></td>
 <td></td>

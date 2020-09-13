@@ -37,27 +37,29 @@
 
 ### 売上
 
-本作は1991年8月5日付のオリコンシングルチャートで、51万枚を売り上げ初登場1位を記録。デビューから12年11ヶ月で自身初の1位獲得となった。発売10週目に累計売上が200万枚を突破した\[13\]\[14\]。そして、同年10月28日付まで13週連続でオリコン週間1位を記録し、この記録は歴代5位である\[15\]。
+本作は1991年8月5日付のオリコン週間ランキングで、51万枚を売り上げ初登場1位を記録。デビューから12年11ヶ月で自身初の1位獲得となった。発売10週目に累計売上が200万枚を突破した\[13\]\[14\]。そして、同年10月28日付まで13週連続でオリコン週間1位を記録し、この記録は歴代5位である\[15\]。
 
-1991年のオリコン年間シングルチャートでは、ランキングの集計期間の関係で[小田和正](../Page/小田和正.md "wikilink")の「[Oh\! Yeah\! / ラブ・ストーリーは突然に](https://ja.wikipedia.org/wiki/Oh!_Yeah! "wikilink")」に阻まれ2位にとどまるが、[1992年](../Page/1992年.md "wikilink")に入ってもチャートインし続けた結果、累計売上では「Oh\! Yeah\! / ラブ・ストーリーは突然に」を上回り、累計282.2万枚（オリコン調べ）を記録し、**CHAGE and ASKAの作品（シングル・アルバム）の中では最大売上**となる\[16\]。なお、累計売上は300万枚との記事もある\[17\]。
+同年8月26日付の同ランキングにて、シングルでは本作、アルバムではASKAの『[SCENE II](https://ja.wikipedia.org/wiki/SCENE_II "wikilink")』が1位を獲得した。グループ&ソロ作品でシングル・アルバム1位を獲得するのは、[おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")・[高井麻巳子](https://ja.wikipedia.org/wiki/高井麻巳子 "wikilink")以来2組目の快挙となった\[16\]。
 
-[2017年](../Page/2017年.md "wikilink")現在、オリコン歴代シングル売り上げランキング7位であるが、上位6作のうち、[SMAP](../Page/SMAP.md "wikilink")の「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」に抜かれたのは2016年[9月19日](../Page/9月19日.md "wikilink")付ランキングで、SMAPの[解散騒動に起因する購買運動によるものであった](https://ja.wikipedia.org/wiki/SMAP解散騒動 "wikilink")。SMAPはデビュー曲「[Can't Stop\!\! -LOVING-](../Page/Can't_Stop!!_-LOVING-.md "wikilink")」が本作と同時期発売であり、本作に首位を阻まれ2位止まりであったが、「世界に一つだけの花」の売上が本作を上回ったのがデビューから丁度25周年の週であったため、ファンからは「25年越しのリベンジ」と呼ばれた\[18\]。
+1991年のオリコン年間シングルチャートでは、ランキングの集計期間の関係で[小田和正](../Page/小田和正.md "wikilink")の「[Oh\! Yeah\! / ラブ・ストーリーは突然に](https://ja.wikipedia.org/wiki/Oh!_Yeah! "wikilink")」に阻まれ2位にとどまるが、[1992年](../Page/1992年.md "wikilink")に入ってもチャートインし続けた結果、累計売上では「Oh\! Yeah\! / ラブ・ストーリーは突然に」を上回り、累計282.2万枚（オリコン調べ）を記録し、**CHAGE and ASKAの作品（シングル・アルバム）の中では最大売上**となる\[17\]。なお、累計売上は300万枚との記事もある\[18\]。
+
+[2017年](../Page/2017年.md "wikilink")現在、オリコン歴代シングル売り上げランキング7位であるが、上位6作のうち、[SMAP](../Page/SMAP.md "wikilink")の「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」に抜かれたのは2016年[9月19日](../Page/9月19日.md "wikilink")付ランキングで、SMAPの[解散騒動に起因する購買運動によるものであった](https://ja.wikipedia.org/wiki/SMAP解散騒動 "wikilink")。SMAPはデビュー曲「[Can't Stop\!\! -LOVING-](../Page/Can't_Stop!!_-LOVING-.md "wikilink")」が本作と同時期発売であり、本作に首位を阻まれ2位止まりであったが、「世界に一つだけの花」の売上が本作を上回ったのがデビューから丁度25周年の週であったため、ファンからは「25年越しのリベンジ」と呼ばれた\[19\]。
 
 ## 収録曲
 
-  - 収録時間：15:19\[19\]
+  - 収録時間：15:19\[20\]
 
 <!-- end list -->
 
 1.  **SAY YES** (4:46)
     （作詞・作曲：[飛鳥涼](https://ja.wikipedia.org/wiki/ASKA "wikilink")　編曲：[十川知司](../Page/十川ともじ.md "wikilink")）
       -
-        [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[月9](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[101回目のプロポーズ](../Page/101回目のプロポーズ.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink")。また、[三菱自動車](../Page/三菱自動車工業.md "wikilink")「[グランディス](../Page/三菱・グランディス.md "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")\[20\]。
-        ドラマのテーマソングの制作依頼があり第1週分の台本が届いたが、ASKAは当時台本を読むパワーと時間が無かったためにスタッフに台本の内容を読んでもらいながら自分なりに作り、ドラマのイメージと運よく重なったと言う\[21\]。
-        『101回目のプロポーズ』の2クール前に同枠で放送されていた『[東京ラブストーリー](https://ja.wikipedia.org/wiki/東京ラブストーリー#テレビドラマ "wikilink")』の主題歌に起用された[小田和正](../Page/小田和正.md "wikilink")の「[ラブ・ストーリーは突然に](../Page/ラブ・ストーリーは突然に.md "wikilink")」はドラマの内容に合わないとプロデューサーに言われて小田が書き直したが、逆に「SAY YES」はASKAが自信作であったことと、視聴者から「別れてさせないでほしい」という要望が殺到したことによりドラマの結末内容が曲の歌詞に合わせて書き直された\[22\]\[23\]。
-        [2005年](../Page/2005年.md "wikilink")に放送された『[第56回NHK紅白歌合戦](../Page/第56回NHK紅白歌合戦.md "wikilink")』の「[スキウタ〜紅白みんなでアンケート〜](../Page/スキウタ〜紅白みんなでアンケート〜.md "wikilink")」で白組67位にランクインした。また、[NEWSポストセブン](https://ja.wikipedia.org/wiki/NEWSポストセブン "wikilink")が[2017年](../Page/2017年.md "wikilink")に発表した「ドラマ好き女性1000人に聞いた人生史上いちばん好きな主題歌ランキング」で6位にランクインしている\[24\]。
+        [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[月9](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[101回目のプロポーズ](../Page/101回目のプロポーズ.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink")。また、[三菱自動車](../Page/三菱自動車工業.md "wikilink")「[グランディス](../Page/三菱・グランディス.md "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")\[21\]。
+        ドラマのテーマソングの制作依頼があり第1週分の台本が届いたが、ASKAは当時台本を読むパワーと時間が無かったためにスタッフに台本の内容を読んでもらいながら自分なりに作り、ドラマのイメージと運よく重なったと言う\[22\]。
+        『101回目のプロポーズ』の2クール前に同枠で放送されていた『[東京ラブストーリー](https://ja.wikipedia.org/wiki/東京ラブストーリー#テレビドラマ "wikilink")』の主題歌に起用された[小田和正](../Page/小田和正.md "wikilink")の「[ラブ・ストーリーは突然に](../Page/ラブ・ストーリーは突然に.md "wikilink")」はドラマの内容に合わないとプロデューサーに言われて小田が書き直したが、逆に「SAY YES」はASKAが自信作であったことと、視聴者から「別れてさせないでほしい」という要望が殺到したことによりドラマの結末内容が曲の歌詞に合わせて書き直された\[23\]\[24\]。
+        [2005年](../Page/2005年.md "wikilink")に放送された『[第56回NHK紅白歌合戦](../Page/第56回NHK紅白歌合戦.md "wikilink")』の「[スキウタ〜紅白みんなでアンケート〜](../Page/スキウタ〜紅白みんなでアンケート〜.md "wikilink")」で白組67位にランクインした。また、[NEWSポストセブン](https://ja.wikipedia.org/wiki/NEWSポストセブン "wikilink")が[2017年](../Page/2017年.md "wikilink")に発表した「ドラマ好き女性1000人に聞いた人生史上いちばん好きな主題歌ランキング」で6位にランクインしている\[25\]。
         2002年に発売された[セルフカバー](../Page/セルフカバー.md "wikilink")・アルバム『[STAMP](https://ja.wikipedia.org/wiki/STAMP_\(CHAGE_and_ASKAのアルバム\) "wikilink")』では、大胆に[アレンジした楽曲を収録している](../Page/編曲.md "wikilink")。また、企画シングル盤「[SEAMLESS SINGLES](https://ja.wikipedia.org/wiki/SEAMLESS_SINGLES "wikilink")」にも収録された。
-        [ゴールデンボンバーの](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")[鬼龍院翔](https://ja.wikipedia.org/wiki/鬼龍院翔 "wikilink")と[氣志團](../Page/氣志團.md "wikilink")の[綾小路翔](https://ja.wikipedia.org/wiki/綾小路翔 "wikilink")がこの楽曲のイントロに衝撃と感動したことを[ラジオ番組](../Page/ラジオ番組.md "wikilink")『[綾小路翔のオールナイトニッポンPremium](https://ja.wikipedia.org/wiki/オールナイトニッポンpremium "wikilink")』で述べている\[25\]。歌手の[新妻聖子](../Page/新妻聖子.md "wikilink")は、大好きな楽曲として自身の[Twitter](../Page/Twitter.md "wikilink")にてコメントしている\[26\]。
+        [ゴールデンボンバーの](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")[鬼龍院翔](https://ja.wikipedia.org/wiki/鬼龍院翔 "wikilink")と[氣志團](../Page/氣志團.md "wikilink")の[綾小路翔](https://ja.wikipedia.org/wiki/綾小路翔 "wikilink")がこの楽曲のイントロに衝撃と感動したことを[ラジオ番組](../Page/ラジオ番組.md "wikilink")『[綾小路翔のオールナイトニッポンPremium](https://ja.wikipedia.org/wiki/オールナイトニッポンpremium "wikilink")』で述べている\[26\]。歌手の[新妻聖子](../Page/新妻聖子.md "wikilink")は、大好きな楽曲として自身の[Twitter](../Page/Twitter.md "wikilink")にてコメントしている\[27\]。
 2.  **告白** (5:49)
     （作詞：青木せい子　作曲：[CHAGE](../Page/Chage.md "wikilink")　編曲：十川知司）
       -
@@ -114,15 +116,15 @@
   - [柴田知美](https://ja.wikipedia.org/wiki/柴田知美 "wikilink")（2013年、カバー・アルバム『Cover Collection』）
   - [高杉さと美](../Page/高杉さと美.md "wikilink")（2013年、カバー・アルバム『Satomi』）
   - リー・ダイモー（李代沫）（2013年、中国版映画『[101回目のプロポーズ　〜SAY YES〜](https://ja.wikipedia.org/wiki/101回目のプロポーズ#映画版 "wikilink")』主題歌）
-  - [中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")（2017年、カバー・アルバム『[ROOTS 〜Piano & Voice〜](https://ja.wikipedia.org/wiki/ROOTS_〜Piano_&_Voice〜 "wikilink")』\[27\]）
-  - 吉田悠樹（2017年、カバーアルバム『ROAM』\[28\]）
+  - [中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")（2017年、カバー・アルバム『[ROOTS 〜Piano & Voice〜](https://ja.wikipedia.org/wiki/ROOTS_〜Piano_&_Voice〜 "wikilink")』\[28\]）
+  - 吉田悠樹（2017年、カバーアルバム『ROAM』\[29\]）
 
 ## 関連項目
 
   - [1991年の音楽](../Page/1991年の音楽.md "wikilink")
   - [101回目のプロポーズ](../Page/101回目のプロポーズ.md "wikilink")
   - [SAY NO](https://ja.wikipedia.org/wiki/イミテイション・ゴールド〜金爆の名曲二番搾り〜#収録曲 "wikilink")
-      - [ゴールデンボンバーの楽曲](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")。「SAY YES」をパロディ化したものを『[イミテイション・ゴールド〜金爆の名曲二番搾り〜](https://ja.wikipedia.org/wiki/イミテイション・ゴールド〜金爆の名曲二番搾り〜 "wikilink")』に収録している\[29\]。
+      - [ゴールデンボンバーの楽曲](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")。「SAY YES」をパロディ化したものを『[イミテイション・ゴールド〜金爆の名曲二番搾り〜](https://ja.wikipedia.org/wiki/イミテイション・ゴールド〜金爆の名曲二番搾り〜 "wikilink")』に収録している\[30\]。
   - [オリコンチャート\#オリコンシングルの売上枚数ベスト20](https://ja.wikipedia.org/wiki/オリコンチャート#オリコンシングルの売上枚数ベスト20 "wikilink")
   - [西鉄特急](../Page/西鉄特急.md "wikilink") - [8000系運用の際に](../Page/西鉄8000形電車.md "wikilink")[二日市到着時の車内放送に使われた](https://ja.wikipedia.org/wiki/西鉄二日市駅 "wikilink")。
 
@@ -155,17 +157,18 @@
 13. [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink") 2013年6月7日放送 VTR企画「200万枚達成スピードNo.1は?」より
 14. [【1991年8月】SAY YES “月9”のメガヒット チャゲアス初のミリオンセラー](https://www.sponichi.co.jp/entertainment/yomimono/music/anokoro/08/kiji/K20110805001347320.html) スポニチアネックス 2011年8月5日配信,2019年3月7日閲覧
 15. [1991年ヒストリー](http://www.chage-aska.net/biography/history/1991) CHAGE and ASKA official web site 2016年6月25日閲覧。
-16. [CHAGE\&ASKA、解散報道を事務所が否定](http://www.oricon.co.jp/news/61915/full/) オリコン 2015年11月8日閲覧
-17. [人気者研究 デビュ－20周年 再び走り出したスーパーデュオはどこへ向かうのか？ CHAGE\&ASKA　20TH ANNIVERSARY](http://web.archive.org/web/20010217044722/ent.nikkeibp.co.jp/ent/bn/9910/021.html) 『[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")』1999年10月号より。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
-18.
-19. [CHAGE and ASKA『SAY YES』](https://recochoku.jp/album/A2001092973/) レコチョク 2020年2月21日閲覧
-20. 2004年に使用された。
-21. [「SAY YES」ライナーノーツ](https://www.chage-aska.net/discography/music/1991M015) 2015年11月8日閲覧
-22. [過去の名曲を効果的に再利用　ドラマ主題歌“受難の時代”だからこその施策](https://www.oricon.co.jp/special/51725/) オリコン 2018年9月17日閲覧
-23.
-24. [女性1000人が選んだ「いちばん好きなドラマ主題歌」トップ10](http://www.news-postseven.com/archives/20171221_638989.html?PAGE=1#container) [NEWSポストセブン](https://ja.wikipedia.org/wiki/NEWSポストセブン "wikilink") 2017年12月22日閲覧
-25. [綾小路翔と鬼龍院翔が白熱！チャゲアス「SAY YES」の魅力](http://www.allnightnippon.com/news/20171031-11027/) 2017年11月12日閲覧
-26. [新妻聖子(@seikoniizuma) 2018年11月27日23:21のツイート](https://twitter.com/seikoniizuma/status/1067425595087183874?s=21) Twitter 2019年10月24日閲覧
-27. [中島美嘉 全新録カヴァーアルバム発売決定！ 玉置浩二/スピッツ/桑田佳祐らに「ご縁返し」](http://www.billboard-japan.com/sp/d_news/detail/51821) ビルボードジャパン 2017年6月24日閲覧
-28. [吉田悠樹、チャゲアスや王貞治カバー収めた初のソロアルバムリリース](http://natalie.mu/music/news/245818) 音楽ナタリー 2017年9月3日閲覧
-29. [祝紅白\! ゴールデンボンバーの楽しみ方](http://bylines.news.yahoo.co.jp/fukuryu/20121230-00022890/) Yahoo\!ニュース 2016年8月20日閲覧。
+16. [堂本剛のプロジェクト・ENDRECHERI、「アルバム1位通算獲得作品数」記録が男性ソロ歴代3位タイに【オリコンランキング】](https://www.oricon.co.jp/news/2165177/full/) オリコン 2020年6月23日配信, 2020年6月23日閲覧
+17. [CHAGE\&ASKA、解散報道を事務所が否定](http://www.oricon.co.jp/news/61915/full/) オリコン 2015年11月8日閲覧
+18. [人気者研究 デビュ－20周年 再び走り出したスーパーデュオはどこへ向かうのか？ CHAGE\&ASKA　20TH ANNIVERSARY](http://web.archive.org/web/20010217044722/ent.nikkeibp.co.jp/ent/bn/9910/021.html) 『[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")』1999年10月号より。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+19.
+20. [CHAGE and ASKA『SAY YES』](https://recochoku.jp/album/A2001092973/) レコチョク 2020年2月21日閲覧
+21. 2004年に使用された。
+22. [「SAY YES」ライナーノーツ](https://www.chage-aska.net/discography/music/1991M015) 2015年11月8日閲覧
+23. [過去の名曲を効果的に再利用　ドラマ主題歌“受難の時代”だからこその施策](https://www.oricon.co.jp/special/51725/) オリコン 2018年9月17日閲覧
+24.
+25. [女性1000人が選んだ「いちばん好きなドラマ主題歌」トップ10](http://www.news-postseven.com/archives/20171221_638989.html?PAGE=1#container) [NEWSポストセブン](https://ja.wikipedia.org/wiki/NEWSポストセブン "wikilink") 2017年12月22日閲覧
+26. [綾小路翔と鬼龍院翔が白熱！チャゲアス「SAY YES」の魅力](http://www.allnightnippon.com/news/20171031-11027/) 2017年11月12日閲覧
+27. [新妻聖子(@seikoniizuma) 2018年11月27日23:21のツイート](https://twitter.com/seikoniizuma/status/1067425595087183874?s=21) Twitter 2019年10月24日閲覧
+28. [中島美嘉 全新録カヴァーアルバム発売決定！ 玉置浩二/スピッツ/桑田佳祐らに「ご縁返し」](http://www.billboard-japan.com/sp/d_news/detail/51821) ビルボードジャパン 2017年6月24日閲覧
+29. [吉田悠樹、チャゲアスや王貞治カバー収めた初のソロアルバムリリース](http://natalie.mu/music/news/245818) 音楽ナタリー 2017年9月3日閲覧
+30. [祝紅白\! ゴールデンボンバーの楽しみ方](http://bylines.news.yahoo.co.jp/fukuryu/20121230-00022890/) Yahoo\!ニュース 2016年8月20日閲覧。

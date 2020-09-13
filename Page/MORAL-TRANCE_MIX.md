@@ -1,7 +1,7 @@
 > この記事は[MORAL-TRANCE MIX](https://ja.wikipedia.org/wiki/MORAL-TRANCE_MIX)から翻訳されています。
 
 
-『**MORAL-TRANCE MIX**』（モラル　トランス・ミックス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")のファーストアルバムのリミックス盤。
+『**MORAL-TRANCE MIX**』（モラル　トランス・ミックス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")[BOØWY](../Page/BOØWY.md "wikilink")のファーストアルバムのリミックス盤。
 
 [2002年](../Page/2002年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")にリリースされた。
 

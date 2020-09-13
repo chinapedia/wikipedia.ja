@@ -361,7 +361,7 @@
   - 185　[テレポーテーション](../Page/瞬間移動.md "wikilink")―驚愕の真実
   - 186　[新羅](../Page/新羅.md "wikilink")の至宝―五層の小塔
   - 187　人体パーツ産業の謎
-  - 188　[拒墨の絹・蜀素](../Page/米フツ.md "wikilink")
+  - 188　[拒墨の絹・蜀素](../Page/米芾.md "wikilink")
   - 189　La Moreneta（黒い聖母）
 
 （第29巻）
@@ -655,7 +655,7 @@
   - 351　[メデューズ号の筏](https://ja.wikipedia.org/wiki/メデューズ号の筏 "wikilink")
   - 352　[ピアノ](../Page/ピアノ.md "wikilink")マン
   - 353　冬の休暇
-  - 354　[ファム・ファタール](https://ja.wikipedia.org/wiki/ファム・ファタール "wikilink")
+  - 354　[ファム・ファタール](../Page/ファム・ファタール.md "wikilink")
   - 355　片貝の思い出
   - 356　贋作ハンター
 
@@ -905,4 +905,4 @@
 
   - [ファウスト (漫画)](https://ja.wikipedia.org/wiki/ファウスト_\(漫画\) "wikilink") - 里見が本作の終了後、『[グランドジャンプPREMIUM](https://ja.wikipedia.org/wiki/グランドジャンプPREMIUM "wikilink")』（集英社）に連載した作品。最終話にゼロが登場する。
 
-[Category:漫画作品_せ](https://ja.wikipedia.org/wiki/Category:漫画作品_せ "wikilink") [Category:スーパージャンプ](https://ja.wikipedia.org/wiki/Category:スーパージャンプ "wikilink") [Category:里見桂](https://ja.wikipedia.org/wiki/Category:里見桂 "wikilink") [Category:遠崎史朗](https://ja.wikipedia.org/wiki/Category:遠崎史朗 "wikilink") [Category:美術を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:美術を題材とした漫画作品 "wikilink") [Category:芸術を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:芸術を題材とした漫画作品 "wikilink")
+[Category:漫画作品_せ](https://ja.wikipedia.org/wiki/Category:漫画作品_せ "wikilink") [Category:スーパージャンプ](https://ja.wikipedia.org/wiki/Category:スーパージャンプ "wikilink") [Category:里見桂](https://ja.wikipedia.org/wiki/Category:里見桂 "wikilink") [Category:遠崎史朗](https://ja.wikipedia.org/wiki/Category:遠崎史朗 "wikilink") [Category:美術を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:美術を題材とした漫画作品 "wikilink")

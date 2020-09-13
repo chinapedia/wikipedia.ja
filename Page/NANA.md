@@ -3,23 +3,23 @@
 
 『**NANA**』（ナナ）は、[矢沢あい](../Page/矢沢あい.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。また、原作を基にする関連作品群（[映画](../Page/映画.md "wikilink")・[アニメ](../Page/アニメ.md "wikilink")・[CD作品など](../Page/コンパクトディスク.md "wikilink")）。第48回（平成14年度）[小学館漫画賞](../Page/小学館漫画賞.md "wikilink")受賞。
 
-漫画は『[Cookie](../Page/Cookie_\(雑誌\).md "wikilink")』（[集英社](../Page/集英社.md "wikilink")）にて連載されていたが、[2009年](../Page/2009年.md "wikilink")8月号から作者急病のため休載している\[1\]。
+漫画は『[Cookie](../Page/Cookie_\(雑誌\).md "wikilink")』（[集英社](../Page/集英社.md "wikilink")）にて連載されていたが、[2009年](../Page/2009年.md "wikilink")8月号から作者療養のため休載している\[1\]\[2\]。
 
-  - 実写版映画→[\#映画](https://ja.wikipedia.org/wiki/#映画 "wikilink")
-  - テレビアニメ→[\#テレビアニメ](https://ja.wikipedia.org/wiki/#テレビアニメ "wikilink")
-  - オムニバスCD→[\#イメージアルバム](https://ja.wikipedia.org/wiki/#イメージアルバム "wikilink")
-  - トリビュートCD→[LOVE for NANA](../Page/LOVE_for_NANA_〜Only_1_Tribute〜.md "wikilink")
+  - 実写版映画 → [\#映画](https://ja.wikipedia.org/wiki/#映画 "wikilink")
+  - テレビアニメ → [\#テレビアニメ](https://ja.wikipedia.org/wiki/#テレビアニメ "wikilink")
+  - オムニバスCD → [\#イメージアルバム](https://ja.wikipedia.org/wiki/#イメージアルバム "wikilink")
+  - トリビュートCD → [LOVE for NANA](../Page/LOVE_for_NANA_〜Only_1_Tribute〜.md "wikilink")
   - [NANAの登場人物](../Page/NANAの登場人物.md "wikilink")
 
 ## 概要
 
-漫画は当初『[りぼん](https://ja.wikipedia.org/wiki/りぼん "wikilink")』の増刊号という位置づけの『Cookie』[1999年](../Page/1999年.md "wikilink")Vol.1、同Vol.2に[読み切り](../Page/読み切り.md "wikilink")として掲載され、『Cookie』が月刊誌として昇格新創刊されると『Cookie』[2000年](../Page/2000年.md "wikilink")7月号から同誌に連載された。
+漫画は当初『[りぼん](https://ja.wikipedia.org/wiki/りぼん "wikilink")』の増刊号という位置づけの『Cookie』[1999年](../Page/1999年.md "wikilink")Vol.1、Vol.2に[読み切り](../Page/読み切り.md "wikilink")として掲載され、『Cookie』が月刊誌として昇格新創刊されると『Cookie』[2000年](../Page/2000年.md "wikilink")7月号から同誌に連載された。
 
-ファンブック『NANA7.8（ナナてんハチ）』のインタビューによると、初めの2話が読みきりの理由は、『Cookie』の創刊準備号（前述の『Cookie』1999年Vol.1、Vol.2）に読み切りを描くことがきまっていたが、同誌が創刊したのちには連載してほしいという依頼があったため同じ名前で違うタイプの女の子を出し、連載で2人が出会うという形をとったためである。このため、第1話に大崎ナナはいっさい登場せず、同様に第2話には小松奈々が登場しない。
+ファンブック『NANA7.8（ナナてんハチ）』のインタビューによると、初めの2話が読み切りの理由は、『Cookie』の創刊準備号（前述の『Cookie』1999年Vol.1、Vol.2）に読み切りを描くことが決まっていたが、同誌が創刊したのちには連載してほしいという依頼があったため同じ名前で違うタイプの女の子を出し、連載で2人が出会うという形をとったためである。このため、第1話に大崎ナナは登場せず、第2話は小松奈々が登場しない。
 
 ## あらすじ
 
-東京に住む彼氏と同居するため上京する小松奈々、ミュージシャンとして成功するため上京する大崎ナナ、出身地は異なるが同い年の2人のNANAは新幹線の中で出会った。その後、ひょんなことから奈々とナナは同居することとなる。さらに、ナナの所属するBLACK STONESと恋人の本城蓮が所属するTRAPNEST、2つのバンドのメンバーたちを交え物語は進んでいく。
+東京に住む彼氏と同居するため上京する小松奈々、ミュージシャンとして成功するため上京する大崎ナナ、出身地は異なるが同い年の2人のNANAは[新幹線](../Page/新幹線.md "wikilink")の中で出会った。その後、ひょんなことから奈々とナナは同居することとなる。さらに、ナナの所属する BLACK STONES と恋人の本城蓮が所属する TRAPNEST、2つのバンドのメンバーたちを交え物語は進んでいく。
 
 ## 時代設定
 
@@ -37,7 +37,7 @@
 
 ### 外国語版
 
-ファンブック「NANA7.8（ナナてんハチ）」などによると[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")、[ドイツ語](../Page/ドイツ語.md "wikilink")、[イタリア語](../Page/イタリア語.md "wikilink")、[タイ語](../Page/タイ語.md "wikilink")、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")（[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")）、[韓国語](../Page/朝鮮語.md "wikilink")（[韓国](../Page/大韓民国.md "wikilink")）での発行が確認されている。さらに[2005年](../Page/2005年.md "wikilink")から[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で連載が開始されたため[英語](../Page/英語.md "wikilink")でも発行されるようになった。
+ファンブック「NANA7.8（ナナてんハチ）」などによると[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")、[ドイツ語](../Page/ドイツ語.md "wikilink")、[イタリア語](../Page/イタリア語.md "wikilink")、[タイ語](../Page/タイ語.md "wikilink")、[中国語](../Page/中国語.md "wikilink")（[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")）、[韓国語](../Page/朝鮮語.md "wikilink")（[韓国](../Page/大韓民国.md "wikilink")）での発行が確認されている。さらに[2005年](../Page/2005年.md "wikilink")から[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で連載が開始されたため[英語](../Page/英語.md "wikilink")でも発行されるようになった。
 
 翻訳に関してそれぞれの国にあわせた改修や解説ページなどがある。またほとんどの版は日本と同じく右綴じで、現地の他の図書では裏となる側から読むことを説明する注意書きが見られるが、韓国版は「反転印刷」による左綴じであり、楽器の演奏や腕の[タトゥーが原版とは逆になっている](https://ja.wikipedia.org/wiki/入れ墨 "wikilink")。
 
@@ -56,49 +56,53 @@
 
   - ; 収録曲
 
-:\# マーブル/Battle Bomb Rounge
+:\# マーブル / Battle Bomb Rounge
 
-:\# 君ノ名前/[savage genius](https://ja.wikipedia.org/wiki/savage_genius "wikilink")
+:\# 君ノ名前 / [savage genius](https://ja.wikipedia.org/wiki/savage_genius "wikilink")
 
-:\# 楽園の扉/プルカブ
+:\# 楽園の扉 / プルカブ
 
-:\# 親愛/ちひろいず
+:\# 親愛 / ちひろいず
 
-:\# Lotus Blues/Olive
+:\# Lotus Blues / Olive
 
-:\# Thanks/Bama☆sister
+:\# Thanks / Bama☆sister
 
-:\# 問い/ブルウフロッグ
+:\# 問い / ブルウフロッグ
 
-:\# Not be mine/GREEN BEAR
+:\# Not be mine / GREEN BEAR
 
-:\# 奏でる神/RK ROSEBUD
+:\# 奏でる神 / RK ROSEBUD
 
-:\# NO TITLE/山岡千春
+:\# NO TITLE / 山岡千春
 
-:\# 真夜中の朝日/[柿本七恵](https://ja.wikipedia.org/wiki/柿本七恵 "wikilink")
+:\# 真夜中の朝日 / [柿本七恵](https://ja.wikipedia.org/wiki/柿本七恵 "wikilink")
 
-:\# MY WAY/REALIZE POWER WAVE
+:\# MY WAY / REALIZE POWER WAVE
 
-:\# あたしの花/Ann
+:\# あたしの花 / Ann
 
 ### トリビュートアルバム
 
   -
 
-    2005年3月16日、[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")（現・EMIミュージック・ジャパン）よりトリビュートアルバム『[LOVE for NANA 〜Only 1 Tribute〜](../Page/LOVE_for_NANA_〜Only_1_Tribute〜.md "wikilink")』が発売。参加アーティストは、[布袋寅泰](../Page/布袋寅泰.md "wikilink")・[高見沢俊彦](../Page/高見沢俊彦.md "wikilink")・[TETSU69](https://ja.wikipedia.org/wiki/Tetsu "wikilink")・[abingdon boys school](https://ja.wikipedia.org/wiki/アビングドンボーイズスクール "wikilink")・[木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")・[Do As Infinity](../Page/Do_As_Infinity.md "wikilink")・[ZONE](../Page/ZONE_\(バンド\).md "wikilink")・[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")など。ジャケットはゴールドとシルバーが販売されているが収録内容は同じである。
+    2005年3月16日、[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")（現 [ユニバーサルミュージック・ジャパン](https://ja.wikipedia.org/wiki/ユニバーサルミュージック・ジャパン "wikilink")）より[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")『[LOVE for NANA 〜Only 1 Tribute〜](../Page/LOVE_for_NANA_〜Only_1_Tribute〜.md "wikilink")』が発売。参加アーティストは、[布袋寅泰](../Page/布袋寅泰.md "wikilink")・[高見沢俊彦](../Page/高見沢俊彦.md "wikilink")・[TETSU69](https://ja.wikipedia.org/wiki/Tetsu "wikilink")・[abingdon boys school](https://ja.wikipedia.org/wiki/アビングドンボーイズスクール "wikilink")・[木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")・[Do As Infinity](../Page/Do_As_Infinity.md "wikilink")・[ZONE](../Page/ZONE_\(バンド\).md "wikilink")・[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")など。ジャケットはゴールドとシルバーが販売されているが収録内容は同じである。
 
     [オリコン週間ランキングで](../Page/オリコンチャート.md "wikilink")、初登場2位を獲得した。
 
 ## ゲーム
 
-  - [2005年](../Page/2005年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から[PlayStation 2用シミュレーションゲームとして発売](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") （[CERO](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink") 全年齢対象）
-  - [2006年](../Page/2006年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")[PlayStation Portable用ガールズライフボードゲーム](../Page/PlayStation_Portable.md "wikilink")『NANA すべては大魔王のお導き\!?』が発売（CERO 全年齢対象）
-  - [2007年](../Page/2007年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用業界系スペシャリストシミュレーション『NANA ライブスタッフ大募集\!〜初心者歓迎〜』が発売（CERO 全年齢対象）
+3タイトルがリリースされており、発売元はすべて[コナミである](../Page/コナミデジタルエンタテインメント.md "wikilink")。
+
+| 発売日                                                                      | [対応機種](../Page/ゲーム機.md "wikilink")                                           | 詳細                                                                      | [CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink") |
+| ------------------------------------------------------------------------ | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------ |
+| [2005年](../Page/2005年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink") | [PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（PS2） | 体感系ひとり暮らしゲーム（作品世界を再現した[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")） | 全年齢対象                                                        |
+| [2006年](../Page/2006年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")   | [PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")（PSP）      | ガールズライフ[ボードゲーム](../Page/ボードゲーム.md "wikilink")『NANA すべては大魔王のお導き\!?』      | 全年齢対象                                                        |
+| [2007年](../Page/2007年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink") | [ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")                                   | 業界系スペシャリストシミュレーション『NANA ライブスタッフ大募集\! 〜初心者歓迎〜』                           | 全年齢対象                                                        |
 
 ### 担当声優
 
-以下はPS2版のもの。PSP版及びNDS版については、後述するアニメ版の[声優](../Page/声優.md "wikilink")がそのまま担当。
+以下は PS2版のもの。PSP版 及び DS版については、後述するアニメの[声優](../Page/声優.md "wikilink")が担当。
 
   - 大崎ナナ：[皆川純子](../Page/皆川純子.md "wikilink")
   - 小松奈々：[宍戸留美](../Page/宍戸留美.md "wikilink")
@@ -123,12 +127,12 @@
 
 2005年[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")公開。[興行通信社](https://ja.wikipedia.org/wiki/興行通信社 "wikilink")調べによる映画ランキングで初登場1位。最終的な観客動員数は日本だけでも300万人を超え、社会現象を起こす大ヒットとなった（興行収入40.3億円）。結果的に、2005年度の[邦画](../Page/日本映画.md "wikilink")4位という記録的ヒットになった。香港では[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")に公開し、映画ランキング初登場1位。台湾で[11月4日](../Page/11月4日.md "wikilink")に公開し、13日間で興行収入1000万台湾ドルを超えた。また[2006年](../Page/2006年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink")に[TBS系で地上初放送され](../Page/TBSテレビ.md "wikilink")（視聴率は13.1%）、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月9日](../Page/6月9日.md "wikilink")には同局で[秋葉原通り魔事件](https://ja.wikipedia.org/wiki/秋葉原通り魔事件 "wikilink")の影響で『[月曜ゴールデン](../Page/月曜ゴールデン.md "wikilink")』枠が急遽、代替放送された（代替放送の視聴率は9.3%）。TBSではかつてこの時間帯が『[月曜ロードショー](../Page/月曜ロードショー.md "wikilink")』であった。
 
-ナナ役の[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")とハチ役の[宮崎あおい](https://ja.wikipedia.org/wiki/宮崎あおい "wikilink")が主演。レイラ役の[伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")もこれをきっかけにブレイクした。中島美嘉が歌った主題歌「[GLAMOROUS SKY](../Page/GLAMOROUS_SKY.md "wikilink")」は原作者の矢沢あいが作詞、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")がメンバー初の楽曲提供による作曲・プロデュースが話題になり、[オリコンウィークリーチャートで](../Page/オリコンチャート.md "wikilink")2週連続1位を記録、2005年度年間ランキングでもトップ10入りする大ヒットとなった。伊藤由奈が歌った挿入歌「ENDLESS STORY」も初登場2位で、長期にわたってロングヒットして話題になった。2人は年末の歌番組に相次いで出演し、共に『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』へも出場した。
+大崎ナナ役の[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")と小松奈々役の[宮崎あおい](https://ja.wikipedia.org/wiki/宮崎あおい "wikilink")が主演。レイラ役の[伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")もこれをきっかけにブレイクした。中島美嘉が歌った主題歌「[GLAMOROUS SKY](../Page/GLAMOROUS_SKY.md "wikilink")」は原作者の矢沢あいが作詞、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink") の [hyde](https://ja.wikipedia.org/wiki/hyde "wikilink") がメンバー初の楽曲提供による作曲・プロデュースが話題になり、[オリコン週間チャートで](../Page/オリコンチャート.md "wikilink")2週連続1位を記録、2005年度年間ランキングでもトップ10入りする大ヒットとなった。伊藤由奈が歌った挿入歌「ENDLESS STORY」も初登場2位で、長期にわたってロングヒットして話題になった。2人は年末の歌番組に相次いで出演し、共に『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』へも出場した。
 
 #### キャスト
 
   - 大崎ナナ（ナナ:BLACK STONES）：[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")
-  - 小松奈々（ハチ）：[宮崎あおい](https://ja.wikipedia.org/wiki/宮崎あおい "wikilink")
+  - 小松奈々：[宮崎あおい](https://ja.wikipedia.org/wiki/宮崎あおい "wikilink")
   - 本城蓮（レン:BLACK STONES → TRAPNEST）：[松田龍平](../Page/松田龍平.md "wikilink")
   - 高木泰士（ヤス:BLACK STONES）：[丸山智己](../Page/丸山智己.md "wikilink")
   - 寺島伸夫（ノブ:BLACK STONES）：[成宮寛貴](../Page/成宮寛貴.md "wikilink")
@@ -211,16 +215,16 @@
 
 ### NANA2
 
-映画2作目の『NANA2』は2006年12月に公開された。役者たちのスケジュールの都合などにより一部のキャストが1作目とは変更されている。 1作目は映画独自のものを目指したが、2作目は「原作を再現すること」を意識している。また、2作目で映画版の『NANA』はシリーズが完結する。2作目の主題歌の作曲は、前作のL'Arc〜en〜CielのHYDEから、[GLAY](../Page/GLAY.md "wikilink")の[TAKURO](../Page/TAKURO.md "wikilink")となった。Yahoo\!映画ランキング初登場4位であったが、興行収入は前作の40億3000万円に対し、12億5000万円に留まる\[2\]。
+映画2作目の『NANA2』は2006年12月に公開された。出演者のスケジュール上の都合などにより一部のキャストが1作目とは変更されている。 1作目は映画独自のものを目指したが、2作目は「原作を再現すること」を意識している。また、2作目で映画版の『NANA』はシリーズが完結する。2作目の主題歌の作曲は、前作の L'Arc〜en〜Ciel の HYDE から、[GLAY](../Page/GLAY.md "wikilink") の [TAKURO](../Page/TAKURO.md "wikilink") となった。Yahoo\!映画ランキング初登場4位であったが、興行収入は前作の40億3000万円に対し、12億5000万円に留まる\[3\]。
 
 #### キャスト（第2作）
 
   - 大崎ナナ：[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")
-  - 小松奈々（ハチ）：[市川由衣](https://ja.wikipedia.org/wiki/市川由衣 "wikilink")
+  - 小松奈々：[市川由衣](https://ja.wikipedia.org/wiki/市川由衣 "wikilink")
   - 寺島伸夫（ノブ）：[成宮寛貴](../Page/成宮寛貴.md "wikilink")
   - 岡崎真一（シン）：[本郷奏多](../Page/本郷奏多.md "wikilink")
   - 高木泰士（ヤス）：[丸山智己](../Page/丸山智己.md "wikilink")
-  - 芹澤レイラ（レイラ）：[伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")
+  - 芹澤レイラ：[伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")
   - 本城蓮（レン）：[姜暢雄](../Page/姜暢雄.md "wikilink")
   - 一ノ瀬巧（タクミ）：[玉山鉄二](../Page/玉山鉄二.md "wikilink")
   - 藤枝直樹（ナオキ）：[水谷百輔](../Page/水谷百輔.md "wikilink")
@@ -269,15 +273,15 @@
 
 ## テレビアニメ
 
-[2006年](../Page/2006年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")に「animo」（アニモ）枠として開始、2007年3月まで4クール放映された。放送では「ファーストシーズン 最終回」とされた\[3\]。ファーストシーズンにおいては原作では、11巻までの内容。アニメーション制作は[マッドハウス](../Page/マッドハウス.md "wikilink")。
+[2006年](../Page/2006年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")に「animo」（アニモ）枠として開始、2007年3月まで4クール放映された。「ファーストシーズン」と表記されており、原作11巻までに相当する。アニメーション制作は[マッドハウス](../Page/マッドハウス.md "wikilink")。
 
-[NNN加盟局で毎週水曜日](../Page/日本ニュースネットワーク.md "wikilink")23時25分から\[4\]、NNN系列外では2006年6月8日より[琉球放送](../Page/琉球放送.md "wikilink")（[TBS系](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")）で毎週木曜日(金曜日)1時55分から、[日テレプラス](https://ja.wikipedia.org/wiki/日テレプラス "wikilink")&サイエンス（現・日テレプラス）でも2006年10月より放映開始、[日本テレビ関連以外では](../Page/日本テレビ放送網.md "wikilink")[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から[アニマックス](../Page/アニマックス.md "wikilink")で再放送されている。2018年10月15日から2019年2月13日まで、[BS日テレでも毎週月](../Page/BS日本.md "wikilink")・火・水曜日23時30分に放送された。\[5\]。
+[NNN加盟局で毎週水曜日](../Page/日本ニュースネットワーク.md "wikilink")23時25分から\[4\]、NNN系列外では2006年6月8日より[琉球放送](../Page/琉球放送.md "wikilink")（[TBS系](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")）で毎週木・金曜日1時55分から、[日テレプラス](https://ja.wikipedia.org/wiki/日テレプラス "wikilink")&サイエンス（現・日テレプラス）でも2006年10月より放映開始、[日本テレビ関連以外では](../Page/日本テレビ放送網.md "wikilink")[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から[アニマックス](../Page/アニマックス.md "wikilink")で再放送されている。2018年10月15日から2019年2月13日まで、[BS日テレでも毎週月](../Page/BS日本.md "wikilink")・火・水曜日23時30分に放送された\[5\]。
 
-開始当初は23時台での放送（23時25分 - 23時55分）と、「4大民放ネットワークで放送される[全日](../Page/全日.md "wikilink")帯放送の[深夜テレビアニメ](../Page/深夜アニメ.md "wikilink")」という極めて珍しい試みのものであったが、結局10月以降は事実上24時台に移行した（『[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")』が放送終了し、『[NEWS ZERO](https://ja.wikipedia.org/wiki/news_zero "wikilink")』放送開始で、このアニメの放送枠である「animo」枠が入っている『[バリューナイト](https://ja.wikipedia.org/wiki/プラチナイト "wikilink")』が30分繰り下げられたため）。1、2話の内容が派手に書き換えられたことを知った矢沢が激怒、放送が危ぶまれたことがあると報道された\[6\]。
+開始当初は23時台での放送（23時25分 - 23時55分）と、「4大民放ネットワークで放送される[全日](../Page/全日.md "wikilink")帯放送の[深夜テレビアニメ](../Page/深夜アニメ.md "wikilink")」という極めて珍しい試みのものであったが、結局10月以降は事実上木曜日0時台に移行した（『[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")』が放送終了し、『[NEWS ZERO](https://ja.wikipedia.org/wiki/news_zero "wikilink")』放送開始で、このアニメの放送枠である「animo」枠が入っている『[バリューナイト](https://ja.wikipedia.org/wiki/プラチナイト "wikilink")』が30分繰り下げられたため）。1、2話の内容が派手に書き換えられたことを知った矢沢が激怒、放送が危ぶまれたことがあると報道された\[6\]。
 
 2006年7月7日に77日間限定税込定価707円でDVDの第1巻が発売された。本編は16:9のワイドサイズで製作されているが、[地上デジタル放送の場合上下左右に黒帯の付いた](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")[額縁放送](../Page/額縁放送.md "wikilink")で放送されている。
 
-セリフを当てる声優と歌を担当する歌手とに分けたキャストは、同じくマッドハウスが制作した『[BECK](https://ja.wikipedia.org/wiki/BECK_\(漫画\) "wikilink")』（監督:[小林治](../Page/小林治_\(イラストレーター\).md "wikilink")）と同様、大きな特徴のひとつである。2007年3月30日に、東京都渋谷区のライブハウス[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")で、アニメ版でナナの歌唱を担当した土屋アンナとレイラの歌唱を担当したOLIVIAが、それぞれの役名+バンドでジョイントライブを行った。ちなみに原作漫画・映画版ともに2組がジョイントライブを行うシーンはない。
+セリフを当てる声優と歌を担当する歌手とに分けたキャストは、同じくマッドハウスが制作した『[BECK](https://ja.wikipedia.org/wiki/BECK_\(漫画\) "wikilink")』（監督：[小林治](../Page/小林治_\(イラストレーター\).md "wikilink")）と同様、大きな特徴のひとつである。2007年3月30日に、東京都渋谷区のライブハウス「[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")」で、アニメ版でナナの歌唱を担当した土屋アンナとレイラの歌唱を担当した OLIVIA が、それぞれの役名＋バンドでジョイントライブを行った。ちなみに原作漫画・映画版ともに2組がジョイントライブを行うシーンはない。
 
 15話では[著作権](../Page/著作権.md "wikilink")・[商標](../Page/商標.md "wikilink")の関係上、原作では「[ディズニーランド](../Page/ディズニーランド.md "wikilink")」の部分がアニメ版では「遊園地」に差し替えられている（原作での[ミニーマウス](../Page/ミニーマウス.md "wikilink")の[カチューシャの部分も別のものに差し替えられている](https://ja.wikipedia.org/wiki/ヘアバンド "wikilink")）。また、28話では、原作では「[スカパー](../Page/スカパー!プレミアムサービス.md "wikilink")」と言っている箇所が「衛星」になっている。
 
@@ -287,7 +291,7 @@
 
 ### 担当声優（テレビアニメ）
 
-  - 大崎ナナ：[朴璐美](../Page/朴ロ美.md "wikilink")
+  - 大崎ナナ：[朴璐美](../Page/朴璐美.md "wikilink")
   - 小松奈々：[KAORI](../Page/KAORI..md "wikilink")
   - 本城蓮：[木内秀信](../Page/木内秀信.md "wikilink")
   - 高木泰士：[川原慶久](../Page/川原慶久.md "wikilink")
@@ -385,7 +389,7 @@
 
 1.  NANA 707 soundtracks（2006年[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")）
       -
-        通常のサウンドトラックの曲以外に、東芝[gigabeat](https://ja.wikipedia.org/wiki/gigabeat "wikilink")のNANAモデルのCMに使用された、ブルートの曲をイメージしたS-L（spirit of BRUTE）名義の曲「Dirty Pretty」が収録されている。作詞・作曲はタニウチヒデキ。
+        通常のサウンドトラックの曲以外に、東芝[gigabeat](https://ja.wikipedia.org/wiki/gigabeat "wikilink") NANAモデルのCMに使用された、ブルートの曲をイメージしたS-L（spirit of BRUTE）名義の曲「Dirty Pretty」が収録されている。作詞・作曲は[タニウチヒデキ](https://ja.wikipedia.org/wiki/タニウチヒデキ "wikilink")。
 2.  NANA 7to8 soundtrack（2006年[12月21日](../Page/12月21日.md "wikilink")）
 3.  [ANNA TSUCHIYA inspi' NANA（BLACK STONES）](https://ja.wikipedia.org/wiki/ANNA_TSUCHIYA_inspi'_NANA（BLACK_STONES） "wikilink")（2007年[2月28日](../Page/2月28日.md "wikilink")）（ANNA TSUCHIYA inspi' NANA（BLACK STONES））
 4.  [OLIVIA inspi' REIRA (TRAPNEST)](https://ja.wikipedia.org/wiki/OLIVIA_inspi'_REIRA_\(TRAPNEST\) "wikilink")（2007年[2月28日](../Page/2月28日.md "wikilink")）OLIVIA inspi' REIRA（TRAPNEST））
@@ -854,24 +858,24 @@
 
 ### DVD
 
-  - 第1巻/2006年7月7日発売
-  - 第2巻/2006年8月23日発売
-  - 第3巻/2006年9月27日発売
-  - 第4巻/2006年10月25日発売
-  - 第5巻/2006年11月22日発売
-  - 第6巻/2006年12月20日発売
-  - 第7巻/2007年1月24日発売
-  - SPECIAL DVD 7.8巻/2007年2月14日発売 ※「淳子の部屋」3話収録。
-  - 第8巻/2007年2月21日発売
-  - 第9巻/2007年3月21日発売
-  - 第10巻/2007年4月25日発売※10巻以降から特典にエピソード・ダイジェストが付属。
-  - 第11巻/2007年5月23日発売
-  - 第12巻/2007年6月27日発売
-  - 第13巻/2007年7月25日発売
-  - 第14巻/2007年8月22日発売
-  - 第15巻/2007年9月27日発売
-  - 第16巻/2007年10月24日発売
-  - 第17巻/2007年11月21日発売
+  - 第1巻 2006年7月7日発売
+  - 第2巻 2006年8月23日発売
+  - 第3巻 2006年9月27日発売
+  - 第4巻 2006年10月25日発売
+  - 第5巻 2006年11月22日発売
+  - 第6巻 2006年12月20日発売
+  - 第7巻 2007年1月24日発売
+  - SPECIAL DVD 7.8巻 2007年2月14日発売 ※「淳子の部屋」3話収録。
+  - 第8巻 2007年2月21日発売
+  - 第9巻 2007年3月21日発売
+  - 第10巻 2007年4月25日発売※10巻以降から特典にエピソード・ダイジェストが付属。
+  - 第11巻 2007年5月23日発売
+  - 第12巻 2007年6月27日発売
+  - 第13巻 2007年7月25日発売
+  - 第14巻 2007年8月22日発売
+  - 第15巻 2007年9月27日発売
+  - 第16巻 2007年10月24日発売
+  - 第17巻 2007年11月21日発売
 
 第1巻のみ1話、それ以降は各巻3話収録。レンタル版では、R-1、R-2…・と続く。R-1は、第1巻と第2巻が1つにまとめられ、4話収録となっている。
 
@@ -881,38 +885,53 @@
 
 ## 脚注
 
-<references />
-
 ## 関連項目
 
   - [ゴールデンタイム (小説)](https://ja.wikipedia.org/wiki/ゴールデンタイム_\(小説\) "wikilink") - [竹宮ゆゆこ](../Page/竹宮ゆゆこ.md "wikilink")による[ライトノベル](../Page/ライトノベル.md "wikilink")。本作の主人公・大崎ナナをモデルにしたキャラクターが登場する。
 
 ## 外部リンク
 
-  - [NANA online](http://www.s-nana.com/)（公式サイト）
+  - [NANA online](http://www.s-nana.com/) - [集英社](../Page/集英社.md "wikilink")の公式サイト
+  - [コナミのゲーム版公式サイト](../Page/コナミデジタルエンタテインメント.md "wikilink")
 
-  - [アニメ公式サイト（日テレ）](http://www.ntv.co.jp/nana/)
+:\*
 
-  - [ゲーム版公式サイト](http://www.konami.jp/gs/game/nana/)
+:\*
 
-  - [Dreamy\&Hopeful Life in Tokyo](http://www.damagedsoul.net/nana/)
+:\*
+
+  - 劇場映画の公式サイト
+
+:\*
+
+:\*
+
+  - [NANA -ナナ-](http://www.ntv.co.jp/nana/) - [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")のTVアニメ公式サイト
+
+<!-- end list -->
+
+  - データベース
+
+<!-- end list -->
+
+  - [NANA](https://www.allcinema.net/cinema/321941) /
+  - [NANA](http://www.kinenote.com/main/public/cinema/detail.aspx?cinema_id=36735) /
+  - *[NANA](https://www.allmovie.com/movie/v429071)* /
+  - *[NANA](https://www.imdb.com/title/tt0471834/)* /
+
+<!-- end list -->
+
+  - ファンクラブ
+
+<!-- end list -->
 
   -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-[Category:NANA](https://ja.wikipedia.org/wiki/Category:NANA "wikilink") [Category:矢沢あい](https://ja.wikipedia.org/wiki/Category:矢沢あい "wikilink") [Category:漫画作品_な](https://ja.wikipedia.org/wiki/Category:漫画作品_な "wikilink") [Category:2000年の漫画](https://ja.wikipedia.org/wiki/Category:2000年の漫画 "wikilink") [Category:Cookie](https://ja.wikipedia.org/wiki/Category:Cookie "wikilink") [Category:恋愛漫画](https://ja.wikipedia.org/wiki/Category:恋愛漫画 "wikilink") [Category:ロックを題材とした漫画](https://ja.wikipedia.org/wiki/Category:ロックを題材とした漫画 "wikilink") [Category:芸能界を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:芸能界を舞台とした漫画作品 "wikilink") [Category:ロックを題材とした作品](https://ja.wikipedia.org/wiki/Category:ロックを題材とした作品 "wikilink") [Category:小学館漫画賞少女向け部門](https://ja.wikipedia.org/wiki/Category:小学館漫画賞少女向け部門 "wikilink") [Category:2005年の映画](https://ja.wikipedia.org/wiki/Category:2005年の映画 "wikilink") [Category:2006年の映画](https://ja.wikipedia.org/wiki/Category:2006年の映画 "wikilink") [Category:日本の青春映画](https://ja.wikipedia.org/wiki/Category:日本の青春映画 "wikilink") [Category:日本の恋愛映画](https://ja.wikipedia.org/wiki/Category:日本の恋愛映画 "wikilink") [Category:東宝製作の映画作品](https://ja.wikipedia.org/wiki/Category:東宝製作の映画作品 "wikilink") [Category:TBS製作の映画](https://ja.wikipedia.org/wiki/Category:TBS製作の映画 "wikilink") [Category:毎日放送製作の映画](https://ja.wikipedia.org/wiki/Category:毎日放送製作の映画 "wikilink") [Category:アニプレックスの映画作品](https://ja.wikipedia.org/wiki/Category:アニプレックスの映画作品 "wikilink") [Category:SMEJの映画作品](https://ja.wikipedia.org/wiki/Category:SMEJの映画作品 "wikilink") [Category:大谷健太郎の監督映画](https://ja.wikipedia.org/wiki/Category:大谷健太郎の監督映画 "wikilink") [Category:浅野妙子の脚本映画](https://ja.wikipedia.org/wiki/Category:浅野妙子の脚本映画 "wikilink") [Category:漫画を原作とする映画作品](https://ja.wikipedia.org/wiki/Category:漫画を原作とする映画作品 "wikilink") [Category:芸能界を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:芸能界を舞台とした映画作品 "wikilink") [Category:ロックを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:ロックを題材とした映画作品 "wikilink") [Category:アニメ作品_な](https://ja.wikipedia.org/wiki/Category:アニメ作品_な "wikilink") [Category:2006年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2006年のテレビアニメ "wikilink") [Category:日本テレビの深夜アニメ](https://ja.wikipedia.org/wiki/Category:日本テレビの深夜アニメ "wikilink") [Category:プラチナイト](https://ja.wikipedia.org/wiki/Category:プラチナイト "wikilink") [Category:マッドハウス](https://ja.wikipedia.org/wiki/Category:マッドハウス "wikilink") [Category:バップのアニメ作品](https://ja.wikipedia.org/wiki/Category:バップのアニメ作品 "wikilink") [Category:りぼんマスコットコミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:りぼんマスコットコミックスのアニメ作品 "wikilink") [Category:芸能界を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:芸能界を舞台としたアニメ作品 "wikilink") [Category:ロックを題材としたアニメ](https://ja.wikipedia.org/wiki/Category:ロックを題材としたアニメ "wikilink") [Category:恋愛アニメ](https://ja.wikipedia.org/wiki/Category:恋愛アニメ "wikilink") [Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:PlayStation_Portable用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable用ソフト "wikilink") [Category:コナミのゲームソフト](https://ja.wikipedia.org/wiki/Category:コナミのゲームソフト "wikilink") [Category:コンピュータボードゲーム](https://ja.wikipedia.org/wiki/Category:コンピュータボードゲーム "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
+[Category:NANA](https://ja.wikipedia.org/wiki/Category:NANA "wikilink") [Category:矢沢あい](https://ja.wikipedia.org/wiki/Category:矢沢あい "wikilink") [Category:漫画作品_な](https://ja.wikipedia.org/wiki/Category:漫画作品_な "wikilink") [Category:2000年の漫画](https://ja.wikipedia.org/wiki/Category:2000年の漫画 "wikilink") [Category:Cookie](https://ja.wikipedia.org/wiki/Category:Cookie "wikilink") [Category:恋愛漫画](https://ja.wikipedia.org/wiki/Category:恋愛漫画 "wikilink") [Category:芸能界を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:芸能界を舞台とした漫画作品 "wikilink") [Category:ロックを題材とした漫画](https://ja.wikipedia.org/wiki/Category:ロックを題材とした漫画 "wikilink") [Category:ロックを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:ロックを題材とした映画作品 "wikilink") [Category:ロックを題材としたアニメ](https://ja.wikipedia.org/wiki/Category:ロックを題材としたアニメ "wikilink") [Category:小学館漫画賞少女向け部門](https://ja.wikipedia.org/wiki/Category:小学館漫画賞少女向け部門 "wikilink") [Category:2005年の映画](https://ja.wikipedia.org/wiki/Category:2005年の映画 "wikilink") [Category:2006年の映画](https://ja.wikipedia.org/wiki/Category:2006年の映画 "wikilink") [Category:日本の青春映画](https://ja.wikipedia.org/wiki/Category:日本の青春映画 "wikilink") [Category:日本の恋愛映画](https://ja.wikipedia.org/wiki/Category:日本の恋愛映画 "wikilink") [Category:東宝製作の映画作品](https://ja.wikipedia.org/wiki/Category:東宝製作の映画作品 "wikilink") [Category:TBS製作の映画](https://ja.wikipedia.org/wiki/Category:TBS製作の映画 "wikilink") [Category:毎日放送製作の映画](https://ja.wikipedia.org/wiki/Category:毎日放送製作の映画 "wikilink") [Category:アニプレックスの映画作品](https://ja.wikipedia.org/wiki/Category:アニプレックスの映画作品 "wikilink") [Category:SMEJの映画作品](https://ja.wikipedia.org/wiki/Category:SMEJの映画作品 "wikilink") [Category:大谷健太郎の監督映画](https://ja.wikipedia.org/wiki/Category:大谷健太郎の監督映画 "wikilink") [Category:浅野妙子の脚本映画](https://ja.wikipedia.org/wiki/Category:浅野妙子の脚本映画 "wikilink") [Category:漫画を原作とする映画作品](https://ja.wikipedia.org/wiki/Category:漫画を原作とする映画作品 "wikilink") [Category:芸能界を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:芸能界を舞台とした映画作品 "wikilink") [Category:アニメ作品_な](https://ja.wikipedia.org/wiki/Category:アニメ作品_な "wikilink") [Category:2006年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2006年のテレビアニメ "wikilink") [Category:日本テレビの深夜アニメ](https://ja.wikipedia.org/wiki/Category:日本テレビの深夜アニメ "wikilink") [Category:プラチナイト](https://ja.wikipedia.org/wiki/Category:プラチナイト "wikilink") [Category:マッドハウス](https://ja.wikipedia.org/wiki/Category:マッドハウス "wikilink") [Category:バップのアニメ作品](https://ja.wikipedia.org/wiki/Category:バップのアニメ作品 "wikilink") [Category:りぼんマスコットコミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:りぼんマスコットコミックスのアニメ作品 "wikilink") [Category:芸能界を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:芸能界を舞台としたアニメ作品 "wikilink") [Category:恋愛アニメ](https://ja.wikipedia.org/wiki/Category:恋愛アニメ "wikilink") [Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:PlayStation_Portable用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable用ソフト "wikilink") [Category:コナミのゲームソフト](https://ja.wikipedia.org/wiki/Category:コナミのゲームソフト "wikilink") [Category:コンピュータボードゲーム](https://ja.wikipedia.org/wiki/Category:コンピュータボードゲーム "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
 1.
-2.  [2007年 上半期作品別興行収入（10億円以上）](http://web.archive.org/web/20071016111438/http://toho.co.jp/c_topics/cine_com86.html) - 東宝、2007年7月11日。（2007年10月16日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
-3.  原作者である矢沢の長期療養による原作執筆を5年以上休止し、ファーストシーズン終了から8年が経過している。
+2.
+3.
 4.  ただし編成の都合で時間変更の場合あり。また、後記のように3クール目以降は24時台での放映が多くなっている。
-5.  [(新)アニメ「NANA－ナナ－」](http://www.bs4.jp/guide/cinema/NANA/)（[BS日テレ](../Page/BS日本.md "wikilink")）
-6.  [【業界裏メール】アニメ版「NANA」騒動の顛末](http://www.zakzak.co.jp/gei/2006_04/g2006042204.html)（[ZAKZAK](https://ja.wikipedia.org/wiki/ZAKZAK "wikilink")）
-7.  出典:日テレ広告ガイド「占拠率」[1](http://www.sales-ntv.com/kento/senkyo.html)
+5.
+6.
+7.

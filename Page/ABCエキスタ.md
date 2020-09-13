@@ -1,7 +1,7 @@
 > この記事は[ABCエキスタ](https://ja.wikipedia.org/wiki/ABCエキスタ)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Osaka_Terminal_Building.jpg "wikilink") **ABCエキスタ**（エービーシーエキスタ）は、かつて[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")（ABC、現・[朝日放送グループホールディングス](../Page/朝日放送グループホールディングス.md "wikilink")）の[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")として、[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")（国鉄）のち[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")の高層ビルディング「[アクティ大阪](https://ja.wikipedia.org/wiki/大阪ターミナルビル "wikilink")」内に開設されたスタジオ。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）[4月25日](../Page/4月25日.md "wikilink")のアクティ大阪のオープンと同時に開設され、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）[4月30日](../Page/4月30日.md "wikilink")に閉鎖された。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Osaka_Terminal_Building.jpg "wikilink") **ABCエキスタ**（エービーシーエキスタ）は、かつて朝日放送（ABC、現・[朝日放送グループホールディングス](../Page/朝日放送グループホールディングス.md "wikilink")）の[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")として、[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")（国鉄）のち[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")の高層ビルディング「[アクティ大阪](https://ja.wikipedia.org/wiki/大阪ターミナルビル "wikilink")」（現・[サウスゲートビルディング](../Page/サウスゲートビルディング.md "wikilink")）内に開設されたスタジオ。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）[4月25日](../Page/4月25日.md "wikilink")のアクティ大阪のオープンと同時に開設され、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）[4月30日](../Page/4月30日.md "wikilink")に閉鎖された。
 
 ## 施設概要
 
@@ -13,7 +13,7 @@
 
 公開放送が行われる時間以外でも[エレクトーン](../Page/エレクトーン.md "wikilink")の演奏、お笑いタレントによるステージやミニライブなどが行われた他、マルチモニターで高校野球やナイター中継が上映されるなど、イベントスペースとしても利用された。また、[1991年](../Page/1991年.md "wikilink")（平成3年）には、大阪市の芸能資料館「[ワッハ上方](../Page/大阪府立上方演芸資料館.md "wikilink")」の開設準備のため、在阪テレビ局から提供された、往年の漫才や落語のビデオを「公開ダビング」と称して上映するユニークなイベントが行われた。
 
-アクティ大阪開業当時は、ビルの壁面に大阪駅や[大阪ターミナルホテル（現:ホテルグランヴィア大阪）](https://ja.wikipedia.org/wiki/ホテルグランヴィア大阪 "wikilink")、大丸と並んで朝日放送の社名ロゴが描かれたネオン看板が取り付けられていたが、「ABCがアクティ大阪に移転した」と勘違いした人が多くおり、新大阪駅を降りた[ANN系列局の局員が](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")、タクシーでアクティ大阪に連れてこられたこともあったという\[2\]。
+アクティ大阪開業当時は、ビルの壁面に大阪駅や[大阪ターミナルホテル（現:ホテルグランヴィア大阪）](https://ja.wikipedia.org/wiki/ホテルグランヴィア大阪 "wikilink")、大丸と並んで朝日放送の社名ロゴが描かれたネオン看板が取り付けられていたが、「ABCがアクティ大阪に移転した」と勘違いした人が多くおり、新大阪駅を降りた[ANN系列局の局員が](../Page/オールニッポン・ニュースネットワーク.md "wikilink")、タクシーでアクティ大阪に連れてこられたこともあったという\[2\]。
 
 しかし、公開放送がなくなり、設備の劣化やスタジオとしての機能をも全うしたことから、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）4月30日で閉鎖された。
 

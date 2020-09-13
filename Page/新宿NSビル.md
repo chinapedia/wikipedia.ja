@@ -7,7 +7,7 @@
 
 新宿副都心建設公社が造成した[淀橋浄水場](../Page/淀橋浄水場.md "wikilink")跡地である当ビル[敷地](https://ja.wikipedia.org/wiki/敷地 "wikilink")（新宿新都心2号地）は、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")に[大成建設](../Page/大成建設.md "wikilink")が[落札](https://ja.wikipedia.org/wiki/落札 "wikilink")して取得した。同社は既に新都心10号地を[新宿センタービル](../Page/新宿センタービル.md "wikilink")用地として共同で取得し、当用地も自社開発する方針を定めたが、その後、ビル所有希望者に土地を売却し、工事施工者として事業参画することなり、[日本生命保険](https://ja.wikipedia.org/wiki/日本生命保険 "wikilink")が大成建設から取得することになった\[1\]。
 
-[大阪市](../Page/大阪市.md "wikilink")が発祥の日本生命は、[1963年](../Page/1963年.md "wikilink")、東京・[有楽町](../Page/有楽町.md "wikilink")に日本生命日比谷ビル（[日生劇場](../Page/日生劇場.md "wikilink")）を建設し、[日本橋にあった東京総局を同ビルに移転](../Page/日本橋_\(東京都中央区\).md "wikilink")。それを契機に東京での事業拡大を図り、都心部を中心に[不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")[投資](../Page/投資.md "wikilink")を進め、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")に大成建設が取得した土地を譲り受け、超高層ビルを建設することを決定した\[2\]。
+[大阪市](../Page/大阪市.md "wikilink")が発祥の日本生命は、[1963年](../Page/1963年.md "wikilink")、東京・[有楽町](../Page/有楽町.md "wikilink")に日本生命日比谷ビル（[日生劇場](../Page/日生劇場.md "wikilink")）を建設し、[日本橋にあった東京総局を同ビルに移転](../Page/日本橋_\(東京都中央区\).md "wikilink")。それを契機に東京での事業拡大を図り、都心部を中心に[不動産](../Page/不動産.md "wikilink")[投資](../Page/投資.md "wikilink")を進め、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")に大成建設が取得した土地を譲り受け、超高層ビルを建設することを決定した\[2\]。
 
 日本生命は超高層ビル建設にあたって、事業共同化を検討し、[1974年](../Page/1974年.md "wikilink")に新都心地区に[新宿住友ビル](https://ja.wikipedia.org/wiki/新宿住友ビル "wikilink")を完成させた[住友不動産](../Page/住友不動産.md "wikilink")と交渉を持った。その結果、両社が手を組み共同でビルを建設することで合意。[1976年](../Page/1976年.md "wikilink")に基本協定を締結した。建物持分比率は日本生命55%、住友不動産45%とし、土地は借地方式とした。また建物設計は[日建設計](../Page/日建設計.md "wikilink")（[林昌二](../Page/林昌二.md "wikilink")）\[3\]、施工は大成建設と決まり、ビル建設に着手\[4\]。[1982年](../Page/1982年.md "wikilink")9月に竣工した\[5\]。
 
@@ -74,7 +74,7 @@
 
 オフィス
 
-  - [アーキ・ジャパン](http://www.akijapan.net/)（本社）
+  - [アーキ・ジャパン](https://akijapan.co.jp/)（本社）
   - [アクト・ジャパン](http://aj-act.co.jp/)（本社）
   - [ニッセイ・ライフプラザ新宿](https://ja.wikipedia.org/wiki/日本生命保険 "wikilink")
   - [住友不動産](../Page/住友不動産.md "wikilink")（本社）

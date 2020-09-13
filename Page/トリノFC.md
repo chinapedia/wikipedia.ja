@@ -107,7 +107,8 @@
 | [2016-17](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2016-2017 "wikilink") | セリエA                                        | 38                                         | 13                                                     |
 | [2017-18](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2017-2018 "wikilink") | セリエA                                        | 38                                         | 13                                                     |
 | [2018-19](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2018-2019 "wikilink") | セリエA                                        | 38                                         | 16                                                     |
-| [2019-20](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2019-2020 "wikilink") | セリエA                                        | 38                                         |                                                        |
+| [2019-20](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2019-2020 "wikilink") | セリエA                                        | 38                                         | 11                                                     |
+| [2020-21](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2020-2021 "wikilink") | セリエA                                        | 38                                         |                                                        |
 
 ## 記録
 
@@ -777,9 +778,9 @@
 
 </div>
 
-  - [2020年](../Page/2020年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")現在
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Serbia.svg "wikilink"))  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))   ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Albania.svg "wikilink"))         ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink")) ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink")) ★  ★
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Serbia.svg "wikilink"))  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))   ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Albania.svg "wikilink"))         ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink")) ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink")) ★  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Chile.svg "wikilink"))
 
 括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 

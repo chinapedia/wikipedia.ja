@@ -64,4 +64,4 @@
 
   - [HOP CLUB](../Page/HOP_CLUB.md "wikilink")（大阪支社のアイドルユニット）
 
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:ホリプロ](https://ja.wikipedia.org/wiki/Category:ホリプロ "wikilink") [Category:優香](https://ja.wikipedia.org/wiki/Category:優香 "wikilink") [Category:深田恭子](https://ja.wikipedia.org/wiki/Category:深田恭子 "wikilink") [Category:綾瀬はるか](https://ja.wikipedia.org/wiki/Category:綾瀬はるか "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:ホリプロ](https://ja.wikipedia.org/wiki/Category:ホリプロ "wikilink") [Category:優香](https://ja.wikipedia.org/wiki/Category:優香 "wikilink") [Category:深田恭子](https://ja.wikipedia.org/wiki/Category:深田恭子 "wikilink") [Category:綾瀬はるか](https://ja.wikipedia.org/wiki/Category:綾瀬はるか "wikilink")

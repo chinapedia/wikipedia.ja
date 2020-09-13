@@ -441,7 +441,7 @@
 
 ## 脚注
 
-## 関連人物・グループなど
+## 関連項目
 
   - [安部恭弘](../Page/安部恭弘.md "wikilink") - 互いのオリジナルアルバムや第三者のアルバムでバックボーカルとしてたびたび共演している。
   - [大江千里](../Page/大江千里_\(アーティスト\).md "wikilink") - アルバムのコーラスで参加している。
@@ -455,6 +455,7 @@
   - [渡辺亮](../Page/渡辺亮_\(パーカッショニスト\).md "wikilink") - パーカッショニスト。EPOとの数多くのセッション等をこなす。
   - [MUSIC FOR ATOM AGE♪](https://ja.wikipedia.org/wiki/MUSIC_FOR_ATOM_AGE♪ "wikilink") - [樋口康雄](../Page/樋口康雄.md "wikilink")による[鉄腕アトム](../Page/鉄腕アトム.md "wikilink")の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")に参加。
   - [ガールポップ](https://ja.wikipedia.org/wiki/ガールポップ "wikilink")
+  - [1980年の音楽\#デビュー](https://ja.wikipedia.org/wiki/1980年の音楽#デビュー "wikilink") - 同じ年にデビューした歌手
 
 ## 外部リンク
 

@@ -7,7 +7,7 @@
 
 ### SHIP結成以前のS.H.I.P
 
-[2001年](../Page/2001年.md "wikilink")（[平成](../Page/平成.md "wikilink")13年）夏、酒田市商店街連合会、酒田なかまち商店街振興組合連合会青年部、酒田商工会議所青年部、酒田[青年会議所](https://ja.wikipedia.org/wiki/青年会議所 "wikilink")などによる実行委員会を運営主体として、かつて県内屈指の人出を誇った酒田市中心市街地の中町商店街（現：もっけだの中町商店街）に活気を取り戻そうと「SAKATA発アイドル育成プロジェクト(S.H.I.P)」がスタートした\[1\]。[プロデューサー](../Page/プロデューサー.md "wikilink")は酒田市出身で東京にて音楽教室「ONE VIBES」を開いていた[サンミュージック](https://ja.wikipedia.org/wiki/サンミュージック "wikilink")アカデミーのボイストレーナー“CHO-BAY”こと斉藤長行が務めた\[2\]。
+[2001年](../Page/2001年.md "wikilink")（[平成](../Page/平成.md "wikilink")13年）夏、酒田市商店街連合会、酒田なかまち商店街振興組合連合会青年部、酒田商工会議所青年部、酒田[青年会議所などによる実行委員会を運営主体として](../Page/日本青年会議所.md "wikilink")、かつて県内屈指の人出を誇った酒田市中心市街地の中町商店街（現：もっけだの中町商店街）に活気を取り戻そうと「SAKATA発アイドル育成プロジェクト(S.H.I.P)」がスタートした\[1\]。[プロデューサー](../Page/プロデューサー.md "wikilink")は酒田市出身で東京にて音楽教室「ONE VIBES」を開いていた[サンミュージック](https://ja.wikipedia.org/wiki/サンミュージック "wikilink")アカデミーのボイストレーナー“CHO-BAY”こと斉藤長行が務めた\[2\]。
 
 同年[10月21日](../Page/10月21日.md "wikilink")に開催された「酒田どんしゃんまつり」にて公開オーディションが行われ、8人のメンバーが選出された\[3\]。以後レッスンコンサートと称したライブを行い場数を踏みつつ\[4\]、CHO-BAYによる厳しいレッスンで鍛えられ、[2002年](../Page/2002年.md "wikilink")（[平成](../Page/平成.md "wikilink")14年）[8月25日](../Page/8月25日.md "wikilink")にデビューコンサートにこぎつけた\[5\]。また、商店街の空き店舗を利用したブースでレコーディングを行い、自主制作CD「All My Love」をリリース、同年[10月20日](../Page/10月20日.md "wikilink")の「酒田どんしゃんまつり」へのステージ出演をもって当初の目的である育成期間は終了した。
 
@@ -286,31 +286,6 @@ JA山形 庄内米全国キャンペーンソング[11]</p></td>
       -
         SHIPをモデルにした、商店街が生んだアイドルSKIP（スキップ）を描く[NHK山形放送局](../Page/NHK山形放送局.md "wikilink")テレビ放送開始50周年記念ドラマ。メンバーが8人ではなく3人であるなど、脚色されている\[13\]。
 
-## 商店街グッズ
-
-地元の各商店によるSHIPの名前が冠されたオリジナルのSHIP応援グッズには以下のようなものがある。SHIPを応援し互いに協力しながら相乗効果を生み出していきたい商店街では「ひと月に一商品」を目標に新商品を開発\[14\]、数多く生み出されたグッズの中にはSHIPメンバーの画像や「キャラシップ」と呼ばれるメンバーをデフォルメした公式[キャラクター](../Page/キャラクター.md "wikilink")イラストが描かれているものもあった\[15\]。現在は品切れになっているものもあることに注意。
-
-  - S.H.I.P限定ウォッチ（2002年9月 - 、蜂屋）\[16\]- デビュー記念のオリジナルウォッチ
-  - S.H.I.P のお香（2002年9月 - 、仏壇のさとう）\[17\]- SHIPをイメージしたローズとマリンのスティックタイプのお香
-  - S.H.I.P Tea・S.H.I.P 紅茶（2002年9月 - 、藤波園）\[18\]
-  - S.H.I.P カクテル（2002年9月 - 、浪漫亭）\[19\]
-  - S.H.I.Pのユニフォームレプリカ（2002年9月 - 、ABCイチムラ）\[20\]
-  - S.H.I.Pめがねふき（2002年10月 - 、めがねのアイライフ）\[21\]
-  - S.H.I.P CIDER「スノーフィーリング」（2002年11月 - 、ト一屋）\[22\]\[23\]
-  - S.H.I.P ドリンクボトル（2002年12月 - 、上ノ山自転車）\[24\]
-  - S.H.I.P CHARI ［chibi］・［BMX］（上ノ山自転車）\[25\]
-  - S.H.I.P ケーキ「スノーフィーリング」・SHIPシフォンケーキ（2002年12月 - 、酒田木村屋）\[26\]\[27\]
-  - しっぷ福神（2002年9月 - 、梨屋）- 7人のメンバーにあやかって7種類の素材から作り上げた[福神漬](../Page/福神漬.md "wikilink")\[28\]。
-  - S.H.I.P シュー（2003年2月 - 、フランボワーズ）\[29\]- 期間限定[シュークリーム](../Page/シュークリーム.md "wikilink")
-  - キャラS.H.I.Pメモ帳（2003年2月 - 、まる五）\[30\]
-  - S.H.I.P夢まくら（2003年3月 - 、富樫ふとん店）\[31\]
-  - 僕だけのピンナップガール「S.H.I.Pショット」カメラ（2003年4月 - 、カメラの七桜）\[32\]
-  - シップラモ（2003年6月 - 、[清水屋](https://ja.wikipedia.org/wiki/マリーン5清水屋 "wikilink")2F メルヘン）キャラS.H.I.Pの[プラモデル](../Page/プラモデル.md "wikilink")、限定25個\[33\]。
-  - シップやきそば（2003年6月 - 、米沢屋）\[34\]- SHIPのイメージカラーであるピンクの明太子マヨネーズをトッピングした焼きそば。2015年現在も販売中\[35\]。
-  - SHIPエコバッグ（鞄屋）
-  - シップ手ぬぐい（呉服屋）
-  - SHIPアイス・SHIPジェラート（手作りアイスの店 ジェラート モアレ）\[36\]
-
 ## 脚注
 
 ## 外部リンク
@@ -318,9 +293,9 @@ JA山形 庄内米全国キャンペーンソング[11]</p></td>
   - [SHIPの公式ホームページ](https://web.archive.org/web/20090923143124/http://ship.main.jp/)　S-Produceによる公式サイト - 2009年9月23日時点のアーカイブ
   - [S-PRO通信](https://ameblo.jp/s-produce/) S-Produceのブログ
   - [S.H.I.P 育成プロジェクト](https://web.archive.org/web/20130620055521/http://www.sakata-cci.or.jp/ship/)　SAKATA発アイドル育成プロジェクト実行委員会による育成時代の公式サイト - 2013年6月20日時点のアーカイブ
-  - [はてなダイアリー - SHIPとは](http://d.hatena.ne.jp/keyword/SHIP)
+  - [はてなダイアリー - SHIPとは](https://d.hatena.ne.jp:443/keyword/SHIP)
 
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:酒田市の歴史](https://ja.wikipedia.org/wiki/Category:酒田市の歴史 "wikilink") [Category:東北地方のローカルアイドル](https://ja.wikipedia.org/wiki/Category:東北地方のローカルアイドル "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink") [Category:2007年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2007年に解散した音楽グループ "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:日本のポップ・アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・アイドルグループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:酒田市の歴史](https://ja.wikipedia.org/wiki/Category:酒田市の歴史 "wikilink") [Category:東北地方のローカルアイドル](https://ja.wikipedia.org/wiki/Category:東北地方のローカルアイドル "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink") [Category:2007年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2007年に解散した音楽グループ "wikilink")
 
 1.
 2.  酒田からスター発掘へ どんしゃんまつりで公開オーディション 女性アイドルグループ 1年後のデビュー目標 『荘内日報』 2001年9月20日。
@@ -335,26 +310,3 @@ JA山形 庄内米全国キャンペーンソング[11]</p></td>
 11.
 12.
 13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
-31.
-32.
-33.
-34.
-35.
-36.

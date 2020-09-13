@@ -10,14 +10,17 @@
   - **今井佐知子**（いまい さちこ）
       -
         [1973年](../Page/1973年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink")生まれ、乙女塾4期生、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。（長女は､[子役](https://ja.wikipedia.org/wiki/子役 "wikilink")の[稲垣鈴夏](../Page/稲垣鈴夏.md "wikilink")）
+        Qlairの楽曲におけるコーラスの際は主に低音パートを担当。
   - **井ノ部裕子**（いのべ ひろこ）
       -
         [1973年](../Page/1973年.md "wikilink")[12月28日](../Page/12月28日.md "wikilink")生まれ、乙女塾5期生、[埼玉県](../Page/埼玉県.md "wikilink")出身。
+        Qlairの楽曲におけるコーラスの際は主に高音パートを担当。
         [辻仁成](../Page/辻仁成.md "wikilink")が1998年にリリースしたアルバム「Sq.-スクエア-」2曲でコーラスに参加。
         [外間隆史](../Page/外間隆史.md "wikilink")が1999年にリリースしたアルバム「裏庭」、2000年にリリースしたアルバム「サンビカ（St.Bika）」にボーカルで参加。
   - **吉田亜紀**（よしだ あき）
       -
         [1976年](../Page/1976年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")生まれ、乙女塾5期生、埼玉県出身。
+        Qlairの楽曲におけるコーラスの際は主に中音パートを担当。
         [1994年](../Page/1994年.md "wikilink")、ドラマ「[アリよさらば](../Page/アリよさらば.md "wikilink")」に生徒役で出演した。
         [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")12月、[桜井鉄太郎](https://ja.wikipedia.org/wiki/桜井鉄太郎 "wikilink")プロデュースによる女性ユニット「FLAGS」の一員として再デビュー。アルバム5枚、シングル1枚、ビデオ1本をリリースした。
         なお、「FLAGS」のデビューアルバムがリリースされた同日に、ボーカルで参加した[コンピレーションアルバム](https://ja.wikipedia.org/wiki/コンピレーションアルバム "wikilink")「[CUTiE COLLECTION](https://ja.wikipedia.org/wiki/CUTiE_COLLECTION "wikilink")」がリリースされた。
@@ -129,7 +132,7 @@
 
 ### 出典
 
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:フジテレビの番組発のグループ](https://ja.wikipedia.org/wiki/Category:フジテレビの番組発のグループ "wikilink") [Category:乙女塾](https://ja.wikipedia.org/wiki/Category:乙女塾 "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:フジテレビの番組発のグループ](https://ja.wikipedia.org/wiki/Category:フジテレビの番組発のグループ "wikilink") [Category:乙女塾](https://ja.wikipedia.org/wiki/Category:乙女塾 "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
 
 1.  角田敦。なお、Qlair時代にライブでのサポートを担当したこともある。
 2.  [昔のアイドルご来店\!｜女社長揚田.あきの一杯の青汁](http://ameblo.jp/agarita-aki/entry-10140500936.html)（2008年9月17日付）

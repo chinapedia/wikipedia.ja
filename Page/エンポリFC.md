@@ -1,7 +1,7 @@
 > この記事は[エンポリFC](https://ja.wikipedia.org/wiki/エンポリFC)から翻訳されています。
 
 
-**エンポリFC**（**Empoli Football Club**）は、[イタリア](../Page/イタリア.md "wikilink")・[エンポリ](../Page/エンポリ.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。2019-20シーズンは[セリエBに所属している](../Page/セリエB_\(サッカー\).md "wikilink")。
+**エンポリ・フットボール・クラブ**（**Empoli Football Club S.p.A.**）は、[イタリア](../Page/イタリア.md "wikilink")・[エンポリ](../Page/エンポリ.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。2020-21シーズンは[セリエBに所属している](../Page/セリエB_\(サッカー\).md "wikilink")。
 
 ## 歴史
 
@@ -97,7 +97,8 @@
 | [2016-17](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2016-2017 "wikilink") | セリエA                                                            | 38                                         | 8                                                      | 8     |
 | [2017-18](https://ja.wikipedia.org/wiki/セリエB_\(サッカー\)_2017-2018 "wikilink") | セリエB                                                            | 42                                         | 24                                                     | 13    |
 | [2018-19](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2018-2019 "wikilink") | セリエA                                                            | 38                                         | 10                                                     | 8     |
-| 2019-20                                                                     | セリエB                                                            | 42                                         |                                                        |       |
+| 2019-20                                                                     | セリエB                                                            | 38                                         | 14                                                     | 12    |
+| 2020-21                                                                     | セリエB                                                            |                                            |                                                        |       |
 
 ## 欧州の成績
 
@@ -148,7 +149,7 @@
 
 <!-- end list -->
 
-  - [アウレリオ・アンドレアッツォーリ](https://ja.wikipedia.org/wiki/アウレリオ・アンドレアッツォーリ "wikilink")
+  - 未定
 
 ### レンタル移籍
 
@@ -200,6 +201,10 @@
 
   -  2019-
 
+  - [ロベルト・ムッツィ](https://ja.wikipedia.org/wiki/ロベルト・ムッツィ "wikilink") 2019-2020
+
+  - [パスクアーレ・マリーノ](https://ja.wikipedia.org/wiki/パスクアーレ・マリーノ "wikilink") 2020
+
 ## 歴代所属選手
 
 ### GK
@@ -241,8 +246,6 @@
   - [ビンチェンツォ・グレッラ](../Page/ビンチェンツォ・グレッラ.md "wikilink") 1998-2004
 
   - [マーク・ブレッシアーノ](../Page/マーク・ブレッシアーノ.md "wikilink") 1999-2002
-
-  -  2002-2010
 
   - [セルヒオ・ベルナルド・アルミロン](../Page/セルヒオ・ベルナルド・アルミロン.md "wikilink") 2004-2007
 

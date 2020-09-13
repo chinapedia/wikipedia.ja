@@ -13,7 +13,7 @@
       - [ウイニングポスト](../Page/ウイニングポストシリーズ.md "wikilink") () - 競馬ゲーム
       - [ウィンドウズフォン](https://ja.wikipedia.org/wiki/Windows_Phone "wikilink") () - モバイル端末用OS
   - [ウェブページ](../Page/ウェブページ.md "wikilink") ()
-  - [ウィキペディア](../Page/ウィキペディア.md "wikilink") - ()
+  - [ウィキペディア](../Page/ウィキペディア.md "wikilink") () - Wikipedia[名前空間の](https://ja.wikipedia.org/wiki/Help:名前空間 "wikilink")[ショートカットとして](https://ja.wikipedia.org/wiki/wikipedia:ショートカット "wikilink")、「WP:」で始まるものが存在する（[WP:CS](https://ja.wikipedia.org/wiki/WP:CS "wikilink")、[WP:GNGなど](https://ja.wikipedia.org/wiki/WP:GNG "wikilink")）。
   - [渡辺プロダクション](../Page/渡辺プロダクション.md "wikilink") () - 芸能事務所
   - [防水](../Page/防水.md "wikilink") ()。
   - 防雨型[コンセント](https://ja.wikipedia.org/wiki/コンセント "wikilink")。構内電気設備配線用図記号（[JIS](https://ja.wikipedia.org/wiki/JIS "wikilink") C 0303：2000）で用いられる。コンセントの図記号に傍記。

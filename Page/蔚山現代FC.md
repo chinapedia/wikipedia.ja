@@ -157,7 +157,7 @@
 
   - [呉章銀](../Page/呉章銀.md "wikilink")　FC東京U-18－[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")－[大邱FC](../Page/大邱FC.md "wikilink")－蔚山現代ホランイ－水原三星
 
-  - [金善珉](https://ja.wikipedia.org/wiki/金善ミン "wikilink")　藝苑芸大－[ガイナーレ鳥取](../Page/ガイナーレ鳥取.md "wikilink")－蔚山現代尾浦造船－蔚山現代－[FC安養](https://ja.wikipedia.org/wiki/FC安養 "wikilink")（レンタル）－[大田シチズン](https://ja.wikipedia.org/wiki/大田シチズン "wikilink")
+  - [金善珉](https://ja.wikipedia.org/wiki/金善珉 "wikilink")　藝苑芸大－[ガイナーレ鳥取](../Page/ガイナーレ鳥取.md "wikilink")－蔚山現代尾浦造船－蔚山現代－[FC安養](https://ja.wikipedia.org/wiki/FC安養 "wikilink")（レンタル）－[大田シチズン](https://ja.wikipedia.org/wiki/大田シチズン "wikilink")
 
 ### GK
 

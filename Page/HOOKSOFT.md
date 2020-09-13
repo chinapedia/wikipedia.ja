@@ -88,23 +88,26 @@ HD版は省略する。
 
   - SMEE
 
-| \#   | 発売日                                                                                         | タイトル                                                                                                                       | 原画                                                                                                                         | シナリオ                                                                         |
-| ---- | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| 1    | [2007年](../Page/2007年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")                    | **[リリミエスタ](https://ja.wikipedia.org/wiki/リリミエスタ "wikilink") (Lili:miesta)**                                                | [日向恭介](https://ja.wikipedia.org/wiki/日向恭介 "wikilink")                                                                      | 浅野健司、柊桂、博恵夏樹                                                                 |
-| 2    | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月11日](../Page/7月11日.md "wikilink") | **[晴れハレはーれむ](https://ja.wikipedia.org/wiki/晴れハレはーれむ "wikilink")**                                                          | [ひなたもも](https://ja.wikipedia.org/wiki/ひなたもも "wikilink")、犬彦                                                                 | 久地マコト                                                                        |
-| 3    | [2009年](../Page/2009年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")                  | **[らぶでれーしょん\!](https://ja.wikipedia.org/wiki/らぶでれーしょん! "wikilink")（LOVE★DELATION）**                                        | [有河サトル](https://ja.wikipedia.org/wiki/有河サトル "wikilink")、琴中ゆい、[綾瀬はづき](https://ja.wikipedia.org/wiki/綾瀬はづき "wikilink")、紗倉みかん | 早瀬ゆう、よりは利葉                                                                   |
-| 4    | [2011年](../Page/2011年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")                    | **[ラブラブル 〜lover able〜](https://ja.wikipedia.org/wiki/ラブラブル_〜lover_able〜 "wikilink")**                                      | ひなたもも、[あめとゆき](https://ja.wikipedia.org/wiki/あめとゆき "wikilink")、らっこ                                                          | 早瀬ゆう、雪仁                                                                      |
-| 4 FD | [2012年](../Page/2012年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink")                    | **[同棲ラブラブル](https://ja.wikipedia.org/wiki/同棲ラブラブル "wikilink")**                                                            | ひなたもも、あめとゆき                                                                                                                | 早瀬ゆう                                                                         |
-| 5    | [2013年](../Page/2013年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")                    | **[フレラバ 〜Friend to Lover〜](https://ja.wikipedia.org/wiki/フレラバ_〜Friend_to_Lover〜 "wikilink")**                              | あめとゆき、ひなたもも、[REI](../Page/REI_\(イラストレーター\).md "wikilink")、かのら                                                              | チームフレラバ（早瀬ゆう、木村ころや、[柊晴空](https://ja.wikipedia.org/wiki/柊晴空 "wikilink")、松倉慎二） |
-| 5 FD | [2013年](../Page/2013年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")                    | **[フレラバ ミニファンディスク](https://ja.wikipedia.org/wiki/フレラバ_〜Friend_to_Lover〜 "wikilink")**                                      | あめとゆき、ひなたもも、REI、かのら                                                                                                        | 早瀬ゆう                                                                         |
-| 6    | [2015年](../Page/2015年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink")                    | **[ピュア×コネクト](https://ja.wikipedia.org/wiki/ピュア×コネクト "wikilink")**                                                          | あめとゆき                                                                                                                      | 早瀬ゆう                                                                         |
-| 7    | 2016年9月30日                                                                                  | **[カノジョ\*ステップ](https://ja.wikipedia.org/wiki/カノジョ*ステップ "wikilink")**                                                       | カノジョ\*ステップ制作部                                                                                                              |                                                                              |
-| 8    | 2017年11月24日                                                                                 | **[Making\*Lovers](https://ja.wikipedia.org/wiki/Making*Lovers "wikilink")**                                               | 谷山さん                                                                                                                       | 早瀬ゆう、岸田ソラ、モーリー                                                               |
-| 8 FD | 2018年4月27日                                                                                  | **[Making\*Lovers 激イチャアフターストーリー Vol.01 亜子、可憐、咲](https://ja.wikipedia.org/wiki/Making*Lovers_激イチャアフターストーリー "wikilink")**    | 谷山さん                                                                                                                       | 早瀬ゆう、柳葉桃夜                                                                    |
-| 8 FD | 2018年6月29日                                                                                  | **[Making\*Lovers 激イチャアフターストーリー Vol.02 レイナ、ましろ](https://ja.wikipedia.org/wiki/Making*Lovers_激イチャアフターストーリー "wikilink")**    | 谷山さん                                                                                                                       | 早瀬ゆう                                                                         |
-| 9    | 2019年1月25日                                                                                  | **[Sugar\*Style](https://ja.wikipedia.org/wiki/Sugar*Style "wikilink")**                                                   | 谷山さん                                                                                                                       | 岸田ソラ、モーリー                                                                    |
-| 9 FD | 2019年6月28日                                                                                  | **[Sugar\*Style Music and Happiness Pack](https://ja.wikipedia.org/wiki/Sugar*Style_Music_and_Happiness_Pack "wikilink")** | 谷山さん                                                                                                                       | 岸田ソラ、此ノ花しな                                                                   |
-| 10   | 2020年2月28日                                                                                  | **[HaremKingdom -ハーレムキングダム-](https://ja.wikipedia.org/wiki/HaremKingdom_-ハーレムキングダム- "wikilink")**                          | 谷山さん                                                                                                                       | 早瀬ゆう                                                                         |
+| \#    | 発売日                                                                                         | タイトル                                                                                                                       | 原画                                                                                                                         | シナリオ                                                                         |
+| ----- | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| 1     | [2007年](../Page/2007年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")                    | **[リリミエスタ](https://ja.wikipedia.org/wiki/リリミエスタ "wikilink") (Lili:miesta)**                                                | [日向恭介](https://ja.wikipedia.org/wiki/日向恭介 "wikilink")                                                                      | 浅野健司、柊桂、博恵夏樹                                                                 |
+| 2     | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月11日](../Page/7月11日.md "wikilink") | **[晴れハレはーれむ](https://ja.wikipedia.org/wiki/晴れハレはーれむ "wikilink")**                                                          | [ひなたもも](https://ja.wikipedia.org/wiki/ひなたもも "wikilink")、犬彦                                                                 | 久地マコト                                                                        |
+| 3     | [2009年](../Page/2009年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")                  | **[らぶでれーしょん\!](https://ja.wikipedia.org/wiki/らぶでれーしょん! "wikilink")（LOVE★DELATION）**                                        | [有河サトル](https://ja.wikipedia.org/wiki/有河サトル "wikilink")、琴中ゆい、[綾瀬はづき](https://ja.wikipedia.org/wiki/綾瀬はづき "wikilink")、紗倉みかん | 早瀬ゆう、よりは利葉                                                                   |
+| 4     | [2011年](../Page/2011年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")                    | **[ラブラブル 〜lover able〜](https://ja.wikipedia.org/wiki/ラブラブル_〜lover_able〜 "wikilink")**                                      | ひなたもも、[あめとゆき](https://ja.wikipedia.org/wiki/あめとゆき "wikilink")、らっこ                                                          | 早瀬ゆう、雪仁                                                                      |
+| 4 FD  | [2012年](../Page/2012年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink")                    | **[同棲ラブラブル](https://ja.wikipedia.org/wiki/同棲ラブラブル "wikilink")**                                                            | ひなたもも、あめとゆき                                                                                                                | 早瀬ゆう                                                                         |
+| 5     | [2013年](../Page/2013年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")                    | **[フレラバ 〜Friend to Lover〜](https://ja.wikipedia.org/wiki/フレラバ_〜Friend_to_Lover〜 "wikilink")**                              | あめとゆき、ひなたもも、[REI](../Page/REI_\(イラストレーター\).md "wikilink")、かのら                                                              | チームフレラバ（早瀬ゆう、木村ころや、[柊晴空](https://ja.wikipedia.org/wiki/柊晴空 "wikilink")、松倉慎二） |
+| 5 FD  | [2013年](../Page/2013年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")                    | **[フレラバ ミニファンディスク](https://ja.wikipedia.org/wiki/フレラバ_〜Friend_to_Lover〜 "wikilink")**                                      | あめとゆき、ひなたもも、REI、かのら                                                                                                        | 早瀬ゆう                                                                         |
+| 6     | [2015年](../Page/2015年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink")                    | **[ピュア×コネクト](https://ja.wikipedia.org/wiki/ピュア×コネクト "wikilink")**                                                          | あめとゆき                                                                                                                      | 早瀬ゆう                                                                         |
+| 7     | 2016年9月30日                                                                                  | **[カノジョ\*ステップ](https://ja.wikipedia.org/wiki/カノジョ*ステップ "wikilink")**                                                       | カノジョ\*ステップ制作部                                                                                                              |                                                                              |
+| 8     | 2017年11月24日                                                                                 | **[Making\*Lovers](https://ja.wikipedia.org/wiki/Making*Lovers "wikilink")**                                               | 谷山さん                                                                                                                       | 早瀬ゆう、岸田ソラ、モーリー                                                               |
+| 8 FD  | 2018年4月27日                                                                                  | **[Making\*Lovers 激イチャアフターストーリー Vol.01 亜子、可憐、咲](https://ja.wikipedia.org/wiki/Making*Lovers_激イチャアフターストーリー "wikilink")**    | 谷山さん                                                                                                                       | 早瀬ゆう、柳葉桃夜                                                                    |
+| 8 FD  | 2018年6月29日                                                                                  | **[Making\*Lovers 激イチャアフターストーリー Vol.02 レイナ、ましろ](https://ja.wikipedia.org/wiki/Making*Lovers_激イチャアフターストーリー "wikilink")**    | 谷山さん                                                                                                                       | 早瀬ゆう                                                                         |
+| 9     | 2019年1月25日                                                                                  | **[Sugar\*Style](https://ja.wikipedia.org/wiki/Sugar*Style "wikilink")**                                                   | 谷山さん                                                                                                                       | 岸田ソラ、モーリー                                                                    |
+| 9 FD  | 2019年6月28日                                                                                  | **[Sugar\*Style Music and Happiness Pack](https://ja.wikipedia.org/wiki/Sugar*Style_Music_and_Happiness_Pack "wikilink")** | 谷山さん                                                                                                                       | 岸田ソラ、此ノ花しな                                                                   |
+| 10    | 2020年2月28日                                                                                  | **[HaremKingdom -ハーレムキングダム-](https://ja.wikipedia.org/wiki/HaremKingdom_-ハーレムキングダム- "wikilink")**                          | 谷山さん                                                                                                                       | 早瀬ゆう                                                                         |
+| 10 FD | 2020年9月25日                                                                                  | **[HaremじゃないよKingdom 光&ソフィーヤ&キキ 編](https://ja.wikipedia.org/wiki/HaremKingdom_-ハーレムキングダム- "wikilink")**\[44\]              | 谷山さん                                                                                                                       | 早瀬ゆう                                                                         |
+| 10 FD | 2020年11月27日                                                                                 | **[HaremじゃないよKingdom シャルローネ＆マルー 編](https://ja.wikipedia.org/wiki/HaremKingdom_-ハーレムキングダム- "wikilink")**\[45\]              | 谷山さん                                                                                                                       | 早瀬ゆう                                                                         |
+|       |                                                                                             |                                                                                                                            |                                                                                                                            |                                                                              |
 
   - ASa Project
 
@@ -122,9 +125,9 @@ HD版は省略する。
 ### 現スタッフ
 
   - 企画、プロデュース
-      - 亜佐美晶\[44\] - 創立メンバー 現HOOKSOFT代表\[45\]。
-      - 山根呂兵\[46\] - 創立メンバー グラフィックチーフ\[47\]。『Strawberry Nauts』より監修担当。
-      - 宅本うと\[48\] - 姓の読みは「やかもと」\[49\]。『天紡ぐ祝詞』より参加。SMEEでプロデュース・監修担当。
+      - 亜佐美晶\[46\] - 創立メンバー 現HOOKSOFT代表\[47\]。
+      - 山根呂兵\[48\] - 創立メンバー グラフィックチーフ\[49\]。『Strawberry Nauts』より監修担当。
+      - 宅本うと\[50\] - 姓の読みは「やかもと」\[51\]。『天紡ぐ祝詞』より参加。SMEEでプロデュース・監修担当。
       - ELMA - 『SuGirly Wish』より監修担当。
 
 <!-- end list -->
@@ -136,11 +139,11 @@ HD版は省略する。
 <!-- end list -->
 
   - 原画
-      - [松下まかこ](https://ja.wikipedia.org/wiki/松下まかこ "wikilink")\[50\] - 『LikeLife』より担当。元「[FILM-SOFTWARE](https://ja.wikipedia.org/wiki/FILM-SOFTWARE "wikilink")」。
+      - [松下まかこ](https://ja.wikipedia.org/wiki/松下まかこ "wikilink")\[52\] - 『LikeLife』より担当。元「[FILM-SOFTWARE](https://ja.wikipedia.org/wiki/FILM-SOFTWARE "wikilink")」。
       - [桜はんぺん](https://ja.wikipedia.org/wiki/桜はんぺん "wikilink") - 外注。『さくらビットマップ』以降のHOOKSOFT作品。
       - [ひなたもも](https://ja.wikipedia.org/wiki/ひなたもも "wikilink") - 外注。『晴れハレはーれむ』および『ラブラブル』以降のSMEE作品。
       - [あめとゆき](https://ja.wikipedia.org/wiki/あめとゆき "wikilink") - 外注。『ラブラブル』以降のSMEE作品。
-      - らっこ\[51\] - 『LikeLife』より担当。元「FILM-SOFTWARE」スタッフで、2010年に退社してフリーになった後もHOOKSOFTの原画を担当（『Sugirly Wish』・『LOVELY QUEST』）を続けていた。だが、2013年7月に「14thProject」にあたる『MeltyMoment』をもって業界から完全に引退した。\[52\]\[53\]
+      - らっこ\[53\] - 『LikeLife』より担当。元「FILM-SOFTWARE」スタッフで、2010年に退社してフリーになった後もHOOKSOFTの原画を担当（『Sugirly Wish』・『LOVELY QUEST』）を続けていた。だが、2013年7月に「14thProject」にあたる『MeltyMoment』をもって業界から完全に引退した。\[54\]\[55\]
       - 羽鳥ぴよこ - 外注。『Strawberry Nauts』以降のHOOKSOFT作品。
       - 鈴平ひろ - 外注。『さくらビットマップ』『トラベリングスターズ』のみ担当
       - その他
@@ -152,18 +155,18 @@ HD版は省略する。
 <!-- end list -->
 
   - グラフィック
-      - 真海\[54\]
-      - みつき\[55\]
+      - 真海\[56\]
+      - みつき\[57\]
 
 <!-- end list -->
 
   - デバッグ・編集
-      - VII\[56\] - 『天紡ぐ祝詞』より参加し、「OrangePocket」で正スタッフ。
+      - VII\[58\] - 『天紡ぐ祝詞』より参加し、「OrangePocket」で正スタッフ。
 
 <!-- end list -->
 
   - スクリプト・編集
-      - 黒木ノア\[57\] - 「システムスクリプト」・「スクリプト統括」などでクレジットされることもあり。
+      - 黒木ノア\[59\] - 「システムスクリプト」・「スクリプト統括」などでクレジットされることもあり。
 
 <!-- end list -->
 
@@ -174,6 +177,7 @@ HD版は省略する。
 
   - 広報
       - 伊藤直子 - 2009年から参加。
+      - 飴乃あめ - 2020年3月から参加。\[60\]
 
 ### 旧スタッフ
 
@@ -183,7 +187,7 @@ HD版は省略する。
 <!-- end list -->
 
   - シナリオ
-      - 川波無人\[58\] - 創立メンバー。2010年に退社して現在フリー。
+      - 川波無人\[61\] - 創立メンバー。2010年に退社して現在フリー。
       - 雪仁 - 外注。『さくらビットマップ』より『Strawberry Nauts』までシナリオ担当。その後主宰サークルで独立し[SMILE（スミレ）を立ち上げる](https://ja.wikipedia.org/wiki/スミレ_\(ゲームブランド\) "wikilink")。
 
 <!-- end list -->
@@ -195,7 +199,7 @@ HD版は省略する。
 <!-- end list -->
 
   - デザイン
-      - kei\[59\] - 創立メンバー HOOKSOFTブランドの原画をプロデュースしている。女性原画家の繊細なタッチに拘りを持っている。2013年10月末付けで退社。
+      - kei\[62\] - 創立メンバー HOOKSOFTブランドの原画をプロデュースしている。女性原画家の繊細なタッチに拘りを持っている。2013年10月末付けで退社。
 
 ## 脚注
 
@@ -278,3 +282,6 @@ HD版は省略する。
 57.
 58.
 59.
+60.
+61.
+62.

@@ -86,4 +86,4 @@
 
   - [福島テレビ](http://www.fukushima-tv.co.jp/)
 
-[Category:福島テレビ番組](https://ja.wikipedia.org/wiki/Category:福島テレビ番組 "wikilink") [Category:東北地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:東北地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:東北地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの情報・ワイドショー番組 "wikilink") [Category:東北地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの帯番組 "wikilink") [Category:FNNスーパーニュース](https://ja.wikipedia.org/wiki/Category:FNNスーパーニュース "wikilink") [Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink")
+[Category:福島テレビの番組](https://ja.wikipedia.org/wiki/Category:福島テレビの番組 "wikilink") [Category:東北地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:東北地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:東北地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの情報・ワイドショー番組 "wikilink") [Category:東北地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの帯番組 "wikilink") [Category:FNNスーパーニュース](https://ja.wikipedia.org/wiki/Category:FNNスーパーニュース "wikilink") [Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink")

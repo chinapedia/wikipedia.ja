@@ -27,6 +27,8 @@
 
 2019年10月、[フィアット・クライスラー・オートモービルズ](https://ja.wikipedia.org/wiki/フィアット・クライスラー・オートモービルズ "wikilink")（FCA）と経営統合することを発表し、双方の創業家と東風とフランス政府は7年間出資することで合意した\[8\]。
 
+2020年7月15日、新たな企業グループの名称を「ステランティス」(STELLANTIS)にすることを発表した。\[9\]
+
 ### 日本での事業
 
 ## 事業・グループ各社
@@ -132,3 +134,4 @@
 6.
 7.
 8.
+9.   Media Groupe PSA|url=[https://media.groupe-psa.com/en/stellantis-name-new-group-resulting-merger-fca-and-groupe-psa|website=media.groupe-psa.com|accessdate=2020-08-09](https://media.groupe-psa.com/en/stellantis-name-new-group-resulting-merger-fca-and-groupe-psa%7Cwebsite=media.groupe-psa.com%7Caccessdate=2020-08-09)}}

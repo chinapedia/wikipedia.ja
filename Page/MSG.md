@@ -23,7 +23,7 @@
   - [エム・エス・ジー](https://ja.wikipedia.org/wiki/MSG_\(日本のロックバンド\) "wikilink") (**M**ickey **S**hoe **G**o-To) - 日本のロックバンド
   - [マイケル・シェンカー・グループ](../Page/マイケル・シェンカー・グループ.md "wikilink") (**M**ichael **S**chenker **G**roup) - ドイツのロックバンド。マッコーリー・シェンカー・グループ（**M**cAuley **S**chenker **G**roup）と名乗ったこともある。
   - [機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink") (**M**obile **S**uit **G**undam) - 日本のアニメ作品、およびそのシリーズ、もしくはその登場ロボット。
-  - [水樹奈々 スマイル・ギャング](../Page/水樹奈々_スマイル・ギャング.md "wikilink") (**M**izuki Nana **S**mile **G**ang) - 日本のラジオ番組。
+  - [水樹奈々 スマイルギャング](../Page/水樹奈々_スマイルギャング.md "wikilink") (**M**izuki Nana **S**mile **G**ang) - 日本のラジオ番組。
 
 <!-- end list -->
 

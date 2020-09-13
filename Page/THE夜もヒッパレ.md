@@ -15,7 +15,9 @@
 
 ## 内容
 
-毎週、[邦楽](../Page/邦楽.md "wikilink")トップ10にランクインされた楽曲を出演者がカラオケ形式で歌う形で番組が進められ、順位はCD売上・カラオケ・有線放送・番組へのはがきリクエストから集計していた。（得点は未発表となっていた｡）
+毎週、[邦楽](../Page/邦楽.md "wikilink")トップ10にランクインされた楽曲を出演者がカラオケ形式で歌う形で番組が進められた。出演者本人の曲がランクインしている場合でも、原則本人以外の出演者が歌う（一部分だけ本人が歌うことはある）。
+
+順位はCD売上・カラオケ・有線放送・番組へのはがきリクエストから集計していた。なお、得点は未発表となっていた｡
 
 ランキングは、[ボード回転（いわゆる「パタパタ」）で発表しており](../Page/反転フラップ式案内表示機.md "wikilink")、進行役の赤坂が[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")として曲紹介を行って、その曲を歌う出演者の名前（「Ladies and gentlemen、（Mr./Mrs./Miss）下の名前+名字）と紹介してから出演者の歌唱がスタート\[1\]。歌唱終了後、雛壇に座るレギュラー陣及び歌唱が終了しているゲストが[スタンディングオベーション](../Page/スタンディングオベーション.md "wikilink")で招き入れ、楽曲の感想や近況を語る。その間に適宜赤坂が割込み、次曲紹介やコーナーチェンジをする、という構成だった。
 
@@ -48,15 +50,15 @@
 
 <!-- end list -->
 
-  -   - **[赤坂泰彦](../Page/赤坂泰彦.md "wikilink")**（1995.4 - 2002.9.21）
-      - 初代：**[マルシア](../Page/マルシア.md "wikilink")**（1995.4 - 1997.4、出産のため休業）
-          - 代理司会：[西田ひかる](../Page/西田ひかる.md "wikilink")・[森口博子](../Page/森口博子.md "wikilink")・[松本明子](../Page/松本明子.md "wikilink")の交代制（1997.5 - 9）→マルシア復帰後も舞台出演などの関係から、西田・マルシア・松本・[ともさかりえ](https://ja.wikipedia.org/wiki/ともさかりえ "wikilink")による交代制を継続。（1997.10 - 1998.12）
-      - 2代目：[酒井法子](https://ja.wikipedia.org/wiki/酒井法子 "wikilink")（1999.1 - 3、3カ月限定でMCを担当）
-      - 3代目：[工藤静香](../Page/工藤静香.md "wikilink")（1999.4 - 6、3カ月限定でMCを担当）
-      - 4代目：[NOKKO](../Page/NOKKO.md "wikilink")（1999.6 - 9、3カ月限定でMCを担当）
-      - 5代目：[中村江里子](../Page/中村江里子.md "wikilink")（1999.10 - 2000.9、結婚のため降板）
-      - 6代目：[柴田倫世](../Page/柴田倫世.md "wikilink")（2000.10 - 2001.12）
-      - 7代目：[米倉涼子](https://ja.wikipedia.org/wiki/米倉涼子 "wikilink")（2002.1 - 9.21）
+  - **[赤坂泰彦](../Page/赤坂泰彦.md "wikilink")**（1995.4 - 2002.9.21）
+  - **[マルシア](../Page/マルシア.md "wikilink")**（1995.4 - 1997.4、出産のため休業）
+      - 代理司会：[西田ひかる](../Page/西田ひかる.md "wikilink")・[森口博子](../Page/森口博子.md "wikilink")・[松本明子](../Page/松本明子.md "wikilink")の交代制（1997.5 - 9）→マルシア復帰後も舞台出演などの関係から、西田・マルシア・松本・[ともさかりえ](https://ja.wikipedia.org/wiki/ともさかりえ "wikilink")による交代制を継続。（1997.10 - 1998.12）
+  - [酒井法子](https://ja.wikipedia.org/wiki/酒井法子 "wikilink")（1999.1 - 3、3カ月限定でMCを担当）
+  - [工藤静香](../Page/工藤静香.md "wikilink")（1999.4 - 6、3カ月限定でMCを担当）
+  - [NOKKO](../Page/NOKKO.md "wikilink")（1999.6 - 9、3カ月限定でMCを担当）
+  - [中村江里子](../Page/中村江里子.md "wikilink")（1999.10 - 2000.9、結婚のため降板）
+  - [柴田倫世](../Page/柴田倫世.md "wikilink")（2000.10 - 2001.12、当時日本テレビアナウンサー）
+  - [米倉涼子](https://ja.wikipedia.org/wiki/米倉涼子 "wikilink")（2002.1 - 9.21）
 
 ※三宅・赤坂・マルシアは『夜もヒッパレ』からの続投。
 
@@ -83,6 +85,7 @@
 <tbody>
 <tr class="odd">
 <td><ul>
+<li><a href="../Page/赤坂晃.md" title="wikilink">赤坂晃</a></li>
 <li><a href="../Page/麻倉未稀.md" title="wikilink">麻倉未稀</a></li>
 <li><a href="../Page/安達祐実.md" title="wikilink">安達祐実</a></li>
 <li><a href="../Page/嵐_(グループ).md" title="wikilink">嵐</a></li>
@@ -90,6 +93,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/EVE_(歌手グループ)" title="wikilink">EVE</a></li>
 <li><a href="../Page/今田耕司.md" title="wikilink">今田耕司</a></li>
 <li><a href="../Page/岩本恭生.md" title="wikilink">岩本恭生</a></li>
+<li><a href="../Page/内海光司.md" title="wikilink">内海光司</a></li>
 <li><a href="../Page/A*Teens.md" title="wikilink">A*Teens</a></li>
 <li><a href="../Page/S.E.S..md" title="wikilink">S.E.S.</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/風間俊介" title="wikilink">風間俊介</a></li>
@@ -98,7 +102,7 @@
 <li><a href="../Page/大澄賢也.md" title="wikilink">大澄賢也</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/大東めぐみ" title="wikilink">大東めぐみ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/小倉優子" title="wikilink">小倉優子</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/尾崎紀世彦" title="wikilink">尾崎紀世彦</a></li>
+<li><a href="../Page/尾崎紀世彦.md" title="wikilink">尾崎紀世彦</a></li>
 <li><a href="../Page/オナペッツ.md" title="wikilink">オナペッツ</a></li>
 <li><a href="../Page/角田信朗.md" title="wikilink">角田信朗</a></li>
 <li><a href="../Page/加藤明日美.md" title="wikilink">加藤明日美</a></li>
@@ -162,6 +166,7 @@
 <li><a href="../Page/藤井隆.md" title="wikilink">藤井隆</a></li>
 <li><a href="../Page/藤本綾.md" title="wikilink">藤本綾</a></li>
 <li><a href="../Page/藤原竜也.md" title="wikilink">藤原竜也</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/布施明" title="wikilink">布施明</a></li>
 <li><a href="../Page/ベッキー.md" title="wikilink">ベッキー</a></li>
 <li><a href="../Page/辺見えみり.md" title="wikilink">辺見えみり</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/松崎しげる" title="wikilink">松崎しげる</a></li>
@@ -186,8 +191,9 @@
 <li><a href="https://ja.wikipedia.org/wiki/りりィ" title="wikilink">りりィ</a></li>
 <li><a href="../Page/ROLLY.md" title="wikilink">ROLLY</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/和田アキ子" title="wikilink">和田アキ子</a></li>
-<li><a href="../Page/渡辺真知子.md" title="wikilink">渡辺真知子</a>.他</li>
-</ul></td>
+<li><a href="../Page/渡辺真知子.md" title="wikilink">渡辺真知子</a></li>
+</ul>
+<p>他</p></td>
 </tr>
 </tbody>
 </table>

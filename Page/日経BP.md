@@ -1,7 +1,7 @@
 > この記事は[日経BP](https://ja.wikipedia.org/wiki/日経BP)から翻訳されています。
 
 
-**株式会社日経BP**（にっけいビーピー）は、[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[日本経済新聞社](../Page/日本経済新聞社.md "wikilink")（日経）の[子会社](../Page/子会社.md "wikilink")で、[出版社](../Page/出版社.md "wikilink")である。**日経BP社**などと表記される。
+**株式会社日経BP**（にっけいビーピー）は、[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[日本経済新聞社](../Page/日本経済新聞社.md "wikilink")（日経）の[子会社](../Page/子会社.md "wikilink")で、[出版社](../Page/出版社.md "wikilink")である。**日経BP社**などと表記される。2020年4月に、**株式会社日本経済新聞出版社**（にほんけいざいしんぶんしゅっぱんしゃ）を経営統合。
 
 ## 概要
 
@@ -17,9 +17,11 @@
 
 [NBFプラチナタワー](https://ja.wikipedia.org/wiki/NBFプラチナタワー "wikilink")（3～12階）に本社を置いていたが、2017年8月、同じ日経傘下の[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")が、[六本木グランドタワーに移転した跡地の日経虎ノ門別館](https://ja.wikipedia.org/wiki/住友不動産六本木グランドタワー "wikilink")（港区[虎ノ門](../Page/虎ノ門.md "wikilink")）に本社移転した\[1\]。
 
+2020年4月1日に、経営統合した、日本経済新聞出版社は、それまで日本経済新聞社内に置かれていた日本経済新聞社出版局が分離・独立する形で[2007年](../Page/2007年.md "wikilink")1月1日会社設立されたもので、日本経済新聞社100パーセント出資の子会社であり、出版局時代の出版物・機能をそのまま受け継いだ。新聞社の出版部門が分離・独立してできた出版社に[朝日新聞出版](../Page/朝日新聞出版.md "wikilink")、[毎日新聞出版](https://ja.wikipedia.org/wiki/毎日新聞出版 "wikilink")、[産経新聞出版](https://ja.wikipedia.org/wiki/産経新聞出版 "wikilink")がある。上場企業の業績をまとめた季刊誌「日経会社情報」を1979年より発刊し、[東洋経済新報社](../Page/東洋経済新報社.md "wikilink")の「会社四季報」と人気を二分してきたが、2017年春をもって休刊した。日本経済新聞出版社と日経BPとの経営統合後、「日本経済新聞出版本部」を新設し、日本経済新聞出版社の編集・制作部門を引き継いだ。同本部は新ブランド「日本経済新聞出版」を用いて、書籍を発刊する。ただし発売元は日経ＢＰの市販商品と同様に、日経ＢＰの全額出資会社である日経ＢＰマーケティングとなる\[2\]。日本経済新聞出版本部のオフィスは[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[大手町二丁目](../Page/大手町_\(千代田区\).md "wikilink")2番1号 [新大手町ビル](https://ja.wikipedia.org/wiki/新大手町ビル "wikilink")内にある。ブランドとして日本経済新聞出版を維持し、HPも別個のものであることから独自色が維持されている。
+
 ## 沿革
 
-  - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")4月 [日本経済新聞社](../Page/日本経済新聞社.md "wikilink")と米国[マグロウヒル社の折半出資より](https://ja.wikipedia.org/wiki/S&P_グローバル "wikilink")、**日経マグロウヒル株式会社**を設立
+  - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")4月 [日本経済新聞社](../Page/日本経済新聞社.md "wikilink")と米国[マグロウヒル社の折半出資より](../Page/マグロウヒル・エデュケーション.md "wikilink")、**日経マグロウヒル株式会社**を設立
   - 1969年9月 「日経ビジネス」創刊
   - 1971年4月 「日経エレクトロニクス」創刊
   - 1972年4月 「日経メディカル」創刊
@@ -38,14 +40,22 @@
   - 2001年10月 読者限定Webサイト「日経ビジネス Express」を開設
   - 2005年1月 ネットメディア「Tech-On！」開設
   - 2006年7月 ネットメディア「日経ビジネスオンライン」、「日経パソコン オンライン」、「日経メディカル オンライン」（現・日経メディカル Online）開設
-  - 2008年7月 株式会社日経ホーム出版社と合併\[2\]
+  - 2007年1月 日本経済新聞社内に置かれていた日本経済新聞社出版局が分離・独立する形で、株式会社日本経済新聞出版社が設立。
+  - 2008年7月 株式会社日経ホーム出版社と合併\[3\]
   - 2010年10月 電子書籍書店「日経BPストア」開設
   - 2015年9月 「日経BP総合研究所」を創設
   - 2018年2月 ネットメディア「日経 xTECH」創刊
   - 2018年4月 ネットメディア「日経 xTREND」創刊
   - 2019年1月 ネットメディア「日経ビジネス電子版」創刊
   - 2019年2月 ネットメディア「日経ARIA」、「日経doors」創刊
-  - 2020年4月 日経新聞社グループの株式会社[日本経済新聞出版社](https://ja.wikipedia.org/wiki/日本経済新聞出版社 "wikilink")と合併\[3\]\[4\]。
+  - 2020年4月 株式会社日本経済新聞出版社を吸収合併\[4\]\[5\]。
+
+## 主な出版物
+
+  - [日経文庫](https://ja.wikipedia.org/wiki/日経文庫 "wikilink")
+  - [日経プレミアシリーズ](https://ja.wikipedia.org/wiki/日経プレミアシリーズ "wikilink")
+  - 日経ビジネス人文庫
+  - [日経文芸文庫](https://ja.wikipedia.org/wiki/日経文芸文庫 "wikilink")
 
 ## 雑誌メディア
 
@@ -68,7 +78,7 @@
   - 日経リアルエステート・東京
   - 日経エアロスペース
   - [日経情報ストラテジー](https://ja.wikipedia.org/wiki/日経情報ストラテジー "wikilink")
-  - [日経コミュニケーション](https://ja.wikipedia.org/wiki/日経コミュニケーション "wikilink")\[5\]
+  - [日経コミュニケーション](https://ja.wikipedia.org/wiki/日経コミュニケーション "wikilink")\[6\]
   - [日経レストラン](https://ja.wikipedia.org/wiki/日経レストラン "wikilink")
   - [日経SYSTEMS](https://ja.wikipedia.org/wiki/日経SYSTEMS "wikilink")
   - [日経ソリューションビジネス](https://ja.wikipedia.org/wiki/日経ソリューションビジネス "wikilink")
@@ -79,9 +89,6 @@
   - [日経ビジネスアソシエ](https://ja.wikipedia.org/wiki/日経ビジネスアソシエ "wikilink")
   - 日経おとなのOFF
   - Priv
-
-<!-- end list -->
-
   - REAL SIMPLE JAPAN（リアルシンプルジャパン）
 
 ## ネットメディア
@@ -121,18 +128,16 @@
 ## 外部リンク
 
   - [日経BP社](https://www.nikkeibp.co.jp/)
-
   - [日経BP SHOP](https://shop.nikkeibp.co.jp/front/)
-
-  - [日本経済新聞出版](https://nikkeibook.nikkeibp.co.jp/)
-
+  - [日本経済新聞出版](https://nikkeibook.nikkeibp.co.jp)
   - [日経BP総合研究所](https://www.nikkeibp.co.jp/bpi/)
+  - [日本経済新聞出版本部 事業出版センター](https://nikkeibook.nikkeibp.co.jp/jsc/)
 
-  -
-[Category:日本経済新聞社の関連企業](https://ja.wikipedia.org/wiki/Category:日本経済新聞社の関連企業 "wikilink") [Category:日経BP社](https://ja.wikipedia.org/wiki/Category:日経BP社 "wikilink") [Category:コンピュータに関する出版社](https://ja.wikipedia.org/wiki/Category:コンピュータに関する出版社 "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:1969年設立の企業](https://ja.wikipedia.org/wiki/Category:1969年設立の企業 "wikilink") [Category:虎ノ門](https://ja.wikipedia.org/wiki/Category:虎ノ門 "wikilink")
+[Category:日経BP社](https://ja.wikipedia.org/wiki/Category:日経BP社 "wikilink") [Category:コンピュータに関する出版社](https://ja.wikipedia.org/wiki/Category:コンピュータに関する出版社 "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:1969年設立の企業](https://ja.wikipedia.org/wiki/Category:1969年設立の企業 "wikilink") [Category:虎ノ門](https://ja.wikipedia.org/wiki/Category:虎ノ門 "wikilink") [Category:日本経済新聞社の関連企業](https://ja.wikipedia.org/wiki/Category:日本経済新聞社の関連企業 "wikilink") [Category:日本の出版社](https://ja.wikipedia.org/wiki/Category:日本の出版社 "wikilink") [Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink")
 
 1.
 2.
 3.
 4.
 5.
+6.

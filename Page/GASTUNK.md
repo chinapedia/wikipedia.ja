@@ -1,9 +1,7 @@
 > この記事は[GASTUNK](https://ja.wikipedia.org/wiki/GASTUNK)から翻訳されています。
 
 
-**GASTUNK**（ガスタンク）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。活動スローガンは「**HEARTFUL MELODY**」。元々はハードコアシーンにおける活動が中心であったが、メジャーデビューする頃には、メディアから[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")バンドとして紹介される事が多くなっていったようである。
-
-[X JAPAN](../Page/X_JAPAN.md "wikilink")、[DEAD END](../Page/DEAD_END_\(バンド\).md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")、[黒夢](../Page/黒夢.md "wikilink")などのロックバンドが影響を受けたと公言している他、[特撮](../Page/特撮_\(バンド\).md "wikilink")、[COCOBAT](https://ja.wikipedia.org/wiki/COCOBAT "wikilink")、[BALZAC](../Page/BALZAC.md "wikilink")など国内のパンク、メタルバンドに多大な影響を及ぼした。また、BAKIの白塗りやTATSUの華麗なステージ衣装といったように、[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")の走りでもあった。
+**GASTUNK**（ガスタンク）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。活動スローガンは「**HEARTFUL MELODY**」。元々はハードコアシーンにおける活動が中心であったが、[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")と[パンク](../Page/パンク.md "wikilink")が融合したスタイルは当事の[インディーズ](../Page/インディーズ.md "wikilink")シーンにおいて画期的だった。メジャーデビューする頃には、メディアから[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")バンドとして紹介される事が多くなっていった。
 
 ## バンドメンバー
 
@@ -14,7 +12,7 @@
 <!-- end list -->
 
   -
-    本名：磯脇雅彦\[1\]\[2\]。現在は[MOSQUITO SPIRALのボーカルとして活動中](https://ja.wikipedia.org/wiki/MOSQUITO_SPIRAL "wikilink")。また、[反核](https://ja.wikipedia.org/wiki/反核 "wikilink")・[反原発](https://ja.wikipedia.org/wiki/反原発 "wikilink")運動には積極的に参加している。
+    本名：磯脇雅彦\[1\]\[2\]。現在は[MOSQUITO SPIRALのボーカルとして活動中](https://ja.wikipedia.org/wiki/MOSQUITO_SPIRAL "wikilink")。[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")、[パンク](../Page/パンク・ロック.md "wikilink")、[ビジュアル系](https://ja.wikipedia.org/wiki/ビジュアル系 "wikilink")界隈から幅広いリスペクトを受けている。80年代から[ドクターマーチン](../Page/ドクターマーチン.md "wikilink")のブーツにロンジャン、白塗りといういでたち。当時は[ワンレンの黒いロングヘアーだが現在は](https://ja.wikipedia.org/wiki/ワンレングス "wikilink")[スキンヘッド](../Page/スキンヘッド.md "wikilink")。また、[反核](https://ja.wikipedia.org/wiki/反核 "wikilink")・[反原発](https://ja.wikipedia.org/wiki/反原発 "wikilink")運動には積極的に参加している。
 
 <!-- end list -->
 
@@ -23,7 +21,8 @@
 <!-- end list -->
 
   -
-    本名：篠崎辰也（[1966年](../Page/1966年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")生\[3\]）。[マイケル・シェンカー](../Page/マイケル・シェンカー.md "wikilink")を敬愛しており、自身も[フライングV](https://ja.wikipedia.org/wiki/フライングV "wikilink")をメインに使用している。2009年6月、元[COLORの](../Page/COLOR_\(ロックバンド\).md "wikilink")[DYNAMITE TOMMY](https://ja.wikipedia.org/wiki/DYNAMITE_TOMMY "wikilink")、元[X](../Page/X_JAPAN.md "wikilink")（現X JAPAN）の[TAIJI](https://ja.wikipedia.org/wiki/TAIJI "wikilink")、元[かまいたちのKENZIと](../Page/かまいたち_\(バンド\).md "wikilink")[THE KILLING RED ADDICTION.](http://www.myspace.com/thekillingredaddiction)としての活動を開始するも、TAIJIの死去により活動停止中。
+    本名：篠崎辰也（[1966年](../Page/1966年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")生\[3\]）。[マイケル・シェンカー](../Page/マイケル・シェンカー.md "wikilink")を敬愛しており、自身も[ギブソン](../Page/ギブソン.md "wikilink")[フライングV](https://ja.wikipedia.org/wiki/フライングV "wikilink")（[フロイドローズ](https://ja.wikipedia.org/wiki/フロイドローズ "wikilink")ブリッジ）をメインに使用している。[FERNANDES](../Page/フェルナンデス_\(楽器メーカー\).md "wikilink") [BurnyブランドからシグネチャーモデルFV](../Page/バーニー_\(楽器\).md "wikilink")-160GTも発売していた。
+    2009年6月、元[COLORの](../Page/COLOR_\(ロックバンド\).md "wikilink")[DYNAMITE TOMMY](https://ja.wikipedia.org/wiki/DYNAMITE_TOMMY "wikilink")、元[X](../Page/X_JAPAN.md "wikilink")（現X JAPAN）の[TAIJI](https://ja.wikipedia.org/wiki/TAIJI "wikilink")、元[かまいたちのKENZIと](../Page/かまいたち_\(バンド\).md "wikilink")[THE KILLING RED ADDICTION.](http://www.myspace.com/thekillingredaddiction)としての活動を開始するも、TAIJIの死去により活動停止中。
     2013年1月にACID HEADよりソロアルバム“SOMEBODY KILL ME”をリリース。そして、Dr PAZZ(GASTUNK)、Ba WILD BEARのスリーピースでソロプロジェクトを結成した。3月に下北沢CLUB251にて30周年記念イベント“ELECTRIC CRAZYVo.1”を行った。同年の8月にメンバーチェンジ、Ba COOL JOE(DEAD END)、Dr 田村 圭(THE JACKS etc..)を迎える。後に2014年“THE DEADROCKS”となる。現在もTHE DEADROCKSでLIVE活動中。
 
 <!-- end list -->
@@ -35,23 +34,23 @@
   -
     [KISSの](../Page/キッス.md "wikilink")[ジーン・シモンズに強い影響をうけて](../Page/ジーン・シモンズ_\(ミュージシャン\).md "wikilink")、本格的にベースを始める。GASTUNK解散後は[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")に滞在、その中で[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")に目覚める。帰国後の1993年にレゲエバンド The Highest Regionを結成、現在も活動している。GASTUNK以外では"HIRO"名義で活動することも。なお、シングル「VANISHING SIGNS」では"BABE"、ライブビデオ「SMASH THE WALL」では"J.HEROKAWA"（[DOOMのドラマーであった広川錠一の名前をもじったものと思われる](../Page/Doom_\(日本のバンド\).md "wikilink")）とクレジットされている。2018年にDUB MACHINE-GUNS RECORDSを発足させRAS BABYHIRO名義でボーカル曲をリリースしている。
 
-<!-- end list -->
+### 過去に在籍していたメンバー
 
   - **PAZZ（Shigeru♥K）**（[ドラム](../Page/ドラムセット.md "wikilink")） ex.[Z.O.A](https://ja.wikipedia.org/wiki/Z.O.A "wikilink")、[DOOM](../Page/Doom_\(日本のバンド\).md "wikilink")、クオーターゲート、[Shell Shock](http://www.revontuletrecords.com/shellshock/)
 
 <!-- end list -->
 
   -
-    1986年、GASTUNKに加入。名前の由来は「PUNK+JAZZ=PAZZ」と加入当時の雑誌インタビューで語っている（学生時代はJAZZドラマーをやっていた）。解散以前の作品では"PAZZ"とクレジットされなかった事もあった（"Shigeru Kobayashi"等）。現在は大村（ex.SUNKING）と[I love you... OK?というバンドで活動中](https://ja.wikipedia.org/wiki/I_love_you..._OK? "wikilink")。また、[明治通り沿いにある](../Page/明治通り_\(東京都\).md "wikilink")[長浜ラーメン](https://ja.wikipedia.org/wiki/長浜ラーメン "wikilink")屋「御天」で働いていた時期があり、[なんでんかんでんの](../Page/なんでんかんでんフーズ.md "wikilink")[川原ひろし](../Page/川原ひろし.md "wikilink")とは博多時代に同じ店舗で修行していたというが、川原社長は一度もラーメン店では働いたことはない。\[4\]。2009年に独立して自身のラーメン店を[浅草橋](../Page/浅草橋.md "wikilink")付近にオープンさせているが、2011年8月には店舗を脱退している模様\[5\]。
+    1986年、GASTUNKに加入。名前の由来は「PUNK+JAZZ=PAZZ」と加入当時の雑誌インタビューで語っている（学生時代はJAZZドラマーをやっていた）。解散以前の作品では"PAZZ"とクレジットされなかった事もあった（"Shigeru Kobayashi"等）。現在は大村（ex.SUNKING）と[I love you... OK?というバンドで活動中](https://ja.wikipedia.org/wiki/I_love_you..._OK? "wikilink")。また、[明治通り沿いにある](../Page/明治通り_\(東京都\).md "wikilink")[長浜ラーメン](https://ja.wikipedia.org/wiki/長浜ラーメン "wikilink")屋「御天」で働いていた時期があり、[なんでんかんでんの](../Page/なんでんかんでんフーズ.md "wikilink")[川原ひろし](../Page/川原ひろし.md "wikilink")とは博多時代に同じ店舗で修行していたというが、川原社長は一度もラーメン店では働いたことはない\[4\]。2009年に独立して自身のラーメン店を[浅草橋](../Page/浅草橋.md "wikilink")付近にオープンさせているが、2011年8月には店舗を脱退している模様\[5\]。 2019年9月1日付けで公式ホームページにてPAZZの脱退が発表された
 
-### 過去に在籍していたメンバー
+<!-- end list -->
 
   - **MATSUMURA（Y.MATSUMURA）**（ドラム） ex.[THE COMES](https://ja.wikipedia.org/wiki/THE_COMES "wikilink")
 
 <!-- end list -->
 
   -
-    [日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")にて行われた「INDIES FESTIVAL 1986」のライヴを最後に脱退。
+    1986年、[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")にて行われた「INDIES FESTIVAL 1986」のライヴを最後に脱退。
 
 <!-- end list -->
 
@@ -119,7 +118,7 @@
   - 3月、全国ツアー「PSYCHO ENERGY EXPRESS TOUR」を敢行。
   - 6月、2ndアルバム「UNDER THE SUN」を発表する。スリーブイラストは、[横尾忠則](../Page/横尾忠則.md "wikilink")が担当し、話題となった。日比谷野外音楽堂にて行われた「INDIES FESTIVAL 1987」に参加。オーディエンスの異様な盛り上がりにより、ライブが中止寸前。この緊迫した模様は、ビデオ「INDIES FESTIVAL 1987」で確認できる。また、この時期に全国ツアー「UNDER THE SUN TOUR」を敢行。
   - 11月、2ndアルバム「UNDER THE SUN」の収録曲全てをリミックスしたアルバム「UNDER THE SUN U.S.MIX」をアメリカ、ヨーロッパで発表し、海外進出。スリーブデザインは、[METALLICA](https://ja.wikipedia.org/wiki/METALLICA "wikilink")のスリーブを担当していた[PUSHEADが描いた](https://ja.wikipedia.org/wiki/w:Pushead "wikilink")、メルティングBAKI。
-  - 12月末、[目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink")にて2DAYSのライブを行う。
+  - 12月末、[目黒鹿鳴館](../Page/目黒鹿鳴館.md "wikilink")にて2DAYSのライブを行う。
 
 <!-- end list -->
 
@@ -164,6 +163,10 @@
   - 3月22日には「四鬼夜行 －三喰－」に参加し、[DEAD END](../Page/DEAD_END_\(バンド\).md "wikilink") / [Pay money To my Pain](../Page/Pay_money_To_my_Pain.md "wikilink") / [COCOBAT](https://ja.wikipedia.org/wiki/COCOBAT "wikilink")と激突。
   - 6月9日 実に22年ぶりとなるニューシングル「DEADMAN'S FACE」 が発売される。
   - 10月、「GASTUNK ARISE AGAIN TOUR "DEEP"」開始。11月にはライブDVD「ARISE AGAIN TOUR_2010」をリリース。
+
+## 影響
+
+[X JAPAN](../Page/X_JAPAN.md "wikilink")、[DEAD END](../Page/DEAD_END_\(バンド\).md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")、[黒夢](../Page/黒夢.md "wikilink")などのロックバンドが影響を受けたと公言している他、[特撮](../Page/特撮_\(バンド\).md "wikilink")、[COCOBAT](https://ja.wikipedia.org/wiki/COCOBAT "wikilink")、[BALZAC](../Page/BALZAC.md "wikilink")など国内のパンク、メタルバンドに多大な影響を及ぼした。
 
 ## ディスコグラフィ
 

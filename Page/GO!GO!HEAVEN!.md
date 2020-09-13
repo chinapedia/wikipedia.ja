@@ -36,6 +36,9 @@
   - アヤ (HN) / 澤村文：[いとうあいこ](../Page/いとうあいこ.md "wikilink")
   - ミカエル (HN) / かずよ：[阿井莉沙](../Page/阿井莉沙.md "wikilink")
   - 卑弥呼 (HN) / ひぐちきみこ：[川合千春](../Page/川合千春.md "wikilink")
+  - マーチン張本：[半海一晃](../Page/半海一晃.md "wikilink")
+  - 萩野龍太郎：[森次晃嗣](../Page/森次晃嗣.md "wikilink")
+  - 矢沢：[岡本健一](../Page/岡本健一.md "wikilink")
 
 ### 制作スタッフ
 

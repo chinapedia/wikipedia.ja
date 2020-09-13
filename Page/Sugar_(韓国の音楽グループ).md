@@ -19,7 +19,7 @@
   - **Sae Byul**（セビョル） → **Hye Seung**（ヘスン）
       - ユク・ヘスン（<span lang="ko">육혜승</span>）
       - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")[ソウル出身](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")。
-      - 特技は[バドミントン](../Page/バドミントン.md "wikilink")。[血液型はAB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+      - 特技は[バドミントン](../Page/バドミントン.md "wikilink")。[血液型はAB型](../Page/ABO式血液型.md "wikilink")。
       - [韓国](../Page/大韓民国.md "wikilink")1集時には**Sae Byul**（セビョル、<span lang="ko">새별</span>）の名で活動した。
       - Sugar解散後、**ハン・イェウォン**(<span lang="ko">한예원</span>)に名を変更して女優転身。ドラマ「[オンエアー](../Page/オンエアー_\(テレビドラマ\).md "wikilink")」などに出演。
 
@@ -27,7 +27,7 @@
 
   - **Haleen**（ハリン）
       - イ・ハリン（<span lang="ko">이하린</span>）
-      - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[9月8日](../Page/9月8日.md "wikilink")[京畿道](../Page/京畿道.md "wikilink")出身。[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+      - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[9月8日](../Page/9月8日.md "wikilink")[京畿道](../Page/京畿道.md "wikilink")出身。[血液型はB型](../Page/ABO式血液型.md "wikilink")。
       - [2004年](../Page/2004年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")加入。
       - Sugar解散後、女優転身。
       - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月15日](../Page/6月15日.md "wikilink")デジタルシングル「속마음(本音)」を発売。
@@ -36,7 +36,7 @@
 
   - **[Jung Eum](https://ja.wikipedia.org/wiki/ファン・ジョンウム "wikilink")**（ジョンウム）
       - ファン・ジョンウム（<span lang="ko">황정음</span>）
-      - [1984年](../Page/1984年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")ソウル出身。[血液型はO型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+      - [1984年](../Page/1984年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")ソウル出身。[血液型はO型](../Page/ABO式血液型.md "wikilink")。
       - デビュー当時のリーダー。
       - [2004年](../Page/2004年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")卒業。
       - 脱退後、女優転身。ドラマ『[フルハウスTAKE2](https://ja.wikipedia.org/wiki/フルハウスTAKE2 "wikilink")』などに出演。

@@ -1,7 +1,7 @@
 > この記事は[KATSUMI](https://ja.wikipedia.org/wiki/KATSUMI)から翻訳されています。
 
 
-**KATSUMI**（かつみ、[1965年](../Page/1965年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink") - ）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。[茨城県](../Page/茨城県.md "wikilink")[日立市](../Page/日立市.md "wikilink")出身。[血液型はAB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。本名は**渡辺 克巳**（わたなべ かつみ）で、作品名義に著している。
+**KATSUMI**（かつみ、[1965年](../Page/1965年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink") - ）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。[茨城県](../Page/茨城県.md "wikilink")[日立市](../Page/日立市.md "wikilink")出身。[血液型はAB型](../Page/ABO式血液型.md "wikilink")。本名は**渡辺 克巳**（わたなべ かつみ）で、作品名義に著している。
 
 ## 来歴
 
@@ -728,7 +728,7 @@ MUSIC JAPAN TV系『BREAK TV』エンディングテーマ</p></td>
   -
   - [KATSUMIオフィシャルブログ『「Seeds of Love」』powered by Ameba](https://ameblo.jp/katsumi-official/)（2011年3月9日 - 、[アメーバブログ](../Page/アメーバブログ.md "wikilink")）
 
-[Category:日本のシンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本のシンガーソングライター "wikilink") [Category:日本のポップ歌手](https://ja.wikipedia.org/wiki/Category:日本のポップ歌手 "wikilink") [Category:NBCユニバーサル・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:NBCユニバーサル・ジャパンのアーティスト "wikilink") [Category:茨城県出身の人物](https://ja.wikipedia.org/wiki/Category:茨城県出身の人物 "wikilink") [Category:1965年生](https://ja.wikipedia.org/wiki/Category:1965年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:ビクターミュージックアーツ](https://ja.wikipedia.org/wiki/Category:ビクターミュージックアーツ "wikilink")
+[Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:日本の男性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ポップ歌手 "wikilink") [Category:NBCユニバーサル・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:NBCユニバーサル・ジャパンのアーティスト "wikilink") [Category:茨城県出身の人物](https://ja.wikipedia.org/wiki/Category:茨城県出身の人物 "wikilink") [Category:1965年生](https://ja.wikipedia.org/wiki/Category:1965年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:ビクターミュージックアーツ](https://ja.wikipedia.org/wiki/Category:ビクターミュージックアーツ "wikilink")
 
 1.  [Voices That Care](https://ja.wikipedia.org/wiki/:en:Voices_That_Care "wikilink")
 2.

@@ -22,7 +22,7 @@
   - [A.B.C.](../Page/A.B.C-Z.md "wikilink")\[36\]
   - [伊野尾慧](../Page/伊野尾慧.md "wikilink")\[37\]：車イスの少年\[38\]
   - [玉森裕太](../Page/玉森裕太.md "wikilink")\[39\]：車イスの少年\[40\]
-  - [北山宏光](https://ja.wikipedia.org/wiki/北山宏光 "wikilink")\[41\]、[横尾渉](../Page/横尾渉.md "wikilink")\[42\]、[藤ヶ谷太輔](../Page/藤ヶ谷太輔.md "wikilink")\[43\]、[宮田俊哉](../Page/宮田俊哉.md "wikilink")\[44\]\[45\] 、[二階堂高嗣](https://ja.wikipedia.org/wiki/二階堂高嗣 "wikilink")\[46\]、[千賀健永](../Page/千賀健永.md "wikilink")\[47\]\[48\]、[有岡大貴](https://ja.wikipedia.org/wiki/有岡大貴 "wikilink")\[49\] 、[高木雄也](../Page/高木雄也.md "wikilink")\[50\] 、
+  - [北山宏光](https://ja.wikipedia.org/wiki/北山宏光 "wikilink")\[41\]、[横尾渉](../Page/横尾渉.md "wikilink")\[42\]、[藤ヶ谷太輔](../Page/藤ヶ谷太輔.md "wikilink")\[43\]、[宮田俊哉](../Page/宮田俊哉.md "wikilink")\[44\]\[45\] 、[二階堂高嗣](https://ja.wikipedia.org/wiki/二階堂高嗣 "wikilink")\[46\]、[千賀健永](../Page/千賀健永.md "wikilink")\[47\]\[48\]、[有岡大貴](https://ja.wikipedia.org/wiki/有岡大貴 "wikilink")\[49\] 、[髙木雄也](https://ja.wikipedia.org/wiki/髙木雄也 "wikilink")\[50\] 、
 
 ## DREAM BOY「KAT-TUN&関ジャニ∞編」「タッキー編」
 
@@ -44,7 +44,7 @@
 
 :\* [鈴木ほのか](../Page/鈴木ほのか.md "wikilink")\[71\]
 
-:\* 高木雄也\[72\]、薮宏太、[桐山照史](../Page/桐山照史.md "wikilink")\[73\]、[中間淳太](../Page/中間淳太.md "wikilink")\[74\]、[神山智洋](../Page/神山智洋.md "wikilink")\[75\]
+:\* 髙木雄也\[72\]、薮宏太、[桐山照史](../Page/桐山照史.md "wikilink")\[73\]、[中間淳太](../Page/中間淳太.md "wikilink")\[74\]、[神山智洋](../Page/神山智洋.md "wikilink")\[75\]
 
   -
 
@@ -64,7 +64,7 @@
 
 :\* 鈴木ほのか\[89\]
 
-:\* 高木雄也\[90\]、桐山照史\[91\]、中間淳太\[92\]、神山智洋\[93\]、薮宏太\[94\]
+:\* 髙木雄也\[90\]、桐山照史\[91\]、中間淳太\[92\]、神山智洋\[93\]、薮宏太\[94\]
 
 :\* A.B.C.\[95\]\[96\]
 
@@ -116,7 +116,7 @@
       - [ジョーイ・ティー](https://ja.wikipedia.org/wiki/ジョーイ・ティー "wikilink")\[189\]
       - トミー・真央\[190\]
       - ゴトウ泰観\[191\]
-  - 北山宏光\[192\]、飯田恭平\[193\]、千賀健永\[194\]\[195\]、宮田俊哉\[196\]、横尾渉\[197\]、藤ヶ谷太輔\[198\]\[199\]、玉森裕太\[200\]、二階堂高嗣\[201\]\[202\]、有岡大貴\[203\]、伊野尾慧\[204\]、[山田涼介](https://ja.wikipedia.org/wiki/山田涼介 "wikilink")\[205\]、高木雄也\[206\]、橋本良亮\[207\]、[森本龍太郎](https://ja.wikipedia.org/wiki/森本龍太郎 "wikilink")\[208\]
+  - 北山宏光\[192\]、飯田恭平\[193\]、千賀健永\[194\]\[195\]、宮田俊哉\[196\]、横尾渉\[197\]、藤ヶ谷太輔\[198\]\[199\]、玉森裕太\[200\]、二階堂高嗣\[201\]\[202\]、有岡大貴\[203\]、伊野尾慧\[204\]、[山田涼介](https://ja.wikipedia.org/wiki/山田涼介 "wikilink")\[205\]、髙木雄也\[206\]、橋本良亮\[207\]、[森本龍太郎](https://ja.wikipedia.org/wiki/森本龍太郎 "wikilink")\[208\]
 
 ## DREAM BOYS（2007年）
 
@@ -141,7 +141,7 @@
 
 主演は亀梨和也\[248\]。2008年3月4日 - 3月30日に帝国劇場にて、2008年4月4日 - 4月16日に梅田芸術劇場メインホールにて上演。3月8日夜公演で通算200公演を達成\[249\]。帝国劇場公演では田中聖と[薮宏太](../Page/薮宏太.md "wikilink")がメインキャストをつとめたが\[250\]、大阪公演ではさらに[中田大智](../Page/中田大智.md "wikilink")も加わった\[251\]。亀梨は同時期のテレビドラマ『[1ポンドの福音](https://ja.wikipedia.org/wiki/1ポンドの福音#テレビドラマ "wikilink")』に続くボクサー役。身体が一回り大きくなったため衣装23着すべてを作り直している\[252\]。
 
-従来から続く綱渡りや[空中ブランコ](https://ja.wikipedia.org/wiki/空中ブランコ "wikilink")、フライング演出が大幅に増加して滞空時間が20分となったほか、世界に2台の[輝度](https://ja.wikipedia.org/wiki/輝度 "wikilink")をもつ映像プロジェクターが導入された\[253\]。
+従来から続く綱渡りや[空中ブランコ](../Page/空中ブランコ.md "wikilink")、フライング演出が大幅に増加して滞空時間が20分となったほか、世界に2台の[輝度](https://ja.wikipedia.org/wiki/輝度 "wikilink")をもつ映像プロジェクターが導入された\[253\]。
 
 ### 出演
 
@@ -291,7 +291,7 @@
   - **リカ**\[438\] - [紫吹淳](../Page/紫吹淳.md "wikilink")\[439\]
   - **ショウ**\[440\] - [平野紫耀](https://ja.wikipedia.org/wiki/平野紫耀 "wikilink")\[441\]：ケントの弟。アイドルユニットのメンバー\[442\]。ボクシングに夢中で自分にかまってくれない兄を憎む\[443\]。
   - **レン**\[444\] - [永瀬廉](https://ja.wikipedia.org/wiki/永瀬廉 "wikilink")\[445\]：アイドルユニットのメンバー\[446\]。マダムとリカに情報屋として使われる\[447\]。
-  - **カイト**\[448\] - [高橋海人](https://ja.wikipedia.org/wiki/高橋海人 "wikilink")\[449\]：ユウタを兄のように慕う心臓病の少年。アイドルユニットのメンバー\[450\]。
+  - **カイト**\[448\] - [髙橋海人](https://ja.wikipedia.org/wiki/髙橋海人 "wikilink")\[449\]：ユウタを兄のように慕う心臓病の少年。アイドルユニットのメンバー\[450\]。
   - Snow Man\[451\]
       - 阿部亮平：アイドルユニットのマネージャー\[452\]
       - **イワモト**\[453\] - 岩本照：ケントの仲間。刺される\[454\]。
@@ -363,7 +363,7 @@
 
 上述のように玉森は、従来からパフォーマンス面での評価がほとんどだった本作を、"芝居"の面で観客に印象付けたいと考えていた\[519\]。そのため当初はジャニー喜多川提案の組曲に反対していたという\[520\]。しかし実際に組曲に取り組むことで、セリフではなく歌とダンスで感情を表現する「ミュージカルっぽさ」の良さを感じることができたと玉森は述懐している\[521\]。
 
-また他の出演者として踊り・歌・ローラースケートに特筆したメンバーとして、[Mr.KING](https://ja.wikipedia.org/wiki/Mr.KING "wikilink")の[髙橋海人](https://ja.wikipedia.org/wiki/髙橋海人 "wikilink")、[HiHi Jetの](https://ja.wikipedia.org/wiki/HiHi_Jet "wikilink")[橋本涼](https://ja.wikipedia.org/wiki/橋本涼 "wikilink")、[井上瑞稀](https://ja.wikipedia.org/wiki/井上瑞稀 "wikilink")、[猪狩蒼弥](https://ja.wikipedia.org/wiki/猪狩蒼弥 "wikilink")、[高橋優斗](https://ja.wikipedia.org/wiki/高橋優斗 "wikilink")が集められ、ジャニー喜多川が「[ジャクソン5](../Page/ジャクソン5.md "wikilink")」にかけて命名した公演期間限定ユニット「[Johnnys'5](https://ja.wikipedia.org/wiki/ジャニーズJr.解散グループ_\(2000年以降\)#Johnny's5 "wikilink")」が結成された\[522\]。彼らは劇中で宮田扮する音楽プロデューサーが手掛けるグループ「ジェットボーイズ」として登場し、書き下ろしの新曲「Welcome To My Home Town」を披露した\[523\] 。
+また他の出演者として踊り・歌・ローラースケートに特筆したメンバーとして、[Mr.KING](https://ja.wikipedia.org/wiki/Mr.KING "wikilink")の[髙橋海人](https://ja.wikipedia.org/wiki/髙橋海人 "wikilink")、[HiHi Jetの](https://ja.wikipedia.org/wiki/HiHi_Jet "wikilink")[橋本涼](https://ja.wikipedia.org/wiki/橋本涼 "wikilink")、[井上瑞稀](https://ja.wikipedia.org/wiki/井上瑞稀 "wikilink")、[猪狩蒼弥](https://ja.wikipedia.org/wiki/猪狩蒼弥 "wikilink")、[髙橋優斗](https://ja.wikipedia.org/wiki/髙橋優斗 "wikilink")が集められ、ジャニー喜多川が「[ジャクソン5](../Page/ジャクソン5.md "wikilink")」にかけて命名した公演期間限定ユニット「[Johnnys'5](https://ja.wikipedia.org/wiki/ジャニーズJr.解散グループ_\(2000年以降\)#Johnny's5 "wikilink")」が結成された\[522\]。彼らは劇中で宮田扮する音楽プロデューサーが手掛けるグループ「ジェットボーイズ」として登場し、書き下ろしの新曲「Welcome To My Home Town」を披露した\[523\] 。
 
 2017年9月13日にDVD『DREAM BOYS』が発売され、初週6.2万枚を売上げている\[524\]。
 
@@ -385,8 +385,8 @@
   - **ケント**\[527\] – 千賀健永：チャンプ\[528\]
   - **トシヤ**\[529\] – 宮田俊哉：音楽プロデューサー\[530\]
   - **ジェットボーイズ** – Johnnys'5\[531\]：アイドルユニット\[532\]
-      - **カイト** – [高橋海人](https://ja.wikipedia.org/wiki/高橋海人 "wikilink")：ユウタの弟\[533\]
-      - [橋本涼](https://ja.wikipedia.org/wiki/橋本涼 "wikilink")\[534\]、[井上瑞稀](https://ja.wikipedia.org/wiki/井上瑞稀 "wikilink")\[535\]、[猪狩蒼弥](https://ja.wikipedia.org/wiki/猪狩蒼弥 "wikilink")\[536\]、[高橋優斗](https://ja.wikipedia.org/wiki/高橋優斗 "wikilink")\[537\]
+      - **カイト** – [髙橋海人](https://ja.wikipedia.org/wiki/髙橋海人 "wikilink")：ユウタの弟\[533\]
+      - [橋本涼](https://ja.wikipedia.org/wiki/橋本涼 "wikilink")\[534\]、[井上瑞稀](https://ja.wikipedia.org/wiki/井上瑞稀 "wikilink")\[535\]、[猪狩蒼弥](https://ja.wikipedia.org/wiki/猪狩蒼弥 "wikilink")\[536\]、[髙橋優斗](https://ja.wikipedia.org/wiki/髙橋優斗 "wikilink")\[537\]
   - [Love-tune](https://ja.wikipedia.org/wiki/Love-tune "wikilink")\[538\]
       - **サナダ** – [真田佑馬](https://ja.wikipedia.org/wiki/真田佑馬 "wikilink")\[539\]：悪のキーマン\[540\]
       - **ヤスイ** – [安井謙太郎](https://ja.wikipedia.org/wiki/安井謙太郎 "wikilink")\[541\]：チャンプの取り巻き。ナイフで刺される\[542\]。
@@ -429,7 +429,7 @@
       - 髙橋優斗\[617\]：ユウタの弟\[618\]。
       - 井上瑞稀\[619\]、橋本涼\[620\]、猪狩蒼弥\[621\]、作間龍斗\[622\]\[623\]
   - [美 少年](https://ja.wikipedia.org/wiki/ジャニーズJr.#美_少年 "wikilink")\[624\]
-      - 岩﨑大昇\[625\]：チャンプの1番弟子\[626\]
+      - [岩﨑大昇](../Page/岩﨑大昇.md "wikilink")\[625\]：チャンプの1番弟子\[626\]
       - [佐藤龍我](https://ja.wikipedia.org/wiki/佐藤龍我 "wikilink")\[627\]、藤井直樹\[628\]
   - 7 MEN 侍\[629\]
       - 中村嶺亜\[630\]、佐々木大光\[631\]

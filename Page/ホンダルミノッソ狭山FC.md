@@ -55,20 +55,20 @@
 
   - **[関東サッカーリーグ](../Page/関東サッカーリーグ.md "wikilink")1部：6回**
       - 1992年、1993年、1996年、2001年、2004年、2005年
+      - 準優勝：6回 (1994年、1997年、1998年、1999年、2003年、2006年)　
 
 ### カップ戦
 
   - **[全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")：3回**
       - 2002年、2003年、2004年
-
-　準優勝：2回 (1997年、2001年)
-
+      - 準優勝：2回 (1997年、2001年)
   - **[全国地域リーグ決勝大会](https://ja.wikipedia.org/wiki/全国地域リーグ決勝大会 "wikilink")**
-
-　3位：1回 (1999年)
-　4位：1回 (2004年)
+      - 3位：1回 (1999年)
+      - 4位：1回 (2004年)
 
 ## 歴代所属選手
+
+*[:Category:ホンダルミノッソ狭山FCの選手も参照](https://ja.wikipedia.org/wiki/Category:ホンダルミノッソ狭山FCの選手 "wikilink")*
 
 ### GK
 
@@ -76,6 +76,7 @@
   - [木寺浩一](../Page/木寺浩一.md "wikilink") (1996年‐1997年)
   - [玉田真人](../Page/玉田真人.md "wikilink") (?)
   - [村井智晃](https://ja.wikipedia.org/wiki/村井智晃 "wikilink") (?)：桐光学園高（[第75回全国高校サッカー選手権大会](../Page/第75回全国高等学校サッカー選手権大会.md "wikilink") 大会優秀選手）－東京農業大（2001年ユニバーシアード日本代表候補）
+  - [菊池亨](https://ja.wikipedia.org/wiki/菊池亨 "wikilink") (?)：東京農業大－[SC鳥取](https://ja.wikipedia.org/wiki/SC鳥取 "wikilink")(JFL)
 
 ### DF
 
@@ -84,6 +85,7 @@
   - [西田勝彦](https://ja.wikipedia.org/wiki/西田勝彦（サッカー） "wikilink") (?)：帝京高（[第70回全国高校サッカー選手権大会](https://ja.wikipedia.org/wiki/第70回全国高等学校サッカー選手権大会 "wikilink") 大会優秀選手）－東海大
   - [小川大介](https://ja.wikipedia.org/wiki/小川大介_\(サッカー選手\) "wikilink") (1998年‐2000年)
   - [関根永悟](../Page/関根永悟.md "wikilink") (2000年‐2004年)
+  - [中居剛士](https://ja.wikipedia.org/wiki/中居剛士 "wikilink") (?)：[大宮ユース](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")（[Jサテライトリーグ](../Page/Jサテライトリーグ.md "wikilink")出場）
 
 ### MF
 
@@ -92,15 +94,17 @@
   - [照井真展](https://ja.wikipedia.org/wiki/照井真展 "wikilink") (?)：武南高（[第68回](https://ja.wikipedia.org/wiki/第68回全国高等学校サッカー選手権大会 "wikilink")、[第69回](https://ja.wikipedia.org/wiki/第69回全国高等学校サッカー選手権大会 "wikilink")、[第70回全国高校サッカー選手権大会](https://ja.wikipedia.org/wiki/第70回全国高等学校サッカー選手権大会 "wikilink") 大会優秀選手）－国士舘大
   - [迫田和憲](https://ja.wikipedia.org/wiki/迫田和憲 "wikilink") (?)：滝川第二高－東海大（関東選抜）
   - [伊藤昭朗](https://ja.wikipedia.org/wiki/伊藤昭朗 "wikilink") (?)：大宮東高－[プロフェソール宮崎FC](../Page/プロフェソール宮崎FC.md "wikilink")(JFL)
-  - [本多剛](https://ja.wikipedia.org/wiki/本多剛 "wikilink") (?)：西武台高－専修大－[甲府](https://ja.wikipedia.org/wiki/ヴァンフォーレ甲府 "wikilink")（2003年Jリーグ特別指定選手）
-  - [佐野真一郎](https://ja.wikipedia.org/wiki/佐野真一郎 "wikilink") (?)：[清水ユース](../Page/清水エスパルス.md "wikilink")（清水商業高）－東京農業大（関東選抜）
+  - [本多剛](https://ja.wikipedia.org/wiki/本多剛 "wikilink") (?)：西武台高－専修大－[甲府](https://ja.wikipedia.org/wiki/ヴァンフォーレ甲府 "wikilink")(J2)（2003年Jリーグ特別指定選手）
+  - [佐野真一郎](https://ja.wikipedia.org/wiki/佐野真一郎 "wikilink") (?)：[清水ユース](../Page/清水エスパルス.md "wikilink")（[Jサテライトリーグ](../Page/Jサテライトリーグ.md "wikilink")登録）－東京農業大（関東選抜）
   - [池田光忠](../Page/池田光忠.md "wikilink") (2008年)
+  - [中村吉克](https://ja.wikipedia.org/wiki/中村吉克 "wikilink") (?)：帯広北高－道都大－[栃木SC](../Page/栃木SC.md "wikilink")(JFL)－[ノルブリッツ北海道FC](../Page/ノルブリッツ北海道FC.md "wikilink")([地域](../Page/地域リーグ_\(サッカー\).md "wikilink"))
 
 ### FW
 
   - [長谷川具三](https://ja.wikipedia.org/wiki/長谷川具三 "wikilink") (1992年-1999年)：作新学院高－**狭山**－[栃木SC](../Page/栃木SC.md "wikilink")(JFL)
   - [浦島光雄](https://ja.wikipedia.org/wiki/浦島光雄 "wikilink") (2005年-2006年)
   - [板橋裕也](https://ja.wikipedia.org/wiki/板橋裕也 "wikilink") (2005年-2008年)
+  - [鈴木竜基](https://ja.wikipedia.org/wiki/鈴木竜基 "wikilink") (?)：[浦和ユース](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")（[Jサテライトリーグ](../Page/Jサテライトリーグ.md "wikilink")出場）
 
 ## 関連項目
 

@@ -7,7 +7,7 @@
 
 従来は[フジテレビが](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")11:50から10分間に放送していた『[サンケイテレニュース](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")』であり、関西テレビでも同タイトルで放送していた。この番組が11:30-12:00の30分間に放送枠を拡大し、『FNNニュースレポート11:30』という名称に変更すると同時に関西テレビでは本タイトルでの放送を開始。フジテレビが[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")に同番組のタイトルを『FNNスピーク』に変更した後も、長年この名称で放送してきた。
 
-テーマ音楽やCM前に流されるジングルは、開始当初からフジテレビとは違うものを使用していたが、[1992年](../Page/1992年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")迄の間のみ、『FNNスピーク』と同一のテーマ音楽（作曲：[服部克久](../Page/服部克久.md "wikilink")）が使用されていた。
+テーマ音楽やCM前に流されるジングルは、開始当初からフジテレビとは違うものを使用していたが、[1992年](../Page/1992年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")迄の間のみ、『FNNスピーク』と同一のテーマ音楽（作曲：[服部克久](../Page/服部克久.md "wikilink")）が使用されていた。ただし、こちらはフジテレビ送出分と若干[キーが異なっていた](../Page/調.md "wikilink")。
 
 なお、2005年[4月4日](../Page/4月4日.md "wikilink")の放送分から、番組の名称が『FNNスピーク KTV』に変更となり（のちにKTV表記は外れる）、この番組を放送する全ての[FNN系列局でのタイトルが同一となった](../Page/フジニュースネットワーク.md "wikilink")（ただし、[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")もFNNに加盟しているが、この時間は[クロスネット](https://ja.wikipedia.org/wiki/クロスネット "wikilink")の関係で[テレビ朝日](../Page/テレビ朝日.md "wikilink")の『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』を放送する関係上、『FNNスピーク』の放送は行っていない）。これに関連して、東京からの全国ニュースの挨拶も「**○曜日、お昼のニュースです。**」（一時期司会者の紹介も）とされていたのを「**○月○日、○曜日のスピークです。**」と変更された。
 

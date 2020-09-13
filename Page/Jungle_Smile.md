@@ -3,7 +3,7 @@
 
 **Jungle Smile**（ジャングル スマイル）は、高木郁乃と[吉田ゐさお](../Page/吉田ゐさお.md "wikilink")の二人からなる、日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。2002年をもって活動休止中であるが、後述のとおり断片的な活動は行われている。
 
-Jungle Smileというグループ名には、"殺伐とした[ジャングル](https://ja.wikipedia.org/wiki/ジャングル "wikilink")（のような[都会](https://ja.wikipedia.org/wiki/都会 "wikilink")）でも、いつも[笑顔](https://ja.wikipedia.org/wiki/笑顔 "wikilink")でいられますように…"という高木郁乃の想いが込められている。
+Jungle Smileというグループ名には、"殺伐とした[ジャングル](../Page/ジャングル.md "wikilink")（のような[都会](https://ja.wikipedia.org/wiki/都会 "wikilink")）でも、いつも[笑顔](https://ja.wikipedia.org/wiki/笑顔 "wikilink")でいられますように…"という高木郁乃の想いが込められている。
 
 ## 経歴
 
@@ -116,4 +116,4 @@ Jungle Smileというグループ名には、"殺伐とした[ジャングル](h
   - [ikunov.net](http://www.ikunov.net/)メンバーの高木いくの本人によるページ
   - [高木いくのオフィシャル](https://twitter.com/ikunovs)公式ツイッター
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink")

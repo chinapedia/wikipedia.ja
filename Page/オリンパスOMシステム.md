@@ -1370,14 +1370,14 @@ AET14,25;<br />
 
 [Category:カメラ製品の一覧](https://ja.wikipedia.org/wiki/Category:カメラ製品の一覧 "wikilink") [Category:オリンパスのカメラ](https://ja.wikipedia.org/wiki/Category:オリンパスのカメラ "wikilink")
 
-1.  [米谷美久が語る開発秘話 OM-1～XAシリーズ「最初のオリンパス一眼レフは 本格システム一眼を追求した試作機「MDN」だった」](https://www.olympus.co.jp/brand/museum/lecture/vol2_03/)より
+1.  [米谷美久が語る開発秘話 OM-1～XAシリーズ「最初のオリンパス一眼レフは 本格システム一眼を追求した試作機「MDN」だった」](https://www.olympus.co.jp/technology/museum/camera/lecture/vol2_03/?page=technology_museum)より
 2.  また『一眼レフ戦争とOMの挑戦』 pp. 55, 66 にユニットの組み合わせ例の写真、p. 62 にシステム展開の構想図がある
 3.  『一眼レフ戦争とOMの挑戦』 pp. 67〜
 4.  1990年9月1日付OMシステム価格一覧表
 5.
 6.
 7.  なおモータードライブは従来の**オリンパスOM-1**、**オリンパスOM-2**等と互換性がある
-8.  [米谷美久が語る開発秘話 OM-1～XAシリーズ「開発に対する意欲の源泉は 自らのフィロソフィーにほかならない」](https://www.olympus.co.jp/brand/museum/lecture/vol2_04/)
+8.  [米谷美久が語る開発秘話 OM-1～XAシリーズ「開発に対する意欲の源泉は 自らのフィロソフィーにほかならない」](https://www.olympus.co.jp/technology/museum/camera/lecture/vol2_04/?page=technology_museum)
 9.  OM-30に専用オプションの組み合わせでボディ側制御によるオートフォーカスとなるが、OM-30以外のボディでも、レンズ側制御によるオートフォーカスが可能。
 10. オートフォーカス/パワーフォーカス機種用のレンズには「ズイコー」の名称は使用されず「オリンパスレンズ」で統一されている。
 11. レンズ側にピントリングがないため、マニュアルフォーカスはボディ側からレバー操作(OM-707)もしくはダイヤル操作(OM-101)のカプラー駆動によるパワーフォーカスとなる。

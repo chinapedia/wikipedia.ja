@@ -96,7 +96,7 @@
 
 ### スポスタ鍋企画
 
-他局のドラゴンズ情報番組との差別化を図るためか、比較的バラエティ色に富んだ企画・特集を組むことが多い。 2006年のシーズンオフから行われている企画で、毎回ドラゴンズの選手1人をゲストに呼び、[名古屋市](../Page/名古屋市.md "wikilink")内にある料亭などで鍋を囲みながら様々なエピソードを暴露する。『週刊ドラドラ生放送』時代からのスポンサーである[サッポロビール](../Page/サッポロビール.md "wikilink")がスポンサーに付いている関係から\[10\]、参加者はサッポロビール黒ラベルや[ヱビスビール](../Page/ヱビスビール.md "wikilink")などを飲みながら企画を進める。基本的にこの企画には佐藤啓と川又米利（佐藤降板後の2009年からは尾原秀三と川又）が参加しているが、[立浪和義](https://ja.wikipedia.org/wiki/立浪和義 "wikilink")が出演した2007年12月2日放送分では佐藤と川又は担当から外れ、より立浪との関わりが深い[橋本清](../Page/橋本清.md "wikilink")と[片岡篤史](../Page/片岡篤史.md "wikilink")が代わって担当した。一度新婚当時の[井端弘和](https://ja.wikipedia.org/wiki/井端弘和 "wikilink")宅で収録したことがあり、その際には元[テレビ朝日](../Page/テレビ朝日.md "wikilink")アナウンサーの[明子夫人の手作り鍋を堪能した](https://ja.wikipedia.org/wiki/河野明子 "wikilink")。
+2006年のシーズンオフから行われている企画で、毎回ドラゴンズの選手1人をゲストに呼び、[名古屋市](../Page/名古屋市.md "wikilink")内にある料亭などで鍋を囲みながら様々なエピソードを暴露する。『週刊ドラドラ生放送』時代からのスポンサーである[サッポロビール](../Page/サッポロビール.md "wikilink")がスポンサーに付いている関係から\[10\]、参加者はサッポロビール黒ラベルや[ヱビスビール](../Page/ヱビスビール.md "wikilink")などを飲みながら企画を進める。基本的にこの企画には佐藤啓と川又米利（佐藤降板後の2009年からは尾原秀三と川又）が参加しているが、[立浪和義](https://ja.wikipedia.org/wiki/立浪和義 "wikilink")が出演した2007年12月2日放送分では佐藤と川又は担当から外れ、より立浪との関わりが深い[橋本清](../Page/橋本清.md "wikilink")と[片岡篤史](../Page/片岡篤史.md "wikilink")が代わって担当した。一度新婚当時の[井端弘和](https://ja.wikipedia.org/wiki/井端弘和 "wikilink")宅で収録したことがあり、その際には元[テレビ朝日](../Page/テレビ朝日.md "wikilink")アナウンサーの[明子夫人の手作り鍋を堪能した](https://ja.wikipedia.org/wiki/河野明子 "wikilink")。
 
 <table>
 <thead>
@@ -368,17 +368,11 @@
 
 ## 外部リンク
 
-  - [スポーツスタジアム☆魂：中京テレビ](http://www.ctv.co.jp/sposta/)
+  - [スポーツスタジアム☆魂](https://www.ctv.co.jp/sposta/)
 
   -
   -
-  - [中京テレビ スポーツスタジアム：まいこのここにちゅーもく\!\!](http://www.ctv.co.jp/sposta/maiko/bn.html)
-
-  - [中京テレビ アナウンスルーム 今週のスポットライト 「スポーツスタジアム」大人気企画のロケ現場は…](http://www.ctv.co.jp/announce/2007/spot/0205/index.html)
-
-  - [佐藤啓の「ご歓談ください」：中京テレビ アナウンスルーム » 2009 » 9月 » 20 蔵出し「スポーツスタジアム」この一枚](http://www2.ctv.co.jp/satou/?m=20090920)
-
-[Category:1997年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1997年のテレビ番組_\(日本\) "wikilink") [Category:中京テレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:中京テレビのスポーツ番組 "wikilink") [Category:中京テレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:中京テレビの情報・ワイドショー番組 "wikilink") [Category:ローカルテレビ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の野球番組 "wikilink") [Category:ローカルテレビ局のサッカー番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のサッカー番組 "wikilink") [Category:ボクシングのメディア](https://ja.wikipedia.org/wiki/Category:ボクシングのメディア "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink") [Category:中日ドラゴンズ](https://ja.wikipedia.org/wiki/Category:中日ドラゴンズ "wikilink") [Category:名古屋グランパスエイト](https://ja.wikipedia.org/wiki/Category:名古屋グランパスエイト "wikilink")
+[Category:1997年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1997年のテレビ番組_\(日本\) "wikilink") [Category:中京テレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:中京テレビのスポーツ番組 "wikilink") [Category:中京テレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:中京テレビの情報・ワイドショー番組 "wikilink") [Category:ローカルテレビ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の野球番組 "wikilink") [Category:ローカルテレビ局のサッカー番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のサッカー番組 "wikilink") [Category:ボクシングのメディア](https://ja.wikipedia.org/wiki/Category:ボクシングのメディア "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink") [Category:中日ドラゴンズ](https://ja.wikipedia.org/wiki/Category:中日ドラゴンズ "wikilink") [Category:名古屋グランパスエイト](https://ja.wikipedia.org/wiki/Category:名古屋グランパスエイト "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink") [Category:継続中にタイトルが変更された作品](https://ja.wikipedia.org/wiki/Category:継続中にタイトルが変更された作品 "wikilink")
 
 1.  番組が[Facebook](../Page/Facebook.md "wikilink")で取得しているアカウント名、ならびにキャスターが佐藤啓と前田麻衣子の時代に採用していた番組タイトルロゴより。
 2.

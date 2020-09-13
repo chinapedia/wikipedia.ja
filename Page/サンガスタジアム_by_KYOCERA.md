@@ -231,7 +231,7 @@ Sanga stadium by kyocera03.jpg|北スタンド上段より Sanga stadium by kyoc
 
 [Category:京都府のスポーツ施設](https://ja.wikipedia.org/wiki/Category:京都府のスポーツ施設 "wikilink") [Category:京都サンガF.C.](https://ja.wikipedia.org/wiki/Category:京都サンガF.C. "wikilink")
 
-[Category:関西地方のフットボール専用の球技場](https://ja.wikipedia.org/wiki/Category:関西地方のフットボール専用の球技場 "wikilink") [Category:亀岡市の建築物](https://ja.wikipedia.org/wiki/Category:亀岡市の建築物 "wikilink") [Category:日本の自然保護](https://ja.wikipedia.org/wiki/Category:日本の自然保護 "wikilink")
+[Category:関西地方のフットボール専用の球技場](https://ja.wikipedia.org/wiki/Category:関西地方のフットボール専用の球技場 "wikilink") [Category:亀岡市の建築物](https://ja.wikipedia.org/wiki/Category:亀岡市の建築物 "wikilink") [Category:日本の自然保護](https://ja.wikipedia.org/wiki/Category:日本の自然保護 "wikilink") [Category:Jリーグ公式戦開催競技場](https://ja.wikipedia.org/wiki/Category:Jリーグ公式戦開催競技場 "wikilink") [Category:2020年開設のスポーツ施設](https://ja.wikipedia.org/wiki/Category:2020年開設のスポーツ施設 "wikilink")
 
 1.
 2.   サンガスタジアム by KYOCERA｜京都府立京都スタジアム｜亀岡市 サッカー/京都サンガF.C./クライミング/NHK大河館/ボルダリング/eスポーツ/W杯/ライブ|url=[https://sangastadium-by-kyocera.jp/greeting|website=サンガスタジアム](https://sangastadium-by-kyocera.jp/greeting%7Cwebsite=サンガスタジアム) by KYOCERA｜京都府立京都スタジアム｜亀岡市|accessdate=2020-04-29|language=ja}}

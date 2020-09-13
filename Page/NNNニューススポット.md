@@ -35,7 +35,7 @@ NNN系列のスポットニュース枠として45年にわたり放送された
 
 なお12:00からの情報ワイドショー番組におけるスポットニュースは『おもいッきりテレビ』終了後も『[おもいッきりイイ\!\!テレビ](../Page/おもいッきりイイ!!テレビ.md "wikilink")』（ニュースエスプレッソ）→『[おもいッきりDON\!](https://ja.wikipedia.org/wiki/おもいッきりDON! "wikilink")』（[丸岡キャスターのNEWSエクスプレス](../Page/丸岡いずみ.md "wikilink")）→『[DON\!](https://ja.wikipedia.org/wiki/DON! "wikilink")』（NEWSエクスプレス）→『[ヒルナンデス\!](https://ja.wikipedia.org/wiki/ヒルナンデス! "wikilink")』（NNNニュース）とそれぞれ13:30前後に放送されているので、2つの情報ワイド番組でそれぞれスポットニュースの枠は連続で用意されている）
 
-  - 1972年4月 - 1974年3月　平日13:25 - 13:30\[3\]
+  - 1972年1月 - 1974年3月　平日13:25 - 13:30\[3\]
   - 1974年4月 - 1987年9月　平日13:55 - 14:00\[4\]
   - 1987年10月 - 1988年9月　平日13:50 - 13:55\[5\]
   - 1988年10月 - 1993年4月　平日13:55 - 14:00
@@ -269,7 +269,7 @@ NNN系列のスポットニュース枠として45年にわたり放送された
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a>（JRT）</p></td>
+<td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a>（JRT）</p></td>
 <td><p>NNNニューススポット</p></td>
 <td></td>
 <td></td>
@@ -338,7 +338,7 @@ NNN系列のスポットニュース枠として45年にわたり放送された
 
 ## 四国放送の「ニューススポット」
 
-[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")ホームページの[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")や[新聞](../Page/新聞.md "wikilink")上では、2011年3月31日まで平日15:55からNNNの付かない「ニューススポット」という番組名が見受けられたが、これは系列外にもかかわらずネットしている[テレビ朝日](../Page/テレビ朝日.md "wikilink")の『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』（テレビ朝日では14:55 - 15:00）であり、放送上では「ニューススポット」の表示は出ず、タイトルの差し替えもなく「ANNニュース」のまま遅れネットで放送された。
+[四国放送](../Page/四国放送.md "wikilink")ホームページの[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")や[新聞](../Page/新聞.md "wikilink")上では、2011年3月31日まで平日15:55からNNNの付かない「ニューススポット」という番組名が見受けられたが、これは系列外にもかかわらずネットしている[テレビ朝日](../Page/テレビ朝日.md "wikilink")の『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』（テレビ朝日では14:55 - 15:00）であり、放送上では「ニューススポット」の表示は出ず、タイトルの差し替えもなく「ANNニュース」のまま遅れネットで放送された。
 
 ## 脚注
 
@@ -350,7 +350,7 @@ NNN系列のスポットニュース枠として45年にわたり放送された
 
 ## 外部リンク
 
-  - [日本テレビ](http://www.ntv.co.jp/)
+  - [日本テレビ](https://www.ntv.co.jp/)
   - [日テレNEWS24](http://www.news24.jp/)
 
 [Category:NNN番組の歴史](https://ja.wikipedia.org/wiki/Category:NNN番組の歴史 "wikilink") [Category:日本テレビの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビの帯番組の歴史 "wikilink") [Category:日本テレビのミニ番組](https://ja.wikipedia.org/wiki/Category:日本テレビのミニ番組 "wikilink") [Category:1963年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1963年のテレビ番組_\(日本\) "wikilink")

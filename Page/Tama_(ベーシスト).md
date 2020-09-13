@@ -5,7 +5,7 @@
 
 ## 人物
 
-  - [広島県](../Page/広島県.md "wikilink")[因島市](../Page/因島市.md "wikilink")（現・[尾道市](../Page/尾道市.md "wikilink")）出身。[弓削商船高等専門学校](../Page/弓削商船高等専門学校.md "wikilink")中退（3年次修了、高卒認定有）。[アン・ミュージック・スクール](https://ja.wikipedia.org/wiki/アン・ミュージック・スクール "wikilink")京都校（現・スクール・オブ・[ミュージックプラン](https://ja.wikipedia.org/wiki/ミュージックプラン "wikilink")）卒。
+  - [広島県](../Page/広島県.md "wikilink")[因島市](../Page/因島市.md "wikilink")（現・[尾道市](../Page/尾道市.md "wikilink")）出身。[弓削商船高等専門学校](../Page/弓削商船高等専門学校.md "wikilink")中退（3年次修了、大学入学資格有）。[アン・ミュージック・スクール](https://ja.wikipedia.org/wiki/アン・ミュージック・スクール "wikilink")京都校（現・スクール・オブ・[ミュージックプラン](https://ja.wikipedia.org/wiki/ミュージックプラン "wikilink")）卒。
   - 血液型はO型。身長173cm、体重：64kg。
   - 主に[ベース](../Page/ベース_\(弦楽器\).md "wikilink")（[エレクトリックベース](../Page/エレクトリックベース.md "wikilink")・[コントラバス](../Page/コントラバス.md "wikilink")）、[ギター](../Page/ギター.md "wikilink")を演奏。
   - ポルノグラフィティの[新藤晴一](https://ja.wikipedia.org/wiki/新藤晴一 "wikilink")とは、保育所・小学校・中学校時代の同級生である。

@@ -727,7 +727,7 @@
 
   - [ハイデン・フォックス](../Page/ハイデン・フォックス.md "wikilink") 2002-2005
 
-  - [アルヤン・デ・ゼーヴ](https://ja.wikipedia.org/wiki/アルヤン・デ・ゼーヴ "wikilink") 2002-2005
+  - [アルヤン・デ・ゼーヴ](../Page/アルヤン・デ・ゼーヴ.md "wikilink") 2002-2005
 
   - [エフスタティオス・タヴラリディス](https://ja.wikipedia.org/wiki/エフスタティオス・タヴラリディス "wikilink") 2003
 

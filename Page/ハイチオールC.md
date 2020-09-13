@@ -34,7 +34,7 @@
   - [しみ](https://ja.wikipedia.org/wiki/しみ "wikilink")・[そばかす](https://ja.wikipedia.org/wiki/そばかす "wikilink")･[日焼け](../Page/日焼け.md "wikilink")などの色素沈着症
   - [全身倦怠](https://ja.wikipedia.org/wiki/倦怠感 "wikilink")\[2\]
   - [二日酔い](../Page/二日酔い.md "wikilink")
-  - [にきび](https://ja.wikipedia.org/wiki/にきび "wikilink")、[湿疹](https://ja.wikipedia.org/wiki/湿疹 "wikilink")、[じんましん](https://ja.wikipedia.org/wiki/じんましん "wikilink")、[かぶれ](https://ja.wikipedia.org/wiki/かぶれ "wikilink")、[くすりまけ](https://ja.wikipedia.org/wiki/くすりまけ "wikilink")
+  - [にきび](https://ja.wikipedia.org/wiki/尋常性痤瘡 "wikilink")、[湿疹](https://ja.wikipedia.org/wiki/湿疹 "wikilink")、[じんましん](https://ja.wikipedia.org/wiki/じんましん "wikilink")、[かぶれ](https://ja.wikipedia.org/wiki/かぶれ "wikilink")、[くすりまけ](https://ja.wikipedia.org/wiki/くすりまけ "wikilink")
 
 ## ラインナップ
 

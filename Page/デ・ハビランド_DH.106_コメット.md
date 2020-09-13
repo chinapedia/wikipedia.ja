@@ -63,13 +63,15 @@
 
 [1952年](../Page/1952年.md "wikilink")[5月2日](../Page/5月2日.md "wikilink")に、満を持した初の商用運航が英国海外航空のコメット Mk.I によって[ヒースロー](https://ja.wikipedia.org/wiki/ヒースロー空港 "wikilink") - [ヨハネスブルグ](../Page/ヨハネスブルグ.md "wikilink")（[ローマ](../Page/ローマ.md "wikilink")、[カイロ](../Page/カイロ.md "wikilink")、[ハルツーム](../Page/ハルツーム.md "wikilink")、[エンテベ](https://ja.wikipedia.org/wiki/エンテベ "wikilink")、[リビングストン](https://ja.wikipedia.org/wiki/リビングストン "wikilink")経由）間で行われ、所要時間を一気に半減させてみせた。同年内には5機のコメットMk.Iが完成し、定期運航や試験飛行に使用された。
 
-コメットMk.Iは乗客数は[ダグラス DC-6やロッキード](https://ja.wikipedia.org/wiki/ダグラス_DC-6 "wikilink")・コンステレーションなどの従来のプロペラ機と同等かそれ未満で、航続距離も同様であり、太平洋はおろか大西洋横断路線の無着陸横断も不可能であった。しかし、従来の2倍の速度だけでなく定時発着率の高さも実証され、さらに天候の影響を受けにくい高高度を飛行することや、ピストンエンジンと違い振動も少ないなど快適性もレシプロ機の比ではない事が明らかになり、英国海外航空のみが就航させていた初年度だけで3万人が搭乗する人気を博した。
+コメットMk.Iは乗客数は[ダグラス DC-6やロッキード](https://ja.wikipedia.org/wiki/ダグラス_DC-6 "wikilink")・コンステレーションなどの従来のプロペラ機と同等かそれ未満で、航続距離も同様であり、太平洋はおろか大西洋横断路線の無着陸横断も不可能であった。
+
+しかし、従来の2倍の速度だけでなく定時発着率の高さも実証され、さらに天候の影響を受けにくい高高度を飛行することや、ピストンエンジンと違い振動も少なくスタートまでの時間も短いなど快適性もレシプロ機の比ではない事が明らかになり、英国海外航空のみが就航させていた初年度だけで3万人が搭乗する人気を博した。
 
 ### 運航拡大
 
 [DH_Comet_1_BOAC_Heathrow_1953.jpg](https://ja.wikipedia.org/wiki/File:DH_Comet_1_BOAC_Heathrow_1953.jpg "fig:DH_Comet_1_BOAC_Heathrow_1953.jpg") [Air_France_De_Havilland_DH.106_Comet_1A_(F-BGNX)_at_Hatfield.jpg](https://ja.wikipedia.org/wiki/File:Air_France_De_Havilland_DH.106_Comet_1A_\(F-BGNX\)_at_Hatfield.jpg "fig:Air_France_De_Havilland_DH.106_Comet_1A_(F-BGNX)_at_Hatfield.jpg") 翌[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")には試作2号機が[ファーンボロー国際航空ショー](https://ja.wikipedia.org/wiki/ファーンボロー国際航空ショー "wikilink")で超低空90度[バンク](../Page/バンク.md "wikilink")（[ローリング](../Page/ローリング.md "wikilink")）ターンを決めて見せたほか、[エリザベス王太后らを乗せた招待飛行を行うなど](../Page/エリザベス・ボーズ＝ライアン.md "wikilink")、イギリス航空界はその存在を存分にアピールした。
 
-さらに8月には[南回り航路経由でヒースロー](https://ja.wikipedia.org/wiki/ヨーロッパ航空航路#南回りヨーロッパ線 "wikilink")-[羽田間](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")（[ローマ](../Page/ローマ.md "wikilink")、[カルカッタ](https://ja.wikipedia.org/wiki/カルカッタ "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")など経由）や、ヒースロー-[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")という長距離路線にも定期就航した。第二次世界大戦争中にジェット機の試作と量産開始にまで成功したものの、[占領](../Page/占領.md "wikilink")下で航空機開発の一切を禁じられ、ジェット時代の到来になす術もなくいた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元航空[技術者](../Page/技術者.md "wikilink")たちは、コメットの銀翼と快音に悔しがったと言う。
+さらに8月には[南回り航路経由でヒースロー](https://ja.wikipedia.org/wiki/ヨーロッパ航空航路#南回りヨーロッパ線 "wikilink")-[羽田間](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")（[ローマ](../Page/ローマ.md "wikilink")、[ベイルート](../Page/ベイルート.md "wikilink")、[カラチ](../Page/カラチ.md "wikilink")、[カルカッタ](https://ja.wikipedia.org/wiki/カルカッタ "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")など経由）や、ヒースロー-[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")という長距離路線にも定期就航した。第二次世界大戦中にジェット機の試作と量産開始にまで成功したものの、[占領](../Page/占領.md "wikilink")下で航空機開発の一切を禁じられ、ジェット時代の到来になす術もなくいた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元航空[技術者](../Page/技術者.md "wikilink")たちは、コメットの銀翼と快音に悔しがったと言う。
 
 「[ドル箱](../Page/ドル箱.md "wikilink")路線」の1つであった[大西洋](../Page/大西洋.md "wikilink")横断路線にこそ就航していなかったものの、順次航路を全世界に拡大したのみならず、まもなく[エールフランス](../Page/エールフランス.md "wikilink")や[トランス・カナダ航空](../Page/エア・カナダ.md "wikilink")、UATなどでも運航開始され、懸念された[燃費](../Page/燃費.md "wikilink")も低廉な[ジェット燃料](../Page/ジェット燃料.md "wikilink")と高い満席率で相殺できることがわかり、就航当初の様子見気分は払拭された。また、[イギリス王室](../Page/イギリス王室.md "wikilink")メンバーの海外訪問や[イギリス連邦](../Page/イギリス連邦.md "wikilink")諸国、そして[植民地](../Page/植民地.md "wikilink")訪問にも頻繁に利用され、その威信を内外に誇示した\[2\]。
 
@@ -99,25 +101,41 @@
 
 この[シークエンス](../Page/シークエンス.md "wikilink")が明らかになったことで、その後のジェット旅客機は、[応力](../Page/応力.md "wikilink")の集中する窓などの開口部の角を丸くし、また万一亀裂が生じてもその成長を食い止める[フェイルセーフ](../Page/フェイルセーフ.md "wikilink")構造が採り入れられた。
 
-なお、連続墜落事故発生当時、製造ライン上にあったMk.II は、世界各国の航空会社から受けていた発注を総てキャンセルされたが、胴体構造を変更、強化し、飛行回数を制限した上で、イギリス空軍の[輸送機](../Page/輸送機.md "wikilink")として継続運用され、安全性を実証する傍ら飛行データの収集が続けられた。
+なお、連続墜落事故発生当時、製造ライン上にあったMk.IIは量産型13機が完成した。日本航空やパンアメリカン航空など世界各国の航空会社から受けていた発注を総てキャンセルされたが、胴体構造を変更、強化し、飛行回数を制限した上で、イギリス空軍の[輸送機](../Page/輸送機.md "wikilink")として継続運用され、安全性を実証する傍ら飛行データの収集が続けられた。
 
 ## 再就航
 
 ### Mk.IIIの登場
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:DH106_Comet_3_G-ANLO_FAR_1954.jpg "wikilink") [G-APDC_DH106_Comet_4_G-APFH_B707-436_BOAC_LHR_02SEP63_(6812607529).jpg](https://ja.wikipedia.org/wiki/File:G-APDC_DH106_Comet_4_G-APFH_B707-436_BOAC_LHR_02SEP63_\(6812607529\).jpg "fig:G-APDC_DH106_Comet_4_G-APFH_B707-436_BOAC_LHR_02SEP63_(6812607529).jpg") [G-AROV_DH106_Comet_4C_Dan-Air_MAN_MAY79_(6812605709).jpg](https://ja.wikipedia.org/wiki/File:G-AROV_DH106_Comet_4C_Dan-Air_MAN_MAY79_\(6812605709\).jpg "fig:G-AROV_DH106_Comet_4C_Dan-Air_MAN_MAY79_(6812605709).jpg") 続くMk.IIIは抜本的な改設計を受け、[大西洋横断飛行](../Page/大西洋横断飛行.md "wikilink")が可能なストレッチ版の本格仕様に成長し、[1954年](../Page/1954年.md "wikilink")末に初飛行したものの、同年[367-80](../Page/ボーイング367-80.md "wikilink")（後の[ボーイング707](../Page/ボーイング707.md "wikilink")）を進空させたアメリカの[ボーイング](../Page/ボーイング.md "wikilink")が、自社の新型機が実用化するまでの間、[FAAに政治的圧力を掛けてアメリカの耐空証明の再発行を先延ばしさせ続けさせたとも言われ](../Page/連邦航空局.md "wikilink")、設計着手から10年を経ていたコメットはこの空白期間にリードを失い、陳腐化を余儀なくされてしまった。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:DH106_Comet_3_G-ANLO_FAR_1954.jpg "wikilink") [Mexicana_de_Aviacion_Comet_4C_-_N888WA_(8038234793).jpg](https://ja.wikipedia.org/wiki/File:Mexicana_de_Aviacion_Comet_4C_-_N888WA_\(8038234793\).jpg "fig:Mexicana_de_Aviacion_Comet_4C_-_N888WA_(8038234793).jpg") [G-APDC_DH106_Comet_4_G-APFH_B707-436_BOAC_LHR_02SEP63_(6812607529).jpg](https://ja.wikipedia.org/wiki/File:G-APDC_DH106_Comet_4_G-APFH_B707-436_BOAC_LHR_02SEP63_\(6812607529\).jpg "fig:G-APDC_DH106_Comet_4_G-APFH_B707-436_BOAC_LHR_02SEP63_(6812607529).jpg")
+
+続くMk.IIIはこれらのフィードバックを受けて抜本的な改設計を受け、[大西洋横断飛行](../Page/大西洋横断飛行.md "wikilink")が可能なストレッチ版の本格仕様に成長し、[1954年](../Page/1954年.md "wikilink")末に初飛行し、1機だけ生産された原型機は主にロールス・ロイス社のジェットエンジンの試験機（フライング・テストベッド）として運用された。
+
+しかし同年[367-80](../Page/ボーイング367-80.md "wikilink")（後の[ボーイング707](../Page/ボーイング707.md "wikilink")）を進空させたアメリカの[ボーイング](../Page/ボーイング.md "wikilink")が、自社の新型旅客機が実用化するまでの間、[FAAに政治的圧力を掛けてアメリカの耐空証明の再発行を先延ばしさせ続けさせたとも言われ](../Page/連邦航空局.md "wikilink")、また英国海外航空も1956年にはボーイング707を発注していた\[3\]。
+
+さらにパンアメリカン航空や日本航空、アリタリア航空などの航空会社からはコメットの再発注を得られず、設計着手から10年を経ていたコメットはこの空白期間にリードを失い、陳腐化を余儀なくされてしまった。
+
+### Mk.IVの登場
+
+改良型のMk.IVは、かねてから運航を行っていた英国海外航空に併せて、アルゼンチン航空、ダン・エア、[オリンピック航空](../Page/オリンピック航空.md "wikilink")や[メヒカーナ航空](../Page/メキシカーナ航空.md "wikilink")、[マレーシア・シンガポール航空など多数の航空会社からの発注を受け](https://ja.wikipedia.org/wiki/マレーシア航空 "wikilink")、[1958年](../Page/1958年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")に英国海外航空の手によって漸くロンドン（ヒースロー） - [ニューヨーク](../Page/ニューヨーク.md "wikilink")（アイドルワイルド）間の定期便に再就航した。
 
 ### 競争の激化
 
-改良型のMk.IVは、かねてから運航を行っていた英国海外航空に併せて、アルゼンチン航空、ダン・エア、[オリンピック航空](../Page/オリンピック航空.md "wikilink")や[メヒカーナ航空](../Page/メキシカーナ航空.md "wikilink")、[マレーシア・シンガポール航空など多数の航空会社からの発注を受け](https://ja.wikipedia.org/wiki/マレーシア航空 "wikilink")、[1958年](../Page/1958年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")に英国海外航空の手によって漸くロンドン - [ニューヨーク](../Page/ニューヨーク.md "wikilink")間の定期便に再就航した。
+しかしMk.IVは、わずか1か月弱後に就航したより高速でより大型のボーイング707や、[ダグラス DC-8や](../Page/ダグラス_DC-8.md "wikilink")[コンベア880](../Page/コンベア880.md "wikilink")ら第2世代機との競合に敗退していった。そこで、乗客数の少ない路線にターゲットを絞ったが、皮肉なことにそちらは血縁関係ともいえる中短距離用の[シュド・カラベル](https://ja.wikipedia.org/wiki/シュド・カラベル "wikilink")が好調なセールスとなっていた。
 
-しかしMk.IVは、わずか1か月弱後に就航した、より高速でより大型のボーイング707や[ダグラス DC-8ら第](../Page/ダグラス_DC-8.md "wikilink")2世代機との競合に敗退し、その後英国海外航空までがボーイング707を発注した上に、皮肉なことに、血縁関係ともいえる[シュド・カラベル](https://ja.wikipedia.org/wiki/シュド・カラベル "wikilink")が好調なセールスとなったこと。さらに、[1960年代](../Page/1960年代.md "wikilink")に入り事実上の後継機となるイギリス製の[ヴィッカースVC-10や](../Page/ビッカース_VC-10.md "wikilink")、中短距離向けの[ホーカー・シドレー トライデントが就航したことなどによりオーダーが途絶え](../Page/ホーカー・シドレー_トライデント.md "wikilink")、[1964年](../Page/1964年.md "wikilink")末にシリーズ合計112機をもって生産を終了した。
+さらに[1960年](../Page/1960年.md "wikilink")10月には英国海外航空のボーイング707が納入したため、就航からわずか2年でドル箱であるヒースロー-アイドルワイルド線から撤退した。以降は[北アメリカ](../Page/北アメリカ.md "wikilink")や[極東](../Page/極東.md "wikilink")、[オーストラリア](../Page/オーストラリア.md "wikilink")路線からも逐次撤退し、[中東](../Page/中東.md "wikilink")や[西アジア](../Page/西アジア.md "wikilink")、[アフリカ](../Page/アフリカ.md "wikilink")などの比較的競争が激しくない中距離帝国（MRE、Medium-Range Empire）ルートを中心に飛ぶようになった。
+
+1962年には事実上の後継機となるイギリス製の[ヴィッカースVC-10や](../Page/ビッカース_VC-10.md "wikilink")、中短距離向けの[ホーカー・シドレー トライデントが就航したことなどによりオーダーが途絶え](../Page/ホーカー・シドレー_トライデント.md "wikilink")、[1964年](../Page/1964年.md "wikilink")にコメット4の生産は79機で終了した。
+
+コメットにはジェットエンジンをロールスロイス「コンウェイ」に換装し、座席を増加させたコメット5の開発計画もあったが、発注がなかったため実現せず、コメットシリーズは全シリーズ合計112機をもって生産を終了した。
 
 ### 退役
 
-生産は終了したものの、Mk.IIとMk.IVシリーズの事故率は同時代に就航していた競合機より明らかに低く、連続事故後に施された安全対策が完全に奏功したことを実証してみせ、その後も[英国欧州航空](../Page/英国欧州航空.md "wikilink")や[TAP ポルトガル航空](https://ja.wikipedia.org/wiki/TAP_ポルトガル航空 "wikilink")、[ミドル・イースト航空](../Page/ミドル・イースト航空.md "wikilink")、[エジプト航空](../Page/エジプト航空.md "wikilink")など世界各国の航空会社で運用された。
+[G-AROV_DH106_Comet_4C_Dan-Air_MAN_MAY79_(6812605709).jpg](https://ja.wikipedia.org/wiki/File:G-AROV_DH106_Comet_4C_Dan-Air_MAN_MAY79_\(6812605709\).jpg "fig:G-AROV_DH106_Comet_4C_Dan-Air_MAN_MAY79_(6812605709).jpg") 生産は終了したものの、Mk.IIとMk.IVシリーズの事故率は同時代に就航していた競合機より明らかに低く、連続事故後に施された安全対策が完全に奏功したことを実証してみせ、その後も[英国欧州航空](../Page/英国欧州航空.md "wikilink")や[TAP ポルトガル航空](https://ja.wikipedia.org/wiki/TAP_ポルトガル航空 "wikilink")、[ミドル・イースト航空](../Page/ミドル・イースト航空.md "wikilink")、[エジプト航空](../Page/エジプト航空.md "wikilink")など世界各国の航空会社で運用された。
 
-しかし、国際線旅客機の急速な大型化や高速化、さらに中近距離路線のジェット化により、英国海外航空を含む主要な運航航空会社もボーイング707やダグラスDC-8などへの代替を進め、英国航空会社は1960年代後半に運航を終了した。さらにほかの航空会社も、より運航効率の良い[ボーイング727](../Page/ボーイング727.md "wikilink")やホーカー・シドレー トライデント、[ボーイング737](../Page/ボーイング737.md "wikilink")や[マクドネル・ダグラス DC-9などの中型機が相次いで登場したこともあり](../Page/マクドネル・ダグラス_DC-9.md "wikilink")、[1982年](../Page/1982年.md "wikilink")までに全ての航空会社から全機退役している。なお最後まで使用した航空会社はイギリスのダン・エアであった。
+しかし、国際線旅客機の急速な大型化や高速化、さらに中近距離路線のジェット化により、英国海外航空を含む主要な運航航空会社もボーイング707やダグラスDC-8などへの代替を進め、英国航空会社はボーイング707やヴィッカースVC-10が揃った1960年代後半に運航を終了した。
+
+さらにほかの航空会社も、より運航効率の良い[ボーイング727](../Page/ボーイング727.md "wikilink")やホーカー・シドレー トライデント、[ボーイング737](../Page/ボーイング737.md "wikilink")や[マクドネル・ダグラス DC-9などの中型機が相次いで登場したこともあり](../Page/マクドネル・ダグラス_DC-9.md "wikilink")、[1982年](../Page/1982年.md "wikilink")までに全ての航空会社から全機退役している。なお貨物専用機にするには胴体が細く、また燃費も悪くわずか数機が貨物専用機にコンバートされたのみであった。最後まで使用した航空会社はイギリスのダン・エアであった。
 
 ## 仕様
 
@@ -216,3 +234,4 @@
 
 1.  郵便物は軽荷重で旅客機に比べて安全面での制約も厳しくないので、開発のハードルは旅客機に比べると低い。
 2.  [B.O.A.C Year Of History (1952)](https://www.youtube.com/watch?v=Dy-cMeHIh48)
+3.  [BOAC](https://www.britairliners.org/airliners-article?title=history-of-boac&id=24)

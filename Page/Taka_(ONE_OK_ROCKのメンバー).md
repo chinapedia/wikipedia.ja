@@ -7,7 +7,7 @@
 
 歌手の[森進一](../Page/森進一.md "wikilink")と、同じく歌手の[森昌子](../Page/森昌子.md "wikilink")の長男である。弟(三男)はロックバンド・[MY FIRST STORYの](https://ja.wikipedia.org/wiki/MY_FIRST_STORY "wikilink")[Hiro](../Page/森内寛樹.md "wikilink")。
 
-[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属の[NEWSの元メンバーでもあった](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")。
+元[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属。[NEWSの元メンバーでもあった](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")。
 
 ## 略歴
 
@@ -258,6 +258,13 @@
 <td><p>「<strong>I Want a Billion</strong>」にボーカルとしてTakaが参加</p></td>
 </tr>
 <tr class="even">
+<td><p>2020年06月05日<br />
+</p></td>
+<td><p><strong>もう一度</strong></p></td>
+<td><p>[re:]</p></td>
+<td><p>「<strong>[re:]</strong>」にボーカルとしてTakaが参加</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

@@ -25,7 +25,7 @@
 
   - 水またはアルコールに対しては不溶である、そのため貯蔵する時は水中または[水](../Page/水.md "wikilink")と[アルコール](https://ja.wikipedia.org/wiki/アルコール "wikilink")の混合液の中に保存する。ただし、長期間保存すると結晶が成長して爆発しやすくなり危険であるため長期間の保存は避けなければならない。
   - [銅](../Page/銅.md "wikilink")と反応し極めて鋭敏で危険な[アジ化銅(II)](https://ja.wikipedia.org/wiki/アジ化銅\(II\) "wikilink")を生成する。そのためアジ化鉛に接触する機器は銅や[真鍮](https://ja.wikipedia.org/wiki/真鍮 "wikilink")の使用が忌避され、主に[アルミニウム](../Page/アルミニウム.md "wikilink")が用いられる。
-  - 着火すると直ちに確実に[爆轟](https://ja.wikipedia.org/wiki/爆轟 "wikilink")を起す。
+  - 着火すると直ちに確実に[爆轟](../Page/爆轟.md "wikilink")を起す。
 
 ## 出典
 

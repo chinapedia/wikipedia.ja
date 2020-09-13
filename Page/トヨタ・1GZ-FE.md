@@ -1,7 +1,7 @@
 > この記事は[トヨタ・1GZ-FE](https://ja.wikipedia.org/wiki/トヨタ・1GZ-FE)から翻訳されています。
 
 
-[1GZ-FE.jpg](https://ja.wikipedia.org/wiki/File:1GZ-FE.jpg "fig:1GZ-FE.jpg") **トヨタ・1GZ-FE**は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[V型12気筒](../Page/V型12気筒.md "wikilink")[DOHC](../Page/DOHC.md "wikilink")[エンジンである](../Page/内燃機関.md "wikilink")。 事実上[センチュリーシリーズ専用エンジンである](../Page/トヨタ・センチュリー.md "wikilink")。
+[1GZ-FE.jpg](https://ja.wikipedia.org/wiki/File:1GZ-FE.jpg "fig:1GZ-FE.jpg") **トヨタ・1GZ-FE**は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（[平成](../Page/平成.md "wikilink")9年）から[2017年](../Page/2017年.md "wikilink")（平成29年）まで製造していた[V型12気筒](../Page/V型12気筒.md "wikilink")[DOHC](../Page/DOHC.md "wikilink")[エンジンである](../Page/内燃機関.md "wikilink")。 事実上[センチュリーシリーズ専用エンジンである](../Page/トヨタ・センチュリー.md "wikilink")。
 
 ## 概要
 

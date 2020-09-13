@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1996年](../Page/1996年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")、[DJ POKIが担当していた](https://ja.wikipedia.org/wiki/DJ_POKI "wikilink")「レディオ・パイレーツ」の後番組として放送が開始され、開始当初は「**スーパー・ヒット・オペレーション・電リクキング**」というタイトルであったが、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")から現在の番組名となり、[2016年](../Page/2016年.md "wikilink")10月には番組開始20周年を迎えた[長寿番組](https://ja.wikipedia.org/wiki/長寿番組 "wikilink")である。
+[1996年](../Page/1996年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")、[DJ POKIが担当していた](../Page/ポーキー.md "wikilink")「レディオ・パイレーツ」の後番組として放送が開始され、開始当初は「**スーパー・ヒット・オペレーション・電リクキング**」というタイトルであったが、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")から現在の番組名となり、[2016年](../Page/2016年.md "wikilink")10月には番組開始20周年を迎えた[長寿番組](https://ja.wikipedia.org/wiki/長寿番組 "wikilink")である。
 
 [大宮アルシェ](https://ja.wikipedia.org/wiki/アルシェ "wikilink")5階にあるCDショップ、[HMV](../Page/HMV.md "wikilink")大宮アルシェ店内の[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")「[STUDIO ARCHE](https://ja.wikipedia.org/wiki/アルシェ#STUDIO_ARCHE "wikilink")」から[公開生放送されていた](../Page/公開放送.md "wikilink")。また、ショッピングモールやテーマパーク、イベント会場、秋には関東地方の大学の[学園祭会場などから出張公開生放送を行うこともある](../Page/大学祭.md "wikilink")。リクエスト音楽番組であるため、通常は1組のゲストアーティストが登場し、その他2〜4組のゲストが登場することがある。
 
@@ -258,6 +258,6 @@
 
 ## 外部リンク
 
-[Category:NACK5の番組](https://ja.wikipedia.org/wiki/Category:NACK5の番組 "wikilink") [Category:独立系FMラジオの音楽番組‎](https://ja.wikipedia.org/wiki/Category:独立系FMラジオの音楽番組‎ "wikilink") [Category:1996年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1996年のラジオ番組_\(日本\) "wikilink")
+[Category:NACK5の番組](https://ja.wikipedia.org/wiki/Category:NACK5の番組 "wikilink") [Category:独立系FMラジオの音楽番組](https://ja.wikipedia.org/wiki/Category:独立系FMラジオの音楽番組 "wikilink") [Category:1996年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1996年のラジオ番組_\(日本\) "wikilink")
 
 1.  森下が不在の場合は吉田美佐もしくは溝淵美智子が担当。

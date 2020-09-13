@@ -104,7 +104,7 @@ yoshiは作品の連載中に多くの読者から感想をもらい、その中
   - [中村敦子](https://ja.wikipedia.org/wiki/中村敦子 "wikilink")
   - [深沢エミ](https://ja.wikipedia.org/wiki/深沢エミ "wikilink")
   - [名倉右喬](https://ja.wikipedia.org/wiki/名倉右喬 "wikilink")
-  - [金子貴伸](https://ja.wikipedia.org/wiki/金子貴伸 "wikilink")
+  - [金子貴伸](../Page/金子貴伸.md "wikilink")
   - [峯村淳二](https://ja.wikipedia.org/wiki/峯村淳二 "wikilink")
   - [尾道凛](https://ja.wikipedia.org/wiki/尾道凛 "wikilink")
   - [阪本麻美](../Page/阪本麻美.md "wikilink")
@@ -117,7 +117,7 @@ yoshiは作品の連載中に多くの読者から感想をもらい、その中
   - [若林裕太](https://ja.wikipedia.org/wiki/若林裕太 "wikilink")
   - [高濱正朋](../Page/高濱正朋.md "wikilink")
   - [脇田滋行](https://ja.wikipedia.org/wiki/脇田滋行 "wikilink")
-  - [佐々木亮](https://ja.wikipedia.org/wiki/佐々木亮（俳優） "wikilink")
+  - [佐々木亮](https://ja.wikipedia.org/wiki/佐々木亮_\(俳優\) "wikilink")
   - [青木直子](https://ja.wikipedia.org/wiki/青木直子 "wikilink")
   - [梅野舞](https://ja.wikipedia.org/wiki/梅野舞 "wikilink")
   - [三波誠](https://ja.wikipedia.org/wiki/三波誠 "wikilink")
@@ -238,11 +238,11 @@ DVD『Deep Love アユの物語』2004年6月18日発売。ネオプレックス
 
   - キャスト
 
-:\*アユ：[相川みさお](../Page/相川みさお.md "wikilink")
+:\* アユ：[相川みさお](../Page/相川みさお.md "wikilink")
 
-:\*レイナ：[河咲玲奈](https://ja.wikipedia.org/wiki/河咲玲奈 "wikilink")
+:\* レイナ：[河咲玲奈](https://ja.wikipedia.org/wiki/河咲玲奈 "wikilink")
 
-:\*景子：[憧野あこ(現:日向野あこ)](https://ja.wikipedia.org/wiki/憧野あこ\(現:日向野あこ\) "wikilink")
+:\* 景子：憧野あこ（現：[日向野あこ](https://ja.wikipedia.org/wiki/日向野あこ "wikilink")）
 
 ### Deep Love ホスト『沙羅の一日』
 

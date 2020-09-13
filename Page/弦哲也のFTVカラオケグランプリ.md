@@ -23,7 +23,7 @@
 
   - 月曜 19:00 - 19:54
 
-この時間帯にフジテレビで放送されている『[ネプリーグ](https://ja.wikipedia.org/wiki/ネプリーグ "wikilink")』は、福島テレビでは2005年10月1日から別の時間帯（土曜 16:30 - 17:25）で放送されていた。基本的には、スペシャルであっても通常放送を行い1時間編集版となるが、2006年頃から改編期の春・秋に休止して、フジテレビのスペシャルをフルネットで放送することも増えてきていた。2010年4月12日と5月10日には本番組を休止し、『ネプリーグ』を同時ネットで放送した。また、東日本大震災発生後の2011年4月からも放送を休止し、以後は『ネプリーグ』を同時ネットしている。\[3\]
+この時間帯にフジテレビで放送されている『[ネプリーグ](https://ja.wikipedia.org/wiki/ネプリーグ "wikilink")』は、福島テレビでは2005年10月1日から別の時間帯（土曜 16:30 - 17:25）で放送されていた。基本的には、スペシャルであっても通常放送を行い1時間編集版となるが、2006年頃から改編期の春・秋に休止して、フジテレビのスペシャルをフルネットで放送することも増えてきていた。2010年4月12日と5月10日には本番組を休止し、『ネプリーグ』を同時ネットで放送した。また、東日本大震災発生後の2011年4月からも放送を休止し、以後は『ネプリーグ』を同時ネットしている\[3\]。
 
 ## 歴代司会進行者
 
@@ -69,7 +69,7 @@
 
   - [カラオケグランプリ](http://www.fukushima-tv.co.jp/jisya/karagura/)
 
-[Category:1997年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1997年のテレビ番組_\(日本\) "wikilink") [Category:福島テレビ番組](https://ja.wikipedia.org/wiki/Category:福島テレビ番組 "wikilink") [Category:ローカルテレビ局の音楽番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の音楽番組 "wikilink") [Category:視聴者参加型番組](https://ja.wikipedia.org/wiki/Category:視聴者参加型番組 "wikilink") [Category:ローカルテレビ局の紀行・旅番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の紀行・旅番組 "wikilink") [Category:カラオケ番組](https://ja.wikipedia.org/wiki/Category:カラオケ番組 "wikilink")
+[Category:1997年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1997年のテレビ番組_\(日本\) "wikilink") [Category:福島テレビの番組](https://ja.wikipedia.org/wiki/Category:福島テレビの番組 "wikilink") [Category:ローカルテレビ局の音楽番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の音楽番組 "wikilink") [Category:視聴者参加型番組](https://ja.wikipedia.org/wiki/Category:視聴者参加型番組 "wikilink") [Category:ローカルテレビ局の紀行・旅番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の紀行・旅番組 "wikilink") [Category:カラオケ番組](https://ja.wikipedia.org/wiki/Category:カラオケ番組 "wikilink")
 
 1.  1997年4月の『[笑っていいとも\!増刊号](https://ja.wikipedia.org/wiki/笑っていいとも!増刊号 "wikilink")』同時ネット化の影響により、日曜10時に放送されていた『[今、きらめいて](../Page/今、きらめいて.md "wikilink")』が日曜9時に移動したことに伴う。
 2.  1997年3月までは月曜22時枠（『[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")』）の前半スポンサーだった。

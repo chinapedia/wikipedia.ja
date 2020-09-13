@@ -648,7 +648,7 @@ TGS-55楽園の配達人</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a></p></td>
+<td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a></p></td>
 <td></td>
 <td><p>火曜 24:40 - 25:10</p></td>
 <td></td>
@@ -716,7 +716,7 @@ TGS-55楽園の配達人</p></td>
   -
 ## 外部リンク
 
-  - [公式サイト](https://web.archive.org/web/20100129132406/http://avexnet.or.jp/ultraq-df/)(リンク切れの為2201年1月29日のアーカイブ)
+  - [公式サイト](https://web.archive.org/web/20100129132406/http://avexnet.or.jp/ultraq-df/)(リンク切れの為2010年1月29日のアーカイブ)
   - [公式英語ガイド](http://www.scifijapan.com/articles/2008/10/29/ultra-q-dark-fantasy-official-episode-guide/)
 
 [Category:ウルトラQ](https://ja.wikipedia.org/wiki/Category:ウルトラQ "wikilink") [Category:ウルトラシリーズの特撮テレビドラマ](https://ja.wikipedia.org/wiki/Category:ウルトラシリーズの特撮テレビドラマ "wikilink") [Category:テレビ東京の特撮番組](https://ja.wikipedia.org/wiki/Category:テレビ東京の特撮番組 "wikilink") [Category:テレビ東京の深夜ドラマ](https://ja.wikipedia.org/wiki/Category:テレビ東京の深夜ドラマ "wikilink") [Category:2004年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2004年のテレビドラマ "wikilink") [Category:2000年代の特撮作品](https://ja.wikipedia.org/wiki/Category:2000年代の特撮作品 "wikilink") [Category:深夜特撮](https://ja.wikipedia.org/wiki/Category:深夜特撮 "wikilink") [Category:SFテレビドラマ](https://ja.wikipedia.org/wiki/Category:SFテレビドラマ "wikilink") [Category:ホラードラマ](https://ja.wikipedia.org/wiki/Category:ホラードラマ "wikilink") [Category:リメイクドラマ](https://ja.wikipedia.org/wiki/Category:リメイクドラマ "wikilink") [Category:オムニバスドラマ](https://ja.wikipedia.org/wiki/Category:オムニバスドラマ "wikilink") [Category:漫画作品_う](https://ja.wikipedia.org/wiki/Category:漫画作品_う "wikilink") [Category:特撮エース](https://ja.wikipedia.org/wiki/Category:特撮エース "wikilink") [Category:円谷エンターテインメントのテレビドラマ](https://ja.wikipedia.org/wiki/Category:円谷エンターテインメントのテレビドラマ "wikilink")

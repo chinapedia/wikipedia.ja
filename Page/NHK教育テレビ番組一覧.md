@@ -8,7 +8,7 @@
 
 </div>
 
-**NHK教育テレビ番組一覧**（エヌエイチケイきょういくテレビばんぐみいちらん）では、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）で放送された[テレビ番組](../Page/テレビ番組.md "wikilink")のうち、[アナログ](../Page/NTSC.md "wikilink")・[デジタルを問わず](../Page/地上デジタルテレビ放送.md "wikilink")[NHK教育テレビジョン](../Page/NHK教育テレビジョン.md "wikilink")（Eテレ）で放送中、もしくは過去に放送された番組を列挙する。
+**NHK教育テレビ番組一覧**（エヌエイチケイきょういくテレビばんぐみいちらん）では、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）で放送された[テレビ番組](../Page/テレビ番組.md "wikilink")のうち、[アナログ](../Page/NTSC.md "wikilink")・[デジタルを問わず](../Page/地上デジタルテレビ放送.md "wikilink")[NHK教育テレビジョン](../Page/NHK教育テレビジョン.md "wikilink")（NHK E・Eテレ）で放送中、もしくは過去に放送された番組を列挙する。
 
 ## 概説
 
@@ -401,6 +401,7 @@
 
   - [10min.ボックス](../Page/10min.ボックス.md "wikilink")
   - [アクティブ10](https://ja.wikipedia.org/wiki/アクティブ10 "wikilink")
+  - 知りたガールと学ボーイ
 
 **放送終了**
 
@@ -586,6 +587,8 @@
   - [忍たま乱太郎](../Page/忍たま乱太郎.md "wikilink")
   - [おさるのジョージ](https://ja.wikipedia.org/wiki/おさるのジョージ "wikilink")
   - [ザ・ペンギンズ from マダガスカル](https://ja.wikipedia.org/wiki/ザ・ペンギンズ_from_マダガスカル "wikilink")
+  - [きかんしゃトーマス](https://ja.wikipedia.org/wiki/きかんしゃトーマス "wikilink")
+  - [おしりたんてい](https://ja.wikipedia.org/wiki/おしりたんてい "wikilink")
 
 ### 放送終了
 
@@ -612,6 +615,7 @@
 ### 放送終了
 
   - [ゲームシェイカーズ](https://ja.wikipedia.org/wiki/ゲームシェイカーズ "wikilink")
+  - [スクール・オブ・ロック](../Page/スクール・オブ・ロック.md "wikilink")
   - [100 オトナになったらできないこと](https://ja.wikipedia.org/wiki/100_オトナになったらできないこと "wikilink")
   - [ティーン・スパイ K.C.](https://ja.wikipedia.org/wiki/ティーン・スパイ_K.C. "wikilink")
   - [iCarly](https://ja.wikipedia.org/wiki/iCarly "wikilink")
@@ -869,6 +873,7 @@
   - [トラッドジャパン](https://ja.wikipedia.org/wiki/トラッドジャパン "wikilink")
   - [スーパープレゼンテーション](https://ja.wikipedia.org/wiki/スーパープレゼンテーション "wikilink")
   - [リトル・チャロ](../Page/リトル・チャロ.md "wikilink")
+  - 知りたガールと学ボーイ
 
 </div>
 

@@ -127,7 +127,7 @@
   - 株式会社[バーニングプロダクション](https://ja.wikipedia.org/wiki/バーニングプロダクション "wikilink")
   - 株式会社[米朝事務所](../Page/米朝事務所.md "wikilink")
   - 株式会社[ホリプロ](../Page/ホリプロ.md "wikilink")
-  - 株式会社[よしもとクリエイティブ・エージェンシー](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー "wikilink")
+  - [吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")株式会社
   - 株式会社[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")
 
 他、各企業・団体・自治体と取引関係にある。
@@ -161,9 +161,10 @@
   - [サタデープラス](https://ja.wikipedia.org/wiki/サタデープラス "wikilink")
   - [おとな会](https://ja.wikipedia.org/wiki/おとな会 "wikilink")
   - [所さんお届けモノです\!](https://ja.wikipedia.org/wiki/所さんお届けモノです! "wikilink")
-  - [大阪人の新常識 OSAKA LOVER](https://ja.wikipedia.org/wiki/大阪人の新常識_OSAKA_LOVER "wikilink")（[テレビ大阪](../Page/テレビ大阪.md "wikilink")制作） ほか。
+  - [大阪人の新常識 OSAKA LOVER](https://ja.wikipedia.org/wiki/大阪人の新常識_OSAKA_LOVER "wikilink")（[テレビ大阪](../Page/テレビ大阪.md "wikilink")制作）
+  - [霜降りミキXIT](../Page/霜降りミキXIT.md "wikilink")（TBS制作） ほか。
 
-※MBSだけでなく他のJNN系列局の番組制作も関わることがある。代表例として[山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")が制作し、2007年3月に岡山・香川ローカルで放送された『[密着みのもんた\!朝ズバッの裏ズバッ\!](https://ja.wikipedia.org/wiki/みのもんたの朝ズバッ!#特番 "wikilink")』では制作協力していた。また在阪他局の[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")、[関西テレビにおいてもスタッフ参加している番組も多い](../Page/関西テレビ放送.md "wikilink")。
+※MBSだけでなく他のJNN系列局の番組制作も関わることがある。代表例として[山陽放送が制作し](../Page/RSK山陽放送.md "wikilink")、2007年3月に岡山・香川ローカルで放送された『[密着みのもんた\!朝ズバッの裏ズバッ\!](https://ja.wikipedia.org/wiki/みのもんたの朝ズバッ!#特番 "wikilink")』では制作協力していた。また在阪他局の[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")、[関西テレビにおいてもスタッフ参加している番組も多い](../Page/関西テレビ放送.md "wikilink")。
 
 ### ラジオ
 

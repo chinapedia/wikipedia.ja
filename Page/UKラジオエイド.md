@@ -22,4 +22,4 @@
   - [UKラジオエイド公式サイト](http://www.ukradioaid.com/)（リンク切れ）
   - [プレスリリース](http://www.radiotoday.co.uk/comment.php?comment.news.124)（英語表記）
 
-[Category:イギリスの放送](https://ja.wikipedia.org/wiki/Category:イギリスの放送 "wikilink") [Category:ラジオ番組](https://ja.wikipedia.org/wiki/Category:ラジオ番組 "wikilink") [Category:社会運動](https://ja.wikipedia.org/wiki/Category:社会運動 "wikilink")
+[Category:イギリスの放送](https://ja.wikipedia.org/wiki/Category:イギリスの放送 "wikilink") [Category:各国のラジオ番組](https://ja.wikipedia.org/wiki/Category:各国のラジオ番組 "wikilink") [Category:社会運動](https://ja.wikipedia.org/wiki/Category:社会運動 "wikilink")

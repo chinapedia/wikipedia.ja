@@ -1,7 +1,7 @@
 > この記事は[Basic認証](https://ja.wikipedia.org/wiki/Basic認証)から翻訳されています。
 
 
-**Basic認証**（ベーシックにんしょう、）とは、[HTTPで定義される](../Page/Hypertext_Transfer_Protocol.md "wikilink")[認証](../Page/認証.md "wikilink")方式の一つ。**基本認証**と呼ばれることも。
+**Basic認証**（ベーシックにんしょう、）とは、[HTTPで定義される](../Page/Hypertext_Transfer_Protocol.md "wikilink")[認証](../Page/認証.md "wikilink")方式（[HTTP認証](../Page/HTTP認証.md "wikilink")）の一つ。**基本認証**と呼ばれることも。
 
 Basic認証では、ユーザ名と[パスワード](../Page/パスワード.md "wikilink")の組みを[コロン](../Page/コロン_\(記号\).md "wikilink") ":" でつなぎ、[Base64](../Page/Base64.md "wikilink")で[エンコード](../Page/エンコード.md "wikilink")して送信する。このため、盗聴や改竄が簡単であるという欠点を持つが、ほぼ全ての[Webサーバ](../Page/Webサーバ.md "wikilink")およびブラウザで対応しているため、広く使われている。
 
@@ -64,6 +64,7 @@ Date: Wed, 11 May 2005 07:50:26 GMT
 
 ## 関連項目
 
+  - [HTTP認証](../Page/HTTP認証.md "wikilink")
   - [Base64](../Page/Base64.md "wikilink")
   - [Digest認証](../Page/Digest認証.md "wikilink")
 

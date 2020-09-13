@@ -13,7 +13,7 @@
 
 ## メンバー
 
-  - **KAI**（カイ、本名：高木海、7月13日生）- リーダー、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、作曲。[血液型はA型の男性](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+  - **KAI**（カイ、本名：高木海、7月13日生）- リーダー、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、作曲。[血液型はA型の男性](../Page/ABO式血液型.md "wikilink")。
   - **KANA**（カナ、本名：津久井加奈美、3月20日生）- ボーカル。A型の女性。
   - **K-69**（ケーロック、本名：木村圭一、2月3日生）- [ベース](../Page/ベース_\(弦楽器\).md "wikilink")。AB型の男性で巨漢。
   - **Mack**（マック、9月30日生）- [ギター](../Page/ギター.md "wikilink")。AB型の男性。

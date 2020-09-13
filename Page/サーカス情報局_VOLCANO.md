@@ -51,6 +51,6 @@
 ## 外部リンク
 
   - [番組公式サイト](http://circus.nandemo.gr.jp/sakuhin/volcano/)
-  - [音泉](http://onsen.ag/)
 
+  -
 [Category:音泉](https://ja.wikipedia.org/wiki/Category:音泉 "wikilink") [Category:ランティスウェブラジオ](https://ja.wikipedia.org/wiki/Category:ランティスウェブラジオ "wikilink") [Category:CIRCUS](https://ja.wikipedia.org/wiki/Category:CIRCUS "wikilink") [Category:超\!放送局](https://ja.wikipedia.org/wiki/Category:超!放送局 "wikilink")

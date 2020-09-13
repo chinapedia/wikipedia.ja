@@ -7,7 +7,7 @@
 
 ## メンバー
 
-  - 安野勇太（YUTA、Clutch） - ボーカル、ギター
+  - 安野勇太（YUTA、Clutch）- ボーカル、ギター
 
 <!-- end list -->
 
@@ -16,7 +16,7 @@
 
 <!-- end list -->
 
-  - 畑野行広 （HATANO、Diesel） - ドラムス
+  - 畑野行広（HATANO、Diesel）- ドラムス
 
 <!-- end list -->
 
@@ -25,7 +25,7 @@
 
 <!-- end list -->
 
-  - 上村直史 （GURE） - ベース、コーラス
+  - 上村直史（GURE）- ベース、コーラス
 
 <!-- end list -->
 
@@ -34,7 +34,7 @@
 
 ## 過去のメンバー
 
-  - 小鷹徹（TORU、Tire） - ベース、コーラス
+  - 小鷹徹（TORU、Tire）- ベース、コーラス
 
 <!-- end list -->
 
@@ -44,7 +44,7 @@
 
 <!-- end list -->
 
-  - 相坂亮介　(RYOSUKE) - ベース、コーラス
+  - 相坂亮介（RYOSUKE）- ベース、コーラス
 
 <!-- end list -->
 

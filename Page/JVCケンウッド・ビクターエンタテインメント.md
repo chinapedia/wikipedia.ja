@@ -42,7 +42,7 @@
   - [1927年](../Page/1927年.md "wikilink") - [アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ビクター社の日本法人として](../Page/ビクタートーキングマシン.md "wikilink")、**日本ビクター蓄音器株式会社**（にほんビクターちくおんき）設立する。
   - [1929年](../Page/1929年.md "wikilink") - 親会社のアメリカビクター社が[RCA](../Page/RCA.md "wikilink")に吸収合併された事に伴い、[東芝](../Page/東芝.md "wikilink")・[三井財閥](https://ja.wikipedia.org/wiki/三井財閥 "wikilink")の出資を受ける様になる。
   - [1938年](../Page/1938年.md "wikilink") - [満州事変](../Page/満州事変.md "wikilink")に伴い日米関係が悪化する。アメリカRCA社は資本提携を解消し、株式を[日産コンツェルン](../Page/日産コンツェルン.md "wikilink")に譲渡する。 直後に日産コンツェルンのグループ会社だった[日産自動車](../Page/日産自動車.md "wikilink")が[東京芝浦電気に株式を売却し](../Page/東芝.md "wikilink")、東芝傘下に入る。
-  - [1943年](../Page/1943年.md "wikilink") - 戦争開戦の為[陸軍省](../Page/陸軍省.md "wikilink")の指導（[敵性用語](https://ja.wikipedia.org/wiki/敵性用語 "wikilink")の排除の指導）を受け、社名を日本音響株式会社に変更する。 レーベル名は[英語](../Page/英語.md "wikilink")の『VICTOR』のままだったが、[ニッパー](https://ja.wikipedia.org/wiki/ニッパー "wikilink")の下に書いてあった"His Master's Voice"の文言を消すなどをしている。
+  - [1943年](../Page/1943年.md "wikilink") - 戦争開戦の為[陸軍省](../Page/陸軍省.md "wikilink")の指導（[敵性用語](https://ja.wikipedia.org/wiki/敵性用語 "wikilink")の排除の指導）を受け、社名を日本音響株式会社に変更する。 レーベル名は[英語](../Page/英語.md "wikilink")の『VICTOR』のままだったが、[ニッパーの下に書いてあった](../Page/ニッパー_\(犬\).md "wikilink")"His Master's Voice"の文言を消すなどをしている。
   - [1946年](../Page/1946年.md "wikilink") - 終戦（敗戦）に伴い、社名を日本音響株式会社より日本ビクター株式会社に変更する。
   - [1970年](../Page/1970年.md "wikilink") - [フィリップスレーベル部門](../Page/フィリップス・レコード.md "wikilink")（邦楽、洋楽）が「日本フォノグラム株式会社」（後のマーキュリーミュージックエンタテインメント株式会社\[1\]）として分離・独立する。
   - [1972年](../Page/1972年.md "wikilink") - 日本ビクターの音楽ソフト部門のうち、製造部門を除く制作・営業・宣伝、および出版事業などの 部門を「**ビクター音楽産業株式会社**」（英文社名：Victor Musical Industries, Inc.）として分離・独立する\[2\]。
@@ -90,35 +90,37 @@
 
 ## 主要レーベル
 
-  - Victor（ビクター）
+  - [Victor（His Master's Voice）](https://ja.wikipedia.org/wiki/ニッパー_\(犬\)#商標の現在 "wikilink")（ビクター）
   - [INVITATION](../Page/Invitation_\(レーベル\).md "wikilink")（インビテーション）
   - JVC JAZZ（ジェイブイシー ジャズ）
   - [SPEEDSTAR RECORDS](../Page/SPEEDSTAR_RECORDS.md "wikilink")（スピードスターレコーズ）
       - [TAISHITA](../Page/タイシタレーベル.md "wikilink")（タイシタ）- [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")とそのメンバーのみが所属するプライベートレーベル
   - [Getting Better](https://ja.wikipedia.org/wiki/Getting_Better "wikilink")（ゲッティング・ベター）
       - [MOB SQUAD](../Page/MOB_SQUAD.md "wikilink")（モブ・スクアッド） - 現在は[Dragon Ashのプライベートレーベル](../Page/Dragon_Ash.md "wikilink")
-      - NF Records（エヌエフレコーズ）- [サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")のプライベートレーベル
+      - NF Records（エヌエフレコーズ）- [サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")主宰のレーベル。[藤原ヒロシ](https://ja.wikipedia.org/wiki/藤原ヒロシ "wikilink")も所属。
   - [Colourful Records](https://ja.wikipedia.org/wiki/Colourful_Records "wikilink")（カラフルレコーズ）\[21\]
       - [her](https://ja.wikipedia.org/wiki/SCANDAL_\(日本のバンド\) "wikilink")（ハー）- SCANDALのプライベートレーベル
       - [ELA](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")（エレラ）- 木村カエラのプライベートレーベル
-  - Q2 Records（キューツーレコーズ）- 音楽ライターの三宅正一主宰のレーベル。[踊Foot Worksと](https://ja.wikipedia.org/wiki/踊Foot_Works "wikilink")[マテリアルクラブ](https://ja.wikipedia.org/wiki/マテリアルクラブ "wikilink")が所属。
-  - DGP RECORDS\[22\]（ディージーピーレコーズ）- [Base Ball Bearのプライベートレーベル](../Page/Base_Ball_Bear.md "wikilink")
-  - [CONNECTONE](https://ja.wikipedia.org/wiki/CONNECTONE "wikilink")（コネクトーン）
+  - CONNEXTONE（コネクストーン）- 2019年4月、ビクター洋楽部とコネクトーン制作部を統合\[22\]。
+      - [CONNECTONE](https://ja.wikipedia.org/wiki/CONNECTONE "wikilink")（コネクトーン）
       - starplayers Records - [RHYMESTER](../Page/RHYMESTER.md "wikilink")主宰のレーベル
-  - [AndRec](https://ja.wikipedia.org/wiki/AndRec "wikilink")（アンドレック）
+      - plusGROUND（プラスグラウンド）
+      - BLACK SHEEP RECORDS
+      - CONECTUNE（コネクチューン）
+  - Q2 Records（キューツーレコーズ）- 音楽ライターの三宅正一主宰のレーベル。[マテリアルクラブ](https://ja.wikipedia.org/wiki/マテリアルクラブ "wikilink")が所属\[23\]。
+  - DGP RECORDS\[24\]（ディージーピーレコーズ）- [Base Ball Bear主宰のレーベル](../Page/Base_Ball_Bear.md "wikilink")
+  - AndRec（アンドレック）
   - HAPPY HOUSE（ハッピーハウス）
-  - plusGROUND（プラスグラウンド）
-  - BLACK SHEEP RECORDS
 
 ### かつて存在したレーベル
 
   - CJビクターエンタテインメント - 韓国の[CJ E\&Mとの合弁](https://ja.wikipedia.org/wiki/CJ_E&M "wikilink")
   - [FlyingStar Records](https://ja.wikipedia.org/wiki/FlyingStar_Records "wikilink")（フライングスター・レコーズ）
   - HEARST RECORDS - 本来は映画『[カノジョは嘘を愛しすぎてる](https://ja.wikipedia.org/wiki/カノジョは嘘を愛しすぎてる#映画 "wikilink")』の劇中レーベルだが、実際に世に放たれた関連作品全てもこのレーベル名で発売された。
-  - HiHiRecords\[23\]（ハイハイレコード）- 幼児および子供向けレーベル
+  - HiHiRecords\[25\]（ハイハイレコード）- 幼児および子供向けレーベル
   - KENWOOD RECORDS
   - m-serve
-  - VERSIONMUSIC（バージョンミュージック）- ガールズポップ/アイドル専門レーベル\[24\]
+  - VERSIONMUSIC（バージョンミュージック）- ガールズポップ/アイドル専門レーベル\[26\]
   - XEO Invitation
   - 木馬座レコード - [劇団木馬座](https://ja.wikipedia.org/wiki/劇団木馬座 "wikilink")関連レーベル。[ケロヨン](../Page/ケロヨン.md "wikilink")関連の作品もここから出されていた。
 
@@ -226,7 +228,7 @@
   - noon (2004年〜)
   - [Pile](https://ja.wikipedia.org/wiki/Pile "wikilink") (2014年〜)
   - [THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink") (2001年〜)
-  - [橋幸夫](../Page/橋幸夫.md "wikilink")（後援者だった[佐川清](https://ja.wikipedia.org/wiki/佐川清 "wikilink")が設立した[リバスター音産](https://ja.wikipedia.org/wiki/リバスター音産 "wikilink")に副社長兼任として移籍したが、同社の解散に伴い復帰） (〜1983年、1993年〜)\[25\]
+  - [橋幸夫](../Page/橋幸夫.md "wikilink")（後援者だった[佐川清](https://ja.wikipedia.org/wiki/佐川清 "wikilink")が設立した[リバスター音産](https://ja.wikipedia.org/wiki/リバスター音産 "wikilink")に副社長兼任として移籍したが、同社の解散に伴い復帰） (〜1983年、1993年〜)
   - [paris match](https://ja.wikipedia.org/wiki/paris_match "wikilink") (2000年〜)
   - [ヒステリックパニック](https://ja.wikipedia.org/wiki/ヒステリックパニック "wikilink") (2015年〜)
   - [広瀬香美](https://ja.wikipedia.org/wiki/広瀬香美 "wikilink") (1992年〜)
@@ -238,7 +240,7 @@
   - [Fried Pride](../Page/Fried_Pride.md "wikilink") (2001年〜)
   - [Plastic Tree](https://ja.wikipedia.org/wiki/Plastic_Tree "wikilink")（同社内のCJビクターエンタテインメントから移籍） (2017年〜)
   - [The Floor](https://ja.wikipedia.org/wiki/The_Floor "wikilink") (2018年〜)
-  - [The Hey Song](https://ja.wikipedia.org/wiki/The_Hey_Song "wikilink") (2019年〜)
+  - [The Hey Song](../Page/The_Hey_Song.md "wikilink") (2019年〜)
   - [Base Ball Bear](../Page/Base_Ball_Bear.md "wikilink")（プライベートレーベル「DGP RECORDS」所属） (2018年〜)
       - [マテリアルクラブ](https://ja.wikipedia.org/wiki/マテリアルクラブ "wikilink")（Base Ball Bearのボーカル・ギターである[小出祐介](../Page/小出祐介.md "wikilink")主宰の音楽プロジェクト。同社の社内レーベルであるQ2 Records所属） (2018年〜)
   - [星野源](../Page/星野源.md "wikilink") (2010年〜)
@@ -271,7 +273,7 @@
 
 ### FlyingDog（旧「m-serve」）
 
-  - [AKINO](https://ja.wikipedia.org/wiki/AKINO_\(歌手\) "wikilink") (2005年〜)
+  - [AKINO from bless4](https://ja.wikipedia.org/wiki/AKINO_\(歌手\) "wikilink") (2005年〜)
   - [新居昭乃](../Page/新居昭乃.md "wikilink") (1986年〜)
   - [ALI PROJECT](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink") (2008年〜)
   - [菅野よう子](../Page/菅野よう子.md "wikilink") (2008年〜)
@@ -304,7 +306,7 @@
   - [綾瀬はるか](https://ja.wikipedia.org/wiki/綾瀬はるか "wikilink") (2006年〜2010年)
   - あゆ朱美（その後本名の[戸田恵子](../Page/戸田恵子.md "wikilink")に改名し、声優・女優として活動。2007年に歌手活動再開） (1974年〜1976年、2007年〜2008年)
   - [有坂美香](../Page/有坂美香.md "wikilink") (2000年〜2006年)
-  - [THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")（1974年〜1975年、 → ALFIE時代に在籍。「[府中捕物控](../Page/府中捕物控.md "wikilink")」の発売中止騒動を機に自ら契約を解除。その後[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink") → [EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink") → [EMI Records Japanへ移籍](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）
+  - [THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")（1974年〜1975年、 → ALFIE時代に在籍。「[府中捕物控](../Page/府中捕物控.md "wikilink")」の発売中止騒動を機に自ら契約を解除。その後[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink") → [EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink") → [ユニバーサルミュージックへ移籍](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）
   - [ANTY the 紅乃壱](../Page/ANTY_the_紅乃壱.md "wikilink") (2010年)
   - [アン・ルイス](../Page/アン・ルイス.md "wikilink") (1971年〜1981年)
   - [飯島真理](../Page/飯島真理.md "wikilink") (1982年〜1987年、 → [アルファ・ムーン](https://ja.wikipedia.org/wiki/Moon_Records "wikilink")（現：[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）への移籍を経て、現在はアメリカを拠点としてインディーズで活動中）
@@ -332,7 +334,7 @@
   - [大月みやこ](../Page/大月みやこ.md "wikilink")（[キングレコード](../Page/キングレコード.md "wikilink")から移籍し1970年代に在籍、1980年以降再び古巣のキングレコードへ移籍）
   - [大竹しのぶ](https://ja.wikipedia.org/wiki/大竹しのぶ "wikilink")
   - [オーノキヨフミ](../Page/オーノキヨフミ.md "wikilink")（2004年〜2006年、 → インディーズ）
-  - [尾崎紀世彦](https://ja.wikipedia.org/wiki/尾崎紀世彦 "wikilink") (1975年)
+  - [尾崎紀世彦](../Page/尾崎紀世彦.md "wikilink") (1975年)
   - [オダギリジョー](../Page/オダギリジョー.md "wikilink") (2006年)
   - [オックス](../Page/オックス.md "wikilink")（1968年〜1971年、 → 解散後、野口ヒデトは野口ひでとに改名してビクターからソロデビュー。その後[フィリップスを経て](../Page/フィリップス・レコード.md "wikilink")、現在の[真木ひでと](../Page/真木ひでと.md "wikilink")に改名して[CBS・ソニーから再デビュー](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")）
   - [オトナモード](../Page/オトナモード.md "wikilink") (2006年〜2010年)
@@ -356,7 +358,7 @@
   - [京本政樹](../Page/京本政樹.md "wikilink") (1984年〜1986年)（1988年移籍後、2013年よりビクターからリリース）
   - [清浦夏実](../Page/清浦夏実.md "wikilink") (2008年〜2011年)
   - [THE GOOD-BYE](../Page/THE_GOOD-BYE.md "wikilink") (1983年〜1990年)
-  - [草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")（1991年〜2016年、[SMAP](../Page/SMAP.md "wikilink")として。解散後、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")退社後、[新しい地図](https://ja.wikipedia.org/wiki/新しい地図 "wikilink")として[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")に移籍）
+  - [草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")（1991年〜2016年、[SMAP](../Page/SMAP.md "wikilink")として。解散後、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")退社後、[新しい地図](https://ja.wikipedia.org/wiki/新しい地図 "wikilink")として[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")に移籍）
   - [クラッシュギャルズ](../Page/クラッシュギャルズ.md "wikilink") (1984年〜1988年)
   - [倉橋ヨエコ](../Page/倉橋ヨエコ.md "wikilink")（2005年〜[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")廃業）
   - [クリープハイプ](https://ja.wikipedia.org/wiki/クリープハイプ "wikilink") (2012年〜2014年)（2014年、[ユニバーサルミュージックへ移籍](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）
@@ -394,14 +396,14 @@
   - [しほの涼](../Page/しほの涼.md "wikilink") (2008年)
   - 1314 V-station|直球(じかだま)メンバー
       - [宮村優子](../Page/宮村優子_\(声優\).md "wikilink")（ → [サイトロン・デジタルコンテンツ](../Page/サイトロン・デジタルコンテンツ.md "wikilink")への移籍を経て、[声優](../Page/声優.md "wikilink")専業へ）
-      - [岩田光央](../Page/岩田光央.md "wikilink")（ → [ケイエスエス](../Page/ケイエスエス.md "wikilink")レコードを経て、[ランティス](../Page/ランティス.md "wikilink")へ移籍。）
-      - [愛河里花子](../Page/愛河里花子.md "wikilink")（ → [CME移籍を経て](../Page/日本コロムビア.md "wikilink")、声優専業へ。）
+      - [岩田光央](../Page/岩田光央.md "wikilink")（ → [ケイエスエス](../Page/ケイエスエス.md "wikilink")レコードを経て、[ランティス](../Page/ランティス.md "wikilink")へ移籍）
+      - [愛河里花子](../Page/愛河里花子.md "wikilink")（ → [CME移籍を経て](../Page/日本コロムビア.md "wikilink")、声優専業へ）
       - [エクセル・ガールズ](../Page/エクセル・サーガ.md "wikilink")
           - [小林由美子](../Page/小林由美子.md "wikilink")（ → ユニット解散に伴い、音楽のみ一時活動休止 → [シスター・プリンセス/SISTER PRINCESS](https://ja.wikipedia.org/wiki/シスター・プリンセス#CD "wikilink")、[Prits](../Page/Prits.md "wikilink")の一員で[スターチャイルド](../Page/スターチャイルド.md "wikilink")（[キングレコード](../Page/キングレコード.md "wikilink")）へ移籍（同ユニット活動終了後、再び音楽活動休止））
   - [しのづかまゆみ→篠塚満由美](../Page/篠塚満由美.md "wikilink") (1974年〜1979年)（ → キングレコード → [ポリドールへの移籍を経て](../Page/ポリドール・レコード.md "wikilink")、「しじみとさざえ」というユニットで[日本クラウン](../Page/日本クラウン.md "wikilink")から再デビュー）
   - [志村愛子](https://ja.wikipedia.org/wiki/志村愛子 "wikilink")
   - [子門真人](../Page/子門真人.md "wikilink")
-  - [ジャッキー吉川とブルー・コメッツ](../Page/ジャッキー吉川とブルー・コメッツ.md "wikilink")（[CBSコロムビア](https://ja.wikipedia.org/wiki/コロムビア・レコード#商標 "wikilink")\[26\] → 日本コロムビア\[27\] → ビクター） (1973年〜1984年)
+  - [ジャッキー吉川とブルー・コメッツ](../Page/ジャッキー吉川とブルー・コメッツ.md "wikilink")（[CBSコロムビア](https://ja.wikipedia.org/wiki/コロムビア・レコード#商標 "wikilink")\[27\] → 日本コロムビア\[28\] → ビクター） (1973年〜1984年)
   - [ジャニーズ](../Page/ジャニーズ.md "wikilink")
       - [あおい輝彦](https://ja.wikipedia.org/wiki/あおい輝彦 "wikilink")（ → [RCAビクター](../Page/RCAレコード.md "wikilink") → [エレック](https://ja.wikipedia.org/wiki/エレック "wikilink") → テイチク → [キャニオンレコード](../Page/ポニーキャニオン.md "wikilink") → [徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")ガウス制作室）
   - [SCHAFT](../Page/SCHAFT.md "wikilink") (1994年)
@@ -426,10 +428,10 @@
   - SCHOOL GIRL'69 (2004年〜2005年)
   - [SUPER SOUL SONICS](https://ja.wikipedia.org/wiki/SUPER_SOUL_SONICS "wikilink")（1998年〜[2004年](../Page/2004年.md "wikilink")活動休止）
   - [SOURCE](../Page/SOURCE.md "wikilink")（2002年〜[2007年](../Page/2007年.md "wikilink")解散）
-  - [SOFT BALLET](../Page/SOFT_BALLET.md "wikilink")（[1992年](../Page/1992年.md "wikilink")に[アルファレコード](../Page/アルファレコード.md "wikilink")から移籍し、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")の解散までXEO LABELに在籍。[2002年](../Page/2002年.md "wikilink")に再結成し、新たにワーナーと契約しているが、[2003年](../Page/2003年.md "wikilink")にビクターよりDVDボックス、ベストアルバムをそれぞれリリースした。2003年再び活動を休止。）
+  - [SOFT BALLET](../Page/SOFT_BALLET.md "wikilink")（[1992年](../Page/1992年.md "wikilink")に[アルファレコード](../Page/アルファレコード.md "wikilink")から移籍し、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")の解散までXEO LABELに在籍。[2002年](../Page/2002年.md "wikilink")に再結成し、新たにワーナーと契約しているが、[2003年](../Page/2003年.md "wikilink")にビクターよりDVDボックス、ベストアルバムをそれぞれリリースした。2003年再び活動を休止）
   - [スペクトラム](../Page/スペクトラム_\(日本のバンド\).md "wikilink")（[1979年](../Page/1979年.md "wikilink")〜[1981年](../Page/1981年.md "wikilink")解散）
   - [SunMin](../Page/SunMin.md "wikilink")（2006年〜2009年以降リリースなし）
-  - DAIGO☆STARDUST (2003年〜2006年)（[DAIGO](../Page/DAIGO.md "wikilink")のソロ・プロジェクト。[2007年](../Page/2007年.md "wikilink")にロックバンド「[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")」を結成し[ZAIN RECORDSより再CDデビュー](../Page/ZAIN_RECORDS.md "wikilink")。）
+  - DAIGO☆STARDUST (2003年〜2006年)（[DAIGO](../Page/DAIGO.md "wikilink")のソロ・プロジェクト。[2007年](../Page/2007年.md "wikilink")にロックバンド「[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")」を結成し[ZAIN RECORDSより再CDデビュー](../Page/ZAIN_RECORDS.md "wikilink")）
   - [高岡早紀](https://ja.wikipedia.org/wiki/高岡早紀 "wikilink") (1988年〜1991年)
   - [高橋美佳子](../Page/高橋美佳子.md "wikilink")（2000年〜2001年パープルヒルズレコードに移籍）
   - [高橋由美子](https://ja.wikipedia.org/wiki/高橋由美子 "wikilink") (1990年〜1999年)
@@ -466,20 +468,20 @@
   - [中居正広](../Page/中居正広.md "wikilink") (1991年〜2016年、[SMAP](../Page/SMAP.md "wikilink")として)
   - [中尾ミエ](../Page/中尾ミエ.md "wikilink") (1962年〜1989年)
   - [中島愛](../Page/中島愛_\(声優\).md "wikilink") (2009年〜2014年)
-  - [中坪健](https://ja.wikipedia.org/wiki/中坪健 "wikilink")
+  - 中坪健
   - [長田栄二](../Page/長田栄二.md "wikilink")（東芝EMI（永田英二名義）→CBS・ソニー（八田英士名義）→[RVC](https://ja.wikipedia.org/wiki/BMG_JAPAN#RVC "wikilink")→ビクター（永田英士名義））
   - [中山千夏](../Page/中山千夏.md "wikilink")
   - [奈良沙緒理](../Page/奈良沙緒理.md "wikilink")（2001年、 → 「Ace File」結成→自身の諸事情により、[2002年](../Page/2002年.md "wikilink")4月に引退）
   - [西川峰子](../Page/仁支川峰子.md "wikilink") (1974年〜?)
   - [西田敏行](../Page/西田敏行.md "wikilink")（2007年 → 2011年6月にキングレコードよりシングルを発売）
   - [新田一郎](https://ja.wikipedia.org/wiki/新田一郎 "wikilink")（[1982年](../Page/1982年.md "wikilink")）
-  - NIHIL TENTION（現在は解散。ベースの濱田詩朗は現在宮崎に[Uターンして幾つかバンドで活動](../Page/Uターン現象.md "wikilink")。ラジオパーソナリティーやローカルタレントしても活躍。）
+  - NIHIL TENTION（現在は解散。ベースの濱田詩朗は現在宮崎に[Uターンして幾つかバンドで活動](../Page/Uターン現象.md "wikilink")。ラジオパーソナリティーやローカルタレントしても活躍）
   - [High Speed Boyz](https://ja.wikipedia.org/wiki/High_Speed_Boyz "wikilink") (2009年〜2011年)
   - [灰田勝彦](../Page/灰田勝彦.md "wikilink") (1936年〜1982年)
   - [萩田光雄](../Page/萩田光雄.md "wikilink")（ → 独立後、フュージョンで活動中）
   - [BAGDAD CAFE THE trench town](../Page/BAGDAD_CAFE_THE_trench_town.md "wikilink") (2005年〜2010年)
   - [畑中葉子](../Page/畑中葉子.md "wikilink") (1978年〜1985年)
-  - [8分のバニラ](https://ja.wikipedia.org/wiki/8分のバニラ "wikilink") (1995年〜1996年)
+  - 8分のバニラ (1995年〜1996年)
   - はつみかんな (1968年)（ → [RCAビクター](../Page/RCAレコード.md "wikilink")→[しばたはつみ](../Page/しばたはつみ.md "wikilink")に改名してコロムビアに移籍）
   - [浜田麻里](../Page/浜田麻里.md "wikilink") (1983年〜1990年)（→[MCAビクターを経て](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、現在は徳間ジャパンコミュニケーションズ所属）
   - [林田健司](../Page/林田健司.md "wikilink")（1991年〜[2000年](../Page/2000年.md "wikilink")に一旦活動休止、[2001年](../Page/2001年.md "wikilink")の活動再開後はレントラックエンタテインメント所属）
@@ -528,7 +530,7 @@
   - [松尾和子](../Page/松尾和子.md "wikilink") (1959年〜1990年)
   - [松崎しげる](https://ja.wikipedia.org/wiki/松崎しげる "wikilink") (1970年〜1984年、 → [CBS・ソニー（楽京レーベル）](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink") → BMG JAPAN → オーマガトキ（[新星堂](../Page/新星堂.md "wikilink")子会社））
   - [松田優作](../Page/松田優作.md "wikilink") (1978年〜1987年)
-  - [THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")（1991年〜1997年、 → [SPEEDSTAR RECORDS](../Page/SPEEDSTAR_RECORDS.md "wikilink") → [2005年](../Page/2005年.md "wikilink")にソニー・ミュージックレコーズに移籍。2006年4月に活動休止。）
+  - [THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")（1991年〜1997年、 → [SPEEDSTAR RECORDS](../Page/SPEEDSTAR_RECORDS.md "wikilink") → [2005年](../Page/2005年.md "wikilink")にソニー・ミュージックレコーズに移籍。2006年4月に活動休止）
   - [麻波25](https://ja.wikipedia.org/wiki/麻波25 "wikilink")（2002年〜2004年解散）
   - [松原みき](https://ja.wikipedia.org/wiki/松原みき "wikilink")（1988年、 → 歌手活動休止後、作曲家に転身。[2004年](../Page/2004年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")死去）
   - [松村和子](https://ja.wikipedia.org/wiki/松村和子 "wikilink") (1980年〜1999年)
@@ -552,9 +554,10 @@
   - [YA-KYIM](../Page/YA-KYIM.md "wikilink") (2005年〜207年)（→[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")へ移籍）
   - [野狐禅](../Page/野狐禅_\(フォークバンド\).md "wikilink")（2003年〜2006年、 → インディーズ → 解散）
   - [やしきたかじん](../Page/やしきたかじん.md "wikilink")（ → [1976年](../Page/1976年.md "wikilink")[キングレコード](../Page/キングレコード.md "wikilink")よりデビュー。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")ビクター音楽産業に移籍。[1992年](../Page/1992年.md "wikilink")[ポリスター](../Page/ポリスター.md "wikilink")に移籍した（[2009年](../Page/2009年.md "wikilink")まで在籍）のち、2010年にビクターエンタテインメントに再移籍。[2014年](../Page/2014年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink")に[食道癌](../Page/食道癌.md "wikilink")で死去）
+  - 湧口愛美（2005年〜2006年、2007年以降リリースなし → 音楽活動終了）
   - [山口リサ](https://ja.wikipedia.org/wiki/山口リサ "wikilink") (2007年〜2013年)
-  - [山本正之](https://ja.wikipedia.org/wiki/山本正之 "wikilink")（プロデビュー当初は[ワーナー・パイオニアに所属](../Page/ワーナーミュージック・ジャパン.md "wikilink")。その後[1977年](../Page/1977年.md "wikilink")から[2000年](../Page/2000年.md "wikilink")にかけてビクターエンタテインメントに在籍していた。）
-  - [安原みき](https://ja.wikipedia.org/wiki/安原みき "wikilink")（ → 活動休止後、同社専属の作詞家へ転身）
+  - [山本正之](https://ja.wikipedia.org/wiki/山本正之 "wikilink")（プロデビュー当初は[ワーナー・パイオニアに所属](../Page/ワーナーミュージック・ジャパン.md "wikilink")。その後[1977年](../Page/1977年.md "wikilink")から[2000年](../Page/2000年.md "wikilink")にかけてビクターエンタテインメントに在籍していた）
+  - 安原みき（ → 活動休止後、同社専属の作詞家へ転身）
   - [山田千鶴](../Page/山田千鶴.md "wikilink") (年〜年)（2002年4月に同社でシングル「林檎のうさぎ」を発売したのみ）
   - [雪村いづみ](../Page/雪村いづみ.md "wikilink") (1958年〜?)
   - [U-DOU\&PLATY](../Page/U-DOU&PLATY.md "wikilink")（2006年〜[2007年](../Page/2007年.md "wikilink")に[RIDDIM ZONEに移籍](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")）
@@ -566,14 +569,13 @@
   - [ランクヘッド](https://ja.wikipedia.org/wiki/ランクヘッド "wikilink") (2003年〜2015年)
   - [livetune](https://ja.wikipedia.org/wiki/livetune "wikilink")（2008年〜2010年、[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")へ移籍）
   - [リア・ディゾン](../Page/リア・ディゾン.md "wikilink") (2007年〜2008年)（結婚に伴い音楽活動終了）
-  - [リトル・ピンク](https://ja.wikipedia.org/wiki/リトル・ピンク "wikilink")
+  - リトル・ピンク
   - [龍之介](https://ja.wikipedia.org/wiki/龍之介 "wikilink") (2000年〜2004年)
   - [りりィ](https://ja.wikipedia.org/wiki/りりィ "wikilink")（東芝EMI → ビクターインビテーション → BMG JAPAN → 「Lily-Yoji（りりィあんどよーじ）」としてコロムビアへ移籍）
   - [リンリン・ランラン](../Page/リンリン・ランラン.md "wikilink") (1974年〜1976年)
   - [レッド・ペッパー・ガールズ](https://ja.wikipedia.org/wiki/レッド・ペッパー・ガールズ "wikilink") (2008年〜2009年)
   - [レミオロメン](../Page/レミオロメン.md "wikilink") (2003年〜2012年)（[OORONG RECORDSへ移籍](https://ja.wikipedia.org/wiki/OORONG_RECORDS "wikilink")）
   - [ROCKY CHACK](../Page/ROCKY_CHACK.md "wikilink")（2008年〜2009年）
-  - [湧口愛美](https://ja.wikipedia.org/wiki/湧口愛美 "wikilink")（2005年〜2006年、2007年以降リリースなし → 音楽活動終了）
   - [和田弘とマヒナスターズ](../Page/和田弘とマヒナスターズ.md "wikilink")
 
 ### ビクターレーベル以外の外資系レーベル
@@ -598,7 +600,7 @@
   - [藤圭子](../Page/藤圭子.md "wikilink")
   - [本郷直樹](../Page/本郷直樹.md "wikilink")
   - [牧村三枝子](../Page/牧村三枝子.md "wikilink")（後に[ポリドール](../Page/ポリドール・レコード.md "wikilink") → [トーラスレコード → ニュートーラス](../Page/トーラスレコード.md "wikilink")（ともに現：ユニバーサルミュージック）を経て、現在はバップに在籍）
-  - [南陽子](https://ja.wikipedia.org/wiki/南陽子 "wikilink")
+  - 南陽子
   - [森田健作](https://ja.wikipedia.org/wiki/森田健作 "wikilink")（ → [フォーライフ](../Page/フォーライフ・レコード.md "wikilink")）
   - [リトル・ギャング](../Page/リトル・ギャング.md "wikilink")
   - [和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")（後にワーナーミュージック・ジャパンを経て、現在はテイチクエンタテインメントに在籍。RCA、ワーナー時代の音源は[ホリプロ](../Page/ホリプロ.md "wikilink")が所持 ）
@@ -607,7 +609,7 @@
 
 その後、日本フォノグラム、マーキュリーミュージックエンタテインメント、キティMMEを経てユニバーサルシグマ→ユニバーサル ミュージック合同会社に社名を変更。
 
-  - [尾崎紀世彦](https://ja.wikipedia.org/wiki/尾崎紀世彦 "wikilink")
+  - [尾崎紀世彦](../Page/尾崎紀世彦.md "wikilink")
   - [ザ・カーナビーツ](../Page/ザ・カーナビーツ.md "wikilink")（[アイ高野](../Page/アイ高野.md "wikilink")）
   - [ザ・サベージ](https://ja.wikipedia.org/wiki/ザ・サベージ "wikilink")（[寺尾聰](../Page/寺尾聰.md "wikilink")）
   - [ザ・ジャガーズ](../Page/ザ・ジャガーズ.md "wikilink")
@@ -920,7 +922,7 @@
 
 **ビクターエンタテインメント・ゲームズ**よりリリース。
 
-  - [THE KING OF FIGHTERS for GIRLS](https://ja.wikipedia.org/wiki/THE_KING_OF_FIGHTERS_for_GIRLS "wikilink")（2019年11月8日）\[28\]
+  - [THE KING OF FIGHTERS for GIRLS](https://ja.wikipedia.org/wiki/THE_KING_OF_FIGHTERS_for_GIRLS "wikilink")（2019年11月8日）\[29\]
 
 ## 主催ライブ
 
@@ -1504,7 +1506,7 @@ Getting Better Records×Speedstar Records presents MUSIC TAGS vol.3<br />
 <li>Yogee New Waves</li>
 <li>夜の本気ダンス</li>
 <li>DJダイノジ</li>
-<li>and more（第2弾時点の情報）[29]
+<li>and more（第2弾時点の情報）[30]
 </div>
 </div></li>
 </ul></td>
@@ -1631,11 +1633,12 @@ Getting Better Records×Speedstar Records presents MUSIC TAGS vol.3<br />
 19.
 20. 「ビクター音産、文具・衣料品向けにキャラクター売り込む」『[日本経済新聞](../Page/日本経済新聞.md "wikilink")』1982年2月12日付朝刊、9頁。
 21.
-22. 正式名称は「Drum Gorilla Park Records」
-23.
-24.
-25. リバスター時代の楽曲もビクターが販売権を引き継いだ。ビクター復帰後のベストアルバムでは、リバスター時代の楽曲からは「[今夜は離さない](https://ja.wikipedia.org/wiki/今夜は離さない "wikilink")」が収録されることが多い。
-26. 日本コロムビアは1962年の英コロムビアとの契約解消後、一部洋楽（米コロムビア）音源に「CBS」レーベルの使用を開始（通称：CBSコロムビア）、それ以降は洋楽部門「CJ」に所属した邦楽ポップス歌手・グループにも1968年8月頃まで「CBS」レーベルを使用していた。
-27. 1968年3月にCBS・ソニー（当時：CBS・ソニーレコード）の設立直後、米コロムビアと日本コロムビアとの原版契約を盾に、旧CBSコロムビアレーベル所属の邦楽歌手を全てCBS・ソニーに移籍させようとしたが、ジャッキー吉川とブルーコメッツは一旦形式的に移籍した後、結果的に日本コロムビアに復帰している。
-28.
-29. [「ビクターロック祭り」第2弾でくるり、サンボマスター出演決定 - 音楽ナタリー](https://natalie.mu/music/news/358996)
+22.  Musicman|url=[https://www.musicman.co.jp/business/18512|website=音楽業界総合情報サイト](https://www.musicman.co.jp/business/18512%7Cwebsite=音楽業界総合情報サイト) {{\!}} Musicman|accessdate=2020-05-02|language=ja}}
+23. かつて第1弾アーティストとして[踊Foot Worksが所属していた](https://ja.wikipedia.org/wiki/踊Foot_Works "wikilink")。
+24. 正式名称は「Drum Gorilla Park Records」
+25.
+26.
+27. 日本コロムビアは1962年の英コロムビアとの契約解消後、一部洋楽（米コロムビア）音源に「CBS」レーベルの使用を開始（通称：CBSコロムビア）、それ以降は洋楽部門「CJ」に所属した邦楽ポップス歌手・グループにも1968年8月頃まで「CBS」レーベルを使用していた。
+28. 1968年3月にCBS・ソニー（当時：CBS・ソニーレコード）の設立直後、米コロムビアと日本コロムビアとの原版契約を盾に、旧CBSコロムビアレーベル所属の邦楽歌手を全てCBS・ソニーに移籍させようとしたが、ジャッキー吉川とブルーコメッツは一旦形式的に移籍した後、結果的に日本コロムビアに復帰している。
+29.
+30. [「ビクターロック祭り」第2弾でくるり、サンボマスター出演決定 - 音楽ナタリー](https://natalie.mu/music/news/358996)

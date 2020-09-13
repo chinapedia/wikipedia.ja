@@ -51,7 +51,7 @@
   - 1991年10月7日-1992年4月2日 月曜日-[木曜日](../Page/木曜日.md "wikilink") 24：00-24：40
       - 金曜日の同時間帯で『東京RADIO CLUB』の姉妹番組『東京RADIO CLUB 20'S』がスタートした事により、週4日の放送となる。
   - 1992年4月10日-1993年10月1日 金曜日 24：00-26：00
-      - 『[パックインミュージック21](../Page/パックインミュージック21.md "wikilink")』金曜1部として。この時期は[北海道放送](../Page/HBCラジオ.md "wikilink")、[山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")、[RKB毎日放送](../Page/RKBラジオ.md "wikilink")（別の番組を放送していたこともあり）、[琉球放送](../Page/琉球放送.md "wikilink")にもネット。
+      - 『[パックインミュージック21](../Page/パックインミュージック21.md "wikilink")』金曜1部として。この時期は[北海道放送](../Page/HBCラジオ.md "wikilink")、[山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")、[RKB毎日放送](../Page/RKBラジオ.md "wikilink")（別の番組を放送していたこともあり）、[琉球放送](../Page/琉球放送.md "wikilink")にもネット。
   - 1993年10月8日-1994年4月1日 金曜日 20：00-21：00
       - 松宮は18時台の『[夜はこれから](https://ja.wikipedia.org/wiki/夜はこれから "wikilink")』、19時台の『[ザ・ヒットパレード](../Page/ザ・ヒットパレード_\(ラジオ番組\).md "wikilink")』に引き続いての出演。
   - 1994年4月11日-1994年9月12日 月曜日 21：00-22：00
@@ -91,7 +91,7 @@
   - [横山輝一](../Page/横山輝一.md "wikilink")（1986年10月 - 1987年10月）
   - [KAN](../Page/KAN.md "wikilink")（1987年10月 - 1988年4月）
   - [THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")（1988年4月 - 1988年10月）
-  - [Sing Like Talking](https://ja.wikipedia.org/wiki/Sing_Like_Talking "wikilink")（1988年10月 - 1989年4月）
+  - [SING LIKE TALKING](../Page/SING_LIKE_TALKING.md "wikilink")（1988年10月 - 1989年4月）
   - [富樫明生](https://ja.wikipedia.org/wiki/m.c.A・T "wikilink")（1989年4月 - 1990年4月）
   - [安藤まさひろ](../Page/安藤正容.md "wikilink")（1990年4月 - 1991年4月）
   - [LINE-UP](https://ja.wikipedia.org/wiki/LINE-UP "wikilink")（1991年4月 - 1991年10月）

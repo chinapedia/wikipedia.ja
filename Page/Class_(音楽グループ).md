@@ -197,4 +197,4 @@ Class、[KENJIRO](https://ja.wikipedia.org/wiki/KENJIRO "wikilink")、[井上武
   - [class](https://wmg.jp/class/) ワーナーミュージック・アーティストページ
   - [paper island](http://1993.jp/) 日浦孝則のオフィシャルサイト
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")
+[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:1993年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1993年に結成した音楽グループ "wikilink") [Category:1996年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に解散した音楽グループ "wikilink") [Category:2003年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に再結成した音楽グループ "wikilink") [Category:2009年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2009年に解散した音楽グループ "wikilink")

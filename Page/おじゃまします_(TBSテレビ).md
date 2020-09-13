@@ -5,7 +5,7 @@
 
 ## 概要
 
-毎日[新宿コメディシアター](https://ja.wikipedia.org/wiki/新宿コメディシアター "wikilink")で[公開](../Page/公開放送.md "wikilink")[生放送](../Page/生放送.md "wikilink")を行っていた平日昼の[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")で、[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")の[コント山口君と竹田君](../Page/コント山口君と竹田君.md "wikilink")が司会を務めていた。このスタジオは、当時[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[森田一義アワー 笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")』が放送されていた[スタジオアルタ](../Page/スタジオアルタ.md "wikilink")と同じく[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[新宿](../Page/新宿.md "wikilink")3丁目にあり、。冒頭で「打倒、いいとも\!」などの掛け声とともに、『いいとも\!』のようにオープニングで歌ったり踊ったりするのも特徴としていた。
+毎日[新宿コメディシアター](https://ja.wikipedia.org/wiki/新宿コメディシアター "wikilink")で[公開](../Page/公開放送.md "wikilink")[生放送](../Page/生放送.md "wikilink")を行っていた平日昼の[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")で、[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")の[コント山口君と竹田君](../Page/コント山口君と竹田君.md "wikilink")が司会を務めていた。このスタジオは、当時[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[森田一義アワー 笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")』が放送されていた[スタジオアルタ](../Page/スタジオアルタ.md "wikilink")と同じく[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[新宿](../Page/新宿.md "wikilink")3丁目にあり、新宿からの生放送同士ということから「新宿戦争」と呼ばれていた。冒頭で「打倒、いいとも\!」などの掛け声とともに、『いいとも\!』のようにオープニングで歌ったり踊ったりするのも特徴としていた。
 
 ## 出演者
 

@@ -1,32 +1,29 @@
 > この記事は[Young Love](https://ja.wikipedia.org/wiki/Young_Love)から翻訳されています。
 
 
-『**Young Love**』（ヤング・ラヴ）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の12枚目の[オリジナル・アルバムであり](../Page/スタジオ・アルバム.md "wikilink")、本作の4曲目に収録されている楽曲名である。[1996年](../Page/1996年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
+『**Young Love**』（ヤング・ラヴ）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の12枚目の[オリジナル・アルバムであり](../Page/スタジオ・アルバム.md "wikilink")、本作の4曲目に収録されている楽曲名である。[1996年](../Page/1996年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")にCDとカセットテープで発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
 
-その後、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月23日](../Page/4月23日.md "wikilink")に早くも再発がなされ、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月3日](../Page/12月3日.md "wikilink")に再発売されている。
+同年[8月1日](../Page/8月1日.md "wikilink")にはレコード、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月23日](../Page/4月23日.md "wikilink")にはMDとして発売されている。その後、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月3日](../Page/12月3日.md "wikilink")にCDとして再発売され、[2014年](../Page/2014年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")からはダウンロード配信、[2019年](../Page/2019年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")からはストリーミング配信が開始されている\[1\]\[2\]。
 
 ## 背景
 
-デビューから18年を経ていたサザンが、長く空いたリリースやソロ活動もあり**原点復帰**をテーマとして制作された作品である。
+前作『[世に万葉の花が咲くなり](../Page/世に万葉の花が咲くなり.md "wikilink")』まで、制作に深く関わっていた[小林武史](../Page/小林武史.md "wikilink")とのタッグは本作からは無くなり、自身のセルフプロデュースのものが多くなった。本作はサザンのメンバーが最も影響を受けた1960年代から1970年代の[ロックを意識した作品で](../Page/ロック_\(音楽\).md "wikilink")、**原点復帰**がテーマとなっている\[3\]\[4\]\[5\]。
 
-## 録音
-
-それまで深く関わっていた[小林武史](../Page/小林武史.md "wikilink")とのタッグは本作からは無くなり、編曲はサザン自身のセルフプロデュースのものが多い。
-
-前作発売からかなりの間隔が空いたことが大きく、アルバム未収録シングルが多い。前作『[世に万葉の花が咲くなり](../Page/世に万葉の花が咲くなり.md "wikilink")』では先行シングル2作が[カップリング曲含め計](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")4曲収録されたことに対し、前作から本作発売までに製作されたシングル7作のうち、『[HAPPY\!](../Page/HAPPY!_\(アルバム\).md "wikilink")』発売までの4作は未収録となった。
+シングルからは「[あなただけを 〜Summer Heartbreak〜](../Page/あなただけを_〜Summer_Heartbreak〜.md "wikilink")」「[愛の言霊 〜Spiritual Message〜](../Page/愛の言霊_〜Spiritual_Message〜.md "wikilink")」「[太陽は罪な奴](../Page/太陽は罪な奴.md "wikilink")」が収録されているが、「あなただけを」の前に発売された「[マンピーのG★SPOT](../Page/マンピーのG★SPOT.md "wikilink")」はアルバムのコンセプトと違ったために収録されていない\[6\]。
 
 ## リリース
 
-オリジナル盤の品番はVICL-777。また、『[世に万葉の花が咲くなり](../Page/世に万葉の花が咲くなり.md "wikilink")』では制作されなかったアナログLPも少数ながら制作された。当時普及し始めていた[MDと](../Page/ミニディスク.md "wikilink")[カセットテープ](../Page/カセットテープ.md "wikilink")でも発売され、4形態のリリースとなった。MDとしての音源リリースが各レコード会社から試みられたのはごく僅かな期間であったため、本作のMD版も現在ではまず見かける事は無い。オリジナルアルバムでカセットテープ版がリリースされたのは本作が最後となっている。
+オリジナル盤の品番はVICL-777。また、『[世に万葉の花が咲くなり](../Page/世に万葉の花が咲くなり.md "wikilink")』では制作されなかったアナログLPも少数ながら制作された。当時普及し始めていた[MDと](../Page/ミニディスク.md "wikilink")[カセットテープ](../Page/カセットテープ.md "wikilink")でも発売され、4形態のリリースとなった。
 
-### 再発売
+  - 再発売
 
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月23日](../Page/4月23日.md "wikilink")（CD）
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月3日](../Page/12月3日.md "wikilink")（CD）リマスタリング
+<!-- end list -->
+
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月3日](../Page/12月3日.md "wikilink")（CD）VICL-63313 リマスタリング
 
 ## アートワーク
 
-ジャケットは2枚目アルバム『[10ナンバーズ・からっと](../Page/10ナンバーズ・からっと.md "wikilink")』以来約17年ぶりにメンバー全員の写真が使われた。桑田曰く「当初からメンバーの写真を使うことにしていた」とのこと。ジャケットのアート・ワークは[信藤三雄](../Page/信藤三雄.md "wikilink")が手がけた。メンバーはそれぞれ、メンバーが強く影響を受けている[1960年代](../Page/1960年代.md "wikilink")から[1970年代](../Page/1970年代.md "wikilink")の[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")[ロックのジャケットのパロディをしている](../Page/ロック_\(音楽\).md "wikilink")\[1\]。
+ジャケットは2枚目アルバム『[10ナンバーズ・からっと](../Page/10ナンバーズ・からっと.md "wikilink")』以来約17年ぶりにメンバー全員の写真が使われた\[7\]。ジャケットのデザインは[信藤三雄](../Page/信藤三雄.md "wikilink")が担当しており、メンバーはそれぞれ、[1960年代](../Page/1960年代.md "wikilink")から[1970年代](../Page/1970年代.md "wikilink")の[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")[ロックのジャケットのパロディをしている](../Page/ロック_\(音楽\).md "wikilink")\[8\]。
 
   - [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")＝[ボブ・ディラン](../Page/ボブ・ディラン.md "wikilink")『[ナッシュヴィル・スカイライン](https://ja.wikipedia.org/wiki/ナッシュヴィル・スカイライン "wikilink") [en](https://ja.wikipedia.org/wiki/:en:Nashville_Skyline "wikilink")』
   - [大森隆志](../Page/大森隆志.md "wikilink")＝[ビートルズ](../Page/ビートルズ.md "wikilink")『[アビイ・ロード](../Page/アビイ・ロード.md "wikilink") [en](https://ja.wikipedia.org/wiki/:en:Abbey_Road "wikilink")』
@@ -38,11 +35,11 @@
 <!-- end list -->
 
   -
-    また、空を飛ぶ飛行船は[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")の『[レッド・ツェッペリン I](../Page/レッド・ツェッペリン_I.md "wikilink") [en](https://ja.wikipedia.org/wiki/:en:Led_Zeppelin_I "wikilink")』のパロディである。
+    また、空を飛ぶ飛行船は[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")の『[レッド・ツェッペリン I](../Page/レッド・ツェッペリン_I.md "wikilink") [en](https://ja.wikipedia.org/wiki/:en:Led_Zeppelin_I "wikilink")』のパロディである\[9\]。
 
 ## チャート成績
 
-1996年に制定された[海の日](../Page/海の日.md "wikilink")に合わせたため、[土曜日](../Page/土曜日.md "wikilink")に発売になった。[オリコンチャート](../Page/オリコンチャート.md "wikilink")の実質的な集計期間はわずか2日間のみであったが[7月29日](../Page/7月29日.md "wikilink")付アルバムチャートで初週1位を獲得した。2週目の[8月5日](../Page/8月5日.md "wikilink")付の同チャートでミリオンを記録し\[2\]、最終的には累計249.4万枚（オリコン調べ）を売り上げて、シングル・アルバムを通して自身初のダブルミリオンを達成し、オリジナルアルバムでは最大のセールスを記録している\[3\]。
+1996年に制定された[海の日](../Page/海の日.md "wikilink")に合わせたため、土曜日に発売になった。[オリコンチャート](../Page/オリコンチャート.md "wikilink")の実質的な集計期間はわずか2日間のみであったが7月29日付アルバムチャートで初週1位を獲得した。2週目の8月5日付の同チャートでミリオンを記録し\[10\]、最終的には累計249.4万枚（オリコン調べ）を売り上げて、シングル・アルバムを通して自身初のダブルミリオンを達成し、オリジナルアルバムでは最大のセールスを記録している\[11\]\[12\]。
 
 ## 収録曲
 
@@ -51,66 +48,70 @@
 <!-- end list -->
 
 1.  **胸いっぱいの愛と情熱をあなたへ** (3'49)
-    （作詞・作曲:[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")／英語補作詞:[Tommy Snyder](../Page/トミー・スナイダー.md "wikilink")／編曲:サザンオールスターズ）
       -
+        （作詞・作曲:[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")／英語補作詞:[Tommy Snyder](../Page/トミー・スナイダー.md "wikilink")／編曲:サザンオールスターズ）
         桑田出演の[ゼネラルモーターズ](../Page/ゼネラルモーターズ.md "wikilink")「[キャデラック・セビル](../Page/キャデラック・セビル.md "wikilink")（AK34K型）」[CMソング](../Page/コマーシャルソング.md "wikilink")。
+        タイトルの「**胸いっぱいの愛**」は、[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")の楽曲「[胸いっぱいの愛を](https://ja.wikipedia.org/wiki/胸いっぱいの愛を "wikilink")」から引用されており、スネアの音やコーラスワークもレッド・ツェッペリンを意識した楽曲になっている\[13\]。
 2.  **ドラマで始まる恋なのに** (5'30)
-    （作詞・作曲:桑田佳祐／編曲:サザンオールスターズ）
       -
-        歌詞には英語が一切登場せず、全て日本語で書かれている。
+        （作詞・作曲:桑田佳祐／編曲:サザンオールスターズ）
+        バラード曲であり\[14\]、歌詞は日本語のみで構成されている。
 3.  **[愛の<ruby><rb>言霊</rb><rp></rp><rt>ことだま</rt><rp></rp></ruby> 〜Spiritual Message〜](../Page/愛の言霊_〜Spiritual_Message〜.md "wikilink")** (5'40)
-    （作詞・作曲:桑田佳祐／編曲:サザンオールスターズ／SAX SOLI編曲:[山本拓夫](../Page/山本拓夫.md "wikilink")）
       -
+        （作詞・作曲:桑田佳祐／編曲:サザンオールスターズ／SAX SOLI編曲:[山本拓夫](../Page/山本拓夫.md "wikilink")）
         1996年発売の37枚目シングル。
 4.  **Young Love (青春の終わりに)** (4'00)
-    （作詞・作曲:桑田佳祐／編曲:サザンオールスターズ）
       -
-        タイトル曲。
+        （作詞・作曲:桑田佳祐／編曲:サザンオールスターズ）
+        タイトル曲であり、ギター・ハーモニカ・コーラスワークやサウンドは初期の[ビートルズ](../Page/ビートルズ.md "wikilink")を意識している\[15\]\[16\]。
 5.  **Moon Light Lover** (4'53)
-    （作詞・作曲:桑田佳祐／編曲:サザンオールスターズ／管編曲:山本拓夫 & サザンオールスターズ）
       -
+        （作詞・作曲:桑田佳祐／編曲:サザンオールスターズ／管編曲:山本拓夫 & サザンオールスターズ）
         [ニフティ](https://ja.wikipedia.org/wiki/ニフティ "wikilink")「[NIFTY-Serve](../Page/ニフティサーブ.md "wikilink")」（現・NIFTY-SERVE）CMソング。
         歌詞に登場する「匂艶（にじいろ）」は「[匂艶 THE NIGHT CLUB](../Page/匂艶_THE_NIGHT_CLUB.md "wikilink")」でも使われた桑田の造語である。
-        この曲のベースは関口の演奏ではなく桑田が[ミュージックシーケンサー](../Page/ミュージックシーケンサー.md "wikilink")で打ち込んだものになっている\[4\]。
-        20周年[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[海のYeah\!\!](../Page/海のYeah!!.md "wikilink")』や、[バラード](../Page/バラード.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")『[バラッド3 〜the album of LOVE〜](../Page/バラッド3_〜the_album_of_LOVE〜.md "wikilink")』にも収録されている。
+        この曲のベースは[ミュージックシーケンサー](../Page/ミュージックシーケンサー.md "wikilink")で打ち込んでいて、ソウル・ミュージック風に仕上がっている\[17\]\[18\]。
+        [ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[海のYeah\!\!](../Page/海のYeah!!.md "wikilink")』や、[バラード](../Page/バラード.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")『[バラッド3 〜the album of LOVE〜](../Page/バラッド3_〜the_album_of_LOVE〜.md "wikilink")』にも収録されている。
 6.  **汚れた<ruby><rb>台所</rb><rp></rp><rt>キッチン</rt><rp></rp></ruby>** (4'13)
-    （作詞・作曲:桑田佳祐／編曲:サザンオールスターズ）
       -
-        社会・政治などを憂いた歌詞の[ロックナンバー](../Page/ロック_\(音楽\).md "wikilink")。メンバー一同スタジオに集い、サポートメンバー無しの**一発録り**でレコーディングされた。
+        （作詞・作曲:桑田佳祐／編曲:サザンオールスターズ）
+        社会・政治などを憂いた歌詞のロックナンバー。メンバー一同スタジオに集い、サポートメンバー無しの**一発録り**でレコーディングされた\[19\]。
 7.  **[あなただけを 〜Summer Heartbreak〜](../Page/あなただけを_〜Summer_Heartbreak〜.md "wikilink")** (5'15)
-    （作詞・作曲:桑田佳祐／編曲:サザンオールスターズ／管編曲:山本拓夫 & サザンオールスターズ）
       -
+        （作詞・作曲:桑田佳祐／編曲:サザンオールスターズ／管編曲:山本拓夫 & サザンオールスターズ）
         1995年発売の36枚目シングル。
 8.  **恋の歌を唄いましょう** (4'27)
-    （作詞・作曲:桑田佳祐／編曲:サザンオールスターズ／弦編曲:[中西俊博](../Page/中西俊博.md "wikilink") & サザンオールスターズ）
       -
-        [原由子](../Page/原由子.md "wikilink")ボーカル曲。
+        （作詞・作曲:桑田佳祐／編曲:サザンオールスターズ／弦編曲:[中西俊博](../Page/中西俊博.md "wikilink") & サザンオールスターズ）
+        [原由子](../Page/原由子.md "wikilink")ボーカル曲。[ベッツィ&クリス](../Page/ベッツィ&クリス.md "wikilink")を思わせるようなアコースティックテイストで、昭和歌謡曲をイメージさせるような楽曲になっている\[20\]\[21\]。
 9.  **マリワナ伯爵** (4'09)
-    （作詞・作曲:桑田佳祐／編曲:サザンオールスターズ）
       -
-        歌詞に[ローリング・ストーンズ](../Page/ローリング・ストーンズ.md "wikilink")が登場している。
+        （作詞・作曲:桑田佳祐／編曲:サザンオールスターズ）
+        タイトル通り、[大麻](https://ja.wikipedia.org/wiki/大麻 "wikilink")（マリファナ）を題材とした楽曲で\[22\]、歌詞に[ローリング・ストーンズ](../Page/ローリング・ストーンズ.md "wikilink")が登場している。
 10. **愛無き<ruby><rb>愛児</rb><rp></rp><rt>まなご</rt><rp></rp></ruby> 〜Before The Storm〜** (4'38)
-    （作詞・作曲:桑田佳祐／英語補作詞:Tommy Snyder／編曲:サザンオールスターズ）
       -
-        サビなどが[変拍子になっている](https://ja.wikipedia.org/wiki/拍子#変拍子 "wikilink")。
+        （作詞・作曲:桑田佳祐／英語補作詞:Tommy Snyder／編曲:サザンオールスターズ）
+        サウンドや歌詞は、ビートルズやレッド・ツェッペリン、[クイーン](../Page/クイーン_\(バンド\).md "wikilink")「[ボヘミアン・ラプソディ](https://ja.wikipedia.org/wiki/ボヘミアン・ラプソディ "wikilink")」を混ぜたようなものであり\[23\]\[24\]、サビなどが[変拍子になっている](https://ja.wikipedia.org/wiki/拍子#変拍子 "wikilink")。
         アルバム『バラッド3』にも収録されている。
 11. **[恋のジャック・ナイフ](https://ja.wikipedia.org/wiki/愛の言霊_〜Spiritual_Message〜#収録曲 "wikilink")** (4'37)
-    （作詞・作曲:桑田佳祐／編曲:サザンオールスターズ）
       -
-        シングル「愛の言霊 〜Spiritual Message」のカップリング曲。イントロの[DJの声のみ](../Page/ディスクジョッキー.md "wikilink")、シングル盤とアルバム盤では異なる。『[海のYeah\!\!](../Page/海のYeah!!.md "wikilink")』にもこちらのアルバムバージョンで収録された。
+        （作詞・作曲:桑田佳祐／編曲:サザンオールスターズ）
+        シングル「愛の言霊 〜Spiritual Message」のカップリング曲。
+        イントロの[DJの声のみ](../Page/ディスクジョッキー.md "wikilink")、シングル盤とアルバム盤では異なり\[25\]、『[海のYeah\!\!](../Page/海のYeah!!.md "wikilink")』にもこちらのアルバムバージョンで収録された。
 12. **Soul Bomber (21世紀の精神爆破魔)** (4'23)
-    （作詞・作曲:桑田佳祐／英語補作詞:Tommy Snyder／編曲:サザンオールスターズ／管編曲:山本拓夫 & サザンオールスターズ）
-13. **[太陽は罪な奴](../Page/太陽は罪な奴.md "wikilink")** (4'22)
-    （作詞・作曲:桑田佳祐／英語補作詞:Tommy Snyder／編曲:サザンオールスターズ／弦編曲:中西俊博 & サザンオールスターズ）
       -
+        （作詞・作曲:桑田佳祐／英語補作詞:Tommy Snyder／編曲:サザンオールスターズ／管編曲:山本拓夫 & サザンオールスターズ）
+        サブタイトルの「**21世紀の精神爆破魔**」は、[キング・クリムゾン](../Page/キング・クリムゾン.md "wikilink")の楽曲「[21世紀のスキッツォイド・マン](../Page/21世紀のスキッツォイド・マン.md "wikilink")（21世紀の精神異常者）から引用している\[26\]\[27\]。
+13. **[太陽は罪な奴](../Page/太陽は罪な奴.md "wikilink")** (4'22)
+      -
+        （作詞・作曲:桑田佳祐／英語補作詞:Tommy Snyder／編曲:サザンオールスターズ／弦編曲:中西俊博 & サザンオールスターズ）
         1996年発売の38枚目シングル。
         前曲「Soul Bomber」後奏のクラクションの[SEから繋がる形で](../Page/効果音.md "wikilink")、冒頭に[波](../Page/波.md "wikilink")音が加えられている。都会の無機質な雑音から一転して浜辺の波音に変わる、[コンセプトアルバム](https://ja.wikipedia.org/wiki/コンセプトアルバム "wikilink")の応用。
 14. **心を込めて花束を** (4'07)
-    （作詞・作曲:桑田佳祐／編曲:[宮川泰](../Page/宮川泰.md "wikilink")）
       -
-        ほぼ[オーケストラ](../Page/オーケストラ.md "wikilink")と[ピアノ](../Page/ピアノ.md "wikilink")の伴奏だけで歌われている。
+        （作詞・作曲:桑田佳祐／編曲:[宮川泰](../Page/宮川泰.md "wikilink")）
+        ほぼ[オーケストラ](../Page/オーケストラ.md "wikilink")と[ピアノ](../Page/ピアノ.md "wikilink")の伴奏だけで歌われているバラード曲\[28\]。この曲は当アルバムの他の収録曲と異なり、桑田の頭にあった『[シャボン玉ホリデー](../Page/シャボン玉ホリデー.md "wikilink")』的なサウンドをやってみようというコンセプトで制作され、編曲に[宮川泰](../Page/宮川泰.md "wikilink")を起用し、フルオーケストラアレンジの楽曲になった\[29\]。
+        桑田が[ラッツ&スター](../Page/ラッツ&スター.md "wikilink")のメンバーの結婚式に出席した際に、[鈴木雅之の父親が泣いていた姿を見た事がこの曲を生むきっかけとなったとされている](../Page/鈴木雅之_\(歌手\).md "wikilink")\[30\]。
         アルバム『バラッド3』にも収録されている。
-        「[桑田佳祐のやさしい夜遊び](../Page/桑田佳祐のやさしい夜遊び.md "wikilink")」（[TOKYO FM](https://ja.wikipedia.org/wiki/TOKYO_FM "wikilink")）2013年4月6日放送分では、サザンのファンである[矢部浩之](../Page/矢部浩之.md "wikilink")（[ナインティナイン](https://ja.wikipedia.org/wiki/ナインティナイン "wikilink")）が[青木裕子と結婚した事を受け](https://ja.wikipedia.org/wiki/青木裕子_\(1983年生\) "wikilink")、生歌のコーナーで歌唱した\[5\]。この事は矢部本人も承知しており、サザンと共演した「[1番ソングSHOW](https://ja.wikipedia.org/wiki/1番ソングSHOW "wikilink")」（[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")）2013年8月7日放送分ではこの事について言及している\[6\]。
 
 ## 参加ミュージシャン
 
@@ -270,9 +271,33 @@
 
 [Category:1996年のアルバム](https://ja.wikipedia.org/wiki/Category:1996年のアルバム "wikilink") [Category:1996年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink") [Category:サザンオールスターズのアルバム](https://ja.wikipedia.org/wiki/Category:サザンオールスターズのアルバム "wikilink") [Category:ビクタータイシタのアルバム](https://ja.wikipedia.org/wiki/Category:ビクタータイシタのアルバム "wikilink")
 
-1.  \[<http://www.cinra.net/interview/201604-shindomitsuo?page=2>　なぜサザンは「時代を代表する天才」と呼べるか？信藤三雄に訊く\] cinra.net
-2.  [サザンオールスターズ予想通りのミリオン突破で史上初の快挙達成\!\!](http://www.oricon.co.jp/news/2210/full/) オリコンスタイル 2015年10月20日閲覧
-3.  [サザンオールスターズ 売上別TOP10＆主な記録](http://www.oricon.co.jp/news/54526/full/) オリコン 2015年1月22日閲覧
-4.  『[桑田佳祐のやさしい夜遊び](../Page/桑田佳祐のやさしい夜遊び.md "wikilink")』2013年9月14日放送分。
-5.  [桑田佳祐のやさしい夜遊び 2013年4月](http://www.tfm.co.jp/yoasobi/history_index.php?yd=201304)TOKYO FM
-6.  [1番ソングSHOW 日本全国47都道府県 地元スター総選挙＆サザン緊急出演SP](https://tvtopic.goo.ne.jp/program/ntv/28872/660780/)goo テレビ番組
+1.  [サザン、全266曲を世界111ヶ国で配信](https://www.oricon.co.jp/news/2046030/full/) オリコン 2014年12月17日配信, 2020年6月4日閲覧
+2.  [サザン関連全972曲 サブスク一斉解禁 メンバーソロ曲も対象に](https://www.oricon.co.jp/news/2151435/full/) オリコン 2019年12月20日配信, 2019年12月20日閲覧
+3.
+4.  [『Young Love』は高次元で洋楽ロックを取り込んだ20世紀のサザンオールスターズの最高傑作\!（2ページ）](https://okmusic.jp/news/329608?page=2) okmusic 2019年3月27日配信, 2020年7月15日閲覧
+5.  『サザンオールスターズ 公式データブック 1978-2019』（2019年）[リットーミュージック](../Page/リットーミュージック.md "wikilink")出版 p124-127
+6.
+7.
+8.  \[<http://www.cinra.net/interview/201604-shindomitsuo?page=2>　なぜサザンは「時代を代表する天才」と呼べるか？信藤三雄に訊く\] cinra.net
+9.
+10. [サザンオールスターズ予想通りのミリオン突破で史上初の快挙達成\!\!](http://www.oricon.co.jp/news/2210/full/) オリコンスタイル 2015年10月20日閲覧
+11.
+12. [サザンオールスターズ 売上別TOP10＆主な記録](http://www.oricon.co.jp/news/54526/full/) オリコン 2015年1月22日閲覧
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25. 『サザンオールスターズ 公式データブック 1978-2019』（2019年）[リットーミュージック](../Page/リットーミュージック.md "wikilink")出版 p79
+26.
+27.
+28.
+29. 『サザンオールスターズ 公式データブック 1978-2019』（2019年）[リットーミュージック](../Page/リットーミュージック.md "wikilink")出版 p80
+30. [7月19日O.A.～Master Piece～「心を込めて花束を」サザンオールスターズ](https://www.tfm.co.jp/song/index.php?archive=2019-7-19) [TOKYO FM](https://ja.wikipedia.org/wiki/TOKYO_FM "wikilink")

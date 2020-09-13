@@ -271,7 +271,7 @@
   - [犯罪捜査官ネイビーファイル](../Page/犯罪捜査官ネイビーファイル.md "wikilink")
   - [秘密指令S](https://ja.wikipedia.org/wiki/秘密指令S "wikilink")
   - [秘密情報部 トーチウッド](https://ja.wikipedia.org/wiki/秘密情報部_トーチウッド "wikilink")
-  - [不死身の男](https://ja.wikipedia.org/wiki/不死身の男 "wikilink")
+  - [不死身の男](../Page/不死身の男.md "wikilink")
   - [復讐の鬼探偵ロングストリート](https://ja.wikipedia.org/wiki/復讐の鬼探偵ロングストリート "wikilink")
   - [弁護士ペトロチェリー](https://ja.wikipedia.org/wiki/弁護士ペトロチェリー "wikilink")
   - [冒険野郎マクガイバー](../Page/冒険野郎マクガイバー.md "wikilink")
@@ -294,8 +294,12 @@
 
 ## 外部リンク
 
-  - [スーパー\!ドラマTV](http://www.superdramatv.com/index.html)
+  - [スーパー\!ドラマTV](http://www.superdramatv.com/)
 
+  -
+  -
+  -
+  -
 [Category:スカパー\!のチャンネル](https://ja.wikipedia.org/wiki/Category:スカパー!のチャンネル "wikilink") [Category:東北新社](https://ja.wikipedia.org/wiki/Category:東北新社 "wikilink")
 
 1.

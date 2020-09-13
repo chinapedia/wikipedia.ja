@@ -39,8 +39,8 @@
 
   - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
       - **[高松浩史](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink")**（2017年 ‐ ）
-      - [明希](../Page/シド_\(バンド\).md "wikilink") （2017年）
-      - [TOKIE](../Page/TOKIE.md "wikilink") （2014年 - 2016年）
+      - [明希](../Page/シド_\(バンド\).md "wikilink") （2016年 - 2017年）
+      - [TOKIE](../Page/TOKIE.md "wikilink") （2014年 - 2017年）
       - 中西智子 （2016年）
       - [人時](../Page/人時.md "wikilink") （2014年）
       - 中村泰造（2012年 - 2013年）
@@ -50,6 +50,7 @@
   - [ドラム](../Page/ドラムセット.md "wikilink")
       - **[KENZO](https://ja.wikipedia.org/wiki/KENZO_\(ミュージシャン\) "wikilink")** （2016年 - ）
       - [山口大吾](https://ja.wikipedia.org/wiki/People_In_The_Box "wikilink")(2019年 - )
+      - Satoshi (2019年)
       - かどしゅんたろう （2004年、2014年 - 2016年）
       - [ササブチヒロシ](https://ja.wikipedia.org/wiki/ササブチヒロシ "wikilink") （2011年 - 2014年）
       - [淳士](../Page/淳士.md "wikilink") (2003年)
@@ -88,21 +89,21 @@
 
 2015年5月27日、2人体制での初のアルバム「PLANETARY SECRET」をリリース。
 
-2016年10月26日に初の外部からのプロデューサーとして[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[ken](https://ja.wikipedia.org/wiki/ken "wikilink")を迎えたシングル「G I R L」をリリース\[27\]\[28\]。2018年7月24日にシングル「AN ETERNITY」「FLOWER OF ROMANCE」を2枚同時リリース。
+2016年10月26日、初の外部からのプロデューサーとして[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[ken](https://ja.wikipedia.org/wiki/ken "wikilink")を迎えたシングル「G I R L」をリリース\[27\]\[28\]。 2018年7月24日、シングル「AN ETERNITY」「FLOWER OF ROMANCE」を2枚同時リリース。同年12月25日には、シングル「YOU」をリリースした。c/wには、アルバム「ノンフィクション」収録の「何千何万何億の君への想い」を新たにレコーディングしなおした「何千何万何億の君への想い 2018」が収録されている。
 
-アルバム「PLANETARY SECRET」のリリースに合わせ、アルバムの[モチーフ](https://ja.wikipedia.org/wiki/モチーフ "wikilink")となった[星にちなんだ](../Page/天体.md "wikilink")[プラネタリウム](../Page/プラネタリウム.md "wikilink")での先行試聴会を開催した\[29\]。その後、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")での撮影および[SNS等での共有を許可したライブ](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")\[30\]\[31\]、ライブペインティングによる演出\[32\]、客席中央に円形ステージを設置した360度ライブ\[33\]、フラワーアーティストによるステージ演出\[34\]など、近年は実験的なスタイルの公演も積極的に行っている。
+アルバム「PLANETARY SECRET」リリースの際には、アルバムの[モチーフ](https://ja.wikipedia.org/wiki/モチーフ "wikilink")となった[星にちなんで](../Page/天体.md "wikilink")[プラネタリウム](../Page/プラネタリウム.md "wikilink")での先行試聴会を開催\[29\]。その後、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")での撮影および[SNS等での共有を許可したライブ](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")\[30\]\[31\]、ライブペインティングによる演出\[32\]、客席中央に円形ステージを設置した360度ライブ\[33\]、フラワーアーティストによるステージ演出\[34\]など、近年は実験的なスタイルの公演も積極的に行っている。
 
-2019年4月30日、2人体制となって初のホールライブ「VISION OF // PEP」を[日本橋三井ホール](https://ja.wikipedia.org/wiki/日本橋三井ホール "wikilink")にて開催\[35\]。本公演はリリース予定のアルバム「PUER ET PUELLA」(ピュエル エ ピュエラ：ラテン語で"少年少女"の意)のお披露目公演でもあった。
+2019年4月30日、2人体制となって初のホールワンマン「VISION OF // PEP」を[日本橋三井ホール](https://ja.wikipedia.org/wiki/日本橋三井ホール "wikilink")にて開催\[35\]。本公演はリリース予定のアルバム「PUER ET PUELLA」(ピュエル エ ピュエラ：ラテン語で"少年少女"の意)のお披露目公演でもあった。
 
-2019年7月13日アルバムの視聴会とトークイベントを開催\[36\]。2019年7月24日名古屋E.L.Lを皮切りに全国21カ所にわたるツアー「THE BIRTH OF LIBERTY」を決行。2019年7月30日に先行シングル3枚を含む4thアルバム「PUER ET PUELLA」をリリース。前作「PLANETARY SECRET」から実に4年2ヶ月ぶりの待望のアルバムリリースとなった。
+2019年7月13日、アルバムの視聴会とトークイベントを開催\[36\]。2019年7月24日の[名古屋E.L.L.を皮切りに](https://ja.wikipedia.org/wiki/Electric_Lady_Land "wikilink")、全国21カ所にわたるツアー「THE BIRTH OF LIBERTY」を決行。2019年7月30日、先行シングル4曲を含む4thアルバム「PUER ET PUELLA」をリリース。前作「PLANETARY SECRET」から実に4年2ヶ月ぶりの待望のアルバムリリースとなった。
 
 精力的にライブ活動を行う一方、2019年11月1日突如カウントダウンが始まり、2日0時、翌年1月にニューアルバム「SIN DIVISION」をリリースすると発表\[37\]。前作リリースから4ヶ月というショートスパンでの告知、またツアー中の出来事ということもありファン・関係者を大いに沸かせた。
 
-2020年1月10日「THE BIRTH OF LIBERTY」ツアーファイナルを[ハーモニーホール座間](https://ja.wikipedia.org/wiki/ハーモニーホール座間 "wikilink")で開催\[38\]。ギター圭にとっては凱旋公演となった。
+2020年1月10日、「THE BIRTH OF LIBERTY」ツアーファイナルを[ハーモニーホール座間](https://ja.wikipedia.org/wiki/ハーモニーホール座間 "wikilink")で開催\[38\]。ギター圭にとっては凱旋公演となった。
 
-2020年1月28日「SIN DIVISION」をリリース。これにより、圭曰く「2人体制になったときに作りたいと思った3枚のアルバム」が完成することとなる。しばしば「PLANETARY SECRET（PS）」は黒い本、「PUER ET PUELLA（PEP）」は白い本、「SIN DIVISION（SD）」は赤い本と形容される\[39\]。2020年2月より「SIN DIVISION」を引っさげてツアーを開催する予定であったが、2020年5月末現在、[新型コロナウイルス](../Page/新型コロナウイルス.md "wikilink")感染症拡大防止に伴う自粛により公演の延期を余儀なくされている\[40\]。
+2020年1月28日、アルバム「SIN DIVISION」をリリース。これにより、圭曰く「2人体制になったときに作りたいと思った3枚のアルバム」が完成することとなる。しばしば「PLANETARY SECRET（PS）」は黒い本、「PUER ET PUELLA（PEP）」は白い本、「SIN DIVISION（SD）」は赤い本と形容される\[39\]。2020年2月より「SIN DIVISION」を引っさげてツアーを開催する予定であったが、2020年5月末現在、[新型コロナウイルス感染症拡大防止に伴う自粛により公演の延期を余儀なくされている](../Page/2019新型コロナウイルス.md "wikilink")\[40\]。
 
-[2020年](../Page/2020年.md "wikilink") 4月3日「STAY」\[41\]をYouTubeにて公開。デモ音源を用いて緊急公開した映像は、[新型コロナウイルス](../Page/新型コロナウイルス.md "wikilink")感染拡大防止のため、怜（Vo）と圭（G）が自宅から外に出ることなく、インターネット上での遠隔コミュニケーションを重ねて生み出した。全編英詞の歌詞は2人の共作。 また、ミュージックビデオはファン参加型を試み、[Twitter](../Page/Twitter.md "wikilink")、[LINE](https://ja.wikipedia.org/wiki/LINE "wikilink")のOPENCHAT（オープンチャット）機能を活用し、「自分の大切なもの、守りたいもの、好きなもの」などの画像やコメントを募った上で、編集したものが新たに公開された\[42\]。
+[2020年](../Page/2020年.md "wikilink") 4月3日「STAY」\[41\]をYouTubeにて公開。デモ音源を用いて緊急公開した映像は、[新型コロナウイルス感染拡大防止のため](../Page/2019新型コロナウイルス.md "wikilink")、怜（Vo）と圭（G）が自宅から外に出ることなく、インターネット上での遠隔コミュニケーションを重ねて生み出した。全編英詞の歌詞は2人の共作。 また、ミュージックビデオはファン参加型を試み、[Twitter](../Page/Twitter.md "wikilink")、[LINE](https://ja.wikipedia.org/wiki/LINE "wikilink")のOPENCHAT（オープンチャット）機能を活用し、「自分の大切なもの、守りたいもの、好きなもの」などの画像やコメントを募った上で、編集したものが新たに公開された\[42\]。
 
 ### バンド名の表記について
 
@@ -172,7 +173,12 @@
 <td><p>2002年8月7日</p></td>
 <td><p><strong>スケベボウイ</strong></p></td>
 <td><p>SCL-006</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全3曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>唄</li>
 <li>しゃがれブギー</li>
 <li>曖昧ドラスチックナンバー</li>
@@ -192,7 +198,12 @@
 <td><p>2003年2月5日</p></td>
 <td><p><strong>Chaplin</strong></p></td>
 <td><p>SCL-007</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全3曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>Cherry King</li>
 <li>butterfly</li>
 <li>babybaby</li>
@@ -205,7 +216,12 @@
 <td><p>2003年7月24日</p></td>
 <td><p><strong>我伐道</strong></p></td>
 <td><p>SFCD-0018</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全3曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>我伐道</li>
 <li>ロード・オブ・ザ・ミャンマー</li>
 <li>謝々ラ</li>
@@ -218,7 +234,12 @@
 <td><p>2004年4月7日</p></td>
 <td><p><strong>ila.</strong></p></td>
 <td><p>SFCD-0025/0026</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全2＋1曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>space cadet</li>
 <li>ila.</li>
 </ol>
@@ -234,7 +255,12 @@
 <td><p>2004年4月21日</p></td>
 <td><p><strong>ガリロン</strong></p></td>
 <td><p>SFCD-0028</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全3曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>ガリロン</li>
 <li>redbird</li>
 <li>歪</li>
@@ -247,7 +273,12 @@
 <td><p>2004年7月28日</p></td>
 <td><p><strong>Nutty a hermit.</strong></p></td>
 <td><p>SFCD-0031/0032</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全2＋1曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>bug</li>
 <li>Nutty a hermit.</li>
 </ol>
@@ -646,6 +677,18 @@ PGSK-20</p>
 </div>
 </div></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>19th</p></td>
+<td><p>2020年4月25日</p></td>
+<td><p><strong>S T A Y</strong></p></td>
+<td></td>
+<td><ol>
+<li>S T A Y</li>
+</ol>
+</div>
+</div></td>
+<td><p>配信シングル</p></td>
 </tr>
 </tbody>
 </table>
@@ -1165,7 +1208,7 @@ PGSK-032-33</p></td>
 | 1st | 2001年8月12日 | **あなくろフィルム**      | SCBV-001 | 現在入手不可                                                |
 | 2nd | 2003年4月3日  | **絶交KAMEN Final** |          | [NHKホール](../Page/NHKホール.md "wikilink")ワンマンライブ限定配布・非売品 |
 
-#### DVD
+#### Blu-Ray/DVD
 
 <table>
 <thead>
@@ -1505,6 +1548,88 @@ PGSK-011</p></td>
 2017年12月25日 <a href="../Page/ディファ有明.md" title="wikilink">ディファ有明</a>公演</p></td>
 </tr>
 <tr class="odd">
+<td><p>9th</p></td>
+<td><p>2019年12月25日</p></td>
+<td><p><strong>VISIONS OF // PEP</strong> <strong>-LIVE at NIHONBASHI MITSUI HALL 2019.04.30-</strong></p></td>
+<td><p>Blu-ray<br />
+PGSK-029<br />
+DVD<br />
+PGSK-030</p></td>
+<td><p>Blu-ray/DVD 共通</p>
+<div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全19曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>BIRTH OF VICTORY</li>
+<li>PUER ET PUELLA</li>
+<li>STARRY BOY</li>
+<li>FLOWER OF ROMANCE</li>
+<li>ヒトのイロ</li>
+<li>SKY WALKER</li>
+<li>SKY FITS HEAVEN</li>
+<li>SWALLOW THE NIGHT</li>
+<li>SILENT PICTURE</li>
+<li>AN ETERNITY</li>
+<li>CELEBRATE</li>
+<li>LAST SCENE [Acoustic Ver.]</li>
+<li>PURIFY</li>
+<li>PLANETARY LIGHT</li>
+<li>DREAMSCAPE</li>
+<li>G I R L</li>
+<li>YOU</li>
+<li>RINGING THE LIBERTY</li>
+<li>PERFECT WORLD</li>
+<li>BONUS FOOTAGE</li>
+</ol>
+</div>
+</div></td>
+<td><p>ライブBlu-ray/DVD<br />
+2019年4月30日 <a href="https://ja.wikipedia.org/wiki/日本橋三井ホール" title="wikilink">日本橋三井ホール</a>公演</p></td>
+</tr>
+<tr class="even">
+<td><p>10th</p></td>
+<td><p>2020年9月9日</p></td>
+<td><p><strong>THE BIRTH OF LIBERTY // FINAL</strong> <strong>-LIVE at HARMONY HALL ZAMA 2020.01.10-</strong>[46]</p></td>
+<td><p>Blu-ray<br />
+PGSK-035<br />
+DVD<br />
+PGSK-036</p></td>
+<td><p>Blu-ray/DVD 共通</p>
+<div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全19曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>RINGING THE LIBERTY</li>
+<li>FLOWER OF ROMANCE</li>
+<li>SKY FITS HEAVEN</li>
+<li>ヒトのイロ</li>
+<li>SWALLOW THE NIGHT</li>
+<li>SILENT PICTURE</li>
+<li>PURIFY</li>
+<li>AN ETERNITY</li>
+<li>MEMENTO</li>
+<li>YOU</li>
+<li>PLANETARY LIGHT</li>
+<li>DREAMSCAPE</li>
+<li>STARRY BOY</li>
+<li>G I R L</li>
+<li>PERFECT WORLD</li>
+<li>LAST SCENE [Acoustic Ver.]</li>
+<li>何千何万何億の君への想い</li>
+<li>BIRTH OF VICTORY</li>
+<li>PUER ET PUELLA</li>
+<li>BONUS FOOTAGE</li>
+</ol>
+</div>
+</div></td>
+<td><p>ライブBlu-ray/DVD<br />
+2020年1月10日 <a href="https://ja.wikipedia.org/wiki/ハーモニーホール座間" title="wikilink">ハーモニーホール座間</a>公演</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1517,18 +1642,19 @@ PGSK-011</p></td>
 
 ## ミュージックビデオ
 
-|                                    |                                                                                                                                |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| **監督**                             | **曲名**                                                                                                                         |
-| 近藤廣行                               | 「Butterfly」                                                                                                                    |
-| [井上哲央](../Page/井上哲央.md "wikilink") | 「我伐道」                                                                                                                          |
-| 鈴木大伸                               | 「Nutty a hermit.」                                                                                                              |
-| 大野敏嗣                               | 「[キズナ（アコースティック Ver.）](https://www.youtube.com/watch?v=QihnDq80f2Q)」                                                            |
-| orange                             | 「ザザ振り雨」「メロウホロウ」                                                                                                                |
-| 青木亮二                               | 「[GIRL](https://www.youtube.com/watch?v=SVaTOOqtNUI)」                                                                          |
-| YUTARO                             | 「[AN ETERNITY](https://www.youtube.com/watch?v=G4b0F-r7UEg)」「[FLOWER OF ROMANCE](https://www.youtube.com/watch?v=khfq-5L1jUo)」 |
-| 不明                                 | 「ila.」「ガリロン」「唄」                                                                                                                |
-|                                    |                                                                                                                                |
+|                                                             |                                                                                                                                                                                                                                                                                                                                                                      |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **監督**                                                      | **曲名**                                                                                                                                                                                                                                                                                                                                                               |
+| 近藤廣行\[47\]\[48\]                                            | 「Butterfly」「[PUER ET PUELLA](https://www.youtube.com/watch?v=JOHD_EVoVWI)」                                                                                                                                                                                                                                                                                           |
+| [井上哲央](../Page/井上哲央.md "wikilink")\[49\]                    | 「我伐道」「ila.」「ガリロン」                                                                                                                                                                                                                                                                                                                                                    |
+| 鈴木大伸\[50\]                                                  | 「Nutty a hermit.」                                                                                                                                                                                                                                                                                                                                                    |
+| 大野敏嗣                                                        | 「[キズナ（アコースティック Ver.）](https://www.youtube.com/watch?v=QihnDq80f2Q)」                                                                                                                                                                                                                                                                                                  |
+| orange                                                      | 「ザザ振り雨」「メロウホロウ」                                                                                                                                                                                                                                                                                                                                                      |
+| [青木亮二](https://ja.wikipedia.org/wiki/青木亮二 "wikilink")\[51\] | 「[GIRL](https://www.youtube.com/watch?v=SVaTOOqtNUI)」                                                                                                                                                                                                                                                                                                                |
+| YUTARO\[52\]\[53\]\[54\]                                    | 「[AN ETERNITY](https://www.youtube.com/watch?v=G4b0F-r7UEg)」「[FLOWER OF ROMANCE](https://www.youtube.com/watch?v=khfq-5L1jUo)」「[YOU](https://www.youtube.com/watch?v=ZBLW9TIUyCE)」「[STARRY BOY](https://www.youtube.com/watch?v=74WGLQGJW28)」「[S T A Y (demo)](https://www.youtube.com/watch?v=Asp2eWbcZuM)」「[S T A Y](https://www.youtube.com/watch?v=e-nVXo1kyPs)」 |
+| [インテツ](../Page/インテツ.md "wikilink")\[55\]                    | 「何千何万何億の君への想い 2018」                                                                                                                                                                                                                                                                                                                                                  |
+| 不明                                                          | 「唄」                                                                                                                                                                                                                                                                                                                                                                  |
+|                                                             |                                                                                                                                                                                                                                                                                                                                                                      |
 
 ## 主なライブ・ツアー
 
@@ -1614,8 +1740,8 @@ PGSK-011</p></td>
 
 ## 外部リンク
 
-  - [BAROQUE OFFICIAL SITE](http://www.pigmy.jp/) - 公式ウェブサイト
-
+  -
+  -
   -
   -
   -
@@ -1669,3 +1795,13 @@ PGSK-011</p></td>
 43. 2002年11月29日のZepp Tokyo公演にて限定販売されたシングル「キャラメルドロップス」の盤面には「baroque」と印字されている。
 44.
 45. <https://www.barks.jp/news/?id=1000150261>
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.

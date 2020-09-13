@@ -16,7 +16,7 @@
 
   - 月曜日　[ブラボー中谷](../Page/ブラボー中谷.md "wikilink")
   - 火曜日　[加藤隆弘](https://ja.wikipedia.org/wiki/加藤隆弘 "wikilink")アナウンサー
-  - 水曜日　[工藤東子](https://ja.wikipedia.org/wiki/工藤東子 "wikilink")
+  - 水曜日　[工藤東子](../Page/工藤東子.md "wikilink")
   - 木曜日　[井関裕貴](../Page/井関裕貴.md "wikilink")アナウンサー
   - 金曜日　[まるさん](../Page/まるさん.md "wikilink")
 

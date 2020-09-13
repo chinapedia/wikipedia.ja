@@ -119,7 +119,7 @@
 ### 現在放送中の番組
 
   - スポーツ情報
-      - [GAMBA TV〜青と黒〜](https://ja.wikipedia.org/wiki/GAMBA_TV〜青と黒〜 "wikilink")（火 2:05 - 2:20）
+      - [GAMBA TV〜青と黒〜](https://ja.wikipedia.org/wiki/GAMBA_TV〜青と黒〜 "wikilink")（火 2:10 - 2:25）
       - [戦え\!スポーツ内閣](https://ja.wikipedia.org/wiki/戦え!スポーツ内閣 "wikilink")（水 23:58 - 翌0:53）
       - [YUBIWAZA](https://ja.wikipedia.org/wiki/YUBIWAZA "wikilink")（金 1:59 - 2:30〈木深夜〉）
   - スポーツ中継
@@ -189,7 +189,7 @@
       - [関西発\!才能発掘TV マンモスター](https://ja.wikipedia.org/wiki/関西発!才能発掘TV_マンモスター "wikilink")（火 0:59 - 1:30〈月深夜〉）
       - [ミキBASE〜いいね\!で応援〜](https://ja.wikipedia.org/wiki/ミキBASE〜いいね!で応援〜 "wikilink")（木 1:59 - 2:30〈水深夜〉）
       - [バズ★ナイトサマー\!](https://ja.wikipedia.org/wiki/バズ★ナイトサマー! "wikilink")（木 23:58 - 翌0:25）
-      - [田村淳のコンテンツHolic](https://ja.wikipedia.org/wiki/田村淳のコンテンツHolic "wikilink")（金 0:25 - 0:53〈木深夜〉）
+      - [田村淳のコンテンツHolic](../Page/田村淳のコンテンツHolic.md "wikilink")（金 0:25 - 0:53〈木深夜〉）
       - [よしもと新喜劇NEXT〜小籔千豊には怒られたくない〜](https://ja.wikipedia.org/wiki/よしもと新喜劇NEXT〜小籔千豊には怒られたくない〜 "wikilink")（最終以外の木 2:30 - 3:00〈水深夜〉）
       - [ボイメンのなにわ統一大作戦〜ヤベー敵地にいざ出陣\!〜](https://ja.wikipedia.org/wiki/ボイメンのなにわ統一大作戦〜ヤベー敵地にいざ出陣!〜 "wikilink")（最終木 2:30 - 3:00〈水深夜〉）
       - [らくごのお時間](https://ja.wikipedia.org/wiki/らくごのお時間 "wikilink")（毎月第4日 5:00 - 5:30）
@@ -513,7 +513,8 @@
 <!-- end list -->
 
   - 関西ローカル
-      - [+ music](https://ja.wikipedia.org/wiki/+_music "wikilink")（火 0:59 - 1:30〈月深夜〉）
+      - [+ music](https://ja.wikipedia.org/wiki/+_music "wikilink")（火 0:59 - 1:35〈月深夜〉）
+      - [MM+TV](https://ja.wikipedia.org/wiki/MM+TV "wikilink")（火 2:25 - 2:35〈月深夜〉）
       - [SPICE MUSIC](https://ja.wikipedia.org/wiki/SPICE_MUSIC "wikilink")（火 - 土 放送不定）
           - SPICE MUSIC-STRONG-（同上）
       - [Good M 僕に逢いたくなったら…](https://ja.wikipedia.org/wiki/Good_M_僕に逢いたくなったら… "wikilink")（金 2:40 - 2:45〈金深夜〉）
@@ -706,7 +707,8 @@
       - [おちゃべり](https://ja.wikipedia.org/wiki/おちゃべり "wikilink")（2009年3月）
   - [火曜21時枠](../Page/TBS火曜9時枠の連続ドラマ.md "wikilink")
       - [鬼龍院花子の生涯](https://ja.wikipedia.org/wiki/鬼龍院花子の生涯#テレビドラマ_\(1984年\) "wikilink")
-  - [テレビ文学館〜名作に見る日本人〜](https://ja.wikipedia.org/wiki/テレビ文学館〜名作に見る日本人〜 "wikilink")（火曜22時枠、NET系列時代）
+  - [怒濤日本史](https://ja.wikipedia.org/wiki/怒濤日本史 "wikilink")（火曜22時枠、NET系列時代）
+  - [テレビ文学館 -名作に見る日本人-](https://ja.wikipedia.org/wiki/テレビ文学館_-名作に見る日本人- "wikilink")（火曜22時枠、NET系列時代）
   - [恋歌](https://ja.wikipedia.org/wiki/恋歌_\(小説\) "wikilink")
   - [テレビスター劇場](https://ja.wikipedia.org/wiki/テレビスター劇場 "wikilink")（火曜22時枠、NET系列時代）
       - [うちの女房の場合は](https://ja.wikipedia.org/wiki/うちの女房の場合は "wikilink")
@@ -740,7 +742,7 @@
       - [秋なのにバラ色](https://ja.wikipedia.org/wiki/秋なのにバラ色 "wikilink")
       - [カムバック・ガール](https://ja.wikipedia.org/wiki/カムバック・ガール "wikilink")
       - [人情紙風船](../Page/人情紙風船_\(テレビドラマ\).md "wikilink")
-      - [ガラスの知恵の輪](https://ja.wikipedia.org/wiki/ガラスの知恵の輪 "wikilink")
+      - [ガラスの知恵の輪](../Page/ガラスの知恵の輪.md "wikilink")
       - [男と女のあいだには](https://ja.wikipedia.org/wiki/男と女のあいだには "wikilink")
       - [はじめまして・再婚](https://ja.wikipedia.org/wiki/はじめまして・再婚 "wikilink")
       - [ちょっと噂の女たち](https://ja.wikipedia.org/wiki/ちょっと噂の女たち "wikilink")
@@ -755,7 +757,11 @@
       - [生きて行く私](https://ja.wikipedia.org/wiki/生きて行く私#1984年版 "wikilink")
       - [週末だけの恋人](https://ja.wikipedia.org/wiki/週末だけの恋人 "wikilink")
       - [やさしい闘魚たち](https://ja.wikipedia.org/wiki/やさしい闘魚たち "wikilink")
-  - [木曜20時枠](../Page/TBS木曜8時枠の連続ドラマ.md "wikilink")
+  - [木曜20時枠(昭和)](https://ja.wikipedia.org/wiki/テレビ朝日木曜8時枠の連続ドラマ "wikilink")
+      - [カツドウ屋一代](https://ja.wikipedia.org/wiki/カツドウ屋一代 "wikilink")
+      - [喧嘩太郎](https://ja.wikipedia.org/wiki/喧嘩太郎#1968年版 "wikilink")
+      - [おやじは大学一年生](https://ja.wikipedia.org/wiki/おやじは大学一年生 "wikilink")
+  - [木曜20時枠(平成)](../Page/TBS木曜8時枠の連続ドラマ.md "wikilink")
       - ▲[オレたちのオーレ\!](../Page/オレたちのオーレ!.md "wikilink")
   - [大丸名作劇場](https://ja.wikipedia.org/wiki/大丸名作劇場 "wikilink")（木曜21時枠前半、NET系列時代）
       - [虞美人草](https://ja.wikipedia.org/wiki/虞美人草#テレビドラマ "wikilink")
@@ -914,6 +920,7 @@
       - [監獄学園-プリズンスクール-](https://ja.wikipedia.org/wiki/監獄学園#テレビドラマ "wikilink")
       - [神奈川県厚木市 ランドリー茅ヶ崎](https://ja.wikipedia.org/wiki/神奈川県厚木市_ランドリー茅ヶ崎 "wikilink")
   - 単発
+      - [鶴亀先生](https://ja.wikipedia.org/wiki/鶴亀先生#1959年版 "wikilink")
       - [渚に死のうと書いたとき](../Page/渚に死のうと書いたとき.md "wikilink") - 「[東芝日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場#東芝日曜劇場として "wikilink")」内
       - [てだのふあ・おきなわ亭](https://ja.wikipedia.org/wiki/太陽の子#MBS版 "wikilink") - [文化庁芸術祭](https://ja.wikipedia.org/wiki/文化庁芸術祭 "wikilink")参加作品
       - [嵐立つなり](https://ja.wikipedia.org/wiki/嵐立つなり "wikilink")
@@ -1005,11 +1012,9 @@
 
 ### 現在放送中の番組
 
-  - ▲[アルゴナビス from BanG Dream\!](https://ja.wikipedia.org/wiki/ARGONAVIS_from_BanG_Dream!#テレビアニメ "wikilink")（[スーパーアニメイズム](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")、土 1:25 - 1:55（金深夜））
-  - ▲[LISTENERS リスナーズ](../Page/LISTENERS_リスナーズ.md "wikilink")（[アニメイズム B1](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")、土 1:55 - 2:25（金深夜））
-  - ▲[波よ聞いてくれ](https://ja.wikipedia.org/wiki/波よ聞いてくれ#テレビアニメ "wikilink")（[アニメイズム B2](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")、土 2:25 - 2:55（金深夜））
-  - [かぐや様は告らせたい?〜天才たちの恋愛頭脳戦〜](https://ja.wikipedia.org/wiki/かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜#テレビアニメ "wikilink")（アニメシャワー、日 2:38 - 3:08〈土深夜〉） - UHFアニメ
-  - [ケンガンアシュラ](https://ja.wikipedia.org/wiki/ケンガンアシュラ#Webアニメ "wikilink")（[アニメシャワー](https://ja.wikipedia.org/wiki/アニメシャワー "wikilink")、日 3:38 - 4:08〈土深夜〉） 字幕放送 - [UHFアニメ](../Page/UHFアニメ.md "wikilink")扱い
+  - ▲[彼女、お借りします](https://ja.wikipedia.org/wiki/彼女、お借りします#テレビアニメ "wikilink")（[スーパーアニメイズム](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")、土 1:25 - 1:50（金深夜））
+  - ▲[GETUP\! GETLIVE\! \#げらげら](https://ja.wikipedia.org/wiki/GETUP!_GETLIVE!#テレビアニメ "wikilink")（[スーパーアニメイズム](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")、土 1:50 - 1:55（金深夜））
+  - ▲[炎炎ノ消防隊 弐ノ章](https://ja.wikipedia.org/wiki/炎炎ノ消防隊#テレビアニメ "wikilink")（[アニメイズム B1](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")、土 1:55 - 2:25（金深夜））
 
 ### 放送終了した番組
 
@@ -1205,11 +1210,17 @@
       - [みだらな青ちゃんは勉強ができない](https://ja.wikipedia.org/wiki/淫らな青ちゃんは勉強ができない#テレビアニメ "wikilink")
       - [ひとりぼっちの○○生活](https://ja.wikipedia.org/wiki/ひとりぼっちの○○生活#テレビアニメ "wikilink")
       - [かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜](https://ja.wikipedia.org/wiki/かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜#テレビアニメ "wikilink") ※HD - UHFアニメ
+          - かぐや様は告らせたい?〜天才たちの恋愛頭脳戦〜 - UHFアニメ
       - [グランベルム](https://ja.wikipedia.org/wiki/グランベルム "wikilink")
       - [炎炎ノ消防隊](https://ja.wikipedia.org/wiki/炎炎ノ消防隊#テレビアニメ "wikilink")
       - [真・中華一番\!](https://ja.wikipedia.org/wiki/中華一番!#真・中華一番! "wikilink")
       - [歌舞伎町シャーロック](https://ja.wikipedia.org/wiki/歌舞伎町シャーロック "wikilink")
       - [ランウェイで笑って](https://ja.wikipedia.org/wiki/ランウェイで笑って#テレビアニメ "wikilink")
+      - [LISTENERS リスナーズ](../Page/LISTENERS_リスナーズ.md "wikilink")
+      - [波よ聞いてくれ](https://ja.wikipedia.org/wiki/波よ聞いてくれ#テレビアニメ "wikilink")
+      - [乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…](https://ja.wikipedia.org/wiki/乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…#テレビアニメ "wikilink") - UHFアニメ
+      - [ケンガンアシュラ](https://ja.wikipedia.org/wiki/ケンガンアシュラ#Webアニメ "wikilink") - UHFアニメ扱い
+      - [アルゴナビス from BanG Dream\!](https://ja.wikipedia.org/wiki/ARGONAVIS_from_BanG_Dream!#テレビアニメ "wikilink")
 
 ### 毎日放送アニメ枠一覧
 
@@ -1219,7 +1230,7 @@
 
 ### 放送終了した番組
 
-  - [バッグス・バニー・ショー](https://ja.wikipedia.org/wiki/現行吹き替えが存在するルーニー・テューンズとメリー・メロディーズの短編映画#バッグス・バニー_ショー "wikilink")
+  - [バッグス・バニー・ショー](../Page/バッグス・バニー・ショー.md "wikilink")
   - [かわいい魔女ジニー](../Page/かわいい魔女ジニー.md "wikilink")
   - [奥さまは魔女](../Page/奥さまは魔女_\(テレビドラマ\).md "wikilink")
   - [アーチーでなくちゃ\!](https://ja.wikipedia.org/wiki/アーチーでなくちゃ! "wikilink")
@@ -1281,23 +1292,25 @@
   - [週刊EXILE](https://ja.wikipedia.org/wiki/週刊EXILE "wikilink")（火 1:35 - 2:05〈月深夜〉）
   - [有吉ジャポン](https://ja.wikipedia.org/wiki/有吉ジャポン "wikilink")（水 0:59 - 1:29〈火深夜〉）
   - [NEWSな2人](https://ja.wikipedia.org/wiki/NEWSな2人 "wikilink")（水 1:29 - 1:59〈火深夜〉）
-  - [有田哲平の夢なら醒めないで](https://ja.wikipedia.org/wiki/有田哲平の夢なら醒めないで "wikilink")（木 1:59 - 1:59〈水深夜〉）
+  - [霜降りミキXIT](../Page/霜降りミキXIT.md "wikilink")（木 0:59 - 1:59〈水深夜〉）
   - [有田ジェネレーション](https://ja.wikipedia.org/wiki/有田ジェネレーション "wikilink")（金 1:29 - 1:59〈木深夜〉）
   - [やはり俺の青春ラブコメはまちがっている。完](https://ja.wikipedia.org/wiki/やはり俺の青春ラブコメはまちがっている。#テレビアニメ "wikilink")（金 2:30 - 3:00〈木深夜〉）
+  - [中居大輔と夜な夜なラブ子さん](../Page/中居大輔と夜な夜なラブ子さん.md "wikilink")（土 0:20 - 1:20〈金深夜〉）
+  - [KAT-TUNの世界一タメになる旅\!](https://ja.wikipedia.org/wiki/KAT-TUNの世界一タメになる旅! "wikilink")+（日 1:28 - 2:03〈土深夜〉）
   - [列車に乗って](https://ja.wikipedia.org/wiki/列車に乗って "wikilink")（毎月第1日 5:00 - 5:15、毎月第2日 5:00 - 5:30） ※HV - [RKB](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")・[NBC](../Page/長崎放送.md "wikilink")・[RKK](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")・[OBS](../Page/大分放送.md "wikilink")・[MRT](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")・[MBC制作](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
+  - [バナナサンド](../Page/バナナサンド.md "wikilink")（日 12:54 - 13:54）
   - [JNNドキュメンタリー@にっぽん](https://ja.wikipedia.org/wiki/報道の魂 "wikilink")（不定期）
   - [東大王](https://ja.wikipedia.org/wiki/東大王 "wikilink")（不定期）
   - [バース・デイ](../Page/バース・デイ.md "wikilink")（不定期）
 
 ## 系列外の番組
 
-  - [白猫プロジェクト ZERO CHRONICLE](https://ja.wikipedia.org/wiki/白猫プロジェクト#テレビアニメ "wikilink")（[アニメ特区](https://ja.wikipedia.org/wiki/アニメシャワー#アニメ特区 "wikilink")、水 2:30 - 3:00〈火深夜〉）
-  - [放課後ていぼう日誌](https://ja.wikipedia.org/wiki/放課後ていぼう日誌#テレビアニメ "wikilink")（アニメ特区、水 3:00 - 3:30〈火深夜〉）
+  - [放課後ていぼう日誌](https://ja.wikipedia.org/wiki/放課後ていぼう日誌#テレビアニメ "wikilink")（[アニメ特区](https://ja.wikipedia.org/wiki/アニメシャワー#アニメ特区 "wikilink")、水 2:30 - 3:00〈火深夜〉）
+  - [A.I.C.O. Incarnation](https://ja.wikipedia.org/wiki/A.I.C.O._Incarnation "wikilink")（アニメ特区、水 3:00 - 3:30〈火深夜〉）
   - [無限の住人-IMMORTAL-](https://ja.wikipedia.org/wiki/無限の住人#Webアニメ "wikilink")（アニメ特区、水 3:30 - 4:00〈火深夜〉）
-  - [はてな☆イリュージョン](https://ja.wikipedia.org/wiki/はてな☆イリュージョン#テレビアニメ "wikilink")（金 2:30 - 3:00〈深夜〉）
   - [とある科学の超電磁砲T](https://ja.wikipedia.org/wiki/とある科学の超電磁砲#テレビアニメ "wikilink")（土 2:55 - 3:25〈金深夜〉）
-  - [ソードアート・オンライン アリシゼーション War of Underworld](https://ja.wikipedia.org/wiki/ソードアート・オンライン#テレビアニメ "wikilink")（アニメシャワー、日 2:08 - 2:38〈土深夜〉） - UHFアニメ
-  - [乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…](https://ja.wikipedia.org/wiki/乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…#テレビアニメ "wikilink")（アニメシャワー、日 3:08 - 3:38〈土深夜〉） - UHFアニメ
+  - [ソードアート・オンライン アリシゼーション War of Underworld](https://ja.wikipedia.org/wiki/ソードアート・オンライン#テレビアニメ "wikilink")（[アニメシャワー](https://ja.wikipedia.org/wiki/アニメシャワー "wikilink")、日 2:08 - 2:38〈土深夜〉） - UHFアニメ
+  - [ド級編隊エグゼロス](https://ja.wikipedia.org/wiki/ド級編隊エグゼロス#テレビアニメ "wikilink")（アニメシャワー、日 3:38 - 4:08〈土深夜〉） 字幕放送 - UHFアニメ
 
 ## 本社機能が千里丘放送センターにあった頃放送されていたネット番組
 
@@ -1398,9 +1411,9 @@
   - ☆[土曜映画劇場](../Page/土曜映画劇場.md "wikilink")
   - ☆[日曜洋画劇場](../Page/日曜洋画劇場.md "wikilink")
   - ☆[特別機動捜査隊](https://ja.wikipedia.org/wiki/特別機動捜査隊 "wikilink")
-  - ☆[ナショナルゴールデン劇場](../Page/ナショナルゴールデン劇場.md "wikilink")
+  - ☆[ナショナルゴールデン劇場](../Page/ナショナルゴールデン劇場.md "wikilink") - 一部作品は★
   - ☆[非情のライセンス](../Page/非情のライセンス.md "wikilink")
-  - ☆[破れ傘刀舟悪人狩り](../Page/破れ傘刀舟悪人狩り.md "wikilink") - 第1話から第26話まで。
+  - ☆[破れ傘刀舟悪人狩り](../Page/破れ傘刀舟悪人狩り.md "wikilink") - 第1話から第26話までは★
   - ☆[がんばれ\!\!ロボコン](../Page/がんばれ!!ロボコン.md "wikilink")
   - ☆[魔女っ子メグちゃん](../Page/魔女っ子メグちゃん.md "wikilink")
   - ☆[ポーラ名作劇場](../Page/ポーラ名作劇場.md "wikilink")
@@ -1470,14 +1483,14 @@
 ## 腸捻転解消～テレビ大阪開局後に放送された東京12チャンネル→テレビ東京の番組
 
   - [ドン・チャック物語](../Page/ドン・チャック物語.md "wikilink") - 編成上の都合で関西テレビへ移行
-  - [貧乏神が\!](https://ja.wikipedia.org/wiki/貧乏神が!#テレビアニメ "wikilink") （2012年） - [テレビ東京系アニメ](../Page/テレビ東京系アニメ.md "wikilink")かつテレビ大阪開局後の作品であるが、本作品はMBSでのネットとなった。[テレビ東京 あにてれ 貧乏神が\!](http://www.tv-tokyo.co.jp/anime/binbogamiga/) [「貧乏神が\!」公式サイト](http://www.binbogamiga.net/)
+  - [貧乏神が\!](https://ja.wikipedia.org/wiki/貧乏神が!#テレビアニメ "wikilink") （2012年） - [テレビ東京系アニメ](../Page/テレビ東京系アニメ.md "wikilink")かつテレビ大阪開局後の作品であるが、本作品はMBSでのネットとなった。[テレビ東京 あにてれ 貧乏神が\!](https://www.tv-tokyo.co.jp/anime/binbogamiga/index2.html) [「貧乏神が\!」公式サイト](http://www.binbogamiga.net/)
 
 ## 放送された独立局の番組
 
   - [東京号泣教室 〜ROAD TO 2020〜](https://ja.wikipedia.org/wiki/東京号泣教室_〜ROAD_TO_2020〜 "wikilink") - [TOKYO MXほかで放送](../Page/東京メトロポリタンテレビジョン.md "wikilink")
   - [リスアニ\!TV](https://ja.wikipedia.org/wiki/リスアニ!#リスアニ!TV "wikilink")(5th Season) - [MUSIC ON\! TV制作](../Page/MUSIC_ON!_TV.md "wikilink")
 
-ほか[UHFアニメ](../Page/UHFアニメ.md "wikilink")多数
+ほかUHFアニメ多数
 
 ## 備考・選抜高等学校野球大会期間中の編成
 

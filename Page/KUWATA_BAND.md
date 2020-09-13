@@ -1,7 +1,7 @@
 > この記事は[KUWATA BAND](https://ja.wikipedia.org/wiki/KUWATA_BAND)から翻訳されています。
 
 
-**KUWATA BAND**（クワタバンド）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")を中心にして結成された[ロック](../Page/ロック_\(音楽\).md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。リーダーは[パーカッション](../Page/パーカッション.md "wikilink")の[今野多久郎](https://ja.wikipedia.org/wiki/スペクトラム_\(日本のバンド\)#メンバー "wikilink")。[レコード会社](../Page/レコード会社.md "wikilink")はサザンの専用[レーベルである](../Page/レコードレーベル.md "wikilink")[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
+**KUWATA BAND**（クワタバンド）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")を中心にして結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。リーダーは[パーカッション](../Page/パーカッション.md "wikilink")の[今野多久郎](https://ja.wikipedia.org/wiki/スペクトラム_\(日本のバンド\)#メンバー "wikilink")。[レコード会社](../Page/レコード会社.md "wikilink")はサザンの専用[レーベルである](../Page/レコードレーベル.md "wikilink")[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
 
 桑田の[妻である](../Page/配偶者.md "wikilink")[原由子](../Page/原由子.md "wikilink")が産休中である[1986年](../Page/1986年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から1年限定で活動した。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[12月24日](../Page/12月24日.md "wikilink")に放送された[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")『[メリー・クリスマス・ショー](../Page/メリー・クリスマス・ショー.md "wikilink")』内では一度限りの再結成を果たしている。
 

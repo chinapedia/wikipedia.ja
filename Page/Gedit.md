@@ -16,7 +16,7 @@ Valenciaは、geditのプラグインで、これを用いるとgeditを[Vala](h
   - [GtkSourceView](https://ja.wikipedia.org/wiki/GtkSourceView "wikilink")による[シンタックス強調](../Page/シンタックスハイライト.md "wikilink")
   - 自動[インデント](../Page/字下げ.md "wikilink")
   - [UTF-8](../Page/UTF-8.md "wikilink")を含む複数の文字コードへの対応
-  - 複数の言語の[スペルチェック](../Page/スペルチェッカ.md "wikilink")
+  - 複数の言語の[スペルチェック](../Page/スペルチェッカ.md "wikilink")([Enchant](https://ja.wikipedia.org/wiki/Enchant "wikilink")を使用するgspellライブラリに依存\[4\]\[5\])
   - [スニペット](https://ja.wikipedia.org/wiki/スニペット "wikilink")機能
   - [プラグイン](../Page/プラグイン.md "wikilink")機構によるさまざまな機能拡張
 
@@ -24,7 +24,7 @@ Valenciaは、geditのプラグインで、これを用いるとgeditを[Vala](h
 
 geditはGNOME Core Applicationsの一部であり、gedit 3は、[GTK](https://ja.wikipedia.org/wiki/GTK "wikilink") 3.0と[GNOME](../Page/GNOME.md "wikilink") 3.0のライブラリを利用している。GNOMEへの統合としては、[GNOME Filesとの間でのドラッグとドロップの対応が含まれる](https://ja.wikipedia.org/wiki/GNOME_Files "wikilink")。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")12月、geditのバイナリは[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")と[Microsoft Windowsで利用可能になった](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[4\] 。最新のWindows 32bit向けのバイナリは2.30.1で、これは[2014年](../Page/2014年.md "wikilink")にリリースされたものである\[5\]。しかしながら、64bit Windows向けのリリースはつづけられている\[6\]。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")12月、geditのバイナリは[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")と[Microsoft Windowsで利用可能になった](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[6\] 。最新のWindows 32bit向けのバイナリは2.30.1で、これは[2014年](../Page/2014年.md "wikilink")にリリースされたものである\[7\]。しかしながら、64bit Windows向けのリリースはつづけられている\[8\]。
 
 ## ライセンス
 
@@ -50,3 +50,5 @@ geditは[GNU General Public Licenseでリリースされている](../Page/GNU_G
 4.
 5.
 6.
+7.
+8.

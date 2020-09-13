@@ -7,7 +7,7 @@
 
 ## 概要
 
-UA、浅井健一、元[RIZE](../Page/RIZE.md "wikilink")の[TOKIE](../Page/TOKIE.md "wikilink")、そしてUAの[ツアー](../Page/ツアー.md "wikilink")で[ドラムをプレイしていた](../Page/ドラムセット.md "wikilink")[椎野恭一](https://ja.wikipedia.org/wiki/椎野恭一 "wikilink")の4人で構成された[スーパーグループ](../Page/スーパーグループ.md "wikilink")\[1\]\[2\]。UAのアルバム『turbo』（[1999年](../Page/1999年.md "wikilink")）に[浅井健一](https://ja.wikipedia.org/wiki/浅井健一 "wikilink")が「ストロベリータイム」と「午後」の2曲を提供し、[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")にも参加したことをきっかけに結成されたバンド\[3\]\[4\]。椎野はUAが希望し、[ベースは](../Page/ベース_\(弦楽器\).md "wikilink")“女で[アップライトが弾ける人](https://ja.wikipedia.org/wiki/アップライト・ベース "wikilink")”ということを事前に決めていたが、後日浅井がとあるイベントでその条件に合うTOKIEを見かけて気に入り、声をかけた\[5\]。
+UA、浅井健一、元[RIZE](../Page/RIZE.md "wikilink")の[TOKIE](../Page/TOKIE.md "wikilink")、そしてUAの[ツアー](../Page/ツアー.md "wikilink")で[ドラムをプレイしていた](../Page/ドラムセット.md "wikilink")[椎野恭一](../Page/椎野恭一.md "wikilink")の4人で構成された[スーパーグループ](../Page/スーパーグループ.md "wikilink")\[1\]\[2\]。UAのアルバム『turbo』（[1999年](../Page/1999年.md "wikilink")）に[浅井健一](https://ja.wikipedia.org/wiki/浅井健一 "wikilink")が「ストロベリータイム」と「午後」の2曲を提供し、[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")にも参加したことをきっかけに結成されたバンド\[3\]\[4\]。椎野はUAが希望し、[ベースは](../Page/ベース_\(弦楽器\).md "wikilink")“女で[アップライトが弾ける人](https://ja.wikipedia.org/wiki/アップライト・ベース "wikilink")”ということを事前に決めていたが、後日浅井がとあるイベントでその条件に合うTOKIEを見かけて気に入り、声をかけた\[5\]。
 
 バンド名のAJICOはUAの命名によるもので、彼女自身は名前に意味はなく響きで選んだと語っているが\[6\]、浅井は宇宙を彷徨うヨットのことであると語っている\[7\]。
 
@@ -33,7 +33,7 @@ UA、浅井健一、元[RIZE](../Page/RIZE.md "wikilink")の[TOKIE](../Page/TOKI
     [ギター](../Page/ギター.md "wikilink")、ボーカル担当。数曲の作詞とほぼ全曲の作曲を担当。
   - [TOKIE](../Page/TOKIE.md "wikilink")
     [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。
-  - [椎野恭一](https://ja.wikipedia.org/wiki/椎野恭一 "wikilink")
+  - [椎野恭一](../Page/椎野恭一.md "wikilink")
     [ドラムス担当](../Page/ドラムセット.md "wikilink")。
 
 ## 作品

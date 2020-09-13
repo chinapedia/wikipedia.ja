@@ -10,7 +10,7 @@
 ## 解説
 
   - COMPLEX初のベストアルバム。
-  - ギタリストの布袋寅泰が所属していたバンド、[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")のベストアルバム『[THIS BOØWY](../Page/THIS_BOOWY.md "wikilink")』のリリースに合わせて先行してリリースされた。
+  - ギタリストの布袋寅泰が所属していたバンド、[BOØWY](../Page/BOØWY.md "wikilink")のベストアルバム『[THIS BOØWY](../Page/THIS_BOØWY.md "wikilink")』のリリースに合わせて先行してリリースされた。
   - 全曲[スティーブン・マーカソン](https://ja.wikipedia.org/wiki/スティーブン・マーカソン "wikilink")によるデジタルリマスタリングが施されている。
   - [2019年](../Page/2019年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")には、デビューから30周年を記念して、高音質ディスク[SHM-CD](https://ja.wikipedia.org/wiki/SHM-CD "wikilink")（マスタリングはオリジナル盤のと同様）とミュージック・ビデオとライブ映像を収録した[Blu-ray](https://ja.wikipedia.org/wiki/Blu-ray "wikilink")が付属された「限定盤」と、SHM-CDのみの「通常盤」の2形態で、[ユニバーサルミュージック合同会社の](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")[USM JAPANから発売された](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\)#USM_JAPAN "wikilink")\[2\]。
 

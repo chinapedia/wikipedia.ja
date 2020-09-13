@@ -90,14 +90,7 @@ FMQリーグ加盟局</p></td>
 <tr class="even">
 <td><p>ディアウーマン presents BUTCHと山田優子のDear キラキラ♡ラジオ</p></td>
 <td><p>土曜 11:00 - 11:30</p></td>
-<td><p>エリア外のJFN系4局[2]と<a href="../Page/横浜エフエム放送.md" title="wikilink">FMヨコハマでもネット</a>。</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/匠の蔵" title="wikilink">匠の蔵 -創る人、聞く人、発する人-</a></p></td>
-<td><p>土曜 19:00 - 19:15</p></td>
-<td><p>FM沖縄でもネット。</p></td>
+<td><p>エリア外のJFN系3局[2]と<a href="../Page/横浜エフエム放送.md" title="wikilink">FMヨコハマでもネット</a>。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -242,13 +235,20 @@ JOY FM<br />
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/匠の蔵" title="wikilink">匠の蔵 -創る人、聞く人、発する人-</a></p></td>
+<td><p>土曜 19:00 - 19:15</p></td>
+<td><p>FM沖縄にもネット。</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>吉孝・和孝のそこんとこ聞きタカけん</p></td>
 <td><p>佐賀</p></td>
 <td><p>Air-Radio FM88</p></td>
 <td><p>火曜 20:00 - 20:30</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>松千のRadio Switch</p></td>
 <td><p>長崎</p></td>
 <td><p>FM FUKUOKA<br />
@@ -256,7 +256,7 @@ FMK</p></td>
 <td><p>月曜 20:30 - 20:55</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Radio Cafe <a href="../Page/AMADORI.md" title="wikilink">AMADORI</a></p></td>
 <td><p>FMY<br />
 FMS<br />
@@ -265,7 +265,7 @@ FMK</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/サウンド・シャッフル.md" title="wikilink">相越久枝のコーク・サウンドシャッフル</a></p></td>
 <td><p>熊本</p></td>
 <td><p>Air-Radio FM88<br />
@@ -273,14 +273,14 @@ JOY FM</p></td>
 <td><p>水曜 15:00 - 15:55</p></td>
 <td><p>2008年3月まではμFMもネットしていた。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/キャプテンストライダム" title="wikilink">キャプテンストライダム</a>のMA・HA・NA</p></td>
 <td><p>JOY FM</p></td>
 <td><p>木曜 21:30 - 21:55</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/GENERAL_HEAD_MOUNTAIN" title="wikilink">GENERAL HEAD MOUNTAINの戯言レディオ</a></p></td>
 <td><p>宮崎</p></td>
 <td><p>FM FUKUOKAと<br />
@@ -289,7 +289,7 @@ FMYを除く<br />
 <td><p>月曜 20:30 - 20:55</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>九州ポップカルチャー研究所α</p></td>
 <td><p>鹿児島</p></td>
 <td><p>FM FUKUOKA</p></td>
@@ -315,4 +315,4 @@ FMYを除く<br />
 [Category:JFN](https://ja.wikipedia.org/wiki/Category:JFN "wikilink") [Category:日本の民放ネットワーク](https://ja.wikipedia.org/wiki/Category:日本の民放ネットワーク "wikilink") [Category:九州・沖縄地方のラジオ局](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のラジオ局 "wikilink")
 
 1.  [FM Q LEAGUE AWARD　2016｜イベントインフォメーション｜JOY FM(FM宮崎)](http://www.joyfm.co.jp/eventinformation/eventinformation-14574/)
-2.  [AIR-G'](../Page/エフエム北海道.md "wikilink")、[ふくしまFM](../Page/エフエム福島.md "wikilink")、[FM長野](../Page/長野エフエム放送.md "wikilink")、[FM AICHI](../Page/エフエム愛知.md "wikilink")
+2.  [AIR-G'](../Page/エフエム北海道.md "wikilink")、[FM長野](../Page/長野エフエム放送.md "wikilink")、[FM AICHI](../Page/エフエム愛知.md "wikilink")

@@ -22,7 +22,7 @@
   - [2017年](../Page/2017年.md "wikilink")：STARHORSE3 SeasonVI FULL THROTTLE
   - [2017年](../Page/2017年.md "wikilink"): StarHorse Pocket
   - [2018年](../Page/2018年.md "wikilink"): StarHorse3 SeasonVII GREAT JOURNEY
-  - [2019年](../Page/2019年.md "wikilink"): [STARHORSE4](https://ja.wikipedia.org/wiki/STARHORSE4 "wikilink")（発売予定）\[1\]
+  - [2019年](../Page/2019年.md "wikilink"): [STARHORSE4](https://ja.wikipedia.org/wiki/STARHORSE4 "wikilink")\[1\]
 
 が稼働開始している。
 
@@ -32,7 +32,7 @@
 
 ## 概要
 
-[2002年](../Page/2002年.md "wikilink")の[JRAレーシングプログラムに基づき実在の芝](../Page/日本中央競馬会.md "wikilink")・ダートの重賞レースと架空の極東競馬場で行われるWORLD BREEDERS' CUP（以下WBCと略す）、合わせて67レースのうち60レースを循環させてゲームを進めている（一部のレースは[関東](../Page/関東.md "wikilink")・[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")交互に隔年で行われている）。
+[2002年](../Page/2002年.md "wikilink")の[JRAレーシングプログラムに基づき実在の芝](../Page/日本中央競馬会.md "wikilink")・ダートの重賞レースと架空の極東競馬場で行われる[WORLD BREEDERS' CUP](https://ja.wikipedia.org/wiki/WORLD_BREEDERS'_CUP "wikilink")（以下WBCと略す）、合わせて67レースのうち60レースを循環させてゲームを進めている（一部のレースは[関東](../Page/関東.md "wikilink")・[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")交互に隔年で行われている）。
 
 レースは8〜12頭で行われる。[中山競馬場](../Page/中山競馬場.md "wikilink")・[東京競馬場](../Page/東京競馬場.md "wikilink")・[中京競馬場](../Page/中京競馬場.md "wikilink")・[京都競馬場](../Page/京都競馬場.md "wikilink")・[阪神競馬場](../Page/阪神競馬場.md "wikilink")を[CGで忠実に再現している](../Page/コンピュータグラフィックス.md "wikilink")。なお、阪神競馬場は改修前の状態である。
 
@@ -96,6 +96,8 @@
 ### STARHORSE2 NEW GENERATION以降
 
 ### STARHORSE3 SeasonI A NEW LEGEND BEGINS以降
+
+### STARHORSE4以降
 
 ### StarHorse Pocket
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2007年](../Page/2007年.md "wikilink")3月まで、5[MCに](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")1[DJという比較的珍しい形式をとっていた](../Page/ディスクジョッキー.md "wikilink")。現在は4[MCに](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")1[DJの形式である](../Page/ディスクジョッキー.md "wikilink")。
+[2007年](../Page/2007年.md "wikilink")3月まで、5[MCに](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")1[DJという珍しい形式をとっていた](../Page/ディスクジョッキー.md "wikilink")。現在は4[MCに](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")1[DJの形式である](../Page/ディスクジョッキー.md "wikilink")。
 
 [2000年](../Page/2000年.md "wikilink")、DJ MITSUが主宰するレーベル『$TAX Records』より、"nobodyknows"、[2001年](../Page/2001年.md "wikilink")に"nobodyknows 2"を発表。当初のメンバーはg-ton、Crystal Boy、DJ MITSU。また同レーベルはシーモネーター(後のSEAMO) & DJ Taki-Shitを始めとする、様々な[名古屋](../Page/名古屋.md "wikilink")在住のアーティストの作品を次々と全国流通させ、それまで[東京中心であったHipHopカルチャーへのカウンター的レーベルとして高く評価されている](../Page/東京都.md "wikilink")。
 
@@ -38,7 +38,7 @@
     HIDDEN FISH時の名前の由来は、本名の「坂梨」に「さかな（魚）」が隠れていることから。以降幾度か名前を変えているが、周辺からは結成当時から「ナシ」の愛称で呼ばれている。
     [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[中区](../Page/中区_\(名古屋市\).md "wikilink")[栄にある](../Page/栄_\(名古屋市\).md "wikilink")「ホルモン酒場 ちから」のオーナー。
 
-<!-- end list -->
+現在は中村区名駅3丁目で　餃子酒場　ちゃおまるの店長をしている。
 
   - **crystal boy**
 
@@ -686,8 +686,6 @@ AIBL-9148:DVD</p></td>
 ## 脚注
 
 ## 外部リンク
-
-  - [Sigma Sounds Studio](http://www.sigma-sounds-studio.jp/index.html)
 
   - [nobodyknows+オフィシャルホームページ](https://nobodyknows-fc.com/)
 

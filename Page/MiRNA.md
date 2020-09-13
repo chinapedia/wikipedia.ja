@@ -102,7 +102,7 @@
 
 [The_model_for_the_biogenesis_and_translational_represion_of_microRNAs.png](https://ja.wikipedia.org/wiki/File:The_model_for_the_biogenesis_and_translational_represion_of_microRNAs.png "fig:The_model_for_the_biogenesis_and_translational_represion_of_microRNAs.png") ゲノムDNAには、miRNAの塩基配列とほぼ相補な配列が含まれている\[11\]。一般に、この配列はmiRNA遺伝子と呼ばれている\[12\]。
 
-ここでいう相補\[13\]とは、[核酸塩基](https://ja.wikipedia.org/wiki/核酸塩基 "wikilink")がワトソン・クリック型[塩基対](../Page/塩基対.md "wikilink")を形成していることを意味する\[14\]。具体的には、A (adenine, [アデニン](../Page/アデニン.md "wikilink")), T (tymine, [チミン](../Page/チミン.md "wikilink")), G (guanine, [グアニン](../Page/グアニン.md "wikilink")), C (cytosine, [シトシン](https://ja.wikipedia.org/wiki/シトシン "wikilink")), U (uracil, [ウラシル](../Page/ウラシル.md "wikilink")) の5種類の天然型塩基が特定のペアー同士で[水素結合](../Page/水素結合.md "wikilink")によって塩基対を形成する。AとT/Uは2本の水素結合により対をなす。GとCは3本の水素結合により対をなす。したがって水素結合の数が1本多いことから、G：Cの塩基対はA：T/Uの塩基対よりも安定性が高い。
+ここでいう相補\[13\]とは、[核酸塩基](../Page/核酸塩基.md "wikilink")がワトソン・クリック型[塩基対](../Page/塩基対.md "wikilink")を形成していることを意味する\[14\]。具体的には、A (adenine, [アデニン](../Page/アデニン.md "wikilink")), T (tymine, [チミン](../Page/チミン.md "wikilink")), G (guanine, [グアニン](../Page/グアニン.md "wikilink")), C (cytosine, [シトシン](https://ja.wikipedia.org/wiki/シトシン "wikilink")), U (uracil, [ウラシル](../Page/ウラシル.md "wikilink")) の5種類の天然型塩基が特定のペアー同士で[水素結合](../Page/水素結合.md "wikilink")によって塩基対を形成する。AとT/Uは2本の水素結合により対をなす。GとCは3本の水素結合により対をなす。したがって水素結合の数が1本多いことから、G：Cの塩基対はA：T/Uの塩基対よりも安定性が高い。
 
 ### pri-miRNAの生成
 

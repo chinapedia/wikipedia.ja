@@ -7,6 +7,8 @@
 
 前身は[内閣鉄道院時代の](https://ja.wikipedia.org/wiki/鉄道省 "wikilink")[1918年](../Page/1918年.md "wikilink")に創部された九州鉄道管理局。のち「門司鉄道管理局」、「門司鉄道局」と改称し、戦後の[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")発足後「門司[鉄道管理局](../Page/鉄道管理局.md "wikilink")」に改称した。北九州市に所在していた[新日鐵八幡](https://ja.wikipedia.org/wiki/新日本製鐵八幡硬式野球部 "wikilink")（2003年限りで廃部）との対抗戦は「製門戦」と呼ばれ、[早慶戦](https://ja.wikipedia.org/wiki/早慶戦 "wikilink")に次ぐ歴史を持つ対抗戦を演じていた。
 
+1950年代からしばらく活動していなかったが、1970年に活動再開、1987年の国鉄分割民営化にともなうチーム再編のとき、九州に存在していた熊本鉄道管理局、大分鉄道管理局と鹿児島鉄道管理局チームを統合して、JR九州硬式野球部として再出発した。
+
 [2004年](../Page/2004年.md "wikilink")の[第75回都市対抗野球大会](../Page/第75回都市対抗野球大会.md "wikilink")では68年ぶりの8強入り、[2005年](../Page/2005年.md "wikilink")の[第76回都市対抗野球大会](../Page/第76回都市対抗野球大会.md "wikilink")では69年ぶりの4強入りを果たし、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")の[第81回都市対抗野球大会](https://ja.wikipedia.org/wiki/第81回都市対抗野球大会 "wikilink")では準優勝に輝いた。これと前後して、[2009年](../Page/2009年.md "wikilink")の[第36回社会人野球日本選手権大会](https://ja.wikipedia.org/wiki/第36回社会人野球日本選手権大会 "wikilink")で、同年の都市対抗優勝チームの[Hondaを決勝で破り優勝](../Page/Honda硬式野球部.md "wikilink")。[国鉄分割民営化](../Page/国鉄分割民営化.md "wikilink")後にJRグループチームで初めて全国大会を制した。
 
 現在、JR九州の本社は福岡市にあるが、チームの所在地は[北部九州地域本社のある北九州市](../Page/九州旅客鉄道北部九州地域本社.md "wikilink")[小倉北区](../Page/小倉北区.md "wikilink")[室町となっている](https://ja.wikipedia.org/wiki/室町_\(北九州市\) "wikilink")。また、練習グラウンドは北九州市[門司区](https://ja.wikipedia.org/wiki/門司区 "wikilink")[新原町の](https://ja.wikipedia.org/wiki/西門司 "wikilink")[JR九州社員研修センター内にあり](https://ja.wikipedia.org/wiki/九州旅客鉄道社員研修センター "wikilink")、野球部の寮も社員研修センターに隣接して設けられている。
@@ -46,14 +48,6 @@
 
 ## 主な出身プロ野球選手
 
-  - [荒木政公](https://ja.wikipedia.org/wiki/荒木政公 "wikilink")投手（[1939年](../Page/1939年.md "wikilink")[阪急軍](../Page/オリックス・バファローズ.md "wikilink")）
-  - [岡本敏男](https://ja.wikipedia.org/wiki/岡本敏男 "wikilink")投手（[1940年](../Page/1940年.md "wikilink")[名古屋軍](../Page/中日ドラゴンズ.md "wikilink")）
-  - [大橋棣](../Page/大橋棣.md "wikilink")内野手（[1942年](../Page/1942年.md "wikilink")[阪神軍](../Page/阪神タイガース.md "wikilink")）
-  - [中谷信夫](../Page/中谷信夫.md "wikilink")投手（[1947年](../Page/1947年.md "wikilink")[南海ホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")）
-  - [田中資昭](https://ja.wikipedia.org/wiki/田中資昭 "wikilink")内野手（1947年[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")→[大洋ホエールズ](../Page/横浜DeNAベイスターズ.md "wikilink")）
-  - [木塚忠助](../Page/木塚忠助.md "wikilink")内野手 （[1948年](../Page/1948年.md "wikilink")南海ホークス）
-  - [石井和行](https://ja.wikipedia.org/wiki/石井和行 "wikilink")投手（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")[ドラフト外](https://ja.wikipedia.org/wiki/ドラフト外入団#日本プロ野球 "wikilink")）
-  - [田島克彦](../Page/田島克彦.md "wikilink")外野手（[1981年](https://ja.wikipedia.org/wiki/1981年度新人選手選択会議_\(日本プロ野球\)#阪急ブレーブス "wikilink")[阪急ブレーブスドラフト](../Page/オリックス・バファローズ.md "wikilink")6位）
   - [田崎昌弘](../Page/田崎昌弘.md "wikilink")投手（[2001年](https://ja.wikipedia.org/wiki/2001年度新人選手選択会議_\(日本プロ野球\)#横浜ベイスターズ "wikilink")[横浜ベイスターズドラフト](../Page/横浜DeNAベイスターズ.md "wikilink")5巡→[西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")）
   - [樋口龍美](../Page/樋口龍美.md "wikilink")投手（[2004年](https://ja.wikipedia.org/wiki/2004年度新人選手選択会議_\(日本プロ野球\)#中日ドラゴンズ "wikilink")[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")自由獲得枠）
   - [町豪将](../Page/町豪将.md "wikilink")投手（[2004年](https://ja.wikipedia.org/wiki/2004年度新人選手選択会議_\(日本プロ野球\)#オリックス・バファローズ "wikilink")[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")ドラフト4巡）
@@ -63,6 +57,17 @@
   - [福敬登](https://ja.wikipedia.org/wiki/福敬登 "wikilink")投手（[2015年中日ドラゴンズドラフト](https://ja.wikipedia.org/wiki/2015年度新人選手選択会議_\(日本プロ野球\)#中日ドラゴンズ "wikilink")4位）
 
 ### [国鉄](../Page/日本国有鉄道.md "wikilink")・九州地区各[鉄道管理局](../Page/鉄道管理局.md "wikilink")野球部出身プロ野球選手
+
+#### [門司鉄道管理局](../Page/九州旅客鉄道北部九州地域本社.md "wikilink")
+
+  - [荒木政公](https://ja.wikipedia.org/wiki/荒木政公 "wikilink")投手（[1939年](../Page/1939年.md "wikilink")[阪急軍](../Page/オリックス・バファローズ.md "wikilink")）
+  - [岡本敏男](https://ja.wikipedia.org/wiki/岡本敏男 "wikilink")投手（[1940年](../Page/1940年.md "wikilink")[名古屋軍](../Page/中日ドラゴンズ.md "wikilink")）
+  - [大橋棣](../Page/大橋棣.md "wikilink")内野手（[1942年](../Page/1942年.md "wikilink")[阪神軍](../Page/阪神タイガース.md "wikilink")）
+  - [中谷信夫](../Page/中谷信夫.md "wikilink")投手（[1947年](../Page/1947年.md "wikilink")[南海ホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")）
+  - [木塚忠助](../Page/木塚忠助.md "wikilink")内野手 （[1948年](../Page/1948年.md "wikilink")南海ホークス）
+  - [宮川孝雄](https://ja.wikipedia.org/wiki/宮川孝雄 "wikilink")内野手 （[1948年](../Page/1948年.md "wikilink")[広島カープ](../Page/広島東洋カープ.md "wikilink")）
+  - [石井和行](https://ja.wikipedia.org/wiki/石井和行 "wikilink")投手（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")[ドラフト外](https://ja.wikipedia.org/wiki/ドラフト外入団#日本プロ野球 "wikilink")）
+  - [田島克彦](../Page/田島克彦.md "wikilink")（[1981年阪急ブレーブスドラフト](https://ja.wikipedia.org/wiki/1981年度新人選手選択会議_\(日本プロ野球\)#阪急ブレーブス "wikilink")6位）
 
 #### [鹿児島鉄道管理局](../Page/九州旅客鉄道鹿児島支社.md "wikilink")
 
@@ -76,6 +81,14 @@
 
   - [山口喜司](https://ja.wikipedia.org/wiki/山口喜司 "wikilink")投手（後に[陸上自衛隊西部方面隊を経て](../Page/西部方面隊.md "wikilink")、[1968年広島東洋カープドラフト](https://ja.wikipedia.org/wiki/1968年度新人選手選択会議_\(日本プロ野球\)#広島東洋カープ "wikilink")3位）
   - [福良淳一](../Page/福良淳一.md "wikilink")内野手（[1984年阪急ブレーブスドラフト](https://ja.wikipedia.org/wiki/1984年度新人選手選択会議_\(日本プロ野球\)#阪急ブレーブス "wikilink")6位、前オリックスバファローズ監督）
+
+#### [熊本鉄道管理局](../Page/九州旅客鉄道熊本支社.md "wikilink")
+
+  - [丸尾千年次](https://ja.wikipedia.org/wiki/丸尾千年次 "wikilink")投手（1936年阪急軍）
+  - [田中資昭](https://ja.wikipedia.org/wiki/田中資昭 "wikilink")内野手（1947年[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")→[大洋ホエールズ](../Page/横浜DeNAベイスターズ.md "wikilink")）
+  - [武宮敏明](../Page/武宮敏明.md "wikilink")捕手（1947年読売ジャイアンツ）
+  - [後藤次男](../Page/後藤次男.md "wikilink")内野手（[法政大学を経て](../Page/法政大学野球部.md "wikilink")、1948年阪神タイガース）
+  - [本村信吾](../Page/本村信吾.md "wikilink")外野手（[1986年中日ドラゴンズドラフト](https://ja.wikipedia.org/wiki/1986年度新人選手選択会議_\(日本プロ野球\)#中日ドラゴンズ "wikilink")6位）
 
 ## 元プロ野球選手の競技者登録
 

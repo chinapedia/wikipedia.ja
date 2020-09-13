@@ -5,15 +5,19 @@
 
 ## 概要
 
+連載前の没ネームの段階ではビリヤード漫画として話が進んでいた\[1\]。
+
 ジャンルは「[野球](../Page/野球漫画.md "wikilink")[ギャグ漫画](../Page/ギャグ漫画.md "wikilink")」で、作品序盤～中盤にかけては「ギャグ漫画のついでに野球をしている」と皮肉られるほど[ギャグ](../Page/ギャグ.md "wikilink")が圧倒的なシェアを占めているが、終盤にかけては野球が主体となっている。特に最終24巻にいたっては、巻中に収録されている10話全てにギャグらしきギャグの要素が全くなく、あくまで野球そのものが主体になっている。また、ライバル達に打ち勝つために過酷な練習を経て必殺技を体得するなど[スポ根](../Page/スポ根.md "wikilink")要素も多分に含まれている。
 
 本作の登場人物が使う技術や技は現実にはありえない物理法則を無視したものが多い。
 
 [2005年](../Page/2005年.md "wikilink")6月には[ドラマCD化され](../Page/ラジオドラマ.md "wikilink")、12月には第2弾が発売された。更に[2006年](../Page/2006年.md "wikilink")8月に第3弾発売。また、[ジャンプ ジェイ ブックスでも](../Page/ジャンプ_ジェイ_ブックス.md "wikilink")2作品発売されている。2006年23号で連載5周年となるが、同号で完結となった。全227話。
 
+20巻以上単行本が発売された『週刊少年ジャンプ』の漫画作品としては異例だが、TVアニメ化はされていない。
+
 ジャンプに限らず、漫画やアニメの[パロディ](../Page/パロディ.md "wikilink")ネタや[メタ表現が多いのが特徴である](../Page/メタフィクション.md "wikilink")。また企業名や商品名が実名でよく出るが、後期は「○」などの伏字で隠している。その「○」もコマによってずれたりするため、あまり意味はない。
 
-なお本作のタイトルは2001年連載開始当初、絶頂期を迎えていた**ミスターフルスイング**ことプロ野球選手の[中村紀洋](../Page/中村紀洋.md "wikilink")をモチーフとしており、主人公である猿野天国が通う十二支高校を20年前に[夏の甲子園](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")3連覇に導いた**村中紀洋**もまた中村がモデルとなっている。作中における愛称も**ミスターフルスイング**となっていて、更に本作の執筆を思いついたきっかけも「中村紀洋がホームランを打ってバットを高く放り投げる所にしびれて一目惚れしたから」とのことである\[1\]。
+なお本作のタイトルは2001年連載開始当初、絶頂期を迎えていた**ミスターフルスイング**ことプロ野球選手の[中村紀洋](../Page/中村紀洋.md "wikilink")をモチーフとしており、主人公である猿野天国が通う十二支高校を20年前に[夏の甲子園](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")3連覇に導いた**村中紀洋**もまた中村がモデルとなっている。作中における愛称も**ミスターフルスイング**となっていて、更に本作の執筆を思いついたきっかけも「中村紀洋がホームランを打ってバットを高く放り投げる所にしびれて一目惚れしたから」とのことである\[2\]。
 
 ## 物語
 
@@ -133,4 +137,5 @@
 
 [Category:漫画作品_み](https://ja.wikipedia.org/wiki/Category:漫画作品_み "wikilink") [Category:2001年の漫画](https://ja.wikipedia.org/wiki/Category:2001年の漫画 "wikilink") [Category:週刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年ジャンプの漫画作品 "wikilink") [Category:野球漫画](https://ja.wikipedia.org/wiki/Category:野球漫画 "wikilink") [Category:ギャグ漫画](https://ja.wikipedia.org/wiki/Category:ギャグ漫画 "wikilink") [Category:高等学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした漫画作品 "wikilink") [Category:埼玉県を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:埼玉県を舞台とした漫画作品 "wikilink") [Category:ジャンプ_ジェイ_ブックス](https://ja.wikipedia.org/wiki/Category:ジャンプ_ジェイ_ブックス "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink")
 
-1.  [ミスターフリートーク](http://natalie.mu/comic/pp/mrfullswing/page/4) 2球目参照
+1.  『Mr.FULLSWING』コミックス24巻 ミスターフリートーク63球目
+2.  [ミスターフリートーク](http://natalie.mu/comic/pp/mrfullswing/page/4) 2球目参照

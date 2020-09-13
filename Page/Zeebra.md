@@ -70,7 +70,7 @@
       - 8thアルバム『25 To Life』をリリース。
       - 4月、「クラブとクラブカルチャーを守る会」を設立。
   - [2014年](../Page/2014年.md "wikilink")
-      - レーベル「[GRAND MASTER](https://ja.wikipedia.org/wiki/GRAND_MASTER "wikilink")」を発足させる。
+      - レーベル「[GRAND MASTER](https://ja.wikipedia.org/wiki/GRAND_MASTER "wikilink")」を発足させる。Zeebra主催のヒップホップフェスイベント「[SUMMER BOMB](https://ja.wikipedia.org/wiki/SUMMER_BOMB "wikilink")」をこの年より開催\[3\]。
   - [2015年](../Page/2015年.md "wikilink")
       - 番組MCを務める[フリースタイルダンジョン](https://ja.wikipedia.org/wiki/フリースタイルダンジョン "wikilink")、放送開始。
   - [2016年](../Page/2016年.md "wikilink")
@@ -80,7 +80,7 @@
 
 ## 家族
 
-義父は建築家の[坂倉竹之助](https://ja.wikipedia.org/wiki/坂倉竹之助 "wikilink")。父方の義祖父は建築家の[坂倉準三](../Page/坂倉準三.md "wikilink")、曽祖父は文化学院創立者の[西村伊作](../Page/西村伊作.md "wikilink")。母方の祖父は実業家の[横井英樹](../Page/横井英樹.md "wikilink")。[SPHEREは異父弟](../Page/SPHERE_\(ラッパー\).md "wikilink")。 [1991年](../Page/1991年.md "wikilink")に結婚し、2人の息子を授かるも離婚。2人の子供はZeebraが引き取る。現在の妻は[モデルの](../Page/ファッションモデル.md "wikilink")[中林美和](https://ja.wikipedia.org/wiki/中林美和 "wikilink")で、中林との間にも2人の娘がおり、合計4人の子供の父である。[2020年](../Page/2020年.md "wikilink")には長男に男児が誕生し、49歳で祖父となった\[3\]。
+義父は建築家の[坂倉竹之助](https://ja.wikipedia.org/wiki/坂倉竹之助 "wikilink")([坂倉準三](../Page/坂倉準三.md "wikilink")の子、[西村伊作](../Page/西村伊作.md "wikilink")の孫）。母は実業家[横井英樹](../Page/横井英樹.md "wikilink")の長女。[SPHEREは異父弟](../Page/SPHERE_\(ラッパー\).md "wikilink")。[1991年](../Page/1991年.md "wikilink")に結婚し、2人の息子を授かるも離婚。2人の子供はZeebraが引き取る。現在の妻は[モデルの](../Page/ファッションモデル.md "wikilink")[中林美和](https://ja.wikipedia.org/wiki/中林美和 "wikilink")。中林との間には[NiziU](../Page/NiziU.md "wikilink")のリマ（横井里茉）\[4\]ら2人の娘がいて、合計4人の子供の父である。[2020年](../Page/2020年.md "wikilink")には長男に男児が誕生し、49歳で祖父となった\[5\]。
 
 ## その他
 
@@ -90,7 +90,7 @@
 
 ### RAU DEF
 
-2011年5月19日、ラッパーの[RAU DEFがZEEBRAをディスした曲](https://ja.wikipedia.org/wiki/RAU_DEF "wikilink")「KILLIN EM\!」を発表。翌日、ZEEBRAがアンサーソング「Die By The Beef」を発表した\[4\]。その2日後、これに対するアンサー「TRAP OR DIE」をRAU DEFが発表。4年後の2015年8月11日、[Ustream](https://ja.wikipedia.org/wiki/Ustream "wikilink")で公開されたGRAND MASTER SHOWで[SKY-HIを通じZeebraとRAU](../Page/日高光啓.md "wikilink") DEFが公の場所で共演し握手を交わし、完全に和解していることを公表した\[5\]。
+2011年5月19日、ラッパーの[RAU DEFがZEEBRAをディスした曲](https://ja.wikipedia.org/wiki/RAU_DEF "wikilink")「KILLIN EM\!」を発表。翌日、ZEEBRAがアンサーソング「Die By The Beef」を発表した\[6\]。その2日後、これに対するアンサー「TRAP OR DIE」をRAU DEFが発表。4年後の2015年8月11日、[Ustream](https://ja.wikipedia.org/wiki/Ustream "wikilink")で公開されたGRAND MASTER SHOWで[SKY-HIを通じZeebraとRAU](../Page/日高光啓.md "wikilink") DEFが公の場所で共演し握手を交わし、完全に和解していることを公表した\[7\]。
 
 ## ディスコグラフィ
 
@@ -1094,7 +1094,8 @@ feat.Sugar Soul &amp;Zeebra</p></td>
 
 ### その他テレビ番組
 
-  - [フリースタイルダンジョン](https://ja.wikipedia.org/wiki/フリースタイルダンジョン "wikilink")（2015年9月 - 、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）\*メインMC \[6\]
+  - [フリースタイルティーチャー](https://ja.wikipedia.org/wiki/フリースタイルティーチャー "wikilink")（2020年7月 - 、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）\*MC \[8\]
+  - [フリースタイルダンジョン](https://ja.wikipedia.org/wiki/フリースタイルダンジョン "wikilink")（2015年9月 - 2020年6月、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）\*メインMC \[9\]
   - [BAZOOKA\!\!\! 高校生RAP選手権](https://ja.wikipedia.org/wiki/BAZOOKA!!!_高校生RAP選手権 "wikilink")（2012年 - 2015年、[BSスカパー\!](https://ja.wikipedia.org/wiki/BSスカパー! "wikilink")）\*審査員
   - ラッパーACEの世界を狙え （2015年 - 、MONDO TV）\*ナレーション
   - 透波乱波　スッパラッパ （2013年、日本テレビ）\*ナレーション
@@ -1114,9 +1115,9 @@ feat.Sugar Soul &amp;Zeebra</p></td>
 
 ### ウェブテレビ
 
-  - [亀田興毅に勝ったら1000万円](https://ja.wikipedia.org/wiki/亀田興毅に勝ったら1000万円 "wikilink")（2017年5月7日、[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")） - リングMC\[7\]
-  - [安室奈美恵ファッション総選挙　FASHION MOVIE BEST 50](https://ja.wikipedia.org/wiki/安室奈美恵ファッション総選挙_FASHION_MOVIE_BEST_50_〜史上初!動画で振り返る25年の安室奈美恵ファッション史〜 "wikilink")（2018年9月9日、AbemaTV）\[8\]
-    1.  タメノミ～同学年ドリーム飲み会～（2000年5月1日、ABEMA）\[9\]
+  - [亀田興毅に勝ったら1000万円](https://ja.wikipedia.org/wiki/亀田興毅に勝ったら1000万円 "wikilink")（2017年5月7日、[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")） - リングMC\[10\]
+  - [安室奈美恵ファッション総選挙　FASHION MOVIE BEST 50](https://ja.wikipedia.org/wiki/安室奈美恵ファッション総選挙_FASHION_MOVIE_BEST_50_〜史上初!動画で振り返る25年の安室奈美恵ファッション史〜 "wikilink")（2018年9月9日、AbemaTV）\[11\]
+    1.  タメノミ～同学年ドリーム飲み会～（2000年5月1日、ABEMA）\[12\]
 
 ### 映画
 
@@ -1214,9 +1215,12 @@ feat.Sugar Soul &amp;Zeebra</p></td>
 1.
 2.
 3.
-4.  \[[http://tower.jp/article/news/2011/05/20/78316\]RAU](http://tower.jp/article/news/2011/05/20/78316%5DRAU) DEFの宣戦布告ソングにZeebraが貫禄の1ヴァースで返答
-5.  [20150811_THE_GRANDMASTER_SHOW](http://www.ustream.tv/recorded/70608230) 公ではない場所でもSKY-HIを通じRAU DEFと会っており、その際に和解したとZeebraが放送内で語っている。
-6.
-7.
+4.
+5.
+6.  \[[http://tower.jp/article/news/2011/05/20/78316\]RAU](http://tower.jp/article/news/2011/05/20/78316%5DRAU) DEFの宣戦布告ソングにZeebraが貫禄の1ヴァースで返答
+7.  [20150811_THE_GRANDMASTER_SHOW](http://www.ustream.tv/recorded/70608230) 公ではない場所でもSKY-HIを通じRAU DEFと会っており、その際に和解したとZeebraが放送内で語っている。
 8.
 9.
+10.
+11.
+12.

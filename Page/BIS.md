@@ -8,7 +8,7 @@
   - [ビスマーク市営空港](https://ja.wikipedia.org/wiki/ビスマーク市営空港 "wikilink")の[IATAコード](../Page/空港コード.md "wikilink")。
   - [アメリカ合衆国商務省産業安全保障局](../Page/アメリカ合衆国商務省産業安全保障局.md "wikilink") (Bureau of Industry and Security)
   - Bureau of Indian Standards - インドの標準化機関。
-  - [NPB・BIS](https://ja.wikipedia.org/wiki/NPB・BIS "wikilink") - [日本野球機構](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")のプロ野球データベースシステム。
+  - [NPB・BIS](../Page/NPB・BIS.md "wikilink") - [日本野球機構](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")のプロ野球データベースシステム。
   - [BISレコード](https://ja.wikipedia.org/wiki/BISレコード "wikilink") - [スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の[クラシック音楽](../Page/クラシック音楽.md "wikilink")の[レコードレーベル](../Page/レコードレーベル.md "wikilink")。
   - [Bohemia Interactive Studio](../Page/Bohemia_Interactive_Studio.md "wikilink") - チェコの[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")開発会社。
   - [チロルチョコ](../Page/チロルチョコ.md "wikilink")のバリエーションの1つ「ビス (BIS)」。

@@ -1,7 +1,7 @@
 > この記事は[HEATH](https://ja.wikipedia.org/wiki/HEATH)から翻訳されています。
 
 
-**HEATH**（ヒース、本名：**森江 博** - もりえ ひろし、[1968年](../Page/1968年.md "wikilink")（昭和43年）[1月22日](../Page/1月22日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[兵庫県](../Page/兵庫県.md "wikilink")[尼崎市](../Page/尼崎市.md "wikilink")出身。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[X JAPANの](../Page/X_JAPAN.md "wikilink")[ベーシスト](../Page/ベーシスト.md "wikilink")。ソロ活動時の名前は「heath」、X JAPANでは「HEATH」である。愛称は「ひーちゃん」(主に[HIDEから呼ばれた](https://ja.wikipedia.org/wiki/hide "wikilink"))。
+**HEATH**（ヒース、本名：**森江 博** - もりえ ひろし、[1968年](../Page/1968年.md "wikilink")（昭和43年）[1月22日](../Page/1月22日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[兵庫県](../Page/兵庫県.md "wikilink")[尼崎市](../Page/尼崎市.md "wikilink")出身。[血液型は](../Page/ABO式血液型.md "wikilink")[B型](../Page/ABO式血液型.md "wikilink")。[X JAPANの](../Page/X_JAPAN.md "wikilink")[ベーシスト](../Page/ベーシスト.md "wikilink")。ソロ活動時の名前は「heath」、X JAPANでは「HEATH」である。愛称は「ひーちゃん」(主に[HIDEから呼ばれた](https://ja.wikipedia.org/wiki/hide "wikilink"))。
 
 ## 来歴
 
@@ -145,7 +145,7 @@
 
 HEATHはその後、自身のバンドへの迷いがあったこともあり、入る入らないは別としてセッションならやりたいと承諾。結局、実際にはオーディションではなく、Xメンバーのほうからの希望でセッションと言う形でHEATHに来てもらう事になった。
 
-最初のセッションの時の演奏曲は「[Standing Sex](https://ja.wikipedia.org/wiki/Standing_Sex/Joker "wikilink")」「[BLUE BLOOD](https://ja.wikipedia.org/wiki/BLUE_BLOOD#収録曲 "wikilink")」「[ENDLESS RAIN](../Page/ENDLESS_RAIN.md "wikilink")」「[Joker](https://ja.wikipedia.org/wiki/Standing_Sex/Joker "wikilink")」「[Sadistic Desire](https://ja.wikipedia.org/wiki/Silent_Jealousy#収録曲 "wikilink")」の5曲。その前日から当日朝までHIDEとHEATHが一緒に飲んでいたこともあり、HEATHは二日酔いの状態でセッションに参加。仮眠も1、2時間ほどしかとらずHEATHは「間違えても仕方がない」と緊張していなかったがほぼ完璧に弾きこなす。逆にメンバーのほうが緊張して「下手なのがバレてナメられないようにしないといけないと思ってコチコチに緊張していた」と語る。物怖じしない性格や、終わって片づけをして、「じゃあ、結果は後日〜」とすぐに帰ってしまったHEATHに対しHIDEと[PATA](../Page/PATA.md "wikilink")は「大物だ」と感じたと同時に、「こいつはXにいてもおかしくない」と思ったという。
+最初のセッションの時の演奏曲は「[Standing Sex](https://ja.wikipedia.org/wiki/Standing_Sex/Joker "wikilink")」「[BLUE BLOOD](https://ja.wikipedia.org/wiki/BLUE_BLOOD_\(Xのアルバム\)#収録曲 "wikilink")」「[ENDLESS RAIN](../Page/ENDLESS_RAIN.md "wikilink")」「[Joker](https://ja.wikipedia.org/wiki/Standing_Sex/Joker "wikilink")」「[Sadistic Desire](https://ja.wikipedia.org/wiki/Silent_Jealousy#収録曲 "wikilink")」の5曲。その前日から当日朝までHIDEとHEATHが一緒に飲んでいたこともあり、HEATHは二日酔いの状態でセッションに参加。仮眠も1、2時間ほどしかとらずHEATHは「間違えても仕方がない」と緊張していなかったがほぼ完璧に弾きこなす。逆にメンバーのほうが緊張して「下手なのがバレてナメられないようにしないといけないと思ってコチコチに緊張していた」と語る。物怖じしない性格や、終わって片づけをして、「じゃあ、結果は後日〜」とすぐに帰ってしまったHEATHに対しHIDEと[PATA](../Page/PATA.md "wikilink")は「大物だ」と感じたと同時に、「こいつはXにいてもおかしくない」と思ったという。
 
 その日のうちにHEATHのもとに「メンバーはHEATHを気に入ったがHEATHはどうだったか」という連絡が入る。さらにしばらくして、やはりベースはHEATHが良いとメンバー内で一致。すぐにHEATHに電話をするが、HEATHはそのとき自身で再結成させたバンドのこともあって、少し考えさせて欲しいと言った。結局2週間色々考えた末、セッションが楽しかったこともあり、決心して加入承諾の連絡をする。後のインタビューでHEATHは「あの中にいて違和感がなかった」「ピンとくるものが、Xに対してはすごく強くあった」と語っている。加入が決まったのは1992年5月中旬、HEATH24歳の時であった。
 

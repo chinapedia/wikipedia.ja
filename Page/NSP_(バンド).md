@@ -896,7 +896,7 @@
 ## 外部リンク
 
   - [NSP official website](http://www.nspweb.net/)
-  - [NSP ヤマハミュージックコミュニケーションズ](http://www.yamahamusic.co.jp/artist/index.php?artist_id=105)
+  - [NSP ヤマハミュージックコミュニケーションズ](https://www.yamahamusic.co.jp/s/ymc/artist/105)
   - [NSP 日本クラウン](http://www.crownrecord.co.jp/artist/nsp/whats.html)
   - [中村貴之 official website](http://nsp-nakataka.jp/)
 

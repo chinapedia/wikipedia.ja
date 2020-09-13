@@ -9,7 +9,7 @@
   - [AQUAシステム](https://ja.wikipedia.org/wiki/AQUAシステム "wikilink") - [防災科学技術研究所](../Page/防災科学技術研究所.md "wikilink")が運用する[地震警報システム](../Page/地震警報システム.md "wikilink")。
   - [AQUA UNIVERSE](https://ja.wikipedia.org/wiki/AQUA_UNIVERSE "wikilink") - [単原子](https://ja.wikipedia.org/wiki/単原子 "wikilink")状態の[金](../Page/金.md "wikilink")である[単原子ゴールド](https://ja.wikipedia.org/wiki/単原子ゴールド "wikilink")を販売する会社。
 
-## 　会社・商業施設・製品　
+## 会社・商業施設・製品
 
   - アクアプランネットAQUAPLANNET
   - [Aqua (コンピュータ)](../Page/Aqua_\(コンピュータ\).md "wikilink") - [Mac OS X v10.0から](../Page/Mac_OS_X_v10.0.md "wikilink")[Mac OS X v10.4にかけての](../Page/Mac_OS_X_v10.4.md "wikilink")[グラフィカルユーザインタフェース](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")の総称。
@@ -35,10 +35,13 @@
 
   - [アクア (キングダム ハーツ)](https://ja.wikipedia.org/wiki/アクア_\(キングダム_ハーツ\) "wikilink") - ゲーム『[キングダム ハーツ シリーズ](../Page/キングダム_ハーツ_シリーズ.md "wikilink")』に登場するキャラクター。
   - アクア - ライトノベル『[この素晴らしい世界に祝福を\!](https://ja.wikipedia.org/wiki/この素晴らしい世界に祝福を! "wikilink")』に登場する[女神](../Page/女神.md "wikilink")。
+  - アクア - ゲーム『[ファイアーエムブレムif](https://ja.wikipedia.org/wiki/ファイアーエムブレムif "wikilink")』に登場するキャラクター。
+  - アクア - ゲーム『[テイルズ オブ シンフォニア -ラタトスクの騎士-](https://ja.wikipedia.org/wiki/テイルズ_オブ_シンフォニア_-ラタトスクの騎士- "wikilink")』に登場するキャラクター。
   - AQUA - [天野こずえ](../Page/天野こずえ.md "wikilink")の漫画作品。[ARIA (漫画)\#AQUAを参照](https://ja.wikipedia.org/wiki/ARIA_\(漫画\)#AQUA "wikilink")。作中の架空の惑星については[アクア (ARIA)を参照](../Page/アクア_\(ARIA\).md "wikilink")。
   - [AQUA (ゲーム)](https://ja.wikipedia.org/wiki/AQUA_\(ゲーム\) "wikilink") - ビジュアルノベル制作ブランドSORAHANE-ソラハネ-の作品。
   - [Cafe AQUA](https://ja.wikipedia.org/wiki/Cafe_AQUA "wikilink") - かつて存在したアダルトゲームブランド[RaSeNの初期作品の一つ](https://ja.wikipedia.org/wiki/ネクストン#RaSeN "wikilink")。原画・[浅賀葵](https://ja.wikipedia.org/wiki/浅賀葵 "wikilink")（退社）。メインライター・[有島悠也](https://ja.wikipedia.org/wiki/有島悠也 "wikilink")（サブライター・らいとむ、いずれも退社）。
   - [Aqours](https://ja.wikipedia.org/wiki/Aqours "wikilink") - 『[ラブライブ\! サンシャイン\!\!](https://ja.wikipedia.org/wiki/ラブライブ!_サンシャイン!! "wikilink")』に登場するアイドルグループ、およびそれを演じる声優による[声優ユニット](../Page/声優ユニット.md "wikilink")。
+  - [アクア・ジム](https://ja.wikipedia.org/wiki/ジムシリーズのバリエーション#アクア・ジム "wikilink") - [モビルスーツGMの水中用バリエーション機](../Page/ジム_\(ガンダムシリーズ\).md "wikilink")。
   - キュアアクア - アニメ『[Yes\!プリキュア5](../Page/Yes!プリキュア5.md "wikilink")』に登場するキャラクター。詳しくは[Yes\!プリキュア5\#キュアアクア](https://ja.wikipedia.org/wiki/Yes!プリキュア5#キュアアクア "wikilink")を参照。
 
 ## 放送関係

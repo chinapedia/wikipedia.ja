@@ -1,7 +1,7 @@
 > この記事は[MORAL](https://ja.wikipedia.org/wiki/MORAL)から翻訳されています。
 
 
-『**MORAL**』（モラル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[BOØWYのファーストアルバム](../Page/BOOWY.md "wikilink")。
+『**MORAL**』（モラル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[BOØWY](../Page/BOØWY.md "wikilink")のファーストアルバム。
 
 ## 背景
 
@@ -122,7 +122,7 @@ VCF-1617</p></td>
 <td><p>CD</p></td>
 <td><p>TOCT-6390</p></td>
 <td><p>2位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CD-BOX" title="wikilink">CD-BOX</a>『<a href="../Page/BOOWY_COMPLETE.md" title="wikilink">BOØWY COMPLETE</a> LIMITED EDITION』収録</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/CD-BOX" title="wikilink">CD-BOX</a>『<a href="../Page/BOØWY_COMPLETE.md" title="wikilink">BOØWY COMPLETE</a> LIMITED EDITION』収録</p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
@@ -224,7 +224,7 @@ A面:1 - 6曲目、B面:7 - 13曲目
 
 [Category:BOØWYのアルバム](https://ja.wikipedia.org/wiki/Category:BOØWYのアルバム "wikilink") [Category:1982年のアルバム](https://ja.wikipedia.org/wiki/Category:1982年のアルバム "wikilink") [Category:ビクターインビテーションのアルバム](https://ja.wikipedia.org/wiki/Category:ビクターインビテーションのアルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink")
 
-1.  紺待人「ライナーノーツ」『[BOØWY COMPLETE](../Page/BOOWY_COMPLETE.md "wikilink")』、東芝EMI、1991年。
+1.  紺待人「ライナーノーツ」『[BOØWY COMPLETE](../Page/BOØWY_COMPLETE.md "wikilink")』、東芝EMI、1991年。
 2.
 3.
 4.

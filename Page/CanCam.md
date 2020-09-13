@@ -1,7 +1,7 @@
 > この記事は[CanCam](https://ja.wikipedia.org/wiki/CanCam)から翻訳されています。
 
 
-『**CanCam**』（キャンキャン）は、[小学館](../Page/小学館.md "wikilink")の発行による[月刊](https://ja.wikipedia.org/wiki/月刊誌 "wikilink")[女性](https://ja.wikipedia.org/wiki/女性誌 "wikilink")[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。『[JJ](../Page/JJ_\(雑誌\).md "wikilink")』および『[ViVi](../Page/ViVi.md "wikilink")』と並ぶ「[赤文字系](../Page/赤文字系雑誌.md "wikilink")」の代表的な雑誌で、20代前半の女性を主要購読者層に想定している。
+『**CanCam**』（キャンキャン）は、[小学館](../Page/小学館.md "wikilink")の発行による[月刊](https://ja.wikipedia.org/wiki/月刊誌 "wikilink")[女性](https://ja.wikipedia.org/wiki/女性誌 "wikilink")[ファッション](../Page/ファッション.md "wikilink")。『[JJ](../Page/JJ_\(雑誌\).md "wikilink")』および『[ViVi](../Page/ViVi.md "wikilink")』と並ぶ「[赤文字系](../Page/赤文字系雑誌.md "wikilink")」の代表的な雑誌で、20代前半の女性を主要購読者層に想定している。
 
 [雷鳥社](https://ja.wikipedia.org/wiki/雷鳥社 "wikilink")編『雑誌タイトルコピー大全』の伝えるところによれば、誌名の由来は“I <u>can</u> <u>cam</u>pus”（アイ・**キャン**・**キャン**パス）の略で、すなわち「キャンパスリーダーになれるように」の意\[1\]。
 
@@ -767,7 +767,7 @@
 13.
 14.
 15.
-16. 『[２４年ぶり　３女性誌　同時創刊](http://web.archive.org/web/20070323014601/http://www.yomiuri.co.jp/book/news/20070307bk02.htm)』 2007年3月7日 [読売新聞](../Page/読売新聞.md "wikilink")
+16. 『[２４年ぶり　３女性誌　同時創刊](https://web.archive.org/web/20070323014601/http://www.yomiuri.co.jp/book/news/20070307bk02.htm)』 2007年3月7日 [読売新聞](../Page/読売新聞.md "wikilink")
 17. 『[創刊30周年CanCamに妹誌、中高生向け「プチキャン」3月に発売](http://www.fashionsnap.com/news/2012-02-01/cancam-petit/)』 2012年2月1日 [Fashionsnap.com](https://ja.wikipedia.org/wiki/Fashionsnap.com "wikilink")
 18. 『[創刊30周年CanCamに妹誌、中高生向け「プチキャン」3月に発売](http://www.apparel-web.com/news/fscom/index.php?title=%E5%89%B5%E5%88%8A30%E5%91%A8%E5%B9%B4CanCam%E3%81%AB%E5%A6%B9%E8%AA%8C%E3%80%81%E4%B8%AD%E9%AB%98%E7%94%9F%E5%90%91%E3%81%91%E3%80%8C%E3%83%97%E3%83%81%E3%82%AD%E3%83%A3%E3%83%B3%E3%80%8D3%E6%9C%88%E3%81%AB%E7%99%BA%E5%A3%B2)』 2012年2月1日 [Fashionsnap.com](https://ja.wikipedia.org/wiki/Fashionsnap.com "wikilink") - [アパレルウェブ](../Page/アパレルウェブ.md "wikilink")
 19.

@@ -1,17 +1,27 @@
 > この記事は[CD-i](https://ja.wikipedia.org/wiki/CD-i)から翻訳されています。
 
 
-**CD-i**（コンパクトディスクインタラクティブ）とは、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[フィリップス](../Page/フィリップス.md "wikilink")社が提唱した[コンパクトディスク](../Page/コンパクトディスク.md "wikilink")を用いた対話的環境のための規格である。最後の"i"は以前は大文字で、現在は小文字になっている。
-
-## 規格書
-
-表紙が緑色であり、グリーンブックと呼ばれる。
+**CD-i**（コンパクトディスクインタラクティブ）とは、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[フィリップス](../Page/フィリップス.md "wikilink")社が提唱した[コンパクトディスク](../Page/コンパクトディスク.md "wikilink")を用いた対話的環境のための規格である。規格書が緑色であるため、グリーンブック\[1\]と呼ばれる。最後の"i"は以前は大文字で、現在は小文字になっている。
 
 ## 規格の内容
 
-CDで対話的環境を構築するための、CDに記録すべき内容。対話的（インタラクティブ）なアプリケーションとは、利用者の操作内容に対応して、さまざまな情報を再生するようなCDソフトを指し、判り易い具体的な例としては[ゲームソフト](../Page/ゲームソフト.md "wikilink")が該当する。このためには、単なる[CDプレーヤー](../Page/CDプレーヤー.md "wikilink")ではなく、[コンピュータ](../Page/コンピュータ.md "wikilink")を内蔵した再生機器が必要であり、この再生機器の仕様についても定義されている。 またサブセットとしてインタラクティブ機能を省いた、CD-BGM規格も存在している。
+CDで対話的環境を構築するための、CDに記録すべき内容。対話的（インタラクティブ）なアプリケーションとは、利用者の操作内容に対応して、さまざまな情報を再生するようなCDソフトを指し、判り易い具体的な例としては[ゲームソフト](../Page/ゲームソフト.md "wikilink")が該当する。このためには、単なる[CDプレーヤー](../Page/CDプレーヤー.md "wikilink")ではなく、[コンピュータ](../Page/コンピュータ.md "wikilink")を内蔵した再生機器が必要であり、この再生機器の仕様についても定義されている。
 
-なおCD-DAとの互換性を確保することを目的とした独自規格CD-Ready(CD<sup>+</sup>)も別に存在した。
+### CD-I Ready
+
+CD-DAとの互換性を確保することを目的とした規格。音楽用CDプレーヤーで再生すると、オーディオ部分のみが再生され、CD-Iプレーヤーで再生すると、CD-Iとして認識される。
+
+### CD-I Bridge
+
+[CD-ROM XAディスクをCD](../Page/CD-ROM_XA.md "wikilink")-Iプレーヤーで扱えるようにした規格。[フォトCD](https://ja.wikipedia.org/wiki/フォトCD "wikilink")で採用された\[2\]。
+
+### CD-BGM
+
+[シナノケンシ](../Page/シナノケンシ.md "wikilink")がサブセットとしてインタラクティブ機能を省いた業務用BGMシステムを提唱し、[1989年](../Page/1989年.md "wikilink")にCD-BGMとして規格化された\[3\]。
+
+### CD-I DV
+
+DVはDigital Videoの略である。[MPEG-1](../Page/MPEG-1.md "wikilink")の再生ができるようにするため、フィリップスが[1992年](../Page/1992年.md "wikilink")に規格した\[4\]。ビデオCDプレーヤーとも互換性がある。
 
 ## CD-iプレーヤー
 
@@ -51,7 +61,7 @@ CD-RTOSとは、CompactDisk - Real-Time Operating Systemの略である。アメ
 
   - 会期：1990年4月～9月
   - 展示場所：政府苑(とVIPルーム)、国際陳列館、咲くやこの花館、いちょう館、売店など (計：26台)
-  - メーカー：[フィリップス](../Page/フィリップス.md "wikilink")、[ソニー](../Page/ソニー.md "wikilink")、[松下電器](https://ja.wikipedia.org/wiki/パナソニック "wikilink")、[ヤマハ](../Page/ヤマハ.md "wikilink")、[富士通テン](https://ja.wikipedia.org/wiki/富士通テン "wikilink")、[三洋電機](../Page/三洋電機.md "wikilink")、[パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")、[シャープ](../Page/シャープ.md "wikilink")(ヤマハOEM)、[リコー](../Page/リコー.md "wikilink")(フィリップスOEM)
+  - メーカー：[フィリップス](../Page/フィリップス.md "wikilink")、[ソニー](../Page/ソニー.md "wikilink")、[松下電器](https://ja.wikipedia.org/wiki/パナソニック "wikilink")、[ヤマハ](../Page/ヤマハ.md "wikilink")、[富士通テン](https://ja.wikipedia.org/wiki/富士通テン "wikilink")\[5\]、[三洋電機](../Page/三洋電機.md "wikilink")、[パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")、[シャープ](../Page/シャープ.md "wikilink")(ヤマハOEM)、[リコー](../Page/リコー.md "wikilink")(フィリップスOEM)
 
 ### 実際に発売されたCD-iプレーヤー
 
@@ -62,6 +72,8 @@ CD-RTOSとは、CompactDisk - Real-Time Operating Systemの略である。アメ
       - CDI550 - CDI450に、動画再生機能を付加したもの。
   - [ソニー](../Page/ソニー.md "wikilink") - 業務用ポータブルCD-iプレーヤーを1990年9月27日に発売した。一般向けには販売されなかった。
   - [マスプロ電工](../Page/マスプロ電工.md "wikilink") - 日本でカーナビ+ポータブルCD-iプレーヤーを発売した。
+  - [マグナボックス](../Page/マグナボックス.md "wikilink")
+  - マナスペース（manna space）
 
 ## 日本で販売されたタイトル
 
@@ -81,7 +93,10 @@ CD-RTOSとは、CompactDisk - Real-Time Operating Systemの略である。アメ
 
 ### ポニーキャニオン
 
-発売元はジャパン インタラクティブ メディア
+発売元はジャパン インタラクティブ メディア(JIM)
+
+  -
+    JIMは[ポリグラム](../Page/ポリグラム.md "wikilink")、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")、[ヤマハ](../Page/ヤマハ.md "wikilink")と共同で設立された会社\[6\]。
 
 | 型番         | タイトル                         |
 | ---------- | ---------------------------- |
@@ -118,9 +133,22 @@ CD-RTOSとは、CompactDisk - Real-Time Operating Systemの略である。アメ
 | PCIM-000?? | 東京私立校受験ガイド リセエンヌ グラフィックス     |
 | PCIX-00001 | CD-I あいうえお                   |
 
+## 非売品タイトル
+
+マナスペースのCD-iに付属
+
+  - B to D Business
+  - Mother Network Business
+  - Network Shopping
+  - Travel Business
+
+展示会などでの評価用ディスク
+
+  - CD-I 植物図鑑\[7\]\[8\]
+
 ## 現状
 
-往々にして、制定されて普及する頃には時代遅れとなり、市場で勝ち残ったデファクトスタンダード（事実上の標準）に駆逐される事が多い標準規格の例に漏れず、CD-iも1991年の発売時には、全世界累計で600万台を販売したセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）の[メガCD](../Page/メガCD.md "wikilink")といったCD-ROMを採用した家庭用ゲーム機や[IBM](../Page/IBM.md "wikilink")の[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")パソコンにシェア争いで苦戦を強いられ、日本国内では1992年4月に発売されたが、後にCD-ROM専用ゲーム機としてセガの[セガサターン](../Page/セガサターン.md "wikilink")や[SONYの](../Page/ソニー.md "wikilink")[PlayStationが発売されるなどソフトの質や本体性能面に於いて後塵を拝し](../Page/PlayStation_\(ゲーム機\).md "wikilink")、一般市場からは撤退している。現在では、規格に合致するためにだけ、PhotoCDのディスクの中に再生アプリケーションが書き込まれている程度で、あまり知られておらず、ほとんど規格書の中だけの存在となっている。
+往々にして、制定されて普及する頃には時代遅れとなり、市場で勝ち残ったデファクトスタンダード（事実上の標準）に駆逐される事が多い標準規格の例に漏れず、CD-iも1991年の発売時には、全世界累計で600万台を販売したセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）の[メガCD](../Page/メガCD.md "wikilink")といったCD-ROMを採用した家庭用ゲーム機や[IBM](../Page/IBM.md "wikilink")の[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")パソコンにシェア争いで苦戦を強いられた。日本国内では1992年4月に発売され、同年12月に日本フィリップスは「Philips CD-i CLUB」を立ち上げ、CD-iプレーヤー購入者への情報提供を行ったり、[1994年](../Page/1994年.md "wikilink")11月からは[カルチュア・コンビニエンス・クラブ](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink")(CCC)の関連会社である[レントラックジャパン](../Page/レントラックジャパン.md "wikilink")と提携して、レンタルショップでプレーヤーやソフトの貸し出しを行うなどユーザー層の拡大を図った\[9\]が、後にCD-ROM専用ゲーム機としてセガの[セガサターン](../Page/セガサターン.md "wikilink")や[SONYの](../Page/ソニー.md "wikilink")[PlayStationが発売されるなどソフトの質や本体性能面に於いて後塵を拝し](../Page/PlayStation_\(ゲーム機\).md "wikilink")、一般市場からは撤退している。現在では、規格に合致するためにだけ、PhotoCDのディスクの中に再生アプリケーションが書き込まれている程度で、あまり知られておらず、ほとんど規格書の中だけの存在となっている。
 
 市場から撤退する1998年までの全世界推定販売台数はおよそ57万台。
 
@@ -128,8 +156,8 @@ CD-RTOSとは、CompactDisk - Real-Time Operating Systemの略である。アメ
 
   - [マルチメディア機](../Page/マルチメディア機.md "wikilink")
   - [岩崎啓眞](../Page/岩崎啓眞.md "wikilink") - 1985年から88年頃までCD-iの開発に従事する。
-  - [ゲームアーツ](../Page/ゲームアーツ.md "wikilink") - メガCDの試作機が完成する前の87～88年頃にCD-ROMを研究していた際、参入を検討していた\[1\]。
-  - [任天堂](../Page/任天堂.md "wikilink") - [スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用CD-ROM周辺機器の開発にフィリップス社と提携しており、その関係でCD-i専用ソフトとして1994年にパズルゲームの『[HOTEL MARIO](https://ja.wikipedia.org/wiki/ホテルマリオ "wikilink")』、国内未発売タイトルでは1993年にアクションRPGの『[Link: the Faces of Evil](https://ja.wikipedia.org/wiki/:en:Link:_The_Faces_of_Evil_and_Zelda:_The_Wand_of_Gamelon "wikilink")』とゼルダ姫が主人公の『Zelda: the Wand of Gamelon』、1994年に『[Zelda's Adventure](https://ja.wikipedia.org/wiki/:en:Zelda's_Adventure "wikilink")』、また開発が中断された『Super Mario's Wacky Worlds』などをライセンス契約でリリースを許可した\[2\]。
+  - [ゲームアーツ](../Page/ゲームアーツ.md "wikilink") - メガCDの試作機が完成する前の87～88年頃にCD-ROMを研究していた際、参入を検討していた\[10\]。
+  - [任天堂](../Page/任天堂.md "wikilink") - [スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用CD-ROM周辺機器の開発にフィリップス社と提携しており、その関係でCD-i専用ソフトとして1994年にパズルゲームの『[HOTEL MARIO](https://ja.wikipedia.org/wiki/ホテルマリオ "wikilink")』、国内未発売タイトルでは1993年にアクションRPGの『[Link: the Faces of Evil](https://ja.wikipedia.org/wiki/:en:Link:_The_Faces_of_Evil_and_Zelda:_The_Wand_of_Gamelon "wikilink")』とゼルダ姫が主人公の『Zelda: the Wand of Gamelon』、1994年に『[Zelda's Adventure](https://ja.wikipedia.org/wiki/:en:Zelda's_Adventure "wikilink")』、また開発が中断された『Super Mario's Wacky Worlds』などをライセンス契約でリリースを許可した\[11\]。
 
 ## 脚注
 
@@ -145,5 +173,14 @@ CD-RTOSとは、CompactDisk - Real-Time Operating Systemの略である。アメ
 
 [Category:コンパクトディスク](https://ja.wikipedia.org/wiki/Category:コンパクトディスク "wikilink") [Category:オーディオディスク](https://ja.wikipedia.org/wiki/Category:オーディオディスク "wikilink") [Category:ゲーム機](https://ja.wikipedia.org/wiki/Category:ゲーム機 "wikilink")
 
-1.  [太田出版](../Page/太田出版.md "wikilink") CONTINUE 『メガドライブ大全』 Special Interview Vol.3 ゲームアーツ社長宮路洋一氏、p207参照
-2.  ただし、任天堂は開発や製作には一切関わっていない。
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10. [太田出版](../Page/太田出版.md "wikilink") CONTINUE 『メガドライブ大全』 Special Interview Vol.3 ゲームアーツ社長宮路洋一氏、p207参照
+11. ただし、任天堂は開発や製作には一切関わっていない。

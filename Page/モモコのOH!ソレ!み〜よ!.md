@@ -1,9 +1,9 @@
 > この記事は[モモコのOH!ソレ!み〜よ!](https://ja.wikipedia.org/wiki/モモコのOH!ソレ!み〜よ!)から翻訳されています。
 
 
-『**モモコのOH\!ソレ\!み〜よ\!**』（モモコのオー\!ソレ\!み〜よ\!）は、[関西テレビで放送されている](../Page/関西テレビ放送.md "wikilink")[関西ローカル](../Page/関西ローカル.md "wikilink")の[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[大阪ガスの一社提供](https://ja.wikipedia.org/wiki/大阪瓦斯 "wikilink")。（なお、関西テレビが大阪ガスの単独提供番組を放送するのはこの番組が初であり、それまでは関西テレビは在阪局の中で唯一大阪ガス提供番組を持ったことはなかった。）
+『**モモコのOH\!ソレ\!み〜よ\!**』（モモコのオー\!ソレ\!み〜よ\!）は、[関西テレビで放送されている](../Page/関西テレビ放送.md "wikilink")[関西ローカル](../Page/関西ローカル.md "wikilink")の[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[大阪ガスの一社提供](https://ja.wikipedia.org/wiki/大阪瓦斯 "wikilink")\[1\]
 
-[2003年](../Page/2003年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")放送開始。放送開始当初は14時00分 - 14時30分に放送されていたが、2005年4月からは13時55分からに[繰り上げ](../Page/フライングスタート_\(放送\).md "wikilink")。2009年4月からは『[さんまのまんま](https://ja.wikipedia.org/wiki/さんまのまんま "wikilink")』の放送枠移動に伴い、30分繰り下がって14時25分開始となった。[2016年](../Page/2016年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")から[岡村隆史](https://ja.wikipedia.org/wiki/岡村隆史 "wikilink")（[ナインティナイン](https://ja.wikipedia.org/wiki/ナインティナイン "wikilink")）出演のトークバラエティ番組『[おかべろ](https://ja.wikipedia.org/wiki/おかべろ "wikilink")』が開始することに伴い\[1\]、2016年[10月22日](../Page/10月22日.md "wikilink")からは放送時間が約30分繰り上がった。2017年[10月7日](../Page/10月7日.md "wikilink")からは『[ウラマヨ\!](https://ja.wikipedia.org/wiki/ウラマヨ! "wikilink")』が3分拡大となったため、放送時間が3分繰り下がった。
+[2003年](../Page/2003年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")放送開始。放送開始当初は14時00分 - 14時30分に放送されていたが、2005年4月からは13時55分からに[繰り上げ](../Page/フライングスタート_\(放送\).md "wikilink")。2009年4月からは『[さんまのまんま](https://ja.wikipedia.org/wiki/さんまのまんま "wikilink")』の放送枠移動に伴い、30分繰り下がって14時25分開始となった。[2016年](../Page/2016年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")から[岡村隆史](https://ja.wikipedia.org/wiki/岡村隆史 "wikilink")（[ナインティナイン](https://ja.wikipedia.org/wiki/ナインティナイン "wikilink")）出演のトークバラエティ番組『[おかべろ](https://ja.wikipedia.org/wiki/おかべろ "wikilink")』が開始することに伴い\[2\]、2016年[10月22日](../Page/10月22日.md "wikilink")からは放送時間が約30分繰り上がった。2017年[10月7日](../Page/10月7日.md "wikilink")からは『[ウラマヨ\!](https://ja.wikipedia.org/wiki/ウラマヨ! "wikilink")』が3分拡大となったため、放送時間が3分繰り下がった。
 
 [2018年](../Page/2018年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")からは[高知県](../Page/高知県.md "wikilink")の[高知さんさんテレビ](../Page/高知さんさんテレビ.md "wikilink")でも毎週火曜午後4時20分から遅れネットで放送されていたが、[2019年](../Page/2019年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")の放送で終了。
 
@@ -36,7 +36,7 @@
   - 兵動大樹のぶらり
     兵動が関西地方の街を歩きながら人々と触れ合い、様々な店舗の美味しい食事をリポートする。不定期にレギュラーの誰かと同行してロケを行う場合もある（月1回のペースで必ず放送され、番組のコーナーの中では最多の50回以上が放送されており、現在も継続中）。
   - お値打ちランチ ハウマッチ\!?（2015年8月29日 - ）
-    シャンプーハットが関西のお値打ちランチをリポートする。2019年6月29日放送分からは一部リニューアルされ、シャンプーハットとランチを食べたい視聴者を募集し（各店舗ごとに2名1組）、一緒にランチを食した後、てつじが指名したスタジオにいる出演者と視聴者が値段を予想。視聴者が正解した場合は、その店舗のお食事券1万円分が贈られる。VTRで紹介したお店とは別に、スタジオでは4つの写真の中からワンコイン500円で味わえるランチを当てる「どれがワンコインランチでショー\[2\]」も放送。
+    シャンプーハットが関西のお値打ちランチをリポートする。2019年6月29日放送分からは一部リニューアルされ、シャンプーハットとランチを食べたい視聴者を募集し（各店舗ごとに2名1組）、一緒にランチを食した後、てつじが指名したスタジオにいる出演者と視聴者が値段を予想。視聴者が正解した場合は、その店舗のお食事券1万円分が贈られる。VTRで紹介したお店とは別に、スタジオでは4つの写真の中からワンコイン500円で味わえるランチを当てる「どれがワンコインランチでショー\[3\]」も放送。
   - 浅越ゴエの食ingニュース（2011年4月30日 - ）
     関西の食に関するニュースを浅越がニュースのアナウンサーに扮して追跡リポートする。
   - パンシェルジュ・[ギブソン](../Page/ヤナギブソン.md "wikilink")（2012年2月4日 - ）
@@ -79,9 +79,9 @@
 
   - [ハイヒールモモコ](../Page/ハイヒール_\(お笑い\).md "wikilink")
   - [西川ヘレン](../Page/西川ヘレン.md "wikilink")
-  - [重岡大毅](https://ja.wikipedia.org/wiki/重岡大毅 "wikilink")（[ジャニーズWEST](https://ja.wikipedia.org/wiki/ジャニーズWEST "wikilink")、2013年4月6日 - ）\[3\]
+  - [重岡大毅](https://ja.wikipedia.org/wiki/重岡大毅 "wikilink")（[ジャニーズWEST](https://ja.wikipedia.org/wiki/ジャニーズWEST "wikilink")、2013年4月6日 - ）\[4\]
   - [兵動大樹](../Page/兵動大樹.md "wikilink")（[矢野・兵動](../Page/矢野・兵動.md "wikilink")） - 当初は準レギュラーだったが、2011年4月にレギュラーに昇格。
-  - [藤本景子](https://ja.wikipedia.org/wiki/藤本景子 "wikilink")（関西テレビアナウンサー） - 休養および産休のため降板\[4\]。中島の産休に伴い、2019年8月31日から復帰\[5\]。
+  - [藤本景子](https://ja.wikipedia.org/wiki/藤本景子 "wikilink")（関西テレビアナウンサー） - 休養および産休のため降板\[5\]。中島の産休に伴い、2019年8月31日から復帰\[6\]。
   - [奥薗壽子](https://ja.wikipedia.org/wiki/奥薗壽子 "wikilink")（料理研究家）
 
 #### 準レギュラー・ゲスト扱い
@@ -98,7 +98,7 @@
 
   - [松原智恵子](../Page/松原智恵子.md "wikilink")
   - [ロザン](../Page/ロザン.md "wikilink")（[宇治原史規](https://ja.wikipedia.org/wiki/宇治原史規 "wikilink")・[菅広文](https://ja.wikipedia.org/wiki/菅広文 "wikilink")）
-  - [村上信五](../Page/村上信五.md "wikilink")（[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")） - 2003年10月4日から2013年3月30日まで出演\[6\]。
+  - [村上信五](../Page/村上信五.md "wikilink")（[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")） - 2003年10月4日から2013年3月30日まで出演\[7\]。
   - [中島めぐみ](https://ja.wikipedia.org/wiki/中島めぐみ_\(アナウンサー\) "wikilink")（関西テレビアナウンサー） - 藤本の休養および産休期間中の代理出演を経て、レギュラー昇格。2019年3月より産休に入ったため2019年8月3日で降板。
 
 #### 準レギュラー・ゲスト扱い
@@ -123,7 +123,7 @@
 
   - 構成 : [やまだともカズ](https://ja.wikipedia.org/wiki/やまだともカズ "wikilink")、藤田智信、[小林仁](../Page/小林仁_\(放送作家\).md "wikilink")
   - ブレーン : 鈴木一史、百武祥子（百武→以前は構成→一時離脱）、藤木汐見
-  - TD : 濱名嘉之
+  - TD : 森下真行
   - EED : 和久田智世
   - MA : 山本正志
   - 美術制作 : 永田道徳（バンブルビー）
@@ -145,7 +145,7 @@
   - ディレクター : 勝浦直美・[瑠東東一郎](https://ja.wikipedia.org/wiki/瑠東東一郎 "wikilink")（以上メディアプルポ）、中野公樹（officeくじら）、塩見直久、徳原ゆか（Walk On）、吉見正明、堀景輔（ウォークオン）
   - 編成 : 北辻陽子・古橋由依子・東野和全（以上カンテレ）
   - 広報 → 宣伝 : 大村貴子・北村友香理・豊増雄・姫野健太（以上カンテレ）
-  - TD : 金永浩二
+  - TD : 金永浩二、濱名嘉之
   - EED : 斉藤彰子、渡辺裕也
   - 美術制作 : 河真裕美（カンテレ）
   - 協力 : officeくじら、[パワーステーション](../Page/パワーステーション_\(番組制作会社\).md "wikilink")
@@ -187,7 +187,8 @@
   - 2018年5月 - 9月：[chocol8 syndrome](https://ja.wikipedia.org/wiki/chocol8_syndrome "wikilink")「キスで目覚めさせて」
   - 2018年10月 - 2019年4月：円野きんちゃく「愛なんです」
   - 2019年5月 - 12月：[ウインズ平阪](../Page/ウインズ_\(バンド\).md "wikilink")「全力投球」
-  - 2020年1月 - 現在：[moon grin](https://ja.wikipedia.org/wiki/moon_grin "wikilink")「シーラカンス」
+  - 2020年1月 - 8月：[moon grin](https://ja.wikipedia.org/wiki/moon_grin "wikilink")「シーラカンス」
+  - 2020年8月 - 現在：Ribet towns「D/N/A」
 
 ## 脚注
 
@@ -197,9 +198,10 @@
 
 [Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink") [Category:関西テレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:関西テレビの情報・ワイドショー番組 "wikilink") [Category:関西テレビのバラエティ番組](https://ja.wikipedia.org/wiki/Category:関西テレビのバラエティ番組 "wikilink") [Category:関西テレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:関西テレビの一社提供番組 "wikilink") [Category:大阪ガス一社提供番組](https://ja.wikipedia.org/wiki/Category:大阪ガス一社提供番組 "wikilink") [Category:村上信五](https://ja.wikipedia.org/wiki/Category:村上信五 "wikilink")
 
-1.
-2.  放送回によっては550円などの値段で味わえるランチを当てる「ほぼワンコインランチでショー」の場合もある。
-3.
-4.  2015年3月30日より『[ゆうがたLIVE ワンダー→みんなのニュース ワンダー](https://ja.wikipedia.org/wiki/みんなのニュース_ワンダー "wikilink")』で復帰している。
-5.
+1.  関西テレビが大阪ガスの単独提供番組を放送するのはこの番組が初であり、同局は在阪局の中で唯一、大阪ガス提供のテレビ番組を放送したことはなかった。
+2.
+3.  放送回によっては550円などの値段で味わえるランチを当てる「ほぼワンコインランチでショー」の場合もある。
+4.
+5.  2015年3月30日より『[ゆうがたLIVE ワンダー→みんなのニュース ワンダー](https://ja.wikipedia.org/wiki/みんなのニュース_ワンダー "wikilink")』で復帰している。
 6.
+7.

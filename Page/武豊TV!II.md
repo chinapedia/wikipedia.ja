@@ -1,9 +1,9 @@
 > この記事は[武豊TV!II](https://ja.wikipedia.org/wiki/武豊TV!II)から翻訳されています。
 
 
-**武豊TV\!II**（たけゆたかティービーツー）は、[2009年](../Page/2009年.md "wikilink")4月より[フジテレビワンツーネクスト](../Page/フジテレビワンツーネクスト.md "wikilink")で毎月1回（各開催終了後）放映されている[競馬](../Page/競馬.md "wikilink")に関する番組。[フジテレビの動画配信サービス](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[フジテレビ On Demand](https://ja.wikipedia.org/wiki/フジテレビ_On_Demand "wikilink")』でも配信されている。
+**武豊TV\!II**（たけゆたかティービーツー）は、[2009年](../Page/2009年.md "wikilink")4月より[フジテレビワンツーネクスト](../Page/フジテレビワンツーネクスト.md "wikilink")で毎月1回（各開催終了後）放映されている[競馬](../Page/競馬.md "wikilink")に関する番組。[フジテレビの動画配信サービス](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[フジテレビ On Demand](https://ja.wikipedia.org/wiki/フジテレビ_On_Demand "wikilink")』でも配信されている\[1\]。[Amazonプライムビデオでも一部ではあるが視聴可能](https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ "wikilink")\[2\]。
 
-2009年4 - 12月までは[フジテレビNEXT](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")での放送だったが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")1月からは[フジテレビTWO](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")に、[2012年](../Page/2012年.md "wikilink")4月には[フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")にチャンネルが変更された。　　
+2009年4 - 12月までは[フジテレビNEXT](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")での放送だったが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")1月からは[フジテレビTWO](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")に、[2012年](../Page/2012年.md "wikilink")4月には[フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")にチャンネルが変更された。
 
 [2005年](../Page/2005年.md "wikilink")4月から2009年3月まで[フジテレビ739及びフジテレビ](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink") On Demandにて放送されていた『**武豊TV\!**』（たけゆたかティービー）のリニューアル版であるが、番組内容は実質的に同一であるため、本項目では両番組について扱う。
 
@@ -13,7 +13,7 @@
 
 ナビゲーターは、『武豊TV\!』時代は友人でもある[タレント](../Page/タレント.md "wikilink")の[見栄晴](../Page/見栄晴.md "wikilink")が務めていたが、『武豊TV\!II』へのリニューアルに伴い、フジテレビ[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の[福原直英](../Page/福原直英.md "wikilink")に交代した。
 
-概ね、1開催が終わるごと（月1回ペース）で新作が放送されるが、それ以前のバックナンバー（特にゲストが出場する回）も不定期でアンコール放送されるときがある。
+概ね、1開催が終わるごと（月1回ペース）で新作が放送されるが、それ以前のバックナンバー（特にゲストが出場する回）も不定期でアンコール放送されるときがある\[3\]\[4\]。
 
 ## コーナー
 
@@ -51,12 +51,12 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p>武尽くしスペシャル(後編)～ドバイDF・桜花賞・皐月賞ほか～</p></td>
+<td><p>武尽くしスペシャル（後編）～ドバイDF・桜花賞・皐月賞ほか～</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p>武尽くしスペシャル (特別編)～天皇賞 (春)・NHKマイルC・ヴィクトリアマイルほか～</p></td>
+<td><p>武尽くしスペシャル（特別編）～天皇賞（春）・NHKマイルC・ヴィクトリアマイルほか～</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -76,12 +76,12 @@
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p>ジョッキー座談会(後編)～スプリンターズSほか～</p></td>
+<td><p>ジョッキー座談会（後編）～スプリンターズSほか～</p></td>
 <td><p><a href="../Page/安藤光彰.md" title="wikilink">安藤光彰</a>・<a href="../Page/石橋守.md" title="wikilink">石橋守</a></p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p>秋華賞・菊花賞・天皇賞(秋)ほか</p></td>
+<td><p>秋華賞・菊花賞・天皇賞（秋）ほか</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -132,7 +132,7 @@
 </tr>
 <tr class="even">
 <td><p>18</p></td>
-<td><p>武豊×蛯名正義 夢の共演PART2～秋華賞・菊花賞・天皇賞 (秋)ほか～</p></td>
+<td><p>武豊×蛯名正義 夢の共演PART2～秋華賞・菊花賞・天皇賞（秋）ほか～</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -158,7 +158,7 @@
 </tr>
 <tr class="odd">
 <td><p>23</p></td>
-<td><p>天皇賞(春)・NHKマイルC・ヴィクトリアマイルほか</p></td>
+<td><p>天皇賞（春）・NHKマイルC・ヴィクトリアマイルほか</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -209,7 +209,7 @@
 </tr>
 <tr class="odd">
 <td><p>33</p></td>
-<td><p>～天皇賞(春)・NHKマイルC・ヴィクトリアマイルほか～</p></td>
+<td><p>～天皇賞（春）・NHKマイルC・ヴィクトリアマイルほか～</p></td>
 <td><p><a href="../Page/岩田康誠.md" title="wikilink">岩田康誠</a></p></td>
 </tr>
 <tr class="even">
@@ -229,7 +229,7 @@
 </tr>
 <tr class="odd">
 <td><p>37</p></td>
-<td><p>菊花賞・天皇賞(秋)ほか</p></td>
+<td><p>菊花賞・天皇賞（秋）ほか</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -280,7 +280,7 @@
 </tr>
 <tr class="odd">
 <td><p>47</p></td>
-<td><p>菊花賞&amp;天皇賞(秋)プレイバック!</p></td>
+<td><p>菊花賞&amp;天皇賞（秋）プレイバック!</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -291,7 +291,7 @@
 <tr class="odd">
 <td><p>49</p></td>
 <td><p><strong>2014年</strong><br />
-有馬記念ほか､毎年恒例!ジョッキー新年会2時間SP!</p></td>
+有馬記念ほか、毎年恒例!ジョッキー新年会2時間SP!</p></td>
 <td><p><a href="../Page/福永祐一.md" title="wikilink">福永祐一</a>・<a href="../Page/池添謙一.md" title="wikilink">池添謙一</a>・<a href="../Page/川田将雅.md" title="wikilink">川田将雅</a></p></td>
 </tr>
 <tr class="even">
@@ -331,7 +331,7 @@
 </tr>
 <tr class="odd">
 <td><p>57</p></td>
-<td><p>菊花賞・天皇賞(秋)プレイバック</p></td>
+<td><p>菊花賞・天皇賞（秋）プレイバック</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -357,7 +357,7 @@
 </tr>
 <tr class="even">
 <td><p>62</p></td>
-<td><p>桜花賞・皐月賞・天皇賞(春)プレイバック</p></td>
+<td><p>桜花賞・皐月賞・天皇賞（春）プレイバック</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -382,7 +382,7 @@
 </tr>
 <tr class="odd">
 <td><p>67</p></td>
-<td><p>秋華賞・菊花賞・天皇賞(秋)プレイバック</p></td>
+<td><p>秋華賞・菊花賞・天皇賞（秋）プレイバック</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -605,10 +605,22 @@
 <td><p>フェブラリーSプレイバック</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>111</p></td>
+<td><p>春のGIプレイバック(新型コロナウイルス感染対策に伴う緊急事態宣言などの影響で約半年ぶりの放送)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>112</p></td>
+<td><p>宝塚記念プレイバック</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
-\-
+## 脚注
+
+<references />
 
 ## 外部リンク
 
@@ -619,3 +631,8 @@
 [Category:フジテレビの競馬番組](https://ja.wikipedia.org/wiki/Category:フジテレビの競馬番組 "wikilink")
 
 [Category:フジテレビのCS放送の番組](https://ja.wikipedia.org/wiki/Category:フジテレビのCS放送の番組 "wikilink") [Category:CSのスポーツ番組](https://ja.wikipedia.org/wiki/Category:CSのスポーツ番組 "wikilink")
+
+1.
+2.   Prime Video|url=[https://www.amazon.co.jp/94-%E5%AE%9D%E5%A1%9A%E8%A8%98%E5%BF%B5%E3%83%97%E3%83%AC%E3%82%A4%E3%83%90%E3%83%83%E3%82%AF/dp/B00V5QL23C|website=www.amazon.co.jp|accessdate=2020-06-20](https://www.amazon.co.jp/94-%E5%AE%9D%E5%A1%9A%E8%A8%98%E5%BF%B5%E3%83%97%E3%83%AC%E3%82%A4%E3%83%90%E3%83%83%E3%82%AF/dp/B00V5QL23C%7Cwebsite=www.amazon.co.jp%7Caccessdate=2020-06-20)}}
+3.   プレミアムサービス光 {{\!}} 番組を探す {{\!}} 衛星放送のスカパー！|url=[https://bangumi.skyperfectv.co.jp/H/?uid=c19150711|website=番組を探す|accessdate=2020-06-20|language=ja](https://bangumi.skyperfectv.co.jp/H/?uid=c19150711%7Cwebsite=番組を探す%7Caccessdate=2020-06-20%7Clanguage=ja)}}
+4.

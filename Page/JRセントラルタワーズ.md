@@ -36,7 +36,7 @@
 
 **百貨店運営協力会社決まる** 株式会社松坂屋の支援断念に伴い、他の支援先を探し始める。
 
-その後、[1996年](../Page/1996年.md "wikilink")（平成8年）から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）までに株式会社[高島屋](../Page/高島屋.md "wikilink")が協力、出資に合意、会社名が株式会社ジェイアール東海高島屋に決まる。
+その後、[1996年](../Page/1996年.md "wikilink")（平成8年）から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）までに株式会社[髙島屋](../Page/髙島屋.md "wikilink")が協力、出資に合意、会社名が株式会社ジェイアール東海高島屋に決まる。
 
 **棟上から各施設オープンまで**
 
@@ -46,7 +46,7 @@
 
 ## 現況
 
-[JR_Nagoya_sta06j3872.jpg](https://ja.wikipedia.org/wiki/File:JR_Nagoya_sta06j3872.jpg "fig:JR_Nagoya_sta06j3872.jpg") [JR-Central-Towers-1.jpg](https://ja.wikipedia.org/wiki/File:JR-Central-Towers-1.jpg "fig:JR-Central-Towers-1.jpg") [バブル期に構想され](../Page/バブル景気.md "wikilink")[バブル崩壊](../Page/バブル崩壊.md "wikilink")後に竣工し、一時はその成功が疑問視されたが、竣工後はデパート、オフィス、ホテルとも人気で名古屋の商業中心として[名駅](../Page/名駅.md "wikilink")を[栄と並立する地位に押し上げ](../Page/栄_\(名古屋市\).md "wikilink")、いわゆる「名古屋[摩天楼](https://ja.wikipedia.org/wiki/摩天楼 "wikilink")」の先駆けとなったビルでもある。一部では「[高島屋](../Page/高島屋.md "wikilink")効果」との言い方もあるが、これは地方から一番行きやすい[百貨店](../Page/百貨店.md "wikilink")と[JRが宣伝した影響もある](../Page/東海旅客鉄道.md "wikilink")。
+[JR_Nagoya_sta06j3872.jpg](https://ja.wikipedia.org/wiki/File:JR_Nagoya_sta06j3872.jpg "fig:JR_Nagoya_sta06j3872.jpg") [JR-Central-Towers-1.jpg](https://ja.wikipedia.org/wiki/File:JR-Central-Towers-1.jpg "fig:JR-Central-Towers-1.jpg") [バブル期に構想され](../Page/バブル景気.md "wikilink")[バブル崩壊](../Page/バブル崩壊.md "wikilink")後に竣工し、一時はその成功が疑問視されたが、竣工後はデパート、オフィス、ホテルとも人気で名古屋の商業中心として[名駅](../Page/名駅.md "wikilink")を[栄と並立する地位に押し上げ](../Page/栄_\(名古屋市\).md "wikilink")、いわゆる「名古屋[摩天楼](https://ja.wikipedia.org/wiki/摩天楼 "wikilink")」の先駆けとなったビルでもある。一部では「[髙島屋](../Page/髙島屋.md "wikilink")効果」との言い方もあるが、これは地方から一番行きやすい[百貨店](../Page/百貨店.md "wikilink")と[JRが宣伝した影響もある](../Page/東海旅客鉄道.md "wikilink")。
 
 低層階は[ジェイアール名古屋タカシマヤ](../Page/ジェイアール名古屋タカシマヤ.md "wikilink")（一部[東急ハンズ](../Page/東急ハンズ.md "wikilink")）からなる。15階から18階は[名古屋マリオットアソシアホテル](../Page/名古屋マリオットアソシアホテル.md "wikilink")の共用施設とスカイストリートが入居しており、19階以上の高層階はオフィス棟とホテル棟のツイン構造となっている。オフィス棟最上部には展望室があり、[東海旅客鉄道](../Page/東海旅客鉄道.md "wikilink")（JR東海）本社、[大成建設](../Page/大成建設.md "wikilink")名古屋支店、[三菱商事](../Page/三菱商事.md "wikilink")名古屋支社、株式会社[全日警](../Page/全日警.md "wikilink")名古屋支社など多くの大企業が入っている。ホテル棟には名古屋マリオットアソシアホテルの客室が入り、最上部にはレストランとスカイバンケットがある。51階（最上階）にある展望台「パノラマハウス」は[2005年](../Page/2005年.md "wikilink")（平成17年）[10月2日](../Page/10月2日.md "wikilink")にいったん営業を終了した。その後[ジェイアール名古屋タカシマヤ](../Page/ジェイアール名古屋タカシマヤ.md "wikilink")が[エステ](../Page/エステティックサロン.md "wikilink")、[ワインバー](../Page/バー_\(酒場\).md "wikilink")、[カフェなどが連なる](../Page/喫茶店.md "wikilink")「パノラマサロン」として改装し再オープンしている。また、[大名古屋ビルヂング](../Page/大名古屋ビルヂング.md "wikilink")の建て替えによる取り壊しに伴い、同ビルにあった大名古屋ビル献血ルームが2011年10月8日にオフィスタワー20階に移転し、新たに「献血ルーム タワーズ20」としてオープンした。
 

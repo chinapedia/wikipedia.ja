@@ -85,14 +85,13 @@
   - [ライオン油脂](../Page/ライオン_\(企業\).md "wikilink")
   - ライオン歯磨
   - 雪印乳業
-
-　
+  - 養命酒
 
 ## 番組終了後
 
 、[ザ・タイガース](../Page/ザ・タイガース.md "wikilink")や[ザ・テンプターズ](../Page/ザ・テンプターズ.md "wikilink")などの[グループ・サウンズ](../Page/グループ・サウンズ.md "wikilink")の上質のカラー映像も含むこの番組のビデオを多数使った『[日曜☆特バン](https://ja.wikipedia.org/wiki/日曜☆特バン "wikilink") 10年前のVTR』という番組が何度か放送された。また、同じく日曜日に放送されていた『[テレビ探偵団](../Page/テレビ探偵団.md "wikilink")』のエンディングで流れる思い出の曲のコーナーとして、この番組の放送素材が使われていた。
 
-1967年7月25日放送分は、2005年6月19日にCS放送の[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")で[美空ひばり](../Page/美空ひばり.md "wikilink")特集として再放送された。この回では日本各地と東京赤坂のTBSを結んだ多元中継を実施しており、東京・[歌舞伎町](../Page/歌舞伎町.md "wikilink")からの生中継（曲は[三田明](../Page/三田明.md "wikilink")の「[また逢う日まで](https://ja.wikipedia.org/wiki/また逢う日まで_\(三田明の曲\) "wikilink")」）では当時TBSアナウンサーであった[山本文郎](../Page/山本文郎.md "wikilink")がリポーターとして登場した。また、屋外プール稼働中の[赤坂プリンスホテル](../Page/赤坂プリンスホテル.md "wikilink")からの生中継（曲は[橋幸夫](../Page/橋幸夫.md "wikilink")の「恋のメキシカン・ロック」）も行っていた。 また橋と同じ[御三家](../Page/御三家.md "wikilink")のメンバーだった[西郷輝彦](https://ja.wikipedia.org/wiki/西郷輝彦 "wikilink")（曲は「[願い星叶い星](https://ja.wikipedia.org/wiki/願い星叶い星 "wikilink")」、[長野県](../Page/長野県.md "wikilink")[軽井沢町](../Page/軽井沢町.md "wikilink")で収録\[8\]）や[舟木一夫](../Page/舟木一夫.md "wikilink")（曲は「[夏子の季節](https://ja.wikipedia.org/wiki/夏子の季節 "wikilink")」）もこの回に出演していたが、スケジュール等の都合でこのパートのみ、VTRでの事前収録\[9\]であるが、生放送であるかのような演出がなされていた。
+1967年7月25日放送分は、2005年6月19日にCS放送の[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")で[美空ひばり](../Page/美空ひばり.md "wikilink")特集として再放送された。この回では日本各地と東京赤坂のTBSを結んだ多元中継を実施しており、東京・[歌舞伎町](../Page/歌舞伎町.md "wikilink")からの生中継（曲は[三田明](../Page/三田明.md "wikilink")の「[また逢う日まで](https://ja.wikipedia.org/wiki/また逢う日まで_\(三田明の曲\) "wikilink")」）では当時TBSアナウンサーであった[山本文郎](../Page/山本文郎.md "wikilink")がリポーターとして登場した。また、屋外プール稼働中の[赤坂プリンスホテル](../Page/赤坂プリンスホテル.md "wikilink")からの生中継（曲は[橋幸夫](../Page/橋幸夫.md "wikilink")の「恋のメキシカン・ロック」）も行っていた。 また橋と同じ[御三家](../Page/御三家.md "wikilink")のメンバーだった[西郷輝彦](../Page/西郷輝彦.md "wikilink")（曲は「[願い星叶い星](https://ja.wikipedia.org/wiki/願い星叶い星 "wikilink")」、[長野県](../Page/長野県.md "wikilink")[軽井沢町](../Page/軽井沢町.md "wikilink")で収録\[8\]）や[舟木一夫](../Page/舟木一夫.md "wikilink")（曲は「[夏子の季節](https://ja.wikipedia.org/wiki/夏子の季節 "wikilink")」）もこの回に出演していたが、スケジュール等の都合でこのパートのみ、VTRでの事前収録\[9\]であるが、生放送であるかのような演出がなされていた。
 
 ## 1967年7月当時の放送局
 

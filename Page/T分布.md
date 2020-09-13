@@ -16,13 +16,25 @@
 
 を[平均](../Page/期待値.md "wikilink") 、[分散](../Page/分散_\(確率論\).md "wikilink")  の[正規分布](https://ja.wikipedia.org/wiki/正規分布 "wikilink")に従う[独立な確率変数とする](../Page/独立_\(確率論\).md "wikilink")。また標本平均を
 
-\[\overline{X}_n =\frac{X_1 +\cdots +X_n}{n}\] とし、不偏分散を
+\[\overline{X} =\frac{X_1 +\cdots +X_n}{n}\] とし、不偏分散を
 
-\[U_n^2 =\frac{1}{n-1} \sum_{i=1}^n (X_i -\overline{X}_n )^2\] とする。ここで次の変数
+\[S^2 =\frac{1}{n-1} \sum_{i=1}^n (X_i -\overline{X} )^2\] とする。ここで次の変数
 
-\[T=\frac{\overline{X}_n -\mu}{U_n /\sqrt{n}}\] を考えると、これは
+\[t=\frac{\overline{X} -\mu}{S /\sqrt{n}}\] を考えると、これは
 
-\[f(t)=\frac{\Gamma ((\nu +1)/2)}{\sqrt{\nu \pi \,}\, \Gamma (\nu /2)} (1+t^2/\nu)^{-(\nu+1)/2}\] （ただし  *n* − 1}},  は[ガンマ関数](../Page/ガンマ関数.md "wikilink")）という[確率密度関数](../Page/確率密度関数.md "wikilink")に従うことが、[ゴセット](https://ja.wikipedia.org/wiki/ゴセット "wikilink")によって示された。ここで  の従う分布を***t* 分布**（または**スチューデント分布**）と呼ぶ。 は[自由度](https://ja.wikipedia.org/wiki/自由度 "wikilink")と呼ばれる。この分布は  によるが、元の正規分布の[母数](../Page/母数.md "wikilink")である  や  にはよらない。この性質から、標本値から母集団の平均値を統計的に推定する[区間推定](https://ja.wikipedia.org/wiki/区間推定 "wikilink")や、母集団の平均値の[仮説検定](../Page/仮説検定.md "wikilink")に利用できる。
+\[f(t)=\frac{\Gamma ((\nu +1)/2)}{\sqrt{\nu \pi \,}\, \Gamma (\nu /2)} (1+t^2/\nu)^{-(\nu+1)/2}\] （ただし  *n* − 1}},  は[ガンマ関数](../Page/ガンマ関数.md "wikilink")）という[確率密度関数](../Page/確率密度関数.md "wikilink")に従うことが、[ゴセット](https://ja.wikipedia.org/wiki/ゴセット "wikilink")によって示された。ここで  の従う分布を***t* 分布**（または**スチューデント分布**）と呼ぶ。 は[自由度](https://ja.wikipedia.org/wiki/自由度 "wikilink")と呼ばれる。この分布は  によるが、元の正規分布の母標準偏差 にはよらないという重要な性質を持っている。
+
+この確率密度関数は、元の正規分布の[母数](../Page/母数.md "wikilink")であるおよびが既知と仮定しているので、厳密には条件付確率密度関数\(f(t|\mu,\sigma)\)と書くべきものである。およびを確率変数と考え、その確率密度関数を適当に仮定し(例えばテーブル状の一様分布関数)、[ベイズの定理](../Page/ベイズの定理.md "wikilink")を適用することによって、標本平均\(\overline{X}\) および不偏標準偏差\(S\)が既知の場合の条件付確率密度関数\(f(t|\overline{X},S)\)を計算することができる(もう少し正確に言えば、まず条件付確率密度関数\(f(\overline{X},S|\mu,\sigma)\)を求め、これにベイズの定理を適用して\(f(\mu,\sigma|\overline{X},S)\)を求め、さらにについて積分して\(f(t|\overline{X},S)\)を求める)。実はこの関数は\(f(t|\mu,\sigma)\)と全く同じ形をしている。つまり、
+
+\[f(t|\overline{X},S)=\frac{\Gamma ((\nu +1)/2)}{\sqrt{\nu \pi \,}\, \Gamma (\nu /2)} (1+t^2/\nu)^{-(\nu+1)/2}\]
+
+\[t=\frac{\overline{X} -\mu}{S /\sqrt{n}}\]
+
+である。これが、t分布が母標準偏差 にはよらないという性質の反映である。不偏標準偏差\(S\)は既知であるから、tの確率分布から母平均値の確率分布を求めることができ、これを用いての[区間推定](https://ja.wikipedia.org/wiki/区間推定 "wikilink")や、[仮説検定](../Page/仮説検定.md "wikilink")を行うことができる。
+
+t分布を用いた母集団の平均値の区間推定では、t=0について対称な区間で、その区間に亘る確率密度の積分値が95%となる区間(95%信頼区間)を考え、これに対応するの区間を[信頼区間](https://ja.wikipedia.org/wiki/信頼区間 "wikilink")(CI)とする方法が広く用いられている(99%信頼区間を用いる場合も有る)。
+
+t分布を用いた母集団の平均値の仮説検定では、=0と仮定した場合([帰無仮説](https://ja.wikipedia.org/wiki/帰無仮説 "wikilink")、Null Hypothesis)のtの値が、上記の信頼区間(95%あるいは99%)に含まれるか否かを判定基準とし、含まれる場合は、が0ではないという仮説は統計的に有意ではないと判定し、区間からはみ出す場合は、が0ではないという仮説は統計的に有意であると判定する。
 
 ## 累積分布関数
 
@@ -38,14 +50,14 @@
 
   - が奇数の場合
 
-\[E(T^k)=\begin{cases}
+\[E(t^k)=\begin{cases}
 0, &\quad 0<k<\nu \\
 \mbox{NaN}, &\quad 0<\nu \leq k
 \end{cases}\]
 
   - が偶数の場合
 
-\[E(T^k )=\begin{cases}
+\[E(t^k )=\begin{cases}
 \frac{\Gamma (\frac{k+1}{2})\Gamma (\frac{\nu-k}{2} )\nu^{k/2}}{\sqrt{\pi}\Gamma (\frac{\nu}{2} )}, &\quad 0<k<\nu \\
 \infty, &\quad 0<\nu \leq k
 \end{cases}\]
@@ -60,23 +72,25 @@
 
 累積分布関数：
 
-\[F(x)=\frac{1}{2} +\frac{1}{\pi} \arctan (x).\] 確率密度関数：
+\[F(t)=\frac{1}{2} +\frac{1}{\pi} \arctan (t).\] 確率密度関数：
 
-\[f(x)=\frac{1}{\pi (1+x^2 )}.\]
+\[f(t)=\frac{1}{\pi (1+t^2 )}.\]
 
 ###  2}} の場合
 
 累積分布関数：
 
-\[F(x)=\frac{1}{2} \left[ 1+\frac{x}{\sqrt{2+x^2}} \right].\] 確率密度関数：
+\[F(t)=\frac{1}{2} \left[ 1+\frac{t}{\sqrt{2+t^2}} \right].\] 確率密度関数：
 
-\[f(x)=\frac{1}{\left( 2+x^2 \right)^{3/2}}.\]
+\[f(t)=\frac{1}{\left( 2+t^2 \right)^{3/2}}.\]
 
 ###  の場合
 
 自由度  が （無限大）に近づくにつれ、分布は[正規分布](https://ja.wikipedia.org/wiki/正規分布 "wikilink")に近づく。
 
 ## 脚注
+
+## 参考文献
 
 ## 関連項目
 

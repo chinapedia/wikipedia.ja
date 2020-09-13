@@ -106,12 +106,12 @@
   - [これマジ？](../Page/不思議どっとテレビ。これマジ!?.md "wikilink")
   - [ちゃんネプ](../Page/ちゃんネプ.md "wikilink")
   - [おネプ](../Page/おネプ!.md "wikilink")
-  - [ヒメゴト](../Page/ヒメ☆ゴト.md "wikilink")
+  - [ヒメ☆ゴト](../Page/ヒメ☆ゴト.md "wikilink")
   - [あなたのフツーは大丈夫？激突ハッピーチェック](../Page/あなたのフツーは大丈夫!?激突ハッピーチェック.md "wikilink")
   - 上岡龍太郎のイチャ門天
   - 龍の福耳
   - [スポコン！](../Page/スポコン!.md "wikilink")
-  - [鶴瓶草なぎの夢中宣言 がんばります](../Page/鶴瓶・草なぎの夢中宣言「がんばります。」.md "wikilink")
+  - [鶴瓶・草彅の夢中宣言「がんばります。」](https://ja.wikipedia.org/wiki/鶴瓶・草彅の夢中宣言「がんばります。」 "wikilink")
   - タイムボンバー
   - [特捜TV！ガブリンチョ](../Page/特捜TV!ガブリンチョ.md "wikilink")
   - ウッチャンナンチャンのLOVE STATIONその恋かなえます

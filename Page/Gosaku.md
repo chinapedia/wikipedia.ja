@@ -48,7 +48,7 @@
 
 ## 脚注
 
-[Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:青森県出身の人物](https://ja.wikipedia.org/wiki/Category:青森県出身の人物 "wikilink") [Category:1976年生](https://ja.wikipedia.org/wiki/Category:1976年生 "wikilink") [Category:消息不明となった人物](https://ja.wikipedia.org/wiki/Category:消息不明となった人物 "wikilink")
+[Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:FMWに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:FMWに所属したプロレスラー "wikilink") [Category:青森県出身の人物](https://ja.wikipedia.org/wiki/Category:青森県出身の人物 "wikilink") [Category:1976年生](https://ja.wikipedia.org/wiki/Category:1976年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.

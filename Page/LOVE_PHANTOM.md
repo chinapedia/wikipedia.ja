@@ -1,7 +1,7 @@
 > この記事は[LOVE PHANTOM](https://ja.wikipedia.org/wiki/LOVE_PHANTOM)から翻訳されています。
 
 
-「**LOVE PHANTOM**」（ラヴ・ファントム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月11日](../Page/10月11日.md "wikilink")に[Rooms RECORDSより](../Page/VERMILLION_RECORDS.md "wikilink")18作目の[シングル](../Page/シングル.md "wikilink")として発売された。
+「**LOVE PHANTOM**」（ラヴ・ファントム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。1995年10月11日に[Rooms RECORDSより](../Page/VERMILLION_RECORDS.md "wikilink")18作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 解説
 
@@ -19,7 +19,7 @@ CDジャケット及びCDラベルの「LOVE PHANTOM」の"T"の表記は、[十
 
 発売を1ヵ月後に控えたアルバムからの先行シングルにもかかわらず、初動売上は当時の歴代1位となる95.1万枚を記録し、発売から2週間でミリオンセラーとなった。1995年に年間シングルチャートで10位を獲得し、1991年から5年連続でトップ10入りを果たした（こちらも当時の歴代1位）。
 
-[オリコン調べでは](../Page/オリコンチャート.md "wikilink")、累計186.2万枚を売り上げ、B'zのシングルでは『[愛のままにわがままに 僕は君だけを傷つけない](../Page/愛のままにわがままに_僕は君だけを傷つけない.md "wikilink")』に次いで2番目に高い売上を記録しており、B'zの代表作の1つである。
+[オリコン調べでは](../Page/オリコンチャート.md "wikilink")、累計186.2万枚を売り上げ\[6\]、B'zのシングルでは『[愛のままにわがままに 僕は君だけを傷つけない](../Page/愛のままにわがままに_僕は君だけを傷つけない.md "wikilink")』に次いで2番目に高い売上を記録しており、B'zの代表作の1つである。
 
 本作で[CHAGE and ASKAのシングル総売上最多枚数を抜き](../Page/CHAGE_and_ASKA.md "wikilink")、総売上が1650万枚となった。
 
@@ -27,26 +27,26 @@ CDジャケット及びCDラベルの「LOVE PHANTOM」の"T"の表記は、[十
 
 1.  **LOVE PHANTOM** (4:38)
       -
-        シングルA面曲では初めてタイトルがボーカルの歌詞に登場しない曲である\[6\]。
+        シングルA面曲では初めてタイトルがボーカルの歌詞に登場しない曲である\[7\]。
         [ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")による約1分20秒の[イントロから始まる](../Page/導入部.md "wikilink")。ストリングスや[オペラ](../Page/オペラ.md "wikilink")ヴォーカルが使用されている一方で[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")色も強い。なお、一部の歌詞は[宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")が歌っている。
-        松本によるとライブ用に作った曲のため当初はシングルにするつもりは全くなく\[7\]、この曲について当時の会報では「（演出用だったので）メロディが2つしか出てこない簡単な曲」と評している。
+        松本によるとライブ用に作った曲のため当初はシングルにするつもりは全くなく\[8\]、この曲について当時の会報では「（演出用だったので）メロディが2つしか出てこない簡単な曲」と評している。
         [アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")の[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[X-ファイル](../Page/X-ファイル.md "wikilink")』の[テレビ朝日](../Page/テレビ朝日.md "wikilink")放映版第1シーズン主題歌に起用された。
         [PVは会場で流された](../Page/ミュージック・ビデオ.md "wikilink")「イタリアバージョン」、ライブの模様を収めた「ライブバージョン」、そして両方を組み合わせたものの3種類が存在している。現在基本的に使用されるのは両方を組み合わせたバージョンであり、ベスト・アルバム『[B'z The Best XXV 1988-1998](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1988-1998 "wikilink")』初回限定盤および公式[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネルでもこのバージョンを使用している。
-        発売前に[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』でこの曲が披露された。なお、当番組で2回目の演奏時にはストリングスのイントロをカットし、代わりに「[spirit loose](../Page/LOOSE.md "wikilink")」をイントロに使用した。
+        発売前に[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』でこの曲が披露された。なお、当番組で2回目の演奏時にはストリングスのイントロをカットし、代わりに「[spirit loose](https://ja.wikipedia.org/wiki/LOOSE#収録曲 "wikilink")」をイントロに使用した。
         『ミュージックステーション』では「[今夜月の見える丘に](../Page/今夜月の見える丘に.md "wikilink")」、「[ultra soul](https://ja.wikipedia.org/wiki/ultra_soul "wikilink")」、「[愛のバクダン](../Page/愛のバクダン.md "wikilink")」と並んで一番演奏された回数が多いB'zの楽曲になっている。
         [NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[スキウタ〜紅白みんなでアンケート〜](../Page/スキウタ〜紅白みんなでアンケート〜.md "wikilink")』では62位にランクインした。
         使用ギターはYAMAHA MG-M CUSTOM Black Burst(松本孝弘モデル、公式サイトではMGM-IIと紹介されている)。これは長年使用され数タイプあったヤマハ松本モデルの最終形とも言えるギターであり、[ヤマハ](../Page/ヤマハ.md "wikilink")[MG-Mとしてシングルでメイン](../Page/ヤマハ・MG-M.md "wikilink")・フィーチャリングされた最後の曲になる。
-        初披露は1995年のライブツアー『[B'z LIVE-GYM Pleasure '95 BUZZ\!\!](../Page/"BUZZ!!"_THE_MOVIE.md "wikilink")』。同ライブツアーにおいて稲葉が[バンパイアの扮装をし](../Page/吸血鬼.md "wikilink")、高さ数十メートルのセットの高台からダイブするという演出用に制作された楽曲。当初は「[VAMPIRE WOMAN](../Page/RISKY_\(アルバム\).md "wikilink")」にこの演出が割り当てられていたが、新しく曲を制作しようということで本曲の制作に至った経緯がある\[8\]\[9\]。
-        歌詞の世界観も、[フランケンシュタイン](../Page/フランケンシュタイン.md "wikilink")や[ドラキュラ](../Page/ドラキュラ.md "wikilink")など日常的でない主人公の恋をイメージして作詞したという\[10\]\[11\]。
+        初披露は1995年のライブツアー『[B'z LIVE-GYM Pleasure '95 BUZZ\!\!](../Page/"BUZZ!!"_THE_MOVIE.md "wikilink")』。同ライブツアーにおいて稲葉が[バンパイアの扮装をし](../Page/吸血鬼.md "wikilink")、高さ数十メートルのセットの高台からダイブするという演出用に制作された楽曲。当初は「[VAMPIRE WOMAN](https://ja.wikipedia.org/wiki/RISKY_\(アルバム\)#収録曲 "wikilink")」にこの演出が割り当てられていたが、新しく曲を制作しようということで本曲の制作に至った経緯がある\[9\]\[10\]。
+        歌詞の世界観も、[フランケンシュタイン](../Page/フランケンシュタイン.md "wikilink")や[ドラキュラ](../Page/ドラキュラ.md "wikilink")など日常的でない主人公の恋をイメージして作詞したという\[11\]\[12\]。
         ライブの定番曲で演奏される際は[レーザー光線](https://ja.wikipedia.org/wiki/レーザー光線 "wikilink")がよく使用されるが、上記のようにストリングスのイントロをカットすることがある。近年ではストリングスのイントロを松本がギターで演奏することもある。
-        2018年に開催された『[B'z LIVE-GYM Pleasure 2018 -HINOTORI-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_Pleasure_2018_-HINOTORI- "wikilink")』において、間奏に新曲「HINOTORI」を挿入する形で披露された。「HINOTORI」は松本が本曲の続編として構想していたものである\[12\]\[13\]。また、初演時のダイブ演出も行われた\[14\]。
+        2018年に開催された『[B'z LIVE-GYM Pleasure 2018 -HINOTORI-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_Pleasure_2018_-HINOTORI- "wikilink")』において、間奏に新曲「HINOTORI」を挿入する形で披露された。「HINOTORI」は松本が本曲の続編として構想していたものである\[13\]\[14\]。また、初演時のダイブ演出も行われた\[15\]。
 2.  **FUSHIDARA 100%** (3:52)
       -
-        女性目線で歌詞が書かれている\[15\]。
+        女性目線で歌詞が書かれている\[16\]。
         曲の最後に聴こえる「Ah」という女性の声は[飯島直子](https://ja.wikipedia.org/wiki/飯島直子 "wikilink")による。
         20thシングル『[Real Thing Shakes](../Page/Real_Thing_Shakes.md "wikilink")』のレコーディングの際に英語バージョンが製作されたが、そちらは未発表のままである。
         マスト・アルバム『[B'z The "Mixture"](../Page/B'z_The_"Mixture".md "wikilink")』で原曲のまま収録され、アルバム初収録となった。
-        『ミュージックステーション』で表題曲と一緒に披露され\[16\]、アルバムツアー『[B'z LIVE-GYM '96 "Spirit LOOSE"](../Page/LIVE-GYM.md "wikilink")』でも演奏された。なお、ライブでは日本語と英語が融合した新バージョンで演奏されている\[17\]。
+        『ミュージックステーション』で表題曲と一緒に披露され\[17\]、アルバムツアー『[B'z LIVE-GYM '96 "Spirit LOOSE"](../Page/LIVE-GYM.md "wikilink")』でも演奏された。なお、ライブでは日本語と英語が融合した新バージョンで演奏されている\[18\]。
 
 ## 参加ミュージシャン
 
@@ -100,7 +100,8 @@ CDジャケット及びCDラベルの「LOVE PHANTOM」の"T"の表記は、[十
 ## カバー
 
   - [上木彩矢](https://ja.wikipedia.org/wiki/上木彩矢 "wikilink") - ライブで「[juice](https://ja.wikipedia.org/wiki/juice_\(B'zの曲\) "wikilink")」と共にカバー。
-  - [チン☆パラ](../Page/チン☆パラ.md "wikilink") - [ア・カペラ](../Page/ア・カペラ.md "wikilink")でカバー（2002年に発売したシングル『[LA-PUNCH改](https://ja.wikipedia.org/wiki/LA-PUNCH改 "wikilink")』に収録）。
+  - [チン☆パラ](../Page/チン☆パラ.md "wikilink") - [ア・カペラ](../Page/ア・カペラ.md "wikilink")でカバー（2002年に発売したシングル『[LA-PUNCH 改](https://ja.wikipedia.org/wiki/LA-PUNCH_改 "wikilink")』に収録）。
+  - [ハラミちゃん](../Page/ハラミちゃん.md "wikilink") - 2020年7月1日発売のアルバム『ハラミ定食〜Streetpiano Collection〜』に収録\[19\]。
 
 ## 脚注
 
@@ -115,15 +116,17 @@ CDジャケット及びCDラベルの「LOVE PHANTOM」の"T"の表記は、[十
 3.  『[OCEAN](../Page/OCEAN_\(B'zの曲\).md "wikilink")』と『[衝動](../Page/衝動_\(B'zの曲\).md "wikilink")』は、それぞれオリジナルロゴを使用。
 4.
 5.  ただし、『BE THERE』から『[裸足の女神](../Page/裸足の女神.md "wikilink")』までが12cm化で再発売された際、発売当時ノンタイアップだった『[ZERO](../Page/ZERO_\(B'zの曲\).md "wikilink")』を除き、曲名が表記されたシールにタイアップの表記が復活した。
-6.  ただしイントロのセリフで曲名が登場する
-7.
+6.
+7.  ただしイントロのセリフで曲名が登場する
 8.
 9.
 10.
 11.
 12.
 13.
-14. ダイブ演出は15周年ライブ『[B'z LIVE-GYM The Final Pleasure "IT'S SHOWTIME\!\!"](../Page/Typhoon_No.15_〜B'z_LIVE-GYM_The_Final_Pleasure_"IT'S_SHOWTIME!!"_in_渚園〜.md "wikilink")』の渚園公演でも行われている。
-15.
+14.
+15. ダイブ演出は15周年ライブ『[B'z LIVE-GYM The Final Pleasure "IT'S SHOWTIME\!\!"](../Page/Typhoon_No.15_〜B'z_LIVE-GYM_The_Final_Pleasure_"IT'S_SHOWTIME!!"_in_渚園〜.md "wikilink")』の渚園公演でも行われている。
 16.
 17.
+18.
+19.

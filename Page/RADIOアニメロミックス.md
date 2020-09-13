@@ -245,7 +245,7 @@
 
 アニメ『[ラブライブ\!](https://ja.wikipedia.org/wiki/ラブライブ! "wikilink")』をフィーチャーした番組で、パーソナリティは同作品の「[μ's](https://ja.wikipedia.org/wiki/μ's "wikilink")」メンバーである、[絢瀬絵里](https://ja.wikipedia.org/wiki/絢瀬絵里 "wikilink")役である[南條愛乃](../Page/南條愛乃.md "wikilink")と[東條希](https://ja.wikipedia.org/wiki/東條希 "wikilink")役の[楠田亜衣奈](https://ja.wikipedia.org/wiki/楠田亜衣奈 "wikilink")が担当した。
 
-このシリーズの完結をもって文化放送における「RADIOアニメロミックス」は、「ヤオメロミックス」時代を含めて13年半に渡る歴史に幕を閉じた。約1年9ヶ月に渡って91回放送され、2番目に長く放送されたバージョンとなった。また、2014年8月には[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")で特番「RADIOアニメロミックスラブライブ ～のぞえりRadio外伝～ 」が90分に渡って放送された。
+このシリーズの完結をもって文化放送における「RADIOアニメロミックス」は、「ヤオメロミックス」時代を含めて13年半に渡る歴史に幕を閉じた。約1年9ヶ月に渡って91回放送され、2番目に長く放送されたバージョンとなった。また、2014年8月には[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")で特番「RADIOアニメロミックスラブライブ 〜のぞえりRadio外伝〜」が90分に渡って放送された。
 
 ### 内山夕実・吉田有里
 
@@ -338,7 +338,7 @@
   - [animelo mixチャンネル（ニコニコチャンネル）](https://ch.nicovideo.jp/channel/ch312)
   - [animelo公式](https://animelo.jp)
 
-[Category:2002年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のラジオ番組_\(日本\) "wikilink") [Category:文化放送A\&Gゾーン](https://ja.wikipedia.org/wiki/Category:文化放送A&Gゾーン "wikilink") [Category:超\!放送局](https://ja.wikipedia.org/wiki/Category:超!放送局 "wikilink") [Category:ニコニコアニメチャンネル](https://ja.wikipedia.org/wiki/Category:ニコニコアニメチャンネル "wikilink") [Category:MAGES.](https://ja.wikipedia.org/wiki/Category:MAGES. "wikilink") [Category:日本のインターネットラジオ番組](https://ja.wikipedia.org/wiki/Category:日本のインターネットラジオ番組 "wikilink") [Category:平野綾](https://ja.wikipedia.org/wiki/Category:平野綾 "wikilink") [Category:宮野真守](https://ja.wikipedia.org/wiki/Category:宮野真守 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
+[Category:2002年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のラジオ番組_\(日本\) "wikilink") [Category:文化放送A\&Gゾーン](https://ja.wikipedia.org/wiki/Category:文化放送A&Gゾーン "wikilink") [Category:超\!放送局](https://ja.wikipedia.org/wiki/Category:超!放送局 "wikilink") [Category:ニコニコアニメチャンネル](https://ja.wikipedia.org/wiki/Category:ニコニコアニメチャンネル "wikilink") [Category:MAGES.](https://ja.wikipedia.org/wiki/Category:MAGES. "wikilink") [Category:日本のインターネットラジオ番組](https://ja.wikipedia.org/wiki/Category:日本のインターネットラジオ番組 "wikilink") [Category:平野綾](https://ja.wikipedia.org/wiki/Category:平野綾 "wikilink") [Category:宮野真守](https://ja.wikipedia.org/wiki/Category:宮野真守 "wikilink")
 
 1.
 2.

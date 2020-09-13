@@ -9,7 +9,7 @@
 
 一時期は[カー用品店](https://ja.wikipedia.org/wiki/カー用品店 "wikilink")「[イエローハット](../Page/イエローハット.md "wikilink")」の[フランチャイジーとして](../Page/フランチャイズ.md "wikilink")、カー用品店をチェーン展開したが、撤退した。
 
-また、ホーマック・ダイキ・カーマの頭文字をとった「ホダカ」という店をオープンしている。
+また、ホーマック・ダイキ・カーマの頭文字をとった工具・作業用品特化型店舗「ホダカ(HODAKA)」という店をオープンしている。なお、2020年現在はホーマック運営店も多く存在する他、同年6月26日にダイキの運営する店舗も[香川県](../Page/香川県.md "wikilink")[高松市](https://ja.wikipedia.org/wiki/高松市 "wikilink")にオープン予定である。\[1\]
 
 一部地域では、地方スーパーと提携のフランチャイジー店舗を展開している。
 
@@ -38,10 +38,10 @@
   - [2011年](../Page/2011年.md "wikilink")（平成23年）[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[平塚市](../Page/平塚市.md "wikilink")に平塚田村店を開店。[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")初出店。
   - [2013年](../Page/2013年.md "wikilink")（平成25年）[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink") - [三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[川越町](../Page/川越町.md "wikilink")にホダカみえ川越店を開店。ホダカ形態店舗の愛知県外初出店。
   - [2013年](../Page/2013年.md "wikilink")（平成25年）[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink") - 愛知県名古屋市[北区に](../Page/北区_\(名古屋市\).md "wikilink")21名古屋城北店を開店。当社最大のリフォームコーナーを有する。
-  - [2014年](../Page/2014年.md "wikilink")（平成26年）[10月1日](../Page/10月1日.md "wikilink") - 株式会社[エディオン](../Page/エディオン.md "wikilink")がホームセンター事業である[ホームエキスポ](../Page/ホームエキスポ.md "wikilink")を分社化の後、全株式を譲り受け完全子会社化\[1\]。
-  - [2015年](../Page/2015年.md "wikilink")（平成27年）[3月1日](../Page/3月1日.md "wikilink") - 「**DCMカーマ株式会社**」に商号を変更。また、「**カーマホームセンター**」「**カーマ21**」「**カーマプロ**」の3つの店舗ブランドをそれぞれ「**DCMカーマ**」「**DCMカーマ21**」「**DCMカーマプロ**」に変更。同日、子会社のホームエキスポを吸収合併\[2\]。
-  - [2016年](../Page/2016年.md "wikilink")（平成28年）[3月17日](../Page/3月17日.md "wikilink") - [ユニーグループ・ホールディングス](https://ja.wikipedia.org/wiki/ユニーグループ・ホールディングス "wikilink")（現・[ユニー・ファミリーマートホールディングス](https://ja.wikipedia.org/wiki/ユニー・ファミリーマートホールディングス "wikilink")）傘下の「[ユーホーム](https://ja.wikipedia.org/wiki/ユーホーム "wikilink")」が撤退することに伴い、11店舗のうち8店舗（矢作店、阿久比店、安城店、稲沢店、各務原店、大和郡山店、桶狭間店、嬉野店）の事業を買収\[3\]\[4\]。
-      - ただし最終的に、大和郡山店についてはDCMカーマではなく[DCMダイキ](../Page/DCMダイキ.md "wikilink")が営業することとなった\[5\]。
+  - [2014年](../Page/2014年.md "wikilink")（平成26年）[10月1日](../Page/10月1日.md "wikilink") - 株式会社[エディオン](../Page/エディオン.md "wikilink")がホームセンター事業である[ホームエキスポ](../Page/ホームエキスポ.md "wikilink")を分社化の後、全株式を譲り受け完全子会社化\[2\]。
+  - [2015年](../Page/2015年.md "wikilink")（平成27年）[3月1日](../Page/3月1日.md "wikilink") - 「**DCMカーマ株式会社**」に商号を変更。また、「**カーマホームセンター**」「**カーマ21**」「**カーマプロ**」の3つの店舗ブランドをそれぞれ「**DCMカーマ**」「**DCMカーマ21**」「**DCMカーマプロ**」に変更。同日、子会社のホームエキスポを吸収合併\[3\]。
+  - [2016年](../Page/2016年.md "wikilink")（平成28年）[3月17日](../Page/3月17日.md "wikilink") - [ユニーグループ・ホールディングス](https://ja.wikipedia.org/wiki/ユニーグループ・ホールディングス "wikilink")（現・[ユニー・ファミリーマートホールディングス](https://ja.wikipedia.org/wiki/ユニー・ファミリーマートホールディングス "wikilink")）傘下の「[ユーホーム](https://ja.wikipedia.org/wiki/ユーホーム "wikilink")」が撤退することに伴い、11店舗のうち8店舗（矢作店、阿久比店、安城店、稲沢店、各務原店、大和郡山店、桶狭間店、嬉野店）の事業を買収\[4\]\[5\]。
+      - ただし最終的に、大和郡山店についてはDCMカーマではなく[DCMダイキ](../Page/DCMダイキ.md "wikilink")が営業することとなった\[6\]。
 
 ## 展開する店舗
 
@@ -78,8 +78,9 @@
   -
 [Category:日本のホームセンター](https://ja.wikipedia.org/wiki/Category:日本のホームセンター "wikilink") [Category:刈谷市の企業](https://ja.wikipedia.org/wiki/Category:刈谷市の企業 "wikilink") [Category:DCMグループ](https://ja.wikipedia.org/wiki/Category:DCMグループ "wikilink") [Category:1970年設立の企業](https://ja.wikipedia.org/wiki/Category:1970年設立の企業 "wikilink")
 
-1.
+1.  [ダイキ公式 店舗案内：HODAKA](https://www.daiki-grp.co.jp/shop/hodaka/)
 2.
 3.
 4.
-5.  同記事ではユーホームからの転換店舗であるという記載はないが、所在地はユーホームと同一である。
+5.
+6.  同記事ではユーホームからの転換店舗であるという記載はないが、所在地はユーホームと同一である。

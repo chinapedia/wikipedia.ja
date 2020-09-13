@@ -382,7 +382,7 @@ Box仕様 ブックレット付</p></td>
 
 ## その他
 
-  - [LAREINE](../Page/LAREINE.md "wikilink")並びに[Versailles (バンド)の](../Page/Versailles_\(バンド\).md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")である、[KAMIJO](../Page/KAMIJO.md "wikilink")はマリスの元ローディである。
+  - [LAREINE](../Page/LAREINE.md "wikilink")並びに[Versailles (バンド)の](../Page/Versailles_\(バンド\).md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")である[KAMIJO](../Page/KAMIJO.md "wikilink")、[cali≠gari](https://ja.wikipedia.org/wiki/cali≠gari "wikilink")並びに[GOATBED](https://ja.wikipedia.org/wiki/GOATBED "wikilink")のボーカルである[石井秀仁](https://ja.wikipedia.org/wiki/石井秀仁 "wikilink")、[Moran](https://ja.wikipedia.org/wiki/Moran "wikilink")並びにウミユリのボーカルであるHitomiはマリスの元ローディである。\[11\]。
 
 ## 脚注
 
@@ -413,3 +413,4 @@ Box仕様 ブックレット付</p></td>
 8.  ManaのTwitterより。「2.1 H.B Kami！」https://mobile.twitter.com/M_d_M_official/status/1223259702139555840
 9.
 10. [MALICE MIZERは私とközi を中心に結成したということでたまには絡み2ショットとかどうかな？（Manaの公式Twitter並びにMoi dix Mois (モワ ディス モワ) の公式Twitter, 2020年1月29日](https://mobile.twitter.com/M_d_M_official/status/892753710794670081)
+11. [「Kamiも降臨しています」(【ライヴレポート】MALICE MIZER＜25th Anniversary Special＞, 2018年10月12日](https://www.barks.jp/news/?id=1000160448)

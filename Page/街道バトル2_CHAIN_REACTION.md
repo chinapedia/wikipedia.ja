@@ -349,4 +349,4 @@
 
 [en:Kaido Battle](https://ja.wikipedia.org/wiki/en:Kaido_Battle "wikilink")
 
-[Category:2004年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2004年のコンピュータゲーム "wikilink") [Category:元気のゲームソフト](https://ja.wikipedia.org/wiki/Category:元気のゲームソフト "wikilink") [Category:レースゲーム](https://ja.wikipedia.org/wiki/Category:レースゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink")
+[Category:2004年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2004年のコンピュータゲーム "wikilink") [Category:元気のゲームソフト](https://ja.wikipedia.org/wiki/Category:元気のゲームソフト "wikilink") [Category:カーレースゲーム](https://ja.wikipedia.org/wiki/Category:カーレースゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink")

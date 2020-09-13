@@ -129,7 +129,7 @@
   - [TSSみんなのテレビ](http://www.tss-tv.co.jp/tssnews/)
 
   -
-[Category:1988年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1988年のテレビ番組_\(日本\) "wikilink") [Category:テレビ新広島番組](https://ja.wikipedia.org/wiki/Category:テレビ新広島番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:中国・四国地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのミニ番組 "wikilink") [Category:中国・四国地方のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのスポーツ番組 "wikilink") [Category:ローカルテレビ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の野球番組 "wikilink") [Category:広島東洋カープ](https://ja.wikipedia.org/wiki/Category:広島東洋カープ "wikilink") [Category:STU48](https://ja.wikipedia.org/wiki/Category:STU48 "wikilink")
+[Category:1988年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1988年のテレビ番組_\(日本\) "wikilink") [Category:テレビ新広島の番組](https://ja.wikipedia.org/wiki/Category:テレビ新広島の番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:中国・四国地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのミニ番組 "wikilink") [Category:中国・四国地方のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのスポーツ番組 "wikilink") [Category:ローカルテレビ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の野球番組 "wikilink") [Category:ローカル局の番組の企画](https://ja.wikipedia.org/wiki/Category:ローカル局の番組の企画 "wikilink") [Category:広島東洋カープ](https://ja.wikipedia.org/wiki/Category:広島東洋カープ "wikilink") [Category:STU48](https://ja.wikipedia.org/wiki/Category:STU48 "wikilink")
 
 1.  「**カープっ娘担当表ができました。**」とリンクあり
 2.

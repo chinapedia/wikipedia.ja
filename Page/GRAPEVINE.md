@@ -1,7 +1,7 @@
 > この記事は[GRAPEVINE](https://ja.wikipedia.org/wiki/GRAPEVINE)から翻訳されています。
 
 
-**GRAPEVINE**（グレイプバイン）は、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")・田中和将、ギター・西川弘剛、[ドラムス](../Page/ドラムセット.md "wikilink")・亀井亨の3人からなる[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1993年](../Page/1993年.md "wikilink")に[大阪府](../Page/大阪府.md "wikilink")で結成。レコード会社は[SPEEDSTAR RECORDS](../Page/SPEEDSTAR_RECORDS.md "wikilink")。公式ファンクラブは「BALLGAG」である。
+**GRAPEVINE**（グレイプバイン）は、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")・田中和将、ギター・西川弘剛、[ドラムス](../Page/ドラムセット.md "wikilink")・亀井亨の3人からなる[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1993年](../Page/1993年.md "wikilink")に[大阪府](../Page/大阪府.md "wikilink")で結成。世に知られるようになった時点のレコード会社はポニーキャニオン/ROCKER ROOM。2014年から[SPEEDSTAR RECORDS](../Page/SPEEDSTAR_RECORDS.md "wikilink")。公式ファンクラブは「BALLGAG」である。
 
 ## 概要
 
@@ -14,7 +14,7 @@
 ### 現メンバー
 
   - **田中和将**（たなか かずまさ、 - ）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")
-      - [兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")出身。[大阪府](../Page/大阪府.md "wikilink")[枚方市](../Page/枚方市.md "wikilink")育ち(ROCKIN'ON JAPANの2万字インタビューによると、かなり複雑な家庭環境の少年時代を送る)。[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[大阪府立守口高校卒業](https://ja.wikipedia.org/wiki/大阪府立守口高等学校 "wikilink")。
+      - [兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")出身。[大阪府](../Page/大阪府.md "wikilink")[枚方市](../Page/枚方市.md "wikilink")育ち(ROCKIN'ON JAPANの2万字インタビューによると、かなり複雑な家庭環境の少年時代を送る)。[O型](../Page/ABO式血液型.md "wikilink")。[大阪府立守口高校卒業](https://ja.wikipedia.org/wiki/大阪府立守口高等学校 "wikilink")。
       - 作詞と一部楽曲(主にアルバム、c/w)での作曲を手がける。
       - [Fender JAZZMASTER](../Page/フェンダー・ジャズマスター.md "wikilink")、[Fender TELECASTER](../Page/フェンダー・テレキャスター.md "wikilink")、[Gibson SG SPECIAL](../Page/ギブソン・SG.md "wikilink")、[Epiphone CASINO](../Page/エピフォン・カジノ.md "wikilink")、[Gibson J-50を使用](../Page/ギブソン・J-45.md "wikilink")。
       - トレードマークは虹色ストラップ。[FTK\&K](../Page/FTK&K.md "wikilink")でもボーカル、ギターを担当している。
@@ -24,12 +24,12 @@
       - 喫煙者であり、1日に1箱半～2箱吸うとインタビューで発言している\[2\]。愛飲する銘柄は[ウィンストン](../Page/ウィンストン_\(たばこ\).md "wikilink")\[3\]。
       - 影響を受けたバンドについてはThe Beatles、THE ROLLING STONESを挙げている。
   - **西川弘剛**（にしかわ ひろよし、 - ）[ギター](../Page/ギター.md "wikilink")
-      - [奈良県](../Page/奈良県.md "wikilink")出身。[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[桃山学院大学](../Page/桃山学院大学.md "wikilink")[経済学部](../Page/経済学部.md "wikilink")卒業。一部楽曲で作曲も手がけるが、3人体制になってからは作曲する機会は少なくなっている。
+      - [奈良県](../Page/奈良県.md "wikilink")出身。[O型](../Page/ABO式血液型.md "wikilink")。[桃山学院大学](../Page/桃山学院大学.md "wikilink")[経済学部](../Page/経済学部.md "wikilink")卒業。一部楽曲で作曲も手がけるが、3人体制になってからは作曲する機会は少なくなっている。
       - [Fender TELECASTER](../Page/フェンダー・テレキャスター.md "wikilink")、[Gibson LES PAUL STANDARD](../Page/ギブソン・レスポール.md "wikilink")、[Fender FAT TELEを使用](https://ja.wikipedia.org/wiki/Fender_FAT_TELE "wikilink")。
       - 愛称は、兄貴、大統領、師匠、ミスターなど。バンド結成時からのメンバーである。
       - バンド活動以外にも、高野からの誘いで[小谷美紗子](../Page/小谷美紗子.md "wikilink")のライブでサポートを務めたり\[4\]、[Cocco](https://ja.wikipedia.org/wiki/Cocco "wikilink")のバックバンドとして参加した経験がある\[5\]。
   - **亀井亨**（かめい とおる、-）[ドラム](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
-      - [大阪府](../Page/大阪府.md "wikilink")出身。[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。桃山学院大学卒業。バンドのメインコンポーザーであり、多くの楽曲の作曲を手がけている。
+      - [大阪府](../Page/大阪府.md "wikilink")出身。[O型](../Page/ABO式血液型.md "wikilink")。桃山学院大学卒業。バンドのメインコンポーザーであり、多くの楽曲の作曲を手がけている。
       - [FTK\&K](../Page/FTK&K.md "wikilink")や[B.F.I](https://ja.wikipedia.org/wiki/B.F.I "wikilink")でもドラムを担当している。
       - 高校時代の3年間、[ラグビー](../Page/ラグビー.md "wikilink")をやっていた。現在でもラグビーは好きで、2019年に日本で開催されたワールドカップ期間には、日本が勝つたびに喜びのコメントを寄せていた。
       - [アナログフィッシュ](../Page/アナログフィッシュ.md "wikilink")の佐々木健太郎とは親交があり、よく酒を飲みに行く仲だという\[6\]。その縁からか、同バンドのアルバムのレコーディングに参加した経験がある。
@@ -37,7 +37,7 @@
 ### サポートメンバー
 
   - **金戸覚**（かねと さとる、 - ）[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
-      - [愛媛県](../Page/愛媛県.md "wikilink")出身。[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。駒澤大学卒業。元[WILLIES APPLE](https://ja.wikipedia.org/wiki/WILLIES_APPLE "wikilink")、元[JOHN BRIEF](https://ja.wikipedia.org/wiki/JOHN_BRIEF "wikilink")。[B.F.I](https://ja.wikipedia.org/wiki/B.F.I "wikilink")、[FTK\&K](../Page/FTK&K.md "wikilink")でも活動している。
+      - [愛媛県](../Page/愛媛県.md "wikilink")出身。[A型](../Page/ABO式血液型.md "wikilink")。駒澤大学卒業。元[WILLIES APPLE](https://ja.wikipedia.org/wiki/WILLIES_APPLE "wikilink")、元[JOHN BRIEF](https://ja.wikipedia.org/wiki/JOHN_BRIEF "wikilink")。[B.F.I](https://ja.wikipedia.org/wiki/B.F.I "wikilink")、[FTK\&K](../Page/FTK&K.md "wikilink")でも活動している。
       - [寺岡呼人](../Page/寺岡呼人.md "wikilink")や[玉木宏](https://ja.wikipedia.org/wiki/玉木宏 "wikilink")、[柳田久美子](../Page/柳田久美子.md "wikilink")、[門田匡陽](https://ja.wikipedia.org/wiki/門田匡陽 "wikilink")などのライブやレコーディングにも参加している。
       - 西原休養時の2001年にライブ「Whitewood」に参加。西原脱退後の2003年のツアー以降、再びサポートとしてバンドの作品及びライブに参加。
   - **高野勲**（たかの いさお、 - ）[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[ギター](../Page/ギター.md "wikilink")
@@ -53,8 +53,8 @@
 
 ### 元メンバー
 
-  - **西原誠** （にしはら まこと、 - ）[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[作曲](../Page/作曲.md "wikilink")。バンドのリーダー。
-      - [広島県](../Page/広島県.md "wikilink")出身。[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+  - **西原誠** （にしはら まこと、 - ）[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[作曲](../Page/作曲.md "wikilink")。在任中はGRAPEVINEのリーダーを務めていた。
+      - [広島県](../Page/広島県.md "wikilink")出身。[B型](../Page/ABO式血液型.md "wikilink")。
       - [ジストニア](../Page/ジストニア.md "wikilink")の治療のため一時バンドを離脱し、一度は復帰したものの、再発によりベースの演奏に困難をきたす事態になった為、[2002年](../Page/2002年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に本人の申し出で脱退した\[10\]\[11\]。
       - 5thシングル「[光について](https://ja.wikipedia.org/wiki/光について "wikilink")」のc/w「窓」では作詞を担当している。
       - 現在は[THE LATERS](https://ja.wikipedia.org/wiki/THE_LATERS "wikilink")、[Drop](https://ja.wikipedia.org/wiki/Drop "wikilink")などのバンドや、他のバンドのプロデュース等で活動している。Dropでは[サイドギター](https://ja.wikipedia.org/wiki/サイドギター "wikilink")、[作曲](../Page/作曲.md "wikilink")を行い、THE LATERSではボーカルも担当している。現在でもメンバーと交流がある。
@@ -78,6 +78,10 @@
 ### メンバー
 
   - 田中はもともとギターで入りたかったが、セッションにて歌声を聴いた西原の推薦によりボーカル担当となる。そのため、デビュー前にボーカルの重圧に耐えかね一時失踪している(実際は西原の留守電に辞めたい旨の伝言を残し、その足でフェリーで四国に向かうがその日のうちに帰ってきた)。その後西原による再三の説得により復帰。ギター志望だっただけありギターの腕前は良く、よくライブで西川と掛け合いでギターソロをやっている。
+
+いる。
+
+  - ライブ終わりに田中の言う「アーリガットサーン！」はイベントや配信終わりにTwitterなどでファンが言う〆の言葉にもなっている。
   - 西川は[雑誌](../Page/雑誌.md "wikilink")のインタビューでギター選びの判断基準を聞かれた際に、[コストパフォーマンス](https://ja.wikipedia.org/wiki/コストパフォーマンス "wikilink")だと答えている。
   - 昔はバンド貯金をしており、そのために銀行に口座も作っていた。ちなみに、田中のCASINOはそのお金で買ってもらったものである。
   - 西川は西原脱退の際に「ベースがいない音楽があってもいいじゃないか。だから残りなさいよ、君は」、「（3人になっても）続ける意味があるのかと考えたとき、自分1人になった時に僕にどんな価値があるのかなと思って。そういうのを知る意味では正直辞めてもいいかなとちょっと思ったんですよ」とコメントしている\[14\]。
@@ -124,7 +128,8 @@
 <table>
 <thead>
 <tr class="header">
-<th><p>#</p></th>
+<th><p>CD#</p></th>
+<th><p>通算</p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>オリコン</p></th>
@@ -135,6 +140,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
+<td><p>1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a><a href="../Page/12月3日.md" title="wikilink">12月3日</a><br />
 <a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/3月15日.md" title="wikilink">3月15日</a>（再発盤）</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/そら_(GRAPEVINEの曲)" title="wikilink">そら</a></strong></p></td>
@@ -144,6 +150,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
+<td><p>2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="../Page/4月1日.md" title="wikilink">4月1日</a><br />
 <a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/3月15日.md" title="wikilink">3月15日</a>（再発盤）</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/君を待つ間" title="wikilink">君を待つ間</a></strong></p></td>
@@ -153,6 +160,7 @@
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
+<td><p>3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="../Page/9月2日.md" title="wikilink">9月2日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/白日_(GRAPEVINEの曲)" title="wikilink">白日</a></strong></p></td>
 <td><p>50位</p></td>
@@ -161,6 +169,7 @@
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
+<td><p>4</p></td>
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/1月20日.md" title="wikilink">1月20日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/スロウ_(GRAPEVINEの曲)" title="wikilink">スロウ</a></strong></p></td>
 <td><p>24位</p></td>
@@ -169,6 +178,7 @@
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
+<td><p>5</p></td>
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/4月21日.md" title="wikilink">4月21日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/光について" title="wikilink">光について</a></strong></p></td>
 <td><p>18位</p></td>
@@ -177,6 +187,7 @@
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
+<td><p>6</p></td>
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/8月18日.md" title="wikilink">8月18日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/羽根/JIVE" title="wikilink">羽根/JIVE</a></strong></p></td>
 <td><p>20位</p></td>
@@ -185,6 +196,7 @@
 </tr>
 <tr class="odd">
 <td><p>7th</p></td>
+<td><p>7</p></td>
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/2月2日.md" title="wikilink">2月2日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Reverb_(GRAPEVINEの曲)" title="wikilink">Reverb</a></strong></p></td>
 <td><p>29位</p></td>
@@ -193,6 +205,7 @@
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
+<td><p>8</p></td>
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/11月1日.md" title="wikilink">11月1日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ふれていたい" title="wikilink">ふれていたい</a></strong></p></td>
 <td><p>20位</p></td>
@@ -201,6 +214,7 @@
 </tr>
 <tr class="odd">
 <td><p>9th</p></td>
+<td><p>9</p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/1月31日.md" title="wikilink">1月31日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Our_Song_(GRAPEVINEの曲)" title="wikilink">Our Song</a></strong></p></td>
 <td><p>20位</p></td>
@@ -209,6 +223,7 @@
 </tr>
 <tr class="even">
 <td><p>10th</p></td>
+<td><p>10</p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/6月20日.md" title="wikilink">6月20日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/discord_(曲)" title="wikilink">discord</a></strong></p></td>
 <td><p>18位</p></td>
@@ -217,6 +232,7 @@
 </tr>
 <tr class="odd">
 <td><p>11th</p></td>
+<td><p>11</p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/7月18日.md" title="wikilink">7月18日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/風待ち" title="wikilink">風待ち</a></strong></p></td>
 <td><p>19位</p></td>
@@ -225,6 +241,7 @@
 </tr>
 <tr class="even">
 <td><p>12th</p></td>
+<td><p>12</p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/6月19日.md" title="wikilink">6月19日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ナツノヒカリ" title="wikilink">ナツノヒカリ</a></strong></p></td>
 <td><p>16位</p></td>
@@ -233,6 +250,7 @@
 </tr>
 <tr class="odd">
 <td><p>13th</p></td>
+<td><p>13</p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/10月17日.md" title="wikilink">10月17日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/BLUE_BACK" title="wikilink">BLUE BACK</a></strong></p></td>
 <td><p>19位</p></td>
@@ -241,6 +259,7 @@
 </tr>
 <tr class="even">
 <td><p>14th</p></td>
+<td><p>14</p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="https://ja.wikipedia.org/wiki/9月3日" title="wikilink">9月3日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/会いにいく_(GRAPEVINEの曲)" title="wikilink">会いにいく</a></strong></p></td>
 <td><p>19位</p></td>
@@ -249,6 +268,7 @@
 </tr>
 <tr class="odd">
 <td><p>15th</p></td>
+<td><p>15</p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/10月29日.md" title="wikilink">10月29日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ぼくらなら" title="wikilink">ぼくらなら</a></strong></p></td>
 <td><p>23位</p></td>
@@ -257,6 +277,7 @@
 </tr>
 <tr class="even">
 <td><p>16th</p></td>
+<td><p>16</p></td>
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/3月3日.md" title="wikilink">3月3日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/BREAKTHROUGH" title="wikilink">BREAKTHROUGH</a></strong></p></td>
 <td><p>35位</p></td>
@@ -265,6 +286,7 @@
 </tr>
 <tr class="odd">
 <td><p>17th</p></td>
+<td><p>17</p></td>
 <td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/7月20日.md" title="wikilink">7月20日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/その未来/アダバナ" title="wikilink">その未来/アダバナ</a></strong></p></td>
 <td><p>22位</p></td>
@@ -273,6 +295,7 @@
 </tr>
 <tr class="even">
 <td><p>18th</p></td>
+<td><p>18</p></td>
 <td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月21日.md" title="wikilink">9月21日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/放浪フリーク" title="wikilink">放浪フリーク</a></strong></p></td>
 <td><p>57位</p></td>
@@ -281,6 +304,7 @@
 </tr>
 <tr class="odd">
 <td><p>19th</p></td>
+<td><p>19</p></td>
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/9月20日.md" title="wikilink">9月20日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/FLY_(GRAPEVINEの曲)" title="wikilink">FLY</a></strong></p></td>
 <td><p>21位</p></td>
@@ -289,6 +313,7 @@
 </tr>
 <tr class="even">
 <td><p>20th</p></td>
+<td><p>20</p></td>
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/2月7日.md" title="wikilink">2月7日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/指先/COME_ON" title="wikilink">指先/COME ON</a></strong></p></td>
 <td><p>17位</p></td>
@@ -297,6 +322,7 @@
 </tr>
 <tr class="odd">
 <td><p>21st</p></td>
+<td><p>21</p></td>
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/10月24日.md" title="wikilink">10月24日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/超える" title="wikilink">超える</a></strong></p></td>
 <td><p>26位</p></td>
@@ -305,6 +331,7 @@
 </tr>
 <tr class="even">
 <td><p>22nd</p></td>
+<td><p>22</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/3月5日.md" title="wikilink">3月5日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ジュブナイル_(曲)" title="wikilink">ジュブナイル</a></strong></p></td>
 <td><p>30位</p></td>
@@ -313,6 +340,7 @@
 </tr>
 <tr class="odd">
 <td><p>23rd</p></td>
+<td><p>23</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/5月21日.md" title="wikilink">5月21日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/CORE/wants" title="wikilink">CORE/Wants</a></strong></p></td>
 <td><p>30位</p></td>
@@ -321,6 +349,7 @@
 </tr>
 <tr class="even">
 <td><p>24th</p></td>
+<td><p>24</p></td>
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/5月27日.md" title="wikilink">5月27日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/疾走_(GRAPEVINEの曲)" title="wikilink">疾走</a></strong></p></td>
 <td><p>23位</p></td>
@@ -330,6 +359,7 @@ PCCA.02912（初回限定盤）</p></td>
 </tr>
 <tr class="odd">
 <td><p>25th</p></td>
+<td><p>25</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/11月17日.md" title="wikilink">11月17日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/風の歌_(GRAPEVINEの曲)" title="wikilink">風の歌</a></strong></p></td>
 <td><p>26位</p></td>
@@ -338,6 +368,7 @@ PCCA.02912（初回限定盤）</p></td>
 </tr>
 <tr class="even">
 <td><p>-</p></td>
+<td><p>26</p></td>
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/4月10日.md" title="wikilink">4月10日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/1977_(GRAPEVINEの曲)" title="wikilink">1977</a></strong><br />
 （<a href="../Page/タワーレコード.md" title="wikilink">タワーレコード</a>限定シングル）</p></td>
@@ -347,6 +378,7 @@ PCCA.02912（初回限定盤）</p></td>
 </tr>
 <tr class="odd">
 <td><p>26th</p></td>
+<td><p>27</p></td>
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/11月19日.md" title="wikilink">11月19日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Empty_song" title="wikilink">Empty song</a></strong></p></td>
 <td><p>32位</p></td>
@@ -356,6 +388,7 @@ VICL-36976（通常盤）</p></td>
 </tr>
 <tr class="even">
 <td><p>-</p></td>
+<td><p>28</p></td>
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/10月16日.md" title="wikilink">10月16日</a></p></td>
 <td><p><strong>EVIL EYE</strong></p></td>
 <td><p>-</p></td>
@@ -364,6 +397,7 @@ VICL-36976（通常盤）</p></td>
 </tr>
 <tr class="odd">
 <td><p>27th</p></td>
+<td><p>29</p></td>
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/12月2日.md" title="wikilink">12月2日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/EAST_OF_THE_SUN/UNOMI" title="wikilink">EAST OF THE SUN/UNOMI</a></strong></p></td>
 <td><p>23位</p></td>
@@ -373,6 +407,7 @@ VICL-37119（通常盤）</p></td>
 </tr>
 <tr class="even">
 <td><p>-</p></td>
+<td><p>30</p></td>
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a><a href="../Page/1月20日.md" title="wikilink">1月20日</a></p></td>
 <td><p><strong>SPF/Golden Dawn</strong><br />
 （7インチ・アナログ盤シングル）</p></td>
@@ -382,6 +417,7 @@ VICL-37119（通常盤）</p></td>
 </tr>
 <tr class="odd">
 <td><p>28th</p></td>
+<td><p>31</p></td>
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/6月7日.md" title="wikilink">6月7日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Arma" title="wikilink">Arma</a></strong></p></td>
 <td><p>20位</p></td>
@@ -391,6 +427,7 @@ VICL-37275（通常盤）</p></td>
 </tr>
 <tr class="even">
 <td><p>-</p></td>
+<td><p>32</p></td>
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/8月23日.md" title="wikilink">8月23日</a></p></td>
 <td><p><strong>Chain</strong></p></td>
 <td><p>-</p></td>
@@ -399,6 +436,7 @@ VICL-37275（通常盤）</p></td>
 </tr>
 <tr class="odd">
 <td><p>-</p></td>
+<td><p>33</p></td>
 <td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/11月28日.md" title="wikilink">11月28日</a></p></td>
 <td><p><strong>Alright</strong></p></td>
 <td><p>-</p></td>
@@ -407,6 +445,7 @@ VICL-37275（通常盤）</p></td>
 </tr>
 <tr class="even">
 <td><p>-</p></td>
+<td><p>34</p></td>
 <td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/12月26日.md" title="wikilink">12月26日</a></p></td>
 <td><p><strong>こぼれる</strong></p></td>
 <td><p>-</p></td>
@@ -973,7 +1012,7 @@ VIZL-769:DVD</p></td>
 | [塚田康弘](https://ja.wikipedia.org/wiki/塚田康弘 "wikilink")                     | 「[BREAKTHROUGH](https://www.youtube.com/watch?v=FHIOtkwKNW0)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | [野田真也](https://ja.wikipedia.org/wiki/野田真也 "wikilink")                     | 「[CORE](https://www.youtube.com/watch?v=YKWab29gAjw)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | [早坂直哉](https://ja.wikipedia.org/wiki/早坂直哉 "wikilink")                     | 「女たち」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| [Higuchinsky](https://ja.wikipedia.org/wiki/Higuchinsky "wikilink")       | 「[そら](https://www.youtube.com/watch?v=qC_pitwrFZs)」「[覚醒](https://www.youtube.com/watch?v=xV-WJpqF4_Q)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| [Higuchinsky](../Page/Higuchinsky.md "wikilink")                          | 「[そら](https://www.youtube.com/watch?v=qC_pitwrFZs)」「[覚醒](https://www.youtube.com/watch?v=xV-WJpqF4_Q)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | [フカツマサカズ](../Page/フカツマサカズ.md "wikilink")                                  | 「[EVIL EYE](https://www.youtube.com/watch?v=ZR-p3CucUx4)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | [村本天志](../Page/村本大志.md "wikilink")                                        | 「[会いにいく](https://www.youtube.com/watch?v=BcPfxn5cHWc)」「会いにいく (メンバーなしVer.)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | [山口保幸](../Page/山口保幸.md "wikilink")                                        | 「[BLUE BACK](https://www.youtube.com/watch?v=v8SVfriFbeE)」「ドリフト160(改)」「[ナツノヒカリ](https://www.youtube.com/watch?v=nKjotEAE_vs)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
@@ -1005,7 +1044,7 @@ VIZL-769:DVD</p></td>
 
   -
   -
-[Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:ポニーキャニオンアーティスツ所属者](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンアーティスツ所属者 "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:1993年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1993年に結成した音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
+[Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:ポニーキャニオンアーティスツ所属者](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンアーティスツ所属者 "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:1993年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1993年に結成した音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
 
 1.  [『GRAPEVINE』 SPECIAL INTERVIEW](http://www.hotexpress.co.jp/interview/grapevine/) hotexpress
 2.  [田中和将（GRAPEVINE） 100Qインタビュー／チケットぴあ](http://www.pia.co.jp/100q/grapevine/)

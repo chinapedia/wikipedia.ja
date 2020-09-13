@@ -51,7 +51,7 @@
 
 ### カメオ出演キャスト
 
-  - 甲賀忍者サラリーマン：[草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")（SMAP）
+  - 甲賀忍者サラリーマン：[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")（SMAP）
   - 甲賀忍者新聞配達：[川田広樹](../Page/川田広樹.md "wikilink")（ガレッジセール）
   - 甲賀忍者ビル窓拭き：[酒井敏也](../Page/酒井敏也.md "wikilink")
   - 甲賀忍者大道芸人：[村上ショージ](../Page/村上ショージ.md "wikilink")

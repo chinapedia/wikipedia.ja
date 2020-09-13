@@ -1,7 +1,7 @@
 > この記事は[バッファロー吾郎A](https://ja.wikipedia.org/wiki/バッファロー吾郎A)から翻訳されています。
 
 
-**バッファロー吾郎A**（バッファローごろうエー、[1970年](../Page/1970年.md "wikilink")[11月24日](../Page/11月24日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑い芸人](../Page/お笑いタレント.md "wikilink")。お笑いコンビ[バッファロー吾郎](../Page/バッファロー吾郎.md "wikilink")のツッコミ担当。旧芸名及び本名は、**木村 明浩**（きむら あきひろ）。[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[垂水区](../Page/垂水区.md "wikilink")出身。[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")東京本部所属。[NSC](../Page/吉本総合芸能学院.md "wikilink")8期生。本項では本人の代名詞を本名の「木村」として記載する。
+**バッファロー吾郎A**（バッファローごろうエー、[1970年](../Page/1970年.md "wikilink")（昭和45年）[11月24日](../Page/11月24日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑い芸人](../Page/お笑いタレント.md "wikilink")。お笑いコンビ[バッファロー吾郎](../Page/バッファロー吾郎.md "wikilink")のツッコミ担当。旧芸名及び本名は、**木村 明浩**（きむら あきひろ）。[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[垂水区](../Page/垂水区.md "wikilink")出身。[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")東京本部所属。[NSC](../Page/吉本総合芸能学院.md "wikilink")8期生。本項では本人の代名詞を本名の「木村」として記載する。
 
 ## 略歴
 
@@ -63,9 +63,9 @@
 
 ## 出演
 
-### バラエティ
+### テレビバラエティ
 
-  - [雨上がりの「Aさんの話」〜事情通に聞きました\!〜](https://ja.wikipedia.org/wiki/雨上がりの「Aさんの話」〜事情通に聞きました!〜 "wikilink")（朝日放送、プレゼンター）
+  - [雨上がりの「Aさんの話」〜事情通に聞きました\!〜](https://ja.wikipedia.org/wiki/雨上がりの「Aさんの話」〜事情通に聞きました!〜 "wikilink")（朝日放送）- プレセンター
   - [FUJIYAMA FIGHT CLUB](https://ja.wikipedia.org/wiki/FUJIYAMA_FIGHT_CLUB "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）- 不定期出演
 
 ### テレビドラマ
@@ -76,7 +76,7 @@
   - [夫婦善哉](https://ja.wikipedia.org/wiki/夫婦善哉_\(2013年のテレビドラマ\) "wikilink")（2013年8月 - 9月、[NHK総合](https://ja.wikipedia.org/wiki/NHK総合 "wikilink")） - らっきょ 役
   - [金曜プレステージ](../Page/金曜プレステージ.md "wikilink")「[事件屋稼業](https://ja.wikipedia.org/wiki/事件屋稼業_\(漫画\)#テレビドラマ "wikilink")」2（2014年1月31日、フジテレビ） - 帽子屋店長 役
   - [乾杯戦士アフターV](https://ja.wikipedia.org/wiki/乾杯戦士アフターV "wikilink")（2014年、[東名阪ネット6](../Page/東名阪ネット6.md "wikilink")・[5いっしょ3ちゃんねる](https://ja.wikipedia.org/wiki/5いっしょ3ちゃんねる "wikilink")） - トレジャーイエロー 役
-  - [花子とアン](https://ja.wikipedia.org/wiki/花子とアン "wikilink")（2014年8月、NHK） - 落語家 役
+  - [花子とアン](https://ja.wikipedia.org/wiki/花子とアン "wikilink")（2014年8月、NHK） - 落語家役
   - [マッサン](https://ja.wikipedia.org/wiki/マッサン "wikilink")（2014年10月、NHK） - 巡査役
   - [マネーの天使〜あなたのお金、取り戻します\!〜](https://ja.wikipedia.org/wiki/マネーの天使〜あなたのお金、取り戻します!〜 "wikilink") 最終話（2016年3月24日、読売テレビ） - 白岩 役
   - [リバース](https://ja.wikipedia.org/wiki/リバース_\(湊かなえの小説\)#テレビドラマ "wikilink")（2017年、TBS） - 乾圭介 役
@@ -85,7 +85,8 @@
   - [TWO WEEKS](https://ja.wikipedia.org/wiki/TWO_WEEKS_\(テレビドラマ\) "wikilink")（2019年、フジテレビ） - 葛城茂 役
   - [ニッポンノワール](https://ja.wikipedia.org/wiki/ニッポンノワール "wikilink")（2019年、日本テレビ） - 佐久間現 役\[1\]
   - [浦安鉄筋家族](https://ja.wikipedia.org/wiki/浦安鉄筋家族#テレビドラマ "wikilink")（2020年、テレビ東京） - 西川のり子の父 役
-  - [KING OF DANCE](../Page/KING_OF_DANCE.md "wikilink")（2020年4月11日 - 、[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink") / 4月16日 - 、[中京テレビ](https://ja.wikipedia.org/wiki/中京テレビ "wikilink") / 5月7日 - 、[BS日テレ](https://ja.wikipedia.org/wiki/BS日テレ "wikilink")） - 石井　役\[2\]\[3\]
+  - [KING OF DANCE](../Page/KING_OF_DANCE.md "wikilink")（2020年4月11日 - 、[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink") / 4月16日 - 、[中京テレビ](https://ja.wikipedia.org/wiki/中京テレビ "wikilink") / 5月7日 - 、[BS日テレ](https://ja.wikipedia.org/wiki/BS日テレ "wikilink")） - 石井 役\[2\]\[3\]
+  - [MIU404](../Page/MIU404.md "wikilink") 第3話（2020年7月10日、TBS） - コンビニ店長役
 
 ### 映画
 
@@ -146,10 +147,7 @@
 ## 外部リンク
 
   -
-  - \- 旧アカウント
-
-  - \- 現アカウント
-
+  -
   - [ホームラン日記](https://web.archive.org/web/20100325222510/http://buffalo-kimura.laff.jp/) - オフィシャルブログ
 
   - [ホームラン寄席](http://www1.plala.or.jp/homerun/) - 個人HP

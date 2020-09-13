@@ -75,7 +75,7 @@
 | [岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink")         | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                |                                                         |                  |               |
 | [福岡県](../Page/福岡県.md "wikilink")                    | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                |                                                         |                  |               |
 
-  - 過去にはテレビ東京系列外での系列外ネットを行っていた局があっすでたが打ち切り済みである。
+  - 過去にはテレビ東京系列外での系列外ネットを行っていた局があったが、既に打ち切り済みである。
 
 ## 歴代テーマソング
 
@@ -371,10 +371,10 @@
 | 5月  | 「[瞼の裏には](https://ja.wikipedia.org/wiki/ソーダ_\(藍坊主のアルバム\) "wikilink")」[藍坊主](../Page/藍坊主.md "wikilink")                          | 「Break Yourself」[Hi-Timez](https://ja.wikipedia.org/wiki/Hi-Timez "wikilink")                                                                         |
 | 6月  | 「[虹](https://ja.wikipedia.org/wiki/虹_\(フジファブリックの曲\) "wikilink")」[フジファブリック](../Page/フジファブリック.md "wikilink")                    | 「[Story](https://ja.wikipedia.org/wiki/Story_\(AIの曲\) "wikilink")」[AI](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink")                            |
 | 7月  | 「[Dear, Summer Friend](https://ja.wikipedia.org/wiki/Dear,_Summer_Friend "wikilink")」[真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink") | 「[SUMMER PARADE](https://ja.wikipedia.org/wiki/SUMMER_PARADE "wikilink")」[DEPAPEPE](../Page/DEPAPEPE.md "wikilink")                                   |
-| 8月  | 「観覧車」[柳田久美子](../Page/柳田久美子.md "wikilink")                                                                                     | 「[君だけに気づいてほしい](../Page/君だけに気づいてほしい.md "wikilink")」[doa](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")                                         |
+| 8月  | 「観覧車」[柳田久美子](../Page/柳田久美子.md "wikilink")                                                                                     | 「[君だけに気づいてほしい](../Page/君だけに気づいてほしい.md "wikilink")」doa                                                                                                 |
 | 9月  | 「[茜色の夕日](https://ja.wikipedia.org/wiki/茜色の夕日 "wikilink")」[フジファブリック](../Page/フジファブリック.md "wikilink")                           | 「[CRAZY](https://ja.wikipedia.org/wiki/ROCK_ON_\(上木彩矢のアルバム\) "wikilink")」[上木彩矢](https://ja.wikipedia.org/wiki/上木彩矢 "wikilink")                        |
 | 10月 | 「[どうよ?](https://ja.wikipedia.org/wiki/どうよ? "wikilink")」[nobodyknows+](https://ja.wikipedia.org/wiki/nobodyknows+ "wikilink")  | 「グランドライン」[plane](https://ja.wikipedia.org/wiki/plane "wikilink")                                                                                      |
-| 11月 | 「[キャンドル](../Page/キャンドル_\(曲\).md "wikilink")」[doa](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")                       | 「[ハナノユメ](https://ja.wikipedia.org/wiki/chatmonchy_has_come "wikilink")」[チャットモンチー](../Page/チャットモンチー.md "wikilink")                                     |
+| 11月 | 「[キャンドル](../Page/キャンドル_\(曲\).md "wikilink")」doa                                                                               | 「[ハナノユメ](https://ja.wikipedia.org/wiki/chatmonchy_has_come "wikilink")」[チャットモンチー](../Page/チャットモンチー.md "wikilink")                                     |
 | 12月 | 「[world symphony](https://ja.wikipedia.org/wiki/world_symphony "wikilink")」[ACIDMAN](../Page/ACIDMAN.md "wikilink")           | 「[25コ目の染色体](../Page/25コ目の染色体.md "wikilink")」[RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")                                             |
 
 </div>
@@ -598,7 +598,7 @@
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1月  | 「[答えを消していけ](https://ja.wikipedia.org/wiki/tremolo "wikilink")」[小林太郎](https://ja.wikipedia.org/wiki/小林太郎 "wikilink")                                   | 「[LEMONADE](https://ja.wikipedia.org/wiki/LEMONADE "wikilink")」[THE BAWDIES](https://ja.wikipedia.org/wiki/THE_BAWDIES "wikilink")                  |
 | 2月  | 「[たしかなうた](https://ja.wikipedia.org/wiki/たしかなうた "wikilink")」[ねごと](https://ja.wikipedia.org/wiki/ねごと "wikilink")                                        | 「[さよなら大好きだったよ](https://ja.wikipedia.org/wiki/さよなら大好きだったよ "wikilink")」[ケラケラ](https://ja.wikipedia.org/wiki/ケラケラ "wikilink")                          |
-| 3月  | 「SAMURAI ROCK」[吉川晃司](../Page/吉川晃司.md "wikilink")                                                                                                      | 「マリー」[溝渕文](https://ja.wikipedia.org/wiki/溝渕文 "wikilink")                                                                                            |
+| 3月  | 「[SAMURAI ROCK](https://ja.wikipedia.org/wiki/SAMURAI_ROCK_\(吉川晃司の曲\) "wikilink")」[吉川晃司](../Page/吉川晃司.md "wikilink")                                  | 「マリー」[溝渕文](https://ja.wikipedia.org/wiki/溝渕文 "wikilink")                                                                                            |
 | 4月  | 「You Are My Life」[FTISLAND](https://ja.wikipedia.org/wiki/FTISLAND "wikilink")                                                                        | 「[サブリナ](https://ja.wikipedia.org/wiki/サブリナ_\(曲\) "wikilink")」[家入レオ](https://ja.wikipedia.org/wiki/家入レオ "wikilink")                                  |
 | 5月  | 「[Answer And Answer](https://ja.wikipedia.org/wiki/Answer_And_Answer "wikilink")」[9mm Parabellum Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink") | 「ぶりっこぶりっこ」[さめざめ](https://ja.wikipedia.org/wiki/さめざめ "wikilink")                                                                                     |
 | 6月  | 「鼓動」 [小林太郎](https://ja.wikipedia.org/wiki/小林太郎 "wikilink")                                                                                            | 「まだ間に合うから」 [luki](https://ja.wikipedia.org/wiki/luki "wikilink")                                                                                    |
@@ -743,7 +743,7 @@
 | --- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | 1月  | 「フカンショウ」[パノラマパナマタウン](https://ja.wikipedia.org/wiki/パノラマパナマタウン "wikilink")                      | 「Never going back」[MADKID](https://ja.wikipedia.org/wiki/MADKID "wikilink")                           |
 | 2月  | 「That's My Baby」[RIRI](https://ja.wikipedia.org/wiki/RIRI "wikilink")                          | 「Growth Arrow」[OLDCODEX](https://ja.wikipedia.org/wiki/OLDCODEX "wikilink")                           |
-| 3月  | 「World Atlas」[fhána](https://ja.wikipedia.org/wiki/Fhana "wikilink")                           | 「LA DOLCE VITA」[luki](https://ja.wikipedia.org/wiki/luki "wikilink")                                  |
+| 3月  | 「World Atlas」[fhána](https://ja.wikipedia.org/wiki/fhána "wikilink")                           | 「LA DOLCE VITA」[luki](https://ja.wikipedia.org/wiki/luki "wikilink")                                  |
 | 4月  | 「Resource (ft.Annabel)」[Takaryu](https://ja.wikipedia.org/wiki/Takaryu "wikilink")             | 「ACTRESS」luki                                                                                         |
 | 5月  | 「Selfish」[小袋成彬](https://ja.wikipedia.org/wiki/小袋成彬 "wikilink")                                 | 「NE:ONE」[Survive Side The Project](https://ja.wikipedia.org/wiki/Survive_Side_The_Project "wikilink") |
 | 6月  | 「Life is beautiful」[BiSH](https://ja.wikipedia.org/wiki/BiSH "wikilink")                       | 「FREEDOM」[入野自由](../Page/入野自由.md "wikilink")                                                           |
@@ -751,8 +751,8 @@
 | 8月  | 「ホトハシル」[ORESAMA](https://ja.wikipedia.org/wiki/ORESAMA "wikilink")                             | 「nazca」[おいしくるメロンパン](https://ja.wikipedia.org/wiki/おいしくるメロンパン "wikilink")                              |
 | 9月  | 「DOU-DU DOU-DU」[BLACKPINK](https://ja.wikipedia.org/wiki/BLACKPINK "wikilink")                 | 「バナナが食べられないサル」[OH MY GIRL BANHANA](https://ja.wikipedia.org/wiki/OH_MY_GIRL_BANHANA "wikilink")       |
 | 10月 | 「Amenity」[め組](https://ja.wikipedia.org/wiki/め組_\(バンド\) "wikilink")                             | 「悲しみもいつかは」[Halo at 四畳半](https://ja.wikipedia.org/wiki/Halo_at_四畳半 "wikilink")                         |
-| 11月 | 「Telepath Telepath」[PELICAN FANCLUB](https://ja.wikipedia.org/wiki/PELICAN_FANCLUB "wikilink") | 「愛だなんて呼ぶからだ」[宇宙まお](https://ja.wikipedia.org/wiki/宇宙まお "wikilink")                                     |
-| 12月 | 「stereo future」[BiSH](https://ja.wikipedia.org/wiki/BiSH "wikilink")                           | 「青空のラプソディ」fhána                                                                                       |
+| 11月 | 「Telepath Telepath」[PELICAN FANCLUB](https://ja.wikipedia.org/wiki/PELICAN_FANCLUB "wikilink") | 「愛だなんて呼ぶからだ」宇宙まお                                                                                      |
+| 12月 | 「stereo future」BiSH                                                                            | 「[青空のラプソディ](https://ja.wikipedia.org/wiki/青空のラプソディ "wikilink")」fhána                                  |
 
 </div>
 
@@ -781,7 +781,7 @@
 | 9月  | 「epilogue」[おいしくるメロンパン](https://ja.wikipedia.org/wiki/おいしくるメロンパン "wikilink")                                              | 「FLY MY WAY」[鈴木瑛美子](https://ja.wikipedia.org/wiki/鈴木瑛美子 "wikilink")                         |
 | 10月 | 「春風5センチメンタル」め組                                                                                                           | 「ON YOUR MARK」[Afterglow](https://ja.wikipedia.org/wiki/BanG_Dream!#Afterglow_2 "wikilink") |
 | 11月 | 「リズム」[BiSH](https://ja.wikipedia.org/wiki/BiSH "wikilink")                                                               | 「candie tower」おいしくるメロンパン                                                                    |
-| 12月 | 「Snow drop」[L'Ark〜en〜Ciel](https://ja.wikipedia.org/wiki/L'Ark〜en〜Ciel "wikilink")                                       | 「東京」[宇宙まお](https://ja.wikipedia.org/wiki/宇宙まお "wikilink")                                   |
+| 12月 | 「Snow drop」[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")                                                          | 「東京」[宇宙まお](https://ja.wikipedia.org/wiki/宇宙まお "wikilink")                                   |
 
 </div>
 
@@ -802,11 +802,11 @@
 | 1月  | 「イニシャル」[Poppin'Party](https://ja.wikipedia.org/wiki/BanG_Dream!#Poppin'Party（声優ユニット） "wikilink")      | 「愛とか感情」[ニノミヤユイ](https://ja.wikipedia.org/wiki/ニノミヤユイ "wikilink")        |
 | 2月  | 「ANTY-HERO'S」[BALLISTIK BOYSfromEXILE](https://ja.wikipedia.org/wiki/BALLISTIK_BOYS "wikilink") TRIBE | 「もう踊れない」[宇宙まお](https://ja.wikipedia.org/wiki/宇宙まお "wikilink")           |
 | 3月  | 「風（Levanter） -Japanese ver-」[Stray Kids](https://ja.wikipedia.org/wiki/Stray_Kids "wikilink")         | 「MARBLE」[樋口楓](https://ja.wikipedia.org/wiki/樋口楓 "wikilink")             |
-| 4月  | 「月色ホライズン」[Alexandros](https://ja.wikipedia.org/wiki/Alexandros "wikilink")                            | 「星がはじまる」[Argonavis](https://ja.wikipedia.org/wiki/Argonavis "wikilink") |
+| 4月  | 「月色ホライズン」[\[Alexandros](https://ja.wikipedia.org/wiki/Alexandros "wikilink")\]                        | 「星がはじまる」[Argonavis](https://ja.wikipedia.org/wiki/Argonavis "wikilink") |
 | 5月  | 「透明造花」[おいしくるメロンパン](https://ja.wikipedia.org/wiki/おいしくるメロンパン "wikilink")                               | 「駄々」[め組](https://ja.wikipedia.org/wiki/め組 "wikilink")                   |
-| 6月  | 未定                                                                                                    | 未定                                                                      |
-| 7月  | 未定                                                                                                    | 未定                                                                      |
-| 8月  | 未定                                                                                                    | 未定                                                                      |
+| 6月  | 「Breakthrough\!」Poppin'Party                                                                          | 「Grab the air」[milet](https://ja.wikipedia.org/wiki/milet "wikilink")   |
+| 7月  | 「ブルーユース」[ひかりのなかに](https://ja.wikipedia.org/wiki/ひかりのなかに "wikilink")                                   | 「CITY」[降幡愛](https://ja.wikipedia.org/wiki/降幡愛 "wikilink")               |
+| 8月  | 「パジャマでシー」[ヤングオオハラ](https://ja.wikipedia.org/wiki/ヤングオオハラ "wikilink")                                  | 「Shock Shock」[Awich](../Page/Awich.md "wikilink")                       |
 | 9月  | 未定                                                                                                    | 未定                                                                      |
 | 10月 | 未定                                                                                                    | 未定                                                                      |
 | 11月 | 未定                                                                                                    | 未定                                                                      |
@@ -927,9 +927,12 @@
 
 ## 外部リンク
 
-  - [公式サイト（テレビ大阪）](http://www.tv-osaka.co.jp/ip4/jcd/)
+  - [JAPAN COUNTDOWN](https://www.tv-tokyo.co.jp/jcd/) - テレビ東京（番組公式サイト）
 
-[Category:JAPAN_COUNTDOWN](https://ja.wikipedia.org/wiki/Category:JAPAN_COUNTDOWN "wikilink") [Category:1998年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のテレビ番組_\(日本\) "wikilink") [Category:テレビ大阪番組](https://ja.wikipedia.org/wiki/Category:テレビ大阪番組 "wikilink") [Category:テレビ東京の音楽番組](https://ja.wikipedia.org/wiki/Category:テレビ東京の音楽番組 "wikilink") [Category:テレビ東京の深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の深夜番組の歴史 "wikilink") [Category:音楽ランキング番組_(テレビ)](https://ja.wikipedia.org/wiki/Category:音楽ランキング番組_\(テレビ\) "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
+  -
+  - [JCDショートアニメ](https://www.tv-osaka.co.jp/ip4/jcd/short_anime.html) - テレビ大阪
+
+[Category:JAPAN_COUNTDOWN](https://ja.wikipedia.org/wiki/Category:JAPAN_COUNTDOWN "wikilink") [Category:1998年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のテレビ番組_\(日本\) "wikilink") [Category:テレビ大阪の番組](https://ja.wikipedia.org/wiki/Category:テレビ大阪の番組 "wikilink") [Category:テレビ東京の音楽番組](https://ja.wikipedia.org/wiki/Category:テレビ東京の音楽番組 "wikilink") [Category:テレビ東京の深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の深夜番組の歴史 "wikilink") [Category:音楽ランキング番組_(テレビ)](https://ja.wikipedia.org/wiki/Category:音楽ランキング番組_\(テレビ\) "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
 1.  土曜深夜時代は**「音楽ファンによる、音楽ファンのためのミュージック・プログラム、JAPAN COUNTDOWN」**だった。
 2.  元々月曜未明（日曜深夜）に放送していた[テレビ愛知](../Page/テレビ愛知.md "wikilink")制作の姉妹的番組『[SHOWBIZ COUNTDOWN](../Page/SHOWBIZ_COUNTDOWN.md "wikilink")』でも洋楽が紹介されていた。

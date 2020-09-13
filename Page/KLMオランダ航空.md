@@ -58,7 +58,7 @@ KLMが発注した[ボーイング](../Page/ボーイング.md "wikilink")社製
 
 2014年12月に重整備を受けたB737-800の2機（PH-BXW、PH-BXZ）から、現行の塗装を一部流線型とした新塗装となり、保有機材を含めて今後は順次施工していく。2015年以降導入のB777-300ERとB787-9は最初から新塗装での納入となる\[13\]。
 
-　さらに、オランダの[デルフト工科大学](../Page/デルフト工科大学.md "wikilink")と協同で未来の航空機「Flying-V\[14\]」の開発に取り組んでいる。
+さらに、オランダの[デルフト工科大学](../Page/デルフト工科大学.md "wikilink")と協同で未来の航空機「Flying-V\[14\]」の開発に取り組んでいる。
 
 ファイル:PH-AOD KLM Royal Dutch Airlines Airbus A330-203 - cn 738 taxiing 21july2013 pic-006.JPG|エアバスA330-200 ファイル:PH-BXK KLM Royal Dutch Airlines Boeing 737-8K2(WL) taxiing 14july2013 pic1.JPG|ボーイング737-800 ファイル:PH-BFG KLM Royal Dutch Airlines Boeing 747-406 at Schiphol (AMS - EHAM), The Netherlands, 16may2014, pic-6.JPG|ボーイング747-400 ファイル:KLM Royal Dutch Airlines Boeing747-400M PH-BFS RJAA.JPG|ボーイング747-400M ファイル:KLM Boeing 747-400, PH-BFC@AMS,19.04.2008-508gp - Flickr - Aero Icarus.jpg|ボーイング747-400M（KLMアジア塗装） ファイル:PH-CKB B747-400F KLM Cargo (6653360487).jpg|ボーイング747-400ERF ファイル:PH-BQG B777-206ER KLM YVR 05JUL12 (7511329892).jpg|ボーイング777-200ER ファイル:PH-BQI KLM Royal Dutch Airlines Boeing 777-206(ER) at Schiphol (AMS - EHAM), The Netherlands pic3.JPG|ボーイング777-200ER（KLMアジア塗装） ファイル:PH-BVB (3781777373).jpg|ボーイング777-300ER ファイル:PH-BVA (36296170640).jpg|ボーイング777-300ER（OrangePride 特別塗装） ファイル:PH-BVC KLM Royal Dutch Airlines Boeing 777-306(ER) depoarting to Sao Paulo-Guarulhos (GRU) @ Amsterdam - Schiphol (AMS) - 25.05.2017 (34134563313).jpg|ボーイング777-300ER（KLMアジア塗装） ファイル:KLM B777-306ER (PH-BVD) taking off from Amsterdam Airport Schiphol.jpg|ボーイング777-300ER（スカイチーム塗装） ファイル:KLM Boeing 787-9 PH-BHI (27695954918).jpg|ボーイング787-9
 

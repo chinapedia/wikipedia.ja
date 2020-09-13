@@ -159,7 +159,7 @@
 <!-- end list -->
 
   -
-    ※NHK名古屋放送局では『[さらさらサラダ](https://ja.wikipedia.org/wiki/東海北陸フレッシュ便_さらさらサラダ "wikilink")』を引き続き放送（平日 11：30～12：00）。
+    ※NHK名古屋放送局では『[さらさらサラダ](https://ja.wikipedia.org/wiki/さらさらサラダ "wikilink")』を引き続き放送（平日 11：30～12：00）。
     ※11:54～11:57は、[東京発の全国の気象情報を内包して放送](../Page/NHK放送センター.md "wikilink")。
 
 <!-- end list -->
@@ -271,7 +271,7 @@
 
   - [NHK津放送局](https://www.nhk.or.jp/tsu/)
 
-[Category:NHK津](https://ja.wikipedia.org/wiki/Category:NHK津 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:東海・北陸地方の放送](https://ja.wikipedia.org/wiki/Category:東海・北陸地方の放送 "wikilink") [Category:東海・北陸地方のラジオ局](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のラジオ局 "wikilink")
+[Category:NHK津](https://ja.wikipedia.org/wiki/Category:NHK津 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:三重県のマスメディア](https://ja.wikipedia.org/wiki/Category:三重県のマスメディア "wikilink") [Category:東海・北陸地方の放送](https://ja.wikipedia.org/wiki/Category:東海・北陸地方の放送 "wikilink") [Category:東海・北陸地方のラジオ局](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のラジオ局 "wikilink")
 
 1.  『津市史 第五巻』p514
 2.

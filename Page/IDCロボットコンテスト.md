@@ -33,6 +33,6 @@
 
 ## 外部リンク
 
-[IDCロボットコンテスト公式ページ](http://www.official-robocon.com/jp/idc/index.html)
+  - [IDC ロボコン オフィシャル・サイト](http://www.idc-robocon.org/)
 
 [Category:国際競技大会](https://ja.wikipedia.org/wiki/Category:国際競技大会 "wikilink") [Category:ロボット競技](https://ja.wikipedia.org/wiki/Category:ロボット競技 "wikilink") [Category:学生大会](https://ja.wikipedia.org/wiki/Category:学生大会 "wikilink") [Category:日本の工業教育](https://ja.wikipedia.org/wiki/Category:日本の工業教育 "wikilink")

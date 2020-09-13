@@ -7,7 +7,7 @@
 
 ## 概要
 
-[英語](../Page/英語.md "wikilink")をはじめ、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")・[朝鮮語](../Page/朝鮮語.md "wikilink")・[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")・[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")・[イタリア語](../Page/イタリア語.md "wikilink")などを学ぶことができた。
+[英語](../Page/英語.md "wikilink")をはじめ、[中国語](../Page/中国語.md "wikilink")・[朝鮮語](../Page/朝鮮語.md "wikilink")・[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")・[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")・[イタリア語](../Page/イタリア語.md "wikilink")などを学ぶことができた。
 [代表取締役](../Page/代表取締役.md "wikilink")[社長](../Page/社長.md "wikilink")は[楠恒男](../Page/楠恒男.md "wikilink")（[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")出身）。典型的な[同族経営](../Page/同族経営.md "wikilink")企業である。
 
 ## 歴史

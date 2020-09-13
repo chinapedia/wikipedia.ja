@@ -595,7 +595,7 @@ ap bank fes運営事務局は[2013年](../Page/2013年.md "wikilink")[2月14日]
 
 2007年3月16日から18日までの3日間にかけて、東京[新木場](../Page/新木場.md "wikilink")の「[STUDIO COAST](../Page/STUDIO_COAST.md "wikilink")/[ageHa](https://ja.wikipedia.org/wiki/ageHa "wikilink")」にて開催されたクラブイベント。ライブ・DJ・映像・アートなど様々なジャンルのクリエーターが集結し、夕方から夜にかけてのLIVE TIMEと夜から明け方にかけてのALL NIGHT TIMEの2部構成でパフォーマンスが行われた。LIVE TIMEではap bank fes同様、Bank Bandがホスト役としてアーティストを迎え入れる形式で進行し、今回のイベントのために新たにBank Band Trinityが結成された。長らく音楽活動を休止していた鬼束ちひろ、岡村靖幸、小泉今日子の復帰イベントとなり、シークレットゲストも登場した。イベント中は環境問題に関する専門家を招いて講義が行われ、映像も流された。第1回目のテーマは「環境と欲望」。
 
-  - Bank Band Trinity:小林武史（キーボード）、[高野寛](../Page/高野寛.md "wikilink")（ギター）、[TOKIE](../Page/TOKIE.md "wikilink")（ベース）、[椎野恭一](https://ja.wikipedia.org/wiki/椎野恭一 "wikilink")（ドラムス）、藤井珠緒（パーカッション）、Toshihiko Mori a.k.a [ajapai](https://ja.wikipedia.org/wiki/ajapai "wikilink")（キーボード、DJ）、登坂亮太（コーラス）、イシイモモコ（コーラス）
+  - Bank Band Trinity:小林武史（キーボード）、[高野寛](../Page/高野寛.md "wikilink")（ギター）、[TOKIE](../Page/TOKIE.md "wikilink")（ベース）、[椎野恭一](../Page/椎野恭一.md "wikilink")（ドラムス）、藤井珠緒（パーカッション）、Toshihiko Mori a.k.a [ajapai](https://ja.wikipedia.org/wiki/ajapai "wikilink")（キーボード、DJ）、登坂亮太（コーラス）、イシイモモコ（コーラス）
 
 <!-- end list -->
 

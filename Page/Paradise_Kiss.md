@@ -7,7 +7,7 @@
 
 [ファッション誌](https://ja.wikipedia.org/wiki/ファッション誌 "wikilink")『[Zipper](../Page/Zipper.md "wikilink")』（[祥伝社](../Page/祥伝社.md "wikilink")）の[1999年](../Page/1999年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")号から[2003年](../Page/2003年.md "wikilink")5月号に連載されていた。全5巻。『[ご近所物語](../Page/ご近所物語.md "wikilink")』（[集英社](../Page/集英社.md "wikilink")）の続編にあたり、本作の登場人物の一部は、『ご近所物語』から継続して登場している。
 
-また[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")版、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")版、[タイ王国](../Page/タイ王国.md "wikilink")版、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")版、[イタリア](../Page/イタリア.md "wikilink")版、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")版、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")版、[ポーランド](../Page/ポーランド.md "wikilink")版、[ハンガリー](../Page/ハンガリー.md "wikilink")版、[ロシア](../Page/ロシア.md "wikilink")版、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")版、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")版、[英語](../Page/英語.md "wikilink")版があり、韓国版以外は表紙のデザインも異なっている。また、高いファッションセンス性で日本国内だけでなく[欧米](../Page/欧米.md "wikilink")でも高い評価を得ている\[1\]。Macintoshによる画像処理を大幅に導入しており、[アシスタント抜きでの作画である](../Page/アシスタント_\(漫画\).md "wikilink")。最終回部分が単行本収録の際に加筆修正されており、連載時に不明だった紫の婚約者やパラキスメンバーの消息が明らかにされている。
+また[中国語](../Page/中国語.md "wikilink")版、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")版、[タイ王国](../Page/タイ王国.md "wikilink")版、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")版、[イタリア](../Page/イタリア.md "wikilink")版、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")版、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")版、[ポーランド](../Page/ポーランド.md "wikilink")版、[ハンガリー](../Page/ハンガリー.md "wikilink")版、[ロシア](../Page/ロシア.md "wikilink")版、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")版、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")版、[英語](../Page/英語.md "wikilink")版があり、韓国版以外は表紙のデザインも異なっている。また、高いファッションセンス性で日本国内だけでなく[欧米](../Page/欧米.md "wikilink")でも高い評価を得ている\[1\]。Macintoshによる画像処理を大幅に導入しており、[アシスタント抜きでの作画である](../Page/アシスタント_\(漫画\).md "wikilink")。最終回部分が単行本収録の際に加筆修正されており、連載時に不明だった紫の婚約者やパラキスメンバーの消息が明らかにされている。
 
 売り上げは[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")時点で600万部を突破している\[2\]。
 
@@ -77,7 +77,7 @@
 
 ### キャスト
 
-  - 早坂紫（ユカリ）：[山田優](https://ja.wikipedia.org/wiki/山田優 "wikilink")\[4\]
+  - 早坂紫（ユカリ）：[山田優](https://ja.wikipedia.org/wiki/山田優_\(モデル\) "wikilink")\[4\]
   - 小泉譲二（ジョージ）：[浜田賢二](../Page/浜田賢二.md "wikilink")\[5\]
   - 櫻田実和子（ミワコ）：[松本まりか](../Page/松本まりか.md "wikilink")\[6\]
   - 永瀬嵐（アラシ）：[水谷俊介](https://ja.wikipedia.org/wiki/水谷俊介 "wikilink")\[7\]
@@ -117,8 +117,8 @@
 
 ### 主題歌
 
-  - オープニングテーマ「[Lonely in Gorgeous](../Page/Lonely_in_Gorgeous.md "wikilink")」
-    歌・作詞 - [Tommy february6](https://ja.wikipedia.org/wiki/川瀬智子 "wikilink") / 作曲・編曲 - MALIBU CONVERTIBL
+  - オープニングテーマ「[♥Lonely in Gorgeous♥](https://ja.wikipedia.org/wiki/♥Lonely_in_Gorgeous♥ "wikilink")」
+    歌・作詞 - [Tommy february<sup>6</sup>](https://ja.wikipedia.org/wiki/川瀬智子 "wikilink") / 作曲・編曲 - MALIBU CONVERTIBL
   - エンディングテーマ「[ドゥ・ユー・ウォント・トゥ](../Page/ドゥ・ユー・ウォント・トゥ.md "wikilink")」
     作詞・作曲 - アレックス・カブラノス、ニコラス・マッカーシー / 編曲 - リッチ・コスティ、フランツ・フェルディナンド / 歌 - [フランツ・フェルディナンド](../Page/フランツ・フェルディナンド_\(バンド\).md "wikilink")
   - 挿入歌「THE BABYS」
@@ -323,7 +323,7 @@
   - 取材協力 - [文化服装学院](../Page/文化服装学院.md "wikilink")、[青山ファッションカレッジ](https://ja.wikipedia.org/wiki/青山ファッションカレッジ "wikilink")、[華服飾専門学校](https://ja.wikipedia.org/wiki/華服飾専門学校 "wikilink")、[江東服飾高等専修学校](https://ja.wikipedia.org/wiki/江東服飾高等専修学校 "wikilink")
   - USロケ協力プロダクション - TK Digital Corporation
   - 制作プロダクション - STUDIO SWAN（[IMJエンタテインメント](https://ja.wikipedia.org/wiki/IMJエンタテインメント "wikilink")）
-  - 製作 - 「パラダイス・キス」製作委員会（[ワーナー・ブラザース映画](https://ja.wikipedia.org/wiki/ワーナー_ブラザース_ジャパン "wikilink")、[20世紀フォックス ホーム エンターテイメント ジャパン](https://ja.wikipedia.org/wiki/20世紀フォックス#日本法人 "wikilink")、[キングレコード](../Page/キングレコード.md "wikilink")、[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")、STUDIO SWAN（IMJエンタテインメント）、[ホリエージェンシー](../Page/ホリエージェンシー.md "wikilink")、ディメンションブルー、[Yahoo\! JAPAN](../Page/Yahoo!_JAPAN.md "wikilink")、[祥伝社](../Page/祥伝社.md "wikilink")）
+  - 製作 - 「パラダイス・キス」製作委員会（[ワーナー・ブラザース映画](https://ja.wikipedia.org/wiki/ワーナー_ブラザース_ジャパン "wikilink")、[20世紀フォックス ホーム エンターテイメント ジャパン](https://ja.wikipedia.org/wiki/20世紀フォックス#日本法人 "wikilink")、[キングレコード](../Page/キングレコード.md "wikilink")、[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")、STUDIO SWAN（IMJエンタテインメント）、[ホリ・エージェンシー](../Page/ホリ・エージェンシー.md "wikilink")、ディメンションブルー、[Yahoo\! JAPAN](../Page/Yahoo!_JAPAN.md "wikilink")、[祥伝社](../Page/祥伝社.md "wikilink")）
   - 配給 - ワーナー・ブラザース映画
 
 ### 原作との相違点
@@ -418,6 +418,8 @@
   - [excite公式ブログ](https://blog.excite.co.jp/parakisstv)
 
   - [【ワーナー公式】映画（ブルーレイ,DVD & 4K UHD/デジタル配信） | パラダイス・キス](https://warnerbros.co.jp/home_entertainment/detail.php?title_id=3177/)
+
+  - [金曜ロードショー放送ラインアップ](http://www.ntv.co.jp/kinro/lineup/20130531/index.html)
 
   -
   -

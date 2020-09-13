@@ -23,7 +23,7 @@
 
 **[\#沿革](https://ja.wikipedia.org/wiki/#沿革 "wikilink")**にもあるように、話題になったのはせいぜい[1990年代](../Page/1990年代.md "wikilink")前半までで、長引く不況から聴取者の限られるミニFMは経費削減の対象となりやすく、JRA競馬場の「グリーンウェーブ（旧称ターフサウンドステーション（TSS））」、[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")の「FMハマスタ」、[浅草花やしき](../Page/浅草花やしき.md "wikilink")の[あさくさFM](https://ja.wikipedia.org/wiki/あさくさFM "wikilink")、[両国国技館](../Page/両国国技館.md "wikilink")の「どすこいFM」などのイベント施設や、東海道・山陽新幹線のミュージックサービスなど、独自放送をしていたミニFMは廃止または[ラジオ放送](https://ja.wikipedia.org/wiki/ラジオ放送 "wikilink")の再送信のみに縮小している。
 
-一方、[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")の台頭は、かつてならミニFMを利用したであろう[企業](../Page/企業.md "wikilink")・[団体](../Page/団体.md "wikilink")がこれを利用することとなり、取って代わられた形となった。[エフエム・ギグ](../Page/エフエム・ギグ.md "wikilink")、[ソラトニワ](https://ja.wikipedia.org/wiki/ソラトニワ "wikilink")、[渋谷クロスFM](https://ja.wikipedia.org/wiki/渋谷クロスFM "wikilink")などはミニFMが主体のように事業を開始したが、実態はインターネットラジオが主でミニFMは従、あるいは廃止している。個人で行うのもかつてのラジオ少年が年を重ねた中高年者などしか見当たらなくなった。送信機も容易に入手できるものは組立てを要する[キット](https://ja.wikipedia.org/wiki/キット "wikilink")か[オーディオ機器用](../Page/音響機器.md "wikilink")[アクセサリー](https://ja.wikipedia.org/wiki/アクセサリー "wikilink")の[FMトランスミッター](../Page/FMトランスミッター.md "wikilink")しかない。
+一方、[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")の台頭は、かつてならミニFMを利用したであろう[企業](../Page/企業.md "wikilink")・[団体](../Page/団体.md "wikilink")がこれを利用することとなり、取って代わられた形となった。[エフエム・ギグ](../Page/エフエム・ギグ.md "wikilink")、[ソラトニワ](https://ja.wikipedia.org/wiki/ソラトニワ "wikilink")、[渋谷クロスFM](https://ja.wikipedia.org/wiki/渋谷クロスFM "wikilink")などはミニFMが主体のように事業を開始したが、実態はインターネットラジオが主でミニFMは従、あるいは廃止している。個人で行うのもかつてのラジオ少年が年を重ねた中高年者などしか見当たらなくなった。送信機も容易に入手できるものは組立てを要する[キット](../Page/キット.md "wikilink")か[オーディオ機器用](../Page/音響機器.md "wikilink")[アクセサリー](https://ja.wikipedia.org/wiki/アクセサリー "wikilink")の[FMトランスミッター](../Page/FMトランスミッター.md "wikilink")しかない。
 
 ## 解説
 
@@ -161,6 +161,7 @@
   - [波の数だけ抱きしめて](../Page/波の数だけ抱きしめて.md "wikilink")
   - [FM89.3MHz](../Page/FM89.3MHz.md "wikilink")
   - [きみの声をとどけたい](https://ja.wikipedia.org/wiki/きみの声をとどけたい "wikilink")
+  - [ぼくらの瞬間](../Page/廣木隆一.md "wikilink")
 
 ## 脚注
 

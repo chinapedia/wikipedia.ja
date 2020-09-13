@@ -35,7 +35,7 @@
 
 ## 外部リンク
 
-  - [さくらんぼテレビ Live News](http://www.sakuranbo.co.jp/news/) - ニュース公式サイト
+  - [さくらんぼテレビ Live News](https://www.sakuranbo.co.jp/news/) - ニュース公式サイト
   - [Yahoo\!ニュース さくらんぼテレビ](https://news.yahoo.co.jp/media/sakuranbo)
 
 [Category:東北地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビのニュース・報道番組 "wikilink") [Category:さくらんぼテレビジョンの番組](https://ja.wikipedia.org/wiki/Category:さくらんぼテレビジョンの番組 "wikilink") [Category:東北地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビのミニ番組 "wikilink") [Category:1997年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1997年のテレビ番組_\(日本\) "wikilink") [Category:産経テレニュースFNN](https://ja.wikipedia.org/wiki/Category:産経テレニュースFNN "wikilink") [Category:FNNスピーク](https://ja.wikipedia.org/wiki/Category:FNNスピーク "wikilink") [Category:FNNレインボー発](https://ja.wikipedia.org/wiki/Category:FNNレインボー発 "wikilink")

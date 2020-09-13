@@ -348,7 +348,7 @@
 
 ## 外部リンク
 
-  - [インターネットラジオステーション＜音泉＞](http://www.onsen.ag/)
+  - [インターネットラジオステーション＜音泉＞](https://www.onsen.ag/)
   - [TVアニメ「ToHeart2」](https://www.wowowplus.co.jp/content/toheart2/)
   - [アクアプラス ToHeart2](https://aquaplus.jp/th2/)
   - [アクアプラス OVA ToHeart2](https://aquaplus.jp/th2v/)

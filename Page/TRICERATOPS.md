@@ -25,7 +25,9 @@
   - ほぼ全ての楽曲の作詞作曲を行っている。レコーディングでは楽曲に応じて[ピアノ](../Page/ピアノ.md "wikilink")や[キーボードもプレイする](../Page/キーボード_\(楽器\).md "wikilink")。無類のビンテージギター好きであり、一時はかなりの数のオールドギターを所有していたが、現在は「本当に必要なギターだけを手元に」「ギターは使ってあげてこそ」との思いから、その多くを手放したという。公式サイトでは現愛機のほとんどを本人の解説付きで公開している。
   - [エド・シーラン](https://ja.wikipedia.org/wiki/エド・シーラン "wikilink")等の活躍から影響を受け、2018年頃より[ルーパーを使った一人即興に興味を持ち自身だけの一人ライブを行ってもいる](https://ja.wikipedia.org/wiki/エフェクター#その他 "wikilink")。
   - 趣味は映画鑑賞、古いオーディオ、車の改造、洋服、インターネット・オークション等。
-  - 父は[イラストレーター](../Page/イラストレーター.md "wikilink")・[エッセイスト](https://ja.wikipedia.org/wiki/エッセイスト "wikilink")・[映画監督](../Page/映画監督.md "wikilink")の[和田誠](../Page/和田誠.md "wikilink")、母は[料理](../Page/料理.md "wikilink")[愛好家](https://ja.wikipedia.org/wiki/愛好家 "wikilink")の[平野レミ](../Page/平野レミ.md "wikilink")、妻は[女優の](../Page/俳優.md "wikilink")[上野樹里](https://ja.wikipedia.org/wiki/上野樹里 "wikilink")。義姉は[DJの](../Page/ディスクジョッキー.md "wikilink")[DJ SAORI](https://ja.wikipedia.org/wiki/DJ_SAORI "wikilink")（長姉）、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")の[上野まな](https://ja.wikipedia.org/wiki/上野まな "wikilink")（次姉）。弟の妻は[モデル](https://ja.wikipedia.org/wiki/モデル "wikilink")で[食育](https://ja.wikipedia.org/wiki/食育 "wikilink")[インストラクター](https://ja.wikipedia.org/wiki/インストラクター "wikilink")の[和田明日香](https://ja.wikipedia.org/wiki/和田明日香 "wikilink")。父方の祖父は[音響演出家の](../Page/音響監督.md "wikilink")[和田精](../Page/和田精.md "wikilink")、母方の祖父は[フランス文学者](https://ja.wikipedia.org/wiki/フランス文学者 "wikilink")の[平野威馬雄](../Page/平野威馬雄.md "wikilink")、母方の曾祖父は[日本美術史](../Page/日本美術史.md "wikilink")家・[法律家](https://ja.wikipedia.org/wiki/法律家 "wikilink")の[ヘンリイ・パイク・ブイ](https://ja.wikipedia.org/wiki/ヘンリイ・パイク・ブイ "wikilink")。
+  - 2017年からyoutubeチャンネル**[「\#和田唱自由研究」](https://www.youtube.com/channel/UCAxJE4YktdFBVuqUf1pqIWw/featured)**の配信を開始。
+  - 2018年から本格的にソロ活動を開始。10月24日にはファーストソロアルバム『[地球　東京　僕の部屋](https://ja.wikipedia.org/wiki/地球_東京_僕の部屋 "wikilink")』をリリース。
+  - 父は[イラストレーター](../Page/イラストレーター.md "wikilink")・[エッセイスト](https://ja.wikipedia.org/wiki/エッセイスト "wikilink")・[映画監督](../Page/映画監督.md "wikilink")の[和田誠](../Page/和田誠.md "wikilink")、母は[料理](../Page/料理.md "wikilink")[愛好家](https://ja.wikipedia.org/wiki/愛好家 "wikilink")の[平野レミ](../Page/平野レミ.md "wikilink")、妻は[女優の](../Page/俳優.md "wikilink")[上野樹里](https://ja.wikipedia.org/wiki/上野樹里 "wikilink")。義姉は[DJの](../Page/ディスクジョッキー.md "wikilink")[DJ SAORI](https://ja.wikipedia.org/wiki/DJ_SAORI "wikilink")（長姉）、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")の[上野まな](https://ja.wikipedia.org/wiki/上野まな "wikilink")（次姉）。弟の妻は[モデル](../Page/モデル.md "wikilink")で[食育](https://ja.wikipedia.org/wiki/食育 "wikilink")[インストラクター](https://ja.wikipedia.org/wiki/インストラクター "wikilink")の[和田明日香](https://ja.wikipedia.org/wiki/和田明日香 "wikilink")。父方の祖父は[音響演出家の](../Page/音響監督.md "wikilink")[和田精](../Page/和田精.md "wikilink")、母方の祖父は[フランス文学者](https://ja.wikipedia.org/wiki/フランス文学者 "wikilink")の[平野威馬雄](../Page/平野威馬雄.md "wikilink")、母方の曾祖父は[日本美術史](../Page/日本美術史.md "wikilink")家・[法律家](https://ja.wikipedia.org/wiki/法律家 "wikilink")の[ヘンリイ・パイク・ブイ](https://ja.wikipedia.org/wiki/ヘンリイ・パイク・ブイ "wikilink")。
 
 <!-- end list -->
 
@@ -54,7 +56,7 @@
 ## 音楽性
 
   - デビュー当初から「[ロックで踊る](../Page/ロック_\(音楽\).md "wikilink")」ということをテーマとして掲げており\[11\]、メンバーもブログやインタビューで度々その点に触れていることがある\[12\]\[13\]\[14\]。
-  - また、ブラックミュージックに多く見られる[リフ](../Page/リフ.md "wikilink")を多用しており、4つ打ち（バスドラムが4/4拍子の拍毎にアタックされるリズム）のディスコ的リズムを用いた楽曲が多いのも特徴。代表曲「Raspberry」「FEVER」「GROOVE WALK」「ROCK MUSIC」などでもそのリズムが用いられている。和田も、過去にライブのMCで「日本のロックには、"リフ"が圧倒的に少ない。俺たちはデビュー以来、そこにはずっとこだわり続けてる」という旨の発言をしていたことがある\[15\]。
+  - また、ブラックミュージックに多く見られる[リフ](../Page/リフ.md "wikilink")を多用しており、4つ打ち（バスドラムが4/4拍子の拍毎にアタックされるリズム）のディスコ的リズムを用いた楽曲が多いのも特徴。代表曲「Raspberry」「FEVER」「GROOVE WALK」「ROCK MUSIC」などでもそのリズムが用いられている。和田は「日本のロックには、"リフ"が圧倒的に少ない」とデビュー以来リフにはこだわり続けている\[15\]。
     『[MADE IN LOVE](https://ja.wikipedia.org/wiki/MADE_IN_LOVE "wikilink")』ではデジタルサウンドも導入している\[16\]。
   - 数曲の例外を除いて、バンドの全曲にコーラス（ハーモニー）が入っていることも特徴である\[17\]。和田もTRICERATOPSについて「世の中の3ピースバンドの中で恐らく一番ハーモニーを多用するバンド」だと述べ、「楽器の音数が少ないので余計（ハーモニーは）大事だと俺は考えてる」とも発言している\[18\]。
   - ソングライターある和田唱本人は「ロックバンド」と括った場合、圧倒的に[ブリティッシュ・ロック](https://ja.wikipedia.org/wiki/ブリティッシュ・ロック "wikilink")派であり、イギリスのロック・グループにフェイバリットを数多く挙げている。「アメリカのバンドは殆どがお洒落じゃない。(本人談)」 しかしこと「音楽」という括りで言えば大のアメリカ音楽ファンである。その趣味指向は40〜50年代の[ジャズ](../Page/ジャズ.md "wikilink")から[モータウン](../Page/モータウン.md "wikilink")等の[R\&Bに代表される黒人音楽を筆頭に](../Page/リズム・アンド・ブルース.md "wikilink")、白人が作った[ミュージカル](../Page/ミュージカル.md "wikilink")音楽や[ディズニー](https://ja.wikipedia.org/wiki/ディズニー "wikilink")まで幅広い。
@@ -325,10 +327,10 @@ TRICERATOPS with <a href="../Page/藤井フミヤ.md" title="wikilink">藤井フ
 ### 配信限定シングル
 
 1.  **LET'S DIVE\!**（2007年11月21日）
-      - 作詞・作曲：和田唱 編曲：TRICERATOPS
+      - 作詞・作曲：和田唱 / 編曲：TRICERATOPS
       - 現時点でまだCD化はされていない。
 2.  **シリンダーの中の夢**（2007年11月21日）
-      - 作詞・作曲：和田唱 編曲：TRICERATOPS
+      - 作詞・作曲：和田唱 / 編曲：TRICERATOPS
       - 後にアルバム「[MADE IN LOVE](https://ja.wikipedia.org/wiki/MADE_IN_LOVE "wikilink")」に収録された。ただし、アルバムに収録されたのは再録バージョンで、配信されたバージョンはCD化されていない。
 
 ### アルバム
@@ -450,7 +452,8 @@ NFCD-27126（通常盤）</p></td>
 <td><p>11th</p></td>
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/12月10日.md" title="wikilink">12月10日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/SONGS_FOR_THE_STARLIGHT" title="wikilink">SONGS FOR THE STARLIGHT</a></strong></p></td>
-<td><p>TTLC-1005</p></td>
+<td><p>TTLC-1005<br />
+TTLC-1006（特典CD）</p></td>
 <td></td>
 <td><p>25位</p></td>
 </tr>
@@ -624,21 +627,21 @@ ESBB-2014:DVD</p></td>
 <td><p><strong>TRICERATOPS GREATEST 1997-2001 LIVE HISTORY</strong></p></td>
 <td><p>ESBL-2099</p></td>
 <td><ol>
-<li>Raspberry(1997.06.12 club Raspberry at 原宿 CLUB DUG~2001.05.29 KING OF THE JUNGLE TOUR at 日本武道館)</li>
-<li>彼女のシニヨン(1997.10.20 TRICERATOPS 1st LIVE at ON AIR WEST)</li>
-<li>Two Chairs(1998.03.29 1st LIVE TOUR at 新宿 NISSIN POWER STATION)</li>
-<li>Star Jet(1998.07.14 SECOND LIVE TOUR at 赤坂BLITZ)</li>
-<li>復刻ジーンズ(1998.07.25 OPEN AIR LIVE at TOWER RECORDS タワーレコード渋谷店屋上)</li>
-<li>Mascara&amp;Mascaras(1998.10.28 GOTHIC RING TOUR at 赤坂BLITZ)</li>
-<li>Fever(1998.12.05 TRICERATOPS SPECIAL LIVE SHOW CASE introducing{THE GREAT SKELETON’S MUSIC GUIDE BOOK}at 代々木公園野外ステージ)</li>
-<li>Party(1999.02.14 THE GREAT SKELETON’S MUSIC GUIDE BOOK TOUR at 渋谷公会堂)</li>
-<li>Milk(1999.03.20 THE GREAT SKELETON’S MUSIC GUIDE BOOK TOUR FINAL at ZEPP Tokyo)</li>
-<li>Going To The Moon(1999.07.20 GOING TO THE MOON-EAST at TOKYO BAY NK HALL)</li>
-<li>Mirror(1999.11.23 A FILM ABOUT THE BLUES TOUR at ZEPP Fukuoka)</li>
-<li>Pretty Wings(1999.12.16 A FILM ABOUT THE BLUES TOUR at 日本武道館)</li>
-<li>ロケットに乗って(2000.08.19 DINOSAUR ROCK’N ROLL at 東京ビッグサイトオープンエアステージ)</li>
-<li>King Of The Jungle(2001.05.29 KING OF THE JUNGLE TOUR at 日本武道館)</li>
-<li>New World(2001.05.29 KING OF THE JUNGLE TOUR at 日本武道館)</li>
+<li>Raspberry（1997.06.12 club Raspberry at 原宿 CLUB DUG~2001.05.29 KING OF THE JUNGLE TOUR at 日本武道館）</li>
+<li>彼女のシニヨン (1997.10.20 TRICERATOPS 1st LIVE at ON AIR WEST)</li>
+<li>Two Chairs (1998.03.29 1st LIVE TOUR at 新宿 NISSIN POWER STATION)</li>
+<li>Star Jet（1998.07.14 SECOND LIVE TOUR at 赤坂BLITZ）</li>
+<li>復刻ジーンズ（1998.07.25 OPEN AIR LIVE at TOWER RECORDS タワーレコード渋谷店屋上）</li>
+<li>Mascara&amp;Mascaras（1998.10.28 GOTHIC RING TOUR at 赤坂BLITZ）</li>
+<li>Fever（1998.12.05 TRICERATOPS SPECIAL LIVE SHOW CASE introducing{THE GREAT SKELETON’S MUSIC GUIDE BOOK}at 代々木公園野外ステージ）</li>
+<li>Part（(1999.02.14 THE GREAT SKELETON’S MUSIC GUIDE BOOK TOUR at 渋谷公会堂）</li>
+<li>Milk (1999.03.20 THE GREAT SKELETON’S MUSIC GUIDE BOOK TOUR FINAL at ZEPP Tokyo)</li>
+<li>Going To The Moon (1999.07.20 GOING TO THE MOON-EAST at TOKYO BAY NK HALL)</li>
+<li>Mirror (1999.11.23 A FILM ABOUT THE BLUES TOUR at ZEPP Fukuoka)</li>
+<li>Pretty Wings（1999.12.16 A FILM ABOUT THE BLUES TOUR at 日本武道館）</li>
+<li>ロケットに乗って（2000.08.19 DINOSAUR ROCK’N ROLL at 東京ビッグサイトオープンエアステージ）</li>
+<li>King Of The Jungle（2001.05.29 KING OF THE JUNGLE TOUR at 日本武道館）</li>
+<li>New World（2001.05.29 KING OF THE JUNGLE TOUR at 日本武道館）</li>
 </ol></td>
 <td><p>オリコン最高100位</p></td>
 </tr>
@@ -646,7 +649,8 @@ ESBB-2014:DVD</p></td>
 <td><p>6th</p></td>
 <td><p>2006年1月25日<br />
 2008年11月19日</p></td>
-<td><p><strong>LIVE WARP！！！</strong></p></td>
+<td><p>'''LIVE WARP<nowiki></p></td>
+<td><p>!</nowiki>'''</p></td>
 <td><p>VIBL-316<br />
 VIBL-533</p></td>
 <td><ol>
@@ -662,11 +666,10 @@ VIBL-533</p></td>
 <li>Mirror</li>
 <li>Raspberry</li>
 <li>Jewel</li>
-<li>Rock Music ~ medley</li>
+<li>Rock Music ～ medley</li>
 <li>ロケットに乗って</li>
 <li>赤いゴーカート</li>
 </ol></td>
-<td><p>オリコン最高109位</p></td>
 </tr>
 <tr class="odd">
 <td><p>7th</p></td>
@@ -727,16 +730,16 @@ VIBL-534</p></td>
 <li>ACE</li>
 <li>2020</li>
 <li>オレンジライター</li>
-<li>HAPPY SADDY MOUNTAIN(with <a href="../Page/KAN.md" title="wikilink">KAN</a>)</li>
-<li>世界でいちばん好きな人(with KAN)</li>
-<li>シラフの月(with <a href="https://ja.wikipedia.org/wiki/山崎まさよし" title="wikilink">山崎まさよし</a>)</li>
-<li>セロリ(with 山崎まさよし)</li>
-<li>I GO WILD(with <a href="../Page/吉井和哉.md" title="wikilink">吉井和哉</a>)</li>
-<li>球根(with 吉井和哉)</li>
+<li>HAPPY SADDY MOUNTAIN (with <a href="../Page/KAN.md" title="wikilink">KAN</a>)</li>
+<li>世界でいちばん好きな人 (with KAN)</li>
+<li>シラフの月（with <a href="https://ja.wikipedia.org/wiki/山崎まさよし" title="wikilink">山崎まさよし</a>）</li>
+<li>セロリ（with 山崎まさよし）</li>
+<li>I GO WILD（with <a href="../Page/吉井和哉.md" title="wikilink">吉井和哉</a>）</li>
+<li>球根（with 吉井和哉）</li>
 <li>瞳はダイアモンド</li>
 <li>イケナイコトカイ</li>
 <li>言葉にできない</li>
-<li>FEVER(with <a href="../Page/小田和正.md" title="wikilink">小田和正</a>)</li>
+<li>FEVER（with <a href="../Page/小田和正.md" title="wikilink">小田和正</a>）</li>
 <li>ラブ・ストーリーは突然に</li>
 <li>ふたつの窓</li>
 <li>あのね Baby</li>
@@ -760,71 +763,66 @@ VIBL-534</p></td>
 
 ### 参加・楽曲提供作品
 
-  - [野宮真貴](../Page/野宮真貴.md "wikilink")「Lady Miss Warp」(2002年11月7日)
-      - 10.YOU ARE MY STAR（和田唱 作詞作曲・コーラス・TRICERATOPSによる演奏）
-  - [YOSUI TRIBUTE](../Page/YOSUI_TRIBUTE.md "wikilink")（2004年11月10日）
-      - 1.夢の中へ
-  - LONDON PUNK 1977 Tribute Album（2004年3月17日）
-      - 5.I'm so bored with the U.S.A
-  - [松たか子](https://ja.wikipedia.org/wiki/松たか子 "wikilink")「僕らがいた」（2006年4月26日）
-      - 2.水溜まりの向こう（和田唱 作詞作曲・コーラス・TRICERATOPSによる演奏）
-  - [松たか子](https://ja.wikipedia.org/wiki/松たか子 "wikilink")「Cherish You」（2007年4月25日）
-      - 3.惑星（和田唱 作詞作曲・コーラス・ギターソロ演奏）
-  - Radiohead Tribute-Master’s Collection-（2006年11月22日）
-      - 10.No Surprises
-  - [SPARKS GO GO](../Page/SPARKS_GO_GO.md "wikilink")「Good Fellas」（2007年9月5日）
-      - 1.ハートのショップ（和田唱 作詞作曲・ギター・バッキング・ボーカル）
-  - [ユニコーン・トリビュート](../Page/ユニコーン・トリビュート.md "wikilink")（2007年10月24日）
-      - 3.ヒゲとボイン
-  - [藤井フミヤ](../Page/藤井フミヤ.md "wikilink")「F's KITCHEN」（2008年10月8日）
-      - 6.キメゼリフ（和田唱 作詞作曲・コーラス・TRICERATOPSによる演奏）
-  - [藤井フミヤ](../Page/藤井フミヤ.md "wikilink")「F's シネマ」（2009年9月30日）
-      - 7.ネオン（和田唱 作詞作曲・ギター・ベース・コーラス）
-  - [THIS IS FOR YOU〜THE YELLOW MONKEY TRIBUTE ALBUM](https://ja.wikipedia.org/wiki/THIS_IS_FOR_YOU〜THE_YELLOW_MONKEY_TRIBUTE_ALBUM "wikilink")（2009年12月9日）
-      - Disc1-5.Jam
-  - [土岐麻子](https://ja.wikipedia.org/wiki/土岐麻子 "wikilink")「[乱反射ガール](https://ja.wikipedia.org/wiki/乱反射ガール "wikilink")」（2010年5月26日）
-      - 10.HUMAN NATURE（和田唱　デュエット・全演奏・編曲）
-      - 12.Perfect You（和田唱 作曲・編曲・ギター・ピアノ）
-  - [ゆず](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")「[2-NI-](https://ja.wikipedia.org/wiki/2-NI- "wikilink")」（2011年2月16日）
-      - 11.第九のベンさん（TRICERATOPS&ゆずによる演奏・コーラス）
+  - [野宮真貴](../Page/野宮真貴.md "wikilink")『Lady Miss Warp』（2002年11月7日）
+      - 10\. YOU ARE MY STAR（和田唱による作詞・作曲・コーラス、TRICERATOPSによる演奏）
+  - 『[YOSUI TRIBUTE](../Page/YOSUI_TRIBUTE.md "wikilink")』（2004年11月10日）
+      - 1\. 夢の中へ
+  - 『LONDON PUNK 1977 Tribute Album』（2004年3月17日）
+      - 5\. I'm so bored with the U.S.A
+  - [松たか子](https://ja.wikipedia.org/wiki/松たか子 "wikilink")『僕らがいた』（2006年4月26日）
+      - 2\. 水溜まりの向こう（和田唱による作詞・作曲・コーラス、TRICERATOPSによる演奏）
+  - [松たか子](https://ja.wikipedia.org/wiki/松たか子 "wikilink")『Cherish You』（2007年4月25日）
+      - 3\. 惑星（和田唱による作詞・作曲・コーラス・ギターソロ演奏）
+  - 『Radiohead Tribute-Master’s Collection-』（2006年11月22日）
+      - 10\. No Surprises
+  - [SPARKS GO GO](../Page/SPARKS_GO_GO.md "wikilink")『Good Fellas』（2007年9月5日）
+      - 1\. ハートのショップ（和田唱による作詞・作曲・ギター・バッキングボーカル）
+  - 『[ユニコーン・トリビュート](../Page/ユニコーン・トリビュート.md "wikilink")』（2007年10月24日）
+      - 3\. ヒゲとボイン
+  - [藤井フミヤ](../Page/藤井フミヤ.md "wikilink")『[F's KITCHEN](https://ja.wikipedia.org/wiki/F's_KITCHEN "wikilink")』（2008年10月8日）
+      - 6\. キメゼリフ（和田唱による作詞・作曲・コーラス、TRICERATOPSによる演奏）
+  - 藤井フミヤ『[F's シネマ](https://ja.wikipedia.org/wiki/F's_シネマ "wikilink")』（2009年9月30日）
+      - 7\. ネオン（和田唱による作詞・作曲・ギター・ベース・コーラス）
+  - 『[THIS IS FOR YOU ～THE YELLOW MONKEY TRIBUTE ALBUM～](https://ja.wikipedia.org/wiki/THIS_IS_FOR_YOU〜THE_YELLOW_MONKEY_TRIBUTE_ALBUM "wikilink")』（2009年12月9日）
+      - Disc1 - 5. Jam
+  - [土岐麻子](https://ja.wikipedia.org/wiki/土岐麻子 "wikilink")『[乱反射ガール](https://ja.wikipedia.org/wiki/乱反射ガール "wikilink")』（2010年5月26日）
+      - 10\. HUMAN NATURE（和田唱によるデュエット・全演奏・編曲）
+      - 12\. Perfect You（和田唱による作曲・編曲・ギター・ピアノ）
+  - [ゆず](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")『[2-NI-](https://ja.wikipedia.org/wiki/2-NI- "wikilink")』（2011年2月16日）
+      - 11\. 第九のベンさん（TRICERATOPS & ゆずによる演奏・コーラス）
   - [SCANDAL](https://ja.wikipedia.org/wiki/SCANDAL_\(日本のバンド\) "wikilink")「[ピンヒールサーファー](https://ja.wikipedia.org/wiki/ピンヒールサーファー "wikilink")」（2012年9月12日）
-      - 1.ピンヒールサーファー （和田唱 作詞作曲・編曲）
-  - [山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")「A NUDE」（2013年9月11日）
-      - 7.原始的じゃナイト 〜アナログ ラブ〜 （和田唱 作詞）
-  - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink") 「[SNOW DOMEの約束/Luv Sick](https://ja.wikipedia.org/wiki/SNOW_DOMEの約束/Luv_Sick "wikilink")」 (2013年11月13日)
-      - 1.SNOW DOMEの約束（和田唱 作詞）
-  - [SMAP](../Page/SMAP.md "wikilink") 「[Yes we are/ココカラ](https://ja.wikipedia.org/wiki/Yes_we_are/ココカラ "wikilink")」 (2014年4月9日)
-      - 2.ココカラ（和田唱 作詞作曲）※初回限定盤BにおいてはM-1.
-  - [スキマスイッチ](../Page/スキマスイッチ.md "wikilink") 「[re:Action](https://ja.wikipedia.org/wiki/re:Action "wikilink")」 (2017年2月15日)
-      - 5\.[マリンスノウ](../Page/マリンスノウ.md "wikilink") produced by TRICERATOPS（TRICERATOPSプロデュース）
-  - [May J.](https://ja.wikipedia.org/wiki/May_J. "wikilink") 「Best Of Duets」 (2017年3月29日)
-      - 3.Startin' Lovin' (with May J.) / TRICERATOPS
+      - 1\. ピンヒールサーファー（和田唱による作詞・作曲・編曲）
+  - [山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")『A NUDE』（2013年9月11日）
+      - 7\. 原始的じゃナイト 〜アナログ ラブ〜（和田唱による作詞）
+  - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")「[SNOW DOMEの約束/Luv Sick](https://ja.wikipedia.org/wiki/SNOW_DOMEの約束/Luv_Sick "wikilink")」（2013年11月13日）
+      - 1\. SNOW DOMEの約束（和田唱による作詞）※初回限定盤Bにおいては2曲目
+  - [SMAP](../Page/SMAP.md "wikilink")「[Yes we are/ココカラ](https://ja.wikipedia.org/wiki/Yes_we_are/ココカラ "wikilink")」（2014年4月9日）
+      - 2\. ココカラ（和田唱による作詞・作曲）※初回限定盤Bにおいては1曲目
+  - KAN『[6×9=53](../Page/6×9=53.md "wikilink")』（2016年2月3日）
+      - 2\. 胸の谷間（TRICERATOPSによる演奏）
+      - 6\. scene（吉田佳史によるドラム）
+      - 8\. 桜ナイトフィーバー ～Album Version～（和田唱によるギターソロ）
+  - [スキマスイッチ](../Page/スキマスイッチ.md "wikilink")『[re:Action](https://ja.wikipedia.org/wiki/re:Action "wikilink")』（2017年2月15日）
+      - 5\. [マリンスノウ](../Page/マリンスノウ.md "wikilink") produced by TRICERATOPS（TRICERATOPSによるプロデュース）
+  - [May J.](https://ja.wikipedia.org/wiki/May_J. "wikilink")『Best Of Duets』（2017年3月29日）
+      - 3\. Startin' Lovin' (with May J.) / TRICERATOPS
 
 ## 出演
-
-### コンサート
-
-  - [Dream Power ジョン・レノン スーパー・ライヴ](../Page/Dream_Power_ジョン・レノン_スーパー・ライヴ.md "wikilink") 2001（和田唱のみ）
-  - Dream Power ジョン・レノン スーパー・ライヴ 2004
-  - [寺岡呼人](../Page/寺岡呼人.md "wikilink")主催 The Golden Circle（和田唱のみ）
-      -
-        寺岡と[奥田民生](../Page/奥田民生.md "wikilink")による**寺田**復活ライヴにて、[フジファブリック](../Page/フジファブリック.md "wikilink")志村、[桜井和寿](../Page/桜井和寿.md "wikilink")とともにスポットゲスト出演。
-        最後の五人セッションでは[大阪で生まれた男](https://ja.wikipedia.org/wiki/大阪で生まれた男 "wikilink")の替え歌を披露し、渋谷区で生まれた男パートを弾き語る。
 
 ### ワンマンライブ・主催イベント
 
   - 1998年12月05日・06日 - TRICEATOPS SPECIAL LIVE SHOWCASE introducing THE GREAT SKELETON'S MUSIC GUIDE BOOK
   - 1999年01月15日〜03月20日 - THE GREAT SKELETON'S MUSIC GUIDE BOOKTOUR
   - 1999年10月10日〜10月20日 - SECOND COMING TOUR
-  - 1999年11月07日〜2000年02月20日 - TRICERATOPS"A FILM ABOUT THE BLUES" FINAL TOUR
+  - 1999年11月07日〜2000年02月20日 - TRICERATOPS "A FILM ABOUT THE BLUES" FINAL TOUR
   - 2001年03月20日〜07月30日 - KING OF THE JUNGLE TOUR
   - 2002年10月20日〜12月30日 - TRICERATOPS TOUR 2002 FROM DUSK TILL DAWN
   - 2003年06月24日〜08月04日 - NO BARRICADE TOUR
-  - 2004年02月25日〜05月10日 - LICKS\&ROCKS TOUR‘04
+  - 2004年02月25日〜05月10日 - LICKS & ROCKS TOUR '04
   - 2004年10月31日〜11月23日 - JEWEL TOUR
   - 2005年03月11日〜05月14日 - TRICERATOPS COME VOYAGE WITH US TOUR
   - 2005年11月12日〜11月28日 - TRICERATOPS RIDE TO WARP TOUR 2005
-  - 2006年04月01日〜05月28日 - TRICERATOPS SPRING TOUR‘06
+  - 2006年04月01日〜05月28日 - TRICERATOPS SPRING TOUR '06
   - 2006年11月09日〜12月22日 - TRICERATOPS LEVEL 32 TOUR
   - 2007年04月20日〜05月30日 - TRICERATOPS DON'T STOP THE NOISE TOUR
   - 2007年11月21日〜12月16日 - TRICERATOPS SHAKE YOUR HIP TOUR
@@ -842,7 +840,7 @@ VIBL-534</p></td>
   - 2010年11月11日〜12月12日 - WE ARE ONE TOUR 2010
   - 2011年04月11日〜04月12日 - DINOSAUR ROCK 'N ROLL 5 WE ARE ONE -CERTIFICATE-
       -
-        w/[BARBARS](https://ja.wikipedia.org/wiki/BARBARS "wikilink") / TRICERATOPS / [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink") / [May J.](https://ja.wikipedia.org/wiki/May_J. "wikilink") / 菅原卓郎 / 藤井フミヤ
+        w/[BARBARS](https://ja.wikipedia.org/wiki/BARBARS "wikilink") / [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink") / [May J.](https://ja.wikipedia.org/wiki/May_J. "wikilink") / 菅原卓郎 / 藤井フミヤ
   - 2011年07月15日〜08月21日 - TRICERATOPS SUMMER TOUR "MOD SURFER"
   - 2011年11月03日〜11月19日 - TRICERATOPS WINTER 2011
   - 2012年04月12日 - 連載・おとといミーティング TRICERATOPS "12-Bar" vol.8 大阪
@@ -850,18 +848,18 @@ VIBL-534</p></td>
         w/[吉井和哉](../Page/吉井和哉.md "wikilink")
   - 2012年06月02日〜07月21日 - TRICERATOPS 15TH ANNIVERSARY TOUR
       -
-        w/[UNISON SQUARE GARDEN](https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink")/[GRAPEVINE](../Page/GRAPEVINE.md "wikilink")/[SCANDAL](https://ja.wikipedia.org/wiki/SCANDAL_\(日本のバンド\) "wikilink")/[OKAMOTO'S](https://ja.wikipedia.org/wiki/OKAMOTO'S "wikilink")
+        w/[UNISON SQUARE GARDEN](https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink") / [GRAPEVINE](../Page/GRAPEVINE.md "wikilink") / [SCANDAL](https://ja.wikipedia.org/wiki/SCANDAL_\(日本のバンド\) "wikilink") / [OKAMOTO'S](https://ja.wikipedia.org/wiki/OKAMOTO'S "wikilink")
   - 2012年10月24日 - 連載・おとといミーティングTRICERATOPS"12-Bar" vol.12
       -
-        w/[仲井戸"CHABO"麗市](https://ja.wikipedia.org/wiki/仲井戸"CHABO"麗市 "wikilink")
+        w/[仲井戸 "CHABO" 麗市](../Page/仲井戸麗市.md "wikilink")
   - 2012年12月30日 - TRICERATOPS 15TH ANNIVERSARY TOUR アンコールライブ
   - 2013年01月26日 - TRICERATOPS 12-Bar"13"
   - 2013年06月21日〜07月30日 - TRICERATOPS 2013 SUMMER TOUR
-  - 2013年08月25日・09月21日 - [宮沢和史](../Page/宮沢和史.md "wikilink")\&TRICERATOPS TOUR2013 フーテンのミヤトラ
+  - 2013年08月25日・09月21日 - [宮沢和史](../Page/宮沢和史.md "wikilink") & TRICERATOPS TOUR 2013 フーテンのミヤトラ
   - 2013年11月01日〜12月01日 - WINTER TOUR 2013
   - 2014年04月11日〜04月12日 - TRICERATOPS presents DINOSAUR ROCK'N ROLL 6
       -
-        w/[桜井和寿](../Page/桜井和寿.md "wikilink")/GRAPEVINE
+        w/ GRAPEVINE / [桜井和寿](../Page/桜井和寿.md "wikilink")（シークレットゲスト）
   - 2014年05月24日〜07月21日 - TRICERATOPS TOUR 2014
   - 2014年11月01日〜12月30日 - TRICERATOPS WINTER TOUR 2014 「FOR THE STARLIGHTS」
   - 2015年05月24日〜06月07日 - "SONGS FOR THE STARLIGHT" リリースツアー第一弾
@@ -891,7 +889,10 @@ VIBL-534</p></td>
   - 2001年08月04日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2001
   - 2001年08月11日 - [J-WAVE LIVE](https://ja.wikipedia.org/wiki/J-WAVE_LIVE "wikilink") 2000+1
   - 2001年09月02日 - [RUSH BALL](../Page/RUSH_BALL.md "wikilink") 2001
+  - 2001年10月9日 - [Dream Power ジョン・レノン スーパー・ライヴ](../Page/Dream_Power_ジョン・レノン_スーパー・ライヴ.md "wikilink") 2001（和田のみ）
   - 2003年08月01日 - ROCK IN JAPAN FESTIVAL 2003
+  - 2003年11月17日 [Golden Circle Vol.5](../Page/Golden_Circle_\(イベント\).md "wikilink")（和田のみ）
+  - 2004年10月14日 - Dream Power ジョン・レノン スーパー・ライヴ 2004
   - 2004年12月29日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 04/05
   - 2006年04月30日 - [ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")06
   - 2006年10月06日 - MINAMI WHEEL 2006
@@ -923,41 +924,41 @@ VIBL-534</p></td>
   - 2010年03月03日・05日・07日 - [9mm Parabellum Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink") 命ノゼンマイ大巡業
   - 2010年03月20日 - ロックの学園2010 「体育館ライブ」
   - 2010年05月01日 - ARABAKI ROCK FEST.10
-  - 2010年05月05日 - 心響(HIBIKI) sound museum vol.1
+  - 2010年05月05日 - 心響 (HIBIKI) sound museum vol.1
   - 2010年05月18日 - ラッキーラクーンナイト5
   - 2010年07月31日 - [FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink") '10
   - 2010年08月08日 - ROCK IN JAPAN FESTIVAL 2010
   - 2010年08月22日 - [Sky Jamboree](https://ja.wikipedia.org/wiki/Sky_Jamboree "wikilink") 2010 〜愛〜
   - 2010年10月11日 - クロスランド@音楽博覧会2010～ホールで野外フェス～
-  - 2011年03月05日 - Yohito Teraoka Presents『OK\! C'MON CHABO\!\!\!』〜CHABO'S 60th Aniv.〜
+  - 2011年03月05日 - Yohito Teraoka Presents『OK\! C'MON CHABO\!\!\!』 〜CHABO'S 60th Aniv.〜
   - 2011年05月05日 - [JAPAN JAM](https://ja.wikipedia.org/wiki/JAPAN_JAM "wikilink") 2011
   - 2011年05月27日 - QUATTRO MIRAGE VOL.2 〜MORE ACTION, MORE HOPE.〜
   - 2011年08月06日 - ROCK IN JAPAN FESTIVAL 2011
-  - 2011年10月09日 - [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink") 家族 Fes. 2011
+  - 2011年10月09日 - HOME MADE 家族 家族 Fes. 2011
   - 2011年12月29日 - COUNTDOWN JAPAN 11/12
   - 2011年12月30日 - FM802 ROCK FESTIVAL [RADIO CRAZY](https://ja.wikipedia.org/wiki/RADIO_CRAZY "wikilink") 2011
   - 2012年03月24日 - 卒フェス2012 〜サクラサクトキトビラアク〜
   - 2012年05月05日 - JAPAN JAM 2012
   - 2012年05月13日 - TOKYO BOOTLEG CIRCUIT'12
   - 2012年08月04日 - ROCK IN JAPAN FESTIVAL 2012
-  - 2012年08月05日 - [ap bank](https://ja.wikipedia.org/wiki/ap_bank "wikilink") fes '12 Fund for Japan
+  - 2012年08月05日 - [ap bank fes '12 Fund for Japan](https://ja.wikipedia.org/wiki/ap_bank_fes_'12_Fund_for_Japan "wikilink")
   - 2012年08月09日 - 新木場サンセット 2012
   - 2012年11月08日・13日 - QUATTRO MIRAGE VOL.5
   - 2012年12月29日 - COUNTDOWN JAPAN 12/13
-  - 2013年01月13日 - [THE COLLECTORS](https://ja.wikipedia.org/wiki/THE_COLLECTORS "wikilink")"NEW YEAR CHAMPIONSHIP"
+  - 2013年01月13日 - [THE COLLECTORS](https://ja.wikipedia.org/wiki/THE_COLLECTORS "wikilink") "NEW YEAR CHAMPIONSHIP"
   - 2013年04月04日 - [FLiP](https://ja.wikipedia.org/wiki/FLiP "wikilink") Presents「RESPECT vol.5 TOUR」
   - 2013年05月31日 - SUNKING 3rd Anniversary SUNKING ON THE BLOCK LIVE\!\!\!
   - 2013年06月11日 - 貴ちゃんナイト vol.5 〜30th Anniversary Edition〜
   - 2013年08月12日・22日 - [Aqua Timez](https://ja.wikipedia.org/wiki/Aqua_Timez "wikilink") two timez one night tour 2013
-  - 2013年08月16日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2013 in EZO(「宮沢和史 & TRICERATOPS」として出演)
-  - 2013年08月24日 - MONSTER baSH 2013(「宮沢和史 & TRICERATOPS」として出演)
+  - 2013年08月16日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2013 in EZO（「宮沢和史 & TRICERATOPS」として出演）
+  - 2013年08月24日 - MONSTER baSH 2013（「宮沢和史 & TRICERATOPS」として出演）
   - 2013年09月22日 - [中津川 THE SOLAR BUDOKAN](https://ja.wikipedia.org/wiki/中津川_THE_SOLAR_BUDOKAN "wikilink") 2013
   - 2013年10月28日 - QUATTRO MIRAGE 2013年 〜TOUR MIRAGE VOL.1〜
   - 2013年12月31日 - COUNTDOWN JAPAN 13/14
   - 2014年02月17日 - THE SOLAR BUDOKAN 2014 IN SHIBUYA Vo.1 〜[シアターブルック](https://ja.wikipedia.org/wiki/シアターブルック "wikilink")×TRICERATOPS〜
-  - 2014年02月26日 - 『[音速ライン](../Page/音速ライン.md "wikilink")』×『LOFT』新宿5DAYS
+  - 2014年02月26日 - 『[音速ライン](../Page/音速ライン.md "wikilink")』 × 『LOFT』新宿5DAYS
   - 2014年04月26日 - ARABAKI ROCK FEST.14
-  - 2014年06月08日 - [百万石音楽祭〜ミリオンロックフェスティバル〜 2014](https://ja.wikipedia.org/wiki/百万石音楽祭〜ミリオンロックフェスティバル〜 "wikilink")
+  - 2014年06月08日 - [百万石音楽祭 〜ミリオンロックフェスティバル〜 2014](https://ja.wikipedia.org/wiki/百万石音楽祭〜ミリオンロックフェスティバル〜 "wikilink")
   - 2014年08月03日 - ROCK IN JAPAN FESTIVAL 2014
   - 2014年08月31日 - ホットフィールド2014
   - 2014年09月06日 - SUNKING ON THE BLOCK LIVE\!\!\!\! "SECOND COMING"『[NONA REEVES](https://ja.wikipedia.org/wiki/NONA_REEVES "wikilink") × TRICERATOPS』
@@ -967,20 +968,20 @@ VIBL-534</p></td>
   - 2014年10月10日 - 9mm Parabellum Bullet "Next Bullet Marks Tour 2014"
   - 2014年10月19日 - QUATTRO MIRAGE VOL.8 powered by TOWER RECORDS
   - 2014年12月27日 - FM802 ROCK FESTIVAL RADIO CRAZY 2014
-  - 2015年02月10日 - 連載・おとといミーティング〜"K"olors \#BLUE〜
+  - 2015年02月10日 - 連載・おとといミーティング 〜"K"olors \#BLUE〜
   - 2015年04月25日 - ARABAKI ROCK FEST.15
   - 2015年05月07日 - SHINJUKU LOFT 16th ANNIVERSARY PREMIUM LIVE SERIES 2015 THE DREAM MATCH \#4
   - 2015年07月11日 - 日本工学院ミュージックカレッジ presents OVERHEAT 2015 〜全世代のBPMはじめました〜
-  - 2015年07月20日 - NEGI FES〜[Negicco](https://ja.wikipedia.org/wiki/Negicco "wikilink") 12th Birthday〜
+  - 2015年07月20日 - NEGI FES 〜[Negicco](https://ja.wikipedia.org/wiki/Negicco "wikilink") 12th Birthday〜
   - 2015年08月08日 - ROCK IN JAPAN FESTIVAL 2015
   - 2015年08月13日 - J-WAVE ROCKS\!
   - 2015年08月23日 - [WORLD HAPPINESS](https://ja.wikipedia.org/wiki/WORLD_HAPPINESS "wikilink") 2015
   - 2015年09月05日 - [BAYCAMP](https://ja.wikipedia.org/wiki/BAYCAMP "wikilink") 2015
   - 2015年09月13日 - [New Acoustic Camp](https://ja.wikipedia.org/wiki/New_Acoustic_Camp "wikilink") 2015
   - 2015年09月27日 - 中津川 THE SOLAR BUDOKAN 2015
-  - 2016年02月05日 - シアターブルック×TRICERATOPS "朝日のあたる家"
+  - 2016年02月05日 - シアターブルック × TRICERATOPS ”朝日のあたる家”
   - 2016年02月19日 - [Czecho No Republic](https://ja.wikipedia.org/wiki/Czecho_No_Republic "wikilink") 東名阪QUATTRO 2マン【1 ON 1 TOUR】
-  - 2016年06月04日 - 百万石音楽祭 2016～ミリオンロックフェスティバル～
+  - 2016年06月04日 - 百万石音楽祭 2016 ～ミリオンロックフェスティバル～
   - 2016年06月25日 - OTOSATA ROCK FESTIVAL 2016
   - 2016年06月26日 - SHIBUYA CLUB QUATTRO presents Crazy Diamonds vol.2
   - 2016年07月16日 - 音楽の日
@@ -989,7 +990,7 @@ VIBL-534</p></td>
   - 2016年08月20日 - J-WAVE LIVE SUMMER JAM 2016
   - 2016年10月17日 - STVラジオ LIVEくれよん2016
   - 2017年03月25日 - Rocks ForChile
-  - 2017年04月14日 - [KAN](../Page/KAN.md "wikilink") 芸能生活29周年記念 特別感謝活動年 Final Regimental Live ロックンロールに拿捕(ダホ)されて
+  - 2017年04月14日 - [KAN](../Page/KAN.md "wikilink") 芸能生活29周年記念 特別感謝活動年 Final Regimental Live ロックンロールに拿捕（ダホ）されて
   - 2017年04月30日 - [スキマスイッチ](../Page/スキマスイッチ.md "wikilink") TOUR 2017 "re:Action"
 
 ## 関連項目
@@ -1022,7 +1023,7 @@ VIBL-534</p></td>
 
   - [吉田佳史のブログよしふみ](https://blog.excite.co.jp/tri-yoshi) - 吉田佳史の公式ブログ（2007年10月25日〜2011年3月3日）
 
-[Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
+[Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
 
 1.  [TRICERATOPS バイオグラフィ](http://www.barks.jp/artist/?id=52001883&m=bio) BARKS 2000年8月11日付
 2.

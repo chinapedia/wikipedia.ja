@@ -1,27 +1,21 @@
 > この記事は[ニューカッスル・ユナイテッドFC](https://ja.wikipedia.org/wiki/ニューカッスル・ユナイテッドFC)から翻訳されています。
 
 
-**ニューカッスル・ユナイテッド・フットボール・クラブ**（Newcastle United Football Club、<small>[イギリス英語](../Page/イギリス英語.md "wikilink")発音:</small> ）は、[イングランド](../Page/イングランド.md "wikilink")北東部・[タイン・アンド・ウィア州](https://ja.wikipedia.org/wiki/タインアンドウィア州 "wikilink")[ニューカッスル・アポン・タイン](../Page/ニューカッスル・アポン・タイン.md "wikilink")をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。クラブカラーは[白](../Page/白.md "wikilink")と[黒](https://ja.wikipedia.org/wiki/黒 "wikilink")。愛称は**マグパイズ**（Magpies、[カササギ](../Page/カササギ.md "wikilink")の意）。
+**ニューカッスル・ユナイテッド・フットボール・クラブ**（Newcastle United Football Club、<small>[イギリス英語](../Page/イギリス英語.md "wikilink")発音:</small> ）は、[イングランド](../Page/イングランド.md "wikilink")北東部・[タイン・アンド・ウィア州](https://ja.wikipedia.org/wiki/タインアンドウィア州 "wikilink")[ニューカッスル・アポン・タイン](../Page/ニューカッスル・アポン・タイン.md "wikilink")をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。愛称は**マグパイズ**（Magpies、[カササギ](../Page/カササギ.md "wikilink")の意）。
 
 ## 概要
 
-[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")で4回、[FAカップ](../Page/FAカップ.md "wikilink")で6回ものタイトルを獲得しているが、1955年以降は国内タイトルに縁がなく、プレミアリーグ移行後の優勝経験はない（最高位は2位）。
+[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")で4回、[FAカップ](../Page/FAカップ.md "wikilink")で6回のタイトルを獲得している。1955年以降は国内タイトルに縁がなく、[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")移行後の優勝経験はない（最高位は2位）。
 
-このチームの[サポーターは](https://ja.wikipedia.org/wiki/サポーター_\(サッカー\) "wikilink") “Toon Army”（toonはtownの意）と呼ばれ、伝統的に攻撃的なフットボールを愛することで知られる。この呼称はニューカッスルに住む人々の間で話される方言（ジョーディー弁）が town（タウン）を ”トゥーン” と発音することに由来する。クラブのレジェンドである[アラン・シアラー](../Page/アラン・シアラー.md "wikilink")はプレミアリーグの歴代最多得点記録を有しているが\[1\]、彼も根っからのジョーディーである。
+このチームの[サポーターは](https://ja.wikipedia.org/wiki/サポーター_\(サッカー\) "wikilink") “Toon Army”（toonはtownの意）と呼ばれ、伝統的に攻撃的なフットボールを愛することで知られる。呼称はニューカッスルに住む人々の間で話される方言（ジョーディー弁）が town を ”トゥーン” と発音することに由来する。クラブのレジェンドである[アラン・シアラー](../Page/アラン・シアラー.md "wikilink")はプレミアリーグの歴代最多得点記録を有しているが\[1\]、彼も根っからのジョーディーである。
 
-昔からのライバルは、[サンダーランドと](../Page/サンダーランドAFC.md "wikilink")[ミドルスブラ](https://ja.wikipedia.org/wiki/ミドルスブラFC "wikilink")。特に同じ[タイン・アンド・ウィア](../Page/タイン・アンド・ウィア.md "wikilink")州に本拠を置くサンダーランドとのダービーは「[タイン・ウェア・ダービー](../Page/タイン・ウェア・ダービー.md "wikilink")」として知られ、毎回乱闘寸前の激しい試合が行われる。ホームスタジアムは[セント・ジェームズ・パーク](../Page/セント・ジェームズ・パーク_\(ニューカッスル・アポン・タイン\).md "wikilink")（収容人数52,405人）。スタジアムは街の中心部、[ニューカッスル大学に隣接した小高い丘の上にあり](../Page/ニューカッスル大学_\(イングランド\).md "wikilink")、街のどこからでも見ることができる。現在のスポンサーは[オンラインカジノ](../Page/オンラインカジノ.md "wikilink")業者の[Fun88](https://ja.wikipedia.org/wiki/Fun88 "wikilink")。
+昔からのライバルは、[サンダーランドと](../Page/サンダーランドAFC.md "wikilink")[ミドルスブラ](https://ja.wikipedia.org/wiki/ミドルスブラFC "wikilink")。特に同じ[タイン・アンド・ウィア](../Page/タイン・アンド・ウィア.md "wikilink")州に本拠を置くサンダーランドとのダービーは**[タイン・ウェア・ダービー](../Page/タイン・ウェア・ダービー.md "wikilink")**として知られ、毎回乱闘寸前の激しい試合が行われる。ホームスタジアムの[セント・ジェームズ・パーク](../Page/セント・ジェームズ・パーク_\(ニューカッスル・アポン・タイン\).md "wikilink")（収容人数52,405人）は街の中心部、[ニューカッスル大学に隣接した小高い丘の上にあり](../Page/ニューカッスル大学_\(イングランド\).md "wikilink")、街のどこからでも見ることができる。
 
 ## 歴史
 
-### 創設
+この地域にはニューカッスル・イーストエンドFCとニューカッスル・ウェストエンドFCという2つのチームがあったが、1881年にウェストエンドが財政難に陥るとイーストエンドが買収し、1893年にニューカッスル・ユナイテッドが誕生した。現在のホームスタジアム[セント・ジェームス・パーク](https://ja.wikipedia.org/wiki/セント・ジェームス・パーク "wikilink")は吸収されたニューカッスル・ウェストエンドのかつてのホームグラウンドである。 [thumb決勝](https://ja.wikipedia.org/wiki/ファイル:FACupFinal1905NewcastleVilla.jpg "wikilink")\]\]1988-89シーズンにディビジョン2（当時の2部）に降格したことで、1992年の[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")創設メンバー入りを逃す。1992-93シーズンの[ディビジョン1](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")（2部）で優勝を果たし、1年遅れでプレミアリーグに参戦した。[ケヴィン・キーガン](https://ja.wikipedia.org/wiki/ケヴィン・キーガン "wikilink")監督のもとで1995-96、1996-97シーズンと2シーズン続けて2位に入るなど、1997年まで好成績を残したが、1997-98シーズンから4シーズン連続して二桁順位が続き、ほぼ1シーズンごとに監督が交代する悪循環に陥った\[2\]。
 
-かつて、この地域にはニューカッスル・イーストエンドFCとニューカッスル・ウェストエンドFCという2つのチームがあったが、1881年にウェストエンドが財政難に陥るとイーストエンドが買収し、1893年にニューカッスル・ユナイテッドが誕生した。ちなみに、現在のホームスタジアム[セント・ジェームス・パーク](https://ja.wikipedia.org/wiki/セント・ジェームス・パーク "wikilink")は吸収されたニューカッスル・ウェストエンドのかつてのホームグラウンドである。 [thumb決勝](https://ja.wikipedia.org/wiki/ファイル:FACupFinal1905NewcastleVilla.jpg "wikilink")\]\]
-
-### プレミアリーグ以降
-
-1988-89シーズンにディビジョン2（当時の2部）に降格したことで、1992年の[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")創設メンバー入りを逃す。1992-93シーズンの[ディビジョン1](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")（2部）で優勝を果たして、1年遅れでプレミアリーグに参戦した。その後は[ケヴィン・キーガン](https://ja.wikipedia.org/wiki/ケヴィン・キーガン "wikilink")監督のもとで1995-96、1996-97シーズンと2シーズン続けて2位に入るなど、1997年までは好成績を残したが、1997-98シーズンから4シーズン連続して二桁順位が続き、ほぼ1シーズンごとに監督が交代する悪循環に陥った\[2\]。
-
-2000年代前半は中位のやや上くらいが定位置となり、2003-04シーズンは5位で、2005-06シーズンは序盤低迷するも、[グレアム・スーネス](../Page/グレアム・スーネス.md "wikilink")監督更迭後に連勝街道を驀進し7位でシーズンを終えた。また[FAカップ](../Page/FAカップ.md "wikilink")ではベスト4の常連であった。2006年の[アラン・シアラー](../Page/アラン・シアラー.md "wikilink")引退後、[マイケル・オーウェン](../Page/マイケル・オーウェン.md "wikilink")を中心として攻撃陣を構築を試みたものの、2006-07シーズン以降は積極的な補強の甲斐なく残留争いに終始する。2008-09シーズンは18位に終わり、[チャンピオンシップ](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")（2部）降格が決定した。2009-10シーズンは[チャンピオンシップで優勝を果たし](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")、わずか1年でプレミアリーグ復帰を果たした。
+2000年代前半は中位の上くらいが定位置となり、2003-04シーズンは5位で、2005-06シーズンは序盤低迷するも、[グレアム・スーネス](../Page/グレアム・スーネス.md "wikilink")監督更迭後に連勝街道を驀進し7位でシーズンを終えた。[FAカップ](../Page/FAカップ.md "wikilink")ではベスト4の常連であった。2006年の[アラン・シアラー](../Page/アラン・シアラー.md "wikilink")引退後、[マイケル・オーウェン](../Page/マイケル・オーウェン.md "wikilink")を中心として攻撃陣を構築を試みたものの、2006-07シーズン以降は積極的な補強の甲斐なく残留争いに終始する。2008-09シーズンは18位に終わり、[チャンピオンシップ](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")（2部）降格が決定した。2009-10シーズンは[チャンピオンシップで優勝を果たし](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")、1年でプレミアリーグ復帰を果たした。
 
 2011-12シーズンは夏の移籍市場において[デンバ・バ](https://ja.wikipedia.org/wiki/デンバ・バ "wikilink")、[ヨアン・キャバイェ](https://ja.wikipedia.org/wiki/ヨアン・キャバイェ "wikilink")、[ガブリエル・オベルタン](https://ja.wikipedia.org/wiki/ガブリエル・オベルタン "wikilink")、[ダヴィデ・サントン](https://ja.wikipedia.org/wiki/ダヴィデ・サントン "wikilink")らを獲得した。冬の移籍市場では[パピス・シセ](https://ja.wikipedia.org/wiki/パピス・シセ "wikilink")を獲得した。リーグ戦では好調を維持し5位でシーズンを終え、[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")出場権を獲得した。
 
@@ -428,7 +422,7 @@
 <td><p>48</p></td>
 </tr>
 <tr class="even">
-<td><p>1999-2000</p></td>
+<td><p>1999-00</p></td>
 <td><p>プレミア</p></td>
 <td><p>38</p></td>
 <td><p>14</p></td>
@@ -629,6 +623,15 @@
 <td><p>2019-20</p></td>
 <td><p>プレミア</p></td>
 <td><p>38</p></td>
+<td><p>11</p></td>
+<td><p>11</p></td>
+<td><p>16</p></td>
+<td><p>38</p></td>
+</tr>
+<tr class="odd">
+<td><p>2020-21</p></td>
+<td><p>プレミア</p></td>
+<td><p>38</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -647,9 +650,9 @@
 
 </div>
 
-  - [2020年](../Page/2020年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")現在
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink")) ★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ireland.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Scotland.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Haiti.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Curacao.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Latvia.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Angola.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Greece.svg "wikilink")) ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Wales.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))  ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink")) ★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ireland.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Scotland.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Haiti.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Latvia.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Wales.svg "wikilink"))  ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Turkey.svg "wikilink"))      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))
 
 ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 

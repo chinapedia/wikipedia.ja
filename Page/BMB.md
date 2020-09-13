@@ -11,9 +11,11 @@
 
 業務用[通信カラオケ](../Page/通信カラオケ.md "wikilink")「**neon**」「**B-kara**」や次世代機の「**[UGA](../Page/UGA_\(カラオケ\).md "wikilink")**」が有名であった。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（[平成](../Page/平成.md "wikilink")22年）[1月20日](../Page/1月20日.md "wikilink")に親会社がUSENから同業者の[エクシング](../Page/エクシング.md "wikilink")へ異動し（[後述](https://ja.wikipedia.org/wiki/#親会社の異動 "wikilink")）、同年[7月1日](../Page/7月1日.md "wikilink")にエクシングに吸収合併され解散した\[2\]\[3\]\[4\]。
 
+この他、[セガ・ミュージック・ネットワークスの全株式の取得以来](https://ja.wikipedia.org/wiki/セガカラ "wikilink")、取得時現在ではまだマイナーであった「[ヒトカラ](../Page/ヒトカラ.md "wikilink")」の商標権を同社から譲受の上保有していた。
+
 ### 親会社の異動
 
-[2009年](../Page/2009年.md "wikilink")（平成21年）[9月30日](../Page/9月30日.md "wikilink")に、親会社のUSENが保有する同社株式を全て[ブラザー工業](https://ja.wikipedia.org/wiki/ブラザー工業 "wikilink")に売却することで基本合意したことが明らかになった\[5\]。同年2009年10月30日に、ブラザー工業の子会社[エクシング](../Page/エクシング.md "wikilink")が1円でBMBの全株式を取得し債務の230億円も引き継ぐ譲渡契約を締結\[6\]\[7\]\[8\]。[独占禁止法](../Page/独占禁止法.md "wikilink")に基づく[公正取引委員会](https://ja.wikipedia.org/wiki/公正取引委員会 "wikilink")の審査を経て、翌2010年（平成22年）1月20日にエクシングがBMBの全株式を取得した\[9\]\[10\]。買収当初は当分の間2社2ブランド体制を継続しUGAもBMBが運営する方針であったが、統合効果の早期実現を優先して、2010年（平成22年）[5月10日](../Page/5月10日.md "wikilink")に親会社のエクシングを存続会社とする合併契約を締結、同年7月1日付でBMBは解散した\[11\]\[12\]。これで新生エクシングは業務用通信カラオケ業界でJOYSOUNDとUGAを保有することになり、業界はエクシングと[第一興商](../Page/第一興商.md "wikilink")がほぼ100%のシェアを握る[複占](https://ja.wikipedia.org/wiki/複占 "wikilink")状態となった。なお株式を売却したUSENとは、合併後も当分の間業務取引関係を継続するが、旧BMBの子会社や各地事業所の統廃合等については、旧BMBやエクシング・ブラザー工業からの発表においては触れられていないものの、事業所の統廃合は行われたようである。
+[2009年](../Page/2009年.md "wikilink")（平成21年）[9月30日](../Page/9月30日.md "wikilink")に、親会社のUSENが保有する同社株式を全て[ブラザー工業](https://ja.wikipedia.org/wiki/ブラザー工業 "wikilink")に売却することで基本合意したことが明らかになった\[5\]。同年2009年10月30日に、ブラザー工業の子会社[エクシング](../Page/エクシング.md "wikilink")が1円でBMBの全株式を取得し債務の230億円も引き継ぐ譲渡契約を締結\[6\]\[7\]\[8\]。[独占禁止法](../Page/独占禁止法.md "wikilink")に基づく[公正取引委員会](https://ja.wikipedia.org/wiki/公正取引委員会 "wikilink")の審査を経て、翌2010年（平成22年）1月20日にエクシングがBMBの全株式を取得した\[9\]\[10\]。買収当初は当分の間2社2ブランド体制を継続しUGAもBMBが運営する方針であったが、統合効果の早期実現を優先して、2010年（平成22年）[5月10日](../Page/5月10日.md "wikilink")に親会社のエクシングを存続会社とする合併契約を締結、同年7月1日付でBMBは解散した\[11\]\[12\]。これで新生エクシングは業務用通信カラオケ業界でJOYSOUNDとUGAを保有することになり、業界はエクシングと[第一興商](../Page/第一興商.md "wikilink")がほぼ100%のシェアを握る[複占](../Page/複占.md "wikilink")状態となった。なお株式を売却したUSENとは、合併後も当分の間業務取引関係を継続するが、旧BMBの子会社や各地事業所の統廃合等については、旧BMBやエクシング・ブラザー工業からの発表においては触れられていないものの、事業所の統廃合は行われたようである。
 
 ## 沿革
 
@@ -51,7 +53,7 @@
   - 2007年[6月18日](../Page/6月18日.md "wikilink") - 株式会社CTAの株式約74%を創業者一族から取得し子会社化、通信カラオケ「NET」シリーズの権利を獲得。
   - 2007年[7月10日](../Page/7月10日.md "wikilink") - TOB成立。USENは議決権ベースで96.25%の株式を取得。
   - 2007年8月 - エンタテインメントテーブル「UGAパーティーステーション」を発売。
-  - 2007年[9月1日](../Page/9月1日.md "wikilink") - [セガ・ミュージック・ネットワークスの全株式をセガ](https://ja.wikipedia.org/wiki/セガカラ "wikilink")（現在の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）から取得し完全子会社化、通信カラオケ「Prologue21シリーズ（セガ接続）」と「CANDOONE（カンドーネ）」の権利を獲得。
+  - 2007年[9月1日](../Page/9月1日.md "wikilink") - [セガ・ミュージック・ネットワークスの全株式をセガ](https://ja.wikipedia.org/wiki/セガカラ "wikilink")（現在の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）から取得し完全子会社化、通信カラオケ「Prologue21シリーズ（セガ接続）」と「CANDOONE（カンドーネ）」の権利、「[ヒトカラ](../Page/ヒトカラ.md "wikilink")」の商標権を獲得。
   - 2007年[9月14日](../Page/9月14日.md "wikilink") - ジャスダック上場廃止。
   - 2007年[9月21日](../Page/9月21日.md "wikilink") - [株式交換](../Page/株式交換.md "wikilink")によってUSENの完全子会社となる。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")11月 - 「U+」の上位機種「**U→（uganext、ウガネクスト）**」発売。
@@ -71,13 +73,13 @@
 
 ## 外部リンク
 
-  - [株式会社BMB](http://web.archive.org/web/20100213104526/http://www.bmb.co.jp/) - 2010年2月13日のキャッシュ。
+  - [株式会社BMB](https://web.archive.org/web/20100213104526/http://www.bmb.co.jp/) - 2010年2月13日のキャッシュ。
   - [BMBインターナショナル（海外向け製品全般）](http://www.bmb.com/)
   - [美音美国際貿易（上海）有限公司（中国）](http://www.bmb.com.cn/)
 
 [Category:カラオケ](https://ja.wikipedia.org/wiki/Category:カラオケ "wikilink") [Category:かつて存在した東京都の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した東京都の企業 "wikilink") [Category:かつて存在した日本の卸売企業](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の卸売企業 "wikilink") [Category:エクシング](https://ja.wikipedia.org/wiki/Category:エクシング "wikilink") [Category:1962年設立の企業](https://ja.wikipedia.org/wiki/Category:1962年設立の企業 "wikilink") [Category:2010年廃止の企業](https://ja.wikipedia.org/wiki/Category:2010年廃止の企業 "wikilink")
 
-1.  インターナショナル及び中国のサイトを参照。
+1.  インターナショナル及び中国のサイトを参照。エクシングがBMBに合併された当時は「**B**est **M**usic **B**rand」の略であった。
 2.  （2010年5月10日・ブラザー工業）
 3.  （2010年5月10日・ブラザー工業）
 4.  [当社と株式会社BMBとの合併に関するお知らせ](http://www.xing.co.jp/news/archives/2458)（2010年5月10日・エクシング）

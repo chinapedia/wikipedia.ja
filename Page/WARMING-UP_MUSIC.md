@@ -9,11 +9,11 @@
 
 開局以来続いていた『[NACK5レポート](https://ja.wikipedia.org/wiki/NACK5レポート "wikilink")』の終了をうけ、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")4月より放送開始。首都圏FM局の中で同時間帯聴取率1位を獲得していた。
 
-キャッチフレーズは、「埼玉の朝、首都圏の朝は、この番組とともに始まる」。ニュース、音楽を中心に放送する。サッカーにまつわるコーナーが多く、[浦和レッズ専門コーナーが](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")2つ（HYPER RADIOでは1つ）存在する（ALL THE REDS…一般的なレッズ情報、HEARTBEAT REDS…レッズ選手・関係者のこぼれ話を紹介。ただしHYPER RADIOでは、ALL THE REDSのみである。）。
+キャッチフレーズは、「埼玉の朝、首都圏の朝は、この番組とともに始まる」で、ニュース、音楽を中心に放送。サッカーにまつわるコーナーが多く、[浦和レッズ専門コーナーが](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")2つ（HYPER RADIOでは1つ）存在した（ALL THE REDS…一般的なレッズ情報、HEARTBEAT REDS…レッズ選手・関係者のこぼれ話を紹介。ただしHYPER RADIOでは、ALL THE REDSのみである。）。
 
 2008年11月13日に、[さいたま市大宮公園サッカー場](../Page/さいたま市大宮公園サッカー場.md "wikilink")の名称が[ネーミングライツにより](https://ja.wikipedia.org/wiki/命名権 "wikilink")、「NACK5スタジアム大宮」になったが、それ以前は、浦和レッズと同じJ1[大宮アルディージャ](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")の話題は、あまり番組内で紹介されなかった。
 
-なお、大野は[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")や[相撲](../Page/相撲.md "wikilink")関係で取材に行く時が年に何回かあり、代理は元[文化放送](../Page/文化放送.md "wikilink")の[梶原しげる](../Page/梶原しげる.md "wikilink")、[矢野吉彦](https://ja.wikipedia.org/wiki/矢野吉彦 "wikilink")、フリーアナウンサーの[鵜飼一嘉](https://ja.wikipedia.org/wiki/鵜飼一嘉 "wikilink")等が対応する。2011年2月には落語家の[三遊亭鬼丸](https://ja.wikipedia.org/wiki/三遊亭鬼丸 "wikilink")やフリーアナウンサーの[加藤暁](../Page/加藤暁.md "wikilink")が、同年10月には加藤暁・[近藤祐司](../Page/近藤祐司.md "wikilink")・[新井麻希](https://ja.wikipedia.org/wiki/新井麻希 "wikilink")がそれぞれ対応した。また大野が夏休みなどで一週間放送を休む時は、[小笠原聖](../Page/小笠原聖.md "wikilink")や[上野智広](https://ja.wikipedia.org/wiki/上野智広 "wikilink")や[岡田眞善](../Page/岡田眞善.md "wikilink")や漫画家の[あらい太朗](https://ja.wikipedia.org/wiki/あらい太朗 "wikilink")などNACK5で番組を持っている他のパーソナリティが代理として出演する。
+なお、大野は[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")や[相撲](../Page/相撲.md "wikilink")関係で取材に行く時が年に何回かあり、代理は元[文化放送](../Page/文化放送.md "wikilink")の[梶原しげる](../Page/梶原しげる.md "wikilink")、[矢野吉彦](https://ja.wikipedia.org/wiki/矢野吉彦 "wikilink")、フリーアナウンサーの[鵜飼一嘉](https://ja.wikipedia.org/wiki/鵜飼一嘉 "wikilink")等が対応した。2011年2月には落語家の[三遊亭鬼丸](https://ja.wikipedia.org/wiki/三遊亭鬼丸 "wikilink")やフリーアナウンサーの[加藤暁](../Page/加藤暁.md "wikilink")が、同年10月には加藤暁・[近藤祐司](../Page/近藤祐司.md "wikilink")・[新井麻希](https://ja.wikipedia.org/wiki/新井麻希 "wikilink")がそれぞれ対応した。また大野が夏休みなどで一週間放送を休む時は、[小笠原聖](../Page/小笠原聖.md "wikilink")や[上野智広](https://ja.wikipedia.org/wiki/上野智広 "wikilink")や[岡田眞善](../Page/岡田眞善.md "wikilink")や漫画家の[あらい太朗](https://ja.wikipedia.org/wiki/あらい太朗 "wikilink")などNACK5で番組を持っている他のパーソナリティが代理として出演していた。
 
 [2007年](../Page/2007年.md "wikilink")4月より金曜日の放送がなくなり、月曜〜木曜の放送となったが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")に『大野勢太郎HYPER RADIO』が開始。これにより大野がパーソナリティを務めるワイド番組が実質月～金の帯放送として復活した。こちらについてはスポーツの話題もあるが、「ハイパー世論調査」と称して、リスナーから時事問題について意見を募るほか、話題の本や映画の情報・埼玉県内のドライブ情報など、幅広いジャンルのコーナーで構成されていた。
 
@@ -38,10 +38,14 @@
   - 6:00 オープニング
   - 6:01 NACK5 NEWS
   - 6:04 SPORTS HEADLINE
-      - スポーツニュースをまとめて伝える。
+
+　　ー スポーツニュースをまとめて伝える。
+
   - 6:10 お出かけ情報 & NACK5 TRAFFIC（九段センター）
-      - 天気予報と、鉄道・航空・道路の情報を伝える。
-  - 6:14 WARMING UP MUSIC [WEATHER INFORMATION](../Page/天気予報.md "wikilink")
+
+　　ー 天気予報と、鉄道・航空・道路の情報を伝える。
+
+  - 6:14 WARMING UP MUSIC WEATHER INFORMATION（ウェザーニューズ）
   - 6:18 TODAY'S FRONT PAGE
   - 6:30 NACK5特選市
 
@@ -50,29 +54,44 @@
   - 6:37 ROAD TO THE WORLD
   - 6:45 お出かけ情報 & NACK5 TRAFFIC（九段センター）
   - 6:48 お目覚めリクエスト
-      - リクエストコーナー。朝に聞きたい曲のリクエストを募集する。
+
+　　ー リクエストコーナー。朝に聞きたい曲のリクエストを募集する。
+
   - 6:53 ALL THE [REDS](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")（埼玉信用金庫提供）
-      - 浦和レッズに関する情報を紹介する。
+
+　　ー 浦和レッズに関する情報を紹介する。
+
   - 7:00 NACK5 NEWS
   - 7:04 NEWS PICK UP
-      - 大野が気になったニュースをピックアップして紹介する。
+
+　　ー 大野が気になったニュースをピックアップして紹介する。
+
   - 7:11 お出かけ情報 & NACK5 TRAFFIC（警視庁スタジオ）
   - 7:16 エコノモーニング
   - 7:26 SPORTS SHOT
   - 7:34 MAGAZINE EXPRESS
-      - その日に発売される週刊誌の記事をピックアップして紹介する。
+
+　　ー その日に発売される週刊誌の記事をピックアップして紹介する。
+
   - 7:45 お出かけ情報 & NACK5 TRAFFIC（埼玉センター）
   - 7:50 SPORTS A LA CARTE（埼玉トヨタ提供）
-      - あるスポーツ選手のエピソードを紹介する。
+
+　　ー あるスポーツ選手のエピソードを紹介する。
+
   - 8:00 NACK5 NEWS
   - 8:05 CATCH THE NUMBER
-      - ある数字から、注目されている世の中の動きを紹介する。
+
+　　ー ある数字から、注目されている世の中の動きを紹介する。
+
   - 8:11 お出かけ情報 & NACK5 TRAFFIC（埼玉センター）
   - 8:15 MORNING SQUARE
-      - 通常はリスナーからのメールを読みつつ、リクエスト曲をかけながら、[埼玉県](../Page/埼玉県.md "wikilink")からのお知らせを入れているが、[年末年始](../Page/年末年始.md "wikilink")、[GW](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")、[お盆](../Page/お盆.md "wikilink")期間中の1～2週間は埼玉県からのお知らせがお休みとなるため、 リクエスト曲が多めにかかることがある（原則は月曜～金曜だが、月曜だけ「埼玉県からのお知らせ」が入る場合は翌日の火曜～翌週月曜と1日ずつずれていく）。
-      - 埼玉県からのお知らせがある、毎月最初のコーナーは埼玉県広報誌「彩の国だより」内、[埼玉県知事](https://ja.wikipedia.org/wiki/埼玉県知事 "wikilink")[上田清司](../Page/上田清司.md "wikilink")のコラムが知事本人から朗読される。そのため、該当日はリクエスト曲は1曲しかかからない。
+
+　　ー 通常はリスナーからのメールを読みつつ、リクエスト曲をかけながら、[埼玉県](../Page/埼玉県.md "wikilink")からのお知らせを入れているが、[年末年始](../Page/年末年始.md "wikilink")、[GW](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")、[お盆](../Page/お盆.md "wikilink")期間中の1～2週間は埼玉県からのお知らせがお休みとなるため、 リクエスト曲が多めにかかることがある（原則は月曜～金曜だが、月曜だけ「埼玉県からのお知らせ」が入る場合は翌日の火曜～翌週月曜と1日ずつずれていく）。 　　ー 埼玉県からのお知らせがある、毎月最初のコーナーは埼玉県広報誌「彩の国だより」内、[埼玉県知事](https://ja.wikipedia.org/wiki/埼玉県知事 "wikilink")[上田清司](../Page/上田清司.md "wikilink")のコラムが知事本人から朗読される。そのため、該当日はリクエスト曲は1曲しかかからない。
+
   - 8:26 HEARTBEAT REDS
-      - レッズ選手のこぼれ話などを紹介する。
+
+　　ー レッズ選手のこぼれ話などを紹介する。
+
   - 8:30 お出かけ情報 & NACK5 TRAFFIC（埼玉センター）
   - 8:32 [宇都美慶子](../Page/宇都美慶子.md "wikilink")笑顔でSTART\!
   - 8:38 NACK5特選市

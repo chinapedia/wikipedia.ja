@@ -25,7 +25,7 @@
 
 父親が[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")、母親が[台湾人](../Page/台湾人.md "wikilink")のハーフ\[1\]。
 
-[語学](../Page/語学.md "wikilink")を趣味とし、[英語](../Page/英語.md "wikilink")、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")、[台湾語](../Page/台湾語.md "wikilink")（[ミンナン語](https://ja.wikipedia.org/wiki/ビン南語 "wikilink")）等を話す。2004年には[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")に短期の語学留学に行っている\[2\]。
+[語学](../Page/語学.md "wikilink")を趣味とし、[英語](../Page/英語.md "wikilink")、[中国語](../Page/中国語.md "wikilink")、[台湾語](../Page/台湾語.md "wikilink")（[閩南語](https://ja.wikipedia.org/wiki/閩南語 "wikilink")）等を話す。2004年には[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")に短期の語学留学に行っている\[2\]。
 
 [三浦康嗣](https://ja.wikipedia.org/wiki/三浦康嗣 "wikilink")（[□□□](../Page/□□□.md "wikilink")）\[3\]、[南波一海](https://ja.wikipedia.org/wiki/南波一海 "wikilink")（元□□□）\[4\]は高校時代の同級生である。
 
@@ -1497,7 +1497,7 @@ MY TAMORI THEORY 俺の・私のタモリ論『タモリのサングラスに映
   - [RAM RIDER ☆ (@ramrider)](https://www.instagram.com/ramrider/) - 本人公式Instagram
   - [オーディオギャラクシー](https://audiogalaxy.jp/) - RAM RIDERとYu Matsumotoのラジオ
 
-[Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:テクノミュージシャン](https://ja.wikipedia.org/wiki/Category:テクノミュージシャン "wikilink") [Category:ハウスミュージシャン](https://ja.wikipedia.org/wiki/Category:ハウスミュージシャン "wikilink") [Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:1978年生](https://ja.wikipedia.org/wiki/Category:1978年生 "wikilink") [Category:早稲田実業学校出身の人物](https://ja.wikipedia.org/wiki/Category:早稲田実業学校出身の人物 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:台湾系日本人](https://ja.wikipedia.org/wiki/Category:台湾系日本人 "wikilink")
+[Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:日本のテクノミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のテクノミュージシャン "wikilink") [Category:ハウスミュージシャン](https://ja.wikipedia.org/wiki/Category:ハウスミュージシャン "wikilink") [Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:1978年生](https://ja.wikipedia.org/wiki/Category:1978年生 "wikilink") [Category:早稲田実業学校出身の人物](https://ja.wikipedia.org/wiki/Category:早稲田実業学校出身の人物 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:台湾系日本人](https://ja.wikipedia.org/wiki/Category:台湾系日本人 "wikilink")
 
 1.
 2.  過去の本人個人サイト内ブログ

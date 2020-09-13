@@ -70,7 +70,7 @@
   - [山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")
   - [山口放送](../Page/山口放送.md "wikilink")
-  - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")
+  - [四国放送](../Page/四国放送.md "wikilink")
   - [RKB毎日放送](../Page/RKBラジオ.md "wikilink")☆
   - [大分放送](../Page/大分放送.md "wikilink")
   - [長崎放送](../Page/長崎放送.md "wikilink")

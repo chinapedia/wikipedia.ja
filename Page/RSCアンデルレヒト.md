@@ -1257,7 +1257,7 @@
 </tr>
 <tr class="even">
 <td><p>グループリーグ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オリンピック・リヨン" title="wikilink">リヨン</a></p></td>
+<td><p><a href="../Page/オリンピック・リヨン.md" title="wikilink">リヨン</a></p></td>
 <td><p>0-1, 1-0</p></td>
 <td></td>
 <td></td>
@@ -1457,7 +1457,7 @@
 </tr>
 <tr class="odd">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オリンピック・リヨン" title="wikilink">リヨン</a></p></td>
+<td><p><a href="../Page/オリンピック・リヨン.md" title="wikilink">リヨン</a></p></td>
 <td><p>1-5, 1-3</p></td>
 <td></td>
 <td></td>
@@ -1867,7 +1867,7 @@
 
 [350px](https://ja.wikipedia.org/wiki/ファイル:Soccer_Field_Transparant.svg "wikilink")
 
-  - 2020年2月1日現在
+  - 2020年8月26日現在
 
 ### ローン移籍選手
 
@@ -1913,8 +1913,11 @@
 
   - [フレット・ルッテン](https://ja.wikipedia.org/wiki/フレット・ルッテン "wikilink") 2019
 
-  - [サイモン・デイヴィス](https://ja.wikipedia.org/wiki/サイモン・デイヴィス_\(1974年生のサッカー選手\) "wikilink")
-     [ヴァンサン・コンパニ](../Page/ヴァンサン・コンパニ.md "wikilink") 2019-
+  - [ヴァンサン・コンパニ](../Page/ヴァンサン・コンパニ.md "wikilink") 2019-
+
+  - [サイモン・デイヴィス](https://ja.wikipedia.org/wiki/サイモン・デイヴィス_\(1974年生のサッカー選手\) "wikilink") 2019
+
+  - [フランキー・ベルコーテレン](https://ja.wikipedia.org/wiki/フランキー・ベルコーテレン "wikilink") 2019-2020
 
 ## 歴代主将
 
@@ -1972,7 +1975,7 @@
 
   - [アントニー・ヴァンデン・ボーレ](../Page/アントニー・ヴァンデン・ボーレ.md "wikilink") 2003-2007
 
-  - [ヴァンサン・コンパニ](../Page/ヴァンサン・コンパニ.md "wikilink") 2003-2006, 2019-
+  - [ヴァンサン・コンパニ](../Page/ヴァンサン・コンパニ.md "wikilink") 2003-2006, 2019-2020
 
   - [イェーレ・ファン・ダンメ](../Page/イェーレ・ファン・ダンメ.md "wikilink") 2006-2010
 

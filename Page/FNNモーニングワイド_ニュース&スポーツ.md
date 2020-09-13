@@ -191,7 +191,9 @@
 <td><p><a href="../Page/宮崎県.md" title="wikilink">宮崎県</a></p></td>
 <td><p><a href="../Page/テレビ宮崎.md" title="wikilink">テレビ宮崎</a> (UMK)</p></td>
 <td><p>FNN/<a href="https://ja.wikipedia.org/wiki/Nippon_News_Network" title="wikilink">NNN</a>/ANN</p></td>
-<td></td>
+<td><p>『<a href="../Page/UMKニュース.md" title="wikilink">UMKニュース</a>』に改題。<br />
+当時は6:40放送開始のため編成の都合で7:15から飛び乗り<br />
+（<a href="https://ja.wikipedia.org/wiki/国政選挙" title="wikilink">国政選挙</a>実施翌日などは全編放送）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
@@ -199,7 +201,7 @@
 <td><p>FNN</p></td>
 <td><p>前番組『FNNテレビ朝刊』のタイトルを継続。<br />
 当時は7:00放送開始のため編成の都合で7:15から飛び乗り<br />
-（<a href="https://ja.wikipedia.org/wiki/国政選挙" title="wikilink">国政選挙</a>実施翌日等は全編放送）　</p></td>
+（<a href="https://ja.wikipedia.org/wiki/国政選挙" title="wikilink">国政選挙</a>実施翌日などは全編放送）</p></td>
 </tr>
 </tbody>
 </table>

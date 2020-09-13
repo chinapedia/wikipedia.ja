@@ -1,9 +1,7 @@
 > この記事は[Lia](https://ja.wikipedia.org/wiki/Lia)から翻訳されています。
 
 
-**Lia**（リア）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性歌手](../Page/歌手.md "wikilink")。[東京都](../Page/東京都.md "wikilink")出身、現在は[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")在住\[1\]。
-
-所属事務所は1st PLACE。
+**Lia**（リア）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性歌手](../Page/歌手.md "wikilink")。[東京都](../Page/東京都.md "wikilink")出身、現在は[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")在住\[1\]。所属事務所は1st PLACE。
 
 ## 活動内容
 
@@ -225,10 +223,10 @@ MJMCD-04（通常盤）</p></td>
 
 ##### カバーアルバム
 
-|     | 発売日                                                                        | タイトル                                        | 規格品番      | 最高位 |
-| --- | -------------------------------------------------------------------------- | ------------------------------------------- | --------- | --- |
-| 1st | [2018年](../Page/2018年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")   | REVIVES -Lia Sings beautiful anime songs-   | LIAM-0001 | 94位 |
-| 2nd | [2019年](../Page/2019年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink") | REVIVESII -Lia Sings beautiful anime songs- | LIAM-1002 | 位   |
+|     | 発売日                                                                        | タイトル                                         | 規格品番      | 最高位 |
+| --- | -------------------------------------------------------------------------- | -------------------------------------------- | --------- | --- |
+| 1st | [2018年](../Page/2018年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")   | REVIVES -Lia Sings beautiful anime songs-    | LIAM-0001 | 94位 |
+| 2nd | [2019年](../Page/2019年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink") | REVIVES II -Lia Sings beautiful anime songs- | LIAM-1002 | 位   |
 
 #### アナログ盤
 
@@ -284,12 +282,12 @@ QLVD0001</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a>6月22日</p></td>
-<td><p>enigmaticLIA4-Anthemical Keyworlds-</p></td>
+<td><p>enigmatic LIA4 -Anthemical Keyworlds-</p></td>
 <td><p>QLC-00001</p></td>
 <td><p>53位</p></td>
 </tr>
 <tr class="odd">
-<td><p>enigmaticLIA4-Anthemnia L's core-</p></td>
+<td><p>enigmatic LIA4 -Anthemnia L's core-</p></td>
 <td><p>QLC-00002</p></td>
 <td><p>80位</p></td>
 <td></td>
@@ -346,7 +344,7 @@ QLVD0001</p></td>
 <tr class="even">
 <td><p>ALL AROUND</p></td>
 <td><p>テレビアニメ『頭文字D Fourth Stage』挿入歌<br />
-アーケードゲーム『頭文字D Arcade Stage4』挿入歌</p></td>
+アーケードゲーム『頭文字D Arcade Stage 4 / Extreme Stage』挿入歌</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -660,7 +658,7 @@ QLVD0001</p></td>
 
   -
   -
-[Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:ゲーム音楽家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽家 "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:Key_Sounds_Label](https://ja.wikipedia.org/wiki/Category:Key_Sounds_Label "wikilink") [Category:バークリー音楽大学出身の人物](https://ja.wikipedia.org/wiki/Category:バークリー音楽大学出身の人物 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:在中日本人](https://ja.wikipedia.org/wiki/Category:在中日本人 "wikilink")
+[Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:ゲーム音楽家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽家 "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:Keyの人物](https://ja.wikipedia.org/wiki/Category:Keyの人物 "wikilink") [Category:バークリー音楽大学出身の人物](https://ja.wikipedia.org/wiki/Category:バークリー音楽大学出身の人物 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:在中日本人](https://ja.wikipedia.org/wiki/Category:在中日本人 "wikilink")
 
 1.  【Lia & IA】「A Special Night」 Lia & IA Live in Hong Kong 2016
 2.  Lia's cafeメールマガジン号外 2008年10月11日付 また、ボーカロイド『IA』の声優でもある。

@@ -482,7 +482,7 @@
   - [frequency-e | 〜 eufonius official site 〜](http://www.eufonius.net/)
 
   -
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:ゲーム音楽家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽家 "wikilink") [Category:スターチャイルドのアーティスト](https://ja.wikipedia.org/wiki/Category:スターチャイルドのアーティスト "wikilink") [Category:ランティスのアーティスト](https://ja.wikipedia.org/wiki/Category:ランティスのアーティスト "wikilink") [Category:同人音楽サークル](https://ja.wikipedia.org/wiki/Category:同人音楽サークル "wikilink") [Category:ゲーム音楽グループ](https://ja.wikipedia.org/wiki/Category:ゲーム音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:ゲーム音楽家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽家 "wikilink") [Category:スターチャイルドのアーティスト](https://ja.wikipedia.org/wiki/Category:スターチャイルドのアーティスト "wikilink") [Category:ランティスのアーティスト](https://ja.wikipedia.org/wiki/Category:ランティスのアーティスト "wikilink") [Category:同人音楽サークル](https://ja.wikipedia.org/wiki/Category:同人音楽サークル "wikilink") [Category:ゲーム音楽グループ](https://ja.wikipedia.org/wiki/Category:ゲーム音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink")
 
 1.
 2.  2011年8月13日のコミックマーケット80、2日目に先行販売された。

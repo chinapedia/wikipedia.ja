@@ -61,4 +61,4 @@
 
 ## 脚注
 
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:オスカープロモーション所属者のグループ](https://ja.wikipedia.org/wiki/Category:オスカープロモーション所属者のグループ "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:オスカープロモーション所属者のグループ](https://ja.wikipedia.org/wiki/Category:オスカープロモーション所属者のグループ "wikilink")

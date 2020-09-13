@@ -71,7 +71,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>★たそがれ葬儀屋探偵の災難</p></td>
+<td><p>★<a href="../Page/どうぞ安らかに.md" title="wikilink">たそがれ葬儀屋探偵の災難</a></p></td>
 <td><p>2005/12/20</p></td>
 <td><p>8.3%</p></td>
 <td></td>
@@ -458,7 +458,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a> (JRT)</p></td>
+<td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a> (JRT)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -542,6 +542,6 @@
 
 ## 外部リンク
 
-  - [DRAMA COMPLEX](http://www.ntv.co.jp/d-complex/)
+  - [DRAMA COMPLEX](https://www.ntv.co.jp/d-complex/)
 
 [Category:DRAMA_COMPLEX](https://ja.wikipedia.org/wiki/Category:DRAMA_COMPLEX "wikilink")

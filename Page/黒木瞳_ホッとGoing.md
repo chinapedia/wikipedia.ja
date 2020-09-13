@@ -73,16 +73,16 @@
   - [京都放送](../Page/京都放送.md "wikilink") 17:30 - 17:35
       - [KBS滋賀](../Page/KBS滋賀.md "wikilink") 17:30 - 17:35
   - [和歌山放送](../Page/和歌山放送.md "wikilink") 18:15 - 18:20
-  - [朝日放送](https://ja.wikipedia.org/wiki/ABCラジオ "wikilink") 15:26 - 15:30
-  - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink") 17:56 - 18:00
+  - [朝日放送](../Page/朝日放送ラジオ.md "wikilink") 15:26 - 15:30
+  - [山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink") 17:56 - 18:00
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink") 16:30 - 16:35
   - [中国放送](../Page/中国放送.md "wikilink") 16:55 - 17:00（月曜のみ[道盛浩のバリシャキNOW](https://ja.wikipedia.org/wiki/道盛浩のバリシャキNOW "wikilink")内）
   - [山口放送](../Page/山口放送.md "wikilink") 16:20 - 16:25
-  - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") 16:00 - 16:05
-  - [西日本放送](../Page/西日本放送.md "wikilink") 16:15 - 16:20
+  - [四国放送](../Page/四国放送.md "wikilink") 16:00 - 16:05
+  - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink") 16:15 - 16:20
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink") 16:10 - 16:15（[本気(まじ)?ラジ\!](https://ja.wikipedia.org/wiki/本気\(まじ\)?ラジ! "wikilink")内）
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink") 16:30 - 16:35
-  - [九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink") 16:50 - 16:55（[栗田善成のまずはラジオでおつかれさん](../Page/栗田善成のまずはラジオでおつかれさん.md "wikilink")内）
+  - [九州朝日放送](../Page/KBCラジオ.md "wikilink") 16:50 - 16:55（[栗田善成のまずはラジオでおつかれさん](../Page/栗田善成のまずはラジオでおつかれさん.md "wikilink")内）
   - [長崎放送](../Page/長崎放送.md "wikilink") 16:00 - 16:05
       - [NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink") 16:00 - 16:05
   - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink") 16:30 - 16:35

@@ -1,19 +1,19 @@
 > この記事は[PSYCHOPATH](https://ja.wikipedia.org/wiki/PSYCHOPATH)から翻訳されています。
 
 
-『**PSYCHOPATH**』（サイコパス）は、[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の6枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。
+『**PSYCHOPATH**』（サイコパス）は、[BOØWY](../Page/BOØWY.md "wikilink")の6枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 背景
 
-全国ツアー『[ROCK'N'ROLL CIRCUS TOUR](../Page/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24.md "wikilink")』が終了した後、メンバーはオフ期間に入り、その期間中にアルバムからのシングルカットとして「[ONLY YOU](../Page/ONLY_YOU_\(BOOWYの曲\).md "wikilink")」をリリースする。
+全国ツアー『[ROCK'N'ROLL CIRCUS TOUR](../Page/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24.md "wikilink")』が終了した後、メンバーはオフ期間に入り、その期間中にアルバムからのシングルカットとして「[ONLY YOU](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOØWYの曲\) "wikilink")」をリリースする。
 
 既に音楽的にも商業的にも成功を収めたBOØWYは、このアルバムが発売された1987年は解散に向けて活動していくようになる。既にメンバー間や一部スタッフの間では解散は決定事項となっていたが、外部には一切知られていない状態であった。
 
 そんな中、レコーディング・ディレクターであった子安次郎はプロデューサーである[糟谷銑司](https://ja.wikipedia.org/wiki/糟谷銑司 "wikilink")と共に、休養として[ロンドン](../Page/ロンドン.md "wikilink")に滞在中だった[氷室京介](../Page/氷室京介.md "wikilink")の元へ行き、1枚だけ新しいアルバムを制作する約束を取り付ける\[1\]。こうして、本作のレコーディングはスタートした。
 
-7月には完全な新曲としてシングル「[MARIONETTE](../Page/Marionette_\(BOOWYの曲\).md "wikilink")」をリリース。これまでシングルでの1位獲得作品はなかったが、ラブソング中心であった当時のヒットチャートでは異例の売上1位を獲得する。
+7月には完全な新曲としてシングル「[MARIONETTE](../Page/Marionette_\(BOØWYの曲\).md "wikilink")」をリリース。これまでシングルでの1位獲得作品はなかったが、ラブソング中心であった当時のヒットチャートでは異例の売上1位を獲得する。
 
-その後、[神戸と](../Page/神戸市.md "wikilink")[横浜でデビュー以来のほぼ全ての楽曲を演奏するという](../Page/横浜市.md "wikilink")4時間にも渡るライブ『[CASE OF BOØWY](https://ja.wikipedia.org/wiki/“GIGS”CASE_OF_BOØWY "wikilink")』を成し遂げるなど、その人気はさらに上昇し続けていた。
+その後、[神戸と](../Page/神戸市.md "wikilink")[横浜でデビュー以来のほぼ全ての楽曲を演奏するという](../Page/横浜市.md "wikilink")4時間にも渡るライブ『[CASE OF BOØWY](https://ja.wikipedia.org/wiki/“GIGS”_CASE_OF_BOØWY "wikilink")』を成し遂げるなど、その人気はさらに上昇し続けていた。
 
 アルバムタイトルの「PSYCHOPATH」とは英語で「精神異常者」と言う意味だが、表現上問題があるために、発売当初は「イカれた奴」「プッツン野郎」と言う意味だとインタビューなどで説明されていた。
 
@@ -73,7 +73,7 @@ ZH28-1900</p></td>
 <td><p>CD</p></td>
 <td><p>TOCT-6396</p></td>
 <td><p>2位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CD-BOX" title="wikilink">CD-BOX</a>『<a href="../Page/BOOWY_COMPLETE.md" title="wikilink">BOØWY COMPLETE</a> LIMITED EDITION』収録</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/CD-BOX" title="wikilink">CD-BOX</a>『<a href="../Page/BOØWY_COMPLETE.md" title="wikilink">BOØWY COMPLETE</a> LIMITED EDITION』収録</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -184,7 +184,7 @@ LP盤のレーベルを再現</p></td>
     <!-- end list -->
       -
         ライブ録音の音源のように聞こえるが、実際はスタジオで録音されている。遊び心で作られた演出である。
-6.  **[MARIONETTE](../Page/Marionette_\(BOOWYの曲\).md "wikilink")** (3:50)
+6.  **[MARIONETTE](../Page/Marionette_\(BOØWYの曲\).md "wikilink")** (3:50)
       - 作詞：氷室京介 / 作曲・編曲：布袋寅泰
     <!-- end list -->
       -
@@ -224,7 +224,7 @@ LP盤のレーベルを再現</p></td>
     <!-- end list -->
 
       -
-        ベストアルバム『[THIS BOØWY](../Page/THIS_BOOWY.md "wikilink")』リリース時にはこの曲をベースにした[PVが作られた](../Page/ミュージック・ビデオ.md "wikilink")。
+        ベストアルバム『[THIS BOØWY](https://ja.wikipedia.org/wiki/THIS_BOØWY "wikilink")』リリース時にはこの曲をベースにした[PVが作られた](../Page/ミュージック・ビデオ.md "wikilink")。
 
 6.  **[季節が君だけを変える](../Page/季節が君だけを変える.md "wikilink")** (4:40)
 

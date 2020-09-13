@@ -1,7 +1,7 @@
 > この記事は[HAPPY! \(アルバム\)](https://ja.wikipedia.org/wiki/HAPPY!_\(アルバム\))から翻訳されています。
 
 
-『**HAPPY\!**』（ハッピー）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[6月24日](../Page/6月24日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
+『**HAPPY\!**』（ハッピー）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[6月24日](../Page/6月24日.md "wikilink")にCDで発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
 
 期間限定商品のため、現在は廃盤作品となる\[1\]。
 

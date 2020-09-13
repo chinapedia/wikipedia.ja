@@ -13,7 +13,7 @@
 
 ハワイ州最大の都市であるホノルル、[真珠湾](../Page/真珠湾.md "wikilink")の南東に位置するハワイ州最大の国際空港で、オアフ島のみならずハワイの空の玄関口である。
 
-アメリカとアジアを結ぶ太平洋航空路の結節点に位置することから、アメリカの航空会社がアメリカ本土や[アラスカ州](../Page/アラスカ州.md "wikilink")、[アメリカ領サモア](../Page/アメリカ領サモア.md "wikilink")などとの間の定期便を運航し、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[大韓民国](../Page/大韓民国.md "wikilink")、[フィジー](../Page/フィジー.md "wikilink")、[タヒチ](https://ja.wikipedia.org/wiki/タヒチ "wikilink")、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[オーストラリア](../Page/オーストラリア.md "wikilink")、[ニュージーランド](../Page/ニュージーランド.md "wikilink")など環[太平洋](../Page/太平洋.md "wikilink")地域各国の[航空会社](../Page/航空会社.md "wikilink")も多く乗り入れる太平洋地域の[ハブ空港](../Page/ハブ空港.md "wikilink")的存在である。オアフ島に隣接する[ハワイ諸島](../Page/ハワイ諸島.md "wikilink")へのハブ空港にもなっている。
+アメリカとアジアを結ぶ太平洋航空路の結節点に位置することから、アメリカの航空会社がアメリカ本土や[アラスカ州](../Page/アラスカ州.md "wikilink")、[アメリカ領サモア](../Page/アメリカ領サモア.md "wikilink")などとの間の定期便を運航し、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[台湾](../Page/中華民国.md "wikilink")、[フィジー](../Page/フィジー.md "wikilink")、[タヒチ](https://ja.wikipedia.org/wiki/タヒチ "wikilink")、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[オーストラリア](../Page/オーストラリア.md "wikilink")、[ニュージーランド](../Page/ニュージーランド.md "wikilink")など環[太平洋](../Page/太平洋.md "wikilink")地域各国の[航空会社](../Page/航空会社.md "wikilink")も多く乗り入れる太平洋地域の[ハブ空港](../Page/ハブ空港.md "wikilink")的存在である。オアフ島に隣接する[ハワイ諸島](../Page/ハワイ諸島.md "wikilink")へのハブ空港にもなっている。
 
 ### 24時間空港
 
@@ -41,8 +41,6 @@
 
 2018年6月から搭乗口ゲート番号表記が変更になり、「コミューター・ターミナル」跡地にハワイアン航空専用として新設予定のマウカ・コンコース（ゲートA1 - A12）は将来使用予定で未使用とし、「インター・アイランド・ターミナル」（ゲート49 - 61）が「ターミナル1」で（ゲートA13 - A20）と（ゲートB1 - B5）、「メイン・ターミナル」は「ターミナル2」でエヴァ･コンコース（ゲート26 - 34）が（ゲートC1 - C9）、セントラル･コンコース（ゲート14 - 23）が（ゲートE1 - E10）、ダイヤモンドヘッド･コンコース（ゲート6 - 11）が（ゲートG1 - G6）、各コンコースに無いゲート12､13､24､25がそれぞれゲートF2､F1､D1､D2と割り振り変更された\[6\]。
 
-メインターミナルのエヴァ･コンコースのゲート29 (C4)、34 (C9) は[エアバスA380](../Page/エアバスA380.md "wikilink")に対応している。2019年5月24日から、[ANAがA](../Page/全日本空輸.md "wikilink")380の就航を開始して供用開始となった\[7\]。
-
 貨物機専用ターミナルは5か所の貨物エリア内に、航空会社所有と州所有の9つのターミナルビルが置かれている。各ターミナルは出発カウンターや連絡通路などの空港内の公共スペースの多くがオープンエアとなっている。
 
 ### 主な施設
@@ -52,7 +50,7 @@
   - 免税店 : メイン・ターミナル内の制限エリア内は、[DFSグループ](../Page/DFSグループ.md "wikilink")による[免税店](../Page/免税店.md "wikilink")が複数設けられているほか、「[エルメス](../Page/エルメス.md "wikilink")」などの高級[ブランド](../Page/ブランド.md "wikilink")の[ブティック](https://ja.wikipedia.org/wiki/ブティック "wikilink")も設けられている。
   - レンタカー : 空港敷地内は「ハーツ」や「エイビス」、「ダラー」、「ナショナル」、「スリフティ」、「アラモ」などの大手[レンタカー](../Page/レンタカー.md "wikilink")会社のオフィスが設けられており、各レンタカー会社により、出発着口から各レンタカー会社までの巡回バスが運行されている。
   - 駐車場 : 各ターミナルに接続した大規模な[駐車場](../Page/駐車場.md "wikilink")が設けられている。
-  - その他 : ビジネスセンター、[ATM](../Page/現金自動預け払い機.md "wikilink")、両替所などがある。 保安上の観点から、[コインロッカー](https://ja.wikipedia.org/wiki/コインロッカー "wikilink")は設けられていない他、空港敷地内に[ホテル](../Page/ホテル.md "wikilink")はない。
+  - その他 : [サクララウンジ](https://ja.wikipedia.org/wiki/サクララウンジ "wikilink")などのラウンジ、ビジネスセンター、[ATM](../Page/現金自動預け払い機.md "wikilink")、両替所などがある。 保安上の観点から、[コインロッカー](https://ja.wikipedia.org/wiki/コインロッカー "wikilink")は設けられていない他、空港敷地内に[ホテル](../Page/ホテル.md "wikilink")はない。
 
 ## 就航路線と航空会社
 
@@ -75,7 +73,7 @@
 <tr class="odd">
 <td><p><a href="../Page/ハワイアン航空.md" title="wikilink">ハワイアン航空</a></p></td>
 <td><p><strong>ハワイ諸島:</strong> <a href="../Page/ヒロ国際空港.md" title="wikilink">ヒロ</a>、<a href="../Page/カフルイ空港.md" title="wikilink">カフルイ</a>、カパルア、<a href="../Page/コナ国際空港.md" title="wikilink">コナ</a>、<a href="https://ja.wikipedia.org/wiki/:en:Lanai_Airport" title="wikilink">ラナイ</a>、<a href="https://ja.wikipedia.org/wiki/リフエ空港" title="wikilink">リフエ</a>、モロカイ<br />
-<strong>アメリカ本土:</strong> <a href="../Page/マッカラン国際空港.md" title="wikilink">ラスベガス</a>、<a href="../Page/ロサンゼルス国際空港.md" title="wikilink">ロサンゼルス</a>、<a href="../Page/ジョン・F・ケネディ国際空港.md" title="wikilink">ニューヨーク/ジョン・F・ケネディ</a>、<a href="../Page/オークランド国際空港_(カリフォルニア州).md" title="wikilink">オークランド</a>、<a href="../Page/ロングビーチ空港.md" title="wikilink">ロングビーチ</a>、<a href="../Page/フェニックス・スカイハーバー国際空港.md" title="wikilink">フェニックス</a>、<a href="../Page/ポートランド国際空港.md" title="wikilink">ポートランド</a>、<a href="../Page/サクラメント国際空港.md" title="wikilink">サクラメント</a>、<a href="../Page/サンディエゴ国際空港.md" title="wikilink">サンディエゴ</a>、<a href="../Page/サンフランシスコ国際空港.md" title="wikilink">サンフランシスコ</a>、<a href="../Page/ノーマン・Y・ミネタ・サンノゼ国際空港.md" title="wikilink">サンノゼ</a>、<a href="../Page/シアトル・タコマ国際空港.md" title="wikilink">シアトル/タコマ</a>、<a href="../Page/ジェネラル・エドワード・ローレンス・ローガン国際空港.md" title="wikilink">ボストン</a>[8]</p></td>
+<strong>アメリカ本土:</strong> <a href="../Page/マッカラン国際空港.md" title="wikilink">ラスベガス</a>、<a href="../Page/ロサンゼルス国際空港.md" title="wikilink">ロサンゼルス</a>、<a href="../Page/ジョン・F・ケネディ国際空港.md" title="wikilink">ニューヨーク/ジョン・F・ケネディ</a>、<a href="../Page/オークランド国際空港_(カリフォルニア州).md" title="wikilink">オークランド</a>、<a href="../Page/ロングビーチ空港.md" title="wikilink">ロングビーチ</a>、<a href="../Page/フェニックス・スカイハーバー国際空港.md" title="wikilink">フェニックス</a>、<a href="../Page/ポートランド国際空港.md" title="wikilink">ポートランド</a>、<a href="../Page/サクラメント国際空港.md" title="wikilink">サクラメント</a>、<a href="../Page/サンディエゴ国際空港.md" title="wikilink">サンディエゴ</a>、<a href="../Page/サンフランシスコ国際空港.md" title="wikilink">サンフランシスコ</a>、<a href="../Page/ノーマン・Y・ミネタ・サンノゼ国際空港.md" title="wikilink">サンノゼ</a>、<a href="../Page/シアトル・タコマ国際空港.md" title="wikilink">シアトル/タコマ</a>、<a href="../Page/ジェネラル・エドワード・ローレンス・ローガン国際空港.md" title="wikilink">ボストン</a>[7]</p></td>
 </tr>
 </tbody>
 </table>
@@ -96,7 +94,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/ハワイアン航空.md" title="wikilink">ハワイアン航空</a></p></td>
-<td><p><strong>日本:</strong> <a href="https://ja.wikipedia.org/wiki/東京国際空港" title="wikilink">東京/羽田</a>、<a href="../Page/成田国際空港.md" title="wikilink">東京/成田</a>、<a href="https://ja.wikipedia.org/wiki/関西国際空港" title="wikilink">大阪/関西</a>、<a href="https://ja.wikipedia.org/wiki/新千歳空港" title="wikilink">札幌/新千歳</a>、<a href="https://ja.wikipedia.org/wiki/福岡空港" title="wikilink">福岡</a>[9][10]<br />
+<td><p><strong>日本:</strong> <a href="https://ja.wikipedia.org/wiki/東京国際空港" title="wikilink">東京/羽田</a>、<a href="../Page/成田国際空港.md" title="wikilink">東京/成田</a>、<a href="https://ja.wikipedia.org/wiki/関西国際空港" title="wikilink">大阪/関西</a>、<a href="https://ja.wikipedia.org/wiki/新千歳空港" title="wikilink">札幌/新千歳</a>、<a href="https://ja.wikipedia.org/wiki/福岡空港" title="wikilink">福岡</a>[8][9]<br />
 <strong>ポリネシア:</strong> <a href="../Page/オークランド国際空港_(ニュージーランド).md" title="wikilink">オークランド</a>、<a href="../Page/パゴパゴ国際空港.md" title="wikilink">パゴパゴ</a>、<a href="https://ja.wikipedia.org/wiki/パペーテ・タヒチ国際空港" title="wikilink">パペーテ</a><br />
 <strong>オーストラリア:</strong> <a href="../Page/ブリスベン空港.md" title="wikilink">ブリスベン</a>、<a href="../Page/シドニー国際空港.md" title="wikilink">シドニー</a><br />
 <strong>東アジア:</strong> <a href="https://ja.wikipedia.org/wiki/仁川国際空港" title="wikilink">ソウル/仁川</a></p></td>
@@ -269,7 +267,7 @@
 
 <!-- end list -->
 
-  - : [東京/成田](../Page/千葉県.md "wikilink")、[東京/羽田](../Page/東京都.md "wikilink")、[大阪/関西](../Page/大阪府.md "wikilink")、[名古屋/中部](https://ja.wikipedia.org/wiki/愛知県 "wikilink")、[札幌/新千歳](../Page/千歳市.md "wikilink")、[福岡](https://ja.wikipedia.org/wiki/福岡市 "wikilink")\[11\]\[12\]
+  - : [東京/成田](../Page/千葉県.md "wikilink")、[東京/羽田](../Page/東京都.md "wikilink")、[大阪/関西](../Page/大阪府.md "wikilink")、[名古屋/中部](https://ja.wikipedia.org/wiki/愛知県 "wikilink")、[札幌/新千歳](../Page/千歳市.md "wikilink")、[福岡](https://ja.wikipedia.org/wiki/福岡市 "wikilink")\[10\]\[11\]
 
   - : [台北/桃園](../Page/桃園市.md "wikilink")
 
@@ -285,23 +283,23 @@
 
 #### 日本
 
-[Douglas_DC-8-55,_Japan_Airlines_(JAL)_JP7316431.jpg](https://ja.wikipedia.org/wiki/File:Douglas_DC-8-55,_Japan_Airlines_\(JAL\)_JP7316431.jpg "fig:Douglas_DC-8-55,_Japan_Airlines_(JAL)_JP7316431.jpg")[DC-8](https://ja.wikipedia.org/wiki/DC-8 "wikilink")(1969年)\]\] 日本 - ホノルル線を運航していたものの撤退した航空会社は多く、古くは[英国海外航空](../Page/英国海外航空.md "wikilink")の世界一周便の一部として[東京国際空港](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")からの直行便が[1970年代](../Page/1970年代.md "wikilink")初頭まで運航されていた他、[タイの](../Page/タイ王国.md "wikilink")[エア・サイアム](https://ja.wikipedia.org/wiki/エア・サイアム "wikilink")が運航していたこともある。開設当初から同路線のアメリカ側航空会社の主力であった[パンアメリカン航空](../Page/パンアメリカン航空.md "wikilink")は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に同社の経営状況悪化により路線をユナイテッド航空に譲渡した。
+[Douglas_DC-8-55,_Japan_Airlines_(JAL)_JP7316431.jpg](https://ja.wikipedia.org/wiki/File:Douglas_DC-8-55,_Japan_Airlines_\(JAL\)_JP7316431.jpg "fig:Douglas_DC-8-55,_Japan_Airlines_(JAL)_JP7316431.jpg")[DC-8](https://ja.wikipedia.org/wiki/DC-8 "wikilink")(1969年)\]\] 日本 - ホノルル線を運航していた航空会社は、古くは[ノースウェスト航空](https://ja.wikipedia.org/wiki/ノースウェスト航空 "wikilink")と[パンアメリカン航空](../Page/パンアメリカン航空.md "wikilink")が[1940年代](../Page/1940年代.md "wikilink")に、[日本航空](../Page/日本航空.md "wikilink")が[1950年代](../Page/1950年代.md "wikilink")に就航を開始した。
 
-その後、[1990年代](../Page/1990年代.md "wikilink")に[全日本空輸](../Page/全日本空輸.md "wikilink")も[名古屋空港と](../Page/名古屋飛行場.md "wikilink")[関西国際空港](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink")からの直行便を運航していた他、[日本エアシステム](../Page/日本エアシステム.md "wikilink")が成田国際空港との直行便を運航していた（DC-10-30による週2便）が、いずれも撤退した。
+また就航していたものの撤退した航空会社は多く、[英国海外航空](../Page/英国海外航空.md "wikilink")の世界一周便の一部として[東京国際空港](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")からの直行便が[1970年代](../Page/1970年代.md "wikilink")初頭まで運航されていた他、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")のREAL航空や、[タイの](../Page/タイ王国.md "wikilink")[エア・サイアム](https://ja.wikipedia.org/wiki/エア・サイアム "wikilink")が運航していたこともある。開設当初から同路線のアメリカ側航空会社の主力であったパンアメリカン航空は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に同社の経営状況悪化により路線をユナイテッド航空に譲渡した。
 
-ユナイテッド航空（[関西国際空港](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink"))や[コンチネンタル・ミクロネシア](../Page/コンチネンタル・ミクロネシア.md "wikilink")（成田国際空港と中部国際空港）、[ノースウエスト航空](../Page/ノースウエスト航空.md "wikilink")（[名古屋空港（当時）などの直行便も相次いで運休となった](../Page/名古屋飛行場.md "wikilink")。 過去にノースウエスト航空（運航開始当初は[ハワイアン航空](../Page/ハワイアン航空.md "wikilink")名義）及び[JALウェイズ](../Page/JALウェイズ.md "wikilink")によって[福岡空港](https://ja.wikipedia.org/wiki/福岡空港 "wikilink")との間にも直行便が運航されていたが、前者は1990年代後半に、後者は[2005年](../Page/2005年.md "wikilink")10月5日運休となった。
+日本航空グループは今就航している4空港以外にも、[新千歳空港](https://ja.wikipedia.org/wiki/新千歳空港 "wikilink")や[仙台空港](../Page/仙台空港.md "wikilink")との間にも毎日定期便を運航していたほか、[広島空港](../Page/広島空港.md "wikilink")や[新潟空港](https://ja.wikipedia.org/wiki/新潟空港 "wikilink")などの地方空港との間にも週2往復程度直行便を運航していたほか、機材の航続距離が短い1970年代初頭までは、ロサンゼルス便やサンフランシスコ便を、[ウェーク島](../Page/ウェーク島.md "wikilink")とホノルル経由で運行していた\[12\]。
 
-日本航空グループは[新千歳空港](https://ja.wikipedia.org/wiki/新千歳空港 "wikilink")や[仙台空港](../Page/仙台空港.md "wikilink")との間にも毎日定期便を運航していたほか、[広島空港](../Page/広島空港.md "wikilink")や[新潟空港](https://ja.wikipedia.org/wiki/新潟空港 "wikilink")などの地方空港との間にも週2往復程度直行便を運航していたほか、機材の航続距離が短い時代は、ロサンゼルス便やサンフランシスコ便を、[ウェーク島](../Page/ウェーク島.md "wikilink")とホノルル経由で運行していた\[13\]。
+ユナイテッド航空（[関西国際空港](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink"))や[コンチネンタル・ミクロネシア](../Page/コンチネンタル・ミクロネシア.md "wikilink")（成田国際空港と中部国際空港）、ノースウエスト航空（[名古屋空港（当時）などの直行便も相次いで運休となった](../Page/名古屋飛行場.md "wikilink")。 過去にノースウエスト航空（運航開始当初は[ハワイアン航空](../Page/ハワイアン航空.md "wikilink")名義）及び[JALウェイズ](../Page/JALウェイズ.md "wikilink")によって[福岡空港](https://ja.wikipedia.org/wiki/福岡空港 "wikilink")との間にも直行便が運航されていたが、前者は[1990年代](../Page/1990年代.md "wikilink")後半に、後者は[2005年](../Page/2005年.md "wikilink")10月5日運休となった。また1990年代に[全日本空輸](../Page/全日本空輸.md "wikilink")も[名古屋空港と](../Page/名古屋飛行場.md "wikilink")[関西国際空港](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink")からの直行便を運航していた他、[日本エアシステム](../Page/日本エアシステム.md "wikilink")が成田国際空港との直行便を運航していた（DC-10-30による週2便）が、乗客が集まらずいずれも撤退した。
 
 #### その他
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Sikorsky_S-42_Clipper_at_Guam.jpg "wikilink") その他、[1935年](../Page/1935年.md "wikilink")にパンアメリカン航空がサンフランシスコ - ホノルル - [マニラ](../Page/マニラ.md "wikilink") - [香港](https://ja.wikipedia.org/wiki/香港 "wikilink")（サンフランシスコ - ホノルル - ミッドウェイ島 - ウェーク島 - グアム - マニラに変更）を結ぶ世界最初の太平洋横断航空便を[マーチン M130](../Page/マーチン_M130.md "wikilink")「チャイナ・クリッパー」[飛行艇](../Page/飛行艇.md "wikilink")で開設したものの、第二次世界大戦の勃発により廃止された。飛行艇による太平洋横断便はその後現在に至るまで運行されていない。
 
-[エバー航空](../Page/エバー航空.md "wikilink")（[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")）などもそれぞれの国から直行便を運航していたが、いずれも短い期間で運休となったほか、かつて[カナディアン航空](../Page/カナディアン航空.md "wikilink")が運航し、その後同社を買収した[エア・カナダ](../Page/エア・カナダ.md "wikilink")が路線を引き継ぎ運航していた同社のホノルル-[シドニー便も運休となった](../Page/シドニー国際空港.md "wikilink")\[14\]。
+[エバー航空](../Page/エバー航空.md "wikilink")（[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")）などもそれぞれの国から直行便を運航していたが、いずれも短い期間で運休となったほか、かつて[カナディアン航空](../Page/カナディアン航空.md "wikilink")が運航し、その後同社を買収した[エア・カナダ](../Page/エア・カナダ.md "wikilink")が路線を引き継ぎ運航していた同社のホノルル-[シドニー便も運休となった](../Page/シドニー国際空港.md "wikilink")\[13\]。
 
-他の国の航空会社も、アメリカ本土路線を直行化させ、ホノルルから撤収した航空会社も少なくない。[シンガポール](../Page/シンガポール・チャンギ国際空港.md "wikilink") - 香港 - ホノルル - サンフランシスコ線を運行していた[シンガポール航空](../Page/シンガポール航空.md "wikilink")は、DC-10-30から747-200B、航続距離が長い747-400にスケールアップして直行が可能となり、路線再編で直行化して撤退\[15\]した。[クアラルンプール](../Page/クアラルンプール.md "wikilink") - 台北 - ホノルル - ロサンゼルス線を運行していた[マレーシア航空](https://ja.wikipedia.org/wiki/マレーシア航空 "wikilink")も、同じ理由で撤退した\[16\]。
+他の国の航空会社も、アメリカ本土路線を直行化させ、ホノルルから撤収した航空会社も少なくない。[シンガポール](../Page/シンガポール・チャンギ国際空港.md "wikilink") - 香港 - ホノルル - サンフランシスコ線を運行していた[シンガポール航空](../Page/シンガポール航空.md "wikilink")は、DC-10-30から747-200B、航続距離が長い747-400にスケールアップして直行が可能となり、路線再編で直行化して撤退\[14\]した。[クアラルンプール](../Page/クアラルンプール.md "wikilink") - 台北 - ホノルル - ロサンゼルス線を運行していた[マレーシア航空](https://ja.wikipedia.org/wiki/マレーシア航空 "wikilink")も、同じ理由で撤退した\[15\]。
 
-[ジャカルタ](../Page/ジャカルタ.md "wikilink") - マニラ - ホノルル - ロサンゼルス線を運行していた[ガルーダ・インドネシア航空](../Page/ガルーダ・インドネシア航空.md "wikilink")は、アジア通貨危機による理由などで北米線を廃止して同時に撤退した。撤退ではないが、大韓航空のKE001/002便（ソウル/仁川 - 東京/成田 - ロサンゼルス）は、かつてはホノルル寄航を行っていた。1989年の747－400導入に伴う再編で直行化、寄航中止となったが、2013年3月31日から同便の行先をホノルルに変更し、KE001/002便が再度ホノルルに就航している\[17\]。
+[ジャカルタ](../Page/ジャカルタ.md "wikilink") - マニラ - ホノルル - ロサンゼルス線を運行していた[ガルーダ・インドネシア航空](../Page/ガルーダ・インドネシア航空.md "wikilink")は、アジア通貨危機による理由などで北米線を廃止して同時に撤退した。撤退ではないが、大韓航空のKE001/002便（ソウル/仁川 - 東京/成田 - ロサンゼルス）は、かつてはホノルル寄航を行っていた。1989年の747－400導入に伴う再編で直行化、寄航中止となったが、2013年3月31日から同便の行先をホノルルに変更し、KE001/002便が再度ホノルルに就航している\[16\]。
 
 ホノルル国際空港とハワイ諸島各地を[日本航空機製造](../Page/日本航空機製造.md "wikilink")[YS-11](../Page/YS-11.md "wikilink")で運航し、ホノルル国際空港とアメリカ本土を結ぶ路線を運航していた[ミッドパシフィックエア](https://ja.wikipedia.org/wiki/ミッドパシフィックエア "wikilink")が[1988年](../Page/1988年.md "wikilink")に運航停止した。[アロハ航空](../Page/アロハ航空.md "wikilink")が2008年4月1日に運航を停止し、数日後にアメリカ西海岸複数都市とホノルルを結んでいた[格安航空会社](https://ja.wikipedia.org/wiki/格安航空会社 "wikilink")の[ATA航空](../Page/ATA航空.md "wikilink")が相次いで運行を休止した。原油価格の高騰もあり、一時ハワイ諸島間、アメリカ本土との間の航空運賃が高騰する原因となった。
 
@@ -341,14 +339,13 @@
 4.  [John Rodgers Airport](http://aviation.hawaii.gov/airfields-airports/oahu/john-rodgers-airport/) - ハワイ州政府
 5.  [Honolulu International Airport](http://aviation.hawaii.gov/airfields-airports/oahu/honolulu-international-airport/honolulu-international-airport/) - ハワイ州政府
 6.  [ホノルル空港、6月から搭乗口と手荷物受取場の番号を変更](https://flyteam.jp/news/article/94433)
-7.  [ANAのウミガメ、快晴のホノルルに2匹揃う　1日2機体制に（写真23枚）](https://www.traicy.com/20190702-NHa380hnl)
-8.  \[<https://flyteam.jp/news/article/99969>　ハワイアン航空、4月にホノルル/ボストン線を開設へ A330で週5便\]FlyTeam 2018年9月18日
-9.  [デルタ航空、福岡〜ホノルル線から5月撤退　「日本は引き続き重要な市場」](http://www.traicy.com/20190118-DLhnlfuk) Traicy 2019年1月17日付
-10. [ハワイアン航空、福岡-ホノルル線の新規就航計画を決定](https://www.hawaiianairlines.co.jp/press-releases/jp-2019-05-08-hawaiian-airlines-to-seek-new-fukuoka-honolulu-service)
+7.  \[<https://flyteam.jp/news/article/99969>　ハワイアン航空、4月にホノルル/ボストン線を開設へ A330で週5便\]FlyTeam 2018年9月18日
+8.  [デルタ航空、福岡〜ホノルル線から5月撤退　「日本は引き続き重要な市場」](http://www.traicy.com/20190118-DLhnlfuk) Traicy 2019年1月17日付
+9.  [ハワイアン航空、福岡-ホノルル線の新規就航計画を決定](https://www.hawaiianairlines.co.jp/press-releases/jp-2019-05-08-hawaiian-airlines-to-seek-new-fukuoka-honolulu-service)
+10.
 11.
 12.
-13.
-14. ACによるホノルル - [バンクーバー国際空港](../Page/バンクーバー国際空港.md "wikilink")間は継続運航。ホノルル - シドニー間の路線は[ジェットスター航空](../Page/ジェットスター航空.md "wikilink")、[ハワイアン航空](../Page/ハワイアン航空.md "wikilink")が運航中
-15. 成田経由のSQ011/012は開設当初から寄航していなかった
-16. 2008年のサムプライム問題及びリーマンブラザーズショック以降北米線はこのほかにもストックホルム・アーランダ空港経由ニューアーク・リバティ空港便もあったが消滅し現在はロサンゼルス線だけとなった
-17.
+13. ACによるホノルル - [バンクーバー国際空港](../Page/バンクーバー国際空港.md "wikilink")間は継続運航。ホノルル - シドニー間の路線は[ジェットスター航空](../Page/ジェットスター航空.md "wikilink")、[ハワイアン航空](../Page/ハワイアン航空.md "wikilink")が運航中
+14. 成田経由のSQ011/012は開設当初から寄航していなかった
+15. 2008年のサムプライム問題及びリーマンブラザーズショック以降北米線はこのほかにもストックホルム・アーランダ空港経由ニューアーク・リバティ空港便もあったが消滅し現在はロサンゼルス線だけとなった
+16.

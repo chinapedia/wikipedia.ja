@@ -1,11 +1,11 @@
 > この記事は[E-Japan](https://ja.wikipedia.org/wiki/E-Japan)から翻訳されています。
 
 
-**e-Japan**（イージャパン）とは、[日本国政府](https://ja.wikipedia.org/wiki/日本国政府 "wikilink")が掲げた、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")型[IT社会の実現を目指す構想](../Page/情報技術.md "wikilink")、戦略、政策の総体。**E-ジャパン**（Eジャパン）とも表記される。[2000年](../Page/2000年.md "wikilink")（[平成](../Page/平成.md "wikilink")12年）[9月21日](../Page/9月21日.md "wikilink")、[森喜朗](../Page/森喜朗.md "wikilink")・[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")が、衆参両院本会議（第150回[国会](https://ja.wikipedia.org/wiki/国会 "wikilink")）の[所信表明演説](../Page/所信表明演説.md "wikilink")で、「**E-ジャパンの構想**」として初めて示した。
+**e-Japan**（イージャパン）とは、[日本政府が掲げた](https://ja.wikipedia.org/wiki/日本国政府 "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")型[IT社会の実現を目指す構想](../Page/情報技術.md "wikilink")、戦略、政策の総体。**E-ジャパン**（Eジャパン）とも表記される。[2000年](../Page/2000年.md "wikilink")（[平成](../Page/平成.md "wikilink")12年）[9月21日](../Page/9月21日.md "wikilink")、[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")・[森喜朗](../Page/森喜朗.md "wikilink")（当時）が、[衆](https://ja.wikipedia.org/wiki/衆議院 "wikilink")[参両院本会議](https://ja.wikipedia.org/wiki/参議院 "wikilink")（第150回[国会](https://ja.wikipedia.org/wiki/国会 "wikilink")）の[所信表明演説](../Page/所信表明演説.md "wikilink")で、「**E-ジャパンの構想**」として初めて示した。
 
 ## E-ジャパンの構想
 
-2000年（平成12年）9月21日、森喜朗・内閣総理大臣が、衆参両院本会議（第150回国会）の所信表明演説（いわゆる**イット革命演説**）において、「E-ジャパンの構想」として以下の諸施策を示した。
+2000年（平成12年）9月21日、森喜朗・内閣総理大臣が、衆参両院本会議（第150回国会）の所信表明演説（いわゆる**[イット革命演説](../Page/情報革命.md "wikilink")**）において、「E-ジャパンの構想」として以下の諸施策を示した。
 
   - [IT基本法](https://ja.wikipedia.org/wiki/IT基本法 "wikilink")案と、民間同士の書面の交付等を義務づけた法律を一括して改正するための法律案を提出
   - IT国家戦略の取りまとめ
@@ -17,7 +17,7 @@
 
 IT基本法は、[高度情報通信ネットワーク社会形成基本法](https://ja.wikipedia.org/wiki/高度情報通信ネットワーク社会形成基本法 "wikilink")（平成12年法律第144号）として成立した。また、翌[2001年](../Page/2001年.md "wikilink")（平成13年）[1月6日](../Page/1月6日.md "wikilink")、同法に基づいて[内閣官房](../Page/内閣官房.md "wikilink")に設置された「高度情報通信ネットワーク社会推進戦略本部（IT戦略本部）」において、IT国家戦略のとりまとめが始められた。
 
-超高速[インターネット](../Page/インターネット.md "wikilink")の整備やインターネットサービスの低廉化・利便性向上などは、民間主導で行われ、特に[Yahoo\! BBの大量販売戦略によって](../Page/Yahoo!_BB.md "wikilink")、急速に脱ダイヤルアップが進められた。
+超高速[インターネット](../Page/インターネット.md "wikilink")の整備やインターネットサービスの低廉化・利便性向上などは、民間主導で行われ、特に[Yahoo\! BB](../Page/Yahoo!_BB.md "wikilink") (現在の[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink"))の大量販売戦略によって、急速に脱[ダイヤルアップ](https://ja.wikipedia.org/wiki/ダイヤルアップ "wikilink")が進められた。
 
 インターネット博覧会（インパク）は、2000年[12月31日](../Page/12月31日.md "wikilink")から翌2001年12月31日まで、[堺屋太一](../Page/堺屋太一.md "wikilink")・[経済企画庁](../Page/経済企画庁.md "wikilink")長官の主導で行われた（開催中に[内閣総辞職](../Page/内閣総辞職.md "wikilink")したため、[竹中平蔵](../Page/竹中平蔵.md "wikilink")・[経済財政政策担当大臣](https://ja.wikipedia.org/wiki/経済財政政策担当大臣 "wikilink")に引き継がれる。）。[日本国政府](https://ja.wikipedia.org/wiki/日本国政府 "wikilink")は、この博覧会によって国民のインターネットに対する理解が進んだと自負するが、果たして**110億円**もの税金を費やすほどの価値があったのか、疑問視されている。
 
@@ -27,7 +27,7 @@ IT基本法は、[高度情報通信ネットワーク社会形成基本法](htt
 
 [1994年](../Page/1994年.md "wikilink")（平成6年）[8月2日](../Page/8月2日.md "wikilink")、高度情報通信社会の構築に向けた施策を総合的に推進し、情報通信の高度化に関する国際的な取組に我が国として積極的に協力することを目的として、**高度情報通信社会推進本部**が内閣に設置された。
 
-2000年（平成12年）[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")、世界規模で生じている[情報通信技術](../Page/情報技術.md "wikilink")（IT）による産業・社会構造の変革（いわゆる「[IT革命](../Page/情報革命.md "wikilink")」）に日本として取り組み、IT革命の恩恵を全ての国民が享受でき、かつ国際的に競争力ある「IT立国」の形成を目指した施策を総合的に推進するため、**情報通信技術戦略本部（IT戦略本部）**が内閣に設置された。また同時に、**IT戦略会議**が内閣に設置された。
+2000年（平成12年）[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")、世界規模で生じている[情報通信技術](../Page/情報技術.md "wikilink") (IT/ICT)による産業・社会構造の変革（いわゆる「[IT革命](../Page/情報革命.md "wikilink")」）に日本として取り組み、IT革命の恩恵を全ての国民が享受でき、かつ国際的に競争力ある「IT立国」の形成を目指した施策を総合的に推進するため、**情報通信技術戦略本部（IT戦略本部）**が内閣に設置された。また同時に、**IT戦略会議**が内閣に設置された。
 
 同年[11月27日](../Page/11月27日.md "wikilink")、IT戦略本部は、[IT基本戦略](https://www.kantei.go.jp/jp/it/goudoukaigi/dai6/6siryou2.html)をとりまとめた。
 
@@ -39,11 +39,11 @@ IT基本法は、[高度情報通信ネットワーク社会形成基本法](htt
 
 2001年（平成13年）[1月22日](../Page/1月22日.md "wikilink")、IT戦略本部は、**e-Japan戦略**として、IT国家戦略を策定した。
 
-「我が国は、すべての国民が情報通信技術（IT）を積極的に活用し、その恩恵を最大限に享受できる知識創発型社会の実現に向け、早急に革命的かつ現実的な対応を行わなければならない。市場原理に基づき民間が最大限に活力を発揮できる環境を整備し、5年以内に世界最先端のIT国家となることを目指す。」
+「我が国は、すべての国民が情報通信技術 (IT)を積極的に活用し、その恩恵を最大限に享受できる知識創発型社会の実現に向け、早急に革命的かつ現実的な対応を行わなければならない。市場原理に基づき民間が最大限に活力を発揮できる環境を整備し、5年以内に世界最先端のIT国家となることを目指す。」
 
 重点政策分野としては次のとおり。
 
-1.  超高速ネットワークインフラ整備及び競争政策：5年以内に超高速アクセス（目安として30〜100Mbps）が可能な世界最高水準のインターネット網の整備を促進し、必要とするすべての国民が低廉な料金で利用できるようにする。
+1.  超高速ネットワークインフラ整備及び競争政策: 5年以内に超高速アクセス（目安として30〜100Mbps）が可能な世界最高水準のインターネット網の整備を促進し、必要とするすべての国民が低廉な料金で利用できるようにする。
 2.  [電子商取引](../Page/電子商取引.md "wikilink")
 3.  [電子政府](../Page/電子政府.md "wikilink")の実現
 4.  人材育成の強化
@@ -97,8 +97,9 @@ IT基本法は、[高度情報通信ネットワーク社会形成基本法](htt
 ## 関連項目
 
   - [情報技術](../Page/情報技術.md "wikilink") (IT) - [情報化社会](../Page/情報化社会.md "wikilink")
-  - [電子国土](../Page/電子国土.md "wikilink")
+  - [電子国土](../Page/電子国土.md "wikilink") - [電子政府](../Page/電子政府.md "wikilink")
   - [u-Japan](https://ja.wikipedia.org/wiki/u-Japan "wikilink") - [ユビキタス社会](../Page/ユビキタス社会.md "wikilink")
+  - [e-Tax](https://ja.wikipedia.org/wiki/e-Tax "wikilink") - [電子申請](https://ja.wikipedia.org/wiki/電子申請 "wikilink")
   - [HARP構想](https://ja.wikipedia.org/wiki/HARP構想 "wikilink")
   - [きずな (人工衛星)](../Page/きずな_\(人工衛星\).md "wikilink")
   - [光の道](https://ja.wikipedia.org/wiki/光の道 "wikilink")

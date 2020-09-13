@@ -242,7 +242,7 @@
 
 ## 番組で使用される用語
 
-  - **HOTTEST ENTRY**（ホッテスト・エントリー）・・・初登場曲の中で、もっとも高い位置にランクインした曲。以前は、HOTTEST ENTRYの曲が発表された直後にその週にチャート圏外にダウンした曲を紹介する「GOOD BYE HOT 100」というコーナーがあったが、2000年3月をもって終了した。
+  - **HOTTEST ENTRY**（ホッテスト・エントリー）・・・初登場曲の中で、もっとも高い位置にランクインした曲。
   - **HIGHEST JUMP UP**（ハイエスト・ジャンプ・アップ）・・・初登場の曲以外で、その週にもっともチャートをあげた曲。チャートインのタイミングによって、HOTTEST ENTRYした楽曲が次の週にHIGHEST JUMP UPを獲得するということも少なからずある。
 
 <!-- end list -->
@@ -259,11 +259,12 @@
 ## チャートにまつわる主な記録
 
   - 第1回目の1位は、[ユニコーンの](https://ja.wikipedia.org/wiki/ユニコーン_\(バンド\) "wikilink")「大迷惑」。
-  - 2008年9月7日現在、同番組にもっとも多く楽曲をチャートインさせているアーティストは、[ドリームズ・カム・トゥルーで](../Page/DREAMS_COME_TRUE.md "wikilink")58曲\[20\]\[21\]。
-  - 2018年10月14日現在、同番組にもっとも多く楽曲を1位にランクインさせているアーティストは、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")で20曲\[22\]\[23\]。
-  - 2008年8月31日現在、同番組で最も長く1位を獲得した[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")曲は、[ジャミロクワイ](../Page/ジャミロクワイ.md "wikilink")の「VIRTUAL INSANITY」で16週連続1位\[24\]。
-  - 2015年11月22日現在、同番組で最も長く1位を獲得した[邦楽](../Page/邦楽.md "wikilink")([J-POP](../Page/J-POP.md "wikilink"))曲は、[ウルフルズ](../Page/ウルフルズ.md "wikilink")の「[ええねん](../Page/ええねん_\(曲\).md "wikilink")」、[BUMP OF CHICKENの](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")「[プラネタリウム](../Page/プラネタリウム_\(BUMP_OF_CHICKENの曲\).md "wikilink")」\[25\]\[26\]、[サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")の「[新宝島](https://ja.wikipedia.org/wiki/新宝島_\(曲\) "wikilink")」で9週連続1位。
+  - 2008年9月7日現在、同番組にもっとも多く楽曲をチャートインさせているアーティストは、[DREAMS COME TRUEで](../Page/DREAMS_COME_TRUE.md "wikilink")58曲\[20\]。
+  - 2008年9月7日現在、同番組にもっとも多く楽曲を1位にランクインさせているアーティストは、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")で14曲\[21\]。
+  - 2008年8月31日現在、同番組で最も長く1位を獲得した[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")曲は、[ジャミロクワイ](../Page/ジャミロクワイ.md "wikilink")の「VIRTUAL INSANITY」で16週連続1位 。
+  - 2015年11月22日現在、同番組で最も長く1位を獲得した[邦楽](../Page/邦楽.md "wikilink")([J-POP](../Page/J-POP.md "wikilink"))曲は、[ウルフルズ](../Page/ウルフルズ.md "wikilink")の「[ええねん](../Page/ええねん_\(曲\).md "wikilink")」\[22\]、[BUMP OF CHICKENの](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")「[プラネタリウム](../Page/プラネタリウム_\(BUMP_OF_CHICKENの曲\).md "wikilink")」\[23\]、[サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")の「[新宝島](https://ja.wikipedia.org/wiki/新宝島_\(曲\) "wikilink")」\[24\]で9週連続1位。
   - 2017年1月22日現在、同番組で連続1位ではないが、[星野源](../Page/星野源.md "wikilink")の「[恋](https://ja.wikipedia.org/wiki/恋_\(星野源の曲\) "wikilink")」が通算10週の1位を獲得し、通算だが邦楽では史上初の記録を更新。
+  - 2020年7月19日放送において[米津玄師](https://ja.wikipedia.org/wiki/米津玄師 "wikilink")の「[感電](../Page/感電_\(米津玄師の曲\).md "wikilink")」が番組史上初となる初登場1位を達成した\[25\]。
 
 ## 年間チャート
 
@@ -485,16 +486,16 @@
 
 <!-- end list -->
 
-  - [NTTドコモ関西](../Page/エヌ・ティ・ティ・ドコモ関西.md "wikilink")（2005年～2008年）→[NTTドコモ（関西支社）](https://ja.wikipedia.org/wiki/NTTドコモ#業務区域 "wikilink")（2008年～）\[27\]
+  - [NTTドコモ関西](../Page/エヌ・ティ・ティ・ドコモ関西.md "wikilink")（2005年～2008年）→[NTTドコモ（関西支社）](https://ja.wikipedia.org/wiki/NTTドコモ#業務区域 "wikilink")（2008年～）\[26\]
 
 <!-- end list -->
 
   -
     2005年4月～。[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")内にオフィシャル携帯サイトがある。ここではチャートだけでなく、DJのコラムが掲載されている。この携帯サイトは偶数月が12:55ごろ、奇数月は14:50ごろ（TOP10発表前）に番組内で毎週紹介される。
 
-2014年9月までは、J-WAVEと同一のスポンサーと携帯電話事業者（PHS含む）\[28\]などの複数社が出稿していた。CMは、14:00を境に前半と後半に分かれてオンエアされる。そのため、オープニングとエンディング、14時前後は2社のスポンサーを紹介、CM前後のジングルはその時間の出稿主のみスポンサー紹介していた。
+2014年9月までは、J-WAVEと同一のスポンサーと携帯電話事業者（PHS含む）\[27\]などの複数社が出稿していた。CMは、14:00を境に前半と後半に分かれてオンエアされる。そのため、オープニングとエンディング、14時前後は2社のスポンサーを紹介、CM前後のジングルはその時間の出稿主のみスポンサー紹介していた。
 
-2014年10月からは、NTTドコモ（関西支社）の1社提供番組\[29\]になった。半年間は複数社提供の名残で正式タイトルに冠スポンサーの名がついていなかったが、2015年4月からは放送時間が3時間に縮小されると同時に冠スポンサーが付き、『**DOCOMO OSAKAN HOT 100**』になった。
+2014年10月からは、NTTドコモ（関西支社）の1社提供番組\[28\]になった。半年間は複数社提供の名残で正式タイトルに冠スポンサーの名がついていなかったが、2015年4月からは放送時間が3時間に縮小されると同時に冠スポンサーが付き、『**DOCOMO OSAKAN HOT 100**』になった。
 
   - 以前
 
@@ -529,13 +530,12 @@
 17. [EZweb](../Page/EZweb.md "wikilink")は番組ホームページにアクセスすることでCHART QUIZ・HOT100 MELODY以外のコンテンツを利用可能。
 18. [ZIP-FM](../Page/ZIP-FM.md "wikilink")の『[ZIP HOT 100](../Page/ZIP_HOT_100.md "wikilink")』では[NTTドコモ東海](../Page/エヌ・ティ・ティ・ドコモ東海.md "wikilink")（現・[NTTドコモ（東海支社）](https://ja.wikipedia.org/wiki/NTTドコモ#業務区域 "wikilink")）がスポンサーだったにもかかわらず、EZwebやY\!ケータイでもチャートを見ることができる。
 19. CD『FM802 BIG10 SPECIAL OSAKAN HOT 100 POWER COLLECTION』の[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")より。
-20. 『OSAKAN HOT 100』2008年9月7日放送
-21. [OSAKAN HOT 100 Diary](http://funky802.com/service/Homepage/diary/712)の2008年9月7日付(9.7 sun)
-22.
-23.
-24. 『OSAKAN HOT 100』2008年8月31日放送
-25.
-26.
-27. 2008年7月1日に全国一社化された事によるもの。なお、放送上のクレジットは「ドコモ」名義であり、関西支社の名前は出ない
-28. 番組初期を除く
-29. 実際には「[ピタットハウス](https://ja.wikipedia.org/wiki/ピタットハウスネットワーク "wikilink")」の[PTおよび番宣が入る](../Page/パーティシペーション.md "wikilink")。
+20. [☆DREMAS COME TRUE盾☆](https://funky802.com/hot100/article/16491)、FM802、2008年9月7日。
+21. [☆Mr.children盾☆](https://funky802.com/hot100/article/16496)、FM802、2008年9月7日。
+22. [☆ウルフルズ盾☆](https://funky802.com/hot100/article/16485)、FM802、2008年9月7日。
+23. [☆BUMP OF CHICKEN盾☆](https://funky802.com/hot100/article/16486)、FM802、2008年9月7日。
+24. [☆ 今週の新スマイル & 先週 11/22のTOP20 ☆](https://funky802.com/hot100/article/74541)、FM802、2015年11月29日。
+25. [＜＜＜OSAKAN HOT100 7-19 TOP10＞＞＞](https://funky802.com/hot100/article/115236)、FM802、2020年7月19日。
+26. 2008年7月1日に全国一社化された事によるもの。なお、放送上のクレジットは「ドコモ」名義であり、関西支社の名前は出ない
+27. 番組初期を除く
+28. 実際には「[ピタットハウス](https://ja.wikipedia.org/wiki/ピタットハウスネットワーク "wikilink")」の[PTおよび番宣が入る](../Page/パーティシペーション.md "wikilink")。

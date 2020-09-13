@@ -189,7 +189,7 @@
   - [千葉テレビ放送](../Page/千葉テレビ放送.md "wikilink")（2001年10月25日 - 2016年9月25日）
   - [テレビ信州](../Page/テレビ信州.md "wikilink") （日本テレビ系列とのクロスネットの頃に放送）
   - [北日本放送](../Page/北日本放送.md "wikilink")\[11\]→[チューリップテレビ](../Page/チューリップテレビ.md "wikilink")
-  - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") （ - 2005年3月）
+  - [四国放送](../Page/四国放送.md "wikilink") （ - 2005年3月）
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（北陸朝日放送の開局まで）
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
   - [琉球放送](../Page/琉球放送.md "wikilink")（少なくとも琉球朝日放送の開局以降は放送されていないと思われる）
@@ -200,7 +200,9 @@
 
 ## 外部リンク
 
-  - [カーグラフィックTV](https://www.bs-asahi.co.jp/cgtv/) - 番組公式サイト
+  - [CAR GRAPHIC TV （BS朝日）](http://www.bs-asahi.co.jp/cgtv/)
+
+  - [CAR GRAPHIC TV （テレ朝動画）](http://www.tv-asahi.co.jp/douga/cargraphictv/)
 
   - [ウインズモーメント](http://winsmoment.jp/)
 

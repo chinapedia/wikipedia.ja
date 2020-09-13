@@ -3,7 +3,7 @@
 
 **HIRO**（ひろ、[1970年](../Page/1970年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[モデル](../Page/モデル_\(職業\).md "wikilink")・[俳優](../Page/俳優.md "wikilink")である。本名、**関口 寛之**（せきぐち ひろゆき）。株式会社[エス・プログレス](https://ja.wikipedia.org/wiki/エス・プログレス "wikilink")を経て株式会社バークインスタイルに所属。
 
-[東京都](../Page/東京都.md "wikilink")出身。[身長](../Page/身長.md "wikilink")186[cm](../Page/センチメートル.md "wikilink")。[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+[東京都](../Page/東京都.md "wikilink")出身。[身長](../Page/身長.md "wikilink")186[cm](../Page/センチメートル.md "wikilink")。[血液型](../Page/ABO式血液型.md "wikilink")[A型](../Page/ABO式血液型.md "wikilink")。
 
 ## 人物・略歴
 

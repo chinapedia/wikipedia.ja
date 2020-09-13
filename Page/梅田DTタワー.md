@@ -11,14 +11,7 @@
 
 テナントとして[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")関西支社が入居しており、地下1階にはNTTドコモのショールーム「モバイルメディアラボ梅田+ONE」→「ドコモスマートフォンラウンジ梅田」があったが2014年3月20日をもって閉店した。
 
-## 交通
-
-  - JR[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")から徒歩約3分
-  - [阪神高速11号池田線](../Page/阪神高速11号池田線.md "wikilink") [梅田出入口](../Page/梅田出入口.md "wikilink")・[福島出入口](../Page/福島出入口.md "wikilink")
-
-## 駐車場
-
-  - 地下駐車場　160台収容
+なお、地下2階は[地下街](../Page/地下街.md "wikilink")「[ディアモール](../Page/ディアモール大阪.md "wikilink") フィオレ」となっている。
 
 ## 歴史
 
@@ -27,6 +20,15 @@
   - [2000年](../Page/2000年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink") - 約8年ぶりに工事が再開される。
   - [2003年](../Page/2003年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink") - 梅田DTタワー竣工。
   - 2003年[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink") - 梅田DTタワーオープン。
+
+## 交通
+
+  - JR[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")から徒歩約3分
+  - [阪神高速11号池田線](../Page/阪神高速11号池田線.md "wikilink") [梅田出入口](../Page/梅田出入口.md "wikilink")・[福島出入口](../Page/福島出入口.md "wikilink")
+
+## 駐車場
+
+  - 地下駐車場　160台収容
 
 ## 脚注
 

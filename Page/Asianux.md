@@ -5,7 +5,7 @@
 
 ## 概要
 
-Asianux は、[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") [Red Hat Linux](../Page/Red_Hat_Linux.md "wikilink")、[欧州の](../Page/ヨーロッパ.md "wikilink")[SUSE Linuxと並ぶ](https://ja.wikipedia.org/wiki/openSUSE "wikilink")、[アジア](../Page/アジア.md "wikilink")を代表するLinuxとなることを目指している。[日本語](../Page/日本語.md "wikilink")・[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")・[韓国語といった](../Page/朝鮮語.md "wikilink")[マルチバイト文字](../Page/マルチバイト文字.md "wikilink")を扱う言語環境は世界的に見れば特殊な分野であり、これを[コンピュータ](../Page/コンピュータ.md "wikilink")で適切に処理するのは困難な問題である。Asianuxの大きな特徴は、これらの言語を標準でサポートすることであり、下記「構成企業」の項目で示したとおり、日本・中国・韓国、およびベトナム（2007年8月参加）・タイ（2008年12月参加）にまたがる5つの企業によって共同で開発が行われている。
+Asianux は、[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") [Red Hat Linux](../Page/Red_Hat_Linux.md "wikilink")、[欧州の](../Page/ヨーロッパ.md "wikilink")[SUSE Linuxと並ぶ](https://ja.wikipedia.org/wiki/openSUSE "wikilink")、[アジア](../Page/アジア.md "wikilink")を代表するLinuxとなることを目指している。[日本語](../Page/日本語.md "wikilink")・[中国語](../Page/中国語.md "wikilink")・[韓国語といった](../Page/朝鮮語.md "wikilink")[マルチバイト文字](../Page/マルチバイト文字.md "wikilink")を扱う言語環境は世界的に見れば特殊な分野であり、これを[コンピュータ](../Page/コンピュータ.md "wikilink")で適切に処理するのは困難な問題である。Asianuxの大きな特徴は、これらの言語を標準でサポートすることであり、下記「構成企業」の項目で示したとおり、日本・中国・韓国、およびベトナム（2007年8月参加）・タイ（2008年12月参加）にまたがる5つの企業によって共同で開発が行われている。
 
 今後一連の企業から発売される製品名には、「Asianux」という名称で統一され、販売を開始している。Asianux Server 3は、[2007年](../Page/2007年.md "wikilink")9月18日に日本で出荷が開始された。 サポート面では、技術支援のウェブサイト「TSN (Technical Support Network)」を開設し、Asianuxの修正パッケージを提供しており、「TSN」には日本語・英語環境も用意されている。 セキュリティ面においては、Asianux Server 2.0（日本での[ディストリビューション名はMIRACLE](../Page/Linuxディストリビューション.md "wikilink") LINUX V4.0）と、Asianux Server 3が[ISO/IEC 15408を取得](../Page/コモンクライテリア.md "wikilink")。グローバルで評価されるレベルの[ソフトウェア](../Page/ソフトウェア.md "wikilink")の1つでもある。
 
@@ -78,7 +78,7 @@ Asianux は、[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "w
   - [Red Flag Software Co., Ltd. ウェブサイト](http://www.redflag-linux.com/)
   - [Asianux-FAQ - 2ch-Linux-Beginners](http://www12.atwiki.jp/linux2ch/pages/31.html)
 
-[Category:Linuxディストリビューション](https://ja.wikipedia.org/wiki/Category:Linuxディストリビューション "wikilink") [Category:日本のLinux開発](https://ja.wikipedia.org/wiki/Category:日本のLinux開発 "wikilink")
+[Category:Red_Hat派生ディストリビューション](https://ja.wikipedia.org/wiki/Category:Red_Hat派生ディストリビューション "wikilink") [Category:日本のLinux開発](https://ja.wikipedia.org/wiki/Category:日本のLinux開発 "wikilink")
 
 1.  /etc/redhat-release 参照。例えば、Asianux Server 3.0 は Red Hat Enterprise Linux Server release 5 (Tikanga) が開発ベースであると分かる。
 2.  <http://www.asianux.co.kr/product/desktop/desktop3_01.php>

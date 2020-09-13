@@ -87,4 +87,4 @@
 
   - [亜熱帯マジ-SKA爆弾アルバム制作プロジェクト](http://www.konamistyle.jp/customfactory/maji-ska/index.html)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:BEMANIシリーズの人物](https://ja.wikipedia.org/wiki/Category:BEMANIシリーズの人物 "wikilink") [Category:2006年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2006年に解散した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:BEMANIシリーズの人物](https://ja.wikipedia.org/wiki/Category:BEMANIシリーズの人物 "wikilink") [Category:2006年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2006年に解散した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")

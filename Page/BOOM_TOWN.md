@@ -153,7 +153,7 @@
 
 ## 外部リンク
 
-  - [2001年12月6日時点(Webarchiveキャッシュ)](http://web.archive.org/web/20011206112347/http://www.j-wave.co.jp/original/boomtown/contents.htm)
-  - [番組終了時点(Webarchiveキャッシュ)](http://web.archive.org/web/20101007060622/http://www.j-wave.co.jp/original/boomtown/)
+  - [2001年12月6日時点(Webarchiveキャッシュ)](https://web.archive.org/web/20011206112347/http://www.j-wave.co.jp/original/boomtown/contents.htm)
+  - [番組終了時点(Webarchiveキャッシュ)](https://web.archive.org/web/20101007060622/http://www.j-wave.co.jp/original/boomtown/)
 
 [Category:J-WAVEの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:J-WAVEの帯番組の歴史 "wikilink") [Category:1997年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1997年のラジオ番組_\(日本\) "wikilink")

@@ -16,7 +16,6 @@
   - [全日本空輸](../Page/全日本空輸.md "wikilink")（ANA）
   - [ANAウイングス](https://ja.wikipedia.org/wiki/ANAウイングス "wikilink")
   - [エアージャパン](../Page/エアージャパン.md "wikilink")
-  - [バニラ・エア](https://ja.wikipedia.org/wiki/バニラ・エア "wikilink")（[LCC](https://ja.wikipedia.org/wiki/格安航空会社 "wikilink")）
   - [Peach Aviation](https://ja.wikipedia.org/wiki/Peach_Aviation "wikilink")（LCC）
   - [スターフライヤー](../Page/スターフライヤー.md "wikilink") - 持分法適用会社
 

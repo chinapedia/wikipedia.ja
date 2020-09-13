@@ -113,7 +113,7 @@ NHKのラジオ放送は[1925年](../Page/1925年.md "wikilink")3月に開始さ
 
 [1980年代](../Page/1980年代.md "wikilink")の平日は5:30からの放送で、NHK高校講座からスタートし、24:00に君が代が流れた後に終了した。現在は6:00から語学番組が始まるため、24:40まで高校講座が組まれて終わる。
 
-語学番組、[高校講座](../Page/NHK高校講座.md "wikilink")（[NHK学園高校の放送授業でもある](../Page/NHK学園高等学校.md "wikilink")）と、NHK市民大学講座の流れを汲む[NHKカルチャーアワー](https://ja.wikipedia.org/wiki/NHKカルチャーアワー "wikilink")を核に、それ以外の[教養番組](../Page/教養番組.md "wikilink")や、委託業務である[気象通報](../Page/気象通報.md "wikilink")と[株式市況](../Page/株式市況.md "wikilink")、そして、国内放送を統括する放送総局の委託により番組配給を受けている[NHKワールド・ラジオ日本](../Page/NHKワールド・ラジオ日本.md "wikilink")（NHKの[国際放送](../Page/国際放送.md "wikilink")）の[外国語](../Page/外国語.md "wikilink")[ニュース](../Page/NHKニュース.md "wikilink")（[英語](../Page/英語.md "wikilink")、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")、[ハングル](../Page/朝鮮語.md "wikilink")、[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")の5言語）を放送している。
+語学番組、[高校講座](../Page/NHK高校講座.md "wikilink")（[NHK学園高校の放送授業でもある](../Page/NHK学園高等学校.md "wikilink")）と、NHK市民大学講座の流れを汲む[NHKカルチャーアワー](https://ja.wikipedia.org/wiki/NHKカルチャーアワー "wikilink")を核に、それ以外の[教養番組](../Page/教養番組.md "wikilink")や、委託業務である[気象通報](../Page/気象通報.md "wikilink")と[株式市況](../Page/株式市況.md "wikilink")、そして、国内放送を統括する放送総局の委託により番組配給を受けている[NHKワールド・ラジオ日本](../Page/NHKワールド・ラジオ日本.md "wikilink")（NHKの[国際放送](../Page/国際放送.md "wikilink")）の[外国語](../Page/外国語.md "wikilink")[ニュース](../Page/NHKニュース.md "wikilink")（[英語](../Page/英語.md "wikilink")、[中国語](../Page/中国語.md "wikilink")、[ハングル](../Page/朝鮮語.md "wikilink")、[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")の5言語）を放送している。
 
 日曜を除く9:30-11:00の時間帯には[学校放送](../Page/学校放送.md "wikilink")として[小学生](https://ja.wikipedia.org/wiki/小学生 "wikilink")・[中学生](https://ja.wikipedia.org/wiki/中学生 "wikilink")に向けた[国語](../Page/国語.md "wikilink")や[音楽](../Page/音楽.md "wikilink")の教育番組や高校入試のための特別番組が組まれていたが、近年の少子高齢化の影響を受けて、現在は9:30-9:45の「[お話でてこい](https://ja.wikipedia.org/wiki/お話でてこい "wikilink")」を除いてこれらの小中学校向け放送は終了となり、9:45以降の当該時間枠には一般向けの教養・語学番組が充てられた。
 
@@ -641,7 +641,7 @@ NHKのラジオ放送は[1925年](../Page/1925年.md "wikilink")3月に開始さ
 <!-- end list -->
 
   - [スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")（月曜 - 金曜 13:00 - 13:15、土・日 13:00 - 13:10）
-  - [中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")（月曜 - 金曜 13:30 - 13:45、土・日 13:50 - 14:00）
+  - [中国語](../Page/中国語.md "wikilink")（月曜 - 金曜 13:30 - 13:45、土・日 13:50 - 14:00）
   - [ハングル](../Page/朝鮮語.md "wikilink")（月曜 - 金曜 13:15 - 13:30、土・日 13:40 - 13:50）
   - [ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")（月曜 - 金曜 23:40 - 23:55、土・日 23:40 - 23:50）
 
@@ -714,16 +714,25 @@ NHKのラジオ放送は[1925年](../Page/1925年.md "wikilink")3月に開始さ
 
 ## 緊急時の放送
 
-ラジオ第2では、震度6弱以上の[地震](../Page/地震.md "wikilink")および[津波注意報](../Page/津波注意報.md "wikilink")、津波警報発表時や[緊急警報放送](../Page/緊急警報放送.md "wikilink")実施時に英語・朝鮮語・中国語・ポルトガル語の4言語で情報を提供する。同じ内容がテレビジョン[副音声でパラレル送信される場合もある](../Page/音声多重放送.md "wikilink")。これによって放送されなかった番組は、後日、スケジュールを調整して振替放送される。こういった場合、各番組の本編終了直前にも振り替え放送に関するお知らせを放送する。この他、[緊急地震速報](../Page/緊急地震速報.md "wikilink")についても放送されることになっている（Eテレも同様）。
+ラジオ第2では、震度6弱以上の[地震](../Page/地震.md "wikilink")および[津波注意報](../Page/津波注意報.md "wikilink")、津波警報発表時や[緊急警報放送](../Page/緊急警報放送.md "wikilink")実施時に他波との同時放送（全中）を行い、その後は英語・朝鮮語・中国語・ポルトガル語の4言語で情報を提供する。同じ内容が[NHK Gの](../Page/NHK総合テレビジョン.md "wikilink")[副音声や](../Page/音声多重放送.md "wikilink")[NHKワールドTV](../Page/NHKワールドTV.md "wikilink")、[NHKワールド・ラジオ日本](../Page/NHKワールド・ラジオ日本.md "wikilink")でパラレル送信される場合もある。これによって放送されなかった番組は、後日、スケジュールを調整して振替放送される。こういった場合、各番組の本編終了直前にも振り替え放送に関するお知らせを放送する。この他、[緊急地震速報](../Page/緊急地震速報.md "wikilink")についても放送されることになっている（Eテレも同様）。
 
-  - ただ、気象通報及び株式市況は振替放送されない。
+ただ、気象通報及び株式市況は振替放送されない。気象通報は[気象業務法](../Page/気象業務法.md "wikilink")により毎日の放送遂行が義務付けられており、全中の場合のみ中止が許されている。また株式市況は[BS1の](../Page/NHK_BS1.md "wikilink")『[東京マーケット情報](../Page/東京マーケット情報.md "wikilink")』および[データ放送](../Page/データ放送.md "wikilink")で代替が可能なためである。
 
 実際例として、以下のようなケースがある。
 
   - [昭和天皇](../Page/昭和天皇.md "wikilink")が[崩御](../Page/崩御.md "wikilink")した[1989年](../Page/1989年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")の放送では、7:55から崩御の特別ニュースを数分間放送した以外は通常編成を放送したが、君が代の[演奏](../Page/演奏.md "wikilink")は中止されている。[1月8日](../Page/1月8日.md "wikilink")、並びに[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")の[大喪の礼](https://ja.wikipedia.org/wiki/大喪の礼 "wikilink")が行われた時は終日通常番組を放送したが、国歌の放送の省略は同様であった。
+
+<!-- end list -->
+
   - 2006年11月19日は深夜2:00近くまで放送時間を延長。2007年1月15日は深夜2:30まで放送時間を延長した。
+
+<!-- end list -->
+
   - [東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")において、2011年3月11日の発生時から3月13日午前8時まで津波警報や生活情報（外国語）をほぼ終日放送したため、第2放送の番組が過半数休止となったが、13日午前8時からほぼ通常編成となった。Eテレは13日以後も引き続き震災被災者の安否情報や生活情報を断続的に続けたが、[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")からは聴取者保護の観点から児童向け番組の一部を再開し、[3月19日](../Page/3月19日.md "wikilink")から定時番組の編成に戻している。
-  - 2012年12月12日の北朝鮮のミサイル発射のニュースでは9:58から62分間、ラジオ第1、FM、NHKワールド・ラジオ日本（日本語放送）と同時に緊急ニュースの同時放送が行われた\[31\]\[32\]。
+
+<!-- end list -->
+
+  - 2012年12月12日の[北朝鮮の](../Page/朝鮮民主主義人民共和国.md "wikilink")[ミサイル発射のニュースでは](../Page/北朝鮮によるミサイル発射実験.md "wikilink")9:58から62分間、ラジオ第1、FM、NHKワールド・ラジオ日本（日本語放送）と同時に緊急ニュースの同時放送が行われた\[31\]\[32\]。
 
 ## 関連項目
 

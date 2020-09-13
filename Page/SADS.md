@@ -1196,7 +1196,7 @@ SPECIAL STANDING GIG</p></td>
 7月17日 Y2K ROPPONNGI<br />
 7月18日 恵比寿GUILTY<br />
 7月19日 吉祥寺Star Pine's Cafe<br />
-7月20日 <a href="https://ja.wikipedia.org/wiki/目黒鹿鳴館" title="wikilink">目黒鹿鳴館</a><br />
+7月20日 <a href="../Page/目黒鹿鳴館.md" title="wikilink">目黒鹿鳴館</a><br />
 </p>
 </div>
 </div></td>

@@ -57,6 +57,17 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/2020_ANA_Inspiration" title="wikilink">2020</a></p></td>
+<td><p>9月10–13</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>3,100,000</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
 <td><p>Apr 4–7</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/コ・ジンヨン" title="wikilink">コ・ジンヨン</a></p></td>
@@ -67,7 +78,7 @@
 <td><p>3 strokes</p></td>
 <td><p>3,000,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2018年.md" title="wikilink">2018年</a></p></td>
 <td><p>Mar 29 - Apr 2*</p></td>
 <td><p>パーニラ・リンドベルグ</p></td>
@@ -78,7 +89,7 @@
 <td><p>Playoff</p></td>
 <td><p>2,800,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a></p></td>
 <td><p>Mar 30 – Apr 2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/柳簫然" title="wikilink">ユ・ソヨン</a>[2]</p></td>
@@ -89,7 +100,7 @@
 <td><p>Playoff</p></td>
 <td><p>2,700,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
 <td><p>Mar 31 – Apr 3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/リディア・コ" title="wikilink">リディア・コ</a></p></td>
@@ -100,7 +111,7 @@
 <td><p>1打差</p></td>
 <td><p>2,600,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a></p></td>
 <td><p>Apr 2–5</p></td>
 <td><p><a href="../Page/ブリタニー・リンシコム.md" title="wikilink">ブリタニー・リンシコム</a> (2)</p></td>
@@ -111,7 +122,7 @@
 <td><p>Playoff</p></td>
 <td><p>2,500,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
 <td><p>Apr 3–6</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/レクシー・トンプソン" title="wikilink">レクシー・トンプソン</a></p></td>
@@ -122,7 +133,7 @@
 <td><p>3打差</p></td>
 <td><p>2,000,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a></p></td>
 <td><p>Apr 4–7</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/朴仁妃" title="wikilink">朴仁妃</a></p></td>
@@ -133,7 +144,7 @@
 <td><p>4打差</p></td>
 <td><p>2,000,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a></p></td>
 <td><p>Mar 29 – Apr 1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ユ・ソンヨン" title="wikilink">ユ・ソンヨン</a></p></td>
@@ -144,7 +155,7 @@
 <td><p>Playoff</p></td>
 <td><p>2,000,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a></p></td>
 <td><p>Mar 31 – Apr 3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ステイシー・ルイス" title="wikilink">ステイシー・ルイス</a></p></td>
@@ -155,7 +166,7 @@
 <td><p>3打差</p></td>
 <td><p>2,000,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a></p></td>
 <td><p>Apr 1–4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/曾雅妮" title="wikilink">曾雅妮</a></p></td>
@@ -166,7 +177,7 @@
 <td><p>1打差</p></td>
 <td><p>2,000,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
 <td><p>Apr 2–5</p></td>
 <td><p><a href="../Page/ブリタニー・リンシコム.md" title="wikilink">ブリタニー・リンシコム</a></p></td>
@@ -177,7 +188,7 @@
 <td><p>1打差</p></td>
 <td><p>2,000,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a></p></td>
 <td><p>Apr 3–6</p></td>
 <td><p><a href="../Page/ロレーナ・オチョア.md" title="wikilink">ロレーナ・オチョア</a></p></td>
@@ -188,7 +199,7 @@
 <td><p>5打差</p></td>
 <td><p>2,000,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
 <td><p>Mar 29 – Apr 1</p></td>
 <td><p><a href="../Page/モーガン・プレッセル.md" title="wikilink">モーガン・プレッセル</a></p></td>
@@ -199,7 +210,7 @@
 <td><p>1打差</p></td>
 <td><p>2,000,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td><p>Mar 30 – Apr 2</p></td>
 <td><p><a href="../Page/カリー・ウェブ.md" title="wikilink">カリー・ウェブ</a> (2)</p></td>
@@ -210,7 +221,7 @@
 <td><p>Playoff</p></td>
 <td><p>1,800,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p>Mar 24–27</p></td>
 <td><p><a href="../Page/アニカ・ソレンスタム.md" title="wikilink">アニカ・ソレンスタム</a> (3)</p></td>
@@ -221,7 +232,7 @@
 <td><p>8打差</p></td>
 <td><p>1,800,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>
 <td><p>Mar 25–28</p></td>
 <td><p><a href="../Page/グレース朴.md" title="wikilink">グレース朴</a></p></td>
@@ -232,7 +243,7 @@
 <td><p>1打差</p></td>
 <td><p>1,600,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a></p></td>
 <td><p>Mar 27–30</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/パトリシア・メルニエ＝ルブック" title="wikilink">パトリシア・メルニエ＝ルブック</a></p></td>
@@ -243,7 +254,7 @@
 <td><p>1打差</p></td>
 <td><p>1,600,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a></p></td>
 <td><p>Mar 28–31</p></td>
 <td><p><a href="../Page/アニカ・ソレンスタム.md" title="wikilink">アニカ・ソレンスタム</a> (2)</p></td>
@@ -254,7 +265,7 @@
 <td><p>1打差</p></td>
 <td><p>1,500,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a></p></td>
 <td><p>Mar 22–25</p></td>
 <td><p><a href="../Page/アニカ・ソレンスタム.md" title="wikilink">アニカ・ソレンスタム</a></p></td>
@@ -265,7 +276,7 @@
 <td><p>3打差</p></td>
 <td><p>1,500,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a></p></td>
 <td><p>Mar 23–26</p></td>
 <td><p><a href="../Page/カリー・ウェブ.md" title="wikilink">カリー・ウェブ</a></p></td>
@@ -276,7 +287,7 @@
 <td><p>10打差</p></td>
 <td><p>1,250,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a></p></td>
 <td><p>Mar 25–28</p></td>
 <td><p><a href="../Page/ドッティー・ペッパー.md" title="wikilink">ドッティー・ペッパー</a> (2)</p></td>
@@ -287,7 +298,7 @@
 <td><p>6打差</p></td>
 <td><p>1,000,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a></p></td>
 <td><p>Mar 26–29</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/パット・ハースト" title="wikilink">パット・ハースト</a></p></td>
@@ -298,7 +309,7 @@
 <td><p>1打差</p></td>
 <td><p>1,000,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a></p></td>
 <td><p>Mar 27–30</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ベッツィ・キング" title="wikilink">ベッツィ・キング</a> (3)</p></td>
@@ -309,7 +320,7 @@
 <td><p>2打差</p></td>
 <td><p>900,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/1996年.md" title="wikilink">1996年</a></p></td>
 <td><p>Mar 28–31</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/パティ・シーハン" title="wikilink">パティ・シーハン</a></p></td>
@@ -320,7 +331,7 @@
 <td><p>1打差</p></td>
 <td><p>900,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a></p></td>
 <td><p>Mar 23–26</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ナンシー・ボウエン" title="wikilink">ナンシー・ボウエン</a></p></td>
@@ -331,7 +342,7 @@
 <td><p>1打差</p></td>
 <td><p>850,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/1994年.md" title="wikilink">1994年</a></p></td>
 <td><p>Mar 24–27</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ドナ・アンドリュース" title="wikilink">ドナ・アンドリュース</a></p></td>
@@ -342,7 +353,7 @@
 <td><p>2打差</p></td>
 <td><p>700,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/1993年.md" title="wikilink">1993年</a></p></td>
 <td><p>Mar 25–28</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヘレン・アルフレッドソン" title="wikilink">ヘレン・アルフレッドソン</a></p></td>
@@ -353,7 +364,7 @@
 <td><p>2打差</p></td>
 <td><p>700,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/1992年.md" title="wikilink">1992年</a></p></td>
 <td><p>Mar 26–29</p></td>
 <td><p><a href="../Page/ドッティー・ペッパー.md" title="wikilink">ドッティー・モーリー</a></p></td>
@@ -364,7 +375,7 @@
 <td><p>Playoff</p></td>
 <td><p>700,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/1991年.md" title="wikilink">1991年</a></p></td>
 <td><p>Mar 28–31</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エイミー・オルコット" title="wikilink">エイミー・オルコット</a> (3)</p></td>
@@ -375,7 +386,7 @@
 <td><p>8打差</p></td>
 <td><p>600,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1990年" title="wikilink">1990年</a></p></td>
 <td><p>Mar 29 – Apr 1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ベッツィ・キング" title="wikilink">ベッツィ・キング</a> (2)</p></td>
@@ -386,7 +397,7 @@
 <td><p>2打差</p></td>
 <td><p>500,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/1989年.md" title="wikilink">1989年</a></p></td>
 <td><p>Mar 30 – Apr 2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジュリ・インクスター" title="wikilink">ジュリ・インクスター</a> (2)</p></td>
@@ -397,7 +408,7 @@
 <td><p>5打差</p></td>
 <td><p>500,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/1988年.md" title="wikilink">1988年</a></p></td>
 <td><p>Mar 31 – Apr 3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エイミー・オルコット" title="wikilink">エイミー・オルコット</a> (2)</p></td>
@@ -408,7 +419,7 @@
 <td><p>2打差</p></td>
 <td><p>500,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1987年" title="wikilink">1987年</a></p></td>
 <td><p>Apr 2–5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ベッツィ・キング" title="wikilink">ベッツィ・キング</a></p></td>
@@ -419,7 +430,7 @@
 <td><p>Playoff</p></td>
 <td><p>500,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td><p>Apr 3–6</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/パット・ブラッドリー" title="wikilink">パット・ブラッドリー</a></p></td>
@@ -430,7 +441,7 @@
 <td><p>2打差</p></td>
 <td><p>430,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1985年" title="wikilink">1985年</a></p></td>
 <td><p>Apr 4–7</p></td>
 <td><p><a href="../Page/アリス・ミラー.md" title="wikilink">アリス・ミラー</a></p></td>
@@ -441,7 +452,7 @@
 <td><p>3打差</p></td>
 <td><p>400,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/1984年.md" title="wikilink">1984年</a></p></td>
 <td><p>Apr 5–8</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジュリ・インクスター" title="wikilink">ジュリ・インクスター</a></p></td>
@@ -452,7 +463,7 @@
 <td><p>Playoff</p></td>
 <td><p>400,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1983年" title="wikilink">1983年</a></p></td>
 <td><p>Mar 31 – Apr 3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エイミー・オルコット" title="wikilink">エイミー・オルコット</a></p></td>

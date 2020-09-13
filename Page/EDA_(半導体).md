@@ -146,8 +146,8 @@
 
   - [Xilinx](https://ja.wikipedia.org/wiki/Xilinx "wikilink")
 
-      -
-      -
+      - (の後継)
+
   - [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink") - 2015年、[アルテラ](../Page/アルテラ.md "wikilink")を買収。
 
       - (旧Altera Quartus)
@@ -159,7 +159,7 @@
 
   - \- 2010年、を買収した。2018年、[マイクロチップ・テクノロジー](https://ja.wikipedia.org/wiki/マイクロチップ・テクノロジー "wikilink")に買収された。
 
-      - Libero
+      - Libero SoC (Libero IDEの後継)
 
 #### オープンソース
 

@@ -80,4 +80,4 @@
   - [ツイッター](http://twitter.com/screaming_frogs/)
   - [The Screaming Frogsホームページ](http://www.crownrecord.co.jp/artist/screamingfrogs/index.html) - 日本クラウン在籍時による公式ページ
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink")

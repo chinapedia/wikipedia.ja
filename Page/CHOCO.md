@@ -1,7 +1,7 @@
 > この記事は[CHOCO](https://ja.wikipedia.org/wiki/CHOCO)から翻訳されています。
 
 
-**CHOCO**（チョコ、男性、[1975年](../Page/1975年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink") - ）は、[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")出身の[漫画家](../Page/漫画家.md "wikilink")、同人作家、[キャラクター](../Page/キャラクターデザイン.md "wikilink")、[メカニックデザイナー](../Page/メカニックデザイン.md "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")。[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**CHOCO**（チョコ、男性、[1975年](../Page/1975年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink") - ）は、[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")出身の[漫画家](../Page/漫画家.md "wikilink")、同人作家、[キャラクター](../Page/キャラクターデザイン.md "wikilink")、[メカニックデザイナー](../Page/メカニックデザイン.md "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")。[血液型はB型](../Page/ABO式血液型.md "wikilink")。
 
 ## 来歴
 

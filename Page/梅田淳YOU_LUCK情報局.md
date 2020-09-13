@@ -7,7 +7,7 @@
 
 ニッポン放送は、2004年度の週末のナイターオフ番組として、当時、[関西テレビにてスポーツアナウンサーをしていた梅田が](../Page/関西テレビ放送.md "wikilink")、関西テレビを退職しフリーに転身して、東京に進出して初めてのレギュラー番組であった\[1\]。番組タイトルの「**YOU LUCK**」はニッポン放送が所在する、[有楽町](../Page/有楽町.md "wikilink")を捩って名付けられている。
 
-番組構成は、最新のスポーツニュースやストレートニュース、エンターテイメント情報や東京情報を伝える\[2\]。2005年3月27日にて番組は終了。番組終了以後、2018年時点で梅田のニッポン放送での起用は無く、フジサンケイグループの別ラジオ局である[ラジオ大阪](https://ja.wikipedia.org/wiki/ラジオ大阪 "wikilink")での出演は継続されていた。
+番組構成は、最新のスポーツニュースやストレートニュース、エンターテイメント情報や東京情報を伝える\[2\]。2005年3月27日にて番組は終了。番組終了以後、2018年時点で梅田のニッポン放送での起用は無く、フジサンケイグループの別ラジオ局である[ラジオ大阪での出演は継続されていた](../Page/大阪放送.md "wikilink")。
 
 ## 出演者
 
@@ -46,9 +46,7 @@
 
   - [梅田淳YOU LUCK情報局](http://www.1242.com/umejun/)
 
-[Category:ニッポン放送のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送のバラエティ番組 "wikilink")
-
-[Category:2004年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のラジオ番組_\(日本\) "wikilink") [Category:ニッポン放送のスポーツ番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送のスポーツ番組 "wikilink") [Category:ニッポン放送の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送の情報・ワイドショー番組 "wikilink")
+[Category:2004年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のラジオ番組_\(日本\) "wikilink") [Category:ニッポン放送のスポーツ番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送のスポーツ番組 "wikilink") [Category:ニッポン放送の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送の情報・ワイドショー番組 "wikilink") [Category:ニッポン放送のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送のバラエティ番組 "wikilink")
 
 1.  同時期に同じく[朝日放送を退職し](../Page/朝日放送テレビ.md "wikilink")、フリーに転身した[宮根誠司](../Page/宮根誠司.md "wikilink")と同時期だった
 2.  [1](http://www.1242.com/info/200410/)

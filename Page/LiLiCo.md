@@ -5,7 +5,9 @@
 
 ## 来歴
 
-}}[スウェーデン人](../Page/スウェーデン人.md "wikilink")で、母親が日本人（2012年に病死）。ハーフということで壮絶ないじめを受けた。幼少期より祖母が日本から送ってくれた小包に入っていた[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")雑誌を読み、[レコード](../Page/レコード.md "wikilink")を聴いていくうちに歌手になりたいという夢を持つようになる\[2\]。学生時代は[コーラス部に在籍](../Page/合唱.md "wikilink")\[3\]。その後両親が[離婚](../Page/離婚.md "wikilink")、18歳の時に単身で来日。母親の故郷で祖母が住んでいた[東京都](../Page/東京都.md "wikilink")[葛飾区](https://ja.wikipedia.org/wiki/葛飾区 "wikilink")に移住。
+}}[スウェーデン人](../Page/スウェーデン人.md "wikilink")で、母親が日本人（2012年に病死）。弟がいる。[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")では、ハーフということで壮絶ないじめを受けた。また、父と母は喧嘩が絶えず、母はLiLiCoを否定する言葉を投げつけるなど、家の中でも逃げ場はない状態であった\[2\]。
+
+心の拠り所となったのは、幼少期より祖母が[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")から送ってくれた小包に入っていた[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")雑誌であり、その雑誌を読み、日本の[レコード](../Page/レコード.md "wikilink")を聴いていくうちに歌手になりたいという夢を持つようになる\[3\]。学生時代は[コーラス部に在籍](../Page/合唱.md "wikilink")\[4\]。その後両親が[離婚](../Page/離婚.md "wikilink")、18歳の時、祖母を頼り、単身で来日。母親の故郷で祖母が住んでいた[東京都](../Page/東京都.md "wikilink")[葛飾区](https://ja.wikipedia.org/wiki/葛飾区 "wikilink")に移住。当時は[日本語](../Page/日本語.md "wikilink")がほぼ話せなかったと言うが、強い決意を持って来日した。言葉は通じなかったが、祖母は孫に愛情を注いだ\[5\]。
 
 19歳のとき、当時歌のレッスンを習っていた講師から勧められて[静岡県](../Page/静岡県.md "wikilink")[浜松市](https://ja.wikipedia.org/wiki/浜松市 "wikilink")に転居。現地の[芸能事務所](../Page/芸能事務所.md "wikilink")で、在籍していた[演歌](../Page/演歌.md "wikilink")[歌手](../Page/歌手.md "wikilink")の元で下積みを重ねる。
 
@@ -17,17 +19,19 @@
 
 [映画俳優](https://ja.wikipedia.org/wiki/映画俳優 "wikilink")へのインタビューをはじめ、トークイベント、[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")、[雑誌](../Page/雑誌.md "wikilink")[エッセイ](https://ja.wikipedia.org/wiki/エッセイ "wikilink")執筆など、マルチタレントとして幅広く活躍。[アニメ](../Page/アニメ.md "wikilink")『[サウスパーク](../Page/サウスパーク.md "wikilink")』などで[声優](../Page/声優.md "wikilink")としても活動。
 
-2018年4月2日、レギュラー出演している「[ノンストップ\!](https://ja.wikipedia.org/wiki/ノンストップ! "wikilink")」の生放送中に、当日ゲスト出演中の歌謡グループ[純烈](https://ja.wikipedia.org/wiki/純烈 "wikilink")のメンバーで俳優の[小田井涼平](../Page/小田井涼平.md "wikilink")と2017年に婚姻届を提出していたことを発表した\[4\]。LiLiCoはこれが再婚である。また、30歳のときに結婚歴があり、6年で離婚している。前夫との間にも子供はいない。
+2018年4月2日、レギュラー出演している『[ノンストップ\!](https://ja.wikipedia.org/wiki/ノンストップ! "wikilink")』（フジテレビ）の生放送中に、当日ゲスト出演中の歌謡グループ[純烈](https://ja.wikipedia.org/wiki/純烈 "wikilink")のメンバーで俳優の[小田井涼平](../Page/小田井涼平.md "wikilink")と2017年に婚姻届を提出していたことを発表した\[6\]。LiLiCoはこれが再婚である。また、30歳のときに結婚歴があり、6年で離婚している。前夫との間にも子供はいない。
+
+2020年8月11日、声帯の手術を受けたことを公表\[7\]\[8\]。翌12日、転倒して左膝蓋骨を骨折\[9\]\[10\]。13日、手術を受ける\[11\]\[12\]。
 
 ## プロレス活動
 
-2014年8月17日、[DDTプロレスリング](../Page/DDTプロレスリング.md "wikilink")の開催する[両国ピーターパン2014〜人生変えちゃう夏かもね\!〜](https://ja.wikipedia.org/wiki/両国ピーターパン2014〜人生変えちゃう夏かもね!〜 "wikilink")にて行われた「[アイアンマンヘビーメタル級選手権バトルロイヤルに特別リングアナとして参加](https://ja.wikipedia.org/wiki/アイアンマンヘビーメタル級王座 "wikilink")。試合後、バトルロイヤルを勝ち抜きアイアンマンベルトを保持していた[ゴージャス松野](https://ja.wikipedia.org/wiki/ゴージャス松野 "wikilink")がダウンしていたところをフォールし3カウント、同王座の第1009代王者となる\[5\]。
+2014年8月17日、[DDTプロレスリング](../Page/DDTプロレスリング.md "wikilink")の開催する[両国ピーターパン2014〜人生変えちゃう夏かもね\!〜](https://ja.wikipedia.org/wiki/両国ピーターパン2014〜人生変えちゃう夏かもね!〜 "wikilink")にて行われた「[アイアンマンヘビーメタル級選手権バトルロイヤルに特別リングアナとして参加](https://ja.wikipedia.org/wiki/アイアンマンヘビーメタル級王座 "wikilink")。試合後、バトルロイヤルを勝ち抜きアイアンマンベルトを保持していた[ゴージャス松野](https://ja.wikipedia.org/wiki/ゴージャス松野 "wikilink")がダウンしていたところをフォールし3カウント、同王座の第1009代王者となる\[13\]。
 
 以降、ボディーガードとして[ベルナール・アッカ](../Page/ベルナール・アッカ.md "wikilink")を連れ防衛を重ねるが、12月23日のDDT後楽園大会にて[ヨシヒコ](https://ja.wikipedia.org/wiki/ヨシヒコ "wikilink")に敗北。同王座から陥落。
 
-2015年6月28日、DDT後楽園大会に来場しプロレスラーデビューを直訴\[6\]。
+2015年6月28日、DDT後楽園大会に来場しプロレスラーデビューを直訴\[14\]。
 
-2015年8月23日、『[両国ピーターパン2015〜DDTより愛をこめて〜](https://ja.wikipedia.org/wiki/両国ピーターパン2015〜DDTより愛をこめて〜 "wikilink")』でプロレスデビュー。第2試合「時間差タッグバトルロイヤル」に出場、[宮武俊](https://ja.wikipedia.org/wiki/宮武俊 "wikilink")とタッグを組み、勝ち残っていた[アジャ・コング](../Page/アジャ・コング.md "wikilink")＆[大石真翔](../Page/大石真翔.md "wikilink")組と対戦したが、宮武がアジャに敗北\[7\]。
+2015年8月23日、『[両国ピーターパン2015〜DDTより愛をこめて〜](https://ja.wikipedia.org/wiki/両国ピーターパン2015〜DDTより愛をこめて〜 "wikilink")』でプロレスデビュー。第2試合「時間差タッグバトルロイヤル」に出場、[宮武俊](https://ja.wikipedia.org/wiki/宮武俊 "wikilink")とタッグを組み、勝ち残っていた[アジャ・コング](../Page/アジャ・コング.md "wikilink")＆[大石真翔](../Page/大石真翔.md "wikilink")組と対戦したが、宮武がアジャに敗北\[15\]。
 
 2016年1月3日、DDT後楽園大会にて、アイアンマン王座を保持していた[赤井沙希](../Page/赤井沙希.md "wikilink")を奇襲し同王座を獲得。
 
@@ -37,7 +41,7 @@
 
 2016年5月29日、DDT後楽園ホールにて[スーパーササダンゴマシンの保持する](../Page/マッスル坂井.md "wikilink")[EXTREME級王座に挑み](https://ja.wikipedia.org/wiki/DDT_EXTREME級選手権 "wikilink")、勝利し同王座を戴冠。
 
-2017年8月20日、DDTプロレス『[両国ピーターパン2017〜ピーターパン 二十歳になっても ピーターパン〜](https://ja.wikipedia.org/wiki/両国ピーターパン2017〜ピーターパン_二十歳になっても_ピーターパン〜 "wikilink")』にて初代『[KO-D10人タッグ王座](https://ja.wikipedia.org/wiki/KO-D10人タッグ王座 "wikilink")』を獲得。他のパートナーは大石真翔＆レディビアード＆スーパーササダンゴマシン＆[大家健](https://ja.wikipedia.org/wiki/大家健 "wikilink")\[8\]。
+2017年8月20日、DDTプロレス『[両国ピーターパン2017〜ピーターパン 二十歳になっても ピーターパン〜](https://ja.wikipedia.org/wiki/両国ピーターパン2017〜ピーターパン_二十歳になっても_ピーターパン〜 "wikilink")』にて初代『[KO-D10人タッグ王座](https://ja.wikipedia.org/wiki/KO-D10人タッグ王座 "wikilink")』を獲得。他のパートナーは大石真翔＆レディビアード＆スーパーササダンゴマシン＆[大家健](https://ja.wikipedia.org/wiki/大家健 "wikilink")\[16\]。
 
 ### 得意技
 
@@ -64,18 +68,18 @@
 
 ## エピソード
 
-  - 顔立ちと浅黒い肌から[ラテン系](https://ja.wikipedia.org/wiki/ラテン系 "wikilink")出身と度々間違われる。本人もラテン系と自称することがある。ちなみに肌は、よく[日焼けサロン](https://ja.wikipedia.org/wiki/日焼けサロン "wikilink")に通って焼いている\[9\]。
+  - 顔立ちと浅黒い肌から[ラテン系](https://ja.wikipedia.org/wiki/ラテン系 "wikilink")出身と度々間違われる。本人もラテン系と自称することがある。ちなみに肌は、よく[日焼けサロン](https://ja.wikipedia.org/wiki/日焼けサロン "wikilink")に通って焼いている\[17\]。
   - [関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")[安田章大](../Page/安田章大.md "wikilink")の大ファン。映画「エイトレンジャー」公開の際には映画会社に、楽しみなので試写はいつですか？と打診し、完成披露試写会の際に司会に選ばれた
-  - 祖母など家族や、葛飾区の近所の人々からは、ピーコちゃんと呼ばれていた\[10\]日本の祖母は、本名のアンソフィーをどうしても発音できずアンソピーになってしまい、ピーだけとってピーコちゃんになった\[11\]。
-  - 数カ月で[芸能界](https://ja.wikipedia.org/wiki/芸能界 "wikilink")デビューできると思っていたが、当時は[日本語](../Page/日本語.md "wikilink")がまったく話せず、また日本芸能界への縁故もなくその夢は失敗した。日本語学校へ行く資金がないため、祖母の家やアルバイト先の弁当屋での昼休みの時に『[笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")』などを観て日本語を覚えた。現在では日本語、[スウェーデン語](../Page/スウェーデン語.md "wikilink")、[英語](../Page/英語.md "wikilink")、[ドイツ語](../Page/ドイツ語.md "wikilink")など数か国語を操るという\[12\]\[13\]\[14\]。
-  - 弁当屋でバイトをしていた時、初仕事が水で戻した[高野豆腐](../Page/高野豆腐.md "wikilink")を絞る仕事だった。しかし当時は高野豆腐が何かも分からず、[スポンジ](../Page/スポンジ.md "wikilink")だと思っていた\[15\]。
-  - 「LiLiKo」の芸名は自らの考案。 [フィービー・ケイツ](../Page/フィービー・ケイツ.md "wikilink")が出演していたドラマの役名「リリー」に、日本式に「子」を付けたもの\[16\]。
-  - さまざまな番組でのエンドロールで出るプロデューサーの元に直接出向き、「ぜひこの番組に出してください\!」と直談判していた。特に『[関口宏の東京フレンドパークII](../Page/関口宏の東京フレンドパークII.md "wikilink")』には15年前から「出してください」と言っていたものの、「まだダメ」と断られていたという。その後、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月7日](../Page/6月7日.md "wikilink")放送分で初登場。[谷原章介](../Page/谷原章介.md "wikilink")、[優香](../Page/優香.md "wikilink")、[はしのえみ](../Page/はしのえみ.md "wikilink")と共に「王様のブランチチーム」で出演を果たした\[17\]。夢は『[情熱大陸](../Page/情熱大陸.md "wikilink")』に出演する事で、過去に情熱大陸の制作会社に自ら出向いてプレゼンした事がある。
+  - 祖母など家族や、葛飾区の近所の人々からは、ピーコちゃんと呼ばれていた\[18\]日本の祖母は、本名のアンソフィーをどうしても発音できずアンソピーになってしまい、ピーだけとってピーコちゃんになった\[19\]。
+  - 数カ月で[芸能界](https://ja.wikipedia.org/wiki/芸能界 "wikilink")デビューできると思っていたが、当時は[日本語](../Page/日本語.md "wikilink")がまったく話せず、また日本芸能界への縁故もなくその夢は失敗した。日本語学校へ行く資金がないため、祖母の家やアルバイト先の弁当屋での昼休みの時に『[笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")』などを観て日本語を覚えた。現在では日本語、[スウェーデン語](../Page/スウェーデン語.md "wikilink")、[英語](../Page/英語.md "wikilink")、[ドイツ語](../Page/ドイツ語.md "wikilink")など数か国語を操るという\[20\]\[21\]\[22\]。
+  - 弁当屋でバイトをしていた時、初仕事が水で戻した[高野豆腐](../Page/高野豆腐.md "wikilink")を絞る仕事だった。しかし当時は高野豆腐が何かも分からず、[スポンジ](../Page/スポンジ.md "wikilink")だと思っていた\[23\]。
+  - 「LiLiKo」の芸名は自らの考案。 [フィービー・ケイツ](../Page/フィービー・ケイツ.md "wikilink")が出演していたドラマの役名「リリー」に、日本式に「子」を付けたもの\[24\]。
+  - さまざまな番組でのエンドロールで出るプロデューサーの元に直接出向き、「ぜひこの番組に出してください\!」と直談判していた。特に『[関口宏の東京フレンドパークII](../Page/関口宏の東京フレンドパークII.md "wikilink")』には15年前から「出してください」と言っていたものの、「まだダメ」と断られていたという。その後、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月7日](../Page/6月7日.md "wikilink")放送分で初登場。[谷原章介](../Page/谷原章介.md "wikilink")、[優香](../Page/優香.md "wikilink")、[はしのえみ](../Page/はしのえみ.md "wikilink")と共に「王様のブランチチーム」で出演を果たした\[25\]。夢は『[情熱大陸](../Page/情熱大陸.md "wikilink")』に出演する事で、過去に情熱大陸の制作会社に自ら出向いてプレゼンした事がある。
   - 2012年に、全く売れていない時代から憧れていた『[笑っていいとも](https://ja.wikipedia.org/wiki/笑っていいとも "wikilink")』のテレフォンゲストとして登場。「日本語がわからない時代から、タモリさんが面白い人だとわかった」などと涙ながらに登場の感激を語っている。
-  - 弟は6か国語を話せる経営学博士で、スウェーデンの大学で准教授をしている\[18\]。
+  - 弟は6か国語を話せる経営学博士で、スウェーデンの大学で准教授をしている\[26\]。
   - 売れない当時はメイク道具も無く、マジックペンなどでメイク用品を代用していた。その為、女性とは思われずに[ニューハーフ](../Page/ニューハーフ.md "wikilink")と間違われた事もあった。
   - ハイテンションでポジティブで豪快ながらもちゃんとポイントを押さえた発言をしている。時々、急に乙女ぶったりすると周囲から「らしくない」「可愛くない」と言われて「なんでだよ！」と突っ込む事が多い。
-  - [2020年](../Page/2020年.md "wikilink")現在、夫との間に子供はいないが、発展途上国で暮らす3人の子供の面倒を見ているという\[19\]｡
+  - [2020年](../Page/2020年.md "wikilink")現在、夫との間に子供はいないが、発展途上国で暮らす3人の子供の面倒を見ているという\[27\]｡
 
 ## 主な出演作品
 
@@ -92,9 +96,10 @@
   - 東京PRウーマン(2015年8月22日) - 本人 役
   - [猫侍 南の島へ行く](https://ja.wikipedia.org/wiki/猫侍#劇場版_『猫侍_南の島へ行く』 "wikilink")（2015年9月6日） - お蓮 役
   - [さらば あぶない刑事](https://ja.wikipedia.org/wiki/さらば_あぶない刑事 "wikilink")（2016年） - 水上警察職員 役
-  - [手をつないでかえろうよ〜シャングリラの向こうで〜](https://ja.wikipedia.org/wiki/手をつないでかえろうよ〜シャングリラの向こうで〜 "wikilink")（2016年5月28日） - 真人の母 役\[20\]
+  - [手をつないでかえろうよ〜シャングリラの向こうで〜](https://ja.wikipedia.org/wiki/手をつないでかえろうよ〜シャングリラの向こうで〜 "wikilink")（2016年5月28日） - 真人の母 役\[28\]
   - [ニワトリ★スター](https://ja.wikipedia.org/wiki/ニワトリ★スター "wikilink")（2018年） - 管理人 役
-  - [108〜海馬五郎の復讐と冒険〜](https://ja.wikipedia.org/wiki/108〜海馬五郎の復讐と冒険〜 "wikilink")（2019年10月25日公開予定） - エイドリアン 役
+  - [108〜海馬五郎の復讐と冒険〜](https://ja.wikipedia.org/wiki/108〜海馬五郎の復讐と冒険〜 "wikilink")（2019年10月25日） - エイドリアン 役
+  - [十二単衣を着た悪魔](https://ja.wikipedia.org/wiki/十二単衣を着た悪魔 "wikilink")（2020年11月16日） - 山下元子 役
 
 #### 洋画吹き替え
 
@@ -108,16 +113,17 @@
 
 #### 海外アニメ
 
-  - [幸福路のチー](../Page/幸福路のチー.md "wikilink")（チーの祖母\[21\]）
+  - [アダムス・ファミリー](https://ja.wikipedia.org/wiki/アダムス・ファミリー_\(2019年の映画\) "wikilink")（マーゴ・ニードラー\[29\]）
+  - [幸福路のチー](../Page/幸福路のチー.md "wikilink")（チーの祖母\[30\]）
   - [サウスパーク](../Page/サウスパーク.md "wikilink")（エリック・カートマン）※[WOWOW](../Page/WOWOW.md "wikilink")版及び[Netflix](../Page/Netflix.md "wikilink")版
-  - [サミーとシェリー 七つの海の大冒険](https://ja.wikipedia.org/wiki/サミーとシェリー_七つの海の大冒険 "wikilink")（ベラ\[22\]）
+  - [サミーとシェリー 七つの海の大冒険](https://ja.wikipedia.org/wiki/サミーとシェリー_七つの海の大冒険 "wikilink")（ベラ\[31\]）
   - [ファインディング・ニモ](../Page/ファインディング・ニモ.md "wikilink")（大口魚の母）
   - [メアリー & マックス](https://ja.wikipedia.org/wiki/メアリー_&_マックス "wikilink")（ヴェラ）
   - [ロラックスおじさんの秘密の種](https://ja.wikipedia.org/wiki/ロラックスおじさんの秘密の種 "wikilink")（テッドのママ）
 
 #### 劇場版アニメ
 
-  - [レイトン教授と永遠の歌姫](https://ja.wikipedia.org/wiki/レイトン教授と永遠の歌姫 "wikilink")（アニー・ドレッチー\[23\]）
+  - [レイトン教授と永遠の歌姫](https://ja.wikipedia.org/wiki/レイトン教授と永遠の歌姫 "wikilink")（アニー・ドレッチー\[32\]）
   - [映画 紙兎ロペつか、夏休みラスイチってマジっすか\!?](https://ja.wikipedia.org/wiki/紙兎ロペ#映画 "wikilink")（占い師、カメラ屋のおばさん、ラビッツフルーツのお客）
 
 ### テレビ番組
@@ -151,7 +157,7 @@
   - [ファースト・クラス](https://ja.wikipedia.org/wiki/ファーストクラス_\(テレビドラマ\) "wikilink")（2014年4月19日 - 6月21日、フジテレビ） - ナレーション / リエコ・マッカートニー 役
       - ファーストクラス（2014年10月15日 - 12月24日）
   - [問題のあるレストラン](https://ja.wikipedia.org/wiki/問題のあるレストラン "wikilink") 第9話（2015年3月12日、フジテレビ）
-  - [せいせいするほど、愛してる](https://ja.wikipedia.org/wiki/せいせいするほど、愛してる#テレビドラマ "wikilink") 第4話（2016年8月2日、TBS） - hiro 役\[24\]
+  - [せいせいするほど、愛してる](https://ja.wikipedia.org/wiki/せいせいするほど、愛してる#テレビドラマ "wikilink") 第4話（2016年8月2日、TBS） - hiro 役\[33\]
   - [潜入捜査アイドル・刑事ダンス](https://ja.wikipedia.org/wiki/潜入捜査アイドル・刑事ダンス "wikilink") 第4話（2016年10月29日、テレビ東京） - リサコ 役
   - 年の瀬恋愛ドラマ「恋するJKゾンビ」（2016年12月30日、テレビ朝日）- 杉田摩亜沙 役
   - [連続ドラマW](https://ja.wikipedia.org/wiki/連続ドラマW "wikilink") [それを愛とまちがえるから](https://ja.wikipedia.org/wiki/それを愛とまちがえるから "wikilink")（2019年2月9日 - 3月9日、WOWOW） - 馬場さくら 役
@@ -178,8 +184,8 @@
   - [ネッツトヨタ](../Page/ネッツ店.md "wikilink")（ナレーション）
   - [ペプシ](https://ja.wikipedia.org/wiki/ペプシ "wikilink")NEX（ナレーション）
   - [ドラゴンポーカー](https://ja.wikipedia.org/wiki/ドラゴンポーカー "wikilink")
-  - [サントリー](../Page/サントリー.md "wikilink") サントリープレシャス（2015年4月、北海道限定）\[25\]\[26\]
-  - [雪印メグミルク](https://ja.wikipedia.org/wiki/雪印メグミルク "wikilink")「こんがり焼ける とろけるスライス」（2015年）\[27\]
+  - [サントリー](../Page/サントリー.md "wikilink") サントリープレシャス（2015年4月、北海道限定）\[34\]\[35\]
+  - [雪印メグミルク](https://ja.wikipedia.org/wiki/雪印メグミルク "wikilink")「こんがり焼ける とろけるスライス」（2015年）\[36\]
   - [ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")（2017年）クイズ、体操、ボウリング
 
 ### ゲーム
@@ -199,7 +205,7 @@
 
 ### 舞台
 
-  - 舞台「私のホストちゃん REBORN ～絶唱\!大阪ミナミ編～」（2018年1月19日 - 2月11日、東京・愛知・広島・大阪）夢・ジャネット 役　※Wキャスト\[28\]
+  - 舞台「私のホストちゃん REBORN ～絶唱\!大阪ミナミ編～」（2018年1月19日 - 2月11日、東京・愛知・広島・大阪） - 夢・ジャネット 役　※[大林素子](https://ja.wikipedia.org/wiki/大林素子 "wikilink")とのWキャスト\[37\]
 
 ## ディスコグラフィー
 
@@ -236,6 +242,7 @@
   - ザリガニとひまわり（[講談社](../Page/講談社.md "wikilink")、2010年12月2日） ISBN 4062165384
       -
         自身のデビュー前後を基にした[自伝小説](../Page/私小説.md "wikilink")（人物名などは実際と異なる）。
+  - 遅咲きも晩婚もHappyに変えて 北欧マインドの暮らし（[講談社](../Page/講談社.md "wikilink")、2019年9月29日) ISBN 4065162602
 
 ### 翻訳
 
@@ -254,7 +261,7 @@
   - [コラム：LiLiCoのHappy eiga ダイニング](https://eiga.com/extra/lilico/)
   - [LiLiCoセレクトショップ「LiLiCoCo（リリココ）」](https://lilicoco.jp/)
 
-[Category:日本のタレント](https://ja.wikipedia.org/wiki/Category:日本のタレント "wikilink") [Category:日本の女性歌手](https://ja.wikipedia.org/wiki/Category:日本の女性歌手 "wikilink") [Category:日本の女優](https://ja.wikipedia.org/wiki/Category:日本の女優 "wikilink") [Category:日本の女性声優](https://ja.wikipedia.org/wiki/Category:日本の女性声優 "wikilink") [Category:日本の司会者](https://ja.wikipedia.org/wiki/Category:日本の司会者 "wikilink") [Category:日本の女子プロレスラー](https://ja.wikipedia.org/wiki/Category:日本の女子プロレスラー "wikilink") [Category:DDTにレギュラー参戦するプロレスラー](https://ja.wikipedia.org/wiki/Category:DDTにレギュラー参戦するプロレスラー "wikilink") [Category:日系スウェーデン人](https://ja.wikipedia.org/wiki/Category:日系スウェーデン人 "wikilink") [Category:ストックホルム出身の人物](https://ja.wikipedia.org/wiki/Category:ストックホルム出身の人物 "wikilink") [Category:1970年生](https://ja.wikipedia.org/wiki/Category:1970年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:水曜プレミア](https://ja.wikipedia.org/wiki/Category:水曜プレミア "wikilink")
+[Category:日本の女性タレント](https://ja.wikipedia.org/wiki/Category:日本の女性タレント "wikilink") [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:日本の女優](https://ja.wikipedia.org/wiki/Category:日本の女優 "wikilink") [Category:日本の女性声優](https://ja.wikipedia.org/wiki/Category:日本の女性声優 "wikilink") [Category:日本の司会者](https://ja.wikipedia.org/wiki/Category:日本の司会者 "wikilink") [Category:日本の女子プロレスラー](https://ja.wikipedia.org/wiki/Category:日本の女子プロレスラー "wikilink") [Category:DDTにレギュラー参戦するプロレスラー](https://ja.wikipedia.org/wiki/Category:DDTにレギュラー参戦するプロレスラー "wikilink") [Category:日系スウェーデン人](https://ja.wikipedia.org/wiki/Category:日系スウェーデン人 "wikilink") [Category:ストックホルム出身の人物](https://ja.wikipedia.org/wiki/Category:ストックホルム出身の人物 "wikilink") [Category:1970年生](https://ja.wikipedia.org/wiki/Category:1970年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:水曜プレミア](https://ja.wikipedia.org/wiki/Category:水曜プレミア "wikilink")
 
 1.
 2.
@@ -263,24 +270,33 @@
 5.
 6.
 7.
-8.  [LiLiCoが股間投げを両国国技館で披露し新王者へ！](https://headlines.yahoo.co.jp/hl?a=20170821-00010001-battlen-fight) - バトルニュース 2017年8月21日(2017年8月22日閲覧)
+8.
 9.
 10.
-11. 『ザリガニとひまわり』22ページ
+11.
 12.
 13.
 14.
-15. 『ザリガニとひまわり』29-30ページ
-16.
+15.
+16. [LiLiCoが股間投げを両国国技館で披露し新王者へ！](https://headlines.yahoo.co.jp/hl?a=20170821-00010001-battlen-fight) - バトルニュース 2017年8月21日(2017年8月22日閲覧)
 17.
 18.
-19. <https://headlines.yahoo.co.jp/article?a=20200306-00000002-pseven-ent&p=3>
+19. 『ザリガニとひまわり』22ページ
 20.
 21.
 22.
-23.
+23. 『ザリガニとひまわり』29-30ページ
 24.
 25.
 26.
 27.
 28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.

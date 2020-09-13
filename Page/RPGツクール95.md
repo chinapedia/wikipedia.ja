@@ -35,7 +35,7 @@ RPGツクール2000が出るまではWindows唯一のRPGツクールとして人
 
   - 作成したゲームのプレイ画面サイズがRPGツクール2000は320×240なのに対し、RPGツクール95は640×480である。この画面サイズに匹敵するプレイ画面を持つRPGツクールは[2004年](../Page/2004年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")発売の[RPGツクールXP](../Page/RPGツクールXP.md "wikilink")の登場まで待たねばならなかった。
   - 作成したゲームを[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")で配布することが可能である。2HDのフロッピーディスクの容量は1.44メガバイトであり、大抵のゲームファイルはその容量を超えてしまうためそのままでは入らない。RPGツクール95では、これを複数のフロッピーディスクに分割する形式で格納するインストーラー作成が可能である。当時はフロッピーディスクが記憶装置の主流であり、この機能は重宝された。
-  - 作成したゲームのマウスでの操作が可能、CDトラックの音楽を鳴らすことが可能などの、[マルチメディア](../Page/マルチメディア.md "wikilink")を意識した独特の機能がある。これらはRPGツクール2000には引き継がれなかった。なお、マウス操作は2015年発売予定の『RPGツクールMV』で復活する。
+  - 作成したゲームのマウスでの操作が可能、CDトラックの音楽を鳴らすことが可能などの、[マルチメディア](../Page/マルチメディア.md "wikilink")を意識した独特の機能がある。これらはRPGツクール2000には引き継がれなかった。なお、マウス操作は2015年に発売された『[RPGツクールMV](https://ja.wikipedia.org/wiki/RPGツクールMV "wikilink")』で復活した。
 
 ## 開発およびゲームを遊ぶための対応OS
 
@@ -180,7 +180,6 @@ RPGツクール2000以降で必要となるRTP(ランタイムパッケージ、
   - [人形の傷跡](../Page/人形の傷跡.md "wikilink")（1999年）
   - [Moon Whistle](../Page/Moon_Whistle.md "wikilink")（1999年）
   - [パレット](https://ja.wikipedia.org/wiki/パレット_\(ゲーム\) "wikilink")（1999年）
-  - ラーゼルの風\[9\]（『[テックウィン](https://ja.wikipedia.org/wiki/テックウィン "wikilink")』2003年1月号[コンテストパーク](../Page/コンテストパーク.md "wikilink")金賞）
 
 ## 脚注
 
@@ -206,16 +205,16 @@ RPGツクール2000以降で必要となるRTP(ランタイムパッケージ、
 ## 外部リンク
 
   - [ツクールweb](http://tkool.jp/)
-  - [RPGツクール95 製品紹介ページ](http://tkool.jp/products/rpg95/index.html) - 販売は既に終了しており、発売当時の紹介となっている。
+
+  - \- 販売は既に終了しており、発売当時の紹介となっている。
 
 [Category:ツクールシリーズ](https://ja.wikipedia.org/wiki/Category:ツクールシリーズ "wikilink") [Category:アスキーのゲームソフト](https://ja.wikipedia.org/wiki/Category:アスキーのゲームソフト "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:1997年のパソコンゲーム](https://ja.wikipedia.org/wiki/Category:1997年のパソコンゲーム "wikilink")
 
-1.  [動作OS対応表](http://tkool.jp/support/os_list.html)
+1.
 2.  RPGツクール95 完全網羅ガイドブック 第2版(Value\! 対応版)
 3.  RPGツクール95 Value\! マニュアルおよびヘルプ
-4.  [RPGツクール95 製品ページ](http://tkool.jp/products/rpg95/index.html)
-5.  [アップデーター](http://tkool.jp/support/download/rpg95/upforxp.html) 引用「このページでダウンロードできるアップデータは『RPGツクール95VALUE\!』に対応するものであり、『RPGツクール95』通常版には対応しておりません。」
+4.
+5.   引用「このページでダウンロードできるアップデータは『RPGツクール95VALUE\!』に対応するものであり、『RPGツクール95』通常版には対応しておりません。」
 6.  [RPGツクール95作品を最近のOS(Windows 2000/XP以降)で起動する際の覚書 - 神無月サスケの波瀾万丈な日常・はてなブログ編](http://d.hatena.ne.jp/ktakaki/20120619/p1)
 7.  [週刊ソフトニュース 禁術と呼ばれる術](http://www.vector.co.jp/magazine/softnews/980820/n9808202.html) ベクター 1998年8月20日
 8.  [禁術と呼ばれる術 レビュー](http://www.freem.ne.jp/game/rev/94.html) [ふりーむ](https://ja.wikipedia.org/wiki/ふりーむ "wikilink")
-9.  [ラーゼルの風 - 新着ソフトレビュー](http://www.vector.co.jp/magazine/softnews/030611/n0306112.html) ベクター 2003年6月11日

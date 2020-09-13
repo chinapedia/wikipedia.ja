@@ -52,7 +52,7 @@
   - [川江美奈子](../Page/川江美奈子.md "wikilink") - 2006年6月17日
   - [PUSHIM](https://ja.wikipedia.org/wiki/PUSHIM "wikilink") - 2006年7月8日
   - [HOME GROWN](https://ja.wikipedia.org/wiki/HOME_GROWN "wikilink") - 2006年7月15日
-  - [ZOOCO](https://ja.wikipedia.org/wiki/ZOOCO "wikilink") - 2006年7月22日,11月11日
+  - [ZOOCO](../Page/ZOOCO.md "wikilink") - 2006年7月22日,11月11日
   - [Saigenji](../Page/Saigenji.md "wikilink") - 2006年8月12日
   - [hiro](../Page/島袋寛子.md "wikilink") - 2006年8月19日
   - 武田雅治（Skoop On Somebody） - 2006年9月16日

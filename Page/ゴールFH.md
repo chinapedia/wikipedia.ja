@@ -16,7 +16,7 @@
 
 ## 漫画
 
-後に『[焼きたて\!\!ジャぱん](../Page/焼きたて!!ジャぱん.md "wikilink")』などの代表作を著す[橋口隆志](https://ja.wikipedia.org/wiki/橋口隆志 "wikilink")の[作画](https://ja.wikipedia.org/wiki/作画 "wikilink")で[小学館の学年別学習雑誌](../Page/小学館の学年別学習雑誌.md "wikilink")に連載された。
+後に『[焼きたて\!\!ジャぱん](../Page/焼きたて!!ジャぱん.md "wikilink")』などの代表作を著す[橋口隆志](https://ja.wikipedia.org/wiki/橋口隆志 "wikilink")の[作画](https://ja.wikipedia.org/wiki/作画 "wikilink")で、[小学館の学年別学習雑誌](../Page/小学館の学年別学習雑誌.md "wikilink")（[小学五年生](https://ja.wikipedia.org/wiki/小学五年生 "wikilink") 1994年4月号-1995年3月号）に連載された。（タイトルは連載中に「ゴール フィールドの狩人」から「ゴール フィールドハンター」に改められている）
 
 ## テレビアニメ
 

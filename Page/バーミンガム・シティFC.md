@@ -59,7 +59,8 @@
 | [2016-17](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2016-2017 "wikilink") | チャンピオンシップ                                                               | 46                                   | 13                                     | 14                                                           | 19    |
 | [2017-18](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2017-2018 "wikilink") | チャンピオンシップ                                                               | 46                                   | 13                                     | 7                                                            | 26    |
 | [2018-19](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2018-2019 "wikilink") | チャンピオンシップ                                                               | 46                                   | 14                                     | 19                                                           | 13    |
-| [2019-20](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2019-2020 "wikilink") | チャンピオンシップ                                                               | 46                                   |                                        |                                                              |       |
+| [2019-20](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2019-2020 "wikilink") | チャンピオンシップ                                                               | 46                                   | 12                                     | 14                                                           | 20    |
+| [2020-21](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2020-2021 "wikilink") | チャンピオンシップ                                                               | 46                                   |                                        |                                                              |       |
 
 ## 現所属メンバー
 
@@ -83,7 +84,7 @@
 
 <!-- end list -->
 
-  - [ペップ・クロテート](https://ja.wikipedia.org/wiki/ペップ・クロテート "wikilink")
+  - [アイトール・カランカ](https://ja.wikipedia.org/wiki/アイトール・カランカ "wikilink")
 
 ### ローン移籍選手
 

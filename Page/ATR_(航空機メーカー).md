@@ -63,12 +63,15 @@
 ## 外部リンク
 
   - [ATR社公式ウェブサイト](http://www.atraircraft.com/)
-  - [ATR社公式ウェブサイト](http://atraircraft.jp/)
-  - [ATRbroadcast](https://www.youtube.com/channel/UClVpqs6PCkWmsxUFTksnMmw)公式YouTubeチャンネル
-  - [公式ツイッター](https://twitter.com/atraircraft)
-  - [公式インスタグラム](https://www.instagram.com/atraircraft/)
-  - [公式リンクトイン](https://fr.linkedin.com/company/atr_388974)
 
+  - [ATR社公式ウェブサイト](http://atraircraft.jp/)
+
+  -
+  -
+  -
+  - [ATR](https://fr.linkedin.com/company/atr_388974) - [Linkedin](https://ja.wikipedia.org/wiki/Linkedin "wikilink")
+
+  -
 [Category:イタリアの航空機メーカー](https://ja.wikipedia.org/wiki/Category:イタリアの航空機メーカー "wikilink") [Category:フランスの航空機メーカー](https://ja.wikipedia.org/wiki/Category:フランスの航空機メーカー "wikilink") [Category:多国籍企業](https://ja.wikipedia.org/wiki/Category:多国籍企業 "wikilink") [Category:国際合弁企業](https://ja.wikipedia.org/wiki/Category:国際合弁企業 "wikilink") [Category:フィンメッカニカグループ](https://ja.wikipedia.org/wiki/Category:フィンメッカニカグループ "wikilink") [Category:エアバス](https://ja.wikipedia.org/wiki/Category:エアバス "wikilink") [Category:イタリア・フランス関係](https://ja.wikipedia.org/wiki/Category:イタリア・フランス関係 "wikilink") [Category:コンソーシアム](https://ja.wikipedia.org/wiki/Category:コンソーシアム "wikilink")
 
 1.  [「リージョナルジェットより景色も燃費も良い」特集・ATRシェーラーCEOに聞く日本戦略](https://www.aviationwire.jp/archives/134099)

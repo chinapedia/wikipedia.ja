@@ -82,6 +82,24 @@ bambooが16歳の頃にバンドブームの影響を受けて音楽活動を始
 | 4th | [2013年](../Page/2013年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")                    | **[有頂天人生](https://ja.wikipedia.org/wiki/有頂天人生 "wikilink")**         | LACM-14115 | 70位     |
 | 5th | [2017年](../Page/2017年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")                    | **[成るがまま騒ぐまま](https://ja.wikipedia.org/wiki/成るがまま騒ぐまま "wikilink")** | LACM-14592 | 105位    |
 
+### タイアップ
+
+| 楽曲                                     | タイアップ                                                                                       | 時期                                                                                           |
+| -------------------------------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Cold August                            | PCゲーム『[Gonna Be??](https://ja.wikipedia.org/wiki/Gonna_Be?? "wikilink")』挿入歌                 | rowspan=""|2002年                                                                             |
+| 鐘の音ヘブン（milktub with 鐘の音ボーイズR）          | PS2ゲーム『[グリーングリーン](../Page/グリーングリーン_\(ゲーム\).md "wikilink")』男エンディングテーマ                        | rowspan=""|2003年                                                                             |
+| HAPPY GO                               |                                                                                             | PCゲーム『[エーデルワイス](https://ja.wikipedia.org/wiki/エーデルワイス "wikilink")』男エンディングテーマ                 |
+| Ring Dong\!（YURIA＆milktub 鐘ノ音ファイナル合唱団） | PCゲーム『[鐘ノ音ダイナティック](../Page/鐘ノ音ダイナティック.md "wikilink")』エンディングテーマ                              |                                                                                              |
+| アンパン男道                                 | PCゲーム『[エーデルワイス](https://ja.wikipedia.org/wiki/エーデルワイス "wikilink")』パンチューイメージテーマ              | rowspan=""|2007年                                                                             |
+| バカ・ゴー・ホーム                              | テレビアニメ『[バカとテストと召喚獣](https://ja.wikipedia.org/wiki/バカとテストと召喚獣 "wikilink")』エンディングテーマ          | rowspan=""|2010年                                                                             |
+| 月曜はキライ                                 | OVA『[バカとテストと召喚獣 〜祭〜](https://ja.wikipedia.org/wiki/バカとテストと召喚獣_〜祭〜 "wikilink")』エンディングテーマ     | 2011年                                                                                        |
+| バカと個室と孤独飯                              | テレビアニメ『[バカとテストと召喚獣にっ\!](https://ja.wikipedia.org/wiki/バカとテストと召喚獣にっ! "wikilink")』7話エンディングテーマ |                                                                                              |
+| Hi-Ho                                  |                                                                                             | テレビアニメ『[バカとテストと召喚獣にっ\!](https://ja.wikipedia.org/wiki/バカとテストと召喚獣にっ! "wikilink")』11話エンディングテーマ |
+| NO,THANK YOU                           | \!                                                                                          | PCゲーム『\[\[NO,THANK_YOU                                                                      |
+| 有頂天人生                                  | テレビアニメ『[有頂天家族](../Page/有頂天家族.md "wikilink")』オープニングテーマ                                       |                                                                                              |
+| 久遠の冀求                                  | PCゲーム『[聖鍵遣いの命題](https://ja.wikipedia.org/wiki/聖鍵遣いの命題 "wikilink")《プロポジション》』オープニングテーマ        | rowspan=""|2016年                                                                             |
+| 成るがまま騒ぐまま                              | テレビアニメ『[有頂天家族2](https://ja.wikipedia.org/wiki/有頂天家族2 "wikilink")』オープニングテーマ                  | rowspan=""|2017年                                                                             |
+
 ## 提供作
 
 ### ゲーム
@@ -99,7 +117,7 @@ bambooが16歳の頃にバンドブームの影響を受けて音楽活動を始
   - [ガッデーム&ジュテーム](https://ja.wikipedia.org/wiki/ガッデーム&ジュテーム "wikilink")
   - [CARNIVAL](../Page/CARNIVAL_\(ゲーム\).md "wikilink")
   - [Kissing\!\! under the mistletoe](../Page/Kissing!!_under_the_mistletoe.md "wikilink")
-  - [SWAN SONG](../Page/SWAN_SONG.md "wikilink")
+  - [SWAN SONG](https://ja.wikipedia.org/wiki/SWAN_SONG_\(ゲーム\) "wikilink")
   - [モノごころ、モノむすめ。](../Page/モノごころ、モノむすめ。.md "wikilink")
   - [Virgin Snow](https://ja.wikipedia.org/wiki/Virgin_Snow "wikilink")
   - [Re:](https://ja.wikipedia.org/wiki/Re:_\(ゲーム\) "wikilink")
@@ -109,29 +127,14 @@ bambooが16歳の頃にバンドブームの影響を受けて音楽活動を始
 ### アニメ
 
   - [バカとテストと召喚獣](https://ja.wikipedia.org/wiki/バカとテストと召喚獣 "wikilink")
-
-<!-- end list -->
-
-  -
-    第1期エンディングテーマ「[バカ・ゴー・ホーム](https://ja.wikipedia.org/wiki/バカ・ゴー・ホーム "wikilink")」（第1問-第6問、第10問、第13問）、OVAエンディングテーマ「[月曜はキライ](https://ja.wikipedia.org/wiki/月曜はキライ "wikilink")」、第2期エンディングテーマ「バカと個室と孤独飯」（第7問）、第2期エンディングテーマ「Hi-Ho\!\!」（第11問）
-
-<!-- end list -->
-
+      -
+        第1期エンディングテーマ「[バカ・ゴー・ホーム](https://ja.wikipedia.org/wiki/バカ・ゴー・ホーム "wikilink")」（第1問-第6問、第10問、第13問）、OVAエンディングテーマ「[月曜はキライ](https://ja.wikipedia.org/wiki/月曜はキライ "wikilink")」、第2期エンディングテーマ「バカと個室と孤独飯」（第7問）、第2期エンディングテーマ「Hi-Ho\!\!」（第11問）
   - [30歳の保健体育](https://ja.wikipedia.org/wiki/30歳の保健体育 "wikilink")
-
-<!-- end list -->
-
-  -
-    エンディングテーマ「[learn together](https://ja.wikipedia.org/wiki/learn_together "wikilink")」作詞のみ
-
-<!-- end list -->
-
+      -
+        エンディングテーマ「[learn together](https://ja.wikipedia.org/wiki/learn_together "wikilink")」作詞のみ
   - [有頂天家族](../Page/有頂天家族.md "wikilink")
-
-<!-- end list -->
-
-  -
-    第1期オープニングテーマ「有頂天人生」、第13話はエンディングテーマ、第2期オープニングテーマ「成るがまま騒ぐまま」、第12話はエンディングテーマ
+      -
+        第1期オープニングテーマ「有頂天人生」、第13話はエンディングテーマ、第2期オープニングテーマ「成るがまま騒ぐまま」、第12話はエンディングテーマ
 
 ### 歌手・声優
 

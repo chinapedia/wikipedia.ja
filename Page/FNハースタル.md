@@ -1,7 +1,7 @@
 > この記事は[FNハースタル](https://ja.wikipedia.org/wiki/FNハースタル)から翻訳されています。
 
 
-**FNハースタル** (FNエルスタル、) は、[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の[銃器](https://ja.wikipedia.org/wiki/銃器 "wikilink")メーカー。かつては[国営](https://ja.wikipedia.org/wiki/国営 "wikilink")で、現在は国営のハースタルグループの子会社である。正式社名は**ファブリケ・ナショナル・デルスタル・ド・ゲール** () だった。
+**FNハースタル** (FNエルスタル、) は、[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の[銃器](https://ja.wikipedia.org/wiki/銃器 "wikilink")メーカー。かつては[国営](https://ja.wikipedia.org/wiki/国営 "wikilink")で、現在は国営のハースタルグループの子会社である。正式社名は**ファブリーク・ナシオナール・ダルム・ドゥ・ゲール** () だった。
 
 略称**FN社**または**FNH**。
 
@@ -70,7 +70,7 @@ FALはFN社を軍用ライフルメーカーとしての確たる地位を築い
   - [Forty-Nine](https://ja.wikipedia.org/wiki/FN_FNP "wikilink")
       - FNS
   - [FNP](https://ja.wikipedia.org/wiki/:en:FN_Herstal_FNP "wikilink")
-      - [FNX](https://ja.wikipedia.org/wiki/FN_FNX "wikilink")
+      - [FNX](../Page/FN_FNX.md "wikilink")
 
 ### サブマシンガン・個人防衛兵器(PDW)
 
@@ -139,8 +139,7 @@ FALはFN社を軍用ライフルメーカーとしての確たる地位を築い
 
 ### 低致死性兵器
 
-  - [FN 303](https://ja.wikipedia.org/wiki/FN_303 "wikilink")
-
+  -
 ### 火器管制装置
 
   - [FCU](https://ja.wikipedia.org/wiki/FN_FCU "wikilink")
@@ -151,7 +150,7 @@ FALはFN社を軍用ライフルメーカーとしての確たる地位を築い
 
 ## 外部リンク
 
-  - [FN HERSTAL](http://www.fnherstal.com/) - 公式サイト
+  - [FN HERSTAL](https://www.fnherstal.com/) - 公式サイト
   - [FN America](https://fnamerica.com/) - 公式サイト（USA版）
 
 [Category:ベルギーの工業製品メーカー](https://ja.wikipedia.org/wiki/Category:ベルギーの工業製品メーカー "wikilink") [Category:銃器メーカー](https://ja.wikipedia.org/wiki/Category:銃器メーカー "wikilink") [Category:リエージュ州のスポーツ](https://ja.wikipedia.org/wiki/Category:リエージュ州のスポーツ "wikilink") [Category:ベルギーの小火器](https://ja.wikipedia.org/wiki/Category:ベルギーの小火器 "wikilink")

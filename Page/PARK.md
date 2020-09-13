@@ -31,19 +31,19 @@ MOTOKATSU（[宮上元克](../Page/宮上元克.md "wikilink")）は、「ヒサ
 
 12曲目と13曲目は初回限定盤にのみ収録されている。 この2曲は、メンバーの意向により、歌詞カードに歌詞が掲載されていない（帯、歌詞カードのスタッフクレジットのページの左上に注意書きが小さく書いてある）。なお、品番は通常盤がVICL-598、初回限定盤がVICL-597となり、CDのレーベル面の印刷面積が異なっている。
 
-本作リリースの前にシングル「EJECT→OUT / PERIODIC CLASSIC」がリリースされているが、2曲とも本作には収録されていない。また、本作は[ジョージ・カックル](https://ja.wikipedia.org/wiki/ジョージ・カックル "wikilink")から海外でのリリースを薦められ、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")でインディーズレーベルよりリリースされている。
+本作リリースの前にシングル「EJECT→OUT / PERIODIC CLASSIC」がリリースされているが、2曲とも本作には収録されていない。また、本作は[ジョージ・カックル](https://ja.wikipedia.org/wiki/ジョージ・カックル "wikilink")から海外でのリリースを薦められ、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")でインディーズレーベルよりリリースされている。そちらには前述の初回限定盤だけに収録されているボーナストラック2曲も、特に出荷時期によるバージョンの区別もなく収録されている。
 
 ## プロモーション
 
 初のタイアップ作品となる「HAB'IT」が収録されている。ちなみに「HAB'IT」は邦画『[ゲレンデがとけるほど恋したい。](https://ja.wikipedia.org/wiki/ゲレンデがとけるほど恋したい。 "wikilink")』（1995年）の挿入歌として使用された。
 
-本作収録曲の内、「HAB'IT」、「LIMIT」、「IN SURFACE NOISE」、「パラサイト（寄生虫）」、「公園へあと少し」、「HI-SIDE (HIGH-INDIVIDUAL-SIDE)」の6曲の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が制作されている。この映像は後にビデオ『VIDEO』（1995年）にてリリースされている。
+本作収録曲の内、「HAB'IT」、「LIMIT」、「IN SURFACE NOISE」、「パラサイト（寄生虫）」、「公園へあと少し」、「HI-SIDE (HIGH-INDIVIDUAL-SIDE)」の6曲の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が制作されている。この映像は後に[VHS](../Page/VHS.md "wikilink")『VIDEO』（1995年）に全て収録されている。また、一部はさらに[DVD](../Page/DVD.md "wikilink")『1990-1996』（2005年）にも収録された。
 
 ## アートワーク
 
 本作のアートワークは前作に続き[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")が担当している。
 
-各曲の歌詞にはそれぞれ絵画や写真が使用されており、曲によって縦書き、横書きが使い分けられている。
+各曲の歌詞を掲載している歌詞カードは、一曲につき1ページを割いていて、そのページにはそれぞれ楽曲や歌詞のイメージに合わせた様々な絵画や写真が使用されている。また、曲によって縦書き、横書きが使い分けられており、字体(フォント)も曲ごとに異なっている。
 
 ## ツアー
 
@@ -70,13 +70,13 @@ MOTOKATSU（[宮上元克](../Page/宮上元克.md "wikilink")）は、「ヒサ
 3.  **IN SURFACE NOISE** - *Surface Noise*
 4.  **パラサイト（寄生虫）** - *Parasite*
       -
-        セルフカバーアルバム『THE MAD CAPSULE MARKET'S』に収録され、ベストアルバム『1990-1996』にも収録された。[PVには](../Page/ミュージック・ビデオ.md "wikilink")、テレビアニメ『[マッハGoGoGo](../Page/マッハGoGoGo.md "wikilink")』（[1967年](../Page/1967年.md "wikilink") - [1968年](../Page/1968年.md "wikilink")、[タツノコプロ](../Page/タツノコプロ.md "wikilink")）の映像が挿入されている。VHS『VIDEO』やDVD『1990-1996』で視聴する事が可能。
+        セルフカバーアルバム『THE MAD CAPSULE MARKET'S』に収録され、ベストアルバム『1990-1996』にも収録された。[PVには](../Page/ミュージック・ビデオ.md "wikilink")、テレビアニメ『[マッハGoGoGo](../Page/マッハGoGoGo.md "wikilink")』（[1967年](../Page/1967年.md "wikilink") - [1968年](../Page/1968年.md "wikilink")、[タツノコプロ](../Page/タツノコプロ.md "wikilink")）の映像が挿入されている。VHS『VIDEO』やDVD『1990-1996』で視聴する事が可能。また、セルフカバー版の音源の方にもPVが存在するが(映像内容も本作向けのものと異なる)、そちらは商品化されていない。
 5.  **公園へあと少し** - *Edge of The Park*
       -
         ベストアルバム『1990-1996』に収録された。
 6.  **HAB'IT** - *Bad Habit*
       -
-        邦画『ゲレンデがとけるほど恋したい。』の挿入歌。初のタイアップ曲。
+        邦画『ゲレンデがとけるほど恋したい。』の挿入歌。初のタイアップ曲。また、ISHIG∀KIが作詞作曲を担当した楽曲で唯一PVが制作された楽曲でもある。
 7.  **CR'OCK ON THE WORK（AUTO-MATIC）** - *Work on The Crock*
 8.  **時ノ音** - *Sound Time*
 9.  **生まれたばかりの絵画を燃やせ** - *New Born*

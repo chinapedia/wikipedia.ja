@@ -235,7 +235,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a>（JRT）</p></td>
+<td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a>（JRT）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -348,8 +348,7 @@
 
 ## 外部リンク
 
-  - [冒険\!CHEERS\!\!](http://www.ntv.co.jp/cheers)
-
+  -
 [Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink") [Category:日本テレビの教養番組](https://ja.wikipedia.org/wiki/Category:日本テレビの教養番組 "wikilink") [Category:日本テレビのドキュメンタリー番組](https://ja.wikipedia.org/wiki/Category:日本テレビのドキュメンタリー番組 "wikilink") [Category:日本テレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビのバラエティ番組の歴史 "wikilink") [Category:日本テレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:日本テレビの一社提供番組 "wikilink") [Category:イオングループ](https://ja.wikipedia.org/wiki/Category:イオングループ "wikilink") [Category:冒険作品](https://ja.wikipedia.org/wiki/Category:冒険作品 "wikilink") [Category:野外教育](https://ja.wikipedia.org/wiki/Category:野外教育 "wikilink")
 
 1.  [プロ野球](../Page/プロ野球.md "wikilink")[ナイター](../Page/ナイター.md "wikilink")[中継](https://ja.wikipedia.org/wiki/中継 "wikilink")（[阪神](../Page/阪神タイガース.md "wikilink")×[巨人の場合](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")、18:30から全国ネットより30分早くローカル編成で組む場合があった。その場合は、日曜13:30 - 14:00の枠で振替放送。

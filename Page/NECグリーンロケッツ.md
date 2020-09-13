@@ -148,74 +148,55 @@ reference: \[3\] **太字**は今年からの新加入選手
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/サナイラ・ワクァ" title="wikilink">サナイラ・ワクァ</a></p></td>
-<td><p>ヘイスティングボーイズ高</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/田中章司" title="wikilink">田中章司</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/近畿大学ラグビー部" title="wikilink">近畿大</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/サム・ジェフリーズ" title="wikilink">サム・ジェフリーズ</a></p></td>
 <td><p>セントジョセフ高</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>FL</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大和田立" title="wikilink">大和田立</a></p></td>
 <td><p>帝京大</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/細田佳也" title="wikilink">細田佳也</a></p></td>
 <td><p><a href="../Page/日本大学ラグビー部.md" title="wikilink">日本大</a></p></td>
 <td><p>2</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/大石力也" title="wikilink">大石力也</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山梨学院大学ラグビー部" title="wikilink">山梨学院大</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/亀井亮依" title="wikilink">亀井亮依</a></p></td>
 <td><p>帝京大</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/松村拓海" title="wikilink">松村拓海</a></p></td>
 <td><p>法政大</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ブロディー・レバー" title="wikilink">ブロディー・レバー</a></strong></p></td>
-<td><p>？</p></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
-<td><p><strong><a href="../Page/サム・ヘンウッド.md" title="wikilink">サム・ヘンウッド</a></strong></p></td>
-<td><p>キングス大</p></td>
-<td><p>?<br />
-(<a href="../Page/マオリ・オールブラックス.md" title="wikilink">マオリ・オールブラックス</a>)</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><strong><a href="../Page/ジャック・タファ・ラム.md" title="wikilink">ジャック・タファ・ラム</a></strong></p></td>
 <td><p><a href="../Page/キャンベラ大学.md" title="wikilink">キャンベラ大</a></p></td>
 <td><p>38<br />
 (<a href="../Page/ラグビーサモア代表.md" title="wikilink">サモア</a>)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>No.8</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョージ・リサレ" title="wikilink">ジョージ・リサレ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/流通経済大学ラグビー部" title="wikilink">流通経済大</a></p></td>
@@ -353,6 +334,11 @@ reference: \[3\] **太字**は今年からの新加入選手
   - [山極大貴](../Page/山極大貴.md "wikilink")
   - [アセリ・マシヴォウ](../Page/アセリ・マシヴォウ.md "wikilink")
   - [杉本悠馬](../Page/杉本悠馬.md "wikilink")
+  - [タキタキエロネ](https://ja.wikipedia.org/wiki/タキタキエロネ "wikilink")
+  - [パトリック・タファ](../Page/パトリック・タファ.md "wikilink")
+  - [アンドリュー・ケラウェイ](../Page/アンドリュー・ケラウェイ.md "wikilink")
+  - [アレックス・グーディ](../Page/アレックス・グーディ.md "wikilink")
+  - [ベンハード・ヤンセヴァン・レンスバーグ](../Page/ベンハード・ヤンセヴァン・レンスバーグ.md "wikilink")
 
 ## 在籍した主な選手
 
@@ -380,7 +366,7 @@ reference: \[3\] **太字**は今年からの新加入選手
   - [大東毅](https://ja.wikipedia.org/wiki/大東毅 "wikilink")
   - [ディーン・ブード](../Page/ディーン・ブード.md "wikilink")
   - [藤戸恭平](https://ja.wikipedia.org/wiki/藤戸恭平 "wikilink")
-  - [安承ヒョック](https://ja.wikipedia.org/wiki/安承ヒョック "wikilink")
+  - [安承爀](https://ja.wikipedia.org/wiki/安承爀 "wikilink")
   - [金光植](https://ja.wikipedia.org/wiki/金光植 "wikilink")
   - [朴誠球](https://ja.wikipedia.org/wiki/朴誠球 "wikilink")
   - [玄成哲](https://ja.wikipedia.org/wiki/玄成哲 "wikilink")
@@ -393,14 +379,15 @@ reference: \[3\] **太字**は今年からの新加入選手
   - [中島イシレリ](https://ja.wikipedia.org/wiki/中島イシレリ "wikilink")
   - [安田知生](https://ja.wikipedia.org/wiki/安田知生 "wikilink")
   - [山下祐史](https://ja.wikipedia.org/wiki/山下祐史 "wikilink")
-  - [ニリ・ラトゥ](https://ja.wikipedia.org/wiki/ニリ・ラトゥ "wikilink")
+  - [ニリ・ラトゥ](../Page/ニリ・ラトゥ.md "wikilink")
   - [ネマニ・ナドロ](https://ja.wikipedia.org/wiki/ネマニ・ナドロ "wikilink")
   - [瀬崎隼人](../Page/瀬崎隼人.md "wikilink")
   - [ウェブ将武](https://ja.wikipedia.org/wiki/ウェブ将武 "wikilink") (35)
+  - [小野寺優太](https://ja.wikipedia.org/wiki/小野寺優太 "wikilink")
+  - [土佐誠](../Page/土佐誠.md "wikilink")
 
 <!-- end list -->
 
-  - [小野寺優太](https://ja.wikipedia.org/wiki/小野寺優太 "wikilink")
   - [窪田幸一郎](https://ja.wikipedia.org/wiki/窪田幸一郎 "wikilink") (3)
   - [酒井亮八](https://ja.wikipedia.org/wiki/酒井亮八 "wikilink")
   - [櫻井朋広](https://ja.wikipedia.org/wiki/櫻井朋広 "wikilink")
@@ -441,6 +428,8 @@ reference: \[3\] **太字**は今年からの新加入選手
   - [宮前勇規](https://ja.wikipedia.org/wiki/宮前勇規 "wikilink")
   - [竹中祥](https://ja.wikipedia.org/wiki/竹中祥 "wikilink")
   - [アマナキ・サヴィエティ](https://ja.wikipedia.org/wiki/アマナキ・サヴィエティ "wikilink")
+  - [サナイラ・ワクァ](https://ja.wikipedia.org/wiki/サナイラ・ワクァ "wikilink")
+  - [サム・ヘンウッド](../Page/サム・ヘンウッド.md "wikilink")
 
 ## 脚注
 

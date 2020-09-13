@@ -83,7 +83,7 @@
   - 村内外車センター（Murauchi BMW、[多摩地区](https://ja.wikipedia.org/wiki/多摩地区 "wikilink")）…家具販売の[村内ファニチャーアクセス](../Page/村内ファニチャーアクセス.md "wikilink")の関連会社。元は並行輸入車ディーラーであった。
   - [セントラル自動車技研](https://ja.wikipedia.org/wiki/セントラル自動車技研 "wikilink")(埼玉)
   - 和幸モトーレン([埼玉スバル自動車](https://ja.wikipedia.org/wiki/埼玉スバル自動車 "wikilink")・ファルコングループ)
-  - [東京マツダ販売](https://ja.wikipedia.org/wiki/東京マツダ販売 "wikilink")（Tomatsu BMW)
+  - [モトーレントーマツ](../Page/モトーレントーマツ.md "wikilink")（東京マツダグループ)
   - ダイワグループ
       - [モトーレン東都](https://ja.wikipedia.org/wiki/モトーレン東都 "wikilink") （Toto BMW、[東久留米市](../Page/東久留米市.md "wikilink"))
       - メトロポリタンモーターズ （Shonan BMW、神奈川県南部)…[2020年](../Page/2020年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")、石油製品販売の[サンオータス](https://ja.wikipedia.org/wiki/サンオータス "wikilink")より譲受。

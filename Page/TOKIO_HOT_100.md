@@ -26,10 +26,11 @@ J-WAVEでのオンエアチャート・[インターネット](../Page/インタ
 
 ## 番組の歴史
 
-  - [1988年](../Page/1988年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink") 「**PIONEER TOKIO HOT 100**」として正式に放送開始（当時のスポンサーは[パイオニアの一社提供](https://ja.wikipedia.org/wiki/パイオニア#パイオニア株式会社 "wikilink")）\[5\]。
-  - [1988年](../Page/1988年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink") [日本テレビで同タイトルの番組が放送開始](../Page/日本テレビ放送網.md "wikilink")。FM発のTV番組として話題になり\[6\]、1990年9月まで放送。
+  - [1988年](../Page/1988年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink") 「**PIONEER TOKIO HOT 100**」として正式に放送開始（当時のスポンサーは[パイオニアの一社提供](https://ja.wikipedia.org/wiki/パイオニア#パイオニア株式会社 "wikilink")）\[5\]。番組中に流れるカウントダウンボイスはこのころから変わらず使用されており、当時制作チームにいたピストン西沢らが制作したものである\[6\]
+  - [1988年](../Page/1988年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink") [日本テレビで同タイトルの番組が放送開始](../Page/日本テレビ放送網.md "wikilink")。FM発のTV番組として話題になり\[7\]、1990年9月まで放送。
   - [1989年](../Page/1989年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink") [プリンスの](https://ja.wikipedia.org/wiki/プリンス_\(ミュージシャン\) "wikilink")『[バットダンス](https://ja.wikipedia.org/wiki/バットダンス "wikilink")』が番組史上初となる10週連続1位を達成。同年の年間チャートでも1位を獲得。
   - [1993年](../Page/1993年.md "wikilink")1月 [ホイットニー・ヒューストン](../Page/ホイットニー・ヒューストン.md "wikilink")の『[I WILL ALWAYS LOVE YOU](../Page/ボディガード_\(1992年の映画\).md "wikilink")』が前述のプリンスの記録を塗り替える11週連続1位を達成。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") 冠スポンサーが[パイオニアから](https://ja.wikipedia.org/wiki/パイオニア#パイオニア株式会社 "wikilink")[サッポロビール](../Page/サッポロビール.md "wikilink")になるのに伴い、番組タイトルが「**SAPPORO BEER TOKIO HOT 100**」となり、テーマソングや一部番組ジングル、ロゴのリニューアルを行った。
   - [1999年](../Page/1999年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink") [TLC](https://ja.wikipedia.org/wiki/TLC "wikilink")の『NO SCRUBS』が1位に。これで通算12週目のNO.1となり、通算では歴代最多NO.1記録となる。
   - [2000年](../Page/2000年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink") [椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")の『[虚言症](../Page/勝訴ストリップ.md "wikilink")』が邦楽初の1位になる。
   - [2002年](../Page/2002年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink") [LOVE PSYCHEDELICOの](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink")『STANDING BIRD』が1位を獲得。HOT POPPERで1位となった曲（後述）としては番組史上最高となる96位から95ランクアップ。
@@ -38,30 +39,30 @@ J-WAVEでのオンエアチャート・[インターネット](../Page/インタ
   - [2006年](../Page/2006年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink") [2005年](../Page/2005年.md "wikilink")年間チャートにて、[Def Techの](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")『MY WAY』が、邦楽(J-POP)としては初のNo.1ソングになる。
   - [2006年](../Page/2006年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink") [マドンナの](https://ja.wikipedia.org/wiki/マドンナ_\(歌手\) "wikilink")『[HUNG UP](../Page/コンフェッションズ・オン・ア・ダンスフロア.md "wikilink")』が11週連続1位となり、前述のホイットニーが持っている連続1位の歴代タイ記録に並ぶ。
   - [2007年](../Page/2007年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink") 放送1000回を迎える。1000回目のNO.1はALICIA KEYSの『NO ONE』。
-  - [2009年](../Page/2009年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink") 冠スポンサーが[サッポロビール](../Page/サッポロビール.md "wikilink")から[日本マクドナルド](../Page/日本マクドナルド.md "wikilink")になるのに伴い、番組タイトルが「**[McDonald's](https://ja.wikipedia.org/wiki/McDonald's "wikilink") TOKIO HOT 100**」となった（同時期に[ZIP-FM](../Page/ZIP-FM.md "wikilink")の『[ZIP HOT 100](../Page/ZIP_HOT_100.md "wikilink")』でも冠スポンサーになっている）。あわせて番組企画やロゴのリニューアルを行った。
+  - [2009年](../Page/2009年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink") 冠スポンサーが[サッポロビール](../Page/サッポロビール.md "wikilink")から[日本マクドナルド](../Page/日本マクドナルド.md "wikilink")になるのに伴い、番組タイトルが「**[McDonald's](https://ja.wikipedia.org/wiki/McDonald's "wikilink") TOKIO HOT 100**」となった（同時期に[ZIP-FM](../Page/ZIP-FM.md "wikilink")の『[ZIP HOT 100](../Page/ZIP_HOT_100.md "wikilink")』でも冠スポンサーになっている）。あわせてテーマソングや一部番組ジングル、ロゴのリニューアルを行った。なお、当番組名における冠スポンサー名部分の読み上げは通常英語読みであるが、この時期のみ「マクドナルド」と日本語読みであった。
   - [2011年](../Page/2011年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink") 2日前に発生した[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）を受け、4月一杯まで番組内容を一部変更。また、13日は特に地震の余震の関係上ゲストも呼ばず、4時間楽曲を中心としたオンエアとなった。
-  - [2013年](../Page/2013年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink") [サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")の『ミュージック』が1位を獲得。シングルセールス・オンエアポイントが抜群だったことから1月27日から4週連続1位、その後4週間首位から退くものの、アルバムセールス・それによるオンエアポイントも再び増加し、3月24日から再び4週連続1位を獲得。通算で8週間1位となった。日本人アーティストで通算としては最長の記録となり、同年の年間チャートでも2位を獲得した\[7\]\[8\]。
-  - [2013年](../Page/2013年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink") [2013年](../Page/2013年.md "wikilink")年間チャートが、9:00-17:55に「[YEAR END SPECIAL "TOKIO HOT 100 THE ANNUAL COUNTDOWN SLAM JAM 2013"](../Page/J-WAVE_HOLIDAY_SPECIAL.md "wikilink")（イヤーエンドスペシャル - ザ・アニュアル・カウントダウン - ）」として放送された\[9\]。
-  - [2014年](../Page/2014年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink") [サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")の『グッドバイ』が1位を獲得。3位には両A面シングルのもう片方の曲『ユリイカ』がランクインし、TOP3に2曲ランクインさせた。同じアーティストがTOP3に2曲以上入るのは番組史上初\[10\]。
-  - [2014年](../Page/2014年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink") 冠スポンサーが[日本マクドナルド](../Page/日本マクドナルド.md "wikilink")から[Olympicグループ](../Page/Olympicグループ.md "wikilink")になるのに伴い、番組タイトルが「**Olympic TOKIO HOT 100**」となり、番組企画やロゴのリニューアルを行った。
-  - [2015年](../Page/2015年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink") [星野源](../Page/星野源.md "wikilink")の「SUN」が7週連続1位となり、2008～2009年と年をまたいだ[MR. CHILDREN](https://ja.wikipedia.org/wiki/Mr.children "wikilink")『エソラ』、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")が持つ日本人アーティストの最長連覇記録であった5週連続1位を更新。日本人アーティスト最長連覇記録を樹立した。同年の年間チャートでも3位を獲得\[11\]\[12\]。
-  - [2015年](../Page/2015年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") 冠スポンサーがOlympicグループから[クレディセゾン](../Page/クレディセゾン.md "wikilink")になるのに伴い、番組タイトルが「**SAISON CARD TOKIO HOT 100**」となる。オープニングとエンディングにかかるジングルは[RIP SLYMEの](../Page/RIP_SLYME.md "wikilink")[DJ FUMIYAが製作](https://ja.wikipedia.org/wiki/DJ_FUMIYA "wikilink")。
-  - [2015年](../Page/2015年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink") 2013年と同様、年間チャートを9時間放送した\[13\]。
-  - [2016年](../Page/2016年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink") [DAVID BOWIEの](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")『LAZARUS』が1位を獲得。1月10日にボウイが亡くなった\[14\]ことを受け、各番組で追悼オンエアが集中。その結果、番組史上初となる初登場1位となった\[15\]。
-  - [2016年](../Page/2016年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink") [SUCHMOSの](https://ja.wikipedia.org/wiki/Suchmos "wikilink")『STAY TUNE』が1位を獲得。デビューから1年以内で1位を獲得したアーティストは2005年のDEF TECH『MY WAY』以来11年ぶり2組目\[16\]。
-  - [2017年](../Page/2017年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink") 2016年の年間チャートを放送。[RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")の『前前前世』が年間No.1に。2005年の[DEF TECH](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")『MY WAY』以来、邦人アーティストが年間1位を獲得するのは11年ぶりのことで、史上2組目のアーティストとなった\[17\]\[18\]。
-  - [2017年](../Page/2017年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink") [BRUNO MARSの](https://ja.wikipedia.org/wiki/ブルーノ・マーズ "wikilink")『24K MAGIC』が3度目の首位返り咲きで通算7度目の1位に。3度目の首位返り咲きは[ACE OF BASE](../Page/エイス・オブ・ベイス.md "wikilink")『ALL THAT SHE WANTS』、[THE OFFSPRING](../Page/オフスプリング.md "wikilink")『PRETTY FLY』に並ぶ歴代1位\[19\]。
-  - [2017年](../Page/2017年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink") [ONE OK ROCKの](../Page/ONE_OK_ROCK.md "wikilink")『WE ARE』が1位を獲得。ONE OK ROCKが[1月11日](../Page/1月11日.md "wikilink")に発売したアルバム『AMBITIONS』が大ヒットしていることなどから、2016年ののDAVID BOWIEの『LAZARUS』（前述）に次ぐ歴代2組目の初登場1位アーティストとなった\[20\]。
-  - [2017年](../Page/2017年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink") [ゲスの極み乙女。](https://ja.wikipedia.org/wiki/ゲスの極み乙女。 "wikilink")の『シアワセ林檎』が2位に。ニューアルバム『達磨林檎』のセールスポイントが加算され、初登場100位（2017/5/14付）から98ポイントアップとなり、[NORAH JONES](https://ja.wikipedia.org/wiki/ノラ・ジョーンズ "wikilink")、ZAYNの持つ97ポイントアップ（どちらの曲も100位→3位）を塗り替え、HOT POPPER史上最も順位を上げた曲となった\[21\]。
-  - [2017年](../Page/2017年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink") NULBARICHの『IT'S WHO WE ARE』が1位に。2005年の[DEF TECH](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")『MY WAY』、2016年の[SUCHMOS](https://ja.wikipedia.org/wiki/Suchmos "wikilink")『STAY TUNE』に続き、デビューから1年以内で1位になった3組目のアーティストとなった\[22\]\[23\]\[24\]。
-  - [2017年](../Page/2017年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink") [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")の『ノンフィクション』が5位に。これで通算72曲目のエントリーとなり、歴代最多エントリーアーティストとして記録を更新した\[25\]。
-  - [2017年](../Page/2017年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink") [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")の『ノンフィクション』が1位に。これで通算17曲目のNo.1ソングとなり、歴代最多No.1アーティストとして記録を更新した\[26\]。
-  - [2017年](../Page/2017年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink") 放送1500回を迎える。NO.1はKATY PERRY FEAT. MIGOSの『BON APPETIT』\[27\]。
-  - [2017年](../Page/2017年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink") [HI-STANDARDの](../Page/Hi-STANDARD.md "wikilink")『THE GIFT』が2位に。ニューアルバム『THE GIFT』のセールスポイントが加算され、前述の[ゲスの極み乙女。](https://ja.wikipedia.org/wiki/ゲスの極み乙女。 "wikilink")の『シアワセ林檎』と同様、初登場100位（2017年10月8日）から98ポイントアップし、HOT POPPER史上最も順位を上げた曲となった\[28\]。
+  - [2013年](../Page/2013年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink") [サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")の『ミュージック』が1位を獲得。シングルセールス・オンエアポイントが抜群だったことから1月27日から4週連続1位、その後4週間首位から退くものの、アルバムセールス・それによるオンエアポイントも再び増加し、3月24日から再び4週連続1位を獲得。通算で8週間1位となった。日本人アーティストで通算としては最長の記録となり、同年の年間チャートでも2位を獲得した\[8\]\[9\]。
+  - [2013年](../Page/2013年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink") [2013年](../Page/2013年.md "wikilink")年間チャートが、9:00-17:55に「[YEAR END SPECIAL "TOKIO HOT 100 THE ANNUAL COUNTDOWN SLAM JAM 2013"](../Page/J-WAVE_HOLIDAY_SPECIAL.md "wikilink")（イヤーエンドスペシャル - ザ・アニュアル・カウントダウン - ）」として放送された\[10\]。
+  - [2014年](../Page/2014年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink") [サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")の『グッドバイ』が1位を獲得。3位には両A面シングルのもう片方の曲『ユリイカ』がランクインし、TOP3に2曲ランクインさせた。同じアーティストがTOP3に2曲以上入るのは番組史上初\[11\]。
+  - [2014年](../Page/2014年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink") 冠スポンサーが[日本マクドナルド](../Page/日本マクドナルド.md "wikilink")から[Olympicグループ](../Page/Olympicグループ.md "wikilink")になるのに伴い、番組タイトルが「**Olympic TOKIO HOT 100**」となり、テーマソングや一部番組ジングル、ロゴのリニューアルを行った。
+  - [2015年](../Page/2015年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink") [星野源](../Page/星野源.md "wikilink")の「SUN」が7週連続1位となり、2008～2009年と年をまたいだ[MR. CHILDREN](https://ja.wikipedia.org/wiki/Mr.children "wikilink")『エソラ』、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")が持つ日本人アーティストの最長連覇記録であった5週連続1位を更新。日本人アーティスト最長連覇記録を樹立した。同年の年間チャートでも3位を獲得\[12\]\[13\]。
+  - [2015年](../Page/2015年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") 冠スポンサーがOlympicグループから[クレディセゾン](../Page/クレディセゾン.md "wikilink")になるのに伴い、番組タイトルが「**SAISON CARD TOKIO HOT 100**」となる。テーマソングや一部番組ジングル、ロゴのリニューアルを行った。なお、オープニングとエンディングにかかるジングルは[RIP SLYMEの](../Page/RIP_SLYME.md "wikilink")[DJ FUMIYAが製作](https://ja.wikipedia.org/wiki/DJ_FUMIYA "wikilink")。
+  - [2015年](../Page/2015年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink") 2013年と同様、年間チャートを9時間放送した\[14\]。
+  - [2016年](../Page/2016年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink") [DAVID BOWIEの](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")『LAZARUS』が1位を獲得。1月10日にボウイが亡くなった\[15\]ことを受け、各番組で追悼オンエアが集中。その結果、番組史上初となる初登場1位となった\[16\]。
+  - [2016年](../Page/2016年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink") [SUCHMOSの](https://ja.wikipedia.org/wiki/Suchmos "wikilink")『STAY TUNE』が1位を獲得。デビューから1年以内で1位を獲得したアーティストは2005年のDEF TECH『MY WAY』以来11年ぶり2組目\[17\]。
+  - [2017年](../Page/2017年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink") 2016年の年間チャートを放送。[RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")の『前前前世』が年間No.1に。2005年の[DEF TECH](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")『MY WAY』以来、邦人アーティストが年間1位を獲得するのは11年ぶりのことで、史上2組目のアーティストとなった\[18\]\[19\]。
+  - [2017年](../Page/2017年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink") [BRUNO MARSの](https://ja.wikipedia.org/wiki/ブルーノ・マーズ "wikilink")『24K MAGIC』が3度目の首位返り咲きで通算7度目の1位に。3度目の首位返り咲きは[ACE OF BASE](../Page/エイス・オブ・ベイス.md "wikilink")『ALL THAT SHE WANTS』、[THE OFFSPRING](../Page/オフスプリング.md "wikilink")『PRETTY FLY』に並ぶ歴代1位\[20\]。
+  - [2017年](../Page/2017年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink") [ONE OK ROCKの](../Page/ONE_OK_ROCK.md "wikilink")『WE ARE』が1位を獲得。ONE OK ROCKが[1月11日](../Page/1月11日.md "wikilink")に発売したアルバム『AMBITIONS』が大ヒットしていることなどから、2016年ののDAVID BOWIEの『LAZARUS』（前述）に次ぐ歴代2組目の初登場1位アーティストとなった\[21\]。
+  - [2017年](../Page/2017年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink") [ゲスの極み乙女。](https://ja.wikipedia.org/wiki/ゲスの極み乙女。 "wikilink")の『シアワセ林檎』が2位に。ニューアルバム『達磨林檎』のセールスポイントが加算され、初登場100位（2017/5/14付）から98ポイントアップとなり、[NORAH JONES](https://ja.wikipedia.org/wiki/ノラ・ジョーンズ "wikilink")、ZAYNの持つ97ポイントアップ（どちらの曲も100位→3位）を塗り替え、HOT POPPER史上最も順位を上げた曲となった\[22\]。
+  - [2017年](../Page/2017年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink") NULBARICHの『IT'S WHO WE ARE』が1位に。2005年の[DEF TECH](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")『MY WAY』、2016年の[SUCHMOS](https://ja.wikipedia.org/wiki/Suchmos "wikilink")『STAY TUNE』に続き、デビューから1年以内で1位になった3組目のアーティストとなった\[23\]\[24\]\[25\]。
+  - [2017年](../Page/2017年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink") [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")の『ノンフィクション』が5位に。これで通算72曲目のエントリーとなり、歴代最多エントリーアーティストとして記録を更新した\[26\]。
+  - [2017年](../Page/2017年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink") [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")の『ノンフィクション』が1位に。これで通算17曲目のNo.1ソングとなり、歴代最多No.1アーティストとして記録を更新した\[27\]。
+  - [2017年](../Page/2017年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink") 放送1500回を迎える。NO.1はKATY PERRY FEAT. MIGOSの『BON APPETIT』\[28\]。
+  - [2017年](../Page/2017年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink") [HI-STANDARDの](../Page/Hi-STANDARD.md "wikilink")『THE GIFT』が2位に。ニューアルバム『THE GIFT』のセールスポイントが加算され、前述の[ゲスの極み乙女。](https://ja.wikipedia.org/wiki/ゲスの極み乙女。 "wikilink")の『シアワセ林檎』と同様、初登場100位（2017年10月8日）から98ポイントアップし、HOT POPPER史上最も順位を上げた曲となった\[29\]。
   - [2017年](../Page/2017年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") [AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")に[AbemaRADIO](https://ja.wikipedia.org/wiki/AbemaRADIO "wikilink")チャンネルが開設されるのを受けて、この日にSPECIAL2チャンネルでプレ配信を行い、翌週の[12月3日](../Page/12月3日.md "wikilink")よりAbemaRADIOチャンネルで正式にサイマル配信を開始。
-  - [2018年](../Page/2018年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink") 放送30周年を迎える。この日は六本木ヒルズ界隈で「J-WAVE 30th ANNIVERSARY FESTIVAL "TOKYO SOUND EXPERIENCE"」開催中であったことから、高橋優をゲストに迎えたパートで「J-WAVE MUSEUM」から公開生放送が行われた\[29\]。
-  - [2019年](../Page/2019年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink") レギュラーチャート30年分を再集計した「究極のJ-WAVEヒット中のヒット100曲」をカウントダウンする9時間の新春特番『**J-WAVE 30TH ANNIVERSARY SPECIAL SAISON CARD TOKIO HOT 100 30 YEAR ULTIMATE COUNTDOWN**』を放送（9:00〜17:55）\[30\]。
-  - [2019年](../Page/2019年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink") [あいみょん](https://ja.wikipedia.org/wiki/あいみょん "wikilink")が2月13日にリリースした『瞬間的シックスセンス』から6曲同時チャートインを果たし、歴代最高記録となった\[31\]。さらにこの記録は3週連続続き、こちらも歴代最高記録となっている\[32\]。
+  - [2018年](../Page/2018年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink") 放送30周年を迎える。この日は六本木ヒルズ界隈で「J-WAVE 30th ANNIVERSARY FESTIVAL "TOKYO SOUND EXPERIENCE"」開催中であったことから、高橋優をゲストに迎えたパートで「J-WAVE MUSEUM」から公開生放送が行われた\[30\]。
+  - [2019年](../Page/2019年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink") レギュラーチャート30年分を再集計した「究極のJ-WAVEヒット中のヒット100曲」をカウントダウンする9時間の新春特番『**J-WAVE 30TH ANNIVERSARY SPECIAL SAISON CARD TOKIO HOT 100 30 YEAR ULTIMATE COUNTDOWN**』を放送（9:00〜17:55）\[31\]。
+  - [2019年](../Page/2019年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink") [あいみょん](https://ja.wikipedia.org/wiki/あいみょん "wikilink")が2月13日にリリースした『瞬間的シックスセンス』から6曲同時チャートインを果たし、歴代最高記録となった\[32\]。さらにこの記録は3週連続続き、こちらも歴代最高記録となっている\[33\]。
   - [2019年](../Page/2019年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") 番組公式Instagramがスタート。さらに[SHISHAMO](https://ja.wikipedia.org/wiki/SHISHAMO "wikilink")がJ-WAVEのスタジオで生演奏した。
 
 ## ナビゲーター
@@ -80,19 +81,19 @@ J-WAVEでのオンエアチャート・[インターネット](../Page/インタ
 <!-- end list -->
 
   -
-    2013年9月22日は仕事の都合で休みとなり、[Sascha](../Page/Sascha.md "wikilink")がピンチヒッターとして出演した\[33\]。
-    2015年1月11日にはクリスが番組直前に体調不良となったため、[DJ TAROと](../Page/DJ_TARO.md "wikilink")[リアド慈英蘭](https://ja.wikipedia.org/wiki/リアド慈英蘭 "wikilink")が急きょ代打ナビゲーターを務めた\[34\]。
-    2017年2月12日はクリスが仕事の都合で休みとなり、[SASCHAと](../Page/Sascha.md "wikilink")[藤田琢己](../Page/藤田琢己.md "wikilink")がピンチヒッターを務めた。ツインでの放送は2004年（前述）以来13年ぶり\[35\]。
-    2017年2月19日はクリスがインフルエンザにかかったことから、2月12日と同様に[SASCHAと](../Page/Sascha.md "wikilink")[藤田琢己](../Page/藤田琢己.md "wikilink")が代打ナビゲートを急遽務めた。2週連続の代打による放送は今回が初めて\[36\]。
+    2013年9月22日は仕事の都合で休みとなり、[Sascha](../Page/Sascha.md "wikilink")がピンチヒッターとして出演した\[34\]。
+    2015年1月11日にはクリスが番組直前に体調不良となったため、[DJ TAROと](../Page/DJ_TARO.md "wikilink")[リアド慈英蘭](https://ja.wikipedia.org/wiki/リアド慈英蘭 "wikilink")が急きょ代打ナビゲーターを務めた\[35\]。
+    2017年2月12日はクリスが仕事の都合で休みとなり、[SASCHAと](../Page/Sascha.md "wikilink")[藤田琢己](../Page/藤田琢己.md "wikilink")がピンチヒッターを務めた。ツインでの放送は2004年（前述）以来13年ぶり\[36\]。
+    2017年2月19日はクリスがインフルエンザにかかったことから、2月12日と同様に[SASCHAと](../Page/Sascha.md "wikilink")[藤田琢己](../Page/藤田琢己.md "wikilink")が代打ナビゲートを急遽務めた。2週連続の代打による放送は今回が初めて\[37\]。
 
 <!-- end list -->
 
-  - [多田記子](https://ja.wikipedia.org/wiki/多田記子 "wikilink")→[木次真紀](../Page/木次真紀.md "wikilink")（両者、J-WAVE インフォメーションアナウンサー）
+  - [木次真紀](../Page/木次真紀.md "wikilink")（両者、J-WAVE インフォメーションアナウンサー）
 
 <!-- end list -->
 
   -
-    メインナビゲートではないものの基本的に毎週レギュラーで[インフォメーション読み（HEADLINE NEWS、TRAFFIC INFORMATION）及び](../Page/J-WAVE_LIFE_INFORMATION.md "wikilink")、週刊クリスペーパーの原稿読みを行っているのは彼女たちである。木次は2009年10月ごろから出演。
+    2009年10月頃より担当。メインナビゲートではないものが、基本的に毎週レギュラーで[インフォメーション読み（HEADLINE NEWS、TRAFFIC INFORMATION）及び](../Page/J-WAVE_LIFE_INFORMATION.md "wikilink")、週刊クリス・ペーパーの記事紹介を行う。
 
 ### 降板したナビゲーター
 
@@ -104,6 +105,15 @@ J-WAVEでのオンエアチャート・[インターネット](../Page/インタ
   -
     長年、クリス1人のナビゲートを続けていたが、2002年4月からツインナビゲートに変更された。2004年10月からは再びクリス1人のナビゲートに戻った。なお、君島はこの番組出演が縁でクリス・ペプラーと[2006年](../Page/2006年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")に結婚している。
 
+<!-- end list -->
+
+  - [多田記子](https://ja.wikipedia.org/wiki/多田記子 "wikilink")（J-WAVE インフォメーションアナウンサー）
+
+<!-- end list -->
+
+  -
+    メインナビゲートではないが、木次の前にインフォメーションやクリス・ペーパーの記事紹介を担当。
+
 ### 関連人物
 
   - [ピストン西沢](../Page/ピストン西沢.md "wikilink")
@@ -111,7 +121,7 @@ J-WAVEでのオンエアチャート・[インターネット](../Page/インタ
 <!-- end list -->
 
   -
-    今でこそJ-WAVEを代表するナビゲーターの1人である西沢だが、J-WAVE開局初期は裏方の仕事がメインであり、番組初期にディレクターを務めた1人である。かつて、2度クリスが遅刻したときにクリスに代わって「**つなぎ**」で喋ったのが西沢。2008年10月のタイムテーブル上での「クリス・ペプラーとジョン・カビラの対談」の中や、TOKIO HOT 100の1000回目の放送でも語られている。\[37\]
+    今でこそJ-WAVEを代表するナビゲーターの1人である西沢だが、J-WAVE開局初期は裏方の仕事がメインであり、番組初期にディレクターを務めた1人である（二代目。1989年 - 1994年\[38\]）。かつて、2度クリスが遅刻したときにクリスに代わって「**つなぎ**」で喋ったのが西沢。2008年10月のタイムテーブル上での「クリス・ペプラーとジョン・カビラの対談」の中や、TOKIO HOT 100の1000回目の放送でも語られている。\[39\]
 
 ## 放送・配信時間
 
@@ -140,7 +150,7 @@ J-WAVEでのオンエアチャート・[インターネット](../Page/インタ
 
 なお、「SLAM JAM」放送週の最新チャートは番組内でTOP10のみ放送される。ただし2013年度分は、前述の通り2013年12月31日に放送された。
 
-また2013年12月31日には「TOKIO HOT 100 WHOLE OF FAME」と名付け、1988-2013年までの26年分の年間チャートで1位をとった曲をFIREWORKS DJ'S DJ URAKENがミックスしたものが放送された\[38\]。
+また2013年12月31日には「TOKIO HOT 100 WHOLE OF FAME」と名付け、1988-2013年までの26年分の年間チャートで1位をとった曲をFIREWORKS DJ'S DJ URAKENがミックスしたものが放送された\[40\]。
 
 レギュラーチャートで1位を獲得したことがないのに年間1位になったのは1996年の[ERIC CLAPTONの](../Page/エリック・クラプトン.md "wikilink")『CHANGE THE WORLD』のみ。またこの楽曲は、レギュラーチャートのTOP10に27週間もエントリーしていたことから、2019年1月1日に放送された30年の総合チャートでも1位となった。
 
@@ -192,7 +202,7 @@ J-WAVEでのオンエアチャート・[インターネット](../Page/インタ
 
 また、毎年10 - 11月に一般のリスナーにポスターを制作してもらい、それらを採用するという企画もある。
 
-なお、2011年度は[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")後に音楽の力が見直された事もあり、"HOPE FOR THE FUTURE"をキャッチフレーズとしたライヴイベント「**TOKIO HOT 100 LIVE 〜Heart to Heart〜**」を行うことになり、開催はなし。2012年度からは名称を「CHART OF THE YEAR」に変更。発表会はJ-WAVEの本社近くの[EX THEATER ROPPONGIで開催](https://ja.wikipedia.org/wiki/EX_THEATER_ROPPONGI "wikilink")。2015年度からは新木場[STUDIO COASTで](../Page/STUDIO_COAST.md "wikilink")「TOKIO HOT 100 FESTIVAL」を開催するようになり、受賞関連のイベントは行われなくなった\[39\]\[40\]。
+なお、2011年度は[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")後に音楽の力が見直された事もあり、"HOPE FOR THE FUTURE"をキャッチフレーズとしたライヴイベント「**TOKIO HOT 100 LIVE 〜Heart to Heart〜**」を行うことになり、開催はなし。2012年度からは名称を「CHART OF THE YEAR」に変更。発表会はJ-WAVEの本社近くの[EX THEATER ROPPONGIで開催](https://ja.wikipedia.org/wiki/EX_THEATER_ROPPONGI "wikilink")。2015年度からは新木場[STUDIO COASTで](../Page/STUDIO_COAST.md "wikilink")「TOKIO HOT 100 FESTIVAL」を開催するようになり、受賞関連のイベントは行われなくなった\[41\]\[42\]。
 
 <table>
 <thead>
@@ -541,7 +551,7 @@ J-WAVEでのオンエアチャート・[インターネット](../Page/インタ
 <!-- end list -->
 
   -
-    クイズコーナー。それぞれの時間帯のチャート紹介から1曲ピックアップされ、その曲がかかっている間に電話でエントリーしたリスナーの中から、一人にスタジオから電話をかける。電話が繋がったリスナーにクリス・ペプラーがその楽曲にちなんだ三択クイズを出題。正解すると賞金、不正解でも参加賞としてチャートにランクインした楽曲が入ったCDのうち1枚のプレゼントがもらえる。賞金は1万円からスタートし、不正解の場合、次回にキャリーオーバーとなり2万円、3万円…というように正解者が出るまで増額される。
+    クイズコーナー。それぞれの時間帯のチャート紹介から1曲ピックアップされ、その曲がかかっている間に電話でエントリーしたリスナーの中から、一人にスタジオから電話をかける。電話が繋がったリスナーにクリス・ペプラーがその楽曲にちなんだ三択クイズを出題。正解すると選べるチケット、不正解でも参加賞としてチャートにランクインした楽曲が入ったCDのうち1枚のプレゼントがもらえる。選べるチケットは1万円分からスタートし、不正解の場合、次回にキャリーオーバーとなり2万円、3万円…というように正解者が出るまで増額される。
 
 <!-- end list -->
 
@@ -559,7 +569,7 @@ J-WAVEでのオンエアチャート・[インターネット](../Page/インタ
 <!-- end list -->
 
   -
-    中盤の20位前後の約10曲をノンストップ・リミックスで紹介する。2013年12月1日までFIRE WORKS DJ'S [DJ URAKENが担当していたが](https://ja.wikipedia.org/wiki/DJ_URAKEN "wikilink")、体調不良によりその日で降板。現在はFIRE WORKS DJ'S [DJ DRAGONが担当している](../Page/DJ_DRAGON.md "wikilink")（[2019年](../Page/2019年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")から[BLACK JAXX](../Page/BLACK_JAXX.md "wikilink") DJ DRAGONに改名）。
+    中盤の20位前後の約10曲をノンストップ・リミックスで紹介する（併せてタイトルも付けられるが、時節柄に合わせたタイトルであり、中身とは直接関係ない）。2013年12月1日までFIRE WORKS DJ'S [DJ URAKENが担当していたが](https://ja.wikipedia.org/wiki/DJ_URAKEN "wikilink")、体調不良によりその日で降板。現在はFIRE WORKS DJ'S [DJ DRAGONが担当している](../Page/DJ_DRAGON.md "wikilink")（[2019年](../Page/2019年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")から[BLACK JAXX](../Page/BLACK_JAXX.md "wikilink") DJ DRAGONに改名）。
 
 <!-- end list -->
 
@@ -571,9 +581,11 @@ J-WAVEでのオンエアチャート・[インターネット](../Page/インタ
     前週のトップ10を振り返り、トップ10落ちを発表してトップ10の紹介へ。これ以降にランクインする楽曲は比較的長めにオンエアされる。
     1位発表前にその週の10位〜2位を振り返り、1位を発表する。
 
+そのほか、番組内ではHEADLINE NEWSが1回とTRAFFIC INFORMATIONが2回挿入されるが、TRAFFIC INFORMATIONに関してはた番組でも使用のものとは別のBGMが用意され、クリスが生でタイトルの読み上げとニュースアナウンサーへの引き継ぎを行う。
+
 ## 番組スポンサー
 
-冠のスポンサー以外は、[提供](https://ja.wikipedia.org/wiki/提供 "wikilink")（[スポンサー](../Page/スポンサー.md "wikilink")）が時間帯によって切り替わるため、番組のオープニング・エンディングと15:00ごろのヘッドラインニュースの前後で、クリス・ペプラーがそれぞれのスポンサーを英語で紹介している。AbemaRADIOでも途中からスポンサードネットを開始している。なおこれらのCMはコミュニティFMでは流れない。
+2000年代以降は冠スポンサーに加えて複数社提供となっており、冠のスポンサー以外は、[提供](https://ja.wikipedia.org/wiki/提供 "wikilink")（[スポンサー](../Page/スポンサー.md "wikilink")）が時間帯によって切り替わるため、番組のオープニング・エンディングと15:00ごろのヘッドラインニュースの前後で、クリス・ペプラーがそれぞれのスポンサーを英語で紹介している。AbemaRADIOでも途中からスポンサードネットを開始している。なおこれらのCMはコミュニティFMでは流れない。
 
 サッポロビールが冠スポンサーの時代は、数多くのオリジナルCMや、ゲストと同社商品を呑みながらのトーク&プレゼントという構成となっていた。系列の[ヱビスビール](../Page/ヱビスビール.md "wikilink")など休日のビールを主題としたCM。ドラフトワンなどの「ドラドンピシャ」のコーナーなどが設けられていた。
 
@@ -624,7 +636,7 @@ Olympicグループになってからは「Olympic HOT 10 RANKING」と題して
       - 番組開始10周年記念として、第1弾（EMI、PONY CANYON、SONY、Victor、WARNERの各盤）、第2弾（avex、BMG、east west、EMI VOL.II、MERCURY、POLYDOR、UNIVERSALの各盤）の2期に分けて各社からオムニバスCDが発売された。
   - J-WAVE TOKIO HOT100 NEW☆S（2000年）
       - 各レコード会社所属の新鋭アーティストの楽曲を収録した3枚（EMI、SME、WEAの各盤）のオムニバスCDが発売された。
-  - J-WAVE TOKIO HOT 100 30th ANNIVERSARY HITS（2018年）\[41\]\[42\]
+  - J-WAVE TOKIO HOT 100 30th ANNIVERSARY HITS（2018年）\[43\]\[44\]
       - 開局30周年を記念し、各年の代表曲を収録したコンピレーションCD。J-POP EDITION（発売元：[GT music](../Page/ソニー・ミュージックダイレクト.md "wikilink")）と洋楽 EDITION（発売元：[ソニー・ミュージックジャパンインターナショナル](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\)#ソニー・ミュージックレーベルズ "wikilink")）の2種類で、それぞれCD2枚組30曲収録。
 
 ## コミュニティFMで配信されている局
@@ -652,19 +664,18 @@ Olympicグループになってからは「Olympic HOT 10 RANKING」と題して
   - [FMハイ](../Page/シティエフエム静岡.md "wikilink")（静岡）
   - [コーストFM](../Page/エフエムぬまづ.md "wikilink")（沼津）
   - [レディオf](../Page/富士コミュニティエフエム放送.md "wikilink")（富士）
-  - [FM Haro\!](../Page/浜松エフエム放送.md "wikilink")（浜松）\[43\]
+  - [FM Haro\!](../Page/浜松エフエム放送.md "wikilink")（浜松）\[45\]
   - [YES-fm](../Page/エフエムちゅうおう.md "wikilink")（大阪）
-  - [BAN-BANラジオ](https://ja.wikipedia.org/wiki/BAN-BANテレビ#BAN-BANラジオ "wikilink")（加古川、2018年4月から）\[44\]
+  - [BAN-BANラジオ](https://ja.wikipedia.org/wiki/BAN-BANテレビ#BAN-BANラジオ "wikilink")（加古川、2018年4月から）\[46\]
   - [RADIOBIRD](../Page/FM鳥取.md "wikilink")（鳥取）
   - [FMくらしき](../Page/エフエムくらしき.md "wikilink")（倉敷）
   - [FMちゅーピー](../Page/中国コミュニケーションネットワーク.md "wikilink")（広島）
-  - [レディオビンゴ](../Page/エフエムふくやま.md "wikilink")（福山、週によっては休止する場合あり））\[45\]
+  - [レディオビンゴ](../Page/エフエムふくやま.md "wikilink")（福山、週によっては休止する場合あり））\[47\]
   - [FM NANAKO](../Page/エフエム萩.md "wikilink")（萩）
   - [FM761](https://ja.wikipedia.org/wiki/FMサン "wikilink")（坂出、15時から飛び乗り）
   - [ホエールステーション](../Page/高知シティエフエムラジオ放送.md "wikilink")（高知）
   - [シティFM764](../Page/シティエフエム都城.md "wikilink")（都城、毎時58分頃に飛び降り、CMと時報を流す）
   - [フレンズFM762](../Page/鹿児島シティエフエム.md "wikilink")（鹿児島）
-  - [エフエムみやこ](../Page/エフエムみやこ.md "wikilink")（沖縄県宮古）
 
 ### 過去配信されていたコミュニティFM
 
@@ -681,6 +692,7 @@ Olympicグループになってからは「Olympic HOT 10 RANKING」と題して
   - [Radio momo](../Page/岡山シティエフエム.md "wikilink")（岡山）
   - [エフエム津山](https://ja.wikipedia.org/wiki/エフエム津山 "wikilink")（津山）
   - [NOAS FM](https://ja.wikipedia.org/wiki/NOAS_FM "wikilink")（中津）
+  - [エフエムみやこ](../Page/エフエムみやこ.md "wikilink")（沖縄県宮古）
 
 ## JFL各局の「HOT 100」
 
@@ -712,43 +724,45 @@ Olympicグループになってからは「Olympic HOT 10 RANKING」と題して
 3.  かつては[Virgin Megastoresの売り上げのランキング対象になっていたが](https://ja.wikipedia.org/wiki/ヴァージン・メガストアーズ#日本での展開 "wikilink")、2009年元日付で、Virginの日本法人がTSUTAYA STORESホールディングスに吸収合併され解散、また全店舗が閉鎖となったことから対象より外れた。また、[新星堂](../Page/新星堂.md "wikilink")もポイント加算対象から外れた。
 4.  [開局30年を迎えるJ-WAVE（81.3FM）の秋改編は、スローガンに掲げる「OVER THE WAVE」をテーマに、深夜にオリジナリティあふれるプログラムを一気に10番組新たに編成！](https://prtimes.jp/main/html/rd/p/000000328.000025404.html),株式会社J-WAVE,2018年9月18日
 5.  厳密には[試験放送期間中から同一枠で放送をしているが](../Page/'AZ'-STATION_J-WAVE.md "wikilink")、番組の開始日並びに回数にはカウントされていない。
-6.  J-WAVE「10年社史」より（参考資料 - [1988年](http://web.archive.org/web/20040902033051/http://motohide.hp.infoseek.co.jp:80/timetable/t8810.html)）
-7.   - 2017年1月30日閲覧
+6.  後述の[\#関連人物](https://ja.wikipedia.org/wiki/#関連人物 "wikilink")項内のリンク先参照。
+7.  J-WAVE「10年社史」より（参考資料 - [1988年](http://web.archive.org/web/20040902033051/http://motohide.hp.infoseek.co.jp:80/timetable/t8810.html)）
 8.   - 2017年1月30日閲覧
-9.  [McDonald's TOKIO HOT 100 THE ANNUAL COUNTDOWN SLAM JAM 2013](http://www.j-wave.co.jp/holiday/20131231_tokio/) - J-WAVE 81.3 FM RADIO 2016年1月21日閲覧
-10.  - 2017年1月30日閲覧
+9.   - 2017年1月30日閲覧
+10. [McDonald's TOKIO HOT 100 THE ANNUAL COUNTDOWN SLAM JAM 2013](http://www.j-wave.co.jp/holiday/20131231_tokio/) - J-WAVE 81.3 FM RADIO 2016年1月21日閲覧
 11.  - 2017年1月30日閲覧
 12.  - 2017年1月30日閲覧
-13. [SAISON CARD TOKIO HOT 100 THE ANNUAL COUNTDOWN SLAM JAM 2015](http://www.j-wave.co.jp/holiday/20151231/) - J-WAVE 81.3 FM RADIO 2017年4月26日閲覧
-14. <http://www.sonymusic.co.jp/artist/DavidBowie/info/463482> - 2017年1月2日閲覧
-15.  - 2017年1月2日閲覧
-16.  - 2017年2月4日閲覧
-17. <http://www.j-wave.co.jp/original/tokiohot100/chart_2016/main.htm> - 2017年1月1日閲覧
-18.  - 2017年1月1日閲覧
-19.  - 2017年1月15日閲覧
-20.  - 2017年1月22日閲覧
-21.  - 2017年5月21日閲覧
-22. NULBARICHは2016年6月22日に『HOMETOWN』でデビューしている（\[19\]参照）。
-23. <http://nulbarich.com/index.php/2016/05/23/hometown_news/> - 2017年5月29日閲覧
-24.  - 2017年5月28日閲覧
-25.  - 2017年6月4日閲覧
-26.  - 2017年6月11日閲覧
-27. <https://www.j-wave.co.jp/original/tokiohot100/staff/1706_present.htm> - 2017年6月4日閲覧
-28.  - 2017年10月15日閲覧
-29.  - 2018年10月9日閲覧
-30. [J-WAVE 30th ANNIVERSARY SPECIAL SAISON CARD TOKIO HOT 100 30 YEAR ULTIMATE COUNTDOWN](https://www.j-wave.co.jp/holiday/20190101/) - J-WAVE 81.3 FM RADIO 2018年12月27日閲覧
-31.  - 2019年2月17日閲覧
-32.  - 2019年3月10日閲覧
-33.  - 2017年2月5日閲覧
+13.  - 2017年1月30日閲覧
+14. [SAISON CARD TOKIO HOT 100 THE ANNUAL COUNTDOWN SLAM JAM 2015](http://www.j-wave.co.jp/holiday/20151231/) - J-WAVE 81.3 FM RADIO 2017年4月26日閲覧
+15. <http://www.sonymusic.co.jp/artist/DavidBowie/info/463482> - 2017年1月2日閲覧
+16.  - 2017年1月2日閲覧
+17.  - 2017年2月4日閲覧
+18. <http://www.j-wave.co.jp/original/tokiohot100/chart_2016/main.htm> - 2017年1月1日閲覧
+19.  - 2017年1月1日閲覧
+20.  - 2017年1月15日閲覧
+21.  - 2017年1月22日閲覧
+22.  - 2017年5月21日閲覧
+23. NULBARICHは2016年6月22日に『HOMETOWN』でデビューしている（\[19\]参照）。
+24. <http://nulbarich.com/index.php/2016/05/23/hometown_news/> - 2017年5月29日閲覧
+25.  - 2017年5月28日閲覧
+26.  - 2017年6月4日閲覧
+27.  - 2017年6月11日閲覧
+28. <https://www.j-wave.co.jp/original/tokiohot100/staff/1706_present.htm> - 2017年6月4日閲覧
+29.  - 2017年10月15日閲覧
+30.  - 2018年10月9日閲覧
+31. [J-WAVE 30th ANNIVERSARY SPECIAL SAISON CARD TOKIO HOT 100 30 YEAR ULTIMATE COUNTDOWN](https://www.j-wave.co.jp/holiday/20190101/) - J-WAVE 81.3 FM RADIO 2018年12月27日閲覧
+32.  - 2019年2月17日閲覧
+33.  - 2019年3月10日閲覧
 34.  - 2017年2月5日閲覧
 35.  - 2017年2月5日閲覧
-36.  - 2017年2月19日閲覧
-37. [J-WAVE WEBSITE : TOKIO HOT100](http://www.j-wave.co.jp/original/tokiohot100/guest_past/past_20071202.htm) - 2016年1月4日閲覧
-38. <http://www.j-wave.co.jp/holiday/20131231_tokio/> - 2016年6月28日閲覧。
-39. <http://www.j-wave.co.jp/sp/topics/1512_tokio.htm>
-40. <http://www.j-wave.co.jp/sp/topics/1701_tokio.htm>
-41. [J-WAVE開局30周年記念CDのジャケット、デザイン決定！ : J-WAVE 81.3 FM RADIO](https://www.j-wave.co.jp/topics/1808_jkt.htm)
-42. [インフォメーション | コンピレーション（邦楽） | ソニーミュージック オフィシャルサイト](https://www.sonymusic.co.jp/artist/Compilation/info/499271)
-43. FM電波のみ。[JCBAインターネットサイマルラジオ](https://ja.wikipedia.org/wiki/JCBAインターネットサイマルラジオ "wikilink")などのインターネットでは[ミュージックバード](../Page/ミュージックバード.md "wikilink")の「J-POP REFRAIN」チャンネルの内容をサイマル放送。
-44. FM電波のみ。JCBAインターネットサイマルラジオなどのインターネットではミュージックバードの「J-Hits」チャンネルの内容をサイマル放送。
-45. FM電波のみ。JCBAインターネットサイマルラジオなどのインターネットではミュージックバードの『Resort Winds』（[エフエム軽井沢](../Page/エフエム軽井沢.md "wikilink")製作）を放送。
+36.  - 2017年2月5日閲覧
+37.  - 2017年2月19日閲覧
+38. このころから『THE VILLAGE』や『[Across The View](../Page/Across_The_View.md "wikilink")』のナビゲーターを務めるようになる。
+39. [J-WAVE WEBSITE : TOKIO HOT100](http://www.j-wave.co.jp/original/tokiohot100/guest_past/past_20071202.htm) - 2016年1月4日閲覧
+40. <http://www.j-wave.co.jp/holiday/20131231_tokio/> - 2016年6月28日閲覧。
+41. <http://www.j-wave.co.jp/sp/topics/1512_tokio.htm>
+42. <http://www.j-wave.co.jp/sp/topics/1701_tokio.htm>
+43. [J-WAVE開局30周年記念CDのジャケット、デザイン決定！ : J-WAVE 81.3 FM RADIO](https://www.j-wave.co.jp/topics/1808_jkt.htm)
+44. [インフォメーション | コンピレーション（邦楽） | ソニーミュージック オフィシャルサイト](https://www.sonymusic.co.jp/artist/Compilation/info/499271)
+45. FM電波のみ。[JCBAインターネットサイマルラジオ](https://ja.wikipedia.org/wiki/JCBAインターネットサイマルラジオ "wikilink")などのインターネットでは[ミュージックバード](../Page/ミュージックバード.md "wikilink")の「J-POP REFRAIN」チャンネルの内容をサイマル放送。
+46. FM電波のみ。JCBAインターネットサイマルラジオなどのインターネットではミュージックバードの「J-Hits」チャンネルの内容をサイマル放送。
+47. FM電波のみ。JCBAインターネットサイマルラジオなどのインターネットではミュージックバードの『Resort Winds』（[エフエム軽井沢](../Page/エフエム軽井沢.md "wikilink")製作）を放送。

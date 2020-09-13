@@ -77,7 +77,7 @@
 
   - 1905年 『[奇商クラブ](https://ja.wikipedia.org/wiki/奇商クラブ "wikilink")』（The Club of Queer Trades）
       - 『奇商クラブ』（[福田恆存](../Page/福田恆存.md "wikilink")訳、創元推理文庫、1977年。旧版は[東京創元社](../Page/東京創元社.md "wikilink")「世界推理小説全集」1959年、のちに[中村保男](../Page/中村保男.md "wikilink")訳名義）
-          - この訳書は、『知りすぎた男』での2篇（短編「背信の塔」及び中編「驕りの樹」）を収録
+          - この訳書は、『知りすぎた男』（本国版）での2篇（短編「背信の塔」及び中編「驕りの樹」）を収録
       - 『奇商クラブ 【新訳版】』（南條竹則訳、創元推理文庫、2018年）
   - [1911年](../Page/1911年.md "wikilink") 『[ブラウン神父の童心](../Page/ブラウン神父の童心.md "wikilink")』（The Innocence of Father Brown）
       - 『ブラウン神父の無知』（[村崎敏郎](https://ja.wikipedia.org/wiki/村崎敏郎 "wikilink")訳、ハヤカワミステリ201：早川書房、1955年）
@@ -94,6 +94,7 @@
       - 『知りすぎた男　ホーン・フィッシャーの事件簿』（井伊順彦訳、論創社〈論創海外ミステリ〉、2008年）
           - この訳書は、上記『奇商クラブ』に収録2篇は省略。
       - 『知りすぎた男』（南條竹則訳、創元推理文庫、2020年5月）
+          - この訳書は、上記『奇商クラブ』に収録2篇、および『知りすぎた男』（本国版）の2編（「煙の庭」と「剣の五」）は省略。
   - 1925年 『法螺吹き友の会』（Tales of Long Bow)
       - 『法螺吹き友の会』（井伊順彦訳、論創社〈論創海外ミステリ〉、2012年）
   - 1926年 『[ブラウン神父の不信](../Page/ブラウン神父の不信.md "wikilink")』（The Incredulity of Father Brown）
@@ -117,6 +118,18 @@
       - 『ポンド氏の逆説』（福田恆存訳、創元推理文庫：東京創元社、1977年。もと1959年「世界推理小説全集56」、のちに中村保男訳名義）
       - 『ポンド氏の逆説 【新訳版】』（南條竹則訳、創元推理文庫：東京創元社、2017年）
   - 「ブラウン神父シリーズ」は、戦前に単発的に浅野玄府訳や西田政治訳などが雑誌に掲載され、又傑作集が編まれたりしたが、原書のままでまとまって紹介されることはなかった。戦後のハヤカワ・ミステリの村崎訳が最初である。なお、世界推理小説大系、推理名作全集といった類のにも一部の短編が択ばれて収録されているが煩をおそれて省略した。
+
+### ノンシリーズ中短編
+
+  - 1905年 「背信の塔」（The Tower of Treason)
+  - 1905年 「驕りの樹」（The Trees of Pride)
+  - [1919年](../Page/1919年.md "wikilink") 「煙の庭」（The Garden of Smoke）\[1\]
+  - 1919年 「剣の五」（The Five of Swords）
+      - 前記2編は『奇商クラブ』（創元推理文庫、1977年）、後記2編は『知りすぎた男　ホーン・フィッシャーの事件簿』（論創社、2008年）に併録。
+  - [1924年](../Page/1924年.md "wikilink") 「竜とカクレンボ」（The Dragon at Hide-and-Seek)
+      - 推理小説ではなくファンタジーもの。「ファンタジイ傑作集２　ビバ！ドラゴン」（早川文庫　ＦＴ28　1981年）に収録。
+  - 1925年 「キツネを撃った男」（The Man Who Shot the Fox)
+  - 1925年 「白柱荘の殺人」（The White Pillars Murder)
 
 ### 編書・アンソロジー
 
@@ -166,4 +179,6 @@
 
   -
   -
-[Category:19世紀イングランドの詩人](https://ja.wikipedia.org/wiki/Category:19世紀イングランドの詩人 "wikilink") [Category:20世紀イングランドの詩人](https://ja.wikipedia.org/wiki/Category:20世紀イングランドの詩人 "wikilink") [Category:19世紀イングランドの小説家](https://ja.wikipedia.org/wiki/Category:19世紀イングランドの小説家 "wikilink") [Category:20世紀イングランドの小説家](https://ja.wikipedia.org/wiki/Category:20世紀イングランドの小説家 "wikilink") [Category:イングランドの随筆家](https://ja.wikipedia.org/wiki/Category:イングランドの随筆家 "wikilink") [Category:イギリスの推理作家](https://ja.wikipedia.org/wiki/Category:イギリスの推理作家 "wikilink") [Category:イギリスのファンタジー作家](https://ja.wikipedia.org/wiki/Category:イギリスのファンタジー作家 "wikilink") [Category:イギリスの文芸評論家](https://ja.wikipedia.org/wiki/Category:イギリスの文芸評論家 "wikilink") [Category:イギリスの美術評論家](https://ja.wikipedia.org/wiki/Category:イギリスの美術評論家 "wikilink") [Category:キリスト教弁証家](https://ja.wikipedia.org/wiki/Category:キリスト教弁証家 "wikilink") [Category:アフォリスト](https://ja.wikipedia.org/wiki/Category:アフォリスト "wikilink") [Category:イングランドのカトリックの人物](https://ja.wikipedia.org/wiki/Category:イングランドのカトリックの人物 "wikilink") [Category:ブラウン神父シリーズ](https://ja.wikipedia.org/wiki/Category:ブラウン神父シリーズ "wikilink") [Category:イギリスの保守思想家](https://ja.wikipedia.org/wiki/Category:イギリスの保守思想家 "wikilink") [Category:反共主義者](https://ja.wikipedia.org/wiki/Category:反共主義者 "wikilink") [Category:ケンジントン・アンド・チェルシー区出身の人物](https://ja.wikipedia.org/wiki/Category:ケンジントン・アンド・チェルシー区出身の人物 "wikilink") [Category:1874年生](https://ja.wikipedia.org/wiki/Category:1874年生 "wikilink") [Category:1936年没](https://ja.wikipedia.org/wiki/Category:1936年没 "wikilink")
+[Category:19世紀イングランドの詩人](https://ja.wikipedia.org/wiki/Category:19世紀イングランドの詩人 "wikilink") [Category:20世紀イングランドの詩人](https://ja.wikipedia.org/wiki/Category:20世紀イングランドの詩人 "wikilink") [Category:19世紀イングランドの小説家](https://ja.wikipedia.org/wiki/Category:19世紀イングランドの小説家 "wikilink") [Category:20世紀イングランドの小説家](https://ja.wikipedia.org/wiki/Category:20世紀イングランドの小説家 "wikilink") [Category:イングランドの随筆家](https://ja.wikipedia.org/wiki/Category:イングランドの随筆家 "wikilink") [Category:イギリスの推理作家](https://ja.wikipedia.org/wiki/Category:イギリスの推理作家 "wikilink") [Category:イギリスのファンタジー作家](https://ja.wikipedia.org/wiki/Category:イギリスのファンタジー作家 "wikilink") [Category:イギリスの文芸評論家](https://ja.wikipedia.org/wiki/Category:イギリスの文芸評論家 "wikilink") [Category:イギリスの美術評論家](https://ja.wikipedia.org/wiki/Category:イギリスの美術評論家 "wikilink") [Category:キリスト教弁証家](https://ja.wikipedia.org/wiki/Category:キリスト教弁証家 "wikilink") [Category:アフォリスト](https://ja.wikipedia.org/wiki/Category:アフォリスト "wikilink") [Category:イングランドのカトリックの人物](https://ja.wikipedia.org/wiki/Category:イングランドのカトリックの人物 "wikilink") [Category:ブラウン神父シリーズ](https://ja.wikipedia.org/wiki/Category:ブラウン神父シリーズ "wikilink") [Category:イギリスの保守思想家](https://ja.wikipedia.org/wiki/Category:イギリスの保守思想家 "wikilink") [Category:反共主義者](https://ja.wikipedia.org/wiki/Category:反共主義者 "wikilink") [Category:プロテスタントの棄教者](https://ja.wikipedia.org/wiki/Category:プロテスタントの棄教者 "wikilink") [Category:ケンジントン・アンド・チェルシー区出身の人物](https://ja.wikipedia.org/wiki/Category:ケンジントン・アンド・チェルシー区出身の人物 "wikilink") [Category:1874年生](https://ja.wikipedia.org/wiki/Category:1874年生 "wikilink") [Category:1936年没](https://ja.wikipedia.org/wiki/Category:1936年没 "wikilink")
+
+1.  戦前の「新青年」（'29新春増刊）での訳題は「煙りの園」

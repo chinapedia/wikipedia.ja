@@ -204,7 +204,7 @@
 
 <!-- end list -->
 
-  - [松田裕市](https://ja.wikipedia.org/wiki/松田裕市 "wikilink")
+  - [松田裕市](../Page/松田裕市.md "wikilink")
 
 <!-- end list -->
 
@@ -280,7 +280,7 @@
 <!-- end list -->
 
   - [羽鳥佑](https://ja.wikipedia.org/wiki/羽鳥佑 "wikilink")
-  - [林幸矢](https://ja.wikipedia.org/wiki/林幸矢 "wikilink")
+  - [林幸矢](../Page/林幸矢.md "wikilink")
   - [古沢勇人](https://ja.wikipedia.org/wiki/古沢勇人 "wikilink")
 
 <!-- end list -->

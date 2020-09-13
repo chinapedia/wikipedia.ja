@@ -1,7 +1,7 @@
 > この記事は[HAT神戸](https://ja.wikipedia.org/wiki/HAT神戸)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Hat_kobe09s3200.jpg "wikilink") **HAT神戸**（ハットこうべ）は、[神戸市](../Page/神戸市.md "wikilink")の東部[新都心](https://ja.wikipedia.org/wiki/新都心 "wikilink")として開発された地区の名称。名称の「HAT」とは「Happy Active Town」の略で、公募により決定された。[三宮](../Page/三宮.md "wikilink")地区を中心として、西側の[ハーバーランドと対をなす東側の新都心である](../Page/神戸ハーバーランド.md "wikilink")。[1996年](../Page/1996年.md "wikilink")に着工、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に供用が開始。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Hat_kobe09s3200.jpg "wikilink") **HAT神戸**（ハットこうべ）は、[神戸市](../Page/神戸市.md "wikilink")の東部[新都心として開発された地区の名称](https://ja.wikipedia.org/wiki/都心 "wikilink")。名称の「HAT」とは「Happy Active Town」の略で、公募により決定された。[三宮](../Page/三宮.md "wikilink")地区を中心として、西側の[ハーバーランドと対をなす東側の新都心である](../Page/神戸ハーバーランド.md "wikilink")。[1996年](../Page/1996年.md "wikilink")に着工、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に供用が開始。
 
 区域は概ね[阪神高速3号神戸線](../Page/阪神高速3号神戸線.md "wikilink")の摩耶出入口から生田川出入口の区間の南側にあたる。当地区は、屋内スキー施設のマヤ・エスポートや[川崎製鉄](../Page/川崎製鉄.md "wikilink")阪神製造所、[神戸製鋼所](../Page/神戸製鋼所.md "wikilink")等があったが、[阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")の被災により、移転や空き地となった。
 

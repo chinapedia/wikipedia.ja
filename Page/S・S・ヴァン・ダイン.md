@@ -60,32 +60,32 @@
       - 『カシノ殺人事件』 井上勇訳 創元推理文庫 1960年
   - The Garden Murder Case, 1935
       - 『競馬殺人事件』 杉公平訳 芸術社 1956年
-      - 『ガーデン殺人事件』 井上勇訳　創元推理文庫 1959年
+      - 『ガーデン殺人事件』 井上勇訳 創元推理文庫 1959年
   - The Kidnap Murder Case, 1936
       - 『誘拐殺人事件』 杉公平訳 芸術社 1956年
       - 『誘拐殺人事件』 [大橋健三郎](../Page/大橋健三郎.md "wikilink")訳 早川書房 1957年
-      - 『誘拐殺人事件』 井上勇訳　創元推理文庫 1961年
+      - 『誘拐殺人事件』 井上勇訳 創元推理文庫 1961年
   - The Gracie Allen Murder Case, 1938年
       - 『グレイシー・アレン殺人事件』 [田中清太郎](https://ja.wikipedia.org/wiki/田中清太郎 "wikilink")訳 早川書房 1957年
       - 『グレイシー・アレン殺人事件』 井上勇訳 創元推理文庫 1961年
   - The Winter Murder Case, 1939
       - 『[ウインター殺人事件](https://ja.wikipedia.org/wiki/ウインター殺人事件 "wikilink")』 宇野利泰訳 早川書房 1958年
-      - 『ウインター殺人事件』 井上勇訳　創元推理文庫 1962年
+      - 『ウインター殺人事件』 井上勇訳 創元推理文庫 1962年
 
 原題は第11作を除き、全作が「The + 6文字の英単語 + Murder Case」で統一されている。
 
 #### 短編
 
-  - 『ファイロ・ヴァンスの犯罪事件簿』　（日本で独自に編纂された短編集）　[論創社](../Page/論創社.md "wikilink")、2007年
-      - The Scarlet Nemesis　「ジェルメーヌ・ベルトン事件」
-      - A Murder in a Witches' Cauldron　「フランツィスカ・プルシャ事件 」
-      - The Man in the Blue Overcoat　「ヤロスジンスキー事件 」
-      - Poison　「グスタフ・コリンスキー事件」
-      - The Almost Perfect Crime　「ヴィルヘルム・ベッケルト事件」
-      - The Inconvenient Husband　「カール・ハニカ事件 」
-      - The Bonmartini Murder Case 　「ボンマルティーニ事件 」
-      - Fool \!　「オットー・アイスラー事件」
-      - Germany's Mistress of Crime　「グレーテ・バイヤー事件」
+  - 『ファイロ・ヴァンスの犯罪事件簿』 （日本で独自に編纂された短編集） [論創社](../Page/論創社.md "wikilink")、2007年
+      - The Scarlet Nemesis 「ジェルメーヌ・ベルトン事件」
+      - A Murder in a Witches' Cauldron 「フランツィスカ・プルシャ事件 」
+      - The Man in the Blue Overcoat 「ヤロスジンスキー事件 」
+      - Poison 「グスタフ・コリンスキー事件」
+      - The Almost Perfect Crime 「ヴィルヘルム・ベッケルト事件」
+      - The Inconvenient Husband 「カール・ハニカ事件 」
+      - The Bonmartini Murder Case 「ボンマルティーニ事件 」
+      - Fool \! 「オットー・アイスラー事件」
+      - Germany's Mistress of Crime 「グレーテ・バイヤー事件」
 
 <!-- end list -->
 
@@ -98,7 +98,7 @@
 
 #### ラジオドラマのノヴェライズ
 
-  - The Midget Murder Case　『ミゼット殺人事件』[語学春秋社](../Page/語学春秋社.md "wikilink")（対訳とカセット付き英語教材）\[8\] 。
+  - The Midget Murder Case 『ミゼット殺人事件』[語学春秋社](../Page/語学春秋社.md "wikilink")（対訳とカセット付き英語教材）\[8\] 。
   - The Backstage Murder Case
   - The Eagle Murder Case
   - The Golden Murder Case
@@ -127,7 +127,7 @@
 ### リレー長編
 
   - The President's Mystery Plot, 1935
-      - 『大統領のミステリ』（大杜淑子訳　ハヤカワ・ミステリ文庫(早川書房)、1984年）　[フランクリン・ルーズベルト](../Page/フランクリン・ルーズベルト.md "wikilink")の提出したプロットをもとに6人の作家が書き継ぐ（のちに[E・S・ガードナー](../Page/E・S・ガードナー.md "wikilink")が改訂）。
+      - 『大統領のミステリ』（大杜淑子訳　ハヤカワ・ミステリ文庫(早川書房)、1984年） [フランクリン・ルーズベルト](../Page/フランクリン・ルーズベルト.md "wikilink")の提出したプロットをもとに6人の作家が書き継ぐ（のちに[E・S・ガードナー](../Page/E・S・ガードナー.md "wikilink")が改訂）。
 
 ### 普通小説（ミステリ以外の長編）
 
@@ -136,9 +136,7 @@
 ### 評論
 
   - 探偵小説論 （1926年）
-  - 推理小説二十則\[10\]（1928年）
-
-**[ヴァン・ダインの二十則](../Page/ヴァン・ダインの二十則.md "wikilink")**として日本でも有名。
+  - 推理小説二十則\[10\]（1928年） **[ヴァン・ダインの二十則](../Page/ヴァン・ダインの二十則.md "wikilink")**として日本でも有名。
 
 ## 脚注
 
@@ -155,9 +153,9 @@
 2.  [中島河太郎](../Page/中島河太郎.md "wikilink")『江戸川乱歩賞全集第一巻　探偵小説辞典』（講談社文庫、1998年）における[権田萬治](https://ja.wikipedia.org/wiki/権田萬治 "wikilink")の解説より。
 3.  [1975年](../Page/1975年.md "wikilink")『[週刊読売](https://ja.wikipedia.org/wiki/週刊読売 "wikilink")』の海外ミステリー・ベストテンで『僧正殺人事件』と『グリーン家殺人事件』はそれぞれ8位と9位、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")『[週刊文春](../Page/週刊文春.md "wikilink")』の同ベストテンで『僧正殺人事件』は9位に挙げられていた。
 4.  昨今では「カジノ」の日本語が普通だが、英語（米語）では\[kasi:nou\]で表題のものに近い。
-5.  渕上痩平のブログ「海外クラシック・ミステリ探訪記」より　http://fuhchin.blog27.fc2.com/blog-entry-145.html
-6.  *Authors today and yesterday 1932* でヴァン・ダインが執筆中と紹介されたが未発表に終わる
-7.  1938年にスクリーブナー社から冒頭4ページのみ印刷された見本が作成されている
+5.  渕上痩平のブログ「海外クラシック・ミステリ探訪記」より <http://fuhchin.blog27.fc2.com/blog-entry-145.html>
+6.  *Authors today and yesterday 1932* でヴァン・ダインが執筆中と紹介されたが未発表に終わる。
+7.  1938年にスクリーブナー社から冒頭4ページのみ印刷された見本が作成されている。
 8.  『ミゼット殺人事件』（語学春秋社）対訳本・解説
 9.  ヴァン・ダインがプロット参加した作品と、名義貸しの作品が混在しているといわれる。
 10. 「探偵小説作法」の訳題もあり。

@@ -126,7 +126,7 @@
 <tr class="odd">
 <td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/テレビユー山形.md" title="wikilink">テレビユー山形</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a></p></td>
+<td><p><a href="../Page/ジャパン・ニュース・ネットワーク.md" title="wikilink">TBS系列</a></p></td>
 <td><p>遅れネット</p></td>
 <td><p>1997年3月まで</p></td>
 </tr>
@@ -146,7 +146,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新潟総合テレビ" title="wikilink">新潟総合テレビ</a></p></td>
+<td><p><a href="../Page/NST新潟総合テレビ.md" title="wikilink">新潟総合テレビ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -290,7 +290,7 @@
 <td><p><a href="../Page/テレビ宮崎.md" title="wikilink">テレビ宮崎</a></p></td>
 <td><p>フジテレビ系列<br />
 日本テレビ系列<br />
-<a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列</a></p></td>
+<a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">テレビ朝日系列</a></p></td>
 <td><p>同時ネット</p></td>
 <td></td>
 </tr>
@@ -315,7 +315,7 @@
 
 ## 外部リンク
 
-  - [晴れたらイイねッ\!Let'sコミミ隊 - フジテレビ](http://www.fujitv.co.jp/b_hp/haretara/)
+  - [晴れたらイイねッ\!Let'sコミミ隊 - フジテレビ](https://www.fujitv.co.jp/b_hp/haretara/)
 
 [Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビの番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの番組の歴史 "wikilink") [Category:フジテレビの紀行・旅番組](https://ja.wikipedia.org/wiki/Category:フジテレビの紀行・旅番組 "wikilink") [Category:アナウンサー番組](https://ja.wikipedia.org/wiki/Category:アナウンサー番組 "wikilink") [Category:フジテレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:フジテレビの一社提供番組 "wikilink") [Category:フジテレビの番組の企画](https://ja.wikipedia.org/wiki/Category:フジテレビの番組の企画 "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink")
 

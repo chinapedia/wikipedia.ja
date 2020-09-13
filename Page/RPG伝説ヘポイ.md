@@ -306,7 +306,7 @@
   - 広報担当：高塚有香（テレビ東京）
   - 演出協力：[高橋良輔](../Page/高橋良輔_\(アニメ監督\).md "wikilink")
   - アニメーション制作:[スタジオぎゃろっぷ](../Page/ぎゃろっぷ.md "wikilink")
-  - 製作：テレビ東京、[NAS](../Page/日本アドシステムズ.md "wikilink")、[SEGA](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")（※製作協力）
+  - 製作：テレビ東京、[NAS](../Page/日本アドシステムズ.md "wikilink")
 
 ## 主題歌
 

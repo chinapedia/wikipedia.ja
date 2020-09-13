@@ -325,4 +325,4 @@
 
   - [Sony Music Online Japan : RUN\&GUN](https://www.sonymusic.co.jp/artist/RunandGun/)
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink") [Category:よしもとミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:よしもとミュージックのアーティスト "wikilink")
+[Category:日本のポップ・アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・アイドルグループ "wikilink") [Category:日本の男性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の男性アイドルグループ "wikilink") [Category:日本のボーイ・バンド](https://ja.wikipedia.org/wiki/Category:日本のボーイ・バンド "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink") [Category:よしもとミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:よしもとミュージックのアーティスト "wikilink")

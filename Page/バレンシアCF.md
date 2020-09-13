@@ -1,7 +1,7 @@
 > この記事は[バレンシアCF](https://ja.wikipedia.org/wiki/バレンシアCF)から翻訳されています。
 
 
-**バレンシア・クルブ・デ・フトボル**（**Valencia Club de Fútbol** (,  )\[1\]）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バレンシアに本拠地を置く](../Page/バレンシア_\(スペイン\).md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチームである。[ラ・リーガに所属している](../Page/プリメーラ・ディビシオン.md "wikilink")。
+**バレンシアFC**（**Valencia Club de Fútbol** (,  )\[1\]）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バレンシアに本拠地を置く](../Page/バレンシア_\(スペイン\).md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチームである。[ラ・リーガに所属している](../Page/プリメーラ・ディビシオン.md "wikilink")。
 
 ## 概要
 
@@ -290,7 +290,8 @@
 | 2017-18                                                             | 4位                                                 | 38                                          | 22    | 7     | 9         |
 | 2018-19                                                             | 4位                                                 | 38                                          | 15    | 16    | 7         |
 | [EL](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2018-19 "wikilink") | 準決勝敗退                                              |                                             |       |       |           |
-| 2019-20                                                             | 位                                                  | 38                                          |       |       |           |
+| 2019-20                                                             | 9位                                                 | 38                                          | 14    | 11    | 13        |
+| 2020-21                                                             | 位                                                  | 38                                          |       |       |           |
 
   -
     {| class="wikitable"
@@ -307,7 +308,7 @@
 
 </div>
 
-\[25\]    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cape_Verde.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Belgium.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guinea.svg "wikilink"))      ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Brazil.svg "wikilink"))    ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))
+\[25\]    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cape_Verde.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Belgium.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guinea.svg "wikilink"))      ★    ★
 
 ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 
@@ -315,7 +316,7 @@
 
 <!-- end list -->
 
-  - [アルベルト・セラーデス](https://ja.wikipedia.org/wiki/アルベルト・セラーデス "wikilink")
+  - [ハビ・グラシア](https://ja.wikipedia.org/wiki/ハビ・グラシア "wikilink")
 
 ### ローン移籍
 
@@ -720,8 +721,18 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2019-</p></td>
+<td><p>2019-2020</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アルベルト・セラデス" title="wikilink">アルベルト・セラデス</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020</p></td>
+<td><p>ボロ （暫定監督）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2020-</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ハビ・グラシア" title="wikilink">ハビ・グラシア</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -861,7 +872,7 @@
 
   - [アイメン・アブデヌール](https://ja.wikipedia.org/wiki/アイメン・アブデヌール "wikilink") 2015-
 
-  - [エセキエル・ガライ](../Page/エセキエル・ガライ.md "wikilink") 2016-
+  - [エセキエル・ガライ](../Page/エセキエル・ガライ.md "wikilink") 2016-2020
 
   - [トニ・ラト](https://ja.wikipedia.org/wiki/トニ・ラト "wikilink") 2016-
 
@@ -987,9 +998,9 @@
 
   - [アンドレアス・ペレイラ](https://ja.wikipedia.org/wiki/アンドレアス・ペレイラ "wikilink") 2017-2018
 
-  - [フェラン・トーレス](https://ja.wikipedia.org/wiki/フェラン・トーレス "wikilink") 2017-
+  - [フェラン・トーレス](https://ja.wikipedia.org/wiki/フェラン・トーレス "wikilink") 2017-2020
 
-  - [フランシス・コクラン](https://ja.wikipedia.org/wiki/フランシス・コクラン "wikilink") 2018-
+  - [フランシス・コクラン](https://ja.wikipedia.org/wiki/フランシス・コクラン "wikilink") 2018-2020
 
   - [ダニエル・ヴァス](https://ja.wikipedia.org/wiki/ダニエル・ヴァス "wikilink") 2018-
 
@@ -1061,7 +1072,7 @@
 
   - [アルバロ・ネグレド](https://ja.wikipedia.org/wiki/アルバロ・ネグレド "wikilink") 2014-2017
 
-  - [ロドリゴ・モレノ](https://ja.wikipedia.org/wiki/ロドリゴ・モレノ・マチャド "wikilink") 2014-
+  - [ロドリゴ・モレノ](https://ja.wikipedia.org/wiki/ロドリゴ・モレノ・マチャド "wikilink") 2014-2020
 
   - [ザカリア・バカリ](https://ja.wikipedia.org/wiki/ザカリア・バカリ "wikilink") 2015-2018
 
@@ -1088,6 +1099,7 @@
 ## 外部リンク
 
   - [公式サイト](http://www.valenciacf.com/ja/Home/index.html)
+  - [日本語サイト](https://vcfjapan.org/)
   - [バレンシアＣＦ公認・フットボールスクール](http://valenciacf-japan.com/)
 
 [Category:スペインのサッカークラブ](https://ja.wikipedia.org/wiki/Category:スペインのサッカークラブ "wikilink") [Category:バレンシアCF](https://ja.wikipedia.org/wiki/Category:バレンシアCF "wikilink")

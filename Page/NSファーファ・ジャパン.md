@@ -7,7 +7,7 @@
 
 ## 概要
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Nissan_Soap.jpg "wikilink")[鶴見区横堤](../Page/鶴見区_\(大阪市\).md "wikilink")2丁目）\]\]
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Nissan_Soap.jpg "wikilink")[鶴見区](../Page/鶴見区_\(大阪市\).md "wikilink")[横堤](../Page/横堤_\(大阪市\).md "wikilink")2丁目）\]\]
 
 東京に本社を置き（営業本部・支店併設）\[1\]、現在は大阪に支社、[兵庫県](../Page/兵庫県.md "wikilink")[加東市](../Page/加東市.md "wikilink")と[茨城県](../Page/茨城県.md "wikilink")[神栖市](https://ja.wikipedia.org/wiki/神栖市 "wikilink")にそれぞれ工場を持つ\[2\]。[2012年](../Page/2012年.md "wikilink")（[平成](../Page/平成.md "wikilink")24年）まで同社は旧日産コンツェルン系企業が再結集した[日産・日立グループ](https://ja.wikipedia.org/wiki/日産コンツェルン#日産・日立（春光）グループ "wikilink")（春光グループ）の日立グループに属する[日油](../Page/日油.md "wikilink")（旧・日本油脂）のグループ会社の一社であった。
 
@@ -23,7 +23,7 @@
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（[平成](../Page/平成.md "wikilink")7年）には、[俳優](../Page/俳優.md "wikilink")や[司会者](https://ja.wikipedia.org/wiki/司会者 "wikilink")として活躍した[児玉清](../Page/児玉清.md "wikilink")をナレーターに起用した[テレビ](../Page/テレビ.md "wikilink")[CMを放送](../Page/コマーシャルメッセージ.md "wikilink")。そのCMに当時の役員3人が出演し、役員の一人が言うセリフ「**広告するのをころっと忘れてました**」は語り草である（舞台は徐行中の軽トラック荷台、同社ロゴを表記した[横断幕](../Page/横断幕.md "wikilink")を掲げ、役員らはスーツにエプロン姿だった）。CMでは児玉によるナレーションで「**誠実一筋、清潔一筋**」と宣伝されていた。また当時『[パネルクイズ アタック25](https://ja.wikipedia.org/wiki/パネルクイズ_アタック25 "wikilink")』（[ABC](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")）\[4\]の番組スポンサーもつとめていた。
 
-[2007年](../Page/2007年.md "wikilink")（平成19年）[6月](../Page/6月.md "wikilink")に本店を[大阪市](../Page/大阪市.md "wikilink")[鶴見区横堤](../Page/鶴見区_\(大阪市\).md "wikilink")2丁目（旧大阪本社工場）から[東京都](../Page/東京都.md "wikilink")[墨田区](../Page/墨田区.md "wikilink")菊川3丁目に移転させる。
+[2007年](../Page/2007年.md "wikilink")（平成19年）[6月](../Page/6月.md "wikilink")に本店を[大阪市](../Page/大阪市.md "wikilink")[鶴見区](../Page/鶴見区_\(大阪市\).md "wikilink")[横堤](../Page/横堤_\(大阪市\).md "wikilink")2丁目（旧大阪本社工場）から[東京都](../Page/東京都.md "wikilink")[墨田区](../Page/墨田区.md "wikilink")菊川3丁目に移転させる。
 
 2007年（平成19年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に[大阪府](../Page/大阪府.md "wikilink")[東大阪市](../Page/東大阪市.md "wikilink")に大阪本社を移転。翌年[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")で大阪本社工場を売却し、創業の地である大阪市鶴見区横堤2丁目を完全に離れる。背景には住宅街化したことがある。なお、商品の問い合わせなどの、お客様相談室は引き続き大阪に置いていた。
 
@@ -41,9 +41,11 @@
 
 [2015年](../Page/2015年.md "wikilink")（平成27年）、商品開発の取り組みとして、[facebook](https://ja.wikipedia.org/wiki/facebook "wikilink")等の[SNS](https://ja.wikipedia.org/wiki/SNS "wikilink")を利用して、吸い上げた消費者の意見を基に製品開発を行なう「**ファーファのものづくり部**」と、シーズ製品をオンラインショップより数量限定で試販し、購入者の意見を聴取して改良していくという「**ファーファのけんきゅう部**」を開始した。
 
+2019年8月5日、東京本社を東京都中央区新川に移転。
+
 ## 事業所
 
-  - 東京本社：〒130-0024　東京都墨田区菊川3-21-8
+  - 東京本社：〒104-0033　東京都中央区新川1-24-1 ユニゾ新川永代通りビル4F
       - 東日本営業部、特販営業部、営業本部、商品開発部、マーケティング部、総務部、経理部、生産管理部、業務部、購買部、お客様相談室
   - 西日本営業部：〒564-0052　大阪府吹田市広芝町9-33　プレジデントビル4F
   - 工場：兵庫工場（[兵庫県](../Page/兵庫県.md "wikilink")[加東市](../Page/加東市.md "wikilink")）、関東工場（[茨城県](../Page/茨城県.md "wikilink")[神栖市](https://ja.wikipedia.org/wiki/神栖市 "wikilink")）

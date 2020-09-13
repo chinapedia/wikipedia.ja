@@ -74,7 +74,7 @@
 
 ## 評価
 
-ゲーム誌「[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")」の「クロスレビュー」では合計26点（満40点）\[3\]、「[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")」の読者投票による『ゲーム通信簿』での評価は以下の通りとなっており、17.60点（満25点）となっている\[4\]。
+ゲーム誌「[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")」の「クロスレビュー」では合計26点（満40点）\[3\]、「[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")」の読者投票による『ゲーム通信簿』での評価は以下の通り17.60点（満25点）となっている\[4\]。
 
 | 項目 | キャラクタ | 音楽   | 操作性  | 熱中度  | お買得度 | オリジナリティ | 総合    |
 | -- | ----- | ---- | ---- | ---- | ---- | ------- | ----- |
@@ -95,7 +95,7 @@
 
   - （英語）
 
-[Category:1988年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1988年のコンピュータゲーム "wikilink") [Category:3D立体視対応ゲーム](https://ja.wikipedia.org/wiki/Category:3D立体視対応ゲーム "wikilink") [Category:HAL研究所のゲームソフト](https://ja.wikipedia.org/wiki/Category:HAL研究所のゲームソフト "wikilink") [Category:ディスクシステム用ソフト](https://ja.wikipedia.org/wiki/Category:ディスクシステム用ソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:任天堂のゲームソフト](https://ja.wikipedia.org/wiki/Category:任天堂のゲームソフト "wikilink") [Category:レースゲーム](https://ja.wikipedia.org/wiki/Category:レースゲーム "wikilink")
+[Category:1988年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1988年のコンピュータゲーム "wikilink") [Category:3D立体視対応ゲーム](https://ja.wikipedia.org/wiki/Category:3D立体視対応ゲーム "wikilink") [Category:HAL研究所のゲームソフト](https://ja.wikipedia.org/wiki/Category:HAL研究所のゲームソフト "wikilink") [Category:ディスクシステム用ソフト](https://ja.wikipedia.org/wiki/Category:ディスクシステム用ソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:任天堂のゲームソフト](https://ja.wikipedia.org/wiki/Category:任天堂のゲームソフト "wikilink") [Category:カーレースゲーム](https://ja.wikipedia.org/wiki/Category:カーレースゲーム "wikilink")
 
 1.  完全に停車する前にチェックポイントを通過できれば、エンジンが復活しレースを続行できる。
 2.  修理中にボタンを連打すれば、修理スピードが若干上がる。

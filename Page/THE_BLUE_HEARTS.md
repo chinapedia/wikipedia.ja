@@ -1,7 +1,7 @@
 > この記事は[THE BLUE HEARTS](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS)から翻訳されています。
 
 
-**THE BLUE HEARTS**（ザ・ブルーハーツ）は、日本の[パンク・ロックバンド](../Page/バンド_\(音楽\).md "wikilink")。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")結成。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーデビュー "wikilink")し、[1980年代](../Page/1980年代.md "wikilink")後半から[1990年代](../Page/1990年代.md "wikilink")前半にかけて活動し、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に解散した。
+**THE BLUE HEARTS**（ザ・ブルーハーツ）は、日本の[パンク・ロックバンド](../Page/バンド_\(音楽\).md "wikilink")。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")結成。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーデビュー "wikilink")し、[1980年代](../Page/1980年代.md "wikilink")後半から[1990年代](../Page/1990年代.md "wikilink")前半にかけて活動し、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に解散した。通称：**ブルハ**。
 
 ヒット曲は「[リンダリンダ](../Page/リンダリンダ.md "wikilink")」「[TRAIN-TRAIN](../Page/TRAIN-TRAIN.md "wikilink")」「[情熱の薔薇](../Page/情熱の薔薇.md "wikilink")」「[夢](../Page/夢_\(THE_BLUE_HEARTSの曲\).md "wikilink")」など\[1\]。コード進行は3、4コードを主としたシンプルなものが多いにもかかわらず、オリジナリティ溢れる楽曲を多く作り上げた。
 
@@ -13,7 +13,7 @@
 
 主にボーカルの甲本ヒロト、リードギターの真島昌利が作詞作曲を担当した。
 
-ザ・ブルーハーツの[甲本ヒロト](../Page/甲本ヒロト.md "wikilink")や[真島昌利](../Page/真島昌利.md "wikilink")の書く詩は、NHK「[人間講座](https://ja.wikipedia.org/wiki/人間講座 "wikilink")」の「言葉の力・詩の力」（[ねじめ正一](../Page/ねじめ正一.md "wikilink")講師）\[4\]中でも、その文学性が高く評価されている（なお、教材本文の講義は、2001年度前期のNHK教育テレビ「人間講座」内で放送）。
+THE BLUE HEARTSの[甲本ヒロト](../Page/甲本ヒロト.md "wikilink")や[真島昌利](../Page/真島昌利.md "wikilink")の書く詩は、NHK「[人間講座](https://ja.wikipedia.org/wiki/人間講座 "wikilink")」の「言葉の力・詩の力」（[ねじめ正一](../Page/ねじめ正一.md "wikilink")講師）\[4\]中でも、その文学性が高く評価されている（なお、教材本文の講義は、2001年度前期のNHK教育テレビ「人間講座」内で放送）。
 
 『[THE BLUE HEARTS](../Page/THE_BLUE_HEARTS_\(アルバム\).md "wikilink")』から『[TRAIN-TRAIN](../Page/TRAIN-TRAIN_\(アルバム\).md "wikilink")』までの前期三部作は、ブルースをルーツとしたメッセージ性の強い、独自の日本語ロックの世界を構築していたが、イーストウェスト移籍後からの後期作品は、後の[THE HIGH-LOWSに繋がる様々なスタイルを取り入れ](../Page/THE_HIGH-LOWS.md "wikilink")、メッセージ性を無視した楽曲も多い。
 
@@ -109,7 +109,7 @@
 
 1987年2月に、シングル「人にやさしく」を自主制作で発表。同年、メルダックよりメジャーデビューが決定し、1987年5月1日に、メジャーデビューシングル「リンダリンダ」を発売、同月に1stアルバム『THE BLUE HEARTS』を発表した。口コミなどで、彼らの評判は若者を中心に全国的に知れ渡るようになり、[第二次バンドブームの先駆けとなった](https://ja.wikipedia.org/wiki/バンドブーム#第二次バンドブーム "wikilink")。
 
-半年後に発売した2ndアルバム『[YOUNG AND PRETTY](../Page/YOUNG_AND_PRETTY.md "wikilink")』も好調、そして1988年に発表した3rdアルバム『TRAIN-TRAIN』が50万枚を超えるヒットとなり、ドラマの主題歌などにも起用されるなど、一躍音楽界のトップシーンに登り詰めた。
+半年後に発売した2ndアルバム『[YOUNG AND PRETTY](../Page/YOUNG_AND_PRETTY.md "wikilink")』も好調、そして1988年に発表した3rdアルバム『TRAIN-TRAIN』が50万枚を超えるヒットとなり、同作からリカットされたシングル「TRAIN-TRAIN」がドラマの主題歌などにも起用されるなど、一躍音楽界のトップシーンに登り詰めた。
 
 しかし4thアルバム以降は、以前ほどの売れ行きは見せなくなった。その後3枚のアルバムを発表。1995年にラストアルバムを発表し、バンドは解散。
 
@@ -169,10 +169,10 @@
 
   - [3月8日](../Page/3月8日.md "wikilink")、[渋谷屋根裏で開催されたライブ](https://ja.wikipedia.org/wiki/屋根裏_\(ライブハウス\) "wikilink")『**[JUST A BEAT SHOW](../Page/JUST_A_BEAT_SHOW.md "wikilink")**』出演。後にこの時のライブを収録した[オムニバス](../Page/オムニバス.md "wikilink")・アルバムも発売。
   - [3月20日](../Page/3月20日.md "wikilink")、アトミック・カフェ・フェスティバル出演。プロバンドの中に混じりアマチュアバンドで唯一出演。
-  - [3月21日](../Page/3月21日.md "wikilink")、[目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink")「Bright Lights Beat City」を最後に英脱退。
+  - [3月21日](../Page/3月21日.md "wikilink")、[目黒鹿鳴館](../Page/目黒鹿鳴館.md "wikilink")「Bright Lights Beat City」を最後に英脱退。
   - [4月19日](../Page/4月19日.md "wikilink")、都立家政スーパーロフトから梶原が正式加入。
   - [5月19日](../Page/5月19日.md "wikilink")、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")“スーパーマガジン・すばらしき人生”でテレビ初出演。
-  - [6月9日](../Page/6月9日.md "wikilink")、[目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink")にて2度目のワンマンライブ「人にやさしく」、489人動員。1985を除く全レパートリー24曲を演奏。
+  - [6月9日](../Page/6月9日.md "wikilink")、[目黒鹿鳴館](../Page/目黒鹿鳴館.md "wikilink")にて2度目のワンマンライブ「人にやさしく」、489人動員。1985を除く全レパートリー24曲を演奏。
 
 <!-- end list -->
 
@@ -245,26 +245,26 @@
 
 ### シングル
 
-|      | 発売日         | シングル名                                                                                         | 最高順位 | レーベル                                                      |
-| ---- | ----------- | --------------------------------------------------------------------------------------------- | ---- | --------------------------------------------------------- |
-| 自主制作 | 1985年12月24日 | **[1985](https://ja.wikipedia.org/wiki/SUPER_BEST_\(THE_BLUE_HEARTSのアルバム\) "wikilink")**      | \-   | 自主制作[ソノシート](../Page/ソノシート.md "wikilink")・ライブ会場限定で200枚ほど配付 |
-| 自主制作 | 1987年2月25日  | **[人にやさしく](../Page/人にやさしく.md "wikilink")**                                                    | 26位  | 自主制作                                                      |
-| 1st  | 1987年5月1日   | **[リンダ リンダ](../Page/リンダリンダ.md "wikilink")**                                                   | 38位  | メルダック                                                     |
-| 2nd  | 1987年11月21日 | **[キスしてほしい](../Page/キスしてほしい.md "wikilink")**                                                  | 48位  | メルダック                                                     |
-| 自主制作 | 1988年7月1日   | **[ブルーハーツのテーマ](../Page/ブルーハーツのテーマ.md "wikilink")**                                            | 39位  | 自主制作                                                      |
-| 自主制作 | 1988年7月1日   | **[チェルノブイリ](https://ja.wikipedia.org/wiki/ブルーハーツのテーマ#チェルノブイリ\(THE_BLUE_HEARTS\) "wikilink")** | 55位  | 自主制作                                                      |
-| 3rd  | 1988年11月23日 | **[TRAIN-TRAIN](../Page/TRAIN-TRAIN.md "wikilink")**                                          | 5位   | メルダック                                                     |
-| 4th  | 1989年2月21日  | **[ラブレター](../Page/ラブレター_\(THE_BLUE_HEARTSの曲\).md "wikilink")**                                | 23位  | メルダック                                                     |
-| 5th  | 1989年6月21日  | **[青空](../Page/青空_\(THE_BLUE_HEARTSの曲\).md "wikilink")**                                      | 8位   | メルダック                                                     |
-| 6th  | 1990年7月25日  | **[情熱の薔薇](../Page/情熱の薔薇.md "wikilink")**                                                      | 1位   | イーストウエスト・ジャパン                                             |
-| 7th  | 1991年4月10日  | **[首つり台から](../Page/首つり台から.md "wikilink")**                                                    | 13位  | イーストウエスト・ジャパン                                             |
-| 8th  | 1991年11月28日 | **[あの娘にタッチ](../Page/あの娘にタッチ.md "wikilink")**                                                  | 24位  | イーストウエスト・ジャパン                                             |
-| 9th  | 1992年3月10日  | **[TOO MUCH PAIN](../Page/TOO_MUCH_PAIN.md "wikilink")**                                      | 29位  | イーストウエスト・ジャパン                                             |
-| 10th | 1992年10月25日 | **[夢](../Page/夢_\(THE_BLUE_HEARTSの曲\).md "wikilink")**                                        | 14位  | イーストウエスト・ジャパン                                             |
-| 11th | 1993年2月25日  | **[旅人](../Page/旅人_\(THE_BLUE_HEARTSの曲\).md "wikilink")**                                      | 50位  | イーストウエスト・ジャパン                                             |
-| 12th | 1993年5月25日  | **[1000のバイオリン](../Page/1000のバイオリン.md "wikilink")**                                            | 47位  | イーストウエスト・ジャパン                                             |
-| 13th | 1993年8月25日  | **[パーティー](../Page/パーティー_\(THE_BLUE_HEARTSの曲\).md "wikilink")**                                | 80位  | イーストウエスト・ジャパン                                             |
-| 14th | 1993年10月25日 | **[夕暮れ](../Page/夕暮れ_\(THE_BLUE_HEARTSの曲\).md "wikilink")**                                    | 71位  | イーストウエスト・ジャパン                                             |
+|                                                                                               | 発売日                                        | シングル名                                                                                    | 最高順位 | レーベル・備考                                               |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------ | ---------------------------------------------------------------------------------------- | ---- | ----------------------------------------------------- |
+| 自主制作                                                                                          | 1985年12月24日                                | **[1985](https://ja.wikipedia.org/wiki/SUPER_BEST_\(THE_BLUE_HEARTSのアルバム\) "wikilink")** | \-   | [ソノシート](../Page/ソノシート.md "wikilink")・ライブ会場限定で200枚ほど配付 |
+| 1987年2月25日                                                                                    | **[人にやさしく](../Page/人にやさしく.md "wikilink")** | 26位                                                                                      |      |                                                       |
+| 1st                                                                                           | 1987年5月1日                                  | **[リンダ リンダ](../Page/リンダリンダ.md "wikilink")**                                              | 38位  | メルダック                                                 |
+| 2nd                                                                                           | 1987年11月21日                                | **[キスしてほしい](../Page/キスしてほしい.md "wikilink")**                                             | 48位  |                                                       |
+| 自主制作                                                                                          | 1988年7月1日                                  | **[ブルーハーツのテーマ](../Page/ブルーハーツのテーマ.md "wikilink")**                                       | 39位  |                                                       |
+| **[チェルノブイリ](https://ja.wikipedia.org/wiki/ブルーハーツのテーマ#チェルノブイリ\(THE_BLUE_HEARTS\) "wikilink")** | 55位                                        |                                                                                          |      |                                                       |
+| 3rd                                                                                           | 1988年11月23日                                | **[TRAIN-TRAIN](../Page/TRAIN-TRAIN.md "wikilink")**                                     | 5位   | メルダック                                                 |
+| 4th                                                                                           | 1989年2月21日                                 | **[ラブレター](../Page/ラブレター_\(THE_BLUE_HEARTSの曲\).md "wikilink")**                           | 23位  |                                                       |
+| 5th                                                                                           | 1989年6月21日                                 | **[青空](../Page/青空_\(THE_BLUE_HEARTSの曲\).md "wikilink")**                                 | 8位   |                                                       |
+| 6th                                                                                           | 1990年7月25日                                 | **[情熱の薔薇](../Page/情熱の薔薇.md "wikilink")**                                                 | 1位   | イーストウエスト・ジャパン                                         |
+| 7th                                                                                           | 1991年4月10日                                 | **[首つり台から](../Page/首つり台から.md "wikilink")**                                               | 13位  |                                                       |
+| 8th                                                                                           | 1991年11月28日                                | **[あの娘にタッチ](../Page/あの娘にタッチ.md "wikilink")**                                             | 24位  |                                                       |
+| 9th                                                                                           | 1992年3月10日                                 | **[TOO MUCH PAIN](../Page/TOO_MUCH_PAIN.md "wikilink")**                                 | 29位  |                                                       |
+| 10th                                                                                          | 1992年10月25日                                | **[夢](../Page/夢_\(THE_BLUE_HEARTSの曲\).md "wikilink")**                                   | 14位  |                                                       |
+| 11th                                                                                          | 1993年2月25日                                 | **[旅人](../Page/旅人_\(THE_BLUE_HEARTSの曲\).md "wikilink")**                                 | 50位  |                                                       |
+| 12th                                                                                          | 1993年5月25日                                 | **[1000のバイオリン](../Page/1000のバイオリン.md "wikilink")**                                       | 47位  |                                                       |
+| 13th                                                                                          | 1993年8月25日                                 | **[パーティー](../Page/パーティー_\(THE_BLUE_HEARTSの曲\).md "wikilink")**                           | 80位  |                                                       |
+| 14th                                                                                          | 1993年10月25日                                | **[夕暮れ](../Page/夕暮れ_\(THE_BLUE_HEARTSの曲\).md "wikilink")**                               | 71位  |                                                       |
 
 ### アルバム
 
@@ -644,7 +644,7 @@ White Xmas</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/BLIGHT_LIGHTS_BEAT_CITY" title="wikilink">BLIGHT LIGHTS BEAT CITY</a></p></td>
-<td><p>3/21 <a href="https://ja.wikipedia.org/wiki/目黒鹿鳴館" title="wikilink">目黒鹿鳴館</a></p></td>
+<td><p>3/21 <a href="../Page/目黒鹿鳴館.md" title="wikilink">目黒鹿鳴館</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -779,7 +779,7 @@ White Xmas</p></td>
 <tr class="even">
 <td><p>秋田ロックシティカーニバル</p></td>
 <td><p>8/1 <a href="../Page/秋田県立野球場.md" title="wikilink">秋田県立野球場</a></p></td>
-<td><p><a href="../Page/RED_WARRIORS.md" title="wikilink">RED WARRIORS</a>, <a href="../Page/BOOWY.md" title="wikilink">BOØWY</a>, <a href="../Page/聖飢魔II.md" title="wikilink">聖飢魔II</a>、<a href="../Page/BARBEE_BOYS.md" title="wikilink">BARBEE BOYS</a>, <a href="../Page/UP-BEAT.md" title="wikilink">UP-BEAT</a>, <a href="../Page/LAUGHIN&#39;_NOSE.md" title="wikilink">LAUGHIN' NOSE</a>, <a href="../Page/ECHOES.md" title="wikilink">ECHOES</a>, <a href="../Page/ECHOES.md" title="wikilink">THE STREET SLIDERSとの対バン</a></p></td>
+<td><p><a href="../Page/RED_WARRIORS.md" title="wikilink">RED WARRIORS</a>, <a href="../Page/BOØWY.md" title="wikilink">BOØWY</a>, <a href="../Page/聖飢魔II.md" title="wikilink">聖飢魔II</a>、<a href="../Page/BARBEE_BOYS.md" title="wikilink">BARBEE BOYS</a>, <a href="../Page/UP-BEAT.md" title="wikilink">UP-BEAT</a>, <a href="../Page/LAUGHIN&#39;_NOSE.md" title="wikilink">LAUGHIN' NOSE</a>, <a href="../Page/ECHOES.md" title="wikilink">ECHOES</a>, <a href="../Page/ECHOES.md" title="wikilink">THE STREET SLIDERSとの対バン</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3123,7 +3123,7 @@ TOUR'88 PRETTY PINEAPPLE SPECIAL 〜2月12日 日本武道館〜 はこのライ
 
 （作詞・作曲：甲本ヒロト / 編曲：THE BLUE HEARTS）
 
-  - 1985年～1986年に演奏されていた曲で、「世界一のクリスマス」でも演奏された。（1986年6月9日に[目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink") で行われた「人にやさしく」での演奏が最後。）
+  - 1985年～1986年に演奏されていた曲で、「世界一のクリスマス」でも演奏された。（1986年6月9日に[目黒鹿鳴館](../Page/目黒鹿鳴館.md "wikilink") で行われた「人にやさしく」での演奏が最後。）
   - スタジオ録音されたデモ音源が存在する。
 
 <!-- end list -->
@@ -3143,7 +3143,7 @@ TOUR'88 PRETTY PINEAPPLE SPECIAL 〜2月12日 日本武道館〜 はこのライ
 
 （作詞・作曲：甲本ヒロト / 編曲：THE BLUE HEARTS）
 
-  - 1986年6月9日に[目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink") で行われた「人にやさしく」で一度のみ演奏された。
+  - 1986年6月9日に[目黒鹿鳴館](../Page/目黒鹿鳴館.md "wikilink") で行われた「人にやさしく」で一度のみ演奏された。
   - ギターを真島と河口、ベースを梶原が弾くというスタイル。
   - 甲本曰く、「自身の持ち歌」らしい。
 

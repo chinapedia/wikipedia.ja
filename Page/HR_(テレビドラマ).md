@@ -68,7 +68,7 @@
   - 轟の兄
     演 - [一橋壮太朗](https://ja.wikipedia.org/wiki/一橋壮太朗 "wikilink")（[三谷幸喜](../Page/三谷幸喜.md "wikilink")）（第12話）
     「ひとまず総集編」の際、三谷が香取と共に即興劇を演じた。轟の兄という設定での出演。
-  - [草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")（第13話）
+  - [草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")（第13話）
     本編には出演せず、轟を演じる香取とのトークという形で出演した。
   - 小仏（こぼとけ）
     演 - [小日向文世](../Page/小日向文世.md "wikilink")（第14話）

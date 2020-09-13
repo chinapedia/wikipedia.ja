@@ -163,7 +163,7 @@ CDMA 1X の課金体系は旧IDO地域と旧セルラー地域で異なってい
   - ETBW00xシリーズ - [+WiMAX](https://ja.wikipedia.org/wiki/+WiMAX "wikilink")搭載法人向けタブレット型端末
   - DATA00/DATA00Wシリーズ - CDMA（EV-DO）（[モバイルWiMAX](https://ja.wikipedia.org/wiki/モバイルWiMAX "wikilink")デュアルを含む）非携帯電話型端末（[DATA01](https://ja.wikipedia.org/wiki/DATA01 "wikilink")、[DATA02](https://ja.wikipedia.org/wiki/DATA02 "wikilink")など。製造型番はxxD00）
   - SP00シリーズ - CDMA (EV-DO) 通信モジュール内蔵[デジタルフォトフレーム](../Page/デジタルフォトフレーム.md "wikilink")・電子書籍端末（[SP01](https://ja.wikipedia.org/wiki/SP01 "wikilink")、[SP02](https://ja.wikipedia.org/wiki/SP02 "wikilink")、[SP03](https://ja.wikipedia.org/wiki/SP03 "wikilink")。製造型番はxxS00。ただし、SP01は01PTである）
-  - P00シリーズ - 非発売の試作用端末（TSP01、TSP02、TSP03、TSP04など[1](http://ameblo.jp/povtc/entry-10589394174.html)）
+  - P00シリーズ - 非発売の試作用端末（TSP01、TSP02、TSP03、TSP04など[1](https://ameblo.jp/povtc/entry-10589394174.html)）
 
 なお、これまでと違い[JATE](https://ja.wikipedia.org/wiki/JATE "wikilink")を通過する際の型番と、発売される際の型番が異なる機種もあり、以下に例を示す。
 

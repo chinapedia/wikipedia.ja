@@ -54,12 +54,12 @@
 ### エンターテインメント
 
   - [CREATIVE OFFICE CUE](../Page/CREATIVE_OFFICE_CUE.md "wikilink")・[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")関連
-      - CUE DREAM JAM-BOREE
+      - [CUE DREAM JAM-BOREE](https://ja.wikipedia.org/wiki/CUE_DREAM_JAM-BOREE "wikilink")
       - [水曜どうでしょう](../Page/水曜どうでしょう.md "wikilink")
       - [ドラバラ鈴井の巣](../Page/ドラバラ鈴井の巣.md "wikilink")
       - [おにぎりあたためますか](../Page/おにぎりあたためますか.md "wikilink")
   - ガラスの靴
-  - [ブロードバンド\!ニッポン](../Page/ブロードバンド!ニッポン.md "wikilink")
+  - [ブロードバンド\!ニッポン](../Page/ブロードバンド!ニッポン.md "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")制作のリクエスト番組、[BSデジタルラジオ](../Page/BSデジタル音声放送.md "wikilink")[LFX488](../Page/LFX488.md "wikilink")と同時放送）
   - 星の輝く夜に
   - ラベンダー
 

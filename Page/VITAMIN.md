@@ -26,7 +26,7 @@
         テレビ番組『[なるほど\!ザ・ワールド](../Page/なるほど!ザ・ワールド.md "wikilink")』（[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）のエンディング・テーマとして使用された。[スチャダラパー](../Page/スチャダラパー.md "wikilink")の『Trio the Caps』のフレーズが[サンプリング](../Page/サンプリング.md "wikilink")されている。
 2.  **Disco Union**
       -
-        [黒人の](../Page/ネグロイド.md "wikilink")[女性](../Page/女性.md "wikilink")[ボーカリストを起用するなど](../Page/歌手.md "wikilink")、[ディスコ](../Page/ディスコ.md "wikilink")・[ソウルを意識した曲](https://ja.wikipedia.org/wiki/ソウル_\(音楽\) "wikilink")。タイトルの元ネタは中古レコードショップの[ディスクユニオン](../Page/ディスクユニオン.md "wikilink")。テレビ番組『[Qさま](https://ja.wikipedia.org/wiki/Qさま "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列）のコーナー「プレッシャーSTUDY」のBGMとしても使用されている。
+        [黒人の](../Page/ネグロイド.md "wikilink")[女性](../Page/女性.md "wikilink")[ボーカリストを起用するなど](../Page/歌手.md "wikilink")、[ディスコ](../Page/ディスコ.md "wikilink")・[ソウルを意識した曲](https://ja.wikipedia.org/wiki/ソウル_\(音楽\) "wikilink")。タイトルの元ネタは中古レコードショップの[ディスクユニオン](../Page/ディスクユニオン.md "wikilink")。テレビ番組『[Qさま\!\!](../Page/クイズプレゼンバラエティー_Qさま!!.md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列）のコーナー「プレッシャーSTUDY」のBGMとしても使用されている。
 3.  **ハイキング** - *Hiking*
       -
         「明るいテーマだがどことなく不安感・無気味さを感じさせる曲」という砂原の意図が込められた曲。

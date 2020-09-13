@@ -450,7 +450,7 @@
   - [3D格闘ツクール](../Page/ツクールシリーズ.md "wikilink")
     [アスキーから発売されたPlayStation用](../Page/アスキー_\(企業\).md "wikilink")3D格闘製作ゲーム。『EX』からスカロマニアのモデルデータが収録されている。
   - [ファイティングEXレイヤー](https://ja.wikipedia.org/wiki/ファイティングEXレイヤー "wikilink")
-    『EX』シリーズを踏襲した、アリカ開発の[PlayStation 4用対戦型格闘ゲーム](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")。[2017年](../Page/2017年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")、[エイプリルフール](https://ja.wikipedia.org/wiki/エイプリルフール "wikilink")企画として「謎の新作格闘ゲーム」の仮称でお披露目された\[4\]が、2017年[11月](../Page/11月.md "wikilink")に正式発売およびタイトル名が発表された。
+    『EX』シリーズを踏襲した、アリカ開発の[PlayStation 4用対戦型格闘ゲーム](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")。[2017年](../Page/2017年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")、[エイプリルフール](https://ja.wikipedia.org/wiki/エイプリルフール "wikilink")企画として「謎の新作格闘ゲーム」の仮称でお披露目された\[4\]が、2017年[11月](../Page/11月.md "wikilink")にタイトル名が正式発表され、2018年6月28日に発売された。
 
 ## 脚注
 

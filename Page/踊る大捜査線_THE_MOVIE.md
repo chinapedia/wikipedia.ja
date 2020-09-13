@@ -12,7 +12,9 @@
   - [1999年](../Page/1999年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink")[スカイパーフェクTV\!衛星初放送](../Page/スカパー!プレミアムサービス.md "wikilink")
   - [2000年](../Page/2000年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")[地上波](../Page/地上波.md "wikilink")初放送（視聴率28.7%）
   - 2000年[10月7日](../Page/10月7日.md "wikilink")同局の[ゴールデン洋画劇場](../Page/ゴールデン洋画劇場.md "wikilink")枠で完全版初放送（視聴率21.3%）
+  - [2002年](../Page/2002年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink")同局の[ゴールデンシアター](https://ja.wikipedia.org/wiki/ゴールデンシアター "wikilink")枠で放送 (視聴率18.3%)
   - [2003年](../Page/2003年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")同局の「[プレミアムステージ](https://ja.wikipedia.org/wiki/プレミアムステージ "wikilink")開幕記念スペシャル」としてハイビジョン・マスター版地上波初放送（視聴率29.6%）
+  - [2005年](../Page/2005年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink") 同局の[プレミアムステージ](https://ja.wikipedia.org/wiki/プレミアムステージ "wikilink")枠でハイビジョン・リマスター版を放送 (視聴率19.6%)
   - [2007年](../Page/2007年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")「10th Anniversary特別企画」と題して同局の[金曜プレステージ](../Page/金曜プレステージ.md "wikilink")枠でハイビジョン・マスター版を放送。（視聴率19.4%）
   - [2009年](../Page/2009年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")同局の[土曜プレミアム](../Page/土曜プレミアム.md "wikilink")枠で「土曜プレミアム・[織田裕二](../Page/織田裕二.md "wikilink")傑作選」と題してハイビジョン・マスター版を放送。（視聴率11.8%）
   - [2012年](../Page/2012年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")同局の土曜プレミアム枠で「映画 [踊る大捜査線 THE FINAL 新たなる希望](https://ja.wikipedia.org/wiki/踊る大捜査線_THE_FINAL_新たなる希望 "wikilink") 大ヒット御礼スペシャル」と題してハイビジョン・マスター版を放送。（視聴率14.0%）

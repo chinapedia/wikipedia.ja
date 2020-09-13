@@ -1,7 +1,9 @@
 > この記事は[THE WAVE!](https://ja.wikipedia.org/wiki/THE_WAVE!)から翻訳されています。
 
 
-**THE WAVE\!**（**ザ ウェイブ**）は、[2005年](../Page/2005年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")・24日放送の[FNS ALLSTARS あっつい25時間テレビやっぱ楽しくなければテレビじゃないもん\!内で放送された](../Page/FNS25時間テレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")の作品。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のドラマ「[24 -TWENTY FOUR-](https://ja.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")」をモチーフとした[リアルタイム](../Page/リアルタイム.md "wikilink")ドラマの逆輸入・日本版で、25時間内で全部で13話を放送。放送前の各種プロモーションでは題名が「THE WAVE\!」と表記されたことがあるが、実際の放送で使われたロゴは感嘆符のない「THE WAVE」である。
+『**THE WAVE\!**』（ザ ウェイブ）は、[2005年](../Page/2005年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")・[24日放送の](../Page/7月24日.md "wikilink")『[FNS ALLSTARS あっつい25時間テレビやっぱ楽しくなければテレビじゃないもん\!](../Page/FNS25時間テレビ.md "wikilink")』内で放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")。
+
+[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のドラマ「[24 -TWENTY FOUR-](https://ja.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")」をモチーフとした[リアルタイム](../Page/リアルタイム.md "wikilink")ドラマの逆輸入・日本版で、25時間内で全部で13話を放送。放送前の各種プロモーションでは題名が「THE WAVE\!」と表記されたことがあるが、実際の放送で使われたロゴは感嘆符のない「THE WAVE」である。
 
 ## 概要
 
@@ -15,7 +17,7 @@
 
 キャストのほとんどを[お笑いタレント](../Page/お笑いタレント.md "wikilink")が占めているのは、栗原プロデューサーがバラエティ班出身のため、そこでお世話になったバラエティタレントに対する恩返しという意図が込められている。お台場生明石城の中で放送されたのも栗原の強い要望によるもの。
 
-テレビ局が乗っ取られ、テレビ愛を掲げる社員が闘うというストーリーは、[ライブドアによる](../Page/LDH_\(持株会社\).md "wikilink")[ニッポン放送](../Page/ニッポン放送.md "wikilink")株の[買収事件に対する栗原プロデューサーらの強いメッセージでもある](https://ja.wikipedia.org/wiki/ニッポン放送の経営権問題#ライブドアによる敵対的買収事件 "wikilink")。そのためか劇中での身代金は現金ではなくテレビエイトの株券である。
+テレビ局が乗っ取られ、テレビ愛を掲げる社員が闘うというストーリーは、[ライブドアによる](../Page/LDH_\(持株会社\).md "wikilink")[ニッポン放送](../Page/ニッポン放送.md "wikilink")株の[買収事件に対する栗原プロデューサーらの強いメッセージでもある](https://ja.wikipedia.org/wiki/ニッポン放送の経営権問題#ライブドアによる敵対的買収事件 "wikilink")。そのためか劇中での身代金は現金ではなくテレビエイト（＝フジテレビ、現[FMHD](https://ja.wikipedia.org/wiki/フジ・メディア・ホールディングス "wikilink")）の株券である。
 
 ヒロシの演技が、普段の持ちネタと変わりないものだったため、他の出演者からからかわれる。なお、番組PRでは「ヒロシのドラマ初出演作」と謳われていたが、ヒロシのドラマ出演は[TBS系で](../Page/TBSテレビ.md "wikilink")2005年1月に放映されたスペシャルドラマ「[タイガー&ドラゴン](../Page/タイガー&ドラゴン_\(テレビドラマ\).md "wikilink")」が先。
 
@@ -123,5 +125,6 @@
 
   - [FNSの日](../Page/FNSの日.md "wikilink")
   - [日本のテレビドラマ一覧](../Page/日本のテレビドラマ一覧.md "wikilink")
+  - [ニッポン放送の経営権問題](../Page/ニッポン放送の経営権問題.md "wikilink")
 
 [Category:FNSの日](https://ja.wikipedia.org/wiki/Category:FNSの日 "wikilink") [Category:フジテレビのスペシャルドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビのスペシャルドラマ "wikilink") [Category:2005年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2005年のテレビドラマ "wikilink") [Category:明石家さんま](https://ja.wikipedia.org/wiki/Category:明石家さんま "wikilink") [Category:内村光良](https://ja.wikipedia.org/wiki/Category:内村光良 "wikilink") [Category:久本雅美](https://ja.wikipedia.org/wiki/Category:久本雅美 "wikilink") [Category:笑福亭鶴瓶](https://ja.wikipedia.org/wiki/Category:笑福亭鶴瓶 "wikilink") [Category:テレビ局を舞台とした作品](https://ja.wikipedia.org/wiki/Category:テレビ局を舞台とした作品 "wikilink")

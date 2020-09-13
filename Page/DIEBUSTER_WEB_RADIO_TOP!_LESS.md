@@ -82,7 +82,7 @@
   - 2006年8月オン・セールとなる『トップをねらえ2\!』最終巻にあわせた企画として、[キャララジオ](../Page/キャララジオ.md "wikilink")の同年7月の企画コーナーにて「DIEBUSTER WEB RADIO TOP\! LESS キャララジオ出張版」を配信。4週目のみ2回分の変則ながら5回分（各回概ね30分）の配信をおこなう。
       - 第1回：ゲスト ユング・フロイト役 [川村万梨阿](../Page/川村万梨阿.md "wikilink")
       - 第2回：ゲスト なし
-      - 第3回：ゲスト タカヤノリコ役 [日高のり子](../Page/日高のり子.md "wikilink")
+      - 第3回：ゲスト タカヤノリコ役 [日髙のり子](../Page/日髙のり子.md "wikilink")
       - 第4回前編：ゲスト オオタ・コウイチロウ(コーチ)役 [若本規夫](../Page/若本規夫.md "wikilink")
       - 第4回後編：ゲスト アマノ・カズミ役 [佐久間レイ](../Page/佐久間レイ.md "wikilink")
 
@@ -96,7 +96,7 @@
 
 ## 外部リンク
 
-  - [音泉](http://onsen.ag/)
+  -
   - [トップをねらえ2\!公式サイト](http://www.top2.jp/index.html)
 
 [Category:音泉](https://ja.wikipedia.org/wiki/Category:音泉 "wikilink")

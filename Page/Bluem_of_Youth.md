@@ -35,7 +35,7 @@
 
 ちなみにブレイク前の[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[8月25日](../Page/8月25日.md "wikilink")に『[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』に、[1999年](../Page/1999年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")に『[MUSIC HAMMER](../Page/MUSIC_HAMMER.md "wikilink")』に出演している。後者は「声」が『MUSIC HAMMER』のリクエストランキングで1位を獲得した\[2\]ことを記念しての出演だった。
 
-1998年[NHK BS-2での](../Page/NHK衛星第2テレビジョン.md "wikilink")150分に及ぶ[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")特集番組『BOØWY ANTHOLOGY』において「MEMORY」を演奏する（別所は学生時代[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")部に在籍。朝練の時、部員から「凄ぇ、良いアルバムあるから、聴いてみな！」と[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の5枚目のアルバム『[BEAT EMOTION](../Page/BEAT_EMOTION.md "wikilink")』を借りて聴いてみた。その後、[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")のファンになったらしい）。
+1998年[NHK BS-2での](../Page/NHK衛星第2テレビジョン.md "wikilink")150分に及ぶ[BOØWY](../Page/BOØWY.md "wikilink")特集番組『BOØWY ANTHOLOGY』において「MEMORY」を演奏する（別所は学生時代[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")部に在籍。朝練の時、部員から「凄ぇ、良いアルバムあるから、聴いてみな！」と[BOØWY](../Page/BOØWY.md "wikilink")の5枚目のアルバム『[BEAT EMOTION](../Page/BEAT_EMOTION.md "wikilink")』を借りて聴いてみた。その後、[BOØWY](../Page/BOØWY.md "wikilink")のファンになったらしい）。
 
 この頃、音楽活動の一方で地方UHF局の音楽番組の司会もこなしていたが、『電波少年』の番組参加で降板する。
 
@@ -611,7 +611,7 @@ SRBL-1160:DVD</p></td>
   - [マツガシタドットコム](http://www.matsugashita.com/) 松ヶ下宏之のオフィシャルサイト
 
   -
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink")
 
 1.
 2.  [MUSIC HAMMER リクエストランキング 【99/02/21 放送分】](https://web.archive.org/web/20010713075200/http://www.fujiint.co.jp/HAMMER/chart/990221/request.html)（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）

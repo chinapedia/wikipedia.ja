@@ -1,7 +1,7 @@
 > この記事は[IPod nano](https://ja.wikipedia.org/wiki/IPod_nano)から翻訳されています。
 
 
-**iPod nano**（アイポッド ナノ）は[アップルの](../Page/アップル_\(企業\).md "wikilink")[フラッシュメモリを内蔵した](../Page/NAND型フラッシュメモリ.md "wikilink")[デジタルオーディオプレーヤー](../Page/デジタルオーディオプレーヤー.md "wikilink")である。
+**iPod nano**（アイポッド ナノ）は、[アップルがかつて開発](../Page/アップル_\(企業\).md "wikilink")・販売していた[フラッシュメモリを内蔵した](../Page/NAND型フラッシュメモリ.md "wikilink")[デジタルオーディオプレーヤー](../Page/デジタルオーディオプレーヤー.md "wikilink")である。
 
 ## 概要
 

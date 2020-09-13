@@ -65,12 +65,12 @@
 
 ### 女性レスラー
 
-  - [エピファニー](https://ja.wikipedia.org/wiki/エピファニー "wikilink")（Epiphany）
+  - エピファニー（Epiphany）
   - [ジェシー・ベル](https://ja.wikipedia.org/wiki/ジェシー・ベル "wikilink")（Jessie Belle）
   - [ジョセッティ・バイナム](https://ja.wikipedia.org/wiki/ジョセッティ・バイナム "wikilink")（Josette Bynum）
   - [スカーレット・ボルドー](https://ja.wikipedia.org/wiki/スカーレット・ボルドー "wikilink")（Scarlett Bordeaux）
   - [タリン・テレル](https://ja.wikipedia.org/wiki/タリン・テレル "wikilink")（Taryn Terrell）（ティファニー）
-  - [ディセンバー](https://ja.wikipedia.org/wiki/ディセンバー "wikilink")（December）
+  - ディセンバー（December）
   - [テイラー・ヘンドリックス](https://ja.wikipedia.org/wiki/テイラー・コンラッド "wikilink")（Taeler Hendrix）
   - [ハンナ・ブロッサム](https://ja.wikipedia.org/wiki/ハンナ・ブロッサム "wikilink")（Hannah Blossom）
   - [ヘイディ・ラブラス](https://ja.wikipedia.org/wiki/ヘイディ・ラブラス "wikilink")（Heidi Lovelace）

@@ -56,7 +56,7 @@
 
   - 日時 : 2005年7月2日（土）午後2時 開演 最終組スタート午後10時6分(エデン・プロジェクト、ロンドン・モスクワ同時スタートより1時間早くスタート)
   - 会場 : [ローマ](../Page/ローマ.md "wikilink")[チルコ・マッシモ](../Page/チルコ・マッシモ.md "wikilink")特設野外ステージ
-  - 出演 : [ズッケロ](https://ja.wikipedia.org/wiki/ズッケロ "wikilink")(トップバッターで終了後パリ会場に移動)、[デュラン・デュラン](../Page/デュラン・デュラン.md "wikilink")、Elisa、Negrita、Negramaro、Tim McGraw、[フェイス・ヒル](../Page/フェイス・ヒル.md "wikilink")、Planet Funk、Le Vibrazioni、[イレーネ・グランディ](https://ja.wikipedia.org/wiki/イレーネ・グランディ "wikilink")、Tiromancino、Max Pezzali、Alex Britti、Cesare Cremonini、Nek、Piero Pelù、Jane Alexander(最初のスペシャルゲスト)、Biagio Antonacci、Fiorella Mannoia、Luciano Ligabue、Jovanotti、[ラウラ・パウジーニ](../Page/ラウラ・パウジーニ.md "wikilink")、Claudio Baglioni、Paola Cortellesi(2人目のスペシャルゲスト)、Mayor of Lampedusa、(3人目で最終組のスペシャルゲスト)、Renato Zero、Antonello Venditti、Achinoam Nini、Giuseppe Povia、Velvet、Mauro Pagani、[アルティコロ・トレントゥーノ](https://ja.wikipedia.org/wiki/アルティコロ・トレントゥーノ "wikilink")、Gemelli Diversi、Pino Daniele、Francesco De Gregori
+  - 出演 : [ズッケロ](https://ja.wikipedia.org/wiki/ズッケロ "wikilink")(トップバッターで終了後パリ会場に移動)、[デュラン・デュラン](../Page/デュラン・デュラン.md "wikilink")、Elisa、Negrita、Negramaro、Tim McGraw、[フェイス・ヒル](../Page/フェイス・ヒル.md "wikilink")、Planet Funk、Le Vibrazioni、[イレーネ・グランディ](../Page/イレーネ・グランディ.md "wikilink")、Tiromancino、Max Pezzali、Alex Britti、Cesare Cremonini、Nek、Piero Pelù、Jane Alexander(最初のスペシャルゲスト)、Biagio Antonacci、Fiorella Mannoia、Luciano Ligabue、Jovanotti、[ラウラ・パウジーニ](../Page/ラウラ・パウジーニ.md "wikilink")、Claudio Baglioni、Paola Cortellesi(2人目のスペシャルゲスト)、Mayor of Lampedusa、(3人目で最終組のスペシャルゲスト)、Renato Zero、Antonello Venditti、Achinoam Nini、Giuseppe Povia、Velvet、Mauro Pagani、[アルティコロ・トレントゥーノ](https://ja.wikipedia.org/wiki/アルティコロ・トレントゥーノ "wikilink")、Gemelli Diversi、Pino Daniele、Francesco De Gregori
   - 観客 : 500,000人
 
 ## LIVE 8 Philadelphia

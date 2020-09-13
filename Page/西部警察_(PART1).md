@@ -179,7 +179,7 @@
 <td><p>永原秀一<br />
 <a href="../Page/宮下隼一.md" title="wikilink">宮下潤一</a></p></td>
 <td><p>11月25日</p></td>
-<td><p><a href="../Page/鹿内孝.md" title="wikilink">鹿内孝</a>、<a href="https://ja.wikipedia.org/wiki/小池雄介" title="wikilink">小池雄介</a>、<a href="https://ja.wikipedia.org/wiki/橘麻紀" title="wikilink">橘麻紀</a>、<a href="../Page/上田耕一.md" title="wikilink">上田耕一</a>、<a href="https://ja.wikipedia.org/wiki/村上幹夫" title="wikilink">村上幹夫</a>、岡崎夏子、<a href="https://ja.wikipedia.org/wiki/西山健司" title="wikilink">西山健司</a>、<a href="https://ja.wikipedia.org/wiki/森健太郎" title="wikilink">森健太郎</a>、二家本辰巳、<a href="https://ja.wikipedia.org/wiki/星野晃" title="wikilink">星野晃</a>、<a href="https://ja.wikipedia.org/wiki/石崎洋光" title="wikilink">石崎洋光</a>、<a href="https://ja.wikipedia.org/wiki/須川尋真" title="wikilink">須川尋真</a>、加藤勝、<a href="https://ja.wikipedia.org/wiki/国村峰子" title="wikilink">国村峰子</a></p></td>
+<td><p><a href="../Page/鹿内孝.md" title="wikilink">鹿内孝</a>、<a href="https://ja.wikipedia.org/wiki/小池雄介" title="wikilink">小池雄介</a>、<a href="../Page/橘麻紀.md" title="wikilink">橘麻紀</a>、<a href="../Page/上田耕一.md" title="wikilink">上田耕一</a>、<a href="https://ja.wikipedia.org/wiki/村上幹夫" title="wikilink">村上幹夫</a>、岡崎夏子、<a href="https://ja.wikipedia.org/wiki/西山健司" title="wikilink">西山健司</a>、<a href="https://ja.wikipedia.org/wiki/森健太郎" title="wikilink">森健太郎</a>、二家本辰巳、<a href="https://ja.wikipedia.org/wiki/星野晃" title="wikilink">星野晃</a>、<a href="https://ja.wikipedia.org/wiki/石崎洋光" title="wikilink">石崎洋光</a>、<a href="https://ja.wikipedia.org/wiki/須川尋真" title="wikilink">須川尋真</a>、加藤勝、<a href="https://ja.wikipedia.org/wiki/国村峰子" title="wikilink">国村峰子</a></p></td>
 <td><p>15.6%</p></td>
 <td><p>BOX1</p></td>
 <td></td>
@@ -387,7 +387,7 @@
 <td><p><strong>傷だらけの白衣</strong></p></td>
 <td><p>渡辺拓也</p></td>
 <td><p>4月13日</p></td>
-<td><p><a href="../Page/五十嵐淳子.md" title="wikilink">五十嵐淳子</a>、森山周一郎、片岡五郎、明石勤、<a href="https://ja.wikipedia.org/wiki/入江正徳" title="wikilink">入江正徳</a>、<a href="https://ja.wikipedia.org/wiki/草薙一男" title="wikilink">草薙一男</a>、大竹義夫、<a href="https://ja.wikipedia.org/wiki/恒内隆" title="wikilink">恒内隆</a>、<a href="https://ja.wikipedia.org/wiki/今井きよみ" title="wikilink">今井きよみ</a>、<a href="https://ja.wikipedia.org/wiki/神井一也" title="wikilink">神井一也</a>、<a href="https://ja.wikipedia.org/wiki/三沢義猛" title="wikilink">三沢義猛</a>、<a href="https://ja.wikipedia.org/wiki/小出昌子" title="wikilink">小出昌子</a>、<a href="https://ja.wikipedia.org/wiki/郷内栄喜" title="wikilink">郷内栄喜</a></p></td>
+<td><p><a href="../Page/五十嵐淳子.md" title="wikilink">五十嵐淳子</a>、森山周一郎、片岡五郎、明石勤、<a href="../Page/入江正徳.md" title="wikilink">入江正徳</a>、<a href="https://ja.wikipedia.org/wiki/草薙一男" title="wikilink">草薙一男</a>、大竹義夫、<a href="https://ja.wikipedia.org/wiki/恒内隆" title="wikilink">恒内隆</a>、<a href="https://ja.wikipedia.org/wiki/今井きよみ" title="wikilink">今井きよみ</a>、<a href="https://ja.wikipedia.org/wiki/神井一也" title="wikilink">神井一也</a>、<a href="https://ja.wikipedia.org/wiki/三沢義猛" title="wikilink">三沢義猛</a>、<a href="https://ja.wikipedia.org/wiki/小出昌子" title="wikilink">小出昌子</a>、<a href="https://ja.wikipedia.org/wiki/郷内栄喜" title="wikilink">郷内栄喜</a></p></td>
 <td><p>14.5%</p></td>
 <td><p>BOX2</p></td>
 <td></td>
@@ -738,7 +738,7 @@
 <td><p>柏原寛司</p></td>
 <td><p>長谷部安春</p></td>
 <td><p>12月14日</p></td>
-<td><p>滝川潤、井上博一、宮島一輔、<a href="https://ja.wikipedia.org/wiki/北村大造" title="wikilink">北村大造</a>、伊藤秋年、<a href="https://ja.wikipedia.org/wiki/本田真澄" title="wikilink">本田真澄</a>、管秀樹、近藤宏</p></td>
+<td><p>滝川潤、井上博一、宮島一輔、北村大造、伊藤秋年、<a href="https://ja.wikipedia.org/wiki/本田真澄" title="wikilink">本田真澄</a>、管秀樹、近藤宏</p></td>
 <td><p>14.0%</p></td>
 <td></td>
 </tr>
@@ -1482,10 +1482,10 @@
 [Category:西部警察](https://ja.wikipedia.org/wiki/Category:西部警察 "wikilink") [Category:1979年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1979年のテレビドラマ "wikilink") [Category:石原プロモーション](https://ja.wikipedia.org/wiki/Category:石原プロモーション "wikilink") [Category:警視庁を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:警視庁を舞台としたテレビドラマ "wikilink")
 
 1.  この回よりオープニング映像に主要キャストの役名が表示されるようになる。
-2.  木暮課長役の石原裕次郎が劇中で「[ブランデーグラス](https://ja.wikipedia.org/wiki/ブランデーグラス "wikilink")」を熱唱。これにより『PART-I』の放送開始前、当初1977年に発売されていたが売れ行きが伸び悩んでいた「ブランデーグラス」は、のち1981年頃にロングヒットするきっかけとなった。
+2.  木暮課長役の石原裕次郎が劇中で「[ブランデーグラス](https://ja.wikipedia.org/wiki/ブランデーグラス "wikilink")」を熱唱。これにより、『PART-I』放送開始前の1977年に発売されていたが売れ行きが伸び悩んでいた「ブランデーグラス」は、1981年頃にロングヒットするきっかけとなった。
 3.  後に[おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")に加入（会員No.13）。現在は芸能界から引退。
 4.  星野はこの回の出演をきっかけに、寺尾聰と結婚（寺尾は再婚）。
 5.  この回の撮影終了後、木暮課長役の石原裕次郎が解離性大動脈瘤で倒れ、次回から休養に入った。
-6.  大門の情報屋・目玉の松役で出演。石原が解離性大動脈瘤で倒れたのを受け、西川が渡に「自分も何かの役に立ちたい」と直談判した事による。
+6.  大門の情報屋・目玉の松役で出演。石原が解離性大動脈瘤で倒れたのを受け、その数年前から渡と親交を深めていたきよしが「自分も何かの役に立ちたい」と渡に直談判した事による。
 7.  劇中で矢吹二朗が運転する（カースタント担当は[三石千尋](../Page/三石千尋.md "wikilink")）[フェアレディZの](../Page/日産・フェアレディZ.md "wikilink")25m運河越えシーンが披露される。劇中では運河越えに成功しそのまま逃走を続けるが、実際の撮影では車輌の着地に失敗し、運転者の三石は脊髄を傷めた。また着地に失敗した際の映像は後に『PART-II』・『PART-III』のオープニング映像に流用されている。
 8.  舘ひろしが鳩村刑事役で再登場。オープニング・エンディング映像をリニューアル。この回より[スズキがオートバイでの車輌スポンサーとなる](../Page/スズキ_\(企業\).md "wikilink")。

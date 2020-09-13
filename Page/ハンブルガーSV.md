@@ -31,7 +31,7 @@
 
 1999-00シーズンには監督の指揮の下で好調を維持しリーグ戦を3位で終えると、[UEFAチャンピオンズリーグ 2000-01予選への出場権を獲得](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2000-01 "wikilink")\[35\]\[36\]。デンマークの[ブレンビーIF](../Page/ブレンビーIF.md "wikilink")を下して1次グループリーグへ進出すると、イタリアのユヴェントスFCに対して1勝1引き分けと健闘したもののスペインの[デポルティーボ・ラ・コルーニャ](../Page/デポルティーボ・ラ・コルーニャ.md "wikilink")とギリシャの[パナシナイコスFC](https://ja.wikipedia.org/wiki/パナシナイコスFC "wikilink")に競り負けグループ3位で敗退した\[37\]\[38\]。
 
-[2004年](../Page/2004年.md "wikilink")、クラブOBのドルが監督に就任\[39\]。2005-06シーズンは3位でシーズンを終え\[40\]、オフには左[サイドバック](https://ja.wikipedia.org/wiki/サイドバック "wikilink")として[ファン・パブロ・ソリン](https://ja.wikipedia.org/wiki/ファン・パブロ・ソリン "wikilink")、ディフェンスラインの要として[ヴァンサン・コンパニ](../Page/ヴァンサン・コンパニ.md "wikilink")、[ヨリス・マタイセン](../Page/ヨリス・マタイセン.md "wikilink")、FWには[ブバカル・サノゴ](../Page/ブバカル・サノゴ.md "wikilink")や[ダニエル・リュボヤ](https://ja.wikipedia.org/wiki/ダニエル・リュボヤ "wikilink")を獲得したが、2006-07シーズンは攻守の歯車がかみ合わず、一時期は2部降格圏をさまようまで成績が低迷、ドルからへの監督交代で建て直しに成功したが、2000-01シーズン以来の出場となった[UEFAチャンピオンズリーグ 2006-07では](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2006-07 "wikilink")、予備戦3回戦で[CAオサスナ](../Page/CAオサスナ.md "wikilink")に勝ち抜き本戦出場を決めたものの、[アーセナルや](../Page/アーセナルFC.md "wikilink")[ポルト](../Page/FCポルト.md "wikilink")、[CSKAモスクワと同組となったグループリーグでは第](../Page/PFC_CSKAモスクワ.md "wikilink")5節まで連敗を続け、最終節のホームで迎えたCSKAモスクワ戦で勝利したものの、1勝5敗でグループリーグ最下位での敗退となった\[41\]。
+[2004年](../Page/2004年.md "wikilink")、クラブOBのドルが監督に就任\[39\]。2005-06シーズンは3位でシーズンを終え\[40\]、オフには左[サイドバック](https://ja.wikipedia.org/wiki/サイドバック "wikilink")として[ファン・パブロ・ソリン](https://ja.wikipedia.org/wiki/ファン・パブロ・ソリン "wikilink")、ディフェンスラインの要として[ヴァンサン・コンパニ](../Page/ヴァンサン・コンパニ.md "wikilink")、[ヨリス・マタイセン](../Page/ヨリス・マタイセン.md "wikilink")、FWには[ブバカル・サノゴ](../Page/ブバカル・サノゴ.md "wikilink")や[ダニエル・リュボヤ](https://ja.wikipedia.org/wiki/ダニエル・リュボヤ "wikilink")を獲得したが、2006-07シーズンは攻守の歯車がかみ合わず、一時期は2部降格圏をさまようまで成績が低迷、ドルから[フーブ・ステフェンス](https://ja.wikipedia.org/wiki/フーブ・ステフェンス "wikilink")への監督交代で建て直しに成功したが、2000-01シーズン以来の出場となった[UEFAチャンピオンズリーグ 2006-07では](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2006-07 "wikilink")、予備戦3回戦で[CAオサスナ](../Page/CAオサスナ.md "wikilink")に勝ち抜き本戦出場を決めたものの、[アーセナルや](../Page/アーセナルFC.md "wikilink")[ポルト](../Page/FCポルト.md "wikilink")、[CSKAモスクワと同組となったグループリーグでは第](../Page/PFC_CSKAモスクワ.md "wikilink")5節まで連敗を続け、最終節のホームで迎えたCSKAモスクワ戦で勝利したものの、1勝5敗でグループリーグ最下位での敗退となった\[41\]。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、オランダの[マルティン・ヨル](../Page/マルティン・ヨル.md "wikilink")が監督に就任\[42\]。2008–09シーズンのDFBポカールと[UEFAカップ 2008-09はともに準決勝進出を果たすが](https://ja.wikipedia.org/wiki/UEFAカップ_2008-09 "wikilink")、いずれも[ヴェルダー・ブレーメン](../Page/ヴェルダー・ブレーメン.md "wikilink")に敗れ決勝進出を逃した\[43\]\[44\]。[2009年](../Page/2009年.md "wikilink")、ヨルの後任として[ブルーノ・ラッバディア](../Page/ブルーノ・ラッバディア.md "wikilink")が監督に就任\[45\]。UEFAカップから改編された[UEFAヨーロッパリーグ 2009-10では準決勝進出を果たすが](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2009-10 "wikilink")、イングランドの[フラムFC](../Page/フラムFC.md "wikilink")に敗れた\[46\]\[47\]。
 
@@ -50,6 +50,8 @@
 2017-18シーズンも残留争いに巻き込まれ、第19節で最下位の[1.FCケルン](../Page/1.FCケルン.md "wikilink")に敗戦したことを受けてキズドル監督を解任した\[60\]。
 
 2018年5月12日のリーグ最終節[ボルシア・メンヒェングラートバッハ](../Page/ボルシア・メンヒェングラートバッハ.md "wikilink")戦で2-1と勝利したが、勝ち点2差の16位につける[VfLヴォルフスブルク](../Page/VfLヴォルフスブルク.md "wikilink")が[1.FCケルン](../Page/1.FCケルン.md "wikilink")に勝ったため、クラブ史上初の2部降格が決定した。これによって、[ブンデスリーガ](../Page/ブンデスリーガ.md "wikilink")で2部以下在籍を経験したことがないチームはなくなった。
+
+1年でのブンデスリーガ復帰が求められていた2018-19シーズンだったが、初の[2部リーグはまさかの](https://ja.wikipedia.org/wiki/2._ブンデスリーガ_\(ドイツサッカー\) "wikilink")4位で終了。批判の矛先はチームキャプテンの[酒井高徳](https://ja.wikipedia.org/wiki/酒井高徳 "wikilink")に向けられ、酒井は退団を余儀無くされた。2019-20シーズンも4位に終わり、1部復帰には至っていない。
 
 2010年以降、[バイエルン・ミュンヘンを非常に苦手としており](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")、0-6（2010-11）, 0-5（2011-12）, 2-9（2012-13）, 1-4（2013-14）, 0-8（2014-15）, 0-5（2015-16）, 0-8（2016-17）, 0-6（2017-18）と8年連続で大敗している。また、過去10試合で44失点を記録し、1試合平均4.4ゴールを決められている計算となる\[61\]。
 
@@ -117,64 +119,65 @@
 
 | シーズン                                                                                | ディビジョン                                                                       | [DFBポカール](../Page/DFBポカール.md "wikilink") |
 | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------- |
-| リーグ                                                                                 | 順位                                                                           | 試                                        |
-| 1963-64                                                                             | [ブンデスリーガ1部](../Page/サッカー・ブンデスリーガ_\(ドイツ\).md "wikilink")                      | **6位**                                   |
-| 1964-65                                                                             | ブンデスリーガ1部                                                                    | **11位**                                  |
-| 1965-66                                                                             | ブンデスリーガ1部                                                                    | **9位**                                   |
-| 1966-67                                                                             | ブンデスリーガ1部                                                                    | **14位**                                  |
-| 1967-68                                                                             | ブンデスリーガ1部                                                                    | **13位**                                  |
-| 1968-69                                                                             | ブンデスリーガ1部                                                                    | **6位**                                   |
-| 1969-70                                                                             | ブンデスリーガ1部                                                                    | **6位**                                   |
-| 1970-71                                                                             | ブンデスリーガ1部                                                                    | **5位**                                   |
-| 1971-72                                                                             | ブンデスリーガ1部                                                                    | **10位**                                  |
-| 1972-73                                                                             | ブンデスリーガ1部                                                                    | **14位**                                  |
-| 1973-74                                                                             | ブンデスリーガ1部                                                                    | **12位**                                  |
-| 1974-75                                                                             | ブンデスリーガ1部                                                                    | **4位**                                   |
-| 1975-76                                                                             | ブンデスリーガ1部                                                                    | **2位**                                   |
-| 1976-77                                                                             | ブンデスリーガ1部                                                                    | **6位**                                   |
-| 1977-78                                                                             | ブンデスリーガ1部                                                                    | **10位**                                  |
-| 1978-79                                                                             | ブンデスリーガ1部                                                                    | **優勝**                                   |
-| 1979-80                                                                             | ブンデスリーガ1部                                                                    | **2位**                                   |
-| 1980-81                                                                             | ブンデスリーガ1部                                                                    | **2位**                                   |
-| 1981-82                                                                             | ブンデスリーガ1部                                                                    | **優勝**                                   |
-| 1982-83                                                                             | ブンデスリーガ1部                                                                    | **優勝**                                   |
-| 1983-84                                                                             | ブンデスリーガ1部                                                                    | **2位**                                   |
-| 1984-85                                                                             | ブンデスリーガ1部                                                                    | **5位**                                   |
-| 1985-86                                                                             | ブンデスリーガ1部                                                                    | **7位**                                   |
-| 1986-87                                                                             | ブンデスリーガ1部                                                                    | **2位**                                   |
-| [1987-88](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1987-1988 "wikilink")            | ブンデスリーガ1部                                                                    | **6位**                                   |
-| [1988-89](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1988-1989 "wikilink")            | ブンデスリーガ1部                                                                    | **4位**                                   |
-| [1989-90](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1989-1990 "wikilink")            | ブンデスリーガ1部                                                                    | **11位**                                  |
-| [1990-91](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1990-1991 "wikilink")            | ブンデスリーガ1部                                                                    | **5位**                                   |
-| [1991-92](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1991-1992 "wikilink")            | ブンデスリーガ1部                                                                    | **12位**                                  |
-| [1992-93](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1992-1993 "wikilink")            | ブンデスリーガ1部                                                                    | **11位**                                  |
-| [1993-94](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1993-1994 "wikilink")            | ブンデスリーガ1部                                                                    | **12位**                                  |
-| [1994-95](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1994-1995 "wikilink")            | ブンデスリーガ1部                                                                    | **13位**                                  |
-| [1995-96](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1995-1996 "wikilink")            | ブンデスリーガ1部                                                                    | **5位**                                   |
-| [1996-97](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1996-1997 "wikilink")            | ブンデスリーガ1部                                                                    | **13位**                                  |
-| [1997-98](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1997-1998 "wikilink")            | ブンデスリーガ1部                                                                    | **9位**                                   |
-| [1998-99](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1998-1999 "wikilink")            | ブンデスリーガ1部                                                                    | **7位**                                   |
-| [1999-00](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1999-2000 "wikilink")            | ブンデスリーガ1部                                                                    | **3位**                                   |
-| [2000-01](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2000-2001 "wikilink")            | ブンデスリーガ1部                                                                    | **13位**                                  |
-| [2001-02](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2001-2002 "wikilink")            | ブンデスリーガ1部                                                                    | **11位**                                  |
-| [2002-03](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2002-2003 "wikilink")            | ブンデスリーガ1部                                                                    | **4位**                                   |
-| [2003-04](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2003-2004 "wikilink")            | ブンデスリーガ1部                                                                    | **8位**                                   |
-| [2004-05](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2004-2005 "wikilink")            | ブンデスリーガ1部                                                                    | **8位**                                   |
-| [2005-06](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2005-2006 "wikilink")            | ブンデスリーガ1部                                                                    | **3位**                                   |
-| [2006-07](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2006-2007 "wikilink")            | ブンデスリーガ1部                                                                    | **7位**                                   |
-| [2007-08](../Page/ドイツ・ブンデスリーガ2007-2008.md "wikilink")                               | ブンデスリーガ1部                                                                    | **4位**                                   |
-| [2008-09](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2008-2009 "wikilink")            | ブンデスリーガ1部                                                                    | **5位**                                   |
-| [2009-10](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2009-2010 "wikilink")            | ブンデスリーガ1部                                                                    | **7位**                                   |
-| [2010-11](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2010-2011 "wikilink")            | ブンデスリーガ1部                                                                    | **8位**                                   |
-| [2011-12](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2011-2012 "wikilink")            | ブンデスリーガ1部                                                                    | **15位**                                  |
-| [2012-13](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2012-2013 "wikilink")            | ブンデスリーガ1部                                                                    | **7位**                                   |
-| [2013-14](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2013-2014 "wikilink")            | ブンデスリーガ1部                                                                    | **16位**                                  |
-| [2014-15](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2014-2015 "wikilink")            | ブンデスリーガ1部                                                                    | **16位**                                  |
-| [2015-16](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2015-2016 "wikilink")            | ブンデスリーガ1部                                                                    | **10位**                                  |
-| [2016-17](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2016-2017 "wikilink")            | ブンデスリーガ1部                                                                    | **14位**                                  |
-| [2017-18](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2017-2018 "wikilink")            | ブンデスリーガ1部                                                                    | **17位**                                  |
-| [2018-19](https://ja.wikipedia.org/wiki/2._ブンデスリーガ_\(ドイツサッカー\)2018-2019 "wikilink") | [ブンデスリーガ2部](https://ja.wikipedia.org/wiki/2._ブンデスリーガ_\(ドイツサッカー\) "wikilink") | **4位**                                   |
-| [2019-20](https://ja.wikipedia.org/wiki/2._ブンデスリーガ_\(ドイツサッカー\)2019-2020 "wikilink") | ブンデスリーガ2部                                                                    | '''位                                     |
+| リーグ                                                                                 | 試                                                                            | 勝                                        |
+| 1963-64                                                                             | [ブンデスリーガ1部](../Page/サッカー・ブンデスリーガ_\(ドイツ\).md "wikilink")                      | 30                                       |
+| 1964-65                                                                             | ブンデスリーガ1部                                                                    | 30                                       |
+| 1965-66                                                                             | ブンデスリーガ1部                                                                    | 34                                       |
+| 1966-67                                                                             | ブンデスリーガ1部                                                                    | 34                                       |
+| 1967-68                                                                             | ブンデスリーガ1部                                                                    | 34                                       |
+| 1968-69                                                                             | ブンデスリーガ1部                                                                    | 34                                       |
+| 1969-70                                                                             | ブンデスリーガ1部                                                                    | 34                                       |
+| 1970-71                                                                             | ブンデスリーガ1部                                                                    | 34                                       |
+| 1971-72                                                                             | ブンデスリーガ1部                                                                    | 34                                       |
+| 1972-73                                                                             | ブンデスリーガ1部                                                                    | 34                                       |
+| 1973-74                                                                             | ブンデスリーガ1部                                                                    | 34                                       |
+| 1974-75                                                                             | ブンデスリーガ1部                                                                    | 34                                       |
+| 1975-76                                                                             | ブンデスリーガ1部                                                                    | 34                                       |
+| 1976-77                                                                             | ブンデスリーガ1部                                                                    | 34                                       |
+| 1977-78                                                                             | ブンデスリーガ1部                                                                    | 34                                       |
+| 1978-79                                                                             | ブンデスリーガ1部                                                                    | 34                                       |
+| 1979-80                                                                             | ブンデスリーガ1部                                                                    | 34                                       |
+| 1980-81                                                                             | ブンデスリーガ1部                                                                    | 34                                       |
+| 1981-82                                                                             | ブンデスリーガ1部                                                                    | 34                                       |
+| 1982-83                                                                             | ブンデスリーガ1部                                                                    | 34                                       |
+| 1983-84                                                                             | ブンデスリーガ1部                                                                    | 34                                       |
+| 1984-85                                                                             | ブンデスリーガ1部                                                                    | 34                                       |
+| 1985-86                                                                             | ブンデスリーガ1部                                                                    | 34                                       |
+| 1986-87                                                                             | ブンデスリーガ1部                                                                    | 34                                       |
+| [1987-88](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1987-1988 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [1988-89](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1988-1989 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [1989-90](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1989-1990 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [1990-91](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1990-1991 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [1991-92](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1991-1992 "wikilink")            | ブンデスリーガ1部                                                                    | 38                                       |
+| [1992-93](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1992-1993 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [1993-94](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1993-1994 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [1994-95](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1994-1995 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [1995-96](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1995-1996 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [1996-97](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1996-1997 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [1997-98](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1997-1998 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [1998-99](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1998-1999 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [1999-00](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ1999-2000 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2000-01](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2000-2001 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2001-02](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2001-2002 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2002-03](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2002-2003 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2003-04](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2003-2004 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2004-05](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2004-2005 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2005-06](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2005-2006 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2006-07](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2006-2007 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2007-08](../Page/ドイツ・ブンデスリーガ2007-2008.md "wikilink")                               | ブンデスリーガ1部                                                                    | 34                                       |
+| [2008-09](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2008-2009 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2009-10](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2009-2010 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2010-11](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2010-2011 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2011-12](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2011-2012 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2012-13](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2012-2013 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2013-14](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2013-2014 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2014-15](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2014-2015 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2015-16](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2015-2016 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2016-17](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2016-2017 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2017-18](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2017-2018 "wikilink")            | ブンデスリーガ1部                                                                    | 34                                       |
+| [2018-19](https://ja.wikipedia.org/wiki/2._ブンデスリーガ_\(ドイツサッカー\)2018-2019 "wikilink") | [ブンデスリーガ2部](https://ja.wikipedia.org/wiki/2._ブンデスリーガ_\(ドイツサッカー\) "wikilink") | 34                                       |
+| [2019-20](https://ja.wikipedia.org/wiki/2._ブンデスリーガ_\(ドイツサッカー\)2019-2020 "wikilink") | ブンデスリーガ2部                                                                    | 34                                       |
+| [2020-21](../Page/2._ブンデスリーガ_\(ドイツサッカー\)2020-2021.md "wikilink")                    | ブンデスリーガ2部                                                                    | 34                                       |
 
 ## 現所属メンバー
 
@@ -188,7 +191,7 @@
 
   - 2019年8月19日現在\[63\]
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))       (第3主将)      ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))    ★        ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink"))      ()
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))       (第3主将)  ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))    ★        ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink"))      ()
 
 ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 
@@ -196,7 +199,7 @@
 
 <!-- end list -->
 
-  - [ディター・ヘッキング](https://ja.wikipedia.org/wiki/ディター・ヘッキング "wikilink")
+  - [ダニエル・ティウネ](https://ja.wikipedia.org/wiki/ダニエル・ティウネ "wikilink")
 
 ### ローン移籍選手
 
@@ -257,9 +260,9 @@
 
   - [クルト・ヤーラ](../Page/クルト・ヤーラ.md "wikilink") 2001-2003
 
-<!-- end list -->
-
   - [クラウス・トップメラー](../Page/クラウス・トップメラー.md "wikilink") 2003-2004
+
+<!-- end list -->
 
   - [トーマス・ドル](../Page/トーマス・ドル.md "wikilink") 2004-2007.2
 
@@ -299,7 +302,11 @@
 
   - [クリスティアン・ティッツ](https://ja.wikipedia.org/wiki/クリスティアン・ティッツ "wikilink") 2018.3-2018.10
 
-  - [ハネス・ヴォルフ](https://ja.wikipedia.org/wiki/ハネス・ヴォルフ_\(1981年生のサッカー選手\) "wikilink") 2018.10-
+  - [ハネス・ヴォルフ](https://ja.wikipedia.org/wiki/ハネス・ヴォルフ_\(1981年生のサッカー選手\) "wikilink") 2018.10-2019.5
+
+  - [ディター・ヘッキング](https://ja.wikipedia.org/wiki/ディター・ヘッキング "wikilink") 2019.7-2020.6
+
+  - [ダニエル・ティウネ](https://ja.wikipedia.org/wiki/ダニエル・ティウネ "wikilink") 2020.7-
 
 ## 歴代所属選手
 
@@ -417,6 +424,8 @@
 
   - [ワラシ](https://ja.wikipedia.org/wiki/ワラシ・ソウザ・シウヴァ "wikilink") 2017-2018
 
+  - [伊藤達哉](https://ja.wikipedia.org/wiki/伊藤達哉 "wikilink") 2017-2019
+
 ### FW
 
   - [ウーヴェ・ゼーラー](../Page/ウーヴェ・ゼーラー.md "wikilink") 1954-1972
@@ -464,6 +473,8 @@
   - [スヴェン・シプロック](https://ja.wikipedia.org/wiki/スヴェン・シプロック "wikilink") 2015-2018
 
   - [ボビー・ウッド](https://ja.wikipedia.org/wiki/ボビー・ウッド "wikilink") 2016-
+
+  - [黄喜燦](https://ja.wikipedia.org/wiki/黄喜燦 "wikilink") 2018-2019
 
 ## その他のスポーツ
 

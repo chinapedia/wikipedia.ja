@@ -7,6 +7,8 @@
 
 2010年5月3日に解散\[1\]。
 
+2014年12月28日に、一夜限りで「TRANSTIC NERVE」としての復活公演を行った\[2\]。
+
 ## メンバー
 
   - **TAKA**（タカ、[4月15日](../Page/4月15日.md "wikilink") -）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")。O型。
@@ -400,7 +402,35 @@ STRG-0002:通常盤</p></td>
 </tbody>
 </table>
 
-### 後期インディーズ
+### 後期インディーズ(シングル)
+
+<table>
+<thead>
+<tr class="header">
+<th><p> </p></th>
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>規格品番</p></th>
+<th><p>収録曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>会場限定</p></td>
+<td><p>2014年12月28日</p></td>
+<td><p><strong>TRANSTIC NERVE 15th Anniversary CD 「NEVER END」</strong></p></td>
+<td><p>MTCD-1011</p></td>
+<td><ol>
+<li>NEVER END</li>
+<li>振動 -debut 15th Anniversary ver.-</li>
+<li>NEVER END -instrumental-</li>
+<li>振動 -debut 15th Anniversary ver.- -instrumental-</li>
+</ol></td>
+</tr>
+</tbody>
+</table>
+
+### 後期インディーズ(アルバム)
 
 <table>
 <thead>
@@ -525,6 +555,43 @@ STRG-0002:通常盤</p></td>
 </tbody>
 </table>
 
+### ライブアルバム
+
+<table>
+<thead>
+<tr class="header">
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>規格品番</p></th>
+<th><p>収録曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2015年4月15日</p></td>
+<td><p><strong>TRANSTIC NERVE debut 15th Anniversary Live 2014 "NEVER END" LIVE CD</strong></p></td>
+<td><p>MTCDJ-1012</p></td>
+<td><ol>
+<li>Theme of "NEVER END"</li>
+<li>WAKE UP YOUR MIND'S JESUS</li>
+<li>Whisper</li>
+<li>END -second edit-</li>
+<li>Getting closer</li>
+<li>PARADE</li>
+<li>LIVID SONIC DIVER</li>
+<li>微熱</li>
+<li>bark</li>
+<li>屈折</li>
+<li>AIR</li>
+<li>INTO YOURSELF</li>
+<li>OVERHEAD RUN</li>
+<li>振動</li>
+<li>NEVER END</li>
+</ol></td>
+</tr>
+</tbody>
+</table>
+
 ### オムニバス
 
   - THE END OF THE CENTURY ROCKERS IV 1997/8/21
@@ -534,12 +601,12 @@ STRG-0002:通常盤</p></td>
 
 ## ミュージックビデオ
 
-| 監督                                                  | 曲名                                                                                                                                                                                                                                                                                                                           |
-| --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [奥和義](../Page/奥和義.md "wikilink")                    | 「[真夏の夜のハイウェイスター](https://www.youtube.com/watch?v=z9PgNJPuBzo)」                                                                                                                                                                                                                                                               |
-| [番場秀一](../Page/番場秀一.md "wikilink")                  | 「INTO YOURSELF」                                                                                                                                                                                                                                                                                                              |
-| [福和敏](https://ja.wikipedia.org/wiki/福和敏 "wikilink") | 「Sunny Girl」                                                                                                                                                                                                                                                                                                                 |
-| 不明                                                  | 「[OVERHEAD RUN](https://www.youtube.com/watch?v=NA4Xl_cV4L8)」「[WAKE UP YOUR MIND'S“JESUS”](https://www.youtube.com/watch?v=YHkUvBknsvY)」「[Whisper](https://www.youtube.com/watch?v=fLrbzY7lsF8)」「ever free」「[マナザシノムコウヘ](https://www.youtube.com/watch?v=b1Vutx-7wrY)」「振動」「[微熱](https://www.youtube.com/watch?v=SJ1p86Rzu-I)」 |
+| 監督                                                  | 曲名                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [奥和義](../Page/奥和義.md "wikilink")                    | 「[真夏の夜のハイウェイスター](https://www.youtube.com/watch?v=z9PgNJPuBzo)」                                                                                                                                                                                                                                                                                                                                                                       |
+| [番場秀一](../Page/番場秀一.md "wikilink")                  | 「[INTO YOURSELF](https://www.youtube.com/watch?v=2iqSfTRs1Lc)」                                                                                                                                                                                                                                                                                                                                                                       |
+| [福和敏](https://ja.wikipedia.org/wiki/福和敏 "wikilink") | 「Sunny Girl」                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 不明                                                  | 「[OVERHEAD RUN](https://www.youtube.com/watch?v=NA4Xl_cV4L8)」「[WAKE UP YOUR MIND'S“JESUS”](https://www.youtube.com/watch?v=YHkUvBknsvY)」「[Whisper](https://www.youtube.com/watch?v=fLrbzY7lsF8)」「ever free」「[マナザシノムコウヘ](https://www.youtube.com/watch?v=b1Vutx-7wrY)」「振動」「[微熱](https://www.youtube.com/watch?v=SJ1p86Rzu-I)」「[TRANSTIC NERVE debut 15th Anniversary single『NEVER END』](https://www.youtube.com/watch?v=PT1PwyYhHLc)」 |
 
 ## 脚注
 
@@ -568,3 +635,4 @@ STRG-0002:通常盤</p></td>
 [Category:日本のヘヴィメタル・バンド](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:ニュー・メタル・バンド](https://ja.wikipedia.org/wiki/Category:ニュー・メタル・バンド "wikilink") [Category:オルタナティヴ・メタル・バンド](https://ja.wikipedia.org/wiki/Category:オルタナティヴ・メタル・バンド "wikilink") [Category:ゴシックメタル・バンド](https://ja.wikipedia.org/wiki/Category:ゴシックメタル・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:兵庫県出身の人物](https://ja.wikipedia.org/wiki/Category:兵庫県出身の人物 "wikilink")
 
 1.  [緊急告知](http://www.underneath.jp/japanese/notice.html)
+2.

@@ -15,6 +15,8 @@
 
 また、2009年[10月16日](../Page/10月16日.md "wikilink")からJRA新橋分館（[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")・）の「JRA関東広報コーナー」・「プラザエクウス新橋」をリニューアルする形で、関東版の「Gate J.[SHIMBASHI](../Page/新橋_\(東京都港区\).md "wikilink")」がオープンした。
 
+[2020年](../Page/2020年.md "wikilink")[2月29日](../Page/2月29日.md "wikilink")より[COVID-19感染拡大防止の観点から](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink")、臨時休館となっている\[2\]。
+
 ## 収録番組
 
   - [草野仁のスタジオGate J.](https://ja.wikipedia.org/wiki/草野仁のスタジオGate_J. "wikilink")
@@ -31,3 +33,4 @@
 [Category:中央競馬](https://ja.wikipedia.org/wiki/Category:中央競馬 "wikilink") [Category:競馬博物館](https://ja.wikipedia.org/wiki/Category:競馬博物館 "wikilink") [Category:大阪市の博物館](https://ja.wikipedia.org/wiki/Category:大阪市の博物館 "wikilink") [Category:大阪市中央区の建築物](https://ja.wikipedia.org/wiki/Category:大阪市中央区の建築物 "wikilink") [Category:東京都港区の博物館](https://ja.wikipedia.org/wiki/Category:東京都港区の博物館 "wikilink")
 
 1.
+2.  [GateJ．新橋及び梅田の休館について](https://gatej.jp/tokyo/news_200228_1.html) - Gate J.2020年2月28日

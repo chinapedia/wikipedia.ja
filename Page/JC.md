@@ -34,11 +34,11 @@
 
 ### その他の組織
 
-  - [青年会議所](https://ja.wikipedia.org/wiki/青年会議所 "wikilink") ()
+  - [青年会議所](https://ja.wikipedia.org/wiki/青年会議所 "wikilink") () - [日本青年会議所](../Page/日本青年会議所.md "wikilink")も参照。
   - [NHK山形放送局](../Page/NHK山形放送局.md "wikilink")の[ラジオ第2](../Page/NHKラジオ第2放送.md "wikilink")・[教育テレビの](../Page/NHK教育テレビジョン.md "wikilink")[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink") (JOJC/JOJC-DTV)
   - [ジャパンコンソーシアム](../Page/ジャパンコンソーシアム.md "wikilink") ()。[NHKと](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[民放との放送共同体](../Page/民間放送.md "wikilink")
-  - [ローダJC](../Page/ローダJC.md "wikilink") ()。オランダのサッカークラブ。
-  - ICカード乗車券[TOICA](https://ja.wikipedia.org/wiki/TOICA "wikilink")のカード番号の名称（[JR東海の英語での略称](../Page/東海旅客鉄道.md "wikilink")**J**R **C**entralの略）
+  - [ローダJC](../Page/ローダJC.md "wikilink") () - オランダのサッカークラブ。
+  - ICカード乗車券[TOICA](https://ja.wikipedia.org/wiki/TOICA "wikilink")のカード番号の名称（[JR東海の英語での略称](../Page/東海旅客鉄道.md "wikilink") **J**R **C**entral の略）
 
 ### 架空の組織
 

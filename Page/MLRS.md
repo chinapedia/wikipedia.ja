@@ -346,14 +346,14 @@
 
 ## 外部リンク
 
-  - [陸上自衛隊](http://www.mod.go.jp/gsdf/) - [多連装ロケットシステム 自走発射機M270 MLRS](http://www.mod.go.jp/gsdf/equipment/index.html#/detail/0/0_11/)
-  - [日本周辺国の軍事兵器](http://www6.atwiki.jp/namacha/pages/52.html)
+  - [陸上自衛隊](https://www.mod.go.jp/gsdf/) - [多連装ロケットシステム 自走発射機M270 MLRS](https://www.mod.go.jp/gsdf/equipment/index.html#/detail/0/0_11/)
+  - [日本周辺国の軍事兵器](https://w.atwiki.jp/namacha/pages/52.html)
 
 [Category:アメリカ合衆国のロケット砲](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のロケット砲 "wikilink") [Category:アメリカ合衆国の自走砲](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の自走砲 "wikilink") [Category:陸上自衛隊の自走砲](https://ja.wikipedia.org/wiki/Category:陸上自衛隊の自走砲 "wikilink") [Category:自走ロケット砲](https://ja.wikipedia.org/wiki/Category:自走ロケット砲 "wikilink") [Category:多連装ロケット砲](https://ja.wikipedia.org/wiki/Category:多連装ロケット砲 "wikilink") [Category:モジュラーデザイン](https://ja.wikipedia.org/wiki/Category:モジュラーデザイン "wikilink")
 
 1.  『2010陸海空自衛隊最新装備 JSDFニューウェポン・カタログ』 『丸』新春2月特別号別冊付録 [潮書房](https://ja.wikipedia.org/wiki/潮書房 "wikilink") [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")
 2.
-3.  [鎮西26(26.11.4 演習参加部隊2)](http://www.mod.go.jp/gsdf/wae/kakusyukatudou/kunren/chnzei26/chinzei26_2/26-2.html) - 陸上自衛隊西部方面隊
+3.  [鎮西26(26.11.4 演習参加部隊2)](https://www.mod.go.jp/gsdf/wae/kakusyukatudou/kunren/chnzei26/chinzei26_2/26-2.html) - 陸上自衛隊西部方面隊
 4.
 5.
 6.  防衛省装備施設本部公式サイト、中央調達に係わる契約情報

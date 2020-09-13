@@ -13,34 +13,45 @@
 
 聖遼学園高等部2年生の主人公・牧村功司（まきむらこうじ）は、控え目でおとなしい幼馴染・璃月沙夜（りつきさや）と、ひょんなことから付き合うことになった上級生・丹雫瑠羽奈（にしずくるうな）に囲まれ、賑やかながらもごく普通の生活をしていた。ある日、春日瑞希（かすがみずき）という少女が転校してくる。彼女は主人公に不思議な[水晶](https://ja.wikipedia.org/wiki/水晶 "wikilink")を渡すと、「思い出して……」と謎めいた言葉を投げかける。会ったこともないはずなのに、でも確かに会った記憶があるその少女に戸惑う主人公。そして、なにかが始まる予感……。
 
-## キャラクター
+## 登場人物
+
+### メインキャラクター
 
   - 璃月 沙夜（Ritsuki Saya）
     [声](../Page/声優.md "wikilink")：[松来未祐](../Page/松来未祐.md "wikilink")
+    誕生日 8月20日 身長 155cm　体重 40Kg　血液型 A型　B75 W56 H76　所属部　美術部
     主人公と同じクラスの17歳。成績優秀でおとなしくて控え目、おまけに家庭的といった、まさに絵に描いたような理想の幼馴染。美術部所属。
   - 丹雫 瑠羽奈（Nishizuku Ruuna）
     声：[宮村優子](../Page/宮村優子_\(声優\).md "wikilink")
+    誕生日 6月23日 身長 162cm　体重 48Kg　血液型 A型　B90 W54 H86　所属部　帰宅部
     学園一の美人と評判で、自称・主人公の彼女。きれいで新しい物が好き。思い立ったらすぐ行動するような性格でやることが派手だが、ナイーブで小食である。
   - 春日 瑞希（Kasuga Mizuki）
     声：[友永朱音](../Page/友永朱音.md "wikilink")
+    誕生日 5月18日 身長 157cm　体重 46Kg　血液型 O型　B82 W57 H84　所属部　都市研究会
     主人公のクラスに転校してきた少女。主人公に「思い出して…」と伝え、不思議な[水晶](https://ja.wikipedia.org/wiki/水晶 "wikilink")を渡す。全てが謎に包まれている。
   - 神瞳 かりん（Shindou Karin）
     声：[幡宮かのこ](../Page/幡宮かのこ.md "wikilink")
+    誕生日 10月15日 身長 158cm　体重 45Kg　血液型 A型　B81 W56 H83　所属部　騎士道部
     主人公のピンチに駆けつける騎士道部の下級生。大の男を軽々と投げ飛ばすほど強い。言葉遣いが丁寧で、何故か主人公に対して献身的である。静乃とは趣味が合うので仲が良い。
   - 矢城 静乃（Yagi Shizuno）
     声：[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")
+    誕生日 11月11日 身長 148cm　体重 34Kg　血液型 AB型　B72 W50 H74　所属部　都市研究会
     主人公の遠縁（いとこ）で、神社の家の娘。主人公を「お兄様」と呼んで慕っている。巫女としてはまだまだ修行中の身らしい。明るくちゃめっ気のある性格。
   - シーナ・アリール（Siena Areel）
     声：[坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink")
+    誕生日 9月30日 身長 160cm　体重 47Kg　血液型 A型　B86 W58 H85　所属部　なし
     何らかの事情で転校してきた外国人。水と歌が好き。人を拒絶するオーラを放っており話しかけにくい印象がある。
   - 折坂 命（Orisaka Mikoto）
     声：[茂呂田かおる](../Page/茂呂田かおる.md "wikilink")
+    誕生日 3月26日 身長 164cm　体重 49Kg　血液型 B型　B84 W60 H85　所属部　なし
     主人公のクラスにやってきた保健体育の教育実習生。実習生代表の挨拶でいきなりドジってしまい、それ以来「みこピー」の愛称で親しまれている。
   - 美角 唯芽（Misumi Yume）
     声：[かないみか](../Page/かないみか.md "wikilink")
+    誕生日 4月10日 身長 150cm　体重 36Kg　血液型 B型　B76 W55 H77　所属部　体育祭実行委員会
     車に轢かれそうになった犬を主人公が助けた場面を目撃し、弟子入り志願してくる風紀委員兼体育祭実行委員。「正義」「ヒーロー」「平和」といった言葉に弱い。周りの迷惑を顧みずに一直線に突っ走るタイプ。融通が利かず非常識。
   - 緋山 花乃香（Hiyama Kanoka）
     声：[河原木志穂](../Page/河原木志穂.md "wikilink")
+    誕生日 2月5日 身長 156.5cm　体重 44Kg　血液型 O型　B79 W59 H80　所属部　図書委員
     図書室によく入り浸っている、小説家志望の眼鏡っ子。気が強く何かにつけては主人公に突っかかってくる。見かけによらず足が速い。
   - 綺雲 エリス（Ayakumo Eris）
     声：[南央美](../Page/南央美.md "wikilink")
@@ -48,6 +59,9 @@
   - 瀬渡 菜緒（Sewatari Nao）
     声：[三五美奈子](../Page/三五美奈子.md "wikilink")
     主人公のクラスである高等部2年C組の担任をつとめる英語教師。折坂命の大学時代の先輩。
+
+### サブキャラクター
+
   - マリィ（Mally）
     声：[浅田葉子](../Page/浅田葉子.md "wikilink")
     シーナ・アリールと同じところからやってきた少女。歌うことが大好きだが短気でときどきシーナと口論している。
@@ -261,4 +275,4 @@
   - [CANDYPOP LABEL](http://candypop.hormone.co.jp/)
   - [ハピネット(旧 サイトロン・デジタルコンテンツ)](http://www.hap-net.com/)
 
-[Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:ファミ通文庫](https://ja.wikipedia.org/wiki/Category:ファミ通文庫 "wikilink") [Category:2001年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2001年のコンピュータゲーム "wikilink") [Category:ノベルゲーム](https://ja.wikipedia.org/wiki/Category:ノベルゲーム "wikilink") [Category:トンキンハウスのゲームソフト](https://ja.wikipedia.org/wiki/Category:トンキンハウスのゲームソフト "wikilink")
+[Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:ファミ通文庫](https://ja.wikipedia.org/wiki/Category:ファミ通文庫 "wikilink") [Category:2001年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2001年のコンピュータゲーム "wikilink") [Category:ノベルゲーム](https://ja.wikipedia.org/wiki/Category:ノベルゲーム "wikilink") [Category:トンキンハウスのゲームソフト](https://ja.wikipedia.org/wiki/Category:トンキンハウスのゲームソフト "wikilink") [Category:ギャルゲー](https://ja.wikipedia.org/wiki/Category:ギャルゲー "wikilink")

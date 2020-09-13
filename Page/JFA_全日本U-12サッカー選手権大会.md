@@ -121,7 +121,7 @@
 <tr class="odd">
 <td><p>5</p></td>
 <td><p><a href="../Page/1981年.md" title="wikilink">1981年</a></p></td>
-<td><p>FC町田（東京都）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FC町田" title="wikilink">FC町田</a>（東京都）</p></td>
 <td><p>3-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/古河SSS" title="wikilink">古河SSS</a>（<a href="../Page/茨城県.md" title="wikilink">茨城県</a>）</p></td>
 <td><p>FC浦和（埼玉県）<br />
@@ -159,7 +159,7 @@
 <td><p>9</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1985年" title="wikilink">1985年</a></p></td>
 <td><p>清水FC（静岡県）<br />
-FC浦和（埼玉県）</p></td>
+<a href="https://ja.wikipedia.org/wiki/FC浦和" title="wikilink">FC浦和</a>（埼玉県）</p></td>
 <td><p>1-1</p></td>
 <td></td>
 <td><p>高槻松原SC（大阪府）</p></td>
@@ -302,7 +302,7 @@ FC邑楽（群馬県）</p></td>
 <tr class="odd">
 <td><p>23</p></td>
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a></p></td>
-<td><p>ヴェルディジュニア<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/東京ヴェルディ1969" title="wikilink">ヴェルディジュニア</a><br />
 （東京都）</p></td>
 <td><p>3-0</p></td>
 <td><p>柏レイソルU-12<br />
@@ -345,7 +345,7 @@ FC邑楽（群馬県）</p></td>
 <tr class="odd">
 <td><p>27</p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a></p></td>
-<td><p>江南南SS（埼玉県）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/江南南SS" title="wikilink">江南南SS</a>（埼玉県）</p></td>
 <td><p>2-1<small><br />
 （再延長）</small></p></td>
 <td><p>富山北FCジュニア<br />
@@ -392,7 +392,7 @@ FC邑楽（群馬県）</p></td>
 <tr class="odd">
 <td><p>31</p></td>
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
-<td><p>東京ヴェルディ1969<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/東京ヴェルディ1969" title="wikilink">東京ヴェルディ1969</a><br />
 ジュニア（東京都）</p></td>
 <td><p>2-0<small><br />
 （延長）</small></p></td>
@@ -489,7 +489,7 @@ FC邑楽（群馬県）</p></td>
 <tr class="odd">
 <td><p>39</p></td>
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a></p></td>
-<td><p>レジスタFC<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/レジスタFC" title="wikilink">レジスタFC</a><br />
 （埼玉県）</p></td>
 <td><p>2-0</p></td>
 <td><p>鹿島アントラーズ<br />

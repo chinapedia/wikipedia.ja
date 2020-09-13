@@ -55,17 +55,28 @@
 
 ### 東町循環（3号線）
 
-  - 東小金井駅南口→[歯科大グランド前](../Page/日本歯科大学.md "wikilink")→駅開設記念館前→農工大通り東→新小金井通り→[東町一丁目](https://ja.wikipedia.org/wiki/東町_\(小金井市\) "wikilink")→[新小金井駅](https://ja.wikipedia.org/wiki/新小金井駅 "wikilink")\[1\]→野川公園入口→東町四丁目西交差点→東大通り南→東小金井駅南口
+[東小金井駅南口_バス乗り場.JPG](https://ja.wikipedia.org/wiki/File:東小金井駅南口_バス乗り場.JPG "fig:東小金井駅南口_バス乗り場.JPG")
 
-東小金井駅南口を起点とし、新小金井駅を経由して東町を時計回りに周回する経路。[2009年](../Page/2009年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")より、「東町四丁目西交差点」停留所を新設した。
+  - [東小金井駅](https://ja.wikipedia.org/wiki/東小金井駅 "wikilink")南口→[歯科大グランド前](../Page/日本歯科大学.md "wikilink")→駅開設記念館前→農工大通り東→新小金井通り→[東町一丁目](https://ja.wikipedia.org/wiki/東町_\(小金井市\) "wikilink")→[新小金井駅](https://ja.wikipedia.org/wiki/新小金井駅 "wikilink")\[1\]→野川公園入口→東町四丁目西交差点→東大通り南→東小金井駅南口
+
+東小金井駅南口を起点とし、新小金井駅を経由して東町を時計回りに周回する経路。CoCoバスで唯一の東小金井駅発着路線である。
 
   - 運行開始: [2005年](../Page/2005年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")
   - 運行間隔: 30分
-  - 運行時間: 東小金井駅南口発 9:00 - 19:00 (ただし、[2011年](../Page/2011年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink")～[2012年](../Page/2012年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")の間は2010年度に実施したアンケートの結果を反映する形で運行時間を 東小金井駅南口発 7:00 - 20:00 に試験的に拡大して運行した)
+  - 運行時間: 東小金井駅南口発 9:00 - 19:00
+
+<!-- end list -->
+
+  -
+    ただし[2011年](../Page/2011年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink")から[2012年](../Page/2012年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")までの間は、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")度に実施したアンケートの結果を反映する形で、運行時間を東小金井駅南口発7:00 - 20:00に試験的に拡大した。
+
+同2005年[5月29日](../Page/5月29日.md "wikilink")より\[2\]、東小金井駅南口には隣接する[武蔵野市](../Page/武蔵野市.md "wikilink")のコミュニティバス「[ムーバス](../Page/ムーバス.md "wikilink")」5号線（境・東小金井線）も乗り入れており\[3\]、この路線は武蔵野市と小金井市の共同事業となっているが\[4\]、相互乗り継ぎのための接続ダイヤは特に設定されていない。
+
+[2009年](../Page/2009年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")より「東町四丁目西交差点」停留所を新設した。
 
 ### 中町循環（4号線）
 
-  - 新小金井駅\[2\] → 東大通り南 → 武蔵野公園入口 → 美術館入口 → 市立図書館 → 太陽病院 → 武蔵小金井駅南口 → [中町四丁目](https://ja.wikipedia.org/wiki/中町_\(小金井市\) "wikilink") → 市立図書館 → [八重垣稲荷神社](https://ja.wikipedia.org/wiki/八重垣稲荷神社 "wikilink") → [農工大](../Page/東京農工大学.md "wikilink") → 新小金井駅
+  - 新小金井駅\[5\] → 東大通り南 → 武蔵野公園入口 → 美術館入口 → 市立図書館 → 太陽病院 → 武蔵小金井駅南口 → [中町四丁目](https://ja.wikipedia.org/wiki/中町_\(小金井市\) "wikilink") → 市立図書館 → [八重垣稲荷神社](https://ja.wikipedia.org/wiki/八重垣稲荷神社 "wikilink") → [農工大](../Page/東京農工大学.md "wikilink") → 新小金井駅
 
 新小金井駅と小金井街道の間を、[連雀通り](../Page/東京都道134号恋ヶ窪新田三鷹線.md "wikilink")・農工大通りを通り、8の字状に周回する経路。2009年3月19日から、武蔵小金井駅南口新ロータリー開設に伴い、武蔵小金井駅南口を通るようになった。
 
@@ -107,10 +118,10 @@
 
   - [小金井市](../Page/小金井市.md "wikilink")
   - [京王バス中央・府中営業所](../Page/京王バス中央・府中営業所.md "wikilink")
-  - [ちゅうバス](../Page/ちゅうバス.md "wikilink")・[ぶんバス](../Page/ぶんバス.md "wikilink") - 同時期に開業した隣接する[府中市](../Page/府中市_\(東京都\).md "wikilink")・[国分寺市](../Page/国分寺市.md "wikilink")のコミュニティバス。同じ事業者（京王バス中央）が運行受託し、運行形態や運賃体系など共通点が多い
+  - [ぶんバス](../Page/ぶんバス.md "wikilink")・[ちゅうバス](../Page/ちゅうバス.md "wikilink") - 同時期に開業した隣接する[国分寺市](../Page/国分寺市.md "wikilink")・[府中市のコミュニティバス](../Page/府中市_\(東京都\).md "wikilink")。同じ事業者（京王バス中央・府中営業所）が運行受託し、運行形態や運賃体系など共通点が多い。
   - [コミュニティバス](../Page/コミュニティバス.md "wikilink")
   - [乗合タクシー](../Page/乗合タクシー.md "wikilink")
-  - [日本のコミュニティバス一覧](../Page/日本のコミュニティバス一覧.md "wikilink")
+  - [日本のコミュニティバス一覧\#多摩地域](https://ja.wikipedia.org/wiki/日本のコミュニティバス一覧#多摩地域 "wikilink")
 
 ## 外部リンク
 
@@ -120,4 +131,7 @@
 [Category:関東地方のコミュニティバス](https://ja.wikipedia.org/wiki/Category:関東地方のコミュニティバス "wikilink") [Category:乗合タクシー](https://ja.wikipedia.org/wiki/Category:乗合タクシー "wikilink") [Category:小金井市](https://ja.wikipedia.org/wiki/Category:小金井市 "wikilink") [Category:京王バス中央](https://ja.wikipedia.org/wiki/Category:京王バス中央 "wikilink") [Category:東京都の交通](https://ja.wikipedia.org/wiki/Category:東京都の交通 "wikilink")
 
 1.  東町循環は連雀通り上、中町循環は駅前。
-2.
+2.  [ムーバス各路線の概要](http://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/005/138/290116gaiyo.pdf) 2017年1月16日現在、武蔵野市公式サイト、2019年9月21日閲覧。
+3.
+4.  [第2回 第3次府中市コミュニティバス検討協議会開催結果](https://www.city.fuchu.tokyo.jp/gyosei/kekaku/kyogikai/tosikiban/community/komibasukenntoukyougikaikekka2.html) 資料3「[多摩26市のコミュニティバス運行状況](https://www.city.fuchu.tokyo.jp/gyosei/kekaku/kyogikai/tosikiban/community/komibasukenntoukyougikaikekka2.files/siryou3.pdf)」より。2015年1月21日、府中市公式サイト、2019年9月21日閲覧。
+5.

@@ -15,7 +15,7 @@
 
 ## スタジオ
 
-[札幌駅](https://ja.wikipedia.org/wiki/札幌駅 "wikilink")内の[札幌ステラプレイス東](../Page/JRタワー.md "wikilink")[コンコース](https://ja.wikipedia.org/wiki/コンコース "wikilink")にある[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")「えき☆スタ」を使用。
+[札幌駅](https://ja.wikipedia.org/wiki/札幌駅 "wikilink")内の[札幌ステラプレイス東](../Page/JRタワー.md "wikilink")[コンコース](../Page/コンコース.md "wikilink")にある[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")「えき☆スタ」を使用。
 
 ## DJ
 
@@ -76,4 +76,4 @@
 
   - [AIR-G' R advance RAD'S](http://www.air-g.co.jp/rads/)
 
-[Category:AIR-G'の帯番組](https://ja.wikipedia.org/wiki/Category:AIR-G'の帯番組 "wikilink") [Category:CREATIVE_OFFICE_CUE](https://ja.wikipedia.org/wiki/Category:CREATIVE_OFFICE_CUE "wikilink") [Category:2003年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のラジオ番組_\(日本\) "wikilink") [Category:TEAM_NACS](https://ja.wikipedia.org/wiki/Category:TEAM_NACS "wikilink") [Category:大泉洋](https://ja.wikipedia.org/wiki/Category:大泉洋 "wikilink") [Category:安田顕](https://ja.wikipedia.org/wiki/Category:安田顕 "wikilink") [Category:戸次重幸](https://ja.wikipedia.org/wiki/Category:戸次重幸 "wikilink")
+[Category:AIR-G'の帯番組](https://ja.wikipedia.org/wiki/Category:AIR-G'の帯番組 "wikilink") [Category:CREATIVE_OFFICE_CUE](https://ja.wikipedia.org/wiki/Category:CREATIVE_OFFICE_CUE "wikilink") [Category:2003年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のラジオ番組_\(日本\) "wikilink") [Category:大泉洋](https://ja.wikipedia.org/wiki/Category:大泉洋 "wikilink") [Category:安田顕](https://ja.wikipedia.org/wiki/Category:安田顕 "wikilink") [Category:戸次重幸](https://ja.wikipedia.org/wiki/Category:戸次重幸 "wikilink")

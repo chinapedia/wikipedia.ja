@@ -1,7 +1,7 @@
 > この記事は[Myco](https://ja.wikipedia.org/wiki/Myco)から翻訳されています。
 
 
-**myco**（マイコ、[1979年](../Page/1979年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[声優](../Page/声優.md "wikilink")、ラジオパーソナリティー。[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[歌舞伎町](../Page/歌舞伎町.md "wikilink")出身。血液型AB型。身長166cm。B83 W58 H85。足のサイズは24cm。私立[吉祥女子高等学校卒業](../Page/吉祥女子中学校・高等学校.md "wikilink")。釈由美子と同じクラス。
+**myco**（マイコ、[1979年](../Page/1979年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[声優](../Page/声優.md "wikilink")、ラジオパーソナリティー。[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[歌舞伎町](../Page/歌舞伎町.md "wikilink")出身。血液型AB型。身長166cm。B83 W58 H85。足のサイズは24cm。私立[吉祥女子高等学校卒業](../Page/吉祥女子中学校・高等学校.md "wikilink")。
 
 ## 来歴
 

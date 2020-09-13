@@ -63,7 +63,7 @@
 
 ### 晩年
 
-[1898年](../Page/1898年.md "wikilink")（明治31年）、東京帝国大学（後の東京大学）における生物学の教育・研究の基盤整備、日本初の学会設立などの功績により、日本政府から勲三等[旭日中綬章](https://ja.wikipedia.org/wiki/旭日中綬章 "wikilink")を受けた\[8\]。[1902年](../Page/1902年.md "wikilink")、60歳を越えたモースは、20数年ぶりに動物学の論文の執筆を再開し、[1908年](../Page/1908年.md "wikilink")に渡米した石川に対しても「私は陶器も研究しているが、動物学の研究も止めない。」と述べるなど、高齢になっても研究に対する執念は尽きなかった\[9\]。[1913年](../Page/1913年.md "wikilink")、75歳となったモースは、30年以上前の日記とスケッチをもとに、『Japan Day by Day（日本語訳題：日本その日その日）』の執筆を開始。1914年、ボストン博物学会会長となった。1915年、『ピーボディー科学アカデミー』から改名した『ピーボディー博物館』の名誉会長になった。1917年、『Japan Day by Day』を書き終えて出版した。[1922年](../Page/1922年.md "wikilink")（大正11年）、日本政府から勲二等[瑞宝章](../Page/瑞宝章.md "wikilink")を受けた\[10\]。
+[1898年](../Page/1898年.md "wikilink")（明治31年）、東京帝国大学（後の東京大学）における生物学の教育・研究の基盤整備、日本初の学会設立などの功績により、日本政府から勲三等[旭日中綬章](https://ja.wikipedia.org/wiki/旭日中綬章 "wikilink")を受けた\[8\]。[1902年](../Page/1902年.md "wikilink")、60歳を越えたモースは、20数年ぶりに動物学の論文の執筆を再開し、[1908年](../Page/1908年.md "wikilink")に渡米した石川に対しても「私は陶器も研究しているが、動物学の研究も止めない。」と述べるなど、高齢になっても研究に対する執念は尽きなかった\[9\]。[1913年](../Page/1913年.md "wikilink")、75歳となったモースは、30年以上前の日記とスケッチをもとに、『Japan Day by Day（日本語訳題：[日本その日その日](../Page/日本その日その日.md "wikilink")）』の執筆を開始。1914年、ボストン博物学会会長となった。1915年、『ピーボディー科学アカデミー』から改名した『ピーボディー博物館』の名誉会長になった。1917年、『Japan Day by Day』を書き終えて出版した。[1922年](../Page/1922年.md "wikilink")（大正11年）、日本政府から勲二等[瑞宝章](../Page/瑞宝章.md "wikilink")を受けた\[10\]。
 
 1923年（85歳）、[関東大震災](../Page/関東大震災.md "wikilink")による東京帝国大学図書館の壊滅を知り、全蔵書を東京帝国大学に寄付する旨、遺言を書き直した。
 
@@ -105,7 +105,7 @@
   - 『モース日本陶器コレクション』（Catalogue of the Morse Collection of Japanese Pottery）（1901年）
   - 『中国とその住居、瞥見』（Glimpses of China and Chinese Homes）（1902年）
   - 『火星の謎』（Mars and its Mystery）（1906年）
-  - 『日本その日その日』（Japan Day by Day）（1917年）
+  - 『[日本その日その日](../Page/日本その日その日.md "wikilink")』（Japan Day by Day）（1917年）
       - [石川欣一訳](https://ja.wikipedia.org/wiki/石川欣一_\(ジャーナリスト\) "wikilink")、[平凡社](../Page/平凡社.md "wikilink") [東洋文庫](../Page/東洋文庫_\(平凡社\).md "wikilink")（全3巻、1970年） ISBN 9784582801712、ISBN 9784256801796、ISBN 9784582801798。ワイド版2004年
       - 石川欣一訳 『日本その日その日』 [講談社学術文庫](../Page/講談社学術文庫.md "wikilink")（抜粋訳、2013年）
   - 『日本のすまい・内と外』（Japanese Homes and Their Surroundings）（1885年）
@@ -203,7 +203,7 @@
 ## 外部リンク
 
   -
-[Category:アメリカ合衆国の動物学者](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の動物学者 "wikilink") [Category:明治時代のお雇い外国人](https://ja.wikipedia.org/wiki/Category:明治時代のお雇い外国人 "wikilink") [Category:東京大学の教員](https://ja.wikipedia.org/wiki/Category:東京大学の教員 "wikilink") [Category:ボウディン大学の教員](https://ja.wikipedia.org/wiki/Category:ボウディン大学の教員 "wikilink") [Category:勲二等瑞宝章受章者](https://ja.wikipedia.org/wiki/Category:勲二等瑞宝章受章者 "wikilink") [Category:勲三等旭日中綬章受章者](https://ja.wikipedia.org/wiki/Category:勲三等旭日中綬章受章者 "wikilink") [Category:メイン州ポートランド出身の人物](https://ja.wikipedia.org/wiki/Category:メイン州ポートランド出身の人物 "wikilink") [Category:1838年生](https://ja.wikipedia.org/wiki/Category:1838年生 "wikilink") [Category:1925年没](https://ja.wikipedia.org/wiki/Category:1925年没 "wikilink")
+[Category:アメリカ合衆国の動物学者](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の動物学者 "wikilink") [Category:明治時代のお雇い外国人](https://ja.wikipedia.org/wiki/Category:明治時代のお雇い外国人 "wikilink") [Category:東京大学の教員](https://ja.wikipedia.org/wiki/Category:東京大学の教員 "wikilink") [Category:ボウディン大学の教員](https://ja.wikipedia.org/wiki/Category:ボウディン大学の教員 "wikilink") [Category:勲二等瑞宝章受章者](https://ja.wikipedia.org/wiki/Category:勲二等瑞宝章受章者 "wikilink") [Category:勲三等旭日中綬章受章者](https://ja.wikipedia.org/wiki/Category:勲三等旭日中綬章受章者 "wikilink") [Category:メイン州ポートランド出身の人物](https://ja.wikipedia.org/wiki/Category:メイン州ポートランド出身の人物 "wikilink") [Category:ボストン美術館](https://ja.wikipedia.org/wiki/Category:ボストン美術館 "wikilink") [Category:1838年生](https://ja.wikipedia.org/wiki/Category:1838年生 "wikilink") [Category:1925年没](https://ja.wikipedia.org/wiki/Category:1925年没 "wikilink")
 
 1.  『87年版世界人名事典』394頁。
 2.  [石川千代松](../Page/石川千代松.md "wikilink")「嗟呼モールス先生」 [東京人類学会](https://ja.wikipedia.org/wiki/東京人類学会 "wikilink")『人類学雑誌』第41巻第2号 [1926年](../Page/1926年.md "wikilink")

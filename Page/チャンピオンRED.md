@@ -35,6 +35,7 @@
   - 24区の花子さん（[吉富昭仁](../Page/吉富昭仁.md "wikilink")）2020年3月号 - 、※2019年10月号に読み切りが掲載。その後本格連載に移行。
   - サキュバス&ヒットマン （原作：[深見真](../Page/深見真.md "wikilink")、漫画：[刻夜セイゴ](https://ja.wikipedia.org/wiki/刻夜セイゴ "wikilink")）2020年4月号 - 、※2020年3月号にプレストーリーを掲載。
   - [エコエコアザラク REBORN](../Page/エコエコアザラク.md "wikilink")（原作：[古賀新一](../Page/古賀新一.md "wikilink")、作画：[山田J太](../Page/山田J太.md "wikilink")）2020年5月号 -
+  - 8マンVSサイボーグ009（原作：[平井和正](../Page/平井和正.md "wikilink")・[桑田二郎](../Page/桑田二郎.md "wikilink")・[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")、脚本：[七月鏡一](../Page/七月鏡一.md "wikilink")、作画：[早瀬マサト](../Page/早瀬マサト.md "wikilink")・[石森プロ](https://ja.wikipedia.org/wiki/石森プロ "wikilink")）2020年9月号 - 、※シリーズ連載。
 
 以上連載開始順
 
@@ -91,7 +92,7 @@
   - えに☆さむ（しまだわかば）2002年10月号 - 2005年6月号
   - N.S.Q（有川祐）2003年10月号 - 2004年2月号
   - [エル・カザド](../Page/エル・カザド.md "wikilink")（原作：Project Leviathan、漫画：廣瀬周）2007年5月号 - 2007年10月号
-  - [おキツネさまでChu](../Page/おキツネさまでChu.md "wikilink")♥（[速野悠二](../Page/速野悠二.md "wikilink")）2003年6月号 - 2006年7月号
+  - [おキツネさまでChu♥](../Page/おキツネさまでChu♥.md "wikilink")（[速野悠二](../Page/速野悠二.md "wikilink")）2003年6月号 - 2006年7月号
   - 乙女とちぎり（[佐藤健悦](https://ja.wikipedia.org/wiki/佐藤健悦 "wikilink")）2016年10月号 - 2016年12月号
   - 鬼切姫 〜オードバスタープリンセス〜（[林雄一](https://ja.wikipedia.org/wiki/林雄一 "wikilink")）2005年11月号 - 2006年4月号
   - [お姉ちゃんバラ 紅](../Page/お姉チャンバラ.md "wikilink")（原作：[TAMSOFT](../Page/タムソフト.md "wikilink")/[D3 PUBLISHER](../Page/ディースリー・パブリッシャー.md "wikilink")、漫画：服部三枝）2008年12月号 - 2009年8月号

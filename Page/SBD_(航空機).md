@@ -1,7 +1,7 @@
 > この記事は[SBD \(航空機\)](https://ja.wikipedia.org/wiki/SBD_\(航空機\))から翻訳されています。
 
 
-**SBD ドーントレス**（*Douglas SBD Dauntless* ）は、[ダグラス社が開発し](../Page/ダグラス・エアクラフト.md "wikilink")、第二次世界大戦期にアメリカ海軍で運用された偵察爆撃機。
+**SBD ドーントレス**（*Douglas SBD Dauntless* ）は、[ダグラス社が開発し](../Page/ダグラス・エアクラフト.md "wikilink")、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")期に[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")で運用された偵察爆撃機。
 
 海軍型の愛称の「**[ドーントレス](https://ja.wikipedia.org/wiki/ドーントレス "wikilink")** (dauntless)」とは、「恐れを知らない、勇敢な、不敵な、がまん強い、不撓不屈の」などを意味する[形容詞](../Page/形容詞.md "wikilink")である。陸軍向けにも製造され、**A-24 バンシー**（*Douglas A-24 Banshee）*として制式採用され、後に**F-24**と改称された（[後述](https://ja.wikipedia.org/wiki/SBD_\(航空機\)#A-24 "wikilink")）が、陸軍型の愛称の「バンシー (Banshee)」は、スコットランド・アイルランドに伝わる女の妖精のことである。
 
@@ -9,11 +9,11 @@
 
 ## 特徴
 
-機体形状は[レシプロ単発軍用機として一般的なものであり](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")、低翼配置の[主翼](https://ja.wikipedia.org/wiki/主翼 "wikilink")と尾輪式の[降着装置](../Page/降着装置.md "wikilink")を持つ。[フラップは穴空き式であり](../Page/高揚力装置.md "wikilink")、[ダイブブレーキを兼ねるようになっていた](../Page/空力ブレーキ.md "wikilink")。[エド・ハイネマン](https://ja.wikipedia.org/wiki/エド・ハイネマン "wikilink")率いる設計チームは当初から引き込み脚を採用するなど、当時の急降下爆撃機としては画期的なスペックであった。また、SBDは良好な運動性と強力な前方機銃を活かし、状況によっては戦闘機との空戦も行った。
+機体形状は[レシプロ単発軍用機として一般的なものであり](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")、低翼配置の[主翼](https://ja.wikipedia.org/wiki/主翼 "wikilink")と尾輪式の[降着装置](../Page/降着装置.md "wikilink")を持つ。[フラップは穴空き式であり](../Page/高揚力装置.md "wikilink")、[ダイブブレーキを兼ねるようになっていた](../Page/空力ブレーキ.md "wikilink")。[エド・ハイネマン](https://ja.wikipedia.org/wiki/エド・ハイネマン "wikilink")率いる設計チームは当初から引き込み脚を採用するなど、当時の急降下爆撃機としては画期的なスペックであった。ただし翼端の折り畳み機構は装備されておらず、これが艦載機としてのネックとなった。また、SBDは良好な運動性と強力な前方機銃を活かし、状況によっては戦闘機との空戦も行った。
 
 新型艦上爆撃機[SB2C ヘルダイヴァーが登場したが](../Page/SB2C_\(航空機\).md "wikilink")、SB2Cは海軍側の無茶な要求によって若干安定性と操縦性に難がある機体となった。そのため、引渡し後の部隊配備は進まなかった。一方、ドーントレスは[電波航法](https://ja.wikipedia.org/wiki/電波航法 "wikilink")装置や空中[レーダー](../Page/レーダー.md "wikilink")を装備した後期型のSBD-4が780機生産されてその一部はサッチ少佐の考案した艦隊防空システムであるビッグブルーブランケット構想の下で早期警戒機として運用され、その後もSBD-5、SBD-6と改良が加えられた。
 
-母艦搭載の必要がない[海兵隊は終戦間際まで本機を運用し](../Page/アメリカ海兵隊.md "wikilink")、SBD-6のほとんどは海兵隊向けであった。その後、SB2Cの高性能化で母艦部隊は機種交換が進められ、ようやくSB2Cに道を譲り、[終戦](../Page/終戦.md "wikilink")間際に生産が始まった[AD スカイレイダー汎用攻撃機の登場でドーントレスはその姿を消す](../Page/A-1_\(航空機\).md "wikilink")。しかし、SBDは太平洋戦争中の全期間、現役状態であった。
+母艦搭載の必要がない[海兵隊は終戦間際まで本機を運用し](../Page/アメリカ海兵隊.md "wikilink")、SBD-6のほとんどは海兵隊向けであった。その後、SB2Cの高性能化で母艦部隊は機種交換が進められ、ようやくSB2Cに道を譲り、[終戦](../Page/終戦.md "wikilink")間際に生産が始まった[AD スカイレイダー汎用攻撃機の登場でドーントレスはその姿を消す](../Page/A-1_\(航空機\).md "wikilink")。しかし、SBDは第二次世界大戦中の全期間、現役状態であった。
 
 ## A-24
 
@@ -446,7 +446,7 @@ NL82GA</p></td>
 <tr class="odd">
 <td><p>SBD-6</p></td>
 <td><p>54654</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Douglas_SBD_Dauntless_-_Dive_Bomber_-_USS_Midway_Museum_(9260518630).jpg" title="fig:Douglas_SBD_Dauntless_-_Dive_Bomber_-_USS_Midway_Museum_(9260518630).jpg">Douglas_SBD_Dauntless_-_Dive_Bomber_-_USS_Midway_Museum_(9260518630).jpg</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:SBD_Dauntless_(28944182012).jpg" title="fig:SBD_Dauntless_(28944182012).jpg">SBD_Dauntless_(28944182012).jpg</a></p></td>
 <td><p>アメリカ合衆国カリフォルニア州サンディエゴ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:USS_Midway_Museum" title="wikilink">USSミッドウェイ博物館</a><br />
 （<a href="../Page/ミッドウェイ_(空母).md" title="wikilink">空母ミッドウェイ (CV-41)</a>）</p></td>

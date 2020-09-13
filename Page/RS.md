@@ -58,8 +58,8 @@
       - [マツダ・RX-7](../Page/マツダ・RX-7.md "wikilink")のグレード名 - [マツダ](../Page/マツダ.md "wikilink")
       - [スズキ・アルト](../Page/スズキ・アルト.md "wikilink")ターボRS - [スズキ](../Page/スズキ_\(企業\).md "wikilink")
       - [スズキ・スイフト](../Page/スズキ・スイフト.md "wikilink")の3代目（ZC72S・ZD72S）から追加されたグレード名（[特別仕様車](../Page/特別仕様車.md "wikilink")） - [スズキ](../Page/スズキ_\(企業\).md "wikilink")
-      - RS[フリップフロップ](../Page/フリップフロップ.md "wikilink") - [フリップフロップ](../Page/フリップフロップ.md "wikilink")の一つ
       - Renault Sport（[ルノー・スポール](../Page/ルノー・スポール.md "wikilink")）- [ルノー](../Page/ルノー.md "wikilink")
+      - RS中春 - [株式会社中春の屋号](https://ja.wikipedia.org/wiki/中春 "wikilink")
 
 ### 地名
 
@@ -76,6 +76,7 @@
   - [無線通信](../Page/無線通信.md "wikilink")、特に[アマチュア無線](../Page/アマチュア無線.md "wikilink")における相手側電波の受信状況の事。[RSレポート](https://ja.wikipedia.org/wiki/RSレポート "wikilink")、RSコードとも言う。Rは了解度（5段階）で受信者の主観、Sは信号強度(9段階）で受信機のシグナルメーターの目盛りに従って報告する
   - [信頼可能な](https://ja.wikipedia.org/wiki/信頼性 "wikilink")[情報源](../Page/情報源.md "wikilink")（Reliable Source(s)）
   - [Windows 10の](https://ja.wikipedia.org/wiki/Microsoft_Windows_10 "wikilink")[コードネーム](../Page/コードネーム.md "wikilink")Redstoneの略
+  - RS[フリップフロップ](../Page/フリップフロップ.md "wikilink") - [フリップフロップ](../Page/フリップフロップ.md "wikilink")の一つ
 
 ## rs
 

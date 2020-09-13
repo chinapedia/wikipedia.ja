@@ -142,7 +142,7 @@
 <!-- end list -->
 
   - [広尾](https://ja.wikipedia.org/wiki/NHK広尾ラジオ中継局 "wikilink") 1584kHz 100W
-  - 広尾(FM補完) 90.1MHz 100W
+  - 広尾（[FM補完](https://ja.wikipedia.org/wiki/FM補完中継局 "wikilink")） 90.1MHz 100W
 
 ### ラジオ第2放送 (JOOC)
 
@@ -273,6 +273,6 @@
 
 1.  北海道新聞帯広支社が編纂した「十勝百科事典」にて一連の流れがまとめられている。
 2.
-3.  [ＮＨＫ放送受信料窓口のご案内 | 北海道東営業センター](http://www.nhk.or.jp/sapporo/hkd_centers/hkd_higashi.html)
+3.  [NHK放送受信料窓口のご案内 | 北海道東営業センター](http://www.nhk.or.jp/sapporo/hkd_centers/hkd_higashi.html)
 4.  2014年3月31日 - 2019年3月は月 - 金18:52 - 18:56
 5.

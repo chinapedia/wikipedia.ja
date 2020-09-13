@@ -313,7 +313,7 @@ POBE-8202:DVD</p></td>
   - [BBC Times - TOMONORI TAGUCHI Official Web Site](http://www.an-life.com/bbc/) - 田口智則 (TOWA) 公式ウェブサイト
   - [阿部徹-TORU ABE Official Web Site-](http://www.an-life.com/toru/) - 阿部徹 (SANTA) 公式ウェブサイト
 
-[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink")
+[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink")
 
 1.  <http://blog.mayutan.com/archives/51984071.html>
 2.  <http://www.thaich.net/news/20140718b.htm>

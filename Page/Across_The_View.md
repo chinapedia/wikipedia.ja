@@ -83,6 +83,9 @@ J-WAVE開局翌年の[1989年](../Page/1989年.md "wikilink")に放送開始。[
 
 #### 20:00開始時代
 
+  - オープニング曲「The Hip Hop Band」（[Stetsasonic](https://ja.wikipedia.org/wiki/Stetsasonic "wikilink")）
+  - エンディング曲「RHODES FUNKY DUB」（[砂原良徳](../Page/砂原良徳.md "wikilink")）
+
 （曜日・担当時期順）
 
   - DRAGON、はな “J'S JOURNAL” （月曜、1999年4月-1999年9月）
@@ -105,6 +108,6 @@ J-WAVE開局翌年の[1989年](../Page/1989年.md "wikilink")に放送開始。[
 
 ## 外部リンク
 
-  - [ACROSS THE VIEW](http://web.archive.org/web/20010802043321/http://www.j-wave.co.jp/original/across/) - [Internet Archiveにより保存されている](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink")2001年8月2日時点の番組公式サイト
+  - [ACROSS THE VIEW](https://web.archive.org/web/20010802043321/http://www.j-wave.co.jp/original/across/) - [Internet Archiveにより保存されている](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink")2001年8月2日時点の番組公式サイト
 
 [Category:JFL系ラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:JFL系ラジオの音楽番組の歴史 "wikilink") [Category:JFL系ラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:JFL系ラジオの一社提供番組 "wikilink") [Category:J-WAVEの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:J-WAVEの帯番組の歴史 "wikilink") [Category:新日本製鐵グループ一社提供番組](https://ja.wikipedia.org/wiki/Category:新日本製鐵グループ一社提供番組 "wikilink") [Category:1989年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1989年のラジオ番組_\(日本\) "wikilink")

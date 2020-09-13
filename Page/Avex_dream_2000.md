@@ -96,7 +96,7 @@
 
 27人が合格。
 
-  - [木﨑ゆりあが](https://ja.wikipedia.org/wiki/木崎ゆりあ "wikilink")[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")に加入。その後、[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")へ移籍。
+  - [木﨑ゆりあ](https://ja.wikipedia.org/wiki/木﨑ゆりあ "wikilink")が[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")に加入。その後、[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")へ移籍。
   - [山邊未夢](https://ja.wikipedia.org/wiki/山邊未夢 "wikilink")（「avex audition 2006」エントリー）が[東京女子流](https://ja.wikipedia.org/wiki/東京女子流 "wikilink")に加入。
   - 鈴木真梨耶がCheeky Paradeに加入。
   - [武田舞彩](https://ja.wikipedia.org/wiki/武田舞彩 "wikilink")、[森岡悠](https://ja.wikipedia.org/wiki/森岡悠 "wikilink")が[GEMに加入](https://ja.wikipedia.org/wiki/GEM_\(アイドルグループ\) "wikilink")。

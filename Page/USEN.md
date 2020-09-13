@@ -7,19 +7,19 @@
 
 ## 概要
 
-初代法人の旧社名「大阪有線放送社」「有線ブロードネットワークス」が示すとおり、元々は[同軸ケーブル](../Page/同軸ケーブル.md "wikilink")による[有線ラジオ放送](../Page/有線ラジオ放送.md "wikilink")「USEN440」を中心に手がけており、有線放送業界1位である。440とは一般用チューナーで受信可能なチャンネル数を表すが、未使用チャンネルもあり、ステレオ放送は2チャンネル分消費するため番組数は440より少ない。業務用途ではリース用としてさらに多くのチャンネルが存在する。同軸ケーブルを使わずに[通信衛星](../Page/通信衛星.md "wikilink")を用いた[衛星一般放送](https://ja.wikipedia.org/wiki/衛星一般放送 "wikilink")「[SOUND PLANET](../Page/SOUND_PLANET.md "wikilink")」、「music AirBee\!」も行っている。
+初代法人の旧社名「大阪有線放送社」「有線ブロードネットワークス」が示すとおり、もともとは[同軸ケーブル](../Page/同軸ケーブル.md "wikilink")による[有線ラジオ放送](../Page/有線ラジオ放送.md "wikilink")「USEN440」を中心に手がけており、有線放送業界1位である。440とは一般用チューナーで受信可能なチャンネル数を表すが、未使用チャンネルもあり、ステレオ放送は2チャンネル分消費するため番組数は440より少ない。業務用途ではリース用としてさらに多くのチャンネルが存在する。同軸ケーブルを使わずに[通信衛星](../Page/通信衛星.md "wikilink")を用いた[衛星一般放送](https://ja.wikipedia.org/wiki/衛星一般放送 "wikilink")「[SOUND PLANET](../Page/SOUND_PLANET.md "wikilink")」、「music AirBee\!」も行っている。
 
 創業者・宇野元忠の子息で、人材派遣会社の[パーソルキャリア](../Page/パーソルキャリア.md "wikilink")（旧・インテリジェンス）の創業者の一人であった[宇野康秀](../Page/宇野康秀.md "wikilink")が代表取締役社長に就任後、2000年代に[M\&A](../Page/M&A.md "wikilink")や業務提携により多くの事業を展開する（[エイベックスや](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[BMB](../Page/BMB.md "wikilink")の筆頭株主であった）が、程なく第三者に売却し、現在は祖業の音楽配信事業を中心に手がけている。
 
-親会社（持株会社）である USEN-NEXT HOLDINGS（旧・U-NEXT）は元々USENの子会社であったが、事業再編時に子会社だった U-NEXT が親会社の USEN を吸収合併する形となっている。
+親会社（持株会社）である USEN-NEXT HOLDINGS（旧・U-NEXT）はもともとUSENの子会社であったが、事業再編時に子会社だった U-NEXT が親会社の USEN を吸収合併する形となっている。
 
 ## 沿革
 
 ### 旧法人（大阪有線放送社→有線ブロードネットワークス→USEN）
 
-  - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年）[6月1日](../Page/6月1日.md "wikilink") - 宇野元忠が[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")において、個人事業として創業。
+  - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（[昭和](../Page/昭和.md "wikilink")36年）[6月1日](../Page/6月1日.md "wikilink") - 宇野元忠が[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")において、個人事業として創業。
   - [1964年](../Page/1964年.md "wikilink")（昭和39年）[9月7日](../Page/9月7日.md "wikilink") - **株式会社大阪有線放送社**設立。
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - 宇野康秀が代表取締役社長に就任。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（[平成](../Page/平成.md "wikilink")10年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - 宇野康秀が代表取締役社長に就任。
   - [2000年](../Page/2000年.md "wikilink")（平成12年）
       - [4月1日](../Page/4月1日.md "wikilink") - 商号を**株式会社有線ブロードネットワークス**に変更。
       - [10月31日](../Page/10月31日.md "wikilink") - 日光堂（後の[BMB](../Page/BMB.md "wikilink")、現・[エクシング](../Page/エクシング.md "wikilink")）と資本・業務提携を実施。2000万株の第三者割当増資により筆頭株主となる。
@@ -27,15 +27,15 @@
       - [3月1日](../Page/3月1日.md "wikilink") - 商用としては世界初の個人向け光ファイバ・ブロードバンドサービス「BROAD-GATE01」を、[東京都](../Page/東京都.md "wikilink")[世田谷区](../Page/世田谷区.md "wikilink")・[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")の一部地域にて開始。
       - [4月25日](../Page/4月25日.md "wikilink") - [大阪証券取引所](https://ja.wikipedia.org/wiki/大阪証券取引所 "wikilink")[ナスダック・ジャパン](https://ja.wikipedia.org/wiki/ナスダック・ジャパン "wikilink")（現・[東京証券取引所](../Page/東京証券取引所.md "wikilink")[ジャスダック](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")）市場に上場。
   - [2002年](../Page/2002年.md "wikilink")（平成14年）
-  - 2月4日-法人向け光ファイバ・ブロードバンドサービス「BROAD-GATE02」を開始。
-  - [12月30日](../Page/12月30日.md "wikilink") - 子会社ユーズモバイル（現・[サミーネットワークス](https://ja.wikipedia.org/wiki/サミーネットワークス "wikilink")）の保有全株式を[サミー](../Page/サミー.md "wikilink")へ譲渡\[4\]。
+      - [2月4日](../Page/2月4日.md "wikilink") - 法人向け光ファイバ・ブロードバンドサービス「BROAD-GATE02」を開始。
+      - [12月30日](../Page/12月30日.md "wikilink") - 子会社ユーズモバイル（現・[サミーネットワークス](https://ja.wikipedia.org/wiki/サミーネットワークス "wikilink")）の保有全株式を[サミー](../Page/サミー.md "wikilink")へ譲渡\[4\]。
   - [2003年](../Page/2003年.md "wikilink")（平成15年）[1月1日](../Page/1月1日.md "wikilink") - CSKネットワークシステムズよりISP事業「Highway Internet」「Shes.net」の移管を受ける。
   - [2004年](../Page/2004年.md "wikilink")（平成16年）
       - [9月28日](../Page/9月28日.md "wikilink") - エイベックス株式会社（現・[エイベックス・グループ](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")・ホールディングス株式会社）の株を22.38%取得し、筆頭株主となり、業務提携も行った\[5\]。
       - [11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink") - ギャガ・コミュニケーションズ（現・[ギャガ](../Page/ギャガ.md "wikilink")）の[第三者割当増資](../Page/第三者割当増資.md "wikilink")を引受け、[新株予約権](../Page/新株予約権.md "wikilink")を取得し同社を子会社化。
   - [2005年](../Page/2005年.md "wikilink")（平成17年）
-      - [3月1日](../Page/3月1日.md "wikilink") - 商号を**株式会社USEN**に変更。ロゴマークも「**Usen**」から「**USEN**」となる。
-      - [4月1日](../Page/4月1日.md "wikilink") - 「[完全無料パソコンテレビGyaO（ギャオ）](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")」を開始。
+      - 3月1日 - 商号を**株式会社USEN**に変更。ロゴマークも「**Usen**」から「**USEN**」となる。
+      - 4月1日 - 「[完全無料パソコンテレビGyaO（ギャオ）](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")」を開始。
   - [2006年](../Page/2006年.md "wikilink")（平成18年）
       - [1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink") - 株価が最高値である3600円をつける。しかし、半年後の7月26日には943円まで下がる。
       - [3月16日](../Page/3月16日.md "wikilink") - [フジテレビが所有する](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ライブドア](../Page/ライブドア.md "wikilink")株を宇野康秀社長個人が95億円で全株買い上げ、ライブドアと業務提携を結ぶ。
@@ -47,7 +47,7 @@
       - [10月17日](../Page/10月17日.md "wikilink") - [株式交換](../Page/株式交換.md "wikilink")によりギャガ・コミュニケーションズを完全子会社化。
   - [2007年](../Page/2007年.md "wikilink")（平成19年）
       - [5月9日](../Page/5月9日.md "wikilink") - 子会社ギャガ・クロスメディア・マーケティングの保有全[株式](../Page/株式.md "wikilink")をカピトリーノに売却（[MBOによる独立](../Page/マネジメント・バイアウト.md "wikilink")。2007年〈平成19年〉9月、[フットノート](../Page/フットノート.md "wikilink")に社名変更）。
-      - [6月1日](../Page/6月1日.md "wikilink") - [セットトップボックス](../Page/セットトップボックス.md "wikilink")（STB）を使用した[ビデオ・オン・デマンド](../Page/ビデオ・オン・デマンド.md "wikilink")（VOD）サービス「[GyaO NEXT](https://ja.wikipedia.org/wiki/GyaO_NEXT "wikilink")（ギャオネクスト）」を開始。
+      - 6月1日 - [セットトップボックス](../Page/セットトップボックス.md "wikilink")（STB）を使用した[ビデオ・オン・デマンド](../Page/ビデオ・オン・デマンド.md "wikilink")（VOD）サービス「[GyaO NEXT](https://ja.wikipedia.org/wiki/GyaO_NEXT "wikilink")（ギャオネクスト）」を開始。
       - [8月30日](../Page/8月30日.md "wikilink") - 連結子会社のUCOM株式の一部を譲渡し、持分法適用関連会社に異動。
       - [9月21日](../Page/9月21日.md "wikilink") - [TOBと株式交換によりBMBを完全子会社化](https://ja.wikipedia.org/wiki/株式公開買い付け "wikilink")。
       - [10月1日](../Page/10月1日.md "wikilink") - 持分法適用関連会社のUCOMが連結子会社のメディアを吸収合併。
@@ -56,7 +56,7 @@
       - [9月30日](../Page/9月30日.md "wikilink") - [株式交換](../Page/株式交換.md "wikilink")によりインテリジェンスを完全子会社化。
       - [10月22日](../Page/10月22日.md "wikilink") - 100％子会社である[株式会社GyaOを設立](../Page/GYAO!.md "wikilink")。
   - [2009年](../Page/2009年.md "wikilink")（平成21年）
-      - [4月1日](../Page/4月1日.md "wikilink") - GyaO事業本部を廃止し、株式会社GyaOにGyaO事業を移管。
+      - 4月1日 - GyaO事業本部を廃止し、株式会社GyaOにGyaO事業を移管。
       - 4月1日 - 株式会社UCXを設立。業務内容としては、PCおよび携帯電話向け音楽配信事業やCS放送事業、雑誌出版事業などを手掛けることになっている。
       - [4月30日](../Page/4月30日.md "wikilink") - [Yahoo\! JAPAN保有の](https://ja.wikipedia.org/wiki/ヤフー_\(企業\) "wikilink")[Yahoo\!動画](https://ja.wikipedia.org/wiki/Yahoo!動画 "wikilink")と、株式会社GyaOの親会社であるUSEN保有の[完全無料パソコンテレビGyaOの合弁化に伴う株式売却によって株式会社GyaOは](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")、ヤフーの連結子会社化された。
       - [7月22日](../Page/7月22日.md "wikilink") - [マネジメント・バイアウト](../Page/マネジメント・バイアウト.md "wikilink")によりギャガ・コミュニケーションズの発行済み全株式を[依田巽](../Page/依田巽.md "wikilink")のプライベートカンパニー[ティー ワイ リミテッドおよび](../Page/ティー_ワイ_エンタテインメント.md "wikilink")[木下工務店](https://ja.wikipedia.org/wiki/木下工務店 "wikilink")グループの[キノシタ・マネージメント](https://ja.wikipedia.org/wiki/キノシタ・マネージメント "wikilink")へ譲渡。
@@ -85,19 +85,19 @@
 
 ### 現法人
 
-  - [2017年](../Page/2017年.md "wikilink")（平成29年）
-      - [6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink") - 株式会社USEN分割準備会社を設立。
-      - [12月1日](../Page/12月1日.md "wikilink") - 株式会社USENに商号変更\[20\]。
-  - 2018年（平成30年）
-      - 2月1日 - iPadを利用したPOSレジアプリ第4弾　小売店に必要な機能を備えた「Uレジ for Store」リリース （飲食店・美容サロン・整体院・小売店の4業態に特化したサービスラインナップ完成）。
+  - 2017年（平成29年）
+      - 6月16日 - 株式会社USEN分割準備会社を設立。
+      - 12月1日 - 株式会社USENに商号変更\[20\]。
+  - [2018年](../Page/2018年.md "wikilink")（平成30年）
+      - [2月1日](../Page/2月1日.md "wikilink") - iPadを利用したPOSレジアプリ第4弾　小売店に必要な機能を備えた「Uレジ for Store」リリース （飲食店・美容サロン・整体院・小売店の4業態に特化したサービスラインナップ完成）。
       - 2月16日 - 損害保険事業に参入。「お店のあんしん保険」販売開始
       - 6月28日 - 店内放送／館内アナウンス等の音声を即時データ化し多言語で表示する「USENおもてなしキャスト」リリース。
       - 10月1日 - 「USEN GAS」販売開始
-      - 10月30日 - セルフオーダーシステム「U-Order」販売開始。
-  - 2019年
+      - [10月30日](../Page/10月30日.md "wikilink") - セルフオーダーシステム「U-Order」販売開始。
+  - [2019年](../Page/2019年.md "wikilink")（平成31年）
       - 2月6日 - POSレジアプリ「Airレジ for USEN」、オーダーエントリーシステム「Airレジ ハンディ for USEN」リリース。
       - 2月21日 - 国立大学法人東京藝術大学との共同研究を基に『帰宅を促す音楽』を制作、オフィス向けBGM「Sound Design for OFFICE」で提供開始
-      - 6月3 - 日公衆無線LANアクセスサービス「U-SPOT」の提供開始
+  - 2019年（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")元年）[6月3日](../Page/6月3日.md "wikilink") - 公衆無線LANアクセスサービス「U-SPOT」の提供開始
 
 ## 会社の状況
 
@@ -126,7 +126,7 @@
 <td><p>株式会社<a href="../Page/アルメックス.md" title="wikilink">アルメックス</a></p></td>
 <td><p>2,360</p></td>
 <td><p>100.0</p></td>
-<td><p><a href="../Page/ホテル.md" title="wikilink">ホテル</a>・<a href="../Page/病院.md" title="wikilink">病院</a>・ゴルフ場向けの機器製造・販売事業</p></td>
+<td><p><a href="../Page/ホテル.md" title="wikilink">ホテル</a>・<a href="../Page/病院.md" title="wikilink">病院</a>・<a href="../Page/ゴルフ場.md" title="wikilink">ゴルフ場</a>向けの機器製造・販売事業</p></td>
 </tr>
 <tr class="odd">
 <td><p>株式会社<a href="https://ja.wikipedia.org/wiki/USENテクノサービス" title="wikilink">USENテクノサービス</a></p></td>
@@ -195,7 +195,7 @@
 
 ### ケーブル敷設に伴う問題
 
-創業者で現USEN会長の宇野康秀の父・宇野元忠（中国名：于元忠）は、大阪有線通信社（USEN）の事業拡大において、[電柱](../Page/電柱.md "wikilink")の無断使用を行ったことで知られる。本来、電柱およびこれに添架される[電線](../Page/電線.md "wikilink")は空間としての道路を占有しているため、[道路法](../Page/道路法.md "wikilink")に基づいて[道路管理者](../Page/道路管理者.md "wikilink")に対して所定の手続きを踏む必要があるが、無許可であっても一旦設置してしまえば撤去するには膨大な費用がかかるため行政も簡単には撤去できないという隙間を突いたやり方で勢力を拡大。その一方で堂々と放送に関する免許を行政へ申請するという厚顔ぶりから政府の怒りを買うが、現実問題として解決するには宇野側の同意が必要な点や大阪がやるならと無法な工事が全国で発生する有様に「大阪有線」は[1970年代](../Page/1970年代.md "wikilink")の歴代内閣の申し送り事項となった。有線ラジオ放送を契約してから利用者まで線を引くのに、迅速な工事をモットーとしたため、法令上の許可等をとらない工事も目立ち、また酷い場合には、[電線](../Page/電線.md "wikilink")を切断して自社のケーブル架設を優先させたりもしたという。[1977年](../Page/1977年.md "wikilink")（昭和52年）[4月27日](../Page/4月27日.md "wikilink")の衆議院逓信委員会でも[久保等](https://ja.wikipedia.org/wiki/久保等 "wikilink")理事（[社会党](../Page/日本社会党.md "wikilink")）が「ハエを追い払って一時そのあたりにハエがいなくなったと思ったら、またハエがたかってくるといった、ゲリラ的と申しますか、まことにどうも言語道断な現状にあります」と語るほどの状況であった\[21\]。このことから、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）8月20日に有線ラジオ法違反で宇野社長他幹部が逮捕されている\[22\]。[1994年](../Page/1994年.md "wikilink")（平成6年）に同社は関係正常化宣言を行い、新規に敷設するケーブルの電柱使用に際し、事前に許可を取る方針に転換するが、以後も過去に敷設したケーブルの電柱使用料の支払い等を巡り問題は継続することになる。
+創業者で現USEN会長の宇野康秀の父・宇野元忠（中国名：于元忠）は、大阪有線通信社（USEN）の事業拡大において、[電柱](../Page/電柱.md "wikilink")の無断使用を行ったことで知られる。本来、電柱およびこれに添架される[電線](../Page/電線.md "wikilink")は空間としての道路を占有しているため、[道路法](../Page/道路法.md "wikilink")に基づいて[道路管理者](../Page/道路管理者.md "wikilink")に対して所定の手続きを踏む必要があるが、無許可であっても一旦設置してしまえば撤去するには膨大な費用がかかるため行政も簡単には撤去できないという隙間を突いたやり方で勢力を拡大。その一方で堂々と放送に関する免許を行政へ申請するという厚顔ぶりから政府の怒りを買うが、現実問題として解決するには宇野側の同意が必要な点や大阪がやるならと無法な工事が全国で発生する有様に「大阪有線」は[1970年代](../Page/1970年代.md "wikilink")の歴代内閣の申し送り事項となった。有線ラジオ放送を契約してから利用者まで線を引くのに、迅速な工事をモットーとしたため、法令上の許可等をとらない工事も目立ち、また酷い場合には、電線を切断して自社のケーブル架設を優先させたりもしたという。[1977年](../Page/1977年.md "wikilink")（昭和52年）[4月27日](../Page/4月27日.md "wikilink")の衆議院逓信委員会でも[久保等](https://ja.wikipedia.org/wiki/久保等 "wikilink")理事（[社会党](../Page/日本社会党.md "wikilink")）が「ハエを追い払って一時そのあたりにハエがいなくなったと思ったら、またハエがたかってくるといった、ゲリラ的と申しますか、まことにどうも言語道断な現状にあります」と語るほどの状況であった\[21\]。このことから、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）8月20日に有線ラジオ法違反で宇野社長他幹部が逮捕されている\[22\]。[1994年](../Page/1994年.md "wikilink")（平成6年）に同社は関係正常化宣言を行い、新規に敷設するケーブルの電柱使用に際し、事前に許可を取る方針に転換するが、以後も過去に敷設したケーブルの電柱使用料の支払い等を巡り問題は継続することになる。
 
 また、当時は在京のFM局等を地方で聴くことが出来るラジオ放送の「無断再送信」も大きな問題となっていたが著作権法改正やラジオ局のインターネット配信の影響もあり、[1999年](../Page/1999年.md "wikilink")（平成11年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に番組改編が行われ通常の聴収地域外での再送信は中止された。
 
@@ -228,40 +228,26 @@
 
 ## 関連項目
 
-<table>
-<tbody>
-<tr class="odd">
-<td><ul>
-<li><a href="../Page/ギャガ.md" title="wikilink">ギャガ</a>（GAGA★）</li>
-<li><a href="../Page/エクシング.md" title="wikilink">エクシング</a>
-<ul>
-<li><a href="../Page/BMB.md" title="wikilink">BMB</a>（<a href="../Page/UGA_(カラオケ).md" title="wikilink">UGA</a>）</li>
-</ul></li>
-<li><a href="../Page/パーソルキャリア.md" title="wikilink">パーソルキャリア</a></li>
-<li><a href="../Page/オレたちやってま〜す.md" title="wikilink">オレたちやってま〜す</a></li>
-</ul></td>
-<td><ul>
-<li><a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TV</a></li>
-<li><a href="../Page/通信と放送の融合.md" title="wikilink">通信と放送の融合</a></li>
-<li><a href="../Page/GYAO!.md" title="wikilink">GYAO!</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/楽天ショウタイム" title="wikilink">楽天ショウタイム</a></li>
-<li><a href="../Page/モバHO!.md" title="wikilink">モバHO!</a>（モバイルUSEN）</li>
-</ul></td>
-<td><ul>
-<li><a href="../Page/音楽と人.md" title="wikilink">音楽と人</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ディスカバリー・エンターテインメント" title="wikilink">ディスカバリー・エンターテインメント</a></li>
-<li><a href="../Page/アルメックス.md" title="wikilink">アルメックス</a></li>
-<li><a href="../Page/西司.md" title="wikilink">西司</a> - デビューする前に勤務。</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+  - [ギャガ](../Page/ギャガ.md "wikilink")（GAGA★）
+  - [エクシング](../Page/エクシング.md "wikilink")
+      - [BMB](../Page/BMB.md "wikilink")（[UGA](../Page/UGA_\(カラオケ\).md "wikilink")）
+  - [パーソルキャリア](../Page/パーソルキャリア.md "wikilink")
+  - [通信と放送の融合](../Page/通信と放送の融合.md "wikilink")
+  - [GYAO\!](../Page/GYAO!.md "wikilink")
+  - [楽天ショウタイム](https://ja.wikipedia.org/wiki/楽天ショウタイム "wikilink")
+  - [モバHO\!](../Page/モバHO!.md "wikilink")（モバイルUSEN）
+  - [音楽と人](../Page/音楽と人.md "wikilink")
+  - [ディスカバリー・エンターテインメント](https://ja.wikipedia.org/wiki/ディスカバリー・エンターテインメント "wikilink")
+  - [アルメックス](../Page/アルメックス.md "wikilink")
+  - [西司](../Page/西司.md "wikilink") - デビューする前に勤務。
 
 ## 外部リンク
 
-  - [USEN公式サイト（日本語）](https://usen.com/)
+  - [USEN公式サイト](https://usen.com/)
 
-[Category:USEN](https://ja.wikipedia.org/wiki/Category:USEN "wikilink") [Category:日本の電気通信事業者](https://ja.wikipedia.org/wiki/Category:日本の電気通信事業者 "wikilink") [Category:日本の放送事業者](https://ja.wikipedia.org/wiki/Category:日本の放送事業者 "wikilink") [Category:衛星一般放送事業者](https://ja.wikipedia.org/wiki/Category:衛星一般放送事業者 "wikilink") [Category:有線役務利用放送事業者](https://ja.wikipedia.org/wiki/Category:有線役務利用放送事業者 "wikilink") [Category:日本のインターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/Category:日本のインターネットサービスプロバイダ "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:1964年設立の企業](https://ja.wikipedia.org/wiki/Category:1964年設立の企業 "wikilink") [Category:2001年設立の企業](https://ja.wikipedia.org/wiki/Category:2001年設立の企業 "wikilink") [Category:大阪府発祥の企業](https://ja.wikipedia.org/wiki/Category:大阪府発祥の企業 "wikilink")
+  -
+  -
+[Category:USEN](https://ja.wikipedia.org/wiki/Category:USEN "wikilink") [Category:日本の電気通信事業者](https://ja.wikipedia.org/wiki/Category:日本の電気通信事業者 "wikilink") [Category:日本の放送事業者](https://ja.wikipedia.org/wiki/Category:日本の放送事業者 "wikilink") [Category:衛星一般放送事業者](https://ja.wikipedia.org/wiki/Category:衛星一般放送事業者 "wikilink") [Category:有線役務利用放送事業者](https://ja.wikipedia.org/wiki/Category:有線役務利用放送事業者 "wikilink") [Category:日本のインターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/Category:日本のインターネットサービスプロバイダ "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:大阪府発祥の企業](https://ja.wikipedia.org/wiki/Category:大阪府発祥の企業 "wikilink") [Category:1964年設立の企業](https://ja.wikipedia.org/wiki/Category:1964年設立の企業 "wikilink") [Category:2001年設立の企業](https://ja.wikipedia.org/wiki/Category:2001年設立の企業 "wikilink")
 
 1.
 2.

@@ -6,7 +6,7 @@
 ## メンバー
 
   - 橘 哲夫（たちばな てつお、[1976年](../Page/1976年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink") - ）
-    [新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")出身。[早稲田大学](../Page/早稲田大学.md "wikilink")卒業。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。AJIのリーダー。リードボーカル、2nd,3rdコーラス担当。AJIの作詞・作曲・編曲の大半を手掛ける。ライブでピアノ伴奏も。
+    [新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")出身。[早稲田大学](../Page/早稲田大学.md "wikilink")卒業。[血液型は](../Page/ABO式血液型.md "wikilink")[B型](../Page/ABO式血液型.md "wikilink")。AJIのリーダー。リードボーカル、2nd,3rdコーラス担当。AJIの作詞・作曲・編曲の大半を手掛ける。ライブでピアノ伴奏も。
 
 <!-- end list -->
 
@@ -258,7 +258,7 @@
 
   - [Vocal Group AJI - 公式サイト](http://www.ajiaji.jp/)
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink") [Category:1997年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に結成した音楽グループ "wikilink") [Category:2015年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2015年に解散した音楽グループ "wikilink")
+[Category:日本のボーイ・バンド](https://ja.wikipedia.org/wiki/Category:日本のボーイ・バンド "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink") [Category:1997年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に結成した音楽グループ "wikilink") [Category:2015年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2015年に解散した音楽グループ "wikilink")
 
 1.  [Vocal Group AJIからのお知らせ](https://www.ajiaji.jp/news/?p=440)
 2.  [NHKみんなのうた](http://cgi2.nhk.or.jp/minna/search/index.cgi?id=MIN201206_02)

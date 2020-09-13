@@ -28,3 +28,4 @@
   - [ナッシュ・メトロポリタン](https://ja.wikipedia.org/wiki/ナッシュ・メトロポリタン "wikilink") () - [ナッシュの乗用車](https://ja.wikipedia.org/wiki/ナッシュ・モーターズ "wikilink")。
   - [モジュラー・エクィップメント・トランスポーター](https://ja.wikipedia.org/wiki/モジュラー・エクィップメント・トランスポーター "wikilink") () - [アポロ計画](../Page/アポロ計画.md "wikilink")で使われた人力の[月面車](../Page/月面車.md "wikilink")。
   - [メトロポリタン・マイアミ](https://ja.wikipedia.org/wiki/メトロポリタン・マイアミ "wikilink") () - [マイアミ](../Page/マイアミ.md "wikilink")の開発地区。
+  - *MET* - タンパク質[c-Met](https://ja.wikipedia.org/wiki/c-Met "wikilink")をコードする遺伝子。

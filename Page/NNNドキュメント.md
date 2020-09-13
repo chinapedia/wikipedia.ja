@@ -1,11 +1,11 @@
 > この記事は[NNNドキュメント](https://ja.wikipedia.org/wiki/NNNドキュメント)から翻訳されています。
 
 
-**NNNドキュメント**（エヌエヌエヌドキュメント）は、[1970年](../Page/1970年.md "wikilink")から放送を開始した[NNN系列の](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")[深夜番組](../Page/深夜番組.md "wikilink")である。放送時の番組タイトルでは「NNNドキュメント'○○」（○○は西暦の下2桁）と表記される。
+『**NNNドキュメント**』（エヌエヌエヌドキュメント）は、[1970年](../Page/1970年.md "wikilink")から放送を開始した[NNN系列の](../Page/日本ニュースネットワーク.md "wikilink")[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")[深夜番組](../Page/深夜番組.md "wikilink")である。放送時の番組タイトルでは「NNNドキュメント'○○」（○○は西暦の下2桁）と表記される。
 
 ## 概要
 
-[1970年](../Page/1970年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink")、放送開始。現在放送中の日本テレビの番組では『[キユーピー3分クッキング（NTVバージョン）](https://ja.wikipedia.org/wiki/キユーピー3分クッキング#NTVバージョン "wikilink")』、『[笑点](https://ja.wikipedia.org/wiki/笑点 "wikilink")』に次いで歴代第3位の[長寿番組である](../Page/長寿番組の一覧.md "wikilink")\[1\]。当初は「番組リーダー」という進行役を置き、[山口崇](../Page/山口崇.md "wikilink")（1970年）、[寺田農](../Page/寺田農.md "wikilink")（[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")・[1972年](../Page/1972年.md "wikilink")）がそれぞれ担当していた。[1973年](../Page/1973年.md "wikilink")に進行役は廃止している\[2\]。
+[1970年](../Page/1970年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink")に放送を開始。現在放送中の日本テレビの番組では『[キユーピー3分クッキング（NTVバージョン）](https://ja.wikipedia.org/wiki/キユーピー3分クッキング#NTVバージョン "wikilink")』、『[笑点](https://ja.wikipedia.org/wiki/笑点 "wikilink")』に次いで歴代第3位の[長寿番組である](../Page/長寿番組の一覧.md "wikilink")\[1\]。当初は「番組リーダー」という進行役を置き、[山口崇](../Page/山口崇.md "wikilink")（1970年）、[寺田農](../Page/寺田農.md "wikilink")（[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")・[1972年](../Page/1972年.md "wikilink")）がそれぞれ担当していた。[1973年](../Page/1973年.md "wikilink")に進行役は廃止している\[2\]。
 
 年々放送時間が後ろにずれていき、通常編成時には日曜23時台開始だったものが、1990年4月から月曜0時台（日曜24時台）開始となり、放送時間が繰り下がる傾向はあるものの、放送開始当初から日曜版の[夜ニュース](../Page/日本テレビ系列深夜ニュース枠.md "wikilink")（[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")→[NNNニュース](../Page/NNNニュース.md "wikilink")→[Going\!Sports\&News](https://ja.wikipedia.org/wiki/Going!Sports&News "wikilink")）の次の枠で放送されている。
 
@@ -50,7 +50,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東広域圏</a></p></td>
 <td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ</a>（NTV）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Nippon_News_Network" title="wikilink">日本テレビ系列</a></p></td>
+<td><p><a href="../Page/日本ニュースネットワーク.md" title="wikilink">日本テレビ系列</a></p></td>
 <td><p>月曜 0:55 - 1:25（日曜深夜）<br />
 または<br />
 月曜 0:55 - 1:50（日曜深夜）</p></td>
@@ -135,7 +135,7 @@ NNN加盟局が無い沖縄県についても取材対象[10]。</p></td>
 <td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
 <td><p><a href="../Page/テレビ新潟放送網.md" title="wikilink">テレビ新潟</a>（TeNY）</p></td>
 <td><p>1981年4月5日開始。<br />
-1981年3月29日まで<a href="https://ja.wikipedia.org/wiki/新潟総合テレビ" title="wikilink">新潟総合テレビ</a>で放送。</p></td>
+1981年3月29日まで<a href="../Page/NST新潟総合テレビ.md" title="wikilink">新潟総合テレビで放送</a>。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -169,7 +169,7 @@ NNN加盟局が無い沖縄県についても取材対象[10]。</p></td>
 <tr class="odd">
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
 <td><p><a href="../Page/福井放送.md" title="wikilink">福井放送</a>（FBC）</p></td>
-<td><p>日本テレビ系列 / <a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列</a><br />
+<td><p>日本テレビ系列 / <a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">テレビ朝日系列</a><br />
 （<a href="../Page/クロスネット局.md" title="wikilink">クロスネット</a>）</p></td>
 <td></td>
 <td></td>
@@ -219,7 +219,7 @@ NNN加盟局が無い沖縄県についても取材対象[10]。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a>（JRT）</p></td>
+<td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a>（JRT）</p></td>
 <td><p>[14]</p></td>
 <td></td>
 <td></td>
@@ -336,7 +336,7 @@ NNN加盟局が無い沖縄県についても取材対象[10]。</p></td>
 <td><p>日曜 11:00 - 11:30<br />
 または<br />
 日曜 11:00 - 11:55</p></td>
-<td><p>参加局ではないが、<br />
+<td><p>制作参加局ではないが、<br />
 <a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a>4月4日より放送開始。</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -386,7 +386,7 @@ NNN加盟局が無い沖縄県についても取材対象[10]。</p></td>
   - [テレメンタリー](../Page/テレメンタリー.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")、[ANN](../Page/オールニッポン・ニュースネットワーク.md "wikilink")）
   - [報道の魂 ザ・フォーカス](https://ja.wikipedia.org/wiki/報道の魂 "wikilink")・JNNルポルタージュ→JNNドキュメンタリー（[TBSテレビ](../Page/TBSテレビ.md "wikilink")、[JNN](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")）
   - [映像](https://ja.wikipedia.org/wiki/映像_\(テレビ番組\) "wikilink")（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
-  - [窓をあけて九州 窓をあけて九州](../Page/窓をあけて九州.md "wikilink")→新・[世界一の九州が始まる\!](https://ja.wikipedia.org/wiki/世界一の九州が始まる! "wikilink")（[e-JNN](https://ja.wikipedia.org/wiki/e-JNN "wikilink")）
+  - [窓をあけて九州 窓をあけて九州](../Page/窓をあけて九州.md "wikilink")→新・[世界一の九州が始まる\!](https://ja.wikipedia.org/wiki/世界一の九州が始まる! "wikilink")（[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")など、[e-JNN](https://ja.wikipedia.org/wiki/e-JNN "wikilink")）
   - [FNSドキュメンタリー大賞](../Page/FNSドキュメンタリー大賞.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[FNN](../Page/フジニュースネットワーク.md "wikilink")・[FNS](../Page/フジネットワーク.md "wikilink")）
   - [ザ・ノンフィクション](../Page/ザ・ノンフィクション.md "wikilink")（フジテレビ）
   - [ザ・ドキュメント](../Page/ザ・ドキュメント.md "wikilink")（[関西テレビ](../Page/関西テレビ放送.md "wikilink")）
@@ -395,8 +395,10 @@ NNN加盟局が無い沖縄県についても取材対象[10]。</p></td>
 
 ## 外部リンク
 
-  - [NNNドキュメント](http://www.ntv.co.jp/document/index.html)
-  - [「NNNドキュメント」インタビュー](http://www.tvco.tv/interview/index.php?action=detail&id=53)（テレビコ）
+  - [NNNドキュメント](https://www.ntv.co.jp/document/) - 番組公式サイト
+
+  -
+  - （テレビコ）
 
 [Category:1970年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1970年のテレビ番組_\(日本\) "wikilink") [Category:NNN番組](https://ja.wikipedia.org/wiki/Category:NNN番組 "wikilink") [Category:日本テレビの深夜番組](https://ja.wikipedia.org/wiki/Category:日本テレビの深夜番組 "wikilink") [Category:日本テレビのドキュメンタリー番組](https://ja.wikipedia.org/wiki/Category:日本テレビのドキュメンタリー番組 "wikilink") [Category:日本テレビの教養番組](https://ja.wikipedia.org/wiki/Category:日本テレビの教養番組 "wikilink") [Category:テレビ放送枠](https://ja.wikipedia.org/wiki/Category:テレビ放送枠 "wikilink")
 

@@ -61,7 +61,7 @@
   - マタハリ（[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")）初代アシスタント
   - [ファッション通信](../Page/ファッション通信.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、1997年）
   - [堂本剛の正直しんどい](../Page/堂本剛の正直しんどい.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")、2008年4月3日）
-  - [しょこ♥リータ](https://ja.wikipedia.org/wiki/しょこリータ "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、2008年10月）「ヌードアート」で[中川翔子](../Page/中川翔子.md "wikilink")とコラボ作品製作
+  - [しょこ♥リータ](https://ja.wikipedia.org/wiki/しょこ♥リータ "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、2008年10月）「ヌードアート」で[中川翔子](../Page/中川翔子.md "wikilink")とコラボ作品製作
 
 ### 映画
 

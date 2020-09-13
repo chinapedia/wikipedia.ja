@@ -5,7 +5,7 @@
 
 ## 概要
 
-任天堂が[1990年代](../Page/1990年代.md "wikilink")に発売した『[ドクターマリオ](../Page/ドクターマリオ.md "wikilink")』『[ヨッシーのクッキー](../Page/ヨッシーのクッキー.md "wikilink")』『[パネルでポン](../Page/パネルでポン.md "wikilink")』のゲームキューブ向け[リメイク](../Page/リメイク.md "wikilink")版と、[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")への転送版を収録した[オムニバス](../Page/オムニバス.md "wikilink")作品である。
+任天堂が[1990年代](../Page/1990年代.md "wikilink")に発売した『[ドクターマリオ](../Page/ドクターマリオ.md "wikilink")』『[ヨッシーのクッキー](../Page/ヨッシーのクッキー.md "wikilink")』『[パネルでポン](../Page/パネルでポン.md "wikilink")』のゲームキューブ向け[リメイク](../Page/リメイク.md "wikilink")版と、[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")への転送版を収録した[オムニバス](../Page/オムニバス.md "wikilink")作品で、パッケージやタイトル画面に、副題『**ドクターマリオ+ヨッシーのクッキー+パネルでポン**』が記載されている。
 
 本作は[GBAケーブル](../Page/GBAケーブル.md "wikilink")によるゲームキューブとゲームボーイアドバンスとの連動を特徴とした。定価は当時のゲームキューブソフトの標準価格より1,000円安く設定され、GBAケーブルも同梱された。ゲームキューブのコントローラポートとゲームボーイアドバンスの通信端子をGBAケーブルで接続すると、ゲームボーイアドバンス本体でゲームを操作することができる。さらに、ゲームボーイアドバンス本体メモリにゲームを転送する機能も用意された。この機能は[ジョイキャリーと呼ばれる](https://ja.wikipedia.org/wiki/GBAケーブル#ジョイキャリー "wikilink")。発売前後には[月刊任天堂店頭デモ](../Page/月刊任天堂店頭デモ.md "wikilink")にて時間制限付きの体験版が公開されるとともに、店舗によってはデモ機にGBAケーブルが接続され、ジョイキャリーによるゲームボーイアドバンス転送版のダウンロードサービスも実施された\[1\]。 任天堂は広報活動にあたり本作が女性からの興味・関心が強いと分析した\[2\]。[テレビCM](https://ja.wikipedia.org/wiki/テレビCM "wikilink")には[安倍麻美](../Page/安倍麻美.md "wikilink")を起用し、任天堂や各[マスコミは彼女のテレビCMデビュー作として報道した](../Page/報道機関.md "wikilink")\[3\]\[4\]。このCMは安倍が友達を家に呼びゲームに興じる内容で、各ゲームの紹介は数秒の画面映像のみに留められた。発売前後には任天堂ホームページ内でCM撮影の様子を紹介したページが公開された\[5\]。店頭で配布されたチラシではピンクと白のチェック模様を背景とし、見開き最上部で妖精の女の子を主人公とした『パネルでポン』の紹介をするなど、女性を強く意識したデザインとなった。
 
@@ -61,7 +61,7 @@
 
 [NINTENDOパズルコレクション](https://www.nintendo.co.jp/ngc/gpzj/)
 
-[Category:アクションパズル](https://ja.wikipedia.org/wiki/Category:アクションパズル "wikilink") [Category:任天堂のオムニバスゲーム](https://ja.wikipedia.org/wiki/Category:任天堂のオムニバスゲーム "wikilink") [Category:ゲームキューブ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームキューブ用ソフト "wikilink") [Category:2003年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2003年のコンピュータゲーム "wikilink")
+[Category:マリオシリーズのパズルゲーム](https://ja.wikipedia.org/wiki/Category:マリオシリーズのパズルゲーム "wikilink") [Category:アクションパズル](https://ja.wikipedia.org/wiki/Category:アクションパズル "wikilink") [Category:任天堂のオムニバスゲーム](https://ja.wikipedia.org/wiki/Category:任天堂のオムニバスゲーム "wikilink") [Category:ゲームキューブ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームキューブ用ソフト "wikilink") [Category:2003年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2003年のコンピュータゲーム "wikilink")
 
 1.
 2.

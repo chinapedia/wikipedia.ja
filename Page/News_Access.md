@@ -87,10 +87,12 @@
   - [中西可奈](../Page/中西可奈.md "wikilink")（☆[鹿児島放送](../Page/鹿児島放送.md "wikilink")）
   - [名久井麻利](../Page/名久井麻利.md "wikilink")（☆[東北放送](../Page/東北放送.md "wikilink")）
   - [西野志海](https://ja.wikipedia.org/wiki/西野志海 "wikilink")（☆[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
+  - [忽滑谷こころ](../Page/忽滑谷こころ.md "wikilink")(☆日本テレビ）
   - 橋本ありす（☆[静岡朝日テレビ](../Page/静岡朝日テレビ.md "wikilink")）
   - [加納有沙](https://ja.wikipedia.org/wiki/加納有沙 "wikilink")（元[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")）
   - [畠山園佳](https://ja.wikipedia.org/wiki/畠山園佳 "wikilink")（[テレビ高知](../Page/テレビ高知.md "wikilink")）
   - [林田理沙](https://ja.wikipedia.org/wiki/林田理沙 "wikilink")（☆NHK）
+  - [藤本万梨乃](https://ja.wikipedia.org/wiki/藤本万梨乃 "wikilink")(☆フジテレビ)
   - [細谷めぐみ](https://ja.wikipedia.org/wiki/細谷めぐみ "wikilink")（☆九州朝日放送）
   - [堀友理子](../Page/堀友理子.md "wikilink")（元[朝日放送](../Page/朝日放送テレビ.md "wikilink")）
   - [前田阿希子](../Page/前田阿希子.md "wikilink")（[毎日放送](../Page/毎日放送.md "wikilink")）

@@ -1,7 +1,7 @@
 > この記事は[INSTANT LOVE HAMMER TRANCE](https://ja.wikipedia.org/wiki/INSTANT_LOVE_HAMMER_TRANCE)から翻訳されています。
 
 
-『**INSTANT LOVE HAMMER TRANCE**』（インスタント・ラブ・ハンマー・トランス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")[BOØWYのセカンドアルバムのリミックス盤](../Page/BOOWY.md "wikilink")。
+『**INSTANT LOVE HAMMER TRANCE**』（インスタント・ラブ・ハンマー・トランス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")[BOØWY](../Page/BOØWY.md "wikilink")のセカンドアルバムのリミックス盤。
 
 [2002年](../Page/2002年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")に[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")よりリリースされた。
 

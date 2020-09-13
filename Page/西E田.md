@@ -42,7 +42,10 @@
 ### その他
 
   - [OVA](../Page/OVA.md "wikilink")『**Valentine Days**』マヨちゃんデザイン
-  - テレビアニメ『[月詠](../Page/月詠.md "wikilink")』アイキャッチイラスト
+  - テレビアニメ『[月詠 -MOON PHASE-](../Page/月詠.md "wikilink")』（第22話）アイキャッチイラスト
+  - テレビアニメ『[神のみぞ知るセカイ](https://ja.wikipedia.org/wiki/神のみぞ知るセカイ "wikilink")』（第7話）予告イラスト
+  - テレビアニメ『[夜桜四重奏 〜ハナノウタ〜](../Page/夜桜四重奏_〜ヨザクラカルテット〜.md "wikilink")』（第10話）エンドカードイラスト
+  - テレビアニメ『[輪廻のラグランジェ season2](https://ja.wikipedia.org/wiki/輪廻のラグランジェ "wikilink")』（第6話）エンドカードイラスト
 
 ## 脚注
 

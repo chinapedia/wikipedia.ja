@@ -29,7 +29,7 @@
 
 <div class="NavContent" style="text-align: left;">
 
-**（ごとう まさふみ、 - 、[血液型O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")担当。**\[7\]
+**（ごとう まさふみ、 - 、[血液型O型](../Page/ABO式血液型.md "wikilink")）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")担当。**\[7\]
 
 </div>
 
@@ -310,6 +310,7 @@
       - [9月26日](../Page/9月26日.md "wikilink")、25thシングル「ボーイズ&ガールズ」をリリース。
       - [12月5日](../Page/12月5日.md "wikilink")、前作『[Wonder Future](https://ja.wikipedia.org/wiki/Wonder_Future "wikilink")』以来、3年半ぶりとなる9thアルバム「ホームタウン」をリリース。初回限定盤には、3月に発売された「BEST HIT AKG 2 (2012-2018)」に収録された「生者のマーチ」を含む新曲5曲が入っているep「Can’t Sleep EP」が付属された。
   - **[2019年](../Page/2019年.md "wikilink")**
+      - [3月1日](../Page/3月1日.md "wikilink")、[平成アニソン大賞](https://ja.wikipedia.org/wiki/平成アニソン大賞 "wikilink")において「リライト」がアーティストソング賞（2000年 - 2009年）に選出\[20\]。
       - [5月15日](../Page/5月15日.md "wikilink")、26thシングル「[Dororo/解放区](https://ja.wikipedia.org/wiki/Dororo/解放区 "wikilink")」をリリース。「Dororo」はテレビアニメ「[どろろ](https://ja.wikipedia.org/wiki/どろろ_\(アニメ\) "wikilink")」のオープニングテーマとして書き下ろされた。この曲について後藤は『原作である手塚漫画に恥じないよう、思いを込めて楽曲を制作しました』とコメントしている。
 
 ## ライブ・ツアー
@@ -1824,7 +1825,7 @@ CTCR-40362</p></td>
 LPレコード</p></td>
 <td><p>UPCH-2065<br />
 UPJH-9016</p></td>
-<td><p>グラスホッパー [20]</p></td>
+<td><p>グラスホッパー [21]</p></td>
 <td><p>15位</p></td>
 </tr>
 <tr class="even">
@@ -1881,8 +1882,8 @@ TYCT-60109</p></td>
 
   - [BPR5000](../Page/BPR5000.md "wikilink")（[TOKYO FM](../Page/エフエム東京.md "wikilink")）
   - [MOTHER MUSIC RECORDS](../Page/MOTHER_MUSIC_RECORDS.md "wikilink")（TOKYO FM）
-  - [SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink")、『[アジカン LOCKS\!](https://ja.wikipedia.org/wiki/ARTIST_LOCKS!#アジカン_LOCKS! "wikilink")』（[JFN](../Page/全国FM放送協議会.md "wikilink")・TOKYO FM、番組開始 - 2009年3,2010年4月 - 2010年9月,2014年4月[火曜日](../Page/火曜日.md "wikilink")、以後はネットにて不定期放送されている。）
-  - [僕らの音楽](https://ja.wikipedia.org/wiki/僕らの音楽 "wikilink")（フジテレビ）2012年1月20日\[21\]
+  - 『[SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink")』内「[アジカン LOCKS\!](../Page/ARTIST_LOCKS!.md "wikilink")」（[JFN系列](../Page/全国FM放送協議会.md "wikilink")、2005年10月5日 - 2009年3月4日、2010年4月7日 - 9月29日、2011年12月5日 - 2012年3月26日、2014年4月1日 - 29日、ネットにて放送された時期もあった）
+  - [僕らの音楽](https://ja.wikipedia.org/wiki/僕らの音楽 "wikilink")（フジテレビ）2012年1月20日\[22\]
 
 ## 脚注
 
@@ -1901,7 +1902,7 @@ TYCT-60109</p></td>
 
       - （後藤が作る新聞用のアカウント。かつては"g_interview"のアカウント名で、アルバム『マジックディスク』の質疑応答に使用していた。その後しばらくは"g_info"のアカウント名で『大喜利専用アカウント』としていた。）
 
-[Category:ASIAN_KUNG-FU_GENERATION](https://ja.wikipedia.org/wiki/Category:ASIAN_KUNG-FU_GENERATION "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:パワー・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:パワー・ポップ・バンド "wikilink") [Category:ミクスチャー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ミクスチャー・ロック・バンド "wikilink") [Category:ポップ・パンク・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・パンク・バンド "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:SCHOOL_OF_LOCK\!](https://ja.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
+[Category:ASIAN_KUNG-FU_GENERATION](https://ja.wikipedia.org/wiki/Category:ASIAN_KUNG-FU_GENERATION "wikilink") [Category:日本のポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のポップ・ロック・バンド "wikilink") [Category:パワー・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:パワー・ポップ・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:ミクスチャー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ミクスチャー・ロック・バンド "wikilink") [Category:ポップ・パンク・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・パンク・バンド "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:SCHOOL_OF_LOCK\!](https://ja.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
 
 1.  「音楽と人」2008年11月号より
 2.
@@ -1923,4 +1924,5 @@ TYCT-60109</p></td>
 18.
 19.
 20.
-21. <http://natalie.mu/music/news/61488>
+21.
+22. <http://natalie.mu/music/news/61488>

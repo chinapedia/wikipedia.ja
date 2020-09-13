@@ -17,7 +17,8 @@
 
   - 2009年度までは毎時00分（正時）から15分間（休日は10分間）の放送だったが、2010年度からは毎時50分から00分までの10分間番組に変更された。
   - 2017年4月3日から、それまでの毎時50分からの放送が一部変更され、基本的に深夜0:50-4:50までの放送は休止（突発的な事件・事故・自然災害などがあったときは原則として総合テレビで放送）となり、1日の初回は5:50、最終回は23:50の1日最大19回の放送となる\[2\]。またこれに伴い、スポーツ中継の中断時を除き、番組放送中は常時時刻表示を行う（一部のニュース項目の放送時には消去）。
-  - 2019年9月30日放送分から、平日の12:50と18:50放送分については放送開始を5分繰り上げて、それぞれ12:45と18:45から15分間ずつの「BSニュース4K」として[NHK BS4Kと同時サイマル放送を実施する](https://ja.wikipedia.org/wiki/NHK_BS4K "wikilink")。土・日曜日と祝日（年末年始以外）は18:50の放送のみ\[3\]。2020年3月30日放送分からは夕方の放送が1時間繰り上げとなり、平日は17:45から、土・日曜日と祝日は17:50からに変更となる\[4\]。ただし、スポーツ中継など、やむを得ない事情で同時放送できない場合は、BS1とBS4Kで別内容のBSニュースを伝える。
+  - 2019年9月30日放送分から、平日の12:50と18:50放送分については放送開始を5分繰り上げて、それぞれ12:45と18:45から15分間ずつの「BSニュース4K」として[NHK BS4Kと同時サイマル放送を実施する](https://ja.wikipedia.org/wiki/NHK_BS4K "wikilink")。土・日曜日と祝日（年末年始以外）は18:50の放送のみ\[3\]。2020年3月30日放送分からは夕方の放送が1時間繰り上げとなり、平日は17:45から、土・日曜日と祝日は17:50からに変更となる\[4\]。ただし、[スポーツ中継](../Page/スポーツ中継.md "wikilink")など、編成上の都合で両チャンネルにての同時放送ができない場合\[5\]、BS1で放送不可の場合はBS4K向けへの[裏送り](../Page/裏送り.md "wikilink")、BS4Kで放送不可となり、BS1のみの放送となる場合は通常のBSニュースを放送する。
+  - 2020年4月4日の放送から、土曜・日曜・祝日については初回放送が8:50に繰り下げられ、最終回の23:50開始分まで最大16回のみとなった\[6\]。また、[新型コロナウイルスによる報道体制のため](https://ja.wikipedia.org/wiki/重症急性呼吸器症候群コロナウイルス2型 "wikilink")、4－6月の15:50の回が放送休止となった日がある。
 
 ### スポーツ中継時の対応
 
@@ -27,7 +28,7 @@
 
 <!-- end list -->
 
-  - 毎時50分を過ぎて、最初の攻守交代もしくは投手交代が始まってから約2分間\[5\]。ただし、9イニング目の交代時で延長戦がないと判断された場合は、ニュースを挟まず試合終了まで中継し、終了後に放送。放送時間は状況に応じて勘案され、次の50分に近い時間帯（概ね30-40分台）に終わった場合には、中継終了後別のフィラー番組を挟んで、50分からの通常版を放送する。
+  - 毎時50分を過ぎて、最初の攻守交代もしくは投手交代が始まってから約2分間\[7\]。ただし、9イニング目の交代時で延長戦がないと判断された場合は、ニュースを挟まず試合終了まで中継し、終了後に放送。放送時間は状況に応じて勘案され、次の50分に近い時間帯（概ね30-40分台）に終わった場合には、中継終了後別のフィラー番組を挟んで、50分からの通常版を放送する。
 
 <!-- end list -->
 
@@ -79,14 +80,14 @@
       - VTR中は概要を右上に[テロップで表示する](../Page/スーパーインポーズ_\(映像編集\).md "wikilink")（2017年4月2日までは朝の時報スーパーが表示されていなかった時間帯は左上だった）。
       - 概要テロップは総合テレビでは表示される「\[訃報\]」や「\[独自\]」や「\[速報\]」などの文字はない。
       - 概要テロップは総合テレビでは内容により黒色・赤色・青色の文字が使われるが、BSニュースでは黒色の文字で統一されている。
-      - ニュース映像は総合テレビで一度放送した映像を二次使用することがある（内容によってはテロップ・音声も総合テレビで放送された映像で、画面の[ニュース7などの番組ロゴはBSニュースのロゴに差し替える](https://ja.wikipedia.org/wiki/NHKニュース7 "wikilink")）。
+      - ニュース映像は総合テレビで一度放送した映像を二次使用することがある（内容によってはテロップ・音声も総合テレビで放送された映像で（画面右上の項目テロップはBSニュースのものに差し替え）、画面の[ニュース7などの番組ロゴはBSニュースのロゴに差し替える](https://ja.wikipedia.org/wiki/NHKニュース7 "wikilink")）。
           - また、[ニュースウオッチ9](../Page/ニュースウオッチ9.md "wikilink")などで放送された特集を短く編集したものを放送することもある（これは[ラジオ深夜便](../Page/ラジオ深夜便.md "wikilink")の正時のニュースでも同様）
 4.  その他のニュース※
       - 概要を上記と同様の形式でテロップ表示（2015年[3月28日](../Page/3月28日.md "wikilink")午前5:50開始相当分までは一律右下に表示）。
 5.  株式・為替市況※
       - 平日のみ。[東京が休止している時間帯では](../Page/東京証券取引所.md "wikilink")、[ニューヨークの](../Page/ニューヨーク証券取引所.md "wikilink")[ダウ平均株価](https://ja.wikipedia.org/wiki/ダウ平均株価 "wikilink")と[NASDAQ指数を紹介する](../Page/ナスダック総合指数.md "wikilink")。総合テレビと異なり、株価・為替の読み上げは行われない。
 6.  [気象情報](../Page/気象情報_\(NHK\).md "wikilink")（※）
-      - [気象衛星](../Page/気象衛星.md "wikilink")の画像、全国の天気\[6\]・週間予報\[7\]（残り時間が足りない場合、一部省略有り）
+      - [気象衛星](../Page/気象衛星.md "wikilink")の画像、全国の天気\[8\]・週間予報\[9\]（残り時間が足りない場合、一部省略有り）
           - 6時台・7時台・16時台は、日本地図の前に各時50分の気温・降水量・風速・風向とともに、東京都心各地点に設置されたお天気カメラからの映像が流れる。
 7.  挨拶 → エンディング映像
       - [情報カメラ](https://ja.wikipedia.org/wiki/情報カメラ "wikilink")からの映像を背景に、メインニュースの短冊3項目で締める。
@@ -108,10 +109,10 @@
 
 <!-- end list -->
 
-  - 海外向けの[NHKワールド](https://ja.wikipedia.org/wiki/NHKワールド "wikilink")・プレミアムでも、[総合テレビのメインニュース](../Page/NHK総合テレビジョン.md "wikilink")\[8\] を同時放送している時間帯を除き、1日5回程度、主に日本時間の深夜時間帯（全曜日）と昼間の時間帯（土・日が中心）で同時放送あるいは時差放送される。また、平日の午前・昼間時間帯でも[国会中継](../Page/国会中継.md "wikilink")や高校野球中継（準決勝・決勝は除く）その他特別番組の編成で総合テレビの『[NHKニュース](../Page/NHKニュース.md "wikilink")』が放送されない時にも本番組が同時放送あるいは時差放送されることがある。
+  - 海外向けの[NHKワールド](https://ja.wikipedia.org/wiki/NHKワールド "wikilink")・プレミアムでも、[総合テレビのメインニュース](../Page/NHK総合テレビジョン.md "wikilink")\[10\] を同時放送している時間帯を除き、1日5回程度、主に日本時間の深夜時間帯（全曜日）と昼間の時間帯（土・日が中心）で同時放送あるいは時差放送される。また、平日の午前・昼間時間帯でも[国会中継](../Page/国会中継.md "wikilink")や高校野球中継（準決勝・決勝は除く）その他特別番組の編成で総合テレビの『[NHKニュース](../Page/NHKニュース.md "wikilink")』が放送されない時にも本番組が同時放送あるいは時差放送されることがある。
   - 放送時間が5分未満（3分間など）の場合、海外向けの放送では同時・時差にかかわらず放送されない。
   - [NHKワールドTV](../Page/NHKワールドTV.md "wikilink")では2009年2月1日まで平日が1日16回程度、土日は1日11回程度放送されていたが、完全英語放送による大幅な番組改編により打ち切りとなった（最後の放送は2月2日の7:00（6:00の時差放送分）からだった）。
-  - NHKワールド・プレミアムでは主にニュース・情報番組ではノンスクランブル放送を行うが、『BSニュース』はどの時間帯も通常はノンスクランブル放送の対象にはなっていない。ただし、重大なニュースがあった場合やノンスクランブル放送対象である総合テレビの定時ニュースが番組編成の都合で放送できない場合の代替番組として特別にノンスクランブル放送を行う場合がある。\[9\]
+  - NHKワールド・プレミアムでは主にニュース・情報番組ではノンスクランブル放送を行うが、『BSニュース』はどの時間帯も通常はノンスクランブル放送の対象にはなっていない。ただし、重大なニュースがあった場合やノンスクランブル放送対象である総合テレビの定時ニュースが番組編成の都合で放送できない場合の代替番組として特別にノンスクランブル放送を行う場合がある。\[11\]
   - 番組表は、日本語では『**BSニュース**』と表記されるが、英語では『**NHK News**』と表記される（BS=放送衛星の略語が日本国内でしか通用していないための配慮と見られる）。ちなみに総合テレビ『NHKニュース』は単に『News』と英語表記される（日本語では『ニュース』と表記）。
   - 日本国内向け放送の番組編成に合わせて放送されているため、各種スポーツ中継が延長した時など定時に放送できない場合は、NHKワールド単独で時差放送（前時間の再放送や国内向け放送の異時放送）を行ったり、同時放送もしくは時差放送の総合テレビ『[NHKニュース](../Page/NHKニュース.md "wikilink")』など別番組に差し替えることもある。また、地上アナログ放送の[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")番組である『NHK文字ニュース』に差し替えていたこともあった。
 
@@ -125,7 +126,7 @@
 
 ### 『BSニュース50』との関係
 
-  - 2004年にBS1の全面改編の発表した際に「『NHK BSニュース』を**新設**」という表現\[10\] を使っており、『BSニュース50』とは無関係の新番組として扱われた。新「BSニュース」は2004年11月1日午前5時放送回から開始された。開始当初から2010年3月28日までは、スポーツ生中継時など一部の例外除いて原則として毎時00分からの放送であるが、時間帯により10分枠と15分枠とに分かれていた。
+  - 2004年にBS1の全面改編の発表した際に「『NHK BSニュース』を**新設**」という表現\[12\] を使っており、『BSニュース50』とは無関係の新番組として扱われた。新「BSニュース」は2004年11月1日午前5時放送回から開始された。開始当初から2010年3月28日までは、スポーツ生中継時など一部の例外除いて原則として毎時00分からの放送であるが、時間帯により10分枠と15分枠とに分かれていた。
 
 ## 出演者
 
@@ -144,19 +145,19 @@
   - [阪田陽子](https://ja.wikipedia.org/wiki/阪田陽子 "wikilink") - より
   - [徳田琴美](https://ja.wikipedia.org/wiki/徳田琴美 "wikilink") - より
   - [岡{{ruby](https://ja.wikipedia.org/wiki/岡裕美 "wikilink") - より
-  - [福永美春](https://ja.wikipedia.org/wiki/福永美春 "wikilink") - より
+  - [福永美春](../Page/福永美春.md "wikilink") - より
 
 <!-- end list -->
 
-  - 平日のBSニュース4K専任
+  - 平日のBSニュース4K専任\[13\]
 
 <!-- end list -->
 
-  - [糸井羊司](../Page/糸井羊司.md "wikilink") - より
   - [後藤康之](https://ja.wikipedia.org/wiki/後藤康之_\(アナウンサー\) "wikilink") - より
   - [丹沢研二](../Page/丹沢研二.md "wikilink") - より
   - [浅野達朗](https://ja.wikipedia.org/wiki/浅野達朗 "wikilink") - より
   - [比田美仁](https://ja.wikipedia.org/wiki/比田美仁 "wikilink") - より
+  - [吉田浩](https://ja.wikipedia.org/wiki/吉田浩 "wikilink") - より
   - [吉井明子](https://ja.wikipedia.org/wiki/吉井明子 "wikilink") - より（[気象情報](../Page/気象情報_\(NHK\).md "wikilink")）
 
 ### 歴代のキャスター
@@ -165,7 +166,7 @@
 <thead>
 <tr class="header">
 <th><p>年度</p></th>
-<th><p>男性アナウンサー[11]</p></th>
+<th><p>男性アナウンサー[14]</p></th>
 <th><p>女性キャスター</p></th>
 </tr>
 </thead>
@@ -182,11 +183,11 @@
 <td><ul>
 <li><a href="../Page/池崎美盤.md" title="wikilink">池崎美盤</a></li>
 <li><a href="../Page/栗本法子.md" title="wikilink">栗本法子</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/伊藤奈美" title="wikilink">伊藤奈美</a></li>
+<li><a href="../Page/伊藤奈美.md" title="wikilink">伊藤奈美</a></li>
 <li>伊藤和美</li>
 <li><a href="../Page/平尾由希.md" title="wikilink">平尾由希</a></li>
 <li><a href="../Page/江崎友基子.md" title="wikilink">江崎友基子</a></li>
-<li>中村麦香[12]（- ）</li>
+<li>中村麦香[15]（- ）</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -203,7 +204,7 @@
 <li>安藤和美 （旧姓：伊藤）</li>
 <li>平尾由希</li>
 </ul>
-<p>* 中村麦香[13]（ -{{Dts</p></td>
+<p>* 中村麦香[16]（ -{{Dts</p></td>
 </tr>
 <tr class="odd">
 <td><p>2006年</p></td>
@@ -217,7 +218,7 @@
 <li>伊藤奈美</li>
 <li>平尾由希</li>
 <li>小川まどか</li>
-<li><a href="../Page/斎藤綾乃.md" title="wikilink">斎藤綾乃</a>[14]</li>
+<li><a href="../Page/斎藤綾乃.md" title="wikilink">斎藤綾乃</a>[17]</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -230,7 +231,7 @@
 <td><ul>
 <li>栗本法子</li>
 <li>平尾由希</li>
-<li>斎藤綾乃[15]</li>
+<li>斎藤綾乃[18]</li>
 <li><a href="../Page/島ひとみ.md" title="wikilink">島ひとみ</a></li>
 <li><a href="../Page/藤田真奈美.md" title="wikilink">藤田真奈美</a></li>
 </ul></td>
@@ -256,7 +257,7 @@
 </ul></td>
 <td><ul>
 <li>平尾由希</li>
-<li>斎藤綾乃[16]</li>
+<li>斎藤綾乃[19]</li>
 <li>島ひとみ</li>
 <li>藤田真奈美</li>
 <li>結野亜希</li>
@@ -300,10 +301,10 @@
 <li><a href="../Page/片山智彦.md" title="wikilink">片山智彦</a></li>
 </ul></td>
 <td><ul>
-<li>結野亜希[17]</li>
+<li>結野亜希[20]</li>
 <li>堤真由美</li>
 <li>栗本祐子</li>
-<li><a href="../Page/倉見慶子.md" title="wikilink">倉見慶子</a>[18]</li>
+<li><a href="../Page/倉見慶子.md" title="wikilink">倉見慶子</a>[21]</li>
 <li><a href="https://ja.wikipedia.org/wiki/上代真希" title="wikilink">上代真希</a></li>
 </ul></td>
 </tr>
@@ -317,8 +318,8 @@
 <li>倉見慶子</li>
 <li>上代真希</li>
 <li><a href="https://ja.wikipedia.org/wiki/工藤紋子" title="wikilink">工藤紋子</a></li>
-<li><a href="../Page/堀友理子.md" title="wikilink">堀友理子</a>[19]</li>
-<li><a href="../Page/實石あづさ.md" title="wikilink">實石あづさ</a>[20]</li>
+<li><a href="../Page/堀友理子.md" title="wikilink">堀友理子</a>[22]</li>
+<li><a href="../Page/實石あづさ.md" title="wikilink">實石あづさ</a>[23]</li>
 <li><a href="https://ja.wikipedia.org/wiki/井上真帆" title="wikilink">井上真帆</a>（- ）</li>
 </ul></td>
 </tr>
@@ -347,7 +348,7 @@
 </tr>
 <tr class="odd">
 <td><p>2016年<br />
-[21]</p></td>
+[24]</p></td>
 <td><ul>
 <li>伊藤博英</li>
 </ul></td>
@@ -371,7 +372,7 @@
 <li>竹村優香</li>
 <li>長谷川静香</li>
 </ul>
-<p>* 實石あづさ[22]（{{Dts</p></td>
+<p>* 實石あづさ[25]（{{Dts</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
@@ -387,7 +388,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/笠井美穂" title="wikilink">笠井美穂</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/河野千秋" title="wikilink">河野千秋</a></li>
 </ul>
-<p>* <a href="../Page/秋山千鶴.md" title="wikilink">秋山千鶴</a>[23]（{{Dts</p></td>
+<p>* <a href="../Page/秋山千鶴.md" title="wikilink">秋山千鶴</a>[26]（{{Dts</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
@@ -2502,7 +2503,7 @@
 <tr class="odd">
 <td><p>9時</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小川まどか" title="wikilink">小川まどか</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊藤奈美" title="wikilink">伊藤奈美</a></p></td>
+<td><p><a href="../Page/伊藤奈美.md" title="wikilink">伊藤奈美</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2857,7 +2858,7 @@
 </tr>
 <tr class="even">
 <td><p>女性A</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊藤奈美" title="wikilink">伊藤奈美</a></p></td>
+<td><p><a href="../Page/伊藤奈美.md" title="wikilink">伊藤奈美</a></p></td>
 <td><p>小川まどか</p></td>
 <td><p>伊藤和美</p></td>
 <td></td>
@@ -2942,7 +2943,7 @@
 
 ## 月刊\!ジョセイメセン
 
-  - 2017年4月から7月まで毎月1回に編成された[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。当該番組の[スピンオフ](../Page/スピンオフ.md "wikilink")の扱いで、女性キャスター2〜3人とゲスト1人が出演し、『BSニュース』で取り扱う国内外のニュースとは別に一人の女性の視点からチョイスしたユルいニュースと1か月間のニュース事項で特に注目すべき話題を取り上げ、キャスター自らのロケに出向き、関係者・有識者へのインタビュー取材を行うことで問題点を探る構成である\[24\]。また、演出もBSニュースと比較し、セットも女性的な小物が置かれ、立ちイスで一箇所に固まり、出演者の手元にはノートPCを設置する。
+  - 2017年4月から7月まで毎月1回に編成された[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。当該番組の[スピンオフ](../Page/スピンオフ.md "wikilink")の扱いで、女性キャスター2〜3人とゲスト1人が出演し、『BSニュース』で取り扱う国内外のニュースとは別に一人の女性の視点からチョイスしたユルいニュースと1か月間のニュース事項で特に注目すべき話題を取り上げ、キャスター自らのロケに出向き、関係者・有識者へのインタビュー取材を行うことで問題点を探る構成である\[27\]。また、演出もBSニュースと比較し、セットも女性的な小物が置かれ、立ちイスで一箇所に固まり、出演者の手元にはノートPCを設置する。
   - 放送時間は22:00から22:50
   - テーマソングは『アラジン』 （[水曜日のカンパネラ](https://ja.wikipedia.org/wiki/水曜日のカンパネラ "wikilink")）
 
@@ -2952,7 +2953,7 @@
 <tr class="header">
 <th><p>放送日</p></th>
 <th><p>メインテーマ</p></th>
-<th><p>出演者[25]</p></th>
+<th><p>出演者[28]</p></th>
 <th><p>キャスターセレクト</p></th>
 <th><p>アシスタント</p></th>
 </tr>
@@ -2961,7 +2962,7 @@
 <tr class="odd">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東日本大震災" title="wikilink">東日本大震災</a>の自主避難をしている女性達の現状<sub>（杉本）</sub><br />
-世界で輝く日本人女性[26]<sub>（高嶋）</sub></p></td>
+世界で輝く日本人女性[29]<sub>（高嶋）</sub></p></td>
 <td><p>上代真希</p></td>
 <td><p>消える<a href="../Page/ポテトチップス.md" title="wikilink">ポテチ</a></p></td>
 <td><p><a href="../Page/高木康博.md" title="wikilink">高木康博</a></p></td>
@@ -2982,7 +2983,7 @@
 </tr>
 <tr class="even">
 <td><p><br />
-[27]</p></td>
+[30]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/待機児童" title="wikilink">待機児童</a>問題<sub>（實石）</sub></p></td>
 <td><p>高嶋未希</p></td>
 <td><p>楽しみながら学ぶ（デジタル教材と<a href="https://ja.wikipedia.org/wiki/うんこ漢字ドリル" title="wikilink">うんこ漢字ドリル</a>）</p></td>
@@ -3004,17 +3005,17 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/NHK青森放送局#キャスター" title="wikilink">亀谷渉子</a></p></td>
-<td><p><a href="../Page/シッティングバレーボール.md" title="wikilink">シッティングバレーボール</a>、<a href="https://ja.wikipedia.org/wiki/青天の霹靂_(米)" title="wikilink">青森の特A米</a>[28]</p></td>
+<td><p><a href="../Page/シッティングバレーボール.md" title="wikilink">シッティングバレーボール</a>、<a href="https://ja.wikipedia.org/wiki/青天の霹靂_(米)" title="wikilink">青森の特A米</a>[31]</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><br />
-[29]</p></td>
-<td><p>歯止めの掛からない<a href="../Page/少子化.md" title="wikilink">少子化</a><sub>（外村）</sub>[30]</p></td>
+[32]</p></td>
+<td><p>歯止めの掛からない<a href="../Page/少子化.md" title="wikilink">少子化</a><sub>（外村）</sub>[33]</p></td>
 <td><p>上代真希</p></td>
-<td><p>「母親を尊敬」[31]</p></td>
+<td><p>「母親を尊敬」[34]</p></td>
 <td><p><a href="../Page/塩澤大輔.md" title="wikilink">塩澤大輔</a></p></td>
 </tr>
 <tr class="odd">
@@ -3040,7 +3041,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p>どこが6点!?[32] 有働由美子の経歴</p></td>
+<td><p>どこが6点!?[35] 有働由美子の経歴</p></td>
 <td><p>上代真希</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/求人倍率#新規求人倍率及び有効求人倍率" title="wikilink">有効求人倍率</a>（介護現場の離職と人手不足の取材VTR）</p></td>
 <td></td>
@@ -3048,14 +3049,14 @@
 <tr class="odd">
 <td><p>高嶋未希</p></td>
 <td><p>「<a href="../Page/リカちゃん.md" title="wikilink">リカちゃん</a>」誕生50周年<br />
-<a href="https://ja.wikipedia.org/wiki/平成29年7月九州北部豪雨" title="wikilink">平成29年7月九州北部豪雨</a>のその後[33]</p></td>
+<a href="https://ja.wikipedia.org/wiki/平成29年7月九州北部豪雨" title="wikilink">平成29年7月九州北部豪雨</a>のその後[36]</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/有働由美子" title="wikilink">有働由美子</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドナルド・トランプ" title="wikilink">ドナルド・トランプ</a> <a href="../Page/アメリカ合衆国大統領.md" title="wikilink">アメリカ合衆国大統領</a>就任から半年[34]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ドナルド・トランプ" title="wikilink">ドナルド・トランプ</a> <a href="../Page/アメリカ合衆国大統領.md" title="wikilink">アメリカ合衆国大統領</a>就任から半年[37]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3093,16 +3094,16 @@
 2.
 3.
 4.
-5.  [EPG上では](https://ja.wikipedia.org/wiki/電子番組表 "wikilink")1分40秒間で、『＜中断＞（XX:50）～（XX:51.40）BSニュース』などと表記される。
-6.  [札幌](https://ja.wikipedia.org/wiki/札幌市 "wikilink")・[旭川](../Page/旭川市.md "wikilink")・[帯広](../Page/帯広市.md "wikilink")・[釧路](../Page/釧路市.md "wikilink")・[青森](https://ja.wikipedia.org/wiki/青森市 "wikilink")・[盛岡](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")・[仙台](../Page/仙台市.md "wikilink")・[山形](../Page/山形市.md "wikilink")・[宇都宮](https://ja.wikipedia.org/wiki/宇都宮市 "wikilink")・東京・[父島](../Page/小笠原村.md "wikilink")・[長野](../Page/長野市.md "wikilink")・[新潟](https://ja.wikipedia.org/wiki/新潟市 "wikilink")・[金沢](https://ja.wikipedia.org/wiki/金沢市 "wikilink")・[名古屋](../Page/名古屋市.md "wikilink")・[大阪](../Page/大阪市.md "wikilink")・[松江](../Page/松江市.md "wikilink")・[広島](https://ja.wikipedia.org/wiki/広島市 "wikilink")・[高松](https://ja.wikipedia.org/wiki/高松市 "wikilink")・[高知](../Page/高知市.md "wikilink")・[福岡](https://ja.wikipedia.org/wiki/福岡市 "wikilink")・[熊本](https://ja.wikipedia.org/wiki/熊本市 "wikilink")・[鹿児島](../Page/鹿児島市.md "wikilink")・[那覇](../Page/那覇市.md "wikilink")・[南大東島](../Page/南大東村.md "wikilink")・[石垣島](../Page/石垣市.md "wikilink")
-7.  時間帯により全国主要都市を1枚で示す場合と、東日本と西日本の2枚とで示す場合とがある。1回で放送する場合、札幌・仙台・新潟・東京・名古屋・大阪・広島・福岡・那覇の9都市、2回に分けて放送する場合、前半は札幌・釧路・[秋田](../Page/秋田市.md "wikilink")・仙台・新潟・長野・東京・名古屋、後半は大阪・松江・広島・高知・福岡・鹿児島・那覇・南大東の計16都市。
-8.  『[NHKニュースおはよう日本](../Page/NHKニュースおはよう日本.md "wikilink")』、『正午のニュース』、『午後6時のニュース』、『[NHKニュース7](https://ja.wikipedia.org/wiki/NHKニュース7 "wikilink")』、『[ニュースウオッチ9](../Page/ニュースウオッチ9.md "wikilink")』その他、総合テレビの定時ニュース。
-9.  これまでの実施事例としては、[バンクーバーオリンピック](https://ja.wikipedia.org/wiki/バンクーバーオリンピック "wikilink")期間中は一部時間帯（主に週末のJST10時台と22時台および次番組にバンクーバーオリンピックハイライトが組まれている時間帯。すべて時差放送）においてノンスクランブル放送された。また、[2010 FIFAワールドカップ期間中も一部日程](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink")・時間帯で通常ノンスクランブル放送を行っている総合テレビの定時ニュースが放送できない際の差し替えでもノンスクランブル放送が行なわれ、[2011年](../Page/2011年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")の[第61回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦 "wikilink")の[再放送](../Page/再放送.md "wikilink")内（JST7:20-11:40）の中断ニュース（JST9:15-9:25。BS1でJST8:50-9:00放送分の時差放送）、2011年4月3日以降の[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")関連の特設ニュース期間（日中時間帯の一部）でもノンスクランブル放送が行なわれた。2012年のロンドンオリンピック期間中は午前と夜間の時間帯（8月4日と11日は正午前も）を中心に総合テレビの定時ニュースの放送がない（または予定していた時差放送が総合テレビの放送時間変更によりなくなった）際にもノンスクランブル放送を実施した。
-10. （平成16年9月22日付）
-11. 徹宵番担当者を除く。
-12.
-13.
-14.
+5.  主に『[NHKプロ野球](../Page/NHKプロ野球.md "wikilink")』・『[メジャーリーグ中継](../Page/メジャーリーグ中継_\(NHK\).md "wikilink")』（BS1）や『[大相撲中継](../Page/大相撲中継.md "wikilink")』（BS4K。2020年7月場所から）が該当。
+6.
+7.  [EPG上では](https://ja.wikipedia.org/wiki/電子番組表 "wikilink")1分40秒間で、『＜中断＞（XX:50）～（XX:51.40）BSニュース』などと表記される。
+8.  [札幌](https://ja.wikipedia.org/wiki/札幌市 "wikilink")・[旭川](../Page/旭川市.md "wikilink")・[帯広](../Page/帯広市.md "wikilink")・[釧路](../Page/釧路市.md "wikilink")・[青森](https://ja.wikipedia.org/wiki/青森市 "wikilink")・[盛岡](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")・[仙台](../Page/仙台市.md "wikilink")・[山形](../Page/山形市.md "wikilink")・[宇都宮](https://ja.wikipedia.org/wiki/宇都宮市 "wikilink")・東京・[父島](../Page/小笠原村.md "wikilink")・[長野](../Page/長野市.md "wikilink")・[新潟](https://ja.wikipedia.org/wiki/新潟市 "wikilink")・[金沢](https://ja.wikipedia.org/wiki/金沢市 "wikilink")・[名古屋](../Page/名古屋市.md "wikilink")・[大阪](../Page/大阪市.md "wikilink")・[松江](../Page/松江市.md "wikilink")・[広島](https://ja.wikipedia.org/wiki/広島市 "wikilink")・[高松](https://ja.wikipedia.org/wiki/高松市 "wikilink")・[高知](../Page/高知市.md "wikilink")・[福岡](https://ja.wikipedia.org/wiki/福岡市 "wikilink")・[熊本](https://ja.wikipedia.org/wiki/熊本市 "wikilink")・[鹿児島](../Page/鹿児島市.md "wikilink")・[那覇](../Page/那覇市.md "wikilink")・[南大東島](../Page/南大東村.md "wikilink")・[石垣島](../Page/石垣市.md "wikilink")
+9.  時間帯により全国主要都市を1枚で示す場合と、東日本と西日本の2枚とで示す場合とがある。1回で放送する場合、札幌・仙台・新潟・東京・名古屋・大阪・広島・福岡・那覇の9都市、2回に分けて放送する場合、前半は札幌・釧路・[秋田](../Page/秋田市.md "wikilink")・仙台・新潟・長野・東京・名古屋、後半は大阪・松江・広島・高知・福岡・鹿児島・那覇・南大東の計16都市。
+10. 『[NHKニュースおはよう日本](../Page/NHKニュースおはよう日本.md "wikilink")』、『正午のニュース』、『午後6時のニュース』、『[NHKニュース7](https://ja.wikipedia.org/wiki/NHKニュース7 "wikilink")』、『[ニュースウオッチ9](../Page/ニュースウオッチ9.md "wikilink")』その他、総合テレビの定時ニュース。
+11. これまでの実施事例としては、[バンクーバーオリンピック](https://ja.wikipedia.org/wiki/バンクーバーオリンピック "wikilink")期間中は一部時間帯（主に週末のJST10時台と22時台および次番組にバンクーバーオリンピックハイライトが組まれている時間帯。すべて時差放送）においてノンスクランブル放送された。また、[2010 FIFAワールドカップ期間中も一部日程](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink")・時間帯で通常ノンスクランブル放送を行っている総合テレビの定時ニュースが放送できない際の差し替えでもノンスクランブル放送が行なわれ、[2011年](../Page/2011年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")の[第61回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦 "wikilink")の[再放送](../Page/再放送.md "wikilink")内（JST7:20-11:40）の中断ニュース（JST9:15-9:25。BS1でJST8:50-9:00放送分の時差放送）、2011年4月3日以降の[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")関連の特設ニュース期間（日中時間帯の一部）でもノンスクランブル放送が行なわれた。2012年のロンドンオリンピック期間中は午前と夜間の時間帯（8月4日と11日は正午前も）を中心に総合テレビの定時ニュースの放送がない（または予定していた時差放送が総合テレビの放送時間変更によりなくなった）際にもノンスクランブル放送を実施した。
+12. （平成16年9月22日付）
+13. アナウンサーについては2020年度担当分よりすべて首都圏センター所属。[首都圏ネットワーク](../Page/首都圏ネットワーク.md "wikilink")ニュースリーダー非番が一週間通して出演する。[鹿島綾乃](../Page/鹿島綾乃.md "wikilink")・[内藤雄介](../Page/内藤雄介.md "wikilink")は現時点で出演していない。
+14. 徹宵番担当者を除く。
 15.
 16.
 17.
@@ -3112,14 +3113,17 @@
 21.
 22.
 23.
-24. [2017年4月29日放送分・NHK番組表](https://hh.pid.nhk.or.jp/pidh07/ProgramIntro/Show.do?pkey=001-20170429-11-32317)
-25. 各放送日の最上段は進行役
-26. NGO法人 グローバル・ギビング
-27. 直前の21:50のBSニュースの最後に竹村が出演し、番組の告知を行う
-28. 取材ロケは竹村が担当
-29. 『[ごごナマ](https://ja.wikipedia.org/wiki/ごごナマ "wikilink")』（6月19日放送分）にて、上代と高嶋が生出演し、番組宣伝を行う
-30. [野田聖子](../Page/野田聖子.md "wikilink")へのインタビュー含む
-31. 「尊敬する人」母親が初めて父親上回る※博報堂・子供生活調査
-32. 人生満足度※10点満点中
-33. リポートは江河が担当
-34. メインは[メラニア・トランプ](https://ja.wikipedia.org/wiki/メラニア・トランプ "wikilink")のイスラエル・[テルアビブ](https://ja.wikipedia.org/wiki/テルアビブ "wikilink")外訪時の「手つなぎ」拒否
+24.
+25.
+26.
+27. [2017年4月29日放送分・NHK番組表](https://hh.pid.nhk.or.jp/pidh07/ProgramIntro/Show.do?pkey=001-20170429-11-32317)
+28. 各放送日の最上段は進行役
+29. NGO法人 グローバル・ギビング
+30. 直前の21:50のBSニュースの最後に竹村が出演し、番組の告知を行う
+31. 取材ロケは竹村が担当
+32. 『[ごごナマ](https://ja.wikipedia.org/wiki/ごごナマ "wikilink")』（6月19日放送分）にて、上代と高嶋が生出演し、番組宣伝を行う
+33. [野田聖子](../Page/野田聖子.md "wikilink")へのインタビュー含む
+34. 「尊敬する人」母親が初めて父親上回る※博報堂・子供生活調査
+35. 人生満足度※10点満点中
+36. リポートは江河が担当
+37. メインは[メラニア・トランプ](https://ja.wikipedia.org/wiki/メラニア・トランプ "wikilink")のイスラエル・[テルアビブ](https://ja.wikipedia.org/wiki/テルアビブ "wikilink")外訪時の「手つなぎ」拒否

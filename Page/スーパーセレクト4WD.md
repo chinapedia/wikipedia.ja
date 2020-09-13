@@ -65,10 +65,6 @@
 
 ## 脚注
 
-### 注釈
-
-### 出典
-
 ## 外部リンク
 
   - [三菱自動車 車の技術 技術ライブラリー4WD](https://www.mitsubishi-motors.com/jp/innovation/technology/library/4wd.html)

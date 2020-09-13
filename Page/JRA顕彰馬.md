@@ -51,7 +51,7 @@
 
 発表時期も4月下旬から5月上旬だったものが9月に変更された。2017年は7月、2018年からは6月に変更になった。
 
-この選出方法では、[2015年](../Page/2015年.md "wikilink")に[オルフェーヴル](https://ja.wikipedia.org/wiki/オルフェーヴル "wikilink")、[2016年](../Page/2016年.md "wikilink")に[ジェンティルドンナ](https://ja.wikipedia.org/wiki/ジェンティルドンナ "wikilink")、[2018年](../Page/2018年.md "wikilink")に[ロードカナロア](https://ja.wikipedia.org/wiki/ロードカナロア "wikilink")が選出されている。
+この選出方法では、[2015年](../Page/2015年.md "wikilink")に[オルフェーヴル](https://ja.wikipedia.org/wiki/オルフェーヴル "wikilink")、[2016年](../Page/2016年.md "wikilink")に[ジェンティルドンナ](https://ja.wikipedia.org/wiki/ジェンティルドンナ "wikilink")、[2018年](../Page/2018年.md "wikilink")に[ロードカナロア](https://ja.wikipedia.org/wiki/ロードカナロア "wikilink")、[2020年](../Page/2020年.md "wikilink")に[キタサンブラック](https://ja.wikipedia.org/wiki/キタサンブラック "wikilink")が選出されている。
 
 ### 特例での選出
 
@@ -378,16 +378,6 @@
 2009年 - <a href="../Page/ヴィクトリアマイル.md" title="wikilink">ヴィクトリアマイル</a>、安田記念、ジャパンカップ</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Lord_Kanaloa_Sprinters_Stakes_2013(IMG1).jpg" title="fig:Lord_Kanaloa_Sprinters_Stakes_2013(IMG1).jpg">Lord_Kanaloa_Sprinters_Stakes_2013(IMG1).jpg</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロードカナロア" title="wikilink">ロードカナロア</a></p></td>
-<td><p>牡</p></td>
-<td><p>2008年</p></td>
-<td><p>2018年</p></td>
-<td><p>19戦13勝</p></td>
-<td><p>2012年 - スプリンターズステークス、<a href="../Page/香港スプリント.md" title="wikilink">香港スプリント</a><br />
-2013年 - <a href="https://ja.wikipedia.org/wiki/高松宮記念_(競馬)" title="wikilink">高松宮記念</a>、安田記念、スプリンターズステークス、香港スプリント</p></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Orfevre20111225(2).jpg" title="wikilink">135px</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オルフェーヴル" title="wikilink">オルフェーヴル</a></p></td>
 <td><p>牡</p></td>
@@ -397,6 +387,16 @@
 <td><p>2011年 - 皐月賞、東京優駿、菊花賞、有馬記念<br />
 2012年 - 宝塚記念<br />
 2013年 - 有馬記念</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Lord_Kanaloa_Sprinters_Stakes_2013(IMG1).jpg" title="fig:Lord_Kanaloa_Sprinters_Stakes_2013(IMG1).jpg">Lord_Kanaloa_Sprinters_Stakes_2013(IMG1).jpg</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ロードカナロア" title="wikilink">ロードカナロア</a></p></td>
+<td><p>牡</p></td>
+<td><p>2008年</p></td>
+<td><p>2018年</p></td>
+<td><p>19戦13勝</p></td>
+<td><p>2012年 - スプリンターズステークス、<a href="../Page/香港スプリント.md" title="wikilink">香港スプリント</a><br />
+2013年 - <a href="https://ja.wikipedia.org/wiki/高松宮記念_(競馬)" title="wikilink">高松宮記念</a>、安田記念、スプリンターズステークス、香港スプリント</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Gentildonna_Arima_Kinen_2014(IMG2).jpg" title="fig:Gentildonna_Arima_Kinen_2014(IMG2).jpg">Gentildonna_Arima_Kinen_2014(IMG2).jpg</a></p></td>
@@ -408,6 +408,17 @@
 <td><p>2012年 - 桜花賞、優駿牝馬、<a href="https://ja.wikipedia.org/wiki/秋華賞" title="wikilink">秋華賞</a>、ジャパンカップ<br />
 2013年 - ジャパンカップ<br />
 2014年 - <a href="../Page/ドバイシーマクラシック.md" title="wikilink">ドバイシーマクラシック</a>、有馬記念</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:第76回菊花賞で馬着を着装した勝利馬キタサンブラック.JPG" title="wikilink">135px</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/キタサンブラック" title="wikilink">キタサンブラック</a></p></td>
+<td><p>牡</p></td>
+<td><p>2012年</p></td>
+<td><p>2020年</p></td>
+<td><p>20戦12勝</p></td>
+<td><p>2015年 - 菊花賞<br />
+2016年 - 天皇賞・春、ジャパンカップ<br />
+2017年 - <a href="../Page/大阪杯.md" title="wikilink">大阪杯</a>、天皇賞・春、天皇賞・秋、有馬記念</p></td>
 </tr>
 </tbody>
 </table>
@@ -552,7 +563,7 @@
   - 投票者数：186名（140票以上で選出）
   - 得票数内訳（上位5頭）
       - **[ディープインパクト](../Page/ディープインパクト_\(競走馬\).md "wikilink")** 161 (86.6%)→顕彰馬に選出
-      - エルコンドルパサー 95に (51.1%)
+      - エルコンドルパサー 95 (51.1%)
       - スペシャルウィーク 26 (14.0%)
       - アグネスデジタル 7 (3.8%)
       - [ハーツクライ](../Page/ハーツクライ.md "wikilink") 5 (2.9%)
@@ -721,7 +732,7 @@
   - 選考対象馬：平成9年4月1日から平成29年3月31日の間に競走馬登録を抹消した馬
   - 投票者数：190名（143票以上で選出）
   - 得票数内訳（上位5頭）
-      - ロードカナロア 156 (82.1%)→顕彰馬に選出
+      - **ロードカナロア** 156 (82.1%)→顕彰馬に選出
       - ブエナビスタ 95 (50.0%)
       - スペシャルウィーク 89 (46.8%)
       - [モーリス](https://ja.wikipedia.org/wiki/モーリス_\(競走馬\) "wikilink")　87 (45.8%)　
@@ -743,9 +754,25 @@
       - スペシャルウィーク　88 (45.6%)　
       - ヴィクトワールピサ 46 (23.8%)
 
+<!-- end list -->
+
+  - 令和2年度
+
+出典:[JRAホームページ](http://www.jra.go.jp/news/202006/pdf/060901_01.pdf)
+
+  - 投票結果：キタサンブラック
+  - 選考対象馬：平成11年4月1日から平成31年3月31日の間に競走馬登録を抹消した馬
+  - 投票者数：196名（147票以上で選出）
+  - 得票数内訳（上位5頭）
+      - **キタサンブラック** 158 (80.6%)→顕彰馬に選出
+      - ブエナビスタ 95 (48.5%)
+      - スペシャルウィーク 90 (45.9%)
+      - [キングカメハメハ](../Page/キングカメハメハ.md "wikilink") 80 (40.8%)
+      - モーリス 67 (34.2%)
+
 ## 追悼競走
 
-顕彰馬が死んだ場合、その直近の競馬開催日のメインレースにおいて、「○○○○(馬名)追悼競走」の副題を付して実施される。
+顕彰馬が死亡した場合、その直近の競馬開催日のメインレースにおいて、「○○○○(馬名)追悼競走」の副題を付して実施される。
 
 ## 脚注
 

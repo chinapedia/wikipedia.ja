@@ -607,7 +607,7 @@
 ### 特徴
 
   - シングル「[YEAH YEAH YEAH/憧れのStress-free/花、闌の時](https://ja.wikipedia.org/wiki/YEAH_YEAH_YEAH/憧れのStress-free/花、闌の時 "wikilink")」は、初回生産限定盤と通常盤A〜Fの7形態で発売\[66\]。
-  - “Additional Track”として、作詞・作曲を[前山田健一](https://ja.wikipedia.org/wiki/前山田健一 "wikilink")が手掛けた楽曲「ハロー\!ヒストリー」を収録\[67\]。この楽曲のみ、[ハロプロ研修生](https://ja.wikipedia.org/wiki/ハロプロ研修生 "wikilink")も参加。
+  - “Additional Track”として、作詞・作曲を[前山田健一](https://ja.wikipedia.org/wiki/前山田健一 "wikilink")が手掛けた楽曲「ハロー\!ヒストリー」を収録\[67\]。この楽曲のみ、[ハロプロ研修生](../Page/ハロプロ研修生.md "wikilink")も参加。
   - 通常盤のカップリングでは、BEYOOOOONDSを除くハロー\!プロジェクト所属の各グループが歌唱する「YEAH YEAH YEAH」の音源を収録\[68\]。
   - 初回生産限定盤には、「YEAH YEAH YEAH」「憧れのStress-free」のミュージックビデオが収められたDVDを付属\[69\]。
 
@@ -634,9 +634,9 @@
   - ハロプロ・オールスターズ シングル発売記念イベント 〜チーム対抗歌合戦〜（2018年10月21日、[彩の国くまがやドーム](https://ja.wikipedia.org/wiki/熊谷スポーツ文化公園#彩の国くまがやドーム "wikilink")）\[75\]
   - ハロプロ・オールスターズ シングル発売記念イベント 〜春の個別握手会〜 & 〜Hello\! Project 20th Anniversary\!\!After Party〜（2019年4月20日・21日、[幕張メッセ](../Page/幕張メッセ.md "wikilink")）\[76\]
 
-#### YouTube
+#### 配信
 
-  - [ハロプロ・オールスターズ テレワーク合唱「でっかい宇宙に愛がある」](https://www.youtube.com/watch?v=JNZLBX90TA8)（2020年5月24日）
+  - ハロプロ・オールスターズ テレワーク合唱「でっかい宇宙に愛がある」（2020年5月24日、[YouTube](https://www.youtube.com/watch?v=JNZLBX90TA8)）
 
 ## 脚注
 

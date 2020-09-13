@@ -97,7 +97,7 @@
   - [VAMPIRE MASTER ダーククリムゾン](https://ja.wikipedia.org/wiki/VAMPIRE_MASTER_ダーククリムゾン "wikilink")（[うるし原智志](../Page/うるし原智志.md "wikilink") 全3巻）未完
   - [ヒロイック・エイジ](../Page/ヒロイック・エイジ.md "wikilink")（原作：[XEBEC](../Page/ジーベック_\(アニメ制作会社\).md "wikilink")、漫画：[蕨野くげ子](https://ja.wikipedia.org/wiki/蕨野くげ子 "wikilink") 全4巻）
   - [ぷぎゅる](../Page/ぷぎゅる.md "wikilink")（[コンノトヒロ](https://ja.wikipedia.org/wiki/コンノトヒロ "wikilink") 全7巻）
-  - [武刃街-斬皇伝説](https://ja.wikipedia.org/wiki/武刃街#漫画版 "wikilink")（脚本：[黒田洋介](../Page/黒田洋介.md "wikilink")、作画：[乾一郎](https://ja.wikipedia.org/wiki/乾一郎 "wikilink") 全2巻）
+  - [武刃街-斬皇伝説](https://ja.wikipedia.org/wiki/武刃街#漫画版 "wikilink")（脚本：[黒田洋介](../Page/黒田洋介.md "wikilink")、作画：[乾一郎](../Page/乾一郎.md "wikilink") 全2巻）
   - [プラッシーボ](https://ja.wikipedia.org/wiki/プラッシーボ "wikilink")（[吉岡榊](https://ja.wikipedia.org/wiki/吉岡榊 "wikilink") 全2巻）
   - [フリクリ](../Page/フリクリ.md "wikilink")（作画：[ウエダハジメ](../Page/ウエダハジメ.md "wikilink") 原作：[GAINAX](../Page/ガイナックス.md "wikilink") 全2巻）
   - [VOID](https://ja.wikipedia.org/wiki/VOID_\(漫画\) "wikilink")（作画：[李成圭](https://ja.wikipedia.org/wiki/李成圭 "wikilink") 原作：[七月鏡一](../Page/七月鏡一.md "wikilink")）

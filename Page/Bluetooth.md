@@ -400,7 +400,7 @@ BR・EDR・LE</p></td>
       - [ソニー・エリクソン/ソニーモバイルコミュニケーションズ](../Page/ソニーモバイルコミュニケーションズ.md "wikilink")「MBW-100」「MBW-150 Music Edition」「MBW-200」「LiveView MN800」「SmartWatch MN2」「SmartWatch 2 SW2」
       - [Wear OS](https://ja.wikipedia.org/wiki/Wear_OS "wikilink")(旧Android Wear)搭載端末
       - アップル「[Apple Watch](https://ja.wikipedia.org/wiki/Apple_Watch "wikilink")」
-      - フィットネストラッカー
+      - [フィットネストラッカー](https://ja.wikipedia.org/wiki/フィットネストラッカー "wikilink")
   - [自撮り棒](https://ja.wikipedia.org/wiki/自撮り棒 "wikilink")
   - [サイクルコンピュータ](../Page/サイクルコンピュータ.md "wikilink")
       - [キャットアイ](../Page/キャットアイ.md "wikilink")「アベントゥーラ」「パドローネ スマート」
@@ -435,7 +435,7 @@ BR・EDR・LE</p></td>
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Telec-bluetooth-label.jpg "wikilink") Bluetoothのマークは、Bluetooth SIGが[商標登録](https://ja.wikipedia.org/wiki/商標登録 "wikilink")（登録番号は第4477936号他）をしており、これらを製品に表示しようとする時はBluetooth SIGと契約しなければならない。
 
-日本国内でBluetooth機器を利用するには、[電波法](../Page/電波法.md "wikilink")に基づくいわゆる[小電力無線局](../Page/小電力無線局.md "wikilink")の一種、最大[空中線電力](../Page/空中線電力.md "wikilink")10mWの[小電力データ通信システム](https://ja.wikipedia.org/wiki/小電力データ通信システム "wikilink")の無線局として[技術基準適合証明](https://ja.wikipedia.org/wiki/技術基準適合証明 "wikilink")を、更に[電気通信事業者](../Page/電気通信事業者.md "wikilink")の回線に接続するものは[電気通信事業法](../Page/電気通信事業法.md "wikilink")に基づく[技術基準適合認定](https://ja.wikipedia.org/wiki/技術基準適合認定 "wikilink")も受けたものでなければならない。これらの認証を受けた製品は**[技適マーク](../Page/技適マーク.md "wikilink")**が表示される。 技術基準適合証明を受けていない機器を使用することは[不法無線局](https://ja.wikipedia.org/wiki/不法無線局 "wikilink")を開設したとして電波法第4条違反となり、第110条に規定する罰則の対象にもなる。 また、電波法令の技術基準には「一の[筐体](../Page/筐体.md "wikilink")に収められており、容易に開けることができないこと」とされ、特殊[ねじ](../Page/ねじ.md "wikilink")などが用いられているので、利用者は改造はもちろん保守・修理の為であっても分解してはならない。 電気通信事業者への回線接続については、技術基準適合認定が無いと電気通信事業法第52条により拒否されることがある。
+日本国内でBluetooth機器を利用するには、[電波法](../Page/電波法.md "wikilink")に基づくいわゆる[小電力無線局](../Page/小電力無線局.md "wikilink")の一種、最大[空中線電力](../Page/空中線電力.md "wikilink")10mWの[小電力データ通信システム](https://ja.wikipedia.org/wiki/小電力データ通信システム "wikilink")の無線局として[技術基準適合証明](https://ja.wikipedia.org/wiki/技術基準適合証明 "wikilink")を、更に[電気通信事業者](../Page/電気通信事業者.md "wikilink")の回線に接続するものは[電気通信事業法](../Page/電気通信事業法.md "wikilink")に基づく[技術基準適合認定](https://ja.wikipedia.org/wiki/技術基準適合認定 "wikilink")も受けたものでなければならない。これらの認証を受けた製品は**[技適マーク](../Page/技適マーク.md "wikilink")**が表示される。 技術基準適合証明を受けていない機器を使用することは[不法無線局](https://ja.wikipedia.org/wiki/不法無線局 "wikilink")を開設したとして電波法第4条違反となり、第110条に規定する罰則の対象にもなる。 また、電波法令の技術基準には「一の[筐体](../Page/筐体.md "wikilink")に収められており、容易に開けることができないこと」とされ、特殊[ねじ](../Page/ねじ.md "wikilink")などが用いられている。 電気通信事業者への回線接続については、技術基準適合認定が無いと電気通信事業法第52条により拒否されることがある。
 
   -
     詳細は[技適マーク\#規制事項](https://ja.wikipedia.org/wiki/技適マーク#規制事項 "wikilink")を参照。

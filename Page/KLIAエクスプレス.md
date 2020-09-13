@@ -27,10 +27,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><big></p>
-<center>
-</center>
-<p></big></p></td>
+<td></td>
 <td><p><strong>KLIAエクスプレス</strong></p></td>
 <td><p>2002年</p></td>
 <td><p>57 km</p></td>
@@ -38,10 +35,7 @@
 <td><p><a href="../Page/KLセントラル駅.md" title="wikilink">KLセントラル駅</a> - KLIA2</p></td>
 </tr>
 <tr class="even">
-<td><p><big></p>
-<center>
-</center>
-<p></big></p></td>
+<td></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:KLIA_Transit" title="wikilink">KLIAトランジット線</a></strong></p></td>
 <td><p>2002年</p></td>
 <td><p>57 km</p></td>

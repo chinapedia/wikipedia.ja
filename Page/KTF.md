@@ -35,4 +35,4 @@
   - [KTtech](http://www.kttech.co.kr/)（韓国語）
   - [KTsports](http://sports.kt.com/)（韓国語）
 
-[Category:韓国の携帯電話事業者](https://ja.wikipedia.org/wiki/Category:韓国の携帯電話事業者 "wikilink") [Category:韓国の企業](https://ja.wikipedia.org/wiki/Category:韓国の企業 "wikilink") [Category:KT](https://ja.wikipedia.org/wiki/Category:KT "wikilink")
+[Category:韓国の携帯電話事業者](https://ja.wikipedia.org/wiki/Category:韓国の携帯電話事業者 "wikilink") [Category:KT](https://ja.wikipedia.org/wiki/Category:KT "wikilink")

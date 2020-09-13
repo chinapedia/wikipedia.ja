@@ -72,10 +72,12 @@
 
 ## 外部リンク
 
-  - [Ole\!アルディージャ(PC版)](http://www.teletama.jp/ole/)
-  - [Ole\!アルディージャ(携帯版 次回予告の詳細が掲載されている)](http://www1.tv-saitama.jp/p/sports/Ardija/Ardija.htm)
-  - [長友美貴子オフィシャルブログ（\~2008年3月まで番組キャスター）](http://blog.livedoor.jp/mikikonet/)
+  - [Ole\!アルディージャ(PC版)](https://www.teletama.jp/ole/)
 
+  - [Ole\!アルディージャ(携帯版 次回予告の詳細が掲載されている)](http://www1.tv-saitama.jp/p/sports/Ardija/Ardija.htm)
+
+  -
+  -
 [Category:ローカルテレビ局のサッカー番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のサッカー番組 "wikilink") [Category:関東・甲信越地方のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのスポーツ番組 "wikilink") [Category:テレビ埼玉の番組](https://ja.wikipedia.org/wiki/Category:テレビ埼玉の番組 "wikilink") [Category:大宮アルディージャ](https://ja.wikipedia.org/wiki/Category:大宮アルディージャ "wikilink")
 
 1.  [J1：第24節 浦和 vs 大宮](http://www.jsgoal.jp/photo/_prog/detail.php?c=00101090&search%5bfilename1%5d=20120100010220120901) - J's GOAL・2012年9月1日

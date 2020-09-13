@@ -1,7 +1,7 @@
 > この記事は[TAKUYA](https://ja.wikipedia.org/wiki/TAKUYA)から翻訳されています。
 
 
-**TAKUYA**（タクヤ、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[9月9日](../Page/9月9日.md "wikilink") - ）は、[京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")出身の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。 本名は、**浅沼 拓也**（あさぬま たくや）。元[JUDY AND MARYのギタリストで](../Page/JUDY_AND_MARY.md "wikilink")、ソロ活動の際には**TAKUYA**名義とソロユニットの**ROBOTS**（ロボッツ）名義を使い分けている。[血液型はO型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[ユニバーサルミュージック所属](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
+**TAKUYA**（タクヤ、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[9月9日](../Page/9月9日.md "wikilink") - ）は、[京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")出身の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。 本名は、**浅沼 拓也**（あさぬま たくや）。元[JUDY AND MARYのギタリストで](../Page/JUDY_AND_MARY.md "wikilink")、ソロ活動の際には**TAKUYA**名義とソロユニットの**ROBOTS**（ロボッツ）名義を使い分けている。[血液型はO型](../Page/ABO式血液型.md "wikilink")。[ユニバーサルミュージック所属](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 来歴
 
@@ -24,6 +24,8 @@ analersのヨウイチ率いるバンド・SKAFUNK（スカンクと読む。実
 エッジの効いた音色で激しい[カッティングや](../Page/ミュート_\(ギター\).md "wikilink")[アルペジオ](https://ja.wikipedia.org/wiki/アルペジオ "wikilink")などを用い、ヴォーカルのバッキングであっても変則的に動き回るトリッキーかつメロディアスな演奏が特徴的。 また京都市でも[舞妓](../Page/舞妓.md "wikilink")や[芸妓](../Page/芸妓.md "wikilink")など伝統文化の息づく街で育ったためか、「KYOTO」「[イロトリドリノセカイ](../Page/イロトリドリ_ノ_セカイ.md "wikilink")」「HOTARU」など、作風にも情緒的な世界観が表れている。
 
 テレキャスターシェイプのギター愛用しているが、きっかけはSKAFUNK時代に、面倒を見てくれていた、杉本恭一（[レピッシュ](../Page/レピッシュ.md "wikilink")）の影響によるところが大きい。
+
+人生で初めて購入したエフェクターはノイズゲートで「先輩に騙された」との事。
 
 影響を受けたミュージシャンは[布袋寅泰](../Page/布袋寅泰.md "wikilink")、[XTC](../Page/XTC_\(バンド\).md "wikilink")、[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")。
 
@@ -544,6 +546,10 @@ TAKUYA
 
   - 「[ナイショの話](https://ja.wikipedia.org/wiki/ナイショの話 "wikilink")」（[ryoと共編曲](https://ja.wikipedia.org/wiki/supercell "wikilink")・サウンドプロデュース・コーラス・ギター）
 
+**[コアラモード.](https://ja.wikipedia.org/wiki/コアラモード. "wikilink")**
+
+  - 「五月雨式ですみません」（作詞・作曲）（作曲はコアラモード.と共作）\[13\]
+
 **[猿岩石](https://ja.wikipedia.org/wiki/猿岩石 "wikilink")**
 
   - 「[初恋](https://ja.wikipedia.org/wiki/初恋_\(猿岩石の曲\) "wikilink")」（作詞・作曲・編曲）（編曲は**ROBOTS**名義）
@@ -551,6 +557,10 @@ TAKUYA
 **[ジュエミリア](https://ja.wikipedia.org/wiki/ジュエミリア "wikilink")**
 
   - 「リセット」（共作詞・作曲・編曲）（作詞は[秋元康](../Page/秋元康.md "wikilink")と共作）
+
+**[SHOGO](../Page/SHOGO.md "wikilink")**
+
+  - 「[ドリーマービリーバー](https://ja.wikipedia.org/wiki/大きな愛の木の下で#収録曲 "wikilink")」（編曲・ギター・コーラス）
 
 **[私立恵比寿中学](https://ja.wikipedia.org/wiki/私立恵比寿中学 "wikilink")**
 
@@ -594,6 +604,10 @@ TAKUYA
 
   - 「ミルクシェイクSOS\!」（共作詞・作曲・編曲）（作詞は[Tsubasaと共作](https://ja.wikipedia.org/wiki/益若つばさ "wikilink")）
 
+**湧口愛美**
+
+  - 「[Smile.](../Page/Smile..md "wikilink")」（作曲・ギター）
+
 **[Λucifer](../Page/Λucifer.md "wikilink")**
 
   - 「[堕天使BLUE](https://ja.wikipedia.org/wiki/堕天使BLUE "wikilink")」（作曲）
@@ -610,10 +624,6 @@ TAKUYA
   - 「[LOVE＆PAIN](https://ja.wikipedia.org/wiki/BEATRIP "wikilink")」（作曲）
   - 「[エゴビジョン](https://ja.wikipedia.org/wiki/BEATRIP "wikilink")」（作曲）
   - 「[SHELTER](https://ja.wikipedia.org/wiki/BEATRIP "wikilink")」（作曲）
-
-**[コアラモード.](https://ja.wikipedia.org/wiki/コアラモード. "wikilink")**
-
-  - 「五月雨式ですみません」（作詞・作曲）（作曲はコアラモード.と共作）\[13\]
 
 ## レコーディング参加
 

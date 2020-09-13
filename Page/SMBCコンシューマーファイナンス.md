@@ -166,7 +166,7 @@
   - [しゃべくり007](../Page/しゃべくり007.md "wikilink") ※同業者の[アコム](../Page/アコム.md "wikilink")、[アイフル](../Page/アイフル.md "wikilink")、[JCB](https://ja.wikipedia.org/wiki/JCB "wikilink")も提供。
   - [月曜プラチナイト](https://ja.wikipedia.org/wiki/プラチナイト "wikilink")「[月曜から夜ふかし](https://ja.wikipedia.org/wiki/月曜から夜ふかし "wikilink")」（2020年4月 - ）※同業者のアイフルと共に前半ナショナルスポンサー。
   - [幸せ\!ボンビーガール](https://ja.wikipedia.org/wiki/幸せ!ボンビーガール "wikilink") （2018年10月 - ）※同業者のアイフルも提供。
-  - [土曜10時ドラマ](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink") （2017年4月 - ）※『[日曜ドラマ](https://ja.wikipedia.org/wiki/日曜ドラマ_\(日本テレビ\) "wikilink")』から移行。
+  - [土曜10時ドラマ](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink") （2017年4月 - ）※『[日曜ドラマ](https://ja.wikipedia.org/wiki/日曜ドラマ "wikilink")』から移行。
   - 日曜ドラマ（2019年10月 - ）※一時降板時期あり
 
 <!-- end list -->

@@ -31,7 +31,7 @@ WHAの公式戦初試合は[1972年](../Page/1972年.md "wikilink")[10月1日](.
 
 他方、WHAは訴訟によりNHLチームの留保条項を用いた選手の拘束を阻止し、[マーク・ターディフ](https://ja.wikipedia.org/wiki/マーク・ターディフ "wikilink") (Marc Tardif) 、[ゴーディ・ハウ](../Page/ゴーディ・ハウ.md "wikilink")や後年には[フランク・マホブリッチ](https://ja.wikipedia.org/wiki/フランク・マホブリッチ "wikilink") (Frank Mahovlich) 、[ポール・ヘンダーソン](https://ja.wikipedia.org/wiki/ポール・ヘンダーソン "wikilink")らの有力選手獲得に成功した。また、[1974年](../Page/1974年.md "wikilink")には、WHAは当時NHLが見向きもしなかったヨーロッパ出身選手の獲得にも乗り出し、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")からは[アンダース・ヘドベリ](https://ja.wikipedia.org/wiki/アンダース・ヘドベリ "wikilink") (Anders Hedberg) や[ウルフ・ニルション](https://ja.wikipedia.org/wiki/ウルフ・ニルション "wikilink") (Ulf Nilsson) 、チェコからはVaclav Nedomanskyを加入させた。
 
-日本ではウイニペグ・ジェッツとソ連代表の試合が行われ、ボビー・ハルのスラップ・ショットを日本のファンに見せたことは高レベルのプレーに触れる機会とWHAというものがもう一つのリーグとしてあることを海外にアピールした出来事であるといえる。
+日本では1977年12月29・30日と1978年1月1日にウイニペグ・ジェッツとソ連代表の試合が行われ、ボビー・ハルのスラップ・ショットや[アンダース・ヘドベリ](https://ja.wikipedia.org/wiki/アンダース・ヘドベリ "wikilink") (Anders Hedberg)のプレーを日本のファンに見せたことは、当時の最強ナショナルチームとカナダのパワーホッケーが激突する高いレベルのプレーに触れる機会となった。また、WHAというもう一つのホッケーのメジャーリーグが北米・カナダにあることを海外にアピールした出来事であるといえる。
 
 ### 衰退・閉鎖
 

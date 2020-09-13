@@ -1,13 +1,17 @@
 > この記事は[GOING UNDER GROUND](https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND)から翻訳されています。
 
 
-**GOING UNDER GROUND**（ゴーイング・アンダー・グラウンド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。略称は『ゴーイング』、『GUG』。
+**GOING UNDER GROUND**（ゴーイング・アンダー・グラウンド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。略称は『ゴーイング』、『GUG』。 稀に、｢ゴイアグラ｣とも呼ばれることがある。
+[松本素生](../Page/松本素生.md "wikilink")によると、この呼び方をする者はかなりの通であるとのこと。
+ビクター在籍時にレコード会社がつけたキャッチコピーは、｢全日本胸キュン党｣
 
 ## プロフィール
 
 [埼玉県](../Page/埼玉県.md "wikilink")[桶川市](../Page/桶川市.md "wikilink")周辺出身の3人組。[THE BLUE HEARTSに憧れた当時中学一年生のメンバーたちにより結成され](../Page/THE_BLUE_HEARTS.md "wikilink")、その後何度かのメンバーチェンジを経てデビュー当時の5人体制となる。2度のメンバー脱退があったが、サポートメンバーを迎えながら継続的に活動。バンド名の由来は[THE JAMの同名曲より](../Page/ザ・ジャム.md "wikilink")。ロゴマークは正五角形。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")頃より[下北沢](../Page/下北沢.md "wikilink")のライブハウスを中心に順調にライブ活動を続けた。当時は[ウィーザー](../Page/ウィーザー.md "wikilink")に影響されていたという（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")6月2日[NHK-FM](../Page/NHK-FM放送.md "wikilink")「[ミュージックスクエア](../Page/ミュージックスクエア_\(NHK-FM\).md "wikilink")」より）。[2001年](../Page/2001年.md "wikilink")6月21日、シングル「[グラフティー](../Page/グラフティー.md "wikilink")」にてメジャーデビュー。[2003年](../Page/2003年.md "wikilink")に「[ハートビート](../Page/ハートビート_\(GOING_UNDER_GROUNDの曲\).md "wikilink")」が[ボーダフォン（現ソフトバンクモバイル）の](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")、[2005年](../Page/2005年.md "wikilink")に「[STAND BY ME](../Page/STAND_BY_ME_\(GOING_UNDER_GROUNDの曲\).md "wikilink")」が[三ツ矢サイダー](../Page/三ツ矢サイダー.md "wikilink")のテレビCMに起用される。[2005年](../Page/2005年.md "wikilink")2月にリリースしたアルバム『[h.o.p.s.](https://ja.wikipedia.org/wiki/h.o.p.s. "wikilink")』が自己最高のオリコン初登場10位を記録。同タイトルの全国ツアーにて、7月に念願の[日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")公演を行った。同年「[トゥモロウズ ソング](https://ja.wikipedia.org/wiki/きらり/トゥモロウズ_ソング "wikilink")」を[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』に提供。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")頃より[下北沢](../Page/下北沢.md "wikilink")のライブハウスを中心に順調にライブ活動を続けた。当時は[ウィーザー](../Page/ウィーザー.md "wikilink")に影響されていたという（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")6月2日[NHK-FM](../Page/NHK-FM放送.md "wikilink")「[ミュージックスクエア](../Page/ミュージックスクエア_\(NHK-FM\).md "wikilink")」より）。
+[2001年](../Page/2001年.md "wikilink")6月21日、シングル「[グラフティー](../Page/グラフティー.md "wikilink")」にてメジャーデビュー。[2003年](../Page/2003年.md "wikilink")に「[ハートビート](../Page/ハートビート_\(GOING_UNDER_GROUNDの曲\).md "wikilink")」が[ボーダフォン（現ソフトバンクモバイル）の](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")、[2005年](../Page/2005年.md "wikilink")に「[STAND BY ME](../Page/STAND_BY_ME_\(GOING_UNDER_GROUNDの曲\).md "wikilink")」が[三ツ矢サイダー](../Page/三ツ矢サイダー.md "wikilink")のテレビCMに起用される。[2005年](../Page/2005年.md "wikilink")2月にリリースしたアルバム『[h.o.p.s.](https://ja.wikipedia.org/wiki/h.o.p.s. "wikilink")』が自己最高のオリコン初登場10位を記録。同タイトルの全国ツアーにて、7月に念願の[日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")公演を行った。
+同年「[トゥモロウズ ソング](https://ja.wikipedia.org/wiki/きらり/トゥモロウズ_ソング "wikilink")」を[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』に提供。
 
 メジャーデビュー5周年となった[2006年](../Page/2006年.md "wikilink")には2月にアルバム『[TUTTI](../Page/TUTTI.md "wikilink")』、5月にシングル「[VISTA/ハミングライフ](https://ja.wikipedia.org/wiki/VISTA/ハミングライフ "wikilink")」、6月にベストアルバム『[BEST OF GOING UNDER GROUND with YOU](../Page/BEST_OF_GOING_UNDER_GROUND_with_YOU.md "wikilink")』を相次いでリリースすると共に、3月からのツアー「TUTTI」にて7月6日、[ワンマン](https://ja.wikipedia.org/wiki/ワンマン "wikilink")では初の[日本武道館](../Page/日本武道館.md "wikilink")公演を実施。後にこの公演は、全曲ノーカットで[DVD](../Page/DVD.md "wikilink")化された。
 
@@ -47,6 +51,8 @@
 
 [2018年](../Page/2018年.md "wikilink")、CDデビュー20周年を迎える。
 
+[2020年5月30日](https://ja.wikipedia.org/wiki/2020年5月30日 "wikilink") 配信限定シングル、｢望郷東京2020｣をリリース。 コロナ禍において、この曲のプロデューサー、[曽我部恵一](../Page/曽我部恵一.md "wikilink")([サニーデイ・サービス](https://ja.wikipedia.org/wiki/サニーデイ・サービス "wikilink"))の店にテイクアウトのカレーを買いに行った帰り道で松本の頭の中でできた曲。
+
 ## メンバー
 
   - **[松本素生](../Page/松本素生.md "wikilink")**（まつもと そう、1978年12月22日 - ）- [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")担当
@@ -55,7 +61,7 @@
 
   -
     [埼玉県](../Page/埼玉県.md "wikilink")[桶川市](../Page/桶川市.md "wikilink")出身、血液型A型。
-    太めの体型に黒ぶちのメガネがトレードマークのリード・ボーカリスト。通称は特にない。
+    太めの体型に黒ぶちのメガネがトレードマークのリード・ボーカリスト。通称は特にないが、2ちゃんねるの掲示板のスレタイから、｢センチメンタルデブ｣と呼ばれることがある。
     「SxOxU」「松本素生」名義でソロ活動を行っている。
 
 <!-- end list -->
@@ -82,6 +88,7 @@
     通称「いっさん」。2009年夏よりプレイング・マネージャーとしてバンドのマネジメントも担当している。「同じ月を見てた」の[PVで主演しているほか](../Page/ミュージック・ビデオ.md "wikilink")、[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")の番組「ゴゴイチ！」の番組内企画で制作されたドラマ「2分40秒」（備考参照）、映画「[ハミングライフ](../Page/ハミングライフ_\(映画\).md "wikilink")」などに出演している。趣味は[パチスロ](../Page/パチスロ.md "wikilink")と[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")で、桶川市の2部のサッカーチームに所属もしている。
     2012年4月のTBS系ドラマ「[ATARU](https://ja.wikipedia.org/wiki/ATARU "wikilink")」の主題歌として[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")が描き下ろした「[自由へ道連れ](https://ja.wikipedia.org/wiki/自由へ道連れ "wikilink")」(2012年5月16日リリース)にベースとして参加。
     ファンクラブ会報によると120万円するという[フェンダー](../Page/フェンダー_\(楽器メーカー\).md "wikilink")[プレシジョンベース](https://ja.wikipedia.org/wiki/プレシジョンベース "wikilink")65年製フルオリジナルを使用している。
+    ライブても、ほとんど喋らず、｢ハートビート｣等でたまにコーラスをするくらいだったが、2020年、カセットテープのみの企画、｢Private lessons vol.2｣の収録曲、｢トンネルボーイ｣において、初めてリードヴォーカルを務めた。(作詞・作曲は松本素生)
 
 ### 元メンバー
 
@@ -90,10 +97,21 @@
 <!-- end list -->
 
   -
-    通称「よういっさん」。GOING UNDER GROUND加入当時はまったく鍵盤に触れたことがなく、バンドに入りたいがためにピアノ教室に通った。ライブのステージでは最もよく動き、本人はそれを「自分はこのバンドのいちばんのファンだから」と説明していた。
+    通称「よういっさん」。
+    GOING UNDER GROUNDを名乗る前身のバンドで、ドラムを担当していたが、グレて脱退。
+    GOING UNDER GROUNDと名乗るようになってから、また入ろうとしたが、既に河野がいたため、どうしても入りたくてまったく鍵盤に触れたことがないにもかかわらずキーボードとして加入した。そのためにピアノ教室にも通った。
+    ライブのステージでは最もよく動き、本人はそれを「自分はこのバンドのいちばんのファンだから」と説明していた。
     ライブでは伊藤のキーボード正面に大きな旗（2006-2007ツアーで新調された正五角形の新しいロゴ）が掲げられ、後方には銅鑼が置かれた。この銅鑼はライブ中にも使用されている（「Happy Birthday」の[PVでも確認できる](../Page/ミュージック・ビデオ.md "wikilink")）。インディーズ時代は作曲にも参加していた。
+    ｢Holiday｣のタオルを振り回すパフォーマンスは伊藤が始めたものである。伊藤脱退後も受け継がれている。
+
+<!-- end list -->
+
+  -
+    [aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")の大ファンで、彼女のことは｢姫｣と呼んでいた。
+    そしてaikoのためなら、いつでもバンドを辞められると発言していた。
     [2009年](../Page/2009年.md "wikilink")4月18日の[日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")でのライブを最後に、育児に専念するためGOING UNDER GROUNDを脱退し、音楽活動を休止した。
     [2011年](../Page/2011年.md "wikilink")5月4日の日比谷野外大音楽堂で行われたGOING UNDER GROUND 10th Anniversary Tour 2011「Rollin' Rollin'」追加公演のアンコールでゲスト出演し、「グラフティー」を演奏したほか、2013年12月の桶川、大阪でのワンマンライブなどにゲスト参加している。
+    [銀杏BOYZ](https://ja.wikipedia.org/wiki/銀杏BOYZ "wikilink")のアルバム、[君と僕の第三次世界大戦的恋愛革命](../Page/君と僕の第三次世界大戦的恋愛革命.md "wikilink")の,M-9 ｢BABY BABY｣に、キーボードで参加している。
 
 <!-- end list -->
 
@@ -103,6 +121,7 @@
 
   -
     [埼玉県](../Page/埼玉県.md "wikilink")[上尾市](https://ja.wikipedia.org/wiki/上尾市 "wikilink")出身であるが、他のメンバーが隣の[桶川市](../Page/桶川市.md "wikilink")出身であるため雑誌等でしばしば桶川出身と誤記される。血液型O型。
+    GOING UNDER GROUNDのリーダーを務めていた。
     通称「丈（じょう）さん」。
     [2015年](../Page/2015年.md "wikilink")1月31日の[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")でのライブを最後に脱退。
 
@@ -195,7 +214,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/2月9日.md" title="wikilink">2月9日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アゲハ_(曲)" title="wikilink">アゲハ</a></p></td>
+<td><p><a href="../Page/アゲハ_(GOING_UNDER_GROUNDの曲).md" title="wikilink">アゲハ</a></p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -225,7 +244,7 @@
 </tr>
 <tr class="odd">
 <td><p>2007年<a href="../Page/6月13日.md" title="wikilink">6月13日</a></p></td>
-<td><p><a href="../Page/TWISTER_(曲).md" title="wikilink">TWISTER</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/TWISTER_(GOING_UNDER_GROUNDの曲)" title="wikilink">TWISTER</a></p></td>
 <td><p>VICL-36293</p></td>
 </tr>
 <tr class="even">
@@ -235,7 +254,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/3月19日.md" title="wikilink">3月19日</a></p></td>
-<td><p><a href="../Page/初恋_(GOING_UNDER_GROUNDの曲).md" title="wikilink">初恋</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/初恋_(GOING_UNDER_GROUNDのシングル)" title="wikilink">初恋</a></p></td>
 <td><p>VICL-36425</p></td>
 </tr>
 <tr class="even">
@@ -265,24 +284,34 @@
 <td><p>PCCA-03479</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a>5月8日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/カモメトゥモロー/世界を変えるピアノが歌う" title="wikilink">カモメトゥモロー/世界を変えるピアノが歌う</a></p></td>
+<td><p>TRJC-1017</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/11月9日.md" title="wikilink">11月9日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ならば青春の光" title="wikilink">ならば青春の光</a></p></td>
 <td><p>amps-0004</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/9月18日.md" title="wikilink">9月18日</a></p></td>
 <td><p>もう夢は見ないことにした/Soul train</p></td>
 <td><p>gugs-001</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a><a href="../Page/5月11日.md" title="wikilink">5月11日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/the_band" title="wikilink">the band</a></p></td>
 <td><p>XQLG−1020</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/5月24日.md" title="wikilink">5月24日</a></p></td>
 <td><p>超新星/よそもの</p></td>
 <td><p>XQLG-1021</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/6月6日.md" title="wikilink">6月6日</a></p></td>
+<td><p>スウィートテンプテーション/アワーハウス</p></td>
+<td><p>YRNF-0009</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -429,11 +458,11 @@
 1.  **栗コーダーアンダーグラウンド びっ栗演奏会 2011.03.07 at 下北沢 風知空知** （2011年5月4日、ampa-002）
       -
         [栗コーダーカルテット](../Page/栗コーダーカルテット.md "wikilink")とのジョイントライブを収録したライブアルバム。
-        ライブ会場及び公式サイト通販にて販売されていたが2014年現在品切れのため入手不可。
+        ライブ会場及び公式サイト通販にて販売されていたが2020年現在品切れのため入手不可。
 2.  **GOING CLASSICS live at HOKUTOPIA**
       -
         2012年1月21日に開催されたファンクラブイベント「TAMARIBA」でのポップ・クラシックバンド[everly](https://ja.wikipedia.org/wiki/everly "wikilink")とのジョイントライブを収録したライブアルバム。
-        ライブ会場及び公式サイト通販にて販売されていたが2014年現在品切れのため入手不可。
+        ライブ会場及び公式サイト通販にて販売されていたが2020年現在品切れのため入手不可。
 
 ### 再録盤
 
@@ -449,12 +478,17 @@
 1.  **[メロンティー](https://ja.wikipedia.org/wiki/メロンティー "wikilink")** （2009年12月30日、TGCS-5983）
       -
         [メロン記念日](../Page/メロン記念日.md "wikilink")とのコラボレーションシングル。タワーレコード限定販売。
+        MVには、ゴーイングのメンバーも出演している。
 2.  **給水塔** （2012年3月10日、ampa-003）
       -
-        [メレンゲとのスプリットCD](../Page/メレンゲ_\(バンド\).md "wikilink")。2012年に行われたスプリットツアーのライブ会場及び公式サイト通販にて販売されていたが、2014年現在入手不可。
+        作詞・作曲 クボケンジ、松本素生
+        [メレンゲとのスプリットCD](../Page/メレンゲ_\(バンド\).md "wikilink")。2012年に行われたスプリットツアーのライブ会場及び公式サイト通販にて販売されていたが、2020年現在入手不可。
 3.  **[カモメトゥモロー/世界を変えるピアノが歌う](https://ja.wikipedia.org/wiki/カモメトゥモロー/世界を変えるピアノが歌う "wikilink")**（2013年5月8日、TRJC-1017）
       -
         [末光篤](https://ja.wikipedia.org/wiki/末光篤 "wikilink")とのコラボレーションシングル。タワーレコード限定販売。
+        「世界を変えるピアノが歌う」は、末光篤がメインボーカルであるが、末光篤のアルバム「Colors of Concerto」にて、feat.松本素生として松本によるヴォーカルver.が収録されている。
+        ｢[Allegro Cantabile](https://ja.wikipedia.org/wiki/Allegro_Cantabile "wikilink")｣は末光篤の曲をGOING UNDER GROUND×末光篤でカバーした曲。
+        松本と河野がそれぞれ1番と2番をメインで、末光と中澤がサブで歌っている。
 
 ### BOXセット
 
@@ -462,19 +496,22 @@
       -
         CD9枚＋DVD2枚の11枚組、限定生産のボックスセット。CDはビクター時代に発売されたアルバム8枚に、ビクター時代に発売されたシングルカップリング曲のなかから、アルバム未収録の曲を『B-SIDE COLLECTION』として1枚に収録。DVDはインディ時代からビクター時代に制作されたミュージック・ビデオを収録した『MUSIC VIDEO COLLECTION』と、2005年7月3日の[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")におけるコンサートの映像が収録される\[1\]。
         収録音源はリマスタリングだと松本がTwitter上でコメント\[2\]したが、リマスタリングをしたというビクター側からのアナウンスは無く、BOX内でもクレジットされていない。
+        既発アルバムはすべて通常盤仕様であるため、｢おやすみモンスター｣の初回盤ボーナストラック、｢おやすみ｣は未収録である。
+        CDエクストラの映像も収録されていない。
+        MV集はシングルのみの収録であるため、MVが作られている、｢かよわきエナジー｣、｢Title｣は未収録である。
 
 ### DVD
 
 1.  **every breath** （2004年3月24日、VIBL-165）
       -
-        2004年1月17日の渋谷公会堂ワンマンライブの映像を7曲収録。
+        ｢ダイアリー｣、｢トワイライト｣、｢ハートビート｣のMVと、2004年1月17日の渋谷公会堂ワンマンライブの映像を7曲収録。
 2.  **GOING UNDER GROUND TOUR TUTTI at BUDOKAN** （2006年10月25日、VIBL-350）
       -
         初回特典：TOUR TUTTI メモリアル・ラミネート・パス
         初の武道館公演となった2006年7月6日のライブ（全曲ノーカット）及び当日のドキュメンタリー映像を収録。
 3.  **tour 2008-2009 “LUCKY STAR” FINAL LIVE at 日比谷野音** （2009年9月1日、ampd-1）
       -
-        ライブ会場及び公式サイト通販にて発売。初回盤のみ特典映像を収録したDVD付2枚組。現在は販売終了。
+        ライブ会場及び公式サイト通販にて発売。初回盤のみ特典映像、｢ゴーイングの素晴しい日本の宿を訪ねて｣を収録したDVD付2枚組。現在は販売終了。
         伊藤洋一最後のステージとなった2009年4月18日の日比谷野音でのライブを収録。
 4.  **GOING UNDER GROUND 冬のHALL TOUR ふるさとライブ〜荒川わたれvol.3〜 at 響の森 桶川市民ホール** （2013年3月1日、ampd-2）
       -
@@ -482,6 +519,7 @@
 5.  **GOING UNDER GROUND TOUR 2013〜14 「ならば青春の光」 ふるさとライブ〜荒川わたれ vol.4〜 at 響の森 桶川市民ホール** （2014年1月19日、ampd-3）
       -
         ライブ会場及び公式サイト通販にて発売。2013年11月9日に行われたホールライブを収録。
+        脱退した元メンバー、伊藤洋一が限定復帰して、数曲、演奏した。
 6.  **GOING UNDER GROUND TOUR 「OReTABI 2014〜15」 LIVE at 渋谷公会堂「河野、バンドやめるってよ」** （2015年5月16日、ampd-4）
       -
         ライブ会場及び公式サイト通販にて発売。2015年1月31日に渋谷公会堂にて行われた同日付けでバンドを脱退した[河野丈洋](../Page/河野丈洋.md "wikilink")のラストライブを収録。通販での購入者には、未発表曲「屋根の上のSSW」「parade」が収録された特典CD付き。
@@ -522,6 +560,21 @@
       -
         iTunes Store、レコチョクなどで配信
         アルバム「[Roots & Routes](https://ja.wikipedia.org/wiki/Roots_&_Routes "wikilink")」からの先行配信
+7.  **momotaro** (2020年4月16日)
+    1.  momotaro
+    2.  昼呑み(仮)
+8.  **望郷東京2020** (2020年5月30日)
+    1.  望郷東京2020
+    2.  固結び
+    3.  望郷東京2020(naked iPhone ver.)
+    <!-- end list -->
+      -
+        全て、リモートで製作された。松本が一発録りしたデモテープに、メンバーがそれぞれ音を重ね、それを曽我部恵一がミックスしたもの。
+9.  **ビーチパーティー** (2020年8月29日)
+    1.  ビーチパーティー
+    <!-- end list -->
+      -
+        望郷東京2020と同様に全てリモートで製作された。
 
 ### 参加作品
 
@@ -542,29 +595,64 @@
 5.  **[奥田民生・カバーズ](../Page/奥田民生・カバーズ.md "wikilink")** （2007年10月24日、SECL563〜564）
       -
         「イージュー★ライダー」カバー収録。
+        この曲を歌いたいがために、松本素生は奥田民生の事務所に直接電話をして、｢自分たちにこの曲を歌わせてほしい｣と直談判して、見事に達成した。
 6.  **[エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink") カヴァーアルバム2 〜A Tribute to The Elephant Kashimashi〜** （2013年12月18日、UMCK-1468）
       -
         「旅の途中」カバー収録。
 7.  **JESUS CRUYFF SUPER STAR Sensitive Melody Disc** （2013年8月7日、DDCZ-1887）
       -
         [cruyff in the bedroomのトリビュートアルバム](https://ja.wikipedia.org/wiki/cruyff_in_the_bedroom "wikilink")。「sad paradise」カバー収録。
-8.  **[MAGICAL MYSTERY COVERS](https://ja.wikipedia.org/wiki/MAGICAL_MYSTERY_COVERS "wikilink")** （2018年4月1日、MKR-006）
+8.  '''[銀杏BOYZ](https://ja.wikipedia.org/wiki/銀杏BOYZ "wikilink")のトリビュートアルバム～ ｢[きれいなひとりぼっちたち](https://ja.wikipedia.org/wiki/きれいなひとりぼっちたち "wikilink")｣ (2016年12月7日)
+      -
+        「ナイトライダー」カバー収録。
+9.  **[MAGICAL MYSTERY COVERS](https://ja.wikipedia.org/wiki/MAGICAL_MYSTERY_COVERS "wikilink")** （2018年4月1日、MKR-006）
       -
         THE GOGGLESのトリビュートアルバム。「HELL（減る）」カバー収録。
 
-9 銀杏BOYZのトリビュートアルバム
-
-`   「きれいなひとりぼっちたち」にて`
-`   「ナイトライダー」カバー収録。`
-
 #### その他
 
-1.  **[藤井フミヤ](../Page/藤井フミヤ.md "wikilink")『[F's KITCHEN](https://ja.wikipedia.org/wiki/F's_KITCHEN "wikilink")』** （2008年10月8日）
+1.  **[YELL FROM NIPPON](../Page/YELL_FROM_NIPPON.md "wikilink")『[友情のエール](https://ja.wikipedia.org/wiki/友情のエール "wikilink")』** （2006年5月31日）
       -
-        「ケモノ マイハート」に参加。
-2.  **[ミドリカワ書房](../Page/ミドリカワ書房.md "wikilink")『愛にのぼせろ』** （2011年7月13日）
+        松本と中澤がボーカルで参加
+2.  **[藤井フミヤ](../Page/藤井フミヤ.md "wikilink")『[F's KITCHEN](https://ja.wikipedia.org/wiki/F's_KITCHEN "wikilink")』** （2008年10月8日）
+      -
+        「ケモノ マイハート」を松本が作詞・作曲。
+        演奏もゴーイングが行っている
+3.  **[Blue Smith](https://ja.wikipedia.org/wiki/Blue_Smith "wikilink")『ORGAN・LOVE』** （2008年12月3日）
+      -
+        ｢ONE｣ feat.松本素生＆河野丈洋
+        作詞:松本素生 作曲:Blue Smith
+        松本によるヴォーカル、河野によるドラムで参加
+4.  **[ミドリカワ書房](../Page/ミドリカワ書房.md "wikilink")『愛にのぼせろ』** （2011年7月13日）
       -
         10曲中6曲に参加。
+        ｢魔法にかけて！｣ ｢また明日｣を松本が作曲、作詞は緑川伸一
+        演奏にゴーイングが参加
+5.  '''[春色の君はかわいい/『 −5』](https://ja.wikipedia.org/wiki/春色の君はかわいい/『_−5』 "wikilink") ～Tribute to Yasumasa Hashiguchh (2017年12月7日)
+      -
+        GOING UNDER GROUNDのサポートキーボードを務めていた[橋口靖正](https://ja.wikipedia.org/wiki/橋口靖正 "wikilink")のトリビュート・アルバム
+        M-3 ｢シャナナナ｣ 中澤寛規
+        M-9 ｢シンクロナイズドテレパシー｣ 松本素生
+        カバー収録
+
+### カセットテープ
+
+private lessons vol.1（2019年6月29日）
+
+1.  **momotaro**
+2.  **night flight**
+3.  **shugar**
+      -
+        ライブ会場のみでの販売。2020年現在、完売
+
+Private lessons vol.2 (2019年12月12日)
+
+1.  **トンネルボーイ**
+2.  **武蔵野**
+3.  **ダンボールギフト**
+      -
+        ライブ会場、及び公式サイト通販にて販売されている。
+        トンネルボーイは石原聡が初めてリードヴォーカルを務めた。
 
 ### 非売品CD
 
@@ -578,8 +666,13 @@
 ### CD未発表作品
 
   - **parade** シングル「胸いっぱい」にCD-EXTRAとしてライブ音源が収録されているが正式なCD音源は発表されていない。
+
+後に｢ALL TIME BEST〜20th STORY + LOVE + SONG〜｣に収録された。
+
   - **フラッグ** TOUR 2008-2009 “LUCKY STAR”で披露。
   - **WINDING ROAD** 2010年に行われたライブ等で披露。
+
+｢ALL TIME BEST〜20th STORY + LOVE + SONG〜｣に収録された。
 
 ## 出演
 
@@ -663,7 +756,7 @@
 <!-- end list -->
 
   -
-    松本素生が[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")にて毎週水曜日 18:30 - 20:00 に[10-FEET](../Page/10-FEET.md "wikilink")のTAKUMAと共にVJとして出演していた。
+    松本素生が[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")にて毎週水曜日 18:30 - 20:00 に[10-FEET](../Page/10-FEET.md "wikilink")のTAKUMAと共にVJとして出演した。
 
 <!-- end list -->
 
@@ -681,7 +774,7 @@
 <!-- end list -->
 
   -
-    松本が「おれ、ねこ」・「あたし、ねこ」・「わが輩は、犬」・「わたし、犬、いぬ」・「ねこの写真、誠にありがとうの歌」・「犬の写真、誠にありがとうの歌」・「これを知ってるといばれるの唄　首都編」・「これを知ってるといばれるの唄 難読漢字編」を歌唱。
+    松本が「おれ、ねこ」・「わが輩は、犬」・「ねこの写真、誠にありがとうの歌」・「犬の写真、誠にありがとうの歌」・「これを知ってるといばれるの唄　首都編」・「これを知ってるといばれるの唄 難読漢字編」を歌唱。
 
 <!-- end list -->
 
@@ -788,6 +881,7 @@
 | [二宮銀治](https://ja.wikipedia.org/wiki/二宮銀治 "wikilink")                                                         | 「[Breakthrough](https://www.youtube.com/watch?v=axR4iU9StHA)」                                                                                                                                               |
 | [フカツマサカズ](../Page/フカツマサカズ.md "wikilink")×庄司信也                                                                 | 「\[<https://www.youtube.com/watch?v=up9W_6OWb_8> LISTEN TO THE STEREO                                                                                                                                       |
 | [本田義信](https://ja.wikipedia.org/wiki/本田義信 "wikilink")                                                         | 「かよわきエナジー〜Take Me Home, Country Roads.」「アゲハ alternate version "アゲハとトカゲ"」「[カモメトゥモロー](https://www.youtube.com/watch?v=15lRFA6DOFU)」「[グラフティー](https://www.youtube.com/watch?v=Jh5fs5Zl9GQ)」「ダイアリー (LIVE Ver.)」 |
+| [大場潤也](https://ja.wikipedia.org/wiki/大場潤也 "wikilink")                                                         | 「望郷東京2020」「固結び」                                                                                                                                                                                             |
 | 不明                                                                                                            | 「[STAND BY ME](https://www.youtube.com/watch?v=Cpgsj3vs8Y8)」「きらり」「思春期のブルース」「涙がこぼれそう」                                                                                                                        |
 |                                                                                                               |                                                                                                                                                                                                             |
 
@@ -1017,6 +1111,7 @@
       - [恋のナビゲーション](https://ja.wikipedia.org/wiki/h.o.p.s. "wikilink")
       - [ナカザのロック★](../Page/おやすみモンスター.md "wikilink")
       - [ナカザのディスコ★](https://ja.wikipedia.org/wiki/Roots_&_Routes "wikilink")
+      - [スターシェイカー](https://ja.wikipedia.org/wiki/FILMS "wikilink")
 2.  河野メインボーカル
       - [ラストダンス](https://ja.wikipedia.org/wiki/LUCKY_STAR "wikilink")
       - [アワーソウル](https://ja.wikipedia.org/wiki/LUCKY_STAR "wikilink")
@@ -1027,8 +1122,9 @@
       - [南十字](../Page/TUTTI.md "wikilink")
 5.  その他
       - [チェロ](../Page/Cello.md "wikilink") - 中澤ボーカル参加（松本がメインボーカル）
-      - [アゲハ alternate version "アゲハとトカゲ"](https://ja.wikipedia.org/wiki/アゲハ_\(曲\) "wikilink") - 河野ボーカル参加（松本がメインボーカル）
+      - [アゲハ alternate version "アゲハとトカゲ"](../Page/アゲハ_\(GOING_UNDER_GROUNDの曲\).md "wikilink") - 河野ボーカル参加（松本がメインボーカル）
       - おやすみ - メンバー5人による唯一のアカペラ作品 ※「[おやすみモンスター](../Page/おやすみモンスター.md "wikilink")」初回盤のみ収録
+      - [Allegro Cantabile](https://ja.wikipedia.org/wiki/Allegro_Cantabile "wikilink") : [末光篤](https://ja.wikipedia.org/wiki/末光篤 "wikilink")の曲をGOING UNDER GROUND×末光篤でカヴァーした曲。松本が1番、河野が2番のメインヴォーカル。中澤と末光がサブでヴォーカルをとっている。
 
 ### その他
 
@@ -1044,7 +1140,7 @@
 
 ## 関連項目
 
-  - [青木慶則](../Page/青木慶則.md "wikilink") - 2010年夏から2014年2月までの3年半に亘りサポートキーボーディストとしてライブ、レコーディングに参加。2010年春には河野丈洋と二人でツアーを行った。
+  - [青木慶則](../Page/青木慶則.md "wikilink") - 2010年夏から2014年2月までの3年半に亘りサポートキーボーディストとしてライブ、レコーディングに参加。2010年春には河野丈洋と二人でツアーを行った。旧名義は｢HARCO｣ (ハルコ)
   - [大久保敬](../Page/ザ・キャプテンズ.md "wikilink") - 伊藤洋一脱退直後の2009年から2010年までサポートキーボーディストとしてライブ、レコーディングに参加。
   - [ヒダカトオル](https://ja.wikipedia.org/wiki/ヒダカトオル "wikilink") - GOING UNDER GROUND及び松本素生のソロプロジェクトのプロデュース。
   - [上田ケンジ](../Page/上田ケンジ.md "wikilink") - インディーズ時代のプロデューサー。
@@ -1058,6 +1154,16 @@
   - [Bank Band](../Page/Bank_Band.md "wikilink") - アルバム『[沿志奏逢3](https://ja.wikipedia.org/wiki/沿志奏逢3 "wikilink")』（2010年6月30日発売）に「[ハートビート](../Page/ハートビート_\(GOING_UNDER_GROUNDの曲\).md "wikilink")」のカバーが収録されている。
   - [Lead](../Page/Lead.md "wikilink") - シングル『Upturn』（2013年6月19日発売）に「[トワイライト](../Page/トワイライト_\(GOING_UNDER_GROUNDの曲\).md "wikilink")」のカバーが収録されている。
   - [劇団ひとり](../Page/劇団ひとり.md "wikilink") - シングル『いっしょに帰ろう』（2009年1月21日発売）のPVに出演して、プライベートでも親交がある。
+  - [橋口靖正](https://ja.wikipedia.org/wiki/橋口靖正 "wikilink") - 約2年半に渡り、GOING UNDER GROUNDのサポートキーボードを担当していたが、2016年12月8日に急逝した。
+
+<!-- end list -->
+
+  -
+    キーボードの他、編曲、コーラス、プロデュース、1部の楽曲の作曲にも関わっている。メンバーからは、｢ぐっちゃん｣の愛称で親しまれていた。
+
+<!-- end list -->
+
+  - [富田政彦](https://ja.wikipedia.org/wiki/富田政彦 "wikilink") - 2020年現在、GOING UNDER GROUNDのサポートドラムを担当している。サポートキーボードを担当していた、橋口靖正が在籍していた｢hello！｣の初期ドラマーで、GOING UNDER GROUNDへのサポートは橋口の紹介によるもの。
 
 ## 外部リンク
 
@@ -1074,9 +1180,9 @@
   - メンバーブログ等
       -
       -
-      - [GOINGUNDERGROUNDさんの日記一覧 - Yahoo\!モバゲー](http://yahoo-mbga.jp/12205310/diary) - 中澤寛規の日記
+      - \- 中澤寛規の日記
 
-      - [石原聡の 一日一善](http://going05.exblog.jp/) - 石原聡のブログ
+      - [石原聡の 一日一善](https://going05.exblog.jp/) - 石原聡のブログ
 
       - [石原聡の一日一麺](https://ameblo.jp/cup-ra-men-issan/) - 石原聡がカップ麺を紹介するブログ
 
@@ -1102,7 +1208,7 @@
 
       - \- 週末Diner公式サイト内Podcast配信ページ。
 
-[Category:GOING_UNDER_GROUND](https://ja.wikipedia.org/wiki/Category:GOING_UNDER_GROUND "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
+[Category:GOING_UNDER_GROUND](https://ja.wikipedia.org/wiki/Category:GOING_UNDER_GROUND "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
 
 1.
 2.  該当ツイート[1](https://twitter.com/sou_matsumoto/status/541034045174325248)

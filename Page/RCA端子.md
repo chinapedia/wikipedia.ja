@@ -1,7 +1,7 @@
 > この記事は[RCA端子](https://ja.wikipedia.org/wiki/RCA端子)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:RCA_type_jack_and_plug_Video_&_Audio.jpg "wikilink")（黄色）と[ステレオ](../Page/ステレオ.md "wikilink")音声信号（赤・白）\]\] [thumbのRCAプラグ](https://ja.wikipedia.org/wiki/ファイル:Component_video_RCA.jpg "wikilink")\]\] **RCA端子**（RCAたんし）とは[電気信号をやりとりする](../Page/信号_\(電気工学\).md "wikilink")[端子](https://ja.wikipedia.org/wiki/端子 "wikilink")の一種である。[映像](../Page/映像機器.md "wikilink")・[音響機器](../Page/音響機器.md "wikilink")などに広く用いられており、据置型の民生用機器では特に断りがない限り、アナログの映像端子・音声端子はRCA端子であることが多い。この名称は、1930年代に電気[蓄音機](../Page/蓄音機.md "wikilink")等向けにこの[プラグ](https://ja.wikipedia.org/wiki/プラグ "wikilink")の原形を開発した、[アメリカの大手](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[家電メーカー](https://ja.wikipedia.org/wiki/家電メーカー "wikilink")[RCA](../Page/RCA.md "wikilink")に由来する。**ピン端子**、三色端子**ピンプラグ**・**ピンジャック**とも呼ぶ。
+[代替文=](https://ja.wikipedia.org/wiki/ファイル:Composite-cables.jpg "wikilink")（黄色）と[ステレオ](../Page/ステレオ.md "wikilink")音声信号（赤・白）\]\] [代替文=のRCAプラグ](https://ja.wikipedia.org/wiki/ファイル:Component-cables.jpg "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Regza_Z_Series_Back_Panel_Interface.jpg "wikilink") **RCA端子**（RCAたんし）とは[電気信号をやりとりする](../Page/信号_\(電気工学\).md "wikilink")[端子](https://ja.wikipedia.org/wiki/端子 "wikilink")の一種である。[映像](../Page/映像機器.md "wikilink")・[音響機器](../Page/音響機器.md "wikilink")などに広く用いられており、据置型の民生用機器では特に断りがない限り、アナログの映像端子・音声端子はRCA端子であることが多い。この名称は、1930年代に電気[蓄音機](../Page/蓄音機.md "wikilink")等向けにこの[プラグ](https://ja.wikipedia.org/wiki/プラグ "wikilink")の原形を開発した、[アメリカの大手](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[家電メーカー](https://ja.wikipedia.org/wiki/家電メーカー "wikilink")[RCA](../Page/RCA.md "wikilink")に由来する。**ピン端子**、三色端子**ピンプラグ**・**ピンジャック**とも呼ぶ。
 
 ## 構造
 

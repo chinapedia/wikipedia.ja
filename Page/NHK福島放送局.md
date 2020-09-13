@@ -240,48 +240,53 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>契約キャスター</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/須藤健吾" title="wikilink">須藤健吾</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>契約キャスター</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>淺川理沙</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/おはようふくしま" title="wikilink">おはようふくしま</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>髙石桃子</p></td>
 <td><p>　</p></td>
 <td><p>はまなかあいづToday<br />
 （キャスター）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>三谷咲都美</p></td>
 <td></td>
 <td><p>はまなかあいづToday<br />
 （リポーター）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>後藤万里子</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>丹野なな子</p></td>
 <td></td>
 <td><p>こでらんに5</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>佐藤彩乃</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>齋藤郁子</p></td>
 <td></td>
 <td><p>はまなかあいづToday</p></td>

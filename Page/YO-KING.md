@@ -1,7 +1,7 @@
 > この記事は[YO-KING](https://ja.wikipedia.org/wiki/YO-KING)から翻訳されています。
 
 
-**YO-KING**（ヨー キング、[1967年](../Page/1967年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink")のメンバー。本名の**倉持 陽一**（くらもち よういち）名義での活動歴もある。[血液型AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[SME系](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")・[Ki/oon Music所属](../Page/キューンミュージック.md "wikilink")。
+**YO-KING**（ヨー キング、[1967年](../Page/1967年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink")のメンバー。本名の**倉持 陽一**（くらもち よういち）名義での活動歴もある。[血液型AB型](../Page/ABO式血液型.md "wikilink")。[SME系](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")・[Ki/oon Music所属](../Page/キューンミュージック.md "wikilink")。
 
 ## 来歴
 
@@ -523,56 +523,56 @@
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/7月25日.md" title="wikilink">7月25日</a></p></td>
 <td><p><strong><a href="../Page/RIP_SLYME.md" title="wikilink">RIP SLYME</a>『<a href="../Page/FIVE_(RIP_SLYMEのアルバム).md" title="wikilink">FIVE</a>』</strong></p></td>
 <td><p>AMCN-4542</p></td>
-<td><p>7.光る音 (feat.YO-KING)</p></td>
+<td><p>7. 光る音 (feat. YO-KING)</p></td>
 <td><p>オリコン最高6位、登場回数30回</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/10月29日.md" title="wikilink">10月29日</a></p></td>
 <td><p><strong><a href="../Page/外道_(バンド).md" title="wikilink">外道</a> Tribute -ゲゲゲの外道讃歌-</strong></p></td>
 <td><p>AICL-1493</p></td>
-<td><p>3.悪魔のベイビー</p></td>
+<td><p>3. 悪魔のベイビー</p></td>
 <td><p>ソニー・ミュージックアソシエイテッドレコーズ</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/3月10日.md" title="wikilink">3月10日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/コザック前田" title="wikilink">コザック前田</a>『<a href="https://ja.wikipedia.org/wiki/東須磨は夕方6時" title="wikilink">東須磨は夕方6時</a>』</strong></p></td>
 <td><p>SRCL-5662</p></td>
-<td><p>2.望み(曲の途中で歌っている。)</p></td>
+<td><p>2. 望み（曲の途中で歌っている。）</p></td>
 <td><p>オリコン最高54位、登場回数4回</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/9月16日.md" title="wikilink">9月16日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/シンクロナイズド・ロッカーズ" title="wikilink">シンクロナイズド・ロッカーズ</a></strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/the_pillows" title="wikilink">the pillows</a><a href="../Page/トリビュート・アルバム.md" title="wikilink">トリビュート・アルバム</a>『<a href="../Page/SYNCHRONIZED_ROCKERS.md" title="wikilink">SYNCHRONIZED ROCKERS</a>』</strong></p></td>
 <td><p>KICS-1103</p></td>
-<td><p>5.この世の果てまで</p></td>
+<td><p>5. この世の果てまで</p></td>
 <td><p>オリコン最高13位、登場回数9回</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/6月21日.md" title="wikilink">6月21日</a></p></td>
-<td><p><strong>THE MODS TRIBUTE SO WHAT！！ Vol.2</strong></p></td>
+<td><p>'''THE MODS TRIBUTE SO WHAT<nowiki></p></td>
+<td><p></nowiki> Vol.2'''</p></td>
 <td><p>ESCL-2846</p></td>
-<td><p>11.HEY</p></td>
-<td><p>TRAVIS</p></td>
+<td><p>11. HEY</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/9月12日.md" title="wikilink">9月12日</a></p></td>
-<td><p><strong><a href="../Page/三宅伸治.md" title="wikilink">三宅伸治</a>『つづく』</strong></p></td>
+<td><p><strong><a href="../Page/三宅伸治.md" title="wikilink">三宅伸治</a>『<a href="../Page/つづく.md" title="wikilink">つづく</a>』</strong></p></td>
 <td><p>NFCD-27050B</p></td>
-<td><p>8.風の行き先 / 三宅伸治＆YO-KING＆アナム＆マキ</p></td>
+<td><p>8. 風の行き先 / 三宅伸治 &amp; YO-KING &amp; <a href="../Page/アナム&amp;マキ.md" title="wikilink">アナム&amp;マキ</a></p></td>
 <td><p>オリコン最高59位</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="https://ja.wikipedia.org/wiki/3月25日" title="wikilink">3月25日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/銀魂BEST" title="wikilink">銀魂BEST</a></strong></p></td>
 <td><p>SVWC-7613</p></td>
-<td><p>4.遠い匂い</p></td>
+<td><p>4. 遠い匂い</p></td>
 <td><p>オリコン最高37位、登場回数5回</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/9月16日.md" title="wikilink">9月16日</a></p></td>
 <td><p><strong><a href="../Page/フラワーカンパニーズ.md" title="wikilink">フラワーカンパニーズ</a>トリビュート『<a href="https://ja.wikipedia.org/wiki/深夜高速_-生きててよかったの集い-" title="wikilink">深夜高速 -生きててよかったの集い-</a>』</strong></p></td>
 <td><p>AICL-2039</p></td>
-<td><p>14.<a href="https://ja.wikipedia.org/wiki/深夜高速" title="wikilink">深夜高速</a></p></td>
+<td><p>14. <a href="https://ja.wikipedia.org/wiki/深夜高速" title="wikilink">深夜高速</a></p></td>
 <td><p>オリコン最高位、登場回数回</p></td>
 </tr>
 <tr class="odd">
@@ -585,14 +585,14 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/5月29日.md" title="wikilink">5月29日</a></p></td>
-<td><p><strong><a href="../Page/川上つよしと彼のムードメイカーズ.md" title="wikilink">川上つよしと彼のムードメイカーズ</a>『MOODHOLIC〜泡沫の日々〜』</strong></p></td>
+<td><p><strong><a href="../Page/川上つよしと彼のムードメイカーズ.md" title="wikilink">川上つよしと彼のムードメイカーズ</a>『MOODHOLIC 〜泡沫の日々〜』</strong></p></td>
 <td><p>RZCD-59271</p></td>
 <td><p>6. 酒とバラの日々</p></td>
 <td><p>オリコン最高133位</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/7月3日.md" title="wikilink">7月3日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/沖祐市" title="wikilink">沖祐市</a>『Gospel』</strong></p></td>
+<td><p><strong>沖祐市『Gospel』</strong></p></td>
 <td><p>CTCR-14790</p></td>
 <td><p>3. My Lucky Day</p></td>
 <td><p>オリコン最高80位</p></td>
@@ -601,21 +601,21 @@
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/4月16日.md" title="wikilink">4月16日</a></p></td>
 <td><p><strong>島田印 -島田昌典ワークス・ヒットコレクション-</strong></p></td>
 <td><p>BVCL-588</p></td>
-<td><p>11.遠い匂い</p></td>
+<td><p>11. 遠い匂い</p></td>
 <td><p>オリコン最高117位</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/5月21日.md" title="wikilink">5月21日</a></p></td>
 <td><p><strong>WE LOVE PIANO MAN トリビュート・トゥ・<a href="../Page/ビリー・ジョエル.md" title="wikilink">ビリー・ジョエル</a></strong></p></td>
 <td><p>SICP-4132</p></td>
-<td><p>6.アレンタウン</p></td>
+<td><p>6. アレンタウン</p></td>
 <td><p>オリコン最高134位</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/6月17日.md" title="wikilink">6月17日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/シシド・カフカ" title="wikilink">シシド・カフカ</a>『K⁵(Kの累乗)』</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/シシド・カフカ" title="wikilink">シシド・カフカ</a>『K⁵（Kの累乗）』</strong></p></td>
 <td><p>SICP-4132</p></td>
-<td><p>6.あの夏、君が見てたモノ- feat.YO-KING(真心ブラザーズ)</p></td>
+<td><p>6. あの夏、君が見てたモノ- feat. YO-KING（真心ブラザーズ）</p></td>
 <td><p>オリコン最高29位</p></td>
 </tr>
 <tr class="odd">
@@ -742,7 +742,7 @@
 
 ### CM
 
-  - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")「[RAV4](../Page/トヨタ・RAV4.md "wikilink")」（[2019年](../Page/2019年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、CMソングの歌唱を担当。）
+  - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")「[RAV4](../Page/トヨタ・RAV4.md "wikilink")」（[2019年](../Page/2019年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、[CMソングの歌唱を担当](../Page/コマーシャルソング.md "wikilink")。）
 
 ## 外部リンク
 
@@ -754,4 +754,5 @@
 
   - [YO-KING スタッフblog](http://6109.jp/yo-king-staff/)(2011年更新停止)
 
-[Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:日本の男性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ポップ歌手 "wikilink") [Category:日本の男性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ロック歌手 "wikilink") [Category:ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアーティスツ "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:早稲田大学出身の人物](https://ja.wikipedia.org/wiki/Category:早稲田大学出身の人物 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:1967年生](https://ja.wikipedia.org/wiki/Category:1967年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+  -
+[Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:日本の男性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ポップ歌手 "wikilink") [Category:日本の男性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ロック歌手 "wikilink") [Category:ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアーティスツ "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:早稲田大学出身の人物](https://ja.wikipedia.org/wiki/Category:早稲田大学出身の人物 "wikilink") [Category:東京都立小石川中等教育学校出身の人物](https://ja.wikipedia.org/wiki/Category:東京都立小石川中等教育学校出身の人物 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:1967年生](https://ja.wikipedia.org/wiki/Category:1967年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

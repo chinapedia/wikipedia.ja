@@ -144,7 +144,7 @@
 ## 宣伝活動
 
   - 旭硝子の時代からCMを放映している。
-  - 2014年 [FIFA](https://ja.wikipedia.org/wiki/FIFA "wikilink")（国際サッカー連盟）[ワールドカップ](../Page/ワールドカップ.md "wikilink")[ブラジル大会](https://ja.wikipedia.org/wiki/ブラジル大会 "wikilink")では12の競技場に置かれる「ガラス製ベンチルーフ」を開発・製作しスポンサードした\[12\]。
+  - 2014年 [FIFAワールドカップ ブラジル大会では](../Page/2014_FIFAワールドカップ.md "wikilink")12の競技場に置かれる「ガラス製ベンチルーフ」を開発・製作しスポンサードした\[12\]。
   - [2018年](../Page/2018年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")から[2019年](../Page/2019年.md "wikilink")初頭まで社名変更を知らせるCMを放映。
 
 ### 提供スポンサーであった番組

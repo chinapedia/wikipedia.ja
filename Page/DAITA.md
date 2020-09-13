@@ -1,7 +1,7 @@
 > この記事は[DAITA](https://ja.wikipedia.org/wiki/DAITA)から翻訳されています。
 
 
-**DAITA**（ダイタ、伊藤大太、*Daita Itoh*, [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[6月19日](../Page/6月19日.md "wikilink") - ）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[東京都](../Page/東京都.md "wikilink")[世田谷区](../Page/世田谷区.md "wikilink")出身。[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[SIAM SHADEの](../Page/SIAM_SHADE.md "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")。血液型はA型。
+**DAITA**（ダイタ、伊藤大太、*Daita Itoh*, [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[6月19日](../Page/6月19日.md "wikilink") - ）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[東京都](../Page/東京都.md "wikilink")[世田谷区](../Page/世田谷区.md "wikilink")出身。[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[SIAM SHADEの](../Page/SIAM_SHADE.md "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")。血液型はA型。既婚。
 
 ## 経歴
 
@@ -11,7 +11,7 @@
   - [2002年](../Page/2002年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")にSIAM SHADEが解散した後、ソロ活動に入る。
   - [2002年](../Page/2002年.md "wikilink")に[韓国映画](../Page/大韓民国.md "wikilink")、『火山高』のサウンドトラックを手がける。サントラ発売の[12月4日](../Page/12月4日.md "wikilink")にはその曲をライブで披露する。
   - [2003年](../Page/2003年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")に本人の公式サイトからの[通信販売](../Page/通信販売.md "wikilink")限定でプロジェクトアルバム「DIRECT CHORD」を発表。
-  - [2003年](../Page/2003年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")に初のソロアルバム「EUPHONY」を発売する。本人の演奏映像などが納められたDVDとの二枚組。[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列で放送された「[スカイハイ](../Page/スカイハイ_\(漫画\).md "wikilink")」（原作・[髙橋ツトム](../Page/高橋ツトム.md "wikilink")、主演・[釈由美子](https://ja.wikipedia.org/wiki/釈由美子 "wikilink")）のBGMだった「Suna no Shiro」など全7曲を収録。
+  - [2003年](../Page/2003年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")に初のソロアルバム「EUPHONY」を発売する。本人の演奏映像などが納められたDVDとの二枚組。[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列で放送された「[スカイハイ](../Page/スカイハイ_\(漫画\).md "wikilink")」（原作・[髙橋ツトム](../Page/髙橋ツトム.md "wikilink")、主演・[釈由美子](https://ja.wikipedia.org/wiki/釈由美子 "wikilink")）のBGMだった「Suna no Shiro」など全7曲を収録。
   - [2003年](../Page/2003年.md "wikilink")以降、[氷室京介](../Page/氷室京介.md "wikilink")のツアーギタリストを務めている。「めちゃくちゃ上手くてカッコいいよね」と氷室からも絶賛されている。
   - [2004年](../Page/2004年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")に[Shibuya O-East](https://ja.wikipedia.org/wiki/Shibuya_O-East "wikilink")（旧ON-AIR EAST)にてライブを行う。その模様はDVDに収録され、同年[9月](../Page/9月.md "wikilink")より本人のサイトからの通信販売で発売された。
   - [2005年](../Page/2005年.md "wikilink")[5月5日](../Page/5月5日.md "wikilink")、[Zepp Tokyoにて](https://ja.wikipedia.org/wiki/Zepp_Tokyo "wikilink")[ジョー・サトリアーニ](../Page/ジョー・サトリアーニ.md "wikilink")率いる、[ロック](../Page/ロック_\(音楽\).md "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")の饗宴と言われる「[G3](https://ja.wikipedia.org/wiki/G3_\(ツアーコンサート\) "wikilink")」の日本初公演にゲストながらも参加し、日本人で最初に「G3」の舞台を踏んだギタリストとなる。なお、このときのメインギタリストはメインのジョー以下、[ジョン・ペトルーシ](../Page/ジョン・ペトルーシ.md "wikilink")、[スティーヴ・ヴァイ](../Page/スティーヴ・ヴァイ.md "wikilink")の計3人でツアーを回っていた。
@@ -27,7 +27,7 @@
 
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")、第1期[BINECKS](https://ja.wikipedia.org/wiki/BINECKS "wikilink")完結。
   - 2013年5月14日DAITA率いる[BREAKING ARROWSが](https://ja.wikipedia.org/wiki/BREAKING_ARROWS "wikilink")1stシングルTEARS FALLING HEAVYをリリースし全米デビュー。以降LAを拠点としLIVE活動を行っている。
-  - 2014年7月26・27日、[横浜国際総合競技場](../Page/横浜国際総合競技場.md "wikilink")で行われた[ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")のコンサートももクロ夏のバカ騒ぎ2014 日産スタジアム大会〜桃神祭〜」でサポートギタリストを務める。当日まで出演情報は解禁されずシークレット扱いであった。
+  - 2014年7月26・27日、[横浜国際総合競技場](../Page/横浜国際総合競技場.md "wikilink")で行われた[ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")のコンサート「ももクロ夏のバカ騒ぎ2014 日産スタジアム大会〜桃神祭〜」でサポートギタリストを務める。当日まで出演情報は解禁されずシークレット扱いであった。
 
 <!-- end list -->
 

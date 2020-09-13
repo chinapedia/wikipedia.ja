@@ -26,7 +26,7 @@
 
 ## 外部リンク
 
-  - [Be@t B@by\!\!](http://web.archive.org/web/20010413171624/www.tbs.co.jp/radio/bbaby/)（番組放送終了・JUNKへ名称変更により削除されたTBSラジオ公式サイトの保存キャッシュ）
+  - [Be@t B@by\!\!](https://web.archive.org/web/20010413171624/www.tbs.co.jp/radio/bbaby/)（番組放送終了・JUNKへ名称変更により削除されたTBSラジオ公式サイトの保存キャッシュ）
 
 [Category:TBSラジオの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSラジオの帯番組の歴史 "wikilink") [Category:2000年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のラジオ番組_\(日本\) "wikilink") [Category:ラジオ放送枠](https://ja.wikipedia.org/wiki/Category:ラジオ放送枠 "wikilink")
 

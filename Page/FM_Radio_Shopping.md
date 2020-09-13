@@ -19,7 +19,7 @@
 
 基本的にこの番組は、朝枠は「[OH\! HAPPY MORNING](https://ja.wikipedia.org/wiki/OH!_HAPPY_MORNING "wikilink")」の[DJとショッピングキャスター](../Page/ディスクジョッキー.md "wikilink")、月 - 木曜の昼枠及び夕枠は「[flowers](https://ja.wikipedia.org/wiki/Flowers_\(ラジオ番組\) "wikilink")」、金曜の昼枠は「[FRIDAY GOES ON\!](../Page/FRIDAY_GOES_ON!_〜あっ、それいただきっ!〜.md "wikilink")」のDJとショッピングキャスターが担当する。
 
-[フリーダイヤル](../Page/フリーダイヤル.md "wikilink")番号案内（「フリーダイヤル0120……」）は、ショッピングキャスターではなく、番組DJが担当する。以前はコーナー前と後のコールだったが、後に後半に[BGMに乗せる形で行う形に変わった](../Page/バックグラウンドミュージック.md "wikilink")。
+[フリーダイヤル](../Page/フリーダイヤル.md "wikilink")番号案内（「フリーダイヤル0120……」）は、ショッピングキャスターではなく、番組DJが担当する。以前はコーナー前と後にメロディに乗せて歌うスタイルのものが放送されていたたが、後に商品の値段を紹介した後、ショッピングキャスターが「お問い合わせ、お申し込みは・・・」とコメントして[BGMに乗せる形で番組DJが読み上げるスタイルに変わった](../Page/バックグラウンドミュージック.md "wikilink")。
 
 コーナーの最後に翌日または翌週月曜放送予定の商品の予告があった（その際、当該日が祝日\[2\]の場合「明日（来週月曜日）は祝日のためお休みです。□曜日（来週火曜日）は？」とコメントを付け加える）。2012年途中からは予告もしなくなった。
 
@@ -55,8 +55,38 @@
 
 ### 過去に担当
 
-  - [矢村貴子](https://ja.wikipedia.org/wiki/矢村貴子 "wikilink") - 「[ヒルサイド・アヴェニュー フライデー・スペシャル 『much ado noon』](https://ja.wikipedia.org/wiki/ヒルサイド・アヴェニュー#ヒルサイド・アヴェニュー_フライデー・スペシャル "wikilink")」パーソナリティ
-  - [真木ひろか](../Page/真木ひろか.md "wikilink") - 「flowers」水・木パーソナリティ
+  - 番組DJ
+
+<!-- end list -->
+
+  - 朝
+      - [坂本咲子](https://ja.wikipedia.org/wiki/坂本咲子 "wikilink") - 『[L・Wellness〜素敵にトランタン〜](https://ja.wikipedia.org/wiki/L・Wellness〜素敵にトランタン〜 "wikilink")』→『[te quiero pa quiero](https://ja.wikipedia.org/wiki/te_quiero_pa_quiero "wikilink")』
+      - [山川牧](../Page/山川牧.md "wikilink")、[中田美香](../Page/中田美香.md "wikilink")、[船守さちこ](../Page/船守さちこ.md "wikilink") - 『[Open Sesame\!](../Page/Open_Sesame!.md "wikilink")』
+      - 椎名由紀 - 『[SOMETHING](../Page/SOMETHING.md "wikilink")』
+      - 井門宗之 - 『[Applause\!〜週末の主役達へ〜](../Page/Applause!〜週末の主役達へ〜.md "wikilink")』
+
+<!-- end list -->
+
+  - 昼
+      - 平山陽子、[小川もこ](../Page/小川もこ.md "wikilink")、[石川小百合](../Page/石川小百合.md "wikilink")、[磯野貴理子](../Page/磯野貴理子.md "wikilink")、[牧野隆志](https://ja.wikipedia.org/wiki/牧野隆志 "wikilink")、[鈴木万由香](../Page/鈴木万由香.md "wikilink")、[平井貴子](https://ja.wikipedia.org/wiki/平井貴子 "wikilink")、[鈴木桃子](../Page/鈴木桃子.md "wikilink")、[西任白鵠](https://ja.wikipedia.org/wiki/西任白鵠 "wikilink")、中田美香 - 『[ヒルサイド・アヴェニュー](../Page/ヒルサイド・アヴェニュー.md "wikilink")』
+      - [矢村貴子](https://ja.wikipedia.org/wiki/矢村貴子 "wikilink") - 「[ヒルサイド・アヴェニュー フライデー・スペシャル 『much ado noon』](https://ja.wikipedia.org/wiki/ヒルサイド・アヴェニュー#ヒルサイド・アヴェニュー_フライデー・スペシャル "wikilink")」
+      - 中田美香、水谷ユミ、[齊藤美絵](../Page/齊藤美絵.md "wikilink")、[阿部ひろ](https://ja.wikipedia.org/wiki/阿部ひろ "wikilink") - 『[Wonderful Go\!Go\!](../Page/Wonderful_Go!Go!.md "wikilink")』
+      - [真木ひろか](../Page/真木ひろか.md "wikilink") - 『flowers』（夕方兼任）
+
+<!-- end list -->
+
+  - 夕
+      - [陣内大蔵](../Page/陣内大蔵.md "wikilink") - 『[夕方音楽](https://ja.wikipedia.org/wiki/夕方音楽 "wikilink")』
+      - DJ ALEX - 『[JUNGLE Hotline](https://ja.wikipedia.org/wiki/JUNGLE_Hotline "wikilink")』
+      - 斉藤リョーツ - 『[SUNSET JAM](../Page/SUNSET_JAM.md "wikilink")』（ここまで金曜夕枠兼任）
+      - [東野純直](../Page/東野純直.md "wikilink") - 『[AZ TIME MUSIC](https://ja.wikipedia.org/wiki/AZ_TIME_MUSIC "wikilink")』
+
+<!-- end list -->
+
+  - ショッピングキャスター
+
+<!-- end list -->
+
   - 福田幸子 - 元ラジオプロショッパー（後述）のキャサリン福田。[TBS954情報キャスターとしても活躍していた](https://ja.wikipedia.org/wiki/TBSラジオ#TBSラジオキャスター "wikilink")。
   - 本多慶子
   - [池田めぐみ](https://ja.wikipedia.org/wiki/池田めぐみ "wikilink")
@@ -469,7 +499,7 @@
 10.
 11. 番組内ではショッピングキャスターと呼称し、ショッピングキャスターは一週間通しで担当する。
 12. これも日本直販（株式会社総通）が広告枠を購入して行っているラジオショッピングのため。
-13. 金曜日は9時 - 17時55分まで「[ファンキーフライデー](../Page/ファンキーフライデー.md "wikilink")」を放送している関係上。
+13. 金曜日は9時 - 17時55分まで「[FUNKY FRIDAY](../Page/ファンキーフライデー.md "wikilink")」を放送しているが本社ではないスタジオから放送している関係上。その代わりに日曜日に放送枠を設けて週5日放送を維持。
 14. 土曜の朝[ワイド番組](../Page/ワイド番組.md "wikilink")内にもラジオショッピング枠が存在する。
 15. 提供名義は日本直販に変更となった。
 16.

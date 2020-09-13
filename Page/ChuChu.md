@@ -68,11 +68,11 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/#2006" title="wikilink">2006</a>・<a href="https://ja.wikipedia.org/wiki/#2007" title="wikilink">2007</a>・<a href="https://ja.wikipedia.org/wiki/#2008" title="wikilink">2008</a><br />
 <a href="https://ja.wikipedia.org/wiki/#2009" title="wikilink">2009</a>・<a href="https://ja.wikipedia.org/wiki/#2010" title="wikilink">2010</a></p></td>
 <td><p>開始号列（デフォルト）</p></td>
-<td><p>連載開始順に並び替え。ただし「<a href="https://ja.wikipedia.org/wiki/#2010" title="wikilink">2010</a>」は無効。</p></td>
+<td><p>連載開始順に並べ替え。ただし「<a href="https://ja.wikipedia.org/wiki/#2010" title="wikilink">2010</a>」は無効。</p></td>
 </tr>
 <tr class="even">
 <td><p>終了号列</p></td>
-<td><p>連載終了順に並び替え。</p></td>
+<td><p>連載終了順に並べ替え。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -81,11 +81,11 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/#あ" title="wikilink">あ</a>・<a href="https://ja.wikipedia.org/wiki/#か" title="wikilink">か</a>・<a href="https://ja.wikipedia.org/wiki/#さ" title="wikilink">さ</a>・<a href="https://ja.wikipedia.org/wiki/#た" title="wikilink">た</a>・<a href="https://ja.wikipedia.org/wiki/#な" title="wikilink">な</a><br />
 <a href="https://ja.wikipedia.org/wiki/#は" title="wikilink">は</a>・<a href="https://ja.wikipedia.org/wiki/#ま" title="wikilink">ま</a>・<a href="https://ja.wikipedia.org/wiki/#や" title="wikilink">や</a>・<a href="https://ja.wikipedia.org/wiki/#ら" title="wikilink">ら</a>・<a href="https://ja.wikipedia.org/wiki/#わ" title="wikilink">わ</a></p></td>
 <td><p>タイトル列</p></td>
-<td><p>作品タイトルの五十音順に並び替え。</p></td>
+<td><p>作品タイトルの五十音順に並べ替え。</p></td>
 </tr>
 <tr class="even">
 <td><p>作者列</p></td>
-<td><p>作者の五十音順に並び替え。ただし「<a href="https://ja.wikipedia.org/wiki/#ら" title="wikilink">ら</a>」と「<a href="https://ja.wikipedia.org/wiki/#わ" title="wikilink">わ</a>」は無効。</p></td>
+<td><p>作者の五十音順に並べ替え。ただし「<a href="https://ja.wikipedia.org/wiki/#ら" title="wikilink">ら</a>」と「<a href="https://ja.wikipedia.org/wiki/#わ" title="wikilink">わ</a>」は無効。</p></td>
 <td></td>
 <td></td>
 </tr>

@@ -30,24 +30,24 @@
 
 ## 作品
 
-順位は、[オリコン](../Page/オリコン.md "wikilink")週間ランキング最高位
+順位は[オリコン](../Page/オリコン.md "wikilink")週間ランキング最高位\[1\]
 
 ### シングル
 
-1.  **[time after time](https://ja.wikipedia.org/wiki/time_after_time_\(EARTHの曲\) "wikilink")**（2000年2月23日、AVCD-16001、13位）
+1.  **[time after time](https://ja.wikipedia.org/wiki/time_after_time_\(EARTHの曲\) "wikilink")**（[2000年](../Page/2000年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")、AVCD-16001、13位）
 2.  **[time after time -HIP HOP SOUL Version-](https://ja.wikipedia.org/wiki/time_after_time_-HIP_HOP_SOUL_Version- "wikilink")**（2000年6月7日、AVCD-16003、27位）
 3.  **[Your song](../Page/Your_song_\(EARTHの曲\).md "wikilink")**（2000年11月8日、AVCD-16004、24位）
-4.  **[Is This Love](../Page/Is_This_Love_\(EARTHの曲\).md "wikilink")**（2001年2月7日、AVCD-16005、13位）
+4.  **[Is This Love](../Page/Is_This_Love_\(EARTHの曲\).md "wikilink")**（[2001年](../Page/2001年.md "wikilink")2月7日、AVCD-16005、13位）
 5.  **[MAKE UP YOUR MIND](../Page/MAKE_UP_YOUR_MIND.md "wikilink")**（2001年8月8日、AVCD-16008、38位）
 6.  **[Color of Seasons](../Page/Color_of_Seasons.md "wikilink")**（2001年10月11日、AVCD-16011、19位）
 
 ### アルバム
 
-1.  **[Bright Tomorrow](../Page/Bright_Tomorrow.md "wikilink")**（2001年3月28日、AVCD-16006、12位）
+1.  **[Bright Tomorrow](../Page/Bright_Tomorrow.md "wikilink")**（[2001年](../Page/2001年.md "wikilink")3月28日、AVCD-16006、12位）
 
 ### 映像作品
 
-1.  **EARTH FIRST CLIPS**（2002年3月13日、AVBD-16014）
+1.  **EARTH FIRST CLIPS**（[2002年](../Page/2002年.md "wikilink")3月13日、AVBD-16014）
 
 ### 参加作品
 
@@ -105,15 +105,16 @@
 
 ## 受賞
 
-  - 第33回[日本有線大賞](../Page/日本有線大賞.md "wikilink")・有線音楽賞\[1\]
-  - [第42回日本レコード大賞](https://ja.wikipedia.org/wiki/第42回日本レコード大賞 "wikilink")・新人賞\[2\]
+  - 第33回[日本有線大賞](../Page/日本有線大賞.md "wikilink")・有線音楽賞\[2\]
+  - [第42回日本レコード大賞](https://ja.wikipedia.org/wiki/第42回日本レコード大賞 "wikilink")・新人賞\[3\]
 
 ## 脚注
 
 ## 外部リンク
 
   -
-[Category:EARTH](https://ja.wikipedia.org/wiki/Category:EARTH "wikilink") [Category:過去のライジングプロダクション所属者](https://ja.wikipedia.org/wiki/Category:過去のライジングプロダクション所属者 "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:2000年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に結成した音楽グループ "wikilink") [Category:2005年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に解散した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
+[Category:EARTH](https://ja.wikipedia.org/wiki/Category:EARTH "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:ライジングプロダクションのアイドル](https://ja.wikipedia.org/wiki/Category:ライジングプロダクションのアイドル "wikilink") [Category:2000年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に結成した音楽グループ "wikilink") [Category:2005年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に解散した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
 
 1.
 2.
+3.

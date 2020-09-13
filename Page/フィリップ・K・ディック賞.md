@@ -278,7 +278,7 @@
 <tr class="even">
 <td><p>2014年</p></td>
 <td><p><em>The Book of the Unnamed Midwife</em></p></td>
-<td><p>Meg Elison</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Meg_Elison" title="wikilink">Meg Elison</a></p></td>
 <td><p><em>Elysium</em></p></td>
 <td><p>Jennifer Marie Brissett</p></td>
 </tr>
@@ -292,7 +292,7 @@
 <tr class="even">
 <td><p>2016年</p></td>
 <td><p><em>The Mercy Journals</em></p></td>
-<td><p>Claudia Casper</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Claudia_Casper" title="wikilink">Claudia Casper</a></p></td>
 <td><p><em>Unpronounceable</em></p></td>
 <td><p>Susan diRende</p></td>
 </tr>
@@ -308,7 +308,7 @@
 <td><p><em>Theory of Bastards</em></p></td>
 <td></td>
 <td><p><em>84K</em></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クレア・ノース" title="wikilink">クレア・ノース</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>

@@ -170,218 +170,218 @@
 </tr>
 <tr class="odd">
 <td><p>1976年（第19回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong>西川物産</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>1</strong> - 0</p></td>
+<td><p>電電北陸</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1977年（第20回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong>三協精機</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>5</strong> - 2</p></td>
+<td><p>電電信越</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1978年（第21回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong>電電信越</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>10</strong> - 0</p></td>
+<td><p>電電富山</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1979年（第22回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/大昭和製紙硬式野球部" title="wikilink">大昭和製紙</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>4</strong> - 1</p></td>
+<td><p>日本石油</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1980年（第23回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong>電電信越</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>5</strong> - 2</p></td>
+<td><p>電電東海</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1981年（第24回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong>電電信越</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>14</strong> - 1</p></td>
+<td><p>東邦ガス</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1982年（第25回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong><a href="../Page/明治安田生命硬式野球部.md" title="wikilink">明治生命</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>1</strong> - 0</p></td>
+<td><p>電電信越</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1983年（第26回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/河合楽器硬式野球部" title="wikilink">河合楽器</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>5</strong> - 1</p></td>
+<td><p>北陸銀行</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1984年（第27回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong>電電信越</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>8</strong> - 6</p></td>
+<td><p>本田技研鈴鹿</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1985年（第28回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong>日本楽器</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>15</strong> - 5</p></td>
+<td><p>北陸銀行</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1986年（第29回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong>河合楽器</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>7</strong> - 5</p></td>
+<td><p>北陸銀行</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1987年（第30回）</p></td>
-<td></td>
+<td><p>14</p></td>
 <td><p><strong><a href="../Page/信越硬式野球クラブ.md" title="wikilink">NTT信越</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>6</strong> - 4</p></td>
+<td><p>日本楽器</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1988年（第31回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong>北陸銀行</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>5</strong> - 4</p></td>
+<td><p>京都信用金庫</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1989年（第32回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/日本通運名古屋硬式野球部" title="wikilink">日本通運名古屋</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>6</strong> - 2</p></td>
+<td><p>大昭和製紙</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1990年（第33回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong><a href="../Page/トヨタ自動車硬式野球部.md" title="wikilink">トヨタ自動車</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>11</strong> - 3</p></td>
+<td><p>王子製紙春日井</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1991年（第34回）</p></td>
-<td></td>
+<td><p>14</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/NTT北陸" title="wikilink">NTT北陸</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
+<td><p><strong>12</strong> - 2</p></td>
+<td><p>NTT東京</p></td>
+<td><p>決勝戦は8回コールド</p></td>
 </tr>
 <tr class="odd">
 <td><p>1992年（第35回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong>NTT信越</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>16</strong> - 15</p></td>
+<td><p>北陸銀行</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1993年（第36回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ローソン硬式野球部" title="wikilink">リクルート</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>10</strong> - 3</p></td>
+<td><p>北陸銀行</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1994年（第37回）</p></td>
-<td></td>
+<td><p>12</p></td>
 <td><p><strong>NTT北陸</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>1</strong> - 0</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/小西酒造硬式野球部" title="wikilink">小西酒造</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1995年（第38回）</p></td>
-<td></td>
+<td><p>14</p></td>
 <td><p><strong>河合楽器</strong></p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
+<td><p><strong>11</strong> - 1</p></td>
+<td><p>NTT信越</p></td>
+<td><p>決勝戦は7回コールド</p></td>
 </tr>
 <tr class="odd">
 <td><p>1996年（第39回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong>北陸銀行</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>8</strong> - 2</p></td>
+<td><p>NTT北陸</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1997年（第40回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong>トヨタ自動車</strong></p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
+<td><p><strong>9</strong> - 5</p></td>
+<td><p>NTT信越</p></td>
+<td><p>決勝戦は延長10回</p></td>
 </tr>
 <tr class="odd">
 <td><p>1998年（第41回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong>トヨタ自動車</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>9</strong> - 2</p></td>
+<td><p>伏木海陸運送</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1999年（第42回）</p></td>
-<td></td>
+<td><p>12</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ローソン硬式野球部" title="wikilink">ローソン</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>7</strong> - 3</p></td>
+<td><p>NTT西日本</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2000年（第43回）</p></td>
-<td></td>
+<td><p>12</p></td>
 <td><p><strong><a href="../Page/伏木海陸運送硬式野球部.md" title="wikilink">伏木海陸運送</a></strong></p></td>
 <td><p>-</p></td>
-<td></td>
+<td><p>王子製紙春日井</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2001年（第44回）</p></td>
-<td></td>
+<td><p>10</p></td>
 <td><p><strong>伏木海陸運送</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>12</strong> - 11</p></td>
+<td><p>北銀クラブ</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2002年（第45回）</p></td>
-<td></td>
+<td><p>12</p></td>
 <td><p><strong><a href="../Page/三菱重工名古屋硬式野球部.md" title="wikilink">三菱重工名古屋</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>10</strong> - 4</p></td>
+<td><p>新日鉄名古屋</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -450,7 +450,8 @@
 </tr>
 <tr class="even">
 <td><p>2011年は開催見送り</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東北地方太平洋沖地震" title="wikilink">東北地方太平洋沖地震</a>（<a href="https://ja.wikipedia.org/wiki/東日本大震災" title="wikilink">東日本大震災</a>）の影響により中止[1]。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東北地方太平洋沖地震" title="wikilink">東北地方太平洋沖地震</a>（<a href="https://ja.wikipedia.org/wiki/東日本大震災" title="wikilink">東日本大震災</a>）の<br />
+影響により中止[1]。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -520,6 +521,14 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ロキテクノ富山" title="wikilink">ロキテクノベースボールクラブ</a></p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2020年（第62回）</p></td>
+<td><p>13</p></td>
+<td><p>大会中止</p></td>
+<td><p><a href="../Page/新型コロナウイルス.md" title="wikilink">新型コロナウイルス</a>感染拡大防止のため中止[2]。</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -534,3 +543,4 @@
 [Category:日本の社会人野球大会](https://ja.wikipedia.org/wiki/Category:日本の社会人野球大会 "wikilink") [Category:北信越地方の社会人野球](https://ja.wikipedia.org/wiki/Category:北信越地方の社会人野球 "wikilink") [Category:富山市のスポーツ](https://ja.wikipedia.org/wiki/Category:富山市のスポーツ "wikilink") [Category:1958年開始のイベント](https://ja.wikipedia.org/wiki/Category:1958年開始のイベント "wikilink")
 
 1.  規模を縮小して同一日程で北信越地区の6チームが参加するチャリティ大会を開催し、[フェデックスが優勝した](../Page/フェデックス硬式野球部.md "wikilink")。
+2.

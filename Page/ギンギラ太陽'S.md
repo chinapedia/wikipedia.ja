@@ -1,11 +1,11 @@
 > この記事は[ギンギラ太陽\'S](https://ja.wikipedia.org/wiki/ギンギラ太陽\'S)から翻訳されています。
 
 
-**ギンギラ太陽's** （**ギンギラたいようズ**）は、[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")を拠点とする劇団。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[高橋徹郎](../Page/高橋徹郎.md "wikilink")が主宰をつとめていた[幻想舞台](https://ja.wikipedia.org/wiki/幻想舞台 "wikilink")の別ユニットとして発足。地元の[バスや](https://ja.wikipedia.org/wiki/バス_\(車両\) "wikilink")[電車](../Page/電車.md "wikilink")、[ビル](../Page/建築物.md "wikilink")、[菓子](../Page/菓子.md "wikilink")などを「かぶりもの」を使って擬人化する芝居を得意とする。[福岡の街](../Page/福岡都市圏.md "wikilink") （主に[福岡市天神](../Page/天神_\(福岡市\).md "wikilink")）を舞台にさまざまな業界の[歴史](../Page/歴史.md "wikilink")やエピソードを綿密な取材を元にした[脚本](../Page/脚本.md "wikilink")や[演出](../Page/演出.md "wikilink")で、ユーモラスに時には感動的に描く。主宰は[大塚ムネト](https://ja.wikipedia.org/wiki/大塚ムネト "wikilink")。劇団の人気が高まるにつれ、地元[企業](../Page/企業.md "wikilink")や[地方公共団体](../Page/地方公共団体.md "wikilink")等のイベントに呼ばれる機会が増えている。
+**ギンギラ太陽's**（ギンギラたいようズ）は、[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")を拠点とする[劇団](../Page/劇団.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[高橋徹郎](../Page/高橋徹郎.md "wikilink")が主宰をつとめていた[幻想舞台](https://ja.wikipedia.org/wiki/幻想舞台 "wikilink")の別ユニットとして発足。地元の[バスや](https://ja.wikipedia.org/wiki/バス_\(車両\) "wikilink")[電車](../Page/電車.md "wikilink")、[ビル](../Page/建築物.md "wikilink")、[菓子](../Page/菓子.md "wikilink")などを「かぶりもの」を使って擬人化する芝居を得意とする。[福岡の街](../Page/福岡都市圏.md "wikilink") （主に[福岡市天神](../Page/天神_\(福岡市\).md "wikilink")）を舞台にさまざまな業界の[歴史](../Page/歴史.md "wikilink")やエピソードを綿密な取材を元にした[脚本](../Page/脚本.md "wikilink")や[演出](../Page/演出.md "wikilink")で、ユーモラスに時には感動的に描く。主宰は[大塚ムネト](https://ja.wikipedia.org/wiki/大塚ムネト "wikilink")。劇団の人気が高まるにつれ、地元[企業](../Page/企業.md "wikilink")や[地方公共団体](../Page/地方公共団体.md "wikilink")等のイベントに呼ばれる機会が増えている。
 
 ## 特徴
 
-  - 主に福岡市[中央区天神にある](../Page/中央区_\(福岡市\).md "wikilink")[西鉄ホール](https://ja.wikipedia.org/wiki/西鉄ホール "wikilink")\[1\]で上演している。このホールでの上演をきっかけに人気を得る。毎回、3000人以上の観客動員があり、福岡公演ではチケットがほぼ即日完売するほどの人気である。
+  - 主に福岡市[中央区天神にある](../Page/中央区_\(福岡市\).md "wikilink")[西鉄ホール](https://ja.wikipedia.org/wiki/西鉄ホール "wikilink")で上演している。このホールでの上演をきっかけに人気を得る。毎回、3000人以上の観客動員があり、福岡公演ではチケットがほぼ即日完売するほどの人気である。
   - 西鉄ホール以前は、[NHK福岡放送局](../Page/NHK福岡放送局.md "wikilink")跡地 (現・岩田屋新館) や[福岡ドーム](../Page/福岡ドーム.md "wikilink") (現・福岡Yahoo\!JAPANドーム) のスポーツバーなどで公演を行なっていた。
   - 劇団の[キャッチフレーズ](https://ja.wikipedia.org/wiki/キャッチフレーズ "wikilink")は、「**地元の人にしかわからない芝居**」[カーテンコール](../Page/カーテンコール.md "wikilink")の最後に主宰が必ず語るのが恒例。東京公演以降は「**人間が登場しないヒューマンドラマ**」とも呼ばれている。
   - 一人で、複数のキャラクターを演じ分けるため、たまに「かぶりもの」をかぶり忘れることもある。
@@ -200,5 +200,3 @@
   - [ギンギラ太陽's オフィシャルホームページ](http://www.gingira.com/)
 
 [Category:日本の劇団](https://ja.wikipedia.org/wiki/Category:日本の劇団 "wikilink") [Category:地上デジタル放送推進大使](https://ja.wikipedia.org/wiki/Category:地上デジタル放送推進大使 "wikilink") [Category:福岡市の文化](https://ja.wikipedia.org/wiki/Category:福岡市の文化 "wikilink")
-
-1.  [西鉄ホール](http://www.nishitetsu.co.jp/nnr/solaria/hall/default.htm)

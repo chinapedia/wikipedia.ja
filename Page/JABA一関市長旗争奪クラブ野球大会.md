@@ -70,79 +70,79 @@
 <td></td>
 <td><p><strong>全足利クラブ</strong></p></td>
 <td><p>-</p></td>
-<td></td>
+<td><p><a href="../Page/横浜金港クラブ.md" title="wikilink">横浜金港クラブ</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1994年（第7回）</p></td>
-<td></td>
+<td><p>14</p></td>
 <td><p><strong>全足利クラブ</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>13</strong> - 3</p></td>
+<td><p>一関三星倶楽部</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1995年（第8回）</p></td>
-<td></td>
+<td><p>16</p></td>
 <td><p><strong>一関三星倶楽部</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>11</strong> - 7</p></td>
+<td><p>久慈クラブ</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1996年（第9回）</p></td>
-<td></td>
+<td><p>16</p></td>
 <td><p><strong>一関三星倶楽部</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>15</strong> - 8</p></td>
+<td><p>全浦和野球団</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1997年（第10回）</p></td>
-<td></td>
+<td><p>16</p></td>
 <td><p><strong>釜石野球団</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>10</strong> - 3</p></td>
+<td><p>大月クラブ</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1998年（第11回）</p></td>
-<td></td>
+<td><p>16</p></td>
 <td><p><strong>釜石野球団</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>6</strong>- 2</p></td>
+<td><p>一関三星倶楽部</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1999年（第12回）</p></td>
-<td></td>
+<td><p>16</p></td>
 <td><p><strong>大月クラブ</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>11</strong> - 2</p></td>
+<td><p>保原クラブ</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2000年（第13回）</p></td>
-<td></td>
+<td><p>16</p></td>
 <td><p><strong>久慈クラブ</strong></p></td>
 <td><p>-</p></td>
-<td></td>
+<td><p>かみかわ野球クラブ</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2001年（第14回）</p></td>
-<td></td>
+<td><p>16</p></td>
 <td><p><strong>全日立ドリームズ</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>18</strong> - 14</p></td>
+<td><p>東京好球倶楽部</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2002年（第15回）</p></td>
-<td></td>
+<td><p>16</p></td>
 <td><p><strong><a href="../Page/東京好球倶楽部.md" title="wikilink">東京好球倶楽部</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>9</strong> - 8</p></td>
+<td><p>全日立ドリームズ</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -176,8 +176,8 @@
 <strong>全足利クラブ</strong></p></td>
 <td><p>3 - 3</p></td>
 <td></td>
-<td><p>決勝戦の試合途中に降雨のためグラウンド状態が悪化。<br />
-7回をもってコールドゲームとし、<br />
+<td><p>決勝戦の試合途中に降雨のためグラウンド<br />
+状態が悪化。7回をもってコールドゲームとし、<br />
 同点のため両チーム優勝の取扱いとなった。</p></td>
 </tr>
 <tr class="even">
@@ -192,7 +192,7 @@
 <td><p>2008年（第21回）</p></td>
 <td><p>16</p></td>
 <td><p>大会中止</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岩手・宮城内陸地震" title="wikilink">岩手・宮城内陸地震</a>のため[1]。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/岩手・宮城内陸地震" title="wikilink">岩手・宮城内陸地震</a>の影響ため[1]。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -215,7 +215,8 @@
 <tr class="even">
 <td><p>2011年</p></td>
 <td><p>2011年は開催見送り</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東北地方太平洋沖地震" title="wikilink">東北地方太平洋沖地震</a>（<a href="https://ja.wikipedia.org/wiki/東日本大震災" title="wikilink">東日本大震災</a>）の影響のため。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東北地方太平洋沖地震" title="wikilink">東北地方太平洋沖地震</a>（<a href="https://ja.wikipedia.org/wiki/東日本大震災" title="wikilink">東日本大震災</a>）の<br />
+影響のため。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -284,6 +285,14 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ゴールデンリバース" title="wikilink">ゴールデンリバース</a></p></td>
 <td><p>決勝戦は7回コールド。</p></td>
 </tr>
+<tr class="odd">
+<td><p>2020年（第32回）</p></td>
+<td><p>16</p></td>
+<td><p>大会中止</p></td>
+<td><p><a href="../Page/新型コロナウイルス.md" title="wikilink">新型コロナウイルス</a>感染拡大防止のため[2]。</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -298,3 +307,4 @@
 [Category:日本の社会人野球大会](https://ja.wikipedia.org/wiki/Category:日本の社会人野球大会 "wikilink") [Category:東北地方の社会人野球](https://ja.wikipedia.org/wiki/Category:東北地方の社会人野球 "wikilink") [Category:岩手県のスポーツ](https://ja.wikipedia.org/wiki/Category:岩手県のスポーツ "wikilink") [Category:1988年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1988年開始のスポーツイベント "wikilink")
 
 1.  大会準備に入っており、出場チームも決まっていた為、大会回数はカウントする。
+2.

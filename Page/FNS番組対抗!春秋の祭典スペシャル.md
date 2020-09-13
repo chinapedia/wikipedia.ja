@@ -10,7 +10,7 @@
 ## 番組タイトルと司会者
 
   - **FNS番組対抗\!春秋の祭典スペシャル**（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")春 - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")春）
-      - 司会・[中居正広](../Page/中居正広.md "wikilink")、[草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")、[西山喜久恵](../Page/西山喜久恵.md "wikilink")、[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")（1997年秋 - ）
+      - 司会・[中居正広](../Page/中居正広.md "wikilink")、[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")、[西山喜久恵](../Page/西山喜久恵.md "wikilink")、[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")（1997年秋 - ）
   - **新装\!FNS秋の祭典 歓迎・中居旅館 秋の新番組御一行様、FNS春の祭典 ようこそ中居旅館へ\!話題のドラマ＆新番組大宴会**（1998年秋 - [1999年](../Page/1999年.md "wikilink")春）
       - 司会：中居正広、草彅剛（1998年秋のみ）、香取慎吾
   - **FNS30周年'99秋の祭典→FNS春秋の祭典2000**（1999年秋 - [2000年](../Page/2000年.md "wikilink")秋）
@@ -35,7 +35,7 @@
   - 秋の祭典（FNS番組対抗\!秋の祭典スペシャル）
       - 放送日 - 1997年[10月5日](../Page/10月5日.md "wikilink")（日曜日）
       - 放送時間 - 20:00 - 23:24
-      - 出場チーム - 月9ドラマ『[ラブジェネレーション](../Page/ラブジェネレーション.md "wikilink")』、[黄金 ボキャブラ天国](https://ja.wikipedia.org/wiki/ボキャブラ天国 "wikilink")、火9ドラマ『[ナースのお仕事](../Page/ナースのお仕事.md "wikilink")2』、火10ドラマ『[シングルス](../Page/シングルス_\(テレビドラマ\).md "wikilink")』、水曜劇場『[成田離婚](../Page/成田離婚_\(テレビドラマ\).md "wikilink")』、木曜劇場『[イヴ](../Page/イヴ_\(テレビドラマ\).md "wikilink")』、[奇跡体験\!アンビリバボー](../Page/奇跡体験!アンビリバボー.md "wikilink")、めちゃ²イケてるッ\!、[LOVE LOVE あいしてる](../Page/LOVE_LOVE_あいしてる.md "wikilink")、[スーパーナイト](../Page/スーパーナイト.md "wikilink")・めざましテレビ、[ラヂオの時間](../Page/ラヂオの時間.md "wikilink")
+      - 出場チーム - 月9ドラマ『[ラブジェネレーション](../Page/ラブジェネレーション.md "wikilink")』、[黄金 ボキャブラ天国](https://ja.wikipedia.org/wiki/ボキャブラ天国 "wikilink")、火9ドラマ『[ナースのお仕事](../Page/ナースのお仕事.md "wikilink")2』、火10ドラマ『[シングルス](../Page/シングルス_\(テレビドラマ\).md "wikilink")』、水曜劇場『[成田離婚](../Page/成田離婚_\(テレビドラマ\).md "wikilink")』、[水曜時代劇](../Page/フジテレビ水曜夜8時枠時代劇.md "wikilink")『[御家人斬九郎](../Page/御家人斬九郎.md "wikilink")（第3シリーズ）』、木曜劇場『[イヴ](../Page/イヴ_\(テレビドラマ\).md "wikilink")』、[奇跡体験\!アンビリバボー](../Page/奇跡体験!アンビリバボー.md "wikilink")、めちゃ²イケてるッ\!、[LOVE LOVE あいしてる](../Page/LOVE_LOVE_あいしてる.md "wikilink")、[スーパーナイト](../Page/スーパーナイト.md "wikilink")・めざましテレビ、[ラヂオの時間](../Page/ラヂオの時間.md "wikilink")
       - この回から[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")も司会に加わり、1999年春までは、各ラウンドで敗れたチームは即退場というルールになった。そして退場する時には、合唱団が歌を歌って送るようになった。
       - 視聴率は16.3%
 

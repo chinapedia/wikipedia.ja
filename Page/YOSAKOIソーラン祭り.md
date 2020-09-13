@@ -1,11 +1,11 @@
 > この記事は[YOSAKOIソーラン祭り](https://ja.wikipedia.org/wiki/YOSAKOIソーラン祭り)から翻訳されています。
 
 
-**YOSAKOIソーラン祭り**（よさこいソーランまつり）とは、YOSAKOIソーラン祭り組織委員会が主催する毎年6月上旬に[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")で行われる[イベント](../Page/イベント.md "wikilink")。
+**YOSAKOIソーラン祭り**（よさこいソーランまつり）は、YOSAKOIソーラン祭り組織委員会が主催する毎年6月上旬に[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")で行われる[イベント](../Page/イベント.md "wikilink")。
 
 ## 概要
 
-由来は高知県高知市で開催されるよさこい祭り。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")では、6月上旬のこの時期は「[さっぽろ雪まつり](../Page/さっぽろ雪まつり.md "wikilink")」のような北海道外からの観光客を呼び込む大きなイベントや観光材料が少ない一方で、本州以南では[梅雨入り](https://ja.wikipedia.org/wiki/梅雨入り "wikilink")にあたるため[避暑地](../Page/避暑地.md "wikilink")を求め北海道に来る人々がいる。6月上旬にYOSAKOIソーラン祭りを開催することにより、さらに観光客を呼び込み、観光収入が増加するなど一定の経済効果を生んでいる。その反面、一部参加者や観客のマナーの悪さ、大通公園をはじめとした札幌市内の交通規制、騒音などに対する札幌市民の苦情も少なからず存在する。 そのため、大通公園での開催ではなく、札幌ドームや札幌円山公園陸上競技場、石狩浜など別の会場での開催を望む声もある。
+由来は高知県高知市で開催されるよさこい祭り。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")では、6月上旬のこの時期は「[さっぽろ雪まつり](../Page/さっぽろ雪まつり.md "wikilink")」のような北海道外からの観光客を呼び込む大きなイベントや観光材料が少ない一方で、本州以南では[梅雨入り](https://ja.wikipedia.org/wiki/梅雨入り "wikilink")にあたるため[避暑地](../Page/避暑地.md "wikilink")を求め北海道に来る人々がいる。6月上旬にYOSAKOIソーラン祭りを開催することにより、さらに観光客を呼び込み、観光収入が増加するなど一定の経済効果を生んでいる。その反面、一部参加者や観客のマナーの悪さ、大通公園をはじめとした札幌市内の交通規制、騒音などに対する札幌市民の苦情も少なからず存在する。
 
 ## 歴史
 
@@ -15,7 +15,7 @@
 
 その後年々、参加者や観客動員数ともYOSAKOIソーラン祭りの規模も成長拡大していく一方で、後述するような批判などが噴出し始めている。[2000年](../Page/2000年.md "wikilink")に開催期間中の大通公園内の臨時ゴミ箱から爆発物が爆発し数名の負傷者を出す事件が発生し、これを機に警備が強化された。事件発生により第9回YOSAKOIソーラン祭りのファイナルコンテストが中止になった。
 
-参加チーム数が408チームと過去最多を記録した[2001年](../Page/2001年.md "wikilink")以降、参加チーム数・実施会場数が減少に転じ、2011年以降は270～280チーム・20会場前後で横ばいとなっている。観客動員数は[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に218万1000人と過去最高の動員を記録し、その後は200万人前後で推移している\[7\]\[8\]。
+参加チーム数が408チームと過去最多を記録した[2001年](../Page/2001年.md "wikilink")以降、参加チーム数・実施会場数が減少に転じ、2011年以降は270 - 280チーム・20会場前後で横ばいとなっている。観客動員数は[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に218万1000人と過去最高の動員を記録し、その後は200万人前後で推移している\[7\]\[8\]。
 
 [2011年](../Page/2011年.md "wikilink")からは一般公募により採用された新公式ロゴマークを使用している。
 
@@ -44,206 +44,235 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1992年.md" title="wikilink">1992年</a></p></td>
+<td><p><a href="../Page/1992年.md" title="wikilink">1992年</a><br />
+6月13 - 14日</p></td>
 <td><p>第1回</p></td>
 <td><p>10</p></td>
 <td><p>1,000人</p></td>
 <td><p>200,000人</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1993年.md" title="wikilink">1993年</a></p></td>
+<td><p><a href="../Page/1993年.md" title="wikilink">1993年</a><br />
+6月11 - 13日</p></td>
 <td><p>第2回</p></td>
 <td><p>26</p></td>
 <td><p>2,500人</p></td>
 <td><p>440,000人</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1994年.md" title="wikilink">1994年</a></p></td>
+<td><p><a href="../Page/1994年.md" title="wikilink">1994年</a><br />
+6月10 - 12日</p></td>
 <td><p>第3回</p></td>
 <td><p>25</p></td>
 <td><p>3,000人</p></td>
 <td><p>580,000人</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a><br />
+6月9 - 11日</p></td>
 <td><p>第4回</p></td>
 <td><p>48</p></td>
 <td><p>4,800人</p></td>
 <td><p>760,000人</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1996年.md" title="wikilink">1996年</a></p></td>
+<td><p><a href="../Page/1996年.md" title="wikilink">1996年</a><br />
+6月7 - 9日</p></td>
 <td><p>第5回</p></td>
 <td><p>108</p></td>
 <td><p>10,000人</p></td>
 <td><p>1,070,000人</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a><br />
+6月6 - 8日</p></td>
 <td><p>第6回</p></td>
 <td><p>183</p></td>
 <td><p>19,000人</p></td>
 <td><p>1,380,000人</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><br />
+6月3 - 7日</p></td>
 <td><p>第7回</p></td>
 <td><p>280</p></td>
 <td><p>29,000人</p></td>
 <td><p>1,800,000人</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a></p></td>
+<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><br />
+6月9 - 13日</p></td>
 <td><p>第8回</p></td>
 <td><p>333</p></td>
 <td><p>34,000人</p></td>
 <td><p>1,935,000人</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2000年.md" title="wikilink">2000年</a></p></td>
+<td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><br />
+6月7 - 11日</p></td>
 <td><p>第9回</p></td>
 <td><p>375</p></td>
 <td><p>38,000人</p></td>
 <td><p>1,825,000人</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a></p></td>
+<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><br />
+6月5 - 10日</p></td>
 <td><p>第10回</p></td>
 <td><p><strong>408</strong></p></td>
 <td><p>41,000人</p></td>
 <td><p>2,013,000人</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2002年.md" title="wikilink">2002年</a></p></td>
+<td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><br />
+6月18 - 23日</p></td>
 <td><p>第11回</p></td>
 <td><p>344</p></td>
 <td><p>44,000人</p></td>
 <td><p>1,510,000人</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2003年.md" title="wikilink">2003年</a></p></td>
+<td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><br />
+6月4 - 8日</p></td>
 <td><p>第12回</p></td>
 <td><p>330</p></td>
 <td><p>44,000人</p></td>
 <td><p>2,020,000人</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><br />
+6月9 - 13日</p></td>
 <td><p>第13回</p></td>
 <td><p>333</p></td>
 <td><p>43,000人</p></td>
 <td><p>2,080,000人</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><br />
+6月8 - 12日</p></td>
 <td><p>第14回</p></td>
 <td><p>334</p></td>
 <td><p>43,000人</p></td>
 <td><p>2,141,000人</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><br />
+6月7 - 11日</p></td>
 <td><p>第15回</p></td>
 <td><p>350</p></td>
 <td><p><strong>45,000人</strong></p></td>
 <td><p>1,864,000人</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><br />
+6月6 - 10日</p></td>
 <td><p>第16回</p></td>
 <td><p>341</p></td>
 <td><p>43,000人</p></td>
 <td><p>2,165,000人</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><br />
+6月4 - 8日</p></td>
 <td><p>第17回</p></td>
 <td><p>330</p></td>
 <td><p>33,000人</p></td>
 <td><p>2,024,000人</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
+<td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><br />
+6月10 - 14日</p></td>
 <td><p>第18回</p></td>
 <td><p>316</p></td>
 <td><p>33,000人</p></td>
 <td><p>1,787,000人</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><br />
+6月9 - 13日</p></td>
 <td><p>第19回</p></td>
 <td><p>304</p></td>
 <td><p>30,000人</p></td>
 <td><p><strong>2,181,000人</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a></p></td>
+<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><br />
+6月8 - 12日</p></td>
 <td><p>第20回</p></td>
 <td><p>284</p></td>
 <td><p>28,000人</p></td>
 <td><p>2,003,000人</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2012年.md" title="wikilink">2012年</a></p></td>
+<td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><br />
+6月6 - 10日</p></td>
 <td><p>第21回</p></td>
 <td><p>271</p></td>
 <td><p>27,000人</p></td>
 <td><p>1,983,000人</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a></p></td>
+<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><br />
+6月5 - 9日</p></td>
 <td><p>第22回</p></td>
 <td><p>271</p></td>
 <td><p>27,000人</p></td>
 <td><p>2,063,000人</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
+<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><br />
+6月4 - 8日</p></td>
 <td><p>第23回</p></td>
 <td><p>270</p></td>
 <td><p>27,000人</p></td>
 <td><p>1,875,000人</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2015年.md" title="wikilink">2015年</a></p></td>
+<td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><br />
+6月10 - 14日</p></td>
 <td><p>第24回</p></td>
 <td><p>270</p></td>
 <td><p>27,000人</p></td>
 <td><p>1,987,000人</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
+<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a><br />
+6月8 - 12日</p></td>
 <td><p>第25回</p></td>
 <td><p>280</p></td>
 <td><p>28,000人</p></td>
 <td><p>2,054,000人</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a></p></td>
+<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><br />
+6月7 - 11日</p></td>
 <td><p>第26回</p></td>
 <td><p>274</p></td>
 <td><p>27,000人</p></td>
 <td><p>1,883,000人</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a></p></td>
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><br />
+6月6 - 10日</p></td>
 <td><p>第27回</p></td>
 <td><p>276</p></td>
 <td><p>27,000人</p></td>
 <td><p>1,929,000人</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><br />
+6月5 - 9日</p></td>
 <td><p>第28回</p></td>
 <td><p>279</p></td>
 <td><p>28,000人</p></td>
 <td><p>2,111,000人</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><br />
+6月10 - 14日</p></td>
 <td><p>第29回</p></td>
-<td><p>colspan="6" style="text-align:center""|<a href="../Page/2019新型コロナウイルス.md" title="wikilink">新型コロナウイルス感染拡大の影響で中止</a></p></td>
-<td></td>
+<td><p>colspan="5" style="text-align:center""|<a href="https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_(2019年)" title="wikilink">COVID-19拡大の影響で中止</a></p></td>
+<td><p>VirtualYOSAKOIソーラン祭りとして開催</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -265,15 +294,15 @@
 
   - YOSAKOIソーラン大賞 (ファイナル総合1位のチーム)
   - 準YOSAKOIソーラン大賞 (ファイナル総合2・3位のチーム)
-  - 優秀賞 (ファイナル総合4～11位のチーム)
+  - 優秀賞 (ファイナル総合4 - 11位のチーム)
   - セミファイナル1位 (セミファイナル1位のチーム)
-  - セミファイナル優秀賞 (セミファイナル2～11位のチーム)
+  - セミファイナル優秀賞 (セミファイナル2 - 11位のチーム)
   - U-40大賞 (U-40大会二次審査1位のチーム)
   - 準U-40大賞 (U-40大会二次審査2位のチーム)
-  - U-40優秀賞 (U-40大会二次審査3～10位のチーム)
+  - U-40優秀賞 (U-40大会二次審査3 - 10位のチーム)
   - ジュニア大賞 (ジュニアファイナル1位のチーム)
   - ジュニア準大賞 (ジュニアファイナル2位のチーム)
-  - ジュニア優秀賞 (ジュニアファイナル3～5位のチーム)
+  - ジュニア優秀賞 (ジュニアファイナル3 - 5位のチーム)
   - 一次審査員賞 (一次審査の各ブロック3位のうちセミファイナルの携帯投票で出場できたチーム以外の9チーム)
   - 新人賞 (初参加チームおよび初参加から数えて3年目以内のチームのうち一次審査の総得点上位2チーム)
   - 敢闘賞 (一次審査の各ブロック4位以下のうちもう一度見たいと思った10チーム)
@@ -451,7 +480,7 @@
 <td><p>第11回</p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a></p></td>
 <td><p>初</p></td>
-<td><p><a href="http://www.geocities.jp/mitsuishi_narukokai/index.html">三石なるこ会</a></p></td>
+<td><p><a href="https://web.archive.org/20140714175703/http://www.geocities.jp/mitsuishi_narukokai/index.html">三石なるこ会</a></p></td>
 <td><p><a href="../Page/三石町_(北海道).md" title="wikilink">三石町</a></p></td>
 <td><p>9回</p></td>
 <td><p><small>平岸天神、舞DoCoMo</small></p></td>
@@ -621,7 +650,7 @@
 <td><p>平岸天神</p></td>
 <td><p>札幌市豊平区</p></td>
 <td><p>25回</p></td>
-<td><p><small>粋～IKI～北海学園大学、夢想漣えさし</small></p></td>
+<td><p><small>粋{{～}}IKI{{～}}北海学園大学、夢想漣えさし</small></p></td>
 <td><p><small>鴉</small></p></td>
 <td></td>
 </tr>
@@ -652,7 +681,7 @@ YOSAKOI連</small></p></td>
 <tr class="odd">
 <td><p>第29回</p></td>
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
-<td><p>colspan="7" style="text-align:center""|<a href="../Page/2019新型コロナウイルス.md" title="wikilink">新型コロナウイルス感染拡大の影響で中止</a></p></td>
+<td><p>colspan="7" style="text-align:center""|<a href="https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_(2019年)" title="wikilink">COVID-19拡大の影響で中止</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -675,7 +704,7 @@ YOSAKOI連</small></p></td>
 
 さらに、最終日のファイナルコンテストは2009年まで、[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")（HTB）制作により、北海道テレビ放送での道内放送に加えて[BS朝日を通じ全国に生中継されていたが](../Page/ビーエス朝日.md "wikilink") 、2010年はテレビ朝日系列が[2010 FIFAワールドカップ中継を設定して放送枠がなくなったため](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink")、[テレビ北海道](../Page/テレビ北海道.md "wikilink")（TVh）の制作により、テレビ北海道での道内放送に加えて[BSジャパン（現：BSテレ東）を通じ全国放送された](../Page/BSテレビ東京.md "wikilink")。その後、全国放送も20周年を迎える2011年からは行われなくなった。
 
-[2012年](../Page/2012年.md "wikilink")も、[NHK札幌放送局](../Page/NHK札幌放送局.md "wikilink")が長年にわたって『[北海道クローズアップ](https://ja.wikipedia.org/wiki/北海道クローズアップ "wikilink")』と『[北スペシャル](https://ja.wikipedia.org/wiki/北スペシャル "wikilink")』枠を使って放送してきた、「北スペシャル拡大版YOSAKOIソーランナイト」が放送されないことになったが、これは当日に[ロンドンオリンピック代表選考会を兼ねた](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピックの陸上競技 "wikilink")『[第96回日本陸上競技選手権大会](https://ja.wikipedia.org/wiki/第96回日本陸上競技選手権大会 "wikilink")』初日を[全国](../Page/全国放送.md "wikilink")[生放送](../Page/生放送.md "wikilink")するための措置でそれ以降、NHKでソーランナイトを中継する事はなかった。さらに、HTBも[イチオシ\!](https://ja.wikipedia.org/wiki/イチオシ! "wikilink")内での3日目の四番街会場中継が[2016年](../Page/2016年.md "wikilink")からは放送されなくなった。
+[2012年](../Page/2012年.md "wikilink")も、[NHK札幌放送局](../Page/NHK札幌放送局.md "wikilink")が長年にわたって『[北海道クローズアップ](https://ja.wikipedia.org/wiki/北海道クローズアップ "wikilink")』と『[北スペシャル](https://ja.wikipedia.org/wiki/北スペシャル "wikilink")』枠を使って放送してきた、「北スペシャル拡大版YOSAKOIソーランナイト」が放送されないことになったが、これは当日に[ロンドンオリンピック代表選考会を兼ねた](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピックの陸上競技 "wikilink")『[第96回日本陸上競技選手権大会](https://ja.wikipedia.org/wiki/第96回日本陸上競技選手権大会 "wikilink")』初日を[全国](../Page/全国放送.md "wikilink")[生放送](../Page/生放送.md "wikilink")するための措置でそれ以降、NHKでソーランナイトを中継する事はなかった。さらに、HTBも[イチオシ\!内での](../Page/イチオシ!!.md "wikilink")3日目の四番街会場中継が[2016年](../Page/2016年.md "wikilink")からは放送されなくなった。
 
 現在はテレビを通じて中継放送するのは札幌テレビでの4日目日中の大通北パレード&大通西8丁目会場中継（[2016年](../Page/2016年.md "wikilink")は最終日に放送）\[21\]とテレビ北海道でのファイナルステージ第2部中継\[22\]のみで、かつてのように道内の全放送局が一斉に祭りを長時間にわたって中継放送する事は無くなっている。
 
@@ -687,7 +716,7 @@ YOSAKOI連</small></p></td>
 
 YOSAKOIソーラン祭りの[ロゴは](../Page/ロゴタイプ.md "wikilink")[1992年](../Page/1992年.md "wikilink")（第1回）から[1996年](../Page/1996年.md "wikilink")（第5回）までは創始者・長谷川が手書きしたものを元に製作したものが使用されていたが、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（第7回）から書家・[渾彩秀](http://konsaisyu.com/)（こん・さいしゅう）によってデザインされた公式ロゴが製作・採用された。この[商標](../Page/商標.md "wikilink")権は長谷川が所有しており、これを組織委員会に無償で貸与する形がとられてきたが、その後長谷川は衆院選に出馬するなど、政治活動を展開し始めたことから[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）1月、この無償貸与が[公職選挙法](../Page/公職選挙法.md "wikilink")で禁止されている[寄付](https://ja.wikipedia.org/wiki/寄付 "wikilink")行為に抵触することが指摘された。そこで長谷川側は有償で貸与する契約を結ぶことなどを提案したが、これに対し組織委側は「ロゴは公共財として管理されるべきもの。個人の私有財であってはならない」との理由で権利譲渡を求め譲渡金600万円を提示したが、これに対し長谷川側は「譲渡するにしてもこの金額では適正価格とはいえず、やはり寄付とみなされて公選法に抵触する可能性があるため有償貸与にしたい」と回答し、交渉は決裂。YOSAKOIソーラン祭り組織委への無償貸与は中止され、2010年の第19回では暫定的に1996年まで使用された旧ロゴが採用された\[23\]。
 
-翌年[2011年](../Page/2011年.md "wikilink")に第20回大会を記念し、ロゴマークのリニューアルが決定する。“市民参加型”という祭りの観点からデザインの一般公募が実施され、海外参加を含む1,336点の中から札幌市在住のクリエイティブディレクター・今井貴詞のイラストが採用、ソーラン節を象徴するモチーフとして「[カモメ](../Page/カモメ.md "wikilink")」、そして「家族」をイメージしたキャラクターが新しい公式ロゴマークとされ現在に至る。\[24\]\[25\]。
+翌年[2011年](../Page/2011年.md "wikilink")に第20回大会を記念し、ロゴマークのリニューアルが決定する。“市民参加型”という祭りの観点からデザインの一般公募が実施され、海外参加を含む1,336点の中から札幌市在住のクリエイティブディレクター・今井貴詞のイラストが採用、ソーラン節を象徴するモチーフとして「[カモメ](../Page/カモメ.md "wikilink")」、そして「家族」をイメージしたキャラクターが新しい公式ロゴマークとされ現在に至る\[24\]\[25\]。
 
 公式ロゴと商標権をめぐる長谷川との軋轢が表面化したことや、長谷川が2010年に[参院選に当選し](https://ja.wikipedia.org/wiki/第22回参議院議員通常選挙 "wikilink")、政界に進出したことなどを契機に新体制の組織委員会は創始者である長谷川と事実上決別しており、長谷川が公式ホームページの運営やWEB関連事業を担うために設立した「株式会社yosanet」との契約も打ち切られた。会社自体は活動を停止し、既に整理され、旧公式ホームページのドメインも中古ドメインとして販売されている。
 
@@ -705,7 +734,7 @@ YOSAKOIソーラン祭りの[ロゴは](../Page/ロゴタイプ.md "wikilink")[1
 
 ### 騒音問題
 
-当初より祭りにおいて迫力を出すため他のチームの音量より更に大きい音量にしようと上げる傾向があり、YOSAKOIソーラン祭りの騒音に対して札幌市民から苦情が寄せられている。「札幌市生活環境の確保に関する条例」では、大通公園周辺（商業地域）の音量基準は、拡声機の直下から5ｍ離れた地点において75dB以下、放送可能時間8～22時と定められているが、YOSAKOIソーラン祭り等の地方公共団体が主催するイベントについては適用外となるため、一部において条例で定められた音量以上の騒音が発生していることが原因である。このような状況を受け、YOSAKOIソーラン祭り組織委員会は自主的に条例で定められている基準を順守するルールを設け、事前に参加全チームに対し、ルールの周知徹底を図るとともに、運営側が大音量と判断した場合には、音量を下げるよう指導する等、騒音対策に取り組んでいる。\[35\]
+当初より祭りにおいて迫力を出すため他のチームの音量より更に大きい音量にしようと上げる傾向があり、YOSAKOIソーラン祭りの騒音に対して札幌市民から苦情が寄せられている。「札幌市生活環境の確保に関する条例」では、大通公園周辺（商業地域）の音量基準は、拡声機の直下から5ｍ離れた地点において75dB以下、放送可能時間8 - 22時と定められているが、YOSAKOIソーラン祭り等の地方公共団体が主催するイベントについては適用外となるため、一部において条例で定められた音量以上の騒音が発生していることが原因である。このような状況を受け、YOSAKOIソーラン祭り組織委員会は自主的に条例で定められている基準を順守するルールを設け、事前に参加全チームに対し、ルールの周知徹底を図るとともに、運営側が大音量と判断した場合には、音量を下げるよう指導する等、騒音対策に取り組んでいる\[35\]。
 
 ### 大通会場内における爆破事件
 
@@ -717,9 +746,11 @@ YOSAKOIソーラン祭りの[ロゴは](../Page/ロゴタイプ.md "wikilink")[1
 
 2019年8月、組織委員会がこの年の第28回大会で初のファイナル進出を果たした札幌学院大学・文教台の同優秀賞取り消しと翌年の第29回大会の参加を受け付けない措置を同7日付で発表した\[38\]。この問題は大会の1ヶ月前である5月、同大学生の友人が「未成年のメンバーが飲酒をさせられている」とその月のうちに大学職員に相談していたのが判明。大学側はこの事実を把握し調査したところ、同13日に所属踊り子の自宅で未成年者を含む十数名が飲酒をしていたことが発覚し、踊り子全員に再発防止の誓約書を書かせたが同祭後に再調査をしたところ、最初の事案より前の5月3日、札幌市の飲食店で未成年者42人が飲酒をしていたことが新たに判明。7月の教授会でこの事実が報告されたという。同大学はすべての踊り子に反省を促すためとして7月26日から10月25日までの3ヶ月間の活動停止を命じていた。組織委員会は第29回大会以降の参加全チームに20歳未満の飲酒禁止を含めたコンプライアンス徹底についての誓約書を求めることとした。
 
-### [新型コロナウイルスの影響で初の中止に](../Page/2019新型コロナウイルス.md "wikilink")
+### 新型コロナウイルス感染症の影響で初の中止に
 
-2020年2月13日、[和歌山県](../Page/和歌山県.md "wikilink")で国内初の新型コロナウイルス感染者が発見し、それ以降全国で新型コロナウイルスが流行した。その影響で様々なイベントが中止や延期が起こり、YOSAKOI関連イベントもそれらが相次いだ。この祭りの第29回大会に関しては感染対策として参加者カイダンスの1週先延ばしとネットでの抽選等を行う予定だったが、同年3月31日に[石狩市](../Page/石狩市.md "wikilink")のチームが参加を辞退して以降、4日続けて有力チームの辞退が相次いだ。そして4月3日の[北海道新聞朝刊で第](../Page/北海道新聞社.md "wikilink")29回大会の中止が1面で記され\[39\]、昼前のニュースでも中止のニュースが相次いだ\[40\]。そして同日午後、実行委員会は正式に現時点での対策や保証ができない事や札幌市民の理解を得られないとの判断で第29回大会の中止を改めて発表し\[41\]、それに替わるイベントを感染の収束と市民の理解が得られる状況になったら検討したいと考えている\[42\]。
+2020年初頭より、[新型コロナウイルス感染症（COVID-19）の国内での](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink")[流行が拡大](../Page/日本における2019年コロナウイルス感染症の流行状況.md "wikilink")。これにより各種イベントの中止・延期など[社会的影響も広がり](../Page/日本における2019年コロナウイルス感染症による社会・経済的影響.md "wikilink")、YOSAKOI関連イベントも影響を受けることとなった。
+
+この祭りの第29回大会に関しては、感染対策として参加者ガイダンスの1週先延ばしとネットでの抽選等を行う予定だったが、同年3月31日に[石狩市](../Page/石狩市.md "wikilink")のチームが参加を辞退して以降、4日続けて有力チームの辞退が相次いだ。そして4月3日の[北海道新聞朝刊で第](../Page/北海道新聞社.md "wikilink")29回大会の中止が1面で記され\[39\]、同日午後、実行委員会は現時点での対策や保証ができない事や札幌市民の理解を得られないとの判断で、第29回大会の中止を正式発表した\[40\]。それに替わるイベントとしてまず、本来の開催日である6月10 - 14日の5日間にわたりYouTubeで「VirtualYOSAKOIソーラン祭り」と題し、過去の祭りのダイジェスト映像などを生配信した\[41\]。その後は感染の収束と市民の理解が得られる状況になったら代替イベント開催を検討したいと考えている\[42\]。
 
 ## 関係団体
 
@@ -848,8 +879,8 @@ YOSAKOIソーラン祭りの[ロゴは](../Page/ロゴタイプ.md "wikilink")[1
 37.
 38.
 39. [YOSAKOI初の中止へ 3日にも決定 新型コロナ](https://www.hokkaido-np.co.jp/article/408905) 北海道新聞社 2020年4月3日
-40. [YOSAKOI初の中止が決定](https://www.nhk.or.jp/sapporo-news/20200403/7000019781.html) NHK北海道 NEWS WEB 2020年4月3日
-41. [2020年6月・第29回YOSAKOIソーラン祭り 開催中止のお知らせ](https://www.yosakoi-soran.jp/news/200403.html)YOSAKOIソーラン祭り公式サイト 2020年4月3日
+40.
+41. 14日(日)「Virtual YOSAKOIソーラン祭り」開催！|publisher=YOSAKOIソーラン祭り公式サイト|date=2020-05-22|accessdate=2020-07-17}}
 42. \[<https://twitter.com/YosakoiSoranFes/status/1245939511613243394>　YOSAKOIソーラン祭り公式ツイッター\]
 43.
 44.

@@ -13,7 +13,7 @@ RJ-11の6ピンプラグをRJ-45のジャックに差し込むなど、規格が
 
 ## よく使われる規格
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Telefonadapter_04.jpg "wikilink")
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Telefonadapter_04.jpg "wikilink") [RJ45_Female_Connector.jpg](https://ja.wikipedia.org/wiki/File:RJ45_Female_Connector.jpg "fig:RJ45_Female_Connector.jpg")
 
 ### RJ-11
 

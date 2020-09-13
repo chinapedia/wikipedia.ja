@@ -33,8 +33,7 @@
 
 ## 外部リンク
 
-  - [公式サイト（英語）](http://cairographics.org/)
-
+  -
 [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:Freedesktop.org](https://ja.wikipedia.org/wiki/Category:Freedesktop.org "wikilink") [Category:グラフィックライブラリ](https://ja.wikipedia.org/wiki/Category:グラフィックライブラリ "wikilink") [Category:X_Window_System](https://ja.wikipedia.org/wiki/Category:X_Window_System "wikilink") [Category:GTK+](https://ja.wikipedia.org/wiki/Category:GTK+ "wikilink")
 
 1.  [Language bindings](http://cairographics.org/bindings/)

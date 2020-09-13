@@ -128,7 +128,7 @@
   - 12月31日 THE DOCUMENT 2002-03 TALK ABOUT MUSIC\!（9:00-翌9:00）
       - 9:00-17:55 [MITSUBISHI MOTORS COLT](../Page/三菱・コルト.md "wikilink") presents TOKYO JUKEBOX - クリス・ペプラー、[DJ DRAGON](../Page/DJ_DRAGON.md "wikilink")
       - 18:00-翌0:30 THE TOKYO SOUND PARTY - [君嶋ゆかり](../Page/君嶋ゆかり.md "wikilink")、秀島史香、DJ TARO、Sascha、[ピストン西沢](../Page/ピストン西沢.md "wikilink")
-      - 0:30-2:00 MITSUBISHI MOTORS presents SOUL TRAIN - [RYU](https://ja.wikipedia.org/wiki/RYU_\(DJ\) "wikilink")
+      - 0:30-2:00 [MITSUBISHI MOTORS](../Page/三菱自動車工業.md "wikilink") presents SOUL TRAIN - [RYU](https://ja.wikipedia.org/wiki/RYU_\(DJ\) "wikilink")
       - 2:00-9:00 THE SESSION - 渡辺祐、[みんしる](../Page/みんしる.md "wikilink")、[小林紀美](https://ja.wikipedia.org/wiki/小林紀美 "wikilink")
 
 </div>
@@ -810,7 +810,7 @@
 
 <!-- end list -->
 
-  - 5月4日 [AMERICAN EXPRESS](https://ja.wikipedia.org/wiki/アメリカンエクスプレス "wikilink") presents RELAXING MOMENTS (9:00-17:55)
+  - 5月4日 [AMERICAN EXPRESS](../Page/アメリカン・エキスプレス.md "wikilink") presents RELAXING MOMENTS (9:00-17:55)
 
 <!-- end list -->
 
@@ -1345,7 +1345,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    ショーンK、中野めぐみ
+    ショーンK、[中野めぐみ](../Page/中野めぐみ.md "wikilink")
 
 <!-- end list -->
 
@@ -1363,7 +1363,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    宮本絢子、藤田琢己、[中野めぐみ](../Page/中野めぐみ.md "wikilink")
+    宮本絢子、藤田琢己、中野めぐみ
 
 <!-- end list -->
 
@@ -1435,7 +1435,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 
 <!-- end list -->
 
-  - 1月10日 [NIPPONKOA](https://ja.wikipedia.org/wiki/日本興亜損保 "wikilink") presents BLUE PLANET \~IRANKARAPTE FROM [AMAMINCHU](../Page/奄美大島.md "wikilink")\~ (18:00-20:00)
+  - 1月10日 [NIPPONKOA](../Page/日本興亜損害保険.md "wikilink") presents BLUE PLANET \~IRANKARAPTE FROM [AMAMINCHU](../Page/奄美大島.md "wikilink")\~ (18:00-20:00)
 
 <!-- end list -->
 
@@ -1511,7 +1511,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 
 <!-- end list -->
 
-  - 5月3日 [NIPPONKOA](https://ja.wikipedia.org/wiki/日本興亜損保 "wikilink") presents BLUE PLANET \~SONG FROM PACIFALANG\~ (18:00-19:55)
+  - 5月3日 NIPPONKOA presents BLUE PLANET \~SONG FROM PACIFALANG\~ (18:00-19:55)
 
 <!-- end list -->
 
@@ -1548,7 +1548,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 
 <!-- end list -->
 
-  - 7月18日 TOP OF THE WORLD〜WALKING,CLIMING,THINKING〜 [石川直樹のエベレスト再登庁記](https://ja.wikipedia.org/wiki/石川直樹_\(探検家・写真家\) "wikilink") (18:00-19:55)
+  - 7月18日 TOP OF THE WORLD〜WALKING,CLIMING,THINKING〜 [石川直樹の](https://ja.wikipedia.org/wiki/石川直樹_\(探検家・写真家\) "wikilink")[エベレスト](../Page/エベレスト.md "wikilink")再登頂記 (18:00-19:55)
 
 <!-- end list -->
 
@@ -1723,7 +1723,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    *[後藤正文](../Page/後藤正文.md "wikilink")([ASIAN KANG-FU GENERATION](https://ja.wikipedia.org/wiki/ASIAN_KANG-FU_GENERATION "wikilink") Vo.\&Gt.)*
+    [後藤正文](../Page/後藤正文.md "wikilink")([ASIAN KANG-FU GENERATION](https://ja.wikipedia.org/wiki/ASIAN_KANG-FU_GENERATION "wikilink") Vo.\&Gt.)
 
 <!-- end list -->
 
@@ -1732,7 +1732,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    *[丹波順子](https://ja.wikipedia.org/wiki/丹波順子 "wikilink")(Part1/6:00-9:00)、[冨永愛](https://ja.wikipedia.org/wiki/冨永愛 "wikilink")(Part2/9:00-13:00)*
+    [丹波順子](https://ja.wikipedia.org/wiki/丹波順子 "wikilink")(Part1/6:00-9:00)、[冨永愛](https://ja.wikipedia.org/wiki/冨永愛 "wikilink")(Part2/9:00-13:00)
 
 <!-- end list -->
 
@@ -1768,7 +1768,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    *ジョン・カビラ Live from [Tokyo Sky Tree](../Page/東京スカイツリー.md "wikilink")*
+    ジョン・カビラ Live from [Tokyo Sky Tree](../Page/東京スカイツリー.md "wikilink")
 
 <!-- end list -->
 
@@ -1832,7 +1832,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    *[別所哲也](../Page/別所哲也.md "wikilink")／【生演奏】[葉加瀬太郎](../Page/葉加瀬太郎.md "wikilink")×[→Pia-no-jaC←](https://ja.wikipedia.org/wiki/→Pia-no-jaC← "wikilink")（ピアノジャック）*
+    [別所哲也](../Page/別所哲也.md "wikilink")／【生演奏】[葉加瀬太郎](../Page/葉加瀬太郎.md "wikilink")×[→Pia-no-jaC←](https://ja.wikipedia.org/wiki/→Pia-no-jaC← "wikilink")（ピアノジャック）
 
 <!-- end list -->
 
@@ -1841,8 +1841,8 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    *宮本絢子、[杉山ハリー](https://ja.wikipedia.org/wiki/杉山ハリー "wikilink")、DJ TARO、Sascha*
-    *番組中11:00 - 11:30と12:30 - 12:50の2度にわたり、[ニッポン放送](../Page/ニッポン放送.md "wikilink")「スペシャルプログラム 『東京ハッピー』」とのコラボレーションを実施*
+    宮本絢子、[杉山ハリー](https://ja.wikipedia.org/wiki/杉山ハリー "wikilink")、DJ TARO、Sascha
+    番組中11:00 - 11:30と12:30 - 12:50の2度にわたり、[ニッポン放送](../Page/ニッポン放送.md "wikilink")「スペシャルプログラム 『東京ハッピー』」との[コラボレーション](../Page/コラボレーション.md "wikilink")を実施
 
 <!-- end list -->
 
@@ -1860,7 +1860,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    *杉山ハリー、藤田琢己*
+    杉山ハリー、藤田琢己
 
 <!-- end list -->
 
@@ -1869,7 +1869,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    *メインナビゲーター：[奥田民生](../Page/奥田民生.md "wikilink")、[星野源](../Page/星野源.md "wikilink")*
+    メインナビゲーター：[奥田民生](../Page/奥田民生.md "wikilink")、[星野源](../Page/星野源.md "wikilink")
 
 <!-- end list -->
 
@@ -2004,12 +2004,12 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 
 <!-- end list -->
 
-  - ''3月11日 J-WAVE HEART TO HEART〜WE ARE ONE〜 (11:30-16:30)
+  - *3月11日 J-WAVE HEART TO HEART〜WE ARE ONE〜 (11:30-16:30)*
 
 <!-- end list -->
 
   -
-    [ジョン・カビラ](../Page/ジョン・カビラ.md "wikilink")、[Sascha](../Page/Sascha.md "wikilink")、[レイチェル・チャン](../Page/レイチェル・チャン.md "wikilink")''
+    [ジョン・カビラ](../Page/ジョン・カビラ.md "wikilink")、[Sascha](../Page/Sascha.md "wikilink")、[レイチェル・チャン](../Page/レイチェル・チャン.md "wikilink")
 
 <!-- end list -->
 
@@ -2059,12 +2059,12 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 
 <!-- end list -->
 
-  - ''4月29日 TOKYO GUITER JUMBOREE (20:00-23:41)
+  - *4月29日 TOKYO GUITER JUMBOREE (20:00-23:41)*
 
 <!-- end list -->
 
   -
-    クリス・ペプラー''
+    クリス・ペプラー
 
 <!-- end list -->
 
@@ -2105,13 +2105,13 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 
 <!-- end list -->
 
-  - ''6月21日 THE LIFE IS NEW STANDARD (19:55-21:50)
+  - *6月21日 THE LIFE IS NEW STANDARD (19:55-21:50)*
 
 <!-- end list -->
 
   -
     [はな](../Page/はな.md "wikilink")
-    [100万人のキャンドルナイト](https://ja.wikipedia.org/wiki/100万人のキャンドルナイト "wikilink")との関連特番''
+    [100万人のキャンドルナイト](https://ja.wikipedia.org/wiki/100万人のキャンドルナイト "wikilink")との関連特番
 
 <!-- end list -->
 
@@ -2124,12 +2124,12 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 
 <!-- end list -->
 
-  - ''9月6日 [SUNSTAR Ora2](../Page/サンスター.md "wikilink") presents J-WAVE LIVE 2000+13 SPECIAL (20:00-翌日1:00)
+  - *9月6日 [SUNSTAR Ora2](../Page/サンスター.md "wikilink") presents J-WAVE LIVE 2000+13 SPECIAL (20:00-翌日1:00)*
 
 <!-- end list -->
 
   -
-    [Sascha](../Page/Sascha.md "wikilink")''
+    [Sascha](../Page/Sascha.md "wikilink")
 
 <!-- end list -->
 
@@ -2169,12 +2169,12 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 
 <!-- end list -->
 
-  - ''9月23日 [JFL 20th ANNIVERSARY FOR THE NEXT](../Page/JAPAN_FM_LEAGUE.md "wikilink") (22:00-23:45)
+  - *9月23日 [JFL 20th ANNIVERSARY FOR THE NEXT](../Page/JAPAN_FM_LEAGUE.md "wikilink") (22:00-23:45)*
 
 <!-- end list -->
 
   -
-    [藤田琢己](../Page/藤田琢己.md "wikilink")''
+    [藤田琢己](../Page/藤田琢己.md "wikilink")
 
 <!-- end list -->
 
@@ -2359,7 +2359,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    [ショーンK](https://ja.wikipedia.org/wiki/ショーンK "wikilink")
+    ショーンK
 
 <!-- end list -->
 
@@ -3912,8 +3912,9 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 
   -
     5:00-7:00 [ハリー杉山](../Page/ハリー杉山.md "wikilink")、藤原恵子 - 「音楽のニュースタンダード」を紐解く
-
     7:00-10:00 別所哲也、レイチェル・チャン - 25周年、そしてこれからのJ-WAVEへ向けた想い、声
+
+<!-- end list -->
 
   - 「EVERY DAY EVERY WHERE J-WAVE」内で随時放送
 
@@ -3944,46 +3945,44 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 
 ## J-WAVE SPRING SPECIAL
 
-**J-WAVE SPRING SPECIAL** (ジェイウェーブ スプリング スペシャル)は、2016年3月に毎週日曜日の18時に1ヶ月間放送された特別番組\[4\]。
+**J-WAVE SPRING SPECIAL** (ジェイウェーブ スプリング スペシャル)は、2016年3月に毎週日曜日の18時に1ヶ月間放送された特別番組\[4\]。eighteen = 18歳をテーマに様々な内容の番組を放送する。
 
-eighteen＝18歳をテーマに様々な内容の番組を放送する。
-
-  - 第1回 (3月6日) 18's MAP
+  - 第1回 (3月6日） 18's MAP
 
 <!-- end list -->
 
   -
-    ナビゲーター、[秀島史香](../Page/秀島史香.md "wikilink")
-    ゲスト、[坂本龍一](../Page/坂本龍一.md "wikilink")、[別所哲也](../Page/別所哲也.md "wikilink")、[GAKU-MC](../Page/GAKU-MC.md "wikilink")、[シンリズム](https://ja.wikipedia.org/wiki/シンリズム "wikilink")（シンガーソングライター）
+    ナビゲーター [秀島史香](../Page/秀島史香.md "wikilink")
+    ゲスト [坂本龍一](../Page/坂本龍一.md "wikilink")、[別所哲也](../Page/別所哲也.md "wikilink")、[GAKU-MC](../Page/GAKU-MC.md "wikilink")、[シンリズム](https://ja.wikipedia.org/wiki/シンリズム "wikilink")（シンガーソングライター）
 
 <!-- end list -->
 
-  - 第2回 (3月13日) 18～CHANCE TO VOTE～
-
-<!-- end list -->
-
-  -
-    ナビゲーター、コムアイ（[水曜日のカンパネラ](https://ja.wikipedia.org/wiki/水曜日のカンパネラ "wikilink")）
-    ゲスト、[鈴木哲夫](https://ja.wikipedia.org/wiki/鈴木哲夫 "wikilink")
-
-<!-- end list -->
-
-  - 第3回 (3月20日) 18’s Aspiration
+  - 第2回（3月13日） 18〜CHANCE TO VOTE〜
 
 <!-- end list -->
 
   -
-    ナビゲーター、秀島史香
-    ゲスト、[江村美咲](https://ja.wikipedia.org/wiki/江村美咲 "wikilink")（フェンシングJOCエントリーアカデミー所属）、[千田健太](../Page/千田健太.md "wikilink")、[平沢大河](https://ja.wikipedia.org/wiki/平沢大河 "wikilink")、[鬼塚雅](https://ja.wikipedia.org/wiki/鬼塚雅 "wikilink")、[清水麻有](https://ja.wikipedia.org/wiki/清水麻有 "wikilink")（ラグビー女子日本代表） 他
+    ナビゲーター コムアイ（[水曜日のカンパネラ](https://ja.wikipedia.org/wiki/水曜日のカンパネラ "wikilink")）
+    ゲスト [鈴木哲夫](https://ja.wikipedia.org/wiki/鈴木哲夫 "wikilink")
 
 <!-- end list -->
 
-  - 第4回 (3月27日) 18 BEAT
+  - 第3回（3月20日） 18's Aspiration
 
 <!-- end list -->
 
   -
-    ナビゲーター、[ハマ・オカモト](https://ja.wikipedia.org/wiki/ハマ・オカモト "wikilink")
+    ナビゲーター 秀島史香
+    ゲスト [江村美咲](https://ja.wikipedia.org/wiki/江村美咲 "wikilink")（フェンシングJOCエントリーアカデミー所属）、[千田健太](../Page/千田健太.md "wikilink")、[平沢大河](https://ja.wikipedia.org/wiki/平沢大河 "wikilink")、[鬼塚雅](https://ja.wikipedia.org/wiki/鬼塚雅 "wikilink")、[清水麻有](https://ja.wikipedia.org/wiki/清水麻有 "wikilink")（ラグビー女子日本代表） 他
+
+<!-- end list -->
+
+  - 第4回（3月27日） 18 BEAT
+
+<!-- end list -->
+
+  -
+    ナビゲーター [ハマ・オカモト](https://ja.wikipedia.org/wiki/ハマ・オカモト "wikilink")
 
 ## 脚注
 

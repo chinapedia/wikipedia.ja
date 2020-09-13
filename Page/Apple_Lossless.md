@@ -9,7 +9,7 @@
 
 [量子化ビット数は](https://ja.wikipedia.org/wiki/ビット深度_\(音響機器\) "wikilink")**16、20、24、32bit**、[サンプリング周波数](../Page/サンプリング周波数.md "wikilink")は**1 kHz〜384 kHz**、チャンネル数は**1ch〜8ch**（実際の組み合わせとしてはモノラル、ステレオ、3.0ch、4.0ch、5.0ch、5.1ch、6.1ch、7.1ch）をサポートしている\[2\]。
 
-再生できる携帯プレイヤーは[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")シリーズ（第1・2世代iPod shuffleは非対応）、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")、[ソニー](../Page/ソニー.md "wikilink") [ウォークマン](../Page/ウォークマン.md "wikilink") ZXシリーズ、ウォークマン Fシリーズ、ウォークマンＡシリーズ、[iriver](https://ja.wikipedia.org/wiki/iriver "wikilink") AKシリーズ等。また、[Android](../Page/Android.md "wikilink")ベースのプレーヤーは対応アプリをインストールすることにより再生できる。一部の[ネットワークプレーヤー](https://ja.wikipedia.org/wiki/ネットワークプレーヤー "wikilink")も再生対応している。
+再生できる携帯プレイヤーは[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")シリーズ（第1・2世代iPod shuffleは非対応）、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")、[ソニー](../Page/ソニー.md "wikilink") [ウォークマン](../Page/ウォークマン.md "wikilink") ZXシリーズ、ウォークマン Fシリーズ、ウォークマンＡシリーズ、[iriver](https://ja.wikipedia.org/wiki/iriver "wikilink") AKシリーズ等。また、[Androidベースのプレーヤーは対応アプリをインストールすることにより再生できる](../Page/Android_\(オペレーティングシステム\).md "wikilink")。一部の[ネットワークプレーヤー](https://ja.wikipedia.org/wiki/ネットワークプレーヤー "wikilink")も再生対応している。
 
 [仕様](../Page/仕様.md "wikilink")が非公開であった頃、[リバースエンジニアリング](../Page/リバースエンジニアリング.md "wikilink")によって[オープンソース](../Page/オープンソース.md "wikilink")のApple ロスレスデコーダが公開され、[FFmpeg](../Page/FFmpeg.md "wikilink")はエンコーダの実装にも成功している。
 

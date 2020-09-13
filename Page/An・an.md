@@ -1,11 +1,9 @@
 > この記事は[An・an](https://ja.wikipedia.org/wiki/An・an)から翻訳されています。
 
 
-『**anan**』（**アンアン**）は、[マガジンハウス](../Page/マガジンハウス.md "wikilink")（旧・平凡出版）が毎週[水曜日](../Page/水曜日.md "wikilink")に発行する[女性週刊誌](../Page/女性週刊誌.md "wikilink")・[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。
+『**an・an**』（**アンアン**）は、[マガジンハウス](../Page/マガジンハウス.md "wikilink")（旧・平凡出版）が毎週[水曜日](../Page/水曜日.md "wikilink")に発行する[女性週刊誌](../Page/女性週刊誌.md "wikilink")・[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。
 
-2011年10月から2012年9月までの印刷証明付き平均発行部数は21万部弱\[1\]。誌名は創刊当時[モスクワ動物園](https://ja.wikipedia.org/wiki/モスクワ動物園 "wikilink")で飼育されていた[パンダの名で](https://ja.wikipedia.org/wiki/ジャイアントパンダ "wikilink")、パンダ好きで有名な[黒柳徹子](https://ja.wikipedia.org/wiki/黒柳徹子 "wikilink")によって名付けられた\[2\]。実際に、創刊当初の表紙にはパンダのマークが描かれていた\[3\]。
-
-※　『anan』正式表記は、中黒のないanan。ロゴデザインからか、an・anと表記されることがあるが、それは間違い。
+2020年現在、印刷証明付き平均発行部数は約14万部。誌名は創刊当時[モスクワ動物園](https://ja.wikipedia.org/wiki/モスクワ動物園 "wikilink")で飼育されていた[パンダの名で](https://ja.wikipedia.org/wiki/ジャイアントパンダ "wikilink")、パンダ好きで有名な[黒柳徹子](https://ja.wikipedia.org/wiki/黒柳徹子 "wikilink")によって名付けられた\[1\]。一般公募によって東北の男子高校生の案が選ばれたというものは間違いではないが、名前が決まるのは一般公募以前のことであり、この東北の男子高校生はそのことを知らず発案し偶然名前が被ってしまった。\[2\]実際に、創刊当初の表紙にはパンダのマークが描かれていた\[3\]
 
 ## 概要
 
@@ -33,7 +31,7 @@
 
 ### 1980年代
 
-[高度経済成長](../Page/高度経済成長.md "wikilink")がピークに達し、バブルに向かっていた[1980年代](../Page/1980年代.md "wikilink")は、女性に遊びを楽しむこと推奨するとともに、[労働](../Page/労働.md "wikilink")にも目を向けた。1981年から始まった連載「女の職業」では、働く女性達を取材した女性目線の[ルポタージュ](https://ja.wikipedia.org/wiki/ルポタージュ "wikilink")を掲載。[ツアーコンダクター](https://ja.wikipedia.org/wiki/ツアーコンダクター "wikilink")、[レポーター](https://ja.wikipedia.org/wiki/レポーター "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")、[スタイリスト](https://ja.wikipedia.org/wiki/スタイリスト "wikilink")、[ファッションモデル](../Page/ファッションモデル.md "wikilink")など当時多くの女性の憧れの職業とされていた「カタナカ職業」の女性たちを中心に紹介した。1983年10月7日号では、アパレルを中心とした50社近い会社の求人情報を掲載し、広告・マスコミ・外資系企業の転職情報、女子大生の為の就職情報の特集を組んでいる。
+[高度経済成長](../Page/高度経済成長.md "wikilink")がピークに達し、バブルに向かっていた[1980年代](../Page/1980年代.md "wikilink")は、女性に遊びを楽しむこと推奨するとともに、[労働](../Page/労働.md "wikilink")にも目を向けた。1981年から始まった連載「女の職業」では、働く女性達を取材した女性目線の[ルポタージュ](https://ja.wikipedia.org/wiki/ルポタージュ "wikilink")を掲載。[ツアーコンダクター](https://ja.wikipedia.org/wiki/ツアーコンダクター "wikilink")、[レポーター](https://ja.wikipedia.org/wiki/レポーター "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")、[スタイリスト](https://ja.wikipedia.org/wiki/スタイリスト "wikilink")、[ファッションモデル](../Page/ファッションモデル.md "wikilink")など当時多くの女性の憧れの職業とされていた「カタカナ職業」の女性たちを中心に紹介した。1983年10月7日号では、アパレルを中心とした50社近い会社の求人情報を掲載し、広告・マスコミ・外資系企業の転職情報、女子大生の為の就職情報の特集を組んでいる。
 
 1980年代に入ると、『anan』はセックス特集で[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")を解禁した。最先端のファッション誌を標榜する雑誌にとって、大衆の欲望そのものであるアイドルは不釣り合いで、『an・an』はアイドルを意識的に排除してきた。しかし、1980年代を超えたあたりから、テレビ番組で活躍するアイドルが登場するようになった。大々的なセックス特集を組んだ1983年5月6日・13日合併号では、表紙に[郷ひろみ](../Page/郷ひろみ.md "wikilink")を起用。郷は全裸を披露したわけではないし、[ヘアーの露出があったわけでもないが](../Page/陰毛.md "wikilink")、[トランクス](../Page/トランクス.md "wikilink")1枚に[カーディガン](../Page/カーディガン.md "wikilink")を羽織っただけの姿で横たわっており、当時のスーパースターがセックスを想像させるようなポーズをとっているのが画期的であった。また、同号の「妙に刺激的な男たちのハダカ鑑賞\!」というコーナーでは、[渡辺徹が女性に水をかけられびしょ濡れになった姿を披露](https://ja.wikipedia.org/wiki/渡辺徹_\(俳優\) "wikilink")。更に、[伊藤敏八](../Page/伊藤敏八.md "wikilink")、[伊東たけし](../Page/伊東たけし.md "wikilink")、[井上純一](../Page/井上純一_\(俳優\).md "wikilink")、[広岡瞬](../Page/広岡瞬.md "wikilink")がヌードになっている。また、結成したての[とんねるず](../Page/とんねるず.md "wikilink")も登場しているが、彼らは『anan』において一糸まとわぬ「完璧な全裸で登場した史上初めてのタレント」となった。
 
@@ -85,38 +83,43 @@
 
 2015年6月10日号では、創刊以来初となる[猫特集](../Page/ネコ.md "wikilink")「にゃんこ♥LOVE」を組んだ。これは好評で、2019年時点で第6弾まで特集が組まれている\[12\]。
 
-2017年12月6日号では、創刊以来初となる[アニメ](../Page/アニメ.md "wikilink")・[2.5次元ミュージカル](https://ja.wikipedia.org/wiki/2.5次元ミュージカル "wikilink")特集を組んだ\[13\]。
+2016年8月24日号のセックス特集では、1989年当時の原点に戻り「SEXでキレイになる。」を特集した（表紙は[指原莉乃](https://ja.wikipedia.org/wiki/指原莉乃 "wikilink")）\[13\]。
+
+2017年12月6日号では、創刊以来初となる[アニメ](../Page/アニメ.md "wikilink")・[2.5次元ミュージカル](https://ja.wikipedia.org/wiki/2.5次元ミュージカル "wikilink")特集を組んだ\[14\]。
 
 ## 節目の号に表紙を飾った人物
 
 | 号数                  | 日号           | 表紙                                                                            |
 | ------------------- | ------------ | ----------------------------------------------------------------------------- |
-| 創刊号                 | 1970年3月20日号  | MARITA（ミス・クリスチャン・ディオール）\[14\]                                                 |
-| 1000号               | 1995年12月22日号 | [小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")\[15\]                 |
-| 1207号 (創刊30周年記念特別号) | 2000年3月10日号  | [木村拓哉](../Page/木村拓哉.md "wikilink")\[16\]                                      |
-| 2000号               | 2016年4月20日号  | [嵐](../Page/嵐_\(グループ\).md "wikilink")\[17\]                                   |
-| 2191号 (創刊50周年記念特別号) | 2020年3月11日号  | [King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")\[18\] |
+| 創刊号                 | 1970年3月20日号  | MARITA（ミス・クリスチャン・ディオール）\[15\]                                                 |
+| 1000号               | 1995年12月22日号 | [小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")\[16\]                 |
+| 1207号 (創刊30周年記念特別号) | 2000年3月10日号  | [木村拓哉](../Page/木村拓哉.md "wikilink")\[17\]                                      |
+| 2000号               | 2016年4月20日号  | [嵐](../Page/嵐_\(グループ\).md "wikilink")\[18\]                                   |
+| 2191号 (創刊50周年記念特別号) | 2020年3月11日号  | [King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")\[19\] |
 
 ## アニメキャラクターの表紙
 
-2016年5月18日号では、アニメ『[おそ松さん](https://ja.wikipedia.org/wiki/おそ松さん "wikilink")』の登場人物である六つ子が表紙を飾った。ananの表紙をアニメの登場人物が飾ったのは、創刊以来初めてであった。六つ子は2017年11月22日号でも表紙を飾り、2020年3月11日号時点で2度以上表紙を飾った唯一のアニメの登場人物になっている。2017年3月14日には、『おそ松さん』に特化した別冊『anan特別編集「おそ松さん」SPECIAL BOOK』が、2019年4月3日には『anan特別編集「えいがのおそ松さん」OFFICIAL BOOK』が発行されており、いずれも六つ子が表紙を飾っている\[19\]。
+2016年5月18日号では、アニメ『[おそ松さん](https://ja.wikipedia.org/wiki/おそ松さん "wikilink")』の登場人物である六つ子が表紙を飾った。ananの表紙をアニメの登場人物が飾ったのは、創刊以来初めてであった。六つ子は2017年11月22日号でも表紙を飾り、2020年3月11日号時点で2度以上表紙を飾った唯一のアニメの登場人物になっている。2017年3月14日には、『おそ松さん』に特化した別冊『anan特別編集「おそ松さん」SPECIAL BOOK』が、2019年4月3日には『anan特別編集「えいがのおそ松さん」OFFICIAL BOOK』が発行されており、いずれも六つ子が表紙を飾っている\[20\]。
 
-2019年6月19日号では『[ヒプノシスマイク](https://ja.wikipedia.org/wiki/ヒプノシスマイク "wikilink")』の登場人物が裏表紙を飾り、2019年8月7日号では『[天気の子](https://ja.wikipedia.org/wiki/天気の子 "wikilink")』の登場人物が表紙を飾っている\[20\]。
+2019年6月19日号では『[ヒプノシスマイク](https://ja.wikipedia.org/wiki/ヒプノシスマイク "wikilink")』の登場人物が裏表紙を飾り、2019年8月7日号では『[天気の子](https://ja.wikipedia.org/wiki/天気の子 "wikilink")』の登場人物が表紙を飾っている\[21\]。
+
+2020年7月15号では『[攻殻機動隊](../Page/攻殻機動隊.md "wikilink")』の登場人物である[草薙素子](../Page/草薙素子.md "wikilink")が表紙を飾った\[22\]。
 
 ## 重版がかかった号
 
-2020年5月13日号時点で、以下の8号が重版された（週刊誌で重版は極めて異例とされる）\[21\]\[22\]。
+2020年8月26日号時点で、以下の9号が重版された（週刊誌で重版は極めて異例とされる）。
 
-| 号数    | 日号           | 表紙                                                                                                          |
-| ----- | ------------ | ----------------------------------------------------------------------------------------------------------- |
-| 1693号 | 2010年1月27日号  | [櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")                                                         |
-| 2103号 | 2018年5月30日号  | [King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")                                     |
-| 2145号 | 2019年4月3日号   | [SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")                                               |
-| 2157号 | 2019年7月3日号   | [Snow Man](https://ja.wikipedia.org/wiki/Snow_Man "wikilink")                                               |
-| 2165号 | 2019年9月4日号   | [中島健人](https://ja.wikipedia.org/wiki/中島健人 "wikilink")・[菊池風磨](https://ja.wikipedia.org/wiki/菊池風磨 "wikilink") |
-| 2180号 | 2019年12月18日号 | [SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")                                               |
-| 2191号 | 2020年3月11日号  | [King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")\[23\]                               |
-| 2199号 | 2020年5月13日号  | [Travis Japan](https://ja.wikipedia.org/wiki/Travis_Japan "wikilink")                                       |
+| 号数    | 日号           | 表紙                                                                                                          | 脚注・出典        |
+| ----- | ------------ | ----------------------------------------------------------------------------------------------------------- | ------------ |
+| 1693号 | 2010年1月27日号  | [櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")                                                         | \[23\]       |
+| 2103号 | 2018年5月30日号  | [King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")                                     | \[24\]       |
+| 2145号 | 2019年4月3日号   | [SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")                                               | \[25\]       |
+| 2157号 | 2019年7月3日号   | [Snow Man](https://ja.wikipedia.org/wiki/Snow_Man "wikilink")                                               | \[26\]       |
+| 2165号 | 2019年9月4日号   | [中島健人](https://ja.wikipedia.org/wiki/中島健人 "wikilink")・[菊池風磨](https://ja.wikipedia.org/wiki/菊池風磨 "wikilink") | \[27\]       |
+| 2180号 | 2019年12月18日号 | [SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")                                               | \[28\]       |
+| 2191号 | 2020年3月11日号  | [King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")                                     | \[29\]\[30\] |
+| 2199号 | 2020年5月13日号  | [Travis Japan](https://ja.wikipedia.org/wiki/Travis_Japan "wikilink")                                       | \[31\]       |
+| 2213号 | 2020年8月26日号  | [渡辺翔太](../Page/渡辺翔太.md "wikilink")                                                                          | \[32\]\[33\] |
 
 ## 誌面
 
@@ -124,11 +127,11 @@
 
 **好きな男・嫌いな男ランキング**は、毎年（2009年以降は休止）ananによる独自のアンケートによって好きな男、嫌いな男をランキングする雑誌の人気企画。
 
-毎年、「好きな男・嫌いな男ランキング」（他社が出版する複数の雑誌の、同様のランキングとは、上位芸能人の結果が異なることが多い）を発表しており、男性からの認知度も高い。また「好きな女・嫌いな女ランキング」も発表している\[24\]。
+毎年、「好きな男・嫌いな男ランキング」（他社が出版する複数の雑誌の、同様のランキングとは、上位芸能人の結果が異なることが多い）を発表しており、男性からの認知度も高い。また「好きな女・嫌いな女ランキング」も発表している\[34\]。
 
 ### SEX特集
 
-毎年、8月第1週号に「SEX特集」と呼ばれる、女性週刊誌では珍しい「[性行為](https://ja.wikipedia.org/wiki/性行為 "wikilink")」に関する特集を組む\[25\]。過去には[AV女優](../Page/AV女優.md "wikilink")の[原紗央莉](https://ja.wikipedia.org/wiki/原紗央莉 "wikilink")による「Girl's pleasure」の"[官能ビデオ](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")"[DVD](../Page/DVD-Video.md "wikilink")（2009年）、「[袋とじ](../Page/袋とじ.md "wikilink")企画」や[SEX](https://ja.wikipedia.org/wiki/性交 "wikilink")[アンケート](../Page/アンケート.md "wikilink")や[官能小説](../Page/官能小説.md "wikilink")や[避妊](../Page/避妊.md "wikilink")、[性感染症](../Page/性感染症.md "wikilink")に纏わる記事を特集する。ただし、その過激な内容に賛否両論の声が上がっている。
+毎年、8月第1週号に「SEX特集」と呼ばれる、女性週刊誌では珍しい「[性行為](https://ja.wikipedia.org/wiki/性行為 "wikilink")」に関する特集を組む\[35\]。過去には[AV女優](../Page/AV女優.md "wikilink")の[原紗央莉](https://ja.wikipedia.org/wiki/原紗央莉 "wikilink")による「Girl's pleasure」の"[官能ビデオ](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")"[DVD](../Page/DVD-Video.md "wikilink")（2009年）、「[袋とじ](../Page/袋とじ.md "wikilink")企画」や[SEX](https://ja.wikipedia.org/wiki/性交 "wikilink")[アンケート](../Page/アンケート.md "wikilink")や[官能小説](../Page/官能小説.md "wikilink")や[避妊](../Page/避妊.md "wikilink")、[性感染症](../Page/性感染症.md "wikilink")に纏わる記事を特集する。ただし、その過激な内容に賛否両論の声が上がっている。
 
 ### マンガ大賞
 
@@ -152,7 +155,7 @@
 <strong>3位</strong><br />
 <a href="https://ja.wikipedia.org/wiki/海月姫" title="wikilink">海月姫</a>（<a href="../Page/東村アキコ.md" title="wikilink">東村アキコ</a>）<br />
 <strong>4位</strong><br />
-<a href="https://ja.wikipedia.org/wiki/関根君の恋" title="wikilink">関根君の恋</a>（<a href="https://ja.wikipedia.org/wiki/河内遥" title="wikilink">河内遥</a>）<br />
+関根君の恋（<a href="https://ja.wikipedia.org/wiki/河内遥" title="wikilink">河内遥</a>）<br />
 <strong>5位</strong><br />
 <a href="../Page/君に届け.md" title="wikilink">君に届け</a>（<a href="../Page/椎名軽穂.md" title="wikilink">椎名軽穂</a>）</p></td>
 </tr>
@@ -171,8 +174,8 @@
 （2012年）</p></td>
 <td><p>関口君の恋（河内遥）</p></td>
 <td><p><strong>準大賞</strong><br />
-<a href="https://ja.wikipedia.org/wiki/にこたま" title="wikilink">にこたま</a>（<a href="https://ja.wikipedia.org/wiki/渡辺ペコ" title="wikilink">渡辺ペコ</a>）<br />
-<a href="https://ja.wikipedia.org/wiki/つなぐと星座になるように" title="wikilink">つなぐと星座になるように</a>（<a href="../Page/雁須磨子.md" title="wikilink">雁須磨子</a>）<br />
+にこたま（<a href="https://ja.wikipedia.org/wiki/渡辺ペコ" title="wikilink">渡辺ペコ</a>）<br />
+つなぐと星座になるように（<a href="../Page/雁須磨子.md" title="wikilink">雁須磨子</a>）<br />
 <a href="https://ja.wikipedia.org/wiki/アオハライド" title="wikilink">アオハライド</a>（咲坂伊緒）<br />
 <a href="https://ja.wikipedia.org/wiki/さんすくみ" title="wikilink">さんすくみ</a>（<a href="https://ja.wikipedia.org/wiki/絹田村子" title="wikilink">絹田村子</a>）</p></td>
 </tr>
@@ -195,13 +198,48 @@
 </tr>
 <tr class="even">
 <td><p>第6回<br />
-（2015年）[26]</p></td>
+（2015年）[36]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東京タラレバ娘" title="wikilink">東京タラレバ娘</a>（東村アキコ）</p></td>
 <td><p><strong>準大賞</strong><br />
 <a href="https://ja.wikipedia.org/wiki/アヤメくんののんびり肉食日誌" title="wikilink">アヤメくんののんびり肉食日誌</a>（<a href="https://ja.wikipedia.org/wiki/町麻衣" title="wikilink">町麻衣</a>）<br />
-<a href="https://ja.wikipedia.org/wiki/こいいじ" title="wikilink">こいいじ</a>（<a href="../Page/志村貴子.md" title="wikilink">志村貴子</a>）<br />
+こいいじ（<a href="../Page/志村貴子.md" title="wikilink">志村貴子</a>）<br />
 高台家の人々（森本梢子）<br />
 <a href="https://ja.wikipedia.org/wiki/ハコイリのムスメ" title="wikilink">ハコイリのムスメ</a>（池谷理香子）</p></td>
+</tr>
+<tr class="odd">
+<td><p>第7回<br />
+（2016年）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中学聖日記" title="wikilink">中学聖日記</a>（<a href="../Page/かわかみじゅんこ.md" title="wikilink">かわかみじゅんこ</a>）</p></td>
+<td><p>（発表されていない）</p></td>
+</tr>
+<tr class="even">
+<td><p>第8回<br />
+（2017年）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/凪のお暇" title="wikilink">凪のお暇</a>（<a href="../Page/コナリミサト.md" title="wikilink">コナリミサト</a>）</p></td>
+<td><p><strong>準大賞</strong><br />
+素敵な彼氏（<a href="../Page/河原和音.md" title="wikilink">河原和音</a>）<br />
+アレンとドラン（<a href="../Page/麻生みこと.md" title="wikilink">麻生みこと</a>）<br />
+１１２２（<a href="https://ja.wikipedia.org/wiki/渡辺ペコ" title="wikilink">渡辺ペコ</a>）<br />
+<a href="https://ja.wikipedia.org/wiki/僕と君の大切な話" title="wikilink">僕と君の大切な話</a>（<a href="https://ja.wikipedia.org/wiki/ろびこ" title="wikilink">ろびこ</a>）</p></td>
+</tr>
+<tr class="odd">
+<td><p>第9回<br />
+（2018年）</p></td>
+<td><p>セクシー田中さん（<a href="../Page/芦原妃名子.md" title="wikilink">芦原妃名子</a>）</p></td>
+<td><p><strong>準大賞</strong><br />
+リクエストをよろしく（<a href="https://ja.wikipedia.org/wiki/河内遙" title="wikilink">河内遙</a>）<br />
+虹、甘えてよ。（<a href="https://ja.wikipedia.org/wiki/青木琴美" title="wikilink">青木琴美</a>）<br />
+花野井くんと恋の病（<a href="https://ja.wikipedia.org/wiki/森野萌" title="wikilink">森野萌</a>）</p></td>
+</tr>
+<tr class="even">
+<td><p>第10回<br />
+（2019年）</p></td>
+<td><p>やまとは恋のまほろば（浜谷みお）</p></td>
+<td><p><strong>準大賞</strong><br />
+自転車屋さんの高橋くん（松虫あられ）<br />
+君に届け番外編－運命の人－（<a href="../Page/椎名軽穂.md" title="wikilink">椎名軽穂</a>）<br />
+<a href="https://ja.wikipedia.org/wiki/カカフカカ" title="wikilink">カカフカカ</a>（<a href="../Page/石田拓実.md" title="wikilink">石田拓実</a>）<br />
+忍恋（<a href="../Page/鈴木ジュリエッタ.md" title="wikilink">鈴木ジュリエッタ</a>）</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -220,7 +258,7 @@
   - [くればやし美子](https://ja.wikipedia.org/wiki/くればやし美子 "wikilink")
   - [林マヤ](../Page/林マヤ.md "wikilink")
   - [甲田益也子](../Page/甲田益也子.md "wikilink")
-  - [中川比佐子](https://ja.wikipedia.org/wiki/中川比佐子 "wikilink")
+  - [中川比佐子](../Page/中川比佐子.md "wikilink")
   - [藤井春日](../Page/藤井春日.md "wikilink")
   - [雅子](../Page/雅子_\(女優\).md "wikilink")
   - [市川実和子](https://ja.wikipedia.org/wiki/市川実和子 "wikilink")
@@ -267,12 +305,18 @@
 ## 外部リンク
 
   - [ananweb](https://ananweb.jp/)
+
   - [anan (アンアン)](https://magazineworld.jp/anan/) - マガジンハウス
 
+  -
+  -
+  -
+  -
+  -
 [Category:女性向けファッション雑誌](https://ja.wikipedia.org/wiki/Category:女性向けファッション雑誌 "wikilink") [Category:日本のファッション雑誌](https://ja.wikipedia.org/wiki/Category:日本のファッション雑誌 "wikilink") [Category:日本の週刊誌](https://ja.wikipedia.org/wiki/Category:日本の週刊誌 "wikilink") [Category:マガジンハウス](https://ja.wikipedia.org/wiki/Category:マガジンハウス "wikilink") [Category:1970年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1970年創刊の雑誌 "wikilink")
 
-1.  『マガジンデータ2013（2012年版）』日本雑誌協会[JMPAマガジンデータ : 女性 ライフデザイン](http://www.j-magazine.or.jp/data_002/w2.html#010)より。
-2.
+1.
+2.  [anan創刊 — 『anan』創刊！ - anan 50周年記念 - ananweb](https://50.ananweb.jp/archives/anan-1970-0303/) マガジンハウス
 3.
 4.  [創刊40周年の『an・an』 徹底的に読者視点に立った編集を](http://adv.asahi.com/modules/feature/index.php/content0397.html) マガジンハウス
 5.
@@ -283,17 +327,27 @@
 10.
 11.
 12.
-13. [「anan」初のアニメ特集を実施！2.5次元も網羅へ](https://www.cinematoday.jp/news/N0096325)、シネマトゥデイ、2017年11月21日18時00分。
-14. 『an・an』2020年3月11日号、132-133頁。
-15. 『an・an』2020年3月11日号、148頁。
-16. 『an・an』2020年3月11日号、152-153頁。
-17. 『an・an』2020年3月11日号、168頁。
-18. 『an・an』2020年3月11日号、178頁。
-19. 『an・an』2020年3月11日号、102頁。
-20. 『an・an』2020年3月11日号、100-101頁。
-21. 『an・an』2020年3月11日号、82-83頁。
+13. [『an・an』“SEXでキレイになる”特集に指原莉乃](https://www.hmv.co.jp/newsdetail/article/1608051013/)、HMV\&BOOKS online、2016年8月5日。
+14. [「anan」初のアニメ特集を実施！2.5次元も網羅へ](https://www.cinematoday.jp/news/N0096325)、シネマトゥデイ、2017年11月21日18時00分。
+15. 『an・an』2020年3月11日号、132-133頁。
+16. 『an・an』2020年3月11日号、148頁。
+17. 『an・an』2020年3月11日号、152-153頁。
+18. 『an・an』2020年3月11日号、168頁。
+19. 『an・an』2020年3月11日号、178頁。
+20. 『an・an』2020年3月11日号、102頁。
+21. 『an・an』2020年3月11日号、100-101頁。
 22.
-23. 通常版およびスペシャルエディションの2冊同時重版。同ーアーティストの表紙違いバージョン2冊同時重版は、史上初。
+23. 『an・an』2020年3月11日号、82-83頁。
 24.
-25. [北原みのり](../Page/北原みのり.md "wikilink")『アンアンのセックスできれいになれた?』 [朝日新聞出版](../Page/朝日新聞出版.md "wikilink")、2011年8月。ISBN 978-4-02-250807-2
+25.
 26.
+27.
+28.
+29.
+30. 通常版およびスペシャルエディションの2冊同時重版。同ーアーティストの表紙違いバージョン2冊同時重版は、史上初。
+31. [Travis Japan：表紙飾った「anan」完売続出で重版決まる　50年で異例の9度目　ジャニーズ Jr.では3組目](https://mainichikirei.jp/article/20200508dog00m100015000c.html)、[毎日キレイ](https://ja.wikipedia.org/wiki/毎日キレイ "wikilink")、2020年5月8日。
+32. [Snow Man・渡辺翔太ソロ表紙の『anan』発売前重版が決定 創刊以来初](https://www.oricon.co.jp/news/2169208/)、[ORICON NEWS](https://ja.wikipedia.org/wiki/ORICON_NEWS "wikilink")、2020年8月11日。
+33. 2020年8月11日に重版が決定。発売日前に重版が決まったのは史上初。
+34.
+35. [北原みのり](../Page/北原みのり.md "wikilink")『アンアンのセックスできれいになれた?』 [朝日新聞出版](../Page/朝日新聞出版.md "wikilink")、2011年8月。ISBN 978-4-02-250807-2
+36.

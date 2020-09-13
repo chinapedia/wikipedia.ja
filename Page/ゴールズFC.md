@@ -51,6 +51,13 @@
 | 42                                          | [2006年](../Page/2006年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink") | 1回戦              | [仁賀保運動公園多目的広場](../Page/仁賀保グリーンフィールド.md "wikilink") | 1-1 (PK3-1)                                                          | [ノルブリッツ北海道](https://ja.wikipedia.org/wiki/ノルブリッツ北海道 "wikilink") (北海道) | 300人 |
 | 2006年[10月15日](../Page/10月15日.md "wikilink") | 2回戦                                                                        | TDKスポーツセンターサッカー場 | 1-1 (PK2-4)                                        | [V・ファーレン長崎](https://ja.wikipedia.org/wiki/V・ファーレン長崎 "wikilink") (九州) | 200人                                                                  |      |
 
+## タイトル
+
+### カップ戦
+
+  - **[北信越チャレンジリーグ](https://ja.wikipedia.org/wiki/北信越チャレンジリーグ "wikilink")**
+      - 2001年
+
 ## 歴代在籍選手
 
   - [寺内良太](../Page/寺内良太.md "wikilink")　(2004-2005)

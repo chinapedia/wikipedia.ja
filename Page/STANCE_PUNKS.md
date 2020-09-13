@@ -73,22 +73,24 @@
 
 ### シングル
 
-|      | 発売日        | タイトル                                                                            | 規格品番      | 備考                |
-| ---- | ---------- | ------------------------------------------------------------------------------- | --------- | ----------------- |
-| 1st  | 2002年4月11日 | **[クソッタレ解放区〜クソッタレ2](https://ja.wikipedia.org/wiki/クソッタレ解放区〜クソッタレ2 "wikilink")** | DYCL-1003 | オリコン最高22位、登場回数14回 |
-| 2nd  | 2003年6月11日 | **[最低最高999/雑草の花](https://ja.wikipedia.org/wiki/最低最高999/雑草の花 "wikilink")**       | DYCL-1005 | オリコン最高19位、登場回数18回 |
-| 3rd  | 2004年5月5日  | **[ロストボーイズ★マーチ](https://ja.wikipedia.org/wiki/ロストボーイズ★マーチ "wikilink")**         | ZEDY-1007 | オリコン最高56位         |
-| 4th  | 2004年6月9日  | **[19roll](https://ja.wikipedia.org/wiki/19roll "wikilink")**                   | ZEDY-1008 | オリコン最高56位、登場回数4回  |
-| 5th  | 2005年3月24日 | **[モニー・モニー・モニー](https://ja.wikipedia.org/wiki/モニー・モニー・モニー "wikilink")**         | ESCL-5001 | オリコン最高62位、登場回数4回  |
-| 6th  | 2005年6月8日  | **[ノーボーイ・ノークライ](https://ja.wikipedia.org/wiki/ノーボーイ・ノークライ "wikilink")**         | ESCL-5002 | オリコン最高33位、登場回数5回  |
-| 7th  | 2006年5月24日 | **[シャロルはブルー](https://ja.wikipedia.org/wiki/シャロルはブルー "wikilink")**               | ESCL-5007 | オリコン最高140位、登場回数1回 |
-| 8th  | 2006年8月2日  | **[LET IT ROCK](https://ja.wikipedia.org/wiki/LET_IT_ROCK "wikilink")**         | ESCL-5008 | オリコン最高188位、登場回数1回 |
-| 9th  | 2008年6月4日  | **[アイワナビー](https://ja.wikipedia.org/wiki/アイワナビー "wikilink")**                   | ESCL-5015 | オリコン最高54位、登場回数3回  |
-| 10th | 2011年11月5日 | **stay young / 原発ソング**                                                          | GUDY-4001 | ライブ会場限定販売         |
-| 11th | 2015年7月8日  | **SHE**                                                                         | GUDY-4002 | ライブ会場限定販売         |
-| 12th | 2017年4月1日  | **夢の楽団 / ペーパースクリーン・ダイアリー**                                                      | GUDY-4003 | ライブ会場限定販売         |
-| 13th | 2017年4月1日  | たましいのうた / mother lake                                                           | GUDY-4004 | ライブ会場限定販売         |
-|      |            |                                                                                 |           |                   |
+|            |                                                                                 |  |  |  |           |                   |
+| ---------- | ------------------------------------------------------------------------------- |  |  |  | --------- | ----------------- |
+| 発売日        | タイトル                                                                            |  |  |  | 規格品番      | 備考                |
+| 2002年4月11日 | **[クソッタレ解放区〜クソッタレ2](https://ja.wikipedia.org/wiki/クソッタレ解放区〜クソッタレ2 "wikilink")** |  |  |  | DYCL-1003 | オリコン最高22位、登場回数14回 |
+| 2003年6月11日 | **[最低最高999/雑草の花](https://ja.wikipedia.org/wiki/最低最高999/雑草の花 "wikilink")**       |  |  |  | DYCL-1005 | オリコン最高19位、登場回数18回 |
+| 2004年5月5日  | **[ロストボーイズ★マーチ](https://ja.wikipedia.org/wiki/ロストボーイズ★マーチ "wikilink")**         |  |  |  | ZEDY-1007 | オリコン最高56位         |
+| 2004年6月9日  | **[19roll](https://ja.wikipedia.org/wiki/19roll "wikilink")**                   |  |  |  | ZEDY-1008 | オリコン最高56位、登場回数4回  |
+| 2005年3月24日 | **[モニー・モニー・モニー](https://ja.wikipedia.org/wiki/モニー・モニー・モニー "wikilink")**         |  |  |  | ESCL-5001 | オリコン最高62位、登場回数4回  |
+| 2005年6月8日  | **[ノーボーイ・ノークライ](https://ja.wikipedia.org/wiki/ノーボーイ・ノークライ "wikilink")**         |  |  |  | ESCL-5002 | オリコン最高33位、登場回数5回  |
+| 2006年5月24日 | **[シャロルはブルー](https://ja.wikipedia.org/wiki/シャロルはブルー "wikilink")**               |  |  |  | ESCL-5007 | オリコン最高140位、登場回数1回 |
+| 2006年8月2日  | **[LET IT ROCK](https://ja.wikipedia.org/wiki/LET_IT_ROCK "wikilink")**         |  |  |  | ESCL-5008 | オリコン最高188位、登場回数1回 |
+| 2008年6月4日  | **[アイワナビー](https://ja.wikipedia.org/wiki/アイワナビー "wikilink")**                   |  |  |  | ESCL-5015 | オリコン最高54位、登場回数3回  |
+| 2011年11月5日 | **stay young / 原発ソング**                                                          |  |  |  | GUDY-4001 | ライブ会場限定販売         |
+| 2015年7月8日  | **SHE**                                                                         |  |  |  | GUDY-4002 | ライブ会場限定販売         |
+| 2017年4月1日  | **夢の楽団 / ペーパースクリーン・ダイアリー**                                                      |  |  |  | GUDY-4003 | ライブ会場限定販売         |
+| 2017年4月1日  | たましいのうた / mother lake                                                           |  |  |  | GUDY-4004 | ライブ会場限定販売         |
+| 2019年7月13日 | 下北沢エレジー / 春の道標                                                                  |  |  |  |           | ライブ会場限定販売         |
+|            |                                                                                 |  |  |  |           |                   |
 
 ### アルバム
 
@@ -481,7 +483,19 @@ SRCL-5599</p></td>
 
 ## 外部リンク
 
-  - [STANCE PUNKS official web site](http://stancepunks.com/)
+  - [STANCE PUNKS Official web site](http://stancepunks.com/)
+
+  - STANCE PUNKS Official [Twitter](https://twitter.com/STANCE_PUNKSnow)
+
+  - STANCE PUNKS Official [instagram](https://www.instagram.com/stance_punks_official/)
+
+  - [STANCE PUNKS Official Spotify](https://open.spotify.com/artist/5Grq5bIeD9Vw6JyBiobSdA?autoplay=true&v=A)
+
+  - STANCE PUNKS [Official YouTube Channel](https://www.youtube.com/user/StancePunks98)
+
+  - [Facebook](https://www.facebook.com/StancePunksFanwebsite/) Fan Website
+
+  - [Fan Youtube Channel](https://www.youtube.com/user/StancePunksSong/featured)
 
   - [Sony Music Online Japan : STANCE PUNKS](https://www.sonymusic.co.jp/artist/StancePunks/) - [ソニー・ミュージックエンタテインメントによる公式ページ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")
 

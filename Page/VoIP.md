@@ -1,13 +1,13 @@
 > この記事は[VoIP](https://ja.wikipedia.org/wiki/VoIP)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:1140E.jpg "wikilink")\]\] **Voice over Internet Protocol**（ボイス オーバー インターネット プロトコル、**VoIP**（ブイ オー アイピー、ボイップ\[1\]、ボイプ\[2\]）、**Voice over IP**（ボイス オーバー アイピー））とは、[音声](https://ja.wikipedia.org/wiki/音声 "wikilink")を各種[符号化方式](../Page/符号化方式.md "wikilink")で[符号化](https://ja.wikipedia.org/wiki/符号化 "wikilink")および[圧縮し](../Page/データ圧縮.md "wikilink")、[パケット](../Page/パケット.md "wikilink")に変換したものを[IPネットワーク](https://ja.wikipedia.org/wiki/IPネットワーク "wikilink")で[リアルタイム](../Page/リアルタイム.md "wikilink")伝送する技術である。 (VoFR) ・ (VoA) などと同じ**Voice over Packet Network (VoPN)** の一種。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:1140E.jpg "wikilink")\]\] **Voice over Internet Protocol**（ボイス オーバー インターネット プロトコル）とは、[IPを利用して通話をする技術のことである](../Page/インターネット・プロトコル・スイート.md "wikilink")。**VoIP**（ブイ オー アイピー、ボイップ\[1\]、ボイプ\[2\]）とも呼ばれる。
 
-この項では「VoIP」の技術とIP電話の網構成を記述する。その他については[関連項目も参照のこと](https://ja.wikipedia.org/wiki/#関連項目 "wikilink")。
+## 概要および経緯
 
-## VoPNの概要および経緯
+[Voip-typical.gif](https://ja.wikipedia.org/wiki/File:Voip-typical.gif "fig:Voip-typical.gif")\]\] VoIPにおいては、[音声](https://ja.wikipedia.org/wiki/音声 "wikilink")を各種[符号化方式](../Page/符号化方式.md "wikilink")で[符号化](https://ja.wikipedia.org/wiki/符号化 "wikilink")および[圧縮し](../Page/データ圧縮.md "wikilink")、[パケット](../Page/パケット.md "wikilink")に変換したものを[IPネットワーク](https://ja.wikipedia.org/wiki/IPネットワーク "wikilink")で[リアルタイム](../Page/リアルタイム.md "wikilink")伝送する。VoIPは、 (VoFR) ・ (VoA) などと同じ**Voice over Packet Network (VoPN)** の一種である。
 
-[Voip-typical.gif](https://ja.wikipedia.org/wiki/File:Voip-typical.gif "fig:Voip-typical.gif")\]\] VoPNは、[データ通信](../Page/データ通信.md "wikilink")網と[伝送路](../Page/伝送路.md "wikilink")や交換設備を共用することを目的としてはじめられた。
+VoPNは、電話網と[データ通信](../Page/データ通信.md "wikilink")網の[伝送路](../Page/伝送路.md "wikilink")や交換設備を共用することを目的として導入が始まった。
 
 VoFRは、[X.25](https://ja.wikipedia.org/wiki/X.25 "wikilink")よりも遅延が少ない[フレームリレー](../Page/フレームリレー.md "wikilink")を使用するものである。IP加入者網が無かった時代に[内線電話](../Page/内線電話.md "wikilink")として普及したが、[IP網](https://ja.wikipedia.org/wiki/IP網 "wikilink")の価格の低下と速度の向上、提供地域の拡大により撤去が進んだ。
 

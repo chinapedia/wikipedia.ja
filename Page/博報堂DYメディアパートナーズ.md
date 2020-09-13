@@ -69,6 +69,7 @@
   - [アオハライド](https://ja.wikipedia.org/wiki/アオハライド "wikilink")
   - [赤髪の白雪姫](../Page/赤髪の白雪姫.md "wikilink")
   - [アクエリオンEVOL](https://ja.wikipedia.org/wiki/アクエリオンEVOL "wikilink")
+  - [あした世界が終わるとしても](https://ja.wikipedia.org/wiki/あした世界が終わるとしても "wikilink")
   - [あらしのよるに](../Page/あらしのよるに.md "wikilink")（劇場版）
   - [ウィッチクラフトワークス](https://ja.wikipedia.org/wiki/ウィッチクラフトワークス "wikilink")
   - [エウレカセブンAO](https://ja.wikipedia.org/wiki/エウレカセブンAO "wikilink")

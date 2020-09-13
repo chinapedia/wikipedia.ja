@@ -60,7 +60,7 @@
   - 茉莉子の働くファッションヘルス「マンハッタン」の店長：[大河内浩](../Page/大河内浩.md "wikilink")
     ラジオの[パーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")：[加藤いづみ](https://ja.wikipedia.org/wiki/加藤いづみ "wikilink")（声の出演）
     みさをがリスナーであり、ことある事に便りを寄せる｢加藤いづみの[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")｣のDJ。
-  - 柘剛一：[清水紘治](../Page/清水紘治.md "wikilink")
+  - 柘剛一：[清水綋治](../Page/清水綋治.md "wikilink")
     茉莉子の父。焼津で医師をしている。茉莉子が高校生の頃、前妻（茉莉子の実母）と死別。その直後に美奈子と再婚したが、このことが茉莉子の反発にあう。金田の強請で茉莉子の実状を知って激昂。借金のカタをつける代わりに絶縁すると宣言をしたが、茉莉子が覚醒剤で入院したことを機に和解。
   - 柘美奈子：[宮田早苗](https://ja.wikipedia.org/wiki/宮田早苗 "wikilink")
     茉莉子の継母。結婚前は[ナースだった](https://ja.wikipedia.org/wiki/看護師 "wikilink")。
@@ -97,6 +97,7 @@
   - 音響効果：亀森素子
   - オフライン編集：佐藤尚明
   - 編集：福永義昭
+  - MA : 石川幸人
   - 美術プロデューサー：本田邦宏
   - デザイン：塩入隆史
   - 美術進行：岡村正樹
@@ -224,7 +225,7 @@
 
 ## 外部リンク
 
-  - [悪魔のKISS - allcinema](http://www.allcinema.net/prog/show_c.php?num_c=240562)
+  - [悪魔のKISS - allcinema](https://www.allcinema.net/cinema/240562)
 
 ## 脚注
 

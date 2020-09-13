@@ -13,11 +13,11 @@
 
 ### 1987年10月 - 1988年3月
 
-  - 月曜日：[大岩堅一](../Page/大岩堅一.md "wikilink")（当時[ABCアナウンサー](../Page/朝日放送テレビ.md "wikilink")）、[楠淳生](../Page/楠淳生.md "wikilink")（当時ABCアナウンサー）、マンスリーアシスタント（[日高のり子](../Page/日高のり子.md "wikilink")や[渡瀬麻紀などが担当](../Page/渡瀬マキ.md "wikilink")）
+  - 月曜日：[大岩堅一](../Page/大岩堅一.md "wikilink")（当時[ABCアナウンサー](../Page/朝日放送テレビ.md "wikilink")）、[楠淳生](../Page/楠淳生.md "wikilink")（当時ABCアナウンサー）、マンスリーアシスタント（[日髙のり子](../Page/日髙のり子.md "wikilink")や[渡瀬麻紀などが担当](../Page/渡瀬マキ.md "wikilink")）
   - 火曜日：[渡辺英樹](../Page/渡辺英樹.md "wikilink")（[C-C-B](../Page/C-C-B.md "wikilink")）、[熊谷ニーナ](../Page/熊谷ニーナ.md "wikilink")、[岡けん太・ゆう太](../Page/おかけんた・ゆうた.md "wikilink")
   - 水曜日：キッチュ（現・[松尾貴史](../Page/松尾貴史.md "wikilink")）、[伊藤みき](https://ja.wikipedia.org/wiki/いとうみき "wikilink")、[竹内義和](../Page/竹内義和.md "wikilink")、週替わりゲスト（[上岡龍太郎](../Page/上岡龍太郎.md "wikilink")や[田代まさし](https://ja.wikipedia.org/wiki/田代まさし "wikilink")などが出演）
   - 木曜日：[太平シロー](../Page/大平シロー.md "wikilink")、[ハイヒール・リンゴ](../Page/ハイヒール_\(お笑い\).md "wikilink")、伊舞ちよ（現・伊舞なおみ）
-  - 金曜日：[三代澤康司](../Page/三代澤康司.md "wikilink")（ABCアナウンサー）、勝山由美香、[清水圭・和泉修](../Page/清水圭・和泉修.md "wikilink")（隔週出演・東京担当）、[どんきほーて](https://ja.wikipedia.org/wiki/かつみ・さゆり#コンビ結成の経緯 "wikilink")（隔週出演・大阪担当）
+  - 金曜日：[三代澤康司](../Page/三代澤康司.md "wikilink")（ABCアナウンサー）、勝山由美香、[清水圭・和泉修](../Page/清水圭・和泉修.md "wikilink")（隔週出演・東京担当）、[どんきほーて](https://ja.wikipedia.org/wiki/かつみ♥さゆり#コンビ結成の経緯 "wikilink")（隔週出演・大阪担当）
 
 金曜日には週替わりで、[心斎橋筋2丁目劇場](../Page/心斎橋筋2丁目劇場.md "wikilink")（当時[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")が[大阪](../Page/大阪.md "wikilink")・[心斎橋筋](../Page/心斎橋筋.md "wikilink")で運営していた劇場）と、朝日放送東京本社（当時は[東京](../Page/東京.md "wikilink")・[芝公園](../Page/芝公園.md "wikilink")）内のスタジオ（または当時新宿南口にあった[新宿コメディシアター](https://ja.wikipedia.org/wiki/新宿コメディシアター "wikilink")）から公開生放送を実施していた。
 
@@ -33,7 +33,7 @@
 
 #### 2部
 
-  - 月曜日：[きんた・ミーノ](../Page/きんた・ミーノ.md "wikilink")、芦沢誠（途中で金曜日1部に移動）
+  - 月曜日：[きんた・ミーノ](../Page/きんた・ミーノ.md "wikilink")、芦沢誠（途中で金曜日1部に移動）→[宮根誠司](../Page/宮根誠司.md "wikilink")
   - 火曜日：[岡けん太・ゆう太](../Page/おかけんた・ゆうた.md "wikilink")、[金子恵実](../Page/金子恵実.md "wikilink")
   - 水曜日：[東野幸治](../Page/東野幸治.md "wikilink")、[亀山房代](../Page/亀山房代.md "wikilink")、[大政美由紀](https://ja.wikipedia.org/wiki/大政美由紀 "wikilink")
   - 木曜日：[森脇健児](../Page/森脇健児.md "wikilink")、[サザンクロス](https://ja.wikipedia.org/wiki/サザンクロス_\(お笑い\) "wikilink")

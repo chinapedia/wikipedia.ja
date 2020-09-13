@@ -71,7 +71,7 @@
 
 :\* KRY [山口放送](../Page/山口放送.md "wikilink") 日曜21:30〜22:00（1996年4月 - ）
 
-:\* JRT [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") 月曜23:30〜24:00（1994年10月 - 1995年3月）
+:\* JRT [四国放送](../Page/四国放送.md "wikilink") 月曜23:30〜24:00（1994年10月 - 1995年3月）
 
 :\* RKC [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink") 月曜23:30〜24:00（1994年10月 - ）
 

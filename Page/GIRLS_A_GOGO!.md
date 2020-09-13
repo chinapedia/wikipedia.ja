@@ -162,6 +162,6 @@
 
 ## 外部リンク
 
-  - [GIRLS A GOGO\!](http://web.archive.org/web/20060823081100/http://www.tv-asahi.co.jp/GGG/)（2006年8月23日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [GIRLS A GOGO\!](https://web.archive.org/web/20060823081100/http://www.tv-asahi.co.jp/GGG/)（2006年8月23日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
 [Category:テレビ朝日のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ朝日のバラエティ番組の歴史 "wikilink") [Category:美少女クラブ31](https://ja.wikipedia.org/wiki/Category:美少女クラブ31 "wikilink") [Category:テレビのアイドル番組](https://ja.wikipedia.org/wiki/Category:テレビのアイドル番組 "wikilink") [Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink")

@@ -11,7 +11,11 @@
 
 [J-POP](../Page/J-POP.md "wikilink")・[K-POP](https://ja.wikipedia.org/wiki/K-POP "wikilink")を中心に、最新[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")やヒットチャート等を24時間放映。放送される邦楽ミュージック・ビデオの大半は歌詞を表示する様になっている\[2\]。前身チャンネル「**Viewsic**」では、[邦楽](../Page/邦楽.md "wikilink")と[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")が半々程度の割合であったが、「**MUSIC ON\! TV**」に社名（局名）変更以降K-POP等が急増。以降、K-POP等関連の番組を欠かさず放送している一方で、洋楽等関連の番組が多い。
 
-[新型コロナウイルスの影響で作成できない番組](../Page/2019新型コロナウイルス.md "wikilink")（新曲を扱うサキドリやランキング系番組）がある\[3\]\[4\]\[5\]。
+## COVID-19による放送への影響
+
+[新型コロナウイルスの影響で作成できない番組](../Page/2019新型コロナウイルス.md "wikilink")（新曲を扱うサキドリやランキング系番組など）があった\[3\]\[4\]\[5\]。なお2020年7月はほぼ放送回数調整のみとなっているため作成できない番組は無くなったと思われる\[6\]。8月は単純に特番が多いための変更とみられる\[7\]。
+
+サキドリは2020年6月8日から放送再開されたが、新型コロナウイルスの関係から当面の間は1日に3曲程度から2曲程度となり、ライブの新着ミュージックビデオについては当面見合わせている。\[8\]なお7月14日からは3曲に戻っている。
 
 ## キャッチコピー
 
@@ -44,7 +48,7 @@ CMでの「毎日がエムオン！ライブ！」の名の通り必ず放送が
   - [2007年](../Page/2007年.md "wikilink")
       - [1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")、5年ぶりにホームページをリニューアル。
   - [2009年](../Page/2009年.md "wikilink")
-      - [10月1日](../Page/10月1日.md "wikilink")、スカパー\!HD、[ひかりTV](https://ja.wikipedia.org/wiki/ひかりTV "wikilink")、[eo光テレビ](https://ja.wikipedia.org/wiki/eo光テレビ "wikilink")にてハイビジョン放送を開始\[6\]。スカパー\!e2にて[画角比](../Page/画角情報_\(テレビ放送\).md "wikilink")16:9の付与を開始。
+      - [10月1日](../Page/10月1日.md "wikilink")、スカパー\!HD、[ひかりTV](https://ja.wikipedia.org/wiki/ひかりTV "wikilink")、[eo光テレビ](https://ja.wikipedia.org/wiki/eo光テレビ "wikilink")にてハイビジョン放送を開始\[9\]。スカパー\!e2にて[画角比](../Page/画角情報_\(テレビ放送\).md "wikilink")16:9の付与を開始。
   - [2011年](../Page/2011年.md "wikilink")
       - 毎月1組のアーティストを特集する「[M-ON\! MONTHLY ICON](https://ja.wikipedia.org/wiki/M-ON!_MONTHLY_ICON "wikilink")」を開始。
   - [2012年](../Page/2012年.md "wikilink")
@@ -57,8 +61,8 @@ CMでの「毎日がエムオン！ライブ！」の名の通り必ず放送が
 <!-- end list -->
 
   - 2012年
-      - 4月1日、株式会社[ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")と会社統合し、株式会社[エムオン・エンタテインメント](https://ja.wikipedia.org/wiki/エムオン・エンタテインメント "wikilink")に社名変更。同時にチャンネル名をスカパー\!・スカパー\!e2は「**MUSIC ON\! TV（エムオン\!）**」\[7\]、スカパー\!HDは「**MUSIC ON\! TV（エムオン\!）HD**」にそれぞれ変更し、ウォーターマークを「We believe in Music」\[8\]からM-ON\!ボックスに変更。
-      - [9月1日](../Page/9月1日.md "wikilink")、スカパー\!e2の物理チャンネル変更（ND22→ND12）に伴い、ハイビジョン放送\[9\]ならびに[字幕放送開始](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")。同時にC-TBSへの委託から直営放送に変更。
+      - 4月1日、株式会社[ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")と会社統合し、株式会社[エムオン・エンタテインメント](https://ja.wikipedia.org/wiki/エムオン・エンタテインメント "wikilink")に社名変更。同時にチャンネル名をスカパー\!・スカパー\!e2は「**MUSIC ON\! TV（エムオン\!）**」\[10\]、スカパー\!HDは「**MUSIC ON\! TV（エムオン\!）HD**」にそれぞれ変更し、ウォーターマークを「We believe in Music」\[11\]からM-ON\!ボックスに変更。
+      - [9月1日](../Page/9月1日.md "wikilink")、スカパー\!e2の物理チャンネル変更（ND22→ND12）に伴い、ハイビジョン放送\[12\]ならびに[字幕放送開始](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")。同時にC-TBSへの委託から直営放送に変更。
   - 2015年
       - [10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、韓国ドラマの放送を開始。
   - 2016年
@@ -150,7 +154,7 @@ CMでの「毎日がエムオン！ライブ！」の名の通り必ず放送が
 
 ### トーク&インタビュー他
 
-  - **[LisAni\!NAVI](https://ja.wikipedia.org/wiki/リスアニ!#LisAni!NAVI "wikilink")**\[10\]
+  - **[LisAni\!NAVI](https://ja.wikipedia.org/wiki/リスアニ!#LisAni!NAVI "wikilink")**\[13\]
 
 <!-- end list -->
 
@@ -161,7 +165,7 @@ CMでの「毎日がエムオン！ライブ！」の名の通り必ず放送が
 
 <!-- end list -->
 
-  - **[RX-72 〜HISASHI (GLAY) VS 茂木淳一〜](https://ja.wikipedia.org/wiki/RX-72_〜HISASHI_\(GLAY\)_VS_茂木淳一〜 "wikilink")**\[11\]
+  - **[RX-72 〜HISASHI (GLAY) VS 茂木淳一〜](https://ja.wikipedia.org/wiki/RX-72_〜HISASHI_\(GLAY\)_VS_茂木淳一〜 "wikilink")**\[14\]
 
 <!-- end list -->
 
@@ -206,14 +210,14 @@ CMでの「毎日がエムオン！ライブ！」の名の通り必ず放送が
 
 ### ミュージックビデオ
 
-  - **サキドリ\!**\[12\]
+  - **サキドリ\!**\[15\]
 
 <!-- end list -->
 
   -
 
       -
-        新着ミュージックビデオ\[13\]
+        新着ミュージックビデオ\[16\]
 
 <!-- end list -->
 
@@ -224,7 +228,7 @@ CMでの「毎日がエムオン！ライブ！」の名の通り必ず放送が
   -
 
       -
-        邦楽ヒット曲\[14\]
+        邦楽ヒット曲\[17\]
 
 <!-- end list -->
 
@@ -235,7 +239,7 @@ CMでの「毎日がエムオン！ライブ！」の名の通り必ず放送が
   -
 
       -
-        邦楽ヒット曲歌詞入り\[15\]
+        邦楽ヒット曲歌詞入り\[18\]
 
 <!-- end list -->
 
@@ -246,22 +250,22 @@ CMでの「毎日がエムオン！ライブ！」の名の通り必ず放送が
   -
 
       -
-        過去の邦楽ヒット曲歌詞入り\[16\]。
+        過去の邦楽ヒット曲歌詞入り\[19\]。
 
 <!-- end list -->
 
-  - **アニオン\!ワールド**\[17\]**　**（毎週水曜 26:30 - 27:00**）**
+  - **アニオン\!ワールド**\[20\]**　**（毎週水曜 26:30 - 27:00**）**
 
 <!-- end list -->
 
   -
 
       -
-        アニメ・ゲームのテーマソング・人気声優の楽曲\[18\]
+        アニメ・ゲームのテーマソング・人気声優の楽曲\[21\]
 
 <!-- end list -->
 
-  - **ヴィジュアリズム**\[19\] <small>（毎週水曜 27:00 - 27:30）</small>
+  - **ヴィジュアリズム**\[22\] <small>（毎週水曜 27:00 - 27:30）</small>
 
 <!-- end list -->
 
@@ -272,15 +276,15 @@ CMでの「毎日がエムオン！ライブ！」の名の通り必ず放送が
 
 #### 過去のミュージックビデオ
 
-  - **あのころ ヒッツ\!**\[20\]
-  - **あのころ ドラマヒッツ！**\[21\]
+  - **あのころ ヒッツ\!**\[23\]
+  - **あのころ ドラマヒッツ！**\[24\]
 
 <!-- end list -->
 
   -
 
       -
-        過去の邦楽ヒット曲\[22\]。
+        過去の邦楽ヒット曲\[25\]。基本的に年別で番組が組まれる。
 
 <!-- end list -->
 
@@ -317,18 +321,18 @@ CMでの「毎日がエムオン！ライブ！」の名の通り必ず放送が
 
 ### ヒットチャート
 
-  - **[J-POP最強カウントダウン](https://ja.wikipedia.org/wiki/J-POP最強カウントダウン "wikilink")50**\[23\]
+  - **[J-POP最強カウントダウン](https://ja.wikipedia.org/wiki/J-POP最強カウントダウン "wikilink")50**\[26\]
 
 <!-- end list -->
 
   -
 
       -
-        邦楽シングル･アルバム\[24\]のセールスや音楽配信･カラオケなどのデータから算出したランキングTOP50\[25\]を放送。2015年7月に「M-ON！countdown」から改称された。時間短縮版として「**J-POP最強カウントダウン20**」も放送。
+        邦楽シングル･アルバム\[27\]のセールスや音楽配信･カラオケなどのデータから算出したランキングTOP50\[28\]を放送。2015年7月に「M-ON！countdown」から改称された。時間短縮版として「**J-POP最強カウントダウン20**」も放送。
 
 歌詞なし放送(字幕で歌詞を表示可能)と歌詞入り放送あり。
 
-  - **M-ON\! Countdown International 10**\[26\]
+  - **M-ON\! Countdown International 10**\[29\]
 
 <!-- end list -->
 
@@ -339,18 +343,18 @@ CMでの「毎日がエムオン！ライブ！」の名の通り必ず放送が
 
 <!-- end list -->
 
-  - **M-ON\! カラオケカウントダウン 50**\[27\]
+  - **M-ON\! カラオケカウントダウン 50**\[30\]
 
 <!-- end list -->
 
   -
 
       -
-        最新のカラオケカウントダウンTOP50。時間短縮版として「**M-ON\! カラオケカウントダウン 20**」\[28\]も放送。
+        最新のカラオケカウントダウンTOP50。時間短縮版として「**M-ON\! カラオケカウントダウン 20**」\[31\]も放送。
 
 共に歌詞入り。
 
-  - **人気歌詞カウントダウン20 by うたまっぷ**\[29\]
+  - **人気歌詞カウントダウン20 by うたまっぷ**\[32\]
 
 <!-- end list -->
 
@@ -361,7 +365,7 @@ CMでの「毎日がエムオン！ライブ！」の名の通り必ず放送が
 
 歌詞入り。
 
-  - **ダウンロードカウントダウン with iTunes 20**\[30\]
+  - **ダウンロードカウントダウン with iTunes 20**\[33\]
 
 <!-- end list -->
 
@@ -372,7 +376,7 @@ CMでの「毎日がエムオン！ライブ！」の名の通り必ず放送が
 
 歌詞なし(字幕で歌詞を表示可能。)
 
-  - **TSUTAYA レンタルCDカウントダウン 20**\[31\]
+  - **TSUTAYA レンタルCDカウントダウン 20**\[34\]
 
 <!-- end list -->
 
@@ -832,7 +836,7 @@ CMでの「毎日がエムオン！ライブ！」の名の通り必ず放送が
 
 <!-- end list -->
 
-  - **全力！アイドル**\[32\]
+  - **全力！アイドル**\[35\]
 
 <!-- end list -->
 
@@ -843,14 +847,14 @@ CMでの「毎日がエムオン！ライブ！」の名の通り必ず放送が
 
 <!-- end list -->
 
-  - **宇宙ロック研究所**\[33\]
+  - **宇宙ロック研究所**\[36\]
 
 <!-- end list -->
 
   -
 
       -
-        こだわりのテーマに沿った選曲で、多彩なロックサウンドをお届けするミュージックビデオプログラム\[34\]
+        こだわりのテーマに沿った選曲で、多彩なロックサウンドをお届けするミュージックビデオプログラム\[37\]
 
 ### パーソナリティ番組
 
@@ -1562,7 +1566,7 @@ CMでの「毎日がエムオン！ライブ！」の名の通り必ず放送が
   -
 
       -
-        アーティストをマンスリーで1組セレクト\[35\]
+        アーティストをマンスリーで1組セレクト\[38\]
 
 ## 主催イベント「GG」(George's Greenroom)
 
@@ -1605,7 +1609,7 @@ CMでの「毎日がエムオン！ライブ！」の名の通り必ず放送が
 
 ## 備考
 
-[ハイビジョン](../Page/ハイビジョン.md "wikilink")放送開始以降、従来の[画角比](../Page/画角情報_\(テレビ放送\).md "wikilink")4:3のサイズで制作されているビデオでは、[ウォーターマーク](../Page/ウォーターマーク.md "wikilink")はビデオ内に収まる位置に表示される。ウォーターマークの位置は画面右下。また、[2012年](../Page/2012年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")の旧・スカパー\!e2でのハイビジョン放送開始と同時に[字幕放送を開始](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")\[36\]。
+[ハイビジョン](../Page/ハイビジョン.md "wikilink")放送開始以降、従来の[画角比](../Page/画角情報_\(テレビ放送\).md "wikilink")4:3のサイズで制作されているビデオでは、[ウォーターマーク](../Page/ウォーターマーク.md "wikilink")はビデオ内に収まる位置に表示される。ウォーターマークの位置は画面右下。また、[2012年](../Page/2012年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")の旧・スカパー\!e2でのハイビジョン放送開始と同時に[字幕放送を開始](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")\[39\]。
 
 エムオン・エンタテインメントの本社が入居しているビルの隣のビルには[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")を運営する[スペースシャワーネットワーク](../Page/スペースシャワーネットワーク.md "wikilink")が入居している。また、かつては徒歩1分もしない場所にあるビルにも[MTVジャパン](../Page/MTVジャパン.md "wikilink")が入っていた。
 
@@ -1645,34 +1649,37 @@ CMでの「毎日がエムオン！ライブ！」の名の通り必ず放送が
 3.
 4.
 5.
-6.  チャンネル名は「MUSIC ON\! TV HD」
-7.  受像機局名表記は「エムオン\!」
-8.  2012年3月31日までのキャッチコピー
-9.  [スカパー\!e2 チャンネルに関する変更のご案内](http://www.e2sptv.jp/oshirase/pdf/120710_01.pdf)
-10. [LisAni\!NAVI | トーク・バラエティ・情報番組 | レギュラー番組 | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/program/detail/lisani-navi/)
-11. [RX-72 ～ HISASHI (GLAY) VS 茂木淳一 ～ | トーク・バラエティ・情報番組 | レギュラー番組 | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/program/detail/rx72/)
-12. [サキドリ！ | ミュージックビデオ番組 | レギュラー番組 | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/program/detail/sakidori/)
-13. K-POPを含む
-14.
-15.
-16.
+6.
+7.
+8.
+9.  チャンネル名は「MUSIC ON\! TV HD」
+10. 受像機局名表記は「エムオン\!」
+11. 2012年3月31日までのキャッチコピー
+12. [スカパー\!e2 チャンネルに関する変更のご案内](http://www.e2sptv.jp/oshirase/pdf/120710_01.pdf)
+13. [LisAni\!NAVI | トーク・バラエティ・情報番組 | レギュラー番組 | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/program/detail/lisani-navi/)
+14. [RX-72 ～ HISASHI (GLAY) VS 茂木淳一 ～ | トーク・バラエティ・情報番組 | レギュラー番組 | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/program/detail/rx72/)
+15. [サキドリ！ | ミュージックビデオ番組 | レギュラー番組 | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/program/detail/sakidori/)
+16. K-POPを含む
 17.
-18. [アニオン\! ワールド | ミュージックビデオ番組 | レギュラー番組 | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/program/detail/anionworld/)
+18.
 19.
-20. [あのころヒッツ\! | ミュージックビデオ番組 | レギュラー番組 | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/program/detail/anokoro-hits/)
-21.
+20.
+21. [アニオン\! ワールド | ミュージックビデオ番組 | レギュラー番組 | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/program/detail/anionworld/)
 22.
-23. [J-POP最強カウントダウン50|チャート|MUSIC ON\! TV(エムオン\!）](http://www.m-on.jp/chart/jpop-countdown50/)
-24. アルバムからの曲としてランクインしている時は、収録曲のうち1曲を放送
+23. [あのころヒッツ\! | ミュージックビデオ番組 | レギュラー番組 | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/program/detail/anokoro-hits/)
+24.
 25.
-26. [M-ON\! Countdown International 10|チャート|MUSIC ON\! TV(エムオン\!）](http://www.m-on.jp/chart/countdown-international10/)
-27. [M-ON\! カラオケカウントダウン 50 | チャート | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/chart/karaoke-countdown50/)
-28. [M-ON\! カラオケカウントダウン 20 | チャート | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/chart/karaoke-countdown20/)
-29. [うたまっぷカウントダウン ～人気歌詞ランキング～ | チャート | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/chart/utamap-countdown/)
-30. [ダウンロードカウントダウン with iTunes 20 | チャート | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/chart/download-countdown20/)
-31. [TSUTAYA レンタルCDカウントダウン 20 | チャート | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/chart/tsutaya-countdown20/)
-32. [全力！アイドル | ミュージックビデオ番組 | レギュラー番組 | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/program/detail/zenryokuidol/)
-33. [宇宙ロック研究所 | ミュージックビデオ番組 | レギュラー番組 | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/program/detail/uchu-rock/)
-34. 洋楽を含む
-35.
-36. プレミアムサービスを含む
+26. [J-POP最強カウントダウン50|チャート|MUSIC ON\! TV(エムオン\!）](http://www.m-on.jp/chart/jpop-countdown50/)
+27. アルバムからの曲としてランクインしている時は、収録曲のうち1曲を放送
+28.
+29. [M-ON\! Countdown International 10|チャート|MUSIC ON\! TV(エムオン\!）](http://www.m-on.jp/chart/countdown-international10/)
+30. [M-ON\! カラオケカウントダウン 50 | チャート | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/chart/karaoke-countdown50/)
+31. [M-ON\! カラオケカウントダウン 20 | チャート | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/chart/karaoke-countdown20/)
+32. [うたまっぷカウントダウン ～人気歌詞ランキング～ | チャート | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/chart/utamap-countdown/)
+33. [ダウンロードカウントダウン with iTunes 20 | チャート | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/chart/download-countdown20/)
+34. [TSUTAYA レンタルCDカウントダウン 20 | チャート | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/chart/tsutaya-countdown20/)
+35. [全力！アイドル | ミュージックビデオ番組 | レギュラー番組 | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/program/detail/zenryokuidol/)
+36. [宇宙ロック研究所 | ミュージックビデオ番組 | レギュラー番組 | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/program/detail/uchu-rock/)
+37. 洋楽を含む
+38.
+39. プレミアムサービスを含む

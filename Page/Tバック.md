@@ -58,7 +58,6 @@ Tバック水着について言えば、[ブラジル](https://ja.wikipedia.org/
   - [T-BACKS](../Page/T-BACKS.md "wikilink")
   - [着エロ](../Page/着エロ.md "wikilink")
   - [ポルノグラフィ](../Page/ポルノグラフィ.md "wikilink")
-  - [倉持由香](../Page/倉持由香.md "wikilink")
 
 [de:String (Kleidung)](https://ja.wikipedia.org/wiki/de:String_\(Kleidung\) "wikilink") [eo:Ŝnurkalsoneto](https://ja.wikipedia.org/wiki/eo:Ŝnurkalsoneto "wikilink") [fr:String (lingerie)](https://ja.wikipedia.org/wiki/fr:String_\(lingerie\) "wikilink") [he:חוטיני](https://ja.wikipedia.org/wiki/he:חוטיני "wikilink") [it:Perizoma](https://ja.wikipedia.org/wiki/it:Perizoma "wikilink") [lt:Siaurikės](https://ja.wikipedia.org/wiki/lt:Siaurikės "wikilink") [sv:Stringtrosor](https://ja.wikipedia.org/wiki/sv:Stringtrosor "wikilink")
 

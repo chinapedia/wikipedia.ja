@@ -65,7 +65,7 @@
 
   - [Yahoo\!ミュージック](http://music.yahoo.co.jp/shop/c/10/cscl1524)
 
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")
 
 1.  [allcinema 吉村夏枝](http://www.allcinema.net/prog/show_c.php?num_c=152919)
 2.  [Hatena 山本京子](http://d.hatena.ne.jp/kingallrange/)

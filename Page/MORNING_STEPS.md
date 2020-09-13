@@ -13,7 +13,7 @@
 
 2017年3月で16年間の放送の終了を発表。栗原自身は他時間帯（19:00 - 22:00の『[PRIME TIME](https://ja.wikipedia.org/wiki/PRIME_TIME "wikilink")』）への移動を発表。
 
-後番組は[光邦がDJの](../Page/宮沢光邦.md "wikilink")[ちょうどいいラジオ](https://ja.wikipedia.org/wiki/ちょうどいいラジオ "wikilink")が、2017年4月より同時間帯で放送開始。
+後番組は[光邦](../Page/光邦.md "wikilink")がDJの[ちょうどいいラジオ](https://ja.wikipedia.org/wiki/ちょうどいいラジオ "wikilink")が、2017年4月より同時間帯で放送開始。
 
 ## 放送時間
 

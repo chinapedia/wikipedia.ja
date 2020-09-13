@@ -7,7 +7,7 @@
 
 ### 番組の概要
 
-[松本明子](../Page/松本明子.md "wikilink")、[飯島直子](https://ja.wikipedia.org/wiki/飯島直子 "wikilink")、[吉村明宏](../Page/吉村明宏.md "wikilink")（途中降板）、[中山秀征](../Page/中山秀征.md "wikilink")（吉村降板後から最終回まで）たちレギュラー陣が毎回さまざまな[ロケ地を探索したり](../Page/ロケーション撮影.md "wikilink")、何かを体験したりして楽しむ様子を放送していた[深夜番組](../Page/深夜番組.md "wikilink")である。ロケは基本的にゲスト出演者を招いて行われていたが、その一方でゲストを呼ばずにレギュラー陣だけで進めることも多かった。
+[松本明子](../Page/松本明子.md "wikilink")、[飯島直子](https://ja.wikipedia.org/wiki/飯島直子 "wikilink")、[吉村明宏](../Page/吉村明宏.md "wikilink")（途中降板1992年9月まで）、[中山秀征](../Page/中山秀征.md "wikilink")（吉村降板後1992年10月から最終回まで）たちレギュラー陣が毎回さまざまな[ロケ地を探索したり](../Page/ロケーション撮影.md "wikilink")、何かを体験したりして楽しむ様子を放送していた[深夜番組](../Page/深夜番組.md "wikilink")である。ロケは基本的にゲスト出演者を招いて行われていたが、その一方でゲストを呼ばずにレギュラー陣だけで進めることも多かった。
 
 また、放送開始当初は番組後半に約15分間の[ドラマコーナーを内包していた](../Page/テレビドラマ.md "wikilink")。このコーナーには毎回様々な新人[女優たちが出演し](../Page/俳優.md "wikilink")、各々が配役をこなしていたが、これに関しては番組本編のレギュラー陣はノータッチだった。
 
@@ -257,7 +257,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a></p></td>
+<td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a></p></td>
 <td><p>木曜 1:30 - 2:30</p></td>
 <td></td>
 <td></td>

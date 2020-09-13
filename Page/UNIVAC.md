@@ -25,6 +25,7 @@ UNIVAC Iは、[1952年アメリカ合衆国大統領選挙](https://ja.wikipedia
 
 ## 開発した機種
 
+  - **[UNIVAC 60/120](https://ja.wikipedia.org/wiki/Remington_Rand_409 "wikilink")** （[1949年](../Page/1949年.md "wikilink")）: [配線盤でプログラムする](../Page/プラグボード.md "wikilink")[パンチカード式計算器](../Page/パンチカードシステム.md "wikilink")。
   - [UNIVAC I](../Page/UNIVAC_I.md "wikilink")（[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")）: 米国での最初の商用コンピュータ。主記憶装置は[水銀遅延線](https://ja.wikipedia.org/wiki/水銀遅延線 "wikilink")。回路素子は[真空管](../Page/真空管.md "wikilink")。
       - **UNIVAC II**（[1958年](../Page/1958年.md "wikilink")）: UNIVAC I の改良版。主記憶装置を[磁気コアメモリ](../Page/磁気コアメモリ.md "wikilink")に改善。一部回路が[トランジスタ](../Page/トランジスタ.md "wikilink")化されている。UNIVAC I との完全なソフトウェア/データ[互換性](../Page/互換性.md "wikilink")があったが、命令をいくつか追加している。
       - **UNIVAC III**（[1962年](../Page/1962年.md "wikilink")）: UNIVAC I および II の後継機。二進数マシンだが、十進方式の従来機種との互換性も保持していた。
@@ -32,7 +33,7 @@ UNIVAC Iは、[1952年アメリカ合衆国大統領選挙](https://ja.wikipedia
   - 初期の UNIVAC 110x [真空管](../Page/真空管.md "wikilink")コンピュータ
       - **[UNIVAC 1101](../Page/UNIVAC_1101.md "wikilink")**、または **ERA 1101**: Engineering Research Associates (ERA) の設計。24ビットマシンで、磁気ドラムメモリを使用。
       - **UNIVAC 1102**、または **ERA 1102**: ERAが[アメリカ空軍](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")のために開発。
-      - [UNIVAC 1103](../Page/UNIVAC_1103.md "wikilink")（[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")）: 1101の後継機。36ビット機。磁気ドラムメモリと[ウィリアムス管](https://ja.wikipedia.org/wiki/ウィリアムス管 "wikilink")をメモリとして使用。改良版の**1103A**（1956年）もある（磁気コアメモリを使った最初のマシンの1つ）。
+      - [UNIVAC 1103](../Page/UNIVAC_1103.md "wikilink")（[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")）: 1101の後継機。36ビット機。磁気ドラムメモリと[ウィリアムス管](../Page/ウィリアムス管.md "wikilink")をメモリとして使用。改良版の**1103A**（1956年）もある（磁気コアメモリを使った最初のマシンの1つ）。
       - **UNIVAC 1104**（[1957年](../Page/1957年.md "wikilink")）: 1103の30ビット版。[ボマークミサイルの制御システムを開発していた](../Page/ボマーク_\(ミサイル\).md "wikilink")[ウェスティングハウス・エレクトリック](../Page/ウェスティングハウス・エレクトリック.md "wikilink")向けに開発。しかし、ボマークが[1960年代](../Page/1960年代.md "wikilink")に実際に配備されたときには、もっと新しいコンピュータに置き換えられていた。
       - **UNIVAC 1105**（[1958年](../Page/1958年.md "wikilink")）: 1103Aの後継機。
   - **UNIVAC 1100/2200**シリーズ: 36ビットの[トランジスタ](../Page/トランジスタ.md "wikilink")化されたコンピュータのシリーズ。今日もユニシスで ClearPath IXとしてサポートされている。
@@ -48,7 +49,6 @@ UNIVAC Iは、[1952年アメリカ合衆国大統領選挙](https://ja.wikipedia
           - **UNIVAC 1100/70**（[1981年](../Page/1981年.md "wikilink")）
           - **UNIVAC 1100/80**（[1979年](../Page/1979年.md "wikilink")）: 1100 と 494 を統合したもの。SIU（Storage Interface Unit）と呼ばれる一種の[キャッシュメモリ](../Page/キャッシュメモリ.md "wikilink")を導入。[ミニコンピュータ](../Page/ミニコンピュータ.md "wikilink")を診断プロセッサとして搭載。電源周波数を 400Hz に上げて電源装置の小型化を図っている。
           - **UNIVAC 1100/90**（[1982年](../Page/1982年.md "wikilink")）: 水冷式
-  - **Remington Rand 409**（[1949年](../Page/1949年.md "wikilink")）: [配線盤でプログラムする](../Page/プラグボード.md "wikilink")[パンチカード式計算器](../Page/パンチカードシステム.md "wikilink")。
   - **UNIVAC 418**（[1963年-1969年](https://ja.wikipedia.org/wiki/1963年-1969年 "wikilink")）: 18ビット機。418-1、418-2、,418-3の３機種。
   - **UNIVAC 490**: 30ビットワードマシン。メモリは16K/32Kワード。
   - **UNIVAC 492**: 490の後継機。メモリを64Kワードまで拡張可能。

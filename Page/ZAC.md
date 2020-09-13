@@ -6,7 +6,7 @@
   - 『[ゾイド](../Page/ゾイド.md "wikilink")』シリーズにて使われる、惑星Ziにおける暦。ゾイド暦。
   - 『[電脳警察サイバーコップ](../Page/電脳警察サイバーコップ.md "wikilink")』に登場する特殊部隊「0課装甲警察部隊」の略称。
   - [ザク](https://ja.wikipedia.org/wiki/ザク "wikilink")
-  - [ザック](https://ja.wikipedia.org/wiki/ザック "wikilink")
+  - [ザック](../Page/ザック.md "wikilink")
   - 日本の[コンサルティング](../Page/コンサルティング.md "wikilink")会社。本項で紹介。
 
 -----

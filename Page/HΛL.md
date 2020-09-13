@@ -1,7 +1,7 @@
 > この記事は[HΛL](https://ja.wikipedia.org/wiki/HΛL)から翻訳されています。
 
 
-**HΛL**（ハル）は、日本の[音楽グループ](../Page/バンド_\(音楽\).md "wikilink")。
+**HΛL**（ハル）は、1996年から活動している日本の[音楽グループ](../Page/バンド_\(音楽\).md "wikilink")、サウンドクリエイターチームである。[梅崎俊春](https://ja.wikipedia.org/wiki/梅崎俊春 "wikilink")個人のソロ活動でもある。
 
 ## 概要
 
@@ -13,7 +13,7 @@
 
 </ref>（うめさき としはる、[1963年](../Page/1963年.md "wikilink")[1月14日](../Page/1月14日.md "wikilink") - ）
 
-\*:[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")出身、[血液型はO型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[シンセサイザー](../Page/シンセサイザー.md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[ギター](../Page/ギター.md "wikilink")担当。
+\*:[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")出身、[血液型はO型](../Page/ABO式血液型.md "wikilink")。[シンセサイザー](../Page/シンセサイザー.md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[ギター](../Page/ギター.md "wikilink")担当。
 
 \*:Sonic Generationというバンドのギタリストとしても活動している。
 
@@ -53,6 +53,7 @@
         [鳥取県](../Page/鳥取県.md "wikilink")出身、血液型はA型。
   - [中野雄太](../Page/中野雄太.md "wikilink")（なかの ゆうた）
   - [丸山真由子](https://ja.wikipedia.org/wiki/丸山真由子 "wikilink")（まるやま まゆこ）
+  - [福原善勝](https://ja.wikipedia.org/wiki/福原善勝 "wikilink")（ふくはらよしかつ）
 
 ## 経歴
 

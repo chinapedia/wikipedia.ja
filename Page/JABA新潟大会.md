@@ -13,7 +13,7 @@
 
 第12回（[1964年](../Page/1964年.md "wikilink")）、第13回（[1968年](../Page/1968年.md "wikilink")）、第48回（[2004年](../Page/2004年.md "wikilink")）の3回は天候不良などのため、最終日の2試合（準決勝・決勝）が開催できなかったケースもある。
 
-開催球場は、第1回（[1952年](../Page/1952年.md "wikilink")）から第11回（[1963年](../Page/1963年.md "wikilink")）が[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")の新潟市営白山野球場、第12回（1964年）から第53回（[2009年](../Page/2009年.md "wikilink")）が新潟市の[鳥屋野運動公園野球場](../Page/鳥屋野運動公園野球場.md "wikilink")を使用した。第45回（[2001年](../Page/2001年.md "wikilink")）は、鳥屋野の改修工事の為、[新発田市](../Page/新発田市.md "wikilink")の[新発田市五十公野公園野球場](../Page/新発田市五十公野公園野球場.md "wikilink")を使用するなど、新潟市外で開催されたケースもある。第54回（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）からは、[新潟県立野球場](../Page/新潟県立野球場.md "wikilink")（HARD OFF ECOスタジアム新潟）に会場が変更された。
+開催球場は、第1回（[1952年](../Page/1952年.md "wikilink")）から第11回（[1963年](../Page/1963年.md "wikilink")）が[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")の新潟市営白山野球場、第12回（1964年）から第53回（[2009年](../Page/2009年.md "wikilink")）が新潟市の[鳥屋野運動公園野球場](../Page/鳥屋野運動公園野球場.md "wikilink")を使用した。第32回、第34回は[柏崎市佐藤池野球場](../Page/柏崎市佐藤池野球場.md "wikilink")、第45回（[2001年](../Page/2001年.md "wikilink")）は、鳥屋野の改修工事の為、[新発田市](../Page/新発田市.md "wikilink")の[新発田市五十公野公園野球場](../Page/新発田市五十公野公園野球場.md "wikilink")を使用するなど、新潟市外で開催されたケースもある。第54回（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）からは、[新潟県立野球場](../Page/新潟県立野球場.md "wikilink")（HARD OFF ECOスタジアム新潟）に会場が変更された。
 
 2010年に、[日本プロ野球](../Page/日本プロ野球.md "wikilink")・[イースタン・リーグ](../Page/イースタン・リーグ.md "wikilink")7球団の[育成選手を主体に編成された連合チーム](../Page/育成選手制度_\(日本プロ野球\).md "wikilink")「[シリウス](https://ja.wikipedia.org/wiki/シリウス_\(野球チーム\) "wikilink")」が社会人野球の公式戦に初めて参戦し、準優勝に終わった。
 
@@ -36,58 +36,58 @@
 <tbody>
 <tr class="odd">
 <td><p>1952年（第1回）</p></td>
-<td></td>
+<td><p>8</p></td>
 <td><p><strong>福島日東紡</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>7</strong> - 2</p></td>
+<td><p><a href="../Page/新潟コンマーシャル倶楽部.md" title="wikilink">新潟コンマーシャル倶楽部</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1953年（第2回）</p></td>
-<td></td>
+<td><p>8</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/熊谷組野球部" title="wikilink">熊谷組</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>7</strong> - 1</p></td>
+<td><p>新潟クラブ</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1954年（第3回）</p></td>
-<td></td>
+<td><p>8</p></td>
 <td><p><strong>東洋レーヨン</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>2</strong> - 1</p></td>
+<td><p>新潟コンマーシャル倶楽部</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1955年（第4回）</p></td>
-<td></td>
+<td><p>8</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/大昭和製紙硬式野球部" title="wikilink">大昭和製紙</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>3</strong> - 0</p></td>
+<td><p><a href="../Page/東日本旅客鉄道新潟支社.md" title="wikilink">新潟鉄道管理局</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1956年（第5回）</p></td>
-<td></td>
+<td><p>8</p></td>
 <td><p><strong><a href="../Page/JX-ENEOS野球部.md" title="wikilink">日本石油</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>8</strong> - 1</p></td>
+<td><p>新潟交通</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1957年（第6回）</p></td>
-<td></td>
+<td><p>8</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/新潟交通硬式野球部" title="wikilink">新潟交通</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>1</strong> - 0</p></td>
+<td><p>大昭和製紙</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1958年（第7回）</p></td>
-<td></td>
+<td><p>8</p></td>
 <td><p><strong>大和証券</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>5</strong> - 1</p></td>
+<td><p>新潟交通</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -100,39 +100,39 @@
 </tr>
 <tr class="odd">
 <td><p>1960年（第8回）</p></td>
-<td></td>
+<td><p>8</p></td>
 <td><p><strong>新潟交通</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>5</strong> - 4</p></td>
+<td><p>熊谷組</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1961年（第9回）</p></td>
-<td></td>
+<td><p>8</p></td>
 <td><p><strong>大昭和製紙</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>4</strong> - 1</p></td>
+<td><p>新潟交通</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1962年（第10回）</p></td>
-<td></td>
+<td><p>8</p></td>
 <td><p><strong>日本ビール</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>2</strong> - 1</p></td>
+<td><p>新潟交通</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1963年（第11回）</p></td>
-<td></td>
+<td><p>9</p></td>
 <td><p><strong><a href="../Page/東芝硬式野球部.md" title="wikilink">東芝</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>5</strong> - 4</p></td>
+<td><p>河合楽器</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1964年（第12回）</p></td>
-<td></td>
+<td><p>9</p></td>
 <td><p>大会中止</p></td>
 <td><p>雨のため準決勝・決勝が行なわれなかった。</p></td>
 <td></td>
@@ -164,7 +164,7 @@
 </tr>
 <tr class="odd">
 <td><p>1968年（第13回）</p></td>
-<td></td>
+<td><p>8</p></td>
 <td><p>大会中止</p></td>
 <td><p>雨のため準決勝・決勝が行なわれなかった。</p></td>
 <td></td>
@@ -183,7 +183,7 @@
 <td></td>
 <td><p><strong>電気化学</strong></p></td>
 <td><p>-</p></td>
-<td></td>
+<td><p>日本軽金属</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -191,7 +191,7 @@
 <td></td>
 <td><p><strong>電気化学</strong></p></td>
 <td><p>-</p></td>
-<td></td>
+<td><p>日本軽金属</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -199,7 +199,7 @@
 <td></td>
 <td><p><strong>日本軽金属</strong></p></td>
 <td><p>-</p></td>
-<td></td>
+<td><p>日拓観光</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -207,23 +207,23 @@
 <td></td>
 <td><p><strong>大昭和製紙</strong></p></td>
 <td><p>-</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/NTT関東硬式野球部" title="wikilink">電電関東</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1974年（第18回）</p></td>
 <td></td>
-<td><p><strong><a href="../Page/JR東日本硬式野球部.md" title="wikilink">国鉄東京</a></strong></p></td>
+<td><p><strong><a href="../Page/JR東日本硬式野球部.md" title="wikilink">東京鉄道管理局</a></strong></p></td>
 <td><p>-</p></td>
-<td></td>
+<td><p><a href="../Page/日本通運硬式野球部.md" title="wikilink">日本通運</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1975年（第19回）</p></td>
 <td></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/秋田鉄道管理局" title="wikilink">国鉄秋田</a></strong></p></td>
+<td><p><strong><a href="../Page/東日本旅客鉄道秋田支社.md" title="wikilink">秋田鉄道管理局</a></strong></p></td>
 <td><p>-</p></td>
-<td></td>
+<td><p>朝日生命</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -231,7 +231,7 @@
 <td></td>
 <td><p><strong>西川物産</strong></p></td>
 <td><p>-</p></td>
-<td></td>
+<td><p>電電信越</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -239,7 +239,7 @@
 <td></td>
 <td><p><strong>大昭和製紙</strong></p></td>
 <td><p>-</p></td>
-<td></td>
+<td><p>河合楽器</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -247,199 +247,199 @@
 <td></td>
 <td><p><strong>大昭和製紙</strong></p></td>
 <td><p>-</p></td>
-<td></td>
+<td><p><a href="../Page/SUBARU硬式野球部.md" title="wikilink">富士重工業</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1979年（第23回）</p></td>
-<td></td>
+<td><p>12</p></td>
 <td><p><strong><a href="../Page/信越硬式野球クラブ.md" title="wikilink">電電信越</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>6</strong> - 0</p></td>
+<td><p>清工建設</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1980年（第24回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong>電電信越</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>3</strong> - 2</p></td>
+<td><p>電電北陸</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1981年（第25回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong>大昭和製紙</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>2</strong> - 0</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/秋田あけぼの銀行硬式野球部" title="wikilink">秋田相互銀行</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1982年（第26回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/NTT北陸" title="wikilink">電電北陸</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>7</strong> - 1</p></td>
+<td><p>新潟鉄道管理局</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1983年（第27回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ヤマハ発動機野球部" title="wikilink">ヤマハ発動機</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>5</strong> - 4</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/かずさマジック" title="wikilink">新日本製鐵君津</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1984年（第28回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong>電電信越</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>8</strong> - 6</p></td>
+<td><p>日本楽器</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1985年（第29回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong>東芝</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>9</strong> - 8</p></td>
+<td><p>NTT信越</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1986年（第30回）</p></td>
-<td></td>
+<td><p>16</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/朝日生命硬式野球部" title="wikilink">朝日生命</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>7</strong> - 6</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ヨークベニマル硬式野球部" title="wikilink">ヨークベニマル</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1987年（第31回）</p></td>
-<td></td>
+<td><p>12</p></td>
 <td><p><strong><a href="../Page/西濃運輸硬式野球部.md" title="wikilink">西濃運輸</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>5</strong> - 1</p></td>
+<td><p>ヨークベニマル</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1988年（第32回）</p></td>
-<td></td>
+<td><p>12</p></td>
 <td><p><strong><a href="../Page/ヤマハ硬式野球部.md" title="wikilink">ヤマハ</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>4</strong> - 1</p></td>
+<td><p>NTT信越</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1989年（第33回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong>ヤマハ</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>6</strong> - 2</p></td>
+<td><p>大昭和製紙</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1990年（第34回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong>ヤマハ</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>4</strong> - 1</p></td>
+<td><p>大昭和製紙</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1991年（第35回）</p></td>
-<td></td>
+<td><p>12</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/河合楽器硬式野球部" title="wikilink">河合楽器</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>7</strong> - 2</p></td>
+<td><p>朝日生命</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1992年（第36回）</p></td>
-<td></td>
+<td><p>14</p></td>
 <td><p><strong><a href="../Page/信越硬式野球クラブ.md" title="wikilink">NTT信越</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>15</strong> - 8</p></td>
+<td><p>東海理化</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1993年（第37回）</p></td>
-<td></td>
+<td><p>14</p></td>
 <td><p><strong>NTT信越</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>10</strong> - 2</p></td>
+<td><p>NTT東海</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1994年（第38回）</p></td>
-<td></td>
+<td><p>14</p></td>
 <td><p><strong>ヤマハ</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>5</strong> - 4</p></td>
+<td><p>NTT関東</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1995年（第39回）</p></td>
-<td></td>
+<td><p>14</p></td>
 <td><p><strong>西濃運輸</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>11</strong> - 1</p></td>
+<td><p>NTT信越</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1996年（第40回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong><a href="../Page/鷺宮製作所硬式野球部.md" title="wikilink">鷺宮製作所</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>7</strong> - 6</p></td>
+<td><p>NTT信越</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1997年（第41回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong><a href="../Page/王子硬式野球部.md" title="wikilink">王子製紙春日井</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>16</strong> - 7</p></td>
+<td><p>東海理化</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1998年（第42回）</p></td>
-<td></td>
+<td><p>13</p></td>
 <td><p><strong><a href="../Page/シダックス野球部.md" title="wikilink">シダックス</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>13</strong> - 2</p></td>
+<td><p>西濃運輸</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1999年（第43回）</p></td>
-<td></td>
+<td><p>12</p></td>
 <td><p><strong>西濃運輸</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>8</strong> - 7</p></td>
+<td><p><a href="../Page/バイタルネット硬式野球部.md" title="wikilink">ニチエー</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2000年（第44回）</p></td>
-<td></td>
+<td><p>12</p></td>
 <td><p><strong>河合楽器</strong></p></td>
 <td><p>-</p></td>
-<td></td>
+<td><p>西濃運輸</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2001年（第45回）</p></td>
-<td></td>
+<td><p>10</p></td>
 <td><p><strong><a href="../Page/バイタルネット硬式野球部.md" title="wikilink">バイタルネット</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>13</strong> - 12</p></td>
+<td><p>NTT信越硬式野球クラブ</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2002年（第46回）</p></td>
-<td></td>
+<td><p>12</p></td>
 <td><p><strong>バイタルネット</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>2</strong> - 1</p></td>
+<td><p>西濃運輸</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -509,7 +509,8 @@
 <tr class="even">
 <td><p>2011年</p></td>
 <td><p>開催見送り</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東北地方太平洋沖地震" title="wikilink">東北地方太平洋沖地震</a>（<a href="https://ja.wikipedia.org/wiki/東日本大震災" title="wikilink">東日本大震災</a>）の影響のため[1]。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東北地方太平洋沖地震" title="wikilink">東北地方太平洋沖地震</a>（<a href="https://ja.wikipedia.org/wiki/東日本大震災" title="wikilink">東日本大震災</a>）の<br />
+影響のため[1]。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -578,13 +579,21 @@
 <td><p>きらやか銀行</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2020年（第63回）</p></td>
+<td><p>9</p></td>
+<td><p>大会中止</p></td>
+<td><p><a href="../Page/新型コロナウイルス.md" title="wikilink">新型コロナウイルス</a>感染拡大防止のため[2]。</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
 ## NPBチームの戦績
 
   - 2010年
-      - [シリウス](https://ja.wikipedia.org/wiki/シリウス_\(野球チーム\) "wikilink")\[2\] - 準優勝
+      - [シリウス](https://ja.wikipedia.org/wiki/シリウス_\(野球チーム\) "wikilink")\[3\] - 準優勝
   - 2012年
       - [読売ジャイアンツ（ファーム）](https://ja.wikipedia.org/wiki/読売ジャイアンツ_\(ファーム\) "wikilink") - 予選リーグ敗退
   - 2017年
@@ -601,4 +610,5 @@
 [Category:日本の社会人野球大会](https://ja.wikipedia.org/wiki/Category:日本の社会人野球大会 "wikilink") [Category:北信越地方の社会人野球](https://ja.wikipedia.org/wiki/Category:北信越地方の社会人野球 "wikilink") [Category:新潟市のスポーツ](https://ja.wikipedia.org/wiki/Category:新潟市のスポーツ "wikilink") [Category:1952年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1952年開始のスポーツイベント "wikilink")
 
 1.  [信越硬式野球クラブ](../Page/信越硬式野球クラブ.md "wikilink")、[東海理化](../Page/東海理化硬式野球部.md "wikilink")、[バイタルネット](../Page/バイタルネット硬式野球部.md "wikilink")、[読売ジャイアンツファームの](https://ja.wikipedia.org/wiki/読売ジャイアンツ_\(ファーム\) "wikilink")4チームが参加して総当たりリーグ戦がチャリティ大会として開催され、東海理化が優勝した。
-2.  [日本プロ野球](../Page/日本プロ野球.md "wikilink")・[イースタン・リーグ](../Page/イースタン・リーグ.md "wikilink")7球団の[育成選手を主体に編成した連合チーム](../Page/育成選手制度_\(日本プロ野球\).md "wikilink")。
+2.
+3.  [日本プロ野球](../Page/日本プロ野球.md "wikilink")・[イースタン・リーグ](../Page/イースタン・リーグ.md "wikilink")7球団の[育成選手を主体に編成した連合チーム](../Page/育成選手制度_\(日本プロ野球\).md "wikilink")。

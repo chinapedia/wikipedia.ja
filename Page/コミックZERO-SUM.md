@@ -18,25 +18,40 @@
 
 ## 主な現在連載中の作品
 
+  - [エンド・オブ・バロル](https://ja.wikipedia.org/wiki/エンド・オブ・バロル "wikilink")（[空倉シキジ](https://ja.wikipedia.org/wiki/空倉シキジ "wikilink")）
   - [乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…](https://ja.wikipedia.org/wiki/乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… "wikilink")（[ひだかなみ](../Page/ひだかなみ.md "wikilink")、原作：[山口悟](https://ja.wikipedia.org/wiki/山口悟_\(小説家\) "wikilink")）
   - [カーニヴァル](https://ja.wikipedia.org/wiki/カーニヴァル_\(漫画\) "wikilink")（[御巫桃也](https://ja.wikipedia.org/wiki/御巫桃也 "wikilink")）
+  - [神クズ☆アイドル](https://ja.wikipedia.org/wiki/神クズ☆アイドル "wikilink")（[いそふらぼん肘樹](https://ja.wikipedia.org/wiki/いそふらぼん肘樹 "wikilink")）
+  - [ガラクタ・ファミリア](https://ja.wikipedia.org/wiki/ガラクタ・ファミリア "wikilink")（[小牧街](https://ja.wikipedia.org/wiki/小牧街 "wikilink")）
   - [彼に依頼にしてはいけません](https://ja.wikipedia.org/wiki/彼に依頼にしてはいけません "wikilink")（[雪広うたこ](https://ja.wikipedia.org/wiki/雪広うたこ "wikilink")）
-  - [騎士団長 島耕作](https://ja.wikipedia.org/wiki/島耕作 "wikilink")（[宮本福助](../Page/宮本福助.md "wikilink")、原案：[弘兼憲史](../Page/弘兼憲史.md "wikilink")、協力：[別府マコト](https://ja.wikipedia.org/wiki/別府マコト "wikilink")）
+  - [騎士団長 島耕作](https://ja.wikipedia.org/wiki/課長島耕作#騎士団長_島耕作 "wikilink")（[宮本福助](../Page/宮本福助.md "wikilink")、原案：[弘兼憲史](../Page/弘兼憲史.md "wikilink")、協力：[別府マコト](https://ja.wikipedia.org/wiki/別府マコト "wikilink")）
   - [コーセルテルの竜術士〜子竜物語〜](../Page/コーセルテルの竜術士物語.md "wikilink")（[石動あゆま](../Page/石動あゆま.md "wikilink")）
-  - [災禍の神は願わない](https://ja.wikipedia.org/wiki/災禍の神は願わない "wikilink")（[尾羊英](https://ja.wikipedia.org/wiki/尾羊英 "wikilink")）
   - [最遊記RELOAD BLAST](https://ja.wikipedia.org/wiki/最遊記シリーズ "wikilink")（[峰倉かずや](../Page/峰倉かずや.md "wikilink")）
   - [少年進化論](../Page/少年進化論.md "wikilink")†（[くさなぎ俊祈](../Page/くさなぎ俊祈.md "wikilink")）
   - [先生もネット世代](https://ja.wikipedia.org/wiki/先生もネット世代 "wikilink")（[那多ここね](https://ja.wikipedia.org/wiki/那多ここね "wikilink")）
-  - [転生したら悪い国の娘でした。](https://ja.wikipedia.org/wiki/転生したら悪い国の娘でした。 "wikilink")（[月煮ゆう](https://ja.wikipedia.org/wiki/月煮ゆう "wikilink")）
+  - [転生！太宰治 転生して、すみません](../Page/太宰治.md "wikilink")（漫画：[須賀今日助](https://ja.wikipedia.org/wiki/須賀今日助 "wikilink")、原作：[佐藤友哉](../Page/佐藤友哉.md "wikilink")）
   - [破天荒遊戯](../Page/破天荒遊戯.md "wikilink")（[遠藤海成](../Page/遠藤海成.md "wikilink")）
   - [Fate/Grand Order -mortalis:stella-](https://ja.wikipedia.org/wiki/Fate/Grand_Order "wikilink")（[白峰](https://ja.wikipedia.org/wiki/白峰 "wikilink")、原作：[TYPE-MOON](../Page/TYPE-MOON.md "wikilink")）
+  - [舞台に咲け！](https://ja.wikipedia.org/wiki/舞台に咲け！ "wikilink")（[春園ショウ](https://ja.wikipedia.org/wiki/春園ショウ "wikilink")）
+  - [花燭の白](https://ja.wikipedia.org/wiki/花燭の白 "wikilink")（[高山しのぶ](https://ja.wikipedia.org/wiki/高山しのぶ "wikilink")）
   - [宝石商リチャード氏の謎鑑定](https://ja.wikipedia.org/wiki/宝石商リチャード氏の謎鑑定 "wikilink")（[あかつき三日](https://ja.wikipedia.org/wiki/あかつき三日 "wikilink")、原作：[辻村七子](https://ja.wikipedia.org/wiki/辻村七子 "wikilink")）
   - [ボクラノキセキ](https://ja.wikipedia.org/wiki/ボクラノキセキ "wikilink")（[久米田夏緒](https://ja.wikipedia.org/wiki/久米田夏緒 "wikilink")）
+  - [魔法使いの約束](../Page/魔法使いの約束.md "wikilink")（[シノノメウタ](https://ja.wikipedia.org/wiki/シノノメウタ "wikilink")、原作・シナリオ：[都志見文太](https://ja.wikipedia.org/wiki/都志見文太 "wikilink")/[coly](https://ja.wikipedia.org/wiki/coly "wikilink")、キャラクターデザイン原案：[ダンミル](https://ja.wikipedia.org/wiki/ダンミル "wikilink")）
   - [マリエル・クララックの婚約](https://ja.wikipedia.org/wiki/マリエル・クララックの婚約 "wikilink")（[アラスカぱん](https://ja.wikipedia.org/wiki/アラスカぱん "wikilink")、原作：[桃春花](https://ja.wikipedia.org/wiki/桃春花 "wikilink")、キャラクラー原案：[まろ](https://ja.wikipedia.org/wiki/まろ_\(イラストレーター\) "wikilink")）
   - [虫かぶり姫](https://ja.wikipedia.org/wiki/虫かぶり姫 "wikilink")（[喜久田ゆい](../Page/喜久田ゆい.md "wikilink")、原作：[由唯](https://ja.wikipedia.org/wiki/由唯 "wikilink")、キャラクター原案：[椎名咲月](https://ja.wikipedia.org/wiki/椎名咲月 "wikilink")）
+  - [勇者の嫁になりたくて(￣∇￣)ゞ](https://ja.wikipedia.org/wiki/勇者の嫁になりたくて\(￣∇￣\)ゞ "wikilink")（キャラクター原案・コミック：[山朋洸](https://ja.wikipedia.org/wiki/山朋洸 "wikilink")、原作：[鐘森千花伊](https://ja.wikipedia.org/wiki/鐘森千花伊 "wikilink")）
   - [LOVELESS](../Page/LOVELESS_\(高河ゆんの漫画\).md "wikilink")（[高河ゆん](../Page/高河ゆん.md "wikilink")）
   - [Landreaall](../Page/Landreaall.md "wikilink")（[おがきちか](../Page/おがきちか.md "wikilink")）
   - [竜騎士のお気に入り](https://ja.wikipedia.org/wiki/竜騎士のお気に入り "wikilink")（[蒼崎律](https://ja.wikipedia.org/wiki/蒼崎律 "wikilink")、原作：[織川あさぎ](https://ja.wikipedia.org/wiki/織川あさぎ "wikilink")、キャラクター原案：[伊藤明十](https://ja.wikipedia.org/wiki/伊藤明十 "wikilink")）
+
+<!-- end list -->
+
+  - 連載予定
+
+<!-- end list -->
+
+  - [A3\! WINTER](https://ja.wikipedia.org/wiki/A3! "wikilink")（[ムネヤマヨシ](https://ja.wikipedia.org/wiki/ムネヤマヨシ "wikilink")、原作：[リベル・エンタテイメント](https://ja.wikipedia.org/wiki/リベル・エンタテイメント "wikilink")、キャラクター原案：[冨士原良](https://ja.wikipedia.org/wiki/冨士原良 "wikilink")）
+  - [GETUP\! GETLIVE\!](../Page/GETUP!_GETLIVE!.md "wikilink")（[うごんば](https://ja.wikipedia.org/wiki/うごんば "wikilink")、ストーリー：[渡航](https://ja.wikipedia.org/wiki/渡航 "wikilink")、キャラクター原案：[由良](https://ja.wikipedia.org/wiki/由良_\(イラストレーター\) "wikilink")）
 
 ## 過去の掲載作
 
@@ -62,6 +77,7 @@
   - [ASB-封魔九星伝-](https://ja.wikipedia.org/wiki/ASB-封魔九星伝- "wikilink")（[小杉繭](https://ja.wikipedia.org/wiki/小杉繭 "wikilink")）
   - [A3\! SPRING](https://ja.wikipedia.org/wiki/A3! "wikilink")（[ムネヤマヨシ](https://ja.wikipedia.org/wiki/ムネヤマヨシ "wikilink")、原作：[リベル・エンタテイメント](https://ja.wikipedia.org/wiki/リベル・エンタテイメント "wikilink")、キャラクター原案：[冨士原良](https://ja.wikipedia.org/wiki/冨士原良 "wikilink")）
   - [A3\! SUMMER](https://ja.wikipedia.org/wiki/A3! "wikilink")（[ムネヤマヨシ](https://ja.wikipedia.org/wiki/ムネヤマヨシ "wikilink")、原作：[リベル・エンタテイメント](https://ja.wikipedia.org/wiki/リベル・エンタテイメント "wikilink")、キャラクター原案：[冨士原良](https://ja.wikipedia.org/wiki/冨士原良 "wikilink")）
+  - [A3\! AUTUMN](https://ja.wikipedia.org/wiki/A3! "wikilink")（[ムネヤマヨシ](https://ja.wikipedia.org/wiki/ムネヤマヨシ "wikilink")、原作：[リベル・エンタテイメント](https://ja.wikipedia.org/wiki/リベル・エンタテイメント "wikilink")、キャラクター原案：[冨士原良](https://ja.wikipedia.org/wiki/冨士原良 "wikilink")）
   - [拝み屋横丁顛末記](../Page/拝み屋横丁顛末記.md "wikilink")（[宮本福助](../Page/宮本福助.md "wikilink")）
 
 ### か行
@@ -72,7 +88,6 @@
   - [楽屋裏](../Page/楽屋裏.md "wikilink")-貧乏暇なし編-（[魔神ぐり子](https://ja.wikipedia.org/wiki/魔神ぐり子 "wikilink")）
   - [彼女の腕は掴めない](https://ja.wikipedia.org/wiki/彼女の腕は掴めない "wikilink")（[理央](https://ja.wikipedia.org/wiki/理央 "wikilink")）
   - [神檻](https://ja.wikipedia.org/wiki/神檻 "wikilink")（[鈴本純](https://ja.wikipedia.org/wiki/鈴本純 "wikilink")）
-  - [神クズ☆アイドル](https://ja.wikipedia.org/wiki/神クズ☆アイドル "wikilink")（[いそふらぼん肘樹](https://ja.wikipedia.org/wiki/いそふらぼん肘樹 "wikilink")）
   - [吉祥7](https://ja.wikipedia.org/wiki/吉祥7 "wikilink")（[天河藍](https://ja.wikipedia.org/wiki/天河藍 "wikilink")、原作：[里羅琴音](https://ja.wikipedia.org/wiki/里羅琴音 "wikilink")）
   - [共鳴せよ\!私立轟高校図書委員会](../Page/共鳴せよ!私立轟高校図書委員会.md "wikilink")（[D・キッサン](https://ja.wikipedia.org/wiki/D・キッサン "wikilink")）
   - [釘付け鎖スピシャス](https://ja.wikipedia.org/wiki/釘付け鎖スピシャス "wikilink")（[芹川豆](https://ja.wikipedia.org/wiki/芹川豆 "wikilink")）
@@ -89,6 +104,7 @@
 ### さ行
 
   - [〔zion〕](https://ja.wikipedia.org/wiki/〔zion〕 "wikilink")（[榧世シキ](https://ja.wikipedia.org/wiki/榧世シキ "wikilink")）
+  - [災禍の神は願わない](https://ja.wikipedia.org/wiki/災禍の神は願わない "wikilink")（[尾羊英](https://ja.wikipedia.org/wiki/尾羊英 "wikilink")）
   - [罪科のグリム](https://ja.wikipedia.org/wiki/罪科のグリム "wikilink")（[蒼崎律](https://ja.wikipedia.org/wiki/蒼崎律 "wikilink")）
   - [彩の神](https://ja.wikipedia.org/wiki/彩の神 "wikilink")（[上田信舟](../Page/上田信舟.md "wikilink")）
   - [執事M](https://ja.wikipedia.org/wiki/執事M "wikilink")（[佐倉牡丹](https://ja.wikipedia.org/wiki/佐倉牡丹 "wikilink")）
@@ -127,6 +143,7 @@
   - [テル・セル](https://ja.wikipedia.org/wiki/テル・セル "wikilink")（[遊行寺たま](https://ja.wikipedia.org/wiki/遊行寺たま "wikilink")）
   - [天球儀 -セフィラノーツ-](https://ja.wikipedia.org/wiki/天球儀_-セフィラノーツ- "wikilink")（[瀬之たつね](https://ja.wikipedia.org/wiki/瀬之たつね "wikilink")&[高宮あや](https://ja.wikipedia.org/wiki/高宮あや "wikilink")）
   - [天使時計　エンジェル・クロック](https://ja.wikipedia.org/wiki/天使時計_エンジェル・クロック "wikilink")（[渡辺ゆうな](https://ja.wikipedia.org/wiki/渡辺ゆうな "wikilink")、原作：[ゆうきあずさ](../Page/ゆうきあずさ.md "wikilink")）
+  - [転生したら悪い国の娘でした。](https://ja.wikipedia.org/wiki/転生したら悪い国の娘でした。 "wikilink")（[月煮ゆう](https://ja.wikipedia.org/wiki/月煮ゆう "wikilink")）
   - [天地の朱](https://ja.wikipedia.org/wiki/天地の朱 "wikilink")（[林ふみの](../Page/林ふみの.md "wikilink")）
   - [橙星](https://ja.wikipedia.org/wiki/橙星 "wikilink")（[群青](https://ja.wikipedia.org/wiki/群青_\(漫画家\) "wikilink")）
   - [DOLLS](../Page/DOLLS_\(漫画\).md "wikilink")（[naked ape](https://ja.wikipedia.org/wiki/naked_ape "wikilink")）　
@@ -165,6 +182,7 @@
 ### ま行
 
   - [魔界王子 devils and realist](https://ja.wikipedia.org/wiki/魔界王子_devils_and_realist "wikilink")（[雪広うたこ](https://ja.wikipedia.org/wiki/雪広うたこ "wikilink")、原作：[高殿円](../Page/高殿円.md "wikilink")）
+  - [禍つヴァールハイト ひとつきりの魔導書](../Page/禍つヴァールハイト.md "wikilink")（[遊行寺たま](https://ja.wikipedia.org/wiki/遊行寺たま "wikilink")、原案協力：[KLabGames](https://ja.wikipedia.org/wiki/KLabGames "wikilink")）
   - [マクロスΔ](https://ja.wikipedia.org/wiki/マクロスΔ "wikilink")　黒き翼の白騎士（[藤小豆](https://ja.wikipedia.org/wiki/藤小豆 "wikilink")、ストーリー原案：｢マクロスΔ｣より、監修：[河森正治](../Page/河森正治.md "wikilink")）
   - [Magical×Miracle](../Page/Magical×Miracle.md "wikilink")（[水谷悠珠](../Page/水谷悠珠.md "wikilink")）
   - [MAGiMAGi](https://ja.wikipedia.org/wiki/MAGiMAGi "wikilink")（[鈴木次郎](../Page/鈴木次郎.md "wikilink")）

@@ -20,20 +20,20 @@
   - [ココリコ](../Page/ココリコ.md "wikilink")（『[ココリコの@llnightnippon.com](https://ja.wikipedia.org/wiki/ココリコの@llnightnippon.com "wikilink")\[2\]』。毎週月曜、1999年3月29日 - 2001年3月、2年）
   - [U-turn](../Page/U-turn.md "wikilink")（『[U-turnの@llnightnippon.com ミュージックキング](https://ja.wikipedia.org/wiki/U-turnの@llnightnippon.com_ミュージックキング "wikilink")\[3\]』。毎週土曜\[4\]、1999年3月30日 - 2000年3月、1年）
   - [井手功二](https://ja.wikipedia.org/wiki/井手功二 "wikilink")（『[@llnightnippon.com 井手功二のゲリラ on ナイト](https://ja.wikipedia.org/wiki/@llnightnippon.com_井手功二のゲリラ_on_ナイト "wikilink")』。毎週水曜、1999年3月31日 - 9月、半年）
-  - [荘口彰久](../Page/荘口彰久.md "wikilink")（『[@llnightnippon.com 荘口彰久のネクストブレイクファクトリー](https://ja.wikipedia.org/wiki/@llnightnippon.com_荘口彰久のネクストブレイクファクトリー "wikilink")』。毎週木曜、1999年4月1日 - 9月、半年、『[@llnightnippon.com たまそう音楽堂](../Page/たまそう音楽堂.md "wikilink")\[5\]』。毎週土曜、2000年10月 - 2001年9月、1年）
+  - [荘口彰久](../Page/荘口彰久.md "wikilink")（『[@llnightnippon.com 荘口彰久のネクストブレイクファクトリー](https://ja.wikipedia.org/wiki/@llnightnippon.com_荘口彰久のネクストブレイクファクトリー "wikilink")』。毎週木曜、1999年4月1日 - 9月、半年、『[@llnightnippon.com たまそう音楽堂](../Page/たまそう音楽堂.md "wikilink")\[5\]』。毎週土曜、2000年10月 - 2001年10月、1年1ヶ月）
   - [SILVA](https://ja.wikipedia.org/wiki/SILVA "wikilink")（『[@llnightnippon.com SILVAのLOVE\&SEX](https://ja.wikipedia.org/wiki/@llnightnippon.com_SILVAのLOVE&SEX "wikilink")』。毎週金曜、1999年4月2日 - 9月、半年）
   - [LFクールK](../Page/垣花正.md "wikilink")（『[クールKのウルトラカウントダウン](https://ja.wikipedia.org/wiki/クールKのウルトラカウントダウン "wikilink")』。毎週土曜、1999年4月3日 - 9月、半年）
   - [加藤晴彦](../Page/加藤晴彦.md "wikilink")（『[加藤晴彦の@llnightnippon.com](https://ja.wikipedia.org/wiki/加藤晴彦の@llnightnippon.com "wikilink")』。毎週火曜、1999年10月 - 2001年9月、2年）
   - [ナインティナイン](https://ja.wikipedia.org/wiki/ナインティナイン "wikilink")（『[ナインティナインの@llnightnippon.com](../Page/ナインティナインのオールナイトニッポン.md "wikilink")』。1999年9月 - 2003年3月、3年半）\[6\]
   - [竹村あきら](https://ja.wikipedia.org/wiki/竹村あきら "wikilink") ([SNAIL RAMP](../Page/SNAIL_RAMP.md "wikilink")) （『[SNAIL RAMP 竹村あきらの@llnightnippon.com](https://ja.wikipedia.org/wiki/SNAIL_RAMP_竹村あきらの@llnightnippon.com "wikilink")』。毎週金曜、1999年10月 - 2001年6月、1年9ヶ月）
   - [aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")（『[aikoの@llnightnippon.com](https://ja.wikipedia.org/wiki/aikoの@llnightnippon.com "wikilink")』。[1999年](../Page/1999年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink") - [2003年](../Page/2003年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")、3年5ヶ月）
-  - [玉川美沙](../Page/玉川美沙.md "wikilink")（『[@llnightnippon.com 玉川音楽堂](https://ja.wikipedia.org/wiki/玉川音楽堂 "wikilink")』『@llnightnippon.com たまそう音楽堂』。毎週土曜、2000年4月 - 2001年9月、1年半）
+  - [玉川美沙](../Page/玉川美沙.md "wikilink")（『[@llnightnippon.com 玉川音楽堂](https://ja.wikipedia.org/wiki/玉川音楽堂 "wikilink")』『@llnightnippon.com たまそう音楽堂』。毎週土曜、2000年4月 - 2001年10月、1年1ヶ月）
   - [RIZE](../Page/RIZE.md "wikilink")（『[RIZEの@llnightnippon.com](https://ja.wikipedia.org/wiki/RIZEの@llnightnippon.com "wikilink")』。毎週月曜、2001年4月 - 9月、半年）
   - [藤井隆](../Page/藤井隆.md "wikilink")（『[藤井隆の@llnightnippon.com サタデーカウントダウン](../Page/藤井隆のオールナイトニッポン.md "wikilink")\[7\]』。毎週土曜\[8\]、2001年10月 - 2002年9月、1年）\[9\]
   - [ガレッジセール](../Page/ガレッジセール.md "wikilink")（『[ガレッジセールの@llnightnippon.com](https://ja.wikipedia.org/wiki/ガレッジセールの@llnightnippon.com "wikilink")』。毎週月曜、2001年10月 - 2002年3月、26:00 - 27:00、半年）\[10\]
   - [コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")（『[コブクロの@llnightnippon.com](https://ja.wikipedia.org/wiki/コブクロの@llnightnippon.com "wikilink")』。毎週火曜、2001年10月 - 2002年3月、半年）
   - [ビビる](../Page/ビビる.md "wikilink")（『[ビビるの@llnightnippon.com](https://ja.wikipedia.org/wiki/ビビるの@llnightnippon.com "wikilink")』。毎週金曜、2001年10月 - 2002年4月、7ヶ月）\[11\]
-  - [河村隆一](../Page/河村隆一.md "wikilink")（『[河村隆一の@llnightnippon.com MUSIC JAM](https://ja.wikipedia.org/wiki/河村隆一の@llnightnippon.com_MUSIC_JAM "wikilink")』。アシスタント[増田みのり](../Page/増田みのり.md "wikilink")アナ。毎週土曜、2001年10月 - 2002年3月、半年）
+  - [河村隆一](../Page/河村隆一.md "wikilink")（『[河村隆一の@llnightnippon.com MUSIC JAM](https://ja.wikipedia.org/wiki/河村隆一の@llnightnippon.com_MUSIC_JAM "wikilink")』。アシスタント[増田みのり](../Page/増田みのり.md "wikilink")アナ。毎週土曜、2001年11月 - 2002年3月、5ヶ月）
   - [押尾学](https://ja.wikipedia.org/wiki/押尾学 "wikilink") ([LIV](https://ja.wikipedia.org/wiki/LIV "wikilink")) （『[LIV 押尾学の@llnightnippon.com](https://ja.wikipedia.org/wiki/LIV_押尾学の@llnightnippon.com "wikilink")』。毎週火曜、2002年4月 - 9月、半年）
   - 大木淳（[ビビる大木](https://ja.wikipedia.org/wiki/ビビる大木 "wikilink")）（『[大木淳の@llnightnippon.com](../Page/ビビる大木のオールナイトニッポン.md "wikilink")』。毎週金曜、2002年5月 - 9月、5ヶ月）\[12\]
   - [Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink")（『[Gacktの@llnightnippon.com](https://ja.wikipedia.org/wiki/Gacktの@llnightnippon.com "wikilink")』。2002年4月 - 2003年3月、1年）
@@ -132,16 +132,25 @@
 </tr>
 <tr class="odd">
 <td><p>2001.10</p></td>
-<td><p>2002.03</p></td>
 <td><p>藤井隆</p>
 <hr/>
 <p>ガレッジセール</p></td>
 <td><p>コブクロ</p></td>
 <td><p>ビビる</p></td>
-<td><p>河村隆一</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2001.11</p></td>
+<td><p>2002.03</p></td>
+<td><p>河村隆一</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>2002.04</p></td>
 <td><p>2002.05</p></td>
 <td><p>Gackt</p></td>
@@ -150,7 +159,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2002.05</p></td>
 <td><p>2002.09</p></td>
 <td><p>ビビる大木</p></td>
@@ -159,7 +168,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2002.09</p></td>
 <td><p>2003.03</p></td>
 <td><p>土屋礼央</p></td>
@@ -186,6 +195,7 @@
   - ビビる（『ビビるの芸能界ビビりまくり』。毎週土曜、1999年10月 - 2000年9月、26:30 - 27:00、1年）
   - コブクロ（毎週月曜、2001年4月 - 9月、26:30 - 27:00、半年）
   - [ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")（『ポルノグラフィティのR-317』。毎週火曜、2000年5月 - 10月、26:30 - 27:00、5ヶ月）\[19\]
+  - [CHEMISTRY](../Page/CHEMISTRY.md "wikilink")（『CHEMISTRYのSparkling Chemical』。毎週月曜\[20\]、2001年11月 - 2003年3月、1年5ヶ月）
 
 ## 脚注
 
@@ -221,3 +231,4 @@
 17. 1999年9月までは、26:00 - 26:30
 18. 1999年9月までは、26:30 - 27:00
 19. 後に[allnightnippon SUPER\!進出](https://ja.wikipedia.org/wiki/allnightnippon_SUPER! "wikilink")、岡野は単独で[岡野昭仁のオールナイトニッポン](https://ja.wikipedia.org/wiki/岡野昭仁のオールナイトニッポン "wikilink")も担当した。
+20. 2002年3月までは、土曜26時台

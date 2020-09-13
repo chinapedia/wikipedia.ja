@@ -21,7 +21,7 @@
 
 ### 鳳南高校（ほうなんこうこう）
 
-蘭含む、物語の主要人物が通う[私立高校](../Page/私立学校.md "wikilink")。蘭・美由・綾・沙夜の4人には[生年月日](https://ja.wikipedia.org/wiki/生年月日 "wikilink")・[身長](../Page/身長.md "wikilink")・[体重](../Page/体重.md "wikilink")・[血液型の設定は無い](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+蘭含む、物語の主要人物が通う[私立高校](../Page/私立学校.md "wikilink")。蘭・美由・綾・沙夜の4人には[生年月日](https://ja.wikipedia.org/wiki/生年月日 "wikilink")・[身長](../Page/身長.md "wikilink")・[体重](../Page/体重.md "wikilink")・[血液型の設定は無い](../Page/ABO式血液型.md "wikilink")。
 
   - 寿 蘭（ことぶき らん）
     [声](../Page/声優.md "wikilink") - [豊口めぐみ](../Page/豊口めぐみ.md "wikilink")
@@ -37,7 +37,7 @@
     家事全般が得意で、特に料理が上手。唐揚げの香りだけで、朝が苦手な蘭を一発で起こすことが出来る。
   - 星野 綾（ほしの あや）
     声 - [壱智村小真](../Page/壱智村小真.md "wikilink")
-    蘭のクラスメイト。星座は山羊座。成績は学年首席で、純情な少女。本人によると家が厳しいらしく、優等生でいることのプレッシャーから自暴自棄になって[援助交際](../Page/援助交際.md "wikilink")をしていたが、そのことを蘭に叱られたことで目を覚まし改心、仲良くなった。高校卒業後は国立大学に進学する。
+    蘭のクラスメイト。星座は山羊座。成績は学年首席で、純情な少女。本人によると家が厳しいらしく、優等生でいることのプレッシャーから自暴自棄になって[援助交際](../Page/援助交際.md "wikilink")をしていたが、そのことを蘭に叱られたことで目を覚まし改心、仲良くなった。高校卒業後は国立大学（乙幡と同じ大学 ）に進学する。
   - 中西先生（なかにし せんせい）
     声 - [真夏竜](../Page/真夏竜.md "wikilink")
     蘭達の担任教師。通称：ナカセン。生徒想いだが、蘭には手を焼いている。蘭は「ナカセン係」を自称していた。蘭専用のハリセンを持ち歩いており、しょっちゅう使用せざるを得ない事柄があるため、卒業直前にはボロボロになっていた。
@@ -74,7 +74,7 @@
   - 乙幡 麗（おとはた れい）
     声 - [神谷浩史](../Page/神谷浩史.md "wikilink")
     明匠第一高校生。誕生日は[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")。身長180cm、体重59kg。血液型B型。
-    「スーパー高校生グランプリ」で優勝した[イケメン](../Page/イケメン.md "wikilink")高校生。ギャルの間では[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")的存在だが、本人はありがたく思っておらず少々迷惑な表情を見せている。根はクールで蘭や自他共に認める「顔に似合わず嫌味」な性格。また極度なまでの面倒くさがり。綾とつきあうも、お互いの性格が災いして、すれ違うことも多い。高校卒業後は難関国立大学に進学。
+    「スーパー高校生グランプリ」で優勝した[イケメン](../Page/イケメン.md "wikilink")高校生。ギャルの間では[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")的存在だが、本人はありがたく思っておらず少々迷惑な表情を見せている。根はクールで蘭や自他共に認める「顔に似合わず嫌味」な性格。また極度なまでの面倒くさがり。綾とつきあうも、お互いの性格が災いして、すれ違うことも多い。高校卒業後は難関国立大学 に進学。
   - 麻生 裕也（あそう ゆうや）
     声 - [鈴村健一](../Page/鈴村健一.md "wikilink")
     麗と同じ高校に通う高校生。誕生日は[11月27日](../Page/11月27日.md "wikilink")。身長182cm、体重61kg。血液型O型。高所恐怖症。
@@ -83,7 +83,7 @@
 ### 寿家
 
   - 寿 泰三（ことぶき たいぞう）
-    声 - [松尾銀三](../Page/松尾銀三.md "wikilink")→[立木文彦](../Page/立木文彦.md "wikilink")（松尾の急逝にともない交代）
+    声 - [松尾銀三](../Page/松尾銀三.md "wikilink")（第2-14話）→[立木文彦](../Page/立木文彦.md "wikilink")（第25-52話、松尾の急逝にともない交代）
     蘭の父で警察官。寿家が警察官の多い家系であり、また自身も警察官であるため、どうにかして蘭を警察官にしようとするが、なかなか聞き入れてもらえず頭を悩ませている。興奮しやすい性格の持ち主で、感情が高ぶると[ジャイアントスイング](../Page/ジャイアントスイング.md "wikilink")をかます危険人物でもある。大和に紹介された美由を気に入り、息子に「婚約したからには責任（絶対に幸せにするという意味）を持て」と父親らしい一面も見せた。
   - 寿 清香（ことぶき きよか）
     声 - [小林優子](../Page/小林優子.md "wikilink")
@@ -133,13 +133,9 @@
 
 ## テレビアニメ
 
-『**超GALS\! 寿蘭**』のタイトルで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列にて放送された。放送期間は[2001年](../Page/2001年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")。アニメ製作は[ぴえろ](../Page/ぴえろ.md "wikilink")。
+『**超GALS\! 寿蘭**』のタイトルで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列にて放送された。放送期間は[2001年](../Page/2001年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")。アニメ製作は[ぴえろ](../Page/ぴえろ.md "wikilink")。[字幕放送を実施](https://ja.wikipedia.org/wiki/文字多重放送#字幕放送 "wikilink")。
 
-[字幕放送を実施](https://ja.wikipedia.org/wiki/文字多重放送#字幕放送 "wikilink")。寿蘭のセリフは赤、山咲美由のセリフは青紫、星野　綾のセリフはピンク、それ以外の人物のセリフはオレンジで表示。
-
-系列外では[東北放送](../Page/東北放送.md "wikilink")、[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")（これら2局は[TBS系列](../Page/TBSテレビ.md "wikilink")）、[山形放送](../Page/山形放送.md "wikilink")、[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")、[鹿児島読売テレビ](../Page/鹿児島讀賣テレビ.md "wikilink")（これら3局は[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")）で放送された。
-
-全52話中、日本国内向けのVHSやDVDでは26話までしか収録されておらず、27話以降は発売されていない。アメリカでは「コンプリートコレクション2」として27話から52話まで全話ソフト化がなされている。[2005年](../Page/2005年.md "wikilink")秋から翌[2006年](../Page/2006年.md "wikilink")初頭に[アニマックス](../Page/アニマックス.md "wikilink")で放送された際は本放送同様全話再放送された。
+全52話中、日本国内向けのVHSやDVDでは26話までしか収録されておらず、27話以降は発売されていない。アメリカでは「コンプリートコレクション2」として27話から52話まで全話ソフト化がなされている。
 
 ### アニメ版の特徴
 
@@ -659,6 +655,10 @@
 </tbody>
 </table>
 
+### ネット局
+
+[アニマックス](../Page/アニマックス.md "wikilink")では、[2005年](../Page/2005年.md "wikilink")秋から翌[2006年](../Page/2006年.md "wikilink")初頭に本放送同様全話放送された。
+
 ## ゲーム
 
   - 超GALS\! 寿蘭（[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")） - 2001年7月26日発売 本編は早押し形式のクイズゲームや「携帯早打ちバトル」などのミニゲームを勝ち抜いてファッションアイテムをコレクションしていく内容\[11\]。
@@ -681,9 +681,9 @@
 
   - [超GALS\!寿蘭](http://www.pierrot.jp/archives/tv_list_2000/tv_053.html) - ぴえろ公式
   - [超GALS\!寿蘭](https://www.tv-tokyo.co.jp/anime/gals/) - テレビ東京公式
-  - [超GALS\!寿蘭](http://web.archive.org/web/20030315102153/http://www.konamijpn.com/products/gals/index_basic.html) - コナミ公式
-  - [超GALS\!寿蘭2](http://web.archive.org/web/20020203220817/http://www.konamijpn.com/products/gals2/index.html) - コナミ公式
-  - [超GALS\!寿蘭すぺしゃる〜イケメンゲッチューギャルズパーティー](http://web.archive.org/web/20020804033514/http://www.konamijpn.com/products/gals_sp/index.html) - コナミ公式
+  - [超GALS\!寿蘭](https://web.archive.org/web/20030315102153/http://www.konamijpn.com/products/gals/index_basic.html) - コナミ公式
+  - [超GALS\!寿蘭2](https://web.archive.org/web/20020203220817/http://www.konamijpn.com/products/gals2/index.html) - コナミ公式
+  - [超GALS\!寿蘭すぺしゃる〜イケメンゲッチューギャルズパーティー](https://web.archive.org/web/20020804033514/http://www.konamijpn.com/products/gals_sp/index.html) - コナミ公式
   - [藤井みほな先生のインタビュー（2002年2月1日）](http://ribon.shueisha.co.jp/data/intv/fujii_01.html)
   - [平成のコギャル描いた少女漫画『GALS\!』が再注目 作者がみつめた若者の“今”](https://www.oricon.co.jp/news/2134318/full/?utm_source=Twitter&utm_medium=social&ref_cd=tw_pic)
 

@@ -91,7 +91,7 @@
 
 [2012年](../Page/2012年.md "wikilink")（平成24年）には競技用車両の[電動オートバイ](https://ja.wikipedia.org/wiki/電動オートバイ "wikilink")『[神電](https://ja.wikipedia.org/wiki/無限・神電 "wikilink")』(shinden) を開発し、この年から[マン島TTレース](../Page/マン島TTレース.md "wikilink")のTT-Zero Challengeクラスに出走している。2012年・[2013年](../Page/2013年.md "wikilink")はクラス2位、[2014年](../Page/2014年.md "wikilink")・[2015年](../Page/2015年.md "wikilink")はクラス優勝した。\[1\]
 
-2014年（平成26年）から、HRD Sakura からの受託業務としてGT500 NSX のパーツサポート業務を行っている。これは、同年よりこれまで同業務を受託した童夢が業務縮小に伴い撤退した為と言われている。
+2014年（平成26年）から、HRD Sakura からの受託業務としてGT500 NSX のパーツサポート業務を行っている。これは、同年よりこれまで同業務を受託した[童夢が業務縮小に伴い撤退した為と言われている](../Page/童夢_\(自動車会社\).md "wikilink")。
 
 [2017年](../Page/2017年.md "wikilink")（平成29年）より「TEAM MUGEN」としてSUPER GT GT500クラスに復帰する。
 
@@ -103,13 +103,15 @@
 
 [Alessandro_Zanardi_-_Lotus_109_at_the_1994_British_Grand_Prix_(32500452896).jpg](https://ja.wikipedia.org/wiki/File:Alessandro_Zanardi_-_Lotus_109_at_the_1994_British_Grand_Prix_\(32500452896\).jpg "fig:Alessandro_Zanardi_-_Lotus_109_at_the_1994_British_Grand_Prix_(32500452896).jpg") 無限-ホンダ\]\] は[ロータスへ供給を行った](../Page/チーム・ロータス.md "wikilink")。新設計V10エンジンの「MF351HD」を投入した第12戦[イタリアGPで](https://ja.wikipedia.org/wiki/1994年イタリアグランプリ "wikilink")[ジョニー・ハーバート](../Page/ジョニー・ハーバート.md "wikilink")が、予選4位を得る速さを発揮するが、決勝ではスタート直後に[ジョーダンの](../Page/ジョーダン・グランプリ.md "wikilink")[エディ・アーバイン](../Page/エディ・アーバイン.md "wikilink")に追突されてスピン。赤旗再スタートとなったが、新エンジンがレースカーに搭載された1基しかなく、旧型エンジン (MF351HC) を積んだ[Tカー](https://ja.wikipedia.org/wiki/Tカー "wikilink")（スペアカー）でのピットスタートとなってしまった。結局、この年1度も入賞することはできず、資金難に苦しんだチームはこの年をもって撤退した。
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Ligier_JS43.jpg "wikilink") 無限-ホンダ\]\] 排気量が3,000 ccに縮小されたには、[リジェ](../Page/リジェ.md "wikilink")に新エンジン「MF301H」を供給。の[モナコGPでは](https://ja.wikipedia.org/wiki/1996年モナコグランプリ "wikilink")、荒れたウェットレースを[オリビエ・パニス](../Page/オリビエ・パニス.md "wikilink")が制し、無限-ホンダに初勝利をもたらした。しかし、翌にリジェを買収した[プロストはオールフレンチチームを目指していたため](../Page/プロスト・グランプリ.md "wikilink")、当時[プジョー](../Page/プジョー.md "wikilink")エンジンを使用していたジョーダンと交渉の末、エンジンをスワップする形となった。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Ligier_JS43.jpg "wikilink") 無限-ホンダ\]\] 排気量が3,000 ccに縮小されたには、[リジェ](../Page/リジェ.md "wikilink")に新エンジン「[MF301H](../Page/無限ホンダ・MF301H.md "wikilink")」を供給。の[モナコGPでは](https://ja.wikipedia.org/wiki/1996年モナコグランプリ "wikilink")、荒れたウェットレースを[オリビエ・パニス](../Page/オリビエ・パニス.md "wikilink")が制し、無限-ホンダに初勝利をもたらした。しかし、翌にリジェを買収した[プロストはオールフレンチチームを目指していたため](../Page/プロスト・グランプリ.md "wikilink")、当時[プジョー](../Page/プジョー.md "wikilink")エンジンを使用していたジョーダンと交渉の末、エンジンをスワップする形となった。
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Jordan_198_front-left_Donington_Grand_Prix_Collection.jpg "wikilink") 無限-ホンダ\]\] からジョーダンにエンジンを供給することになり、同年の[ベルギーGPで](https://ja.wikipedia.org/wiki/1998年ベルギーグランプリ "wikilink")、元ワールドチャンピオンの[デイモン・ヒル](../Page/デイモン・ヒル.md "wikilink")が勝利し、このシーズンでチームはコンストラクターズランキングで4位となった。翌は[ハインツ＝ハラルド・フレンツェン](../Page/ハインツ＝ハラルド・フレンツェン.md "wikilink")が2勝を挙げ、終盤までドライバーズチャンピオン争いに絡む活躍を見せ、コンストラクターズランキングで3位にまで躍進した。
 
 ジョーダンへのエンジン供給はまで続いたが、その年よりホンダがエンジンコンストラクターとして復帰したこと、チーム代表の[エディ・ジョーダン](../Page/エディ・ジョーダン.md "wikilink")が、[B・A・R](../Page/B・A・R.md "wikilink")と同等の[ワークスエンジンをホンダに要求](../Page/ワークス・チーム.md "wikilink")、[2001年からの供給が決まったことで](https://ja.wikipedia.org/wiki/2001年のF1世界選手権 "wikilink")、無限のF1活動は2000年限りで終了した。
 
 なお、F1公式サイトでは"MUGEN HONDA"表記[（2000年コンストラクターズランキング）](https://www.formula1.com/en/results.html/2000/team.html)となっており、テレビ中継時表記は"HONDA"と記載していた。
+
+これらの一連のF1参戦は、当初「（ホンダF1の）第2期で得た経験を、いつかF1に復帰した際にそのプロジェクトに引き継ぐ」ことを目的としてスタートしたが、実際には第3期の活動は無限とは全く関係のないところでスタートし、無限ホンダに関わっていた人間には（ホンダの人間ですら）全く声がかからなかったという\[3\]。背景にはホンダ社内の派閥争いがあったと目されており、実際には2002年頃から無限ホンダの関係者も第3期活動に参加するようになるものの、結果として苦戦を強いられることになった\[4\]。
 
 <table>
 <thead>
@@ -232,3 +234,5 @@
 
 1.  神電は、年度毎に漢数字でモデル名が名づけられている。例：2017年モデル：神電 六(SHINDEN ROKU)　2018年モデル：神電 七(SHINDEN NANA)
 2.
+3.  『GP Car Story Vol.31 Jordan 199』（[三栄](../Page/三栄_\(出版社\).md "wikilink")、2020年4月）pp.34 - 39
+4.

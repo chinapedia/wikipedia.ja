@@ -1,7 +1,7 @@
 > この記事は[すいか SOUTHERN ALL STARS SPECIAL 61SONGS](https://ja.wikipedia.org/wiki/すいか_SOUTHERN_ALL_STARS_SPECIAL_61SONGS)から翻訳されています。
 
 
-『**すいか SOUTHERN ALL STARS SPECIAL 61SONGS**』（すいか サザンオールスターズ・スペシャル・シックスティ・ワン・ソングス）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1989年](../Page/1989年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
+『**すいか SOUTHERN ALL STARS SPECIAL 61SONGS**』（すいか サザンオールスターズ・スペシャル・シックスティ・ワン・ソングス）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1989年](../Page/1989年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")にCDとカセットテープで発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
 
 期間限定商品のため、現在は廃盤作品となる\[1\]。
 

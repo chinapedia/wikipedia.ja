@@ -13,7 +13,7 @@
 
 [GIF特許が失効する前から開発されてきたソフトであるという経緯から](../Page/Graphics_Interchange_Format.md "wikilink")、長らくデフォルトではGIFファイルは取り扱えなかったが、GIF特許失効後にリリースされた ver.4 からGIFファイルが標準で使用可能となっている。
 
-また、複数の言語版が存在しており、[日本語](../Page/日本語.md "wikilink")をはじめとして、[英語](../Page/英語.md "wikilink")、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")、[ドイツ語](../Page/ドイツ語.md "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")、[ハンガリー語](../Page/ハンガリー語.md "wikilink")、[イタリア語](../Page/イタリア語.md "wikilink")、[ポーランド語](../Page/ポーランド語.md "wikilink")、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")（[簡体字](https://ja.wikipedia.org/wiki/簡体字 "wikilink")・[繁体字](../Page/繁体字.md "wikilink")）及び[朝鮮語](../Page/朝鮮語.md "wikilink")が開発されていたが、ver.4 以降は日本語および英語版のみリリースされている。
+また、複数の言語版が存在しており、[日本語](../Page/日本語.md "wikilink")をはじめとして、[英語](../Page/英語.md "wikilink")、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")、[ドイツ語](../Page/ドイツ語.md "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")、[ハンガリー語](../Page/ハンガリー語.md "wikilink")、[イタリア語](../Page/イタリア語.md "wikilink")、[ポーランド語](../Page/ポーランド語.md "wikilink")、[中国語](../Page/中国語.md "wikilink")（[簡体字](https://ja.wikipedia.org/wiki/簡体字 "wikilink")・[繁体字](../Page/繁体字.md "wikilink")）及び[朝鮮語](../Page/朝鮮語.md "wikilink")が開発されていたが、ver.4 以降は日本語および英語版のみリリースされている。
 
 フリーウェアのほか、[ワコム](../Page/ワコム.md "wikilink")を始めとした[タブレットの付属ソフトとして](../Page/タブレット_\(コンピュータ\).md "wikilink")、素材データなどが追加された有料版のようなものもある。有料フィルタとサポート付きの[ダウンロード販売](../Page/ダウンロード販売.md "wikilink")も行われている。
 

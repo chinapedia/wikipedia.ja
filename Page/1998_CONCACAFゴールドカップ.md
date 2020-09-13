@@ -137,10 +137,10 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-| [トリニダード・トバゴ](https://ja.wikipedia.org/wiki/トリニダード・トバゴ "wikilink") | 3 - 1 | [ホンジュラス](https://ja.wikipedia.org/wiki/ホンジュラス "wikilink")         |
-| ----------------------------------------------------------------- | ----- | ----------------------------------------------------------------- |
-| [メキシコ](../Page/メキシコ.md "wikilink")                                | 4 - 2 | [トリニダード・トバゴ](https://ja.wikipedia.org/wiki/トリニダード・トバゴ "wikilink") |
-| [メキシコ](../Page/メキシコ.md "wikilink")                                | 2 - 0 | [ホンジュラス](https://ja.wikipedia.org/wiki/ホンジュラス "wikilink")         |
+| [トリニダード・トバゴ](../Page/トリニダード・トバゴ.md "wikilink") | 3 - 1 | [ホンジュラス](https://ja.wikipedia.org/wiki/ホンジュラス "wikilink") |
+| ---------------------------------------------- | ----- | --------------------------------------------------------- |
+| [メキシコ](../Page/メキシコ.md "wikilink")             | 4 - 2 | [トリニダード・トバゴ](../Page/トリニダード・トバゴ.md "wikilink")            |
+| [メキシコ](../Page/メキシコ.md "wikilink")             | 2 - 0 | [ホンジュラス](https://ja.wikipedia.org/wiki/ホンジュラス "wikilink") |
 
 </div>
 

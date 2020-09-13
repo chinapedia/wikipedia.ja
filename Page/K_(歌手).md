@@ -180,11 +180,14 @@
 
 ### 配信限定シングル
 
-|   | 発売日         | タイトル              |
-| - | ----------- | ----------------- |
-| 1 | 2014年10月1日  | **Brand New Day** |
-| 2 | 2015年12月16日 | **あの雲の向こう側**      |
-| 3 | 2017年11月29日 | **指輪物語**          |
+|   | 発売日         | タイトル                         |
+| - | ----------- | ---------------------------- |
+| 1 | 2014年10月1日  | **Brand New Day**            |
+| 2 | 2015年12月16日 | **あの雲の向こう側**                 |
+| 3 | 2017年11月29日 | **指輪物語**                     |
+| 4 | 2020年4月29日  | **Curious (Kan Sano Remix)** |
+| 5 | 2020年7月22日  | **Satisfaction**             |
+|   |             |                              |
 
 ### アルバム
 
@@ -583,7 +586,9 @@
   - [K Official Blog](https://lineblog.me/k_official/) - [LINE BLOG](https://ja.wikipedia.org/wiki/LINE_BLOG "wikilink")
 
   -
-[Category:日本のポップ歌手](https://ja.wikipedia.org/wiki/Category:日本のポップ歌手 "wikilink") [Category:韓国の歌手](https://ja.wikipedia.org/wiki/Category:韓国の歌手 "wikilink") [Category:スターダストプロモーション](https://ja.wikipedia.org/wiki/Category:スターダストプロモーション "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:ソウル特別市出身の人物](https://ja.wikipedia.org/wiki/Category:ソウル特別市出身の人物 "wikilink") [Category:1983年生](https://ja.wikipedia.org/wiki/Category:1983年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:関根勤](https://ja.wikipedia.org/wiki/Category:関根勤 "wikilink")
+  -
+  -
+[Category:日本の男性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ポップ歌手 "wikilink") [Category:韓国の男性歌手](https://ja.wikipedia.org/wiki/Category:韓国の男性歌手 "wikilink") [Category:スターダストプロモーション](https://ja.wikipedia.org/wiki/Category:スターダストプロモーション "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:ソウル特別市出身の人物](https://ja.wikipedia.org/wiki/Category:ソウル特別市出身の人物 "wikilink") [Category:1983年生](https://ja.wikipedia.org/wiki/Category:1983年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:関根勤](https://ja.wikipedia.org/wiki/Category:関根勤 "wikilink")
 
 1.  [K オフィシャルサイト プロフィール](http://www.club-k.cc/biography/index.html)
 2.

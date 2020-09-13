@@ -148,7 +148,7 @@
   - [はんにゃ](https://ja.wikipedia.org/wiki/はんにゃ "wikilink")
   - [フルーツポンチ](../Page/フルーツポンチ_\(お笑いコンビ\).md "wikilink")
   - [祇園](https://ja.wikipedia.org/wiki/祇園_\(お笑いコンビ\) "wikilink")
-  - [シソンヌ](https://ja.wikipedia.org/wiki/シソンヌ "wikilink")
+  - [シソンヌ](https://ja.wikipedia.org/wiki/シソンヌ_\(お笑いコンビ\) "wikilink")
   - [チョコレートプラネット](../Page/チョコレートプラネット.md "wikilink")
   - [ななまがり](https://ja.wikipedia.org/wiki/ななまがり "wikilink")
   - [パンサー](https://ja.wikipedia.org/wiki/パンサー_\(お笑い\) "wikilink")

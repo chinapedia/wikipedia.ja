@@ -66,7 +66,7 @@
   - 2018年11月30日 - [家の妹](https://ja.wikipedia.org/wiki/家の妹 "wikilink")
   - 2019年4月26日 - [家の恋人](https://ja.wikipedia.org/wiki/家の恋人 "wikilink")
   - 2020年4月24日 - [空の少女 -美娼女学園1-](https://ja.wikipedia.org/wiki/空の少女_-美娼女学園1- "wikilink")
-  - 2020年 - [月の少女 -美娼女学園2-](https://ja.wikipedia.org/wiki/月の少女_-美娼女学園2- "wikilink")
+  - 2020年9月25日 - [月の少女 -美娼女学園2-](https://ja.wikipedia.org/wiki/月の少女_-美娼女学園2- "wikilink")
   - 2021年 - [聖の少女 -美娼女学園3-](https://ja.wikipedia.org/wiki/聖の少女_-美娼女学園3- "wikilink")
 
 ## スタッフ

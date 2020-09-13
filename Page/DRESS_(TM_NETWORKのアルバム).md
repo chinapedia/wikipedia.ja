@@ -11,11 +11,11 @@
 
 しかし、この作品で「ボーカルトラックだけはオリジナルを使うという条件で、海外の有名プロデューサーに[マスターテープ](https://ja.wikipedia.org/wiki/マスターテープ "wikilink")を渡し、好きなように作ってもらい、世界のどんな音色が日本で受けるのかをリサーチする」という[コンセプト](https://ja.wikipedia.org/wiki/コンセプト "wikilink")で製作。いわゆる**外注リミックス**を日本で初めて取り入れた作品といえよう。この手法を**リミックス**と呼ばず、**「リプロダクション」**と呼んだ。当時としては斬新な手法だったため、注目を集めた。[雑誌](../Page/雑誌.md "wikilink")[広告](../Page/広告.md "wikilink")の[キャッチコピー](../Page/キャッチコピー.md "wikilink")は「**Re-Production それは素敵なマジックです**」。収録全曲の解説付きだった。ボーカルとメロディー、歌詞だけが残って、後は全部海外のミュージシャンのアイディアによってほとんどゼロから録り直している。\[2\]
 
-アルバム『**[CAROL](../Page/CAROL_〜A_DAY_IN_A_GIRL'S_LIFE_1991〜.md "wikilink")**』を冠したツアーが長期に渡り、その間レコーディングが行えずリリースアイテムが発売されないことが危惧された。上記のコンセプトであればTMのメンバーが動くことなくアルバムを発売することが出来るアイディアだった。ただ、本来制作費がほとんどかからないベストアルバムではなくリプロダクトアルバムを志向したため、トータルでの制作費は4,5千万円かかった。また、依頼した相手がその方面では有名なプロデューサーばかりで、どんなアレンジになるか全く予測できないのに出来上がった音源を没にするわけにもいかないのに何曲も依頼したのは「ある種の賭けだったが、『メロディーのフックの良い曲はワールドワイド』という判断を通した」と話している\[3\]。[アナログ盤](https://ja.wikipedia.org/wiki/アナログ盤 "wikilink")は本作品で最後の発売で、稀少盤でありオークションや中古レコード業界では高値で取引されている。
+アルバム『**[CAROL](../Page/CAROL_〜A_DAY_IN_A_GIRL'S_LIFE_1991〜.md "wikilink")**』を冠したツアーが長期に渡り、その間レコーディングが行えずリリースアイテムが発売されないことが危惧された。上記のコンセプトであればTMのメンバーが動くことなくアルバムを発売することが出来るアイディアだった。ただ、本来制作費がほとんどかからないベストアルバムではなくリプロダクトアルバムを志向したため、トータルでの制作費は4、5千万円かかった。また、依頼した相手がその方面では有名なプロデューサーばかりで、どんなアレンジになるか全く予測できないのに出来上がった音源を没にするわけにもいかないのに何曲も依頼したのは「ある種の賭けだったが、『メロディーのフックの良い曲はワールドワイド』という判断を通した」と話している\[3\]。[アナログ盤](https://ja.wikipedia.org/wiki/アナログ盤 "wikilink")は本作品で最後の発売で、稀少盤でありオークションや中古レコード業界では高値で取引されている。
 
 収録曲の中で、「**[COME ON EVERYBODY (with Nile Rodgers)](../Page/COME_ON_EVERYBODY_\(with_Nile_Rodgers\).md "wikilink")**」と「**[KISS YOU (KISS JAPAN)](../Page/KISS_YOU_\(KISS_JAPAN\).md "wikilink")**」、「**[GET WILD '89](../Page/GET_WILD_'89.md "wikilink")**」は先行シングルとしてリリースされ、3曲同時チャートインを果たしている。これは日本音楽史上初の事である。
 
-また、「KISS YOU (KISS JAPAN)」の[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")である「**TIME (PASSED SO SLOWLY)**」と「GET WILD '89」のカップリング曲の「**FOOL ON THE PLANET(WHERE ARE YOU NOW)**」の2曲はアルバム収録曲とほぼ同時に製作されたが、アナログ盤の収録時間の関係上未収録となったが、後にベストアルバム『**[Welcome to the FANKS\!](../Page/Welcome_to_the_FANKS!.md "wikilink")**』（[2004年](../Page/2004年.md "wikilink")）に収録）や2013年11月27日にリマスター＆高品質CD『**Blu-spec CD2**』にて再発売された際にボーナストラックとして収録された。
+また、「KISS YOU (KISS JAPAN)」の[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")である「**TIME (PASSES SO SLOWLY)**」と「GET WILD '89」のカップリング曲の「**FOOL ON THE PLANET(WHERE ARE YOU NOW)**」の2曲はアルバム収録曲とほぼ同時に製作されたが、アナログ盤の収録時間の関係上未収録となったが、後にベストアルバム『**[Welcome to the FANKS\!](../Page/Welcome_to_the_FANKS!.md "wikilink")**』（[2004年](../Page/2004年.md "wikilink")）に収録）や2013年11月27日にリマスター＆高品質CD『**Blu-spec CD2**』にて再発売された際にボーナストラックとして収録された。
 
 このアルバムをリリース直後のライブ**「CAMP FANKS\!\! '89」**では主にこれらリプロダクションバージョンで演奏されているが、それ以降でのライブでは原曲バージョンの演奏となっており、リプロダクションバージョンで演奏されている楽曲は、**「[GET WILD '89](../Page/GET_WILD_'89.md "wikilink")」**のみである。
 
@@ -78,7 +78,7 @@
     <!-- end list -->
       -
         原曲は3rdアルバム『[GORILLA](../Page/GORILLA_\(アルバム\).md "wikilink")』収録曲。
-12. **TIME (PASSED SO SLOWLY)**
+12. **TIME (PASSES SO SLOWLY)**
       - 作詞：三浦徳子　作曲：小室哲哉　Additional Production and Mix by Jimmy Bralower and Peter Wood
     <!-- end list -->
       -

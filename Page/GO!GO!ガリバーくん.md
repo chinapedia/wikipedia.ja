@@ -57,7 +57,7 @@
 
 **た**
 
-  - [太平かつみ](https://ja.wikipedia.org/wiki/かつみ・さゆり#プロフィール "wikilink")（501号 [かつみ・さゆり](../Page/かつみ・さゆり.md "wikilink")のペアで）
+  - [太平かつみ](https://ja.wikipedia.org/wiki/かつみ♥さゆり#プロフィール "wikilink")（501号 [かつみ♥さゆり](../Page/かつみ♥さゆり.md "wikilink")のペアで）
   - [渡嘉敷勝男](../Page/渡嘉敷勝男.md "wikilink")（478号）
 
 **な**
@@ -80,7 +80,7 @@
   - [愛川ゆず季](https://ja.wikipedia.org/wiki/愛川ゆず季 "wikilink")（491号）
   - [大沢あかね](https://ja.wikipedia.org/wiki/大沢あかね "wikilink")（498号）
   - [大原かおり](https://ja.wikipedia.org/wiki/大原かおり "wikilink")（494号）
-  - [尾崎小百合](https://ja.wikipedia.org/wiki/かつみ・さゆり#プロフィール "wikilink")（501号 かつみ・さゆりのペアで）
+  - [尾崎小百合](https://ja.wikipedia.org/wiki/かつみ♥さゆり#プロフィール "wikilink")（501号 かつみ・さゆりのペアで）
 
 **か**
 

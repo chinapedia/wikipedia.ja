@@ -47,7 +47,7 @@
 ### ナレーション
 
   - [古川登志夫](../Page/古川登志夫.md "wikilink")
-  - [鈴木渢](https://ja.wikipedia.org/wiki/鈴木渢 "wikilink")
+  - [鈴木渢](../Page/鈴木渢.md "wikilink")
 
 他
 

@@ -35,6 +35,6 @@
   - [MIT Revolutions](http://www.mit-r.tv/guest/guest_08.html) - [MIT Revolutions公式サイトのグループ紹介ページ](https://ja.wikipedia.org/wiki/MIT_Revolutions "wikilink")。同ユニットの楽曲の配信も行う。
   - [コーラスたい ～彼女たちのキセキ～](http://www.chorustai.com/) - 同ユニットが主題歌を担当、出演する映画の公式サイト。
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink")
+[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink")
 
 1.  [篠原CD5万枚突破、爆安300円が決め手なのら\!\!](http://web.archive.org/web/20040409090417/http://www.sanspo.com/geino/top/gt200401/gt2004013104.html)、SANSPO.COM、2004年1月30日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）

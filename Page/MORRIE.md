@@ -1,7 +1,7 @@
 > この記事は[MORRIE](https://ja.wikipedia.org/wiki/MORRIE)から翻訳されています。
 
 
-**MORRIE**（モーリー、[1964年](../Page/1964年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")39年）[3月4日](../Page/3月4日.md "wikilink")(魚座) - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴォーカリスト](../Page/歌手.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[兵庫県](../Page/兵庫県.md "wikilink")[龍野市](../Page/龍野市.md "wikilink")（現[たつの市](../Page/たつの市.md "wikilink")）出身。[神戸市外国語大学](../Page/神戸市外国語大学.md "wikilink")卒業。血液型[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。ソロ活動と並行して、ロックバンド「[DEAD END](../Page/DEAD_END_\(バンド\).md "wikilink")」、ソロプロジェクト「[Creature Creature](https://ja.wikipedia.org/wiki/Creature_Creature "wikilink")」のヴォーカルを務める。妻は[ヴァイオリニスト](../Page/ヴァイオリニスト.md "wikilink")のHeather Paauweで、MORRIEのソロ活動にも参加している。
+**MORRIE**（モーリー、[1964年](../Page/1964年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")39年）[3月4日](../Page/3月4日.md "wikilink")(魚座) - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴォーカリスト](../Page/歌手.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[兵庫県](../Page/兵庫県.md "wikilink")[龍野市](../Page/龍野市.md "wikilink")（現[たつの市](../Page/たつの市.md "wikilink")）出身。[神戸市外国語大学](../Page/神戸市外国語大学.md "wikilink")学科卒業。血液型[A型](../Page/ABO式血液型.md "wikilink")。ソロ活動と並行して、ロックバンド「[DEAD END](../Page/DEAD_END_\(バンド\).md "wikilink")」、ソロプロジェクト「[Creature Creature](https://ja.wikipedia.org/wiki/Creature_Creature "wikilink")」のヴォーカルを務める。妻は[ヴァイオリニスト](../Page/ヴァイオリニスト.md "wikilink")のHeather Paauweで、MORRIEのソロ活動にも参加している。
 
 ## 経歴
 
@@ -9,9 +9,9 @@
 
 高校3年生の時、ヴォーカルを探していた友人のバンドTHE WILD（主にクイーンや[ポリスのコピー演奏をしていた](../Page/ポリス_\(バンド\).md "wikilink")）に参加し、ステージデビュー。初めての曲はポリスの「[孤独のメッセージ](https://ja.wikipedia.org/wiki/孤独のメッセージ "wikilink")」であった。
 
-[1984年](../Page/1984年.md "wikilink")にLIARで同じメンバーだったTAKAHIRO（香川孝博）(Gt)と元RAJASの[CRAZY COOL JOE](https://ja.wikipedia.org/wiki/CRAZY_COOL_JOE "wikilink")(B)を中心に[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[DEAD ENDを結成](../Page/DEAD_END_\(バンド\).md "wikilink")、[インディーズ](../Page/インディーズ.md "wikilink")界に旋風を巻き起こし数々の記録を打ち立てる。
+[1984年](../Page/1984年.md "wikilink")に同じバンドLIARのメンバーだったTAKAHIRO（香川孝博）(Gt)と元RAJASの[CRAZY COOL JOE](https://ja.wikipedia.org/wiki/CRAZY_COOL_JOE "wikilink")(B)で[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[DEAD ENDを結成](../Page/DEAD_END_\(バンド\).md "wikilink")、[インディーズ](../Page/インディーズ.md "wikilink")界に旋風を巻き起こし数々の記録を打ち立てる。
 
-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")には鳴り物入りでメジャーデビューし、通算2枚目となるメジャー初アルバム『[GHOST OF ROMANCE](https://ja.wikipedia.org/wiki/GHOST_OF_ROMANCE "wikilink")』は[オリコンチャート](../Page/オリコンチャート.md "wikilink")61位に付けた。
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")にはメジャーデビューし、通算2枚目となるメジャー初アルバム『[GHOST OF ROMANCE](https://ja.wikipedia.org/wiki/GHOST_OF_ROMANCE "wikilink")』は[オリコンチャート](../Page/オリコンチャート.md "wikilink")61位に付けた。
 
 3rdアルバムのタイトルとなっている『[shámbara](https://ja.wikipedia.org/wiki/shambara "wikilink")（[シャンバラ](https://ja.wikipedia.org/wiki/シャンバラ "wikilink")）』とは「相反する2つのものが隣り合わせになっている様子を表現したもの」というMORRIEによる造語だったが、この言葉が実在する[中国](../Page/中国.md "wikilink")の土地名であり、既存の[仏教](../Page/仏教.md "wikilink")用語でもある事を当時の彼は知らなかったという。
 
@@ -25,7 +25,9 @@ DEAD END解散後は、以前より行っていたソロプロジェクトを本
 
 私生活においては1993年に渡米、現地で結婚し永住権を獲得しており、現在も[ニューヨーク](../Page/ニューヨーク.md "wikilink")在住である。
 
-ソロ3rdアルバム『影の饗宴』以降表舞台からは退いていたが、[2005年](../Page/2005年.md "wikilink")に自身選曲によるソロ活動期のベストアルバム『Ectoplasm』を発表し、さらに同年[Minoru](https://ja.wikipedia.org/wiki/室姫深 "wikilink")（ex.[THE MAD CAPSULE MARKET'S](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")、[DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")） 、[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")（[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")）らのサポートを受け、[Creature Creature名義で](https://ja.wikipedia.org/wiki/Creature_Creature "wikilink")10年振りにシーンに復帰し、シングル三枚・アルバム一枚を発表。Creature Creatureの活動が落ち着いた[2009年](../Page/2009年.md "wikilink")には、8月15日に行われる幕張メッセ＜[JACK IN THE BOX](https://ja.wikipedia.org/wiki/JACK_IN_THE_BOX_\(イベント\) "wikilink") 2009 SUMMER＞に[DEAD ENDが出演することを明かし](../Page/DEAD_END_\(バンド\).md "wikilink")、20年ぶりにDEAD ENDとして活動を再開。同年11月11日に過去のアルバムの再発と同時に5thアルバム『[METAMORPHOSIS](https://ja.wikipedia.org/wiki/METAMORPHOSIS "wikilink")』を発表。現在は[宗教](../Page/宗教.md "wikilink")・[哲学](../Page/哲学.md "wikilink")などの用語や概念をちりばめ、また掛詞や造語、特定のキーワードを多用した難解な詩世界を構築している他、自身の音楽性もDEAD END時代とソロ時代の音楽性を統合し現代的なアプローチをも取り込んだ独特のものへと変化を遂げている。
+[2005年](../Page/2005年.md "wikilink")ソロ3rdアルバム『影の饗宴』以降表舞台からは退いていたが自身選曲によるソロ活動期のベストアルバム『Ectoplasm』を発表し、さらに同年[Minoru（室姫深）](https://ja.wikipedia.org/wiki/室姫深 "wikilink")（ex.[THE MAD CAPSULE MARKET'S](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")、[DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")） 、[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")（[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")）らのサポートを受け、[Creature Creature名義で](https://ja.wikipedia.org/wiki/Creature_Creature "wikilink")10年振りにシーンに復帰し、シングル三枚・アルバム一枚を発表。
+
+[2009年](../Page/2009年.md "wikilink")8月15日には、Creature Creatureの活動が落ち着き、幕張メッセ＜[JACK IN THE BOX](https://ja.wikipedia.org/wiki/JACK_IN_THE_BOX_\(イベント\) "wikilink") 2009 SUMMER＞に[DEAD ENDが出演することを明かし](../Page/DEAD_END_\(バンド\).md "wikilink")、20年ぶりにDEAD ENDとして活動を再開。同年11月11日に過去のアルバムの再発と同時に5thアルバム『[METAMORPHOSIS](https://ja.wikipedia.org/wiki/METAMORPHOSIS "wikilink")』を発表。現在は[宗教](../Page/宗教.md "wikilink")・[哲学](../Page/哲学.md "wikilink")などの用語や概念をちりばめ、また掛詞や造語、特定のキーワードを多用した難解な詩世界を構築している他、自身の音楽性もDEAD END時代とソロ時代の音楽性を統合し現代的なアプローチをも取り込んだ独特のものへと変化を遂げている。
 
 現在は、DEAD END、Creature Creature、MORRIE（ソロ）を並行して活動を続けている。
 
@@ -41,25 +43,49 @@ DEAD ENDの1stアルバムDEAD LINEでのディストーションをかけた歌
 
 #### アルバム
 
-1.  **ignorance** （1990年11月21日　BMGビクター　BVCR-21）
-2.  **ロマンティックな、余りにロマンティックな** （1992年4月21日　BMGビクター　BVCR-79）
-3.  **影の饗宴** （1995年1月21日　BMGビクター　BVCR-697）
-4.  **ECTOPLASM** （2005年5月11日　BMGファンハウス　BVCH-41001） ベストアルバム
-5.  **HARD CORE REVERIE** （2014年12月25日　Nowhere Music）
-    1.  Regular Edition
-    2.  Special Edition くるみ三方背ハードBOX仕様（+DVD+B5版写真集）
+|                           | 発売日         | タイトル                     | 品番                        | レーベル          | 備考                                 |
+| ------------------------- | ----------- | ------------------------ | ------------------------- | ------------- | ---------------------------------- |
+| 1st                       | 1990年11月21日 | **ignorance**            | BVCR-21                   | BMGビクター       |                                    |
+| 2nd                       | 1992年4月21日  | **ロマンティックな、余りにロマンティックな** | BVCR-79                   |               |                                    |
+| 3rd                       | 1995年1月21日  | **影の饗宴**                 | BVCR-697                  |               |                                    |
+| Best                      | 2005年5月11日  | **ECTOPLASM**            | BVCH-41001                | BMGファンハウス     | 1st～3rdアルバムと浪漫者のディレンマから選曲したベストアルバム |
+| 4th                       | 2014年12月25日 | **HARD CORE REVERIE**    | Special Edition：NWM-11001 | Nowhere Music | くるみ三方背ハードBOX仕様 (+DVD+B5版写真集)       |
+| Regular Edition：NWM-11002 |             |                          |                           |               |                                    |
+| 5th                       | 2019年4月19日  | **光る曠野**                 | NWM-11005/5-B             |               |                                    |
 
 #### シングル
 
-1.  **パラドックス** （1990年10月21日　BMGビクター　BVDR-17）
-2.  **視線の快楽** （1991年11月21日　BMGビクター　BVDR-74）
-3.  **さよなら、とりあえず** （1993年8月21日　BMGビクター　BVDR-197）
-4.  **薔薇色に染まる** （1993年12月16日　BMGビクター　BVDR-220）
-5.  **犬** （1995年1月21日　BMGビクター　BVDR-1010）
+|     | 発売日         | タイトル           | カップリング曲   | 品番        | レーベル    | 収録アルバム    |
+| --- | ----------- | -------------- | --------- | --------- | ------- | --------- |
+| 1st | 1990年10月21日 | **パラドックス**     | ここではないどこか | BVDR-17   | BMGビクター | ignorance |
+| 2nd | 1991年11月21日 | **視線の快楽**      | 孤独の太陽     | BVDR-74   | アルバム未収録 |           |
+| 3rd | 1993年8月21日  | **さよなら、とりあえず** | 割れない鏡     | BVDR-197  |         |           |
+| 4th | 1993年12月16日 | **薔薇色に染まる**    | 幻の蝶       | BVDR-220  |         |           |
+| 5th | 1995年1月21日  | **犬**          | 影         | BVDR-1010 | 影の饗宴    |           |
 
 #### VHS
 
-1.  **浪漫者のディレンマ**　（1991年4月21日　BMGビクター　BVVR-11）
+<table>
+<thead>
+<tr class="header">
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>収録曲</p></th>
+<th><p>品番</p></th>
+<th><p>レーベル</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1991年4月21日</p></td>
+<td><p><strong>浪漫者のディレンマ</strong></p></td>
+<td><p>01. COSMOSの中に 02. パラドックス</p>
+<p>03. パニックの芽</p></td>
+<td><p>BVVR-11</p></td>
+<td><p>BMGビクター</p></td>
+</tr>
+</tbody>
+</table>
 
 #### 書籍
 
@@ -69,22 +95,28 @@ DEAD ENDの1stアルバムDEAD LINEでのディストーションをかけた歌
 
 #### アルバム
 
-1.  **[Light & Lust](https://ja.wikipedia.org/wiki/Light_&_Lust_\(アルバム\) "wikilink")** （2006年8月30日　Danger Crue Records）
-2.  **[INFERNO](https://ja.wikipedia.org/wiki/INFERNO_\(アルバム\) "wikilink")** （2010年7月21日　Danger Crue Records）
-3.  **[PHANTOMS](https://ja.wikipedia.org/wiki/PHANTOMS_\(アルバム\) "wikilink")** （2012年10月17日　Psyche Records）
+| 発売日         | タイトル                                                                               | 品番                | 備考                             |
+| ----------- | ---------------------------------------------------------------------------------- | ----------------- | ------------------------------ |
+| 2006年8月30日  | **[Light & Lust](https://ja.wikipedia.org/wiki/Light_&_Lust_\(アルバム\) "wikilink")** | XNDC-10102/10103  | オリコン週間ランキング初登場15位              |
+| 2010年7月21日  | **[INFERNO](https://ja.wikipedia.org/wiki/INFERNO_\(アルバム\) "wikilink")**           | XNDC-10049/10050  | オリコン週間ランキング初登場40位、インディーズチャート3位 |
+| 2012年10月17日 | **[PHANTOMS](https://ja.wikipedia.org/wiki/PHANTOMS_\(アルバム\) "wikilink")**         | PSYCC-11001/11002 |                                |
+| 2017年03月15日 | **Death Is A Flower**                                                              | NWM-11003/11004   | 初回限定盤はCD+DVD二枚組+写真集            |
 
 #### シングル
 
-1.  **[風の塔](https://ja.wikipedia.org/wiki/風の塔_\(Creature_Creatureの曲\) "wikilink")** （2006年7月19日　Danger Crue Records）
-2.  **[Red](https://ja.wikipedia.org/wiki/Red_\(Creature_Creatureの曲\) "wikilink")** （2006年7月19日　Danger Crue Records）
-3.  **[パラダイス](https://ja.wikipedia.org/wiki/パラダイス_\(Creature_Creatureの曲\) "wikilink")** （2006年7月19日　Danger Crue Records）
-4.  **[PSYCHETELOS](https://ja.wikipedia.org/wiki/PSYCHETELOS "wikilink")**　(2011年6月12日　Psyche Records)　Shibuya O-EAST公演 会場限定発売・1,000枚限定プレス
-5.  **[楽園へ/Ataraxia](https://ja.wikipedia.org/wiki/楽園へ/Ataraxia "wikilink")**　(2012年6月20日　Psyche Records)
-6.  **[くるめき/Sexus](https://ja.wikipedia.org/wiki/くるめき/Sexus "wikilink")** (2012年8月8日　Psyche Records)
+| 発売日                                                                                 | タイトル                                                                            | 品番                 | 収録アルバム                                                                             | 備考                                  |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------ | ---------------------------------------------------------------------------------- | ----------------------------------- |
+| 2006年7月19日                                                                          | **[風の塔](https://ja.wikipedia.org/wiki/風の塔_\(Creature_Creatureの曲\) "wikilink")** | XNDC-10205/B、10206 | **[Light & Lust](https://ja.wikipedia.org/wiki/Light_&_Lust_\(アルバム\) "wikilink")** | オリコン週間ランキング初登場26位                   |
+| **[Red](https://ja.wikipedia.org/wiki/Red_\(Creature_Creatureの曲\) "wikilink")**     | XNDC-10207/B、10208                                                              | オリコン週間ランキング初登場27位  |                                                                                    |                                     |
+| **[パラダイス](https://ja.wikipedia.org/wiki/パラダイス_\(Creature_Creatureの曲\) "wikilink")** | XNDC-10209/B、10210                                                              | オリコン週間ランキング初登場29位  |                                                                                    |                                     |
+| 2011年6月12日                                                                          | **[PSYCHETELOS](https://ja.wikipedia.org/wiki/PSYCHETELOS "wikilink")**         | PSYCC-12001        | **[PHANTOMS](https://ja.wikipedia.org/wiki/PHANTOMS_\(アルバム\) "wikilink")**         | Shibuya O-EAST公演 会場限定発売・1,000枚限定プレス |
+| 2012年6月20日                                                                          | **[楽園へ/Ataraxia](https://ja.wikipedia.org/wiki/楽園へ/Ataraxia "wikilink")**       | PSYCC-12003        |                                                                                    |                                     |
+| 2012年8月8日                                                                           | **[くるめき/Sexus](https://ja.wikipedia.org/wiki/くるめき/Sexus "wikilink")**           | PSYCC-12004        |                                                                                    |                                     |
 
-#### DVD
+#### 映像作品
 
-1.  **EXORCISING ORPHEUS -Paradise Tour Final-** (2011年10月12日　Psyche Records　PSYCC-22001)
+1.  **[EXORCISING ORPHEUS -Paradise Tour Final-](https://ja.wikipedia.org/wiki/EXORCISING_ORPHEUS_-Paradise_Tour_Final- "wikilink")** (2011年10月12日) ライヴDVD
+2.  **[Beyond Light & Lust](https://ja.wikipedia.org/wiki/Beyond_Light_&_Lust "wikilink")** (2020年4月23日) ライヴDVD\&Blu-ray
 
 ### 参加
 

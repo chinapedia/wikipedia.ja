@@ -17,7 +17,7 @@
 
 プロ[バスケットボール](../Page/バスケットボール.md "wikilink")チーム、安養SBSスターズを保有し、[韓国バスケットボールリーグ](../Page/韓国バスケットボールリーグ.md "wikilink") (KBL) に創設時から参加させてきたが、元[国営の](https://ja.wikipedia.org/wiki/国営企業 "wikilink")[タバコ](https://ja.wikipedia.org/wiki/タバコ "wikilink")会社 [KT\&G](../Page/KT&G.md "wikilink")に譲渡、[安養KT\&Gカイツ](https://ja.wikipedia.org/wiki/安養KT&Gカイツ "wikilink")となった。また[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[PGAツアー](../Page/PGAツアー.md "wikilink")、[LPGAツアー](https://ja.wikipedia.org/wiki/LPGAツアー "wikilink")ともかかわりが深く、2005-2009年には女子の[SBSオープン](https://ja.wikipedia.org/wiki/SBSオープン "wikilink")、2011年と2017年には男子の[SBSトーナメント・オブ・チャンピオンズ大会の協賛スポンサーにも就任している](../Page/ヒュンダイ・トーナメント・オブ・チャンピオンズ.md "wikilink")。
 
-ケーブルテレビや衛星デジタル放送（Skylife）を通じて、SBSドラマ、SBSスポーツ(※一時期アメリカ[ESPN](../Page/ESPN.md "wikilink")と提携し「SBS ESPN」と名乗っていた)、SBSゴルフ、SBS CNBCの各チャンネルを放送している。そのうちSBSスポーツでは、2006年から2010年まで、[日本プロ野球](../Page/日本プロ野球.md "wikilink")・[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")のホーム試合の生中継を[日テレG+](https://ja.wikipedia.org/wiki/日テレG+ "wikilink")からの映像提供を受ける形で行なっていた。これは[イ・スンヨプのジャイアンツ入団によるもので](../Page/李承ヨプ_\(野球\).md "wikilink")、試合終了まで音声はSBS側で付ける「[カラ出張](https://ja.wikipedia.org/wiki/カラ出張 "wikilink")」形式を取っていた。[2011年](../Page/2011年.md "wikilink")からはイ・スンヨプと[パク・チャンホが加入した](../Page/朴賛浩.md "wikilink")[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")の主催ゲームの放映権を獲得し放送していた。
+ケーブルテレビや衛星デジタル放送（Skylife）を通じて、SBSドラマ、SBSスポーツ(※一時期アメリカ[ESPN](../Page/ESPN.md "wikilink")と提携し「SBS ESPN」と名乗っていた)、SBSゴルフ、SBS CNBCの各チャンネルを放送している。そのうちSBSスポーツでは、2006年から2010年まで、[日本プロ野球](../Page/日本プロ野球.md "wikilink")・[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")のホーム試合の生中継を[日テレG+](https://ja.wikipedia.org/wiki/日テレG+ "wikilink")からの映像提供を受ける形で行なっていた。これは[イ・スンヨプのジャイアンツ入団によるもので](../Page/李承燁_\(野球\).md "wikilink")、試合終了まで音声はSBS側で付ける「[カラ出張](https://ja.wikipedia.org/wiki/カラ出張 "wikilink")」形式を取っていた。[2011年](../Page/2011年.md "wikilink")からはイ・スンヨプと[パク・チャンホが加入した](../Page/朴賛浩.md "wikilink")[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")の主催ゲームの放映権を獲得し放送していた。
 
 ### 日本との関係
 
@@ -303,7 +303,7 @@
 
   - 良い朝 () （月曜〜金曜9:30〜）　朝のトークショー
 
-  - 生放送トゥディ () （月曜〜木曜18:50〜）
+  - () （月曜〜金曜18:50〜）
 
   - () （木曜20:55〜）(+82-2-2113-3333)
 
@@ -313,9 +313,9 @@
 
   - () （土曜22:55〜）(+82-2-2113-5500)
 
-  - () （日曜9:40〜） (+82-2-2113-3456)
+  - [TV動物農場](https://ja.wikipedia.org/wiki/TV動物農場 "wikilink") () （日曜9:40〜） (+82-2-2113-3456)
 
-  - 生活之 達人()（月曜8:50〜）(+82-2-6673-4600)
+  - [生活之 達人](https://ja.wikipedia.org/wiki/生活の達人 "wikilink")()（月・火曜8:50〜）(+82-2-6673-4600)
 
 </div>
 
@@ -375,7 +375,7 @@
   - [海賊マテオ](https://ja.wikipedia.org/wiki/海賊マテオ "wikilink")（韓国名:, 2005.11）
   - [バンパキングジャパー](https://ja.wikipedia.org/wiki/バンパキングジャパー "wikilink")（韓国名:, English:Bumperking Zapper, 2004）
   - [トムとジェリー](../Page/トムとジェリー.md "wikilink")（韓国名:, English:Tom and Jerry, 2005）
-  - [パワーパフガールズ](../Page/パワーパフガールズ.md "wikilink")（韓国名:, English:The Powerpuff Girls, 2002）
+  - [パワーパフガールズ](../Page/パワーパフガールズ.md "wikilink")（韓国名:, English:The Powerpuff Girls, 2002, シーズン5まで放送）
   - [ティーン・タイタンズ](../Page/ティーン・タイタンズ_\(アニメ\).md "wikilink")（韓国名:, English:Teen Titans, 2005）
   - [パタパタ飛行船の冒険](../Page/パタパタ飛行船の冒険.md "wikilink")（韓国名:, 2005）
   - [トップブレイド](../Page/爆転シュート_ベイブレード_\(アニメ\).md "wikilink")（韓国名:, English:Beyblade, 2001-2002）
@@ -406,7 +406,7 @@
   - [ジャングル王 サロ](https://ja.wikipedia.org/wiki/ジャングル王_サロ "wikilink")（韓国名:, English:Jungle King Saro, 2007.9-, [ジャングルブック](https://ja.wikipedia.org/wiki/ジャングルブック "wikilink")の再構成アニメ）
   - [像想さま ゆうぎよ](https://ja.wikipedia.org/wiki/像想さま_ゆうぎよ "wikilink")（韓国名:, 2007.10-）
   - [赤ちゃん恐竜 ドゥーリー](https://ja.wikipedia.org/wiki/赤ちゃん恐竜_ドゥーリー "wikilink")（2009年版）（韓国名:, English:Dooly the little dino, 2009.1-11）
-  - [おはよう ジャドゥちゃん](https://ja.wikipedia.org/wiki/おはよう_ジャドゥちゃん "wikilink") (韓国名:, English:Hello Jadoo, 2011.7-2016.2, 全3シーズン)
+  - [ハロージャドゥ](https://ja.wikipedia.org/wiki/ハロージャドゥ "wikilink") (韓国名:, English:Hello Jadoo, 2011.7-2016.2, 全3シーズン)
 
 </div>
 

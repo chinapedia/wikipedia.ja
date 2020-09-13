@@ -1,7 +1,7 @@
 > この記事は[FIFAワールドカップ](https://ja.wikipedia.org/wiki/FIFAワールドカップ)から翻訳されています。
 
 
-**FIFAワールドカップ**（）は、[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")（FIFA）が主催する、男子[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の[世界選手権大会](../Page/世界選手権大会.md "wikilink")。サッカーの大会の世界最高峰と位置付けられ、全世界の総視聴者数が35億人を超え\[1\] [テレビ](../Page/テレビ.md "wikilink")視聴者数や経済効果は[オリンピックを凌ぐ世界最大の](../Page/近代オリンピック.md "wikilink")[スポーツ](../Page/スポーツ.md "wikilink")イベント\[2\]。大抵は年度を付加して“FIFAワールドカップ \[開催国\] \[年度\]”（英: FIFA WORLD CUP \[country\] \[year\]）などのように呼称される。
+[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Passarella_world_cup.jpg "wikilink") **FIFAワールドカップ**（）は、[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")（FIFA）が主催する、男子[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の[世界選手権大会](../Page/世界選手権大会.md "wikilink")。サッカーの大会の世界最高峰と位置付けられ、全世界の総視聴者数が35億人を超え\[1\] [テレビ](../Page/テレビ.md "wikilink")視聴者数や経済効果は[オリンピックを凌ぐ世界最大の](../Page/近代オリンピック.md "wikilink")[スポーツ](../Page/スポーツ.md "wikilink")イベント\[2\]。大抵は年度を付加して“FIFAワールドカップ \[開催国\] \[年度\]”（英: FIFA WORLD CUP \[country\] \[year\]）などのように呼称される。
 
 [女子の世界選手権大会については](../Page/女子サッカー.md "wikilink")[FIFA女子ワールドカップ](../Page/FIFA女子ワールドカップ.md "wikilink")を、[クラブチーム](../Page/クラブチーム.md "wikilink")の世界選手権大会については[FIFAクラブワールドカップ](../Page/FIFAクラブワールドカップ.md "wikilink")を参照。
 
@@ -2327,7 +2327,7 @@ FIFAワールドカップの開催国は、初期から[1974年大会](../Page/1
 41.
 42. [Unanimous decision expands FIFA World Cup™ to 48 teams from 2026-国際サッカー連盟公式HP、2017年1月10日](https://www.fifa.com/about-fifa/news/y=2017/m=1/news=fifa-council-unanimously-decides-on-expansion-of-the-fifa-world-cuptm--2863100.html)
 43.
-44. [『大住氏日経サッカーコラム60.「ワールドカップの持ち回りシステム終了」から見えてくるもの』](http://web.archive.org/web/20080505082551/http://sports.nikkei.co.jp/soccer/column/osumi.aspx?n=MMSOca021002112007)
+44. [『大住氏日経サッカーコラム60.「ワールドカップの持ち回りシステム終了」から見えてくるもの』](https://web.archive.org/web/20080505082551/http://sports.nikkei.co.jp/soccer/column/osumi.aspx?n=MMSOca021002112007)
 45.
 46. 『[産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink")』[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月11日](../Page/5月11日.md "wikilink") [【サッカーW杯招致】2022年大会招致に一本化、大阪の新スタジアムなど13会場で 2010.5.11 20:23](http://sankei.jp.msn.com/sports/soccer/100511/scr1005112024016-n1.htm)
 47.

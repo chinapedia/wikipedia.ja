@@ -35,7 +35,7 @@
 
   - [フジテレビホームページ](https://www.fujitv.co.jp/index.html) - アナルームニュースに詳細
 
-  - [（Web archiveのキャッシュ）「フジアナCD発売」](http://web.archive.org/web/19980211231518/http://www.zakzak.co.jp/geino/n-September97/nws1249.html)
+  - [（Web archiveのキャッシュ）「フジアナCD発売」](https://web.archive.org/web/19980211231518/http://www.zakzak.co.jp/geino/n-September97/nws1249.html)
 
   -
 [Category:フジテレビのアナウンサー](https://ja.wikipedia.org/wiki/Category:フジテレビのアナウンサー "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:フジテレビの番組発のグループ](https://ja.wikipedia.org/wiki/Category:フジテレビの番組発のグループ "wikilink")

@@ -337,45 +337,50 @@
 <td><p>福井県のニュース</p></td>
 </tr>
 <tr class="even">
-<td><p>河島康一</p></td>
-<td><p><a href="../Page/NHK室蘭放送局.md" title="wikilink">室蘭</a></p></td>
+<td><p><a href="../Page/大谷舞風.md" title="wikilink">大谷舞風</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/高鍬亮" title="wikilink">高鍬亮</a></p></td>
+<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>羽生ちひろ</p></td>
 <td></td>
 <td><p>ニュースザウルスふくい<br />
 ザウルス!今夜も掘らナイト</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>太田実穂</p></td>
 <td></td>
 <td><p>ニュースザウルスふくい</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>今村有希</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>北川玲子</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/二村千津子" title="wikilink">二村千津子</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/羽鳥慎一" title="wikilink">羽鳥慎一</a><a href="../Page/モーニングショー.md" title="wikilink">モーニングショー</a><br />
-（<a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>）</p></td>
+（<a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>）など多数出演</p></td>
 <td><p>ニュースザウルスふくい</p></td>
 </tr>
 </tbody>
@@ -404,7 +409,7 @@
   - [NHK福井放送局](https://www.nhk.or.jp/fukui/)
 
   -
-[Category:NHK福井](https://ja.wikipedia.org/wiki/Category:NHK福井 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:東海・北陸地方のテレビ局](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビ局 "wikilink") [Category:東海・北陸地方のラジオ局](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のラジオ局 "wikilink")
+[Category:NHK福井](https://ja.wikipedia.org/wiki/Category:NHK福井 "wikilink") [Category:福井県のマスメディア](https://ja.wikipedia.org/wiki/Category:福井県のマスメディア "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:東海・北陸地方のテレビ局](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビ局 "wikilink") [Category:東海・北陸地方のラジオ局](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のラジオ局 "wikilink")
 
 1.
 2.

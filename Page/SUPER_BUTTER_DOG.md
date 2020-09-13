@@ -600,6 +600,6 @@ TOBF-5611～12:通常盤</p></td>
   - [ohana](http://www.kimochiwaburenai.com/)
   - [100s](http://www.100s.jp/)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:ファンク](https://ja.wikipedia.org/wiki/Category:ファンク "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:ファンク](https://ja.wikipedia.org/wiki/Category:ファンク "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:1994年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1994年に結成した音楽グループ "wikilink") [Category:2003年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に解散した音楽グループ "wikilink") [Category:2007年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2007年に再結成した音楽グループ "wikilink") [Category:2008年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2008年に解散した音楽グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink")
 
 1.  DVD「TOUR ザ・グッパイ」のメンバーによる副音声コメントより。

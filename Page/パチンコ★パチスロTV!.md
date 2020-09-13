@@ -24,77 +24,78 @@
 
 2009年10月の番組改編より、原則として毎日夜間に全番組の初回放送が集中する編成になっている。 {{-}}
 
-  - 2020年1月からの番組編成
+  - 2020年7月からの番組編成
 
 <table>
 <thead>
 <tr class="header">
 <th><p>曜日・時間帯</p></th>
-<th><p>20時台</p></th>
 <th><p>21時台</p></th>
 <th><p>22時台</p></th>
 <th><p>23時台</p></th>
+<th><p>24時台</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>月曜日</p></td>
 <td><p>（再放送）</p></td>
-<td><p>(00-)<a href="https://ja.wikipedia.org/wiki/大崎一万発" title="wikilink">万発</a>・ヤングのパチンコロックンロールDX<br />
-(30-)パチってる場合ですよ!</p></td>
-<td><p>【1,3週】ヤンキーララバイ<br />
+<td><p>(00)<a href="https://ja.wikipedia.org/wiki/大崎一万発" title="wikilink">万発</a>・ヤングのパチンコロックンロールDX<br />
+(30)パチってる場合ですよ!</p></td>
+<td><p>【1,3週】<a href="../Page/ヤンキーララバイ.md" title="wikilink">ヤンキーララバイ</a><br />
 【2,4週】ビワコのラブファイター</p></td>
-<td><p>（前日21時台の再放送）</p></td>
+<td><p>（前日22時台の再放送）</p></td>
 </tr>
 <tr class="even">
 <td><p>火曜日</p></td>
-<td><p>パチテレ!情報プラスHYPER</p></td>
-<td><p>S-1 GRAND PRIX</p></td>
-<td><p>【1,3週】（前日21時台の再放送）<br />
-【2,4週】(00-)マニアの遺言<br />
-(30-)パチ&amp;スロ スタジアム</p></td>
+<td><p>【1,3週】水瀬＆<a href="https://ja.wikipedia.org/wiki/かおりっきぃ☆" title="wikilink">りっきぃ☆のロックオン</a><br />
+【2,4週】そうだ、遊びに行こう</p></td>
+<td><p>射駒タケシの攻略スロットVII</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>水曜日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ぱちタウンTV" title="wikilink">ぱちタウンTV</a></p></td>
-<td><p>【1,3週】そうだ、遊びに行こう<br />
-【2,4週】ハセガワヤングマン</p></td>
-<td><p>射駒タケシの攻略スロットVII</p></td>
-<td><p>（前日21時台の再放送）</p></td>
+<td><p>(00)マニアの遺言（隔週更新）<br />
+(30)パチテレ!情報プラスHYPER</p></td>
+<td><p>【1,3週】<a href="https://ja.wikipedia.org/wiki/木村魚拓の窓際の向こうに" title="wikilink">木村魚拓の窓際の向こうに</a><br />
+【2,4週】スロじぇくとC</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>木曜日</p></td>
 <td><p>（再放送）</p></td>
-<td><p>パチンコ実戦塾</p></td>
-<td><p>満天!アゲ×2クインテット</p></td>
-<td><p>（前日21時台の再放送）</p></td>
+<td><p>【1,3週】ハセガワヤングマン<br />
+【2,4週】<a href="https://ja.wikipedia.org/wiki/沖ヒカル" title="wikilink">沖に召すままに</a>!</p></td>
+<td><p>S-1 GRAND PRIX</p></td>
+<td><p>【1,3週】<a href="../Page/玉袋筋太郎.md" title="wikilink">玉袋筋太郎</a>のレトロパチンコDX<br />
+【2,4週】(00)スロストバーへようこそ<br />
+(30)パチテレ!情報プラスHYPER[再］</p></td>
 </tr>
 <tr class="odd">
 <td><p>金曜日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/嵐・梅屋のスロッターズジャーニー" title="wikilink">嵐・梅屋のスロッターズ☆ジャーニー</a></p></td>
+<td><p>パチンコ実戦塾</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヒロシ・ヤング" title="wikilink">ヒロシ・ヤング</a>アワー</p></td>
-<td></td>
+<td><p>（前日22時台の再放送）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>土曜日</p></td>
-<td><p>【1,3週】パチテレマンスリー特番<br />
-【2,4週】三流×3</p></td>
+<td><p>【1,3週】TAI×MAN<br />
+【2,4週】パチテレマンスリー特番</p></td>
 <td><p>【1,3週】黄昏☆びんびん物語<br />
-【2,4週】水瀬＆<a href="https://ja.wikipedia.org/wiki/かおりっきぃ☆" title="wikilink">りっきぃ☆のロックオン</a></p></td>
-<td><p>【1,3週】（前日21時台の再放送）<br />
-【2,4週】(00-)ユニバTV3<br />
-(30-)パチテレ!アーカイブ</p></td>
+【2,4週】PPSLタッグリーグ</p></td>
+<td><p>【1,3週】(00)ユニバTV3<br />
+(30)水瀬＆りっきぃ☆のロックオン[再]<br />
+【2,4週】パチンコ実戦塾[再］</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>日曜日</p></td>
-<td><p>【1,3週】<a href="https://ja.wikipedia.org/wiki/木村魚拓の窓際の向こうに" title="wikilink">木村魚拓の窓際の向こうに</a><br />
-【2,4週】スロじぇくとC</p></td>
-<td><p>【1,3週】TAI×MAN<br />
-【2,4週】PPSLタッグリーグ</p></td>
-<td><p>（前日21時台の再放送）</p></td>
+<td><p>満天!アゲ×2クインテット</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/嵐・梅屋のスロッターズジャーニー" title="wikilink">嵐・梅屋のスロッターズ☆ジャーニー</a></p></td>
+<td><p>（前日22時台の再放送）</p></td>
 <td></td>
 </tr>
 <tr class="even">

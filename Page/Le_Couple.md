@@ -458,7 +458,7 @@
 
 <references />
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:1990年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1990年に結成した音楽グループ "wikilink") [Category:2007年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2007年に解散した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:1990年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1990年に結成した音楽グループ "wikilink") [Category:2007年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2007年に解散した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")
 
 1.
 2.  \[A-music <http://www.a-music.co/>\]

@@ -893,7 +893,7 @@ DVD「VIDEO CLIPS Vol.2」を付属した2枚組。</p></td>
 
   - [ランクヘッドBLOG](http://blog.livedoor.jp/lunkhead_nikki/)
 
-  - [LUNKHEAD｜Victor Entertainment](http://www.jvcmusic.co.jp/-/Artist/A018420.html)
+  - [LUNKHEAD｜Victor Entertainment](https://www.jvcmusic.co.jp/-/Artist/A018420.html)
 
   - [LUNKHEADメジャーデビュー10周年特設サイト](http://lunkhead10th.info/)
 

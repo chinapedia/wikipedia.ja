@@ -35,7 +35,7 @@
   - [和歌山放送](../Page/和歌山放送.md "wikilink") 　土曜23:00～23:30
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink") 　土曜22:00～22:30
   - [山口放送](../Page/山口放送.md "wikilink") 　土曜22:00～22:30
-  - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") 　土曜23:00～23:30
+  - [四国放送](../Page/四国放送.md "wikilink") 　土曜23:00～23:30
   - [西日本放送](../Page/西日本放送.md "wikilink") 　日曜22:30～23:00
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink") 　土曜22:30～24:00
   - [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink") 　日曜22:30～23:00

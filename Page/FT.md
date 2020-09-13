@@ -12,9 +12,9 @@
   - [フリータイム](../Page/フリータイム.md "wikilink") () - 貿易用語
   - [フィッショントラック法](../Page/フィッショントラック法.md "wikilink") () - 放射性年代測定法
   - 商品名・作品名・社名等
-      - [フィナンシャル・タイムズ](../Page/フィナンシャル・タイムズ.md "wikilink") () - イギリスの日刊紙
+      - [フィナンシャル・タイムズ](../Page/フィナンシャル・タイムズ.md "wikilink") () - イギリスの日刊紙。[日経傘下](../Page/日本経済新聞社.md "wikilink")。
       - [フォレックス・トレード](https://ja.wikipedia.org/wiki/フォレックス・トレード "wikilink") () - 日本のFX会社
-      - [フォーミュラ・トヨタ](../Page/フォーミュラ・トヨタ.md "wikilink") () - トヨタ自動車が主催する自動車レース
+      - [フォーミュラ・トヨタ](../Page/フォーミュラ・トヨタ.md "wikilink") () - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が主催する自動車レース
       - [フォーバルテレコム](../Page/フォーバルテレコム.md "wikilink") () - 日本の通信会社。IP電話「[FTフォン](https://ja.wikipedia.org/wiki/FTフォン "wikilink")」を運営。
       - [FT (店舗ブランド)](https://ja.wikipedia.org/wiki/FT_\(店舗ブランド\) "wikilink") - [イオンリテール](../Page/イオンリテール.md "wikilink")が運営する商業施設。
       - [FAIRY TAIL](../Page/FAIRY_TAIL.md "wikilink") - [真島ヒロ](../Page/真島ヒロ.md "wikilink")の漫画
@@ -26,6 +26,7 @@
   - [フェリーターミナル](https://ja.wikipedia.org/wiki/フェリーターミナル "wikilink") ()
   - [ファーストトップ](https://ja.wikipedia.org/wiki/フォワード_\(サッカー\)#センターフォワード "wikilink")() - サッカーのポジションであるセンターフォワードの別名。
   - [自由語](https://ja.wikipedia.org/wiki/自由語 "wikilink")（）- 統制語彙に対する語。同義語や表記揺れが統制されていない。
+  - [予報時刻](https://ja.wikipedia.org/wiki/予報時刻 "wikilink")（）- [数値予報天気図](https://ja.wikipedia.org/wiki/数値予報天気図 "wikilink")における基準時間。FT=0は00 [UTC](https://ja.wikipedia.org/wiki/UTC "wikilink")における初期値メソモデル予報値で、FT24は、その24時間後の推定値\[1\]。
 
 ## Ft
 
@@ -41,3 +42,7 @@
 ## F/T
 
   - [フェスティバル/トーキョー](https://ja.wikipedia.org/wiki/フェスティバル/トーキョー "wikilink") - [東京都](../Page/東京都.md "wikilink")内で開催される[演劇](../Page/演劇.md "wikilink")祭
+
+## 脚注
+
+1.

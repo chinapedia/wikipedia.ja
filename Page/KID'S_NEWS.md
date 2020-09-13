@@ -5,13 +5,13 @@
 
 ## 概要
 
-[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列局25局および[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")の[テレビ岩手](../Page/テレビ岩手.md "wikilink")\[1\] ・[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")、[独立UHF局の](../Page/全国独立放送協議会.md "wikilink")[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")、[CSのチャンネルである](../Page/衛星放送.md "wikilink")[朝日ニュースター](../Page/朝日ニュースター.md "wikilink")の各局・チャンネルで放送された。
+[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列局25局および[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")の[テレビ岩手](../Page/テレビ岩手.md "wikilink")\[1\] ・[四国放送](../Page/四国放送.md "wikilink")、[独立UHF局の](../Page/全国独立放送協議会.md "wikilink")[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")、[CSのチャンネルである](../Page/衛星放送.md "wikilink")[朝日ニュースター](../Page/朝日ニュースター.md "wikilink")の各局・チャンネルで放送された。
 
-関東地区でテレビ朝日にネットされていた頃には、テレビ埼玉との2局で同じ内容を時差放映している形（しかも毎週土曜日と放送日が同じ）となっていた。
+関東地区でテレビ朝日にネットされていた頃には、テレビ埼玉との2局で同日に同じ内容を時差放映している形となっていた。
 
 放送時間はキー局の北陸朝日放送やほか数局を除くほとんどの局で土曜か日曜の早朝となっている。
 
-番組は[クロマキー](../Page/クロマキー.md "wikilink")という技術を用いて実写の出演者と[CG](../Page/コンピュータグラフィックス.md "wikilink")[キャラクター](../Page/キャラクター.md "wikilink")を合成している。
+番組は[クロマキー](../Page/クロマキー.md "wikilink")を用いて実写の出演者と[CG](../Page/コンピュータグラフィックス.md "wikilink")[キャラクター](../Page/キャラクター.md "wikilink")を合成している。
 
 2009年3月をもって番組終了。後継番組は『[ASAHI Pop'n' Press\!](https://ja.wikipedia.org/wiki/ASAHI_Pop'n'_Press! "wikilink")』。
 
@@ -70,8 +70,8 @@
 | [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink") | [青森朝日放送](../Page/青森朝日放送.md "wikilink")                      | 日曜 6時15分～6時30分                                                              | 不明               |      |         |
 | [福島県](../Page/福島県.md "wikilink")                    | [福島放送](../Page/福島放送.md "wikilink")                          | 1日遅れ                                                                        |                  |      |         |
 
-  - [テレビ朝日](../Page/テレビ朝日.md "wikilink")、[福井放送](../Page/福井放送.md "wikilink")（[日本テレビ系列との](../Page/日本テレビネットワーク協議会.md "wikilink")[クロスネット局](../Page/クロスネット局.md "wikilink")）、[静岡朝日テレビ](../Page/静岡朝日テレビ.md "wikilink")、[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")および[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")（日本テレビ系列）は放送期間途中でネットを打ち切った。
-  - [岩手県](../Page/岩手県.md "wikilink")では[岩手朝日テレビ](../Page/岩手朝日テレビ.md "wikilink")開局前に[テレビ岩手](../Page/テレビ岩手.md "wikilink")(日本テレビ系列)が番組購入の形で1995年2月から毎週土曜朝6:00～6:15の時間帯で放送されたが，IAT開局が1年後の1996年10月と決まったことから1995年9月をもって同番組は打ち切られた。
+  - [テレビ朝日](../Page/テレビ朝日.md "wikilink")、[福井放送](../Page/福井放送.md "wikilink")（[日本テレビ系列との](../Page/日本テレビネットワーク協議会.md "wikilink")[クロスネット局](../Page/クロスネット局.md "wikilink")）、[静岡朝日テレビ](../Page/静岡朝日テレビ.md "wikilink")、[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")および[四国放送](../Page/四国放送.md "wikilink")（日本テレビ系列）は放送期間途中でネットを打ち切った。
+  - [岩手県](../Page/岩手県.md "wikilink")では[テレビ岩手](../Page/テレビ岩手.md "wikilink")(日本テレビ系列)が番組購入の形で1995年2月から毎週土曜朝6:00～6:15の時間帯で放送されたが、[岩手朝日テレビ](../Page/岩手朝日テレビ.md "wikilink")開局が1年後の1996年10月と決まったことから1995年9月をもって同番組は打ち切られた。
 
 ## 関連項目
 
@@ -83,7 +83,7 @@
 
 ## 外部リンク
 
-  - [北陸朝日放送 KID'S NEWS](http://web.archive.org/web/20090503134820/http://hab.co.jp/bangumi/kids/newkids.html) - 閉鎖。（2009年5月3日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [北陸朝日放送 KID'S NEWS](https://web.archive.org/web/20090503134820/http://hab.co.jp/bangumi/kids/newkids.html) - 閉鎖。（2009年5月3日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
 [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink") [Category:北陸朝日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:北陸朝日放送のテレビ番組 "wikilink") [Category:東海・北陸地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:ローカルテレビ局の子供向け番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の子供向け番組 "wikilink") [Category:朝日ニュースター](https://ja.wikipedia.org/wiki/Category:朝日ニュースター "wikilink")
 

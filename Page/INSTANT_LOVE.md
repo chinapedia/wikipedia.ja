@@ -1,7 +1,7 @@
 > この記事は[INSTANT LOVE](https://ja.wikipedia.org/wiki/INSTANT_LOVE)から翻訳されています。
 
 
-『**INSTANT LOVE**』（インスタント・ラブ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のロックバンドである[BOØWYの](../Page/BOOWY.md "wikilink")2枚目のアルバム。
+『**INSTANT LOVE**』（インスタント・ラブ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のロックバンドである[BOØWY](../Page/BOØWY.md "wikilink")の2枚目のアルバム。
 
 ## 背景
 
@@ -46,7 +46,7 @@
 
 ## プロモーション
 
-本作のリリース前に、契約したジャパンレコードが徳間音楽工業に吸収され、徳間ジャパン（後の[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")）という新しい会社となってしまったため、[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")に関する全ての宣伝費がカットされてしまう。そのため、ポスター作成の依頼も断られてしまい、メンバー自らがアルバイト等で得た収入を元に、手作業でポスターや告知を作成することとなった\[9\]。
+本作のリリース前に、契約したジャパンレコードが徳間音楽工業に吸収され、徳間ジャパン（後の[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")）という新しい会社となってしまったため、[BOØWY](../Page/BOØWY.md "wikilink")に関する全ての宣伝費がカットされてしまう。そのため、ポスター作成の依頼も断られてしまい、メンバー自らがアルバイト等で得た収入を元に、手作業でポスターや告知を作成することとなった\[9\]。
 
 その最中、唯一プロモーション用宣材として限定300枚のみ配布されたシングル「OH\! MY JULLY」のB面曲、「FUNNY-BOY」をセルフ・プローモションとしてメンバーがアポなしで足を運び\[10\]、新宿有線で連続1位を獲得、ライブハウスの動員数が増えるにつれ、徐々に業界から注目されるようになる。
 
@@ -142,7 +142,7 @@ CT</p></td>
 <td><p>CD</p></td>
 <td><p>TOCT-6391</p></td>
 <td><p>2位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CD-BOX" title="wikilink">CD-BOX</a>『<a href="../Page/BOOWY_COMPLETE.md" title="wikilink">BOØWY COMPLETE</a> LIMITED EDITION』収録</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/CD-BOX" title="wikilink">CD-BOX</a>『<a href="../Page/BOØWY_COMPLETE.md" title="wikilink">BOØWY COMPLETE</a> LIMITED EDITION』収録</p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
@@ -277,7 +277,7 @@ CT</p></td>
     <!-- end list -->
 
       -
-        当初のタイトルは「FUNK POP」。キーボードで演奏されている部分は、元々は深沢がサックスで演奏していた。高橋まことのお気に入りで、一度だけライブでボーカルを取った事もある（氷室がドラム、布袋がベース、松井がギター）。
+        当初のタイトルは「FUNK POP」。キーボードで演奏されている部分は、元々は深沢がサックスで演奏していた。高橋まことのお気に入りで、一度だけライブでボーカルを取った事もある（氷室がドラム、布袋がベース、松井がギター）。2016年4月13日に発売された氷室京介:オールキャリア・ベストアルバム「L'ÉPILOGUE」では\[symphonic デモ音源　2016年Ver\]として氷室京介がこの曲をリテイクしたものが期間限定配信で封入されていた。(2016年5月23日(月)23:59をもってこの配信は終了しているので現在は入手不可)
 
 5.  **THIS MOMENT** (5:41)
 
@@ -325,7 +325,7 @@ CT</p></td>
 
 1.
 2.
-3.  紺待人「ライナーノーツ」『[BOØWY COMPLETE](https://ja.wikipedia.org/wiki/BOØWY_COMPLETE "wikilink")』、東芝EMI、1991年。
+3.  紺待人「ライナーノーツ」『[BOØWY COMPLETE](../Page/BOØWY_COMPLETE.md "wikilink")』、東芝EMI、1991年。
 4.
 5.
 6.

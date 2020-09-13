@@ -3,17 +3,17 @@
 
 **ART-SCHOOL**（アートスクール）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[オルタナティヴ・ロック](../Page/オルタナティヴ・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。
 
-[ソロ](https://ja.wikipedia.org/wiki/ソロ "wikilink")[シンガーとして活動していた木下理樹が](../Page/歌手.md "wikilink")[2000年](../Page/2000年.md "wikilink")3月に結成、[2002年](../Page/2002年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")に東芝EMIより「DIVA」でメジャーデビュー。略称は「**アート**」。 現在、[木下理樹](../Page/木下理樹.md "wikilink")が自主レーベル「Warszawa-Label」を立ち上げて活動。レーベル第1弾作品としてART-SCHOOLのライブDVD「ART-SCHOOL LIVE 〜2015.02.13 at STUDIO COAST〜」を2015年5月20日にリリースしている。
+[ソロ](../Page/ソロ.md "wikilink")[シンガーとして活動していた木下理樹が](../Page/歌手.md "wikilink")[2000年](../Page/2000年.md "wikilink")3月に結成、[2002年](../Page/2002年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")に東芝EMIより「DIVA」でメジャーデビュー。略称は「**アート**」。 現在、[木下理樹](../Page/木下理樹.md "wikilink")が自主レーベル「Warszawa-Label」を立ち上げて活動。レーベル第1弾作品としてART-SCHOOLのライブDVD「ART-SCHOOL LIVE 〜2015.02.13 at STUDIO COAST〜」を2015年5月20日にリリースしている。
 
 ## メンバー
 
   - **[木下理樹](../Page/木下理樹.md "wikilink")**（きのした りき） - ボーカル、ギター、主な[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink") 担当。
-      - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（[昭和](../Page/昭和.md "wikilink")53年）[10月14日](../Page/10月14日.md "wikilink")生まれ。[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")出身。[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。通称「リッキー」、「きのこ」。
+      - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（[昭和](../Page/昭和.md "wikilink")53年）[10月14日](../Page/10月14日.md "wikilink")生まれ。[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")出身。[O型](../Page/ABO式血液型.md "wikilink")。通称「リッキー」、「きのこ」。
 
 <!-- end list -->
 
   - '''戸高賢史 '''（とだか まさふみ） - ギター担当。
-      - [1982年](../Page/1982年.md "wikilink")（昭和57年）[7月22日](../Page/7月22日.md "wikilink")生まれ。[大分県](../Page/大分県.md "wikilink")[佐伯市](../Page/佐伯市.md "wikilink")出身。[大分県立佐伯鶴城高等学校](../Page/大分県立佐伯鶴城高等学校.md "wikilink")卒業。[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。通称「Toddy」。
+      - [1982年](../Page/1982年.md "wikilink")（昭和57年）[7月22日](../Page/7月22日.md "wikilink")生まれ。[大分県](../Page/大分県.md "wikilink")[佐伯市](../Page/佐伯市.md "wikilink")出身。[大分県立佐伯鶴城高等学校](../Page/大分県立佐伯鶴城高等学校.md "wikilink")卒業。[A型](../Page/ABO式血液型.md "wikilink")。通称「Toddy」。
       - [Ropes](https://ja.wikipedia.org/wiki/Ropes "wikilink")でアチコと共に活動。海外バンドのサポートアクトやKaikoo Fesなどにも参加している。
       - [エフェクター](../Page/エフェクター.md "wikilink")製作も手がけ、自身のブランド「Phantom FX」よりペダルをリリースしている。[ギターマガジン](https://ja.wikipedia.org/wiki/ギターマガジン "wikilink")誌で[コラム](https://ja.wikipedia.org/wiki/コラム "wikilink")を連載している。
       - [坂本美雨](https://ja.wikipedia.org/wiki/坂本美雨 "wikilink")や[TK from 凛として時雨など](https://ja.wikipedia.org/wiki/北嶋徹 "wikilink")、サポートワークも多数こなしている。
@@ -24,7 +24,7 @@
 
   - **[中尾憲太郎](../Page/中尾憲太郎.md "wikilink")**（なかお けんたろう）- ベース担当。
   - '''櫻井雄一 '''（さくらい ゆういち）- ドラム担当。
-      - [1973年](../Page/1973年.md "wikilink")（昭和48年）[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")生まれ、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[高崎市](../Page/高崎市.md "wikilink")出身。[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。通称「おっさん」。
+      - [1973年](../Page/1973年.md "wikilink")（昭和48年）[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")生まれ、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[高崎市](../Page/高崎市.md "wikilink")出身。[B型](../Page/ABO式血液型.md "wikilink")。通称「おっさん」。
       - [2009年](../Page/2009年.md "wikilink")（平成21年）4月脱退発表（2008年夏頃には脱退）。[2012年](../Page/2012年.md "wikilink")現在はMarvelous、[ランクヘッド](https://ja.wikipedia.org/wiki/ランクヘッド "wikilink")（後に正式加入）、ART-SCHOOLのサポートメンバーとして活動中。
       - 右利き用セッティングで[オープンハンド](../Page/オープンハンド.md "wikilink")奏法を用いる（初期は左利き用セッティングだった）。
   - **藤田勇**（ふじた いさむ）- ドラム担当。
@@ -59,7 +59,7 @@
 
 ## 来歴
 
-[ソロ](https://ja.wikipedia.org/wiki/ソロ "wikilink")[シンガーとして活動していた木下理樹が](../Page/歌手.md "wikilink")、その[バックミュージシャン](https://ja.wikipedia.org/wiki/バックミュージシャン "wikilink")を務めていた櫻井雄一（ドラム）、日向秀和（ベース）と、友人の紹介で知り合った大山純（ギター）を誘い2000年3月に結成\[1\]。バンド名は当初「オレンジ」「キャンディストア」といった候補が挙がったが、木下がアメリカの[インディー・ロック](https://ja.wikipedia.org/wiki/インディー・ロック "wikilink")バンド、[ペイヴメント](../Page/ペイヴメント.md "wikilink")を意識していくうちに浮かんだ「ART-SCHOOL」というバンド名に決定した。
+[ソロ](../Page/ソロ.md "wikilink")[シンガーとして活動していた木下理樹が](../Page/歌手.md "wikilink")、その[バックミュージシャン](https://ja.wikipedia.org/wiki/バックミュージシャン "wikilink")を務めていた櫻井雄一（ドラム）、日向秀和（ベース）と、友人の紹介で知り合った大山純（ギター）を誘い2000年3月に結成\[1\]。バンド名は当初「オレンジ」「キャンディストア」といった候補が挙がったが、木下がアメリカの[インディー・ロック](https://ja.wikipedia.org/wiki/インディー・ロック "wikilink")バンド、[ペイヴメント](../Page/ペイヴメント.md "wikilink")を意識していくうちに浮かんだ「ART-SCHOOL」というバンド名に決定した。
 
 [2000年](../Page/2000年.md "wikilink")、[the pillowsや](https://ja.wikipedia.org/wiki/the_pillows "wikilink")[BUMP OF CHICKENのスタッフが集まって興したレーベル](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")\[2\]123RECORDSより『SONIC DEAD KIDS』でインディーズデビュー。
 
@@ -1265,14 +1265,14 @@ PCCA-02314:通常盤</p></td>
   -
   - [ART-SCHOOL「SCHOOL HELL\!\!」](http://blog.excite.co.jp/art-school/) - Excite Music連載ブログ
 
-  - [ART-SCHOOL](http://web.archive.org/web/20020604013148/http://123records.net/as-index.html) - 旧公式ウェブサイト（2002年6月4日の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [ART-SCHOOL](https://web.archive.org/web/20020604013148/http://123records.net/as-index.html) - 旧公式ウェブサイト（2002年6月4日の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
   - [Ghost Waltz\!\! 2nd](http://toddyphantom.jugem.jp//) - 戸高によるブログ
 
   -
   -
   -
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:ポスト・グランジ・バンド](https://ja.wikipedia.org/wiki/Category:ポスト・グランジ・バンド "wikilink") [Category:ローファイ・バンド](https://ja.wikipedia.org/wiki/Category:ローファイ・バンド "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアーティスツ "wikilink") [Category:2000年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に結成した音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
+[Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:ポスト・グランジ・バンド](https://ja.wikipedia.org/wiki/Category:ポスト・グランジ・バンド "wikilink") [Category:ローファイ・バンド](https://ja.wikipedia.org/wiki/Category:ローファイ・バンド "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアーティスツ "wikilink") [Category:2000年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に結成した音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
 
 1.  [『ART-SCHOOL』 SPECIAL INTERVIEW](http://www.hotexpress.co.jp/interview/artschool/)hotexpress
 2.  [UK PROJIECT/LABEL/123 RECORDS](http://www.ukproject.com/label/123.html)

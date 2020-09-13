@@ -17,7 +17,7 @@
   - 2005年[4月8日](../Page/4月8日.md "wikilink") - [ぱんちょDEブラボー\!](https://ja.wikipedia.org/wiki/ぱんちょDEブラボー! "wikilink")　※製作／Raccoon
   - 2005年[6月24日](../Page/6月24日.md "wikilink") - [ぱ・ぴ・こ・ん](https://ja.wikipedia.org/wiki/ぱ・ぴ・こ・ん "wikilink")
   - 2005年[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink") - [あやつりブルマー](https://ja.wikipedia.org/wiki/あやつりブルマー "wikilink")　※製作／HummerHeads
-  - 2005年[7月29日](../Page/7月29日.md "wikilink") - [SWAN SONG](../Page/SWAN_SONG.md "wikilink")　※製作／[フライングシャイン](../Page/フライングシャイン.md "wikilink")
+  - 2005年[7月29日](../Page/7月29日.md "wikilink") - [SWAN SONG](https://ja.wikipedia.org/wiki/SWAN_SONG_\(ゲーム\) "wikilink")　※製作／[フライングシャイン](../Page/フライングシャイン.md "wikilink")
   - 2005年[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink") - [屋根づたいの君へ](../Page/屋根づたいの君へ.md "wikilink")　※制作／[KLEIN](https://ja.wikipedia.org/wiki/KLEIN_\(ゲームブランド\) "wikilink")
   - 2005年[12月22日](../Page/12月22日.md "wikilink") - CANDY GIRL ※以下、制作・販売／[LiLiM](../Page/LiLiM.md "wikilink")
   - [2006年](../Page/2006年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink") - 鬼道封神記

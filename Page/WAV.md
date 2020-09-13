@@ -1,7 +1,7 @@
 > この記事は[WAV](https://ja.wikipedia.org/wiki/WAV)から翻訳されています。
 
 
-**WAV**または**WAVE**（ウェーブ、ウェブ、ワブ） (RIFF waveform Audio Format) は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")と[IBM](../Page/IBM.md "wikilink")により開発された音声データ記述のための[フォーマットである](../Page/音声ファイルフォーマット.md "wikilink")。[RIFFの一種](../Page/Resource_Interchange_File_Format.md "wikilink")。主として[Windowsで使われるファイル形式である](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。[ファイルに格納した場合の](../Page/ファイル_\(コンピュータ\).md "wikilink")[拡張子](../Page/拡張子.md "wikilink")は、.wav。
+**WAV**または**WAVE**（ウェイヴ、ウェヴ、ワヴ） (RIFF waveform Audio Format) は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")と[IBM](../Page/IBM.md "wikilink")により開発された音声データ記述のための[フォーマットである](../Page/音声ファイルフォーマット.md "wikilink")。[RIFFの一種](../Page/Resource_Interchange_File_Format.md "wikilink")。主として[Windowsで使われるファイル形式である](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。[ファイルに格納した場合の](../Page/ファイル_\(コンピュータ\).md "wikilink")[拡張子](../Page/拡張子.md "wikilink")は、.wav。
 
 RIFF上の識別子は「WAVE」であるが、拡張子から、WAVフォーマットという呼び名が一般化した。音楽業界ではweb（ウェブ）と響きを区別する為に、ワブとも呼ばれる。
 

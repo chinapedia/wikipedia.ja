@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Sharp_PC-MM2-5NE.jpg "wikilink") **Mebius**（メビウス）は、[シャープ](../Page/シャープ.md "wikilink")が[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")まで販売していた[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")（[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")）、および[2014年](../Page/2014年.md "wikilink")から2016年まで販売していた[タブレットPC](../Page/タブレットPC.md "wikilink")の[ブランド](../Page/ブランド.md "wikilink")名。アメリカでは **Actius** や **WideNote**の名称であるが、ロゴのメビウスマークは日本と変わらない。
 
-当初、[デスクトップパソコン](../Page/デスクトップパソコン.md "wikilink")と[ノートパソコン](../Page/ノートパソコン.md "wikilink")が両立していたが、一時期（2000〜2004年頃）、デスクトップ型は消滅しノート型のみとなっていた。その後AV[サーバ](../Page/サーバ.md "wikilink")のTXシリーズがラインナップに加わり、一旦はデスクトップ型が復活していたが、インターネット[AQUOS](https://ja.wikipedia.org/wiki/AQUOS "wikilink")にとって代わられた。
+当初、[デスクトップパソコン](../Page/デスクトップパソコン.md "wikilink")と[ノートパソコン](../Page/ノートパソコン.md "wikilink")が両立していたが、一時期（2000〜2004年頃）、デスクトップ型は消滅しノート型のみとなっていた。その後AV[サーバ](../Page/サーバ.md "wikilink")のTXシリーズがラインナップに加わり、一旦はデスクトップ型が復活していたが、インターネット[AQUOSにとって代わられた](../Page/アクオス.md "wikilink")。
 
 [2009年](../Page/2009年.md "wikilink")をもってパソコンの生産を打ち切っていることを2010年10月21日に発表した\[1\]。この結果、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の[MZ-80K以来続いていたシャープのパソコン事業は](../Page/MZ_\(コンピュータ\).md "wikilink")31年の歴史に幕を一端閉じた。
 
@@ -114,7 +114,7 @@ IEEE 802.11b/g</p></td>
 (<a href="../Page/Ultra-Mobile_PC.md" title="wikilink">UMPC</a>)</p></td>
 <td><p>Intel<br />
 <a href="../Page/Intel_Atom.md" title="wikilink">Atom</a> Z520<br />
-1.33GHz</p></td>
+1.33 GHz</p></td>
 <td><p>RAM:1GB<br />
 HDD:40GB</p></td>
 <td><p>1.98MP</p></td>

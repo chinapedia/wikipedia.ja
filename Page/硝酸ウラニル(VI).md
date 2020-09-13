@@ -11,7 +11,7 @@
 
 無水和物、1、2、3、6水和物が知られているが、[風解](https://ja.wikipedia.org/wiki/風解 "wikilink")ないしは[潮解](https://ja.wikipedia.org/wiki/潮解 "wikilink")性を示し、6水和物が比較的安定である。無水和物は黄色の無定形粉末であり、2、3水和物は黄色結晶で，緑色の蛍光を発する。
 
-6水和物は UO<sub>3</sub> または U<sub>3</sub>O<sub>8</sub> を硝酸に溶かして濃縮すると，黄色斜方晶系柱状または板状晶として得られ、黄緑色の強い[蛍光](../Page/蛍光.md "wikilink")を発する。水に対する[溶解度](../Page/溶解度.md "wikilink")は52.0 g (15 {{℃}}) で、[エタノール](https://ja.wikipedia.org/wiki/エタノール "wikilink")、[ジエチルエーテル](../Page/ジエチルエーテル.md "wikilink")、[アセトン](../Page/アセトン.md "wikilink")などに溶け、[二硫化炭素](../Page/二硫化炭素.md "wikilink")、[ベンゼン](../Page/ベンゼン.md "wikilink")、[リグロイン](https://ja.wikipedia.org/wiki/リグロイン "wikilink")などには溶けない。
+6水和物は UO<sub>3</sub> または U<sub>3</sub>O<sub>8</sub> を硝酸に溶かして濃縮すると，黄色斜方晶系柱状または板状晶として得られ、黄緑色の強い[蛍光](../Page/蛍光.md "wikilink")を発する。水に対する[溶解度](../Page/溶解度.md "wikilink")は52.0 g (15 {{℃}}) で、[エタノール](../Page/エタノール.md "wikilink")、[ジエチルエーテル](../Page/ジエチルエーテル.md "wikilink")、[アセトン](../Page/アセトン.md "wikilink")などに溶け、[二硫化炭素](../Page/二硫化炭素.md "wikilink")、[ベンゼン](../Page/ベンゼン.md "wikilink")、[リグロイン](https://ja.wikipedia.org/wiki/リグロイン "wikilink")などには溶けない。
 
 ## 放射性
 

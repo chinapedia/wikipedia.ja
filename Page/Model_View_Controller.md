@@ -13,7 +13,7 @@
 
 ## MVCの歴史
 
-  - 1979年: [パロアルト研究所](../Page/パロアルト研究所.md "wikilink")にてTrygve Reenskaugが考案。\[1\]\[2\]長い間、Smalltalk-80の実装のみが公開され、MVCに関する公開情報はなかった
+  - 1979年: [パロアルト研究所](../Page/パロアルト研究所.md "wikilink")にて[トリグヴェ・リーンスカウク](https://ja.wikipedia.org/wiki/トリグヴェ・リーンスカウク "wikilink")が考案。\[1\]\[2\]長い間、Smalltalk-80の実装のみが公開され、MVCに関する公開情報はなかった
   - 1988年: 最初の論文「A Cookbook for Using the Model-View-Controller User Interface Paradigm in Smalltalk -80」\[3\]が公開\[4\]
   - 1994年: 書籍「[Design Patterns:Elements of Reusable Object-Oriented Software](https://ja.wikipedia.org/wiki/デザインパターン_\(ソフトウェア\) "wikilink")」\[5\]内で取り上げられる
   - 1999年: MVCのサーバサイド実装として**JavaServer Pages Model 2**が発表\[6\]

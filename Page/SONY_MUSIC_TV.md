@@ -100,11 +100,12 @@
 
 ## 関連項目
 
-  - [TVKの過去に放送した番組](https://ja.wikipedia.org/wiki/テレビ神奈川番組放送一覧#過去に放送した番組 "wikilink")
-  - [TVKの過去の番組編成](https://ja.wikipedia.org/wiki/テレビ神奈川#過去の番組編成 "wikilink")
-  - SONY PRESENTS 名作洋画ノーカット10週 - [TBSで](../Page/TBSテレビ.md "wikilink")1980年代に深夜枠で放送されたソニー一社提供の映画番組。番組の最後に映画のビデオソフト（[β版](https://ja.wikipedia.org/wiki/ベータマックス "wikilink")）のプレゼントコーナーがあった。
-  - [録画チャンネル4.5](../Page/録画チャンネル4.5.md "wikilink") - [フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")1986年9月から1987年2月まで放送された番組。VHSビデオ陣営の家電メーカー各社が共同提供し、当番組のほぼ真裏の時間帯に編成されていた。詳細は当該項目参照。
-  - [年越し番組](https://ja.wikipedia.org/wiki/年越し番組 "wikilink")
+  - [録画チャンネル4.5](../Page/録画チャンネル4.5.md "wikilink") - VHS陣営の家電メーカー各社が共同提供。
+  - [BEAT UK](https://ja.wikipedia.org/wiki/BEAT_UK "wikilink")
+  - [ベストヒットUSA](../Page/ベストヒットUSA.md "wikilink")
+  - [billboard TOP40](https://ja.wikipedia.org/wiki/billboard_TOP40 "wikilink")
+  - [メガPOPキッス](https://ja.wikipedia.org/wiki/メガPOPキッス "wikilink")
+  - [5いっしょ3ちゃんねる](https://ja.wikipedia.org/wiki/5いっしょ3ちゃんねる "wikilink")
 
 ## 脚注
 

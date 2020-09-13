@@ -34,11 +34,13 @@
 
 | タイトル                                                                                   | 発売日                                                                                       | 品番         |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------- |
+| インディーズ                                                                                 |                                                                                           |            |
 | [SILK](https://ja.wikipedia.org/wiki/SILK_\(ROUAGEの曲\) "wikilink")                     | [1994年](../Page/1994年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")     | RSCD-001   |
 | [under the rose](https://ja.wikipedia.org/wiki/under_the_rose_\(ROUAGEの曲\) "wikilink") | 1994年[12月30日](../Page/12月30日.md "wikilink")                                               | NSCD-S1    |
 | [erasure](https://ja.wikipedia.org/wiki/erasure_\(ROUAGEの曲\) "wikilink")               | [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[1月7日](../Page/1月7日.md "wikilink") | NSCD-S2    |
 | [ARK/LEAVE](https://ja.wikipedia.org/wiki/ARK/LEAVE "wikilink")                        | 1995年[1月21日](../Page/1月21日.md "wikilink")                                                 | NSCD-S3    |
 | [理想郷](https://ja.wikipedia.org/wiki/理想郷_\(ROUAGEの曲\) "wikilink")                       | 1995年[7月5日](../Page/7月5日.md "wikilink")                                                   | RSCD-002   |
+| メジャー                                                                                   |                                                                                           |            |
 | [Queen](https://ja.wikipedia.org/wiki/Queen_\(ROUAGEの曲\) "wikilink")                   | 1996年4月22日                                                                                | PHDL-1057  |
 | [Insomnia](https://ja.wikipedia.org/wiki/Insomnia_\(ROUAGEの曲\) "wikilink")             | 1996年8月26日                                                                                | PHDL-1066  |
 | [白い闇](https://ja.wikipedia.org/wiki/白い闇_\(ROUAGEの曲\) "wikilink")                       | 1997年1月15日                                                                                | PHDL-1074  |
@@ -57,7 +59,9 @@
 
 | タイトル                                                                                            | 発売日         | 品番         |
 | ----------------------------------------------------------------------------------------------- | ----------- | ---------- |
+| インディーズ                                                                                          |             |            |
 | [ROUAGE](https://ja.wikipedia.org/wiki/ROUAGE_\(アルバム\) "wikilink")                              | 1994年7月20日  | RLCD-002-1 |
+| メジャー                                                                                            |             |            |
 | [BIBLE](https://ja.wikipedia.org/wiki/BIBLE_\(ROUAGEのアルバム\) "wikilink")                         | 1996年6月5日   | PHCL-5029  |
 | [MIND](https://ja.wikipedia.org/wiki/MIND_\(ROUAGEのアルバム\) "wikilink")                           | 1997年3月5日   | PHCL-5052  |
 | [CHILDREN](https://ja.wikipedia.org/wiki/CHILDREN_\(ROUAGEのアルバム\) "wikilink")                   | 1997年12月3日  | PHCL-5074  |
@@ -84,7 +88,7 @@
 
 ## 脚注
 
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:1993年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1993年に結成した音楽グループ "wikilink") [Category:2001年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に解散した音楽グループ "wikilink")
+[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:1993年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1993年に結成した音楽グループ "wikilink") [Category:2001年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に解散した音楽グループ "wikilink")
 
 1.
 2.

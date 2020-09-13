@@ -63,7 +63,7 @@
       - 東京少年（さくらの唄収録とは別Version）
   - STREET ROCK FILE THE BEST（2003年6月18日）
       - 東京少年
-  - less than TV LOVE SONG COMPILATION 友達以上 恋人未満 テレビ以下（2003年）
+  - [Less Than TV](../Page/Less_Than_TV.md "wikilink") LOVE SONG COMPILATION 友達以上 恋人未満 テレビ以下（2003年）
       - 夜王子と月の姫vs.the world（夜王子と月の姫のアコースティックギターバージョン）
 
 ### 映像作品

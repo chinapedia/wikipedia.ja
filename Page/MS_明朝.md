@@ -29,7 +29,7 @@
 ### 2.00
 
   - Windows 95に標準搭載されているバージョン（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）\[5\]。「ＭＳ Ｐ明朝」が追加された\[6\]。
-  - 基本的にJIS90の字体であるが、「叉」や「釜」などの筆押さえは無い字形を採用しており、「<span style="font-feature-settings:'jp78' 1;-moz-font-feature-settings:'jp78' 1;-webkit-font-feature-settings:'jp78' 1;">燿</span>」が[人名用漢字](../Page/人名用漢字.md "wikilink")の字体とは異なるJIS78字形の旧字体になっている。
+  - 基本的にJIS90の字体であるが、「叉」や「釜」などの筆押さえは無い字形を採用しており、「<span style="font-feature-settings:'jp78' 1;">燿</span>」が[人名用漢字](../Page/人名用漢字.md "wikilink")の字体とは異なるJIS78字形の旧字体になっている。
   - U+663B（、本来は日の下に****）は、[Microsoftコードページ932](../Page/Microsoftコードページ932.md "wikilink")で0xFAD0に対応しているため、U+6602（昂、日の下に****）と同じ字形になっている。
   - [Microsoftコードページ932](../Page/Microsoftコードページ932.md "wikilink")に対応するため、Unicode符号がUnicode Consortiumで配布されている変換表と異なるものがある。たとえばJISの1区33点の[波ダッシュ](../Page/波ダッシュ.md "wikilink")がU+301CでなくU+FF5E、1区29点のEMダッシュがU+2014でなくU+2015となっている。
   - U+005Cは本来[バックスラッシュ](../Page/バックスラッシュ.md "wikilink")であるが、このコードポイントはJIS X 0201の0x5Cに対応する[円記号](../Page/円記号.md "wikilink")になっている。

@@ -3,11 +3,11 @@
 
 **MIYAVI**（ミヤビ\[1\]、[1981年](../Page/1981年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink")\[2\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[俳優](../Page/俳優.md "wikilink")。
 
-日本、[北米](../Page/北アメリカ.md "wikilink")、[南米](../Page/南アメリカ.md "wikilink")、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")、[アジア](../Page/アジア.md "wikilink")、[オーストラリア](../Page/オーストラリア.md "wikilink")など約30か国300公演以上のライブを行い、7度のワールドツアーも行っている\[3\]\[4\]。
+日本、[北米](../Page/北アメリカ.md "wikilink")、[南米](../Page/南アメリカ.md "wikilink")、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")、[アジア](../Page/アジア.md "wikilink")、[オーストラリア](../Page/オーストラリア.md "wikilink")など約30か国350公演以上のライブを行い、8度のワールドツアーも行っている\[3\]\[4\]。
 
 ## 概要
 
-[身長](../Page/身長.md "wikilink")185cm。その実績などから「**サムライギタリスト**」の異名を持つ。[2009年](../Page/2009年.md "wikilink")に独立し、個人事務所・J-glam Inc,の代表取締役を務める。日本国外におけるマネジメント契約は[ウィリアム・モリス・エンデヴァー・エンターテイメント](../Page/ウィリアム・モリス・エンデヴァー・エンターテイメント.md "wikilink")を経て、[LDHと結んでいる](../Page/LDH_\(芸能プロダクション\).md "wikilink")。[血液型はAB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+[身長](../Page/身長.md "wikilink")185cm。その実績などから「**サムライギタリスト**」の異名を持つ。[2009年](../Page/2009年.md "wikilink")に独立し、個人事務所・J-glam Inc,の代表取締役を務める。日本国外におけるマネジメント契約は[ウィリアム・モリス・エンデヴァー・エンターテイメント](../Page/ウィリアム・モリス・エンデヴァー・エンターテイメント.md "wikilink")を経て、[LDHと結んでいる](../Page/LDH_\(芸能プロダクション\).md "wikilink")。[血液型はAB型](../Page/ABO式血液型.md "wikilink")。
 
 ## 演奏スタイル
 
@@ -41,14 +41,16 @@
 
 [2019年](../Page/2019年.md "wikilink")12月18日、芸能事務所[LDH JAPANに](../Page/LDH_\(芸能プロダクション\).md "wikilink")[2020年](../Page/2020年.md "wikilink")1月から正式に移籍することが発表された\[18\]。
 
+[2020年](../Page/2020年.md "wikilink")6月16日、イタリアのファッションブランド「[GUCCI](../Page/グッチ.md "wikilink")」がグローバルに展開する”Gucci Off the Grid collection”の広告キャンペーンに起用。キャンペーンムービーが公開された\[19\]。日本人ミュージシャンがグローバルキャンペーンに抜擢されたのは1921年「グッチ」創設以降、およそ100年の歴史の中で初めてである\[20\]\[21\]。
+
 ## 人物
 
-  - 影響を受けたギタリストとして[スティーヴィー・レイ・ヴォーン](../Page/スティーヴィー・レイ・ヴォーン.md "wikilink")、[ロバート・ジョンソン](../Page/ロバート・ジョンソン.md "wikilink")、[サンハウス](../Page/サンハウス.md "wikilink")、[B.B.キング](../Page/B.B.キング.md "wikilink")らを挙げている、ブルースマンが多い。一方では「誰かをコピーしてもしゃあないと思ってたから、ガチでコピーとかしたことないです」「世界にはクラプトンもジミヘンもB.B.キングも、もういるわけですよ。だから俺がやる必要なくて」と2017年3月のインタビューで語っている\[19\]。
+  - 影響を受けたギタリストとして[スティーヴィー・レイ・ヴォーン](../Page/スティーヴィー・レイ・ヴォーン.md "wikilink")、[ロバート・ジョンソン](../Page/ロバート・ジョンソン.md "wikilink")、[サンハウス](../Page/サンハウス.md "wikilink")、[B.B.キング](../Page/B.B.キング.md "wikilink")らを挙げている、ブルースマンが多い。一方では「誰かをコピーしてもしゃあないと思ってたから、ガチでコピーとかしたことないです」「世界にはクラプトンもジミヘンもB.B.キングも、もういるわけですよ。だから俺がやる必要なくて」と2017年3月のインタビューで語っている\[22\]。
   - 自身のファンの事を「Co-miyavi＝仔雅（こみやび）」と呼ぶ。
-  - [アンジェリーナ・ジョリー](../Page/アンジェリーナ・ジョリー.md "wikilink")が監督を務めたハリウッド映画『[不屈の男 アンブロークン](https://ja.wikipedia.org/wiki/不屈の男_アンブロークン "wikilink")』に出演したことがきっかけで、その後、アンジェリーナ・ジョリー、[ブラッド・ピット](../Page/ブラッド・ピット.md "wikilink")夫妻とは家族ぐるみの付き合いがある。映画のキャストにMIYAVIが抜擢されたのも元々はジョリーが[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")などを通してMIYAVIのギタープレイを前々から鑑賞しており、ジョリーがMIYAVIの大ファンであったことがきっかけである\[20\]\[21\]。
-  - [アンジェリーナ・ジョリー](../Page/アンジェリーナ・ジョリー.md "wikilink")と交流を持ったことがきっかけで、その縁から、ジョリーが特別大使を務めているUNHCR（[国連難民高等弁務官事務所](../Page/国連難民高等弁務官事務所.md "wikilink")）にも参加し、世界の[難民](https://ja.wikipedia.org/wiki/難民 "wikilink")の支援活動なども行っている\[22\]。
-  - 影響を受けた日本のアーティスト（ギタリスト）としては[布袋寅泰](../Page/布袋寅泰.md "wikilink")、[hide](https://ja.wikipedia.org/wiki/hide "wikilink")、[高中正義](../Page/高中正義.md "wikilink")の3人の名前を挙げている、特にhideに対しての思い入れは強い。MIYAVIが日本の音楽業界でソロデビューした際、MIYAVIの周りを固めていたのはかつてhideをプロデュースしていたhideのスタッフたちであり、その時にhideの生き様や音楽に対して真剣に向き合うひたむきさなどを学ばせてもらったと語っている。またソロデビュー後初のライブであった[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")でのライブで共演した[X JAPANの](../Page/X_JAPAN.md "wikilink")[PATA](../Page/PATA.md "wikilink")（hideの盟友だったギタリスト）から「まるでhideと一緒に演奏してるみたいだ」と言われたことに感銘を受け、身が引き締まる思いになり、「自分もhideさんのようにもっと後世に語り継がれていくようなアーティストになりたいな」と思うようになったとも語っている\[23\]。
-  - [2019年](../Page/2019年.md "wikilink")9月1日、[TBS系の情報番組](../Page/TBSテレビ.md "wikilink")『[サンデージャポン](https://ja.wikipedia.org/wiki/サンデージャポン "wikilink")』で悪化する日韓関係が特集された際には、祖父母が[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")出身であることから、番組内で「自分自身は日本で生まれて日本国籍で日本人として世界を回ってるんですけど、ミュージシャンとして韓国によく行くんですね。韓国にもファンの人がいるけど、みんな日本のこと大好きですし、日本の子たちも韓国の文化を好きな人もたくさんいる」「個人的にお互い政府も含めて、理解する姿勢をもっと持ってアジアの同胞として新しい日韓関係を築いて欲しい」などと述べた\[24\]。
+  - [アンジェリーナ・ジョリー](../Page/アンジェリーナ・ジョリー.md "wikilink")が監督を務めたハリウッド映画『[不屈の男 アンブロークン](https://ja.wikipedia.org/wiki/不屈の男_アンブロークン "wikilink")』に出演したことがきっかけで、その後、アンジェリーナ・ジョリー、[ブラッド・ピット](../Page/ブラッド・ピット.md "wikilink")夫妻とは家族ぐるみの付き合いがある。映画のキャストにMIYAVIが抜擢されたのも元々はジョリーが[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")などを通してMIYAVIのギタープレイを前々から鑑賞しており、ジョリーがMIYAVIの大ファンであったことがきっかけである\[23\]\[24\]。
+  - [アンジェリーナ・ジョリー](../Page/アンジェリーナ・ジョリー.md "wikilink")と交流を持ったことがきっかけで、その縁から、ジョリーが特別大使を務めているUNHCR（[国連難民高等弁務官事務所](../Page/国連難民高等弁務官事務所.md "wikilink")）にも参加し、世界の[難民](https://ja.wikipedia.org/wiki/難民 "wikilink")の支援活動なども行っている\[25\]。
+  - 影響を受けた日本のアーティスト（ギタリスト）としては[布袋寅泰](../Page/布袋寅泰.md "wikilink")、[hide](https://ja.wikipedia.org/wiki/hide "wikilink")、[高中正義](../Page/高中正義.md "wikilink")の3人の名前を挙げている、特にhideに対しての思い入れは強い。MIYAVIが日本の音楽業界でソロデビューした際、MIYAVIの周りを固めていたのはかつてhideをプロデュースしていたhideのスタッフたちであり、その時にhideの生き様や音楽に対して真剣に向き合うひたむきさなどを学ばせてもらったと語っている。またソロデビュー後初のライブであった[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")でのライブで共演した[X JAPANの](../Page/X_JAPAN.md "wikilink")[PATA](../Page/PATA.md "wikilink")（hideの盟友だったギタリスト）から「まるでhideと一緒に演奏してるみたいだ」と言われたことに感銘を受け、身が引き締まる思いになり、「自分もhideさんのようにもっと後世に語り継がれていくようなアーティストになりたいな」と思うようになったとも語っている\[26\]。
+  - [2019年](../Page/2019年.md "wikilink")9月1日、[TBS系の情報番組](../Page/TBSテレビ.md "wikilink")『[サンデージャポン](https://ja.wikipedia.org/wiki/サンデージャポン "wikilink")』で悪化する日韓関係が特集された際には、祖父母が[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")出身であることから、番組内で「自分自身は日本で生まれて日本国籍で日本人として世界を回ってるんですけど、ミュージシャンとして韓国によく行くんですね。韓国にもファンの人がいるけど、みんな日本のこと大好きですし、日本の子たちも韓国の文化を好きな人もたくさんいる」「個人的にお互い政府も含めて、理解する姿勢をもっと持ってアジアの同胞として新しい日韓関係を築いて欲しい」などと述べた\[27\]。
 
 ## ディスコグラフィ
 
@@ -238,13 +240,13 @@
 <tr class="odd">
 <td><p>12th</p></td>
 <td><p>2011年10月5日</p></td>
-<td><p><strong>STRONG</strong>[25]</p></td>
+<td><p><strong>STRONG</strong>[28]</p></td>
 <td><p>22位</p></td>
 </tr>
 <tr class="even">
 <td><p>13th</p></td>
 <td><p>2012年7月11日</p></td>
-<td><p><strong>Day 1</strong>[26]</p></td>
+<td><p><strong>Day 1</strong>[29]</p></td>
 <td><p>44位</p></td>
 </tr>
 <tr class="odd">
@@ -381,6 +383,18 @@
 <td><p><strong>SAMURAI SESSIONS vol.2</strong></p></td>
 <td><p>11位</p></td>
 </tr>
+<tr class="odd">
+<td><p>11th</p></td>
+<td><p>2018年12月5日</p></td>
+<td><p><strong>SAMURAI SESSIONS vol.3-Worlds Collide-</strong></p></td>
+<td><p>32位</p></td>
+</tr>
+<tr class="even">
+<td><p>12th</p></td>
+<td><p>2019年7月24日</p></td>
+<td><p><strong>NO SLEEP TILL TOKYO</strong></p></td>
+<td><p>17位</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -488,7 +502,7 @@
 | ---------- | ----------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | 2013年9月11日 | [山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink") | Stand Alone                                                                             | [A NUDE](https://ja.wikipedia.org/wiki/A_NUDE "wikilink")                                                         |
 | 2014年7月16日 | [SMAP](../Page/SMAP.md "wikilink")                    | Top Of The World                                                                        | [Top Of The World/Amazing Discovery](https://ja.wikipedia.org/wiki/Top_Of_The_World/Amazing_Discovery "wikilink") |
-| 2015年9月9日  | Otherside                                             | [Otherside/愛が止まるまでは](https://ja.wikipedia.org/wiki/Otherside/愛が止まるまでは "wikilink")\[27\] |                                                                                                                   |
+| 2015年9月9日  | Otherside                                             | [Otherside/愛が止まるまでは](https://ja.wikipedia.org/wiki/Otherside/愛が止まるまでは "wikilink")\[30\] |                                                                                                                   |
 | 2018年4月25日 | [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")        | FREEZE                                                                                  | \[\[Yummy                                                                                                         |
 
   - KREVA
@@ -500,9 +514,9 @@
 ### 映画
 
   - [おれさま](https://ja.wikipedia.org/wiki/おれさま "wikilink")（2004年、インディーズ/近藤廣行監督） - **主演**
-  - [不屈の男 アンブロークン](https://ja.wikipedia.org/wiki/不屈の男_アンブロークン "wikilink")（2014年、アメリカ/[アンジェリーナ・ジョリー](../Page/アンジェリーナ・ジョリー.md "wikilink")監督） - [ワタナベ伍長](https://ja.wikipedia.org/wiki/渡邊睦裕 "wikilink") 役\[28\]
-  - [キングコング: 髑髏島の巨神](https://ja.wikipedia.org/wiki/キングコング:_髑髏島の巨神 "wikilink")（2017年3月25日、アメリカ/[ジョーダン・ヴォート＝ロバーツ](https://ja.wikipedia.org/wiki/ジョーダン・ヴォート＝ロバーツ "wikilink")監督） - グンペイ・イカリ 役\[29\]
-  - [BLEACH 死神代行篇](https://ja.wikipedia.org/wiki/BLEACH#実写映画 "wikilink")（2018年7月20日、日本/[佐藤信介](../Page/佐藤信介.md "wikilink")監督） - [朽木白哉](../Page/朽木白哉.md "wikilink") 役\[30\]
+  - [不屈の男 アンブロークン](https://ja.wikipedia.org/wiki/不屈の男_アンブロークン "wikilink")（2014年、アメリカ/[アンジェリーナ・ジョリー](../Page/アンジェリーナ・ジョリー.md "wikilink")監督） - [ワタナベ伍長](https://ja.wikipedia.org/wiki/渡邊睦裕 "wikilink") 役\[31\]
+  - [キングコング: 髑髏島の巨神](https://ja.wikipedia.org/wiki/キングコング:_髑髏島の巨神 "wikilink")（2017年3月25日、アメリカ/[ジョーダン・ヴォート＝ロバーツ](https://ja.wikipedia.org/wiki/ジョーダン・ヴォート＝ロバーツ "wikilink")監督） - グンペイ・イカリ 役\[32\]
+  - [BLEACH 死神代行篇](https://ja.wikipedia.org/wiki/BLEACH#実写映画 "wikilink")（2018年7月20日、日本/[佐藤信介](../Page/佐藤信介.md "wikilink")監督） - [朽木白哉](../Page/朽木白哉.md "wikilink") 役\[33\]
   - [ギャングース](https://ja.wikipedia.org/wiki/ギャングース#映画 "wikilink")（2018年11月23日公開、日本/[入江悠](https://ja.wikipedia.org/wiki/入江悠 "wikilink")監督） - 安達智也 役
   - [マレフィセント2](https://ja.wikipedia.org/wiki/マレフィセント2 "wikilink")（2019年10月18日公開、アメリカ/[ヨアヒム・ローニング](https://ja.wikipedia.org/wiki/ヨアヒム・ローニング "wikilink")監督） - ウド 役
 
@@ -515,11 +529,13 @@
 
   - （2020年2月27日、[Netflix](../Page/Netflix.md "wikilink")） - miyabi 役
 
-### CM
+### CM・広告
 
   - [ロッテ](../Page/ロッテ.md "wikilink")「ゼウス」（2012年）
   - [ビーツ・エレクトロニクス](https://ja.wikipedia.org/wiki/ビーツ・エレクトロニクス "wikilink")-[au](https://ja.wikipedia.org/wiki/au_\(通信\) "wikilink")（2016年）
   - [HONDA](../Page/本田技研工業.md "wikilink")「[FIT](../Page/ホンダ・フィット.md "wikilink")」（2017年）
+  - [楽天モバイル](https://ja.wikipedia.org/wiki/楽天モバイル_\(企業\) "wikilink")（2020年）
+  - [GUCCI](../Page/グッチ.md "wikilink")「Gucci Off the Grid collection」グローバル広告キャンペーン（2020年）
 
 ## 著書
 
@@ -561,14 +577,17 @@
 17.
 18.
 19.
-20. [【イタすぎるセレブ達】アンジェリーナ・ジョリーがネットで見て口説いた。日本発世界的セレブMIYAVIの人気がすごいことになっている。](http://japan.techinsight.jp/2015/07/kay-miyavi-is-popular.html)
-21. [【アンジェリーナジョリーとハリウッド共演】エレンショーでも絶賛のギタリスト、MIYAVIの抜群の英語力に迫る！](http://eigo-tatsujin.net/trend/8617/)
-22. [アンジーに導かれて難民キャンプへ。MIYAVIの心を揺らした、ある少年との出会い](http://www.huffingtonpost.jp/2016/11/29/miyavi-visit-refugee-camp_n_13297460.html)
-23. \[Love music 2017年11月5日放送\]
-24. MIYAVI「祖父母が韓国出身」「理解する姿勢をもっと持って新しい日韓関係を築いて欲しい」（2019年9月1日）、[スポーツ報知](../Page/スポーツ報知.md "wikilink")公式サイト。
-25. 「MIYAVI vs KREVA」名義
-26. 「MIYAVI vs Yuksek」名義
-27.
-28.
-29.
+20.
+21.
+22.
+23. [【イタすぎるセレブ達】アンジェリーナ・ジョリーがネットで見て口説いた。日本発世界的セレブMIYAVIの人気がすごいことになっている。](http://japan.techinsight.jp/2015/07/kay-miyavi-is-popular.html)
+24. [【アンジェリーナジョリーとハリウッド共演】エレンショーでも絶賛のギタリスト、MIYAVIの抜群の英語力に迫る！](http://eigo-tatsujin.net/trend/8617/)
+25. [アンジーに導かれて難民キャンプへ。MIYAVIの心を揺らした、ある少年との出会い](http://www.huffingtonpost.jp/2016/11/29/miyavi-visit-refugee-camp_n_13297460.html)
+26. \[Love music 2017年11月5日放送\]
+27. MIYAVI「祖父母が韓国出身」「理解する姿勢をもっと持って新しい日韓関係を築いて欲しい」（2019年9月1日）、[スポーツ報知](../Page/スポーツ報知.md "wikilink")公式サイト。
+28. 「MIYAVI vs KREVA」名義
+29. 「MIYAVI vs Yuksek」名義
 30.
+31.
+32.
+33.

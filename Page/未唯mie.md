@@ -1,7 +1,7 @@
 > この記事は[未唯mie](https://ja.wikipedia.org/wiki/未唯mie)から翻訳されています。
 
 
-|著名使用楽器= |血液型=A型 }} **未唯mie**（みい、[1958年](../Page/1958年.md "wikilink")（昭和33年）[3月9日](../Page/3月9日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[女優](../Page/俳優.md "wikilink")、[タレント](../Page/タレント.md "wikilink")。'70年代アイドル。本名、**根本 美鶴代**（ねもと みつよ）\[1\]。[静岡県](../Page/静岡県.md "wikilink")\[2\][静岡市](../Page/静岡市.md "wikilink")\[3\]出身。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[Ａ型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+|著名使用楽器= |血液型=A型 }} **未唯mie**（みい、[1958年](../Page/1958年.md "wikilink")（昭和33年）[3月9日](../Page/3月9日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[女優](../Page/俳優.md "wikilink")、[タレント](../Page/タレント.md "wikilink")。'70年代アイドル。本名、**根本 美鶴代**（ねもと みつよ）\[1\]。[静岡県](../Page/静岡県.md "wikilink")\[2\][静岡市](../Page/静岡市.md "wikilink")\[3\]出身。[血液型は](../Page/ABO式血液型.md "wikilink")[Ａ型](../Page/ABO式血液型.md "wikilink")。
 
 [1976年](../Page/1976年.md "wikilink")、[ピンク・レディー](../Page/ピンク・レディー.md "wikilink")のメンバーのひとり、**ミー**としてメジャーデビューを果たした。ピンク・レディーが解散した後、しばらくは「**MIE**」という芸名であったが、1998年に未唯（みい）に改名した。2006年からは表記を「**未唯mie**」に改めた。
 
@@ -904,7 +904,7 @@ MIE 名義</p></td>
   - MIEのNEVER GIVE UP（OBC）パーソナリティー
   - ミュージックメモリー（NHK-FM）パーソナリティー
   - 未唯mieのSoul To Me（[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")・[山形放送](../Page/山形放送.md "wikilink")・[信越放送](../Page/信越放送.md "wikilink")・[岐阜放送](../Page/岐阜放送ラジオ.md "wikilink")）パーソナリティー
-  - 未唯mieのFrom mie to You （[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")・[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")・信越放送・[山陽放送](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink")・[福井放送](../Page/福井放送.md "wikilink")・静岡放送）パーソナリティー
+  - 未唯mieのFrom mie to You （[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")・[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")・信越放送・[山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")・[福井放送](../Page/福井放送.md "wikilink")・静岡放送）パーソナリティー
 
 ### 舞台
 
@@ -918,11 +918,15 @@ MIE 名義</p></td>
 
 ## 脚注
 
+## 関連項目
+
+  - [1981年の音楽\#デビュー](https://ja.wikipedia.org/wiki/1981年の音楽#デビュー "wikilink") - （ソロデビュー）同じ年にデビューした歌手
+
 ## 外部リンク
 
   - \- 公式サイト
 
-[Category:ピンク・レディー](https://ja.wikipedia.org/wiki/Category:ピンク・レディー "wikilink") [Category:日本のアイドル](https://ja.wikipedia.org/wiki/Category:日本のアイドル "wikilink") [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:日本の女優](https://ja.wikipedia.org/wiki/Category:日本の女優 "wikilink") [Category:過去のバーニングプロダクション系列所属者](https://ja.wikipedia.org/wiki/Category:過去のバーニングプロダクション系列所属者 "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:常葉大学附属常葉高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:常葉大学附属常葉高等学校出身の人物 "wikilink") [Category:静岡市出身の人物](https://ja.wikipedia.org/wiki/Category:静岡市出身の人物 "wikilink") [Category:1958年生](https://ja.wikipedia.org/wiki/Category:1958年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:ピンク・レディー](https://ja.wikipedia.org/wiki/Category:ピンク・レディー "wikilink") [Category:日本の女性アイドル](https://ja.wikipedia.org/wiki/Category:日本の女性アイドル "wikilink") [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:日本の女優](https://ja.wikipedia.org/wiki/Category:日本の女優 "wikilink") [Category:過去のバーニングプロダクション系列所属者](https://ja.wikipedia.org/wiki/Category:過去のバーニングプロダクション系列所属者 "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:常葉大学附属常葉高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:常葉大学附属常葉高等学校出身の人物 "wikilink") [Category:静岡市出身の人物](https://ja.wikipedia.org/wiki/Category:静岡市出身の人物 "wikilink") [Category:1958年生](https://ja.wikipedia.org/wiki/Category:1958年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.

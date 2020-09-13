@@ -1,7 +1,7 @@
 > この記事は[TEENS\' MUSIC WAVE](https://ja.wikipedia.org/wiki/TEENS\'_MUSIC_WAVE)から翻訳されています。
 
 
-『**TEENS' MUSIC WAVE**』（ティーンズ ミュージック ウェイヴ）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")など日本各地のラジオ局で[2000年](../Page/2000年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送されていた[音楽番組](../Page/音楽番組.md "wikilink")である。略称「**TMW**」。
+『**TEENS' MUSIC WAVE**』（ティーンズ ミュージック ウェイヴ）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")など日本各地のラジオ局で[2000年](../Page/2000年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送されていた[音楽番組](../Page/音楽番組.md "wikilink")である。略称「**TMW**」。
 
 ## 概要
 

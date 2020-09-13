@@ -1,7 +1,7 @@
 > この記事は[TWIN SIGNAL](https://ja.wikipedia.org/wiki/TWIN_SIGNAL)から翻訳されています。
 
 
-『**TWIN SIGNAL**』（ツインシグナル）は、[大清水さち](https://ja.wikipedia.org/wiki/大清水さち "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、およびそれを原作とした[OVA](../Page/OVA.md "wikilink")、[小説](../Page/小説.md "wikilink")、[ドラマCD](../Page/ドラマCD.md "wikilink")。『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』ならびに『[月刊Gファンタジー](../Page/月刊Gファンタジー.md "wikilink")』（共に[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")刊）にて[1992年](../Page/1992年.md "wikilink")12月号から[2001年](../Page/2001年.md "wikilink")12月号まで連載された。 [2019年](../Page/2019年.md "wikilink")より[メディバン](https://ja.wikipedia.org/wiki/メディバン "wikilink")が運営するARTstreetにて続編の『TWIN SIGNAL Biennial』が連載中。
+『**TWIN SIGNAL**』（ツインシグナル）は、[大清水さち](../Page/大清水さち.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、およびそれを原作とした[OVA](../Page/OVA.md "wikilink")、[小説](../Page/小説.md "wikilink")、[ドラマCD](../Page/ドラマCD.md "wikilink")。『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』ならびに『[月刊Gファンタジー](../Page/月刊Gファンタジー.md "wikilink")』（共に[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")刊）にて[1992年](../Page/1992年.md "wikilink")12月号から[2001年](../Page/2001年.md "wikilink")12月号まで連載された。 [2019年](../Page/2019年.md "wikilink")より[メディバン](https://ja.wikipedia.org/wiki/メディバン "wikilink")が運営するARTstreetにて続編の『TWIN SIGNAL Biennial』が連載中。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 また、外伝として『[月刊ガンガンWING](../Page/月刊ガンガンWING.md "wikilink")』に連載された『呪われし電脳神（MOIRA）TWIN SIGNAL外伝』（[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")（現:[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）刊）がある。こちらは単行本全2巻。
 
-[大清水さち](https://ja.wikipedia.org/wiki/大清水さち "wikilink")の本格デビュー作。最新型の[ヒューマンフォームロボット](../Page/人造人間.md "wikilink")（以下、HFR）シグナルを中心とした物語。初期はロボットと人との触れあいをギャグタッチで描いていたが、徐々に路線を変更、中期から後期にかけては、人間社会の視点から見たロボット論、更には人型ロボットの存在の是非までを描いた。
+[大清水さち](../Page/大清水さち.md "wikilink")の本格デビュー作。最新型の[ヒューマンフォームロボット](../Page/人造人間.md "wikilink")（以下、HFR）シグナルを中心とした物語。初期はロボットと人との触れあいをギャグタッチで描いていたが、徐々に路線を変更、中期から後期にかけては、人間社会の視点から見たロボット論、更には人型ロボットの存在の是非までを描いた。
 
 また1996年には[OVA](../Page/OVA.md "wikilink")化もされた。
 

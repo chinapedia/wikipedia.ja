@@ -1,7 +1,7 @@
 > この記事は[ヴェネツィアFC](https://ja.wikipedia.org/wiki/ヴェネツィアFC)から翻訳されています。
 
 
-**ヴェネツィア・フットボール・クラブ**（**Venezia Football Club S.r.l.d.**）は、[イタリア](../Page/イタリア.md "wikilink")・[ヴェネト州](../Page/ヴェネト州.md "wikilink")[ヴェネツィア](../Page/ヴェネツィア.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。1940-41シーズンに、[コッパ・イタリア](../Page/コッパ・イタリア.md "wikilink")を獲得した古豪。
+**ヴェネツィア・フットボール・クラブ**（**Venezia Football Club S.r.l.**）は、[イタリア](../Page/イタリア.md "wikilink")・[ヴェネト州](../Page/ヴェネト州.md "wikilink")[ヴェネツィア](../Page/ヴェネツィア.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。1940-41シーズンに、[コッパ・イタリア](../Page/コッパ・イタリア.md "wikilink")を獲得した古豪。
 
 2019-20シーズンは[セリエBに所属](../Page/セリエB_\(サッカー\).md "wikilink")。
 

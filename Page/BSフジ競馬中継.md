@@ -16,11 +16,11 @@
   - [日経新春杯](../Page/日経新春杯.md "wikilink")の日の放送。[京都競馬場](../Page/京都競馬場.md "wikilink")の日経新春杯はGIIであるが同日に[中山競馬場](../Page/中山競馬場.md "wikilink")で行われるGIIIの[京成杯](../Page/京成杯.md "wikilink")が[皐月賞](../Page/皐月賞.md "wikilink")へ繋がる3歳重賞であるため、BSではフジテレビ制作版を放送した。
   - [2005年](../Page/2005年.md "wikilink")[5月15日](../Page/5月15日.md "wikilink")は、[京王杯スプリングカップ](../Page/京王杯スプリングカップ.md "wikilink")（GII）開催日に『[NSTスーパー競馬](../Page/NSTスーパー競馬.md "wikilink")』（[新潟大賞典](../Page/新潟大賞典.md "wikilink")（GIII））を放送した。
   - [2007年](../Page/2007年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")は、[札幌記念](../Page/札幌記念.md "wikilink")（当時JpnII）・[小倉2歳ステークス](../Page/小倉2歳ステークス.md "wikilink")（当時JpnIII）開催日に『NSTスーパー競馬』（[新潟2歳ステークス](../Page/新潟2歳ステークス.md "wikilink")（当時JpnIII））を放送した。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")、[2009年](../Page/2009年.md "wikilink")[5月3日](../Page/5月3日.md "wikilink")は[天皇賞](https://ja.wikipedia.org/wiki/天皇賞 "wikilink")（春）、（GI）開催日にGI開催場の番組ではない『みんなのケイバ』を放送した（[東京メインレースは](../Page/東京競馬場.md "wikilink")[オークストライアルの](https://ja.wikipedia.org/wiki/優駿牝馬 "wikilink")[スイートピーステークス](../Page/スイートピーステークス.md "wikilink")）。ちなみに、新聞やインターネットの番組表上は天皇賞（春）と表記されていた。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")、[2009年](../Page/2009年.md "wikilink")[5月3日](../Page/5月3日.md "wikilink")は[天皇賞](https://ja.wikipedia.org/wiki/天皇賞 "wikilink")（春）（GI）開催日にGI開催場の番組ではない『みんなのケイバ』を放送した（[東京メインレースは](../Page/東京競馬場.md "wikilink")[オークストライアルの](https://ja.wikipedia.org/wiki/優駿牝馬 "wikilink")[スイートピーステークス](../Page/スイートピーステークス.md "wikilink")）。ちなみに、新聞やインターネットの番組表上は天皇賞（春）と表記されていた。
   - 前述の通り同じ格の場合は関東優先であるが、2008年 - 2009年と[2011年](../Page/2011年.md "wikilink")の夏季競馬最終日は新潟2歳ステークス（2009年までJpnIII、現：GIII）ではなく『DREAM競馬』（現・『KEIBA BEAT』。レースは小倉2歳ステークス（2009年までJpnIII、現：GIII））を放送していた。
   - 2009年[4月5日](../Page/4月5日.md "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")は[産経大阪杯](../Page/大阪杯.md "wikilink")（GII）ではなく『みんなのKEIBA（2009年は[みんなのケイバ](../Page/みんなのケイバ.md "wikilink")）』（[ダービー卿チャレンジトロフィー](../Page/ダービー卿チャレンジトロフィー.md "wikilink")（GIII））を放送した。新聞やインターネットの番組表は2008年5月4日の時と同様「産経大阪杯」と表記されていた。
   - 2010年[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")は[フィリーズレビュー](../Page/フィリーズレビュー.md "wikilink")（GII）開催日に[中山牝馬ステークス](../Page/中山牝馬ステークス.md "wikilink")（GIII）を放送した。
-  - 2011年、2012年は[京都記念](../Page/京都記念.md "wikilink")（GII）開催日に[共同通信杯](../Page/共同通信杯.md "wikilink")（GIII）で放送。
+  - 2011年、2012年は[京都記念](../Page/京都記念.md "wikilink")（GII）開催日に[共同通信杯](../Page/共同通信杯.md "wikilink")（GIII）を放送した。
   - [東海ステークス](../Page/東海ステークス.md "wikilink")は東海テレビの社賞だが、放送当時オークスと同日開催ということもあり『みんなのKEIBA』を放送した\[1\]。
   - 2010年以降、大半の中継放送は『みんなのKEIBA』中心となり他地区の中継はGI開催日中心となった。
 
@@ -3490,7 +3490,7 @@ KTV[13]</p></td>
 
 地上波で流れる主要レースを紹介するVTRなどは放送せず、比較的コンパクトな内容が組まれている。
 
-秋華賞当日の[2018年](../Page/2018年.md "wikilink")10月14日から3ヶ月は月1回で京都・阪神のGI競走を中心に、[2019年](../Page/2019年.md "wikilink")は一部重賞競走施行日において月1 - 2回程度、[2020年](../Page/2020年.md "wikilink")1月より3ヶ月は毎週日曜のレギュラー放送枠に、4月からは[NHK競馬中継](../Page/NHK競馬中継.md "wikilink")が放送しない日\[90\]をメインに再び月1 - 2回程度放送に戻った。
+秋華賞当日の[2018年](../Page/2018年.md "wikilink")10月14日から3ヶ月は月1回程度、[2019年](../Page/2019年.md "wikilink")は一部重賞競走施行日において月1 - 2回程度、[2020年](../Page/2020年.md "wikilink")1月からは[NHK競馬中継](../Page/NHK競馬中継.md "wikilink")が編成される日\[90\]を除く毎週日曜のレギュラー放送枠となった。
 
 中継映像は原則としてグリーンチャンネルと同じJRA公式映像だが、東京・中山の関東主場、福島・新潟の夏季開催（7-9月）はFNS系列の中継映像を使用する。FNS系列局のものは関西主場であっても使用しない。番組内でJRAが主導する中央のGI競走が放映されるのは、過去の[BS11での特例を除けば民放BSでは唯一の放送例である](https://ja.wikipedia.org/wiki/BSイレブン競馬中継#重賞競走の中継について "wikilink")。またJRAが馬券発売対象とする海外のG1が番組内で放送される場合、中継は行わずにVTRで挿入する。
 
@@ -3500,7 +3500,7 @@ KTV[13]</p></td>
 
   - [福原直英](../Page/福原直英.md "wikilink")（フジテレビアナウンサー）
   - [小澤陽子](https://ja.wikipedia.org/wiki/小澤陽子 "wikilink")（フジテレビアナウンサー、2019年1月 - ）
-  - [青嶋達也](../Page/青嶋達也.md "wikilink")（フジテレビアナウンサー、2019年11月 ）
+  - [青嶋達也](../Page/青嶋達也.md "wikilink")（フジテレビアナウンサー、2019年11月10日）
 
 ### 解説者
 
@@ -3513,7 +3513,7 @@ KTV[13]</p></td>
 ### ご意見番
 
   - [鈴木淑子](https://ja.wikipedia.org/wiki/鈴木淑子 "wikilink")
-  - [横山ルリカ](../Page/横山ルリカ.md "wikilink")
+  - [横山ルリカ](../Page/横山ルリカ.md "wikilink")\[93\]
 
 ### 中継実績（BSスーパーKEIBA）
 
@@ -3540,14 +3540,14 @@ KTV[13]</p></td>
 <tbody>
 <tr class="odd">
 <td><p>10月14日</p></td>
-<td><p>秋華賞[93]</p></td>
+<td><p>秋華賞[94]</p></td>
 <td><p>BS</p></td>
 <td><p>BSF</p></td>
 <td><p>15:00 - 16:00</p></td>
 </tr>
 <tr class="even">
 <td><p>11月11日</p></td>
-<td><p>エリザベス女王杯[94]<br />
+<td><p>エリザベス女王杯[95]<br />
 <a href="../Page/福島記念.md" title="wikilink">福島記念</a></p></td>
 <td></td>
 <td></td>
@@ -3555,7 +3555,7 @@ KTV[13]</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月9日</p></td>
-<td><p>阪神ジュベナイルフィリーズ[95]<br />
+<td><p>阪神ジュベナイルフィリーズ[96]<br />
 <a href="../Page/カペラステークス.md" title="wikilink">カペラステークス</a></p></td>
 <td></td>
 <td></td>
@@ -3909,6 +3909,121 @@ KTV[13]</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>7月5日</p></td>
+<td><p><a href="../Page/ラジオNIKKEI賞.md" title="wikilink">ラジオNIKKEI賞</a><br />
+<a href="../Page/CBC賞.md" title="wikilink">CBC賞</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月12日</p></td>
+<td><p><a href="../Page/七夕賞.md" title="wikilink">七夕賞</a><br />
+<a href="../Page/プロキオンステークス.md" title="wikilink">プロキオンステークス</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7月19日</p></td>
+<td><p><a href="../Page/函館記念.md" title="wikilink">函館記念</a><br />
+<a href="../Page/中京記念.md" title="wikilink">中京記念</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月26日</p></td>
+<td><p><a href="../Page/アイビスサマーダッシュ.md" title="wikilink">アイビスサマーダッシュ</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8月2日</p></td>
+<td><p><a href="../Page/クイーンステークス.md" title="wikilink">クイーンステークス</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8月9日</p></td>
+<td><p><a href="../Page/エルムステークス.md" title="wikilink">エルムステークス</a><br />
+<a href="https://ja.wikipedia.org/wiki/レパードステークス" title="wikilink">レパードステークス</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8月16日</p></td>
+<td><p><a href="../Page/関屋記念.md" title="wikilink">関屋記念</a><br />
+<a href="../Page/小倉記念.md" title="wikilink">小倉記念</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8月23日</p></td>
+<td><p><a href="../Page/札幌記念.md" title="wikilink">札幌記念</a><br />
+<a href="../Page/北九州記念.md" title="wikilink">北九州記念</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8月30日</p></td>
+<td><p><a href="../Page/キーンランドカップ.md" title="wikilink">キーンランドカップ</a><br />
+<a href="../Page/新潟2歳ステークス.md" title="wikilink">新潟2歳ステークス</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9月13日</p></td>
+<td><p><a href="../Page/京成杯オータムハンデキャップ.md" title="wikilink">京成杯オータムハンデキャップ</a><br />
+<a href="../Page/セントウルステークス.md" title="wikilink">セントウルステークス</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>9月20日</p></td>
+<td><p><a href="../Page/ローズステークス.md" title="wikilink">ローズステークス</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9月27日</p></td>
+<td><p>オールカマー<br />
+神戸新聞杯</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10月4日</p></td>
+<td><p>スプリンターズステークス</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10月11日</p></td>
+<td><p><a href="../Page/毎日王冠.md" title="wikilink">毎日王冠</a><br />
+<a href="../Page/京都大賞典.md" title="wikilink">京都大賞典</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10月18日</p></td>
+<td><p>秋華賞</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -3925,8 +4040,8 @@ KTV[13]</p></td>
 
 2019年に入り、これまで[BSイレブン競馬中継](https://ja.wikipedia.org/wiki/BSイレブン競馬中継 "wikilink")が主だって編成していた[地方競馬](../Page/地方競馬.md "wikilink")の[ダートグレード競走](../Page/ダートグレード競走.md "wikilink")の中継が、BSフジで中継されることがある。
 
-  - 2019年11月4日（[振替休日](../Page/振替休日.md "wikilink")・[月曜日](../Page/月曜日.md "wikilink")）、[南関競馬の](../Page/南関東公営競馬.md "wikilink")[浦和競馬場](../Page/浦和競馬場.md "wikilink")にて行われた[JBC競走](https://ja.wikipedia.org/wiki/ジャパンブリーディングファームズカップ "wikilink")（[JBCレディスクラシック](https://ja.wikipedia.org/wiki/JBCレディスクラシック "wikilink")・[JBCスプリント](../Page/JBCスプリント.md "wikilink")・[JBCクラシック](../Page/JBCクラシック.md "wikilink")）の中継を13:00-16:00に中継した\[96\]。前日には直前特番も放送されている。
-  - 同年12月29日（日曜日）の[大井競馬場](../Page/大井競馬場.md "wikilink")・[東京大賞典](../Page/東京大賞典.md "wikilink")は、BSフジに加えフジテレビ（関東ローカル）でも中継された\[97\]。
+  - 2019年11月4日（[振替休日](../Page/振替休日.md "wikilink")・[月曜日](../Page/月曜日.md "wikilink")）、[南関競馬の](../Page/南関東公営競馬.md "wikilink")[浦和競馬場](../Page/浦和競馬場.md "wikilink")にて行われた[JBC競走](https://ja.wikipedia.org/wiki/ジャパンブリーディングファームズカップ "wikilink")（[JBCレディスクラシック](https://ja.wikipedia.org/wiki/JBCレディスクラシック "wikilink")・[JBCスプリント](../Page/JBCスプリント.md "wikilink")・[JBCクラシック](../Page/JBCクラシック.md "wikilink")）の中継を13:00-16:00に中継した\[97\]。前日には直前特番も放送されている。
+  - 同年12月29日（日曜日）の[大井競馬場](../Page/大井競馬場.md "wikilink")・[東京大賞典](../Page/東京大賞典.md "wikilink")は、BSフジに加えフジテレビ（関東ローカル）でも中継された\[98\]。
 
 ## その他
 
@@ -4038,11 +4153,12 @@ KTV[13]</p></td>
 87. 福島競馬場はバーデンバーデンカップ。
 88. 新潟競馬場は関越ステークス。
 89.
-90. 2020年の春競馬の一部GIは、NHKが中継取りやめの為特例でBSフジを含めて放送されない
+90. 2020年の春競馬の一部GIは、NHKが中継取りやめの為特例でBSフジを含めて放送されなかった。
 91. 2019年11月3日は『[FNS27時間テレビ にほんのスポーツは強いっ\!](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2019年\) "wikilink")』を放送しBSフジでBSみんなのKEIBAを編成
 92. 地上波放送の休止は2012年[3月11日](../Page/3月11日.md "wikilink")の[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")関連以来。
-93. [BSフジで競馬中継番組「BSスーパーKEIBA」を放送](http://www.jra.go.jp/news/201810/101001.html) 日本中央競馬会、2018年10月10日公開 2018年10月11日閲覧
-94.
+93. 2020年から夏季開催期間中は[北海道文化放送](../Page/北海道文化放送.md "wikilink")「[KEIBAプレミア](https://ja.wikipedia.org/wiki/KEIBAプレミア "wikilink")」MCを担当
+94. [BSフジで競馬中継番組「BSスーパーKEIBA」を放送](http://www.jra.go.jp/news/201810/101001.html) 日本中央競馬会、2018年10月10日公開 2018年10月11日閲覧
 95.
 96.
-97. [令和元年を締めくくるBIGレース「東京大賞典（GⅠ）」12月29日（日）フジテレビで初の生中継が決定！（BSフジでも同時放送）](https://www.tokyocitykeiba.com/news/45200/) 東京シティ競馬、2019年11月18日、2019年11月21日閲覧
+97.
+98. [令和元年を締めくくるBIGレース「東京大賞典（GⅠ）」12月29日（日）フジテレビで初の生中継が決定！（BSフジでも同時放送）](https://www.tokyocitykeiba.com/news/45200/) 東京シティ競馬、2019年11月18日、2019年11月21日閲覧

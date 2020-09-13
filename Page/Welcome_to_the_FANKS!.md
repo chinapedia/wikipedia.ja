@@ -138,7 +138,7 @@
     <!-- end list -->
       -
         31stシングル『[Happiness×3 Loneliness×3](../Page/Happiness×3_Loneliness×3.md "wikilink")』のカップリング曲。アルバム初収録。
-4.  **TIME（PASSED SO SLOWLY）**
+4.  **TIME（PASSES SO SLOWLY）**
       - 作詞：三浦徳子　作曲：小室哲哉　編曲：[ジミー・ブラロウアー](https://ja.wikipedia.org/wiki/ジミー・ブラロウアー "wikilink")、[ピーター・ウッド](https://ja.wikipedia.org/wiki/ピーター・ウッド "wikilink")
     <!-- end list -->
       -

@@ -1,7 +1,7 @@
 > この記事は[TOSS](https://ja.wikipedia.org/wiki/TOSS)から翻訳されています。
 
 
-**TOSS**（トス、Teacher's Organization of Skill Sharing（教育技術法則化運動）の略）とは、[向山洋一](../Page/向山洋一.md "wikilink")を代表とする、教師の教育技術についての方法（＝[指導法](https://ja.wikipedia.org/wiki/指導法 "wikilink")）を提唱する集団、およびその活動である。以前は、「教育技術の法則化運動」あるいは「法則化」と呼称していた。
+**TOSS**（トス、Teacher's Organization of Skill Sharing（教育技術法則化運動）の略）とは、[向山洋一](../Page/向山洋一.md "wikilink")を代表とする、教師の教育技術についての方法（＝[指導法](https://ja.wikipedia.org/wiki/指導法 "wikilink")）を提唱する集団、およびその活動である。以前は、「教育技術の法則化運動」あるいは「法則化」と呼称していた
 
 ## 教育技術法則化運動
 

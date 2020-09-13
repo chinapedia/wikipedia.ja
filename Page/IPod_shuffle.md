@@ -1,7 +1,7 @@
 > この記事は[IPod shuffle](https://ja.wikipedia.org/wiki/IPod_shuffle)から翻訳されています。
 
 
-**iPod shuffle**（アイポッド シャッフル）は[アップルの](../Page/アップル_\(企業\).md "wikilink")[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")シリーズの一つとして発売された[デジタルオーディオプレーヤー](../Page/デジタルオーディオプレーヤー.md "wikilink")である。
+**iPod shuffle**（アイポッド シャッフル）は、かつて[アップルの](../Page/アップル_\(企業\).md "wikilink")[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")シリーズの一つとして販売されていた[デジタルオーディオプレーヤー](../Page/デジタルオーディオプレーヤー.md "wikilink")である。
 
 ## 概要
 

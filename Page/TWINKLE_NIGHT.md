@@ -172,6 +172,6 @@
 9.
 10.
 11.
-12. [自由国民社](../Page/自由国民社.md "wikilink")刊『[シンプジャーナル](https://ja.wikipedia.org/wiki/シンプジャーナル "wikilink")』1986年8月号18Pより。
+12. [自由国民社](../Page/自由国民社.md "wikilink")刊『[シンプジャーナル](https://ja.wikipedia.org/wiki/シンプジャーナル "wikilink")』1986年8月号「TM NETWORK ツアー直前インタビュー 金色のDISCO DREAM」18Pより。
 13.
 14.

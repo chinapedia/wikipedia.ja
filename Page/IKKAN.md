@@ -21,7 +21,9 @@
 
 2019年、山本桃々子をプロデューサーとしてIKKAN Creating Worksを立ち上げる。
 
-## 出演（テレビ番組）  
+## 出演
+
+### テレビ番組
 
 **1996年**
 
@@ -57,7 +59,7 @@
 
   - [実況される男](https://ja.wikipedia.org/wiki/実況される男 "wikilink")（フジテレビ）　- 実況・山本剛史
 
-## 出演（声優）
+### 吹き替え
 
 **1996年**
 
@@ -130,7 +132,7 @@
 
   - [アラジン](https://ja.wikipedia.org/wiki/アラジン_\(2019年の映画\) "wikilink")\[3\]
 
-## 出演（ゲーム）
+### ゲーム
 
   - [半熟英雄](../Page/半熟英雄.md "wikilink")対3D（[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")） - スケルトン男爵、ブロックゴーレム、クーモン、ダスモン ほか
   - 半熟英雄4（スクウェア・エニックス） - ランプキン ほか
@@ -141,13 +143,13 @@
   - [でんぢゃらすじーさんと1000人のお友だち邪](https://ja.wikipedia.org/wiki/でんぢゃらすじーさんと1000人のお友だち邪 "wikilink") - お友だち軍団
   - [蒼き雷霆 ガンヴォルト](https://ja.wikipedia.org/wiki/蒼き雷霆_ガンヴォルト "wikilink")
 
-## プロデュース（芸人）
+## 芸人のプロデュース
 
   - [虹組キララ](https://ja.wikipedia.org/wiki/虹組キララ "wikilink") - オフィス★怪人社本公演「魁！女塾」で演じた「強子」という役が元となる。男前な女性。地声がハスキーなので、普通の女性役よりも男っぽい役の方が、しゃべり方がしっくりくるという理由。[onna2](https://ja.wikipedia.org/wiki/onna2 "wikilink")というコンビで、最初はキャラクター無しでボケを演じていたが、「強子のように男前に演じよう」とした。宝塚風メイクにするにあたって、声優仕事での友人で元・宝塚歌劇団の[葛城七穂](../Page/葛城七穂.md "wikilink")にアドバイスを受け、エンタの神様出演時にはメイクを担当してもらう。
 
 <!-- end list -->
 
-  - [鉄拳](../Page/鉄拳_\(お笑い芸人\).md "wikilink") - 1997年5月のオフィス★怪人社本公演「男汁（邦題）」を、ぴあの招待券が当たって観劇に来る。「ここなら居場所があるかも」と入団オーディションを受ける。当初、鉄拳本人は鉄拳のゲームに出てくる三島という親父のキャラクターのような髪型をしているから「鉄拳親父」という芸名を希望したが、IKKANが「『親父』いらねえよ」とし「鉄拳」という芸名になる。ナムコの鉄拳からクレームがくるかもと不安を覚えた鉄拳だったが、「こねえよ」と一蹴。そののち、ナムコからオファーがあり広告などにも登場するようになる。オンエアバトルでテレビ初登場。IKKANがお世話になっていた「[元祖爆笑王](../Page/元祖爆笑王.md "wikilink")」こと高橋が「めちゃイケ出させてやるよ」とめちゃイケ出演が決定する。イラスト自体は鉄拳が描いているが、いくつかは他の人間が描いている。めちゃイケで「[金城武](../Page/金城武.md "wikilink")」の絵が利用され、「めちゃイケ大百科（扶桑社）」にも収録されている絵があるが、実際にはIKKANが描いている。他「たけしの誰でもピカソ」でも使用され、書籍にも収録されている「モナリザ」の絵は、オフィス★怪人社社長の[新井祥](https://ja.wikipedia.org/wiki/新井祥 "wikilink")が描いている。
+  - [鉄拳](../Page/鉄拳_\(お笑い芸人\).md "wikilink") - 1997年5月のオフィス★怪人社本公演「男汁（邦題）」を、ぴあの招待券が当たって観劇に来る。「ここなら居場所があるかも」と入団オーディションを受ける。当初はゲーム「鉄拳」の三島という親父のキャラクターのような髪型をしているから「鉄拳親父」という芸名を希望したが、IKKANが「『親父』いらねえよ」とし「鉄拳」という芸名になる。本人はナムコからクレームがくるかもと不安を覚えたが、IKKANは「こねえよ」と一蹴。そののち、ナムコからオファーがあり広告などにも登場するようになる。オンエアバトルでテレビ初登場。IKKANが世話になっていた「[元祖爆笑王](../Page/元祖爆笑王.md "wikilink")」こと高橋が「めちゃイケ出させてやるよ」とめちゃイケ出演が決定する。イラスト自体は鉄拳が描いているが、いくつかは他の人間が描いている。めちゃイケで「[金城武](../Page/金城武.md "wikilink")」の絵が利用され、扶桑社「めちゃイケ大百科」にも収録されている絵があるが、実際にはIKKANが描いている。他「たけしの誰でもピカソ」でも使用され、書籍にも収録されている「モナリザ」の絵は、オフィス★怪人社社長の[新井祥](https://ja.wikipedia.org/wiki/新井祥 "wikilink")が描いている。
 
 <!-- end list -->
 
@@ -299,7 +301,7 @@
   - [IKKANプロデュース公式ブログ](https://ameblo.jp/ikkanproduce/)
   - [IKKANプロデュース映像](https://www.youtube.com/ikkanikkanikkan/)
 
-[Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:日本の男性声優](https://ja.wikipedia.org/wiki/Category:日本の男性声優 "wikilink") [Category:日本の著作家](https://ja.wikipedia.org/wiki/Category:日本の著作家 "wikilink") [Category:日本の演出家](https://ja.wikipedia.org/wiki/Category:日本の演出家 "wikilink") [Category:日本の実業家](https://ja.wikipedia.org/wiki/Category:日本の実業家 "wikilink") [Category:オフィス怪人社](https://ja.wikipedia.org/wiki/Category:オフィス怪人社 "wikilink") [Category:テアトル・エコー](https://ja.wikipedia.org/wiki/Category:テアトル・エコー "wikilink") [Category:北海道出身の人物](https://ja.wikipedia.org/wiki/Category:北海道出身の人物 "wikilink") [Category:1971年生](https://ja.wikipedia.org/wiki/Category:1971年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:東村アキコ](https://ja.wikipedia.org/wiki/Category:東村アキコ "wikilink")
+[Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:日本の男性声優](https://ja.wikipedia.org/wiki/Category:日本の男性声優 "wikilink") [Category:日本の著作家](https://ja.wikipedia.org/wiki/Category:日本の著作家 "wikilink") [Category:日本の舞台演出家](https://ja.wikipedia.org/wiki/Category:日本の舞台演出家 "wikilink") [Category:日本の実業家](https://ja.wikipedia.org/wiki/Category:日本の実業家 "wikilink") [Category:オフィス怪人社](https://ja.wikipedia.org/wiki/Category:オフィス怪人社 "wikilink") [Category:テアトル・エコー](https://ja.wikipedia.org/wiki/Category:テアトル・エコー "wikilink") [Category:北海道出身の人物](https://ja.wikipedia.org/wiki/Category:北海道出身の人物 "wikilink") [Category:1971年生](https://ja.wikipedia.org/wiki/Category:1971年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:東村アキコ](https://ja.wikipedia.org/wiki/Category:東村アキコ "wikilink")
 
 1.  新井祥「性別R\! 2」P.46
 2.

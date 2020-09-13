@@ -555,7 +555,7 @@ CPUの分野では業務用向けに[64ビット](../Page/64ビット.md "wikili
 <!-- end list -->
 
   -
-    64ビットマルチコアCPU。全モデル動作周波数の増加(最大で300MHz)。CPUに接続された最大16の[PCI Express](../Page/PCI_Express.md "wikilink") 3.0レーン。[PCHに接続された最大](../Page/サウスブリッジ.md "wikilink")24のPCI Express 3.0レーンに対応。Intel [Optane](https://ja.wikipedia.org/wiki/Optane "wikilink") テクノロジーのサポート
+    64ビットマルチコアCPU。全モデル動作周波数の増加(最大で300MHz)。CPUに接続された最大16の[PCI Express](../Page/PCI_Express.md "wikilink") 3.0レーン。[PCHに接続された最大](https://ja.wikipedia.org/wiki/プラットフォーム・コントローラー・ハブ "wikilink")24のPCI Express 3.0レーンに対応。Intel [Optane](https://ja.wikipedia.org/wiki/Optane "wikilink") テクノロジーのサポート
     今まであった｢Core m5｣･｢Core m7｣はブランドから排除された。プロセスルールは14nmから変更はない。
 
 <!-- end list -->
@@ -607,17 +607,17 @@ CPUの分野では業務用向けに[64ビット](../Page/64ビット.md "wikili
 
 <!-- end list -->
 
-  - 2018年10月8日 インテル、Coffee Lake Refreshマイクロアーキテクチャ(Coffee Lake-R)を採用した第9世代Coreシリーズを発表。
+  - 2018年10月8日 インテル、Coffee Lake Refreshマイクロアーキテクチャを採用した第9世代Coreシリーズを発表。
 
 <!-- end list -->
 
   -
-    64ビットマルチコアCPU。一般消費者向けに販売されたCPUとして初めて5GHz駆動に至った。
+    64ビットマルチコアCPU。
     プロセスルールは14nmから変更はない。
 
 <!-- end list -->
 
-  - 2018年 インテル、[Cannon Lakeマイクロアーキテクチャを採用した第](https://ja.wikipedia.org/wiki/Cannon_Lakeマイクロアーキテクチャ "wikilink")10世代Corei3を発表。
+  - 2018年8月 インテル、[Cannon Lakeマイクロアーキテクチャを採用した第](https://ja.wikipedia.org/wiki/Cannon_Lakeマイクロアーキテクチャ "wikilink")10世代Corei3を発表。
 
 <!-- end list -->
 
@@ -652,6 +652,15 @@ CPUの分野では業務用向けに[64ビット](../Page/64ビット.md "wikili
   -
     前世代のZENの改良版である。対応チップセットはX570、X470.B450、X370.B350など。
     Ryzen9、3950Xでの最大ブーストクロックは4.7GHz。インテルが7nmプロセスの立ち上げにつまづいたことにより、TSMCのプロセスを使うAMDの存在感が高まった。
+
+<!-- end list -->
+
+  - [2020年](../Page/2020年.md "wikilink")6月22日 アップル、MacintoshのプロセッサをIntelから[Appleシリコン](../Page/Appleシリコン.md "wikilink")に移行することを表明。
+
+<!-- end list -->
+
+  -
+    ArmコアとGPU、周辺回路を集積したSoCを独自開発することで他社との差別化を狙う。パソコンにおいても汎用CPUからカスタムチップへの転換が始まった。
 
 ## 脚注
 

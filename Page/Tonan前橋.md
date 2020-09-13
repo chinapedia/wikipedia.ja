@@ -7,7 +7,7 @@
 
 ### 1982年 - 2005年
 
-[1982年](../Page/1982年.md "wikilink")、高校サッカー界で強豪である[群馬県立前橋商業高等学校](https://ja.wikipedia.org/wiki/群馬県立前橋商業高等学校 "wikilink")サッカー部監督の奈良知彦が中心になって前橋商業高校サッカー部OBたちが集まり「図南サッカークラブ」を結成した。クラブ名は諺の「[図南の翼](https://ja.wikipedia.org/wiki/図南の翼 "wikilink")」に由来する。当初はOBが卒業して社会人になってからも体を動かしサッカーを楽しめるように作られたサッカー倶楽部という趣もあった。
+[1982年](../Page/1982年.md "wikilink")、高校サッカー界で強豪である[群馬県立前橋商業高等学校](https://ja.wikipedia.org/wiki/群馬県立前橋商業高等学校 "wikilink")サッカー部監督の奈良知彦が中心になって前橋商業高校サッカー部OBたちが集まり「**図南サッカークラブ**」を結成した。クラブ名は諺の「[図南の翼](https://ja.wikipedia.org/wiki/図南の翼 "wikilink")」に由来する。当初はOBが卒業して社会人になってからも体を動かしサッカーを楽しめるように作られたサッカー倶楽部という趣もあった。
 
 しかし、[群馬県リーグ](../Page/群馬県社会人サッカーリーグ.md "wikilink")3部に参戦すると初年度からチームワークを発揮し、そのシーズンは県選手権ベスト4という成績を残す。
 
@@ -61,7 +61,7 @@
 
 ## ホームスタジアム
 
-2019年の関東サッカーリーグでは、**[前橋総合運動公園群馬電工陸上競技・サッカー場](https://ja.wikipedia.org/wiki/前橋総合運動公園陸上競技・サッカー場 "wikilink")**、**NTT図南スーパーグラウンド**でホームゲームを開催する。
+2020年の関東サッカーリーグでは、**[前橋総合運動公園群馬電工陸上競技・サッカー場](https://ja.wikipedia.org/wiki/前橋総合運動公園陸上競技・サッカー場 "wikilink")**、**[NTT図南スーパーグラウンド](https://ja.wikipedia.org/wiki/NTT図南スーパーグラウンド "wikilink")**でホームゲームを開催する。
 
 2013年にJリーグ準加盟申請を行った際は、**前橋総合運動公園陸上競技・サッカー場**をホームグラウンドとした（2013年は最終節のみ当地で開催）。
 
@@ -105,25 +105,29 @@
 | [2017](https://ja.wikipedia.org/wiki/2017年の地域リーグ_\(サッカー\) "wikilink") | 関東2部                                         | **2位** | 31 | 18 | 9  | 4    | 5   | 26 | 21    | \+5     | **2回戦** |
 | [2018](https://ja.wikipedia.org/wiki/2018年の地域リーグ_\(サッカー\) "wikilink") | **3位**                                       | 31     | 18 | 8  | 7  | 3    | 27  | 13 | \+14  | 県予選準優勝  |         |
 | [2019](https://ja.wikipedia.org/wiki/2019年の地域リーグ_\(サッカー\) "wikilink") | **4位**                                       | 28     | 18 | 8  | 4  | 6    | 39  | 30 | \+9   | 県予選準優勝  |         |
+| [2020](../Page/2020年の地域リーグ_\(サッカー\).md "wikilink")                    | 位                                            |        | 9  |    |    |      |     |    |       |         |         |
+|                                                                       |                                              |        |    |    |    |      |     |    |       |         |         |
+
+  - 注釈
+
+<!-- end list -->
 
   - ( )はPK戦
 
-### 全国社会人大会
+### 全国社会人サッカー選手権大会
 
 <table>
-<thead>
-<tr class="header">
-<th><p>年度</p></th>
-<th><p>成績</p></th>
-<th><p>1回戦</p></th>
-<th><p>2回戦</p></th>
-<th><p>準々決勝</p></th>
-<th><p>準決勝</p></th>
-<th><p>3位決定戦</p></th>
-</tr>
-</thead>
 <tbody>
 <tr class="odd">
+<td><p>年度</p></td>
+<td><p>成績</p></td>
+<td><p>1回戦</p></td>
+<td><p>2回戦</p></td>
+<td><p>準々決勝</p></td>
+<td><p>準決勝</p></td>
+<td><p>3位決定戦</p></td>
+</tr>
+<tr class="even">
 <td><p>1999</p></td>
 <td><p><strong>1回戦</strong></p></td>
 <td><p><strong>3-4</strong><br />
@@ -134,7 +138,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2000</p></td>
 <td><p><strong>1回戦</strong></p></td>
 <td><p><strong>3(6PK7)3</strong><br />
@@ -145,7 +149,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2001</p></td>
 <td><p><strong>1回戦</strong></p></td>
 <td><p><strong>1-2</strong><br />
@@ -156,7 +160,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2006</p></td>
 <td><p><strong>1回戦</strong></p></td>
 <td><p><strong>0-3</strong><br />
@@ -167,7 +171,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2007</p></td>
 <td><p><strong>1回戦</strong></p></td>
 <td><p><strong>1-4</strong><br />
@@ -178,7 +182,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2008</p></td>
 <td><p><strong>2回戦</strong></p></td>
 <td><p><strong>2(3PK2)2</strong><br />
@@ -191,14 +195,14 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2009</p></td>
 <td><p><strong>3位</strong></p></td>
 <td><p><strong>3-1</strong><br />
-<a href="https://ja.wikipedia.org/wiki/びわこスポーツクラブ" title="wikilink">BIWAKO S.C.HIRA</a><br />
+<a href="https://ja.wikipedia.org/wiki/びわこ成蹊スポーツ大学サッカー部" title="wikilink">BIWAKO S.C.HIRA</a><br />
 (関西)</p></td>
 <td><p><strong>1 (7PK6) 1</strong><br />
-<a href="https://ja.wikipedia.org/wiki/新日鐵住金大分サッカー部" title="wikilink">新日鐵大分</a><br />
+<a href="https://ja.wikipedia.org/wiki/日本製鉄大分サッカー部" title="wikilink">新日鐵大分</a><br />
 (九州)</p></td>
 <td><p><strong>1-0</strong><br />
 <a href="../Page/横浜スポーツ&amp;カルチャークラブ.md" title="wikilink">Y.S.C.C.横浜</a><br />
@@ -210,7 +214,7 @@
 <a href="../Page/AC長野パルセイロ.md" title="wikilink">AC長野パルセイロ</a><br />
 (北信越)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2010</p></td>
 <td><p><strong>ベスト8</strong></p></td>
 <td><p><strong>2(延長)1</strong><br />
@@ -225,7 +229,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2013</p></td>
 <td><p><strong>1回戦</strong></p></td>
 <td><p><strong>2-3</strong><br />
@@ -236,130 +240,137 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
-### 関東社会人大会
+### 関東社会人サッカー大会
 
 <table>
-<thead>
-<tr class="header">
-<th><p>年度</p></th>
-<th><p>成績</p></th>
-<th><p>1回戦</p></th>
-<th><p>準々決勝</p></th>
-<th><p>準決勝</p></th>
-<th><p>決勝</p></th>
-</tr>
-</thead>
 <tbody>
 <tr class="odd">
+<td><p>年度</p></td>
+<td><p>成績</p></td>
+<td><p>1回戦</p></td>
+<td><p>準々決勝</p></td>
+<td><p>準決勝</p></td>
+<td><p>決勝</p></td>
+</tr>
+<tr class="even">
 <td><p>1996</p></td>
 <td><p><strong>ベスト4</strong></p></td>
 <td><p><strong>5-1</strong><br />
-武南FC<br />
+<a href="https://ja.wikipedia.org/wiki/武南FC" title="wikilink">武南FC</a><br />
 (埼玉県3位)</p></td>
 <td><p><strong>1(4PK2)1</strong><br />
-矢板FC<br />
+<a href="../Page/ヴェルフェ矢板.md" title="wikilink">矢板SC</a><br />
 (栃木県2位)</p></td>
 <td><p><strong>0-1</strong><br />
-動燃東海<br />
+<a href="https://ja.wikipedia.org/wiki/動燃東海サッカー部" title="wikilink">動燃東海</a><br />
 (茨城県2位)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1998</p></td>
 <td><p><strong>ベスト8</strong></p></td>
 <td><p><strong>4-0</strong><br />
-与野蹴魂会<br />
+<a href="https://ja.wikipedia.org/wiki/与野蹴魂会" title="wikilink">与野蹴魂会</a><br />
 (埼玉県2位)</p></td>
-<td><p><strong>0-1v</strong><br />
+<td><p><strong>0-1</strong><br />
 <a href="../Page/栃木SC.md" title="wikilink">栃木SC</a><br />
 (栃木県1位)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1999</p></td>
 <td><p><strong>ベスト8</strong></p></td>
 <td><p><strong>4-0</strong><br />
-越谷FC<br />
+<a href="https://ja.wikipedia.org/wiki/越谷FC" title="wikilink">越谷FC</a><br />
 (埼玉県2位)</p></td>
 <td><p><strong>3-4</strong><br />
-東邦チタニウム<br />
+<a href="../Page/東邦チタニウムサッカー部.md" title="wikilink">東邦チタニウム</a><br />
 (神奈川県1位)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2000</p></td>
 <td><p><strong>準優勝</strong></p></td>
 <td><p><strong>3-0</strong><br />
-日立水戸<br />
+<a href="https://ja.wikipedia.org/wiki/日立水戸エンジニアリングサービスサッカー部" title="wikilink">日立水戸</a><br />
 (茨城県2位)</p></td>
 <td><p><strong>2-0</strong><br />
 藤沢市役所<br />
 (開催地)</p></td>
 <td><p><strong>4-1</strong><br />
-矢板SC<br />
+<a href="../Page/ヴェルフェ矢板.md" title="wikilink">矢板SC</a><br />
 (栃木県1位)</p></td>
 <td><p><strong>1(3PK5)1</strong><br />
-海自厚木マーカス<br />
+<a href="../Page/海上自衛隊厚木基地マーカス.md" title="wikilink">海自厚木マーカス</a><br />
 (神奈川県1位)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2003</p></td>
 <td><p><strong>ベスト8</strong></p></td>
 <td><p><strong>4-1</strong><br />
-六浦FC<br />
+<a href="https://ja.wikipedia.org/wiki/六浦FC" title="wikilink">六浦FC</a><br />
 (神奈川県2位)</p></td>
-<td><p><strong>0-1v</strong><br />
-神奈川県教員SC<br />
+<td><p><strong>0-1(Vゴール)</strong><br />
+<a href="https://ja.wikipedia.org/wiki/神奈川県教員サッカークラブ" title="wikilink">神奈川県教員SC</a><br />
 (神奈川県1位)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2004</p></td>
 <td><p><strong>ベスト4</strong></p></td>
 <td><p><strong>2-1</strong><br />
-日立ビルシステム<br />
+<a href="https://ja.wikipedia.org/wiki/日立ビルシステムサッカー部" title="wikilink">日立ビルシステム</a><br />
 (東京都2位)</p></td>
 <td><p><strong>1-0</strong><br />
-柏FC<br />
+<a href="https://ja.wikipedia.org/wiki/柏FC" title="wikilink">柏FC</a><br />
 (千葉県1位)</p></td>
 <td><p><strong>1(2PK4)1</strong><br />
-飯能ブルーダー<br />
+<a href="../Page/ACアルマレッザ入間.md" title="wikilink">飯能ブルーダー</a><br />
 (埼玉県1位)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2005</p></td>
 <td><p><strong>1回戦</strong></p></td>
 <td><p><strong>0-1</strong><br />
-トステムFC<br />
+<a href="https://ja.wikipedia.org/wiki/トステムFC" title="wikilink">トステムFC</a><br />
 (茨城県1位)</p></td>
 <td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2006</p></td>
+<td><p><strong>ベスト8</strong></p></td>
+<td><p><strong>8-1</strong><br />
+<a href="https://ja.wikipedia.org/wiki/宇都宮FC" title="wikilink">宇都宮FC</a><br />
+(栃木県1位)</p></td>
+<td><p><strong>2-3</strong><br />
+<a href="https://ja.wikipedia.org/wiki/流通経済大学サッカー部#流通経済大学ドラゴンズ龍ケ崎" title="wikilink">クラブ・ドラゴンズ</a><br />
+(茨城県1位)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2006</p></td>
-<td><p><strong>ベスト8</strong></p></td>
-<td><p><strong>8-1</strong><br />
-宇都宮FC<br />
-(栃木県1位)</p></td>
-<td><p><strong>2-3</strong><br />
-クラブ・ドラゴンズ<br />
-(茨城県1位)</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>2007</p></td>
 <td><p><strong>ベスト8</strong></p></td>
 <td><p><strong>2(3PK1)2</strong><br />
-横浜猛蹴<br />
+<a href="https://ja.wikipedia.org/wiki/横浜猛蹴フットボールクラブ" title="wikilink">横浜猛蹴</a><br />
 (神奈川県2位)</p></td>
 <td><p><strong>0-1</strong><br />
 <a href="https://ja.wikipedia.org/wiki/FC_KOREA" title="wikilink">FC KOREA</a><br />
@@ -367,35 +378,48 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2008</p></td>
 <td><p><strong>優勝</strong></p></td>
 <td><p><strong>2-1</strong><br />
-六浦FC<br />
+<a href="https://ja.wikipedia.org/wiki/六浦FC" title="wikilink">六浦FC</a><br />
 (神奈川県2位)</p></td>
 <td><p><strong>2-1</strong><br />
-坂戸シティFC<br />
+<a href="https://ja.wikipedia.org/wiki/大成シティFC坂戸" title="wikilink">坂戸シティFC</a><br />
 (埼玉県3位)</p></td>
 <td><p><strong>1(5PK4)1</strong><br />
-東京海上日動火災保険<br />
+<a href="https://ja.wikipedia.org/wiki/東京海上日動火災保険サッカー部" title="wikilink">東京海上日動火災保険</a><br />
 (東京都3位)</p></td>
 <td><p><strong>2-0</strong><br />
-日立ビルシステム<br />
+<a href="https://ja.wikipedia.org/wiki/日立ビルシステムサッカー部" title="wikilink">日立ビルシステム</a><br />
 (東京都1位)</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
 
 ## タイトル
 
-  - [関東社会人サッカー大会](../Page/関東社会人サッカー大会.md "wikilink")：2回
+### リーグ戦
+
+  - **[関東社会人サッカー大会](../Page/関東社会人サッカー大会.md "wikilink")：2回**
       - 1992年、2008年
-  - [群馬県サッカー協会長杯サッカー大会](../Page/群馬県サッカー協会長杯サッカー大会.md "wikilink")：4回
-      - 2007年、2012年、2015年、2017年
-  - [群馬県サッカー総合選手権大会](https://ja.wikipedia.org/wiki/群馬県サッカー総合選手権大会 "wikilink")：13回
-      - 1990年、1994年、1996年～2000年、2002年～2007年
-  - [群馬県社会人サッカーリーグ](../Page/群馬県社会人サッカーリーグ.md "wikilink")1部：14回
+  - **[群馬県社会人サッカーリーグ](../Page/群馬県社会人サッカーリーグ.md "wikilink")1部：14回**
       - 1991年～1992年、1994年～1996年、1998年～2000年、2003年～2008年
+
+### カップ戦
+
+  - **[群馬県サッカー協会長杯サッカー大会](../Page/群馬県サッカー協会長杯サッカー大会.md "wikilink")：4回**
+      - 2007年、2012年、2015年、2017年
+  - **[群馬県サッカー総合選手権大会](https://ja.wikipedia.org/wiki/群馬県サッカー総合選手権大会 "wikilink")：13回**
+      - 1990年、1994年、1996年～2000年、2002年～2007年
 
 ## ユニフォーム
 
@@ -419,27 +443,34 @@ SEKICHU</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>鎖骨</p></td>
+<td><p>なし</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>背中上部</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士オート" title="wikilink">富士スバル</a></p></td>
 <td><p>富士スバル</p></td>
 <td><p>2014年 -</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>背中下部</p></td>
 <td><p>津端</p></td>
 <td><p>TSUBATA</p></td>
 <td><p>2018年4月 -</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>袖</p></td>
 <td><p><a href="http://persjapan.co.jp/">パースジャパン</a></p></td>
 <td><p>PERS JAPAN CO,LTD.</p></td>
 <td><p>2018年 -</p></td>
 <td><p>2017年はパンツ</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>パンツ</p></td>
 <td><p>S&amp;I SCOUT</p></td>
 <td><p><a href="http://www.tipoal.com/frt/main/mainList.do">TIPOAL</a></p></td>
@@ -456,7 +487,7 @@ SEKICHU</p></td>
   - 2011年 - 2012年 : ミズノ
   - 2013年 - 2016年 : [アディダス](../Page/アディダス.md "wikilink")
   - 2017年 : [sfida](https://ja.wikipedia.org/wiki/sfida "wikilink")
-  - 2018年 - 2019年 : [スーペルボーラ](http://www.superbolla.com.br/loja/)
+  - 2018年 - 2019年 : [スーペルボーラ](https://www.superbolla.com.br/)
   - 2020年 : [エグゼフ](https://thexf.net/)
 
 {{-}}
@@ -508,7 +539,7 @@ SEKICHU</p></td>
 <td><p>2010</p></td>
 <td><p>-</p></td>
 <td><p><a href="http://fanex.jp/pc/index.php">FANEX</a></p></td>
-<td><p><a href="../Page/ヤマダ電機.md" title="wikilink">YAMADA</a></p></td>
+<td><p><a href="../Page/ヤマダ電機.md" title="wikilink">YΛMADΛ</a></p></td>
 <td><p>Forala</p></td>
 <td></td>
 <td></td>
@@ -603,7 +634,7 @@ VALIENTEFC<br />
 <td><p>-/<br />
 TSUBATA</p></td>
 <td><p><a href="http://www.tipoal.com/frt/main/mainList.do">TIPOAL</a></p></td>
-<td><p><a href="http://www.superbolla.com.br/loja/">Super Bolla</a></p></td>
+<td><p><a href="https://www.superbolla.com.br/">Super Bolla</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -647,8 +678,8 @@ TSUBATA</p></td>
 ## 関連項目
 
   - [tonan前橋の選手一覧](https://ja.wikipedia.org/wiki/tonan前橋の選手一覧 "wikilink")
-  - [ザスパクサツ群馬](https://ja.wikipedia.org/wiki/ザスパクサツ群馬 "wikilink")
   - [tonan前橋サテライト](https://ja.wikipedia.org/wiki/tonan前橋サテライト "wikilink")
+  - [ザスパクサツ群馬](https://ja.wikipedia.org/wiki/ザスパクサツ群馬 "wikilink")
   - [過去にJリーグ加盟を目指していたクラブ](https://ja.wikipedia.org/wiki/過去にJリーグ加盟を目指していたクラブ "wikilink")
 
 ## 参照

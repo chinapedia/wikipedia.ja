@@ -1,36 +1,39 @@
 > この記事は[SEパルメイラス](https://ja.wikipedia.org/wiki/SEパルメイラス)から翻訳されています。
 
 
-**SEパルメイラス** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[サンパウロ州](https://ja.wikipedia.org/wiki/サンパウロ州 "wikilink")[サンパウロ](../Page/サンパウロ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。[ブラジルポルトガル語](../Page/ブラジルポルトガル語.md "wikilink")発音の**パウメイラス**と表記されることもある。
+**SEパルメイラス** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[サンパウロ州](https://ja.wikipedia.org/wiki/サンパウロ州 "wikilink")[サンパウロ](../Page/サンパウロ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。ブラジルの公用語である[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")の発音により、**パウメイラス**と表記されることも多い。
 
 ## 概要
 
-サンパウロのビッグ4の1角を占めるクラブである。 愛称は「Verdão (偉大な緑) 」、「Porco (豚) 」。ユニフォームの色は緑・白・緑。[サンパウロ州選手権優勝](../Page/カンピオナート・パウリスタ.md "wikilink")22回、[ブラジル全国選手権優勝](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink")4回、[コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink")優勝1回などの実績を有する。 [タッサ・ブラジル](https://ja.wikipedia.org/wiki/タッサ・ブラジル "wikilink")と[トルネイオ・ロベルト・ゴメス・ペドロサ](https://ja.wikipedia.org/wiki/トルネイオ・ロベルト・ゴメス・ペドロサ "wikilink")（1960年代のブラジル王者を決める大会）の優勝回数を含めるとブラジル王者に計8度輝いており、優勝回数は[サントスFC](../Page/サントスFC.md "wikilink")と並んで国内最多である。 ブラジル全国で4番目に人気のあるクラブで、サンパウロ州では3番目に人気のあるクラブである\[1\]。 [SCコリンチャンス・パウリスタ](../Page/SCコリンチャンス・パウリスタ.md "wikilink")との試合は「[デルビー・パウリスタ](../Page/サンパウロ・ダービー.md "wikilink")」、[サンパウロFC](../Page/サンパウロFC.md "wikilink")との試合は「ショキ・レイ」として知られる。
+サンパウロ州のBIG4の1角を占めるクラブ。愛称は、「Verdão (ヴェルダン、緑の愛情のこもった形) 」「Porco (ポルコ、豚の意) 」。ユニフォームの色は緑と白。[パウリスタ優勝](../Page/カンピオナート・パウリスタ.md "wikilink")23回、[ブラジレイロ優勝](../Page/カンピオナート・ブラジレイロ.md "wikilink")10回（内、[ブラジレイロ・セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") 6回、[タッサ・ブラジル](https://ja.wikipedia.org/wiki/タッサ・ブラジル "wikilink") 2回、 2回）、[コパ・ド・ブラジル](https://ja.wikipedia.org/wiki/コパ・ド・ブラジル "wikilink")優勝3回、世界初のクラブ世界選手権に相当する \[1\]\[2\]、 優勝1回、 [コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink")優勝1回などの実績を有する。
 
 ## 歴史
 
-[1914年](../Page/1914年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink")に[イタリア](../Page/イタリア.md "wikilink")系移民によって創立された。当初のクラブ名は**SSパレストラ・イタリア** (*Società Sportiva Palestra Italia*) だったが、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")でブラジルが[連合国側についたためにイタリア語名の使用が禁じられて](../Page/連合国_\(第二次世界大戦\).md "wikilink")、[1942年](../Page/1942年.md "wikilink")にSEパルメイラスに改名した。旧名はホームスタジアムの[エスタジオ・パレストラ・イタリア](https://ja.wikipedia.org/wiki/エスタジオ・パレストラ・イタリア "wikilink")（通称：パルケ・[アンタルチカ](https://ja.wikipedia.org/wiki/アンタルチカ "wikilink")）にその名残をとどめる。
+[1914年](../Page/1914年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")に[イタリア](../Page/イタリア.md "wikilink")系移民によって創設された。当初のクラブ名は、SSパレストラ・イタリア (*Società Sportiva Palestra Italia*) というものであったが、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")でブラジルが[連合国側に立ったため](../Page/連合国_\(第二次世界大戦\).md "wikilink")、イタリアに由来する名称の使用を禁じられたことにより、[1942年](../Page/1942年.md "wikilink")にSEパルメイラスと改名。また[イタリアの国旗](../Page/イタリアの国旗.md "wikilink")に由来するクラブカラーの緑、白、赤のうち赤が外された。
 
-また、イタリアの企業とも縁が深く、胸スポンサーには「[パルマラット](../Page/パルマラット.md "wikilink") (乳製品) 」、「[ピレリ](../Page/ピレリ.md "wikilink") (タイヤ) 」、「[フィアット](../Page/フィアット.md "wikilink") (自動車) 」等、イタリアを代表する企業（のブラジル法人）が担当している。
+旧名は2010年7月に取り壊された、旧ホームスタジアムの[エスタジオ・パレストラ・イタリア](https://ja.wikipedia.org/wiki/エスタジオ・パレストラ・イタリア "wikilink")（通称：パルケ・アンタルチカ）にその名残をとどめていた。また、現在でもファンの間では赤を含めた緑、白、赤をクラブのカラーとして使用する例も多い。その他、以前はイタリアの企業とも縁が深く、過去にはスポンサーとして、[パルマラット](../Page/パルマラット.md "wikilink") (乳製品) 、[ピレリ](../Page/ピレリ.md "wikilink") (タイヤ) 、[フィアット](../Page/フィアット.md "wikilink") (自動車) 等、イタリアを代表する企業（いずれも現地法人）がついていた。
 
-1916年にサンパウロ州選手権に初参加、1920年に初タイトルを獲得。1960年代に黄金時代を迎え、素晴らしいフットボールを魅せた。 このことから**アカデミア**（学院）のニックネームを得た。これはパルメイラスのフットボールは、フットボールのお手本を展開しているという意味である。そして、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")に開幕した[ブラジル全国選手権では](../Page/カンピオナート・ブラジレイロ.md "wikilink")1972年、1973年と連覇した。1975年にはアルゼンチン代表との親善試合に2対1で勝利した。
+1916年に[パウリスタに初参加したのち](../Page/カンピオナート・パウリスタ.md "wikilink")、1920年に初タイトルを獲得。1951年には世界初のクラブ世界選手権に相当する、に優勝するなどしたのち、1960年代に黄金時代を迎え、素晴らしいフットボールを魅せた。このことから[アカデミー](../Page/アカデミー.md "wikilink")のニックネームを得た。これはパルメイラスのフットボールは、フットボールのお手本を展開しているという意味である。[ブラジレイロでは](../Page/カンピオナート・ブラジレイロ.md "wikilink")、[1960年](../Page/1960年.md "wikilink")にから[1973年](../Page/1973年.md "wikilink")まで7回の優勝を経験している。1975年にはアルゼンチン代表との親善試合に2対1で勝利した。
 
-1992年にイタリアの食品会社[パルマラット](../Page/パルマラット.md "wikilink")がスポンサーについたことによってクラブは上昇気流に乗った。豊富な予算を手にしたパルメイラスは、1993年の全国選手権で約20年ぶりの優勝を果たすと、翌1994年にも連覇。1998年に初の南米主要タイトルとなる[コパ・メルコスール](../Page/コパ・メルコスール.md "wikilink")を獲得、1999年には[コパ・リベルタドーレスに優勝して南米一に輝いた](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス1999 "wikilink")。
+その後、長らくタイトルから遠ざかっていたが、1992年にイタリアの食品会社[パルマラット](../Page/パルマラット.md "wikilink")がスポンサーについたことによってクラブは上昇気流に乗った。豊富な予算を手にしたパルメイラスは、1993年の[ブラジレイロで](../Page/カンピオナート・ブラジレイロ.md "wikilink")、**約20年ぶり**の優勝を果たすと、翌1994年にも連覇。1998年に初の南米主要タイトルとなる[コパ・メルコスール](../Page/コパ・メルコスール.md "wikilink")を獲得、1999年には[コパ・リベルタドーレスに優勝して南米一に輝いた](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス1999 "wikilink")。
 
-2000年に経営難に陥ったパルマラットからの支援が打ち切られると経営は苦境に陥り、2003年にはとうとうセリエBに降格したが、1年でセリエAに復帰した。
-
-2012年、[コパ・ド・ブラジル](https://ja.wikipedia.org/wiki/コパ・ド・ブラジル "wikilink")に優勝したものの、ブラジル全国選手権では再び不振を極め、2013年シーズンのセリエBに降格することとなった。
+[ブラジレイロ・セリエAの](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink")2003年と2013年シーズンでは、セリエBに降格したが、それぞれ1年でセリエAに返り咲き、2016年と2018年にはセリエAのタイトルを獲得している。 2020年の[パウリスタでは](../Page/カンピオナート・パウリスタ.md "wikilink")、8月8日（現地時間）に、最大のライバルの[コリンチャンスとのダービーを接戦で制し](../Page/SCコリンチャンス・パウリスタ.md "wikilink")、12年ぶりの優勝を飾った。
 
 ## ライバル
 
-同じサンパウロを本拠地とする、[コリンチャンス](../Page/SCコリンチャンス・パウリスタ.md "wikilink")、[サンパウロ](../Page/サンパウロFC.md "wikilink")、[サントスとはパルメイラスを含め](../Page/サントスFC.md "wikilink")、サンパウロのビッグ4と呼ばれ、これらのチームとの対戦は、クラシコと呼ばれる。この中でも、パルメイラスにとって最大のライバルはコリンチャンスである。
+パルメイラスにとって最大のライバルは[コリンチャンスである](../Page/SCコリンチャンス・パウリスタ.md "wikilink")。パルメイラスと同じくサンパウロを本拠地とする、[コリンチャンス](../Page/SCコリンチャンス・パウリスタ.md "wikilink")、[SPFC](../Page/サンパウロFC.md "wikilink")、サンパウロ州[サントス](../Page/サントス.md "wikilink")の、[サントスFC](../Page/サントスFC.md "wikilink")はサンパウロの「BIG4」と呼ばれ、これらのクラブ同士の対戦はクラシコの名が冠せられている。コリンチャンスとの試合は、特に[ダービーとして特別な意味合いを持っている](../Page/ダービーマッチ.md "wikilink")。[SPFCとの試合は](../Page/サンパウロFC.md "wikilink")として知られる。
 
 ## タイトル
 
 ### 国内タイトル
 
-  - **[カンピオナート・ブラジレイロ・セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") : 10回** [Cbf_brazilian_championship_trophy_02.svg](https://ja.wikipedia.org/wiki/File:Cbf_brazilian_championship_trophy_02.svg "fig:Cbf_brazilian_championship_trophy_02.svg") [Cbf_brazilian_championship_trophy_02.svg](https://ja.wikipedia.org/wiki/File:Cbf_brazilian_championship_trophy_02.svg "fig:Cbf_brazilian_championship_trophy_02.svg") [Cbf_brazilian_championship_trophy_02.svg](https://ja.wikipedia.org/wiki/File:Cbf_brazilian_championship_trophy_02.svg "fig:Cbf_brazilian_championship_trophy_02.svg") [Cbf_brazilian_championship_trophy_02.svg](https://ja.wikipedia.org/wiki/File:Cbf_brazilian_championship_trophy_02.svg "fig:Cbf_brazilian_championship_trophy_02.svg") [Cbf_brazilian_championship_trophy_02.svg](https://ja.wikipedia.org/wiki/File:Cbf_brazilian_championship_trophy_02.svg "fig:Cbf_brazilian_championship_trophy_02.svg") [Cbf_brazilian_championship_trophy_02.svg](https://ja.wikipedia.org/wiki/File:Cbf_brazilian_championship_trophy_02.svg "fig:Cbf_brazilian_championship_trophy_02.svg") [Cbf_brazilian_championship_trophy_02.svg](https://ja.wikipedia.org/wiki/File:Cbf_brazilian_championship_trophy_02.svg "fig:Cbf_brazilian_championship_trophy_02.svg") [Cbf_brazilian_championship_trophy_02.svg](https://ja.wikipedia.org/wiki/File:Cbf_brazilian_championship_trophy_02.svg "fig:Cbf_brazilian_championship_trophy_02.svg") [Cbf_brazilian_championship_trophy_02.svg](https://ja.wikipedia.org/wiki/File:Cbf_brazilian_championship_trophy_02.svg "fig:Cbf_brazilian_championship_trophy_02.svg")
-      - 1960, 1967, 1967, 1969, 1972, 1973, 1993, 1994, 2016, 2018
+#### 現在も開催されている大会
+
+  - **[カンピオナート・ブラジレイロ・セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") : 10回**
+
+（[タッサ・ブラジル Brasil）](https://ja.wikipedia.org/wiki/タッサ・ブラジル "wikilink")（Taça、を含む）　[Cbf_brazilian_championship_trophy_02.svg](https://ja.wikipedia.org/wiki/File:Cbf_brazilian_championship_trophy_02.svg "fig:Cbf_brazilian_championship_trophy_02.svg") [Cbf_brazilian_championship_trophy_02.svg](https://ja.wikipedia.org/wiki/File:Cbf_brazilian_championship_trophy_02.svg "fig:Cbf_brazilian_championship_trophy_02.svg") [Cbf_brazilian_championship_trophy_02.svg](https://ja.wikipedia.org/wiki/File:Cbf_brazilian_championship_trophy_02.svg "fig:Cbf_brazilian_championship_trophy_02.svg") [Cbf_brazilian_championship_trophy_02.svg](https://ja.wikipedia.org/wiki/File:Cbf_brazilian_championship_trophy_02.svg "fig:Cbf_brazilian_championship_trophy_02.svg") [Cbf_brazilian_championship_trophy_02.svg](https://ja.wikipedia.org/wiki/File:Cbf_brazilian_championship_trophy_02.svg "fig:Cbf_brazilian_championship_trophy_02.svg") [Cbf_brazilian_championship_trophy_02.svg](https://ja.wikipedia.org/wiki/File:Cbf_brazilian_championship_trophy_02.svg "fig:Cbf_brazilian_championship_trophy_02.svg") [Cbf_brazilian_championship_trophy_02.svg](https://ja.wikipedia.org/wiki/File:Cbf_brazilian_championship_trophy_02.svg "fig:Cbf_brazilian_championship_trophy_02.svg") [Cbf_brazilian_championship_trophy_02.svg](https://ja.wikipedia.org/wiki/File:Cbf_brazilian_championship_trophy_02.svg "fig:Cbf_brazilian_championship_trophy_02.svg") [Cbf_brazilian_championship_trophy_02.svg](https://ja.wikipedia.org/wiki/File:Cbf_brazilian_championship_trophy_02.svg "fig:Cbf_brazilian_championship_trophy_02.svg")
+
+  -   - 1960, 1967, 1967, 1969, 1972, 1973, 1993, 1994, 2016, 2018
 
 <!-- end list -->
 
@@ -39,12 +42,18 @@
 
 <!-- end list -->
 
-  - **[コパ・ド・ブラジル](https://ja.wikipedia.org/wiki/コパ・ド・ブラジル "wikilink") : 3回** [CBF_Brazilian_Cup.png](https://ja.wikipedia.org/wiki/File:CBF_Brazilian_Cup.png "fig:CBF_Brazilian_Cup.png") [CBF_Brazilian_Cup.png](https://ja.wikipedia.org/wiki/File:CBF_Brazilian_Cup.png "fig:CBF_Brazilian_Cup.png") [CBF_Brazilian_Cup.png](https://ja.wikipedia.org/wiki/File:CBF_Brazilian_Cup.png "fig:CBF_Brazilian_Cup.png")
+  - **[コパ・ド・ブラジル](https://ja.wikipedia.org/wiki/コパ・ド・ブラジル "wikilink") : 3回**　[CBF_Brazilian_Cup.png](https://ja.wikipedia.org/wiki/File:CBF_Brazilian_Cup.png "fig:CBF_Brazilian_Cup.png") [CBF_Brazilian_Cup.png](https://ja.wikipedia.org/wiki/File:CBF_Brazilian_Cup.png "fig:CBF_Brazilian_Cup.png") [CBF_Brazilian_Cup.png](https://ja.wikipedia.org/wiki/File:CBF_Brazilian_Cup.png "fig:CBF_Brazilian_Cup.png")
       - 1998, 2012, 2015
 
 <!-- end list -->
 
-  - **[コパ・ドス・カンピオンイス](https://ja.wikipedia.org/wiki/コパ・ドス・カンピオンイス "wikilink") : 1回**
+  - **[カンピオナート・パウリスタ](../Page/カンピオナート・パウリスタ.md "wikilink") : 23回**
+      - 1920, 1926, 1927, 1932, 1933, 1934, 1936, 1940, 1942, 1944, 1947, 1950, 1959, 1963, 1966,
+        1972, 1974, 1976, 1993, 1994, 1996, 2008, 2020
+
+#### かつて開催されていた大会
+
+  - **[コパ・ドス・カンピオンイス](https://ja.wikipedia.org/wiki/コパ・ドス・カンピオンイス "wikilink")（チャンピオンズカップ） : 1回**
       - 2000
 
 <!-- end list -->
@@ -52,52 +61,251 @@
   - **: 5回**
       - 1933, 1951, 1965, 1993, 2000
 
-<!-- end list -->
-
-  - **[カンピオナート・パウリスタ](../Page/カンピオナート・パウリスタ.md "wikilink") : 22回**
-      - 1920, 1926, 1927, 1932, 1933, 1934, 1936, 1940, 1942, 1944, 1947, 1950, 1959, 1963, 1966,
-        1972, 1974, 1976, 1993, 1994, 1996, 2008
-
 ### 国際タイトル
+
+#### 現在も開催されている大会
 
   - **[コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink") : 1回**
       - [1999](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス1999 "wikilink")
+
+#### かつて開催されていた大会
+
+  - **: 1回**
+      - 1951
 
 <!-- end list -->
 
   - **[コパ・メルコスール](../Page/コパ・メルコスール.md "wikilink") : 1回**
       - 1998
 
-<!-- end list -->
-
-  - **: 1回**
-      - 1951
-
-## 過去の成績
+## 今世紀における主な大会の成績　
 
   -
-    {| class="wikitable" style="font-size:80%"
+    {| class="wikitable" style="font-size:90%"
 
-|bgcolor=gold|セリエA優勝 |bgcolor=silver|セリエA準優勝 |bgcolor="\#CCFFCC"|上位リーグ昇格 |bgcolor="FFCCCC"|下位リーグ降格 |}
+| bgcolor=gold | **優勝** | bgcolor=silver | 準優勝 | bgcolor=\#cc9966 | 3位 | bgcolor=\#cc9966 | ベスト4 | bgcolor=\#CCFFCC | セリエAに昇格 | bgcolor=\#FFCCCC | セリエBに降格 |}
 
-| シーズン                                                                      | リーグ                                                                  | 順位  | 勝点     | 試合数 | 勝  | 分  | 敗  | 得点 | 失点 |
-| ------------------------------------------------------------------------- | -------------------------------------------------------------------- | --- | ------ | --- | -- | -- | -- | -- | -- |
-| [2007](https://ja.wikipedia.org/wiki/2007_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 7位  | **58** | 38  | 16 | 10 | 12 | 48 | 47 |
-| [2008](https://ja.wikipedia.org/wiki/2008_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエB "wikilink") | 4位  | **65** | 38  | 19 | 8  | 11 | 55 | 45 |
-| [2009](https://ja.wikipedia.org/wiki/2009_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 5位  | **62** | 38  | 17 | 11 | 10 | 58 | 45 |
-| [2010](https://ja.wikipedia.org/wiki/2010_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 10位 | **50** | 38  | 12 | 14 | 12 | 42 | 43 |
-| [2011](https://ja.wikipedia.org/wiki/2011_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 11位 | **50** | 38  | 11 | 17 | 10 | 43 | 39 |
-| [2012](https://ja.wikipedia.org/wiki/2012_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 18位 | **34** | 38  | 9  | 7  | 22 | 39 | 54 |
-| 2013                                                                      | [セリエB](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 1位  | **79** | 38  | 24 | 7  | 7  | 71 | 28 |
-| [2014](https://ja.wikipedia.org/wiki/2014_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 16位 | **40** | 38  | 11 | 7  | 20 | 34 | 59 |
-| [2015](https://ja.wikipedia.org/wiki/2015_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 9位  | **53** | 38  | 15 | 8  | 15 | 60 | 51 |
-| [2016](https://ja.wikipedia.org/wiki/2016_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 1位  | **80** | 38  | 24 | 8  | 6  | 62 | 32 |
-| [2017](https://ja.wikipedia.org/wiki/2017_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 2位  | **63** | 38  | 19 | 6  | 13 | 61 | 45 |
-| [2018](https://ja.wikipedia.org/wiki/2018_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") |     |        |     |    |    |    |    |    |
+<table>
+<thead>
+<tr class="header">
+<th><p>年</p></th>
+<th><p><a href="../Page/カンピオナート・パウリスタ.md" title="wikilink">パウリスタ</a></p></th>
+<th><p><a href="../Page/カンピオナート・ブラジレイロ.md" title="wikilink">ブラジレイロ</a></p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/コパ・ド・ブラジル" title="wikilink">コパ・ド・ブラジル</a></p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/コパ・リベルタドーレス" title="wikilink">コパ・リベルタドーレス</a></p></th>
+<th><p><a href="../Page/コパ・スダメリカーナ.md" title="wikilink">コパ・スダメリカーナ</a></p></th>
+<th><p>その他</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/2001年.md" title="wikilink">2001</a></p></td>
+<td><p>7位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2001_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 12位</p></td>
+<td><p>-</p></td>
+<td><p>ベスト4</p></td>
+<td><p>未開催</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2002年.md" title="wikilink">2002</a></p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2002_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 24位</p></td>
+<td><p>初戦敗退</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2003年.md" title="wikilink">2003</a></p></td>
+<td><p>ベスト4</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2003_カンピオナート・ブラジレイロ・セリエB" title="wikilink">セリエB</a> <strong>優勝</strong></p></td>
+<td><p>ベスト16</p></td>
+<td><p>-</p></td>
+<td><p>予選敗退</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2004年.md" title="wikilink">2004</a></p></td>
+<td><p>ベスト4</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2004_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 4位</p></td>
+<td><p>ベスト8</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2005年.md" title="wikilink">2005</a></p></td>
+<td><p>9位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2005_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 4位</p></td>
+<td><p>-</p></td>
+<td><p>ベスト16</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2006年.md" title="wikilink">2006</a></p></td>
+<td><p>3位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2006_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 16位</p></td>
+<td><p>-</p></td>
+<td><p>ベスト16</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2007年.md" title="wikilink">2007</a></p></td>
+<td><p>5位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2007_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 7位</p></td>
+<td><p>2回戦敗退</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008</a></p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2008_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 4位</p></td>
+<td><p>ベスト16</p></td>
+<td><p>-</p></td>
+<td><p>ベスト8</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2009年.md" title="wikilink">2009</a></p></td>
+<td><p>3位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2009_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 5位</p></td>
+<td><p>-</p></td>
+<td><p>ベスト8</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010</a></p></td>
+<td><p>11位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2010_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 10位</p></td>
+<td><p>ベスト8</p></td>
+<td><p>-</p></td>
+<td><p>ベスト4</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2011年.md" title="wikilink">2011</a></p></td>
+<td><p>3位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2011_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 11位</p></td>
+<td><p>ベスト8</p></td>
+<td><p>-</p></td>
+<td><p>第2フェーズ敗退</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2012年.md" title="wikilink">2012</a></p></td>
+<td><p>5位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2012_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 18位</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p>-</p></td>
+<td><p>ベスト16</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2013年.md" title="wikilink">2013</a></p></td>
+<td><p>6位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2013_カンピオナート・ブラジレイロ・セリエB" title="wikilink">セリエB</a> <strong>優勝</strong></p></td>
+<td><p>ベスト16</p></td>
+<td><p>ベスト16</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2014年.md" title="wikilink">2014</a></p></td>
+<td><p>3位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2014_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 16位</p></td>
+<td><p>ベスト16</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2015年.md" title="wikilink">2015</a></p></td>
+<td><p>準優勝</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2015_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 9位</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/2016" title="wikilink">2016</a></p></td>
+<td><p>ベスト4</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2016_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> <strong>優勝</strong></p></td>
+<td><p>ベスト8</p></td>
+<td><p>2次リーグ敗退</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2017年.md" title="wikilink">2017</a></p></td>
+<td><p>3位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2017_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 準優勝</p></td>
+<td><p>ベスト8</p></td>
+<td><p>ベスト16</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2018年.md" title="wikilink">2018</a></p></td>
+<td><p>準優勝</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2018_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> <strong>優勝</strong></p></td>
+<td><p>ベスト4</p></td>
+<td><p>ベスト4</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2019年.md" title="wikilink">2019</a></p></td>
+<td><p>3位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2019_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 3位</p></td>
+<td><p>ベスト8</p></td>
+<td><p>ベスト8</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020</a></p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2020_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p><strong>優勝</strong> 　</p></td>
+</tr>
+</tbody>
+</table>
+
+## ブラジレイロにおける近年の詳細な成績
+
+  -
+    {| class="wikitable" style="font-size:90%"
+
+|bgcolor=gold|セリエA 優勝 |bgcolor=silver|セリエA 準優勝 |bgcolor=\#cc9966|セリエA 3位 |bgcolor="\#CCFFCC"|セリエAに昇格 |bgcolor="FFCCCC"|セリエBに降格 |}
+
+| シーズン                                                                      | リーグ                                                                  | 順位  | 試合数 | 勝  | 分  | 敗  | 得点 | 失点 | 得失点差 | 勝点     |
+| ------------------------------------------------------------------------- | -------------------------------------------------------------------- | --- | --- | -- | -- | -- | -- | -- | ---- | ------ |
+| [2011](https://ja.wikipedia.org/wiki/2011_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 11位 | 38  | 11 | 17 | 10 | 43 | 39 | 4    | **50** |
+| [2012](https://ja.wikipedia.org/wiki/2012_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 18位 | 38  | 9  | 7  | 22 | 39 | 54 | \-15 | **34** |
+| 2013                                                                      | [セリエB](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエB "wikilink") | 1位  | 38  | 24 | 7  | 7  | 71 | 28 | 43   | **79** |
+| [2014](https://ja.wikipedia.org/wiki/2014_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 16位 | 38  | 11 | 7  | 20 | 34 | 59 | \-25 | **40** |
+| [2015](https://ja.wikipedia.org/wiki/2015_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 9位  | 38  | 15 | 8  | 15 | 60 | 51 | 9    | **53** |
+| [2016](https://ja.wikipedia.org/wiki/2016_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 1位  | 38  | 24 | 8  | 6  | 62 | 32 | 30   | **80** |
+| [2017](https://ja.wikipedia.org/wiki/2017_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 2位  | 38  | 19 | 6  | 13 | 61 | 45 | 16   | **63** |
+| [2018](https://ja.wikipedia.org/wiki/2018_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 1位  | 38  | 23 | 11 | 4  | 64 | 26 | 38   | **80** |
+| [2019](https://ja.wikipedia.org/wiki/2019_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 3位  | 38  | 21 | 11 | 6  | 61 | 32 | 29   | **74** |
+| [2020](https://ja.wikipedia.org/wiki/2020_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 6位  | 5   | 2  | 3  | 0  | 6  | 4  | 2    | **9**  |
+
+※2020シーズンは現在開催中につき、8月31日(ラウンド6終了時点)の成績。
 
 ## 現所属メンバー
 
-  - [2019年](../Page/2019年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")現在
 
 ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))
 
@@ -105,7 +313,7 @@
 
 <!-- end list -->
 
-  - [ルイス・フェリペ・スコラーリ](../Page/ルイス・フェリペ・スコラーリ.md "wikilink")
+  - [ヴァンデルレイ・ルシェンブルゴ](../Page/ヴァンデルレイ・ルシェンブルゴ.md "wikilink")
 
 ## 歴代監督
 
@@ -124,4 +332,5 @@
 
 [Category:ブラジルのサッカークラブ](https://ja.wikipedia.org/wiki/Category:ブラジルのサッカークラブ "wikilink") [Category:サンパウロ市のスポーツ](https://ja.wikipedia.org/wiki/Category:サンパウロ市のスポーツ "wikilink") [Category:1914年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1914年設立のスポーツチーム "wikilink")
 
-1.  <http://www.lanacion.com.ar/642142-flamengo-el-equipo-mas-popular-de-brasil>
+1.
+2.

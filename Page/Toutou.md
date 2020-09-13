@@ -23,11 +23,11 @@
 
   - **西村 紗也香**（にしむら さやか・姉）（[1989年](../Page/1989年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink") - ）
       - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身
-      - [てんびん座](https://ja.wikipedia.org/wiki/天秤宮 "wikilink")、[AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")
+      - [てんびん座](https://ja.wikipedia.org/wiki/天秤宮 "wikilink")、[AB型](../Page/ABO式血液型.md "wikilink")
       - 身長167cm
   - **西村 麻理香**（にしむら まりか・妹）（[1991年](../Page/1991年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink") - ）
       - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身
-      - [みずがめ座](../Page/宝瓶宮.md "wikilink")、[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")
+      - [みずがめ座](../Page/宝瓶宮.md "wikilink")、[A型](../Page/ABO式血液型.md "wikilink")
       - 身長165.5cm
 
 <!-- end list -->
@@ -114,7 +114,7 @@
   - [SME公式 toutou](http://www.sonymusic.co.jp/Music/Info/toutou/index.html)
   - [toutouのブログ toutou Official Blog](https://ameblo.jp/toutou-toutou)
 
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink")
 
 1.  なお『ガチャガチャポン\!』公開収録にゲスト出演し「歌う星占い」を披露したが、事情により放送日が変更になったため占いの内容が変わってしまい、収録時と歌詞を変えざるを得なくなり、新たに収録された歌に差し替えられた。このため映像と音声が合っていない[口パク](../Page/口パク.md "wikilink")のような状態での放送となってしまった。
 2.  『月刊Audition』2009年5月号に記事

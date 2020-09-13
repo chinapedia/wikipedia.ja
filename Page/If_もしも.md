@@ -194,7 +194,7 @@
   - [山形県](../Page/山形県.md "wikilink")
       - [山形テレビ](../Page/山形テレビ.md "wikilink")の[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[ネットチェンジ後のため](https://ja.wikipedia.org/wiki/ネットチェンジ#山形県の事例 "wikilink")、不明。
   - [大分県](../Page/大分県.md "wikilink")
-      - フジテレビ系列の[テレビ大分](../Page/テレビ大分.md "wikilink")が放送したものの、当時の同時間は日本テレビの『[木曜スペシャル](../Page/木曜スペシャル.md "wikilink")』をネットしていたため、2年遅れの平日昼間に放送された。
+      - 日本テレビ系列・フジテレビ系列クロスネットの[テレビ大分](../Page/テレビ大分.md "wikilink")が放送したものの、当時の同時間は日本テレビの『[木曜スペシャル](../Page/木曜スペシャル.md "wikilink")』をネットしていたため、2年遅れの平日昼間に放送された。
 
 ## 関連商品
 

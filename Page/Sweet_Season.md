@@ -1,7 +1,7 @@
 > この記事は[Sweet Season](https://ja.wikipedia.org/wiki/Sweet_Season)から翻訳されています。
 
 
-**Sweet Season**（スウィート・シーズン）は、は[TBS系列で](../Page/TBSテレビ.md "wikilink")[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月15日](../Page/1月15日.md "wikilink")から[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")。全11話。主演は[松嶋菜々子](https://ja.wikipedia.org/wiki/松嶋菜々子 "wikilink")。松嶋の民放連続ドラマ初主演作。放送時間は[木曜日](../Page/木曜日.md "wikilink")[22:00-22:54](../Page/TBS木曜10時枠の連続ドラマ.md "wikilink")（2月12日放送の第5話のみ、23:00-23:54）平均視聴率は12.4%、最高視聴率13.9%（第9話）。
+『**Sweet Season**』（スウィート・シーズン）は、[TBS系列で](../Page/TBSテレビ.md "wikilink")[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月15日](../Page/1月15日.md "wikilink")から[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで全11話で放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[松嶋菜々子](https://ja.wikipedia.org/wiki/松嶋菜々子 "wikilink")。放送時間は[木曜日](../Page/木曜日.md "wikilink")[22:00-22:54](../Page/TBS木曜10時枠の連続ドラマ.md "wikilink")（2月12日放送の第5話のみ、23:00-23:54）。平均視聴率は12.4%、最高視聴率は第9話の13.9%（[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")調べ）。
 
 ## 登場人物
 
@@ -62,7 +62,7 @@
   -
     明良の父。第8話のみの出演。
 
-\*;小松原佐紀 - [安達香代子](https://ja.wikipedia.org/wiki/安達香代子 "wikilink")
+\*;小松原佐紀 - [安達香代子](../Page/安達香代子.md "wikilink")
 
   -
     真尋の友人。

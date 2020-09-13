@@ -167,8 +167,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/エフエム大阪.md" title="wikilink">エフエム大阪</a><br />
-（FM大阪）</p></td>
+<td><p><a href="../Page/エフエム大阪.md" title="wikilink">エフエム大阪</a>（FM大阪）</p></td>
 <td><p>2002年後半頃 - 2003年前半頃<br />
 2005年4月1日 -</p></td>
 <td><p>○</p></td>
@@ -177,8 +176,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/三重エフエム放送" title="wikilink">三重エフエム放送</a><br />
-（レディオキューブ FM三重）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/三重エフエム放送" title="wikilink">三重エフエム放送</a>（レディオキューブ FM三重）</p></td>
 <td><p>2005年4月1日</p></td>
 <td><p>●</p></td>
 <td><p>“FM MIE”</p></td>
@@ -310,7 +308,7 @@
   - 日11:00 … 『[KOSE HEALING BLUE](https://ja.wikipedia.org/wiki/KOSE_HEALING_BLUE "wikilink")』
   - 日12:00 … 『[SEKAI NO OWARI The House](https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI_The_House "wikilink")』
   - 日13:00 … 『[ENEOS presents DREAMS COME TRUE 中村正人のENERGY for ALL](https://ja.wikipedia.org/wiki/DREAMS_COME_TRUE_中村正人の_ENERGY_for_ALL "wikilink")』\[12\]
-  - 日14:00 … 『[山下達郎のサンデー・ソングブック](../Page/山下達郎のサンデー・ソングブック.md "wikilink")』\[13\]
+  - 日14:00 … 『[山下達郎の楽天カード サンデー・ソングブック](../Page/山下達郎のサンデー・ソングブック.md "wikilink")』\[13\]
   - 日15:00 … 『[日本郵便 SUNDAY'S POST](https://ja.wikipedia.org/wiki/日本郵便_SUNDAY'S_POST "wikilink")』
   - 日16:00 … 『[ももいろクローバーZのSUZUKI ハッピー・クローバー\!](https://ja.wikipedia.org/wiki/ももいろクローバーZのSUZUKI_ハッピー・クローバー! "wikilink")』
   - 日17:00 … 『[NISSAN あ、安部礼司〜BEYOND THE AVERAGE](../Page/NISSAN_あ、安部礼司〜BEYOND_THE_AVERAGE.md "wikilink")』
@@ -329,7 +327,7 @@
 5.
 6.  男性ヴォイスと女性ヴォイスの2種類があり、交互に使用される。2010年3月までは日・月・水・金が男性ヴォイス、火・木・土は女性ヴォイスと固定だった。
 7.  男性ヴォイスと女性ヴォイスの2種類があった。
-8.  現在はFM IWATEの他のジングルと同じ扱いで、本来の時間以外のところで使用している。
+8.  現在はFM IWATEの他のジングルと同じ扱いで、本来の時間以外の所で使用している。
 9.  同年12月31日をもって『Radio80』の愛称を廃止している。
 10. JFN系列以外でも、毎週土曜に放送されている[COUNTDOWN JAPANのスポンサーが](../Page/JA全農_COUNTDOWN_JAPAN.md "wikilink")[ローソン](../Page/ローソン.md "wikilink")だった頃は、ローソンの店内放送『[ローソンCSほっとステーション](../Page/ローソンCSほっとステーション.md "wikilink")』でも流れていた。しかし、ステーションコールがないバージョンのものだった。
 11. TOKYO FMでは時刻をアナウンスする枠。地方局ではJFN共通ジングルに差し替えられる。

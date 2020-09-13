@@ -18,8 +18,8 @@
   - [信越放送](../Page/信越放送.md "wikilink")（土曜 21:00～21:30）
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（日曜 22:30～23:00）
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（日曜 22:30～23:00）
-  - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")（火曜 23:30～24:00）
-  - [西日本放送](../Page/西日本放送.md "wikilink")（日曜 21:00～21:30）
+  - [山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")（火曜 23:30～24:00）
+  - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")（日曜 21:00～21:30）
 
 ## 外部リンク
 

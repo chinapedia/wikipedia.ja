@@ -1217,16 +1217,19 @@ yukihiro</p></td>
   -
   -
   -
-  - [ACID ANDROID Official YouTube Channel](https://www.youtube.com/channel/UC1m7pWlndQ7Yzf1ZO4xyNdQ)
-
-  - [ACID ANDROID Official Facebook](https://www.facebook.com/acidandroid.official)
+  -
+  -
+  -
+  -
+  -
+<!-- end list -->
 
   - [MAVERICK](https://maverick-dci.com/)
 
   -
-  - [L'Arc〜en〜Ciel/LArcom.net](https://www.larcom.net/)
+  - [L'Arc-en-Ciel/LArcom.net](https://www.larcom.net/)
 
-  - [geek sleep sheep](http://www.geeksleepsheep.com/)
+  - [geek sleep sheep Official Web Site](http://www.geeksleepsheep.com/)
 
   - [geek sleep sheep](https://www.universal-music.co.jp/geek-sleep-sheep/) - [UNIVERSAL MUSIC JAPAN](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")
 

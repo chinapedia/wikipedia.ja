@@ -1,7 +1,7 @@
 > この記事は[SHARPワールドクイズ・カンカンガク学](https://ja.wikipedia.org/wiki/SHARPワールドクイズ・カンカンガク学)から翻訳されています。
 
 
-『**SHARPワールドクイズ・カンカンガク学**』（シャープワールドクイズ・かんかんがくがく）は、[1984年](../Page/1984年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月28日](../Page/6月28日.md "wikilink")まで[日本テレビ系列局で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。[シャープ](../Page/シャープ.md "wikilink")の一社提供。放送時間は毎週[金曜](../Page/金曜日.md "wikilink") 22:00 - 22:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。
+『**SHARPワールドクイズ・カンカンガク学**』（シャープワールドクイズ・カンカンガクがく）は、[1984年](../Page/1984年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月28日](../Page/6月28日.md "wikilink")まで[日本テレビ系列局で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。[シャープ](../Page/シャープ.md "wikilink")の一社提供。放送時間は毎週[金曜](../Page/金曜日.md "wikilink") 22:00 - 22:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。
 
 ## 概要
 
@@ -13,7 +13,7 @@
 
 ### 司会
 
-  - 桂三枝（現・[六代桂文枝](../Page/桂文枝_\(6代目\).md "wikilink")）
+  - 桂三枝（現・[6代目桂文枝](../Page/桂文枝_\(6代目\).md "wikilink")）
   - [木村優子](../Page/木村優子.md "wikilink")（当時日本テレビアナウンサー） - 初期の出演者。
   - [松川裕美](../Page/松川裕美.md "wikilink") - 中期以降の出演者。
 

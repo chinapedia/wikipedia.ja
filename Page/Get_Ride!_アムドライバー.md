@@ -619,7 +619,7 @@ ZEAMジャケットの最終進化形を装着した人物。
 <tr class="odd">
 <td><p>stage3</p></td>
 <td><p>ボーダタック</p></td>
-<td><p>山口晋</p></td>
+<td><p><a href="../Page/山口晋_(アニメ演出家).md" title="wikilink">山口晋</a></p></td>
 <td><p>4月19日</p></td>
 <td></td>
 <td></td>

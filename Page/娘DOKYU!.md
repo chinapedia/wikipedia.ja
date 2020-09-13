@@ -48,7 +48,7 @@
       - [菅谷梨沙子](../Page/菅谷梨沙子.md "wikilink")（2005年4月4日 - 6月17日）
       - [嗣永桃子](../Page/嗣永桃子.md "wikilink")（2005年4月5日 - 6月8日）
       - [熊井友理奈](../Page/熊井友理奈.md "wikilink")（2005年4月5日 - 5月18日）
-  - [ハロプロエッグ](https://ja.wikipedia.org/wiki/ハロプロ研修生 "wikilink")
+  - [ハロプロエッグ](../Page/ハロプロ研修生.md "wikilink")
       - [是永美記](../Page/是永美記.md "wikilink")（2005年7月20日 - 2006年3月29日）
   - ソロメンバー
       - [後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")（2006年5月8日 - 30日）

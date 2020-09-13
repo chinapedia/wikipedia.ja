@@ -856,7 +856,7 @@
 | 2017-18                                                             | プリメイラ・リーガ                                                       | 34                                      | 25                                    | 6                                                 | 3     | 80    |
 | 2018-19                                                             | プリメイラ・リーガ                                                       | 34                                      | 28                                    | 3                                                 | 3     | 103   |
 | [EL](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2018-19 "wikilink") | 準々決勝敗退                                                          |                                         |                                       |                                                   |       |       |
-| 2019-20                                                             | プリメイラ・リーガ                                                       | 34                                      |                                       |                                                   |       |       |
+| 2019-20                                                             | プリメイラ・リーガ                                                       | 34                                      | 24                                    | 5                                                 | 5     | 71    |
 | [EL](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2019-20 "wikilink") | ベスト32                                                           |                                         |                                       |                                                   |       |       |
 
 ### 過去の成績
@@ -2986,9 +2986,9 @@ UEFAチャンピオンズカップ時代も含む
 
 </div>
 
-  - 2020年2月1日時点
+  - 2020年8月26日時点
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Serbia.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Brazil.svg "wikilink"))      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Angola.svg "wikilink"))      ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Serbia.svg "wikilink")) ★    ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Bosnia_and_Herzegovina.svg "wikilink"))★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Brazil.svg "wikilink"))        ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))  ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Angola.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cabo_Verde.svg "wikilink"))  ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cabo_Verde.svg "wikilink"))  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))
 
 括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 
@@ -2996,7 +2996,7 @@ UEFAチャンピオンズカップ時代も含む
 
 <!-- end list -->
 
-  - [ブルーノ・ラージェ](https://ja.wikipedia.org/wiki/ブルーノ・ラージェ "wikilink")
+  - [ジョルジェ・ジェズス](https://ja.wikipedia.org/wiki/ジョルジェ・ジェズス "wikilink")
 
 ### ローン移籍
 
@@ -4233,6 +4233,21 @@ UEFAチャンピオンズカップ時代も含む
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ブルーノ・ラージェ" title="wikilink">ブルーノ・ラージェ</a></p></td>
 <td><p>2019年1月3日</p></td>
+<td><p>2020年7月4日 </p></td>
+<td><p><span style="display:none;">9998</span><small> 1 <a href="https://ja.wikipedia.org/wiki/プリメイラ・リーガ" title="wikilink">プリメイラ・リーガ</a><br />
+1 <a href="../Page/スーペルタッサ・カンディド・デ・オリベイラ.md" title="wikilink">スーペルタッサ</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ネルソン・ヴェリッシモ" title="wikilink">ネルソン・ヴェリッシモ</a></p></td>
+<td><p>2020年6月30日</p></td>
 <td></td>
 <td></td>
 <td></td>

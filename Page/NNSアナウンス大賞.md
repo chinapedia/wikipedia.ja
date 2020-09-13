@@ -41,7 +41,7 @@
 <tr class="odd">
 <td><p>第22回<br />
 （<a href="../Page/2001年.md" title="wikilink">2001年</a>）[1]</p></td>
-<td><p><a href="../Page/保岡栄二.md" title="wikilink">保岡栄二</a>（<a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a>）</p></td>
+<td><p><a href="../Page/保岡栄二.md" title="wikilink">保岡栄二</a>（<a href="../Page/四国放送.md" title="wikilink">四国放送</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/佐藤正幸" title="wikilink">佐藤正幸</a>（<a href="../Page/福井放送.md" title="wikilink">福井放送</a>）</p></td>
 <td><p><a href="../Page/福岡竜馬.md" title="wikilink">福岡竜馬</a>（<a href="../Page/福岡放送.md" title="wikilink">福岡放送</a>）</p></td>
 </tr>

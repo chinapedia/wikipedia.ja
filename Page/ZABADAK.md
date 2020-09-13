@@ -655,7 +655,17 @@ HARV-0016B(通常盤)</p></td>
   - POLAND（[セゾンカード](../Page/クレディセゾン.md "wikilink")）
   - ブランシェ（[大塚家具](../Page/大塚家具.md "wikilink")）
   - 街角（大塚家具）
+  - 美チャンス-妖しい輪舞-（[メナード化粧品](https://ja.wikipedia.org/wiki/メナード化粧品 "wikilink")）
+  - 明日からの風（メナード化粧品）
+  - 朝（[カルビー](https://ja.wikipedia.org/wiki/カルビー "wikilink") ポテトスープ）
+  - FOLLOW YOUR DREAMS（[ミズノ](../Page/ミズノ.md "wikilink") エスポート）
+  - 砂煙りのまち（[大丸](../Page/大丸.md "wikilink")）
+  - I AM…（[エスビー食品](../Page/エスビー食品.md "wikilink") ねりわさび・ねりからし）
+  - THERE’S A VISION（[三菱電機](../Page/三菱電機.md "wikilink")）
+  - GOOD BYE EARTH（[ビクター](https://ja.wikipedia.org/wiki/ビクター "wikilink") GIGA）
+  - 人形たちの永い午睡（[山本海苔店](https://ja.wikipedia.org/wiki/山本海苔店 "wikilink")）
   - LET THERE BE LIGHT（[アイワ](https://ja.wikipedia.org/wiki/アイワ "wikilink") シュトラッサー）
+  - 遠い国の友達（[小岩井乳業](../Page/小岩井乳業.md "wikilink") カマンベールチーズ）
 
 ### 楽曲提供
 

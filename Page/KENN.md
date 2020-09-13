@@ -256,6 +256,7 @@
   - [トロールズ](https://ja.wikipedia.org/wiki/トロールズ "wikilink")（2016年、**ブランチ**〈[ジャスティン・ティンバーレイク](../Page/ジャスティン・ティンバーレイク.md "wikilink")〉）
   - トロールズ みんなのハッピーホリデー\!（2017年、**ブランチ**〈[ジャスティン・ティンバーレイク](../Page/ジャスティン・ティンバーレイク.md "wikilink")〉）
   - [トロールズ: シング・ダンス・ハグ\!](https://ja.wikipedia.org/wiki/トロールズ:_シング・ダンス・ハグ! "wikilink")（2018年、**ブランチ**〈[スカイラー・アスティン](https://ja.wikipedia.org/wiki/スカイラー・アスティン "wikilink")〉\[89\]）
+  - セントラル・パーク（2020年、グリフィン）
 
 ### デジタルコミック
 
@@ -322,8 +323,9 @@
   - 遊☆戯☆王アーク・ファイブ オフィシャルカードゲーム ストラクチャーデッキ「HERO's STRIKE」
   - 遊☆戯☆王オフィシャルカードゲーム デュエルモンスターズ 20th ANNIVERSARY PACK 1st WAVE
   - 遊戯王デュエルリンクス
-      - 遊戯王デュエルリンクス GXワールド開放！
-      - 遊戯王デュエルリンクス「オシリスの天空竜　もらえる！」編
+      - GXワールド開放！
+      - 「オシリスの天空竜　もらえる！」編
+      - KCグランドトーナメント開催記念キャンペーン
   - [宇宙兄弟](../Page/宇宙兄弟.md "wikilink")
       - [花王](../Page/花王.md "wikilink") めぐりズム 宇宙兄弟もほぐシャキ
       - 『[オデッセイ](https://ja.wikipedia.org/wiki/オデッセイ_\(映画\) "wikilink")』×『宇宙兄弟』コラボ予告
@@ -345,10 +347,15 @@
 
 ※は[インターネット配信](../Page/インターネットテレビ.md "wikilink")。
 
-  - ピカピカプリンス（2003年10月 - 2004年3月、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）The NaB’sとして
+  - コラボレーションスタジアム（2003年4月 - 2004年9月、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）The NaB’sとして
+  - ピカピカプリンス（2003年10月 - 2004年3月、テレビ東京）The NaB’sとして
   - もらため\! 〜知って得する情報バラエティー（2008年10月、[MBSテレビ](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")） - イケメンサロン「もらため」癒され隊隊長 役
   - [アニメ星人 ときめきレシピ](https://ja.wikipedia.org/wiki/アニメ星人_ときめきレシピ "wikilink")（2011年8月 - 9月、[チバテレビ](../Page/千葉テレビ放送.md "wikilink")） [前野智昭](../Page/前野智昭.md "wikilink")と共に出演
   - マクロスがとまらない（2017年1月 - 、[SHOWROOM](https://ja.wikipedia.org/wiki/SHOWROOM_\(ストリーミングサービス\) "wikilink")※）
+  - KENN's Style 〜声優KENN 極上の休日〜（CSチャンネル「日テレプラス ドラマ・アニメ・音楽ライブ」）
+      - vol.1「スーツ」（2019年8月28日）
+      - vol.2「クルマ」（2019年9月25日）
+      - vol.3「BAR」（2019年10月30日）
   - 声優[アウトドア](../Page/アウトドア.md "wikilink")！バラエティ「ぬーキャンプ」（2019年10月 - 12月、[tvk](../Page/テレビ神奈川.md "wikilink")） [ランズベリー・アーサー](https://ja.wikipedia.org/wiki/ランズベリー・アーサー "wikilink")と共に出演
 
 ### テレビドラマ
@@ -1257,7 +1264,7 @@
 <tr class="even">
 <td><p>2月26日</p></td>
 <td><p>めいこいキャラクターソングシリーズ ロマネスクレコード 其ノ壱 「忘却イルミネヰト」</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/森鴎外" title="wikilink">森鴎外</a>（浪川大輔）、<a href="../Page/菱田春草.md" title="wikilink">菱田春草</a>（<strong>KENN</strong>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/森鷗外" title="wikilink">森鷗外</a>（浪川大輔）、<a href="../Page/菱田春草.md" title="wikilink">菱田春草</a>（<strong>KENN</strong>）</p></td>
 <td><p>「忘却イルミネヰト」</p></td>
 <td><p>ゲーム『<a href="https://ja.wikipedia.org/wiki/明治東亰恋伽" title="wikilink">明治東亰恋伽</a>』関連曲</p></td>
 </tr>
@@ -2578,7 +2585,7 @@
 <td><p>テレビアニメ『スタミュ』第3期挿入歌</p></td>
 </tr>
 <tr class="even">
-<td><p>星谷悠太（花江夏樹）、那雪透（小野賢章）、月皇海斗（<a href="https://ja.wikipedia.org/wiki/ランズベリー・アーサー" title="wikilink">ランズベリー・アーサー</a>）、天花寺翔（細谷佳正）、空閑愁（前野智昭）、辰己琉唯（岡本信彦）、申渡栄吾（内田雄馬）、戌峰誠士郎（興津和幸）、虎石和泉（<strong>KENN</strong>）、卯川晶（松岡禎丞）、揚羽陸（<a href="https://ja.wikipedia.org/wiki/島崎信長" title="wikilink">島﨑信長</a>）、蜂矢聡（<a href="https://ja.wikipedia.org/wiki/高梨謙吾" title="wikilink">高梨謙吾</a>）、北原廉（梅原裕一郎）、南條聖（<a href="https://ja.wikipedia.org/wiki/武内駿輔" title="wikilink">武内駿輔</a>）</p></td>
+<td><p>星谷悠太（花江夏樹）、那雪透（小野賢章）、月皇海斗（<a href="https://ja.wikipedia.org/wiki/ランズベリー・アーサー" title="wikilink">ランズベリー・アーサー</a>）、天花寺翔（細谷佳正）、空閑愁（前野智昭）、辰己琉唯（岡本信彦）、申渡栄吾（内田雄馬）、戌峰誠士郎（興津和幸）、虎石和泉（<strong>KENN</strong>）、卯川晶（松岡禎丞）、揚羽陸（<a href="https://ja.wikipedia.org/wiki/島﨑信長" title="wikilink">島﨑信長</a>）、蜂矢聡（<a href="https://ja.wikipedia.org/wiki/高梨謙吾" title="wikilink">高梨謙吾</a>）、北原廉（梅原裕一郎）、南條聖（<a href="https://ja.wikipedia.org/wiki/武内駿輔" title="wikilink">武内駿輔</a>）</p></td>
 <td><p>「我ら、綾薙学園華桜会〜NEXT STAGE〜」</p></td>
 <td><p>テレビアニメ『スタミュ』第3期エンディングテーマ</p></td>
 <td></td>
@@ -2628,25 +2635,25 @@
 <td><p>キャラクターCD『ACTORS』関連曲</p></td>
 </tr>
 <tr class="odd">
-<td><p>5月27日</p></td>
-<td><p>DiSCOVER THE FUTURE</p></td>
-<td></td>
-<td><p>「DiSCOVER THE FUTURE」</p></td>
-<td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/アイドリッシュセブン_Second_BEAT!" title="wikilink">アイドリッシュセブン Second BEAT!</a>』オープニングテーマ</p></td>
-</tr>
-<tr class="even">
-<td><p>「Everyday Yeah!」</p></td>
-<td><p>テレビアニメ『アイドリッシュセブン Second BEAT!』関連曲</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>6月26日</p></td>
 <td><p>Paint It Black</p></td>
 <td></td>
 <td><p>「Paint It Black」</p></td>
 <td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/ツキウタ。_THE_ANIMATION2" title="wikilink">ツキウタ。 THE ANIMATION2</a>』オープニングテーマ</p></td>
+</tr>
+<tr class="even">
+<td><p>8月26日</p></td>
+<td><p>DiSCOVER THE FUTURE</p></td>
+<td></td>
+<td><p>「DiSCOVER THE FUTURE」</p></td>
+<td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/アイドリッシュセブン_Second_BEAT!" title="wikilink">アイドリッシュセブン Second BEAT!</a>』オープニングテーマ</p></td>
+</tr>
+<tr class="odd">
+<td><p>「Everyday Yeah!」</p></td>
+<td><p>テレビアニメ『アイドリッシュセブン Second BEAT!』関連曲</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -2664,6 +2671,21 @@
 </tr>
 </thead>
 <tbody>
+<tr class="odd">
+<td><p>2006年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/OUTRIDE" title="wikilink">OUTRIDE</a></p></td>
+<td><p><a href="../Page/奥井雅美.md" title="wikilink">奥井雅美</a>、<a href="../Page/JAM_Project.md" title="wikilink">JAM Project</a>（<a href="../Page/影山ヒロノブ.md" title="wikilink">影山ヒロノブ</a>、<a href="https://ja.wikipedia.org/wiki/松本梨香" title="wikilink">松本梨香</a>、<a href="../Page/遠藤正明.md" title="wikilink">遠藤正明</a>、<a href="../Page/きただにひろし.md" title="wikilink">きただにひろし</a>、奥井雅美、<a href="../Page/福山芳樹.md" title="wikilink">福山芳樹</a>）、<a href="../Page/水樹奈々.md" title="wikilink">水樹奈々</a>、<a href="../Page/高橋直純.md" title="wikilink">高橋直純</a>、<a href="../Page/栗林みな実.md" title="wikilink">栗林みな実</a>、<a href="https://ja.wikipedia.org/wiki/米倉千尋" title="wikilink">米倉千尋</a>、<a href="../Page/石田燿子.md" title="wikilink">石田燿子</a>、<a href="https://ja.wikipedia.org/wiki/愛内里菜" title="wikilink">愛内里菜</a>、<a href="https://ja.wikipedia.org/wiki/ALI_PROJECT" title="wikilink">ALI PROJECT</a>、<a href="../Page/三枝夕夏_IN_db.md" title="wikilink">三枝夕夏 IN db</a>、<a href="../Page/石川智晶.md" title="wikilink">石川智晶</a>、<a href="https://ja.wikipedia.org/wiki/savage_genius" title="wikilink">savage genius</a>、<strong>KENN</strong> with The NaB's、<a href="../Page/嘉陽愛子.md" title="wikilink">嘉陽愛子</a></p></td>
+<td><p>「OUTRIDE」<br />
+</p></td>
+<td><p>アニソンライブイベント『Animelo Summer Live 2006 -OUTRIDE-』 テーマソング</p></td>
+</tr>
 <tr class="odd">
 <td><p>2011年</p></td>
 <td></td>

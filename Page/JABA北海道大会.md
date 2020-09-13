@@ -11,9 +11,9 @@
 
 他の地区連盟主催大会の多くが春に行われるのに対し、同大会は[都市対抗野球大会](../Page/都市対抗野球大会.md "wikilink")直前に開催されていることから、都市対抗野球に出場するチームには調整の大会と捉えられている\[1\]。参加チームの内、本州から招待されるチームはその年の都市対抗野球への出場を決めているチームばかりで、東北・関東・東海から招待されるチームは各地区第1代表および第2代表として予選を通過しているチームであり、これらのチームにとっては都市対抗野球に向けた調整の大会、北海道のチームにとってはなかなか遠征で対戦することができない本州の強豪との対戦の機会として位置づけられている。
 
-からまでは、「東日本選抜大会」として開催されており、開催地も[福島県](../Page/福島県.md "wikilink")や[秋田県](../Page/秋田県.md "wikilink")などで行なわれることがあった。からは、「北海道大会」と改称され引き続き開催されており、北海道内の[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")、[室蘭市](../Page/室蘭市.md "wikilink")、[苫小牧市](https://ja.wikipedia.org/wiki/苫小牧市 "wikilink")、[白老町](../Page/白老町.md "wikilink")などを拠点に行なわれている。
+からまでは、「東日本選抜大会」として開催されており、開催地も[福島県](../Page/福島県.md "wikilink")や[秋田県](../Page/秋田県.md "wikilink")などで行なわれることがあった。からは、「北海道大会」と改称され引き続き開催されており、北海道内企業チームの地元・[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")、[室蘭市](../Page/室蘭市.md "wikilink")、[苫小牧市](https://ja.wikipedia.org/wiki/苫小牧市 "wikilink")、[白老町](../Page/白老町.md "wikilink")などを拠点に行なわれてきた。
 
-から出場チームの減少等を理由に休止されていたが、北海道地区連盟の強い要望によりに復活したものの、末に[JR北海道がクラブ転換し道内の会社登録チームが](../Page/JR北海道硬式野球クラブ.md "wikilink")[航空自衛隊千歳](https://ja.wikipedia.org/wiki/航空自衛隊千歳硬式野球部 "wikilink")1チームとなったため以降[JABA東北大会](../Page/JABA東北大会.md "wikilink")と統合され北海道大会 兼 東北大会（回数は統合されず2017年は第59回北海道大会 兼 第48回東北大会）となったが、[北海道ガスの新規加盟及び](https://ja.wikipedia.org/wiki/北海道ガス硬式野球部 "wikilink")、[室蘭シャークスの会社登録転換もあり](../Page/日本製鉄室蘭シャークス.md "wikilink")大会から再び単独開催となった。
+1990年代に入ると道内企業チームの休部、解散が続き、からは秋季リーグ戦を控えた大学チームもオープン参加した。から出場チームの減少等を理由に休止されていたが、北海道地区連盟の強い要望によりに復活したものの、末に[JR北海道がクラブ転換し道内の会社登録チームが](../Page/JR北海道硬式野球クラブ.md "wikilink")[航空自衛隊千歳](https://ja.wikipedia.org/wiki/航空自衛隊千歳硬式野球部 "wikilink")1チームとなったため以降[JABA東北大会](../Page/JABA東北大会.md "wikilink")と統合され北海道大会 兼 東北大会（回数は統合されず2017年は第59回北海道大会 兼 第48回東北大会）となったが、[北海道ガスの新規加盟及び](https://ja.wikipedia.org/wiki/北海道ガス硬式野球部 "wikilink")、[室蘭シャークスの会社登録転換もあり](../Page/日本製鉄室蘭シャークス.md "wikilink")大会から再び単独開催となった。
 
 ## 歴代優勝チーム
 
@@ -64,240 +64,240 @@
 <td><p>1971年（第17回）</p></td>
 <td><p>中島</p></td>
 <td><p><strong>北海道拓殖銀行</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>5</strong>-2</p></td>
+<td><p>電電北海道</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1972年（第18回）</p></td>
 <td><p>中島</p></td>
 <td><p><strong><a href="../Page/NTT北海道_(野球チーム).md" title="wikilink">電電北海道</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>4</strong>-3</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/小西酒造硬式野球部" title="wikilink">小西酒造</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1973年（第19回）</p></td>
 <td><p>中島</p></td>
 <td><p><strong>電電北海道</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>6</strong>-3</p></td>
+<td><p>北海道拓殖銀行</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1974年（第20回）</p></td>
 <td><p>円山</p></td>
 <td><p><strong><a href="../Page/ヴィガしらおい.md" title="wikilink">大昭和製紙北海道</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>4</strong>-1</p></td>
+<td><p><a href="../Page/パナソニック野球部.md" title="wikilink">松下電器</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1975年（第21回）</p></td>
 <td><p>中島</p></td>
 <td><p><strong>大昭和製紙北海道</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>1</strong>-0</p></td>
+<td><p>新日本製鐵室蘭</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1976年（第22回）</p></td>
 <td><p>室蘭</p></td>
 <td><p><strong>大昭和製紙北海道</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>5</strong>-0</p></td>
+<td><p>日立製作所</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1977年（第23回）</p></td>
 <td><p>室蘭</p></td>
 <td><p><strong>大昭和製紙北海道</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>4</strong>-2</p></td>
+<td><p>日本石油</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1978年（第24回）</p></td>
 <td><p>室蘭</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/熊谷組野球部" title="wikilink">熊谷組</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>2</strong>-1</p></td>
+<td><p>日本石油</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1979年（第25回）</p></td>
 <td><p>室蘭</p></td>
 <td><p><strong><a href="../Page/日本製鉄室蘭シャークス.md" title="wikilink">新日本製鐵室蘭</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>2</strong>-1</p></td>
+<td><p>電電北海道</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1980年（第26回）</p></td>
 <td><p>円山、中島</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/リッカー硬式野球部" title="wikilink">リッカー</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>4</strong>-1</p></td>
+<td><p>日本石油</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1981年（第27回）</p></td>
 <td><p>室蘭、苫小牧</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/王子製紙苫小牧硬式野球部" title="wikilink">王子製紙苫小牧</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>4</strong>-1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/神戸製鋼硬式野球部" title="wikilink">神戸製鋼</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1982年（第28回）</p></td>
 <td><p>室蘭、苫小牧</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/NTT関東硬式野球部" title="wikilink">電電関東</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>1</strong>-0</p></td>
+<td><p>三菱自動車川崎</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1983年（第29回）</p></td>
 <td><p>室蘭、苫小牧</p></td>
 <td><p><strong><a href="../Page/日立製作所硬式野球部.md" title="wikilink">日立製作所</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>8</strong>-5</p></td>
+<td><p>王子製紙苫小牧</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1984年（第30回）</p></td>
 <td><p>室蘭、苫小牧</p></td>
 <td><p><strong><a href="../Page/Honda鈴鹿硬式野球部.md" title="wikilink">本田技研鈴鹿</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>4</strong>-2</p></td>
+<td><p><a href="../Page/JR東日本硬式野球部.md" title="wikilink">東鉄</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1985年（第31回）</p></td>
 <td><p>室蘭、苫小牧</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/NTT関東硬式野球部" title="wikilink">NTT関東</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>5</strong>-4</p></td>
+<td><p>NTT北海道</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1986年（第32回）</p></td>
 <td><p>室蘭、苫小牧</p></td>
 <td><p><strong><a href="../Page/NTT北海道_(野球チーム).md" title="wikilink">NTT北海道</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>9</strong>-8</p></td>
+<td><p>NTT関東</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1987年（第33回）</p></td>
 <td><p>室蘭、苫小牧</p></td>
 <td><p><strong>大昭和製紙北海道</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>7</strong>-1</p></td>
+<td><p><a href="../Page/Honda硬式野球部.md" title="wikilink">本田技研</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1988年（第34回）</p></td>
 <td><p>室蘭、苫小牧</p></td>
 <td><p><strong>新日本製鐵室蘭</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>6</strong>-2</p></td>
+<td><p>王子製紙苫小牧</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1989年（第35回）</p></td>
 <td><p>室蘭、苫小牧</p></td>
 <td><p><strong>大昭和製紙北海道</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>3</strong>-2</p></td>
+<td><p><a href="../Page/三菱日立パワーシステムズ硬式野球部.md" title="wikilink">三菱重工横浜</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1990年（第36回）</p></td>
 <td><p>円山</p></td>
 <td><p><strong>大昭和製紙北海道</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>8</strong>-5</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/北銀クラブ" title="wikilink">北陸銀行</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1991年（第37回）</p></td>
 <td><p>円山</p></td>
 <td><p><strong>新日本製鐵室蘭</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p>[3]</p></td>
+<td><p>大昭和製紙北海道</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1992年（第38回）</p></td>
 <td><p>室蘭、白老</p></td>
 <td><p><strong><a href="../Page/東芝硬式野球部.md" title="wikilink">東芝</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>7</strong>-4</p></td>
+<td><p>NTT北海道</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1993年（第39回）</p></td>
 <td><p>円山</p></td>
 <td><p><strong><a href="../Page/JX-ENEOS野球部.md" title="wikilink">日本石油</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>9</strong>-4</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/NTT関東硬式野球部" title="wikilink">NTT関東</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1994年（第40回）</p></td>
 <td><p>円山</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/王子製紙苫小牧硬式野球部" title="wikilink">新王子製紙苫小牧</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>8</strong>-5</p></td>
+<td><p>たくぎん</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1995年（第41回）</p></td>
 <td><p>円山</p></td>
 <td><p><strong>日立製作所</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>6</strong>-4</p></td>
+<td><p>ヴィガしらおい</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1996年（第42回）</p></td>
 <td><p>円山</p></td>
 <td><p><strong><a href="../Page/三菱ふそう川崎硬式野球部.md" title="wikilink">三菱自動車川崎</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
+<td><p><strong>11</strong>-1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/かずさマジック" title="wikilink">新日鉄君津</a></p></td>
+<td><p>決勝は8回コールド</p></td>
 </tr>
 <tr class="even">
 <td><p>1997年（第43回）</p></td>
 <td><p>円山</p></td>
 <td><p><strong>王子製紙苫小牧</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>1</strong>-0</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/NTT北陸" title="wikilink">NTT北陸</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1998年（第44回）</p></td>
 <td><p>苫小牧</p></td>
 <td><p><strong><a href="../Page/王子硬式野球部.md" title="wikilink">王子製紙春日井</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>15</strong>-9</p></td>
+<td><p><a href="../Page/東北マークス.md" title="wikilink">NTT東北</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1999年（第45回）</p></td>
 <td><p>円山</p></td>
 <td><p><strong>王子製紙苫小牧</strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>7</strong>-1</p></td>
+<td><p><a href="../Page/法政大学野球部.md" title="wikilink">法政大学</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2000年（第46回）</p></td>
 <td><p>円山</p></td>
 <td><p><strong><a href="../Page/JR東日本東北硬式野球部.md" title="wikilink">JR東日本東北</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>4</strong>-3</p></td>
+<td><p><a href="../Page/三菱自動車岡崎硬式野球部.md" title="wikilink">三菱自動車岡崎</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -336,16 +336,16 @@
 <td><p>2005年（第48回）</p></td>
 <td><p>札幌市円山球場</p></td>
 <td><p><strong><a href="../Page/日産自動車硬式野球部.md" title="wikilink">日産自動車</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>3</strong>-2</p></td>
+<td><p><a href="../Page/サンワード貿易硬式野球部.md" title="wikilink">サンワード貿易</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2006年（第49回）</p></td>
 <td><p>札幌市円山球場</p></td>
 <td><p><strong><a href="../Page/日本製鉄鹿島硬式野球部.md" title="wikilink">住友金属鹿島</a></strong></p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p><strong>6</strong>-4</p></td>
+<td><p><a href="../Page/TDK硬式野球部.md" title="wikilink">TDK</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -387,7 +387,7 @@
 <tr class="even">
 <td><p>2011年</p></td>
 <td><p>大会中止</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東北地方太平洋沖地震" title="wikilink">東北地方太平洋沖地震</a>（<a href="https://ja.wikipedia.org/wiki/東日本大震災" title="wikilink">東日本大震災</a>）の影響のため中止となった[3]。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東北地方太平洋沖地震" title="wikilink">東北地方太平洋沖地震</a>（<a href="https://ja.wikipedia.org/wiki/東日本大震災" title="wikilink">東日本大震災</a>）の影響のため中止となった[4]。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -439,7 +439,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2017年（<a href="https://ja.wikipedia.org/wiki/第43回社会人野球日本選手権大会予選#日本選手権対象大会" title="wikilink">第59回</a>）[4]</p></td>
+<td><p>2017年（<a href="https://ja.wikipedia.org/wiki/第43回社会人野球日本選手権大会予選#日本選手権対象大会" title="wikilink">第59回</a>）[5]</p></td>
 <td><p>仙台市民球場<br />
 石巻市民球場</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/日本製紙石巻硬式野球部" title="wikilink">日本製紙石巻</a></strong></p></td>
@@ -448,7 +448,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2018年（<a href="https://ja.wikipedia.org/wiki/第44回社会人野球日本選手権大会予選#日本選手権対象大会" title="wikilink">第60回</a>）[5]</p></td>
+<td><p>2018年（<a href="https://ja.wikipedia.org/wiki/第44回社会人野球日本選手権大会予選#日本選手権対象大会" title="wikilink">第60回</a>）[6]</p></td>
 <td><p>仙台市民球場<br />
 石巻市民球場</p></td>
 <td><p><strong>NTT東日本</strong></p></td>
@@ -480,6 +480,7 @@
 
 1.  に限り、[都市対抗野球大会](../Page/都市対抗野球大会.md "wikilink")終了後に開催されたが、翌からは再び都市対抗野球大会開幕前に開催されている。
 2.  雨のため途中で打ち切りとなった。
-3.  8月に開催する予定だった同年の都市対抗野球が秋に延期となったため、日本選手権の開催も見送りとなった。
-4.  第59回JABA北海道大会兼第48回JABA東北大会として開催
-5.  第60回JABA北海道大会兼第49回JABA東北大会として開催
+3.  決勝は[全日本が](../Page/野球日本代表.md "wikilink")10-2で勝利したが特別参加のため順位なし。準優勝は2位決定戦による。
+4.  8月に開催する予定だった同年の都市対抗野球が秋に延期となったため、日本選手権の開催も見送りとなった。
+5.  第59回JABA北海道大会兼第48回JABA東北大会として開催
+6.  第60回JABA北海道大会兼第49回JABA東北大会として開催

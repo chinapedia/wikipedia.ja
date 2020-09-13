@@ -1,7 +1,7 @@
 > この記事は[Iiyama](https://ja.wikipedia.org/wiki/Iiyama)から翻訳されています。
 
 
-[Computer_Georg-Büchner-Gymansiums_in_Seelze.jpg](https://ja.wikipedia.org/wiki/File:Computer_Georg-Büchner-Gymansiums_in_Seelze.jpg "fig:Computer_Georg-Büchner-Gymansiums_in_Seelze.jpg") **iiyama**は、**[株式会社マウスコンピューター](../Page/マウスコンピューター.md "wikilink")**の[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")のブランド名である。
+[Computer_Georg-Büchner-Gymansiums_in_Seelze.jpg](https://ja.wikipedia.org/wiki/File:Computer_Georg-Büchner-Gymansiums_in_Seelze.jpg "fig:Computer_Georg-Büchner-Gymansiums_in_Seelze.jpg") **iiyama**（イーヤマ）は、**[株式会社マウスコンピューター](../Page/マウスコンピューター.md "wikilink")**の[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")のブランド名である。
 
 かつては[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に本社を置いていた[パソコン機器メーカーであった](../Page/パーソナルコンピュータ.md "wikilink")。旧社名は**株式会社イーヤマ**。2006年1月に[MCJ](../Page/MCJ.md "wikilink")グループに属し、2008年10月にヨーロッパに本社機能を移転し、株式会社iiyamaはグループ会社のマウスコンピューターに吸収合併された。
 

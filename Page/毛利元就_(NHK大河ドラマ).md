@@ -326,7 +326,7 @@ NHKドラマで本格的にCGデジタル技術が生かされるようになっ
     晴久の正室、国久の娘。
     極度の[ファザコンで父](https://ja.wikipedia.org/wiki/ファーザー・コンプレックス "wikilink")・国久を誇りに思っており、何かと国久の側に立って晴久を見下し非難した。夫・晴久の夫婦仲は元々かなり悪く愛情はなく冷え切っており、家庭内別居中である。夫・晴久に父を誅殺された際は、恨みを抱く。その後、恨みを捨てたふりをして晴久を欺いて毒殺に及んだ夫殺しの女狐で腹黒い悪女で、父を敬っていた息子・義久との関係に溝が生じた。復讐を果たした後は尼子と毛利の最後の戦を冷めた目線で見続けた。元就の策略により、義久が河副久信を裏切り者として殺した際は「晴久と同じ事をしたのだ」と義久を嘲笑った。史実では父に先立って他界している。
   - [尼子国久](../Page/尼子国久.md "wikilink")（あまご くにひさ）
-    演：[清水紘治](../Page/清水紘治.md "wikilink")
+    演：[清水綋治](../Page/清水綋治.md "wikilink")
     [新宮党](../Page/新宮党.md "wikilink")当主。経久の次男で晴久の岳父。みつの父。尼子軍の精鋭部隊を統括して武力面で経久、晴久を支えたが、中央集権を目指す晴久には未支配の領地を褒美に取らされるなどといった冷遇を受ける。元就に二人の悪化した関係を察知され、謀略によって謀反の嫌疑を掛けられ晴久に誅殺されてしまう。
   - [塩冶興久](../Page/塩冶興久.md "wikilink")（えんや おきひさ）
     演：[鈴木九太郎](https://ja.wikipedia.org/wiki/九太朗 "wikilink")
@@ -536,7 +536,7 @@ NHKドラマで本格的にCGデジタル技術が生かされるようになっ
 
 ## 放送
 
-特記が無い限り[NHKクロニクルのNHK番組表ヒストリー](http://www.nhk.or.jp/archives/chronicle/)で確認。
+特記が無い限り[NHKクロニクルのNHK番組表ヒストリー](https://www.nhk.or.jp/archives/chronicle/)で確認。
 
 ### 通常放送時間
 
@@ -629,7 +629,7 @@ NHKドラマで本格的にCGデジタル技術が生かされるようになっ
 
 </div>
 
-[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1997年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1997年のテレビドラマ "wikilink") [Category:NHK広島](https://ja.wikipedia.org/wiki/Category:NHK広島 "wikilink") [Category:NHK山口](https://ja.wikipedia.org/wiki/Category:NHK山口 "wikilink") [Category:NHK松江](https://ja.wikipedia.org/wiki/Category:NHK松江 "wikilink") [Category:内館牧子脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:内館牧子脚本のテレビドラマ "wikilink") [Category:戦国時代_(日本)を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:戦国時代_\(日本\)を舞台としたテレビドラマ "wikilink") [Category:安芸毛利氏](https://ja.wikipedia.org/wiki/Category:安芸毛利氏 "wikilink") [Category:永井路子](https://ja.wikipedia.org/wiki/Category:永井路子 "wikilink") [Category:毛利元就](https://ja.wikipedia.org/wiki/Category:毛利元就 "wikilink") [Category:森田剛](https://ja.wikipedia.org/wiki/Category:森田剛 "wikilink") [Category:一路真輝](https://ja.wikipedia.org/wiki/Category:一路真輝 "wikilink") [Category:榎木孝明](https://ja.wikipedia.org/wiki/Category:榎木孝明 "wikilink") [Category:緒形拳](https://ja.wikipedia.org/wiki/Category:緒形拳 "wikilink")
+[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1997年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1997年のテレビドラマ "wikilink") [Category:NHK広島](https://ja.wikipedia.org/wiki/Category:NHK広島 "wikilink") [Category:NHK山口](https://ja.wikipedia.org/wiki/Category:NHK山口 "wikilink") [Category:NHK松江](https://ja.wikipedia.org/wiki/Category:NHK松江 "wikilink") [Category:内館牧子脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:内館牧子脚本のテレビドラマ "wikilink") [Category:日本の戦国時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:日本の戦国時代を舞台としたテレビドラマ "wikilink") [Category:安芸毛利氏](https://ja.wikipedia.org/wiki/Category:安芸毛利氏 "wikilink") [Category:永井路子](https://ja.wikipedia.org/wiki/Category:永井路子 "wikilink") [Category:毛利元就](https://ja.wikipedia.org/wiki/Category:毛利元就 "wikilink") [Category:森田剛](https://ja.wikipedia.org/wiki/Category:森田剛 "wikilink") [Category:一路真輝](https://ja.wikipedia.org/wiki/Category:一路真輝 "wikilink") [Category:榎木孝明](https://ja.wikipedia.org/wiki/Category:榎木孝明 "wikilink") [Category:緒形拳](https://ja.wikipedia.org/wiki/Category:緒形拳 "wikilink")
 
 1.  [特集　その時、舞台裏では…CGデジタル技術の歩みを振り返る NHKアーカイブス](http://www.nhk.or.jp/archives/search/special/detail/?d=backstage017)
 2.  [ビデオリサーチ NHK大河ドラマ 過去の視聴率データ](http://www.videor.co.jp/data/ratedata/program/03taiga.htm)

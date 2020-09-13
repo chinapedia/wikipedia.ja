@@ -35,13 +35,13 @@
   - 第1回[爆笑オンエアバトル チャンピオン大会で](https://ja.wikipedia.org/wiki/爆笑オンエアバトル_チャンピオン大会 "wikilink")「テクノ体操」というネタを披露。結果は165KBという出場者10組の中で9位という散々な結果だったが、特別審査員として参加していた[立川談志](../Page/立川談志.md "wikilink")から「元気があって面白かったよ」と評価され「審査員特別賞」を贈られる。その収録後に古坂と小島は談志から食事に誘われた事を明かしている。
   - [2003年](../Page/2003年.md "wikilink")9月からお笑い活動を休止し、テクノグループ「[ノーボトム](../Page/ノーボトム.md "wikilink")\!」の活動に専念した。
   - [2005年](../Page/2005年.md "wikilink")[6月](../Page/6月.md "wikilink")、小島がゲーム開発プロデューサーへの転向に伴いノーボトム\!を脱退。6月17日に行われた最後のライブには村島も客として参加し、小島自身も「ノーボトム\!から依頼があれば引き受ける」と言った発言をしていることから、3人は現在も交流を持っていると思われる。
-    小島は、2017年10月8日（関東地区放送日）の「[ウチくる\!?](../Page/ウチくる!?.md "wikilink")」にメインゲストの古坂の元相方として出演して、解散の真相を語った。
+    小島は、2017年10月8日（関東地区放送日）の「[ウチくる\!?](../Page/ウチくる!?.md "wikilink")」にメインゲストの古坂の元相方として出演して、解散の真相を語った\[1\]。
   - その後、ノーボトム\!として音楽性を追求するため[2005年](../Page/2005年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink")に所属事務所の[ホリプロコム](../Page/ホリプロコム.md "wikilink")（M2カンパニーの後身）を退社した。
 
 ## 解散後
 
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から古坂が[ピン芸人](../Page/ピン芸人.md "wikilink")としての活動を再開。
-  - テレビ番組などで過去の映像が流れる際、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の時点では古坂以外の2人の顔の部分は「元相方」のマークで隠されていた\[1\]。[2017年](../Page/2017年.md "wikilink")10月8日に古坂が出演した『[ウチくる\!?](../Page/ウチくる!?.md "wikilink")』では「所縁のある人物」として芸能界引退後、数年ぶりに元相方の小島が出演している。[2018年](../Page/2018年.md "wikilink")になると村島のみ顔が隠されて小島はそのまま顔出しをしており\[2\]\[3\]、トークの中でも実名を出されるなど小島のみ解禁状態となっている。
+  - テレビ番組などで過去の映像が流れる際、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の時点では古坂以外の2人の顔の部分は「元相方」のマークで隠されていた\[2\]。[2017年](../Page/2017年.md "wikilink")10月8日に古坂が出演した『[ウチくる\!?](../Page/ウチくる!?.md "wikilink")』では「所縁のある人物」として芸能界引退後、数年ぶりに元相方の小島が出演している\[3\]。[2018年](../Page/2018年.md "wikilink")になると村島のみ顔が隠されて小島はそのまま顔出しをしており\[4\]、トークの中でも実名を出されるなど小島のみ解禁状態となっている。
 
 ## 過去の出演番組
 
@@ -92,27 +92,31 @@
 
 ## 脚注
 
+### 注釈
+
+### 出典
+
 ## 外部リンク
 
   - [M2カンパニーによる当時のプロフィール](https://web.archive.org/web/20021010065455/http://www.m2company.co.jp/f_sokonuke.html)（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")によるアーカイブ）
 
-  - [底ぬけ体験](http://www.ntv.co.jp/shigeki/sokonuke/index.html)
-
+  -
   - [ノーボトム\!オフィシャルホームページ](http://www.no-bottom.com/)
 
   - [エイベックス・ノーボトム](http://www.avexnet.or.jp/nobottom/)
 
-  - [オフィシャルブログ 古坂大魔王のブログんだい魔くん！](http://ameblo.jp/k-daimaou/)
+  - [オフィシャルブログ 古坂大魔王のブログんだい魔くん！](https://ameblo.jp/k-daimaou/)
 
   -
   -
   -
-  - \[<http://www.studioanima.co.jp/member/>　株式会社アニマメンバー小島忍\]
+  - [株式会社アニマメンバー小島忍](http://www.studioanima.co.jp/member/)
 
 [Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink")
 
-[Category:日本のお笑いグループ](https://ja.wikipedia.org/wiki/Category:日本のお笑いグループ "wikilink") [Category:過去のホリプロ所属者](https://ja.wikipedia.org/wiki/Category:過去のホリプロ所属者 "wikilink")
+[Category:日本のお笑いトリオ](https://ja.wikipedia.org/wiki/Category:日本のお笑いトリオ "wikilink") [Category:過去のホリプロ所属者](https://ja.wikipedia.org/wiki/Category:過去のホリプロ所属者 "wikilink")
 
-1.  『[タモリのボキャブラ天国](https://ja.wikipedia.org/wiki/タモリのボキャブラ天国 "wikilink")大復活祭　伝説のキャブラー大同窓会\&NEWキャブラーもボキャブる3時間SP』2008年9月28日放送分。
-2.  『[アメトーーク](https://ja.wikipedia.org/wiki/アメトーーク "wikilink")』2018年9月20日放送分。
-3.  前述の『ウチくる\!?』内で底抜けAIR-LINE時代の映像やグラビアが放映されていたが、そこでも小島はそのまま顔出ししており、村島のみ顔に暈しがかけられていた。
+1.
+2.  『[タモリのボキャブラ天国](https://ja.wikipedia.org/wiki/タモリのボキャブラ天国 "wikilink")大復活祭　伝説のキャブラー大同窓会\&NEWキャブラーもボキャブる3時間SP』2008年9月28日放送分。
+3.
+4.  『[アメトーーク](https://ja.wikipedia.org/wiki/アメトーーク "wikilink")』2018年9月20日放送分。

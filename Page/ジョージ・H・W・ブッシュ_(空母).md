@@ -21,7 +21,7 @@
 
 一部で、退役する「[キティホーク](../Page/キティホーク_\(空母\).md "wikilink")」（USS Kitty Hawk, CVA-63）の後継として[横須賀基地への配備案が報道されたが](../Page/横須賀海軍施設.md "wikilink")、「[ジョージ・ワシントン](../Page/ジョージ・ワシントン_\(空母\).md "wikilink")」（USS George Washington, CVN-73）が配備された。
 
-2011年5月11日に母港のノーフォークを出港し、初めての作戦航海を7ヶ月間、[大西洋](../Page/大西洋.md "wikilink")・[地中海](../Page/地中海.md "wikilink")および[中東](../Page/中東.md "wikilink")地域を航行し、2011年12月10日に帰港した。
+2011年5月11日に母港のノーフォークを出港し、初めての作戦航海を7ヶ月間、[大西洋](../Page/大西洋.md "wikilink")、[地中海](../Page/地中海.md "wikilink")および[中東](../Page/中東.md "wikilink")地域を航行し、2011年12月10日に帰港した。
 
 帰港後は出港しても[X-47の試験運用などの短期航海が多かったが](../Page/X-47_\(航空機\).md "wikilink")、2014年2月15日に母港ノーフォークを出港し、地中海および中東に向かった。3月[クリミア危機に対応するため](https://ja.wikipedia.org/wiki/2014年クリミア危機 "wikilink")[トルコ](../Page/トルコ.md "wikilink")へ、6月には[ISIL](https://ja.wikipedia.org/wiki/ISIL "wikilink")対処のため中東へ移動、8月8日ISILへの空爆を開始した。11月2日、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[マルセイユ](../Page/マルセイユ.md "wikilink")へ休養のため寄港後、11月15日9ヶ月間の航海を終えノーフォークに帰港した。
 
@@ -37,7 +37,7 @@
 
 ### 存命中の人名が命名された米軍艦船
 
-長い[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の歴史の中では、たとえ海軍有力者・功労者であっても本人存命中は艦名として命名がなされることはほとんど無かったが、近年はその数も増えてきている。
+長い[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の歴史の中では、たとえ海軍有力者、功労者であっても本人存命中は艦名として命名がなされることはほとんど無かったが、近年はその数も増えてきている。
 
   - 「[カール・ヴィンソン](../Page/カール・ヴィンソン_\(空母\).md "wikilink")」（USS Carl Vinson, CVN-70）
   - 「[ロナルド・レーガン](../Page/ロナルド・レーガン_\(空母\).md "wikilink")」（USS Ronald Reagan, CVN-76）
@@ -50,22 +50,22 @@
 
 1980年3月15日に進水したCVN-70に[カール・ヴィンソン](../Page/カール・ヴィンソン.md "wikilink")元[下院議員](../Page/アメリカ合衆国下院.md "wikilink")・元下院海軍委員会委員長の名前をつけたケースでは、就役以前の1981年6月に高齢のため死亡しており、CVN-76に[ロナルド・レーガン](../Page/ロナルド・レーガン.md "wikilink")元大統領の名前を付けたケースでは[アルツハイマー病のために進水式や就役式には出席できない状態であった](https://ja.wikipedia.org/wiki/アルツハイマー型認知症 "wikilink")。
 
-## 第8空母航空団
+## 第7空母航空団
 
-第8空母航空団（Carrier Air Wing 8, CVW-8）は、ジョージ・H・W・ブッシュ（CVN-77）に艦載される航空団。
+第7空母航空団（Carrier Air Wing 7, CVW-7）は、ジョージ・H・W・ブッシュ（CVN-77）に艦載される航空団。
 
-| 飛行隊名                                                                                               | 通称名                              | 使用機種                                                                         |
-| -------------------------------------------------------------------------------------------------- | -------------------------------- | ---------------------------------------------------------------------------- |
-| 第31戦闘攻撃飛行隊 ([VFA-31](../Page/第31戦闘攻撃飛行隊_\(アメリカ海軍\).md "wikilink"))                                 | 『トムキャッターズ *Tomcatters*』          | [F/A-18E Block2](https://ja.wikipedia.org/wiki/F/A-18E/F_\(航空機\) "wikilink") |
-| 第213戦闘攻撃飛行隊 ([VFA-213](https://ja.wikipedia.org/wiki/第213戦闘攻撃飛行隊_\(アメリカ海軍\) "wikilink"))           | 『ブラック・ライオンズ *Black Lions*』       | [F/A-18F Block2](https://ja.wikipedia.org/wiki/F/A-18E/F_\(航空機\) "wikilink") |
-| 第87戦闘攻撃飛行隊 ([VFA-87](https://ja.wikipedia.org/wiki/第87戦闘攻撃飛行隊_\(アメリカ海軍\) "wikilink"))              | 『ゴールデン・ウォリアーズ *Golden Warriors*』 | [F/A-18E Block2](https://ja.wikipedia.org/wiki/F/A-18E/F_\(航空機\) "wikilink") |
-| 第37戦闘攻撃飛行隊 ([VFA-37](https://ja.wikipedia.org/wiki/第37戦闘攻撃飛行隊_\(アメリカ海軍\) "wikilink"))              | 『ブルズ *Bulls*』                    | [F/A-18C(N)](https://ja.wikipedia.org/wiki/F/A-18_\(航空機\) "wikilink")        |
-| 第131電子攻撃飛行隊 ([VAQ-131](https://ja.wikipedia.org/wiki/第131電子攻撃飛行隊_\(アメリカ海軍\) "wikilink"))           | 『ランサーズ *Lancers*』                | [EA-18G](https://ja.wikipedia.org/wiki/EA-18G_\(航空機\) "wikilink")            |
-| 第124早期警戒飛行隊 ([VAW-124](https://ja.wikipedia.org/wiki/第124早期警戒飛行隊_\(アメリカ海軍\) "wikilink"))           | 『ベア・エーセス *Bear Aces*』            | [E-2C](../Page/E-2_\(航空機\).md "wikilink")                                    |
-| 第9ヘリコプター海上作戦飛行隊 ([HSC-9](https://ja.wikipedia.org/wiki/第9海上戦闘ヘリコプター飛行隊_\(アメリカ海軍\) "wikilink"))     | 『トライデンツ *Tridents*』              | MH-60S                                                                       |
-| 第70ヘリコプター海洋攻撃飛行隊 ([HSM-70](https://ja.wikipedia.org/wiki/第70海兵攻撃ヘリコプター飛行隊_\(アメリカ海兵隊\) "wikilink")) | 『スパルタンズ *Spartans*』              | MH-60R                                                                       |
-| 第40艦隊後方支援飛行隊 ([VRC-40](https://ja.wikipedia.org/wiki/第40艦隊後方支援飛行隊_\(アメリカ海軍\) "wikilink"))          | 『ローハイズ *Rawhides*』               | [C-2A](../Page/C-2_\(航空機・アメリカ\).md "wikilink")                               |
-|                                                                                                    |                                  |                                                                              |
+| 飛行隊名                                                                  | 通称名                                  | 使用機種                                                                          |
+| --------------------------------------------------------------------- | ------------------------------------ | ----------------------------------------------------------------------------- |
+| 第143戦闘攻撃飛行隊 (VFA-143)                                                 | 『ピューキン・ドッグス *Pukin' Dogs*』           | [F/A-18E BlockII](https://ja.wikipedia.org/wiki/F/A-18E/F_\(航空機\) "wikilink") |
+| 第103戦闘攻撃飛行隊 ([VFA-103](../Page/第103戦闘攻撃飛行隊_\(アメリカ海軍\).md "wikilink")) | 『ジョリー・ロジャース *Jolly Rogers*』          | [F/A-18F BlockII](https://ja.wikipedia.org/wiki/F/A-18E/F_\(航空機\) "wikilink") |
+| 第86戦闘攻撃飛行隊 (VFA-86)                                                   | 『サイドワインダーズ *Sidewinders*』            | [F/A-18E BlockII](https://ja.wikipedia.org/wiki/F/A-18E/F_\(航空機\) "wikilink") |
+| 第25戦闘攻撃飛行隊 (VFA-25)                                                   | 『フィスト・オブ・ザ・フリート *Fist of The Fleet*』 | [F/A-18E BlockII](https://ja.wikipedia.org/wiki/F/A-18E/F_\(航空機\) "wikilink") |
+| 第140電子攻撃飛行隊 (VAQ-140)                                                 | 『ペイトリオッツ *Patriots*』                 | [EA-18G](https://ja.wikipedia.org/wiki/EA-18G_\(航空機\) "wikilink")             |
+| 第121早期警戒飛行隊 (VAW-121)                                                 | 『ブルーテイルズ *Bluetails*』                | [E-2D](../Page/E-2_\(航空機\).md "wikilink")                                     |
+| 第5ヘリコプター海上作戦飛行隊 (HSC-5)                                               | 『ナイトディッパーズ *Nightdippers*』           | MH-60S                                                                        |
+| 第79ヘリコプター海洋攻撃飛行隊 (HSM-79)                                             | 『グリフィンズ *Griffins*』                  | MH-60R                                                                        |
+| 第40艦隊後方支援飛行隊 (VRC-40)                                                 | 『ローハイズ *Rawhides*』                   | [C-2A](../Page/C-2_\(航空機・アメリカ\).md "wikilink")                                |
+|                                                                       |                                      |                                                                               |
 
 p
 

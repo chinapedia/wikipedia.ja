@@ -1,7 +1,7 @@
 > この記事は[ボルトン・ワンダラーズFC](https://ja.wikipedia.org/wiki/ボルトン・ワンダラーズFC)から翻訳されています。
 
 
-**ボルトン・ワンダラーズ・フットボール・クラブ**（**Bolton Wanderers Football Club** ()）は、[イングランド](../Page/イングランド.md "wikilink")、[グレーター・マンチェスター州](https://ja.wikipedia.org/wiki/グレーター・マンチェスター州 "wikilink")、[ボルトン](../Page/ボルトン.md "wikilink")を本拠地とするサッカークラブチームである。2019-20シーズンは[EFLリーグ1](../Page/EFLリーグ1.md "wikilink")（3部相当）に所属。
+**ボルトン・ワンダラーズ・フットボール・クラブ**（**Bolton Wanderers Football Club** ()）は、[イングランド](../Page/イングランド.md "wikilink")、[グレーター・マンチェスター州](https://ja.wikipedia.org/wiki/グレーター・マンチェスター州 "wikilink")、[ボルトン](../Page/ボルトン.md "wikilink")を本拠地とするサッカークラブチームである。2020-21シーズンは[EFLリーグ2](../Page/EFLリーグ2.md "wikilink")（4部相当）に所属。
 
 2015年以降、クラブは深刻な財政難に陥り、EFLからの追放の危機を迎えたが、2019年8月28日にFootball Ventures (Whites) Limitedがクラブを買収し、問題を回避した\[1\]\[2\]。
 
@@ -91,7 +91,7 @@
 | 2016-17 | [リーグ1](https://ja.wikipedia.org/wiki/フットボールリーグ1 "wikilink")               | 46                                   | 25                                                              | 11                                                           | 10    |
 | 2017-18 | チャンピオンシップ                                                                 | 46                                   | 10                                                              | 13                                                           | 23    |
 | 2018-19 | チャンピオンシップ                                                                 | 46                                   | 8                                                               | 8                                                            | 30    |
-| 2019-20 | リーグ1                                                                      | 46                                   |                                                                 |                                                              |       |
+| 2019-20 | リーグ1                                                                      | 34                                   | 5                                                               | 11                                                           | 18    |
 
 ## 現所属メンバー
 

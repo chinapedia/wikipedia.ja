@@ -65,16 +65,18 @@
   - [しの](../Page/生駒吉乃.md "wikilink")：[高木美保](https://ja.wikipedia.org/wiki/高木美保 "wikilink")
       -
         信長の側室。信忠・信雄・五徳の母。生駒吉乃。
-  - [市](../Page/お市の方.md "wikilink")：[中野美穂](https://ja.wikipedia.org/wiki/中野美穂 "wikilink")→[鷲尾いさ子](../Page/鷲尾いさ子.md "wikilink")
+  - [市](../Page/お市の方.md "wikilink")：[中野美穂](../Page/中野美穂_\(子役\).md "wikilink")→[鷲尾いさ子](../Page/鷲尾いさ子.md "wikilink")
       -
         信長の妹。初め、[近江](https://ja.wikipedia.org/wiki/近江 "wikilink")の[浅井長政](../Page/浅井長政.md "wikilink")の正室となるが、長政の死で未亡人に。
   - [なべ](../Page/興雲院.md "wikilink")：[若村麻由美](https://ja.wikipedia.org/wiki/若村麻由美 "wikilink")
       -
-        信長の側室。信孝の母。
+        信長の側室。
   - [織田信秀](../Page/織田信秀.md "wikilink")：[林隆三](../Page/林隆三.md "wikilink")
       -
         信長の父。
   - [織田信定](../Page/織田信定.md "wikilink")：[船越英二](../Page/船越英二.md "wikilink")
+      -
+        信長の祖父。
   - [織田信忠](../Page/織田信忠.md "wikilink")：[類家大地](../Page/類家大地.md "wikilink")→[寺沢昌純](https://ja.wikipedia.org/wiki/寺沢昌純 "wikilink")→[青木海](https://ja.wikipedia.org/wiki/青木海 "wikilink")→[藤田哲也](../Page/藤田哲也_\(俳優\).md "wikilink")→[東根作寿英](../Page/東根作寿英.md "wikilink")
       -
         信長の長男で母は、しの。
@@ -114,7 +116,7 @@
   - [玉](../Page/細川ガラシャ.md "wikilink")：[今村恵子](../Page/今村恵子.md "wikilink")
   - ゆい：[生田智子](../Page/生田智子.md "wikilink")
       -
-        光秀の娘。荒木村重の妻。
+        光秀の娘。荒木村重の嫡男の妻。
   - [稲葉良通](../Page/稲葉良通.md "wikilink")：[篠田三郎](../Page/篠田三郎.md "wikilink")
   - [佐久間信盛](../Page/佐久間信盛.md "wikilink")：[田中健](../Page/田中健_\(俳優\).md "wikilink")\[8\]
   - [佐久間盛重](../Page/佐久間盛重.md "wikilink")：[本郷功次郎](../Page/本郷功次郎.md "wikilink")
@@ -136,7 +138,7 @@
   - [村井貞勝](../Page/村井貞勝.md "wikilink")：[西田圭](https://ja.wikipedia.org/wiki/西田圭 "wikilink")
   - [毛利新助](../Page/毛利良勝.md "wikilink")：[青木健](https://ja.wikipedia.org/wiki/青木健_\(俳優\) "wikilink")
   - [服部小平太](../Page/服部一忠.md "wikilink")：[堅田宏](https://ja.wikipedia.org/wiki/堅田宏 "wikilink")
-  - [松永久秀](../Page/松永久秀.md "wikilink")：[清水紘治](../Page/清水紘治.md "wikilink")
+  - [松永久秀](../Page/松永久秀.md "wikilink")：[清水綋治](../Page/清水綋治.md "wikilink")
   - [荒木村重](../Page/荒木村重.md "wikilink")：[本田博太郎](../Page/本田博太郎.md "wikilink")
   - [高山飛騨守](../Page/高山友照.md "wikilink")：[清水善三](https://ja.wikipedia.org/wiki/清水善三 "wikilink")
   - [高山右近](../Page/高山右近.md "wikilink")：[冨家規政](../Page/冨家規政.md "wikilink")
@@ -197,12 +199,12 @@
   - [ザビエル神父](../Page/フランシスコ・ザビエル.md "wikilink")：[テリー・オブライエン](https://ja.wikipedia.org/wiki/テレンス・オブライエン "wikilink")
   - [ヴィレラ](../Page/ガスパル・ヴィレラ.md "wikilink")：テリー・オブライエン（[二役](https://ja.wikipedia.org/wiki/二役 "wikilink")）
   - [アルメイダ](../Page/ルイス・デ・アルメイダ.md "wikilink")：[ガブリエル・メラク](https://ja.wikipedia.org/wiki/ガブリエル・メラク "wikilink")
-  - [トルレス神父](../Page/コスメ・デ・トーレス.md "wikilink")：[カルロス・モリーナ](https://ja.wikipedia.org/wiki/カルロス・モリーナ "wikilink")
+  - [トルレス神父](../Page/コスメ・デ・トーレス.md "wikilink")：カルロス・モリーナ
   - [フェルナンデス修道士](../Page/フアン・フェルナンデス_\(宣教師\).md "wikilink")：[アルメイダ・ジョワリ](https://ja.wikipedia.org/wiki/アルメイダ・ジョワリ "wikilink")
   - [ヴァリニャーノ](../Page/アレッサンドロ・ヴァリニャーノ.md "wikilink")：[ブライアン・バークガフニ](https://ja.wikipedia.org/wiki/ブライアン・バークガフニ "wikilink")
   - [オルガンティーノ](../Page/グネッキ・ソルディ・オルガンティノ.md "wikilink")：[細川フランコ](https://ja.wikipedia.org/wiki/フランコ・マウリッリ "wikilink")
   - [カブラル](../Page/フランシスコ・カブラル.md "wikilink")：[ジョバンニ・プッチ](https://ja.wikipedia.org/wiki/ジョバンニ・プッチ "wikilink")
-  - [ヤジロー](../Page/ヤジロウ.md "wikilink")：[龍飛雲](https://ja.wikipedia.org/wiki/龍飛雲 "wikilink")
+  - [ヤジロー](../Page/ヤジロウ.md "wikilink")：[龍飛雲](../Page/龍飛雲.md "wikilink")
   - [ソテロ](../Page/弥助.md "wikilink")：[リード・ジャクソン](https://ja.wikipedia.org/wiki/リード・ジャクソン "wikilink")
   - [伊東マンショ](../Page/伊東マンショ.md "wikilink")：[重富孝](https://ja.wikipedia.org/wiki/重富孝 "wikilink")→[木村直雄樹](https://ja.wikipedia.org/wiki/木村直雄樹 "wikilink")
   - [千々石ミゲル](../Page/千々石ミゲル.md "wikilink")：[佐藤洋匡](https://ja.wikipedia.org/wiki/佐藤洋匡 "wikilink")→[長崎真純](https://ja.wikipedia.org/wiki/長崎真純 "wikilink")

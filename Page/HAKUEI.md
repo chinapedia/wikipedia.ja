@@ -28,6 +28,8 @@
       - [3月24日](../Page/3月24日.md "wikilink")、ボーカリストとしてラッパーの[TWIGY](../Page/TWIGY.md "wikilink")と共に参加した[ナイトメアのドラマー](../Page/ナイトメア_\(バンド\).md "wikilink")[RUKA](../Page/RUKA.md "wikilink")のソロプロジェクトThe LEGENDARY SIX NINEのシングル「Cruel」が発売。ライブイベントに3度出演。
   - [2011年](../Page/2011年.md "wikilink")
       - 古屋兎丸の[漫画作品](https://ja.wikipedia.org/wiki/漫画作品 "wikilink")、[ライチ☆光クラブ](../Page/ライチ☆光クラブ.md "wikilink")とのコラボレーションで、同名の音楽ユニット「[ライチ☆光クラブ](https://ja.wikipedia.org/wiki/ライチ☆光クラブ#音楽ユニット "wikilink")」として音楽配信も行い、その集大成として全6曲のミニアルバム『エラガバルス☆の夢』を発売。[武田真治](../Page/武田真治.md "wikilink")などゲストミュージシャンが多数参加。
+  - [2017年](../Page/2011年.md "wikilink")
+      - 配信限定で「HAKUEIMAN」名義での音源を発売。
 
 ## 人物
 
@@ -37,7 +39,7 @@
   - [UP-BEAT](../Page/UP-BEAT.md "wikilink")の大ファンでもあり、高校時代にコピーバンドをした。
   - [菊池桃子](../Page/菊池桃子.md "wikilink")の大ファン。お気に入りナンバーは「雪に書いたラブレター」。
   - 好きなアイスは[ガリガリ君](../Page/ガリガリ君.md "wikilink")とぎゅぎゅっとと[ハーゲンダッツ](../Page/ハーゲンダッツ.md "wikilink")。
-  - くめ納豆名誉会員。ジブリ作品のファン。[クワガタのマニア](../Page/クワガタムシ.md "wikilink")。[酒豪](../Page/酒豪.md "wikilink")。[ゲーマー](../Page/ゲーマー.md "wikilink")。猫が好き。
+  - くめ納豆名誉会員。ジブリ作品のファン。[クワガタのマニア](../Page/クワガタムシ.md "wikilink")（男のロマン・男のロマンZでこのことを歌っている）。[酒豪](../Page/酒豪.md "wikilink")。[ゲーマー](../Page/ゲーマー.md "wikilink")。猫が好き。
   - 突然の衝撃が苦手。その為に、ライブ等の演出で爆発が起きる時は必ず後ろ向いたり、[黒ひげ危機一髪](https://ja.wikipedia.org/wiki/黒ひげ危機一髪 "wikilink")に本気でビビる。\[1\]。
 
 ## ディスコグラフィ
@@ -136,6 +138,14 @@ IOCD-11067:CD</p></td>
 オリコン最高52位、登場回数3回</p></td>
 </tr>
 <tr class="even">
+<td><p>6th</p></td>
+<td><p>2020年</p></td>
+<td><p>KURENAI</p></td>
+<td><p>配信限定</p></td>
+<td><p>1.KURENAI</p></td>
+<td><p>SHOCHIKU RECORDS 映画「私がモテてどうすんだ」</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -203,6 +213,33 @@ IOCD-11067:CD</p></td>
 オリコン最高64位</p></td>
 </tr>
 <tr class="odd">
+<td><p>？</p></td>
+<td><p>2016年7月27日</p></td>
+<td><p><strong>Virgin Vibration</strong></p></td>
+<td><p>TMLA-0031 TMLA-0032</p>
+<p>TMLA-0033</p></td>
+<td><p>　 1. 世界の果て ~paranoia of youth~</p>
+<p> 　2. ハムレット</p>
+<p> 　3. メルヘン☆ジャック(ライチ☆光クラブ)</p>
+<p>　 4. DIS(machine)</p>
+<p>　 5. 9th Dimension</p>
+<p>　 6. The Elephant Man</p>
+<p>　 7. ダブルラブショック</p>
+<p>　 8. Teenage Bullet</p>
+<p>　 9. Eternal My Dear</p>
+<p>  10. Virgin Groove</p>
+<p>＜初回限定Cのみボーナストラック＞</p>
+<p>11. ZEUS (ボーナストラック)</p>
+<p>  12. NUDE (ボーナストラック)</p>
+<p>＜初回限定盤AのみDVD＞</p>
+<p>1. Eternal My Dear (ミュージックビデオ)</p>
+<p>  2. Eternal My Dear (ミュージックビデオメイキング映像)</p>
+<p>＜初回限定盤BのみDVD＞</p>
+<p>1. ハムレット (ミュージックビデオ)</p>
+<p>  2. ハムレット (ミュージックビデオメイキング映像)</p></td>
+<td><p>TAMULA</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -242,6 +279,14 @@ IOCD-11067:CD</p></td>
 CROWN BOOKS</p></td>
 </tr>
 <tr class="odd">
+<td><p>？</p></td>
+<td><p>2016年12月16日</p></td>
+<td><p><strong>HAKUEI Solo Works 20th Anniversary Tour at 赤坂BLITZ 2016.8.20 DVD＋</strong></p>
+<p><strong>写真集 (BOX)［プレス限定盤]</strong></p></td>
+<td><p>TMLV-0006</p></td>
+<td><p>TAMULA DVD2枚組＋写真集 (BOX入り)</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -257,6 +302,7 @@ CROWN BOOKS</p></td>
 | ----------- | ----------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------ |
 | 2014年03月26日 | **[V-ANIME collaboration -homme-](https://ja.wikipedia.org/wiki/V-ANIME_collaboration_-homme- "wikilink")** | TKCA-74051 | 1.ペガサス幻想 / HAKUEI(PENICILLIN)×風弥(DaizyStripper)  |
 | 2014年05月14日 | **[V-ANIME collaboration -femme-](https://ja.wikipedia.org/wiki/V-ANIME_collaboration_-femme- "wikilink")** | TKCA-74059 | 11\.[残酷な天使のテーゼ](../Page/残酷な天使のテーゼ.md "wikilink") |
+| 2017年07月06日 | **學蘭歌劇『帝一の國』ヒット★パレード ベストセレクション**                                                                            | 配信限定       | 2.日本（ライチ☆光クラブ 　Jesus Christ Hyperstarから）         |
 |             |                                                                                                             |            |                                                  |
 
 ## ミュージックビデオ
@@ -290,6 +336,6 @@ CROWN BOOKS</p></td>
   -
   - [machine Official Website](http://www.machineproject.jp/)
 
-[Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:日本の男性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ロック歌手 "wikilink") [Category:ヴィジュアル系ミュージシャン](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系ミュージシャン "wikilink") [Category:日本の男性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ポップ歌手 "wikilink") [Category:宮崎県出身の人物](https://ja.wikipedia.org/wiki/Category:宮崎県出身の人物 "wikilink") [Category:1970年生](https://ja.wikipedia.org/wiki/Category:1970年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:日本の男性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ロック歌手 "wikilink") [Category:ヴィジュアル系ミュージシャン](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系ミュージシャン "wikilink") [Category:日本の男性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ポップ歌手 "wikilink") [Category:青森県立弘前高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:青森県立弘前高等学校出身の人物 "wikilink") [Category:宮崎県出身の人物](https://ja.wikipedia.org/wiki/Category:宮崎県出身の人物 "wikilink") [Category:1970年生](https://ja.wikipedia.org/wiki/Category:1970年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  [2015年](../Page/2015年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")放送の[有吉反省会](https://ja.wikipedia.org/wiki/有吉反省会 "wikilink")より

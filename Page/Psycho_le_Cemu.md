@@ -61,7 +61,7 @@
 
 <!-- end list -->
 
-  - YURAサマ（ユラサマ） - ダンス、ボーカル、ドラム
+  - [YURAサマ](../Page/YURAサマ.md "wikilink")（ユラサマ） - ダンス、ボーカル、ドラム
 
 <!-- end list -->
 

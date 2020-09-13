@@ -351,7 +351,7 @@ aおよびbの値として出力されるのはどんな値だろうか？initia
 
 ## 4値理論
 
-IEEE 1364標準では、0、1、Z（[ハイ・インピーダンス](https://ja.wikipedia.org/wiki/ハイ・インピーダンス "wikilink")）、X（論理値が未知）の4つの状態を使用する[4値理論](https://ja.wikipedia.org/wiki/4値理論 "wikilink")が定義されている。一方、Verilogの競合であるVHDLの標準では、9つのレベルを持つ多値理論が定義されている。
+IEEE 1364標準では、0、1、Z（[ハイ・インピーダンス](https://ja.wikipedia.org/wiki/ハイ・インピーダンス "wikilink")）、X（論理値が未知）の4つの状態を使用するが定義されている。一方、Verilogの競合であるVHDLの標準では、9つのレベルを持つ多値理論が定義されている。
 
 ## システムタスク
 

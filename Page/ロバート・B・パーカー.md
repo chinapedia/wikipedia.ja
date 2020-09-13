@@ -733,7 +733,7 @@ MWA賞最優秀長編賞受賞</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>S38</p></td>
+<td><p>S39</p></td>
 <td><p><em>Painted Ladies</em></p></td>
 <td><p>2010</p></td>
 <td><p>盗まれた貴婦人</p></td>
@@ -743,7 +743,7 @@ MWA賞最優秀長編賞受賞</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>S39</p></td>
+<td><p>S40</p></td>
 <td><p><em>Sixkill</em></p></td>
 <td><p>2011</p></td>
 <td><p>春嵐</p></td>

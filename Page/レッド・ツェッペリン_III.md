@@ -45,10 +45,7 @@
 3.  **[祭典の日](https://ja.wikipedia.org/wiki/祭典の日 "wikilink")** - *Celebration Day* (Jones, Page & Plant)
 4.  **[貴方を愛しつづけて](https://ja.wikipedia.org/wiki/貴方を愛しつづけて "wikilink")** - *Since I've Been Loving You* (Jones, Page & Plant)
       - 前作『II』のセッション時に製作されていたが収録を見合わせ、レコーディングし直した上で本作に収録された。
-
-※イントロで、バスドラムペダルに油が差してなかったのか「キコ・キコ」と音が聴こえる。 これは、ラディックの「スピード・キング」という有名なペダルであるが、近年のベルトドライヴ方式やチェーンドライヴ方式の稼働では無く金属同士が直接稼働しているダイレクトドライヴのためと思われる。
-
-1.  **[アウト・オン・ザ・タイルズ](https://ja.wikipedia.org/wiki/アウト・オン・ザ・タイルズ "wikilink")** - *Out on the Tiles* (Bonham, Page & Plant)
+5.  **[アウト・オン・ザ・タイルズ](https://ja.wikipedia.org/wiki/アウト・オン・ザ・タイルズ "wikilink")** - *Out on the Tiles* (Bonham, Page & Plant)
 
 <!-- end list -->
 

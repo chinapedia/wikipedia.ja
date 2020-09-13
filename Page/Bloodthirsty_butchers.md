@@ -1,7 +1,7 @@
 > この記事は[Bloodthirsty butchers](https://ja.wikipedia.org/wiki/Bloodthirsty_butchers)から翻訳されています。
 
 
-**bloodthirsty butchers**（ブラッドサースティ・ブッチャーズ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。通称「ブッチャーズ」。[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")、[キングレコード](../Page/キングレコード.md "wikilink")、[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink")、[日本コロムビア](../Page/日本コロムビア.md "wikilink")、自主レーベル｢[391tone](https://ja.wikipedia.org/wiki/391tone "wikilink")｣を経て\[1\]現在は再び[キングレコード](../Page/キングレコード.md "wikilink")に所属。
+**bloodthirsty butchers**（ブラッドサースティ・ブッチャーズ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。通称「ブッチャーズ」。[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")、[キングレコード](../Page/キングレコード.md "wikilink")、[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink")、[日本コロムビア](../Page/日本コロムビア.md "wikilink")、自主レーベル「[391tone](https://ja.wikipedia.org/wiki/391tone "wikilink")」を経て\[1\]現在は再び[キングレコード](../Page/キングレコード.md "wikilink")に所属。
 
 ## メンバー
 
@@ -44,7 +44,9 @@
 
 [2007年](../Page/2007年.md "wikilink")、自主レーベル「391tone」よりアルバム「**ギタリストを殺さないで**」発売。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、再びキングレコードよりアルバム「**NO ALBUM 無題**」と、12ヶ月をコンプリートした「**kocorono完全盤**」を同時リリース。 ''' [2013年](../Page/2013年.md "wikilink")、アルバム制作終了後、吉村が急死。同年発売された「**youth（青春）**」が遺作となった。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、再びキングレコードよりアルバム「**NO ALBUM 無題**」と、12ヶ月をコンプリートした「**kocorono完全盤**」を同時リリース。
+
+[2013年](../Page/2013年.md "wikilink")、アルバム制作終了後、吉村が急死。同年発売された「**youth（青春）**」が遺作となった。
 
 [2016年](../Page/2016年.md "wikilink")に発売20周年を記念し新たに未発表曲「kocorono」を収録、84ページ豪華ブックレット等を同梱した「**kocorono最終盤**」を発売。
 

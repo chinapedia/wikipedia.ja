@@ -33,12 +33,12 @@
 
   - [新木優子](https://ja.wikipedia.org/wiki/新木優子 "wikilink")（2014年3月号 - 表紙11回）
   - [鈴木ゆうか](https://ja.wikipedia.org/wiki/鈴木ゆうか "wikilink")（2014年11月号 - ）
-  - [西野七瀬](https://ja.wikipedia.org/wiki/西野七瀬 "wikilink")（元[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")、2015年6月号 - 表紙10回）\[1\]
+  - [西野七瀬](https://ja.wikipedia.org/wiki/西野七瀬 "wikilink")（元[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")、2015年6月号 - 表紙11回）\[1\]
   - [馬場ふみか](https://ja.wikipedia.org/wiki/馬場ふみか "wikilink")（2015年6月号 - 表紙5回）
   - [武田玲奈](https://ja.wikipedia.org/wiki/武田玲奈 "wikilink")（2016年6月号 - ）\[2\]
   - [金城茉奈](https://ja.wikipedia.org/wiki/金城茉奈 "wikilink")（2016年6月号 - ）\[3\]
   - [松川菜々花](https://ja.wikipedia.org/wiki/松川菜々花 "wikilink")（2017年6月号 - ）\[4\]
-  - [渡邉理佐](https://ja.wikipedia.org/wiki/渡邉理佐 "wikilink")（[欅坂46](https://ja.wikipedia.org/wiki/欅坂46 "wikilink")、2017年6月号 - 表紙4回）\[5\]
+  - [渡邉理佐](https://ja.wikipedia.org/wiki/渡邉理佐 "wikilink")（[欅坂46](https://ja.wikipedia.org/wiki/欅坂46 "wikilink")、2017年6月号 - 表紙5回）\[5\]
   - [貴島明日香](https://ja.wikipedia.org/wiki/貴島明日香 "wikilink")（2018年11月号 - ）\[6\]
   - [佐々木美玲](https://ja.wikipedia.org/wiki/佐々木美玲 "wikilink")（[日向坂46](https://ja.wikipedia.org/wiki/日向坂46 "wikilink")、2019年4月号 - ）
   - [堀田真由](https://ja.wikipedia.org/wiki/堀田真由 "wikilink")（2020年3月号 - ）
@@ -157,15 +157,18 @@
 
 2020年
 
-| 号            | 表紙モデル                                                                                                                                                               | 表紙登場回数              | 備考        |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | --------- |
-| 2020年1月号     | [SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")（通常） / [鈴木ゆうか](https://ja.wikipedia.org/wiki/鈴木ゆうか "wikilink")（増刊号）                                    | ー                   | ※専属モデル以外  |
-| 2020年2月号     | [嵐](../Page/嵐_\(グループ\).md "wikilink")                                                                                                                               | ー                   | ※専属モデル以外  |
-| 2020年3月号     | [馬場ふみか](https://ja.wikipedia.org/wiki/馬場ふみか "wikilink")                                                                                                             | 4                   |           |
-| 2020年4月号     | [西野七瀬](https://ja.wikipedia.org/wiki/西野七瀬 "wikilink")                                                                                                               | 10                  |           |
-| 2020年5月号     | [渡邉理佐](https://ja.wikipedia.org/wiki/渡邉理佐 "wikilink")（[欅坂46](https://ja.wikipedia.org/wiki/欅坂46 "wikilink")）                                                        | 4                   |           |
-| 2020年6月号     | [新木優子](https://ja.wikipedia.org/wiki/新木優子 "wikilink")                                                                                                               | 10                  |           |
-| 2020年7・8月合併号 | [新木優子](https://ja.wikipedia.org/wiki/新木優子 "wikilink")、[馬場ふみか](https://ja.wikipedia.org/wiki/馬場ふみか "wikilink")、[新川優愛](https://ja.wikipedia.org/wiki/新川優愛 "wikilink") | 新木(11)、馬場(5)、新川(11) | ※創刊49周年記念 |
+| 号            | 表紙モデル                                                                                                                                                                                  | 表紙登場回数              | 備考        |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | --------- |
+| 2020年1月号     | [SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")（通常） / [鈴木ゆうか](https://ja.wikipedia.org/wiki/鈴木ゆうか "wikilink")（増刊号）                                                       | ー                   | ※専属モデル以外  |
+| 2020年2月号     | [嵐](../Page/嵐_\(グループ\).md "wikilink")                                                                                                                                                  | ー                   | ※専属モデル以外  |
+| 2020年3月号     | [馬場ふみか](https://ja.wikipedia.org/wiki/馬場ふみか "wikilink")                                                                                                                                | 4                   |           |
+| 2020年4月号     | [西野七瀬](https://ja.wikipedia.org/wiki/西野七瀬 "wikilink")                                                                                                                                  | 10                  |           |
+| 2020年5月号     | [渡邉理佐](https://ja.wikipedia.org/wiki/渡邉理佐 "wikilink")（[欅坂46](https://ja.wikipedia.org/wiki/欅坂46 "wikilink")）                                                                           | 4                   |           |
+| 2020年6月号     | [新木優子](https://ja.wikipedia.org/wiki/新木優子 "wikilink")                                                                                                                                  | 10                  |           |
+| 2020年7・8月合併号 | [新木優子](https://ja.wikipedia.org/wiki/新木優子 "wikilink")、[馬場ふみか](https://ja.wikipedia.org/wiki/馬場ふみか "wikilink")、[新川優愛](https://ja.wikipedia.org/wiki/新川優愛 "wikilink")                    | 新木(11)、馬場(5)、新川(11) | ※創刊49周年記念 |
+| 2020年9月号     | [西野七瀬](https://ja.wikipedia.org/wiki/西野七瀬 "wikilink")                                                                                                                                  | 11                  |           |
+| 2020年10月号    | [King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")                                                                                                                | ー                   | ※専属モデル以外  |
+| 2020年11月号    | [渡邉理佐](https://ja.wikipedia.org/wiki/渡邉理佐 "wikilink")（[欅坂46](https://ja.wikipedia.org/wiki/欅坂46 "wikilink")）（通常版） / [Snow Man](https://ja.wikipedia.org/wiki/Snow_Man "wikilink")（増刊号） | 5                   |           |
 
 2019年
 

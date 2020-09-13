@@ -48,6 +48,7 @@
 ## ベーシストとして
 
   - [演奏](../Page/演奏.md "wikilink")の際は基本的には[ピック弾きであるが](../Page/ピック奏法.md "wikilink")、[指弾きで演奏することもある](../Page/フィンガー・ピッキング.md "wikilink")。（[MOTHER](../Page/MOTHER_\(Single_Version\).md "wikilink")/[I for You](../Page/I_for_You.md "wikilink")/Crazy About You等）
+  - 決して派手なプレイではないがシンプル且つ耳に残るゴリゴリの低音が特徴である。
   - 97年のLUNA SEA活動休止期間中に、仲野茂と藤沼伸一（共に[アナーキー](../Page/アナーキー_\(バンド\).md "wikilink")）、[DJ KRUSH](../Page/DJ_KRUSH.md "wikilink")、[澤田純](../Page/澤田純.md "wikilink")とバンド、**[GaZa](https://ja.wikipedia.org/wiki/GaZa "wikilink")**を結成。一度限りのライブを行う。
   - [X JAPANの](../Page/X_JAPAN.md "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")・[hide](https://ja.wikipedia.org/wiki/hide "wikilink")が欧米で出会ったミュージシャンと組んだバンド、**[zilch](https://ja.wikipedia.org/wiki/hide#zilch "wikilink")**にも参加している。
   - X JAPANのhide、LUNA SEAのINORANと組んだユニット、**MxAxSxS**で[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")「[DANCE 2 NOISE 004](https://ja.wikipedia.org/wiki/DANCE_2_NOISE_004 "wikilink")」に参加している。
@@ -201,6 +202,14 @@ AVCD-31273:通常盤</p></td>
 <td><p><strong>Now And Forever</strong></p></td>
 <td><p>CTC1-40397</p></td>
 <td><p>ライブ会場限定販売</p></td>
+<td><p><strong>Limitless</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>14th</p></td>
+<td><p>2020年8月12日</p></td>
+<td><p>MY HEAVEN/A Thousand Dreams</p></td>
+<td><p>CTC1-40407</p></td>
+<td><p>初回生産限定シングル</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -325,6 +334,16 @@ CTCD-20036:CD</p></td>
 <td><p>オリコン最高15位</p></td>
 </tr>
 <tr class="odd">
+<td><p>11th</p></td>
+<td><p>2019年7月24日</p></td>
+<td><p>Limitless</p></td>
+<td><p>CTCR-14967/B:CD+DVD CTCR-14968/B:CD+BD</p>
+<p>CTCR-14965/B:CD+DVD初回生産限定盤</p>
+<p>CTCR-14966/B:CD+BD初回生産限定盤</p>
+<p>CTCR-14969:CD</p></td>
+<td><p>オリコン最高33位</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1056,17 +1075,73 @@ CTXD-20081:Blu-ray</p></td>
 
 ### 参加作品
 
-| 発売日         | タイトル                                                                                                             | 規格品番       | 収録曲                                                              |
-| ----------- | ---------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------- |
-| 2005年12月21日 | **[PARADE〜RESPECTIVE TRACKS OF BUCK-TICK〜](../Page/PARADE〜RESPECTIVE_TRACKS_OF_BUCK-TICK〜.md "wikilink")**       | BVCR-11080 | 2.ICONOCLASM                                                     |
-| 2007年01月24日 | **ロックNIPPON [東海林のり子](../Page/東海林のり子.md "wikilink") Selection**                                                   | UICZ-8019  | 14.BURN OUT                                                      |
-| 2008年02月27日 | **THE BRAINCASE**                                                                                                | TKCA-73307 | 5曲参加                                                             |
-| 2013年12月18日 | **[hide](https://ja.wikipedia.org/wiki/hide "wikilink") TRIBUTE VII -Rock SPIRITS-**                             | TKCA-74018 | 3.FLAME                                                          |
-| 2010年10月30日 | **[Jack Rocks 2010](../Page/ジャックダニエル.md "wikilink")**                                                            | 非売品        | 1.Miss Dizzy                                                     |
-| 2009年04月08日 | **[AGGRESSIVE DOGS](https://ja.wikipedia.org/wiki/AGGRESSIVE_DOGS_a.k.a_UZI-ONE "wikilink") TRIBUTE ALBUM ～真我～** | DFCL-1560  | 2.蒼き餓狼-Aoki Garou-                                               |
-| 2015年12月09日 | **G ([minus(-)](https://ja.wikipedia.org/wiki/minus\(-\) "wikilink"))**                                          | AVCD-93168 | 2.Peepshow                                                       |
-| 2017年05月31日 | **SINNERS - EP**                                                                                                 | KICS-3497  | 2.TRIGGER feat. [J](../Page/J_\(ミュージシャン\).md "wikilink")         |
-| 未定          | **REAL×EYEZ**                                                                                                    | 未定         | REAL×EYEZ （J×[Takanori Nishikawa名義](../Page/西川貴教.md "wikilink")） |
+<table>
+<thead>
+<tr class="header">
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>規格品番</p></th>
+<th><p>収録曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2005年12月21日</p></td>
+<td><p><strong><a href="../Page/PARADE〜RESPECTIVE_TRACKS_OF_BUCK-TICK〜.md" title="wikilink">PARADE〜RESPECTIVE TRACKS OF BUCK-TICK〜</a></strong></p></td>
+<td><p>BVCR-11080</p></td>
+<td><p>2.ICONOCLASM</p></td>
+</tr>
+<tr class="even">
+<td><p>2007年01月24日</p></td>
+<td><p><strong>ロックNIPPON <a href="../Page/東海林のり子.md" title="wikilink">東海林のり子</a> Selection</strong></p></td>
+<td><p>UICZ-8019</p></td>
+<td><p>14.BURN OUT</p></td>
+</tr>
+<tr class="odd">
+<td><p>2008年02月27日</p></td>
+<td><p><strong>THE BRAINCASE</strong></p></td>
+<td><p>TKCA-73307</p></td>
+<td><p>5曲参加</p></td>
+</tr>
+<tr class="even">
+<td><p>2013年12月18日</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/hide" title="wikilink">hide</a> TRIBUTE VII -Rock SPIRITS-</strong></p></td>
+<td><p>TKCA-74018</p></td>
+<td><p>3.FLAME</p></td>
+</tr>
+<tr class="odd">
+<td><p>2010年10月30日</p></td>
+<td><p><strong><a href="../Page/ジャックダニエル.md" title="wikilink">Jack Rocks 2010</a></strong></p></td>
+<td><p>非売品</p></td>
+<td><p>1.Miss Dizzy</p></td>
+</tr>
+<tr class="even">
+<td><p>2009年04月08日</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/AGGRESSIVE_DOGS_a.k.a_UZI-ONE" title="wikilink">AGGRESSIVE DOGS</a> TRIBUTE ALBUM ～真我～</strong></p></td>
+<td><p>DFCL-1560</p></td>
+<td><p>2.蒼き餓狼-Aoki Garou-</p></td>
+</tr>
+<tr class="odd">
+<td><p>2015年12月09日</p></td>
+<td><p><strong>G (<a href="https://ja.wikipedia.org/wiki/minus(-)" title="wikilink">minus(-)</a>)</strong></p></td>
+<td><p>AVCD-93168</p></td>
+<td><p>2.Peepshow</p></td>
+</tr>
+<tr class="even">
+<td><p>2017年05月31日</p></td>
+<td><p><strong>SINNERS - EP</strong></p></td>
+<td><p>KICS-3497</p></td>
+<td><p>2.TRIGGER feat. <a href="../Page/J_(ミュージシャン).md" title="wikilink">J</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2020年1月22日</p></td>
+<td><p><strong><a href="../Page/REAL×EYEZ.md" title="wikilink">REAL×EYEZ</a></strong></p></td>
+<td><p>AVCD-94689:CD AVCD-94688B:CD+DVD</p>
+<p>AVZD-94687:CD+DXライジングホッパープログライズキー（数量限定生産）</p></td>
+<td><p>REAL×EYEZ （J×<a href="../Page/西川貴教.md" title="wikilink">Takanori Nishikawa名義</a>）</p></td>
+</tr>
+</tbody>
+</table>
 
 ### 書籍
 

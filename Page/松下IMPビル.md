@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に竣工。[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")の関連会社であった[MID都市開発](../Page/MID都市開発.md "wikilink")（旧[松下興産](../Page/松下興産.md "wikilink")、現在の[関電不動産開発](https://ja.wikipedia.org/wiki/関電不動産開発 "wikilink")）運営で、正式名称は「松下IMPビル」。高さ125.0m、地上26階、地下2階建て。商業施設は[TWIN21](../Page/TWIN21.md "wikilink")と一体的な運営を行っている。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に竣工。[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")の関連会社であった[MID都市開発](../Page/MID都市開発.md "wikilink")（旧[松下興産](../Page/松下興産.md "wikilink")、現在の[関電不動産開発](../Page/関電不動産開発.md "wikilink")）運営で、正式名称は「松下IMPビル」。高さ125.0m、地上26階、地下2階建て。商業施設は[TWIN21](../Page/TWIN21.md "wikilink")と一体的な運営を行っている。
 
 ビル固有の郵便番号は540-63xx（xxは階層。地下もしくは階層不明の場合は90）。
 

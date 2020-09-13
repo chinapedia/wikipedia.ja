@@ -60,7 +60,6 @@
   - [佐藤典生](https://ja.wikipedia.org/wiki/佐藤典生 "wikilink") - 浦和担当トラックマン。
   - [高橋孝太郎](https://ja.wikipedia.org/wiki/高橋孝太郎 "wikilink") - 大井担当トラックマン。『東京シティ競馬中継』解説者を歴任。
   - [藤田裕之](https://ja.wikipedia.org/wiki/藤田裕之 "wikilink") - 大井（小林分場）担当トラックマン。『東京シティ競馬中継』解説など歴任。
-  - [八重樫英貴](https://ja.wikipedia.org/wiki/八重樫英貴 "wikilink") - 編集担当。南関東地方競馬中継（浦和）解説を歴任。
   - [若林幹治](https://ja.wikipedia.org/wiki/若林幹治 "wikilink") - 川崎担当トラックマン。南関東地方競馬中継（川崎）解説者。
 
 ### 過去

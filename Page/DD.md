@@ -40,7 +40,7 @@
   - DD - [WS002IN](../Page/WS002IN.md "wikilink")の愛称 (Data Driver)、USB形データ通信端末。
   - DD - [デュボア・デプラ](https://ja.wikipedia.org/wiki/デュボア・デプラ "wikilink")の略称。
   - D.D. - ミクスチャーバンド[ROVMIC](../Page/ROVMIC.md "wikilink")のドラマー
-  - 「[D.D.](https://ja.wikipedia.org/wiki/Imitation_Rain/D.D. "wikilink")」 - 男性アイドルグループ[Snow Man⸜❤︎⸝‍の楽曲](https://ja.wikipedia.org/wiki/Snow_Man⸜❤︎⸝‍ "wikilink")。
+  - 「[D.D.](https://ja.wikipedia.org/wiki/Imitation_Rain/D.D. "wikilink")」 - 男性アイドルグループ[Snow Manの楽曲](https://ja.wikipedia.org/wiki/Snow_Man "wikilink")。
   - [D・D](https://ja.wikipedia.org/wiki/フィギュア17_つばさ&ヒカル#登場人物 "wikilink") - 『フィギュア17 つばさ&ヒカル』の登場人物。
   - [DD (声優ユニット)](https://ja.wikipedia.org/wiki/DD_\(声優ユニット\) "wikilink") - 声優[岸尾大輔](../Page/岸尾だいすけ.md "wikilink")・[浪川大輔](../Page/浪川大輔.md "wikilink")から成る[ユニット](../Page/音楽ユニット.md "wikilink")。
   - [ドキュメントDD](https://ja.wikipedia.org/wiki/ドキュメントDD "wikilink") - [TBSで放送された](../Page/TBSテレビ.md "wikilink")[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組枠。正式名称は『**ドキュメントDash・Dash**』（ドキュメントダッシュ・ダッシュ）。

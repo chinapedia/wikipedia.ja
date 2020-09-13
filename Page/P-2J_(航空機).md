@@ -58,6 +58,8 @@
 
 [1994年](../Page/1994年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")、P-2Jの最終号機4783号機がP-3C 2機を随伴し、最後の編隊飛行を行った。総飛行時間は61万7,861時間であったが、この間、1機の機体も、1人の人命も失うことなく全機が使命を全うしており、世界に類のない快挙と評された。
 
+状態の良いエンジンは航空自衛隊の[YS-11](../Page/YS-11.md "wikilink")に搭載するため10Jに改修された。
+
 ### 派生型
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:UP-2J.jpg "wikilink")
@@ -163,7 +165,7 @@
 
 ## 外部リンク
 
-  - [海上自衛隊鹿屋航空基地史料館サイト](http://www.mod.go.jp/msdf/kanoya/sryou/msdf-ks/) - [屋外展示航空機のページ](http://www.mod.go.jp/msdf/kanoya/sryou/msdf-ks/planes_htmls/index1.html)
+  - [海上自衛隊鹿屋航空基地史料館サイト](https://www.mod.go.jp/msdf/kanoya/toukatu/HPzairyou/1-8siryoukann/1-8siryoukann.html) - [屋外展示航空機のページ](http://www.mod.go.jp/msdf/kanoya/sryou/msdf-ks/planes_htmls/index1.html)
   - [【空宙博】岐阜かかみがはら航空宇宙博物館公式ウェブサイト](http://www.sorahaku.net/)
 
 [Category:対潜哨戒機](https://ja.wikipedia.org/wiki/Category:対潜哨戒機 "wikilink") [Category:海上自衛隊の装備品](https://ja.wikipedia.org/wiki/Category:海上自衛隊の装備品 "wikilink") [Category:川崎重工業製の航空機](https://ja.wikipedia.org/wiki/Category:川崎重工業製の航空機 "wikilink") [Category:ロッキードの航空機](https://ja.wikipedia.org/wiki/Category:ロッキードの航空機 "wikilink") [Category:日本の軍用機](https://ja.wikipedia.org/wiki/Category:日本の軍用機 "wikilink")

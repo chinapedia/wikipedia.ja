@@ -1,18 +1,18 @@
 > この記事は[“SINGLES”](https://ja.wikipedia.org/wiki/“SINGLES”)から翻訳されています。
 
 
-『**“SINGLES”**』（シングルズ）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")[BOØWYのシングル曲集](../Page/BOOWY.md "wikilink")。初の[ベストアルバムとしてリリースされた](../Page/ベスト・アルバム.md "wikilink")。
+『**“SINGLES”**』（シングルズ）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")[BOØWY](../Page/BOØWY.md "wikilink")のシングル曲集。初の[ベストアルバムとしてリリースされた](../Page/ベスト・アルバム.md "wikilink")。
 
 ## リリース
 
   - [1988年](../Page/1988年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")に[東芝EMIのイーストワールドレーベルより](../Page/EMIミュージック・ジャパン.md "wikilink")、[LP](../Page/レコード.md "wikilink")、[CD](../Page/コンパクトディスク.md "wikilink")、[CTの](../Page/カセットテープ.md "wikilink")3形態でリリースされた。
-  - ベストアルバム第2弾となる『[THIS BOØWY](../Page/THIS_BOOWY.md "wikilink")』（1998年）が発売された際に一度廃盤になったが、2007年12月24日に期間限定で紙ジャケット仕様にて再発、その後もブルースペックCD2での発売も行われた。
+  - ベストアルバム第2弾となる『[THIS BOØWY](https://ja.wikipedia.org/wiki/THIS_BOØWY "wikilink")』（1998年）が発売された際に一度廃盤になったが、2007年12月24日に期間限定で紙ジャケット仕様にて再発、その後もブルースペックCD2での発売も行われた。
 
 ## 構成
 
   - 東芝EMI時代に発表された全シングル曲と、一部カップリング曲を収録している。
-  - 未収録になったB面曲は「Our Language」（2ndシングル「[BAD FEELING](../Page/BAD_FEELING.md "wikilink")」B面）と、「BEGINNING FROM ENDLESS」、「[〜GIVE IT TO ME](../Page/MORAL.md "wikilink") (LIVE VERSION)」（3rdシングル「[わがままジュリエット](../Page/わがままジュリエット.md "wikilink")」B面）と、「[B・BLUE](../Page/B・BLUE.md "wikilink") (Live Version)」、「[BABY ACTION](../Page/BOOWY_\(アルバム\).md "wikilink") (Live Version)」（5thシングル「[ONLY YOU](../Page/ONLY_YOU_\(BOOWYの曲\).md "wikilink")」B面）と、カバー曲「The Wild One」（6thシングル「[Marionette -マリオネット-](../Page/Marionette_\(BOOWYの曲\).md "wikilink")」B面）の計6曲。
-  - 「["16"](../Page/ホンキー・トンキー・クレイジー.md "wikilink")」「[季節が君だけを変える (Single Version)](../Page/季節が君だけを変える.md "wikilink")」「[CLOUDY HEART](https://ja.wikipedia.org/wiki/CLOUDY_HEART "wikilink") (Single Version)」はこのアルバムで初CD化された。なお、「[BAD FEELING (12inch Single Version)](../Page/BAD_FEELING.md "wikilink")」はオムニバスアルバム『ロング・バージョン・スペシャル』（1985年）で、「[NO.NEW YORK](https://ja.wikipedia.org/wiki/NO.NEW_YORK "wikilink")」はCD VIDEO「Marionette」（1987年）で既にCD化されていた。実際に全ての曲がCD化されたのは翌年の全シングルCD化の際となった。
+  - 未収録になったB面曲は「Our Language」（2ndシングル「[BAD FEELING](../Page/BAD_FEELING.md "wikilink")」B面）と、「BEGINNING FROM ENDLESS」、「[〜GIVE IT TO ME](../Page/MORAL.md "wikilink") (LIVE VERSION)」（3rdシングル「[わがままジュリエット](../Page/わがままジュリエット.md "wikilink")」B面）と、「[B・BLUE](../Page/B・BLUE.md "wikilink") (Live Version)」、「[BABY ACTION](../Page/BOØWY_\(アルバム\).md "wikilink") (Live Version)」（5thシングル「[ONLY YOU](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOØWYの曲\) "wikilink")」B面）と、カバー曲「The Wild One」（6thシングル「[Marionette -マリオネット-](../Page/Marionette_\(BOØWYの曲\).md "wikilink")」B面）の計6曲。
+  - 「["16"](../Page/ホンキー・トンキー・クレイジー.md "wikilink")」「[季節が君だけを変える (Single Version)](../Page/季節が君だけを変える.md "wikilink")」「[CLOUDY HEART](https://ja.wikipedia.org/wiki/CLOUDY_HEART "wikilink") (Single Version)」はこのアルバムで初CD化された。なお、「[BAD FEELING (12inch Single Version)](../Page/BAD_FEELING.md "wikilink")」はオムニバスアルバム『ロング・バージョン・スペシャル』（1985年）で、「[NO. NEW YORK](https://ja.wikipedia.org/wiki/NO._NEW_YORK "wikilink")」はCD VIDEO「Marionette」（1987年）で既にCD化されていた。実際に全ての曲がCD化されたのは翌年の全シングルCD化の際となった。
 
 ## リリース履歴
 
@@ -51,7 +51,7 @@ ZT28-5370</p></td>
 <td><p>TOCT-6398</p></td>
 <td><p>2位</p></td>
 <td><p>「Marionette」がアルバムバージョンで収録されている<br />
-<a href="https://ja.wikipedia.org/wiki/CD-BOX" title="wikilink">CD-BOX</a>『<a href="../Page/BOOWY_COMPLETE.md" title="wikilink">BOØWY COMPLETE</a> LIMITED EDITION』収録</p></td>
+<a href="https://ja.wikipedia.org/wiki/CD-BOX" title="wikilink">CD-BOX</a>『<a href="../Page/BOØWY_COMPLETE.md" title="wikilink">BOØWY COMPLETE</a> LIMITED EDITION』収録</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
@@ -125,7 +125,7 @@ CD-BOX『BOØWY COMPLETE 21st CENTURY 20th ANNIVERSARY EDITION』収録<br />
     <!-- end list -->
       -
         2ndシングル
-4.  **[NO.NEW YORK](https://ja.wikipedia.org/wiki/NO.NEW_YORK "wikilink")** (4:15)
+4.  **[NO. NEW YORK](https://ja.wikipedia.org/wiki/NO._NEW_YORK "wikilink")** (4:15)
       - 作詞：深沢和明 / 作曲・編曲：布袋寅泰
     <!-- end list -->
       -
@@ -148,16 +148,16 @@ CD-BOX『BOØWY COMPLETE 21st CENTURY 20th ANNIVERSARY EDITION』収録<br />
     <!-- end list -->
       -
         4thシングル「B・BLUE」のB面。
-3.  **[ONLY YOU](../Page/ONLY_YOU_\(BOOWYの曲\).md "wikilink")** (4:10)
+3.  **[ONLY YOU](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOØWYの曲\) "wikilink")** (4:10)
       - 作詞：氷室京介 / 作曲・編曲：布袋寅泰
     <!-- end list -->
       -
         5thシングル
-4.  **[Marionette](../Page/Marionette_\(BOOWYの曲\).md "wikilink")** (3:50)
+4.  **[Marionette](../Page/Marionette_\(BOØWYの曲\).md "wikilink")** (3:50)
       - 作詞：氷室京介 / 作曲・編曲：布袋寅泰
     <!-- end list -->
       -
-        6thシングル。発売当初はアルバムバージョンでの収録だったが、CD-BOX『[BOØWY COMPLETE](../Page/BOOWY_COMPLETE.md "wikilink") 21st CENTURY 20th ANNIVERSARY EDITION』（[2002年](../Page/2002年.md "wikilink")）に収録されている同アルバム以降はシングルバージョンに差し替えられている。
+        6thシングル。発売当初はアルバムバージョンでの収録だったが、CD-BOX『[BOØWY COMPLETE](../Page/BOØWY_COMPLETE.md "wikilink") 21st CENTURY 20th ANNIVERSARY EDITION』（[2002年](../Page/2002年.md "wikilink")）に収録されている同アルバム以降はシングルバージョンに差し替えられている。
 5.  **[季節が君だけを変える (Single Version)](../Page/季節が君だけを変える.md "wikilink")** (4:07)
       - 作詞：氷室京介 / 作曲・編曲：布袋寅泰
     <!-- end list -->

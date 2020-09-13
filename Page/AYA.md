@@ -20,7 +20,6 @@
   - [佐久間彩](https://ja.wikipedia.org/wiki/佐久間彩 "wikilink") (Aya) - 作曲家。「beatmania IIDX」「TVDJ」などにも楽曲を提供。
   - [佐宗綾子](../Page/佐宗綾子.md "wikilink") (AYA、Sampling Masters AYA) - 作曲家。主にゲーム音楽で活躍。現[スーパースィープ](https://ja.wikipedia.org/wiki/スーパースィープ "wikilink")所属。
   - [野沢あや](https://ja.wikipedia.org/wiki/野沢あや "wikilink") (aya) - 歌手。野澤恵の名義でも活動。
-  - [宮原彩](https://ja.wikipedia.org/wiki/宮原彩 "wikilink") (AYA) - シンガーソングライター。
   - [山崎亜弥子](../Page/山崎亜弥子.md "wikilink") (AYA) - 女性アイドル、アーティスト。音楽ユニット[Moonlight Attractionの元メンバー](https://ja.wikipedia.org/wiki/Moonlight_Attraction "wikilink")。
   - [吉村綾花](https://ja.wikipedia.org/wiki/吉村綾花 "wikilink") (AYA) - シンガーソングライター。音楽ユニット[SweetS](https://ja.wikipedia.org/wiki/SweetS "wikilink")の元メンバー。
 
@@ -30,7 +29,6 @@
 
 <!-- end list -->
 
-  - [AYA (AV女優)](../Page/AYA_\(AV女優\).md "wikilink") - 2004年デビューのAV女優。
   - [福永あや](../Page/福永あや.md "wikilink") (AYA) - 2006年デビューのAV女優。
   - [牧野田彩](https://ja.wikipedia.org/wiki/牧野田彩 "wikilink") (AYA) - 2009年デビューのAV女優。音楽ユニット[L☆IS](../Page/L☆IS.md "wikilink")のメンバー。タレント。
 
@@ -45,6 +43,7 @@
   - [AYA (漫画家)](https://ja.wikipedia.org/wiki/AYA_\(漫画家\) "wikilink") - 漫画家。
   - [AYA (漫画)](https://ja.wikipedia.org/wiki/AYA_\(漫画\) "wikilink") - [克・亜樹](../Page/克・亜樹.md "wikilink")の漫画作品。
   - [AYA世代](https://ja.wikipedia.org/wiki/AYA世代 "wikilink")（Adolescents and Young Adults）- [思春期](../Page/思春期.md "wikilink")および[若年成人の世代を指す言葉](../Page/ヤングアダルト.md "wikilink")。主に欧米、医学分野で使われている\[1\]。
+  - [AYA a.k.a. PANDA](https://ja.wikipedia.org/wiki/AYA_a.k.a._PANDA "wikilink") - ラッパー。
 
 ## 出典
 

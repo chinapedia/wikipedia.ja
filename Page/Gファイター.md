@@ -271,7 +271,7 @@ Gアーマーの改良発展型。元のGアーマーがコアブロックシス
   - [ガンキャリー](https://ja.wikipedia.org/wiki/FSWS計画#ガンキャリー "wikilink")
   - FF-X29A [Gパーツ［フルドド］](https://ja.wikipedia.org/wiki/ジム・クゥエル#フルドド "wikilink")
   - FXA-05D [Gディフェンサー](../Page/Gディフェンサー.md "wikilink")
-  - MSZ-010 [ΖΖガンダム](https://ja.wikipedia.org/wiki/ΖΖガンダム "wikilink")
+  - MSZ-010 [ΖΖガンダム](../Page/ΖΖガンダム.md "wikilink")
   - G-P.A.R.T.S DELTA [Gボンバー](https://ja.wikipedia.org/wiki/ガンダムビルドファイターズトライ#「Gマスター」の使用ガンプラ "wikilink")
 
 [Category:地球連邦軍_(宇宙世紀)_の艦船及びその他の兵器](https://ja.wikipedia.org/wiki/Category:地球連邦軍_\(宇宙世紀\)_の艦船及びその他の兵器 "wikilink")

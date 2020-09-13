@@ -180,7 +180,7 @@ SV-MV100（[2011年](../Page/2011年.md "wikilink")[4月8日](../Page/4月8日.m
 
 ## CM
 
-末期を除き、[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")が[CMキャラクターになっていた](../Page/コマーシャルメッセージ.md "wikilink")。
+を除き、[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")が[CMキャラクターになっていた](../Page/コマーシャルメッセージ.md "wikilink")。
 
 ## 備考
 

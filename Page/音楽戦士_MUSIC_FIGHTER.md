@@ -228,7 +228,7 @@
 </tbody>
 </table>
 
-基本的にはNNN/NNS加盟局で放送されるが、NNN/NNS加盟局でも[テレビ岩手](../Page/テレビ岩手.md "wikilink")(TVI)・[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")(JRT)・[テレビ大分](../Page/テレビ大分.md "wikilink")（TOS、[フジテレビ系列との](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[クロスネット局](../Page/クロスネット局.md "wikilink")）・[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")（UMK、フジテレビ・テレビ朝日系列とのクロスネット局。NNNのみ加盟）では放送されていない。放送地域外として、[岩手県](../Page/岩手県.md "wikilink")では一部地域でMMT・RAB・ABSが、[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")ではほとんどの地域でytvが、一部地域でRNC・RNB・RKCが、[宮崎県](../Page/宮崎県.md "wikilink")ではFBS・RNB・KKT・KYTが、沖縄県では一部でKYTがそれぞれ受信可能。
+基本的にはNNN/NNS加盟局で放送されるが、NNN/NNS加盟局でも[テレビ岩手](../Page/テレビ岩手.md "wikilink")(TVI)・[四国放送](../Page/四国放送.md "wikilink")(JRT)・[テレビ大分](../Page/テレビ大分.md "wikilink")（TOS、[フジテレビ系列との](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[クロスネット局](../Page/クロスネット局.md "wikilink")）・[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")（UMK、フジテレビ・テレビ朝日系列とのクロスネット局。NNNのみ加盟）では放送されていない。放送地域外として、[岩手県](../Page/岩手県.md "wikilink")では一部地域でMMT・RAB・ABSが、[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")ではほとんどの地域でytvが、一部地域でRNC・RNB・RKCが、[宮崎県](../Page/宮崎県.md "wikilink")ではFBS・RNB・KKT・KYTが、沖縄県では一部でKYTがそれぞれ受信可能。
 
 ### 備考
 
@@ -436,7 +436,7 @@
 <td><p>2006年<br />
 7月度</p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/Deep_in_your_heart/+MILLION_but_-LOVE" title="wikilink">+MILLION but -LOVE</a>」 <a href="../Page/堂本光一.md" title="wikilink">堂本光一</a></p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/コミュニケイション" title="wikilink">コミュニケイション</a>」 <a href="../Page/高橋瞳.md" title="wikilink">高橋瞳</a></p></td>
+<td><p>「<a href="../Page/コミュニケイション_(高橋瞳の曲).md" title="wikilink">コミュニケイション</a>」 <a href="../Page/高橋瞳.md" title="wikilink">高橋瞳</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2006年<br />
@@ -725,7 +725,7 @@ Miss Monday</p></td>
 
 ## 外部リンク
 
-  - [公式サイト](http://www.ntv.co.jp/mfighter/)(閉鎖済)
+  - (閉鎖済)
 
 [Category:音楽戦士_MUSIC_FIGHTER](https://ja.wikipedia.org/wiki/Category:音楽戦士_MUSIC_FIGHTER "wikilink") [Category:2004年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のテレビ番組_\(日本\) "wikilink") [Category:日本テレビの音楽番組](https://ja.wikipedia.org/wiki/Category:日本テレビの音楽番組 "wikilink") [Category:日本テレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビの深夜番組の歴史 "wikilink") [Category:日本テレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビのバラエティ番組の歴史 "wikilink")
 

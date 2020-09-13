@@ -177,4 +177,4 @@
 
   -
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:ライジングプロダクション](https://ja.wikipedia.org/wiki/Category:ライジングプロダクション "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink")
+[Category:日本のポップ・アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・アイドルグループ "wikilink") [Category:日本の男性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の男性アイドルグループ "wikilink") [Category:ライジングプロダクション](https://ja.wikipedia.org/wiki/Category:ライジングプロダクション "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink")

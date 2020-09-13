@@ -202,9 +202,9 @@ JCBカード（UFJ JCBカード）や一部提携カード\[25\] は[QUICPay](..
 
 なお、過去にはニコスギフトカードなどで10,000円券が発行されていた。
 
-過去にダイヤモンドクレジット・DC・日本信販・NICOS・ミリオン・UFJ・UFJNICOSの各会社およびブランド名で発行されていたギフトカード（以下本節内において旧券と記述）も、2016年現在の三菱UFJニコスギフトカード取扱加盟店であれば、DC・UFJ・ギフトカード取扱店規約（以下本節内において取扱店規約と記述）第2条により2016年現在発行されている三菱UFJニコスギフトカードと同様に利用できる\[29\]\[30\]\[31\]。
+過去にダイヤモンドクレジット・DC・日本信販・NICOS・ミリオン・UFJ・UFJNICOSの各会社およびブランド名で発行されていたギフトカード（以下本節内において旧券と記述）も、2020年現在の三菱UFJニコスギフトカード取扱加盟店であれば、DC・UFJ・ギフトカード取扱店規約（以下本節内において取扱店規約と記述）第2条により2020年現在発行されている三菱UFJニコスギフトカードと同様に利用できる\[29\]\[30\]\[31\]。
 
-ただし、旧ニコスギフトカードの旧デザイン券のうち、1995年10月～1998年8月に発行された額面金額が5,000円のものと10,000円のものについては2016年現在加盟店での利用は不可となっており、三菱UFJニコスが2016年現在発行している三菱UFJニコスギフトカードとの交換を行っている（同時期発行されていた額面金額が1,000円の旧券については2016年現在も利用が可能である\[32\]）。
+ただし、旧ニコスギフトカードの旧デザイン券のうち、1995年10月～1998年8月に発行された額面金額が5,000円のものと10,000円のものについては2016年時点で加盟店での利用は不可となっており、三菱UFJニコスが発行している三菱UFJニコスギフトカードとの交換を行っている（同時期発行されていた額面金額が1,000円の旧券については2020年現在も利用が可能である\[32\]）。
 
 また、ダイヤモンドクレジットギフトカードやミリオンギフトカードなどは加盟店側が使用可否のみならずその存在自体を知らず、使用を断られることがある。本来上記の旧券の使用を正当な理由（ミシン目で切り取られている、著しく汚損しており有効性の判断が不可など）が無いにもかかわらず店側の周知不足を理由に使用を拒否することは取扱店規約第7条に違反する行為であり、その場合三菱UFJニコスは取扱店規約第12条に基づき加盟店との契約を解除することが可能である\[33\]\[34\]\[35\]。
 
@@ -330,6 +330,7 @@ JCBカード（UFJ JCBカード）や一部提携カード\[25\] は[QUICPay](..
   - [ズームイン\!\!サタデー](../Page/ズームイン!!サタデー.md "wikilink")（日本テレビ系）
   - [はねるのトびら](../Page/はねるのトびら.md "wikilink")（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、2006年3月を以て降板）
   - [高校生クイズ](https://ja.wikipedia.org/wiki/高校生クイズ "wikilink")（第17回）（日本テレビ系）
+  - [ザ\!鉄腕\!DASH\!\!](../Page/ザ!鉄腕!DASH!!.md "wikilink")
 
 ## 関連項目
 
@@ -372,7 +373,7 @@ JCBカード（UFJ JCBカード）や一部提携カード\[25\] は[QUICPay](..
   -
 [Category:文京区の企業](https://ja.wikipedia.org/wiki/Category:文京区の企業 "wikilink") [Category:三菱UFJフィナンシャル・グループ](https://ja.wikipedia.org/wiki/Category:三菱UFJフィナンシャル・グループ "wikilink") [Category:三菱グループ](https://ja.wikipedia.org/wiki/Category:三菱グループ "wikilink") [Category:三和グループ](https://ja.wikipedia.org/wiki/Category:三和グループ "wikilink") [Category:みどり会](https://ja.wikipedia.org/wiki/Category:みどり会 "wikilink") [Category:日本のクレジットカード事業者](https://ja.wikipedia.org/wiki/Category:日本のクレジットカード事業者 "wikilink") [Category:MUFGカード](https://ja.wikipedia.org/wiki/Category:MUFGカード "wikilink") [Category:DCカード](https://ja.wikipedia.org/wiki/Category:DCカード "wikilink") [Category:UFJカード](https://ja.wikipedia.org/wiki/Category:UFJカード "wikilink") [Category:NICOSカード](https://ja.wikipedia.org/wiki/Category:NICOSカード "wikilink") [Category:JCB](https://ja.wikipedia.org/wiki/Category:JCB "wikilink") [Category:1951年設立の企業](https://ja.wikipedia.org/wiki/Category:1951年設立の企業 "wikilink")
 
-1.  [三菱広報委員会 - 会員会社紹介](http://www.mitsubishi.com/mpac/j/companies/)
+1.  [三菱広報委員会 - 会員会社紹介](https://www.mitsubishi.com/ja/profile/csr/mpac/companies/)
 2.  [メンバー会社一覧 - みどり会](http://www.midorikai.co.jp/member.html)
 3.
 4.
@@ -386,13 +387,13 @@ JCBカード（UFJ JCBカード）や一部提携カード\[25\] は[QUICPay](..
 12. 旧[北都クレジット](../Page/北都クレジット.md "wikilink")を吸収した直後の時期に、旧[北都カードサービス](../Page/北都カードサービス.md "wikilink")が[MUFGカード](../Page/MUFGカード.md "wikilink")の取り扱いを開始したが、[2016年](../Page/2016年.md "wikilink")現在は一時中止している。また[2012年](../Page/2012年.md "wikilink")4月に[荘銀カード](../Page/荘銀カード.md "wikilink")に吸収合併されたため、荘銀カードから改称した当社が継承。
 13. 北都カードサービスが提供していたMUFGカードとしては募集停止中。これとは別に募集されていた旧UFJカードは、利用停止され、DCブランドか[北都銀行](../Page/北都銀行.md "wikilink")本体発行のカード（[VJA](../Page/VJA.md "wikilink")への銀行本体加盟による、「BrightOne」）の何れかに切り替え。
 14. プラチナカードを法人向けに発行。
-15. プラチナカードを法人向けに発行。
-16. プラチナカードを法人向けに発行。
-17. プラチナカードを法人向けに発行。
+15.
+16.
+17.
 18. 同社に合併された旧和歌山銀カードが発行したが、合併後は募集を停止しDCカードへの切り替えを進めている。
 19. 法人向けと個人向けの内[ひろしま美術館](../Page/ひろしま美術館.md "wikilink")フリーパス・マロニエカード（Mastercard）は引き続き募集している。
 20. 2016年現在は九州カードが西京銀行提携カードを発行している。
-21. プラチナカードを法人向けに発行。
+21.
 22. 旧・[しんわディーシーカード](../Page/しんわディーシーカード.md "wikilink")、旧・[ファミリーカード](https://ja.wikipedia.org/wiki/ファミリーカード "wikilink")を継承。
 23.
 24. 同じく[山口フィナンシャルグループ](../Page/山口フィナンシャルグループ.md "wikilink")に属する[もみじ銀行](../Page/もみじ銀行.md "wikilink")の同名カードはJCBのみ。
@@ -409,5 +410,5 @@ JCBカード（UFJ JCBカード）や一部提携カード\[25\] は[QUICPay](..
 35.
 36.
 37. UFJ-JCBカードは除く、それに相当するサービスとして「Oki Doki ランド」を利用する形となる。
-38. [三菱UFJニコス、業界最大級の“ネット通販のポータルサイト”開設！　カード会員向けに「POINT名人.com」オープン](http://www.cr.mufg.jp/news/2009/090416_01.html)
+38.
 39. UFJ-JCBカードについては「My JCB」を利用する形となる。

@@ -524,49 +524,54 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/小原和樹" title="wikilink">小原和樹</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/長野亮" title="wikilink">長野亮</a></p></td>
 <td><p><a href="../Page/NHK旭川放送局.md" title="wikilink">旭川</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/山北愛琳" title="wikilink">山北愛琳</a></p></td>
 <td></td>
 <td><p>こうちいちばん</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/松村朋美" title="wikilink">松村朋美</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/揚田葵衣" title="wikilink">揚田葵衣</a></p></td>
 <td></td>
 <td><p>こうちいちばん<br />
 ひるどき高知</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/露口奈々" title="wikilink">露口奈々</a></p></td>
 <td></td>
 <td><p>こうちいちばん<br />
 ひるどき高知<br />
 とさらじお</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/澤井明子" title="wikilink">澤井明子</a></p></td>
 <td></td>
 <td><p>こうちいちばん</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -594,7 +599,7 @@
   - [NHK高知放送局](https://www.nhk.or.jp/kochi/)
 
   -
-[Category:NHK高知](https://ja.wikipedia.org/wiki/Category:NHK高知 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:四国地方のテレビ局](https://ja.wikipedia.org/wiki/Category:四国地方のテレビ局 "wikilink") [Category:四国地方のラジオ局](https://ja.wikipedia.org/wiki/Category:四国地方のラジオ局 "wikilink")
+[Category:NHK高知](https://ja.wikipedia.org/wiki/Category:NHK高知 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:高知県のマスメディア](https://ja.wikipedia.org/wiki/Category:高知県のマスメディア "wikilink") [Category:四国地方のテレビ局](https://ja.wikipedia.org/wiki/Category:四国地方のテレビ局 "wikilink") [Category:四国地方のラジオ局](https://ja.wikipedia.org/wiki/Category:四国地方のラジオ局 "wikilink")
 
 1.  主に高知県内で重大な自然災害が発生した場合など。
 2.

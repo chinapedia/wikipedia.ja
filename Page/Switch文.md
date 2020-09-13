@@ -155,6 +155,8 @@ switch (str) {
 }
 ```
 
+PHPのswitch文においては、比較が`===`演算子ではなく`==`演算子で行われる。そのため、曖昧一致に起因し、開発者が予期しない動作となる場合がある。
+
 ### BASIC
 
 [構造化された](../Page/構造化プログラミング.md "wikilink")[BASIC](../Page/BASIC.md "wikilink")では、Select Caseステートメントが存在することが多い。このステートメントでは、文字列または整数を対象にできる。
@@ -178,7 +180,7 @@ Select Case age
         文A
     Case 20 To 29
         文B
-    Case 30,50,70
+    Case 30,50,70 'Caseに複数の値を指定することができる
         文C
     Case Else
         文D

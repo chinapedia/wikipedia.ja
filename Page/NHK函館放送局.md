@@ -1,11 +1,11 @@
 > この記事は[NHK函館放送局](https://ja.wikipedia.org/wiki/NHK函館放送局)から翻訳されています。
 
 
-**NHK函館放送局**（エヌエイチケイはこだてほうそうきょく）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")の[渡島管内と](https://ja.wikipedia.org/wiki/渡島総合振興局 "wikilink")[檜山管内を](https://ja.wikipedia.org/wiki/檜山振興局 "wikilink")[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。[総合テレビと](../Page/NHK総合テレビジョン.md "wikilink")[ラジオ第1放送で地域放送を行っている](../Page/NHKラジオ第1放送.md "wikilink")。
+**NHK函館放送局**（エヌエイチケイはこだてほうそうきょく）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")の[渡島管内と](https://ja.wikipedia.org/wiki/渡島総合振興局 "wikilink")[檜山管内を](https://ja.wikipedia.org/wiki/檜山振興局 "wikilink")[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。[総合テレビと](../Page/NHK総合テレビジョン.md "wikilink")[ラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")・[FM放送で地域放送を行っている](../Page/NHK-FM放送.md "wikilink")。
 
 ## 放送局概要
 
-  - 所在地：[函館市](../Page/函館市.md "wikilink")千歳町13番1号（郵便番号040-8680）
+  - 所在地：[函館市](../Page/函館市.md "wikilink")千歳町13-1（郵便番号040-8680）
 
 放送対象地域のうち、[渡島総合振興局](https://ja.wikipedia.org/wiki/渡島総合振興局 "wikilink")北部の[森町](../Page/森町_\(北海道\).md "wikilink")、[八雲町](../Page/八雲町.md "wikilink")には函館放送局管轄の総合テレビ単独の[中継局](../Page/中継局.md "wikilink")（アナログ放送）が設置されている。
 
@@ -22,7 +22,7 @@
 [thumb](https://ja.wikipedia.org/wiki/ファイル:NHK-Hakodate-02.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:NHK-Hakodate-03.jpg "wikilink")
 
   - テレビ（総合・教育）・ラジオ(FM)送信所：函館市[函館山](../Page/函館山.md "wikilink")山頂（函館山テレビ放送所）
-  - ラジオ（第1・第2）送信所：函館市富岡町三丁目（亀田ラジオ放送所）
+  - ラジオ（第1・第2）送信所：函館市富岡町3丁目（亀田ラジオ放送所）
 
 ### 地上デジタル放送
 
@@ -240,7 +240,7 @@
 4.  [番組表ウォッチ\! - 番組詳細「つながる@きたカフェ 2014年4月22日分」（NHKネットクラブ）](https://pid.nhk.or.jp/pid04/ProgramIntro/Show.do?pkey=703-20140422-21-45007)（日本放送協会）
 5.   北海道南営業センター|accessdate=2017-05-05|publisher=NHK札幌放送局}}同様の組織は札幌局に「道中央センター」、旭川局に「道北センター」、帯広局に「道東センター」がそれぞれ置かれている。
 6.
-7.  以前は1026kHz/100Wであったが、混信対策により、[平成15年](../Page/2003年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")に792kHz/300Wに周波数変更・増力し、更に翌年3月にも同周波数で500Wに増力した。
+7.  以前は1026kHz/100Wであったが、混信対策により、[2003年](../Page/2003年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")に792kHz/300Wに周波数変更・増力し、更に翌年3月にも同周波数で500Wに増力した。
 8.  かつては、[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")から[1958年](../Page/1958年.md "wikilink")3月まで呼出符号JOVQを付与されていた。その後、呼出符号JOVQは、[1972年](../Page/1972年.md "wikilink")[5月15日](../Page/5月15日.md "wikilink")（沖縄の本土復帰日）から[1976年](../Page/1976年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")までJOVQ-TVとして[NHK沖縄放送局](../Page/NHK沖縄放送局.md "wikilink")[宮古放送局](https://ja.wikipedia.org/wiki/宮古島中継局#.E5.9C.B0.E4.B8.8A.E3.82.A2.E3.83.8A.E3.83.AD.E3.82.B0.E3.83.86.E3.83.AC.E3.83.93.E6.94.BE.E9.80.81 "wikilink")（テレビジョンのみ）に再び付与された。
 9.  2013年度からは北海道まるごとラジオ「どどんと道南」にリニューアルし、全道向けに放送している。
 10.

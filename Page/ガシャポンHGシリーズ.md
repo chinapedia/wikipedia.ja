@@ -74,7 +74,7 @@
   - [聖戦士ダンバイン](../Page/聖戦士ダンバイン.md "wikilink") 1〜2
   - [シャア・アズナブル](../Page/シャア・アズナブル.md "wikilink")コレクション
   - [鋼の錬金術師](../Page/鋼の錬金術師.md "wikilink") 1〜2
-  - [神魂合体ゴーダンナー](https://ja.wikipedia.org/wiki/神魂合体ゴーダンナー "wikilink")
+  - [神魂合体ゴーダンナー](https://ja.wikipedia.org/wiki/神魂合体ゴーダンナー!! "wikilink")
   - [カードキャプターさくら](../Page/カードキャプターさくら.md "wikilink") 1〜2
   - [キャプテンハーロック](../Page/宇宙海賊キャプテンハーロック.md "wikilink")〜外伝〜
   - [大友克洋](../Page/大友克洋.md "wikilink")コレクション [スチームボーイ](../Page/スチームボーイ.md "wikilink")
@@ -89,7 +89,7 @@
   - [ドラゴンボールGT](https://ja.wikipedia.org/wiki/ドラゴンボールGT "wikilink")1〜2
   - [ウルトラマンvs仮面ライダー](https://ja.wikipedia.org/wiki/ウルトラマンvs仮面ライダー "wikilink")
   - [動物戦隊ジュウオウジャー](https://ja.wikipedia.org/wiki/動物戦隊ジュウオウジャー "wikilink")
-  - [ドラゴンボール超](https://ja.wikipedia.org/wiki/ドラゴンボール超 "wikilink")　01～06
+  - [ドラゴンボール超](https://ja.wikipedia.org/wiki/ドラゴンボール超 "wikilink")　01～07
   - HG仮面ライダー 01、NEW01～02
   - HGウルトラマン 01～02
 
@@ -172,7 +172,7 @@
 
 ### その他ガシャポンHGシリーズ
 
-  - HGワールド[ガンバの冒険](../Page/ガンバの冒険.md "wikilink") 1〜2
+  - HGワールド [ガンバの冒険](../Page/ガンバの冒険.md "wikilink") 1〜2
   - HGPlusアクションポーズ ドラゴンボールZ
   - HG D+ ゴジラ 01～03
   - [ウルトラマンギンガS](https://ja.wikipedia.org/wiki/ウルトラマンギンガS "wikilink") ビッグサイズなりきりウェポン\[3\]
@@ -205,6 +205,7 @@
       - ガシャポンEX [永井豪](../Page/永井豪.md "wikilink")ワールド1〜2、パールカラー
       - HGPLUS EX アクションポーズ ドラゴンボールZ
       - H.G.C.O.R.E-EX　機動戦士ガンダム
+      - 仮面ライダー電王 イマジンSpecial H.G.C.O.R.E-SP
   - プレミアムバンダイ「ガシャデパ」受注専売(受注された順の羅列)
       - HGシリーズ ウルトラマン・[ウルトラセブン](../Page/ウルトラセブン.md "wikilink")怪獣コンプリート計画 完結セット
       - HGシリーズ [仮面ライダーBLACK](../Page/仮面ライダーBLACK.md "wikilink")\&BLACK RX 最終決戦セット
@@ -217,7 +218,7 @@
       - HGシリーズ ドラゴンボールZ GOD EDITION
       - HG [ポケットモンスター](../Page/ポケットモンスター.md "wikilink") タケシ
       - HG 原色ウルトラ怪獣大百科その2
-      - HG [幽遊白書](https://ja.wikipedia.org/wiki/幽遊白書 "wikilink") 戸愚呂(弟)
+      - HG [幽遊白書](../Page/幽☆遊☆白書.md "wikilink") 戸愚呂(弟)
       - HG 原色ウルトラ怪獣大百科その3 鬼スペシャル
       - HG ポケットモンスター カスミ
       - HG 原色ウルトラ怪獣大百科その4 怪獣美少女コンテスト
@@ -265,6 +266,8 @@
       - HGシリーズ ドラゴンボールZ フリーザ軍襲来編
       - HG[あひるの空](../Page/あひるの空.md "wikilink") 車谷空
       - HGあひるの空 夏目健二
+      - HGドラゴンボール もう一人の超サイヤ人編
+      - HGD+EX ゴジラ [ビオランテ](../Page/ビオランテ.md "wikilink")（植獣形態）
 
 ## 関連書籍（バンダイ公認のみ）
 

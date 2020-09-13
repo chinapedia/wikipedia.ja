@@ -23,7 +23,7 @@
 
 ## アニメ版
 
-[NETおよび同時ネット局](../Page/テレビ朝日.md "wikilink")（ANN単独加盟局が中心）での放送時間が25分のため\[2\]、放送時間が25分（同時ネット局バージョン）用\[3\]と30分（遅れネット局および再放送のバージョン）用が作られた。これはANNフルネット局で、[スポットニュース](../Page/スポットニュース.md "wikilink")『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』を放送したため。
+[NETおよび同時ネット局](../Page/テレビ朝日.md "wikilink")（ANN単独加盟局が中心）での放送時間が25分のため\[2\]、放送時間が25分（同時ネット局バージョン）用\[3\] と30分（遅れネット局および[ネットチェンジ](../Page/ネットチェンジ.md "wikilink")後の[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")などでの再放送のバージョン）用が作られた。これはANNフルネット局で、[スポットニュース](../Page/スポットニュース.md "wikilink")『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』を放送したため。
 
   - オープニングは30分バージョンの方が時間が長い。
   - 本編の時間は同じ。
@@ -71,7 +71,7 @@
 
 ### ミクロイドの特殊能力
 
-ヤンマ・アゲハ・マメゾウは同じコンセプトのミクロイドであり、基本装備としてミクロイドスーツとヘルメットを着用している。頭部のヘルメットから伸びる刃・ミクロイドナイフを武器とし、普段はスーツ背部に収められている羽を伸ばして飛行が可能。\[4\]第7話でのアゲハの台詞(「羽が傷ついた」ヤンマに自分の羽を貸そうと思っていたという主旨のもの)や回想シーンで別の服を着ている場面があることからスーツは着脱可能であることが伺える。なお各人固有の能力は次の通り。
+ヤンマ・アゲハ・マメゾウは同じコンセプトのミクロイドであり、基本装備としてミクロイドスーツとヘルメットを着用している。頭部のヘルメットから伸びる刃・ミクロイドナイフを武器とし、普段はスーツ背部に収められている羽を伸ばして飛行が可能。\[4\] 第7話でのアゲハの台詞(「羽が傷ついた」ヤンマに自分の羽を貸そうと思っていたという主旨のもの)や回想シーンで別の服を着ている場面があることからスーツは着脱可能であることが伺える。なお各人固有の能力は次の通り。
 
   - ヤンマ
     姿は[トンボ](../Page/トンボ.md "wikilink")が元になっている。
@@ -389,7 +389,7 @@
   - [福井放送](../Page/福井放送.md "wikilink")：土曜 19:00 - 19:30\[13\]
   - [名古屋テレビ](../Page/名古屋テレビ放送.md "wikilink")
   - [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")：土曜 20:30 - 20:55
-  - [日本海テレビ](https://ja.wikipedia.org/wiki/日本海テレビ "wikilink")：土曜 8:05 - 8:30
+  - [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")：土曜 8:05 - 8:30
   - [岡山放送](../Page/岡山放送.md "wikilink")
   - [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")：土曜 20:30 - 20:55
   - [テレビ山口](../Page/テレビ山口.md "wikilink")
@@ -417,7 +417,7 @@
 
 [Category:手塚治虫の作品](https://ja.wikipedia.org/wiki/Category:手塚治虫の作品 "wikilink") [Category:漫画作品_み](https://ja.wikipedia.org/wiki/Category:漫画作品_み "wikilink") [Category:週刊少年チャンピオンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年チャンピオンの漫画作品 "wikilink") [Category:SF漫画作品](https://ja.wikipedia.org/wiki/Category:SF漫画作品 "wikilink") [Category:昆虫を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:昆虫を題材とした漫画作品 "wikilink") [Category:昆虫を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:昆虫を題材としたアニメ作品 "wikilink") [Category:テレビ朝日系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ朝日系アニメ "wikilink") [Category:アニメ作品_み](https://ja.wikipedia.org/wiki/Category:アニメ作品_み "wikilink") [Category:東映アニメーションのアニメ作品](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ作品 "wikilink") [Category:1973年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1973年のテレビアニメ "wikilink") [Category:セイコー一社提供番組](https://ja.wikipedia.org/wiki/Category:セイコー一社提供番組 "wikilink") [Category:テレビ朝日の一社提供番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の一社提供番組 "wikilink") [Category:楽曲_み](https://ja.wikipedia.org/wiki/Category:楽曲_み "wikilink") [Category:日本コロムビアのシングル](https://ja.wikipedia.org/wiki/Category:日本コロムビアのシングル "wikilink") [Category:1973年のシングル](https://ja.wikipedia.org/wiki/Category:1973年のシングル "wikilink") [Category:阿久悠が制作した楽曲](https://ja.wikipedia.org/wiki/Category:阿久悠が制作した楽曲 "wikilink")
 
-1.  [TezukaOsamu.net　ミクロイドS（Z）](http://tezukaosamu.net/jp/manga/478.html)の解説より。
+1.  [TezukaOsamu.net　ミクロイドS（Z）](http://tezukaosamu.net/jp/manga/478.html) の解説より。
 2.  毎日放送・瀬戸内海放送・広島ホームテレビは25分版で同時ネットしていた（読売新聞・岡山版、1973年6月2日、20ページ、テレビ・ラジオ欄）。
 3.  日本海テレビの様に遅れネット局でも25分バージョンで放送した例があった（フィルムネットかマイクロ回線配信からの裏撮りかは不明）。
 4.  ミクロイドスーツの羽を使用すると特殊な超音波が発生する。そのため、羽で飛ぶとギドロンに発見される可能性を美土路博士は憂慮し、ミクロイドプレインという超小型飛行機を開発。以後はそれを併用している。ミクロイドプレインは当初は二人乗りの一機のみだったが、後に各人専用の3台になっている。

@@ -45,12 +45,12 @@
   - [FNNニュース最終版](../Page/FNNニュース最終版.md "wikilink")（第1期） → [FNNニュースレポート23:00](../Page/FNNニュースレポート23:00.md "wikilink")（週末版は[FNNニュースレポート23:30](../Page/FNNニュースレポート23:30.md "wikilink")） - 1968.4-1987.3
   - [FNNスピーク](../Page/FNNスピーク.md "wikilink")（土曜日のみ） - 2001.04-2007.03
 
+## 脚注
+
 ## 関連項目
 
   - [産経テレニュースFNN](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")
   - [FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース "wikilink")
-
-## 脚注
 
 ## 外部リンク
 

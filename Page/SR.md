@@ -29,7 +29,7 @@
 
   - [日産・SRエンジン](../Page/日産・SRエンジン.md "wikilink") - [日産のエンジン](../Page/日産自動車.md "wikilink")。
   - [ヤマハ・SR](../Page/ヤマハ・SR.md "wikilink") - [ヤマハのオートバイ](../Page/ヤマハ発動機.md "wikilink")。
-  - スーパーロマンス () - 名鉄[7000系・7100系・7500系・7700系](../Page/名鉄7000系電車.md "wikilink")・[5000系・5200系](../Page/名鉄5000系電車_\(初代\).md "wikilink")・[5500系](../Page/名鉄5500系電車.md "wikilink")・[5300系・5600系・5700系車両](../Page/名鉄5700系電車.md "wikilink")（例外あり）
+  - スーパーロマンス () - [名古屋鉄道](https://ja.wikipedia.org/wiki/名古屋鉄道 "wikilink")の[高性能車両](../Page/カルダン駆動方式.md "wikilink")（そのうち2扉クロスシート車）の通称。[名古屋鉄道の車両形式](https://ja.wikipedia.org/wiki/名古屋鉄道の車両形式 "wikilink")も参照。
   - [NECパソコンの](../Page/日本電気.md "wikilink")[FM音源](../Page/FM音源.md "wikilink")[YM2203](../Page/YM2203.md "wikilink")新規搭載モデル。。[PC-8801mkIISR](https://ja.wikipedia.org/wiki/PC-8800シリーズ "wikilink")、[PC-8001mkIISR](https://ja.wikipedia.org/wiki/PC-8000シリーズ#PC-8001mkIISR "wikilink")、[PC-6601SR](https://ja.wikipedia.org/wiki/PC-6600シリーズ#PC-6601SR "wikilink")、[PC-6001mkIISR](https://ja.wikipedia.org/wiki/PC-6000シリーズ#PC-6001mkIISR "wikilink")。
   - [ボーイング747](https://ja.wikipedia.org/wiki/ボーイング747 "wikilink")-100 SR ()
   - [SR方式](../Page/手ぶれ補正機構.md "wikilink") () - [ペンタックス](../Page/ペンタックス.md "wikilink")製デジタルカメラの手ぶれ補正機構。

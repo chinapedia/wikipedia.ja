@@ -27,7 +27,7 @@ IEEE 802標準ファミリは、IEEE 802委員会、略称LMSC (LAN/MAN Standard
 
 ## 外部リンク
 
-  - [802 Committee website](http://www.ieee802.org/) (英語)
-  - [各WGの一覧](http://grouper.ieee.org/groups/802/dots.html) （英語）
+  - [802 Committee website](http://www.ieee802.org/)
+  - [各WGの一覧](http://grouper.ieee.org/groups/802/dots.html)
 
 [Category:IEEE_802](https://ja.wikipedia.org/wiki/Category:IEEE_802 "wikilink") [Category:IEEE標準](https://ja.wikipedia.org/wiki/Category:IEEE標準 "wikilink") [Category:通信プロトコル](https://ja.wikipedia.org/wiki/Category:通信プロトコル "wikilink")

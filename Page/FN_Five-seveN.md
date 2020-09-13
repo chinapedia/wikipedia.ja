@@ -3,7 +3,7 @@
 
 **FN Five-seveN**（FN ファイブセブン）は、[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の[FN社が開発した](../Page/FNハースタル.md "wikilink")[自動拳銃](https://ja.wikipedia.org/wiki/拳銃#自動式拳銃 "wikilink")。[P90用サイドアーム](../Page/FN_P90.md "wikilink")（補助[兵器](../Page/兵器.md "wikilink")）として開発された。名称は[5.7mm弾を使用することに由来し](../Page/5.7x28mm弾.md "wikilink")、「**F**ive-seve**N**」と表記されるのは、FN社の名前に由来する。
 
-初期モデルでは[ダブルアクション](../Page/ダブルアクション.md "wikilink")オンリーだったが、現行モデルFive-seveN USGでは[シングルアクション](../Page/シングルアクション.md "wikilink")も可能となっている
+初期モデルでは[ダブルアクション](../Page/ダブルアクション.md "wikilink")オンリーで作動方式もストライカー方式であったとされ試作銃感を感じる見た目であったが、使用する現場からの改善要求などで現行モデルFive-seveN USGでは[シングルアクション](../Page/シングルアクション.md "wikilink")オンリーで作動方式は内蔵ハンマー方式となっている
 
 ## 特徴
 
@@ -24,12 +24,14 @@
 ## 関連項目
 
   - [自動拳銃](https://ja.wikipedia.org/wiki/拳銃#自動式拳銃 "wikilink")
+  - [PDW](../Page/PDW.md "wikilink")
   - [FNハースタル](../Page/FNハースタル.md "wikilink")
   - [FN P90](../Page/FN_P90.md "wikilink")
       - [FN PS90](../Page/FN_PS90.md "wikilink")
   - [5.7x28mm弾](../Page/5.7x28mm弾.md "wikilink")
   - [H\&K MP7](../Page/H&K_MP7.md "wikilink")
   - [H\&K P46](https://ja.wikipedia.org/wiki/H&K_P46 "wikilink")
+  - [92式手槍](https://ja.wikipedia.org/wiki/92式手槍 "wikilink")
 
 ## 外部リンク
 

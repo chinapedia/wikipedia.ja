@@ -57,7 +57,7 @@
 **旧メンバー**
 
   - takumi
-      - リーダー兼ギター / 12月6日生まれ / [兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")出身 / [B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")
+      - リーダー兼ギター / 12月6日生まれ / [兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")出身 / [B型](../Page/ABO式血液型.md "wikilink")
       - ギターだけでなくベース等色んな楽器が出来るので、在籍中は一メンバーとしてでなくプロデュースまでこなしていた
       - 2011年よりTAKUMI MATSUSHITAとして音楽活動再開
 
@@ -241,7 +241,7 @@
   - [savage geniusオフィシャルブログ ああの大きな声のヒトリゴト](https://ameblo.jp/savagegenius/) powered by Ameba
 
   -
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:過去の研音グループ所属者](https://ja.wikipedia.org/wiki/Category:過去の研音グループ所属者 "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:フライングドッグのアーティスト](https://ja.wikipedia.org/wiki/Category:フライングドッグのアーティスト "wikilink")
+[Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:過去の研音グループ所属者](https://ja.wikipedia.org/wiki/Category:過去の研音グループ所属者 "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:フライングドッグのアーティスト](https://ja.wikipedia.org/wiki/Category:フライングドッグのアーティスト "wikilink")
 
 1.  [ああより、いつも温かく支えて下さっているみなさまへ。](http://blog.jvcmusic.co.jp/blog/sg/2010/07/post_1260.html)
 2.  [ひろみっぽい「いろんなお知らせ」](http://satohiromi.exblog.jp/21902628/)

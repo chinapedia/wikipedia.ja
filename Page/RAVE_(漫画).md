@@ -203,7 +203,7 @@
 | ------------------- | ----------- |
 | マラキア・シンフォニア・グローリー五世 | シャクマ・レアグローブ |
 | ゲイル・グローリー           | ゲイル・レアグローブ  |
-| ハル・グローリー            | ルシア・レアグローブ  |
+| ハル・グローリー            | アードライ       |
 | シュダ                 | ディープスノー     |
 | サクラ・グローリー           | エミリア・レアグローブ |
 | ホーリーブリング (RAVE)     | ダークブリング     |
@@ -854,7 +854,7 @@
 <th><p>放送対象地域</p></th>
 <th><p>放送局</p></th>
 <th><p>放送期間</p></th>
-<th><p>放送日時</p></th>
+<th><p>放送日時[6]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -880,26 +880,26 @@
 <td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/RKB毎日放送" title="wikilink">RKB毎日放送</a> (RKB)</p></td>
 <td><p>2001年<a href="../Page/11月11日.md" title="wikilink">11月11日</a> -</p></td>
-<td><p>日曜 6:00 - 6:30 → 月曜 26:25 - 26:55（第26話 - ）</p></td>
+<td><p>日曜 6:00 - 6:30 → 火曜 2:25 - 2:55（第26話 - ）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
 <td><p><a href="../Page/北海道放送.md" title="wikilink">北海道放送</a> (HBC)</p></td>
 <td><p>2001年10月20日 - 2002年<a href="../Page/10月6日.md" title="wikilink">10月6日</a></p></td>
 <td><p>土曜 17:00 - 17:30 → 日曜 6:00 - 6:30（第25話 - ）<br />
-（7日→8日遅れ、自社制作番組放送にともない枠移動）</p></td>
+（自社制作番組放送にともない枠移動）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/青森県" title="wikilink">青森県</a></p></td>
 <td><p><a href="../Page/青森テレビ.md" title="wikilink">青森テレビ</a> (ATV)</p></td>
 <td><p>2001年<a href="../Page/10月23日.md" title="wikilink">10月23日</a> -</p></td>
-<td><p>火曜 25:25 - 25:55</p></td>
+<td><p>水曜 1:25 - 1:55</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
 <td><p><a href="../Page/IBC岩手放送.md" title="wikilink">IBC岩手放送</a> (IBC)</p></td>
 <td><p>2001年<a href="../Page/10月22日.md" title="wikilink">10月22日</a> -</p></td>
-<td><p>月曜 25:35 - 26:05</p></td>
+<td><p>火曜 1:20 - 1:50</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/宮城県" title="wikilink">宮城県</a></p></td>
@@ -911,25 +911,25 @@
 <td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>
 <td><p><a href="../Page/テレビユー福島.md" title="wikilink">テレビユー福島</a> (TUF)</p></td>
 <td><p>2001年<a href="../Page/10月24日.md" title="wikilink">10月24日</a> -</p></td>
-<td><p>水曜 24:50 - 25:20</p></td>
+<td><p>木曜 0:50 - 1:20</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/山梨県.md" title="wikilink">山梨県</a></p></td>
 <td><p><a href="../Page/テレビ山梨.md" title="wikilink">テレビ山梨</a> (UTY)</p></td>
 <td><p>2001年10月23日 -</p></td>
-<td><p>火曜 25:25 - 25:55</p></td>
+<td><p>水曜 1:25 - 1:55</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
 <td><p><a href="../Page/信越放送.md" title="wikilink">信越放送</a> (SBC)</p></td>
-<td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/4月6日.md" title="wikilink">4月6日</a> - <a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/4月5日.md" title="wikilink">4月5日</a>[6]</p></td>
+<td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/4月6日.md" title="wikilink">4月6日</a> - <a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/4月5日.md" title="wikilink">4月5日</a>[7]</p></td>
 <td><p>土曜 6:00 - 6:30</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/静岡放送" title="wikilink">静岡放送</a> (SBS)</p></td>
 <td><p>2001年<a href="../Page/10月26日.md" title="wikilink">10月26日</a> -</p></td>
-<td><p>金曜 26:35 - 27:05 → 金曜 26:15 - 26:45（第26話 - ）</p></td>
+<td><p>土曜 2:35 - 3:05 → 土曜 2:15 - 2:45（第26話 - ）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
@@ -953,13 +953,13 @@
 <td><p><a href="../Page/広島県.md" title="wikilink">広島県</a></p></td>
 <td><p><a href="../Page/中国放送.md" title="wikilink">中国放送</a> (RCC)</p></td>
 <td><p>2001年10月21日 -</p></td>
-<td><p>日曜 26:15 - 26:45 → 日曜 25:20 - 25:50（第26話 - ）</p></td>
+<td><p>月曜 2:15 - 2:45 → 月曜 2:20 - 2:50（第26話 - ）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
 <td><p><a href="../Page/テレビ山口.md" title="wikilink">テレビ山口</a> (tys)</p></td>
 <td><p>2001年10月21日 -</p></td>
-<td><p>日曜 25:35 - 26:05 → 日曜 25:45 - 26:15（第26話 - ）</p></td>
+<td><p>月曜 1:35 - 2:05 → 月曜 1:45 - 2:15（第26話 - ）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/愛媛県.md" title="wikilink">愛媛県</a></p></td>
@@ -983,7 +983,7 @@
 <td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/南日本放送" title="wikilink">南日本放送</a> (MBC)</p></td>
 <td><p>2001年<a href="https://ja.wikipedia.org/wiki/10月28日" title="wikilink">10月28日</a> -</p></td>
-<td><p>日曜 24:50 - 25:20 → 日曜 25:00 - 25:30（第26話 - ）</p></td>
+<td><p>月曜 0:50 - 1:20 → 月曜 1:00 - 1:30（第26話 - ）</p></td>
 </tr>
 </tbody>
 </table>
@@ -1049,7 +1049,7 @@
 <!-- end list -->
 
   -
-    2002年8月29日（ベスト版は2003年8月7日）発売。アニメ版には未登場だったアリス、セリア、オウガ、ドリューが登場。またキング戦直後の話である\[7\]。
+    2002年8月29日（ベスト版は2003年8月7日）発売。アニメ版には未登場だったアリス、セリア、オウガ、ドリューが登場。またキング戦直後の話である\[8\]。
 
 <!-- end list -->
 
@@ -1089,5 +1089,6 @@
 3.  『FAIRY TAIL』ではグレイのペンダントとして登場する
 4.  『FAIRY TAIL』では鎗として登場する。また、エルザが魔法で呼び出す剣の中にも幾つか描かれている。
 5.  ゲイルが障害物を殴っていた際はちゃんと赤い血で出血していた。なお、黒い血は時々濃い灰色に見えるときがある。
-6.  2002年4月6日、2003年4月5日 信濃毎日新聞 テレビ欄
-7.  キングとの戦い終わったと話しており、ハル達とルビーが初対面だったため。
+6.  『[アニメディア](../Page/アニメディア.md "wikilink")』2002年8月号の『TV STATION NETWORK』（p117 - 119）より。
+7.  2002年4月6日、2003年4月5日 信濃毎日新聞 テレビ欄
+8.  キングとの戦い終わったと話しており、ハル達とルビーが初対面だったため。

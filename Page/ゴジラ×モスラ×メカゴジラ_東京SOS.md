@@ -237,7 +237,7 @@
   - 機龍隊員：[小田篤](https://ja.wikipedia.org/wiki/小田篤 "wikilink")
   - 神崎班長：[益岡徹](../Page/益岡徹.md "wikilink")
   - 菅野吾郎：[六平直政](../Page/六平直政.md "wikilink")
-  - 秋葉功：[清水紘治](../Page/清水紘治.md "wikilink")
+  - 秋葉功：[清水綋治](../Page/清水綋治.md "wikilink")
   - 土橋長官：[上田耕一](../Page/上田耕一.md "wikilink")
   - 家城茜：[釈由美子](https://ja.wikipedia.org/wiki/釈由美子 "wikilink")
   - 瞬の母：[渡辺典子](../Page/渡辺典子.md "wikilink")

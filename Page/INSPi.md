@@ -9,11 +9,12 @@
       - INSPi のリーダー。
       - 1stコーラス担当。
       - [兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")出身。
-      - [血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+      - [血液型はA型](../Page/ABO式血液型.md "wikilink")。
       - 愛称はスギちゃん、ロマンチックリーダー。
       - 特技は[県庁所在地](https://ja.wikipedia.org/wiki/県庁所在地 "wikilink")早答え。
       - [大阪大学経済学部](https://ja.wikipedia.org/wiki/大阪大学経済学部 "wikilink")卒業。
       - 2015年、一般女性との結婚\[1\]。
+      - 2019年2月「株式会社hamo-labo」を設立し、代表取締役を務める。アカペラを使ったワークショップの他、企業研修や講演の企画・運営などを行う。\[2\]
   - **北 剛彦**（きた たけひこ、 - ）
       - 4thコーラス担当。
       - [静岡県](../Page/静岡県.md "wikilink")[磐田市](../Page/磐田市.md "wikilink")出身。
@@ -35,6 +36,7 @@
       - 愛称はシンジ、シンちゃん、リトルバード、小鳥ちゃん。
       - 特技はマシュマロキャッチ（ピッチャー）。
       - [国立奈良工業高等専門学校出身](../Page/奈良工業高等専門学校.md "wikilink")。
+      - 2020年3月管理栄養士の国家資格を取得。\[3\]
   - **渡邉 崇文**（わたなべ たかふみ、 - ）
       - ボイスパーカッション担当。
       - 静岡県[富士市](../Page/富士市.md "wikilink")出身。
@@ -110,7 +112,7 @@
 
 [2009年](../Page/2009年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink") アルバム『インスピ特薦盤』を発売。
 
-2009年7月31日、ファンクラブ5周年、RAG FAIRと共にディナーショー以来の合同イベント“FeiCR うたまつり09”（別名：杉田祭り）が東京ドームシティ Gロッソにて開催。ここで、LoveDiary・Broad6結成。
+2009年7月31日、ファンクラブ5周年、RAG FAIRと共にディナーショー以来の合同イベント“FeiCR うたまつり09”（別名：杉田祭り）が東京ドームシティ Gロッソにて開催。ここで、LoveDiary・[BROAD6](../Page/BROAD6.md "wikilink")結成。
 
 2009年10月より、INSPiレギュラーミュージカルラジオCROSS FMにて「INSPiレディオ☆プラザ」放送開始
 
@@ -124,7 +126,24 @@
 
 9月1日 『ハモネプチャンピオンズCD』参加
 
-[2015年](../Page/2015年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")、奥村が顔面右側に[有棘細胞癌](../Page/有棘細胞癌.md "wikilink")を発病し、病巣切除手術を行ったことを公式サイトで報告をした\[2\]。暫くは治療に専念するため休養する旨を明かし、その間のグループのライブ活動は、サポートメンバーを迎えるなどして継続する方針であるという。
+[2015年](../Page/2015年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")、奥村が顔面右側に[有棘細胞癌](../Page/有棘細胞癌.md "wikilink")を発病し、病巣切除手術を行ったことを公式サイトで報告をした\[4\]。暫くは治療に専念するため休養する旨を明かし、その間のグループのライブ活動は、サポートメンバーを迎えるなどして継続する方針であるという。
+
+2020年6月、奥村が、4回の入院、5回の手術、5年の通院を経て、腫瘍外来を卒業したことを報告。\[5\]
+
+## 出演
+
+### ウェブ配信番組
+
+#### レギュラー
+
+  - YouTube「INSPiのそれゆけペラリーマン」[1](https://www.youtube.com/channel/UCAzDNHKMmjMGzcjt2_OTbFA/)（2019年6月11日～現在。隔週放送）
+
+<!-- end list -->
+
+  - LINE LIVE「アカペラグループINSPiのそれゆけペラリーマン」[2](https://live.line.me/channels/42877)（2016年11月1日～2019年8月20日）
+      -
+        2016年10月18日の放送で番組スタートを発表。
+        2019年6月11日の放送からYouTubeと同時放送をスタート、その後YouTubeに完全移行。
 
 ## ディスコグラフィー
 
@@ -185,10 +204,10 @@
             作詞：[グ・スーヨン](https://ja.wikipedia.org/wiki/グ・スーヨン "wikilink")／作曲：幾見雅博／編曲：幾見雅博・INSPi
 6.  翼〜つばさ〜（2003年7月30日）オリコン60位
     1.  翼 〜つばさ〜\[4:18\]
-    2.  作詞：長渕剛／作曲：杉田篤史／編曲：幾見雅博・INSPi
           -
+            作詞：長渕剛／作曲：杉田篤史／編曲：幾見雅博・INSPi
             [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[TVおじゃマンボウ](../Page/TVおじゃマンボウ.md "wikilink")』エンディングテーマ
-    3.  陽炎\[5:22\]
+    2.  陽炎\[5:22\]
           -
             作詞：尾上文／作曲：田村直樹／編曲：幾見雅博・INSPi
 7.  この星の子守唄（2004年3月26日）これよりpure musicへ移籍
@@ -207,6 +226,15 @@
             作詞・作曲：奥村伸二／編曲：本間昭光
 10. さくら咲く（2010年3月21日）
 11. エンターテイナー（2016年1月6日）
+    1.  エンターテイナー
+    2.  ドミソはハーモニー
+          -
+            NHK「みんなのうた」2015年12月～2016年1月期オンエア曲
+    3.  あなたの声
+          -
+            ABCラジオ「ドッキリ！ハッキリ！三代澤康司です」コラボ曲
+    4.  夏祭り
+    5.  初音ミクの消失
 
 ### アルバム
 
@@ -279,11 +307,78 @@
     10. グラジオラス\[4:40\]
     11. 遥かなる青春\[2:32\]
 8.  A Cappella X’mas（2008年12月）
+    1.  SANTA CLAUS IS COMIN TO TOWN
+    2.  silent night
+    3.  冬のファンタジー
+    4.  いつかのメリークリスマス
+    5.  Amazing Grace
+    6.  WHITE CHRISTMAS
+    7.  Hark\! The Herald Angels Sing
+    8.  Merry Christmas Mr.Lawrence (戦場のメリークリスマス)
+    9.  カウントダウン・クリスマス
+    10. 家族という星座
 9.  インスピ特薦盤（2009年07月4日）
+    1.  蘇州夜曲
+    2.  木綿のハンカチーフ
+    3.  咲桜～さくら～ (2009 Version)
+    4.  わらべ唄メドレー
+    5.  恋のバカンス
+    6.  野に咲く花のように
+    7.  夢を信じて
+    8.  銀河鉄道999～THE GALAXY EXPRESS
+    9.  月に願う (2009 Version)
+    10. VaLiHaLiHa (2009 Version)
 10. ありがとうでつながろう（2011年12月7日）
+    1.  風になりたい
+    2.  Cicada's love song
+    3.  この星の子守唄
+    4.  ちっぽけなボクにできること～with宮沢和史～
+    5.  グラジオラス
+    6.  ありがとうがんばろう
+    7.  この木なんの木
+    8.  家族という星座
+    9.  翼～つばさ～
+    10. こえともだち
+    11. 大切な人よ
+    12. 遥かなる青春\~withボニージャックス～
+    13. ありがとうのこと
 11. 日本のココロ歌（2012年11月21日）
+    1.  竹田の子守歌
+    2.  旅人よ
+    3.  若いってすばらしい
+    4.  ゆりかごのうた
+    5.  東京ブギウギ
+    6.  冬景色
+    7.  さくらさくら
+    8.  お祭りマンボ
+    9.  手のひらを太陽に
+    10. あるこう
 12. インスピ浪漫2（2014年8月6日)
+    1.  エサホイ
+    2.  かざぐるま
+    3.  滑走路
+    4.  good
+    5.  ココロの根っこ～Akar Hati～
+    6.  ドンと来い！
+    7.  ネバギビラ
+    8.  MANY\!
 13. ペラタゴニスタ（2019年7月6日)
+    1.  ヒーロー
+    2.  うつくしい花となれ
+    3.  ドミソはハーモニー
+    4.  Sweet Harmony
+    5.  白雨の故郷
+    6.  のむらのうた～がんばってみるけん 応援してやなぁ～
+    7.  半ズボンの恋の物語
+    8.  ワン
+    9.  ひとりじゃない
+    10. パラボラ
+    11. エンターテイナー
+    12. 拝啓、あの頃の僕へ
+    13. アイシテル
+    14. ちいさな勲章
+    15. ステキな関係
+    16. （Bonus Track）ドットライナー dot dot dot！！！
 
 ### DVD
 
@@ -306,7 +401,11 @@
 5.  J-POP ベストヒットカヴァー（2008年03月19日）
       -
         12.風になりたい〜VENT DE AMOR〜
-6.  ハモネプ チャンピオンズCD（2010年09月01日）
+6.  歌鬼3 ～阿久悠×青春のハーモニー～（2010年7月14日）
+      -
+        3.五番街のマリーへ
+        9.宇宙戦艦ヤマト（RAG FAIR＆INSPi）
+7.  ハモネプ チャンピオンズCD（2010年09月01日）
       -
         11.桜(けい／ゆーだい／INSPi)
         14.あなたといれば(RAG FAIR／INSPi／ハモネプオールスターズ)
@@ -319,12 +418,34 @@
 
 ## 外部リンク
 
+### 公式サイト
+
   - [INSPi official web site](http://www.inspi.cc/)
-  - [INSPi/Love Diary 大倉智之オフィシャルブログ「火照る！オオクラ」](https://ameblo.jp/tomoyuki-okura/)
+
+### オフィシャルブログ
+
   - [杉田篤史オフィシャルブログ「株式会社ムードメーカー」](https://ameblo.jp/atsushi-sugita)
+  - [INSPi/Love Diary 大倉智之オフィシャルブログ「火照る！オオクラ」](https://ameblo.jp/tomoyuki-okura/)
   - [INSPi メンバーオフィシャルブログ「INSPi メンバーダイアリー」](https://ameblo.jp/inspimemberdiary/)
+
+### Twitter
+
+  - [杉田 篤史](https://twitter.com/atsushi_sugita) (@atsushi_sugita)
+  - [北 剛彦](https://twitter.com/takehiko_kita) (@takehiko_kita)
+  - [大倉 智之](https://twitter.com/tomoyuki_okura) (@tomoyuki_okura)
+  - [奥村 伸二](https://twitter.com/INSPi_shinji) (@INSPi_shinji)
+  - [渡邉 崇文](https://twitter.com/INSPi_takafumi) (@INSPi_takafumi)
+  - [吉田 圭介](https://twitter.com/INSPi_keisuke)(@INSPi_keisuke)
+
+### YouTubeチャンネル
+
+  - [INSPi公式チャンネル](https://www.youtube.com/user/INSPimovie)
+  - [INSPiのそれゆけぺラリーマン](https://www.youtube.com/channel/UCAzDNHKMmjMGzcjt2_OTbFA)
 
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:コーラス・グループ](https://ja.wikipedia.org/wiki/Category:コーラス・グループ "wikilink") [Category:1997年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に結成した音楽グループ "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink")
 
 1.
-2.  \[<http://inspi.cc/150609.html>　「INSPiより皆様へ大切なお知らせ」2015年6月9日\]
+2.
+3.
+4.  \[<http://inspi.cc/150609.html>　「INSPiより皆様へ大切なお知らせ」2015年6月9日\]
+5.

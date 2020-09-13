@@ -3,7 +3,7 @@
 
 [250px](https://ja.wikipedia.org/wiki/ファイル:NOTCH-1_ligand_binding_region.png "wikilink")**Notch経路**（ノッチけいろ；Notch pathway）は[神経](https://ja.wikipedia.org/wiki/神経 "wikilink")、[造血](https://ja.wikipedia.org/wiki/造血 "wikilink")、[血管](../Page/血管.md "wikilink")、[体節](https://ja.wikipedia.org/wiki/体節 "wikilink")などの様々な[分化](https://ja.wikipedia.org/wiki/分化 "wikilink")過程に関係する、[ヒト](../Page/ヒト.md "wikilink")を含め[脊椎動物](../Page/脊椎動物.md "wikilink")から[節足動物](https://ja.wikipedia.org/wiki/節足動物 "wikilink")まで多くの[後生動物](../Page/後生動物.md "wikilink")でよく保存された[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")調節（[シグナル伝達](../Page/シグナル伝達.md "wikilink")）経路である。 Notch[カスケード](../Page/カスケード.md "wikilink")はNotchとNotch受容体、それと[核へNotchシグナルを伝える細胞内](https://ja.wikipedia.org/wiki/細胞核 "wikilink")[タンパク質](../Page/タンパク質.md "wikilink")から成る。 Notch/Lin-12/Glp-1受容体ファミリーは[ショウジョウバエ](../Page/ショウジョウバエ.md "wikilink")と[C.elegans](https://ja.wikipedia.org/wiki/C.elegans "wikilink")の発生で細胞運命の特異化に関連している事が判明した。
 
-[哺乳類](https://ja.wikipedia.org/wiki/哺乳類 "wikilink")においては現在5種類の[リガンド](https://ja.wikipedia.org/wiki/リガンド "wikilink")と4種類の受容体が発見されている。Notchの受容体は一回膜貫通型受容体である。Notchの受容体にリガンドが結合すると細胞表面のNotchタンパクはある[プロテアーゼ](../Page/プロテアーゼ.md "wikilink")に切断されて、細胞内ドメインが細胞質へ遊離して核内のCBF1と結合することで、標的遺伝子の転写活性が行なわれる。
+[哺乳類](https://ja.wikipedia.org/wiki/哺乳類 "wikilink")においては現在5種類の[リガンド](../Page/リガンド.md "wikilink")と4種類の受容体が発見されている。Notchの受容体は一回膜貫通型受容体である。Notchの受容体にリガンドが結合すると細胞表面のNotchタンパクはある[プロテアーゼ](../Page/プロテアーゼ.md "wikilink")に切断されて、細胞内ドメインが細胞質へ遊離して核内のCBF1と結合することで、標的遺伝子の転写活性が行なわれる。
 
 興味深い事に、Notchシグナリング経路は[青春期](https://ja.wikipedia.org/wiki/青春期 "wikilink")に達すると新しい細胞の成長を抑制し、[成人](https://ja.wikipedia.org/wiki/成人 "wikilink")では[神経](https://ja.wikipedia.org/wiki/神経 "wikilink")ネットワークを安定にする。
 
@@ -13,9 +13,9 @@
 
 ## 仕組み
 
-Notch 受容体は細胞膜を貫通しており細胞外ドメインと細胞内ドメインとに分かれている。 [リガンド](https://ja.wikipedia.org/wiki/リガンド "wikilink")タンパクが細胞外ドメインに結合することでタンパク質分解酵素が活性化され細胞内ドメインの切断が起こる。 その千切れた細胞内ドメインそのものが核へ移行し遺伝子発現を調節する。 受容体と[リガンド](https://ja.wikipedia.org/wiki/リガンド "wikilink")との相互作用は一般的に細胞間での接触により引き起こされ、その作用は細胞集団の構成に大いに役立つ。 たとえば一つの細胞がある性質を発現した場合、Notchシグナリングを介し、近隣細胞においてその発現は抑えられることとなる。 このようにして細胞集団は互いに影響し合い大きな構造を形成する。したがってこの[側抑制](https://ja.wikipedia.org/wiki/側抑制 "wikilink")の仕組みはNotchシグナリングの鍵と言える。
+Notch 受容体は細胞膜を貫通しており細胞外ドメインと細胞内ドメインとに分かれている。 [リガンド](../Page/リガンド.md "wikilink")タンパクが細胞外ドメインに結合することでタンパク質分解酵素が活性化され細胞内ドメインの切断が起こる。 その千切れた細胞内ドメインそのものが核へ移行し遺伝子発現を調節する。 受容体と[リガンド](../Page/リガンド.md "wikilink")との相互作用は一般的に細胞間での接触により引き起こされ、その作用は細胞集団の構成に大いに役立つ。 たとえば一つの細胞がある性質を発現した場合、Notchシグナリングを介し、近隣細胞においてその発現は抑えられることとなる。 このようにして細胞集団は互いに影響し合い大きな構造を形成する。したがってこの[側抑制](https://ja.wikipedia.org/wiki/側抑制 "wikilink")の仕組みはNotchシグナリングの鍵と言える。
 
-細胞内ドメインが核へ移行しNotchシグナリングを伝達するのと同様に、Notchシグナリングの伝達にはNotchとその[リガンド](https://ja.wikipedia.org/wiki/リガンド "wikilink")によっても構成される。
+細胞内ドメインが核へ移行しNotchシグナリングを伝達するのと同様に、Notchシグナリングの伝達にはNotchとその[リガンド](../Page/リガンド.md "wikilink")によっても構成される。
 
 ## 機能
 

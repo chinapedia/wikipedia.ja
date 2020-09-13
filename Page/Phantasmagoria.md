@@ -1218,7 +1218,7 @@ LIMITED REVIVAL DISC:2008<br />
 
 **メンバーの公式サイト**
 
-  - <small>KISAKI</small> [<http://kisaki-official.syncl.jp>](http://kisaki-official.syncl.jp/)
+  - <small>KISAKI</small>
 
 [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:プログレッシブ・メタル・バンド](https://ja.wikipedia.org/wiki/Category:プログレッシブ・メタル・バンド "wikilink") [Category:メタルコア・バンド](https://ja.wikipedia.org/wiki/Category:メタルコア・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink") [Category:2010年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2010年に解散した音楽グループ "wikilink")
 

@@ -1,7 +1,7 @@
 > この記事は[AWOL -Absent Without Leave-](https://ja.wikipedia.org/wiki/AWOL_-Absent_Without_Leave-)から翻訳されています。
 
 
-『**AWOL -Absent Without Leave-**』（エイウォール -アブセント ウィズアウト リーブ-）は、[スタジオディーン](../Page/スタジオディーン.md "wikilink")制作の日本の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。1998年1月7日から同年4月1日まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で毎週[水曜](../Page/水曜日.md "wikilink")25時45分から26時15分に放送。全12話。
+『**AWOL -Absent Without Lisence-**』（エイウォール -アブセント ウィズアウト ライセンス-）は、[スタジオディーン](../Page/スタジオディーン.md "wikilink")制作の日本の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。1998年1月7日から同年4月1日まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で毎週[水曜](../Page/水曜日.md "wikilink")25時45分から26時15分に放送。全12話。
 
 ## 作品概要
 

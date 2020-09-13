@@ -11,7 +11,7 @@
 
 ## 影響
 
-商業的に大成功とは言い難いが、Mark-8は*Popular Electronics*誌の編集者に刺激を与え、もっと使いやすいマイクロコンピュータのプロジェクトを立ち上げて記事にすることになった。そして、とうとう翌年の1月、[Altair 8800を発表した](../Page/Altair_8800.md "wikilink")\[3\]。
+Mark-8は商業的に大成功とは言いがたいが、ライバル誌である『[ポピュラーエレクトロニクス](https://ja.wikipedia.org/wiki/ポピュラーエレクトロニクス "wikilink")』誌の編集者が刺激を受け、同種の、しかしより使いやすいマイクロコンピュータを記事にすることを検討した。その結果、わずか半年後の1975年の1月、同誌上で[MITS社の](../Page/Micro_Instrumentation_and_Telemetry_Systems.md "wikilink")[Altair 8800が発表された](../Page/Altair_8800.md "wikilink")\[3\]。
 
 ## 脚注・出典
 

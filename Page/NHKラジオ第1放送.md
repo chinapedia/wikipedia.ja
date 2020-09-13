@@ -33,7 +33,7 @@
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")までは、ニュース（ローカルニュース）の終了時に、「○○がお伝えしました、時刻は××時△△分になります、NHK」（「エヌ・エイチ・ケイ」と区切った形でいうことが多い）とアナウンスが入っていた。[1993年](../Page/1993年.md "wikilink")の春頃までは全国ニュースからローカルニュースに切り替わるときに「ポーン」（人によっては「コーン」にも聞こえていた）というチャイムを鳴らしていた。これは聴取者からの提案で採用されたものである\[10\]。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月31日から平日正午のオープニングで[ジングルを採用し](https://ja.wikipedia.org/wiki/ジングル_\(ラジオ\) "wikilink")、[2009年](../Page/2009年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")からは、平日午前7時にも採用。2012年4月からは毎日7時・正午・19時のニュースで開始時（土日祝19時は2013年10月から）と番組途中にジングルを流すようになった\[11\]\[12\]。、[2015年](../Page/2015年.md "wikilink")3月30日からは、毎日午前6時にも採用。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月31日から平日正午のオープニングで[ジングルを採用し](https://ja.wikipedia.org/wiki/ジングル_\(ラジオ\) "wikilink")、[2009年](../Page/2009年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")からは、平日午前7時にも採用。2012年4月からは毎日7時・正午・19時のニュースで開始時（土日祝19時は2013年10月から）と番組途中にジングルを流すようになった\[11\]\[12\]。また、[2015年](../Page/2015年.md "wikilink")3月30日からは、毎日午前6時にも採用されている。
 
 スポーツ中継（プロ野球・高校野球・大相撲・駅伝など）は試合の展開によってニュースの開始時間がずれる場合がある。年末年始の15時・22時・0時・1時は5分間、12時（正午）は10分間に短縮する場合がある。大晦日の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")・[ゆく年くる年](../Page/ゆく年くる年.md "wikilink")の放送時間中は1部と2部の間のニュースのみ放送。新春最初のニュースはゆく年くる年終了後（概ね元日0:45-1:00）に放送。
 
@@ -55,7 +55,7 @@
 
 [1988年](../Page/1988年.md "wikilink")から[1989年](../Page/1989年.md "wikilink")にかけて、[昭和天皇](../Page/昭和天皇.md "wikilink")の病状を伝えるための終夜放送を実施した際、この時間の大半で[クラシック音楽](../Page/クラシック音楽.md "wikilink")を流した。この反響を受け、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")4月から試験的に『特集・[ラジオ深夜便](../Page/ラジオ深夜便.md "wikilink")』と題して深夜の放送をスタートさせた。
 
-リスナーからの好評以外にも、深夜時間帯の[地震](../Page/地震.md "wikilink")や[津波](https://ja.wikipedia.org/wiki/津波 "wikilink")、あるいは内外での突発的な事態への迅速な対応を行う目的も兼ねて、[1992年](../Page/1992年.md "wikilink")4月から正式にレギュラー化され<ref>それに先だって1990年10月より週末（金曜・土曜・日曜の深夜から翌曜日早朝）のみ終夜放送化。
+リスナーからの好評以外にも、深夜時間帯の[地震](../Page/地震.md "wikilink")や[津波](https://ja.wikipedia.org/wiki/津波 "wikilink")、あるいは内外での突発的な事態への迅速な対応を行う目的も兼ねて、[1992年](../Page/1992年.md "wikilink")4月から正式にレギュラー化され<ref group="注釈">それに先だって1990年10月より週末（金曜・土曜・日曜の深夜から翌曜日早朝）のみ終夜放送化。
 
 [1991年](../Page/1991年.md "wikilink")は更に終夜放送の回数が増やされ、月末以外の月曜から木曜深夜の放送も拡大。なお[NHKサービスセンター](../Page/NHKサービスセンター.md "wikilink")発行の『[ラジオ深夜便](../Page/ラジオ深夜便.md "wikilink")年鑑2010』に掲載されている年表では「[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")4月から深夜便を定時放送化」と掲載されている他、[1994年](../Page/1994年.md "wikilink")度までのNHK番組表においても、0時から5時まで「随時深夜便を編成」という件が掲載されていた。</ref>、[メンテナンス](../Page/メンテナンス.md "wikilink")（送信機器、放送設備点検）実施日以外は午前5:00を1日の基点とした24時間放送となる。これはNHKの[地上波](../Page/地上波.md "wikilink")放送としてはラジオ・テレビを通して初めてのことであった。
 
@@ -65,7 +65,7 @@
 
 [関東広域圏](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・[中京広域圏](../Page/東海3県.md "wikilink")・[近畿広域圏](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")（[大津を除く](../Page/NHK大津放送局.md "wikilink")）の15都府県で[広域放送](../Page/広域放送.md "wikilink")、それ以外の32道県で[県域放送](../Page/県域放送.md "wikilink")を行っている。2011年[9月1日](../Page/9月1日.md "wikilink")からは、NHK独自展開の[IPサイマルラジオサービス](https://ja.wikipedia.org/wiki/ネットラジオ "wikilink")「[らじる★らじる](https://ja.wikipedia.org/wiki/NHKネットラジオ_らじる★らじる "wikilink")」のサービス開始に伴い、2017年10月2日からは民放サイマル配信サービス「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")」（[2017年](../Page/2017年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")正午頃から[2018年](../Page/2018年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")までの[第1次実験配信（一部地域限定）](https://ja.wikipedia.org/wiki/radiko#NHKラジオの実験配信 "wikilink")\[13\] と、2018年4月12日以降の第2次実験配信（全国配信）\[14\]\[15\] を経て、2019年4月1日より正式サービス開始\[16\]\[17\]）も加わり、インターネット経由でもFM放送や[NHKワールド・ラジオ日本](../Page/NHKワールド・ラジオ日本.md "wikilink")（NHKの[国際放送](../Page/国際放送.md "wikilink")）の[衛星ラジオと同等の高音質で聞くことができるようになった](../Page/BSデジタル音声放送.md "wikilink")。
 
-[空中線電力](../Page/空中線電力.md "wikilink")（出力）は、基本的に地元民放と同等またはそれ以上である。例えば関東広域圏の場合民放（[TBSラジオ](../Page/TBSラジオ.md "wikilink")・[文化放送](../Page/文化放送.md "wikilink")・[ニッポン放送](../Page/ニッポン放送.md "wikilink")）は100[kWに対し](https://ja.wikipedia.org/wiki/キロワット "wikilink")、NHK東京第1放送は300kWで送信されている。他方、[岡山](../Page/NHK岡山放送局.md "wikilink")・[鹿児島は第](../Page/NHK鹿児島放送局.md "wikilink")1放送より地元民放（[山陽放送](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink")・[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")）の方が大出力である（[NHK岡山 5kW](../Page/NHK錦ラジオ放送所.md "wikilink") / [RSK 10kW](../Page/山陽放送吉備ラジオ送信所.md "wikilink")・[NHK鹿児島 10kW / MBC 20kW](../Page/隼人ラジオ放送所.md "wikilink")）。
+[空中線電力](../Page/空中線電力.md "wikilink")（出力）は、基本的に地元民放と同等またはそれ以上である。例えば関東広域圏の場合民放（[TBSラジオ](../Page/TBSラジオ.md "wikilink")・[文化放送](../Page/文化放送.md "wikilink")・[ニッポン放送](../Page/ニッポン放送.md "wikilink")）は100[kWに対し](https://ja.wikipedia.org/wiki/キロワット "wikilink")、NHK東京第1放送は300kWで送信されている。他方、[岡山](../Page/NHK岡山放送局.md "wikilink")・[鹿児島は第](../Page/NHK鹿児島放送局.md "wikilink")1放送より地元民放（[RSK山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")・[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")）の方が大出力である（[NHK岡山 5kW](../Page/NHK錦ラジオ放送所.md "wikilink") / [RSK 10kW](../Page/山陽放送吉備ラジオ送信所.md "wikilink")・[NHK鹿児島 10kW / MBC 20kW](../Page/隼人ラジオ放送所.md "wikilink")）。
 
 埼玉県と東京都以外の関東地方と、奈良県には中継局を含めた[送信所](../Page/送信所.md "wikilink")がない。また岐阜県・三重県・京都府・兵庫県・和歌山県については府県庁所在地には送信所がないが、それ以外の場所に中継局（岐阜・三重は名古屋放送局、京都・兵庫・和歌山は大阪放送局傘下）がある。
 
@@ -501,6 +501,10 @@ FMおよび国際放送との同時放送中に全国一斉放送の割り込み
   - [京都](../Page/NHK京都放送局.md "wikilink")（JOOK　621 kHz・1 kW）：1932年6月24日 - 2015年2月2日（大阪の大電力化による放送エリア重複と、送信所を置いていた京都放送会館移転のため）
 
 ## 脚注
+
+### 注釈
+
+### 出典
 
 ## 関連項目
 

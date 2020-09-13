@@ -104,7 +104,7 @@
 ## 外部リンク
 
   - [KPOキリンプラザ大阪](http://www.kirin.co.jp/active/art/kpo/index.html)
-  - [KPOキリンプラザ大阪](http://web.archive.org/web/*/http://www.kirin.co.jp/active/art/kpo/) - [インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")
+  - [KPOキリンプラザ大阪](https://web.archive.org/web/*/http://www.kirin.co.jp/active/art/kpo/) - [インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")
   - [キリンプラザ大阪](http://www.takamatsu.co.jp/projects/details.php?id=74) - 高松伸建築設計事務所
 
 [Category:現存しない大阪府の建築物](https://ja.wikipedia.org/wiki/Category:現存しない大阪府の建築物 "wikilink") [Category:1987年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:1987年竣工の日本の建築物 "wikilink") [Category:1987年開業の施設](https://ja.wikipedia.org/wiki/Category:1987年開業の施設 "wikilink") [Category:モダニズム建築](https://ja.wikipedia.org/wiki/Category:モダニズム建築 "wikilink") [Category:日本建築学会賞](https://ja.wikipedia.org/wiki/Category:日本建築学会賞 "wikilink") [Category:キリングループの歴史](https://ja.wikipedia.org/wiki/Category:キリングループの歴史 "wikilink") [Category:大阪市中央区の歴史](https://ja.wikipedia.org/wiki/Category:大阪市中央区の歴史 "wikilink") [Category:大阪市の美術館](https://ja.wikipedia.org/wiki/Category:大阪市の美術館 "wikilink") [Category:日本の現代美術館とギャラリー](https://ja.wikipedia.org/wiki/Category:日本の現代美術館とギャラリー "wikilink") [Category:大阪市中央区の建築物](https://ja.wikipedia.org/wiki/Category:大阪市中央区の建築物 "wikilink") [Category:2007年廃止の施設](https://ja.wikipedia.org/wiki/Category:2007年廃止の施設 "wikilink") [Category:2008年解体の建築物](https://ja.wikipedia.org/wiki/Category:2008年解体の建築物 "wikilink")

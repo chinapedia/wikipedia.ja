@@ -1,13 +1,13 @@
 > この記事は[BaBe](https://ja.wikipedia.org/wiki/BaBe)から翻訳されています。
 
 
-**BaBe**（ベイブ）は、[1980年代](../Page/1980年代.md "wikilink")後半に活動した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[デュオ](../Page/デュオ.md "wikilink")、[タレント](../Page/タレント.md "wikilink")である。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に、当時流行だった[ユーロビート](../Page/ユーロビート.md "wikilink")のカバー曲「Give Me Up」でデビュー。激しい[ダンス](../Page/ダンス.md "wikilink")を踊りながら歌うスタイルで人気を得た。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")に解散。表記は "BaBe" が正しく、"Babe"、"BABE" は誤り。[片仮名](../Page/片仮名.md "wikilink")表記は、2ndシングルまでは「ベイヴ」と表記されていた。活動当時の所属事務所は[エスワン・カンパニー](https://ja.wikipedia.org/wiki/エスワン・カンパニー "wikilink")\[1\]。前身ユニットは「**ハートブレイカーズ**」。
+**BaBe**（ベイブ）は、[1980年代](../Page/1980年代.md "wikilink")後半に活動した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[デュオ](../Page/デュオ.md "wikilink")、[タレント](../Page/タレント.md "wikilink")である。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に、当時流行だった[ユーロビート](../Page/ユーロビート.md "wikilink")のカバー曲「Give Me Up」でデビュー。激しい[ダンス](../Page/ダンス.md "wikilink")を踊りながら歌うスタイルで人気を得た。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")に解散。表記は "BaBe" が正しく、"Babe"、"BABE" は誤り。[片仮名](../Page/片仮名.md "wikilink")表記は、2ndシングルまでは「ベイヴ」と表記されていた。活動当時の所属事務所は[エスワン・カンパニー](https://ja.wikipedia.org/wiki/エスワン・カンパニー "wikilink")\[1\]。別名義：**[Vis-à-Vis](https://ja.wikipedia.org/wiki/#Vis-à-Vis名義_プロモ7inch/12inchシングル "wikilink")**（ヴィザヴィ）。前身ユニット：**ハートブレイカーズ**。
 
 ## メンバー
 
   - **近藤智子**（こんどう ともこ、[1966年](../Page/1966年.md "wikilink")[2月17日](../Page/2月17日.md "wikilink") - ）
       -
-        [東京都](../Page/東京都.md "wikilink")[狛江市](../Page/狛江市.md "wikilink")生まれ。[調布市](../Page/調布市.md "wikilink")、および[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")[高津区](../Page/高津区.md "wikilink")育ち\[2\]。[愛称](../Page/愛称.md "wikilink")：智ちゃん、こんちゃん\[3\]。身長：160.2cm、[B](../Page/バスト.md "wikilink")：81cm、[W](../Page/ウエスト.md "wikilink")：59cm、[H](../Page/尻.md "wikilink")：85cm（1987年当時）\[4\]。[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：O型\[5\]。
+        [東京都](../Page/東京都.md "wikilink")[狛江市](../Page/狛江市.md "wikilink")生まれ。[調布市](../Page/調布市.md "wikilink")、および[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")[高津区](../Page/高津区.md "wikilink")育ち\[2\]。[愛称](../Page/愛称.md "wikilink")：智ちゃん、こんちゃん\[3\]。身長：160.2cm、[B](../Page/バスト.md "wikilink")：81cm、[W](../Page/ウエスト.md "wikilink")：59cm、[H](../Page/尻.md "wikilink")：85cm（1987年当時）\[4\]。[血液型](../Page/ABO式血液型.md "wikilink")：O型\[5\]。
         川崎市立西高津中学校、[橘女子高等学校卒業](../Page/橘学苑中学校・高等学校.md "wikilink")。
         部活は中学3年から[バスケットボール](../Page/バスケットボール.md "wikilink")部。高校入学後は[テニス](../Page/テニス.md "wikilink")部に入ったが3日で退部し、その後は[帰宅部](../Page/帰宅部.md "wikilink")\[6\]。
         [珠算検定](../Page/全国珠算教育連盟主催珠算検定.md "wikilink")5級の資格を持つ\[7\]。
@@ -47,18 +47,14 @@
 
 公式の解散イベントが何も無かったため、残されたファンたちが多数集い、「**さよならBaBe・ファンの集い**」が開催された（1990年3月11日・25日：東京、31日：大阪、4月1日：名古屋）。内容は、BaBeのビデオ鑑賞、BaBeへのメッセージの寄せ書き、カラオケ大会、グッズ交換会など。
 
-1990年8月に二階堂が第一子を出産。その後も子供をもうけ、計3人の子供を育てた。一方、近藤はしばらく[ソロ](https://ja.wikipedia.org/wiki/ソロ "wikilink")で活動。[斉藤満喜子](https://ja.wikipedia.org/wiki/斉藤満喜子 "wikilink")のプロデュースやラジオ出演、関西ローカルのテレビ出演などをしていたが、やがて近藤も結婚を機に芸能活動を引退した。
+1990年8月に二階堂が第一子を出産。その後も子供をもうけ、計3人の子供を育てた。一方、近藤はしばらく[ソロ](../Page/ソロ.md "wikilink")で活動。[斉藤満喜子](https://ja.wikipedia.org/wiki/斉藤満喜子 "wikilink")のプロデュースやラジオ出演、関西ローカルのテレビ出演などをしていたが、やがて近藤も結婚を機に芸能活動を引退した。
 
 ## エピソード
 
-  - 女性のファンが非常に多いグループだった。
-  - 専属バックバンドの名前は「ASH」。
   - 事務所の方針で、近藤と二階堂共に、デビューした時の年齢のプロフィールを2歳若く詐称していた\[20\]。また、給料は固定制で月7万円しか貰えなかったこともあり、2人ともアルバイトをしながら活動していた\[21\]。
   - 二階堂はデビュー前、[モスバーガー](../Page/モスバーガー.md "wikilink")\[22\]や、[すかいらーく](../Page/すかいらーく.md "wikilink")武蔵野西久保店でアルバイトをしていた\[23\]。武蔵野西久保店は、（株）すかいらーくの本部横に所在していたこともあり、人事部の目に留まり店舗ビデオマニュアル「welcomeすかいらーく」に出演している。二階堂が起用されたビデオマニュアルは1992年頃まで全国の店舗で使用された。一方、近藤は高校時代から[玉川高島屋](https://ja.wikipedia.org/wiki/玉川高島屋 "wikilink")\[24\]、[元禄寿司](https://ja.wikipedia.org/wiki/元禄寿司 "wikilink")、[東急ストア](../Page/東急ストア.md "wikilink")、レストランなど様々な所でアルバイトをしていた\[25\]。
   - 著名なダンサー兼[振付師](../Page/振付師.md "wikilink")として知られる五十嵐薫子（のちの[香瑠鼓](../Page/香瑠鼓.md "wikilink")）が、[石井明美](../Page/石井明美.md "wikilink")に次いで[振付](https://ja.wikipedia.org/wiki/振付 "wikilink")をしたのがBaBeである\[26\]。BaBeに本格的なダンスを教えるために、ジャズダンスのレッスンを受けさせた後に\[27\]、「Give Me Up」の振付を教えた\[28\]。しかし、そもそも二階堂と近藤はデビュー前にジャズダンススクールで出会っていて、ミュージカルにも出演した程度の基礎はあった（近藤は痩せたくて、ジャズダンススクールに通っていたと語っている）。香瑠鼓はその後、[Wink](../Page/Wink.md "wikilink")（[鈴木早智子](../Page/鈴木早智子.md "wikilink")・[相田翔子](https://ja.wikipedia.org/wiki/相田翔子 "wikilink")）の振付も担当している\[29\]。
   - その風貌から、近藤は「[富田靖子](../Page/富田靖子.md "wikilink")のNG」、二階堂は「[クロマティに似ている](../Page/ウォーレン・クロマティ.md "wikilink")」と言われたことがあった\[30\]。
-  - 1987年10月31日の[北九州大学](https://ja.wikipedia.org/wiki/北九州大学 "wikilink")での学園祭では近藤が体調不良のため、二階堂単独でコンサートを行った。最初は盛り上がらず「もっと乗ってください」の発言もあったが、最後は全員総立ちになり、こらえきれず泣きながら歌った。
-  - 1988年に[三重県立四日市工業高等学校](../Page/三重県立四日市工業高等学校.md "wikilink")の学園祭に招かれてライブをした際、バラードを歌っているにもかかわらず生徒があまりにも騒がしくしていたため、BaBeの2人が怒り、ライブはそこで中止となった。
   - BaBeが解散する直前の1990年3月5日、[ニッポン放送](../Page/ニッポン放送.md "wikilink")のラジオ番組『[デーモン小暮のオールナイトニッポン](../Page/デーモン小暮のオールナイトニッポン.md "wikilink")』の、リスナーが意見を投稿するコーナー「悪魔で生ラジオ」にて、解散後の近藤を憂う「どうするどうなる BaBeの近藤」のテーマが取り扱われた。そして翌週の3月12日には近藤が緊急ゲスト出演し、今後の身の振り方を相談した。 なお、同ラジオ番組では、芸能人・著名人の変な言動を集めて競わせ、番付を付けていくコーナー「夜霧の横綱審議会」でも、1988年に近藤の発言が度々取り上げられ、その結果、近藤は「関脇」に認定された\[31\]。
   - [2017年](../Page/2017年.md "wikilink")7月11日、二階堂が、歌手デビューした長女の満月あいりと共に『[ノンストップ\!](https://ja.wikipedia.org/wiki/ノンストップ! "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）に出演し、27年ぶりにテレビに登場した\[32\]。二階堂は、前記の年齢詐称や低月給を補うためのアルバイトの件などを述べ、また、番組中に近藤へ電話をして、解散後も交流があることを語った\[33\]。
 
@@ -68,7 +64,7 @@
 
 1.  **[Give Me Up](../Page/Give_Me_Up.md "wikilink")**（1987年2月21日）- 作詞・作曲：Mario Nigro、[Pierre Nigro](../Page/マイケル・フォーチュナティ.md "wikilink")、M.De San Antonio / 日本語詞：[森雪之丞](../Page/森雪之丞.md "wikilink") / 編曲：[大村雅朗](../Page/大村雅朗.md "wikilink")
       -
-        c/w **They Don’t Know 〜哀しみは朝の雫のように〜** - 作詞・作曲：Kirsty MacColl / 日本語詞：森雪之丞 / 編曲：大村雅朗
+        c/w **They Don't Know 〜哀しみは朝の雫のように〜** - 作詞・作曲：Kirsty MacColl / 日本語詞：森雪之丞 / 編曲：大村雅朗
           -
             オリコン最高8位、売上12.7万枚。 A面曲は[フジテレビ系](../Page/フジネットワーク.md "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")『[あまえないでョ\!](../Page/あまえないでョ!.md "wikilink")』主題歌で、[マイケル・フォーチュナティ](../Page/マイケル・フォーチュナティ.md "wikilink")の同名曲のカバー。B面曲はカースティ・マッコールの1979年のデビュー曲で、1983年には[トレイシー・ウルマン](../Page/トレイシー・ウルマン.md "wikilink")もカバーした。
 2.  **[I Don't Know\!](../Page/I_Don't_Know!.md "wikilink")**（1987年5月2日）- 作詞：森雪之丞 / 作曲：[中崎英也](../Page/中崎英也.md "wikilink")/ 編曲：中崎英也・[杉山卓夫](https://ja.wikipedia.org/wiki/杉山卓夫 "wikilink")
@@ -88,9 +84,9 @@
             オリコン最高7位、売上6.2万枚。 A面曲は[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の歌手・サマンサ・ジルズとの競作で、フジテレビ系アニメ『[のらくろクン](../Page/のらくろクン.md "wikilink")』初代エンディングテーマ。PVではラッキィ池田、五十嵐薫子（のちの[香瑠鼓](../Page/香瑠鼓.md "wikilink")）、南潤子（のちの[南流石](../Page/南流石.md "wikilink")）らが共演。B面曲は同アニメの初代オープニングテーマ。なおサマンサの方のタイトル表記は「Hold Me」の後に「\!」マークが付かない。ちなみに発売年月日はポニーキャニオン発足（キャニオン・レコードとポニーが合併）当日。
 5.  **TONIGHT\!**（1988年1月21日）- 作詞：森雪之丞 / 作曲：[朝倉紀幸](https://ja.wikipedia.org/wiki/朝倉紀幸 "wikilink") / 編曲：大村雅朗
       -
-        c/w **It’s a Magic\!** - 作詞：森雪之丞 / 作曲：中崎英也 / 編曲：大村雅朗
+        c/w **It's a Magic\!** - 作詞：森雪之丞 / 作曲：中崎英也 / 編曲：大村雅朗
           -
-            オリコン最高7位、売上4.4万枚。 A面曲は[森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")「Hi-SOFT」のCMソング（CMには本人も出演）。
+            オリコン最高7位、売上4.4万枚。 A面曲は[森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")「Hi-SOFT」のCMソング（CMには本人も出演）。シングルのキャッチコピーは、「...Kimi wa Genki ...Kimi wa Mujaki ...Kimi wa Suteki ...and ...Kimi wa Lucky\!」。
 6.  **Get a Chance\!**（1988年5月11日）- 作詞：森雪之丞 / 作曲：中崎英也 / 編曲：[中村哲](https://ja.wikipedia.org/wiki/中村哲 "wikilink")
       -
         c/w **Best Friend** - 作詞：森雪之丞 / 作曲：[山口美央子](https://ja.wikipedia.org/wiki/山口美央子 "wikilink") / 編曲：大村雅朗
@@ -107,11 +103,23 @@
           -
             オリコン最高37位、売上1.4万枚。 A面曲は『[国際スポーツフェア](https://ja.wikipedia.org/wiki/国際スポーツフェア "wikilink")'89』のテーマソングで、歌詞の内容は2人のデビュー前の状況・心境を基にして作られている。 作曲者のMAYUMIは、元[女優](https://ja.wikipedia.org/wiki/女優 "wikilink")の[堀川まゆみ](../Page/堀川まゆみ.md "wikilink")。 なお、A面曲のサビの部分のメロディは、[富田靖子](../Page/富田靖子.md "wikilink")のシングル曲『悲しきチェイサー』（1987年10月21日発売、作曲：[渡辺博也](https://ja.wikipedia.org/wiki/渡辺博也 "wikilink")）のAメロからBメロに差し掛かる部分のメロディと全く同じである。
 
-### 非売品プロモ12inchシングル
+### 非売品
+
+#### BaBe プロモ12inchシングル
 
   - Hold Me\!（EXTENDED DANCE VERSION）（1987年）
       -
         B面曲は競作アーティストであるサマンサ・ジルズの『Hold Me（SPECIAL EXTENDED VERSION）』。
+
+#### BaBe カセットテープ
+
+  - Chance Once Again 〜ハッピーエンドは、もう少し〜（大阪「ひらかたパーク」のCMソング）
+
+#### Vis-à-Vis名義 プロモ7inch/12inchシングル
+
+  - It's So Wonderful（You're The Part Of Mine）（Extended Med. Club Mix）　c/w　Love In The First Degree（1988年）
+      -
+        B面曲はアルバム『Fight\!』にも収録されている楽曲だが、A面曲の方は元々、BaBeのアルバム用に録音されたが、収録から漏れた楽曲。それを1988年の夏にDJリミックスチーム「[M.I.D（Mixs International DJ）](https://ja.wikipedia.org/wiki/Mixs_International_DJ "wikilink")」の丸本修がFMラジオ番組のオンエア用ソースとしてRemixし、「**BABY-SITTERS LIMITED**」と銘打たれ、BaBeではなく「**Vis-à-Vis**（ヴィザヴィ）」名義で、xyz recordsから7inchレコードと12inchレコードの2種でプロモーショナルオンリーでアナログプレスされた。なお、7inchと12inchとではそれぞれエディットが異なっている。[大村雅朗](../Page/大村雅朗.md "wikilink")がアレンジし、バックコーラスには女性バックダンサーチーム「[Dee-Dee](https://ja.wikipedia.org/wiki/Dee-Dee "wikilink")」の元メンバー、キャリアン（Carrie Ann）が参加している。
 
 ### オリジナルアルバム
 
@@ -682,111 +690,118 @@
 <td><p><strong>優秀新人賞</strong>。</p></td>
 </tr>
 <tr class="odd">
+<td><p>1987.07.04 (土) 深夜</p></td>
+<td><p><a href="../Page/オールナイトフジ.md" title="wikilink">オールナイトフジ</a></p></td>
+<td><p>フジテレビ</p></td>
+<td><p>Give Me UP / I Don't Know! / Somebody Loves You</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>1987.07.05 (日)</p></td>
-<td><p>全日本有線放送大賞・上半期グランプリ決定</p></td>
+<td><p>第20回全日本有線放送大賞・上半期グランプリ決定</p></td>
 <td><p><a href="../Page/讀賣テレビ放送.md" title="wikilink">読売テレビ</a>・日本テレビ</p></td>
 <td><p>I Don't Know!</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1987.07.05 (日)[60]</p></td>
 <td><p>ヤングスタジオ101[61]</p></td>
 <td><p>NHK総合</p></td>
 <td><p>I Don't Know!</p></td>
 <td><p>NHK衛星第2では7月12日(日)放送[62]。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1987.07.19 (日)</p></td>
 <td><p>ロッテ 歌のアルバムNOW</p></td>
 <td><p>TBS</p></td>
-<td><p>Somebody Loves You 〜明日の恋人〜</p></td>
+<td><p>Somebody Loves You</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1987.07.19 (日)</p></td>
 <td><p>ヤンヤン歌うスタジオ</p></td>
 <td><p>テレビ東京</p></td>
 <td><p>I Don't Know!</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1987.08.02 (日)[63]</p></td>
 <td><p>ヤングスタジオ101[64]</p></td>
 <td><p>NHK総合</p></td>
-<td><p>Somebody Loves You 〜明日の恋人〜</p></td>
+<td><p>Somebody Loves You</p></td>
 <td><p>NHK衛星第2では8月9日(日)放送[65]。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1987.08.05 (水)</p></td>
 <td><p>夜のヒットスタジオDELUXE</p></td>
 <td><p>フジテレビ</p></td>
-<td><p>Somebody Loves You 〜明日の恋人〜</p></td>
+<td><p>Somebody Loves You</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1987.08.06 (木)</p></td>
 <td><p>ザ・ベストテン</p></td>
 <td><p>TBS</p></td>
-<td><p>Somebody Loves You 〜明日の恋人〜[66]</p></td>
+<td><p>Somebody Loves You[66]</p></td>
 <td><p>第7位[67]。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1987.08.07 (金)[68]</p></td>
 <td><p>ミュージックステーション[69]</p></td>
 <td><p>テレビ朝日</p></td>
-<td><p>Somebody Loves You 〜明日の恋人〜[70]</p></td>
+<td><p>Somebody Loves You[70]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1987.08.10 (月)</p></td>
 <td><p>歌のトップテン</p></td>
 <td><p>日本テレビ</p></td>
-<td><p>Somebody Loves You 〜明日の恋人〜</p></td>
+<td><p>Somebody Loves You</p></td>
 <td><p>第5位。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1987.08.13 (木)</p></td>
 <td><p>ザ・ベストテン</p></td>
 <td><p>TBS</p></td>
-<td><p>Somebody Loves You 〜明日の恋人〜[71]</p></td>
+<td><p>Somebody Loves You[71]</p></td>
 <td><p>第6位[72]。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1987.08.17 (月)</p></td>
 <td><p>歌のトップテン</p></td>
 <td><p>日本テレビ</p></td>
-<td><p>Somebody Loves You 〜明日の恋人〜</p></td>
+<td><p>Somebody Loves You</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1987.08.20 (木)</p></td>
 <td><p>ザ・ベストテン</p></td>
 <td><p>TBS</p></td>
-<td><p>Somebody Loves You 〜明日の恋人〜[73]</p></td>
+<td><p>Somebody Loves You[73]</p></td>
 <td><p>第7位[74]。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1987.08.30 (日)</p></td>
 <td><p><a href="../Page/歌謡びんびんハウス.md" title="wikilink">歌謡びんびんハウス</a></p></td>
 <td><p>テレビ朝日</p></td>
-<td><p>Somebody Loves You 〜明日の恋人〜</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1987.09.03 (木)</p></td>
-<td><p><a href="../Page/日本テレビ音楽祭.md" title="wikilink">日本テレビ音楽祭</a></p></td>
-<td><p>日本テレビ</p></td>
-<td><p>Somebody Loves You 〜明日の恋人〜</p></td>
+<td><p>Somebody Loves You</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>1987.09.13 (日)</p></td>
-<td><p>ロッテ 歌のアルバムNOW</p></td>
-<td><p>TBS</p></td>
-<td><p>Somebody Loves You 〜明日の恋人〜</p></td>
+<td><p>1987.09.03 (木)</p></td>
+<td><p><a href="../Page/日本テレビ音楽祭.md" title="wikilink">日本テレビ音楽祭</a></p></td>
+<td><p>日本テレビ</p></td>
+<td><p>Somebody Loves You</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>1987.09.13 (日)</p></td>
+<td><p>ロッテ 歌のアルバムNOW</p></td>
+<td><p>TBS</p></td>
+<td><p>Somebody Loves You</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>1987.09.23 (水)</p></td>
 <td><p><a href="../Page/ヤング歌謡大賞・新人グランプリ.md" title="wikilink">ヤング歌謡大賞'87新人グランプリ</a></p></td>
 <td><p><a href="../Page/朝日放送テレビ.md" title="wikilink">朝日放送</a>・<br />
@@ -794,143 +809,150 @@
 <td><p>I Don't Know!</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1987.09.27 (日)[75]</p></td>
 <td><p>ヤングスタジオ101[76]</p></td>
 <td><p>NHK総合</p></td>
-<td><p>Somebody Loves You ～明日の恋人～</p></td>
+<td><p>Somebody Loves You</p></td>
 <td><p>NHK衛星第2では10月3日(土)放送[77]。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1987.10.01 (木)</p></td>
 <td><p>アナウンサーぷっつん物語スペシャル</p></td>
 <td><p>フジテレビ</p></td>
 <td><p>I Don't Know!</p></td>
 <td><p>エンディングで歌唱。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1987.10.16 (金)</p></td>
 <td><p>全日本歌謡音楽祭</p></td>
 <td><p>テレビ朝日</p></td>
 <td><p>I Don't Know!</p></td>
 <td><p><strong>新人奨励賞</strong>。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1987.10.17 (土)</p></td>
 <td><p>第17回銀座音楽祭</p></td>
 <td><p>フジテレビ</p></td>
 <td><p>I Don't Know!</p></td>
 <td><p><strong>最優秀新人賞</strong>。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1987.10.28 (水)</p></td>
 <td><p>夜のヒットスタジオDELUXE</p></td>
 <td><p>フジテレビ</p></td>
 <td><p>Hold Me!</p></td>
 <td><p>競作歌手のサマンサ・ジルズがBaBeの応援として出演。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1987.10.30 (金)</p></td>
 <td><p>輝け!第18回日本歌謡大賞</p></td>
 <td><p>フジテレビ</p></td>
 <td><p>I Don't Know!</p></td>
 <td><p><strong>放送音楽新人賞</strong>。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1987.11.16 (月)</p></td>
 <td><p>歌のトップテン</p></td>
 <td><p>日本テレビ</p></td>
 <td><p>Hold Me!</p></td>
 <td><p>第10位。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1987.11.22 (日)</p></td>
 <td><p><a href="../Page/スーパージョッキー.md" title="wikilink">スーパーJOCKEY</a></p></td>
 <td><p>日本テレビ</p></td>
 <td><p>Hold Me!</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1987.11.22 (日)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/歌え!アイドルどーむ" title="wikilink">歌え!アイドルどーむ</a></p></td>
 <td><p>テレビ東京</p></td>
 <td><p>Hold Me!</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1987.11.25 (水)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/第29回日本レコード大賞" title="wikilink">第29回速報!日本レコード大賞</a></p></td>
 <td><p>TBS</p></td>
 <td><p>I Don't Know!</p></td>
 <td><p><strong>新人賞</strong>[78]。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1987.11.27 (金)[79]</p></td>
 <td><p>ミュージックステーション[80]</p></td>
 <td><p>テレビ朝日</p></td>
 <td><p>Hold Me![81]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1987.12.04 (金)</p></td>
 <td><p>発表</p></td>
 <td><p>第20回日本有線大賞</p></td>
 <td><p>TBS</p></td>
 <td><p>I Don't Know!</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1987.12.04 (金)</p></td>
 <td><p><a href="../Page/だぅもありがと!.md" title="wikilink">だぅもありがと!</a></p></td>
 <td><p>テレビ朝日</p></td>
 <td><p>Hold Me!</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1987.12.10 (木)</p></td>
 <td><p>第20回全日本有線放送大賞</p></td>
 <td><p>読売テレビ・日本テレビ</p></td>
 <td><p>I Don't Know!</p></td>
 <td><p><strong>新人賞</strong>。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1987.12.13 (日)[82]</p></td>
 <td><p>ヤングスタジオ101[83]</p></td>
 <td><p>NHK総合</p></td>
 <td><p>No No Darling!</p></td>
 <td><p>NHK衛星第2では12月26日(土)放送[84]。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1987.12.15 (火)</p></td>
 <td><p>FNS歌謡祭'87</p></td>
 <td><p>フジテレビ</p></td>
 <td><p>I Don't Know!</p></td>
 <td><p><strong>最優秀新人賞</strong>。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1987.12.27 (日)</p></td>
 <td><p>歌謡びんびんハウス</p></td>
 <td><p>テレビ朝日</p></td>
 <td><p>Hold Me!</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1988.01.03 (日)</p></td>
 <td><p><a href="../Page/美少女学園.md" title="wikilink">美少女学園</a></p></td>
 <td><p>テレビ朝日</p></td>
 <td><p>Hold Me!</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1988.01.17 (日)</p></td>
 <td><p>スーパーJOCKEY</p></td>
 <td><p>日本テレビ</p></td>
 <td><p>TONIGHT!</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1988.01.20 (水)</p></td>
 <td><p>夜のヒットスタジオDELUXE</p></td>
 <td><p>フジテレビ</p></td>
+<td><p>TONIGHT!</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1988.01.22 (金)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/DOKI・DOKI・DO!" title="wikilink">DOKI・DOKI・DO!</a></p></td>
+<td><p>日本テレビ</p></td>
 <td><p>TONIGHT!</p></td>
 <td></td>
 </tr>
@@ -1251,7 +1273,7 @@
 </tr>
 <tr class="even">
 <td><p>1989.04.08 (土) 深夜</p></td>
-<td><p><a href="../Page/オールナイトフジ.md" title="wikilink">オールナイトフジ</a></p></td>
+<td><p>オールナイトフジ</p></td>
 <td><p>フジテレビ</p></td>
 <td><p>She has a dream ほか</p></td>
 <td></td>
@@ -1322,7 +1344,7 @@
 ### ラジオ番組
 
   - カモン・BaBeのハローボーイ夢工場（[ニッポン放送](../Page/ニッポン放送.md "wikilink")） - [嘉門達夫](https://ja.wikipedia.org/wiki/嘉門達夫 "wikilink")との番組
-  - じゃじゃ馬BaBeのハロームービー（ニッポン放送）
+  - [ジャジャ馬BaBeのハロームービー](../Page/ジャジャ馬BaBeのハロームービー.md "wikilink")（ニッポン放送）
   - [ABC東京発 アーチストNOW](../Page/ABC東京発_アーチストNOW.md "wikilink")（[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")、1988年4月 - ） - [パール兄弟](../Page/パール兄弟.md "wikilink")の[サエキけんぞう](../Page/サエキけんぞう.md "wikilink")と共に水曜レギュラー
   - Lo-Dライブコンサート（1988年5月28日、[エフエム東京](../Page/エフエム東京.md "wikilink")） - [麹町](../Page/麹町.md "wikilink")の[エフエム東京ホール](https://ja.wikipedia.org/wiki/TOKYO_FM_HALL "wikilink")（キャパ350人）での公開生放送ライブ。司会：[井上堯之](../Page/井上堯之.md "wikilink")、田中美登里。
   - [デーモン小暮のオールナイトニッポン](../Page/デーモン小暮のオールナイトニッポン.md "wikilink")（ニッポン放送）
@@ -1425,7 +1447,7 @@
 
   - [Brand-new Generations BBS](http://brand-new.bbs.fc2.com/) - ファンBBS
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:1987年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1987年に結成した音楽グループ "wikilink") [Category:1990年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1990年に解散した音楽グループ "wikilink")
+[Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:1987年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1987年に結成した音楽グループ "wikilink") [Category:1990年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1990年に解散した音楽グループ "wikilink")
 
 1.  『[週刊明星](../Page/週刊明星.md "wikilink")』1987年2月5日号p.20。
 2.  『[明星](../Page/Myojo.md "wikilink")』1987年5月号p.228。

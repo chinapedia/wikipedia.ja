@@ -1,7 +1,7 @@
 > この記事は[IDT](https://ja.wikipedia.org/wiki/IDT)から翻訳されています。
 
 
-**Integrated Device Technology, Inc.**（**IDT**）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[半導体企業](../Page/半導体素子.md "wikilink")。本社は[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンノゼ](../Page/サンノゼ.md "wikilink")。通信・コンピュータ・一般向け機器などで使用する低消費電力で高性能なアナログ-デジタル混在半導体部品の設計と製造を行っている。主に[OEM](../Page/OEM.md "wikilink")製品を扱っている。1980年、通信・コンピュータ向けの[CMOS](../Page/CMOS.md "wikilink")製品メーカーとして創業。現在は、通信部門、コンピュータ部門、コンシューマ部門で構成されている。
+**Integrated Device Technology, Inc.**（**IDT**）は、かつて存在した[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[半導体企業](../Page/半導体素子.md "wikilink")。本社は[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンノゼ](../Page/サンノゼ.md "wikilink")。通信・コンピュータ・一般向け機器などで使用する低消費電力で高性能なアナログ-デジタル混在半導体部品の設計と製造を行っている。主に[OEM](../Page/OEM.md "wikilink")製品を扱っている。1980年、通信・コンピュータ向けの[CMOS](../Page/CMOS.md "wikilink")製品メーカーとして創業。現在は、通信部門、コンピュータ部門、コンシューマ部門で構成されている。2020年にルネサスエレクトロニクスに吸収合併された。
 
 ## 事業内容
 

@@ -1,13 +1,13 @@
 > この記事は[クリスタル・パレスFC](https://ja.wikipedia.org/wiki/クリスタル・パレスFC)から翻訳されています。
 
 
-**クリスタル・パレス・フットボール・クラブ**（）は、[イングランド](../Page/イングランド.md "wikilink")の首都[ロンドン](../Page/ロンドン.md "wikilink")南部をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。クラブカラーは[赤](../Page/赤.md "wikilink")と[青](../Page/青.md "wikilink")。愛称は**イーグルス**（Eagles）。
+**クリスタル・パレス・フットボール・クラブ**（）は、[イングランド](../Page/イングランド.md "wikilink")の首都[ロンドン](../Page/ロンドン.md "wikilink")南部をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。愛称は**イーグルス**（Eagles）。
 
 ## 概要
 
-1905年に創立。南ロンドン郊外に構える[セルハースト・パーク](https://ja.wikipedia.org/wiki/セルハースト・パーク "wikilink")（収容人数26,255人）を本拠に置く。以前はガラス職人を意味する “グレイザーズ” のニックネームで知られていたが、1970年代に当時の監督マルコム・アリソンのアイディアにより変更。ポルトガルの名門[ベンフィカにちなんで](../Page/SLベンフィカ.md "wikilink")、呼び名とエンブレムに[鷲](../Page/鷲.md "wikilink")（イーグル）を使用するようになった\[1\]。
+以前はガラス職人を意味する “グレイザーズ” のニックネームで知られていたが、1970年代に当時の監督マルコム・アリソンのアイディアにより変更。ポルトガルの名門[ベンフィカにちなんで](../Page/SLベンフィカ.md "wikilink")、呼び名とエンブレムに[鷲](../Page/鷲.md "wikilink")（イーグル）を使用するようになった\[1\]。
 
-最大のライバルは[ブライトン・アンド・ホーヴ・アルビオンFC](../Page/ブライトン・アンド・ホーヴ・アルビオンFC.md "wikilink")である。両者の対戦は、南ロンドンと[ブライトン](../Page/ブライトン.md "wikilink")を結ぶ道路から「M23ダービー」「A23ダービー」と呼ばれる。2013年には、[チャンピオンシップの昇格プレーオフにてダービーが実現した](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")。
+南ロンドン郊外の[セルハースト・パーク](https://ja.wikipedia.org/wiki/セルハースト・パーク "wikilink")をホームスタジアムに置く。最大のライバルは[ブライトン・アンド・ホーヴ・アルビオンFC](../Page/ブライトン・アンド・ホーヴ・アルビオンFC.md "wikilink")である。両者の対戦は南ロンドンと[ブライトン](../Page/ブライトン.md "wikilink")を結ぶ道路から「M23ダービー」「A23ダービー」と呼ばれる。2013年に[チャンピオンシップの昇格プレーオフにてダービーが実現した](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")。
 
 ## タイトル
 
@@ -73,7 +73,8 @@
 | 2016-17 | 38                                                                            | 12                                   | 5                                                               | 21                                                           | 50    |
 | 2017-18 | 38                                                                            | 11                                   | 11                                                              | 16                                                           | 45    |
 | 2018-19 | 38                                                                            | 14                                   | 7                                                               | 17                                                           | 51    |
-| 2019-20 | 38                                                                            |                                      |                                                                 |                                                              |       |
+| 2019-20 | 38                                                                            | 11                                   | 10                                                              | 17                                                           | 31    |
+| 2020-21 | 38                                                                            |                                      |                                                                 |                                                              |       |
 
 ## 現所属メンバー
 
@@ -85,9 +86,9 @@
 
 </div>
 
-  - 2020年1月10日現在\[2\]
+  - 2020年8月28日現在\[2\]
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Curaçao.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink")) ★      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cyprus.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Senegal.svg "wikilink"))
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Curaçao.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink")) ★       ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cyprus.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Senegal.svg "wikilink"))               ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Nigeria.svg "wikilink"))
 
 ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 

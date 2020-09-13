@@ -1,7 +1,7 @@
 > この記事は[EAST END×YURI](https://ja.wikipedia.org/wiki/EAST_END×YURI)から翻訳されています。
 
 
-**EAST END×YURI**（イーストエンド プラス ユリ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")ユニット。
+**EAST END×YURI**（イーストエンド プラス ユリ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ラップ](../Page/ラップ.md "wikilink")ユニット。
 
 ## 来歴
 
@@ -79,9 +79,9 @@
 
 ### CM
 
-  - [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")[ティセラ](https://ja.wikipedia.org/wiki/ティセラ "wikilink")（1995年）
-  - [三菱自動車](https://ja.wikipedia.org/wiki/三菱自動車 "wikilink")・[パジェロジュニア](https://ja.wikipedia.org/wiki/パジェロジュニア "wikilink")（1995年）
-  - [アサヒ飲料](../Page/アサヒ飲料.md "wikilink") [さわやかぶどう](https://ja.wikipedia.org/wiki/さわやかぶどう "wikilink")（1995年）
+  - [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink") [ティセラ](https://ja.wikipedia.org/wiki/ティセラ "wikilink")（1995年）
+  - [三菱自動車](https://ja.wikipedia.org/wiki/三菱自動車 "wikilink") [パジェロジュニア](https://ja.wikipedia.org/wiki/パジェロジュニア "wikilink")（1995年）
+  - [アサヒ飲料](../Page/アサヒ飲料.md "wikilink") さわやかぶどう（1995年）
 
 ## 書籍
 

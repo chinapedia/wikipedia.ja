@@ -88,7 +88,7 @@
   - [KAGETORA](../Page/KAGETORA.md "wikilink")（瀬上あきら）2002年No.7 - 2006年No.10（一時期本誌にて連載あり）
       - （外部リンク）
   - [風鳴の左近](https://ja.wikipedia.org/wiki/風鳴の左近 "wikilink")（[沢田ひろふみ](https://ja.wikipedia.org/wiki/沢田ひろふみ "wikilink")）1997年No.4 - 1998年No.6
-  - [風使い](https://ja.wikipedia.org/wiki/風使い "wikilink")（[鷹氏隆之](https://ja.wikipedia.org/wiki/鷹氏隆之 "wikilink")）1991年 - 1998年No.9
+  - [風使い](../Page/風使い.md "wikilink")（[鷹氏隆之](https://ja.wikipedia.org/wiki/鷹氏隆之 "wikilink")）1991年 - 1998年No.9
   - [疾風伝説 彦佐](https://ja.wikipedia.org/wiki/疾風伝説_彦佐 "wikilink")（山本晃）
       - 疾風伝説 彦佐 疾風の七星剣（山本晃）
 
@@ -211,6 +211,7 @@
 #### ま行
 
   - [マイアミ☆ガンズ](https://ja.wikipedia.org/wiki/マイアミ☆ガンズ "wikilink")（[百瀬武昭](https://ja.wikipedia.org/wiki/百瀬武昭 "wikilink")）1997年 - 1999年
+  - [毎度ラーメン屋です](https://ja.wikipedia.org/wiki/毎度ラーメン屋です "wikilink")（[三枝義浩](../Page/三枝義浩.md "wikilink")）1989年 - 1991年
   - [マケンキ\!\! 〜真剣気〜](https://ja.wikipedia.org/wiki/マケンキ!!_〜真剣気〜 "wikilink")（[正木らか](https://ja.wikipedia.org/wiki/正木らか "wikilink")） ★
   - [魔人 〜DEVIL〜](https://ja.wikipedia.org/wiki/魔人_〜DEVIL〜 "wikilink")（[大暮維人](../Page/大暮維人.md "wikilink")）2000No.11 - 2001年No.9
   - [魔法使いの事情](https://ja.wikipedia.org/wiki/魔法使いの事情 "wikilink")（[西原梨花](https://ja.wikipedia.org/wiki/西原梨花 "wikilink")）2014年No.8 - 2015年No.6

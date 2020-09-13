@@ -308,7 +308,7 @@ STARHORSE.NETユーザーを対象に、毎日200人が1週間のラッキー馬
 ## ベットタイムBGM
 
   - SUPER WBC
-      - 「[Time To Say Goodbye](https://ja.wikipedia.org/wiki/コン・テ・パルティロ "wikilink")」 歌：[サラ・ブライトマン](https://ja.wikipedia.org/wiki/サラ・ブライトマン "wikilink") 作詞：フランチェスコ・サルトーリ 作曲：ルーチョ・クアラントット
+      - 「[Time To Say Goodbye](https://ja.wikipedia.org/wiki/コン・テ・パルティロ "wikilink")」 歌：[サラ・ブライトマン](../Page/サラ・ブライトマン.md "wikilink") 作詞：フランチェスコ・サルトーリ 作曲：ルーチョ・クアラントット
   - WBC SPRINT
       - 「[DOBERMAN](../Page/DOBERMAN_\(アルバム\).md "wikilink")」 作曲：[布袋寅泰](../Page/布袋寅泰.md "wikilink")
   - WBC MILE

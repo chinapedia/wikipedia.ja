@@ -62,7 +62,7 @@
 13. 013 「i love you」[TAKUYA](../Page/TAKUYA.md "wikilink")
 14. 014 「[Survival](../Page/Survival.md "wikilink")」[MY LITTLE LOVER](https://ja.wikipedia.org/wiki/My_Little_Lover "wikilink")
 15. 015 「MOTOKANO」[SORTITA](https://ja.wikipedia.org/wiki/SORTITA "wikilink")
-16. 016 「[touch me,kiss me](https://ja.wikipedia.org/wiki/touch_me,kiss_me "wikilink")」[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")
+16. 016 「[touch me, kiss me](https://ja.wikipedia.org/wiki/touch_me,_kiss_me "wikilink")」[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")
 17. 017 「[飾りじゃないのよ涙は](../Page/飾りじゃないのよ涙は.md "wikilink")」[井上陽水](../Page/井上陽水.md "wikilink")
 18. 018 「[Deep Freeze](../Page/Deep_Freeze.md "wikilink")」[愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")
 19. 019 「鮮やかな光」[ROCKING TIME](../Page/ROCKING_TIME.md "wikilink")

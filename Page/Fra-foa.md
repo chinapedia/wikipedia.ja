@@ -17,7 +17,7 @@
 
   - **[三上ちさ子](../Page/三上ちさこ.md "wikilink")**（みかみ ちさこ、[1974年](../Page/1974年.md "wikilink")[8月14日](../Page/8月14日.md "wikilink") - ）
       -
-        [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+        [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。[血液型はA型](../Page/ABO式血液型.md "wikilink")。
   - **高橋誠二**（たかはし せいじ、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[1月6日](../Page/1月6日.md "wikilink") - ）
       -
         [ギター](../Page/ギター.md "wikilink")担当。血液型はB型。

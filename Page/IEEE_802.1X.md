@@ -30,7 +30,7 @@ IEEE 802.1Xを使った認証システムは、以下のものから構成され
 
 ### EAPによる認証
 
-[EAPメッセージを認証](../Page/Extensible_Authentication_Protocol.md "wikilink")[LANスイッチ](https://ja.wikipedia.org/wiki/LANスイッチ "wikilink")を経由して認証サーバと何度かやりとりを交わすことで、認証を受ける。サプリカントのMAC[フレームは認証LANスイッチによって](https://ja.wikipedia.org/wiki/フレーム_\(ネットワーク\) "wikilink")[RADIUS](../Page/RADIUS.md "wikilink")フレームに変換されて認証サーバへ送られ、逆に認証サーバから返信されるRADIUSフレームは認証LANスイッチによってMACフレームへ変換されてサプリカントへ送られる。認証LANスイッチはサプリカントPCからの通信は認証サーバへのもの以外は受け付けない。
+[EAPメッセージを認証](../Page/Extensible_Authentication_Protocol.md "wikilink")[LANスイッチ](../Page/LANスイッチ.md "wikilink")を経由して認証サーバと何度かやりとりを交わすことで、認証を受ける。サプリカントのMAC[フレームは認証LANスイッチによって](https://ja.wikipedia.org/wiki/フレーム_\(ネットワーク\) "wikilink")[RADIUS](../Page/RADIUS.md "wikilink")フレームに変換されて認証サーバへ送られ、逆に認証サーバから返信されるRADIUSフレームは認証LANスイッチによってMACフレームへ変換されてサプリカントへ送られる。認証LANスイッチはサプリカントPCからの通信は認証サーバへのもの以外は受け付けない。
 
 ### 認証完了
 

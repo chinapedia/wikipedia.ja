@@ -87,6 +87,9 @@
   - ウラシマ・リュウ
     声 - [小林通孝](../Page/小林通孝.md "wikilink")
     29話に台詞つきで地球の警察として登場し、スターザンSを包囲した。 EDクレジットには「友情出演 ウラシマリュウ」と「リュウ 小林通孝」の二種類が表記されている。
+  - スティンガー・ウルフ
+    声 - [玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink")
+    29話にスティンガー部隊が登場し、彼のみ台詞あり。EDクレジットには「友情出演 スティンガー部隊の皆さん」と表記されている。
 
 ## 登場メカニック
 
@@ -145,32 +148,24 @@
 ### 主題歌
 
   - オープニングテーマ
-    「SHOW ME YOUR SPACE～君の宇宙を見せて～」
+    　「SHOW ME YOUR SPACE～君の宇宙を見せて～」
 
-歌 - [ポプラ](../Page/ポプラ_\(歌手\).md "wikilink")
-
-作詞・作曲 - [古田喜昭](../Page/古田喜昭.md "wikilink") / 編曲 - 石田かつのり
+　　作詞・作曲 - [古田喜昭](../Page/古田喜昭.md "wikilink") / 編曲 - 石田かつのり / 歌 - [ポプラ](../Page/ポプラ_\(歌手\).md "wikilink")
 
   - エンディングテーマ
-    「恋する気持ちはドーナツの中」
+    　「恋する気持ちはドーナツの中」
 
-歌 - [アイ高野](../Page/アイ高野.md "wikilink")
+　　　作詞 - 佐藤ありす / 作曲 - 古田喜昭 / 編曲 - 石田かつのり / 歌 - [アイ高野](../Page/アイ高野.md "wikilink")
 
-作詞 - 佐藤ありす / 作曲 - 古田喜昭 / 編曲 - 石田かつのり
+  - 　「サルサ パラトピア」（最終回）
 
-  - 「サルサ パラトピア」（最終回）
-
-歌 - アイ高野、[かおりくみこ](../Page/かおりくみこ.md "wikilink") / コーラス - Shines
-
-作詞・作曲 - 古田喜昭 / 編曲 - 石田かつのり
+　　　作詞・作曲 - 古田喜昭 / 編曲 - 石田かつのり / 歌 - アイ高野、[かおりくみこ](../Page/かおりくみこ.md "wikilink") / コーラス - Shines
 
 ### 挿入歌
 
-  - 「ハートをノック」
+  - 　「ハートをノック」
 
-歌 - [山野さと子](../Page/山野さと子.md "wikilink")
-
-作詞 - 佐藤ありす / 作曲 - 古田喜昭 / 編曲 - 石田かつのり
+　　　作詞 - 佐藤ありす / 作曲 - 古田喜昭 / 編曲 - 石田かつのり / 歌 - [山野さと子](../Page/山野さと子.md "wikilink")
 
 上記各曲を収録したEPレコードは、[日本コロムビア](../Page/日本コロムビア.md "wikilink")より発売され、後にCD化も実現している。
 
@@ -557,8 +552,8 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新潟総合テレビ" title="wikilink">新潟総合テレビ</a></p></td>
-<td></td>
+<td><p>新潟総合テレビ</p></td>
+<td><p>現・<a href="../Page/NST新潟総合テレビ.md" title="wikilink">NST新潟総合テレビ</a>。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -651,7 +646,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
 <td><p><a href="../Page/テレビ熊本.md" title="wikilink">テレビ熊本</a></p></td>
 <td><p>フジテレビ系列<br />
-<a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列</a></p></td>
+<a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">テレビ朝日系列</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -666,7 +661,7 @@
 <tr class="odd">
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
 <td><p>岩手放送</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/JNN" title="wikilink">TBS系列</a></p></td>
+<td><p><a href="../Page/ジャパン・ニュース・ネットワーク.md" title="wikilink">TBS系列</a></p></td>
 <td><p>木曜 17:30 - 18:00</p></td>
 <td><p>現・<a href="../Page/IBC岩手放送.md" title="wikilink">IBC岩手放送</a>。</p></td>
 </tr>
@@ -695,7 +690,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a></p></td>
+<td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a></p></td>
 <td><p>日本テレビ系列</p></td>
 <td><p>水曜 17:00 - 17:30</p></td>
 <td></td>

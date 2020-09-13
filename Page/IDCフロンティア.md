@@ -14,7 +14,7 @@
       - エクソダスコミュニケーションズの傘下にはかつて[グローバルオンラインジャパン](https://ja.wikipedia.org/wiki/GOL "wikilink")（GOL, 1999年11月にエクソダスが買収）があったが、同年1月に[フュージョン・コミュニケーションズに売却していた](../Page/楽天コミュニケーションズ.md "wikilink")。
   - 2005年
       - 2月17日 - [チェンジオブコントロール](../Page/M&A.md "wikilink")（資本拘束条項）を伴う経営権の移動により、[ソフトバンクグループ](../Page/ソフトバンクグループ.md "wikilink")の一員となる。**日本テレコムIDC株式会社**に社名変更。
-      - 5月 - **ソフトバンクIDC株式会社**に社名変更。通信事業を日本テレコム（後の[ソフトバンクテレコム](../Page/ソフトバンクテレコム.md "wikilink")、現[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")）株式会社に対し、**（新）日本テレコムIDC株式会社**として分割。その後、[アバヴネット](https://ja.wikipedia.org/wiki/アバヴネット "wikilink")ジャパン株式会社を合併、ソフトバンクグループのデータセンター専業会社となった。
+      - 5月 - **ソフトバンクIDC株式会社**に社名変更。通信事業を日本テレコム（後の[ソフトバンクテレコム](../Page/ソフトバンクテレコム.md "wikilink")、現[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")）株式会社に対し、**（新）日本テレコムIDC株式会社**として分割。その後、アバヴネットジャパン株式会社を合併、ソフトバンクグループのデータセンター専業会社となった。
   - 2007年 - 情報セキュリティ認証基準「[ISO](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")/IEC27001:2005(JIS Q 27001:2006)を取得している。
   - 2008年
       - 1月25日 - 特定非営利活動法人ASP・SaaSインダストリ・コンソーシアム・ジャパン（略称ASPIC）が主催する「ASP・SaaS・ICTアウトソーシングアワード2007/2008」で、IDC部門 大規模分野準グランプリを受賞。
@@ -49,6 +49,7 @@
   - [ソフトバンクグループ](../Page/ソフトバンクグループ.md "wikilink")
   - [ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")(通信会社)
   - [FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース・あすの天気 "wikilink")(1992〜1996年に提供)
+  - [NNNニューススポット](../Page/NNNニューススポット.md "wikilink")(同上)
 
 ## 外部リンク
 
@@ -56,6 +57,6 @@
 
 [Category:日本のインターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/Category:日本のインターネットサービスプロバイダ "wikilink") [Category:日本の情報・通信業](https://ja.wikipedia.org/wiki/Category:日本の情報・通信業 "wikilink") [Category:ソフトバンクグループ](https://ja.wikipedia.org/wiki/Category:ソフトバンクグループ "wikilink") [Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink") [Category:2009年設立の企業](https://ja.wikipedia.org/wiki/Category:2009年設立の企業 "wikilink") [Category:Yahoo\!_JAPANの歴史](https://ja.wikipedia.org/wiki/Category:Yahoo!_JAPANの歴史 "wikilink")
 
-1.  [ヤフー、ソフトバンクIDCソリューションズを吸収合併](http://internet.watch.impress.co.jp/cda/news/2009/02/25/22585.html)
-2.  [株主交代に関するお知らせ](https://www.idcf.jp/pressrelease/2018/20180320001.html) - 株式会社IDCフロンティア、2018年3月20日
-3.  [合併に関する決議のお知らせ](https://www.idcf.jp/pressrelease/2019/20190213001.html) - 株式会社IDCフロンティア、2019年2月13日
+1.
+2.
+3.

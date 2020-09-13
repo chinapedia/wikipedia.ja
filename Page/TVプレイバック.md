@@ -7,7 +7,7 @@
 
 [萩本欽一](../Page/萩本欽一.md "wikilink")が司会を、[松田朋恵](../Page/松田朋恵.md "wikilink")がアシスタントを務めていたクイズ番組。萩本は1985年4月から半年間、『[欽ちゃんの仮装大賞](../Page/欽ちゃん&香取慎吾の全日本仮装大賞.md "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）を除いて休養していたが、本番組でレギュラー番組への出演を再開した。
 
-番組タイトルの「プレイバック」が示す通り、当初は過去の世相や思い出を題材にしたクイズや、解答者が先程まで観ていた映像の記憶をたどるクイズなどを出題していたが、後期にはプレイバックという言葉からはかけ離れたクイズも多くなっていった。
+番組タイトルの「プレイバック」が示す通り、当初は過去の世相や思い出を題材にしたクイズや、解答者が直前に観た映像の記憶をたどるクイズなどを出題していたが、後期にはプレイバックという言葉からはかけ離れたクイズも多くなっていった。
 
 番組には、[ザ・ドリフターズ](../Page/ザ・ドリフターズ.md "wikilink")のメンバーが毎週1名ずつ出演した。萩本とドリフターズの共演は、かつて土曜20時台に『[欽ちゃんのドンとやってみよう\!](https://ja.wikipedia.org/wiki/欽ドン!#テレビ "wikilink")』（フジテレビ）と『[8時だョ\!全員集合](../Page/8時だョ!全員集合.md "wikilink")』（TBS）で激しい[視聴率](../Page/視聴率.md "wikilink")争いを繰り広げたライバル同士の共演として注目された。レギュラー解答者の[石田純一](../Page/石田純一.md "wikilink")と[向井亜紀](../Page/向井亜紀.md "wikilink")は本番組で知名度が上がり、特に石田は1988年頃から[トレンディドラマ](../Page/トレンディドラマ.md "wikilink")で売れっ子になったこともあり、観客からの歓声を誘った。
 
@@ -101,13 +101,288 @@
 
   - イタリアの映画の問題で、「急げ\!」という言葉が「大根おろし」に聞こえると石田が発言し、石田がボーナス点を貰ったことがあった。
 
-## ネット局に関して
+## ネット局
 
-  - 系列外の[青森テレビ](../Page/青森テレビ.md "wikilink") (ATV) 、[テレビ岩手](../Page/テレビ岩手.md "wikilink") (TVI) 、[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") (JRT) 、[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink") (RKC) でも時差ネットで放送されていた。ただし、テレビ岩手では途中打ち切りに終わった。
-  - 番組開始時にはフジテレビ系と[テレビ朝日系のクロスネット局だった](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink") (AKT) では、同時間帯で『[特捜最前線](../Page/特捜最前線.md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）の時差ネットが行われていたため、本番組は8日遅れの月曜22時00分から放送されていたが、[ANN離脱後の](../Page/オールニッポン・ニュースネットワーク.md "wikilink")1987年4月からはフジテレビとの同時ネットで放送されるようになった。
-  - 当時[FNSに加盟していた](../Page/フジネットワーク.md "wikilink")[山形テレビ](../Page/山形テレビ.md "wikilink") (YTS) と[テレビ山口](../Page/テレビ山口.md "wikilink") (TYS) でも時差ネットで放送されていたが、いずれも途中で打ち切られた。
-  - 当時九州地区にあった日本テレビ系とフジテレビ系のクロスネット局のうち、この番組を同時ネットしていたのは[鹿児島テレビ](../Page/鹿児島テレビ放送.md "wikilink") (KTS) だけである。[テレビ長崎](../Page/テレビ長崎.md "wikilink") (KTN) では8日遅れの月曜19時30分から、[テレビ大分](../Page/テレビ大分.md "wikilink") (TOS) では2週間遅れの日曜22時30分から、[テレビ宮崎](../Page/テレビ宮崎.md "wikilink") (UMK) では2週間遅れの日曜午後から放送されていた。
-  - 当時フジテレビ系とテレビ朝日系のクロスネット局だった[テレビ熊本](../Page/テレビ熊本.md "wikilink") (TKU) も、同時間帯で『[日曜洋画劇場](../Page/日曜洋画劇場.md "wikilink")』（テレビ朝日）の同時ネットが行われていたため、1週間遅れの日曜午後に放送されていた。
+<table>
+<thead>
+<tr class="header">
+<th><p>放送対象地域</p></th>
+<th><p>放送局</p></th>
+<th><p>系列</p></th>
+<th><p>放送日時</p></th>
+<th><p>遅れ</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東広域圏</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ</a>（CX）</p></td>
+<td><p><a href="../Page/フジネットワーク.md" title="wikilink">フジテレビ系列</a></p></td>
+<td><p>日曜 22:00 - 22:30</p></td>
+<td><p>同時ネット</p></td>
+<td><p><strong>制作局</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
+<td><p><a href="../Page/北海道文化放送.md" title="wikilink">北海道文化放送</a>（UHB）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/秋田テレビ" title="wikilink">秋田テレビ</a>（AKT）</p></td>
+<td><p>フジテレビ系列・<a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">テレビ朝日系列</a><br />
+↓<br />
+フジテレビ系列</p></td>
+<td><p>月曜 22:00 - 22:30<br />
+↓<br />
+日曜 22:00 - 22:30</p></td>
+<td><p>8日遅れ<br />
+↓<br />
+同時ネット</p></td>
+<td><p>1987年4月にマストバイ化</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/宮城県" title="wikilink">宮城県</a></p></td>
+<td><p><a href="../Page/仙台放送.md" title="wikilink">仙台放送</a>（OX）</p></td>
+<td><p>フジテレビ系列</p></td>
+<td><p>日曜 22:00 - 22:30</p></td>
+<td><p>同時ネット</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>
+<td><p><a href="../Page/福島テレビ.md" title="wikilink">福島テレビ</a>（FTV）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
+<td><p><a href="../Page/NST新潟総合テレビ.md" title="wikilink">新潟総合テレビ</a>（NST）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
+<td><p><a href="../Page/長野放送.md" title="wikilink">長野放送</a>（NBS）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a></p></td>
+<td><p><a href="../Page/テレビ静岡.md" title="wikilink">テレビ静岡</a>（SUT）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
+<td><p><a href="../Page/富山テレビ放送.md" title="wikilink">富山テレビ</a>（BBT）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/石川テレビ" title="wikilink">石川テレビ</a>（ICT）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/福井テレビジョン放送" title="wikilink">福井テレビ</a>（FTB）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/中京地方" title="wikilink">中京広域圏</a></p></td>
+<td><p><a href="../Page/東海テレビ放送.md" title="wikilink">東海テレビ</a>（THK）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/関西地方" title="wikilink">関西広域圏</a></p></td>
+<td><p><a href="../Page/関西テレビ放送.md" title="wikilink">関西テレビ</a>（KTV）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/山陰地方.md" title="wikilink">鳥取県・島根県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送" title="wikilink">山陰中央テレビ</a>（TSK）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">岡山県・香川県</a></p></td>
+<td><p><a href="../Page/岡山放送.md" title="wikilink">岡山放送</a>（OHK）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/広島県.md" title="wikilink">広島県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビ新広島" title="wikilink">テレビ新広島</a>（TSS）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/愛媛県.md" title="wikilink">愛媛県</a></p></td>
+<td><p><a href="../Page/テレビ愛媛.md" title="wikilink">テレビ愛媛</a>（EBC）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a>（TNC）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/佐賀県.md" title="wikilink">佐賀県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/サガテレビ" title="wikilink">サガテレビ</a>（STS）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
+<td><p><a href="../Page/鹿児島テレビ放送.md" title="wikilink">鹿児島テレビ</a>（KTS）</p></td>
+<td><p>フジテレビ系列・<a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">日本テレビ系列</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/沖縄テレビ" title="wikilink">沖縄テレビ</a>（OTV）</p></td>
+<td><p>フジテレビ系列</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形テレビ.md" title="wikilink">山形テレビ</a>（YTS）</p></td>
+<td><p>フジテレビ系列・テレビ朝日系列</p></td>
+<td><p>月曜 19:00 - 19:30</p></td>
+<td><p>不明</p></td>
+<td><p>途中打ち切り</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
+<td><p><a href="../Page/テレビ山口.md" title="wikilink">テレビ山口</a>（tys）</p></td>
+<td><p>フジテレビ系列・<a href="../Page/ジャパン・ニュース・ネットワーク.md" title="wikilink">TBS系列</a></p></td>
+<td><p>日曜 22:30 - 23:00</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
+<td><p><a href="../Page/テレビ長崎.md" title="wikilink">テレビ長崎</a>（KTN）</p></td>
+<td><p>フジテレビ系列・日本テレビ系列</p></td>
+<td><p>月曜 19:30 - 20:00</p></td>
+<td><p>8日遅れ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
+<td><p><a href="../Page/テレビ熊本.md" title="wikilink">テレビ熊本</a>（TKU）</p></td>
+<td><p>フジテレビ系列・テレビ朝日系列</p></td>
+<td><p>日曜午後</p></td>
+<td><p>7日遅れ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/大分県.md" title="wikilink">大分県</a></p></td>
+<td><p><a href="../Page/テレビ大分.md" title="wikilink">テレビ大分</a>（TOS）</p></td>
+<td><p>フジテレビ系列・日本テレビ系列・テレビ朝日系列</p></td>
+<td><p>日曜 22:30 - 23:00</p></td>
+<td><p>|14日遅れ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/宮崎県.md" title="wikilink">宮崎県</a></p></td>
+<td><p><a href="../Page/テレビ宮崎.md" title="wikilink">テレビ宮崎</a>（UMK）</p></td>
+<td><p>日曜 22:30 - 23:00<br />
+↓<br />
+月曜 19:00 - 19:30</p></td>
+<td><p>14日遅れ<br />
+↓<br />
+15日遅れ</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/青森県" title="wikilink">青森県</a></p></td>
+<td><p><a href="../Page/青森テレビ.md" title="wikilink">青森テレビ</a>（ATV）</p></td>
+<td><p>TBS系列</p></td>
+<td><p>日曜 17:00 - 17:30</p></td>
+<td><p>不明</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
+<td><p><a href="../Page/テレビ岩手.md" title="wikilink">テレビ岩手</a>（TVI）</p></td>
+<td><p>日本テレビ系列</p></td>
+<td><p>日曜 22:30 - 23:00</p></td>
+<td><p>途中打ち切り</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
+<td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a>（JRT）</p></td>
+<td><p>日曜 12:00 - 12:30</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/高知県.md" title="wikilink">高知県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高知放送" title="wikilink">高知放送</a>（RKC）</p></td>
+<td><p>土曜 23:00 - 23:30</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### ネット局に関して
+
+  - 系列外の青森テレビ (ATV) 、テレビ岩手 (TVI) 、四国放送 (JRT) 、高知放送 (RKC) でも時差ネットで放送されていた。ただし、テレビ岩手では途中打ち切りに終わった。
+  - 番組開始時にはフジテレビ系とテレビ朝日系のクロスネット局だった秋田テレビ (AKT) では、同時間帯で『[特捜最前線](../Page/特捜最前線.md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）の時差ネットが行われていたため、本番組は8日遅れの月曜22時00分から放送されていたが、ANN離脱後の1987年4月からはフジテレビとの同時ネットで放送されるようになった。
+  - 当時FNSに加盟していた山形テレビ (YTS) とテレビ山口 (TYS) でも時差ネットで放送されていたが、いずれも途中で打ち切られた。
+  - 当時九州地区にあった日本テレビ系とフジテレビ系のクロスネット局のうち、この番組を同時ネットしていたのは鹿児島テレビ (KTS) だけである。テレビ長崎 (KTN) では8日遅れの月曜19時30分から、テレビ大分 (TOS) では2週間遅れの日曜22時30分から、テレビ宮崎 (UMK) では2週間遅れの日曜22時30分その後月曜19時00からの放送されていた。
+  - 当時フジテレビ系とテレビ朝日系のクロスネット局だったテレビ熊本 (TKU) も、同時間帯で『[日曜洋画劇場](../Page/日曜洋画劇場.md "wikilink")』（テレビ朝日）の同時ネットが行われていたため、1週間遅れの日曜午後に放送されていた。
 
 ## スタッフ
 

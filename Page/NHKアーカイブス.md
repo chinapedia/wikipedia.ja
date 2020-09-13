@@ -148,12 +148,14 @@ DVDとして[ポニーキャニオン](../Page/ポニーキャニオン.md "wiki
   - [蔵出し劇場](../Page/蔵出し劇場.md "wikilink")（BS2、終了）
   - [ビデオギャラリー](../Page/ビデオギャラリー.md "wikilink")（80年代に放送されていた。）
   - [NHKアーカイブスポータル](https://ja.wikipedia.org/wiki/NHKアーカイブスポータル "wikilink")
-  - [Eテレセレクション](https://ja.wikipedia.org/wiki/Eテレセレクション "wikilink")（Eテレの過去の番組を放送する「お願い\!編集長」を不定期放送している）
+  - [Eテレセレクション](https://ja.wikipedia.org/wiki/Eテレセレクション "wikilink")（Eテレの過去の番組を放送する「お願い\!編集長」を不定期放送していた）
+  - [ワンワンパッコロ\!キャラともワールド](https://ja.wikipedia.org/wiki/ワンワンパッコロ!キャラともワールド "wikilink")（Eテレの過去の子供向け番組のダイジェストを放送）
 
 ## 外部リンク
 
   - [NHKアーカイブス](https://www4.nhk.or.jp/nhk-archives/) - [日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")
   - [平和アーカイブス](https://www.nhk.or.jp/peace/)（原則毎月1回放映）
+  - [あの日　あのとき　あの番組～ＮＨＫアーカイブス～ | NHK放送史（動画・記事）](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010471_00000)
 
 [Category:NHK総合テレビジョンの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの情報・ワイドショー番組 "wikilink") [Category:再放送番組](https://ja.wikipedia.org/wiki/Category:再放送番組 "wikilink") [Category:2000年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のテレビ番組_\(日本\) "wikilink") [Category:NHKのテレビ番組の歴史](https://ja.wikipedia.org/wiki/Category:NHKのテレビ番組の歴史 "wikilink") [Category:放送文化基金賞・放送文化](https://ja.wikipedia.org/wiki/Category:放送文化基金賞・放送文化 "wikilink")
 

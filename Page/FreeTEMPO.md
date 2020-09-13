@@ -509,7 +509,7 @@ POCS-1036:通常盤</p></td>
   -
   -
   -
-[Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink")
+[Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ソロプロジェクト](https://ja.wikipedia.org/wiki/Category:ソロプロジェクト "wikilink")
 
 1.
 2.

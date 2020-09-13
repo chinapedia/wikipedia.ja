@@ -1,7 +1,7 @@
 > この記事は[マリオテニスGC](https://ja.wikipedia.org/wiki/マリオテニスGC)から翻訳されています。
 
 
-**マリオテニスGC**（マリオテニスジーシー、*Mario Power Tennis*）は、[キャメロット製作](../Page/キャメロット_\(ゲーム会社\).md "wikilink")、[任天堂](../Page/任天堂.md "wikilink")発売の[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")用[アクションスポーツゲーム](../Page/アクションゲーム.md "wikilink")。[マリオテニス](../Page/マリオテニス.md "wikilink")の第3作目。
+**マリオテニスGC**（マリオテニスジーシー、*MARIO TENNIS GC*、*Mario Power Tennis*）は、[キャメロット製作](../Page/キャメロット_\(ゲーム会社\).md "wikilink")、[任天堂](../Page/任天堂.md "wikilink")発売の[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")用[アクションスポーツゲーム](../Page/アクションゲーム.md "wikilink")。[マリオテニス](../Page/マリオテニス.md "wikilink")の第3作目。
 
 [2009年](../Page/2009年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")に『[Wiiであそぶ マリオテニスGC](https://ja.wikipedia.org/wiki/Wiiであそぶセレクション "wikilink")』として[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")向けに[移植された](../Page/移植_\(ソフトウェア\).md "wikilink")。
 

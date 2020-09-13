@@ -98,7 +98,7 @@
   - 校長：[里見たかし](../Page/里見たかし.md "wikilink")（第17話）
   - 秋吉久美：[高樹蓉子](../Page/高樹蓉子.md "wikilink")（第18話）
   - 徳兵衛：[鈴木治夫](https://ja.wikipedia.org/wiki/鈴木治夫_\(俳優\) "wikilink")（第18話）
-  - 村人：[鍛冶昇](https://ja.wikipedia.org/wiki/鍛冶昇 "wikilink")（第18話）
+  - 村人：[鍛冶昇](../Page/鍛冶昇.md "wikilink")（第18話）
   - 小野博士：[西田昭市](../Page/西田昭市.md "wikilink")（第19話）
   - 西脇警備長：[松山照夫](../Page/松山照夫.md "wikilink")（第19話）
   - 清水キヨ子：[本田みき](https://ja.wikipedia.org/wiki/本田みき "wikilink")（第20話）

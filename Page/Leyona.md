@@ -3,7 +3,7 @@
 
 **Leyona**（レヨナ、[女性](../Page/女性.md "wikilink")、[1977年](../Page/1977年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。
 
-[広島県](../Page/広島県.md "wikilink")[三原市](../Page/三原市.md "wikilink")出身。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。所属レーベルは[cutting edge](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。元々は漢字表記で**玲葉奈**だったが、[2003年](../Page/2003年.md "wikilink")頃にアルファベット表記に切り替えた。歌手の[世理奈](https://ja.wikipedia.org/wiki/世理奈 "wikilink")は妹。
+[広島県](../Page/広島県.md "wikilink")[三原市](../Page/三原市.md "wikilink")出身。[血液型は](../Page/ABO式血液型.md "wikilink")[A型](../Page/ABO式血液型.md "wikilink")。所属レーベルは[cutting edge](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。元々は漢字表記で**玲葉奈**だったが、[2003年](../Page/2003年.md "wikilink")頃にアルファベット表記に切り替えた。歌手の[世理奈](https://ja.wikipedia.org/wiki/世理奈 "wikilink")は妹。
 
 ## 略歴
 

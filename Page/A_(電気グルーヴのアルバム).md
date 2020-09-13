@@ -7,7 +7,7 @@
 
 ## 解説
 
-前作「[ORANGE](../Page/ORANGE_\(電気グルーヴのアルバム\).md "wikilink")」リリース前後から、所属事務所の消滅による移籍、[マネージャー](../Page/マネージャー.md "wikilink")の失踪、レコード会社に対する不信などのトラブルが続き、メンバー間で[フラストレーション](https://ja.wikipedia.org/wiki/フラストレーション "wikilink")が溜まっており、**「電気グルーヴをなめてる世間に対してリベンジをしてやる」**という強い意志によって作られた\[1\]。石野と砂原は（最も売り上げた「[VITAMIN](../Page/VITAMIN.md "wikilink")」の売り上げを上回る）「22万枚以上は売り上げたい」という目標を立てたが\[2\]、先行シングルとしてリリースされた「[Shangri-La](../Page/Shangri-La_\(電気グルーヴの曲\).md "wikilink")」のスマッシュヒットのおかげで累計売上34万枚と過去最高の売り上げを記録した。 **「電気グルーヴにおける『[ヘッド博士の世界塔](../Page/DOCTOR_HEAD'S_WORLD_TOWER_-ヘッド博士の世界塔-.md "wikilink")』（[フリッパーズ・ギター](../Page/フリッパーズ・ギター.md "wikilink")のアルバム）を作るまでは電気を解散させるわけにはいかない」**と以前から発言していた[砂原良徳](../Page/砂原良徳.md "wikilink")はこのアルバムの出来に満足し、次作であるアルバム『[VOXXX](../Page/VOXXX.md "wikilink")』のレコーディング中に音楽性の違いから脱退を表明。[1999年](../Page/1999年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")付で正式に脱退した。以降のグループメンバーは[石野卓球](../Page/石野卓球.md "wikilink")と[ピエール瀧](https://ja.wikipedia.org/wiki/ピエール瀧 "wikilink")の2人組という形態となる。
+前作『[ORANGE](../Page/ORANGE_\(電気グルーヴのアルバム\).md "wikilink")』リリース前後から、所属事務所の消滅による移籍、[マネージャー](../Page/マネージャー.md "wikilink")の失踪、レコード会社に対する不信などのトラブルが続き、メンバー間で[フラストレーション](https://ja.wikipedia.org/wiki/フラストレーション "wikilink")が溜まっており、**「電気グルーヴをなめてる世間に対してリベンジをしてやる」**という強い意志によって作られた\[1\]。石野と砂原は（最も売り上げた『[VITAMIN](../Page/VITAMIN.md "wikilink")』の売り上げを上回る）「22万枚以上は売り上げたい」という目標を立てたが\[2\]、先行シングルとしてリリースされた「[Shangri-La](../Page/Shangri-La_\(電気グルーヴの曲\).md "wikilink")」のスマッシュヒットのおかげで累計売上34万枚と過去最高の売り上げを記録した。 **「電気グルーヴにおける『[ヘッド博士の世界塔](../Page/DOCTOR_HEAD'S_WORLD_TOWER_-ヘッド博士の世界塔-.md "wikilink")』（[フリッパーズ・ギター](../Page/フリッパーズ・ギター.md "wikilink")のアルバム）を作るまでは電気を解散させるわけにはいかない」**と以前から発言していた[砂原良徳](../Page/砂原良徳.md "wikilink")はこのアルバムの出来に満足し、次作であるアルバム『[VOXXX](../Page/VOXXX.md "wikilink")』のレコーディング中に音楽性の違いから脱退を表明。[1999年](../Page/1999年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")付で正式に脱退した。以降のグループメンバーは[石野卓球](../Page/石野卓球.md "wikilink")と[ピエール瀧](https://ja.wikipedia.org/wiki/ピエール瀧 "wikilink")の2人組という形態となる。
 
 同年7月29日には2枚組でアナログ盤がリリースされている。
 
@@ -87,7 +87,7 @@
         [赤城乳業](../Page/赤城乳業.md "wikilink")の同名商品である[ガリガリ君](../Page/ガリガリ君.md "wikilink")からタイトルを採った曲。後にガリガリ君の懸賞で、[天久聖一](../Page/天久聖一.md "wikilink")の自作ポエムをフィーチャリングしたリミックス曲を収録したCDがプレゼントされた（非売品）。
 7.  **猫夏** - *CATY SUMMER*
       -
-        [インスト曲](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")。30周年記念アルバム「[30](https://ja.wikipedia.org/wiki/30_\(電気グルーヴのアルバム\) "wikilink")」で**海猫夏**としてリメイクされている。
+        [インスト曲](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")。30周年記念アルバム『[30](https://ja.wikipedia.org/wiki/30_\(電気グルーヴのアルバム\) "wikilink")』で**海猫夏**としてリメイクされている。
 8.  **あすなろサンシャイン** - *ASUNARO SUNSHINE*
       -
         この曲のために瀧はボイストレーニングを受け、本格的な発声練習をしてレコーディングに臨んだ。石野卓球によれば「自信作の曲が出来たから瀧がどう歌うのかと思ったら歌い出しから「あすなろサンシャイン」だから大爆笑した(笑)」と回想している。
@@ -117,5 +117,5 @@
 
 [Category:電気グルーヴのアルバム](https://ja.wikipedia.org/wiki/Category:電気グルーヴのアルバム "wikilink") [Category:1997年のアルバム](https://ja.wikipedia.org/wiki/Category:1997年のアルバム "wikilink") [Category:キューンミュージックのアルバム](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアルバム "wikilink")
 
-1.  「[ROCKIN'ON JAPAN](../Page/ROCKIN'ON_JAPAN.md "wikilink")」1997年5月号インタビュー
-2.  「[ROCKIN'ON JAPAN](../Page/ROCKIN'ON_JAPAN.md "wikilink")」1997年5月号インタビュー
+1.  『[ROCKIN'ON JAPAN](../Page/ROCKIN'ON_JAPAN.md "wikilink")』（1997年5月号）インタビュー
+2.

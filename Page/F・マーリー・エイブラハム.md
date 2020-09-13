@@ -1,7 +1,7 @@
 > この記事は[F・マーリー・エイブラハム](https://ja.wikipedia.org/wiki/F・マーリー・エイブラハム)から翻訳されています。
 
 
-**F・マーリー・エイブラハム**（**F. Murray Abraham**、[1939年](../Page/1939年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[俳優](../Page/俳優.md "wikilink")。
+**F・マーリー・エイブラハム**（F. Murray Abraham、[1939年](../Page/1939年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[俳優](../Page/俳優.md "wikilink")。
 
 ## 来歴
 
@@ -13,7 +13,7 @@
 
 ### プライベート
 
-1962年に結婚し、子供が二人いる\[3\]。
+1962年に結婚し、子供が2人いる\[3\]。
 
 ## 主な出演作品
 
@@ -352,6 +352,13 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2019</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ヒックとドラゴン_聖地への冒険" title="wikilink">ヒックとドラゴン 聖地への冒険</a><br />
+<em>How to Train Your Dragon: The Hidden World</em></p></td>
+<td><p>グリメル・ザ・グリズリー</p></td>
+<td><p>声の出演</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -396,7 +403,7 @@
 </tr>
 <tr class="even">
 <td><p>2012</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブルーブラッド" title="wikilink">ブルーブラッド</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/ブルーブラッド_〜NYPD家族の絆〜" title="wikilink">ブルーブラッド 〜NYPD家族の絆〜</a><br />
 ''Blue Bloods</p></td>
 <td><p>レオン・グッドウィン</p></td>
 <td><p>エピソード ''The Job</p></td>
@@ -424,12 +431,19 @@
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
-<td><p>The Good Fight/ザ・グッド・ファイト<br />
+<td><p><a href="../Page/ザ・グッド・ファイト.md" title="wikilink">The Good Fight/ザ・グッド・ファイト</a><br />
 <em>The Good Fight</em></p></td>
 <td><p>バール・プレストン</p></td>
 <td><p>シーズン2 第5話 ''Day 436</p></td>
 </tr>
 <tr class="odd">
+<td><p>2020-</p></td>
+<td><p><a href="../Page/神話クエスト:レイヴンズ・バンケット.md" title="wikilink">神話クエスト:レイヴンズ・バンケット</a><em><br />
+Mythic Quest: Raven's Banquet</em></p></td>
+<td><p>C.W. ロングボトム</p></td>
+<td><p>メインキャスト</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -449,4 +463,4 @@
 
 1.  [F. Murray Abraham, Oscar Winner, Seeks Tolerance Through Arts](http://www.america.gov/st/washfile-english/2006/September/20060915155551bcreklaw0.2931024.html). America.gov (2006-09-20). Retrieved on 2012-10-15.
 2.
-3.  [The Movie : F. Murray Abraham](http://web.archive.org/web/20070928155106/http://www.amadeusimmortal.com/movie/abraham.php). amadeusimmortal.com
+3.  [The Movie : F. Murray Abraham](https://web.archive.org/web/20070928155106/http://www.amadeusimmortal.com/movie/abraham.php). amadeusimmortal.com

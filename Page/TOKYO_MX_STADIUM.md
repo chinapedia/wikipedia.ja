@@ -34,7 +34,7 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
   - **[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")** [11月1日](../Page/11月1日.md "wikilink")午後6時、[東京メトロポリタンテレビジョン](../Page/東京メトロポリタンテレビジョン.md "wikilink")（MXテレビ）開局。
       - [11月5日](../Page/11月5日.md "wikilink")午後1時より「'95プロ野球日韓親善スーパーゲーム」第3戦（[阪神甲子園球場](../Page/阪神甲子園球場.md "wikilink")、[サンテレビ制作](../Page/サンテレビジョン.md "wikilink")）を生中継。
   - **[1996年](../Page/1996年.md "wikilink")**
-      - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、[東京六大学野球](https://ja.wikipedia.org/wiki/東京六大学野球 "wikilink")春季リーグの中継を開始。
+      - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、[東京六大学野球](https://ja.wikipedia.org/wiki/東京六大学野球 "wikilink")春季リーグの中継を開始。
       - [7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、[高校野球東東京大会](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")・西東京大会の中継を開始。[明治神宮野球場](../Page/明治神宮野球場.md "wikilink")より決勝戦を中継する。当時は「[東京NEWS](../Page/東京NEWS.md "wikilink")」を優先させていたため13時からの中継となる。
       - [10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、東京六大学野球秋季リーグを中継。
 
@@ -56,7 +56,8 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
       - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、交流戦開始。阪神主催の対西武戦、対ソフトバンク戦から放送開始。
       - [6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")、交流戦、西武対阪神戦を放送。（MXで放送されたテレ玉制作のプロ野球公式戦中継は以上の3試合のみとなっている。）
       - 阪神戦中継の中で毎年若干数が放送されていた[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")の公式戦（阪神対巨人戦）はこの年を最後に中継が無くなる。これ以降TOKYO MXは地元球団である巨人の公式戦を一度も放送していない\[1\]。
-  - **[2006年](../Page/2006年.md "wikilink")** [7月1日](../Page/7月1日.md "wikilink")、東京MXテレビが開局以来放送してきた[テレコムセンター](../Page/テレコムセンター.md "wikilink")から[麹町](../Page/麹町.md "wikilink")の新社屋へ移転。
+  - **[2006年](../Page/2006年.md "wikilink")**
+      - [7月1日](../Page/7月1日.md "wikilink")、東京MXテレビが開局以来放送してきた[テレコムセンター](../Page/テレコムセンター.md "wikilink")から[麹町](../Page/麹町.md "wikilink")の新社屋へ移転。
       - [7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、愛称が「TOKYO MX」に変更されたことに伴ってタイトルを『**TOKYO MX STADIUM**』とする。
       - [8月4日](../Page/8月4日.md "wikilink")と[8月6日](../Page/8月6日.md "wikilink")、ヤクルト対中日戦（神宮球場）のナイターを[ハイビジョン](../Page/ハイビジョン.md "wikilink")生中継。
         （[三重テレビと](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")[岐阜放送](../Page/岐阜放送.md "wikilink")へも同時ネットする）
@@ -134,11 +135,15 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
 ### 高校野球
 
   - [全国高等学校野球選手権大会](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")東東京大会・西東京大会（準々決勝以降、いずれも神宮球場）※かつては1回戦から[府中市民球場](../Page/府中市民球場.md "wikilink")や[江戸川区球場](../Page/江戸川区球場.md "wikilink")などから中継したこともあった。
-  - 2017年より準決勝以降に縮小。
+  - 2017年より準決勝以降に縮小
+  - 2020年の[2020年夏季東西東京都高等学校野球大会も準決勝以降の中継となった](https://ja.wikipedia.org/wiki/第102回全国高等学校野球選手権大会#都道府県・地方単位で開催される独自大会 "wikilink")。但し、[8月10日](../Page/8月10日.md "wikilink")に行われた優勝校同士の東西対抗戦も中継された。
+  - リポーターは2010年までは高校生が担当していた。
 
 ### 大学野球
 
-  - [東京六大学野球中継](https://ja.wikipedia.org/wiki/東京六大学野球中継 "wikilink") 1996年から数年間、※現在は[スカイ・A sports+で放送](../Page/スカイ・エー.md "wikilink")
+  - [東京六大学野球中継](https://ja.wikipedia.org/wiki/東京六大学野球中継 "wikilink") 1996年から数年間放送。[NHKでは殆ど放送されていなかった早慶戦以外の試合が中継されていた](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")。
+
+※その後[BS日テレ](https://ja.wikipedia.org/wiki/BS日テレ "wikilink")で放送を継続し、現在は[スカイ・A sports+などで放送](../Page/スカイ・エー.md "wikilink")。
 
 ## 放送時間
 
@@ -190,19 +195,12 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
 
 <!-- end list -->
 
-  - アナウンサー
-
-<!-- end list -->
-
-  - [石原敬士](../Page/石原敬士.md "wikilink") (2012年、元:[TSSアナウンサー](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")、現:フリー)
-
-<!-- end list -->
-
   - 過去のアナウンサー・リポーター
 
 <!-- end list -->
 
-  - 柴崎啓志（実況、2009年〜2011年）
+  - [石原敬士](../Page/石原敬士.md "wikilink") (2012年、元:[TSSアナウンサー](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")、現:フリー)
+  - 柴崎啓志（実況、2009年〜2011年）- 以前はBS日テレでの東京六大学野球実況を担当。現在は高校野球西東京大会の実況を担当している。
   - [佐藤隆輔](../Page/佐藤隆輔.md "wikilink")（実況、2008年まで）- この中継を担当しているほか、以前勤めていた[NHKでラジオ](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（第1、FM、国際放送）のニュース（深夜の時間帯）や株式市況（ラジオ第2）も担当。
   - [河田浩兒](../Page/河田浩兒.md "wikilink")（リポーター）
 
@@ -235,7 +233,7 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
 
 <!-- end list -->
 
-  - [柴崎啓志](https://ja.wikipedia.org/wiki/柴崎啓志 "wikilink")
+  - 柴崎啓志
   - [渡邊哲夫](../Page/渡邊哲夫.md "wikilink")
   - [北川義隆](../Page/北川義隆.md "wikilink")（2013年から）
   - [河路直樹](../Page/河路直樹.md "wikilink")（2013年を除く）
@@ -262,7 +260,7 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
 
 <!-- end list -->
 
-  - [佐藤隆輔](../Page/佐藤隆輔.md "wikilink")（1996年～2000年頃まで）
+  - 佐藤隆輔（1996年～2000年頃まで）
   - [水野節彦](https://ja.wikipedia.org/wiki/水野節彦 "wikilink")（2007年まで）
   - [高柳謙一](../Page/高柳謙一.md "wikilink")（2008年）
   - [熊谷龍一](https://ja.wikipedia.org/wiki/熊谷龍一 "wikilink")（2009年）
@@ -281,6 +279,28 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
   - [千賀絢子](https://ja.wikipedia.org/wiki/千賀絢子 "wikilink")（2014年）
   - [太田聖子](https://ja.wikipedia.org/wiki/太田聖子 "wikilink")（2014年）
   - [比嘉夏希](https://ja.wikipedia.org/wiki/比嘉夏希 "wikilink")（2011年から2014年）
+
+### 大学野球の出演者
+
+  - 解説者
+
+<!-- end list -->
+
+  - 岡田忠（スポーツジャーナリスト・元[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")記者）
+  - [前田祐吉](../Page/前田祐吉.md "wikilink")（元[慶応義塾大学野球部監督](../Page/慶應義塾体育会野球部.md "wikilink")）
+  - [五明公男](https://ja.wikipedia.org/wiki/五明公男 "wikilink")（元[法政大学野球部](../Page/法政大学野球部.md "wikilink")監督）
+  - 坂本二朗（元[東京大学野球部監督](../Page/東京大学運動会硬式野球部.md "wikilink")）
+  - 平野裕一（元東京大学野球部監督）
+
+<!-- end list -->
+
+  - アナウンサー
+
+<!-- end list -->
+
+  - 佐藤隆輔
+  - [吉岡晋也](../Page/吉岡晋也.md "wikilink")
+  - [篠原さなえ](../Page/篠原さなえ.md "wikilink")
 
 ## テーマソング
 
@@ -307,6 +327,7 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
   - 2017年 - [亜咲花](https://ja.wikipedia.org/wiki/亜咲花 "wikilink")「Unfulfilled Butterfly」
   - 2018年 - ベリーグッドマン「ライオン (2018 New Ver.) 」
   - 2019年 - ベリーグッドマン「夢のまた夢」
+  - 2020年 - [NEWS](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")「[Endless Summer](https://ja.wikipedia.org/wiki/LIVE_\(NEWSのアルバム\) "wikilink")」
 
 <!-- end list -->
 
@@ -329,6 +350,7 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
 ## 関連項目
 
   - [パ・リーグ応援宣言\!ホークス中継](https://ja.wikipedia.org/wiki/パ・リーグ応援宣言!ホークス中継 "wikilink")
+  - [東京六大学野球中継](https://ja.wikipedia.org/wiki/東京六大学野球中継 "wikilink")
   - [サンテレビボックス席](../Page/サンテレビボックス席.md "wikilink")（神宮球場での中継及びABCとの共同制作・リレー中継実施時はMXで未放送だった）
   - [三重テレビナイター](https://ja.wikipedia.org/wiki/三重テレビナイター "wikilink")（MX制作の中日戦をネット）
   - [ぎふチャン ダイナミックナイター](https://ja.wikipedia.org/wiki/ぎふチャン_ダイナミックナイター "wikilink")（同上）
@@ -339,7 +361,7 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
   - [東京ケーブルネットワーク](../Page/東京ケーブルネットワーク.md "wikilink")（『TVSヒットナイター』及び『なまら\! 北海道日本ハムファイターズ』での日本ハム戦の東京ドーム遠征の放送権と『日本ハム戦』と『巨人戦の試合前放送』のスコア表示の管理しているケーブルテレビ局）
   - [全国高等学校野球選手権東東京大会](../Page/全国高等学校野球選手権東東京大会.md "wikilink")
   - [全国高等学校野球選手権西東京大会](../Page/全国高等学校野球選手権西東京大会.md "wikilink")
-  - [東京六大学野球](https://ja.wikipedia.org/wiki/東京六大学野球 "wikilink")
+  - [東京六大学野球連盟](../Page/東京六大学野球連盟.md "wikilink")
 
 ## 外部リンク
 

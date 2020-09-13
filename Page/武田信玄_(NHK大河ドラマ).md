@@ -7,7 +7,7 @@
 
 [甲斐](https://ja.wikipedia.org/wiki/甲斐 "wikilink")の[戦国大名](../Page/戦国大名.md "wikilink")である[武田信玄](../Page/武田信玄.md "wikilink")（晴信）が主人公。原作は[新田次郎](../Page/新田次郎.md "wikilink")の歴史小説の『[武田信玄](../Page/武田信玄_\(小説\).md "wikilink")』と『武田三代』。新田次郎小説の大河ドラマ化はこれが初めて。[脚本家](../Page/脚本家.md "wikilink")は[田向正健](../Page/田向正健.md "wikilink")が担当した。前年の『[独眼竜政宗](../Page/独眼竜政宗_\(NHK大河ドラマ\).md "wikilink")』に続いて広義の[戦国時代を扱った作品である](../Page/戦国時代_\(日本\).md "wikilink")。武田信玄が主要登場人物として登場する大河ドラマには、[上杉謙信](../Page/上杉謙信.md "wikilink")を主人公にした[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")の『[天と地と](../Page/天と地と_\(NHK大河ドラマ\).md "wikilink")』、武田家の「[軍師](../Page/軍師.md "wikilink")」とされる[山本勘助](https://ja.wikipedia.org/wiki/山本勘助 "wikilink")を主人公にした[2007年](../Page/2007年.md "wikilink")の『[風林火山](../Page/風林火山_\(NHK大河ドラマ\).md "wikilink")』がある。
 
-平均視聴率は初回視聴率42.5%、最高視聴率49.2%、平均視聴率39.2%である\[1\]。前年の『独眼竜政宗』と僅か0.5%差で史上2位の平均視聴率であり、あわせて大河ドラマ史の絶頂期を形成した。
+初回視聴率42.5%、最高視聴率49.2%、平均視聴率39.2%である\[1\]。前年の『独眼竜政宗』と僅か0.5%差で史上2位の平均視聴率であり、あわせて大河ドラマ史の絶頂期を形成した。
 
 信玄の母・[大井夫人](../Page/大井の方.md "wikilink")（[若尾文子](../Page/若尾文子.md "wikilink")）が、自分の息子が後世で誤解されていることが多いため、我が子の名誉のために真実を物語る、という体裁を全話一貫してとっている。そのため、本編の[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")も大井夫人役の若尾が兼ねている。最終回および一部の回をのぞいて、各放送回とも大井夫人の「**今宵はここまでに致しとうござりまする**」というセリフによって締めくくられ、この年の[流行語大賞に選ばれた](https://ja.wikipedia.org/wiki/新語・流行語大賞 "wikilink")。本編で大井夫人が死んだ時には、半透明のカメラワークで魂となって我が子晴信を見守るという演出が行われ、ナレーションはそのまま次回以降も続行した。
 
@@ -327,7 +327,7 @@
     演：[古村比呂](../Page/古村比呂.md "wikilink")
     義元の娘。従兄である武田義信の正室。政略結婚ながらも義信を愛するが、義信は謀反の罪で叔父の信玄に幽閉され、やがて自害してしまう。その後、駿河に送り返される際、信玄を激しく非難した。
   - [岡部美濃守](https://ja.wikipedia.org/wiki/岡部久綱 "wikilink")（おかべ みののかみ）
-    演：岩下浩
+    演：[岩下浩](https://ja.wikipedia.org/wiki/岩下浩 "wikilink")
     今川家臣。義元の側近。桶狭間にて義元と共に戦死した。
   - [庵原忠胤](https://ja.wikipedia.org/wiki/庵原忠胤 "wikilink")（いはら ただたね）
     演：[長谷川明男](../Page/長谷川明男.md "wikilink")
@@ -702,7 +702,7 @@
 
   - [番組エピソード　大河ドラマ『武田信玄』-NHKアーカイブス](https://www2.nhk.or.jp/archives/search/special/detail/?d=taiga021)
 
-[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:新田次郎](https://ja.wikipedia.org/wiki/Category:新田次郎 "wikilink") [Category:戦国時代_(日本)を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:戦国時代_\(日本\)を舞台としたテレビドラマ "wikilink") [Category:小説を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:小説を原作とするテレビドラマ "wikilink") [Category:山梨県を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:山梨県を舞台としたテレビドラマ "wikilink") [Category:NHKの特撮番組](https://ja.wikipedia.org/wiki/Category:NHKの特撮番組 "wikilink") [Category:1988年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1988年のテレビドラマ "wikilink") [Category:1980年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1980年代の特撮作品 "wikilink") [Category:NHK甲府](https://ja.wikipedia.org/wiki/Category:NHK甲府 "wikilink") [Category:武田信玄を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:武田信玄を題材としたテレビドラマ "wikilink") [Category:中井貴一](https://ja.wikipedia.org/wiki/Category:中井貴一 "wikilink")
+[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:新田次郎原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:新田次郎原作のテレビドラマ "wikilink") [Category:日本の戦国時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:日本の戦国時代を舞台としたテレビドラマ "wikilink") [Category:小説を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:小説を原作とするテレビドラマ "wikilink") [Category:山梨県を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:山梨県を舞台としたテレビドラマ "wikilink") [Category:NHKの特撮番組](https://ja.wikipedia.org/wiki/Category:NHKの特撮番組 "wikilink") [Category:1988年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1988年のテレビドラマ "wikilink") [Category:1980年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1980年代の特撮作品 "wikilink") [Category:NHK甲府](https://ja.wikipedia.org/wiki/Category:NHK甲府 "wikilink") [Category:武田信玄を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:武田信玄を題材としたテレビドラマ "wikilink") [Category:中井貴一](https://ja.wikipedia.org/wiki/Category:中井貴一 "wikilink")
 
 1.  [ビデオリサーチ NHK大河ドラマ 過去の視聴率データ](http://www.videor.co.jp/data/ratedata/program/03taiga.htm)
 2.  松平は[2017年](../Page/2017年.md "wikilink")放送の『[おんな城主 直虎](https://ja.wikipedia.org/wiki/おんな城主_直虎 "wikilink")』にて、武田信玄役で出演している。

@@ -3,6 +3,8 @@
 
 **PULLTOP**（プルトップ）は、株式会社[ウィルプラス](../Page/ウィルプラス.md "wikilink")の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランドである。
 
+## 概要
+
 [Leaf](../Page/Leaf.md "wikilink")からウィルに移籍した椎原旬（シナリオ）、下原正（シナリオ）、たけやまさみ（原画）、[藤原々々](../Page/藤原々々.md "wikilink")（原画）を中心として結成\[1\]。2002年6月28日にブランドデビュー作『[とらかぷっ\! TROUBLE CAPTOR](https://ja.wikipedia.org/wiki/とらかぷっ! "wikilink")』を発売し、2000年代の業界を盛り上げるメーカーの一角となる\[2\]。
 
 2012年8月10日にスタッフブログにて、姉妹チーム「**PULLTOP LATTE**」（プルトップ・ラテ）の結成、およびブランドデビュー作『[彼女と俺と恋人と。](https://ja.wikipedia.org/wiki/彼女と俺と恋人と。 "wikilink")』制作を発表した\[3\]。「多くの人向けの作品」を作るPULLTOP本体に対して、よりターゲットを絞った「尖った作品」に特化した狙いのブランドとしている\[4\]。
@@ -255,18 +257,91 @@ FD</p></td>
 
 ### PULLTOP LATTE
 
-  - 2012年[12月14日](../Page/12月14日.md "wikilink") - [彼女と俺と恋人と。](https://ja.wikipedia.org/wiki/彼女と俺と恋人と。 "wikilink")
-      - 2017年[5月26日](../Page/5月26日.md "wikilink") - 彼女と俺と恋人と。プレミアムモーションプラス
-  - 2014年[3月28日](../Page/3月28日.md "wikilink") - [恋する夏のラストリゾート](https://ja.wikipedia.org/wiki/恋する夏のラストリゾート "wikilink")
-  - 2014年[10月31日](../Page/10月31日.md "wikilink") - 彼女と俺と、恋するリゾート（上記2作品の合同ファンディスク）\[7\]\[8\]
-  - 2015年[3月27日](../Page/3月27日.md "wikilink") - [ミライカノジョ](https://ja.wikipedia.org/wiki/ミライカノジョ "wikilink")
-  - 2016年[6月24日](../Page/6月24日.md "wikilink") - [ヤキモチ彼女の一途な恋](https://ja.wikipedia.org/wiki/ヤキモチ彼女の一途な恋 "wikilink")
-  - 2017年[3月24日](../Page/3月24日.md "wikilink") - [オフィスで誘うエッチな彼女](https://ja.wikipedia.org/wiki/オフィスで誘うエッチな彼女 "wikilink")
-  - 2020年[6月26日](../Page/6月26日.md "wikilink") - [彼女と俺と恋人と。](https://ja.wikipedia.org/wiki/彼女と俺と恋人と。 "wikilink")ミニFD
+<table>
+<thead>
+<tr class="header">
+<th><p>#</p></th>
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>原画</p></th>
+<th><p>SD原画</p></th>
+<th><p>シナリオ</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>2012年<a href="../Page/12月14日.md" title="wikilink">12月14日</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/彼女と俺と恋人と。" title="wikilink">彼女と俺と恋人と。</a></strong></p></td>
+<td><p>marui、<a href="https://ja.wikipedia.org/wiki/のん_(イラストレーター)" title="wikilink">のん</a></p></td>
+<td></td>
+<td><p>なたけ、<a href="https://ja.wikipedia.org/wiki/田中一郎" title="wikilink">田中一郎</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>2014年<a href="../Page/3月28日.md" title="wikilink">3月28日</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/恋する夏のラストリゾート" title="wikilink">恋する夏のラストリゾート</a></strong></p></td>
+<td><p>marui、もっつん*</p></td>
+<td></td>
+<td><p>樹原新、温泉大祐、相良中通</p></td>
+</tr>
+<tr class="odd">
+<td><p>1&amp;2<br />
+FD</p></td>
+<td><p>2014年<a href="../Page/10月31日.md" title="wikilink">10月31日</a></p></td>
+<td><p><strong>彼女と俺と、恋するリゾート</strong></p></td>
+<td><p>marui、のん、了藤誠仁、もっつん*</p></td>
+<td></td>
+<td><p>樹原新、北川晴、相良中通、田中一郎</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2015年<a href="../Page/3月27日.md" title="wikilink">3月27日</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ミライカノジョ" title="wikilink">ミライカノジョ</a></strong></p></td>
+<td><p>あにぃ、大田優一、悠樹真琴</p></td>
+<td></td>
+<td><p>北川晴、明日希</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2016年<a href="../Page/6月24日.md" title="wikilink">6月24日</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ヤキモチ彼女の一途な恋" title="wikilink">ヤキモチ彼女の一途な恋</a></strong></p></td>
+<td><p>ねみぎつかさ、遠藤麻輝、<a href="https://ja.wikipedia.org/wiki/あいざわひろし" title="wikilink">あいざわひろし</a></p></td>
+<td></td>
+<td><p>後馬久人、JUN</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2017年<a href="../Page/3月24日.md" title="wikilink">3月24日</a></p></td>
+<td><p><strong><a href="../Page/オフィスで誘うエッチな彼女.md" title="wikilink">オフィスで誘うエッチな彼女</a></strong></p></td>
+<td><p>なるみすずね、あいざわひろし、<a href="https://ja.wikipedia.org/wiki/TwinBox" title="wikilink">TwinBox</a></p></td>
+<td></td>
+<td><p>若葉祥慶、ギハラ</p></td>
+</tr>
+<tr class="odd">
+<td><p>1+</p></td>
+<td><p>2017年<a href="../Page/5月26日.md" title="wikilink">5月26日</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/彼女と俺と恋人と。" title="wikilink">彼女と俺と恋人と。</a>プレミアムモーションプラス</strong></p></td>
+<td><p>marui、のん</p></td>
+<td></td>
+<td><p>なたけ、田中一郎</p></td>
+</tr>
+<tr class="even">
+<td><p>1FD</p></td>
+<td><p>2020年<a href="../Page/7月31日.md" title="wikilink">7月31日</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/彼女と俺と恋人と。" title="wikilink">彼女と俺と恋人と。</a>ミニFD</strong></p></td>
+<td><p>marui</p></td>
+<td></td>
+<td><p>風間ぼなんざ</p></td>
+</tr>
+</tbody>
+</table>
 
 ### PULLTOP Air
 
-  - 2015年[5月29日](../Page/5月29日.md "wikilink") - [なついろレシピ](https://ja.wikipedia.org/wiki/なついろレシピ "wikilink")
+| \# | 発売日                                       | タイトル                                                             | 原画                                                       | SD原画  | シナリオ          |
+| -- | ----------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------- | ----- | ------------- |
+| 1  | 2015年[5月29日](../Page/5月29日.md "wikilink") | *' [なついろレシピ](https://ja.wikipedia.org/wiki/なついろレシピ "wikilink")*' | のん、はる雪、[作々](https://ja.wikipedia.org/wiki/作々 "wikilink") | 田口まこと | 佐藤礼、折畑啓助、高嶋栄二 |
 
 ## 主要スタッフ
 
@@ -304,5 +379,3 @@ FD</p></td>
 4.  [PUSH\!\!](../Page/PUSH!!.md "wikilink") 2013年1月号 pp.66-67.
 5.
 6.
-7.  [PUSH\!\!](../Page/PUSH!!.md "wikilink") 2014年10月号 pp.26-27.
-8.

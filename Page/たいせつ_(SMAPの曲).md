@@ -10,7 +10,8 @@
   - ジャケットにメンバーの5人は写っていない。前々作の「[Peace\!](https://ja.wikipedia.org/wiki/Peace! "wikilink")」に続いてこれが2度目である。
   - 「たいせつ」は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[6月18日](../Page/6月18日.md "wikilink")発売のアルバム『[SMAP 012 VIVA AMIGOS\!](../Page/SMAP_012_VIVA_AMIGOS!.md "wikilink")』、[2001年](../Page/2001年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")発売のベスト・アルバム『[Smap Vest](https://ja.wikipedia.org/wiki/Smap_Vest "wikilink")』、[2016年](../Page/2016年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")発売のベスト・アルバム『[SMAP 25 YEARS](https://ja.wikipedia.org/wiki/SMAP_25_YEARS "wikilink")』に収録されている。カップリングの「恋の形」は[2001年](../Page/2001年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")発売のアルバム『[pamS](https://ja.wikipedia.org/wiki/pamS "wikilink")』（2001 version）に収録されているが、オリジナル・バージョンはアルバム未収録。
   - 「たいせつ」は[木村と](../Page/木村拓哉.md "wikilink")[稲垣にソロパートが与えられている](../Page/稲垣吾郎.md "wikilink")。
-  - カップリングの「恋の形」はオリジナルでは間奏の木村のみソロパートがあり他はユニゾンで歌っているが、「2001 version」では5人全員にソロパートがあり、稲垣が1番と2番のAメロ、中居が1番と2番のBメロ、香取が1番のサビ、草彅が2番のサビ、木村がオリジナルと同じ間奏のパートを担当し、最後はユニゾンで歌っている。
+  - カップリングの「恋の形」は木村のみソロパートがある。
+  - 裏ベストアルバムの「pamS」では、2001versionとして再録音し、全員にソロパートが与えられている。
   - たいせつの[PVは](../Page/ミュージック・ビデオ.md "wikilink")、[字幕](../Page/字幕.md "wikilink")がついており[カラオケ](../Page/カラオケ.md "wikilink")の本人映像のようなものになっている。
   - 中居が総合司会を務めた『[FNS27時間テレビ12 FNS1億2700万人の27時間テレビ夢列島〜てれずにいいこと・てれずに楽しく〜](https://ja.wikipedia.org/wiki/FNS27時間テレビ#第12回（1998年）〜てれずにいいこと・てれずに楽しく〜 "wikilink")』テーマソングに起用された。
 

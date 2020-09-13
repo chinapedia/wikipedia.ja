@@ -50,7 +50,7 @@
 <td><p><a href="../Page/地獄の黙示録.md" title="wikilink">地獄の黙示録</a><br />
 <em>Apocalypse Now</em></p></td>
 <td><p>ヘリコプターの操縦手</p></td>
-<td></td>
+<td><p>クレジット無し</p></td>
 </tr>
 <tr class="odd">
 <td><p>1984</p></td>

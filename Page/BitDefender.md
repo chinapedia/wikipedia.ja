@@ -182,12 +182,19 @@ Unix環境向けに、次の製品が発売されている。
 
 ## 動作環境
 
-「BitDefender 2015」の動作環境は以下のように公表されている。
+「BitDefender インターネットセキュリティ2020」の動作環境は以下のように公表されている。
 
-  - Windows XP Service Pack 3 以降の32bit版。Windows Vista Service Pack 2 以降、Windows 7 Service Pack 1以降の32bit版と64bit版
-  - Intel Core Duo以上のプロセッサ
-  - 1GBのRAMメモリ（1.5GB以上を推奨）
+  - Windows 7 Service Pack 1以降の32bit版と64bit版
+  - Intel Core Duo（2 GHz）以上のプロセッサ
+  - 2GBのRAMメモリ
+  - 2.5GBのハードディスク空き容量
+
+「Bitdefender アンチウィルス for Mac」の動作環境は以下のように公表されている。
+
+  - macOS X Yosemite（10.10）以上
   - 1GBのハードディスク空き容量
+
+「トータルセキュリティ」以上を選ぶことで、Windows、Mac両対応となる。
 
 ## トラブル事例
 

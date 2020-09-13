@@ -85,6 +85,5 @@
 
 ## 外部リンク
 
-  - [金のA様×銀のA様](http://www.ntv.co.jp/a-sama/)
-
+  -
 [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink") [Category:日本テレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビのバラエティ番組の歴史 "wikilink")

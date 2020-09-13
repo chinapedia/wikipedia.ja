@@ -27,7 +27,7 @@
 
 ## 特徴
 
-登場人物の名前を固有名詞で縛ることが多く、ユーザーからも期待されているところがある\[9\]。前身であるBasiL時代の『[それは舞い散る桜のように](../Page/それは舞い散る桜のように.md "wikilink")』ではヒロインの名前が新幹線、『SHUFFLE\!』シリーズでは植物、『俺たちに翼はない』シリーズでは主人公の名前が空港、『月に寄りそう乙女の作法』『[乙女理論とその周辺 -Ecole de Paris-](https://ja.wikipedia.org/wiki/乙女理論とその周辺_-Ecole_de_Paris- "wikilink")』では金融機関、『[月に寄りそう乙女の作法2](https://ja.wikipedia.org/wiki/月に寄りそう乙女の作法2 "wikilink")』では商業施設といった具合である。[アッチョリケ](https://ja.wikipedia.org/wiki/アッチョリケ "wikilink")はシリアスでも感情移入できないと嫌がっており、声優からも真面目なシーンでもやりにくいと言われている\[10\]。
+登場人物の名前を固有名詞で縛ることが多く、ユーザーからも期待されているところがある\[9\]。前身であるBasiL時代の『[それは舞い散る桜のように](../Page/それは舞い散る桜のように.md "wikilink")』ではヒロインの名前が新幹線、『SHUFFLE\!』シリーズと『SPIRAL\!\!』では植物(エピソード2では石)、『俺たちに翼はない』シリーズでは主人公の名前が空港+一部キャラの名前が鳥、『月に寄りそう乙女の作法』『[乙女理論とその周辺 -Ecole de Paris-](https://ja.wikipedia.org/wiki/乙女理論とその周辺_-Ecole_de_Paris- "wikilink")』では金融機関、『[月に寄りそう乙女の作法2](https://ja.wikipedia.org/wiki/月に寄りそう乙女の作法2 "wikilink")』では商業施設といった具合である。[アッチョリケ](https://ja.wikipedia.org/wiki/アッチョリケ "wikilink")はシリアスでも感情移入できないと嫌がっており、声優からも真面目なシーンでもやりにくいと言われている\[10\]。
 
 エッチシーンにはギャグが入るため、ファンから叱りを受けることもあるが、ギャグはイチャラブの究極系と判断している\[11\]。
 
@@ -61,7 +61,7 @@
       - 2017年5月26日 - 月に寄りそう乙女の作法2.1 E×S×PAR\!\!
       - 2017年12月22日 - 月に寄りそう乙女の作法2.2 A×L+SA\!\!
   - 2018年4月27日 - [君と目覚める幾つかの方法](https://ja.wikipedia.org/wiki/君と目覚める幾つかの方法 "wikilink")
-  - 2019年2月28日 - [SPIRAL\!\!](https://ja.wikipedia.org/wiki/SPIRAL!! "wikilink")
+  - 2019年2月28日 - [SPIRAL\!\!](../Page/SHUFFLE!.md "wikilink")
   - 2020年5月29日 - [SHUFFLE\! エピソード2 神にも悪魔にも狙われている男](../Page/SHUFFLE!_エピソード2_神にも悪魔にも狙われている男.md "wikilink")
 
 <!-- end list -->
@@ -101,6 +101,7 @@
 <!-- end list -->
 
   - 2019年6月28日 - [黄昏のフォルクローレ](https://ja.wikipedia.org/wiki/黄昏のフォルクローレ "wikilink")
+  - 2020年9月25日 - 保健室のセンセーとシャボン玉中毒の助手\[12\]
 
 ## 主なスタッフ
 
@@ -306,7 +307,7 @@ Navelブランド作品には必ず名前が入っていたが、アッチョリ
 
   - [Navel Official Website](https://www.project-navel.com/)
 
-  - [Website](https://web.archive.org/web/20181114105327/http://www.project-lime.com/)（2018年11月14日時点の[アーカイブ](https://ja.wikipedia.org/wiki/archive.is "wikilink")）
+  - [LimeWebsite](https://web.archive.org/web/20181114105327/http://www.project-lime.com/)（2018年11月14日時点の[アーカイブ](https://ja.wikipedia.org/wiki/archive.is "wikilink")）
 
   - [Navel honeybell Official Website](https://web.archive.org/web/20160412132715/http://www.navel-honeybell.com/)（2016年4月12日時点の[アーカイブ](https://ja.wikipedia.org/wiki/archive.is "wikilink")）
 
@@ -328,3 +329,4 @@ Navelブランド作品には必ず名前が入っていたが、アッチョリ
 9.  「絶対誰かに話したくなる『月に寄りそう乙女の作法2』最速マル秘ガイド」、『[BugBug](../Page/BugBug.md "wikilink")』2014年8月号（Vol.240）、149-155頁、[サン出版](https://ja.wikipedia.org/wiki/サン出版 "wikilink")。
 10.
 11.
+12.

@@ -17,7 +17,7 @@
 
 第一回大会は1984年に行われ、以降2006年まで年1回のペースで入賞者が発表された。2007年から2010年の間は開催されなかったが、2011年から再開され、進行に前後は見られるもののだいたい年1回のペースで2014年まで開催されている。[Perl](../Page/Perl.md "wikilink")作者の[ラリー・ウォール](../Page/ラリー・ウォール.md "wikilink")や[KornShell](../Page/KornShell.md "wikilink")作者のなどの著名な業界関係者も参加している。
 
-このようなコンテストを開催しようと思ったきっかけは、初期の開催者[Landon Curt NollとLarry](https://ja.wikipedia.org/wiki/w:Landon_Curt_Noll "wikilink") Basselが、[Bourne Shellのソースコード](../Page/Bourne_Shell.md "wikilink")\[2\]と、初期の[BSD](../Page/BSD.md "wikilink")のfinger（[w:Finger protocol](https://ja.wikipedia.org/wiki/w:Finger_protocol "wikilink")）のソースコードを見たことだという\[3\]。
+このようなコンテストを開催しようと思ったきっかけは、初期の開催者とLarry Basselが、[Bourne Shellのソースコード](../Page/Bourne_Shell.md "wikilink")\[2\]と、初期の[BSD](../Page/BSD.md "wikilink")のfinger（[Fingerプロトコル](../Page/Fingerプロトコル.md "wikilink")）のソースコードを見たことだという\[3\]。
 
 ## コードの例
 
@@ -32,7 +32,7 @@ main() { printf(&unix["\021%six\012\0"],(unix)["have"]+"fun"-0x60);}
   -
     説明：一見コンパイルが通らないように見えるが、上記コードは正常にコンパイルされ、実行すると「unix」と表示される。UNIX上でコンパイルした場合トークンunixが1としてマクロ定義(\#define unix 1)されており、配列要素のアクセス方法で配列と添字が交換可能である\[4\]ことなどのテクニックを利用している。
 
-下記の例は1988年の大会にエントリーされた、[円周率](https://ja.wikipedia.org/wiki/円周率 "wikilink")を計算するプログラムである: \[5\]\[6\]
+下記の例は1988年の大会にエントリーされた、[円周率](https://ja.wikipedia.org/wiki/円周率 "wikilink")を計算するプログラムである\[5\]\[6\]。
 
 ``` c
 #define _ -F<00||--F-OO--;
@@ -57,9 +57,9 @@ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 }
 ```
 
-(なお、上のプログラムはK\&RのCでは動作するが、ANSI Cでは修正しないと動作しない\[7\].)
+なお、上のプログラムは[K\&RのCでは動作するが](https://ja.wikipedia.org/wiki/プログラミング言語C "wikilink")、[ANSI Cでは修正しないと動作しない](https://ja.wikipedia.org/wiki/ANSI_C "wikilink")\[7\]。
 
-次のものは1998年の大会で優勝した、フライトシミュレータのプログラムである\[8\] :
+次のものは1998年の大会で優勝した、フライトシミュレータのプログラムである\[8\]。
 
 ``` c
 #include                                     <math.h>
@@ -150,13 +150,13 @@ sin(j); a=B*T*D-E*W; XClearWindow(e,z); t=T*E+ D*B*W; j+=d*_*D-_*F*E; P=W*E*B-T*
 
   - [大会公式サイト](https://www.ioccc.org)
 
-[Category:C言語](https://ja.wikipedia.org/wiki/Category:C言語 "wikilink") [Category:プログラミングコンテスト](https://ja.wikipedia.org/wiki/Category:プログラミングコンテスト "wikilink") [Category:ユーモアの賞](https://ja.wikipedia.org/wiki/Category:ユーモアの賞 "wikilink")
+[Category:C言語](https://ja.wikipedia.org/wiki/Category:C言語 "wikilink") [Category:プログラミングコンテスト](https://ja.wikipedia.org/wiki/Category:プログラミングコンテスト "wikilink") [Category:ユーモアの賞](https://ja.wikipedia.org/wiki/Category:ユーモアの賞 "wikilink") [Category:難読化](https://ja.wikipedia.org/wiki/Category:難読化 "wikilink")
 
-1.  [難読化コード](https://ja.wikipedia.org/wiki/難読化コード "wikilink")に変換するツールを指すobfuscatorなどと同義の「obfuscate」で、「邪悪な」などと意訳されることもある（『Life with UNIX』の日本語版など）。[Perl](../Page/Perl.md "wikilink")による同様のコンテストである[:en:Obfuscated Perl Contestは](https://ja.wikipedia.org/wiki/:en:Obfuscated_Perl_Contest "wikilink")、時事ネタ（[竹下登\#内閣総理大臣](https://ja.wikipedia.org/wiki/竹下登#内閣総理大臣 "wikilink")の「言語明瞭・意味不明瞭」）から「言語不明瞭Perlコンテスト」と訳された[1](http://twitter.com/yoshiyuki_kondo/status/171591102510538752)。なお「Perlは普通に書いても難読になるからコンテストが必要ない」というハッカージョークがある。
+1.  [難読化コード](https://ja.wikipedia.org/wiki/難読化コード "wikilink")に変換するツールを指すobfuscatorなどと同義の「obfuscate」で、「邪悪な」などと意訳されることもある（『Life with UNIX』の日本語版など）。[Perl](../Page/Perl.md "wikilink")による同様のコンテストである[:en:Obfuscated Perl Contestは](https://ja.wikipedia.org/wiki/:en:Obfuscated_Perl_Contest "wikilink")、時事ネタ（[竹下登\#内閣総理大臣](https://ja.wikipedia.org/wiki/竹下登#内閣総理大臣 "wikilink")の「言語明瞭・意味不明瞭」）から「言語不明瞭Perlコンテスト」と訳された。なお「Perlは普通に書いても難読になるからコンテストが必要ない」というハッカージョークがある。
 2.  Bourne Shellのソースコード（ <http://minnie.tuhs.org/cgi-bin/utree.pl?file=V7/usr/src/cmd/sh> ）はマクロ（ <http://minnie.tuhs.org/cgi-bin/utree.pl?file=V7/usr/src/cmd/sh/mac.h> ）を使用した「[ALGOL](../Page/ALGOL.md "wikilink")のような見た目のC」で書かれていることで悪名高い
 3.  [IOCCCのFAQ](http://www.ioccc.org/faq.html)の「Q: How did the IOCCC get started?」に対する回答より
 4.  Cコンパイラでは、配列aと添字iに対してa\[i\]は\*(a+i)として解釈される。そのためi\[a\]と書いても同じ結果が得られる。コード例では1\["have"\]は"have"\[1\]と等価であり、結果は'a'である。
 5.  [5th International Obfuscated C Code Contest, 1988 - westley.c](http://www0.us.ioccc.org/years.html#1988)
 6.  [レイモンド(1995)](https://ja.wikipedia.org/wiki/#レイモンド1995 "wikilink") p.353
-7.  using gcc, compile with the following command line: `gcc -traditional-cpp -o r r.c` or `gcc -E r.c | sed 's/- -/--/g' > r2.c ; gcc -o r2 r2.c` (The source file is `r.c`)
+7.  gccの場合、コンパイル時に以下のコマンドを実行する必要がある。`gcc -traditional-cpp -o r r.c` または `gcc -E r.c | sed 's/- -/--/g' > r2.c ; gcc -o r2 r2.c`　（ソースファイルを`r.c`とする）
 8.  [IOCCC Flight Simulator](http://www.aerojockey.com/software/ioccc/index.html)

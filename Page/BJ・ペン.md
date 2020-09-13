@@ -9,7 +9,7 @@
 
 ## 来歴
 
-裕福な家庭で育ったが、少年時代はハワイ島でケンカにあけくれる毎日を送っていた。17歳の頃、近所にできた柔術道場で柔術を始める\[1\]。その後間もなくして、[ブラジリアン柔術](../Page/ブラジリアン柔術.md "wikilink")の修行でアメリカ本土へ渡り、[ハウフ・グレイシー](../Page/ハウフ・グレイシー.md "wikilink")の道場に入門。[ノヴァウニオン](https://ja.wikipedia.org/wiki/ノヴァウニオン "wikilink")に移籍し、[2000年](../Page/2000年.md "wikilink")に[アンドレ・ペデネイラス](../Page/アンドレ・ペデネイラス.md "wikilink")から黒帯を授与された。
+裕福な家庭で育ったが、少年時代はハワイ島でケンカにあけくれる毎日を送っていた。17歳の頃、近所にできた柔術道場で柔術を始める\[1\]。その後間もなくして、[ブラジリアン柔術](../Page/ブラジリアン柔術.md "wikilink")の修行でアメリカ本土へ渡り、[ハウフ・グレイシー](../Page/ハウフ・グレイシー.md "wikilink")の道場に入門。[ノヴァウニオン](../Page/ノヴァウニオン.md "wikilink")に移籍し、[2000年](../Page/2000年.md "wikilink")に[アンドレ・ペデネイラス](../Page/アンドレ・ペデネイラス.md "wikilink")から黒帯を授与された。
 
 [2000年](../Page/2000年.md "wikilink")7月、[柔術世界選手権の黒帯ペナ](../Page/世界柔術選手権.md "wikilink")（-67kg）級で優勝、ブラジル人以外の選手として初めてアダルト黒帯の部を制した。
 
@@ -73,13 +73,13 @@ UFCに対戦する意味のある相手がもう残っていないとして[K-1]
 
 [2014年](../Page/2014年.md "wikilink")4月から放送が始まった「[The Ultimate Fighter](../Page/The_Ultimate_Fighter.md "wikilink")」の[シーズン19で](https://ja.wikipedia.org/wiki/The_Ultimate_Fighter:_Team_Edgar_vs._Team_Penn "wikilink")[フランク・エドガー](https://ja.wikipedia.org/wiki/フランク・エドガー "wikilink")と共にそれぞれのチームのヘッドコーチを務めた。
 
-2014年7月6日、フェザー級に階級を下げ[The Ultimate Fighter 19 Finaleでコーチ対決としてフェザー級ランキング](https://ja.wikipedia.org/wiki/The_Ultimate_Fighter_19_Finale "wikilink")3位のエドガーと通算3度目の対戦。ペンはこの試合のために[ノヴァウニオン](https://ja.wikipedia.org/wiki/ノヴァウニオン "wikilink")に復帰をして[アンドレ・ペデネイラス](../Page/アンドレ・ペデネイラス.md "wikilink")のコーチの下、[ヘナン・バラオン](https://ja.wikipedia.org/wiki/ヘナン・バラオン "wikilink")や[ジョゼ・アルド](https://ja.wikipedia.org/wiki/ジョゼ・アルド "wikilink")とトレーニングキャンプを行っていたが、試合はエドガーに終始圧倒され、3RTKO負け。試合後には「俺は今夜ケージに戻ってくるべきではなかった。[ダナ・ホワイト](../Page/ダナ・ホワイト.md "wikilink")はもう終わりだと言っていたけど、同意しなければならない」と語り、引退を宣言した\[13\]。
+2014年7月6日、フェザー級に階級を下げ[The Ultimate Fighter 19 Finaleでコーチ対決としてフェザー級ランキング](https://ja.wikipedia.org/wiki/The_Ultimate_Fighter_19_Finale "wikilink")3位のエドガーと通算3度目の対戦。ペンはこの試合のために[ノヴァウニオン](../Page/ノヴァウニオン.md "wikilink")に復帰をして[アンドレ・ペデネイラス](../Page/アンドレ・ペデネイラス.md "wikilink")のコーチの下、[ヘナン・バラオン](https://ja.wikipedia.org/wiki/ヘナン・バラオン "wikilink")や[ジョゼ・アルド](https://ja.wikipedia.org/wiki/ジョゼ・アルド "wikilink")とトレーニングキャンプを行っていたが、試合はエドガーに終始圧倒され、3RTKO負け。試合後には「俺は今夜ケージに戻ってくるべきではなかった。[ダナ・ホワイト](../Page/ダナ・ホワイト.md "wikilink")はもう終わりだと言っていたけど、同意しなければならない」と語り、引退を宣言した\[13\]。
 
 [2016年](../Page/2016年.md "wikilink")6月5日、[UFC 199で](https://ja.wikipedia.org/wiki/UFC_199 "wikilink")[コール・ミラー](https://ja.wikipedia.org/wiki/コール・ミラー "wikilink")との対戦が決まっていたが、全米アンチドーピング機関（USADA）が3月25日に抜き打ち検査を実施した際に、ペンがグルタチオンを点滴した事をUSADA検査官へ報告したところ、グルタチオンは禁止薬物ではないが、点滴行為自体がドーピング規定に違反する行為だとして、6か月の出場停止処分を受けた。ペンはこの事について、グレッグ・ジャクソンのチームドクター団にトレーニングの疲労から来る視力の低下やめまいの診断を受けたところ、グルタチオンを点滴投与することを勧められた為、グルタチオンがUSADAの禁止薬物リストに記載されていないことを確認した上で点滴投与したが、計量後の点滴が禁止されたことは知っていたものの、点滴が計量後だけでなく365日1年を通して禁止だったことを知らずに点滴を使用してしまったと説明した\[14\]。
 
 [2017年](../Page/2017年.md "wikilink")1月15日、2年6か月ぶりの復帰戦となった[UFC Fight Night: Rodríguez vs. Pennでフェザー級ランキング](https://ja.wikipedia.org/wiki/UFC_Fight_Night:_Rodríguez_vs._Penn "wikilink")10位の[ヤイール・ロドリゲス](https://ja.wikipedia.org/wiki/ヤイール・ロドリゲス "wikilink")と対戦し、パウンドでTKO負け。
 
-[2018年](../Page/2018年.md "wikilink")12月29日、階級をライト級に戻し[UFC 232でライアン](https://ja.wikipedia.org/wiki/UFC_232 "wikilink")・ホールと対戦し、ヒールフックで一本負け。自身初の一本負けを喫し、6連敗となった。
+[2018年](../Page/2018年.md "wikilink")12月29日、階級をライト級に戻し[UFC 232で](https://ja.wikipedia.org/wiki/UFC_232 "wikilink")[ライアン・ホールと対戦し](https://ja.wikipedia.org/wiki/ライアン・ホール_\(格闘家\) "wikilink")、ヒールフックで一本負け。自身初の一本負けを喫し、6連敗となった。
 
 2019年5月11日、[UFC 237で](https://ja.wikipedia.org/wiki/UFC_237 "wikilink")[クレイ・グイダ](../Page/クレイ・グイダ.md "wikilink")と対戦し、判定負けを喫した。7連敗となった。
 
@@ -227,7 +227,7 @@ UFCに対戦する意味のある相手がもう残っていないとして[K-1]
 
   - [UFC 選手データ](https://www.ufc.com/athlete/bj-penn)
 
-  - [HERO'S 選手データ](http://web.archive.org/web/20110102042535/http://www.hero-s.com/06fightersinfo/06ha/04penn/04penn.html)
+  - [HERO'S 選手データ](https://web.archive.org/web/20110102042535/http://www.hero-s.com/06fightersinfo/06ha/04penn/04penn.html)
 
   - [K-1 選手データ](http://k-1.info/html/profile_jp/view_ha_bj_penn.html)
 

@@ -1,7 +1,7 @@
 > この記事は[MBSマンスリーリポート](https://ja.wikipedia.org/wiki/MBSマンスリーリポート)から翻訳されています。
 
 
-**MBSマンスリーリポート**（エムビーエスマンスリーリポート）とは、[大阪](../Page/大阪.md "wikilink")の[毎日放送](../Page/毎日放送.md "wikilink")（[MBSテレビ](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）で毎月第1日曜日の午前5:15〜5:30（[JST](../Page/日本標準時.md "wikilink")）に放送されている、MBSテレビ・[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")の広報・[自己批評番組](../Page/自己批評番組.md "wikilink")である。[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")・[字幕放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")。
+**MBSマンスリーリポート**（エムビーエスマンスリーリポート）とは、[毎日放送](../Page/毎日放送.md "wikilink")（[MBSテレビ](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）で毎月第1日曜日の午前5:15〜5:30（[JST](../Page/日本標準時.md "wikilink")）に放送されている、MBSテレビ・[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")の広報・[自己批評番組](../Page/自己批評番組.md "wikilink")である。
 
 [2014年](../Page/2014年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")までは毎月第1土曜日の5:30〜5:45（JST）に放送されていた。
 
@@ -34,6 +34,6 @@
 
 ## 外部リンク
 
-  - [ちゃやまち広報室内のニュースリリース](http://www.mbs.jp/kouhou/news/index.html)（こちらから放送内容を閲覧できる）
+  - [ちゃやまち広報室 MBS番組審議会](https://www.mbs.jp/kouhou/banshin/)
 
 [Category:毎日放送の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:毎日放送の情報・ワイドショー番組 "wikilink") [Category:テレビの自己批評番組](https://ja.wikipedia.org/wiki/Category:テレビの自己批評番組 "wikilink")

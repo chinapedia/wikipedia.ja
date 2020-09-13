@@ -24,13 +24,13 @@
         [山梨県](../Page/山梨県.md "wikilink")[甲府市](../Page/甲府市.md "wikilink")出身。[甲府市立千塚小学校](../Page/甲府市立千塚小学校.md "wikilink")、[甲府市立北中学校](../Page/甲府市立北中学校.md "wikilink")、[山梨県立甲府南高等学校](../Page/山梨県立甲府南高等学校.md "wikilink")、[明治大学](../Page/明治大学.md "wikilink")[経営学部](../Page/経営学部.md "wikilink")卒業。THE BOOMのほぼ全ての楽曲を作詞・作曲している。ソロミュージシャンとしても活動し、2006年より、[GANGA ZUMBA](../Page/GANGA_ZUMBA.md "wikilink")（ガンガズンバ）のリーダー兼ボーカルも務めている。世界各地を旅し、その土地にある音楽のエッセンスをロックに融合して独自の音楽を生み出している。シンガーソングライターとして、楽曲提供も多数。また、過去には俳優として[ミュージカル](../Page/ミュージカル.md "wikilink")・[映画](../Page/映画.md "wikilink")・テレビドラマにも出演。妻はタレントでパーソナリティの[光岡ディオン](../Page/光岡ディオン.md "wikilink")（[1994年](../Page/1994年.md "wikilink")に結婚）。3人の子供がいる。[ビートたけし](../Page/ビートたけし.md "wikilink")の大ファン。詳細は本人の項目を参照のこと。
   - [小林孝至](https://ja.wikipedia.org/wiki/小林孝至_\(ミュージシャン\) "wikilink")（こばやし たかし、[1965年](../Page/1965年.md "wikilink")（昭和40年）[12月26日](../Page/12月26日.md "wikilink") - ）：[ギター](../Page/ギター.md "wikilink")。通称：TAKASHIくん、しーたか王子
       -
-        [山梨県](../Page/山梨県.md "wikilink")[甲府市](../Page/甲府市.md "wikilink")出身。[甲府市立羽黒小学校](https://ja.wikipedia.org/wiki/甲府市立羽黒小学校 "wikilink")、[甲府市立北西中学校](https://ja.wikipedia.org/wiki/甲府市立北西中学校 "wikilink")、[山梨県立甲府東高等学校](../Page/山梨県立甲府東高等学校.md "wikilink")卒業。[東京写真専門学校中退](../Page/専門学校東京ビジュアルアーツ.md "wikilink")。1996年に「[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")」にTHE BOOMがチャンプとして出演した際、[ダウンタウンの](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")[松本人志](../Page/松本人志.md "wikilink")から「高橋君」と間違えて呼ばれていた（松本が「タカシ」の部分を「タカハシ」と聞き間違えて覚えた可能性がある）。
+        [山梨県](../Page/山梨県.md "wikilink")[甲府市](../Page/甲府市.md "wikilink")出身。[甲府市立羽黒小学校](https://ja.wikipedia.org/wiki/甲府市立羽黒小学校 "wikilink")、[甲府市立北西中学校](https://ja.wikipedia.org/wiki/甲府市立北西中学校 "wikilink")、[山梨県立甲府東高等学校](../Page/山梨県立甲府東高等学校.md "wikilink")卒業。[東京写真専門学校中退](../Page/専門学校東京ビジュアルアーツ.md "wikilink")。1996年に『[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）にTHE BOOMがチャンプとして出演した際、[ダウンタウンの](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")[松本人志](../Page/松本人志.md "wikilink")から「高橋君」と間違えて呼ばれていた（松本が「タカシ」の部分を「タカハシ」と聞き間違えて覚えた可能性がある）。
   - [山川浩正](https://ja.wikipedia.org/wiki/山川浩正 "wikilink")（やまかわ ひろまさ、[1965年](../Page/1965年.md "wikilink")（昭和40年）[5月11日](../Page/5月11日.md "wikilink") - ）：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")。通称：YAMAちゃん
       -
         [山梨県](../Page/山梨県.md "wikilink")[甲府市](../Page/甲府市.md "wikilink")出身。山梨県立甲府東高等学校、[東京写真専門学校卒業](../Page/専門学校東京ビジュアルアーツ.md "wikilink")。BOOMではベーシストであるが、ギター、ドラム、ボーカルとすべてをこなせるマルチミュージシャンでもある。BOOMの活動と並行して、一時的に[ヒートウェイヴ](../Page/ヒートウェイヴ.md "wikilink")にも在籍した。2008年まで[ロクセンチ](../Page/ロクセンチ.md "wikilink")の準メンバーとしても活動。2014年2月に[1型糖尿病](https://ja.wikipedia.org/wiki/1型糖尿病 "wikilink")を発症、以降は療養を続けながら音楽活動をしていた。現在は[おおたけしたち](https://ja.wikipedia.org/wiki/おおたけしたち "wikilink")に参加中。元妻は音楽[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")であり、THE BOOMの本『君がいっぱい』シリーズの著者でもある[小杉之子](https://ja.wikipedia.org/wiki/小杉之子 "wikilink")。
   - 栃木孝夫（とちぎ たかお、[1958年](../Page/1958年.md "wikilink")（昭和33年）[7月11日](../Page/7月11日.md "wikilink") - ）：[ドラム](../Page/ドラムセット.md "wikilink")。通称：栃やん
       -
-        [東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")にて[双子](https://ja.wikipedia.org/wiki/双子 "wikilink")の弟として生まれる。[千葉県](../Page/千葉県.md "wikilink")出身。[千葉県立船橋高等学校](../Page/千葉県立船橋高等学校.md "wikilink")、[千葉大学](https://ja.wikipedia.org/wiki/千葉大学 "wikilink")工学部卒業。他のメンバーよりも若干年上ではあるものの、温和な性格でメンバーからもファンからも親しまれている。ライブでボーカルとして1曲披露することがあるが、本人は照れながら歌っている。宮沢曰く、今までサポートメンバーとして活動していたらしく20周年にはれて正式メンバーとなった。
+        [東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")にて[双子](https://ja.wikipedia.org/wiki/双子 "wikilink")の弟として生まれる。[千葉県](../Page/千葉県.md "wikilink")出身。[千葉県立船橋高等学校](../Page/千葉県立船橋高等学校.md "wikilink")、[千葉大学](https://ja.wikipedia.org/wiki/千葉大学 "wikilink")工学部卒業。他のメンバーよりも若干年上ではあるものの、温和な性格でメンバーからもファンからも親しまれている。ライブでボーカルとして1曲披露することがあるが、本人は照れながら歌っている。宮沢曰く、今までサポートメンバーとして活動していたらしく20周年に晴れて正式メンバーとなった。
 
 ### 主なサポートメンバー（順不同）
 
@@ -51,21 +51,21 @@
 
 ### 結成〜ホコ天時代
 
-1986年[11月](../Page/11月.md "wikilink")、現在のメンバーでTHE BOOM結成。1987年[7月26日](../Page/7月26日.md "wikilink")、[原宿](../Page/原宿.md "wikilink")のホコ天にてライブ活動開始。1988年[12月18日](../Page/12月18日.md "wikilink")、[SONYレコードの](../Page/ソニー.md "wikilink")[オーディション](../Page/オーディション.md "wikilink")に合格。
+1986年[11月](../Page/11月.md "wikilink")、現在のメンバーでTHE BOOM結成。1987年[7月26日](../Page/7月26日.md "wikilink")、[原宿](../Page/原宿.md "wikilink")の[ホコ天](https://ja.wikipedia.org/wiki/ホコ天 "wikilink")にてライブ活動開始。1988年[12月18日](../Page/12月18日.md "wikilink")、[SONYレコードの](../Page/ソニー.md "wikilink")[オーディション](../Page/オーディション.md "wikilink")に合格。
 
 ### デビュー〜島唄
 
 #### 1989年
 
-  - [5月21日](../Page/5月21日.md "wikilink")、シングル「[君はTVっ子](../Page/君はTVっ子.md "wikilink")」およびアルバム「[A PEACETIME BOOM](../Page/A_PEACETIME_BOOM.md "wikilink")」の同時発売でメジャーデビューした。
+  - [5月21日](../Page/5月21日.md "wikilink")、シングル「[君はTVっ子](../Page/君はTVっ子.md "wikilink")」およびアルバム『[A PEACETIME BOOM](../Page/A_PEACETIME_BOOM.md "wikilink")』の同時発売でメジャーデビューした。
   - [9月5日](../Page/9月5日.md "wikilink")、初の全国ツアー「署名ライブ」を開始。これは全国のレコード店で行った「THE BOOMに来てほしい」という署名をもとに、それが多かった場所に彼らが行き、ライブを行うというもの。
-  - [12月1日](../Page/12月1日.md "wikilink")、2ndアルバム「[サイレンのおひさま](../Page/サイレンのおひさま.md "wikilink")」とシングル「[気球に乗って](../Page/気球に乗って.md "wikilink")」を同時発売。
+  - [12月1日](../Page/12月1日.md "wikilink")、2ndアルバム『[サイレンのおひさま](../Page/サイレンのおひさま.md "wikilink")』とシングル「[気球に乗って](../Page/気球に乗って.md "wikilink")」を同時発売。
 
 #### 1990年
 
   - [1月30日](../Page/1月30日.md "wikilink")、本格的な全国ツアー「サイレンツアー」スタート。
   - [7月26日](../Page/7月26日.md "wikilink")、ホコ天でライブを始めてからちょうど3年のこの日、初の[日本武道館](../Page/日本武道館.md "wikilink")公演「いつものボクたちが、いる。」を開催。武道館の真ん中にセットを作り、メンバーはそこで演奏。その周りを約11,000人のファンが囲んだ。
-  - [9月21日](../Page/9月21日.md "wikilink")、3rdアルバム「[JAPANESKA](../Page/JAPANESKA.md "wikilink")」発売。翌日22日より「TOUR JAPANESKA」スタート。約半年かけて全国73ヶ所を回るという大規模なツアー。
+  - [9月21日](../Page/9月21日.md "wikilink")、3rdアルバム『[JAPANESKA](../Page/JAPANESKA.md "wikilink")』発売。翌日22日より「TOUR JAPANESKA」スタート。約半年かけて全国73ヶ所を回るという大規模なツアー。
 
 #### 1991年
 
@@ -75,10 +75,10 @@
 
 #### 1992年
 
-  - [1月22日](../Page/1月22日.md "wikilink")、4thアルバム「[思春期](../Page/思春期_\(アルバム\).md "wikilink")」発売。後の代表曲「[島唄](../Page/島唄_\(オリジナル・ヴァージョン\).md "wikilink")」が収録されたアルバムである。[1月31日](../Page/1月31日.md "wikilink")よりツアー「SPECIAL」をスタートする（7月まで）。
-  - [8月8日](../Page/8月8日.md "wikilink")、[大阪](../Page/大阪.md "wikilink")での「夏祭り'92」を最後に年内の活動休止。活動再開予定も未定という、グループ始まって以来の事態となった。メンバーは各自ソロ活動。ボーカルの宮沢は[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")のミュージシャンである[ディック・リー](../Page/ディック・リー.md "wikilink")の誘いで[ミュージカル](../Page/ミュージカル.md "wikilink")「ナガランド」に出演し、アジア各国を回った。この経験が翌年のアルバム「[FACELESS MAN](../Page/FACELESS_MAN.md "wikilink")」の下地となる。
-  - [9月21日](../Page/9月21日.md "wikilink")、初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")「[THE BOOM](../Page/THE_BOOM_\(アルバム\).md "wikilink")」発売。
-  - [12月12日](../Page/12月12日.md "wikilink")、シングル「[島唄（ウチナーグチ・ヴァージョン）](../Page/島唄_\(ウチナーグチ・ヴァージョン\).md "wikilink")」を沖縄限定で発売。[泡盛](../Page/泡盛.md "wikilink")のCMで[タイアップ](../Page/タイアップ.md "wikilink")されたことや[大河ドラマ](../Page/大河ドラマ.md "wikilink")などでの沖縄ブームに乗り、「島唄」の人気に火がつき始める。
+  - [1月22日](../Page/1月22日.md "wikilink")、4thアルバム『[思春期](../Page/思春期_\(アルバム\).md "wikilink")』発売。後の代表曲「[島唄](../Page/島唄_\(オリジナル・ヴァージョン\).md "wikilink")」が収録されたアルバムである。[1月31日](../Page/1月31日.md "wikilink")よりツアー「SPECIAL」をスタートする（7月まで）。
+  - [8月8日](../Page/8月8日.md "wikilink")、[大阪](../Page/大阪.md "wikilink")での「夏祭り'92」を最後に年内の活動休止。活動再開予定も未定という、グループ始まって以来の事態となった。メンバーは各自ソロ活動。ボーカルの宮沢は[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")のミュージシャンである[ディック・リー](../Page/ディック・リー.md "wikilink")の誘いで[ミュージカル](../Page/ミュージカル.md "wikilink")「ナガランド」に出演し、アジア各国を回った。この経験が翌年のアルバム『[FACELESS MAN](../Page/FACELESS_MAN.md "wikilink")』の下地となる。
+  - [9月21日](../Page/9月21日.md "wikilink")、初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[THE BOOM](../Page/THE_BOOM_\(アルバム\).md "wikilink")』発売。
+  - [12月12日](../Page/12月12日.md "wikilink")、シングル「[島唄（ウチナーグチ・ヴァージョン）](../Page/島唄_\(ウチナーグチ・ヴァージョン\).md "wikilink")」を[沖縄](https://ja.wikipedia.org/wiki/沖縄 "wikilink")限定で発売。[泡盛](../Page/泡盛.md "wikilink")のCMで[タイアップ](../Page/タイアップ.md "wikilink")されたことや[大河ドラマ](../Page/大河ドラマ.md "wikilink")などでの沖縄ブームに乗り、「島唄」の人気に火がつき始める。
 
 ### ブラジル音楽〜活動休止
 
@@ -86,37 +86,37 @@
 
   - [2月25日](../Page/2月25日.md "wikilink")、ツアー「気に入った曲ができたから」をスタートし、本格的な活動復帰。
   - [6月21日](../Page/6月21日.md "wikilink")、シングル「[島唄 (オリジナル・ヴァージョン)](../Page/島唄_\(オリジナル・ヴァージョン\).md "wikilink")」を全国発売。150万枚を超える大ヒットを記録。
-  - [8月21日](../Page/8月21日.md "wikilink")、5thアルバム「FACELESS MAN」発売。
+  - [8月21日](../Page/8月21日.md "wikilink")、5thアルバム『FACELESS MAN』発売。
   - [9月4日](../Page/9月4日.md "wikilink")、「FACELESSMAN TOUR」スタート。
   - [10月23日](../Page/10月23日.md "wikilink")、[宜野湾海浜公園](../Page/宜野湾海浜公園.md "wikilink")野外劇場で行われた[喜納昌吉&チャンプルーズ](https://ja.wikipedia.org/wiki/喜納昌吉&チャンプルーズ "wikilink")プロデュースによる「ニライカナイ祭 アース・ミュージック・フェスティバル」に出演。
-  - [12月31日](../Page/12月31日.md "wikilink")、[第35回日本レコード大賞](https://ja.wikipedia.org/wiki/第35回日本レコード大賞 "wikilink")に出演、「島唄」で「ベストソング賞」受賞。また、[紅白歌合戦にも出場し](../Page/第44回NHK紅白歌合戦.md "wikilink")、「島唄」をウチナーグチ・ヴァージョンで歌う\[4\]。
+  - [12月31日](../Page/12月31日.md "wikilink")、[第35回日本レコード大賞](https://ja.wikipedia.org/wiki/第35回日本レコード大賞 "wikilink")に出演、「島唄」で「ベストソング賞」受賞。また、『[第44回NHK紅白歌合戦](../Page/第44回NHK紅白歌合戦.md "wikilink")』にも出場し、「島唄」をウチナーグチ・ヴァージョンで歌う\[4\]。
 
 #### 1994年
 
   - 1月にツアー終了後、宮沢は[ジャマイカ](../Page/ジャマイカ.md "wikilink")のアーティスト、[ヤミ・ボロ](https://ja.wikipedia.org/wiki/ヤミ・ボロ "wikilink")とユニット[MIYA\&YAMI](https://ja.wikipedia.org/wiki/MIYA&YAMI "wikilink")を結成。
   - 3月21日、MIYA\&YAMIのシングル「[神様の宝石でできた島](https://ja.wikipedia.org/wiki/神様の宝石でできた島 "wikilink")」が発売となり、ヒットする。
   - [8月10日](../Page/8月10日.md "wikilink")、[新潟で行われた](https://ja.wikipedia.org/wiki/新潟市 "wikilink")「[日本海夕日コンサート](https://ja.wikipedia.org/wiki/日本海夕日コンサート "wikilink")」に出演。
-  - [11月20日](../Page/11月20日.md "wikilink")より、アルバム発売に先駆けて「[極東](../Page/極東.md "wikilink")ツアー」スタート。翌日、6thアルバム「[極東サンバ](../Page/極東サンバ.md "wikilink")」発売。
+  - [11月20日](../Page/11月20日.md "wikilink")より、アルバム発売に先駆けて「[極東](../Page/極東.md "wikilink")ツアー」スタート。翌日、6thアルバム『[極東サンバ](../Page/極東サンバ.md "wikilink")』発売。
 
 #### 1995年
 
   - [3月24日](../Page/3月24日.md "wikilink")、「[風になりたい](../Page/風になりたい_\(THE_BOOMの曲\).md "wikilink")」をシングルカットし、ヒットする。
   - [8月26日](../Page/8月26日.md "wikilink")、[沖縄戦](https://ja.wikipedia.org/wiki/沖縄戦 "wikilink")終結50周年を迎え、一般公募した歌詞に宮沢が曲をつけてできた「[太陽アカラ 波キララ](https://ja.wikipedia.org/wiki/太陽アカラ_波キララ "wikilink")」を[那覇市](../Page/那覇市.md "wikilink")主催のイベント「[天に響め さんしん3000](https://ja.wikipedia.org/wiki/天に響め_さんしん3000 "wikilink")」で披露。沖縄限定でシングル化された。
-  - [10月6日](../Page/10月6日.md "wikilink")、「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")スペシャル」に出演。「風になりたい」に続いて、ポエトリーディングソング「[手紙](../Page/手紙_\(THE_BOOMの曲\).md "wikilink")」を初披露。
+  - [10月6日](../Page/10月6日.md "wikilink")、『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")スペシャル』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）に出演。「風になりたい」に続いて、ポエトリーディングソング「[手紙](../Page/手紙_\(THE_BOOMの曲\).md "wikilink")」を初披露。
 
 #### 1996年
 
   - 5月、THE BOOM初の海外公演。[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")にて3都市4公演のコンサートを行う。
-  - [7月1日](../Page/7月1日.md "wikilink")、7thアルバム「[TROPICALISM -0°](../Page/TROPICALISM_-0°.md "wikilink")」を発表。
+  - [7月1日](../Page/7月1日.md "wikilink")、7thアルバム『[TROPICALISM -0°](../Page/TROPICALISM_-0°.md "wikilink")』を発表。
   - [7月23日](../Page/7月23日.md "wikilink")、3ヶ月にわたる長期ツアー「TROPICALIZE TOUR」を開始。
   - [12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")より、ツアーの総集編「TROPICALIZE TOUR FINAL」を行う。
 
 #### 1997年
 
   - [1月14日](../Page/1月14日.md "wikilink")、「TROPICALIZE TOUR FINAL」終了。
-  - 1月22日、ベスト・アルバム「[THE BOOM 2](../Page/THE_BOOM_2.md "wikilink")」発表。
+  - 1月22日、ベスト・アルバム『[THE BOOM 2](../Page/THE_BOOM_2.md "wikilink")』発表。
   - 1月下旬、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[カンヌ](../Page/カンヌ.md "wikilink")で行われた「[国際音楽見本市](https://ja.wikipedia.org/wiki/国際音楽見本市 "wikilink")（[ミデム](https://ja.wikipedia.org/wiki/ミデム "wikilink")）」に出演。
-  - 3月21日、ベスト・アルバム「[THE BOOM 2 (BLUE)](../Page/THE_BOOM_2_\(BLUE\).md "wikilink")」発表。
+  - 3月21日、ベスト・アルバム『[THE BOOM 2 (BLUE)](../Page/THE_BOOM_2_\(BLUE\).md "wikilink")』発表。
   - [7月6日](../Page/7月6日.md "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[テュービンゲン](../Page/テュービンゲン.md "wikilink")にて「[ビバ・アフロ・ブラジル](https://ja.wikipedia.org/wiki/ビバ・アフロ・ブラジル "wikilink")'97」に出演。
   - [7月10日](../Page/7月10日.md "wikilink")、[スイス](../Page/スイス.md "wikilink")・[モントルー](../Page/モントルー.md "wikilink")で開催された[モントルー・ジャズ・フェスティバル](https://ja.wikipedia.org/wiki/モントルー・ジャズ・フェスティバル "wikilink")」に出演。これを最後にしばらくグループとしての活動休止。各メンバーはソロ活動に入る。
 
@@ -125,21 +125,21 @@
 #### 1998年
 
   - [3月5日](../Page/3月5日.md "wikilink")、ボーカルの宮沢が[長野パラリンピック](https://ja.wikipedia.org/wiki/長野パラリンピック "wikilink")の開会式にてテーマソング「旅立ちの時」を歌う。その他、ツアー、シングルおよびアルバム発売と精力的に活動。
-  - [6月29日](../Page/6月29日.md "wikilink")、6月末で閉鎖することになった[日清パワーステーション](../Page/日清パワーステーション.md "wikilink")で開催された記念ライブ"[NISSIN POWER STATION LAST DAYS](https://ja.wikipedia.org/wiki/日清パワーステーション#NISSIN_POWER_STATION_LAST_DAYS "wikilink")"2日目にTHE BOOMとして飛び入り出演。「気球に乗って」「島唄」「なし」の3曲を演奏する。
+  - [6月29日](../Page/6月29日.md "wikilink")、6月末で閉鎖することになった[日清パワーステーション](../Page/日清パワーステーション.md "wikilink")で開催された記念ライブ「[NISSIN POWER STATION LAST DAYS](https://ja.wikipedia.org/wiki/日清パワーステーション#NISSIN_POWER_STATION_LAST_DAYS "wikilink")」2日目にTHE BOOMとして飛び入り出演。「気球に乗って」「島唄」「なし」の3曲を演奏する。
   - 11月、THE BOOMとしてのニューアルバム制作のため再集結。[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")開始。
 
 #### 1999年
 
   - [4月28日](../Page/4月28日.md "wikilink")、シングル「[月に降る雨](../Page/月に降る雨.md "wikilink")」発売を機に、活動再開（その後も宮沢和史のソロ活動は続いている）。
-  - [5月12日](../Page/5月12日.md "wikilink")、8thアルバム「[No Control](../Page/No_Control.md "wikilink")」発売。
+  - [5月12日](../Page/5月12日.md "wikilink")、8thアルバム『[No Control](../Page/No_Control.md "wikilink")』発売。
   - [5月18日](../Page/5月18日.md "wikilink")に[大阪城ホール](../Page/大阪城ホール.md "wikilink")、5月21日には日本武道館にてデビュー10周年記念ライブ「いつものボクたちが、いる。1999」を開催。
   - [6月25日](../Page/6月25日.md "wikilink")よりツアー「No Control Tour」を開始。
-  - [12月31日](../Page/12月31日.md "wikilink")、大阪城ホールにて“COUNT DOWN LIVE 1999 - 2000”を開催。
+  - [12月31日](../Page/12月31日.md "wikilink")、大阪城ホールにて「COUNT DOWN LIVE 1999 - 2000」を開催。
 
 #### 2000年
 
   - [9月15日](../Page/9月15日.md "wikilink")、アルバム発売前に「LOVIBE TOUR」をスタートさせる。
-  - [10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")、9thアルバム「[LOVIBE](../Page/LOVIBE.md "wikilink")」発売。
+  - [10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")、9thアルバム『[LOVIBE](../Page/LOVIBE.md "wikilink")』発売。
 
 #### 2001年
 
@@ -147,11 +147,11 @@
 
 #### 2002年
 
-  - 4月頃、極東の地・アルゼンチンで「島唄」が[アルフレッド・カセーロ](https://ja.wikipedia.org/wiki/アルフレッド・カセーロ "wikilink")というマルチタレントに日本語のままカヴァーされ、大ヒットしているというニュースが伝えられる。
-  - [5月22日](../Page/5月22日.md "wikilink")、「島唄」の復刻版である「[島唄 Shima Uta](../Page/島唄_Shima_Uta.md "wikilink")」を前所属のレコード会社ソニーミュージックよりリリース。アルゼンチンでの「島唄」ヒットが日本でも話題となったこと、またワールドカップでのアルゼンチンの応援歌となったことから「島唄」の再ブームが巻き起こり、10万枚を売り上げるリバイバルヒットとなる。
-  - [6月19日](../Page/6月19日.md "wikilink")、10thアルバム「[OKINAWA〜ワタシノシマ〜](../Page/OKINAWA〜ワタシノシマ〜.md "wikilink")」発表。
-  - 8月、[MEET THE WORLD BEATに](../Page/MEET_THE_WORLD_BEAT.md "wikilink")[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の代打（ボーカル[桜井の体調不良による](../Page/桜井和寿.md "wikilink")）として出場、トリを飾る。
-  - 12月31日、紅白歌合戦で「アルフレッド・カセーロ & THE BOOM」で出場、93年以来の紅白出演を果たす。
+  - 4月頃、極東の地・[アルゼンチン](../Page/アルゼンチン.md "wikilink")で「島唄」が[アルフレッド・カセーロ](https://ja.wikipedia.org/wiki/アルフレッド・カセーロ "wikilink")というマルチタレントに日本語のままカヴァーされ、大ヒットしているというニュースが伝えられる。
+  - [5月22日](../Page/5月22日.md "wikilink")、「島唄」の復刻版である「[島唄 Shima Uta](../Page/島唄_Shima_Uta.md "wikilink")」を前所属のレコード会社ソニーミュージックよりリリース。アルゼンチンでの「島唄」ヒットが日本でも話題となったこと、また[2002 FIFAワールドカップでのアルゼンチンの応援歌となったことから](../Page/2002_FIFAワールドカップ.md "wikilink")「島唄」の再ブームが巻き起こり、10万枚を売り上げるリバイバルヒットとなる。
+  - [6月19日](../Page/6月19日.md "wikilink")、10thアルバム『[OKINAWA〜ワタシノシマ〜](../Page/OKINAWA〜ワタシノシマ〜.md "wikilink")』発表。
+  - 8月、「[MEET THE WORLD BEAT](../Page/MEET_THE_WORLD_BEAT.md "wikilink")」に[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の代打（ボーカル[桜井の体調不良による](../Page/桜井和寿.md "wikilink")）として出場、トリを飾る。
+  - 12月31日、『[第53回NHK紅白歌合戦](../Page/第53回NHK紅白歌合戦.md "wikilink")』で「アルフレッド・カセーロ & THE BOOM」で出場、93年以来の紅白出演を果たす。
 
 #### 2003年
 
@@ -163,18 +163,18 @@
 #### 2004年
 
   - [5月5日](../Page/5月5日.md "wikilink")に大阪城ホール、[5月8日](../Page/5月8日.md "wikilink")に日本武道館にて、デビュー15周年記念ライブ「ありがとう」を開催。
-  - [6月30日](../Page/6月30日.md "wikilink")、11thアルバム「[百景](../Page/百景.md "wikilink")」発売。
+  - [6月30日](../Page/6月30日.md "wikilink")、11thアルバム『[百景](../Page/百景.md "wikilink")』発売。
   - [9月11日](../Page/9月11日.md "wikilink")より、4ヶ月にわたるツアー「日本百景」を行う。
 
 #### 2005年
 
   - [6月18日](../Page/6月18日.md "wikilink")、ツアー“Field of Songs”を開催。
   - [8月3日](../Page/8月3日.md "wikilink")、これまで発売した中から選出された12枚のアルバムをデジタル・リマスタリングのボーナストラック付きのCDとして、格安で再発。また、アルバム1枚につき1枚ずつ付いてくる応募券を3枚集めた応募者全員に、メンバーのトークCDが無料でプレゼントされた（現在は締め切っている）。
-  - 年末には久々のライブハウスツアー“MORE THE BOOM”を行った。
+  - 年末にはライブハウスツアー「MORE THE BOOM」を行う。
 
 #### 2006年
 
-  - BOOMとしての活動は行われず、メンバーは各自ソロ活動を行う。ボーカルの宮沢は新バンドGANGA ZUMBAを結成。
+  - BOOMとしての活動は行われず、メンバーは各自ソロ活動を行う。ボーカルの宮沢は新バンド[GANGA ZUMBAを結成](../Page/GANGA_ZUMBA.md "wikilink")。
   - この年の[中学校](../Page/中学校.md "wikilink")[英語](../Page/英語.md "wikilink")[教科書](../Page/教科書.md "wikilink")に「島唄」が採用された。
 
 #### 2007年
@@ -183,20 +183,20 @@
 
 #### 2008年
 
-  - デビュー19周年を迎えた[5月21日](../Page/5月21日.md "wikilink")、宮沢の弾き語りライブ「寄り道 2008 森の夢」の原宿クエストホール公演にて、シークレットゲストとしてTHE BOOMのメンバーが登場。メンバー全員がステージ上で揃うのは2年半年ぶりのことであった。その日は「中央線」を演奏。
-  - [9月15日](../Page/9月15日.md "wikilink")に横浜赤レンガパークで開催された「10,000 SAMBA\! 〜日伯移民100周年記念音楽フェスタ〜」に出演。またこのとき、所属レコード会社が[avexに変わったことも宮沢から発表された](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。
-  - [9月24日](../Page/9月24日.md "wikilink")に発売された[上田現](https://ja.wikipedia.org/wiki/上田現 "wikilink")のトリビュートアルバム[Sirius〜Tribute to UEDA GEN〜にTHE](https://ja.wikipedia.org/wiki/Sirius〜Tribute_to_UEDA_GEN〜 "wikilink") BOOMとして参加。
-  - [12月31日](../Page/12月31日.md "wikilink")、「[第59回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第59回NHK紅白歌合戦 "wikilink")」の番組中の企画「ブラジル移民100周年」に「宮沢和史 in ガンガ・ズンバ&ザ・ブーム」名義で出演した。
+  - デビュー19周年を迎えた[5月21日](../Page/5月21日.md "wikilink")、宮沢の弾き語りライブ「寄り道 2008 森の夢」の原宿クエストホール公演にて、シークレットゲストとしてTHE BOOMのメンバーが登場。メンバー全員がステージ上で揃うのは2年半年ぶりのことであった。その日は「[中央線](../Page/中央線_\(曲\).md "wikilink")」を演奏。
+  - [9月15日](../Page/9月15日.md "wikilink")に[横浜赤レンガパーク](https://ja.wikipedia.org/wiki/横浜赤レンガパーク "wikilink")で開催された「10,000 SAMBA\! 〜日伯移民100周年記念音楽フェスタ〜」に出演。またこのとき、所属レコード会社が[avexに変わったことも宮沢から発表された](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。
+  - [9月24日](../Page/9月24日.md "wikilink")に発売された[上田現](https://ja.wikipedia.org/wiki/上田現 "wikilink")のトリビュートアルバム『[Sirius〜Tribute to UEDA GEN〜](https://ja.wikipedia.org/wiki/Sirius〜Tribute_to_UEDA_GEN〜 "wikilink")』にTHE BOOMとして参加。
+  - [12月31日](../Page/12月31日.md "wikilink")、『[第59回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第59回NHK紅白歌合戦 "wikilink")』の番組中の企画「ブラジル移民100周年」に「宮沢和史 in ガンガ・ズンバ&ザ・ブーム」名義で出演した。
 
 ### デビュー20周年〜25周年（解散）そしてその後
 
 #### 2009年
 
   - [5月9日](../Page/5月9日.md "wikilink")、栄ミナミ音楽祭にメインアクトとして出演。宮沢個人として出演予定であったが、アンコールで「THE BOOM」としてメンバーと共に「夢から醒めて」を含む3曲をサプライズ演奏。
-  - [5月20日](../Page/5月20日.md "wikilink")、約6年ぶりのニューシングル「夢から醒めて/All of Everything」と、ベスト・アルバム「89-09 THE BOOM COLLECTION 1989-2009」を同時発売。
-  - [5月23日](../Page/5月23日.md "wikilink")、大阪城野外音楽堂、[5月30日](../Page/5月30日.md "wikilink")に日比谷野外大音楽堂にてデビュー20周年記念ライブを開催。
-  - [7月9日](../Page/7月9日.md "wikilink")より全国ツアー『THE BOOM 20th Anniversary Live Tour 2009 My Sweet Home』を開催。
-  - [10月7日](../Page/10月7日.md "wikilink")、約5年ぶりのニューアルバム「四重奏」を発売。
+  - [5月20日](../Page/5月20日.md "wikilink")、約6年ぶりのニューシングル「[夢から醒めて/All of Everything](https://ja.wikipedia.org/wiki/夢から醒めて/All_of_Everything "wikilink")」と、ベスト・アルバム『[89-09 THE BOOM COLLECTION 1989-2009](https://ja.wikipedia.org/wiki/89-09_THE_BOOM_COLLECTION_1989-2009 "wikilink")』を同時発売。
+  - [5月23日](../Page/5月23日.md "wikilink")、[大阪城野外音楽堂](https://ja.wikipedia.org/wiki/大阪城野外音楽堂 "wikilink")、[5月30日](../Page/5月30日.md "wikilink")に[日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")にてデビュー20周年記念ライブを開催。
+  - [7月9日](../Page/7月9日.md "wikilink")より全国ツアー「THE BOOM 20th Anniversary Live Tour 2009 My Sweet Home」を開催。
+  - [10月7日](../Page/10月7日.md "wikilink")、約5年ぶりのニューアルバム『[四重奏](https://ja.wikipedia.org/wiki/四重奏_\(アルバム\) "wikilink")』を発売。
 
 #### 2010年
 
@@ -207,15 +207,15 @@
   - [3月2日](../Page/3月2日.md "wikilink")、[石川さゆり](../Page/石川さゆり.md "wikilink")とコラボしたシングル「[暁月夜〜あかつきづくよ〜](https://ja.wikipedia.org/wiki/暁月夜〜あかつきづくよ〜 "wikilink")」を発売。
   - [4月23日](../Page/4月23日.md "wikilink")より全国ホールツアー「THE BOOM平成二十三年 春夏公演『光』」を開催。
   - [8月27日](../Page/8月27日.md "wikilink")、山梨県甲府市にて野外でのフリーライブ「平成二十三年 夏まつり よっちゃばれ」を開催。この模様は[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")でも完全生中継された。また、このライブ中に山梨県知事より、メンバー全員がやまなし大使に任命された。
-  - [11月23日](../Page/11月23日.md "wikilink")、2年ぶりのニューアルバム「[よっちゃばれ](https://ja.wikipedia.org/wiki/よっちゃばれ "wikilink")」を発売。
+  - [11月23日](../Page/11月23日.md "wikilink")、2年ぶりのニューアルバム『[よっちゃばれ](https://ja.wikipedia.org/wiki/よっちゃばれ "wikilink")』を発売。
   - [12月24日](../Page/12月24日.md "wikilink")に[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")、[12月25日](../Page/12月25日.md "wikilink")に[岸和田市立浪切ホール](https://ja.wikipedia.org/wiki/岸和田市立浪切ホール "wikilink")にて、アルバム発売記念ライブ「THE BOOM歳末御礼公演 『平成よっちゃばれ！』」を開催。
 
 #### 2013年
 
-  - この年は様々な音楽番組に出演しボーカルの宮沢は[ダウンタウンデラックス](https://ja.wikipedia.org/wiki/ダウンタウンデラックス "wikilink")に出演しグループとしては[ミュージックフェア](../Page/ミュージックフェア.md "wikilink")、[THE MUSIC DAY 音楽のちからに出演するなど活発的なメディア露出もした](https://ja.wikipedia.org/wiki/THE_MUSIC_DAY_音楽のちから "wikilink")。
+  - この年は様々な音楽番組に出演しボーカルの宮沢は『[ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")』（[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")）に出演しグループとしては『[ミュージックフェア](../Page/ミュージックフェア.md "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）、『[THE MUSIC DAY 音楽のちから](https://ja.wikipedia.org/wiki/THE_MUSIC_DAY_音楽のちから "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）に出演するなど活発的なメディア露出もした。
   - [3月20日](../Page/3月20日.md "wikilink")、「[島唄 (オリジナル・ヴァージョン)](../Page/島唄_\(オリジナル・ヴァージョン\).md "wikilink")」発売から20年を記念して、新たにレコーディングしたシングル「[島唄 (島唄20周年記念シングル)](https://ja.wikipedia.org/wiki/島唄_\(島唄20周年記念シングル\) "wikilink")」を発売。
   - [4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")より全国ホールツアー「THE BOOM CONCERT TOUR 2013『24』」 開催。
-  - [6月19日](../Page/6月19日.md "wikilink")、アルバム「[世界でいちばん美しい島](https://ja.wikipedia.org/wiki/世界でいちばん美しい島 "wikilink")」を発売。
+  - [6月19日](../Page/6月19日.md "wikilink")、アルバム『[世界でいちばん美しい島](https://ja.wikipedia.org/wiki/世界でいちばん美しい島 "wikilink")』を発売。
 
 #### 2014年
 
@@ -227,19 +227,19 @@
 
 #### 2016年
 
-  - [3月31日](../Page/3月31日.md "wikilink")、公式ウェブサイト、公式Facebookページも閉鎖。
+  - [3月31日](../Page/3月31日.md "wikilink")、公式ウェブサイト、公式[Facebook](../Page/Facebook.md "wikilink")ページも閉鎖。
 
-[2016年](../Page/2016年.md "wikilink")現在、解散から1年、[宮沢和史](../Page/宮沢和史.md "wikilink")は2016年1月31日のZeep Diver Cityでのソロ公演を最後に表舞台での音楽活動を休止。[小林孝至は主に楽曲提供や編曲などの活動を中心としながら](https://ja.wikipedia.org/wiki/小林孝至_\(ミュージシャン\) "wikilink")、ギターや作曲家の講師としても活動。[山川浩正](https://ja.wikipedia.org/wiki/山川浩正 "wikilink")はロックバンド1-GATAを結成。アーティファクトミュージックスクールの講師として参加。栃木孝夫もソロ活動中。
+[2016年](../Page/2016年.md "wikilink")現在、解散から1年、宮沢和史は2016年1月31日の[Zepp DiverCityでのソロ公演を最後に表舞台での音楽活動を休止](https://ja.wikipedia.org/wiki/Zepp_DiverCity "wikilink")。小林孝至は主に楽曲提供や編曲などの活動を中心としながら、ギターや作曲家の講師としても活動。山川浩正はロックバンド1-GATAを結成。アーティファクトミュージックスクールの講師として参加。栃木孝夫もソロ活動中。
 
 #### 2017年
 
-  - 1月、昨年から活動休止中だった[宮沢和史](../Page/宮沢和史.md "wikilink")が公式Twitterにて少しずつ歌唱の活動を再開していくと発表。
-  - [5月24日](../Page/5月24日.md "wikilink")、J-POPコンピ「エース」7inchiプロジェクト第3弾としてシングル「[風になりたい](../Page/風になりたい_\(THE_BOOMの曲\).md "wikilink")」がアナログ・シングル化されて発売される。
-  - [小林孝至は自身を中心とした音楽プロジェクトTakashi](https://ja.wikipedia.org/wiki/小林孝至_\(ミュージシャン\) "wikilink")+を始動。同プロジェクトでは[i don't like mondaysの](https://ja.wikipedia.org/wiki/I_Don't_Like_Mondays. "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")兆志とのギターコラボを始め、ドイツのインディーズラップグループとのコラボなど行っている。
+  - 1月、昨年から活動休止中だった宮沢和史が公式[Twitter](../Page/Twitter.md "wikilink")にて少しずつ歌唱の活動を再開していくと発表。
+  - [5月24日](../Page/5月24日.md "wikilink")、J-POPコンピ「エース」7inchプロジェクト第3弾としてシングル「[風になりたい](../Page/風になりたい_\(THE_BOOMの曲\).md "wikilink")」がアナログ・シングル化されて発売される。
+  - 小林孝至は自身を中心とした音楽プロジェクトTakashi+を始動。同プロジェクトでは[i don't like mondaysの](https://ja.wikipedia.org/wiki/I_Don't_Like_Mondays. "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")兆志とのギターコラボを始め、ドイツのインディーズラップグループとのコラボなど行っている。
 
 #### 2018年
 
-この年、宮沢和史は島唄で様々な音楽番組に出演。[THE MUSIC DAYや](https://ja.wikipedia.org/wiki/THE_MUSIC_DAY "wikilink")[9月17日](../Page/9月17日.md "wikilink")の[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")ウルトラフェスにも出演し宮沢自身での出演は初でありTHE BOOM以来9年ぶりに出演し島唄を25年振りに同番組で披露した。
+この年、宮沢和史は島唄で様々な音楽番組に出演。『THE MUSIC DAY』（日本テレビ）や[9月17日](../Page/9月17日.md "wikilink")の『[MUSIC STATION ウルトラFES 2017](https://ja.wikipedia.org/wiki/ミュージックステーションウルトラFES#2017年 "wikilink")』にも出演し宮沢自身での出演は初でありTHE BOOM以来9年ぶりに出演し島唄を25年振りに同番組で披露した。
 
 #### 2019年
 
@@ -470,7 +470,7 @@ THE BOOM 島唄のものがたり（2013年） - 監督：[真喜屋力](https:/
   -
   -
   -
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ミクスチャー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ミクスチャー・ロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:ポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・ロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:よしもとミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:よしもとミュージックのアーティスト "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:1986年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1986年に結成した音楽グループ "wikilink") [Category:2014年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2014年に解散した音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
+[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:ミクスチャー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ミクスチャー・ロック・バンド "wikilink") [Category:日本のポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のポップ・ロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:よしもとミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:よしもとミュージックのアーティスト "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:1986年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1986年に結成した音楽グループ "wikilink") [Category:2014年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2014年に解散した音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
 
 1.
 2.  [ファンの皆様へ](http://www.theboom.jp/info2.html)（THE BOOM Official site、2014年3月31日）

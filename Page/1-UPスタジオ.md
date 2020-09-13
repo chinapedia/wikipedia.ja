@@ -44,16 +44,16 @@
   - [2001年](../Page/2001年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink") - 『[マジカルバケーション](../Page/マジカルバケーション.md "wikilink")』（[任天堂](../Page/任天堂.md "wikilink")）発売。
   - [2003年](../Page/2003年.md "wikilink")[8月29日](../Page/8月29日.md "wikilink") - 『[新約 聖剣伝説](https://ja.wikipedia.org/wiki/新約_聖剣伝説 "wikilink")』（[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）発売。
   - [2006年](../Page/2006年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") - 『[MOTHER3](../Page/MOTHER3.md "wikilink")』（任天堂）発売。
-  - 2006年[6月22日](../Page/6月22日.md "wikilink") - 『[マジカルバケーション 5つの星がならぶとき](https://ja.wikipedia.org/wiki/マジカルバケーション#マジカルバケーション_5つの星がならぶとき "wikilink")』（任天堂）発売。
+  - [6月22日](../Page/6月22日.md "wikilink") - 『[マジカルバケーション 5つの星がならぶとき](../Page/マジカルバケーション_5つの星がならぶとき.md "wikilink")』（任天堂）発売。
   - [2007年](../Page/2007年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink") - 『[聖剣伝説 HEROES of MANA](../Page/聖剣伝説_HEROES_of_MANA.md "wikilink")』（スクウェア・エニックス）発売。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月4日](../Page/9月4日.md "wikilink") - 『[ブルードラゴン プラス](../Page/ブルードラゴン.md "wikilink")』（[AQインタラクティブ](../Page/AQインタラクティブ.md "wikilink")）発売。
   - [2009年](../Page/2009年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink") - [ニンテンドーDSiウェア](https://ja.wikipedia.org/wiki/ニンテンドーDSiウェア "wikilink")『かっぱ道』（任天堂）発売。
-  - 2009年[12月26日](../Page/12月26日.md "wikilink") - 『[レイトン教授と魔神の笛](https://ja.wikipedia.org/wiki/レイトン教授と魔神の笛 "wikilink")』（[レベルファイブ](../Page/レベルファイブ.md "wikilink")）内のおまけゲーム、『レイトン教授のロンドンライフ』の開発を担当。
+  - [12月26日](../Page/12月26日.md "wikilink") - 『[レイトン教授と魔神の笛](https://ja.wikipedia.org/wiki/レイトン教授と魔神の笛 "wikilink")』（[レベルファイブ](../Page/レベルファイブ.md "wikilink")）内のおまけゲーム、『レイトン教授のロンドンライフ』の開発を担当。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月28日](../Page/1月28日.md "wikilink") - 『リヴリーガーデン』（[マーベラスエンターテイメント](https://ja.wikipedia.org/wiki/マーベラスAQL "wikilink")）発売。
   - [2011年](../Page/2011年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink") - 『[スーパーマリオ 3Dランド](https://ja.wikipedia.org/wiki/スーパーマリオ_3Dランド "wikilink")』（任天堂）発売。
   - [2012年](../Page/2012年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink") - 『[ファンタジーライフ](https://ja.wikipedia.org/wiki/ファンタジーライフ "wikilink")』（レベルファイブ）発売。
   - [2013年](../Page/2013年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink") - 商号を1-UPスタジオ株式会社に変更。
-  - 2013年[11月21日](../Page/11月21日.md "wikilink") - 『[スーパーマリオ 3Dワールド](https://ja.wikipedia.org/wiki/スーパーマリオ_3Dワールド "wikilink")』（任天堂）発売。
+  - [11月21日](../Page/11月21日.md "wikilink") - 『[スーパーマリオ 3Dワールド](https://ja.wikipedia.org/wiki/スーパーマリオ_3Dワールド "wikilink")』（任天堂）発売。
   - [2014年](../Page/2014年.md "wikilink")[11月13日](../Page/11月13日.md "wikilink") - 『[進め\! キノピオ隊長](https://ja.wikipedia.org/wiki/進め!_キノピオ隊長 "wikilink")』（任天堂）発売。
   - [2015年](../Page/2015年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink") - 『[ゼルダの伝説 トライフォース3銃士](https://ja.wikipedia.org/wiki/ゼルダの伝説_トライフォース3銃士 "wikilink")』（任天堂）発売。
   - [2017年](../Page/2017年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink") - 『[スーパーマリオ オデッセイ](https://ja.wikipedia.org/wiki/スーパーマリオ_オデッセイ "wikilink")』（任天堂）発売。

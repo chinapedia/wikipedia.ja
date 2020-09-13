@@ -26,4 +26,4 @@
   - [国会中継](../Page/国会中継.md "wikilink")（1996年度）
   - 発信基地
 
-[Category:NHKの元職員アナウンサー](https://ja.wikipedia.org/wiki/Category:NHKの元職員アナウンサー "wikilink") [Category:中央大学出身の人物](https://ja.wikipedia.org/wiki/Category:中央大学出身の人物 "wikilink") [Category:秋田県出身の人物](https://ja.wikipedia.org/wiki/Category:秋田県出身の人物 "wikilink") [Category:1959年生](https://ja.wikipedia.org/wiki/Category:1959年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:NHKの元職員アナウンサー](https://ja.wikipedia.org/wiki/Category:NHKの元職員アナウンサー "wikilink") [Category:中央大学出身の人物](https://ja.wikipedia.org/wiki/Category:中央大学出身の人物 "wikilink") [Category:秋田県立横手高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:秋田県立横手高等学校出身の人物 "wikilink") [Category:秋田県出身の人物](https://ja.wikipedia.org/wiki/Category:秋田県出身の人物 "wikilink") [Category:1959年生](https://ja.wikipedia.org/wiki/Category:1959年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

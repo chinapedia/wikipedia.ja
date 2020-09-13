@@ -105,7 +105,7 @@
   - GAT-X207 [ブリッツガンダム](https://ja.wikipedia.org/wiki/ブリッツガンダム "wikilink")（コスト:450 ★3.5）
   - GAT-X103 [バスターガンダム](https://ja.wikipedia.org/wiki/バスターガンダム "wikilink")（コスト:450 ★3.5）
   - GAT-X102 [デュエルガンダム](../Page/デュエルガンダム.md "wikilink")（コスト:420 ★3）
-  - GAT-X102 [デュエルガンダム アサルトシュラウド](https://ja.wikipedia.org/wiki/デュエルガンダム#デュエルガンダム_アサルトシュラウド "wikilink")（コスト:450 ★3.5）
+  - GAT-X102 [デュエルガンダム アサルトシュラウド](https://ja.wikipedia.org/wiki/デュエルガンダム#デュエル_アサルトシュラウド "wikilink")（コスト:450 ★3.5）
   - ZGMF-1017 [ジン](../Page/ジン_\(ガンダムシリーズ\).md "wikilink")（マシンガン装備）（コスト:270 ★2）
   - ZGMF-1017 [ジン](../Page/ジン_\(ガンダムシリーズ\).md "wikilink")（バズーカ装備）（コスト:270 ★2）
   - ZGMF-1017 [ジン](../Page/ジン_\(ガンダムシリーズ\).md "wikilink")（特火重粒子砲装備）（コスト:270 ★2）
@@ -115,7 +115,7 @@
   - TMF/S-3 [ジン・オーカー](https://ja.wikipedia.org/wiki/ジン_\(ガンダムシリーズ\)#ジンオーカー "wikilink")（砂漠戦用装備）（コスト:210 ★1）
   - YMF-01B [プロトタイプジン](https://ja.wikipedia.org/wiki/ジン_\(ガンダムシリーズ\)#プロトジン "wikilink")（コスト:210 ★1）
   - AMF-101 [ディン](https://ja.wikipedia.org/wiki/シグー#ディン "wikilink")（コスト:270 ★2）
-  - AMF-101 [指揮官用ディン](https://ja.wikipedia.org/wiki/シグー#ディン "wikilink")（コスト:280 ★2.5）
+  - AMF-101 [指揮官用ディン](https://ja.wikipedia.org/wiki/シグー#ラウ専用ディン（指揮官機） "wikilink")（コスト:280 ★2.5）
   - TFA-2 [ザウート](https://ja.wikipedia.org/wiki/ザフトの機動兵器#ザウート "wikilink")（コスト:210 ★1）
   - TMF/A-802 [バクゥ](../Page/バクゥ.md "wikilink")（ミサイルポッド装備）（コスト:280 ★2.5）
   - TMF/A-802 [バクゥ](../Page/バクゥ.md "wikilink")（レールガン装備）（コスト:280 ★2.5）
@@ -141,10 +141,10 @@
   - LCAM-01XA [アークエンジェル](https://ja.wikipedia.org/wiki/アークエンジェル_\(ガンダムシリーズ\)#アークエンジェル "wikilink")
   - TS-MA2mod.00 [メビウス・ゼロ](../Page/メビウス・ゼロ.md "wikilink")
   - FX-550 [スカイグラスパー](../Page/スカイグラスパー.md "wikilink")（エール）
-  - FX-550 [スカイグラスパー](../Page/スカイグラスパー.md "wikilink")（ランチャー）
-  - FX-550 [スカイグラスパー](../Page/スカイグラスパー.md "wikilink")（ソード）
+  - FX-550 スカイグラスパー（ランチャー）
+  - FX-550 スカイグラスパー（ソード）
   - ZGMF-X10A [フリーダム・M](../Page/ミーティアユニット.md "wikilink")
-  - ZGMF-X09A [ジャスティス・M](../Page/ミーティアユニット.md "wikilink")
+  - ZGMF-X09A ジャスティス・M
   - [メネラオス](https://ja.wikipedia.org/wiki/地球連合軍の艦船及びその他の兵器#アガメムノン級 "wikilink")
   - LCAM-01XB [ドミニオン](https://ja.wikipedia.org/wiki/アークエンジェル_\(ガンダムシリーズ\)#ドミニオン "wikilink")
   - [ガモフ](https://ja.wikipedia.org/wiki/ザフトの艦船及びその他の兵器#ローラシア級 "wikilink")
@@ -161,12 +161,12 @@
   - サイ・アーガイル（声 - [白鳥哲](../Page/白鳥哲.md "wikilink")）
   - トール・ケーニヒ（声 - [井上隆之](../Page/井上隆之.md "wikilink")）
   - オルガ・サブナック（声 - [小田井涼平](../Page/小田井涼平.md "wikilink")）
-  - クロト・ブエル（声 - [結城比呂](https://ja.wikipedia.org/wiki/結城比呂 "wikilink")）
+  - クロト・ブエル（声 - [結城比呂](../Page/優希比呂.md "wikilink")）
   - シャニ・アンドラス（声 - [Shunn](../Page/Shunn.md "wikilink")）
   - [アスラン・ザラ](../Page/アスラン・ザラ.md "wikilink")（声 - [石田彰](../Page/石田彰.md "wikilink")）
   - [イザーク・ジュール](../Page/イザーク・ジュール.md "wikilink")（声 - [関智一](../Page/関智一.md "wikilink")）
-  - [ディアッカ・エルスマン](../Page/ディアッカ・エルスマン.md "wikilink")（声 - [笹沼尭羅](https://ja.wikipedia.org/wiki/笹沼尭羅 "wikilink")）
-  - [ニコル・アマルフィ](../Page/ニコル・アマルフィ.md "wikilink")（声 - [朴璐美](https://ja.wikipedia.org/wiki/朴璐美 "wikilink")）
+  - [ディアッカ・エルスマン](../Page/ディアッカ・エルスマン.md "wikilink")（声 - [笹沼尭羅](../Page/笹沼晃.md "wikilink")）
+  - [ニコル・アマルフィ](../Page/ニコル・アマルフィ.md "wikilink")（声 - [朴璐美](../Page/朴璐美.md "wikilink")）
   - [ラウ・ル・クルーゼ](../Page/ラウ・ル・クルーゼ.md "wikilink")（声 - [関俊彦](../Page/関俊彦.md "wikilink")）
   - ミゲル・アイマン（声 - [西川貴教](../Page/西川貴教.md "wikilink")）
   - [アンドリュー・バルトフェルド](../Page/アンドリュー・バルトフェルド.md "wikilink")（声 - [置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")）
@@ -207,10 +207,10 @@
 
   - ZGMF-X23S [セイバーガンダム](../Page/セイバーガンダム.md "wikilink")（コスト:560 ★4）
   - ZGMF-1000 [ザクウォーリア](../Page/ザクウォーリア.md "wikilink")（コスト:420 ★3）
-  - ZGMF-1000/A1 [ガナーザクウォーリア](https://ja.wikipedia.org/wiki/ザクウォーリア#ウィザードシステム "wikilink")（コスト:420 ★3）
-  - ZGMF-1000/A1 [ガナーザクウォーリア（ルナマリア専用機）](https://ja.wikipedia.org/wiki/ザクウォーリア#ウィザードシステム "wikilink")（コスト:420 ★3）
-  - ZGMF-1001/K [スラッシュザクファントム](https://ja.wikipedia.org/wiki/ザクウォーリア#ウィザードシステム "wikilink")（コスト:450 ★3.5）
-  - ZGMF-1001/M [ブレイズザクファントム](https://ja.wikipedia.org/wiki/ザクウォーリア#ウィザードシステム "wikilink")（コスト:450 ★3.5）
+  - ZGMF-1000/A1 [ガナーザクウォーリア](https://ja.wikipedia.org/wiki/ザクウォーリア#ガナーウィザード "wikilink")（コスト:420 ★3）
+  - ZGMF-1000/A1 [ガナーザクウォーリア（ルナマリア専用機）](https://ja.wikipedia.org/wiki/ザクウォーリア#ルナマリア専用ザクウォーリア "wikilink")（コスト:420 ★3）
+  - ZGMF-1001/K [スラッシュザクファントム](https://ja.wikipedia.org/wiki/ザクウォーリア#イザーク専用ザクファントム "wikilink")（コスト:450 ★3.5）
+  - ZGMF-1001/M [ブレイズザクファントム](https://ja.wikipedia.org/wiki/ザクウォーリア#レイ専用ザクファントム "wikilink")（コスト:450 ★3.5）
   - ZGMF-X24S [カオスガンダム](../Page/カオスガンダム.md "wikilink")（コスト:450 ★3.5）
   - ZGMF-X31S [アビスガンダム](../Page/アビスガンダム.md "wikilink")（コスト:450 ★3.5）
   - ZGMF-X88S [ガイアガンダム](../Page/ガイアガンダム.md "wikilink")（コスト:450 ★3.5）
@@ -223,30 +223,30 @@
 
   - TS-MA2mod.00 [メビウス・ゼロ](../Page/メビウス・ゼロ.md "wikilink")（コスト:210 ★1）
   - FX-550 [スカイグラスパー](../Page/スカイグラスパー.md "wikilink")（エール）（コスト:210 ★1）
-  - FX-550 [スカイグラスパー](../Page/スカイグラスパー.md "wikilink")（ランチャー）（コスト:210 ★1）
-  - FX-550 [スカイグラスパー](../Page/スカイグラスパー.md "wikilink")（ソード）（コスト:210 ★1）
+  - FX-550 スカイグラスパー（ランチャー）（コスト:210 ★1）
+  - FX-550 スカイグラスパー（ソード）（コスト:210 ★1）
   - ZGMF-X10A [フリーダム・（ミーティア）](../Page/ミーティアユニット.md "wikilink")（コスト:700 ★5）
-  - ZGMF-X09A [ジャスティス・（ミーティア）](../Page/ミーティアユニット.md "wikilink")（コスト:700 ★5）
+  - ZGMF-X09A ジャスティス・（ミーティア）（コスト:700 ★5）
 
 ### 追加パイロット
 
   - [ルナマリア・ホーク](../Page/ルナマリア・ホーク.md "wikilink")（声 - [坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink")）
   - [レイ・ザ・バレル](../Page/レイ・ザ・バレル.md "wikilink")（声 - 関俊彦）
-  - アスラン・ザラ(Destiny)(FAITH)（声 - 石田彰）
-  - イザーク・ジュール(Destiny)(白服)（声 - 関智一）
-  - ディアッカ・エルスマン(Destiny)(緑服)（声 - 笹沼尭羅）
+  - アスラン・ザラ（Destiny / FAITH）（声 - 石田彰）
+  - イザーク・ジュール（Destiny / 白服）（声 - 関智一）
+  - ディアッカ・エルスマン（Destiny / 緑服）（声 - 笹沼尭羅）
   - スティング・オークレー（声 - [諏訪部順一](../Page/諏訪部順一.md "wikilink")）
   - アウル・ニーダ（声 - [森田成一](../Page/森田成一.md "wikilink")）
   - ステラ・ルーシェ（声 - 桑島法子）
-  - キラ・ヤマト(Destiny)(オーブ服)（声 - 保志総一朗）
+  - キラ・ヤマト（Destiny / オーブ服）（声 - 保志総一朗）
 
 ### 追加オペレーター
 
-  - [ネオ・ロアノーク](https://ja.wikipedia.org/wiki/ネオ・ロアノーク "wikilink")（声 - 子安武人）
+  - [ネオ・ロアノーク](../Page/ムウ・ラ・フラガ.md "wikilink")（声 - 子安武人）
 
 ## PSP版の追加要素
 
-PSP版オリジナルモードとして、様々な任務をクリアするミッションモードが追加される。ミッションモードの数は200種類を超える。
+PSP版オリジナルモードとして、様々な任務をクリアするミッションモードが追加される。ミッションモードの数は200ステージを超える。
 
 また、アドホックモードを使った通信を介して4人同時対戦が可能となった（PS2版では画面が分割されていたが、PSP版ではフル画面で対戦が出来る）。
 

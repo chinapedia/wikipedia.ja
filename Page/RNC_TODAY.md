@@ -35,7 +35,7 @@
   - 交通情報の中で、鉄道は香川県内のJR4路線（[予讃線](https://ja.wikipedia.org/wiki/予讃線 "wikilink")・[土讃線](https://ja.wikipedia.org/wiki/土讃線 "wikilink")・[高徳線](https://ja.wikipedia.org/wiki/高徳線 "wikilink")・[瀬戸大橋線](../Page/瀬戸大橋線.md "wikilink")）と琴電3路線（[琴平線](https://ja.wikipedia.org/wiki/琴電琴平線 "wikilink")・[長尾線](https://ja.wikipedia.org/wiki/琴電長尾線 "wikilink")・[志度線](https://ja.wikipedia.org/wiki/琴電志度線 "wikilink")）だけでなく岡山県内の在来線・岡山駅発着の新幹線も伝えられる。また道路も四国内のすべての高速道路路線の規制情報が伝えられる。
   - BGMは洋楽で毎日ひとりまたは1グループが出したベストアルバムの中から3曲を選曲、2 - 3曲目が流れる際に交通情報やカーチェッククイズの出題が行われる。
   - カーチェッククイズは三択で正解者のリスナーにはクオカードが送られる。香川県自動車整備振興会の提供。問題出題の後に振興会のCMを流している。
-  - かつては「[三菱ダイヤモンドハイウェイ](https://ja.wikipedia.org/wiki/三菱ダイヤモンドハイウェイ "wikilink")」と題してニッポン放送で放送されていたコーナーをスポンサーとタイトルのみネット。三菱石油（現・[JXTGエネルギー](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")）提供だった。
+  - かつては「[三菱ダイヤモンドハイウェイ](https://ja.wikipedia.org/wiki/三菱ダイヤモンドハイウェイ "wikilink")」と題してニッポン放送で放送されていたコーナーをスポンサーとタイトルのみネット。三菱石油（現・[ENEOS](../Page/ENEOS.md "wikilink")）提供だった。
       - この関係もあってか、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の[JRN加盟後も多くのJRN系列局がネットしている](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")『[うわさの調査隊](../Page/うわさの調査隊.md "wikilink")』（[TBSラジオ](../Page/TBSラジオ.md "wikilink")）はネットされていなかった。なお、隣接の各県の局および大阪の[ABCラジオではネットされていたためそちらで聴取可能だった](../Page/朝日放送ラジオ.md "wikilink")。
 
 <!-- end list -->

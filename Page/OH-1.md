@@ -243,7 +243,7 @@ AH-64Dの調達が13機で中断されたため、防衛省では新たに別機
 
 ## 外部リンク
 
-  - [陸上自衛隊：航空機](http://www.mod.go.jp/gsdf/equipment/air/index.html)
+  - [陸上自衛隊：航空機](https://www.mod.go.jp/gsdf/equipment/air/index.html)
   - [OH-1 観測ヘリコプター](http://www.khi.co.jp/aero/product/helicopters/oh_1.html) - 川崎重工 航空宇宙システムカンパニー
 
 [Category:日本の偵察機](https://ja.wikipedia.org/wiki/Category:日本の偵察機 "wikilink") [Category:日本のヘリコプター](https://ja.wikipedia.org/wiki/Category:日本のヘリコプター "wikilink") [Category:川崎重工業製の航空機](https://ja.wikipedia.org/wiki/Category:川崎重工業製の航空機 "wikilink") [Category:軍用ヘリコプター](https://ja.wikipedia.org/wiki/Category:軍用ヘリコプター "wikilink") [Category:陸上自衛隊の装備品](https://ja.wikipedia.org/wiki/Category:陸上自衛隊の装備品 "wikilink")
@@ -262,11 +262,11 @@ AH-64Dの調達が13機で中断されたため、防衛省では新たに別機
 12. [富士重工の内部資料手渡す、防衛省幹部来週にも刑事処分](http://web.archive.org/web/20130103132504/http://sankei.jp.msn.com/affairs/news/121215/crm12121500560000-n1.htm)（MSN産経、2012/12/15、2012/12/17閲覧）
 13. [２等陸佐２人を略式起訴　防衛ヘリ談合で東京地検　「利益供与なく悪質性低い」](http://web.archive.org/web/20121220121856/http://sankei.jp.msn.com/affairs/news/121220/crm12122017290013-n1.htm)
 14. [陸自ヘリ開発「白紙」 官製談合事件で小野寺防衛相 MSN](http://web.archive.org/web/20130111053720/http://sankei.jp.msn.com/affairs/news/130111/crm13011114290014-n1.htm)
-15. [陸上自衛隊新多用途ヘリコプターの企業選定に係る事案に関する懲戒処分について](http://www.mod.go.jp/j/press/news/2013/07/31d.html)（防衛省報道資料）
-16. [川崎重工業株式会社に対する指名停止の措置について](http://www.mod.go.jp/j/press/news/2013/07/31e.html)（防衛省報道資料）
+15. [陸上自衛隊新多用途ヘリコプターの企業選定に係る事案に関する懲戒処分について](https://web.archive.org/20130813165359/http://www.mod.go.jp/j/press/news/2013/07/31d.html)（防衛省報道資料）
+16. [川崎重工業株式会社に対する指名停止の措置について](https://web.archive.org/20130813165357/http://www.mod.go.jp/j/press/news/2013/07/31e.html)（防衛省報道資料）
 17. Jウイング 2015年4月号
 18. [UH-X、ベル412EPI発展型に　ガリソンCEOに聞く](http://www.aviationwire.jp/archives/66158)
-19. [ヘリコプター用エンジン（TS1出力増大型）の研究試作](http://www.mod.go.jp/j/approach/others/service/kanshi_koritsu/h24/pdf/r-sheet/0435.pdf)
+19. [ヘリコプター用エンジン（TS1出力増大型）の研究試作](https://www.mod.go.jp/j/approach/hyouka/kouritsuka/rev_suishin/h24/pdf/r-sheet/0435.pdf)
 20.
 21.
 22. 軍事研究 2012年6月号

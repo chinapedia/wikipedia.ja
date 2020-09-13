@@ -1,15 +1,21 @@
 > この記事は[Def Jam Recordings \(日本\)](https://ja.wikipedia.org/wiki/Def_Jam_Recordings_\(日本\))から翻訳されています。
 
 
-**Def Jam Recordings**（デフ・ジャム・レコーディングス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽レーベル](../Page/レコードレーベル.md "wikilink")。
+**Def Jam Recordings**（デフ・ジャム・レコーディングス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽レーベル](../Page/レコードレーベル.md "wikilink")。 前身レーベルは**Def Jam Japan**。
 
 ## 概要
 
-[ヒップホップ](../Page/ヒップホップ.md "wikilink")・[R\&Bを中心とした](../Page/リズム・アンド・ブルース.md "wikilink")[アメリカのレコードレーベル](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[デフ・ジャム・レコーディングス](https://ja.wikipedia.org/wiki/デフ・ジャム・レコーディングス "wikilink")の日本支社として[2000年](../Page/2000年.md "wikilink")、[ユニバーサルミュージック傘下に](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")「**Def Jam Japan**」の名前で設立。
+[ヒップホップ](../Page/ヒップホップ.md "wikilink")・[R\&Bを中心とした](../Page/リズム・アンド・ブルース.md "wikilink")[アメリカのレコードレーベル](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[デフ・ジャム・レコーディングス](https://ja.wikipedia.org/wiki/デフ・ジャム・レコーディングス "wikilink")の日本支社として、[2000年](../Page/2000年.md "wikilink")に「**RIKO**」こと**桜井理子**（さくらい さとこ）が、[ユニバーサルミュージック傘下に](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")「**Def Jam Japan**」の名前で設立。
 
 2000年10月7日にReality Recordsから発売された[NITRO MICROPHONE UNDERGROUNDのアルバム](../Page/NITRO_MICROPHONE_UNDERGROUND.md "wikilink")『NITRO MICROPHONE UNDERGROUND』の再発がDef Jam Japanの初の作品となった。また、NITRO MICROPHONE UNDERGROUNDの[DABO](../Page/DABO.md "wikilink")が第1号アーティストとして契約される。
 
-近年は休止状態だったが、「**Def Jam Recordings**」の名前で2016年に再始動し、第1号アーティストとして[AK-69](https://ja.wikipedia.org/wiki/AK-69 "wikilink")と契約した\[1\]。
+[2004年](../Page/2004年.md "wikilink")を最後に、Def Jam Japanとアーティストの新規契約が無くなる。
+
+[2005年](../Page/2005年.md "wikilink")以降から新たに契約されたアーティストは、Def Jam Japanではなく別レーベルの「**Def Jam Recordings** (日本)」扱いとなる。
+
+[2007年](../Page/2007年.md "wikilink")9月5日に発売された[岡村靖幸](../Page/岡村靖幸.md "wikilink")のシングル『はっきりもっと勇敢になって』が、「Def Jam Japan」としての最後のリリース作品となる。
+
+[2012年](../Page/2012年.md "wikilink")8月1日に発売された[KGのシングル](https://ja.wikipedia.org/wiki/KG_\(歌手\) "wikilink")『同じ空見上げて』以降、日本のDef Jam Recordingsは休止状態だったが、[2016年](../Page/2016年.md "wikilink")に[AK-69](https://ja.wikipedia.org/wiki/AK-69 "wikilink")が契約したことで再始動した\[1\]。
 
 ## 所属アーティスト
 
@@ -19,6 +25,8 @@
   - [IO](https://ja.wikipedia.org/wiki/KANDYTOWN "wikilink")（2019年〜）
 
 ## 過去の所属アーティスト
+
+### Def Jam Japan
 
   - [NITRO MICROPHONE UNDERGROUND](../Page/NITRO_MICROPHONE_UNDERGROUND.md "wikilink") (2000年)
       - [DABO](../Page/DABO.md "wikilink") (2001年〜2004年)
@@ -31,11 +39,14 @@
   - [岡村靖幸](../Page/岡村靖幸.md "wikilink") (2004年〜2007年)
   - CRYSTAL MOVEMENT (2004年)
   - 浜口祐夢 (2004年)
+
+### Def Jam Recordings (日本)
+
   - [TERIYAKI BOYZ](../Page/TERIYAKI_BOYZ.md "wikilink") (2005年〜2006年)
   - ILLMATIC HEADLOCK（IHL）(2007年〜2009年)
   - [SoulJa](https://ja.wikipedia.org/wiki/SoulJa "wikilink") (2008年〜2011年)
   - [吉見一星](https://ja.wikipedia.org/wiki/吉見一星 "wikilink") (2009年)
-  - [KG](https://ja.wikipedia.org/wiki/KG_\(歌手\) "wikilink") (2010年〜2013年)
+  - [KG](https://ja.wikipedia.org/wiki/KG_\(歌手\) "wikilink") (2009年〜2012年)
 
 ## コンピレーションアルバム
 

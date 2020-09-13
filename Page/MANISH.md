@@ -5,7 +5,7 @@
 
 ## 来歴
 
-  - 1991年、大手モデル事務所の[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")所属メンバーによって結成された「[空手](https://ja.wikipedia.org/wiki/空手 "wikilink")パフォーマンスグループ」アクションズが起源。[有栖川宮記念公園](../Page/有栖川宮記念公園.md "wikilink")にて定期的にパフォーマンスを披露していた。1992年5月、アクションズの中から選抜された高橋美鈴、西本麻里、石沢晶、土屋さゆりの4人がアイドルグループ・**DALI**（ダリ）として、シングル「[ムーンライト伝説](https://ja.wikipedia.org/wiki/ムーンライト伝説 "wikilink")」（[美少女戦士セーラームーン](https://ja.wikipedia.org/wiki/美少女戦士セーラームーン "wikilink")OP曲）でデビュー。直後にグループは解散。しかし、DALIから高橋と西本を選抜し、**MANISH**を結成。12月に「恋人と呼べないDistance」で再デビュー（なお、高橋はDALIとしての活動前は初代おにぎりにぎり隊として[農業協同組合](../Page/農業協同組合.md "wikilink")のキャンペーンソングを歌っていたこともある）。後に「[声にならないほどに愛しい](../Page/声にならないほどに愛しい.md "wikilink")」「[もう誰の目も気にしない](../Page/もう誰の目も気にしない.md "wikilink")」「[煌めく瞬間に捕われて](../Page/煌めく瞬間に捕われて.md "wikilink")」などがヒットした。
+  - 1991年、大手モデル事務所の[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")所属メンバーによって結成された「[空手](https://ja.wikipedia.org/wiki/空手 "wikilink")パフォーマンスグループ」アクションズが起源。[有栖川宮記念公園](../Page/有栖川宮記念公園.md "wikilink")にて定期的にパフォーマンスを披露していた。1992年5月、アクションズの中から選抜された高橋美鈴、西本麻里、石沢晶、土屋さゆりの4人がアイドルグループ・**DALI**（ダリ）として、シングル「[ムーンライト伝説](https://ja.wikipedia.org/wiki/ムーンライト伝説 "wikilink")」（[美少女戦士セーラームーン](https://ja.wikipedia.org/wiki/美少女戦士セーラームーン "wikilink")OP曲）でデビュー。直後にグループは解散。しかし、DALIから高橋と西本を選抜し、**MANISH**を結成。12月に「恋人と呼べないDistance」で再デビュー（なお、高橋はDALIとしての活動前は初代おにぎりにぎり隊として[農業協同組合](../Page/農業協同組合.md "wikilink")のキャンペーンソングを歌っていたこともある）。後に「[声にならないほどに愛しい](../Page/声にならないほどに愛しい.md "wikilink")」「[もう誰の目も気にしない](../Page/もう誰の目も気にしない.md "wikilink")」「[煌めく瞬間に捕われて](https://ja.wikipedia.org/wiki/煌めく瞬間に捕われて/眩しいくらいに… "wikilink")」などがヒットした。
   - グループ名は2人とも小さい頃から男の子っぽいと言われた事に由来する。MANISHという言葉は造語で、「男の子っぽい、男のような」を意味する正しい英語のスペルは**mannish**である。西本麻里の「MAri NISHimoto」から取ったとも言われている。
   - アップテンポなポップロックを得意とし、[B'z](../Page/B'z.md "wikilink")のアレンジも手がける[明石昌夫](../Page/明石昌夫.md "wikilink")が長くサウンドプロデュースを担当、キーボード主体の女版B'zと称されることもあった。音楽性だけではなく二人のモデルのようなルックスにも注目が集まった。
   - 同時期に活動していた女性ロックユニット[KIX-S](../Page/KIX-S.md "wikilink")と形式やヴォーカルスタイルが似ている事で混同される事が多かったが、両ユニットともビーイングが制作していた。
@@ -16,14 +16,14 @@
 
   - 高橋美鈴（たかはし みすず）
     [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](../Page/作詞.md "wikilink")担当。
-    生まれ。[東京都](../Page/東京都.md "wikilink")出身。[血液型O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長166cm。
+    生まれ。[東京都](../Page/東京都.md "wikilink")出身。[血液型O型](../Page/ABO式血液型.md "wikilink")。身長166cm。
     かつては初代おにぎりにぎり隊として農協のキャンペーンソングを歌っていた。パンチの効いたパワフルなボーカルが特徴で、アップテンポな歌を得意とした。同じビーイングの[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")と声質やボーカルスタイルが似ており、大黒はコーラス参加や歌詞提供などもしている。なお、[NHKアナウンサーの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[高橋美鈴](https://ja.wikipedia.org/wiki/高橋美鈴 "wikilink")とは同姓同名の別人である。
 
 <!-- end list -->
 
   - 西本麻里（にしもと まり）
     [キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[作曲](../Page/作曲.md "wikilink")担当。
-    生まれ。東京都出身。[血液型AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長172cm。
+    生まれ。東京都出身。[血液型AB型](../Page/ABO式血液型.md "wikilink")。身長172cm。
     初期はバラードのソングライティングを得意とし、「もう誰の目も気にしない」などのヒット曲の作曲も手がけた。ビジュアル的に優れていたため、裏方のキーボードに徹していたことに不満をもつファンも多かった。[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")等の出演時には、一般的に音楽番組でキーボーディストが使うような機材ではなく、KURZWEILを中心に、編曲家がレコーディングスタジオ専用に使うシンセシステムのようなかなり大掛かりな機材を持ち込むなど、話題になったこともある。
 
 ## ディスコグラフィ
@@ -125,9 +125,14 @@
 <tr class="even">
 <td><p>10th</p></td>
 <td><p>1995年2月6日</p></td>
-<td><p><a href="../Page/煌めく瞬間に捕われて.md" title="wikilink">煌めく瞬間に捕われて</a></p></td>
-<td><p>作詞：高橋美鈴&amp;川島だりあ<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/煌めく瞬間に捕われて/眩しいくらいに…" title="wikilink">煌めく瞬間に捕われて/眩しいくらいに…</a></p></td>
+<td><p><small>（煌めく瞬間に捕われて）</small><br />
+作詞：高橋美鈴&amp;川島だりあ<br />
 作曲：川島だりあ<br />
+編曲：明石昌夫<br />
+<small>（眩しいくらいに…）</small><br />
+作詞：高橋美鈴<br />
+作曲：西本麻里<br />
 編曲：明石昌夫</p></td>
 <td><p>6位</p></td>
 </tr>
@@ -213,7 +218,7 @@
   - [Power Manish](https://beinggiza.com/ci/artist/manish/)（レコード会社公式）
 
   -
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:過去のビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:過去のビーイング系列所属者 "wikilink") [Category:過去のスターダストプロモーション所属者](https://ja.wikipedia.org/wiki/Category:過去のスターダストプロモーション所属者 "wikilink") [Category:ガールズバンド](https://ja.wikipedia.org/wiki/Category:ガールズバンド "wikilink") [Category:1992年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1992年に結成した音楽グループ "wikilink") [Category:1998年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1998年に解散した音楽グループ "wikilink")
+[Category:ガールズバンド](https://ja.wikipedia.org/wiki/Category:ガールズバンド "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:過去のビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:過去のビーイング系列所属者 "wikilink") [Category:過去のスターダストプロモーション所属者](https://ja.wikipedia.org/wiki/Category:過去のスターダストプロモーション所属者 "wikilink") [Category:1992年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1992年に結成した音楽グループ "wikilink") [Category:1998年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1998年に解散した音楽グループ "wikilink")
 
 1.  [MANISH／気ままにDEAR MY FRIENDS](http://www2.jasrac.or.jp/eJwid/main.jsp?trxID=F20101&WORKS_CD=02361710&subSessionID=001&subSession=start) *作品データベース検索サービス（JASRAC）*
 2.  [MANISH／サヨナラはまだ言わない](http://www2.jasrac.or.jp/eJwid/main.jsp?trxID=F20101&WORKS_CD=02361833&subSessionID=001&subSession=start) *作品データベース検索サービス（JASRAC）*

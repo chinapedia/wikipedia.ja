@@ -17,6 +17,8 @@
 
 その後またしても表立った活動はなかったが、[2018年](../Page/2018年.md "wikilink")[11月](../Page/11月.md "wikilink")に新たな公式サイトを立ち上げ[2019年](../Page/2019年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")に再びDo As Infinityとの対バンライブを行った\[5\]。
 
+[2020年](../Page/2020年.md "wikilink")、佐々木と秋山によるユニット「オサム＆ヒロノリ from MOON CHILD」として、「微熱」「ESCAPE」「requiem for the man of nomad」のセルフカバーと新曲を収録したミニアルバムを発表\[6\]。
+
 ## メンバー
 
 <table>
@@ -174,10 +176,11 @@
 
   - [ササキオサム公式サイト](http://osamu-sasaki.com/)
 
-[Category:MOON_CHILD](https://ja.wikipedia.org/wiki/Category:MOON_CHILD "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:ポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・ロック・バンド "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink")
+[Category:MOON_CHILD](https://ja.wikipedia.org/wiki/Category:MOON_CHILD "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のポップ・ロック・バンド "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink")
 
 1.  これに因み、デビューアルバムのタイトルは『tambourine』になり、オフィシャルファンクラブも「[タンバリン](../Page/タンバリン.md "wikilink")」という名前になった。
 2.  エイプリルフールマン（1998年）
 3.
 4.
 5.
+6.

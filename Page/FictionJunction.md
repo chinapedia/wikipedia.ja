@@ -64,7 +64,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/窪田啓子.md" title="wikilink">窪田啓子</a></p></td>
-<td><p>2005年「FictionJunction KEIKO」でデビュー。2009年から2016年までは、CD、LIVEにレギュラー参加していた。2008年から2019年まで梶浦プロデュース歌唱ユニット<a href="https://ja.wikipedia.org/wiki/Kalafina" title="wikilink">Kalafina</a>のメンバーであった。</p></td>
+<td><p>2005年「FictionJunction KEIKO」でデビュー。2009年から2016年まで、2019年以降は、CD、LIVEにレギュラー参加している。2008年から2019年まで梶浦プロデュース歌唱ユニット<a href="https://ja.wikipedia.org/wiki/Kalafina" title="wikilink">Kalafina</a>のメンバーであった。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -89,7 +89,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Aimer" title="wikilink">Aimer</a></p></td>
-<td><p>ライブに参加。</p></td>
+<td><p>2019年以降ライブに参加。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -235,12 +235,13 @@
 
 ### アルバム
 
-|      | 発売日        | タイトル                                                                                                                                                                | 規格品番         | 最高位 |
-| ---- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --- |
-| 1st  | 2009年2月25日 | **[Everlasting Songs](https://ja.wikipedia.org/wiki/Everlasting_Songs "wikilink")**                                                                                 | VTCL-60106   | 27位 |
-| LIVE | 2010年5月12日 | **[FictionJunction 2008-2010 The BEST of Yuki Kajiura LIVE](https://ja.wikipedia.org/wiki/FictionJunction_2008-2010_The_BEST_of_Yuki_Kajiura_LIVE "wikilink")**     | VTCL-60201/2 | 23位 |
-| 2nd  | 2014年1月22日 | **[elemental](https://ja.wikipedia.org/wiki/elemental "wikilink")**                                                                                                 | VTCL-60361   | 12位 |
-| LIVE | 2015年6月3日  | **[FictionJunction 2010-2013 The BEST of Yuki Kajiura LIVE 2](https://ja.wikipedia.org/wiki/FictionJunction_2010-2013_The_BEST_of_Yuki_Kajiura_LIVE_2 "wikilink")** | VTCL-60397/9 | 21位 |
+|      | 発売日        | タイトル                                                                                                                                                                                   | 規格品番         | 最高位 |
+| ---- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --- |
+| 1st  | 2009年2月25日 | **[Everlasting Songs](https://ja.wikipedia.org/wiki/Everlasting_Songs "wikilink")**                                                                                                    | VTCL-60106   | 27位 |
+| LIVE | 2010年5月12日 | **[FictionJunction 2008-2010 The BEST of Yuki Kajiura LIVE](https://ja.wikipedia.org/wiki/FictionJunction_2008-2010_The_BEST_of_Yuki_Kajiura_LIVE "wikilink")**                        | VTCL-60201/2 | 23位 |
+| 2nd  | 2014年1月22日 | **[elemental](https://ja.wikipedia.org/wiki/elemental "wikilink")**                                                                                                                    | VTCL-60361   | 12位 |
+| LIVE | 2015年6月3日  | **[FictionJunction 2010-2013 The BEST of Yuki Kajiura LIVE 2](https://ja.wikipedia.org/wiki/FictionJunction_2010-2013_The_BEST_of_Yuki_Kajiura_LIVE_2 "wikilink")**                    | VTCL-60397/9 | 21位 |
+| LIVE | 2020年6月10日 | **[Yuki Kajiura LIVE vol.\#15 “Soundtrack Special at the Amphitheater”](https://ja.wikipedia.org/wiki/Yuki_Kajiura_LIVE_vol.#15_“Soundtrack_Special_at_the_Amphitheater” "wikilink")** | VTCL-60527/8 |     |
 
 ### 映像作品
 

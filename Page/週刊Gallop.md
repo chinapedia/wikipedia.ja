@@ -93,11 +93,11 @@
 
 多数の臨時増刊があり、『JRA重賞年鑑』『[丸ごとPOG](https://ja.wikipedia.org/wiki/丸ごとPOG "wikilink")』は毎年発行されている。[2000年](../Page/2000年.md "wikilink")から[2002年](../Page/2002年.md "wikilink")にかけて発行された『[週刊100名馬](../Page/週刊100名馬.md "wikilink")』は2002年度の[JRA賞馬事文化賞](../Page/JRA賞馬事文化賞.md "wikilink")に選ばれた。
 
-また、[サンケイスポーツ](../Page/サンケイスポーツ.md "wikilink")が発行する競馬以外の増刊雑誌（[プロ野球](../Page/プロ野球.md "wikilink")、[オリンピック](../Page/近代オリンピック.md "wikilink")、[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")「ジャンバリ」=[近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")のみなど）も当雑誌創刊後は「サンスポ特別版」から「Gallop増刊」扱いで発行されている。
+また、[サンケイスポーツ](../Page/サンケイスポーツ.md "wikilink")が発行する競馬以外の増刊雑誌（[プロ野球](../Page/プロ野球.md "wikilink")、[オリンピック](../Page/近代オリンピック.md "wikilink")、[将棋](../Page/将棋.md "wikilink")\[2\]、[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")「ジャンバリ」=[近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")のみなど）も当雑誌創刊後は「サンスポ特別版」から「Gallop増刊」扱いで発行されている。
 
 ## イメージキャラクター
 
-初期のイメージキャラクターは馬を擬人化した「パカランJr.」で、テレビCMでは[田中星児](../Page/田中星児.md "wikilink")と共演した。2011年10月、松本ぷりっつのデザインによる新しいイメージキャラクター2体が発表され\[2\]、公募をもとに「ジーにぃ」「ジスター」と名付けられた\[3\]。
+初期のイメージキャラクターは馬を擬人化した「パカランJr.」で、テレビCMでは[田中星児](../Page/田中星児.md "wikilink")と共演した。2011年10月、松本ぷりっつのデザインによる新しいイメージキャラクター2体が発表され\[3\]、公募をもとに「ジーにぃ」「ジスター」と名付けられた\[4\]。
 
 ## 非常時の対応
 
@@ -126,5 +126,6 @@
 [Category:競馬新聞・雑誌](https://ja.wikipedia.org/wiki/Category:競馬新聞・雑誌 "wikilink") [Category:サンケイスポーツ](https://ja.wikipedia.org/wiki/Category:サンケイスポーツ "wikilink") [Category:産業経済新聞社](https://ja.wikipedia.org/wiki/Category:産業経済新聞社 "wikilink") [Category:フジサンケイグループ](https://ja.wikipedia.org/wiki/Category:フジサンケイグループ "wikilink") [Category:1993年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1993年創刊の雑誌 "wikilink") [Category:日本のスポーツ雑誌](https://ja.wikipedia.org/wiki/Category:日本のスポーツ雑誌 "wikilink") [Category:日本の週刊誌](https://ja.wikipedia.org/wiki/Category:日本の週刊誌 "wikilink")
 
 1.
-2.
+2.  [週刊Ｇａｌｌｏｐ臨時増刊「藤井棋聖誕生」を２４日発売](https://www.sanspo.com/geino/news/20200818/sot20081805000001-n1.html) サンケイスポーツ、2020年8月18日（同日閲覧）。
 3.
+4.

@@ -269,514 +269,528 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Bryan_Abreu" title="wikilink">Bryan Abreu</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブライアン・アブレイユ" title="wikilink">ブライアン・アブレイユ</a></p></td>
-<td><p>2019</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Albert_Abreu" title="wikilink">Albert Abreu</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アルバート・アブレイユ" title="wikilink">アルバート・アブレイユ</a></p></td>
+<td><p>2020</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Bryan_Abreu" title="wikilink">Bryan Abreu</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ブライアン・アブレウ" title="wikilink">ブライアン・アブレイユ</a></p></td>
+<td><p>2019</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Joe_Abreu" title="wikilink">Joe Abreu</a></p></td>
 <td><p><a href="../Page/ジョー・アブレイユ.md" title="wikilink">ジョー・アブレイユ</a></p></td>
 <td><p>1942</p></td>
 <td><p>1942</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:José_Abreu_(baseball)" title="wikilink">Jose Abreu</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ホセ・アブレイユ" title="wikilink">ホセ・アブレイユ</a></p></td>
 <td><p>2014</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Juan_Abreu" title="wikilink">Juan Abreu</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フアン・アブレイユ" title="wikilink">フアン・アブレイユ</a></p></td>
 <td><p>2011</p></td>
 <td><p>2011</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Tony_Abreu" title="wikilink">Tony Abreu</a></p></td>
 <td><p><a href="../Page/トニー・アブレイユ.md" title="wikilink">トニー・アブレイユ</a></p></td>
 <td><p>2007</p></td>
 <td><p>2014</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Winston_Abreu" title="wikilink">Winston Abreu</a></p></td>
 <td><p><a href="../Page/ウィンストン・アブレイユ.md" title="wikilink">ウィンストン・アブレイユ</a></p></td>
 <td><p>2006</p></td>
 <td><p>2009</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bill_Abstein" title="wikilink">Bill Abstein</a></p></td>
 <td><p><a href="../Page/ビル・アブスタイン.md" title="wikilink">ビル・アブスタイン</a></p></td>
 <td><p>1906</p></td>
 <td><p>1910</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><h2 id="ac">Ac</h2></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jeremy_Accardo" title="wikilink">Jeremy Accardo</a></p></td>
 <td><p><a href="../Page/ジェレミー・アッカード.md" title="wikilink">ジェレミー・アッカード</a></p></td>
 <td><p>2005</p></td>
 <td><p>2012</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:José_Acevedo_(baseball)" title="wikilink">Jose Acevedo</a></p></td>
 <td><p><a href="../Page/ホセ・アセベド_(野球).md" title="wikilink">ホゼ・アセベド</a></p></td>
 <td><p>2001</p></td>
 <td><p>2005</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Juan_Acevedo" title="wikilink">Juan Acevedo</a></p></td>
 <td><p><a href="../Page/ホアン・アセベド.md" title="wikilink">フアン・アセベド</a></p></td>
 <td><p>1995</p></td>
 <td><p>2003</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Alfredo_Aceves" title="wikilink">Alfredo Aceves</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アルフレド・アセベス" title="wikilink">アルフレド・アセベス</a></p></td>
 <td><p>2008</p></td>
 <td><p>2014</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:A._J._Achter" title="wikilink">A.J. Achter</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/A.J.アクター" title="wikilink">A・J・アクター</a></p></td>
 <td><p>2014</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jim_Acker" title="wikilink">Jim Acker</a></p></td>
 <td><p><a href="../Page/ジム・アッカー.md" title="wikilink">ジム・アッカー</a></p></td>
 <td><p>1983</p></td>
 <td><p>1992</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Tom_Acker" title="wikilink">Tom Acker</a></p></td>
 <td><p><a href="../Page/トム・アッカー.md" title="wikilink">トム・アッカー</a></p></td>
 <td><p>1956</p></td>
 <td><p>1959</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Dustin_Ackley" title="wikilink">Dustin Ackley</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ダスティン・アクリー" title="wikilink">ダスティン・アックリー</a></p></td>
 <td><p>2011</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Fritz_Ackley" title="wikilink">Fritz Ackley</a></p></td>
 <td><p><a href="../Page/フリッツ・アックレー.md" title="wikilink">フリッツ・アックリー</a></p></td>
 <td><p>1963</p></td>
 <td><p>1964</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Cy_Acosta" title="wikilink">Cy Acosta</a></p></td>
 <td><p><a href="../Page/サイ・アコスタ.md" title="wikilink">サイ・アコスタ</a></p></td>
 <td><p>1972</p></td>
 <td><p>1975</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ed_Acosta" title="wikilink">Ed Acosta</a></p></td>
 <td><p><a href="../Page/エド・アコスタ.md" title="wikilink">エド・アコスタ</a></p></td>
 <td><p>1970</p></td>
 <td><p>1972</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:José_Acosta_(baseball)" title="wikilink">Jose Acosta</a></p></td>
 <td><p><a href="../Page/ホセ・アコスタ_(1891年生の投手).md" title="wikilink">ホゼ・アコスタ</a></p></td>
 <td><p>1920</p></td>
 <td><p>1922</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Manny_Acosta" title="wikilink">Manny Acosta</a></p></td>
 <td><p><a href="../Page/マニー・アコスタ.md" title="wikilink">マニー・アコスタ</a></p></td>
 <td><p>2007</p></td>
 <td><p>2012</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Merito_Acosta" title="wikilink">Merito Acosta</a></p></td>
 <td><p><a href="../Page/メリト・アコスタ.md" title="wikilink">メリート・アコスタ</a></p></td>
 <td><p>1913</p></td>
 <td><p>1918</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mark_Acre" title="wikilink">Mark Acre</a></p></td>
 <td><p><a href="../Page/マーク・エーカー.md" title="wikilink">マーク・エーカー</a></p></td>
 <td><p>1994</p></td>
 <td><p>1997</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Ronald_Acuña" title="wikilink">Ronald Acuna</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロナルド・アクーニャ" title="wikilink">ロナルド・アクーニャ</a></p></td>
 <td><p>2018</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><h2 id="ad">Ad</h2></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jerry_Adair" title="wikilink">Jerry Adair</a></p></td>
 <td><p><a href="../Page/ジェリー・エイデアー.md" title="wikilink">ジェリー・エイデアー</a></p></td>
 <td><p>1958</p></td>
 <td><p>1970</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jimmy_Adair" title="wikilink">Jimmy Adair</a></p></td>
 <td><p><a href="../Page/ジミー・エイデアー.md" title="wikilink">ジミー・エイデアー</a></p></td>
 <td><p>1931</p></td>
 <td><p>1931</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Jason_Adam" title="wikilink">Jason Adam</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジェイソン・アダム" title="wikilink">ジェイソン・アダム</a></p></td>
 <td><p>2018</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Cristhian_Adames" title="wikilink">Cristhian Adames</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クリスチャン・アダメス" title="wikilink">クリスチャン・アダメス</a></p></td>
 <td><p>2014</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Willy_Adames" title="wikilink">Willy Adames</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウィリー・アダメス" title="wikilink">ウィリー・アダメス</a></p></td>
 <td><p>2018</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ace_Adams" title="wikilink">Ace Adams</a></p></td>
 <td><p><a href="../Page/エース・アダムズ.md" title="wikilink">エース・アダムス</a></p></td>
 <td><p>1941</p></td>
 <td><p>1946</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Austin_Adams_(baseball)" title="wikilink">Austin Adams</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オースティン・アダムス" title="wikilink">オースティン・アダムス</a></p></td>
 <td><p>2014</p></td>
 <td></td>
 <td><p>投手、Austin David Adams</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Austin_Adams_(baseball,_born_1991)" title="wikilink">Austin Adams</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オースティン・アダムス_(1991年生の投手)" title="wikilink">オースティン・アダムス</a></p></td>
 <td><p>2017</p></td>
 <td></td>
 <td><p>投手、Austin Lance Adams</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Babe_Adams" title="wikilink">Babe Adams</a></p></td>
 <td><p><a href="../Page/ベーブ・アダムズ.md" title="wikilink">ベーブ・アダムス</a></p></td>
 <td><p>1906</p></td>
 <td><p>1926</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bert_Adams" title="wikilink">Bert Adams</a></p></td>
 <td><p><a href="../Page/バート・アダムズ.md" title="wikilink">バート・アダムス</a></p></td>
 <td><p>1910</p></td>
 <td><p>1919</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bob_Adams_(1920s_pitcher)" title="wikilink">Bob Adams</a></p></td>
 <td><p><a href="../Page/ボブ・アダムズ_(1901年生の投手).md" title="wikilink">ボブ・アダムス</a></p></td>
 <td><p>1925</p></td>
 <td><p>1925</p></td>
 <td><p>投手、Robert Burnette Adams</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bob_Adams_(1930s_pitcher)" title="wikilink">Bob Adams</a></p></td>
 <td><p><a href="../Page/ボブ・アダムズ_(1907年生の投手).md" title="wikilink">ボブ・アダムス</a></p></td>
 <td><p>1931</p></td>
 <td><p>1932</p></td>
 <td><p>投手、Robert Andrew Adams</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bob_Adams_(first_baseman)" title="wikilink">Bob Adams</a></p></td>
 <td><p><a href="../Page/ボブ・アダムズ_(内野手).md" title="wikilink">ボブ・アダムス</a></p></td>
 <td><p>1977</p></td>
 <td><p>1977</p></td>
 <td><p>内野手、Robert Melvin Adams</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bobby_Adams" title="wikilink">Bobby Adams</a></p></td>
 <td><p><a href="../Page/ボビー・アダムズ.md" title="wikilink">ボビー・アダムス</a></p></td>
 <td><p>1946</p></td>
 <td><p>1959</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Buster_Adams" title="wikilink">Buster Adams</a></p></td>
 <td><p><a href="../Page/バスター・アダムズ.md" title="wikilink">バスター・アダムス</a></p></td>
 <td><p>1939</p></td>
 <td><p>1947</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Chance_Adams" title="wikilink">Chance Adams</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/チャンス・アダムス" title="wikilink">チャンス・アダムス</a></p></td>
 <td><p>2018</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Dan_Adams" title="wikilink">Dan Adams</a></p></td>
 <td><p><a href="../Page/ダン・アダムズ.md" title="wikilink">ダン・アダムス</a></p></td>
 <td><p>1914</p></td>
 <td><p>1915</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:David_Adams_(baseball)" title="wikilink">David Adams</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/デビッド・アダムス" title="wikilink">デビッド・アダムス</a></p></td>
 <td><p>2013</p></td>
 <td><p>2013</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Dick_Adams_(baseball)" title="wikilink">Dick Adams</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ディック・アダムズ" title="wikilink">ディック・アダムス</a></p></td>
 <td><p>1947</p></td>
 <td><p>1947</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Doug_Adams_(baseball)" title="wikilink">Doug Adams</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ダグ・アダムズ" title="wikilink">ダグ・アダムス</a></p></td>
 <td><p>1969</p></td>
 <td><p>1969</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:George_Adams_(baseball)" title="wikilink">George Adams</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョージ・アダムズ_(野球)" title="wikilink">ジョージ・アダムス</a></p></td>
 <td><p>1879</p></td>
 <td><p>1879</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Glenn_Adams" title="wikilink">Glenn Adams</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/グレン・アダムス_(野球)" title="wikilink">グレン・アダムス</a></p></td>
 <td><p>1975</p></td>
 <td><p>1982</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Herb_Adams_(baseball)" title="wikilink">Herb Adams</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ハーブ・アダムス" title="wikilink">ハーブ・アダムス</a></p></td>
 <td><p>1948</p></td>
 <td><p>1950</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jim_Adams_(baseball)" title="wikilink">Jim Adams</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジム・アダムス" title="wikilink">ジム・アダムス</a></p></td>
 <td><p>1890</p></td>
 <td><p>1890</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Joe_Adams" title="wikilink">Joe Adams</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョー・アダムス" title="wikilink">ジョー・アダムス</a></p></td>
 <td><p>1902</p></td>
 <td><p>1902</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Karl_Adams_(baseball)" title="wikilink">Karl Adams</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カール・アダムス" title="wikilink">カール・アダムス</a></p></td>
 <td><p>1914</p></td>
 <td><p>1915</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Lane_Adams" title="wikilink">Lane Adams</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/レーン・アダムス" title="wikilink">レイン・アダムス</a></p></td>
 <td><p>2014</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Matt_Adams" title="wikilink">Matt Adams</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マット・アダムス" title="wikilink">マット・アダムス</a></p></td>
 <td><p>2012</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mike_Adams_(outfielder)" title="wikilink">Mike Adams</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マイク・アダムス_(外野手)" title="wikilink">マイク・アダムス</a></p></td>
 <td><p>1972</p></td>
 <td><p>1978</p></td>
 <td><p>外野手、Robert Michael Adams</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mike_Adams_(pitcher)" title="wikilink">Mike Adams</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マイク・アダムス_(投手)" title="wikilink">マイク・アダムス</a></p></td>
 <td><p>2004</p></td>
 <td><p>2014</p></td>
 <td><p>投手、Jon Michael Adams</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Red_Adams" title="wikilink">Red Adams</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/レッド・アダムス" title="wikilink">レッド・アダムス</a></p></td>
 <td><p>1946</p></td>
 <td><p>1946</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Rick_Adams_(baseball)" title="wikilink">Rick Adams</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/リック・アダムス_(野球)" title="wikilink">リック・アダムス</a></p></td>
 <td><p>1905</p></td>
 <td><p>1905</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ricky_Adams" title="wikilink">Ricky Adams</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/リッキー・アダムス" title="wikilink">リッキー・アダムス</a></p></td>
 <td><p>1982</p></td>
 <td><p>1985</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Russ_Adams" title="wikilink">Russ Adams</a></p></td>
 <td><p><a href="../Page/ラス・アダムズ.md" title="wikilink">ラス・アダムス</a></p></td>
 <td><p>2004</p></td>
 <td><p>2009</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ryan_Adams_(baseball)" title="wikilink">Ryan Adams</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ライアン・アダムス_(野球)" title="wikilink">ライアン・アダムス</a></p></td>
 <td><p>2011</p></td>
 <td><p>2011</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Sparky_Adams" title="wikilink">Sparky Adams</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/スパーキー・アダムス" title="wikilink">スパーキー・アダムス</a></p></td>
 <td><p>1922</p></td>
 <td><p>1934</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Spencer_Adams" title="wikilink">Spencer Adams</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/スペンサー・アダムス" title="wikilink">スペンサー・アダムス</a></p></td>
 <td><p>1923</p></td>
 <td><p>1927</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Terry_Adams_(baseball)" title="wikilink">Terry Adams</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/テリー・アダムス" title="wikilink">テリー・アダムス</a></p></td>
 <td><p>1995</p></td>
 <td><p>2005</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Willie_Adams_(1910s_pitcher)" title="wikilink">Willie Adams</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウィリー・アダムス_(1890年生の投手)" title="wikilink">ウィリー・アダムス</a></p></td>
 <td><p>1912</p></td>
 <td><p>1919</p></td>
 <td><p>投手、James Irvin Adams</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Willie_Adams_(1990s_pitcher)" title="wikilink">Willie Adams</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウィリー・アダムス_(1972年生の投手)" title="wikilink">ウィリー・アダムス</a></p></td>
 <td><p>1996</p></td>
 <td><p>1997</p></td>
 <td><p>投手、William Edward Adams</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Joel_Adamson" title="wikilink">Joel Adamson</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョエル・アダムソン" title="wikilink">ジョエル・アダムソン</a></p></td>
 <td><p>1996</p></td>
 <td><p>1998</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mike_Adamson" title="wikilink">Mike Adamson</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マイク・アダムソン" title="wikilink">マイク・アダムソン</a></p></td>
 <td><p>1967</p></td>
 <td><p>1969</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Joe_Adcock" title="wikilink">Joe Adcock</a></p></td>
 <td><p><a href="../Page/ジョー・アドコック.md" title="wikilink">ジョー・アドコック</a></p></td>
 <td><p>1950</p></td>
 <td><p>1966</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Nate_Adcock" title="wikilink">Nathan Adcock</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ネイサン・アドコック" title="wikilink">ネイサン・アドコック</a></p></td>
 <td><p>2011</p></td>
 <td><p>2015</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bob_Addis" title="wikilink">Bob Addis</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ボブ・アディス" title="wikilink">ボブ・アディス</a></p></td>
 <td><p>1950</p></td>
 <td><p>1953</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jim_Adduci_(baseball,_born_1959)" title="wikilink">Jim Adduci</a></p></td>
 <td><p><a href="../Page/ジム・アドゥチ.md" title="wikilink">ジム・アドゥーシ</a></p></td>
 <td><p>1983</p></td>
 <td><p>1989</p></td>
 <td><p>外野手、James David Adduci</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Jim_Adduci_(baseball,_born_1985)" title="wikilink">Jim Adduci</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジム・アドゥチ_(1985年生の外野手)" title="wikilink">ジム・アドゥーシ</a></p></td>
 <td><p>2013</p></td>
 <td></td>
 <td><p>外野手、Jim Charles Adduci</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bob_Addy" title="wikilink">Bob Addy</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ボブ・アディ" title="wikilink">ボブ・アディ</a></p></td>
 <td><p>1871</p></td>
 <td><p>1877</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Jo_Adell" title="wikilink">Jo Adell</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジョー・アデル" title="wikilink">ジョー・アデル</a></p></td>
+<td><p>2020</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1106,6 +1120,20 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ジェリー・エイカーズ" title="wikilink">ジェリー・エイカーズ</a></p></td>
 <td><p>1912</p></td>
 <td><p>1912</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Keegan_Akin" title="wikilink">Keegan Akin</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/キーガン・エイキン" title="wikilink">キーガン・エイキン</a></p></td>
+<td><p>2020</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Shogo_Akiyama" title="wikilink">Shogo Akiyama</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/秋山翔吾" title="wikilink">秋山翔吾</a></p></td>
+<td><p>2020</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1460,7 +1488,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Tyler_Alexander_(baseball)" title="wikilink">Tyler Alexander</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タイラー・アレクサンダー_(野球)" title="wikilink">タイラー・アレクサンダー</a></p></td>
+<td><p><a href="../Page/タイラー・アレクサンダー_(野球).md" title="wikilink">タイラー・アレクサンダー</a></p></td>
 <td><p>2019</p></td>
 <td></td>
 <td></td>
@@ -1971,7 +1999,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Yency_Almonte" title="wikilink">Yency Almonte</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/イェンシー・アルモンテ" title="wikilink">イェンシー・アルモンテ</a></p></td>
+<td><p><a href="../Page/イェンシー・アルモンテ.md" title="wikilink">イェンシー・アルモンテ</a></p></td>
 <td><p>2018</p></td>
 <td></td>
 <td></td>
@@ -2216,7 +2244,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:José_Alvarado_(baseball)" title="wikilink">Jose Alvarado</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホセ・アルバラード_(野球)" title="wikilink">ホゼ・アルバラード</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ホセ・アルバラード_(野球)" title="wikilink">ホセ・アルバラード</a></p></td>
 <td><p>2017</p></td>
 <td></td>
 <td></td>
@@ -2257,486 +2285,500 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Eddy_Alvarez" title="wikilink">Eddy Alvarez</a></strong></p></td>
+<td><p><a href="../Page/エディ・アルバレス_(野球).md" title="wikilink">エディ・アルバレス</a></p></td>
+<td><p>2020</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Gabe_Alvarez" title="wikilink">Gabe Alvarez</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ゲイブ・アルバレス" title="wikilink">ゲイブ・アルバレス</a></p></td>
 <td><p>1998</p></td>
 <td><p>2000</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Henderson_Álvarez" title="wikilink">Henderson Alvarez</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヘンダーソン・アルバレス" title="wikilink">ヘンダーソン・アルバレス</a></p></td>
 <td><p>2011</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jose_Alvarez_(baseball,_born_1956)" title="wikilink">Jose Alvarez</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホセ・アルバレス_(1956年生の投手)" title="wikilink">ホゼ・アルバレス</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ホセ・アルバレス_(1956年生の投手)" title="wikilink">ホセ・アルバレス</a></p></td>
 <td><p>1981</p></td>
 <td><p>1989</p></td>
 <td><p>投手、Jose Lino Alvarez</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>'''<a href="https://ja.wikipedia.org/wiki/:en:José_Álvarez_(baseball,_born_1989)" title="wikilink">Jose Alvarez</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホセ・アルバレス" title="wikilink">ホゼ・アルバレス</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ホセ・アルバレス" title="wikilink">ホセ・アルバレス</a></p></td>
 <td><p>2013</p></td>
 <td></td>
 <td><p>投手、Jose Ricardo Alvarez</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Juan_Alvarez_(baseball)" title="wikilink">Juan Alvarez</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フアン・アルバレス" title="wikilink">フアン・アルバレス</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フアン・アルバレス_(野球)" title="wikilink">フアン・アルバレス</a></p></td>
 <td><p>1999</p></td>
 <td><p>2003</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Orlando_Álvarez" title="wikilink">Orlando Alvarez</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オーランド・アルバレス" title="wikilink">オーランド・アルバレス</a></p></td>
 <td><p>1973</p></td>
 <td><p>1976</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ossie_Álvarez" title="wikilink">Ossie Alvarez</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オシー・アルバレス" title="wikilink">オシー・アルバレス</a></p></td>
 <td><p>1958</p></td>
 <td><p>1959</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Pedro_Álvarez_(baseball)" title="wikilink">Pedro Alvarez</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ペドロ・アルバレス_(野球)" title="wikilink">ペドロ・アルバレス</a></p></td>
 <td><p>2010</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:R._J._Alvarez" title="wikilink">R.J. Alvarez</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/R.J.アルバレス" title="wikilink">R・J・アルバレス</a></p></td>
 <td><p>2014</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Rogelio_Álvarez" title="wikilink">Rogelio Alvarez</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロヘリオ・アルバレス" title="wikilink">ロヘリオ・アルバレス</a></p></td>
 <td><p>1960</p></td>
 <td><p>1962</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Tavo_Álvarez" title="wikilink">Tavo Alvarez</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タボ・アルバレス" title="wikilink">タボ・アルバレス</a></p></td>
 <td><p>1995</p></td>
 <td><p>1996</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Tony_Álvarez" title="wikilink">Tony Alvarez</a></p></td>
 <td><p><a href="../Page/トニー・アルバレス.md" title="wikilink">トニー・アルバレス</a></p></td>
 <td><p>2002</p></td>
 <td><p>2004</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Víctor_Álvarez" title="wikilink">Victor Alvarez</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ビクター・アルバレス" title="wikilink">ビクター・アルバレス</a></p></td>
 <td><p>2002</p></td>
 <td><p>2003</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Wilson_Álvarez" title="wikilink">Wilson Alvarez</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウィルソン・アルバレス" title="wikilink">ウィルソン・アルバレス</a></p></td>
 <td><p>1989</p></td>
 <td><p>2005</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Yordan_Álvarez" title="wikilink">Yordan Alvarez</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヨルダン・アルバレス" title="wikilink">ヨルダン・アルバレス</a></p></td>
 <td><p>2019</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Max_Alvis" title="wikilink">Max Alvis</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マックス・アルビス" title="wikilink">マックス・アルビス</a></p></td>
 <td><p>1962</p></td>
 <td><p>1970</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Billy_Alvord" title="wikilink">Billy Alvord</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ビリー・アルボード" title="wikilink">ビリー・アルボード</a></p></td>
 <td><p>1885</p></td>
 <td><p>1893</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><h3 id="aly">Aly</h3></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Brant_Alyea" title="wikilink">Brant Alyea</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ブラント・アライヤー" title="wikilink">ブラント・アライヤー</a></p></td>
 <td><p>1965</p></td>
 <td><p>1972</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><h3 id="alz">Alz</h3></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Adbert_Alzolay" title="wikilink">Adbert Alzolay</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アドバート・アルゾレイ" title="wikilink">アドバート・アルゾレイ</a></p></td>
 <td><p>2019</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>選手名(英語)</p></td>
 <td><p>選手名(日本語)</p></td>
 <td><p>初年</p></td>
 <td><p>最終年</p></td>
 <td><p>特記事項</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><h2 id="am">Am</h2></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Joey_Amalfitano" title="wikilink">Joey Amalfitano</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョーイ・アマルフィターノ" title="wikilink">ジョーイ・アマルフィターノ</a></p></td>
 <td><p>1954</p></td>
 <td><p>1967</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Rich_Amaral" title="wikilink">Rich Amaral</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/リッチ・アマラル" title="wikilink">リッチ・アマラル</a></p></td>
 <td><p>1991</p></td>
 <td><p>2000</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Alexi_Amarista" title="wikilink">Alexi Amarista</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アレクシー・アマリスタ" title="wikilink">アレクシー・アマリスタ</a></p></td>
 <td><p>2011</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Rubén_Amaro,_Sr." title="wikilink">Ruben Amaro</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ルーベン・アマロ・シニア" title="wikilink">ルーベン・アマロ</a></p></td>
 <td><p>1958</p></td>
 <td><p>1969</p></td>
 <td><p>内野手、Ruben (Mora) Amaro</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Rubén_Amaro,_Jr." title="wikilink">Ruben Amaro</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ルーベン・アマロ・ジュニア" title="wikilink">ルーベン・アマロ</a></p></td>
 <td><p>1991</p></td>
 <td><p>1998</p></td>
 <td><p>外野手、Ruben Amaro Jr.</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Wayne_Ambler" title="wikilink">Wayne Ambler</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウェイン・アンブラー" title="wikilink">ウェイン・アンブラー</a></p></td>
 <td><p>1937</p></td>
 <td><p>1939</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Chip_Ambres" title="wikilink">Chip Ambres</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/チップ・アンブレス" title="wikilink">チップ・アンブレス</a></p></td>
 <td><p>2005</p></td>
 <td><p>2008</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Héctor_Ambriz" title="wikilink">Hector Ambriz</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヘクター・アンブリーズ" title="wikilink">ヘクター・アンブリーズ</a></p></td>
 <td><p>2010</p></td>
 <td><p>2014</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ed_Amelung" title="wikilink">Ed Amelung</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エド・アムラング" title="wikilink">エド・アムラング</a></p></td>
 <td><p>1984</p></td>
 <td><p>1986</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Red_Ames" title="wikilink">Red Ames</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/レッド・エームズ" title="wikilink">レッド・エームズ</a></p></td>
 <td><p>1903</p></td>
 <td><p>1919</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Steve_Ames" title="wikilink">Steve Ames</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/スティーブ・エームズ" title="wikilink">スティーブ・エームズ</a></p></td>
 <td><p>2013</p></td>
 <td><p>2013</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Alfredo_Amézaga" title="wikilink">Alfredo Amezaga</a></p></td>
 <td><p><a href="../Page/アルフレッド・アメザガ.md" title="wikilink">アルフレド・アメザガ</a></p></td>
 <td><p>2002</p></td>
 <td><p>2011</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Doc_Amole" title="wikilink">Doc Amole</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ドク・アモール" title="wikilink">ドク・アモール</a></p></td>
 <td><p>1897</p></td>
 <td><p>1898</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Vicente_Amor" title="wikilink">Vicente Amor</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ビセンテ・エイマー" title="wikilink">ビセンテ・エイマー</a></p></td>
 <td><p>1955</p></td>
 <td><p>1957</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Sandy_Amorós" title="wikilink">Sandy Amoros</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サンディ・アモロス" title="wikilink">サンディ・アモロス</a></p></td>
 <td><p>1952</p></td>
 <td><p>1960</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><h2 id="an">An</h2></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Walter_Ancker" title="wikilink">Walter Ancker</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウォルター・アンカー" title="wikilink">ウォルター・アンカー</a></p></td>
 <td><p>1915</p></td>
 <td><p>1915</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Larry_Andersen" title="wikilink">Larry Andersen</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ラリー・アンダーセン" title="wikilink">ラリー・アンダーセン</a></p></td>
 <td><p>1975</p></td>
 <td><p>1994</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Alf_Anderson" title="wikilink">Alf Anderson</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オルフ・アンダーソン" title="wikilink">オルフ・アンダーソン</a></p></td>
 <td><p>1941</p></td>
 <td><p>1946</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Allan_Anderson" title="wikilink">Allan Anderson</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アラン・アンダーソン_(野球)" title="wikilink">アラン・アンダーソン</a></p></td>
 <td><p>1986</p></td>
 <td><p>1991</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Andy_Anderson_(baseball)" title="wikilink">Andy Anderson</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アンディ・アンダーソン_(野球)" title="wikilink">アンディ・アンダーソン</a></p></td>
 <td><p>1948</p></td>
 <td><p>1949</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bill_Anderson_(1880s_pitcher)" title="wikilink">Bill Anderson</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ビル・アンダーソン_(1865年生の投手)" title="wikilink">ビル・アンダーソン</a></p></td>
 <td><p>1889</p></td>
 <td><p>1889</p></td>
 <td><p>投手、William Anderson</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bill_Anderson_(1920s_pitcher)" title="wikilink">Bill Anderson</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ビル・アンダーソン_(1895年生の投手)" title="wikilink">ビル・アンダーソン</a></p></td>
 <td><p>1925</p></td>
 <td><p>1925</p></td>
 <td><p>投手、William Edward Anderson</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bob_Anderson_(baseball)" title="wikilink">Bob Anderson</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ボブ・アンダーソン_(野球)" title="wikilink">ボブ・アンダーソン</a></p></td>
 <td><p>1957</p></td>
 <td><p>1963</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Brady_Anderson" title="wikilink">Brady Anderson</a></p></td>
 <td><p><a href="../Page/ブレイディ・アンダーソン.md" title="wikilink">ブレイディ・アンダーソン</a></p></td>
 <td><p>1988</p></td>
 <td><p>2002</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Brett_Anderson_(baseball)" title="wikilink">Brett Anderson</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ブレット・アンダーソン_(野球)" title="wikilink">ブレット・アンダーソン</a></p></td>
 <td><p>2009</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Brian_Anderson_(pitcher)" title="wikilink">Brian Anderson</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ブライアン・アンダーソン_(投手)" title="wikilink">ブライアン・アンダーソン</a></p></td>
 <td><p>1993</p></td>
 <td><p>2005</p></td>
 <td><p>投手、Brian James Anderson</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Brian_Anderson_(outfielder)" title="wikilink">Brian Anderson</a></p></td>
 <td><p><a href="../Page/ブライアン・アンダーソン_(外野手).md" title="wikilink">ブライアン・アンダーソン</a></p></td>
 <td><p>2005</p></td>
 <td><p>2009</p></td>
 <td><p>外野手、Brian Nikola Anderson</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Brian_Anderson_(third_baseman)" title="wikilink">Brian Anderson</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ブライアン・アンダーソン_(内野手)" title="wikilink">ブライアン・アンダーソン</a></p></td>
 <td><p>2017</p></td>
 <td></td>
 <td><p>内野手、Brian Wade Anderson</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bryan_Anderson_(baseball)" title="wikilink">Bryan Anderson</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ブライアン・アンダーソン_(捕手)" title="wikilink">ブライアン・アンダーソン</a></p></td>
 <td><p>2010</p></td>
 <td><p>2015</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bud_Anderson_(baseball)" title="wikilink">Bud Anderson</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バド・アンダーソン" title="wikilink">バド・アンダーソン</a></p></td>
 <td><p>1982</p></td>
 <td><p>1983</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Chase_Anderson" title="wikilink">Chase Anderson</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/チェイス・アンダーソン" title="wikilink">チェイス・アンダーソン</a></p></td>
 <td><p>2014</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Cody_Anderson_(baseball)" title="wikilink">Cody Anderson</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/コディ・アンダーソン_(野球)" title="wikilink">コディ・アンダーソン</a></p></td>
 <td><p>2015</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Craig_Anderson_(right-handed_pitcher)" title="wikilink">Craig Anderson</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クレイグ・アンダーソン_(右投手)" title="wikilink">クレイグ・アンダーソン</a></p></td>
 <td><p>1961</p></td>
 <td><p>1964</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Dave_Anderson_(pitcher)" title="wikilink">Dave Anderson</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/デーブ・アンダーソン_(投手)" title="wikilink">デーブ・アンダーソン</a></p></td>
 <td><p>1889</p></td>
 <td><p>1890</p></td>
 <td><p>投手、David S. Anderson</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Dave_Anderson_(infielder)" title="wikilink">Dave Anderson</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/デーブ・アンダーソン_(内野手)" title="wikilink">デーブ・アンダーソン</a></p></td>
 <td><p>1983</p></td>
 <td><p>1992</p></td>
 <td><p>内野手、David Carter Anderson</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Drew_Anderson" title="wikilink">Drew Anderson</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドリュー・アンダーソン_(外野手)" title="wikilink">ドルー・アンダーソン</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ドリュー・アンダーソン_(外野手)" title="wikilink">ドリュー・アンダーソン</a></p></td>
 <td><p>2006</p></td>
 <td><p>2006</p></td>
 <td><p>外野手、Drew Thomas Anderson</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Drew_Anderson_(pitcher)" title="wikilink">Drew Anderson</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドリュー・アンダーソン_(投手)" title="wikilink">ドルー・アンダーソン</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ドリュー・アンダーソン_(投手)" title="wikilink">ドリュー・アンダーソン</a></p></td>
 <td><p>2017</p></td>
 <td></td>
 <td><p>投手、Andrew J. Anderson</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Dwain_Anderson" title="wikilink">Dwain Anderson</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ドウェイン・アンダーソン" title="wikilink">ドウェイン・アンダーソン</a></p></td>
 <td><p>1971</p></td>
 <td><p>1974</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ferrell_Anderson" title="wikilink">Ferrell Anderson</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファーレル・アンダーソン" title="wikilink">ファーレル・アンダーソン</a></p></td>
 <td><p>1946</p></td>
 <td><p>1953</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Fred_Anderson_(baseball)" title="wikilink">Fred Anderson</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フレッド・アンダーソン_(野球)" title="wikilink">フレッド・アンダーソン</a></p></td>
 <td><p>1909</p></td>
 <td><p>1918</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Garret_Anderson" title="wikilink">Garret Anderson</a></p></td>
 <td><p><a href="../Page/ギャレット・アンダーソン.md" title="wikilink">ギャレット・アンダーソン</a></p></td>
 <td><p>1994</p></td>
 <td><p>2010</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:George_Anderson_(baseball)" title="wikilink">George Anderson</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョージ・アンダーソン_(野球)" title="wikilink">ジョージ・アンダーソン</a></p></td>
 <td><p>1914</p></td>
 <td><p>1918</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Goat_Anderson" title="wikilink">Goat Anderson</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ゴート・アンダーソン" title="wikilink">ゴート・アンダーソン</a></p></td>
 <td><p>1907</p></td>
 <td><p>1907</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Hal_Anderson_(baseball)" title="wikilink">Hal Anderson</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ハル・アンダーソン_(野球)" title="wikilink">ハル・アンダーソン</a></p></td>
 <td><p>1932</p></td>
 <td><p>1932</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Harry_Anderson_(baseball)" title="wikilink">Harry Anderson</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ハリー・アンダーソン_(野球)" title="wikilink">ハリー・アンダーソン</a></p></td>
 <td><p>1957</p></td>
 <td><p>1961</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Ian_Anderson_(baseball)" title="wikilink">Ian Anderson</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/イアン・アンダーソン_(野球)" title="wikilink">イアン・アンダーソン</a></p></td>
+<td><p>2020</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2874,7 +2916,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Shaun_Anderson" title="wikilink">Shaun Anderson</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ショーン・アンダーソン_(野球)" title="wikilink">ショーン・アンダーソン</a></p></td>
+<td><p><a href="../Page/ショーン・アンダーソン_(野球).md" title="wikilink">ショーン・アンダーソン</a></p></td>
 <td><p>2019</p></td>
 <td></td>
 <td></td>
@@ -3202,184 +3244,198 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Tejay_Antone" title="wikilink">Tejay Antone</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ティージェイ・アントン" title="wikilink">ティージェイ・アントン</a></p></td>
+<td><p>2020</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:John_Antonelli_(infielder)" title="wikilink">John Antonelli</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョン・アントネリ" title="wikilink">ジョン・アントネリ</a></p></td>
 <td><p>1944</p></td>
 <td><p>1945</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Johnny_Antonelli" title="wikilink">Johnny Antonelli</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョニー・アントネリ" title="wikilink">ジョニー・アントネリ</a></p></td>
 <td><p>1948</p></td>
 <td><p>1961</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Matt_Antonelli" title="wikilink">Matt Antonelli</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マット・アントネリ" title="wikilink">マット・アントネリ</a></p></td>
 <td><p>2008</p></td>
 <td><p>2008</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bill_Antonello" title="wikilink">Bill Antonello</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ビル・アントニーヨ" title="wikilink">ビル・アントニーヨ</a></p></td>
 <td><p>1953</p></td>
 <td><p>1953</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><h2 id="ao">Ao</h2></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Nori_Aoki" title="wikilink">Nori Aoki</a></p></td>
 <td><p><a href="../Page/青木宣親.md" title="wikilink">青木宣親</a></p></td>
 <td><p>2012</p></td>
 <td><p>2017</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><h2 id="ap">Ap</h2></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Luis_Aparicio" title="wikilink">Luis Aparicio</a></p></td>
 <td><p><a href="../Page/ルイス・アパリシオ.md" title="wikilink">ルイス・アパリシオ</a></p></td>
 <td><p>1956</p></td>
 <td><p>1973</p></td>
 <td><p>殿堂入り</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bob_Apodaca" title="wikilink">Bob Apodaca</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ボブ・アポダカ" title="wikilink">ボブ・アポダカ</a></p></td>
 <td><p>1973</p></td>
 <td><p>1977</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Luis_Aponte" title="wikilink">Luis Aponte</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ルイス・アポンテ" title="wikilink">ルイス・アポンテ</a></p></td>
 <td><p>1980</p></td>
 <td><p>1984</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Kevin_Appier" title="wikilink">Kevin Appier</a></p></td>
 <td><p><a href="../Page/ケビン・エイピアー.md" title="wikilink">ケビン・エイピアー</a></p></td>
 <td><p>1989</p></td>
 <td><p>2004</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Fred_Applegate" title="wikilink">Fred Applegate</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フレッド・アップルゲート" title="wikilink">フレッド・アップルゲート</a></p></td>
 <td><p>1904</p></td>
 <td><p>1904</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ed_Appleton" title="wikilink">Ed Appleton</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エド・アップルトン" title="wikilink">エド・アップルトン</a></p></td>
 <td><p>1915</p></td>
 <td><p>1916</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Pete_Appleton" title="wikilink">Pete Appleton</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ピート・アップルトン" title="wikilink">ピート・アップルトン</a></p></td>
 <td><p>1927</p></td>
 <td><p>1945</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Luke_Appling" title="wikilink">Luke Appling</a></p></td>
 <td><p><a href="../Page/ルーク・アップリング.md" title="wikilink">ルーク・アップリング</a></p></td>
 <td><p>1930</p></td>
 <td><p>1950</p></td>
 <td><p>殿堂入り</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><h2 id="aq">Aq</h2></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Aristides_Aquino" title="wikilink">Aristides Aquino</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アリスティデス・アキーノ" title="wikilink">アリスティデス・アキーノ</a></p></td>
 <td><p>2018</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Greg_Aquino" title="wikilink">Greg Aquino</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/グレッグ・アキーノ" title="wikilink">グレッグ・アキーノ</a></p></td>
 <td><p>2004</p></td>
 <td><p>2009</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Jayson_Aquino" title="wikilink">Jayson Aquino</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジェイソン・アキーノ" title="wikilink">ジェイソン・アキーノ</a></p></td>
 <td><p>2016</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Luis_Aquino" title="wikilink">Luis Aquino</a></p></td>
 <td><p><a href="../Page/ルイス・アキーノ.md" title="wikilink">ルイス・アキーノ</a></p></td>
 <td><p>1986</p></td>
 <td><p>1995</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><h2 id="ar">Ar</h2></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ángel_Aragón" title="wikilink">Angel Aragon</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アンヘル・アラゴン" title="wikilink">アンヘル・アラゴン</a></p></td>
 <td><p>1914</p></td>
 <td><p>1917</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jack_Aragón" title="wikilink">Jack Aragon</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジャック・アラゴン" title="wikilink">ジャック・アラゴン</a></p></td>
 <td><p>1941</p></td>
 <td><p>1941</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Víctor_Arano" title="wikilink">Victor Arano</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ビクター・アラノ" title="wikilink">ビクター・アラノ</a></p></td>
 <td><p>2017</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Elvis_Araújo" title="wikilink">Elvis Araujo</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エルビス・アラウホ" title="wikilink">エルビス・アラウホ</a></p></td>
 <td><p>2015</p></td>
 <td><p>2016</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Pedro_Araújo_(baseball)" title="wikilink">Pedro Araujo</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ペドロ・アラウホ_(野球)" title="wikilink">ペドロ・アラウホ</a></p></td>
 <td><p>2018</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Jonathan_Araúz" title="wikilink">Jonathan Arauz</a></strong></p></td>
+<td><p><a href="../Page/ジョナサン・アラウス.md" title="wikilink">ジョナサン・アラウス</a></p></td>
+<td><p>2020</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3833,7 +3889,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Humberto_Arteaga" title="wikilink">Humberto Arteaga</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウンベルト・アルテアガ" title="wikilink">ハンベルト・アルテアガ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ウンベルト・アルテアガ" title="wikilink">ウンベルト・アルテアガ</a></p></td>
 <td><p>2019</p></td>
 <td></td>
 <td></td>

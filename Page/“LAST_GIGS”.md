@@ -1,7 +1,7 @@
 > この記事は[“LAST GIGS”](https://ja.wikipedia.org/wiki/“LAST_GIGS”)から翻訳されています。
 
 
-『**“LAST GIGS”**』（ラスト・ギグス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")[BOØWY](../Page/BOOWY.md "wikilink")（ボウイ）の2枚目の[ライブアルバム](../Page/ライブ・アルバム.md "wikilink")。
+『**“LAST GIGS”**』（ラスト・ギグス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")[BOØWY](../Page/BOØWY.md "wikilink")（ボウイ）の2枚目の[ライブアルバム](../Page/ライブ・アルバム.md "wikilink")。
 
 ## 背景
 
@@ -17,7 +17,7 @@
 ## リリース
 
   - 初回特典はモノクロピンナップと正方形のステッカーで、CDに封入できないサイズのためか店頭配布だった。
-  - [2001年](../Page/2001年.md "wikilink")にはDVD化（『["LAST GIGS" (Video)](https://ja.wikipedia.org/wiki/"LAST_GIGS"_\(Video\) "wikilink")』参照）された。但しライブが完全収録されたわけではなく、本作の楽曲分のみが映像化されている。DVDでは新たにリミックスを施し、「PROLOGUE」、「[WORKING MAN](../Page/B・BLUE.md "wikilink")」前と「[DREAMIN'](../Page/BOOWY_\(アルバム\).md "wikilink")」後のMCが追加された。DVDには当時のコンサートパンフレット縮小復刻版が付属していた。
+  - [2001年](../Page/2001年.md "wikilink")にはDVD化（『["LAST GIGS" (Video)](https://ja.wikipedia.org/wiki/"LAST_GIGS"_\(Video\) "wikilink")』参照）された。但しライブが完全収録されたわけではなく、本作の楽曲分のみが映像化されている。DVDでは新たにリミックスを施し、「PROLOGUE」、「[WORKING MAN](../Page/B・BLUE.md "wikilink")」前と「[DREAMIN'](../Page/BOØWY_\(アルバム\).md "wikilink")」後のMCが追加された。DVDには当時のコンサートパンフレット縮小復刻版が付属していた。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に全曲を収録した完全版『[“LAST GIGS” COMPLETE](../Page/“LAST_GIGS”_COMPLETE.md "wikilink")』としてDVD、CDが発売された。曲目は4月5日公演に準拠している\[1\]。また、これに統合される形で本作は廃盤になった\[2\]。そのため、「BOØWY 30th ANNIVERSARY」の際に行われた、BOØWY各アルバムの[ブルースペックCD](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")化の企画も、本作ではなく『[“LAST GIGS” COMPLETE](../Page/“LAST_GIGS”_COMPLETE.md "wikilink")』の方で行われ、再発売されていない。
 
 ## リリース履歴
@@ -55,7 +55,7 @@ ZT28-5200 (CT)</p></td>
 <td><p>CD</p></td>
 <td><p>TOCT-6397</p></td>
 <td><p>2位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CD-BOX" title="wikilink">CD-BOX</a>『<a href="../Page/BOOWY_COMPLETE.md" title="wikilink">BOØWY COMPLETE</a> LIMITED EDITION』収録</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/CD-BOX" title="wikilink">CD-BOX</a>『<a href="../Page/BOØWY_COMPLETE.md" title="wikilink">BOØWY COMPLETE</a> LIMITED EDITION』収録</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
@@ -97,7 +97,7 @@ ZT28-5200 (CT)</p></td>
       - 作詞：[氷室京介](../Page/氷室京介.md "wikilink")　作曲：[布袋寅泰](../Page/布袋寅泰.md "wikilink")
 2.  **[DRAMATIC?DRASTIC\!](../Page/BEAT_EMOTION.md "wikilink")** (3:44)
       - 作詞：高橋まこと　作曲：布袋寅泰
-3.  **[MARIONETTE](../Page/Marionette_\(BOOWYの曲\).md "wikilink")** (3:38)
+3.  **[MARIONETTE](../Page/Marionette_\(BOØWYの曲\).md "wikilink")** (3:38)
       - 作詞：氷室京介　作曲：布袋寅泰
 4.  **[わがままジュリエット](../Page/わがままジュリエット.md "wikilink")** (4:50)
       - 作詞・作曲：氷室京介
@@ -124,15 +124,15 @@ ZT28-5200 (CT)</p></td>
 
       - 作詞：氷室京介　作曲：布袋寅泰
 
-4.  **[NO.NEW YORK](https://ja.wikipedia.org/wiki/NO.NEW_YORK "wikilink")** (4:18)
+4.  **[NO. NEW YORK](https://ja.wikipedia.org/wiki/NO._NEW_YORK "wikilink")** (4:18)
 
       - 作詞：深沢和明　作曲：布袋寅泰
 
-5.  **[ONLY YOU](../Page/ONLY_YOU_\(BOOWYの曲\).md "wikilink")** (4:31)
+5.  **[ONLY YOU](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOØWYの曲\) "wikilink")** (4:31)
 
       - 作詞：氷室京介　作曲：布袋寅泰
 
-6.  **[DREAMIN'](../Page/BOOWY_\(アルバム\).md "wikilink")** (4:45)
+6.  **[DREAMIN'](../Page/BOØWY_\(アルバム\).md "wikilink")** (4:45)
 
       - 作詞：布袋寅泰・松井五郎　作曲：布袋寅泰
 

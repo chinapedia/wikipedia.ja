@@ -17,7 +17,7 @@
 
 機関部がグリップと[引き金より後方に位置する](https://ja.wikipedia.org/wiki/トリガー_\(銃\) "wikilink")[ブルパップ方式](../Page/ブルパップ方式.md "wikilink")を採用しており、全長に比べて[銃身が長く](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")、集弾性に貢献している。
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:FNP90MAG01.JPG "wikilink") 半透明[プラスチック製](../Page/合成樹脂.md "wikilink")[弾倉](../Page/弾倉.md "wikilink")を銃の上に平行に装着し、[弾薬](../Page/弾薬.md "wikilink")は銃身と直交した状態で保持されて、装填直前の弾倉内で90度回転し前方を向く。これにより、[短機関銃](../Page/短機関銃.md "wikilink")としては多い50発の装弾数を実現したが、従来の[火器](https://ja.wikipedia.org/wiki/火器 "wikilink")とは大きく異なる装填方式であり、迅速な弾倉交換には熟練を要するとされている。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:FNP90MAG01.JPG "wikilink") 半透明[プラスチック製](../Page/合成樹脂.md "wikilink")[弾倉](../Page/弾倉.md "wikilink")を銃の上に平行に装着し、[弾薬](../Page/弾薬.md "wikilink")は銃身と直交した状態で保持されて、装填直前の弾倉内で90度回転し前方を向く。これにより、[短機関銃](../Page/短機関銃.md "wikilink")としては多い50発の装弾数を実現したが、従来の[火器](https://ja.wikipedia.org/wiki/火器 "wikilink")とは大きく異なる装填方式であり、迅速な弾倉交換には熟練を要し弾薬装填にもコツが必要であり使い勝手が悪く操作性に関しては非常に評判が悪い、それにたいしてライバルである[H\&K MP7は操作性に対する評価は好調である](../Page/H&K_MP7.md "wikilink")。
 
 左右持ち替えを考慮し、チャージングハンドルおよびセレクターレバーはどちらからでも操作できるようになっている\[4\]。また、排莢も本体下部にある排莢口から下に向けて行うため、射手の利き手を選ばない\[5\]。しかし、空[薬莢](../Page/薬莢.md "wikilink")が下に排出されることによって、射手が空薬莢を踏んで転倒する事故を誘発するなど、足元を不安にさせるという点がある。
 
@@ -25,7 +25,7 @@
 
 ### 弾薬
 
-[right](https://ja.wikipedia.org/wiki/ファイル:57lineup.jpg "wikilink") 本銃は既存の[短機関銃](../Page/短機関銃.md "wikilink")のような[拳銃](../Page/拳銃.md "wikilink")弾ではなく、新規開発された[5.7x28mm弾](../Page/5.7x28mm弾.md "wikilink")を使用する。これは、[弾頭](../Page/弾頭.md "wikilink")先端の尖ったボトルネック構造で、[小銃](../Page/小銃.md "wikilink")用[実包](../Page/実包.md "wikilink")をそのまま縮小したような形状となっている\[6\]。同じ[弾薬](../Page/弾薬.md "wikilink")を使用する拳銃として、[FN Five-seveNが製造されている](../Page/FN_Five-seveN.md "wikilink")\[7\]。
+[right](https://ja.wikipedia.org/wiki/ファイル:57lineup.jpg "wikilink") 本銃は既存の[短機関銃](../Page/短機関銃.md "wikilink")のような[拳銃](../Page/拳銃.md "wikilink")弾ではなく、新規開発された[5.7x28mm弾](../Page/5.7x28mm弾.md "wikilink")を使用する。これは、[弾頭](../Page/弾頭.md "wikilink")先端の尖ったボトルネック構造で、[小銃](../Page/小銃.md "wikilink")用[実包](../Page/実包.md "wikilink")をそのまま縮小したような形状となっている\[6\]。同じ[弾薬](../Page/弾薬.md "wikilink")を使用する拳銃として、[FN Five-seveNが製造されている](../Page/FN_Five-seveN.md "wikilink")\[7\]。一方ライバルの[H\&K　MP7のサイドアームとして作られたH](../Page/H&K_MP7.md "wikilink")\&K　P46は十分な性能を得られないという理由で白紙になっている。
 
 5.7x28mm弾は[小口径で](../Page/口径.md "wikilink")、弾体も軽量で破壊力そのものはライフル用弾薬に劣るが、初速が高く[運動エネルギー](../Page/運動エネルギー.md "wikilink")を狭い範囲に集中させることから、剛体に対してはライフル弾並みの貫通力を発揮し、150メートル先の[ボディアーマー](../Page/ボディアーマー.md "wikilink")（[NIJ規格](../Page/NIJ規格.md "wikilink")レベルIIIA以下のもの）を貫通する。
 
@@ -56,9 +56,9 @@
 
   - [短機関銃](../Page/短機関銃.md "wikilink")
   - [PDW](../Page/PDW.md "wikilink")
-      - [H\&K MP7](../Page/H&K_MP7.md "wikilink")
+  - [H\&K MP7](../Page/H&K_MP7.md "wikilink")
   - [FNハースタル](../Page/FNハースタル.md "wikilink")
-      - [FN Five-seveN](../Page/FN_Five-seveN.md "wikilink")
+  - [FN Five-seveN](../Page/FN_Five-seveN.md "wikilink")
   - [5.7x28mm弾](../Page/5.7x28mm弾.md "wikilink")
 
 ## 外部リンク

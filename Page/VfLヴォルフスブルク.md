@@ -87,6 +87,7 @@
 | [2017-18](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2017-2018 "wikilink") | ブンデスリーガ1部                                                                    | 34                                       |
 | [2018-19](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2018-2019 "wikilink") | ブンデスリーガ1部                                                                    | 34                                       |
 | [2019-20](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2019-2020 "wikilink") | ブンデスリーガ1部                                                                    | 34                                       |
+| [2020-21](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2020-2021 "wikilink") | ブンデスリーガ1部                                                                    | 34                                       |
 
 ## 欧州の成績
 
@@ -408,10 +409,20 @@
 <td><p>ラウンド16</p></td>
 <td><p><a href="../Page/FCシャフタール・ドネツク.md" title="wikilink">シャフタール・ドネツク</a></p></td>
 <td><p>1-2</p></td>
+<td><p>0-3</p></td>
+<td><p>'''1-5</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>rowspan="" | 2020-21</p></td>
+<td><p>rowspan="" align=left | <a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2020-21" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
+<td><p>予選2回戦</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td><p>'''</p></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -419,7 +430,7 @@
 
 ## 現所属メンバー
 
-  - 2018-19シーズン フォーメーション
+  - 2019-20シーズン フォーメーション
 
 <div style="position: relative;">
 
@@ -427,9 +438,9 @@
 
 </div>
 
-  - [2020年](../Page/2020年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")現在\[1\]
+  - [2020年](../Page/2020年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")現在\[1\]
 
-(第4主将) ★         ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guinea.svg "wikilink"))([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Morocco.svg "wikilink")) ★
+(第4主将)  ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guinea.svg "wikilink"))([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Canada.svg "wikilink")) ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ★
 
 ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 
@@ -447,7 +458,7 @@
 
   - out
 
-### 2019-20シーズン移籍
+### 2020-21シーズン移籍
 
 ## 歴代監督
 

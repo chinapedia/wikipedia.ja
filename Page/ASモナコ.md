@@ -5,7 +5,7 @@
 
 **アソシアシヨン・スポルティーヴ・ドゥ・モナコ・フットボール・クルブ**（）は、[モナコ公国](https://ja.wikipedia.org/wiki/モナコ公国 "wikilink")・[モナコ](../Page/モナコ.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。**ASモナコ** (**ASM**) あるいは単純に**モナコ**と略して呼ばれる事が多い。
 
-モナコ公国籍のクラブだが、国家の枠を超えて[フランスサッカー連盟](../Page/フランスサッカー連盟.md "wikilink")に加盟し、フランス国内リーグ（LFP）に所属している（モナコ公国はUEFAおよびFIFAに加盟していない）\[1\]。[1919年](../Page/1919年.md "wikilink")に創立、[1948年](../Page/1948年.md "wikilink")にプロのクラブチームとして認可される。[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")に1部昇格を果たして以来、[レーニエ大公](https://ja.wikipedia.org/wiki/レーニエ3世 "wikilink")（当時）の打ち出した企業への税制優遇措置に乗る形で優秀な外国人選手を大量に加入させフランスリーグでも有数の強豪へとのし上がる。リーグ優勝8回、カップ戦優勝5回を誇る。欧州でも実績を残しており、[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")および[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")でそれぞれ1992年と2004年に準優勝を果たした。
+モナコ公国籍のクラブだが、モナコ公国はUEFAおよびFIFAに加盟していないこともあり、国家の枠を超えて[フランスサッカー連盟](../Page/フランスサッカー連盟.md "wikilink")に加盟し、フランス国内リーグ（LFP）に所属している\[1\]。[1919年](../Page/1919年.md "wikilink")に創立、[1948年](../Page/1948年.md "wikilink")にプロのクラブチームとして認可される。[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")に1部昇格を果たして以来、[レーニエ大公](https://ja.wikipedia.org/wiki/レーニエ3世 "wikilink")（当時）の打ち出した企業への税制優遇措置に乗る形で優秀な外国人選手を大量に加入させフランスリーグでも有数の強豪へとのし上がる。リーグ優勝8回、カップ戦優勝5回を誇る。欧州でも実績を残しており、[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")および[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")でそれぞれ1992年と2004年に準優勝を果たした。
 
 モナコの伝統的な色は赤と白であり、クラブは「Les Rouge et Blanc（赤と白）」として知られている。また、[欧州クラブ協会](https://ja.wikipedia.org/wiki/欧州クラブ協会 "wikilink")のメンバーでもある。2011年にクラブの3分の2がロシアの大富豪[ドミトリー・リボロフレフ](https://ja.wikipedia.org/wiki/ドミトリー・リボロフレフ "wikilink")が率いる投資グループによって買収された\[2\]。
 
@@ -114,251 +114,251 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tbody>
 <tr class="odd">
 <td><p>リーグ</p></td>
-<td><p>順位</p></td>
 <td><p>試</p></td>
 <td><p>勝</p></td>
 <td><p>分</p></td>
 <td><p>敗</p></td>
+<td><p>得</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>1986-87</strong></p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>5位</p></td>
 <td><p>38</p></td>
 <td><p>15</p></td>
 <td><p>15</p></td>
+<td><p>8</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>1987-88</strong></p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p><strong>1位</strong></p></td>
 <td><p>38</p></td>
 <td><p>20</p></td>
 <td><p>12</p></td>
+<td><p>6</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>1988-89</strong></p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>3位</p></td>
 <td><p>38</p></td>
 <td><p>18</p></td>
 <td><p>14</p></td>
+<td><p>6</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>1989-90</strong></p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>3位</p></td>
 <td><p>38</p></td>
 <td><p>15</p></td>
 <td><p>16</p></td>
+<td><p>7</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>1990-91</strong></p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>2位</p></td>
 <td><p>38</p></td>
 <td><p>20</p></td>
 <td><p>11</p></td>
+<td><p>7</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>1991-92</strong></p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>2位</p></td>
 <td><p>38</p></td>
 <td><p>22</p></td>
+<td><p>8</p></td>
 <td><p>8</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>1992-93</strong></p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>3位</p></td>
 <td><p>38</p></td>
 <td><p>21</p></td>
 <td><p>9</p></td>
+<td><p>8</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>1993-94</strong></p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>9位</p></td>
 <td><p>38</p></td>
 <td><p>14</p></td>
 <td><p>13</p></td>
+<td><p>11</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>1994-95</strong></p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>6位</p></td>
 <td><p>38</p></td>
 <td><p>15</p></td>
 <td><p>12</p></td>
+<td><p>11</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>1995-96</strong></p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>3位</p></td>
 <td><p>38</p></td>
 <td><p>19</p></td>
 <td><p>11</p></td>
+<td><p>8</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>1996-97</strong></p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p><strong>1位</strong></p></td>
 <td><p>38</p></td>
 <td><p>23</p></td>
 <td><p>10</p></td>
+<td><p>5</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>1997-98</strong></p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>3位</p></td>
 <td><p>34</p></td>
 <td><p>18</p></td>
 <td><p>5</p></td>
+<td><p>11</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>1998-99</strong></p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>4位</p></td>
 <td><p>34</p></td>
 <td><p>18</p></td>
+<td><p>8</p></td>
 <td><p>8</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>1999-00</strong></p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p><strong>1位</strong></p></td>
 <td><p>34</p></td>
 <td><p>20</p></td>
 <td><p>5</p></td>
+<td><p>9</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2000-01</strong></p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>11位</p></td>
 <td><p>34</p></td>
 <td><p>12</p></td>
 <td><p>7</p></td>
+<td><p>15</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2001-02</strong></p></td>
 <td><p>ディヴィジョン・アン</p></td>
-<td><p>15位</p></td>
 <td><p>34</p></td>
 <td><p>9</p></td>
 <td><p>12</p></td>
+<td><p>13</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2002-03</strong></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>2位</p></td>
 <td><p>38</p></td>
 <td><p>19</p></td>
 <td><p>10</p></td>
+<td><p>9</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2003-04</strong></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>3位</p></td>
 <td><p>38</p></td>
 <td><p>21</p></td>
 <td><p>12</p></td>
+<td><p>5</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2004-05</strong></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>3位</p></td>
 <td><p>38</p></td>
 <td><p>15</p></td>
 <td><p>18</p></td>
+<td><p>5</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2005-06</strong></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>10位</p></td>
 <td><p>38</p></td>
 <td><p>13</p></td>
 <td><p>13</p></td>
+<td><p>12</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2006-07</strong></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>9位</p></td>
 <td><p>38</p></td>
 <td><p>13</p></td>
 <td><p>12</p></td>
+<td><p>13</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2007-08</strong></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>12位</p></td>
 <td><p>38</p></td>
 <td><p>13</p></td>
 <td><p>8</p></td>
+<td><p>17</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2008-09</strong></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>11位</p></td>
 <td><p>38</p></td>
 <td><p>11</p></td>
 <td><p>12</p></td>
+<td><p>15</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2009-10</strong></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>8位</p></td>
 <td><p>38</p></td>
 <td><p>15</p></td>
 <td><p>10</p></td>
+<td><p>13</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2010-11</strong></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>18位</p></td>
 <td><p>38</p></td>
 <td><p>9</p></td>
 <td><p>17</p></td>
+<td><p>12</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2011-12</strong></p></td>
 <td><p>リーグ・ドゥ</p></td>
-<td><p>8位</p></td>
 <td><p>38</p></td>
 <td><p>13</p></td>
 <td><p>13</p></td>
+<td><p>12</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2012-13</strong></p></td>
 <td><p>リーグ・ドゥ</p></td>
-<td><p>1位</p></td>
 <td><p>38</p></td>
 <td><p>21</p></td>
 <td><p>13</p></td>
+<td><p>4</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2013-14</strong></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>2位</p></td>
 <td><p>38</p></td>
 <td><p>23</p></td>
 <td><p>11</p></td>
+<td><p>4</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2014-15</strong></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>3位</p></td>
 <td><p>38</p></td>
 <td><p>20</p></td>
 <td><p>11</p></td>
+<td><p>7</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2015-16</strong></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>3位</p></td>
 <td><p>38</p></td>
 <td><p>17</p></td>
 <td><p>14</p></td>
+<td><p>7</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2015-16" title="wikilink">ヨーロッパリーグ</a></p></td>
@@ -371,32 +371,40 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="odd">
 <td><p><strong>2016-17</strong></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>'''1位</p></td>
 <td><p>38</p></td>
 <td><p>30</p></td>
 <td><p>5</p></td>
+<td><p>3</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2017-18</strong></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>2位</p></td>
 <td><p>38</p></td>
 <td><p>24</p></td>
 <td><p>8</p></td>
+<td><p>6</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2018-19</strong></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>17位</p></td>
 <td><p>38</p></td>
 <td><p>8</p></td>
 <td><p>12</p></td>
+<td><p>18</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2019-20</strong></p></td>
 <td><p>リーグ・アン</p></td>
-<td><p>位</p></td>
+<td><p>28</p></td>
+<td><p>11</p></td>
+<td><p>7</p></td>
+<td><p>10</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>2020-21</strong></p></td>
+<td><p>リーグ・アン</p></td>
 <td><p>38</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -424,9 +432,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="../Page/UEFAチャンピオンズカップ_1961-62.md" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p>予選</p></td>
 <td><p><a href="../Page/レンジャーズFC.md" title="wikilink">レンジャーズ</a></p></td>
-<td><p>2–3</p></td>
-<td><p>2–3</p></td>
-<td><p>'''4–6</p></td>
+<td><p>2-3</p></td>
+<td><p>2-3</p></td>
+<td><p>'''4-6</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
@@ -434,17 +442,17 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="../Page/UEFAチャンピオンズカップ_1963-64.md" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p>予備戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/AEKアテネFC" title="wikilink">AEKアテネ</a></p></td>
-<td><p>7–2</p></td>
-<td><p>1–1</p></td>
-<td><p>'''8–3</p></td>
+<td><p>7-2</p></td>
+<td><p>1-1</p></td>
+<td><p>'''8-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ" title="wikilink">インテル</a></p></td>
-<td><p>1–3</p></td>
-<td><p>0–1</p></td>
-<td><p>'''1–4</p></td>
+<td><p>1-3</p></td>
+<td><p>0-1</p></td>
+<td><p>'''1-4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -454,9 +462,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1974-75" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="../Page/アイントラハト・フランクフルト.md" title="wikilink">アイントラハト・フランクフルト</a></p></td>
-<td><p>2–2</p></td>
-<td><p>0–3</p></td>
-<td><p>'''2–5</p></td>
+<td><p>2-2</p></td>
+<td><p>0-3</p></td>
+<td><p>'''2-5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
@@ -464,17 +472,17 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1978-79" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p>予備予選</p></td>
 <td><p><a href="../Page/FCステアウア・ブカレスト.md" title="wikilink">ステアウア・ブカレスト</a></p></td>
-<td><p>3–0</p></td>
-<td><p>0–2</p></td>
-<td><p>'''3–2</p></td>
+<td><p>3-0</p></td>
+<td><p>0-2</p></td>
+<td><p>'''3-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1回戦</p></td>
 <td><p><a href="../Page/マルメFF.md" title="wikilink">マルメFF</a></p></td>
-<td><p>0–1</p></td>
-<td><p>0–0</p></td>
-<td><p>'''0–1</p></td>
+<td><p>0-1</p></td>
+<td><p>0-0</p></td>
+<td><p>'''0-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -484,17 +492,17 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1979-80" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="../Page/FCシャフタール・ドネツク.md" title="wikilink">シャフタール・ドネツク</a></p></td>
-<td><p>2–0</p></td>
-<td><p>1–2</p></td>
-<td><p>'''3–2</p></td>
+<td><p>2-0</p></td>
+<td><p>1-2</p></td>
+<td><p>'''3-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/PFCロコモティフ・ソフィア" title="wikilink">ロコモティフ・ソフィア</a></p></td>
-<td><p>2–1</p></td>
-<td><p>2–4</p></td>
-<td><p>'''4–5</p></td>
+<td><p>2-1</p></td>
+<td><p>2-4</p></td>
+<td><p>'''4-5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -504,9 +512,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1980-81" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="../Page/バレンシアCF.md" title="wikilink">バレンシア</a></p></td>
-<td><p>3–3</p></td>
-<td><p>0–2</p></td>
-<td><p>'''3–5</p></td>
+<td><p>3-3</p></td>
+<td><p>0-2</p></td>
+<td><p>'''3-5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
@@ -514,9 +522,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1981-82" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="../Page/ダンディー・ユナイテッドFC.md" title="wikilink">ダンディー・ユナイテッド</a></p></td>
-<td><p>2–5</p></td>
-<td><p>2–1</p></td>
-<td><p>'''4–6</p></td>
+<td><p>2-5</p></td>
+<td><p>2-1</p></td>
+<td><p>'''4-6</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
@@ -524,10 +532,10 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1982-83" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="../Page/PFC_CSKAソフィア.md" title="wikilink">CSKAソフィア</a></p></td>
-<td><p>0–0</p></td>
-<td><p>0–2<br />
+<td><p>0-0</p></td>
+<td><p>0-2<br />
 (<a href="../Page/延長戦.md" title="wikilink">a.e.t.</a>)</p></td>
-<td><p>'''0–2</p></td>
+<td><p>'''0-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
@@ -535,9 +543,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1984-85" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="../Page/PFC_CSKAソフィア.md" title="wikilink">CSKAソフィア</a></p></td>
-<td><p>2–2</p></td>
-<td><p>1–2</p></td>
-<td><p>'''3–4</p></td>
+<td><p>2-2</p></td>
+<td><p>1-2</p></td>
+<td><p>'''3-4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
@@ -545,9 +553,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1985-86" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/CSウニヴェルシタテア・クラヨーヴァ" title="wikilink">CSウニヴェルシタテア・クラヨーヴァ</a></p></td>
-<td><p>2–0</p></td>
-<td><p>0–3</p></td>
-<td><p>'''2–3</p></td>
+<td><p>2-0</p></td>
+<td><p>0-3</p></td>
+<td><p>'''2-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
@@ -555,17 +563,17 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1988-89" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヴァルル・レイキャヴィーク" title="wikilink">ヴァルル・レイキャヴィーク</a></p></td>
-<td><p>2–0</p></td>
-<td><p>0–1</p></td>
-<td><p>'''2–1</p></td>
+<td><p>2-0</p></td>
+<td><p>0-1</p></td>
+<td><p>'''2-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
 <td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
-<td><p>6–1</p></td>
-<td><p>0–1</p></td>
-<td><p>'''6–2</p></td>
+<td><p>6-1</p></td>
+<td><p>0-1</p></td>
+<td><p>'''6-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -573,9 +581,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="even">
 <td><p>準々決勝</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ガラタサライSK_(サッカー)" title="wikilink">ガラタサライ</a></p></td>
-<td><p>0–1</p></td>
-<td><p>1–1</p></td>
-<td><p>'''1–2</p></td>
+<td><p>0-1</p></td>
+<td><p>1-1</p></td>
+<td><p>'''1-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -585,17 +593,17 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1989-90" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="../Page/CFベレネンセス.md" title="wikilink">ベレネンセス</a></p></td>
-<td><p>3–0</p></td>
-<td><p>1–1</p></td>
-<td><p>'''4–1</p></td>
+<td><p>3-0</p></td>
+<td><p>1-1</p></td>
+<td><p>'''4-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
 <td><p><a href="../Page/ベルリナーFCディナモ.md" title="wikilink">ベルリナー・ディナモ</a></p></td>
-<td><p>0–0</p></td>
-<td><p>1–1</p></td>
-<td><p>'''1–1 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
+<td><p>0-0</p></td>
+<td><p>1-1</p></td>
+<td><p>'''1-1 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -603,9 +611,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="odd">
 <td><p>準々決勝</p></td>
 <td><p><a href="../Page/レアル・バリャドリード.md" title="wikilink">レアル・バリャドリード</a></p></td>
-<td><p>0–0</p></td>
-<td><p>0–0</p></td>
-<td><p>'''0–0<br />
+<td><p>0-0</p></td>
+<td><p>0-0</p></td>
+<td><p>'''0-0<br />
 (3-1 <a href="../Page/PK戦.md" title="wikilink">p</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
@@ -614,9 +622,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="even">
 <td><p>準決勝</p></td>
 <td><p><a href="../Page/UCサンプドリア.md" title="wikilink">サンプドリア</a></p></td>
-<td><p>2–2</p></td>
-<td><p>0–2</p></td>
-<td><p>'''2–4</p></td>
+<td><p>2-2</p></td>
+<td><p>0-2</p></td>
+<td><p>'''2-4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -626,17 +634,17 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1990-91" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="../Page/ローダJC.md" title="wikilink">ローダJC</a></p></td>
-<td><p>3–1</p></td>
-<td><p>3–1</p></td>
-<td><p>'''6–2</p></td>
+<td><p>3-1</p></td>
+<td><p>3-1</p></td>
+<td><p>'''6-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
 <td><p><a href="../Page/FCチョルノモレツ・オデッサ.md" title="wikilink">チョルノモレツ・オデッサ</a></p></td>
-<td><p>1–0</p></td>
-<td><p>0–0</p></td>
-<td><p>'''1–0</p></td>
+<td><p>1-0</p></td>
+<td><p>0-0</p></td>
+<td><p>'''1-0</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -644,9 +652,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="odd">
 <td><p>3回戦</p></td>
 <td><p><a href="../Page/FCトルペド・モスクワ.md" title="wikilink">トルペド・モスクワ</a></p></td>
-<td><p>1–2</p></td>
-<td><p>1–2</p></td>
-<td><p>'''2–4</p></td>
+<td><p>1-2</p></td>
+<td><p>1-2</p></td>
+<td><p>'''2-4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -656,17 +664,17 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1991-92" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="../Page/スウォンジー・シティAFC.md" title="wikilink">スウォンジー・シティ</a></p></td>
-<td><p>8–0</p></td>
-<td><p>2–1</p></td>
-<td><p>'''10–1</p></td>
+<td><p>8-0</p></td>
+<td><p>2-1</p></td>
+<td><p>'''10-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/IFKノルシェーピン" title="wikilink">IFKノルシェーピン</a></p></td>
-<td><p>1–0</p></td>
-<td><p>2–1</p></td>
-<td><p>'''3–1</p></td>
+<td><p>1-0</p></td>
+<td><p>2-1</p></td>
+<td><p>'''3-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -674,9 +682,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="even">
 <td><p>準々決勝</p></td>
 <td><p><a href="../Page/ASローマ.md" title="wikilink">ローマ</a></p></td>
-<td><p>1–0</p></td>
-<td><p>0–0</p></td>
-<td><p>'''1–0</p></td>
+<td><p>1-0</p></td>
+<td><p>0-0</p></td>
+<td><p>'''1-0</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -684,9 +692,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="odd">
 <td><p>準決勝</p></td>
 <td><p><a href="../Page/フェイエノールト.md" title="wikilink">フェイエノールト</a></p></td>
-<td><p>1–1</p></td>
-<td><p>2–2</p></td>
-<td><p>'''3–3 (a)</p></td>
+<td><p>1-1</p></td>
+<td><p>2-2</p></td>
+<td><p>'''3-3 (a)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -694,7 +702,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="even">
 <td><p>決勝</p></td>
 <td><p><a href="../Page/ヴェルダー・ブレーメン.md" title="wikilink">ヴェルダー・ブレーメン</a></p></td>
-<td><p>'''0–2</p></td>
+<td><p>'''0-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -706,17 +714,17 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1992-93" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ミエチ・レグニツァ" title="wikilink">ミエチ・レグニツァ</a></p></td>
-<td><p>0–0</p></td>
-<td><p>1–0</p></td>
-<td><p>'''1–0</p></td>
+<td><p>0-0</p></td>
+<td><p>1-0</p></td>
+<td><p>'''1-0</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オリンピアコスFC" title="wikilink">オリンピアコス</a></p></td>
-<td><p>0–1</p></td>
-<td><p>0–0</p></td>
-<td><p>'''0–1</p></td>
+<td><p>0-1</p></td>
+<td><p>0-0</p></td>
+<td><p>'''0-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -726,17 +734,17 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_1993-94" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/AEKアテネFC" title="wikilink">AEKアテネ</a></p></td>
-<td><p>1–0</p></td>
-<td><p>1–1</p></td>
-<td><p>'''2–1</p></td>
+<td><p>1-0</p></td>
+<td><p>1-1</p></td>
+<td><p>'''2-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
 <td><p><a href="../Page/FCステアウア・ブカレスト.md" title="wikilink">ステアウア・ブカレスト</a></p></td>
-<td><p>4–1</p></td>
-<td><p>0–1</p></td>
-<td><p>'''4–2</p></td>
+<td><p>4-1</p></td>
+<td><p>0-1</p></td>
+<td><p>'''4-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -744,8 +752,8 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="odd">
 <td><p>グループA</p></td>
 <td><p><a href="../Page/FCスパルタク・モスクワ.md" title="wikilink">スパルタク・モスクワ</a></p></td>
-<td><p>4–1</p></td>
-<td><p>0–0</p></td>
+<td><p>4-1</p></td>
+<td><p>0-0</p></td>
 <td><p>'''2位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
@@ -753,8 +761,8 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/FCバルセロナ" title="wikilink">バルセロナ</a></p></td>
-<td><p>0–1</p></td>
-<td><p>0–2</p></td>
+<td><p>0-1</p></td>
+<td><p>0-2</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -763,8 +771,8 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ガラタサライSK_(サッカー)" title="wikilink">ガラタサライ</a></p></td>
-<td><p>3–0</p></td>
-<td><p>2–0</p></td>
+<td><p>3-0</p></td>
+<td><p>2-0</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -786,9 +794,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1995-96" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/リーズ・ユナイテッドAFC" title="wikilink">リーズ・ユナイテッド</a></p></td>
-<td><p>0–3</p></td>
-<td><p>1–0</p></td>
-<td><p>'''1–3</p></td>
+<td><p>0-3</p></td>
+<td><p>1-0</p></td>
+<td><p>'''1-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
@@ -796,17 +804,17 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1996-97" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フトニク・クラクフ" title="wikilink">フトニク・クラクフ</a></p></td>
-<td><p>3–1</p></td>
-<td><p>1–0</p></td>
-<td><p>'''4–1</p></td>
+<td><p>3-1</p></td>
+<td><p>1-0</p></td>
+<td><p>'''4-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
 <td><p><a href="../Page/ボルシア・メンヒェングラートバッハ.md" title="wikilink">ボルシアMG</a></p></td>
-<td><p>0–1</p></td>
-<td><p>4–2</p></td>
-<td><p>'''4–3</p></td>
+<td><p>0-1</p></td>
+<td><p>4-2</p></td>
+<td><p>'''4-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -814,9 +822,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="even">
 <td><p>3回戦</p></td>
 <td><p><a href="../Page/ハンブルガーSV.md" title="wikilink">ハンブルガー</a></p></td>
-<td><p>3–0</p></td>
-<td><p>2–0</p></td>
-<td><p>'''5–0</p></td>
+<td><p>3-0</p></td>
+<td><p>2-0</p></td>
+<td><p>'''5-0</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -824,9 +832,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="odd">
 <td><p>準々決勝</p></td>
 <td><p><a href="../Page/ニューカッスル・ユナイテッドFC.md" title="wikilink">ニューカッスル・ユナイテッド</a></p></td>
-<td><p>3–0</p></td>
-<td><p>1–0</p></td>
-<td><p>'''4–0</p></td>
+<td><p>3-0</p></td>
+<td><p>1-0</p></td>
+<td><p>'''4-0</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -834,9 +842,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="even">
 <td><p>準決勝</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ" title="wikilink">インテル</a></p></td>
-<td><p>1–0</p></td>
-<td><p>1–3</p></td>
-<td><p>'''2–3</p></td>
+<td><p>1-0</p></td>
+<td><p>1-3</p></td>
+<td><p>'''2-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -846,15 +854,15 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_1997-98" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>グループF</p></td>
 <td><p><a href="../Page/スポルティング・クルーベ・デ・ポルトゥガル.md" title="wikilink">スポルティングCP</a></p></td>
-<td><p>3–2</p></td>
-<td><p>0–3</p></td>
+<td><p>3-2</p></td>
+<td><p>0-3</p></td>
 <td><p>'''1位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/バイエル・レバークーゼン.md" title="wikilink">バイエル・レバークーゼン</a></p></td>
-<td><p>4–0</p></td>
-<td><p>2–2</p></td>
+<td><p>4-0</p></td>
+<td><p>2-2</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -863,8 +871,8 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/リールセSK" title="wikilink">リールセSK</a></p></td>
-<td><p>5–1</p></td>
-<td><p>1–0</p></td>
+<td><p>5-1</p></td>
+<td><p>1-0</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -874,9 +882,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="even">
 <td><p>準々決勝</p></td>
 <td><p><a href="../Page/マンチェスター・ユナイテッドFC.md" title="wikilink">マンチェスター・ユナイテッド</a></p></td>
-<td><p>0–0</p></td>
-<td><p>1–1</p></td>
-<td><p>'''1–1 (a)</p></td>
+<td><p>0-0</p></td>
+<td><p>1-1</p></td>
+<td><p>'''1-1 (a)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -884,9 +892,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="odd">
 <td><p>準決勝</p></td>
 <td><p><a href="../Page/ユヴェントスFC.md" title="wikilink">ユヴェントス</a></p></td>
-<td><p>3–2</p></td>
-<td><p>1–4</p></td>
-<td><p>'''4–6</p></td>
+<td><p>3-2</p></td>
+<td><p>1-4</p></td>
+<td><p>'''4-6</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -896,17 +904,17 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1998-99" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ŁKSウッチ" title="wikilink">ŁKSウッチ</a></p></td>
-<td><p>0–0</p></td>
-<td><p>3–1</p></td>
-<td><p>'''3–1</p></td>
+<td><p>0-0</p></td>
+<td><p>3-1</p></td>
+<td><p>'''3-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
 <td><p><a href="../Page/グラーツァーAK.md" title="wikilink">グラーツァーAK</a></p></td>
-<td><p>4–0</p></td>
-<td><p>3–3</p></td>
-<td><p>'''7–3</p></td>
+<td><p>4-0</p></td>
+<td><p>3-3</p></td>
+<td><p>'''7-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -914,9 +922,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="even">
 <td><p>3回戦</p></td>
 <td><p><a href="../Page/オリンピック・マルセイユ.md" title="wikilink">マルセイユ</a></p></td>
-<td><p>2–2</p></td>
-<td><p>0–1</p></td>
-<td><p>'''2–3</p></td>
+<td><p>2-2</p></td>
+<td><p>0-1</p></td>
+<td><p>'''2-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -926,17 +934,17 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1999-2000" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/セント・ジョンストンFC" title="wikilink">セント・ジョンストン</a></p></td>
-<td><p>3–0</p></td>
-<td><p>3–3</p></td>
-<td><p>'''6–3</p></td>
+<td><p>3-0</p></td>
+<td><p>3-3</p></td>
+<td><p>'''6-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヴィジェフ・ウッチ" title="wikilink">ヴィジェフ・ウッチ</a></p></td>
-<td><p>2–0</p></td>
-<td><p>1–1</p></td>
-<td><p>'''3–1</p></td>
+<td><p>2-0</p></td>
+<td><p>1-1</p></td>
+<td><p>'''3-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -944,9 +952,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="odd">
 <td><p>3回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/AEKアテネFC" title="wikilink">AEKアテネ</a></p></td>
-<td><p>1–0</p></td>
-<td><p>2–2</p></td>
-<td><p>'''3–2</p></td>
+<td><p>1-0</p></td>
+<td><p>2-2</p></td>
+<td><p>'''3-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -954,9 +962,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="even">
 <td><p>4回戦</p></td>
 <td><p><a href="../Page/RCDマヨルカ.md" title="wikilink">マヨルカ</a></p></td>
-<td><p>1–0</p></td>
-<td><p>1–4</p></td>
-<td><p>'''2–4</p></td>
+<td><p>1-0</p></td>
+<td><p>1-4</p></td>
+<td><p>'''2-4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -966,15 +974,15 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2000-01" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>1次グループD</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ガラタサライSK_(サッカー)" title="wikilink">ガラタサライ</a></p></td>
-<td><p>4–2</p></td>
-<td><p>2–3</p></td>
+<td><p>4-2</p></td>
+<td><p>2-3</p></td>
 <td><p>'''4位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/レンジャーズFC.md" title="wikilink">レンジャーズ</a></p></td>
-<td><p>0–1</p></td>
-<td><p>2–2</p></td>
+<td><p>0-1</p></td>
+<td><p>2-2</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -983,8 +991,8 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/SKシュトゥルム・グラーツ.md" title="wikilink">シュトゥルム・グラーツ</a></p></td>
-<td><p>5–0</p></td>
-<td><p>0–2</p></td>
+<td><p>5-0</p></td>
+<td><p>0-2</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -996,15 +1004,15 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="../Page/UEFAチャンピオンズリーグ_2003-04.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>グループC</p></td>
 <td><p><a href="../Page/PSVアイントホーフェン.md" title="wikilink">PSV</a></p></td>
-<td><p>1–1</p></td>
-<td><p>2–1</p></td>
+<td><p>1-1</p></td>
+<td><p>2-1</p></td>
 <td><p>'''1位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/AEKアテネFC" title="wikilink">AEKアテネ</a></p></td>
-<td><p>4–0</p></td>
-<td><p>0–0</p></td>
+<td><p>4-0</p></td>
+<td><p>0-0</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1013,8 +1021,8 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 </tr>
 <tr class="even">
 <td><p><a href="../Page/デポルティーボ・ラ・コルーニャ.md" title="wikilink">デポルティーボ</a></p></td>
-<td><p>8–3</p></td>
-<td><p>0–1</p></td>
+<td><p>8-3</p></td>
+<td><p>0-1</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1024,9 +1032,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="odd">
 <td><p>1回戦</p></td>
 <td><p><a href="../Page/FCロコモティフ・モスクワ.md" title="wikilink">ロコモティフ・モスクワ</a></p></td>
-<td><p>1–0</p></td>
-<td><p>1–2</p></td>
-<td><p>'''2–2 (a)</p></td>
+<td><p>1-0</p></td>
+<td><p>1-2</p></td>
+<td><p>'''2-2 (a)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -1034,9 +1042,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="even">
 <td><p>準々決勝</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/レアル・マドリード" title="wikilink">レアル・マドリード</a></p></td>
-<td><p>3–1</p></td>
-<td><p>2–4</p></td>
-<td><p>'''5–5 (a)</p></td>
+<td><p>3-1</p></td>
+<td><p>2-4</p></td>
+<td><p>'''5-5 (a)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -1044,9 +1052,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="odd">
 <td><p>準決勝</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/チェルシーFC" title="wikilink">チェルシー</a></p></td>
-<td><p>3–1</p></td>
-<td><p>2–2</p></td>
-<td><p>'''5–3</p></td>
+<td><p>3-1</p></td>
+<td><p>2-2</p></td>
+<td><p>'''5-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -1054,7 +1062,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="even">
 <td><p>決勝</p></td>
 <td><p><a href="../Page/FCポルト.md" title="wikilink">ポルト</a></p></td>
-<td><p>'''0–3</p></td>
+<td><p>'''0-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -1066,16 +1074,16 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="../Page/UEFAチャンピオンズリーグ_2004-05.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選3回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/NDゴリツァ" title="wikilink">ゴリツァ</a></p></td>
-<td><p>6–0</p></td>
-<td><p>3–0</p></td>
-<td><p>'''9–0</p></td>
+<td><p>6-0</p></td>
+<td><p>3-0</p></td>
+<td><p>'''9-0</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p>グループA</p></td>
 <td><p><a href="../Page/リヴァプールFC.md" title="wikilink">リヴァプール</a></p></td>
-<td><p>1–0</p></td>
-<td><p>0–2</p></td>
+<td><p>1-0</p></td>
+<td><p>0-2</p></td>
 <td><p>'''1位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
@@ -1083,8 +1091,8 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/デポルティーボ・ラ・コルーニャ.md" title="wikilink">デポルティーボ</a></p></td>
-<td><p>2–0</p></td>
-<td><p>5–0</p></td>
+<td><p>2-0</p></td>
+<td><p>5-0</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1093,8 +1101,8 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/オリンピアコスFC" title="wikilink">オリンピアコス</a></p></td>
-<td><p>2–1</p></td>
-<td><p>0–1</p></td>
+<td><p>2-1</p></td>
+<td><p>0-1</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1104,9 +1112,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="odd">
 <td><p>1回戦</p></td>
 <td><p><a href="../Page/PSVアイントホーフェン.md" title="wikilink">PSV</a></p></td>
-<td><p>0–2</p></td>
-<td><p>0–1</p></td>
-<td><p>'''0–3</p></td>
+<td><p>0-2</p></td>
+<td><p>0-1</p></td>
+<td><p>'''0-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -1116,18 +1124,18 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="../Page/UEFAチャンピオンズリーグ_2005-06.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選3回戦</p></td>
 <td><p><a href="../Page/レアル・ベティス.md" title="wikilink">レアル・ベティス</a></p></td>
-<td><p>2–2</p></td>
-<td><p>0–1</p></td>
-<td><p>'''2–3</p></td>
+<td><p>2-2</p></td>
+<td><p>0-1</p></td>
+<td><p>'''2-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2005-06" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="../Page/ヴィレムII.md" title="wikilink">ヴィレムII</a></p></td>
-<td><p>2–0</p></td>
-<td><p>3–1</p></td>
-<td><p>'''5–1</p></td>
+<td><p>2-0</p></td>
+<td><p>3-1</p></td>
+<td><p>'''5-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 </tr>
@@ -1174,9 +1182,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="even">
 <td><p>ラウンド32</p></td>
 <td><p><a href="../Page/FCバーゼル.md" title="wikilink">バーゼル</a></p></td>
-<td><p>1–1</p></td>
-<td><p>0–1</p></td>
-<td><p>'''1–2</p></td>
+<td><p>1-1</p></td>
+<td><p>0-1</p></td>
+<td><p>'''1-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -1186,15 +1194,15 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2014-15" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>グループC</p></td>
 <td><p><a href="../Page/バイエル・レバークーゼン.md" title="wikilink">バイエル・レバークーゼン</a></p></td>
-<td><p>1–0</p></td>
-<td><p>1–0</p></td>
+<td><p>1-0</p></td>
+<td><p>1-0</p></td>
 <td><p>'''1位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/FCゼニト・サンクトペテルブルク.md" title="wikilink">ゼニト</a></p></td>
-<td><p>2–0</p></td>
-<td><p>0–0</p></td>
+<td><p>2-0</p></td>
+<td><p>0-0</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1203,8 +1211,8 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/SLベンフィカ.md" title="wikilink">ベンフィカ</a></p></td>
-<td><p>0–0</p></td>
-<td><p>0–1</p></td>
+<td><p>0-0</p></td>
+<td><p>0-1</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1214,9 +1222,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="even">
 <td><p>ラウンド16</p></td>
 <td><p><a href="../Page/アーセナルFC.md" title="wikilink">アーセナル</a></p></td>
-<td><p>0–2</p></td>
-<td><p>3–1</p></td>
-<td><p>'''3–3 (a)</p></td>
+<td><p>0-2</p></td>
+<td><p>3-1</p></td>
+<td><p>'''3-3 (a)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -1224,9 +1232,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="odd">
 <td><p>準々決勝</p></td>
 <td><p><a href="../Page/ユヴェントスFC.md" title="wikilink">ユヴェントス</a></p></td>
-<td><p>0–0</p></td>
-<td><p>0–1</p></td>
-<td><p>'''0–1</p></td>
+<td><p>0-0</p></td>
+<td><p>0-1</p></td>
+<td><p>'''0-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -1236,17 +1244,17 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2015-16" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選3回戦</p></td>
 <td><p><a href="../Page/BSCヤングボーイズ.md" title="wikilink">ヤングボーイズ</a></p></td>
-<td><p>4–0</p></td>
-<td><p>3–1</p></td>
-<td><p>'''7–1</p></td>
+<td><p>4-0</p></td>
+<td><p>3-1</p></td>
+<td><p>'''7-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>プレーオフ</p></td>
 <td><p><a href="../Page/バレンシアCF.md" title="wikilink">バレンシア</a></p></td>
-<td><p>2–1</p></td>
-<td><p>1–3</p></td>
-<td><p>'''3–4</p></td>
+<td><p>2-1</p></td>
+<td><p>1-3</p></td>
+<td><p>'''3-4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -1255,16 +1263,16 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2015-16" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>グループH</p></td>
 <td><p><a href="../Page/トッテナム・ホットスパーFC.md" title="wikilink">トッテナム</a></p></td>
-<td><p>1–1</p></td>
-<td><p>1–4</p></td>
+<td><p>1-1</p></td>
+<td><p>1-4</p></td>
 <td><p>'''3位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
-<td><p>0–2</p></td>
-<td><p>1–1</p></td>
+<td><p>0-2</p></td>
+<td><p>1-1</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1273,8 +1281,8 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/カラバフFK" title="wikilink">カラバフ</a></p></td>
-<td><p>1–0</p></td>
-<td><p>1–1</p></td>
+<td><p>1-0</p></td>
+<td><p>1-1</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1286,17 +1294,17 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2016-17" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選3回戦</p></td>
 <td><p><a href="../Page/フェネルバフチェSK.md" title="wikilink">フェネルバフチェ</a></p></td>
-<td><p>3–1</p></td>
-<td><p>1–2</p></td>
-<td><p>'''4–3</p></td>
+<td><p>3-1</p></td>
+<td><p>1-2</p></td>
+<td><p>'''4-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p>プレーオフ</p></td>
 <td><p><a href="../Page/ビジャレアルCF.md" title="wikilink">ビジャレアル</a></p></td>
-<td><p>1–0</p></td>
-<td><p>2–1</p></td>
-<td><p>'''3–1</p></td>
+<td><p>1-0</p></td>
+<td><p>2-1</p></td>
+<td><p>'''3-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -1304,8 +1312,8 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="odd">
 <td><p>グループE</p></td>
 <td><p><a href="../Page/PFC_CSKAモスクワ.md" title="wikilink">CSKAモスクワ</a></p></td>
-<td><p>3–0</p></td>
-<td><p>1–1</p></td>
+<td><p>3-0</p></td>
+<td><p>1-1</p></td>
 <td><p>'''1位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
@@ -1313,8 +1321,8 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 </tr>
 <tr class="even">
 <td><p><a href="../Page/バイエル・レバークーゼン.md" title="wikilink">バイエル・レバークーゼン</a></p></td>
-<td><p>1–1</p></td>
-<td><p>0–3</p></td>
+<td><p>1-1</p></td>
+<td><p>0-3</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1323,8 +1331,8 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/トッテナム・ホットスパーFC.md" title="wikilink">トッテナム</a></p></td>
-<td><p>2–1</p></td>
-<td><p>2–1</p></td>
+<td><p>2-1</p></td>
+<td><p>2-1</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1334,9 +1342,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="even">
 <td><p>ラウンド16</p></td>
 <td><p><a href="../Page/マンチェスター・シティFC.md" title="wikilink">マンチェスター・シティ</a></p></td>
-<td><p>3–1</p></td>
-<td><p>3–5</p></td>
-<td><p>'''6–6 (a)</p></td>
+<td><p>3-1</p></td>
+<td><p>3-5</p></td>
+<td><p>'''6-6 (a)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -1344,9 +1352,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="odd">
 <td><p>準々決勝</p></td>
 <td><p><a href="../Page/ボルシア・ドルトムント.md" title="wikilink">ボルシア・ドルトムント</a></p></td>
-<td><p>3–1</p></td>
-<td><p>3–2</p></td>
-<td><p>'''6–3</p></td>
+<td><p>3-1</p></td>
+<td><p>3-2</p></td>
+<td><p>'''6-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -1354,9 +1362,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <tr class="even">
 <td><p>準決勝</p></td>
 <td><p><a href="../Page/ユヴェントスFC.md" title="wikilink">ユヴェントス</a></p></td>
-<td><p>0–2</p></td>
-<td><p>1–2</p></td>
-<td><p>'''1–4</p></td>
+<td><p>0-2</p></td>
+<td><p>1-2</p></td>
+<td><p>'''1-4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -1366,15 +1374,15 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2017-18" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>グループG</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/RBライプツィヒ" title="wikilink">ライプツィヒ</a></p></td>
-<td><p>1–4</p></td>
-<td><p>1–1</p></td>
+<td><p>1-4</p></td>
+<td><p>1-1</p></td>
 <td><p>'''4位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/FCポルト.md" title="wikilink">ポルト</a></p></td>
-<td><p>0–3</p></td>
-<td><p>2–5</p></td>
+<td><p>0-3</p></td>
+<td><p>2-5</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1383,8 +1391,8 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/ベシクタシュJK.md" title="wikilink">ベシクタシュ</a></p></td>
-<td><p>1–2</p></td>
-<td><p>1–1</p></td>
+<td><p>1-2</p></td>
+<td><p>1-1</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1396,8 +1404,8 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2018-19" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>グループA</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アトレティコ・マドリード" title="wikilink">アトレティコ・マドリード</a></p></td>
-<td><p>1–2</p></td>
-<td><p>0–2</p></td>
+<td><p>1-2</p></td>
+<td><p>0-2</p></td>
 <td><p>'''4位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
@@ -1413,8 +1421,8 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 </tr>
 <tr class="even">
 <td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
-<td><p>0–4</p></td>
-<td><p>1–1</p></td>
+<td><p>0-4</p></td>
+<td><p>1-1</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1434,9 +1442,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 
 </div>
 
-  - 2020年2月1日現在
+  - 2020年8月27日現在
 
-★  ★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Serbia.svg "wikilink"))★           ★    ★ ★
+★  ★ ★ ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Serbia.svg "wikilink"))★          ★   ★
 
 ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 
@@ -1444,7 +1452,7 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 
 <!-- end list -->
 
-  - [ロベルト・モレノ](https://ja.wikipedia.org/wiki/ロベルト・モレノ・ゴンザレス "wikilink")
+  - [ニコ・コヴァチ](../Page/ニコ・コヴァチ.md "wikilink")
 
 ### ローン移籍
 
@@ -1662,7 +1670,12 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ロベルト・モレノ・ゴンザレス" title="wikilink">ロベルト・モレノ</a></p></td>
-<td><p>2019-</p></td>
+<td><p>2019-2020</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/ニコ・コヴァチ.md" title="wikilink">ニコ・コヴァチ</a></p></td>
+<td><p>2020-</p></td>
 <td></td>
 </tr>
 </tbody>

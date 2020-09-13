@@ -5,17 +5,25 @@
 
 ## メンバー
 
-  - **[谷内伸也](../Page/谷内伸也.md "wikilink")**（たにうち しんや、、大阪府[枚方市](../Page/枚方市.md "wikilink")出身、A型）
-      - イメージカラーは緑。
-  - **[古屋敬多](../Page/古屋敬多.md "wikilink")**（ふるや けいた、、[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")出身、A型）
-      - イメージカラーは黄。
-  - **[鍵本輝](../Page/鍵本輝.md "wikilink")**（かぎもと あきら、、[奈良県](../Page/奈良県.md "wikilink")[生駒郡](../Page/生駒郡.md "wikilink")[斑鳩町](../Page/斑鳩町.md "wikilink")出身、O型）
-      - イメージカラーは青。
+  - [谷内伸也](../Page/谷内伸也.md "wikilink")（たにうち しんや）
+
+    、[大阪府](../Page/大阪府.md "wikilink")[枚方市](../Page/枚方市.md "wikilink")出身、イメージカラーは緑。
+
+  - [古屋敬多](../Page/古屋敬多.md "wikilink")（ふるや けいた）
+
+    、[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")出身、イメージカラーは黄。
+
+  - [鍵本輝](../Page/鍵本輝.md "wikilink")（かぎもと あきら）
+
+    、[奈良県](../Page/奈良県.md "wikilink")[生駒郡](../Page/生駒郡.md "wikilink")[斑鳩町](../Page/斑鳩町.md "wikilink")出身、イメージカラーは青。
 
 ### 旧メンバー
 
-  - **[中土居宏宜](../Page/中土居宏宜.md "wikilink")**（なかどい ひろき、、[大阪府](../Page/大阪府.md "wikilink")[藤井寺市](https://ja.wikipedia.org/wiki/藤井寺市 "wikilink")出身、AB型）
-      - 2013年3月31日卒業。イメージカラーは赤。
+  - [中土居宏宜](../Page/中土居宏宜.md "wikilink")'''（なかどい ひろき）
+
+    、[大阪府](../Page/大阪府.md "wikilink")[藤井寺市](https://ja.wikipedia.org/wiki/藤井寺市 "wikilink")出身、イメージカラーは赤。
+
+    2013年3月31日卒業。
 
 ## 略歴
 
@@ -44,7 +52,7 @@
 
 ## 作品
 
-「順位」は全て[オリコン週間ランキング最高位](../Page/オリコンチャート.md "wikilink")
+順位は[オリコン](../Page/オリコン.md "wikilink")週間ランキング最高位\[4\]\[5\]。
 
 ### シングル
 
@@ -709,7 +717,7 @@ PCXP-50542：BD</p></td>
   - 「M-ON\! Make On The Holiday」Leadレギュラーコーナー「ぶらり〜ど」（2006年7月29日 - 2008年2月、[MUSIC ON\! TV](../Page/MUSIC_ON!_TV.md "wikilink")）
   - [東京ディズニーリゾート トレジャーハント](https://ja.wikipedia.org/wiki/東京ディズニーリゾート_トレジャーハント "wikilink")（2008年5月 - 2010年7月、[ディズニー・チャンネル](../Page/ディズニー・チャンネル.md "wikilink")）
   - [Abemaエンタメサンデー](https://ja.wikipedia.org/wiki/Abemaエンタメサンデー "wikilink")（2016年7月17日 - 2017年6月25日、[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")） - 月末レギュラー
-  - Leadバラエティ（仮）（2020年4月2日 - 、東京MXTV1）\[4\]
+  - Leadバラエティ（仮）（2020年4月2日 - 、東京MXTV1）\[6\]
 
 ### 音楽番組
 
@@ -771,9 +779,11 @@ PCXP-50542：BD</p></td>
   -
   -
   -
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:ライジングプロダクション](https://ja.wikipedia.org/wiki/Category:ライジングプロダクション "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
+[Category:日本のボーイ・バンド](https://ja.wikipedia.org/wiki/Category:日本のボーイ・バンド "wikilink") [Category:日本のダンス・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のダンス・ミュージシャン "wikilink") [Category:ライジングプロダクション](https://ja.wikipedia.org/wiki/Category:ライジングプロダクション "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
 
 1.
 2.
 3.
-4.  [Leadバラエティ（仮）](https://s.mxtv.jp/variety/lead/)東京MXTV
+4.
+5.
+6.  [Leadバラエティ（仮）](https://s.mxtv.jp/variety/lead/)東京MXTV

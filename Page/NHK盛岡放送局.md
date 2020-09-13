@@ -207,8 +207,20 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>河島康一</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>中村慎吾</p></td>
 <td><p><strong>初任地</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/菅谷鈴夏.md" title="wikilink">菅谷鈴夏</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>

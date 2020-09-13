@@ -77,7 +77,7 @@ MY OLYMPICはFM大阪・FM AICHI・FM FUKUOKA以外は『[ONE MORNING（月曜 -
 
 MY OLYMPIC αはTOKYO FMでは独立に、JFN系列の一部地域では『[Seasoning -season your life with music-](https://ja.wikipedia.org/wiki/Seasoning_-season_your_life_with_music- "wikilink")』（月曜 - 木曜）、『[FRIDAY GOES ON\! 〜あっ、それいただきっ\!〜](../Page/FRIDAY_GOES_ON!_〜あっ、それいただきっ!〜.md "wikilink")』（金曜）にそれぞれ内包して放送。\[5\]
 
-★印は2020年4月現在、「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")」（プレミアム含む）で聴取可能な放送局。放送時間の早い順から記載。
+全局、「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")」・「radiko.jpプレミアム」で聴取可能。放送時間の早い順から記載。
 
 <table>
 <thead>
@@ -92,97 +92,97 @@ MY OLYMPIC αはTOKYO FMでは独立に、JFN系列の一部地域では『[Seas
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
-<td><p><a href="../Page/エフエム東京.md" title="wikilink">エフエム東京</a>（TOKYO FM）★</p></td>
+<td><p><a href="../Page/エフエム東京.md" title="wikilink">エフエム東京</a>（TOKYO FM）</p></td>
 <td><p>14:55 - 15:00</p></td>
 <td><p><strong>製作局</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
-<td><p><a href="../Page/エフエム北海道.md" title="wikilink">エフエム北海道</a>（AIR-G'）★</p></td>
+<td><p><a href="../Page/エフエム北海道.md" title="wikilink">エフエム北海道</a>（AIR-G'）</p></td>
 <td><p>[6]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/青森県" title="wikilink">青森県</a></p></td>
-<td><p><a href="../Page/エフエム青森.md" title="wikilink">エフエム青森</a>（AFB）★</p></td>
+<td><p><a href="../Page/エフエム青森.md" title="wikilink">エフエム青森</a>（AFB）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
-<td><p><a href="../Page/エフエム岩手.md" title="wikilink">エフエム岩手</a>（FM IWATE）★</p></td>
+<td><p><a href="../Page/エフエム岩手.md" title="wikilink">エフエム岩手</a>（FM IWATE）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/宮城県" title="wikilink">宮城県</a></p></td>
-<td><p><a href="../Page/エフエム仙台.md" title="wikilink">エフエム仙台</a>（Date fm）★</p></td>
+<td><p><a href="../Page/エフエム仙台.md" title="wikilink">エフエム仙台</a>（Date fm）</p></td>
 <td><p>[7]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
-<td><p><a href="../Page/エフエム山形.md" title="wikilink">エフエム山形</a>（Rhythm Station）★</p></td>
+<td><p><a href="../Page/エフエム山形.md" title="wikilink">エフエム山形</a>（Rhythm Station）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>
-<td><p><a href="../Page/エフエム福島.md" title="wikilink">エフエム福島</a>（ふくしまFM）★</p></td>
+<td><p><a href="../Page/エフエム福島.md" title="wikilink">エフエム福島</a>（ふくしまFM）</p></td>
 <td><p>[8]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/栃木県" title="wikilink">栃木県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エフエム栃木" title="wikilink">エフエム栃木</a>（RADIO BERRY）★</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/エフエム栃木" title="wikilink">エフエム栃木</a>（RADIO BERRY）</p></td>
 <td><p>[9]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
-<td><p><a href="../Page/エフエムラジオ新潟.md" title="wikilink">エフエムラジオ新潟</a>（FM-NIIGATA）★</p></td>
+<td><p><a href="../Page/エフエムラジオ新潟.md" title="wikilink">エフエムラジオ新潟</a>（FM-NIIGATA）</p></td>
 <td><p>[10]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a></p></td>
-<td><p><a href="../Page/エフエム石川.md" title="wikilink">エフエム石川</a>（HELLO FIVE）★</p></td>
+<td><p><a href="../Page/エフエム石川.md" title="wikilink">エフエム石川</a>（HELLO FIVE）</p></td>
 <td><p>[11]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p><a href="../Page/富山エフエム放送.md" title="wikilink">富山エフエム放送</a>（FMとやま）★</p></td>
+<td><p><a href="../Page/富山エフエム放送.md" title="wikilink">富山エフエム放送</a>（FMとやま）</p></td>
 <td><p>[12]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
-<td><p><a href="../Page/福井エフエム放送.md" title="wikilink">福井エフエム放送</a>（FM FUKUI）★</p></td>
+<td><p><a href="../Page/福井エフエム放送.md" title="wikilink">福井エフエム放送</a>（FM FUKUI）</p></td>
 <td><p>[13]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
-<td><p><a href="../Page/長野エフエム放送.md" title="wikilink">長野エフエム放送</a>（FM長野）★</p></td>
+<td><p><a href="../Page/長野エフエム放送.md" title="wikilink">長野エフエム放送</a>（FM長野）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a></p></td>
-<td><p><a href="../Page/静岡エフエム放送.md" title="wikilink">静岡エフエム放送</a>（K-mix）★</p></td>
+<td><p><a href="../Page/静岡エフエム放送.md" title="wikilink">静岡エフエム放送</a>（K-mix）</p></td>
 <td><p>[14]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a></p></td>
-<td><p><a href="../Page/エフエム愛知.md" title="wikilink">エフエム愛知</a>（FM AICHI）★</p></td>
+<td><p><a href="../Page/エフエム愛知.md" title="wikilink">エフエム愛知</a>（FM AICHI）</p></td>
 <td><p>[15]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/岐阜県.md" title="wikilink">岐阜県</a></p></td>
-<td><p><a href="../Page/エフエム岐阜.md" title="wikilink">エフエム岐阜</a>（FM GIFU）★</p></td>
+<td><p><a href="../Page/エフエム岐阜.md" title="wikilink">エフエム岐阜</a>（FM GIFU）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -335,19 +335,19 @@ MY OLYMPIC αはTOKYO FMでは独立に、JFN系列の一部地域では『[Seas
 2.
 3.  一部の局は独立させた状態で表記している地域もあるが7:30までは『ONE MORNING』としての体裁がある。
 4.  東京や愛知などでは『[立花裕人のMORNING FREEWAY](../Page/立花裕人のMORNING_FREEWAY.md "wikilink")』を放送しており、当該時間帯は「モーニング・フリーウェイ〜ラッキー占い」を放送していたことによる。
-5.  なお年末特別番組「[SUPER GRAND COUNTDOWN](https://ja.wikipedia.org/wiki/カウントダウンステーション#SUPER_GRAND_COUNTDOWN "wikilink")」（ - 2016年度）など、14時台に放送出来ない場合は全局一斉に13:55 - 14:00に放送される。
+5.  なお年末特別番組「[SUPER GRAND COUNTDOWN](https://ja.wikipedia.org/wiki/カウントダウンステーション#SUPER_GRAND_COUNTDOWN "wikilink")」（ - 2016年度）、および2017年度以降の当該枠など、編成上の都合で全局一斉に13:55 - 14:00に放送されることがある。
 6.  MY OLYMPIC αは『[Sparkle Sparkler](https://ja.wikipedia.org/wiki/Sparkle_Sparkler "wikilink")』（月曜 - 木曜）、『[北川久仁子のbrilliant days×F](https://ja.wikipedia.org/wiki/北川久仁子のbrilliant_days×F "wikilink")』（金曜）にそれぞれ内包。
 7.  MY OLYMPIC αは『[RAD ～Radio All Day～](https://ja.wikipedia.org/wiki/RAD_～Radio_All_Day～ "wikilink")』（月曜 - 木曜）、『[AIRJAM Friday](../Page/AIRJAM.md "wikilink")』（金曜）にそれぞれ内包。
 8.  MY OLYMPIC αは『impress -GOOD THURSDAY-』（木曜）に内包。
 9.  MY OLYMPIC αは『[RBZ](https://ja.wikipedia.org/wiki/RBZ "wikilink")friday』（金曜）に内包。
-10. MY OLYMPIC αは『[HAPPY MAPPY](https://ja.wikipedia.org/wiki/HAPPY_MAPPY "wikilink")』（月曜）、『XOXO -hugs and kisses-』（火曜）、『PLAYER'S -active sports life-』（水曜）、『CH2020』（木曜）にそれぞれ内包。
+10. MY OLYMPIC αは『[HAPPY MAPPY](https://ja.wikipedia.org/wiki/HAPPY_MAPPY "wikilink")』（月曜）、『XOXO -hugs and kisses-』（火曜）、『PLAYER'S -active sports life-』（水曜）、『CH2020』（木曜）、『Life is Wonderland』（金曜）にそれぞれ内包。
 11. MY OLYMPIC αは『Flyin' Pop』（金曜）に内包。
 12. MY OLYMPIC αは『[grace](https://ja.wikipedia.org/wiki/grace_\(ラジオ番組\) "wikilink")』（月曜 - 木曜）、『[気ままプラン](https://ja.wikipedia.org/wiki/気ままプラン "wikilink")』（金曜）にそれぞれ内包。
 13. MY OLYMPIC αは『Highlight Friday』（金曜）に内包。
 14. MY OLYMPIC αは『[K-mix LIFE\! LIFE\! LIFE\!](https://ja.wikipedia.org/wiki/K-mix_LIFE!_LIFE!_LIFE! "wikilink")』（金曜）に内包。
-15. MY OLYMPICは『[Groovin' TODAY](https://ja.wikipedia.org/wiki/Groovin'_TODAY "wikilink")』に、MY OLYMPIC αは『Delight』（月曜 - 木曜）にそれぞれ内包。
+15. MY OLYMPICは『[ONE MORNING AICHI](../Page/ONE_MORNING_AICHI.md "wikilink")』に、MY OLYMPIC αは『AFTERNOON MAGIC』（月曜 - 木曜）にそれぞれ内包。
 16. MY OLYMPIC αは『Radio Flapper』（月曜 - 木曜）、『CHOICE』（金曜）にそれぞれ内包。
-17. MY OLYMPICは『[OH\! MY MORNING 851](https://ja.wikipedia.org/wiki/OH!_MY_MORNING_851 "wikilink")』に、MY OLYMPIC αは『[赤maru](https://ja.wikipedia.org/wiki/赤maru "wikilink")』（月曜 - 木曜）に内包。
+17. MY OLYMPIC αは『[赤maru](https://ja.wikipedia.org/wiki/赤maru "wikilink")』（月曜 - 木曜）に内包。
 18. MY OLYMPIC αは『[近藤志保のDAYS\!](https://ja.wikipedia.org/wiki/DAYS!? "wikilink")』（月曜 - 木曜）、『廣瀬桃子の皆実町マルシェ』（金曜）にそれぞれ内包。
 19. MY OLYMPIC αは『[Happy Happy FRIDAY](https://ja.wikipedia.org/wiki/Happy_Happy_FRIDAY "wikilink")』（金曜）に内包。
 20. MY OLYMPIC αは『水木彩也子のFRIDAY×FRIDAY』（金曜）に内包。

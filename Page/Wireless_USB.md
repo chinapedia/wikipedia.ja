@@ -100,12 +100,6 @@ Cypress Semiconductor社は "WirelessUSB™" という2.4 GHzの[ISMバンド](.
 
 <references/>
 
-## 外部リンク
-
-  - [USB Central（英語版）](http://www.lvr.com/usb.htm)
-  - [The Wireless USB Promoter Group（英語版）](http://www.usb.org/wusb/home)
-  - [Wireless USB News （英語版）](http://www.wireless-usb.eu/wusb/)
-
 ## 関連項目
 
   - [超広帯域無線](../Page/超広帯域無線.md "wikilink")(UWB)

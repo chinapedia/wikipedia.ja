@@ -60,7 +60,7 @@
 | 20  | [坂本裕哉](../Page/坂本裕哉.md "wikilink")                                  | 左 | 左 | 2019年ドラフト2位 |
 | 21  | [今永昇太](https://ja.wikipedia.org/wiki/今永昇太 "wikilink")               | 左 | 左 |             |
 | 24  | [齋藤俊介](https://ja.wikipedia.org/wiki/齋藤俊介 "wikilink")               | 右 | 右 |             |
-| 26  | [濱口遥大](https://ja.wikipedia.org/wiki/濱口遥大 "wikilink")               | 左 | 左 |             |
+| 26  | [濵口遥大](https://ja.wikipedia.org/wiki/濵口遥大 "wikilink")               | 左 | 左 |             |
 | 27  | [上茶谷大河](https://ja.wikipedia.org/wiki/上茶谷大河 "wikilink")             | 右 | 右 |             |
 | 28  | [勝又温史](https://ja.wikipedia.org/wiki/勝又温史 "wikilink")               | 右 | 左 |             |
 | 30  | [飯塚悟史](https://ja.wikipedia.org/wiki/飯塚悟史 "wikilink")               | 右 | 左 |             |
@@ -244,7 +244,7 @@
   - [入江巡一](https://ja.wikipedia.org/wiki/入江巡一 "wikilink")（1968 - 1970）
   - [入来祐作](../Page/入来祐作.md "wikilink")（2008）
   - [入部久男](https://ja.wikipedia.org/wiki/入部久男 "wikilink")（1956 - 1957）
-  - [岩井靖久](../Page/岩井隆之.md "wikilink")（1976 - 1981）
+  - [岩井隆之](../Page/岩井隆之.md "wikilink")（1976 - 1981）
   - [岩岡保宏](https://ja.wikipedia.org/wiki/岩岡保宏 "wikilink")（1956 - 1962）
   - [岩下正明](../Page/岩下正明.md "wikilink")（1988）
   - [岩本尭](../Page/岩本尭.md "wikilink")（1959 - 1961）
@@ -287,7 +287,7 @@
 
   - [江尻亮](../Page/江尻亮.md "wikilink")（1965 - 1979）
   - [江尻慎太郎](../Page/江尻慎太郎.md "wikilink")（2010途 - 2012）
-  - [江田貢一](../Page/江田孝.md "wikilink")（1952 - 1957）
+  - [江田孝](../Page/江田孝.md "wikilink")（1952 - 1957）
   - [枝村勉](../Page/枝村勉.md "wikilink")（1958 - 1960）
   - [江藤慎一](../Page/江藤慎一.md "wikilink")（1972 - 1974）
   - [江幡和志](https://ja.wikipedia.org/wiki/江幡和志 "wikilink")（1980 - 1983）
@@ -602,7 +602,7 @@
   - [柴田信夫](https://ja.wikipedia.org/wiki/柴田信夫 "wikilink")（1964 - 1969）
   - [芝野忠男](https://ja.wikipedia.org/wiki/芝野忠男 "wikilink")（1957 - 1961）
   - [ジョン・シピン](../Page/ジョン・シピン.md "wikilink")（1972 - 1978途）
-  - [島田源太郎](../Page/島田源太郎.md "wikilink")（1958 - 1970・1972途 - 1973）
+  - [島田源太郎](../Page/島田源太郎.md "wikilink")（1958 - 1971・1972途 - 1973）
   - [島田直也](../Page/島田直也.md "wikilink")（1992 - 2000）
   - [島田幸雄](https://ja.wikipedia.org/wiki/島田幸雄 "wikilink")（1959 - 1965）
   - [島野雅亘](https://ja.wikipedia.org/wiki/島野雅亘 "wikilink")（1958 - 1965）
@@ -774,7 +774,7 @@
 <!-- end list -->
 
   - [スコット・チアソン](../Page/スコット・チャイアソン.md "wikilink")（2007 - 2007途）
-  - [陳瑋](https://ja.wikipedia.org/wiki/陳ウェイ "wikilink")（2009 - 2010）
+  - [陳瑋](https://ja.wikipedia.org/wiki/陳瑋 "wikilink")（2009 - 2010）
   - [陳冠宇](https://ja.wikipedia.org/wiki/陳冠宇 "wikilink")（2011 - 2014）
   - [知野公昭](../Page/知野公昭.md "wikilink")（1990 - 1994）
   - [千葉英貴](../Page/千葉英貴.md "wikilink")（2002 - 2005）
@@ -798,7 +798,7 @@
   - [堤内健](../Page/堤内健.md "wikilink")（2003 - 2007）
   - [綱島新八](https://ja.wikipedia.org/wiki/綱島新八 "wikilink")（1953）
   - [鶴岡一成](../Page/鶴岡一成.md "wikilink")（1996 - 2008途・2012 - 2013）
-  - [鶴岡賢二郎](https://ja.wikipedia.org/wiki/鶴岡賢二郎 "wikilink")（2011 - 2015・2019途 - 終了）
+  - [靍岡賢二郎](https://ja.wikipedia.org/wiki/靍岡賢二郎 "wikilink")（2011 - 2015・2019途 - 終了）
 
 <!-- end list -->
 
@@ -932,7 +932,7 @@
 
   - [マイク・バークベック](../Page/マイク・バークベック.md "wikilink")（1995途 - 1996途）
   - [ブレット・ハーパー](https://ja.wikipedia.org/wiki/ブレット・ハーパー "wikilink")（2010途 - 2011）
-  - [配島久美](https://ja.wikipedia.org/wiki/配島久美 "wikilink")（1960途 - 1962）
+  - [蓜島久美](https://ja.wikipedia.org/wiki/蓜島久美 "wikilink")（1960途 - 1962）
   - [箱田淳](../Page/箱田淳.md "wikilink")（1961 - 1964）
   - [橋本勝磨](https://ja.wikipedia.org/wiki/橋本勝磨 "wikilink")（1959）
   - [橋本将](../Page/橋本将.md "wikilink")（2010 - 2011）
@@ -1380,8 +1380,26 @@
 
 準永久欠番
 
-  - **18** - [三浦大輔](../Page/三浦大輔.md "wikilink")（[投手](../Page/投手.md "wikilink")）(通称:横浜ナンバー)
+  - **18** - [三浦大輔](../Page/三浦大輔.md "wikilink")（[投手](../Page/投手.md "wikilink")）※通称：**横浜ナンバー**
   - **25** - [筒香嘉智](https://ja.wikipedia.org/wiki/筒香嘉智 "wikilink")（[外野手](../Page/外野手.md "wikilink")）
+
+## 横浜時代から在籍する選手
+
+TBSが親会社だった2011年以前から横浜に在籍している選手は以下の通り。
+
+  - [石川雄洋](../Page/石川雄洋.md "wikilink")（当時の背番号は52→7）
+  - [梶谷隆幸](../Page/梶谷隆幸.md "wikilink")（当時の背番号は63）
+  - [田中健二朗](../Page/田中健二朗.md "wikilink")
+  - [国吉佑樹](https://ja.wikipedia.org/wiki/国吉佑樹 "wikilink")（当時の背番号は111→65）
+
+以下はNPB他球団に所属
+
+  - [内川聖一](https://ja.wikipedia.org/wiki/内川聖一 "wikilink")（現・[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")）
+  - [黒羽根利規](../Page/黒羽根利規.md "wikilink")（現・[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")）
+  - [桑原謙太朗](../Page/桑原謙太朗.md "wikilink")（現・[阪神タイガース](../Page/阪神タイガース.md "wikilink")）
+  - [藤田一也](../Page/藤田一也.md "wikilink")（現・[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")）
+  - [福山博之](https://ja.wikipedia.org/wiki/福山博之 "wikilink")（現・東北楽天ゴールデンイーグルス）
+  - [渡辺直人](../Page/渡辺直人.md "wikilink")（現・東北楽天ゴールデンイーグルス）※他球団からトレードで入団
 
 ## 関連項目
 
@@ -1394,4 +1412,4 @@
   - [チーム情報](https://www.baystars.co.jp/team/) - 横浜DeNAベイスターズ
   - [横浜DeNAベイスターズ 2020年度 選手一覧](http://npb.jp/bis/teams/rst_db.html) - NPB.jp 日本野球機構
 
-[Category:横浜DeNAベイスターズ及びその前身球団の選手](https://ja.wikipedia.org/wiki/Category:横浜DeNAベイスターズ及びその前身球団の選手 "wikilink") [Category:プロ野球選手一覧](https://ja.wikipedia.org/wiki/Category:プロ野球選手一覧 "wikilink") [Category:横浜DeNAベイスターズ](https://ja.wikipedia.org/wiki/Category:横浜DeNAベイスターズ "wikilink")
+[Category:横浜DeNAベイスターズ](https://ja.wikipedia.org/wiki/Category:横浜DeNAベイスターズ "wikilink") [Category:横浜DeNAベイスターズ及びその前身球団の選手](https://ja.wikipedia.org/wiki/Category:横浜DeNAベイスターズ及びその前身球団の選手 "wikilink") [Category:プロ野球選手一覧](https://ja.wikipedia.org/wiki/Category:プロ野球選手一覧 "wikilink")

@@ -140,7 +140,7 @@
 
 :\*[2016年](../Page/2016年.md "wikilink")4月14日、再度覚醒剤を使用した容疑で神奈川県警察に逮捕された\[29\]。5月2日、起訴される\[30\]。7月11日、[横浜地方裁判所](../Page/横浜地方裁判所.md "wikilink")により懲役1年6ヵ月、うち懲役4ヵ月を[保護観察](../Page/保護観察.md "wikilink")付き執行猶予2年の判決が言い渡された\[31\]。
 
-  - **[米川英之](../Page/米川英之.md "wikilink")**（よねかわ ひでゆき、[1964年](../Page/1964年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink") - 、リードギター）
+  - **[米川英之](../Page/米川英之.md "wikilink")**（よねかわ ひでゆき、[1964年](../Page/1964年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink") - 、リード[ギター](../Page/ギター.md "wikilink")）
 
 :\*音楽専門学校在籍時にスカウトされて、1984年に加入。
 
@@ -150,7 +150,7 @@
 
 :\*メンバーで唯一、派手な[ヘアカラー](https://ja.wikipedia.org/wiki/ヘアカラー "wikilink")を入れず、自然な髪色で通した。
 
-  - **[関口誠人](../Page/関口誠人.md "wikilink")**（せきぐち まこと、[1959年](../Page/1959年.md "wikilink")[5月2日](../Page/5月2日.md "wikilink") - 、 [ギター](../Page/ギター.md "wikilink")）
+  - **[関口誠人](../Page/関口誠人.md "wikilink")**（せきぐち まこと、[1959年](../Page/1959年.md "wikilink")[5月2日](../Page/5月2日.md "wikilink") - 、 ギター）
 
 :\*担当はギター。ココナッツボーイズに参加するまで主にフォークギターを弾いていたため、エレキギターは不得手であった（現在は克服している）。また、楽曲によってサックスを吹くこともある。
 
@@ -228,7 +228,7 @@
 12. **[プライム・セレクション C-C-B](https://ja.wikipedia.org/wiki/プライム・セレクション_C-C-B "wikilink")** （2006年1月18日）
 13. **[エッセンシャル・ベスト C-C-B](https://ja.wikipedia.org/wiki/エッセンシャル・ベスト_C-C-B "wikilink")** （2007年8月22日）
 14. **[C-C-B シングル&アルバム・ベスト 曲数多くてすいません\!\!](https://ja.wikipedia.org/wiki/C-C-B_シングル&アルバム・ベスト_曲数多くてすいません!! "wikilink")** （2014年6月4日）
-15. **[エッセンシャル・ベスト 1200 C-C-B](https://ja.wikipedia.org/wiki/エッセンシャル・ベスト_1200_C-C-B "wikilink")** （2018年3月21日）
+15. **エッセンシャル・ベスト 1200 C-C-B** （2018年3月21日）
 
 ### ライブ・アルバム
 
@@ -237,14 +237,14 @@
 ### 企画アルバム
 
   - **[MAX-MEGA-MIX](https://ja.wikipedia.org/wiki/MAX-MEGA-MIX "wikilink")** （1987年3月25日）
-  - **[CCBオリジナル・カラオケ・パーフェクト](https://ja.wikipedia.org/wiki/CCBオリジナル・カラオケ・パーフェクト "wikilink")** （1989年9月1日）
+  - **C-C-B オリジナル・カラオケ・パーフェクト** （1989年9月1日）
   - **[Romanticは止められない](https://ja.wikipedia.org/wiki/Romanticは止められない "wikilink")** （2008年4月30日）
 
 ### ミニアルバム
 
 **AJ-米田渡-名義**
 
-  - **[AJ](https://ja.wikipedia.org/wiki/AJ_\(AJ-米田渡-のアルバム\) "wikilink")** （2014年3月14日　※同年3月2日ライブ会場にて先行販売）
+  - **[AJ](https://ja.wikipedia.org/wiki/AJ_\(AJ-米田渡-のアルバム\) "wikilink")** （2014年3月14日）※同年3月2日ライブ会場にて先行販売）
 
 ### 未音源化作品
 
@@ -252,7 +252,6 @@
   - **カラフルコミックス** 作曲：田口智治・渡辺英樹・米川英之・関口誠人・笠浩二
   - **グットナイトは早すぎる** 作詞・作曲：関口誠人
   - **イタイケSugar Boy**　作詞・作曲：渡辺英樹
-  - **赤いセーターの女の子** 作曲：米川英之
 
 ### その他
 
@@ -260,7 +259,7 @@
 
 :\*なお、「Romanticが止まらない」以前に発表されたアルバム『Mild Weekend』、『Boy's Life』、シングル『Candy』、『瞳少女』はKIDSレーベルから発売されていた。『Romanticが止まらない』のヒット以降、[ポリドール・レコード](../Page/ポリドール・レコード.md "wikilink")（現：[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）に版権が移った。
 
-  - **愛のメドレーセッション** - [東海テレビの音楽番組](../Page/東海テレビ放送.md "wikilink")『[音もダチだぜ\!気分はセッション](https://ja.wikipedia.org/wiki/音もダチだぜ!気分はセッション "wikilink")』において制作された企画レコードに参加（非売品）。同番組に出演したミュージシャンらが歌詞を歌い繋げるメドレー形式\[34\]。C-C-Bは1サビを担当した 。
+  - **愛のメドレーセッション** - [東海テレビの音楽番組](../Page/東海テレビ放送.md "wikilink")『[音もダチだぜ\!気分はセッション](https://ja.wikipedia.org/wiki/音もダチだぜ!気分はセッション "wikilink")』において制作された企画レコードに参加（非売品）。同番組に出演したミュージシャンらが歌詞を歌い繋げるメドレー形式。C-C-Bは1サビを担当した\[34\]。
   - **We Love Bakufu Slump** - 2011年12月25日発売。[爆風スランプ](../Page/爆風スランプ.md "wikilink")のトリビュートアルバムに、渡辺・田口・笠・米川の4人が参加。「[Runner](https://ja.wikipedia.org/wiki/Runner_\(爆風スランプの曲\) "wikilink")」を担当。クレジットには『**C-C-B**』と記載されている。また、2013年1月15日発売の同アルバムのコンプリート盤『爆風トリビュートComplete』にも収録されている。
 
 ### DVD・映像作品
@@ -268,8 +267,9 @@
   - C-C-Bの大冒険（1985年11月25日）
   - C-C-B LIVE晴（1986年7月5日）
   - C-C-B LIVE TOUCH AND GO（1987年5月25日）
+  - C-C-B IN BUDOKAN 1987・SEP/7▸8 PERFECT-LIVE　Vol.1 / Vol.2（1987年） ※ファンクラブ限定販売
   - C-C-B ビデオクリップ コレクション（1989年9月1日）
-  - C-C-B FINAL CONCERT TOUCH DOWN vol.1 / Vol.2（1989年11月25日）
+  - C-C-B FINAL CONCERT TOUCH DOWN Vol.1 / Vol.2（1989年11月25日）
   - C-C-B メモリアル DVD BOX（2004年9月29日） ※2015年11月4日にアンコールプレスされ再リリースされた\[35\]。
 
 **AJ-米田渡-名義**
@@ -358,6 +358,8 @@
   - 1989年、[HONDA](https://ja.wikipedia.org/wiki/HONDA "wikilink") オートバイ「ホンダAX-1」 - イメージキャラクターに笠が起用された。ポスター、パンフレットのみ。楽曲はなし。
   - 1989年、[UCC上島珈琲](../Page/UCC上島珈琲.md "wikilink")缶コーヒー「UCC CAN COFFEE 」 - 笠の楽曲「30センチでつかまえて」が起用された。出演はなし。なお、この曲はC-C-B解散後、笠のソロ曲として発売される。
 
+## 脚注
+
 ## 関連項目
 
   - [筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")
@@ -375,6 +377,7 @@
   - [ファンキー末吉](../Page/ファンキー末吉.md "wikilink")
   - [松木隆裕](https://ja.wikipedia.org/wiki/BLUFF_\(バンド\)#メンバー "wikilink")
   - [BLUFF](https://ja.wikipedia.org/wiki/BLUFF_\(バンド\) "wikilink")
+  - [1983年の音楽\#デビュー](https://ja.wikipedia.org/wiki/1983年の音楽#デビュー "wikilink") - 同じ年にデビューした歌手
 
 ## 外部リンク
 
@@ -439,11 +442,9 @@
 
 <!-- end list -->
 
-  - [米川英之オフィシャルサイト内「Hideyuki Yonekawa ONLINE SHOP」](http://www.ec-front.jp/yonekawa-shop/webshop/default.asp) - 米川のグッズの他に、“AJ-米田渡-”、“C-C-B”関連のグッズも若干取り扱っている。
+  - [米川英之オフィシャルサイト内「Hideyuki Yonekawa ONLINE SHOP」](http://www.ec-front.jp/yonekawa-shop/webshop/default.asp) - 米川のグッズの他に“C-C-B”関連のグッズも若干取り扱っている。
 
-## 脚注
-
-[Category:C-C-B](https://ja.wikipedia.org/wiki/Category:C-C-B "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:1982年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1982年に結成した音楽グループ "wikilink") [Category:1989年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1989年に解散した音楽グループ "wikilink") [Category:2008年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2008年に再結成した音楽グループ "wikilink")
+[Category:C-C-B](https://ja.wikipedia.org/wiki/Category:C-C-B "wikilink") [Category:日本のポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のポップ・ロック・バンド "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:1982年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1982年に結成した音楽グループ "wikilink") [Category:1989年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1989年に解散した音楽グループ "wikilink") [Category:2008年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2008年に再結成した音楽グループ "wikilink")
 
 1.  リリース後すぐにヒットには繋がらなかったが『Romanticが止まらない』のヒットにより過去の作品も見直された。『瞳少女』はロート製薬がスポンサーであり、なおかつ『毎度おさわがせします』を放送していたTBSのクイズ番組「[クイズダービー](../Page/クイズダービー.md "wikilink")」でほぼ毎週オンエアされた。放映開始当初は“ココナッツ・ボーイズ”表記であったが『Romanticが止まらない』のヒット後、“C-C-B”表記に統一された。マツダのCMでは“ココナッツ・ボーイズ”とカタカナ表記のみ。
 2.  翌日22日から汐留PITで2Daysライブが予定されており、そのライブで解散宣言をする予定であったが、会場に足を運べない全国のファンに対して不公平になってしまうと判断し、先にテレビを通じて解散することを発表した。
@@ -478,8 +479,8 @@
 31.
 32. 当時ハワイのFMラジオ放送局[KIKI](https://ja.wikipedia.org/wiki/:en:KHJZ "wikilink")（現在のKHJZの前身）が放送を録音した[カセットテープ](../Page/カセットテープ.md "wikilink")を販売していた手法を真似て、DJ風の楽曲紹介と音楽を取り入れた。
 33. 当時はインディーズレーベルのLPなどは一般のレコード店店頭では見かけることは稀だったが注文して入手することは可能であった。
-34. バブルガム・ブラザーズ、スターダストレビュー、堀内孝雄、C-C-B、TOPS、岡村靖幸、TUBE、鈴木聖美&鈴木雅之、レッド・ウォリアーズ、横山輝一の順。
-35. DVDの内容は2004年に発売されたものと同じ。（米川のHP内の）on-lineショップで予約を受け付けた分には、同年6月に行われるはずであったC-C-Bのワンマンライブツアーのロゴが入ったミニトートバッグ、2月に行われた『ゴーゴーヒデキ』のフォトカード、8月に行われた『お別れの会』で配られたポストカード、渡辺が衣装として着用していたシャツを小さくカットした布片など数点が限定特典として同封された。
+34. バブルガム・ブラザーズ、スターダストレビュー、堀内孝雄、C-C-B、TOPS、岡村靖幸、TUBE、鈴木聖美&鈴木雅之、レッド・ウォリアーズ、横山輝一の順。歌詞は「おーいみんな ちゃんと恋してるかい Baby おーいみんな ちゃんと愛してるかい Baby おーいみんな ちゃんと返事しろよ Baby アイ・アイ・アイ・アイ」。
+35. DVDの内容は2004年に発売されたものと同じ。（米川のHP内の）オンラインショップで予約を受け付けた分には、同年6月に行われるはずであったC-C-Bのワンマンライブツアーのロゴが入ったミニトートバッグ、2月に行われた『ゴーゴーヒデキ』のフォトカード、8月に行われた『お別れの会』で配られたポストカード、渡辺が衣装として着用していたシャツを小さくカットした布片など数点が限定特典として同封された。
 36. 2013年10月16日付で特設サイト\[[http://www.ccb.ne.jp/index2.html\]は閉鎖。系列の食事通販サイト](http://www.ccb.ne.jp/index2.html%5Dは閉鎖。系列の食事通販サイト) に販売を移行。
 37. ただし、メンバーにとってはいわゆる[黒歴史](../Page/黒歴史.md "wikilink")扱いになっている 。
 38. この番組内での企画で渡辺が岡けんた・ゆうたに賭けで負けたため、アルバム「[走れ☆バンドマン](https://ja.wikipedia.org/wiki/走れ☆バンドマン "wikilink")」のタイトル曲の間奏部に漫談が挿入されることになった。

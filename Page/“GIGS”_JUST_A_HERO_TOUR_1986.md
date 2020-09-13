@@ -1,11 +1,11 @@
 > この記事は[“GIGS” JUST A HERO TOUR 1986](https://ja.wikipedia.org/wiki/“GIGS”_JUST_A_HERO_TOUR_1986)から翻訳されています。
 
 
-『**“GIGS” JUST A HERO TOUR 1986**』（ギグス・ジャスト・ア・ヒーロー・ツアー 1986）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")[BOØWYの](../Page/BOOWY.md "wikilink")1枚目の[ライブアルバム](../Page/ライブ・アルバム.md "wikilink")。
+『**“GIGS” JUST A HERO TOUR 1986**』（ギグス・ジャスト・ア・ヒーロー・ツアー 1986）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")[BOØWY](../Page/BOØWY.md "wikilink")の1枚目の[ライブアルバム](../Page/ライブ・アルバム.md "wikilink")。
 
 ## 録音
 
-  - BOØWY初のライブアルバムで、[1986年](../Page/1986年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")の初の[日本武道館](../Page/日本武道館.md "wikilink")公演を収録したという事になっているが、実際に当日の日本武道館での演奏が収録されたのは、「PROLOGUE」(SE)、「[BAD FEELING](../Page/BAD_FEELING.md "wikilink")」、「[ROUGE OF GRAY](../Page/JUST_A_HERO_\(BOOWYのアルバム\).md "wikilink")」、「[IMAGE DOWN](https://ja.wikipedia.org/wiki/IMAGE_DOWN "wikilink")」、「[JUST A HERO](../Page/JUST_A_HERO_\(BOOWYのアルバム\).md "wikilink")」の5曲にとどまっており、それ以外の曲は同ツアーの他会場での音源で、ボーカル・コーラスの一部差し替えや[キーボードの音](../Page/キーボード_\(楽器\).md "wikilink")、観客の歓声等がオーバーダビングされている曲もある。これは「オーバーダビングをきちんと施すことによって、よりグレードの高い作品にしたい」というメンバーの希望からである。
+  - BOØWY初のライブアルバムで、[1986年](../Page/1986年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")の初の[日本武道館](../Page/日本武道館.md "wikilink")公演を収録したという事になっているが、実際に当日の日本武道館での演奏が収録されたのは、「PROLOGUE」(SE)、「[BAD FEELING](../Page/BAD_FEELING.md "wikilink")」、「[ROUGE OF GRAY](../Page/JUST_A_HERO_\(BOØWYのアルバム\).md "wikilink")」、「[IMAGE DOWN](https://ja.wikipedia.org/wiki/IMAGE_DOWN "wikilink")」、「[JUST A HERO](../Page/JUST_A_HERO_\(BOØWYのアルバム\).md "wikilink")」の5曲にとどまっており、それ以外の曲は同ツアーの他会場での音源で、ボーカル・コーラスの一部差し替えや[キーボードの音](../Page/キーボード_\(楽器\).md "wikilink")、観客の歓声等がオーバーダビングされている曲もある。これは「オーバーダビングをきちんと施すことによって、よりグレードの高い作品にしたい」というメンバーの希望からである。
   - 「IMAGE DOWN」演奏中に[氷室京介](../Page/氷室京介.md "wikilink")が言った「ライブハウス武道館へようこそ」というフレーズが有名。
   - 当初からメンバーの意向で武道館公演と同じ7月中での発売日が先に設定された為（但し製品の発売日表記は「H･8･22」(1986年8月22日)になっている）、予め収録曲も決定した上でライヴ翌日からスタジオでのオーバーダビングとミキシング作業が開始された。
   - 発売時は[CD](../Page/コンパクトディスク.md "wikilink")、[レコード](../Page/レコード.md "wikilink")、[カセットの](../Page/コンパクトカセット.md "wikilink")3形態で「合計」10万枚限定で発売され\[1\]、即完売した。完売後、特にBOØWY解散直後は、限定盤ということもあり、レンタルレコード店にもほとんど置かれていなかったため、中古レコード店ではプレミア価格での取引が行われており（特にCD盤は、コンディションによっては10万円以上の価格が付けられたこともある）、この状況により1989年12月の再発売が行われた。但し、再発盤は通常のプラケースに入れた形で、ジャケットもオリジナルの内ジャケットをベースにしたもので発売された。
@@ -61,7 +61,7 @@ TOTT-5610</p></td>
 <td><p>CD</p></td>
 <td><p>TOCT-6394</p></td>
 <td><p>2位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CD-BOX" title="wikilink">CD-BOX</a>『<a href="../Page/BOOWY_COMPLETE.md" title="wikilink">BOØWY COMPLETE</a> LIMITED EDITION』収録</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/CD-BOX" title="wikilink">CD-BOX</a>『<a href="../Page/BOØWY_COMPLETE.md" title="wikilink">BOØWY COMPLETE</a> LIMITED EDITION』収録</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
@@ -108,35 +108,37 @@ TOTT-5610</p></td>
 ### A面
 
 1.  **PROLOGUE** (3:31)
+      - 作曲・編曲：[布袋寅泰](../Page/布袋寅泰.md "wikilink")
+    <!-- end list -->
       -
         [1986年](../Page/1986年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")の日本武道館公演より。オープニングSEでテープ演奏の為、実際の演奏ではない。
 2.  **[BAD FEELING](../Page/BAD_FEELING.md "wikilink")** (5:03)
-      - 作詞：[氷室京介](../Page/氷室京介.md "wikilink")・[高橋信](../Page/高橋まこと.md "wikilink")　作曲：布袋寅泰
+      - 作詞：[氷室京介](../Page/氷室京介.md "wikilink")・[高橋信](../Page/高橋まこと.md "wikilink")　作曲・編曲：布袋寅泰
     <!-- end list -->
       -
         1986年7月2日の日本武道館公演より。キーボードがオーバーダビングされている。
-3.  **[ROUGE OF GRAY](../Page/JUST_A_HERO_\(BOOWYのアルバム\).md "wikilink")** (2:38)
-      - 作詞：氷室京介　作曲：布袋寅泰
+3.  **[ROUGE OF GRAY](../Page/JUST_A_HERO_\(BOØWYのアルバム\).md "wikilink")** (2:38)
+      - 作詞：氷室京介　作曲・編曲：布袋寅泰
     <!-- end list -->
       -
         1986年7月2日の日本武道館公演より。
-4.  **[BLUE VACATION](../Page/JUST_A_HERO_\(BOOWYのアルバム\).md "wikilink")** (3:05)
-      - 作詞：氷室京介　作曲：布袋寅泰
+4.  **[BLUE VACATION](../Page/JUST_A_HERO_\(BOØWYのアルバム\).md "wikilink")** (3:05)
+      - 作詞：氷室京介　作曲・編曲：布袋寅泰
     <!-- end list -->
       -
         録音日不明。
-5.  **[JUSTY](../Page/JUST_A_HERO_\(BOOWYのアルバム\).md "wikilink")** (3:40)
-      - 作詞：氷室京介　作曲：布袋寅泰
+5.  **[JUSTY](../Page/JUST_A_HERO_\(BOØWYのアルバム\).md "wikilink")** (3:40)
+      - 作詞：氷室京介　作曲・編曲：布袋寅泰
     <!-- end list -->
       -
         録音日不明。
-6.  **[BABY ACTION](../Page/BOOWY_\(アルバム\).md "wikilink")** (3:05)
-      - 作詞：氷室京介　作曲：布袋寅泰
+6.  **[BABY ACTION](../Page/BOØWY_\(アルバム\).md "wikilink")** (3:05)
+      - 作詞：氷室京介　作曲・編曲：布袋寅泰
     <!-- end list -->
       -
         録音日不明。
 7.  **[ホンキー・トンキー・クレイジー](../Page/ホンキー・トンキー・クレイジー.md "wikilink")** (4:31)
-      - 作詞・作曲：BOØWY
+      - 作詞・作曲：BOØWY　編曲：布袋寅泰・佐久間正英
     <!-- end list -->
       -
         録音日不明。オリジナル・シングルでの英語表記は「HONKY TONKY CRAZY」となっている。キーボードがオーバーダビングされている。
@@ -149,16 +151,16 @@ TOTT-5610</p></td>
 
     **[わがままジュリエット](../Page/わがままジュリエット.md "wikilink")** (4:46)
 
-      - 作詞・作曲：氷室京介
+      - 作詞・作曲：氷室京介　編曲・布袋寅泰
 
     <!-- end list -->
 
       -
-        1986年5月1日の高崎市文化会館公演より。ビデオ『[BOØWY VIDEO](../Page/BOOWY_VIDEO.md "wikilink")』収録のものをリミックスしている。
+        1986年5月1日の高崎市文化会館公演より。ビデオ『[BOØWY VIDEO](https://ja.wikipedia.org/wiki/BOØWY_VIDEO "wikilink")』収録のものをリミックスしている。
 
-2.  **[DREAMIN'](../Page/BOOWY_\(アルバム\).md "wikilink")** (3:53)
+2.  **[DREAMIN'](../Page/BOØWY_\(アルバム\).md "wikilink")** (3:53)
 
-      - 作詞：布袋寅泰・[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")　作曲：布袋寅泰
+      - 作詞：布袋寅泰・[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")　作曲・編曲：布袋寅泰
 
     <!-- end list -->
 
@@ -167,25 +169,25 @@ TOTT-5610</p></td>
 
 3.  **[IMAGE DOWN](https://ja.wikipedia.org/wiki/IMAGE_DOWN "wikilink")** (3:48)
 
-      - 作詞：氷室京介　作曲：布袋寅泰
+      - 作詞：氷室京介　作曲・編曲：布袋寅泰
 
     <!-- end list -->
 
       -
         [1986年](../Page/1986年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")の日本武道館公演より。キーボードと観客の声がオーバーダビングされている。当日の演奏より短く編集されており、曲中での氷室のMCや布袋・松井・高橋のコーラスの一部がカットされている。
 
-4.  **[NO.NEW YORK](https://ja.wikipedia.org/wiki/NO.NEW_YORK "wikilink")** (4:05)
+4.  **[NO. NEW YORK](https://ja.wikipedia.org/wiki/NO._NEW_YORK "wikilink")** (4:05)
 
-      - 作詞：深沢和明　作曲：布袋寅泰
+      - 作詞：深沢和明　作曲・編曲：布袋寅泰
 
     <!-- end list -->
 
       -
         1986年5月25日の[大阪厚生年金会館](https://ja.wikipedia.org/wiki/大阪厚生年金会館 "wikilink")公演より。キーボードがオーバーダビングされている。
 
-5.  **[JUST A HERO](../Page/JUST_A_HERO_\(BOOWYのアルバム\).md "wikilink")** (7:11)
+5.  **[JUST A HERO](../Page/JUST_A_HERO_\(BOØWYのアルバム\).md "wikilink")** (7:11)
 
-      - 作詞：氷室京介　作曲：布袋寅泰
+      - 作詞：氷室京介　作曲・編曲：布袋寅泰
 
     <!-- end list -->
 
@@ -230,4 +232,4 @@ TOTT-5610</p></td>
 [Category:BOØWYのライブ・アルバム](https://ja.wikipedia.org/wiki/Category:BOØWYのライブ・アルバム "wikilink") [Category:1986年のライブ・アルバム](https://ja.wikipedia.org/wiki/Category:1986年のライブ・アルバム "wikilink") [Category:1990年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1990年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:イーストワールドのアルバム](https://ja.wikipedia.org/wiki/Category:イーストワールドのアルバム "wikilink")
 
 1.  その大半はレコードで、特に1986年当時まだ一般的でなかったCDはプレス枚数が少ない。
-2.  5面開きパッケージは[エルヴィス・コステロ](../Page/エルヴィス・コステロ.md "wikilink")の『アームド・フォーセズ』のイギリス盤がイメージとしてあったと思われる。
+2.  5面開きパッケージは[エルヴィス・コステロ](../Page/エルヴィス・コステロ.md "wikilink")の『アームド・フォーセズ』のイギリス盤がイメージとしてあったと思われる。また、このアルバムの1曲目には、氷室京介がソロでカバーした「Accidents Will Happen」が収録されている。

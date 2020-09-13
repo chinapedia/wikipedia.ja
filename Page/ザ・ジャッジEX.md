@@ -56,7 +56,7 @@
 
 ## 外部リンク
 
-  - [ザ・ジャッジEX - フジテレビ](http://www.fujitv.co.jp/b_hp/judge-ex/)
+  - [ザ・ジャッジEX - フジテレビ](https://www.fujitv.co.jp/b_hp/judge-ex/)
 
 ## 関連項目
 

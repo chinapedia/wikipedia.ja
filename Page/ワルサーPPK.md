@@ -25,7 +25,7 @@
 
 冷戦期には、東西各国の秘密活動を担当する情報機関において制式拳銃として採用された。[MI5](../Page/保安局_\(イギリス\).md "wikilink")/[MI6](../Page/秘密情報部.md "wikilink")（[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")）、[BND](../Page/連邦情報局.md "wikilink")（[西ドイツ](../Page/西ドイツ.md "wikilink")）、[SDECE](../Page/対外治安総局.md "wikilink")（[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")）、[モサド](../Page/イスラエル諜報特務庁.md "wikilink")（[イスラエル](../Page/イスラエル.md "wikilink")）といった機関のほか、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")や[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の諸機関でも使用された\[9\]。
 
-[日本の警察](../Page/日本の警察.md "wikilink")でも[SP](../Page/セキュリティポリス.md "wikilink")、[皇宮警察](https://ja.wikipedia.org/wiki/皇宮警察 "wikilink")（侍衛官）などで[要人警護](https://ja.wikipedia.org/wiki/要人警護 "wikilink")用にワルサーPPKが使われていた。現在は[SIG SAUER P230JPに更新されている](https://ja.wikipedia.org/wiki/SIG_SAUER_P230#バリエーション "wikilink")。
+[日本の警察](../Page/日本の警察.md "wikilink")でも[SPや](../Page/セキュリティポリス.md "wikilink")[皇宮警察](https://ja.wikipedia.org/wiki/皇宮警察 "wikilink")などで[要人警護](https://ja.wikipedia.org/wiki/要人警護 "wikilink")用にワルサーPPKが使われていた。現在は[SIG SAUER P230JPに更新されている](https://ja.wikipedia.org/wiki/SIG_SAUER_P230#バリエーション "wikilink")。
 
 ## 特徴
 

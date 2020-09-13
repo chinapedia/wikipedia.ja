@@ -1,7 +1,9 @@
 > この記事は[TOP OF THE POPS \(桑田佳祐のアルバム\)](https://ja.wikipedia.org/wiki/TOP_OF_THE_POPS_\(桑田佳祐のアルバム\))から翻訳されています。
 
 
-『**TOP OF THE POPS**』（トップ・オブ・ザ・ポップス）は、[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")の2枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
+『**TOP OF THE POPS**』（トップ・オブ・ザ・ポップス）は、[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")の2枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")にCDで発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
+
+[2016年](../Page/2016年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")にはダウンロード配信、[2019年](../Page/2019年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")にはストリーミング配信を開始した\[1\]\[2\]。
 
 ## 背景
 
@@ -11,7 +13,7 @@
 
 選曲は、事前にファンクラブ投票や[サザンの公式](http://www.sas-fan.net/mob/index.php?site=SAS&ima=4640)[BBSの意見などから選考されたもの](../Page/電子掲示板.md "wikilink")。新曲の「素敵な未来を見て欲しい」は、ファンから『大切な人に送りたい言葉』を募集して製作された楽曲である。そのため、作詞名義は「桑田佳祐&サザンオールスターズ応援団」である。また、ソロ曲だけでなくKUWATA BANDやライブ音源も収録。初CD化楽曲が3曲もあり、新曲、アルバム未収録楽曲をも含めた決定盤である。収録楽曲には、すべてリマスタリングを施している。
 
-同年発売されたオリジナル・アルバム『ROCK AND ROLL HERO』とは連作となっており、ジャケットには“ex ROCK AND ROLL HERO”の看板も見られる。そのため、同アルバムの楽曲は収録されていない。また、当初は2001年に発売したシングル曲を軸にしたオリジナル・アルバムを作ろうとしたが時間的な理由で実現しなかったことが語られている\[1\]。
+同年発売されたオリジナル・アルバム『ROCK AND ROLL HERO』とは連作となっており、ジャケットには“ex ROCK AND ROLL HERO”の看板も見られる。そのため、同アルバムの楽曲は収録されていない。また、当初は2001年に発売したシングル曲を軸にしたオリジナル・アルバムを作ろうとしたが時間的な理由で実現しなかったことが語られている\[3\]。
 
 発売前には「[Kissin' Christmas (クリスマスだからじゃない)](../Page/Kissin'_Christmas_\(クリスマスだからじゃない\).md "wikilink")」を収録しようとの運動もあったが、当時、マスターテープが行方不明だった為に未収録となった。そのため、[2012年](../Page/2012年.md "wikilink")に発売された次作のベスト・アルバム『[I LOVE YOU -now & forever-](https://ja.wikipedia.org/wiki/I_LOVE_YOU_-now_&_forever- "wikilink")』に収録された。
 
@@ -21,20 +23,20 @@
 
 本作の[CMではゆかりの深い](../Page/コマーシャルメッセージ.md "wikilink")[小林克也](../Page/小林克也.md "wikilink")が[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")を担当している。
 
-本作の初回出荷分の売り上げ収入及び「[奇跡の<ruby><rb>地球</rb><rp></rp><rt>ほし</rt><rp></rp></ruby>](../Page/奇跡の地球.md "wikilink")」「光の世界」「素敵な未来を見て欲しい」における印税は、桑田が積極的に参加している[チャリティー](../Page/チャリティー.md "wikilink")機関・[アクト・アゲインスト・エイズ](../Page/アクト・アゲインスト・エイズ.md "wikilink")に寄付されている\[2\]。
+本作の初回出荷分の売り上げ収入及び「[奇跡の<ruby><rb>地球</rb><rp></rp><rt>ほし</rt><rp></rp></ruby>](../Page/奇跡の地球.md "wikilink")」「光の世界」「素敵な未来を見て欲しい」における印税は、桑田が積極的に参加している[チャリティー](../Page/チャリティー.md "wikilink")機関・[アクト・アゲインスト・エイズ](../Page/アクト・アゲインスト・エイズ.md "wikilink")に寄付されている\[4\]。
 
 ## チャート成績
 
-2002年[12月9日](../Page/12月9日.md "wikilink")付の[オリコン週間アルバムランキングで初週](../Page/オリコンチャート.md "wikilink")96.1万枚を売り上げて、1位を獲得した\[3\]。この初週売上は男性ソロアーティストの中で[河村隆一](../Page/河村隆一.md "wikilink")の『[Love](../Page/Love_\(河村隆一のアルバム\).md "wikilink")』（102.1万枚）に次ぐ歴代2位を記録しているが、男性ソロのベスト・アルバムとしては歴代1位の初週売上である\[4\]。
+2002年[12月9日](../Page/12月9日.md "wikilink")付の[オリコン週間アルバムランキングで初週](../Page/オリコンチャート.md "wikilink")96.1万枚を売り上げて、1位を獲得した\[5\]。この初週売上は男性ソロアーティストの中で[河村隆一](../Page/河村隆一.md "wikilink")の『[Love](../Page/Love_\(河村隆一のアルバム\).md "wikilink")』（102.1万枚）に次ぐ歴代2位を記録しているが、男性ソロのベスト・アルバムとしては歴代1位の初週売上である\[6\]。
 
-また、累計170万枚（オリコン調べ）を記録し、桑田佳祐名義の作品では最大売上である\[5\]。男性ソロアーティストのアルバム累計売上では、歴代4位を記録している\[6\]。
+また、累計170万枚（オリコン調べ）を記録し、桑田佳祐名義の作品では最大売上である\[7\]。男性ソロアーティストのアルバム累計売上では、歴代4位を記録している\[8\]。
 
-本作のオリコンによる登場回数は74回である\[7\]。
+本作のオリコンによる登場回数は74回である\[9\]。
 
 ## 受賞
 
   - 第17回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")
-      - [ロック](../Page/ロック_\(音楽\).md "wikilink")&[ポップ](../Page/ポピュラー音楽.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")・オブ・ザ・イヤー\[8\]
+      - [ロック](../Page/ロック_\(音楽\).md "wikilink")&[ポップ](../Page/ポピュラー音楽.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")・オブ・ザ・イヤー\[10\]
 
 ## 収録曲
 
@@ -184,11 +186,13 @@
 
 [Category:桑田佳祐のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:桑田佳祐のベスト・アルバム "wikilink") [Category:2002年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2002年のベスト・アルバム "wikilink") [Category:オリコン月間アルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間アルバムチャート1位獲得作品 "wikilink") [Category:2002年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2002年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink") [Category:ビクタータイシタのアルバム](https://ja.wikipedia.org/wiki/Category:ビクタータイシタのアルバム "wikilink")
 
-1.  「[Pen](https://ja.wikipedia.org/wiki/Pen_\(雑誌\) "wikilink")」 2017年 09月01日号 No.435 p60より。
-2.  [特設サイト](https://www.sas-fan.net/special/top/?site=SAS&ima=1740)
-3.  [【オリコン】桑田佳祐ソロベストが首位 今年ソロトップの初週43.2万枚](http://www.oricon.co.jp/news/2014700/full/)2015年7月18日閲覧。
-4.  [平井堅ベスト盤が首位\! 初動売上は男性ソロ史上3番目の大ヒット\!](http://www.oricon.co.jp/news/3315/full/) オリコン 2016年8月2日閲覧。
-5.  [桑田佳祐](http://contents.oricon.co.jp/music/special/2010/kuwatakeisuke0825/index.html) オリコンスタイル 2015年11月25日閲覧
-6.  [平井堅、男性ソロ史上3人目の快挙\!ベスト盤が200万枚突破\!](http://www.oricon.co.jp/news/18171/full/) オリコン 2016年8月2日閲覧。
-7.  [TOP OF THE POPS](http://www.oricon.co.jp/prof/203837/products/495075/1/) オリコン 2017年8月31日閲覧
-8.  [第17回日本ゴールドディスク大賞](http://www.golddisc.jp/award/17/index.html) 日本ゴールドディスク大賞 2017年3月18日閲覧
+1.  [桑田佳祐“還暦記念” ついにソロ全211曲配信解禁](http://www.oricon.co.jp/news/2067464/full/) オリコン 2016年2月26日配信・閲覧
+2.  [サザン関連全972曲 サブスク一斉解禁 メンバーソロ曲も対象に](https://www.oricon.co.jp/news/2151435/full/) オリコン 2019年12月20日配信, 2019年12月20日閲覧
+3.  「[Pen](https://ja.wikipedia.org/wiki/Pen_\(雑誌\) "wikilink")」 2017年 09月01日号 No.435 p60より。
+4.  [特設サイト](https://www.sas-fan.net/special/top/?site=SAS&ima=1740)
+5.  [【オリコン】桑田佳祐ソロベストが首位 今年ソロトップの初週43.2万枚](http://www.oricon.co.jp/news/2014700/full/)2015年7月18日閲覧。
+6.  [平井堅ベスト盤が首位\! 初動売上は男性ソロ史上3番目の大ヒット\!](http://www.oricon.co.jp/news/3315/full/) オリコン 2016年8月2日閲覧。
+7.  [桑田佳祐](http://contents.oricon.co.jp/music/special/2010/kuwatakeisuke0825/index.html) オリコンスタイル 2015年11月25日閲覧
+8.  [平井堅、男性ソロ史上3人目の快挙\!ベスト盤が200万枚突破\!](http://www.oricon.co.jp/news/18171/full/) オリコン 2016年8月2日閲覧。
+9.  [TOP OF THE POPS](http://www.oricon.co.jp/prof/203837/products/495075/1/) オリコン 2017年8月31日閲覧
+10. [第17回日本ゴールドディスク大賞](http://www.golddisc.jp/award/17/index.html) 日本ゴールドディスク大賞 2017年3月18日閲覧

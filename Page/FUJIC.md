@@ -52,7 +52,7 @@ FUJICの登場により、計算速度は人手でやっていたときに比べ
 ## システム構成
 
   - [真空管](../Page/真空管.md "wikilink")
-    2極管約500本、3極管など約1200本の計約1700本。ENIACの17468本の1割しか使っていない、といった比較をする向きもあるが、これはENIACの設計が「力業的」であるためで技術的な吟味を欠いた不適切な比較である。とはいえ、同様に水銀遅延管を使っているなどいくつかの類似点がある[EDSAC](../Page/EDSAC.md "wikilink")が直列式で約3000本であることから、並列式でこの数はそれなりに節約されたものと言える。これは当時の真空管が非常にフィラメントが切れやすく、大量に使うほど保守の手間がかかるため極力使用を減らしたものである。それでも毎日2-3本は交換していたという。真空管に対してはこの他に、作動電圧を極力下げる、接点をハンダ付けするという方法で安定をはかっていた。日本ではその後すぐ国産の[素子](https://ja.wikipedia.org/wiki/素子 "wikilink")である[パラメトロン](../Page/パラメトロン.md "wikilink")や、[トランジスタ](../Page/トランジスタ.md "wikilink")を使ったコンピュータが登場したため、FUJICは真空管式による数少ない国産コンピュータとなった。FUJIC以外に完成を見た真空管式コンピュータとしては、[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")と[東芝](../Page/東芝.md "wikilink")の共同開発で[1959年](../Page/1959年.md "wikilink")完成した[TACしかない](../Page/TAC_\(コンピュータ\).md "wikilink")。
+    2極管約500本、3極管など約1200本の計約1700本。ENIACの17468本の1割しか使っていない、といった比較をする向きもあるが、これはENIACの設計が「力業的」であるためで技術的な吟味を欠いた不適切な比較である。とはいえ、同様に水銀遅延管を使っているなどいくつかの類似点がある[EDSAC](../Page/EDSAC.md "wikilink")が直列式で約3000本であることから、並列式でこの数はそれなりに節約されたものと言える。これは当時の真空管が非常にフィラメントが切れやすく、大量に使うほど保守の手間がかかるため極力使用を減らしたものである。それでも毎日2-3本は交換していたという。真空管に対してはこの他に、作動電圧を極力下げる、接点をハンダ付けするという方法で安定をはかっていた。日本ではその後すぐ国産の[素子](https://ja.wikipedia.org/wiki/素子 "wikilink")である[パラメトロン](../Page/パラメトロン.md "wikilink")や、[トランジスタ](../Page/トランジスタ.md "wikilink")を使ったコンピュータが登場したため、FUJICは真空管式による数少ない国産コンピュータとなった。FUJIC以外に完成を見た[真空管式コンピュータ](../Page/真空管式コンピュータ.md "wikilink")としては、[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")と[東芝](../Page/東芝.md "wikilink")の共同開発で[1959年](../Page/1959年.md "wikilink")完成した[TACしかない](../Page/TAC_\(コンピュータ\).md "wikilink")。
   - [メインメモリ](../Page/主記憶装置.md "wikilink")
     前述通り真空管の信用性が低いため、[水銀遅延管を使用した](https://ja.wikipedia.org/wiki/水銀遅延線 "wikilink")。水銀タンクは直径10cm、長さ1m45cm。容量255[word](../Page/ワード.md "wikilink")（1word=33bit）。
   - プログラム方式
@@ -68,8 +68,8 @@ FUJICの登場により、計算速度は人手でやっていたときに比べ
 
 ## 同時期の他のコンピュータ
 
-  - 民間によるコンピュータの利用は、[J・リヨンス](https://ja.wikipedia.org/wiki/J・リヨンス "wikilink")という食品会社が[EDSAC](../Page/EDSAC.md "wikilink")をカスタマイズした「[LEO](https://ja.wikipedia.org/wiki/LEO "wikilink")」を、1954年に使用開始したものが世界初とされており、FUJICはこれと比べても、民間使用コンピュータの黎明期にあたる事がわかる。
-  - [通商産業省工業技術院電気試験所](../Page/経済産業省.md "wikilink")（現在の[産業技術総合研究所](../Page/産業技術総合研究所.md "wikilink")）が、日本初の[デジタル](../Page/デジタル.md "wikilink")式コンピュータとしてリレー式の[ETL Mark Iを](https://ja.wikipedia.org/wiki/ETL_Mark_I "wikilink")[1952年](../Page/1952年.md "wikilink")に、日本初のトランジスタ・コンピュータとして [ETL Mark III](../Page/ETL_Mark_III.md "wikilink") を[1956年](../Page/1956年.md "wikilink")にそれぞれ完成させている。
+  - 民間によるコンピュータの利用は、[J・リヨンス](https://ja.wikipedia.org/wiki/J・リヨンス "wikilink")という食品会社が[EDSAC](../Page/EDSAC.md "wikilink")をカスタマイズした「[LEO](../Page/LEO_\(コンピュータ\).md "wikilink")」を、1954年に使用開始したものが世界初とされており、FUJICはこれと比べても、民間使用コンピュータの黎明期にあたる事がわかる。
+  - [通商産業省工業技術院電気試験所](../Page/経済産業省.md "wikilink")（現在の[産業技術総合研究所](../Page/産業技術総合研究所.md "wikilink")）が、日本初の[デジタル](../Page/デジタル.md "wikilink")式コンピュータとしてリレー式の[ETL Mark Iを](https://ja.wikipedia.org/wiki/ETL_Mark_I "wikilink")[1952年](../Page/1952年.md "wikilink")に、日本初の[トランジスタ・コンピュータ](https://ja.wikipedia.org/wiki/トランジスタ・コンピュータ "wikilink")として [ETL Mark III](../Page/ETL_Mark_III.md "wikilink") を[1956年](../Page/1956年.md "wikilink")にそれぞれ完成させている。
 
 ## 脚注
 

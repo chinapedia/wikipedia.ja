@@ -23,15 +23,15 @@
       - [GEM (坂本龍一のアルバム)](../Page/GEM_\(坂本龍一のアルバム\).md "wikilink") - [坂本龍一](../Page/坂本龍一.md "wikilink")のアルバム。
       - [GEM (安良城紅のアルバム)](https://ja.wikipedia.org/wiki/GEM_\(安良城紅のアルバム\) "wikilink") - [安良城紅のアルバム](https://ja.wikipedia.org/wiki/BENI "wikilink")。
   - 歌手・音楽グループ
-      - [鄧紫棋](https://ja.wikipedia.org/wiki/タン紫棋 "wikilink") ([G.E.M.](https://ja.wikipedia.org/wiki/:zh:鄧紫棋 "wikilink")) - 香港の歌手
+      - [鄧紫棋](https://ja.wikipedia.org/wiki/鄧紫棋 "wikilink") ([G.E.M.](https://ja.wikipedia.org/wiki/:zh:鄧紫棋 "wikilink")) - 香港の歌手
       - [GEM (音楽グループ)](https://ja.wikipedia.org/wiki/GEM_\(音楽グループ\) "wikilink")
       - [GEM (アイドルグループ)](https://ja.wikipedia.org/wiki/GEM_\(アイドルグループ\) "wikilink")(Girls Entertainment Mixture) - [iDOL Street所属のアイドル](https://ja.wikipedia.org/wiki/iDOL_Street "wikilink")。
   - その他固有名詞等
-      - [RubyGems](https://ja.wikipedia.org/wiki/RubyGems "wikilink") - [Ruby](../Page/Ruby.md "wikilink")の[パッケージ](../Page/パッケージ.md "wikilink")、[ライブラリ](../Page/ライブラリ.md "wikilink")およびそれを管理するコマンドのこと。
       - [ゲームオン](../Page/ゲームオン.md "wikilink")が運営するオンラインゲームの課金通貨。
 
 ## gem
 
   - [宝石](../Page/宝石.md "wikilink") (gem)
-  - gem-（ジェミナル-）は、同じ原子に同じ置換基が結合しているときに用いる化学接頭辞。[化学接頭辞・接尾辞一覧](../Page/化学接頭辞・接尾辞一覧.md "wikilink")を参照。
-  - [ゲルマン諸語](https://ja.wikipedia.org/wiki/ゲルマン諸語 "wikilink")の[ISO 639コード](../Page/ISO_639.md "wikilink")
+  - gem - [Ruby](../Page/Ruby.md "wikilink")言語用の[パッケージ管理システム](../Page/パッケージ管理システム.md "wikilink")([RubyGems](https://ja.wikipedia.org/wiki/RubyGems "wikilink"))で用いられる配布用フォーマット、およびそれを管理するコマンドのこと。
+  - gem-（ジェミナル-） - 同じ原子に同じ置換基が結合しているときに用いる化学接頭辞。[化学接頭辞・接尾辞一覧](../Page/化学接頭辞・接尾辞一覧.md "wikilink")を参照。
+  - gem - [ゲルマン諸語](https://ja.wikipedia.org/wiki/ゲルマン諸語 "wikilink")の[ISO 639コード](../Page/ISO_639.md "wikilink")

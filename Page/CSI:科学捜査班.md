@@ -414,7 +414,7 @@
 ## オンライン配信
 
   - 日本語版
-    [Amazonビデオ](https://ja.wikipedia.org/wiki/Amazonビデオ "wikilink")にてシーズン1からシーズン15（最終章を除く）まで配信中。プライム会員は特典で字幕、吹替版ともに見放題となっている。
+    [Amazonビデオ](https://ja.wikipedia.org/wiki/Amazonビデオ "wikilink")にてシーズン1からシーズン15（最終章を除く）まで配信中。
 
 ## エピソードリスト
 
@@ -603,7 +603,8 @@
     シーズン12 - 2018年11月30日から2019年5月10日
     シーズン13 - 2019年5月17日から2019年10月4日
     シーズン14 - 2019年10月11日から2020年3月14日
-    シーズン15 - 2020年3月21日から
+    シーズン15 - 2020年3月21日から2020年7月18日
+    最終章 - 2020年7月25日から2020年8月1日
   - [テレビ北海道](../Page/テレビ北海道.md "wikilink")
     シーズン01 - 2003年04月14日〜2003年11月24日
       -
@@ -762,11 +763,8 @@
   - アメリカ
       - [CBS CSI](https://www.cbs.com/shows/csi/)
   - 日本
-      - [WOWOW CSI](http://www.wowow.co.jp/drama/csi/)
       - [AXN | CSI：科学捜査班](https://www.axn.co.jp/programs/csi)
-      - [Dlife CSI：科学捜査班 シーズン1](http://www.dlife.jp/lineup/drama/csi_s1/)
       - [テレビ東京:CSI:13](https://www.tv-tokyo.co.jp/csi13/)
-      - [CSI:ブログ | CSI:公式ブログ](http://csi.dramanavi.net/blog/)
   - データーベース
       - [IMDb CSI](https://www.imdb.com/title/tt0247082/)
 

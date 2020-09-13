@@ -9,16 +9,16 @@
 
 協力は、[産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink")だったため、フジテレビ内は、「**サンケイテレビ朝刊**」と表記していた。
 
-また、一部系列局では『○○○テレビ朝刊 FNN』と自局の局名を被せたタイトルに改題していた。[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")では[1990年代](../Page/1990年代.md "wikilink")後半まで、週末の『[産経テレニュースFNN](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")』の改題タイトルとして『[tssテレビ朝刊 FNN](https://ja.wikipedia.org/wiki/tssテレビ朝刊 "wikilink")』を使用した。
-フジテレビの番組終了後も[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")や[テレビ愛媛](../Page/テレビ愛媛.md "wikilink")や[山陰中央テレビなどではこのタイトルが土日朝の](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")『[サンケイテレニュースFNN](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")』の改題として残った。
+[関西テレビでは](../Page/関西テレビ放送.md "wikilink")、宇宙空間をバックに同局のチャンネル番号"8"（六角形を上下に2つ繋げる）が現われるOPとEDを用いていた（いわゆる「**[スキャニメイト](../Page/スキャニメイト.md "wikilink")**」映像で、差し替えタイトルは『サンケイテレビ朝刊　FNN』だった）。
 
-現在は[石川テレビで](../Page/石川テレビ放送.md "wikilink")『**FNN石川テレビ朝刊**』が、日曜朝の[FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース "wikilink")をタイトル改題するかたちで残っている。
+また、地方の一部系列局では『○○○テレビ朝刊 FNN』と自局の局名を被せたタイトルに改題していた。[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")では[1990年代](../Page/1990年代.md "wikilink")後半まで、週末の『[産経テレニュースFNN](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")』の改題タイトルとして『[tssテレビ朝刊 FNN](https://ja.wikipedia.org/wiki/tssテレビ朝刊 "wikilink")』を使用した。
 
 [1970年代](../Page/1970年代.md "wikilink")中盤の一時期、多くの系列局は早朝放送の開始が7時前後で、かつ人気番組『[ママとあそぼう\!ピンポンパン](../Page/ママとあそぼう!ピンポンパン.md "wikilink")』が8時台前半に放送されたことから、この時期の「テレビ朝刊」は8:45から8:55（局により天気予報やローカルニュース内包のため9時まで）と、主要ネットワークの早朝第一版ニュースでもっとも遅い時間から放送されていた\[1\]。
 
-なお、第2期後継（1982年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")以後）の『[FNNモーニングワイド ニュース&スポーツ](../Page/FNNモーニングワイド_ニュース&スポーツ.md "wikilink")』が放送されて以後も[1986年](../Page/1986年.md "wikilink")3月まで、[沖縄テレビは放送開始が午前](../Page/沖縄テレビ放送.md "wikilink")7時からだった編成上の都合のため、7:15から10分間だけの飛び乗り放送を行った際、この『FNNテレビ朝刊』という題で放送し続けた。[テレビ大分](../Page/テレビ大分.md "wikilink")は[クロスネット](../Page/クロスネット局.md "wikilink")（当時はFNN／[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")／[ANN](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")）であり、通常は[NNN朝のニュース](../Page/NNN朝のニュース.md "wikilink")をネットしていたが、日曜日に限りNNNを休止してこの番組を放送。産経テレニュースの時代もテレビ朝刊としていた（1993年10月から日曜もNNNに変更）。
+なお、第2期後継（1982年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")以後）の『[FNNモーニングワイド ニュース&スポーツ](../Page/FNNモーニングワイド_ニュース&スポーツ.md "wikilink")』が放送されて以後も[1986年](../Page/1986年.md "wikilink")3月まで、[沖縄テレビは放送開始が午前](../Page/沖縄テレビ放送.md "wikilink")7時からだった編成上の都合のため、7:15から10分間だけの飛び乗り放送を行った際、この『FNNテレビ朝刊』という題で放送し続けた。
 
-[関西テレビでは](../Page/関西テレビ放送.md "wikilink")、宇宙空間をバックに同局のチャンネル番号"8"（六角形を上下に2つ繋げる）が現われるOPとEDを用いていた（いわゆる「**[スキャニメイト](../Page/スキャニメイト.md "wikilink")**」映像で、差し替えタイトルは『サンケイテレビ朝刊　FNN』だった）。
+フジテレビの番組終了後も[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")や[テレビ愛媛](../Page/テレビ愛媛.md "wikilink")や[山陰中央テレビなどで](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")、このタイトルが土日朝の『[サンケイテレニュースFNN](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")』の改題として残った。[クロスネット局](../Page/クロスネット局.md "wikilink")（当時はFNN／[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")／[ANN](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")）の[テレビ大分](../Page/テレビ大分.md "wikilink")でも、日曜日は月ー土の[NNN朝のニュース](../Page/NNN朝のニュース.md "wikilink")のネットを休止して、FNNのこの番組を放送。のちの産経テレニュースの時代もテレビ朝刊としていた（1993年10月から日曜もNNNに変更）。
+最後は[石川テレビで](../Page/石川テレビ放送.md "wikilink")2018年3月まで、日曜朝の[FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース "wikilink")を『**FNN石川テレビ朝刊**』にタイトル改題するかたちで残った。
 
 ## キャスター
 

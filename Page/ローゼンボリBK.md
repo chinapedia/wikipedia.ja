@@ -97,7 +97,7 @@
 
 ## 現所属メンバー
 
-**\[1\]       ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))
+**\[1\]      ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))
 
 ### ローン移籍
 

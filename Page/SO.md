@@ -50,7 +50,7 @@
 <!-- end list -->
 
   - [ソニー](../Page/ソニー.md "wikilink")および[ソニーモバイルコミュニケーションズ](../Page/ソニーモバイルコミュニケーションズ.md "wikilink")の[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")・[デジタルツーカー](../Page/デジタルツーカー.md "wikilink")端末を表す符丁。
-      - [auでも](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")2009年以降に発売された全機種での製造型番で使用されており、[au 4G LTE対応端末では対外的にもこちらの記号が使用されている](https://ja.wikipedia.org/wiki/au_4G_LTE "wikilink")。
+      - [auでも](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")2009年以降に発売された全機種での製造型番で使用されており（例：[IS12S](https://ja.wikipedia.org/wiki/IS12S "wikilink")→SOI12）、[au 4G LTE対応端末](https://ja.wikipedia.org/wiki/au_4G_LTE "wikilink")（[SOL21](https://ja.wikipedia.org/wiki/SOL21 "wikilink")、[SOV31](https://ja.wikipedia.org/wiki/SOV31 "wikilink")など）では対外的にもこちらの記号が使用されている。
   - [相模鉄道](https://ja.wikipedia.org/wiki/相模鉄道 "wikilink")の[駅ナンバリング](../Page/駅ナンバリング.md "wikilink")に付与される記号。（**SO**TETSU）
 
 ## 他の記号等を付して用いるもの

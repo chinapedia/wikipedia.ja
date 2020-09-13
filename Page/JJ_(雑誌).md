@@ -30,6 +30,11 @@
   - [Niki](https://ja.wikipedia.org/wiki/Niki "wikilink")
   - [ギャビー](https://ja.wikipedia.org/wiki/ギャビー "wikilink")
   - [高本彩花](https://ja.wikipedia.org/wiki/高本彩花 "wikilink")（[日向坂46](https://ja.wikipedia.org/wiki/日向坂46 "wikilink")）
+  - [せたこ](https://ja.wikipedia.org/wiki/せたこ "wikilink")
+  - [中島侑香](../Page/中島侑香.md "wikilink")
+  - [小山ティナ](https://ja.wikipedia.org/wiki/小山ティナ "wikilink")
+  - [松山莉奈](https://ja.wikipedia.org/wiki/松山莉奈 "wikilink")
+  - [川津明日香](https://ja.wikipedia.org/wiki/川津明日香 "wikilink")
 
 ### 過去の登場モデル
 

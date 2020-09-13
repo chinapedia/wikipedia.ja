@@ -1,7 +1,9 @@
 > この記事は[Gaia Online](https://ja.wikipedia.org/wiki/Gaia_Online)から翻訳されています。
 
 
-[Gaia_Online_logo.svg](https://ja.wikipedia.org/wiki/File:Gaia_Online_logo.svg "fig:Gaia_Online_logo.svg") **ガイアオンライン**(**Gaia Online**)とは、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")[アニメ](../Page/アニメ.md "wikilink")風に作られた[オンライン](../Page/オンライン.md "wikilink")[ロールプレイング](https://ja.wikipedia.org/wiki/ロールプレイング "wikilink")の[ウェブサイト](../Page/ウェブサイト.md "wikilink")。2003年2月18日にDerek Liu（ガイアで「Lanzer」という名で知られている）に作られて、2005年現在ユーザーは300万人いる。[英語圏](../Page/英語圏.md "wikilink")での最大の[電子掲示板](../Page/電子掲示板.md "wikilink")である。
+[Gaia_Online_logo.svg](https://ja.wikipedia.org/wiki/File:Gaia_Online_logo.svg "fig:Gaia_Online_logo.svg") **Gaia Online**（ガイアオンライン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")[アニメ](../Page/アニメ.md "wikilink")風に作られた[オンライン](../Page/オンライン.md "wikilink")[ロールプレイング](https://ja.wikipedia.org/wiki/ロールプレイング "wikilink")の[ウェブサイト](../Page/ウェブサイト.md "wikilink")。
+
+2003年2月18日にDerek Liu（ガイアで「Lanzer」という名で知られている）に作られて、2005年現在ユーザーは300万人いる。[英語圏](../Page/英語圏.md "wikilink")での最大の[電子掲示板](../Page/電子掲示板.md "wikilink")である。
 
 ガイアオンラインでの最近のフィーチャーは
 
@@ -29,7 +31,7 @@
   - [フィシング](https://ja.wikipedia.org/wiki/フィシング "wikilink")での釣られた魚を他のユーザーとかストアに売ること。
   - 要らないアイテムを他のユーザーとかストアに売ること。
 
-## ガイアのNPC達 ([ノンプレイヤーキャラクター](../Page/ノンプレイヤーキャラクター.md "wikilink"))
+## ガイアのNPC達 (ノンプレイヤーキャラクター)
 
   - Johnny K. Gambino (ジョンニー・ガンビノ)
   - Gino Gambino (ジーノ・ガンビノ)

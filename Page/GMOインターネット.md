@@ -2,7 +2,13 @@
 
 
 | 略称 = GMO Internet | 本社所在地 = [東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[桜丘町](../Page/桜丘町_\(渋谷区\).md "wikilink")26-1
-[セルリアンタワー](../Page/セルリアンタワー.md "wikilink") | 国籍 =  | 本社郵便番号 = 150-8512 | 設立 = [1991年](../Page/1991年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink") | 業種 = 5250 | 事業内容 = インターネットインフラ事業、インターネット広告・メディア事業、インターネット証券事業、モバイルエンターテイメント事業 | 代表者 = [熊谷正寿](../Page/熊谷正寿.md "wikilink")（[代表取締役](../Page/代表取締役.md "wikilink")[会長](../Page/会長.md "wikilink")兼[社長](../Page/社長.md "wikilink")兼グループ代表） | 資本金 = 50億円（2016年12月末日現在） | 発行済株式総数 = 1億1,594万4,677株（以下すべて連結:2016年12月期） | 売上高 = 1350.26億円 | 営業利益 = 170.17億円 | 経常利益 = 166.86億円 | 純利益 = 72.34億円 | 純資産 = 661.79億円 | 総資産 = 5888.19億円 | 従業員数 = 4,471名 (外、平均臨時雇用者数 729名) | 決算期 = 12月31日 | 会計監査人 = [有限責任監査法人トーマツ](https://ja.wikipedia.org/wiki/トーマツ "wikilink") | 主要株主 = 株式会社熊谷正寿事務所 30.80%
+[セルリアンタワー](../Page/セルリアンタワー.md "wikilink") | 国籍 =  | 本社郵便番号 = 150-8512 | 設立 = [1991年](../Page/1991年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink") | 業種 = 5250 | 事業内容 = インターネットインフラ事業、インターネット広告・メディア事業、インターネット証券事業、モバイルエンターテイメント事業 | 代表者 = [熊谷正寿](../Page/熊谷正寿.md "wikilink")（[代表取締役](../Page/代表取締役.md "wikilink")[会長](../Page/会長.md "wikilink")兼[社長](../Page/社長.md "wikilink")兼グループ代表） | 資本金 = 50億円
+（2019年12月期） | 発行済株式総数 = 1億1,594万4,677株
+（2016年12月期） | 売上高 = 連結：1,961億7,100万円
+（2019年12月期） | 営業利益 = 連結：252億7,900万円
+（2019年12月期） | 経常利益 = 連結：245億600万円
+（2019年12月期） | 純利益 = | 純資産 = | 総資産 = 連結：8,712億1,400万円
+（2019年12月期） | 従業員数 = 連結：5,238名 (外、平均臨時雇用者数 729名) | 決算期 = 12月31日 | 会計監査人 = [有限責任監査法人トーマツ](https://ja.wikipedia.org/wiki/トーマツ "wikilink") | 主要株主 = 株式会社熊谷正寿事務所 30.80%
 [熊谷正寿](../Page/熊谷正寿.md "wikilink") 9.87%
 （2017年3月末日現在） | 主要子会社 = など | 関係する人物 = [西山裕之](../Page/西山裕之.md "wikilink")（副社長）
 [相浦一成](https://ja.wikipedia.org/wiki/相浦一成 "wikilink")（副社長） | 外部リンク = [gmo.jp](https://www.gmo.jp/) }} **GMOインターネット株式会社**（ジーエムオーインターネット、GMO Internet, Inc.）は、[インターネット](../Page/インターネット.md "wikilink")関連事業を行う[東証](../Page/東京証券取引所.md "wikilink")1部上場企業で、[GMOインターネットグループ](https://ja.wikipedia.org/wiki/GMOインターネットグループ "wikilink")の[持株会社](../Page/持株会社.md "wikilink")でもある。本社は[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[桜丘町の](../Page/桜丘町_\(渋谷区\).md "wikilink")[セルリアンタワー](../Page/セルリアンタワー.md "wikilink")内に所在する。
@@ -165,8 +171,11 @@
 ## 外部リンク
 
   - [GMOインターネット株式会社](https://www.gmo.jp/)
-  - [お名前.com](https://www.onamae.com/)
 
+  -
+  -
+  -
+  -
 [Category:GMOインターネットグループ](https://ja.wikipedia.org/wiki/Category:GMOインターネットグループ "wikilink") [Category:日本のインターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/Category:日本のインターネットサービスプロバイダ "wikilink") [Category:ドメインのレジストラ](https://ja.wikipedia.org/wiki/Category:ドメインのレジストラ "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:日本のサービス業](https://ja.wikipedia.org/wiki/Category:日本のサービス業 "wikilink") [Category:日本のインターネット企業](https://ja.wikipedia.org/wiki/Category:日本のインターネット企業 "wikilink") [Category:1991年設立の企業](https://ja.wikipedia.org/wiki/Category:1991年設立の企業 "wikilink") [Category:1999年上場の企業](https://ja.wikipedia.org/wiki/Category:1999年上場の企業 "wikilink")
 
 1.  [GMO、24時間無料の社員食堂をオープン～福利厚生拡充で託児所も](http://internet.watch.impress.co.jp/docs/news/20110616_453565.html) - InternetWatch Impress (2011年6月16日配信、2011年9月9日閲覧)

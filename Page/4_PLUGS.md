@@ -79,13 +79,13 @@ MOTOKATSU（[宮上元克](../Page/宮上元克.md "wikilink")）は、「やっ
       -
         後にセルフカバーアルバム『[THE MAD CAPSULE MARKET'S](../Page/THE_MAD_CAPSULE_MARKET'S_\(アルバム\).md "wikilink")』（[1996年](../Page/1996年.md "wikilink")）に「POSSESS IN LOOP\!\!\!\!\!\!\!\!\!\! 」のタイトルで収録され、ベストアルバム『[1990-1996](https://ja.wikipedia.org/wiki/1990-1996 "wikilink")』（[2004年](../Page/2004年.md "wikilink")）にも収録されている。
 2.  **CRACK**
-3.  **神歌** - *KAMI-UTA*
+3.  **神KAMI-UTA歌** - *KAMI-UTA*
       -
-        先行シングル。「POSSESS IN LOOP」とともに本格的にラップを取り入れた作品であり、本アルバムを代表する曲。後に至るまでライブで演奏されている。
+        先行シングル。シングルでは「**神歌**」または「**神歌 KAMI-UTA**」表記であったが本作収録以降は「**神KAMI-UTA歌**」表記が基本的に使用される。「POSSESS IN LOOP」とともに本格的にラップを取り入れた作品であり、本アルバムを代表する曲。後に至るまでライブで演奏されている。
 4.  **RUST OFF SYSTEM**
 5.  **WALK\!**
       -
-        全英語詞。後に日本語版としてシングルカットされた（タイトルは「WALK\!-JAPAN MIX-」）。サビ以外が全て日本語に置き換えられている。また、セルフカバーアルバム『THE MAD CAPSULE MARKET'S』に[エイドリアン・シャーウッド](../Page/エイドリアン・シャーウッド.md "wikilink")による[インストゥルメンタル](../Page/器楽曲.md "wikilink")・リミックスが収録されている。
+        全英語詞。後に日本語版としてシングルカットされた（タイトルは「WALK\!-JAPAN MIX-」。サビ以外が全て日本語に置き換えられている）。また、セルフカバーアルバム『THE MAD CAPSULE MARKET'S』に[エイドリアン・シャーウッド](../Page/エイドリアン・シャーウッド.md "wikilink")による[インストゥルメンタル](../Page/器楽曲.md "wikilink")・リミックスが収録されている。
 6.  **ノーマルライフ** - *NORMAL LIFE*
 7.  **ANOTHER PLUG**
 8.  **消毒 S・H・O・D・O・K・U** - *S.H.O.D.O.K.U.*

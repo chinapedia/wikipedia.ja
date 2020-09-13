@@ -109,7 +109,8 @@
 | 2016-17 | チャンピオンシップ                                                                 | 46                                   | 16                                                              | 10                                                           | 20    |
 | 2017-18 | チャンピオンシップ                                                                 | 46                                   | 30                                                              | 9                                                            | 7     |
 | 2018-19 | プレミアリーグ                                                                   | 38                                   | 16                                                              | 9                                                            | 13    |
-| 2019-20 | プレミアリーグ                                                                   | 38                                   |                                                                 |                                                              |       |
+| 2019-20 | プレミアリーグ                                                                   | 38                                   | 15                                                              | 14                                                           | 9     |
+| 2020-21 | プレミアリーグ                                                                   | 38                                   |                                                                 |                                                              |       |
 
 ## 欧州の成績
 
@@ -360,9 +361,19 @@
 <tr class="even">
 <td><p>ラウンド16</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オリンピアコスFC" title="wikilink">オリンピアコス</a></p></td>
-<td></td>
+<td><p>1-0</p></td>
 <td><p>1-1</p></td>
-<td><p>'''</p></td>
+<td><p>'''2-1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>準々決勝</p></td>
+<td><p><a href="../Page/セビージャFC.md" title="wikilink">セビージャ</a></p></td>
+<td><p>'''0-1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -380,9 +391,9 @@
 
 </div>
 
-  - 2020年2月1日現在
+  - 2020年8月30日現在
 
-★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ivory_Coast.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))       ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Mali.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Albania.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Kosovo.svg "wikilink"))
+★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ivory_Coast.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Mali.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))
 
 ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 
@@ -516,7 +527,7 @@
 
   - [アンリ・カマラ](../Page/アンリ・カマラ.md "wikilink") 2003-2005
 
-  - [薛琦鉉](../Page/薛ギ鉉.md "wikilink") 2004-2006
+  - [薛琦鉉](../Page/薛琦鉉.md "wikilink") 2004-2006
 
   - [トーマス・フランコフスキー](../Page/トーマス・フランコフスキー.md "wikilink") 2006-2008
 

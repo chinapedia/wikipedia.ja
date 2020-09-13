@@ -1,9 +1,7 @@
 > この記事は[NTTファシリティーズ](https://ja.wikipedia.org/wiki/NTTファシリティーズ)から翻訳されています。
 
 
-[324px](https://ja.wikipedia.org/wiki/ファイル:Haneda_Airport_Terminal2_MarketPlace.jpg "wikilink")
-
-**株式会社NTTファシリティーズ**（エヌ・ティ・ティファシリティーズ、NTT FACILITIES, INC.）は、日本の[組織系建築設計事務所](../Page/組織系建築設計事務所.md "wikilink")・[エンジニアリング](https://ja.wikipedia.org/wiki/エンジニアリング "wikilink")企業。[NTTグループ](../Page/NTTグループ.md "wikilink")主要8社の一つ。
+**株式会社NTTファシリティーズ**（エヌ・ティ・ティ・ファシリティーズ、）は、日本の[組織系建築設計事務所](../Page/組織系建築設計事務所.md "wikilink")・[エンジニアリング](https://ja.wikipedia.org/wiki/エンジニアリング "wikilink")企業。[NTTグループ](../Page/NTTグループ.md "wikilink")主要8社の一つ。
 
 ## 概要
 
@@ -19,7 +17,7 @@
   - 2013年　[タイ王国](../Page/タイ王国.md "wikilink")Unitorio Technologyを子会社化
   - 2014年　[シンガポール共和国](https://ja.wikipedia.org/wiki/シンガポール共和国 "wikilink")Pro-Matrix、[米国Electronic](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") Environments Corporationを子会社化
 
-## 主な建築作品
+## 主な建築物
 
   - 逓信建築
 
@@ -88,6 +86,8 @@
   - [品川シーズンテラス](https://ja.wikipedia.org/wiki/品川シーズンテラス "wikilink") （2015）\[26\]
   - [MIZKAN MUSEUM](https://ja.wikipedia.org/wiki/博物館「酢の里」 "wikilink") （2015）\[27\]
 
+NTT DoCoMo Yoyogi Building.jpg|NTTドコモ代々木ビル Tokyo Opera City.jpg|東京オペラシティ Toyosu Center Building 001.JPG|豊洲センタービル Grand Front Osaka South Building.JPG|グランフロント大阪 ファイル:Otemachi JA Building 20100618-001.jpg|JAビル ファイル:Haneda Airport Terminal2 MarketPlace.jpg|東京国際空港第2ターミナルビル
+
 ## エンジニアリング事業
 
 ### データセンターエンジニアリング
@@ -144,7 +144,7 @@
   - [渡辺仁](../Page/渡辺仁.md "wikilink")
   - [薬師寺厚](https://ja.wikipedia.org/wiki/薬師寺厚 "wikilink")
   - [國方秀男](https://ja.wikipedia.org/wiki/國方秀男 "wikilink") - 日総建創立者
-  - [高橋靗一](https://ja.wikipedia.org/wiki/高橋靗一 "wikilink") - [大阪芸術大学](../Page/大阪芸術大学.md "wikilink")名誉教授
+  - [高橋靗一](../Page/高橋靗一.md "wikilink") - [大阪芸術大学](../Page/大阪芸術大学.md "wikilink")名誉教授
   - [内田祥哉](https://ja.wikipedia.org/wiki/内田祥哉 "wikilink") - 東京大学名誉教授、第43代[日本建築学会](../Page/日本建築学会.md "wikilink")会長
 
 ## 広告活動

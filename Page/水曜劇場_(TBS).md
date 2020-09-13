@@ -600,7 +600,7 @@
 
 ## 外部リンク
 
-  - [TBSテレビ「ドラマ」](http://www.tbs.co.jp/drama/)
+  - [TBSテレビ「ドラマ」](https://www.tbs.co.jp/drama/)
 
 [Category:水曜劇場_(TBS)](https://ja.wikipedia.org/wiki/Category:水曜劇場_\(TBS\) "wikilink") [Category:TBSのテレビドラマの歴史](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマの歴史 "wikilink")
 

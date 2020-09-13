@@ -7,7 +7,7 @@
 
 [Playboy_magazine_world_map_new.png](https://ja.wikipedia.org/wiki/File:Playboy_magazine_world_map_new.png "fig:Playboy_magazine_world_map_new.png") [ヒュー・ヘフナー](../Page/ヒュー・ヘフナー.md "wikilink")により[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")に発売が開始され、この雑誌の成功により、出版元はあらゆるメディアに広がる Playboy Enterprises, Inc. に成長した。21世紀初頭現在、「プレイボーイ」は世界でも最も良く知られた[ブランド](../Page/ブランド.md "wikilink")のひとつであり、アメリカ合衆国内のPLAYBOY誌だけでなく、各国版が世界各地で発行されている。
 
-同誌はアメリカ人のインテリ層からは、「知的で上品な雑誌」と見られているとデーブ・スペクターも証言している。性の[ヌード写真](../Page/ヌード写真.md "wikilink")に加えて政治、ファッション、スポーツ、[セレブリティ](../Page/セレブリティ.md "wikilink")のトピックや、[アーサー・C・クラーク](../Page/アーサー・C・クラーク.md "wikilink")など著名な作家による短編小説などを掲載。政治上の係争点について「言論の自由」「表現の自由」を重視した[リベラルな見解を表明することでも知られている](https://ja.wikipedia.org/wiki/自由主義 "wikilink")。同誌はアメリカのセックス革命でも重要な役割を果たした\[1\]。また1973年に旅行で渡米した写真家やマスコミ関係者は、当時からPLAYBPOYには女性の性器が写っていたと異口同音に証言しており、その表現の自由重視の姿勢に驚きと感銘を受けたという。 プレイボーイの「趣味のよい」「質の高い」ヌード写真は、プレイボーイのライバル誌である『[ペントハウス](../Page/ペントハウス_\(雑誌\).md "wikilink")』とともに、[1970年代](../Page/1970年代.md "wikilink")から創刊された「[ハードコア](../Page/ハードコア_\(ポルノ\).md "wikilink")」な[ポルノ雑誌](../Page/ポルノ雑誌.md "wikilink")に対して「[ソフトコア](../Page/ソフトコア.md "wikilink")」と分類されることもある。
+同誌はアメリカ人のインテリ層からは、「知的で上品な雑誌」と見られているとデーブ・スペクターも証言している。性の[ヌード写真](../Page/ヌード写真.md "wikilink")に加えて政治、ファッション、スポーツ、[セレブリティ](../Page/セレブリティ.md "wikilink")のトピックや、[アーサー・C・クラーク](../Page/アーサー・C・クラーク.md "wikilink")など著名な作家による短編小説などを掲載。政治上の係争点について「言論の自由」「表現の自由」を重視した[リベラルな見解を表明することでも知られている](https://ja.wikipedia.org/wiki/自由主義 "wikilink")。同誌はアメリカのセックス革命でも重要な役割を果たした\[1\]。また1973年に旅行で渡米した写真家やマスコミ関係者は、当時からPLAYBOYには女性の性器が写っていたと異口同音に証言しており、その表現の自由重視の姿勢に驚きと感銘を受けたという。 プレイボーイの「趣味のよい」「質の高い」ヌード写真は、プレイボーイのライバル誌である『[ペントハウス](../Page/ペントハウス_\(雑誌\).md "wikilink")』とともに、[1970年代](../Page/1970年代.md "wikilink")から創刊された「[ハードコア](../Page/ハードコア_\(ポルノ\).md "wikilink")」な[ポルノ雑誌](../Page/ポルノ雑誌.md "wikilink")に対して「[ソフトコア](../Page/ソフトコア.md "wikilink")」と分類されることもある。
 
 ## 歴史
 
@@ -25,7 +25,7 @@
 
 ### 全米一の男性誌
 
-すぐに2冊目を出す準備を開始し、いつ出るかわからなかったものの、2冊目は5万3千部であった初回を超える売り上げを確保した。1954年に3号目を全米で発行するに当たり、共同編集者に作家のレイ・ラッセル。カメラマン主任に[日系アメリカ人](https://ja.wikipedia.org/wiki/日系アメリカ人 "wikilink")のヴィンス・タジリを採用するなど安定したチームを結成し、さらにヘフナーの家をオフィス代わりに使っていたものを、シカゴの専用のオフィスに移転した。
+すぐに2冊目を出す準備を開始し、いつ出るかわからなかったものの、2冊目は創刊号を超える売り上げを確保した。1954年に3号目を全米で発行するに当たり、共同編集者に作家のレイ・ラッセル。カメラマン主任に[日系アメリカ人](https://ja.wikipedia.org/wiki/日系アメリカ人 "wikilink")のヴィンス・タジリを採用するなど安定したチームを結成し、さらにヘフナーの家をオフィス代わりに使っていたものを、シカゴの専用のオフィスに移転した。
 
 売り上げは3年目には100万部を突破し、これまでの男性誌ではなかった美しいピンナップや洒落たイラスト、プレイメイト（今月の女の子）や中折ピンナップなど、今では当たり前の様々なアイディアを投入した。
 
@@ -67,7 +67,9 @@
 
 一時的な人気低下を乗り越え、ケーブルテレビへや衛星放送などのさまざまな取り組みも成功したのを皮切りに、[1988年](../Page/1988年.md "wikilink")にはヘフナーが引退を表明。ビバリーヒルズの「プレイボーイ・マンション」に隠居する。
 
-同年よりヘフナーの娘である[クリスティー・ヘフナー](https://ja.wikipedia.org/wiki/クリスティー・ヘフナー "wikilink")が「プレイボーイ」社の[CEO](https://ja.wikipedia.org/wiki/CEO "wikilink")に就任した。現在は取締役会長も務める。しかしヘフナーは、「プレイボーイ・マンション」に隠居すると言いつつ、さまざまなメディアに「プレイボーイ」を代表する人物として出演を続けた。
+同年よりヘフナーの娘である[クリスティー・ヘフナー](https://ja.wikipedia.org/wiki/クリスティー・ヘフナー "wikilink")が「プレイボーイ」社の[CEO](https://ja.wikipedia.org/wiki/CEO "wikilink")に就任した。現在はCEO兼取締役会長も務める。
+
+しかしヘフナーは、「プレイボーイ・マンション」に隠居すると言いつつ、さまざまなメディアに「プレイボーイ」を代表する人物として出演を続けた。
 
 ### 50周年記念
 
@@ -89,7 +91,7 @@
 
 [2017年](../Page/2017年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")に、雑誌の創設者であり「プレイボーイ」ブランドを体現する存在のヒュー・ヘフナーが、自宅「プレイボーイ・マンション」で死去した。91歳であった。
 
-2020年3月18日、紙媒体の発行が2020年春号をもって終了することが発表された。なお、オンライン版は今後も継続するという[1](https://hypebeast.com/jp/2020/3/playboy-ends-print-magazine-coronavirus)。
+2020年3月18日、紙媒体の発行が2020年春号をもって終了することが発表された。なお、オンライン版は不定期ながらも今後も継続するという[1](https://hypebeast.com/jp/2020/3/playboy-ends-print-magazine-coronavirus)。
 
 ## 記事
 
@@ -155,7 +157,7 @@ Playmate of the Yearへの対価
 
 ## ロゴ
 
-[タキシード](../Page/タキシード.md "wikilink")の蝶ネクタイをつけた[ウサギ](../Page/ウサギ.md "wikilink")の横顔を図案化した[ロゴ](../Page/ロゴタイプ.md "wikilink")（「ラビットヘッド」）は、[アートデザイナー](https://ja.wikipedia.org/wiki/アートデザイナー "wikilink")のアート・ポールが雑誌2号目のためにデザインしたもの。以来、このロゴは毎号掲載されるようになった。雑誌の表紙やグラビア写真の中にこのロゴをこっそりと忍ばせるお遊びも伝統となっている。ヘフナーは、ウサギには“快活で、遊び心や茶目っ気がある”というイメージから、「ユーモラスであり、セクシーさの象徴」としてウサギを[マスコット](../Page/マスコット.md "wikilink")に選んだと語っている。なお、ウサギは哺乳類の中でもっとも繁殖力の強い生物である。
+[タキシード](../Page/タキシード.md "wikilink")の蝶ネクタイをつけた[ウサギ](../Page/ウサギ.md "wikilink")の横顔を図案化した[ロゴ](../Page/ロゴタイプ.md "wikilink")（「ラビットヘッド」）は、[アートデザイナー](https://ja.wikipedia.org/wiki/アートデザイナー "wikilink")のアート・ポールが雑誌2号目のためにデザインしたもの。以来、このロゴは毎号掲載されるようになった。雑誌の表紙やグラビア写真の中にこのロゴをこっそりと忍ばせるお遊びも伝統となっている。ヘフナーは、ウサギには“快活で、遊び心や茶目っ気がある”というイメージから、「ユーモラスであり、セクシーさの象徴」としてウサギを[マスコット](../Page/マスコット.md "wikilink")に選んだと語っている。ウサギは繁殖力、つまり性欲が強く性行為の暗示的意味があった\[6\]。
 
 このラビットヘッドは色々なジャンルのデザインで採用されている事があり、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")のVX-4飛行隊に属する[F-14トムキャット](../Page/F-14_\(戦闘機\).md "wikilink")、[F-4の尾翼にラビットヘッドが描かれた例がある](../Page/F-4_\(戦闘機\).md "wikilink")（これに関連して、[新谷かおる](../Page/新谷かおる.md "wikilink")原作の漫画『[エリア88](../Page/エリア88.md "wikilink")』の登場人物であるアメリカ海軍出身のミッキー・サイモンのパーソナルマークともなっており、作中F-14の水平尾翼にラビットヘッドが描かれていた）。
 
@@ -185,6 +187,10 @@ Playmate of the Yearへの対価
 
 なお、[サウジアラビア](../Page/サウジアラビア.md "wikilink")や[アラブ首長国連邦](../Page/アラブ首長国連邦.md "wikilink")、シンガポールは、名指しで持ち込み自体が禁止されている。一方で、もともとは[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[植民地](../Page/植民地.md "wikilink")で、現在は中華人民共和国の特別行政区である[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")では制限を受けていない。
 
+## アメリカ合衆国の大手[エージェンシー](https://ja.wikipedia.org/wiki/エージェンシー "wikilink")との関係と契約
+
+PLAYBOYはアメリカ合衆国の大手[エージェンシー](https://ja.wikipedia.org/wiki/エージェンシー "wikilink")の、[クリエイティヴ・アーティスツ・エージェンシー](../Page/クリエイティヴ・アーティスツ・エージェンシー.md "wikilink")（CAA）、[ウィリアム・モリス・エンデヴァー](../Page/ウィリアム・モリス・エンデヴァー・エンターテイメント.md "wikilink")（WME）、[ICMパートナーズ](../Page/ICMパートナーズ.md "wikilink")（ICM）、[ユナイテッド・タレント・エージェンシー](../Page/ユナイテッド・タレント・エージェンシー.md "wikilink")(UTA)との関係とモデルとの契約しているか?
+
 ## 脚注
 
 <references />
@@ -201,14 +207,22 @@ Playmate of the Yearへの対価
   - [ヌードモデル](../Page/ヌードモデル.md "wikilink")
   - [ラリー・フリント](../Page/ラリー・フリント.md "wikilink")
   - [表現の自由](https://ja.wikipedia.org/wiki/表現の自由 "wikilink")
+  - [娯楽](https://ja.wikipedia.org/wiki/娯楽 "wikilink")、[雑誌](../Page/雑誌.md "wikilink")
+  - [ショービジネス](https://ja.wikipedia.org/wiki/ショービジネス "wikilink")
+  - アメリカ合衆国の大手[エージェンシー](https://ja.wikipedia.org/wiki/エージェンシー "wikilink")
+      - [クリエイティヴ・アーティスツ・エージェンシー](../Page/クリエイティヴ・アーティスツ・エージェンシー.md "wikilink")（CAA）
+      - [ウィリアム・モリス・エンデヴァー](../Page/ウィリアム・モリス・エンデヴァー・エンターテイメント.md "wikilink")（WME）
+      - [ICMパートナーズ](../Page/ICMパートナーズ.md "wikilink")（ICM）
+      - [ユナイテッド・タレント・エージェンシー](../Page/ユナイテッド・タレント・エージェンシー.md "wikilink")(UTA)
 
 ## 外部リンク
 
   -
-[Category:Playboy](https://ja.wikipedia.org/wiki/Category:Playboy "wikilink") [Category:アメリカ合衆国の雑誌](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の雑誌 "wikilink") [Category:アダルト雑誌](https://ja.wikipedia.org/wiki/Category:アダルト雑誌 "wikilink") [Category:男性誌](https://ja.wikipedia.org/wiki/Category:男性誌 "wikilink") [Category:1953年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1953年創刊の雑誌 "wikilink")
+[Category:Playboy](https://ja.wikipedia.org/wiki/Category:Playboy "wikilink") [Category:アメリカ合衆国の雑誌](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の雑誌 "wikilink") [Category:アダルト雑誌](https://ja.wikipedia.org/wiki/Category:アダルト雑誌 "wikilink") [Category:男性誌](https://ja.wikipedia.org/wiki/Category:男性誌 "wikilink") [Category:1953年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1953年創刊の雑誌 "wikilink") [Category:2020年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2020年休廃刊の雑誌 "wikilink")
 
 1.  "Why America loved Playboy". BBC News. October 14, 2015. Retrieved February 14, 2016.
 2.  Playboy Collector's Association Playboy Magazine Price Guide
 3.
 4.
 5.
+6.

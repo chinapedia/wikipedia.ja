@@ -162,7 +162,7 @@
 ## 出演者
 
   - 司会：[関口宏](../Page/関口宏.md "wikilink")、[三宅裕司](../Page/三宅裕司.md "wikilink")（1996年3月までは「進行」）
-  - レギュラーパネラー：[神田うの](../Page/神田うの.md "wikilink")（「噂」のみ）、[草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")（「新」では6枠="E"席）、[山田五郎](../Page/山田五郎.md "wikilink")（「新」では7枠="T席"）
+  - レギュラーパネラー：[神田うの](../Page/神田うの.md "wikilink")（「噂」のみ）、[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")（「新」では6枠="E"席）、[山田五郎](../Page/山田五郎.md "wikilink")（「新」では7枠="T席"）
   - ナレーション：[森田めぐみ](../Page/森田めぐみ.md "wikilink")、[大山尚雄](../Page/大山尚雄.md "wikilink")、[デイヴ・フロム](https://ja.wikipedia.org/wiki/デイヴ・フロム "wikilink")、[野田圭一](../Page/野田圭一.md "wikilink")、[武田広](../Page/武田広.md "wikilink")
 
 ## スタッフ

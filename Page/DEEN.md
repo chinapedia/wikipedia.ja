@@ -65,15 +65,15 @@
 
 ### サポートメンバー
 
-  - <span id="宮野和也">宮野和也</span> - ベース 98年のBreak2ツアー～2018年の日本武道館ライブまで参加。ライブへのサポート参加以降のレコーディングへの参加は曲ごとであったが06年のアルバム『Diamonds』以降ほぼ固定となった。
+  - <span id="宮野和也">宮野和也</span> - ベース 98年のBreak2ツアー～2018年の日本武道館ライブまで参加。ライブへのサポート参加以降のレコーディングへの参加は曲ごとであったが06年のアルバム『Diamonds』以降ほぼ固定となっていた。
   - 藤沼啓二-ドラム 宇津本直紀脱退後2000年のレコーディングとツアーBreak5に参加。
   - <span id="HIDE">HIDE（小林秀樹）</span> - ドラム 女性ボーカルバンド[can/goo](https://ja.wikipedia.org/wiki/can/goo "wikilink")のドラマー。02年の和音ツアー～2018年の日本武道館ライブまで参加。ライブへのサポート参加以降のレコーディングへの参加は曲ごとであったが06年のアルバム『Diamonds』以降ほぼ固定となった。2代目ギタリスト田川伸治のギターインストバンド「THE SONIC TRICK」のドラムも担当していた。
-  - <span id="侑音">侑音</span> - ギター 田川伸治脱退後のサポートギター。楽曲のアレンジも担当している。
+  - <span id="侑音">侑音</span> - ギター 2018年田川伸治脱退後のサポートギター。楽曲のアレンジも担当している。
 
 <!-- end list -->
 
   - <span id="石田純">石田純</span> - ベース
-  - <span id="矢野顕太郎">矢野顕太郎</span> - ドラム 田川脱退と共に宮野・HIDEも田川のソロ活動のサポートへと帯同したためベース・ドラムのサポートメンバーも一新された。
+  - <span id="矢野顕太郎">矢野顕太郎</span> - ドラム 2018年以降のサポートメンバー。田川脱退と共に宮野・HIDEも田川のソロ活動のサポートへと帯同したためベース・ドラムのサポートメンバーも一新された。
 
 ### 元メンバー
 
@@ -742,6 +742,7 @@ ESCL-5157</p></td>
 <td><p>タイトル</p></td>
 <td><p>楽曲制作</p></td>
 <td><p>最高位</p></td>
+<td><p>推定売上枚数</p></td>
 <td><p>収録アルバム</p></td>
 </tr>
 <tr class="even">
@@ -753,6 +754,7 @@ ESCL-5157</p></td>
 作曲:<a href="../Page/山根公路.md" title="wikilink">山根公路</a><br />
 編曲:<a href="../Page/池田大介_(編曲家).md" title="wikilink">池田大介</a>・DEEN</p></td>
 <td><p>18位</p></td>
+<td><p>　5.4万枚</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/pray_(DEENのアルバム)" title="wikilink">pray</a></strong></p></td>
 </tr>
 <tr class="odd">
@@ -764,6 +766,7 @@ ESCL-5157</p></td>
 作曲:DEEN<br />
 編曲:DEEN</p></td>
 <td><p>16位</p></td>
+<td><p>　 4.1万枚</p></td>
 <td><p><strong><a href="../Page/DEEN_The_Best_Classics.md" title="wikilink">DEEN The Best Classics</a></strong></p></td>
 </tr>
 <tr class="even">
@@ -775,6 +778,7 @@ ESCL-5157</p></td>
 作曲:<a href="../Page/山根公路.md" title="wikilink">山根公路</a><br />
 編曲:山根公路</p></td>
 <td><p>29位</p></td>
+<td><p>　 0.7万枚</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -787,6 +791,7 @@ BVCR-19096</p></td>
 作曲:<a href="../Page/山根公路.md" title="wikilink">山根公路</a><br />
 編曲:山根公路</p></td>
 <td><p>30位</p></td>
+<td><p>0.8万枚</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1187,31 +1192,31 @@ BVCL-145~146</p></td>
 <tr class="even">
 <td><p>1st</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/11月24日.md" title="wikilink">11月24日</a></p></td>
-<td><p><strong>ALL TIME LIVE BEST【DIGITAL ONLY I】 ＜2009日本武道館＞</strong><br />
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ALL_TIME_LIVE_BEST#ALL_TIME_LIVE_BEST【DIGITAL_ONLY_I】" title="wikilink">ALL TIME LIVE BEST【DIGITAL ONLY I】</a> ＜2009日本武道館＞</strong><br />
 </p></td>
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/12月1日.md" title="wikilink">12月1日</a></p></td>
-<td><p><strong>ALL TIME LIVE BEST【DIGITAL ONLY II】 ＜2006東京厚生年金会館-1＞</strong><br />
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ALL_TIME_LIVE_BEST#ALL_TIME_LIVE_BEST【DIGITAL_ONLY_II】" title="wikilink">ALL TIME LIVE BEST【DIGITAL ONLY II】</a> ＜2006東京厚生年金会館-1＞</strong><br />
 </p></td>
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/12月8日.md" title="wikilink">12月8日</a></p></td>
-<td><p><strong>ALL TIME LIVE BEST【DIGITAL ONLY III】 ＜2006東京厚生年金会館-2+2008日本武道館＞</strong><br />
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ALL_TIME_LIVE_BEST#ALL_TIME_LIVE_BEST【DIGITAL_ONLY_III】" title="wikilink">ALL TIME LIVE BEST【DIGITAL ONLY III】</a> ＜2006東京厚生年金会館-2+2008日本武道館＞</strong><br />
 </p></td>
 </tr>
 <tr class="odd">
 <td><p>4th</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/12月15日.md" title="wikilink">12月15日</a></p></td>
-<td><p><strong>ALL TIME LIVE BEST【DIGITAL ONLY IV】 ＜2008ZEPP TOKYO-1＞</strong><br />
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ALL_TIME_LIVE_BEST#ALL_TIME_LIVE_BEST【DIGITAL_ONLY_IV】" title="wikilink">ALL TIME LIVE BEST【DIGITAL ONLY IV】</a> ＜2008ZEPP TOKYO-1＞</strong><br />
 </p></td>
 </tr>
 <tr class="even">
 <td><p>5th</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/12月22日.md" title="wikilink">12月22日</a></p></td>
-<td><p><strong>ALL TIME LIVE BEST【DIGITAL ONLY V】 ＜2008ZEPP TOKYO-2＋カウントダウン＞</strong><br />
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ALL_TIME_LIVE_BEST#ALL_TIME_LIVE_BEST【DIGITAL_ONLY_V】" title="wikilink">ALL TIME LIVE BEST【DIGITAL ONLY V】</a> ＜2008ZEPP TOKYO-2＋カウントダウン＞</strong><br />
 </p></td>
 </tr>
 <tr class="odd">
@@ -1264,8 +1269,8 @@ ESBL-2373 (DVD)</p></td>
 <td><p>4th</p></td>
 <td><p>ESXL-152 (BD)<br />
 ESBL-2534 (DVD)</p></td>
-<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/7月25日.md" title="wikilink">7月25日</a></p></td>
-<td><p><strong>THE GREATEST CLIPS 2014-2017</strong></p></td>
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/7月18日.md" title="wikilink">7月18日</a></p></td>
+<td><p><strong><a href="../Page/THE_GREATEST_CLIPS_2014-2017.md" title="wikilink">THE GREATEST CLIPS 2014-2017</a></strong></p></td>
 <td><p>29位 (BD)<br />
 60位 (DVD)</p></td>
 </tr>
@@ -1309,7 +1314,7 @@ BVBR-11006 (DVD)<br />
 BVBR-11085 (DVD再発※トールケース仕様)</p></td>
 <td><p>2001年6月6日 (DVD/VHS)<br />
 2007年5月23日 (DVD再発)</p></td>
-<td><p><strong>on &amp; off 〜tour document of 'need love〜</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/on_&amp;_off_〜tour_document_of_&#39;need_love〜" title="wikilink">on &amp; off 〜tour document of 'need love〜</a></strong></p></td>
 <td><p>22位 (DVD)<br />
 192位 (DVD再発)</p></td>
 </tr>
@@ -1320,7 +1325,7 @@ BVBR-11016 (DVD)<br />
 BVBR-11086 (DVD再発※トールケース仕様)</p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/11月20日.md" title="wikilink">11月20日</a> (DVD/VHS)<br />
 2007年5月23日 (DVD再発)</p></td>
-<td><p><strong>on &amp; off 〜document of unplugged live&amp;recordings〜</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/on_&amp;_off_〜document_of_unplugged_live_&amp;_recordings〜" title="wikilink">on &amp; off 〜document of unplugged live &amp; recordings〜</a></strong></p></td>
 <td><p>50位 (DVD)<br />
 205位 (DVD再発)</p></td>
 </tr>
@@ -1365,7 +1370,7 @@ BVBR-11086 (DVD再発※トールケース仕様)</p></td>
 BVXR-11102 (BD)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/12月10日.md" title="wikilink">12月10日</a> (DVD)<br />
 <a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/2月25日.md" title="wikilink">2月25日</a> (BD)</p></td>
-<td><p><strong>DEEN at 武道館 "NO CUT" 〜15th Anniversary Perfect Singles Live〜</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/DEEN_at_武道館〜15th_Anniversary_Greatest_Singles_Live〜#DEEN_at_武道館_&quot;NO_CUT&quot;_〜15th_Anniversary_Perfect_Singles_Live〜" title="wikilink">DEEN at 武道館 "NO CUT" 〜15th Anniversary Perfect Singles Live〜</a></strong></p></td>
 <td><p>27位 (DVD)</p></td>
 </tr>
 <tr class="odd">
@@ -1413,9 +1418,9 @@ BVBL-88 (DVD)</p></td>
 ESBL-2354~5 (DVD)<br />
 ESBL-2356~7 (DVD)</p></td>
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/2月26日.md" title="wikilink">2月26日</a></p></td>
-<td><p><strong>DEEN at 武道館 〜20th Anniversary〜 <COMPLETE></strong><br />
-<strong>DEEN at 武道館 〜20th Anniversary〜 <DAY ONE></strong><br />
-<strong>DEEN at 武道館 〜20th Anniversary〜 <DAY TWO></strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/DEEN_at_武道館_〜20th_Anniversary〜#DEEN_at_武道館_〜20th_Anniversary〜_&lt;COMPLETE&gt;" title="wikilink">DEEN at 武道館 〜20th Anniversary〜 <COMPLETE></a></strong><br />
+<strong><a href="https://ja.wikipedia.org/wiki/DEEN_at_武道館_〜20th_Anniversary〜#DEEN_at_武道館_〜20th_Anniversary〜_&lt;DAY_ONE&gt;" title="wikilink">DEEN at 武道館 〜20th Anniversary〜 <DAY ONE></a></strong><br />
+<strong><a href="https://ja.wikipedia.org/wiki/DEEN_at_武道館_〜20th_Anniversary〜#DEEN_at_武道館_〜20th_Anniversary〜_&lt;DAY_TWO&gt;" title="wikilink">DEEN at 武道館 〜20th Anniversary〜 <DAY TWO></a></strong></p></td>
 <td><p>6位 (BD)<br />
 14位 (DVD)<br />
 15位 (DVD)</p></td>
@@ -1452,7 +1457,7 @@ ESBL-2471~2 (DVD)</p></td>
 <td><p>ESXL-130~1 (BD)<br />
 ESBL-2501 (DVD)</p></td>
 <td><p>2017年<a href="../Page/12月27日.md" title="wikilink">12月27日</a></p></td>
-<td><p><strong>DEEN JAPAN PARADE 47 〜絆〜</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/DEEN_JAPAN_PARADE_47_〜絆〜" title="wikilink">DEEN JAPAN PARADE 47 〜絆〜</a></strong></p></td>
 <td><p>32位 (BD)<br />
 70位 (DVD)</p></td>
 </tr>
@@ -1461,7 +1466,7 @@ ESBL-2501 (DVD)</p></td>
 <td><p>ESXL-146~8 (BD)<br />
 ESBL-2529~30 (DVD)</p></td>
 <td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/6月20日.md" title="wikilink">6月20日</a></p></td>
-<td><p><strong>DEEN at BUDOKAN FOREVER 〜25th Anniversary〜</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/DEEN_at_BUDOKAN_FOREVER_〜25th_Anniversary〜" title="wikilink">DEEN at BUDOKAN FOREVER 〜25th Anniversary〜</a></strong></p></td>
 <td><p>19位 (BD)<br />
 17位 (DVD)</p></td>
 </tr>

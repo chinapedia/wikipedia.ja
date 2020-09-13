@@ -20,7 +20,7 @@
 
 ## メンバー
 
-  - [ギター](../Page/ギター.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")：**[磯部正文](https://ja.wikipedia.org/wiki/磯部正文 "wikilink")**（いそべ まさふみ、[1972年](../Page/1972年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink") - ）[広島県](../Page/広島県.md "wikilink")出身。[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。既婚。娘一人。
+  - [ギター](../Page/ギター.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")：**[磯部正文](https://ja.wikipedia.org/wiki/磯部正文 "wikilink")**（いそべ まさふみ、[1972年](../Page/1972年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink") - ）[広島県](../Page/広島県.md "wikilink")出身。[血液型](../Page/ABO式血液型.md "wikilink")[AB型](../Page/ABO式血液型.md "wikilink")。既婚。娘一人。
 
 <!-- end list -->
 
@@ -42,7 +42,7 @@
 
 <!-- end list -->
 
-  - ベース：**工藤哲也**（くどう てつや、[1973年](../Page/1973年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink") - ）[大分県](../Page/大分県.md "wikilink")[大分市](../Page/大分市.md "wikilink")出身。血液型[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+  - ベース：**工藤哲也**（くどう てつや、[1973年](../Page/1973年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink") - ）[大分県](../Page/大分県.md "wikilink")[大分市](../Page/大分市.md "wikilink")出身。血液型[O型](../Page/ABO式血液型.md "wikilink")。
 
 <!-- end list -->
 
@@ -1403,7 +1403,7 @@ TYCN-80015:SHM-CD</p></td>
 
   - [所属事務所サイト](http://www.ini-ini.com/ini/huskin.html)
 
-[Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:ポップ・パンク・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・パンク・バンド "wikilink") [Category:パワー・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:パワー・ポップ・バンド "wikilink") [Category:エモ・バンド](https://ja.wikipedia.org/wiki/Category:エモ・バンド "wikilink") [Category:トイズファクトリーのアーティスト](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
+[Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のポップ・ロック・バンド "wikilink") [Category:ポップ・パンク・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・パンク・バンド "wikilink") [Category:パワー・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:パワー・ポップ・バンド "wikilink") [Category:エモ・バンド](https://ja.wikipedia.org/wiki/Category:エモ・バンド "wikilink") [Category:トイズファクトリーのアーティスト](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
 
 1.  PIZZAは現在の[横山健](../Page/横山健.md "wikilink")（[Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")）が運営しているものと違い、当時まだなじみのなかったPUNKをリリースするためのいわば名前だけの存在だった。
 2.  [HUSKING BEEから岸野一と山崎聖之が脱退、新メンバーにテッキン - 音楽ナタリー](http://natalie.mu/music/news/174825)2016年4月

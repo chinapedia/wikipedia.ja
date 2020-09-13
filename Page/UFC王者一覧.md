@@ -242,14 +242,15 @@
 <td><p>2018年7月7日 - 2019年8月17日</p></td>
 <td><p>1</p></td>
 <td><p>スティーペ・ミオシッチとの王座戦により獲得<br />
-○ <a href="https://ja.wikipedia.org/wiki/デリック・ルイス" title="wikilink">デリック・ルイス</a>（UFC 230）</p></td>
+○ <a href="https://ja.wikipedia.org/wiki/デリック・ルイス" title="wikilink">デリック・ルイス</a>（<a href="https://ja.wikipedia.org/wiki/UFC_230" title="wikilink">UFC 230</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>21</p></td>
 <td><p>スティーペ・ミオシッチ</p></td>
 <td><p>2019年8月17日 - 現在</p></td>
-<td><p>0</p></td>
-<td><p>ダニエル・コーミエとの王座戦により獲得</p></td>
+<td><p>1</p></td>
+<td><p>ダニエル・コーミエとの王座戦により獲得<br />
+○ ダニエル・コーミエ（<a href="../Page/UFC_252.md" title="wikilink">UFC 252</a>）</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -435,7 +436,7 @@
 <tr class="odd">
 <td><p>14</p></td>
 <td><p>ジョン・ジョーンズ</p></td>
-<td><p>2018年12月29日 - 現在</p></td>
+<td><p>2018年12月29日 - 2020年8日18日</p></td>
 <td><p>3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アレクサンダー・グスタフソン" title="wikilink">アレクサンダー・グスタフソン</a>との王座決定戦により獲得<br />
 ○ <a href="https://ja.wikipedia.org/wiki/アンソニー・スミス_(格闘家)" title="wikilink">アンソニー・スミス</a>（<a href="https://ja.wikipedia.org/wiki/UFC_235" title="wikilink">UFC 235</a>）<br />
@@ -443,6 +444,13 @@
 ○ <a href="https://ja.wikipedia.org/wiki/ドミニク・レイエス" title="wikilink">ドミニク・レイエス</a>（<a href="../Page/UFC_247.md" title="wikilink">UFC 247</a>）</p></td>
 </tr>
 <tr class="even">
+<td><p>-</p></td>
+<td><p>空位</p></td>
+<td><p>2020年8月18日 - 現在</p></td>
+<td><p>-</p></td>
+<td><p>ジョーンズのライトヘビー級王座返上により空位</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -749,9 +757,10 @@ UFC 31にて旧ライト級から現在の階級区分へ変更。
 <td><p>12</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カマル・ウスマン" title="wikilink">カマル・ウスマン</a></p></td>
 <td><p>2019年3月2日 - 現在</p></td>
-<td><p>1</p></td>
+<td><p>2</p></td>
 <td><p>タイロン・ウッドリーとの王座戦により獲得<br />
-○ コルビー・コヴィントン（<a href="../Page/UFC_245.md" title="wikilink">UFC 245</a>）</p></td>
+○ コルビー・コヴィントン（<a href="../Page/UFC_245.md" title="wikilink">UFC 245</a>）<br />
+○ <a href="../Page/ホルヘ・マスヴィダル.md" title="wikilink">ホルヘ・マスヴィダル</a>（<a href="../Page/UFC_251.md" title="wikilink">UFC 251</a>）</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1002,8 +1011,9 @@ UFC 31にて旧バンタム級から現在の階級区分へ変更。
 <td><p>5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アレクサンダー・ヴォルカノフスキー" title="wikilink">アレクサンダー・ヴォルカノフスキー</a></p></td>
 <td><p>2019年12月14日 - 現在</p></td>
-<td><p>0</p></td>
-<td><p>マックス・ホロウェイとの王座戦により獲得</p></td>
+<td><p>1</p></td>
+<td><p>マックス・ホロウェイとの王座戦により獲得<br />
+○ <a href="https://ja.wikipedia.org/wiki/マックス・ホロウェイ" title="wikilink">マックス・ホロウェイ</a>（<a href="../Page/UFC_251.md" title="wikilink">UFC 251</a>）</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -1105,16 +1115,16 @@ UFC 31にて旧バンタム級から現在の階級区分へ変更。
 <tr class="even">
 <td><p>-</p></td>
 <td><p>空位</p></td>
-<td><p>2020年5月24日 - 現在</p></td>
+<td><p>2020年5月24日 - 2020年7月11日</p></td>
 <td><p>-</p></td>
 <td><p>セフードの王座返上により空位</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>8</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ピョートル・ヤン" title="wikilink">ピョートル・ヤン</a></p></td>
+<td><p>2020年7月11日 - 現在</p></td>
+<td><p>0</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジョゼ・アルド" title="wikilink">ジョゼ・アルド</a>との王座決定戦により獲得</p></td>
 </tr>
 </tbody>
 </table>
@@ -1161,11 +1171,18 @@ UFC 31にて旧バンタム級から現在の階級区分へ変更。
 <tr class="odd">
 <td><p>-</p></td>
 <td><p>空位</p></td>
-<td><p>　　　　 2020年2月29日 - 現在</p></td>
+<td><p>　　　　 2020年2月29日 - 2020年7月19日</p></td>
 <td><p>-</p></td>
 <td><p>セフードのバンタム級王座獲得によるフライ級王座返上により空位</p></td>
 </tr>
 <tr class="even">
+<td><p>3</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/デイブソン・フィゲイレード" title="wikilink">デイブソン・フィゲイレード</a></p></td>
+<td><p>2020年7月19日 - 現在</p></td>
+<td><p>0</p></td>
+<td><p>ジョセフ・ベナビデスとの王座戦により獲得</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1231,8 +1248,9 @@ UFC 31にて旧バンタム級から現在の階級区分へ変更。
 <td><p>3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アマンダ・ヌネス" title="wikilink">アマンダ・ヌネス</a></p></td>
 <td><p>2018年12月29日 - 現在</p></td>
-<td><p>0</p></td>
-<td><p>クリスチャン・サイボーグとの王座戦により獲得</p></td>
+<td><p>1</p></td>
+<td><p>クリスチャン・サイボーグとの王座戦により獲得<br />
+○ <a href="https://ja.wikipedia.org/wiki/フェリシア・スペンサー" title="wikilink">フェリシア・スペンサー</a>（<a href="../Page/UFC_250.md" title="wikilink">UFC 250</a>）</p></td>
 </tr>
 <tr class="odd">
 <td></td>

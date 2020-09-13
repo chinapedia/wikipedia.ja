@@ -39,7 +39,7 @@
   - [NASCAR](../Page/NASCAR.md "wikilink")
   - [任天堂](../Page/任天堂.md "wikilink")
   - オリンピックゲーム
-  - [ピーナッツ](https://ja.wikipedia.org/wiki/ピーナッツ_\(漫画\) "wikilink")
+  - [ピーナッツ](../Page/ピーナッツ_\(漫画\).md "wikilink")
   - ペッツパル
   - ペッツパル 2
   - ピープル

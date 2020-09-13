@@ -12,7 +12,7 @@
   - 本名：**河田 貴正**。旧芸名：貴一。
   - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。
   - [ツッコミ](https://ja.wikipedia.org/wiki/ツッコミ "wikilink")担当、立ち位置は向かって左。
-  - 血液型[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+  - 血液型[A型](../Page/ABO式血液型.md "wikilink")。
   - 箱根・[強羅](https://ja.wikipedia.org/wiki/強羅 "wikilink")にある老舗旅館「早雲閣」\[1\]の長男。
   - 酒が全く飲めない。
   - 一旦語りだしたらなかなか止まらない。

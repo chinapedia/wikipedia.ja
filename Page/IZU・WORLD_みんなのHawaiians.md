@@ -27,7 +27,7 @@
 
 ## 外部リンク
 
-  - [IZU・WORLD みんなのHawaiians公式サイト](http://web.archive.org/web/20170911134555/http://www.izu-hawaiians.com)（Internet Archive）
+  - [IZU・WORLD みんなのHawaiians公式サイト](https://web.archive.org/web/20170911134555/http://www.izu-hawaiians.com)（Internet Archive）
 
 [Category:伊豆の国市の歴史](https://ja.wikipedia.org/wiki/Category:伊豆の国市の歴史 "wikilink")
 

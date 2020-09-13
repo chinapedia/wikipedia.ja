@@ -5,7 +5,7 @@
 
 [1992年](../Page/1992年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")に[キューン・ソニーレコード](../Page/キューンミュージック.md "wikilink")／トレフォートよりリリースされた。
 
-帯のキャッチコピーは「**空手のマネして新聞配る-これ究極のKARATEKAなり。<small>ポップにヒート・アップした電気GROOVEのサード・アルバム。</small>**」（これはメンバー自ら考案したものではない）。このアルバムから以前まで歌詞カードに記載されていた収録曲の[BPM表記が無くなる](../Page/テンポ.md "wikilink")。
+帯のキャッチコピーは「**空手のマネして新聞配る-これ究極のKARATEKAなり。ポップにヒート・アップした電気GROOVEのサード・アルバム。**」（これはメンバー自ら考案したものではない）。<small>このアルバムから以前まで歌詞カードに記載されていた収録曲の[BPM表記が無くなる](../Page/テンポ.md "wikilink")。</small>
 
 ## 解説
 
@@ -22,7 +22,7 @@
         歌詞は無謀な[ダイエット](https://ja.wikipedia.org/wiki/ダイエット "wikilink")に励む女に対しての揶揄。タイトルの由来は[レジデンツ](../Page/レジデンツ.md "wikilink")のサポート・ギタリストだった[Snakefingerから名づけられている](https://ja.wikipedia.org/wiki/:en:Snakefinger "wikilink")。
 2.  **Twist Of The World**
       -
-        「[まんが日本史](../Page/まんが日本史_\(NHK\).md "wikilink")」（[NHK教育テレビ](../Page/NHK教育テレビジョン.md "wikilink")）オープニング・テーマ。アルバムでは歌詞が変更され、体だけが目的で女と付き合う男の歌になっている。[エコー&ザ・バニーメン](../Page/エコー&ザ・バニーメン.md "wikilink")をサンプリングしている。
+        『[まんが日本史](../Page/まんが日本史_\(NHK\).md "wikilink")』（[NHK教育テレビ](../Page/NHK教育テレビジョン.md "wikilink")）オープニング・テーマ。アルバムでは歌詞が変更され、体だけが目的で女と付き合う男の歌になっている。[エコー&ザ・バニーメン](../Page/エコー&ザ・バニーメン.md "wikilink")の「The Cutter」をサンプリングしている。その為か音楽配信サービスのアルバムでは収録されていない\[1\]。
 3.  **ザ・ケトルマン** - *The Kettle Man*
       -
         [禿げている人達を題材とした曲である](../Page/ハゲ.md "wikilink")。
@@ -37,7 +37,7 @@
         [ゲーマー](../Page/ゲーマー.md "wikilink")及び[ゲームセンター](../Page/ゲームセンター.md "wikilink")を題材とした曲。[9-10-Boy](https://ja.wikipedia.org/wiki/9-10-Boy "wikilink")の「Robocop」をサンプリングしているが、卓球が[マイク・ヴァン・ダイク](../Page/マイク・ヴァン・ダイク.md "wikilink")と出会ってから彼の作品であることが発覚し、「訴えないで」と事後承諾を取った。
 7.  **デマリンピック** - *Demalynpic*
       -
-        曲の最後に入る瀧の歌は即興で歌詞をつけて歌ったもの。後に没にされたテイクがラジオ番組『[電気グルーヴのオールナイトニッポン](../Page/電気グルーヴのオールナイトニッポン.md "wikilink")』で披露されている。
+        曲の最後に入る瀧の歌は即興で歌詞をつけて歌ったもの。後に没にされたテイクがラジオ番組『[電気グルーヴのオールナイトニッポン](../Page/電気グルーヴのオールナイトニッポン.md "wikilink")』（[ニッポン放送](../Page/ニッポン放送.md "wikilink")）で披露されている。
 8.  **KARATEKA**
       -
         [インスト曲](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")。俳優の[熊倉一雄](../Page/熊倉一雄.md "wikilink")がナレーションで参加している。
@@ -55,7 +55,13 @@
 
   - **Triolet** - [コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")（1,5,6,10曲目）
   - **[ブラボー小松](https://ja.wikipedia.org/wiki/ブラボー小松 "wikilink")** - [ギター](../Page/ギター.md "wikilink")（4,9曲目）
-  - **熊倉一雄** - [ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")（8,11曲目）
+  - **[熊倉一雄](../Page/熊倉一雄.md "wikilink")** - [ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")（8,11曲目）
   - **[森若香織](../Page/森若香織.md "wikilink")** - コーラス（9曲目）
 
+## 脚注
+
+### 注釈
+
 [Category:電気グルーヴのアルバム](https://ja.wikipedia.org/wiki/Category:電気グルーヴのアルバム "wikilink") [Category:1992年のアルバム](https://ja.wikipedia.org/wiki/Category:1992年のアルバム "wikilink") [Category:キューンミュージックのアルバム](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアルバム "wikilink")
+
+1.

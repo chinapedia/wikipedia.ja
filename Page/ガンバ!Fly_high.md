@@ -3,7 +3,7 @@
 
 『**ガンバ\! Fly high**』（ガンバ フライハイ）は、原作：[森末慎二](../Page/森末慎二.md "wikilink")、作画：[菊田洋之](../Page/菊田洋之.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[体操](../Page/体操競技.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")である。『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")』（[小学館](../Page/小学館.md "wikilink")）にて、1994年から2000年まで約6年間連載された。単行本全34巻に短編集を含めた[外伝](../Page/外伝.md "wikilink")が1冊ある。原作担当の森末は、[ロサンゼルスオリンピックの金メダリストである](../Page/1984年ロサンゼルスオリンピック.md "wikilink")。第43回（平成9年度）[小学館漫画賞](../Page/小学館漫画賞.md "wikilink")少年部門受賞作品。中国語や韓国語にも翻訳され、出版されている。
 
-『**ガンバリスト\! 駿**』（ガンバリスト しゅん）のタイトルで、[読売テレビを制作局として](../Page/讀賣テレビ放送.md "wikilink")[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列](../Page/日本テレビネットワーク協議会.md "wikilink")（[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")、[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")を除く）で[1996年](../Page/1996年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月10日](../Page/3月10日.md "wikilink")にかけてテレビアニメとして放送された。製作は[サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")。全30話。
+『**ガンバリスト\! 駿**』（ガンバリスト しゅん）のタイトルで、[読売テレビを制作局として](../Page/讀賣テレビ放送.md "wikilink")[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列](../Page/日本テレビネットワーク協議会.md "wikilink")（[四国放送](../Page/四国放送.md "wikilink")、[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")を除く）で[1996年](../Page/1996年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月10日](../Page/3月10日.md "wikilink")にかけてテレビアニメとして放送された。製作は[サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")。全30話。
 
 ## 概要
 
@@ -549,7 +549,7 @@
 
 ## 書誌情報
 
-『ガンバ\!Fly high』（[森末慎二](../Page/森末慎二.md "wikilink")・[菊田洋之](../Page/菊田洋之.md "wikilink")）は[小学館](../Page/小学館.md "wikilink")・少年サンデーコミックスから発売されている。全34巻。カバー折り返しでは、第1巻から第8巻までは森末慎二のロス五輪に纏わる私物が紹介され、第9巻からは「体操選手名鑑」として実在の体操選手が紹介されている。
+[小学館](../Page/小学館.md "wikilink")・少年サンデーコミックス、全34巻。カバー折り返しでは、第1巻から第8巻までは森末慎二のロス五輪に纏わる私物が紹介され、第9巻からは「体操選手名鑑」として実在の体操選手が紹介されている。
 
 <div class="NavFrame" style="clear: both; border: 0px;">
 

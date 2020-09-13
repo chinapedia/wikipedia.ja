@@ -32,7 +32,7 @@
   - [サクソン](../Page/サクソン.md "wikilink")（SAXON）
   - [サムソン](../Page/サムソン_\(バンド\).md "wikilink")（SAMSON）
   - スイート サヴェージ（SWEET SAVAGE）
-  - セイタン（SATAN）
+  - [セイタン](../Page/セイタン_\(バンド\).md "wikilink")（SATAN）
   - [タイガース・オブ・パンタン](https://ja.wikipedia.org/wiki/タイガース・オブ・パンタン "wikilink")（TYGERS OF PAN TANG）
   - [タイタン](https://ja.wikipedia.org/wiki/タイタン_\(バンド\) "wikilink")（TYTAN）
   - [ダイアモンド・ヘッド](https://ja.wikipedia.org/wiki/ダイアモンド・ヘッド_\(バンド\) "wikilink")（DIAMOND HEAD）

@@ -396,7 +396,7 @@
 
 ## 外部リンク
 
-  - [Whiteberry](http://www.sonymusic.co.jp/Music/Info/whiteberry/) - [ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")による公式ページ。
+  - [Whiteberry](https://www.sonymusic.co.jp/artist/Whiteberry/) - [ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")による公式ページ。
 
   -
   - 前田有嬉・所属事務所 [MUTOWN ENTERTAINMENT](http://do-t.jp/mutown/)

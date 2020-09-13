@@ -1,7 +1,7 @@
 > この記事は[SE7EN](https://ja.wikipedia.org/wiki/SE7EN)から翻訳されています。
 
 
-**SE7EN**（セブン、[1984年](../Page/1984年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink") - ）は、[韓国の](../Page/大韓民国.md "wikilink")[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")[歌手](../Page/歌手.md "wikilink")。本国の他に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[タイ](../Page/タイ王国.md "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")などアジア各国で活躍している。本国での所属事務所は[ELEVEN9](https://ja.wikipedia.org/wiki/ELEVEN9 "wikilink")。日本での所属レコード会社は[Victor](https://ja.wikipedia.org/wiki/Victor "wikilink"), アメリカでの所属レコード会社は[イングルーヴス](https://ja.wikipedia.org/wiki/イングルーヴス "wikilink")。[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。国際デジタル大学卒。[国民大学校](../Page/国民大学校.md "wikilink")スポーツ産業大学院・スポーツ産業学科・経営専攻在学。
+**SE7EN**（セブン、[1984年](../Page/1984年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink") - ）は、[韓国の](../Page/大韓民国.md "wikilink")[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")[歌手](../Page/歌手.md "wikilink")。本国の他に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[タイ](../Page/タイ王国.md "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")などアジア各国で活躍している。本国での所属事務所は[ELEVEN9](https://ja.wikipedia.org/wiki/ELEVEN9 "wikilink")。日本での所属レコード会社は[Victor](https://ja.wikipedia.org/wiki/Victor "wikilink"), アメリカでの所属レコード会社は[イングルーヴス](https://ja.wikipedia.org/wiki/イングルーヴス "wikilink")。[血液型はB型](../Page/ABO式血液型.md "wikilink")。国際デジタル大学卒。[国民大学校](../Page/国民大学校.md "wikilink")スポーツ産業大学院・スポーツ産業学科・経営専攻在学。
 
 ## 概要
 

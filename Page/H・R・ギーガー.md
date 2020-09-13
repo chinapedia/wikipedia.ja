@@ -31,7 +31,7 @@
 
 映画のデザインでは他にも『[スピーシーズ 種の起源](../Page/スピーシーズ_種の起源.md "wikilink")』『[キラー・コンドーム](https://ja.wikipedia.org/wiki/キラー・コンドーム "wikilink")』『[帝都物語](../Page/帝都物語.md "wikilink")』などを手掛けている。
 
-<File:Sculpture> d'alien entree du musee.jpg|ギーガーミュージアムにあるエイリアンの像 |エイリアン幼体のラフ画
+|ギーガーミュージアムにあるエイリアンの像 |エイリアン幼体のラフ画
 
 ## 音楽
 

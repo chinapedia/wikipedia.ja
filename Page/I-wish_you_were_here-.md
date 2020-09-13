@@ -20,7 +20,7 @@
   - 工藤甫
     声：[玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink")
   - タオ
-    声：[朴璐美](../Page/朴ロ美.md "wikilink")
+    声：[朴璐美](../Page/朴璐美.md "wikilink")
   - 光石操
     声：[三石琴乃](../Page/三石琴乃.md "wikilink")
   - 百目鬼

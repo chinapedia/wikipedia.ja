@@ -22,6 +22,7 @@
       - [.om](https://ja.wikipedia.org/wiki/.om "wikilink") - [オマーン](../Page/オマーン.md "wikilink")の[国名コード](../Page/国名コード.md "wikilink")および[トップレベルドメイン](../Page/トップレベルドメイン.md "wikilink")
       - [オロモ語](https://ja.wikipedia.org/wiki/オロモ語 "wikilink")の[ISO 639-1言語コード](../Page/ISO_639.md "wikilink")
       - [MIATモンゴル航空](../Page/MIATモンゴル航空.md "wikilink")の[IATA](../Page/国際航空運送協会.md "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink")
+      - 英連邦王国の「[メリット勲章](../Page/メリット勲章.md "wikilink")」受章者に使用が許される[ポスト・ノミナル・レターズ](https://ja.wikipedia.org/wiki/ポスト・ノミナル・レターズ "wikilink")
 
 ## 脚注
 

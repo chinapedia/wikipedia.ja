@@ -89,7 +89,7 @@ GM対応機器は、プログラムチェンジとコントロールチェンジ
 | 47                   | 2E                                                   | Orchestral Harp         | [ハープ](../Page/ハープ.md "wikilink")                                                     |
 | 48                   | 2F                                                   | Timpani                 | [ティンパニ](../Page/ティンパニ.md "wikilink")                                                 |
 | Ensemble             |                                                      |                         |                                                                                      |
-| 49                   | 30                                                   | String Ensemble 1       | ストリング[アンサンブル](https://ja.wikipedia.org/wiki/アンサンブル "wikilink")                       |
+| 49                   | 30                                                   | String Ensemble 1       | ストリング[アンサンブル](../Page/アンサンブル.md "wikilink")                                          |
 | 50                   | 31                                                   | String Ensemble 2       | スローストリングアンサンブル                                                                       |
 | 51                   | 32                                                   | Synth Strings 1         | シンセストリングス                                                                            |
 | 52                   | 33                                                   | Synth Strings 2         | シンセストリングス2                                                                           |

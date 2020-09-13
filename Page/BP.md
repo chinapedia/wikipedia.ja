@@ -17,10 +17,10 @@
 
 ### 一般名詞
 
-  - [バイパス](https://ja.wikipedia.org/wiki/バイパス "wikilink")（bypass）の略。
+  - [バイパス](https://ja.wikipedia.org/wiki/バイパス "wikilink")（bypass）、[バイパス道路](../Page/バイパス道路.md "wikilink")の略。
   - [血圧](../Page/血圧.md "wikilink")（blood pressure）。
-  - 車両板金塗装のこと。「Body\&Painting」の略。
-  - [ベーキングパウダー](../Page/ベーキングパウダー.md "wikilink")。パンや焼き菓子に使われる膨張剤の一。
+  - [自動車](../Page/自動車.md "wikilink")などの[板金塗装](https://ja.wikipedia.org/wiki/板金塗装 "wikilink")（bodywork & paint）の略。
+  - [ベーキングパウダー](../Page/ベーキングパウダー.md "wikilink")。パンや焼き菓子に使われる[膨張剤](https://ja.wikipedia.org/wiki/膨張剤 "wikilink")のひとつ。
   - [塩基対](../Page/塩基対.md "wikilink")（base pair）。
   - [沸点](../Page/沸点.md "wikilink")（boiling point）。
   - [打撃投手](../Page/打撃投手.md "wikilink")（batting pitcher）。

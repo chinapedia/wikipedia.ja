@@ -29,6 +29,8 @@
   - ICカード乗車券[はやかけん](https://ja.wikipedia.org/wiki/はやかけん "wikilink")のカード番号の名称。
   - フルコンボ（full combo）音楽ゲームの用語の1つ。
   - [固定原価](https://ja.wikipedia.org/wiki/固定原価 "wikilink") (Fixed Costs)
+  - [フルフィルメントセンター](https://ja.wikipedia.org/wiki/フルフィルメントセンター "wikilink")（Fulfillment Center）の略
+  - [油による汚染損害の補償のための国際基金の設立に関する国際条約](../Page/油による汚染損害の補償のための国際基金の設立に関する国際条約.md "wikilink")（International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage）の略
 
 ## 関連項目
 

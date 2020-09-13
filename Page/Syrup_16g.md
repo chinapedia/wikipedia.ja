@@ -31,7 +31,7 @@
 
   -
     [静岡県](../Page/静岡県.md "wikilink")出身。本名・北田万紀（きただ まき）。愛称は「マキリン」。
-    ベースは[フェンダー・ジャズベース](../Page/フェンダー・ジャズベース.md "wikilink")を使用し、主に指弾きで弾いている。ライブ中のMC、TVなどの収録中も一切喋らないがSyrup 16g主催イベント「UP TO THE WORLD \#2 動脈」では、中畑に誕生日を聞く場面があった。
+    ベースは[フェンダー・ジャズベース](../Page/フェンダー・ジャズベース.md "wikilink")を使用し、主に指弾きで弾いている。ライブ中のMC、TVなどの収録中も一切喋らないがSyrup16g主催イベント「UP TO THE WORLD \#2 動脈」では、中畑に誕生日を聞く場面があった。[堀江博久](../Page/堀江博久.md "wikilink")らとともにSTUDIO APESで活動し\[4\]、レコーディングやライブでは[カヒミ・カリィ](../Page/カヒミ・カリィ.md "wikilink")、[Cornelius](https://ja.wikipedia.org/wiki/小山田圭吾 "wikilink")、[EL-MALO](../Page/EL-MALO.md "wikilink")、[ピチカート・ファイヴ](https://ja.wikipedia.org/wiki/ピチカート・ファイヴ "wikilink")、[ホフディラン](../Page/ホフディラン.md "wikilink")、[Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")、[宇宙まお](https://ja.wikipedia.org/wiki/宇宙まお "wikilink")等にサポートベーシストとして参加。
 
 <!-- end list -->
 
@@ -43,7 +43,7 @@
     [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")出身。血液型B型。日本工学院出身。愛称はナカハタ、大樹ちゃん、なかはたいこ等。ライヴではメインMCを担当している。
     一部の曲においてはエンジニア、またCD・DVD作品やツアーTシャツのデザインなども担当。インディーズ時代は黒髪であったが、メジャーデビュー以降は金髪がトレードマークとなる。使用機材はTAMAのStarclassic'Set。[VOLA & THE ORIENTAL MACHINE結成時から期限無しレンタル移籍加入という形でドラムとして参加していたが](../Page/VOLA_&_THE_ORIENTAL_MACHINE.md "wikilink")、Syrup16gの解散に伴い正式メンバーとなり、その後も[PERIDOTS](../Page/PERIDOTS.md "wikilink")、[plenty](https://ja.wikipedia.org/wiki/plenty "wikilink")、[宇宙まお](https://ja.wikipedia.org/wiki/宇宙まお "wikilink")、[ハルカトミユキ](https://ja.wikipedia.org/wiki/ハルカトミユキ "wikilink")、[清春](../Page/清春.md "wikilink")など、多くのバンドのサポートドラマーとして活動。
   - ; 人物
-    ドラムを始めたきっかけは、家に帰ったら何故か酔っ払った父が持って帰って来たドラムセットが置いてあったから\[4\]。ドラムの練習は姉達が聴いていた[松田聖子](../Page/松田聖子.md "wikilink")の曲でやっていたという。アニメ（特にジブリ作品）が好きで、実家にドラムが無ければ[代々木アニメーション学院](../Page/代々木アニメーション学院.md "wikilink")に行ってたかもしれないとラジオで語っている。ライブ中によく上半身裸になり、大声で叫ぶ。シングル「My song」のカップリング「テイレベル」のイントロ、「HELL-SEE」収録の「Everseen」の間奏などでもその叫び声を聞く事が出来る。
+    ドラムを始めたきっかけは、家に帰ったら何故か酔っ払った父が持って帰って来たドラムセットが置いてあったから\[5\]。ドラムの練習は姉達が聴いていた[松田聖子](../Page/松田聖子.md "wikilink")の曲でやっていたという。アニメ（特にジブリ作品）が好きで、実家にドラムが無ければ[代々木アニメーション学院](../Page/代々木アニメーション学院.md "wikilink")に行ってたかもしれないとラジオで語っている。ライブ中によく上半身裸になり、大声で叫ぶ。シングル「My song」のカップリング「テイレベル」のイントロ、「HELL-SEE」収録の「Everseen」の間奏などでもその叫び声を聞く事が出来る。
 
 ### 旧メンバー
 
@@ -53,7 +53,7 @@
 
   -
     [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。血液型 B型。日本工学院出身。スキンヘッドが特徴。
-    初代ベーシスト。一度就職していたが、友人であった五十嵐・中畑の音楽活動に憧れて加入する。バンドを結成するまで楽器に触った事が無く、バンドを結成してからベースを覚えた\[5\]。2002年6月を以って脱退。当時、脱退理由について正式なコメントがなく波紋を呼んだが、2004年のインタビューで「腰が悪いため、腰でリズムを取るリズム隊としては致命的なものがあり、心を鬼にして。自分は佐藤くんという人間を心から好きで、このメンバーでしかやって行きたくないと思っていたが、それによって自分の音楽が妥協されてしまう事にも耐えられなかった」と脱退理由について五十嵐が明かした。
+    初代ベーシスト。一度就職していたが、友人であった五十嵐・中畑の音楽活動に憧れて加入する。バンドを結成するまで楽器に触った事が無く、バンドを結成してからベースを覚えた\[6\]。2002年6月を以って脱退。当時、脱退理由について正式なコメントがなく波紋を呼んだが、2004年のインタビューで「腰が悪いため、腰でリズムを取るリズム隊としては致命的なものがあり、心を鬼にして。自分は佐藤くんという人間を心から好きで、このメンバーでしかやって行きたくないと思っていたが、それによって自分の音楽が妥協されてしまう事にも耐えられなかった」と脱退理由について五十嵐が明かした。[DAIZAWA RECORDS](../Page/DAIZAWA_RECORDS.md "wikilink")/[UK.PROJECT](https://ja.wikipedia.org/wiki/UK.PROJECT "wikilink")から発表した作品が、各配信サイトおよびサブスクリプションサービスで配信された際に、公開された特設サイトでは、佐藤によるレビューが公開された\[7\]\[8\]。
   - ; 人物
     絵が得意らしく、アルバム[COPY](https://ja.wikipedia.org/wiki/COPY "wikilink")のジャケットイラストを手がけている。
     かつて発行していたSyrupの会報『デラ！ロッキン』では、よく下ネタ等の記事を書いていた。
@@ -66,7 +66,7 @@
 
   -
     [downy](https://ja.wikipedia.org/wiki/downy "wikilink")、[unkie](https://ja.wikipedia.org/wiki/unkie "wikilink")のメンバーであり、[VOLA & THE ORIENTAL MACHINEの元ギター](../Page/VOLA_&_THE_ORIENTAL_MACHINE.md "wikilink")。
-    かつてSyrup 16gがVOLA & THE ORIENTAL MACHINEと対バンツアーをした際、五十嵐が青木のギターが格好良かったので、一緒に出来ないかと話をして盛り上がった後\[6\]、UP TO THE WORLD\#2動脈、静脈で正式にサポートメンバーとなる。尚、自身のサポートについては、「リスナーからは好意的に迎えられていなかっただろうと思う」といった旨のつぶやきをtwitter上で発言している。
+    かつてSyrup 16gがVOLA & THE ORIENTAL MACHINEと対バンツアーをした際、五十嵐が青木のギターが格好良かったので、一緒に出来ないかと話をして盛り上がった後\[9\]、UP TO THE WORLD\#2動脈、静脈で正式にサポートメンバーとなる。尚、自身のサポートについては、「リスナーからは好意的に迎えられていなかっただろうと思う」といった旨のつぶやきをtwitter上で発言している。
 
 <!-- end list -->
 
@@ -97,30 +97,36 @@
 
 ## 来歴
 
-[2002年](../Page/2002年.md "wikilink")6月19日、[日本コロムビア](../Page/日本コロムビア.md "wikilink")からアルバム『[coup d'Etat](https://ja.wikipedia.org/wiki/coup_d'Etat "wikilink")』でメジャーデビュー。同年9月25日、『[delayed](https://ja.wikipedia.org/wiki/delayed "wikilink")』、[2003年](../Page/2003年.md "wikilink")3月19日、『[HELL-SEE](../Page/HELL-SEE.md "wikilink")』、[2004年](../Page/2004年.md "wikilink")4月21日、『[Mouth to Mouse](../Page/Mouth_to_Mouse.md "wikilink")』、同年9月22日『[delayedead](https://ja.wikipedia.org/wiki/delayedead "wikilink")』と、2年強の間にフルアルバムを4枚というハイペースで作品を発表する。同年10月10日に[日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")で開催されたライブ「遅死10.10」は、「第一期Syrup16g完結」というコンセプトに基づいて行う\[7\]。このライブ以降音源リリースは途絶え、ライブをメインにして活動していく。
+[2002年](../Page/2002年.md "wikilink")6月19日、[日本コロムビア](../Page/日本コロムビア.md "wikilink")からアルバム『[coup d'Etat](https://ja.wikipedia.org/wiki/coup_d'Etat "wikilink")』でメジャーデビュー。同年9月25日、『[delayed](https://ja.wikipedia.org/wiki/delayed "wikilink")』、[2003年](../Page/2003年.md "wikilink")3月19日、『[HELL-SEE](../Page/HELL-SEE.md "wikilink")』、[2004年](../Page/2004年.md "wikilink")4月21日、『[Mouth to Mouse](../Page/Mouth_to_Mouse.md "wikilink")』、同年9月22日『[delayedead](https://ja.wikipedia.org/wiki/delayedead "wikilink")』と、2年強の間にフルアルバムを4枚というハイペースで作品を発表する。同年10月10日に[日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")で開催されたライブ「遅死10.10」は、「第一期Syrup16g完結」というコンセプトに基づいて行う\[10\]。このライブ以降音源リリースは途絶え、ライブをメインにして活動していく。
 
-第二期とする2004年以降のライブは基本的に新曲を1曲以上演奏するものが主体となり\[8\]、五十嵐自身も「ストックが多くある」「曲だけなら一ヶ月でアルバムが一枚できる」という旨を雑誌や音楽番組等で語っていたが、一向に新作発表の報は流れず、この間発表されたのはライブ映像と、[2006年](../Page/2006年.md "wikilink")8月の未発表音源を含む[ベスト盤](../Page/ベスト・アルバム.md "wikilink")『[動脈](../Page/動脈_\(アルバム\).md "wikilink")』『[静脈](../Page/静脈_\(アルバム\).md "wikilink")』のみで、いずれも既発の楽曲から構成されていた。公式ページ上のセットリストも仮タイトルすら付けられず「新曲」とのみ表記されていた。
+第二期とする2004年以降のライブは基本的に新曲を1曲以上演奏するものが主体となり\[11\]、五十嵐自身も「ストックが多くある」「曲だけなら一ヶ月でアルバムが一枚できる」という旨を雑誌や音楽番組等で語っていたが、一向に新作発表の報は流れず、この間発表されたのはライブ映像と、[2006年](../Page/2006年.md "wikilink")8月の未発表音源を含む[ベスト盤](../Page/ベスト・アルバム.md "wikilink")『[動脈](../Page/動脈_\(アルバム\).md "wikilink")』『[静脈](../Page/静脈_\(アルバム\).md "wikilink")』のみで、いずれも既発の楽曲から構成されていた。公式ページ上のセットリストも仮タイトルすら付けられず「新曲」とのみ表記されていた。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月30日、3年4ヶ月ぶりの新作『[Syrup16g](../Page/Syrup16g_\(アルバム\).md "wikilink")』を発表後、3月1日の[日本武道館](../Page/日本武道館.md "wikilink")ライブを最後に解散。ライブにおいて披露された数多の新曲は未発表のままであった。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")10月27日、廃盤となっていたアルバム、ミニアルバムが紙ジャケット仕様により[UKプロジェクト](../Page/UKプロジェクト.md "wikilink")より再発される。
 
-[2013年](../Page/2013年.md "wikilink")3月1日、五十嵐隆がソロ名義で「生還」と銘打ったライブの開催を発表\[9\]。5月8日にSyrup16gのメンバーであるキタダ、中畑と共にライブを行う。ライブ中メンバーの口からSyrup16gの名前は一切出なかったが、実質5年ぶりのSyrup16gメンバーでのライブとなった。
+[2013年](../Page/2013年.md "wikilink")3月1日、五十嵐隆がソロ名義で「生還」と銘打ったライブの開催を発表\[12\]。5月8日にSyrup16gのメンバーであるキタダ、中畑と共にライブを行う。ライブ中メンバーの口からSyrup16gの名前は一切出なかったが、実質5年ぶりのSyrup16gメンバーでのライブとなった。
 
-[2014年](../Page/2014年.md "wikilink")6月27日17時00分\[10\]、syrup16gの再結成を発表\[11\]。8月27日に8年ぶりとなるオリジナルアルバム『Hurt』を発売。及びリリース記念ツアー『再発』を開催\[12\]。
+[2014年](../Page/2014年.md "wikilink")6月27日17時00分\[13\]、syrup16gの再結成を発表\[14\]。8月27日に8年ぶりとなるオリジナルアルバム『Hurt』を発売。及びリリース記念ツアー『再発』を開催\[15\]。
 
-[2017年](../Page/2017年.md "wikilink")10月5日より、2001年にリリースした1stアルバム『[COPY](https://ja.wikipedia.org/wiki/COPY "wikilink")』の発売16周年を記念した全国ツアー「十六夜<IZAYOI>」を開催\[13\]。
+[2017年](../Page/2017年.md "wikilink")10月5日より、2001年にリリースした1stアルバム『[COPY](https://ja.wikipedia.org/wiki/COPY "wikilink")』の発売16周年を記念した全国ツアー「十六夜<IZAYOI>」を開催\[16\]。
 
-2017年11月8日、未音源化楽曲を収録したアルバム『delaidback』を発表\[14\]。
+2017年11月8日、未音源化楽曲を収録したアルバム『delaidback』を発表\[17\]。
 
-[2018年](../Page/2018年.md "wikilink")3月20日、開催された「十六夜<IZAYOI>」最終公演をもって今後の活動を「『一休み』」とした\[15\]。
+[2018年](../Page/2018年.md "wikilink")3月20日、開催された「十六夜<IZAYOI>」最終公演をもって今後の活動を「『一休み』」とした\[18\]。
+
+[2019年](../Page/2019年.md "wikilink")6月1日、[DAIZAWA RECORDS](../Page/DAIZAWA_RECORDS.md "wikilink")/[UK.PROJECT](https://ja.wikipedia.org/wiki/UK.PROJECT "wikilink")から発表した作品が、各配信サイトおよびサブスクリプションサービスで配信された\[19\]。
+
+2019年10月4日より、全国5都市を回るライブツアー「syrup16g Tour 2019【SCAM : SPAM】」を開催\[20\]。
+
+[2020年](../Page/2020年.md "wikilink")2月28、29日、「【SCAM : SPAM】」の追加公演「【SCAM：SPAM：SCUM】」が東京・[新木場STUDIO COASTで開催される予定だったが](https://ja.wikipedia.org/wiki/新木場STUDIO_COAST "wikilink")、[新型コロナウイルスの感染拡大を受けて延期となり](https://ja.wikipedia.org/wiki/重症急性呼吸器症候群コロナウイルス2型 "wikilink")、ライブが予定されていた2月28、29日には、新木場STUDIO COASTで2日間に渡り無観客ライブを実施し、その模様はニコニコ生放送で生配信された\[21\]。
 
 ## エピソード
 
-  - アルバム『Free Throw』リリース後、[東芝EMIと契約しスタジオでデモなどを録音していた](../Page/EMIミュージック・ジャパン.md "wikilink")。しかしメジャーデビュー合否を決定するためレコード会社の上層部の人間が見に来たライブにおいて、プレッシャーに耐えかねた五十嵐がステージでギターを投げつけるなどの行為を行ったために契約を破棄されている\[16\]。
-  - 一時、バンドのプライベートスタジオ（ごく普通のマンションのユニットバス）を所有し、中畑がエンジニアとなって「根ぐされ」などの曲をレコーディングしていた事がある。深夜から明け方にかけて[ディストーション](https://ja.wikipedia.org/wiki/ディストーション "wikilink")ギターまで演奏していたため、騒音苦情が来ないか気になったとの事。\[17\]。その他、「遁生」（[エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink")のトリビュートアルバム「[花男](../Page/花男_\(アルバム\).md "wikilink")」に収録）においても、五十嵐の自宅の風呂場でレコーディングを行っている。
+  - アルバム『Free Throw』リリース後、[東芝EMIと契約しスタジオでデモなどを録音していた](../Page/EMIミュージック・ジャパン.md "wikilink")。しかしメジャーデビュー合否を決定するためレコード会社の上層部の人間が見に来たライブにおいて、プレッシャーに耐えかねた五十嵐がステージでギターを投げつけるなどの行為を行ったために契約を破棄されている\[22\]。
+  - 一時、バンドのプライベートスタジオ（ごく普通のマンションのユニットバス）を所有し、中畑がエンジニアとなって「根ぐされ」などの曲をレコーディングしていた事がある。深夜から明け方にかけて[ディストーション](https://ja.wikipedia.org/wiki/ディストーション "wikilink")ギターまで演奏していたため、騒音苦情が来ないか気になったとの事。\[23\]。その他、「遁生」（[エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink")のトリビュートアルバム「[花男](../Page/花男_\(アルバム\).md "wikilink")」に収録）においても、五十嵐の自宅の風呂場でレコーディングを行っている。
   - [delaydead](https://ja.wikipedia.org/wiki/delaydead "wikilink")のジャケットに使用された飛行機の[プラモデル](../Page/プラモデル.md "wikilink")は、中畑が自室に篭って作ったもの。その部屋での様子を撮った写真を[カリカの家城に見せ](../Page/カリカ_\(お笑いコンビ\).md "wikilink")｢(真っ暗な部屋に机を置いて作業していたので)これじゃ刑務所ですよ｣と言われる。
   - 2005年の9月、大阪での新曲中心のライブ中に、五十嵐のギターの弦が切れるトラブルが起こり、急遽サブギターで「生活」を演奏し始めた時に、中畑が途中で演奏を止めてしまうということがあった。突然の出来事に会場がどよめく中、「気が乗らない」と発言。しかし真相は、そのツアーは「新曲で勝負したかったので、過去の曲を一切廃したかった」という思いから出た発言であった。その際五十嵐は動揺する客に対し、「（ナカハタは）最近反抗期なんだよ」と言ってその場の空気を和ませた。
   - お笑い芸人[ダイノジ](../Page/ダイノジ.md "wikilink")の[ラジオ](../Page/ラジオ.md "wikilink")に五十嵐が出演した際、「スタジオ内を葬式みたいな空気にした」と揶揄されたことがある。
-  - 『delaidback』ジャケットの蝶の死骸は、五十嵐が偶然見つけて撮影したものである。\[18\]
+  - 『delaidback』ジャケットの蝶の死骸は、五十嵐が偶然見つけて撮影したものである。\[24\]
 
 ## 作品
 
@@ -671,23 +677,29 @@ Blu-ray:オリコン52位、登場回数2回</p></td>
   -
   -
   -
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:ローファイ・バンド](https://ja.wikipedia.org/wiki/Category:ローファイ・バンド "wikilink") [Category:日本コロムビアのアーティスト](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアーティスト "wikilink") [Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink") [Category:2008年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2008年に解散した音楽グループ "wikilink") [Category:2014年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2014年に再結成した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
+[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:ローファイ・バンド](https://ja.wikipedia.org/wiki/Category:ローファイ・バンド "wikilink") [Category:日本コロムビアのアーティスト](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアーティスト "wikilink") [Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink") [Category:2008年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2008年に解散した音楽グループ "wikilink") [Category:2014年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2014年に再結成した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
 
 1.  [bounce.com](http://web-beta.archive.org/web/20040603051110/http://www.bounce.com/interview/article.php/1296/ALL/)『bounce』253号、2004年5月13日（2004年6月3日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 2.  NHK-FM「ミュージックスクエア」2002年10月1日放送回にて。
 3.  NHK-FM「ミュージックスクエア」2002年10月1日放送回にて。
-4.  <http://www.ukproject.com/artist/syrup.html>
+4.
 5.  <http://www.ukproject.com/artist/syrup.html>
-6.  月刊GiGS 2006年10月号（No.258）インタビューより
-7.  このライブには前ベースの佐藤、[ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink")の[木下理樹](../Page/木下理樹.md "wikilink")も一般客として観覧している（[DIARY OF MADMAN 〜狂人日記〜](http://www.art-school.net/cgi-bin/diary_2006/diary.cgi?action=view&date=20041011&year=2004&month=10&day=1&to=31)）。
-8.  アンコール以外全て新曲であった事もある
-9.  [五十嵐隆が4年の沈黙破り“生還”ライブ](http://natalie.mu/music/news/85831)ナタリー 2013年3月1日
-10.
-11. [syrup16gが再始動、ニューアルバム「Hurt」発売](http://natalie.mu/music/news/119918)ナタリー 2014年6月27日
-12. [syrup16g「再発」ツアーで証明した完全復活](http://natalie.mu/music/news/127001) - [音楽ナタリー](https://ja.wikipedia.org/wiki/音楽ナタリー "wikilink")
+6.  <http://www.ukproject.com/artist/syrup.html>
+7.
+8.
+9.  月刊GiGS 2006年10月号（No.258）インタビューより
+10. このライブには前ベースの佐藤、[ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink")の[木下理樹](../Page/木下理樹.md "wikilink")も一般客として観覧している（[DIARY OF MADMAN 〜狂人日記〜](http://www.art-school.net/cgi-bin/diary_2006/diary.cgi?action=view&date=20041011&year=2004&month=10&day=1&to=31)）。
+11. アンコール以外全て新曲であった事もある
+12. [五十嵐隆が4年の沈黙破り“生還”ライブ](http://natalie.mu/music/news/85831)ナタリー 2013年3月1日
 13.
-14.
-15.
-16. ロッキングオンジャパン 2004/03/20発売号 五十嵐隆2万字インタビュー、シンコーミュージック刊「音楽と人」平成14年8月1日発行分インタビュー、および平成20年1月8日発行分インタビューより。
-17. 2003/9/22　NHK-FM「ミュージックスクエア」ゲスト出演時インタビューより
-18. |url=[http://ukproject.com/item/14047/|accessdate=2018-08-09|language=ja-JP|work=UK.PROJECT](http://ukproject.com/item/14047/%7Caccessdate=2018-08-09%7Clanguage=ja-JP%7Cwork=UK.PROJECT)}}
+14. [syrup16gが再始動、ニューアルバム「Hurt」発売](http://natalie.mu/music/news/119918)ナタリー 2014年6月27日
+15. [syrup16g「再発」ツアーで証明した完全復活](http://natalie.mu/music/news/127001) - [音楽ナタリー](https://ja.wikipedia.org/wiki/音楽ナタリー "wikilink")
+16.
+17.
+18.
+19.
+20.
+21.
+22. ロッキングオンジャパン 2004/03/20発売号 五十嵐隆2万字インタビュー、シンコーミュージック刊「音楽と人」平成14年8月1日発行分インタビュー、および平成20年1月8日発行分インタビューより。
+23. 2003/9/22　NHK-FM「ミュージックスクエア」ゲスト出演時インタビューより
+24. |url=[http://ukproject.com/item/14047/|accessdate=2018-08-09|language=ja-JP|work=UK.PROJECT](http://ukproject.com/item/14047/%7Caccessdate=2018-08-09%7Clanguage=ja-JP%7Cwork=UK.PROJECT)}}

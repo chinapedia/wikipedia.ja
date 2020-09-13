@@ -12,7 +12,7 @@ espionage records.からこれまでに2枚のフルアルバムと1枚のミニ
 <!-- end list -->
 
   -
-    リーダー。[東京都](../Page/東京都.md "wikilink")出身。[血液型B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")のメンバー。
+    リーダー。[東京都](../Page/東京都.md "wikilink")出身。[血液型B型](../Page/ABO式血液型.md "wikilink")。[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")のメンバー。
 
 <!-- end list -->
 

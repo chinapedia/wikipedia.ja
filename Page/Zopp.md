@@ -104,7 +104,7 @@
       - [タイムマシン](https://ja.wikipedia.org/wiki/テゴマスの青春 "wikilink")（2014年）
   - [Hey\! Say\! JUMP](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")
       - [OVER](https://ja.wikipedia.org/wiki/OVER_\(Hey!_Say!_JUMPの曲\) "wikilink")（2011年）
-  - [高木雄也](../Page/高木雄也.md "wikilink")
+  - [髙木雄也](https://ja.wikipedia.org/wiki/髙木雄也 "wikilink")
       - [題名の無い物語](https://ja.wikipedia.org/wiki/SENSE_or_LOVE "wikilink")
   - [SMAP](../Page/SMAP.md "wikilink")
       - [Cry for the Smile](https://ja.wikipedia.org/wiki/We_are_SMAP! "wikilink")（2010年）

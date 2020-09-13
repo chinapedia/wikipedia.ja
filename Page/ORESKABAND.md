@@ -12,11 +12,10 @@
 初期メンバーは全員[大阪府](../Page/大阪府.md "wikilink")[堺市](https://ja.wikipedia.org/wiki/堺市 "wikilink")立[月州中学校出身](../Page/堺市立月州中学校.md "wikilink") 。
 
   - **iCas　**[ギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")（2003-）1989年2月13日　[skaskaskaclub](https://ja.wikipedia.org/wiki/skaskaskaclub "wikilink")、[インディーズ電力](https://ja.wikipedia.org/wiki/インディーズ電力 "wikilink")のメンバーとしても活動中。
-  - **tomi　**[ベース](../Page/エレクトリックベース.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")（2003-）1988年7月29日　[mahol-hul](https://ja.wikipedia.org/wiki/mahol-hul "wikilink")、[Mariner Valley Cruiseのメンバーとしても活動中](https://ja.wikipedia.org/wiki/MarinerValleyCruise "wikilink")。
   - **tae　**[ドラム](../Page/ドラムセット.md "wikilink")（2003-）1988年9月26日　[skaskaskaclub](https://ja.wikipedia.org/wiki/skaskaskaclub "wikilink")のメンバーとしても活動中。
   - **HAYAMI**　[トロンボーン](../Page/トロンボーン.md "wikilink")（2003-）1988年11月12日　旧名「リーダー」
-  - **ADD　**[テナーサックス](https://ja.wikipedia.org/wiki/テナーサックス "wikilink")（2016-）1989年7月12日　[skaskaskaclub](https://ja.wikipedia.org/wiki/skaskaskaclub "wikilink")のメンバーとしても活動中。
-  - **CC**　[キーボード](../Page/キーボード_\(楽器\).md "wikilink")（2019-） 2019年にサポートを経て正式加入。
+  - **ADD　**[テナーサックス](https://ja.wikipedia.org/wiki/テナーサックス "wikilink")（2016-）1989年7月12日　[千葉県千葉市出身](../Page/千葉市.md "wikilink")。[skaskaskaclub](https://ja.wikipedia.org/wiki/skaskaskaclub "wikilink")のメンバーとしても活動中。
+  - **CC**　[キーボード](../Page/キーボード_\(楽器\).md "wikilink")（2019-）1988年5月24日　[宮城県仙台市出身](../Page/仙台市.md "wikilink")。[PANAII](https://www.panaii.com/)のメンバーとしても活動中。
 
 ### 活動休止中
 
@@ -25,6 +24,7 @@
 ### 元メンバー
 
   - **morico　** [テナーサックス](https://ja.wikipedia.org/wiki/テナーサックス "wikilink")（2003-2016）1988年9月12日　2015年3月から体調不良を理由に活動を休止。同年6月に結婚と妊娠を発表し\[2\]、2016年1月31日に育児に専念するため脱退\[3\]。
+  - **Tomi　**[ベース](../Page/エレクトリックベース.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")（2003-2020）1988年7月29日　[mahol-hul](https://ja.wikipedia.org/wiki/mahol-hul "wikilink")、[Mariner Valley Cruiseのベーシストとしても活動していた](https://ja.wikipedia.org/wiki/MarinerValleyCruise "wikilink")。
 
 ### サポート
 
@@ -36,7 +36,9 @@
 
 ### メジャーデビュー前
 
-[2003年](../Page/2003年.md "wikilink")5月、中学のブラスバンド部のメンバーを中心に「俺たちカスカスローソンスカバンドウィズカッターシャツ」結成。その後ライブハウスのスタッフにバンド名が長いと言われ「オレスカバンド」へ改名\[4\]。10月に初ライブを行った。[2004年](../Page/2004年.md "wikilink")にメンバーが高校進学し、本格的にライブ活動を開始。
+[2003年](../Page/2003年.md "wikilink")5月、中学のブラスバンド部のメンバーを中心に「俺たちカスカスローソンスカバンドウィズカッターシャツ」結成。その後ライブハウスのスタッフにバンド名が長いと言われ「オレスカバンド」へ改名\[4\]。10月に初ライブを行った。
+
+[2004年](../Page/2004年.md "wikilink")にメンバーが高校進学し、本格的にライブ活動を開始。
 
 [2005年](../Page/2005年.md "wikilink")6月に自主制作盤『ペンパル』リリース。
 
@@ -44,25 +46,39 @@
 
 [2006年](../Page/2006年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")に初の自主企画イベント「平成サラダ合戦」開催。2月に[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")とメジャー契約を結び、プライベートレーベル「TERRY DOLLAR RECORD$」および専属マネジメント「TERRY DOLLAR PRODUCTION$」を設立。[7月19日](../Page/7月19日.md "wikilink")にデビューミニアルバム『俺』をリリースした。[11月1日](../Page/11月1日.md "wikilink")には1stシングル「アーモンド」リリース。
 
-[2007年](../Page/2007年.md "wikilink")はメンバーが高校を卒業し、3月からアメリカでのライブを含む全国ツアー「We Are Oreskaband TOUR '07」を開催。5月にアルバム『[WAO\!\!](../Page/WAO!!.md "wikilink")』をリリース。
+[2007年](../Page/2007年.md "wikilink")はメンバーが高校を卒業し、3月から[アメリカ最大の音楽見本市](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")「[サウス・バイ・サウス・ウエスト](https://ja.wikipedia.org/wiki/サウス・バイ・サウスウエスト "wikilink")」を皮切りに[アメリカでのライブを含む全国ツアー](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")「We Are Oreskaband TOUR '07」を開催。5月に1stフルアルバム『[WAO\!\!](../Page/WAO!!.md "wikilink")』をリリース。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")は2度目となる「サウス・バイ・サウス・ウエスト」への出演\[5\]や「[WARPED TOUR '08](https://ja.wikipedia.org/wiki/Warped_Tour "wikilink")」の出演を果たす\[6\]。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")は2度目となる「[サウス・バイ・サウス・ウエスト](https://ja.wikipedia.org/wiki/サウス・バイ・サウスウエスト "wikilink")」への出演\[5\]や「[WARPED TOUR '08](https://ja.wikipedia.org/wiki/Warped_Tour "wikilink")」で日本人として初の46都市全公演出演を果たす\[6\]。[10月22日](../Page/10月22日.md "wikilink")、2ndミニアルバム「What a Wonderful World vol.1」、WARPED TOURライブ＆ドキュメンタリーDVD「46 ORESKABAND ～WARPED TOUR 2008～」を同時リリース。
 
-[2009年](../Page/2009年.md "wikilink")10月に所属事務所をSME内の「Steezlab Music」へ移籍（今までマネジメントを行っていた「TERRY DOLLAR PRODUCTION$」はSony Music Associated Records内に置かれていた）。
+[2009年](../Page/2009年.md "wikilink")10月に所属事務所をSME内の「Steezlab Music」へ移籍（今までマネジメントを行っていた「TERRY DOLLAR PRODUCTION$」は[Sony Music Associated Records内に置かれていた](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")）。[4月15日](../Page/4月15日.md "wikilink")、3rdミニアルバム「What a Wonderful World vol.2」リリース。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月24日](../Page/11月24日.md "wikilink")に2ndフルアルバム『COLOR』リリース。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月24日](../Page/11月24日.md "wikilink")に3rdフルアルバム『COLOR』リリース。
 
 [2011年](../Page/2011年.md "wikilink")、全国ツアー『COLOR collection 2011』を開催。
 
-[2013年](../Page/2013年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")に3rdフルアルバム「Hot Number」リリース。6月にロサンゼルス公演、7月には初のブラジル公演を行った。
+[2013年](../Page/2013年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")に4rdフルアルバム「Hot Number」リリース。6月に[アメリカで](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")5年ぶりとなるロサンゼルス公演、7月には初のブラジル公演を行った。
+
+[2014年](../Page/2014年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")初のベストアルバム「BEST (2003-2013)」をリリース。
 
 ### ビクターミュージックアーツ移籍後
 
-[2014年](../Page/2014年.md "wikilink")に[ビクターミュージックアーツ](../Page/ビクターミュージックアーツ.md "wikilink")へ移籍し、バンド名を英語表記の「ORESKABAND」へ改名。7月には初のアルゼンチン公演を行った。
+[2014年](../Page/2014年.md "wikilink")に[ビクターミュージックアーツ](../Page/ビクターミュージックアーツ.md "wikilink")へ移籍し、バンド名を英語表記の「ORESKABAND」へ改名。7月には初のアルゼンチン公演を行った。[9月10日](../Page/9月10日.md "wikilink")、4thミニアルバム『Carry On\!』リリース。
 
-[2016年](../Page/2016年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")、moricoが育児に専念するため脱退を発表\[7\]。6月にサポートメンバーのADD（テナーサックス）の正式加入を発表。
+[2016年](../Page/2016年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")、moricoが育児に専念するため脱退を発表\[7\]。[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")、[スカ](../Page/スカ.md "wikilink")、[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")カルチャー系イベント「[Stay Irie, Go Rudy](http://sigr2016.mystrikingly.com/)」を[渋谷club aisaにて開催](../Page/Club_Asia.md "wikilink")。
 
-[2018年](../Page/2018年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")、SAKIがアニメ音楽の作家活動に専念するため2018年をもってバンド活動を休止することを発表。\[8\]
+[3月9日](../Page/3月9日.md "wikilink")、5thシングル「NEXSPOT / ¡Fiebre\!」リリース。6月にサポートメンバーのADD（[テナーサックス](../Page/サクソフォーン.md "wikilink")）の正式加入を発表し、[11月23日](../Page/11月23日.md "wikilink")、5rdフルアルバム「Slogan」をリリース。
+
+[2017年](../Page/2017年.md "wikilink")はアルバム「Slogan」リリースツアー "HAPPY\!\! SURVIVE\!\! 2017"を開催。[梅田クラブクアトロ](../Page/CLUB_QUATTRO.md "wikilink")、[名古屋E.L.L.](https://ja.wikipedia.org/wiki/Electric_Lady_Land "wikilink")、[恵比寿LIQUIDROOMにて東名阪ワンマンライブを行う](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")。
+
+### TERRY DOLLAR RECORD$からリリース
+
+[2017年](../Page/2017年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")、デビュー当時設立されたプライベートレーベル「TERRY DOLLAR RECORD$」の名を引継ぎ、自主レーベル「TERRY DOLLAR RECORD$」より、初の7インチ[アナログレコード](../Page/レコード.md "wikilink")「Groovin' Work Stylee」をリリース。同タイトル楽曲では、[Rub A Dub Marketの](https://ja.wikipedia.org/wiki/Rub_A_Dub_Market "wikilink")[Ja-ge Georgeと初のコラボレーションを行った](https://ja.wikipedia.org/wiki/Ja-ge_George "wikilink")。[11月19日](../Page/11月19日.md "wikilink")、「[Stay Irie, Go Rudy 2017](http://sigr2017.mystrikingly.com/)」を[渋谷club aisaにて開催](../Page/Club_Asia.md "wikilink")。その後12月にかけて初となる[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")でのライブツアーを行う。（[チェコ](../Page/チェコ.md "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")、[オーストリア](../Page/オーストリア.md "wikilink")、[イタリア](../Page/イタリア.md "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[スイス](../Page/スイス.md "wikilink")の6都市、全11公演）
+
+[2018年](../Page/2018年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")、毎年[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")で開催される「Hong Kong International Reggae Ska Festival 2018」に出演し、[アジア](../Page/アジア.md "wikilink")進出する。[10月10日](../Page/10月10日.md "wikilink")、大阪にて定期開催されているライブハウス体験型イベント「NANIWAdelic」のテーマソングとして、配信限定シングル「ITOKASHI」を[よしもとミュージック](../Page/よしもとミュージック.md "wikilink")エンタテインメントよりリリース。[12月29日](../Page/12月29日.md "wikilink")、SAKI（Tp）が音楽作家活動に専念するため2018年をもってバンド活動を休止することを発表。\[8\]
+
+[2019年](../Page/2019年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")、「第11回[沖縄国際映画祭](https://ja.wikipedia.org/wiki/沖縄国際映画祭 "wikilink")」に出演し、映画祭のテーマソングである「[笑顔のまんま](https://ja.wikipedia.org/wiki/笑顔のまんま "wikilink")」を[スカ](../Page/スカ.md "wikilink")カヴァーを配信限定リリース。[7月13日](../Page/7月13日.md "wikilink")、[済州島](../Page/済州島.md "wikilink")（[韓国](../Page/大韓民国.md "wikilink")）のロックフェス「Stepping Stone Festival」に出演。[7月28日](../Page/7月28日.md "wikilink")、「[FUJI ROCK FESTIVAL’19](https://ja.wikipedia.org/wiki/フジロックフェスティバル "wikilink")」Gypsy Avalonステージへ出演。[8月31日](../Page/8月31日.md "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")で行われたスカフェスティバル「Taiwan Ska Fest Vol. 3」へ出演。[10月27日](../Page/10月27日.md "wikilink")、「[Stay Irie, Go Rudy 2019](http://sigr2019.mystrikingly.com/)」を[代官山UNIT](https://ja.wikipedia.org/wiki/代官山UNIT "wikilink")にて開催。CC（Key）がバンドに加入。
+
+[2020年](../Page/2020年.md "wikilink")[8月16日](../Page/8月16日.md "wikilink")、初の配信[ストリーミング](../Page/ストリーミング.md "wikilink")ライブ「さよならホームラン！〜君の瞳に乾杯〜」を開催。Tomi（Ba）がバンドを脱退。
 
 ## ディスコグラフィ
 
@@ -498,7 +514,7 @@
   - 2012年08月03日 - ROCK IN JAPAN FESTIVAL 2012
   - 2012年10月12日・13日 - MINAMI WHEEL 2012
   - 2013年03月16日 - HAPPY JACK 2013
-  - 2013年10月14日 - [MINAMI WHEEL](https://ja.wikipedia.org/wiki/MINAMI_WHEEL "wikilink") 2013
+  - 2013年10月14日 - [MINAMI WHEEL](../Page/MINAMI_WHEEL.md "wikilink") 2013
   - 2013年10月18日 - REDLINE TOUR 2013 10DAYS
   - 2013年11月22日 - 縁祭りvol.1秋
   - 2013年11月24日 - 大阪 高架下音楽祭
@@ -537,11 +553,11 @@
 
   - ORESKABAND ([Official site](https://oreskaband.com), [twitter](https://twitter.com/ORESKA_Official), [Instagram](https://www.instagram.com/oreskaband_official), [Facebook](https://www.facebook.com/ORESKABAND.JP), [Youtube](https://www.youtube.com/user/BEAT1112), [Blog](https://blog.excite.co.jp/oreskaband/))
       - iCas ([twitter](https://twitter.com/icas_oreska), [Instagram](https://www.instagram.com/icas0g0))
-      - tomi ([twitter](https://twitter.com/tomi_oreska), [Instagram](https://www.instagram.com/tomi_necostagram))
       - tae ([twitter](https://twitter.com/tae_oreska), [Instagram](https://www.instagram.com/tae__88))
       - HAYAMI ([twitter](https://twitter.com/hayami_oreska), [Instagram](https://www.instagram.com/hayummy))
       - ADD ([twitter](https://twitter.com/ADD_ORESKA), [Instagram](https://www.instagram.com/add_oreska)))
       - SAKI ([twitter](https://twitter.com/SAKIEL03_ORESKA), [Instagram](https://www.instagram.com/sakiel03))
+      - tomi ([twitter](https://twitter.com/tomi_oreska), [Instagram](https://www.instagram.com/tomi_necostagram))
 
 　
 

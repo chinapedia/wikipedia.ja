@@ -29,4 +29,4 @@ Portageの名前とデザインはFreeBSDや[OpenBSD](../Page/OpenBSD.md "wikili
 ## 外部リンク
 
   -
-[Category:フリーパッケージ管理システム](https://ja.wikipedia.org/wiki/Category:フリーパッケージ管理システム "wikilink")
+[Category:Gentoo_Linux](https://ja.wikipedia.org/wiki/Category:Gentoo_Linux "wikilink") [Category:フリーパッケージ管理システム](https://ja.wikipedia.org/wiki/Category:フリーパッケージ管理システム "wikilink")

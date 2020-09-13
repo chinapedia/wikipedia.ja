@@ -3,7 +3,7 @@
 
 **A-LA-BA・LA-M-BA**（ア・ラ・バ・ラ・ン・バ）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[吉川晃司](../Page/吉川晃司.md "wikilink")の5枚目のアルバム。
 
-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月5日](../Page/3月5日.md "wikilink")に[SMSレコードよりリリースされた](../Page/バンダイ・ミュージックエンタテインメント.md "wikilink")。
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月5日](../Page/3月5日.md "wikilink")に[SMSレコード](../Page/バンダイ・ミュージックエンタテインメント.md "wikilink")（現・[バンダイナムコアーツ](https://ja.wikipedia.org/wiki/バンダイナムコアーツ "wikilink")）よりリリースされた。
 
 ## 解説
 
@@ -11,7 +11,6 @@
   - 吉川自身が、ほぼ全ての楽曲を自ら作詞・作曲。
   - ゲストミュージシャンとして、当時[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")のギタリストであった[布袋寅泰](../Page/布袋寅泰.md "wikilink")が前作に引き続き参加しているほか、デビューして間もない[岡村靖幸](../Page/岡村靖幸.md "wikilink")、同年の6月にデビューする[FENCE OF DEFENSEの](../Page/FENCE_OF_DEFENSE.md "wikilink")[北島健二](../Page/北島健二.md "wikilink")・[山田わたる](https://ja.wikipedia.org/wiki/山田わたる "wikilink")なども参加している。また、主に編曲を担当している[松本晃彦](../Page/松本晃彦.md "wikilink")は、後に[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[踊る大捜査線](../Page/踊る大捜査線.md "wikilink")』（1997年、[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")）のテーマ曲を作曲している。
   - シングル曲は、先行で発売された「MARILYNE」と、後にシングルカットされた「終わらないSun Set」が収録されている。
-  - 交友のあった[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")からは、「歌詞が何を言っているのか、分からない。こんな歌詞を書いては駄目だ」と酷評されている。
   - このアルバムの発売を記念し、ファンクラブ会員限定で、告知ポスターの右上に書かれているキーワードを記載しファンクラブ宛に葉書を送ると、アルバムジャケットのミニステッカーが貰えた。
   - タイトルの「A-LA-BA・LA-M-BA」は、本人の口から出てきた言葉をそのまま使用しており、特に意味は無い。
   - 「やせっぽちの天国」はCD盤のみのボーナストラックであり、同時リリースされたLP盤、カセットテープには収録されていない。再発盤のCDには収録されている。
@@ -92,11 +91,11 @@ MD32-5106</p></td>
   - **鈴川真樹** - ギター
   - **柴山和彦** - ギター
   - **[松本晃彦](../Page/松本晃彦.md "wikilink")** - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
-  - **富樫春生** - キーボード
-  - **中村哲** - キーボード
+  - **[富樫春生](https://ja.wikipedia.org/wiki/富樫春生 "wikilink")** - キーボード
+  - **[中村哲](../Page/中村哲_\(作曲家\).md "wikilink")** - キーボード
   - **沢井原兒** - [サックス](../Page/サクソフォーン.md "wikilink")
   - **遠山淳** - [コンピュータプログラミング](../Page/ミュージックシーケンサー.md "wikilink")
-  - **大竹徹夫** - コンピュータプログラミング
+  - **[大竹徹夫](https://ja.wikipedia.org/wiki/大竹徹夫 "wikilink")** - コンピュータプログラミング
   - **迫田到** - コンピュータプログラミング
   - **佐藤健** - [コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - **[岡村靖幸](../Page/岡村靖幸.md "wikilink")** - コーラス

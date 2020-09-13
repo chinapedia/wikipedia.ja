@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2006年](../Page/2006年.md "wikilink")までは「**説教と戦闘の為のサラフィー主義者集団**」（[アラビア語](../Page/アラビア語.md "wikilink")：الجماعة السلفية للدعوة والقتال、[翻字](../Page/翻字.md "wikilink")：al-Jamā‘ah as-Salafiyyah lid-Da‘wah wal-Qiṭāl、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")：Groupe Salafiste pour la Prédication et le Combat、[略称](../Page/略語.md "wikilink")：GSPC、サラフィスト・グループ）と名乗っていたが、[ウサーマ・ビン・ラーディン](../Page/ウサーマ・ビン・ラーディン.md "wikilink")に忠誠を表明。[2007年](../Page/2007年.md "wikilink")に現在の組織へ改組し、[アル＝カーイダ](https://ja.wikipedia.org/wiki/アル＝カーイダ "wikilink")との一体化を強調している。[イスラーム国家](https://ja.wikipedia.org/wiki/イスラーム国家 "wikilink")樹立を目指して、アルジェリア政府転覆工作を続け、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")を名指しで攻撃目標としており、西側各国から「国際テロ組織」に指定されている。現在のリーダーは。
+[2006年](../Page/2006年.md "wikilink")までは「**説教と戦闘の為のサラフィー主義者集団**」（[アラビア語](../Page/アラビア語.md "wikilink")：الجماعة السلفية للدعوة والقتال、[翻字](../Page/翻字.md "wikilink")：al-Jamā‘ah as-Salafiyyah lid-Da‘wah wal-Qiṭāl、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")：Groupe Salafiste pour la Prédication et le Combat、[略称](../Page/略語.md "wikilink")：GSPC、サラフィスト・グループ）と名乗っていたが、[ウサーマ・ビン・ラーディン](../Page/ウサーマ・ビン・ラーディン.md "wikilink")に忠誠を表明。[2007年](../Page/2007年.md "wikilink")に現在の組織へ改組し、[アル＝カーイダ](https://ja.wikipedia.org/wiki/アル＝カーイダ "wikilink")との一体化を強調している。[イスラーム国家](https://ja.wikipedia.org/wiki/イスラーム国家 "wikilink")樹立を目指して、アルジェリア政府転覆工作を続け、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")を名指しで攻撃目標としており、西側各国から「国際テロ組織」に指定されている。
 
 ## 活動
 
@@ -21,7 +21,7 @@
 
 [2009年](../Page/2009年.md "wikilink")7月、[中国](../Page/中国.md "wikilink")の[ウルムチ市](../Page/ウルムチ市.md "wikilink")で[ムスリム](../Page/ムスリム.md "wikilink")の[ウイグル人](https://ja.wikipedia.org/wiki/ウイグル人 "wikilink")が虐殺される[ウイグル騒乱が発生](https://ja.wikipedia.org/wiki/2009年ウイグル騒乱 "wikilink")、AQIMは中国政府への復讐を宣言している。
 
-[2011年](../Page/2011年.md "wikilink")1月、[チュニジア](../Page/チュニジア.md "wikilink")の[ジャスミン革命](https://ja.wikipedia.org/wiki/ジャスミン革命 "wikilink")では「チュニジアは[シャリーア](../Page/シャリーア.md "wikilink")に基づく[イスラム国家](../Page/イスラム国家.md "wikilink")になるべきである」として反政府勢力を支持、[ザイン・アル＝アービディーン・ベン＝アリー](https://ja.wikipedia.org/wiki/ザイン・アル＝アービディーン・ベン＝アリー "wikilink")政権打倒の軍事支援を実施している。同年2月、[リビア騒乱においても](https://ja.wikipedia.org/wiki/2011年リビア騒乱 "wikilink")、反政府勢力への支援を宣言した\[2\]。[リビア](https://ja.wikipedia.org/wiki/リビア "wikilink")の最高指導者[ムアンマル・アル＝カッザーフィー](../Page/ムアンマル・アル＝カッザーフィー.md "wikilink")はAQIMの[反カダフィ勢力](https://ja.wikipedia.org/wiki/反カダフィ勢力 "wikilink")\[3\]への介入を非難したが、[10月20日](../Page/10月20日.md "wikilink")に殺害されて内戦は終結した（[ムアンマル・アル＝カッザーフィーの死](https://ja.wikipedia.org/wiki/ムアンマル・アル＝カッザーフィーの死 "wikilink")）。
+[2011年](../Page/2011年.md "wikilink")1月、[チュニジア](../Page/チュニジア.md "wikilink")の[ジャスミン革命](https://ja.wikipedia.org/wiki/ジャスミン革命 "wikilink")では「チュニジアは[シャリーア](../Page/シャリーア.md "wikilink")に基づく[イスラム国家](../Page/イスラム国家.md "wikilink")になるべきである」として反政府勢力を支持、[ザイン・アル＝アービディーン・ベン・アリー](../Page/ザイン・アル＝アービディーン・ベン・アリー.md "wikilink")政権打倒の軍事支援を実施している。同年2月、[リビア内戦においても](https://ja.wikipedia.org/wiki/2011年リビア内戦 "wikilink")、反政府勢力への支援を宣言した\[2\]。[リビア](https://ja.wikipedia.org/wiki/リビア "wikilink")の最高指導者[ムアンマル・アル＝カッザーフィー](../Page/ムアンマル・アル＝カッザーフィー.md "wikilink")はAQIMの[反カダフィ勢力](https://ja.wikipedia.org/wiki/反カダフィ勢力 "wikilink")\[3\]への介入を非難したが、[10月20日](../Page/10月20日.md "wikilink")に殺害されて内戦は終結した（[ムアンマル・アル＝カッザーフィーの死](https://ja.wikipedia.org/wiki/ムアンマル・アル＝カッザーフィーの死 "wikilink")）。
 
 2012年、[トンブクトゥ](../Page/トンブクトゥ.md "wikilink")へ進出。市内において世界遺産の遺跡を破壊するとともに、カダフィ大佐がトンブクトゥに所有していた住居を占拠。マリ北部における活動拠点の一つとした\[4\]。
 
@@ -30,6 +30,8 @@
 [2016年](../Page/2016年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")、[ブルキナファソ](../Page/ブルキナファソ.md "wikilink")の首都[ワガドゥグ](https://ja.wikipedia.org/wiki/ワガドゥグ "wikilink")で、外国人客も利用する[ホテル](../Page/ホテル.md "wikilink")と[レストラン](../Page/レストラン.md "wikilink")が武装勢力の襲撃を受け、20人以上が死亡。AQIMが犯行声明を出した\[6\]。
 
 [2019年](../Page/2019年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink")、[マリ共和国](../Page/マリ共和国.md "wikilink")北部[テッサリト圏](https://ja.wikipedia.org/wiki/テッサリト圏 "wikilink")の[国際連合マリ多元統合安定化ミッション](https://ja.wikipedia.org/wiki/国際連合マリ多元統合安定化ミッション "wikilink")（[国際連合平和維持活動](../Page/国際連合平和維持活動.md "wikilink")）部隊の[駐屯地](../Page/駐屯地.md "wikilink")が武装勢力の襲撃を受け、[チャド](../Page/チャド.md "wikilink")人の隊員10人が死亡、少なくとも25人が負傷。AQIMが犯行声明を出した\[7\]。
+
+[2020年](../Page/2020年.md "wikilink")[6月3日](../Page/6月3日.md "wikilink")にフランス軍がマリ共和国北部で行った掃討作戦の結果、最高指導者のが殺害された\[8\]。
 
 ## 脚注
 
@@ -49,3 +51,4 @@
 5.
 6.
 7.
+8.

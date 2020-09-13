@@ -1,52 +1,221 @@
 > この記事は[TOPS-20](https://ja.wikipedia.org/wiki/TOPS-20)から翻訳されています。
 
 
-[right](https://ja.wikipedia.org/wiki/ファイル:TOPS-20.png "wikilink") **TOPS-20**は、[ディジタル・イクイップメント・コーポレーション](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")(DEC)による[PDP-10](../Page/PDP-10.md "wikilink")向けの2番目の[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")である。PDP-10を[TOPS-10](../Page/TOPS-10.md "wikilink")で使っていた[ハッカー](../Page/ハッカー.md "wikilink")(少なくとも[ITSや](../Page/Incompatible_Timesharing_System.md "wikilink")[WAITS](https://ja.wikipedia.org/wiki/WAITS "wikilink")に移行していなかったユーザー)には大歓迎で迎えられた。TOPS-20の起源は、[Bolt, Beranek and Newman社の](https://ja.wikipedia.org/wiki/Bolt,_Beranek_and_Newman "wikilink")**TENEX**オペレーティングシステム([1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink"))であり、特製の[ページング機構を使用していた](../Page/ページング方式.md "wikilink")。このシステムは名前の類似している[TOPS-10](../Page/TOPS-10.md "wikilink")とはほとんど全く関係なかったが、PA1050 TOPS-10モニターコール・エミュレーションファシリティが同梱されていて、これを使用するとTOPS-10用[実行ファイル](../Page/実行ファイル.md "wikilink")を(全部ではないが)ほとんど修正なしで動作させることができた。DEC自身のポリシーとして、DECのソフトウェアが必要とした場合を除いて PA1050 がアップデートされることはなかった。
+**TOPS-20**は[デジタル・イクイップメント・コーポレーション](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")(DEC)によるDECの36ビット[メインフレーム](../Page/メインフレーム.md "wikilink")コンピューター用のプロプライエタリ\[1\]な[OSで](../Page/オペレーティングシステム.md "wikilink")、[PDP-10](../Page/PDP-10.md "wikilink")向けの[TOPS-10](../Page/TOPS-10.md "wikilink")の後継OSである。ハードウェアリファレンスマニュアルには「DECsystem-10 / DECSYSTEM-20 プロセッサ」と記載された（DEC [PDP-10とDECSYSTEM](https://ja.wikipedia.org/wiki/:en:PDP-10 "wikilink")-20を意味している)\[2\]。
+
+TOPS-20の起源は、 [BBNテクノロジーズ](../Page/BBNテクノロジーズ.md "wikilink")(BBN)のTENEXオペレーティングシステム([1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink"))であり、1976年にDECから販売された\[3\]。このシステムは名前の類似している[TOPS-10](../Page/TOPS-10.md "wikilink")とはほぼ全く関係がなかったが、PA1050というTOPS-10のモニターコールをエミュレーションする機能が同梱されており、一部を除いてTOPS-10用[実行ファイル](../Page/実行ファイル.md "wikilink")をほとんど修正なしで動作させることができた。DECの方針により、DECのアプリを実行するのに必要となった場合を除いて、TOPS-10のその後の修正をフォローするためにPA1050をアップデートすることはなかった。
+
+TOPS-20はPDP-10で当時利用可能だったOSとして、TOPS-10、[ITS](../Page/Incompatible_Timesharing_System.md "wikilink")\[4\]、[WAITSなどの著名なタイムシェアリングシステムと競合関係にあった](https://ja.wikipedia.org/wiki/:en:WAITS "wikilink")。
 
 ## TENEX
 
-1960年代、[BBNは](../Page/BBNテクノロジーズ.md "wikilink")[DARPA主導の多くの](../Page/国防高等研究計画局.md "wikilink")[LISP](https://ja.wikipedia.org/wiki/LISP "wikilink")ベースの[人工知能](../Page/人工知能.md "wikilink")プロジェクトに参加していた。その多くは当時としては大容量のメモリを必要とした。その解決策のひとつとしてLISP言語に[ページングソフトウェアを追加し](../Page/ページング方式.md "wikilink")、ある時点で必要とされないメモリをディスクに追い出し、必要になったときにメモリに戻すという方式が考えられた。[マサチューセッツ工科大学](../Page/マサチューセッツ工科大学.md "wikilink")(MIT)の Daniel L. Murphy はBBNに入社する前に[PDP-1](../Page/PDP-1.md "wikilink")上でそのようなシステムを開発していた。初期のDECマシンは18ビットワードで、アドレス空間は 262Kワードまで可能だった。それらのマシンのメモリは高価な[磁気コアメモリ](../Page/磁気コアメモリ.md "wikilink")で、その容量は必要量には全く足りなかったのである。つまり、磁気コアメモリ容量は262Kワードよりずっと小さかったので、アドレス指定に使用する18ビットワードには全く使われないビット群があった。ページング機構はそのアドレスの内の使われていないビット群に[磁気ドラムメモリ](../Page/磁気ドラムメモリ.md "wikilink")上のブロックのテーブルへのキーを埋め込んで使用した。磁気ドラムメモリはページングの「バッキングストア」として機能し、ソフトウェアは必要なページをフェッチして使用する。
+TOPS-20は[BBNが](https://ja.wikipedia.org/wiki/Bolt,_Beranek_and_Newman "wikilink")[DECの](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")[PDP-10](../Page/PDP-10.md "wikilink")用に開発した[TENEX](https://ja.wikipedia.org/wiki/TENEX "wikilink")というOSをベースに開発された。TENEXはPDP-10で動作するサードパーティー製のOSとして当時最も人気があったが、DECが新たに開発した高速なKI-10版PDP-10では動作しなかった。この問題に対応するため、DECのPDP-10担当セールスマネージャはBBNからTENEXの権利を買い取り、新機種に移植するプロジェクトを立ち上げた。最終的には元のTENEXのコードはほとんど残らず、TOPS-20という名前で販売された。
 
-1964年、DECは[PDP-6](../Page/PDP-6.md "wikilink")を発表した。DECは[MIT人工知能研究所](../Page/MIT人工知能研究所.md "wikilink")と関係が深く、LISPハッカー達の様々な要望がこのマシンに取り入れられた。BBNもこのマシンをAI研究用に購入することを検討したが、BBNはDECに Murphy のページング機構を直接システムのハードウェアとして組み込むことを要望した。そのようなハードウェアを追加すれば全プログラムが透過的にページングの恩恵を受け、プログラミングがもっと簡単になる。DECは最初は興味を持ったが、1966年にPDP-6系列の開発を止めて18ビットと新たな16ビットの系列に専念することを発表した。PDP-6は高価で複雑であり、そのせいもあってあまり売れなかったのである。
+## PA1050
 
-しかし、DECが後に[PDP-10](../Page/PDP-10.md "wikilink")と呼ばれるマシンで再度 36ビットの市場に参入することが明らかになるまで長くはかからなかった。BBNはページング機構導入についてのDECとの話し合いを再開し、新しいCPUの名前が KA10 であることを知った。DECはページングにはあまり興味が無かった。話し合いの成果として、メモリ領域を2つに分割し、プログラムをプロテクトされた領域とユーザー領域に分割できるようにした。さらにDECはマシンのコストを可能な限り削減するため、コアメモリ容量を16Kワードとし、[レジスタ (コンピュータ)を](../Page/レジスタ_\(コンピュータ\).md "wikilink")[RAM上に配置することで性能向上を図った](../Page/Random_Access_Memory.md "wikilink")。
+このTOPS-20のおまけは[TOPS-10](../Page/TOPS-10.md "wikilink")のシステムコールをエミュレーションするエミュレーターに過ぎなかった。UUO (Unimplemented User Operation; 未実装ユーザー命令)と呼ばれる仕組みを利用し\[5\]、TOPS-20用ではないコンパイラを実行したり、こうした言語で書かれたユーザープログラムを実行したりするのに必要だった。ユーザーアドレス空間にマップされたパッケージの名称がPA1050だった。PAまたはPATは互換の意味で、10はDECやPDP-10を意味し、50はPDP-10モデル50、10/50、1050を意味していた\[6\]。
 
-それにも関わらずBBNは何台かのPDP-10を購入し、ハードウェアによる独自のページング機構を開発することを決めた。同時にどのようなオペレーティングシステムをこの新しいマシンで動作させるかが議論された。TOPS-10上の既存のソフトウェア資産を最小限の努力で引き続き使用可能にするという大前提があった。このため、TOPS-10にページング機能を組み込むことが必要となり、それが最大の問題となった。同時にTOPS-10は開発者が要望しているいくつかの機能をサポートしていなかった。最終的に彼らは全く新しいシステムを開発し、TOPS-10ソフトウェアを実行するためのエミュレーションライブラリをその上に構築することになった。
+PA1050はPATと呼ばれることもあり、PA1050は特権を持たないユーザーモードのプログラムであり、JSYSコールを使って必要な時だけ動作することから、この名前は体をよく表していた\[7\]。
 
-この新しいシステムはTENEXと呼ばれるようになり、完全な[仮想記憶](../Page/仮想記憶.md "wikilink")システムを含んでいた。すなわち、すべてのプログラムが同時に262Kワードの[アドレス空間](../Page/アドレス空間.md "wikilink")にアクセスできるようになっていた。ページング機構によりマッピングが制御され、必要なページがバッキングストアからコピーされた。後に必要となった修正は、ページング機構がRAMとバッキングストアの間のマッピングを何組か保持し、各プログラムがその内の1つずつを使用するようにしたことである。性能を最適化するため、ページング機構はアクセス時刻情報を保持した。結果としてページング機構はかなり複雑化し、大きな19インチラック筐体を1つ使い切ったのである。
+## TOPS-20の機能
 
-TENEXの特筆すべき機能の1つとしてユーザー指向の[コマンドラインインタプリタ](../Page/コマンドラインインタプリタ.md "wikilink")がある。当時の一般的なシステムとは異なり、TENEXは意図的に長いコマンド名を使用し、将来の拡張に備えて「ノイズワード」と呼ばれる部分も持っていた。例えば、[UNIX](../Page/UNIX.md "wikilink")でディレクトリ内のファイルをリスト表示する`ls`コマンドがあるが、TENEXでは `DIRECTORY (OF FILES)` というコマンド名になっている。ここで、"DIRECTORY" がコマンド名で、"(OF FILES)" がコマンドを明確化するためのノイズワードである。もちろん、ユーザーは長いコマンド名を入力したがらないので、TENEX は *escape recognition*システムを使用して短いキー入力からコマンド名に拡張するようにした。例えば、ユーザーが `DIR` と入力してエスケープキーを押下すると、TENEXのコマンドラインインタプリタは DIR を完全なコマンド名に置き換えたのである。コマンドラインインタプリタの努力により、同様の機構がファイル名にも働いた。これによって人間が読んで理解できる長いファイル名が使えるようになった。TENEXにはクエスチョンマークを入力することで呼び出されるヘルプ機能もあった。その時点の入力にマッチするコマンド群のリストを表示し、抜け出すとクエスチョンマークも消去される。
+TOPS-20は以下の機能によりその特徴を最大限に活用できる。
 
-TENEXは小さなPDP-10市場でかなり人気を呼び、外部ページング機構の開発はそれ自体が小さなビジネスとなった。1970年代初期、DECはPDP-10の新たなプロセッサ KI10 の開発を開始した。BBNは再度DECに接触し、完全なページング機構のサポートを打診したが、DECはもっと単純なシステムを採用することにした。この計画は失敗だった。当時TENEXはPDP-10上で最も人気のあるオペレーティングシステムであり、新しいマシンではこれが動作しなかったのである。**DECsystem-10**と呼ばれたTOPS-10搭載システムにはいかなる種類の仮想記憶システムもなかった。
+  - コマンドプロセッサEXEC.EXEを介してコマンドを入力する\[8\]
+  - マクロ言語(.MAC)からJSYS(Jump to System)を呼び出す\[9\] \[10\]
 
-## TOPS-20
+EXECは主に以下の方法で機能を実現している。
 
-この失敗を糧として、DECのPDP-10担当セールスマネージャはBBNからTENEXの権利を買い取り、新たなマシンにその機能を取り入れるプロジェクトを開始した。同時に Murphy がBBNからDECに移って移植プロジェクトを助けた。主な仕事はBBNのハードウェアによるページング機構をソフトウェアとKI10の単純なハードウェアでエミュレーションすることである。KI10とPDP-6の性能差によってこれが可能となった。また、新たな種類のデバイスをバッキングストアとして使用するため、多くの[デバイスドライバ](../Page/デバイスドライバ.md "wikilink")を新たに開発しなければならなかった。
+  - JSYS経由の呼び出しを含むコード
+  - GALAXYコンポーネント（スプーラなど）からのサービスの要求
 
-この新しいTENEXが出荷されたころ、DECはKI10の低コスト版のKL10の開発を開始した。そのころ、[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")のAIプログラマ達(多くはMIT卒業生)がPDP-10の性能をオリジナルのKA10の10倍にするプロジェクトにとりかかっていた。DECはそこを訪れ、彼らのアイデアの多くがKL10プロジェクトにも取り入れられた。同じ年にIBMも仮想記憶を採用した新たなマシンを発表した。仮想記憶が必須となりつつあったのである。KL10は結果として低コストで様々な変更が加えられた。新たな**DECSYSTEM-20**では、当初からデフォルトのオペレーティングシステムとしてTENEXが動作した。
+### コマンドプロセッサー
 
-新しいマシンの拡張は制限され困難を伴った。主なアップグレードは「拡張アドレス指定」の追加である。これは23ビットアドレスをサポートするものである。追加のビットは[マイクロプログラム方式](../Page/マイクロプログラム方式.md "wikilink")で実装されたページング機構によって追加されている。これによって複数のページを同じ物理的実体にマッピングすることを可能にし、同時により大容量のRAMをサポート可能にした。[下位互換](https://ja.wikipedia.org/wiki/下位互換 "wikilink")を保つため、KL10では必要に応じて18ビットアドレスを生成する命令も持っている。
+TOPS-20は当時としては非常に先進的な機能があった。
 
-このオペレーティングシステムの社内での最初のコードネームは VIROS(VIRtual memory Operating System)であった。顧客から問い合わせが来るようになったため、DECはコードネームを SNARK に変更し、VIROSなるプロジェクトの存在を否定した。SNARK の名前が知られるようになると、さらに逆さにして KRANS とした。しかし、"krans" が[スウェーデン語](../Page/スウェーデン語.md "wikilink")で「葬儀の花輪」という意味であることが判明したので、即座にその使用をやめた(正確には、単に[リースを意味する単語であり](https://ja.wikipedia.org/wiki/リース_\(インテリア\) "wikilink")、この逸話は怪しい)。
+  - コマンド補完 \[11\]
+  - 次のような動的ヘルプ
 
-最終的にDECはTOPS-20という名称を選び、その名称でマーケティングが行われた。ハッカー達はその成り立ちを知っていたので、即座に**TWENEX**(Twenty+TENEX)と名づけた。しかし、その時点でTENEX由来のコードはごく一部であった([AT\&T](../Page/AT&T.md "wikilink")の[Version 7 Unixと](../Page/Version_7_Unix.md "wikilink")[BSD](../Page/BSD.md "wikilink")の関係に似ている)。DECの人々はTWENEXという名前を聞いて嫌な気分になったと言われているが、その名称は一般化し、短縮形の"20x"もよく使われることになった。
+:\* *ノイズワード* - DIRと入力してESCapeキーを押すと次のようになる。
 
-TWENEXは成功を収め、非常に一般化した。実際、[1980年代](../Page/1980年代.md "wikilink")初期、TOPS-20は[UNIX](../Page/UNIX.md "wikilink")などと共に隆盛期を迎えた。しかしDECは[VAX](../Page/VAX.md "wikilink")アーキテクチャと[VMS](https://ja.wikipedia.org/wiki/VMS "wikilink")に専念することを決定し、DECSYSTEM-20およびTWENEXは早々に消え去っていった。DECはTOPS-20ユーザーをVMSに移行させようとしたが、1980年代末にはかつてのTOPS-20ハッカー達はUNIXへと流れていったのである。
+  -
+
+      -
+        DIRectory (of files)
+
+    <!-- end list -->
+
+      -
+        「I」と入力して<ESC>キーを押すと次のようになる。
+          -
+
+              -
+                Information (about)
+
+「？」を入力すると、許されるオペランドや必要なオペランドが補完される。
+
+### コマンド
+
+以下の[コマンド一覧はTOPS](https://ja.wikipedia.org/wiki/コマンド_\(コンピュータ\) "wikilink")-20のコマンドプロセッサによりサポートされる\[12\]。  <small>
+
+  - ACCESS
+  - ADVISE
+  - [APPEND](https://ja.wikipedia.org/wiki/append "wikilink")
+  - ARCHIVE
+  - ASSIGN
+  - ATTACH
+  - BACKSPACE
+  - BLANK
+  - BREAK
+  - BUILD
+  - CANCEL
+  - CLOSE
+  - COMPILE
+  - CONNECT
+  - CONTINUE
+  - [COPY](https://ja.wikipedia.org/wiki/copy_\(command\) "wikilink")
+  - CREATE
+  - CREF
+  - CSAVE
+  - DAYTIME
+  - [DDT](https://ja.wikipedia.org/wiki/Dynamic_debugging_technique "wikilink")
+  - DEASSIGN
+  - [DEBUG](https://ja.wikipedia.org/wiki/debug_\(command\) "wikilink")
+  - DEFINE
+  - [DELETE](https://ja.wikipedia.org/wiki/del_\(command\) "wikilink")
+  - DEPOSIT
+  - DETACH
+  - [DIRECTORY](https://ja.wikipedia.org/wiki/dir_\(command\) "wikilink")
+  - DISABLE
+  - DISCARD
+  - DISMOUNT
+  - EDIT
+  - ENABLE
+  - END-ACCESS
+  - EOF
+  - ERUN
+  - EXAMINE
+  - EXECUTE
+  - EXPUNGE
+  - FDIRECTORY
+  - FORK
+  - FREEZE
+  - GET
+  - [HELP](https://ja.wikipedia.org/wiki/help_\(command\) "wikilink")
+  - INFORMATION
+  - KEEP
+  - LOAD
+  - [LOGIN](https://ja.wikipedia.org/wiki/Login "wikilink")
+  - LOGOUT
+  - MERGE
+  - MODIFY
+  - [MOUNT](https://ja.wikipedia.org/wiki/Mount_\(computing\) "wikilink")
+  - PERUSE
+  - PLOT
+  - POP
+  - [PRINT](https://ja.wikipedia.org/wiki/print_\(command\) "wikilink")
+  - PUNCH
+  - PUSH
+  - R
+  - RECEIVE
+  - REENTER
+  - REFUSE
+  - [REMARK](https://ja.wikipedia.org/wiki/Comment_\(computer_programming\) "wikilink")
+  - [RENAME](https://ja.wikipedia.org/wiki/ren_\(command\) "wikilink")
+  - RESET
+  - RETRIEVE
+  - REWIND
+  - [RUN](https://ja.wikipedia.org/wiki/Run_command "wikilink")
+  - SAVE
+  - SEND
+  - SET
+  - SET HOST
+  - SKIP
+  - [START](https://ja.wikipedia.org/wiki/start_\(command\) "wikilink")
+  - SUBMIT
+  - SYSTAT
+  - TAKE
+  - TALK
+  - TDIRECTORY
+  - TERMINAL
+  - TRANSLATE
+  - [TYPE](https://ja.wikipedia.org/wiki/TYPE_\(DOS_command\) "wikilink")
+  - UNATTACH
+  - [UNDELETE](https://ja.wikipedia.org/wiki/Undeletion "wikilink")
+  - UNKEEP
+  - UNLOAD
+  - VDIRECTORY
+
+</small>
+
+### JSYSの機能
+
+JSYSは **J**ump to **SYS**temの略\[13\]。オペランドにはメモリアドレスの指定もあった。TOPS-20は18ビットまたは30ビットのアドレスを使用できた。モニタコールには1つないしは2つのオペランドが必要だった。一部のコールは両方の形式をサポートした。一部のモニタコールでは指定したアドレスのうちの18ビット以上が無視された。これらのコールは18ビットのアドレスが現在のセクションを参照しているものと解釈された\[14\]。
+
+内部的には、まずGTJFN (Get Job File Number)というJSYSでファイルを識別し、次にOPENFでJFN番号を指定してファイルを開き、ファイルの内容を操作した。
+
+## PCL（プログラム可能コマンド言語）
+
+**PCL（Programmable Command Language）**はTOPS-20で動作するプログラミング言語。PCLのソースプログラムは、デフォルトでは.PCLというファイル形式で保存され、TOPS-20の拡張されたEXECでDECLAREという動詞名を使ってコンパイルでき、コンパイルしたコマンドはEXECの一部として機能した\[15\] \[16\] \[17\] \[18\]。
+
+### PCL言語の機能
+
+PCLには次のような機能があった： \[19\]
+
+  - フロー制御：DO While / Until、CASE / SELECT、IF-THEN-ELSE、GOTO
+  - 文字列操作 (length, substring, concatenation）
+  - システム情報へのアクセス (日付/時刻、ファイル属性、デバイス特性)
+
+## 今日のTOPS-20
+
+[ポール・アレン](../Page/ポール・アレン.md "wikilink")は、TOPS-20が動作するXKL TOAD-2など、死去する前にいくつかの公にアクセス可能な歴史的なコンピューターシステムを維持していました。
+
+## 参照
+
+  - [タイムシェアリングシステムの進化](https://ja.wikipedia.org/wiki/:en:Time-sharing_system_evolution "wikilink")
 
 ## 参考文献
 
-  - Daniel G. Bobrow, Jerry D. Burchfiel, Daniel L. Murphy, Raymond S. Tomlinson, *[TENEX, A Paged Time Sharing System for the PDP-10](http://www.linique.com/dlm/tenex/tenex72.txt)* (*Communications of the ACM*, Vol.15, pp.135-143, 1972年3月)
+  - [デジタルコンピューティングタイムライン](http://www.vt100.net/timeline/1976.html)
 
-<!-- end list -->
+## さらに読む
 
-  - 本項目の一部はジャーゴンファイルの[TWENEXの項目](http://catb.org/~esr/jargon/html/T/TWENEX.html)から英語版に導入されたものを翻訳したものである。
+  - *[Storage Organization and Management in TENEX](http://tenex.opost.com/fjcc72/)* ダニエル・L・マーフィー。 AFIPS Proceedings 1972年 FJCC
+  - *KI10でのTENEXの実装* ダニエル・L・マーフィー TENEXパネルセッション NCC 1974
+  - *[Origins and Development of TOPS-20](http://tenex.opost.com/hbook.html)* ダニエル・L・マーフィー 1989年
+  - [TOPS-20 User's Guide](http://tilt.twenex.org/) 1988.
+  - [DECSYSTEM-20 Assembly Language Guide](ftp://kermit.columbia.edu/kermit/dec20/assembler-guide.txt) フランクダクルス、クリスライランド 1980年
+  - [Running TOPS-20 V4.1 under the SIMH Emulator](http://gunkies.org/wiki/Running_TOPS-20_V4.1_under_SIMH)
 
 ## 外部リンク
 
-いずれも英文
+  - [Origins and Development of TOPS-20](http://tenex.opost.com/hbook.html) 詳細な歴史
+  - [1](http://panda.trailing-edge.com)[Panda TOPS-20 distribution](http://panda.trailing-edge.com/) 。
+  - [2](http://www.twenex.org)[SDF Public Access TWENEX](http://www.twenex.org/) 。
+  - [SIMHシミュレータ](http://simh.trailing-edge.com)PDP-10のシミュレーションとTOPS-20の実行が可能。
+  - [Manuals for DEC 36-bit computers](http://www.36bit.org/dec/manual/) 。
+  - [PDP-10ソフトウェアアーカイブ](http://pdp-10.trailing-edge.com) 。
+  - [36-bits Forever](http://www.inwap.com/pdp10/) 。
+  - [Request a login](https://livingcomputers.org/Computer-Collection/Online-Systems/Request-A-Login.aspx) to [Living Computers: Museum + Labs](https://ja.wikipedia.org/wiki/:en:Living_Computers:_Museum_+_Labs "wikilink") TOPS-20が動くTOAD-2
 
-  - [Origins and Development of TOPS-20](http://www.linique.com/dlm/tenex/hbook.html) 素晴らしい長文の歴史
-  - [Panda Programming TOPS-20 Home Page](http://panda.com/tops-20/) TOPS-20 に関するメーリングリストを管理している
-  - [SDF Public Access TWENEX](http://www.twenex.org/)
+[Category:1969年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1969年のソフトウェア "wikilink")
 
-[Category:オペレーティングシステム](https://ja.wikipedia.org/wiki/Category:オペレーティングシステム "wikilink") [Category:ディジタル・イクイップメント・コーポレーション](https://ja.wikipedia.org/wiki/Category:ディジタル・イクイップメント・コーポレーション "wikilink") [Category:1969年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1969年のソフトウェア "wikilink")
+1.
+2.
+3.
+4.
+5.  <http://www.abbreviations.com/term/223192>
+6.  The 10/50 was the top-of-the-line KA machine at that time.  The family continued with another KA, the 10/55, and then came KI, KL & KS.
+7.
+8.
+9.  The JSYS was the counterpart for the 20 of what was done by TOPS-10 on a "10" and thus the emulator for a DEC PDP-10 Model 50 was what PA1050 was emulating. The 10's system calls were known as UUO's
+10. <ftp://kermit.columbia.edu/kermit/dec20/assembler-guide.txt>
+11. <http://www.opost.com/dlm/tenex/hbook.html>
+12.
+13. <https://www.allacronyms.com/JSYS/Jump_to_System>
+14.
+15.
+16.
+17.
+18.
+19.

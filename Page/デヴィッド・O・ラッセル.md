@@ -29,7 +29,7 @@
   - [ザ・ファイター](https://ja.wikipedia.org/wiki/ザ・ファイター_\(2010年の映画\) "wikilink") *The Fighter* (2010) 監督
   - [世界にひとつのプレイブック](https://ja.wikipedia.org/wiki/世界にひとつのプレイブック "wikilink") *Silver Linings Playbook* (2012) 監督・脚本
   - [アメリカン・ハッスル](https://ja.wikipedia.org/wiki/アメリカン・ハッスル "wikilink") *American Hustle* (2013)　監督・脚本
-  - *[Accidental Love](https://ja.wikipedia.org/wiki/:en:Accidental_Love "wikilink")* (2015) 監督・脚本
+  - 世界にひとつのロマンティック *Accidental Love* (2015) 監督・脚本
   - [ジョイ](https://ja.wikipedia.org/wiki/ジョイ_\(映画\) "wikilink") *Joy* (2015)　監督・脚本・製作
 
 ## 脚注

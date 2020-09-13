@@ -42,8 +42,9 @@ Audacityには次のような特徴がある:
 
 ## 外部リンク
 
-  - [公式サイト](https://www.audacityteam.org/)
+  -
   - [Audacity Wiki](https://wiki.audacityteam.org/wiki/Audacity_Wiki_Home_Page) - [MediaWiki](../Page/MediaWiki.md "wikilink")を利用したWiki。現在はほぼ英語。ライセンスは[cc-by-2.5](../Page/クリエイティブ・コモンズ.md "wikilink")
+
   - [Editing audio in Linux:Audacity](https://arstechnica.com/features/2005/10/linux-audio/3/)（英語）
 
 [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:音声処理ソフト](https://ja.wikipedia.org/wiki/Category:音声処理ソフト "wikilink") [Category:2000年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2000年のソフトウェア "wikilink")

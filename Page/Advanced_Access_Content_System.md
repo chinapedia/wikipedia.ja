@@ -53,9 +53,7 @@ AACSは、既存の[コピーガード](../Page/コピーガード.md "wikilink"
 
 ## 外部リンク
 
-  - [AACS](http://www.aacsla.com/)
-  - [The Authoritative Blu-ray Disc (BD) FAQ](http://www.emedialive.com/Articles/ReadArticle.aspx?ArticleID=11392) by Hugh Bennett
-  - [The Authoritative HD DVD FAQ](http://www.emedialive.com/Articles/ReadArticle.aspx?ArticleID=11629) by Hugh Bennett
+  - [AACS](https://aacsla.com/)
 
 [Category:著作権管理技術](https://ja.wikipedia.org/wiki/Category:著作権管理技術 "wikilink") [Category:Blu-ray_Disc](https://ja.wikipedia.org/wiki/Category:Blu-ray_Disc "wikilink")
 

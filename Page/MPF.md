@@ -17,6 +17,7 @@
   - [増井禎夫](../Page/増井禎夫.md "wikilink")の研究による [卵成熟促進因子](https://ja.wikipedia.org/wiki/卵成熟促進因子 "wikilink") ([細胞生物学](https://ja.wikipedia.org/wiki/細胞生物学 "wikilink")用語 [Maturation promoting factor](https://ja.wikipedia.org/wiki/:en:Maturation_promoting_factor "wikilink")) の略
   - [配線盤等で使用される](../Page/主配線盤.md "wikilink")[ツイストペアケーブル](../Page/ツイストペアケーブル.md "wikilink") [Metallic Path Facilities](https://ja.wikipedia.org/wiki/:en:Metallic_Path_Facilities "wikilink") を略した[有線通信](https://ja.wikipedia.org/wiki/有線通信 "wikilink")用語
   - [最大エントロピー法](../Page/最大エントロピー原理.md "wikilink") (MEM: [Maximum entropy method](https://ja.wikipedia.org/wiki/:en:Principle_of_maximum_entropy "wikilink")) に基づく全回折パターンフィッティング (MEM-based Pattern Fitting) の略
+  - [アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")の歩兵[旅団戦闘団](https://ja.wikipedia.org/wiki/旅団戦闘団 "wikilink")（Infantry Brigade Combat Team＝IBCT）用の機動防護火力「Mobile Protected Firepower（MPF）」計画の略
 
 ## その他
 

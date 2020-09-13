@@ -25,6 +25,9 @@
   - 森署長：[小野寺昭](../Page/小野寺昭.md "wikilink")（[特別出演](https://ja.wikipedia.org/wiki/特別出演 "wikilink")）
   - 園田美恵子：[高瀬春奈](../Page/高瀬春奈.md "wikilink")
   - コンビニ店員：[小橋亜樹](../Page/小橋亜樹.md "wikilink")
+  - ひったくり男:[音尾琢真](../Page/音尾琢真.md "wikilink")
+  - 出前持ち:[佐藤重幸](../Page/戸次重幸.md "wikilink")
+  - 警官:[森崎博之](../Page/森崎博之.md "wikilink")
 
 ## スタッフ
 

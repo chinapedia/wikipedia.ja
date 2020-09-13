@@ -41,7 +41,7 @@ MP7A1では、更にフロントサイドにピカティニー・レールが追
 
 **H\&K P46**は、ドイツ連邦のH\&K社が開発した[自動拳銃](https://ja.wikipedia.org/wiki/自動拳銃 "wikilink")である。
 
-開発中は「UCP（Ultimate Combat Pistol）」と呼ばれていた。
+開発中は「」と呼ばれていた。
 
 ### 特徴
 
@@ -51,7 +51,9 @@ MP7A1では、更にフロントサイドにピカティニー・レールが追
 
 [2003年](../Page/2003年.md "wikilink")のプロトタイプでは同社の[H\&K G11の](../Page/H&K_G11.md "wikilink")[ピストル版とも言える様な直線的なデザインが特徴であったが](../Page/拳銃.md "wikilink")、[2004年](../Page/2004年.md "wikilink")のプロトタイプではグリップ、スライド形状が変更されたものが発表されている。
 
-[2009年](../Page/2009年.md "wikilink")、「拳銃の形から、十分な弾道性能が得られない」との理由で開発中止となった。 {{-}}
+[2009年](../Page/2009年.md "wikilink")、「拳銃の形から、十分な弾道性能が得られない」との理由で開発中止となった。
+
+またサイズや銃身長などからH\&K MP7で十分（大型拳銃やマシンピストルのように片手持ちでも撃てるため）であると考えられた事なども理由としてあげられる。 {{-}}
 
 ## 採用国
 
@@ -59,10 +61,9 @@ MP7A1では、更にフロントサイドにピカティニー・レールが追
 
   -
     アルバニア警察のRENEAに配備\[5\]。
+
   -
     [EKOコブラで使用](../Page/コブラ_\(特殊部隊\).md "wikilink")\[6\]。
-
-<!-- end list -->
 
   -
     [ソマリア](../Page/ソマリア.md "wikilink")での諜報員救出作戦に失敗した際、[アル・シャバブにより殺害されたとされる](https://ja.wikipedia.org/wiki/アル・シャバブ_\(ソマリア\) "wikilink")、フランス特殊部隊員の画像に写っている\[7\]。
@@ -104,10 +105,14 @@ MP7A1では、更にフロントサイドにピカティニー・レールが追
 
   - 『[24 -TWENTY FOUR-](https://ja.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")』
     シーズン6・シーズン7で[ジャック・バウアー](../Page/ジャック・バウアー.md "wikilink")が使用。
-  - 『[G.I.ジョー バック2リベンジ](https://ja.wikipedia.org/wiki/G.I.ジョー_バック2リベンジ "wikilink")』
-    スネークアイズが使用。後半では[二丁持ちしている](../Page/二丁拳銃.md "wikilink")。
-  - 『[REDリターンズ](https://ja.wikipedia.org/wiki/REDリターンズ "wikilink")』
-    ヴィクトリアが[ドットサイトを装着したA](https://ja.wikipedia.org/wiki/照準器#オプティカルサイト（Optical_sight） "wikilink")1を使用する。
+  - 『[G.I.ジョー](https://ja.wikipedia.org/wiki/G.I.ジョー_\(映画\) "wikilink")』
+    バロネスが使用。
+      - 『[G.I.ジョー バック2リベンジ](https://ja.wikipedia.org/wiki/G.I.ジョー_バック2リベンジ "wikilink")』
+        スネークアイズが使用。後半では[二丁持ちしている](../Page/二丁拳銃.md "wikilink")。
+  - 『[RED/レッド](https://ja.wikipedia.org/wiki/RED/レッド "wikilink")』
+    マーヴィンの隠れ家、フランクの武器庫に保管されている。
+      - 『[REDリターンズ](https://ja.wikipedia.org/wiki/REDリターンズ "wikilink")』
+        ヴィクトリアが[ドットサイトを装着したA](https://ja.wikipedia.org/wiki/照準器#オプティカルサイト（Optical_sight） "wikilink")1を使用する。
   - 『[アンダーワールド2 エボリューション](../Page/アンダーワールド:_エボリューション.md "wikilink")』
     セリーンと[吸血鬼](../Page/吸血鬼.md "wikilink")[特殊部隊](../Page/特殊部隊.md "wikilink")が使用。
   - 『[コバート・アフェア](https://ja.wikipedia.org/wiki/コバート・アフェア "wikilink")』
@@ -137,17 +142,26 @@ MP7A1では、更にフロントサイドにピカティニー・レールが追
 
   - 『[S -最後の警官-](https://ja.wikipedia.org/wiki/S_-最後の警官- "wikilink")』
     [テロ組織](https://ja.wikipedia.org/wiki/テロリズム "wikilink")「アルタイル」が[コンサートホール](../Page/コンサートホール.md "wikilink")の[占拠](https://ja.wikipedia.org/wiki/占拠 "wikilink")や、都内での無差別テロで使用する。作品では[米軍内に居るシンパが日本に持ち込んで提供したと推測されている](https://ja.wikipedia.org/wiki/在日米軍 "wikilink")。
+
   - 『[攻殻機動隊 ARISE](https://ja.wikipedia.org/wiki/攻殻機動隊_ARISE "wikilink")』
     草薙素子がA1を[二丁撃ちで使用](../Page/二丁拳銃.md "wikilink")。また、5巻で[ゲリラ](../Page/ゲリラ.md "wikilink")が初期モデルを使用。
+
   - 『[こちら葛飾区亀有公園前派出所](../Page/こちら葛飾区亀有公園前派出所.md "wikilink")』
     富士登山駅伝競走の巻に登場。
+
   - 『[ブラック・ジョーク](https://ja.wikipedia.org/wiki/ブラック・ジョーク_\(漫画\) "wikilink")』
-    『[プランダラ](https://ja.wikipedia.org/wiki/プランダラ "wikilink")』
+
+  - 『[プランダラ](https://ja.wikipedia.org/wiki/プランダラ "wikilink")』
     園原水花が二丁撃ちで使用するほか、単発[射撃](../Page/射撃.md "wikilink")で牽制に使用する。また新型の撃墜王との戦闘では、弾切れになった本銃を相手に投げつけ怯ませた隙に、[格闘戦を仕掛けつつ銃を回収し](../Page/近接格闘術.md "wikilink")[リロードするなど](https://ja.wikipedia.org/wiki/ハンドロード "wikilink")、戦いを避け続けていた彼女からは想像できないほど高度な戦闘を展開している。
+
   - 『[めだかボックス](https://ja.wikipedia.org/wiki/めだかボックス "wikilink")』
     宗像形が二丁持ちで使用。
+
   - 『[ヨルムンガンド](../Page/ヨルムンガンド_\(漫画\).md "wikilink")』
     バルメがA1のEOTech [ホロサイト付きを使用](https://ja.wikipedia.org/wiki/照準器#オプティカルサイト（Optical_sight） "wikilink")。
+
+  - 『[ゲート自衛隊彼の地にて斯く戦えり](https://ja.wikipedia.org/wiki/ゲート自衛隊彼の地にて斯く戦えり "wikilink")』
+    特殊作戦群が使用。また工作員なども使用している。
 
 ### 小説
 
@@ -291,6 +305,8 @@ MP7A1では、更にフロントサイドにピカティニー・レールが追
   - [H\&K MP5](../Page/H&K_MP5.md "wikilink")
   - [H\&K UMP](../Page/H&K_UMP.md "wikilink")
   - [FN P90](../Page/FN_P90.md "wikilink")
+  - [FN Five-seveN](../Page/FN_Five-seveN.md "wikilink")
+  - [4.6x30mm弾](https://ja.wikipedia.org/wiki/4.6x30mm弾 "wikilink")
   - [XM29 OICW](../Page/XM29_OICW.md "wikilink")
   - [陸上自衛隊の装備品一覧](../Page/陸上自衛隊の装備品一覧.md "wikilink")
 

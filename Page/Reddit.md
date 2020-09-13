@@ -23,11 +23,15 @@ Redditは[サンフランシスコ](../Page/サンフランシスコ.md "wikilin
 
 Redditの特筆すべき文化、サブレディットの一つに2009年5月に設立されたIAmA (AMA)と呼ばれるものがある。これは"I Am A" (私は〜である) もしくは"Ask Me Anything" (何でも聞いて) の頭文字であり、投稿者がユーザーの質問に答えるというものである。著名人の参加者として、2012年の選挙キャンペーン中の[バラク・オバマ](https://ja.wikipedia.org/wiki/バラク・オバマ "wikilink")大統領\[3\]や、[マドンナ](https://ja.wikipedia.org/wiki/マドンナ_\(歌手\) "wikilink")、[ビルゲイツ](https://ja.wikipedia.org/wiki/ビルゲイツ "wikilink")、[ロジャー・フェデラー](https://ja.wikipedia.org/wiki/ロジャー・フェデラー "wikilink")などが挙げられる。
 
+Google 広報部門の統計によると、Redditユーザーの74％は男性である。2016年、Pewリサーチセンターは米国の成人の4％がRedditを使用しており、その67％が男性であることを示す調査を発表した。ユーザーの78％が Reddit からニュースを受け取る。ユーザー層は平均的にかなり若く、1％未満のユーザーが65歳以上である傾向がある。
+
+Redditは、そのユーザー層に熱狂的な集団が存在することが一部で知られているが、これは「オフビートで、風変わりで、反体制的である」と形容されている。「スラッシュドット効果」と同様に、Reddit にリンクされた後、トラフィックの大量流入によって小規模なウェブサイトがクラッシュすると、Reddit効果というものが発生する。これはRedditの「死の抱擁」とも呼ばれている。
+
 ## 脚注
 
 ## 外部リンク
 
-  - [Reddit](https://www.reddit.com/)
+  - [reddit](https://www.reddit.com/)
   - [Think you've reddit all?](http://reddit.blogspot.com/) - Reddit 開発チームのブログ
 
 [Category:ニュースサイト](https://ja.wikipedia.org/wiki/Category:ニュースサイト "wikilink") [Category:ソーシャルブックマーク](https://ja.wikipedia.org/wiki/Category:ソーシャルブックマーク "wikilink") [Category:クラウドソーシング](https://ja.wikipedia.org/wiki/Category:クラウドソーシング "wikilink")

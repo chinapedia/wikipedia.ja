@@ -72,7 +72,7 @@
       - 「モーイチ\!」（[モーニング娘。](../Page/モーニング娘。.md "wikilink")）
       - 「モリイチ\!」（[森山直太朗](../Page/森山直太朗.md "wikilink")）
       - 「ヤマイチ\!」（[やまだひさし](../Page/やまだひさし.md "wikilink")）…[やまだひさしのラジアンリミテッドDX](../Page/やまだひさしのラジアンリミテッドDX.md "wikilink")の舞台裏など。
-      - 「ユウイチ\!」（[MCU](https://ja.wikipedia.org/wiki/MCU "wikilink")）
+      - 「ユウイチ\!」（[MCU](../Page/MCU_\(ラッパー\).md "wikilink")）
       - 「ユズイチ\!」（[ゆず](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")）
       - 「ライチ\!」（[木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")）
       - 「リプイチ\!」（[RIP SLYME](../Page/RIP_SLYME.md "wikilink")）

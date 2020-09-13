@@ -1145,7 +1145,8 @@ CMタレント名鑑2006</p></td>
 
 ## 外部リンク
 
-  - [CM NOW](http://www.genkosha.co.jp/cm/)
+  - [CMNOW WEB](https://cmnow.jp/)
+  - [CM NOW](http://www.genkosha.co.jp/cm/) - 玄光社
 
 [Category:日本の隔月刊誌](https://ja.wikipedia.org/wiki/Category:日本の隔月刊誌 "wikilink") [Category:業界雑誌](https://ja.wikipedia.org/wiki/Category:業界雑誌 "wikilink") [Category:1982年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1982年創刊の雑誌 "wikilink") [Category:玄光社](https://ja.wikipedia.org/wiki/Category:玄光社 "wikilink") [Category:CM](https://ja.wikipedia.org/wiki/Category:CM "wikilink")
 

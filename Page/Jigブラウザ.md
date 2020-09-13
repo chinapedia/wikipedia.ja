@@ -5,7 +5,7 @@
 
 ## 特徴
 
-jigブラウザは、[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")及び[EZアプリ (Java)](../Page/EZアプリ_\(Java\).md "wikilink")、[S\!アプリ](../Page/S!アプリ.md "wikilink")端末用のJavaアプリケーションでPC用のWebサイトをそのままのレイアウトで表示させることができるほか、携帯電話の画面にあわせて最適化し表示させることもできる。例えば、[SoftBank 905SH](https://ja.wikipedia.org/wiki/SoftBank_905SH "wikilink") （[AQUOS](https://ja.wikipedia.org/wiki/AQUOS "wikilink")ケータイ） は横画面でも表示ができる。また、[フェンリルの](../Page/フェンリル_\(企業\).md "wikilink")[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")用ウェブブラウザ[Sleipnir](../Page/Sleipnir.md "wikilink")とお気に入りの共有が可能である。
+jigブラウザは、[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")及び[EZアプリ (Java)](../Page/EZアプリ_\(Java\).md "wikilink")、[S\!アプリ](../Page/S!アプリ.md "wikilink")端末用のJavaアプリケーションでPC用のWebサイトをそのままのレイアウトで表示させることができるほか、携帯電話の画面にあわせて最適化し表示させることもできる。例えば、[SoftBank 905SH](https://ja.wikipedia.org/wiki/SoftBank_905SH "wikilink") （[AQUOSケータイ](../Page/アクオス.md "wikilink")） は横画面でも表示ができる。また、[フェンリルの](../Page/フェンリル_\(企業\).md "wikilink")[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")用ウェブブラウザ[Sleipnir](../Page/Sleipnir.md "wikilink")とお気に入りの共有が可能である。
 
 jigブラウザwebは[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")、[EZweb](../Page/EZweb.md "wikilink")、[Yahoo\!ケータイ](../Page/Yahoo!ケータイ.md "wikilink")上でパソコン用サイトを表示するネットアプリケーションであり、jigブラウザwebログインサイトにアクセスして、ログインをしてから始めることができる。
 

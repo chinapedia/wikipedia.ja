@@ -1229,7 +1229,7 @@
 
 その後BS朝日と一部の系列ローカル局で放送されたが、結果的に地上波放送は[平成新局](../Page/平成新局.md "wikilink")2局に留まり\[28\]、逆にテレビ朝日がNETテレビ（日本教育テレビ）の名称だった時代（1976年以前）に開局した老舗局\[29\]\[30\]（1975年に関西地区の[TBS](../Page/TBSテレビ.md "wikilink")[系列との](https://ja.wikipedia.org/wiki/JNN "wikilink")[ネットチェンジ](../Page/ネットチェンジ.md "wikilink")で加入した朝日放送\[31\]\[32\]を含む）や、関西・中京各広域圏の[独立放送局](../Page/全国独立放送協議会.md "wikilink")\[33\]では全く放送がなかった。
 
-なお、放送当時は地上デジタル放送が未実施の地域も多かったことからBSデジタル放送対応受像機・チューナー・レコーダーの普及率が少なく、地上波放送のない地域では視聴が困難な人も多かった。
+なお、放送当時はBSデジタル放送対応受像機・チューナー・レコーダーが開始初期で高価だったことや、地上デジタル放送が未実施の地域が多かったこともあり、機器類の普及率が少なく、地上波放送のない地域では視聴が困難な人も多かった。
 
 <table>
 <thead>
@@ -1277,6 +1277,8 @@
     初参戦の『K』と比べると原作再現は少ない（初登場はダイヤとピュリアが地上へ飛ばされる所から〈32話に当たる部分。ただし、この時点でガイキング・ザ・グレートへの合体はまだ行っていない〉）が、前作で未登場のカイキンクやレベッカ（本作ではヴェスターヌの副官として大地魔竜に搭乗）、キョーコが登場している。
   - [ロボットガールズZ ONLINE](https://ja.wikipedia.org/wiki/ロボットガールズZ "wikilink")（PC向けブラウザゲーム・[USERJOY JAPAN](https://ja.wikipedia.org/wiki/USERJOY_JAPAN "wikilink")）
     2014年9月のアップデートでトリプルガイキング、バルキングを[萌え擬人化](../Page/萌え擬人化.md "wikilink")した「トリプルガイちゃん」「バルちゃん」が登場。この縁で、下述のDVDコレクションの特典として出演声優によるドラマCDが収められる。
+  - [スーパーロボット大戦X-Ω](https://ja.wikipedia.org/wiki/スーパーロボット大戦X-Ω "wikilink")（スマートフォン向けアプリ・バンダイナムコエンターテインメント）
+    2020年8月の期間限定参戦作品としてダイヤとガイキング・ザ・グレートが登場。
 
 ## 映像ソフト化　
 
@@ -1327,7 +1329,7 @@
 27.
 28. この時点で、テレビ朝日系列の東映アニメーションよる地上波全国ネットのアニメは、[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")（現：[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")）の[日曜8:30枠](../Page/朝日放送テレビ制作日曜朝8時30分枠のアニメ.md "wikilink")（[ふたりはプリキュア Max Heart](https://ja.wikipedia.org/wiki/ふたりはプリキュア "wikilink")〜[ふたりはプリキュア Splash Star](https://ja.wikipedia.org/wiki/ふたりはプリキュア_Splash_Star "wikilink")）だけという状態だった。
 29. 関西地区以外のフルネット局では[北海道テレビ](../Page/北海道テレビ放送.md "wikilink")・[東日本放送](../Page/東日本放送.md "wikilink")・[メ〜テレ](../Page/名古屋テレビ放送.md "wikilink")・[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")・[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")・[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")の6局が該当する。
-30. なお、本作の原典である『大空魔竜ガイキング』は販促（[旭通信社](https://ja.wikipedia.org/wiki/アサツーディ・ケイ "wikilink")、[ポピー他](../Page/ポピー_\(玩具メーカー\).md "wikilink")）も関係した児童向けアニメであり、[フジテレビを発局としたゴールデンタイム](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[木曜19:00 - 19:30枠](https://ja.wikipedia.org/wiki/フジテレビ系列木曜夜7時台枠のアニメ "wikilink")）のスポンサードネット番組であったことから、関西地区を含む当該地域の[フジテレビ系列局](../Page/フジネットワーク.md "wikilink")（[北海道文化放送](../Page/北海道文化放送.md "wikilink")・[仙台放送](../Page/仙台放送.md "wikilink")・[東海テレビ](../Page/東海テレビ放送.md "wikilink")・[関西テレビ](../Page/関西テレビ放送.md "wikilink")・[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")・[テレビ西日本](../Page/テレビ西日本.md "wikilink")）では必然的に放送されていた。なあ、[岡山放送](../Page/岡山放送.md "wikilink")については[瀬戸内準広域圏成立前でNETテレビ系列との](../Page/岡山県・香川県の放送.md "wikilink")[クロスネット局](../Page/クロスネット局.md "wikilink")という事情もあり、当該枠では『[ラブラブショー](../Page/ラブラブショー.md "wikilink")』（フジテレビ）を遅れネットしていたため、本放送時点では未放送だった（相互乗り入れ後を含む後年の再放送扱いでの放送については不明）。一方の[香川県](../Page/香川県.md "wikilink")では[日本テレビ系列局の](../Page/日本テレビネットワーク協議会.md "wikilink")[西日本放送](../Page/西日本放送.md "wikilink")が土曜16:55から遅れネットしていた。
-31. ネットチェンジ以前は、現在TBS系列の[毎日放送](../Page/毎日放送.md "wikilink")（[MBSテレビ](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")。法人としては後に持株会社となった[MBSメディアホールディングス](https://ja.wikipedia.org/wiki/MBSメディアホールディングス "wikilink")が、事業としては傘下に設立された毎日放送〈新社〉が該当）がNET系列局だったが、1969年以降はネットチェンジまでは当時独立局だった東京12チャンネル（現：[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）ともクロスネット関係だった。
+30. なお、本作の原典である『[大空魔竜ガイキング](../Page/大空魔竜ガイキング.md "wikilink")』は販促（[旭通信社](https://ja.wikipedia.org/wiki/アサツーディ・ケイ "wikilink")、[ポピー他](../Page/ポピー_\(玩具メーカー\).md "wikilink")）も関係した児童向けアニメであり、[フジテレビを発局としたゴールデンタイム](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[木曜19:00 - 19:30枠](https://ja.wikipedia.org/wiki/フジテレビ系列木曜夜7時台枠のアニメ "wikilink")）のスポンサードネット番組であったことから、関西地区を含む当該地域の[フジテレビ系列局](../Page/フジネットワーク.md "wikilink")（[北海道文化放送](../Page/北海道文化放送.md "wikilink")・[仙台放送](../Page/仙台放送.md "wikilink")・[東海テレビ](../Page/東海テレビ放送.md "wikilink")・[関西テレビ](../Page/関西テレビ放送.md "wikilink")・[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")・[テレビ西日本](../Page/テレビ西日本.md "wikilink")）では必然的に放送されていた。なあ、[岡山放送](../Page/岡山放送.md "wikilink")については[瀬戸内準広域圏成立前でNETテレビ系列との](../Page/岡山県・香川県の放送.md "wikilink")[クロスネット局](../Page/クロスネット局.md "wikilink")という事情もあり、当該枠では『[ラブラブショー](../Page/ラブラブショー.md "wikilink")』（フジテレビ）を遅れネットしていたため、本放送時点では未放送だった（相互乗り入れ後を含む後年の再放送扱いでの放送については不明）。一方の[香川県](../Page/香川県.md "wikilink")では[日本テレビ系列局の](../Page/日本テレビネットワーク協議会.md "wikilink")[西日本放送](../Page/西日本放送.md "wikilink")が土曜16:55から遅れネットしていた。
+31. ネットチェンジ以前は、現在TBS系列の[毎日放送](../Page/毎日放送.md "wikilink")（[MBSテレビ](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")。法人としては後に持株会社となった[MBSメディアホールディングス](https://ja.wikipedia.org/wiki/MBSメディアホールディングス "wikilink")が、事業としては傘下に設立された毎日放送〈新社〉が該当）がNET系列局だったが、1969年以降はネットチェンジまでは当時[独立局だった東京](../Page/独立放送局.md "wikilink")12チャンネル（現：[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）とも一部番組の相互ネット関係があった。
 32. 2018年の持株会社化と事業会社の分社に伴い、法人としては[朝日放送グループホールディングス](../Page/朝日放送グループホールディングス.md "wikilink")が、事業会社としては傘下に設立された[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")が該当する。
 33. 関西広域圏では[サンテレビ](../Page/サンテレビジョン.md "wikilink")・[京都放送](../Page/京都放送.md "wikilink")・[テレビ和歌山](../Page/テレビ和歌山.md "wikilink")・[奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")・[びわ湖放送](../Page/びわ湖放送.md "wikilink")が、中京広域圏では[三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")・[岐阜放送](../Page/岐阜放送.md "wikilink")が該当する。特にサンテレビ・京都放送（旧称：近畿放送）は1970 - 80年代に、岐阜放送は名古屋テレビのNETテレビ系列フルネット化以前に系列局の編成から外れたNETテレビ→テレビ朝日系列番組を個別スポンサードネットを含め相当数放送していた。

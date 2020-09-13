@@ -41,9 +41,9 @@
 
 ## 外部リンク
 
-  - [公式サイト](http://web.archive.org/web/20060112092255/http://www2.odn.ne.jp/~cai37340/profile/cnn.html)
+  - [公式サイト](https://web.archive.org/web/20060112092255/http://www2.odn.ne.jp/~cai37340/profile/cnn.html)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:Cyber_Nation_Network](https://ja.wikipedia.org/wiki/Category:Cyber_Nation_Network "wikilink") [Category:1997年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に結成した音楽グループ "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:Cyber_Nation_Network](https://ja.wikipedia.org/wiki/Category:Cyber_Nation_Network "wikilink") [Category:1997年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に結成した音楽グループ "wikilink")
 
 1.  [日テレG+](https://ja.wikipedia.org/wiki/日テレG+ "wikilink")『どれどれトーク』2010年7月30日
 2.

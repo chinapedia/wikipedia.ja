@@ -57,6 +57,9 @@
   - 三代堅：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
       -
         元M-AGE
+  - 長谷隆治 : [ベース](https://ja.wikipedia.org/wiki/ベース\(弦楽器\) "wikilink")
+      -
+        元NOOKICKY サポートベース
 
 ## メンバーの現在の活動
 

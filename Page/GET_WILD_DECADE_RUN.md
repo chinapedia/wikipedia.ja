@@ -7,15 +7,15 @@
 
 TM NETWORK再始動の曲。再始動にあたり、「『日本語による日本の曲』という巨大なマーケットが出来上がったときに、たまたま『[Get Wild](../Page/Get_Wild.md "wikilink")』が幾つかのアレンジ・リミックスを経て、時代を切り抜けてこれた。やはり『Get Wild』をまた今の音でやるのが、変化がわかりやすい」という小室の提案で「Get Wild」のリメイクとなった\[1\]。
 
-[アレンジが大幅に変更され](../Page/編曲.md "wikilink")、Aメロの[キーが](../Page/調.md "wikilink")1[オクターブ](https://ja.wikipedia.org/wiki/オクターブ "wikilink")低くなり、[歌詞](../Page/歌詞.md "wikilink")が小室により追加・変更され、曲の雰囲気も大幅に変更されている。「DECADE RUN」だけでも何種類か別ヴァージョンがある。「DECADE RUN」をさらに[リミックス](../Page/リミックス.md "wikilink")した「**112 CLUB MIX**」が作られ、[PV用に](../Page/ミュージック・ビデオ.md "wikilink")[サビ](../Page/サビ.md "wikilink")以外は[インストゥルメンタルにされた](../Page/器楽曲.md "wikilink")[ミックスも用意されており](../Page/ミキシング.md "wikilink")、アルバム『[キヲクトキロク](../Page/キヲクトキロク_〜_Major_Turn-Round.md "wikilink")』にはラフミックスの「**'99 Version**」が収録されている。
+[アレンジが大幅に変更され](../Page/編曲.md "wikilink")、Aメロの[キーが](../Page/調.md "wikilink")1[オクターブ](https://ja.wikipedia.org/wiki/オクターブ "wikilink")低くなり、[歌詞](../Page/歌詞.md "wikilink")が小室により追加・変更され、曲の雰囲気も大幅に変更されている。「DECADE RUN」だけでも何種類か別ヴァージョンがある。「DECADE RUN」をさらに[リミックス](../Page/リミックス.md "wikilink")した「**112 CLUB MIX**」が作られ、「DECADE RUN」のカップリングに収録されている。また、[PV用に最後の](../Page/ミュージック・ビデオ.md "wikilink")[サビ](../Page/サビ.md "wikilink")以外は[インストゥルメンタルにされた](../Page/器楽曲.md "wikilink")[ミックスも用意されており](../Page/ミキシング.md "wikilink")、アルバム『[キヲクトキロク](../Page/キヲクトキロク_〜_Major_Turn-Round.md "wikilink")』には「DECADE RUN」のラフミックスの「**'99 Version**」が収録されている。
 
 宇都宮は「音を聴いた瞬間『これは新曲だ』と思った位、原曲とはトライの仕方からリズムの取り方全てが違っていた」と語っている\[2\]。
 
 [c/wの](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")「IT'S GONNA BE ALRIGHT」は、実質的な再活動後の1曲目となる新曲。元々、[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")にヴェルディ川崎（現・[東京ヴェルディ](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink")）からサポートソングの依頼が来ていたが、これをTM NETWORKでやってはどうかという木根の提案により、TM NETWORKとしてのリリースとなった\[3\]。当時長らくプロデューサーに徹していた小室は「中々バンドマン視点でのアイディアが湧かず、詰んでいた」状態で制作したという\[4\]。
 
-アナログ盤も発売され、CDには未収録の「GET WILD DECADE RUN」のインストゥルメンタル・バージョンが収録されている。その代わり、「IT'S GONNA BE ALRIGHT」のインストゥルメンタル・ヴァージョンはこちらには未収録となっている。
+アナログ盤も発売され、CDには未収録の「GET WILD DECADE RUN」のインストゥルメンタル・バージョンが収録されている。その代わり、CDには収録されていた「IT'S GONNA BE ALRIGHT」のインストゥルメンタル・ヴァージョンはこちらには未収録となっている。
 
-2012年にリリースされた『[ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink")』には、アナログ盤限定であったインストゥルメンタル・ヴァージョンが新規に収録されている。
+2012年にリリースされた『[ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink")』には、アナログ盤限定であった「DECADE RUN」のインストゥルメンタル・ヴァージョンが初CD化され、収録されている。
 
 ## 収録曲
 

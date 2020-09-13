@@ -29,17 +29,23 @@
 
 ## 参加ミュージシャン
 
-  - 織田哲郎 - ギター、キーボード、シンセサイザー、エレクトリックシタール、コーラス
+  - 織田哲郎 - ギター、12弦ギター、クラシック・ギター、キーボード、リズム & シンセサイザー・プログラミング、エレクトリックシタール、オルガン、コーラス
   - [近藤房之助](../Page/近藤房之助.md "wikilink") - ゲストボーカル(M-3)
       - [青山純](../Page/青山純.md "wikilink") - ドラム
       - [伊藤広規](https://ja.wikipedia.org/wiki/伊藤広規 "wikilink") - ベース
       - [渡辺直樹](../Page/渡辺直樹_\(ミュージシャン\).md "wikilink") - ベース
+      - ボビー・ワトソン - ベース
       - [勝田一樹](../Page/勝田一樹.md "wikilink") - サックス
-      - [澤野弘之](../Page/澤野弘之.md "wikilink") - トランペット
+      - 澤野博敬 - トランペット
       - [野村裕幸](../Page/野村裕幸.md "wikilink") - トロンボーン
-      - [葉山たけし](../Page/葉山たけし.md "wikilink") - コーラス、ギター、シンセサイザー、プログラミング
+      - [葉山たけし](../Page/葉山たけし.md "wikilink") - リズム & シンセサイザー・プログラミング、キーボード、ギター、クラシック・ギター、コーラス
+      - [佐藤博](https://ja.wikipedia.org/wiki/佐藤博_\(ミュージシャン\) "wikilink") - クラビネット、エレクトリック・ピアノ
+      - エルトン永田 - アコースティック・ピアノ
+      - [小野塚晃](../Page/小野塚晃.md "wikilink") - エレクトリック・ピアノ、シンセサイザー
+      - 渡部良 - コーラス
+      - 岡柚瑠 - コーラス
       - [大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink") - コーラス
       - [坪倉唯子](../Page/坪倉唯子.md "wikilink") - コーラス
-      - [小野塚晃](../Page/小野塚晃.md "wikilink") - シンセサイザー
+      - [ちわきまゆみ](../Page/ちわきまゆみ.md "wikilink") - ボイス
 
 [Category:織田哲郎のアルバム](https://ja.wikipedia.org/wiki/Category:織田哲郎のアルバム "wikilink") [Category:BMGビクターのアルバム](https://ja.wikipedia.org/wiki/Category:BMGビクターのアルバム "wikilink") [Category:1992年のアルバム](https://ja.wikipedia.org/wiki/Category:1992年のアルバム "wikilink")

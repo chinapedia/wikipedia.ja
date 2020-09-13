@@ -1,7 +1,7 @@
 > この記事は[OMCカード](https://ja.wikipedia.org/wiki/OMCカード)から翻訳されています。
 
 
-**OMCカード**（オーエムシーカード）は、**株式会社[セディナ](https://ja.wikipedia.org/wiki/セディナ "wikilink")**が発行するクレジットカードである。
+**OMCカード**（オーエムシーカード）は、**[SMBCファイナンスサービス](../Page/SMBCファイナンスサービス.md "wikilink")株式会社**が発行する[クレジットカード](../Page/クレジットカード.md "wikilink")である。
 
 ## 概要
 

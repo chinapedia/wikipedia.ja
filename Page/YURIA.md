@@ -1,7 +1,7 @@
 > この記事は[YURIA](https://ja.wikipedia.org/wiki/YURIA)から翻訳されています。
 
 
-**YURIA**（ゆりあ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。
+**YURIA**（ゆりあ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[ギタリスト](../Page/ギタリスト.md "wikilink")、[ベーシスト](../Page/ベーシスト.md "wikilink")。
 
 [大阪府](../Page/大阪府.md "wikilink")出身。ソロ歌手としての活動をはじめ、多数の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[ユニット](../Page/音楽ユニット.md "wikilink")（[Honey Bee](../Page/Honey_Bee.md "wikilink")・[すいーつたんけんたい](../Page/すいーつたんけんたい.md "wikilink")・[第二文芸部](https://ja.wikipedia.org/wiki/第二文芸部 "wikilink")・道頓堀ダイバーズ・Y-p-H・DRAWERS・PINKY DOODLE POODLE・re-in.Carnation∞YURIA）で[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")、[ギター](../Page/ギター.md "wikilink")、[ベースなどを兼任している](../Page/ベース_\(弦楽器\).md "wikilink")。また、音楽家としての活動のみならず、[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")や[声優](../Page/声優.md "wikilink")、[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")、コラム執筆など幅広く活動している。
 
@@ -12,7 +12,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p>#</p></th>
+<th></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格品番</p></th>
@@ -70,6 +70,13 @@
 <td><p>LACM-4776</p></td>
 <td><p>200位</p></td>
 </tr>
+<tr class="even">
+<td><p>※</p></td>
+<td><p>2020年1月31日</p></td>
+<td><p><strong>色めく花、咲き誇る夏へ</strong></p></td>
+<td></td>
+<td><p>位</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -123,7 +130,7 @@
 | 3月28日     | [サンセット・サンライズ](https://ja.wikipedia.org/wiki/サンセット・サンライズ "wikilink")                                                                                                 | **YURIA**                                                                                                   | 「ダーリン」                                                                       | PCゲーム『[エーデルワイス](../Page/エーデルワイス_\(ゲーム\).md "wikilink")』伊吹芽衣イメージテーマ                                    |
 | 8月22日     | [School Days Ending Theme+](https://ja.wikipedia.org/wiki/School_Days_Ending_Theme+ "wikilink")                                                                     | 「Look at me」                                                                                                | テレビアニメ『[School Days](../Page/School_Days_\(アニメ\).md "wikilink")』第5話エンディングテーマ |                                                                                                       |
 | 2008年     |                                                                                                                                                                     |                                                                                                             |                                                                              |                                                                                                       |
-| 1月16日     | FairChild GM Original Soundtrack                                                                                                                                    | **YURIA**                                                                                                   | 「Twinkle Love」                                                               | PCゲーム『[FairChild -フェアチャイルド-](../Page/FairChild_-フェアチャイルド-.md "wikilink")』イメージソング                      |
+| 1月16日     | FairChild GM Original Soundtrack                                                                                                                                    | **YURIA**                                                                                                   | 「Twinkle Love」                                                               | PCゲーム『[FairChild](https://ja.wikipedia.org/wiki/FairChild "wikilink")』イメージソング                         |
 | 3月26日     | [milktub 15th ANNIVERSARY BEST ALBUM BPM200 ROCK'N'ROLL SHOW](https://ja.wikipedia.org/wiki/milktub_15th_ANNIVERSARY_BEST_ALBUM_BPM200_ROCK'N'ROLL_SHOW "wikilink") | [yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")、[佐藤ひろ美](../Page/佐藤ひろ美.md "wikilink")、**YURIA** | 「ガッデーム&ジュテーム」                                                                | PCゲーム『ガッデーム&ジュテーム』主題歌                                                                                 |
 | 2010年     |                                                                                                                                                                     |                                                                                                             |                                                                              |                                                                                                       |
 | 5月26日     | PCゲーム「処女はお姉さまに恋してる 2人のエルダー」ボーカルミニアルバム                                                                                                                               | **YURIA**                                                                                                   | 「アンダーハンデッド・ガール」                                                              | PCゲーム『[処女はお姉さまに恋してる 2人のエルダー](https://ja.wikipedia.org/wiki/処女はお姉さまに恋してる_2人のエルダー "wikilink")』オープニングテーマ |
@@ -139,7 +146,7 @@
 | 2007年 |                                              |                 |            |                                                                                                  |
 | 4月11日 | SHUFFLE\! MEMORIES CHARACTER SONG ALBUM      | 時雨亜麻（**YURIA**） | 「treasure」 | テレビアニメ『[SHUFFLE\! MEMORIES](https://ja.wikipedia.org/wiki/SHUFFLE!_MEMORIES "wikilink")』関連曲      |
 
-## 作詞作曲作品
+## 作詞・作曲作品
 
 **2003年**
 
@@ -231,7 +238,7 @@
 
 ## 外部リンク
 
-  - [YURIA 公式ウェブサイト『YURIA Life Plus』](http://yuria.pink)
+  - [YURIA 公式ウェブサイト『YURIA Life Plus』](https://yuria.pink/)
 
   - [YURIA ☆ PINKY DOODLE POODLEオフィシャルブログ『「YURIA's blog」』Powered by Ameba](https://ameblo.jp/yuria-pdp/)（2009年1月09日 - 旧ブログ 、[アメーバブログ](../Page/アメーバブログ.md "wikilink")）
 

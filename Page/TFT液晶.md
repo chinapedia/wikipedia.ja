@@ -1,7 +1,7 @@
 > この記事は[TFT液晶](https://ja.wikipedia.org/wiki/TFT液晶)から翻訳されています。
 
 
-**TFT液晶 (thin-film-transistor liquid-crystal display)** また**薄膜トランジスタ液晶**は[薄膜トランジスタ](../Page/薄膜トランジスタ.md "wikilink")を[スイッチング素子](https://ja.wikipedia.org/wiki/スイッチング素子 "wikilink")として使用する表示素子であり、[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")や[薄型テレビ](../Page/薄型テレビ.md "wikilink")に幅広く使用される。
+[EIZO_FlexScan_L461_16.0inch.jpg](https://ja.wikipedia.org/wiki/ファイル:EIZO_FlexScan_L461_16.0inch.jpg "wikilink") **TFT液晶 (thin-film-transistor liquid-crystal display)** また**薄膜トランジスタ液晶**は[薄膜トランジスタ](../Page/薄膜トランジスタ.md "wikilink")を[スイッチング素子](https://ja.wikipedia.org/wiki/スイッチング素子 "wikilink")として使用する表示素子であり、[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")や[薄型テレビ](../Page/薄型テレビ.md "wikilink")に幅広く使用される。
 
 [LCD_Panel_drive_(Active).PNG](https://ja.wikipedia.org/wiki/File:LCD_Panel_drive_\(Active\).PNG "fig:LCD_Panel_drive_(Active).PNG")と呼ばれる[FETが配置され](../Page/電界効果トランジスタ.md "wikilink")、2本の[バス線がFETのゲートとソースに接続されている](../Page/バス_\(コンピュータ\).md "wikilink")。FETのドレイン側にはサブピクセルとなる液晶電極、そして[コンデンサ](../Page/コンデンサ.md "wikilink")（キャパシタ）がつながれ、これら2つの容量性素子の反対側は共通電極（コモン電極）になっている。ゲート電極線に加えられた電圧によってそれに接続されている1列分すべてのFETが"ON"動作となることで、ソースとドレイン間に電流が流れ、そのときソース電極線に加えられている各々の電圧が液晶電極にかかり、コンデンサには電圧に応じた電荷が蓄積される。ゲート電極線は1列分の充電を終えると電圧の印加は次の列に移り、最初の1列分のFETはゲート電圧を失って"OFF"動作となる。最初の1列分の液晶電極はソース電極線からの電圧を失うが同時にコンデンサに蓄積された電荷によって次にゲート電極線が選択されるまでの1フレーム分の時間、必要な電圧をほとんど維持できる。コンデンサの共通電極線は隣接するサブ画素のゲート電極線で代替することがある。このようにTFTをスイッチとして使ったアクティブ・マトリクス駆動方式では、ゲート電極線によって同時に多数のFETへ電圧を加えることができるので、膨大な画素にも対応でき、コンデンサによって表示を維持できる。\]\] [LCD_schematic_(Single_Sub-cell,_add-cap._type).PNG](https://ja.wikipedia.org/wiki/File:LCD_schematic_\(Single_Sub-cell,_add-cap._type\).PNG "fig:LCD_schematic_(Single_Sub-cell,_add-cap._type).PNG")
 

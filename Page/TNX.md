@@ -7,7 +7,7 @@
 
 [つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")（本名・寺田光男）が[社長](../Page/社長.md "wikilink")を務めるレコード会社であり、[CD](../Page/コンパクトディスク.md "wikilink")・[DVD](../Page/DVD.md "wikilink")・[BDの原盤制作](../Page/Blu-ray_Disc.md "wikilink")・製造・発売の他、イベントの企画、新人の発掘などを行う。
 
-社名は、感謝を英語で訳した「Thanks」を由来とし、「ks」を「x」に置き換えてTNXとしている。
+社名は、感謝を意味する英語の「Thanks」を由来としている。
 
 ## レーベル
 

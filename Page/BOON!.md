@@ -35,7 +35,7 @@
 
 ## 外部リンク
 
-  - [日本テレビ公式サイト内 BOON\!](http://www.ntv.co.jp/boon/index.html)
+  -
   - [HONDA PRESS INFORMATION モータースポーツ専門のTV番組、二輪情報専門のラジオ番組提供を開始](http://www.honda.co.jp/news/1999/c990920.html)
 
-[Category:1999年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のテレビ番組_\(日本\) "wikilink") [Category:日本テレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビの深夜番組の歴史 "wikilink") [Category:日本テレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:日本テレビのスポーツ番組 "wikilink") [Category:日本テレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:日本テレビの一社提供番組 "wikilink") [Category:日本のモータースポーツ番組](https://ja.wikipedia.org/wiki/Category:日本のモータースポーツ番組 "wikilink") [Category:本田技研工業一社提供番組](https://ja.wikipedia.org/wiki/Category:本田技研工業一社提供番組 "wikilink")
+[Category:1999年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のテレビ番組_\(日本\) "wikilink") [Category:日本テレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビの深夜番組の歴史 "wikilink") [Category:日本テレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:日本テレビのスポーツ番組 "wikilink") [Category:日本テレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:日本テレビの一社提供番組 "wikilink") [Category:日本のモータースポーツ番組](https://ja.wikipedia.org/wiki/Category:日本のモータースポーツ番組 "wikilink") [Category:本田技研工業一社提供番組](https://ja.wikipedia.org/wiki/Category:本田技研工業一社提供番組 "wikilink") [Category:長野博](https://ja.wikipedia.org/wiki/Category:長野博 "wikilink")

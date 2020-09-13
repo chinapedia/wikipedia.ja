@@ -38,7 +38,7 @@
 
 ## 外部リンク
 
-  - [Eminem(公式日本語)](http://www.universal-music.co.jp/u-pop/artist/eminem/top.html)
+  - [Eminem(公式日本語)](https://www.universal-music.co.jp/eminem/)
   - [Listen JAPAN(日本語)](http://www.listen.co.jp/xtpart8583.jsp)
 
 [Category:エミネムのアルバム](https://ja.wikipedia.org/wiki/Category:エミネムのアルバム "wikilink") [Category:2000年のアルバム](https://ja.wikipedia.org/wiki/Category:2000年のアルバム "wikilink")

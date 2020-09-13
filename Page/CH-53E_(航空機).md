@@ -101,19 +101,19 @@
 
 ## 外部リンク
 
-  - [海上自衛隊](http://www.mod.go.jp/msdf/) - [MH-53E（紹介）](http://www.mod.go.jp/msdf/formal/gallery/aircraft/yusou/details/mh-53e.html)
-  - [CH-53/MH-53E history](https://web.archive.org/web/20120117054957/http://www.history.navy.mil/planes/ch53.htm)、[CH-53E](http://www.navair.navy.mil/index.cfm?fuseaction=home.displayPlatform&key=25A327F8-4E42-4FB9-AB34-8609E6657215), and [MH-53E pages on Navy.mil](http://www.navair.navy.mil/index.cfm?fuseaction=home.displayPlatform&key=51A3587E-C772-4ADC-8197-4F4FE69216BB)
+  - [海上自衛隊](https://www.mod.go.jp/msdf/) - [MH-53E（紹介）](https://www.mod.go.jp/msdf/formal/gallery/aircraft/yusou/details/mh-53e.html)
+  - [CH-53/MH-53E history](https://web.archive.org/web/20120117054957/http://www.history.navy.mil/planes/ch53.htm)、[CH-53E](https://www.navair.navy.mil/news/CH-53E-Heavy-Lift-Helicopter-Reaches-One-Million-Flight-Hours/Wed-07102019-1324), and [MH-53E pages on Navy.mil](https://www.navair.navy.mil/product/MH-53E-Sea-Dragon)
   - [CH-53D/E page on USMC.mil](https://web.archive.org/web/20061109071259/http://hqinet001.hqmc.usmc.mil/AVN/documents/aircraft/rotarywing/ch53.htm)
   - [CH-53E/S-80E page](https://web.archive.org/web/20081216002150/http://www.sikorsky.com/sik/products/military/ch53/ch53e.asp)、[MH-53E page on Sikorsky.com](https://web.archive.org/web/20081216002155/http://www.sikorsky.com/sik/products/military/ch53/mh53e.asp)
   - [The History of Heavy Lift: Can the 1947 Vision of an All Heavy Helicopter Force Achieve Fruition in 2002?](https://web.archive.org/web/20120310041339/http://stinet.dtic.mil/cgi-bin/GetTRDoc?AD=A403884&Location=U2&doc=GetTRDoc.pdf)
   - [CH-53E](http://www.globalsecurity.org/military/systems/aircraft/ch-53e.htm)、[MH-53E pages on GlobalSecurity.org](http://www.globalsecurity.org/military/systems/aircraft/mh-53e.htm)
-  - [Envelopment and the Future Transport Rotorcraft, RAND](http://www.rand.org/pubs/monograph_reports/MR1713.html)
+  - [Envelopment and the Future Transport Rotorcraft, RAND](https://www.rand.org/pubs/monograph_reports/MR1713.html)
 
 [Category:アメリカ合衆国のヘリコプター](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のヘリコプター "wikilink") [Category:軍用ヘリコプター](https://ja.wikipedia.org/wiki/Category:軍用ヘリコプター "wikilink") [Category:艦載ヘリコプター](https://ja.wikipedia.org/wiki/Category:艦載ヘリコプター "wikilink") [Category:アメリカ合衆国の軍用輸送機](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の軍用輸送機 "wikilink") [Category:アメリカ合衆国海兵隊の装備](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国海兵隊の装備 "wikilink") [Category:海上自衛隊の装備品](https://ja.wikipedia.org/wiki/Category:海上自衛隊の装備品 "wikilink") [Category:シコルスキーの航空機](https://ja.wikipedia.org/wiki/Category:シコルスキーの航空機 "wikilink")
 
 1.  [被災地でも活躍、海自ヘリが退役…岩国航空基地 : 社会 : 読売新聞（YOMIURI ONLINE）](http://www.yomiuri.co.jp/national/20170304-OYT1T50109.html)
 2.  [防衛省、用途廃止したMH-53Eの部品などをアメリカに売却へ](http://flyteam.jp/news/article/49897)
-3.  \[<http://www.mod.go.jp/j/press/news/2015/05/13b.html>　用途廃止したMH-53Eの部品等の米国への提供について 2015.5.13防衛省\]
+3.  \[<https://www.mod.go.jp/j/press/news/2015/05/13b.html>　用途廃止したMH-53Eの部品等の米国への提供について 2015.5.13防衛省\]
 4.
 5.  \[<https://mainichi.jp/articles/20170304/ddl/k35/040/635000c>　掃海・輸送ヘリ:全１１機が退役　阪神大震災、東日本大震災、熊本地震にも派遣　海自岩国基地　／山口\].毎日新聞（2017年3月4日）2017年10月19日閲覧
 6.

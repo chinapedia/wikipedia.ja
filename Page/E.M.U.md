@@ -1,7 +1,7 @@
 > この記事は[E.M.U](https://ja.wikipedia.org/wiki/E.M.U)から翻訳されています。
 
 
-**E.M.U**（えむ）は、[緑川光](../Page/緑川光.md "wikilink")・[神奈延年](../Page/神奈延年.md "wikilink")（当時は「林延年」）・[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")・[石川英郎](../Page/石川英郎.md "wikilink")・[阪口大助](../Page/阪口大助.md "wikilink")の5人による[声優ユニット](../Page/声優ユニット.md "wikilink")。
+**E.M.U**（イーエムユー）は、[緑川光](../Page/緑川光.md "wikilink")・[神奈延年](../Page/神奈延年.md "wikilink")（当時は「林延年」）・[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")・[石川英郎](../Page/石川英郎.md "wikilink")・[阪口大助](../Page/阪口大助.md "wikilink")の5人による[声優ユニット](../Page/声優ユニット.md "wikilink")。
 
 ## 概要
 

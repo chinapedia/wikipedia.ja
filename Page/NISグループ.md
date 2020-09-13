@@ -55,7 +55,7 @@
 
 ## 外部リンク
 
-  - [NISグループ](http://www.nisgroup.jp/) - 破産手続後は破産管財人が管理。
+  - \- 破産手続後は破産管財人が管理。
 
 [Category:かつて存在した東京都の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した東京都の企業 "wikilink") [Category:かつて存在した愛媛県の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した愛媛県の企業 "wikilink") [Category:かつて存在した日本の貸金業者](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の貸金業者 "wikilink") [Category:経営破綻した企業(東京都)](https://ja.wikipedia.org/wiki/Category:経営破綻した企業\(東京都\) "wikilink") [Category:経営破綻した企業(愛媛県)](https://ja.wikipedia.org/wiki/Category:経営破綻した企業\(愛媛県\) "wikilink") [Category:1960年設立の企業](https://ja.wikipedia.org/wiki/Category:1960年設立の企業 "wikilink") [Category:2018年廃止の企業](https://ja.wikipedia.org/wiki/Category:2018年廃止の企業 "wikilink") [Category:1994年上場の企業](https://ja.wikipedia.org/wiki/Category:1994年上場の企業 "wikilink")
 

@@ -25,7 +25,7 @@
 
 ### 私生活
 
-2008年9月6日に[スカイ島](../Page/スカイ島.md "wikilink")にて、バックバンドのドラマー、[ルーク・バレン](https://ja.wikipedia.org/wiki/ルーク・バレン "wikilink")と結婚\[7\]。
+2008年9月6日に[スカイ島](../Page/スカイ島.md "wikilink")にて、バックバンドのドラマー、[ルーク・バレン](https://ja.wikipedia.org/wiki/ルーク・バレン "wikilink")と結婚し、2013年に離婚した。 \[7\]
 
 ## ディスコグラフィ
 
@@ -95,7 +95,7 @@
   -
   -
   -
-[Category:スコットランドのシンガーソングライター](https://ja.wikipedia.org/wiki/Category:スコットランドのシンガーソングライター "wikilink") [Category:スコットランドのポップ歌手](https://ja.wikipedia.org/wiki/Category:スコットランドのポップ歌手 "wikilink") [Category:スコットランドのロック歌手](https://ja.wikipedia.org/wiki/Category:スコットランドのロック歌手 "wikilink") [Category:アイルランド系スコットランド人](https://ja.wikipedia.org/wiki/Category:アイルランド系スコットランド人 "wikilink") [Category:中国系スコットランド人](https://ja.wikipedia.org/wiki/Category:中国系スコットランド人 "wikilink") [Category:セント・アンドルーズ出身の人物](https://ja.wikipedia.org/wiki/Category:セント・アンドルーズ出身の人物 "wikilink") [Category:1975年生](https://ja.wikipedia.org/wiki/Category:1975年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink")
+[Category:スコットランドのシンガーソングライター](https://ja.wikipedia.org/wiki/Category:スコットランドのシンガーソングライター "wikilink") [Category:スコットランドのポップ歌手](https://ja.wikipedia.org/wiki/Category:スコットランドのポップ歌手 "wikilink") [Category:スコットランドのロック歌手](https://ja.wikipedia.org/wiki/Category:スコットランドのロック歌手 "wikilink") [Category:ブリット・アワード受賞者](https://ja.wikipedia.org/wiki/Category:ブリット・アワード受賞者 "wikilink") [Category:アイルランド系スコットランド人](https://ja.wikipedia.org/wiki/Category:アイルランド系スコットランド人 "wikilink") [Category:中国系スコットランド人](https://ja.wikipedia.org/wiki/Category:中国系スコットランド人 "wikilink") [Category:セント・アンドルーズ出身の人物](https://ja.wikipedia.org/wiki/Category:セント・アンドルーズ出身の人物 "wikilink") [Category:1975年生](https://ja.wikipedia.org/wiki/Category:1975年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink")
 
 1.  「**ケイティー・タンストール**」の表記もある。
 2.   Luck Is Being Ready|url=[https://www.scotsmagazine.com/articles/kt-tunstall/|accessdate=2018-11-15|work=The](https://www.scotsmagazine.com/articles/kt-tunstall/%7Caccessdate=2018-11-15%7Cwork=The) Scots Magazine|publisher=D.C. Thomson & Co. Ltd.|date=2014-07-02}}

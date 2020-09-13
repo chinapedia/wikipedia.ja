@@ -30,7 +30,7 @@
   - [LIMBO](https://ja.wikipedia.org/wiki/LIMBO "wikilink")（コンテンツアイコン：「暴力」）
   - [DARK SOULS REMASTERED](https://ja.wikipedia.org/wiki/DARK_SOULS_REMASTERED "wikilink")（コンテンツアイコン：「暴力」）
   - [SAMURAI SPIRITS](../Page/SAMURAI_SPIRITS.md "wikilink")（コンテンツアイコン：「暴力」）
-  - [神獄塔 メアリスケルター2](https://ja.wikipedia.org/wiki/神獄塔_メアリスケルター2 "wikilink")（コンテンツアイコン：「セクシャル」）
+  - 神獄塔 メアリスケルター2 for Nintendo Switch（コンテンツアイコン：「セクシャル」）
   - [ぎゃる☆がん2](https://ja.wikipedia.org/wiki/ぎゃる☆がん2 "wikilink")（コンテンツアイコン：「セクシャル」）
   - [ベヨネッタ](https://ja.wikipedia.org/wiki/ベヨネッタ "wikilink")（コンテンツアイコン：「セクシャル、暴力、犯罪」）
   - [返校](https://ja.wikipedia.org/wiki/返校 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
@@ -38,6 +38,7 @@
   - [スーパーリアル麻雀PV](https://ja.wikipedia.org/wiki/スーパーリアル麻雀#スーパーリアル麻雀PV "wikilink")（コンテンツアイコン：「セクシャル」）
   - [スーパーリアル麻雀PVI](https://ja.wikipedia.org/wiki/スーパーリアル麻雀#スーパーリアル麻雀PVI "wikilink")（コンテンツアイコン：「セクシャル」）
   - [スーパーリアル麻雀P7](https://ja.wikipedia.org/wiki/スーパーリアル麻雀#スーパーリアル麻雀P7 "wikilink")（コンテンツアイコン：「セクシャル」）
+  - キルラキル ザ・ゲーム－異布ー（コンテンツアイコン：［セクシャル」）
   - [アズールレーン クロスウェーブ](https://ja.wikipedia.org/wiki/アズールレーン "wikilink")（コンテンツアイコン：「セクシャル」）
     PS4版では。
 
@@ -180,7 +181,7 @@
 ### PlayStation 4
 
   - [オメガクインテット](https://ja.wikipedia.org/wiki/オメガクインテット "wikilink")（コンテンツアイコン：「セクシャル」）
-  - [神獄塔 メアリスケルター2](https://ja.wikipedia.org/wiki/神獄塔_メアリスケルター2 "wikilink")（コンテンツアイコン：「セクシャル」）
+  - [神獄塔 メアリスケルター2](https://ja.wikipedia.org/wiki/神獄塔_メアリスケルター2 "wikilink")（コンテンツアイコン：「セクシャル」）([神獄塔 メアリスケルターFinaleはCERO](https://ja.wikipedia.org/wiki/神獄塔_メアリスケルターFinale "wikilink"):C）
   - [KILLZONE SHADOW FALL](https://ja.wikipedia.org/wiki/KILLZONE_SHADOW_FALL "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [コール オブ デューティ ゴースト](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_ゴースト "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [サイコブレイク](https://ja.wikipedia.org/wiki/サイコブレイク "wikilink")
@@ -228,6 +229,7 @@
       - [ぎゃる☆がん だぶるぴーす](https://ja.wikipedia.org/wiki/ぎゃる☆がん_だぶるぴーす "wikilink")
       - [ぎゃる☆がん2](https://ja.wikipedia.org/wiki/ぎゃる☆がん2 "wikilink")
   - [フローラル・フローラブ](https://ja.wikipedia.org/wiki/フローラル・フローラブ "wikilink")（コンテンツアイコン：「犯罪」）
+  - キルラキル ザ・ゲーム－異布ー（コンテンツアイコン：「セクシャル」）
 
 ### PlayStation Vita
 

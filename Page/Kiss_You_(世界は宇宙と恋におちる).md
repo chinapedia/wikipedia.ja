@@ -11,22 +11,21 @@
 
 宇都宮は「歌詞でここまで日本語が少ないのは初めてで、英語がすごい勢いで入っていて、歌っていて面白い」「この手のビートは得意中の得意」と評している\[2\]。
 
-当初、[アルバム](../Page/アルバム.md "wikilink")『[humansystem](https://ja.wikipedia.org/wiki/humansystem "wikilink")』の先行シングルには、「[Get Wild](../Page/Get_Wild.md "wikilink")」路線の「[RESISTANCE](../Page/RESISTANCE_\(TM_NETWORKの曲\).md "wikilink")」にしようという意見もあったが、小室の「いい意味で裏切りたい」という意図で、この楽曲のシングル化となったという。[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")には[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[6月24日](../Page/6月24日.md "wikilink")に行われた[武道館ライブ](../Page/日本武道館.md "wikilink")「FANKS CRY－MAX」で演奏された「[Self Control](../Page/Self_Control_\(方舟に曳かれて\).md "wikilink")」を収録している。
+当初、[アルバム](../Page/アルバム.md "wikilink")『[humansystem](https://ja.wikipedia.org/wiki/humansystem "wikilink")』の先行シングルには、「[Get Wild](../Page/Get_Wild.md "wikilink")」路線の「[RESISTANCE](../Page/RESISTANCE_\(TM_NETWORKの曲\).md "wikilink")」にしようという意見もあったが、小室の「いい意味で裏切りたい」という意図で、この楽曲のシングル化となったという。
 
 [1989年](../Page/1989年.md "wikilink")には同曲の[リミックスシングルがリリースされている](../Page/KISS_YOU_\(KISS_JAPAN\).md "wikilink")。
 
-なお、[1989年](../Page/1989年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")に未CD化の既発シングルを一斉に8cmCDシングルとして再リリースした時、小室はこのシングルが既にCD化されているものと勘違いしていたというエピソードがある。そのため、この曲の8cmCDシングルは2ヶ月遅れの[1989年](../Page/1989年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に発売された。
-
 アウトロはシングルバージョンでは[フェードアウト](https://ja.wikipedia.org/wiki/フェードアウト "wikilink")するが、アルバムバージョン（「More Rock」のサブタイトルが付く）はアウトロが延長されておりカットアウトする。又、シングルバージョンとアルバムバージョンではアレンジが大幅に異なっており、シングルバージョンは小室の「1曲の中に色々詰め込みたい」という思いから、出だしがノイズ音からスタートし、所々でノイズ音とトランシーバーによるセリフが織り交ざっている（アルバムバージョンはノイズ音とセリフは無い）。アルバムバージョンではストリングスのパートがカットされていたり、2番の後の台詞部分がギターソロに置き換えられている\[3\]。
+
+[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")には[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[6月24日](../Page/6月24日.md "wikilink")に行われた[武道館ライブ](../Page/日本武道館.md "wikilink")「FANKS CRY－MAX」で演奏された「[Self Control](../Page/Self_Control_\(方舟に曳かれて\).md "wikilink")」を収録している。
+
+## 再発盤
+
+[1989年](../Page/1989年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")に未CD化の既発シングルを一斉に8cmCDシングルとして再リリースした時、小室はこのシングルが既にCD化されているものと勘違いしていたというエピソードがある。そのため、この曲の8cmCDシングルは2ヶ月遅れの[1989年](../Page/1989年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に発売された。
 
 この曲の8cmCDシングルのジャケットの裏には「More Rock」や「Kiss Japan」、ライブバージョンでは削除されたトランシーバーによるセリフも歌詞として細かい字で書かれている。
 
 ## 収録曲
-
-1.  **Kiss You（世界は宇宙と恋におちる）**
-      - 作詞：[小室みつ子](../Page/小室みつ子.md "wikilink")／作曲・編曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
-2.  **Self Control（Version“The Budokan”)**
-      - 作詞：小室みつ子／作曲・編曲：小室哲哉
 
 ## 収録アルバム
 

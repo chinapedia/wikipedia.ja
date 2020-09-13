@@ -1,7 +1,7 @@
 > この記事は[Shibuya O-WEST](https://ja.wikipedia.org/wiki/Shibuya_O-WEST)から翻訳されています。
 
 
-[渋谷20170723-1.jpg](https://ja.wikipedia.org/wiki/File:渋谷20170723-1.jpg "fig:渋谷20170723-1.jpg") **Shibuya O-WEST**（しぶやオーウエスト）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[円山町にある](../Page/円山町_\(渋谷区\).md "wikilink")[ライブハウス](../Page/ライブハウス.md "wikilink")。シブヤテレビジョンが運営する[Shibuya　O-Groupのライブハウスのひとつ](https://ja.wikipedia.org/wiki/Shibuya_O-Group "wikilink")。[カルチュア・コンビニエンス・クラブ](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink")が[ネーミングライツを取得したため](https://ja.wikipedia.org/wiki/命名権 "wikilink")、2013年12月以降の名称は**TSUTAYA O-WEST**となっている\[1\]。
+[渋谷20170723-1.jpg](https://ja.wikipedia.org/wiki/File:渋谷20170723-1.jpg "fig:渋谷20170723-1.jpg") **Shibuya O-WEST**（しぶやオーウエスト）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[円山町にある](../Page/円山町_\(渋谷区\).md "wikilink")[ライブハウス](../Page/ライブハウス.md "wikilink")。シブヤテレビジョンが運営する[Shibuya O-Groupのライブハウスのひとつ](https://ja.wikipedia.org/wiki/Shibuya_O-Group "wikilink")。[カルチュア・コンビニエンス・クラブ](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink")が[ネーミングライツを取得したため](https://ja.wikipedia.org/wiki/命名権 "wikilink")、2013年12月以降の名称は**TSUTAYA O-WEST**となっている\[1\]。
 
 ## O-WESTビル概要
 

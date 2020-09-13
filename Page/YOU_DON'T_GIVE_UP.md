@@ -6,10 +6,10 @@
 ## 解説
 
   - 自身が当時イメージキャラクターに起用され出演した、[カネボウ化粧品](../Page/カネボウ化粧品.md "wikilink") REVUE エステクチュール・ジェルファンデーションクールのTV-CFソング。[キャッチフレーズ](https://ja.wikipedia.org/wiki/キャッチフレーズ "wikilink")は「水のジェルで、ちいさい顔、つづく。」。
-  - シングルカットされたこの作品は、タイトル表記を全大文字に改め、\[Single mix\] としてアレンジ発表された。同じくシングルカットの前作「[I WANNA GO](../Page/I_WANNA_GO.md "wikilink")」においてはTOP10落ちしたものの、本作で初登場7位とTOP10入りを果たした。
-  - アルバム「[storytelling](https://ja.wikipedia.org/wiki/storytelling "wikilink")」の収録曲の中で華原が歌入れに一番苦労した曲であり、小室は「優しく歌うように」とアドバイスした\[1\]。
+  - 前作「[I WANNA GO](../Page/I_WANNA_GO.md "wikilink")」同様、アルバム『[Storytelling](../Page/Storytelling.md "wikilink")』からのシングルカット第２弾であり、前作同様にタイトル表記を全大文字に改め、\[Single mix\] としてアレンジ発表された。
+  - アルバム「[storytelling](https://ja.wikipedia.org/wiki/storytelling "wikilink")」の収録曲の中で華原が歌入れに一番苦労した曲であり、小室も「アルバムstorytellingにおいて最も聴かせたい曲」と評し「優しく歌うように」とアドバイスした\[1\]。
   - [ORUMOK RECORDSレーベルからのリリースでは最後のシングル作品となった](../Page/ORUMOK_RECORDS.md "wikilink")。
-  - プロデューサーの[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")と交際当時にツーショットで共演するのはこの曲が最後となった。
+  - [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")と小室プロデュース時代にツーショットで共演するのはこの曲が最後であり、[2013年](../Page/2013年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")の[FNS歌謡祭](../Page/FNS歌謡祭.md "wikilink")まで15年半共演することはなかった。
 
 ## 収録曲
 

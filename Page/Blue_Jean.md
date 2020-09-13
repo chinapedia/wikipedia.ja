@@ -39,6 +39,7 @@
   - [-Ballad Best Singles- WHITE ROAD](../Page/-Ballad_Best_Singles-_WHITE_ROAD.md "wikilink")（\#1）
   - [THE GREAT VACATION VOL.1 〜SUPER BEST OF GLAY〜](https://ja.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.1_〜SUPER_BEST_OF_GLAY〜 "wikilink") （\#1、Jet the Phantom Mix）
   - [rare collectives vol.3](https://ja.wikipedia.org/wiki/rare_collectives_vol.3 "wikilink")（\#2,3,4）
+  - [REVIEW II -BEST OF GLAY-](../Page/REVIEW_II_-BEST_OF_GLAY-.md "wikilink")（\#4）
 
 ## 外部リンク
 

@@ -456,7 +456,7 @@
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Home_Sweet_Home" title="wikilink">Home Sweet Home</a></p></td>
+<td><p>Home Sweet Home</p></td>
 <td><p>1996年9月1日</p></td>
 <td><p>KSC2-227 (HSCV-6)</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">

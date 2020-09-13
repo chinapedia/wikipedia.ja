@@ -31,5 +31,5 @@
 [Category:宇多田ヒカルの楽曲](https://ja.wikipedia.org/wiki/Category:宇多田ヒカルの楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:1999年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:ソニーのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ソニーのコマーシャルソング "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
 
 1.  公式の読み仮名。外袋に貼付されていたステッカーにのみ記載。
-2.  [。ヒッキー新曲、170万枚発進\!](http://web.archive.org/web/20010709035124/http://www.sanspo.com/music/top/m9911/m1110.html)、SANSPO.COM、1999年11月10日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
-3.  [ヒッキー17歳長者「税金高いなー」](http://web.archive.org/web/20010305224632/http://www.sanspo.com/enter/music/m0005/top2000051702.html)、SANSPO.COM、2000年5月16日。（インターネット・アーカイブのキャッシュ）
+2.  [。ヒッキー新曲、170万枚発進\!](https://web.archive.org/web/20010709035124/http://www.sanspo.com/music/top/m9911/m1110.html)、SANSPO.COM、1999年11月10日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+3.  [ヒッキー17歳長者「税金高いなー」](https://web.archive.org/web/20010305224632/http://www.sanspo.com/enter/music/m0005/top2000051702.html)、SANSPO.COM、2000年5月16日。（インターネット・アーカイブのキャッシュ）

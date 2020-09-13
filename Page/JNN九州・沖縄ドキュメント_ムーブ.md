@@ -148,7 +148,7 @@
 
 ## 外部リンク
 
-  - [move :: ホーム](http://rkb.jp/move/) - RKB毎日放送
+  - [move](https://rkb.jp/move/) - RKB毎日放送（番組公式サイト）
 
 [Category:2008年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2008年のテレビ番組_\(日本\) "wikilink") [Category:日本のドキュメンタリー番組](https://ja.wikipedia.org/wiki/Category:日本のドキュメンタリー番組 "wikilink") [Category:JNN番組](https://ja.wikipedia.org/wiki/Category:JNN番組 "wikilink") [Category:RKB毎日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:RKB毎日放送のテレビ番組 "wikilink") [Category:長崎放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:長崎放送のテレビ番組 "wikilink") [Category:熊本放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:熊本放送のテレビ番組 "wikilink") [Category:大分放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:大分放送のテレビ番組 "wikilink") [Category:宮崎放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:宮崎放送のテレビ番組 "wikilink") [Category:南日本放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:南日本放送のテレビ番組 "wikilink") [Category:琉球放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:琉球放送のテレビ番組 "wikilink")
 

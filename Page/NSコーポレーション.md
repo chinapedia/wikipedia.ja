@@ -19,7 +19,7 @@
 
 ## 外部リンク
 
-  - [NSコーポレーション株式会社](http://www.nscp.co.jp/)
+  - [NSコーポレーション株式会社](https://nscp.co.jp/)
 
 [Category:日本の不動産会社](https://ja.wikipedia.org/wiki/Category:日本の不動産会社 "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:資生堂](https://ja.wikipedia.org/wiki/Category:資生堂 "wikilink") [Category:1969年設立の企業](https://ja.wikipedia.org/wiki/Category:1969年設立の企業 "wikilink") [Category:日本のイベント関連企業](https://ja.wikipedia.org/wiki/Category:日本のイベント関連企業 "wikilink")
 

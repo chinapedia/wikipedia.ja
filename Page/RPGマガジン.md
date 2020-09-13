@@ -29,9 +29,7 @@
 
 1990年代後半に「[テーブルトークRPG冬の時代](../Page/テーブルトークRPG冬の時代.md "wikilink")」が訪れた頃、第60号からページ数を増量し紙面をリニューアルした。このとき、増量に伴い製本が[中綴じ](https://ja.wikipedia.org/wiki/中綴じ "wikilink")から[平綴じ](https://ja.wikipedia.org/wiki/平綴じ "wikilink")に変化している。リニューアル初期は記事の内容を若干ライト向けにしつつも従来の記事構成を引き継いでいたが、特集記事を『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』などのTVアニメやカードゲーム、『[サクラ大戦](../Page/サクラ大戦.md "wikilink")』、『[電脳戦機バーチャロン](../Page/電脳戦機バーチャロン.md "wikilink")』など、[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")との[コラボレーション](../Page/コラボレーション.md "wikilink")、[読者参加企画](https://ja.wikipedia.org/wiki/読者参加企画 "wikilink")など、テーブルトークRPGに直接関連の無いものも取り上げていった。
 
-さらに同時期、『RPGマガジン』内で紹介されていた[トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")『[マジック:ザ・ギャザリング](../Page/マジック:ザ・ギャザリング.md "wikilink")』が人気を博し、それに関係する記事が毎月増大していった。
-
-1990年代末期の[トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")ブームが到来し、同誌は1999年8月に『マジック:ザ・ギャザリング』専門誌『[ゲームぎゃざ](../Page/ゲームぎゃざ.md "wikilink")』へとリニューアルし、大きく方針転換がなされた。
+さらに同時期、『RPGマガジン』内で紹介されていた[トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")『[マジック:ザ・ギャザリング](../Page/マジック:ザ・ギャザリング.md "wikilink")』が人気を博し、それに関係する記事が毎月増大していった。 1990年代末期ともなると紙面でRPG記事が占める割合が僅か数ページにまで落ちこみ、1999年8月に『マジック:ザ・ギャザリング』専門誌『[ゲームぎゃざ](../Page/ゲームぎゃざ.md "wikilink")』へとリニューアルする事になった。
 
 ## サポートしたTRPGシステム
 
@@ -55,7 +53,7 @@
   - [指輪物語ロールプレイング](https://ja.wikipedia.org/wiki/指輪物語ロールプレイング "wikilink")
   - [ロールマスター](../Page/ロールマスター.md "wikilink")
   - [ルーンクエスト](../Page/ルーンクエスト.md "wikilink")
-  - [Land of Ninja](https://ja.wikipedia.org/wiki/Land_of_Ninja "wikilink")（ランドオブニンジャ。「飛鳥風雲録」として連載するも連載打ち切り\[2\]）
+      - [Land of Ninja](https://ja.wikipedia.org/wiki/Land_of_Ninja "wikilink")（日本を舞台としたルーンクエスト）\[2\]
   - [ワースブレイド](../Page/ワースブレイド.md "wikilink")
 
 ## 連載記事
@@ -76,7 +74,7 @@
 ## 連載小説
 
   - 蒼空の都ヘヴン - [コミックマスター](https://ja.wikipedia.org/wiki/コミックマスター "wikilink")連載の[佐藤明機](../Page/佐藤明機.md "wikilink")のコミック『[楽園通信社綺談](../Page/楽園通信社綺談.md "wikilink")』のイラストストーリー。漫画連載と同時並行。
-  - 時空奇譚OZ - [あかほりさとる](../Page/あかほりさとる.md "wikilink")の小説。イラストは[麻宮騎亜](../Page/麻宮騎亜.md "wikilink")。打ち切られた後に設定とキャラをそのまま引き継ぎ、[角川書店](../Page/角川書店.md "wikilink")系列で『[MAZE☆爆熱時空](../Page/MAZE☆爆熱時空.md "wikilink")』としてスタートしている。
+  - 時空奇譚OZ - [あかほりさとる](../Page/あかほりさとる.md "wikilink")の小説。イラストは[麻宮騎亜](../Page/麻宮騎亜.md "wikilink")。なし崩し的に打ち切られた\[3\]後に、設定とキャラをそのまま引き継ぎ、[角川書店](../Page/角川書店.md "wikilink")系列で『[MAZE☆爆熱時空](../Page/MAZE☆爆熱時空.md "wikilink")』としてスタートしている。
 
 ## 関連項目
 
@@ -93,4 +91,5 @@
 [Category:ホビージャパンの雑誌](https://ja.wikipedia.org/wiki/Category:ホビージャパンの雑誌 "wikilink") [Category:テーブルトークRPG雑誌](https://ja.wikipedia.org/wiki/Category:テーブルトークRPG雑誌 "wikilink") [Category:カードゲーム雑誌](https://ja.wikipedia.org/wiki/Category:カードゲーム雑誌 "wikilink") [Category:ゲーム雑誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:ゲーム雑誌_\(休廃刊\) "wikilink") [Category:1990年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1990年創刊の雑誌 "wikilink") [Category:1999年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:1999年休廃刊の雑誌 "wikilink") [Category:マジック:ザ・ギャザリング](https://ja.wikipedia.org/wiki/Category:マジック:ザ・ギャザリング "wikilink")
 
 1.  後に[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")より単行本化。挿絵は[たいらはじめ](../Page/たいらはじめ.md "wikilink")。
-2.  クラスに「[穢多](../Page/穢多.md "wikilink")（えた）」「[非人](../Page/非人.md "wikilink")」が存在するとして人権団体より圧力を受け、ゲーム発売中止。連載も途中で突然打ち切られた。挿絵はたいらはじめ。
+2.  職業に「[穢多](../Page/穢多.md "wikilink")」「[非人](../Page/非人.md "wikilink")」が存在したために人権団体の抗議を受け、僅か数か月でゲームそのものの発売が中止になっている（既に売れた分も返金回収された）。連載されていた[リプレイ](https://ja.wikipedia.org/wiki/リプレイ "wikilink")「飛鳥風雲録」（挿絵：[たいらはじめ](../Page/たいらはじめ.md "wikilink")）も当然打ち切られている。
+3.  半年以上「休載のお知らせ」を続けてからの打ち切りであり、読者コーナーの担当者さえも「今月も休載」な事をネタ扱いしていた。

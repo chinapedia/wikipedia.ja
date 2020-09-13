@@ -121,7 +121,7 @@
   - [椋梨藤太](../Page/椋梨藤太.md "wikilink")
     演：[内田稔](../Page/内田稔.md "wikilink")
     俗論党の首領。俗論と言われても、幕府の長州処分に従う事が藩を守る道だと考えている。
-  - [佐世主殿](../Page/福原元たけ.md "wikilink")
+  - [佐世主殿](https://ja.wikipedia.org/wiki/福原元僴 "wikilink")
     演：[草薙幸二郎](../Page/草薙幸二郎.md "wikilink")
   - [来原良蔵](https://ja.wikipedia.org/wiki/来原良蔵 "wikilink")
     演：[西園寺宏](../Page/西園寺章雄.md "wikilink")
@@ -146,7 +146,7 @@
   - [山田宇右衛門](https://ja.wikipedia.org/wiki/山田宇右衛門 "wikilink")
     演：[小栗一也](../Page/小栗一也.md "wikilink")
     第二次長州征伐の際の長州の名目上の責任者。蔵六の立てた作戦に不安を抱き、蔵六から落ち着くように求められる。
-  - [山県半蔵](../Page/宍戸たまき.md "wikilink")
+  - [山県半蔵](https://ja.wikipedia.org/wiki/宍戸璣 "wikilink")
     演：[三升家勝二](../Page/三升家小勝_\(8代目\).md "wikilink")（現：三升家小勝 (8代目) ）
   - [佐々木男也](https://ja.wikipedia.org/wiki/佐々木男也 "wikilink")
     演：[中村靖之介](https://ja.wikipedia.org/wiki/中村靖之介 "wikilink")

@@ -34,4 +34,4 @@
 
   - THE RANKIN FILE PROJECT (1992年、アルバム『ENGLISH COVERVERSION IN HIT POPS 1』収録)
 
-[Category:DREAMS_COME_TRUEの楽曲](https://ja.wikipedia.org/wiki/Category:DREAMS_COME_TRUEの楽曲 "wikilink") [Category:1991年のシングル](https://ja.wikipedia.org/wiki/Category:1991年のシングル "wikilink") [Category:吉田美和が制作した楽曲](https://ja.wikipedia.org/wiki/Category:吉田美和が制作した楽曲 "wikilink") [Category:楽曲_わ](https://ja.wikipedia.org/wiki/Category:楽曲_わ "wikilink")
+[Category:DREAMS_COME_TRUEの楽曲](https://ja.wikipedia.org/wiki/Category:DREAMS_COME_TRUEの楽曲 "wikilink") [Category:1991年のシングル](https://ja.wikipedia.org/wiki/Category:1991年のシングル "wikilink") [Category:吉田美和が制作した楽曲](https://ja.wikipedia.org/wiki/Category:吉田美和が制作した楽曲 "wikilink") [Category:中村正人が制作した楽曲](https://ja.wikipedia.org/wiki/Category:中村正人が制作した楽曲 "wikilink") [Category:楽曲_わ](https://ja.wikipedia.org/wiki/Category:楽曲_わ "wikilink")

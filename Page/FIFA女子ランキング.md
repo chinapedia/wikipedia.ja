@@ -123,9 +123,9 @@
 
 ## 外部リンク
 
-  - [FIFA/Coca-Cola Women's World Ranking at FIFA.com](https://www.fifa.com/worldranking/rankingtable/women/index.html)
-  - [Women's World Ranking Procedure at FIFA.com](https://www.fifa.com/worldranking/procedureandschedule/womenprocedure/index.html)
-  - [Women’s World Ranking Fact Sheet](https://www.fifa.com/mm/document/fifafacts/r&a-wwr/52/00/99/fs-590_06e_wwr-new.pdf)
+  - [FIFA/Coca-Cola Women's World Ranking at FIFA.com](https://www.fifa.com/fifa-world-ranking/ranking-table/women/)(FIFA女子ランキング)
+  - [FIFA/Coca-Cola Women's World Ranking Procedure at FIFA.com](https://www.fifa.com/fifa-world-ranking/procedure/women)(FIFA女子ランキング計算方法概要ページ)
+  - [Women’s World Ranking Fact Sheet](https://img.fifa.com/image/upload/rxqyxdjhbs2qdtstluy6.pdf)(FIFA女子ランキング詳細な説明及び計算方法)
 
 [Category:FIFA](https://ja.wikipedia.org/wiki/Category:FIFA "wikilink") [Category:サッカーのランキング](https://ja.wikipedia.org/wiki/Category:サッカーのランキング "wikilink") [Category:女子サッカー](https://ja.wikipedia.org/wiki/Category:女子サッカー "wikilink")
 

@@ -3,7 +3,7 @@
 
 **ブレントフォードFC**（**Brentford Football Club**）は、[ロンドン](../Page/ロンドン.md "wikilink")の[ハウンズロー地区](https://ja.wikipedia.org/wiki/ハウンズロー・ロンドン特別区 "wikilink")、[ブレントフォード](https://ja.wikipedia.org/wiki/ブレントフォード "wikilink")を本拠地とするサッカークラブ。
 
-現在、イングランドの2部リーグである[EFLチャンピオンシップ](../Page/EFLチャンピオンシップ.md "wikilink")に所属している。最大のライバルは同じ西ロンドンにある[フラムFC](../Page/フラムFC.md "wikilink")と[クィーンズ・パーク・レンジャーズFC](https://ja.wikipedia.org/wiki/クィーンズ・パーク・レンジャーズFC "wikilink")。愛称は **The Bees**（ハチ）。
+現在、イングランドの2部リーグである[EFLチャンピオンシップ](../Page/EFLチャンピオンシップ.md "wikilink")に所属している。最大のライバルは同じ西ロンドンにある[フラムFC](../Page/フラムFC.md "wikilink")と[クイーンズ・パーク・レンジャーズFC](../Page/クイーンズ・パーク・レンジャーズFC.md "wikilink")。愛称は **The Bees**（ハチ）。
 
 ## 概要
 
@@ -249,6 +249,14 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2019-2020" title="wikilink">2019-20</a></p></td>
 <td><p>チャンピオンシップ</p></td>
 <td><p>46</p></td>
+<td><p>24</p></td>
+<td><p>9</p></td>
+<td><p>13</p></td>
+</tr>
+<tr class="even">
+<td><p>2020-21</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>

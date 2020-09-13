@@ -497,7 +497,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="../Page/朴ロ美.md" title="wikilink">朴璐美</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/朴璐美" title="wikilink">朴璐美</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>チヨバア</p></td>
@@ -1595,21 +1595,21 @@
 
 ## 外部リンク
 
-  - [NARUTO－ナルト－ゲーム総合サイト（バンダイナムコエンターテインメント）](http://www.bandaigames.channel.or.jp/list/naruto/)
-  - [NARUTO -ナルト- ナルティメットヒーロー公式サイト（バンダイ）](http://www.bandaigames.channel.or.jp/list/naruto2/index.html)
-  - [NARUTO -ナルト- ナルティメットヒーロー2公式サイト（バンダイ）](http://www.bandaigames.channel.or.jp/list/ps2_naruto2/)
+  -
+  -
+  -
   - [NARUTO -ナルト- ナルティメットヒーロー3公式サイト（バンダイ）](http://www.cyberconnect2.jp/naruto3/)
-  - [NARUTO -ナルト- ナルティメットポータブル公式サイト（バンダイ）](http://www.bandaigames.channel.or.jp/list/psp_naruto/)
-  - [NARUTO -ナルト- 疾風伝 ナルティメットアクセル公式サイト（バンダイ）](http://www.bandaigames.channel.or.jp/list/ps2_naruto_accel/index.html)
-  - [NARUTO -ナルト- 疾風伝 ナルティメットアクセル2公式サイト（バンダイ）](http://www.bandaigames.channel.or.jp/list/ps2_naruto_accel2/)
-  - [NARUTO -ナルト- 疾風伝 ナルティメットアクセル3公式サイト（バンダイ）](http://www.bandaigames.channel.or.jp/list/psp_naruto_accel3/)
-  - [NARUTO -ナルト- 疾風伝 ナルティメットストーム公式サイト（バンダイ）](http://www.bandaigames.channel.or.jp/list/ps3_naruto/storm.html)
-  - [NARUTO -ナルト- 疾風伝 ナルティメットストーム2公式サイト（バンダイ）](http://www.bandaigames.channel.or.jp/list/naruto_storm2/)
-  - [NARUTO -ナルト- 疾風伝 ナルティメットストームジェネレーション公式サイト（バンダイ）](http://www.bandaigames.channel.or.jp/list/naruto_g/)
-  - [NARUTO -ナルト- 疾風伝 ナルティメットストーム3公式サイト（バンダイ）](http://www.bandaigames.channel.or.jp/list/naruto_storm3/)
-  - [NARUTO -ナルト- 疾風伝 ナルティメットストームレボリューション公式サイト（バンダイ）](http://www.bandaigames.channel.or.jp/list/naruto_r/)
 
-[en:Naruto: Ultimate Ninja\#Naruto: Ultimate Ninja](https://ja.wikipedia.org/wiki/en:Naruto:_Ultimate_Ninja#Naruto:_Ultimate_Ninja "wikilink") [pt:Naruto: Ultimate Ninja](https://ja.wikipedia.org/wiki/pt:Naruto:_Ultimate_Ninja "wikilink")
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+[en:Naruto: Ultimate Ninja\#Naruto: Ultimate Ninja](https://ja.wikipedia.org/wiki/en:Naruto:_Ultimate_Ninja#Naruto:_Ultimate_Ninja "wikilink")
 
 [Category:NARUTO_-ナルト-](https://ja.wikipedia.org/wiki/Category:NARUTO_-ナルト- "wikilink") [Category:バンダイのゲームソフト](https://ja.wikipedia.org/wiki/Category:バンダイのゲームソフト "wikilink") [Category:対戦アクションゲーム](https://ja.wikipedia.org/wiki/Category:対戦アクションゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:2003年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2003年のコンピュータゲーム "wikilink") [Category:漫画のキャラクターゲーム](https://ja.wikipedia.org/wiki/Category:漫画のキャラクターゲーム "wikilink") [Category:アニメのキャラクターゲーム](https://ja.wikipedia.org/wiki/Category:アニメのキャラクターゲーム "wikilink") [Category:忍者を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:忍者を題材としたコンピュータゲーム "wikilink") [Category:超能力を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:超能力を題材としたコンピュータゲーム "wikilink") [Category:魔法・呪術を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:魔法・呪術を題材としたコンピュータゲーム "wikilink")
 

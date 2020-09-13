@@ -5,13 +5,13 @@
 
 ## 概要
 
-この曲は、[1999年](../Page/1999年.md "wikilink")の[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[バレーボールワールドカップ](../Page/バレーボールワールドカップ.md "wikilink")』イメージソングとなっており、PVの監督は[川村ケンスケ](../Page/川村ケンスケ.md "wikilink")が担当した。
+[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[バレーボールワールドカップ1999](../Page/1999年ワールドカップバレーボール.md "wikilink")』のイメージソングとして制作された。PVの監督は[川村ケンスケ](../Page/川村ケンスケ.md "wikilink")が担当した。
 
-[ジャケットの嵐の文字は](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、社長の[ジャニー喜多川](../Page/ジャニー喜多川.md "wikilink")が書いたものである。[大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")と[櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")（[ラップ](../Page/ラップ.md "wikilink")）にソロパートが与えられている。
+[ジャケットの](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")「嵐」の文字は、当時の[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")社長の[ジャニー喜多川](../Page/ジャニー喜多川.md "wikilink")が書いたものである。
 
-『[とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")』内の「[新・食わず嫌い王決定戦](https://ja.wikipedia.org/wiki/とんねるずのみなさんのおかげでした#新・食わず嫌い王決定戦 "wikilink")」に嵐のメンバーが出演し勝負に勝たないと罰ゲームとして歌い、踊らされる曲である（負けた時はもちろん、引き分けの時でも行われる）。以前に出演したメンバーの映像と合成して放送される（これまで、大野以外のメンバーが犠牲になっている）。『[うたばん](../Page/うたばん.md "wikilink")』内でもゲームに負けると連帯責任など何かと理由をつけられアカペラで歌わされていた。その際、最初は(当時[SMAP](../Page/SMAP.md "wikilink"))の[中居正広](../Page/中居正広.md "wikilink")からの駄目出しが入るのが定番であった。
+かつてフジテレビ系列で放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")』内のコーナー「[新・食わず嫌い王決定戦](https://ja.wikipedia.org/wiki/とんねるずのみなさんのおかげでしたのコーナー一覧#新・食わず嫌い王決定戦 "wikilink")」では、嵐のメンバーが出演した際、メンバーが対決に負けた時の罰ゲームとして本曲を歌い踊らされた（引き分けの場合でも行われた）。放送の際には、以前に出演したメンバーの映像が合成される（これまでに、大野以外のメンバーが犠牲になっている）。また、同じく[石橋貴明](../Page/石橋貴明.md "wikilink")がMCを務めていた『[うたばん](../Page/うたばん.md "wikilink")』（[TBS系列](../Page/TBSテレビ.md "wikilink")）内でも、ゲームに負けると連帯責任など何かしらの理由をつけられ[アカペラで歌わされていた](../Page/ア・カペラ.md "wikilink")。その際、最初に[中居正広](../Page/中居正広.md "wikilink")からの駄目出しが入るのが定番であった。
 
-なお、この曲の作詞を手掛けたJ\&Tは、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")の後輩である[Sexy Zoneの](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink")[菊池風磨](https://ja.wikipedia.org/wiki/菊池風磨 "wikilink")の父の[菊池常利](https://ja.wikipedia.org/wiki/菊池常利 "wikilink")である\[1\]。息子の風磨が後にジャニーズ事務所入りした際には、そのことを明かしていなかったために、ジャニー喜多川が風磨を叱責したというエピソードもある\[2\]。
+本曲の作詞を手掛けたJ\&Tは、ジャニーズ事務所の後輩である[菊池風磨](https://ja.wikipedia.org/wiki/菊池風磨 "wikilink")の父、[菊池常利](https://ja.wikipedia.org/wiki/菊池常利 "wikilink")である\[1\]。風磨が後にジャニーズ事務所入りした際にはそのことを明かしていなかったために、ジャニーが風磨を叱責したというエピソードもある\[2\]。
 
 カップリングの「明日に向かって」は、元々[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")の曲であり、嵐結成前の歌番組や[VHS](../Page/VHS.md "wikilink")の『素顔2』などではメインを[滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")（当時[タッキー&翼](../Page/タッキー&翼.md "wikilink")）、[渋谷すばる](https://ja.wikipedia.org/wiki/渋谷すばる "wikilink")（当時[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")）が歌っていた。そのバージョンは、ドラマ『[七人のサムライ J家の反乱](../Page/七人のサムライ_J家の反乱.md "wikilink")』で主題歌になっている。また収録されたものも、嵐以外の当時のJr.の声を聴くことが出来る。もともとは「REACH OUT FOR MY DREAM」という曲があったが、お蔵入りした。
 
@@ -21,7 +21,7 @@
 
 [オリコン週間シングルチャートにおいては](../Page/オリコンチャート.md "wikilink")、1999年11月第3週のチャートで1位を獲得した\[3\]。
 
-初動売上は557430枚。2010年発売の「[果てない空](https://ja.wikipedia.org/wiki/果てない空 "wikilink")」が約57.2万枚を記録するまでは嵐のシングルで最高の初動売上を記録していた\[4\]\[5\]。ただし、累計売上（97万枚）は嵐のすべてのシングルの中で現在でも一番高い。
+初動売上は557430枚。2010年発売の「[果てない空](https://ja.wikipedia.org/wiki/果てない空 "wikilink")」が約57.2万枚を記録するまでは嵐のシングルで最高の初動売上を記録していた\[4\]\[5\]。また、累計売上（97万枚）は2020年発売の「[カイト](../Page/カイト_\(嵐の曲\).md "wikilink")」が更新するまで嵐のすべてのシングルの中で一番高かった。
 
 ## 収録曲
 
@@ -67,11 +67,14 @@
 
 ## 外部リンク
 
+  - [J Stormによる紹介ページ](https://ja.wikipedia.org/wiki/J_Storm "wikilink")
+      - [A-RA-SHI : Reborn](https://www.j-storm.co.jp/arashi/discography/arashi-reborn)
+
+<!-- end list -->
+
   - [Johnny's netによる紹介ページ](../Page/ジャニーズ事務所.md "wikilink")
       - [A・RA・SHI](https://www.johnnys-net.jp/page?id=discoDetail&artist=10&data=155)
       - [A-RA-SHI : Reborn](https://www.johnnys-net.jp/page?id=discoDetail&artist=10&data=2291)
-  - [J Stormによる紹介ページ](https://ja.wikipedia.org/wiki/J_Storm "wikilink")
-      - [A-RA-SHI : Reborn](https://www.j-storm.co.jp/arashi/discography/arashi-reborn)
 
 [Category:嵐の楽曲](https://ja.wikipedia.org/wiki/Category:嵐の楽曲 "wikilink") [Category:馬飼野康二が制作した楽曲](https://ja.wikipedia.org/wiki/Category:馬飼野康二が制作した楽曲 "wikilink") [Category:1999年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1999年のデビュー・シングル "wikilink") [Category:ポニーキャニオンの楽曲](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンの楽曲 "wikilink") [Category:1999年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:フジテレビの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビの主題歌 "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:嵐を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:嵐を題材とした楽曲 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
 

@@ -1,7 +1,9 @@
 > この記事は[第50回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第50回NHK紅白歌合戦)から翻訳されています。
 
 
-『**第50回NHK紅白歌合戦**』（だいごじっかいエヌエイチケイこうはくうたがっせん）は、[1999年](../Page/1999年.md "wikilink")（[平成](../Page/平成.md "wikilink")11年）[12月31日](../Page/12月31日.md "wikilink")に[NHKホール](../Page/NHKホール.md "wikilink")で行われた、通算50回目の『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』。19時30分 - 21時20分および21時30分 - 23時45分に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。
+『**第50回NHK紅白歌合戦**』（だいごじっかいエヌエイチケイこうはくうたがっせん）は、[1999年](../Page/1999年.md "wikilink")（[平成](../Page/平成.md "wikilink")11年）[12月31日](../Page/12月31日.md "wikilink")に[NHKホール](../Page/NHKホール.md "wikilink")で行われた、通算50回目の『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』。
+
+19時30分 - 21時20分および21時30分 - 23時45分に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。
 
 ## 概要
 
@@ -21,11 +23,8 @@
   - [GLAY](../Page/GLAY.md "wikilink")の曲紹介においては、白組司会である勘九郎と白組出場者（[北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")・[五木ひろし](../Page/五木ひろし.md "wikilink")・[中居正広](../Page/中居正広.md "wikilink")・[とんねるず](../Page/とんねるず.md "wikilink")・[美川憲一](../Page/美川憲一.md "wikilink")）が裃姿になり、「白組贔屓」を願う歌舞伎の様式での口上を行った。
   - [松たか子](https://ja.wikipedia.org/wiki/松たか子 "wikilink")の曲紹介は勘九郎が行った。これは松と勘九郎が親戚、さらに松の初舞台の父親役が勘九郎だったことによるもの。その際、前回久保が自身が大ファンという理由で[郷ひろみ](../Page/郷ひろみ.md "wikilink")の曲紹介をしたことを挙げ、勘九郎が「去年の郷さんじゃないけど、この方だけ私に紹介させてほしいんです」と久保に対し述べた。
   - 紅白に正規の出場歌手には選出歴のなかった[V6](../Page/V6_\(グループ\).md "wikilink")\[4\]が第2部に、[KinKi Kids](../Page/KinKi_Kids.md "wikilink")\[5\]が第1部に、コーナーのプレゼンターとして登場\[6\]。V6が「[Believe Your Smile](../Page/Believe_Your_Smile.md "wikilink")」、KinKi Kidsが「[フラワー](../Page/フラワー_\(KinKi_Kidsの曲\).md "wikilink")」と互いに持ち歌のサビを歌唱した。KinKi Kidsは[カウントダウンライブの出番終了から](https://ja.wikipedia.org/wiki/ジャニーズカウントダウンライブ "wikilink")[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[LOVE LOVE2000](../Page/LOVE_LOVE_あいしてる.md "wikilink")』出演の合間を縫っての紅白出演となった\[7\]。
-  - [立川談志](../Page/立川談志.md "wikilink")は、勘九郎の抜き打ちで、ゲスト出演を果たした。
-
-<!-- end list -->
-
-  - 当時[プロ野球](../Page/日本プロ野球.md "wikilink")・[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")監督の[長嶋茂雄](../Page/長嶋茂雄.md "wikilink")から勘九郎（長嶋と親交があった）・白組への応援名目の電報が届けられ、勘九郎によって読み上げられた。
+  - [立川談志](../Page/立川談志.md "wikilink")は勘九郎と友人関係であるが、勘九郎には内緒で[鳥羽一郎](../Page/鳥羽一郎.md "wikilink")の曲紹介前にステージに突然登場し、勘九郎を驚かせた。鳥羽一郎の曲紹介とは何ら関連はない。
+  - 当時[プロ野球](../Page/日本プロ野球.md "wikilink")・[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")監督で勘九郎と親交がある[長嶋茂雄](../Page/長嶋茂雄.md "wikilink")から勘九郎と白組への応援の電報が届けられ、勘九郎によって読み上げられた。
   - 勘九郎は本番前、[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")の「[Bailamos-Tonight we dance-](../Page/Bailamos_\(西城秀樹の曲\).md "wikilink")（バイラモス）」のことを「“[バイアグラ](../Page/シルデナフィル.md "wikilink")”って言ったらどうしよう」と不安がり、総合司会の[宮本隆治](../Page/宮本隆治.md "wikilink")が「『バイ』と『ラモス』で区切って、間で確認をされては」とアドバイスした。本番では無事曲紹介を成功させ、その後、舞台袖で2人で抱き合って喜んだという\[8\]。
   - [山川豊](../Page/山川豊.md "wikilink")は2年越しの大ヒットとなった「[アメリカ橋](https://ja.wikipedia.org/wiki/アメリカ橋_\(山川豊の曲\) "wikilink")」を同[作曲者](../Page/作曲家.md "wikilink")・[平尾昌晃](../Page/平尾昌晃.md "wikilink")と共同で2年連続で熱唱。前回は持ち時間上割愛された2番目の一部も今回はリピート部分を除いてフルコーラスで歌われた。
   - 翌年の[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")での解散を発表していた[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")が[メドレー](../Page/メドレー.md "wikilink")や別れを告げる鐘の音を入れた「[my graduation](https://ja.wikipedia.org/wiki/my_graduation "wikilink")」の特別アレンジ版「my graduation '99」を熱唱。終了後は紅組出場歌手や事務所の後輩である白組のDA PUMPらに讃えられた。
@@ -51,7 +50,7 @@
 ## 司会者
 
   - 紅組司会：[久保純子](../Page/久保純子.md "wikilink")（[東京アナウンス室](../Page/NHK放送センター.md "wikilink")）
-  - 白組司会：[五代目 中村勘九郎](../Page/中村勘三郎_\(18代目\).md "wikilink")（この年の[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[元禄繚乱](../Page/元禄繚乱.md "wikilink")』の主人公・[大石内蔵助役](../Page/大石良雄.md "wikilink")）
+  - 白組司会：[中村勘九郎](../Page/中村勘三郎_\(18代目\).md "wikilink")
   - 総合司会：[宮本隆治](../Page/宮本隆治.md "wikilink")（東京アナウンス室）
 
 ## 演奏
@@ -62,11 +61,11 @@
 
   - [出島武春](../Page/出島武春.md "wikilink")（[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")・[大関](../Page/大関.md "wikilink")）：この年の大相撲[名古屋場所で優勝し大関に昇進](../Page/本場所.md "wikilink")。
   - [松嶋菜々子](https://ja.wikipedia.org/wiki/松嶋菜々子 "wikilink")（[女優](../Page/俳優.md "wikilink")）：主人公を演じた[TBSドラマ](../Page/TBSテレビ.md "wikilink")『[魔女の条件](../Page/魔女の条件.md "wikilink")』が話題に。
-  - [内館牧子](../Page/内館牧子.md "wikilink")（[脚本家](../Page/脚本家.md "wikilink")）：翌年上期の[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[私の青空](../Page/私の青空.md "wikilink")』の作者。
+  - [内館牧子](../Page/内館牧子.md "wikilink")（[脚本家](../Page/脚本家.md "wikilink")）：[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[私の青空](../Page/私の青空.md "wikilink")』作者。
   - [野村萬斎](https://ja.wikipedia.org/wiki/野村萬斎#二世野村萬斎 "wikilink")（[狂言師](https://ja.wikipedia.org/wiki/狂言師 "wikilink")）：この年『[課外授業 ようこそ先輩](../Page/課外授業_ようこそ先輩.md "wikilink")』に出演し母校で狂言を指導。
   - [田村亮子](../Page/谷亮子.md "wikilink")（[柔道](../Page/柔道.md "wikilink")[選手](https://ja.wikipedia.org/wiki/選手 "wikilink")）：翌年の[シドニーオリンピック女子48kg以下級出場が内定](../Page/2000年シドニーオリンピックの柔道競技.md "wikilink")。
   - [津川雅彦](../Page/津川雅彦.md "wikilink")（[俳優](../Page/俳優.md "wikilink")）：翌年の大河ドラマ『[葵 徳川三代](../Page/葵_徳川三代.md "wikilink")』の主人公・[徳川家康](../Page/徳川家康.md "wikilink")役。
-  - [草笛光子](../Page/草笛光子.md "wikilink")（女優）：同じく『葵 徳川三代』の[北政所役](../Page/高台院.md "wikilink")。この年[紫綬褒章](https://ja.wikipedia.org/wiki/紫綬褒章 "wikilink")を受章。
+  - [草笛光子](../Page/草笛光子.md "wikilink")（女優）：『葵 徳川三代』の[北政所役](../Page/高台院.md "wikilink")。この年[紫綬褒章](https://ja.wikipedia.org/wiki/紫綬褒章 "wikilink")を受章。
   - [阿久悠](../Page/阿久悠.md "wikilink")（[作詞家](../Page/作詞家.md "wikilink")・[作家](../Page/小説家.md "wikilink")）：この年紫綬褒章を受章。
   - [福嶋晃子](../Page/福嶋晃子.md "wikilink")（[プロゴルファー](../Page/プロゴルファー.md "wikilink")）：この年[LPGAの女子ツアーで](../Page/全米女子プロゴルフ協会.md "wikilink")2勝を挙げる。
   - [乙武洋匡](../Page/乙武洋匡.md "wikilink")（[早稲田大学](../Page/早稲田大学.md "wikilink")[政治経済学部](../Page/政治経済学部.md "wikilink")4年生）：著書『五体不満足』が550万部のベストセラー。
@@ -133,7 +132,7 @@
 
 出場歌手が決定する以前、[マライア・キャリー](https://ja.wikipedia.org/wiki/マライア・キャリー "wikilink")、[ローリング・ストーンズ](../Page/ローリング・ストーンズ.md "wikilink")といった海外の大物アーティストが出場するのではないかと一部[スポーツ新聞](../Page/スポーツ新聞.md "wikilink")・[民放各局の](../Page/民間放送.md "wikilink")[ワイドショー](../Page/ワイドショー.md "wikilink")等で報道されたが、実際には出場しなかった。
 
-[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")は解散前、最後の出場となる。SPEEDはその9年後（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）に完全復活を果たし、同年の[第59回に再出場を決めた](https://ja.wikipedia.org/wiki/第59回NHK紅白歌合戦 "wikilink")。
+[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")は解散前、最後の出場となる。SPEEDはその9年後（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）に再結成し、同年の[第59回に再出場を決めた](https://ja.wikipedia.org/wiki/第59回NHK紅白歌合戦 "wikilink")。
 
 [石川さゆり](../Page/石川さゆり.md "wikilink")はこの年、[個人事務所が立ち上げた事業に関する不正融資疑惑が報じられたが](https://ja.wikipedia.org/wiki/国民銀行#カミパレス案件 "wikilink")、最終的に問題なしと判断され出場を決めた\[15\]\[16\]。
 
@@ -147,11 +146,11 @@
 
 [かぐや姫が初出場](../Page/かぐや姫_\(フォークグループ\).md "wikilink")。この年8月、福岡で開催された「南こうせつ サマーピクニック ドリーム」にかぐや姫の3人が集結し「再結成」したが、紅白のスタッフが偶然にもその会場に足を運んでいたことから実現したものである\[21\]。当初は紅白の1日限定での再結成の予定であった。しかしファンからの反響は大きく、メンバーが手紙やインターネットで署名を募集したところ、コンサートを要望する声が多く寄せられた。その結果、翌2000年にはかぐや姫としての全国ツアーが開催された\[22\]。
 
-[野猿](../Page/野猿.md "wikilink")が初出場。これにより、[木梨憲武](../Page/木梨憲武.md "wikilink")は3回目の初出場に（[第42回](../Page/第42回NHK紅白歌合戦.md "wikilink")（[1991年](../Page/1991年.md "wikilink")）では[とんねるず](../Page/とんねるず.md "wikilink")、[第47回](../Page/第47回NHK紅白歌合戦.md "wikilink")（[1996年](../Page/1996年.md "wikilink")）では憲三郎&ジョージ山本として）\[23\]。メンバーには[フジテレビの裏方スタッフが含まれていることから](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[民放テレビ局の社員として初となる](../Page/民間放送.md "wikilink")、紅白への歌手としての出場となった\[24\]。メンバーはとんねるず初出場の時と同様、アフロヘアーのかつらをかぶり、紅白に全身を塗った格好で登場。メンバーが並ぶと、刈り込んだ頭（とんねるずらボーカルチームは坊主の被り物に手を加えたもので、ダンスチームは本当に髪を刈り込んだ。なお、放送終了後にダンスチームは全員字の部分も刈って丸坊主にしている。）。 に「ありがとう 紅白 1999」と読めるメッセージが書かれていたほか、「[辰](https://ja.wikipedia.org/wiki/辰 "wikilink")年」を表現した組文字を披露した\[25\]。この初出場の舞台裏の映像はフジテレビ系列『[とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")』内で後日に放送した。「瞬間視聴率70.1%、歌手別最高視聴率を狙う」と意欲を見せていたが、結果はビデオリサーチ・関東地区調べで瞬間視聴率52.8%だった\[26\]。
+[野猿](../Page/野猿.md "wikilink")が初出場。これにより、[木梨憲武](../Page/木梨憲武.md "wikilink")は3回目の初出場に（[第42回](../Page/第42回NHK紅白歌合戦.md "wikilink")（[1991年](../Page/1991年.md "wikilink")）では[とんねるず](../Page/とんねるず.md "wikilink")、[第47回](../Page/第47回NHK紅白歌合戦.md "wikilink")（[1996年](../Page/1996年.md "wikilink")）では憲三郎&ジョージ山本として）\[23\]。メンバーには[フジテレビの裏方スタッフが含まれていることから](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[民放テレビ局の社員として初となる](../Page/民間放送.md "wikilink")、紅白への歌手としての出場となった\[24\]。メンバーはとんねるず初出場の時と同様、アフロヘアーのかつらをかぶり、紅白に全身を塗った格好で登場。メンバーが並ぶと、刈り込んだ頭（とんねるずらボーカルチームは坊主の被り物に手を加えたもので、ダンスチームは本当に髪を刈り込んだ。なお、放送終了後に半田一道以外のダンスチームは全員字の部分も刈って丸坊主にしている） に「ありがとう 紅白 1999」と読めるメッセージが書かれていたほか、「[辰](https://ja.wikipedia.org/wiki/辰 "wikilink")年」を表現した組文字を披露した\[25\]。この初出場の舞台裏の映像はフジテレビ系列『[とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")』内で後日に放送した。「瞬間視聴率70.1%、歌手別最高視聴率を狙う」と意欲を見せていたが、結果はビデオリサーチ・関東地区調べで瞬間視聴率52.8%だった\[26\]。
 
 この年の初出場は野猿の他にも、[Something ELse](../Page/Something_ELse.md "wikilink")、[19](../Page/19_\(音楽グループ\).md "wikilink")、鈴木あみ（現：[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")）、[Hysteric Blueと](https://ja.wikipedia.org/wiki/Hysteric_Blue "wikilink")、民放番組からブレイクした歌手が目立った\[27\]。
 
-長髪グループであったのが原因で紅白出場を果たせなかった、元[ザ・スパイダース](../Page/ザ・スパイダース.md "wikilink")の[堺正章](../Page/堺正章.md "wikilink")、[ムッシュかまやつ](../Page/かまやつひろし.md "wikilink")、[井上堯之](../Page/井上堯之.md "wikilink")からなる3人組・[Sans Filtreが初出場](../Page/ソン・フィルトル.md "wikilink")。堺は白組司会として出演した第44回以来、出場歌手としては[第27回](../Page/第27回NHK紅白歌合戦.md "wikilink")（[1976年](../Page/1976年.md "wikilink")）以来の紅白出演\[28\]。堺は[裏番組](../Page/裏番組.md "wikilink")『[第41回日本レコード大賞](https://ja.wikipedia.org/wiki/第41回日本レコード大賞 "wikilink")』（[TBS系列](../Page/TBSテレビ.md "wikilink")）の司会を掛け持ちしながらの出場となった\[29\]。
+元[ザ・スパイダース](../Page/ザ・スパイダース.md "wikilink")の[堺正章](../Page/堺正章.md "wikilink")、[ムッシュかまやつ](../Page/かまやつひろし.md "wikilink")、[井上堯之](../Page/井上堯之.md "wikilink")からなる3人組・[Sans Filtreが初出場](../Page/ソン・フィルトル.md "wikilink")。堺は白組司会として出演した第44回以来、出場歌手としては[第27回](../Page/第27回NHK紅白歌合戦.md "wikilink")（[1976年](../Page/1976年.md "wikilink")）以来の紅白出演\[28\]。堺は[裏番組](../Page/裏番組.md "wikilink")『[第41回日本レコード大賞](https://ja.wikipedia.org/wiki/第41回日本レコード大賞 "wikilink")』（[TBS系列](../Page/TBSテレビ.md "wikilink")）の司会を掛け持ちしながらの出場となった\[29\]。
 
 [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")は[6月](../Page/6月.md "wikilink")の段階でNHKが出演交渉を開始していた\[30\]が、[10月5日](../Page/10月5日.md "wikilink")に「学業優先のため、冬休みはレコーディングに専念したい」ことを理由としてNHKに出場辞退を申し出、それを受ける形で[14日](../Page/10月14日.md "wikilink")、NHKが出演交渉を断念した\[31\]\[32\]。なお、宇多田の母親・[藤圭子](../Page/藤圭子.md "wikilink")にも出演交渉がされていたという\[33\]。
 
@@ -177,7 +176,7 @@
   - スプー（『[おかあさんといっしょ](../Page/おかあさんといっしょ.md "wikilink")』の「スプーとガタラット」（後の「[ぐ〜チョコランタン](../Page/ぐ〜チョコランタン.md "wikilink")」）のキャラクター）：茂森あゆみ・速水けんたろうの曲中。
   - みど・わおん、ふぁど・わおん、れおなるど・とびっしー、青井空男（同じく「[ドレミファ・どーなっつ\!](../Page/ドレミファ・どーなっつ!.md "wikilink")」のキャラクター）：同上。
   - 袋小路じゃじゃまる、ふぉるてしも・ぴっころ、ぽろり・カジリアッチIII世（同じく「[にこにこぷん](../Page/にこにこぷん.md "wikilink")」のキャラクター）：同上。
-  - [立川談志](../Page/立川談志.md "wikilink")：鳥羽一郎の曲紹介。
+  - [立川談志](../Page/立川談志.md "wikilink")：鳥羽一郎の曲紹介前に勘九郎には抜き打ちで出演。
   - [竹内結子](https://ja.wikipedia.org/wiki/竹内結子 "wikilink")（この年下期の連続テレビ小説『[あすか](../Page/あすか_\(テレビドラマ\).md "wikilink")』のヒロイン・宮田（速田）あすか役）：MAXの曲紹介。
   - [佐藤仁美](https://ja.wikipedia.org/wiki/佐藤仁美 "wikilink")（同じく『あすか』の綾瀬（藤吉）舞役）：同上。
   - [梅沢富美男](../Page/梅沢富美男.md "wikilink")（同じく『あすか』の藤吉玉治郎役）：同上および坂本冬美の曲中。
@@ -233,7 +232,7 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦 公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK紅白歌合戦 公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=50)
   - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm)  - ビデオリサーチ。[1962年](../Page/1962年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")37年）（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1999年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1999年の日本の音楽 "wikilink") [Category:1999年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のテレビ番組_\(日本\) "wikilink") [Category:1999年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のラジオ番組_\(日本\) "wikilink") [Category:1999年12月](https://ja.wikipedia.org/wiki/Category:1999年12月 "wikilink")

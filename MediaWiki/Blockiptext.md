@@ -17,5 +17,6 @@
   - {{[blocked mobilephone](https://ja.wikipedia.org/wiki/Template:Blocked_mobilephone "wikilink")}} - 携帯電話、または携帯電話用ゲートウェイ
   - {{[UsernameBlock](https://ja.wikipedia.org/wiki/Template:UsernameBlock "wikilink")}} - 不適切な[利用者名](https://ja.wikipedia.org/wiki/Wikipedia:利用者名 "wikilink")
   - {{[Sharedaccount](https://ja.wikipedia.org/wiki/Template:Sharedaccount "wikilink")}} - パスワード公開
+  - {{[Checkuserblock-account](https://ja.wikipedia.org/wiki/Template:Checkuserblock-account "wikilink")}} - CUを根拠にするブロック
 
 ## ブロック

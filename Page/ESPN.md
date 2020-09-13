@@ -19,9 +19,7 @@
 
 ## 主なスポーツ中継番組
 
-  - [アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")
-
-<!-- end list -->
+**[アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")**
 
   - [NFL](../Page/NFL.md "wikilink")
       - [サンデーナイトフットボール](https://ja.wikipedia.org/wiki/サンデーナイトフットボール "wikilink")（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") - [2005年](../Page/2005年.md "wikilink")）
@@ -30,40 +28,24 @@
       - [ACC](../Page/アトランティック・コースト・カンファレンス.md "wikilink")（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）、[Big 10](../Page/ビッグ・テン・カンファレンス.md "wikilink")（1979年 - [2017年](../Page/2017年.md "wikilink")）、[Big East](../Page/ビッグ・イースト・カンファレンス.md "wikilink")（[1991年](../Page/1991年.md "wikilink") - 2013年）、etc...
       - [ボウル・チャンピオンシップ・シリーズ](https://ja.wikipedia.org/wiki/ボウル・チャンピオンシップ・シリーズ "wikilink")（2011年 - 2014年）
 
-<!-- end list -->
-
-  - [野球](../Page/野球.md "wikilink")
-
-<!-- end list -->
+[野球](../Page/野球.md "wikilink")
 
   - [メジャーリーグベースボール](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")（ESPN Major League Baseball、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - [2013年](../Page/2013年.md "wikilink")）
   - [2006 ワールド・ベースボール・クラシック](../Page/2006_ワールド・ベースボール・クラシック.md "wikilink")
   - [リトルリーグ](../Page/リトルリーグ.md "wikilink")・ワールドシリーズ（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - [2014年](../Page/2014年.md "wikilink")）
 
-<!-- end list -->
-
-  - [サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")
-
-<!-- end list -->
+**[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")**
 
   - [FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")（[1994年](../Page/1994年.md "wikilink") - 2014年）
   - [UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")（1994年 - [2009年](../Page/2009年.md "wikilink")）
   - [メジャーリーグサッカー](../Page/メジャーリーグサッカー.md "wikilink")（[1996年](../Page/1996年.md "wikilink") - [2016年](../Page/2016年.md "wikilink")）
 
-<!-- end list -->
-
-  - [バスケットボール](../Page/バスケットボール.md "wikilink")
-
-<!-- end list -->
+**[バスケットボール](../Page/バスケットボール.md "wikilink")**
 
   - [NBA](../Page/NBA.md "wikilink")（NBA on ESPN、[1982年](../Page/1982年.md "wikilink") - [1984年](../Page/1984年.md "wikilink")、2007年 - 2011年）
   - [カレッジバスケットボール](https://ja.wikipedia.org/wiki/カレッジバスケットボール "wikilink")
 
-<!-- end list -->
-
-  - [モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")
-
-<!-- end list -->
+**[モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")**
 
   - [F1](../Page/フォーミュラ1.md "wikilink")（2018年 - [Sky Sports F1入中](https://ja.wikipedia.org/wiki/Sky_Sports "wikilink")）
   - [NASCAR](../Page/NASCAR.md "wikilink")（2007年 - 2014年）

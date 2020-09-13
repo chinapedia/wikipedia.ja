@@ -57,7 +57,7 @@
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")
       - [1月27日](../Page/1月27日.md "wikilink")、新曲3枚と2009年に発表した「今の世の中」を含む、2枚目のベストアルバムとなる「自主規制」を発売。
   - [2011年](../Page/2011年.md "wikilink")
-      - [3月18日](../Page/3月18日.md "wikilink")、自身の[ツィッター](https://ja.wikipedia.org/wiki/ツィッター "wikilink")にて、キングギドラ名義で[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")の被災者への[義援金](https://ja.wikipedia.org/wiki/義援金 "wikilink")[チャリティー](../Page/チャリティー.md "wikilink")・[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")を行う計画を立てていることを明かす。\[13\]
+      - [3月18日](../Page/3月18日.md "wikilink")、自身の[Twitter](../Page/Twitter.md "wikilink")にて、キングギドラ名義で[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")の被災者への[義援金](https://ja.wikipedia.org/wiki/義援金 "wikilink")[チャリティー](../Page/チャリティー.md "wikilink")・[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")を行う計画を立てていることを明かす\[13\]。
       - [4月30日](../Page/4月30日.md "wikilink")、キングギドラを再結成させ、[大阪城野外音楽堂](https://ja.wikipedia.org/wiki/大阪城野外音楽堂 "wikilink")で開催された[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")チャリティーライブ「KEEP YOUR HEADS UP！」でライブを行う。
   - [2012年](../Page/2012年.md "wikilink")
       - [9月19日](../Page/9月19日.md "wikilink")、昨年発生した東日本大震災から、その後の日本の状況についてまでの心情を綴った約8年ぶりとなるシングル「沈まぬ太陽」を発売。
@@ -168,6 +168,10 @@ DEV LARGEにディスされたほか、[剣桃太郎から](https://ja.wikipedia
 4.  BEST OF K DUB SHINE（Blendz Version） - Mixed by DJ MASAKI　（CREAM RECORDS） 2004年[11月1日](../Page/11月1日.md "wikilink")発売
 5.  BEST OF K DUB SHINE Pt.2 BIG KOTTA RETURNS - Mixed by DJ MASAKI（CREAM RECORDS） 2006年[10月18日](../Page/10月18日.md "wikilink")発売
 
+### その他作品
+
+  - GenaratioNxxx [2019年](../Page/2019年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")配信（kダブシャイン監修のコンピレーション・アルバム）\[40\]
+
 ### 客演
 
   - V.A. 『[さんピンCAMP](../Page/さんピンCAMP.md "wikilink") ECD PRESENTS THE ORIGINAL MOTION PICTURE SOUNDTRACK』（1996年6月5日）
@@ -198,7 +202,7 @@ DEV LARGEにディスされたほか、[剣桃太郎から](https://ja.wikipedia
   - DJ OASIS 『ハルマゲドン』（2001年3月14日）
       - 1\. ハルマゲドン feat. ZEEBRA, K DUB SHINE
   - DJ OASIS 『キ・キ・チ・ガ・イ』（2001年4月25日）
-      - 1\. キ・キ・チ・ガ・イ feat. 宇多丸 & K DUB SHINE - ※500枚限定でアナログ盤のみの発売\[40\]。
+      - 1\. キ・キ・チ・ガ・イ feat. 宇多丸 & K DUB SHINE - ※500枚限定でアナログ盤のみの発売\[41\]。
   - V.A. 『[凶気の桜](../Page/凶気の桜.md "wikilink") オリジナル・サウンドトラック』（2002年10月17日）
       - 2\. アウトロー（K DUB SHINE feat. ZEEBRA）
       - 7\. 生き証人（青のブルース）
@@ -231,7 +235,7 @@ DEV LARGEにディスされたほか、[剣桃太郎から](https://ja.wikipedia
   - JUN-GMC 『路上の太陽』（2008年3月14日）
       - 8\. 感謝 feat. 三善善三, K DUB SHINE
   - MC鬼刃 BY K ダブ シャイン 『フロム NY シティ〜for the movie〜』（2008年8月13日）
-      - 1\. フロムNYシティ -※実写映画『[デトロイト・メタル・シティ](../Page/デトロイト・メタル・シティ.md "wikilink")』に出てくるキャラクター・MC鬼刃（演:[ダイノジ](../Page/ダイノジ.md "wikilink")・[大地洋輔](https://ja.wikipedia.org/wiki/大地洋輔 "wikilink")）の楽曲という設定で制作された。なお、[PVにはKダブ本人も参加している](../Page/ミュージック・ビデオ.md "wikilink")\[41\]。
+      - 1\. フロムNYシティ -※実写映画『[デトロイト・メタル・シティ](../Page/デトロイト・メタル・シティ.md "wikilink")』に出てくるキャラクター・MC鬼刃（演:[ダイノジ](../Page/ダイノジ.md "wikilink")・[大地洋輔](https://ja.wikipedia.org/wiki/大地洋輔 "wikilink")）の楽曲という設定で制作された。なお、[PVにはKダブ本人も参加している](../Page/ミュージック・ビデオ.md "wikilink")\[42\]。
   - [L-VOKAL](../Page/L-VOKAL.md "wikilink") 『Lovin'』（2010年3月3日）
       - 5\. EDUTAINMENT feat. K DUB SHINE
   - DJ TY-KOH 『YOU KNOW WHAT IT IZ THE MIXTAPE』（2011年9月7日）
@@ -247,8 +251,14 @@ DEV LARGEにディスされたほか、[剣桃太郎から](https://ja.wikipedia
       - 5\. RGTO feat. [SALU](https://ja.wikipedia.org/wiki/SALU "wikilink"), [H.TEFLON](https://ja.wikipedia.org/wiki/Bach_Logic "wikilink") & K DUB SHINE
   - UZI 『フジヤマ』（2014年12月3日）
       - 8\. 韻 feat. K DUB SHINE
-  - [MINMI](https://ja.wikipedia.org/wiki/MINMI "wikilink") 『新MINMI☆FRIENDS 〜"BAD" MINMI"というネタをラッパー、トラックメーカーがどう料理したのか〜』（2015年7月22日）\[42\]
+  - [MINMI](https://ja.wikipedia.org/wiki/MINMI "wikilink") 『新MINMI☆FRIENDS 〜"BAD" MINMI"というネタをラッパー、トラックメーカーがどう料理したのか〜』（2015年7月22日）\[43\]
       - 7\. jealous Remix by banvox featuring K DUB SHINE
+  - [TeddyLoid](https://ja.wikipedia.org/wiki/TeddyLoid "wikilink") 『SILENT PLANET 2 EP vol.4 feat. アイナ・ジ・エンド（BiSH）』（2017年3月17日）\[44\]
+      - 2\. SHOUT IT OUT feat. [アイナ・ジ・エンド](https://ja.wikipedia.org/wiki/アイナ・ジ・エンド "wikilink")（[BiSH](https://ja.wikipedia.org/wiki/BiSH "wikilink")） & Kダブシャイン
+      - 3\. SHOUT IT OUT feat. アイナ・ジ・エンド（BiSH） & Kダブシャイン (Remix)
+  - [SUGIZO](../Page/SUGIZO.md "wikilink") 『ONENESS M』（2017年11月29日）\[45\]
+      - 4\. Rebellmusik feat.K Dub Shine
+  - [Novel Core](https://ja.wikipedia.org/wiki/Novel_Core "wikilink"), [COMA-CHI](../Page/COMA-CHI.md "wikilink"), Kダブシャイン「On Our Shoulder」(2019年）\[46\]
 
 ### 映画音楽
 
@@ -268,18 +278,33 @@ DEV LARGEにディスされたほか、[剣桃太郎から](https://ja.wikipedia
   - [ドレミファドン](https://ja.wikipedia.org/wiki/ドレミファドン "wikilink")　2015年[9月29日](../Page/9月29日.md "wikilink")
   - [バナナ♪ゼロミュージック](https://ja.wikipedia.org/wiki/バナナ♪ゼロミュージック "wikilink")　[2016年](../Page/2016年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink")
   - [人気芸能人にイタズラ\! 仰天ハプニング100連発](https://ja.wikipedia.org/wiki/仰天ハプニング100連発 "wikilink")　2016年[6月28日](../Page/6月28日.md "wikilink")
-  - [行列のできる法律相談所](../Page/行列のできる法律相談所.md "wikilink")　2017年[3月19日](../Page/3月19日.md "wikilink")\[43\]
+  - [行列のできる法律相談所](../Page/行列のできる法律相談所.md "wikilink")　2017年[3月19日](../Page/3月19日.md "wikilink")\[47\]
+  - [水曜日のダウンタウン](https://ja.wikipedia.org/wiki/水曜日のダウンタウン "wikilink")　TBSテレビ
+  - [フリースタイルダンジョン](https://ja.wikipedia.org/wiki/フリースタイルダンジョン "wikilink")　テレビ朝日
+  - [痛快！明石家電視台](../Page/痛快!明石家電視台.md "wikilink")　MBS
+  - [フリースタイルティーチャー](https://ja.wikipedia.org/wiki/フリースタイルティーチャー "wikilink") テレビ朝日 - 教授 役\[48\]
+  - 他多数
 
 ### 映画
 
+#### 出演作品
+
   - [デトロイト・メタル・シティ](https://ja.wikipedia.org/wiki/デトロイト・メタル・シティ#映画 "wikilink")（2008年8月23日、東宝）
+
+#### 字幕監修
+
+  - [ビーツ、ライムズ・アンド・ライフ -ア・トライブ・コールド・クエストの旅-](https://ja.wikipedia.org/wiki/ビーツ、ライムズ・アンド・ライフ_-ア・トライブ・コールド・クエストの旅- "wikilink")（2012年日本公開）\[49\]
+  - [Nas タイム・イズ・イルマティック](https://ja.wikipedia.org/wiki/イルマティック_#映画 "wikilink")（2014年公開）\[50\]
+  - [ワイルド・スタイル](https://ja.wikipedia.org/wiki/ワイルド・スタイル "wikilink")（2015年日本公開）\[51\]
 
 ### インターネットテレビ
 
-  - [\#日本で一番カワイイ女の子をこの番組が、決めちゃうゾTV](https://ja.wikipedia.org/wiki/日本で一番カワイイ女の子をこの番組が、決めちゃうゾTV "wikilink")（2016年4月15日 - 2017年3月24日、[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")） - 進行 役\[44\]
-  - [ライムスター宇多丸の水曜The NIGHT](https://ja.wikipedia.org/wiki/The_NIGHT "wikilink")（2018年10月4日 - 、AbemaTV） - アシスタント
-  - [タベドリ](https://ja.wikipedia.org/wiki/タベドリ "wikilink")（2018年10月15日 - 11月6日、AbemaTV） - エロ四天王\[45\]
+  - [\#日本で一番カワイイ女の子をこの番組が、決めちゃうゾTV](https://ja.wikipedia.org/wiki/日本で一番カワイイ女の子をこの番組が、決めちゃうゾTV "wikilink")（2016年4月15日 - 2017年3月24日、[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")） - 進行 役\[52\]
+  - [ラップスタア誕生\!](https://ja.wikipedia.org/wiki/ラップスタア誕生! "wikilink")（2017年5月5日 - ） - 審査員\[53\]
+  - [ライムスター宇多丸の水曜The NIGHT](https://ja.wikipedia.org/wiki/The_NIGHT "wikilink")（2018年10月4日 - 2020年4月29日、AbemaTV） - アシスタント
+  - [タベドリ](https://ja.wikipedia.org/wiki/タベドリ "wikilink")（2018年10月15日 - 11月6日、AbemaTV） - エロ四天王\[54\]
   - 情熱報道ライブ「[ニューズ・オプエド](https://ja.wikipedia.org/wiki/ニューズ・オプエド "wikilink")®」（2014年11月7日・2016年6月2日・2017年3月7日、NOBORDER NEWS TOKYO）
+  - KダブシャインのHIPHOPカレッジ（[dTVチャンネル](https://ja.wikipedia.org/wiki/DTV_\(NTTドコモ\) "wikilink")）\[55\]
 
 ### 声優
 
@@ -289,12 +314,17 @@ DEV LARGEにディスされたほか、[剣桃太郎から](https://ja.wikipedia
 
   - [ライムスター宇多丸のウィークエンド・シャッフル](../Page/ライムスター宇多丸のウィークエンド・シャッフル.md "wikilink")（2007年8月11日、2008年8月30日、2010年1月23日、[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")）
   - [ザ・トップ5](https://ja.wikipedia.org/wiki/ザ・トップ5 "wikilink")（2011年11月9日、TBSラジオ）
-  - SCHOOL OF LOCK\! スカパー！校内放送ラッパーズ（2018年8月10日、[TOKYO FM](https://ja.wikipedia.org/wiki/TOKYO_FM "wikilink")）\[46\]\[47\]
+  - SCHOOL OF LOCK\! スカパー！校内放送ラッパーズ（2018年8月10日、[TOKYO FM](https://ja.wikipedia.org/wiki/TOKYO_FM "wikilink")）\[56\]\[57\]
+  - 「[たまむすび](https://ja.wikipedia.org/wiki/たまむすび "wikilink")」、「[ウィークエンドシャッフル](https://ja.wikipedia.org/wiki/ウィークエンドシャッフル "wikilink")」、「[アフター6ジャンクション](https://ja.wikipedia.org/wiki/アフター6ジャンクション "wikilink")」（TBSラジオ）
   - 他多数
 
 ### インターネットラジオ
 
   - Revisited:（2017年4月2日 - 9月24日、[WREP](https://ja.wikipedia.org/wiki/WREP "wikilink")）
+
+### コラボレーション動画
+
+  - 家事ラップ（[花王](../Page/花王.md "wikilink")とのコラボレーション動画シリーズ。）\[58\]
 
 ## 著書
 
@@ -359,11 +389,22 @@ DEV LARGEにディスされたほか、[剣桃太郎から](https://ja.wikipedia
 37. [Kダブシャインと剣桃太郎が和解 NEWS / REPORT - Amebreak\[アメブレイク](http://amebreak.ameba.jp/news/2008/11/000545.html)
 38. [Kダブ シャイン - SPACE SHOWER MOBILE](http://www.spaceshowertv.com/sp/content/mobile/column/kdub/2014/01/09.html)
 39. [Kダブ シャイン - SPACE SHOWER MOBILE](http://www.spaceshowertv.com/sp/content/mobile/column/kdub/2014/07/31.html)
-40. 歌詞の内容の過激さから、後に発禁・自主回収されている。
-41. [MC鬼刃 BY K ダブ シャイン - フロムNYシティ](https://www.youtube.com/watch?v=S5y8UMu3gXg)
-42.
+40.
+41. 歌詞の内容の過激さから、後に発禁・自主回収されている。
+42. [MC鬼刃 BY K ダブ シャイン - フロムNYシティ](https://www.youtube.com/watch?v=S5y8UMu3gXg)
 43.
 44.
 45.
 46.
 47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.

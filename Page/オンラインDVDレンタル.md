@@ -47,10 +47,10 @@
 
 ## 外部リンク
 
-  - [TSUTAYA DISCAS](http://www.discas.net/)
-  - [ぽすれん](http://posren.com/)
-      - [GEO宅配レンタル](http://rental.geo-online.co.jp/)
-  - [DMM.com](http://www.dmm.com)
+  - [TSUTAYA DISCAS](https://movie-tsutaya.tsite.jp/netdvd/dvd/top.do)
+  - [ぽすれん](https://posren.com/)
+      - [GEO宅配レンタル](https://rental.geo-online.co.jp/)
+  - [DMM.com](https://www.dmm.com/rental/)
 
 [Category:レンタルビデオ](https://ja.wikipedia.org/wiki/Category:レンタルビデオ "wikilink") [Category:インターネットサービス](https://ja.wikipedia.org/wiki/Category:インターネットサービス "wikilink") [Category:アダルトビデオ](https://ja.wikipedia.org/wiki/Category:アダルトビデオ "wikilink") [Category:オリジナルビデオ](https://ja.wikipedia.org/wiki/Category:オリジナルビデオ "wikilink") [Category:コンピュータゲーム流通](https://ja.wikipedia.org/wiki/Category:コンピュータゲーム流通 "wikilink")
 

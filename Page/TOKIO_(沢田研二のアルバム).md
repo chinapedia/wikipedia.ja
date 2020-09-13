@@ -9,13 +9,11 @@
 
 ## 解説
 
-本作はこれまで多数の楽曲を提供してきた[加瀬邦彦](../Page/加瀬邦彦.md "wikilink")をプロデューサーに迎え、前作までとは大きく異なり[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")を意識した作品になっている[阿久悠](../Page/阿久悠.md "wikilink")、[大野克夫](../Page/大野克夫.md "wikilink")コンビがメインのソングライターから外れたことに加え、[井上堯之バンド](https://ja.wikipedia.org/wiki/井上堯之バンド "wikilink")も一部メンバーの参加のみで楽曲、演奏共に大幅に人員が変貌を齎したといえる。また[早川タケジ](https://ja.wikipedia.org/wiki/早川タケジ "wikilink")のビジュアルデザインも話題となり、特にシングルカットされた「[TOKIO](../Page/TOKIO_\(沢田研二の曲\).md "wikilink")」での演出（電飾を鏤めた衣装にパラシュートを背負わせる）は後々まで語り草になっている。[ビートたけしが](https://ja.wikipedia.org/wiki/北野武 "wikilink")[オレたちひょうきん族](../Page/オレたちひょうきん族.md "wikilink")で演じた「[タケちゃんマン](https://ja.wikipedia.org/wiki/タケちゃんマン "wikilink")」のデザインはこの時の衣装の[パロディ](../Page/パロディ.md "wikilink")である。
+本作はこれまで多数の楽曲を提供してきた[加瀬邦彦](../Page/加瀬邦彦.md "wikilink")をプロデューサーに迎え、前作までとは大きく異なり[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")を意識した作品になっている。[阿久悠](../Page/阿久悠.md "wikilink")、[大野克夫](../Page/大野克夫.md "wikilink")コンビがメインのソングライターから外れたことに加え、[井上堯之バンド](https://ja.wikipedia.org/wiki/井上堯之バンド "wikilink")も一部メンバーの参加のみで楽曲、演奏共に大幅に人員が変貌を齎したといえる。
 
-作詞ではその「TOKIO」などを[糸井重里](../Page/糸井重里.md "wikilink")が手がけた他、喜多條忠、武衛尚子、[門谷憲二](../Page/門谷憲二.md "wikilink")、[康珍化](../Page/康珍化.md "wikilink")など、作曲では[BORO](../Page/BORO.md "wikilink")、[後藤次利](../Page/後藤次利.md "wikilink")などといったそれまで共演歴のないアーティストを多く迎えている（後藤はレコーディングには参加している）。また歌手の[りりィ](https://ja.wikipedia.org/wiki/りりィ "wikilink")が1曲提供している。編曲は全て後藤が担当している。
+作詞では「TOKIO」を[糸井重里](../Page/糸井重里.md "wikilink")が手がけた他、喜多條忠、武衛尚子、[門谷憲二](../Page/門谷憲二.md "wikilink")、[康珍化](../Page/康珍化.md "wikilink")など、作曲では[BORO](../Page/BORO.md "wikilink")、[後藤次利](../Page/後藤次利.md "wikilink")などといったそれまで共演歴のないアーティストを多く迎えている（後藤はレコーディングには参加している）。また歌手の[りりィ](https://ja.wikipedia.org/wiki/りりィ "wikilink")が1曲提供している。編曲は全て後藤が担当している。
 
 本作は沢田が[1970年代](../Page/1970年代.md "wikilink")最後にリリースした作品であり、シングルカットされた「TOKIO」は[1980年代](../Page/1980年代.md "wikilink")最初のリリースとなった。
-
-先行でシングルカットされたのは「ロンリーウルフ」だがこれは沢田の意向によるもの。プロデューサーの加瀬は「TOKIO」を推していた。
 
 ## 収録曲
 

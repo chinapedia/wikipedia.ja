@@ -37,7 +37,7 @@
   - [1993年](../Page/1993年.md "wikilink")、TAMAと旧メンバーMIYUKIが中心となって結成。オムニバスCD「Cry-Max Pleasure ～Welcome to the Front Line Party～」に参加。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")11月、音楽オーディション番組『[えびす温泉](../Page/えびす温泉.md "wikilink")』で5週連続勝ち抜いたことをきっかけにデビュー。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")8月、6thシングル『FLOWERS OF ROMANCE』でオリコン最高位5位を獲得。
-  - [2002年](../Page/2002年.md "wikilink")8月30日、Zepp Osakaでのライブを最後に“終わり”を迎える。
+  - [2002年](../Page/2002年.md "wikilink")8月30日、Zepp Osakaでラストライブを開催し“終わり”を迎える。
   - [2009年](../Page/2009年.md "wikilink")2月14日、午前0時にTAMA、MASASHI、HIROSHIの3人による再始動を発表。
 
 ## ディスコグラフィー
@@ -259,54 +259,30 @@ STRAWBERRY MOON（neut mix）</p></td>
 ## タイアップ
 
   - なりきりボニー&クライド
-
-:\*[テレビ朝日](../Page/テレビ朝日.md "wikilink")系[ウイークエンドドラマ](../Page/ウイークエンドドラマ.md "wikilink")『[金魚のフン](../Page/金魚のフン.md "wikilink")』エンディングテーマ
-
+      - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系[ウイークエンドドラマ](../Page/ウイークエンドドラマ.md "wikilink")『[金魚のフン](../Page/金魚のフン.md "wikilink")』エンディングテーマ
   - YELLOW YELLOW FIRE
-
-:\*[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[進め\!電波少年](../Page/進め!電波少年.md "wikilink")』エンディングテーマ
-
-:\*[サークルK](../Page/サークルK.md "wikilink") CMソング ※メンバーも全員出演
-
+      - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[進め\!電波少年](../Page/進め!電波少年.md "wikilink")』エンディングテーマ
+      - [サークルK](../Page/サークルK.md "wikilink") CMソング ※メンバーも全員出演
   - スーパーカー
-
-:\*[ヒマラヤ](../Page/ヒマラヤ_\(企業\).md "wikilink") CMソング
-
+      - [ヒマラヤ](../Page/ヒマラヤ_\(企業\).md "wikilink") CMソング
   - S.O.S ロマンティック
-
-:\*[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[所さんのこれアリなんじゃないの\!?](https://ja.wikipedia.org/wiki/所さんのこれアリなんじゃないの!? "wikilink")』 エンディングテーマ
-
+      - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[所さんのこれアリなんじゃないの\!?](https://ja.wikipedia.org/wiki/所さんのこれアリなんじゃないの!? "wikilink")』 エンディングテーマ
   - cuckoo
-
-:\*[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』エンディングテーマ
-
+      - [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』エンディングテーマ
   - エントロビースト
-
-:\*[UHA味覚糖](https://ja.wikipedia.org/wiki/UHA味覚糖 "wikilink")『カラセラ』CMソング ※メンバーも全員出演
-
+      - [UHA味覚糖](https://ja.wikipedia.org/wiki/UHA味覚糖 "wikilink")『カラセラ』CMソング ※メンバーも全員出演
   - コングラッチェ
-
-:\*[日本テレビ系アニメ](../Page/日本テレビ放送網.md "wikilink")『[金田一少年の事件簿](../Page/金田一少年の事件簿_\(アニメ\).md "wikilink")』エンディングテーマ
-
+      - [日本テレビ系アニメ](../Page/日本テレビ放送網.md "wikilink")『[金田一少年の事件簿](../Page/金田一少年の事件簿_\(アニメ\).md "wikilink")』エンディングテーマ
   - TOKYOダーリン
-
-:\*[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[モグモグGOMBO](../Page/モグモグGOMBO.md "wikilink")』エンディングテーマ
-
+      - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[モグモグGOMBO](../Page/モグモグGOMBO.md "wikilink")』エンディングテーマ
   - Sexy Sexy,
-
-:\*[フジテレビ系アニメ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[学校の怪談](../Page/学校の怪談_\(テレビアニメ\).md "wikilink")』エンディングテーマ
-
+      - [フジテレビ系アニメ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[学校の怪談](../Page/学校の怪談_\(テレビアニメ\).md "wikilink")』エンディングテーマ
   - STRAWBERRY MOON
-
-:\*[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[世界痛快伝説\!\!運命のダダダダーン\!](../Page/世界痛快伝説!!運命のダダダダーン!.md "wikilink")』エンディングテーマ
-
+      - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[世界痛快伝説\!\!運命のダダダダーン\!](../Page/世界痛快伝説!!運命のダダダダーン!.md "wikilink")』エンディングテーマ
   - Curry is my Angel
-
-:\*[ゴーゴーカレー](https://ja.wikipedia.org/wiki/ゴーゴーカレー "wikilink")とのPV及び楽曲コラボ
-
+      - [ゴーゴーカレー](https://ja.wikipedia.org/wiki/ゴーゴーカレー "wikilink")とのPV及び楽曲コラボ
   - unfairly
-
-:\*[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")『[HOT WAVE](https://ja.wikipedia.org/wiki/HOT_WAVE "wikilink")』2018年7月エンディングテーマ
+      - [テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")『[HOT WAVE](https://ja.wikipedia.org/wiki/HOT_WAVE "wikilink")』2018年7月エンディングテーマ
 
 ## 脚注
 

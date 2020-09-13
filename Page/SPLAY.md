@@ -26,10 +26,10 @@
 ## メンバー
 
   - **向井隆昭**（むかい たかあき）
-      - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")生まれ。[AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。ボーカル、[ギター](../Page/ギター.md "wikilink")。[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")を担当。[一人っ子](../Page/一人っ子.md "wikilink")。愛読する作家は[村上春樹](../Page/村上春樹.md "wikilink")。晴れていれば毎日でも布団を干す。ポニーキャニオンのスタッフから誕生日プレゼントに[布団乾燥機](../Page/布団乾燥機.md "wikilink")をプレゼントされたことも。写真を撮る事も趣味にしておりカメラはHOLGA、[ポラロイド](../Page/ポラロイド.md "wikilink")社製SX-70などを所有している。愛称は「たあ」もしくは「むっさん」。
+      - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")生まれ。[AB型](../Page/ABO式血液型.md "wikilink")。ボーカル、[ギター](../Page/ギター.md "wikilink")。[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")を担当。[一人っ子](../Page/一人っ子.md "wikilink")。愛読する作家は[村上春樹](../Page/村上春樹.md "wikilink")。晴れていれば毎日でも布団を干す。ポニーキャニオンのスタッフから誕生日プレゼントに[布団乾燥機](../Page/布団乾燥機.md "wikilink")をプレゼントされたことも。写真を撮る事も趣味にしておりカメラはHOLGA、[ポラロイド](../Page/ポラロイド.md "wikilink")社製SX-70などを所有している。愛称は「たあ」もしくは「むっさん」。
       - SPLAY解散後は2011年より[ことわざ能力検定協会](https://ja.wikipedia.org/wiki/ことわざ能力検定協会 "wikilink")の事務局長を務めている。\[1\]
   - **園木理人**（そのき りひと）
-      - 1980年[5月22日](../Page/5月22日.md "wikilink")生まれ。[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。ギター。イジられ[キャラ](https://ja.wikipedia.org/wiki/キャラ_\(コミュニケーション\) "wikilink")。メンバー中イチバンの酒飲み、ひげが濃い。愛称は「りひと」、HOLGAや[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")を使った写真が趣味で「メモラー」と呼ばれる事も。
+      - 1980年[5月22日](../Page/5月22日.md "wikilink")生まれ。[B型](../Page/ABO式血液型.md "wikilink")。ギター。イジられ[キャラ](https://ja.wikipedia.org/wiki/キャラ_\(コミュニケーション\) "wikilink")。メンバー中イチバンの酒飲み、ひげが濃い。愛称は「りひと」、HOLGAや[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")を使った写真が趣味で「メモラー」と呼ばれる事も。
   - **東俊介**（あずま しゅんすけ）
       - 1980年[7月20日](../Page/7月20日.md "wikilink")生まれ。AB型。[ベース](../Page/ベース_\(弦楽器\).md "wikilink")。潤滑油的役割を担うムード・メーカー。タイミングが悪く、ここぞというときに1人だけトイレに行っていたりする。体は細いがかなりの甘党で、家の冷蔵庫には[コンデンスミルク](https://ja.wikipedia.org/wiki/コンデンスミルク "wikilink")を常備している。絵を描く事が趣味でミニアルバム「HAPPY END」のジャケットやTシャツの[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")デザインを手がける。愛称は「しゅん」。
   - **道本卓行**（みちもと たかゆき）

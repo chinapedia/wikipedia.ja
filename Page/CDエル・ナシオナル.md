@@ -1,17 +1,17 @@
 > この記事は[CDエル・ナシオナル](https://ja.wikipedia.org/wiki/CDエル・ナシオナル)から翻訳されています。
 
 
-**CDエル・ナシオナル**()は、[エクアドル](https://ja.wikipedia.org/wiki/エクアドル "wikilink")の首都[キト](../Page/キト.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。南米の類似名クラブとの混同を避けるためにナシオナル・キト(*Nacional de Quito*)とも呼ばれる。
+**クルブ・デポルティーボ・エル・ナシオナル**（）は、[エクアドル](https://ja.wikipedia.org/wiki/エクアドル "wikilink")の首都[キト](../Page/キト.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。南米の類似名クラブとの混同を避けるためにナシオナル・キト（*Nacional de Quito*）とも呼ばれる。
 
-クラブは[エクアドル軍](https://ja.wikipedia.org/wiki/エクアドル軍 "wikilink")に属しており、入団出来るのは[エクアドル人](https://ja.wikipedia.org/wiki/エクアドル人 "wikilink")のみ。そのためチームはプロス・クリオーリョス(*Puros Criollos*＝オール[クリオーリョ](../Page/クリオーリョ.md "wikilink"))、エル・エキポ・ミリタル(*El Equipo Militar*＝軍隊のチーム)というニックネームで呼ばれる。
+クラブは[エクアドル軍](https://ja.wikipedia.org/wiki/エクアドル軍 "wikilink")に属しており、入団出来るのは[エクアドル人](https://ja.wikipedia.org/wiki/エクアドル人 "wikilink")のみ。そのため、チームはプーロス・クリオーリョス（*Puros Criollos*＝オール[クリオーリョ](../Page/クリオーリョ.md "wikilink")）、エル・エキーポ・ミリタル（*El Equipo Militar*＝軍隊のチーム）というニックネームで呼ばれる。
 
-エクアドル国内リーグでは[バルセロナSC](../Page/バルセロナSC.md "wikilink")と並ぶ13回の優勝を誇る。[コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink")にも頻繁に参加しており、最高の成績は1985年の準決勝進出である。
+エクアドル国内リーグでは[バルセロナSC](../Page/バルセロナSC.md "wikilink")と並ぶ13回の優勝を誇る。[コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink")にも何度も出場しており、最高成績は1985年のベスト4である。
 
-ホームスタジアムの[エスタディオ・オリンピコ・アタワルパ](https://ja.wikipedia.org/wiki/エスタディオ・オリンピコ・アタワルパ "wikilink")は高度2,800メートルの位置にある。
+ホームスタジアムの[エスタディオ・オリンピコ・アタワルパ](https://ja.wikipedia.org/wiki/エスタディオ・オリンピコ・アタワルパ "wikilink")は標高2,800メートルに位置する。
 
 ## ライバル
 
-CDエル・ナシオナルの最大のライバルは、[LDUキト](../Page/LDUキト.md "wikilink")である。この2チームの対戦は[クラシコ・キテーニョ](https://ja.wikipedia.org/wiki/クラシコ・キテーニョ "wikilink")（キト・ダービー）と呼ばれている。また同じくキトが本拠地である[デポルティーボ・キト](https://ja.wikipedia.org/wiki/デポルティーボ・キト "wikilink")ともライバル関係にある。そして、グアヤキルの強豪２チーム、[バルセロナSC](../Page/バルセロナSC.md "wikilink")と[CSエメレク](https://ja.wikipedia.org/wiki/CSエメレク "wikilink")ともライバル関係にある。
+CDエル・ナシオナルの最大のライバルは、[LDUキト](../Page/LDUキト.md "wikilink")である。この2チームの対戦は[クラシコ・キテーニョ](https://ja.wikipedia.org/wiki/クラシコ・キテーニョ "wikilink")（キト・ダービー）と呼ばれている。同じくキトに本拠地を置く[デポルティーボ・キト](https://ja.wikipedia.org/wiki/デポルティーボ・キト "wikilink")ともライバル関係にある。また、グアヤキルの強豪2クラブである[バルセロナSC](../Page/バルセロナSC.md "wikilink")、[CSエメレク](https://ja.wikipedia.org/wiki/CSエメレク "wikilink")ともライバル関係にある。
 
 ## タイトル
 

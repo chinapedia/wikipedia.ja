@@ -34,7 +34,7 @@
 15. Best Kept Secret
 16. LIFE GOES ON feat. [Full Of Harmony](../Page/Full_Of_Harmony.md "wikilink")
 17. BIG MOUTH 2 3
-18. ウィークエンド・シャッフル feat. [MCU](https://ja.wikipedia.org/wiki/MCU "wikilink"), [RYO-Z](../Page/RYO-Z.md "wikilink"), [KREVA](../Page/KREVA.md "wikilink"), [CUEZERO](../Page/CUEZERO.md "wikilink"), [CHANNEL](../Page/CHANNEL.md "wikilink"), [KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink"), [SU](https://ja.wikipedia.org/wiki/SU "wikilink"), [LITTLE](../Page/LITTLE.md "wikilink"), [ILMARI](../Page/ILMARI.md "wikilink"), [GAKU-MC](../Page/GAKU-MC.md "wikilink"), [SONOMI](../Page/SONOMI_\(歌手\).md "wikilink"), [PES](../Page/PES.md "wikilink"), [K.I.N](https://ja.wikipedia.org/wiki/K.I.N "wikilink"), [童子-T](../Page/童子-T.md "wikilink")
+18. ウィークエンド・シャッフル feat. [MCU](../Page/MCU_\(ラッパー\).md "wikilink"), [RYO-Z](../Page/RYO-Z.md "wikilink"), [KREVA](../Page/KREVA.md "wikilink"), [CUEZERO](../Page/CUEZERO.md "wikilink"), [CHANNEL](../Page/CHANNEL.md "wikilink"), [KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink"), [SU](../Page/SU_\(RIP_SLYME\).md "wikilink"), [LITTLE](../Page/LITTLE.md "wikilink"), [ILMARI](../Page/ILMARI.md "wikilink"), [GAKU-MC](../Page/GAKU-MC.md "wikilink"), [SONOMI](../Page/SONOMI_\(歌手\).md "wikilink"), [PES](../Page/PES.md "wikilink"), [K.I.N](https://ja.wikipedia.org/wiki/K.I.N "wikilink"), [童子-T](../Page/童子-T.md "wikilink")
 19. 働くおじさん
 
 [Category:RHYMESTERのアルバム](https://ja.wikipedia.org/wiki/Category:RHYMESTERのアルバム "wikilink") [Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink")

@@ -40,4 +40,4 @@
   - [WEB BEA VOICE](http://www.bea-net.com/beavoice/issue244/ritarit.html)
   - [ソニー、20GBのHDDを搭載したオーディオレコーダー『CMT-L7HD』を販売](http://ascii24.com/news/i/mrkt/article/2002/11/19/print/640055.html) - 瀬名俊介開発
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink")

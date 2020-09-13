@@ -212,6 +212,7 @@
 
   - [NEW ART HOLDINGS](https://newart-ir.jp/)
   - [ラ・パルレ](https://www.parler.co.jp/)
+  - [銀座ダイヤモンドシライシ](https://www.diamond-shiraishi.jp/)
 
 [Category:東京都中央区の企業](https://ja.wikipedia.org/wiki/Category:東京都中央区の企業 "wikilink") [Category:日本のサービス業](https://ja.wikipedia.org/wiki/Category:日本のサービス業 "wikilink") [Category:1994年設立の企業](https://ja.wikipedia.org/wiki/Category:1994年設立の企業 "wikilink") [Category:ジャスダック上場企業](https://ja.wikipedia.org/wiki/Category:ジャスダック上場企業 "wikilink") [Category:2000年上場の企業](https://ja.wikipedia.org/wiki/Category:2000年上場の企業 "wikilink") [Category:日本の持株会社](https://ja.wikipedia.org/wiki/Category:日本の持株会社 "wikilink")
 

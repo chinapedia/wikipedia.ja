@@ -5,14 +5,14 @@
 
 ## 概要
 
-  - 前作『[First Love](../Page/First_Love_\(宇多田ヒカルのアルバム\).md "wikilink")』から約2年ぶりのオリジナルアルバム。
+  - 日本の歴代最高売上記録を持つ前作『[First Love](../Page/First_Love_\(宇多田ヒカルのアルバム\).md "wikilink")』から約2年ぶりのオリジナルアルバム。
   - 初回出荷枚数は315万枚、発売初日のバックオーダーは85万枚を記録した\[1\]。
   - 日本の[オリコン調べでの初動売上が](../Page/オリコンチャート.md "wikilink")300.3万枚を記録し、初動売上歴代1位となった。これにより「1か国で最も速く売れたアルバム」として[ギネス世界記録](../Page/ギネス世界記録.md "wikilink")に認定されていたが\[2\]、後に[アデルの](https://ja.wikipedia.org/wiki/アデル_\(歌手\) "wikilink")『』が[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で発売1週目に337.8万枚（[ニールセン・ミュージック](https://ja.wikipedia.org/wiki/ニールセン・ミュージック "wikilink")調べ）を記録し破られる\[3\]。[プラネットチャートでは初動](https://ja.wikipedia.org/wiki/プラネット_\(企業\) "wikilink")262.9万枚、[サウンドスキャンジャパン](https://ja.wikipedia.org/wiki/サウンドスキャンジャパン "wikilink")では初動244.3万枚を記録。また、オリコン調べで日本国内における2000年代の歴代売上げ第1位のアルバムでもある。
   - 累計出荷枚数は日本国内（CD）486万枚、国外（CD）59万枚、アナログ盤3万枚、累計549万枚\[4\]。
   - 5thシングルの「Wait\&See 〜リスク〜」のカップリングである「はやとちり (Original Version)」、「Fly Me To The Moon (In Other Words)」は本作には収録されていない。
   - 初回特典ピクチャーレーベル仕様。
   - 2019年1月23日に「2018 Remastered Album」の名称でハイレゾ・リマスタリングされ、本アルバム未収録の5thシングルのカップリング「はやとちり(Original Version)」が最後に収録されている\[5\]
-  - 浜崎あゆみの「A BEST」の発売日を宇多田ヒカル側が同じ日にぶつけてきたため オリコン争いが起こった
+  - 当時人気絶頂期であり史上最多と言われるほどメディア露出をしていた浜崎あゆみの初ベストアルバム「A BEST」と発売日が重なり、発売前から連日マスコミによる報道加熱合戦となったが、本作は当時の浜崎を上回る初登場1位獲得し、本作が年間アルバム チャート首位を獲得している。また、宇多田は同年の年間シングルチャートでも「[Can You Keep A Secret?](../Page/Can_You_Keep_A_Secret?.md "wikilink")」で年間首位を獲得し、シングル・アルバム の年間首位を独占した。
 
 ## 収録曲
 
@@ -99,7 +99,7 @@ SIDE1,2とSIDE3,4との2枚組。ジャケットはCDのものとは異なり、
 
 [Category:宇多田ヒカルのアルバム](https://ja.wikipedia.org/wiki/Category:宇多田ヒカルのアルバム "wikilink") [Category:2001年のアルバム](https://ja.wikipedia.org/wiki/Category:2001年のアルバム "wikilink") [Category:2001年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2001年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:イーストワールドのアルバム](https://ja.wikipedia.org/wiki/Category:イーストワールドのアルバム "wikilink") [Category:オリコン年間アルバムチャート1位作品](https://ja.wikipedia.org/wiki/Category:オリコン年間アルバムチャート1位作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 
-1.  [宇多田・あゆ初回出荷800万枚 史上空前歌姫バトル](http://web.archive.org/web/20010605165938/http://www.yomiuri.co.jp/hochi/geinou/mar/o20010328_10.htm)、[スポーツ報知](../Page/スポーツ報知.md "wikilink")、2001年3月28日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+1.  [宇多田・あゆ初回出荷800万枚 史上空前歌姫バトル](https://web.archive.org/web/20010605165938/http://www.yomiuri.co.jp/hochi/geinou/mar/o20010328_10.htm)、[スポーツ報知](../Page/スポーツ報知.md "wikilink")、2001年3月28日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
 2.  『ギネス世界記録2016（日本語版）』クレイグ・グレンディ（編）、角川アスキー総合研究所、2015年、185頁。ISBN 978-4-04-899603-7。
 3.  『ギネス世界記録2019（日本語版）』クレイグ・グレンディ（編）、角川アスキー総合研究所、2018年、186頁。ISBN 978-4-04-911007-4。
 4.  [宇多田ヒカル、「HERO」以来の月9ドラマ主題歌](http://news.livedoor.com/article/detail/3837679/)、[livedoor](../Page/ライブドア.md "wikilink")、2008年09月29日11時30分。

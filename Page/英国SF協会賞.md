@@ -1,7 +1,7 @@
 > この記事は[英国SF協会賞](https://ja.wikipedia.org/wiki/英国SF協会賞)から翻訳されています。
 
 
-**英国SF協会賞**（British Science Fiction Association Awards）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")国内で前年に刊行された[SF](../Page/SF.md "wikilink")作品を対象として贈られる文学賞。
+**英国SF協会賞**（British Science Fiction Association Awards）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")国内で前年に刊行された[SF作品を対象として贈られる文学賞](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")。
 
 運営するのは、読者、作家、編集者、書店員などが参加するイギリスの全国SFファン団体である。受賞作は英国SF協会の会員および、近年になってからはイギリスの年次全国SF大会であるの参加登録者の投票（ファン投票）に基づいて決定する。
 
@@ -68,8 +68,8 @@
   - 2015年  *House of Shattered Wings*
   - 2016年  *Europe in Winter*
   - 2017年  *The Rift*
-  - 2018年 [ガレス・L・パウエル](../Page/ガレス・L・パウエル.md "wikilink") *Embers of War*
-  - 2019年  '’Children of Ruin’’
+  - 2018年 [ガレス・L・パウエル](../Page/ガレス・L・パウエル.md "wikilink")『ウォーシップ・ガール』*Embers of War*
+  - 2019年  *Children of Ruin*
 
 ### 中短編部門
 

@@ -36,4 +36,4 @@ iSightはIIDCに準拠した仕様であるため、[libdc1394](https://ja.wikip
 [Category:アップルのハードウェア](https://ja.wikipedia.org/wiki/Category:アップルのハードウェア "wikilink") [Category:ビデオカメラ](https://ja.wikipedia.org/wiki/Category:ビデオカメラ "wikilink")
 
 1.  [アップル、iChat AVとiSightを発表 - Apple Press Info](http://www.apple.com/jp/pr/library/2003/06/23Apple-Introduces-iChat-AV-and-iSight.html)
-2.  [Unibrain Software Download Section](http://web.archive.org/web/20121224023636/http://www.unibrain.com/download/download.asp)（2012年12月24日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+2.  [Unibrain Software Download Section](https://web.archive.org/web/20121224023636/http://www.unibrain.com/download/download.asp)（2012年12月24日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）

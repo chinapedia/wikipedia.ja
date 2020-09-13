@@ -28,6 +28,7 @@
   - ハナ：[鈴木杏](https://ja.wikipedia.org/wiki/鈴木杏 "wikilink")
   - ローリエ：[石橋凌](../Page/石橋凌.md "wikilink")
   - ルカ：[豊川悦司](../Page/豊川悦司.md "wikilink")　
+  - [千原靖史](https://ja.wikipedia.org/wiki/千原靖史 "wikilink")、[千原浩史](https://ja.wikipedia.org/wiki/千原浩史 "wikilink")、[YOU](https://ja.wikipedia.org/wiki/YOU_\(タレント\) "wikilink")、[春山幹介](../Page/春山幹介.md "wikilink")、[久保孝典](https://ja.wikipedia.org/wiki/久保孝典 "wikilink")　ほか
 
 ## 賞歴
 
@@ -42,4 +43,4 @@
   -
   -
   -
-[Category:2003年の映画](https://ja.wikipedia.org/wiki/Category:2003年の映画 "wikilink") [Category:TBS製作の映画](https://ja.wikipedia.org/wiki/Category:TBS製作の映画 "wikilink") [Category:毎日放送製作の映画](https://ja.wikipedia.org/wiki/Category:毎日放送製作の映画 "wikilink") [Category:WOWOW製作の映画](https://ja.wikipedia.org/wiki/Category:WOWOW製作の映画 "wikilink") [Category:マフィア映画](https://ja.wikipedia.org/wiki/Category:マフィア映画 "wikilink") [Category:瀬々敬久の監督映画](https://ja.wikipedia.org/wiki/Category:瀬々敬久の監督映画 "wikilink") [Category:吸血鬼を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:吸血鬼を題材とした映画作品 "wikilink") [Category:GACKT](https://ja.wikipedia.org/wiki/Category:GACKT "wikilink")
+[Category:2003年の映画](https://ja.wikipedia.org/wiki/Category:2003年の映画 "wikilink") [Category:TBS製作の映画](https://ja.wikipedia.org/wiki/Category:TBS製作の映画 "wikilink") [Category:毎日放送製作の映画](https://ja.wikipedia.org/wiki/Category:毎日放送製作の映画 "wikilink") [Category:WOWOW製作の映画](https://ja.wikipedia.org/wiki/Category:WOWOW製作の映画 "wikilink") [Category:マフィア映画](https://ja.wikipedia.org/wiki/Category:マフィア映画 "wikilink") [Category:瀬々敬久の監督映画](https://ja.wikipedia.org/wiki/Category:瀬々敬久の監督映画 "wikilink") [Category:吸血鬼を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:吸血鬼を題材とした映画作品 "wikilink") [Category:日本のSF映画作品](https://ja.wikipedia.org/wiki/Category:日本のSF映画作品 "wikilink") [Category:GACKT](https://ja.wikipedia.org/wiki/Category:GACKT "wikilink")

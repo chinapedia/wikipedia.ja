@@ -33,7 +33,7 @@
   - [吉田朱里](https://ja.wikipedia.org/wiki/吉田朱里 "wikilink")（[NMB48](https://ja.wikipedia.org/wiki/NMB48 "wikilink")） - 2018年3月〜
   - [高橋ひかる](https://ja.wikipedia.org/wiki/高橋ひかる_\(2001年生\) "wikilink") - 2018年11月〜
   - [佐々木久美](https://ja.wikipedia.org/wiki/佐々木久美_\(アイドル\) "wikilink")（[日向坂46](https://ja.wikipedia.org/wiki/日向坂46 "wikilink")） - 2019年2月〜
-  - [金川紗耶](https://ja.wikipedia.org/wiki/金川紗耶 "wikilink")（[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")）- 2020年4月
+  - [金川紗耶](https://ja.wikipedia.org/wiki/金川紗耶 "wikilink")（[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")）- 2020年4月〜
 
 **主な出身者**
 
@@ -95,6 +95,7 @@
   - [川本彩](https://ja.wikipedia.org/wiki/川本彩 "wikilink")
   - [大西真美](https://ja.wikipedia.org/wiki/大西真美 "wikilink")
   - [植田せいら](https://ja.wikipedia.org/wiki/植田せいら "wikilink")
+  - [浅田春奈](../Page/浅田春奈.md "wikilink")
 
 ## 表紙モデル
 
@@ -468,7 +469,7 @@
 <tr class="even">
 <td><p>2016年8月号</p></td>
 <td><p><a href="../Page/桐谷美玲.md" title="wikilink">桐谷美玲</a><br />
-<a href="https://ja.wikipedia.org/wiki/山崎賢人" title="wikilink">山崎賢人</a></p></td>
+<a href="https://ja.wikipedia.org/wiki/山﨑賢人" title="wikilink">山﨑賢人</a></p></td>
 <td><p>ー</p></td>
 <td><p>専属モデル以外</p></td>
 </tr>

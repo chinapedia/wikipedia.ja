@@ -633,7 +633,7 @@ TFCC-86486</p></td>
   - 2010年08月13日 - HATENA6 -テクノ盆 納涼大会編-
   - 2010年10月02日 - ベスパ☆くまメロpresentsストロボ ロジック Vol.2
   - 2010年11月28日 - EXTRAVE\!\!\!
-  - 2012年07月29日 - 「[未来日記](https://ja.wikipedia.org/wiki/未来日記 "wikilink")」The Live World
+  - 2012年07月29日 - 「[未来日記](../Page/未来日記_\(漫画\).md "wikilink")」The Live World
   - 2013年12月15日 - 魔Q 4.14
   - 2014年10月05日 - OTONOTANI 2014
 
@@ -653,6 +653,6 @@ TFCC-86486</p></td>
 
   -
   -
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:デフスターレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:デフスターレコーズのアーティスト "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:デフスターレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:デフスターレコーズのアーティスト "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:1993年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1993年に結成した音楽グループ "wikilink") [Category:2014年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2014年に解散した音楽グループ "wikilink")
 
 1.  [eo音楽 NIRGILIS インタビュー](http://eonet.jp/music/interview/index_060629.html)

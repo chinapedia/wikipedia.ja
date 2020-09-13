@@ -25,6 +25,7 @@
 ## 外部リンク
 
   -
+  -
 [Category:映画のウェブサイト](https://ja.wikipedia.org/wiki/Category:映画のウェブサイト "wikilink") [Category:オンライン映画データベース](https://ja.wikipedia.org/wiki/Category:オンライン映画データベース "wikilink") [Category:日本のウェブサイト](https://ja.wikipedia.org/wiki/Category:日本のウェブサイト "wikilink")
 
 1.  [会社概要](http://www.allcinema.net/prog/company_info.php)、allcinema ONLINE、2009年10月10日閲覧。

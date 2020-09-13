@@ -27,5 +27,5 @@
 
 ## その他
 
-  - Mpc - [メガ](../Page/メガ.md "wikilink")[パーセク](../Page/パーセク.md "wikilink")（Mega parsec）の略 - 天文学で使われる、距離を表す[単位](../Page/単位.md "wikilink")。 [パーセク](../Page/パーセク.md "wikilink")を参照。
-  - [Military Payment Certificates](https://ja.wikipedia.org/wiki/MPC_\(アメリカ\) "wikilink") - アメリカ軍が第二次世界大戦の終わりからベトナム戦争まで発行した[軍用手票](../Page/軍用手票.md "wikilink")
+  - Mpc - [メガ](../Page/メガ.md "wikilink")[パーセク](../Page/パーセク.md "wikilink")（Mega parsec）の略。天文学で使われる、距離を表す[単位](../Page/単位.md "wikilink")。 [パーセク](../Page/パーセク.md "wikilink")を参照。
+  - [MPC (アメリカ)](https://ja.wikipedia.org/wiki/MPC_\(アメリカ\) "wikilink") (Military Payment Certificates) - アメリカ軍が第二次世界大戦の終わりからベトナム戦争まで発行した[軍用手票](../Page/軍用手票.md "wikilink")

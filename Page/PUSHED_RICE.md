@@ -20,7 +20,7 @@
       - 1992年のライブ「英雄伝説」の2日目で、メンバー入場時に流されたインストゥルメンタルの楽曲。所々に、Peeping TomやMONGOLOIDにも使われているリズムが出てくる。また終盤では、石井が早口でメンバーのステージネームを叫んでいる。
 2.  **FOXY -危険な恋-**
     \*作詞・作曲:石井竜也 / 編曲:[勝又隆一](https://ja.wikipedia.org/wiki/勝又隆一 "wikilink")
-      - 解散コンサート「THE LAST SYMPOSIUM」ではアルバム曲の中から唯一披露された。
+      - 解散コンサート「THE LAST SYMPOSIUM」ではこのアルバムの中では次のSpecial Love との2曲が披露された。
 3.  **[Special Love](../Page/Special_Love.md "wikilink")** \[Album Version\]
       - 作詞・作曲:石井竜也 / 編曲:勝又隆一 米米CLUB
       - 24thシングル。シングルとはアレンジがまったくの別物となっている（表記は便宜上）。

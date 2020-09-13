@@ -215,7 +215,7 @@
 
 ## 外部リンク
 
-  - [公式サイト](http://web.archive.org/web/20090523091551/http://www.clamp-in-wonderland.com//)（閉鎖されたため、インターネットアーカイブを記述）
+  - [公式サイト](https://web.archive.org/web/20090523091551/http://www.clamp-in-wonderland.com//)（閉鎖されたため、インターネットアーカイブを記述）
 
 [Category:アニメ作品_く](https://ja.wikipedia.org/wiki/Category:アニメ作品_く "wikilink") [Category:1994年のOVA](https://ja.wikipedia.org/wiki/Category:1994年のOVA "wikilink") [Category:2007年のOVA](https://ja.wikipedia.org/wiki/Category:2007年のOVA "wikilink") [Category:CLAMP原作のアニメ作品](https://ja.wikipedia.org/wiki/Category:CLAMP原作のアニメ作品 "wikilink") [Category:アニメのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:アニメのクロスオーバー作品 "wikilink") [Category:マッドハウス](https://ja.wikipedia.org/wiki/Category:マッドハウス "wikilink") [Category:アニメイトフィルムのアニメ作品](https://ja.wikipedia.org/wiki/Category:アニメイトフィルムのアニメ作品 "wikilink")
 

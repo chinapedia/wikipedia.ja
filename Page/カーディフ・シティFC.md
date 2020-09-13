@@ -19,6 +19,7 @@
   - [2012年](../Page/2012年.md "wikilink")：これまでチームのシンボルカラーであった青を赤に変更。この決定は賛否両論を引き起こした。
   - [2013年](../Page/2013年.md "wikilink")：[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")に初昇格。
   - [2015年](../Page/2015年.md "wikilink")：シンボルカラーを青に戻す。
+  - [2017年](../Page/2017年.md "wikilink")：プレミアリーグに2回目の昇格。
 
 ## タイトル
 
@@ -98,7 +99,8 @@
 | 2016-17                                                                          | チャンピオン                                                                    | 46                                   | 17                                                              | 11                                                     | 18                                                            | 60                                                                  | 61    |
 | 2017-18                                                                          | チャンピオン                                                                    | 46                                   | 27                                                              | 9                                                      | 10                                                            | 69                                                                  | 39    |
 | 2018-19                                                                          | プレミアリーグ                                                                   | 38                                   | 10                                                              | 4                                                      | 24                                                            | 34                                                                  | 69    |
-| [2019-20](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2019-2020 "wikilink") | チャンピオンシップ                                                                 | 46                                   |                                                                 |                                                        |                                                               |                                                                     |       |
+| [2019-20](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2019-2020 "wikilink") | チャンピオン                                                                    | 46                                   | 19                                                              | 16                                                     | 11                                                            | 68                                                                  | 58    |
+| 2020-21                                                                          |                                                                           |                                      |                                                                 |                                                        |                                                               |                                                                     |       |
 
 ## 現所属メンバー
 
@@ -110,9 +112,9 @@
 
 </div>
 
-  - [2020年](../Page/2020年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")現在\[2\]
+  - [2020年](../Page/2020年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")現在\[2\]
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink")) ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink"))       ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Zimbabwe.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_South_Africa.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink")) ★         ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink")) ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ★
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink")) ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink"))       ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Zimbabwe.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_South_Africa.svg "wikilink"))         ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink")) ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink"))
 
 ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 
@@ -196,7 +198,7 @@
 <td><p>2016</p></td>
 </tr>
 <tr class="odd">
-<td><p>ニール・ワーノック</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ニール・ウォーノック" title="wikilink">ニール・ウォーノック</a></p></td>
 <td></td>
 <td><p>2016-2019</p></td>
 </tr>
@@ -244,7 +246,7 @@
 
   - [クレイグ・ベラミー](../Page/クレイグ・ベラミー.md "wikilink") 2010-2011, 2012-2014
 
-  - [金甫炅](https://ja.wikipedia.org/wiki/金甫ギョン "wikilink") 2012-2014
+  - [金甫炅](https://ja.wikipedia.org/wiki/金甫炅 "wikilink") 2012-2014
 
   - [ガリー・メデル](../Page/ガリー・メデル.md "wikilink") 2013-2014
 

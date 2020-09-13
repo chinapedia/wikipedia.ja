@@ -936,7 +936,7 @@
 26. [プロフィール](http://abp-inc.co.jp/member/fujiko-kojima) - アジア・ビジネス・パートナーズ
 27. [プロフィール](http://web.archive.org/web/20160309130218/http://kmcinema.com/actors/post-60.html) - ケイエムシネマ企画（アーカイブ）
 28. [ラーメン屋！](https://ameblo.jp/daimon439/entry-11738636485.html) - 大門与作オフィシャルブログ 2013年12月29日
-29. [プロフィール](http://kmcinema.com/wp/wp-content/uploads/2018/09/QR%E3%81%AA%E3%81%97%E3%80%80%E9%95%B7%E7%94%B0%E6%B6%BC%E5%AD%90%E3%80%802017.pdf) - ケイエムシネマ企画
+29. [プロフィール](https://web.archive.org/web/20200725133233/http://kmcinema.com/wp/cast/osada.html) - ケイエムシネマ企画（アーカイブ）
 30. [プロフィール](https://web.archive.org/web/20170108094327/http://news-enter.com/profile/asami_enmei/) - NEWSエンターテインメント（アーカイブ）
 31. [所属子供タレントの最新出演実績](http://web.archive.org/web/20160206085835/http://news-enter.com/saishin.html) - NEWSエンターテインメント（アーカイブ）
 32. [プロフィール](https://web.archive.org/web/20160305000153/http://www.18pro.co.jp/html/model_naoho_ichihashi.html) - ワンエイトプロモーション（アーカイブ）

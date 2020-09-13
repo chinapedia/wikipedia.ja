@@ -155,6 +155,7 @@
   - [山崎一](../Page/山崎一.md "wikilink")
   - [山下容莉枝](../Page/山下容莉枝.md "wikilink")
   - [高杢禎彦](../Page/高杢禎彦.md "wikilink")
+  - [仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")
 
 ## スタッフ
 

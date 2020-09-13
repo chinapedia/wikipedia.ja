@@ -3,17 +3,17 @@
 
 **Camellia**（カメリア）とは、[2000年](../Page/2000年.md "wikilink")に[NTTと](../Page/日本電信電話.md "wikilink")[三菱電機](../Page/三菱電機.md "wikilink")により共同開発された[ブロック暗号](../Page/ブロック暗号.md "wikilink")である。名称の由来は植物の[ツバキ](../Page/ツバキ.md "wikilink")（[ツバキ属](https://ja.wikipedia.org/wiki/ツバキ属 "wikilink")：*Camellia*）。
 
-Camelliaは[Feistel構造](../Page/Feistel構造.md "wikilink")を採用したブロック長128[ビット](../Page/ビット.md "wikilink")の[ブロック暗号](../Page/ブロック暗号.md "wikilink")で、[鍵長](https://ja.wikipedia.org/wiki/鍵長 "wikilink")として[AESと同じ](../Page/Advanced_Encryption_Standard.md "wikilink")128ビット、192ビット、256ビットの3つを選択できる。また、CamelliaはAESと同等の安全性を保ちつつ[ハードウェア](../Page/ハードウェア.md "wikilink")での低消費電力で高速な[暗号化](https://ja.wikipedia.org/wiki/暗号化 "wikilink")・[復号](https://ja.wikipedia.org/wiki/復号 "wikilink")に優れている。
+Camelliaは[Feistel構造](../Page/Feistel構造.md "wikilink")を採用したブロック長128[ビット](../Page/ビット.md "wikilink")の[ブロック暗号](../Page/ブロック暗号.md "wikilink")で、[鍵長](https://ja.wikipedia.org/wiki/鍵長 "wikilink")として[AESと同じ](../Page/Advanced_Encryption_Standard.md "wikilink")128ビット、192ビット、256ビットの3つを選択できる。また、CamelliaはAESと同等の安全性を保ちつつ[ハードウェア](../Page/ハードウェア.md "wikilink")での低消費[電力](../Page/電力.md "wikilink")で高速な[暗号化](https://ja.wikipedia.org/wiki/暗号化 "wikilink")・[復号](https://ja.wikipedia.org/wiki/復号 "wikilink")に優れている。
 
 ## 構造
 
 Camelliaの入出力[インタフェース](https://ja.wikipedia.org/wiki/インタフェース "wikilink")は[AES互換で](../Page/Advanced_Encryption_Standard.md "wikilink")、ブロック長は128ビット固定、鍵長は128 / 192 / 256ビットの3つを選択できる。
 
-全体構造は、AESでは[SPN構造](https://ja.wikipedia.org/wiki/SPN構造 "wikilink")が採用されたのと違い、[DESと同じ](../Page/Data_Encryption_Standard.md "wikilink")[Feistel構造](../Page/Feistel構造.md "wikilink")を採用している。ラウンド段数は、鍵長が128ビットのときは18段、192ビット・256ビットのときは24段で、6段毎に「副変換部」と呼ばれる全単射関数FLとFL-1が挿入されている。また、最初と最後にホワイトニング（拡大鍵との排他的論理和）が設けられている。
+全体構造は、AESでは[SPN構造](https://ja.wikipedia.org/wiki/SPN構造 "wikilink")が採用されたのと違い、[DESと同じ](../Page/Data_Encryption_Standard.md "wikilink")[Feistel構造](../Page/Feistel構造.md "wikilink")を採用している。ラウンド段数は、鍵長が128ビットのときは18段、192ビット・256ビットのときは24段で、6段毎に「副変換部」と呼ばれる全単射関数FLとFL-1が挿入されている。また、最初と最後にホワイトニング（拡大鍵との[排他的論理和](../Page/排他的論理和.md "wikilink")）が設けられている。
 
 ラウンド関数はバイト（8ビット）を単位とした処理になっていて、拡大鍵との[排他的論理和](../Page/排他的論理和.md "wikilink")の後、8ビット入力-8ビット出力の[Sボックス](../Page/Sボックス.md "wikilink")（4種類ある）と、[FEAL](../Page/FEAL.md "wikilink")にも似た阿弥陀籤型のP関数によって構成される。Sボックスは4種類あるが、テーブル1つと、入出力のビットシフト等の組合せで実装することもできる。
 
-鍵スケジューラは、ラウンド関数2段で、鍵を"暗号化"して中間鍵を生成し、中間鍵の一部分を取り出すことで拡大鍵を作り出す。具体的には中間鍵をラウンド毎に定義された分だけシフトして、右64ビット（または左64ビット）を取り出す。CamelliaはFeistel構造を採用して、暗号化と復号の違いはラウンド関数等で使用される拡大鍵の順番のみになるように設計されている。そこで鍵スケジューラは、拡大鍵を1番目から順番に求めることも、最後から逆順に求めることも、どちらも同様な手間で実現できるように設計されている。
+鍵スケジューラは、ラウンド関数2段で、鍵を"暗号化"して中間鍵を生成し、中間鍵の一部分を取り出すことで拡大鍵を作り出す。具体的には中間鍵をラウンド毎に定義された分だけシフトして、右64ビット（または左64ビット）を取り出す。CamelliaはFeistel構造を採用して、暗号化と復号の違いはラウンド関数等で使用される拡大鍵の順番のみになるように設計されている。そこで鍵スケジューラは、拡大鍵を1番目から順番に求めることも、最後から逆順に求めることも、それぞれ、どちらも同様な手間で実現できるように設計されている。
 
 ## 安全性
 

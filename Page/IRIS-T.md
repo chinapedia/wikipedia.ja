@@ -1,7 +1,7 @@
 > この記事は[IRIS-T](https://ja.wikipedia.org/wiki/IRIS-T)から翻訳されています。
 
 
-**IRIS-T**（アイリスティー）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[Diehl BGT Defence社](https://ja.wikipedia.org/wiki/:de:Diehl_BGT_Defence "wikilink")・[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の[SAAB](../Page/SAAB.md "wikilink")社・[イタリア](../Page/イタリア.md "wikilink")の[アレニア](https://ja.wikipedia.org/wiki/アレニア "wikilink")社によって開発された[短距離空対空ミサイル](https://ja.wikipedia.org/wiki/空対空ミサイル#WVR "wikilink")。[第3世代サイドワインダーの後継として開発された](https://ja.wikipedia.org/wiki/サイドワインダー_\(ミサイル\)#第3世代 "wikilink")。
+**IRIS-T**（アイリスティー）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ディール・ディフェンス](https://ja.wikipedia.org/wiki/ディール・ディフェンス "wikilink")社・[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の[SAAB](../Page/SAAB.md "wikilink")社・[イタリア](../Page/イタリア.md "wikilink")の[アレニア](https://ja.wikipedia.org/wiki/アレニア "wikilink")社によって開発された[短距離空対空ミサイル](https://ja.wikipedia.org/wiki/空対空ミサイル#WVR "wikilink")。[第3世代サイドワインダーの後継として開発された](https://ja.wikipedia.org/wiki/サイドワインダー_\(ミサイル\)#第3世代 "wikilink")。
 
 なお、IRIS-Tとは、[赤外線](../Page/赤外線.md "wikilink")画像システム・尾部制御（**I**nfra **R**ed **I**maging **S**ystem Tail/**T**hrust Vector-Controlled）の[アクロニムである](../Page/頭字語.md "wikilink")。
 
@@ -9,7 +9,7 @@
 
 [1980年代](../Page/1980年代.md "wikilink")の時点で、[西ドイツ](../Page/西ドイツ.md "wikilink")は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")と[AIM-132 ASRAAM開発のパートナーであった](../Page/ASRAAM_\(ミサイル\).md "wikilink")。しかし、[ドイツ再統一](../Page/ドイツ再統一.md "wikilink")後、過小評価していた[AA-11 アーチャー（R-73）の多量な備蓄から顕著な能力を確認した](../Page/R-73_\(ミサイル\).md "wikilink")。特に探索・捕捉（[シーカー](https://ja.wikipedia.org/wiki/シーカー "wikilink")）、追跡能力などはるかに能力があり、[機動](../Page/機動.md "wikilink")性もより優れていることが判明した。これらの事実は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")にASRAAMにおける機動性の欠如した一定軌道の推力など一部の設計に疑問をもたせた。その結果、イギリスと協定を結ぶことができず、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")にドイツはASRAAM計画から降りた。
 
-ドイツの[Diehl BGT Defence社は](https://ja.wikipedia.org/wiki/:en:Diehl_BGT_Defence "wikilink")、自社開発した[ミサイル](../Page/ミサイル.md "wikilink")が[サイドワインダーに敗れたため](../Page/サイドワインダー_\(ミサイル\).md "wikilink")、各種サイドワインダーの[ライセンス生産](../Page/ライセンス生産.md "wikilink")を行ってきた。AA-11の対抗としてサイドワインダーを[赤外線](../Page/赤外線.md "wikilink")画像シーカーへ換装したIRISを提案したが、[ドイツ空軍はこれを承諾しなかった](https://ja.wikipedia.org/wiki/ドイツ空軍_\(ドイツ連邦軍\) "wikilink")。そのため、BGTは独自でIRIS-Tを計画し、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")6月に承諾された。
+ドイツの[ディール・ディフェンス](https://ja.wikipedia.org/wiki/ディール・ディフェンス "wikilink")社は、自社開発した[ミサイル](../Page/ミサイル.md "wikilink")が[サイドワインダーに敗れたため](../Page/サイドワインダー_\(ミサイル\).md "wikilink")、各種サイドワインダーの[ライセンス生産](../Page/ライセンス生産.md "wikilink")を行ってきた。AA-11の対抗としてサイドワインダーを[赤外線](../Page/赤外線.md "wikilink")画像シーカーへ換装したIRISを提案したが、[ドイツ空軍はこれを承諾しなかった](https://ja.wikipedia.org/wiki/ドイツ空軍_\(ドイツ連邦軍\) "wikilink")。そのため、BGTは独自でIRIS-Tを計画し、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")6月に承諾された。
 
 同年、ドイツは[ギリシャ](../Page/ギリシャ.md "wikilink")、[イタリア](../Page/イタリア.md "wikilink")、[ノルウェー](../Page/ノルウェー.md "wikilink")、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")と協力してIRIS-Tの開発計画を発表した。なお、後にカナダは計画から脱退したが、[2003年](../Page/2003年.md "wikilink")に[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")がプロジェクトに加わった。[2005年](../Page/2005年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")に最初のIRIS-Tがドイツ空軍に引き渡された。
 

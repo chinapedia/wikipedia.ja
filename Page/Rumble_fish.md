@@ -13,7 +13,7 @@
       - 映画『[仮面学園](../Page/仮面学園.md "wikilink")』主題歌
 2.  **My wish-My life**
 3.  **SUMMER DAYS**
-      - [日本テレビ系ドラマ](../Page/日本テレビ系列.md "wikilink")『[OLポリス](https://ja.wikipedia.org/wiki/OLポリス "wikilink")』主題歌
+      - [日本テレビ系ドラマ](../Page/日本テレビ系列.md "wikilink")『[OLポリス](../Page/OLポリス.md "wikilink")』主題歌
       - 当初はこの曲がシングルのA面として発売される予定だった。1stアルバム収録「[BREAK OF DAWN](../Page/BREAK_OF_DAWN.md "wikilink")」同様、歌詞が全て英語。ライブのアンコールの最後によく歌われる。
 4.  **rumble fish (Instrumental)**
 5.  **My wish-My life (Instrumental)**
@@ -52,4 +52,4 @@
 
   - [rumble fish](http://mu-mo.net/id/d-a-i/discography/product/AVCD-30134.html) - [エイベックスによる作品情報](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")
 
-[Category:Do_As_Infinityの楽曲](https://ja.wikipedia.org/wiki/Category:Do_As_Infinityの楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:長尾大が制作した楽曲](https://ja.wikipedia.org/wiki/Category:長尾大が制作した楽曲 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
+[Category:Do_As_Infinityの楽曲](https://ja.wikipedia.org/wiki/Category:Do_As_Infinityの楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:魚を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:魚を題材とした楽曲 "wikilink") [Category:長尾大が制作した楽曲](https://ja.wikipedia.org/wiki/Category:長尾大が制作した楽曲 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")

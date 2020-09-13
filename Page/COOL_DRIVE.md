@@ -8,7 +8,14 @@
 ## メンバー
 
   - NEMO（[1974年](../Page/1974年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink") - ）ボーカル・ギター
-  - 2008年バンド[Nemotroubolter](https://ja.wikipedia.org/wiki/Nemotroubolter "wikilink")を結成し活動。
+
+<!-- end list -->
+
+  -
+    2008年バンド[Nemotroubolter](https://ja.wikipedia.org/wiki/Nemotroubolter "wikilink")を結成し活動。
+
+<!-- end list -->
+
   - DAISUKE（[1974年](../Page/1974年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink") - ）キーボード
   - YAMA（[1976年](../Page/1976年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink") - ）ベース
   - YUSHI（[1975年](../Page/1975年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink") - ）ドラム

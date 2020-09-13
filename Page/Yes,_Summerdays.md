@@ -15,7 +15,7 @@
       - 作詞・作曲：[TAKURO](../Page/TAKURO.md "wikilink") / 編曲:GLAY、[佐久間正英](../Page/佐久間正英.md "wikilink")
     <!-- end list -->
       -
-        2ndアルバム『[BEAT out\!](../Page/BEAT_out!.md "wikilink")』に収録されており、長くベストアルバムに収録されることはなかったが、『[THE GREAT VACATION VOL.2 〜SUPER BEST OF GLAY〜](https://ja.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.2_〜SUPER_BEST_OF_GLAY〜 "wikilink")』で初めてベストアルバムに収録された。なお、『胸懐』にてTAKUROはCMソングと言う事に関して「CMで使用される条件を盛り込んだ上で自分の音楽を追求出来る」と語っている。また、この曲の[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")は2種類存在する。
+        2ndアルバム『[BEAT out\!](../Page/BEAT_out!.md "wikilink")』に収録されており、長くベストアルバムに収録されることはなかったが、『[THE GREAT VACATION VOL.2 〜SUPER BEST OF GLAY〜](https://ja.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.2_〜SUPER_BEST_OF_GLAY〜 "wikilink")』で初めてベストアルバムに収録された。なお、『胸懐』にてTAKUROはCMソングと言う事に関して「CMで使用される条件を盛り込んだ上で自分の音楽を追求出来る」と語っている。また、この曲の[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")は、演奏シーンをシルエットを織り交ぜながら終始展開するもの・[軽飛行機](../Page/軽飛行機.md "wikilink")の格納庫での準備～演奏シーンと個々のメンバーの屋外でのイメージシーンがふんだんに交錯するものの2種類が存在する。
 2.  **[innocence](../Page/彼女の“Modern…”.md "wikilink") LIVE VERSION 1995年6月12日渋谷公会堂**
       - 作詞・作曲：TAKURO / 編曲:GLAY、佐久間正英
     <!-- end list -->

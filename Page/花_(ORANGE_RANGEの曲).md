@@ -9,7 +9,7 @@
   - 2004年（平成16年）オリコン年間シングル売り上げランキング4位。累計売り上げ枚数では上位3組を抜いている。2005年（平成17年）オリコン年間シングル売り上げランキング21位。
   - ORANGE RANGEのシングルとしては初の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")（プラネットの集計及び出荷枚数\[1\]）となり、シングル売上では最大のヒット曲となった。しかし、オリコン集計での売り上げ枚数は99.9万枚でわずかにミリオンに届いていない。
   - 初出場を果たした『[第55回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦 "wikilink")』では同曲ではなく「[ロコローション](../Page/ロコローション.md "wikilink")」が選曲された。
-  - NAOTOのクレジット欄は｢synthesizer,other instrumental,guitar｣だった。
+  - NAOTOのクレジット欄は「synthesizer,other instrumental,guitar」だった。
   - この作品から[レーベルゲートCDではなくなった](../Page/コピーコントロールCD.md "wikilink")。
   - 第4回[MTV Video Music Awards Japan](../Page/MTV_Video_Music_Awards_Japan.md "wikilink") 2005 Best Video of the Yearを受賞した。
 
@@ -40,14 +40,15 @@
 
   - 映画「[いま、会いにゆきます](../Page/いま、会いにゆきます.md "wikilink")」主題歌 (M-1)
   - [au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink") CMソング (M-1)
+  - 「[ReLIFE](https://ja.wikipedia.org/wiki/ReLIFE "wikilink") 完結編」14話ED
 
 ## カバー
 
-  - [大山百合香](../Page/大山百合香.md "wikilink") 『COVERS FOR LOVERS ～Yurika Sings J Love Songs～』1曲目収録（2008年4月23日）
+  - [大山百合香](../Page/大山百合香.md "wikilink") 『COVERS FOR LOVERS 〜Yurika Sings J Love Songs〜』1曲目収録（2008年4月23日）
   - [SISTER KAYA](https://ja.wikipedia.org/wiki/SISTER_KAYA "wikilink") 『たからものベスト』9曲目収録（2008年9月24日）
   - [DJ SASA with THE ISLANDERS](https://ja.wikipedia.org/wiki/DJ_SASA_with_THE_ISLANDERS "wikilink") 『ラブソンちゅ』1曲目収録（2012年2月8日）
   - [BRIGHT](https://ja.wikipedia.org/wiki/BRIGHT_\(ダンスボーカルグループ\) "wikilink") 『BRIGHT』12曲目収録（2012年3月21日）
-  - [Charlie](https://ja.wikipedia.org/wiki/Charlie "wikilink") 『Sweet 10 Covers\~music for lovers\~』1曲目収録（2012年11月21日） ※英語詞カバー
+  - [Charlie](https://ja.wikipedia.org/wiki/Charlie "wikilink") 『Sweet 10 Covers 〜music for lovers〜』1曲目収録（2012年11月21日） ※英語詞カバー
   - [Mye](https://ja.wikipedia.org/wiki/Mye "wikilink") 『US』6曲目収録（2013年6月12日） ※英語詞カバー
   - [BENI](https://ja.wikipedia.org/wiki/BENI "wikilink") 『COVERS:3』4曲目収録（2013年12月18日）
   - [GENERATIONS from EXILE TRIBE](https://ja.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink") 『[Always with you](https://ja.wikipedia.org/wiki/Always_with_you "wikilink")』2曲目収録（2014年9月3日）

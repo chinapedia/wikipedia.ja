@@ -130,7 +130,7 @@ CPUは全機種共通で、[6502](https://ja.wikipedia.org/wiki/6502 "wikilink")
 
   - 専用カセットレコーダーは何機種か存在した。標準の[オーディオカセットに](../Page/コンパクトカセット.md "wikilink")600ビット毎秒でプログラムなどを記録できる。専用カセットレコーダーとの接続はデジタル信号を通すインターフェスで行うため独自の専用品以外の普通のカセットデッキは使えなかった。
   - 5.25インチ[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")ドライブも複数機種存在した。単密度や倍密度のものがある。
-  - 各種[プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")。[ドットマトリクス](https://ja.wikipedia.org/wiki/ドットマトリクス "wikilink")式、4色[プロッター](https://ja.wikipedia.org/wiki/プロッター "wikilink")、デイジーホイール式などがある。
+  - 各種[プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")。[ドットマトリクス](https://ja.wikipedia.org/wiki/ドットマトリクス "wikilink")式、4色[プロッター](https://ja.wikipedia.org/wiki/プロッター "wikilink")、[デイジーホイール式などがある](../Page/デイジーホイールプリンター.md "wikilink")。
   - [音響カプラ](../Page/音響カプラ.md "wikilink")や[モデム](https://ja.wikipedia.org/wiki/モデム "wikilink")。
   - [セントロニクス](https://ja.wikipedia.org/wiki/セントロニクス "wikilink")/[RS-232](../Page/RS-232.md "wikilink") 拡張システム、テンキー、メモリモジュール、タブレット、80桁表示モジュールなどもある。
 

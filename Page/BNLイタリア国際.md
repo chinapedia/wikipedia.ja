@@ -2151,7 +2151,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/詹詠然" title="wikilink">詹詠然</a></strong><br />
+<td><p><strong><a href="../Page/詹詠然.md" title="wikilink">詹詠然</a></strong><br />
  <strong><a href="../Page/荘佳容.md" title="wikilink">荘佳容</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イベタ・ベネソバ" title="wikilink">イベタ・ベネソバ</a><br />
  <a href="../Page/ヤネッテ・フサロバ.md" title="wikilink">ヤネッテ・フサロバ</a></p></td>
@@ -2224,7 +2224,7 @@
 <tr class="odd">
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a></p></td>
 <td><p><strong><a href="../Page/マルチナ・ヒンギス.md" title="wikilink">マルチナ・ヒンギス</a></strong><br />
- <strong><a href="https://ja.wikipedia.org/wiki/詹詠然" title="wikilink">詹詠然</a></strong></p></td>
+ <strong><a href="../Page/詹詠然.md" title="wikilink">詹詠然</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エカテリーナ・マカロワ" title="wikilink">エカテリーナ・マカロワ</a><br />
  <a href="https://ja.wikipedia.org/wiki/エレーナ・ベスニナ" title="wikilink">エレーナ・ベスニナ</a></p></td>
 <td><p>7-5, 7-6(4)</p></td>

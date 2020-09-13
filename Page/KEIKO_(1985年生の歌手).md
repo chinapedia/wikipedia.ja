@@ -1,0 +1,106 @@
+> この記事は[KEIKO \(1985年生の歌手\)](https://ja.wikipedia.org/wiki/KEIKO_\(1985年生の歌手\))から翻訳されています。
+
+
+**KEIKO**（けいこ、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[12月5日](../Page/12月5日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性歌手](../Page/歌手.md "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。[トライストーン・エンタテイメント](../Page/トライストーン・エンタテイメント.md "wikilink")所属。レーベルは[avex traxである](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+
+愛称は、けぇちゃん、けこさま、マッチョ先輩など。[Kalafina](https://ja.wikipedia.org/wiki/Kalafina "wikilink")の元メンバーである。
+
+## 略歴
+
+  - [2005年](../Page/2005年.md "wikilink")、[NHKBS2アニメーション](../Page/NHK衛星第2テレビジョン.md "wikilink")『[ツバサ・クロニクル](../Page/ツバサ-RESERVoir_CHRoNiCLE-.md "wikilink")』のオリジナルサウンドトラック『Future Soundscape II』に[梶浦由記](https://ja.wikipedia.org/wiki/梶浦由記 "wikilink")の[ソロプロジェクトである](../Page/一人バンド.md "wikilink")[FictionJunction](../Page/FictionJunction.md "wikilink") の一員KEIKOとして参加（「\#9「風の街へ」） 。
+  - [2005年](../Page/2005年.md "wikilink")12月21日、[伊藤彩華と](../Page/マリア_\(日本の歌手\).md "wikilink")「[イトクボ](https://ja.wikipedia.org/wiki/イトクボ "wikilink")」を結成し、[池袋](../Page/池袋.md "wikilink")の[LIVE INN ROSAで初ライブ](https://ja.wikipedia.org/wiki/ロサ会館 "wikilink")。
+  - [2006年](../Page/2006年.md "wikilink")2月、ミス・エアギタージャパン・コンテストで審査員特別賞を受賞。
+  - [2007年](../Page/2007年.md "wikilink")、梶浦由記プロデュースによる劇場版『[空の境界](../Page/空の境界.md "wikilink")』主題歌プロジェクトである[Kalafina](https://ja.wikipedia.org/wiki/Kalafina "wikilink")のメンバーに抜擢され、翌年1月に[SME Recordsからメジャーデビューした](https://ja.wikipedia.org/wiki/SME_Records "wikilink")。
+  - [2015年](../Page/2015年.md "wikilink")2月28日・3月1日、Kalafina初の[日本武道館](../Page/日本武道館.md "wikilink")公演（2days）を開催。また、同年にリリースされたアルバム『[far on the water](https://ja.wikipedia.org/wiki/far_on_the_water "wikilink")』 はオリコン週間ランキング2位を記録した。
+  - [2018年](../Page/2018年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")、契約満了によりスペースクラフトプロデュースを退社\[1\]。なお、Kalafinaの解散は翌2019年3月に発表された。
+  - [2019年](../Page/2019年.md "wikilink")4月、約1年間の活動休止期間を経てフリーランスで音楽活動を再開。梶浦由記のソロプロジェクトであるFictionJunctionのライブツアーにてKEIKO名義でステージ復帰を果たした。
+  - [2020年](../Page/2020年.md "wikilink")4月、[トライストーン・エンタテイメント](../Page/トライストーン・エンタテイメント.md "wikilink")所属となり、5月にはKEIKO名義で[avex traxからデビュー](https://ja.wikipedia.org/wiki/avex_trax "wikilink")、秋にアルバムを発売することを発表した。
+
+## 人物
+
+[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長155cm。趣味はショッピング、特技は歌、ダンス。酒はほとんど飲まず、揚げ物もほとんど食べない。アイスクリームをよく買い、チョコミントが好き。
+
+## 作品
+
+  - 命の花
+  - Be yourself
+
+## 参加作品
+
+### イトクボ
+
+  - ゲームサウンドトラック『[ビューティフル塊魂](../Page/ビューティフル塊魂.md "wikilink"): 塊ステキ魂』（2007年11月21日）
+      - Into The Sky
+
+### FictionJunction
+
+  - NHKアニメーション『[ツバサ・クロニクル](../Page/ツバサ-RESERVoir_CHRoNiCLE-.md "wikilink")』オリジナルサウンドトラック『Future Soundscape II』（2005年9月22日）
+      - 風の街へ
+  - Revo & 梶浦由記 コラボレーションシングル「[Dream Port](../Page/Dream_Port.md "wikilink")」（2008年6月18日）
+      - 砂塵の彼方へ…
+  - アルバム『[Everlasting Songs](https://ja.wikipedia.org/wiki/Everlasting_Songs "wikilink")』（2009年2月25日）
+      - 星屑
+      - 銀の橋
+      - 風の街へ
+      - synchronicity
+      - 宝石
+  - シングル「[Parallel Hearts](https://ja.wikipedia.org/wiki/Parallel_Hearts "wikilink")」（2009年4月29日）
+      - Parallel Hearts
+  - 『[PandoraHearts](../Page/PandoraHearts.md "wikilink") オリジナルサウンドトラック1 』（2009年7月8日）
+      - Parallel Hearts（TVサイズ）
+  - シングル「[時の向こう 幻の空](https://ja.wikipedia.org/wiki/時の向こう_幻の空 "wikilink")」（2010年1月27日）
+      - 時の向こう 幻の空
+      - 野原
+  - 『[おおかみかくし](https://ja.wikipedia.org/wiki/おおかみかくし "wikilink") オリジナルサウンドトラック』 （2010年3月24日）
+      - 時の向こう 幻の空（TVサイズ）
+  - ライブアルバム『FictionJunction 2008-2010 The BEST of Yuki Kajiura LIVE』（2010年5月12日）
+  - オムニバスアルバム『勇者シリーズ20周年記念 HARVEST』（2011年2月23日）
+      - Gatherway
+  - シングル「[stone cold](https://ja.wikipedia.org/wiki/stone_cold "wikilink")」（2011年8月3日）
+      - stone cold
+      - ひとりごと
+  - 『セイクリッドセブン オリジナルサウンドトラック』（2011年10月5日）
+      - stone cold（TVサイズ）
+  - 『[戦律のストラタス](https://ja.wikipedia.org/wiki/戦律のストラタス "wikilink") オリジナルサウンドトラック』（2011年10月27日）
+      - eternal blue（ゲームサイズ）
+  - ファンクラブ限定発売シングル「sing a song」（2012年3月16日）
+      - sing a song
+      - silent moon
+  - シングル「distance」（2012年8月29日発売）
+      - distance
+      - eternal blue
+
+<!-- end list -->
+
+  - 映像作品
+
+<!-- end list -->
+
+  - Yuki Kajiura LIVE 2008.07.31（2008年12月24日）
+  - FictionJunction『FictionJunction～Yuki Kajiura LIVE vol.\#4PART2～』（2009年12月23日）
+  - FictionJunction 『Animelo Summer Live 2009 RE:BRIDGE 8.23』（2010年2月24日）
+  - [stone cold](https://ja.wikipedia.org/wiki/stone_cold "wikilink")（2011年6月29日、YouTube）
+
+## 出演
+
+### ラジオ
+
+  - [ピートム.Comic Jack](https://ja.wikipedia.org/wiki/ピートム.Comic_Jack "wikilink") ([ABCラジオ](https://ja.wikipedia.org/wiki/ABCラジオ "wikilink")、2006年5月11日、18日ゲスト出演)
+  - イトクボ祭り（[スターデジオ](../Page/スターデジオ.md "wikilink")）
+  - イトクボのParty Road（[fm osaka](../Page/エフエム大阪.md "wikilink")、2006年10月～2007年6月）
+  - [FMサウンドシネマ](https://ja.wikipedia.org/wiki/FMサウンドシネマ "wikilink")（fm osaka、2007年7月～12月）
+
+### 映画
+
+  - 『[Star Light](https://ja.wikipedia.org/wiki/Star_Light_\(映画\) "wikilink")』(2001年)
+
+## 出典
+
+## 外部リンク
+
+  -
+  -
+  -
+[Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:FictionJunction](https://ja.wikipedia.org/wiki/Category:FictionJunction "wikilink") [Category:Kalafina](https://ja.wikipedia.org/wiki/Category:Kalafina "wikilink") [Category:トライストーン・エンタテイメント](https://ja.wikipedia.org/wiki/Category:トライストーン・エンタテイメント "wikilink") [Category:過去のスペースクラフト所属者](https://ja.wikipedia.org/wiki/Category:過去のスペースクラフト所属者 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1985年生](https://ja.wikipedia.org/wiki/Category:1985年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+
+1.

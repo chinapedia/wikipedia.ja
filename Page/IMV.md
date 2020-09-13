@@ -17,6 +17,6 @@
 
 ## 外部リンク
 
-  - [IMV](http://www.imv.co.jp/)
+  - [IMV](https://www.imv.co.jp/)
 
 [Category:日本の計測機器メーカー](https://ja.wikipedia.org/wiki/Category:日本の計測機器メーカー "wikilink") [Category:ジャスダック上場企業](https://ja.wikipedia.org/wiki/Category:ジャスダック上場企業 "wikilink") [Category:2005年上場の企業](https://ja.wikipedia.org/wiki/Category:2005年上場の企業 "wikilink") [Category:西淀川区の企業](https://ja.wikipedia.org/wiki/Category:西淀川区の企業 "wikilink") [Category:1957年設立の企業](https://ja.wikipedia.org/wiki/Category:1957年設立の企業 "wikilink")

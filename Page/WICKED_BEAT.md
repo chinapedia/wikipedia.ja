@@ -1,11 +1,11 @@
 > この記事は[WICKED BEAT](https://ja.wikipedia.org/wiki/WICKED_BEAT)から翻訳されています。
 
 
-『**WICKED BEAT**』(ウィキッド・ビート)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")、[B'z](../Page/B'z.md "wikilink")の2作目のミニ・アルバム。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")に[BMGビクターからリリースされた](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")(後にBMGルームス（現:[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink"))の設立に伴い、発売権がBMGルームスに移行)。
+『**WICKED BEAT**』(ウィキッド・ビート)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")、[B'z](../Page/B'z.md "wikilink")の2作目のミニ・アルバム。1990年6月21日に[BMGビクターからリリースされた](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")(後にBMGルームス（現:[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink"))の設立に伴い、発売権がBMGルームスに移行)。
 
 ## 内容
 
-ジャケットの写真は両面ともモノクロで、表が、ボーカルの[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")の顔のアップ写真、裏がギターの[松本孝弘](../Page/松本孝弘.md "wikilink")のアップ写真となっている\[1\]。なお、松本の写真は4thシングル『[BE THERE](../Page/BE_THERE.md "wikilink")』から流用している。
+ジャケットの写真は両面ともモノクロで、表が、ボーカルの[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")の顔のアップ写真、裏がギターの[松本孝弘](../Page/松本孝弘.md "wikilink")のアップ写真となっている\[1\]。
 
 本作では新曲がなく、過去に発表した曲の全英詞によるアレンジバージョンが収録されており、収録曲は曲間を無くして繋がっているようにしている\[2\]\[3\]。
 
@@ -17,7 +17,6 @@
 
 1.  **I Wanna Dance Wicked Beat Style** (4:36)
       -
-        抒情的なギター演奏によるイントロの後、唐突に曲が始まる。
         2ndシングル「[君の中で踊りたい](../Page/君の中で踊りたい.md "wikilink")」の全英詞アレンジ違い。
         本作収録曲の中では最も大幅に[アレンジが加えられ](../Page/編曲.md "wikilink")、サンプリングやスクラッチを多用した[サイケデリック](../Page/サイケデリック・ロック.md "wikilink")[ポップ](../Page/ポップ・ミュージック.md "wikilink")[ダンス](https://ja.wikipedia.org/wiki/ダンス・ミュージック "wikilink")[ビート](../Page/ビート_\(音楽\).md "wikilink")[ナンバーに生まれ変わっている](https://ja.wikipedia.org/wiki/楽曲 "wikilink")。
         ちなみに間奏内に出てくる英語は、「BAD COMMUNICATION」の冒頭のセリフをそのまま使用している。

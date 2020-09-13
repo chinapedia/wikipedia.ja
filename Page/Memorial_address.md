@@ -11,50 +11,59 @@
 
 29thシングル「[&](../Page/&_\(シングル\).md "wikilink")」のカップリングである「theme of a-nation '03」は収録されていない。
 
+## 売上記録
+
+## 批評
+
+CDジャーナルは、「浜崎あゆみ初のミニ・アルバム。(3)(6)のように叫びにも似た悲痛なヴォーカルとHΛLのデジタルなアレンジが重なることによる刹那感は相変わらず極上。でも一番興味深いのは(8)の生演奏と絡む柔らかい歌声。これがボーナスなのは、今後の新指針の予告なのかも?」と批評した\[1\]。
+
 ## 収録曲
 
 ### DISC1 (CD)
 
-  - 全8曲収録
-  - 全曲[作詞](../Page/作詞.md "wikilink")：ayumi hamasaki
+1.  **ANGEL'S SONG** (4:57)
+      -
+        composition：[Tetsuya Yukumi](../Page/湯汲哲也.md "wikilink") / arrangement：[HΛL (Toshiharu Umesaki, Takehito Shimizu, Yuta Nakano)](../Page/HΛL.md "wikilink")
+        [Panasonic](https://ja.wikipedia.org/wiki/パナソニック "wikilink") 「[D-snap](../Page/D-snap.md "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")
+2.  **[Greatful days](../Page/&_\(シングル\).md "wikilink")** (4:39)
+      -
+        composition：[BOUNCEBACK](../Page/BOUNCEBACK.md "wikilink") / arrangement：HΛL
+        29thシングル『[&](../Page/&_\(シングル\).md "wikilink")』収録曲
+3.  **Because of You** (5:21)
+      -
+        composition：BOUNCEBACK / arrangement：HΛL
+        Panasonic デジタルカメラ「[LUMIX](../Page/LUMIX.md "wikilink")」CMソング
+4.  **[ourselves](../Page/&_\(シングル\).md "wikilink")** (4:33)
+      -
+        composition：BOUNCEBACK / arrangement：[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")
+        29thシングル『&』収録曲
+5.  **[HANABI 〜episode II〜](../Page/&_\(シングル\).md "wikilink")** (4:55)
+      -
+        composition：[CREA](../Page/浜崎あゆみ.md "wikilink") + [D・A・I](../Page/長尾大.md "wikilink") / arrangement：[tasuku](https://ja.wikipedia.org/wiki/tasuku "wikilink")
+        29thシングル「&」収録曲
+6.  **[No way to say](../Page/No_way_to_say.md "wikilink")** (4:45)
+      -
+        composition：BOUNCEBACK / arrangement：HΛL
+        31stシングル
+7.  **[forgiveness](https://ja.wikipedia.org/wiki/forgiveness "wikilink")** (5:53)
+      -
+        composition：CREA + D・A・I / arrangement：CMJK
+        30thシングル
 
 <!-- end list -->
 
-1.  **ANGEL'S SONG**
+  - [Bonus Track](https://ja.wikipedia.org/wiki/ボーナストラック "wikilink")
+
+<!-- end list -->
+
+1.
+
+    <li value="8">
+
+    **Memorial address (take 2 version)** (3:57)
+
       -
-        [作曲](../Page/作曲.md "wikilink")：[Tetsuya Yukumi](../Page/湯汲哲也.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL (Toshiharu Umesaki, Takehito Shimizu, Yuta Nakano)](../Page/HΛL.md "wikilink")
-        [Panasonic](https://ja.wikipedia.org/wiki/パナソニック "wikilink") 「[D-snap](../Page/D-snap.md "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")
-2.  **[Greatful days](../Page/&_\(シングル\).md "wikilink")**
-      -
-        作曲：[BOUNCEBACK](../Page/BOUNCEBACK.md "wikilink") / 編曲：HΛL
-        29thシングル「[&](../Page/&_\(シングル\).md "wikilink")」収録曲
-        フジテレビジョン系音楽バラエティー『[ayu ready?](https://ja.wikipedia.org/wiki/ayu_ready? "wikilink")』[テーマソング](../Page/主題歌.md "wikilink")
-3.  **Because of You**
-      -
-        作曲：BOUNCEBACK / 編曲：HΛL
-        Panasonic デジタルカメラ「[LUMIX](../Page/LUMIX.md "wikilink")」CMソング
-4.  **[ourselves](../Page/&_\(シングル\).md "wikilink")**
-      -
-        作曲：BOUNCEBACK / 編曲：[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")
-        29thシングル「&」収録曲
-        [KOSE](../Page/コーセー.md "wikilink") MODE UP 'VISEE' TV-CFソング
-5.  **[HANABI 〜episode II〜](../Page/&_\(シングル\).md "wikilink")**
-      -
-        作曲：[CREA](../Page/浜崎あゆみ.md "wikilink") + [D・A・I](../Page/長尾大.md "wikilink") / 編曲：[tasuku](https://ja.wikipedia.org/wiki/tasuku "wikilink")
-        29thシングル「&」収録曲
-6.  **[No way to say](../Page/No_way_to_say.md "wikilink")**
-      -
-        作曲：BOUNCEBACK / 編曲：HΛL
-        31stシングル
-        Panasonic 「ドッキンスタイルMD」CMソング
-7.  **[forgiveness](https://ja.wikipedia.org/wiki/forgiveness "wikilink")**
-      -
-        作曲：CREA + D・A・I / 編曲：CMJK
-        30thシングル
-        [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[高原へいらっしゃい](https://ja.wikipedia.org/wiki/高原へいらっしゃい#2003年版 "wikilink")』[主題歌](../Page/主題歌.md "wikilink")
-8.  **Memorial address (take 2 version)** ※[Bonus Track](https://ja.wikipedia.org/wiki/ボーナストラック "wikilink")
-      -
-        作曲：Tetsuya Yukumi for LOVER SOUND TRACK / 編曲：[tasuku](https://ja.wikipedia.org/wiki/tasuku "wikilink")
+        composition：Tetsuya Yukumi for LOVER SOUND TRACK / arrangement：tasuku
         スタジオライブ形式でのレコーディングがなされている。ライナーノーツに歌詞は記載されていない。
 
 ### DISC2 (DVD)
@@ -81,3 +90,5 @@
   - [DISCOGRAPHY –ayumi hamasaki](http://avex.jp/ayu/discography/detail.php?id=1003371)
 
 [Category:浜崎あゆみのミニ・アルバム](https://ja.wikipedia.org/wiki/Category:浜崎あゆみのミニ・アルバム "wikilink") [Category:2003年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:2003年のミニ・アルバム "wikilink") [Category:2003年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2003年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:松浦勝人がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:松浦勝人がプロデュースしたアルバム "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
+
+1.

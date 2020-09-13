@@ -129,7 +129,7 @@ NNN系列の朝の全国ニュース番組であった『[NNN朝のニュース]
 <td><p><a href="../Page/鳥取県.md" title="wikilink">鳥取県</a><br />
 <a href="../Page/島根県.md" title="wikilink">島根県</a></p></td>
 <td><p><a href="../Page/日本海テレビジョン放送.md" title="wikilink">日本海テレビ</a></p></td>
-<td><p>NNN/ANN</p></td>
+<td><p>NNN</p></td>
 <td></td>
 </tr>
 <tr class="odd">

@@ -1,11 +1,11 @@
 > この記事は[Unreal](https://ja.wikipedia.org/wiki/Unreal)から翻訳されています。
 
 
-『**Unreal**』（アンリアル）はFPS（[ファーストパーソン・シューティング](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")）タイプのパソコン用[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")。[Epic Gamesが開発し](../Page/Epic_Games.md "wikilink")、GT Interactiveから1998年5月に発売された。
+『**Unreal**』（アンリアル）はFPS（[ファーストパーソン・シューティング](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")）タイプのパソコン用[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")。[Epic Gamesが開発し](../Page/Epic_Games.md "wikilink")、GT Interactiveから1998年5月に発売された\[1\]\[2\]。
 
 ## 概要
 
-同タイプのゲームとしてid Softwareの[Quake](../Page/Quake.md "wikilink")シリーズが先行していたが、より洗練されたストーリー、演出、ビジュアル、音楽が評価され、Quakeシリーズおよび同年Valve Softwareから発売される[ハーフライフシリーズと三巨頭をなすゲームとなった](../Page/ハーフライフ_\(ゲーム\).md "wikilink")。
+同タイプのゲームとしてid Softwareの[Quake](../Page/Quake.md "wikilink")シリーズが先行していたが、より洗練されたストーリー、演出、ビジュアル、音楽が評価され、Quakeシリーズおよび同年Valve Softwareから発売される[ハーフライフシリーズと三巨頭をなすゲームとなった](../Page/ハーフライフ_\(ゲーム\).md "wikilink")。 また、本作で使用されていた[ゲームエンジン](../Page/ゲームエンジン.md "wikilink")・[Unreal Engineはその後改良を重ねながら様々なゲームソフトに使われており](../Page/Unreal_Engine.md "wikilink")、4Gamer.netの奥谷海人はEpic Gamesがゲームエンジンビジネスに傾倒したきっかけとして本作を挙げている。
 
   -
     ソフトウェアレンダリング（[Direct3D](../Page/Direct3D.md "wikilink")）も標準サポートしており、Voodoo非搭載PCでもプレイは可能ではあった。しかし描画速度は著しく遅かった。
@@ -43,4 +43,9 @@
 
 現在ソフト単品での入手は困難になっているが、2008年度からSteamでのDL販売に対応したため、こちらを購入する方法がある。『Unreal Gold』、『Unreal II』、『Unreal Tournament』、『Unreal Tournament 2004』、『Unreal Tournament3』の5本組パックも存在。
 
+## 出典
+
 [Category:1998年のパソコンゲーム](https://ja.wikipedia.org/wiki/Category:1998年のパソコンゲーム "wikilink") [Category:ファーストパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/Category:ファーストパーソン・シューティングゲーム "wikilink") [Category:Linux用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Linux用ゲームソフト "wikilink") [Category:Macintosh用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Macintosh用ゲームソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink")
+
+1.
+2.

@@ -17,7 +17,7 @@ P230は、[警察](../Page/警察.md "wikilink")用[拳銃](../Page/拳銃.md "w
     [日本の警察](../Page/日本の警察.md "wikilink")が正式採用している。**[.380ACP弾](../Page/.380ACP弾.md "wikilink")**ではなく、**[.32ACP弾](../Page/.32ACP弾.md "wikilink")**仕様であり、装弾数は8+1発。
     [引き金と遊底](https://ja.wikipedia.org/wiki/トリガー_\(銃\) "wikilink")(スライド)をロックするマニュアル[セーフティーや](../Page/安全装置.md "wikilink")、紛失盗難防止用のランヤードを装着するためのランヤードリングが追加されている。このマニュアルセーフティーは撃鉄が下りた状態(ハーフコックを含む)でのみ作動し、再び手動でセーフティーを戻す以外に、撃鉄を起こすことによっても解除される。
     [自衛隊](../Page/自衛隊.md "wikilink")の[9mm拳銃](../Page/9mm拳銃.md "wikilink")のような[ライセンス生産](../Page/ライセンス生産.md "wikilink")ではなく、[SIG社が製造し](../Page/シグ.md "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に輸出している。
-    基本は[SP](../Page/セキュリティポリス.md "wikilink")、[皇宮警察](https://ja.wikipedia.org/wiki/皇宮警察 "wikilink")（侍衛官）、[機動捜査隊](../Page/機動捜査隊.md "wikilink")、[銃器対策部隊](../Page/銃器対策部隊.md "wikilink")に支給（貸与）されているようだが、[制服警官や私服警官の一部にも支給されている](../Page/日本の警察官.md "wikilink")\[2\]。公式発表における[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")での採用年度は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")頃とされている。
+    基本は[SP](../Page/セキュリティポリス.md "wikilink")、[皇宮警察](https://ja.wikipedia.org/wiki/皇宮警察 "wikilink")、[機動捜査隊](../Page/機動捜査隊.md "wikilink")、[銃器対策部隊](../Page/銃器対策部隊.md "wikilink")に支給（貸与）されているようだが、[制服警官や私服警官の一部にも支給されている](../Page/日本の警察官.md "wikilink")\[2\]。公式発表における[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")での採用年度は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")頃とされている。
   - P232
     [1996年](../Page/1996年.md "wikilink")に更新された最新モデル。
     リアサイトの形状が変更され、スライドのセレーションの目が粗くなり、グリップも変更された。また、[撃針](https://ja.wikipedia.org/wiki/撃針 "wikilink")にオートセーフティーを備えている。P232にも[ステンレス製のSLが存在する](../Page/ステンレス鋼.md "wikilink")。

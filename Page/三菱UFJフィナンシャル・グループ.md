@@ -58,8 +58,7 @@
       - 三菱UFJ証券ホールディングス（MUSHD。初代三菱UFJ証券を[中間持株会社](https://ja.wikipedia.org/wiki/中間持株会社 "wikilink")化したもの）
           - [三菱UFJモルガン・スタンレー証券](https://ja.wikipedia.org/wiki/三菱UFJモルガン・スタンレー証券 "wikilink")（MUMSS。リテールをメインとする、MUSHDと[モルガン・スタンレー](../Page/モルガン・スタンレー.md "wikilink")の合弁会社。初代三菱UFJ証券（現・三菱UFJ証券HD）の受け皿だった、2代目三菱UFJ証券より改称）
           - [モルガン・スタンレーMUFG証券](https://ja.wikipedia.org/wiki/モルガン・スタンレーMUFG証券 "wikilink")（MSMS。ホールセール専業証券である、MUFGとモルガン・スタンレーの合弁会社）
-          - [三菱UFJモルガン・スタンレーPB証券](../Page/三菱UFJモルガン・スタンレーPB証券.md "wikilink")（[プライベート・バンキング](../Page/プライベート・バンキング.md "wikilink")業務主体の証券会社。旧[山一證券](https://ja.wikipedia.org/wiki/山一證券 "wikilink")→[メリルリンチ日本証券](../Page/メリルリンチ日本証券.md "wikilink")（リテール部門）の流れを汲む）
-          - auカブコム証券（ネット専業証券。MUSHDの子会社であり、BTMUも第2位株主。かつてはBTMUが4割超を保有する筆頭株主、MUSHDが1割程度を保有する第2位株主であったが2015年4月に資本異動が行われた\[6\]。東証一部）
+          - auカブコム証券（ネット専業証券。MUSHDの子会社であり、BTMUも第2位株主。かつてはBTMUが4割超を保有する筆頭株主、MUSHDが1割程度を保有する第2位株主であったが2015年4月に資本異動が行われた\[6\]。）
       - [モルガン・スタンレー](../Page/モルガン・スタンレー.md "wikilink")（ニューヨーク証券取引所に上場する米国金融大手\[7\]\[8\]。2011年7月以降、持分法適用会社となっている\[9\]。）
   - [リース](../Page/リース.md "wikilink")
       - [三菱UFJリース](../Page/三菱UFJリース.md "wikilink")（三菱UFJフィナンシャル・グループの[持分法](../Page/持分法.md "wikilink")適用関連会社、東証・名証各一部）

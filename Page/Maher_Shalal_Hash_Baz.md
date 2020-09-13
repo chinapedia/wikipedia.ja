@@ -111,4 +111,4 @@ NOISE
   - [Dominoレコード内のアーティストページ](http://www.dominorecordco.com/artists/maher-shalal-hash-baz/)
 
   -
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:7人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:7人組の音楽グループ "wikilink") [Category:実験音楽のバンド](https://ja.wikipedia.org/wiki/Category:実験音楽のバンド "wikilink")

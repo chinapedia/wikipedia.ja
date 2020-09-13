@@ -1,7 +1,7 @@
 > この記事は[Ping](https://ja.wikipedia.org/wiki/Ping)から翻訳されています。
 
 
-****（ピン）は[IPネットワークにおいて](../Page/Internet_Protocol.md "wikilink")、[ノードの到達性を確認するための](https://ja.wikipedia.org/wiki/ノード_\(ネットワーク\) "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")である。IPネットワークにおける基本的なツールの一つであり、組み込み[ネットワーク管理](../Page/ネットワーク管理.md "wikilink")ソフトウェアを含む、ネットワーク機能が実装されている[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")のほとんどにおいて、何らかの形で用意されている。
+****（ピンまたはピング）は[IPネットワークにおいて](../Page/Internet_Protocol.md "wikilink")、[ノードの到達性を確認するための](https://ja.wikipedia.org/wiki/ノード_\(ネットワーク\) "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")である。IPネットワークにおける基本的なツールの一つであり、組み込み[ネットワーク管理](../Page/ネットワーク管理.md "wikilink")ソフトウェアを含む、ネットワーク機能が実装されている[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")のほとんどにおいて、何らかの形で用意されている。
 
 pingは、発信元のホストから宛先のコンピュータにメッセージを送信し、宛先がそれに対して返した応答が戻って来るまでの[ラウンドトリップタイム](https://ja.wikipedia.org/wiki/ラウンドトリップタイム "wikilink")（RTT、往復時間）を測定する。この名前は、音波の[パルスを送信して反射音を聴取することで水中の物体を検出する](https://ja.wikipedia.org/wiki/パルス波 "wikilink")[アクティブソナーの用語に由来している](https://ja.wikipedia.org/wiki/ソナー#アクティブソナー "wikilink")\[1\]。
 

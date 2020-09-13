@@ -1,7 +1,7 @@
 > この記事は[京王フローラルガーデンANGE](https://ja.wikipedia.org/wiki/京王フローラルガーデンANGE)から翻訳されています。
 
 
-[450px](https://ja.wikipedia.org/wiki/ファイル:KEIO-Ange.jpg "wikilink") **京王フローラルガーデンANGE**（けいおうフローラルガーデンアンジェ）は、[東京都](../Page/東京都.md "wikilink")[調布市](../Page/調布市.md "wikilink")多摩川にある[京王グループ](../Page/京王グループ.md "wikilink")の[植物園](../Page/植物園.md "wikilink")である。名称の「ANGE」は*Amenity Natural Garden of Europe*から。[京王電鉄](../Page/京王電鉄.md "wikilink")沿線で[生花店](../Page/花屋.md "wikilink")「フラワーショップ京王」を経営する[京王グリーンサービス](../Page/京王グリーンサービス.md "wikilink")が管理運営を行う。ここでは本園の前身である**京王百花苑**（けいおうひゃっかえん）についても記す。
+[450px](https://ja.wikipedia.org/wiki/ファイル:KEIO-Ange.jpg "wikilink") **京王フローラルガーデンANGE**（けいおうフローラルガーデンアンジェ）は、[東京都](../Page/東京都.md "wikilink")[調布市](../Page/調布市.md "wikilink")多摩川にある[京王グループ](../Page/京王グループ.md "wikilink")の[植物園](../Page/植物園.md "wikilink")である。名称の「中田方や生罠腹棚あわやかたやさたかなANGE」は*Amenity Natural Garden of Europe*から。[京王電鉄](../Page/京王電鉄.md "wikilink")沿線で[生花店](../Page/花屋.md "wikilink")「フラワーショップ京王」を経営する[京王グリーンサービス](../Page/京王グリーンサービス.md "wikilink")が管理運営を行う。ここでは本園の前身である**京王百花苑**（けいおうひゃっかえん）についても記す。
 
 ## 概要
 

@@ -52,7 +52,7 @@
   - 遠峯ありさ（とおみね ありさ）（現 [華原朋美](../Page/華原朋美.md "wikilink")）
   - [中野和美](https://ja.wikipedia.org/wiki/中野和美 "wikilink")（なかの かずみ）（ENDOLL）
   - [中野公美子](../Page/中野公美子.md "wikilink")（なかの くみこ）（大阪パフォーマンスドール）
-  - [古谷文乃](https://ja.wikipedia.org/wiki/Ayano "wikilink")（ふるたに あやの）（大阪パフォーマンスドール）
+  - [古谷文乃](../Page/古谷文乃.md "wikilink")（ふるたに あやの）（大阪パフォーマンスドール）
   - [宝生舞](https://ja.wikipedia.org/wiki/宝生舞 "wikilink")（ほうしょう まい）（1994年12月30日まで）
   - [堀江奈々](https://ja.wikipedia.org/wiki/堀江奈々 "wikilink")（ほりえ なな）
   - [堀川ミミ](https://ja.wikipedia.org/wiki/堀川ミミ "wikilink")（ほりかわ みみ）（ENDOLL）
@@ -124,7 +124,7 @@
   - タイトル：岩崎光明
   - スタイリスト：insi-De
   - 車輌：上田謙次
-  - AD：兼則英司、[戸渡和孝](https://ja.wikipedia.org/wiki/戸渡和孝 "wikilink")、[高木剛](https://ja.wikipedia.org/wiki/高木剛_\(ディレクター\) "wikilink")、遠藤陽子、的場淳司
+  - AD：兼則英司、[戸渡和孝](../Page/戸渡和孝.md "wikilink")、[高木剛](https://ja.wikipedia.org/wiki/高木剛_\(ディレクター\) "wikilink")、遠藤陽子、的場淳司
   - ディレクター：佐久間茂、[北村要](https://ja.wikipedia.org/wiki/北村要 "wikilink")、吉田一浩
   - プロデューサー：[大前一彦](https://ja.wikipedia.org/wiki/大前一彦 "wikilink")
   - 制作：[井上信悟](../Page/井上信悟.md "wikilink")

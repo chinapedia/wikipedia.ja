@@ -5,7 +5,7 @@
 
 ## 概要
 
-1983年に[44MAGNUM](../Page/44MAGNUM.md "wikilink")でデビュー。1988年に44MAGNUMを脱退しその後、[ダイヤモンド☆ユカイ](https://ja.wikipedia.org/wiki/ダイヤモンド☆ユカイ "wikilink")のツアーに参加。1994年に[ZIGGY](../Page/ZIGGY.md "wikilink")に参加。1995年に元Ｘの[ＴＡＩＪＩらと共にKINGSとしてアルバムは発表](../Page/沢田泰司.md "wikilink")。セッションドラマーとして多くのバンドに参加しており、[hide with Spread Beaverや](https://ja.wikipedia.org/wiki/hide "wikilink")[RIDER CHIPSの](../Page/RIDER_CHIPS.md "wikilink")[ドラマー](../Page/ドラマー.md "wikilink")も務めた。なお、hide with Spread Beaverとしての活動時には**JOE**として活動していた。 現在は、RIDER CHIPSのドラマー、復活した44MAGNUM、[Mad beavers](https://ja.wikipedia.org/wiki/Mad_beavers "wikilink")、[浜田麻里](../Page/浜田麻里.md "wikilink")のツアードラマーなどで活動中。
+1983年に[44MAGNUM](../Page/44MAGNUM.md "wikilink")でデビュー。1988年に44MAGNUMを脱退しその後、[ダイヤモンド☆ユカイ](https://ja.wikipedia.org/wiki/ダイヤモンド☆ユカイ "wikilink")のツアーに参加。1994年に[ZIGGY](../Page/ZIGGY.md "wikilink")に参加。1995年に元Ｘの[TAIJIらと共にKINGSとしてアルバムは発表](../Page/沢田泰司.md "wikilink")。セッションドラマーとして多くのバンドに参加しており、[hide with Spread Beaverや](https://ja.wikipedia.org/wiki/hide "wikilink")[RIDER CHIPSの](../Page/RIDER_CHIPS.md "wikilink")[ドラマー](../Page/ドラマー.md "wikilink")も務めた。なお、hide with Spread Beaverとしての活動時には**JOE**として活動していた。 現在は、RIDER CHIPSのドラマー、復活した44MAGNUM、[Mad beavers](https://ja.wikipedia.org/wiki/Mad_beavers "wikilink")、[浜田麻里](../Page/浜田麻里.md "wikilink")のツアードラマーなどで活動中。
 
 [D'ERLANGER](../Page/D'ERLANGER.md "wikilink")の[菊地哲](../Page/菊地哲.md "wikilink")は唯一の弟子である。
 
@@ -14,7 +14,7 @@
 | バンド                                                                                                                            | 活動期間                   |
 | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
 | [44MAGNUM](../Page/44MAGNUM.md "wikilink")                                                                                     | 1982 - 1988, 2002 - 現在 |
-| [中野英明](https://ja.wikipedia.org/wiki/中野英明 "wikilink")                                                                          | 1989                   |
+| [中間英明](../Page/中間英明.md "wikilink")                                                                                             | 1989                   |
 | [ZIGGY](../Page/ZIGGY.md "wikilink")/[SNAKE HIP SHAKES](https://ja.wikipedia.org/wiki/SNAKE_HIP_SHAKES "wikilink")             | 1994 - 2010            |
 | [Hide](../Page/Hide.md "wikilink")/[hide with spread beaver](https://ja.wikipedia.org/wiki/hide_with_spread_beaver "wikilink") | 1994 - 1998            |
 | [KINGS](https://ja.wikipedia.org/wiki/KINGS "wikilink")                                                                        | 1995                   |
@@ -32,6 +32,7 @@
   - [Ken](../Page/Ken.md "wikilink")（[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")）『[IN PHYSICAL](https://ja.wikipedia.org/wiki/IN_PHYSICAL "wikilink")』『[The Party](https://ja.wikipedia.org/wiki/The_Party_\(Kenのアルバム\) "wikilink")』
   - [大槻ケンヂ](https://ja.wikipedia.org/wiki/大槻ケンヂ "wikilink")と[橘高文彦](../Page/橘高文彦.md "wikilink")『[踊る赤ちゃん人間](https://ja.wikipedia.org/wiki/踊る赤ちゃん人間 "wikilink")』
   - [SADS](../Page/SADS.md "wikilink") 『[GREATEST HITS 〜BEST OF 5 YEARS〜](https://ja.wikipedia.org/wiki/GREATEST_HITS_〜BEST_OF_5_YEARS〜 "wikilink")』収録 M-15「HAPPY (NEW TAKE)」
+  - [FEST VAINQUEUR](https://ja.wikipedia.org/wiki/FEST_VAINQUEUR "wikilink") 『ターゲット』
 
 ## 関連項目
 
@@ -44,10 +45,11 @@
   - [machine](https://ja.wikipedia.org/wiki/machine "wikilink")
   - [RIDER CHIPS](../Page/RIDER_CHIPS.md "wikilink")
   - [菊地哲](../Page/菊地哲.md "wikilink")（[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")）
+  - [宮脇賣扇庵](https://ja.wikipedia.org/wiki/宮脇賣扇庵 "wikilink") - 江戸時代に創業した老舗扇子店、宮脇のご実家で。
 
 ## 外部リンク
 
   - [MADB-LOG](http://joe-blog.madbeavers.com/) - 公式ブログ
   - [MADB-LOG](http://madbeavers.com/diary/joe/diarypro/index.html) - 旧・公式ブログ（メンテナンスにより閲覧を休止）
 
-[Category:日本のドラマー](https://ja.wikipedia.org/wiki/Category:日本のドラマー "wikilink") [Category:日本のヘヴィメタル・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル・ミュージシャン "wikilink") [Category:京都府出身の人物](https://ja.wikipedia.org/wiki/Category:京都府出身の人物 "wikilink") [Category:1964年生](https://ja.wikipedia.org/wiki/Category:1964年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のドラマー](https://ja.wikipedia.org/wiki/Category:日本のドラマー "wikilink") [Category:日本のヘヴィメタル・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル・ミュージシャン "wikilink") [Category:同志社香里高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:同志社香里高等学校出身の人物 "wikilink") [Category:京都府出身の人物](https://ja.wikipedia.org/wiki/Category:京都府出身の人物 "wikilink") [Category:1964年生](https://ja.wikipedia.org/wiki/Category:1964年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

@@ -9,7 +9,7 @@
 
 ## 特徴
 
-  - HTTP認証とプロキシ認証。
+  - [HTTP認証](../Page/HTTP認証.md "wikilink")とプロキシ認証。
   - [HTTP cookieの使用](../Page/HTTP_cookie.md "wikilink")。
   - [Perl](../Page/Perl.md "wikilink"), [Ruby](../Page/Ruby.md "wikilink"), [Lua](../Page/Lua.md "wikilink")および[GNU Guileのスクリプトサポート](https://ja.wikipedia.org/wiki/GNU_Guile "wikilink")\[4\]。
   - [タブのサポート](../Page/タブ_\(GUI\).md "wikilink") (テキストモードのみ)\[5\]。
@@ -20,7 +20,7 @@
   - 外部[テキストエディタ](../Page/テキストエディタ.md "wikilink")を使用したテキストボックスの編集のサポート。
   - マウスのサポート。
   - 文字のカラー表示。
-  - プロトコルのサポート:
+  - [通信プロトコル](../Page/通信プロトコル.md "wikilink")のサポート:
       - , [finger](https://ja.wikipedia.org/wiki/Finger_protocol "wikilink"), [http](../Page/Hypertext_Transfer_Protocol.md "wikilink"), [https](../Page/HTTPS.md "wikilink"), [ftp](../Page/File_Transfer_Protocol.md "wikilink"), , [smb](../Page/Samba.md "wikilink"), [IPv4](../Page/IPv4.md "wikilink"), [IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")
 
       - 実験的: [BitTorrent](../Page/BitTorrent.md "wikilink"), [gopher](https://ja.wikipedia.org/wiki/Gopher_\(protocol\) "wikilink"),\[9\] [nntp](../Page/Network_News_Transfer_Protocol.md "wikilink")

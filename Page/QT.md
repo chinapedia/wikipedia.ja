@@ -27,6 +27,8 @@
 
   - [クオリファイングトーナメント](https://ja.wikipedia.org/wiki/クオリファイングトーナメント "wikilink")（Qualifying Tournament）の略称。- [ゴルフ](../Page/ゴルフ.md "wikilink")ツアーの予選会。
 
+  - 競技・試合・コンクールなどの予選：Qualifying Test
+
   - （量的引き締め政策\[2\]、）の略称。[量的金融緩和政策](../Page/量的金融緩和政策.md "wikilink")（）の逆。
 
 ## 関連項目

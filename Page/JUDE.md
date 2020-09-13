@@ -12,7 +12,7 @@
 ### 旧メンバー
 
   - [池畑潤二](https://ja.wikipedia.org/wiki/池畑潤二 "wikilink")：ドラム
-  - [椎野恭一](https://ja.wikipedia.org/wiki/椎野恭一 "wikilink")：ドラム
+  - [椎野恭一](../Page/椎野恭一.md "wikilink")：ドラム
 
 ## ディスコグラフィー
 

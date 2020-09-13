@@ -20,11 +20,13 @@
       - [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系『2月怒涛のサッカー中継』イメージソング
       - 日本テレビ系『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』2006年3月度オープニングテーマ
       - ニベアボディ「薬用ホワイトニングストレッチアップ・薬用ホワイトニングUV」CMソング
-2.  YES\! (Instrumental)
+2.  YES\!（Instrumental）
 
 ### DVD
 
-1.  YES\! (Video Clip)
+※CD+DVDのみ
+
+1.  **YES\!**（Video Clip）
 
 ## 脚注
 

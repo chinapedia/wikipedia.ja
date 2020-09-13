@@ -22,7 +22,7 @@
 ## メンバー
 
   - [J・マスシス](https://ja.wikipedia.org/wiki/J・マスシス "wikilink") (Joseph Donald Mascis) - [1965年](../Page/1965年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")生。バンドリーダー。主にボーカルとギターを担当するが、ドラムも叩ける[マルチプレイヤーである](../Page/マルチプレイヤー_\(音楽\).md "wikilink")。
-  - ルー・バーロウ (Lou Barlow) - [1966年](../Page/1966年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")生。ベース担当。マスシスの高校の同級生。一時脱退していた間には[セバドー](https://ja.wikipedia.org/wiki/セバドー "wikilink")、[フォーク・インプロージョン](https://ja.wikipedia.org/wiki/フォーク・インプロージョン "wikilink")などで活躍。セバドーは[ペイブメント](https://ja.wikipedia.org/wiki/ペイブメント "wikilink")と並ぶ、90年代米オルタナティブの[ローファイ](https://ja.wikipedia.org/wiki/ローファイ "wikilink")ムーブメントの雄として存在を知らしめ、フォーク・インプロージョンは映画『[KIDS/キッズ](https://ja.wikipedia.org/wiki/KIDS/キッズ "wikilink")』で音楽を担当し、主題歌は全米シングルチャートに於いてTOP40ヒットを獲得している。
+  - ルー・バーロウ (Lou Barlow) - [1966年](../Page/1966年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink")生。ベース担当。マスシスの高校の同級生。一時脱退していた間には[セバドー](https://ja.wikipedia.org/wiki/セバドー "wikilink")、[フォーク・インプロージョン](https://ja.wikipedia.org/wiki/フォーク・インプロージョン "wikilink")などで活躍。セバドーは[ペイブメント](https://ja.wikipedia.org/wiki/ペイブメント "wikilink")と並ぶ、90年代米オルタナティブの[ローファイ](https://ja.wikipedia.org/wiki/ローファイ "wikilink")ムーブメントの雄として存在を知らしめ、フォーク・インプロージョンは映画『[KIDS/キッズ](https://ja.wikipedia.org/wiki/KIDS/キッズ "wikilink")』で音楽を担当し、主題歌は全米シングルチャートに於いてTOP40ヒットを獲得している。
   - マーフ (Murph) - [1964年](../Page/1964年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")生。ドラムス担当。一時脱退していた間には[レモンヘッズ](https://ja.wikipedia.org/wiki/レモンヘッズ "wikilink")に参加していた。
 
 ### 元メンバー

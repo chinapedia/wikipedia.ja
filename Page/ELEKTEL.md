@@ -131,4 +131,4 @@
   - [ELEKTEL〜未来型電子ポップ](http://allabout.co.jp/entertainment/technopop/closeup/CU20021218/index.htm)All About テクノポップ アーティスト・インタヴュー2003年04月08日
   - [ELEKTEL〜ラウンジエレクトロ](http://allabout.co.jp/entertainment/technopop/closeup/CU20050404A/index.htm)All About テクノポップ アーティスト・インタヴュー2005年04月04日
 
-[Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:テクノミュージシャン](https://ja.wikipedia.org/wiki/Category:テクノミュージシャン "wikilink")
+[Category:日本のテクノミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のテクノミュージシャン "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")

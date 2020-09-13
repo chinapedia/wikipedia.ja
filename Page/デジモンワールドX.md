@@ -135,7 +135,7 @@
 ## 外部リンク
 
   - [株式会社バンダイ](http://www.bandai.co.jp/)
-  - [バンダイビデオゲーム](http://www.bandaigames.channel.or.jp/games.html)
-  - [デジモンワールドX公式サイト](http://www.bandaigames.channel.or.jp/list/multi_digimon02/)
 
+  -
+  -
 [Category:デジタルモンスターのゲームソフト](https://ja.wikipedia.org/wiki/Category:デジタルモンスターのゲームソフト "wikilink") [Category:アクションRPG](https://ja.wikipedia.org/wiki/Category:アクションRPG "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:ゲームキューブ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームキューブ用ソフト "wikilink") [Category:Xbox用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox用ソフト "wikilink") [Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink") [Category:バンダイのゲームソフト](https://ja.wikipedia.org/wiki/Category:バンダイのゲームソフト "wikilink")

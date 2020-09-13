@@ -3,7 +3,7 @@
 
 **THE NEUTRAL**（ザ・ニュートラル）は、[兵庫県](../Page/兵庫県.md "wikilink")[姫路市](../Page/姫路市.md "wikilink")出身の4人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")1月結成。
 
-[2000年](../Page/2000年.md "wikilink")3月ホームラン代谷加入により、現メンバーに。
+[2000年](../Page/2000年.md "wikilink")3月ホームラン代谷加入し、2018年1月に鎌田竜生が正式加入し現メンバーに。
 
 [インディーズ](../Page/インディーズ.md "wikilink")から2枚のアルバムを発表し、2002年、姫路在住ラストワンマン[ライブを地元](../Page/演奏会.md "wikilink")[ライブハウス](../Page/ライブハウス.md "wikilink")にて行う。終演後、[ファン](../Page/ファン.md "wikilink")に見送られながら、メンバーは[機材車](https://ja.wikipedia.org/wiki/機材車 "wikilink")で上京。[2003年](../Page/2003年.md "wikilink")1月、「チャンスはそこだ\!\!」で[Dreamusicよりメジャーデビュー](../Page/ドリーミュージック.md "wikilink")。 2007年2月までに、販売元を転々としながらもメジャーより4枚のCDを発売。2012年現在は自主レーベルより音源・ライブDVDをリリースしている。2009年2月3日[誰も知らない泣ける歌](https://ja.wikipedia.org/wiki/誰も知らない泣ける歌 "wikilink")に出演。2010年10月から[FM横浜でラジオのレギュラー](../Page/横浜エフエム放送.md "wikilink")「Yokohama Fanfare」が始まる。2013年10月23日デビュー10周年を記念してBEST ALBUM「THE NEUTRAL BEST」を発売。
 
@@ -520,6 +520,7 @@ BEST ALBUM「THE NEUTRAL BEST」に収録されている「かぞくのじかん
 
   - [THE NEUTRAL オフィシャルサイト](http://www.the-neutral.com/)
   - [THE NEUTRAL オフィシャル通販サイト](http://the-neutral.shop-pro.jp//)
+  - [THENEUTRALchannel](https://www.youtube.com/user/THENEUTRALchannel)
   - [『Take the high road』特別サイト](https://c6e95ee14caecc9c94610b74.amebaownd.com//)
   - [『Take the high road』配信中！](https://linkco.re/amp/C0gq3Yvp)
   - [vocal power オフィシャルサイト](http://vocal-power.jp/)

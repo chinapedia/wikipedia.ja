@@ -195,7 +195,7 @@ bool parse_numbers(const char* str, vector<double>& v)
 
 Boost.Regex - [正規表現](../Page/正規表現.md "wikilink")を利用するライブラリ。フィルタ・検索・パース・テキスト処理に必要な各種関数を持っている。
 
-Supports [PCRE](https://ja.wikipedia.org/wiki/PCRE "wikilink"), POSIX [BRE](https://ja.wikipedia.org/wiki/BRE "wikilink") and [ERE](https://ja.wikipedia.org/wiki/ERE "wikilink")
+正規表現の種類として[PCRE](https://ja.wikipedia.org/wiki/Perl_Compatible_Regular_Expressions "wikilink")、[POSIX基本正規表現と](https://ja.wikipedia.org/wiki/正規表現#基本正規表現 "wikilink")[POSIX拡張正規表現が利用可能である](https://ja.wikipedia.org/wiki/正規表現#拡張正規表現 "wikilink")。
 
   - テキストをパースするプログラムの例。
 

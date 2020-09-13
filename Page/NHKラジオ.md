@@ -11,10 +11,10 @@
 
 国内放送
 
-  - <span id="AM"></span>[中波放送](../Page/中波放送.md "wikilink")（AM放送）
-      - **[NHKラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")**
-      - **[NHKラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")**
-  - <span id="FM"></span>[超短波放送](../Page/超短波放送.md "wikilink")（FM放送）
+  - <span id="AM"></span>[中波放送](../Page/中波放送.md "wikilink")（AMラジオ放送）
+      - **[NHKラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")**（R1）
+      - **[NHKラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")**（R2）
+  - <span id="FM"></span>[超短波放送](../Page/超短波放送.md "wikilink")（FMラジオ放送）
       - **[NHK-FM放送](../Page/NHK-FM放送.md "wikilink")**
 
 国際放送

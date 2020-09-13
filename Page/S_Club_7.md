@@ -155,4 +155,4 @@ S Club名義でのリリースである。
   - [S CLUB 7 Lyrics](http://musicdb.laadhari.com/musics-songs/lyrics/2396/S+CLUB+7.html)
   - [S CLUB 7 Lyrics by albums](http://musicdb.laadhari.com/musics/albums-lyrics/2396-S+CLUB+7.html)
 
-[Category:イギリスのミュージシャン](https://ja.wikipedia.org/wiki/Category:イギリスのミュージシャン "wikilink")
+[Category:イギリスのミュージシャン](https://ja.wikipedia.org/wiki/Category:イギリスのミュージシャン "wikilink") [Category:ブリット・アワード受賞者](https://ja.wikipedia.org/wiki/Category:ブリット・アワード受賞者 "wikilink")

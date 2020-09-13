@@ -57,6 +57,6 @@
   -
   -
   -
-[Category:アメリカ合衆国のSFアクション映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のSFアクション映画 "wikilink") [Category:アメリカ合衆国の剣戟映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の剣戟映画 "wikilink") [Category:ロサンゼルスを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ロサンゼルスを舞台とした映画作品 "wikilink") [Category:戦国時代_(日本)を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:戦国時代_\(日本\)を舞台とした映画作品 "wikilink") [Category:1986年の映画](https://ja.wikipedia.org/wiki/Category:1986年の映画 "wikilink")
+[Category:アメリカ合衆国のSFアクション映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のSFアクション映画 "wikilink") [Category:アメリカ合衆国の剣戟映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の剣戟映画 "wikilink") [Category:ロサンゼルスを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ロサンゼルスを舞台とした映画作品 "wikilink") [Category:日本の戦国時代を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:日本の戦国時代を舞台とした映画作品 "wikilink") [Category:1986年の映画](https://ja.wikipedia.org/wiki/Category:1986年の映画 "wikilink")
 
 1.

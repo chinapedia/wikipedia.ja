@@ -73,166 +73,160 @@
 
 ## 過去の成績
 
+| シーズン                                                                 | ディビジョン                                                                 | [FAカップ](../Page/FAカップ.md "wikilink") | [リーグカップ](https://ja.wikipedia.org/wiki/フットボールリーグカップ "wikilink") | [欧州カップ](../Page/欧州サッカー連盟.md "wikilink") / [CL](../Page/UEFAチャンピオンズリーグ.md "wikilink") / [EL](../Page/UEFAヨーロッパリーグ.md "wikilink") / その他 | 最多得点者 |
+| -------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------ | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| リーグ                                                                  | 試                                                                      | 勝                                    | 分                                                               | 敗                                                                                                                                     | 得     |
+| [2003-04](https://ja.wikipedia.org/wiki/プレミアリーグ2003-2004 "wikilink") | [プレミア](../Page/プレミアリーグ.md "wikilink")                                  | 38                                   | 6                                                               | 15                                                                                                                                    | 17    |
+| 2004-05                                                              | [チャンピオン](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink") | 46                                   | 12                                                              | 21                                                                                                                                    | 13    |
+| 2005-06                                                              | チャンピオン                                                                 | 46                                   | 13                                                              | 15                                                                                                                                    | 18    |
+| 2006-07                                                              | チャンピオン                                                                 | 46                                   | 13                                                              | 14                                                                                                                                    | 19    |
+| 2007-08                                                              | チャンピオン                                                                 | 46                                   | 12                                                              | 16                                                                                                                                    | 18    |
+| 2008-09                                                              | [リーグ1](https://ja.wikipedia.org/wiki/フットボールリーグ1 "wikilink")            | 46                                   | 27                                                              | 15                                                                                                                                    | 4     |
+| 2009-10                                                              | チャンピオン                                                                 | 46                                   | 21                                                              | 13                                                                                                                                    | 12    |
+| 2010-11                                                              | チャンピオン                                                                 | 46                                   | 19                                                              | 10                                                                                                                                    | 17    |
+| 2011-12                                                              | チャンピオン                                                                 | 46                                   | 18                                                              | 12                                                                                                                                    | 16    |
+| 2012-13                                                              | チャンピオン                                                                 | 46                                   | 19                                                              | 11                                                                                                                                    | 16    |
+| 2013-14                                                              | チャンピオン                                                                 | 46                                   | 31                                                              | 9                                                                                                                                     | 6     |
+| [2014-15](https://ja.wikipedia.org/wiki/プレミアリーグ2014-2015 "wikilink") | プレミア                                                                   | 38                                   | 11                                                              | 8                                                                                                                                     | 19    |
+| [2015-16](https://ja.wikipedia.org/wiki/プレミアリーグ2015-2016 "wikilink") | プレミア                                                                   | 38                                   | 23                                                              | 12                                                                                                                                    | 3     |
+| [2016-17](https://ja.wikipedia.org/wiki/プレミアリーグ2016-2017 "wikilink") | プレミア                                                                   | 38                                   | 12                                                              | 8                                                                                                                                     | 18    |
+| [コミュニティ・シールド](../Page/FAコミュニティ・シールド.md "wikilink")                   | 準優勝                                                                    |                                      |                                                                 |                                                                                                                                       |       |
+| [2017-18](https://ja.wikipedia.org/wiki/プレミアリーグ2017-2018 "wikilink") | プレミア                                                                   | 38                                   | 12                                                              | 11                                                                                                                                    | 15    |
+| [2018-19](https://ja.wikipedia.org/wiki/プレミアリーグ2018-2019 "wikilink") | プレミア                                                                   | 38                                   | 15                                                              | 7                                                                                                                                     | 16    |
+| [2019-20](https://ja.wikipedia.org/wiki/プレミアリーグ2019-2020 "wikilink") | プレミア                                                                   | 38                                   | 18                                                              | 8                                                                                                                                     | 12    |
+| [2020-21](https://ja.wikipedia.org/wiki/プレミアリーグ2020-2021 "wikilink") | プレミア                                                                   | 38                                   |                                                                 |                                                                                                                                       |       |
+
+## 欧州の成績
+
 <table>
 <thead>
 <tr class="header">
 <th><p>シーズン</p></th>
-<th><p>ディビジョン</p></th>
-<th><p><a href="../Page/FAカップ.md" title="wikilink">FAカップ</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグカップ" title="wikilink">リーグ<br />
-カップ</a></p></th>
-<th><p><a href="../Page/欧州サッカー連盟.md" title="wikilink">欧州カップ</a> / <a href="../Page/UEFAチャンピオンズリーグ.md" title="wikilink">CL</a> / <a href="../Page/UEFAヨーロッパリーグ.md" title="wikilink">EL</a> / その他</p></th>
-<th><p>最多得点者</p></th>
+<th><p>大会</p></th>
+<th><p>ラウンド</p></th>
+<th><p>対戦相手</p></th>
+<th><p>ホーム</p></th>
+<th><p>アウェー</p></th>
+<th><p>合計</p></th>
+<th></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>リーグ</p></td>
-<td><p>試</p></td>
-<td><p>勝</p></td>
-<td><p>分</p></td>
-<td><p>敗</p></td>
-<td><p>得</p></td>
+<td><p>1961-62</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1961-62" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
+<td><p>予備予選</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/グレナボンFC" title="wikilink">グレナボン</a></p></td>
+<td><p>3-1</p></td>
+<td><p>4-1</p></td>
+<td><p>'''7-2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/プレミアリーグ2003-2004" title="wikilink">2003-04</a></p></td>
-<td><p><a href="../Page/プレミアリーグ.md" title="wikilink">プレミア</a></p></td>
-<td><p>38</p></td>
-<td><p>6</p></td>
-<td><p>15</p></td>
-<td><p>17</p></td>
+<td><p>1回戦</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アトレティコ・マドリード" title="wikilink">アトレティコ・マドリード</a></p></td>
+<td><p>1-1</p></td>
+<td><p>0-2</p></td>
+<td><p>'''1-3</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2004-2005" title="wikilink">2004-05</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ" title="wikilink">チャンピオン</a></p></td>
-<td><p>46</p></td>
-<td><p>12</p></td>
-<td><p>21</p></td>
-<td><p>13</p></td>
+<td><p>1997-98</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1997-98" title="wikilink">UEFAカップ</a></p></td>
+<td><p>1回戦</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アトレティコ・マドリード" title="wikilink">アトレティコ・マドリード</a></p></td>
+<td><p>0-1</p></td>
+<td><p>1-1</p></td>
+<td><p>'''1-2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2005-2006" title="wikilink">2005-06</a></p></td>
-<td><p>46</p></td>
-<td><p>13</p></td>
-<td><p>15</p></td>
-<td><p>18</p></td>
-<td><p>51</p></td>
+<td><p>2000-01</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2000-01" title="wikilink">UEFAカップ</a></p></td>
+<td><p>1回戦</p></td>
+<td><p><a href="../Page/レッドスター・ベオグラード.md" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
+<td><p>1-1</p></td>
+<td><p>1-3</p></td>
+<td><p>'''2-4</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2006-2007" title="wikilink">2006-07</a></p></td>
-<td><p>46</p></td>
-<td><p>13</p></td>
-<td><p>14</p></td>
-<td><p>19</p></td>
-<td><p>49</p></td>
+<td><p>2016-17</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2016-17" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
+<td><p>グループG</p></td>
+<td><p><a href="../Page/FCポルト.md" title="wikilink">ポルト</a></p></td>
+<td><p>1-0</p></td>
+<td><p>0-5</p></td>
+<td><p>'''1位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2007-2008" title="wikilink">2007-08</a></p></td>
-<td><p>46</p></td>
-<td><p>12</p></td>
-<td><p>16</p></td>
-<td><p>18</p></td>
-<td><p>42</p></td>
-</tr>
-<tr class="odd">
-<td><p>2008-09</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ1" title="wikilink">リーグ1</a></p></td>
-<td><p>46</p></td>
-<td><p>27</p></td>
-<td><p>15</p></td>
-<td><p>4</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2009-2010" title="wikilink">2009-10</a></p></td>
-<td><p>チャンピオン</p></td>
-<td><p>46</p></td>
-<td><p>21</p></td>
-<td><p>13</p></td>
-<td><p>12</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2010-2011" title="wikilink">2010-11</a></p></td>
-<td><p>46</p></td>
-<td><p>19</p></td>
-<td><p>10</p></td>
-<td><p>17</p></td>
-<td><p>76</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2011-2012" title="wikilink">2011-12</a></p></td>
-<td><p>46</p></td>
-<td><p>18</p></td>
-<td><p>12</p></td>
-<td><p>16</p></td>
-<td><p>66</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2012-2013" title="wikilink">2012-13</a></p></td>
-<td><p>46</p></td>
-<td><p>19</p></td>
-<td><p>11</p></td>
-<td><p>16</p></td>
-<td><p>71</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2013-2014" title="wikilink">2013-14</a></p></td>
-<td><p>46</p></td>
-<td><p>31</p></td>
-<td><p>9</p></td>
-<td><p>6</p></td>
-<td><p>83</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/プレミアリーグ2014-2015" title="wikilink">2014-15</a></p></td>
-<td><p>プレミア</p></td>
-<td><p>38</p></td>
-<td><p>11</p></td>
-<td><p>8</p></td>
-<td><p>19</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/プレミアリーグ2015-2016" title="wikilink">2015-16</a></p></td>
-<td><p>38</p></td>
-<td><p>23</p></td>
-<td><p>12</p></td>
-<td><p>3</p></td>
-<td><p>68</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/プレミアリーグ2016-2017" title="wikilink">2016-17</a></p></td>
-<td><p>38</p></td>
-<td><p>12</p></td>
-<td><p>8</p></td>
-<td><p>18</p></td>
-<td><p>48</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/FAコミュニティ・シールド.md" title="wikilink">コミュニティ・シールド</a></p></td>
-<td><p>準優勝</p></td>
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
+<td><p>2-1</p></td>
+<td><p>3-0</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/プレミアリーグ2017-2018" title="wikilink">2017-18</a></p></td>
-<td><p>38</p></td>
-<td><p>12</p></td>
-<td><p>11</p></td>
-<td><p>15</p></td>
-<td><p>56</p></td>
+<td><p><a href="../Page/FCコペンハーゲン.md" title="wikilink">コペンハーゲン</a></p></td>
+<td><p>1-0</p></td>
+<td><p>0-0</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/プレミアリーグ2018-2019" title="wikilink">2018-19</a></p></td>
-<td><p>38</p></td>
-<td><p>15</p></td>
-<td><p>7</p></td>
-<td><p>16</p></td>
-<td><p>51</p></td>
+<td><p>ラウンド16</p></td>
+<td><p><a href="../Page/セビージャFC.md" title="wikilink">セビージャ</a></p></td>
+<td><p>2-0</p></td>
+<td><p>1-2</p></td>
+<td><p>'''3-2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/プレミアリーグ2019-2020" title="wikilink">2019-20</a></p></td>
-<td><p>38</p></td>
+<td><p>準々決勝</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アトレティコ・マドリード" title="wikilink">アトレティコ・マドリード</a></p></td>
+<td><p>1-1</p></td>
+<td><p>0-1</p></td>
+<td><p>'''1-2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020-21</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2020-21" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
+<td><p>グループ</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>'''位</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>

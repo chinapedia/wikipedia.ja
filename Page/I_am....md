@@ -9,76 +9,82 @@
 
 「[Connected](https://ja.wikipedia.org/wiki/Connected "wikilink")」と「[Naturally](https://ja.wikipedia.org/wiki/Naturally_\(浜崎あゆみの曲\) "wikilink")」は後に海外でシングルとして発売された（日本では未発売）。
 
+## 売上記録
+
+## 批評
+
+CDジャーナルは、「『Dearest』『Endless sorrow』『UNITE\!』『NEVER EVER』『M』といった、大ヒット・シングル・ナンバーを収録した4thアルバム。女の子が唸りそうな説得力抜群の日本語にこだわった歌詞と力強いヴォーカルが光る。」と批評した\[1\]。
+
 ## 収録曲
 
 全15曲収録(シークレットトラックを含めると16曲)　全曲作詞：ayumi hamasaki
 
-1.  **I am...**
+1.  **I am...** (5:31)
       -
         作曲：CREA / 編曲：Tadashi Kikuchi + tasuku
         [コーセー](../Page/コーセー.md "wikilink")「ヴィセ」CM曲
-2.  **opening Run**
+2.  **opening Run** (0:57)
       -
         作曲・編曲：[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")
         インスト
-3.  **[Connected](https://ja.wikipedia.org/wiki/Connected "wikilink")**
+3.  **[Connected](https://ja.wikipedia.org/wiki/Connected "wikilink")** (3:21)
       -
         作曲・編曲：[Ferry Corsten](../Page/フェリー・コーステン.md "wikilink") (system F)
-4.  **[UNITE\!](../Page/UNITE!.md "wikilink")**
+4.  **[UNITE\!](../Page/UNITE!.md "wikilink")** (5:00)
       -
         作曲：CREA / 編曲：[HΛL](../Page/HΛL.md "wikilink")
         23rdシングル
         [キリンビバレッジ](../Page/キリンビバレッジ.md "wikilink")「サプリ」CMソング
-5.  **[evolution](../Page/Evolution_\(浜崎あゆみの曲\).md "wikilink")**
+5.  **[evolution](../Page/Evolution_\(浜崎あゆみの曲\).md "wikilink")** (4:42)
       -
         作曲：CREA / 編曲：HΛL
         20thシングル
         [コーセー](../Page/コーセー.md "wikilink")「ヴィセ」[コマーシャルソング](../Page/コマーシャルソング.md "wikilink")
         [アスミック・エース エンタテインメント配給映画](https://ja.wikipedia.org/wiki/アスミック・エース_エンタテインメント "wikilink")『[ヘルタースケルター](https://ja.wikipedia.org/wiki/ヘルタースケルター_\(漫画\)#映画版 "wikilink")』テーマソング
-6.  **[Naturally](https://ja.wikipedia.org/wiki/Naturally_\(浜崎あゆみの曲\) "wikilink")**
+6.  **[Naturally](https://ja.wikipedia.org/wiki/Naturally_\(浜崎あゆみの曲\) "wikilink")** (4:17)
       -
         作曲：CREA / 編曲：CMJK
         コーセー「ヴィセ」CM曲
-7.  **[NEVER EVER](../Page/NEVER_EVER_\(浜崎あゆみの曲\).md "wikilink")**
+7.  **[NEVER EVER](../Page/NEVER_EVER_\(浜崎あゆみの曲\).md "wikilink")** (4:42)
       -
         作曲：CREA / 編曲：CHOKKAKU
         21stシングル
         [キリンビバレッジ](../Page/キリンビバレッジ.md "wikilink")「サプリ」CMソング
-8.  **still alone**
+8.  **still alone** (5:56)
       -
         作曲：CREA / 編曲：CMJK
         [たかの友梨ビューティクリニック](https://ja.wikipedia.org/wiki/たかの友梨ビューティクリニック "wikilink")CM曲 (CMではキーが異なる)
-9.  **[Daybreak](../Page/Daybreak_\(浜崎あゆみの曲\).md "wikilink")**
+9.  **[Daybreak](../Page/Daybreak_\(浜崎あゆみの曲\).md "wikilink")** (4:49)
       -
         作曲：CREA + [D・A・I](../Page/長尾大.md "wikilink") + [junichi matsuda](../Page/松田純一.md "wikilink") / 編曲：tasuku
         25thシングルとしてシングルカット
         [パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")「[LUMIX](../Page/LUMIX.md "wikilink")」CMソング
         シングルとは、異なるミックスで収録。
-10. **taskinlude**
+10. **taskinlude** (1:20)
       -
         作曲・編曲：tasuku
         インスト
-11. **[M](../Page/M_\(浜崎あゆみの曲\).md "wikilink")**
+11. **[ℳ](../Page/M_\(浜崎あゆみの曲\).md "wikilink")** (4:29)
       -
         作曲：CREA / 編曲：HΛL
         19thシングル
         [ツーカー](../Page/ツーカー.md "wikilink")セルラー東京・東海[CMソング](../Page/コマーシャルソング.md "wikilink")
-12. **[A Song is born](https://ja.wikipedia.org/wiki/a_song_is_born "wikilink")**
+12. **[A Song is born](https://ja.wikipedia.org/wiki/a_song_is_born "wikilink")** (6:18)
       -
         作曲・編曲：[Tetsuya Komuro](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
         「a song is born」の浜崎のソロ
         タイトルは「**a** **s**ong is born」が「**A** **S**ong is born」と表記されており、[KEIKO](../Page/KEIKO.md "wikilink")とのデュエットとソロの区別を付けられている。
-13. **[Dearest](../Page/Dearest_\(浜崎あゆみの曲\).md "wikilink")**
+13. **[Dearest](../Page/Dearest_\(浜崎あゆみの曲\).md "wikilink")** (5:33)
       -
         作曲：CREA + D・A・I / 編曲：[Naoto Suzuki](https://ja.wikipedia.org/wiki/鈴木直人_\(音楽プロデューサー\) "wikilink")
         24thシングル
         アニメ『[犬夜叉](https://ja.wikipedia.org/wiki/犬夜叉 "wikilink")』エンディングテーマ
         [ツーカー](../Page/ツーカー.md "wikilink")2001年[コマーシャルソング](../Page/コマーシャルソング.md "wikilink")
-14. **no more words**
+14. **no more words** (5:48)
       -
         作曲：CREA + D・A・I / 編曲：Naoto Suzuki, tasuku
         アニメ映画『[犬夜叉 時代を越える想い](https://ja.wikipedia.org/wiki/犬夜叉_時代を越える想い "wikilink")』主題歌
-15. **[Endless sorrow](../Page/Endless_sorrow.md "wikilink") 〜gone with the wind ver.〜**
+15. **[Endless sorrow](../Page/Endless_sorrow.md "wikilink") 〜gone with the wind ver.〜** (8:17)
       -
         作曲：CREA / 編曲：CMJK
         22ndシングルのアレンジ
@@ -88,6 +94,7 @@
           -
             作曲：CREA + D・A・I
             シークレットトラック
+            「Endless sorrow 〜gone with the wind ver.〜」終了後、しばらくすると、流れる
 
 ## 脚注
 
@@ -98,3 +105,5 @@
   - [DISCOGRAPHY –ayumi hamasaki](http://avex.jp/ayu/discography/detail.php?id=1003350)
 
 [Category:浜崎あゆみのアルバム](https://ja.wikipedia.org/wiki/Category:浜崎あゆみのアルバム "wikilink") [Category:2002年のアルバム](https://ja.wikipedia.org/wiki/Category:2002年のアルバム "wikilink") [Category:2002年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2002年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:松浦勝人がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:松浦勝人がプロデュースしたアルバム "wikilink") [Category:オリコン月間アルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間アルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
+
+1.

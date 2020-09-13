@@ -623,7 +623,7 @@
 </tr>
 <tr class="even">
 <td><p>2005年4月27日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Ki/oon_Records" title="wikilink">Ki/oon Records</a> Overseas Compilation</p></td>
+<td><p><a href="../Page/キューンミュージック.md" title="wikilink">Ki/oon Records</a> Overseas Compilation</p></td>
 <td><p>KSCL-815:初回生産限定盤<br />
 KSCL-817:通常盤</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -886,7 +886,7 @@ RZCM-46392:CD</p></td>
 
   - [PUBLIC-IMAGE.ORG インタビュー](http://www.public-image.org/interview/2009/06/19/asa-chang.html)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:実験音楽のバンド](https://ja.wikipedia.org/wiki/Category:実験音楽のバンド "wikilink") [Category:ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアーティスツ "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:1998年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1998年に結成した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:実験音楽のバンド](https://ja.wikipedia.org/wiki/Category:実験音楽のバンド "wikilink") [Category:ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアーティスツ "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:1998年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1998年に結成した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
 
 1.  ダイサク・ジョビン 「bounce 262号」 タワーレコード株式会社、2005年2月25日。（[Web版バックナンバー](http://www.bounce.com/article/article.php/1835/) ）
 2.  ASA-CHANG&巡礼、 「[Sony Music Online Japan :: Artist Information :: ASA-CHANG & 巡礼 :: BIOGRAPHY](http://www.sonymusic.co.jp/Music/Arch/KS/AsaChangJunray/m_bio.html)」 、ASA-CHANG&巡礼公式サイト。（参照: 2007年12月31日）

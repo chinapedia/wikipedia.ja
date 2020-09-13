@@ -334,7 +334,7 @@
 ## 外部リンク
 
   -
-  - [L×I×V×E｜ドラマ・時代劇｜TBS CS［TBSチャンネル］](http://www.tbs.co.jp/tbs-ch/item/d1450/)
+  - [L×I×V×E｜ドラマ・時代劇｜TBS CS［TBSチャンネル］](https://www.tbs.co.jp/tbs-ch/item/d1450/)
 
   - [LIVE ロケ地ガイド](http://loca.ash.jp/show/1999/d199904_live.htm)
 

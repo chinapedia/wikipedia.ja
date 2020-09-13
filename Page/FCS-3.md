@@ -80,13 +80,13 @@ FCS-3は対空捜索レーダーと対水上捜索レーダーとしての機能
 
 この研究では、Xバンド・レーダーに捜索・追尾機能を付加することで、Cバンド・レーダーをより遠距離の捜索に特化させることが検討されており、これによってCバンド・レーダーは小型化できるので、システム全体の小型軽量化、消費電力低減、整備性の向上が可能となり、将来汎用護衛艦の設計の自由度の向上と艤装条件の緩和が可能となる。また、捜索・探知・追尾範囲の拡大、超低高度目標（シースキミングミサイル）対処能力の向上、ECCM能力の向上も図られている。
 
-本研究で開発された試作装置は、2013年4月の段階で2014年度より「あすか」への搭載・試験が行われるとされた\[13\]。実際、2014年に撮影された「あすか」には旧来のFCS-3が搭載されたアンテナ部とマスト上部に新たなフェイズドアレイアンテナが設置されたが、この内の艦尾側アンテナ部がこれに該当し、左舷側の小型アレイアンテナがC/Xバンドのマルチファンクションレーダー、右舷側の大型アレイアンテナがCバンドのフェイズドアレイレーダーとなる\[14\]。
+本研究で開発された試作装置は、2013年4月の段階で2014年度より「あすか」への搭載・試験が行われるとされた\[13\]。実際、2014年に撮影された「あすか」には旧来のFCS-3が搭載されたアンテナ部とマスト上部に新たなフェイズドアレイアンテナが設置されたが、この内の艦尾側アンテナ部がこれに該当し、左舷側の小型アレイアンテナがXバンドレーダー、右舷側の大型アレイアンテナがCバンドレーダーとなる。
 
-また、[2011年](../Page/2011年.md "wikilink")度（平成23年度）から2013年度（平成25年度）までに、電子戦及び水上レーダーアンテナの統合・平面化及び共用開口化を図る「次世代護衛艦(1)統合空中線システム」\[15\]が提案されたが、予算化はしなかった。替りに電子戦装置のアクティブ・フェイズドアレイ化を中心とした「統合電波システム主要構成要素の研究試作」が2011年度（平成23年度）から[2012年](../Page/2012年.md "wikilink")度（平成24年度）までに実施された（後2013年度（平成25年度）まで延長）\[16\]。
+また、[2011年](../Page/2011年.md "wikilink")度（平成23年度）から2013年度（平成25年度）までに、電子戦及び水上レーダーアンテナの統合・平面化及び共用開口化を図る「次世代護衛艦(1)統合空中線システム」\[14\]が提案されたが、予算化はしなかった。替りに電子戦装置のアクティブ・フェイズドアレイ化を中心とした「統合電波システム主要構成要素の研究試作」が2011年度（平成23年度）から[2012年](../Page/2012年.md "wikilink")度（平成24年度）までに実施された（後2013年度（平成25年度）まで延長）\[15\]。
 
-上記の研究成果は[2018年](../Page/2018年.md "wikilink")度（平成30年度）以降に建造される予定の[3900トン型護衛艦](https://ja.wikipedia.org/wiki/3900トン型護衛艦 "wikilink")（30FFM）へ搭載するための「新型護衛艦用レーダシステムの研究」に反映される。本研究は2015年度（平成27年度）から[2020年](../Page/2020年.md "wikilink")度（令和2年度）までに行われ、対空レーダー・対水上レーダー・電子妨害装置のアンテナ（空中線・信号処理部）を共用化し各機能を可能な限りソフトウェアで構築、状況に応じてリソース配分を行うことで、所要の機能を確保しつつ小型化・低コストを目指す\[17\]。行政レビューシートには、レーダ・EA（[電子攻撃](https://ja.wikipedia.org/wiki/電子攻撃 "wikilink")）共用空中線とES（[電子戦支援](https://ja.wikipedia.org/wiki/電子戦支援 "wikilink")）用空中線を試作したとあり\[18\]、30FFMのイメージ図にある大小2種類の空中線は,前者が大型、後者が小型に比定される。
+上記の研究成果は[2018年](../Page/2018年.md "wikilink")度（平成30年度）以降に建造される予定の[3900トン型護衛艦](https://ja.wikipedia.org/wiki/3900トン型護衛艦 "wikilink")（30FFM）へ搭載するための「新型護衛艦用レーダシステムの研究」に反映される。本研究は2015年度（平成27年度）から[2020年](../Page/2020年.md "wikilink")度（令和2年度）までに行われ、対空レーダー・対水上レーダー・電子妨害装置のアンテナ（空中線・信号処理部）を共用化し各機能を可能な限りソフトウェアで構築、状況に応じてリソース配分を行うことで、所要の機能を確保しつつ小型化・低コストを目指す\[16\]。行政レビューシートには、レーダ・EA（[電子攻撃](https://ja.wikipedia.org/wiki/電子攻撃 "wikilink")）共用空中線とES（[電子戦支援](https://ja.wikipedia.org/wiki/電子戦支援 "wikilink")）用空中線を試作したとあり\[17\]、30FFMのイメージ図にある大小2種類の空中線は,前者が大型、後者が小型に比定される。
 
-この30FFM搭載の新型多機能レーダーは、Xバンドの**OPY-2**として搭載される\[19\]。
+この30FFM搭載の新型多機能レーダーは、Xバンドの**OPY-2**として搭載される\[18\]。
 
 ## 脚注
 
@@ -98,16 +98,16 @@ FCS-3は対空捜索レーダーと対水上捜索レーダーとしての機能
 
 ## 外部リンク
 
-  - [防衛省 平成19年度 事前の事業評価 政策評価書一覧](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/19/jizen/index.html)
+  - [防衛省 平成19年度 事前の事業評価 政策評価書一覧](https://www.mod.go.jp/j/approach/hyouka/seisaku/results/19/jizen/index.html)
       - FCS-3性能向上の研究
-          - [要旨 (PDF)](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/19/jizen/youshi/06.pdf)
-          - [本文 (PDF)](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/19/jizen/honbun/06.pdf)
-          - [参考 (PDF)](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/19/jizen/sankou/06.pdf)
-  - [防衛省 平成26年度 事前の事業評価 政策評価書一覧](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/26/jizen.html)
+          - [要旨 (PDF)](https://www.mod.go.jp/j/approach/hyouka/seisaku/results/19/jizen/youshi/06.pdf)
+          - [本文 (PDF)](https://www.mod.go.jp/j/approach/hyouka/seisaku/results/19/jizen/honbun/06.pdf)
+          - [参考 (PDF)](https://www.mod.go.jp/j/approach/hyouka/seisaku/results/19/jizen/sankou/06.pdf)
+  - [防衛省 平成26年度 事前の事業評価 政策評価書一覧](https://www.mod.go.jp/j/approach/hyouka/seisaku/results/26/jizen.html)
       - 新型護衛艦用レーダシステムの研究
-          - [要旨 (PDF)](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/26/pdf/jizen_13_youshi.pdf)
-          - [本文 (PDF)](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/26/pdf/jizen_13_honbun.pdf)
-          - [参考 (PDF)](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/26/pdf/jizen_13_sankou.pdf)
+          - [要旨 (PDF)](https://www.mod.go.jp/j/approach/hyouka/seisaku/results/26/pdf/jizen_13_youshi.pdf)
+          - [本文 (PDF)](https://www.mod.go.jp/j/approach/hyouka/seisaku/results/26/pdf/jizen_13_honbun.pdf)
+          - [参考 (PDF)](https://www.mod.go.jp/j/approach/hyouka/seisaku/results/26/pdf/jizen_13_sankou.pdf)
 
 ## 関連項目
 
@@ -120,20 +120,19 @@ FCS-3は対空捜索レーダーと対水上捜索レーダーとしての機能
 
 1.
 2.
-3.  [技術研究本部50年史 P81-82](http://www.mod.go.jp/trdi/data/50years.html)
+3.  [技術研究本部50年史 P81-82](https://web.archive.org/20080506100129/http://www.mod.go.jp/trdi/data/50years.html)
 4.
 5.
 6.  石井幸祐（『[世界の艦船](../Page/世界の艦船.md "wikilink")』2008年3月号）
 7.  大熊康之（2006年）による
 8.
 9.  多田智彦（『[軍事研究](../Page/軍事研究_\(雑誌\).md "wikilink")』2010年1月号別冊）
-10. 「[イージス艦守る新鋭艦19DDを調達](http://www.asagumo-news.com/news/200612/061214/06121411.html)」、[朝雲新聞](../Page/朝雲新聞.md "wikilink")、2006年12月14日
+10.
 11.
-12. [平成25年行政事業レビューシート FCS－3の性能向上の研究試作改250809改 - 防衛省](http://www.mod.go.jp/j/approach/others/service/kanshi_koritsu/h25_res/r-sheet/0421.pdf)
+12. [平成25年行政事業レビューシート FCS－3の性能向上の研究試作改250809改 - 防衛省](https://www.mod.go.jp/j/approach/hyouka/kouritsuka/rev_suishin/h25/r-sheet/0421.pdf)
 13.
-14. 「知られざる重要部隊の全貌（第8回）海上自衛隊の未来を創造する開発・試験部隊 開発隊群」『J-Ships』第74号、イカロス出版、2017年5月
-15. レーダー・ESM・ECM・通信の複数機能を1つのアンテナで実現する「スマートRFセンサの研究」（[2002年](../Page/2002年.md "wikilink")度（平成14年度）から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")度（平成22年度））の成果を反映
-16. [平成24年行政事業レビューシート 統合電波システム主要構成要素の研究試作 - 防衛省](http://www.mod.go.jp/j/approach/others/service/kanshi_koritsu/h24/pdf/r-sheetadd/0017.pdf)、[平成25年行政事業レビューシート 統合電波システム主要構成要素の研究試作改250611改 - 防衛省](http://www.mod.go.jp/j/approach/others/service/kanshi_koritsu/h25_res/r-sheet/0425.pdf)
-17. [平成26年度事前の政策評価 「新型護衛艦用レーダシステムの研究（本文）」](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/26/pdf/jizen_13_honbun.pdf)
-18. [平成30年行政事業レビューシート 新型護衛艦用レーダシステムの研究試作 - 防衛省](http://www.mod.go.jp/j/approach/others/service/kanshi_koritsu/h30_res/h29past/0337.xlsx)
-19. 「海自期待の新型多機能護衛艦 「30FFM」の最新イメージ！」内嶋修「注目の新型艦艇」『世界の艦船』2019年1月号通算891号
+14. レーダー・ESM・ECM・通信の複数機能を1つのアンテナで実現する「スマートRFセンサの研究」（[2002年](../Page/2002年.md "wikilink")度（平成14年度）から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")度（平成22年度））の成果を反映
+15. [平成24年行政事業レビューシート 統合電波システム主要構成要素の研究試作 - 防衛省](https://www.mod.go.jp/j/approach/hyouka/kouritsuka/rev_suishin/h24/pdf/r-sheetadd/0017.pdf)、[平成25年行政事業レビューシート 統合電波システム主要構成要素の研究試作改250611改 - 防衛省](https://www.mod.go.jp/j/approach/hyouka/kouritsuka/rev_suishin/h25_res/r-sheet/0425.pdf)
+16. [平成26年度事前の政策評価 「新型護衛艦用レーダシステムの研究（本文）」](https://www.mod.go.jp/j/approach/hyouka/seisaku/results/26/pdf/jizen_13_honbun.pdf)
+17. [平成30年行政事業レビューシート 新型護衛艦用レーダシステムの研究試作 - 防衛省](https://www.mod.go.jp/j/approach/hyouka/kouritsuka/rev_suishin/h30_res/h29past/0337.xlsx)
+18. 「海自期待の新型多機能護衛艦 「30FFM」の最新イメージ！」内嶋修「注目の新型艦艇」『世界の艦船』2019年1月号通算891号

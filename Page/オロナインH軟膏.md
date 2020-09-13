@@ -39,7 +39,7 @@
 
 ## 適応と禁忌
 
-適応症は[尋常性ざ瘡](https://ja.wikipedia.org/wiki/尋常性ざ瘡 "wikilink")（にきび）、吹出物、顔面単純性粃糠疹（はたけ）、[熱傷](../Page/熱傷.md "wikilink")第一度（やけど（かるいもの））、[凍瘡](https://ja.wikipedia.org/wiki/凍瘡 "wikilink")、[ひび](../Page/しもやけ.md "wikilink")、あかぎれ、各種[外傷](../Page/外傷.md "wikilink")、[足白癬](../Page/足白癬.md "wikilink")（水虫）、[体部白癬](../Page/白癬.md "wikilink")（田虫）、股部白癬（いんきん）、頭部白癬（しらくも）となっており、殺菌消毒に有効な主成分が熱傷・外傷や[細菌](../Page/細菌.md "wikilink")・[真菌](https://ja.wikipedia.org/wiki/真菌 "wikilink")感染症に効果を示す、とされている。
+適応症は[尋常性痤瘡](https://ja.wikipedia.org/wiki/尋常性痤瘡 "wikilink")（にきび）、吹出物、顔面単純性粃糠疹（はたけ）、[熱傷](../Page/熱傷.md "wikilink")第一度（やけど（かるいもの））、[凍瘡](https://ja.wikipedia.org/wiki/凍瘡 "wikilink")、[ひび](../Page/しもやけ.md "wikilink")、あかぎれ、各種[外傷](../Page/外傷.md "wikilink")、[足白癬](../Page/足白癬.md "wikilink")（水虫）、[体部白癬](../Page/白癬.md "wikilink")（田虫）、股部白癬（いんきん）、頭部白癬（しらくも）となっており、殺菌消毒に有効な主成分が熱傷・外傷や[細菌](../Page/細菌.md "wikilink")・[真菌](https://ja.wikipedia.org/wiki/真菌 "wikilink")感染症に効果を示す、とされている。
 
 ただし[湿疹](https://ja.wikipedia.org/wiki/湿疹 "wikilink")・[皮膚炎](../Page/皮膚炎.md "wikilink")群や[虫刺症](../Page/虫刺症.md "wikilink")（虫刺され）には使用は控えるべきである。また化粧下については医薬品であることから使用しないこととされている。さらに第二度以上の熱傷・凍傷や湿潤傾向の強い白癬（趾間型白癬など）は使用できない。
 

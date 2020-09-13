@@ -31,8 +31,4 @@
   - 『[君を想うとき](https://ja.wikipedia.org/wiki/君を想うとき/Oh!_Heaven "wikilink")』
   - 『[忘れえぬ君へ…](../Page/忘れえぬ君へ….md "wikilink")』
 
-## 関連項目
-
-  - [あいのり](../Page/あいのり.md "wikilink")
-
 [Category:1998年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のテレビ番組_\(日本\) "wikilink") [Category:バラパラ](https://ja.wikipedia.org/wiki/Category:バラパラ "wikilink") [Category:フジテレビの紀行・旅番組](https://ja.wikipedia.org/wiki/Category:フジテレビの紀行・旅番組 "wikilink") [Category:ジャニーズ関連の放送番組](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連の放送番組 "wikilink") [Category:TOKIO](https://ja.wikipedia.org/wiki/Category:TOKIO "wikilink")

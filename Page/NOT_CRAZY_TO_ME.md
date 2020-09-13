@@ -27,21 +27,18 @@
 
   - [Produced](../Page/プロデューサー.md "wikilink") by [坂本龍一](../Page/坂本龍一.md "wikilink")\[24\]
 
-## 収録作品
+## 収録アルバム
 
   - 『[UNBALANCE+BALANCE+6](https://ja.wikipedia.org/wiki/UNBALANCE+BALANCE#UNBALANCE+BALANCE+6 "wikilink")』\[25\]
   - 『[歌姫伝説 〜90's BEST〜](../Page/歌姫伝説_〜90's_BEST〜.md "wikilink")』\[26\]\[27\]
 
-## 参照
+## 脚注
 
 ## 関連項目
 
   - [坂本龍一提供楽曲一覧](https://ja.wikipedia.org/wiki/坂本龍一提供楽曲一覧 "wikilink")
 
-## 外部リンク
-
-  -
-[Category:1993年のシングル](https://ja.wikipedia.org/wiki/Category:1993年のシングル "wikilink") [Category:中森明菜の楽曲](https://ja.wikipedia.org/wiki/Category:中森明菜の楽曲 "wikilink") [Category:坂本龍一が作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一が作詞作曲した楽曲 "wikilink") [Category:ユニバーサルミュージックジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのシングル "wikilink") [Category:楽曲_の](https://ja.wikipedia.org/wiki/Category:楽曲_の "wikilink")
+[Category:1993年のシングル](https://ja.wikipedia.org/wiki/Category:1993年のシングル "wikilink") [Category:中森明菜の楽曲](https://ja.wikipedia.org/wiki/Category:中森明菜の楽曲 "wikilink") [Category:坂本龍一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一が制作した楽曲 "wikilink") [Category:ユニバーサルミュージックジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのシングル "wikilink") [Category:楽曲_の](https://ja.wikipedia.org/wiki/Category:楽曲_の "wikilink")
 
 1.
 2.

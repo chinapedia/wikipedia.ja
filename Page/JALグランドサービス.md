@@ -1,11 +1,11 @@
 > この記事は[JALグランドサービス](https://ja.wikipedia.org/wiki/JALグランドサービス)から翻訳されています。
 
 
-**株式会社JALグランドサービス**（ジャルグランドサービス）は、[グランドハンドリング](https://ja.wikipedia.org/wiki/グランドハンドリング "wikilink")を行っている[日本航空](../Page/日本航空.md "wikilink")グループの[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")。
+**株式会社JALグランドサービス**（ジャルグランドサービス）は、空港地上支援業務（[グランドハンドリング](https://ja.wikipedia.org/wiki/グランドハンドリング "wikilink")）を行っている[日本航空](../Page/日本航空.md "wikilink")グループの[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")。略称**JGS**
 
 ## 概要
 
-[2006年](../Page/2006年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に旧JAL系の「空港グランドサービス」（AGS,Airport Ground Service）と旧JAS系の「東亜エアーサービス」（TAS）が合併したのに併せて社名を変更した。
+[2006年](../Page/2006年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に日本航空系の「空港グランドサービス」（AGS,Airport Ground Service）と[東亜国内航空系の](../Page/日本エアシステム.md "wikilink")「東亜エアーサービス」（TAS）の両社が合併したのに併せて社名変更
 
 ## 事業所所在地
 
@@ -131,7 +131,7 @@
   - [1991年](../Page/1991年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")
       - 初の女性[マーシャラー](../Page/マーシャラー.md "wikilink")（航空機誘導員）誕生。
   - [1992年](../Page/1992年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")
-      - AGS陸上部（現JALグランドサービス陸上競技部）創部。
+      - AGS陸上部（後にJGS陸上競技部へ名称変更）創部。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月12日](../Page/12月12日.md "wikilink")
       - [西日本エアポートサービス](https://ja.wikipedia.org/wiki/西日本エアポートサービス "wikilink")株式会社(NAS)設立。
       - [九州エアポートサービス](https://ja.wikipedia.org/wiki/九州エアポートサービス "wikilink")株式会社(KAS)設立。

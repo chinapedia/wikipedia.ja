@@ -285,7 +285,7 @@ TRAP-003以降の紹介順
 
 ## 外部リンク
 
-  - [日本テレビ 番組公式サイト](http://web.archive.org/web/19970419012842/http://www.ntv.co.jp/five/index.html)
+  - [日本テレビ 番組公式サイト](https://web.archive.org/web/19970419012842/http://www.ntv.co.jp/five/index.html)
 
 [Category:土曜グランド劇場](https://ja.wikipedia.org/wiki/Category:土曜グランド劇場 "wikilink") [Category:1997年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1997年のテレビドラマ "wikilink") [Category:アクションドラマ](https://ja.wikipedia.org/wiki/Category:アクションドラマ "wikilink") [Category:犯罪を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:犯罪を題材としたテレビドラマ "wikilink")
 

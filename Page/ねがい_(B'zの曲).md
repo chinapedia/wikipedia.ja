@@ -1,7 +1,7 @@
 > この記事は[ねがい \(B\'zの曲\)](https://ja.wikipedia.org/wiki/ねがい_\(B\'zの曲\))から翻訳されています。
 
 
-「**ねがい**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[5月31日](../Page/5月31日.md "wikilink")に[BMGルームスより](../Page/VERMILLION_RECORDS.md "wikilink")16作目の[シングル](../Page/シングル.md "wikilink")として発売された。
+「**ねがい**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。1995年5月31日に[BMGルームスより](../Page/VERMILLION_RECORDS.md "wikilink")16作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 本作と次作『[love me, I love you](https://ja.wikipedia.org/wiki/love_me,_I_love_you "wikilink")』は、[蜂](https://ja.wikipedia.org/wiki/蜂 "wikilink")(bee)のお尻を模したB'zロゴマークが使われた。
 
-自身初の[平仮名](../Page/平仮名.md "wikilink")のみのタイトルのシングルで、平仮名のみのタイトルのシングルは、本作と[2006年](../Page/2006年.md "wikilink")発売の「[ゆるぎないものひとつ](../Page/ゆるぎないものひとつ.md "wikilink")」のみとなっている。
+自身初の[平仮名](../Page/平仮名.md "wikilink")のみのタイトルのシングルで、平仮名のみのタイトルのシングルは、本作と2006年発売の『[ゆるぎないものひとつ](../Page/ゆるぎないものひとつ.md "wikilink")』のみとなっている。
 
 これまでの制作陣（[B+U+M](https://ja.wikipedia.org/wiki/B+U+M "wikilink")）を解体して「B'zは2人である」という原点に立ち返り、稲葉が編曲にも参加した最初の作品。松本は「B'z7年目のターニングポイントになる作品でした」と述べている。
 
@@ -28,7 +28,7 @@
 2.  **YOU & I** (4:07)
       -
         [2nd beatの楽曲の中でも人気が高く](https://ja.wikipedia.org/wiki/B'zの作品#シングル曲の表記 "wikilink")、[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』の人気投票では2nd beatの中では4位(総合では21位)、『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』では総合で16位だった\[2\]。
-        会報のインタビューでの松本の発言によると、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に行われたツアー『B'z LIVE-GYM '98 "SURVIVE"』の際に候補曲としてリハーサルまでしたとのことだが、最終的には未演奏になったという(後に[2000年](../Page/2000年.md "wikilink")に行われたツアー『B'z LIVE-GYM Pleasure 2000 "juice"』でライブ初披露となった)。
+        会報のインタビューでの松本の発言によると、1998年に行われたツアー『B'z LIVE-GYM '98 "SURVIVE"』の際に候補曲としてリハーサルまでしたとのことだが、最終的には未演奏になったという\[3\]。
         [オリジナル・アルバムには未収録であり](../Page/スタジオ・アルバム.md "wikilink")、マスト・アルバム『[B'z The "Mixture"](../Page/B'z_The_"Mixture".md "wikilink")』にリミックス・バージョン、『B'z The Best "ULTRA Treasure"』にはオリジナル・バージョンが収録されている。
         2014年にファンクラブ会報で行われた「まだ自身は聴いたことがないけれど、いつか[LIVE-GYM](../Page/LIVE-GYM.md "wikilink")で聴きたいと夢見ている曲」のアンケートで2位となり、2015年に行われたツアー『[B'z LIVE-GYM 2015 -EPIC NIGHT-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2015_-EPIC_NIGHT- "wikilink")』(スタジアム・ドーム公演)で『B'z LIVE-GYM Pleasure 2000 "juice"』以来、15年ぶりに演奏され、同時に初の映像化も果たした。
 
@@ -86,11 +86,16 @@
 
 ## 脚注
 
+### 注釈
+
+### 出典
+
 ## 関連項目
 
   - [1995年の音楽](../Page/1995年の音楽.md "wikilink")
 
 [Category:B'zの楽曲](https://ja.wikipedia.org/wiki/Category:B'zの楽曲 "wikilink") [Category:稲葉浩志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:稲葉浩志が制作した楽曲 "wikilink") [Category:松本孝弘が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘が制作した楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:1995年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1995年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:楽曲_ね](https://ja.wikipedia.org/wiki/Category:楽曲_ね "wikilink")
 
-1.  『[B'z The Best XXV 1988-1998](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1988-1998 "wikilink")』初回限定盤に付属しているMUSIC VIDEOの[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")にて。
+1.
 2.
+3.  後に2000年に行われたツアー『B'z LIVE-GYM Pleasure 2000 "juice"』でライブ初披露となった。

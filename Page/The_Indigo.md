@@ -512,6 +512,6 @@
   - [藍染手帖（市川裕一 公式ブログ）](https://ameblo.jp/aizomenote/)
 
   -
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:兵庫エフエム放送](https://ja.wikipedia.org/wiki/Category:兵庫エフエム放送 "wikilink") [Category:NBCユニバーサル・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:NBCユニバーサル・ジャパンのアーティスト "wikilink") [Category:1998年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1998年に結成した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")
+[Category:日本のボーイ・バンド](https://ja.wikipedia.org/wiki/Category:日本のボーイ・バンド "wikilink") [Category:兵庫エフエム放送](https://ja.wikipedia.org/wiki/Category:兵庫エフエム放送 "wikilink") [Category:NBCユニバーサル・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:NBCユニバーサル・ジャパンのアーティスト "wikilink") [Category:1998年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1998年に結成した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")
 
 1.  [市川裕一オフィシャル・ブログ『藍染手帖』スタート\!](http://info.the-indigo.com/?eid=1017254) - the indigo official web site

@@ -51,7 +51,7 @@
   - [SilverSecond -シルバーセカンド-](https://www.silversecond.net/)
 
   -
-[Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:ゲームクリエイター](https://ja.wikipedia.org/wiki/Category:ゲームクリエイター "wikilink") [Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink") [Category:生年非公表](https://ja.wikipedia.org/wiki/Category:生年非公表 "wikilink") [Category:本名非公開の人物](https://ja.wikipedia.org/wiki/Category:本名非公開の人物 "wikilink")
+[Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:日本のコンピュータゲームデザイナー](https://ja.wikipedia.org/wiki/Category:日本のコンピュータゲームデザイナー "wikilink") [Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink") [Category:生年非公表](https://ja.wikipedia.org/wiki/Category:生年非公表 "wikilink") [Category:本名非公開の人物](https://ja.wikipedia.org/wiki/Category:本名非公開の人物 "wikilink")
 
 1.  [フリーゲーム あの人に聞きたい！ 第6回 SmokingWOLF さん](http://yamazaru.s21.xrea.com/reviewers/interview/006smokingwolf.html) 赤松弥太郎 2011年7月7日
 2.  [SmokingWOLF「2Dゲームでできることはほぼなんでもできてしまうんですよ」](http://ch.nicovideo.jp/indies-game/blomaga/ar150645) [ドワンゴ](../Page/ドワンゴ.md "wikilink") 2013年3月9日

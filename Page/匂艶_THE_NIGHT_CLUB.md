@@ -3,7 +3,7 @@
 
 [Bar_StarDust2.jpg](https://ja.wikipedia.org/wiki/File:Bar_StarDust2.jpg "fig:Bar_StarDust2.jpg") 「**匂艶 THE NIGHT CLUB**」（にじいろ ザ・ナイト・クラブ）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の楽曲。自身の15作目の[シングル](../Page/シングル.md "wikilink")として、[Invitationから](../Page/Invitation_\(レーベル\).md "wikilink")[7インチレコードで](https://ja.wikipedia.org/wiki/レコード#7インチシングル盤 "wikilink")[1982年](../Page/1982年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")に発売された。
 
-[1988年](../Page/1988年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に[CD化](https://ja.wikipedia.org/wiki/コンパクト・ディスク "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")にも8cmCDとして、[2005年](../Page/2005年.md "wikilink")6月25日には12cmCDで再発され、計3回再発売されている。
+[1988年](../Page/1988年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")と[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")に8cmCDとして、[2005年](../Page/2005年.md "wikilink")6月25日には12cmCDで再発売されている。[2014年](../Page/2014年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")からはダウンロード配信、[2019年](../Page/2019年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")からはストリーミング配信が開始されている\[1\]\[2\]。
 
 ## 背景
 
@@ -16,7 +16,7 @@
 ## 受賞
 
   - 第15回[日本有線大賞](../Page/日本有線大賞.md "wikilink")
-      - 最多リクエスト歌手賞・有線音楽賞\[1\]
+      - 最多リクエスト歌手賞・有線音楽賞\[3\]
   - 第2回[日本作曲大賞](https://ja.wikipedia.org/wiki/日本作曲大賞 "wikilink")
       - 優秀作曲者賞
 
@@ -30,7 +30,7 @@
     （作詞・作曲:[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")　編曲:サザンオールスターズ　弦管編曲:[八木正生](../Page/八木正生.md "wikilink")）
       -
         ホーンセクションを加えた、デビュー当時から得意としている歌謡路線である。本作発売の2ヵ月後に発売されたアルバム『[NUDE MAN](../Page/NUDE_MAN.md "wikilink")』に収録された。
-        バンド「[ゴールデンボンバー](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")」のボーカルの[鬼龍院翔は](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\)#鬼龍院_翔 "wikilink")、彼らの代表作である「[女々しくて](https://ja.wikipedia.org/wiki/女々しくて "wikilink")」を作る際にこの楽曲のアレンジを参考にしている\[2\]。
+        バンド「[ゴールデンボンバー](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")」のボーカルの[鬼龍院翔は](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\)#鬼龍院_翔 "wikilink")、彼らの代表作である「[女々しくて](https://ja.wikipedia.org/wiki/女々しくて "wikilink")」を作る際にこの楽曲のアレンジを参考にしている\[4\]。
 2.  **走れ\!\! トーキョー・タウン** (3:57)
     （作詞・作曲:桑田佳祐　編曲:サザンオールスターズ）
       -
@@ -71,7 +71,7 @@
 
 シングル曲として初の[PVを収録した映像作品](../Page/ミュージック・ビデオ.md "wikilink")。[1989年](../Page/1989年.md "wikilink")には[女神達への情歌 (報道されないY型の彼方へ)も映像作品として発売している](https://ja.wikipedia.org/wiki/女神達への情歌_\(報道されないY型の彼方へ\)#映像作品 "wikilink")。
 
-また、「[Southern All Stars THE BEST](https://ja.wikipedia.org/wiki/Southern_All_Stars_THE_BEST "wikilink")」と同時発売となっている。
+また、「Southern All Stars THE BEST」と同時発売となっている。
 
 ### 収録曲（映像作品）
 
@@ -90,5 +90,7 @@
 
 [Category:サザンオールスターズの楽曲](https://ja.wikipedia.org/wiki/Category:サザンオールスターズの楽曲 "wikilink") [Category:桑田佳祐が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐が制作した楽曲 "wikilink") [Category:1982年のシングル](https://ja.wikipedia.org/wiki/Category:1982年のシングル "wikilink") [Category:楽曲_に](https://ja.wikipedia.org/wiki/Category:楽曲_に "wikilink") [Category:夜を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夜を題材とした楽曲 "wikilink")
 
-1.  [第15回日本有線大賞](http://ranking.cansystem.info/grandprix/?md=h&ts=15) 2016年6月18日閲覧。
-2.  [金爆・鬼龍院翔、及川光博に音楽的才能を認められる「やっぱり」](http://www.musicvoice.jp/news/20160428040101/) ミュージックヴォイス 2016年4月28日閲覧。
+1.  [サザン、全266曲を世界111ヶ国で配信](https://www.oricon.co.jp/news/2046030/full/) オリコン 2014年12月17日配信, 2020年6月4日閲覧
+2.  [サザン関連全972曲 サブスク一斉解禁 メンバーソロ曲も対象に](https://www.oricon.co.jp/news/2151435/full/) オリコン 2019年12月20日配信, 2019年12月20日閲覧
+3.  [第15回日本有線大賞](http://ranking.cansystem.info/grandprix/?md=h&ts=15) 2016年6月18日閲覧。
+4.  [金爆・鬼龍院翔、及川光博に音楽的才能を認められる「やっぱり」](http://www.musicvoice.jp/news/20160428040101/) ミュージックヴォイス 2016年4月28日閲覧。

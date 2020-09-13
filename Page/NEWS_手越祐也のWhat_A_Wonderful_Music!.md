@@ -21,4 +21,4 @@
   - フツオタ - リスナーからの普通のお便りを紹介。
   - 平等戦士フィフティフィフティ - [戦隊モノコント](https://ja.wikipedia.org/wiki/スーパー戦隊シリーズ "wikilink")。手越が正義の戦士フィフティフィフティ、ディレクターが敵の不平等大魔王を演じる。番組の冒頭にやる事が多い。
 
-[Category:NACK5の番組](https://ja.wikipedia.org/wiki/Category:NACK5の番組 "wikilink") [Category:手越祐也](https://ja.wikipedia.org/wiki/Category:手越祐也 "wikilink")
+[Category:手越祐也](https://ja.wikipedia.org/wiki/Category:手越祐也 "wikilink") [Category:NACK5の番組](https://ja.wikipedia.org/wiki/Category:NACK5の番組 "wikilink") [Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink") [Category:ジャニーズ関連の放送番組](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連の放送番組 "wikilink")

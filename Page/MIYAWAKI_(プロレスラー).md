@@ -53,4 +53,4 @@
   - [MIYAWAKI | 2AW 公式プロフィール](http://www.2aw.jp/stars/miyawaki/)
 
   -
-[Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:アパッチプロレス軍](https://ja.wikipedia.org/wiki/Category:アパッチプロレス軍 "wikilink") [Category:KAIENTAI-DOJOに所属するプロレスラー](https://ja.wikipedia.org/wiki/Category:KAIENTAI-DOJOに所属するプロレスラー "wikilink") [Category:大阪市出身の人物](https://ja.wikipedia.org/wiki/Category:大阪市出身の人物 "wikilink") [Category:1977年生](https://ja.wikipedia.org/wiki/Category:1977年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:アパッチプロレス軍](https://ja.wikipedia.org/wiki/Category:アパッチプロレス軍 "wikilink") [Category:2AW](https://ja.wikipedia.org/wiki/Category:2AW "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink") [Category:大阪市出身の人物](https://ja.wikipedia.org/wiki/Category:大阪市出身の人物 "wikilink") [Category:1977年生](https://ja.wikipedia.org/wiki/Category:1977年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

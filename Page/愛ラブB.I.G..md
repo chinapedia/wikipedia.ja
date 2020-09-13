@@ -15,11 +15,13 @@
       - [生田斗真](../Page/生田斗真.md "wikilink")
       - [山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")
       - [風間俊介](https://ja.wikipedia.org/wiki/風間俊介 "wikilink")
-      - [五関晃一](../Page/五関晃一.md "wikilink")
       - [田中聖](../Page/田中聖.md "wikilink")
       - [長谷川純](../Page/長谷川純.md "wikilink")
       - [伊藤達哉](https://ja.wikipedia.org/wiki/伊藤達哉 "wikilink")
       - 服部将也
+
+<!-- end list -->
+
   - [ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")
 
 ## コーナー

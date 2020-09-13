@@ -232,8 +232,8 @@ FA 2.xは、[マイクロソフト](../Page/マイクロソフト.md "wikilink")
   -
 ## 外部リンク
 
-  - [日本語版公式](http://web.archive.org/web/20120910081758/http://fighterace.ketsujin.com/FAJapanese/) - 閉鎖。（2012年9月10日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
-  - [英語版公式](http://web.archive.org/web/20130318061554/http://fighterace.ketsujin.com/) - 閉鎖。（2013年3月18日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [日本語版公式](https://web.archive.org/web/20120910081758/http://fighterace.ketsujin.com/FAJapanese/) - 閉鎖。（2012年9月10日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [英語版公式](https://web.archive.org/web/20130318061554/http://fighterace.ketsujin.com/) - 閉鎖。（2013年3月18日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
 [Category:フライトシミュレーション](https://ja.wikipedia.org/wiki/Category:フライトシミュレーション "wikilink")
 

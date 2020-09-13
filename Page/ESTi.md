@@ -9,7 +9,9 @@
 
 過去に[韓国外国語大学校](https://ja.wikipedia.org/wiki/韓国外国語大学校 "wikilink")にて日本語を専攻していたため日本語が堪能であり、アイドルマスターの楽曲「[Little Match Girl](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION_MASTER_生っすかSPECIAL#05 "wikilink")」などは自ら日本語で作詞した。[日本においては](https://ja.wikipedia.org/wiki/日本国 "wikilink")、[同人音楽](../Page/同人音楽.md "wikilink")活動を皮切りに、近年はアーケードゲーム「[チュウニズム](https://ja.wikipedia.org/wiki/チュウニズム "wikilink")」やTVアニメ「[アイドルマスター シンデレラガールズ](https://ja.wikipedia.org/wiki/アイドルマスター_シンデレラガールズ "wikilink")」の収録曲「[Memories](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_CINDERELLA_GIRLS_ANIMATION_PROJECT#02_Memories "wikilink")」などで韓国発ではない日本の作品にも参加している。
 
-2017年2月11日には、自身のツイッターで、家業の花屋を継ぐためにプロ作曲家としては引退し、音楽は趣味とするという趣旨のことを述べた\[2\]。しかし実際には、これまでに何度も、作曲家業の引退宣言と翻意を繰り返してきた。最近では、有限会社エスティメイトの代表取締役も務めるなど、時間が足りないために、現状は音楽を趣味としているというのが実態のようである\[3\]。
+2017年2月11日には、自身のツイッターで、家業の花屋を継ぐためにプロ作曲家としては引退し、音楽は趣味とするという趣旨のことを述べた\[2\]。しかし実際には、これまでに何度も、作曲家業の引退宣言と翻意を繰り返してきた。最近では、自身の事務所「エスティメイト」の代表取締役も務めるなど、時間が足りないために、現状は音楽を趣味としているというのが実態のようである\[3\]。
+
+エスティメイトには、2019年に韓国でソロ歌手デビューした、日本人の[寺本來可](../Page/寺本來可.md "wikilink")（ユキカ）が所属している。ユキカの1stアルバム「ソウル女子（서울여자）」の同名表題曲は、ESTiが作詞・作曲・編曲を手がけた。
 
 ## 日本の商業参加作品
 
@@ -24,6 +26,7 @@
 
 ### ESTi名義
 
+  - [メイプルストーリー](../Page/メイプルストーリー.md "wikilink") （NEXON、PCオンライン） - Illiyard Moor\[4\]
   - [テイルズウィーバー](../Page/テイルズウィーバー.md "wikilink")　（NEXON、[SOFTMAX](https://ja.wikipedia.org/wiki/SOFTMAX "wikilink")、PCオンライン）
   - [DJMAX](../Page/DJMAX.md "wikilink")シリーズ　（[PENTAVISION](../Page/PENTAVISION.md "wikilink")、PCオンライン、PSP、アーケード）
   - [スカッとゴルフ パンヤシリーズ](../Page/スカッとゴルフ_パンヤ.md "wikilink")　（[Ntreev Soft](https://ja.wikipedia.org/wiki/Ntreev_Soft "wikilink")、PCオンライン、PSP、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")）
@@ -76,7 +79,9 @@
 
 ## 楽曲提供（韓国）
 
-  - [IU](https://ja.wikipedia.org/wiki/IU_\(歌手\) "wikilink")「Alicia」（2011年、作詞・作曲・編曲、オンラインゲーム「馬と私の物語、エリシャ」OST）\[4\]
+  - [IU](https://ja.wikipedia.org/wiki/IU_\(歌手\) "wikilink")「[Alicia](https://www.youtube.com/watch?v=dqIy0Ng4MWU)」2011年、作詞・作曲・編曲、オンラインゲーム「馬と私の物語、エリシャ」OST\[5\]
+  - ユキカ「\[<https://www.youtube.com/watch?v=942NkXvAtAM>　ソウル女子（서울여자）\]」2020年、作詞：ESTi、チェ・ヨンギョン、作曲・編曲：ESTi。
+  - [DREAMCATCHER](https://ja.wikipedia.org/wiki/DREAMCATCHER "wikilink")「\[<https://www.youtube.com/watch?v=Lja79dlQiZI>　R.o.S.E BLUE\]」2020年、作詞： ESTi、作曲：ESTi、チェ・ヨンギョン（최영경）、編曲：ESTi、seibin、 Benicx。 RPG「Girl Cafe Gun(걸카페건)」 OST。
 
 ## CDシングル（日本）
 
@@ -98,4 +103,5 @@
 1.  \[<http://goodbye-twenties.com/profile/esti.html>　ESTi\]『而立 〜さよなら20代〜』2009年
 2.
 3.  \[<http://bbs.ruliweb.com/news/read/93886>　20대 개발자 위한 ESTi 박진배의 게임 음악 이야기\]『RULIWEB』2017年4月27日
-4.  \[<http://www.lyrics.co.kr/?p=391915>　IU (+) Alicia (앨리샤) OST\]
+4.
+5.  \[<http://www.lyrics.co.kr/?p=391915>　IU (+) Alicia (앨리샤) OST\]

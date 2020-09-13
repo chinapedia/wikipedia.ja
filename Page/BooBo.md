@@ -25,6 +25,8 @@ TBSの公式グッズ（玩具・文具・DVDなど）には、BooBoが描かれ
 
 現在はTBS公式サイトのファビコンにも反映される\[4\]。データ放送の右上のロゴはBがBooBoが横になってBに見えるようなロゴを用いている（2016年現在TBSテレビのロゴはFrom　TBSと3つ併用状態）。
 
+ラジオでは[TBSハウジング](../Page/TBSハウジング.md "wikilink")で主に使用されたが、2020年3月の「ジ～ン」廃止に伴い登場しなくなった。
+
 ## 出演番組
 
   - 「○曜は（番組名）の日 by TブーS」\[5\]というシリーズのCMで初登場。BooBoが番組にちなんだ行動をする[アニメーション](../Page/アニメーション.md "wikilink")だった。BooBoそのもののほか、[水戸黄門や](https://ja.wikipedia.org/wiki/水戸黄門_\(パナソニック_ドラマシアター\)の登場人物一覧#主演 "wikilink")[筑紫哲也](https://ja.wikipedia.org/wiki/筑紫哲也 "wikilink")などに扮したBooBoも登場した。
@@ -36,6 +38,9 @@ TBSの公式グッズ（玩具・文具・DVDなど）には、BooBoが描かれ
   - [2011年](../Page/2011年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")の[地上アナログ放送終了時](../Page/NTSC.md "wikilink")、アナログ停波前の23時59分ごろ、特別クロージングとしてBooBoが登場した。通常のTBSのクロージング映像が流された後、ブラックバックに現れたBooBoが「アナログ放送は終了します」「ありがとうございました」とアナログ放送終了のメッセージを吹き出しで表示し一礼して正面を向き直るとそのまま徐々にブラックアウト、24時00分00秒にアナログ放送は停波して、[地上デジタル放送に完全移行した](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")。
   - 2011年の『[世界陸上韓国テグ](../Page/2011年世界陸上競技選手権大会.md "wikilink")』とのコラボで、[ロッテ](../Page/ロッテ.md "wikilink")の[チューインガム](../Page/チューインガム.md "wikilink")「[Fit's](https://ja.wikipedia.org/wiki/Fit's "wikilink")」のCMに「アスリートブー」として出演。世界陸上リポーターの[安藤あや菜](../Page/安藤あや菜.md "wikilink")と共演した。
   - 2012年4月に始まった『[クイズ\!イチガン](https://ja.wikipedia.org/wiki/クイズ!イチガン "wikilink")』のコーナー「正解さがしマスパレード\!」では、解答の選択肢として「黒のBooBo」とBooBoをモチーフにした「緑の[チューチュ](../Page/ネズミ.md "wikilink")」「ピンクの[ピョンピョ](../Page/ウサギ.md "wikilink")」「オレンジの[ガオーガ](../Page/ライオン.md "wikilink")」「青の[パオーパ](../Page/ゾウ.md "wikilink")」「黄色の[キリン](../Page/キリン.md "wikilink")」が登場する。
+  - 2019年4月からは、平日夕方の報道・情報番組『[Nスタ](https://ja.wikipedia.org/wiki/Nスタ "wikilink")』にBoonaが登場するようになった（重大ニュース時など登場しない場合もある）。当初は16時台の天気コーナーのみの登場だったが、その後15:49のオープニングにも森田・TBSアナウンサーの[国山ハセン](https://ja.wikipedia.org/wiki/国山ハセン "wikilink")（2019年10月以降は[小林廣輝](https://ja.wikipedia.org/wiki/小林廣輝 "wikilink")）\[6\]登場するようになった。さらに、2019年末ごろからは17時台の芸能・スポーツニュースコーナーや天気コーナー「イノ天」にも登場している。
+
+## 脚注
 
 ## 関連項目
 
@@ -43,11 +48,9 @@ TBSの公式グッズ（玩具・文具・DVDなど）には、BooBoが描かれ
       -
         2011年にTBSとMBSの共同企画として、BooBoとらいよんチャンのコラボレーショングッズが発売され、競演した。
 
-## 脚注
-
 ## 外部リンク
 
-  - [Boo Channel | TBSテレビ](http://www.tbs.co.jp/boobo/) - BooBoの公式サイト。
+  - [Boo Channel | TBSテレビ](https://www.tbs.co.jp/boobo/) - BooBoの公式サイト。
 
   - \- 公式アカウント。他にもBooBo関連のアカウントが複数存在する。
 
@@ -58,3 +61,4 @@ TBSの公式グッズ（玩具・文具・DVDなど）には、BooBoが描かれ
 3.  ジ〜ンは2000年2月に誕生している。
 4.
 5.  「月曜は[フレンドパークの日](../Page/関口宏の東京フレンドパークII.md "wikilink")」といったものがほとんどだが、[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")も対象だったため、「月～日は[ニュースの森の日](../Page/JNNニュースの森.md "wikilink")」というものもあった。
+6.  金曜日は[熊崎風斗](https://ja.wikipedia.org/wiki/熊崎風斗 "wikilink")アナウンサーが担当。

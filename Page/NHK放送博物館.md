@@ -17,7 +17,7 @@
 
 ### 交通アクセス
 
-  - [東京地下鉄](https://ja.wikipedia.org/wiki/東京地下鉄 "wikilink")[日比谷線](https://ja.wikipedia.org/wiki/東京メトロ日比谷線 "wikilink") [神谷町駅](https://ja.wikipedia.org/wiki/神谷町駅 "wikilink")から徒歩7分
+  - [東京地下鉄](https://ja.wikipedia.org/wiki/東京地下鉄 "wikilink")[日比谷線](https://ja.wikipedia.org/wiki/東京メトロ日比谷線 "wikilink") [神谷町駅](https://ja.wikipedia.org/wiki/神谷町駅 "wikilink")、[虎ノ門ヒルズ駅](https://ja.wikipedia.org/wiki/虎ノ門ヒルズ駅 "wikilink")から徒歩7分
   - [都営地下鉄](../Page/都営地下鉄.md "wikilink")[三田線](https://ja.wikipedia.org/wiki/都営地下鉄三田線 "wikilink") [御成門駅](https://ja.wikipedia.org/wiki/御成門駅 "wikilink")から徒歩10分
   - 東京地下鉄[銀座線](https://ja.wikipedia.org/wiki/東京メトロ銀座線 "wikilink") [虎ノ門駅](https://ja.wikipedia.org/wiki/虎ノ門駅 "wikilink")から徒歩13分
 
@@ -47,7 +47,7 @@
   - [NHK放送博物館](https://www.nhk.or.jp/museum/)
   - [それは「イ」の字から始まった ～テレビのはじまり～ - マンガで読むNHKヒストリー](https://www.nhk.or.jp/archives/search/special/comic/?movie#vol05)
 
-[Category:東京都の登録博物館](https://ja.wikipedia.org/wiki/Category:東京都の登録博物館 "wikilink") [Category:東京都港区の博物館](https://ja.wikipedia.org/wiki/Category:東京都港区の博物館 "wikilink") [Category:日本の企業博物館](https://ja.wikipedia.org/wiki/Category:日本の企業博物館 "wikilink") [Category:NHKの施設](https://ja.wikipedia.org/wiki/Category:NHKの施設 "wikilink") [Category:NHK東京](https://ja.wikipedia.org/wiki/Category:NHK東京 "wikilink") [Category:日本放送協会の歴史](https://ja.wikipedia.org/wiki/Category:日本放送協会の歴史 "wikilink") [Category:NHKの番組の歴史](https://ja.wikipedia.org/wiki/Category:NHKの番組の歴史 "wikilink") [Category:日本のラジオ放送史](https://ja.wikipedia.org/wiki/Category:日本のラジオ放送史 "wikilink") [Category:日本のテレビ放送史](https://ja.wikipedia.org/wiki/Category:日本のテレビ放送史 "wikilink") [Category:1956年開設の博物館](https://ja.wikipedia.org/wiki/Category:1956年開設の博物館 "wikilink") [Category:1968年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:1968年竣工の日本の建築物 "wikilink")
+[Category:東京都の登録博物館](https://ja.wikipedia.org/wiki/Category:東京都の登録博物館 "wikilink") [Category:東京都港区の博物館](https://ja.wikipedia.org/wiki/Category:東京都港区の博物館 "wikilink") [Category:日本の企業博物館](https://ja.wikipedia.org/wiki/Category:日本の企業博物館 "wikilink") [Category:NHKの施設](https://ja.wikipedia.org/wiki/Category:NHKの施設 "wikilink") [Category:NHK東京](https://ja.wikipedia.org/wiki/Category:NHK東京 "wikilink") [Category:日本放送協会の歴史](https://ja.wikipedia.org/wiki/Category:日本放送協会の歴史 "wikilink") [Category:NHKの番組の歴史](https://ja.wikipedia.org/wiki/Category:NHKの番組の歴史 "wikilink") [Category:日本の放送史](https://ja.wikipedia.org/wiki/Category:日本の放送史 "wikilink") [Category:1956年開設の博物館](https://ja.wikipedia.org/wiki/Category:1956年開設の博物館 "wikilink") [Category:1968年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:1968年竣工の日本の建築物 "wikilink")
 
 1.
 2.  [会長会見資料](http://www.nhk.or.jp/pr/keiei/shiryou/kaichou.html)

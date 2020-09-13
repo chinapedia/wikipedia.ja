@@ -122,7 +122,7 @@
 
   - [大怪獣激闘 ガメラ対バルゴン COMIC VERSION](http://www.kadokawa.co.jp/product/200309000214/) - KADOKAWA
 
-[Category:漫画作品_た](https://ja.wikipedia.org/wiki/Category:漫画作品_た "wikilink") [Category:ガメラ](https://ja.wikipedia.org/wiki/Category:ガメラ "wikilink") [Category:オセアニアを舞台とした作品](https://ja.wikipedia.org/wiki/Category:オセアニアを舞台とした作品 "wikilink") [Category:神奈川県を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:神奈川県を舞台とした漫画作品 "wikilink") [Category:怪獣を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:怪獣を題材とした漫画作品 "wikilink") [Category:映画を原作とする漫画作品](https://ja.wikipedia.org/wiki/Category:映画を原作とする漫画作品 "wikilink")
+[Category:ガメラ](https://ja.wikipedia.org/wiki/Category:ガメラ "wikilink") [Category:漫画作品_た](https://ja.wikipedia.org/wiki/Category:漫画作品_た "wikilink") [Category:2003年の漫画](https://ja.wikipedia.org/wiki/Category:2003年の漫画 "wikilink") [Category:書き下ろし漫画作品](https://ja.wikipedia.org/wiki/Category:書き下ろし漫画作品 "wikilink") [Category:映画を原作とする漫画作品](https://ja.wikipedia.org/wiki/Category:映画を原作とする漫画作品 "wikilink") [Category:怪獣を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:怪獣を題材とした漫画作品 "wikilink") [Category:オセアニアを舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:オセアニアを舞台とした漫画作品 "wikilink") [Category:神奈川県を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:神奈川県を舞台とした漫画作品 "wikilink")
 
 1.  同書1頁において、「映画「[大怪獣決闘 ガメラ対バルゴン](../Page/大怪獣決闘_ガメラ対バルゴン.md "wikilink")」[1966年](../Page/1966年.md "wikilink")（脚本/[高橋二三](../Page/高橋二三.md "wikilink")）より」と明記されている。
 2.  同書「あとがき」264頁。

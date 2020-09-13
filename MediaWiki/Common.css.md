@@ -1462,3 +1462,12 @@ div.columns-2 div.column {
 `   position: relative;`
 
 }
+
+/\* 履歴や本文で長い文字列を折り返せない問題の解消 \*/
+
+1.  bodyContent {
+
+`   word-wrap: break-word;`
+`   overflow-wrap: break-word;`
+
+}

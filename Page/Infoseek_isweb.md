@@ -40,4 +40,4 @@
       - [サービス終了のお知らせ - インフォシーク　ユーザサポートからのお知らせ - 楽天ブログ（Blog）](https://plaza.rakuten.co.jp/usersupport/diary/201104210000/)(2011.4)
   - [インフォシークの無料HPサービス「iswebライト」サービス終了　ほか](https://internet.watch.impress.co.jp/docs/yajiuma/403946.html) - 2010.11 [やじうまWatch](https://ja.wikipedia.org/wiki/やじうまWatch "wikilink")（[INTERNET Watch](https://ja.wikipedia.org/wiki/INTERNET_Watch "wikilink")）
 
-[Category:楽天](https://ja.wikipedia.org/wiki/Category:楽天 "wikilink") [Category:ウェブホスティング](https://ja.wikipedia.org/wiki/Category:ウェブホスティング "wikilink")
+[Category:楽天グループの歴史](https://ja.wikipedia.org/wiki/Category:楽天グループの歴史 "wikilink") [Category:ウェブホスティング](https://ja.wikipedia.org/wiki/Category:ウェブホスティング "wikilink")

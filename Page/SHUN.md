@@ -20,6 +20,7 @@
 
   - 幼少期よりダンスを始め、多数のコンテストに出場する。16歳からRAPに興味を持ち始め、同世代を代表するリリックを数々と生み出し、トラックメイキングも手掛ける。
   - 現在も[MCバトル](https://ja.wikipedia.org/wiki/MCバトル "wikilink")やライブ活動を行っている。
+  - [吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")所属の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")・[ダブルヒガシ](https://ja.wikipedia.org/wiki/ダブルヒガシ "wikilink")は高校の同級生であり、[出囃子を提供している](https://ja.wikipedia.org/wiki/出囃子_\(お笑い\) "wikilink")。
 
 ## ディスコグラフィ
 

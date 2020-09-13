@@ -102,12 +102,12 @@
 <tr class="even">
 <td><p>4th</p></td>
 <td><p>1994年10月19日</p></td>
-<td><p><strong>Kozmic blue</strong></p></td>
+<td><p><strong>kozmic blue</strong></p></td>
 <td><p>TODT-3304</p></td>
 <td><ol>
-<li>Kozmic blue</li>
+<li>kozmic blue</li>
 <li>Steppin Out</li>
-<li>Kozmic blue(インストゥルメンタル)</li>
+<li>kozmic blue(インストゥルメンタル)</li>
 </ol></td>
 <td><p>オリコン最高68位、年間588位</p></td>
 </tr>
@@ -326,7 +326,7 @@
 <td><ol>
 <li>Peace In 246</li>
 <li>Too Much Trouble Town</li>
-<li>Kozmic blue</li>
+<li>kozmic blue</li>
 <li>No-No-Boy(Pt 1&amp;2)</li>
 <li>Ain’t,No Talkin’ To Love</li>
 <li>Share Little Love</li>

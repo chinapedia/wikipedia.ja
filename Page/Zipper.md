@@ -27,7 +27,7 @@
 ### 専属モデル
 
   - [IMALU](https://ja.wikipedia.org/wiki/IMALU "wikilink")\[8\]
-  - 小澤しぇいん\[9\]
+  - [小澤しぇいん](https://ja.wikipedia.org/wiki/小澤しぇいん "wikilink")\[9\]
   - [篠崎こころ](https://ja.wikipedia.org/wiki/篠崎こころ "wikilink")\[10\]
   - [mimmam](https://ja.wikipedia.org/wiki/mimmam "wikilink")\[11\]
   - 佐藤さき\[12\]

@@ -70,15 +70,15 @@ ABCセンター時代の[ベリカード](../Page/ベリカード.md "wikilink")
 
     [探偵\!ナイトスクープ](../Page/探偵!ナイトスクープ.md "wikilink")（隔週金曜日収録）、[上沼恵美子のおしゃべりクッキング](../Page/上沼恵美子のおしゃべりクッキング.md "wikilink")(隔週水曜日収録)、[角パァ\!](../Page/ますだおかだ角パァ!.md "wikilink")、[ABCお笑い新人グランプリ](../Page/ABCお笑い新人グランプリ.md "wikilink")、映画の[試写会](https://ja.wikipedia.org/wiki/試写会 "wikilink")などを開催。最近は[新婚さんいらっしゃい\!](../Page/新婚さんいらっしゃい!.md "wikilink")の収録（HD収録の為、HD中継車ドライブで収録）も行われたこともある。これは行事等の都合でリサイタルホールが確保出来ない事があるため。
 
-    大淀旧社屋のABCホールは2代目で、初代は大阪市北区[中之島にある](../Page/中之島_\(大阪府\).md "wikilink")、現在の[リサイタルホール](../Page/リサイタルホール.md "wikilink")であった。最終公演者として[LAZY](../Page/レイジー.md "wikilink")。福島新社屋に3代目ABCホールが完成し、稼働を開始した後も暫く稼働していたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月5日](../Page/8月5日.md "wikilink")をもって閉鎖され。
+    大淀旧社屋のABCホールは2代目で、初代は大阪市北区[中之島にある](../Page/中之島_\(大阪府\).md "wikilink")、現在の[リサイタルホール](../Page/リサイタルホール.md "wikilink")であった。最終公演者として[LAZY](../Page/レイジー.md "wikilink")。
 
-    新社屋移転後は、「ナイトスクープ」はAスタジオ、「おしゃべりクッキング」はBスタジオに移行したが、「角パァ\!」は番組自体が終了した。
+    そして福島新社屋に3代目ABCホールが完成し、稼動している。 現社屋移転後、「ナイトスクープ」はAスタジオ、「おしゃべりクッキング」はBスタジオで収録されているが、「角パァ\!」は番組自体が終了した。
 
     [ABC祭り 歌謡パレードと呼ばれる](https://ja.wikipedia.org/wiki/ABC祭り_歌謡パレード "wikilink")[イベント](../Page/イベント.md "wikilink")を行った（番組で放送された）こともあった。
 
   - [大阪タワー](../Page/大阪タワー.md "wikilink")
 
-    朝日放送の電波塔。ラジオ（高石）、テレビ（生駒山）送信所への中継電波を送信をするほか、タクシー、新聞社等の電波中継地点となっていた。
+    朝日放送の電波塔。ラジオ（高石）、テレビ（生駒山）送信所への中継電波を送信するほか、タクシー、新聞社等の電波中継地点となっていた。
 
     地上102メートルのところに2層の展望台があった。
 
@@ -120,6 +120,8 @@ ABCセンター時代の[ベリカード](../Page/ベリカード.md "wikilink")
   - [日産大阪ギャラリー](../Page/日産ギャラリー.md "wikilink")
     旧社屋1階に存在したが、早い時期に閉鎖され、跡地は末期までABCのオフィスとして使用されていた。「[日産ミュージック・ギャラリー ポップ対歌謡曲](../Page/ポップ対歌謡曲.md "wikilink")」はここから生放送されていた。
 
+    旧社屋内には日産ギャラリーの他にも、いくつか店舗が入居していた。
+
 ### ABCセンター外
 
   - [ABCエキスタ](../Page/ABCエキスタ.md "wikilink")
@@ -147,11 +149,13 @@ ABCセンター時代の[ベリカード](../Page/ベリカード.md "wikilink")
 
 ### センター
 
-  - [大阪環状線](../Page/大阪環状線.md "wikilink")・[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")から徒歩15分。
-  - 大阪環状線[福島駅](https://ja.wikipedia.org/wiki/福島駅_\(JR西日本\) "wikilink")、[阪神本線](../Page/阪神本線.md "wikilink")[福島駅からなにわ筋を北に徒歩](https://ja.wikipedia.org/wiki/福島駅_\(阪神\) "wikilink")7分。
+ABCセンターが存在していた当時の情報。[阪急バス](../Page/阪急バス.md "wikilink")は[2020年](../Page/2020年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")の運行をもって廃止となり当地区を通らなくなった\[5\]。
+
+  - [JR](../Page/西日本旅客鉄道.md "wikilink")[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")から徒歩15分。
+  - [大阪環状線](../Page/大阪環状線.md "wikilink")[福島駅](https://ja.wikipedia.org/wiki/福島駅_\(JR西日本\) "wikilink")、[阪神本線](../Page/阪神本線.md "wikilink")[福島駅からなにわ筋を北に徒歩](https://ja.wikipedia.org/wiki/福島駅_\(阪神\) "wikilink")7分。
   - [JR東西線](../Page/JR東西線.md "wikilink") [新福島駅](https://ja.wikipedia.org/wiki/新福島駅 "wikilink")からなにわ筋を北へ徒歩9分。
-  - 大阪駅北口から[阪急バス](../Page/阪急バス.md "wikilink")[18系統](https://ja.wikipedia.org/wiki/阪急バス豊中営業所#加島線 "wikilink") [加島駅](https://ja.wikipedia.org/wiki/加島駅 "wikilink")前・西川行で「大淀南一丁目」下車すぐ。
-      - 「大淀南一丁目」から大阪駅へ戻る場合は[大阪市営バス](../Page/大阪市営バス.md "wikilink")[41号・41A号系統を利用する](https://ja.wikipedia.org/wiki/大阪市営バス中津営業所#41号系統 "wikilink")。これは、阪急バス18系統が大阪駅方面に向かう際に別経路を通るため。
+  - 大阪駅北口から[阪急バス](../Page/阪急バス.md "wikilink")[18系統](https://ja.wikipedia.org/wiki/阪急バス豊中営業所#加島線・阪丹線 "wikilink") [加島駅](https://ja.wikipedia.org/wiki/加島駅 "wikilink")前・西川行で「大淀南一丁目」下車すぐ。
+      - 「大淀南一丁目」から大阪駅へ戻る場合は[大阪市営バス](../Page/大阪市営バス.md "wikilink")（現・[大阪シティバス](../Page/大阪シティバス.md "wikilink")）[41号・41A号系統を利用する](https://ja.wikipedia.org/wiki/大阪市営バス中津営業所#41号系統 "wikilink")。これは、阪急バス18系統が大阪駅方面に向かう際に別経路を通っていたため。
 
 ## 脚注
 
@@ -161,3 +165,4 @@ ABCセンター時代の[ベリカード](../Page/ベリカード.md "wikilink")
 2.  [積水ハウスなど、大阪の旧ホテルプラザ跡地に高層マンション](http://www.nikkei.com/article/DGXLASHD17H44_X10C17A1LDA000/) 日本経済新聞、2017年1月18日
 3.  [大阪・ホテルプラザ跡地にタワマン　積水ハウスが計画](http://www.asahi.com/articles/ASK1L516JK1LPLFA004.html) 朝日新聞、2017年1月20日
 4.
+5.

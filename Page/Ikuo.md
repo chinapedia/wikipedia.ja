@@ -218,6 +218,7 @@
   - [Grooving Myself\! @ blog](http://blog.livedoor.jp/ikuo_190/)
 
   -
+  -
 [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:島根県出身の人物](https://ja.wikipedia.org/wiki/Category:島根県出身の人物 "wikilink") [Category:日本のベーシスト](https://ja.wikipedia.org/wiki/Category:日本のベーシスト "wikilink") [Category:日本の男性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ロック歌手 "wikilink") [Category:日本の男性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ポップ歌手 "wikilink") [Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:ヴィジュアル系ミュージシャン](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系ミュージシャン "wikilink")
 
 1.

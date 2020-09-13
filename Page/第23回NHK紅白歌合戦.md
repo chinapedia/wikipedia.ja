@@ -52,7 +52,7 @@
       - 白組:[アイ・ジョージ](../Page/アイ・ジョージ.md "wikilink")・[坂本九](../Page/坂本九.md "wikilink")・[千昌夫](../Page/千昌夫.md "wikilink")・[デューク・エイセス](../Page/デューク・エイセス.md "wikilink")・[はしだのりひことクライマックス](https://ja.wikipedia.org/wiki/はしだのりひことクライマックス "wikilink")・[ヒデとロザンナ](../Page/ヒデとロザンナ.md "wikilink")・[舟木一夫](../Page/舟木一夫.md "wikilink")
   - [青い三角定規](../Page/青い三角定規.md "wikilink")はメインボーカルが女声（[西口久美子](../Page/西口久美子.md "wikilink")）であったが、白組から出場した。
   - [沢田研二](../Page/沢田研二.md "wikilink")は、[ザ・タイガース](../Page/ザ・タイガース.md "wikilink")時代はファンの問題行動が咎められて落選していたが、ソロとなって初紅白。グループでの出場は[第40回](../Page/第40回NHK紅白歌合戦.md "wikilink")（[1989年](../Page/1989年.md "wikilink")）まで待つことになる。
-  - この年、フォーク界で絶大な人気を獲得した[よしだたくろう](https://ja.wikipedia.org/wiki/よしだたくろう "wikilink")にオファーがあったが、「年末はグアムに旅行に行くので」という返答で辞退。その後も吉田は辞退を続けており、[第46回](../Page/第46回NHK紅白歌合戦.md "wikilink")（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）に「1回限り」の条件付きで出演した。
+  - この年、フォーク界で絶大な人気を獲得した[よしだたくろう](https://ja.wikipedia.org/wiki/よしだたくろう "wikilink")にオファーがあったが、「年末はグアムに旅行に行くので」という返答で辞退。
   - この年から、選考の最終過程で有識者数名による「ご意見を伺う会」の意見を聴取する仕組みができる。この過程で、新人の[麻丘めぐみ](../Page/麻丘めぐみ.md "wikilink")が原案から外され、ビリー・バンバンと青い三角定規が代わって選出された。
 
 ### 演奏
@@ -153,7 +153,7 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=23)
   - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1972年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1972年のテレビ番組_\(日本\) "wikilink") [Category:1972年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1972年のラジオ番組_\(日本\) "wikilink") [Category:1972年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1972年の日本の音楽 "wikilink") [Category:1972年12月](https://ja.wikipedia.org/wiki/Category:1972年12月 "wikilink")

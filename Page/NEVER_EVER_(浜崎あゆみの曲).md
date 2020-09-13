@@ -9,7 +9,7 @@
 
 初登場1位、累計売上75.7万枚。
 
-同月末に初のベストアルバム「[A BEST](../Page/A_BEST.md "wikilink")」を発売しているが、本作と前作「[Evolution](../Page/Evolution_\(浜崎あゆみの曲\).md "wikilink")」は未収録。
+同月末に初のベストアルバム『[A BEST](../Page/A_BEST.md "wikilink")』を発売しているが、本作と前作「[evolution](../Page/Evolution_\(浜崎あゆみの曲\).md "wikilink")」は収録されていない。
 
 [JT](https://ja.wikipedia.org/wiki/JT "wikilink")「[桃の天然水](../Page/桃の天然水.md "wikilink")」以来、1年半ぶりに飲料水CM（[キリンビバレッジ](../Page/キリンビバレッジ.md "wikilink")「[サプリ](../Page/サプリ_\(飲料\).md "wikilink")」）に起用され本人出演のタイアップ曲となった。
 

@@ -53,7 +53,7 @@
 
 <!-- end list -->
 
-  - [ドレス](https://ja.wikipedia.org/wiki/ドレス "wikilink")
+  - [ドレス](../Page/ドレス.md "wikilink")
 
 <!-- end list -->
 

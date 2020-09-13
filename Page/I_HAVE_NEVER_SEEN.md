@@ -29,7 +29,7 @@
 
   - オリジナル『**[GENIUS 2000](../Page/GENIUS_2000.md "wikilink")**』
       - 表記されていないが、アルバムヴァージョンで収録。
-  - ベスト『**[LOVE ENHANCED {{Color](https://ja.wikipedia.org/wiki/LOVE_ENHANCED_single_collection "wikilink")**』(new vocal & arrangement)
+  - ベスト『**[LOVE ENHANCED ♥ single collection](https://ja.wikipedia.org/wiki/LOVE_ENHANCED_♥_single_collection "wikilink")**』(new vocal & arrangement)
       - 楽曲を[リアレンジ](../Page/編曲.md "wikilink")&再録して収録。
   - ベスト『**[Finally](https://ja.wikipedia.org/wiki/Finally_\(安室奈美恵のアルバム\) "wikilink")**』（Disc-1）
       - 楽曲を再録・ニューレコーディングで収録。

@@ -1,13 +1,14 @@
 > この記事は[Birthday eve 〜誰よりも早い愛の歌〜](https://ja.wikipedia.org/wiki/Birthday_eve_〜誰よりも早い愛の歌〜)から翻訳されています。
 
 
-「**Birthday eve〜誰よりも早い愛の歌〜**」（バースデイ・イヴ だれよりもはやいあいのうた）は、[DEEN](../Page/DEEN.md "wikilink")の24枚目の[シングル](../Page/シングル.md "wikilink")。PVには麻生久美子が出演している。
+「**Birthday eve〜誰よりも早い愛の歌〜**」（バースデイ・イヴ だれよりもはやいあいのうた）は、[DEEN](../Page/DEEN.md "wikilink")の24枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 収録トラックス
 
 1.  Birthday eve〜誰よりも早い愛の歌〜
       -
         「哀しみの向こう側」以来、約2年振りのオリジナルシングル。「DEEN's AOR」作品第1弾。山根から「[小田和正](../Page/小田和正.md "wikilink")さんの『ラブストーリーは突然に』のようなギターの出だしを。」とのリクエストから、田川がギターアレンジをした。かねてよりメンバーが尊敬していた沼澤尚とのセッションを果たす。
+        PVには[麻生久美子](https://ja.wikipedia.org/wiki/麻生久美子 "wikilink")が出演している。
 2.  Break it\!
       -
         アルバム「pray」にも収録されている楽曲。ギターのカッティングから始まる。
@@ -49,4 +50,4 @@
 
   - [TBS系](../Page/TBSテレビ.md "wikilink")「[チューボーですよ\!](../Page/チューボーですよ!.md "wikilink")」挿入歌
 
-[Category:DEENの楽曲](https://ja.wikipedia.org/wiki/Category:DEENの楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:池森秀一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:池森秀一が制作した楽曲 "wikilink") [Category:BMG_JAPANの楽曲](https://ja.wikipedia.org/wiki/Category:BMG_JAPANの楽曲 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink") [Category:TBSの主題歌](https://ja.wikipedia.org/wiki/Category:TBSの主題歌 "wikilink")
+[Category:DEENの楽曲](https://ja.wikipedia.org/wiki/Category:DEENの楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:池森秀一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:池森秀一が制作した楽曲 "wikilink") [Category:BMG_JAPANの楽曲](https://ja.wikipedia.org/wiki/Category:BMG_JAPANの楽曲 "wikilink") [Category:誕生日を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:誕生日を題材とした楽曲 "wikilink") [Category:TBSの主題歌](https://ja.wikipedia.org/wiki/Category:TBSの主題歌 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")

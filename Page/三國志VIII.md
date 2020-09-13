@@ -23,6 +23,10 @@
 
 災害として、大雪、洪水、いなごがあり、その被害を受けた都市は実際にグラフィックが変化するといった特徴がある。また、賊も登場するが、[黄巾賊だけは勢力自体が賊であるためか](../Page/黄巾の乱.md "wikilink")、支配都市には賊が登場することがない。ただし、この設定はシナリオ開始時に黄巾賊であった勢力のみが対象で、たとえば[何進](../Page/何進.md "wikilink")の跡を[張角](../Page/張角.md "wikilink")が継いでも賊が登場しなくなるということはない。また、同じく賊であるはずの区星や[張燕](../Page/張燕.md "wikilink")などの勢力には普通に賊が登場する。
 
+### 戦術キャンペーンシナリオモード
+
+PKで新たに追加されたモード\[2\]でステージクリア型の戦闘を楽しむモード。
+
 ## 新システム
 
 ### 放浪軍
@@ -49,7 +53,7 @@
 
 なおPKの廉価版も[2007年](../Page/2007年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink")に発売された。ソースネクスト販売の通常版（以下、無印）とPKの組み合わせではユーザー登録はできないが、コーエー版PK（[CD-ROM](../Page/CD-ROM.md "wikilink")版）と違ってインストール時点であらかじめ[パッチ](../Page/パッチ.md "wikilink")が適用済みになっている。ダウンロード販売版にはPKは適用できない。
 
-PSP版の定番シリーズは、誤って[UMDの内容を](../Page/ユニバーサル・メディア・ディスク.md "wikilink")「[三國志VII](../Page/三國志VII.md "wikilink")」で販売してしまったことから、販売を一時停止しパッケージの回収・交換が行われた。\[2\]
+PSP版の定番シリーズは、誤って[UMDの内容を](../Page/ユニバーサル・メディア・ディスク.md "wikilink")「[三國志VII](../Page/三國志VII.md "wikilink")」で販売してしまったことから、販売を一時停止しパッケージの回収・交換が行われた。\[3\]
 
 ## シナリオ
 
@@ -61,7 +65,7 @@ PSP版の定番シリーズは、誤って[UMDの内容を](../Page/ユニバー
 
 さらにPS2、PSP版では、全武将が一堂に会した「英雄集結」シナリオが追加された。年代設定は271年になっているが、実際の271年の状況とは関係なく、全武将を集結させた[架空](../Page/架空.md "wikilink")シナリオである。このシナリオのみ[寿命](../Page/寿命.md "wikilink")の設定がない。
 
-また、[257年](https://ja.wikipedia.org/wiki/257年 "wikilink")の[諸葛誕](../Page/諸葛誕.md "wikilink")反乱のシナリオや[264年](https://ja.wikipedia.org/wiki/264年 "wikilink")に[鄧艾や](../Page/トウ艾.md "wikilink")[鍾会](../Page/鍾会.md "wikilink")が反乱を起こしたというifシナリオがユーザーズページから[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")できる。これは通常であればファンクラブに入っていないとダウンロードできないが、[DVD-ROM](https://ja.wikipedia.org/wiki/DVD-ROM "wikilink")版では最初から付属している。
+また、[257年](https://ja.wikipedia.org/wiki/257年 "wikilink")の[諸葛誕](../Page/諸葛誕.md "wikilink")反乱のシナリオや[264年](https://ja.wikipedia.org/wiki/264年 "wikilink")に[鄧艾](https://ja.wikipedia.org/wiki/鄧艾 "wikilink")や[鍾会](../Page/鍾会.md "wikilink")が反乱を起こしたというifシナリオがユーザーズページから[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")できる。これは通常であればファンクラブに入っていないとダウンロードできないが、[DVD-ROM](https://ja.wikipedia.org/wiki/DVD-ROM "wikilink")版では最初から付属している。
 
 ## 脚注
 
@@ -74,4 +78,5 @@ PSP版の定番シリーズは、誤って[UMDの内容を](../Page/ユニバー
 [Category:三國志シリーズ](https://ja.wikipedia.org/wiki/Category:三國志シリーズ "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Macintosh用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Macintosh用ゲームソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:PlayStation_Portable用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable用ソフト "wikilink") [Category:2001年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2001年のコンピュータゲーム "wikilink")
 
 1.  PSP版公式サイトでは「総勢711人」と表記しているが、プレイヤーが作成可能な新武将100人を合わせた数である。
-2.
+2.  [GAMECITY コーエーカタログ](https://www.gamecity.ne.jp/products/products/ee/Rlsan8pk.htm) - 2020年7月11日閲覧
+3.

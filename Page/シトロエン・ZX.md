@@ -35,6 +35,6 @@ ZXは[PSAグループ](https://ja.wikipedia.org/wiki/PSAグループ "wikilink")
 
 ## 脚注
 
-[Category:シトロエンの車種](https://ja.wikipedia.org/wiki/Category:シトロエンの車種 "wikilink") [Category:ハッチバック](https://ja.wikipedia.org/wiki/Category:ハッチバック "wikilink") [Category:ステーションワゴン](https://ja.wikipedia.org/wiki/Category:ステーションワゴン "wikilink") [Category:ラリーカー](https://ja.wikipedia.org/wiki/Category:ラリーカー "wikilink")
+[Category:シトロエンの車種](https://ja.wikipedia.org/wiki/Category:シトロエンの車種 "wikilink") [Category:ハッチバック](https://ja.wikipedia.org/wiki/Category:ハッチバック "wikilink") [Category:ステーションワゴン](https://ja.wikipedia.org/wiki/Category:ステーションワゴン "wikilink") [Category:クロスカントリーラリーカー](https://ja.wikipedia.org/wiki/Category:クロスカントリーラリーカー "wikilink")
 
 1.  [ZXラリーレイド](http://www.citroenorigins.jp/ja/cars/zx-rallye-raid) - シトロエン日本公式サイト。

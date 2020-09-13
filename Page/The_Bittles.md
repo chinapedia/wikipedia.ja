@@ -42,4 +42,4 @@
   - [岡田徹](../Page/岡田徹.md "wikilink")
   - [天才ビットくん](https://ja.wikipedia.org/wiki/天才ビットくん "wikilink")
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:天才てれびくん](https://ja.wikipedia.org/wiki/Category:天才てれびくん "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:天才てれびくん](https://ja.wikipedia.org/wiki/Category:天才てれびくん "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink") [Category:2004年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に解散した音楽グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink")

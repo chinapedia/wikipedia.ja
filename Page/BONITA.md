@@ -43,7 +43,7 @@
 
 ## 脚注
 
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:テレビ朝日の番組発のグループ](https://ja.wikipedia.org/wiki/Category:テレビ朝日の番組発のグループ "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:テレビ朝日の番組発のグループ](https://ja.wikipedia.org/wiki/Category:テレビ朝日の番組発のグループ "wikilink")
 
 1.  『K-POPSTAR Vol.4』、マガジンランド、2001年12月、P18。
 2.

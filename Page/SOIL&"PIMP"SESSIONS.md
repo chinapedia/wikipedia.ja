@@ -11,7 +11,7 @@
 
 2007年に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の大型[音楽フェスティバル](../Page/音楽祭.md "wikilink")「[グラストンベリー・フェスティバル](../Page/グラストンベリー・フェスティバル.md "wikilink")」に初出演。日本人アーティストとしては[CORNELIUS](https://ja.wikipedia.org/wiki/小山田圭吾 "wikilink")、[東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")に続く3組目で、出演したJAZZ WORLDステージはそれまでの日本人アーティストが出演してきた中では最大規模のステージだった\[8\]。
 
-2016年の[リオデジャネイロオリンピック](https://ja.wikipedia.org/wiki/リオデジャネイロオリンピック "wikilink")[閉会式のフラッグハンドオーバーセレモニーでは](https://ja.wikipedia.org/wiki/リオデジャネイロオリンピックの閉会式#五輪旗の引き継ぎ式 "wikilink")、使用された楽曲「ちちんぷいぷい (Manipulate the time)」の演奏を担当\[9\]。
+2016年の[リオデジャネイロオリンピック](https://ja.wikipedia.org/wiki/リオデジャネイロオリンピック "wikilink")[閉会式のフラッグハンドオーバーセレモニーでは](https://ja.wikipedia.org/wiki/2016年リオデジャネイロオリンピックの閉会式#オリンピック旗授受 "wikilink")、使用された楽曲「ちちんぷいぷい (Manipulate the time)」の演奏を担当\[9\]。
 
 また、丈青、秋田、みどりんの3人はSOILとは別に[ピアノ](../Page/ピアノ.md "wikilink")トリオ「J.A.M」としても活動している\[10\]。
 
@@ -241,7 +241,7 @@
 
   - [椎名純平](../Page/椎名純平.md "wikilink") - バックバンドのEvil Vibrationsにタブゾンビが参加。椎名を中心に結成されたバンド・[Dezille Brothersをタブゾンビと元晴がサポート](https://ja.wikipedia.org/wiki/Dezille_Brothers "wikilink")\[32\]。
 
-  - [椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink") - 現行メンバーで活動する前のアマチュア時代からの付き合いで、メジャーデビューする際にした「ボーカルが必要なときは最初に私とやろうね」という約束を守って「[カリソメ乙女 (DEATH JAZZ ver.)](../Page/カリソメ乙女.md "wikilink")」でコラボレーションを実現\[33\]。SOILのライブにゲストアーティストとして出演。アルバム『[三文ゴシップ](https://ja.wikipedia.org/wiki/三文ゴシップ "wikilink")』にSOILとJ.A.Mが参加。アルバム『6』と『CIRCLES』にゲストボーカルとして迎える。J.A.Mやみどりんがソロのライブをサポート。[リオデジャネイロオリンピックの閉会式](https://ja.wikipedia.org/wiki/リオデジャネイロオリンピックの閉会式 "wikilink")のフラッグハンドオーバーセレモニーで音楽監督の椎名の楽曲を演奏。
+  - [椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink") - 現行メンバーで活動する前のアマチュア時代からの付き合いで、メジャーデビューする際にした「ボーカルが必要なときは最初に私とやろうね」という約束を守って「[カリソメ乙女 (DEATH JAZZ ver.)](../Page/カリソメ乙女.md "wikilink")」でコラボレーションを実現\[33\]。SOILのライブにゲストアーティストとして出演。アルバム『[三文ゴシップ](https://ja.wikipedia.org/wiki/三文ゴシップ "wikilink")』にSOILとJ.A.Mが参加。アルバム『6』と『CIRCLES』にゲストボーカルとして迎える。J.A.Mやみどりんがソロのライブをサポート。[2016年リオデジャネイロオリンピックの閉会式](https://ja.wikipedia.org/wiki/2016年リオデジャネイロオリンピックの閉会式 "wikilink")のフラッグハンドオーバーセレモニーで音楽監督の椎名の楽曲を演奏。
 
   - [ジェイミー・カラム](https://ja.wikipedia.org/wiki/ジェイミー・カラム "wikilink") - イギリスBBCのイベント「Electric Proms 07」に「SOIL&"PIMP"SESSIONS with Jamie Cullum」として出演。アルバム『6』にゲストボーカルとして迎える。
 
@@ -1893,7 +1893,7 @@ VICL-64766</p></td>
 
   - 04月11日 - SYNCHRONICITY'15 -10th Anniversary\!\!-
   - 04月26日 - ARABAKI ROCK FEST.15
-  - 04月27日 - 映画「[ジェームス・ブラウン](../Page/ジェームス・ブラウン.md "wikilink")〜最高の魂(ソウル)を持つ男〜」公開記念 JB Tribute LIVE
+  - 04月27日 - 映画「[ジェームス・ブラウン 最高の魂を持つ男](../Page/ジェームス・ブラウン_最高の魂を持つ男.md "wikilink")」公開記念 JB Tribute LIVE
   - 04月29日 - 豊洲野音CARNIVAL
   - 05月10日 - RHYMESTER Presents 人間交差点 2015
   - 05月31日 - 揖斐川ワンダーピクニック
@@ -1978,7 +1978,7 @@ VICL-64766</p></td>
   -
   -
   -
-  - [社長のBlog「社長室」THE PRESIDENT ROOM](http://soilpimp.exblog.jp/)
+  - [社長のBlog「社長室」THE PRESIDENT ROOM](https://soilpimp.exblog.jp/)
 
   - [タブゾンビブログ「TABU ZOMBIE」by Ameba](https://ameblo.jp/tabuzombie/)
 

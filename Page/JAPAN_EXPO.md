@@ -19,7 +19,7 @@
 
 ## 第3回
 
-  - 博覧会：[信州博覧会](https://ja.wikipedia.org/wiki/信州博覧会 "wikilink")
+  - 博覧会：[信州博覧会](../Page/信州博覧会.md "wikilink")
   - 開催時：[1993年](../Page/1993年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink") - [9月26日](../Page/9月26日.md "wikilink")
   - 開催地：[松本平広域公園](https://ja.wikipedia.org/wiki/松本平広域公園 "wikilink")（[長野県](../Page/長野県.md "wikilink")[松本市](../Page/松本市.md "wikilink")）
   - 入場者：合計240万人
@@ -40,7 +40,7 @@
 
 ## 第6回
 
-  - 博覧会：[世界・焱の博覧会](https://ja.wikipedia.org/wiki/世界・炎の博覧会 "wikilink")
+  - 博覧会：[世界・焱の博覧会](https://ja.wikipedia.org/wiki/世界・焱の博覧会 "wikilink")
   - 開催時：[1996年](../Page/1996年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink") - [10月13日](../Page/10月13日.md "wikilink")
   - 開催地： [佐賀県](../Page/佐賀県.md "wikilink")[有田町](../Page/有田町.md "wikilink")
   - 入場者：合計255万人

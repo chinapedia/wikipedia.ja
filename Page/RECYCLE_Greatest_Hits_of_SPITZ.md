@@ -24,7 +24,7 @@
 ## 収録曲
 
 1.  **[君が思い出になる前に](../Page/君が思い出になる前に.md "wikilink") (5:05)**
-    作詞・作曲:[草野正宗](https://ja.wikipedia.org/wiki/草野正宗 "wikilink") / 編曲:[笹路正徳](../Page/笹路正徳.md "wikilink")&[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")
+    作詞・作曲:[草野正宗](../Page/草野マサムネ.md "wikilink") / 編曲:[笹路正徳](../Page/笹路正徳.md "wikilink")&[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")
       -
         7thシングル（1993年10月25日）。
 2.  **[空も飛べるはず](../Page/空も飛べるはず.md "wikilink") (4:30)**

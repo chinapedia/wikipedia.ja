@@ -135,8 +135,8 @@ WindowsXP,Vista等のソフトウエアをWindows Mobile上でそのまま実行
   - メールクライアント
       - nPOP（メーラ、POP3,SMTP,SSL対応）[6](http://www.nakka.com/soft/npop/),[7](http://pocketgames.jp/blog/?page_id=118)
   - ユーティリティ
-      - GSFinder+（ファイラー）[8](http://page.freett.com/todamitsu/GSFinder.htm), [9](http://www.geocities.jp/gsfinder_wm5/)
-      - File Explorer Extension（ファイラー）[10](http://www.geocities.jp/hou_ming_2/)
+      - GSFinder+（ファイラー）[8](http://page.freett.com/todamitsu/GSFinder.htm), [9](https://web.archive.org/20071015230331/http://www.geocities.jp/gsfinder_wm5/)
+      - File Explorer Extension（ファイラー）[10](https://web.archive.org/20060207141625/http://www.geocities.jp/hou_ming_2/)
       - Spb Backup（バックアップ、有償）
       - Battery Monitor（バッテリ残量表示）[11](http://d.hatena.ne.jp/KOTETU/00000111/p1)
       - PQz II（キーカスタマイズ）[12](http://www.nicque.com/PQz/)

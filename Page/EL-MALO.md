@@ -215,7 +215,7 @@
 <li>Muddy moon delight</li>
 <li>Homebound blues</li>
 <li>Time</li>
-<li>CALM</li>
+<li>CALM (凪)</li>
 <li>Books</li>
 <li>CLOVER</li>
 <li>The balld of the nite,The clock all quiet</li>
@@ -462,6 +462,6 @@ TRCP-022X:期間限定プライス盤</p></td>
   - [柚木隆一郎twitter](https://twitter.com/yunoki2226ryury)
   - [會田茂一公式サイト](http://www.aidagon.com/)
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:トイズファクトリーのアーティスト](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのアーティスト "wikilink") [Category:渋谷系](https://ja.wikipedia.org/wiki/Category:渋谷系 "wikilink") [Category:1991年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1991年に結成した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")
+[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:トイズファクトリーのアーティスト](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのアーティスト "wikilink") [Category:渋谷系](https://ja.wikipedia.org/wiki/Category:渋谷系 "wikilink") [Category:1991年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1991年に結成した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")
 
 1.  [MUSIC JAPAN](http://www.nhk.or.jp/mj/backnum/index.html)

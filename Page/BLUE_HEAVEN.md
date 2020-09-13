@@ -3,7 +3,7 @@
 
 「**BLUE HEAVEN**」（ブルー・ヘヴン）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の楽曲。自身の40作目の[シングル](../Page/シングル.md "wikilink")として、[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")から[8cmCDで](https://ja.wikipedia.org/wiki/8センチCD "wikilink")[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[11月6日](../Page/11月6日.md "wikilink")に発売された。
 
-[2005年](../Page/2005年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")には12cmCDで再発売されている。
+[2005年](../Page/2005年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")には12cmCDで再発売されている。[2014年](../Page/2014年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")からはダウンロード配信、[2019年](../Page/2019年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")からはストリーミング配信が開始されている\[1\]\[2\]。
 
 ## 背景
 
@@ -71,3 +71,6 @@
   - [BLUE HEAVEN](https://southernallstars.jp/mob/titl/titlShw.php?site=SASJP&ima=5550&cd=VICL-36040&search_cate=S) - SOUTHERN ALL STARS OFFICIAL SITE
 
 [Category:サザンオールスターズの楽曲](https://ja.wikipedia.org/wiki/Category:サザンオールスターズの楽曲 "wikilink") [Category:ケンタッキーフライドチキンのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ケンタッキーフライドチキンのコマーシャルソング "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:桑田佳祐が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐が制作した楽曲 "wikilink") [Category:色を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:色を題材とした楽曲 "wikilink") [Category:天国を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:天国を題材とした楽曲 "wikilink") [Category:失恋を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:失恋を題材とした楽曲 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
+
+1.  [サザン、全266曲を世界111ヶ国で配信](https://www.oricon.co.jp/news/2046030/full/) オリコン 2014年12月17日配信, 2020年6月4日閲覧
+2.  [サザン関連全972曲 サブスク一斉解禁 メンバーソロ曲も対象に](https://www.oricon.co.jp/news/2151435/full/) オリコン 2019年12月20日配信, 2019年12月20日閲覧

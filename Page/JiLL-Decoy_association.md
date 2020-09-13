@@ -1012,6 +1012,6 @@ VIZL-732</p></td>
 21.
 22. <http://podcast.yahoo.co.jp/official/artist08/rss.xml>
 23. [Heat Phonics](http://zip-fm.co.jp/heat/)
-24. [Heat Phonicsブログ](http://web.archive.org/web/20080217022857/http://zip-fm.co.jp/blog/heat_phonics/)（2008年2月17日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+24. [Heat Phonicsブログ](https://web.archive.org/web/20080217022857/http://zip-fm.co.jp/blog/heat_phonics/)（2008年2月17日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 25.
 26.

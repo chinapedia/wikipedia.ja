@@ -141,7 +141,7 @@
 
 野球ch板の規制緩和後は一時の勢いからは減少したが、利用者が大きく減ることはなく実質的に第二の野球chのような状態が続き、野球ネタを中心に様々なスレッドが立てられていたが、2011年11月20日、[日本シリーズ第](https://ja.wikipedia.org/wiki/2011年の日本シリーズ "wikilink")7戦の実況が過熱する中で板情報が消失。11月23日に復旧するまでは利用者の大半はお祭りchに移動していた。2012年にはステマ騒動の煽りを受け、[まとめサイト](../Page/まとめサイト.md "wikilink")に取り上げられる機会が増えたことにより、利用者が増加。 2013年現在は主に野球の話題で盛り上がる2ch屈指の書き込み数と勢いを誇り、2014年4月にはこれまでの1日の書き込み数1位だった[ニュー速VIP](https://ja.wikipedia.org/wiki/ニュー速VIP "wikilink")を抜いて書き込み数が1位となったが、同時に犯罪予告や個人情報の開示・晒しあげ行為、など、問題のある投稿も相次いでおり、2ちゃんねる運営によるIP開示や書き込み規制などの対策が定期的に行われてはいるものの一向に収まる気配がなく、モラル低下が懸念されている。
 
-特に[第一東京弁護士会](https://ja.wikipedia.org/wiki/第一東京弁護士会 "wikilink")に所属する弁護士を対象とした\[1\]炎上騒動は2012年の発生以来殺害予告だけでも100万回を超え\[2\]\[3\]、[KRSWLocker](https://ja.wikipedia.org/wiki/KRSWLocker "wikilink")と呼ばれる[ランサムウェア](https://ja.wikipedia.org/wiki/ランサムウェア "wikilink")を用いた攻撃、2015年の[グーグルマップ改ざん事件](https://ja.wikipedia.org/wiki/グーグルマップ改ざん事件 "wikilink")や2016年の[同時爆破予告事件](https://ja.wikipedia.org/wiki/爆破予告 "wikilink")、2017年の[小林麻央親族成り済ましツイートなど](https://ja.wikipedia.org/wiki/小林麻央#成り済ましツイート "wikilink")、この板の派生した当該弁護士の中傷板ユーザーからありとあらゆる嫌がらせが行われ、逮捕者も出た。第一東京弁護士会も、「弁護士に対するこの種の業務妨害行為は、弁護士制度に対する重大な挑戦であり、当会は断固抗議する」と表明を出している\[4\]\[5\]\[6\]。
+特に[第一東京弁護士会](https://ja.wikipedia.org/wiki/第一東京弁護士会 "wikilink")に所属する弁護士を対象とした\[1\] 炎上騒動は2012年の発生以来殺害予告だけでも100万回を超え\[2\]\[3\]、[KRSWLocker](https://ja.wikipedia.org/wiki/KRSWLocker "wikilink")と呼ばれる[ランサムウェア](https://ja.wikipedia.org/wiki/ランサムウェア "wikilink")を用いた攻撃、2015年の[グーグルマップ改ざん事件](https://ja.wikipedia.org/wiki/グーグルマップ改ざん事件 "wikilink")や2016年の[同時爆破予告事件](https://ja.wikipedia.org/wiki/爆破予告 "wikilink")、2017年の[小林麻央親族成り済ましツイートなど](https://ja.wikipedia.org/wiki/小林麻央#成り済ましツイート "wikilink")、この板の派生した当該弁護士の中傷板ユーザーからありとあらゆる嫌がらせが行われ、逮捕者も出た。第一東京弁護士会も、「弁護士に対するこの種の業務妨害行為は、弁護士制度に対する重大な挑戦であり、当会は断固抗議する」と表明を出している\[4\]\[5\]\[6\]。
 
 この騒動とはまったく別に2018年5月頃から[特定の弁護士への「大量懲戒請求騒動」の報道を受け](https://ja.wikipedia.org/wiki/懲戒請求#特定の弁護士への大量懲戒請求 "wikilink")、騒動の元となった[ネット右翼](https://ja.wikipedia.org/wiki/ネット右翼 "wikilink")で「遊べる」と判断した利用者たちは、[ネット右翼](https://ja.wikipedia.org/wiki/ネット右翼 "wikilink")の思想を嫌う[嫌儲板](https://ja.wikipedia.org/wiki/嫌儲板 "wikilink")の利用者とともに中韓に対する批判的な意見を持つネット右翼が多い[ハングル板](https://ja.wikipedia.org/wiki/ハングル板 "wikilink")へと押し寄せた。 ハングル板では彼らにより動画サイト[youtube](https://ja.wikipedia.org/wiki/youtube "wikilink")上の主に中韓に対するヘイト表現が含まれた動画を通報する活動や([差別動画大量通報騒動](https://ja.wikipedia.org/wiki/差別動画大量通報騒動 "wikilink"))、ネット右翼を批判し馬鹿にするスレッドが立てられるなど、一時なんＪ民や嫌儲民がハングル板を占拠した状態となった。 現在もハングル板では継続的な通報作業や雑談が行われている。
 
@@ -452,7 +452,7 @@ BSデジタル放送における、民放テレビ局が運営する無料チャ
 
 [AMラジオ](https://ja.wikipedia.org/wiki/ラジオ#AM放送（中波放送） "wikilink")、[FMラジオ](https://ja.wikipedia.org/wiki/ラジオ#FM放送（超短波放送） "wikilink")、[短波放送](../Page/短波放送.md "wikilink")、[BSデジタルラジオ](../Page/BSデジタル音声放送.md "wikilink")、[地上デジタルラジオ](../Page/地上デジタル音声放送.md "wikilink")、[CSデジタル音声放送](https://ja.wikipedia.org/wiki/CSデジタル音声放送 "wikilink")、[有線ラジオ放送](../Page/有線ラジオ放送.md "wikilink")のトーク番組、[ネットラジオ](https://ja.wikipedia.org/wiki/ネットラジオ "wikilink")、海外のラジオ等を実況するための板。正式名称は「ラジオ実況@2ch掲示板」。
 
-ラジオというメディアの特性上普段は閑散としている板だが、[アニラジ](../Page/アニラジ.md "wikilink")や[アニソン](https://ja.wikipedia.org/wiki/アニソン "wikilink")特集が放送される際には一時的に過密状態になる。
+ラジオというメディアの特性上普段は閑散としている板だが、[アニラジ](../Page/アニラジ.md "wikilink")や[アニソン特集が放送される際には一時的に過密状態になる](https://ja.wikipedia.org/wiki/アニメソング "wikilink")。
 
 #### 板の歴史
 

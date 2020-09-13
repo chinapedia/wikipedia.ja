@@ -58,8 +58,8 @@
 ## 外部リンク
 
   - [D\!アンビシャスホームページ](http://www.stv.ne.jp/tv/d-ambitious/index.html)
-  - [Ｄ！アンビシャス(ＳＴＶ札幌テレビ放送)](http://ur0.link/pfTH)（[Facebook](../Page/Facebook.md "wikilink")）
 
+  -
 [Category:札幌テレビ放送の番組](https://ja.wikipedia.org/wiki/Category:札幌テレビ放送の番組 "wikilink") [Category:日本のドキュメンタリー番組](https://ja.wikipedia.org/wiki/Category:日本のドキュメンタリー番組 "wikilink") [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink")
 
 1.  『[ハイ\!STVです](../Page/ハイ!STVです.md "wikilink")』が放送される毎月第2日曜日は15分繰り上げ

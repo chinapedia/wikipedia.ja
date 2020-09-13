@@ -23,7 +23,8 @@ LiveStationを経由して、[世界](../Page/世界.md "wikilink")中から[イ
 
 ## 日本国内での展開
 
-日本ではケーブルテレビや衛星放送で24時間放送を実施しており、日本語への通訳放送も行っている。[地上波](../Page/地上波.md "wikilink")でも[チバテレビで平日の](../Page/千葉テレビ放送.md "wikilink")5:30 - 6:00に、三重テレビ(エムツー・072ch)で平日の12:00～12:29に放送、[tvkで平日の](../Page/テレビ神奈川.md "wikilink")6:30 - 7:30に放送。過去には[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・[KBS京都](../Page/京都放送.md "wikilink")・[富山テレビでも放送されていたことがある](../Page/富山テレビ放送.md "wikilink")。 2012年5月から[Dlife](https://ja.wikipedia.org/wiki/Dlife "wikilink")で毎日4:00 - 4:30と8:30 - 9:00に、ハイビジョンで放送されている。
+日本では[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")や[衛星放送で](https://ja.wikipedia.org/wiki/日本における衛星放送#CSデジタル放送 "wikilink")24時間放送を実施しており、日本語への通訳放送も行っている。[地上波](../Page/地上波.md "wikilink")でも[チバテレビで平日の](../Page/千葉テレビ放送.md "wikilink")5:30 - 6:00に、[三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")(エムツー・072ch)で平日の12:00～12:29に放送、[tvkで平日の](../Page/テレビ神奈川.md "wikilink")6:30 - 7:30に放送している。
+過去には[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・[KBS京都](../Page/京都放送.md "wikilink")・[富山テレビで放送されており](../Page/富山テレビ放送.md "wikilink")、2012年5月から2020年3月まで[Dlife](https://ja.wikipedia.org/wiki/Dlife "wikilink")でも放送されていた。
 
 ## BBCグローバルニュースジャパン
 
@@ -35,9 +36,9 @@ LiveStationを経由して、[世界](../Page/世界.md "wikilink")中から[イ
 
 1992年7月、日商岩井（現在の[双日](../Page/双日.md "wikilink")。[情報技術](../Page/情報技術.md "wikilink")部門は、2000年4月にITXとして分離）の子会社「株式会社サテライトニュース」として設立、2002年3月にBBCワールドワイド・リミテッドの子会社となった。同年10月にBBCワールドワイド・リミテッドからBBCワールド・リミテッド（現BBCグローバルニュース）が分離、その子会社となっている。
 
-現在、平日1日20時間に渡り[日本語](../Page/日本語.md "wikilink")と[イギリス英語](../Page/イギリス英語.md "wikilink")の[2ヶ国語放送](https://ja.wikipedia.org/wiki/2ヶ国語放送 "wikilink")\[5\]を行っている。前述のカウントダウンが行われる後の番組で2ヶ国語放送が行われる場合は、このときにその旨が担当の日本語同時通訳者からアナウンスされる\[6\]。なお、日本でも[LiveStation](https://ja.wikipedia.org/wiki/LiveStation "wikilink")の有料サービスによるインターネットによる視聴が可能だが、通訳サービスは行われていない。
+現在、平日1日20時間に渡り[日本語](../Page/日本語.md "wikilink")と[イギリス英語](../Page/イギリス英語.md "wikilink")の[2ヶ国語放送](https://ja.wikipedia.org/wiki/2ヶ国語放送 "wikilink")を行っている。前述のカウントダウンが行われる後の番組で2ヶ国語放送が行われる場合は、このときにその旨が担当の日本語同時通訳者からアナウンスされる。なお、日本でも[LiveStation](https://ja.wikipedia.org/wiki/LiveStation "wikilink")の有料サービスによるインターネットによる視聴が可能だが、通訳サービスは行われていない。
 
-また、BBCワールドの番組の大半が、ワイドスクリーン（16:9SD）制作となっている関係で、画面サイズ14:9での放送を行っていた。なお、[スカパー\!（東経110度CS放送）については](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")、2012年3月1日から16:9フルサイズ放送となった\[7\]。
+また、BBCワールドの番組の大半が、ワイドスクリーン（16:9SD）制作となっている関係で、画面サイズ14:9での放送を行っていた。なお、[スカパー\!（東経110度CS放送）については](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")、2012年3月1日から16:9フルサイズ放送となった。
 
 日本での国外向けテレビ放送としては、他にも[CNNj](../Page/CNNj.md "wikilink")（CNNの日本向け放送）が挙げられるが、同局が[Kowaなど](../Page/興和.md "wikilink")、日本企業のCMを放送しているのとは対照的に、当局は基本的に日本向けローカルCMの差し替えを行わずに放送しているが、2013年に自局のPRCMに、日本語訳を付けたものを広告枠（ブレイクフィラー）内で放送した事もある。
 
@@ -70,7 +71,7 @@ LiveStationを経由して、[世界](../Page/世界.md "wikilink")中から[イ
       - [6月30日](../Page/6月30日.md "wikilink") - スカパー\!プレミアムサービス光にて[標準画質映像](../Page/標準画質映像.md "wikilink")を終了し、ハイビジョンに全面移行した。
   - [2016年](../Page/2016年.md "wikilink")
       - 12月1日 - スカパー\!プレミアムサービスの衛星一般放送事業者が、[スカパー・ブロードキャスティング](../Page/スカパー・ブロードキャスティング.md "wikilink")から[スカパー・エンターテイメント](../Page/スカパー・エンターテイメント.md "wikilink")に変更。
-  - [2018年](../Page/2018年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink") - [Yahoo\!ニュース](https://ja.wikipedia.org/wiki/Yahoo!ニュース "wikilink")（[Yahoo\! JAPAN](../Page/Yahoo!_JAPAN.md "wikilink")）において、ニュース動画の配信を開始\[8\]\[9\]。
+  - [2018年](../Page/2018年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink") - [Yahoo\!ニュース](https://ja.wikipedia.org/wiki/Yahoo!ニュース "wikilink")（[Yahoo\! JAPAN](../Page/Yahoo!_JAPAN.md "wikilink")）において、ニュース動画の配信を開始\[5\]\[6\]。
 
 ## 主な番組
 
@@ -83,12 +84,17 @@ LiveStationを経由して、[世界](../Page/世界.md "wikilink")中から[イ
       - [BBCワールドニュース・アメリカ](../Page/BBCワールドニュース・アメリカ.md "wikilink")【アメリカ向け】
   - [Click](../Page/クリック_\(テレビ番組\).md "wikilink")
   - [HARD Talk](https://ja.wikipedia.org/wiki/ハード・トーク "wikilink")
+  - BBCニュース([2020年](../Page/2020年.md "wikilink")4月より、BBCニュースチャンネルの英国内向け定時ニュースが一部編成された。)
 
 ## 脚注
 
-<div class="references-small">
+  - 注釈
 
-<references />
+<!-- end list -->
+
+  - 出典
+
+<div class="references-small">
 
 </div>
 
@@ -117,8 +123,5 @@ LiveStationを経由して、[世界](../Page/世界.md "wikilink")中から[イ
 2.
 3.
 4.
-5.  CSアナログ放送時代は[Bモード二重音声という珍しいモードで放送されていた](https://ja.wikipedia.org/wiki/日本における衛星放送#通常画質の送出方式 "wikilink")。
-6.  [ボイスオーバー](../Page/ボイスオーバー.md "wikilink")形式での日本語同時通訳が入る主音声と、原音のままの副音声。平日は深夜と夕方の一部を除いて常時、土曜・日曜は主に午前中と夕方から夜にかけて行われる。なお、CMは全て英語のままで同時通訳は行われない。
-7.  [NHKでイギリスBBCのニュースが流される際は](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")16:9フルサイズで放送されている。
-8.
-9.
+5.
+6.

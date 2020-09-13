@@ -1,7 +1,7 @@
 > この記事は[Memories Offシリーズ](https://ja.wikipedia.org/wiki/Memories_Offシリーズ)から翻訳されています。
 
 
-『**Memories Off シリーズ**』（メモリーズオフシリーズ）は、[恋愛アドベンチャーゲーム及びそれを中心とした](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")[アニメ](../Page/アニメ.md "wikilink")、[小説](../Page/小説.md "wikilink")、[CDなど派生作品を含めたシリーズの総称である](../Page/コンパクトディスク.md "wikilink")。略称は『**メモオフ**』。
+『**Memories Off シリーズ**』（メモリーズオフシリーズ）は、[恋愛アドベンチャーゲーム及びそれを中心とした](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")[アニメ](../Page/アニメ.md "wikilink")、[小説](../Page/小説.md "wikilink")、[CDなど派生作品を含めたシリーズの総称である](../Page/コンパクトディスク.md "wikilink")。略称は『**メモオフ**』\[1\]。
 
 作品名は媒体によって『Memories Off』という[ラテン文字](../Page/ラテン文字.md "wikilink")表記と『メモリーズオフ』という[片仮名](../Page/片仮名.md "wikilink")書きが混在している。シリーズ10年分の歌曲を収録したCD-BOX『Memories Off 10th anniversary PERFECT VOCAL COLLECTION』では、[KIDによって制作された第](../Page/KID_\(ゲームブランド\).md "wikilink")1 - 5作までが『Memories Off』、[5pb.](../Page/5pb..md "wikilink")制作の第6作およびスピンオフ作品が『メモリーズオフ』と使い分けられているため、本項でもそれに倣う。
 
@@ -25,15 +25,15 @@
 
 同じく2005年、再び大学が舞台となった第5作『[Memories Off \#5 とぎれたフィルム](../Page/Memories_Off_5_とぎれたフィルム.md "wikilink")』が発売。新機軸の『メモオフ』を目指した本作品ではサスペンス要素が導入され、恋愛だけでなく友情もテーマとする青春群像劇となった。主人公にもCGと音声が付いたため、プレイヤーは彼に同一化するのでなく中立の視点からドラマを見つめることになり、この点も『\#5』の物語性の強さを表している。一方でシリーズの長期化に伴う作品世界の閉塞化を防ぐため、前作までとの関係性は控えめになっている。
 
-[2006年](../Page/2006年.md "wikilink")にはバレンタインコンサートが開催され、『それから』の後日談『[Memories Off 〜それから again〜](../Page/Memories_Off_〜それから_again〜.md "wikilink")』が発売された。続いて『\#5』の後日談である『[Memories Off \#5 encore](../Page/Memories_Off_5_encore.md "wikilink")』が[2007年](../Page/2007年.md "wikilink")2月22日発売予定と告知されたが、12月1日に債務履行不能となったKIDが[自己破産したため](../Page/破産.md "wikilink")\[1\]、開発は停止し情報は途絶えた。
+[2006年](../Page/2006年.md "wikilink")にはバレンタインコンサートが開催され、『それから』の後日談『[Memories Off 〜それから again〜](../Page/Memories_Off_〜それから_again〜.md "wikilink")』が発売された。続いて『\#5』の後日談である『[Memories Off \#5 encore](../Page/Memories_Off_5_encore.md "wikilink")』が[2007年](../Page/2007年.md "wikilink")2月22日発売予定と告知されたが、12月1日に債務履行不能となったKIDが[自己破産したため](../Page/破産.md "wikilink")\[2\]、開発は停止し情報は途絶えた。
 
 ### サイバーフロント時代
 
-2007年2月2日、[サイバーフロント](../Page/サイバーフロント.md "wikilink")が旧KIDのゲームに関連する全権利を取得し、改めて『\#5 encore』を発売する予定であることを発表\[2\]。約4か月の沈黙の末に、KID時代と同じスタッフによって開発中であることが明かされ、その後は特に支障もなく『\#5 encore』は予定通り7月12日に発売された。
+2007年2月2日、[サイバーフロント](../Page/サイバーフロント.md "wikilink")が旧KIDのゲームに関連する全権利を取得し、改めて『\#5 encore』を発売する予定であることを発表\[3\]。約4か月の沈黙の末に、KID時代と同じスタッフによって開発中であることが明かされ、その後は特に支障もなく『\#5 encore』は予定通り7月12日に発売された。
 
 また7月27日には、いったんそれまでの『メモオフ』に区切りをつけるというコンセプトのもと、『Duet』から『\#5』までKID時代の8タイトルのWindow版をセットにした『[Memories Off History](https://ja.wikipedia.org/wiki/Memories_Off_History "wikilink")』が発売された。
 
-11月30日、KIDの元スタッフが所属する[5pb.](../Page/5pb..md "wikilink")がサイバーフロントより『メモオフ』シリーズを独占的・排他的に利用する権利を取得したことを発表\[3\]。これにより今後の同シリーズに関する企画・開発・販売に係わる全ての業務は5pb.が請負うこととなった。
+11月30日、KIDの元スタッフが所属する[5pb.](../Page/5pb..md "wikilink")がサイバーフロントより『メモオフ』シリーズを独占的・排他的に利用する権利を取得したことを発表\[4\]。これにより今後の同シリーズに関する企画・開発・販売に係わる全ての業務は5pb.が請負うこととなった。
 
 ただし携帯電話サービスだけは例外的に引き続きサイバーフロントが運営しており、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には初の携帯向けオリジナル作品『[Memories Off carta fiorato](https://ja.wikipedia.org/wiki/Memories_Off_carta_fiorato "wikilink")』が配信されたが、[2013年](../Page/2013年.md "wikilink")に同社が解散したため終了した。
 
@@ -41,15 +41,15 @@
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、5pb.最初の『メモオフ』としてリリースされたのは、シリーズ全体としても初の[女性向けゲーム](../Page/乙女ゲーム.md "wikilink")『[ユア・メモリーズオフ〜Girl's Style〜](../Page/ユア・メモリーズオフ〜Girl's_Style〜.md "wikilink")』だった。その後、歴代作品の[PlayStation Portable版リリース開始とともに](../Page/PlayStation_Portable.md "wikilink")、シリーズの「第二期開幕」と評された第6作『[メモリーズオフ6 〜T-wave〜](https://ja.wikipedia.org/wiki/メモリーズオフ6_〜T-wave〜 "wikilink")』が発表された。原点回帰を志向した『T-wave』は『1st』と同じ高校を舞台とし、修羅場展開や登場人物の死といった旧作にまつわる要素をほぼなくして、学園生活を楽しめるように意識している。
 
-『1st』から10年が経過した[2009年](../Page/2009年.md "wikilink")には、**Memories Off 10th anniversary** と題したキャンペーンが組まれた。Web上にはテーマ曲や壁紙を配信する専用サイトが開設され\[4\]、『[井ノ上奈々のメモオフラジオ](https://ja.wikipedia.org/wiki/井ノ上奈々のメモオフラジオ "wikilink")』でも番組の題材として取り上げた。そのほか[DreamParty 2009秋への出展や](../Page/DreamParty.md "wikilink")、関連書籍の刊行、CD-BOXの限定受注生産が行われた。
+『1st』から10年が経過した[2009年](../Page/2009年.md "wikilink")には、**Memories Off 10th anniversary** と題したキャンペーンが組まれた。Web上にはテーマ曲や壁紙を配信する専用サイトが開設され\[5\]、『[井ノ上奈々のメモオフラジオ](https://ja.wikipedia.org/wiki/井ノ上奈々のメモオフラジオ "wikilink")』でも番組の題材として取り上げた。そのほか[DreamParty 2009秋への出展や](../Page/DreamParty.md "wikilink")、関連書籍の刊行、CD-BOXの限定受注生産が行われた。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、第7作『[メモリーズオフ ゆびきりの記憶](https://ja.wikipedia.org/wiki/メモリーズオフ_ゆびきりの記憶 "wikilink")』が発売された。10周年の区切りがついたこともあってロゴやキャラクターデザインを一新し、新規ユーザーが近づきやすいようにナンバリングのない題名にした。明るい雰囲気だった『6』との差別化のため、緊迫した場面が多く盛り込まれている。
 
-[2014年](../Page/2014年.md "wikilink")には **Memories Off 15th anniversary** のロゴが作られた。コミックマーケット86では『[メモリーズオフ6 Next Relation](https://ja.wikipedia.org/wiki/メモリーズオフ6_Next_Relation "wikilink")』のサブキャラクターだった嘉神川ノエルの成長した姿をあしらった商品が販売され、新作の登場をほのめかしている\[5\]。
+[2014年](../Page/2014年.md "wikilink")には **Memories Off 15th anniversary** のロゴが作られた。コミックマーケット86では『[メモリーズオフ6 Next Relation](https://ja.wikipedia.org/wiki/メモリーズオフ6_Next_Relation "wikilink")』のサブキャラクターだった嘉神川ノエルの成長した姿をあしらった商品が販売され、新作の登場をほのめかしている\[6\]。
 
-[2017年](../Page/2017年.md "wikilink")に『[メモリーズオフ -Innocent Fille-](https://ja.wikipedia.org/wiki/メモリーズオフ_-Innocent_Fille- "wikilink")』の製作が発表された。\[6\]。
+[2017年](../Page/2017年.md "wikilink")に『[メモリーズオフ -Innocent Fille-](https://ja.wikipedia.org/wiki/メモリーズオフ_-Innocent_Fille- "wikilink")』の製作が発表された。\[7\]。
 
-2018年12月、ファンディスクが、翌2019年3月28日に発売されることが発売された。\[7\]
+2018年12月、ファンディスクが、翌2019年3月28日に発売されることが発売された。\[8\]
 
 ## シリーズ作品
 
@@ -110,7 +110,7 @@
     シリーズ第1作。
     智也・唯笑・信、澄空学園高校2年生。詩音は9月、かおるは10月にそれぞれ転入してくる。みなも、澄空学園高校1年生。小夜美、母の代理で澄空学園購買部に勤務。
     今は亡き彩花との思い出を引きずったままの智也が、やがて新しい恋と出逢うまでを描く物語。以下の作品では唯笑がヒロインとなった前提で語られる。
-    【2nd】11月に澄空学園の文化祭が開かれる。健、信によって悪名高い「カキコオロギ\[8\]」を食べさせられる。希・望、みなもの描いた風景画を鑑賞する。12月には、健とほたるが交際を始める。
+    【2nd】11月に澄空学園の文化祭が開かれる。健、信によって悪名高い「カキコオロギ\[9\]」を食べさせられる。希・望、みなもの描いた風景画を鑑賞する。12月には、健とほたるが交際を始める。
     【6】鈴、喫茶店でアルバイト中。
     【ゆびきり】織姫、澄空学園高校3年生。
 
@@ -308,4 +308,5 @@
 5.
 6.
 7.
-8.  [かき氷](../Page/かき氷.md "wikilink")に[コオロギ](../Page/コオロギ.md "wikilink")の粉末をまぶしたもの。『6』の時代に至るまで、伝説的ないたずらとして澄空学園で語り継がれている。
+8.
+9.  [かき氷](../Page/かき氷.md "wikilink")に[コオロギ](../Page/コオロギ.md "wikilink")の粉末をまぶしたもの。『6』の時代に至るまで、伝説的ないたずらとして澄空学園で語り継がれている。

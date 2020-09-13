@@ -86,8 +86,8 @@
 18歳未満は閲覧禁止。
 
   - [公式サイト（2014年9月号から）](http://bug-bug.jp/)
-
-:\*
+      -
+      - [BugBug.NEWS](https://bugbug.news/)
 
 [Category:アダルトゲーム雑誌](https://ja.wikipedia.org/wiki/Category:アダルトゲーム雑誌 "wikilink") [Category:1992年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1992年創刊の雑誌 "wikilink")
 

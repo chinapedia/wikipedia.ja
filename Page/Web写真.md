@@ -32,11 +32,12 @@
   - [ガーリーフォト](../Page/ガーリーフォト.md "wikilink")
   - [Flickr](../Page/Flickr.md "wikilink")
   - [Instagram](https://ja.wikipedia.org/wiki/Instagram "wikilink")
+  - [Pixelfed](../Page/Pixelfed.md "wikilink")
 
 ## 外部リンク
 
   - [web写真の現在](http://webphotographynow.g.hatena.ne.jp/n-291/)
-  - [web写真界隈](http://dc.watch.impress.co.jp/cda/webphoto_backnumber/)　
+  - [web写真界隈](https://dc.watch.impress.co.jp/cda/webphoto_backnumber/)　
 
 
 

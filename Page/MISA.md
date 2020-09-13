@@ -51,6 +51,7 @@
 ## 外部リンク
 
   - [MISAの公式Instagram](https://www.instagram.com/misa_official_33/) misa_official_33
+  - [MISAのYouTubeチャンネル](https://www.youtube.com/channel/UCuUFOltAG_7UxZOa1wr31kA?view_as=subscriber)MISA_official_33
   - [MISAの公式ブログ](http://misanese.cocolog-nifty.com/) いらっしゃいませ　ミサネーゼ
   - [Misa official home page](https://web.archive.org/web/20090327083954/http://emimusic.jp/dancemania/misa/) EMI Music Japanによる公式サイト(アーカイブ）
 

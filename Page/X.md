@@ -21,7 +21,7 @@
 
   - [伊](../Page/イタリア語.md "wikilink")・[仏](https://ja.wikipedia.org/wiki/フランス語 "wikilink")・[独](../Page/ドイツ語.md "wikilink")・[蘭](../Page/オランダ語.md "wikilink")・[洪](../Page/ハンガリー語.md "wikilink")：イクス
 
-  - [エス](../Page/エスペラント.md "wikilink")：イクソ
+  - （イクソ）
 
   - （エキス）
 
@@ -73,7 +73,7 @@
   - [化学](../Page/化学.md "wikilink")では、[ハロゲン](https://ja.wikipedia.org/wiki/ハロゲン "wikilink")。任意のハロゲンの[元素記号](../Page/元素記号.md "wikilink")として使う。例: HX = [ハロゲン化水素](https://ja.wikipedia.org/wiki/ハロゲン化水素 "wikilink")。
   - [野球](../Page/野球.md "wikilink")で、一部または全部が省略された[イニング](../Page/イニング.md "wikilink")をXと表記する。
   - [アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")で、[スプリットエンド](https://ja.wikipedia.org/wiki/スプリットエンド "wikilink")の俗称。
-  - ギリシャ文字[Χ](../Page/Χ.md "wikilink")（キー/ヒー）の代用。特によく使われる例として、[クリスマス](../Page/クリスマス.md "wikilink") (Christmas) をXmas（またはX'mas）と表記することがある。[ギリシャ語](https://ja.wikipedia.org/wiki/ギリシャ語 "wikilink")で[キリスト](../Page/キリスト.md "wikilink") () の頭字のΧである。
+  - ギリシャ文字[Χ](../Page/Χ.md "wikilink")（キー/ヒー）の代用。特によく使われる例として、[クリスマス](../Page/クリスマス.md "wikilink") (Christmas) を「Xmas」と表記することがある。[ギリシャ語](https://ja.wikipedia.org/wiki/ギリシャ語 "wikilink")で[キリスト](../Page/キリスト.md "wikilink") () の頭字のΧである。
   - [映画](../Page/映画.md "wikilink")などの[レイティング](../Page/レイティング.md "wikilink")で、18歳未満の観覧禁止の表示（関連項目:[映画のレイティングシステム](../Page/映画のレイティングシステム.md "wikilink")、[英語版記事"X-rated"](https://ja.wikipedia.org/wiki/:en:X-rated "wikilink")）
   - "ex-" で始まる単語の略語として使われる。
       - EXtra（特別）。例：XL（服のサイズで特別大きいもの）。

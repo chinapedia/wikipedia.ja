@@ -15,7 +15,7 @@
 
 「よさこい系」「YOSAKOI系」の祭は、以下のような[フォーマット](https://ja.wikipedia.org/wiki/フォーマット "wikilink")を踏襲している。
 
-  - 鳴り物：手に鳴子（なるこ）などを持って、鳴らしながら踊る。
+  - 鳴り物：手に[鳴子](https://ja.wikipedia.org/wiki/鳴子_\(音具\) "wikilink")（なるこ）などを持って、鳴らしながら踊る。
   - 曲：地元の伝統[民謡](../Page/民謡.md "wikilink")、又は[ご当地ソング](../Page/ご当地ソング.md "wikilink")を5分程度にアレンジ（[ジャズダンス](https://ja.wikipedia.org/wiki/ジャズダンス "wikilink")・[ディスコ](../Page/ディスコ.md "wikilink")・[ヒップホップ](../Page/ヒップホップ.md "wikilink")風が多い）した曲に合わせて踊る。
   - 衣装：おもに和風にアレンジされたデザインのチームオリジナルの衣装を着る。曲中の演出として連続早着替え（衣装チェンジ）等の工夫を凝らす団体も存在する。
   - 化粧：[歌舞伎](../Page/歌舞伎.md "wikilink")・[日本舞踊](../Page/日本舞踊.md "wikilink")・[バレエ](../Page/バレエ.md "wikilink")・等の[舞台化粧や](../Page/厚化粧.md "wikilink")、そのアレンジ、フェースペインティング、等、各自で工夫する。
@@ -215,6 +215,8 @@
 
 ## 全国のよさこい祭り一覧
 
+日本全国で大小約200以上のYOSAKOIがある。
+
   - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")
       - 6月中旬：[YOSAKOIソーラン祭り](../Page/YOSAKOIソーラン祭り.md "wikilink")（[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")、[ソーラン節](../Page/ソーラン節.md "wikilink")）
 
@@ -354,7 +356,7 @@
   - [インドネシア](../Page/インドネシア.md "wikilink")
       - 7月下旬：[SURABAYA YOSAKOI FESTIVAL](https://ja.wikipedia.org/wiki/SURABAYA_YOSAKOI_FESTIVAL "wikilink")（[スラバヤ](../Page/スラバヤ.md "wikilink")）
 
-日本全国で大小約200以上のYOSAKOIがある。
+## 脚注
 
 ## 関連項目
 
@@ -362,8 +364,6 @@
   - [よさこい](../Page/よさこい.md "wikilink")
   - [ハナヤマタ](https://ja.wikipedia.org/wiki/ハナヤマタ "wikilink") - YOSAKOIを題材とした漫画作品。
   - [ヤンキー文化](https://ja.wikipedia.org/wiki/ヤンキー文化 "wikilink") - 小説「YOSAKOIソーラン娘 札幌が踊る夏」でもYOSAKOIのネガティブ要素として触れている\[21\]。
-
-## 脚注
 
 ## 外部リンク
 

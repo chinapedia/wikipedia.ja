@@ -53,7 +53,7 @@
 ## 審査員
 
   - [森光子](../Page/森光子.md "wikilink")（女優）
-  - [清原和博](../Page/清原和博.md "wikilink")（[西武ライオンズ内野手](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")）
+  - [清原和博](../Page/清原和博.md "wikilink")（[西武ライオンズ内野手](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")、この年の[パ・リーグ](https://ja.wikipedia.org/wiki/パシフィック・リーグ "wikilink")[新人王で](../Page/最優秀新人_\(日本プロ野球\).md "wikilink")、チームの日本一に貢献）
   - [森下洋子](../Page/森下洋子.md "wikilink")（バレリーナ）
   - [雁屋哲](https://ja.wikipedia.org/wiki/雁屋哲 "wikilink")（劇画作家。漫画『[美味しんぼ](../Page/美味しんぼ.md "wikilink")』の原作者）
   - [黒柳朝](https://ja.wikipedia.org/wiki/黒柳朝 "wikilink")（エッセイスト。翌年上期の連続テレビ小説『[チョッちゃん](../Page/チョッちゃん.md "wikilink")』の原作者）
@@ -149,7 +149,7 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=37)
   - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1986年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1986年のテレビ番組_\(日本\) "wikilink") [Category:1986年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1986年のラジオ番組_\(日本\) "wikilink") [Category:1986年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1986年の日本の音楽 "wikilink") [Category:1986年12月](https://ja.wikipedia.org/wiki/Category:1986年12月 "wikilink") [Category:加山雄三](https://ja.wikipedia.org/wiki/Category:加山雄三 "wikilink")

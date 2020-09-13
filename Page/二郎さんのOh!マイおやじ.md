@@ -19,7 +19,7 @@
   - 名古屋放送（現・[名古屋テレビ放送](../Page/名古屋テレビ放送.md "wikilink")）★
   - [岡山放送](../Page/岡山放送.md "wikilink")（当時の愛称はテレビ岡山）★
   - [瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")★
-  - [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink") - NETテレビ製作『[ジャンボ尾崎](https://ja.wikipedia.org/wiki/ジャンボ尾崎 "wikilink")のチャレンジゴルフ』の後番組として放送。
+  - [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink") - NETテレビ製作『[ジャンボ尾崎のチャレンジゴルフ](../Page/尾崎将司.md "wikilink")』の後番組として放送。
   - [九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")★
   - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink") - 火曜18:00-18:30に放送。
 

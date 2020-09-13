@@ -192,8 +192,8 @@
 
   - [サンプラザ中野](../Page/サンプラザ中野くん.md "wikilink")・[パッパラー河合](../Page/パッパラー河合.md "wikilink")（[爆風スランプ](../Page/爆風スランプ.md "wikilink")）（1989年4月 - 1990年3月）
   - [浅香唯](https://ja.wikipedia.org/wiki/浅香唯 "wikilink")（1990年4月 - 1993年3月）
-  - [佐藤竹善](../Page/佐藤竹善.md "wikilink")（[Sing Like Talking](https://ja.wikipedia.org/wiki/Sing_Like_Talking "wikilink")）（1993年4月 - 1994年3月）
-  - [モダンチョキチョキズ](../Page/モダンチョキチョキズ.md "wikilink")（Sing Like Talkingがアルバムレコーディングのため渡英していた間のピンチヒッターとして登場）
+  - [佐藤竹善](../Page/佐藤竹善.md "wikilink")（[SING LIKE TALKING](https://ja.wikipedia.org/wiki/SING_LIKE_TALKING "wikilink")）（1993年4月 - 1994年3月）
+  - [モダンチョキチョキズ](../Page/モダンチョキチョキズ.md "wikilink")（SING LIKE TALKINGがアルバムレコーディングのため渡英していた間のピンチヒッターとして登場）
 
 **金曜日**
 

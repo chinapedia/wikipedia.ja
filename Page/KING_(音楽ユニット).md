@@ -6,13 +6,13 @@
 ## メンバー
 
   - AYAKA
-    [原口彩歌](https://ja.wikipedia.org/wiki/原口彩歌 "wikilink")（旧 脇口彩歌）。1988年2月9日生まれ。リーダー。
+    原口彩歌（旧 脇口彩歌）。1988年2月9日生まれ。リーダー。
   - MARIYA
     [伊澤麻璃也](https://ja.wikipedia.org/wiki/伊澤麻璃也 "wikilink")。1988年3月2日生まれ。
   - AYANO
     [郡司あやの](../Page/郡司あやの.md "wikilink")。1988年5月24日生まれ。
   - SAYA
-    [山丸佐夜](https://ja.wikipedia.org/wiki/山丸佐夜 "wikilink")。1988年7月23日生まれ。
+    山丸佐夜。1988年7月23日生まれ。
 
 ### 旧メンバー
 
@@ -112,4 +112,4 @@
 
   - \- KING公式サイト
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")
+[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink")

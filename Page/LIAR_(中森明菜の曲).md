@@ -1,7 +1,7 @@
 > この記事は[LIAR \(中森明菜の曲\)](https://ja.wikipedia.org/wiki/LIAR_\(中森明菜の曲\))から翻訳されています。
 
 
-「**LIAR**」（ライアー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の楽曲。この楽曲は彼女の23枚目の[シングル](../Page/シングル.md "wikilink")として、1989年4月25日にワーナー・パイオニア（現：[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）よりリリースされた ([EP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): 06L7-4070, [CT](../Page/コンパクトカセット.md "wikilink"): 09L5-4070, [8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink"): 09L3-4070)。
+「**LIAR**」（ライアー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の楽曲。この楽曲は彼女の23枚目の[シングル](../Page/シングル.md "wikilink")として、[1989年](../Page/1989年.md "wikilink")4月25日にワーナー・パイオニア（現：[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）よりリリースされた ([EP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): 06L7-4070, [CT](../Page/コンパクトカセット.md "wikilink"): 09L5-4070, [8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink"): 09L3-4070)。
 
 ## 背景
 
@@ -9,7 +9,7 @@
 
 シングル盤「LIAR」の[B面として発表された](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")「Blue On Pink」は、[三浦徳子](../Page/三浦徳子.md "wikilink")の作詞に[国安わたる](../Page/国安わたる.md "wikilink")が作曲し、[若草恵](../Page/若草恵.md "wikilink")が編曲を手掛けた楽曲である\[9\]。同曲は、『アジア太平洋音楽祭』、[テレビ朝日系](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』（1989年5月26日）\[10\]、[フジテレビ系](../Page/フジネットワーク.md "wikilink")『[夜のヒットスタジオDELUXE](https://ja.wikipedia.org/wiki/夜のヒットスタジオ#夜のヒットスタジオDELUXE "wikilink")』（1989年6月21日）\[11\]といったテレビ番組で歌唱された。
 
-1989年7月9日、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列『第8回[メガロポリス歌謡祭](https://ja.wikipedia.org/wiki/メガロポリス歌謡祭 "wikilink")』ポップス入賞作品、及び[プレゼンター](../Page/プレゼンター.md "wikilink")として当番組へ生出演し、「LIAR」を披露。ところが、それから僅か2日後の同年7月11日に中森は自殺未遂事件を起こした為、その後およそ1年間歌手活動を休止する\[12\]。
+1989年7月9日、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列『第8回[メガロポリス歌謡祭](https://ja.wikipedia.org/wiki/メガロポリス歌謡祭 "wikilink")』ポップス入賞作品、及び[プレゼンター](../Page/プレゼンター.md "wikilink")として当番組へ生出演し、「LIAR」を披露。ところが、それから僅か2日後の同年7月11日に中森は自殺未遂を起こした為、その後およそ1年間歌手活動を休止する\[12\]。
 
 ## 批評
 
@@ -21,25 +21,31 @@
 
 ## 収録曲
 
-## クレジット
+### 規格
 
-  - [Photo](../Page/撮影.md "wikilink") by 塚田和徳\[19\]
-
-## 再発盤
-
-  - 1998年11月26日 - [12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): WPC6-8680\[20\]
-  - 2008年11月12日 - [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")\[21\]\[22\]
+  - 1998年11月26日 - [12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): WPC6-8680\[19\]
+  - 2008年11月12日 - [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")\[20\]\[21\]
   - 2014年6月18日 - 12cmCD, [Singles Box 1982-1991の一枚として](https://ja.wikipedia.org/wiki/Singles_Box_1982-1991 "wikilink")
 
-## 収録作品
+## クレジット
+
+  - [Photo](../Page/撮影.md "wikilink") by 塚田和徳\[22\]
+
+## 収録アルバム
+
+**LIAR**
 
   - 『[BEST III](../Page/BEST_III.md "wikilink")』\[23\]\[24\]
 
-## カバー
+**Blue On Pink**
+
+  - 『BEST III』
+
+## カバーしたアーティスト
 
   - [いとうりな](https://ja.wikipedia.org/wiki/いとうりな "wikilink") - 2010年7月7日のアルバム『Hey-Say』にてカバー。
 
-## 参照
+## 脚注
 
 ## 外部リンク
 

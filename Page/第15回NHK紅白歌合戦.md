@@ -35,7 +35,7 @@
 | [西田佐知子](../Page/西田佐知子.md "wikilink")(4)                    | [東京ブルース](../Page/東京ブルース_\(西田佐知子の曲\).md "wikilink")                                |
 | [こまどり姉妹](../Page/こまどり姉妹.md "wikilink")(4)                  | 女の恋                                                                               |
 | [島倉千代子](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")(8) | ふたりだけの太陽                                                                          |
-| [江利チエミ](../Page/江利チエミ.md "wikilink")(12)                   | 木曽節                                                                               |
+| [江利チエミ](../Page/江利チエミ.md "wikilink")(12)                   | [木曽節](https://ja.wikipedia.org/wiki/木曽節 "wikilink")                               |
 | [ペギー葉山](../Page/ペギー葉山.md "wikilink")(11)                   | [ラ・ノビア](https://ja.wikipedia.org/wiki/ラ・ノビア "wikilink")                           |
 | [弘田三枝子](https://ja.wikipedia.org/wiki/弘田三枝子 "wikilink")(3) | [アレキサンダーズ・ラグタイム・バンド](https://ja.wikipedia.org/wiki/アレキサンダーズ・ラグタイム・バンド "wikilink") |
 | [青山和子](../Page/青山和子.md "wikilink")(初)                      | [愛と死をみつめて](https://ja.wikipedia.org/wiki/愛と死をみつめて#レコード "wikilink")                |
@@ -127,7 +127,7 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=15)
   - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1964年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1964年のテレビ番組_\(日本\) "wikilink") [Category:1964年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1964年のラジオ番組_\(日本\) "wikilink") [Category:1964年の音楽](https://ja.wikipedia.org/wiki/Category:1964年の音楽 "wikilink") [Category:1964年12月](https://ja.wikipedia.org/wiki/Category:1964年12月 "wikilink")

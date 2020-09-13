@@ -11,6 +11,8 @@
 
 2014年8月のライブおよび自身のfacebookにて浅田信一が再結成を発表した。
 
+SMILEデビュー25周年記念ライブ「2525SMILE」を2020年7月に行う予定であったが、新型コロナウイルスの影響により翌年4月に延期となった。
+
 ## ディスコグラフィー
 
 ### シングル
@@ -394,13 +396,11 @@ SRBL-1103:DVD</p></td>
 
 ## 外部リンク
 
-  - [アサシンネット](http://www.asashin.net/)
+  - [アサシンネット](https://www.asashin.net/)
 
-  - [asadashinichi blog](http://asadashinichi.cocolog-nifty.com/blog/)
+  -
+  - [達也ブログ（PLUP MAGAZINE）](https://pulp.hamazo.tv/)
 
-  - [達也ブログ（PLUP MAGAZINE）](http://pulp.hamazo.tv/)
-
-  - [一平ブログ（ippei's music therapy）](http://m-k-t-i-p-p-e-i.cocolog-nifty.com/blog/)
-
+  -
   -
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:1995年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1995年に結成した音楽グループ "wikilink") [Category:2004年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に解散した音楽グループ "wikilink") [Category:2014年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2014年に再結成した音楽グループ "wikilink")

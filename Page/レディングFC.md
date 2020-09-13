@@ -79,11 +79,12 @@
 | 2016-17 | チャンピオン                                                                    | 46                                   | 26                                                              | 7                                                            | 13    |
 | 2017-18 | チャンピオン                                                                    | 46                                   | 10                                                              | 14                                                           | 22    |
 | 2018-19 | チャンピオン                                                                    | 46                                   | 10                                                              | 17                                                           | 19    |
-| 2019-20 | チャンピオン                                                                    | 46                                   |                                                                 |                                                              |       |
+| 2019-20 | チャンピオン                                                                    | 46                                   | 15                                                              | 11                                                           | 20    |
+| 2020-21 | チャンピオン                                                                    | 46                                   |                                                                 |                                                              |       |
 
 ## 現所属メンバー
 
-  - [2019年](../Page/2019年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")現在\[1\]
+  - 2019年10月2日現在\[1\]
 
 ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Zimbabwe.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Nigeria.svg "wikilink"))
 
@@ -231,7 +232,7 @@
 
   - [シェーン・ロング](https://ja.wikipedia.org/wiki/シェーン・ロング "wikilink") 2005-2011
 
-  - [薛琦鉉](../Page/薛ギ鉉.md "wikilink") 2006-2007
+  - [薛琦鉉](https://ja.wikipedia.org/wiki/薛琦鉉 "wikilink") 2006-2007
 
 ## 脚注
 

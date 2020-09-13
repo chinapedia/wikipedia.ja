@@ -16,8 +16,7 @@
   -
   -
   -
-  -
-  - Pandemic: What You Need To Know
+  -   - \[1\]
 
   - [ジス・ウィーク](../Page/ジス・ウィーク.md "wikilink")
 
@@ -28,8 +27,15 @@
 ## 主なジャーナリスト
 
   - [ジョージ・ステファノプロス](../Page/ジョージ・ステファノプロス.md "wikilink")
-  - [クリスティアン・アマンプール](https://ja.wikipedia.org/wiki/クリスティアン・アマンプール "wikilink")
-  - [デヴィッド・ミュアー](https://ja.wikipedia.org/wiki/デヴィッド・ミュアー "wikilink")
+  - [デヴィッド・ミュアー](https://ja.wikipedia.org/wiki/:en:David_Muir "wikilink")
+  - [ロビン・ロバーツ](https://ja.wikipedia.org/wiki/:en:Robin_Roberts_\(newscaster\) "wikilink")
+  - [マイケル・ストラハン](https://ja.wikipedia.org/wiki/:en:Michael_Strahan "wikilink")
+  - [ダン・ハリス](https://ja.wikipedia.org/wiki/:en:Dan_Harris_\(journalist\) "wikilink")
+  - [エイミー・ロバーツ](https://ja.wikipedia.org/wiki/:en:Amy_Robach "wikilink")
+  - [バイロン・ピット](https://ja.wikipedia.org/wiki/:en:Byron_Pitts "wikilink")
+  - [ジュジュ・チャン](https://ja.wikipedia.org/wiki/:en:Juju_Chang "wikilink")
+  - [トム・ラーマス](https://ja.wikipedia.org/wiki/:en:Tom_Llamas "wikilink")
+  - [リンジー・デービス](https://ja.wikipedia.org/wiki/:en:Linsey_Davis "wikilink")
 
 <!-- end list -->
 
@@ -40,12 +46,15 @@
   - [ピーター・ジェニングス](../Page/ピーター・ジェニングス.md "wikilink")
   - [チャールズ・ギブソン](../Page/チャールズ・ギブソン.md "wikilink")
   - バーバラ・ウォルターズ
+  - [クリスティアン・アマンプール](https://ja.wikipedia.org/wiki/クリスティアン・アマンプール "wikilink")
 
 ## インターネット利用
 
 インターネットで「ナイトライン」などを視聴する有料サービスの実施や（現在は全て無料配信）、2004年には24時間放送「ABC News Now」がスタート（地上デジタル放送でも視聴可能）。
 
 2005年からは[ポッドキャスティング](https://ja.wikipedia.org/wiki/ポッドキャスティング "wikilink")サービスを開始、2006年からは[ビデオポッドキャスト](https://ja.wikipedia.org/wiki/ビデオポッドキャスト "wikilink")も開始した。
+
+## 脚注
 
 ## 関連項目
 
@@ -56,10 +65,10 @@
   - [NHK BS1](../Page/NHK_BS1.md "wikilink")
   - [ABCニュースシャワー](../Page/ABCニュースシャワー.md "wikilink")
 
-## 脚注
-
 ## 外部リンク
 
   - [ABC News](https://abcnews.go.com/)
 
 [Category:アメリカ合衆国のメディア](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のメディア "wikilink") [Category:アメリカ合衆国のテレビ制作会社](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビ制作会社 "wikilink") [Category:ABC](https://ja.wikipedia.org/wiki/Category:ABC "wikilink")
+
+1.  2020年3月まではGMA3: Strahan, Sara & Kekeを放送していたが、新型コロナウイルスの影響で同時間帯をPandemic:What You Need To Knowに変更、同年6月からはGMA3: What You Need To Knowと変更している。

@@ -101,6 +101,8 @@
 
 ## 外部リンク
 
+  - GOCCI（[@gocci_funkhawk](https://www.instagram.com/gocci_funkhawk/)）-[Instagram](https://ja.wikipedia.org/wiki/Instagram "wikilink")
+
   -
   -
 [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")

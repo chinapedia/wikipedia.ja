@@ -7,7 +7,7 @@
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月1日](../Page/11月1日.md "wikilink")の[東京MXテレビ開局に危機感を持ったTVKが](../Page/東京メトロポリタンテレビジョン.md "wikilink")、社運をかけてスタートさせた生ワイドショー。「[東京NEWS](../Page/東京NEWS.md "wikilink")」の12時間には及ばないが、6時間45分というぶち抜き編成を行い、在京メディアをも驚かせた。キャッチフレーズは「**きょう見新神（きょうみしんしん）・地元コネクション**」。「東京NEWS」の「映像記者」に対抗し、「情報LANer」（情報ランナー）という[ビデオジャーナリスト](https://ja.wikipedia.org/wiki/ビデオジャーナリスト "wikilink")チームを組織した。
 
-スタジオは旧放送センター3階の社長室跡地に建てられ（同時に内装工事も実施）、オフィスを見渡せるガラス張りのスタジオとなり、一般公募で「SEAスタジオ」と名付けられた。SEA（海）のほか「SEE」（見える）という意味がある。以後は放送期間に応じて解説してゆく。
+この番組を開始するにあたり、新たなスタジオが旧放送センター3階の社長室跡地に設けられた。オフィスを見渡せるガラス張りのスタジオで、背景となる3階フロアもスタジオ新設と同時に改装された。スタジオ名称は一般公募で「SEAスタジオ」と名付けられた。SEA（海）のほか「SEE」（見える）という意味がある。以後は放送期間に応じて解説してゆく。
 
 ### 1995.10-1996.3
 
@@ -21,15 +21,15 @@
 
 **アシスタント**
 
-  - [草野ふみえ](https://ja.wikipedia.org/wiki/草野ふみえ "wikilink")（月-金）
+  - 草野ふみえ（月-金）
 
 **情報LANer**
 
-  - [田口彰男](https://ja.wikipedia.org/wiki/田口彰男 "wikilink")（月）
+  - 田口彰男（月）
   - [坂本紅子](https://ja.wikipedia.org/wiki/坂本紅子 "wikilink")（火）
-  - [高橋麻緒](https://ja.wikipedia.org/wiki/高橋麻緒 "wikilink")（水）（当時tvk情報部ディレクター、主に中華街担当、現[NHK制作局ディレクター](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
+  - 高橋麻緒（水）（当時tvk情報部ディレクター、主に中華街担当、現[NHK制作局ディレクター](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
   - [大谷英典](https://ja.wikipedia.org/wiki/大谷英典 "wikilink")（木）（-1996.2）
-  - [田近朱里](https://ja.wikipedia.org/wiki/田近朱里 "wikilink")（金）（後に報道部に異動）
+  - 田近朱里（金）（後に報道部に異動）
 
 <!-- end list -->
 
@@ -80,18 +80,18 @@
 
 **アシスタント**
 
-  - [草野ふみえ](https://ja.wikipedia.org/wiki/草野ふみえ "wikilink")（月-金）
+  - 草野ふみえ（月-金）
 
 **情報LANer**
 
-  - [田口彰男](https://ja.wikipedia.org/wiki/田口彰男 "wikilink")
+  - 田口彰男
   - [坂本紅子](https://ja.wikipedia.org/wiki/坂本紅子 "wikilink")
-  - [高橋麻緒](https://ja.wikipedia.org/wiki/高橋麻緒 "wikilink")
+  - 高橋麻緒
 
 <!-- end list -->
 
-  - 「[カフェシティヨコハマ](https://ja.wikipedia.org/wiki/カフェシティヨコハマ "wikilink")」打ち切りとナイターの関係で、3時間の放送となる。
-  - コーナーは原則引き継ぎ。黒部は「[カフェシティヨコハマ](https://ja.wikipedia.org/wiki/カフェシティヨコハマ "wikilink")」から異動。
+  - 「カフェシティヨコハマ」打ち切りとナイターの関係で、3時間の放送となる。
+  - コーナーは原則引き継ぎ。黒部は「カフェシティヨコハマ」から異動。
 
 ### 1996.10-1997.3
 
@@ -100,15 +100,15 @@
 
 **MC・アシスタント**
 
-  - [志賀正浩](../Page/志賀正浩.md "wikilink")・[松本麻美](https://ja.wikipedia.org/wiki/松本麻美 "wikilink")（当時TVK契約アナウンサー）月・火
-  - [黒部幸英](../Page/黒部幸英.md "wikilink")・[武田川彩子](https://ja.wikipedia.org/wiki/武田川彩子 "wikilink")（当時TVK契約アナウンサー）水
-  - [草野ふみえ](https://ja.wikipedia.org/wiki/草野ふみえ "wikilink")・[久保弘毅](https://ja.wikipedia.org/wiki/久保弘毅 "wikilink")（当時TVKアナウンサー）木・金
+  - [志賀正浩](../Page/志賀正浩.md "wikilink")・松本麻美（当時TVK契約アナウンサー）月・火
+  - [黒部幸英](../Page/黒部幸英.md "wikilink")・武田川彩子（当時TVK契約アナウンサー）水
+  - 草野ふみえ・[久保弘毅](https://ja.wikipedia.org/wiki/久保弘毅 "wikilink")（当時TVKアナウンサー）木・金
 
 **情報LANer**
 
-  - [田口彰男](https://ja.wikipedia.org/wiki/田口彰男 "wikilink")
+  - 田口彰男
   - [坂本紅子](https://ja.wikipedia.org/wiki/坂本紅子 "wikilink")
-  - [高橋麻緒](https://ja.wikipedia.org/wiki/高橋麻緒 "wikilink")
+  - 高橋麻緒
 
 ## 関連項目
 

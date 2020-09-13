@@ -34,7 +34,6 @@
   - 友人の[FISHBOY](https://ja.wikipedia.org/wiki/FISHBOY "wikilink")が所属する[RADIO FISHの](https://ja.wikipedia.org/wiki/RADIO_FISH "wikilink")「[PERFECT HUMAN](https://ja.wikipedia.org/wiki/PERFECT_HUMAN "wikilink")」のミュージックビデオに友情出演した。
   - RISING Dance Schoolの総合監修を務め、講師としても活動中（初心者向けレッスン、LOCKIN'クラス）\[11\]。
   - [ヒューマンビートボックス](../Page/ヒューマンビートボックス.md "wikilink")をDA PUMPのライブで披露することがある。
-  - [DA PUMPの歴代メンバーでは唯一](../Page/DA_PUMP.md "wikilink")、テレビでもLiveでも歌唱あるいはラップをしていない。
   - メンバーの中では、2番目に若いため、最年少の[DAICHI](https://ja.wikipedia.org/wiki/DAICHI "wikilink")とともに年下BOYSと呼ばれ、ファンに愛されている。
   - 担当カラーはベージュ、チェック柄。衣装では白の場合もある。
   - ロードオブメジャーの｢さらば碧き面影｣のPVでバックダンサーとして出演していた。
@@ -574,7 +573,7 @@
   -
   -
   -
-[Category:DA_PUMPのメンバー](https://ja.wikipedia.org/wiki/Category:DA_PUMPのメンバー "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:日本のダンサー](https://ja.wikipedia.org/wiki/Category:日本のダンサー "wikilink") [Category:日本の振付家](https://ja.wikipedia.org/wiki/Category:日本の振付家 "wikilink") [Category:東海大学出身の人物](https://ja.wikipedia.org/wiki/Category:東海大学出身の人物 "wikilink") [Category:福岡県出身の人物](https://ja.wikipedia.org/wiki/Category:福岡県出身の人物 "wikilink") [Category:1985年生](https://ja.wikipedia.org/wiki/Category:1985年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:DA_PUMPのメンバー](https://ja.wikipedia.org/wiki/Category:DA_PUMPのメンバー "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:日本の男性ダンサー](https://ja.wikipedia.org/wiki/Category:日本の男性ダンサー "wikilink") [Category:日本の振付家](https://ja.wikipedia.org/wiki/Category:日本の振付家 "wikilink") [Category:東海大学出身の人物](https://ja.wikipedia.org/wiki/Category:東海大学出身の人物 "wikilink") [Category:福岡県出身の人物](https://ja.wikipedia.org/wiki/Category:福岡県出身の人物 "wikilink") [Category:1985年生](https://ja.wikipedia.org/wiki/Category:1985年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.

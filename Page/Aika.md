@@ -30,7 +30,7 @@
 
   - [旧オフィシャルブログ（2005年7月29日～2009年2月20日）](http://aaikhamusiq.jugem.jp/)
 
-  - [オフィシャルブログ（2009年2月20日～）](http://ameblo.jp/aikamusic/)
+  - [オフィシャルブログ（2009年2月20日～）](https://ameblo.jp/aikamusic/)
 
   -
 [Category:日本の女性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の女性シンガーソングライター "wikilink") [Category:日本の女性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ロック歌手 "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:バークリー音楽大学出身の人物](https://ja.wikipedia.org/wiki/Category:バークリー音楽大学出身の人物 "wikilink") [Category:在アメリカ合衆国日本人のミュージシャン](https://ja.wikipedia.org/wiki/Category:在アメリカ合衆国日本人のミュージシャン "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

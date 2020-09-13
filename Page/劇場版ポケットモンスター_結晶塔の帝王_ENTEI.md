@@ -25,7 +25,7 @@
 
 ## あらすじ
 
-美しい高原の街「グリーンフィールド」に住む少女ミーはアンノーンの研究をしている父親のシュリーと共に暮らしていた。ある日、遺跡の調査をしていたシュリーがアンノーンの空間に閉じ込められてしまい、行方不明となった。父親が残した奇妙なカードをミーが並び替えた時、「[アンノーン](https://ja.wikipedia.org/wiki/アンノーン "wikilink")」達が出現し、彼女の感情を感じ取り、[エンテイ](https://ja.wikipedia.org/wiki/エンテイ "wikilink")を生み出した。声や雰囲気から父親がエンテイになって帰ってきたと思い、ミーは喜んだ。
+美しい高原の街「グリーンフィールド」に住む少女ミーはアンノーンの研究をしている父親のシュリーと共に暮らしていた。ある日、遺跡の調査をしていたシュリーがアンノーンの空間に閉じ込められてしまい、行方不明となった。父親が残した奇妙なカードをミーが並べ替えた時、「[アンノーン](https://ja.wikipedia.org/wiki/アンノーン "wikilink")」達が出現し、彼女の感情を感じ取り、[エンテイ](https://ja.wikipedia.org/wiki/エンテイ "wikilink")を生み出した。声や雰囲気から父親がエンテイになって帰ってきたと思い、ミーは喜んだ。
 
 一方、サトシたちも旅の途中でトレーナーのリンとのポケモンバトルを繰り広げ、ジョウト地方で女性が行きたい場所No.1の「グリーンフィールド」を訪れていた。突如グリーンフィールドがクリスタルで囲まれたことに困惑するサトシ達。シェリーや娘のミーが気掛かりになったオーキド博士とハナコも現場に向かい、サトシと再会した。その様子を見ていたミーは自分もママが欲しいとエンテイに願うと彼女の願いを叶えるため、ハナコを連れ去ってしまう。グリーンフィールドの結晶化が進む中、ミーはサトシ達に両親が帰ってきたから来ないようにメールが来る。それに疑問に思う一同であったがサトシはハナコを救うため、カスミやピカチュウ達と共にグリーンフィールドの中心に出来た結晶塔へ向かう。
 
@@ -73,7 +73,7 @@
   - [ムサシ](../Page/ムサシ_\(アニメポケットモンスター\).md "wikilink")
     声 - [林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")
 
-    [ロケット団の女性団員](https://ja.wikipedia.org/wiki/ロケット団_\(アニメポケットモンスター\) "wikilink")。コジロウとニャースと共にサトシ達を追って結晶塔に潜入する。しかし、途中でサトシ達一行を救うことになる\[4\]。
+    [ロケット団の女性団員](https://ja.wikipedia.org/wiki/ロケット団_\(アニメポケットモンスター\) "wikilink")。コジロウとニャースと共にサトシ達を追って結晶塔に潜入する。しかし、前作に続き途中でサトシ達一行を救い味方になった\[4\]。
 
   - [コジロウ](../Page/コジロウ_\(アニメポケットモンスター\).md "wikilink")
     声 - [三木眞一郎](https://ja.wikipedia.org/wiki/三木眞一郎 "wikilink")
@@ -98,7 +98,7 @@
 
 :: 技：かえんほうしゃ、ほのおのうず
 
-:: サトシのポケモン。サトシと別れリザフィックバレーで修行をしていたがサトシのピンチを知り結晶塔に飛来する\[5\]。本作ではモンスターボールに入っていなかったため、実質7匹目として参加した。エンテイと善戦するも追い込まれそうなところをミーに助けられ、アンノーンの暴走を止めるのに協力した。EDではリザフィックバレーに戻っていった。
+:: サトシのポケモン。サトシと別れリザフィックバレーで修行をしていたがサトシのピンチを知り結晶塔に飛来する\[5\]。本作ではモンスターボールに入っていなかったため、実質7匹目として参加した。エンテイと善戦するも追い込まれそうなところをミーに助けられ、アンノーンの暴走を止めるのに協力した。EDではサトシ達に見送られながらリザフィックバレーに戻っていった。
 
 :; [チコリータ](https://ja.wikipedia.org/wiki/チコリータ "wikilink")
 
@@ -138,7 +138,7 @@
 
       -
         声 - 上田祐司
-        色違いでエイパムと対戦。飛行からの攻撃で見事勝利。
+        色違いでエイパムと対戦。飛行からの攻撃で見事勝利。潜入時も得意の飛行でサトシを助けた。
 
   - カスミのポケモン
 
@@ -225,7 +225,7 @@
         :: タケシのズバットと対戦。ちょうおんぱで混乱するも、でんきショックで勝利。
         :; [ヒメグマ](https://ja.wikipedia.org/wiki/ヒメグマ "wikilink")
         :: 技：ばくれつパンチ、みだれひっかき
-        :: タケシのロコンと対戦。ばくれつパンチで勝利。その後、EDにもヒメグマが登場している。
+        :: タケシのロコンと対戦。ばくれつパンチで勝利。その後、EDにもヒメグマが登場しているが、こちらは実物である。
         :; [ゴマゾウ](https://ja.wikipedia.org/wiki/ゴマゾウ "wikilink")
           -
 
@@ -391,7 +391,9 @@
 ## 外部リンク
 
   - [映画紹介ページ（ポケモン公式）](https://www.pokemon.co.jp/anime/movie/2000/)
-  - [Pokémon the Movie 2000 | Pokemon.com](https://www.pokemon.com/uk/pokemon-episodes/pokemon-movies/pokemon-3-the-movie-2001)
+  - [Pokémon the Movie 2000 | Pokemon.com](https://www.pokemon.com/us/pokemon-episodes/pokemon-movies/pokemon-3-the-movie-2001)
+  - [WarnerBros.com | Pokemon 3: the Movie | Movies](https://www.warnerbros.com/movies/pokemon-3-movie)
+  - [WarnerBros.com | The Pokemon Movie Collection | Movies](https://www.warnerbros.com/movies/pokemon-movie-collection)
   - [シナリオえーだば創作術](http://www.style.fm/as/05_column/05_shudo_bn.shtml) - この映画について第208回 - 第213回に記載。
 
 [Category:劇場版ポケットモンスター](https://ja.wikipedia.org/wiki/Category:劇場版ポケットモンスター "wikilink") [Category:2000年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2000年のアニメ映画 "wikilink") [Category:メディアファクトリーのアニメ映画](https://ja.wikipedia.org/wiki/Category:メディアファクトリーのアニメ映画 "wikilink") [Category:ワーナー・ブラザースのアニメ映画](https://ja.wikipedia.org/wiki/Category:ワーナー・ブラザースのアニメ映画 "wikilink") [Category:パラレルワールドを題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:パラレルワールドを題材としたアニメ映画 "wikilink")

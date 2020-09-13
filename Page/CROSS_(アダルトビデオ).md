@@ -34,7 +34,7 @@
 
 ## 外部リンク
 
-  - [CROSS公式WEBサイト](http://web.archive.org/web/20071107032653/http://www.crosscross.jp/top.html)
+  - [CROSS公式WEBサイト](https://web.archive.org/web/20071107032653/http://www.crosscross.jp/top.html)
 
 [Category:日本のアダルトビデオメーカー](https://ja.wikipedia.org/wiki/Category:日本のアダルトビデオメーカー "wikilink") [Category:2005年設立の企業](https://ja.wikipedia.org/wiki/Category:2005年設立の企業 "wikilink") [Category:アウトビジョングループ](https://ja.wikipedia.org/wiki/Category:アウトビジョングループ "wikilink")
 

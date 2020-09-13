@@ -14,11 +14,10 @@
   - 1995年8月に行われた野外ライブ『[avex dance Matrix '95 TK DANCE CAMP](https://ja.wikipedia.org/wiki/avex_dance_Matrix_'95_TK_DANCE_CAMP "wikilink")』が開催される2日前にデモテープが完成する。同イベントに「安室奈美恵 with SUPER MONKEY'S」として出演した際、まだ未調整だった同曲を披露した。歌詞は本番の2日前、振付も前日と当日に完成。KABA.ちゃん曰く「曲が完成してから振りを付けた。私も振りを考えながら、少し振付して奈美恵ちゃんが覚えている間に次の振りを考えての繰り返しだったんだけど奈美恵ちゃんすぐ覚えちゃうから私が待たしてるみたいな感じだった」と振り返っている。シングル版とは歌詞が一部違い、高いキーとなっている\[3\]。
   - 累計出荷枚数は100万枚\[4\]。
   - [全日本GT選手権](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink")を題材とした[レースゲーム](../Page/レースゲーム.md "wikilink")『[JGTC -ALL JAPAN GRAND TOURING CAR CHAMPIONSHIP-](https://ja.wikipedia.org/wiki/JGTC_-ALL_JAPAN_GRAND_TOURING_CAR_CHAMPIONSHIP- "wikilink")』に[インストバージョンがレース](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")[BGMとして登場する](../Page/バックグラウンドミュージック.md "wikilink")。
-  - 発売年からおよそ23年後である[2018年](../Page/2018年.md "wikilink")4月に、[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系[土曜ドラマ](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink")「[Missデビル 人事の悪魔・椿眞子](https://ja.wikipedia.org/wiki/Missデビル_人事の悪魔・椿眞子 "wikilink")」の主題歌として起用された\[5\]\[6\]\[7\]。
 
 ## チャート成績
 
-本作は累計88.2万枚を売り上げた（[オリコン調べ](../Page/オリコンチャート.md "wikilink")）。累計出荷枚数は100万枚\[8\]。
+本作は累計88.2万枚を売り上げた（[オリコン調べ](../Page/オリコンチャート.md "wikilink")）。累計出荷枚数は100万枚\[5\]。
 
 ## 主な記録
 
@@ -94,6 +93,26 @@ Side BB
   - ライヴ『**[namie amuro 25th ANNIVERSARY LIVE in OKINAWA](https://ja.wikipedia.org/wiki/namie_amuro_25th_ANNIVERSARY_LIVE_in_OKINAWA "wikilink")**』（DVD・Blu-ray）
   - ライヴ『**[namie amuro Final Tour 2018 〜Finally〜](https://ja.wikipedia.org/wiki/namie_amuro_Final_Tour_2018_〜Finally〜 "wikilink")**』（DVD・Blu-ray）
 
+## Body Feels EXIT (New Recording Ver.)
+
+「**Body Feels EXIT (New Recording Ver.)**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元女性歌手、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の配信限定[シングル](../Page/シングル.md "wikilink")尚且つ、引退前最後の音源。
+
+### 解説
+
+配信リリースとしては、前作『[Hope](https://ja.wikipedia.org/wiki/Hope_\(安室奈美恵の曲\) "wikilink")』から2ヶ月ぶりのリリースとなる。本作は1995年にリリースされた同曲の**再録音バージョン**であり、前作同様に、2017年11月に発売されたベストアルバム『[Finally](https://ja.wikipedia.org/wiki/Finally_\(安室奈美恵のアルバム\) "wikilink")』からのリカットとなる。なお、安室が配信規格として同じ楽曲の別音源でリリースされるのは、今回が初めてとなる。
+
+同曲は[2018年](../Page/2018年.md "wikilink")4月に、[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系[土曜ドラマ](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink")「[Missデビル 人事の悪魔・椿眞子](https://ja.wikipedia.org/wiki/Missデビル_人事の悪魔・椿眞子 "wikilink")」の主題歌として起用された\[6\]\[7\]。
+
+同年[9月16日](../Page/9月16日.md "wikilink")を以て芸能活動を引退した為、これが最後のデジタル作品となった。
+
+### 収録曲
+
+1.  **Body Feels EXIT (New Recording Ver.)** – 4:22
+      -
+        作詞・作曲：[TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
+    <!-- end list -->
+      - [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系[土曜ドラマ](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink")「[Missデビル 人事の悪魔・椿眞子](https://ja.wikipedia.org/wiki/Missデビル_人事の悪魔・椿眞子 "wikilink")」主題歌
+
 ## 脚注
 
 ### 注釈
@@ -109,8 +128,7 @@ Side BB
 1.  [オリコン・エンタテインメント](../Page/オリコン・エンタテインメント.md "wikilink")刊「オリコン・ウィーク The Ichiban」1999年9月6日号15Pより。
 2.  [「beatfreak issue94」](https://web.archive.org/web/20041017162431/http://www.avexnet.or.jp:80/beatfreak/094/)より。
 3.  [オリコン・エンタテインメント](../Page/オリコン・エンタテインメント.md "wikilink")刊「オリコン・ウィーク The Ichiban」1995年9月25日号14Pより。
-4.  [安室奈美恵ディスコグラフィー](http://web.archive.org/web/20010715041931/www.nikkansports.com/news2/amuro/a-cd.html)、[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
-5.  ドラマに起用されている音源は[2017年](../Page/2017年.md "wikilink")にリリースされたベスト・アルバム『[Finally](https://ja.wikipedia.org/wiki/Finally_\(安室奈美恵のアルバム\) "wikilink")』収録のNew Recordingバージョンである。
+4.  [安室奈美恵ディスコグラフィー](https://web.archive.org/web/20010715041931/www.nikkansports.com/news2/amuro/a-cd.html)、[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+5.  [安室奈美恵ディスコグラフィー](https://web.archive.org/web/20010715041931/www.nikkansports.com/news2/amuro/a-cd.html)、[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
 6.
 7.
-8.  [安室奈美恵ディスコグラフィー](http://web.archive.org/web/20010715041931/www.nikkansports.com/news2/amuro/a-cd.html)、[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）

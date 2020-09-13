@@ -11,7 +11,7 @@
 
 ハイカラのシングルとしては初めて原型の入ったシングルに、ミックスした曲が収録されている。
 
-「[OVER](../Page/OVER_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink")」から久しぶりにこの曲で『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に出演を果たし、同番組に出演したのは、これが最後となった。また、『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』の『RANK-IN』コーナーにて初出演も果たしている。
+「[OVER](../Page/OVER_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink")」から久しぶりにこの曲で『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に出演を果たし\[1\]、同番組に出演したのはこれが最後となった。また、『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』の『RANK-IN』コーナーにて初出演も果たしている。
 
 ## 収録曲
 
@@ -53,6 +53,10 @@
 
   - [ソニー・ミュージックエンタテインメントによる紹介ページ](https://www.sonymusic.co.jp/artist/HandMC/discography/SECL-278)
 
+## 脚注
+
 [Category:HIGH_and_MIGHTY_COLORの楽曲](https://ja.wikipedia.org/wiki/Category:HIGH_and_MIGHTY_COLORの楽曲 "wikilink")
 
 [Category:エスエムイーレコーズのシングル](https://ja.wikipedia.org/wiki/Category:エスエムイーレコーズのシングル "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:BLEACHのアニメソング](https://ja.wikipedia.org/wiki/Category:BLEACHのアニメソング "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:セガのゲーム主題歌](https://ja.wikipedia.org/wiki/Category:セガのゲーム主題歌 "wikilink") [Category:花を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:花を題材とした楽曲 "wikilink") [Category:PlayStation_2用ソフトの主題歌](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフトの主題歌 "wikilink") [Category:ニンテンドーDS用ソフトの主題歌](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフトの主題歌 "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")
+
+1.

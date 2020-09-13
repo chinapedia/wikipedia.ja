@@ -31,6 +31,7 @@
 <!-- end list -->
 
   - 「EARTH EATER」をテレビ番組などで演奏する際、エース長官はギターだけでなくキーボード（[オーケストラ・ヒットの部分](../Page/オーケストラル・ヒット.md "wikilink")）も担当している。
+  - 「FROG NIGHT」のＢメロには[天国への階段 (レッド・ツェッペリンの曲)へのオマージュが見られる](../Page/天国への階段_\(レッド・ツェッペリンの曲\).md "wikilink")。
   - 「THE FINAL APOCALYPSE」の2番を[GRASS VALLEYの](../Page/グラスバレー.md "wikilink")[出口雅之](../Page/出口雅之.md "wikilink")が歌っている。
   - 「ANGEL SMILE」はデーモン閣下ではなくエース長官がボーカルを担当している。聖飢魔II解散後、長官が元[GRASS VALLEYの](../Page/グラスバレー.md "wikilink")[本田海月](https://ja.wikipedia.org/wiki/本田海月 "wikilink")（GRASS VALLEY在籍時の名前は[本田恭之](../Page/本田恭之.md "wikilink")）とともに結成した[face to aceのファーストシングル](https://ja.wikipedia.org/wiki/face_to_ace "wikilink")「MISSING WORD」にはこの「ANGEL SMILE」のセルフカバーバージョンが収録されている。
 

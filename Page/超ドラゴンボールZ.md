@@ -158,8 +158,7 @@
 
 ## 外部リンク
 
-  - [超ドラゴンボールZ](http://www.bandaigames.channel.or.jp/list/ps2_sdbz/)
-
+  -
 [it:Lista di videogiochi di Dragon Ball\#PlayStation 2](https://ja.wikipedia.org/wiki/it:Lista_di_videogiochi_di_Dragon_Ball#PlayStation_2 "wikilink")
 
 [Category:ドラゴンボールのゲーム](https://ja.wikipedia.org/wiki/Category:ドラゴンボールのゲーム "wikilink") [Category:3D対戦型格闘ゲーム](https://ja.wikipedia.org/wiki/Category:3D対戦型格闘ゲーム "wikilink") [Category:2005年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:2005年のアーケードゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink")

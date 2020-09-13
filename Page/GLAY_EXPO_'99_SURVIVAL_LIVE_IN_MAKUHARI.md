@@ -7,7 +7,7 @@
 
 [1999年](../Page/1999年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")に[幕張メッセ](../Page/幕張メッセ.md "wikilink")駐車場・特設ステージにて行われた、国内単独ライブとしては最高の観客動員数20万人を記録した「[MAKUHARI MESSE 10TH ANNIVERSARY GLAY EXPO '99 SURVIVAL](https://ja.wikipedia.org/wiki/GLAY_EXPO#GLAY_EXPO_'99_SURVIVAL "wikilink")」の模様を収録。
 
-当日、アンコールで演奏された「[I'm yours](../Page/HOWEVER.md "wikilink")」「[BE WITH YOU](../Page/BE_WITH_YOU_\(GLAYの曲\).md "wikilink")」DVD、VHSには収録されていないが、2019年3月1日に発売するGLAY SPECIAL 7 LIVES LIMITED BOX THE GLAY HERITAGE Blu-ray BOX内で本商品が再編集され、初ブルーレイ化し、カットされたBE WITH YOUとI'm yoursが初収録されている。
+当日、アンコールで演奏された「[I'm yours](../Page/HOWEVER.md "wikilink")」「[BE WITH YOU](../Page/BE_WITH_YOU_\(GLAYの曲\).md "wikilink")」はDVD、VHSには収録されていないが、2019年3月1日に発売された『GLAY SPECIAL 7 LIVES LIMITED BOX THE GLAY HERITAGE Blu-ray BOX』内で本商品が再編集され、初ブルーレイ化し、カットされた2曲が初収録されている。
 
 ## 収録曲
 

@@ -1,7 +1,7 @@
 > この記事は[USクレモネーゼ](https://ja.wikipedia.org/wiki/USクレモネーゼ)から翻訳されています。
 
 
-**USクレモネーゼ**（**Unione Sportiva Cremonese**）は、[イタリア](../Page/イタリア.md "wikilink")・[ロンバルディア州](../Page/ロンバルディア州.md "wikilink")[クレモナ](../Page/クレモナ.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。2019-20シーズンは[セリエBに所属している](../Page/セリエB_\(サッカー\).md "wikilink")。
+**ウニオーネ・スポルティーヴァ・クレモネーゼ**（**Unione Sportiva Cremonese S.p.A.**）は、[イタリア](../Page/イタリア.md "wikilink")・[ロンバルディア州](../Page/ロンバルディア州.md "wikilink")[クレモナ](../Page/クレモナ.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。2019-20シーズンは[セリエBに所属している](../Page/セリエB_\(サッカー\).md "wikilink")。
 
 ## 歴史
 

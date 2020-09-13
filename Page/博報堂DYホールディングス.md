@@ -11,14 +11,18 @@
 
 ## AD+VENTURE
 
-**AD+VENTURE**は、博報堂グループ内の正社員から新規ビジネスの提案を集め、審査に通過したビジネスアイディアの事業化を目指す制度\[1\]。
+**AD+VENTURE**は、博報堂グループ内の正社員から新規ビジネスの提案を集めるのと同時に、深刻化していた優秀な人材の社外流出引き留めを図るする事を目的とし、審査に通過したビジネスアイディアの事業化を目指す制度\[1\]。
 
 グループの社員からビジネスアイディアを募集し審査を行う。審査を通過した社員は、事業化のための体制構築を行って会社化し、1年間のテストマーケティングを行う。テストマーケティング期間後、会社化した際に定めた業績評価指標を達成できたかを審査し、達成できたと判断された場合は、事業が継続される。逆に達成できなかった場合は、博報堂グループの社員として戻る。失敗しても戻れるというある意味「過保護」な制度である\[2\]。
 
 AD+VENTUREを利用して、2014年に起業された会社を以下に挙げる。
 
-  - NEWSY
-    気になる話題を独自調査して報じるサイト「しらべぇ」を運営する\[3\]。
+  - [NEWSY](https://newsy-inc.jp/)
+    気になる話題を独自調査して報じるサイト「しらべぇ」を運営する\[3\]
+    設立から２年後、設立者が経営から離れると同時に博報堂DYグループと資本関係を解消した。
+    その後業績低迷。
+    同社設立者、タカハシマコト氏が代表取締役に再就任し同社指揮運営。
+    6７00万以上のPVを誇る人気サイトに急成長。
   - iichi
     日本の個人作家と消費者をつなぐ消費者間取引サイトの運営会社\[4\]。
   - オールブルー
@@ -26,7 +30,7 @@ AD+VENTUREを利用して、2014年に起業された会社を以下に挙げる
 
 ## 主要グループ企業
 
-  - [博報堂](https://ja.wikipedia.org/wiki/博報堂 "wikilink")（米[オムニコム・グループ傘下の](https://ja.wikipedia.org/wiki/:en:Omnicom_Group "wikilink")[TBWAと合弁会社を持つ](https://ja.wikipedia.org/wiki/:en:TBWA "wikilink")）
+  - [博報堂](https://ja.wikipedia.org/wiki/博報堂 "wikilink")（米[オムニコムグループ](https://ja.wikipedia.org/wiki/オムニコムグループ "wikilink")傘下の[TBWAと](https://ja.wikipedia.org/wiki/:en:TBWA_Worldwide "wikilink")[合弁会社を持つ](https://ja.wikipedia.org/wiki/TBWA/HAKUHODO "wikilink")）
   - [大広](../Page/大広.md "wikilink")（米[インターパブリック・グループと業務提携](https://ja.wikipedia.org/wiki/:en:Interpublic "wikilink")）
   - [読売広告社](../Page/読売広告社.md "wikilink")
   - [D.A.コンソーシアムホールディングス](https://ja.wikipedia.org/wiki/D.A.コンソーシアムホールディングス "wikilink")

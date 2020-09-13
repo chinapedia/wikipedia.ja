@@ -24,7 +24,7 @@ XAAM-2は発射試験も実施し、実用化の前段階までこぎつけた\[
 
 ## 外部リンク
 
-  - [飛行開発実験団 過去の主要試験等 － 誘導武器](http://www.mod.go.jp/asdf/gifu/adtw/kakoshiken_missile.html)
+  - [飛行開発実験団 過去の主要試験等 － 誘導武器 1967-1999](https://www.mod.go.jp/asdf/adtw/adm/shiken/kakoshiken_missile.html)
 
 [Category:日本の空対空ミサイル](https://ja.wikipedia.org/wiki/Category:日本の空対空ミサイル "wikilink") [Category:赤外線誘導ミサイル](https://ja.wikipedia.org/wiki/Category:赤外線誘導ミサイル "wikilink")
 

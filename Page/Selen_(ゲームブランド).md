@@ -67,8 +67,8 @@
 
 ## 外部リンク
 
-  - [SelenOfficialWebSite](http://www.selen.jp/)（リンク切れ）
-  - [DMM.com　セレン](http://dlsoft.dmm.co.jp/list/article=maker/id=30029/)
+  - [SelenOfficialWebSite](https://web.archive.org/web/20120307120502/http://www.selen.jp/)（2012年9月5日時点の[アーカイブ](https://ja.wikipedia.org/wiki/archive.is "wikilink")）
+  - [FANZA　セレン](https://dlsoft.dmm.co.jp/list/article=maker/id=30029/)
 
 [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink") [Category:東京都中央区の企業](https://ja.wikipedia.org/wiki/Category:東京都中央区の企業 "wikilink")
 

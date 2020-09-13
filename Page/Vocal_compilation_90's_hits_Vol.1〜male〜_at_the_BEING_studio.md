@@ -53,10 +53,10 @@
 14. **[天使になんてなれなかった](../Page/Little_Bit….md "wikilink")**（WANDS）
       -
         作詞:上杉昇 作曲:[柴崎浩](../Page/柴崎浩.md "wikilink") 編曲:葉山たけし
-15. **[たった一度の LOVE SONG](../Page/BOOWY_COMPLETE.md "wikilink")**（[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")） - Premium Track
+15. **[たった一度の LOVE SONG](../Page/BOØWY_COMPLETE.md "wikilink")**（[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")） - Premium Track
       -
         作詞・作曲:[氷室狂介](../Page/氷室京介.md "wikilink") 編曲:[布袋寅泰](../Page/布袋寅泰.md "wikilink")
-        1991年発売のBOXアルバム『[BOØWY COMPLETE](../Page/BOOWY_COMPLETE.md "wikilink")』に未発表曲として収録されていた楽曲。ライブハウス時代によく演奏されていており、6人編成時代に録音され当時メンバーだった深沢和明によるサックス演奏が聴くことができる。（『[THIS BOØWY DRASTIC](../Page/THIS_BOOWY_DRASTIC.md "wikilink")』収録時には**Demo音源**であると表記されている。）
+        1991年発売のBOXアルバム『[BOØWY COMPLETE](../Page/BOØWY_COMPLETE.md "wikilink")』に未発表曲として収録されていた楽曲。ライブハウス時代によく演奏されていており、6人編成時代に録音され当時メンバーだった深沢和明によるサックス演奏が聴くことができる。（『[THIS BOØWY DRASTIC](https://ja.wikipedia.org/wiki/THIS_BOØWY_DRASTIC "wikilink")』収録時には**Demo音源**であると表記されている。）
 16. **ささやかな愛情**（WANDS） - Premium Track
       -
         作詞:上杉昇 作曲:柴崎浩 編曲:葉山たけし

@@ -27,7 +27,7 @@ BPO関連のお知らせ[CMを除き](../Page/コマーシャルメッセージ.
 
 ## 外部リンク
 
-  - [TBSレビュー | TBSテレビ](http://www.tbs.co.jp/TBS-review/)
+  - [TBSレビュー | TBSテレビ](https://www.tbs.co.jp/TBS-review/)
 
 [Category:TBSのローカル番組](https://ja.wikipedia.org/wiki/Category:TBSのローカル番組 "wikilink") [Category:テレビの自己批評番組](https://ja.wikipedia.org/wiki/Category:テレビの自己批評番組 "wikilink") [Category:手話番組](https://ja.wikipedia.org/wiki/Category:手話番組 "wikilink")
 

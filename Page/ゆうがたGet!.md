@@ -21,7 +21,7 @@
 
 現在の放送時間は15:50 - 17:53であるが、編成上は15:50 - 16:50を第1部、16:50 - 17:53を第2部と分けている。ただし、番組進行上、実際に第1・2部の間に区切りが入ることはない（第2部冒頭で『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")・第2部』を臨時に冒頭部分ネットする場合を除く）。また、18時台のニュースを内包していた時期には『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』（全国ニュース）を第3部、『[ニュースプラス1信州](../Page/ニュースプラス1信州.md "wikilink")』（ローカルニュース）を第4部と位置付けていた。
 
-16時台は料理と特集コーナー（生活情報）を中心に編成され、17時台は『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』の[関東ローカル](../Page/関東ローカル.md "wikilink")の時間帯に放送される特集コーナーを数日遅れで、[時差ネットしている](../Page/遅れネット.md "wikilink")（本番組はこれを「突撃\!Get情報」と称している）。また、後半にはレギュラーコーナーとニュース・天気予報を放送している。特別な事情がある場合には16:50で打ち切り、『news every.』の[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")に切り替えるか、（『[NEWSリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")』特報→『every.特集』など）。または2019年1月頃から『news every.』を録画し、時差ネットか部分ネットで放送する。
+16時台は料理と特集コーナー（生活情報）を中心に編成され、17時台は『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』の[関東ローカル](../Page/関東ローカル.md "wikilink")の時間帯に放送される特集コーナーを数日遅れで、[時差ネットしている](../Page/遅れネット.md "wikilink")（本番組はこれを「突撃\!Get情報」と称している）。また、後半にはレギュラーコーナーとニュース・天気予報を放送している。特別な事情がある場合には16:50で打ち切り、『news every.』の[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")に切り替えるか、（『[NEWSリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")』特報→『every.特集』など）。または2019年1月頃から17:00過ぎ頃に当番組のコーナー扱いで、『news every.』第2部の冒頭約10分間を撮って出しで録画して時差ネットで放送する。（日によっては冒頭部分を同時ネットで放送する時もある。）
 
 ## 放送時間
 
@@ -214,10 +214,10 @@
 
 ## 外部リンク
 
-  - [ゆうがたGet\!](http://www.tsb.jp/u-get/index.html)
+  - [ゆうがたGet\!](https://www.tsb.jp/u-get/index.html)
 
   -
-[Category:テレビ信州番組](https://ja.wikipedia.org/wiki/Category:テレビ信州番組 "wikilink") [Category:関東・甲信越地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビの帯番組 "wikilink") [Category:関東・甲信越地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビの情報・ワイドショー番組 "wikilink") [Category:関東・甲信越地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのニュース・報道番組 "wikilink")
+[Category:1999年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のテレビ番組_\(日本\) "wikilink") [Category:テレビ信州の番組](https://ja.wikipedia.org/wiki/Category:テレビ信州の番組 "wikilink") [Category:関東・甲信越地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビの帯番組 "wikilink") [Category:関東・甲信越地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビの情報・ワイドショー番組 "wikilink") [Category:関東・甲信越地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのニュース・報道番組 "wikilink")
 
 1.
 2.

@@ -52,6 +52,14 @@
 
 ボーナスゲーム時は、ビッグウェーブチャンスは発生せずJP BALLが入るまでカプセルは左右自動に傾き抽選される。
 
+## 関連項目
+
+  - [BINGO PARTY](../Page/BINGO_PARTY.md "wikilink")
+  - [BINGO PARTY MULTICARD](https://ja.wikipedia.org/wiki/BINGO_PARTY_MULTICARD "wikilink")
+  - [BINGO PARTY PHOENIX](../Page/BINGO_PARTY_PHOENIX.md "wikilink")
+  - [BINGO PARTY SPLASH SP](../Page/BINGO_PARTY_SPLASH_SP.md "wikilink")
+  - [BINGO PARTY PIRATES](../Page/BINGO_PARTY_PIRATES.md "wikilink")
+
 ## 外部リンク
 
   - [BINGO PARTY SPLASH](http://sega.jp/arcade/bingospl/) 公式サイト

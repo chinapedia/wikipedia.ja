@@ -1,10 +1,10 @@
 > この記事は[Vulture\'s](https://ja.wikipedia.org/wiki/Vulture\'s)から翻訳されています。
 
 
-**Vulture's**は、以下の2つのグラフィック付き[ローグライクゲーム](../Page/ローグライクゲーム.md "wikilink")の総称。
+**Vulture's**（ヴァルチャーズ）は、以下の2つのグラフィック付き[ローグライクゲーム](../Page/ローグライクゲーム.md "wikilink")の総称。
 
-  - **Vulture's Eye**はグラフィック付き[NetHack](../Page/NetHack.md "wikilink")。
-  - **Vulture's Claw**はグラフィック付き[Slash'EM](https://ja.wikipedia.org/wiki/Slash'EM "wikilink")。
+  - 『**Vulture's Eye**』はグラフィック付き[NetHack](../Page/NetHack.md "wikilink")。
+  - 『**Vulture's Claw**』はグラフィック付き[Slash'EM](https://ja.wikipedia.org/wiki/Slash'EM "wikilink")。
 
 これら2つのゲームは、ゲームの核であるNetHackとSlash'EMがもともとテキストベースの2次元画面であるのに対し、両方ともクオータビュー画面で進められるゲームである。
 

@@ -757,13 +757,13 @@
 
   - [アレックス・マクレイシュ](https://ja.wikipedia.org/wiki/アレックス・マクレイシュ "wikilink") 1978-1994
 
-  - [マイケル・ハート](https://ja.wikipedia.org/wiki/マイケル・ハート（サッカー選手） "wikilink") 1997-2001, 2003-2008
+  - [マイケル・ハート](https://ja.wikipedia.org/wiki/マイケル・ハート_\(サッカー選手\) "wikilink") 1997-2001, 2003-2008
 
   - [マルクス・ヘイッキネン](../Page/マルクス・ヘイッキネン.md "wikilink") 2003-2005
 
   - [ダニー・グリフィン](https://ja.wikipedia.org/wiki/ダニー・グリフィン "wikilink") 2005-2006
 
-  - [ジャッキー・マクナマラ](https://ja.wikipedia.org/wiki/ジャッキー・マクナマラ "wikilink") 2007-2008　
+  - [ジャッキー・マクナマラ](https://ja.wikipedia.org/wiki/ジャッキー・マクナマラ "wikilink") 2007-2008
 
 <!-- end list -->
 
@@ -773,7 +773,7 @@
 
   - [ゴードン・ストラカン](../Page/ゴードン・ストラカン.md "wikilink") 1977-1984
 
-  - [クリス・クラーク](https://ja.wikipedia.org/wiki/クリス・クラーク（サッカー選手） "wikilink") 1997-2008
+  - [クリス・クラーク](https://ja.wikipedia.org/wiki/クリス・クラーク_\(サッカー選手\) "wikilink") 1997-2008
 
   - [スティーブン・クロフォード](https://ja.wikipedia.org/wiki/スティーブン・クロフォード "wikilink") 2005-2006
 
@@ -789,7 +789,7 @@
 
   - [ダレン・マッキー](https://ja.wikipedia.org/wiki/ダレン・マッキー "wikilink") 1998-2012
 
-  - [ジョン・スチュワート](https://ja.wikipedia.org/wiki/ジョン・スチュワート（サッカー選手） "wikilink") 2003-2006
+  - [ジョン・スチュワート](https://ja.wikipedia.org/wiki/ジョン・スチュワート_\(サッカー選手\) "wikilink") 2003-2006
 
 ## 脚注
 

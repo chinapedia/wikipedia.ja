@@ -32,4 +32,4 @@
 1.  『Walker』全10曲
 2.  『終わらない時代』全11曲
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:欽ちゃんファミリー](https://ja.wikipedia.org/wiki/Category:欽ちゃんファミリー "wikilink") [Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本テレビの番組発グループ](https://ja.wikipedia.org/wiki/Category:日本テレビの番組発グループ "wikilink")
+[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:欽ちゃんファミリー](https://ja.wikipedia.org/wiki/Category:欽ちゃんファミリー "wikilink") [Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:日本の男性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の男性アイドルグループ "wikilink") [Category:日本テレビの番組発グループ](https://ja.wikipedia.org/wiki/Category:日本テレビの番組発グループ "wikilink")

@@ -19,30 +19,33 @@
 
 ## 収録曲
 
-## クレジット
+### 規格
 
-  - [Photo](../Page/撮影.md "wikilink") by 海田俊二\[25\]
-  - ディレクター: 平井哲之\[26\]
-
-## 再発盤
-
-  - 1998年11月26日 - [12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): WPC6-8678\[27\]
-  - 2008年11月12日 - [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")\[28\]\[29\]
+  - 1998年11月26日 - [12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): WPC6-8678\[25\]
+  - 2008年11月12日 - [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")\[26\]\[27\]
   - 2014年6月18日 - 12cmCD, [Singles Box 1982-1991の一枚として](https://ja.wikipedia.org/wiki/Singles_Box_1982-1991 "wikilink")
 
-## 収録作品
+## クレジット
 
-  - 「TATTOO」
-      - 『[BEST II](../Page/BEST_II_\(中森明菜のアルバム\).md "wikilink")』\[30\]\[31\]
-      - 『[オールタイム・ベスト -オリジナル-](https://ja.wikipedia.org/wiki/オールタイム・ベスト_-オリジナル- "wikilink")』
+  - [Photo](../Page/撮影.md "wikilink") by 海田俊二\[28\]
+  - ディレクター: 平井哲之\[29\]
 
-## カバー
+## 収録アルバム
+
+**TATTOO**
+
+  - 『[BEST II](../Page/BEST_II_\(中森明菜のアルバム\).md "wikilink")』\[30\]\[31\]
+  - 『[オールタイム・ベスト -オリジナル-](https://ja.wikipedia.org/wiki/オールタイム・ベスト_-オリジナル- "wikilink")』
+
+## カバーしたアーティスト
+
+**TATTOO**
 
   - [デーモン閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink") - 2007年1月24日のアルバム『[GIRLS' ROCK](../Page/GIRLS'_ROCK.md "wikilink")』にてカバー\[32\]。
   - [清春](../Page/清春.md "wikilink") - 2007年8月22日、シングル「[TATTOO](https://ja.wikipedia.org/wiki/TATTOO_\(清春の曲\) "wikilink")」にてカバー\[33\]。
   - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink") - 2010年10月13日のアルバム『[ETERNITY〜Love & Songs〜](https://ja.wikipedia.org/wiki/ETERNITY〜Love_&_Songs〜 "wikilink")』にてカバー\[34\]。
 
-## 参照
+## 脚注
 
 ## 外部リンク
 

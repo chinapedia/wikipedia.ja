@@ -78,4 +78,4 @@
   - [T.M.Revolution西川貴教のオールナイトニッポン Music Revolution](../Page/T.M.Revolution西川貴教のオールナイトニッポン_Music_Revolution.md "wikilink")
   - [石川・ホンマ・ぶるんのBe-side Your Life](../Page/石川・ホンマ・ぶるんのBe-side_Your_Life.md "wikilink")
 
-[Category:オールナイトニッポン](https://ja.wikipedia.org/wiki/Category:オールナイトニッポン "wikilink") [Category:1999年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のラジオ番組_\(日本\) "wikilink")
+[Category:オールナイトニッポン](https://ja.wikipedia.org/wiki/Category:オールナイトニッポン "wikilink") [Category:LF+R](https://ja.wikipedia.org/wiki/Category:LF+R "wikilink") [Category:1999年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のラジオ番組_\(日本\) "wikilink")

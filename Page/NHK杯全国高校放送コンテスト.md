@@ -167,7 +167,7 @@
 4.  「デーミアン」　[ヘッセ](https://ja.wikipedia.org/wiki/ヘッセ "wikilink") 著／[酒寄進一](https://ja.wikipedia.org/wiki/酒寄進一 "wikilink") 訳（光文社古典新訳文庫）
 5.  「[方丈記](../Page/方丈記.md "wikilink")」　[鴨長明](../Page/鴨長明.md "wikilink")
 
-### 2020年 (第67回) の朗読指定作品
+### 2020年 (第67回)、2021年 (第68回) \[2\]の朗読指定作品
 
 1.  「柳橋物語・むかしも今も」　[山本周五郎](../Page/山本周五郎.md "wikilink") 著(新潮文庫)
 2.  「日々是好日－『お茶』が教えてくれた15のしあわせ－」　[森下典子](https://ja.wikipedia.org/wiki/森下典子 "wikilink") 著(新潮文庫)
@@ -550,7 +550,8 @@ FM青森</p></td>
 <td><p>2014</p></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p><a href="../Page/宮本真智.md" title="wikilink">宮本真智</a>・ア・<br />
+<a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -717,3 +718,4 @@ FM青森</p></td>
 [Category:NHK杯](https://ja.wikipedia.org/wiki/Category:NHK杯 "wikilink") [Category:日本のコンテスト](https://ja.wikipedia.org/wiki/Category:日本のコンテスト "wikilink") [Category:高校生参加の日本のイベント](https://ja.wikipedia.org/wiki/Category:高校生参加の日本のイベント "wikilink") [Category:日本の放送](https://ja.wikipedia.org/wiki/Category:日本の放送 "wikilink") [Category:NHKホールの行事・イベント](https://ja.wikipedia.org/wiki/Category:NHKホールの行事・イベント "wikilink")
 
 1.  [「第67回ＮＨＫ杯全国高校放送コンテスト」の中止について](https://www.nhk.or.jp/event/n-con/assets/pdf/cancellation.pdf)
+2.

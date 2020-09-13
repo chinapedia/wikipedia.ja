@@ -16,9 +16,9 @@
 CO-CoLO
 
   - チト河内（[ドラムス](../Page/ドラムセット.md "wikilink")）
-  - 上原裕（ドラムス）→後に原田祐臣に交代
+  - 原田祐臣（ドラムス）
   - [石間秀機](../Page/石間秀機.md "wikilink")（[ギター](../Page/ギター.md "wikilink")）
-  - [クマ原田](https://ja.wikipedia.org/wiki/クマ原田 "wikilink")（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）→後に竹内正彦に交代
+  - 竹内正彦（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）
   - 篠原信彦（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")）
 
 ## 収録曲

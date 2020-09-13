@@ -51,7 +51,7 @@ PWCプロモーションに[高野拳磁](../Page/高野拳磁.md "wikilink")が
   - [内藤恒仁](https://ja.wikipedia.org/wiki/内藤恒仁 "wikilink")
   - [島田宏](../Page/島田宏.md "wikilink")
   - [キャノンボールKAZU](https://ja.wikipedia.org/wiki/キャノンボールKAZU "wikilink")
-  - [牛若丸](https://ja.wikipedia.org/wiki/南条隼人 "wikilink")（現：赤城）
+  - [牛若丸](https://ja.wikipedia.org/wiki/南条隼人 "wikilink")（現：南条隼人）
   - [黒田哲](../Page/黒田哲広.md "wikilink")（現：黒田哲広）
   - [戸井マサル](../Page/戸井克成.md "wikilink")（現：戸井克成）
   - [ホッパーキング](https://ja.wikipedia.org/wiki/仮面シューター・スーパーライダー "wikilink")（現：スーパーライダー）
@@ -61,9 +61,9 @@ PWCプロモーションに[高野拳磁](../Page/高野拳磁.md "wikilink")が
   - [野沢一茂](../Page/NOSAWA論外.md "wikilink")（現：NOSAWA論外）
   - [足立知也](https://ja.wikipedia.org/wiki/斗猛矢 "wikilink")（現：斗猛矢）
   - [三上恭平](../Page/MIKAMI.md "wikilink")（現：MIKAMI）
-  - [アイアン・ホース](../Page/アイアン・ホース.md "wikilink")
+  - [アイアン・ホース](https://ja.wikipedia.org/wiki/アイアン・ホース_\(プロレスラー\) "wikilink")
   - [森谷俊之](https://ja.wikipedia.org/wiki/森谷俊之 "wikilink")
-  - [柴田正人](https://ja.wikipedia.org/wiki/柴田正人 "wikilink")
+  - [柴田正人](https://ja.wikipedia.org/wiki/柴田正人 "wikilink")（現：マッド・ポーリー）
 
 ## 関連書籍
 

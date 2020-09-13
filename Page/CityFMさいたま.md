@@ -599,7 +599,7 @@
 </tr>
 <tr class="even">
 <td><p>16</p></td>
-<td><p>00 JP TOP 20<br />
+<td><p>00 <a href="../Page/JP_TOP20.md" title="wikilink">JP TOP20</a><br />
 パーソナリティ：山川智也<br />
 55 地名百科　出演：仲本朗読の会</p></td>
 <td></td>

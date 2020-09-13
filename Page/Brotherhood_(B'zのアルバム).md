@@ -1,7 +1,7 @@
 > この記事は[Brotherhood \(B\'zのアルバム\)](https://ja.wikipedia.org/wiki/Brotherhood_\(B\'zのアルバム\))から翻訳されています。
 
 
-『**Brotherhood**』(ブラザーフッド)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")が[1999年](../Page/1999年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")に[Rooms RECORDSからリリースした](../Page/VERMILLION_RECORDS.md "wikilink")10作目の[オリジナル・アルバムである](../Page/スタジオ・アルバム.md "wikilink")。
+『**Brotherhood**』(ブラザーフッド)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")が1999年7月14日に[Rooms RECORDSからリリースした](../Page/VERMILLION_RECORDS.md "wikilink")10作目の[オリジナル・アルバムである](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 概要
 
@@ -21,7 +21,7 @@
 
 映像作品『[The true meaning of "Brotherhood"?](../Page/The_true_meaning_of_"Brotherhood"?.md "wikilink")』には今作のレコーディング風景が収録されており、その中で松本は「レコーディング（アルバム製作）が始まってからとツアー(B'z LIVE-GYM '99 "Brotherhood")が終わるまでが一つの作品、すべてを総括して『Brorherhood』という作品だった。」と述べている。今アルバムとリンクしたツアー『[B'z LIVE-GYM '99 "Brotherhood"](../Page/Once_upon_a_time_in_横浜_〜B'z_LIVE_GYM'99_"Brotherhood"〜.md "wikilink")』では、大掛かりな演出を極力排除・バンド演奏に重点を置く等、本作のコンセプトを貫いた内容となった。
 
-[2018年](../Page/2018年.md "wikilink")に結成30周年記念として『[DINOSAUR](https://ja.wikipedia.org/wiki/DINOSAUR_\(B'zのアルバム\) "wikilink")』までのオリジナル・アルバムと共に[アナログレコード化された](../Page/レコード.md "wikilink")\[5\]。
+2018年に結成30周年記念として『[DINOSAUR](https://ja.wikipedia.org/wiki/DINOSAUR_\(B'zのアルバム\) "wikilink")』までのオリジナル・アルバムと共に[アナログレコード化された](../Page/レコード.md "wikilink")\[5\]。
 
 ## チャート成績
 
@@ -41,7 +41,7 @@
       -
         26thシングルのバージョン違い。
         「**Version 51**」は「テイク51」という事から付けられたが、51個のテイクが存在するわけではなく何度か録った中の5バージョン目の1テイクを採用したため「Version 51」となった。
-        このバージョンでは[リズム隊](https://ja.wikipedia.org/wiki/リズム隊 "wikilink")をミスター・ビッグのビリー・シーンとパット・トーピーが務めている。ボーカル・ギターもリテイクされ、口笛がカットされたり終盤では稲葉の笑い声と高音倍音シャウトが聴こえるなど、フェイクに関しても原曲バージョンとの違いが見られる。
+        このバージョンでは[リズム隊](https://ja.wikipedia.org/wiki/リズム隊 "wikilink")を[ミスター・ビッグの](../Page/ミスター・ビッグ_\(アメリカのバンド\).md "wikilink")[ビリー・シーン](../Page/ビリー・シーン.md "wikilink")と[パット・トーピー](../Page/パット・トーピー.md "wikilink")が務めている。ボーカル・ギターもリテイクされ、口笛がカットされたり終盤では稲葉の笑い声と高音倍音シャウトが聴こえるなど、フェイクに関しても原曲バージョンとの違いが見られる。
         このバージョンは『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』でも披露され、その際の[サポートメンバーもビリー](https://ja.wikipedia.org/wiki/バックバンド "wikilink")・シーンとパット・トーピーが務めた\[8\]。
 3.  **Brotherhood** (5:46)
       -
@@ -49,7 +49,7 @@
         [大阪](../Page/大阪.md "wikilink")でのセッション中に生まれた曲で\[9\]、当初はラストナンバーになる予定だった。
         ベスト・アルバム『B'z The Best "ULTRA Treasure"』では中間投票、最終結果ともに1位となり収録された\[10\]。
         ライブでは曲の最後の稲葉のロングシャウトが恒例となっている。
-        リリース時に出演した『ミュージックステーション』\[11\]や翌月8月の『[カウントダウンオールヒット](../Page/カウントダウンオールヒット.md "wikilink")』でも披露された。また、発表から約12年後となる[2011年](../Page/2011年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")放送の『ミュージックステーション3時間SP』では、新曲「[さよなら傷だらけの日々よ](https://ja.wikipedia.org/wiki/さよなら傷だらけの日々よ "wikilink")」とともにこの曲を演奏した\[12\]\[13\]。
+        リリース時に出演した『ミュージックステーション』\[11\]や翌月8月の『[カウントダウンオールヒット](../Page/カウントダウンオールヒット.md "wikilink")』でも披露された。また、発表から約12年後となる2011年4月1日放送の『ミュージックステーション3時間SP』では、新曲「[さよなら傷だらけの日々よ](https://ja.wikipedia.org/wiki/さよなら傷だらけの日々よ "wikilink")」とともにこの曲を演奏した\[12\]\[13\]。
         2011年に行われたB'zの北米ライブツアー「B'z LIVE-GYM 2011 -long time no see-」にて、本楽曲の英語バージョンが演奏された。同ツアーで演奏されたシングル楽曲の英語バージョンは後に配信リリースが行われたが、本曲の英語バージョンのみ音源化は現在も未定である\[14\]。ちなみに、同ライブで演奏された唯一の非シングル曲である\[15\]。
 4.  **ながい愛** (5:37)
       -

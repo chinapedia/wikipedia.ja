@@ -1,7 +1,7 @@
 > この記事は[AVG Technologies](https://ja.wikipedia.org/wiki/AVG_Technologies)から翻訳されています。
 
 
-**AVG Technologies**（AVG テクノロジーズ、旧社名：Grisoft）はJan Gritzbachによって[1991年](../Page/1991年.md "wikilink")に設立された[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[ウィルス対策ソフトの](https://ja.wikipedia.org/wiki/ウイルス対策ソフト "wikilink")[企業](../Page/企業.md "wikilink")。[欧州と](../Page/ヨーロッパ.md "wikilink")[米国に拠点を置いている](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。1億1000万人のアクティブ・ユーザーを擁しているとされる。2009年に本社所在地を[チェコ](../Page/チェコ.md "wikilink") [プラハ](../Page/プラハ.md "wikilink")からオランダ [アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink")へ変更した。
+**AVG Technologies**（AVG テクノロジーズ、旧社名：Grisoft）はJan Gritzbachによって[1991年](../Page/1991年.md "wikilink")に設立された[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[ウイルス対策ソフト](https://ja.wikipedia.org/wiki/ウイルス対策ソフト "wikilink")の[企業](../Page/企業.md "wikilink")。[欧州と](../Page/ヨーロッパ.md "wikilink")[米国に拠点を置いている](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。1億1000万人のアクティブ・ユーザーを擁しているとされる。2009年に本社所在地を[チェコ](../Page/チェコ.md "wikilink") [プラハ](../Page/プラハ.md "wikilink")からオランダ [アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink")へ変更した。
 
 ## 沿革
 

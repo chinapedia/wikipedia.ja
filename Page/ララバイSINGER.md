@@ -34,7 +34,7 @@
       - TOKIO版は[日本テレビ放送系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[マイ☆ボス マイ☆ヒーロー](../Page/マイ☆ボス_マイ☆ヒーロー.md "wikilink")』の主題歌だった。[2007年](../Page/2007年.md "wikilink")の春の[選抜高校野球大会](https://ja.wikipedia.org/wiki/選抜高校野球大会 "wikilink")の入場行進曲に使われた。
 4.  **[あのさよならにさよならを](../Page/あのさよならにさよならを.md "wikilink")** *(Say Goodbye To That Goodbye)*
       - [華原朋美](../Page/華原朋美.md "wikilink")に提供した曲のセルフカバー。
-      - 華原版は[NHK](../Page/NHK総合テレビジョン.md "wikilink")[木曜時代劇](https://ja.wikipedia.org/wiki/木曜時代劇 "wikilink")『[次郎長 背負い富士](../Page/次郎長背負い富士.md "wikilink")』の主題歌だった。
+      - 華原版は[NHK](../Page/NHK総合テレビジョン.md "wikilink")[木曜時代劇](../Page/土曜時代劇_\(NHK\).md "wikilink")『[次郎長 背負い富士](../Page/次郎長背負い富士.md "wikilink")』の主題歌だった。
 5.  **[Clāvis -鍵-](../Page/Clavis_-鍵-.md "wikilink")** *(A Key)*
       - [工藤静香](../Page/工藤静香.md "wikilink")に約8年ぶりに提供した曲のセルフカバー。最後の部分が次の曲「水」のイントロにつながっている。
 6.  **水** *(Water)*

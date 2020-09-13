@@ -19,23 +19,25 @@
 
 ## 収録曲
 
-## クレジット
+### 規格
 
-  - [Photo](../Page/撮影.md "wikilink") by 坂野豊\[25\]
-
-## 再発盤
-
-  - 1988年6月25日 - [8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink"): 10SL-148\[26\]
-  - 1988年12月21日 - [CT](../Page/コンパクトカセット.md "wikilink"): 10L5-4057\[27\]
-  - 1998年11月26日 - [12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): WPC6-8675\[28\]
-  - 2008年11月12日 - [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")\[29\]\[30\]
+  - 1988年6月25日 - [8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink"): 10SL-148\[25\]
+  - 1988年12月21日 - [CT](../Page/コンパクトカセット.md "wikilink"): 10L5-4057\[26\]
+  - 1998年11月26日 - [12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): WPC6-8675\[27\]
+  - 2008年11月12日 - [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")\[28\]\[29\]
   - 2014年6月18日 - 12cmCD, [Singles Box 1982-1991の一枚として](https://ja.wikipedia.org/wiki/Singles_Box_1982-1991 "wikilink")
 
-## 収録作品
+## クレジット
 
-  - 「BLONDE」 - 『[BEST II](../Page/BEST_II_\(中森明菜のアルバム\).md "wikilink")』\[31\]\[32\]
+  - [Photo](../Page/撮影.md "wikilink") by 坂野豊\[30\]
 
-## 参照
+## 収録アルバム
+
+**BLONDE**
+
+  - 『[BEST II](../Page/BEST_II_\(中森明菜のアルバム\).md "wikilink")』\[31\]\[32\]
+
+## 脚注
 
 ## 関連項目
 

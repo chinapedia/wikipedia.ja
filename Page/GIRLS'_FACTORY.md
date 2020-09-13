@@ -416,7 +416,7 @@ MC：[南明奈](https://ja.wikipedia.org/wiki/南明奈 "wikilink")
   - MC：[玉井詩織](https://ja.wikipedia.org/wiki/玉井詩織 "wikilink")
   - [たこやきレインボー](https://ja.wikipedia.org/wiki/たこやきレインボー "wikilink") ※ Opening act
   - [私立恵比寿中学](https://ja.wikipedia.org/wiki/私立恵比寿中学 "wikilink")
-  - [チームしゃちほこ](https://ja.wikipedia.org/wiki/チームしゃちほこ "wikilink")
+  - [チームしゃちほこ](https://ja.wikipedia.org/wiki/TEAM_SHACHI "wikilink")
   - てんかすトリオ
   - [ねごと](https://ja.wikipedia.org/wiki/ねごと "wikilink")
   - [坂本冬美](../Page/坂本冬美.md "wikilink")
@@ -453,13 +453,13 @@ MC：[南明奈](https://ja.wikipedia.org/wiki/南明奈 "wikilink")
   - [小南泰葉](https://ja.wikipedia.org/wiki/小南泰葉 "wikilink")
   - [寺田恵子](https://ja.wikipedia.org/wiki/寺田恵子 "wikilink")
   - [加藤いづみ](https://ja.wikipedia.org/wiki/加藤いづみ "wikilink")
-  - [チームしゃちほこ](https://ja.wikipedia.org/wiki/チームしゃちほこ "wikilink")
+  - チームしゃちほこ
   - [たこやきレインボー](https://ja.wikipedia.org/wiki/たこやきレインボー "wikilink")
 
 日時：[7月31日](../Page/7月31日.md "wikilink") 会場：[国立代々木競技場](../Page/国立代々木競技場.md "wikilink")第一体育館
 
   - MC：[安本彩花](https://ja.wikipedia.org/wiki/安本彩花 "wikilink")、[星名美怜](https://ja.wikipedia.org/wiki/星名美怜 "wikilink")（※ 両者共に、ヘッドライナーも兼任）
-  - [桜エビ～ず](https://ja.wikipedia.org/wiki/桜エビ～ず "wikilink") ※ Opening act
+  - [桜エビ～ず](https://ja.wikipedia.org/wiki/ukka "wikilink") ※ Opening act
   - [大森靖子](https://ja.wikipedia.org/wiki/大森靖子 "wikilink")
   - [たむらぱん](https://ja.wikipedia.org/wiki/たむらぱん "wikilink")
   - [井上苑子](https://ja.wikipedia.org/wiki/井上苑子 "wikilink")
@@ -489,7 +489,7 @@ MC：[南明奈](https://ja.wikipedia.org/wiki/南明奈 "wikilink")
 
   - GIRLS'FOLKTORY 17 × ももいろフォーク村ちょいデラックス
 
-日時：[7月13日](../Page/7月13日.md "wikilink") 会場：[Zepp DiverCity](https://ja.wikipedia.org/wiki/Zepp_DiverCity "wikilink")
+日時：[7月13日](../Page/7月13日.md "wikilink") 会場：[Zepp DiverCity](../Page/Zepp.md "wikilink")
 
   - MC：[玉井詩織](https://ja.wikipedia.org/wiki/玉井詩織 "wikilink")
 
@@ -505,7 +505,7 @@ MC：[南明奈](https://ja.wikipedia.org/wiki/南明奈 "wikilink")
   - [あんにゅ](https://ja.wikipedia.org/wiki/コアラモード "wikilink")
   - [ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")
   - [私立恵比寿中学](https://ja.wikipedia.org/wiki/私立恵比寿中学 "wikilink")
-  - [チームしゃちほこ](https://ja.wikipedia.org/wiki/チームしゃちほこ "wikilink")
+  - [チームしゃちほこ](https://ja.wikipedia.org/wiki/TEAM_SHACHI "wikilink")
   - [たこやきレインボー](https://ja.wikipedia.org/wiki/たこやきレインボー "wikilink")
   - てんかすトリオ
 
@@ -549,20 +549,20 @@ MC：[南明奈](https://ja.wikipedia.org/wiki/南明奈 "wikilink")
   - [コアラモード](https://ja.wikipedia.org/wiki/コアラモード "wikilink")
   - [Anly](https://ja.wikipedia.org/wiki/Anly "wikilink")
   - [中嶋ユキノ](https://ja.wikipedia.org/wiki/中嶋ユキノ "wikilink")
-  - [伊藤千由李](https://ja.wikipedia.org/wiki/伊藤千由李 "wikilink")（[チームしゃちほこ](https://ja.wikipedia.org/wiki/チームしゃちほこ "wikilink")）
+  - [伊藤千由李](https://ja.wikipedia.org/wiki/伊藤千由李 "wikilink")（チームしゃちほこ）
   - [リーフシトロン](https://ja.wikipedia.org/wiki/リーフシトロン "wikilink")
-  - [ガチンコ3](https://ja.wikipedia.org/wiki/3Bjunior#概要 "wikilink")
+  - [ガチンコ3](https://ja.wikipedia.org/wiki/ガチンコ3 "wikilink")
 
 ## その他
 
-2015年以降、[ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")・[私立恵比寿中学](https://ja.wikipedia.org/wiki/私立恵比寿中学 "wikilink")・[チームしゃちほこ](https://ja.wikipedia.org/wiki/チームしゃちほこ "wikilink")・[たこやきレインボー](https://ja.wikipedia.org/wiki/たこやきレインボー "wikilink")は既存グループの他、各色別ユニット名義でも出演するようになる。
+2015年以降、[ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")・[私立恵比寿中学](https://ja.wikipedia.org/wiki/私立恵比寿中学 "wikilink")・チームしゃちほこ（現:[TEAM SHACHI](https://ja.wikipedia.org/wiki/TEAM_SHACHI "wikilink")）・[たこやきレインボー](https://ja.wikipedia.org/wiki/たこやきレインボー "wikilink")は既存グループの他、各色別ユニット名義でも出演するようになる。
 
   - ''' チームわたあめ ➡ チームわたあめ(仮)（桃） '''
 
 <!-- end list -->
 
   -
-    [佐々木彩夏](../Page/佐々木彩夏.md "wikilink")・[星名美怜](https://ja.wikipedia.org/wiki/星名美怜 "wikilink")・[安藤ゆず](https://ja.wikipedia.org/wiki/安藤ゆず "wikilink") ➡ 佐々木彩夏・星名美怜・[彩木咲良](https://ja.wikipedia.org/wiki/たこやきレインボー "wikilink")
+    [佐々木彩夏](../Page/佐々木彩夏.md "wikilink")・[星名美怜](https://ja.wikipedia.org/wiki/星名美怜 "wikilink")・[安藤ゆず](https://ja.wikipedia.org/wiki/安藤ゆず "wikilink") ➡ 佐々木彩夏・星名美怜・[彩木咲良](../Page/彩木咲良.md "wikilink")
     （※彩木は安藤の長期休養（後にチームしゃちほこを脱退）に伴う暫定的な加入）
 
 <!-- end list -->
@@ -582,7 +582,7 @@ MC：[南明奈](https://ja.wikipedia.org/wiki/南明奈 "wikilink")
 <!-- end list -->
 
   -
-    [高城れに](https://ja.wikipedia.org/wiki/高城れに "wikilink")・[真山りか](https://ja.wikipedia.org/wiki/真山りか "wikilink")・[大黒柚姫](https://ja.wikipedia.org/wiki/大黒柚姫 "wikilink") ➡ 高城れに・真山りか・大黒柚姫・[堀くるみ](https://ja.wikipedia.org/wiki/たこやきレインボー "wikilink")
+    [高城れに](https://ja.wikipedia.org/wiki/高城れに "wikilink")・[真山りか](https://ja.wikipedia.org/wiki/真山りか "wikilink")・[大黒柚姫](https://ja.wikipedia.org/wiki/大黒柚姫 "wikilink") ➡ 高城れに・真山りか・大黒柚姫・[堀くるみ](../Page/堀くるみ.md "wikilink")
     （※2016年末より堀が加入し4人編成に）
 
 <!-- end list -->
@@ -623,7 +623,7 @@ MC：[南明奈](https://ja.wikipedia.org/wiki/南明奈 "wikilink")
 
   -
     柏木ひなた
-    （※ここに元[JUDY AND MARYの](../Page/JUDY_AND_MARY.md "wikilink")[TAKUYA](../Page/JUDY_AND_MARY.md "wikilink")、[恩田快人](../Page/恩田快人.md "wikilink")、[五十嵐公太](../Page/五十嵐公太.md "wikilink")を加えた2016年限定のスペシャルユニット）
+    （※ここに元[JUDY AND MARYの](../Page/JUDY_AND_MARY.md "wikilink")[TAKUYA](../Page/TAKUYA.md "wikilink")、[恩田快人](../Page/恩田快人.md "wikilink")、[五十嵐公太](../Page/五十嵐公太.md "wikilink")を加えた2016年限定のスペシャルユニット）
 
 <!-- end list -->
 
@@ -639,7 +639,7 @@ MC：[南明奈](https://ja.wikipedia.org/wiki/南明奈 "wikilink")
 
   - [公式サイト](https://www.fujitv.co.jp/otogumi/GIRLFOLK2015/)
   - [GIRLS' FACTORY NEXT (2017)](https://www.fujitv.co.jp/otogumi/GIRLFOLK2017/index.html)
-      - [GIRLS' FACTORY NEXT 17](http://otn.fujitv.co.jp/b_hp/917200139.html) - [フジテレビNEXT](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")
+      - [GIRLS' FACTORY NEXT 17](https://otn.fujitv.co.jp/b_hp/917200139.html) - [フジテレビNEXT](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")
   - [GIRLS' FACTORY NEXT (2018)](https://www.fujitv.co.jp/otogumi/GFN18/)
 
 [Category:日本の音楽イベント](https://ja.wikipedia.org/wiki/Category:日本の音楽イベント "wikilink") [Category:フジテレビのイベント](https://ja.wikipedia.org/wiki/Category:フジテレビのイベント "wikilink") [Category:東京都の行事・イベント](https://ja.wikipedia.org/wiki/Category:東京都の行事・イベント "wikilink") [Category:2000年開始のイベント](https://ja.wikipedia.org/wiki/Category:2000年開始のイベント "wikilink") [Category:夏のイベント](https://ja.wikipedia.org/wiki/Category:夏のイベント "wikilink") [Category:音組](https://ja.wikipedia.org/wiki/Category:音組 "wikilink") [Category:渡辺麻友](https://ja.wikipedia.org/wiki/Category:渡辺麻友 "wikilink")

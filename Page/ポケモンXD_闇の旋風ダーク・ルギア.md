@@ -180,7 +180,7 @@
   - [ポケモンXD 闇の旋風ダーク・ルギア](https://www.nintendo.co.jp/ngc/gxxj/)（任天堂）
   - [ポケモンXD 闇の旋風ダーク・ルギア](https://www.pokemon.co.jp/game/other/xd/)（ポケモンオフィシャルサイト）
 
-[Category:ポケットモンスターのスピンオフゲーム](https://ja.wikipedia.org/wiki/Category:ポケットモンスターのスピンオフゲーム "wikilink") [Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink") [Category:ゲームキューブ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームキューブ用ソフト "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:冒険ゲーム](https://ja.wikipedia.org/wiki/Category:冒険ゲーム "wikilink")
+[Category:ポケットモンスターのスピンオフゲーム](https://ja.wikipedia.org/wiki/Category:ポケットモンスターのスピンオフゲーム "wikilink") [Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink") [Category:ゲームキューブ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームキューブ用ソフト "wikilink") [Category:ジニアス・ソノリティのゲームソフト](https://ja.wikipedia.org/wiki/Category:ジニアス・ソノリティのゲームソフト "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:冒険ゲーム](https://ja.wikipedia.org/wiki/Category:冒険ゲーム "wikilink")
 
 1.  デフォルト名。ゲーム中のPVや、ポケモンワンダーランドVol.5に掲載されたコミカライズ版でもこの名前が使用されている。
 2.  そのためオーレコロシアム最終戦では現シャドー幹部戦と旧シャドー幹部戦BGMという組み合わせになることもある

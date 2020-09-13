@@ -83,4 +83,4 @@
   - [agehaspringsの公式HP](http://www.ageha.net/archives/ageha_creator/ohnishi_shougo) - 大西省吾のプロフィール
   - [→Dm7(♭5)→F/G→](http://shogolog.jugem.jp/)　- SHOGOのブログ
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink")

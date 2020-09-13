@@ -37,7 +37,6 @@
 
 ## 関連項目
 
-  - [ZZ TRAIN](../Page/ZZ_TRAIN.md "wikilink")
   - [Zゲージ](../Page/Zゲージ.md "wikilink")
   - [ZJゲージ](../Page/ZJゲージ.md "wikilink")
   - [鉄道模型](../Page/鉄道模型.md "wikilink")

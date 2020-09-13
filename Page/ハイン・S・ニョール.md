@@ -1,7 +1,7 @@
 > この記事は[ハイン・S・ニョール](https://ja.wikipedia.org/wiki/ハイン・S・ニョール)から翻訳されています。
 
 
-**ハイン・S・ニョール**（**Haing S. Ngor**, 中国名：**吳漢潤**、[1940年](../Page/1940年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink") - [1996年](../Page/1996年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")）は、[カンボジア](../Page/カンボジア.md "wikilink")・[プノンペン](../Page/プノンペン.md "wikilink")出身の[産婦人科医](https://ja.wikipedia.org/wiki/産婦人科医 "wikilink")、[俳優](../Page/俳優.md "wikilink")。[客家](../Page/客家.md "wikilink")にルーツを持つ中国系カンボジア人。
+**ハイン・S・ンゴー**（**Haing S. Ngor**, 中国名：**吳漢潤**、[1940年](../Page/1940年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink") - [1996年](../Page/1996年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")）は、[カンボジア](../Page/カンボジア.md "wikilink")・[プノンペン](../Page/プノンペン.md "wikilink")出身の[産婦人科医](https://ja.wikipedia.org/wiki/産婦人科医 "wikilink")、[俳優](../Page/俳優.md "wikilink")。[客家](../Page/客家.md "wikilink")にルーツを持つ中国系カンボジア人。
 
 ## 略歴
 

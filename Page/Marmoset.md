@@ -80,13 +80,13 @@ __TOC__
 
 ## ブログ
 
-  - [藤崎美貴【Marmosex】](http://marmoset.exblog.jp/)
-  - [崋狩祐雅【The Earth Observations】](http://marmoyuga.exblog.jp/)
-  - [Takeshi【ちょっとひと息】](http://angelman.exblog.jp/)
-  - [川頭稔【Marmopets】](http://marmopets.exblog.jp/)
-  - [山本誠二【みんな大好き、自分好き】](http://seijilife.exblog.jp/)
-  - [大沼竣【Brain-scramble】](http://actorshun.exblog.jp/)
-  - [yukinob.【太陽の華】](http://yukinob.exblog.jp/)
+  - [藤崎美貴【Marmosex】](https://marmoset.exblog.jp/)
+  - [崋狩祐雅【The Earth Observations】](https://marmoyuga.exblog.jp/)
+  - [Takeshi【ちょっとひと息】](https://angelman.exblog.jp/)
+  - [川頭稔【Marmopets】](https://marmopets.exblog.jp/)
+  - [山本誠二【みんな大好き、自分好き】](https://seijilife.exblog.jp/)
+  - [大沼竣【Brain-scramble】](https://actorshun.exblog.jp/)
+  - [yukinob.【太陽の華】](https://yukinob.exblog.jp/)
   - [佐藤弥生【良かった探し】](https://ameblo.jp/yapuri/)
 
 [Category:芸能プロダクション](https://ja.wikipedia.org/wiki/Category:芸能プロダクション "wikilink")

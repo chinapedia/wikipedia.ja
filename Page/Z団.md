@@ -26,7 +26,7 @@
   - [斎藤誠](../Page/斎藤誠.md "wikilink")
   - [ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:サザンオールスターズ](https://ja.wikipedia.org/wiki/Category:サザンオールスターズ "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:サザンオールスターズ](https://ja.wikipedia.org/wiki/Category:サザンオールスターズ "wikilink")
 
 1.  現在は、[2000年](../Page/2000年.md "wikilink")に発売した、「[TSUNAMI](../Page/TSUNAMI.md "wikilink")」が最大ヒット曲である。
 2.  [サザンオールスターズ バイオグラフィー 1993年](http://www.sas-fan.net/mob/news/diarKiji.php?site=SAS&ima=5959&cd=BIOGRAPHY&tp=cate&so=k&labl=keyword&ct=1993) 公式サイト 2016年11月8日閲覧

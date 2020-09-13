@@ -1,7 +1,7 @@
 > この記事は[NBAスラムダンクコンテスト](https://ja.wikipedia.org/wiki/NBAスラムダンクコンテスト)から翻訳されています。
 
 
-**NBAスラムダンクコンテスト**(公式名称は[スプライト](../Page/スプライト_\(炭酸飲料\).md "wikilink")・[スラムダンク](https://ja.wikipedia.org/wiki/スラムダンク "wikilink"))は[NBA](../Page/NBA.md "wikilink")の[オールスターウィークエンドの土曜日に行われる](../Page/NBAオールスターウィークエンド.md "wikilink")[スラムダンクコンテスト](https://ja.wikipedia.org/wiki/スラムダンクコンテスト "wikilink")である。出場者が独創性などを織り込みながら[ダンクシュート](https://ja.wikipedia.org/wiki/ダンクシュート "wikilink")を競う。
+**NBAスラムダンクコンテスト**(公式名称は[スプライト](../Page/スプライト_\(炭酸飲料\).md "wikilink")・[スラムダンク](https://ja.wikipedia.org/wiki/スラムダンク_\(バスケットボール\) "wikilink"))は[NBA](../Page/NBA.md "wikilink")の[オールスターウィークエンドの土曜日に行われる](../Page/NBAオールスターウィークエンド.md "wikilink")[スラムダンクコンテスト](https://ja.wikipedia.org/wiki/スラムダンクコンテスト "wikilink")である。出場者が独創性などを織り込みながら[ダンクシュート](https://ja.wikipedia.org/wiki/ダンクシュート "wikilink")を競う。
 
 スラムダンクコンテストが初めて開催されたのは[1976年](../Page/1976年.md "wikilink")、[ABAオールスターゲームのことだった](../Page/アメリカン・バスケットボール・アソシエーション_\(1967-1976年\).md "wikilink")。初代チャンピオンは[ジュリアス・アービング](https://ja.wikipedia.org/wiki/ジュリアス・アービング "wikilink")だったが、翌年にはABAがNBAに吸収されたため、コンテストは短命に終わっている。その後、[1984年](../Page/1984年.md "wikilink")にNBAにおいてスラムダンクコンテストが初めて開催された。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")以降、目新しいパフォーマンスが少なくなったことから2年間開催されなかったが、[2000年](../Page/2000年.md "wikilink")に復活。近年大物選手の出場は減っており、スターへの[登竜門](https://ja.wikipedia.org/wiki/登竜門 "wikilink")として若手選手の活躍の場となっている。[2014年](../Page/2014年.md "wikilink")は東西対抗のチーム戦形式となった。
 

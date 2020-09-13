@@ -63,6 +63,5 @@
 
 ## 外部リンク
 
-  - [公式サイト - テレビ朝日](http://www.tv-asahi.co.jp/dd-boys/)
-
+  -
 [Category:ネオバラエティ](https://ja.wikipedia.org/wiki/Category:ネオバラエティ "wikilink") [Category:テレビ朝日の深夜ドラマ](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜ドラマ "wikilink") [Category:2006年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2006年のテレビドラマ "wikilink") [Category:テレビ朝日のドキュメンタリー番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日のドキュメンタリー番組 "wikilink") [Category:D-BOYS](https://ja.wikipedia.org/wiki/Category:D-BOYS "wikilink")

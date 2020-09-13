@@ -53,7 +53,7 @@
 ほとんど毎晩通うような常連客は、基本的にメガネさんと松ちゃんのみ。出演が1回だけの常連ではない客の方が、人数は圧倒的に多い\[39\]\[40\]。以下は これまでBARレモン・ハートに3回以上登場し、今後も登場するであろう準レギュラーの紹介である。
 
   - トシちゃん
-    本名は不明。おそらく客の中では一番若い。[にきび](https://ja.wikipedia.org/wiki/にきび "wikilink")面で[キャップ](https://ja.wikipedia.org/wiki/キャップ "wikilink")をかぶっている。よくレモン・ハートに自分の彼女を連れてくる人物だが、その彼女は（ナオミ\[41\]、アケミ\[42\]、ミユキ\[43\]など）回によって異なるため、なかなかのプレイボーイであるようだ。
+    本名は不明。おそらく客の中では一番若い。[にきび面で](https://ja.wikipedia.org/wiki/尋常性痤瘡 "wikilink")[キャップ](https://ja.wikipedia.org/wiki/キャップ "wikilink")をかぶっている。よくレモン・ハートに自分の彼女を連れてくる人物だが、その彼女は（ナオミ\[41\]、アケミ\[42\]、ミユキ\[43\]など）回によって異なるため、なかなかのプレイボーイであるようだ。
     レモン・ハートに初めて来たときは、バーボンの知ったかぶりを気取っていたが、メガネさんから叱責され弟子（?）になった\[44\]。 [バーボン小僧](../Page/バーボン・ウイスキー.md "wikilink")、[スコッチ](https://ja.wikipedia.org/wiki/スコッチ "wikilink")小僧など、その度に着目している酒は変わる。ワインの[シャブリ](https://ja.wikipedia.org/wiki/シャブリ "wikilink")やカクテル（[ダイキリ](../Page/ダイキリ.md "wikilink")）などに興味を持ったこともあった。
     基本的に勉強好きで、徐々に酒に関する知識も増している。性格は見栄っ張りで生意気だが、思いやりがあり素直な一面もある。
   - チヨコ（岡野千代子）
@@ -100,7 +100,44 @@
 
 ## 書誌情報
 
-[古谷三敏](../Page/古谷三敏.md "wikilink")『BARレモン・ハート』[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")〈アクション・コミックス〉、既刊34巻（2019年8月28日現在）  再編集された文庫版コミックスや廉価版の[コンビニコミック](../Page/コンビニコミック.md "wikilink")も多数発行されている\[60\]。 また、カクテルのエピソードを集めた『12色のカクテル』も発行されている。
+  - [古谷三敏](../Page/古谷三敏.md "wikilink")『BARレモン・ハート』[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")〈アクション・コミックス〉、既刊35巻（2020年7月28日現在）
+    1.  1986年2月18日初版発行、
+    2.  1986年11月14日初版発行、
+    3.  1987年8月17日初版発行、
+    4.  1988年2月14日初版発行、
+    5.  1988年7月24日初版発行、
+    6.  1989年1月16日初版発行、
+    7.  1989年8月19日初版発行、
+    8.  1990年6月29日初版発行、
+    9.  1992年6月28日初版発行、
+    10. 1993年8月17日初版発行、
+    11. 1994年7月28日初版発行、
+    12. 1996年2月11日初版発行、
+    13. 1997年6月28日初版発行、
+    14. 1998年6月28日初版発行、
+    15. 1999年6月12日初版発行、
+    16. 2000年6月27日初版発行、
+    17. 2001年8月9日初版発行、
+    18. 2002年11月12日初版発行、
+    19. 2003年11月28日初版発行、
+    20. 2004年6月12日初版発行、
+    21. 2005年7月13日初版発行、
+    22. 2006年6月12日初版発行、
+    23. 2007年8月13日初版発行、
+    24. 2008年10月28日初版発行、
+    25. 2009年10月28日初版発行、
+    26. 2010年10月28日初版発行、
+    27. 2012年5月28日初版発行、
+    28. 2013年5月28日初版発行、
+    29. 2014年6月27日初版発行、
+    30. 2015年9月28日初版発行、
+    31. 2016年6月28日初版発行、
+    32. 2017年7月12日初版発行、
+    33. 2018年7月27日初版発行、
+    34. 2019年8月28日初版発行、
+    35. 2020年7月28日初版発行、
+
+再編集された文庫版コミックスや廉価版の[コンビニコミック](../Page/コンビニコミック.md "wikilink")も多数発行されている\[60\]。 また、カクテルのエピソードを集めた『12色のカクテル』も発行されている。
 
 ## 関連書籍
 
@@ -595,7 +632,7 @@
   - [酒屋BARレモン・ハート](https://barlemonhart.com) BARレモン・ハートの公式ECサイト 主に店主の古谷三敏の孫が買い付けしここでしか買えないボトルをリリースしている。
   - [BSフジ開局15周年記念ドラマ『BARレモン・ハート』](http://www.bsfuji.tv/lemonhart/)
 
-[Category:古谷三敏](https://ja.wikipedia.org/wiki/Category:古谷三敏 "wikilink") [Category:漫画作品_は](https://ja.wikipedia.org/wiki/Category:漫画作品_は "wikilink") [Category:漫画アクションの漫画作品](https://ja.wikipedia.org/wiki/Category:漫画アクションの漫画作品 "wikilink") [Category:週刊大衆](https://ja.wikipedia.org/wiki/Category:週刊大衆 "wikilink") [Category:男性誌掲載漫画作品](https://ja.wikipedia.org/wiki/Category:男性誌掲載漫画作品 "wikilink") [Category:酒を題材にした漫画作品](https://ja.wikipedia.org/wiki/Category:酒を題材にした漫画作品 "wikilink") [Category:酒場を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:酒場を舞台とした漫画作品 "wikilink") [Category:2015年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2015年のテレビドラマ "wikilink") [Category:2016年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2016年のテレビドラマ "wikilink") [Category:2017年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2017年のテレビドラマ "wikilink") [Category:BSフジのテレビドラマ](https://ja.wikipedia.org/wiki/Category:BSフジのテレビドラマ "wikilink") [Category:BSフジの22時](https://ja.wikipedia.org/wiki/Category:BSフジの22時 "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:酒場を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:酒場を舞台としたテレビドラマ "wikilink") [Category:スペシャルドラマ](https://ja.wikipedia.org/wiki/Category:スペシャルドラマ "wikilink")
+[Category:古谷三敏](https://ja.wikipedia.org/wiki/Category:古谷三敏 "wikilink") [Category:漫画作品_は](https://ja.wikipedia.org/wiki/Category:漫画作品_は "wikilink") [Category:1985年の漫画](https://ja.wikipedia.org/wiki/Category:1985年の漫画 "wikilink") [Category:漫画アクションの漫画作品](https://ja.wikipedia.org/wiki/Category:漫画アクションの漫画作品 "wikilink") [Category:週刊大衆](https://ja.wikipedia.org/wiki/Category:週刊大衆 "wikilink") [Category:男性誌掲載漫画作品](https://ja.wikipedia.org/wiki/Category:男性誌掲載漫画作品 "wikilink") [Category:酒を題材にした漫画作品](https://ja.wikipedia.org/wiki/Category:酒を題材にした漫画作品 "wikilink") [Category:酒場を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:酒場を舞台とした漫画作品 "wikilink") [Category:2015年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2015年のテレビドラマ "wikilink") [Category:2016年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2016年のテレビドラマ "wikilink") [Category:2017年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2017年のテレビドラマ "wikilink") [Category:BSフジのテレビドラマ](https://ja.wikipedia.org/wiki/Category:BSフジのテレビドラマ "wikilink") [Category:BSフジの22時](https://ja.wikipedia.org/wiki/Category:BSフジの22時 "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:酒場を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:酒場を舞台としたテレビドラマ "wikilink") [Category:スペシャルドラマ](https://ja.wikipedia.org/wiki/Category:スペシャルドラマ "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
 1.
 2.  『COMICアクションキャラクター』『漫画アクションピザッツ』『[週刊大衆](../Page/週刊大衆.md "wikilink")』など。

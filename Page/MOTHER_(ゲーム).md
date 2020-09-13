@@ -393,8 +393,16 @@
     アイテム造形は[カナイヒロミ](https://ja.wikipedia.org/wiki/カナイヒロミ "wikilink")、PSIシンボルマークデザインは[タナカノリユキ](../Page/タナカノリユキ.md "wikilink")、モンスター造形は[トットリ君](https://ja.wikipedia.org/wiki/トットリ君 "wikilink")がそれぞれ担当した。
     編集チーフは[義江邦夫](https://ja.wikipedia.org/wiki/義江邦夫 "wikilink")。執筆陣として、義江邦夫、[石井基博](https://ja.wikipedia.org/wiki/石井基博 "wikilink")、[戸田昭吾](https://ja.wikipedia.org/wiki/戸田昭吾 "wikilink")がクレジットされている。
     ゲームソフト『MOTHER1+2』の発売日と同日の[2003年](../Page/2003年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")に復刻版が発売された。
+  - MOTHER マザー必勝攻略法 完全版（1989年9月、[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")）
+    本作の[攻略本](../Page/攻略本.md "wikilink")。メロディーがすべて揃う所まで攻略されている。
+  - MOTHER 完全攻略本（1989年10月、[辰巳出版](../Page/辰巳出版.md "wikilink")）
+    本作の[攻略本](../Page/攻略本.md "wikilink")。スノーマンでおんなのこを仲間にする所までしか攻略されていない。
   - マザー攻略マップ 裏ワザ大全集（1989年10月、[二見書房](../Page/二見書房.md "wikilink")）
     本作の[攻略本](../Page/攻略本.md "wikilink")。
+  - ファミコン必勝攻略ブック MOTHER 完全版（1989年10月、[実業之日本社](../Page/実業之日本社.md "wikilink")）
+    本作の[攻略本](../Page/攻略本.md "wikilink")。メロディーがすべて揃う所まで攻略されている。
+  - MOTHER探検マニュアル（1989年10月、[ビジネス・アスキー](../Page/アスペクト_\(企業\).md "wikilink")）
+    本作の[攻略本](../Page/攻略本.md "wikilink")。ぼく視点の文章による攻略となっている。最後まで攻略されており、マップはダンカン工場とホーリー・ローリー・マウンテンへ続く洞窟のみ掲載。
   - MOTHER―The Original Story（1989年8月、久美沙織、[新潮社](../Page/新潮社.md "wikilink") [新潮文庫](../Page/新潮文庫.md "wikilink")）
     本作の小説化。おんなのこ（アナ）の視点で物語が展開される。物語の大枠は本編と共通しているものの、登場人物の容姿や性格設定などが原作とは大きく異なり、結末も違っている。あとがきによれば、ゲーム完成前のROMのプレイと初期設定資料集を元に書かれているとのことである。
   - マザー 未知からの挑戦（1989年12月、[樋口明雄](../Page/樋口明雄.md "wikilink") / [スタジオ・ハード](https://ja.wikipedia.org/wiki/スタジオ・ハード "wikilink")、[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink") [冒険ゲームブックシリーズ](../Page/冒険ゲームブックシリーズ.md "wikilink")）

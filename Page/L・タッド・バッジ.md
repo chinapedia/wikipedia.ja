@@ -10,7 +10,7 @@
 ## 略歴
 
   - [1959年](../Page/1959年.md "wikilink")- [アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")に生まれる\[1\]。
-  - [1979年](../Page/1979年.md "wikilink")- [モルモン教](https://ja.wikipedia.org/wiki/モルモン教 "wikilink")布教のため来日。
+  - [1979年](../Page/1979年.md "wikilink")- \[末日生徒イエスキリスト教会\]の布教のため来日。
   - [1984年](../Page/1984年.md "wikilink")- [ブリガムヤング大学](../Page/ブリガムヤング大学.md "wikilink")卒業\[2\]。大学では[経営学](../Page/経営学.md "wikilink")・[日本語](../Page/日本語.md "wikilink")を専攻。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")- [ベイン・アンド・カンパニー](https://ja.wikipedia.org/wiki/ベイン・アンド・カンパニー "wikilink")日本法人に入社。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")- [シティバンク、エヌ・エイ東京支店に転職](../Page/シティバンク、エヌ・エイ_\(在日支店\).md "wikilink")。

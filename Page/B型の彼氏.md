@@ -44,4 +44,4 @@
 
   -
   -
-[Category:2005年の映画](https://ja.wikipedia.org/wiki/Category:2005年の映画 "wikilink") [Category:韓国のロマンティック・コメディ映画](https://ja.wikipedia.org/wiki/Category:韓国のロマンティック・コメディ映画 "wikilink") [Category:血液型](https://ja.wikipedia.org/wiki/Category:血液型 "wikilink") [Category:血液を題材とした作品](https://ja.wikipedia.org/wiki/Category:血液を題材とした作品 "wikilink")
+[Category:2005年の映画](https://ja.wikipedia.org/wiki/Category:2005年の映画 "wikilink") [Category:韓国のロマンティック・コメディ映画](https://ja.wikipedia.org/wiki/Category:韓国のロマンティック・コメディ映画 "wikilink") [Category:血液型を題材とした作品](https://ja.wikipedia.org/wiki/Category:血液型を題材とした作品 "wikilink")

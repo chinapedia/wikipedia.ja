@@ -13,21 +13,20 @@
 
 ## 現在の連載中の作品
 
-※ 2020年5月26日（2020年7月号）現在。作品名五十音順。
+※ 2020年7月27日（2020年9月号）現在。作品名五十音順。
 
+  - [アンサー](https://ja.wikipedia.org/wiki/アンサー_\(漫画\) "wikilink")（[Maria](../Page/Maria_\(漫画家\).md "wikilink")）：2020年9月号 -
   - [おそ松さん](https://ja.wikipedia.org/wiki/おそ松さん "wikilink")（原作：[赤塚不二夫](../Page/赤塚不二夫.md "wikilink")、漫画：[シタラマサコ](https://ja.wikipedia.org/wiki/シタラマサコ "wikilink")）：2019年1月号 -
   - [きのう、きょう、あした](https://ja.wikipedia.org/wiki/きのう、きょう、あした "wikilink")（[如月園](https://ja.wikipedia.org/wiki/如月園 "wikilink")）：2018年7月号 -
   - [グッドモーニング・キス](../Page/グッドモーニング・コール.md "wikilink")（[高須賀由枝](../Page/高須賀由枝.md "wikilink")）※『Cookie BOX』2006年初夏号 - 2008年秋号を経て本誌へ移動：2009年3月号 -
   - [孤食ロボット](https://ja.wikipedia.org/wiki/孤食ロボット "wikilink")（[岩岡ヒサエ](../Page/岩岡ヒサエ.md "wikilink")）※『[ジャンプ改](https://ja.wikipedia.org/wiki/ジャンプ改 "wikilink")』（集英社）より移籍：2015年1月号 -
-  - [これは経費で落ちません！](https://ja.wikipedia.org/wiki/これは経費で落ちません！ "wikilink")（原作:[青木祐子](../Page/青木祐子.md "wikilink")、漫画:[森こさち](https://ja.wikipedia.org/wiki/森こさち "wikilink")）：2018年1月号 -
-  - [サロン・ド・ディスコ](https://ja.wikipedia.org/wiki/サロン・ド・ディスコ "wikilink")（[碧](https://ja.wikipedia.org/wiki/碧（漫画家） "wikilink")）：2020年3月号 - 2020年7月号
+  - [これは経費で落ちません！〜経理部の森若さん〜](https://ja.wikipedia.org/wiki/これは経費で落ちません！〜経理部の森若さん〜 "wikilink")（原作：[青木祐子](../Page/青木祐子.md "wikilink")、漫画：[森こさち](https://ja.wikipedia.org/wiki/森こさち "wikilink")）：2018年1月号 -
   - [好いも甘いも](https://ja.wikipedia.org/wiki/好いも甘いも "wikilink")（[小藤まつ](https://ja.wikipedia.org/wiki/小藤まつ "wikilink")）：2019年7月号 -
-  - [長森くんの結婚](https://ja.wikipedia.org/wiki/長森くんの結婚 "wikilink")（[あいざわ遥](../Page/あいざわ遥.md "wikilink")）：2020年5月号 - 2020年7月号
   - [ハイヒールをはいた猫 ルブたん](https://ja.wikipedia.org/wiki/ハイヒールをはいた猫_ルブたん "wikilink")（[鳥海りさこ](https://ja.wikipedia.org/wiki/鳥海りさこ "wikilink")）：2016年7月号 -
   - [ハコイリのムスメ](https://ja.wikipedia.org/wiki/ハコイリのムスメ "wikilink")（[池谷理香子](https://ja.wikipedia.org/wiki/池谷理香子 "wikilink")）：2015年5月号 -
   - [初めて恋をした日に読む話](https://ja.wikipedia.org/wiki/初めて恋をした日に読む話 "wikilink")（[持田あき](../Page/持田あき.md "wikilink")）：2016年7月号 -
   - [陽あたり前線](https://ja.wikipedia.org/wiki/陽あたり前線 "wikilink")（[杉原涼子](../Page/杉原涼子.md "wikilink")）：2013年1月号 -
-  - [日に流れて橋に行く](https://ja.wikipedia.org/wiki/日に流れて橋に行く "wikilink")（[日高ショーコ](https://ja.wikipedia.org/wiki/日高ショーコ "wikilink")）：2019年3月号 -
+  - [日に流れて橋に行く](../Page/日に流れて橋に行く.md "wikilink")（[日高ショーコ](https://ja.wikipedia.org/wiki/日高ショーコ "wikilink")）：2019年3月号 -
   - [ブラッディ・ブライド-吸血鬼の婚活-](https://ja.wikipedia.org/wiki/ブラッディ・ブライド-吸血鬼の婚活- "wikilink")：（[池野恋](../Page/池野恋.md "wikilink")）：2020年5月号 -
   - [ボードレールの猫](https://ja.wikipedia.org/wiki/ボードレールの猫 "wikilink")（[生藤由美](https://ja.wikipedia.org/wiki/生藤由美 "wikilink")）：2020年1月号 -
   - [僕の家においで Wedding](https://ja.wikipedia.org/wiki/僕の家においで_Wedding "wikilink")（[優木なち](../Page/優木なち.md "wikilink")）：2017年7月号 -
@@ -36,7 +35,7 @@
   - [三日月と流れ星](https://ja.wikipedia.org/wiki/三日月と流れ星 "wikilink")（[椎名あゆみ](../Page/椎名あゆみ.md "wikilink")）※2014年9月号読切を経て連載：2015年1月号 -
   - [林檎と蜂蜜walk](../Page/林檎と蜂蜜_\(漫画\).md "wikilink")（[宮川匡代](../Page/宮川匡代.md "wikilink")）：2009年6月号 -
   - [レポまんが なんかおもしろいことして](https://ja.wikipedia.org/wiki/レポまんが_なんかおもしろいことして "wikilink")（櫻井リヤ）：2019年7月号 -
-  - [ローズ ローズィ ローズフル バッド](https://ja.wikipedia.org/wiki/ローズ_ローズィ_ローズフル_バッド "wikilink")（[いくえみ綾](../Page/いくえみ綾.md "wikilink")）：2020年7月号
+  - [ローズ ローズィ ローズフル バッド](https://ja.wikipedia.org/wiki/ローズ_ローズィ_ローズフル_バッド "wikilink")（[いくえみ綾](../Page/いくえみ綾.md "wikilink")）：2020年7月号 -
 
 ### 不定期連載
 
@@ -109,6 +108,7 @@
 <!-- end list -->
 
   - silent summer snow（[吉井凛](../Page/吉井凛.md "wikilink")）：2006年7月号 - 9月号
+  - [サロン・ド・ディスコ](https://ja.wikipedia.org/wiki/サロン・ド・ディスコ "wikilink")（[碧](https://ja.wikipedia.org/wiki/碧（漫画家） "wikilink")）：2020年3月号 - 2020年7月号
   - 時空局から来ました。（山野りんりん）
   - [ジグ☆ザグ丼](../Page/ジグ☆ザグ丼.md "wikilink")（[石田拓実](../Page/石田拓実.md "wikilink")）：2002年9月号 - 2004年12月号
   - [シックス ハーフ](https://ja.wikipedia.org/wiki/シックス_ハーフ "wikilink")（[池谷理香子](https://ja.wikipedia.org/wiki/池谷理香子 "wikilink")）：2009年12月号 - 2015年1月号
@@ -142,6 +142,7 @@
   - [ときめきまんが道](https://ja.wikipedia.org/wiki/ときめきまんが道 "wikilink")（池野恋）：2016年3月号 - 2017年1月号（電子版）、2017年3月号\[4\] - 2019年5月号
   - [ときめきミッドナイト](https://ja.wikipedia.org/wiki/ときめきミッドナイト "wikilink")（池野恋）
   - [トライボロジー](https://ja.wikipedia.org/wiki/トライボロジー_\(漫画\) "wikilink")（[石田拓実](../Page/石田拓実.md "wikilink")）：2014年3月号 - 2016年7月号
+  - [長森くんの結婚](https://ja.wikipedia.org/wiki/長森くんの結婚 "wikilink")（あいざわ遥）：2020年5月号 - 2020年7月号
   - 21世紀の君へ（[斉木久美子](https://ja.wikipedia.org/wiki/斉木久美子 "wikilink")）
   - [日曜日はマルシェでボンボン](https://ja.wikipedia.org/wiki/日曜日はマルシェでボンボン "wikilink")（[かわかみじゅんこ](../Page/かわかみじゅんこ.md "wikilink")）：2008年5月号 - 2017年5月号
   - [ねうしとらうー](https://ja.wikipedia.org/wiki/ねうしとらうー "wikilink")（[如月園](https://ja.wikipedia.org/wiki/如月園 "wikilink")）：2017年11月号 - 2018年1月号

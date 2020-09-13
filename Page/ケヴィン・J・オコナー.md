@@ -310,6 +310,13 @@
 <td><p>7エピソード</p></td>
 </tr>
 <tr class="even">
+<td><p>2019-</p></td>
+<td><p><a href="../Page/ビカミング・ア・ゴッド.md" title="wikilink">ビカミング・ア・ゴッド</a><br />
+<em>On Becoming a God in Central Florida</em></p></td>
+<td><p>ロジャー・ペンランド</p></td>
+<td><p>リカーリングキャスト</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

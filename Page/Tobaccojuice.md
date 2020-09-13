@@ -266,7 +266,7 @@ RYOW-KEN RECORDS</p></td>
 
   - [公式ウェブサイト](http://tobaccojuice.info/)
 
-  - [UNIVERSAL MUSIC JAPAN](http://www.universal-music.co.jp/tobacco-juice)
+  - [UNIVERSAL MUSIC JAPAN](https://www.universal-music.co.jp/tobacco-juice/)
 
   -   -
       -

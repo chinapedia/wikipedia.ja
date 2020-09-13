@@ -373,4 +373,4 @@
   - [Jazztronik official](https://jazztronik.com/blog/) - オフィシャルブログ
   - \[<https://ameblo.jp/jazztronik-blog/>　Jazztronik オフィシャルブログ\] - 旧オフィシャルブログ
 
-[Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:テクノミュージシャン](https://ja.wikipedia.org/wiki/Category:テクノミュージシャン "wikilink") [Category:ハウスミュージシャン](https://ja.wikipedia.org/wiki/Category:ハウスミュージシャン "wikilink")
+[Category:日本のテクノミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のテクノミュージシャン "wikilink") [Category:ハウスミュージシャン](https://ja.wikipedia.org/wiki/Category:ハウスミュージシャン "wikilink") [Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink")

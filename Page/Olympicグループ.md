@@ -9,7 +9,7 @@
 
 ## 概要
 
-[1962年](../Page/1962年.md "wikilink")に創立。同年に、第1号店となる店舗を立川にオープン。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")より、オリンピックの一番の特徴である[ハイパーマーケット](../Page/ハイパーマーケット.md "wikilink")業態の出店を開始する。このハイパーマーケットに加えてスーパーマーケット、[ハイパーストア](https://ja.wikipedia.org/wiki/ハイパーストア "wikilink")、ホームセンターの4つの業態に分かれていたが、2013年の再編により業態名がそれぞれ**総合ディスカウント**、**[ディスカウントストア](../Page/ディスカウントストア.md "wikilink")**、**スーパーマーケット**、**[専門店](https://ja.wikipedia.org/wiki/専門店 "wikilink")**（ホームセンター等）となった\[2\]。この他、「Olympicおりーぶ」は業態としては総合ディスカウントに含まれるが、専門店も入った店舗形態である。
+[1962年](../Page/1962年.md "wikilink")に創立。同年に、第1号店となる店舗を立川にオープン。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")より、オリンピックの一番の特徴である[ハイパーマーケット](../Page/ハイパーマーケット.md "wikilink")業態の出店を開始する。このハイパーマーケットに加えてスーパーマーケット、[ハイパーストア](https://ja.wikipedia.org/wiki/ハイパーストア "wikilink")、ホームセンターの4つの業態に分かれていたが、2013年の再編により業態名がそれぞれ**総合ディスカウント**、**[ディスカウントストア](../Page/ディスカウントストア.md "wikilink")**、**スーパーマーケット**、**[専門店](../Page/専門店.md "wikilink")**（ホームセンター等）となった\[2\]。この他、「Olympicおりーぶ」は業態としては総合ディスカウントに含まれるが、専門店も入った店舗形態である。
 
 [2001年](../Page/2001年.md "wikilink")、株式を[東京証券取引所](../Page/東京証券取引所.md "wikilink")市場第一部に上場した。
 
@@ -81,7 +81,7 @@
 
 ### 複合ショッピングセンター
 
-  - OSC湘南シティ（神奈川県平塚市） [1](http://www.shonan-city.com/)
+  - OSC湘南シティ（神奈川県平塚市） [1](http://shonan-city.com)
   - OSCデオシティ新座（埼玉県新座市） [2](http://www.oscdeocity.com/)
 
 ### ATM設置店舗
@@ -118,16 +118,27 @@
   - 小松川店（[江戸川区](../Page/江戸川区.md "wikilink")[中央](../Page/中央_\(江戸川区\).md "wikilink")。2010年1月31日をもって閉店、跡地は解体後[コーナン](../Page/コーナン.md "wikilink")江戸川中央店）
   - ハイパーマーケット小岩店（江戸川区。2012年5月27日をもって閉店、跡地は「南小岩七丁目西地区第一種市街地再開発事業」地の一部として再開発が行われ、下層階が[サミットなどが入居する商業施設](https://ja.wikipedia.org/wiki/サミットストア "wikilink")、上層階がマンションのビルとなった。）
 
-## 利用できるクレジットカード
+## 利用できる決済手段
+
+### [クレジットカード](../Page/クレジットカード.md "wikilink")
 
   - [OSCカード](https://ja.wikipedia.org/wiki/OSCカード "wikilink")（[オリエントコーポレーション](../Page/オリエントコーポレーション.md "wikilink")と提携）
   - [オリコカード](https://ja.wikipedia.org/wiki/オリコカード "wikilink")
-  - [ライフカード](https://ja.wikipedia.org/wiki/ライフ_\(信販\) "wikilink")
+  - [ライフカード](../Page/ライフカード.md "wikilink")
 
 <!-- end list -->
 
   -
     [Visa](../Page/Visa.md "wikilink")、[Mastercard](../Page/マスターカード.md "wikilink")、[JCBなど国際ブランドのクレジットカードは利用できなかったが](../Page/ジェーシービー.md "wikilink")、2010年7月現在、一部店舗にて使用できるようになっている。ただし、同一店舗でも、非食品フロアのみ使用可といった運用をしている店舗も存在するため、店頭の表示に注意する必要がある。
+
+### [バーコード決済](https://ja.wikipedia.org/wiki/QR・バーコード決済 "wikilink")
+
+  - [PayPay](https://ja.wikipedia.org/wiki/PayPay "wikilink")
+
+<!-- end list -->
+
+  -
+    2019年11月11日から導入\[6\]。スマートフォンのカメラでQRコードを読み取る方式である。
 
 ## 脚注
 
@@ -145,10 +156,11 @@
 
   - [Olympic](https://www.olympic-corp.co.jp/)
 
-[Category:国分寺市の企業](https://ja.wikipedia.org/wiki/Category:国分寺市の企業 "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:1988年上場の企業](https://ja.wikipedia.org/wiki/Category:1988年上場の企業 "wikilink") [Category:関東地方のスーパーマーケット](https://ja.wikipedia.org/wiki/Category:関東地方のスーパーマーケット "wikilink") [Category:CGCグループ](https://ja.wikipedia.org/wiki/Category:CGCグループ "wikilink") [Category:日本の持株会社](https://ja.wikipedia.org/wiki/Category:日本の持株会社 "wikilink") [Category:1973年設立の企業](https://ja.wikipedia.org/wiki/Category:1973年設立の企業 "wikilink") [Category:かつて存在した日本の家電量販店](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の家電量販店 "wikilink")
+[Category:国分寺市の企業](https://ja.wikipedia.org/wiki/Category:国分寺市の企業 "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:1988年上場の企業](https://ja.wikipedia.org/wiki/Category:1988年上場の企業 "wikilink") [Category:関東地方のスーパーマーケット](https://ja.wikipedia.org/wiki/Category:関東地方のスーパーマーケット "wikilink") [Category:日本のホームセンター](https://ja.wikipedia.org/wiki/Category:日本のホームセンター "wikilink") [Category:CGCグループ](https://ja.wikipedia.org/wiki/Category:CGCグループ "wikilink") [Category:日本の持株会社](https://ja.wikipedia.org/wiki/Category:日本の持株会社 "wikilink") [Category:1973年設立の企業](https://ja.wikipedia.org/wiki/Category:1973年設立の企業 "wikilink") [Category:かつて存在した日本の家電量販店](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の家電量販店 "wikilink")
 
 1.  [商号の変更に関するお知らせ](http://www.olympic-corp.co.jp/common/images/old/news/13/news197.pdf)（株式会社Olympic 平成25年(2013年) 4月25日）
 2.  [Olympic：店舗検索 (お店の種類から探す)](http://www.olympic-corp.co.jp/shopsearch/search_shop)（公式ページ）
 3.  オリンピックの連結子会社（当時）株式会社データプランの元副社長
 4.
 5.
+6.  [11月1日よりオリンピック各店でPayPayがお使いいただけます！](https://www.olympic-corp.co.jp/shop/osc37/2019/1031/19574)

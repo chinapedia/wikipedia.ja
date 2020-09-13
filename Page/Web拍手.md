@@ -130,9 +130,9 @@ web拍手は、[ろじっくぱらだいす](../Page/ろじっくぱらだいす
 ## 外部リンク
 
   - [web拍手 公式サイト](http://www.webclap.com/index.html)
-  - [ろじっくぱらだいす](http://logipara.com/index.html)
+  - [ろじっくぱらだいす](https://logipara.com/)
   - [PatiPati](http://www.gnbnet.com/patipati/) - ラジオボタンやセレクトフォームの使用に対応した、多機能なCGI拍手スクリプト
-  - [web拍手@はてな](http://d.hatena.ne.jp/keyword/Web%C7%EF%BC%EA) - [はてなダイアリーキーワード](http://d.hatena.ne.jp/keyword/)における項目
+  - [web拍手@はてな](https://d.hatena.ne.jp:443/keyword/Web%E6%8B%8D%E6%89%8B) - [はてなダイアリーキーワード](https://d.hatena.ne.jp:443/)における項目
   - [Emperor Penguin Empire](http://www.peso.nu/index.html) - [ペンギン](https://ja.wikipedia.org/wiki/ペンギン "wikilink")絵柄のweb拍手送信ボタン画像を配布
 
 [Category:インターネットの文化](https://ja.wikipedia.org/wiki/Category:インターネットの文化 "wikilink") [Category:日本のウェブサイト](https://ja.wikipedia.org/wiki/Category:日本のウェブサイト "wikilink") [Category:オーディエンス](https://ja.wikipedia.org/wiki/Category:オーディエンス "wikilink")

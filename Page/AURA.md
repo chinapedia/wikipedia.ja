@@ -24,7 +24,7 @@
 
 ### 元メンバー
 
-  - DRUMS：ヒース(脱退後、[ZI:KILL](../Page/ZI:KILL.md "wikilink"))
+  - DRUMS：ヒース(MASAMI)(脱退後、[ZI:KILL](../Page/ZI:KILL.md "wikilink"))
 
 ### サポートメンバー
 

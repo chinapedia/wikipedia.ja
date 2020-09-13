@@ -677,10 +677,12 @@ DVDは[バンダイビジュアル](../Page/バンダイビジュアル.md "wiki
 ## 外部リンク
 
   - [ふしぎ星の☆ふたご姫 シリーズ公式](http://futagohime.jp/)
-  - [ふしぎ星の☆ふたご姫 Gyu\! テレビ東京公式](https://www.tv-tokyo.co.jp/anime/futagohime/)
-  - [ふしぎ星の☆ふたご姫 Gyu\! NAS公式](http://www.nasinc.co.jp/jp/index.php?action=USER.WORKS.DETAIL&master_id=75)
-  - [バンダイ・StyleBook「ふしぎ星の☆ふたご姫 Gyu\!」](http://www.bandaigames.channel.or.jp/list/ds_stylebook/hutagohime/)
 
+  - [ふしぎ星の☆ふたご姫 Gyu\! テレビ東京公式](https://www.tv-tokyo.co.jp/anime/futagohime/)
+
+  - [ふしぎ星の☆ふたご姫 Gyu\! NAS公式](http://www.nasinc.co.jp/jp/index.php?action=USER.WORKS.DETAIL&master_id=75)
+
+  -
 [Category:ふしぎ星の☆ふたご姫](https://ja.wikipedia.org/wiki/Category:ふしぎ星の☆ふたご姫 "wikilink")
 
 [Category:アニメ作品_ふ](https://ja.wikipedia.org/wiki/Category:アニメ作品_ふ "wikilink") [Category:2006年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2006年のテレビアニメ "wikilink") [Category:学園アニメ](https://ja.wikipedia.org/wiki/Category:学園アニメ "wikilink") [Category:架空の養成学校を舞台とした作品](https://ja.wikipedia.org/wiki/Category:架空の養成学校を舞台とした作品 "wikilink") [Category:めばえ](https://ja.wikipedia.org/wiki/Category:めばえ "wikilink") [Category:幼稚園_(雑誌)](https://ja.wikipedia.org/wiki/Category:幼稚園_\(雑誌\) "wikilink") [Category:小学館の学習雑誌](https://ja.wikipedia.org/wiki/Category:小学館の学習雑誌 "wikilink") [Category:いたずら・ぶっく](https://ja.wikipedia.org/wiki/Category:いたずら・ぶっく "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink")

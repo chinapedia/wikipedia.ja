@@ -21,7 +21,7 @@
 
 [2012年](../Page/2012年.md "wikilink")4月から放送が開始されたTVアニメ『[黒子のバスケ](https://ja.wikipedia.org/wiki/黒子のバスケ_\(アニメ\) "wikilink")』では、第3期第2クール帝光編を除くほぼ全てのシーズンで『Can Do』『RIMFIRE』『The Other self』『変幻自在のマジカルスター』『Punky Funky Love』『メモリーズ』と計6曲のOP主題歌を手がけた。[2013年](../Page/2013年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink")発売の『The Other self』はそれまでの初回限定盤・通常盤2種展開に加え初めてアニメ盤が導入され、以後アニメタイアップに関しては3種展開が基本となった。なお『Can Do』を除きオリコン週間チャートでTOP10入りしている。
 
-[2014年](../Page/2014年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")には以前より交流のあったバンド・[FLOW](../Page/FLOW.md "wikilink")と組んだ期間限定ユニット『FLOW×GRANRODEO』としてコラボシングル『7 -seven-』を発売。発売レーベルはFLOWの所属する[Ki/oon Musicで](https://ja.wikipedia.org/wiki/Ki/oon_Music "wikilink")、GRANRODEOとしては初めて[ランティス](../Page/ランティス.md "wikilink")\[1\]以外からリリースすることとなった。
+[2014年](../Page/2014年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")には以前より交流のあったバンド・[FLOW](../Page/FLOW.md "wikilink")と組んだ期間限定ユニット『FLOW×GRANRODEO』としてコラボシングル『7 -seven-』を発売。発売レーベルはFLOWの所属する[Ki/oon Musicで](../Page/キューンミュージック.md "wikilink")、GRANRODEOとしては初めて[ランティス](../Page/ランティス.md "wikilink")\[1\] 以外からリリースすることとなった。
 
 [2015年](../Page/2015年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")、デビュー10周年を迎えた。なおこの年ライブ・セットリスト情報サービス「LiveFans（ライブファンズ） 」が発表した『2015年 年間ライブ観客動員ランキング』の声優・アニメ部門にて、[水樹奈々](../Page/水樹奈々.md "wikilink")（205,939人）・[μ's](https://ja.wikipedia.org/wiki/μ's "wikilink")（159,026人）に次ぎGRANRODEOが134,217人を動員し3位にランクインした。
 
@@ -87,7 +87,7 @@
 | 28th  | 2018年2月21日                                 | **Deadly Drive**                                                                            | LACM-34729   | LACM-14729 |
 | 29th  | 2018年7月11日                                 | *' BEASTFUL*'                                                                               | LACM-34772   | LACM-14772 |
 | 30th  | 2019年5月8日                                  | *' セツナの愛*'                                                                                  | LACM-34867   | LACM-14867 |
-| 31at  | 2020年7月15日予定                               | *' 情熱は覚えている*'                                                                               | LACM-34008   | LACM-24008 |
+| 31st  | 2020年9月9日予定                                | *' 情熱は覚えている*'                                                                               | LACM-34008   | LACM-24008 |
 
 #### コラボシングル
 
@@ -128,6 +128,39 @@
 | ----------- | ----------------- | ---------- | ---------- |
 | 初回限定盤       | 通常盤               |            |            |
 | 2018年10月24日 | **M・S COWBOYの逆襲** | LACA-35739 | LACA-15739 |
+
+#### トリビュートアルバム
+
+<table>
+<thead>
+<tr class="header">
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>規格</p></th>
+<th><p>規格品番</p></th>
+<th><p>収録曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/5月13日.md" title="wikilink">5月13日</a> <a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/8月19日.md" title="wikilink">8月19日</a></p></td>
+<td><p><strong>GRANRODEO Tribute Album "RODEO FREAK"</strong></p></td>
+<td><p>配信限定 CD</p></td>
+<td><p>LACA-15824</p></td>
+<td><ol>
+<li>Can Do（<a href="https://ja.wikipedia.org/wiki/でんぱ組.inc" title="wikilink">でんぱ組.inc</a>）</li>
+<li>The Other self（<a href="https://ja.wikipedia.org/wiki/BREAKERZ" title="wikilink">BREAKERZ</a>）</li>
+<li>変幻自在のマジカルスター（<a href="https://ja.wikipedia.org/wiki/OxT" title="wikilink">OxT</a>）</li>
+<li>Infinite Love（<a href="../Page/シド_(バンド).md" title="wikilink">シド</a>）</li>
+<li>modern strange cowboy（<a href="../Page/FLOW.md" title="wikilink">FLOW</a>）</li>
+<li>Punky Funky Love（<a href="https://ja.wikipedia.org/wiki/ベリーグッドマン" title="wikilink">ベリーグッドマン</a>）</li>
+<li>BEASTFUL（<a href="https://ja.wikipedia.org/wiki/超特急_(音楽グループ)" title="wikilink">超特急</a>）</li>
+<li>メズマライズ（<a href="../Page/MUCC.md" title="wikilink">MUCC</a>）</li>
+<li>偏愛の輪舞曲（<a href="../Page/西川貴教.md" title="wikilink">西川貴教</a>）</li>
+</ol></td>
+</tr>
+</tbody>
+</table>
 
 ### コンピレーション / サウンドトラックCD
 
@@ -1145,10 +1178,14 @@
 ## 外部リンク
 
   - [GRANRODEO Official Website](https://granrodeo.net/)
+
   - [GRANRODEOオフィシャルファンクラブ「ロデオ組」](https://granrodeo.jp/)
+
   - [GRANRODEO | Artist | Lantis web site](https://www.lantis.jp/artist/granrodeo/)
+
   - [GRANRODEO オフィシャルブログ | LINE公式ブログ](https://lineblog.me/granrodeo/)
 
+  -
 [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:声優バンド](https://ja.wikipedia.org/wiki/Category:声優バンド "wikilink") [Category:ランティスのアーティスト](https://ja.wikipedia.org/wiki/Category:ランティスのアーティスト "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:2005年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に結成した音楽グループ "wikilink")
 
 1.  サブレーベルを含む。

@@ -21,10 +21,10 @@
   - [北海道文化放送](../Page/北海道文化放送.md "wikilink") - 1972年4月の開局時から、『**UHB奥さまニュースFNN**』とタイトルを差し替えて放送。
   - [仙台放送](../Page/仙台放送.md "wikilink")
   - [秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")
-  - [山形テレビ](../Page/山形テレビ.md "wikilink") - 現・[ANN系列局](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")。 、『産経テレニュース』の時間帯に放送のローカルニュースとして同タイトルを使用した。
+  - [山形テレビ](../Page/山形テレビ.md "wikilink") - 現・[ANN系列局](../Page/オールニッポン・ニュースネットワーク.md "wikilink")。 、『産経テレニュース』の時間帯に放送のローカルニュースとして同タイトルを使用した。
   - [福島中央テレビ](../Page/福島中央テレビ.md "wikilink") - 1971年9月までネット。
-  - [新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")
-  - [長野放送](../Page/長野放送.md "wikilink")
+  - 新潟総合テレビ（現・[NST新潟総合テレビ](../Page/NST新潟総合テレビ.md "wikilink")）
+  - [長野放送](../Page/長野放送.md "wikilink")\[1\]
   - [テレビ静岡](../Page/テレビ静岡.md "wikilink")
   - [富山テレビ](../Page/富山テレビ放送.md "wikilink")
   - [石川テレビ](../Page/石川テレビ放送.md "wikilink")
@@ -47,15 +47,15 @@
 
 ### FNN非加盟局
 
-岩手放送・福島テレビ・山梨放送・四国放送・高知放送の5局は、FNN非加盟にもかかわらずタイトルを差し替えないで放送していた（福島テレビは1971年10月以降[FNSに加盟](../Page/フジネットワーク.md "wikilink")）。また、当時JNNに[昼間のスポットニュースが設定されなかったため](https://ja.wikipedia.org/wiki/JNNニュース#スポットニュース "wikilink")、岩手放送・福島テレビ・テレビ山口は[排他協定の例外措置として](https://ja.wikipedia.org/wiki/JNN排他協定 "wikilink")[産業経済新聞社](../Page/産業経済新聞社.md "wikilink")配給[番組に準じた扱いで放送された](https://ja.wikipedia.org/wiki/産経新聞ニュース#産経新聞ニュース_\(5社ニュース\) "wikilink")。
+岩手放送・福島テレビ・山梨放送・四国放送の4局は、FNN非加盟にもかかわらずタイトルを差し替えないで放送していた（福島テレビは1971年10月以降[FNSに加盟](../Page/フジネットワーク.md "wikilink")）。また、当時JNNに[昼間のスポットニュースが設定されなかったため](https://ja.wikipedia.org/wiki/JNNニュース#スポットニュース "wikilink")、岩手放送・福島テレビ・テレビ山口は[排他協定の例外措置として](https://ja.wikipedia.org/wiki/JNN排他協定 "wikilink")[産業経済新聞社](../Page/産業経済新聞社.md "wikilink")配給[番組に準じた扱いで放送された](https://ja.wikipedia.org/wiki/産経新聞ニュース#産経新聞ニュース_\(5社ニュース\) "wikilink")。
 
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink") - FNN・FNSともに非加盟であるため、『**奥さまニュース**』というタイトルに差し替えていた。タイトル表示は[ブルーバック](../Page/ブルーバック.md "wikilink")。14:55 - 15:00の5分間のみの放送。
   - 岩手放送（現・[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")）
-  - [福島テレビ](../Page/福島テレビ.md "wikilink") - 1968年10月からネット開始。福島中央テレビ開局でネットを打ち切るが1971年10月からネット再開\[1\]。FNNには1983年に加盟。
+  - [福島テレビ](../Page/福島テレビ.md "wikilink") - 1968年10月からネット開始。福島中央テレビ開局でネットを打ち切るが1971年10月からネット再開\[2\]。FNNには1983年に加盟。
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")
   - [テレビ山口](../Page/テレビ山口.md "wikilink") - 当時はFNSには加盟していたがFNNには非加盟だったため、『**奥さまニュース**』というタイトルに差し替えていた。
   - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")
-  - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")
+  - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink") - FNN・FNSともに非加盟であるため、『**[高知新聞](../Page/高知新聞.md "wikilink")奥さまニュース**』というタイトルに差し替えていた。
 
 ## 脚注
 
@@ -66,4 +66,5 @@
 
 [Category:1966年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1966年のテレビ番組_\(日本\) "wikilink") [Category:産経テレニュースFNN](https://ja.wikipedia.org/wiki/Category:産経テレニュースFNN "wikilink")
 
-1.
+1.  『長野放送二十年の歩み』（1989年5月25日、長野放送発行）174p『昭和44年4月基本番組表』より。
+2.

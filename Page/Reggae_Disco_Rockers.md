@@ -7,13 +7,13 @@
 
 ### 現在のメンバー
 
-  - 高宮紀徹 （たかみや きてつ）
-    [東京都](../Page/東京都.md "wikilink")出身。リーダー。DJとして積極的にクラブでプレイしていた80年代末期〜90年代中期に、様々なミュージシャン（現在のメンバーを含む）と出会い、即興でセッションを行ったのがバンド発足の始まりである。[DJ](https://ja.wikipedia.org/wiki/#ディスクジョッキー（音楽家） "wikilink")、[プログラミングを担当](../Page/ミュージックシーケンサー.md "wikilink")。またArt Director, Photographerとして67531graphicsを主宰。兄はレーベル[flower recordsや](https://ja.wikipedia.org/wiki/flower_records "wikilink")[Little Big Beeを率いる](https://ja.wikipedia.org/wiki/Little_Big_Bee "wikilink")[高宮永徹](https://ja.wikipedia.org/wiki/高宮永徹 "wikilink")。
-  - 西内徹 （にしうち てつ）
+  - 高宮紀徹（たかみや きてつ）
+    [東京都](../Page/東京都.md "wikilink")出身。リーダー。DJとして積極的にクラブでプレイしていた80年代末期〜90年代中期に、様々なミュージシャン（現在のメンバーを含む）と出会い、即興でセッションを行ったのがバンド発足の始まりである。[DJ](https://ja.wikipedia.org/wiki/ディスクジョッキー#ディスクジョッキー（音楽家） "wikilink")、[プログラミングを担当](../Page/ミュージックシーケンサー.md "wikilink")。またArt Director, Photographerとして67531graphicsを主宰。兄はレーベル[flower recordsや](https://ja.wikipedia.org/wiki/flower_records "wikilink")[Little Big Beeを率いる](https://ja.wikipedia.org/wiki/Little_Big_Bee "wikilink")[高宮永徹](https://ja.wikipedia.org/wiki/高宮永徹 "wikilink")。
+  - 西内徹（にしうち てつ）
     [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身。[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")、[フルート](../Page/フルート.md "wikilink")を担当。TETSUNIQUES、[川上つよしと彼のムードメイカーズ](../Page/川上つよしと彼のムードメイカーズ.md "wikilink")のメンバーでもある。
-  - 小林洋太 （こばやし ようた）
+  - 小林洋太（こばやし ようた）
     [ギター](../Page/ギター.md "wikilink")を担当。
-  - [有坂美香](../Page/有坂美香.md "wikilink") （ありさか みか、[1974年](../Page/1974年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink") - ）
+  - [有坂美香](../Page/有坂美香.md "wikilink")（ありさか みか、[1974年](../Page/1974年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink") - ）
     [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[鎌倉市](../Page/鎌倉市.md "wikilink")出身。メイン[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を担当。
 
 ### 過去のメンバー
@@ -22,7 +22,7 @@
 
 [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を担当。脱退後はFlower Recordsからソロデビュー。2017年11月に行われたFlower Records 20周年パーティーでは久しぶりにReggae Disco Rockersと共演し、ボーカルをつとめた楽曲を披露した。
 
-  - 太田靖雄 （おおた やすお）
+  - 太田靖雄（おおた やすお）
     [トランペット](../Page/トランペット.md "wikilink")を担当。
 
 ## ディスコグラフィ
@@ -317,7 +317,7 @@
 <li>季節を知らない子供たち / doris × Reggae Disco Rockers</li>
 <li>砂に消えた涙 / Coba-U</li>
 <li>ZONE ID -Revisited- / Reggae Disco Rockers feat. Ako</li>
-<li>あの鐘をならすのはあなた (Reggae Disco Rockers Remix) / 和田ｱｷ子</li>
+<li>あの鐘をならすのはあなた (Reggae Disco Rockers Remix) / 和田アキ子</li>
 </ol></td>
 <td><p>フラワーレコーズ</p></td>
 </tr>

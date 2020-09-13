@@ -9,6 +9,10 @@
 
 英語版の[Microsoft Wordでは](../Page/Microsoft_Word.md "wikilink")、「=rand()」と入力しエンターキーを押すと、"The quick brown fox jumps over the lazy dog" を表示することができる。
 
+## 題名
+
+アンダミロの音楽ゲーム[Pump It Upにて](../Page/Pump_It_Up.md "wikilink")、Doinによる作曲の題名として用いられている。
+
 ## 関連項目
 
   - [パングラム](../Page/パングラム.md "wikilink")

@@ -195,7 +195,7 @@
 18. MC <small>(愛のメッセージキャンペーンの紹介)</small> - 押葉真吾
 19. [アイ・ノウ](https://ja.wikipedia.org/wiki/アイ・ノウ "wikilink") - 押葉真吾
 20. イマジン <small>(歌詞日本語訳朗読)</small> - 宮沢りえ
-21. [ストロベリー・フィールズ・フォーエバー](../Page/ストロベリー・フィールズ・フォーエバー.md "wikilink") <small>(フィルム上映)</small> <small>(NEWアルバム『[ラヴ](../Page/ラヴ_\(ビートルズのアルバム\).md "wikilink")』より)</small>
+21. [ストロベリー・フィールズ・フォーエバー](../Page/ストロベリー・フィールズ・フォーエバー.md "wikilink") <small>(フィルム上映)</small> <small>(NEWアルバム『[LOVE](https://ja.wikipedia.org/wiki/LOVE_\(ビートルズのアルバム\) "wikilink")』より)</small>
 22. [ヘルプ\!](../Page/ヘルプ!_\(ビートルズの曲\).md "wikilink") <small>(シングル『Aha\!(All We Want)』カップリング曲バージョン)</small> - LOVE PSYCHEDELICO
 23. [スタンド・バイ・ミー](https://ja.wikipedia.org/wiki/スタンド・バイ・ミー_\(ベン・E・キングの曲\) "wikilink") - LOVE PSYCHEDELICO
 24. [浮気娘](../Page/浮気娘.md "wikilink") - スキマスイッチ
@@ -251,7 +251,7 @@
   - [トータス松本](../Page/トータス松本.md "wikilink") <small>（第2回目公演以来6年ぶり・通算2回目）</small>
   - [フジファブリック](../Page/フジファブリック.md "wikilink") <small>（初出演）</small>
   - [BONNIE PINK](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink") <small>（2年連続出演・通算3回目）</small>
-  - [宮﨑あおい](https://ja.wikipedia.org/wiki/宮崎あおい "wikilink") <small>（初出演・曲の朗読）</small>
+  - [宮﨑あおい](https://ja.wikipedia.org/wiki/宮﨑あおい "wikilink") <small>（初出演・曲の朗読）</small>
   - [ゆず](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink") <small>（第1回目公演以来7年ぶり・通算2回目）</small>
   - [吉井和哉](../Page/吉井和哉.md "wikilink") <small>（2年連続出演・通算4回目）</small>
   - [LOVE PSYCHEDELICO](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink") <small>（4年連続出演・通算4回目）</small>

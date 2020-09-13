@@ -24,6 +24,7 @@
   - [ガール・オン・ザ・トレイン](https://ja.wikipedia.org/wiki/ガール・オン・ザ・トレイン "wikilink") *The Girl on the Train* (2016)
   - [ビリー・リンの永遠の一日](https://ja.wikipedia.org/wiki/ビリー・リンの永遠の一日 "wikilink") *Billy Lynn's Long Halftime Walk* (2016)
   - [おとぎ話を忘れたくて](https://ja.wikipedia.org/wiki/おとぎ話を忘れたくて "wikilink") *Nappily Ever After* (2018)
+  - [シカゴ7裁判](../Page/シカゴ7裁判.md "wikilink") *The Trial of the Chicago 7* (2020)
 
 ## 外部リンク
 

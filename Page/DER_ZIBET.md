@@ -9,7 +9,7 @@
     HIKARU（吉田 光、1960年2月22日 - 、[京都府](../Page/京都府.md "wikilink")出身）：[ギター](../Page/ギター.md "wikilink")・作詞・[作曲](../Page/作曲.md "wikilink")。
     HAL（川島晴信、1962年11月5日 - 、[東京都](../Page/東京都.md "wikilink")出身）：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")。
     MAYUMI（三瓶真弓、1962年12月15日 - 、東京都出身）：[ドラムス](../Page/ドラムセット.md "wikilink")。
-    MAHITO（藤原真人、1961年10月17日 - 、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")出身）：[キーボード](../Page/キーボード_\(楽器\).md "wikilink") 。
+    MAHITO（藤原真人、1961年7月12日 - 、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")出身）：[キーボード](../Page/キーボード_\(楽器\).md "wikilink") 。
     結成時のオリジナルメンバーだが[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーデビュー "wikilink")前に脱退。活動休止まではライヴでのサポートメンバーであり（スタジオ録音では『キリギリス』に参加）、再結成の際に再加入。
 
 ## 概要

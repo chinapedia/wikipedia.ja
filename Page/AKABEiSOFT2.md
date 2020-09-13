@@ -177,6 +177,7 @@
   - 2018年[4月27日](../Page/4月27日.md "wikilink") - 如月真綾の誘惑
   - 2019年[4月26日](../Page/4月26日.md "wikilink") - ALL×CATION
   - 2020年7月22日 - [Re CATION ～Melty Healing～](https://ja.wikipedia.org/wiki/Re_CATION_～Melty_Healing～ "wikilink")\[9\]
+  - 2020年11月27日 - [水蓮と紫苑](https://ja.wikipedia.org/wiki/水蓮と紫苑 "wikilink")\[10\]
 
 <!-- end list -->
 
@@ -245,8 +246,8 @@
   - 2018年9月28日 - きゃらぶれーしょん！ ～乙女は恋してキャラぶれる～
   - 2018年10月26日 - 手垢塗れの復讐
   - 2018年11月30日 - 手垢塗れコンプリートパック
-  - 2020年[4月24日](../Page/4月24日.md "wikilink") - 白詰指輪 ～四つ娘の花嫁 俺、全員選びました～\[10\]
-  - 2020年[4月24日](../Page/4月24日.md "wikilink") - 墓多DYINGZOMBIES ～Second Chance for BEAUTIFULLIVE～\[11\]
+  - 2020年[4月24日](../Page/4月24日.md "wikilink") - 白詰指輪 ～四つ娘の花嫁 俺、全員選びました～\[11\]
+  - 2020年[4月24日](../Page/4月24日.md "wikilink") - 墓多DYINGZOMBIES ～Second Chance for BEAUTIFULLIVE～\[12\]
 
 <!-- end list -->
 
@@ -309,7 +310,7 @@
 ## Webラジオ
 
   - 橘まおと花澤さくらのあかべぇらじお
-    [橘まお](https://ja.wikipedia.org/wiki/橘まお "wikilink")と[花澤さくら](https://ja.wikipedia.org/wiki/花澤さくら "wikilink")がパーソナリティを務める情報バラエティラジオ番組\[12\]。2017年7月14日から2018年6月22日まで[音泉](../Page/音泉.md "wikilink")にて配信された。毎週金曜日更新。
+    [橘まお](https://ja.wikipedia.org/wiki/橘まお "wikilink")と[花澤さくら](https://ja.wikipedia.org/wiki/花澤さくら "wikilink")がパーソナリティを務める情報バラエティラジオ番組\[13\]。2017年7月14日から2018年6月22日まで[音泉](../Page/音泉.md "wikilink")にて配信された。毎週金曜日更新。
 
 ## 脚注
 
@@ -326,7 +327,7 @@
   - [あかべぇそふとすりぃOfficial WebSite（年齢確認有）](http://www.akabeesoft3.com/)
   - [あかべぇそふとつぅTRY OFFICIAL WEB SITE（年齢確認有）](http://www.akabeesoft2-try.com/)
   - [暁WORKSオフィシャルWebサイト（年齢確認有）](http://www.akatsukiworks.com/)
-  - [hibikiオフィシャルWebサイト（年齢確認有）](http://www.hibiki-site.com/) ila.com/ しゃんぐりら&しゃんぐりら
+  - [hibikiオフィシャルWebサイト（年齢確認有）](https://www.hibiki-site.com/) ila.com/ しゃんぐりら&しゃんぐりら
   - [WHEEL OFFICIAL WEB SITE（年齢確認有）](http://www.wheel-soft.com/)
   - [あかべぇめでぃあ](http://www.akabeimedia.com/)
   - [COSMIC CUTE Official Website（年齢確認あり）](http://www.cosmiccute.com/)
@@ -351,3 +352,4 @@
 10.
 11.
 12.
+13.

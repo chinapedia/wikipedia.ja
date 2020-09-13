@@ -22,7 +22,7 @@
         作詞：電気グルーヴ／作曲：[Silvetti](https://ja.wikipedia.org/wiki/ファン・フェルナンド・シルヴェッティ・アドルノ "wikilink")、電気グルーヴ
     <!-- end list -->
       - タイトルは[理想郷を意味する](../Page/シャングリラ.md "wikilink")。
-      - 砂原の提案から、当初より[ベブ・シルヴェッティの](https://ja.wikipedia.org/wiki/ファン・フェルナンド・シルヴェッティ・アドルノ "wikilink")「[Spring Rain](https://ja.wikipedia.org/wiki/:en:Spring_Rain_\(Bebu_Silvetti_song\) "wikilink")」の[サンプリング](../Page/サンプリング.md "wikilink")を軸に制作する事は決定していたものの、完成したアレンジまでの到達は難航を極めたらしく、各種インタビュー等で苦心の様子が語られている。
+      - 砂原の提案から、当初より[ベブ・シルヴェッティの](https://ja.wikipedia.org/wiki/ファン・フェルナンド・シルヴェッティ・アドルノ "wikilink")「[スプリング・レイン](https://ja.wikipedia.org/wiki/:en:Spring_Rain_\(Bebu_Silvetti_song\) "wikilink")」の[サンプリング](../Page/サンプリング.md "wikilink")を軸に制作する事は決定していたものの、完成したアレンジまでの到達は難航を極めたらしく、各種インタビュー等で苦心の様子が語られている。
       - 初期の段階では、石野と瀧による[ラップ](../Page/ラップ.md "wikilink")の掛け合いで構成されていたというが、そのバージョンは「とても聴かせられない」との理由で[お蔵入り](../Page/お蔵入り.md "wikilink")となっている。その後も歌詞を制作するためだけの合宿を行うも詞が全く浮かばず、「ずっと『トロフィー』っていう単語しか浮かばねぇ…」と瀧が弱音を吐いたほど苦しんだ。
       - [PVは](../Page/ミュージック・ビデオ.md "wikilink")[ソープランド](https://ja.wikipedia.org/wiki/ソープランド "wikilink")をイメージして制作された。
       - 曲の[クレジットは](../Page/クレジットタイトル.md "wikilink")、当初「作詞・作曲：電気グルーヴ」と表記されていたが、サンプリング上の権利問題回避として、作曲者にシルヴェッティの名が先に加えられた。[JASRACでの登録上も](../Page/日本音楽著作権協会.md "wikilink")「外国作品」の扱いになっており、1998年度上半期の[JASRAC](https://ja.wikipedia.org/wiki/JASRAC "wikilink")の著作権使用料分配額（外国作品）ランキングで総合5位にランクインされた\[1\]。
@@ -96,17 +96,15 @@
 
 <!-- end list -->
 
-  - [COOLON](../Page/COOLON.md "wikilink")/Shangri-La〜Poison ポワゾン〜（2006年5月31日）
-  - [BeForU](../Page/BeForU.md "wikilink")/SHANGRI-LA（2008年9月10日）
-  - [Saori@destiny](https://ja.wikipedia.org/wiki/Saori@destiny "wikilink")/Shangri-La（2008年11月19日）
-      -
-        [iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")で先行配信された。
-  - [キャプテンストライダム](https://ja.wikipedia.org/wiki/キャプテンストライダム "wikilink")/Shangri-La - シングル『[ブギーナイト・フィーバー](https://ja.wikipedia.org/wiki/ブギーナイト・フィーバー "wikilink")』（2009年5月20日）のカップリングとして収録
-  - [オマスガ](https://ja.wikipedia.org/wiki/オマスガ "wikilink")/Shangri-La（2010年4月21日）
-  - [SKA LOVERS](https://ja.wikipedia.org/wiki/SKA_LOVERS "wikilink")/Shangri-La（2010年9月1日）アルバム『LOVERS SKA \~Sing With You\~』 9曲目収録）
-  - [Crush Tears](https://ja.wikipedia.org/wiki/Crush_Tears "wikilink")/Shangri-La（2010年12月15日）
-  - [パスピエ](https://ja.wikipedia.org/wiki/パスピエ_\(バンド\) "wikilink")/Shangri-La（2014年3月26日）（『[MATATABISTEP/あの青と青と青](https://ja.wikipedia.org/wiki/MATATABISTEP/あの青と青と青 "wikilink")』 4曲目収録）
-  - [チャラン・ポ・ランタン](https://ja.wikipedia.org/wiki/チャラン・ポ・ランタン "wikilink") - カバーアルバム『借りもの協奏』（2016年9月14日）に収録\[2\]
+  - [COOLON](../Page/COOLON.md "wikilink") - Shangri-La〜Poison ポワゾン〜（2006年5月31日）
+  - [BeForU](../Page/BeForU.md "wikilink") - SHANGRI-LA（2008年9月10日）
+  - [Saori@destiny](https://ja.wikipedia.org/wiki/Saori@destiny "wikilink") - Shangri-La（2008年11月19日）
+  - [キャプテンストライダム](https://ja.wikipedia.org/wiki/キャプテンストライダム "wikilink") - Shangri-La（シングル「[ブギーナイト・フィーバー](https://ja.wikipedia.org/wiki/ブギーナイト・フィーバー "wikilink")」（2009年5月20日）に収録。
+  - [オマスガ](https://ja.wikipedia.org/wiki/オマスガ "wikilink") - Shangri-La（2010年4月21日）
+  - [SKA LOVERS](https://ja.wikipedia.org/wiki/SKA_LOVERS "wikilink") - Shangri-La（アルバム『LOVERS SKA \~Sing With You\~』に収録。）
+  - [Crush Tears](https://ja.wikipedia.org/wiki/Crush_Tears "wikilink") - Shangri-La（シングル「[LOVE LOVE SHOW/Shangri-La](https://ja.wikipedia.org/wiki/LOVE_LOVE_SHOW/Shangri-La "wikilink")」（2010年12月15日）に収録。
+  - [パスピエ](https://ja.wikipedia.org/wiki/パスピエ_\(バンド\) "wikilink") - Shangri-La（シングル「[MATATABISTEP/あの青と青と青](https://ja.wikipedia.org/wiki/MATATABISTEP/あの青と青と青 "wikilink")」（2014年3月26日）に収録。）
+  - [チャラン・ポ・ランタン](https://ja.wikipedia.org/wiki/チャラン・ポ・ランタン "wikilink") - Shangri-La（カバーアルバム『[借りもの協奏](https://ja.wikipedia.org/wiki/借りもの協奏 "wikilink")』（2016年9月14日）に収録\[2\]。）
 
 ## 脚注
 

@@ -124,7 +124,7 @@ Ambitious バージョン</p></td>
   - [GAM結成時のつんく♂コメント（ハロー\!プロジェクト公式サイト）](http://www.helloproject.com/news/gam_tunku.html)
   - [つんく♂オフィシャルウェブサイトのコメント](http://www.tsunku.net/producework.php?Music_ArtistID=7)
 
-[Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:ハロー\!プロジェクトのユニット](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクトのユニット "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:2006年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2006年に結成した音楽グループ "wikilink")
+[Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:ハロー\!プロジェクトのユニット](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクトのユニット "wikilink") [Category:ハロー\!プロジェクトのポップ・グループ](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクトのポップ・グループ "wikilink") [Category:2006年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2006年に結成した音楽グループ "wikilink")
 
 1.  [GAM結成時のつんく♂コメント](http://www.helloproject.com/news/gam_tunku.html)
 2.  藤本は[2009年](../Page/2009年.md "wikilink")、松浦は[2013年](../Page/2013年.md "wikilink")にそれぞれ結婚。[2012年](../Page/2012年.md "wikilink")には藤本、2014年12月には松浦が、それぞれ第1子を出産した。

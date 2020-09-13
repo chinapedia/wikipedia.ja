@@ -5,7 +5,7 @@
 
 ## 概要
 
-[MINPACK](https://ja.wikipedia.org/wiki/MINPACK "wikilink")、[EISPACK](https://ja.wikipedia.org/wiki/EISPACK "wikilink") と同様、米国[アルゴンヌ国立研究所](../Page/アルゴンヌ国立研究所.md "wikilink")で[FORTRAN](../Page/FORTRAN.md "wikilink")ライブラリとして開発された。実際に開発を行ったのは [ジャック・ドンガラ](https://ja.wikipedia.org/wiki/ジャック・ドンガラ "wikilink")、ジム・バンチ、、ギルバート・スチュアートである。1970年代から1980年代初期の[スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")を対象として設計され\[1\]\[2\]、その後より洗練されたライブラリ[LAPACK](../Page/LAPACK.md "wikilink")に取って代わられた。
+[MINPACK](https://ja.wikipedia.org/wiki/MINPACK "wikilink")、[EISPACK](https://ja.wikipedia.org/wiki/EISPACK "wikilink") と同様、米国[アルゴンヌ国立研究所](../Page/アルゴンヌ国立研究所.md "wikilink")で[FORTRAN](../Page/FORTRAN.md "wikilink")ライブラリとして開発された。実際に開発を行ったのは [ジャック・ドンガラ](https://ja.wikipedia.org/wiki/ジャック・ドンガラ "wikilink")、ジム・バンチ、[クリーブ・モラー](https://ja.wikipedia.org/wiki/クリーブ・モラー "wikilink")、ギルバート・スチュアートである。1970年代から1980年代初期の[スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")を対象として設計され\[1\]\[2\]、その後より洗練されたライブラリ[LAPACK](../Page/LAPACK.md "wikilink")に取って代わられた。
 
 LINPACK は BLAS（[Basic Linear Algebra Subprograms](https://ja.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms "wikilink")、基本線形代数サブプログラム群）ライブラリを使ってベクトル演算や行列演算を行う。
 

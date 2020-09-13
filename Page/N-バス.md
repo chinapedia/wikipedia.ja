@@ -7,9 +7,9 @@
 
 ルートは、市役所・[福祉の家](../Page/長久手温泉ござらっせ.md "wikilink")・[杁ヶ池公園駅](https://ja.wikipedia.org/wiki/杁ヶ池公園駅 "wikilink")と市内各所を結ぶ「中央循環線（右回り）（左回り）」「福祉の家線（双方向）」「西部循環線（右回り）（左回り）」「藤が丘線（一部双方向）」「東部線」｢北部線｣「三ヶ峯線（双方向）\[1\]」の7系統で運行。
 
-藤が丘線は、市域を越えて[名古屋市](../Page/名古屋市.md "wikilink")[名東区](../Page/名東区.md "wikilink")、[名古屋市営地下鉄東山線](https://ja.wikipedia.org/wiki/名古屋市営地下鉄東山線 "wikilink")[藤が丘駅の近くにある](../Page/藤が丘駅_\(愛知県\).md "wikilink")、「藤が丘」停留所を経由する。（ちなみに中央循環線と西部循環線で、[日進市](../Page/日進市.md "wikilink")を通る区間があるが、こちらは停留所はない。）
+藤が丘線は、市域を越えて[名古屋市](../Page/名古屋市.md "wikilink")[名東区](../Page/名東区.md "wikilink")、[名古屋市営地下鉄](../Page/名古屋市営地下鉄.md "wikilink")[東山線](https://ja.wikipedia.org/wiki/名古屋市営地下鉄東山線 "wikilink") [藤が丘駅の近くにある](../Page/藤が丘駅_\(愛知県\).md "wikilink")、「藤が丘」停留所を経由する。（ちなみに中央循環線と西部循環線で、[日進市](../Page/日進市.md "wikilink")を通る区間があるが、こちらは停留所はない。）
 
-時間は大幅に掛かるが、このバスを活用することにより藤が丘駅から100円で[イオンモール長久手](https://ja.wikipedia.org/wiki/イオンモール長久手 "wikilink")へ行くことができる。（市役所で藤が丘線と中央循環線を乗継券で乗り換え。[長久手古戦場駅](https://ja.wikipedia.org/wiki/長久手古戦場駅 "wikilink")下車）なお、同区間で[リニモを利用した場合は](https://ja.wikipedia.org/wiki/愛知高速交通東部丘陵線 "wikilink")240円。
+時間は大幅に掛かるが、このバスを活用することにより藤が丘駅から100円で[イオンモール長久手](https://ja.wikipedia.org/wiki/イオンモール長久手 "wikilink")へ行くことができる。（市役所で藤が丘線と中央循環線を乗継券で乗り換え。[長久手古戦場駅](https://ja.wikipedia.org/wiki/長久手古戦場駅 "wikilink")下車）なお、同区間で[愛知高速交通](../Page/愛知高速交通.md "wikilink")[東部丘陵線（リニモ）を利用した場合は](https://ja.wikipedia.org/wiki/愛知高速交通東部丘陵線 "wikilink")240円。
 
 毎日運行。ただし、12月29日～1月3日の年末年始は運休となる。
 

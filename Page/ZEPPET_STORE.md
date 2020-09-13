@@ -20,7 +20,7 @@
 
 ### hideとの出会い
 
-  - 当初はあまり精力的な活動は行っていなかったが、インディーズ・デビューを果たしてから1年後の[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、『Swing、Slide、Sandpit』が当時[X JAPANのメンバーであったhideの耳に止まり](../Page/X_JAPAN.md "wikilink")、その音楽性に惚れ込んだ彼の働きかけによりゼペットの音楽を世に送り出すためのレーベル「LEMONed」がビクターに設立される。また同時期、ベーシストとして中村が加入。hideは早速彼らを海外レコーディングへと誘い、hideのバックアップのもと、セカンド・アルバム『716』を完成させる。[欧米](../Page/欧米.md "wikilink")のバンドのようなサウンドに仕上がった本作は日本ではリリースせずに[全米](https://ja.wikipedia.org/wiki/全米 "wikilink")のみで発売（日本でも[輸入盤](https://ja.wikipedia.org/wiki/輸入盤 "wikilink")が[流通](https://ja.wikipedia.org/wiki/流通 "wikilink")）し、全米ツアーを行った。
+  - 当初はあまり精力的な活動は行っていなかったが、インディーズ・デビューを果たしてから1年後の[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、『Swing、Slide、Sandpit』が当時[X JAPANのメンバーであったhideの耳に止まり](../Page/X_JAPAN.md "wikilink")、その音楽性に惚れ込んだ彼の働きかけによりゼペットの音楽を世に送り出すためのレーベル「LEMONed」がビクターに設立される。また同時期、ベーシストとして中村が加入。hideは早速彼らを海外レコーディングへと誘い、hideのバックアップのもと、セカンド・アルバム『716』を完成させる。[欧米](../Page/欧米.md "wikilink")のバンドのようなサウンドに仕上がった本作は日本ではリリースせずに[全米のみで発売](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")（日本でも[輸入盤](https://ja.wikipedia.org/wiki/輸入盤 "wikilink")が[流通](https://ja.wikipedia.org/wiki/流通 "wikilink")）し、全米ツアーを行った。
   - [1996年](../Page/1996年.md "wikilink")、[MCAビクター](https://ja.wikipedia.org/wiki/MCAビクター "wikilink")(現[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック "wikilink"))から[メジャー・デビュー](https://ja.wikipedia.org/wiki/メジャー・デビュー "wikilink")を果たす。またメジャーデビューをきっかけとして、以降は日本語詞による楽曲も発表するようになった。
 
 ### hideとの別れ
@@ -40,18 +40,9 @@
 ### 解散後の動き
 
   - 解散後、ボーカル、ギターの木村は新バンド[HOODIS](https://ja.wikipedia.org/wiki/HOODIS "wikilink")を結成。ベースは元[Walrus](https://ja.wikipedia.org/wiki/Walrus "wikilink")の三浦薫、ドラムは元[SUPERCAR](../Page/SUPERCAR.md "wikilink")の田沢公大、そして、ギターは盟友の五味誠が担当している。
-
-<!-- end list -->
-
   - [2007年](../Page/2007年.md "wikilink")に、[1994年](../Page/1994年.md "wikilink")に発売したインディーズ盤『SWING,SLIDE,SANDPIT』が、リマスタリング仕様・未発表音源等を収録したボーナス・ディスクを付属した2枚組で再発された。また、2007年6月2日に行われた「Under Flower発足15周年記念イベント」で、木村世治（Vo,G）、五味誠（G）、遠矢行史（B）、柳田英輝（Dr）というオリジナル・ラインナップで一夜限りの再結成ライブをした。
-
-<!-- end list -->
-
   - 2007年に、ドラムの柳田＝YANAは、[Mellowhead](https://ja.wikipedia.org/wiki/Mellowhead "wikilink")/[PLAGUES](../Page/PLAGUES.md "wikilink")の[深沼元昭](https://ja.wikipedia.org/wiki/深沼元昭 "wikilink")（Vo,G）、元[PEALOUT](../Page/PEALOUT.md "wikilink")の[近藤智洋](https://ja.wikipedia.org/wiki/近藤智洋 "wikilink")（Vo,G）、[東京ピンサロックス](https://ja.wikipedia.org/wiki/東京ピンサロックス "wikilink")の[hisayo](https://ja.wikipedia.org/wiki/hisayo "wikilink")（B）と新バンド[GHEEE](../Page/GHEEE.md "wikilink")を結成。その他、AKUH、NACANO、Vez、Microphone and Fish、エレキバターの計6バンドでドラムを兼任
   - 2007年、ベースの中村は自身のバンドLUCY'S DRIVEをソロユニットとして再スタートさせる。
-
-<!-- end list -->
-
   - [木村は](../Page/木村世治.md "wikilink")[hurdy gurdyとしてソロ活動](https://ja.wikipedia.org/wiki/木村世治#hurdy_gurdy "wikilink")。
 
 ### 震災チャリティーのため再結成
@@ -981,15 +972,15 @@ TOCT-22029:マキシ</p></td>
 
 ## ミュージックビデオ
 
-|                                                                     |                                                                                                                                                                                     |
-| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **監督**                                                              | **曲名**                                                                                                                                                                              |
-| [久保茂昭](../Page/久保茂昭.md "wikilink")                                  | 「PUZZLE」「SEEK OUT」                                                                                                                                                                  |
-| [齋藤和廣](https://ja.wikipedia.org/wiki/齋藤和廣 "wikilink")               | 「SUPER STITION」                                                                                                                                                                     |
-| [須永秀明](../Page/須永秀明.md "wikilink")                                  | 「DISTANCE」「EMOTION」                                                                                                                                                                 |
-| [Higuchinsky](https://ja.wikipedia.org/wiki/Higuchinsky "wikilink") | 「PRESENCE」                                                                                                                                                                          |
-| [藤兼友子](https://ja.wikipedia.org/wiki/藤兼友子 "wikilink")               | 「DELIGHT」                                                                                                                                                                           |
-| 不明                                                                  | 「BLUE」「DON'T ASK ME WHY」「FLAKE」「FLY HIGH」「GETAWAY?SEARCH ME」「LOOP」「ROSE」「SPIRAL」「TIGHTROPE」「TO BE FREE」「もっともっと」「遠くまで」「声」 |-「[NOTHING](https://www.youtube.com/watch?v=0LEMlbpx6jU)」 |
+|                                                       |                                                                                                                                                                                     |
+| ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **監督**                                                | **曲名**                                                                                                                                                                              |
+| [久保茂昭](../Page/久保茂昭.md "wikilink")                    | 「PUZZLE」「SEEK OUT」                                                                                                                                                                  |
+| [齋藤和廣](https://ja.wikipedia.org/wiki/齋藤和廣 "wikilink") | 「SUPER STITION」                                                                                                                                                                     |
+| [須永秀明](../Page/須永秀明.md "wikilink")                    | 「DISTANCE」「EMOTION」                                                                                                                                                                 |
+| [Higuchinsky](../Page/Higuchinsky.md "wikilink")      | 「PRESENCE」                                                                                                                                                                          |
+| [藤兼友子](https://ja.wikipedia.org/wiki/藤兼友子 "wikilink") | 「DELIGHT」                                                                                                                                                                           |
+| 不明                                                    | 「BLUE」「DON'T ASK ME WHY」「FLAKE」「FLY HIGH」「GETAWAY?SEARCH ME」「LOOP」「ROSE」「SPIRAL」「TIGHTROPE」「TO BE FREE」「もっともっと」「遠くまで」「声」 |-「[NOTHING](https://www.youtube.com/watch?v=0LEMlbpx6jU)」 |
 
 ## 主なライブ
 

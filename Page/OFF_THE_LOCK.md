@@ -1,7 +1,7 @@
 > この記事は[OFF THE LOCK](https://ja.wikipedia.org/wiki/OFF_THE_LOCK)から翻訳されています。
 
 
-『**OFF THE LOCK**』(オフ・ザ・ロック)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")が[1989年](../Page/1989年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")に[BMGビクターからリリースした](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")2作目の[オリジナル・アルバム](../Page/スタジオ・アルバム.md "wikilink")。このアルバムは、BMGルームス(現:[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink"))の設立後も、発売権は[ソニー・ミュージックダイレクト](../Page/ソニー・ミュージックダイレクト.md "wikilink")の[GT musicに残された](../Page/ソニー・ミュージックダイレクト.md "wikilink")。
+『**OFF THE LOCK**』(オフ・ザ・ロック)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")が1989年5月21日に[BMGビクターからリリースした](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")2作目の[オリジナル・アルバム](../Page/スタジオ・アルバム.md "wikilink")。このアルバムは、BMGルームス(現:[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink"))の設立後も、発売権は[ソニー・ミュージックダイレクト](../Page/ソニー・ミュージックダイレクト.md "wikilink")の[GT musicに残された](../Page/ソニー・ミュージックダイレクト.md "wikilink")。
 
 ## 内容
 
@@ -17,7 +17,7 @@
 
 非公認[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[Flash Back -B'z Early Special Titles-](../Page/Flash_Back_-B'z_Early_Special_Titles-.md "wikilink")』には、表題曲「OFF THE LOCK」を除いた全曲が収録されている。
 
-[2018年](../Page/2018年.md "wikilink")に結成30周年記念として『[DINOSAUR](https://ja.wikipedia.org/wiki/DINOSAUR_\(B'zのアルバム\) "wikilink")』までのオリジナルアルバムと共に[アナログレコード化された](../Page/レコード.md "wikilink")\[7\]\[8\]。
+2018年に結成30周年記念として『[DINOSAUR](https://ja.wikipedia.org/wiki/DINOSAUR_\(B'zのアルバム\) "wikilink")』までのオリジナル・アルバムと共に[アナログレコード化された](../Page/レコード.md "wikilink")\[7\]\[8\]。
 
 ## 収録曲
 
@@ -28,15 +28,15 @@
         2ndシングルの表題曲。
 2.  **HURRY UP\!** (3:49)
       -
-        歌詞の内容は友人の恋を応援するというB'zの曲では珍しいシチュエーション。
+        歌詞は友人の恋を応援する内容で稲葉は「僕の高校時代に似てます」と語っている\[9\]。
         “Hip Chic”という[歌詞](../Page/歌詞.md "wikilink")は“サカナ”と歌われている。
-        ちなみに、B'zの曲で最もテンポの速い曲\[9\]。
-        無名時代、『YAMAHA EXPLOSION '89』(バンドコンテストの大会。後にテレビ放映もされた)に前座として出演し、「[だからその手を離して](../Page/だからその手を離して.md "wikilink")」とこの曲を披露した。
-        1992年に行われたツアー『[B'z LIVE-GYM Pleasure '92 "TIME"](https://ja.wikipedia.org/wiki/LIVE-GYM_#1989年-1993年 "wikilink")』以降演奏されていなかったが、2008年に行われたツアー『[B'z LIVE-GYM 2008 "ACTION"](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2008_-ACTION- "wikilink")』(鹿児島限定)で、15年振りに演奏された。
+        ちなみに、B'zの曲で最もテンポの速い曲\[10\]。
+        無名時代、『YAMAHA EXPLOSION '89』（バンドコンテストの大会。後にテレビ放映もされた）に前座として出演し、「[だからその手を離して](../Page/だからその手を離して.md "wikilink")」とこの曲を披露した。
+        1992年に行われたツアー『[B'z LIVE-GYM Pleasure '92 "TIME"](https://ja.wikipedia.org/wiki/LIVE-GYM_#1989年-1993年 "wikilink")』以降演奏されていなかったが、2008年に行われたツアー『[B'z LIVE-GYM 2008 "ACTION"](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2008_-ACTION- "wikilink")』（鹿児島限定）で、15年振りに演奏された。
 3.  **NEVER LET YOU GO** (5:41)
       -
         当時のライブで稲葉は「この曲を歌いながら泣きそうになった」とコメントしている。
-        後に松本は、この曲を「B'z究極のラブソング」と評している\[10\]。
+        後に松本は、この曲を「B'z究極のラブソング」と評している\[11\]。
         後にマスト・アルバム『[B'z The "Mixture"](../Page/B'z_The_"Mixture".md "wikilink")』でリメイクされる。
 4.  **SAFETY LOVE** (4:11)
       -
@@ -50,24 +50,24 @@
 6.  **夜にふられても**　（3:55）
       -
         夜のドライブをテーマにした曲。
-        テンポが速く、当時のライブでは盛り上げ曲としてよく歌われていた。
+        松本は本曲についてライブで演奏するのが楽しいと語っている\[12\]。
 7.  **LOVING ALL NIGHT** (5:22)
       -
         当時流行の[ディスコ](../Page/ディスコ.md "wikilink")をテーマとした曲。
         「君の中で踊りたい」同様[ラップ](../Page/ラップ.md "wikilink")を絡めてある。
-        後に3rdミニアルバム『[MARS](../Page/MARS_\(B'zのアルバム\).md "wikilink")』で全英詞[ハードロック](../Page/ハードロック.md "wikilink")ナンバーにリメイク。
+        後に3rdミニアルバム『[MARS](../Page/MARS_\(B'zのアルバム\).md "wikilink")』で全英詞[ハードロック](../Page/ハードロック.md "wikilink")ナンバーにリメイクした。
 8.  **OH\! GIRL** (4:11)
       -
         『[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』の投票では16位にランクインした。
-        後にアルバム『B'z The "Mixture"』でリメイクされる。
-        [ライブで演奏機会が本作収録曲では最も多く](../Page/LIVE-GYM.md "wikilink")、特に1997年に行われたツアー『[B'z LIVE-GYM Pleasure '97 "FIREBALL"](https://ja.wikipedia.org/wiki/LIVE-GYM_#1994年-1998年 "wikilink")』、2008年に行われたツアー『[B'z LIVE-GYM Pleasure 2008 -GLORY DAYS-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_Pleasure_2008_-GLORY_DAYS- "wikilink")』\[11\]を除くすべての[Pleasureツアーシリーズで披露されている](https://ja.wikipedia.org/wiki/LIVE-GYM_#Pleasureツアー "wikilink")。
+        後にアルバム『B'z The "Mixture"』でリメイクした。
+        [ライブで演奏機会が本作収録曲では最も多く](../Page/LIVE-GYM.md "wikilink")、特に1997年に行われたツアー『[B'z LIVE-GYM Pleasure '97 "FIREBALL"](https://ja.wikipedia.org/wiki/LIVE-GYM_#1994年-1998年 "wikilink")』、2008年に行われたツアー『[B'z LIVE-GYM Pleasure 2008 -GLORY DAYS-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_Pleasure_2008_-GLORY_DAYS- "wikilink")』\[13\]を除くすべての[Pleasureツアーシリーズで披露されている](https://ja.wikipedia.org/wiki/LIVE-GYM_#Pleasureツアー "wikilink")。
 9.  **ROSY** (4:55)
       -
         [メロディ](../Page/メロディ.md "wikilink")は松本がB'zでのデビュー前に発売したソロアルバム『[Thousand Wave](../Page/Thousand_Wave.md "wikilink")』収録曲「"99"」が元になっている。
         また、後にサビの部分を「[Love Ya](../Page/'88〜Love_Story.md "wikilink")」の中間部ギターソロパートで使用している。
 10. **OFF THE LOCK** (1:21)
       -
-        表題曲。約1分20秒と短く、歌詞は一応あるものの[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")の趣向が強い。
+        表題曲。約1分20秒と短く、歌詞は一応あるものの[インストゥルメンタルの趣向が強い](../Page/器楽曲.md "wikilink")。
         アルバムに表題曲が入るのは本作が初であり、表題曲が最後に来る作品はシングル、アルバム通して本作のみである。
 
 ## 参加ミュージシャン
@@ -122,4 +122,6 @@
 8.  発売は、[原盤権](../Page/原盤権.md "wikilink")を所有する[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")
 9.
 10.
-11. 同年の『B'z LIVE-GYM 2008 "ACTION"』で演奏され、曲目が総入れ替えとなったため。
+11.
+12.
+13. 同年の『B'z LIVE-GYM 2008 "ACTION"』で演奏され、曲目が総入れ替えとなったため。

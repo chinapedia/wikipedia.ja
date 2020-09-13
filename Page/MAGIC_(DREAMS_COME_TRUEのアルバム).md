@@ -27,7 +27,7 @@
       - 作曲：吉田美和・中村正人
 5.  **I'm a liar**
       - 作曲：中村正人
-6.  **<span id="a_little_waltz">a little waltz</span>**
+6.  **<span id="a_little_waltz"> 𝓪 𝓵𝓲𝓽𝓽𝓵𝓮 𝔀𝓪𝓵𝓽𝔃 （a little waltz）</span>**
       - 作曲：吉田美和
       - [日本コカ・コーラ](../Page/日本コカ・コーラ.md "wikilink")「[爽健美茶](../Page/爽健美茶.md "wikilink")」CMソング、PS2『[牧場物語 Oh\!ワンダフルライフ](../Page/牧場物語_ワンダフルライフ.md "wikilink")』主題歌
       - この曲のタイトルだけは筆記体で表記されている。これは、他の作品に収録されたときにも同じである。

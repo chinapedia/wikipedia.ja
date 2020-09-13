@@ -47,7 +47,7 @@
 
   - **kanariya**
       - 『[LOVEppears](../Page/LOVEppears.md "wikilink")』(アルバムバージョン)
-      - 『[A COMPLETE 〜ALL SINGLES〜](https://ja.wikipedia.org/wiki/A_COMPLETE_〜ALL_SINGLES〜 "wikilink")』(アルバムバージョン)
+      - 『[A COMPLETE 〜ALL SINGLES〜](https://ja.wikipedia.org/wiki/A_COMPLETE_〜ALL_SINGLES〜 "wikilink")』(Radio Edit)
 
 ## 脚注
 

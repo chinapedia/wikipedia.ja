@@ -5,13 +5,13 @@
 
 ## 概要
 
-舗装路での性能を重視したSUV（[スポーツ・ユーティリティ・ビークル](../Page/スポーツ・ユーティリティ・ビークル.md "wikilink")）で、俗に「**街乗りSUV**」とも呼ばれる。狭義にはSUVと呼ばれる自動車のうち、[トラック](../Page/トラック.md "wikilink")や[クロスカントリー車に採用される](../Page/オフロード.md "wikilink")[フレーム構造ではなく](../Page/フレーム形式_\(自動車\).md "wikilink")、[セダン](../Page/セダン.md "wikilink")や[クーペ](../Page/クーペ.md "wikilink")、[ステーションワゴン](../Page/ステーションワゴン.md "wikilink")などと同様に[モノコック](../Page/モノコック.md "wikilink")（ユニボディ）構造である車を指す。一方で時代の流れと共に範囲が拡大し続けており、古くからの「SUV」のイメージにこだわると理解が難しくなるケースも増えている。  自動車のカテゴリとしては比較的新しい部類で、趣味性と実用性を両立したジャンルとして1990年代に確立されて以降爆発的にヒットし、今日では[SUVタイプの主流となってきている](../Page/スポーツ・ユーティリティ・ビークル.md "wikilink")。そのバリエーションは[高級車](../Page/高級車.md "wikilink")から[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")、[ミニバン](../Page/ミニバン.md "wikilink")（3列シート）、[セダン](../Page/セダン.md "wikilink")、[クーペ](../Page/クーペ.md "wikilink")、[オープンカー](../Page/オープンカー.md "wikilink")まで多岐にわたり、世界中の[自動車メーカーから多種多様なクロスオーバーSUVが販売されている](../Page/自動車産業.md "wikilink")。
+[3rd_Subaru_Outback_sedan.jpg](https://ja.wikipedia.org/wiki/File:3rd_Subaru_Outback_sedan.jpg "fig:3rd_Subaru_Outback_sedan.jpg")型CUVの[スバル・アウトバックセダン](../Page/スバル・レガシィアウトバック.md "wikilink")（北米市場専売車種）\]\] 舗装路での性能を重視したSUV（[スポーツ・ユーティリティ・ビークル](../Page/スポーツ・ユーティリティ・ビークル.md "wikilink")）で、俗に「**街乗りSUV**」とも呼ばれる。狭義にはSUVと呼ばれる自動車のうち、[トラック](../Page/トラック.md "wikilink")や[クロスカントリー車に採用される](../Page/オフロード.md "wikilink")[フレーム構造ではなく](../Page/フレーム形式_\(自動車\).md "wikilink")、[セダン](../Page/セダン.md "wikilink")や[クーペ](../Page/クーペ.md "wikilink")、[ステーションワゴン](../Page/ステーションワゴン.md "wikilink")などと同様に[モノコック](../Page/モノコック.md "wikilink")（ユニボディ）構造である車を指す。一方で時代の流れと共に範囲が拡大し続けており、古くからの「SUV」のイメージにこだわると理解が難しくなるケースも増えている。  自動車のカテゴリとしては比較的新しい部類で、趣味性と実用性を両立したジャンルとして1990年代に確立されて以降爆発的にヒットし、今日では[SUVタイプの主流となってきている](../Page/スポーツ・ユーティリティ・ビークル.md "wikilink")。そのバリエーションは[高級車](../Page/高級車.md "wikilink")から[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")、[ミニバン](../Page/ミニバン.md "wikilink")（3列シート）、[セダン](../Page/セダン.md "wikilink")、[クーペ](../Page/クーペ.md "wikilink")、[オープンカー](../Page/オープンカー.md "wikilink")まで多岐にわたり、世界中の[自動車メーカーから多種多様なクロスオーバーSUVが販売されている](../Page/自動車産業.md "wikilink")。
 
 ## 特徴
 
 ラダーフレーム構造のクロスカントリー系SUVに比べると、モノコック構造の恩恵（燃費・乗り心地・静粛性・居住空間・衝突安全性・高剛性）が得られるため、主に舗装路性能・日常遣いで優れている。モノコック構造は衝撃に弱く、補強無しに悪路で長期間使用すると骨格が歪んでしまうが、実際には海外の広大な砂漠や荒野などに住んでいない限りは問題にならない。
 
-一般的な乗用車（[コンパクトカー](../Page/コンパクトカー.md "wikilink")や[セダン](../Page/セダン.md "wikilink")など）に比べると、積載性や室内の広さ、目線の高さ、乗降のしやすさといった実用性面で優れる。特に目線の高さは見通しの悪い市街地では有効である。一方車重が重いため価格と維持費は高くなり、重心は高くなるため敏捷性でも劣る。[ミニバン](../Page/ミニバン.md "wikilink")や[トールワゴン](../Page/トールワゴン.md "wikilink")に比べると逆に積載性では劣るが、運動性能では優れる。
+一般的な乗用車（[ハッチバック](../Page/ハッチバック.md "wikilink")や[セダン](../Page/セダン.md "wikilink")、[ステーションワゴン](../Page/ステーションワゴン.md "wikilink")など）に比べると、積載性や室内の広さ、目線の高さ、乗降のしやすさといった実用性面で優れる。特に目線の高さは見通しの悪い市街地では有効である。一方車重が重いため価格と維持費は高くなり、重心は高くなるため敏捷性でも劣る。[ミニバン](../Page/ミニバン.md "wikilink")や[トールワゴン](../Page/トールワゴン.md "wikilink")に比べると逆に積載性では劣るが、運動性能では優れる。
 
 元々「クロスカントリー系SUVを街乗り向けにしよう」という発想から生まれたという出自に加え、**[SUV](https://ja.wikipedia.org/wiki/SUV "wikilink")の名称が用いられているため、どうしても走破性を重視したラダーフレーム構造のクロスカントリー系SUVと比べられがちであるが、実態はセダンやクーペ、ステーションワゴンなどの車高及び全高を高めただけの車であることがほとんどである**。
 
@@ -27,7 +27,7 @@
 
 ## CUVの動向
 
-[2014_Nissan_Qashqai_(J11)_Ti_wagon_(16468730682).jpg](https://ja.wikipedia.org/wiki/File:2014_Nissan_Qashqai_\(J11\)_Ti_wagon_\(16468730682\).jpg "fig:2014_Nissan_Qashqai_(J11)_Ti_wagon_(16468730682).jpg") [GAC-Mitsubishi_Eupheme_001.jpg](https://ja.wikipedia.org/wiki/File:GAC-Mitsubishi_Eupheme_001.jpg "fig:GAC-Mitsubishi_Eupheme_001.jpg") 1995年に[スバル・レガシィアウトバック](../Page/スバル・レガシィアウトバック.md "wikilink")、[日産・パスファインダー](../Page/日産・パスファインダー.md "wikilink")（2代目）、1996年に[トヨタ・RAV4](../Page/トヨタ・RAV4.md "wikilink")、1997年に[ホンダ・CR-V](../Page/ホンダ・CR-V.md "wikilink")、1998年に[スバル・フォレスター](../Page/スバル・フォレスター.md "wikilink")など、日本車メーカーが主に国内市場の流行に合わせて開発したモノコック構造のクロカンを、北米にも続々と投入した\[9\]。こうしたムーブメントに米国自動車ジャーナリズム界も「クロスオーバーSUV」という呼称を用いることが増え、やがていちジャンルとして確立された。RAV4とCR-Vはその後もヒットを飛ばし続け、2017年には世界で最も売れたSUVの1位と2位を占めている\[10\]。
+[2020_Toyota_Corolla_Cross_Hybrid_Premium_Safety.jpg](https://ja.wikipedia.org/wiki/File:2020_Toyota_Corolla_Cross_Hybrid_Premium_Safety.jpg "fig:2020_Toyota_Corolla_Cross_Hybrid_Premium_Safety.jpg")\]\] [2014_Nissan_Qashqai_(J11)_Ti_wagon_(16468730682).jpg](https://ja.wikipedia.org/wiki/File:2014_Nissan_Qashqai_\(J11\)_Ti_wagon_\(16468730682\).jpg "fig:2014_Nissan_Qashqai_(J11)_Ti_wagon_(16468730682).jpg")\]\] [GAC-Mitsubishi_Eupheme_001.jpg](https://ja.wikipedia.org/wiki/File:GAC-Mitsubishi_Eupheme_001.jpg "fig:GAC-Mitsubishi_Eupheme_001.jpg") 1995年に[スバル・レガシィアウトバック](../Page/スバル・レガシィアウトバック.md "wikilink")、[日産・パスファインダー](../Page/日産・パスファインダー.md "wikilink")（2代目）、1996年に[トヨタ・RAV4](../Page/トヨタ・RAV4.md "wikilink")、1997年に[ホンダ・CR-V](../Page/ホンダ・CR-V.md "wikilink")、1998年に[スバル・フォレスター](../Page/スバル・フォレスター.md "wikilink")など、日本車メーカーが主に国内市場の流行に合わせて開発したモノコック構造のクロカンを、北米にも続々と投入した\[9\]。こうしたムーブメントに米国自動車ジャーナリズム界も「クロスオーバーSUV」という呼称を用いることが増え、やがていちジャンルとして確立された。RAV4とCR-Vはその後もヒットを飛ばし続け、2017年には世界で最も売れたSUVの1位と2位を占めている\[10\]。
 
 1998年、[ハリアーを日本市場で](../Page/トヨタ・ハリアー.md "wikilink")[高級車](../Page/高級車.md "wikilink")として成功させたトヨタは、同車種をレクサスRXとして米国に投入した。RXは大きな反響を呼び、北米でもCUVは大衆車のみならず高級車カテゴリにもなりうることを示した。またこの頃から徐々にクロカンのCUV化が進んでいった。
 
@@ -37,9 +37,11 @@
 
 2010年代以降はエンジンやハイブリッドの技術の進歩、経済の回復、アメリカの[シェールオイル](https://ja.wikipedia.org/wiki/シェールオイル "wikilink")の普及などで価格・維持費の面でのマイナス要因が減ったため、さらにCUVの快進撃は加速。欧州では2016年にほとんどの国で売上の増加を示した上、[コンパクトカー](../Page/コンパクトカー.md "wikilink")市場を上回ってSUVがベストセラーカテゴリとなった\[15\]。
 
-また[ポルシェ](../Page/ポルシェ.md "wikilink")や[ランボルギーニ](../Page/ランボルギーニ.md "wikilink")といったスポーツカーのメーカーがCUVに参入したり、[ランドローバー・イヴォークを奔りとした](https://ja.wikipedia.org/wiki/ランドローバー・レンジローバーイヴォーク "wikilink")、[ホンダ・ヴェゼル](https://ja.wikipedia.org/wiki/ホンダ・ヴェゼル "wikilink")や[トヨタ・C-HR](https://ja.wikipedia.org/wiki/トヨタ・C-HR "wikilink")、[三菱・エクリプスクロス](https://ja.wikipedia.org/wiki/三菱・エクリプスクロス "wikilink")などに代表される2ドアのスタイルや走りを意識した**クーペSUV**と呼ばれるジャンルも登場していたりと、採算が取れず撤退が相次ぐ[クーペ](../Page/クーペ.md "wikilink")やセダンの購入層の受け皿にもなってきており、趣味性・実用性において死角のないジャンルになりつつある。
+また[ポルシェ](../Page/ポルシェ.md "wikilink")や[ランボルギーニ](../Page/ランボルギーニ.md "wikilink")といったスポーツカーのメーカーがCUVに参入したり、[ランドローバー・イヴォークを奔りとした](https://ja.wikipedia.org/wiki/ランドローバー・レンジローバーイヴォーク "wikilink")、[ホンダ・ヴェゼル](https://ja.wikipedia.org/wiki/ホンダ・ヴェゼル "wikilink")や[トヨタ・C-HR](https://ja.wikipedia.org/wiki/トヨタ・C-HR "wikilink")、[三菱・エクリプスクロス](https://ja.wikipedia.org/wiki/三菱・エクリプスクロス "wikilink")などに代表される2ドアのスタイルや走りを意識した**クーペSUV**と呼ばれるジャンルも登場していたりと、採算が取れずごく一部のメーカーで撤退が相次ぐクーペやスポーツカー、セダンの各購入層の受け皿にもなってきており、趣味性・実用性において死角のないジャンルになりつつある。
 
 さらに[車離れが叫ばれているはずの若者にも人気は絶大で](https://ja.wikipedia.org/wiki/若者の車離れ "wikilink")、アメリカでは若者に最も人気の車は日産・ジュークという調査結果がある他\[16\]、日本でも2019年発売の5代目（日本では4代目が日本未発売だったため4代目）トヨタ・RAV4の購入者の、実に4割は20代の若者であったという\[17\]。
+
+老若男女や車両価格問わず、「出せば売れる」と言っても過言ではないこの有様に、世界中の自動車メーカーが各クラスに隙間なくCUVを揃えるのが一般的になりつつある。逆にステータス性・趣味性・嗜好性が非常に高く、主に**[富裕層](../Page/富裕層.md "wikilink")に好まれやすい[クーペ](../Page/クーペ.md "wikilink")や[スポーツカー](../Page/スポーツカー.md "wikilink")はともかく、かつて「自動車の基本形」と呼ばれるほど[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")であった[セダン](../Page/セダン.md "wikilink")（[サルーン](https://ja.wikipedia.org/wiki/サルーン "wikilink")）は現在でもかなり需要が安定している[中国を除き](../Page/中華人民共和国.md "wikilink")、世界市場のほとんどで縮小傾向**で、日本市場における[スズキ](../Page/スズキ_\(企業\).md "wikilink")\[18\]・[三菱自工](../Page/三菱自動車工業.md "wikilink")\[19\]・[ダイハツ](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")\[20\]、米国市場における[米国FCA](https://ja.wikipedia.org/wiki/フィアット・クライスラー・オートモービルズ "wikilink")（[クライスラー](../Page/クライスラー.md "wikilink")）や[米国フォード](https://ja.wikipedia.org/wiki/フォード "wikilink")（[リンカーン含む](../Page/リンカーン_\(自動車\).md "wikilink")）、欧州市場における[伊国FCA](https://ja.wikipedia.org/wiki/フィアット・クライスラー・オートモービルズ "wikilink")（[フィアット](../Page/フィアット.md "wikilink")・[ランチア](../Page/ランチア.md "wikilink")）や[グループPSA](../Page/グループPSA.md "wikilink")（[プジョー](../Page/プジョー.md "wikilink")・[シトロエン](https://ja.wikipedia.org/wiki/シトロエン "wikilink")・[オペル](../Page/オペル.md "wikilink")等\[21\]）、[欧州フォードなど](https://ja.wikipedia.org/wiki/フォード "wikilink")、局所的に生産・販売から順次撤退するメーカーも出てきていることから、「**（2ドアの）クーペはおろか、スポーツカーやセダン（サルーン）に取って代わって『車の基本形はSUV』と言われる時代が来ているのでは**」という声も決して少なくない。
 
 ## 脚注
 
@@ -69,3 +71,7 @@
 15. [SUVは初めてヨーロッパでベストセラーセグメントを引き継ぐ](http://www.jato.com/suv-takes-over-as-the-best-selling-segment-in-europe-for-the-first-time/)
 16. <https://forbesjapan.com/articles/detail/14264/1/1/1>
 17. [トヨタ「RAV4」発売1カ月で2万4000台受注　20～30代が4割](https://www.itmedia.co.jp/business/spv/1905/16/news109.html)
+18. ただし中国を含むアジア市場ではこれまで通り自社製のセダンを現地で製造している（例・[ディザイア](https://ja.wikipedia.org/wiki/スズキ・ディザイア "wikilink")、[シアズ、アリビオ](https://ja.wikipedia.org/wiki/スズキ・シアズ "wikilink")）。
+19. ただし台湾を含むアジア市場に限り、これまで通り自社製のセダンを現地で製造している（例・[アトラージュ、ミラージュG4](https://ja.wikipedia.org/wiki/三菱・アトラージュ "wikilink")、[グランドランサー](../Page/三菱・ランサー.md "wikilink")）。
+20. ただし[日本国内専売車種として現在](../Page/国内専用車.md "wikilink")、親会社のトヨタが製造・販売する[トヨタ・カムリ](https://ja.wikipedia.org/wiki/トヨタ・カムリ "wikilink")の[OEM](../Page/OEM.md "wikilink")となる[アルティスを現在販売している](../Page/ダイハツ・アルティス.md "wikilink")。
+21. ただしプジョーとシトロエンは中国市場に限り、これまで通り自社製のセダンを現地で製造している。

@@ -20,7 +20,7 @@
 <!-- end list -->
 
   - 3月25日、ジャパンクイーンズカップ2005カデットの部49kg級で後にアジアジュニアチャンピオンとなる[西のどか](https://ja.wikipedia.org/wiki/西のどか "wikilink")との同期対決を制して優勝。
-  - 6月5日、東京・[新木場1stRING](../Page/新木場1stRING.md "wikilink")「[“息吹”第](https://ja.wikipedia.org/wiki/エスオベーション "wikilink")1回大会」において、[闘獣牙Leonと対戦](../Page/Leon_\(プロレスラー\).md "wikilink")。マッドスプラッシュで敗れた。
+  - 6月5日、東京・[新木場1stRING](../Page/新木場1stRING.md "wikilink")「[“息吹”第](https://ja.wikipedia.org/wiki/エスオベーション#息吹 "wikilink")1回大会」において、[闘獣牙Leonと対戦](../Page/Leon_\(プロレスラー\).md "wikilink")。マッドスプラッシュで敗れた。
   - 11月13日、東京・[新宿FACE](../Page/新宿FACE.md "wikilink")「“息吹”第4回大会」において、[椎名由香](../Page/椎名由香.md "wikilink")と対戦。腕ひしぎ逆十字でギブアップ負け。
 
 <!-- end list -->

@@ -58,4 +58,4 @@
 7.  [衆議院会議録第162回第20号 平成17年6月29日](http://kokkai.ndl.go.jp/SENTAKU/syugiin/162/0146/16206290146020a.html)
 8.  『[郵政民営化法案 つぎはぎだらけの「修正」は矛盾だらけ 「政府広報」疑惑 住所には、スリード社「存在せず」](http://www.sasaki-kensho.jp/gijiroku/report.php?rid=128)』[佐々木憲昭](../Page/佐々木憲昭.md "wikilink")オフィシャルサイト、2005年6月29日
 9.
-10. 『[「郵政民営化フライヤー戦略」の内容に関する見解とお詫び](http://web.archive.org/web/20080604171612/http://slied.jp/yusei_050915.html)』 スリード、2005年9月15日。
+10. 『[「郵政民営化フライヤー戦略」の内容に関する見解とお詫び](https://web.archive.org/web/20080604171612/http://slied.jp/yusei_050915.html)』 スリード、2005年9月15日。

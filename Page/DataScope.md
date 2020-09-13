@@ -5,7 +5,7 @@
 
 ## 外形
 
-二つ折りタイプ。一方のほぼ全面が緑地に黒のモノクロ[STN液晶](../Page/STN液晶.md "wikilink")画面となっており、320×200ドットの表示領域を実現している。もう一方はキーボードで、カバーを外すとType IIの[PCカード](../Page/PCカード.md "wikilink")となり、ノートPC等に直接接続できる。この形状は、開発のベースとなった [IBM](../Page/IBM.md "wikilink") の [ChipCard](https://ja.wikipedia.org/wiki/ChipCard "wikilink") VW-200 と共通しているが、厚みや重量は大幅に異なる。
+二つ折りタイプ。一方のほぼ全面が緑地に黒のモノクロ[STN液晶](../Page/STN液晶.md "wikilink")画面となっており、320×200ドットの表示領域を実現している。もう一方はキーボードで、カバーを外すとType IIの[PCカード](../Page/PCカード.md "wikilink")となり、ノートPC等に直接接続できる。この形状は、開発のベースとなった [IBM](../Page/IBM.md "wikilink") の [ChipCard VW-200](https://ja.wikipedia.org/wiki/ChipCard_VW-200 "wikilink") と共通しているが、厚みや重量は大幅に異なる。
 
 サイズは 55×108×27 mmで、重量は175g。1998 年当時の基準で見ても、PHS端末としては破格の大きさである。
 

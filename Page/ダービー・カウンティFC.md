@@ -243,8 +243,16 @@
 </tr>
 <tr class="odd">
 <td><p>2019-20</p></td>
-<td></td>
-<td></td>
+<td><p>チャンピオンシップ</p></td>
+<td><p>46</p></td>
+<td><p>17</p></td>
+<td><p>13</p></td>
+<td><p>16</p></td>
+</tr>
+<tr class="even">
+<td><p>2020-21</p></td>
+<td><p>チャンピオンシップ</p></td>
+<td><p>46</p></td>
 <td></td>
 <td></td>
 <td></td>

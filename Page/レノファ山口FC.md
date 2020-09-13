@@ -5,9 +5,9 @@
 
 ## 概要
 
-1949年創設の「山口県サッカー教員団」を起源とし、[2006年](../Page/2006年.md "wikilink")にクラブチーム化して発足した。クラブ名称の「レノファ」は、「renovation（維新）」の頭文字「レノ」と「fight（戦う）」や「fine（元気）」の「ファ」を合わせて作られた造語である。「山口県民に愛され、山口県民へ感動・勇気・元気を与える山口県民による真の地元クラブを創造する」ことをチーム理念としている\[2\]。
+1949年創設の「**山口県サッカー教員団**」を起源とし、[2006年](../Page/2006年.md "wikilink")にクラブチーム化して発足した。クラブ名称の「レノファ」は、「renovation（維新）」の頭文字「レノ」と「fight（戦う）」や「fine（元気）」の「ファ」を合わせて作られた造語である。「山口県民に愛され、山口県民へ感動・勇気・元気を与える山口県民による真の地元クラブを創造する」ことをチーム理念としている\[2\]。
 
-運営母体は2006年から2010年までは任意団体「レノファ山口FC」、2011年から2013年は「[特定非営利活動法人](../Page/特定非営利活動法人.md "wikilink")山口アスレチッククラブ」(YAC)、2014年以降は「[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")レノファ山口」である。なおトップチームの運営から離れたYACは[スポーツ振興くじ](../Page/スポーツ振興くじ.md "wikilink") (toto) を活用したサッカー教室を行っている\[3\]。
+運営母体は2006年から2010年までは任意団体「**レノファ山口FC**」、2011年から2013年は「[特定非営利活動法人](../Page/特定非営利活動法人.md "wikilink")**山口アスレチッククラブ**」(YAC)、2014年以降は「[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")**レノファ山口**」である。なおトップチームの運営から離れたYACは[スポーツ振興くじ](../Page/スポーツ振興くじ.md "wikilink") (toto) を活用したサッカー教室を行っている\[3\]。
 
 ホームタウンは、Jリーグ準加盟時は「山口市を中心とする山口県全県」であった\[4\] が、Jリーグへの正式入会を前にした2014年9月に、ホームゲームを開催している下関市と練習場のある山陽小野田市をホームタウンの中心となる自治体に追加。さらに「Jリーグ加盟に向けたクラブを取り巻く環境の拡大」をテーマに、主催試合を開催する山口市と下関市の県内2大都市を結ぶ、山陽小野田市と宇部市を重点的なホームタウン活動地域と位置付け\[5\]、宇部市の承諾が得られたことから、2015年7月に宇部市もホームタウンの中心となる自治体に追加している\[6\]。2016年9月に防府市と周南市をホームタウンの中心となる自治体に追加\[7\] し、さらに2016年シーズンオフに美祢市など県内各自治体に対してホームタウンへの協力要請を行い、2017年3月21日付で県内全19市町がホームタウンとして登録された\[8\]。
 
@@ -197,7 +197,7 @@ Jリーグ経験者をあまり補強せず、開幕節・[鳥取戦のスター
 
     DF[パク・チャニョン](https://ja.wikipedia.org/wiki/朴璨鎔 "wikilink")（[讃岐に移籍](../Page/カマタマーレ讃岐.md "wikilink")）、MF[マルセロ・ビダル](https://ja.wikipedia.org/wiki/マルセロ・ビダル "wikilink")（・に移籍）、FW[レオナルド・ラモス](https://ja.wikipedia.org/wiki/レオナルド・ハビエル・ラモス "wikilink")（[メキシコ2部](https://ja.wikipedia.org/wiki/リーガ・デ・アセンソ "wikilink")・に移籍）、DF[アベル・ルシアッティ](https://ja.wikipedia.org/wiki/ブライアン・アベル・ルシアッティ "wikilink")（・[CAプラテンセ](https://ja.wikipedia.org/wiki/CAプラテンセ "wikilink")に移籍）の外国籍選手4人が契約満了で退団。DF[星雄次](https://ja.wikipedia.org/wiki/星雄次 "wikilink")が[大分](https://ja.wikipedia.org/wiki/大分トリニータ "wikilink")、DF[宮城雅史](https://ja.wikipedia.org/wiki/宮城雅史 "wikilink")が[京都へ](../Page/京都サンガF.C..md "wikilink")、MF[加藤大樹が](https://ja.wikipedia.org/wiki/加藤大樹_\(サッカー選手\) "wikilink")[金沢へ完全移籍した](https://ja.wikipedia.org/wiki/ツエーゲン金沢 "wikilink")。また、期限付き加入中だったMF[小塚和季](https://ja.wikipedia.org/wiki/小塚和季 "wikilink")（[甲府に完全移籍](https://ja.wikipedia.org/wiki/ヴァンフォーレ甲府 "wikilink")）とFW[和田昌士](https://ja.wikipedia.org/wiki/和田昌士 "wikilink")（[横浜FMに復帰](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")）が期限付き移籍満了となった。
 
-    一方、[札幌から期限付き加入していたDF](https://ja.wikipedia.org/wiki/北海道コンサドーレ札幌 "wikilink")[前貴之](https://ja.wikipedia.org/wiki/前貴之 "wikilink")が完全移籍加入。[山形からDF](https://ja.wikipedia.org/wiki/モンテディオ山形 "wikilink")[瀬川和樹](https://ja.wikipedia.org/wiki/瀬川和樹 "wikilink")、[湘南からDF](https://ja.wikipedia.org/wiki/湘南ベルマーレ "wikilink")[坪井慶介](../Page/坪井慶介.md "wikilink")、[徳島からMF](../Page/徳島ヴォルティス.md "wikilink")[大崎淳矢](https://ja.wikipedia.org/wiki/大崎淳矢 "wikilink")、[鳥取からMF](../Page/ガイナーレ鳥取.md "wikilink")[廣田隆治](https://ja.wikipedia.org/wiki/廣田隆治 "wikilink")、[鳥栖](https://ja.wikipedia.org/wiki/サガン鳥栖 "wikilink")（昨季は[松本に期限付き移籍](../Page/松本山雅FC.md "wikilink")）からGK[藤嶋栄介](https://ja.wikipedia.org/wiki/藤嶋栄介 "wikilink")をそれぞれ完全移籍で、[C大阪](../Page/セレッソ大阪.md "wikilink")（昨季後半は[長崎に期限付き移籍](https://ja.wikipedia.org/wiki/V・ファーレン長崎 "wikilink")）からMF[丸岡満](https://ja.wikipedia.org/wiki/丸岡満 "wikilink")、[東京VからFW](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink")[高木大輔](https://ja.wikipedia.org/wiki/高木大輔 "wikilink")、[浦和からFW](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")[オナイウ阿道](https://ja.wikipedia.org/wiki/オナイウ阿道 "wikilink")、[千葉からMF](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")[高橋壱晟](https://ja.wikipedia.org/wiki/高橋壱晟 "wikilink")を期限付き移籍でそれぞれ獲得。また、[京都から期限付き加入しているGK](../Page/京都サンガF.C..md "wikilink")[山田元気](https://ja.wikipedia.org/wiki/山田元気 "wikilink")の移籍期間を延長。DF[ミン・キョンジュン](https://ja.wikipedia.org/wiki/閔敬峻 "wikilink")（[清州大学校](https://ja.wikipedia.org/wiki/清州大学校 "wikilink")）、DF[楠本卓海](https://ja.wikipedia.org/wiki/楠本卓海 "wikilink")（[東京国際大学](../Page/東京国際大学.md "wikilink")）、FW[山下敬大](https://ja.wikipedia.org/wiki/山下敬大 "wikilink")（[福岡大学](https://ja.wikipedia.org/wiki/福岡大学サッカー部 "wikilink")）が新加入。U-18所属のMF糸井岬とGK岡本大知を2種登録。シーズン開幕後に、ブラジル・[パラナ州1部](https://ja.wikipedia.org/wiki/カンピオナート・パラナエンセ "wikilink")・[フォス・ド・イグアスからDF](https://ja.wikipedia.org/wiki/フォス・ド・イグアスFC "wikilink")[へナン](https://ja.wikipedia.org/wiki/ヘナン・ドス・サントス・パイシャオ "wikilink")、[インドSL](https://ja.wikipedia.org/wiki/インディアン・スーパーリーグ "wikilink")・[ムンバイ・シティFC](https://ja.wikipedia.org/wiki/ムンバイ・シティFC "wikilink")からDF[ジェルソン・ビエイラが新加入](https://ja.wikipedia.org/wiki/ジェルソン・フラガ・ビエイラ "wikilink")。なお、DFミン・キョンジュンは4月に東海L・[FC刈谷](../Page/FC刈谷.md "wikilink")に期限付き移籍した。6月には翌年加入内定のDF[起海斗](https://ja.wikipedia.org/wiki/起海斗 "wikilink")（[興国高校](https://ja.wikipedia.org/wiki/興国高等学校 "wikilink")）を特別指定選手として登録した。
+    一方、[札幌から期限付き加入していたDF](https://ja.wikipedia.org/wiki/北海道コンサドーレ札幌 "wikilink")[前貴之](https://ja.wikipedia.org/wiki/前貴之 "wikilink")が完全移籍加入。[山形からDF](https://ja.wikipedia.org/wiki/モンテディオ山形 "wikilink")[瀬川和樹](https://ja.wikipedia.org/wiki/瀬川和樹 "wikilink")、[湘南からDF](https://ja.wikipedia.org/wiki/湘南ベルマーレ "wikilink")[坪井慶介](../Page/坪井慶介.md "wikilink")、[徳島からMF](../Page/徳島ヴォルティス.md "wikilink")[大崎淳矢](https://ja.wikipedia.org/wiki/大崎淳矢 "wikilink")、[鳥取からMF](../Page/ガイナーレ鳥取.md "wikilink")[廣田隆治](https://ja.wikipedia.org/wiki/廣田隆治 "wikilink")、[鳥栖](https://ja.wikipedia.org/wiki/サガン鳥栖 "wikilink")（昨季は[松本に期限付き移籍](../Page/松本山雅FC.md "wikilink")）からGK[藤嶋栄介](https://ja.wikipedia.org/wiki/藤嶋栄介 "wikilink")をそれぞれ完全移籍で、[C大阪](../Page/セレッソ大阪.md "wikilink")（昨季後半は[長崎に期限付き移籍](https://ja.wikipedia.org/wiki/V・ファーレン長崎 "wikilink")）からMF[丸岡満](https://ja.wikipedia.org/wiki/丸岡満 "wikilink")、[東京VからFW](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink")[高木大輔](https://ja.wikipedia.org/wiki/高木大輔 "wikilink")、[浦和からFW](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")[オナイウ阿道](https://ja.wikipedia.org/wiki/オナイウ阿道 "wikilink")、[千葉からMF](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")[高橋壱晟](https://ja.wikipedia.org/wiki/高橋壱晟 "wikilink")を期限付き移籍でそれぞれ獲得。また、[京都から期限付き加入しているGK](../Page/京都サンガF.C..md "wikilink")[山田元気](https://ja.wikipedia.org/wiki/山田元気 "wikilink")の移籍期間を延長。DF[ミン・キョンジュン](https://ja.wikipedia.org/wiki/閔敬峻 "wikilink")（[清州大学校](https://ja.wikipedia.org/wiki/清州大学校 "wikilink")）、DF[楠本卓海](https://ja.wikipedia.org/wiki/楠本卓海 "wikilink")（[東京国際大学](../Page/東京国際大学.md "wikilink")）、FW[山下敬大](https://ja.wikipedia.org/wiki/山下敬大 "wikilink")（[福岡大学](https://ja.wikipedia.org/wiki/福岡大学サッカー部 "wikilink")）が新加入。U-18所属のMF糸井岬とGK岡本大知を2種登録。シーズン開幕後に、ブラジル・[パラナ州1部](https://ja.wikipedia.org/wiki/カンピオナート・パラナエンセ "wikilink")・[フォス・ド・イグアスからDF](https://ja.wikipedia.org/wiki/フォス・ド・イグアスFC "wikilink")[ヘナン](https://ja.wikipedia.org/wiki/ヘナン・ドス・サントス・パイシャオ "wikilink")、[インドSL](https://ja.wikipedia.org/wiki/インディアン・スーパーリーグ "wikilink")・[ムンバイ・シティFC](https://ja.wikipedia.org/wiki/ムンバイ・シティFC "wikilink")からDF[ジェルソン・ビエイラが新加入](https://ja.wikipedia.org/wiki/ジェルソン・フラガ・ビエイラ "wikilink")。なお、DFミン・キョンジュンは4月に東海L・[FC刈谷](../Page/FC刈谷.md "wikilink")に期限付き移籍した。6月には翌年加入内定のDF[起海斗](https://ja.wikipedia.org/wiki/起海斗 "wikilink")（[興国高校](https://ja.wikipedia.org/wiki/興国高等学校 "wikilink")）を特別指定選手として登録した。
 
     夏の移籍時期には東京VからMF[高井和馬](https://ja.wikipedia.org/wiki/高井和馬 "wikilink")を、さらに[名古屋を退団したMF](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink")[ワシントンを完全移籍で](https://ja.wikipedia.org/wiki/セザル・ワシントン・アウヴェス・ポルテラ "wikilink")、[札幌からMF](https://ja.wikipedia.org/wiki/北海道コンサドーレ札幌 "wikilink")[ジュリーニョを期限付き移籍で獲得したが](https://ja.wikipedia.org/wiki/ジュリオ・セザール・ゴディーニョ・カトーレ "wikilink")、MF小野瀬康介が[G大阪へ完全移籍](../Page/ガンバ大阪.md "wikilink")。また、DFジェルソン・ビエイラもインドSL・[アトレティコ・デ・コルカタ](https://ja.wikipedia.org/wiki/アトレティコ・デ・コルカタ "wikilink")へ完全移籍した。
 
@@ -386,7 +386,8 @@ Jリーグ経験者をあまり補強せず、開幕節・[鳥取戦のスター
 <tr class="odd">
 <td><p>年度</p></td>
 <td><p>胸</p></td>
-<td><p>鎖骨</p></td>
+<td><p>鎖骨左</p></td>
+<td><p>鎖骨右</p></td>
 <td><p>背中上部</p></td>
 <td><p>背中下部</p></td>
 <td><p>袖</p></td>
@@ -402,11 +403,13 @@ Jリーグ経験者をあまり補強せず、開幕節・[鳥取戦のスター
 <td><p><a href="https://ja.wikipedia.org/wiki/ビ・メーク" title="wikilink">美・メーク</a></p></td>
 <td><p><a href="https://www.hoppu.co.jp/">ほっぷ</a></p></td>
 <td><p><a href="../Page/アシックス.md" title="wikilink">asics</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2007</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -423,10 +426,12 @@ Fujiyama</p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2009</p></td>
 <td><p><a href="../Page/豆子郎.md" title="wikilink">10{{smaller</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -443,9 +448,11 @@ Fujiyama</p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2011</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -464,6 +471,7 @@ Fujiyama</p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2013</p></td>
@@ -475,6 +483,7 @@ Humore<br />
 <td><p><a href="http://maeda-shoji.co.jp/">ME<br />
 </a></p></td>
 <td><p><a href="../Page/ディアドラ_(イタリアの企業).md" title="wikilink">DIADORA</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -490,11 +499,13 @@ Humore<br />
 <td><p><a href="https://ja.wikipedia.org/wiki/フィンタ" title="wikilink">FINTA</a></p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2015</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ビ・メーク" title="wikilink">VAN-VEAL<br />
 {{smaller</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -512,6 +523,7 @@ Humore<br />
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2017</p></td>
@@ -522,10 +534,12 @@ Humore<br />
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
-<td><p><a href="http://exzeal.co.jp/">EXZEΛL</a>（左）</p></td>
+<td><p><a href="http://exzeal.co.jp/">EXZEΛL</a></p></td>
+<td><p>-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ビ・メーク" title="wikilink">{{smaller</a></p></td>
 <td></td>
 <td></td>
@@ -535,8 +549,8 @@ Humore<br />
 </tr>
 <tr class="odd">
 <td><p>2019</p></td>
-<td><p><a href="http://exzeal.co.jp/">EXZEΛL</a>（左）<br />
-<a href="../Page/山口銀行.md" title="wikilink">山口銀行</a>（右）</p></td>
+<td><p><a href="../Page/山口銀行.md" title="wikilink">山口銀行</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -546,9 +560,9 @@ Humore<br />
 </tr>
 <tr class="even">
 <td><p>2020</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/インバースネット" title="wikilink">FRONTIER</a>（左）<br />
-<a href="../Page/山口銀行.md" title="wikilink">山口銀行</a>（右）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/インバースネット" title="wikilink">FRONTIER</a></p></td>
 <td><p><a href="http://exzeal.co.jp/">EXZEΛL</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -556,6 +570,7 @@ Humore<br />
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
 <td></td>
 <td></td>
 <td></td>

@@ -61,13 +61,13 @@
 
 ## ネット局・放送時間
 
-| 放送地域                                                    | 放送局                                                            | 曜日  | 放送時間        | 備考  |
-| ------------------------------------------------------- | -------------------------------------------------------------- | --- | ----------- | --- |
-| [山形県](../Page/山形県.md "wikilink")                        | [山形放送(YBC)](https://ja.wikipedia.org/wiki/山形放送#ラジオ "wikilink") | 水曜日 | 21:00～21:30 |     |
-| [茨城県](../Page/茨城県.md "wikilink")                        | [茨城放送](../Page/茨城放送.md "wikilink")(IBS)                        | 火曜日 | 21:30～22:00 |     |
-| [関東広域圏](https://ja.wikipedia.org/wiki/関東広域圏 "wikilink") | [文化放送](../Page/文化放送.md "wikilink")                             | 金曜日 | 24:30～25:00 | 制作局 |
-| [山梨県](../Page/山梨県.md "wikilink")                        | [山梨放送(YBS)](https://ja.wikipedia.org/wiki/山梨放送#ラジオ "wikilink") | 月曜日 | 20:00～20:30 |     |
-| [高知県](../Page/高知県.md "wikilink")                        | [高知放送(RKC)](https://ja.wikipedia.org/wiki/高知放送#ラジオ "wikilink") | 木曜日 | 23:30～24:00 |     |
+| 放送地域                                                    | 放送局                                                            | 曜日  | 放送時間          | 備考  |
+| ------------------------------------------------------- | -------------------------------------------------------------- | --- | ------------- | --- |
+| [山形県](../Page/山形県.md "wikilink")                        | [山形放送(YBC)](https://ja.wikipedia.org/wiki/山形放送#ラジオ "wikilink") | 水曜日 | 21:00 - 21:30 |     |
+| [茨城県](../Page/茨城県.md "wikilink")                        | [茨城放送](../Page/茨城放送.md "wikilink")(IBS)                        | 火曜日 | 21:30 - 22:00 |     |
+| [関東広域圏](https://ja.wikipedia.org/wiki/関東広域圏 "wikilink") | [文化放送](../Page/文化放送.md "wikilink")                             | 金曜日 | 24:30 - 25:00 | 制作局 |
+| [山梨県](../Page/山梨県.md "wikilink")                        | [山梨放送(YBS)](https://ja.wikipedia.org/wiki/山梨放送#ラジオ "wikilink") | 月曜日 | 20:00 - 20:30 |     |
+| [高知県](../Page/高知県.md "wikilink")                        | [高知放送(RKC)](https://ja.wikipedia.org/wiki/高知放送#ラジオ "wikilink") | 木曜日 | 23:30 - 24:00 |     |
 
 ## かつてネットしていた放送局
 
@@ -78,13 +78,13 @@
   - [信越放送](../Page/信越放送.md "wikilink")
   - [北日本放送](../Page/北日本放送.md "wikilink")
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")
-  - [西日本放送](../Page/西日本放送.md "wikilink")
+  - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")
   - [中国放送](../Page/中国放送.md "wikilink")
   - [長崎放送](../Page/長崎放送.md "wikilink")
   - [NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink")
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")
-  - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")
+  - [山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")
   - [大分放送](../Page/大分放送.md "wikilink")
 
 ## 脚注

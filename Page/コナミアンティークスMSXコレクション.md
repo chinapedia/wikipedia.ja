@@ -70,7 +70,7 @@
 
 ## 出典
 
-[Category:コナミのオムニバスゲーム](https://ja.wikipedia.org/wiki/Category:コナミのオムニバスゲーム "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink")
+[Category:コナミのオムニバスゲーム](https://ja.wikipedia.org/wiki/Category:コナミのオムニバスゲーム "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:MSX](https://ja.wikipedia.org/wiki/Category:MSX "wikilink")
 
 1.
 2.

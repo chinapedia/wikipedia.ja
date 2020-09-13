@@ -144,7 +144,7 @@
   - [HELLHOUSE recordings](http://www.hellhouse.net/)
   - [GIGA](http://www.g-i-g-a.com/)
 
-[Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:テクノミュージシャン](https://ja.wikipedia.org/wiki/Category:テクノミュージシャン "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:神戸市出身の人物](https://ja.wikipedia.org/wiki/Category:神戸市出身の人物 "wikilink")
+[Category:日本のテクノミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のテクノミュージシャン "wikilink") [Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:神戸市出身の人物](https://ja.wikipedia.org/wiki/Category:神戸市出身の人物 "wikilink")
 
 1.
 2.

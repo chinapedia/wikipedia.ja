@@ -114,4 +114,5 @@
 
   -
   -
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink")
+
+[Category:クリエイター集団](https://ja.wikipedia.org/wiki/Category:クリエイター集団 "wikilink") [Category:音楽制作](https://ja.wikipedia.org/wiki/Category:音楽制作 "wikilink") [Category:日本のソングライター](https://ja.wikipedia.org/wiki/Category:日本のソングライター "wikilink")

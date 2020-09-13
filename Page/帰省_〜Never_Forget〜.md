@@ -30,21 +30,21 @@
   - M-1,2 MASTERING ENGINEER: [小野誠彦](https://ja.wikipedia.org/wiki/小野誠彦 "wikilink") (SAIDERA)
   - M-2 LICENSED BY [UNIVERSAL VICTOR](../Page/ユニバーサルミュージック_\(日本\).md "wikilink"), INC.
 
-## 収録作品
+## 収録アルバム
 
-  - 「帰省 〜Never Forget〜」
-      - 『[SPOON](../Page/SPOON_\(中森明菜のアルバム\).md "wikilink")』\[24\]\[25\]
-      - 『[歌姫伝説 〜90's BEST〜](../Page/歌姫伝説_〜90's_BEST〜.md "wikilink")』\[26\]\[27\]
+  - 帰省 〜Never Forget〜
+
+<!-- end list -->
+
+  - 『[SPOON](../Page/SPOON_\(中森明菜のアルバム\).md "wikilink")』\[24\]\[25\]
+  - 『[歌姫伝説 〜90's BEST〜](../Page/歌姫伝説_〜90's_BEST〜.md "wikilink")』\[26\]\[27\]
 
 ## 関連項目
 
   - [徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink") - ガウスエンタテインメントは、2005年7月1日に徳間ジャパンコミュニケーションズに吸収合併されている\[28\]。
 
-## 参照
+## 脚注
 
-## 外部リンク
-
-  -
 [Category:中森明菜の楽曲](https://ja.wikipedia.org/wiki/Category:中森明菜の楽曲 "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:読売テレビ月曜10時枠の連続ドラマ主題歌](https://ja.wikipedia.org/wiki/Category:読売テレビ月曜10時枠の連続ドラマ主題歌 "wikilink") [Category:徳間ジャパンコミュニケーションズのシングル](https://ja.wikipedia.org/wiki/Category:徳間ジャパンコミュニケーションズのシングル "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")
 
 1.

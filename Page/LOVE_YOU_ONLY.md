@@ -1,41 +1,61 @@
 > この記事は[LOVE YOU ONLY](https://ja.wikipedia.org/wiki/LOVE_YOU_ONLY)から翻訳されています。
 
 
-「**LOVE YOU ONLY**」（ラブ・ユー・オンリー）は、[1994年](../Page/1994年.md "wikilink")（平成6年）[9月21日](../Page/9月21日.md "wikilink")に発売された、[TOKIO](../Page/TOKIO.md "wikilink")の[メジャー](../Page/メジャー.md "wikilink")・[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングル](../Page/シングル.md "wikilink")。[2018年](../Page/2018年.md "wikilink")現在においても、[オリコンチャート](../Page/オリコンチャート.md "wikilink")上ではTOKIOとして最大の売上枚数を記録している。
+「**LOVE YOU ONLY**」（ラブ・ユー・オンリー）は、[TOKIO](../Page/TOKIO.md "wikilink")の楽曲。1994年9月21日に[Sony Recordsよりデビュー](../Page/ソニー・ミュージックレコーズ.md "wikilink")・シングルとして発売された。累計売上は50万枚以上を記録し、2020年現在においても[オリコンチャート](../Page/オリコンチャート.md "wikilink")上ではTOKIOのシングル作品史上最大の売上枚数を記録している\[1\]。
 
 ## 概要
 
-この作品で、1994年[大晦日](../Page/大晦日.md "wikilink")の『[第45回NHK紅白歌合戦](../Page/第45回NHK紅白歌合戦.md "wikilink")』に初出場。デビューからわずか3ヵ月と10日での出場は、当時の最速記録であった（メジャーデビューを含めれば、その後[WaT](../Page/WaT.md "wikilink")が記録を塗り替えた）。なお、TOKIOは初出場した1994年以来、[2017年](../Page/2017年.md "wikilink")の『[第68回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第68回NHK紅白歌合戦 "wikilink")』まで、24年連続で出場を続けていた。これは[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属のユニットでは最も長い。また、デビュー20周年を迎えた2014年には、この曲が20年ぶりに、NHK紅白歌合戦のステージで披露されている。
+TOKIOの[デビュー作となったシングル](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。
 
-また、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のライヴDVD『[heavenly 〜films〜](https://ja.wikipedia.org/wiki/heavenly_〜films〜 "wikilink")』には、当時のラルクのメンバーがパートチェンジ（ボーカル：tetsu(現：[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink"))、ギター：[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")、ベース：[sakura](https://ja.wikipedia.org/wiki/sakura_\(ドラマー\) "wikilink")、ドラム：[ken](https://ja.wikipedia.org/wiki/ken "wikilink")）したTOKIOのコピーバンド「[KIOTO](https://ja.wikipedia.org/wiki/L'Arc〜en〜Ciel#パートチェンジバンド "wikilink")」としてこの「LOVE YOU ONLY」をカバーした映像が収録されている（tetsuyaと城島茂はラジオ番組で共演していた関係から、交友関係がある）。
+表題曲「LOVE YOU ONLY」は、[フジテレビ系アニメ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ツヨシしっかりしなさい](../Page/ツヨシしっかりしなさい.md "wikilink")』第3期(最終クール)オープニングテーマとして使用された。のちに発売されたリミックス・アルバム『[TOKIO REMIX](../Page/TOKIO_REMIX.md "wikilink")』にはDUB MASTER Xによるリミックスバージョン、カバー・アルバム『[TOK10](../Page/TOK10.md "wikilink")』にはリアレンジバージョンが収録された。
+
+カップリングには[国分太一](../Page/国分太一.md "wikilink")主演 [テレビ朝日](../Page/テレビ朝日.md "wikilink")系ドラマ『[八神くんの家庭の事情](../Page/八神くんの家庭の事情.md "wikilink")』テーマソングとして使用された「よろしく\!」を収録。のちに発売されたリミックス・アルバム『TOKIO REMIX』にはDUB MASTER Xによるリミックスバージョンが収録された。
+
+本作で、1994年大晦日の『[第45回NHK紅白歌合戦](../Page/第45回NHK紅白歌合戦.md "wikilink")』に初出場。デビューからわずか3ヵ月と10日での出場は、当時の最速記録であった\[2\]。なお、TOKIOは初出場した1994年以来、[2017年](../Page/2017年.md "wikilink")の『[第68回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第68回NHK紅白歌合戦 "wikilink")』まで、24年連続で出場を続けていた\[3\]。これは[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属のユニットでは最も長い。また、デビュー20周年を迎えた2014年には、この曲が20年ぶりに、NHK紅白歌合戦のステージで披露された\[4\]\[5\]。この選曲について[長瀬智也](../Page/長瀬智也.md "wikilink")は、「夏フェスなど普段僕らのライブに来られないような方達の前で、この曲を演奏してみたときに、この曲がどれだけの方に愛されているかを身に沁みて感じた。だから20周年の紅白のステージで歌えたらと思った。」と語っている\[6\]。
 
 ## 収録曲
 
-全作曲：[都志見隆](../Page/都志見隆.md "wikilink")、全編曲：[西脇辰弥](../Page/西脇辰弥.md "wikilink")
-
-1.  **LOVE YOU ONLY**
-      -
-        作詞：工藤哲雄
-    <!-- end list -->
-      - [フジテレビ系アニメ](../Page/フジネットワーク.md "wikilink")『[ツヨシしっかりしなさい](../Page/ツヨシしっかりしなさい.md "wikilink")』第3期(最終クール)オープニングテーマ
-2.  **時代を（TOKIO）よろしく\!**
-      -
-        作詞：[城島茂](../Page/城島茂.md "wikilink")、[山田ひろし](../Page/山田ひろし.md "wikilink")
-    <!-- end list -->
-      - [国分太一](../Page/国分太一.md "wikilink")主演 [テレビ朝日](../Page/テレビ朝日.md "wikilink")系ドラマ『[八神くんの家庭の事情](../Page/八神くんの家庭の事情.md "wikilink")』テーマソング
-    <!-- end list -->
-      -
-        タイトルの「時代」は「とき」と読み、「時代を」と「TOKIO（トキオ）」をかけている。
-3.  LOVE YOU ONLY（オリジナル・カラオケ）
-
 ## 収録アルバム
 
-  - [TOKIO](../Page/TOKIO_\(TOKIOのアルバム\).md "wikilink")（\#1, 2）
-  - [TOKIO REMIX](../Page/TOKIO_REMIX.md "wikilink")（\#1, 2）
-      - リミックスバージョンを収録。
-  - [Best E.P Selection of TOKIO](../Page/Best_E.P_Selection_of_TOKIO.md "wikilink")（\#1, 2）
-  - [TOK10](../Page/TOK10.md "wikilink")（\#1）
-      - アルバムバージョンを収録。
-  - [HEART](https://ja.wikipedia.org/wiki/HEART_\(TOKIOのアルバム\) "wikilink")（\#1）
+**LOVE YOU ONLY**
 
-[Category:TOKIOの楽曲](https://ja.wikipedia.org/wiki/Category:TOKIOの楽曲 "wikilink") [Category:1994年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1994年のデビュー・シングル "wikilink") [Category:都志見隆が制作した楽曲](https://ja.wikipedia.org/wiki/Category:都志見隆が制作した楽曲 "wikilink") [Category:ソニー・ミュージックレコーズのシングル](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのシングル "wikilink") [Category:フジテレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビのテレビアニメ主題歌 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:ツヨシしっかりしなさい](https://ja.wikipedia.org/wiki/Category:ツヨシしっかりしなさい "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink")
+  - [TOKIO](../Page/TOKIO_\(TOKIOのアルバム\).md "wikilink")
+  - [TOKIO REMIX](../Page/TOKIO_REMIX.md "wikilink")（リミックスバージョン）
+  - [Best E.P Selection of TOKIO](../Page/Best_E.P_Selection_of_TOKIO.md "wikilink")
+  - [TOK10](../Page/TOK10.md "wikilink")（アルバムバージョン）
+  - [HEART](https://ja.wikipedia.org/wiki/HEART_\(TOKIOのアルバム\) "wikilink")
+
+**よろしく\!**
+
+  - [TOKIO](../Page/TOKIO_\(TOKIOのアルバム\).md "wikilink")
+  - [TOKIO REMIX](../Page/TOKIO_REMIX.md "wikilink")（リミックスバージョン）
+  - [Best E.P Selection of TOKIO](../Page/Best_E.P_Selection_of_TOKIO.md "wikilink")
+
+## カバー
+
+**LOVE YOU ONLY**
+
+  - [L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink") - ライヴDVD『[heavenly 〜films〜](https://ja.wikipedia.org/wiki/heavenly_〜films〜 "wikilink")』に収録。
+  - [関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink") - 2015年のライブ『[関ジャニ∞リサイタル お前のハートをつかんだる\!\!](https://ja.wikipedia.org/wiki/関ジャニ∞リサイタル_お前のハートをつかんだる!! "wikilink")』で、「ジャニーズメドレー」内の1曲としてカバー\[7\]。
+  - [KAT-TUN](../Page/KAT-TUN.md "wikilink") - 『[ジャニーズカウントダウン2019-2020 令和ファーストの夢物語\! ジャニーズ年越し生放送](https://ja.wikipedia.org/wiki/ジャニーズカウントダウンライブ#2019年度 "wikilink")』でカバー。途中でMCとして出演していた国分が参加し、ワンフレーズのみ共演した\[8\]。
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 外部リンク
+
+  - [LOVE YOU ONLY／時代（TOKIO）をよろしく {{\!}} Johnny's net](https://www.johnnys-net.jp/page?id=discoDetail&artist=7&data=992)
+
+[Category:TOKIOの楽曲](https://ja.wikipedia.org/wiki/Category:TOKIOの楽曲 "wikilink") [Category:1994年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1994年のデビュー・シングル "wikilink") [Category:都志見隆が制作した楽曲](https://ja.wikipedia.org/wiki/Category:都志見隆が制作した楽曲 "wikilink") [Category:ソニー・ミュージックレコーズのシングル](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのシングル "wikilink") [Category:フジテレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビのテレビアニメ主題歌 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:ツヨシしっかりしなさい](https://ja.wikipedia.org/wiki/Category:ツヨシしっかりしなさい "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
+
+1.
+2.  メジャーデビューを含めれば、その後[WaT](../Page/WaT.md "wikilink")が記録を塗り替えた
+3.
+4.
+5.
+6.
+7.   関ジャニ∞ |url=<https://www.johnnys-net.jp/page?id=discoDetail&artist=13&data=1764> |website=Johnny's net |publisher=[ジャニーズ](../Page/ジャニーズ.md "wikilink") |accessdate=2020-07-19 }}
+8.

@@ -5,47 +5,52 @@
 
 ## 刊行されている図鑑
 
-付録が付いている図鑑もある。その場合は、付録名も記述する。
-
 ### 通常シリーズ
 
-  - [動物](https://ja.wikipedia.org/wiki/動物 "wikilink")
-  - [植物](../Page/植物.md "wikilink")
-  - [昆虫](../Page/昆虫.md "wikilink")
-  - [恐竜](https://ja.wikipedia.org/wiki/恐竜 "wikilink")
-  - [鳥](https://ja.wikipedia.org/wiki/鳥 "wikilink")
-  - [魚](https://ja.wikipedia.org/wiki/魚 "wikilink")
-  - [両生類](https://ja.wikipedia.org/wiki/両生類 "wikilink")・[はちゅう類](../Page/爬虫類.md "wikilink")（付録：鳴き声CD図鑑）
-  - 水の生物
-  - [星と](../Page/天体.md "wikilink")[星座](../Page/星座.md "wikilink")（付録：[星座早見](https://ja.wikipedia.org/wiki/星座早見 "wikilink")）
-  - 乗りもの/[鉄道](../Page/鉄道.md "wikilink")・[自動車](../Page/自動車.md "wikilink")・[飛行機](../Page/飛行機.md "wikilink")・[船](https://ja.wikipedia.org/wiki/船 "wikilink")
-  - [宇宙](../Page/宇宙.md "wikilink")（付録：ドラえもん宇宙たんけんゲーム）
-  - [大むかしの生物](../Page/古生物.md "wikilink")（付録：先史時代の年表）
-  - [人間](../Page/人間.md "wikilink")/いのちの歴史
-  - [飼育](../Page/飼育.md "wikilink")と[観察](../Page/観察.md "wikilink")
-  - [カブトムシ](../Page/カブトムシ.md "wikilink") [クワガタムシ](../Page/クワガタムシ.md "wikilink")
-  - [地球](https://ja.wikipedia.org/wiki/地球 "wikilink")
+  - 1[動物](https://ja.wikipedia.org/wiki/動物 "wikilink")(DVDつき)
+  - 2[植物](../Page/植物.md "wikilink")(DVDつき)
+  - 3[昆虫](../Page/昆虫.md "wikilink")(DVDつき)
+  - 4[魚](https://ja.wikipedia.org/wiki/魚 "wikilink")(DVDつき)
+  - 5[鳥](https://ja.wikipedia.org/wiki/鳥 "wikilink")(DVDつき)
+  - 6[両生類](https://ja.wikipedia.org/wiki/両生類 "wikilink")・[はちゅう類](../Page/爬虫類.md "wikilink")(DVDつき)
+  - 7水の生物(DVDつき)
+  - 8[星と](../Page/天体.md "wikilink")[星座](../Page/星座.md "wikilink")(+スペシャル特典)
+  - 9[宇宙](../Page/宇宙.md "wikilink")(DVDつき)
+  - 10[地球](https://ja.wikipedia.org/wiki/地球 "wikilink")(+スペシャル特典)
+  - 11[恐竜](https://ja.wikipedia.org/wiki/恐竜 "wikilink")(DVDつき)
+  - 12[大むかしの生物](../Page/古生物.md "wikilink")(+スペシャル特典)
+  - 13[人間](../Page/人間.md "wikilink")/いのちの歴史(+スペシャル特典)
+  - 14乗りもの/[鉄道](../Page/鉄道.md "wikilink")・[自動車](../Page/自動車.md "wikilink")・[飛行機](../Page/飛行機.md "wikilink")・[船](https://ja.wikipedia.org/wiki/船 "wikilink")(+スペシャル特典)
+  - 15[飼育](../Page/飼育.md "wikilink")と[観察](../Page/観察.md "wikilink")(+スペシャル特典)
+  - 16[カブトムシ](../Page/カブトムシ.md "wikilink") [クワガタムシ](../Page/クワガタムシ.md "wikilink")(+スペシャル特典)
+  - 17科学の実験(+スペシャル特典)
+  - 18岩石・鉱物・化石(+スペシャル特典)
+  - 19花(DVDつき)
+  - 20野菜と果物(+スペシャル特典)
+  - 21危険生物(DVDつき)
+  - 22きのこ(DVDつき)
+  - 23イモムシとケムシ(DVDつき)
+  - 24[昆虫](../Page/昆虫.md "wikilink")2 地球編(DVDつき)
 
-### ぷらすシリーズ
+### 小学館の図鑑NEO関連シリーズ
 
-  - くらべる図鑑
-  - もっとくらべる図鑑
+  - くらべる図鑑シリーズ
+  - NEO POCKETシリーズ
+  - クラフトぶっくシリーズ
+  - NEOの科学絵本シリーズ
+  - クイズブックシリーズ
+  - たんけん！NEOシリーズ
+  - 本物の大きさ絵本シリーズ
+  - まるごとシールブックシリーズ
+  - まどあけずかんシリーズ
 
-### プレNEOシリーズ
+### 幼児向け知育図鑑 プレNEOシリーズ
 
-  - きせつの図鑑
-  - かず・かたちの図
-  - こくごの図鑑
-  - せいかつの図鑑
-  - ふしぎの図鑑
-  - げんきの図鑑
-  - くふうの図鑑
-  - よのなかの図鑑
-  - にっぽんの図鑑
-
-### その他
-
-  - くらべる図鑑クイズブック
+  - ちっちゃなプレNEOシリーズ
+  - プレNEOシリーズ
+  - プレNEO BOOKSシリーズ
+  - プレNEO教具シリーズ
+  - おはなしプレNEOシリーズ
 
 ## 関連項目
 

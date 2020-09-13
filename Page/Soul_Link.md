@@ -3,7 +3,7 @@
 
 |- | colspan="2" style="padding: 0;"|
 
-| アニメ {{Infobox animanga/TVAnime | 原作= Navel | 監督= 所俊克 | シリーズ構成= 所俊克 | 脚本= [長谷川勝己](../Page/長谷川勝己.md "wikilink")、[静谷伊佐夫](https://ja.wikipedia.org/wiki/静谷伊佐夫 "wikilink") | キャラクターデザイン= [渡辺義弘](https://ja.wikipedia.org/wiki/渡邊義弘_\(アニメーター\) "wikilink") | 音楽= [澤野弘之](../Page/澤野弘之.md "wikilink") | アニメーション制作= [ピクチャーマジック](../Page/ピクチャーマジック.md "wikilink") | 製作= Soul Link メディア Project | 放送局= [放送局を参照](https://ja.wikipedia.org/wiki/#放送局 "wikilink") | 放送開始= 2006年4月 | 放送終了= 9月 | 話数= 全12話 }} |
+| アニメ {{Infobox animanga/TVAnime | 原作= Navel | 監督= 所俊克 | シリーズ構成= 所俊克 | 脚本= [長谷川勝己](../Page/長谷川勝己.md "wikilink")、[静谷伊佐夫](https://ja.wikipedia.org/wiki/静谷伊佐夫 "wikilink") | キャラクターデザイン= [渡辺義弘](https://ja.wikipedia.org/wiki/渡邊義弘_\(アニメーター\) "wikilink") | 音楽= [澤野弘之](../Page/澤野弘之.md "wikilink") | アニメーション制作= [ピクチャーマジック](../Page/ピクチャーマジック.md "wikilink") | 製作= Soul Link メディア Project | 放送局= [放送局を参照](https://ja.wikipedia.org/wiki/#放送局 "wikilink") | 放送開始= 2006年4月 | 放送終了= 6月 | 話数= 全12話 }} |
 | ------------------------------ | --------- | ------- | ----------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- | -------------------------------------- | ------------------------------------------------------- | -------------------------- | ------------------------------------------------------------ | ------------- | -------- | ----------- |
 
 『**Soul Link**』（ソウル リンク）は、[Navel](../Page/Navel.md "wikilink")から2004年12月17日に発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")、およびそれを原作として制作された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")である。
@@ -462,7 +462,7 @@
 
 \*: ゲーム中で使用されたボーカル曲、BGMに加え、OPテーマ、EDテーマのFull Sizeを収録した2枚組。
 
-  - Soul Link Original Soundtrack\[12\]
+  - 澤野弘之「Soul Link Original Soundtrack」\[12\]
     2006年8月9日、ランティス / LHCA-5044
 
 \*: テレビアニメ『Soul Link』中で使用されたOP・EDのTV SizeとBGMを収録。

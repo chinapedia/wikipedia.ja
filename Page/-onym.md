@@ -10,7 +10,7 @@
   - acronym（アクロニム）：[頭字語](../Page/頭字語.md "wikilink")。単語の頭文字を並べたもの。
   - allonym（アロニム）：[別名](../Page/通称.md "wikilink")
   - anacronym（アナクロニム）：レーザー、スキューバなど由来が意識されないアクロニム。
-  - ananym（アナニム）：[文字を並び替えて作った名前](../Page/アナグラム.md "wikilink")。
+  - ananym（アナニム）：[文字を並べ替えて作った名前](../Page/アナグラム.md "wikilink")。
   - andronym（アンドロニム）：男名
   - anonym（アノニム）：[匿名](../Page/匿名.md "wikilink")
   - anepronym（アネポニム）：人名に由来するが普通名詞と意識されているもの。

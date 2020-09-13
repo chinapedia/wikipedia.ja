@@ -84,7 +84,7 @@
   - 美術プロデューサー：[山田満郎](https://ja.wikipedia.org/wiki/山田満郎 "wikilink")
   - 美術デザイナー：青木ゆかり
   - 美術制作：鈴木浩二
-  - 編集：[松尾茂樹](https://ja.wikipedia.org/wiki/松尾茂樹 "wikilink")
+  - 編集：宮原茂太、[松尾茂樹](https://ja.wikipedia.org/wiki/松尾茂樹 "wikilink")
   - MA：小田嶋洋
   - TK：伊藤篤美
   - 取材：三浦昭彦

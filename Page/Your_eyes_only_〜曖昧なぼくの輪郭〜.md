@@ -27,18 +27,22 @@ EXILE第二章以降に発売されたシングル「[The Birthday 〜Ti Amo〜]
 2.  **Your eyes only**
       - 表題曲の英語バージョン
       - フジテレビ系月9ドラマ『[できちゃった結婚](../Page/できちゃった結婚_\(テレビドラマ\).md "wikilink")』挿入歌
-3.  Your eyes only 〜曖昧なぼくの輪郭〜 (Instrumental)
+3.  Your eyes only 〜曖昧なぼくの輪郭〜（Instrumental）
 
 ### アナログ盤
 
-1.  **Your eyes only 〜曖昧なぼくの輪郭〜 (Junior's Transpacific Mix)**
+※リミックスは後に2ndシングル「[Style](../Page/Style_\(EXILEの曲\).md "wikilink")」カップリングとしても収録。
+
+1.  **Your eyes only 〜曖昧なぼくの輪郭〜**（Junior's Transpacific Mix）
       -
         編曲： Junior Vasquez
-2.  **Your eyes only 〜曖昧なぼくの輪郭〜 (Eric Kupper Classic Mix)**
+    <!-- end list -->
+      - 表題曲のリミックスバージョン
+2.  **Your eyes only 〜曖昧なぼくの輪郭〜**（Eric Kupper Classic Mix）
       -
         編曲： Eric Kupper for Hysteria Productions
     <!-- end list -->
-      - 以上2曲は2ndシングル「[Style](../Page/Style_\(EXILEの曲\).md "wikilink")」にも収録
+      - 表題曲のリミックスバージョン
 3.  Your eyes only 〜曖昧なぼくの輪郭〜
 4.  Your eyes only
 

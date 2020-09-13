@@ -1,7 +1,7 @@
 > この記事は[六三四Musashi](https://ja.wikipedia.org/wiki/六三四Musashi)から翻訳されています。
 
 
-**六三四Musashi**（むさし）は、[1991年](../Page/1991年.md "wikilink")から活動している、日本の伝統楽器と、[ギター](../Page/ギター.md "wikilink")や[ベース等の楽器で演奏するインスト中心のロックバンド](../Page/ベース_\(弦楽器\).md "wikilink")。現在はメンバー個々の活動が主となっており、グループとしての活動は休止状態が続いている（バンドというよりは、ユニット的活動となっている）。「六三四」の名は、「六」はギター、「三」は[津軽三味線](../Page/津軽三味線.md "wikilink")、「四」はベースの弦の数が由来。
+**六三四Musashi**（むさし）は、[1991年](../Page/1991年.md "wikilink")から活動している、日本の伝統楽器と、[ギター](../Page/ギター.md "wikilink")や[ベース等の楽器で演奏するインスト中心のロックバンド](../Page/ベース_\(弦楽器\).md "wikilink")。現在はメンバー個々の活動が主となっており、グループとしての活動は休止状態が続いている（バンドというよりは、ソロ又はユニット的活動となっている）。「六三四」の名は、「六」はギター、「三」は[津軽三味線](../Page/津軽三味線.md "wikilink")、「四」はベースの弦の数が由来。
 
 また、六三四プロジェクト名義で、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")』の音楽を担当していた事でも知られる（[増田俊郎](https://ja.wikipedia.org/wiki/増田俊郎 "wikilink")と共作）。
 
@@ -50,6 +50,10 @@
       - 3曲目「YAMATO組曲part4」、9曲目「キャ・カ・ラ・バ・ア（空・風・火・水・地）」（YAMATO組曲part1の改題）の演奏に[上妻宏光](../Page/上妻宏光.md "wikilink")（MUSASHI）（[三味線](../Page/三味線.md "wikilink")、ヴォーカル）、佐藤英史（MUSASHI）（[尺八](../Page/尺八.md "wikilink")）として参加。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")　[寺沢武一](../Page/寺沢武一.md "wikilink")の「[Black Knight BAT](https://ja.wikipedia.org/wiki/BLACK_KNIGHT_バット#書籍以外 "wikilink")」テーマ曲の挿入歌を担当。作詞：寺沢武一、演奏：六三四、歌：臼井香世子
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")　[くノ一忍法帖 柳生外伝](https://ja.wikipedia.org/wiki/くノ一忍法帖 "wikilink")
+
+## 劇伴
+
+  - [2002年](../Page/2002年.md "wikilink")　[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")（六三四プロジェクト名義）（増田俊郎と共作）
 
 ## 関連人物
 

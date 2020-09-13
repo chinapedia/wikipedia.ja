@@ -22,23 +22,40 @@ HD Photoは、画像データを[Image File Directory](https://ja.wikipedia.org/
 ## 対応ソフトウェア
 
   - [Windows Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink") とそれ以降のOS
+
   - [.NET Framework](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink") 3.0 をインストールした [Windows XP](../Page/Microsoft_Windows_XP.md "wikilink") と [Windows Server 2003](../Page/Microsoft_Windows_Server_2003.md "wikilink")
+
   - [Windows Imaging Component](https://ja.wikipedia.org/wiki/:en:Windows_Imaging_Component "wikilink")
+
   - [Internet Explorer](../Page/Internet_Explorer.md "wikilink") 9
+
   - [Windows Live フォト ギャラリー](https://ja.wikipedia.org/wiki/Windows_Live_フォト_ギャラリー "wikilink")
+
   - [Microsoft Expression Design](../Page/Microsoft_Expression.md "wikilink")
+
   - [Adobe Photoshop](../Page/Adobe_Photoshop.md "wikilink") CS2/CS3 （Windows\[4\] と Mac OS X\[5\] 向けにマイクロソフトが公開している）
+
   - [IrfanView](../Page/IrfanView.md "wikilink")（プラグインが必要）
+
   - [Paint.NET](../Page/Paint.NET.md "wikilink")（ベータ版のプラグインが公開されている。PDNJPEGXRPlugin.dllプラグインで.hdp,.wdp,.jxrに対応。HD Photoのみの専用ベータプラグインは動作しなくなった）
+
   - [XnView](https://ja.wikipedia.org/wiki/XnView "wikilink")（プラグインが必要）
+
   - [Xara Xtreme Pro](https://ja.wikipedia.org/wiki/Xara_Xtreme_Pro "wikilink")
+
   - [Fast Picture Viewer](https://ja.wikipedia.org/wiki/:en:Fast_Picture_Viewer "wikilink")
+
   - [viewx](http://www.geocities.co.jp/SiliconValley/7773/etc/viewx.html)
+
   - [WEOX/HDPV](http://jnc.s21.xrea.com/)
+
   - [WIC Susie Plug-in](http://nilpo.sitemix.jp/)
+
   - [Ralpha](http://nilpo.sitemix.jp/)
-  - [PhotoShifter](http://www.h4.dion.ne.jp/~fht/index.html)
+
+  -
   - [縮小革命](http://www.vector.co.jp/soft/winnt/art/se488245.html)
+
   - [Corel PaintShop Photo Pro X5](http://corel.e-frontier.co.jp/products/photos/editing/PaintShopProX5/buy.html)
 
 ## 脚注

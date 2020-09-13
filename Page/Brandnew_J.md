@@ -160,7 +160,7 @@
   - [インターネットラジオ｜Brandnew-J](http://j-wavemusic.com/)
   - [81.3 FM J-WAVE WEBSITE](http://www.j-wave.co.jp)
 
-[Category:日本のインターネットラジオ局](https://ja.wikipedia.org/wiki/Category:日本のインターネットラジオ局 "wikilink") [Category:J-WAVE](https://ja.wikipedia.org/wiki/Category:J-WAVE "wikilink") [Category:日本のラジオ放送史](https://ja.wikipedia.org/wiki/Category:日本のラジオ放送史 "wikilink")
+[Category:J-WAVE](https://ja.wikipedia.org/wiki/Category:J-WAVE "wikilink") [Category:日本のインターネットラジオ局](https://ja.wikipedia.org/wiki/Category:日本のインターネットラジオ局 "wikilink")
 
 1.  [20万人突破の「Brandnew-J」がオリジナルガジェットをリリース：RBB NAVi (ブロードバンドコンテンツ 検索サービス) 2007/04/10](http://www.rbbtoday.com/news/20070410/40652.html)
 2.  [ITmedia News：J-WAVEがオフィスワーカー向けネットラジオ](http://www.itmedia.co.jp/news/articles/0605/29/news058.html)

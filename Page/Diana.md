@@ -37,13 +37,13 @@
 
 ### 2020年
 
-|              |              |                 |               |
-| ------------ | ------------ | --------------- | ------------- |
-| Aoi｛18-19年｝  | Aira｛18-19年｝ | Fuko｛18-19年｝    | Junon｛18-19年｝ |
-| Maho｛18-19年｝ | Mina｛18-19年｝ | Mitsuki｛18-19年｝ | Fuka｛19年｝     |
-| Rina｛19年｝    | Yuu｛19年｝     | Yuuka｛19年｝      | Aya           |
-| Fujiko       | Honoka       | Minami          | Natsu         |
-| Saki         | Sara         | Sarasa          | Suzu          |
+|                |              |                 |               |
+| -------------- | ------------ | --------------- | ------------- |
+| Aoi｛18-19年｝    | Aira｛18-19年｝ | Fuko｛18-19年｝    | Junon｛18-19年｝ |
+| Maho｛18-19年｝VC | Mina｛18-19年｝ | Mitsuki｛18-19年｝ | Fuka｛19年｝C    |
+| Rina｛19年｝      | Yuu｛19年｝     | Yuuka｛19年｝      | Aya           |
+| Fujiko         | Honoka       | Minami          | Natsu         |
+| Saki           | Sara         | Sarasa          | Suzu          |
 
 ### 2019年
 

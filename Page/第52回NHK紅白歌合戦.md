@@ -40,7 +40,7 @@
   - 人気アンケートで上位にランクインした[キム・ヨンジャ](../Page/キム・ヨンジャ.md "wikilink")が復帰出場し、過去に発売中止になったこともある「[イムジン河](https://ja.wikipedia.org/wiki/イムジン河 "wikilink")」を、翌年の[2002 FIFAワールドカップにちなんで歌った](../Page/2002_FIFAワールドカップ.md "wikilink")。曲目発表時ではキムが「トリ内定」との推測も流れた\[11\]。
   - [堀内孝雄](../Page/堀内孝雄.md "wikilink")は同じ[大阪府](../Page/大阪府.md "wikilink")出身で親友であり、この年亡くなった[河島英五](../Page/河島英五.md "wikilink")の代表曲「[酒と泪と男と女](https://ja.wikipedia.org/wiki/酒と泪と男と女 "wikilink")」を本人の映像と一緒に歌った（なお、河島本人は紅白に1回出場（[第42回](../Page/第42回NHK紅白歌合戦.md "wikilink")）したが、同曲は歌唱していない\[12\]）。客席で観覧していた河島の息子から「堀内さん、ありがとう\!」の大声が上がると、堀内は男泣きしながら「英五…酒は飲んでるか? 声を高らかに歌っているか? そしてお前が好きだった、[龍馬には逢えたか](../Page/坂本龍馬.md "wikilink")? もう何も言うまい。さらば、英五…」と言い残し、涙の熱唱となる。歌唱終了後の堀内は「英五、有難う\!\!」と右手を挙げ叫びながら締め括ったが、その光景を見続けていた阿部も、思わずもらい泣きする場面があった。
   - [ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")は[郷ひろみ](../Page/郷ひろみ.md "wikilink")のバックコーラスとしても歌い、事実上2曲歌ったことになった。「[この世界のどこかに](../Page/この世界のどこかに.md "wikilink")」をゴスペラーズが楽曲提供し、実際にコーラス参加していたため。また、郷は本紅白出場を最後に[2005年](../Page/2005年.md "wikilink")（平成17年）まで活動休止となった。
-  - 特別ゲストとして[木村弓](../Page/木村弓.md "wikilink")が出演し、[アニメ映画](../Page/アニメーション映画.md "wikilink")『[千と千尋の神隠し](../Page/千と千尋の神隠し.md "wikilink")』の主題歌「[いつも何度でも](https://ja.wikipedia.org/wiki/いつも何度でも "wikilink")」を歌った。また、[ハムちゃんず](https://ja.wikipedia.org/wiki/ハムちゃんず "wikilink")と[ミニハムず](../Page/ミニハムず.md "wikilink")（の着ぐるみ）が登場し、[モーニング娘。](../Page/モーニング娘。.md "wikilink")と共に「ハム太郎とっとこうた」を歌った\[13\]。
+  - 特別ゲストとして[木村弓](../Page/木村弓.md "wikilink")が出演し、[アニメ映画](../Page/アニメーション映画.md "wikilink")『[千と千尋の神隠し](../Page/千と千尋の神隠し.md "wikilink")』の主題歌「[いつも何度でも](https://ja.wikipedia.org/wiki/いつも何度でも "wikilink")」を歌った。また、[ハムちゃんず](https://ja.wikipedia.org/wiki/ハムちゃんず "wikilink")と[ミニハムず](../Page/ミニハムず.md "wikilink")（の着ぐるみ）が登場し、[モーニング娘。](../Page/モーニング娘。.md "wikilink")と共に「[ハム太郎とっとこうた](../Page/ハム太郎とっとこうた.md "wikilink")」を歌った\[13\]。
   - 紅組トリは25回出場を果たした[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")の「[夢](../Page/夢_\(和田アキ子の曲\).md "wikilink")」。
   - 白組トリおよび大トリは[北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")の「[山](https://ja.wikipedia.org/wiki/山_\(北島三郎の曲\) "wikilink")」。
   - 優勝は白組。優勝旗を受け取った阿部は号泣した。一方、有働は紅組歌手に励ましを受け「来年頑張りましょうね」と述べた。なお、有働は翌年の紅組司会の際にリベンジを果たしている。
@@ -128,7 +128,7 @@
 「Kids Dream」の曲目・歌手は次の通り。
 
   - 「[ミニモニ。ジャンケンぴょん\!](https://ja.wikipedia.org/wiki/ミニモニ。ジャンケンぴょん!/春夏秋冬だいすっき! "wikilink")」：[ミニモニ。](../Page/ミニモニ。.md "wikilink")
-  - 「[ハム太郎とっとこうた](../Page/とっとこハム太郎_\(アニメ\).md "wikilink")」：ハムちゃんず
+  - 「[ハム太郎とっとこうた](../Page/ハム太郎とっとこうた.md "wikilink")」：[ハムちゃんず](https://ja.wikipedia.org/wiki/ハムちゃんず "wikilink")
   - 「[いつも何度でも](https://ja.wikipedia.org/wiki/いつも何度でも/いのちの名前 "wikilink")」：[木村弓](../Page/木村弓.md "wikilink")
   - 「[さんぽ](../Page/となりのトトロ_\(曲\).md "wikilink")」：出場歌手全員
 
@@ -192,6 +192,7 @@
 
 ## 外部リンク
 
+  - [NHK紅白歌合戦 公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=52)
   - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。[1962年](../Page/1962年.md "wikilink")（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:2001年の日本の音楽](https://ja.wikipedia.org/wiki/Category:2001年の日本の音楽 "wikilink") [Category:2001年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のテレビ番組_\(日本\) "wikilink") [Category:2001年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のラジオ番組_\(日本\) "wikilink") [Category:2001年12月](https://ja.wikipedia.org/wiki/Category:2001年12月 "wikilink")

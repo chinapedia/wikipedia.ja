@@ -82,6 +82,11 @@ OECD加盟国28か国を含む32か国、約26万5000人の生徒が参加。各
 <td><p><a href="https://ja.wikipedia.org/wiki/フランス" title="wikilink">フランス</a></p></td>
 <td><p>517</p></td>
 </tr>
+<tr class="odd">
+<td></td>
+<td><p>OECD 平均</p></td>
+<td><p>500</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -138,6 +143,11 @@ OECD加盟国28か国を含む32か国、約26万5000人の生徒が参加。各
 <td><p><a href="../Page/オーストリア.md" title="wikilink">オーストリア</a></p></td>
 <td><p>507</p></td>
 </tr>
+<tr class="odd">
+<td></td>
+<td><p>OECD 平均</p></td>
+<td><p>500</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -193,6 +203,11 @@ OECD加盟国28か国を含む32か国、約26万5000人の生徒が参加。各
 <td><p>10.</p></td>
 <td><p>スウェーデン</p></td>
 <td><p>512</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>OECD 平均</p></td>
+<td><p>500</p></td>
 </tr>
 </tbody>
 </table>
@@ -257,6 +272,11 @@ OECD加盟国30か国を含む41の国と地域、27万5000人の生徒が参加
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td></td>
+<td><p>OECD 平均</p></td>
+<td><p>500</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -313,6 +333,11 @@ OECD加盟国30か国を含む41の国と地域、27万5000人の生徒が参加
 <td><p>香港</p></td>
 <td><p>510</p></td>
 </tr>
+<tr class="odd">
+<td></td>
+<td><p>OECD 平均</p></td>
+<td><p>494</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -368,6 +393,11 @@ OECD加盟国30か国を含む41の国と地域、27万5000人の生徒が参加
 <td><p>10.</p></td>
 <td><p>ニュージーランド</p></td>
 <td><p>521</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>OECD 平均</p></td>
+<td><p>500</p></td>
 </tr>
 </tbody>
 </table>
@@ -489,6 +519,11 @@ OECD加盟国30か国を含む41の国と地域、27万5000人の生徒が参加
 <td><p>日本</p></td>
 <td><p>523</p></td>
 </tr>
+<tr class="odd">
+<td></td>
+<td><p>OECD 平均</p></td>
+<td><p>498</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -545,6 +580,11 @@ OECD加盟国30か国を含む41の国と地域、27万5000人の生徒が参加
 <td><p>スウェーデン</p></td>
 <td><p>507</p></td>
 </tr>
+<tr class="odd">
+<td></td>
+<td><p>OECD 平均</p></td>
+<td><p>492</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -600,6 +640,11 @@ OECD加盟国30か国を含む41の国と地域、27万5000人の生徒が参加
 <td><p>10.</p></td>
 <td><p>リヒテンシュタイン</p></td>
 <td><p>522</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>OECD 平均</p></td>
+<td><p>500</p></td>
 </tr>
 </tbody>
 </table>
@@ -661,6 +706,11 @@ OECD加盟国30か国を含む41の国と地域、27万5000人の生徒が参加
 <td><p>カナダ</p></td>
 <td><p>527</p></td>
 </tr>
+<tr class="odd">
+<td></td>
+<td><p>OECD 平均</p></td>
+<td><p>496</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -717,6 +767,11 @@ OECD加盟国30か国を含む41の国と地域、27万5000人の生徒が参加
 <td><p>オランダ</p></td>
 <td><p>508</p></td>
 </tr>
+<tr class="odd">
+<td></td>
+<td><p>OECD 平均</p></td>
+<td><p>493</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -772,6 +827,11 @@ OECD加盟国30か国を含む41の国と地域、27万5000人の生徒が参加
 <td><p>10.</p></td>
 <td><p>オーストリア</p></td>
 <td><p>527</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>OECD 平均</p></td>
+<td><p>501</p></td>
 </tr>
 </tbody>
 </table>
@@ -889,6 +949,11 @@ OECD加盟国30か国を含む41の国と地域、27万5000人の生徒が参加
 <td><p>オランダ</p></td>
 <td><p>523</p></td>
 </tr>
+<tr class="odd">
+<td></td>
+<td><p>OECD 平均</p></td>
+<td><p>494</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -945,6 +1010,11 @@ OECD加盟国30か国を含む41の国と地域、27万5000人の生徒が参加
 <td><p>ポーランド</p></td>
 <td><p>518</p></td>
 </tr>
+<tr class="odd">
+<td></td>
+<td><p>OECD 平均</p></td>
+<td><p>496</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -1000,6 +1070,11 @@ OECD加盟国30か国を含む41の国と地域、27万5000人の生徒が参加
 <td><p>10.</p></td>
 <td><p>カナダ</p></td>
 <td><p>525</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>OECD 平均</p></td>
+<td><p>501</p></td>
 </tr>
 </tbody>
 </table>
@@ -1173,6 +1248,11 @@ OECD加盟国30か国を含む41の国と地域、27万5000人の生徒が参加
 <td><p>カナダ</p></td>
 <td><p>516</p></td>
 </tr>
+<tr class="odd">
+<td></td>
+<td><p>OECD 平均</p></td>
+<td><p>490</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -1228,6 +1308,11 @@ OECD加盟国30か国を含む41の国と地域、27万5000人の生徒が参加
 <td><p>10.</p></td>
 <td><p>ニュージーランド</p></td>
 <td><p>509</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>OECD 平均</p></td>
+<td><p>493</p></td>
 </tr>
 </tbody>
 </table>
@@ -1285,63 +1370,200 @@ OECD加盟国30か国を含む41の国と地域、27万5000人の生徒が参加
 <td><p>韓国</p></td>
 <td><p>516</p></td>
 </tr>
+<tr class="odd">
+<td></td>
+<td><p>OECD 平均</p></td>
+<td><p>493</p></td>
+</tr>
 </tbody>
 </table>
 
 ### 2018年調査
 
-2018 年に 79 か国・地域（OECD 加盟 37 か国，非加盟 42 か国・地域），約 60 万人の生徒を 対象に調査を実施。PISA2018の読解力において、504点（15位）であるが、信頼区間は499～509点、有意差のない順位は11位～20位。数学リテラシー522〜532点で5位〜8位。科学リテラシー524〜534点で4位〜5位\[4\]\[5\]。
+2018 年に 79 か国・地域（OECD 加盟 37 か国，非加盟 42 か国・地域），約 60 万人の生徒を 対象に調査を実施。PISA2018の読解力において、504点（15位）であるが、信頼区間は499～509点、有意差のない順位は11位～20位。数学リテラシー522〜532点で5位〜8位。科学リテラシー524〜534点で4位〜5位\[4\]\[5\]。 日本の読解力は各分野、上位以下である。
 
-|        |             |     |
-| ------ | ----------- | --- |
-| 1\.    | 北京・上海・江蘇・浙江 | 591 |
-| 2\.    | シンガポール      | 569 |
-| 3\.    | マカオ         | 558 |
-| 4\.    | 香港          | 551 |
-| 5\.    | 台湾          | 531 |
-| 6.（8位） | 日本          | 527 |
-| 7\.    | 韓国          | 526 |
-| 8\.    | エストニア       | 523 |
-| 9\.    | オランダ        | 519 |
-| 10\.   | ポーランド       | 516 |
-|        | OECD 平均     | 489 |
+<table>
+<caption>数学的リテラシー</caption>
+<tbody>
+<tr class="odd">
+<td><p>1.</p></td>
+<td><p>北京、上海、江蘇、広東</p></td>
+<td><p>591</p></td>
+</tr>
+<tr class="even">
+<td><p>2.</p></td>
+<td><p>シンガポール</p></td>
+<td><p>569</p></td>
+</tr>
+<tr class="odd">
+<td><p>3.</p></td>
+<td><p>マカオ</p></td>
+<td><p>558</p></td>
+</tr>
+<tr class="even">
+<td><p>4.</p></td>
+<td><p>香港</p></td>
+<td><p>551</p></td>
+</tr>
+<tr class="odd">
+<td><p>5.</p></td>
+<td><p>台湾</p></td>
+<td><p>531</p></td>
+</tr>
+<tr class="even">
+<td><p>6.</p></td>
+<td><p>韓国</p></td>
+<td><p>526</p></td>
+</tr>
+<tr class="odd">
+<td><p>7.</p></td>
+<td><p>エストニア</p></td>
+<td><p>523</p></td>
+</tr>
+<tr class="even">
+<td><p>8.</p></td>
+<td><p>日本</p></td>
+<td><p>522</p></td>
+</tr>
+<tr class="odd">
+<td><p>9.</p></td>
+<td><p>オランダ</p></td>
+<td><p>519</p></td>
+</tr>
+<tr class="even">
+<td><p>10.</p></td>
+<td><p>ポーランド</p></td>
+<td><p>516</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>OECD 平均</p></td>
+<td><p>489</p></td>
+</tr>
+</tbody>
+</table>
 
-数学的リテラシー
+<table>
+<caption></caption>
+<tbody>
+<tr class="odd">
+<td><p>1.</p></td>
+<td><p>北京、上海、江蘇、広東</p></td>
+<td><p>555</p></td>
+</tr>
+<tr class="even">
+<td><p>2.</p></td>
+<td><p>シンガポール</p></td>
+<td><p>549</p></td>
+</tr>
+<tr class="odd">
+<td><p>3.</p></td>
+<td><p>マカオ</p></td>
+<td><p>525</p></td>
+</tr>
+<tr class="even">
+<td><p>4.</p></td>
+<td><p>香港</p></td>
+<td><p>524</p></td>
+</tr>
+<tr class="odd">
+<td><p>5.</p></td>
+<td><p>エストニア</p></td>
+<td><p>523</p></td>
+</tr>
+<tr class="even">
+<td><p>6.</p></td>
+<td><p>カナダ</p></td>
+<td><p>520</p></td>
+</tr>
+<tr class="odd">
+<td><p>7.</p></td>
+<td><p>フィンランド</p></td>
+<td><p>520</p></td>
+</tr>
+<tr class="even">
+<td><p>8.</p></td>
+<td><p>アイルランド</p></td>
+<td><p>518</p></td>
+</tr>
+<tr class="odd">
+<td><p>9.</p></td>
+<td><p>韓国</p></td>
+<td><p>514</p></td>
+</tr>
+<tr class="even">
+<td><p>10.</p></td>
+<td><p>ポーランド</p></td>
+<td><p>512</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>OECD 平均</p></td>
+<td><p>487</p></td>
+</tr>
+</tbody>
+</table>
 
-|          |             |     |
-| -------- | ----------- | --- |
-| 1\.      | 北京・上海・江蘇・浙江 | 555 |
-| 2\.      | シンガポール      | 549 |
-| 3\.      | マカオ         | 525 |
-| 4\.      | 香港          | 524 |
-| 5\.      | エストニア       | 523 |
-| 6\.      | カナダ         | 520 |
-| 7\.      | フィンランド      | 520 |
-| 8\.      | アイルランド      | 518 |
-| 9\.      | 韓国          | 514 |
-| 10\.     | ポーランド       | 512 |
-| 11\.     | スウェーデン      | 506 |
-| 12\.     | ニュージーランド    | 506 |
-| 13\.     | アメリカ        | 505 |
-| 14\.     | イギリス        | 504 |
-| 15.（20位） | 日本          | 504 |
-|          | OECD 平均     | 487 |
-
-|        |             |     |
-| ------ | ----------- | --- |
-| 1\.    | 北京・上海・江蘇・浙江 | 590 |
-| 2\.    | シンガポール      | 551 |
-| 3\.    | マカオ         | 544 |
-| 4\.    | エストニア       | 530 |
-| 5.（5位） | 日本          | 529 |
-| 6\.    | フィンランド      | 522 |
-| 7\.    | 韓国          | 519 |
-| 8\.    | カナダ         | 518 |
-| 9\.    | 香港          | 517 |
-| 10\.   | 台湾          | 516 |
-|        | OECD 平均     | 489 |
-
-科学的リテラシー
+<table>
+<caption>科学的リテラシー</caption>
+<tbody>
+<tr class="odd">
+<td><p>1.</p></td>
+<td><p>北京、上海、江蘇、広東</p></td>
+<td><p>590</p></td>
+</tr>
+<tr class="even">
+<td><p>2.</p></td>
+<td><p>シンガポール</p></td>
+<td><p>551</p></td>
+</tr>
+<tr class="odd">
+<td><p>3.</p></td>
+<td><p>マカオ</p></td>
+<td><p>544</p></td>
+</tr>
+<tr class="even">
+<td><p>4.</p></td>
+<td><p>エストニア</p></td>
+<td><p>530</p></td>
+</tr>
+<tr class="odd">
+<td><p>5.</p></td>
+<td><p>日本</p></td>
+<td><p>524</p></td>
+</tr>
+<tr class="even">
+<td><p>6.</p></td>
+<td><p>フィンランド</p></td>
+<td><p>522</p></td>
+</tr>
+<tr class="odd">
+<td><p>7.</p></td>
+<td><p>韓国</p></td>
+<td><p>519</p></td>
+</tr>
+<tr class="even">
+<td><p>8.</p></td>
+<td><p>カナダ</p></td>
+<td><p>518</p></td>
+</tr>
+<tr class="odd">
+<td><p>9.</p></td>
+<td><p>香港</p></td>
+<td><p>517</p></td>
+</tr>
+<tr class="even">
+<td><p>10.</p></td>
+<td><p>台湾</p></td>
+<td><p>516</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>OECD 平均</p></td>
+<td><p>489</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 脚注
 

@@ -202,7 +202,7 @@
   -
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=9)
   - [特集　その時、舞台裏では…出演者編：黒柳徹子さん NHKアーカイブス](https://www2.nhk.or.jp/archives/search/special/detail/?d=backstage001)
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1958年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1958年のテレビ番組_\(日本\) "wikilink") [Category:1958年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1958年のラジオ番組_\(日本\) "wikilink") [Category:1958年の音楽](https://ja.wikipedia.org/wiki/Category:1958年の音楽 "wikilink") [Category:1958年12月](https://ja.wikipedia.org/wiki/Category:1958年12月 "wikilink")

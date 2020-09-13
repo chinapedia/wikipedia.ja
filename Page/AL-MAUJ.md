@@ -19,17 +19,17 @@
 
 ## 収録曲
 
-## クレジット
+### 規格
 
-  - [Photo](../Page/撮影.md "wikilink") by 塚田和徳\[23\]
-
-## 再発盤
-
-  - 1998年11月26日 - [12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): WPC6-8677\[24\]
-  - 2008年11月12日 - [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")\[25\]\[26\]
+  - 1998年11月26日 - [12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): WPC6-8677\[23\]
+  - 2008年11月12日 - [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")\[24\]\[25\]
   - 2014年6月18日 - 12cmCD, [Singles Box 1982-1991の一枚として](https://ja.wikipedia.org/wiki/Singles_Box_1982-1991 "wikilink")
 
-## 参照
+## クレジット
+
+  - [Photo](../Page/撮影.md "wikilink") by 塚田和徳\[26\]
+
+## 脚注
 
 ## 外部リンク
 

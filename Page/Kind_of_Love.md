@@ -21,6 +21,8 @@
 
 本作発売後にライブツアー『'92-93 Kind of Love Tour』を開催。これがMr.Childrenにとって初のオール・ワンマン・ツアーになった。
 
+本作のマスタリングは[ボブ・ラドウィック](https://ja.wikipedia.org/wiki/ボブ・ラドウィック "wikilink")が手掛けた。
+
 ## 収録曲
 
   - 全編曲：[小林武史](../Page/小林武史.md "wikilink") & [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")
@@ -100,6 +102,42 @@
   - TOMOKO：Chorus
   - [桑野聖](https://ja.wikipedia.org/wiki/桑野聖 "wikilink")ストリングス：Strings
   - 松本賢：Computer Programming
+
+## ライブ映像作品
+
+**虹の彼方へ**
+
+| 作品名                                                                                                 | 備考             |
+| --------------------------------------------------------------------------------------------------- | -------------- |
+| [wonederful world on DEC 21](https://ja.wikipedia.org/wiki/wonederful_world_on_DEC_21 "wikilink")   | 弾き語りで披露された     |
+| [Mr.Children、ヒカリノアトリエで虹の絵を描く](https://ja.wikipedia.org/wiki/Mr.Children、ヒカリノアトリエで虹の絵を描く "wikilink") | ドキュメンタリー・ビデオ作品 |
+
+**All by myself**
+
+| 作品名                                                                                                                   | 備考          |
+| --------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [regress or progress '96-'97 DOCUMENT](https://ja.wikipedia.org/wiki/regress_or_progress_'96-'97_DOCUMENT "wikilink") | 1番のみ収録されている |
+
+**抱きしめたい** ** **車の中でかくれてキスをしよう**
+
+| 作品名                                                                                                                       | 備考 |
+| ------------------------------------------------------------------------------------------------------------------------- | -- |
+| [Mr.Children CONCERT TOUR POPSAURUS 2001](../Page/Mr.Children_CONCERT_TOUR_POPSAURUS_2001.md "wikilink")                  |    |
+| [Mr.Children Tour 2009 〜終末のコンフィデンスソングス〜](https://ja.wikipedia.org/wiki/Mr.Children_Tour_2009_〜終末のコンフィデンスソングス〜 "wikilink") |    |
+
+**思春期の夏 〜君との恋が今も牧場に〜**
+
+| 作品名                                                                                                                                                   | 備考 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
+| [Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink") |    |
+
+**星になれたら**
+
+| 作品名                                                                                                                                               | 備考 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
+| [Mr.Children CONCERT TOUR POPSAURUS 2001](../Page/Mr.Children_CONCERT_TOUR_POPSAURUS_2001.md "wikilink")                                          |    |
+| [Mr.Children "HOME" TOUR 2007 -in the field-](https://ja.wikipedia.org/wiki/Mr.Children_"HOME"_TOUR_2007_-in_the_field- "wikilink")               |    |
+| [Mr.Children STADIUM TOUR 2011 SENSE -in the field-](https://ja.wikipedia.org/wiki/Mr.Children_STADIUM_TOUR_2011_SENSE_-in_the_field- "wikilink") |    |
 
 ## 脚注
 

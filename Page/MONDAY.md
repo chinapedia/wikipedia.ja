@@ -15,7 +15,7 @@
   - 製作 - [李鳳宇](../Page/李鳳宇.md "wikilink")、[斎藤晃](https://ja.wikipedia.org/wiki/斎藤晃 "wikilink")、[香山哲](https://ja.wikipedia.org/wiki/香山哲 "wikilink")
   - プロデューサー - [室岡信明](https://ja.wikipedia.org/wiki/室岡信明 "wikilink")、[石原仁美](https://ja.wikipedia.org/wiki/石原仁美 "wikilink")、[荒川礼子](https://ja.wikipedia.org/wiki/荒川礼子 "wikilink")、[樫野孝人](https://ja.wikipedia.org/wiki/樫野孝人 "wikilink")
   - 監督・原案・脚本 - [SABU](../Page/SABU_\(映画監督\).md "wikilink")
-  - 撮影 - [佐藤和人](https://ja.wikipedia.org/wiki/佐藤和人 "wikilink")
+  - 撮影 - [佐藤和人](../Page/佐藤和人.md "wikilink")
   - 音楽 - [渋谷慶一郎](../Page/渋谷慶一郎.md "wikilink")
   - 編集 - [小永組雄](https://ja.wikipedia.org/wiki/小永組雄 "wikilink")
   - 主題曲 - [キャプテンファンク](https://ja.wikipedia.org/wiki/キャプテンファンク "wikilink")

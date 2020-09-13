@@ -1,7 +1,7 @@
 > この記事は[ベン・E・キング](https://ja.wikipedia.org/wiki/ベン・E・キング)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Ben_E._King2.jpg "wikilink") **ベン・E・キング**（**Benjamin Earl King**、本名Benjamin Earl Nelson、[1938年](../Page/1938年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink") - [2015年](../Page/2015年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")）は[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ソウル歌手](../Page/ソウルミュージック.md "wikilink")。「[スタンド・バイ・ミー](https://ja.wikipedia.org/wiki/スタンド・バイ・ミー_\(ベン・E・キングの曲\) "wikilink")」のヒットで知られる。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Ben_E._King2.jpg "wikilink") **ベン・E・キング**（**Benjamin Earl King**、本名Benjamin Earl Nelson、[1938年](../Page/1938年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink") - [2015年](../Page/2015年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")出身の[リズム＆ブルース](../Page/リズム・アンド・ブルース.md "wikilink")、[ソウル歌手](../Page/ソウルミュージック.md "wikilink")。「[スタンド・バイ・ミー](https://ja.wikipedia.org/wiki/スタンド・バイ・ミー_\(ベン・E・キングの曲\) "wikilink")」のヒットで知られる。
 
 ## 略歴
 

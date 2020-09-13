@@ -99,7 +99,7 @@ __TOC__{{-}}
 
 ### 放送終了時のネット局
 
-  - [NRN系列に配信](../Page/全国ラジオネットワーク.md "wikilink")。文化放送以外のネット局は[JRNとの](https://ja.wikipedia.org/wiki/ジャパンラジオネットワーク "wikilink")[クロスネット](../Page/クロスネット局.md "wikilink")。
+  - [NRN系列に配信](../Page/全国ラジオネットワーク.md "wikilink")。文化放送以外のネット局は[JRNとの](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")[クロスネット](../Page/クロスネット局.md "wikilink")。
 
 <table>
 <thead>

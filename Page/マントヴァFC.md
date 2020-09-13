@@ -1,7 +1,7 @@
 > この記事は[マントヴァFC](https://ja.wikipedia.org/wiki/マントヴァFC)から翻訳されています。
 
 
-**マントヴァFC**（**Mantova Football Club**）は、[イタリア](../Page/イタリア.md "wikilink")・[ロンバルディア州](../Page/ロンバルディア州.md "wikilink")[マントヴァ](https://ja.wikipedia.org/wiki/マントヴァ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。2010年までの名称は**ACマントヴァ**（**Associazione Calcio Mantova**）。2019-20シーズンは[セリエDに所属している](../Page/セリエD_\(サッカー\).md "wikilink")。
+**マントヴァFC**（**Mantova Football Club**）は、[イタリア](../Page/イタリア.md "wikilink")・[ロンバルディア州](../Page/ロンバルディア州.md "wikilink")[マントヴァ](https://ja.wikipedia.org/wiki/マントヴァ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。2010年までの名称は**ACマントヴァ**（**Associazione Calcio Mantova**）。2020-21シーズンは[セリエCに所属している](https://ja.wikipedia.org/wiki/セリエC_\(サッカー\) "wikilink")。
 
 ## 歴史
 

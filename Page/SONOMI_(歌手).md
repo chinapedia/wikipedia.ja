@@ -175,6 +175,7 @@
 :\*[BOX HERO feat. **DABO**, **Y'S** & **SONOMI**](https://ja.wikipedia.org/wiki/.co.lab "wikilink")
 
   - 晋平太「HIPHOP 4U」
+  - KREVA「素敵な時を重ねましょう」（シングル）
 
 ### コンピレーション
 

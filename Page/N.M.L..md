@@ -50,6 +50,6 @@
 
 ## 外部リンク
 
-  - [TBS50周年特別企画・地雷ゼロキャンペーン](http://www.tbs.co.jp/zero2/)
+  - [TBS50周年特別企画・地雷ゼロキャンペーン](https://www.tbs.co.jp/zero2/)
 
 [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:寄付](https://ja.wikipedia.org/wiki/Category:寄付 "wikilink") [Category:TBSの歴史](https://ja.wikipedia.org/wiki/Category:TBSの歴史 "wikilink") [Category:坂本龍一](https://ja.wikipedia.org/wiki/Category:坂本龍一 "wikilink") [Category:2001年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に結成した音楽グループ "wikilink")

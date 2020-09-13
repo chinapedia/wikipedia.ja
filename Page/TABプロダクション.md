@@ -19,7 +19,7 @@
   - [西森千豊](https://ja.wikipedia.org/wiki/西森千豊 "wikilink")
   - [原田男](https://ja.wikipedia.org/wiki/原田男 "wikilink")
   - [宮崎一成](../Page/宮崎一成.md "wikilink")
-  - [森圭輔](https://ja.wikipedia.org/wiki/森圭輔 "wikilink")
+  - [森圭輔](../Page/森圭輔.md "wikilink")
 
 ### 女性
 

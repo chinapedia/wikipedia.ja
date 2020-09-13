@@ -23,17 +23,17 @@
 
 ## 収録曲
 
+### 規格
+
+  - 1988年6月25日 - [8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink"): 10SL-143\[31\]
+  - 1988年12月21日 - [CT](../Page/コンパクトカセット.md "wikilink"): 10L5-4052\[32\]
+  - 1998年11月26日 - [12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): WPC6-8670\[33\]
+  - 2008年11月12日 - [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")\[34\]\[35\]
+  - 2014年6月18日 - 12cmCD, [Singles Box 1982-1991の一枚として](https://ja.wikipedia.org/wiki/Singles_Box_1982-1991 "wikilink")
+
 ## クレジット
 
-  - [photo](../Page/撮影.md "wikilink") by 清水伸充\[31\]
-
-## 再発盤
-
-  - 1988年6月25日 - [8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink"): 10SL-143\[32\]
-  - 1988年12月21日 - [CT](../Page/コンパクトカセット.md "wikilink"): 10L5-4052\[33\]
-  - 1998年11月26日 - [12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): WPC6-8670\[34\]
-  - 2008年11月12日 - [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")\[35\]\[36\]
-  - 2014年6月18日 - 12cmCD, [Singles Box 1982-1991の一枚として](https://ja.wikipedia.org/wiki/Singles_Box_1982-1991 "wikilink")
+  - [photo](../Page/撮影.md "wikilink") by 清水伸充\[36\]
 
 ## 参照
 

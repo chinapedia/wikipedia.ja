@@ -15,7 +15,7 @@
 
 初回盤特典として『PERFECT BEST』はスリーブケース＋カラーケース仕様。『SINGLE BEST』『SELECT BEST』は特殊ジャケット仕様。
 
-本作は通算2作目のミリオンセラーとなった\[2\]。
+本作は通算2作目のミリオンセラーとなった\[2\]。累計売上は160万枚を超えており\[3\]、グループの作品の中では『[EXILE BALLAD BEST](../Page/EXILE_BALLAD_BEST.md "wikilink")』に次いで2番目の売上を記録。
 
 ## 収録曲
 
@@ -24,6 +24,8 @@
 ※シングル、カップリング曲の解説は各ページ、タイアップ情報は[EXILEを参照](https://ja.wikipedia.org/wiki/EXILE#タイアップ "wikilink")。
 
 #### DISC 1『SINGLE BEST』
+
+※はアルバム初収録、※※はシングルバージョン初収録曲。
 
 1.  **[Your eyes only 〜曖昧なぼくの輪郭〜](../Page/Your_eyes_only_〜曖昧なぼくの輪郭〜.md "wikilink")** \[3:49\]
       -
@@ -35,7 +37,7 @@
         作詞：Kenn Kato / 作曲・編曲：Face 2 fAKE
     <!-- end list -->
       - 2ndシングル
-3.  **[Fly Away](../Page/Fly_Away_\(EXILEの曲\).md "wikilink")** \[4:25\]
+3.  **[Fly Away](https://ja.wikipedia.org/wiki/Fly_away_\(J_Soul_Brothersの曲\)#EXILEによるカバー "wikilink")** \[4:25\]
       -
         作詞・作曲：[SASA](https://ja.wikipedia.org/wiki/SASA_\(ミュージシャン\) "wikilink") / 編曲：[原田憲](../Page/原田憲.md "wikilink")
     <!-- end list -->
@@ -65,7 +67,7 @@
         作詞：EXILE & Kenn Kato / 作曲・編曲：原一博
     <!-- end list -->
       - 8thシングル「Breezin' 〜Together〜」表題曲
-9.  **[Choo Choo TRAIN](../Page/Choo_Choo_TRAIN_\(EXILEの曲\).md "wikilink")** \[4:43\]
+9.  **[Choo Choo TRAIN](../Page/Choo_Choo_TRAIN_\(EXILEのシングル\).md "wikilink")** \[4:43\]
       -
         作詞：[佐藤ありす](../Page/佐藤ありす.md "wikilink") / 作曲：[中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink") / 編曲：岩戸崇
     <!-- end list -->
@@ -76,31 +78,26 @@
         作詞：SHUN / 作曲：原一博 / 編曲：h-wonder
     <!-- end list -->
       - 14thシングルの1曲目
-      - EXILE名義のアルバム初収録。
-11. **[運命のヒト](https://ja.wikipedia.org/wiki/Carry_On/運命のヒト "wikilink")** \[4:52\]
+11. **[運命のヒト](https://ja.wikipedia.org/wiki/Carry_On/運命のヒト "wikilink")**※※ \[4:52\]
       -
         作詞：[ATSUSHI](https://ja.wikipedia.org/wiki/ATSUSHI_\(歌手\) "wikilink") / 作曲：[山口寛雄](https://ja.wikipedia.org/wiki/山口寛雄 "wikilink") / 編曲：h-wonder
     <!-- end list -->
       - 14thシングルの2曲目
-      - EXILE名義のアルバム初収録であると同時に、シングルバージョンはアルバム初収録。
-12. **[real world](https://ja.wikipedia.org/wiki/real_world "wikilink")** \[4:38\]
+12. **[real world](https://ja.wikipedia.org/wiki/real_world "wikilink")**※ \[4:38\]
       -
         作詞：Kenn Kato / 作曲：山口寛雄 / 編曲：原田憲
     <!-- end list -->
       - 15thシングル
-      - アルバム初収録。
 13. **[HEART of GOLD](../Page/HEART_of_GOLD.md "wikilink")** \[5:36\]
       -
         作詞：[永山耕三](../Page/永山耕三.md "wikilink") / 作曲：山口寛雄 / 編曲：[河野圭](https://ja.wikipedia.org/wiki/河野圭 "wikilink")
     <!-- end list -->
       - 16thシングル
-      - EXILE名義のアルバム初収録。
-14. **[HERO](../Page/HERO_\(EXILEの曲\).md "wikilink")** \[4:47\]
+14. **[HERO](../Page/HERO_\(EXILEの曲\).md "wikilink")**※ \[4:47\]
       -
         作詞：SHUN / 作曲・編曲：原一博
     <!-- end list -->
       - 17thシングル
-      - アルバム初収録。
 
 #### DISC 2『SELECT BEST』
 
@@ -109,8 +106,11 @@
         作詞：[michico](../Page/MICHICO.md "wikilink") / 作曲：[T.Kura](https://ja.wikipedia.org/wiki/T.Kura "wikilink"), michico / 編曲：T.Kura
     <!-- end list -->
       - 新曲
-      - 後に4thアルバム『[ASIA](../Page/ASIA_\(アルバム\).md "wikilink")』にリミックスバージョン、ベストアルバム『[EXILE ENTERTAINMENT BEST](../Page/EXILE_ENTERTAINMENT_BEST.md "wikilink")』に再録バージョンが収録。同曲の続編「**最後の告白 〜STAY part.Ⅱ〜**」が、4thアルバム『ASIA』に収録。
-2.  **[ESCAPE](../Page/Styles_Of_Beyond.md "wikilink")** (Inst.) \[3:31\]
+    <!-- end list -->
+      -
+        後に4thアルバム『[ASIA](../Page/ASIA_\(アルバム\).md "wikilink")』にリミックスバージョン、ベストアルバム『[EXILE ENTERTAINMENT BEST](../Page/EXILE_ENTERTAINMENT_BEST.md "wikilink")』に[TAKAHIROとの再録バージョンが収録された](https://ja.wikipedia.org/wiki/TAKAHIRO_\(歌手\) "wikilink")。
+        4thアルバム収録曲「**最後の告白** 〜STAY part.Ⅱ〜」は、本曲の続編である。
+2.  **[ESCAPE](../Page/Styles_Of_Beyond.md "wikilink")**（Inst.）\[3:31\]
       -
         作曲・編曲：[HIRO](../Page/五十嵐広行.md "wikilink") × (Kira + Okayan)）
     <!-- end list -->
@@ -119,28 +119,28 @@
       -
         作詞：Kenn Kato / 作曲・編曲：原一博
     <!-- end list -->
-      - 2ndアルバム『Styles Of Beyond』収録曲
+      - 2ndアルバム収録曲
 4.  **[Time](../Page/Breezin'_〜Together〜.md "wikilink")** \[4:59\]
       -
         作詞：Kenn Kato / 作曲・編曲：原一博
     <!-- end list -->
-      - 8thシングル「Breezin' 〜Together〜」カップリング
+      - 8thシングルカップリング
 5.  **[BLUE〜云えずにいる〜](../Page/Breezin'_〜Together〜.md "wikilink")** \[5:07\]
       -
         作詞：EXILE\&RYK / 作曲・編曲：山木隆一郎
     <!-- end list -->
-      - 8thシングル「Breezin' 〜Together〜」カップリング
+      - 8thシングルカップリング
 6.  **[砂時計](../Page/Breezin'_〜Together〜.md "wikilink")** \[4:55\]
       -
         作詞：maR / 作曲・編曲：MONK
     <!-- end list -->
-      - 8thシングル「Breezin' 〜Together〜」カップリング
-7.  **[LET ME LUV U DOWN feat.ZEEBRA & MACCHO (OZROSAURUS)](../Page/LET_ME_LUV_U_DOWN_feat.ZEEBRA_&_MACCHO_\(OZROSAURUS\).md "wikilink")** \[4:01\]
+      - 8thシングルカップリング
+7.  **[LET ME LUV U DOWN](../Page/LET_ME_LUV_U_DOWN_feat.ZEEBRA_&_MACCHO_\(OZROSAURUS\).md "wikilink")** feat.[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink") & [MACCHO](https://ja.wikipedia.org/wiki/MACCHO "wikilink")（[OZROSAURUS](../Page/OZROSAURUS.md "wikilink")）\[4:01\]
       -
         作詞：[FIRSTKLAS](https://ja.wikipedia.org/wiki/FIRSTKLAS "wikilink")、[MACCHO](../Page/OZROSAURUS.md "wikilink") / 作曲：FIRSTKLAS
     <!-- end list -->
       - 9thシングル
-8.  **[Be Mine](https://ja.wikipedia.org/wiki/99%_Radio_Show "wikilink")** \[5:42\] / 99% Radio Allstars
+8.  **[Be Mine](https://ja.wikipedia.org/wiki/99%_Radio_Show "wikilink")** \[5:42\] - 99% Radio Allstars
       -
         作詞：Marc'Justin'Sexton & 山木隆一郎、IGOR / 作曲・編曲：山木隆一郎
     <!-- end list -->
@@ -164,25 +164,23 @@
       -
         作詞：[L.L.BROTHERS](../Page/LL_BROTHERS.md "wikilink")、MICHICO / 作曲・編曲：T-KURA）
     <!-- end list -->
-      - 3rdアルバム『EXILE ENTERTAINMENT』収録曲
+      - 3rdアルバム『EXILE ENTERTAINMENT』リードトラック
 13. **[Believe](https://ja.wikipedia.org/wiki/99%_Radio_Show "wikilink")** \[5:07\]
       -
         作詞：SHUN / 作曲・編曲：[長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")
     <!-- end list -->
       - コンピレーションアルバム『99% Radio Show』収録曲のオリジナルバージョン
-      - EXILEの3rdアルバム『EXILE ENTERTAINMENT』にも収録。
+      - 3rdアルバム収録曲
 14. **[Emotional Beat](../Page/HEART_of_GOLD_〜STREET_FUTURE_OPERA_BEAT_POPS〜.md "wikilink")** \[4:42\]
       -
         作詞：Kenn Kato / 作曲・編曲：h-wonder
     <!-- end list -->
-      - [EXILES](https://ja.wikipedia.org/wiki/EXILES "wikilink")名義の企画アルバム『HEART of GOLD〜STREET FUTURE OPERA BEAT POPS〜』収録曲
-      - EXILE名義アルバム初収録。
+      - コンピレーションアルバム『HEART of GOLD 〜STREET FUTURE OPERA BEAT POPS〜』収録曲（[EXILES](https://ja.wikipedia.org/wiki/EXILES "wikilink")）
 15. **[イノチの理由](../Page/HEART_of_GOLD_〜STREET_FUTURE_OPERA_BEAT_POPS〜.md "wikilink")** \[4:05\]
       -
         作詞：Kenn Kato / 作曲：山口寛雄 / 編曲：原田憲）
     <!-- end list -->
-      - EXILES名義の企画アルバム『HEART of GOLD〜STREET FUTURE OPERA BEAT POPS〜』収録曲
-      - EXILE名義アルバム初収録。
+      - コンピレーションアルバム『HEART of GOLD 〜STREET FUTURE OPERA BEAT POPS〜』収録曲（EXILES）
 
 ### DVD
 
@@ -198,7 +196,7 @@
 8.  **We Will 〜あの場所で〜**
 9.  **[J Soul Brothers](https://ja.wikipedia.org/wiki/our_style "wikilink")**
 10. **Together**
-11. **LET ME LUV U DOWN feat. ZEEBRA & MACCHO (OZROSAURUS)**
+11. **LET ME LUV U DOWN** feat. ZEEBRA & MACCHO（OZROSAURUS）
 12. **Eternal...**
 13. **ki・zu・na**
 14. **O'ver**
@@ -209,7 +207,7 @@
 19. **real world**
 20. **HEART of GOLD**
 21. **HERO**
-22. **making of "HERO"**
+22. making of "**HERO**"
 
 ## 脚注
 
@@ -217,3 +215,4 @@
 
 1.
 2.
+3.

@@ -24,7 +24,7 @@
 5.  **[冷たい頬](https://ja.wikipedia.org/wiki/冷たい頬/謝々! "wikilink")** / [中村一義](../Page/中村一義.md "wikilink")
       -
         18thシングル「冷たい頬/謝々\!」の両A面表題曲。
-6.  **[空も飛べるはず](../Page/空も飛べるはず.md "wikilink")** / [ぱぱぼっくす](https://ja.wikipedia.org/wiki/ぱぱぼっくす "wikilink")
+6.  **[空も飛べるはず](../Page/空も飛べるはず.md "wikilink")** / ぱぱぼっくす
       -
         8thシングルの表題曲。
 7.  **[夢追い虫](../Page/夢追い虫.md "wikilink")** / [セロファン](https://ja.wikipedia.org/wiki/セロファン_\(バンド\) "wikilink")

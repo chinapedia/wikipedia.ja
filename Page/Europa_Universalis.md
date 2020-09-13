@@ -225,7 +225,11 @@ EU4の拡張パック。[2018年](../Page/2018年.md "wikilink")12月11日発売
 
 #### Europa Universalis IV: Emperor
 
-EU4の拡張パック。[2020年](../Page/2020年.md "wikilink")発売予定。
+EU4の拡張パック。[2020年](../Page/2020年.md "wikilink")6月9日発売。
+
+カトリック諸国を中心に多岐にわたって焦点があてられた拡張であり、[神聖ローマ帝国](../Page/神聖ローマ帝国.md "wikilink")の改革ルートの分岐や新しい宗派としてフス派が追加された。
+
+また、同時にパッチ1.30が公開された。
 
 ## 脚注
 
@@ -244,7 +248,7 @@ EU4の拡張パック。[2020年](../Page/2020年.md "wikilink")発売予定。
   -
   - [Europa Universalis IV 公式サイト](https://www.paradoxplaza.com/europa-universalis-iv/EUEU04GSK-MASTER.html/)
 
-[Category:パラドックスインタラクティブの歴史シミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:パラドックスインタラクティブの歴史シミュレーションゲーム "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Macintosh用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Macintosh用ゲームソフト "wikilink") [Category:Steam](https://ja.wikipedia.org/wiki/Category:Steam "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:スウェーデンで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:スウェーデンで開発されたコンピュータゲーム "wikilink")
+[Category:パラドックスインタラクティブの歴史シミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:パラドックスインタラクティブの歴史シミュレーションゲーム "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Macintosh用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Macintosh用ゲームソフト "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:スウェーデンで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:スウェーデンで開発されたコンピュータゲーム "wikilink")
 
 1.  プレイ年代は後述するように作品により若干異なる。
 2.

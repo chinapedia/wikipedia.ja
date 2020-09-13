@@ -112,211 +112,206 @@ Jリーグ発足後しばらくはJリーグ発足などによるサッカーブ
 <td><p>◇TBS（◇テレビ東京）</p></td>
 </tr>
 <tr class="even">
-<td><p>F東23</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/東京ヴェルディ1969" title="wikilink">東京V</a></p></td>
 <td></td>
 <td><p>◇<a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ</a>（☆<a href="../Page/テレビ神奈川.md" title="wikilink">テレビ神奈川</a>）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/FC町田ゼルビア" title="wikilink">町田</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/川崎フロンターレ" title="wikilink">川崎</a></p></td>
 <td></td>
 <td><p>◇TBS、☆テレビ神奈川（◇テレビ朝日）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/横浜F・マリノス" title="wikilink">横浜FM</a></p></td>
 <td><p>☆テレビ神奈川</p></td>
 <td><p>◇TBS（◇テレビ朝日、<a href="../Page/テレビ新潟放送網.md" title="wikilink">テレビ新潟</a>[8]）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/横浜FC.md" title="wikilink">横浜FC</a></p></td>
 <td></td>
 <td><p>テレビ神奈川、◇TBS（※2）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/横浜スポーツ&amp;カルチャークラブ.md" title="wikilink">YS横浜</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/湘南ベルマーレ" title="wikilink">湘南</a></p></td>
 <td></td>
 <td><p>☆テレビ神奈川（◇テレビ東京）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/SC相模原.md" title="wikilink">相模原</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ヴァンフォーレ甲府" title="wikilink">甲府</a></p></td>
 <td><p><a href="../Page/NHK甲府放送局.md" title="wikilink">NHK甲府</a>、<a href="https://ja.wikipedia.org/wiki/山梨放送" title="wikilink">山梨放送</a>、<a href="../Page/テレビ山梨.md" title="wikilink">テレビ山梨</a></p></td>
 <td><p>（<a href="../Page/テレビ信州.md" title="wikilink">テレビ信州</a>[9]）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/松本山雅FC.md" title="wikilink">松本</a></p></td>
 <td><p><a href="../Page/長野朝日放送.md" title="wikilink">長野朝日放送</a>、<a href="../Page/長野放送.md" title="wikilink">長野放送</a>、<a href="../Page/信越放送.md" title="wikilink">信越放送</a>、テレビ信州、<a href="../Page/NHK長野放送局.md" title="wikilink">NHK長野</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/AC長野パルセイロ.md" title="wikilink">長野</a></p></td>
 <td><p>テレビ信州、長野放送、信越放送、長野朝日放送</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/アルビレックス新潟.md" title="wikilink">新潟</a></p></td>
 <td><p><a href="../Page/NHK新潟放送局.md" title="wikilink">NHK新潟</a>、テレビ新潟、<a href="https://ja.wikipedia.org/wiki/新潟テレビ21" title="wikilink">新潟テレビ21</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/新潟放送" title="wikilink">新潟放送</a>、<a href="../Page/NST新潟総合テレビ.md" title="wikilink">新潟総合テレビ</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/カターレ富山.md" title="wikilink">富山</a></p></td>
 <td><p><a href="../Page/富山テレビ放送.md" title="wikilink">富山テレビ</a></p></td>
 <td><p><a href="../Page/NHK富山放送局.md" title="wikilink">NHK富山</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ツエーゲン金沢" title="wikilink">金沢</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北陸放送" title="wikilink">北陸放送</a>、<a href="../Page/NHK金沢放送局.md" title="wikilink">NHK金沢</a></p></td>
 <td><p><a href="../Page/石川テレビ放送.md" title="wikilink">石川テレビ</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/清水エスパルス.md" title="wikilink">清水</a></p></td>
 <td><p>☆<a href="https://ja.wikipedia.org/wiki/静岡放送" title="wikilink">静岡放送</a>[10]、<a href="../Page/テレビ静岡.md" title="wikilink">テレビ静岡</a>、<a href="../Page/NHK静岡放送局.md" title="wikilink">NHK静岡</a></p></td>
 <td><p><a href="../Page/静岡朝日テレビ.md" title="wikilink">静岡朝日テレビ</a>（<a href="../Page/静岡第一テレビ.md" title="wikilink">静岡第一テレビ</a>、◇テレビ東京）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/ジュビロ磐田.md" title="wikilink">磐田</a></p></td>
 <td><p>NHK静岡、静岡朝日テレビ、静岡放送</p></td>
 <td><p>（静岡第一テレビ、◇テレビ朝日）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/藤枝MYFC" title="wikilink">藤枝</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/アスルクラロ沼津.md" title="wikilink">沼津</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/名古屋グランパスエイト" title="wikilink">名古屋</a></p></td>
 <td><p>◇<a href="../Page/NHK名古屋放送局.md" title="wikilink">NHK名古屋</a>、◇<a href="../Page/中京テレビ放送.md" title="wikilink">中京テレビ</a></p></td>
 <td><p>◇<a href="../Page/東海テレビ放送.md" title="wikilink">東海テレビ</a>、◇<a href="https://ja.wikipedia.org/wiki/CBCテレビ" title="wikilink">CBCテレビ</a>、◇<a href="../Page/名古屋テレビ放送.md" title="wikilink">メ〜テレ</a>（<a href="../Page/テレビ愛知.md" title="wikilink">テレビ愛知</a>、<a href="https://ja.wikipedia.org/wiki/三重テレビ放送" title="wikilink">三重テレビ</a>、◇テレビ朝日、◇TBS、◇テレビ東京、◇フジテレビ）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/FC岐阜.md" title="wikilink">岐阜</a></p></td>
 <td><p>☆<a href="../Page/岐阜放送.md" title="wikilink">ぎふチャン</a></p></td>
 <td><p>◇メ〜テレ、<a href="../Page/NHK岐阜放送局.md" title="wikilink">NHK岐阜</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/京都サンガF.C..md" title="wikilink">京都</a></p></td>
 <td><p>☆<a href="../Page/京都放送.md" title="wikilink">KBS京都</a>、<a href="../Page/NHK京都放送局.md" title="wikilink">NHK京都</a></p></td>
 <td><p>（◇<a href="../Page/NHK大阪放送局.md" title="wikilink">NHK大阪</a>、◇<a href="../Page/朝日放送テレビ.md" title="wikilink">ABCテレビ</a>、◇<a href="../Page/関西テレビ放送.md" title="wikilink">カンテレ</a>）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/ガンバ大阪.md" title="wikilink">G大阪</a></p></td>
 <td><p>◇ABCテレビ、◇<a href="https://ja.wikipedia.org/wiki/MBSテレビ" title="wikilink">毎日放送</a></p></td>
 <td><p>◇NHK大阪、◇カンテレ（◇<a href="../Page/讀賣テレビ放送.md" title="wikilink">読売テレビ</a>、<a href="../Page/サンテレビジョン.md" title="wikilink">サンテレビ</a>、テレビ金沢[11]）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>G大23</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/セレッソ大阪.md" title="wikilink">C大阪</a></p></td>
 <td><p>◇<a href="../Page/NHK大阪放送局.md" title="wikilink">NHK大阪</a></p></td>
 <td><p>◇カンテレ、<a href="../Page/テレビ大阪.md" title="wikilink">テレビ大阪</a>（◇毎日放送、◇ABCテレビ、◇読売テレビ）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C大23</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/ヴィッセル神戸.md" title="wikilink">神戸</a></p></td>
 <td><p>☆サンテレビ</p></td>
 <td><p><a href="../Page/NHK神戸放送局.md" title="wikilink">NHK神戸</a>、◇毎日放送（◇NHK大阪、◇ABCテレビ、◇カンテレ、◇読売テレビ）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/ガイナーレ鳥取.md" title="wikilink">鳥取</a></p></td>
 <td></td>
 <td><p><a href="../Page/NHK鳥取放送局.md" title="wikilink">NHK鳥取</a>、<a href="../Page/日本海テレビジョン放送.md" title="wikilink">日本海テレビ</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/ファジアーノ岡山FC.md" title="wikilink">岡山</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/RSKテレビ" title="wikilink">山陽放送</a>、☆<a href="../Page/テレビせとうち.md" title="wikilink">テレビせとうち</a>[12]、<a href="../Page/NHK岡山放送局.md" title="wikilink">NHK岡山</a></p></td>
 <td><p><a href="../Page/岡山放送.md" title="wikilink">岡山放送</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/サンフレッチェ広島F.C" title="wikilink">広島</a></p></td>
 <td><p><a href="../Page/NHK広島放送局.md" title="wikilink">NHK広島</a></p></td>
 <td><p><a href="../Page/中国放送.md" title="wikilink">中国放送</a>（<a href="../Page/広島テレビ放送.md" title="wikilink">広島テレビ</a>、☆<a href="../Page/広島ホームテレビ.md" title="wikilink">広島ホームテレビ</a>、<a href="https://ja.wikipedia.org/wiki/テレビ新広島" title="wikilink">テレビ新広島</a>）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/レノファ山口FC.md" title="wikilink">山口</a></p></td>
 <td><p><a href="../Page/山口朝日放送.md" title="wikilink">山口朝日放送</a>、<a href="../Page/山口放送.md" title="wikilink">山口放送</a>、<a href="../Page/NHK山口放送局.md" title="wikilink">NHK山口</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/カマタマーレ讃岐.md" title="wikilink">讃岐</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/NHK高松放送局" title="wikilink">NHK高松</a>、<a href="https://ja.wikipedia.org/wiki/西日本放送テレビ" title="wikilink">西日本放送</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/徳島ヴォルティス.md" title="wikilink">徳島</a></p></td>
 <td><p><a href="../Page/NHK徳島放送局.md" title="wikilink">NHK徳島</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/愛媛FC" title="wikilink">愛媛</a></p></td>
 <td><p><a href="../Page/あいテレビ.md" title="wikilink">あいテレビ</a>、<a href="../Page/NHK松山放送局.md" title="wikilink">NHK松山</a>、<a href="https://ja.wikipedia.org/wiki/南海放送" title="wikilink">南海放送</a></p></td>
 <td><p><a href="../Page/テレビ愛媛.md" title="wikilink">テレビ愛媛</a>[13]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/アビスパ福岡.md" title="wikilink">福岡</a></p></td>
 <td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a>、<a href="../Page/NHK福岡放送局.md" title="wikilink">NHK福岡</a>、<a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a>、<a href="https://ja.wikipedia.org/wiki/九州朝日放送" title="wikilink">九州朝日放送</a>、<a href="https://ja.wikipedia.org/wiki/RKB毎日放送" title="wikilink">RKB毎日放送</a></p></td>
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/ギラヴァンツ北九州.md" title="wikilink">北九州</a></p></td>
 <td></td>
 <td><p><a href="../Page/NHK北九州放送局.md" title="wikilink">NHK北九州</a>、九州朝日放送、RKB毎日放送</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/サガン鳥栖" title="wikilink">鳥栖</a></p></td>
 <td></td>
 <td><p><a href="../Page/NHK佐賀放送局.md" title="wikilink">NHK佐賀</a>、TVQ九州放送（<a href="https://ja.wikipedia.org/wiki/サガテレビ" title="wikilink">サガテレビ</a>）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/V・ファーレン長崎" title="wikilink">長崎</a></p></td>
 <td><p><a href="../Page/長崎国際テレビ.md" title="wikilink">長崎国際テレビ</a>、<a href="../Page/NHK長崎放送局.md" title="wikilink">NHK長崎</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ロアッソ熊本" title="wikilink">熊本</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a>、<a href="../Page/NHK熊本放送局.md" title="wikilink">NHK熊本</a></p></td>
 <td><p><a href="../Page/熊本朝日放送.md" title="wikilink">熊本朝日放送</a>、<a href="../Page/テレビ熊本.md" title="wikilink">テレビくまもと</a>、<a href="../Page/熊本県民テレビ.md" title="wikilink">くまもと県民テレビ</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/大分トリニータ" title="wikilink">大分</a></p></td>
 <td><p><a href="../Page/NHK大分放送局.md" title="wikilink">NHK大分</a>、<a href="../Page/テレビ大分.md" title="wikilink">テレビ大分</a></p></td>
 <td><p><a href="../Page/大分朝日放送.md" title="wikilink">大分朝日放送</a>（<a href="../Page/大分放送.md" title="wikilink">大分放送</a>）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/鹿児島ユナイテッドFC" title="wikilink">鹿児島</a></p></td>
 <td><p><a href="../Page/鹿児島テレビ放送.md" title="wikilink">鹿児島テレビ</a>、<a href="../Page/鹿児島放送.md" title="wikilink">鹿児島放送</a>、<a href="../Page/鹿児島讀賣テレビ.md" title="wikilink">鹿児島読売テレビ</a></p></td>
 <td><p><a href="../Page/NHK鹿児島放送局.md" title="wikilink">NHK鹿児島</a>、<a href="https://ja.wikipedia.org/wiki/南日本放送" title="wikilink">南日本放送</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/FC琉球.md" title="wikilink">琉球</a></p></td>
 <td><p><a href="../Page/琉球放送.md" title="wikilink">琉球放送</a></p></td>
 <td></td>
@@ -467,13 +462,10 @@ J1チャンピオンシップは全試合生放送<br />
 
 なお、[Jリーグカップ](../Page/Jリーグカップ.md "wikilink")や[天皇杯のスカパー](../Page/天皇杯_JFA_全日本サッカー選手権大会.md "wikilink")\!向け中継では、リーグ戦と一部試合で制作会社が異なる場合がある。また、[試合中止時の代替開催時に会場変更となった場合は通常と異なる中継体制が取られることがあった](../Page/Jリーグの試合中止例.md "wikilink") 。
 
-下表において、「Div.」欄は2016年シーズンの所属ディビジョン。
-
 <table>
 <thead>
 <tr class="header">
 <th><p>クラブ名</p></th>
-<th><p>Div.</p></th>
 <th><p>制作協力会社</p></th>
 <th><p>委託年度</p></th>
 </tr>
@@ -481,31 +473,26 @@ J1チャンピオンシップは全試合生放送<br />
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道コンサドーレ札幌" title="wikilink">札幌</a></p></td>
-<td><p>J2</p></td>
 <td><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ放送</a>*</p></td>
 <td><p>2007 -</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/ブラウブリッツ秋田.md" title="wikilink">秋田</a></p></td>
-<td><p>J3</p></td>
 <td></td>
 <td><p>[31]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/いわてグルージャ盛岡.md" title="wikilink">盛岡</a></p></td>
-<td><p>J3</p></td>
 <td><p><a href="../Page/テレビ岩手.md" title="wikilink">テレビ岩手</a>*</p></td>
 <td><p>2016 [32]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/ベガルタ仙台.md" title="wikilink">仙台</a></p></td>
-<td><p>J1</p></td>
 <td><p><a href="../Page/東北放送.md" title="wikilink">東北放送</a>*</p></td>
 <td><p>2007 -</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/モンテディオ山形" title="wikilink">山形</a></p></td>
-<td><p>J2</p></td>
 <td><p><a href="../Page/仙台放送.md" title="wikilink">仙台放送</a>[33]<br />
 <a href="../Page/山形テレビ.md" title="wikilink">山形テレビ</a>*</p></td>
 <td><p>2007<br />
@@ -513,13 +500,11 @@ J1チャンピオンシップは全試合生放送<br />
 </tr>
 <tr class="even">
 <td><p><a href="../Page/福島ユナイテッドFC.md" title="wikilink">福島</a></p></td>
-<td><p>J3</p></td>
 <td></td>
 <td><p>[34]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鹿島アントラーズ.md" title="wikilink">鹿島</a></p></td>
-<td><p>J1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/NHKグローバルメディアサービス" title="wikilink">NHKグローバルメディアサービス</a><br />
 鹿島アントラーズ[35]</p></td>
 <td><p>2007 - 2009<br />
@@ -527,31 +512,26 @@ J1チャンピオンシップは全試合生放送<br />
 </tr>
 <tr class="even">
 <td><p><a href="../Page/水戸ホーリーホック.md" title="wikilink">水戸</a></p></td>
-<td><p>J2</p></td>
 <td><p><a href="../Page/共同テレビジョン.md" title="wikilink">共同テレビジョン</a>[36]</p></td>
 <td><p>2007 -</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/栃木サッカークラブ" title="wikilink">栃木</a></p></td>
-<td><p>J3</p></td>
 <td><p><a href="../Page/とちぎテレビ.md" title="wikilink">とちぎテレビ</a>*</p></td>
 <td><p>2007 -</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ザスパクサツ群馬" title="wikilink">群馬</a></p></td>
-<td><p>J2</p></td>
 <td><p><a href="../Page/群馬テレビ.md" title="wikilink">群馬テレビ</a>*</p></td>
 <td><p>2007 -</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ" title="wikilink">浦和</a></p></td>
-<td><p>J1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フジ・メディア・テクノロジー" title="wikilink">フジ・メディア・テクノロジー</a>[37]</p></td>
 <td><p>2007 -</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/大宮アルディージャ" title="wikilink">大宮</a></p></td>
-<td><p>J1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エム・ティ・プランニング" title="wikilink">エム・ティ・プランニング</a><br />
 <a href="https://ja.wikipedia.org/wiki/テレビ埼玉" title="wikilink">テレ玉</a></p></td>
 <td><p>2007 - 2011、2015<br />
@@ -559,7 +539,6 @@ J1チャンピオンシップは全試合生放送<br />
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉" title="wikilink">千葉</a></p></td>
-<td><p>J2</p></td>
 <td><p><a href="../Page/エキスプレススポーツ.md" title="wikilink">エキスプレススポーツ</a><br />
 <a href="../Page/千葉テレビ放送.md" title="wikilink">チバテレ</a></p></td>
 <td><p>2007 - 2015<br />
@@ -567,41 +546,30 @@ J1チャンピオンシップは全試合生放送<br />
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/柏レイソル" title="wikilink">柏</a></p></td>
-<td><p>J1</p></td>
 <td><p>共同テレビジョン[38]</p></td>
 <td><p>2007 -</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/FC東京" title="wikilink">FC東京</a></p></td>
-<td><p>J1</p></td>
 <td><p>フジ・メディア・テクノロジー[39]</p></td>
 <td><p>2007 -</p></td>
 </tr>
 <tr class="even">
-<td><p>FC東京U-23</p></td>
-<td><p>J3</p></td>
-<td><p>エキスプレススポーツ</p></td>
-<td><p>2016</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/東京ヴェルディ1969" title="wikilink">東京V</a></p></td>
-<td><p>J2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本テレビ" title="wikilink">日本テレビ</a>*／<a href="../Page/日テレアックスオン.md" title="wikilink">AX-ON</a>[40]<br />
 AX-ON</p></td>
 <td><p>2007 - 2009<br />
 2010 -</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/FC町田ゼルビア" title="wikilink">町田</a></p></td>
-<td><p>J2</p></td>
 <td><p>エム・ティ・プランニング<br />
 フジ・メディア・テクノロジー[41]</p></td>
 <td><p>2012、2014、2016<br />
 2015</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/川崎フロンターレ" title="wikilink">川崎</a></p></td>
-<td><p>J1</p></td>
 <td><p><a href="../Page/コスモ・スペース.md" title="wikilink">コスモ・スペース</a><br />
 <a href="../Page/テレビ神奈川.md" title="wikilink">tvk</a><br />
 <a href="../Page/エキスプレススポーツ.md" title="wikilink">エキスプレススポーツ</a><br />
@@ -611,31 +579,27 @@ AX-ON</p></td>
 2010<br />
 2011 -</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/横浜F・マリノス" title="wikilink">横浜FM</a></p></td>
-<td><p>J1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東通" title="wikilink">東通</a><br />
 日本テレビ*・AX-ON[43]・<a href="../Page/日テレ・テクニカル・リソーシズ.md" title="wikilink">NITRO</a>[44]</p></td>
 <td><p>2007 - 2009<br />
 2010 -</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/横浜FC.md" title="wikilink">横浜FC</a></p></td>
-<td><p>J2</p></td>
 <td><p>エキスプレススポーツ<br />
 エム・ティ・プランニング</p></td>
 <td><p>2007 - 2012<br />
 2013 -</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/横浜スポーツ&amp;カルチャークラブ.md" title="wikilink">YS横浜</a></p></td>
-<td><p>J3</p></td>
 <td></td>
 <td><p>[45]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/SC相模原.md" title="wikilink">相模原</a></p></td>
-<td><p>J3</p></td>
 <td><p>エキスプレススポーツ<br />
 フジ・メディア・テクノロジー[46]<br />
 エキスプレススポーツ</p></td>
@@ -643,87 +607,74 @@ AX-ON</p></td>
 2015<br />
 2016</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/湘南ベルマーレ" title="wikilink">湘南</a></p></td>
-<td><p>J2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヴィステックエンタテインメント" title="wikilink">ヴィステックエンタテインメント</a><br />
 <a href="../Page/エキスプレススポーツ.md" title="wikilink">エキスプレススポーツ</a></p></td>
 <td><p>2007 - 2010<br />
 2011 -</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ヴァンフォーレ甲府" title="wikilink">甲府</a></p></td>
-<td><p>J1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山梨放送" title="wikilink">山梨放送</a>*</p></td>
 <td><p>2007 -</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/アルビレックス新潟.md" title="wikilink">新潟</a></p></td>
-<td><p>J1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東通" title="wikilink">東通</a><br />
 <a href="../Page/テレビ新潟放送網.md" title="wikilink">テレビ新潟放送網</a>*</p></td>
 <td><p>2007<br />
 2008 -</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/AC長野パルセイロ.md" title="wikilink">長野</a></p></td>
-<td><p>J3</p></td>
 <td><p><a href="../Page/テレビ信州.md" title="wikilink">テレビ信州</a>*</p></td>
 <td><p>2014 -</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/松本山雅FC.md" title="wikilink">松本</a></p></td>
-<td><p>J2</p></td>
 <td><p><a href="../Page/信越放送.md" title="wikilink">信越放送</a>*</p></td>
 <td><p>2012 -</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/カターレ富山.md" title="wikilink">富山</a></p></td>
-<td><p>J3</p></td>
 <td><p><a href="../Page/富山テレビ放送.md" title="wikilink">富山テレビ放送</a></p></td>
 <td><p>2007 -[47]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ツエーゲン金沢" title="wikilink">金沢</a></p></td>
-<td><p>J2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北陸放送" title="wikilink">北陸放送</a></p></td>
 <td><p>2014 -</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/清水エスパルス.md" title="wikilink">清水</a></p></td>
-<td><p>J2</p></td>
 <td><p>富士テレネット[48]*</p></td>
 <td><p>2007 -</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/藤枝MYFC" title="wikilink">藤枝</a></p></td>
-<td><p>J3</p></td>
 <td><p>富士テレネット[49]</p></td>
 <td><p>2014 -[50]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/ジュビロ磐田.md" title="wikilink">磐田</a></p></td>
-<td><p>J1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/静岡放送" title="wikilink">静岡放送</a>*</p></td>
 <td><p>2007 -</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/名古屋グランパスエイト" title="wikilink">名古屋</a></p></td>
-<td><p>J1</p></td>
 <td><p><a href="../Page/エキスプレススポーツ.md" title="wikilink">エキスプレススポーツ</a><br />
 <a href="../Page/中京テレビ放送.md" title="wikilink">中京テレビ放送</a>*</p></td>
 <td><p>2007<br />
 2008 -</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/FC岐阜.md" title="wikilink">岐阜</a></p></td>
-<td><p>J2</p></td>
 <td><p><a href="../Page/岐阜放送.md" title="wikilink">ぎふチャン</a>[51]*／<a href="../Page/名古屋テレビ放送.md" title="wikilink">メーテレ</a>[52]*</p></td>
 <td><p>2007 - / 2007 -</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/京都サンガF.C..md" title="wikilink">京都</a></p></td>
-<td><p>J2</p></td>
 <td><p>エキスプレススポーツ<br />
 <a href="../Page/京都放送.md" title="wikilink">KBS京都</a>*<br />
 <a href="https://ja.wikipedia.org/wiki/ytv_Nextry" title="wikilink">ytv Nextry</a>[53]*</p></td>
@@ -731,9 +682,8 @@ AX-ON</p></td>
 2008 - 2012<br />
 2013 -</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/ガンバ大阪.md" title="wikilink">G大阪</a></p></td>
-<td><p>J1</p></td>
 <td><p><a href="../Page/エキスプレススポーツ.md" title="wikilink">エキスプレススポーツ</a><br />
 <a href="../Page/朝日放送テレビ.md" title="wikilink">朝日放送</a>*<br />
 <a href="https://ja.wikipedia.org/wiki/MBSテレビ" title="wikilink">毎日放送</a>[54]*</p></td>
@@ -741,95 +691,81 @@ AX-ON</p></td>
 2010 -<br />
 2014 -</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>G大阪U-23</p></td>
-<td><p>J3</p></td>
 <td><p>エキスプレススポーツ</p></td>
 <td><p>2016</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/セレッソ大阪.md" title="wikilink">C大阪</a></p></td>
-<td><p>J2</p></td>
 <td><p><a href="../Page/映像企画.md" title="wikilink">映像企画</a>*[55]<br />
 <a href="../Page/関西テレビ放送.md" title="wikilink">関西テレビ</a>*</p></td>
 <td><p>2007 - 2010<br />
 2011 -</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C大阪U-23</p></td>
-<td><p>J3</p></td>
 <td><p>関西テレビ*</p></td>
 <td><p>2016</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/ヴィッセル神戸.md" title="wikilink">神戸</a></p></td>
-<td><p>J1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/放送映画製作所" title="wikilink">放送映画製作所</a>[56]</p></td>
 <td><p>2007 -</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/ガイナーレ鳥取.md" title="wikilink">鳥取</a></p></td>
-<td><p>J3</p></td>
 <td><p><a href="../Page/日本海テレビジョン放送.md" title="wikilink">日本海テレビ</a>*</p></td>
 <td><p>2011 -</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ファジアーノ岡山" title="wikilink">岡山</a></p></td>
-<td><p>J2</p></td>
 <td><p><a href="../Page/RSK山陽放送.md" title="wikilink">山陽放送</a>*</p></td>
 <td><p>2009 -</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/サンフレッチェ広島" title="wikilink">広島</a></p></td>
-<td><p>J1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/tssプロダクション" title="wikilink">tssプロダクション</a>[57]</p></td>
 <td><p>2007 -</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/レノファ山口FC.md" title="wikilink">山口</a></p></td>
-<td><p>J2</p></td>
 <td><p><a href="../Page/山口放送.md" title="wikilink">山口放送</a>*</p></td>
 <td><p>2015 -</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/徳島ヴォルティス.md" title="wikilink">徳島</a></p></td>
-<td><p>J2</p></td>
 <td><p>クロステレビ四国[58]<br />
 <a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a>*</p></td>
 <td><p>2007 - 2009<br />
 2010 -</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/カマタマーレ讃岐.md" title="wikilink">讃岐</a></p></td>
-<td><p>J2</p></td>
 <td><p>山陽放送*<br />
 <a href="../Page/西日本放送.md" title="wikilink">西日本放送</a>*</p></td>
 <td><p>2013[59]<br />
 2014 -</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/愛媛FC" title="wikilink">愛媛</a></p></td>
-<td><p>J2</p></td>
 <td><p><a href="../Page/テレビ愛媛.md" title="wikilink">テレビ愛媛</a>*</p></td>
 <td><p>2007 -</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/ギラヴァンツ北九州.md" title="wikilink">北九州</a></p></td>
-<td><p>J2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/RKB毎日放送" title="wikilink">RKB毎日放送</a>*</p></td>
 <td><p>2010 -</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/アビスパ福岡.md" title="wikilink">福岡</a></p></td>
-<td><p>J1</p></td>
 <td><p><a href="../Page/VSQ.md" title="wikilink">VSQ</a>[60]*<br />
 <a href="../Page/福岡放送.md" title="wikilink">福岡放送</a>*</p></td>
 <td><p>2007 - 2014<br />
 2015 -</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/サガン鳥栖" title="wikilink">鳥栖</a></p></td>
-<td><p>J1</p></td>
 <td><p>STSプロジェクト[61]<br />
 福岡放送[62]*<br />
 VSQ[63]*</p></td>
@@ -837,21 +773,18 @@ VSQ[63]*</p></td>
 2011 - 2014<br />
 2015 -</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/V・ファーレン長崎" title="wikilink">長崎</a></p></td>
-<td><p>J2</p></td>
 <td><p><a href="../Page/長崎国際テレビ.md" title="wikilink">長崎国際テレビ</a>*</p></td>
 <td><p>2013 -</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ロアッソ熊本" title="wikilink">熊本</a></p></td>
-<td><p>J2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a>*</p></td>
 <td><p>2007 -</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/大分トリニータ" title="wikilink">大分</a></p></td>
-<td><p>J3</p></td>
 <td><p>TOSエンタープライズ[64]*<br />
 <a href="../Page/大分朝日放送.md" title="wikilink">大分朝日放送</a><br />
 <a href="../Page/テレビ大分.md" title="wikilink">テレビ大分</a>*<br />
@@ -863,15 +796,13 @@ VSQ[65]</p></td>
 2014 -<br />
 2016</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/鹿児島ユナイテッドFC" title="wikilink">鹿児島</a></p></td>
-<td><p>J3</p></td>
 <td><p><a href="../Page/鹿児島讀賣テレビ.md" title="wikilink">鹿児島讀賣テレビ</a></p></td>
 <td><p>2016</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/FC琉球.md" title="wikilink">琉球</a></p></td>
-<td><p>J3</p></td>
 <td><p>tssプロダクション[66][67]<br />
 放送映画製作所[68]</p></td>
 <td><p>2014[69]<br />

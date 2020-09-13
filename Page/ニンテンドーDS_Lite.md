@@ -75,7 +75,7 @@
   - ジェットブラック特別仕様（2006年11月2日 - ）
     『[ワールドサッカーウイニングイレブンDS](../Page/ワールドサッカーウイニングイレブンDS.md "wikilink")』と同梱。本体色はジェットブラックと同様。
   - ノーブルピンクオシャレ魔女バージョン（2006年11月22日 - ）
-    『[オシャレ魔女♥ラブandベリー ～DSコレクション～](../Page/オシャレ魔女_ラブandベリー.md "wikilink")』と同梱。本体色はノーブルピンクと同様。
+    『[オシャレ魔女♥ラブandベリー ～DSコレクション～](https://ja.wikipedia.org/wiki/オシャレ魔女♥ラブandベリー "wikilink")』と同梱。本体色はノーブルピンクと同様。
   - スカイパイレーツエディション（2007年4月26日 - ）
     『[ファイナルファンタジーXII レヴァナント・ウイング](../Page/ファイナルファンタジーXII_レヴァナント・ウイング.md "wikilink")』と同梱。本体色はクリスタルホワイトと同様。
   - クリスタルホワイト桃太郎バージョン（2007年4月26日 - ）
@@ -88,6 +88,8 @@
     『[SDガンダム GGENERATION CROSS DRIVE](../Page/SDガンダム_GGENERATION.md "wikilink")』と同梱。本体色はクリスタルホワイトと同様。
   - Gemini Edition（2007年8月23日 - ）
     『[ファイナルファンタジー・クリスタルクロニクル リング・オブ・フェイト](../Page/ファイナルファンタジー・クリスタルクロニクル_リング・オブ・フェイト.md "wikilink")』と同梱。本体色はクリスタルホワイトと同様。
+  - NINTENDO DS Lite × babymilo by a bathing ape BABY MILO EDITION（2008年4月1日 - ）
+    ファッションブランド『[A BATHING APE](../Page/A_BATHING_APE.md "wikilink")』とコラボ。A BATHING APE の「マイロ」と、任天堂の「マリオ」が並んだNintendo DS Lite。本体色はクリスタルホワイトとゴールド。
   - [ギラティナ](https://ja.wikipedia.org/wiki/ギラティナ "wikilink")エディション（2008年9月13日 - ）
     ポケモンだいすきクラブオリジナル。本体色はクリスタルホワイトとは異なる独自色。『[ポケットモンスタープラチナ](https://ja.wikipedia.org/wiki/ポケットモンスタープラチナ "wikilink")』とのセットで抽選販売。
 

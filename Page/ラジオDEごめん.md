@@ -133,7 +133,7 @@
 同イベントについての詳細は、以下のリンク先を参照のこと。
 
   - [久本雅美&嘉門達夫の 祝 お誕生日アンド結婚報告トークライブ！〜一夜限りの「ラジごめ」復活祭り〜](http://www.sakurasaku-office.co.jp/kamon/pc/20090705.html) - 有限会社さくら咲く
-  - [ラジごめ復活！｜嘉門達夫オフィシャルブログ 冷やし中華始めましたか？（知らんガナ！） Powered by アメブロ](http://ameblo.jp/kamontatsuo/entry-10293941300.html)
+  - [ラジごめ復活！｜嘉門達夫オフィシャルブログ 冷やし中華始めましたか？（知らんガナ！） Powered by アメブロ](https://ameblo.jp/kamontatsuo/entry-10293941300.html)
   - [立て板に水谷\!?：中京テレビ アナウンスルーム » ラジごめ復活際\!\!](https://archive.is/20141211145816/http://www2.ctv.co.jp/mizutani/?p=833)（原文まま）
 
 ### 復活特番

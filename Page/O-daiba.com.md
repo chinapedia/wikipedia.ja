@@ -15,7 +15,7 @@
 
 このように、ドラマと情報エンターテイメントをミックスし、当時フジテレビが運営していた[ポータルサイト](../Page/ポータルサイト.md "wikilink")「o-daiba.com」と連動させ、インターネットの面白さを紹介したインターネット連動番組である。
 
-リアルシスターズのリーダー・成瀬一美を演じたのは、「[死国](../Page/死国.md "wikilink")」「[バトル・ロワイアル](../Page/バトル・ロワイアル_\(映画\).md "wikilink")」等への出演で注目を集めつつあった[栗山千明](https://ja.wikipedia.org/wiki/栗山千明 "wikilink")で、これまで演じていた役柄と異なる「平凡でつまらない」少女を演じた。栗山に加え、[全日本国民的美少女コンテスト](../Page/全日本国民的美少女コンテスト.md "wikilink")グランプリの[須藤温子](https://ja.wikipedia.org/wiki/須藤温子 "wikilink")、[おはガールとして活躍していたドラマ初出演の](../Page/おはスタ.md "wikilink")[ベッキー](../Page/ベッキー.md "wikilink")、「[EUREKA](../Page/EUREKA_\(映画\).md "wikilink")」に出演した[宮﨑あおい](https://ja.wikipedia.org/wiki/宮崎あおい "wikilink")、栗山と「[六番目の小夜子](../Page/六番目の小夜子.md "wikilink")」で共演した[松本まりか](../Page/松本まりか.md "wikilink")らの、美少女女優が共演した。
+リアルシスターズのリーダー・成瀬一美を演じたのは、「[死国](../Page/死国.md "wikilink")」「[バトル・ロワイアル](../Page/バトル・ロワイアル_\(映画\).md "wikilink")」等への出演で注目を集めつつあった[栗山千明](https://ja.wikipedia.org/wiki/栗山千明 "wikilink")で、これまで演じていた役柄と異なる「平凡でつまらない」少女を演じた。栗山に加え、[全日本国民的美少女コンテスト](../Page/全日本国民的美少女コンテスト.md "wikilink")グランプリの[須藤温子](https://ja.wikipedia.org/wiki/須藤温子 "wikilink")、[おはガールとして活躍していたドラマ初出演の](../Page/おはスタ.md "wikilink")[ベッキー](../Page/ベッキー.md "wikilink")、「[EUREKA](../Page/EUREKA_\(映画\).md "wikilink")」に出演した[宮﨑あおい](https://ja.wikipedia.org/wiki/宮﨑あおい "wikilink")、栗山と「[六番目の小夜子](../Page/六番目の小夜子.md "wikilink")」で共演した[松本まりか](../Page/松本まりか.md "wikilink")らの、美少女女優が共演した。
 
 リアルシスターズの5人はそれぞれが各方面で活躍している現在においてもかけがえのない親友である。4歳から子役として活動し、このドラマがはじめて同年代の女優たちとの共演であった宮﨑は「会うだけでパワーをもらえる」と語っている。
 
@@ -173,7 +173,7 @@ MISSION 3〜5はDVDには収録されていない。そのためDVDではMISSION
         8月25日に[お台場](../Page/お台場.md "wikilink")フジテレビ本社で行われたイベントを中心とした放送。
   - MISSION 21 なすがままに。 （2001年09月3日）
       -
-        インターネットドラマやイベントなどの大成功によって、凍結されていたフジテレビとの業務提携が復活される。だが、一美は将来の夢について思い悩む。すべてのきっかけとなったノーパソ「由美かおる」を久しぶりに開いた一美は「I can do it\!\! BBS」というサイトにたどりつき、その主催者「mine」に1年前の自分を投影させる。そして真紀も写真家の夢を再燃させつつあった。リアルシスターズの強化をもくろむ零の株式会社化計画はリアルシスターズに激震をもたらした。真紀とリタは自分の夢を優先させ、リアルシスターズからの離脱を表明する。「o-daiba.com」と「月間デ・ビュー」の共同オーディション企画で選ばれた國貞加奈\[[http://www.geocities.jp/kanappe426/\]が真紀の旧友役で出演](http://www.geocities.jp/kanappe426/%5Dが真紀の旧友役で出演)。
+        インターネットドラマやイベントなどの大成功によって、凍結されていたフジテレビとの業務提携が復活される。だが、一美は将来の夢について思い悩む。すべてのきっかけとなったノーパソ「由美かおる」を久しぶりに開いた一美は「I can do it\!\! BBS」というサイトにたどりつき、その主催者「mine」に1年前の自分を投影させる。そして真紀も写真家の夢を再燃させつつあった。リアルシスターズの強化をもくろむ零の株式会社化計画はリアルシスターズに激震をもたらした。真紀とリタは自分の夢を優先させ、リアルシスターズからの離脱を表明する。「o-daiba.com」と「月間デ・ビュー」の共同オーディション企画で選ばれた國貞加奈\[[https://web.archive.org/20030201081344/http://www.geocities.jp/kanappe426/\]が真紀の旧友役で出演](https://web.archive.org/20030201081344/http://www.geocities.jp/kanappe426/%5Dが真紀の旧友役で出演)。
   - MISSION 22 Cry Baby Cry （2001年09月10日）
       -
         それぞれの夢へ向かって歩みだし、バラバラになっていくリアルシスターズ。一美は「mine」への接触を図る。だが「mine」の正体は…
@@ -341,7 +341,7 @@ DVD
 ## 関連サイト
 
   - [株式会社o-daiba.com\~美少女IT戦士リアルシスターズ](https://www.fujitv.co.jp/b_hp/o-daiba/)
-  - [o-daiba.com外伝](http://www.fujitv.co.jp/jp/b_hp/odaiba-g/)
+  - [o-daiba.com外伝](https://www.fujitv.co.jp/b_hp/odaiba-g/)
   - [リアルシスターズ サブタイトルリスト](http://gt.ws8.arena.ne.jp/shiryou/rsz.html)
 
 [Category:フジテレビの深夜ドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜ドラマ "wikilink") [Category:2000年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2000年のテレビドラマ "wikilink") [Category:娯楽のウェブサイト](https://ja.wikipedia.org/wiki/Category:娯楽のウェブサイト "wikilink") [Category:フジテレビのイベント](https://ja.wikipedia.org/wiki/Category:フジテレビのイベント "wikilink")

@@ -11,7 +11,7 @@
 
 ## 技術顧問（Scientific Advisory Board）
 
-  - [ポール・アリビサトス](https://ja.wikipedia.org/wiki/ポール・アリビサトス "wikilink")（[A. Paul Alivisatos](https://ja.wikipedia.org/wiki/A._Paul_Alivisatos "wikilink")、[カリフォルニア大学バークレー校](../Page/カリフォルニア大学バークレー校.md "wikilink")）- [量子ドット](../Page/量子ドット.md "wikilink")を専門とする。化学分野の論文被引用回数世界7位（2006年8月現在）。
+  - [ポール・アリヴィサトス](../Page/ポール・アリヴィサトス.md "wikilink")（[A. Paul Alivisatos](https://ja.wikipedia.org/wiki/A._Paul_Alivisatos "wikilink")、[カリフォルニア大学バークレー校](../Page/カリフォルニア大学バークレー校.md "wikilink")）- [量子ドット](../Page/量子ドット.md "wikilink")を専門とする。化学分野の論文被引用回数世界7位（2006年8月現在）。
   - [ウリ・ベィニン](https://ja.wikipedia.org/wiki/ウリ・ベィニン "wikilink")（[Uri Banin](https://ja.wikipedia.org/wiki/Uri_Banin "wikilink")、[ヘブライ大学](../Page/ヘブライ大学.md "wikilink")）- [量子ドット](../Page/量子ドット.md "wikilink")およびそのハイブリッドナノ材料を専門とする。
   - [ルイス・ブラゥス](https://ja.wikipedia.org/wiki/ルイス・ブラゥス "wikilink")（[Louis Brus](https://ja.wikipedia.org/wiki/Louis_Brus "wikilink")、[コロンビア大学](https://ja.wikipedia.org/wiki/コロンビア大学 "wikilink")）- [量子ドット](../Page/量子ドット.md "wikilink")を含む[ナノ材料](https://ja.wikipedia.org/wiki/ナノ材料 "wikilink")の電子・光学物性の物理化学を専門とする。[ベル研究所](../Page/ベル研究所.md "wikilink")時代はアリビサトスのボス。
   - [フィリップ・ギュヨット＝シオネスト](https://ja.wikipedia.org/wiki/フィリップ・ギュヨット＝シオネスト "wikilink")（[Philippe Guyot-Sionnest](https://ja.wikipedia.org/wiki/Philippe_Guyot-Sionnest "wikilink")、[シカゴ大学](../Page/シカゴ大学.md "wikilink")）- [量子ドット](../Page/量子ドット.md "wikilink")や[ナノ材料](https://ja.wikipedia.org/wiki/ナノ材料 "wikilink")全般に関連する[固体物理学](https://ja.wikipedia.org/wiki/固体物理学 "wikilink")を専門とする。

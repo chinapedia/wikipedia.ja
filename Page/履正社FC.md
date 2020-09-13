@@ -68,4 +68,4 @@
   - \[<http://senmonsoccer.sharepoint.com/>　関西専門学校サッカー連盟\]
   - \[<http://www.senmonsoccer.jp/>　全国専門学校サッカー連盟\]
 
-[Category:大阪府のサッカークラブ](https://ja.wikipedia.org/wiki/Category:大阪府のサッカークラブ "wikilink") [Category:茨木市](https://ja.wikipedia.org/wiki/Category:茨木市 "wikilink")
+[Category:大阪府のサッカークラブ](https://ja.wikipedia.org/wiki/Category:大阪府のサッカークラブ "wikilink") [Category:茨木市のスポーツ](https://ja.wikipedia.org/wiki/Category:茨木市のスポーツ "wikilink")

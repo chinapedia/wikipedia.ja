@@ -9,7 +9,7 @@
 
 [オリコンでは両A面シングルとして扱われているが](../Page/オリコンチャート.md "wikilink")\[1\]、実際には「Jumpin' Jack Boy」の単独A面シングルである。
 
-本作から11枚目のシングル『[WORST CRIME〜About a rock star who was a swindler〜](../Page/WORST_CRIME〜About_a_rock_star_who_was_a_swindler〜.md "wikilink")』まで、A面曲のカラオケが収録されていない。
+本作から11枚目のシングル『[WORST CRIME〜About a rock star who was a swindler〜](https://ja.wikipedia.org/wiki/WORST_CRIME〜About_a_rock_star_who_was_a_swindler〜/Blind_To_My_Heart "wikilink")』まで、A面曲のカラオケが収録されていない。
 
 本作の[ジャケット写真は](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、[2007年](../Page/2007年.md "wikilink")に発売された[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[BEST OF BEST 1000 WANDS](https://ja.wikipedia.org/wiki/BEST_OF_BEST_1000_WANDS "wikilink")』のジャケットに流用された。
 

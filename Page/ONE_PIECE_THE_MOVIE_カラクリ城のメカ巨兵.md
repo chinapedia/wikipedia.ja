@@ -101,6 +101,10 @@
   - 「[サヤエンドウ](https://ja.wikipedia.org/wiki/サヤエンドウ/裸足のシンデレラボーイ "wikilink")」
     作詞 - [zopp](https://ja.wikipedia.org/wiki/zopp "wikilink") / 作曲・編曲 - Shusui, Fredrik Hult, Jonas Engstrand, Ola Larsson / 歌 - [NEWS](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")
 
+## 関連書籍
+
+  - [アニメ・コミックス](../Page/フィルムコミック.md "wikilink") ONE PIECE THE MOVIE カラクリ城のメカ巨兵（2006年11月2日発売、ISBN 978-4088741727）
+
 ## 脚注
 
 ## 外部リンク

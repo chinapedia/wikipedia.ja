@@ -1,7 +1,7 @@
 > この記事は[EXIT](https://ja.wikipedia.org/wiki/EXIT)から翻訳されています。
 
 
-**EXIT**（米国英語本来の発音に近いカナ表現だとエグジット、日本での慣用的な誤読表現ではイグジット）
+**EXIT**（エグジット、イグジット\[1\]\[2\]）
 
   - [英語](../Page/英語.md "wikilink")で出口のこと。関連「[非常口](../Page/非常口.md "wikilink")」
 
@@ -15,7 +15,7 @@
       - EXIT - [Coming Centuryの曲](../Page/V6_\(グループ\).md "wikilink")。V6のシングル「[GENERATION GAP](../Page/GENERATION_GAP.md "wikilink")」に収録。
       - [EXIT (ポルノグラフィティの曲)](https://ja.wikipedia.org/wiki/EXIT_\(ポルノグラフィティの曲\) "wikilink") - [ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")の曲。
       - [EXIT (REVALCYの曲)](https://ja.wikipedia.org/wiki/EXIT_\(REVALCYの曲\) "wikilink") - [REVALCY](https://ja.wikipedia.org/wiki/REVALCY "wikilink")の曲。
-      - EXIT - [シュノーケルの曲](../Page/シュノーケル_\(バンド\).md "wikilink")。アルバム「[NEW POP](https://ja.wikipedia.org/wiki/NEW_POP "wikilink")」に収録。
+      - EXIT - [シュノーケルの曲](https://ja.wikipedia.org/wiki/シュノーケル_\({{バンド\) "wikilink")。アルバム「[NEW POP](https://ja.wikipedia.org/wiki/NEW_POP "wikilink")」に収録。
       - [EXIT (J-WALKのアルバム)](https://ja.wikipedia.org/wiki/EXIT_\(J-WALKのアルバム\) "wikilink") - [J-WALK](https://ja.wikipedia.org/wiki/J-WALK "wikilink")のアルバム。
       - [EXIT (PASSENGERSのアルバム)](https://ja.wikipedia.org/wiki/EXIT_\(PASSENGERSのアルバム\) "wikilink") - [PASSENGERS](https://ja.wikipedia.org/wiki/PASSENGERS "wikilink")のアルバム。
 
@@ -35,7 +35,14 @@
 
   - [EXIT (フェスティバル)](../Page/EXIT_\(フェスティバル\).md "wikilink") - [セルビア](../Page/セルビア.md "wikilink")で毎年開催される音楽フェスティバル
 
+## 脚注
+
 ## 関連項目
 
-  - [出口 (曖昧さ回避)](https://ja.wikipedia.org/wiki/出口_\(曖昧さ回避\) "wikilink")
-  - [イグジット (曖昧さ回避)](https://ja.wikipedia.org/wiki/イグジット_\(曖昧さ回避\) "wikilink")
+  - [出口](https://ja.wikipedia.org/wiki/出口 "wikilink")
+  - [イグジット](https://ja.wikipedia.org/wiki/イグジット "wikilink")
+
+<!-- end list -->
+
+1.  、エグズィット
+2.  、エクスィット

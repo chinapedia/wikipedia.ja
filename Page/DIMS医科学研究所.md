@@ -34,4 +34,4 @@
 ## 外部リンク
 
   -
-[Category:生物系の日本の研究所](https://ja.wikipedia.org/wiki/Category:生物系の日本の研究所 "wikilink") [Category:一宮市の企業](https://ja.wikipedia.org/wiki/Category:一宮市の企業 "wikilink") [Category:1978年設立の企業](https://ja.wikipedia.org/wiki/Category:1978年設立の企業 "wikilink")
+[Category:愛知県の研究所](https://ja.wikipedia.org/wiki/Category:愛知県の研究所 "wikilink") [Category:生物系の日本の研究所](https://ja.wikipedia.org/wiki/Category:生物系の日本の研究所 "wikilink") [Category:一宮市の企業](https://ja.wikipedia.org/wiki/Category:一宮市の企業 "wikilink") [Category:1978年設立の企業](https://ja.wikipedia.org/wiki/Category:1978年設立の企業 "wikilink")

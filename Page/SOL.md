@@ -16,12 +16,14 @@
   - [ソル・スポーツマネージメント](https://ja.wikipedia.org/wiki/ソル・スポーツマネージメント "wikilink") - プロスポーツ選手等のマネジメントを行う日本の企業。
   - [ソロモン諸島](../Page/ソロモン諸島.md "wikilink")の[IOCコード](https://ja.wikipedia.org/wiki/IOCコード "wikilink")・[FIFAコード](https://ja.wikipedia.org/wiki/FIFAコード "wikilink")。
   - [ソニーモバイルコミュニケーションズ](../Page/ソニーモバイルコミュニケーションズ.md "wikilink")製の[au向け](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")[LTE対応スマートフォンの符丁](https://ja.wikipedia.org/wiki/Long_Term_Evolution "wikilink")。
+  - [プロセッサ・テクノロジー](../Page/プロセッサ・テクノロジー.md "wikilink")社のマイクロコンピュータシリーズ。[Sol-20](../Page/Sol-20.md "wikilink")を参照。
+  - [SOL (アイドルグループ)](../Page/SOL_\(アイドルグループ\).md "wikilink") - 株式会社リーディ所属のアイドルグループ。
 
 ## 頭文字語
 
   - [SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink") - [TOKYO FMで放送されている](../Page/エフエム東京.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
   - [right](https://ja.wikipedia.org/wiki/ファイル:Star_of_life2.svg "wikilink") [スター・オブ・ライフ](../Page/スター・オブ・ライフ.md "wikilink") (star of life) - 右図のようなシンボル。
-  - [生の尊厳](https://ja.wikipedia.org/wiki/生の尊厳 "wikilink") () - 対義語はQOL:quality of life（[生の質](../Page/クオリティ・オブ・ライフ.md "wikilink")）」。
+  - [生命の尊厳](https://ja.wikipedia.org/wiki/生命の尊厳 "wikilink") () - 対義語はQOL:quality of life（[生の質](../Page/クオリティ・オブ・ライフ.md "wikilink")）」。
   - [三國志Online](../Page/三國志Online.md "wikilink") () - [コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")が2008年に発売した[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")。
   - [占拠性病変](https://ja.wikipedia.org/wiki/占拠性病変 "wikilink") () - [臓器](https://ja.wikipedia.org/wiki/臓器 "wikilink")にできる、[腫瘍](../Page/腫瘍.md "wikilink")、[のう胞](https://ja.wikipedia.org/wiki/のう胞 "wikilink")、[石灰化](https://ja.wikipedia.org/wiki/石灰化 "wikilink")などの病変の総称。
   - [スタジアム・オブ・ライト](../Page/スタジアム・オブ・ライト.md "wikilink") () - イングランドのサッカー専用スタジアム。

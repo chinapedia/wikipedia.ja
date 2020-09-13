@@ -86,7 +86,7 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 
 [1962年](../Page/1962年.md "wikilink")、が高卒の選手では初めて指名された。
 
-[1965年](../Page/1965年.md "wikilink")、双子の[トム・バン・アースデール](https://ja.wikipedia.org/wiki/トム・バン・アースデール "wikilink")、[ディック・バン・アースデール](https://ja.wikipedia.org/wiki/ディック・バン・アースデール "wikilink")がそれぞれドラフトで指名された。
+[1965年](../Page/1965年.md "wikilink")、双子の[トム・バン・アースデール](https://ja.wikipedia.org/wiki/トム・バン・アースデール "wikilink")、[ディック・バン・アースデール](https://ja.wikipedia.org/wiki/ディック・バン・アースデール "wikilink")がそれぞれドラフトで指名された。この年まで地元ファン獲得のためにと呼ばれる制度でホームアリーナ近郊の大学出身選手をドラフトに先立って指名する制度があった。この制度を用いた場合、チームはドラフト1巡指名権を失った。
 
 [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")、[マイカル・トンプソン](https://ja.wikipedia.org/wiki/マイカル・トンプソン "wikilink")が[ポートランド・トレイルブレイザーズ](../Page/ポートランド・トレイルブレイザーズ.md "wikilink")にアメリカ合衆国以外出身の選手として初めて1位で指名された。
 
@@ -436,7 +436,7 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1973年のNBAドラフト" title="wikilink">1973</a></p></td>
-<td><p><a href="../Page/フィラデルフィア・セブンティシクサーズ.md" title="wikilink">フィラデルフィア・76サーズ</a></p></td>
+<td><p><a href="../Page/フィラデルフィア・セブンティシクサーズ.md" title="wikilink">フィラデルフィア・セブンティシクサーズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ダグ・コリンズ" title="wikilink">ダグ・コリンズ</a></p></td>
 <td></td>
 <td></td>
@@ -678,7 +678,7 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1996年のNBAドラフト" title="wikilink">1996</a></p></td>
-<td><p><a href="../Page/フィラデルフィア・セブンティシクサーズ.md" title="wikilink">フィラデルフィア・76サーズ</a></p></td>
+<td><p><a href="../Page/フィラデルフィア・セブンティシクサーズ.md" title="wikilink">フィラデルフィア・セブンティシクサーズ</a></p></td>
 <td><p><strong><a href="../Page/アレン・アイバーソン.md" title="wikilink">アレン・アイバーソン</a></strong></p></td>
 <td></td>
 <td></td>

@@ -8,7 +8,7 @@
 1.  **LAT.43°N 〜forty-three degrees north latitude〜**
       -
         (作詞・作曲：吉田美和 / 編曲：中村正人)
-          - タイトルは[北緯43度の意味](https://ja.wikipedia.org/wiki/北緯43度線 "wikilink")。2014年11月より公募された「otoCoto presents OtoBon ソングノベルズ大賞 ～音楽を感じる小説～ DREAMS COME TRUE編」でこの楽曲を元にした受賞作の小説「北上症候群」（著：いぬじゅん）が2015年11月に電子書籍として発売された\[1\]。
+          - タイトルは[北緯43度の意味](https://ja.wikipedia.org/wiki/北緯43度線 "wikilink")。2014年11月より公募された「otoCoto presents OtoBon ソングノベルズ大賞 ～音楽を感じる小説～ DREAMS COME TRUE編」でこの楽曲を元にした受賞作の小説「北上症候群」（著：[いぬじゅん](../Page/いぬじゅん.md "wikilink")）が2015年11月に電子書籍として発売された\[1\]。
 2.  **サンタと天使が笑う夜**
       -
         (作詞：吉田美和 / 作曲：中村正人, 吉田美和 / 編曲：中村正人)

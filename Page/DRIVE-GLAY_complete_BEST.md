@@ -158,4 +158,4 @@ N.Y.のmaster disk STUDIOSにおいて全曲デジタル・リマスタリング
 8.
 9.  オリコン週間アルバムチャート2000年12月11日付
 10. 本作の発売週まで、2000年[11月20日](../Page/11月20日.md "wikilink")付に[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")『[The History of Shogo Hamada "Since1975"](../Page/The_History_of_Shogo_Hamada_"Since1975".md "wikilink")』、2000年[11月27日](../Page/11月27日.md "wikilink")付に[ビートルズ](../Page/ビートルズ.md "wikilink")『[ザ・ビートルズ1](../Page/ザ・ビートルズ1.md "wikilink")』、2000年[12月4日](../Page/12月4日.md "wikilink")付に[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")『[バラッド3 〜the album of LOVE〜](../Page/バラッド3_〜the_album_of_LOVE〜.md "wikilink")』がそれぞれ1位を獲得していた。
-11. [モー娘。ベスト、160万枚突破！歴代4位に](http://web.archive.org/web/20010410104453/http://www.zakzak.co.jp/geino/n-2001_02/g2001020607.html)、ZAKZAK、2001年2月6日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+11. [モー娘。ベスト、160万枚突破！歴代4位に](https://web.archive.org/web/20010410104453/http://www.zakzak.co.jp/geino/n-2001_02/g2001020607.html)、ZAKZAK、2001年2月6日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）

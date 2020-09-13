@@ -1086,6 +1086,5 @@
 
 ## 外部リンク
 
-  - [公式サイト](http://www.bandaigames.channel.or.jp/list/ps2_keroro2/)
-
+  -
 [Category:ケロロ軍曹のゲーム作品](https://ja.wikipedia.org/wiki/Category:ケロロ軍曹のゲーム作品 "wikilink") [Category:3D対戦アクションゲーム](https://ja.wikipedia.org/wiki/Category:3D対戦アクションゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink")

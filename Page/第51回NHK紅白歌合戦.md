@@ -1,12 +1,14 @@
 > この記事は[第51回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第51回NHK紅白歌合戦)から翻訳されています。
 
 
-『**第51回NHK紅白歌合戦**』（だいごじゅういっかいエヌエイチケイこうはくうたがっせん）は、[2000年](../Page/2000年.md "wikilink")（[平成](../Page/平成.md "wikilink")12年）[12月31日](../Page/12月31日.md "wikilink")に[NHKホール](../Page/NHKホール.md "wikilink")で行われた、通算51回目の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")。19:20 - 21:25および21:30 - 23:45に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。
+『**第51回NHK紅白歌合戦**』（だいごじゅういっかいエヌエイチケイこうはくうたがっせん）は、[2000年](../Page/2000年.md "wikilink")（[平成](../Page/平成.md "wikilink")12年）[12月31日](../Page/12月31日.md "wikilink")に[NHKホール](../Page/NHKホール.md "wikilink")で行われた、通算51回目の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")。
+
+19:20 - 21:25および21:30 - 23:45に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。
 
 ## 概要
 
-  - [20世紀](../Page/20世紀.md "wikilink")最後の紅白。初めて[BSデジタルハイビジョンでも放送された](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")。
-  - 両組司会については、紅組司会には3年連続での担当となる[久保純子](../Page/久保純子.md "wikilink")、白組司会には翌年の[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[北条時宗](../Page/北条時宗_\(NHK大河ドラマ\).md "wikilink")』の主演・[和泉元彌](../Page/和泉元彌.md "wikilink")が起用。久保はこの年『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』の司会や[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")（上期）『[私の青空](../Page/私の青空.md "wikilink")』のナレーションで活躍し、広い年齢層から支持を受け（「好きなタレント」調査でも上位ランクイン）、さらに結婚をしたという話題性もあって紅組司会続投が決まった。元彌はこれが地上波での初司会となったほか、翌年の『大河ドラマ』の主演者が組司会に起用されるのは初めてだった。さらに、当時[青山学院大学](../Page/青山学院大学.md "wikilink")文学部日本文学科8年生の元彌は史上初の学生の立場での白組司会担当となった。なお、今回の司会発表は[11月15日](../Page/11月15日.md "wikilink")に行われた。
+  - 初めて[BSデジタルハイビジョンでも放送された](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")。
+  - 両組司会については、紅組司会には3年連続での担当となる[久保純子](../Page/久保純子.md "wikilink")、白組司会には翌年の[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[北条時宗](../Page/北条時宗_\(NHK大河ドラマ\).md "wikilink")』の主演・[和泉元彌](../Page/和泉元彌.md "wikilink")が起用された。久保はこの年『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』の司会や[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")（上期）『[私の青空](../Page/私の青空.md "wikilink")』のナレーションで活躍し、広い年齢層から支持を受け（「好きなタレント」調査でも上位ランクイン）、さらに結婚をしたという話題性もあって紅組司会続投が決まった。元彌はこれが地上波での初司会となったほか、翌年の『大河ドラマ』の主演者が組司会に起用されるのは初めてだった。さらに、当時[青山学院大学](../Page/青山学院大学.md "wikilink")文学部日本文学科8年生の元彌は史上初の学生の立場での白組司会担当となった。なお、今回の司会発表は[11月15日](../Page/11月15日.md "wikilink")に行われた。
   - 番組側から久保と元彌に起用の告知は[11月10日](../Page/11月10日.md "wikilink")に行われたという\[1\]。
   - 司会人選に関する報道は以下の通り。
       - 『[ZAKZAK](../Page/夕刊フジ.md "wikilink")』（10月時点）　 - 「紅組司会は久保の3連投が濃厚。白組司会は[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")らの名前が挙がっている」
@@ -15,8 +17,8 @@
       - 『[週刊現代](../Page/週刊現代.md "wikilink")』（12月号、193～194頁） - 「紅組司会の候補に[有働由美子](https://ja.wikipedia.org/wiki/有働由美子 "wikilink")も挙がっていたが、有働がこの年夏に[石井琢朗](../Page/石井琢朗.md "wikilink")とのスキャンダルがあったため、起用案が流れ、当時NHK会長の[海老沢勝二](../Page/海老沢勝二.md "wikilink")の鶴の一声で久保の続投が決定」「有働は紅組司会就任に意欲を示し、衣装も用意していた」
       - [合田道人](../Page/合田道人.md "wikilink")『紅白歌合戦の真実』 - 「久保の紅組司会続投案に加え紀香・[明石家さんま](../Page/明石家さんま.md "wikilink")の両組司会も有力視されたほか、松嶋、西田も司会の候補に挙がっていた。白組司会には[宮本隆治](../Page/宮本隆治.md "wikilink")（実際は今回も総合司会を担当）や[堀尾正明](../Page/堀尾正明.md "wikilink")と同局[アナウンサーからの登用案もあった](../Page/日本のアナウンサー.md "wikilink")」
   - 審査員リポートが復活し、[第53回](../Page/第53回NHK紅白歌合戦.md "wikilink")（[2002年](../Page/2002年.md "wikilink")）まで続いた。リポートは紅組司会の候補だった有働が担当した。なお、確執関係にあった後輩の久保のサブ的位置での起用に有働は不満を抱いていたという\[4\]。
-  - [長嶋茂雄](../Page/長嶋茂雄.md "wikilink")、[高橋尚子](https://ja.wikipedia.org/wiki/高橋尚子 "wikilink")、田村亮子（現：[谷亮子](../Page/谷亮子.md "wikilink")）が審査員を務め、開会宣言も行った。長嶋は開会宣言時に「[メークドラマ](../Page/メークドラマ.md "wikilink")の始まりです」と述べた。
-  - [野猿](../Page/野猿.md "wikilink")は前回に続いて扮装して登場。ボーカルチーム4人が長嶋の扮装で、その他のダンサーチームは高橋（6人）と田村（1人）の扮装で登場し、長嶋の扮装をして歌唱。[29日に行われたリハーサルでは](../Page/12月29日.md "wikilink")、メンバーの[石橋貴明](../Page/石橋貴明.md "wikilink")が急性胃腸炎で欠場した\[5\]\[6\]。
+  - [長嶋茂雄](../Page/長嶋茂雄.md "wikilink")、[高橋尚子](https://ja.wikipedia.org/wiki/高橋尚子 "wikilink")、[田村亮子（現姓・谷）が審査員を務め](../Page/谷亮子.md "wikilink")、開会宣言も行った。長嶋は開会宣言時に「[メークドラマ](../Page/メークドラマ.md "wikilink")の始まりです」と述べた。
+  - [野猿](../Page/野猿.md "wikilink")は前回に続いて扮装して登場。ボーカルチーム4人が長嶋の扮装で、その他のダンサーチームは高橋（6人）と田村（1人）の扮装で登場し、ボーカルチームは長嶋のものまねを交えながら歌唱。[29日に行われたリハーサルでは](../Page/12月29日.md "wikilink")、[石橋貴明](../Page/石橋貴明.md "wikilink")が急性胃腸炎で欠場しており、本番当日も体調が改善しないままのぶっつけ本番となった\[5\]\[6\]。
   - 初出場であった[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")の「[ボーイフレンド](../Page/ボーイフレンド_\(aikoの曲\).md "wikilink")」の歌詞には[消波ブロック](../Page/消波ブロック.md "wikilink")の[登録商標である](../Page/商標.md "wikilink")「テトラポッド」を変えた「テトラポット」というものがあり問題となった （NHKは[公共放送](../Page/公共放送.md "wikilink")のため、宣伝行為となる歌詞での商標名の放送を制限することがあり、紅白などの音楽番組での歌詞の変更を求めることがある。過去においては[山口百恵](../Page/山口百恵.md "wikilink")が『[NHKヤング歌の祭典](https://ja.wikipedia.org/wiki/NHKヤング歌の祭典 "wikilink")』で「[プレイバックPart2](../Page/プレイバックPart2.md "wikilink")」を歌唱した際、歌詞の中の「真っ赤な[ポルシェ](../Page/ポルシェ.md "wikilink")」のフレーズを「真っ赤なクルマ」に変更した\[7\]ほか、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の出演時などにも同様のケースがある。[民放でも同様の理由でテトラポッドのことを](../Page/民間放送.md "wikilink")「消波ブロック」「波消しブロック」と言う場合も多い）。しかし、実際には歌詞の改変は行われなかった\[8\]。「テトラポット」が商標そのものではないとの判断からという説と、消波ブロックが個人で消費されるものではないとの判断からという説がある。
   - 第1部ではコーナーとして[劇団四季](../Page/劇団四季.md "wikilink")のミュージカル『[ライオンキング](https://ja.wikipedia.org/wiki/ライオンキング "wikilink")』から「[サークル・オブ・ライフ](https://ja.wikipedia.org/wiki/ライオンキング#挿入歌 "wikilink")」が披露された。
   - 第1部のラストにおいて、紅白出演時の[坂本九](../Page/坂本九.md "wikilink")の映像のもと、出場歌手で「[上を向いて歩こう](../Page/上を向いて歩こう.md "wikilink")」を大合唱した。
@@ -26,7 +28,7 @@
   - [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")はこの年行われた[九州・沖縄サミットのテーマソング](../Page/第26回主要国首脳会議.md "wikilink")「[NEVER END](../Page/NEVER_END_\(安室奈美恵の曲\).md "wikilink")」を歌唱。同曲の作詞・作曲・編曲担当で、当時安室のプロデューサーだった[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")がピアノ演奏を行った。小室は曲前に久保、安室とトークを行った際、翌日に[沖縄でライブを開催する事に触れ](../Page/沖縄県.md "wikilink")、沖縄県民に放送を通じて改めて挨拶していた。
   - [SMAP](../Page/SMAP.md "wikilink")は自身の出番で「[らいおんハート](../Page/らいおんハート.md "wikilink")」を歌唱した。また5人でプレゼンターを務めたコーナーの最後に「[夜空ノムコウ](../Page/夜空ノムコウ.md "wikilink")」のサビも披露した。当初、[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")がこの年放送していた[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[サタ☆スマ](../Page/サタ☆スマ.md "wikilink")』で演じたキャラクター「慎吾ママ」として出演するコーナーを設けることが予想されていたが\[10\]、5人によるコーナーの設置により見送られた\[11\]。
   - 翌元日に[BS2で放送の歌舞伎の](../Page/NHK衛星第2テレビジョン.md "wikilink")[特別番組](../Page/特別番組.md "wikilink")の番組宣伝を兼ねて、前回の白組司会・中村勘九郎がゲスト出演した。
-  - 初出場の[氷川きよし](../Page/氷川きよし.md "wikilink")の応援に氷川の芸名の名付け親である[ビートたけし](../Page/ビートたけし.md "wikilink")と[志村けん](../Page/志村けん.md "wikilink")が登場した。
+  - 初出場の[氷川きよし](../Page/氷川きよし.md "wikilink")の応援に、氷川の芸名の名付け親であり氷川のメディアデビューとなった『[神出鬼没\!タケシムケン](../Page/神出鬼没!タケシムケン.md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）の出演者である[ビートたけし](../Page/ビートたけし.md "wikilink")と[志村けん](../Page/志村けん.md "wikilink")が登場し、歌唱前にコントを行った。
   - この年下期の連続テレビ小説『[オードリー](../Page/オードリー_\(テレビドラマ\).md "wikilink")』にちなみ[長嶋一茂](../Page/長嶋一茂.md "wikilink")がゲスト出演。父・茂雄の見守る前で演技を披露した。
   - この年デビュー30周年を迎えた[天童よしみ](../Page/天童よしみ.md "wikilink")が自身の出世曲「[道頓堀人情](https://ja.wikipedia.org/wiki/道頓堀人情 "wikilink")」で初の紅組トリを務めた。天童は初紅組トリ担当が決まった直後、[やしきたかじん](../Page/やしきたかじん.md "wikilink")に電話で「ここまでくるとは思わなかった」と祝福を受けたと話している（たかじんも天童の紅組トリ担当を喜んだという）\[12\]。
   - 白組トリおよび大トリは30年連続出場を達成した[五木ひろし](../Page/五木ひろし.md "wikilink")が担当し、「[山河](https://ja.wikipedia.org/wiki/山河 "wikilink")」を歌唱。五木は[美空ひばり](../Page/美空ひばり.md "wikilink")以来2人目、白組歌手では史上初の10回目のトリ担当となった。
@@ -41,7 +43,7 @@
 ## 司会者
 
   - 紅組司会：[久保純子](../Page/久保純子.md "wikilink")（[東京アナウンス室](../Page/NHK放送センター.md "wikilink")）
-  - 白組司会：[和泉元彌](../Page/和泉元彌.md "wikilink")（翌年の[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[北条時宗](../Page/北条時宗_\(NHK大河ドラマ\).md "wikilink")』の主人公・[北条時宗](../Page/北条時宗.md "wikilink")役）
+  - 白組司会：[和泉元彌](../Page/和泉元彌.md "wikilink")
   - 総合司会：[宮本隆治](../Page/宮本隆治.md "wikilink")（東京アナウンス室）
   - 審査員リポーター：[有働由美子](https://ja.wikipedia.org/wiki/有働由美子 "wikilink")（東京アナウンス室）
   - ラジオ中継：[阿部渉](../Page/阿部渉.md "wikilink")（東京アナウンス室）
@@ -212,7 +214,7 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦 公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK紅白歌合戦 公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=51)
   - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm)  - ビデオリサーチ。[1962年](../Page/1962年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")37年）（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:2000年の日本の音楽](https://ja.wikipedia.org/wiki/Category:2000年の日本の音楽 "wikilink") [Category:2000年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のテレビ番組_\(日本\) "wikilink") [Category:2000年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のラジオ番組_\(日本\) "wikilink") [Category:2000年12月](https://ja.wikipedia.org/wiki/Category:2000年12月 "wikilink")

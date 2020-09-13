@@ -13,7 +13,7 @@
 
 第15回、16回（1999年7月23日、30日放送）のみゲストは迎えず全編バラエティロケ。「家族旅行スペシャル」と題しアクティビティや温泉宿泊ロケを敢行した。
 
-[探偵\!ナイトスクープ](../Page/探偵!ナイトスクープ.md "wikilink")（当時25%前後の平均視聴率を保持し"お化け番組"と称されていた）の次枠で放送されていた影響もあり深夜帯にしては好調な視聴率だった。関西地区以外にも[テレビ朝日](../Page/テレビ朝日.md "wikilink")、[名古屋テレビ](https://ja.wikipedia.org/wiki/名古屋テレビ "wikilink")など一部地域で[時差ネット](https://ja.wikipedia.org/wiki/時差ネット "wikilink")されていた。
+[探偵\!ナイトスクープ](../Page/探偵!ナイトスクープ.md "wikilink")（当時25%前後の平均視聴率を保持し"お化け番組"と称されていた）の次枠で放送されていた影響もあり深夜帯にしては好調な視聴率だった。関西地区以外にも[テレビ朝日](../Page/テレビ朝日.md "wikilink")、[名古屋テレビ](https://ja.wikipedia.org/wiki/名古屋テレビ "wikilink")など一部地域で[時差ネット](https://ja.wikipedia.org/wiki/時差ネット "wikilink")されていた。テレビ朝日では26時30分頃から放送していた。（放送日は朝日放送と同じ）
 
 [2012年](../Page/2012年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")に[地井武男](../Page/地井武男.md "wikilink")が70歳で逝去した際、同年[8月11日](../Page/8月11日.md "wikilink")に地井の追悼特別番組『追悼・地井武男さん…「想い出をありがとう今夜、最後のお別れ」』がテレビ朝日系列で放送され、村上・錦戸が当時を振り返りコメントをし番組内容の一部が放送された。
 
@@ -437,7 +437,7 @@
   - アシスタントディレクター：[上野晴弘](https://ja.wikipedia.org/wiki/上野晴弘 "wikilink")
   - ドラマ演出：北川文彦（ビデオワーク⇒[FUNS](../Page/ファンズプロダクション.md "wikilink")）、[谷村政樹](../Page/谷村政樹.md "wikilink")
   - ディレクター：[清水雄一郎](https://ja.wikipedia.org/wiki/清水雄一郎 "wikilink")、谷村政樹
-  - プロデューサー：[小田部拓](https://ja.wikipedia.org/wiki/小田部拓 "wikilink")、[岡田充](https://ja.wikipedia.org/wiki/岡田充 "wikilink")
+  - プロデューサー：[小田部拓](https://ja.wikipedia.org/wiki/小田部拓 "wikilink")、[岡田充](../Page/岡田充.md "wikilink")
   - 企画協力：[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")
   - 制作協力：[ABCプランニング](https://ja.wikipedia.org/wiki/ABCプランニング "wikilink")
   - 制作・著作：ABC
@@ -452,4 +452,4 @@
 
 <references/>
 
-[Category:朝日放送テレビのテレビドラマ](https://ja.wikipedia.org/wiki/Category:朝日放送テレビのテレビドラマ "wikilink") [Category:1999年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1999年のテレビドラマ "wikilink") [Category:2000年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2000年のテレビドラマ "wikilink") [Category:ジャニーズJr.](https://ja.wikipedia.org/wiki/Category:ジャニーズJr. "wikilink") [Category:ジャニーズ関連の放送番組](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連の放送番組 "wikilink")
+[Category:朝日放送テレビのテレビドラマ](https://ja.wikipedia.org/wiki/Category:朝日放送テレビのテレビドラマ "wikilink") [Category:テレビ朝日の深夜ドラマ](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜ドラマ "wikilink") [Category:1999年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1999年のテレビドラマ "wikilink") [Category:2000年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2000年のテレビドラマ "wikilink") [Category:ジャニーズJr.](https://ja.wikipedia.org/wiki/Category:ジャニーズJr. "wikilink") [Category:ジャニーズ関連の放送番組](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連の放送番組 "wikilink")

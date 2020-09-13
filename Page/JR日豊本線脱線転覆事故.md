@@ -32,13 +32,13 @@
   - [JR羽越本線脱線事故](../Page/JR羽越本線脱線事故.md "wikilink") - [同じ形式](../Page/国鉄485系電車.md "wikilink")\[1\]の列車により発生した事故。こちらも強風が原因で脱線した。
   - [営団地下鉄東西線列車横転事故](https://ja.wikipedia.org/wiki/日本の鉄道事故_\(1950年から1999年\)#営団地下鉄東西線列車横転事故 "wikilink") - 同じく竜巻が原因の事故。
 
-<!-- end list -->
+## 出典
 
   -
   -
   - [九州旅客鉄道株式会社日豊線南延岡駅構内列車脱線事故（旧航空・鉄道事故調査委員会）](https://www.mlit.go.jp/jtsb/railway/rep-acci/RA2008-6-1.pdf)
 
-## 出典
+## 脚注
 
 <references />
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-日本テレビはこれまで昼のニュースは『[日本テレニュース](../Page/日本テレニュース.md "wikilink")』と『[婦人ニュース](https://ja.wikipedia.org/wiki/婦人ニュース_\(日本テレビ\) "wikilink")』を放送してきたが、1966年4月のNNN結成を機にこれらの番組に代わる昼の基幹ニュースとして、1966年10月に12時30分からの30分番組でスタートした\[2\]。ニュース番組としては[民放で初めて全面](../Page/民間放送.md "wikilink")[カラー映像による放送を取り入れた](../Page/カラーテレビ.md "wikilink")\[3\]。キャスターには作曲家の[黛敏郎](../Page/黛敏郎.md "wikilink")や劇評論家の[大木豊](https://ja.wikipedia.org/wiki/大木豊 "wikilink")といった文化人を起用、ワイドショー的ニュース番組の先駆となった\[4\]\[5\]。[1967年](../Page/1967年.md "wikilink")1月より毎週土曜日の放送に10分程度衛星中継の枠を設け、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[NBC](../Page/NBC.md "wikilink")のスタジオから生で特派員リポートを放送した\[6\]。[1968年](../Page/1968年.md "wikilink")に開始時間を30分繰り上げるとともに、[木島則夫](../Page/木島則夫.md "wikilink")がキャスターに就き主婦向けを意識した内容となった\[7\]。しかし視聴率がふるわなかったこともあり1972年に放送を終了した\[8\]。
+日本テレビはこれまで昼のニュースは『[日本テレニュース](../Page/日本テレニュース.md "wikilink")』と『[婦人ニュース](https://ja.wikipedia.org/wiki/婦人ニュース_\(日本テレビ\) "wikilink")』を放送してきたが、1966年4月のNNN結成を機にこれらの番組に代わる昼の基幹ニュースとして、1966年10月に12時30分からの30分番組による[昼](../Page/昼.md "wikilink")の[ニュースワイドとなる形でスタートした](../Page/報道番組.md "wikilink")\[2\]。ニュース番組としては[民放で初めて全面](../Page/民間放送.md "wikilink")[カラー映像による放送を取り入れた](../Page/カラーテレビ.md "wikilink")\[3\]。キャスターには作曲家の[黛敏郎](../Page/黛敏郎.md "wikilink")や劇評論家の[大木豊](https://ja.wikipedia.org/wiki/大木豊 "wikilink")といった文化人を起用、ワイドショー的ニュース番組の先駆となった\[4\]\[5\]。[1967年](../Page/1967年.md "wikilink")1月より毎週土曜日の放送に10分程度衛星中継の枠を設け、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[NBC](../Page/NBC.md "wikilink")のスタジオから生で特派員リポートを放送した\[6\]。[1968年](../Page/1968年.md "wikilink")に開始時間を30分繰り上げるとともに、[木島則夫](../Page/木島則夫.md "wikilink")がキャスターに就き主婦向けを意識した内容となった\[7\]。しかし視聴率がふるわなかったこともあり1972年に放送を終了した\[8\]。
 
 ## 司会者
 
@@ -21,7 +21,7 @@
 
 ## 脚注
 
-[Category:NNN番組の歴史](https://ja.wikipedia.org/wiki/Category:NNN番組の歴史 "wikilink") [Category:日本テレビの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビの帯番組の歴史 "wikilink") [Category:日本テレビの教養番組](https://ja.wikipedia.org/wiki/Category:日本テレビの教養番組 "wikilink") [Category:1966年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1966年のテレビ番組_\(日本\) "wikilink")
+[Category:NNN番組の歴史](https://ja.wikipedia.org/wiki/Category:NNN番組の歴史 "wikilink") [Category:日本テレビの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビの帯番組の歴史 "wikilink") [Category:日本テレビの教養番組](https://ja.wikipedia.org/wiki/Category:日本テレビの教養番組 "wikilink") [Category:1966年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1966年のテレビ番組_\(日本\) "wikilink") [Category:黛敏郎](https://ja.wikipedia.org/wiki/Category:黛敏郎 "wikilink")
 
 1.
 2.

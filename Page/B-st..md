@@ -67,7 +67,7 @@
 
 ## 外部リンク
 
-  - [B-st.ホームページ](http://web.archive.org/web/20111011083934/http://www.indexcomm.co.jp/bidan/index.html) - 閉鎖。（2011年11月10日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [B-st.ホームページ](https://web.archive.org/web/20111011083934/http://www.indexcomm.co.jp/bidan/index.html) - 閉鎖。（2011年11月10日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
 [Category:日本のファッション雑誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:日本のファッション雑誌_\(休廃刊\) "wikilink") [Category:男性向けファッション雑誌](https://ja.wikipedia.org/wiki/Category:男性向けファッション雑誌 "wikilink")
 

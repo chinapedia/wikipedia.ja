@@ -227,7 +227,7 @@
 
 ## Compaq iPAQ Pocket PC（過去のモデル）
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:PocketPC_Compaq_iPAQ_3630.jpg "wikilink")
+[thumb](https://ja.wikipedia.org/wiki/ファイル:PocketPC_Compaq_iPAQ_3630_\(modified_version\).jpg "wikilink")
 
 ### H3630 / H3660
 

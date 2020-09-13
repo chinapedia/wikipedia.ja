@@ -1072,7 +1072,7 @@ TOCT-28059</p></td>
   - [崎谷健次郎](../Page/崎谷健次郎.md "wikilink") - カヴァーシングル「[もう一度夜をとめて](https://ja.wikipedia.org/wiki/誰かが君を想ってる "wikilink")」を通じて知り合う。
   - [松尾潔](https://ja.wikipedia.org/wiki/松尾潔 "wikilink") - デビュー当時から3人をよく知る。2002～2004年頃までプロデューサーを勤めた。アルバム『Singles 2002～1997』では愛情深いライナーノーツを寄せている。
   - JiN - アマチュア時代からの旧友かつ同志であり、「Brown Eyed Soul feat. JIN」や「My Life ～風に吹かれて」等の楽曲提供及びゲストボーカルとして参加している。
-  - [佐藤竹善](../Page/佐藤竹善.md "wikilink")（[Sing Like Talking](https://ja.wikipedia.org/wiki/Sing_Like_Talking "wikilink")）- 「[amanogawa](https://ja.wikipedia.org/wiki/amanogawa "wikilink")」を気に入り、自身もカバーしている。
+  - [佐藤竹善](../Page/佐藤竹善.md "wikilink")（[SING LIKE TALKING](https://ja.wikipedia.org/wiki/SING_LIKE_TALKING "wikilink")）- 「[amanogawa](https://ja.wikipedia.org/wiki/amanogawa "wikilink")」を気に入り、自身もカバーしている。
   - [SOUL'd OUT](../Page/SOUL'd_OUT.md "wikilink") - 同じレコード会社に所属。SONY MUSIC FES.をきっかけに作られた「[Dot To Tha Dot](https://ja.wikipedia.org/wiki/Dot_To_Tha_Dot "wikilink")」でコラボ。
   - [Tama](../Page/Tama_\(ベーシスト\).md "wikilink")（元[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")） - 同じレコード会社と事務所に所属。「燃えている光」にTAKEがゲストボーカルとして参加。
   - [東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink") - 「[Heart, Mind and Soul](https://ja.wikipedia.org/wiki/Heart,_Mind_and_Soul "wikilink")」楽曲提供。「S.O.Sを尊敬しているので嬉しい」とのコメントあり。

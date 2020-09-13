@@ -71,7 +71,7 @@
   - 「[HOTEL](https://ja.wikipedia.org/wiki/HOTEL_\(テレビドラマ\) "wikilink")」 第1シリーズ（1月～3月） 原作：[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink") 出演:[高嶋政伸](../Page/高嶋政伸.md "wikilink")、[松方弘樹](../Page/松方弘樹.md "wikilink")、[紺野美沙子](../Page/紺野美沙子.md "wikilink")、[小林稔侍](../Page/小林稔侍.md "wikilink")、[丹波哲郎](../Page/丹波哲郎.md "wikilink")ほか 制作:[東映](../Page/東映.md "wikilink")、近藤照男プロダクション
   - 「[ホットドッグ](../Page/ホットドッグ_\(テレビドラマ\).md "wikilink")」（4月～6月） 出演:[柳葉敏郎](../Page/柳葉敏郎.md "wikilink")、[仙道敦子](../Page/仙道敦子.md "wikilink")、[大沢樹生](../Page/大沢樹生.md "wikilink")、[鈴木京香](https://ja.wikipedia.org/wiki/鈴木京香 "wikilink")、[柄本明](../Page/柄本明.md "wikilink")ほか
   - 「[芸能社会](../Page/芸能社会.md "wikilink")」（7月～9月） 原作：[平岩弓枝](../Page/平岩弓枝.md "wikilink") 出演:[時任三郎](https://ja.wikipedia.org/wiki/時任三郎 "wikilink")、[南野陽子](https://ja.wikipedia.org/wiki/南野陽子 "wikilink")、[沢田亜矢子](../Page/沢田亜矢子.md "wikilink")、[原田大二郎](../Page/原田大二郎.md "wikilink")、[加賀まりこ](../Page/加賀まりこ.md "wikilink")ほか 制作:キネマ東京
-  - 「[渡る世間は鬼ばかり](https://ja.wikipedia.org/wiki/渡る世間は鬼ばかり "wikilink")」 第1シリーズ（10月～91年9月） 出演:[泉ピン子](../Page/泉ピン子.md "wikilink")、[長山藍子](../Page/長山藍子.md "wikilink")、[赤木春恵](https://ja.wikipedia.org/wiki/赤木春恵 "wikilink")、[藤岡琢也](../Page/藤岡琢也.md "wikilink")、[森光子](../Page/森光子.md "wikilink")、[杉村春子](../Page/杉村春子.md "wikilink")ほか\[5\]
+  - 「[渡る世間は鬼ばかり](https://ja.wikipedia.org/wiki/渡る世間は鬼ばかり "wikilink")」 第1シリーズ（10月～91年9月） 出演 [山岡久乃](../Page/山岡久乃.md "wikilink")、[赤木春恵](https://ja.wikipedia.org/wiki/赤木春恵 "wikilink")、[藤岡琢也](../Page/藤岡琢也.md "wikilink")、[森光子](../Page/森光子.md "wikilink")、[杉村春子](../Page/杉村春子.md "wikilink")ほか\[5\]
 
 **[1991年](../Page/1991年.md "wikilink")**
 
@@ -108,7 +108,7 @@
 
   - 「[新幹線'97恋物語](../Page/新幹線'97恋物語.md "wikilink")」（4月～6月） 出演:高嶋政伸、[渡辺えり子](https://ja.wikipedia.org/wiki/渡辺えり子 "wikilink")、[南野陽子](https://ja.wikipedia.org/wiki/南野陽子 "wikilink")、赤坂晃、[柳沢慎吾](../Page/柳沢慎吾.md "wikilink")ほか 制作：近藤照男プロダクション
   - 「[金のたまご](../Page/金のたまご.md "wikilink")」（7月～9月） 出演:[浅野ゆう子](../Page/浅野ゆう子.md "wikilink")、片岡鶴太郎、[永作博美](https://ja.wikipedia.org/wiki/永作博美 "wikilink")、[国分太一](../Page/国分太一.md "wikilink")、山岡久乃ほか 制作:[ドリマックス・テレビジョン](../Page/ドリマックス・テレビジョン.md "wikilink")
-  - 「[番茶も出花](../Page/番茶も出花.md "wikilink")」（10月～98年3月） 出演:泉ピン子、[一路真輝](../Page/一路真輝.md "wikilink")、[山口達也](../Page/山口達也.md "wikilink")、[小林桂樹](../Page/小林桂樹.md "wikilink")ほか
+  - 「[番茶も出花](../Page/番茶も出花.md "wikilink")」（10月～98年3月） 出演:泉ピン子、[一路真輝](../Page/一路真輝.md "wikilink")、[山口達也](https://ja.wikipedia.org/wiki/山口達也_\(代表的なトピック\) "wikilink")、[小林桂樹](../Page/小林桂樹.md "wikilink")ほか
 
 **[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")**
 
@@ -335,10 +335,23 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
+<td><p><a href="../Page/福井放送.md" title="wikilink">福井放送</a>（FBC）</p></td>
+<td><p>日本テレビ系列<br />
+<a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">テレビ朝日系列</a></p></td>
+<td><p>『渡る世間は鬼ばかり』シリーズなどを放送</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/福井テレビジョン放送" title="wikilink">福井テレビ</a>（FTB）</p></td>
+<td><p>フジテレビ系列</p></td>
+<td><p>『3年В組金八先生』シリーズのみ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/中京地方" title="wikilink">中京広域圏</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/CBCテレビ" title="wikilink">中部日本放送</a> (CBC)</p></td>
+<td><p>TBS系列</p></td>
 <td><p>現：CBCテレビ</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/島根県.md" title="wikilink">島根県</a><br />

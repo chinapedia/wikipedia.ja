@@ -5,7 +5,7 @@
 
 ## 来歴
 
-[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")で生まれ育つが、家庭の事情で[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[常滑市](../Page/常滑市.md "wikilink")に転居。その後ヒップホップと出会い、ラッパーとしての活動を開始し、[刃頭](../Page/刃頭.md "wikilink")とのユニット「刃頭 & TOKONA-X」として[さんピンCAMP](../Page/さんピンCAMP.md "wikilink")に前座という形で出演。後に「ILLMARIACHI」を刃頭と結成。また、[AKIRA](https://ja.wikipedia.org/wiki/AKIRA_\(M.O.S.A.D.\) "wikilink")、["E"qual](../Page/"E"qual.md "wikilink")らと共に3MC'sの「[M.O.S.A.D.](../Page/M.O.S.A.D..md "wikilink")」の一員として活動もしていた。ソロとしては[Def Jam Japanに所属し](https://ja.wikipedia.org/wiki/Def_Jam_Japan "wikilink")、アルバムを1枚発表。
+[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")で生まれ育つが、家庭の事情で[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[常滑市](../Page/常滑市.md "wikilink")に転居。その後ヒップホップと出会い、ラッパーとしての活動を開始し、[刃頭](../Page/刃頭.md "wikilink")とのユニット「刃頭 & TOKONA-X」として[さんピンCAMP](../Page/さんピンCAMP.md "wikilink")に前座という形で出演。後に「ILLMARIACHI」を刃頭と結成する事に。また、[AKIRA](https://ja.wikipedia.org/wiki/AKIRA_\(M.O.S.A.D.\) "wikilink")、["E"qual](../Page/"E"qual.md "wikilink")らと共に3MC'sの「[M.O.S.A.D.](../Page/M.O.S.A.D..md "wikilink")」の一員として活動もしていた。ソロとしては[Def Jam Japanに所属し](https://ja.wikipedia.org/wiki/Def_Jam_Japan "wikilink")、アルバムを1枚発表。
 
 [2004年](../Page/2004年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")、急逝。満26歳没。公式発表では、夏からかかっていた熱中症に伴う体力低下による心停止と判断された。
 

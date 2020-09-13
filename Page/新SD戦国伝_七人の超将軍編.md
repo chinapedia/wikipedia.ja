@@ -143,7 +143,7 @@
       - 武器
         新黒星砲
 
-部下として**悪悲故留**＜[アビゴル](https://ja.wikipedia.org/wiki/ザンスカール帝国の機動兵器#アビゴル "wikilink")＞、**紅亭尾**＜[コンティオ](../Page/コンティオ.md "wikilink")＞、**怒護羅**＜[ドッゴーラ](https://ja.wikipedia.org/wiki/ザンスカール帝国の機動兵器#ドッゴーラ "wikilink")＞。召喚された死霊武者**[黄虎璽](https://ja.wikipedia.org/wiki/新SD戦国伝_地上最強編#黄虎賊 "wikilink")**、**[大蛇飛駆塞虫](https://ja.wikipedia.org/wiki/新SD戦国伝_地上最強編#大蛇飛駆塞虫一党 "wikilink")**、**[地獄牙兄弟](https://ja.wikipedia.org/wiki/新SD戦国伝_地上最強編#地獄牙族反乱軍 "wikilink")**やからくり巨大兵器**呪導武者**（上半身が黒魔神闇皇帝で下半身がキャタピラになっている。これらの個数は2体確認されている）らを擁する。
+部下として**悪悲故留**＜[アビゴル](https://ja.wikipedia.org/wiki/ザンスカール帝国の機動兵器#アビゴル "wikilink")＞、**紅亭尾**＜[コンティオ](../Page/コンティオ.md "wikilink")＞、**怒護羅**＜[ドッゴーラ](https://ja.wikipedia.org/wiki/ザンスカール帝国の機動兵器#ドッゴーラ "wikilink")＞。召喚された死霊武者**[黄虎璽](https://ja.wikipedia.org/wiki/新SD戦国伝_地上最強編#黄虎賊 "wikilink")**、**[大蛇飛駆塞虫](https://ja.wikipedia.org/wiki/新SD戦国伝_地上最強編#大蛇飛駆塞虫一党 "wikilink")**、**[地獄牙兄弟](https://ja.wikipedia.org/wiki/新SD戦国伝_地上最強編#地獄牙族反乱軍 "wikilink")**やからくり巨大兵器**呪導武者**（コミックワールド版では黒魔神闇皇帝の背面に艦橋が付き[アドラステアを意識したものとなっているが](https://ja.wikipedia.org/wiki/ザンスカール帝国の艦船及びその他の兵器#アドラステア "wikilink")、コミックボンボン版では上半身が黒魔神闇皇帝で下半身がキャタピラになっている。これらの個数は2体確認されている）らを擁する。
 
 ## 用語
 

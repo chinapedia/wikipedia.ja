@@ -72,4 +72,4 @@
 
   - [楽天イーグルスTV](http://tv.rakuten.co.jp/eagles/)
 
-[Category:楽天](https://ja.wikipedia.org/wiki/Category:楽天 "wikilink") [Category:東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/Category:東北楽天ゴールデンイーグルス "wikilink") [Category:日本のインターネットテレビ局](https://ja.wikipedia.org/wiki/Category:日本のインターネットテレビ局 "wikilink") [Category:2005年設立](https://ja.wikipedia.org/wiki/Category:2005年設立 "wikilink") [Category:2009年廃止](https://ja.wikipedia.org/wiki/Category:2009年廃止 "wikilink")
+[Category:楽天グループの歴史](https://ja.wikipedia.org/wiki/Category:楽天グループの歴史 "wikilink") [Category:東北楽天ゴールデンイーグルスの歴史](https://ja.wikipedia.org/wiki/Category:東北楽天ゴールデンイーグルスの歴史 "wikilink") [Category:日本のインターネットテレビ局](https://ja.wikipedia.org/wiki/Category:日本のインターネットテレビ局 "wikilink") [Category:2005年設立](https://ja.wikipedia.org/wiki/Category:2005年設立 "wikilink") [Category:2009年廃止](https://ja.wikipedia.org/wiki/Category:2009年廃止 "wikilink")

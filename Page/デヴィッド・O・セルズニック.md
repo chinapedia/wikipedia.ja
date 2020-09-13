@@ -7,7 +7,7 @@
 
 [ユダヤ系](https://ja.wikipedia.org/wiki/ユダヤ系 "wikilink")[ウクライナ人](../Page/ウクライナ人.md "wikilink")移民の家庭に生まれ、父親のルイス・J・セルズニックはサイレント映画の監督であった。[コロンビア大学](https://ja.wikipedia.org/wiki/コロンビア大学 "wikilink")で学び、1923年に父親の会社が破産するまでそこで映画製作に携わる。1926年に[メトロ・ゴールドウィン・メイヤー](../Page/メトロ・ゴールドウィン・メイヤー.md "wikilink")に入るが2年後に[パラマウント映画](../Page/パラマウント映画.md "wikilink")に移る。その3年後、今度は[RKO](../Page/RKO.md "wikilink")に移り、『[キング・コング](https://ja.wikipedia.org/wiki/キングコング_\(1933年の映画\) "wikilink")』などを制作。1935年に独立し、セルズニック・インターナショナル・ピクチャーズを設立した。1949年に女優の[ジェニファー・ジョーンズ](../Page/ジェニファー・ジョーンズ.md "wikilink")と再婚。
 
-作品に関しては監督に委任する方針を取らず、[ヒッチコックは](../Page/アルフレッド・ヒッチコック.md "wikilink")『[レベッカ](../Page/レベッカ_\(映画\).md "wikilink")』について「あれ（アカデミー賞作品賞）はセルズニックに与えられた賞だ」と述べたほどである。
+作品に関しては監督に委任する方針を取らず、[ヒッチコックは](../Page/アルフレッド・ヒッチコック.md "wikilink")『[レベッカ](../Page/レベッカ_\(映画\).md "wikilink")』について「あのオスカー（アカデミー賞作品賞）はプロデューサーのセルズニックに与えられた賞だ」\[1\]と述べたほどである。
 
 うるさく口出しする方針が嫌われて、監督からも俳優からも疎んじられるようになり、契約を拒まれ、ろくに制作もできなくなるハメになった。最後には多額の負債を抱えて破産寸前にまでなり、精神科医にかかった事もあった。
 
@@ -55,3 +55,5 @@
   -
   -
 [Category:アメリカ合衆国の映画プロデューサー](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の映画プロデューサー "wikilink") [Category:アカデミー賞受賞者](https://ja.wikipedia.org/wiki/Category:アカデミー賞受賞者 "wikilink") [Category:ハリウッド・ウォーク・オブ・フェーム](https://ja.wikipedia.org/wiki/Category:ハリウッド・ウォーク・オブ・フェーム "wikilink") [Category:東欧ユダヤ系アメリカ人](https://ja.wikipedia.org/wiki/Category:東欧ユダヤ系アメリカ人 "wikilink") [Category:ピッツバーグ出身の人物](https://ja.wikipedia.org/wiki/Category:ピッツバーグ出身の人物 "wikilink") [Category:1902年生](https://ja.wikipedia.org/wiki/Category:1902年生 "wikilink") [Category:1965年没](https://ja.wikipedia.org/wiki/Category:1965年没 "wikilink")
+
+1.

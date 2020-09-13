@@ -1,7 +1,7 @@
 > この記事は[BATTLE WITHOUT HONOR OR HUMANITY](https://ja.wikipedia.org/wiki/BATTLE_WITHOUT_HONOR_OR_HUMANITY)から翻訳されています。
 
 
-**BATTLE WITHOUT HONOR OR HUMANITY**（バトル・ウィズアウト・オナー・オア・ヒューマニティー）は、[布袋寅泰](../Page/布袋寅泰.md "wikilink")作曲の楽曲。別題、**新・仁義なき戦いのテーマ**。
+「**BATTLE WITHOUT HONOR OR HUMANITY**」（バトル・ウィズアウト・オナー・オア・ヒューマニティー）は、[布袋寅泰](../Page/布袋寅泰.md "wikilink")作曲の楽曲。別題「**新・仁義なき戦いのテーマ**」。
 
 ## 概要
 
@@ -13,7 +13,7 @@
 
 楽曲のテーマは「**[低温火傷](https://ja.wikipedia.org/wiki/低温火傷 "wikilink")**」。ガツンとくるインパクトのあるものではなく、ジワジワと迫まり来るようなフレーズを意識して作曲したとのこと\[1\]。
 
-日本国外から[日本音楽著作権協会](../Page/日本音楽著作権協会.md "wikilink") (JASRAC) に払われる国内作品の著作権使用料分配額では[2014年](../Page/2014年.md "wikilink")度に年間8位\[2\]、[2015年](../Page/2015年.md "wikilink")度に年間6位\[3\]、[2016年](../Page/2016年.md "wikilink")度に年間10位\[4\]、[2018年](../Page/2018年.md "wikilink")度に年間10位\[5\]、[2019年](../Page/2019年.md "wikilink")度に年間3位\[6\]に入った。
+日本国外から[日本音楽著作権協会](../Page/日本音楽著作権協会.md "wikilink") (JASRAC) に払われる国内作品の著作権使用料分配額では2014年度に年間8位\[2\]、2015年度に年間6位\[3\]、2016年度に年間10位\[4\]、2018年度に年間10位\[5\]、2019年度に年間3位\[6\]に入った。
 
 2004年6月30日、『アナザー・バトル』としてシングル化もされた。
 
@@ -42,7 +42,7 @@
 
 ## その他の利用
 
-  - 入場テーマ曲としての利用機会も多く、[ニューヨーク・ヤンキース](../Page/ニューヨーク・ヤンキース.md "wikilink")在籍当時の[松井秀喜](https://ja.wikipedia.org/wiki/松井秀喜 "wikilink")外野手やプロレスラーの[アブドーラ・小林](https://ja.wikipedia.org/wiki/アブドーラ・小林 "wikilink")、総合格闘家の[岡見勇信](../Page/岡見勇信.md "wikilink")などが本テーマを使用している。プロボクサーの[井上尚弥](https://ja.wikipedia.org/wiki/井上尚弥 "wikilink")は[World Boxing Super Series決勝の入場曲として](https://ja.wikipedia.org/wiki/World_Boxing_Super_Series "wikilink")、この楽曲を布袋がアレンジして井上に提供した「バトル・オブ・モンスター」を使用した\[7\]。お笑いタレントの[桜塚やっくん](../Page/桜塚やっくん.md "wikilink")も（スケバン恐子ネタ）を行う際、この曲で登場するのが定番となっていた。
+  - 入場テーマ曲としての利用機会も多く、[ニューヨーク・ヤンキース](../Page/ニューヨーク・ヤンキース.md "wikilink")在籍当時の[松井秀喜](https://ja.wikipedia.org/wiki/松井秀喜 "wikilink")外野手やプロレスラーの[アブドーラ・小林](../Page/アブドーラ・小林.md "wikilink")、総合格闘家の[岡見勇信](../Page/岡見勇信.md "wikilink")などが本テーマを使用している。プロボクサーの[井上尚弥](https://ja.wikipedia.org/wiki/井上尚弥 "wikilink")は[World Boxing Super Series決勝の入場曲として](https://ja.wikipedia.org/wiki/World_Boxing_Super_Series "wikilink")、この楽曲を布袋がアレンジして井上に提供した「バトル・オブ・モンスター」を使用した\[7\]。お笑いタレントの[桜塚やっくん](../Page/桜塚やっくん.md "wikilink")も（スケバン恐子ネタ）を行う際、この曲で登場するのが定番となっていた。
   - 『[BATTLE FUNKASTIC](../Page/BATTLE_FUNKASTIC.md "wikilink")』（HOTEI VS RIP SLYME）『[FUNKASTIC BATTLE](https://ja.wikipedia.org/wiki/FUNKASTIC_BATTLE "wikilink")』(RIP SLYME VS HOTEI)は、この曲と[RIP SLYMEの](../Page/RIP_SLYME.md "wikilink")『[FUNKASTIC](../Page/FUNKASTIC.md "wikilink")』の[マッシュアップ](../Page/マッシュアップ.md "wikilink")曲である。
   - [コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")の音楽ゲーム『[Pop'n music 13 カーニバル](https://ja.wikipedia.org/wiki/pop'n_music "wikilink")』（[家庭用版のみ](../Page/コンシューマーゲーム.md "wikilink")）および『pop'n music 17 THE MOVIE』（[業務用](../Page/アーケードゲーム.md "wikilink")）に収録された（カバー）。
   - 映画『[近距離恋愛](https://ja.wikipedia.org/wiki/近距離恋愛 "wikilink")』（きんきょりれんあい、原題：*Made of Honor 2008年アメリカ映画）にて使用された、同映画の*[サウンドトラック](https://www.imdb.com/title/tt0866439/soundtrack)*に収録されている。*
@@ -59,7 +59,7 @@
   - [新・仁義なき戦い。(予告編)](http://www.youtube.com/watch?v=8r3AQLo-tVY&t=52s) - YouTube ムービー
   - [Kill Bill: Volume 1 | Official Green Band Trailer (HD) - Uma Thurman, Lucy Liu | MIRAMAX](http://www.youtube.com/watch?v=c_dNIXwrbzY&list=PLHLYMMYCXqih4BUHREo4H59EvPZO2v0Vk&t=1m8s) - [ミラマックス](../Page/ミラマックス.md "wikilink")公式YouTube 『キル・ビル』予告編
 
-[Category:布袋寅泰の楽曲](https://ja.wikipedia.org/wiki/Category:布袋寅泰の楽曲 "wikilink") [Category:布袋寅泰が制作した楽曲](https://ja.wikipedia.org/wiki/Category:布袋寅泰が制作した楽曲 "wikilink") [Category:2004年の楽曲](https://ja.wikipedia.org/wiki/Category:2004年の楽曲 "wikilink") [Category:映画音楽](https://ja.wikipedia.org/wiki/Category:映画音楽 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")
+[Category:布袋寅泰の楽曲](https://ja.wikipedia.org/wiki/Category:布袋寅泰の楽曲 "wikilink") [Category:布袋寅泰が制作した楽曲](https://ja.wikipedia.org/wiki/Category:布袋寅泰が制作した楽曲 "wikilink") [Category:2004年の楽曲](https://ja.wikipedia.org/wiki/Category:2004年の楽曲 "wikilink") [Category:映画音楽](https://ja.wikipedia.org/wiki/Category:映画音楽 "wikilink") [Category:ポピュラー音楽の器楽曲](https://ja.wikipedia.org/wiki/Category:ポピュラー音楽の器楽曲 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")
 
 1.  『新・仁義なき戦い/そしてその映画音楽』セルフ・ライナーノーツより
 2.  [2015年 国内作品の外国入金分配額ベスト10(国際賞関連)](http://www.jasrac.or.jp/profile/prize/2015_internl.html)、日本音楽著作権協会、2015年。

@@ -9,7 +9,7 @@
 
 ## 概要
 
-16世紀末、激動の東南アジアにおいて[朝鮮](../Page/朝鮮.md "wikilink")、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")などと同様、独立を保った琉球王国。[慶長](../Page/慶長.md "wikilink")14年（[1609年](../Page/1609年.md "wikilink")）、[薩摩藩](../Page/薩摩藩.md "wikilink")の[琉球侵攻](https://ja.wikipedia.org/wiki/琉球侵攻 "wikilink")により侵略支配され属国になるものの、独自の歴史と文化に誇りを持ち続けた。主流の歴史観では顧みられなかった悲哀の歴史を描く大河ドラマ第1弾（第2弾は次作の[東北](https://ja.wikipedia.org/wiki/東北地方 "wikilink")[蝦夷](../Page/蝦夷.md "wikilink")を描く『[炎立つ](../Page/炎立つ_\(NHK大河ドラマ\).md "wikilink")』）。
+16世紀末、激動の東アジアにおいて[朝鮮](../Page/朝鮮.md "wikilink")、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")などと同様、独立を保った琉球王国。[慶長](../Page/慶長.md "wikilink")14年（[1609年](../Page/1609年.md "wikilink")）、[薩摩藩](../Page/薩摩藩.md "wikilink")の[琉球侵攻](https://ja.wikipedia.org/wiki/琉球侵攻 "wikilink")により侵略支配され属国になるものの、独自の歴史と文化に誇りを持ち続けた。主流の歴史観では顧みられなかった悲哀の歴史を描く大河ドラマ第1弾（第2弾は次作の[東北](https://ja.wikipedia.org/wiki/東北地方 "wikilink")[蝦夷](../Page/蝦夷.md "wikilink")を描く『[炎立つ](../Page/炎立つ_\(NHK大河ドラマ\).md "wikilink")』）。
 
 [尾上菊五郎](../Page/尾上菊五郎_\(7代目\).md "wikilink")・[富司純子](../Page/富司純子.md "wikilink")夫妻を第4作目の『[源義経](../Page/源義経_\(NHK大河ドラマ\).md "wikilink")』以来27年ぶりに共演させたり、初めて[沖縄県](../Page/沖縄県.md "wikilink")を舞台とするなど新しい試みが見られた。
 
@@ -178,7 +178,7 @@
 
 ## 放送
 
-特記が無い限り[NHKクロニクルのNHK番組表ヒストリー](http://www.nhk.or.jp/archives/chronicle/)で確認。
+特記が無い限り[NHKクロニクルのNHK番組表ヒストリー](https://www.nhk.or.jp/archives/chronicle/)で確認。
 
 ### 通常放送時間
 
@@ -233,7 +233,7 @@
 
 <references />
 
-[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1993年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1993年のテレビドラマ "wikilink") [Category:NHK沖縄](https://ja.wikipedia.org/wiki/Category:NHK沖縄 "wikilink") [Category:小説を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:小説を原作とするテレビドラマ "wikilink") [Category:琉球王国を舞台とした作品](https://ja.wikipedia.org/wiki/Category:琉球王国を舞台とした作品 "wikilink") [Category:安土桃山時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:安土桃山時代を舞台としたテレビドラマ "wikilink") [Category:江戸時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:江戸時代を舞台としたテレビドラマ "wikilink") [Category:陳舜臣](https://ja.wikipedia.org/wiki/Category:陳舜臣 "wikilink") [Category:東山紀之](https://ja.wikipedia.org/wiki/Category:東山紀之 "wikilink") [Category:沢田研二](https://ja.wikipedia.org/wiki/Category:沢田研二 "wikilink")
+[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1993年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1993年のテレビドラマ "wikilink") [Category:NHK沖縄](https://ja.wikipedia.org/wiki/Category:NHK沖縄 "wikilink") [Category:小説を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:小説を原作とするテレビドラマ "wikilink") [Category:琉球王国を舞台とした作品](https://ja.wikipedia.org/wiki/Category:琉球王国を舞台とした作品 "wikilink") [Category:安土桃山時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:安土桃山時代を舞台としたテレビドラマ "wikilink") [Category:江戸時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:江戸時代を舞台としたテレビドラマ "wikilink") [Category:陳舜臣](https://ja.wikipedia.org/wiki/Category:陳舜臣 "wikilink") [Category:東山紀之](https://ja.wikipedia.org/wiki/Category:東山紀之 "wikilink") [Category:沢田研二](https://ja.wikipedia.org/wiki/Category:沢田研二 "wikilink") [Category:萩原健一](https://ja.wikipedia.org/wiki/Category:萩原健一 "wikilink")
 
 1.
 2.  [ビデオリサーチ NHK大河ドラマ 過去の視聴率データ](http://www.videor.co.jp/data/ratedata/program/03taiga.htm)

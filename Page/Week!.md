@@ -13,9 +13,11 @@
 
 1.  **Week\!**
       -
+        作詞・作曲：[D･A･I](../Page/長尾大.md "wikilink")
         OLの日常をテーマとした楽曲。
 2.  **徒然なるままに**
       -
+        作詞・作曲：[大渡亮](../Page/大渡亮.md "wikilink")
         歌詞にはDo As Infinityを始め、様々な洋楽のロックバンドの名前を日本語訳した言葉が登場する。ギターコードは『[Yesterday & Today](../Page/Yesterday_&_Today.md "wikilink")』を使用しており、同曲のメロディーが聴こえる部分がある。この曲でコーラスを担当している[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")もYesterday & Todayの一部を歌っている。
 3.  Week\! (Instrumental)
 4.  徒然なるままに (Instrumental)

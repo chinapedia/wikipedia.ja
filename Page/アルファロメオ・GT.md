@@ -44,6 +44,10 @@
 
 <references/>
 
+## 関連項目
+
+[ウルトラマンマックス](../Page/ウルトラマンマックス.md "wikilink")-対怪獣防衛チーム「DASH」の専用車『ダッシュアルファ』として登場。またトミオカ長官の依頼によりアルファロメオが製作したという設定がなされている。
+
 ## 外部リンク
 
   - [アルファGTのグローバルサイト（英語）](http://www.alfaromeo.com/cgi-bin/pbrand.dll/ALFAROMEO_COM/models/models.jsp?BV_SessionID=@@@@1832493130.1189898356@@@@&BV_EngineID=ccceaddlmjhjikfcefecejgdfiidgnm.0&categoryOID=-1073756265)

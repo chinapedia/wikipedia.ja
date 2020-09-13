@@ -5,6 +5,10 @@
 
 1500人の職員がいる。漫画「[ピョンヤン](https://ja.wikipedia.org/wiki/:fr:Pyongyang_\(bande_dessinée\) "wikilink")」ではフランスの企業との連絡として参加している。
 
+## 主な作品
+
+  - [かしこいタヌキ](https://ja.wikipedia.org/wiki/かしこいタヌキ "wikilink")
+
 ## 関連人物
 
   - 金俊玉（）

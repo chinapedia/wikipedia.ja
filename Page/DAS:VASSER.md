@@ -70,7 +70,7 @@
   - 1998年7月、[KISAKI](../Page/KISAKI.md "wikilink")率いるインディーズ事務所[Matina](../Page/Matina.md "wikilink")に所属する。
   - 1999年3月、初の全国ツアー「DECADENCE」を[S](../Page/S_\(バンド\).md "wikilink")、AZALEA、DISTRAYと回る。
   - 1999年9月、修鈴が脱退。その翌月に汰楼が正式加入する。
-  - 2000年2月、「ATTEMPT SUICIDE」 ワンマンライブを東京は[目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink")と大阪は西九条BLAND NEWで行う。両日ともにチケットは即完売する。東京の方は、シングルの「CECIL」が配布される。
+  - 2000年2月、「ATTEMPT SUICIDE」 ワンマンライブを東京は[目黒鹿鳴館](../Page/目黒鹿鳴館.md "wikilink")と大阪は西九条BLAND NEWで行う。両日ともにチケットは即完売する。東京の方は、シングルの「CECIL」が配布される。
   - 2000年6月、[due'le quartzとのカップリングツアー](https://ja.wikipedia.org/wiki/due'le_quartz "wikilink")「D」で全国を回る。
   - 2000年10月、アルバム「シンクロ」がスマッシュヒットする。発売記念に、[渋谷ON AIR WESTでワンマンライブを行う](https://ja.wikipedia.org/wiki/渋谷ON_AIR_WEST "wikilink")。
   - 2001年1月、所属していた事務所[Matina](../Page/Matina.md "wikilink")から離脱し、自主で活動を開始する。

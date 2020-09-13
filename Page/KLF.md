@@ -118,7 +118,7 @@
   - [KLF Online](http://www.klf.de)
   - [This is what the KLF is about](http://www.hugolab.com/music/klf.html)
 
-[Category:イングランドの音楽グループ](https://ja.wikipedia.org/wiki/Category:イングランドの音楽グループ "wikilink") [Category:実験音楽のバンド](https://ja.wikipedia.org/wiki/Category:実験音楽のバンド "wikilink") [Category:ハウスミュージシャン](https://ja.wikipedia.org/wiki/Category:ハウスミュージシャン "wikilink") [Category:アンビエント・ミュージシャン](https://ja.wikipedia.org/wiki/Category:アンビエント・ミュージシャン "wikilink") [Category:1987年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1987年に結成した音楽グループ "wikilink")
+[Category:イングランドの音楽グループ](https://ja.wikipedia.org/wiki/Category:イングランドの音楽グループ "wikilink") [Category:実験音楽のバンド](https://ja.wikipedia.org/wiki/Category:実験音楽のバンド "wikilink") [Category:ハウスミュージシャン](https://ja.wikipedia.org/wiki/Category:ハウスミュージシャン "wikilink") [Category:アンビエント・ミュージシャン](https://ja.wikipedia.org/wiki/Category:アンビエント・ミュージシャン "wikilink") [Category:ブリット・アワード受賞者](https://ja.wikipedia.org/wiki/Category:ブリット・アワード受賞者 "wikilink") [Category:1987年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1987年に結成した音楽グループ "wikilink")
 
 1.  Strong, Martin C. (1999) *The Great Alternative & Indie Discography*, Canongate, ISBN 0-86241-913-1, p. 356
 2.

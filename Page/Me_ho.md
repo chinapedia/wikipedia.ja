@@ -67,4 +67,4 @@
   -
   - [尾関美穂オフィシャルウェブサイト(avex)](http://www.avexnet.or.jp/ozeki/)
 
-[Category:日本のポップ歌手](https://ja.wikipedia.org/wiki/Category:日本のポップ歌手 "wikilink") [Category:岐阜県出身の人物](https://ja.wikipedia.org/wiki/Category:岐阜県出身の人物 "wikilink") [Category:1986年生](https://ja.wikipedia.org/wiki/Category:1986年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:過去のサンズエンタテインメント所属者](https://ja.wikipedia.org/wiki/Category:過去のサンズエンタテインメント所属者 "wikilink")
+[Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:岐阜県出身の人物](https://ja.wikipedia.org/wiki/Category:岐阜県出身の人物 "wikilink") [Category:1986年生](https://ja.wikipedia.org/wiki/Category:1986年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:過去のサンズエンタテインメント所属者](https://ja.wikipedia.org/wiki/Category:過去のサンズエンタテインメント所属者 "wikilink")

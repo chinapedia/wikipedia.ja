@@ -12,7 +12,14 @@
 
 1.  **GOOD DAY**
       -
-        作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")　作曲：[綿貫正顕](../Page/綿貫正顕.md "wikilink")　編曲：[池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")
+        作曲：[綿貫正顕](../Page/綿貫正顕.md "wikilink")
+        編曲：[池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
+
+        </div>
     <!-- end list -->
       - [ホーユー](../Page/ホーユー.md "wikilink")「ビューティーラボ ナチュラルカラー」CMソング
       - もともと生のストリングスを採用したアレンジだったが、あまりにも感傷的な曲になってしまったため、シンセサイザーに差し替えられた。

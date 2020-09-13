@@ -142,8 +142,6 @@ TBSテレビの連続ドラマのスピンオフが[Paravi](https://ja.wikipedia
 
 :\* 自転車で倒れる男 - [ジャッキーちゃん](https://ja.wikipedia.org/wiki/ジャッキーちゃん "wikilink")
 
-:\* [小林麗菜](https://ja.wikipedia.org/wiki/小林麗菜 "wikilink")
-
   -
 
   - 第4話
@@ -396,7 +394,10 @@ le finale</p></td>
 ## 外部リンク
 
   - [Heaven? - 小学館](https://comics.shogakukan.co.jp/book-series?cd=24803)
-  - [火曜ドラマ「Heaven?〜ご苦楽レストラン〜」- TBSテレビ](https://www.tbs.co.jp/Heaven_tbs/)
+      - [火曜ドラマ「Heaven?〜ご苦楽レストラン〜」- TBSテレビ](https://www.tbs.co.jp/Heaven_tbs/)
+
+      -
+      -
       -
 [Category:佐々木倫子](https://ja.wikipedia.org/wiki/Category:佐々木倫子 "wikilink") [Category:漫画作品_へ](https://ja.wikipedia.org/wiki/Category:漫画作品_へ "wikilink") [Category:ビッグコミックスピリッツの漫画作品](https://ja.wikipedia.org/wiki/Category:ビッグコミックスピリッツの漫画作品 "wikilink") [Category:飲食店を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:飲食店を舞台とした漫画作品 "wikilink")
 

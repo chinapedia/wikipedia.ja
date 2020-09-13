@@ -156,7 +156,7 @@
 <td><p>（「<a href="../Page/ウエスト・サイド物語.md" title="wikilink">ウエストサイド物語</a>」から）トゥナイト</p></td>
 <td><p>14</p></td>
 <td><p><a href="../Page/久保田利伸.md" title="wikilink">久保田利伸</a>、(初)</p></td>
-<td><p>FOREVER YOURS（・<a href="../Page/ニューヨーク.md" title="wikilink">ニューヨーク</a>・ワシントンスクエアより中継）</p></td>
+<td><p>FOREVER YOURS[9]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -186,7 +186,7 @@
 <td></td>
 <td><p>18</p></td>
 <td><p><a href="../Page/長渕剛.md" title="wikilink">長渕剛</a>(初)</p></td>
-<td><p><a href="../Page/しゃぼん玉_(長渕剛の曲).md" title="wikilink">親知らず</a>・<a href="../Page/いつかの少年.md" title="wikilink">いつかの少年</a>・<a href="../Page/乾杯_(長渕剛の曲).md" title="wikilink">乾杯</a>（・<a href="https://ja.wikipedia.org/wiki/ベルリン" title="wikilink">ベルリン</a>・フランス聖堂より中継）</p></td>
+<td><p><a href="../Page/しゃぼん玉_(長渕剛の曲).md" title="wikilink">親知らず</a>・<a href="../Page/いつかの少年.md" title="wikilink">いつかの少年</a>・<a href="../Page/乾杯_(長渕剛の曲).md" title="wikilink">乾杯</a>[10]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -203,7 +203,7 @@
 <tr class="even">
 <td><p>19</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/宮沢りえ" title="wikilink">宮沢りえ</a>(初)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェイム_(曲)#カヴァー" title="wikilink">Game</a>（<a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/港区_(東京都)" title="wikilink">港区</a><a href="../Page/芝浦.md" title="wikilink">芝浦</a>より中継）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フェイム_(曲)#カヴァー" title="wikilink">Game</a>[11]</p></td>
 <td><p>20</p></td>
 <td><p><a href="../Page/忍者_(グループ).md" title="wikilink">忍者</a>(初)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/お祭り忍者" title="wikilink">お祭り忍者</a></p></td>
@@ -213,7 +213,7 @@
 <tr class="odd">
 <td><p>21</p></td>
 <td><p><a href="../Page/ピンク・レディー.md" title="wikilink">ピンク・レディー</a>(3)</p></td>
-<td><p><a href="../Page/メドレー.md" title="wikilink">ピンク・レディー・メドレー</a>[9]</p></td>
+<td><p><a href="../Page/メドレー.md" title="wikilink">ピンク・レディー・メドレー</a>[12]</p></td>
 <td><p>22</p></td>
 <td><p><a href="../Page/たま_(バンド).md" title="wikilink">たま</a>(初)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/さよなら人類/らんちう" title="wikilink">さよなら人類</a></p></td>
@@ -226,7 +226,7 @@
 <td><p><a href="../Page/おどるポンポコリン.md" title="wikilink">おどるポンポコリン</a></p></td>
 <td><p>24</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/植木等" title="wikilink">植木等</a>(5)</p></td>
-<td><p>スーダラ伝説[10]</p></td>
+<td><p>スーダラ伝説[13]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -273,10 +273,10 @@
 <tr class="odd">
 <td><p>34</p></td>
 <td><p><a href="../Page/マルシア.md" title="wikilink">マルシア</a>(初)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ふりむけばヨコハマ" title="wikilink">ふりむけばヨコハマ</a>（・<a href="../Page/サンパウロ.md" title="wikilink">サンパウロ</a>・オリンピア劇場より中継）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ふりむけばヨコハマ" title="wikilink">ふりむけばヨコハマ</a>[14]</p></td>
 <td><p>33</p></td>
 <td><p><a href="../Page/橋幸夫.md" title="wikilink">橋幸夫</a>(18)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/いつでも夢を" title="wikilink">いつでも夢を</a> （左に同じ）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/いつでも夢を" title="wikilink">いつでも夢を</a>[15]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -286,7 +286,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/知床旅情" title="wikilink">知床旅情</a></p></td>
 <td><p>35</p></td>
 <td><p><a href="../Page/チョー・ヨンピル.md" title="wikilink">チョー・ヨンピル</a>(4)</p></td>
-<td><p><a href="../Page/釜山港へ帰れ.md" title="wikilink">釜山港へ帰れ</a>（・<a href="https://ja.wikipedia.org/wiki/ソウル特別市" title="wikilink">ソウル</a>・<a href="../Page/ロッテワールド.md" title="wikilink">ロッテワールド</a>より中継）</p></td>
+<td><p><a href="../Page/釜山港へ帰れ.md" title="wikilink">釜山港へ帰れ</a>[16]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -303,10 +303,10 @@
 <tr class="even">
 <td><p>39</p></td>
 <td><p><a href="../Page/鮫島有美子.md" title="wikilink">鮫島有美子</a>(初)</p></td>
-<td><p>ぼだい樹（・ベルリンからの映像）</p></td>
+<td><p>ぼだい樹[17]</p></td>
 <td><p>40</p></td>
 <td><p><a href="../Page/ポール・サイモン.md" title="wikilink">ポール・サイモン</a>(初)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/明日に架ける橋" title="wikilink">明日に架ける橋</a>（・ニューヨークからの映像）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/明日に架ける橋" title="wikilink">明日に架ける橋</a>[18]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -415,7 +415,7 @@
 
 ### 選考を巡って
 
-この年は、「今年の歌」「[21世紀](../Page/21世紀.md "wikilink")に伝える歌」「[大晦日](../Page/大晦日.md "wikilink")に相応しい熱唱」という観点が出場者・曲目決定にあたって重要な基準とされた\[11\]（このうち「21世紀に伝える歌」に関しては前年の第1部における「昭和の紅白」をイメージした番組構成が高い評価を得たことによるものである）。それに伴い、往年の紅白を賑わせた歌手が数多くカムバックした。
+この年は、「今年の歌」「[21世紀](../Page/21世紀.md "wikilink")に伝える歌」「[大晦日](../Page/大晦日.md "wikilink")に相応しい熱唱」という観点が出場者・曲目決定にあたって重要な基準とされた\[19\]（このうち「21世紀に伝える歌」に関しては前年の第1部における「昭和の紅白」をイメージした番組構成が高い評価を得たことによるものである）。それに伴い、往年の紅白を賑わせた歌手が数多くカムバックした。
 
   - [青江三奈](../Page/青江三奈.md "wikilink")はこの年[12月2日](../Page/12月2日.md "wikilink")に亡くなった「[恍惚のブルース](https://ja.wikipedia.org/wiki/恍惚のブルース "wikilink")」の[作曲家](../Page/作曲家.md "wikilink")、[浜口庫之助](../Page/浜口庫之助.md "wikilink")を偲ぶ形式で[第34回](https://ja.wikipedia.org/wiki/第34回NHK紅白歌合戦 "wikilink")（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（[昭和](../Page/昭和.md "wikilink")58年））以来7年ぶりに復帰。しかしその後は青江自身[2000年](../Page/2000年.md "wikilink")（平成12年）[7月2日](../Page/7月2日.md "wikilink")に亡くなる（[享年](../Page/享年.md "wikilink")59）まで紅白出場は果たせず、今回が青江の生涯最後の紅白出場となった。
   - [尾崎紀世彦](https://ja.wikipedia.org/wiki/尾崎紀世彦 "wikilink")は[第23回](../Page/第23回NHK紅白歌合戦.md "wikilink")（[1972年](../Page/1972年.md "wikilink")（昭和47年））以来18年ぶりに復帰。代表曲「[また逢う日まで](../Page/また逢う日まで_\(尾崎紀世彦の曲\).md "wikilink")」を歌唱したが、これが尾崎の生涯最後の紅白出演となり、[2012年](../Page/2012年.md "wikilink")（平成24年）[5月30日](../Page/5月30日.md "wikilink")（享年69）に死去。
@@ -427,15 +427,15 @@
 
 今回の主な初出場者は上記の宮沢りえ、長渕剛のほか、この年の[オリコン年間シングルチャート](../Page/オリコンチャート.md "wikilink")1位である「[おどるポンポコリン](../Page/おどるポンポコリン.md "wikilink")」を引っ下げて登場の[B.B.クィーンズ](../Page/B.B.クィーンズ.md "wikilink")や[久保田利伸](../Page/久保田利伸.md "wikilink")、[吉田栄作](../Page/吉田栄作.md "wikilink")など、海外からは[シンディ・ローパー](../Page/シンディ・ローパー.md "wikilink")や[ポール・サイモン](../Page/ポール・サイモン.md "wikilink")などの大物も含めて計19組。これは紅白では翌年の第42回に次いで2番目に多い初出場歌手数である。
 
-今回の出場者数、紅白各29組は第54回に各31組の出場者が選考されるまで、紅白最多出場者数記録となっていた。しかし、当初の企画段階では、これよりも更に2、3組の上積みを予定しており、その枠には、海外の大物アーティストを起用する方針であったという。事実、[12月6日](../Page/12月6日.md "wikilink")に出場者の発表が行われた際にも、紅組29組、白組27組の出場歌手を先ず発表した上で、「今年は31組ずつの歌手を選ぶ方針で人選を進めているため、残りの数組についてはまた交渉がまとまり次第おって発表をする」という異例の声明が出されている。しかし、当初出場を念頭に交渉に当たっていた[ビリー・ジョエル](../Page/ビリー・ジョエル.md "wikilink")や[ジュリー・アンドリュース](../Page/ジュリー・アンドリュース.md "wikilink")らからは「スケジュールが取れない」という理由で悉くオファーを固辞されてしまい\[12\]、結局は予定よりも2組少ない紅白各29組ずつとなり、残りの白組の2枠については、唯一、大物アーティストの中で出演OKの返事がきた[ポール・サイモン](../Page/ポール・サイモン.md "wikilink")と、アメリカの黒人ソウルシンガー、アリスン・ウィリアムスとのセットで国内の歌手から久保田利伸を選出、そして両者をNHKホールではなく、アメリカからの衛星中継で出演させる形で決着が図られた。最終的に出場者が全決定したのは[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")のことだった\[13\]。
+今回の出場者数、紅白各29組は第54回に各31組の出場者が選考されるまで、紅白最多出場者数記録となっていた。しかし、当初の企画段階では、これよりも更に2、3組の上積みを予定しており、その枠には、海外の大物アーティストを起用する方針であったという。事実、[12月6日](../Page/12月6日.md "wikilink")に出場者の発表が行われた際にも、紅組29組、白組27組の出場歌手を先ず発表した上で、「今年は31組ずつの歌手を選ぶ方針で人選を進めているため、残りの数組についてはまた交渉がまとまり次第おって発表をする」という異例の声明が出されている。しかし、当初出場を念頭に交渉に当たっていた[ビリー・ジョエル](../Page/ビリー・ジョエル.md "wikilink")や[ジュリー・アンドリュース](../Page/ジュリー・アンドリュース.md "wikilink")らからは「スケジュールが取れない」という理由で悉くオファーを固辞されてしまい\[20\]、結局は予定よりも2組少ない紅白各29組ずつとなり、残りの白組の2枠については、唯一、大物アーティストの中で出演OKの返事がきた[ポール・サイモン](../Page/ポール・サイモン.md "wikilink")と、アメリカの黒人ソウルシンガー、アリスン・ウィリアムスとのセットで国内の歌手から久保田利伸を選出、そして両者をNHKホールではなく、アメリカからの衛星中継で出演させる形で決着が図られた。最終的に出場者が全決定したのは[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")のことだった\[21\]。
 
-特別ゲストとして[フランク・シナトラ](https://ja.wikipedia.org/wiki/フランク・シナトラ "wikilink")との出演交渉を行ったが、結局シナトラとの交渉は暗礁に乗り上げ、出演はならなかった\[14\]\[15\]。
+特別ゲストとして[フランク・シナトラ](https://ja.wikipedia.org/wiki/フランク・シナトラ "wikilink")との出演交渉を行ったが、結局シナトラとの交渉は暗礁に乗り上げ、出演はならなかった\[22\]\[23\]。
 
-『[週刊読売](https://ja.wikipedia.org/wiki/週刊読売 "wikilink")』によると、[Wink](../Page/Wink.md "wikilink")は落選\[16\]。[松田聖子](../Page/松田聖子.md "wikilink")は自ら辞退宣言をしたが、実際はNHK自身オファーするつもりはなかったという\[17\]。[近藤真彦](../Page/近藤真彦.md "wikilink")も落選\[18\]。[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")は候補には入っていたものの辞退\[19\]。[松任谷由実](../Page/松任谷由実.md "wikilink")は出演拒否\[20\]。[島倉千代子](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")もオファーしたが「卒業しました」と辞退\[21\]。[男闘呼組](../Page/男闘呼組.md "wikilink")は同じく[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属の忍者と入れ替わる形で不出場となった\[22\]。[冠二郎](../Page/冠二郎.md "wikilink")は2年連続で次点となり落選\[23\]。
+『[週刊読売](https://ja.wikipedia.org/wiki/週刊読売 "wikilink")』によると、[Wink](../Page/Wink.md "wikilink")は落選\[24\]。[松田聖子](../Page/松田聖子.md "wikilink")は自ら辞退宣言をしたが、実際はNHK自身オファーするつもりはなかったという\[25\]。[近藤真彦](../Page/近藤真彦.md "wikilink")も落選\[26\]。[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")は候補には入っていたものの辞退\[27\]。[松任谷由実](../Page/松任谷由実.md "wikilink")は出演拒否\[28\]。[島倉千代子](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")もオファーしたが「卒業しました」と辞退\[29\]。[男闘呼組](../Page/男闘呼組.md "wikilink")は同じく[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属の忍者と入れ替わる形で不出場となった\[30\]。[冠二郎](../Page/冠二郎.md "wikilink")は2年連続で次点となり落選\[31\]。
 
 ### その他
 
-西田敏行の次の出場は[第62回](https://ja.wikipedia.org/wiki/第62回NHK紅白歌合戦 "wikilink")（[2011年](../Page/2011年.md "wikilink")）まで待つこととなる\[24\]。
+西田敏行の次の出場は[第62回](https://ja.wikipedia.org/wiki/第62回NHK紅白歌合戦 "wikilink")（[2011年](../Page/2011年.md "wikilink")）まで待つこととなる\[32\]。
 
 ## ゲスト出演者
 
@@ -468,7 +468,7 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦 公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK紅白歌合戦 公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=41)
   - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1990年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1990年のテレビ番組_\(日本\) "wikilink") [Category:1990年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1990年のラジオ番組_\(日本\) "wikilink") [Category:1990年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1990年の日本の音楽 "wikilink") [Category:1990年12月](https://ja.wikipedia.org/wiki/Category:1990年12月 "wikilink")
@@ -482,19 +482,27 @@
 7.  合田『紅白歌合戦の真実』、293頁。
 8.  [紅白歌手別視聴率、４０％超えは嵐ら３組だけに…前回は３１組](https://hochi.news/articles/20200106-OHT1T50267.html)、[スポーツ報知](../Page/スポーツ報知.md "wikilink")、2020年1月7日 6時0分。
     （[平成以後の紅白歌手別瞬間最高視聴率](https://hochi.news/articles/20200106-OHT1T50267.html?mode=photo&photoid=3)）
-9.  「[S・O・S](../Page/S・O・S.md "wikilink")」「[渚のシンドバッド](../Page/渚のシンドバッド.md "wikilink")」「[ウォンテッド (指名手配)](../Page/ウォンテッド_\(指名手配\).md "wikilink")」「[2年目のジンクス](../Page/2年目のジンクス.md "wikilink")」のメドレー
-10. 「[スーダラ節](../Page/スーダラ節.md "wikilink")」「[無責任一代男](https://ja.wikipedia.org/wiki/無責任一代男 "wikilink")」「[ドント節](https://ja.wikipedia.org/wiki/ドント節 "wikilink")」「[だまって俺について来い](../Page/だまって俺について来い.md "wikilink")」「[ハイそれまでョ](https://ja.wikipedia.org/wiki/無責任一代男 "wikilink")」のメドレー
-11. 『読売新聞』1990年12月7日付東京夕刊、13頁。
-12. 『[読売新聞](../Page/読売新聞.md "wikilink")』1990年12月20日付東京夕刊、11頁。
-13. 『朝日新聞』1990年12月20日付朝刊、30頁。
-14.
-15. 『毎日新聞』1990年12月20日付東京朝刊、26頁。
-16. 『週刊読売』1990年12月23日号、199頁。
-17. 『週刊読売』1990年12月23日号、201頁。
-18.
-19.
-20.
-21.
+9.  ・[ニューヨーク](../Page/ニューヨーク.md "wikilink")・ワシントンスクエアより中継
+10. ・[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")・フランス聖堂より中継
+11. [東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[芝浦](../Page/芝浦.md "wikilink")より中継
+12. 「[S・O・S](../Page/S・O・S.md "wikilink")」「[渚のシンドバッド](../Page/渚のシンドバッド.md "wikilink")」「[ウォンテッド (指名手配)](../Page/ウォンテッド_\(指名手配\).md "wikilink")」「[2年目のジンクス](../Page/2年目のジンクス.md "wikilink")」のメドレー
+13. 「[スーダラ節](../Page/スーダラ節.md "wikilink")」「[無責任一代男](https://ja.wikipedia.org/wiki/無責任一代男 "wikilink")」「[ドント節](https://ja.wikipedia.org/wiki/ドント節 "wikilink")」「[だまって俺について来い](../Page/だまって俺について来い.md "wikilink")」「[ハイそれまでョ](https://ja.wikipedia.org/wiki/無責任一代男 "wikilink")」のメドレー
+14. ・[サンパウロ](../Page/サンパウロ.md "wikilink")・オリンピア劇場より中継
+15. 左に同じく、サンパウロ・オリンピア劇場からの歌唱
+16. ・[ソウル](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")・[ロッテワールド](../Page/ロッテワールド.md "wikilink")より中継
+17. ・ベルリンからの映像
+18. ・ニューヨークからの映像
+19. 『読売新聞』1990年12月7日付東京夕刊、13頁。
+20. 『[読売新聞](../Page/読売新聞.md "wikilink")』1990年12月20日付東京夕刊、11頁。
+21. 『朝日新聞』1990年12月20日付朝刊、30頁。
 22.
-23.
-24. ただし、この間西田は[第58回](../Page/第58回NHK紅白歌合戦.md "wikilink")（[2007年](../Page/2007年.md "wikilink")）でナレーションとして出演している。
+23. 『毎日新聞』1990年12月20日付東京朝刊、26頁。
+24. 『週刊読売』1990年12月23日号、199頁。
+25. 『週刊読売』1990年12月23日号、201頁。
+26.
+27.
+28.
+29.
+30.
+31.
+32. ただし、この間西田は[第58回](../Page/第58回NHK紅白歌合戦.md "wikilink")（[2007年](../Page/2007年.md "wikilink")）でナレーションとして出演している。

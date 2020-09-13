@@ -51,4 +51,4 @@
   - [T's Four worlds](http://www.tanjima.com/)
       - [航空館boon](http://www.tanjima.com/aircraft/koukukan_boon.htm)
 
-[Category:航空宇宙博物館](https://ja.wikipedia.org/wiki/Category:航空宇宙博物館 "wikilink") [Category:愛知県の科学館](https://ja.wikipedia.org/wiki/Category:愛知県の科学館 "wikilink") [Category:愛知県の博物館](https://ja.wikipedia.org/wiki/Category:愛知県の博物館 "wikilink") [Category:豊山町](https://ja.wikipedia.org/wiki/Category:豊山町 "wikilink") [Category:2005年開設の博物館](https://ja.wikipedia.org/wiki/Category:2005年開設の博物館 "wikilink")
+[Category:日本の航空宇宙博物館](https://ja.wikipedia.org/wiki/Category:日本の航空宇宙博物館 "wikilink") [Category:愛知県の科学館](https://ja.wikipedia.org/wiki/Category:愛知県の科学館 "wikilink") [Category:愛知県の博物館](https://ja.wikipedia.org/wiki/Category:愛知県の博物館 "wikilink") [Category:豊山町](https://ja.wikipedia.org/wiki/Category:豊山町 "wikilink") [Category:2005年開設の博物館](https://ja.wikipedia.org/wiki/Category:2005年開設の博物館 "wikilink")

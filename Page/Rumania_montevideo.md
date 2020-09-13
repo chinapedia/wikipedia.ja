@@ -40,17 +40,6 @@
 | [三好真美](https://ja.wikipedia.org/wiki/三好真美 "wikilink") | みよし・まみ  | [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ドラム](../Page/ドラムセット.md "wikilink")、[作詞](../Page/作詞.md "wikilink") |
 | [三好誠](../Page/三好誠.md "wikilink")                      | みよし・まこと | [ギター](../Page/ギター.md "wikilink")、[作曲](../Page/作曲.md "wikilink")、[編曲](../Page/編曲.md "wikilink")                           |
 
-### サポートメンバー
-
-2019年の再始動より参加。
-
-| 名前          | 読み      | 担当                                          |
-| ----------- | ------- | ------------------------------------------- |
-| 島井直哉（しまーる。） | しまい・なおや | ドラム                                         |
-| れんた         | れんた     | ギター                                         |
-| トム          | とむ      | [ベース](../Page/ベース_\(弦楽器\).md "wikilink")    |
-| しぇり         | しぇり     | [キーボード](../Page/キーボード_\(楽器\).md "wikilink") |
-
 ### 過去のメンバー
 
 2000年に[RAMJET PULLEYを結成](https://ja.wikipedia.org/wiki/RAMJET_PULLEY "wikilink")。その後もrumania montevideoのメンバーであったが、2019年の再始動には加わらなかった。
@@ -681,14 +670,11 @@
 ## 外部リンク
 
   -
-  - [オンラインストア](https://rumania-montevideo.raku-uru.jp/)
+<!-- end list -->
 
   -
   -
-  -
-  -
-  -
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:過去のビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:過去のビーイング系列所属者 "wikilink") [Category:1998年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1998年に結成した音楽グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:兄弟姉妹の音楽グループ](https://ja.wikipedia.org/wiki/Category:兄弟姉妹の音楽グループ "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:過去のビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:過去のビーイング系列所属者 "wikilink") [Category:1998年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1998年に結成した音楽グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:兄弟姉妹の音楽グループ](https://ja.wikipedia.org/wiki/Category:兄弟姉妹の音楽グループ "wikilink")
 
 1.   「ルーマニアモンテビデオというバンドを再開して今練習しています。」
 2.   「2019/12/1のライブ後の1ショット。実はモンテビメンバーみんな観に来てくれてたんです」

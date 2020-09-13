@@ -156,6 +156,7 @@
 
   - [第20回NHK紅白歌合戦 - NHK名作選(動画・静止画) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010145_00000)
   - [NHK総合「紅白歌合戦」](https://www.videor.co.jp/tvrating/past_tvrating/music/02/index.html) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=20)
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1969年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1969年のテレビ番組_\(日本\) "wikilink") [Category:1969年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1969年のラジオ番組_\(日本\) "wikilink") [Category:1969年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1969年の日本の音楽 "wikilink") [Category:1969年12月](https://ja.wikipedia.org/wiki/Category:1969年12月 "wikilink")
 

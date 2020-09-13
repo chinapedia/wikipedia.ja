@@ -10,8 +10,9 @@
 ## 解説
 
   - バンド結成10周年記念としてリリースされた初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から1995年までのシングルの1曲目が時系列順に収録されている。1曲目の「[JUST ONE MORE KISS](https://ja.wikipedia.org/wiki/JUST_ONE_MORE_KISS "wikilink")」以外は全てシングルバージョンとなっており、このアルバムのリリース時点ではアルバム初収録となった。
-  - BUCK-TICKは翌年リリースされる[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")『[COSMOS](../Page/COSMOS_\(アルバム\).md "wikilink")』をもって、ビクターから[MERCURY](../Page/マーキュリー・レコード.md "wikilink") へ移籍。その後ビクターより[1999年](../Page/1999年.md "wikilink")に発売されたベストアルバム『[BT](https://ja.wikipedia.org/wiki/BT_\(BEST_TRACKS\) "wikilink")』にビクター在籍時のシングルが[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")も含め全て収録されているため、本作の収録曲が全て収録されている。またPV集も同様に後に発売された『BUCK-TICK PICTURE PRODUCT』や『SINGLES on Digital Video Disc』に収録曲が全て収められている。
+  - BUCK-TICKは翌年リリースされる[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")『[COSMOS](../Page/COSMOS_\(アルバム\).md "wikilink")』をもって、ビクターから[MERCURY](../Page/マーキュリー・レコード.md "wikilink") へ移籍。その後ビクターより[1999年](../Page/1999年.md "wikilink")に発売されたベストアルバム『[BT](https://ja.wikipedia.org/wiki/BT_\(BEST_TRACKS\) "wikilink")』にビクター在籍時のシングルが[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")も含め全て収録されているため、本作の収録曲が全て収録されている。また同タイトルのPV集も同様に、後に発売された『BUCK-TICK PICTURE PRODUCT』や『SINGLES on Digital Video Disc』に収録曲のPVが全て収められている。
   - 再発盤(紙ジャケット仕様)は全曲デジタルリマスタリングされている。
+  - 本作と同タイトルのPV集のVHSが、これまで所属していた事務所在籍時代の最後の作品となった（その後退所・独立し、翌年に個人事務所を設立）。
 
 ## 収録曲
 

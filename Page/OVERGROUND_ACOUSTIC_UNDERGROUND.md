@@ -65,10 +65,11 @@ TOSHI-LOW、KOHKI、MAKOTO、RONZIの4人は[BRAHMAN](../Page/BRAHMAN.md "wikili
 
 ### 配信シングル
 
-|     | 発売日                                                                      | タイトル    |
-| --- | ------------------------------------------------------------------------ | ------- |
-| 1st | [2019年](../Page/2019年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink") | **帰り道** |
-|     |                                                                          |         |
+|  | 発売日                                                                      | タイトル    |
+|  | ------------------------------------------------------------------------ | ------- |
+|  | [2019年](../Page/2019年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink") | **帰り道** |
+|  | 2020年6月10日                                                               | 世界の地図   |
+|  |                                                                          |         |
 
 ### アルバム
 
@@ -458,8 +459,13 @@ PCCA-4065</p></td>
 | 夢の跡                 | [江崎グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")「ビスコ」CM ソング  |
 | 帰り道                 | テレビ東京系ドラマ24「[きのう何食べた?](../Page/きのう何食べた?.md "wikilink")」主題歌          |
 | Where have you gone | 映画「[新聞記者](https://ja.wikipedia.org/wiki/新聞記者_\(映画\) "wikilink")」主題歌 |
+| 世界の地図               | NHKみんなのうた 2020年6-7月曲                                                |
 
 ## 主なライブ
+
+### オーガナイズ イベント
+
+2010年〜毎年開催　- New Acoustic Camp \~わらう、うらう、たべる、ねっころがる。\~
 
 ### ワンマンライブ・主催イベント
 
@@ -472,6 +478,8 @@ PCCA-4065</p></td>
   - 2018年01月12日／19日 - New Acoustic New Year
   - 2019年01月11日／14日 - New Acoustic New Year
   - 2019年07月04日／18日 - OAU 〜The premium release party〜
+  - 2019年09月29日〜12月5日 - TOUR 2019 - A Better Life -
+  - 2020年02月03日〜15日 - HALL TOUR 2020 - A Better Life -
 
 ### 出演イベント
 
@@ -638,4 +646,4 @@ PCCA-4065</p></td>
   -
   - [OVERGROUND ACOUSTIC UNDERGROUND | TOY'S FACTORY](https://www.toysfactory.co.jp/artist/oau)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:トイズファクトリーのアーティスト](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:2005年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に結成した音楽グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:トイズファクトリーのアーティスト](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")

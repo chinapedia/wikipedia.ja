@@ -465,7 +465,7 @@ BMG JAPANから移籍</p></td>
 1998年から<a href="https://ja.wikipedia.org/wiki/ユニバーサルビクター" title="wikilink">Universal Victorにてバンド</a><a href="https://ja.wikipedia.org/wiki/Crybaby_(ロックバンド)" title="wikilink">Crybabyで活動</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/源学" title="wikilink">源学</a>→Gen</p></td>
+<td><p><a href="../Page/源学.md" title="wikilink">源学</a>→Gen</p></td>
 <td><p>げんまなぶ→ゲン</p></td>
 <td><p>1992年〜1995年</p></td>
 <td><p>バンド<a href="../Page/GEN.md" title="wikilink">GEN</a>のボーカル</p></td>

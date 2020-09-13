@@ -1,7 +1,7 @@
 > この記事は[UDON](https://ja.wikipedia.org/wiki/UDON)から翻訳されています。
 
 
-『**UDON**』（うどん）は、[2006年](../Page/2006年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")公開された[日本映画](../Page/日本映画.md "wikilink")である。監督は『[踊る大捜査線](../Page/踊る大捜査線.md "wikilink")』を撮影した[本広克行](../Page/本広克行.md "wikilink")、主演は[ユースケ・サンタマリア](../Page/ユースケ・サンタマリア.md "wikilink")と[小西真奈美](https://ja.wikipedia.org/wiki/小西真奈美 "wikilink")。映画の題材はタイトル通り「[うどん](../Page/うどん.md "wikilink")」。興行収入は13.6億円（日本映画製作者連盟による）。
+『**UDON**』（うどん）は、[2006年](../Page/2006年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")公開された[日本映画](../Page/日本映画.md "wikilink")である。監督は『[踊る大捜査線](../Page/踊る大捜査線.md "wikilink")』を撮影した[本広克行](../Page/本広克行.md "wikilink")、主演は[ユースケ・サンタマリア](../Page/ユースケ・サンタマリア.md "wikilink")と[小西真奈美](https://ja.wikipedia.org/wiki/小西真奈美 "wikilink")。映画の題材はタイトル通り「[うどん](../Page/うどん.md "wikilink")」（[讃岐うどん](../Page/讃岐うどん.md "wikilink")）。興行収入は13.6億円（日本映画製作者連盟による）。
 
 [香川県](../Page/香川県.md "wikilink")を舞台とした映画で、撮影もほとんどが香川県で行われている。同じく本広が香川県で撮影した映画には『[サマータイムマシン・ブルース](../Page/サマータイムマシン・ブルース.md "wikilink")』等がある。
 
@@ -106,7 +106,7 @@
   - [高松空港](../Page/高松空港.md "wikilink")
   - [丸亀市通町商店街](https://ja.wikipedia.org/wiki/丸亀市通町商店街 "wikilink")
   - [丸亀市立城東小学校](https://ja.wikipedia.org/wiki/丸亀市立城東小学校 "wikilink")
-  - [香川労災病院](https://ja.wikipedia.org/wiki/香川労災病院 "wikilink")
+  - [香川労災病院](../Page/香川労災病院.md "wikilink")
 
 ## テーマ曲
 

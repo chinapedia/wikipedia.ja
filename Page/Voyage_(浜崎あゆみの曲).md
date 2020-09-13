@@ -23,6 +23,7 @@
       -
         [作曲](../Page/作曲.md "wikilink")：[CREA](../Page/浜崎あゆみ.md "wikilink") + [D・A・I](../Page/長尾大.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[Ken Shima](../Page/島健.md "wikilink")
         [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[マイリトルシェフ](../Page/マイリトルシェフ.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink")
+        短編映画『月に沈む』主題歌
 2.  **[HANABI](../Page/H_\(シングル\).md "wikilink") "electrical Bossa mix"**
 3.  **[independent](../Page/H_\(シングル\).md "wikilink") "SUGIURUMN MIX"**
 4.  **Voyage -Instrumental-**

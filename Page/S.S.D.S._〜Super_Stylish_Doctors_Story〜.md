@@ -1,7 +1,7 @@
 > この記事は[S.S.D.S. 〜Super Stylish Doctors Story〜](https://ja.wikipedia.org/wiki/S.S.D.S._〜Super_Stylish_Doctors_Story〜)から翻訳されています。
 
 
-**『S.S.D.S. 〜Super Stylish Doctors Story〜』（エスエスディーエス 〜スーパースタイリッシュドクターズストーリー〜）**とは、[声優](../Page/声優.md "wikilink")の[速水奨](../Page/速水奨.md "wikilink")[原作](../Page/原作.md "wikilink")・[脚本](../Page/脚本.md "wikilink")による[病院](../Page/病院.md "wikilink")を舞台とした[SF](../Page/SF.md "wikilink")[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")作品。
+**『S.S.D.S. 〜Super Stylish Doctors Story〜』（エスエスディーエス 〜スーパースタイリッシュドクターズストーリー〜）**とは、[声優](../Page/声優.md "wikilink")の[速水奨](../Page/速水奨.md "wikilink")[原作](../Page/原作.md "wikilink")・[脚本](../Page/脚本.md "wikilink")による[病院](../Page/病院.md "wikilink")を舞台とした[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")作品。
 
 [2003年](../Page/2003年.md "wikilink")[9月](../Page/9月.md "wikilink")に[ドラマCD](../Page/ドラマCD.md "wikilink")第1弾「愛の解体新書」が発売。現在では[ウェブラジオ](https://ja.wikipedia.org/wiki/ウェブラジオ "wikilink")・[イベント](../Page/イベント.md "wikilink")・[ゲーム](../Page/ゲーム.md "wikilink")・[ニコニコチャンネル](https://ja.wikipedia.org/wiki/ニコニコチャンネル "wikilink")や[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")など、様々な[メディアに展開されている](../Page/メディアミックス.md "wikilink")。
 

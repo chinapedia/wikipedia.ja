@@ -1,0 +1,66 @@
+> この記事は[世界で一番君が好き! You are my favorite in the world](https://ja.wikipedia.org/wiki/世界で一番君が好き!_You_are_my_favorite_in_the_world)から翻訳されています。
+
+
+『**世界で一番君が好き\! You are my favorite in the world**』（せかいでいちばんきみがすきYou are my favorite in the world）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）[1月8日](../Page/1月8日.md "wikilink")より[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで毎週月曜日21:00 - 21:54に、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列の](../Page/フジネットワーク.md "wikilink")「[月9](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")」枠で放送されていた日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。
+
+## 作品解説
+
+主演の浅野温子の大胆な演技と服装が話題になった。また、浅野温子と三上博史がさまざまなシチュエーションでキスをするオープニングタイトルも話題となり、オープニングの最後には、[渋谷スクランブル交差点](https://ja.wikipedia.org/wiki/渋谷スクランブル交差点 "wikilink")の中央で、大勢の群衆が見守る中、お互いに運転する車から身を乗り出し濃厚なキスをするという大胆かつ画期的なシーンがあった。
+
+VHS化やDVD化は実現されていない。
+
+2013年1月7日（月）22時よりBSフジ・181にて再放送。
+
+2020年4月15日（水）12時26分〜4月22日（水）フジテレビTWOにて再放送。
+
+## ストーリー
+
+恋人に振られたOL（向井華：浅野温子）が、帰りの新幹線の中でサラリーマン（山村公次：三上博史）にビールをかけられ大喧嘩。しかし友人の小笠原万吉（布施博）は華に一目惚れ。東京に戻っても二人（華・公次）はケンカばかりだがいつからか互いを意識し始める。
+
+## キャスト
+
+  - 向井華 - [浅野温子](../Page/浅野温子.md "wikilink")
+  - 山村公次 - [三上博史](../Page/三上博史.md "wikilink")
+  - 杉本ちひろ - [工藤静香](../Page/工藤静香.md "wikilink")
+  - 小笠原万吉 - [布施博](../Page/布施博.md "wikilink")
+  - 篠木邦彦 - [風間トオル](../Page/風間トオル.md "wikilink")
+  - 河合英一 - [益岡徹](../Page/益岡徹.md "wikilink")
+  - ミユキ - [中村れい子](../Page/中村れい子.md "wikilink")
+  - 和田早苗 - [財前直見](../Page/財前直見.md "wikilink")
+  - 万吉の同僚 - [中山秀征](../Page/中山秀征.md "wikilink")
+  - 佐伯恵 - [石野真子](../Page/石野真子.md "wikilink")
+  - マスター - [中条静夫](../Page/中条静夫.md "wikilink")
+  - 中野 - [六角精児](../Page/六角精児.md "wikilink")(第6話)
+
+## スタッフ
+
+  - 脚本 - [松原敏春](../Page/松原敏春.md "wikilink")
+  - 音楽 - AKIHABARA ELECTRIC CIRCUS
+  - 演出 - [光野道夫](../Page/光野道夫.md "wikilink")、[中野昌宏](https://ja.wikipedia.org/wiki/中野昌宏 "wikilink")、[本間欧彦](../Page/本間欧彦.md "wikilink")
+  - 主題歌 - [LINDBERG](../Page/LINDBERG.md "wikilink")「[今すぐKiss Me](../Page/今すぐKiss_Me.md "wikilink")」
+  - プロデュース - [山田良明](../Page/山田良明.md "wikilink")、[大多亮](../Page/大多亮.md "wikilink")
+  - 製作著作 ‐ [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")
+
+## 放送日程
+
+| 話数                                                                                                                 | 放送日        | サブタイトル         | 演出    | 視聴率   |
+| ------------------------------------------------------------------------------------------------------------------ | ---------- | -------------- | ----- | ----- |
+| Vol.1                                                                                                              | 1990年1月8日  | フラれた時から恋が始まる！  | 光野道夫  | 24.4% |
+| Vol.2                                                                                                              | 1990年1月15日 | この愛21世紀まで永遠です！ | 22.6% |       |
+| Vol.3                                                                                                              | 1990年1月22日 | 生まれて初めて恋に目覚めた夜 | 中野昌宏  | 21.8% |
+| Vol.4                                                                                                              | 1990年2月5日  | 寒い時は僕がキスしてあげる  | 22.3% |       |
+| Vol.5                                                                                                              | 1990年2月12日 | 夢のように抱き合いたいね！  | 光野道夫  | 21.9% |
+| Vol.6                                                                                                              | 1990年2月19日 | 愛する人を間違えてしまった！ | 19.3% |       |
+| Vol.7                                                                                                              | 1990年2月26日 | もう一度だけ抱いてほしい   | 本間欧彦  | 20.6% |
+| Vol.8                                                                                                              | 1990年3月5日  | 婚約したら絶対後悔するな！  | 中野昌宏  | 20.3% |
+| Vol.9                                                                                                              | 1990年3月12日 | この愛もう誰にも止められない | 光野道夫  | 20.3% |
+| Vol.10                                                                                                             | 1990年3月19日 | 波乱！あってはならない結末へ | 本間欧彦  | 22.9% |
+| 最終回                                                                                                                | 1990年3月26日 | 最後の最後で恋は燃え上がる！ | 光野道夫  | 25.5% |
+| 平均視聴率 22.0%（視聴率は[関東地区](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")社調べ） |            |                |       |       |
+
+## 外部リンク
+
+  - [世界で一番君が好き！](https://otn.fujitv.co.jp/b_hp/920200061.html) - フジテレビ ONE TWO NEXT(ワンツーネクスト)
+  - [世界で一番君が好き！You are my favorite in the world](https://fod.fujitv.co.jp/s/genre/drama/ser4269/) - フジテレビオンデマンド
+
+[Category:フジテレビ月曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビ月曜9時枠の連続ドラマ "wikilink") [Category:1990年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1990年のテレビドラマ "wikilink") [Category:トレンディドラマ](https://ja.wikipedia.org/wiki/Category:トレンディドラマ "wikilink") [Category:ロマンティック・コメディ](https://ja.wikipedia.org/wiki/Category:ロマンティック・コメディ "wikilink")

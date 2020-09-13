@@ -107,7 +107,7 @@
 | 5  | [1976年](../Page/1976年.md "wikilink")                    | [三遊亭栄馬](../Page/三遊亭栄馬.md "wikilink")「[青菜](../Page/青菜_\(落語\).md "wikilink")」                                      | [柳亭小痴楽](https://ja.wikipedia.org/wiki/柳亭痴楽_\(5代目\) "wikilink")「[鮑のし](../Page/鮑のし.md "wikilink")」                     |
 | 6  | [1977年](../Page/1977年.md "wikilink")                    | [三遊亭楽松](../Page/三遊亭鳳楽.md "wikilink")「[掛取り風景](https://ja.wikipedia.org/wiki/掛取り風景 "wikilink")」                    | [春風亭鶏昇](../Page/春風亭小柳枝.md "wikilink")「[野ざらし](../Page/野ざらし.md "wikilink")」                                            |
 | 7  | [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink") | [春風亭小朝](https://ja.wikipedia.org/wiki/春風亭小朝 "wikilink")「[稽古屋](../Page/稽古屋.md "wikilink")」                        | [柳家さん光](https://ja.wikipedia.org/wiki/柳家権太楼_\(3代目\) "wikilink")「[反対俥](https://ja.wikipedia.org/wiki/反対俥 "wikilink")」 |
-| 8  | [1979年](../Page/1979年.md "wikilink")                    | [林家正雀](https://ja.wikipedia.org/wiki/林家正雀 "wikilink")「[七段目](../Page/七段目.md "wikilink")」                          | [三笑亭夢二](https://ja.wikipedia.org/wiki/三笑亭夢太朗 "wikilink")「[湯屋番](../Page/湯屋番.md "wikilink")」                           |
+| 8  | [1979年](../Page/1979年.md "wikilink")                    | [林家正雀](../Page/林家正雀.md "wikilink")「[七段目](../Page/七段目.md "wikilink")」                                             | [三笑亭夢二](https://ja.wikipedia.org/wiki/三笑亭夢太朗 "wikilink")「[湯屋番](../Page/湯屋番.md "wikilink")」                           |
 | 9  | [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink") | [雷門助三](../Page/春雨や雷蔵.md "wikilink")「権助魚」                                                                         | [立川談四楼](../Page/立川談四楼.md "wikilink")「[大工調べ](https://ja.wikipedia.org/wiki/大工調べ "wikilink")」                          |
 | 10 | [1981年](../Page/1981年.md "wikilink")                    | [朝寝坊のらく](https://ja.wikipedia.org/wiki/立川ぜん馬#6代目 "wikilink")「[蔵前駕籠](../Page/蔵前駕籠.md "wikilink")」                 | [立川談生](../Page/鈴々舎馬桜.md "wikilink")「[たいこ腹](../Page/たいこ腹.md "wikilink")」                                              |
 | 11 | [1982年](../Page/1982年.md "wikilink")                    | [柳家小蝠](https://ja.wikipedia.org/wiki/柳家蝠丸#2代目 "wikilink")「[富士の雪](https://ja.wikipedia.org/wiki/富士の雪 "wikilink")」 | [林家時蔵](../Page/林家時蔵.md "wikilink")「[権助芝居](https://ja.wikipedia.org/wiki/権助芝居 "wikilink")」                            |
@@ -255,7 +255,7 @@
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
 <td><p>ラフレクラン</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ゾフィー_(お笑いコンビ)" title="wikilink">ゾフィー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/堀川絵美" title="wikilink">堀川絵美</a><br />
+<td><p><a href="../Page/堀川絵美.md" title="wikilink">堀川絵美</a><br />
 インディアンス<br />
 <a href="https://ja.wikipedia.org/wiki/隣人_(お笑いコンビ)" title="wikilink">隣人</a></p>
 <hr/>
@@ -338,7 +338,7 @@
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
 <td><p><a href="../Page/桂華紋.md" title="wikilink">桂華紋</a>「ふぐ鍋」</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/古今亭志ん吉" title="wikilink">古今亭志ん吉</a><br />
-<a href="https://ja.wikipedia.org/wiki/笑福亭笑利" title="wikilink">笑福亭笑利</a><br />
+<a href="../Page/笑福亭笑利.md" title="wikilink">笑福亭笑利</a><br />
 <a href="https://ja.wikipedia.org/wiki/立川こはる" title="wikilink">立川こはる</a><br />
 <a href="https://ja.wikipedia.org/wiki/露の紫" title="wikilink">露の紫</a><br />
 <a href="https://ja.wikipedia.org/wiki/柳亭市弥" title="wikilink">柳亭市弥</a></p></td>
@@ -359,9 +359,8 @@
 
 ## 外部リンク
 
-  - [令和元年度 NHK新人お笑い大賞 - NHK](http://www4.nhk.or.jp/P2779/)
-  - [令和元年度 NHK新人落語大賞 - NHK](http://www4.nhk.or.jp/P3306/)
-
+  -
+  -
 [Category:NHK杯](https://ja.wikipedia.org/wiki/Category:NHK杯 "wikilink") [Category:演芸の賞](https://ja.wikipedia.org/wiki/Category:演芸の賞 "wikilink") [Category:お笑いのコンテスト](https://ja.wikipedia.org/wiki/Category:お笑いのコンテスト "wikilink")
 
 1.

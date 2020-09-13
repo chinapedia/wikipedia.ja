@@ -5,13 +5,13 @@
 
 ## 概要
 
-本作は、[宮藤官九郎](../Page/宮藤官九郎.md "wikilink")が[シナリオ](https://ja.wikipedia.org/wiki/シナリオ "wikilink")を執筆したもので、[サラリーマン](../Page/サラリーマン.md "wikilink")鬼塚公彦（[阿部サダヲ](../Page/阿部サダヲ.md "wikilink")）が[京都](../Page/京都市.md "wikilink")・[祇園](../Page/祇園.md "wikilink")の[舞妓](../Page/舞妓.md "wikilink")と[野球拳](../Page/野球拳.md "wikilink")をしたいという夢を追い求めるというコメディ映画である。宮藤本人は京都には訪れず[るるぶ](../Page/るるぶ.md "wikilink")を見て脚本を書き上げた。主演は[阿部サダヲ](../Page/阿部サダヲ.md "wikilink")、[堤真一](../Page/堤真一.md "wikilink")、[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")の三人。阿部にとっては、映画初主演作となる。本作が[植木等](https://ja.wikipedia.org/wiki/植木等 "wikilink")の最後の映画出演作品（遺作）となった。
+本作は、[宮藤官九郎](../Page/宮藤官九郎.md "wikilink")が[シナリオ](https://ja.wikipedia.org/wiki/シナリオ "wikilink")を執筆したもので、[サラリーマン](../Page/サラリーマン.md "wikilink")鬼塚公彦（[阿部サダヲ](../Page/阿部サダヲ.md "wikilink")）が[京都](../Page/京都市.md "wikilink")・[祇園](../Page/祇園.md "wikilink")の[舞妓](../Page/舞妓.md "wikilink")と[野球拳](../Page/野球拳.md "wikilink")をしたいという夢を追い求めるというコメディ映画である。宮藤本人は京都には訪れず『[るるぶ](../Page/るるぶ.md "wikilink")』を見て脚本を書き上げた。主演は[阿部サダヲ](../Page/阿部サダヲ.md "wikilink")、[堤真一](../Page/堤真一.md "wikilink")、[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")の三人。阿部にとっては、映画初主演作となる。本作が[植木等](https://ja.wikipedia.org/wiki/植木等 "wikilink")の最後の映画出演作品（遺作）となった。
 
 2008年3月、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")ビズピクチャーズ配給で、[ニューヨーク](../Page/ニューヨーク.md "wikilink")や[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")など主要5都市を皮切りに全米で公開された。
 
 DVDは2007年12月7日にレンタル開始、12月12日に発売開始。
 
-[第31回日本アカデミー賞](../Page/第31回日本アカデミー賞.md "wikilink")主演男優賞、助演男優賞、脚本賞優秀賞。
+[第31回日本アカデミー賞](../Page/第31回日本アカデミー賞.md "wikilink")優秀主演男優賞（阿部サダヲ）、優秀助演男優賞（堤真一）、優秀脚本賞（宮藤官九郎）。
 
 ## あらすじ
 

@@ -47,7 +47,7 @@
 
 本作を受けてのツアーは、『**GUITARHYTHM WILD TOUR**』と題し、1992年[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")の[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")を皮切りに、21都市39公演を行っている。本ツアー中に布袋本人が右手を骨折したため、[11月27日](../Page/11月27日.md "wikilink")の[札幌市民会館を最後に](../Page/札幌市民ホール.md "wikilink")、1992年の予定は全て1993年に持ち越された。本ツアーの模様は1993年[2月27日](../Page/2月27日.md "wikilink")、[2月28日](../Page/2月28日.md "wikilink")に行われた[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")公演を収録したライブ・アルバム『[GUITARHYTHM WILD](../Page/GUITARHYTHM_WILD.md "wikilink")』（1993年）とライブ・ビデオ『GUITARHYTHM WILD』（1993年）がリリースされている。
 
-ツアーメンバーは前ツアーに引き続き、[成田忍](https://ja.wikipedia.org/wiki/成田忍 "wikilink")、[浅田孟](https://ja.wikipedia.org/wiki/浅田孟 "wikilink")、[椎野恭一](https://ja.wikipedia.org/wiki/椎野恭一 "wikilink")、[小森茂生](https://ja.wikipedia.org/wiki/小森茂生 "wikilink")の4名。
+ツアーメンバーは前ツアーに引き続き、[成田忍](https://ja.wikipedia.org/wiki/成田忍 "wikilink")、[浅田孟](https://ja.wikipedia.org/wiki/浅田孟 "wikilink")、[椎野恭一](../Page/椎野恭一.md "wikilink")、[小森茂生](https://ja.wikipedia.org/wiki/小森茂生 "wikilink")の4名。
 
 レコーディングで使用した[ゼマティス](../Page/ゼマティス.md "wikilink")のPEARL FRONT CUSTOM DELUXE WILDをツアーのメインギターとして使用する為、ボディの裏側にベルトのバックルでわざと傷をつけたというエピソードがある。それまでは芸術的な装飾と新車1台が買えてしまうほどの値段から慎重に扱っていたが、ツアーで思い切り弾き倒せるように傷をつけたとのこと\[8\]。
 
@@ -65,7 +65,7 @@
       -
         酔っ払った状態で制作した為、レコーディング時に曲の内容を思い出せなかったという珍エピソードがある。
         当初メロディは[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")にしようと考えていたが、ひとまずガイドでギターを入れたら「OKテイクだよ」となってしまったという。
-        ちなみに「MILK BAR」とは布袋が好きな『[時計仕掛けのオレンジ](https://ja.wikipedia.org/wiki/時計仕掛けのオレンジ "wikilink")』より引用。
+        ちなみに「MILK BAR」とは布袋が好きな『[時計じかけのオレンジ](../Page/時計じかけのオレンジ.md "wikilink")』より引用。
 2.  **UPSIDE-DOWN**
       -
         布袋が[グレッチ](../Page/グレッチ.md "wikilink")を使用したくて書いた楽曲。大半はWhite Falconで、途中で絡む[ワウがCountry](../Page/アーミング.md "wikilink") Gentlemanとのこと。
@@ -118,7 +118,7 @@
 ### 参加ミュージシャン
 
   - **布袋寅泰** - [ギター](../Page/ギター.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[コンピュータープログラミング](../Page/ミュージックシーケンサー.md "wikilink")
-  - **[椎野恭一](https://ja.wikipedia.org/wiki/椎野恭一 "wikilink")** - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")
+  - **[椎野恭一](../Page/椎野恭一.md "wikilink")** - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")
   - **[浅田孟](https://ja.wikipedia.org/wiki/浅田孟 "wikilink")** - [ベース](../Page/エレクトリックベース.md "wikilink")
   - **[小森茂生](https://ja.wikipedia.org/wiki/小森茂生 "wikilink")** - キーボード
   - **[梅崎俊春](https://ja.wikipedia.org/wiki/梅崎俊春 "wikilink")** - [コンピュータ](../Page/コンピュータ.md "wikilink")プログラミング
@@ -173,9 +173,9 @@
 
 1.  「PATi PATi」 1992年10月号
 2.  ROCKIN′ON JAPAN 1992年9月号
-3.  ライブビデオ『GUITARHYTHM active tour '91-'92』（1992年）内のインタビューより
-4.  「PATi PATi」 1992年3月号
-5.
+3.
+4.  ライブビデオ『GUITARHYTHM active tour '91-'92』（1992年）内のインタビューより
+5.  「PATi PATi」 1992年3月号
 6.  ちなみに布袋は8th『[SCORPIO RISING](../Page/SCORPIO_RISING.md "wikilink")』でも同作をタイトルとして引用している。
 7.  布袋寅泰、ハービー山口、森永博志 『よい夢を、おやすみ。』より
 8.

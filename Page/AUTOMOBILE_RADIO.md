@@ -42,6 +42,6 @@
 
 ## 外部リンク
 
-  - [81.3 FM J-WAVE : AUTOMOBILE RADIO](http://web.archive.org/web/20100502070455/http://www.j-wave.co.jp/original/automobile/) - 公式ウェブサイト。閉鎖（2010年5月2日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [81.3 FM J-WAVE : AUTOMOBILE RADIO](https://web.archive.org/web/20100502070455/http://www.j-wave.co.jp/original/automobile/) - 公式ウェブサイト。閉鎖（2010年5月2日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
 [Category:J-WAVEの番組の歴史](https://ja.wikipedia.org/wiki/Category:J-WAVEの番組の歴史 "wikilink") [Category:ZIP-FMの番組](https://ja.wikipedia.org/wiki/Category:ZIP-FMの番組 "wikilink") [Category:JFL系ラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:JFL系ラジオの音楽番組の歴史 "wikilink") [Category:JFL系ラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:JFL系ラジオの一社提供番組 "wikilink") [Category:2003年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のラジオ番組_\(日本\) "wikilink") [Category:ブリヂストンの歴史](https://ja.wikipedia.org/wiki/Category:ブリヂストンの歴史 "wikilink") [Category:自動車番組](https://ja.wikipedia.org/wiki/Category:自動車番組 "wikilink") [Category:日本のモータースポーツ番組](https://ja.wikipedia.org/wiki/Category:日本のモータースポーツ番組 "wikilink") [Category:ラジオのスポーツ番組_(日本)](https://ja.wikipedia.org/wiki/Category:ラジオのスポーツ番組_\(日本\) "wikilink")

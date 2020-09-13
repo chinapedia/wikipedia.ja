@@ -52,8 +52,9 @@
 
 ## 外部リンク
 
-  - [インターネットラジオステーション＜音泉＞](http://onsen.ag/)
+  -
   - [オフィシャルサポーターズコミュニティサイトBEWE](http://www.bewe.sc/)
+
       - [Splash Candy.com Splash Candy公式サイト](http://www.splashcandy.com/)
       - [SPLASH CANDY BLOG](http://blog.livedoor.jp/splashcandy/)
       - [アニたまどっとこむ](http://www.anitama.com)

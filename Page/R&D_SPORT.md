@@ -59,11 +59,9 @@ SUPER GTにおける体制面やドライバーやマシンは前年と変わら
 
 またこの年には、[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")に参戦する[東海大学](../Page/東海大学.md "wikilink")チームの監督を務める[林義正](../Page/林義正.md "wikilink")から支援を求められ、同チームにメカニックの派遣等の協力を行っている。
 
-[200px](https://ja.wikipedia.org/wiki/ファイル:Subaru_LegacyB4_SuperGT2009.jpg "wikilink") [スバル・レガシィ](../Page/スバル・レガシィ.md "wikilink")B4（2009年仕様）\]\]
-
 ### 2009年
 
-RD408Rから、[スバル・レガシィ B4に車両を変更し](https://ja.wikipedia.org/wiki/スバル・レガシィ#5.E4.BB.A3.E7.9B.AEBM.E3.83.BBBR.E5.9E.8B.282009.E5.B9.B4-.29 "wikilink")、第6戦鈴鹿より出場した。デビュー戦では予選中にフロントデフのトラブルにより出火し、出走を取りやめた。その後も開発を進めたが、目立った結果を出せなかった。
+[200px](https://ja.wikipedia.org/wiki/ファイル:Subaru_LegacyB4_SuperGT2009.jpg "wikilink") [スバル・レガシィ](../Page/スバル・レガシィ.md "wikilink")B4（2009年仕様）\]\] RD408Rから、[スバル・レガシィ B4に車両を変更し](https://ja.wikipedia.org/wiki/スバル・レガシィ#5.E4.BB.A3.E7.9B.AEBM.E3.83.BBBR.E5.9E.8B.282009.E5.B9.B4-.29 "wikilink")、第6戦鈴鹿より出場した。デビュー戦では予選中にフロントデフのトラブルにより出火し、出走を取りやめた。その後も開発を進めたが、目立った結果を出せなかった。
 
 また、同年7月27日には2008年3月末時点で東京R\&Dから完全に独立していたことを明らかにした。
 
@@ -73,11 +71,11 @@ RD408Rから、[スバル・レガシィ B4に車両を変更し](https://ja.wik
 
 ### 2011年
 
-[Subaru_BRZ_R\&D_Sport_2012_Super_GT_Sugo_free_practice.jpg](https://ja.wikipedia.org/wiki/File:Subaru_BRZ_R&D_Sport_2012_Super_GT_Sugo_free_practice.jpg "fig:Subaru_BRZ_R&D_Sport_2012_Super_GT_Sugo_free_practice.jpg") R\&D SPORT\]\] 前年と全く同じ体制・ドライバー・マシンでの参戦となった。この年はラウンドを重ねるごとに速さを見せて行き、第5戦鈴鹿と第7戦オートポリスの2勝を上げたものの、第2戦と第4戦でのノーポイントが響きチャンピオン争いには加わる事が出来なかった。
+前年と全く同じ体制・ドライバー・マシンでの参戦となった。この年はラウンドを重ねるごとに速さを見せて行き、第5戦鈴鹿と第7戦オートポリスの2勝を上げたものの、第2戦と第4戦でのノーポイントが響きチャンピオン争いには加わる事が出来なかった。
 
 ### 2012年
 
-ドライバーは前年から継続であるが、マシンは[スバル・BRZ](https://ja.wikipedia.org/wiki/スバル・BRZ "wikilink")へと変更され、マシン開発を[STIが担当しR](../Page/スバルテクニカインターナショナル.md "wikilink")\&Dはチーム運営を担当するというかたちでのジョイント参戦となる。
+[Subaru_BRZ_R\&D_Sport_2012_Super_GT_Sugo_free_practice.jpg](https://ja.wikipedia.org/wiki/File:Subaru_BRZ_R&D_Sport_2012_Super_GT_Sugo_free_practice.jpg "fig:Subaru_BRZ_R&D_Sport_2012_Super_GT_Sugo_free_practice.jpg") R\&D SPORT\]\] ドライバーは前年から継続であるが、マシンは[スバル・BRZ](https://ja.wikipedia.org/wiki/スバル・BRZ "wikilink")へと変更され、マシン開発を[STIが担当しR](../Page/スバルテクニカインターナショナル.md "wikilink")\&Dはチーム運営を担当するというかたちでのジョイント参戦となる。
 
 ### 2013年
 
@@ -93,7 +91,7 @@ RD408Rから、[スバル・レガシィ B4に車両を変更し](https://ja.wik
 
 ### 2016年
 
-菅生で今季初の表彰台に続き富士でも同じく3位を獲得し、鈴鹿1000kmレースで今季初優勝を飾った。
+菅生で今季初の表彰台に続き富士でも同じく3位を獲得し、鈴鹿1000kmレースで今季初優勝を飾った。鈴鹿での優勝により、ランキングトップに立ったが第7戦にてクラッシュによりリタイア。[熊本地震](https://ja.wikipedia.org/wiki/熊本地震 "wikilink")によって中止となった第3戦の代替レースではライバルと接触しリタイア、最終戦で順位を落とし、チャンピオン獲得はならなかった。
 
 ### 2018年
 
@@ -102,6 +100,10 @@ RD408Rから、[スバル・レガシィ B4に車両を変更し](https://ja.wik
 ### 2019年
 
 今季初菅生でのポール獲得、コースレコード更新の快挙を達成した。
+
+### 2020年
+
+第2戦富士にて今季初の表彰台獲得した。
 
 ## 脚注
 

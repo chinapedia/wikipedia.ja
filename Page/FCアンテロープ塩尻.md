@@ -7,7 +7,7 @@
 
 ## 歴史
 
-  - [1955年](../Page/1955年.md "wikilink")：長野県教員のクラブ「長野教員クラブ」として誕生。
+  - [1955年](../Page/1955年.md "wikilink")：長野県教員のクラブ「**長野教員クラブ**」として誕生。
   - [1977年](../Page/1977年.md "wikilink") ：[北信越サッカーリーグに昇格](../Page/北信越フットボールリーグ.md "wikilink")。この年の成績は4勝1分4敗で10チーム中4位。
   - [1979年](../Page/1979年.md "wikilink") ：北信越リーグで2勝2分5敗で10チーム中9位に終わり、長野県リーグへ降格。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") ：チーム名を**FCアンテロープ**に改称。
@@ -48,6 +48,11 @@
 
   - **[北信越フットボールリーグ](../Page/北信越フットボールリーグ.md "wikilink")2部**
       - 準優勝：3回 (2004年、2009年、2011年)
+
+### カップ戦
+
+  - **[長野県サッカー選手権大会](https://ja.wikipedia.org/wiki/長野県サッカー選手権大会 "wikilink")（兼[天皇杯長野県予選](../Page/天皇杯_JFA_全日本サッカー選手権大会.md "wikilink")）：1回**
+      - 2005年
 
 ## 所属選手・スタッフ
 
@@ -355,7 +360,7 @@
   - [公式サイト](http://fcantelope.com/)
 
   -
-[Category:長野県のサッカークラブ](https://ja.wikipedia.org/wiki/Category:長野県のサッカークラブ "wikilink") [Category:塩尻市](https://ja.wikipedia.org/wiki/Category:塩尻市 "wikilink") [Category:特定非営利活動法人_(スポーツ関係)](https://ja.wikipedia.org/wiki/Category:特定非営利活動法人_\(スポーツ関係\) "wikilink")
+[Category:長野県のサッカークラブ](https://ja.wikipedia.org/wiki/Category:長野県のサッカークラブ "wikilink") [Category:塩尻市のスポーツ](https://ja.wikipedia.org/wiki/Category:塩尻市のスポーツ "wikilink") [Category:特定非営利活動法人_(スポーツ関係)](https://ja.wikipedia.org/wiki/Category:特定非営利活動法人_\(スポーツ関係\) "wikilink")
 
 1.  [Ｊ３目指しＮＰＯ設立　「アンテロープ塩尻」の運営母体に](http://www.shinmai.co.jp/soccer/2014/04/post-890.html) 信濃毎日新聞2014年4月2日
 2.

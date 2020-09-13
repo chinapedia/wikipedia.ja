@@ -60,7 +60,7 @@
 
 ## 外部リンク
 
-  - [スポーツナビによる試合結果](http://web.archive.org/web/20120418024402/http://sportsnavi.yahoo.co.jp/fight/pride/live/200208/28/020828_atop.html)
+  - [スポーツナビによる試合結果](https://web.archive.org/web/20120418024402/http://sportsnavi.yahoo.co.jp/fight/pride/live/200208/28/020828_atop.html)
   - [バウトレビューによる試合結果](http://www.boutreview.com/data/reports/1030525619.html)
   - [日刊スポーツによる試合結果](http://www.nikkansports.com/ns/battle/2002/else_0828.html)
   - [SHERDOGによる試合結果](http://www.sherdog.com/events/PRIDE-Shockwave-1032)

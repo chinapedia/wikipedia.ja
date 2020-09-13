@@ -1,13 +1,13 @@
 > この記事は[Toll様受容体](https://ja.wikipedia.org/wiki/Toll様受容体)から翻訳されています。
 
 
-[_2z7x.jpg](https://ja.wikipedia.org/wiki/File:_2z7x.jpg "fig:_2z7x.jpg") [250px](https://ja.wikipedia.org/wiki/画像:Toll-like_receptor_pathways_revised.jpg "wikilink") **Toll様受容体**（トルようじゅようたい、Toll-like receptor：**TLR**と略す）は[動物](https://ja.wikipedia.org/wiki/動物 "wikilink")の[細胞](../Page/細胞.md "wikilink")表面にある[受容体](../Page/受容体.md "wikilink")[タンパク質](../Page/タンパク質.md "wikilink")で、種々の[病原体](https://ja.wikipedia.org/wiki/病原体 "wikilink")を感知して[自然免疫](https://ja.wikipedia.org/wiki/自然免疫 "wikilink")（[獲得免疫](https://ja.wikipedia.org/wiki/獲得免疫 "wikilink")と異なり、一般の病原体を排除する非特異的な[免疫](https://ja.wikipedia.org/wiki/免疫 "wikilink")作用）を作動させる機能がある。[脊椎動物](../Page/脊椎動物.md "wikilink")では、獲得免疫が働くためにもToll様受容体などを介した自然免疫の作動が必要である。
+[_2z7x.jpg](https://ja.wikipedia.org/wiki/File:_2z7x.jpg "fig:_2z7x.jpg") [250px](https://ja.wikipedia.org/wiki/画像:Toll-like_receptor_pathways_revised.jpg "wikilink") **Toll様受容体**（トルようじゅようたい、Toll-like receptor：**TLR**と略す）は[動物](https://ja.wikipedia.org/wiki/動物 "wikilink")の[細胞](../Page/細胞.md "wikilink")表面にある[受容体](../Page/受容体.md "wikilink")[タンパク質](../Page/タンパク質.md "wikilink")で、種々の[病原体](../Page/病原体.md "wikilink")を感知して[自然免疫](https://ja.wikipedia.org/wiki/自然免疫 "wikilink")（[獲得免疫](https://ja.wikipedia.org/wiki/獲得免疫 "wikilink")と異なり、一般の病原体を排除する非特異的な[免疫](https://ja.wikipedia.org/wiki/免疫 "wikilink")作用）を作動させる機能がある。[脊椎動物](../Page/脊椎動物.md "wikilink")では、獲得免疫が働くためにもToll様受容体などを介した自然免疫の作動が必要である。
 
 TLRまたはTLR類似の[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")は、[哺乳類](https://ja.wikipedia.org/wiki/哺乳類 "wikilink")やその他の[脊椎動物](../Page/脊椎動物.md "wikilink")（[インターロイキン](../Page/インターロイキン.md "wikilink")1受容体も含む）、また[昆虫](../Page/昆虫.md "wikilink")などにもあり、最近では[植物](../Page/植物.md "wikilink")にも類似のものが見つかっていて、[進化](../Page/進化.md "wikilink")的起源は[ディフェンシン](https://ja.wikipedia.org/wiki/ディフェンシン "wikilink")（細胞の出す抗菌性ペプチド）などと並び非常に古いと思われる。さらにTLRの一部分にだけ相同性を示すタンパク質（RP105など）もある。
 
 TLRやその他の自然免疫に関わる受容体は、病原体に常に存在し（進化上保存されたもの）、しかも病原体に特異的な（宿主にはない）パターンを認識するものでなければならない。そのためにTLRは、[細菌](../Page/細菌.md "wikilink")表面の[リポ多糖](https://ja.wikipedia.org/wiki/リポ多糖 "wikilink")（LPS）、[リポタンパク質](../Page/リポタンパク質.md "wikilink")、[鞭毛](../Page/鞭毛.md "wikilink")の[フラジェリン](../Page/フラジェリン.md "wikilink")、[ウイルス](../Page/ウイルス.md "wikilink")の二本鎖[RNA](../Page/リボ核酸.md "wikilink")、細菌やウイルスの[DNAに含まれる非](../Page/デオキシリボ核酸.md "wikilink")[メチル化](https://ja.wikipedia.org/wiki/DNAメチル化 "wikilink")[CpGアイランド](https://ja.wikipedia.org/wiki/CpGアイランド "wikilink")（宿主のCpG配列は[メチル化されているので区別できる](https://ja.wikipedia.org/wiki/DNAメチル化 "wikilink")）などを認識するようにできている。
 
-TLRは特定の[分子](../Page/分子.md "wikilink")を認識するのでなく、上記のようなある一群の分子を認識するの一種である。
+TLRは特定の[分子](../Page/分子.md "wikilink")を認識するのでなく、上記のようなある一群の分子を認識する[パターン認識受容体](../Page/パターン認識受容体.md "wikilink")の一種である。
 
 ## 研究史
 

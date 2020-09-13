@@ -112,6 +112,7 @@ Shuzilow.HAが企画原案を務める『[SoltyRei](../Page/SoltyRei.md "wikilin
   - [真マジンガー 衝撃\! Z編](https://ja.wikipedia.org/wiki/真マジンガー_衝撃!_Z編 "wikilink") （2009年、作画監督）
   - [きんぎょすくい](https://ja.wikipedia.org/wiki/きんぎょすくい "wikilink") iPhone/iPod Touchアプリ （2009年、グラフィックデザイン）
   - [スチームパイロッツ](../Page/スチームパイロッツ.md "wikilink") （2020年夏予定、キャラクターデザイン）
+  - [アステリアの翼](https://ja.wikipedia.org/wiki/アステリアの翼 "wikilink") （2021年予定、キャラクターデザイン）
 
 ### OOBOKE　HAMAKAWA名義
 

@@ -149,13 +149,15 @@
 
 **2020年**
 
-  - 1月1日 結成20周年に伴い、通算6枚目となるオリジナルアルバム「[The Age of Dragon Knights](https://ja.wikipedia.org/wiki/The_Age_of_Dragon_Knights "wikilink")」をリリース。
-    本アルバムでは、[ALI PROJECT](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")、[angela](https://ja.wikipedia.org/wiki/angela "wikilink")、[梶浦由記](https://ja.wikipedia.org/wiki/梶浦由記 "wikilink")、[GRANRODEO](../Page/GRANRODEO.md "wikilink")、[寺田志保](../Page/寺田志保.md "wikilink")、[畑亜貴](../Page/畑亜貴.md "wikilink")、[FLOW](../Page/FLOW.md "wikilink")、[宮崎誠](https://ja.wikipedia.org/wiki/宮崎誠 "wikilink")、[R・O・N](../Page/R・O・N.md "wikilink")など各アーティストから楽曲が提供されており、
+  - 1月1日 結成20周年に伴い、通算6枚目となるオリジナルアルバム「[The Age of Dragon Knights](../Page/The_Age_of_Dragon_Knights.md "wikilink")」をリリース。
+    本アルバムでは、[ALI PROJECT](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")、[angela](../Page/Angela_\(音楽ユニット\).md "wikilink")、[梶浦由記](https://ja.wikipedia.org/wiki/梶浦由記 "wikilink")、[GRANRODEO](../Page/GRANRODEO.md "wikilink")、[寺田志保](../Page/寺田志保.md "wikilink")、[畑亜貴](../Page/畑亜貴.md "wikilink")、[FLOW](../Page/FLOW.md "wikilink")、[宮崎誠](https://ja.wikipedia.org/wiki/宮崎誠 "wikilink")、[R・O・N](../Page/R・O・N.md "wikilink")など各アーティストから楽曲が提供されており、
     バラエティに富んだアルバムとなっている。また同日には「20th Anniversary Complete BOX」も発売された。
 
 ## ディスコグラフィ
 
 ### シングル
+
+※ベストアルバム未収録曲（2020年8月7日時点）
 
 <table>
 <thead>
@@ -163,6 +165,7 @@
 <th><p>枚</p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
+<th><p>収録曲</p></th>
 <th><p>規格品番</p></th>
 <th><p>最高位</p></th>
 </tr>
@@ -172,6 +175,7 @@
 <td><p>1st</p></td>
 <td><p>2000年7月26日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/疾風になれ" title="wikilink">疾風になれ</a></strong></p></td>
+<td><p>「疾風になれ」「CRAZY REVOLUTION」</p></td>
 <td><p>LADA-1002</p></td>
 <td></td>
 </tr>
@@ -179,6 +183,7 @@
 <td><p>2nd</p></td>
 <td><p>2000年11月22日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Danger_Zone" title="wikilink">Danger Zone</a></strong></p></td>
+<td><p>「Danger Zone」「It's Emotion」<sup>※</sup></p></td>
 <td><p>LACM-4002</p></td>
 <td></td>
 </tr>
@@ -186,6 +191,7 @@
 <td><p>3rd</p></td>
 <td><p>2000年12月21日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/STORM_(JAM_Projectの曲)" title="wikilink">STORM</a></strong></p></td>
+<td><p>「STORM」「RISING」</p></td>
 <td><p>LADA-1006</p></td>
 <td></td>
 </tr>
@@ -193,6 +199,7 @@
 <td><p>4th</p></td>
 <td><p>2001年4月21日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/SOULTAKER" title="wikilink">SOULTAKER</a></strong></p></td>
+<td><p>「SOULTAKER」「KI・ZU・NA」</p></td>
 <td><p>VICL-35252</p></td>
 <td></td>
 </tr>
@@ -200,14 +207,15 @@
 <td><p>5th</p></td>
 <td><p>2001年4月25日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/鋼の救世主" title="wikilink">鋼の救世主</a></strong></p></td>
+<td><p>「鋼の救世主」「POWER」</p></td>
 <td><p>LACM-4010</p></td>
 <td><p>75位</p></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
 <td><p>2001年9月29日</p></td>
-<td><p><strong>FIRE WARS<br />
-/ TORNADO</strong></p></td>
+<td><p><strong>FIRE WARS / TORNADO</strong></p></td>
+<td><p>「FIRE WARS」「TORNADO」</p></td>
 <td><p>LACM-4027</p></td>
 <td></td>
 </tr>
@@ -216,11 +224,14 @@
 <td><p>2001年10月30日</p></td>
 <td><p>'''CRUSH GEAR FIGHT</p></td>
 <td><p>'''</p></td>
-<td><p>LACM-4032</p></td>
+<td><p>「CRUSH GEAR FIGHT</p></td>
+<td><p>」<br />
+「愛だよねっ</p></td>
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
 <td><p>''' Over the Top! '''</p></td>
+<td><p>「Over the Top!」「In my Heart」</p></td>
 <td><p>LACM-4034</p></td>
 <td></td>
 <td></td>
@@ -229,6 +240,7 @@
 <td><p>9th</p></td>
 <td><p>2001年11月29日</p></td>
 <td><p><strong>LADY FIGHTER!</strong></p></td>
+<td><p>「LADY FIGHTER!」「運命の糸」</p></td>
 <td><p>LACM-4037</p></td>
 <td></td>
 </tr>
@@ -236,20 +248,26 @@
 <td><p>10th</p></td>
 <td><p>2002年4月3日</p></td>
 <td><p><strong>風のEAGLE</strong></p></td>
+<td><p>「風のEAGLE」<br />
+「Alright now!」<br />
+「CRUSH GEAR FIGHT</p></td>
+<td><p>(remix version)」</p></td>
 <td><p>LACM-4050</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>11th</p></td>
 <td><p>2002年4月24日</p></td>
 <td><p>'''GO</p></td>
 <td><p>'''</p></td>
-<td><p>LACM-4051</p></td>
+<td><p>「GO</p></td>
+<td><p>」「DEPARTURE」</p></td>
 </tr>
 <tr class="even">
 <td><p>12th</p></td>
 <td><p>2002年7月24日</p></td>
 <td><p>''' GET UP CRUSH FIGHTER! '''</p></td>
+<td><p>「GET UP CRUSH FIGHTER!」<br />
+「Alright now! (Movie Re-mix ver.)」</p></td>
 <td><p>LACM-4066</p></td>
 <td></td>
 </tr>
@@ -257,6 +275,8 @@
 <td><p>13th</p></td>
 <td><p>2002年10月23日</p></td>
 <td><p>''' 嘆きのロザリオ '''</p></td>
+<td><p>「嘆きのロザリオ!」<br />
+「合神!ゴッドグラヴィオン (feat.遠藤正明)」</p></td>
 <td><p>LACM-4075</p></td>
 <td><p>58位</p></td>
 </tr>
@@ -264,6 +284,8 @@
 <td><p>14th</p></td>
 <td><p>2003年2月26日</p></td>
 <td><p>''' Go!Go!レスキュー '''</p></td>
+<td><p>「GO!GO!レスキュー」<br />
+「マーチ オブ レスキューヒーロー」</p></td>
 <td><p>LACM-4086</p></td>
 <td></td>
 </tr>
@@ -271,12 +293,14 @@
 <td><p>15th</p></td>
 <td><p>2003年4月23日</p></td>
 <td><p><strong>Little Wing</strong></p></td>
+<td><p>「Little Wing」「In the Chaos」</p></td>
 <td><p>LACM-4089</p></td>
 <td><p>45位</p></td>
 </tr>
 <tr class="even">
 <td><p>16th</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/SKILL_(JAM_Projectの曲)" title="wikilink">SKILL</a></strong></p></td>
+<td><p>「SKILL」「FOREVER&amp;EVER」</p></td>
 <td><p>LACM-4090</p></td>
 <td><p>25位</p></td>
 <td></td>
@@ -285,13 +309,17 @@
 <td><p>17th</p></td>
 <td><p>2003年8月6日</p></td>
 <td><p><strong>The Gate of the Hell</strong></p></td>
+<td><p>「The Gate of the Hell」<br />
+「戦士よ 眠れ…」<br />
+「魔神見参</p></td>
+<td><p>」</p></td>
 <td><p>LACM-4098</p></td>
-<td><p>88位</p></td>
 </tr>
 <tr class="even">
 <td><p>18th</p></td>
 <td><p>2003年9月26日</p></td>
 <td><p><strong>Destination</strong></p></td>
+<td><p>「Destination」「Promise～未来への誓い～」</p></td>
 <td><p>LACM-4105</p></td>
 <td></td>
 </tr>
@@ -299,19 +327,22 @@
 <td><p>19th</p></td>
 <td><p>2004年1月21日</p></td>
 <td><p><strong>紅ノ牙</strong></p></td>
+<td><p>「紅ノ牙」「炎皇合神！ソルグラヴィオン</p></td>
+<td><p>」</p></td>
 <td><p>LACM-4119</p></td>
-<td><p>37位</p></td>
 </tr>
 <tr class="even">
 <td><p>20th</p></td>
 <td><p>2004年4月21日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/VICTORY_(JAM_Projectの曲)" title="wikilink">VICTORY</a></strong></p></td>
+<td><p>「VICTORY」「約束の地」</p></td>
 <td><p>LACM-4127</p></td>
 <td><p>38位</p></td>
 </tr>
 <tr class="odd">
 <td><p>21st</p></td>
 <td><p>''' DRAGON '''</p></td>
+<td><p>「DRAGON STORM 2007」「No Serenity」</p></td>
 <td><p>LACM-4128</p></td>
 <td><p>64位</p></td>
 <td></td>
@@ -320,6 +351,7 @@
 <td><p>22nd</p></td>
 <td><p>2004年5月26日</p></td>
 <td><p>''' VOYAGER '''</p></td>
+<td><p>「VOYAGER」</p></td>
 <td><p>LACM-4133</p></td>
 <td><p>88位</p></td>
 </tr>
@@ -327,13 +359,16 @@
 <td><p>23rd</p></td>
 <td><p>2004年11月26日</p></td>
 <td><p>''' <a href="https://ja.wikipedia.org/wiki/限界バトル" title="wikilink">限界バトル</a> '''</p></td>
+<td><p>「限界バトル」「Battle Communication</p></td>
+<td><p>」</p></td>
 <td><p>LACM-4165</p></td>
-<td><p>115位</p></td>
 </tr>
 <tr class="even">
 <td><p>24th</p></td>
 <td><p>2005年6月22日</p></td>
 <td><p>''' 迷宮のプリズナー '''</p></td>
+<td><p>「迷宮のプリズナー」<br />
+「熱風！疾風！サイバスター」</p></td>
 <td><p>LACM-4195</p></td>
 <td><p>68位</p></td>
 </tr>
@@ -341,6 +376,7 @@
 <td><p>25th</p></td>
 <td><p>2005年8月3日</p></td>
 <td><p><em>' <a href="https://ja.wikipedia.org/wiki/GONG_(JAM_Projectの曲)" title="wikilink">GONG</a></em>'</p></td>
+<td><p>「GONG」「Brother in Faith」</p></td>
 <td><p>LACM-4210</p></td>
 <td><p>22位</p></td>
 </tr>
@@ -348,6 +384,8 @@
 <td><p>26th</p></td>
 <td><p>2006年1月25日</p></td>
 <td><p><strong>牙狼 〜SAVIOR IN THE DARK〜</strong></p></td>
+<td><p>「牙狼～SAVIOR IN THE DARK～」<br />
+「Fencer of GOLD」</p></td>
 <td><p>LACM-4225</p></td>
 <td><p>41位</p></td>
 </tr>
@@ -355,6 +393,7 @@
 <td><p>27th</p></td>
 <td><p>2006年11月1日</p></td>
 <td><p>''' Break Out '''</p></td>
+<td><p>「Break Out」「The everlasting」</p></td>
 <td><p>LACM-4310</p></td>
 <td><p>24位</p></td>
 </tr>
@@ -362,6 +401,7 @@
 <td><p>28th</p></td>
 <td><p>2007年2月21日</p></td>
 <td><p><strong>RISING FORCE</strong></p></td>
+<td><p>「RISING FORCE」「Fight to the end～聖戦～」</p></td>
 <td><p>LACM-4344</p></td>
 <td><p>40位</p></td>
 </tr>
@@ -369,12 +409,14 @@
 <td><p>29th</p></td>
 <td><p>2007年4月25日</p></td>
 <td><p><strong>STORMBRINGER</strong></p></td>
+<td><p>「STORMBRINGER」「Dead or Alive」</p></td>
 <td><p>LACM-4360</p></td>
 <td><p>71位</p></td>
 </tr>
 <tr class="even">
 <td><p>30th</p></td>
 <td><p><strong>Divine love</strong></p></td>
+<td><p>「Divine love」「IN FATE」</p></td>
 <td><p>LACM-4361</p></td>
 <td><p>74位</p></td>
 <td></td>
@@ -383,6 +425,7 @@
 <td><p>31st</p></td>
 <td><p>2007年8月8日</p></td>
 <td><p><strong>Rocks</strong></p></td>
+<td><p>「Rocks」「Potal」</p></td>
 <td><p>LACM-4400</p></td>
 <td><p>36位</p></td>
 </tr>
@@ -390,6 +433,7 @@
 <td><p>32nd</p></td>
 <td><p>2008年1月23日</p></td>
 <td><p><strong>No Border</strong></p></td>
+<td><p>「No Border」「HERO」</p></td>
 <td><p>LACM-4452</p></td>
 <td><p>44位</p></td>
 </tr>
@@ -397,6 +441,7 @@
 <td><p>33rd</p></td>
 <td><p>2008年9月26日</p></td>
 <td><p><strong>Crest of “Z’s”</strong></p></td>
+<td><p>「Crest of　"Z's"」「Cosmic Dance」</p></td>
 <td><p>LACM-4530</p></td>
 <td><p>40位</p></td>
 </tr>
@@ -404,6 +449,8 @@
 <td><p>34th</p></td>
 <td><p>2008年10月22日</p></td>
 <td><p><strong>ハローダーウィン! 〜好奇心オンデマンド〜</strong></p></td>
+<td><p>「ハローダーウィン！～好奇心オンデマンド～」<br />
+「晴レルヤ！」</p></td>
 <td><p>LACM-4536</p></td>
 <td><p>76位</p></td>
 </tr>
@@ -411,6 +458,8 @@
 <td><p>35th</p></td>
 <td><p>2009年3月4日</p></td>
 <td><p><strong>Space Roller Coaster GO GO!</strong></p></td>
+<td><p>「Space Roller Coaster GO GO!」<br />
+「アスタマニア～ナ！！」</p></td>
 <td><p>LACM-4576</p></td>
 <td><p>115位</p></td>
 </tr>
@@ -418,6 +467,7 @@
 <td><p>36th</p></td>
 <td><p>2009年5月27日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/レスキューファイアー_(曲)" title="wikilink">レスキューファイアー</a></strong></p></td>
+<td><p>「レスキューファイアー」「Three Souls」</p></td>
 <td><p>LACM-4617</p></td>
 <td><p>62位</p></td>
 </tr>
@@ -425,6 +475,7 @@
 <td><p>37th</p></td>
 <td><p>2009年8月5日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/守護神-The_guardian" title="wikilink">守護神-The guardian</a></strong></p></td>
+<td><p>「守護神-The guardian」「Godest！」</p></td>
 <td><p>LACM-4632</p></td>
 <td><p>45位</p></td>
 </tr>
@@ -432,6 +483,7 @@
 <td><p>38th</p></td>
 <td><p>2009年10月7日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Battle_No_Limit!" title="wikilink">Battle No Limit!</a></strong></p></td>
+<td><p>「Battle No Limit!」「Bonds of Friendship」</p></td>
 <td><p>LACM-4654</p></td>
 <td><p>56位</p></td>
 </tr>
@@ -439,6 +491,10 @@
 <td><p>39th</p></td>
 <td><p>2009年10月28日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/冒険王_〜Across_the_Legendary_kingdom〜" title="wikilink">冒険王 〜Across the Legendary kingdom〜</a></strong></p></td>
+<td><p>「冒険王～Across the Legendary kingdom～」<br />
+「BIG BANG EXPLOSION～Song for Ragnarok Party～」<br />
+「冒険王～Across the Legendary kingdom～<br />
+（symphonic ver.）」</p></td>
 <td><p>LACM-4661</p></td>
 <td><p>18位</p></td>
 </tr>
@@ -446,6 +502,8 @@
 <td><p>40th</p></td>
 <td><p>2009年11月11日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/爆鎮完了!レスキューファイアー" title="wikilink">爆鎮完了!レスキューファイアー</a></strong></p></td>
+<td><p>「爆鎮完了！レスキューファイアー」<br />
+「いでよ ガイアレオン」<sup>※</sup></p></td>
 <td><p>LACM-4666</p></td>
 <td><p>63位</p></td>
 </tr>
@@ -453,6 +511,8 @@
 <td><p>41st</p></td>
 <td><p>2010年4月21日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/TRANSFORMERS_EVO." title="wikilink">TRANSFORMERS EVO.</a></strong></p></td>
+<td><p>「TRANSFORMERS EVO.」<br />
+「PRAISE BE TO DECEPTICON」</p></td>
 <td><p>LACM-4654</p></td>
 <td><p>47位</p></td>
 </tr>
@@ -460,6 +520,7 @@
 <td><p>42nd</p></td>
 <td><p>2010年10月27日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/MAXON" title="wikilink">MAXON</a></strong></p></td>
+<td><p>「MAXON」「LONGING」</p></td>
 <td><p>LACM-4750</p></td>
 <td><p>36位</p></td>
 </tr>
@@ -467,6 +528,7 @@
 <td><p>43rd</p></td>
 <td><p>2011年2月23日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Vanguard" title="wikilink">Vanguard</a></strong></p></td>
+<td><p>「Vanguard」「Go! Stand up！」</p></td>
 <td><p>LACM-4790</p></td>
 <td><p>53位</p></td>
 </tr>
@@ -474,6 +536,7 @@
 <td><p>44th</p></td>
 <td><p>2011年4月27日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/NOAH_(JAM_Projectの曲)" title="wikilink">NOAH</a></strong></p></td>
+<td><p>「NOAH」「願い」</p></td>
 <td><p>LACM-4803</p></td>
 <td><p>40位</p></td>
 </tr>
@@ -481,6 +544,8 @@
 <td><p>45th</p></td>
 <td><p>2011年10月5日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Believe_in_my_existence" title="wikilink">Believe in my existence</a></strong></p></td>
+<td><p>「Believe in my existence」<br />
+「夢心地 yah! yah! yah!」<sup>※</sup></p></td>
 <td><p>LACM-4860</p></td>
 <td><p>19位</p></td>
 </tr>
@@ -488,6 +553,9 @@
 <td><p>46th</p></td>
 <td><p>2012年1月25日</p></td>
 <td><p><strong>我が名は牙狼</strong></p></td>
+<td><p>「我が名は牙狼」<br />
+「PREDESTINATION」<br />
+「PROMISE～Without you～」</p></td>
 <td><p>LACM-4896</p></td>
 <td><p>22位</p></td>
 </tr>
@@ -495,6 +563,7 @@
 <td><p>47th</p></td>
 <td><p>2012年4月25日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/LIMIT_BREAK" title="wikilink">LIMIT BREAK</a></strong></p></td>
+<td><p>「LIMIT BREAK」「Fight ! Fight ! Fighting !」<sup>※</sup></p></td>
 <td><p>LACM-4922</p></td>
 <td><p>42位</p></td>
 </tr>
@@ -502,6 +571,7 @@
 <td><p>48th</p></td>
 <td><p>2012年5月23日</p></td>
 <td><p><strong>鋼のレジスタンス</strong></p></td>
+<td><p>「鋼のレジスタンス」「The advent of Genesis」</p></td>
 <td><p>LACM-4923</p></td>
 <td><p>41位</p></td>
 </tr>
@@ -509,6 +579,7 @@
 <td><p>49th</p></td>
 <td><p>2012年12月5日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Wings_of_the_legend" title="wikilink">Wings of the legend</a></strong></p></td>
+<td><p>「Wings of the legend」「Babylon」</p></td>
 <td><p>LACM-14040</p></td>
 <td><p>37位</p></td>
 </tr>
@@ -516,6 +587,8 @@
 <td><p>50th</p></td>
 <td><p>2013年1月30日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/夢スケッチ" title="wikilink">夢スケッチ</a></strong></p></td>
+<td><p>「夢スケッチ」<br />
+「キミオモフ～たった一人の君へ～」</p></td>
 <td><p>LACM-14050</p></td>
 <td><p>75位</p></td>
 </tr>
@@ -523,6 +596,7 @@
 <td><p>51st</p></td>
 <td><p>2013年7月10日</p></td>
 <td><p><strong>R.I.P〜友よ静かに眠れ〜</strong></p></td>
+<td><p>「R.I.P～友よ静かに眠れ～」「未来への誓い」</p></td>
 <td><p>LACM-14100</p></td>
 <td><p>51位</p></td>
 </tr>
@@ -530,6 +604,9 @@
 <td><p>52nd</p></td>
 <td><p>2013年7月24日</p></td>
 <td><p><strong>一触即発 〜Trigger of Crisis〜</strong></p></td>
+<td><p>「一触即発 ~Trigger of Crisis~」<br />
+「PLATONIC」<br />
+「Wildflowers」</p></td>
 <td><p>LACM-14120</p></td>
 <td><p>46位</p></td>
 </tr>
@@ -537,12 +614,14 @@
 <td><p>53rd</p></td>
 <td><p>2014年4月30日</p></td>
 <td><p><strong>Rebellion〜反逆の戦士達〜</strong></p></td>
+<td><p>「Rebellion～反逆の戦士達～」「PRAY FOR YOU」</p></td>
 <td><p>LACM-14209</p></td>
 <td><p>40位</p></td>
 </tr>
 <tr class="even">
 <td><p>54th</p></td>
 <td><p><strong>Breakthrough</strong></p></td>
+<td><p>「Breakthrough」「Maverick～覚醒されし獣～」</p></td>
 <td><p>LACM-14210</p></td>
 <td><p>44位</p></td>
 <td></td>
@@ -553,6 +632,9 @@
 <td><p><strong>雷牙 〜Tusk of thunder〜<br />
 / my memory, your memory<br />
 / ZERO —BLACK BLOOD—</strong></p></td>
+<td><p>「雷牙〜Tusk of thunder〜」<br />
+「my memory, your memory」<br />
+「ZERO-BLACK BLOOD-」</p></td>
 <td><p>LACM-14270</p></td>
 <td><p>53位</p></td>
 </tr>
@@ -560,6 +642,7 @@
 <td><p>56th</p></td>
 <td><p>2014年10月22日</p></td>
 <td><p><strong>炎ノ刻印 —DIVINE FLAME—</strong></p></td>
+<td><p>「炎ノ刻印-DIVINE FLAME-」「WANDERERS」</p></td>
 <td><p>LACM-14280</p></td>
 <td><p>52位</p></td>
 </tr>
@@ -567,6 +650,7 @@
 <td><p>57th</p></td>
 <td><p>2015年2月11日</p></td>
 <td><p><strong>B.B.</strong></p></td>
+<td><p>「B.B.」「追憶の光」<sup>※</sup></p></td>
 <td><p>LACM-14300</p></td>
 <td><p>62位</p></td>
 </tr>
@@ -575,6 +659,7 @@
 <td><p>2015年4月22日</p></td>
 <td><p><strong>決戦 the Final Round<br />
 / END OF HEAVEN</strong></p></td>
+<td><p>「決戦 the Final Round」「END OF HEAVEN」</p></td>
 <td><p>LACM-14340</p></td>
 <td><p>54位</p></td>
 </tr>
@@ -582,6 +667,8 @@
 <td><p>59th</p></td>
 <td><p>2015年7月22日</p></td>
 <td><p><strong>EMERGE 〜漆黒の翼〜</strong></p></td>
+<td><p>「EMERGE～漆黒の翼～」<br />
+「The Light of Life-小さな花の様に-」<sup>※</sup></p></td>
 <td><p>LACM-14370</p></td>
 <td><p>76位</p></td>
 </tr>
@@ -590,14 +677,17 @@
 <td><p>2015年10月21日</p></td>
 <td><p>'''THE HERO</p></td>
 <td><p>〜怒れる拳に火をつけろ〜'''</p></td>
-<td><p>LACM-14405（アーティスト盤）<br />
-LACM-14406（アニメ盤）</p></td>
+<td><p>「THE HERO</p></td>
+<td><p>〜怒れる拳に火をつけろ〜」<br />
+「Shoot the Monster !」<sup>※</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>61st</p></td>
 <td><p>2015年11月6日</p></td>
 <td><p><strong>サイボーグ009〜Nine Cyborg Soldiers〜<br />
 / DEVILMIND〜愛は力〜</strong></p></td>
+<td><p>「サイボーグ009〜Nine Cyborg Soldiers〜」<br />
+「DEVILMIND〜愛は力〜」</p></td>
 <td><p>LACM-14430</p></td>
 <td></td>
 </tr>
@@ -605,6 +695,12 @@ LACM-14406（アニメ盤）</p></td>
 <td><p>62nd</p></td>
 <td><p>2015年12月23日</p></td>
 <td><p><strong>紅蓮ノ月 〜隠されし闇物語〜</strong></p></td>
+<td><p>「JAM Project Ver.」<br />
+「影山ヒロノブ Ver.」<sup>※</sup><br />
+「きただにひろし Ver.」<sup>※</sup><br />
+「奥井雅美 Ver.」<sup>※</sup><br />
+「福山芳樹 Ver.」<sup>※</sup><br />
+「遠藤正明 Ver.」<sup>※</sup></p></td>
 <td><p>LACM-14425</p></td>
 <td><p>44位</p></td>
 </tr>
@@ -612,14 +708,17 @@ LACM-14406（アニメ盤）</p></td>
 <td><p>63rd</p></td>
 <td><p>2016年2月10日</p></td>
 <td><p><strong>月華</strong></p></td>
+<td><p>「月華」「ロナレバビサミ」<sup>※</sup></p></td>
 <td><p>LACM-14450</p></td>
 <td><p>65位</p></td>
 </tr>
 <tr class="even">
 <td><p>64th</p></td>
 <td><p>2016年7月27日</p></td>
-<td><p><strong>Shining Storm〜烈火の如く〜<br />
-/ Heaven’s Door</strong></p></td>
+<td><p><strong>Shining Storm〜烈火の如く〜</strong></p></td>
+<td><p>「Shining Storm ～烈火の如く～」<br />
+「Heaven’s Door」<br />
+「神激の勇者～KISHIN～」</p></td>
 <td><p>LACM-14515</p></td>
 <td><p>70位</p></td>
 </tr>
@@ -627,6 +726,8 @@ LACM-14406（アニメ盤）</p></td>
 <td><p>65th</p></td>
 <td><p>2016年11月2日</p></td>
 <td><p><strong>The Brave</strong></p></td>
+<td><p>「The Brave」<br />
+「Vagabond～風とさすらいの日々～」<sup>※</sup></p></td>
 <td><p>LACM-14550</p></td>
 <td><p>50位</p></td>
 </tr>
@@ -634,6 +735,7 @@ LACM-14406（アニメ盤）</p></td>
 <td><p>66th</p></td>
 <td><p>2017年2月15日</p></td>
 <td><p><strong>DRAGONFLAME</strong></p></td>
+<td><p>「DRAGONFLAME」「彷徨う果ての荒野は」<sup>※</sup></p></td>
 <td><p>LACM-14575</p></td>
 <td><p>70位</p></td>
 </tr>
@@ -642,6 +744,7 @@ LACM-14406（アニメ盤）</p></td>
 <td><p>2017年3月1日</p></td>
 <td><p><strong>THE EXCEEDER<br />
 / NEW BLUE</strong></p></td>
+<td><p>「THE EXCEEDER」「NEW BLUE」</p></td>
 <td><p>LACM-14580（通常版）<br />
 LACM-34580（初回限定盤）</p></td>
 <td><p>61位</p></td>
@@ -650,6 +753,7 @@ LACM-34580（初回限定盤）</p></td>
 <td><p>68th</p></td>
 <td><p>2018年4月25日</p></td>
 <td><p><strong>鋼のWarriors</strong></p></td>
+<td><p>「鋼のWarriors」「The Oath～夜明けの誓い～」</p></td>
 <td><p>LACM-14740</p></td>
 <td><p>62位</p></td>
 </tr>
@@ -657,6 +761,8 @@ LACM-34580（初回限定盤）</p></td>
 <td><p>69th</p></td>
 <td><p>2019年4月24日</p></td>
 <td><p><strong>静寂のアポストル</strong></p></td>
+<td><p>「静寂のアポストル」<sup>※</sup><br />
+「ピアノ狂奏曲第4 番〜怪人賛歌」<sup>※</sup></p></td>
 <td><p>LACM-14854（アーティスト盤）<br />
 LACM-14855（アニメ盤）</p></td>
 <td><p>50位</p></td>
@@ -666,6 +772,12 @@ LACM-14855（アニメ盤）</p></td>
 <td><p><strong>Tread on the Tiger’s Tail<br />
 / RESET<br />
 / D.D 〜Dimension Driver〜</strong></p></td>
+<td><p>「Tread on the Tiger’s Tail」<sup>※</sup><br />
+「RESET」<sup>※</sup><br />
+「D.D～Dimension Driver～」<sup>※</sup><br />
+「Tread on the Tiger’s Tail（英語ver.）」<sup>※</sup><br />
+「Tread on the Tiger’s Tail（中国語ver.）」<sup>※</sup><br />
+「Tread on the Tiger’s Tail（韓国語ver.）」<sup>※</sup></p></td>
 <td><p>LACM-14856</p></td>
 <td><p>60位</p></td>
 <td></td>
@@ -684,7 +796,7 @@ LACM-14855（アニメ盤）</p></td>
 | 3rd | 2013年10月23日 | **[THUMB RISE AGAIN](https://ja.wikipedia.org/wiki/THUMB_RISE_AGAIN "wikilink")**                               | LACA-15340 | 21位 |
 | 4th | 2016年6月29日  | **[AREA Z](https://ja.wikipedia.org/wiki/AREA_Z "wikilink")**                                                   | LACA-15555 | 23位 |
 | 5th | 2017年10月18日 | **[TOKYO DIVE](https://ja.wikipedia.org/wiki/TOKYO_DIVE "wikilink")**                                           | LACA-15670 | 24位 |
-| 6th | 2020年1月1日   | *' [The Age of Dragon Knights](https://ja.wikipedia.org/wiki/The_Age_of_Dragon_Knights "wikilink")*'            | LACA-15796 | 40位 |
+| 6th | 2020年1月1日   | *' [The Age of Dragon Knights](../Page/The_Age_of_Dragon_Knights.md "wikilink")*'                               | LACA-15796 | 40位 |
 
 #### ベストアルバム
 
@@ -771,6 +883,8 @@ LACM-14855（アニメ盤）</p></td>
 
   - 2001年5月23日 スーパーロボット大戦α オリジナルストーリー D-2
       - 熱風疾風サイバスター EDGEWIRED featuring 遠藤正明・さかもとえいぞう
+  - 2003年11月27日 遠藤正明 「CHAKURIKU\!\!」
+      - HAPPY ICECREAM with JAM Project
   - 2005年5月25日 [マブラヴ オルタネイティヴ Insertion song Collection](https://ja.wikipedia.org/wiki/マブラヴ_オルタネイティヴ_Insertion_song_Collection "wikilink") / オリコン最高位 40位
     1.  未来への咆哮
     2.  翼
@@ -846,6 +960,8 @@ LACM-14855（アニメ盤）</p></td>
       - 炎ノ刻印-DIVINE FLAME-
       - Name is GARO〜光明の使者〜
       - 牙狼〜SAVIOR IN THE DARK〜
+  - 2017年3月29日 [ALI PROJECT](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink") 「卑弥呼外伝」 / オリコン最高位 33位
+      - 卑弥呼外伝 (コーラス)
   - 2017年10月18日 牙狼黄金歌集III 牙狼響 / オリコン最高位 45位
       - B.B.
       - EMERGE〜漆黒の翼〜
@@ -854,6 +970,18 @@ LACM-14855（アニメ盤）</p></td>
       - 月華
   - 2017年10月25日 [翼を持つ者 〜Not an angel Just a dreamer〜](https://ja.wikipedia.org/wiki/翼を持つ者_〜Not_an_angel_Just_a_dreamer〜 "wikilink")
       - 翼を持つ者 〜Not an angel Just a dreamer〜\[14\] - [日本動画協会](../Page/日本動画協会.md "wikilink")「アニメNEXT_100」プロジェクト公式ソング
+  - 2019年5月8日 [スフィア](https://ja.wikipedia.org/wiki/スフィア "wikilink") 10th Anniversary Album 「[10s](https://ja.wikipedia.org/wiki/10s "wikilink")」/ オリコン最高位 9位
+      - 鋼のVictress with JAM Project
+  - 2020年9月23日 牙狼黄金歌集IV 牙狼奏
+      - 刃～the divine blade～
+      - DRAGONFLAME
+      - EMG
+      - 神ノ牙～The Fang of Apocalypse～
+      - LIGHTNING DARK
+      - ヒトヒラ
+      - 慟哭の彼方
+      - 雷牙－月虹ノ旅人－
+      - Versus Road ～非現実的サバイバル～
 
 ### タイアップ
 
@@ -1756,29 +1884,32 @@ TAKEO(Guitar)<br />
 青山英樹(Drums)<br />
 山本直哉(Bass)<br />
 西村奈央(Keyboards)<br />
-長崎祥子(Keyboards)[19]</p>
+長崎祥子(Keyboards)</p>
 </div>
 </div></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
-<p>全10会場11公演</p>
+<p>公演中止</p>
 </div>
 <div class="NavContent" style="text-align:center;">
-<p><strong>※<a href="../Page/2019新型コロナウイルス.md" title="wikilink">2019新型コロナウイルス</a>の影響により、公演延期ないし公演中止の事態に見舞われている。</strong><br />
-2020年<del>4月11日</del> <a href="https://ja.wikipedia.org/wiki/和光市民文化センター" title="wikilink">和光市民文化センター</a> サンアゼリア<strong>【8月2日に公演延期】</strong><br />
-<del>4月19日</del> <a href="https://ja.wikipedia.org/wiki/伊勢崎市文化会館" title="wikilink">伊勢崎市文化会館</a><strong>【8月1日に公演延期】</strong><br />
-<del>4月25日 <a href="../Page/神戸国際会館.md" title="wikilink">神戸国際会館</a> こくさいホール</del><span style="color:red"><strong>【公演中止】</strong></span><br />
-<del>4月26日</del> <a href="../Page/愛知県芸術劇場.md" title="wikilink">愛知県芸術劇場</a> 大ホール<strong>【8月16日に公演延期】</strong><br />
-<del>5月2日</del> <a href="../Page/オリックス劇場.md" title="wikilink">オリックス劇場</a><strong>【9月14日に公演延期】</strong><br />
-<del>5月9日</del> <a href="../Page/長野市芸術館.md" title="wikilink">長野市芸術館</a><strong>【7月11日に公演延期】</strong><br />
-<del>5月10日</del> <a href="../Page/金沢市文化ホール.md" title="wikilink">金沢市文化ホール</a><strong>【7月10日に公演延期】</strong><br />
-<del>5月16日</del> <a href="https://ja.wikipedia.org/wiki/トークネットホール仙台" title="wikilink">トークネットホール仙台</a><strong>【8月24日に公演延期】</strong><br />
-<del>5月17日 <a href="../Page/郡山市民文化センター.md" title="wikilink">郡山市民文化センター</a> 中ホール</del><span style="color:red"><strong>【公演中止】</strong></span><br />
-<del>5月23日</del> <a href="../Page/文化パルク城陽.md" title="wikilink">文化パルク城陽</a><strong>【8月15日に公演延期】</strong><br />
-<del>5月24日 <a href="https://ja.wikipedia.org/wiki/スターピアくだまつ" title="wikilink">スターピアくだまつ</a></del><span style="color:red"><strong>【公演中止】</strong></span><br />
-<del>5月30日 <a href="../Page/静岡市民文化会館.md" title="wikilink">静岡市民文化会館</a> 大ホール</del><span style="color:red"><strong>【公演中止】</strong></span><br />
-7月5日 <a href="../Page/福岡国際会議場.md" title="wikilink">福岡国際会議場</a><br />
-7月18日、7月19日 <a href="https://ja.wikipedia.org/wiki/大井町きゅりあん" title="wikilink">大井町きゅりあん</a></p></td>
+<p><strong>※<a href="../Page/2019新型コロナウイルス.md" title="wikilink">2019新型コロナウイルス</a>の影響により、延期となっていたが、無観客公演となった2公演を除き公演中止となった。</strong>[19]<br />
+2020年<del>4月11日→8月2日 <a href="https://ja.wikipedia.org/wiki/和光市民文化センター" title="wikilink">和光市民文化センター</a> サンアゼリア</del><br />
+<del>4月19日→8月1日 <a href="https://ja.wikipedia.org/wiki/伊勢崎市文化会館" title="wikilink">伊勢崎市文化会館</a></del><br />
+<del>4月25日 <a href="../Page/神戸国際会館.md" title="wikilink">神戸国際会館</a> こくさいホール</del><br />
+<del>4月26日→8月16日 <a href="../Page/愛知県芸術劇場.md" title="wikilink">愛知県芸術劇場</a> 大ホール</del><br />
+<del>5月2日→9月14日 <a href="../Page/オリックス劇場.md" title="wikilink">オリックス劇場</a></del><br />
+<del>5月9日→7月11日 <a href="../Page/長野市芸術館.md" title="wikilink">長野市芸術館</a></del><br />
+<del>5月10日→7月10日 <a href="../Page/金沢市文化ホール.md" title="wikilink">金沢市文化ホール</a></del><br />
+<del>5月16日→8月24日 <a href="https://ja.wikipedia.org/wiki/トークネットホール仙台" title="wikilink">トークネットホール仙台</a></del><br />
+<del>5月17日 <a href="../Page/郡山市民文化センター.md" title="wikilink">郡山市民文化センター</a> 中ホール</del><br />
+<del>5月23日→8月15日 <a href="../Page/文化パルク城陽.md" title="wikilink">文化パルク城陽</a></del><br />
+<del>5月24日 <a href="https://ja.wikipedia.org/wiki/スターピアくだまつ" title="wikilink">スターピアくだまつ</a></del><br />
+<del>5月30日 <a href="../Page/静岡市民文化会館.md" title="wikilink">静岡市民文化会館</a> 大ホール</del><br />
+<del>7月5日 <a href="../Page/福岡国際会議場.md" title="wikilink">福岡国際会議場</a></del><br />
+7月18日 <a href="https://ja.wikipedia.org/wiki/大井町きゅりあん" title="wikilink">大井町きゅりあん</a>【20th Anniversary Special Thank you so, so much ! 〜 一緒にうたおう】<br />
+<del>7月19日 <a href="https://ja.wikipedia.org/wiki/大井町きゅりあん" title="wikilink">大井町きゅりあん</a></del><br />
+9月19日 <a href="https://ja.wikipedia.org/wiki/ぴあアリーナMM" title="wikilink">ぴあアリーナMM</a> 【20th Anniversary Special JAM FES.〈JAPAN ANISONG MEETING FESTIVAL〉】<br />
+<del>9月20日 ぴあアリーナMM 【The Age of Dragon Knights Tour FINAL】</del></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1834,7 +1965,7 @@ TAKEO(Guitar)<br />
 
   - [鋼鉄兄弟](../Page/鋼鉄兄弟.md "wikilink") - 影山と遠藤のユニット。
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:特撮ソング歌手](https://ja.wikipedia.org/wiki/Category:特撮ソング歌手 "wikilink") [Category:ランティスのアーティスト](https://ja.wikipedia.org/wiki/Category:ランティスのアーティスト "wikilink")
+[Category:日本のボーイ・バンド](https://ja.wikipedia.org/wiki/Category:日本のボーイ・バンド "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:特撮ソング歌手](https://ja.wikipedia.org/wiki/Category:特撮ソング歌手 "wikilink") [Category:ランティスのアーティスト](https://ja.wikipedia.org/wiki/Category:ランティスのアーティスト "wikilink")
 
 1.  [「反省。」2008/02/13 15:42](https://web.archive.org/web/20080219074002/http://jamjamsite.com/community/greenroom/index.cgi)
 2.  初のオリジナルアルバムは「JAM FIRST PROCESS」であるが、作詞・作曲まで完全に自分たちの手で行ったということで「完全オリジナルアルバム」という言葉を使用している。
@@ -1854,5 +1985,5 @@ TAKEO(Guitar)<br />
 16. 札幌を除く国内公演を担当。
 17. 海外公演・札幌公演のみ担当。
 18. 中国広州・成都公演のみ担当。
-19. 西村奈央不在時のみ担当
+19. 7月18日東京公演・9月19日横浜公演は無観客配信公演となった。
 20. [JAM Projectの『GO\! GO\! GOING\! Radio』](http://lantis-net.com/jamproject/)

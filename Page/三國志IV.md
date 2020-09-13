@@ -1,11 +1,19 @@
 > この記事は[三國志IV](https://ja.wikipedia.org/wiki/三國志IV)から翻訳されています。
 
 
-『**三國志IV**』（さんごくし・フォー）は、[光栄](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）から発売された[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。「[三國志シリーズ](../Page/三國志シリーズ.md "wikilink")」の第4作。[パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")版で発売された後、さまざまな家庭用ゲーム機に移植された。音楽は[長生淳](../Page/長生淳.md "wikilink")が担当。[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")版は9x系OS（95,98,Me）には対応しているが、NT系OS（NT,2000,XP,Vista）には対応していない。[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")版が2007年2月から[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")の[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")として、2013年7月から[Wii Uのバーチャルコンソールとして配信された](https://ja.wikipedia.org/wiki/Wii_U "wikilink")。要[Wiiポイント](https://ja.wikipedia.org/wiki/Wiiポイント "wikilink")1000もしくは1000円。
+『**三國志IV**』（さんごくし・フォー）は、[1994年](../Page/1994年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink")に日本の[光栄から発売された](../Page/コーエー.md "wikilink")[PC-9801用](../Page/PC-9800シリーズ.md "wikilink")[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。
 
-[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")版『三國志』や『[三國志DS2](../Page/三國志DS2.md "wikilink")』も、タイトルは異なるが本作がベースとなっている。
+同社の『[三國志シリーズ](../Page/三國志シリーズ.md "wikilink")』第4作目。前作『[三國志III](../Page/三國志III.md "wikilink")』（[1992年](../Page/1992年.md "wikilink")）と同様に[中国](../Page/中国.md "wikilink")の[三国時代の群雄の一人となり](../Page/三国時代_\(中国\).md "wikilink")、古代中国の主要都市の完全制覇を目指す事を目的としている。前作よりもコマンドが簡略化されている点や、各武将に特殊技能が付与された点などを特徴としている。
 
-## 概要
+開発は光栄が行い、プロデューサーは[シブサワ・コウ](../Page/シブサワ・コウ.md "wikilink")、音楽は[作曲家](../Page/作曲家.md "wikilink")の[長生淳](../Page/長生淳.md "wikilink")および[久保田邦夫](https://ja.wikipedia.org/wiki/久保田邦夫 "wikilink")が担当している。
+
+PC-9801以外のパソコン機種として[FM TOWNSに移植された他](../Page/FM_TOWNS.md "wikilink")、[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")、[3DO](../Page/3DO.md "wikilink")、[セガサターン](../Page/セガサターン.md "wikilink")、[PlayStationなど様々な家庭用ゲーム機に移植された](../Page/PlayStation_\(ゲーム機\).md "wikilink")。[Windows版は](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")9x系OS (95,98,Me) には対応しているが、NT系OS (NT,2000,XP,Vista) には対応していない。スーパーファミコン版は[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")対応ソフトとして、[2007年](../Page/2007年.md "wikilink")に[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、[2013年](../Page/2013年.md "wikilink")に[Wii Uにてそれぞれ配信された](https://ja.wikipedia.org/wiki/Wii_U "wikilink")。
+
+[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")用ソフト『三國志』（[2001年](../Page/2001年.md "wikilink")）や、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ソフト『[三國志DS2](../Page/三國志DS2.md "wikilink")』（[2007年](../Page/2007年.md "wikilink")）も、タイトルは異なるが本作がベースとなっている。
+
+## ゲーム内容
+
+### システム
 
 [中国](../Page/中国.md "wikilink")の[三国時代の群雄の一人となり](../Page/三国時代_\(中国\).md "wikilink")、古代中国の主要都市の完全制覇を目指すという基本的な枠組は前作『[三國志III](../Page/三國志III.md "wikilink")』と同様だが、内政コマンドや情報コマンドが簡略化（半自動化）されるなど前作よりやや複雑さは減少した。一方で武将一人一人に特殊技能が付加され能力以外の面で武将の個性の差別化を図るなどの工夫も施されている（有力な武将は複数の優秀な特技を持つ）。身分によるコマンド制限は無くなったが、代わりに特殊技能によるコマンド制限が生じた。また陸戦・海戦の指揮能力は排され、代わりに歩兵や弩兵などの兵科ごとに向き・不向きを持つようになった。辺境の地には異民族（[山越](https://ja.wikipedia.org/wiki/百越 "wikilink")・[烏丸](../Page/烏桓.md "wikilink")・[羌](../Page/羌.md "wikilink")・[南蛮](../Page/南蛮.md "wikilink")）が登場し都市に攻め寄せてくるなどの突発イベントも追加されている。操作面においては全てマウスを用いて行うことが前提である。
 
@@ -17,7 +25,7 @@
 
 本作から新シナリオや追加イベントなどを含んだ[パワーアップキット](../Page/パワーアップキット.md "wikilink")版が追加発売されるようになった。
 
-## 身分について
+### 身分制度
 
 君主・太守・軍師・侍中・将軍・一般の6つ。前作の文官・武官は今作では一般に該当する。役職者は一般に比べ俸給が高い。そのため昇格させると忠誠は上昇するが降格させると忠誠は低下する。
 
@@ -30,9 +38,9 @@
   - 将軍
     統率と武力の合計が150以上の者に任命可。戦場での攻撃力が上がる。傷病からの回復が他の身分に比べて早くなる。
 
-前作までは軍師の知力の数値がそのまま助言の的中率に相当していたので、アイテムによって知力を100以上にしておけば助言が必ず当たることになっていたが、今作ではコマンド成功の確率が一定レベル以下でない限り必ず肯定的な助言をするように設定されているため**知力の高低は助言の正確さに関連しない。**
+前作までは軍師の知力の数値がそのまま助言の的中率に相当していたので、アイテムによって知力を100以上にしておけば助言が必ず当たることになっていたが、今作ではコマンド成功の確率が一定レベル以下でない限り必ず肯定的な助言をするように設定されているため**知力の高低は助言の正確さに関連しない。**　また、成功率が上記の一定水準に近似である場合は「わからない」と返答したり、どっちつかずな表現を答えてきたりする場合がある。
 
-## 特殊能力
+### 特殊能力
 
 個々の武将の個性を持たせるために導入された、民政・計略・軍事に関わる能力。全部で24種類あり、最も多く有するのは[諸葛亮](../Page/諸葛亮.md "wikilink")の21。最も少ないのは[夏侯楙](../Page/夏侯楙.md "wikilink")の0である。 ただし、**君主（放浪軍除く）は特殊能力の所持を条件とするコマンドを、特殊能力の有無にかかわらず実行できる。**
 
@@ -89,11 +97,32 @@
 
 これらの特殊能力はコマンドを実行させ経験値（マスクデータ）を積むか、旅人を訪問し新たに会得することが可能。ただしどの能力が増えるかはその時までわからない。
 
-## 部隊編成
+### 部隊編成
 
 従来作では一部隊を率いるのは武将1人だったが、今作では最大3人で一部隊を統率することが可能となった。部隊は大将1人に2人の副将がつき、攻撃力は各武将の統率力で決まる。武力は一騎討ちの時のみ関係する。 部隊の知力は3人のうち最も高い者の数値となる。これにより知力に不安のある武将でも知将を補佐に据えれば弱点を補えるようになった。
 
-## 旅人
+## 設定
+
+### シナリオ
+
+前作まではどのシナリオも開始年1月からのスタートとなっていたが、今作より開始月まで設定されており、より詳細に各時代の状況が再現されるようになった。
+
+※左はPC版、右がコンシューマー版
+
+  - 1　189年12月「董卓少帝を廃し、洛陽炎上す」「董卓、都洛陽を制す」
+  - 2　194年11月「群雄、中原に争い、曹操、台頭す」「飛将軍、中原に舞う」
+  - 3　201年10月「河北に嵐起き、荊州に春きたる」「劉備、新野に雌伏す」　
+  - 4　208年09月「臥龍孔明、赤壁に東風と舞う」「臥龍、赤壁に飛翔す」
+  - 5　221年04月「後漢滅び、三國の時代、始まる」「漢朝滅び三國鼎立す」
+  - 6　235年02月「姜維に後事を託し、巨星墜つ」「巨星、五丈原に堕つ」
+
+以下はパワーアップキット版の追加シナリオである。
+
+  - 1　189年06月「奸雄、漢を盗み、天下を統一す」「奸雄、天下を統一す」（3都市を除き、全て[曹操](../Page/曹操.md "wikilink")が支配している仮想シナリオで、曹操はプレイヤー君主として選択できない）
+  - 2　190年05月「大陸荒廃し、三雄、ここに立つ」「大陸荒廃し三雄立つ」（曹操、[劉備](../Page/劉備.md "wikilink")、[孫堅](../Page/孫堅.md "wikilink")の支配する1都市ずつのみ以外、すべて空白地の仮想シナリオ）
+  - 3　225年01月「蛮王南北で蜂起し、戦乱起きる」「蛮王、南北で蜂起す」
+
+### 旅人
 
 ゲーム中には、各地を旅して回る名士が8人登場する。彼らは通常、君主のいる都市にやってくると去り際にちょっとした情報を教えてくれる（大体は他国の都市の情報や未発見武将の登場など）。逆にプレイヤー君主から彼らを訪ねると、アイテムをくれたり特殊能力を授けてくれたりする。また、ニセアイテム・埋伏武将も見抜いて教えてくれることもある。（但しニセアイテムに関してはアイテム欄で確認すると説明がないため一目瞭然で、君主が所持するとせっかく訪問した旅人のメリットをニセアイテム鑑定でふいにしてしまう。部下に褒美として渡して忠誠度をあげるか外交で進物するのがよい。）また、同じ都市に旅人が二人以上いてもその月に会えるのは一人だけである。
 
@@ -114,36 +143,347 @@
   - [普浄](https://ja.wikipedia.org/wiki/普浄 "wikilink")
     武将の寿命をのばしてくれる。
 
-## シナリオ
-
-前作まではどのシナリオも開始年1月からのスタートとなっていたが、今作より開始月まで設定されており、より詳細に各時代の状況が再現されるようになった。
-
-※左はPC版、右がコンシューマー版
-
-  - 1　189年12月「董卓少帝を廃し、洛陽炎上す」「董卓、都洛陽を制す」
-  - 2　194年11月「群雄、中原に争い、曹操、台頭す」「飛将軍、中原に舞う」
-  - 3　201年10月「河北に嵐起き、荊州に春きたる」「劉備、新野に雌伏す」　
-  - 4　208年09月「臥龍孔明、赤壁に東風と舞う」「臥龍、赤壁に飛翔す」
-  - 5　221年04月「後漢滅び、三國の時代、始まる」「漢朝滅び三國鼎立す」
-  - 6　235年02月「姜維に後事を託し、巨星墜つ」「巨星、五丈原に堕つ」
-
-以下はパワーアップキット版の追加シナリオである。
-
-  - 1　189年06月「奸雄、漢を盗み、天下を統一す」「奸雄、天下を統一す」（3都市を除き、全て[曹操](../Page/曹操.md "wikilink")が支配している仮想シナリオで、曹操はプレイヤー君主として選択できない）
-  - 2　190年05月「大陸荒廃し、三雄、ここに立つ」「大陸荒廃し三雄立つ」（曹操、[劉備](../Page/劉備.md "wikilink")、[孫堅](../Page/孫堅.md "wikilink")の支配する1都市ずつのみ以外、すべて空白地の仮想シナリオ）
-  - 3　225年01月「蛮王南北で蜂起し、戦乱起きる」「蛮王、南北で蜂起す」
-
-## その他
+### その他
 
 パソコン版とコンシューマ版では[関羽](https://ja.wikipedia.org/wiki/関羽 "wikilink")と諸葛亮の顔グラフィックが異なる。諸葛亮の顔グラフィックはパソコン版ではこの作品のパッケージとほぼ同じだが、コンシューマ版では他の作品での諸葛亮と同じく冠を被っている。
 
+## 他機種版
+
+<table>
+<thead>
+<tr class="header">
+<th><p>No.</p></th>
+<th><p>タイトル</p></th>
+<th><p>発売日</p></th>
+<th><p>対応機種</p></th>
+<th><p>開発元</p></th>
+<th><p>発売元</p></th>
+<th><p>メディア</p></th>
+<th><p>型式</p></th>
+<th><p>備考</p></th>
+<th><p>出典</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>三國志IV</p></td>
+<td></td>
+<td><p><a href="../Page/FM_TOWNS.md" title="wikilink">FM TOWNS</a></p></td>
+<td><p>光栄</p></td>
+<td><p>光栄</p></td>
+<td><p>フロッピーディスク</p></td>
+<td><p>KN10571040</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td></td>
+<td></td>
+<td><p><a href="../Page/スーパーファミコン.md" title="wikilink">スーパーファミコン</a></p></td>
+<td><p>光栄</p></td>
+<td><p>光栄</p></td>
+<td><p>24<a href="../Page/メガビット.md" title="wikilink">メガビット</a><a href="../Page/ロムカセット.md" title="wikilink">ロムカセット</a><ref name="sfccatalogue">{{Cite book|和書</p></td>
+<td><p>author = 前田尋之</p></td>
+<td><p>date = 2019-09-28</p></td>
+<td><p>chapter = Chapter 2 スーパーファミコンソフトオールカタログ 1994年</p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>三國志IV</p></td>
+<td></td>
+<td><p><a href="../Page/3DO.md" title="wikilink">3DO</a></p></td>
+<td><p>光栄</p></td>
+<td><p>光栄</p></td>
+<td><p><a href="../Page/CD-ROM.md" title="wikilink">CD-ROM</a></p></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td></td>
+<td></td>
+<td><p><a href="../Page/セガサターン.md" title="wikilink">セガサターン</a></p></td>
+<td><p>光栄</p></td>
+<td><p>光栄</p></td>
+<td><p>CD-ROM</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>三國志IV</p></td>
+<td></td>
+<td><p><a href="../Page/スーパー32X.md" title="wikilink">スーパー32X</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/セガゲームス" title="wikilink">セガ</a></p></td>
+<td><p>光栄</p></td>
+<td><p>32メガビットロムカセット<ref>{{Cite book|和書</p></td>
+<td><p>author = 前田尋之</p></td>
+<td><p>date = 2018-06-29</p></td>
+<td><p>chapter = Chapter 2 メガドライブソフトオールカタログ 1995年</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td></td>
+<td></td>
+<td><p><a href="../Page/PlayStation_(ゲーム機).md" title="wikilink">PlayStation</a></p></td>
+<td><p>光栄</p></td>
+<td><p>光栄</p></td>
+<td><p>CD-ROM</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>Romance of the Three Kingdoms IV: Wall of Fire</p></td>
+<td></td>
+<td><p><a href="../Page/Microsoft_Windows_3.x.md" title="wikilink">Windows 3.x</a></p></td>
+<td><p>光栄</p></td>
+<td><p>光栄</p></td>
+<td><p>CD-ROM</p></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p>三國志IV with <a href="../Page/パワーアップキット.md" title="wikilink">パワーアップキット</a></p></td>
+<td></td>
+<td><p>PlayStation<br />
+セガサターン</p></td>
+<td><p>光栄</p></td>
+<td><p>光栄</p></td>
+<td><p>CD-ROM</p></td>
+<td><p><strong>PS:</strong>SLPS-00979<br />
+<strong>SS:</strong>T-7644G</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p><em><a href="https://ja.wikipedia.org/wiki/PlayStation_the_Best" title="wikilink">PlayStation the Best</a></em><br />
+三國志IV</p></td>
+<td></td>
+<td><p>PlayStation</p></td>
+<td><p>コーエー</p></td>
+<td><p>コーエー</p></td>
+<td><p>CD-ROM</p></td>
+<td><p>SLPS-91052</p></td>
+<td><p>廉価版</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>KOEI BEST コレクション<br />
+三國志IV</p></td>
+<td></td>
+<td><p>セガサターン</p></td>
+<td><p>コーエー</p></td>
+<td><p>コーエー</p></td>
+<td><p>CD-ROM</p></td>
+<td><p>T-7669G</p></td>
+<td><p>廉価版</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>三國志IV with パワーアップキット</p></td>
+<td></td>
+<td><p><a href="../Page/Microsoft_Windows_95.md" title="wikilink">Windows 95</a> - <a href="../Page/Microsoft_Windows_Millennium_Edition.md" title="wikilink">Me</a></p></td>
+<td><p>コーエー</p></td>
+<td><p><a href="../Page/デジキューブ.md" title="wikilink">デジキューブ</a></p></td>
+<td><p>CD-ROM</p></td>
+<td><p>-</p></td>
+<td></td>
+<td><p>[1]</p></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p>三國志</p></td>
+<td></td>
+<td><p><a href="../Page/ゲームボーイアドバンス.md" title="wikilink">ゲームボーイアドバンス</a></p></td>
+<td><p>コーエー</p></td>
+<td><p>コーエー</p></td>
+<td><p>ロムカセット</p></td>
+<td><p>-</p></td>
+<td></td>
+<td><p>[2]</p></td>
+</tr>
+<tr class="odd">
+<td><p>13</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/コーエーテクモ定番シリーズ" title="wikilink">コーエー定番シリーズ</a><br />
+三國志IV</p></td>
+<td></td>
+<td><p>PlayStation</p></td>
+<td><p>コーエー</p></td>
+<td><p>コーエー</p></td>
+<td><p>CD-ROM</p></td>
+<td><p>SLPM-87179</p></td>
+<td><p>廉価版</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+<td><p>コーエー定番シリーズ<br />
+三國志IV</p></td>
+<td></td>
+<td><p>Windows 95 - Me</p></td>
+<td><p>コーエー</p></td>
+<td><p>コーエー</p></td>
+<td><p>CD-ROM</p></td>
+<td><p>DWOKS-00131</p></td>
+<td><p>廉価版</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>15</p></td>
+<td></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Wii" title="wikilink">Wii</a></p></td>
+<td><p>コーエー</p></td>
+<td><p>コーエー</p></td>
+<td><p><a href="../Page/ダウンロード販売.md" title="wikilink">ダウンロード</a><br />
+（<a href="../Page/バーチャルコンソール.md" title="wikilink">バーチャルコンソール</a>）</p></td>
+<td><p>-</p></td>
+<td><p>スーパーファミコン版の移植</p></td>
+<td><p>[3][4]</p></td>
+</tr>
+<tr class="even">
+<td><p>16</p></td>
+<td><p><a href="../Page/三國志DS2.md" title="wikilink">三國志DS2</a></p></td>
+<td></td>
+<td><p><a href="../Page/ニンテンドーDS.md" title="wikilink">ニンテンドーDS</a></p></td>
+<td><p>コーエー</p></td>
+<td><p>コーエー</p></td>
+<td><p>DSカード</p></td>
+<td><p>NTR-P-A3FJ</p></td>
+<td></td>
+<td><p>[5][6][7][8]</p></td>
+</tr>
+<tr class="odd">
+<td><p>17</p></td>
+<td><p>Mobile三國志4</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/EZアプリ" title="wikilink">EZアプリ</a></p></td>
+<td><p>コーエー</p></td>
+<td><p>コーエー</p></td>
+<td><p>ダウンロード</p></td>
+<td><p>-</p></td>
+<td></td>
+<td><p>[9]</p></td>
+</tr>
+<tr class="even">
+<td><p>18</p></td>
+<td><p>Mobile三國志4</p></td>
+<td></td>
+<td><p><a href="../Page/FOMA.md" title="wikilink">FOMA</a>903i/703iシリーズ以降<br />
+（<a href="https://ja.wikipedia.org/wiki/iアプリ" title="wikilink">iアプリ</a>）</p></td>
+<td><p>コーエー</p></td>
+<td><p>コーエー</p></td>
+<td><p>ダウンロード</p></td>
+<td><p>-</p></td>
+<td></td>
+<td><p>[10][11]</p></td>
+</tr>
+<tr class="odd">
+<td><p>19</p></td>
+<td><p>Mobile三國志4</p></td>
+<td></td>
+<td><p><a href="../Page/Yahoo!ケータイ.md" title="wikilink">Yahoo!ケータイ</a><br />
+（<a href="../Page/S!アプリ.md" title="wikilink">S!アプリ</a>）</p></td>
+<td><p>コーエー</p></td>
+<td><p>コーエー</p></td>
+<td><p>ダウンロード</p></td>
+<td><p>-</p></td>
+<td></td>
+<td><p>[12][13]</p></td>
+</tr>
+<tr class="even">
+<td><p>20</p></td>
+<td><p>三國志IV</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Wii_U" title="wikilink">Wii U</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/コーエーテクモゲームス" title="wikilink">コーエーテクモ</a></p></td>
+<td><p>コーエーテクモ</p></td>
+<td><p>ダウンロード<br />
+（バーチャルコンソール）</p></td>
+<td><p>-</p></td>
+<td></td>
+<td><p>[14]</p></td>
+</tr>
+<tr class="odd">
+<td><p>21</p></td>
+<td><p>シブサワ・コウ アーカイブスパック Vol.4</p></td>
+<td></td>
+<td><p><a href="../Page/Microsoft_Windows_7.md" title="wikilink">Windows 7</a>/<a href="https://ja.wikipedia.org/wiki/Microsoft_Windows_8.1" title="wikilink">8.1</a>/<a href="https://ja.wikipedia.org/wiki/Microsoft_Windows_10" title="wikilink">10</a></p></td>
+<td><p>コーエーテクモ</p></td>
+<td><p>コーエーテクモ</p></td>
+<td><p>ダウンロード<br />
+(<a href="../Page/Steam.md" title="wikilink">Steam</a>)</p></td>
+<td><p>-</p></td>
+<td></td>
+<td><p>[15][16]</p></td>
+</tr>
+</tbody>
+</table>
+
 ## 音楽
 
-### CD
+  - サウンドトラック
+
+<!-- end list -->
 
   - 三國志IV KECH-1057
   - 三國志IV 電脳電撃編 KECH-1075
   - 光栄オリジナルBGM集Vol.12 三國志IV/[提督の決断II](../Page/提督の決断II.md "wikilink") KECH-1079（※スーパーファミコン音源をそのまま使用）
+
+## 評価
+
+  - スーパーファミコン版
+    ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では、6・4・6・6の合計22点（満40点）\[17\]、『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通り、21.8点（満30点）となっている\[18\]。
+
+<!-- end list -->
+
+  -
+    {|class="wikitable" style="font-size:85%; text-align:center; width:50%"
+
+|- \! 項目 | キャラクタ || 音楽 || お買得度 || 操作性 || 熱中度 || オリジナリティ \! 総合 |- \! 得点 | 3.8 || 3.6 || 3.4 || 3.5 || 3.9 || 3.6 \! 21.8 |}
+
+  - セガサターン版
+    ゲーム誌『ファミコン通信』の「クロスレビュー」では、8・6・6・8の合計28点（満40点）\[19\]、『[SATURN FAN](../Page/ドリームキャストFAN.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通り、19.0点（満30点）となっている\[20\]。
+
+<!-- end list -->
+
+  -
+    {|class="wikitable" style="font-size:85%; text-align:center; width:50%"
+
+|- \! 項目 | キャラクタ || 音楽 || お買得度 || 操作性 || 熱中度 || オリジナリティ \! 総合 |- \! 得点 | 3.5 || 3.7 || 2.1 || 3.1 || 3.6 || 3.0 \! 19.0 |}
+
+  - スーパー32X版
+    ゲーム誌『ファミコン通信』の「クロスレビュー」では、8・7・6・6の合計27点（満40点）\[21\]、『SATURN FAN』の読者投票による「ゲーム通信簿」での評価は以下の通り、19.2点（満30点）となっている\[22\]。
+
+<!-- end list -->
+
+  -
+    {|class="wikitable" style="font-size:85%; text-align:center; width:50%"
+
+|- \! 項目 | キャラクタ || 音楽 || お買得度 || 操作性 || 熱中度 || オリジナリティ \! 総合 |- \! 得点 | 3.5 || 3.5 || 2.3 || 3.1 || 3.8 || 3.1 \! 19.2 |}
+
+  - PlayStation版
+    ゲーム誌『ファミコン通信』の「クロスレビュー」では8・7・5・5の合計25点（満40点）\[23\]、『[PlayStation Magazine](../Page/PlayStation_Magazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、19.9点（満30点）となっている\[24\]。
+
+<!-- end list -->
+
+  -
+    {|class="wikitable" style="font-size:85%; text-align:center; width:50%"
+
+|- \! 項目 | キャラクタ || 音楽 || お買得度 || 操作性 || 熱中度 || オリジナリティ \! 総合 |- \! 得点 | 3.7 || 3.6 || 2.2 || 3.3 || 3.9 || 3.2 \! 19.9 |}
+
+## 脚注
 
 ## 外部リンク
 
@@ -155,4 +495,31 @@
 
   - [PlayStation.com(Japan)｜ソフトウェアカタログ｜三國志IV with パワーアップキット](https://www.jp.playstation.com/software/title/slps00979.html)
 
-[Category:三國志シリーズ](https://ja.wikipedia.org/wiki/Category:三國志シリーズ "wikilink") [Category:PC-9800シリーズ用ゲームソフト](https://ja.wikipedia.org/wiki/Category:PC-9800シリーズ用ゲームソフト "wikilink") [Category:FM_TOWNS用ゲームソフト](https://ja.wikipedia.org/wiki/Category:FM_TOWNS用ゲームソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Macintosh用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Macintosh用ゲームソフト "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:3DO用ソフト](https://ja.wikipedia.org/wiki/Category:3DO用ソフト "wikilink") [Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:スーパー32X用ソフト](https://ja.wikipedia.org/wiki/Category:スーパー32X用ソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:1994年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1994年のコンピュータゲーム "wikilink")
+  - （英語）
+
+[Category:1994年のパソコンゲーム](https://ja.wikipedia.org/wiki/Category:1994年のパソコンゲーム "wikilink") [Category:3DO用ソフト](https://ja.wikipedia.org/wiki/Category:3DO用ソフト "wikilink") [Category:FM_TOWNS用ゲームソフト](https://ja.wikipedia.org/wiki/Category:FM_TOWNS用ゲームソフト "wikilink") [Category:PC-9800シリーズ用ゲームソフト](https://ja.wikipedia.org/wiki/Category:PC-9800シリーズ用ゲームソフト "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:三國志シリーズ](https://ja.wikipedia.org/wiki/Category:三國志シリーズ "wikilink") [Category:スーパー32X用ソフト](https://ja.wikipedia.org/wiki/Category:スーパー32X用ソフト "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.

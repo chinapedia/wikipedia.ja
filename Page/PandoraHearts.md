@@ -326,7 +326,7 @@
         年齢：不明 身長：173 cm。
         元々は100年前、幽閉されていたアリス（アヴィスの意志）にとって唯一無二の友であった[黒猫](../Page/黒猫.md "wikilink")。
         アヴィスの意志を守るため、人型をかたどるチェインへと姿を変えた。猫であった頃にヴィンセントの手で両眼を奪われていたが、チェインとなった後、アヴィスの意志によりブレイクの左眼を与えられた。当時のアリスの記憶から作り出されたアヴィスではない特別な空間に留まり、その記憶のもっとも深い部分を守っていた。
-        そのため契約者の存在を必要とせず、黒うさぎと同じく特別なチェインとされている。曰くアヴィスの意志の狂信者で、アヴィスの均衡を侵すものをよしとせず、黒うさぎを排除しようとした。ブレイクとの戦闘で、空間の崩壊と共に消滅したと思われたが…。
+        そのため契約者の存在を必要とせず、黒うさぎと同じく特別なチェインとされている。曰くアヴィスの意志の狂信者で、アヴィスの均衡を侵すものをよしとせず、黒うさぎを排除しようとした。
         モチーフは「[不思議の国のアリス](../Page/不思議の国のアリス.md "wikilink")」に登場する「[チェシャ猫](../Page/チェシャ猫.md "wikilink")」。野生動物への食欲を隠さない黒アリスが苦手。
 
   - 鴉（レイヴン）
@@ -429,7 +429,7 @@
       -
         ヴィンセントと違法契約をしているチェイン。
         フレッド＝ナイトレイとその叔父を殺した際、死刑執行人の影を見た者の証言から「首狩りの女王（クイーン・オブ・ザ・ハート）」と呼ばれるようになったチェイン。
-        その正体は、グレン(オズワルド)に死なない程度に攻撃され\[12\]、生きたままアヴィスに堕ちたミランダ＝バルマである。
+        その正体は、グレン（オズワルド）に死なない程度に攻撃され\[12\]、生きたままアヴィスに堕ちたミランダ＝バルマである。
         モチーフは「不思議の国のアリス」に登場する「[ハートの女王](../Page/ハートの女王.md "wikilink")」。
 
   - マッドベイビー
@@ -1002,7 +1002,7 @@ PandoraHearts（温泉旅行-宴会で…-）</p></td>
 
 ―――――――――――――――――――――――――
 
-【2011年に[SQUARE ENIXから発売](https://ja.wikipedia.org/wiki/SQUARE_ENIX "wikilink")】
+【2011年に[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")から発売】
 
   - 「PandoraHearts」16巻 初回限定生産特装版 ドラマCD 「Retrace:42.5 A SIDE EPISODE OF Unbirthday」2011年11月26日
   - 「PandoraHearts」22巻 初回限定特装版 ドラマCD「Another story of PROMISE LOST」2014年4月26日
@@ -1157,14 +1157,14 @@ PandoraHearts（温泉旅行-宴会で…-）</p></td>
 
   - [PandoraHearts特設サイト「Golden wonderland」](http://www.square-enix.co.jp/magazine/gfantasy/story/pandora/golden_wonderland/) - 月刊Gファンタジーオフィシャルサイト内。
 
-  - [テレビアニメ公式サイト](http://www.tbs.co.jp/anime/ph/) - TBS。
+  - [テレビアニメ公式サイト](https://www.tbs.co.jp/anime/ph/) - TBS。
 
   -
   - [PandoraHearts 〜Caucus race〜 - 小説 -](http://www.jp.square-enix.com/magazine/gansma/gfantasy/pandorahearts_novel/) - ガンスマ情報局。
 
 [Category:漫画作品_は](https://ja.wikipedia.org/wiki/Category:漫画作品_は "wikilink") [Category:月刊Gファンタジー](https://ja.wikipedia.org/wiki/Category:月刊Gファンタジー "wikilink") [Category:不思議の国のアリスを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:不思議の国のアリスを題材とした漫画作品 "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink") [Category:アニメ作品_は](https://ja.wikipedia.org/wiki/Category:アニメ作品_は "wikilink") [Category:2009年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2009年のテレビアニメ "wikilink") [Category:TBSの深夜アニメ](https://ja.wikipedia.org/wiki/Category:TBSの深夜アニメ "wikilink") [Category:XEBEC](https://ja.wikipedia.org/wiki/Category:XEBEC "wikilink") [Category:メディアファクトリーのアニメ作品](https://ja.wikipedia.org/wiki/Category:メディアファクトリーのアニメ作品 "wikilink") [Category:フライングドッグのアニメ作品](https://ja.wikipedia.org/wiki/Category:フライングドッグのアニメ作品 "wikilink") [Category:ポニーキャニオンのアニメ作品](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアニメ作品 "wikilink") [Category:ガンガンコミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:ガンガンコミックスのアニメ作品 "wikilink") [Category:ムービックのアニメ作品](https://ja.wikipedia.org/wiki/Category:ムービックのアニメ作品 "wikilink") [Category:不思議の国のアリスを題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:不思議の国のアリスを題材としたアニメ作品 "wikilink") [Category:実写とアニメーションが混在した作品](https://ja.wikipedia.org/wiki/Category:実写とアニメーションが混在した作品 "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink") [Category:ファンタジーアニメ](https://ja.wikipedia.org/wiki/Category:ファンタジーアニメ "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink") [Category:タイムトラベルを題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:タイムトラベルを題材としたアニメ作品 "wikilink") [Category:タイムトラベルを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:タイムトラベルを題材とした漫画作品 "wikilink")
 
-1.  [スタッフブログ（2009年5月8日）](http://www.tbs.co.jp/anime/ph/blog/blog0905.html#wrapper) 2012年7月29日閲覧。
+1.  [スタッフブログ（2009年5月8日）](https://www.tbs.co.jp/anime/ph/blog/blog0905.html#wrapper) 2012年7月29日閲覧。
 2.
 3.  オズが記憶を失くしたギルバートに対して「お前はオレの従者だから1個年下だ」ということでオズが決定したもの。
 4.  市場で帽子を盗まれた際、丹念に洗って干して、しばらく被れなかったという裏設定がある。

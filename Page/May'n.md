@@ -1,7 +1,9 @@
 > この記事は[May\'n](https://ja.wikipedia.org/wiki/May\'n)から翻訳されています。
 
 
-**May'n**（メイン、[1989年](../Page/1989年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")。[女性](../Page/女性.md "wikilink")。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")出身\[2\]。本名、旧芸名は**中林 芽依**（なかばやし めい）\[3\]。身長164.5cm\[4\]。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。所属事務所は[ホリプロインターナショナル](https://ja.wikipedia.org/wiki/ホリプロインターナショナル "wikilink")、所属レーベルは[FlyingDog](../Page/フライングドッグ.md "wikilink")。
+**May'n**（メイン、[1989年](../Page/1989年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性歌手](../Page/歌手.md "wikilink")。
+
+[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")出身\[2\]。本名および旧芸名は**中林 芽依**（なかばやし めい）\[3\]。身長164.5cm\[4\]。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。所属事務所は[ホリプロインターナショナル](https://ja.wikipedia.org/wiki/ホリプロインターナショナル "wikilink")、所属レーベルは[FlyingDog](../Page/フライングドッグ.md "wikilink")。
 
 ## 概要
 
@@ -1272,7 +1274,7 @@ VTZL-111（Special CD付）</p></td>
 <p>5会場全5公演</p>
 </div>
 <div class="NavContent" style="text-align:center;">
-<p>2018年6月1日 深センA8Live<br />
+<p>2018年6月1日 深圳A8Live<br />
 2018年6月3日 杭州MAO Livehouse<br />
 2018年11月16日 MAO Livehouse 北京<br />
 2018年11月18日 万代南梦宫上海文化中心<br />
@@ -1808,7 +1810,7 @@ VTZL-111（Special CD付）</p></td>
 18.
 19.
 20.
-21. 休養中は同じ事務所に所属する[南波志帆](https://ja.wikipedia.org/wiki/南波志帆 "wikilink")、[Machico](https://ja.wikipedia.org/wiki/Machico "wikilink")、[大橋彩香](https://ja.wikipedia.org/wiki/大橋彩香 "wikilink")、[田所あずさ](https://ja.wikipedia.org/wiki/田所あずさ "wikilink")、[every♥ing\!](https://ja.wikipedia.org/wiki/everying! "wikilink")（[木戸衣吹](https://ja.wikipedia.org/wiki/木戸衣吹 "wikilink")、[山崎エリイ](https://ja.wikipedia.org/wiki/山崎エリイ "wikilink")）が代役を務めた。
+21. 休養中は同じ事務所に所属する[南波志帆](https://ja.wikipedia.org/wiki/南波志帆 "wikilink")、[Machico](https://ja.wikipedia.org/wiki/Machico "wikilink")、[大橋彩香](https://ja.wikipedia.org/wiki/大橋彩香 "wikilink")、[田所あずさ](https://ja.wikipedia.org/wiki/田所あずさ "wikilink")、[every♥ing\!](https://ja.wikipedia.org/wiki/every♥ing! "wikilink")（[木戸衣吹](https://ja.wikipedia.org/wiki/木戸衣吹 "wikilink")、[山崎エリイ](https://ja.wikipedia.org/wiki/山崎エリイ "wikilink")）が代役を務めた。
 22.
 23.
 24.

@@ -98,4 +98,4 @@
 
   - [撮りッたがり決死隊 トッターマンDS](https://www.tv-tokyo.co.jp/ds/)
 
-[Category:スキバラ](https://ja.wikipedia.org/wiki/Category:スキバラ "wikilink") [Category:雨上がり決死隊](https://ja.wikipedia.org/wiki/Category:雨上がり決死隊 "wikilink") [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink")
+[Category:スキバラ](https://ja.wikipedia.org/wiki/Category:スキバラ "wikilink") [Category:雨上がり決死隊](https://ja.wikipedia.org/wiki/Category:雨上がり決死隊 "wikilink") [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:テレビ東京のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のバラエティ番組の歴史 "wikilink") [Category:吉本興業の番組](https://ja.wikipedia.org/wiki/Category:吉本興業の番組 "wikilink")

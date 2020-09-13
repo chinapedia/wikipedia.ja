@@ -1,11 +1,11 @@
 > この記事は[ブラックパイナーSOS](https://ja.wikipedia.org/wiki/ブラックパイナーSOS)から翻訳されています。
 
 
-**ブラックパイナーSOS**は[太田プロダクション](../Page/太田プロダクション.md "wikilink")所属の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")結成。
+**ブラックパイナーSOS**は、[太田プロダクション](../Page/太田プロダクション.md "wikilink")所属の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")結成。
 
 ## プロフィール
 
-  - **内藤正樹**（ないとう まさき、 - ）
+  - **内藤 正樹**（ないとう まさき、 - ）
 
 <!-- end list -->
 
@@ -16,7 +16,7 @@
 
 <!-- end list -->
 
-  - **山野拓也**（やまの たくや、 - ）
+  - **山野 拓也**（やまの たくや、 - ）
 
 <!-- end list -->
 

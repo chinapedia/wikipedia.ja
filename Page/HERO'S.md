@@ -149,7 +149,7 @@ HERO'Sを主催するTBSが2007年3月12日に放送した「総合格闘技HERO
 
 ## 外部リンク
 
-  - [HERO'S公式サイト](http://web.archive.org/web/20100819013844/http://www.hero-s.com/index.html)
+  - [HERO'S公式サイト](https://web.archive.org/web/20100819013844/http://www.hero-s.com/index.html)
   - [SHERDOG 大会データ](http://www.sherdog.com/organizations/K1-29)
 
 [Category:HERO'S](https://ja.wikipedia.org/wiki/Category:HERO'S "wikilink") [Category:現在活動していない総合格闘技団体](https://ja.wikipedia.org/wiki/Category:現在活動していない総合格闘技団体 "wikilink") [Category:前田日明](https://ja.wikipedia.org/wiki/Category:前田日明 "wikilink")
@@ -158,7 +158,7 @@ HERO'Sを主催するTBSが2007年3月12日に放送した「総合格闘技HERO
 2.  [新日本と前田＆K-1が真っ向激突 3・26さいたま「HEROS」開催決定](http://sportsnavi.yahoo.co.jp/fight/other/column/200503/at00004063.html) スポーツナビ 2005年3月1日
 3.  [FEG、本業のK-1に専念](http://www.boutreview.com/data/news/050326heros.html) BOUTREVIEW 2005年3月3日
 4.  [前田スーパーバイザーが一夜明け会見で、HERO'Sのシステム面に苦言](http://www.angle-j.com/archives/2006/08/06_1451.php) angle JAPAN 2006年8月6日
-5.  [ミスジャッジ](http://web.archive.org/web/*/http://www1.yapeus.com/users/toikatu/) トイカツ記（[戸井田カツヤ](../Page/戸井田カツヤ.md "wikilink")公式サイト） 2006年8月7日
+5.  [ミスジャッジ](https://web.archive.org/web/*/http://www1.yapeus.com/users/toikatu/) トイカツ記（[戸井田カツヤ](../Page/戸井田カツヤ.md "wikilink")公式サイト） 2006年8月7日
 6.  [【K-1】12・31秋山成勲VS桜庭和志戦の裁定についての記者会見全文（2）](http://gbring.com/sokuho/news/2007_01/0111_k-1_03.htm) GBR 2007年1月11日
 7.  [やっぱり主役は、“サク咲く”桜庭和志](http://www.hero-s.com/01herosnews/20060804/20060804.html) HERO'S 公式サイト 2006年8月4日
 8.  [K-1選手に“前田イズム”を注入だ 「打撃の選手を総合でトップに育てる」](http://sportsnavi.yahoo.co.jp/fight/other/column/200503/at00004328.html) スポーツナビ 2005年3月27日

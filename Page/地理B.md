@@ -55,7 +55,7 @@
 <td><p>1991年4月30日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/ネパール.md" title="wikilink">ネパール</a></p></td>
+<td><p><a href="../Page/ネパール王国.md" title="wikilink">ネパール</a></p></td>
 <td><p>1991年5月7日</p></td>
 </tr>
 <tr class="even">

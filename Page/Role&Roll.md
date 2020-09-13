@@ -56,7 +56,7 @@ TRPG雑誌は[1990年代](../Page/1990年代.md "wikilink")前半までは多数
   - [ゲヘナ](../Page/ゲヘナ_\(TRPG\).md "wikilink")
       - ゲヘナ アナスタシス
   - [現代忍術バトルRPG シノビガミ -忍神-](https://ja.wikipedia.org/wiki/シノビガミ "wikilink") ※
-  - [ご近所メルヒェンRPG ピーカーブー](https://ja.wikipedia.org/wiki/ピーカーブー "wikilink") ※
+  - [ご近所メルヒェンRPG ピーカーブー](https://ja.wikipedia.org/wiki/ご近所メルヒェンRPG_ピーカーブー "wikilink") ※
   - [サタスペ](../Page/サタスペ.md "wikilink")
   - [サヴェッジ・サイエンス](https://ja.wikipedia.org/wiki/サヴェッジ・サイエンス "wikilink")
   - [シャドウラン](../Page/シャドウラン.md "wikilink")（第4版）

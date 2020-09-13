@@ -37,7 +37,7 @@
   - CMソングは2005年は「U-K」、2006年は「U-K-2」、2007年は「U-K-3」と変化しているが、一貫してジャズバンドの[勝手にしやがれが担当している](../Page/勝手にしやがれ_\(ジャズバンド\).md "wikilink")。
   - [2007年](../Page/2007年.md "wikilink")からは、[オーランド・ブルーム](../Page/オーランド・ブルーム.md "wikilink")を起用したCMを放映。120秒の限定CMは一夜限り放映された。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")からは、[オダギリジョー](../Page/オダギリジョー.md "wikilink")を起用したCMを放映。オダギリが資生堂に入社した設定で実際に資生堂の社員と共演。55タイプのCMが制作され、新CMは6パターンが放送された。
-  - [2009年](../Page/2009年.md "wikilink")からは、[妻夫木聡](../Page/妻夫木聡.md "wikilink")をイメージキャラクターに起用したほか、同年8月に発売した霧状の整髪料「フォグバー」のCMには、妻夫木と[小栗旬](../Page/小栗旬.md "wikilink")、[瑛太](https://ja.wikipedia.org/wiki/瑛太 "wikilink")、[三浦春馬](https://ja.wikipedia.org/wiki/三浦春馬 "wikilink")の4人をCMに起用している。
+  - [2009年](../Page/2009年.md "wikilink")からは、[妻夫木聡](../Page/妻夫木聡.md "wikilink")をイメージキャラクターに起用したほか、同年8月に発売した霧状の整髪料「フォグバー」のCMには、妻夫木と[小栗旬](../Page/小栗旬.md "wikilink")、[瑛太](https://ja.wikipedia.org/wiki/瑛太 "wikilink")、[三浦春馬](../Page/三浦春馬.md "wikilink")の4人をCMに起用している。
   - [2018年](../Page/2018年.md "wikilink")には、関東地区で相応の知名度を持つ[ホテル三日月](https://ja.wikipedia.org/wiki/ホテル三日月 "wikilink")のCMをパロディにしたCM\[2\]を制作。基本的に、[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")などの[インターネットテレビ](../Page/インターネットテレビ.md "wikilink")や[Youtube](https://ja.wikipedia.org/wiki/Youtube "wikilink")など、インターネット限定で配信している。地上波では、ロケで実際に使用された勝浦ホテル三日月が所在する[千葉県](../Page/千葉県.md "wikilink")の地元放送局である[千葉テレビ放送](../Page/千葉テレビ放送.md "wikilink")で、『[AKB48チーム8のKANTO白書 バッチこーい\!](https://ja.wikipedia.org/wiki/AKB48チーム8のKANTO白書_バッチこーい! "wikilink")』に「uno」名義でスポンサー提供することで、同じCMが放映され、後に [おしゃれイズム](../Page/おしゃれイズム.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink") ）でも放映された。
 
 ### CM出演者
@@ -201,7 +201,7 @@
   - [妻夫木聡](../Page/妻夫木聡.md "wikilink")
   - [小栗旬](../Page/小栗旬.md "wikilink")
   - [瑛太](https://ja.wikipedia.org/wiki/永山瑛太 "wikilink")
-  - [三浦春馬](https://ja.wikipedia.org/wiki/三浦春馬 "wikilink")
+  - [三浦春馬](../Page/三浦春馬.md "wikilink")
 
 <!-- end list -->
 

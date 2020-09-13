@@ -1,7 +1,7 @@
 > この記事は[IN THE LIFE](https://ja.wikipedia.org/wiki/IN_THE_LIFE)から翻訳されています。
 
 
-『**IN THE LIFE**』(イン・ザ・ライフ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")が[1991年](../Page/1991年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")に[BMGビクターからリリースした](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")、5作目の[オリジナル・アルバムである](../Page/スタジオ・アルバム.md "wikilink")。このアルバムは、後にBMGルームス(現:[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink"))の設立に伴い、発売権がBMGルームスに移行している。
+『**IN THE LIFE**』(イン・ザ・ライフ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")が1991年11月27日に[BMGビクターからリリースした](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")、5作目の[オリジナル・アルバムである](../Page/スタジオ・アルバム.md "wikilink")。このアルバムは、後にBMGルームス(現:[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink"))の設立に伴い、発売権がBMGルームスに移行している。
 
 ## 解説
 
@@ -19,7 +19,7 @@
 
 初動でミリオンを突破し、オリジナル・アルバムでは『[LOOSE](../Page/LOOSE.md "wikilink")』に次いで2番目の売上を記録している他\[3\]、オリジナル・アルバムでは自己最高位の年間チャート2位にランクインした。
 
-[2018年](../Page/2018年.md "wikilink")に結成30周年記念として『[DINOSAUR](https://ja.wikipedia.org/wiki/DINOSAUR_\(B'zのアルバム\) "wikilink")』までのオリジナル・アルバムと共に[アナログレコード化された](../Page/レコード.md "wikilink")\[4\]。
+2018年に結成30周年記念として『[DINOSAUR](https://ja.wikipedia.org/wiki/DINOSAUR_\(B'zのアルバム\) "wikilink")』までのオリジナル・アルバムと共に[アナログレコード化された](../Page/レコード.md "wikilink")\[4\]。
 
 ## 収録曲
 
@@ -31,7 +31,7 @@
         楽曲について松本は「詩がスゴイ面白いからね。助けられてる。あの詩によってオープニングかな?という感じもしたし」と語り、ディレクターは仮歌の時点からアルバムの1曲目と主張していた。
         稲葉は歌詞について、「辛いことがあった人が慰められるように意識して書いた」と語っている。
         [コーラスには](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")が参加している。
-        [ライブでは](../Page/演奏会.md "wikilink")「[恋心 (KOI-GOKORO)](../Page/ZERO_\(B'zの曲\).md "wikilink")」のように振り付けを踊りながら歌われる。
+        [ライブでは](../Page/演奏会.md "wikilink")「[恋心(KOI-GOKORO)](../Page/ZERO_\(B'zの曲\).md "wikilink")」のように振り付けを踊りながら歌われる。
         [ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』のファン投票では20位になり、その曲名を当てるクイズでこの曲を当てた人にはB'z人形がプレゼントされた。『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』ではファン投票4位にランクインされ収録された\[5\]。
 2.  **TONIGHT (Is The Night)** (4:52)
       -

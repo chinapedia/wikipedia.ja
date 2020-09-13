@@ -57,7 +57,7 @@
   - マリリン真紀（[石川真紀](../Page/石川真紀.md "wikilink")）
   - 松島一直線（[松島茂](../Page/松島茂.md "wikilink")〔アナウンサーとして在職中の2020年2月に逝去〕\[3\]）
   - ニュースキャスター上野（[上野智広](https://ja.wikipedia.org/wiki/上野智広 "wikilink")〔現在はフリーアナウンサー〕）
-  - ジェット北川（[北川義隆](../Page/北川義隆.md "wikilink")〔現在は[スポーツ](../Page/スポーツ.md "wikilink")[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")、[スポーツライター](https://ja.wikipedia.org/wiki/スポーツライター "wikilink")〕）
+  - ジェット北川（[北川義隆](../Page/北川義隆.md "wikilink")〔現在は[スポーツ](../Page/スポーツ.md "wikilink")[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")、[スポーツライター](../Page/スポーツライター.md "wikilink")〕）
   - オリーブ伝井（=つたい）（[傳井靖](https://ja.wikipedia.org/wiki/傳井靖 "wikilink")。[記者](../Page/記者.md "wikilink")として、[NHKに移籍](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
   - デイリー山崎（本名未詳）
 

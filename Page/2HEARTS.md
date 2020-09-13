@@ -8,158 +8,101 @@
 ### シングル
 
   - 1st「EVER FREE」[2004年](../Page/2004年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")発売
-
-:\#EVER FREE（musou version）
-
-:\#\*プレイステーション2ゲーム『[真・三國無双3 Empires](https://ja.wikipedia.org/wiki/真・三國無双3#真・三國無双3_Empires "wikilink")』イメージソング
-
-:\#ギャンブラー！
-
-:\#満ち干
-
-:\#EVER FREE（CM version）
-
+    1.  EVER FREE（musou version）
+          - プレイステーション2ゲーム『[真・三國無双3 Empires](https://ja.wikipedia.org/wiki/真・三國無双3#真・三國無双3_Empires "wikilink")』イメージソング
+    2.  ギャンブラー！
+    3.  満ち干
+    4.  EVER FREE（CM version）
   - 2nd「Dearest You」[2006年](../Page/2006年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink")発売
-
-:\#Dearest You
-
-:\#\*テレビアニメ『[恋する天使アンジェリーク 〜心のめざめる時〜](../Page/恋する天使アンジェリーク.md "wikilink")』エンディング主題歌
-
-:\#\*[作詞](../Page/作詞.md "wikilink")：尾崎雪絵、[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[飯塚昌明](../Page/飯塚昌明.md "wikilink")
-
-:\#賽を振れ
-
-:\#\*作詞：尾崎雪絵、作曲・編曲：飯塚昌明
-
-:\#Dearest You（off vocal）
-
-:\#賽を振れ（off vocal）
-
+    1.  Dearest You
+          - テレビアニメ『[恋する天使アンジェリーク 〜心のめざめる時〜](../Page/恋する天使アンジェリーク.md "wikilink")』エンディング主題歌
+          - [作詞](../Page/作詞.md "wikilink")：尾崎雪絵、[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[飯塚昌明](../Page/飯塚昌明.md "wikilink")
+    2.  賽を振れ
+          - 作詞：尾崎雪絵、作曲・編曲：飯塚昌明
+    3.  Dearest You（off vocal）
+    4.  賽を振れ（off vocal）
   - 3rd「約束の地へ」[2007年](../Page/2007年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")発売
-
-:\#約束の地へ
-
-:\#\*テレビアニメ『[恋する天使アンジェリーク ～かがやきの明日～](../Page/恋する天使アンジェリーク.md "wikilink")』エンディング主題歌
-
-:\#\*作詞：尾崎雪絵、作曲・編曲：飯塚昌明
-
-:\#雨音のregret
-
-:\#\*作詞：尾崎雪絵、作曲・編曲：飯塚昌明
-
-:\#約束の地へ（off vocal）
-
-:\#雨音のregret（off vocal）
+    1.  約束の地へ
+          - テレビアニメ『[恋する天使アンジェリーク ～かがやきの明日～](../Page/恋する天使アンジェリーク.md "wikilink")』エンディング主題歌
+          - 作詞：尾崎雪絵、作曲・編曲：飯塚昌明
+    2.  雨音のregret
+          - 作詞：尾崎雪絵、作曲・編曲：飯塚昌明
+    3.  約束の地へ（off vocal）
+    4.  雨音のregret（off vocal）
 
 ### アルバム
 
   - 1st「Two my self」2004年[1月21日](../Page/1月21日.md "wikilink")発売
+    1.  H.P.D. -happy days-
+    2.  Two my self
+    3.  EVER FREE
+    4.  Best Partner
+    5.  wanderer
+    6.  夢のありか 〜realize your dream〜
 
-:\#H.P.D. -happy days-
-
-:\#Two my self
-
-:\#EVER FREE
-
-:\#Best Partner
-
-:\#wanderer
-
-:\#夢のありか 〜realize your dream〜
+<!-- end list -->
 
   - 2nd「MOON VENUS」[2005年](../Page/2005年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")発売
+    1.  こころ咲き誇れ
+    2.  MOON VENUS
+    3.  ギャンブラー！
+    4.  永遠の夏
+    5.  満ち干
+    6.  ALL MY LIFE
+    7.  風の歌をきけ
 
-:\#こころ咲き誇れ
-
-:\#MOON VENUS
-
-:\#ギャンブラー！
-
-:\#永遠の夏
-
-:\#満ち干
-
-:\#ALL MY LIFE
-
-:\#風の歌をきけ
+<!-- end list -->
 
   - 3rd「Brand-New Future」2007年[8月1日](../Page/8月1日.md "wikilink")発売
+    1.  Brand-New Future
+    2.  Dearest You
+    3.  EVER FREE（musou version）
+    4.  永遠の夏
+    5.  Two my self
+    6.  ギャンブラー！
+    7.  H.P.D. -happy days-
+    8.  夢のありか 〜realize your dream〜
+    9.  ALL MY LIFE
+    10. 約束の地へ
+    11. EVER FREE（live version）
+    12. 賽を振れ（live version）
+    13. 雨音のRegret（live version）
 
-:\#Brand-New Future
-
-:\#Dearest You
-
-:\#EVER FREE（musou version）
-
-:\#永遠の夏
-
-:\#Two my self
-
-:\#ギャンブラー！
-
-:\#H.P.D. -happy days-
-
-:\#夢のありか 〜realize your dream〜
-
-:\#ALL MY LIFE
-
-:\#約束の地へ
-
-:\#EVER FREE（live version）
-
-:\#賽を振れ（live version）
-
-:\#雨音のRegret（live version）
+<!-- end list -->
 
   - 4th「BLUE STEEL KNIGHT」2008年[9月24日](../Page/9月24日.md "wikilink")発売(KECH-1475)
-
-:\#BLUE STEEL KNIGHT(GAMECITY文庫『鬼灯高校退魔部 ことしろや！』テーマソング)
-
-:\#RED HOT ROSES
-
-:\#White Silent Eve
-
-:\#BLUE STEEL KNIGHT(Off Vocal)
-
+    1.  BLUE STEEL KNIGHT(GAMECITY文庫『鬼灯高校退魔部 ことしろや！』テーマソング)
+    2.  RED HOT ROSES
+    3.  White Silent Eve
+    4.  BLUE STEEL KNIGHT(Off Vocal)
   - 5th「MICHAEL」2010年[2月10日](../Page/2月10日.md "wikilink")発売(KECH-1540)
+    1.  MICHAEL
+    2.  Speciality
+    3.  Do Me Baby
+    4.  MICHAEL(OFF VOCAL)
 
-:\#MICHAEL
-
-:\#Speciality
-
-:\#Do Me Baby
-
-:\#MICHAEL(OFF VOCAL)
+<!-- end list -->
 
   - 6th「Monotone Rainbow」（CD+DVD） 2010年[5月19日](../Page/5月19日.md "wikilink")発売
-
-::ディスク：1（CD）
-
-:\#Monotone Rainbow
-
-:\#road movie
-
-:\#Epilogue〜薫る季節の中で〜
-
-:\#Monotone Rainbow (Off Vocal)
-
-:\#風の歌をきけ
-
-:\#BRAND-NEW FUTURE
-
-::ディスク：2（DVD）
-
-:\#Dearest You
-
-:\#雨音のRegret
-
-:\#MC
-
-:\#夢のありか〜realize your dream〜
-
-:\#風の歌をきけ
-
-:\#Brand-New Future
+      -
+        ディスク：1（CD）
+    <!-- end list -->
+    1.  Monotone Rainbow
+    2.  road movie
+    3.  Epilogue〜薫る季節の中で〜
+    4.  Monotone Rainbow (Off Vocal)
+    5.  風の歌をきけ
+    6.  BRAND-NEW FUTURE
+    <!-- end list -->
+      -
+        ディスク：2（DVD）
+    <!-- end list -->
+    1.  Dearest You
+    2.  雨音のRegret
+    3.  MC
+    4.  夢のありか〜realize your dream〜
+    5.  風の歌をきけ
+    6.  Brand-New Future
 
 ### トークCD
 

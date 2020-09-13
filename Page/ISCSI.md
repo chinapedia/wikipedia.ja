@@ -166,7 +166,7 @@ iSCSI[ホストバスアダプタ](https://ja.wikipedia.org/wiki/ホストバス
 
 ## 脚注
 
-[Category:補助記憶装置](https://ja.wikipedia.org/wiki/Category:補助記憶装置 "wikilink") [Category:通信プロトコル](https://ja.wikipedia.org/wiki/Category:通信プロトコル "wikilink") [Category:RFC](https://ja.wikipedia.org/wiki/Category:RFC "wikilink")
+[Category:SCSI](https://ja.wikipedia.org/wiki/Category:SCSI "wikilink") [Category:通信プロトコル](https://ja.wikipedia.org/wiki/Category:通信プロトコル "wikilink") [Category:RFC](https://ja.wikipedia.org/wiki/Category:RFC "wikilink")
 
 1.  [iSCSIとは](http://www.fujitsu.com/jp/products/computing/storage/lib-f/tech/interface/iscsi/)
 2.  [iSCSIプロトコル](http://www.snia-j.org/tech/nas/hakusho/hakusho2.html)

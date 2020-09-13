@@ -13,7 +13,7 @@
 
   - [NFL](../Page/NFL.md "wikilink")（NFL on NBC、[1955年](../Page/1955年.md "wikilink") - [1962年](../Page/1962年.md "wikilink")、[1970年](../Page/1970年.md "wikilink") - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）
       - [NBCサンデーナイトフットボール](../Page/NBCサンデーナイトフットボール.md "wikilink") （NBC Sunday Night Football、[2006年](../Page/2006年.md "wikilink") - ）
-      - [スーパーボウル](https://ja.wikipedia.org/wiki/スーパーボウル "wikilink")（第1回（[1967年](../Page/1967年.md "wikilink")、[CBS](../Page/CBS.md "wikilink")でも放送された）、第3回（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")）、第5回（[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")）、第7回、第9回、第11回、第13回、第15回、第17回、第20回、第23回、第27回、第28回、第30回、第32回、第43回、第46回。第49回（[2015年](../Page/2015年.md "wikilink")）、第52回（2018年）、第55回（2021年）の放送が決定）
+      - [スーパーボウル](https://ja.wikipedia.org/wiki/スーパーボウル "wikilink")（第1回（[1967年](../Page/1967年.md "wikilink")、[CBS](../Page/CBS.md "wikilink")でも放送された）、第3回（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")）、第5回（[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")）、第7回、第9回、第11回、第13回、第15回、第17回、第20回、第23回、第27回、第28回、第30回、第32回、第43回、第46回。第49回（[2015年](../Page/2015年.md "wikilink")）、第52回（2018年）、第56回（2022年）の放送が決定）
   - [カレッジフットボール](../Page/カレッジフットボール.md "wikilink")
       - [ノートルダム大学](../Page/ノートルダム大学.md "wikilink")戦（[1991年](../Page/1991年.md "wikilink") - ）
 
@@ -45,6 +45,7 @@
 <!-- end list -->
 
   - ゴルフ・チャンネル on NBC（[2011年](../Page/2011年.md "wikilink") - 以前はNBCスポーツが制作していたが、2011年2月の[アクセンチュア・マッチプレー選手権](https://ja.wikipedia.org/wiki/アクセンチュア・マッチプレー選手権 "wikilink")からゴルフ・チャンネル制作に変更）
+      - [USGA主催競技](../Page/全米ゴルフ協会.md "wikilink")（[全米オープン](../Page/全米オープン_\(ゴルフ\).md "wikilink")・[全米女子オープン](../Page/全米女子オープン.md "wikilink")など）（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - 2014年、2020年 - 2026年）
       - [全米プロシニアゴルフ選手権](https://ja.wikipedia.org/wiki/全米プロシニアゴルフ選手権 "wikilink")（[2005年](../Page/2005年.md "wikilink") - ）
       - [KPMG女子PGA選手権](../Page/全米女子プロゴルフ選手権.md "wikilink")（[2015年](../Page/2015年.md "wikilink") - ）
       - [全英オープン](../Page/全英オープン_\(ゴルフ\).md "wikilink")（[2016年](../Page/2016年.md "wikilink") - 、その他[全英女子オープン](https://ja.wikipedia.org/wiki/全英女子オープン "wikilink")、[全英シニアオープン](../Page/全英シニアオープン.md "wikilink")等R\&A主催競技を13年間の放映権を保有）
@@ -101,7 +102,6 @@
       - NBA on NBC（[1955年](../Page/1955年.md "wikilink") - [1962年](../Page/1962年.md "wikilink")、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - [2002年](../Page/2002年.md "wikilink")）
   - [ウィンブルドン選手権](../Page/ウィンブルドン選手権.md "wikilink")（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - [2011年](../Page/2011年.md "wikilink")、2012年からESPNが放映権に移行）
   - [ブリーダーズカップ](../Page/ブリーダーズカップ・ワールド・サラブレッド・チャンピオンシップ.md "wikilink")（[1984年](../Page/1984年.md "wikilink") - [2005年](../Page/2005年.md "wikilink")）
-  - [USGA主催競技](../Page/全米ゴルフ協会.md "wikilink")（[全米オープン](../Page/全米オープン_\(ゴルフ\).md "wikilink")・[全米女子オープン](../Page/全米女子オープン.md "wikilink")など）（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - 2014年）
 
 ## アナウンサー
 

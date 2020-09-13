@@ -1,7 +1,7 @@
 > この記事は[Get Wild](https://ja.wikipedia.org/wiki/Get_Wild)から翻訳されています。
 
 
-**Get Wild**（ゲット ワイルド）は、[TM NETWORKの](../Page/TM_NETWORK.md "wikilink")10枚目の[シングル](../Page/シングル.md "wikilink")。
+「**Get Wild**」（ゲット ワイルド）は、[TM NETWORKの](../Page/TM_NETWORK.md "wikilink")10枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 内容
 
@@ -13,17 +13,19 @@
 
 当初から同アニメありきで作られており、イントロは制作会社の[サンライズからの](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")「ピカーンと光がする音」というオーダーに応じたものである。また、ドラマーの[山木秀夫](../Page/山木秀夫.md "wikilink")の提案により、スネアドラムを入れないアレンジがされている\[1\]。
 
+同アニメの原作[完全版](../Page/完全版コミックス.md "wikilink")『CITY HUNTER COMPLETE EDITION』Volume:Z（[徳間書店](../Page/徳間書店.md "wikilink")）には、この曲のみを収録した8cmCDが特別付録として封入されている。
+
+2017年秋の[園遊会](../Page/園遊会.md "wikilink")では、招待された[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")との歓談中に、[眞子内親王](../Page/眞子内親王.md "wikilink")が本曲を話題に挙げている\[2\]。
+
+## 再発盤
+
 [1989年](../Page/1989年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")には8cmシングルとして再リリースされた。
 
 [1999年](../Page/1999年.md "wikilink")には[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")（「[GET WILD '89](../Page/GET_WILD_'89.md "wikilink")」、「[Be Together](../Page/BE_TOGETHER.md "wikilink")」）と[ジャケットを変更し](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、[マキシシングルとして再リリースされている](../Page/シングル.md "wikilink")。
 
 2014年1月度の日本レコード協会発表にてフル配信50万ダウンロードに認定された。1980年代初出の作品によるフル配信50万DL達成は本作と、[久保田利伸](../Page/久保田利伸.md "wikilink")『[Missing](https://ja.wikipedia.org/wiki/Missing "wikilink")』、[プリンセス・プリンセス](https://ja.wikipedia.org/wiki/プリンセス・プリンセス "wikilink")『[M](../Page/Diamonds_\(プリンセス_プリンセスの曲\).md "wikilink")』、[オフコース](https://ja.wikipedia.org/wiki/オフコース "wikilink")『[言葉にできない](../Page/言葉にできない.md "wikilink")』、[米米CLUB](../Page/米米CLUB.md "wikilink")『[浪漫飛行](../Page/浪漫飛行.md "wikilink")』5例のみである。
 
-[2017年](../Page/2017年.md "wikilink")にはシングルレコード発売から30周年を迎えたことを記念し、30周年記念企画作が相次いでリリースされた。同年[4月5日](../Page/4月5日.md "wikilink")には同曲のみだけを収録したコンピレーションアルバム『[GET WILD SONG MAFIA](https://ja.wikipedia.org/wiki/GET_WILD_SONG_MAFIA "wikilink")』が、同年[4月12日](../Page/4月12日.md "wikilink")には完全限定盤として12インチ・アナログレコードが\[2\]、同年[6月21日](../Page/6月21日.md "wikilink")にはすでに配信・CD化済の小室哲哉によるリミックスアレンジ「GET WILD 2017 TK REMIX」が12インチアナログレコードとしてそれぞれ発売された。こちらに収録されているリミックスは、同年4月に発売されたコンピレーション集『GET WILD SONG MAFIA』に収録されていたものと、[石野卓球](../Page/石野卓球.md "wikilink")が手掛けた「GET WILD（Takkyu Ishino Latino Remix）」のリミックス音源が収録されている。なお、石野によるリミックス音源は上記のコンピレーションアルバムに収録されているアレンジとは異なる\[3\]。
-
-同アニメの原作[完全版](../Page/完全版コミックス.md "wikilink")『CITY HUNTER COMPLETE EDITION』Volume:Z（[徳間書店](../Page/徳間書店.md "wikilink")）には、この曲のみを収録した8cmCDが特別付録として封入されている。
-
-2017年秋の[園遊会](../Page/園遊会.md "wikilink")では、招待された[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")との歓談中に、[眞子内親王](../Page/眞子内親王.md "wikilink")が本曲を話題に挙げている\[4\]。
+[2017年](../Page/2017年.md "wikilink")にはシングルレコード発売から30周年を迎えたことを記念し、30周年記念企画作が相次いでリリースされた。同年[4月5日](../Page/4月5日.md "wikilink")には同曲のみだけを収録したコンピレーションアルバム『[GET WILD SONG MAFIA](https://ja.wikipedia.org/wiki/GET_WILD_SONG_MAFIA "wikilink")』が、同年[4月12日](../Page/4月12日.md "wikilink")には完全限定盤として12インチ・アナログレコードが\[3\]、同年[6月21日](../Page/6月21日.md "wikilink")にはすでに配信・CD化済の小室哲哉によるリミックスアレンジ「GET WILD 2017 TK REMIX」が12インチアナログレコードとしてそれぞれ発売された。こちらに収録されているリミックスは、同年4月に発売されたコンピレーション集『GET WILD SONG MAFIA』に収録されていたものと、[石野卓球](../Page/石野卓球.md "wikilink")が手掛けた「GET WILD（Takkyu Ishino Latino Remix）」のリミックス音源が収録されている。なお、石野によるリミックス音源は上記のコンピレーションアルバムに収録されているアレンジとは異なる\[4\]。
 
 ## アレンジ・リミックス
 
@@ -39,45 +41,6 @@
   - [2017年](../Page/2017年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に小室哲哉がリミックスを手がけたTM NETWORK『GET WILD 2017 TK REMIX』を配信した。このリミックスについて、小室は自身のTwitterアカウントで「倒れるかと思ったけど。手抜き無しで仕上がりました」とコメントした。
 
 ## 収録曲
-
-### 1987年版（7インチアナログ盤）\[6\] 、1989年版（8cmCDシングル盤）
-
-1.  **Get Wild**（『シティーハンター』エンディング・テーマ）
-      - 作詞：[小室みつ子](../Page/小室みつ子.md "wikilink")／作曲・編曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
-2.  **Fighting (君のファイティング)**（『シティーハンター』挿入歌）
-      - 作詞：小室みつ子／作曲・編曲：小室哲哉
-    <!-- end list -->
-      -
-        4枚目のアルバム『[Self Control](../Page/Self_Control_\(TM_NETWORKのアルバム\).md "wikilink")』からのリカット曲
-
-### 1999年版（12cmCDシングル盤）
-
-1.  **Get Wild**
-      - 作詞：小室みつ子／作曲・編曲：小室哲哉
-2.  **[GET WILD '89](../Page/GET_WILD_'89.md "wikilink")**
-      - 作詞：[小室みつ子](../Page/小室みつ子.md "wikilink")／作曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")／編曲：ピート・ハモンド
-3.  **[Be Together](../Page/BE_TOGETHER.md "wikilink")**
-      - 作詞：小室みつ子／作曲・編曲：小室哲哉
-    <!-- end list -->
-      -
-        5枚目のアルバム『[humansystem](https://ja.wikipedia.org/wiki/humansystem "wikilink")』からのリカット曲
-
-### 2017年版（12インチアナログ盤）
-
-1.  **Get Wild**
-      - 作詞：小室みつ子／作曲・編曲：小室哲哉
-2.  **Get Wild '89**
-      - 作詞：[小室みつ子](../Page/小室みつ子.md "wikilink")／作曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")／編曲：ピート・ハモンド
-3.  **Get Wild (techno overdub mix)**
-      - 作詞：小室みつ子／作曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")／編曲：ピート・ハモンド・小室哲哉
-    <!-- end list -->
-      -
-        リミックスアルバム『[CLASSIX 1](../Page/TMN_CLASSIX.md "wikilink")』からのリカット曲
-4.  **Get Wild (Original Single Back Track)**
-      - 作曲・編曲：小室哲哉
-    <!-- end list -->
-      -
-        ベストアルバム『[ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink")』からのリカット曲
 
 ## 収録アルバム
 
@@ -134,23 +97,133 @@
 
 ## 他アーティストによるカバー
 
-  - [1989年](../Page/1989年.md "wikilink")には[ビクター・ファンタスティック・オーケストラ](https://ja.wikipedia.org/wiki/ビクター・ファンタスティック・オーケストラ "wikilink")によって「[GET WILD '89](../Page/GET_WILD_'89.md "wikilink")」のインストゥルメンタルバージョンが発表されている。アレンジは[岩本正樹](../Page/岩本正樹.md "wikilink")によるもの。「GET WILD SONG MAFIA」Disc 4 \#1 には'89版ではなく原曲調のインスト版が収録。
-  - [1992年](../Page/1992年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")に発表された、[デイブ・ロジャース](../Page/デイブ・ロジャース.md "wikilink")による逆カバーアルバム「[TMNソング・ミーツ・ディスコ・スタイル](https://ja.wikipedia.org/wiki/TMNソング・ミーツ・ディスコ・スタイル "wikilink")」に収録されている「Get Wild」は、全編英詞である。「GET WILD SONG MAFIA」Disc 4 \#2 に収録。
-  - [1993年](../Page/1993年.md "wikilink")にはデイブ・ロジャースによって「[ゲット・ワイルド・ミーツ・テクノ・スタイル](https://ja.wikipedia.org/wiki/ゲット・ワイルド・ミーツ・テクノ・スタイル "wikilink")」の中で上記バージョンをリミックスし、発売されている。こちらは「GET WILD SONG MAFIA」には未収録であったが、後発の「GET WILD 30th Anniversary Collection - avex Edition」に改めて収録。
-  - [1994年](../Page/1994年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")作詞を手がけた[小室みつ子](../Page/小室みつ子.md "wikilink")によるTM NETWORKの自作詞曲のカバーアルバム『[SIMPLE DREAMS](https://ja.wikipedia.org/wiki/Simple_Dreams "wikilink")』がリリースされ、その中に「Get Wild」が収録されている。「GET WILD SONG MAFIA」Disc 4 \#3 に収録。
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、シティーハンタースペシャルのEDテーマに使われた、GET WILD ～CITY HUNTER SPECIAL'97 VERSION～ / NAHO。「GET WILD SONG MAFIA」Disc 4 \#4 に収録。
-  - [2005年](../Page/2005年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink")に稼動を開始した[KONAMIの](../Page/コナミデジタルエンタテインメント.md "wikilink")[アーケード用](../Page/アーケードゲーム.md "wikilink")[音楽ゲーム](../Page/音楽ゲーム.md "wikilink")『[pop'n music](https://ja.wikipedia.org/wiki/pop'n_music "wikilink") 13 カーニバル』ではNMR（[前田尚紀](../Page/前田尚紀_\(ミュージシャン\).md "wikilink")）が編曲・カバーを行ったバージョンが収録され\[7\]、[2006年](../Page/2006年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")発売のサウンドトラックCD『pop'n music 13 カーニバル AC ♥ CS pop'n music 11 オリジナルサウンドトラック』、[2006年](../Page/2006年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")発売の[PlayStation 2移植版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『pop'n music 13 カーニバル』にも収録されている。アーケード版では以降のシリーズでも引き続き継続収録されている。「GET WILD SONG MAFIA」には未収録。
-  - 2005年[11月2日](../Page/11月2日.md "wikilink")[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")の[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")により[玉置成実](../Page/玉置成実.md "wikilink")にカバーされた「Get Wild」が発売された。「GET WILD SONG MAFIA」Disc 4 \#5 に収録。
-  - [2007年](../Page/2007年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")にリリースされた[緒方恵美](../Page/緒方恵美.md "wikilink")によるカヴァーアルバム『[アニメグ。](https://ja.wikipedia.org/wiki/アニメグ。 "wikilink")』に「Get Wild」が収録されている。「GET WILD SONG MAFIA」Disc 4 \#6 に収録。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月5日](../Page/3月5日.md "wikilink")にリリースされた[桃井はるこ](../Page/桃井はるこ.md "wikilink")によるオリジナルアルバム『Sunday early Morning』に「Get Wild」がボーナストラック扱いで収録されている。「GET WILD SONG MAFIA」には未収録であったが、後発の「GET WILD 30th Anniversary Collection - avex Edition」に改めて収録。
-  - 2008年[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")、小室自身のユニット[globe](https://ja.wikipedia.org/wiki/globe "wikilink")がカバーして発売されることが「a-nation 08'」にて発表された。しかし[11月4日](../Page/11月4日.md "wikilink")に小室が詐欺容疑で逮捕され、同日に発売中止が決定。その後、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")リリースのベストアルバム『15YEARS -BEST HIT SELECTION』に収録された。同作のジャケットデザインは『シティーハンター』の原作者である[北条司](../Page/北条司.md "wikilink")が務めているが、これはシングルリリースとして予定されていた際のジャケットをそのまま用いている。「GET WILD SONG MAFIA」Disc 4 \#8 に収録。
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に[Purple Days](https://ja.wikipedia.org/wiki/Purple_Days "wikilink")・[超新星がカバー](https://ja.wikipedia.org/wiki/超新星_\(音楽グループ\) "wikilink")。それぞれ「GET WILD SONG MAFIA」Disc 4 前者が\#10 及び後者が \#7 に収録。
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に[Animelo Summer Liveにて](https://ja.wikipedia.org/wiki/Animelo_Summer_Live "wikilink")[milktub](https://ja.wikipedia.org/wiki/milktub "wikilink")と[サイキックラバー](../Page/サイキックラバー.md "wikilink")によってコラボされた。「GET WILD SONG MAFIA」には未収録。
-  - [2011年](../Page/2011年.md "wikilink")に発表された[クレモンティーヌ](https://ja.wikipedia.org/wiki/クレモンティーヌ "wikilink")の[アニメソング](https://ja.wikipedia.org/wiki/アニメソング "wikilink")カバーアルバム「続 アニメンティーヌ」に収録されている。日本語の歌詞の部分が仏語になっている。「GET WILD SONG MAFIA」Disc 4 \#9 に収録。
-  - [2012年](../Page/2012年.md "wikilink")放送の[ラジオ大阪のラジオ番組](../Page/大阪放送.md "wikilink")[THE IDOLM@STER STATION\!\!\!](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_STATION!!! "wikilink")（第149回）内のコーナー「歌姫楽園2012」内で[沼倉愛美](https://ja.wikipedia.org/wiki/沼倉愛美 "wikilink")が歌唱した。楽曲は2013年発売のアルバム『THE IDOLM@STER STATION\!\!\! FAVORITE TALKS』に収録された。「GET WILD SONG MAFIA」には未収録。
-  - その他、テレビ番組にて、[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")（[LOVE LOVE あいしてる](../Page/LOVE_LOVE_あいしてる.md "wikilink")\[8\]）、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")・[石川梨華](../Page/石川梨華.md "wikilink")（[歌ドキッ\! 〜ポップクラシックス〜](../Page/歌ドキッ!_〜ポップクラシックス〜.md "wikilink")）、[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")（[SKE48のマジカル・ラジオ](https://ja.wikipedia.org/wiki/SKE48のマジカル・ラジオ "wikilink")）がカバーしている。また、[SMAP](../Page/SMAP.md "wikilink")（[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")）や[ゴールデンボンバー](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")（[僕らの音楽](../Page/僕らの音楽_Our_Music.md "wikilink")）などのアーティストとの[コラボレーション](../Page/コラボレーション.md "wikilink")も実現した。「GET WILD SONG MAFIA」には未収録。
-  - [2018年](../Page/2018年.md "wikilink")に本家オリジナルである「TM NETWORK」メンバーであり[宇都宮隆](https://ja.wikipedia.org/wiki/宇都宮隆 "wikilink")によるセルフカバー『GET WILD PANDEMIC』がリリースされた。\<\!--\>なお「GET WILD SONG MAFIA」は2017年作品であるため時系列上後になる2018年以降は当然ながら未収録。\<--\>
-  - 2018年12月16日に[TRF](../Page/TRF.md "wikilink") x [access名義で二組のジョイントライブの際に披露されたものが配信された](https://ja.wikipedia.org/wiki/access_\(音楽ユニット\) "wikilink")
+<table>
+<thead>
+<tr class="header">
+<th><p>曲名</p></th>
+<th><p>アーティスト</p></th>
+<th><p>収録作品</p></th>
+<th><p>発売日</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>Get Wild</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ビクター・ファンタスティック・オーケストラ" title="wikilink">ビクター・ファンタスティック・オーケストラ</a></p></td>
+<td><p>アルバム『小室哲哉/木根尚登 (TMネットワーク)作品集』</p></td>
+<td><p><a href="../Page/1989年.md" title="wikilink">1989年</a><a href="../Page/6月7日.md" title="wikilink">6月7日</a></p></td>
+<td><p><a href="../Page/岩本正樹.md" title="wikilink">岩本正樹</a>によってアレンジされた「<a href="../Page/GET_WILD_&#39;89.md" title="wikilink">GET WILD '89</a>」のインストゥルメンタルバージョンが発表されている。<br />
+「<a href="https://ja.wikipedia.org/wiki/GET_WILD_SONG_MAFIA" title="wikilink">GET WILD SONG MAFIA</a>」Disc 4 #1 には'89版ではなく原曲調のインスト版が収録。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/デイブ・ロジャース.md" title="wikilink">デイブ・ロジャース</a></p></td>
+<td><p>アルバム『<a href="https://ja.wikipedia.org/wiki/TMNソング・ミーツ・ディスコ・スタイル" title="wikilink">TMNソング・ミーツ・ディスコ・スタイル</a>』</p></td>
+<td><p><a href="../Page/1992年.md" title="wikilink">1992年</a><a href="../Page/9月23日.md" title="wikilink">9月23日</a></p></td>
+<td><p>全編英詞。<br />
+「GET WILD SONG MAFIA」Disc 4 #2 に収録。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>アルバム『<a href="https://ja.wikipedia.org/wiki/ゲット・ワイルド・ミーツ・テクノ・スタイル" title="wikilink">ゲット・ワイルド・ミーツ・テクノ・スタイル</a>』</p></td>
+<td><p><a href="../Page/1993年.md" title="wikilink">1993年</a><a href="../Page/11月21日.md" title="wikilink">11月21日</a></p></td>
+<td><p>「GET WILD SONG MAFIA」には未収録であったが、後発の「GET WILD 30th Anniversary Collection - avex Edition」に改めて収録。</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/小室みつ子.md" title="wikilink">小室みつ子</a></p></td>
+<td><p>アルバム『<a href="https://ja.wikipedia.org/wiki/Simple_Dreams" title="wikilink">SIMPLE DREAMS</a>』</p></td>
+<td><p><a href="../Page/1994年.md" title="wikilink">1994年</a><a href="../Page/11月21日.md" title="wikilink">11月21日</a></p></td>
+<td><p>TM NETWORKの自作詞曲の<a href="../Page/セルフカバー.md" title="wikilink">セルフカバー</a>アルバム。<br />
+「GET WILD SONG MAFIA」Disc 4 #3 に収録。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/NAHO" title="wikilink">NAHO</a></p></td>
+<td><p>アルバム『シティーハンタースペシャル グッド・バイ・マイ・スイート・ハート オリジナル・サウンドトラック』</p></td>
+<td><p><a href="../Page/1994年.md" title="wikilink">1994年</a><a href="../Page/11月21日.md" title="wikilink">11月21日</a></p></td>
+<td><p>「GET WILD 〜CITY HUNTER SPECIAL'97 VERSION」として、読売テレビ・日本テレビ系『<a href="https://ja.wikipedia.org/wiki/シティーハンター_(アニメ)#シティーハンター_テレビスペシャル" title="wikilink">シティーハンタースペシャル グッド・バイ・マイ・スイート・ハート</a>』のエンディングテーマに起用された。<br />
+「GET WILD SONG MAFIA」Disc 4 #4 に収録。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/玉置成実.md" title="wikilink">玉置成実</a></p></td>
+<td><p>シングル「<a href="https://ja.wikipedia.org/wiki/#玉置成実のシングル" title="wikilink">Get Wild</a>」</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/11月2日.md" title="wikilink">11月2日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/小室哲哉" title="wikilink">小室哲哉</a>の<a href="https://ja.wikipedia.org/wiki/プロデュース" title="wikilink">プロデュース</a>によってカバーされた。<br />
+「GET WILD SONG MAFIA」Disc 4 #5 に収録。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/前田尚紀_(ミュージシャン).md" title="wikilink">NMR</a></p></td>
+<td><p>アルバム『pop'n music 13 カーニバル AC ♥ CS pop'n music 11 オリジナルサウンドトラック』</p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/2月1日.md" title="wikilink">2月1日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月7日.md" title="wikilink">9月7日</a>に稼動を開始した<a href="../Page/コナミデジタルエンタテインメント.md" title="wikilink">KONAMIの</a><a href="../Page/アーケードゲーム.md" title="wikilink">アーケード用</a><a href="../Page/音楽ゲーム.md" title="wikilink">音楽ゲーム</a>『<a href="https://ja.wikipedia.org/wiki/pop&#39;n_music" title="wikilink">pop'n music</a> 13 カーニバル』ではNMR（<a href="../Page/前田尚紀_(ミュージシャン).md" title="wikilink">前田尚紀</a>）が編曲・カバーを行ったバージョンが収録され[6]、<a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/9月28日.md" title="wikilink">9月28日</a>発売の<a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2移植版</a>『pop'n music 13 カーニバル』にも収録されている。アーケード版では以降のシリーズでも引き続き継続収録されている。<br />
+「GET WILD SONG MAFIA」には未収録。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/緒方恵美.md" title="wikilink">緒方恵美</a></p></td>
+<td><p>アルバム『<a href="https://ja.wikipedia.org/wiki/アニメグ。" title="wikilink">アニメグ。</a>』</p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/10月3日.md" title="wikilink">10月3日</a></p></td>
+<td><p>「GET WILD SONG MAFIA」Disc 4 #6 に収録。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/桃井はるこ.md" title="wikilink">桃井はるこ</a></p></td>
+<td><p>アルバム『<a href="https://ja.wikipedia.org/wiki/Sunday_early_morning" title="wikilink">Sunday early morning</a>』</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/3月5日.md" title="wikilink">3月5日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ボーナストラック" title="wikilink">ボーナストラック</a>扱いで収録されている。<br />
+「GET WILD SONG MAFIA」には未収録であったが、後発の「GET WILD 30th Anniversary Collection - avex Edition」に改めて収録。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/globe" title="wikilink">globe</a></p></td>
+<td><p>ベストアルバム『15YEARS -BEST HIT SELECTION』</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/9月29日.md" title="wikilink">9月29日</a></p></td>
+<td><p>2008年<a href="https://ja.wikipedia.org/wiki/11月26日" title="wikilink">11月26日</a>、小室自身のユニット<a href="https://ja.wikipedia.org/wiki/globe" title="wikilink">globe</a>がカバーして発売されることが「a-nation 08'」にて発表されたが、<a href="../Page/11月4日.md" title="wikilink">11月4日</a>に小室が詐欺容疑で逮捕され、同日に発売中止が決定。その後、<a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/9月29日.md" title="wikilink">9月29日</a>リリースのベストアルバム『15YEARS -BEST HIT SELECTION』に収録された。同作のジャケットデザインは『シティーハンター』の原作者である<a href="../Page/北条司.md" title="wikilink">北条司</a>が務めているが、これはシングルリリースとして予定されていた際のジャケットをそのまま用いている。<br />
+「GET WILD SONG MAFIA」Disc 4 #8 に収録。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/Purple_Days" title="wikilink">Purple Days</a></p></td>
+<td><p>アルバム『<a href="https://ja.wikipedia.org/wiki/SERENDIPITY" title="wikilink">SERENDIPITY</a>』</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/3月17日.md" title="wikilink">3月17日</a></p></td>
+<td><p>「GET WILD SONG MAFIA」Disc 4 #10 に収録。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/SUPERNOVA_(音楽グループ)" title="wikilink">超新星</a></p></td>
+<td><p>シングル「<a href="https://ja.wikipedia.org/wiki/Evidence_of_Luv/Get_Wild" title="wikilink">Evidence of Luv/Get Wild</a>」</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/7月21日.md" title="wikilink">7月21日</a></p></td>
+<td><p>「GET WILD SONG MAFIA」Disc 4 #7 に収録。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/クレモンティーヌ" title="wikilink">クレモンティーヌ</a></p></td>
+<td><p>アルバム『続 アニメンティーヌ』</p></td>
+<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/5月25日.md" title="wikilink">5月25日</a></p></td>
+<td><p>日本語の歌詞の部分が仏語になっている。<br />
+「GET WILD SONG MAFIA」Disc 4 #9 に収録。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/沼倉愛美" title="wikilink">沼倉愛美</a></p></td>
+<td><p>アルバム『THE IDOLM@STER STATION</p></td>
+<td><p>! FAVORITE TALKS』</p></td>
+<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/7月17日.md" title="wikilink">7月17日</a></p></td>
+<td><p><a href="../Page/2012年.md" title="wikilink">2012年</a>放送の<a href="../Page/大阪放送.md" title="wikilink">ラジオ大阪のラジオ番組</a>[[THE_IDOLM@STER_STATION</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/宇都宮隆" title="wikilink">宇都宮隆</a></p></td>
+<td><p>配信シングル「GET WILD PANDEMIC」</p></td>
+<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/10月25日.md" title="wikilink">10月25日</a></p></td>
+<td><p>セルフカバー。&lt;!--&gt;なお「GET WILD SONG MAFIA」は2017年作品であるため時系列上後になる2018年以降は当然ながら未収録。&lt;--&gt;</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 玉置成実のシングル
 
@@ -190,6 +263,4 @@
 3.
 4.
 5.  レコードレーベルがそれぞれ異なるため。
-6.  7インチアナログ盤のみジャケット裏面にアニメ「シティーハンター」の[セル画](../Page/セル画.md "wikilink")が描かれている。
-7.
-8.
+6.

@@ -309,6 +309,33 @@
 <td><p>4Gamer.net]]</p></td>
 <td><p>Aetas]]</p></td>
 </tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>Legacy of the Wizard<br />
+（<a href="../Page/ナムコットコレクション.md" title="wikilink">NAMCO MUSEUM ARCHIVES Vol.2</a>）</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Nintendo_Switch" title="wikilink">Nintendo Switch</a>（日本国外）<br />
+<a href="https://ja.wikipedia.org/wiki/PlayStation_4" title="wikilink">PlayStation 4</a><br />
+<a href="https://ja.wikipedia.org/wiki/Xbox_One" title="wikilink">Xbox One</a><br />
+Windows（<a href="../Page/Steam.md" title="wikilink">Steam</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/B.B.スタジオ" title="wikilink">B.B.スタジオ</a><br />
+<a href="../Page/M2_(ゲーム会社).md" title="wikilink">M2</a></p></td>
+<td><p>バンナム</p></td>
+<td><p>ダウンロード</p></td>
+<td><p>-</p></td>
+<td><p>NES版の移植</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -370,6 +397,8 @@
   - [ドラゴンスレイヤークロニクル（プロジェクトEGG）](http://www.amusement-center.com/project/egg/special/package_dragonslayerchronicle/)
 
   - （英語）
+
+  - [LSD4: Unofficial Archive of Legacy of the Wizard & Dragon Slayer 4](http://lsd4.starfree.jp/)
 
 [Category:1987年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1987年のファミリーコンピュータ用ソフト "wikilink") [Category:MSX/MSX2用ソフト](https://ja.wikipedia.org/wiki/Category:MSX/MSX2用ソフト "wikilink") [Category:オープンワールドゲーム](https://ja.wikipedia.org/wiki/Category:オープンワールドゲーム "wikilink") [Category:家族を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:家族を題材としたコンピュータゲーム "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:地下を舞台とした作品](https://ja.wikipedia.org/wiki/Category:地下を舞台とした作品 "wikilink") [Category:ドラゴンスレイヤーシリーズ](https://ja.wikipedia.org/wiki/Category:ドラゴンスレイヤーシリーズ "wikilink") [Category:ナムコのゲームソフト](https://ja.wikipedia.org/wiki/Category:ナムコのゲームソフト "wikilink") [Category:プロジェクトEGG対応ソフト](https://ja.wikipedia.org/wiki/Category:プロジェクトEGG対応ソフト "wikilink")
 

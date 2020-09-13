@@ -293,7 +293,7 @@
 <td><p>「ゲーム・オブ・ザ・イヤー」</p></td>
 <td><ul>
 <li>ゲーム・オブ・ザ・イヤー2005</li>
-<li>「<a href="https://ja.wikipedia.org/wiki/ガンパレードマーチ" title="wikilink">ガンパレ</a>」を創った男</li>
+<li>「<a href="../Page/高機動幻想ガンパレード・マーチ.md" title="wikilink">ガンパレ</a>」を創った男</li>
 <li>「saku saku」第11弾</li>
 </ul></td>
 </tr>

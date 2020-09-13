@@ -20,7 +20,6 @@
 **芸能人等**
 
   - [鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink") (Ami Suzuki) - 日本の女性アーチスト。
-  - [Ami (AV女優)](https://ja.wikipedia.org/wiki/Ami_\(AV女優\) "wikilink") - 日本のAV女優。
   - [Dream Ami](../Page/Dream_Ami.md "wikilink") - 女性ボーカル&ダンスグループ「[Dream](../Page/Dream_\(音楽ユニット\).md "wikilink")」および「[E-girls](https://ja.wikipedia.org/wiki/E-girls "wikilink")」の元メンバー
   - [Ami (アイドルグループ)](https://ja.wikipedia.org/wiki/Ami_\(アイドルグループ\) "wikilink") - 小谷みさこ、吉田美花葉、三宅えみの3人によるアイドルグループ。
   - [AMIAYA](https://ja.wikipedia.org/wiki/AMIAYA "wikilink") - 日本の双子の姉(AMI)、妹(AYA)による女性ユニット。歌手、モデル

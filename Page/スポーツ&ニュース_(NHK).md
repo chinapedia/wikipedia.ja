@@ -65,7 +65,7 @@
   - [NHKニュース](../Page/NHKニュース.md "wikilink")
   - [NHKニュース11](../Page/NHKニュース11.md "wikilink")
   - [きょうのニュース&スポーツ](../Page/きょうのニュース&スポーツ.md "wikilink")（後継番組、2007年4月 - 2010年3月）
-  - [ニュースチェック11](https://ja.wikipedia.org/wiki/ニュースチェック11 "wikilink")（同、2016年4月 - ）
+  - [ニュースチェック11](https://ja.wikipedia.org/wiki/ニュースチェック11 "wikilink")（同、2016年4月 - 2019年3月）
   - [ニュースウオッチ9](../Page/ニュースウオッチ9.md "wikilink")（2006年4月 - ）
 
 <!-- end list -->

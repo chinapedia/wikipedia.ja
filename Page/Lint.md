@@ -34,7 +34,11 @@ int foo(int count) {
 
 ## 「lint」の派生用法
 
-転じて、C言語に限らず、各種言語で書かれた文書に対して構文チェックやコード解析を行うプログラムも、lint と呼ばれるようになった。この意味での lint の代表例としては、[HTMLの文法チェックを行う](../Page/HyperText_Markup_Language.md "wikilink") [Another HTML-lint](../Page/Another_HTML-lint.md "wikilink") がある。[Android Studioでは](https://ja.wikipedia.org/wiki/Android_Studio "wikilink")[Java](https://ja.wikipedia.org/wiki/Java "wikilink")および[Kotlin](https://ja.wikipedia.org/wiki/Kotlin "wikilink")で書かれたコードに対して静的解析が利用可能だが、lint自身がJava/Kotlinで実装されている\[1\]。
+転じて、コードをチェック・解析することを**lint**\[1\]、lintを行うプログラムを**linter**と呼ぶ\[2\]。linterの例には[HTMLの文法チェックを行う](../Page/HyperText_Markup_Language.md "wikilink")[Another HTML-lint](../Page/Another_HTML-lint.md "wikilink") がある。[Android Studioでは](https://ja.wikipedia.org/wiki/Android_Studio "wikilink")[Java](https://ja.wikipedia.org/wiki/Java "wikilink")および[Kotlin](https://ja.wikipedia.org/wiki/Kotlin "wikilink")で書かれたコードに対してlint（静的解析）が利用可能である\[3\]。
+
+コンパイラが存在する言語の場合、[静的コード解析](../Page/静的コード解析.md "wikilink")に[コンパイラ](../Page/コンパイラ.md "wikilink")とlinterを併用することで、字句/構文チェックと意味論的チェックを実現できる。リアルタイムに動作するlinterを利用すれば、コーディングしながら常時lintingを行える。例えばVSCode上でTypeScriptコードを書く場合、字句/構文チェックを担う`tsserver`\[4\]とlintingを担う`ESLint`を用いてコーディング中に常時静的コード解析が走る状態を実現できる。
+
+lintingをおこなっても即座にバグが発見されるわけではない（lintエラー≠コンパイルエラー）。lintingの主たる目的は低品質コードの検出による**バグの予防**である。linterは「エラーをしばしば引き起こすパターン\[5\]」あるいは「エラーを避けるベストプラクティスパターン\[6\]」を用いて[品質](../Page/品質.md "wikilink")の低いコードを検出する。検出された低品質コードを改善することにより、バグが埋め込まれる可能性を低減しバグを予防できる。
 
 ## 脚注
 
@@ -50,4 +54,9 @@ int foo(int count) {
 
 [Category:ソフトウェア開発ツール](https://ja.wikipedia.org/wiki/Category:ソフトウェア開発ツール "wikilink") [Category:プログラミング言語の構文](https://ja.wikipedia.org/wiki/Category:プログラミング言語の構文 "wikilink")
 
-1.  [lint/libs/lint-checks/src/main/java/com/android/tools/lint/checks - platform/tools/base - Git at Google](https://android.googlesource.com/platform/tools/base/+/studio-master-dev/lint/libs/lint-checks/src/main/java/com/android/tools/lint/checks?autodive=0/)
+1.  "lint/linting"の用例: [**Linting** Python in Visual Studio Code - VSCode](https://code.visualstudio.com/docs/python/linting)
+2.  "linter"の用例: [ESLint - Pluggable JavaScript **linter**](https://eslint.org/)
+3.  [lint/libs/lint-checks/src/main/java/com/android/tools/lint/checks - platform/tools/base - Git at Google](https://android.googlesource.com/platform/tools/base/+/studio-master-dev/lint/libs/lint-checks/src/main/java/com/android/tools/lint/checks?autodive=0/)
+4.  likeなプロトコルでリアルタイム動作するTypeScriptコンパイラ/Language server。VSCode組み込み。
+5.  Possible Errors: These rules relate to possible syntax or logic errors [Rules - ESLint](https://eslint.org/docs/rules/)
+6.  Best Practices: These rules relate to better ways of doing things to help you avoid problems [Rules - ESLint](https://eslint.org/docs/rules/)

@@ -36,7 +36,7 @@ DVD-Video をリッピングして[ハードディスクドライブ](https://ja
 
 ## 外部リンク
 
-  - [The Official DVD Decrypter Website](http://web.archive.org/web/20050603000241/http://www.dvddecrypter.com/) （閉鎖された公式サイトの [Internet Archive](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink") による[ウェブアーカイブ](../Page/ウェブアーカイブ.md "wikilink")）
+  - [The Official DVD Decrypter Website](https://web.archive.org/web/20050603000241/http://www.dvddecrypter.com/) （閉鎖された公式サイトの [Internet Archive](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink") による[ウェブアーカイブ](../Page/ウェブアーカイブ.md "wikilink")）
   - [音楽配信メモ — なんで DVD コピーは「違法」なの！？（[日経クリック](https://ja.wikipedia.org/wiki/日経クリック "wikilink") 2003年10月号）](http://xtc.bz/article/click2003-10dvd.html)
   - [妖精現実フェアリアル内リッピングに関しての考察](http://www.faireal.net/articles/7/04/#appendixe)
 

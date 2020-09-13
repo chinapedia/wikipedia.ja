@@ -228,7 +228,7 @@ IZUMO2は2004年7月30日に[Studio e.go\!より発売された](../Page/Studio_
     腕は確かだが少々気弱な剣士。桐谷を頼りに横浜に来た。仲間内では一応リーダー格。
   - 沢木 宗一郎（さわき そういちろう）
     声：[ワッショイ太郎](https://ja.wikipedia.org/wiki/ワッショイ太郎 "wikilink")
-    精霊に対応できるため海軍から出向したサーベル使い。一見キザっぽいが実はウブで女性には奥手。
+    精霊に対応できるため、海軍から出向したサーベル使い。一見キザっぽいが実はウブで女性には奥手。
   - 山田 虎之助（やまだ とらのすけ）
     声：[空野太陽](../Page/空野太陽.md "wikilink")
     美園とは幼馴染で彼女の道場で修行していたが家出し、横浜に来て暴れていたところを桐谷に打ち負かされて弟子入り志願する。
@@ -507,8 +507,8 @@ IZUMO2は2004年7月30日に[Studio e.go\!より発売された](../Page/Studio_
 ## 外部リンク
 
   - [Studio e.go\! official website](http://www.studio-ego.jp/)（年齢確認あり）
-  - [IZUMO complete](http://web.archive.org/web/20121102072106/http://www.goodnavigate.com/GN/products/IZUMO/index.html) - [ウェイバックマシン](https://ja.wikipedia.org/wiki/ウェイバックマシン "wikilink")（2012年11月2日アーカイブ分）
-  - [IZUMO2 猛き剣の閃記](http://web.archive.org/web/20121102023827/http://www.goodnavigate.com/GN/products/IZUMO2/index.html) - [ウェイバックマシン](https://ja.wikipedia.org/wiki/ウェイバックマシン "wikilink")（2012年11月2日アーカイブ分）
+  - [IZUMO complete](https://web.archive.org/web/20121102072106/http://www.goodnavigate.com/GN/products/IZUMO/index.html) - [ウェイバックマシン](https://ja.wikipedia.org/wiki/ウェイバックマシン "wikilink")（2012年11月2日アーカイブ分）
+  - [IZUMO2 猛き剣の閃記](https://web.archive.org/web/20121102023827/http://www.goodnavigate.com/GN/products/IZUMO2/index.html) - [ウェイバックマシン](https://ja.wikipedia.org/wiki/ウェイバックマシン "wikilink")（2012年11月2日アーカイブ分）
   - [IZUMO零～横濱あやかし絵巻～](http://www.success-corp.co.jp/software/ps2/izumo/index.html)
   - [ミルキーズピクチャーズ](http://www.ms-pictures.com/) <span style="color:red">（18歳未満閲覧禁止）</span>
 

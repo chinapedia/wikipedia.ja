@@ -255,7 +255,7 @@
 </tr>
 <tr class="even">
 <td><p>1947</p></td>
-<td><p>赤い家<br />
+<td><p><a href="../Page/赤い家.md" title="wikilink">赤い家</a><br />
 '' The Red House''</p></td>
 <td><p>ピート・モーガン</p></td>
 <td></td>
@@ -388,7 +388,7 @@
 </tr>
 <tr class="odd">
 <td><p>1964</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ちょっとご主人貸して" title="wikilink">ちょっとご主人貸して</a><br />
+<td><p><a href="../Page/ちょっとご主人貸して.md" title="wikilink">ちょっとご主人貸して</a><br />
 <em>Good Neighbor Sam</em></p></td>
 <td><p>サイモン</p></td>
 <td></td>

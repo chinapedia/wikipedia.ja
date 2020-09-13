@@ -99,11 +99,11 @@
 
   - [GABALL R and C 公式サイト](http://www.randc.jp/artist/gaball/)
 
-[Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:テクノミュージシャン](https://ja.wikipedia.org/wiki/Category:テクノミュージシャン "wikilink") [Category:小室哲哉](https://ja.wikipedia.org/wiki/Category:小室哲哉 "wikilink")
+[Category:日本のテクノミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のテクノミュージシャン "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:小室哲哉](https://ja.wikipedia.org/wiki/Category:小室哲哉 "wikilink")
 
 1.  [メディアファクトリー](../Page/メディアファクトリー.md "wikilink")刊「[ザッピィ](https://ja.wikipedia.org/wiki/ザッピィ "wikilink")」2001年9月号206Pより。
 2.  [スイッチ・パブリッシング](../Page/スイッチ・パブリッシング.md "wikilink")刊「Switch」2002年8月号「SIT UP LATE 小室哲哉（GABALL）／原田大三郎（GABALL）」109P-110Pより。
-3.  [リットーミュージック](../Page/リットーミュージック.md "wikilink")刊 『[キーボード・マガジン](../Page/キーボード・マガジン.md "wikilink")』 2001年12月号32P-40Pより。
+3.  [リットーミュージック](../Page/リットーミュージック.md "wikilink")刊 『[キーボード・マガジン](../Page/キーボード・マガジン.md "wikilink")』 2001年12月号「特集 小室哲哉 後編 TKが語るシンセ・サウンドの展望＆自宅スタジオ潜入レポート TK interview & studio report \<2\> ROJAM TECH FIVE STUDIO」32P-40Pより。
 4.  [「小室新ユニット『GABALL』」](https://web.archive.org/web/20011118125639/http://www.nikkansports.com/news/entert/p-et-tp0-011117-07.html)より。
 5.
 6.  [GABALL／タイトル未定 【 ムラウチドットコム 】](http://www.murauchi.com/MCJ-front-web/CoD/0000000129551/)より。

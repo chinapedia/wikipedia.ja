@@ -114,7 +114,7 @@
   - Gシステム02
     アイゼングラードの北に位置する大型Gシステム。入口はカードキーによりロックされており、アイゼングラード軍の管理下にあるものと思われる。
   - Gシステム03
-    人里離れた辺境の地にある大型Gシステム。普段は空賊の縄張りだが、近頃はダークモビル同盟の驚異に晒されている。
+    人里離れた辺境の地にある大型Gシステム。普段は空賊の縄張りだが、近頃はダークモビル同盟の脅威に晒されている。
   - Gシステム04
     南米に位置する大型Gシステム。施設内は老朽化が進行しており、至るところが崩落している。
   - Gシステム05
@@ -217,8 +217,7 @@
 
 ## 外部リンク
 
-  - [ガンダムトゥルーオデッセイ 〜失われしGの伝説〜 公式サイト](http://www.bandaigames.channel.or.jp/list/ps2_g-rpg/)
-
+  -
 [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:ガンダムシリーズゲーム作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズゲーム作品 "wikilink") [Category:バンダイのゲームソフト](https://ja.wikipedia.org/wiki/Category:バンダイのゲームソフト "wikilink") [Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink")
 
 1.  \[<https://twitter.com/akiman7/status/565896673759485952/>　 あきまんのTwitter 2014年2月12日 7:34の発言\]

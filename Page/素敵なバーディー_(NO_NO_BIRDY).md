@@ -3,7 +3,7 @@
 
 「**素敵なバーディー (NO NO BIRDY)**」（すてきなバーディー ノー・ノー・バーディー）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の楽曲。自身の33作目の[シングル](../Page/シングル.md "wikilink")として、[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")から[8cmCDで](https://ja.wikipedia.org/wiki/8センチCD "wikilink")[1993年](../Page/1993年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")に発売された。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")にも8cmCDとして、[2005年](../Page/2005年.md "wikilink")6月25日には12cmCDで再発売されている。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")にも8cmCDとして、[2005年](../Page/2005年.md "wikilink")6月25日には12cmCDで再発売されている。[2014年](../Page/2014年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")からはダウンロード配信、[2019年](../Page/2019年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")からはストリーミング配信が開始されている\[1\]\[2\]。
 
 ## 背景
 
@@ -27,7 +27,7 @@
     （作詞・作曲:[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")　編曲:サザンオールスターズ　編曲補:片山敦夫）
       -
         本作の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")の監督は当時まだ無名だった[岩井俊二](../Page/岩井俊二.md "wikilink")であり、[江ノ島電鉄](../Page/江ノ島電鉄.md "wikilink")を借り切って撮影された。MVはサザンの[夏](../Page/夏.md "wikilink")や[海](../Page/海.md "wikilink")といったイメージに沿った演出がなされている。[2004年](../Page/2004年.md "wikilink")発売のMV集『[ベストヒットUSAS (Ultra Southern All Stars)](../Page/ベストヒットUSAS_\(Ultra_Southern_All_Stars\).md "wikilink")』に収録されている。
-        [島本理生](../Page/島本理生.md "wikilink")はこの曲で決定的にサザンファンになったという\[1\]。
+        [島本理生](../Page/島本理生.md "wikilink")はこの曲で決定的にサザンファンになったという\[3\]。
 2.  **遥かなる瞬間(とき)** (4:33)
     （作詞・作曲:[松田弘](../Page/松田弘.md "wikilink")　編曲:サザンオールスターズ　編曲補:片山敦夫）
       -
@@ -74,4 +74,6 @@
 
 [Category:サザンオールスターズの楽曲](https://ja.wikipedia.org/wiki/Category:サザンオールスターズの楽曲 "wikilink") [Category:桑田佳祐が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐が制作した楽曲 "wikilink") [Category:1993年のシングル](https://ja.wikipedia.org/wiki/Category:1993年のシングル "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink")
 
-1.  [文藝春秋](../Page/文藝春秋_\(雑誌\).md "wikilink") 2018年10月号 P179より。
+1.  [サザン、全266曲を世界111ヶ国で配信](https://www.oricon.co.jp/news/2046030/full/) オリコン 2014年12月17日配信, 2020年6月4日閲覧
+2.  [サザン関連全972曲 サブスク一斉解禁 メンバーソロ曲も対象に](https://www.oricon.co.jp/news/2151435/full/) オリコン 2019年12月20日配信, 2019年12月20日閲覧
+3.  [文藝春秋](../Page/文藝春秋_\(雑誌\).md "wikilink") 2018年10月号 P179より。

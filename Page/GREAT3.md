@@ -132,8 +132,8 @@
 <td><p>1998年4月29日</p></td>
 <td><p><strong>CALiGULA</strong></p></td>
 <td><p>TODT-5127</p></td>
-<td><p>CALIGULA／CALIGULA (INSTRUMENTAL)</p></td>
-<td><p>M1のゲストボーカルとして<a href="https://ja.wikipedia.org/wiki/CHARA" title="wikilink">CHARA</a>が参加。<a href="../Page/スペースシャワーTV.md" title="wikilink">スペースシャワーTV</a>1998年5月度<a href="../Page/スペースシャワーTV歴代POWER_PUSH一覧.md" title="wikilink">POWER PUSH</a><br />
+<td><p>CALiGULA／CALiGULA (iNSTRUMENTAL)</p></td>
+<td><p>M1のゲストボーカルとして<a href="https://ja.wikipedia.org/wiki/CHARA" title="wikilink">CHARA</a>が参加。<a href="../Page/スペースシャワーTV.md" title="wikilink">スペースシャワーTV</a>1998年4月度<a href="../Page/スペースシャワーTV歴代POWER_PUSH一覧.md" title="wikilink">POWER PUSH</a><br />
 オリコン最高71位</p></td>
 </tr>
 <tr class="odd">

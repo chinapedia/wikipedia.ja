@@ -14,7 +14,7 @@
   - いくつもの段階があるボーカル・[オーディション](../Page/オーディション.md "wikilink")と、難解で複雑であると言われたSD制作部の育成システムを勝ち抜いてきたボーカリスト2名をメンバーに有していた為か、デビューシングル「BECAUSE OF LOVE」と、“声の成分が[MY LITTLE LOVERのakkoに似ている](https://ja.wikipedia.org/wiki/My_Little_Lover "wikilink")”という理由で選ばれた外部のアマチュアボーカリストを[フィーチャリング](../Page/フィーチャリング.md "wikilink")した4thシングル「[HEARTBEAT SNOW 〜THEME OF SNOW BEAT](../Page/HEARTBEAT_SNOW_〜THEME_OF_SNOW_BEAT.md "wikilink")」以外のHIMの全楽曲のボイス・パートは、すべて[SHIZUKAと](https://ja.wikipedia.org/wiki/中嶋静香 "wikilink")[SHUNGOの声のみで構成されている](https://ja.wikipedia.org/wiki/shungo. "wikilink")（ただし5thシングル「SHOOTING STAR」の前半部導入の[ラップ](../Page/ラップ.md "wikilink")部分はその限りでない。なお、デビューシングル「BECAUSE OF LOVE」の男性コーラスには[高尾直樹](../Page/高尾直樹.md "wikilink")が起用されている）。また、現行の[J-POP](../Page/J-POP.md "wikilink")におけるほとんどの現場で制作の一過程として存在する、いわゆる[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")以外の多くのシンガーが[歌録りに備え](https://ja.wikipedia.org/wiki/レコーディング "wikilink")、[メロディー](https://ja.wikipedia.org/wiki/メロディー "wikilink")や譜割りを覚えるための“お手本”として事前に渡されるプロの[スタジオミュージシャン](https://ja.wikipedia.org/wiki/スタジオミュージシャン "wikilink")による“仮歌”も存在しなかったという。
   - 解散後、プロジェクト主宰者である伊秩本人が「HIMは[サンプリング](../Page/サンプリング.md "wikilink")・実験的プロジェクトであった」というコメントしているが、当時の[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")（現：[ヴィジョンファクトリー](https://ja.wikipedia.org/wiki/ヴィジョンファクトリー "wikilink")）の社長であった[平哲夫](../Page/平哲夫.md "wikilink")が、伊秩のHIMでのサウンド・メイクを評価し、伊秩を[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")のプロデューサーに抜擢する。プロジェクト終了後、HIMの楽曲は[ライジングプロダクション所属アーティスト](https://ja.wikipedia.org/wiki/ヴィジョンファクトリー "wikilink")（[dps以外](https://ja.wikipedia.org/wiki/deeps "wikilink")）によってカバーされる（下記“他アーティストによるHIM関連楽曲のカバー ”参照。）。
   - なお、SHIZUKAとSHUNGOがSME SD制作部育成時代にSD制作部部長を務めており、同部主催のショーケースを経て、二人をそれぞれHIM加入へ導いたのが、後の“[藤岡藤巻](../Page/藤岡藤巻.md "wikilink")”の[藤岡孝章](../Page/藤岡孝章.md "wikilink")である。
-  - 雑誌『[egg](https://ja.wikipedia.org/wiki/egg "wikilink")』との連動企画であり、HIMプロデュースという形を取ってデビューした“[HIM-egg](https://ja.wikipedia.org/wiki/HIM-egg "wikilink")（エイチ・アイ・エム・エッグ）”というガールズユニットが存在。[1996年](../Page/1996年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")、シングル「[AS TIME GOES BY](../Page/AS_TIME_GOES_BY.md "wikilink")」を単発リリースした（HIM 2ndアルバム『[HIMIX A2Z](https://ja.wikipedia.org/wiki/HIMIX_A2Z "wikilink")』にも"PERFORMED BY HIM-egg"として収録）。
+  - 雑誌『[egg](https://ja.wikipedia.org/wiki/egg "wikilink")』との連動企画であり、HIMプロデュースという形を取ってデビューした“[HIM-egg](https://ja.wikipedia.org/wiki/HIM-egg "wikilink")（エイチ・アイ・エム・エッグ）”というガールズユニットが存在。[1996年](../Page/1996年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")、シングル「[AS TIME GOES BY](../Page/AS_TIME_GOES_BY_\(HIM-eggの曲\).md "wikilink")」を単発リリースした（HIM 2ndアルバム『[HIMIX A2Z](https://ja.wikipedia.org/wiki/HIMIX_A2Z "wikilink")』にも"PERFORMED BY HIM-egg"として収録）。
 
 ## メンバー
 
@@ -161,90 +161,53 @@ TBS『ランク王国』オープニングテーマ/Minami<a href="https://ja.wi
 ### HIM楽曲
 
   - **[知念里奈](https://ja.wikipedia.org/wiki/知念里奈 "wikilink")**
-
-<!-- end list -->
-
-  -
-    8thシングル**「[GOD BLESS THE WORLD](https://ja.wikipedia.org/wiki/GOD_BLESS_THE_WORLD "wikilink")」**（1999年3月31日リリース）
       -
-        ⇔ HIM**「MIZU-NO-RAKUEN」**（2ndアルバム『[HIMIX A2Z](https://ja.wikipedia.org/wiki/HIMIX_A2Z "wikilink")』収録）
-
-<!-- end list -->
-
+        8thシングル**「[GOD BLESS THE WORLD](https://ja.wikipedia.org/wiki/GOD_BLESS_THE_WORLD "wikilink")」**（1999年3月31日リリース）
+          -
+            ⇔ HIM**「MIZU-NO-RAKUEN」**（2ndアルバム『[HIMIX A2Z](https://ja.wikipedia.org/wiki/HIMIX_A2Z "wikilink")』収録）
   - **[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")**
-
-<!-- end list -->
-
-  -
-    10thシングル「[Breakin' out to the morning](../Page/Breakin'_out_to_the_morning.md "wikilink")」c/w**「アダムとイヴ」**（1999年5月19日リリース）
       -
-        ⇔ HIM**「SEVENTEEN DANCE〜I'VE BEEN LOOKIN'4 U」**（1stアルバム『[HIMAX\! GREATEST HITS AND MORE](https://ja.wikipedia.org/wiki/HIMAX!_GREATEST_HITS_AND_MORE "wikilink")』収録）
-
-<!-- end list -->
-
+        10thシングル「[Breakin' out to the morning](../Page/Breakin'_out_to_the_morning.md "wikilink")」c/w**「アダムとイヴ」**（1999年5月19日リリース）
+          -
+            ⇔ HIM**「SEVENTEEN DANCE〜I'VE BEEN LOOKIN'4 U」**（1stアルバム『[HIMAX\! GREATEST HITS AND MORE](https://ja.wikipedia.org/wiki/HIMAX!_GREATEST_HITS_AND_MORE "wikilink")』収録）
   - **[Eriko with Crunch](https://ja.wikipedia.org/wiki/Eriko_with_Crunch "wikilink")（[今井絵理子](https://ja.wikipedia.org/wiki/今井絵理子 "wikilink")）**
-
-<!-- end list -->
-
-  -
-    SPEED 10thシングル「[Breakin' out to the morning](../Page/Breakin'_out_to_the_morning.md "wikilink")」c/w**「[EVERYDAY, BE WITH YOU](../Page/EVERYDAY,_BE_WITH_YOU.md "wikilink")」**（1999年5月19日リリース）
       -
-        ⇔ HIM**「EVERYDAY, BE WITH YOU」**（2ndアルバム『HIMIX A2Z』収録）
-
-<!-- end list -->
-
+        SPEED 10thシングル「[Breakin' out to the morning](../Page/Breakin'_out_to_the_morning.md "wikilink")」c/w**「[EVERYDAY, BE WITH YOU](../Page/EVERYDAY,_BE_WITH_YOU.md "wikilink")」**（1999年5月19日リリース）
+          -
+            ⇔ HIM**「EVERYDAY, BE WITH YOU」**（2ndアルバム『HIMIX A2Z』収録）
   - **[八反安未果](https://ja.wikipedia.org/wiki/八反安未果 "wikilink")**
-
-<!-- end list -->
-
-  -
-    3rdシングル**「SHOOTING STAR」**（1999年5月26日リリース）
       -
-        ⇔ HIM 5thシングル**「[SHOOTING STAR](../Page/SHOOTING_STAR_\(HIMの曲\).md "wikilink")」**（2ndアルバム『HIMIX A2Z』に、[リミックス](../Page/リミックス.md "wikilink")と共に収録）
-
-<!-- end list -->
-
+        3rdシングル**「SHOOTING STAR」**（1999年5月26日リリース）
+          -
+            ⇔ HIM 5thシングル**「[SHOOTING STAR](../Page/SHOOTING_STAR_\(HIMの曲\).md "wikilink")」**（2ndアルバム『HIMIX A2Z』に、[リミックス](../Page/リミックス.md "wikilink")と共に収録）
   - **HITOE'S 57 MOVE（[新垣仁絵](https://ja.wikipedia.org/wiki/新垣仁絵 "wikilink")）**
-
-<!-- end list -->
-
-  -
-    ソロ・デビューシングル**「[INORI](../Page/INORI_\(HIMの曲\).md "wikilink")」**（1999年6月30日リリース）
       -
-        ⇔ HIM**「INORI」**（2ndアルバム『HIMIX A2Z』収録）
-
-<!-- end list -->
-
+        ソロ・デビューシングル**「[INORI](../Page/INORI_\(HIMの曲\).md "wikilink")」**（1999年6月30日リリース）
+          -
+            ⇔ HIM**「INORI」**（2ndアルバム『HIMIX A2Z』収録）
   - **[dps](../Page/Deeps.md "wikilink")**（**[deeps](https://ja.wikipedia.org/wiki/deeps "wikilink")**）
-
-<!-- end list -->
-
-  -
-    8thシングル**「HEARTBREAK DIARY」**（1999年7月22日リリース）
       -
-        ⇔ HIM**「HEARTBREAK DIARY」**（1stアルバム『HIMAX\! GREATEST HITS AND MORE』収録）
-
-<!-- end list -->
-
+        8thシングル**「HEARTBREAK DIARY」**（1999年7月22日リリース）
+          -
+            ⇔ HIM**「HEARTBREAK DIARY」**（1stアルバム『HIMAX\! GREATEST HITS AND MORE』収録）
   - **[MAX](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")**
-
-<!-- end list -->
-
-  -
-    14thシングル**「[銀河の誓い](https://ja.wikipedia.org/wiki/銀河の誓い "wikilink")」**（1999年8月25日リリース）
       -
-        ⇔ HIM 3rdシングル**「[AQUARIUS](../Page/AQUARIUS_\(HIMの曲\).md "wikilink")」**（1stアルバム『HIMAX\! GREATEST HITS AND MORE』にリミックスと共に、2ndアルバム『HIMIX A2Z』にリミックス収録）
+        14thシングル**「[銀河の誓い](https://ja.wikipedia.org/wiki/銀河の誓い "wikilink")」**（1999年8月25日リリース）
+          -
+            ⇔ HIM 3rdシングル**「[AQUARIUS](../Page/AQUARIUS_\(HIMの曲\).md "wikilink")」**（1stアルバム『HIMAX\! GREATEST HITS AND MORE』にリミックスと共に、2ndアルバム『HIMIX A2Z』にリミックス収録）
+  - **[EnGene.](https://ja.wikipedia.org/wiki/EnGene. "wikilink")**
+      -
+        8thシングル**「ETERNAL」**（2020年8月1日リリース）
+          -
+            ⇔ HIM 6thシングル**「[ETERNAL](../Page/ETERNAL_\(HIMの曲\).md "wikilink")」**（2ndアルバム『HIMIX A2Z』収録）
 
 ### HIM-egg楽曲
 
   - **[hiro](../Page/島袋寛子.md "wikilink")（[島袋寛子](../Page/島袋寛子.md "wikilink")）**
-
-<!-- end list -->
-
-  -
-    ソロ・デビューシングル**「[AS TIME GOES BY](../Page/AS_TIME_GOES_BY.md "wikilink")」**（1999年8月18日リリース）
       -
-        ⇔ [HIM-egg](https://ja.wikipedia.org/wiki/HIM-egg "wikilink") デビュー・シングル**「AS TIME GOES BY」**（HIM 2ndアルバム『HIMIX A2Z』収録。）
+        ソロ・デビューシングル**「[AS TIME GOES BY](../Page/AS_TIME_GOES_BY_\(HIM-eggの曲\).md "wikilink")」**（1999年8月18日リリース）
+          -
+            ⇔ [HIM-egg](https://ja.wikipedia.org/wiki/HIM-egg "wikilink") デビュー・シングル**「AS TIME GOES BY」**（HIM 2ndアルバム『HIMIX A2Z』収録。）
 
 ## 関連項目
 
@@ -259,4 +222,4 @@ TBS『ランク王国』オープニングテーマ/Minami<a href="https://ja.wi
 
   - [HIM ソニーミュージック オフィシャルサイト](https://www.sonymusic.co.jp/artist/Him/)
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:1995年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1995年に結成した音楽グループ "wikilink") [Category:1997年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に解散した音楽グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink")
+[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:1995年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1995年に結成した音楽グループ "wikilink") [Category:1997年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に解散した音楽グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[Zao号](https://ja.wikipedia.org/wiki/Zao号)から翻訳されています。
 
 
-[280px](https://ja.wikipedia.org/wiki/ファイル:Niigata-kotsu-307.jpg "wikilink") **Zao号**（ざおうごう）は、[山形県](../Page/山形県.md "wikilink")[山形市](../Page/山形市.md "wikilink")と[新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")とを結ぶ[高速バス](../Page/高速バス.md "wikilink")路線の愛称である。
+[280px](https://ja.wikipedia.org/wiki/ファイル:Niigata-kotsu-576.jpg "wikilink") **Zao号**（ざおうごう）は、[山形県](../Page/山形県.md "wikilink")[山形市](../Page/山形市.md "wikilink")と[新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")とを結ぶ[高速バス](../Page/高速バス.md "wikilink")路線の愛称である。
 
 ## 概説
 
@@ -197,7 +197,9 @@
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[4月1日](../Page/4月1日.md "wikilink") - 中条バス停廃止。胎内BS新設。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）4月1日 - この日より山形駅前にも停車。新潟行は山交ビルバスターミナル発山形駅前経由、山形行は山交ビルバスターミナル経由山形駅前着に変更。
   - [2019年](../Page/2019年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")元年）[10月1日](../Page/10月1日.md "wikilink") - [消費税増税等に伴う運賃改定](../Page/消費税法.md "wikilink")\[2\]\[3\]。
-  - [2020年](../Page/2020年.md "wikilink")（令和2年）[4月25日](../Page/4月25日.md "wikilink") - [新型コロナウイルスの影響により](../Page/2019新型コロナウイルス.md "wikilink")、この日より当面の間運休\[4\]\[5\]。
+  - [2020年](../Page/2020年.md "wikilink")（令和2年）
+      - [4月25日](../Page/4月25日.md "wikilink") - [新型コロナウイルスの影響により](../Page/2019新型コロナウイルス.md "wikilink")、この日より当面の間運休\[4\]\[5\]。
+      - [6月1日](../Page/6月1日.md "wikilink") - この日より運行を再開\[6\]\[7\]。
 
 ## 利用状況
 
@@ -229,3 +231,5 @@
 3.
 4.
 5.
+6.
+7.

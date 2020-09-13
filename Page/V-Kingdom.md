@@ -96,7 +96,7 @@
       - 第26回(09/29)放送 [KENN](../Page/KENN.md "wikilink")([The NaB's](https://ja.wikipedia.org/wiki/The_NaB's "wikilink"))、[中原麻衣](https://ja.wikipedia.org/wiki/中原麻衣 "wikilink")
       - 第27回(10/06)放送 [岩田光央](../Page/岩田光央.md "wikilink")・[鈴村健一](../Page/鈴村健一.md "wikilink")
       - 第28回(10/13)放送 [堀内賢雄](../Page/堀内賢雄.md "wikilink")
-      - 第29回(10/20)放送 [朴璐美](../Page/朴ロ美.md "wikilink")、[桃井はるこ](../Page/桃井はるこ.md "wikilink")
+      - 第29回(10/20)放送 [朴璐美](https://ja.wikipedia.org/wiki/朴璐美 "wikilink")、[桃井はるこ](../Page/桃井はるこ.md "wikilink")
       - 第30回(10/27)放送 [鶴巻和哉](../Page/鶴巻和哉.md "wikilink")
       - 第31回(11/03)放送 [新谷良子](../Page/新谷良子.md "wikilink")
       - 第32回(11/10)放送 [牧野由依](../Page/牧野由依.md "wikilink")

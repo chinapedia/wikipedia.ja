@@ -378,4 +378,4 @@
   - [吉本新喜劇オフィシャルサイト](http://www.yoshimoto.co.jp/shinkigeki/) - オリジナル版の情報がある。
 
   -
-[Category:ヨシモトファンダンゴTVの番組](https://ja.wikipedia.org/wiki/Category:ヨシモトファンダンゴTVの番組 "wikilink") [Category:吉本興業の番組](https://ja.wikipedia.org/wiki/Category:吉本興業の番組 "wikilink")
+[Category:ヨシモトファンダンゴTVの番組](https://ja.wikipedia.org/wiki/Category:ヨシモトファンダンゴTVの番組 "wikilink")

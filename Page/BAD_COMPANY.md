@@ -22,6 +22,7 @@
     演 - [青木伸輔](../Page/青木伸輔.md "wikilink")
     本編でのもう1人の主人公。桜いわく、趣味は「食うこと以外はナシ」。喧嘩では無類の強さを誇ることから、辻堂八中には「鬼塚には手を出すな」という[暗黙のルールが存在する](https://ja.wikipedia.org/wiki/不文律 "wikilink")。売られた喧嘩は買うが、喧嘩より遊び呆けるのが好き。フトシ、桜、イサミとよくつるんでいる。仲間想いであり、髑髏団にバイクを奪われた際に真っ先に殴りこみをかけた。終始、龍二とはいがみ合っていたが、嫌ってはいない。
   - 大和桜（やまと さくら）
+    演 - [柳明日香](../Page/柳明日香.md "wikilink")
     本編におけるヒロインで、英吉の親友の1人。髪はショートヘア。よく突然現れてはパンツを見せている。龍二いわく「パンツ女」。パンツを見られる事を特に気にしている素振りは無い。英吉が髑髏団に殴りこみをかけた際に、道路に立ちふさがって暴走族（暴走天使）に助けを求めた。暴走天使の集会にも参加するようになってからは、手作りの特攻服を作ってきていた。「鬼爆」は彼女の命名によるものである。
   - フトシ
     英吉の親友の1人。名前通り、体格は太め。年中ところ構わずエロ本を読んでいる。[安達祐実](../Page/安達祐実.md "wikilink")の写真集をもっていたようで、ロリコン呼ばわりされていた。『湘南純愛組\!』での英吉と龍二の会話によれば、東京の私立高校に進学している。
@@ -34,13 +35,43 @@
   - 宇佐美陵（うさみ りょう）
     不良グループ「髑髏団」のリーダー。フトシとイサミを暴行してバイクを奪った。後に殴り込みをかけた英吉にタイマンで完膚無きまで叩きのめされた。
   - 夏月（なつき）
+    演 - [今井恵理](../Page/今井恵理.md "wikilink")
     本編におけるヒロイン。元・不良の女性。18歳。夜中、自販機でエロ本を買おうとした英吉たちと偶然知り合う。[ハコスカに乗り](https://ja.wikipedia.org/wiki/日産・スカイライン#3代目_C10型（1968年-1972年） "wikilink")、かなりのドラテクを持つ。京介と面識があり、集会にも参加した。龍二に可能性を感じ、CBXを託した。小学校のときにはすでに煙草、酒を始めていた。
   - 佐藤昌美（さとう まさみ）
     『湘南純愛組\!』では板金業を営んでいたが、この当時は悪童らしく髪は気合の入ったリーゼントである。
   - 根津アキラ（ねづ あきら）
+    演 - [西守正樹](../Page/西守正樹.md "wikilink")
     元は暴走天使の特隊だったが、喧嘩において京介の意に反する行動をとったことでチームから追い出された。夏月の元彼であり、CBXの持ち主だった。夏月に暴力を振るうが、前はとても大切にしていた描写がある。
   - 横川たかし（よこかわ たかし）
     『湘南純愛組\!』にも登場する。辻堂八中の3年生で不良グループ「鉄面党」のリーダー。喧嘩の腕は立つようだが英吉と龍二には相手にされていない。[ギャグ](../Page/ギャグ.md "wikilink")担当のやられ役である。
+
+## オリジナルビデオ
+
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に公開された。Vシネマ版「湘南純愛組\!」と同じスタッフ陣である。
+
+  - 他キャスト
+
+<!-- end list -->
+
+  - 水谷梨果：[大原かおり](https://ja.wikipedia.org/wiki/大原かおり "wikilink")
+  - 教頭：[羽生昭彦](https://ja.wikipedia.org/wiki/羽生昭彦 "wikilink")
+  - 牛島先生：[石塚英彦](../Page/石塚英彦.md "wikilink")
+
+<!-- end list -->
+
+  - スタッフ
+
+<!-- end list -->
+
+  - 脚本：[大川俊道](../Page/大川俊道.md "wikilink")
+  - 監督：[松井昇](https://ja.wikipedia.org/wiki/松井昇 "wikilink")
+  - 音楽：[村山竜二](https://ja.wikipedia.org/wiki/村山竜二 "wikilink")
+  - 殺陣：[辻井啓伺](https://ja.wikipedia.org/wiki/辻井啓伺 "wikilink")
+  - 技術協力・ポスプロ：[映広](../Page/映広.md "wikilink")
+  - プロデューサー：瀬島光雄
+  - 制作協力：[松竹](../Page/松竹.md "wikilink")テレビ部
+  - 製作：日本映像
+  - 発売：[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")
 
 ## 書誌情報
 
@@ -54,4 +85,4 @@
   - [GTO](../Page/GTO_\(漫画\).md "wikilink")
   - [ヤンキー漫画](../Page/ヤンキー漫画.md "wikilink")
 
-[Category:漫画作品_は](https://ja.wikipedia.org/wiki/Category:漫画作品_は "wikilink") [Category:週刊少年マガジンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年マガジンの漫画作品 "wikilink") [Category:1996年の漫画](https://ja.wikipedia.org/wiki/Category:1996年の漫画 "wikilink") [Category:GTO](https://ja.wikipedia.org/wiki/Category:GTO "wikilink") [Category:不良少年・不良少女を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:不良少年・不良少女を主人公とした漫画作品 "wikilink") [Category:中学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:中学校を舞台とした漫画作品 "wikilink") [Category:漫画のスピンオフ作品](https://ja.wikipedia.org/wiki/Category:漫画のスピンオフ作品 "wikilink") [Category:藤沢とおる](https://ja.wikipedia.org/wiki/Category:藤沢とおる "wikilink") [Category:暴走族を題材とした漫画](https://ja.wikipedia.org/wiki/Category:暴走族を題材とした漫画 "wikilink")
+[Category:漫画作品_は](https://ja.wikipedia.org/wiki/Category:漫画作品_は "wikilink") [Category:週刊少年マガジンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年マガジンの漫画作品 "wikilink") [Category:1996年の漫画](https://ja.wikipedia.org/wiki/Category:1996年の漫画 "wikilink") [Category:GTO](https://ja.wikipedia.org/wiki/Category:GTO "wikilink") [Category:不良少年・不良少女を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:不良少年・不良少女を主人公とした漫画作品 "wikilink") [Category:中学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:中学校を舞台とした漫画作品 "wikilink") [Category:漫画のスピンオフ作品](https://ja.wikipedia.org/wiki/Category:漫画のスピンオフ作品 "wikilink") [Category:藤沢とおる](https://ja.wikipedia.org/wiki/Category:藤沢とおる "wikilink") [Category:暴走族を題材とした漫画](https://ja.wikipedia.org/wiki/Category:暴走族を題材とした漫画 "wikilink") [Category:日本のオリジナルビデオ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルビデオ "wikilink")

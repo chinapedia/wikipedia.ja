@@ -9,7 +9,7 @@
 
   - \- CAC 40とCAC Next 20を構成する合計60銘柄で算出。[2011年](../Page/2011年.md "wikilink")3月21日算出開始。
 
-  - \- 中型株60銘柄で構成。[2011年](../Page/2011年.md "wikilink")3月21日算出開始。主な銘柄として、[イプセン](https://ja.wikipedia.org/wiki/イプセン_\(製薬会社\) "wikilink")、[ADPグループ](../Page/ADPグループ.md "wikilink")、[エールフランス‐KLM](../Page/エールフランス‐KLM.md "wikilink")、[グループセブ](../Page/グループセブ.md "wikilink")、[ザルトリウス](../Page/ザルトリウス.md "wikilink")・ステディム・バイオテック、[ジェーシードゥコー](../Page/ジェーシードゥコー.md "wikilink")、[ネクサンス](https://ja.wikipedia.org/wiki/ネクサンス "wikilink")、[ビック](../Page/ビック_\(フランス企業\).md "wikilink")、[フランセーズ・デ・ジュー](https://ja.wikipedia.org/wiki/フランセーズ・デ・ジュー "wikilink")、[ユーテルサット](../Page/ユーテルサット.md "wikilink")、[ユーロネクスト](../Page/ユーロネクスト.md "wikilink")、[ユーロフィン](https://ja.wikipedia.org/wiki/ユーロフィン "wikilink")、[ヨーロッパカー](https://ja.wikipedia.org/wiki/ヨーロッパカー "wikilink")、[ラガルデール](https://ja.wikipedia.org/wiki/ラガルデール "wikilink")等。
+  - \- 中型株60銘柄で構成。[2011年](../Page/2011年.md "wikilink")3月21日算出開始。主な銘柄として、[イプセン](https://ja.wikipedia.org/wiki/イプセン_\(製薬会社\) "wikilink")、[ADPグループ](../Page/ADPグループ.md "wikilink")、[エールフランス‐KLM](../Page/エールフランス‐KLM.md "wikilink")、[SES](https://ja.wikipedia.org/wiki/SES_\(企業\) "wikilink")、[グループセブ](../Page/グループセブ.md "wikilink")、[ザルトリウス](../Page/ザルトリウス.md "wikilink")・ステディム・バイオテック、[ジェーシードゥコー](../Page/ジェーシードゥコー.md "wikilink")、[ナティクシス](https://ja.wikipedia.org/wiki/ナティクシス "wikilink")、[ネクサンス](https://ja.wikipedia.org/wiki/ネクサンス "wikilink")、[ビック](../Page/ビック_\(フランス企業\).md "wikilink")、[フランセーズ・デ・ジュー](https://ja.wikipedia.org/wiki/フランセーズ・デ・ジュー "wikilink")、[ユーテルサット](../Page/ユーテルサット.md "wikilink")、[ユーロネクスト](../Page/ユーロネクスト.md "wikilink")、[ラガルデール](https://ja.wikipedia.org/wiki/ラガルデール "wikilink")等。
 
   - \- 小型株で構成。[2005年](../Page/2005年.md "wikilink")1月3日算出開始。当初は90銘柄でスタートしたがその後増加している。
 

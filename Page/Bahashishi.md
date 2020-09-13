@@ -7,9 +7,9 @@
 
 ## メンバー
 
-  - ユラリ（[1982年](../Page/1982年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink") - ）ボーカル・作詞
-  - [浩一](https://ja.wikipedia.org/wiki/池窪浩一 "wikilink")（[1982年](../Page/1982年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink") - ）ギター・作曲
-  - JARI（[1982年](../Page/1982年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink") - ）ベース
+  - ユラリ ボーカル・作詞
+  - [浩一](https://ja.wikipedia.org/wiki/池窪浩一 "wikilink") ギター・作曲
+  - JARI ベース
   - 明日香（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[9月19日](../Page/9月19日.md "wikilink") - ）キーボード
   - Hajime（[1984年](../Page/1984年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink") - ）ドラム
 
@@ -453,7 +453,7 @@ COCP-35472:通常盤</p></td>
 
 ## 外部リンク
 
-  - [レーベルサイト(ビクター)](http://www.jvcmusic.co.jp/-/Artist/A022855.html)
+  - [レーベルサイト(ビクター)](https://www.jvcmusic.co.jp/-/Artist/A022855.html)
   - [レーベルサイト(コロムビア)](http://columbia.jp/bahashishi/)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:過去のアミューズ所属者](https://ja.wikipedia.org/wiki/Category:過去のアミューズ所属者 "wikilink") [Category:日本コロムビアのアーティスト](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアーティスト "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:2003年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に結成した音楽グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:過去のアミューズ所属者](https://ja.wikipedia.org/wiki/Category:過去のアミューズ所属者 "wikilink") [Category:日本コロムビアのアーティスト](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアーティスト "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink")

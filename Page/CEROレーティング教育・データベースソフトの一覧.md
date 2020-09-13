@@ -1,7 +1,7 @@
 > この記事は[CEROレーティング教育・データベースソフトの一覧](https://ja.wikipedia.org/wiki/CEROレーティング教育・データベースソフトの一覧)から翻訳されています。
 
 
-[CERO_Kyouiku_Deitabeisu.svg](https://ja.wikipedia.org/wiki/File:CERO_Kyouiku_Deitabeisu.svg "fig:CERO_Kyouiku_Deitabeisu.svg") [コンピュータエンターテインメントレーティング機構](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink") (CERO) によるレーティングで、**教育・データベース**に指定されているソフトの一覧。
+[CERO_Kyouiku_Deitabeisu.svg](https://ja.wikipedia.org/wiki/File:CERO_Kyouiku_Deitabeisu.svg "fig:CERO_Kyouiku_Deitabeisu.svg") **CEROレーティング教育・データベースソフトの一覧**（セロレーティングきょういく・データベースソフトのいちらん）は、[コンピュータエンターテインメントレーティング機構](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink") (CERO) によるレーティングで、**教育・データベース**に指定されているソフトの一覧。
 
 CERO倫理規定に基づく「教育・データベース」ソフトの特徴として、「教育系」および「[データベース](../Page/データベース.md "wikilink")系」のソフトに二分し、それぞれの目的に適合するものとされる。「教育・データベース」に指定されたソフトの第1号は[PlayStation Portable用](../Page/PlayStation_Portable.md "wikilink")「[みんなの地図](https://ja.wikipedia.org/wiki/みんなの地図 "wikilink")」（発売元：[ゼンリン](../Page/ゼンリン.md "wikilink")、[2006年](../Page/2006年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")発売）だが、その後も「A 全年齢対象」のゲームソフトとして発売されている学習・参考書系のソフトもある（2010年8月現在）。
 

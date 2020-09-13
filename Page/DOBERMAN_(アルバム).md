@@ -1,17 +1,19 @@
 > この記事は[DOBERMAN \(アルバム\)](https://ja.wikipedia.org/wiki/DOBERMAN_\(アルバム\))から翻訳されています。
 
 
-『**DOBERMAN**』（ドーベルマン）は日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[布袋寅泰](../Page/布袋寅泰.md "wikilink")の9枚目のアルバムである。
+『**DOBERMAN**』（ドーベルマン）は日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[布袋寅泰](../Page/布袋寅泰.md "wikilink")の9枚目のアルバムである。[2003年](../Page/2003年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")/ヴァージンより発売された。
+
+本項では、2003年[12月3日](../Page/12月3日.md "wikilink")に発売された映像作品『DOBERMAN DVD』についても触れる。
 
 ## 解説
 
-『[SCORPIO RISING](../Page/SCORPIO_RISING.md "wikilink")』より1年半ぶりとなるソロキャリア9作目のオリジナル・アルバムである。
+前作『[SCORPIO RISING](../Page/SCORPIO_RISING.md "wikilink")』より1年半ぶりとなるソロキャリア9作目のオリジナル・アルバムである。
 
-前作からの**ストレートな[ロックンロール](../Page/ロックンロール.md "wikilink")**・テイストを踏襲しつつ、**[リフ](../Page/リフ.md "wikilink")**で構成された楽曲が多い。この背景には前年5月、転倒により[頭蓋骨骨折](https://ja.wikipedia.org/wiki/頭蓋骨骨折 "wikilink")と[硬膜外出血を負ったことも影響している](../Page/急性硬膜外血腫.md "wikilink")。一時は二度とギターが弾けなくなるかもしれない危機に立たされた状況から復帰し前回ツアーを終えたことで「自分は[ギタリスト](../Page/ギタリスト.md "wikilink")なんだ」と再認識した結果、よりギターを全面に押し出す作品となった。また本作を完成させたことで「音楽的にも人間的にも自分は一巡したという感覚がある。[バンドだったらここで解散してもいいくらい](../Page/バンド_\(音楽\).md "wikilink")」という想いも語っている\[1\]。
+前作からのストレートな[ロックンロール](../Page/ロックンロール.md "wikilink")・テイストを踏襲しつつ、[リフ](../Page/リフ.md "wikilink")で構成された楽曲が多い。この背景には前年5月、転倒により[頭蓋骨骨折](https://ja.wikipedia.org/wiki/頭蓋骨骨折 "wikilink")と[硬膜外出血を負ったことも影響している](../Page/急性硬膜外血腫.md "wikilink")。一時は二度とギターが弾けなくなるかもしれない危機に立たされた状況から復帰し前回ツアーを終えたことで「自分は[ギタリスト](../Page/ギタリスト.md "wikilink")なんだ」と再認識した結果、よりギターを全面に押し出す作品となった。また本作を完成させたことで「音楽的にも人間的にも自分は一巡したという感覚がある。[バンドだったらここで解散してもいいくらい](../Page/バンド_\(音楽\).md "wikilink")」という想いも語っている\[1\]。
 
 また今回新たに使用した[Hughes\&Kettnerの](https://ja.wikipedia.org/wiki/ヒュースアンドケトナー "wikilink")[デジタル](../Page/デジタル.md "wikilink")・アンプ「zenTera」の影響もあってか全体的にデジタル色の強いギターサウンドとなっている。これまでの作品と比較して[日本語](../Page/日本語.md "wikilink")もしくは[カタカナ](https://ja.wikipedia.org/wiki/カタカナ "wikilink")表記のタイトルが多いのも特徴である。
 
-作詞は今まで二人三脚で制作してきた[森雪之丞](../Page/森雪之丞.md "wikilink")から離れ、元[INU](../Page/INU.md "wikilink")のボーカリストであり第123回[芥川賞](https://ja.wikipedia.org/wiki/芥川賞 "wikilink")受賞作家でもある[町田康](../Page/町田康.md "wikilink")、布袋の愛読作家である[小池真理子](../Page/小池真理子.md "wikilink")、[吉田修一](../Page/吉田修一.md "wikilink")といった作家陣、布袋の友人でもある俳優の[豊川悦司](../Page/豊川悦司.md "wikilink")とのコラボレーションで制作された。
+作詞は今まで二人三脚で制作してきた[森雪之丞](../Page/森雪之丞.md "wikilink")から離れ、元[INU](../Page/INU.md "wikilink")のボーカリストであり第123回[芥川賞](https://ja.wikipedia.org/wiki/芥川賞 "wikilink")受賞作家でもある[町田康](../Page/町田康.md "wikilink")、布袋の愛読作家である[小池真理子](../Page/小池真理子.md "wikilink")、[吉田修一](../Page/吉田修一.md "wikilink")といった作家陣、布袋の友人でもある俳優の[豊川悦司](../Page/豊川悦司.md "wikilink")とのコラボレーションで制作された\[2\]。
 
 [BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")時代のバンドメイトである[松井常松](../Page/松井常松.md "wikilink")、[そうる透](../Page/そうる透.md "wikilink")、[佐野康夫](../Page/佐野康夫.md "wikilink")等が参加している。
 
@@ -29,7 +31,7 @@
 
 CDにはパソコンで見ることが出来るデータが含まれており、先行シングル『[NOCTURNE No.9](https://ja.wikipedia.org/wiki/NOCTURNE_No.9 "wikilink")』の[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")を見ることが出来る。
 
-また2003年[12月3日](../Page/12月3日.md "wikilink")に、当アルバムの全曲を[PV化した](../Page/ミュージック・ビデオ.md "wikilink")『DOBERMAN DVD』がリリースされた。
+また2003年[12月3日](../Page/12月3日.md "wikilink")に、本作に収録された全11曲を映像化した『[DOBERMAN DVD](https://ja.wikipedia.org/wiki/#DOBERMAN_DVD "wikilink")』がリリースされた\[3\]。
 
 ## ツアー
 
@@ -37,10 +39,10 @@ CDにはパソコンで見ることが出来るデータが含まれており、
 
 レコーディングで使用した[デジタル](../Page/デジタル.md "wikilink")・アンプ「zenTera」をツアーでも使用。「zenTera」の[パワーブック](https://ja.wikipedia.org/wiki/パワーブック "wikilink")にセッティングをセーブできる機能を活かし、CDと同等の音質をステージにて再現できることを謳い「**音殺** (音で殺す)」がツアー・コンセプトとして掲げられた。またメイン・ギターが従来のHOTEIモデル「TE-HT」から、今回新たに制作された[ZODIACWORKSの](https://ja.wikipedia.org/wiki/ゾディアック・ワークス "wikilink")[カーボン製ギター](https://ja.wikipedia.org/wiki/炭素繊維強化プラスチック "wikilink")「DARKSTAR」にシフトしている。「TE-HT」を使用していないツアーは[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")時代と[COMPLEX](../Page/COMPLEX.md "wikilink")時代を含めても初であり、現在のところ唯一。
 
-バンドメンバーはレコーディングにも参加した[松井常松](../Page/松井常松.md "wikilink")、渡部充一、[岸利至](../Page/岸利至.md "wikilink")、[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")や[ブルース・スプリングスティーン](https://ja.wikipedia.org/wiki/ブルース・スプリングスティーン "wikilink")等のサポートも務めているザッカリー・アルフォードの4名。全員が前回ツアーと同メンバーであり、ツアーファイナルとなった[2004年](../Page/2004年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")の[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")公演ではこのバンドにてちょうど100ステージ目を迎えている\[2\]。また今回はメンバー全員が[コーラスも兼任した](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。
-リハーサル期間中に[クエンティン・タランティーノ](../Page/クエンティン・タランティーノ.md "wikilink")から[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")での映画『[キル・ビル](../Page/キル・ビル.md "wikilink")』のワールドプレミアに招かれ、出席している。当初はリハーサル中の為、欠席の意を伝えたものの、バンドメンバーから「滅多にない機会だから絶対に行って来い。自分たちだけでやってるから」と背中を押され、最終的に出席する運びとなった\[3\]。
+バンドメンバーはレコーディングにも参加した[松井常松](../Page/松井常松.md "wikilink")、渡部充一、[岸利至](../Page/岸利至.md "wikilink")、[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")や[ブルース・スプリングスティーン](https://ja.wikipedia.org/wiki/ブルース・スプリングスティーン "wikilink")等のサポートも務めているザッカリー・アルフォードの4名。全員が前回ツアーと同メンバーであり、ツアーファイナルとなった[2004年](../Page/2004年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")の[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")公演ではこのバンドにてちょうど100ステージ目を迎えている\[4\]。また今回はメンバー全員が[コーラスも兼任した](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。
+リハーサル期間中に[クエンティン・タランティーノ](../Page/クエンティン・タランティーノ.md "wikilink")から[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")での映画『[キル・ビル](../Page/キル・ビル.md "wikilink")』のワールドプレミアに招かれ、出席している。当初はリハーサル中の為、欠席の意を伝えたものの、バンドメンバーから「滅多にない機会だから絶対に行って来い。自分たちだけでやってるから」と背中を押され、最終的に出席する運びとなった\[5\]。
 
-ツアー初日となる2003年10月30日と翌31日の日本武道館2DAYS公演にて、今回のツアー後に[ブライアン・セッツァー](../Page/ブライアン・セッツァー.md "wikilink")と組んで2005年から新たなバンドとして活動すること、同時にソロ活動を休止することを発表した。当日は共演こそなかったものの、セッツァー本人もステージに登場した。またファイナル公演の終演後には布袋からのメッセージが映写された\[4\]。
+ツアー初日となる2003年10月30日と翌31日の日本武道館2DAYS公演にて、今回のツアー後に[ブライアン・セッツァー](../Page/ブライアン・セッツァー.md "wikilink")と組んで2005年から新たなバンドとして活動すること、同時にソロ活動を休止することを発表した。当日は共演こそなかったものの、セッツァー本人もステージに登場した。またファイナル公演の終演後には布袋からのメッセージが映写された\[6\]。
 
 ツアーグッズのパンフレット『THE BIBLE 別有天地非世俗』にはこれまでの半生や本作への想い、今後の展望などを語ったロングインタビューが掲載されている。
 
@@ -50,20 +52,19 @@ CDにはパソコンで見ることが出来るデータが含まれており、
 
 1.  **DOBERMAN**
       -
-        [TDK](../Page/TDK.md "wikilink") スーパーハードコート[DVD](../Page/DVD.md "wikilink") 超硬 [CF](../Page/CF.md "wikilink")ソングとして使用された。布袋本人もCFに出演している。
+        [TDK](../Page/TDK.md "wikilink") スーパーハードコート[DVD](../Page/DVD.md "wikilink") 超硬 [CF](../Page/CF.md "wikilink")ソングとして使用され、布袋本人もCFに出演している。
 2.  **弾丸ロック**
       -
         [町田康](../Page/町田康.md "wikilink")が作詞で参加。町田は後の布袋作品にも参加している。
-        なお布袋と町田は同年齢であり、これまで面識なかったものの、[1980年代](../Page/1980年代.md "wikilink")にそれぞれ[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")と[INU](../Page/INU.md "wikilink")のメンバーとして[新宿LOFT](https://ja.wikipedia.org/wiki/新宿LOFT "wikilink")を拠点に活動していた。
-        2006年[ヤンキースタジアム公式戦での](../Page/ヤンキー・スタジアム_\(1923年\).md "wikilink")[松井秀喜](https://ja.wikipedia.org/wiki/松井秀喜 "wikilink")テーマ曲。
+        なお布袋と町田はこれまで面識なかったものの、[1980年代](../Page/1980年代.md "wikilink")にそれぞれ[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")と[INU](../Page/INU.md "wikilink")のメンバーとして[新宿LOFT](https://ja.wikipedia.org/wiki/新宿LOFT "wikilink")を拠点に活動していた\[7\]。
+        発売から3年後の[ヤンキースタジアム公式戦での](../Page/ヤンキー・スタジアム_\(1923年\).md "wikilink")[松井秀喜](https://ja.wikipedia.org/wiki/松井秀喜 "wikilink")のテーマ曲として使用された\[8\]。
 3.  **TWISTED BON VOYAGRE**
 4.  **やるだけやっちまえ！**
 5.  **GET HIGH\!\!\!**
 6.  **[NOCTURNE No.9](https://ja.wikipedia.org/wiki/NOCTURNE_No.9 "wikilink")**
       -
         25thシングル。
-        シングル盤とはイントロが異なり、[SE](../Page/SE.md "wikilink")が追加されている。
-        「[NOCTURNE No.9](https://ja.wikipedia.org/wiki/NOCTURNE_No.9 "wikilink")」の項も参照。
+        表記はないが、冒頭にSEが追加されたアルバム・バージョン。
 7.  **EVIL DANCE**
       -
         [小池真理子](../Page/小池真理子.md "wikilink")が作詞で参加。
@@ -73,10 +74,10 @@ CDにはパソコンで見ることが出来るデータが含まれており、
         歌詞カードにサブタイトルとして**〜孤独な無法者の心を照らすのは貴女の燃えるような唇だけ〜**と表記されている。
 9.  **グレイト・エスケイプ**
       -
-        25thシングル「[NOCTURNE No.9](https://ja.wikipedia.org/wiki/NOCTURNE_No.9 "wikilink")」の[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")。シングル盤のタイトルは「GREAT ESCAPE」と[英語](../Page/英語.md "wikilink")表記されている。
-        作家の[吉田修一](../Page/吉田修一.md "wikilink")が作詞で参加。布袋が吉田の書籍を愛読していることからオファーへと至った。
+        25thシングル『NOCTURNE No.9』の[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")。シングル盤のタイトルは「GREAT ESCAPE」と[英語](../Page/英語.md "wikilink")表記されている。
 10. **NEW WORLD**
-    :布袋の友人である俳優の[豊川悦司](../Page/豊川悦司.md "wikilink")が作詞で参加している。
+      -
+        布袋の友人である俳優の[豊川悦司](../Page/豊川悦司.md "wikilink")が作詞で参加している。
 11. **ハウリング**
       -
         前述した「zenTera」のセッティングを[パワーブック](https://ja.wikipedia.org/wiki/パワーブック "wikilink")にセーブ出来る機能を活かし、スタジオでレコーディングした後、セッティングを持ち帰り自宅で再録したという。
@@ -104,6 +105,14 @@ CDにはパソコンで見ることが出来るデータが含まれており、
   - [金原千恵子](../Page/金原千恵子.md "wikilink")ストリングス - [ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")(\#11)
   - [島健](../Page/島健.md "wikilink") - ストリングスアレンジメント(\#11)
 
+## DOBERMAN DVD
+
+『**DOBERMAN DVD**』（ドーベルマン ディーヴイディ）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[布袋寅泰](../Page/布袋寅泰.md "wikilink")の映像作品。[2003年](../Page/2003年.md "wikilink")[12月3日](../Page/12月3日.md "wikilink")に発売\[9\]。
+
+アルバム『DOBERMAN』に収録の全11曲を、11組の映像クリエイターとの共作によって映像化した作品で、布袋とし手の作品では初めてDTS 5.1ch オーディオMIXが採用された\[10\]。
+
+DVDの発売に先駆けて、[11月21日](../Page/11月21日.md "wikilink")よりカウントダウン形式で[ストリーミング](../Page/ストリーミング.md "wikilink")配信で開始され、本作に収録の映像が毎日1本ずつ公開されていた\[11\]。
+
 ## 脚注
 
 ### 注釈
@@ -113,6 +122,13 @@ CDにはパソコンで見ることが出来るデータが含まれており、
 [Category:布袋寅泰のアルバム](https://ja.wikipedia.org/wiki/Category:布袋寅泰のアルバム "wikilink") [Category:2003年のアルバム](https://ja.wikipedia.org/wiki/Category:2003年のアルバム "wikilink")
 
 1.  ツアーパンフレット『THE BIBLE 別有天地非世俗』のインタビューより
-2.  本作のライブDVD『THE LIVE\! DOBERMAN』内のMCでも語っている。
+2.
 3.
-4.  結局プロジェクトはセッツァー側の都合により中止となったものの、セッツァーとは後年『[SOUL SESSIONS](../Page/SOUL_SESSIONS.md "wikilink")』や2007年のライブ『HOTEI presents "SUPER SOUL SESSIONS" BRIAN SETZER vs HOTEI vs [CHAR](https://ja.wikipedia.org/wiki/CHAR "wikilink")』でも競演を果たしている。
+4.  本作のライブDVD『THE LIVE\! DOBERMAN』内のMCでも語っている。
+5.
+6.  結局プロジェクトはセッツァー側の都合により中止となったものの、セッツァーとは後年『[SOUL SESSIONS](../Page/SOUL_SESSIONS.md "wikilink")』や2007年のライブ『HOTEI presents "SUPER SOUL SESSIONS" BRIAN SETZER vs HOTEI vs [CHAR](https://ja.wikipedia.org/wiki/CHAR "wikilink")』でも競演を果たしている。
+7.
+8.
+9.
+10.
+11.

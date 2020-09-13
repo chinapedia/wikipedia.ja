@@ -19,8 +19,4 @@
 
   - [NESTAGE](../Page/NESTAGE.md "wikilink")
 
-## 外部リンク
-
-  - [NESTAGE](http://www.nestage.co.jp/index.html)
-  -
 [Category:ゲームソフト販売店](https://ja.wikipedia.org/wiki/Category:ゲームソフト販売店 "wikilink")

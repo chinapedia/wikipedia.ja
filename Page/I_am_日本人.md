@@ -59,13 +59,15 @@
 ## スタッフ
 
   - 製作総指揮、企画、原案：[森田健作](https://ja.wikipedia.org/wiki/森田健作 "wikilink")
-  - プロデュース：[木下直哉](https://ja.wikipedia.org/wiki/木下直哉 "wikilink")、[高橋紀成](https://ja.wikipedia.org/wiki/高橋紀成 "wikilink")
   - 脚本：西山龍三・森田健作
   - 監督：[月野木隆](../Page/月野木隆.md "wikilink")
   - 音楽：[城之内ミサ](https://ja.wikipedia.org/wiki/城之内ミサ "wikilink")
   - 主題歌：「約束」森田健作
   - 撮影：[栢野直樹](https://ja.wikipedia.org/wiki/栢野直樹 "wikilink")
   - 編集：[川島章正](https://ja.wikipedia.org/wiki/川島章正 "wikilink")
+  - 製作者：[木下直哉](https://ja.wikipedia.org/wiki/木下直哉 "wikilink")
+  - プロデューサー：細野耕、[高橋紀成](https://ja.wikipedia.org/wiki/高橋紀成 "wikilink")、伊藤功
+  - 製作委員会メンバー： 株式会社エム・シー・コーポレーション、有限会社インディーズエンターテインメント、株式会社森田事務所
   - 配給：[ギャガ](../Page/ギャガ.md "wikilink")
   - 上映時間：111分　
 

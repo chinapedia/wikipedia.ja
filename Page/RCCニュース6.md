@@ -32,11 +32,11 @@
 
 放送時間も5分早まり、18:00 - 18:40に移動。第1期放送終了から19年半を経て、再び18:00放送開始となった。ただし、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")の『総力報道\!THE NEWS』の放送終了、[3月29日](../Page/3月29日.md "wikilink")からの『[Nスタ](https://ja.wikipedia.org/wiki/Nスタ "wikilink")』の放送開始といったTBSの番組改編により、この18:00番組スタートも見直され、1990年度のような番組タイトル変更こそ無かったが、『Nスタ』が終わった後の18:15 - 19:00の45分間のローカル枠に移動することとなった。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作。
 
-2019年12月27日をもって終了し、翌2020年1月6日より『[イマナマ\!](https://ja.wikipedia.org/wiki/イマナマ! "wikilink")』内にローカルニュースを統合する\[1\]。
+2019年12月27日をもって終了し、翌2020年1月6日より『[イマナマ\!](https://ja.wikipedia.org/wiki/イマなまっ! "wikilink")』内にローカルニュースを統合する\[1\]。
 
 #### 第2期のキャスター
 
-  - 終了時点のキャスターは新番組『[イマナマ\!](https://ja.wikipedia.org/wiki/イマナマ! "wikilink")』のニュースキャスターとなる。
+  - 終了時点のキャスターは新番組『[イマナマ\!](https://ja.wikipedia.org/wiki/イマなまっ! "wikilink")』のニュースキャスターとなる。
 
 （男性）
 
@@ -162,7 +162,7 @@
 
   - [RCCニュース6](http://www.rcc-tv.jp/news6/)
 
-[Category:1976年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1976年のテレビ番組_\(日本\) "wikilink") [Category:2009年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2009年のテレビ番組_\(日本\) "wikilink") [Category:中国放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:中国放送のテレビ番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:JNNニュースコープ](https://ja.wikipedia.org/wiki/Category:JNNニュースコープ "wikilink") [Category:総力報道\!THE_NEWS](https://ja.wikipedia.org/wiki/Category:総力報道!THE_NEWS "wikilink") [Category:イブニングワイド](https://ja.wikipedia.org/wiki/Category:イブニングワイド "wikilink") [Category:Nスタ](https://ja.wikipedia.org/wiki/Category:Nスタ "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink")
+[Category:1976年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1976年のテレビ番組_\(日本\) "wikilink") [Category:2009年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2009年のテレビ番組_\(日本\) "wikilink") [Category:中国放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:中国放送のテレビ番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:JNNニュースコープ](https://ja.wikipedia.org/wiki/Category:JNNニュースコープ "wikilink") [Category:総力報道\!THE_NEWS](https://ja.wikipedia.org/wiki/Category:総力報道!THE_NEWS "wikilink") [Category:イブニングワイド](https://ja.wikipedia.org/wiki/Category:イブニングワイド "wikilink") [Category:Nスタ](https://ja.wikipedia.org/wiki/Category:Nスタ "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink")
 
 1.
 2.  『RCCニュース6 index』と表記して放送。冒頭にRCCニュース6のオープニング、ヘッドラインをスタジオから伝えた。

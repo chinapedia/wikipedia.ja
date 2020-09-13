@@ -158,7 +158,7 @@
 ### 1998年
 
   - 1月～3月：[略奪愛・アブない女](../Page/略奪愛・アブない女.md "wikilink") 主演：[赤井英和](https://ja.wikipedia.org/wiki/赤井英和 "wikilink")
-  - 4月～6月：[先生知らないの?](../Page/先生知らないの?.md "wikilink") 主演：[草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")
+  - 4月～6月：[先生知らないの?](../Page/先生知らないの?.md "wikilink") 主演：[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")
   - 7月～9月：[青の時代](../Page/青の時代_\(テレビドラマ\).md "wikilink") 主演：堂本剛
   - 10月～12月：[PU-PU-PU-](../Page/PU-PU-PU-.md "wikilink") 出演：[森田剛](https://ja.wikipedia.org/wiki/森田剛 "wikilink")、[三宅健](../Page/三宅健.md "wikilink")、[岡田准一](../Page/岡田准一.md "wikilink")
 
@@ -555,7 +555,7 @@
 
 ## 外部リンク
 
-  - [TBSドラマ](http://www.tbs.co.jp/drama/)
+  - [TBSドラマ](https://www.tbs.co.jp/drama/)
   - [TBS Drama Archive](http://www.tbs.co.jp/drama_archive/)
 
 [Category:TBSのテレビドラマの歴史](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマの歴史 "wikilink") [Category:TBS金曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS金曜9時枠の連続ドラマ "wikilink")

@@ -15,6 +15,6 @@
 
   - [Men's JOKER](http://www.kk-bestsellers.com/magazine/mj/) - KKベストセラーズ
 
-[Category:ベストセラーズ](https://ja.wikipedia.org/wiki/Category:ベストセラーズ "wikilink") [Category:男性向けファッション雑誌](https://ja.wikipedia.org/wiki/Category:男性向けファッション雑誌 "wikilink") [Category:2004年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:2004年創刊の雑誌 "wikilink") [Category:2019年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2019年休廃刊の雑誌 "wikilink") [Category:日本のファッション雑誌](https://ja.wikipedia.org/wiki/Category:日本のファッション雑誌 "wikilink")
+[Category:ベストセラーズ](https://ja.wikipedia.org/wiki/Category:ベストセラーズ "wikilink") [Category:日本のファッション雑誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:日本のファッション雑誌_\(休廃刊\) "wikilink") [Category:男性向けファッション雑誌](https://ja.wikipedia.org/wiki/Category:男性向けファッション雑誌 "wikilink") [Category:2004年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:2004年創刊の雑誌 "wikilink") [Category:2019年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2019年休廃刊の雑誌 "wikilink")
 
 1.

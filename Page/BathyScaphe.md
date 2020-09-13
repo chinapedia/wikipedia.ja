@@ -5,7 +5,7 @@
 
 [オープンソース](../Page/オープンソース.md "wikilink")で開発が行われている。OS付属のアプリケーションによく似た外観を持ち、[Spotlight](../Page/Spotlight.md "wikilink")、[AppleScript](../Page/AppleScript.md "wikilink")、[Keychain](../Page/Keychain.md "wikilink")、[Service](https://ja.wikipedia.org/wiki/Service "wikilink")等Mac OSの各種技術を積極的に採用したブラウザである。また、現在のバージョンは新しい[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")製プロセッサのMacでもネイティブスピードで動作する[ユニバーサルバイナリとなっている](../Page/ファットバイナリ.md "wikilink")。
 
-アプリケーション内での[検索](../Page/検索.md "wikilink")には[ライブラリ](../Page/ライブラリ.md "wikilink")として[鬼車](http://www.geocities.jp/kosako3/oniguruma/index_ja.html)が採用されており、[正規表現](../Page/正規表現.md "wikilink")による検索が可能である。また、スレッドデータベースは[SQLite](../Page/SQLite.md "wikilink")によって管理されている。
+アプリケーション内での[検索](../Page/検索.md "wikilink")には[ライブラリ](../Page/ライブラリ.md "wikilink")として[鬼車](https://web.archive.org/20070702230200/http://www.geocities.jp/kosako3/oniguruma/index_ja.html)が採用されており、[正規表現](../Page/正規表現.md "wikilink")による検索が可能である。また、スレッドデータベースは[SQLite](../Page/SQLite.md "wikilink")によって管理されている。
 
 ## プロジェクト履歴
 

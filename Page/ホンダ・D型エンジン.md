@@ -454,6 +454,7 @@ USA向けには超低[燃費](../Page/燃費.md "wikilink")仕様も存在して
   - [ローバー・200](https://ja.wikipedia.org/wiki/ローバー・200 "wikilink")（XWD16）
   - [ローバー・400](https://ja.wikipedia.org/wiki/ローバー・400 "wikilink")（XWD16）
   - いすゞ・ジェミニ （MJ5/6）
+  - いすゞ・バーテック （EK・[タイ専売](../Page/タイ王国.md "wikilink")）
 
 <!-- end list -->
 

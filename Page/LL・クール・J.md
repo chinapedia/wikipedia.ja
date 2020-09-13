@@ -91,7 +91,7 @@
 <td><p>日本劇場未公開</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ハロウィンH20" title="wikilink">ハロウィンH20</a><br />
+<td><p><a href="../Page/ハロウィンH20.md" title="wikilink">ハロウィンH20</a><br />
 <em>Halloween H20: 20 Years Later</em></p></td>
 <td><p>ロニー</p></td>
 <td></td>

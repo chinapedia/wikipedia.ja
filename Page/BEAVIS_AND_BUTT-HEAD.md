@@ -9,7 +9,7 @@
 
 ## 作品年譜
 
-  - [1994年](../Page/1994年.md "wikilink")〜[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[MTV](../Page/MTV.md "wikilink")により、第8シーズンまでが放映され、全米で人気と非難を博した。
+  - [1993年](../Page/1993年.md "wikilink")〜[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[MTV](../Page/MTV.md "wikilink")により、第8シーズンまでが放映され、全米で人気と非難を博した。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[プレイステーション用ソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")[ビー・ファクトリー](https://ja.wikipedia.org/wiki/ビー・ファクトリー "wikilink")より『ビーバス&バットヘッド ヴァーチャル・アホ症候群』（Beavis and Butt-head Virtual Stupidity)を発売。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月7日より[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")公式にMTV枠として公開されている。
   - [2011年](../Page/2011年.md "wikilink")6月劇場映画版『BEAVIS AND BUTT-HEAD DO AMERICA』とDVD-BOX全3巻発売。日本未公開のエピソードも追加された。
@@ -46,8 +46,7 @@
     B\&Bのクラス担任。常に物腰の柔らかい男性教師だが、やはりB\&Bには手を焼いており、時に理不尽な仕打ちに逢う損な性分。恋人はいるが未婚。花、写真、平和、音楽といった趣味や時代錯誤なファッションセンスからB\&Bから[ヒッピー](../Page/ヒッピー.md "wikilink")呼ばわりされたことがある。
   - ブラッレイ・バズカット（Coach Bradley Buzzcut）
     声：マイク・ジャッジ
-    B\&Bらの体育教師。軍隊上がり(?)で、常に怒鳴るような口調で話すコワモテだが決して暴力は振るわない。
-    そのままの口調で面白いジョークを飛ばすことも。髪型が[ウド鈴木](../Page/ウド鈴木.md "wikilink")。
+    B\&Bらの体育教師。軍隊上がりで、常に怒鳴るような口調で話すコワモテだが、決して暴力はふるわない。そのままの口調で面白い冗談を飛ばすことも。髪型はフラットトップ。
   - マクビッカー校長（Principal McVicker）
     声：マイク・ジャッジ
     HIGHLAND HIGH SCHOOLの校長先生。重篤な糖尿病を患っており、常に震えながら「あぁあぁあぁ〜」と声を発している（妻と6人の幼い子供たちがいるが、全員同じ症状がある）。B\&Bは「[マラデッカー](../Page/巨根.md "wikilink")（Mc<span style="color:red">**D**</span>icker）」と呼んでおちょくったことも。他の誰よりも強くB\&Bを憎んでおり、[アスベスト](https://ja.wikipedia.org/wiki/アスベスト "wikilink")の処理をマスクなしでやらせたり、[ビル・クリントン](../Page/ビル・クリントン.md "wikilink")大統領（当時）が同校を訪れた際、[SPにB](../Page/セキュリティポリス.md "wikilink")\&Bの写真を見せ「こいつらは生徒ではない。武装したテロリストだ。大統領の半径5km以内に近づけるな！」と指示した。また、最終話で「B\&Bが死んだ」という[訃報](https://ja.wikipedia.org/wiki/訃報 "wikilink")（無論[誤報](../Page/誤報.md "wikilink")）を聞いたとき、泣き崩れるドリーセンを横目に「記念パーティを開こう！」とバズカットらと狂喜乱舞した。もしもバットヘッドがこの世に生まれていなければ、病気もなく頭髪もフサフサなはずだった。

@@ -46,15 +46,16 @@
   - エグゼクティヴ・プロデューサー&ディレクター: 門村崇志 (FAITH INC.)
   - スペシャル・サンクス: Sangmind music world、X-LARGE、Jang Bo Young
 
-## 収録作品
+## 収録アルバム
 
-  - 「The Heat 〜musica fiesta〜」 - 『[BEST FINGER 25th anniversary selection](../Page/BEST_FINGER_25th_anniversary_selection.md "wikilink")』\[38\]
+  - The Heat 〜musica fiesta〜
 
-## 参照
+<!-- end list -->
 
-## 外部リンク
+  - 『[BEST FINGER 25th anniversary selection](../Page/BEST_FINGER_25th_anniversary_selection.md "wikilink")』\[38\]
 
-  -
+## 脚注
+
 [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:中森明菜の楽曲](https://ja.wikipedia.org/wiki/Category:中森明菜の楽曲 "wikilink") [Category:ワンダフル_(テレビ番組)](https://ja.wikipedia.org/wiki/Category:ワンダフル_\(テレビ番組\) "wikilink") [Category:ユニバーサルミュージックジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのシングル "wikilink") [Category:祭を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:祭を題材とした楽曲 "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink")
 
 1.

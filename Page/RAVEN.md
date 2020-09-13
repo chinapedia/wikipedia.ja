@@ -61,6 +61,6 @@
 
 ## 外部リンク
 
-  - [RAVEN - UNIVERSAL MUSIC JAPAN](http://www.universal-music.co.jp/raven)
+  - [RAVEN - UNIVERSAL MUSIC JAPAN](https://www.universal-music.co.jp/raven/)
 
 [Category:日本の男性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ロック歌手 "wikilink") [Category:ソロプロジェクト](https://ja.wikipedia.org/wiki/Category:ソロプロジェクト "wikilink")

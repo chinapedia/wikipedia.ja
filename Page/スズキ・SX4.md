@@ -174,7 +174,6 @@
   - [SX4 S-CROSS｜スズキ](http://www.suzuki.co.jp/car/sx4_s-cross/)
   - [SX4 グローバルサイト（英語）](http://www.globalsuzuki.com/sx4/)
   - [SX4 S-CROSS グローバルサイト（英語）](http://www.globalsuzuki.com/automobile/lineup/sx4_s-cross/index.html)
-  - [水素・燃料電池実証プロジェクト(JHFC)車両紹介 スズキSX4-FCV・MRワゴンFCV](http://www.jhfc.jp/fcv/suzuki.html)
 
 [Category:スズキの車種](https://ja.wikipedia.org/wiki/Category:スズキの車種 "wikilink") [Category:日本の自動車メーカーの海外生産車種](https://ja.wikipedia.org/wiki/Category:日本の自動車メーカーの海外生産車種 "wikilink") [Category:セダン](https://ja.wikipedia.org/wiki/Category:セダン "wikilink") [Category:クロスオーバーSUV](https://ja.wikipedia.org/wiki/Category:クロスオーバーSUV "wikilink") [Category:ハッチバック](https://ja.wikipedia.org/wiki/Category:ハッチバック "wikilink") [Category:ラリーカー](https://ja.wikipedia.org/wiki/Category:ラリーカー "wikilink") [Category:四輪駆動車](https://ja.wikipedia.org/wiki/Category:四輪駆動車 "wikilink") [Category:グッドデザイン賞](https://ja.wikipedia.org/wiki/Category:グッドデザイン賞 "wikilink")
 

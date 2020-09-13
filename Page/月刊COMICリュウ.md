@@ -130,7 +130,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/折口良乃" title="wikilink">折口良乃</a>×<a href="https://ja.wikipedia.org/wiki/鉄巻とーます" title="wikilink">鉄巻とーます</a></p></td>
 <td><p>2018年2月26日<ref>{{cite web|url=<a href="http://www.comic-ryu.jp/blog/2017/12/%E3%80%8E%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E5%A8%98%E3%81%AE%E3%81%8A%E5%8C%BB%E8%80%85%E3%81%95%E3%82%93%E3%80%8F%E9%80%A3%E8%BC%89%E9%96%8B%E5%A7%8B%E6%97%A5%E6%B1%BA%E5%AE%9A/%7Ctitle=『モンスター娘のお医者さん』連載開始日決定">http://www.comic-ryu.jp/blog/2017/12/%E3%80%8E%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E5%A8%98%E3%81%AE%E3%81%8A%E5%8C%BB%E8%80%85%E3%81%95%E3%82%93%E3%80%8F%E9%80%A3%E8%BC%89%E9%96%8B%E5%A7%8B%E6%97%A5%E6%B1%BA%E5%AE%9A/|title=『モンスター娘のお医者さん』連載開始日決定</a></p></td>
 <td><p>|accessdate=2017年12月15日}}</ref></p></td>
-<td><p><a href="../Page/集英社.md" title="wikilink">集英社</a>の<a href="../Page/ライトノベル.md" title="wikilink">ライトノベル</a>作品の<a href="https://ja.wikipedia.org/wiki/コミカライズ" title="wikilink">コミカライズ</a>版</p></td>
+<td><p><a href="../Page/集英社.md" title="wikilink">集英社</a>の<a href="../Page/ライトノベル.md" title="wikilink">ライトノベル</a>作品の<a href="../Page/コミカライズ.md" title="wikilink">コミカライズ</a>版</p></td>
 </tr>
 <tr class="odd">
 <td><p>[[ダンジョンでお花摘みなんか許しません</p></td>

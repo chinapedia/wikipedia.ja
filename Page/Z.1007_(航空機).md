@@ -3,7 +3,7 @@
 
 [CANT_Z.1007.jpg](https://ja.wikipedia.org/wiki/File:CANT_Z.1007.jpg "fig:CANT_Z.1007.jpg") **Z.1007**はカント社（[カンティエーリ・リウニーティ・デッラドリアーティコ](https://ja.wikipedia.org/wiki/カンティエーリ・リウニーティ・デッラドリアーティコ "wikilink")）が開発した3基のエンジンを搭載した[イタリア空軍](../Page/イタリア空軍.md "wikilink")の[爆撃機](../Page/爆撃機.md "wikilink")。愛称は[カワセミ](../Page/カワセミ.md "wikilink")を意味する**アルシオーネ** (Alcione)。
 
-試作機が[1937年](../Page/1937年.md "wikilink")3月に初飛行し、[1938年](../Page/1938年.md "wikilink")から生産が始まった。その年の10月にイタリア軍によるギリシャ侵攻（[バルカン半島の戦い](../Page/バルカン半島の戦い.md "wikilink")）で初投入され、[1940年](../Page/1940年.md "wikilink")9月の[バトル・オブ・ブリテン](../Page/バトル・オブ・ブリテン.md "wikilink")でも使用された。
+試作機が[1937年](../Page/1937年.md "wikilink")3月に初飛行し、[1938年](../Page/1938年.md "wikilink")から生産が始まった。その年の10月にイタリア軍によるギリシャ侵攻（[バルカン戦線 (第二次世界大戦)](https://ja.wikipedia.org/wiki/バルカン戦線_\(第二次世界大戦\) "wikilink")）で初投入され、[1940年](../Page/1940年.md "wikilink")9月の[バトル・オブ・ブリテン](../Page/バトル・オブ・ブリテン.md "wikilink")でも使用された。
 
 ## 概要
 

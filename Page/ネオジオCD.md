@@ -48,6 +48,7 @@
 
 [Neo-Geo-Advanced-Controller.jpg](https://ja.wikipedia.org/wiki/File:Neo-Geo-Advanced-Controller.jpg "fig:Neo-Geo-Advanced-Controller.jpg")
 
+  - ネオジオCDコントローラー
   - ネオジオCDコントローラープロ
   - ステレオAVケーブルセット
   - [RFコンバータFCG](../Page/RF接続.md "wikilink")-8

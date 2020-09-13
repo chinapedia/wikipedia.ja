@@ -1,7 +1,7 @@
 > この記事は[EZナビウォーク](https://ja.wikipedia.org/wiki/EZナビウォーク)から翻訳されています。
 
 
-**EZナビウォーク**（イージー-）は[KDDI](../Page/KDDI.md "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")[連合](https://ja.wikipedia.org/wiki/連合 "wikilink")の[auブランドおよび](../Page/Au_\(携帯電話\).md "wikilink")[ナビタイムジャパン](https://ja.wikipedia.org/wiki/ナビタイムジャパン "wikilink")が提供する、[歩行者](../Page/歩行者.md "wikilink")向けの[ナビゲーション](https://ja.wikipedia.org/wiki/ナビゲーション "wikilink")サービスである。ルート検索、案内技術などは[NAVITIME](../Page/NAVITIME.md "wikilink")に準拠。
+**EZナビウォーク**（イージーナビウォーク）は[KDDI](../Page/KDDI.md "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")[連合](https://ja.wikipedia.org/wiki/連合 "wikilink")の[auブランドおよび](../Page/Au_\(携帯電話\).md "wikilink")[ナビタイムジャパン](https://ja.wikipedia.org/wiki/ナビタイムジャパン "wikilink")が提供する、[歩行者](../Page/歩行者.md "wikilink")向けの[ナビゲーション](https://ja.wikipedia.org/wiki/ナビゲーション "wikilink")サービスである。ルート検索、案内技術などは[NAVITIME](../Page/NAVITIME.md "wikilink")に準拠。
 
 利用には、専用の[EZアプリ(BREW)が必要](../Page/BREW.md "wikilink")。同社が提供する同乗者向けのカーナビゲーションサービス「[EZ助手席ナビ](../Page/EZ助手席ナビ.md "wikilink")」とは相互に切り替えられる。
 
@@ -45,7 +45,7 @@
       -
         24時間だけ利用出来る日額制。1日だけ使いたいときに便利だが、月3日以上利用する場合は月額制のほうが得。
 
-## 注
+## 脚注
 
 ## 関連項目
 

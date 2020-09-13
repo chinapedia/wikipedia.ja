@@ -89,7 +89,7 @@
 <!-- end list -->
 
   - [「BLACK CAT」黒猫WEB通信](http://www.j-blackcat.com/)
-  - [BLACK CAT TBS公式](http://www.tbs.co.jp/anime/blackcat/)
+  - [BLACK CAT TBS公式](https://www.tbs.co.jp/anime/blackcat/)
   - [GONZO STYLE](http://www.gonzo-style.com/)
   - [GONZOオリジナルモバイルサイト](http://pc.gonzoch.tv/)
   - [COSPA](http://www.cospa.com/)

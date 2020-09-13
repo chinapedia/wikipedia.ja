@@ -290,15 +290,15 @@ FBIは1998年7月にウェーバーを被疑者から除外した。ウェーバ
 
 [Db_Cooper_Vane.JPG](https://ja.wikipedia.org/wiki/File:Db_Cooper_Vane.JPG "fig:Db_Cooper_Vane.JPG")
 
-1972年に模倣犯による犯行が相次いで起きたため、連邦航空局はボーイング727全機に飛行中の尾部のエアステアの降下をできなくする装置を装着することを義務付けた。この装置は後に「[クーパー・ベーン](https://ja.wikipedia.org/wiki/クーパー・ベーン "wikilink")」() と呼ばれた\[263\]\[264\]。クーパー事件を直接的な理由として、全ての飛行機のコックピットのドアに覗き穴が導入された。これにより、コックピットにいる乗員がコックピットのドアを開けることなく客室にいる人の様子を見ることができるようになった。
+1972年に模倣犯による犯行が相次いで起きたため、連邦航空局はボーイング727全機に飛行中の尾部のエアステアの降下をできなくする装置を装着することを義務付けた。この装置は後に「[クーパー・ベーン](https://ja.wikipedia.org/wiki/クーパー・ベーン "wikilink")」() と呼ばれた\[263\]\[264\]。また、クーパー事件を直接的な理由として、全ての飛行機のコックピットのドアに覗き穴が導入された。これにより、コックピットにいる乗員がコックピットのドアを開けることなく客室にいる人の様子を見ることができるようになった。
 
 ### ハイジャックされた飛行機のその後
 
-ハイジャックされたボーイング727-100は1978年にノースウエスト航空から[ピードモント航空](../Page/ピードモント航空.md "wikilink")に売却された。新たにN838Nと登録され、国内便で使用され続けた\[265\]。1984年に、今は存在しないチャーター会社のへ売却され、新たにN29KAと登録された。空軍による民間のチャーター機団に加えられ、機密の[F-117開発計画の際に](../Page/F-117_\(航空機\).md "wikilink")[ネリス空軍基地](../Page/ネリス空軍基地.md "wikilink")ととの間を労働者を輸送する折り返し便として使用された\[266\]。1996年、メンフィスの[廃棄場でスクラップにされた](https://ja.wikipedia.org/wiki/飛行機の墓場 "wikilink")\[267\]。
+ハイジャックされたボーイング727-100は1978年にノースウエスト航空から[ピードモント航空](../Page/ピードモント航空.md "wikilink")に売却された。新たにN838Nと登録され、国内便で使用され続けた\[265\]。1984年に、今は存在しないチャーター会社のへ売却され、新たにN29KAと登録された。空軍による民間のチャーター機団に加えられ、機密の[F-117開発計画の際に](../Page/F-117_\(航空機\).md "wikilink")[ネリス空軍基地](../Page/ネリス空軍基地.md "wikilink")ととの間で人員を輸送する折り返し便として使用された\[266\]。1996年、メンフィスの[廃棄場でスクラップにされた](https://ja.wikipedia.org/wiki/飛行機の墓場 "wikilink")\[267\]。
 
 ### アール・コッシー
 
-クーパーに渡された4つのパラシュートは、元々はスカイダイビング・スクールの経営者のアール・コッシー () の所有物だった。2013年4月下旬、コッシーがシアトルの郊外にある[ウッディンビルにある自宅で遺体となって発見された](https://ja.wikipedia.org/wiki/ウッディンビル_\(ワシントン州\) "wikilink")。頭部への鈍的外傷により他殺されたという結論になった。犯人は不明である\[268\]。一部の評者はクーパー事件との関係があるかもしれないと主張した\[269\]。しかし、当局はそのような関係性があると考える理由はないと応じた\[270\]。後に、ウッディンビル警察は犯行の動機は強盗である可能性が非常に高いと発表した\[271\]。
+クーパーに渡された4つのパラシュートは、元々はスカイダイビング・スクールの経営者のアール・コッシー () の所有物だった。2013年4月下旬、コッシーがシアトルの郊外にある[ウッディンビルにある自宅で遺体となって発見された](https://ja.wikipedia.org/wiki/ウッディンビル_\(ワシントン州\) "wikilink")。頭部への鈍的外傷により他殺されたという結論になったが、犯人は不明である\[268\]。一部の評者はクーパー事件との関係があるかもしれないと主張した\[269\]。しかし、当局はそのような関係性があると考える理由はないと応じた\[270\]。ウッディンビル警察は後に、犯行の動機は強盗である可能性が非常に高いと発表した\[271\]。
 
 ## 文化への影響
 
@@ -349,16 +349,16 @@ FBIは1998年7月にウェーバーを被疑者から除外した。ウェーバ
 
 ## 外部リンク
 
-  - [Citizen Sleuths](http://citizensleuths.com/)
-  - [D.B. Cooper - The Last Master Outlaw](http://www.DBCooper.com)
+  - [Citizen Sleuths](https://citizensleuths.com/)
+  - [D.B. Cooper - The Last Master Outlaw](https://dbcooper.com/)
   - [The D.B. Cooper case has baffled the FBI for 45 years. Now it may never be solved.](https://web.archive.org/web/20160819045714/http://www.msn.com/en-us/news/crime/the-db-cooper-case-has-baffled-the-fbi-for-45-years-now-it-may-never-be-solved/ar-BBugIcH?li=BBnb7Kz&ocid=iehp)
   - [FBIのD.B.クーパー事件についての捜査資料](http://vault.fbi.gov/D-B-Cooper%20/)
-  - [FBIのラリー・カー主任捜査官とのラジオのインタビュー](http://www.stevenrinehart.com/uploads/LarryCarrInterview.mp3)
+  - [FBIのラリー・カー主任捜査官とのラジオのインタビュー](https://www.stevenrinehart.com/uploads/LarryCarrInterview.mp3)
   - [PCGS Currency Certifies Legendary “D.B. Cooper” Skyjacking Ransom Notes](https://web.archive.org/web/20080616030209/http://www.pcgs.com/articles/article_view.chtml?artid=5245&universeid=313)
   - [Northwest 305 Hijacking Research Site](http://n467us.com/)
   - [D.B. Cooper Hijacking](https://www.newspapers.com/topics/crimes-mysteries/d-b-cooper-hijacking/) - D.B.クーパー事件についての新聞記事集
   - [Hijacking Myth \#3](https://web.archive.org/web/20120122125846/http://www.fortnightjournal.com/dolan-morgan/286-hijacking-myth-3.html) - Fortnight Journal
-  - [Report on Kenneth Peter Christiansen](http://www.adventurebooksofseattle.com/FinalReportChristiansen2015.pdf) - スキップ・ポーティアスとロバート・ブレヴィンス () が2015年8月15日にシアトルのFBIに送ったケネス・クリスティアンセンについての報告書全文
+  - [Report on Kenneth Peter Christiansen](https://www.adventurebooksofseattle.com/FinalReportChristiansen2015.pdf) - スキップ・ポーティアスとロバート・ブレヴィンス () が2015年8月15日にシアトルのFBIに送ったケネス・クリスティアンセンについての報告書全文
   - [The D.B. Cooper case baffled investigators for decades. Now, scientists have a new theory.](https://www.washingtonpost.com/news/post-nation/wp/2017/01/16/the-d-b-cooper-case-baffled-investigators-for-decades-now-scientists-have-a-new-theory/?wpisrc=nl_most-draw10&wpmm=1) - [The Washington Post](https://ja.wikipedia.org/wiki/The_Washington_Post "wikilink")、2017年1月16日。FBIの映像あり。
   - [New suspect in D.B. Cooper skyjacking case unearthed by Army data analyst; FBI stays mum](https://www.oregonlive.com/expo/news/erry-2018/11/e18eba2aa14557/new-suspect-in-db-cooper-skyja.html) - [The Oregonian](https://ja.wikipedia.org/wiki/The_Oregonian "wikilink")、2018年11月13日。
   - [Ralph Himmelsbach, FBI agent who led search for D.B. Cooper and also handled UO bombing case, dies at 94](https://www.oregonlive.com/pacific-northwest-news/2019/10/ralph-himmelsbach-fbi-agent-who-led-search-for-db-cooper-and-also-handled-uo-bombing-case-dies-at-94.html) - The Oregonian、2019年10月4日。
@@ -633,7 +633,7 @@ FBIは1998年7月にウェーバーを被疑者から除外した。ウェーバ
 265.
 266.
 267.
-268. Baumann, L (May 7, 2013): "Man Who Packed DB Cooper's Parachutes ID'd as Woodinville Homicide Victim". [Woodinville *Patch*](http://woodinville.patch.com/groups/police-and-fire/p/homicide-victim-identified-as-earl-cossey-of-woodinville). Retrieved May 29, 2013
+268.
 269. Smith, BA (May 4, 2013): "Update on the murder of Earl Cossey, an analysis of his role in the DB Cooper case". [The Mounatain News](http://themountainnewswa.net/2013/05/04/update-on-the-murder-of-earl-cossey-an-analysis-of-his-role-in-the-db-cooper-case/). Retrieved May 29, 2013
 270. Johnson G (April 30, 2013): "Earl Cossey, DB Cooper Parachute Packer, ID'd As Homicide Victim". [HuffingtonPost.com](http://www.huffingtonpost.com/2013/04/30/earl-cossey-db-cooper-par_n_3188745.html) Retrieved May 29, 2013
 271. Bauman, L (May 12, 2013). Cossey Murder: Woodinville Police Chief Classifies it as Burglary. [WoodinvillePatch.com archive](http://woodinville.patch.com/groups/police-and-fire/p/earl-cossey-murder-woodinville-police-chief-classifie5175f3af01) . Retrieved October 28, 2013.

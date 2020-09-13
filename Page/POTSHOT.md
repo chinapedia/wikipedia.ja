@@ -335,7 +335,7 @@
 </div>
 </div></li>
 </ol></td>
-<td><p>Asian Man Records</p></td>
+<td><p>Asian Man Records、2017年に「20th Anniversary Deluxe Edition-」をリリース</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>

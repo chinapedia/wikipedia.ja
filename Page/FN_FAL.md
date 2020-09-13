@@ -9,7 +9,7 @@ FALは[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink"
 
 [第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")末期に[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")で開発された[StG44や](../Page/StG44_\(突撃銃\).md "wikilink")[StG45](https://ja.wikipedia.org/wiki/StG45 "wikilink")の出現後、各国で従来の[小銃](../Page/小銃.md "wikilink")弾より弱装の[弾薬](../Page/弾薬.md "wikilink")を使用することでライフルにフルオートマチック機能を付与する試みが進められた。[ソ連では](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[AK-47](../Page/AK-47.md "wikilink")を開発して配備を進めていた。
 
-対する[西側諸国](../Page/西側諸国.md "wikilink")、中でも[NATO構成国はそれぞれ特徴的なライフルを独自に開発していたが](../Page/北大西洋条約機構.md "wikilink")、共通する特徴はそれまでのライフル弾より[口径](../Page/口径.md "wikilink")が小さく、連続射撃に適する弱装弾を採用している点であった。[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の大手銃器メーカーである[FN社でもデュードネ](../Page/FNハースタル.md "wikilink")・ヨシフ・サイーブ（Dieudonné Joseph Saive）\[1\]、エルネスト・ヴェルヴィエ（Ernest Vervier）らのチームにより、[1947年](../Page/1947年.md "wikilink")から弱装弾を用いるフルオート対応の新型[自動小銃](../Page/自動小銃.md "wikilink")（のちのFAL）開発に着手していた。
+対する[西側諸国](../Page/西側諸国.md "wikilink")、中でも[NATO構成国はそれぞれ特徴的なライフルを独自に開発していたが](../Page/北大西洋条約機構.md "wikilink")、共通する特徴はそれまでのライフル弾より[口径](../Page/口径.md "wikilink")が小さく、連続射撃に適する弱装弾を採用している点であった。[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の大手銃器メーカーである[FN社でもデュードネ](../Page/FNハースタル.md "wikilink")・ジョゼフ・セヴ（Dieudonné Joseph Saive）\[1\]、エルネスト・ヴェルヴィエ（Ernest Vervier）らのチームにより、[1947年](../Page/1947年.md "wikilink")から弱装弾を用いるフルオート対応の新型[自動小銃](../Page/自動小銃.md "wikilink")（のちのFAL）開発に着手していた。
 
 しかし[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")は、自国の[M14小銃と共に](../Page/スプリングフィールドM14.md "wikilink")[7.62x51mm弾をNATO軍標準弾薬とするよう要求した](../Page/7.62x51mm_NATO弾.md "wikilink")。
 
@@ -282,10 +282,14 @@ FALM PIIIと[IMI ガリルをベースに](../Page/IMI_ガリル.md "wikilink")[
 
 :; 『[こちら葛飾区亀有公園前派出所](../Page/こちら葛飾区亀有公園前派出所.md "wikilink")』
 
+:: 第65巻 FAXします！私のすべての巻にて大原 大次郎が所持。
+
+:; 『[ゴルゴ13](../Page/ゴルゴ13.md "wikilink")』
+
   -
 
       -
-        第65巻 FAXします！私のすべての巻にて大原 大次郎が所持。
+        第15巻66話「アクシデンタル」の冒頭で標的の狙撃に使用したが、調達を頼んだ人物の好奇心で不発弾を入れられて狙撃に失敗する。
 
 ### 小説
 
@@ -350,10 +354,14 @@ FALM PIIIと[IMI ガリルをベースに](../Page/IMI_ガリル.md "wikilink")[
 
 ::; 『[CoD:G](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_ゴースト "wikilink")』
 
+::: 近代化改修型の「SC-2010」と「IA-2」が登場。キャンペーンではSC-2010は連邦軍兵士が、IA-2は主人公達が使用する。
+
+::; 『[CoD:MW](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_モダン・ウォーフェア "wikilink")』
+
   -
 
       -
-        近代化改修型の「SC-2010」が登場。
+        FALが登場する。セミオートのみだが、ガンスミスのカスタマイズで3点バーストに変更可能。OSW風のバリアントも存在する。キャンペーンでは主にアル・カターラの民兵が使用している他、プライスも狙撃銃に改造して使用。プレイヤーも拾って使用可能。
 
 :; 『[スプリンターセル　ブラックリスト](https://ja.wikipedia.org/wiki/スプリンターセル_ブラックリスト "wikilink")』
 
@@ -369,9 +377,12 @@ FALM PIIIと[IMI ガリルをベースに](../Page/IMI_ガリル.md "wikilink")[
 
 ::; 『[MGSPW](https://ja.wikipedia.org/wiki/メタルギアソリッド_ピースウォーカー "wikilink")』
 
-::: 「FAL」の名称で登場。
+  -
 
-::; 『[PLAYERUNKNOWN'S BATTLEGROUNDS](https://ja.wikipedia.org/wiki/PLAYERUNKNOWN'S_BATTLEGROUNDS "wikilink")』
+      -
+        「FAL」の名称で登場。
+
+:; 『[PLAYERUNKNOWN'S BATTLEGROUNDS](https://ja.wikipedia.org/wiki/PLAYERUNKNOWN'S_BATTLEGROUNDS "wikilink")』
 
   -
 

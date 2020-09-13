@@ -169,7 +169,7 @@
 
   - AKIHITO ISHIKAWA - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")（Vo）
       -
-        [BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の『[MARIONETTE](../Page/Marionette_\(BOOWYの曲\).md "wikilink")』をきっかけとして中学生時代にロックに目覚めた。また、ライブパフォーマンスなど[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")からも影響を受けている。20代半ばにギターを購入するも挫折した過去がある。
+        [BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の『[MARIONETTE](../Page/Marionette_\(BOØWYの曲\).md "wikilink")』をきっかけとして中学生時代にロックに目覚めた。また、ライブパフォーマンスなど[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")からも影響を受けている。20代半ばにギターを購入するも挫折した過去がある。
   - TOSHIHIKO HONMA - [ギター](../Page/ギター.md "wikilink")（Gt）
       -
         音楽に興味を持ったきっかけは[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")。[X JAPAN](../Page/X_JAPAN.md "wikilink")、[ZI:KILL](../Page/ZI:KILL.md "wikilink")や[LUNA SEAなどから影響を受けた](../Page/LUNA_SEA.md "wikilink")。2006年にはロックバンド「Lunch in Tika」を結成するが後に解散した。

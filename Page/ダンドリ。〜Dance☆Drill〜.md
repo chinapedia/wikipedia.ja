@@ -21,7 +21,7 @@
     このドラマの主人公。負けず嫌いで思い込んだら一途に突っ走り根拠のない自信の持ち主。チアダンス同好会結成のきっかけもただ単に憧れのバスケット部の先輩の応援のために彼女が呼びかけたもの。しかし、チアダンスの楽しさに魅了され本格的に同好会結成に突っ走っていく。そんな気がしてならない。
   - 末吉 双葉
     演 - [加藤ローサ](https://ja.wikipedia.org/wiki/加藤ローサ "wikilink")
-    要の親友でよき理解者。実家が皐月神社で時折神主姿で登場する。幼馴染の大学生に思いを寄せていたがその後交際していることがわかりチアダンスに集中する決意を。演じた[加藤ローサ](https://ja.wikipedia.org/wiki/加藤ローサ "wikilink")はこのドラマに続く[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")[火曜](https://ja.wikipedia.org/wiki/火曜 "wikilink")[21時](https://ja.wikipedia.org/wiki/21時 "wikilink")のドラマ『[役者魂\!](../Page/役者魂!.md "wikilink")』に出演。
+    要の親友でよき理解者。実家が皐月神社で時折神主姿で登場する。幼馴染の大学生に思いを寄せていたがその後交際していることがわかりチアダンスに集中する決意を。演じた[加藤ローサ](https://ja.wikipedia.org/wiki/加藤ローサ "wikilink")はこのドラマに続く[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")[火曜](../Page/火曜日.md "wikilink")[21時](https://ja.wikipedia.org/wiki/21時 "wikilink")のドラマ『[役者魂\!](../Page/役者魂!.md "wikilink")』に出演。
   - 池田 まゆ実
     演 - [森田彩華](../Page/森田彩華.md "wikilink")
     メンバーから「ケダマ」と呼ばれている。同好会メンバーで数少ない優等生で常に学年トップ10をキープ。しかし、家庭では常に母親の厳しい監視の眼が行き届きそれを脱皮するためにチアダンス同好会に入ることに。もともとダンスには興味があり要達よりもダンスに関する知識がある。
@@ -164,6 +164,6 @@
 
 ## 外部リンク
 
-  - [ダンドリ。〜Dance☆Drill〜 - フジテレビ番組基本情報](http://www.fujitv.co.jp/b_hp/dancedrill/)
+  - [ダンドリ。〜Dance☆Drill〜 - フジテレビ番組基本情報](https://www.fujitv.co.jp/b_hp/dancedrill/)
 
 [Category:フジテレビ火曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビ火曜9時枠の連続ドラマ "wikilink") [Category:2006年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2006年のテレビドラマ "wikilink") [Category:共同テレビのテレビドラマ](https://ja.wikipedia.org/wiki/Category:共同テレビのテレビドラマ "wikilink") [Category:高等学校を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:高等学校を舞台としたテレビドラマ "wikilink") [Category:スポーツドラマ](https://ja.wikipedia.org/wiki/Category:スポーツドラマ "wikilink") [Category:チアダンスを題材とした作品](https://ja.wikipedia.org/wiki/Category:チアダンスを題材とした作品 "wikilink") [Category:増田貴久](https://ja.wikipedia.org/wiki/Category:増田貴久 "wikilink")

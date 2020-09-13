@@ -19,6 +19,8 @@
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")からは店頭販売が開始された。
 
+2016年に製造終了。
+
 ## デザイン
 
 [Nintendo_DS_with_DSTV.jpg](https://ja.wikipedia.org/wiki/File:Nintendo_DS_with_DSTV.jpg "fig:Nintendo_DS_with_DSTV.jpg") DSカードスロットへの接続端子を有する基部と、アンテナ収納部、2本の[アンテナ](../Page/アンテナ.md "wikilink")から成る。未装着状態で真っ直ぐに展開してアンテナを最大限に伸ばすと、DSカード端子からアンテナ先端までの長さは30cmを越える。そのため、接続時にはその大半がDS背面側に大きくはみ出す。

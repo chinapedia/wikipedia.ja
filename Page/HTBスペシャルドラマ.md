@@ -31,7 +31,7 @@
 タイトルの前に☆があるものは日本民間放送連盟賞優秀賞、★があるものは文化庁芸術祭優秀賞、◎は[ギャラクシー賞](../Page/ギャラクシー賞.md "wikilink")奨励賞を受賞した作品。
 
   - 約束の街・札幌 (1996年、主演:[別所哲也](../Page/別所哲也.md "wikilink"))
-  - 君といた街角 (1997年、主演:[有森也美](https://ja.wikipedia.org/wiki/有森也美 "wikilink"))
+  - 君といた街角 (1997年、主演:[有森也実](https://ja.wikipedia.org/wiki/有森也実 "wikilink"))
   - 夢の標本 (1998年冬、主演:[戸田菜穂](../Page/戸田菜穂.md "wikilink"))
   - ここではない何処か (1998年夏、主演:[石田ゆり子](../Page/石田ゆり子.md "wikilink")）
   - [藤堂志津子](../Page/藤堂志津子.md "wikilink")スペシャル 黒い瞳 (1999年、主演:[清水美砂](https://ja.wikipedia.org/wiki/清水美砂 "wikilink"))

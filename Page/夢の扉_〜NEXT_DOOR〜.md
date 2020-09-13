@@ -18,7 +18,7 @@
 ### ナレーター
 
   - [宮沢りえ](https://ja.wikipedia.org/wiki/宮沢りえ "wikilink")（[女優](../Page/俳優.md "wikilink")、放送開始 - [2007年](../Page/2007年.md "wikilink")9月30日）
-  - [長峰由紀](../Page/長峰由紀.md "wikilink")（[TBSアナウンサー](../Page/TBSテレビ.md "wikilink")、2007年10月7日 - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月28日）
+  - [長峰由紀](../Page/長峰由紀.md "wikilink")（[TBSアナウンサー](https://ja.wikipedia.org/wiki/TBSテレビのアナウンサー一覧 "wikilink")、2007年10月7日 - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月28日）
   - [出水麻衣](https://ja.wikipedia.org/wiki/出水麻衣 "wikilink")（TBSアナウンサー、2010年4月4日 - 終了まで）
   - [堀井美香](../Page/堀井美香.md "wikilink")（TBSアナウンサー、2010年8月29日 - 終了まで）
 
@@ -145,27 +145,27 @@
   - 総合演出：田中経一
   - 総合構成：尾首大樹
   - 構成：古井知克
-  - 音楽：千住　明
+  - 音楽：[千住明](../Page/千住明.md "wikilink")
   - 撮影：白石利彦
   - 音声：松井繁樹
   - 編集：安達憲一
   - オフライン編集：高橋智子
   - MA：久保田隆
   - 選曲：井田栄司
-  - 美術：清水　久
+  - 美術：清水久
   - CG：鈴木千夏
   - イラスト：対比地一正
   - 宣伝：小山陽介
   - デスク：大島史子
-  - 協力：東通
-  - 制作協力：TBS-V
+  - 協力：[東通](https://ja.wikipedia.org/wiki/東通 "wikilink")
+  - 制作協力：[TBS-V](../Page/TBSビジョン.md "wikilink")
   - AP：中村奈穂
   - AD：渡辺尊光、岩崎貴史
   - ディレクター：金窓荘二郎
   - 演出：三谷良通
   - プロデューサー：斉藤裕之、飯田晃嘉
   - チーフプロデューサー：菊野浩樹
-  - 製作：ドリマックス・テレビジョン、TBS
+  - 製作：[ドリマックス・テレビジョン](../Page/ドリマックス・テレビジョン.md "wikilink")、TBS
 
 ## テーマソング
 

@@ -21,7 +21,7 @@
   - 佐藤ニキ（さとう ニキ） 1988年1月10日…以前、｢[ポンキッキーズ](../Page/ポンキッキーズ.md "wikilink")｣に出演。
   - 佐藤里奈（さとう りな） 1988年1月10日…以前、｢ポンキッキーズ｣に出演。
   - 滝口悠（たきぐち はるか） 1984年10月29日
-  - 関口洋美（せきぐち ひろみ） 1988年5月23日…歌手**Ruca**として活動中[1](http://ameblo.jp/singerhiromi/)。
+  - 関口洋美（せきぐち ひろみ） 1988年5月23日…歌手**Ruca**として活動中[1](https://ameblo.jp/singerhiromi/)。
   - 木村紗緒里（きむら さおり） 1988年10月30日
   - 佐野はな（さの はな） 1986年5月16日…[12.ヒトエ](../Page/12.ヒトエ.md "wikilink")（2001～2006年）→[アルメリア](../Page/ARMERIA.md "wikilink")（2006～2007年）→The Spade 13（2007年～2010年）→[Gacharic Spinでドラマー](https://ja.wikipedia.org/wiki/Gacharic_Spin "wikilink")**はな**として活動中。
   - 田中奈津美（たなか なつみ） 1985年4月20日
@@ -36,7 +36,7 @@
   - 水地弾人（みずち だんと） 1988年3月27日
   - [飯村翔](https://ja.wikipedia.org/wiki/OKAMOTO'S#メンバー "wikilink")（いいむら しょう） 1990年10月19日…[OKAMOTO'S](https://ja.wikipedia.org/wiki/OKAMOTO'S "wikilink")のボーカル、オカモトショウとして活動中。
   - [マイク谷](https://ja.wikipedia.org/wiki/マイク谷 "wikilink")（マイク たに） 1985年10月4日
-  - RIN（リン） 1988年3月10日…女優**太田里奈**として活動中[4](http://ameblo.jp/rina-o/)。
+  - RIN（リン） 1988年3月10日…女優**太田里奈**として活動中[4](https://ameblo.jp/rina-o/)。
   - 増岡未央（ますおか みお） 1986年11月19日
 
 </div>
@@ -69,5 +69,5 @@
 
 [Category:チャイドル](https://ja.wikipedia.org/wiki/Category:チャイドル "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")
 
-1.  [macaronろん♪](http://ameblo.jp/ayano-okuda/entry-10087839084.html)
+1.  [macaronろん♪](https://ameblo.jp/ayano-okuda/entry-10087839084.html)
 2.  [わかやん結婚！](http://people.zozo.jp/nonsaito/diary/1825916)

@@ -17,6 +17,8 @@
 
 2014年に[プレミアムバンダイ](https://ja.wikipedia.org/wiki/プレミアムバンダイ "wikilink")で企画された「SDX SDガンダムシリーズ（騎士・コマンド・武者）」の紹介においては、これらの製品をそろえることで当作の再現が可能というアピールと作品紹介が行われた。
 
+2020年6月18日に[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")ガンダムチャンネルで『[ガンダムビルドダイバーズRe:RISE](https://ja.wikipedia.org/wiki/ガンダムビルドダイバーズRe:RISE "wikilink")』の代替配信のひとつとして配信された\[1\]。
+
 ## 登場キャラクター
 
   - 武者頑駄無（[SD戦国伝](https://ja.wikipedia.org/wiki/SD戦国伝 "wikilink")）
@@ -74,4 +76,14 @@
 
   - SDガンダム アニメーションメモリアルブック ISBN 978-4-7753-1256-8
 
+## 出典
+
+<references />
+
+## 外部リンク
+
+  - [サンライズ公式](https://www.sunrise-inc.co.jp/work/detail.php?cid=55)
+
 [Category:ガンダムシリーズのアニメ映画](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズのアニメ映画 "wikilink") [Category:SDガンダム](https://ja.wikipedia.org/wiki/Category:SDガンダム "wikilink") [Category:アニメ作品_む](https://ja.wikipedia.org/wiki/Category:アニメ作品_む "wikilink") [Category:1991年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1991年のアニメ映画 "wikilink") [Category:日本のオリジナルアニメ映画](https://ja.wikipedia.org/wiki/Category:日本のオリジナルアニメ映画 "wikilink") [Category:松竹のアニメ映画](https://ja.wikipedia.org/wiki/Category:松竹のアニメ映画 "wikilink") [Category:バンダイビジュアルのアニメ映画](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ映画 "wikilink") [Category:ガンダムシリーズのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズのクロスオーバー作品 "wikilink")
+
+1.  [【6/18配信】Re:RISEセレクト～ヴァルキランダー編～【ガンチャン】](https://www.youtube.com/watch?v=gP6HOkWUB3E)YouTubeガンダムチャンネル 2020年6月18日

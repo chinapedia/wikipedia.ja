@@ -328,6 +328,7 @@
 
   - [チェアスキー](https://ja.wikipedia.org/wiki/チェアスキー "wikilink")（障害者スキーのナショナルチームが使用する用具の開発に参加している）
   - [KYBスタジアム](https://ja.wikipedia.org/wiki/KYBスタジアム "wikilink")
+  - [関口産業株式会社](https://ja.wikipedia.org/wiki/関口産業株式会社 "wikilink")
 
 ## 外部リンク
 

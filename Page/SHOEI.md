@@ -11,7 +11,7 @@
 
 1965年には[本田技研工業](../Page/本田技研工業.md "wikilink")の純正ヘルメットに採用。1968年に茨城工場を建設、7月にはアメリカに現地法人を設立。
 
-1980年代には世界一の生産量を誇るヘルメットメーカーに成長。1986年に当時本田技術研究所より独立し設計事務所を営んでいた[CKデザイン](https://ja.wikipedia.org/wiki/CKデザイン "wikilink")の佐々木和夫を技術顧問として迎えた。佐々木提案によるヘルメットの快適性をテーマに風切音や換気性などの改善と向上に努め、頭部を保護するだけではなく快適性も備えたものへと発展させた。この機能を具備したヘルメットはオンロード用だけのとどまらず、オフロードも含め波及した。この頃に新橋の鎌田の旅館は本社ビルに改装され一階は日本料理屋として打合せなどにも活用されていた。旅館の息子というだけあって鎌田の料理の腕前もなかなかのものだった。
+1980年代には世界一の生産量を誇るヘルメットメーカーに成長。1986年に当時本田技術研究所より独立し設計事務所を営んでいた[CKデザイン](../Page/CKデザイン.md "wikilink")の佐々木和夫を技術顧問として迎えた。佐々木提案によるヘルメットの快適性をテーマに風切音や換気性などの改善と向上に努め、頭部を保護するだけではなく快適性も備えたものへと発展させた。この機能を具備したヘルメットはオンロード用だけのとどまらず、オフロードも含め波及した。この頃に新橋の鎌田の旅館は本社ビルに改装され一階は日本料理屋として打合せなどにも活用されていた。旅館の息子というだけあって鎌田の料理の腕前もなかなかのものだった。
 
 [1992年](../Page/1992年.md "wikilink")、放漫経営などによる資金繰りの悪化から[会社更生法](../Page/会社更生法.md "wikilink")の適用を申請。[三菱商事](../Page/三菱商事.md "wikilink")の支援もあって当初計画を前倒しして[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に更生手続を終了。同年5月に株式会社シヨウエイ、同年8月に現社名に変更する。
 
@@ -41,6 +41,7 @@
 ### フリップアップ
 
   - NEOTEC
+  - NEOTEC II
 
 ### オープンフェイス（ジェット）
 
@@ -70,4 +71,4 @@
 
   - [SHOEI](https://www.shoei.com/)
 
-[Category:台東区の企業](https://ja.wikipedia.org/wiki/Category:台東区の企業 "wikilink") [Category:日本の工業製品メーカー](https://ja.wikipedia.org/wiki/Category:日本の工業製品メーカー "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:2004年上場の企業](https://ja.wikipedia.org/wiki/Category:2004年上場の企業 "wikilink") [Category:日本のオートバイ部品サプライヤー](https://ja.wikipedia.org/wiki/Category:日本のオートバイ部品サプライヤー "wikilink") [Category:1959年設立の企業](https://ja.wikipedia.org/wiki/Category:1959年設立の企業 "wikilink")
+[Category:オートバイ用ヘルメット](https://ja.wikipedia.org/wiki/Category:オートバイ用ヘルメット "wikilink") [Category:日本のオートバイ部品サプライヤー](https://ja.wikipedia.org/wiki/Category:日本のオートバイ部品サプライヤー "wikilink") [Category:日本の工業製品メーカー](https://ja.wikipedia.org/wiki/Category:日本の工業製品メーカー "wikilink") [Category:台東区の企業](https://ja.wikipedia.org/wiki/Category:台東区の企業 "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:2004年上場の企業](https://ja.wikipedia.org/wiki/Category:2004年上場の企業 "wikilink") [Category:1959年設立の企業](https://ja.wikipedia.org/wiki/Category:1959年設立の企業 "wikilink")

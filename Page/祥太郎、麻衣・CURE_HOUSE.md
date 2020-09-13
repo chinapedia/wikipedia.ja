@@ -26,11 +26,11 @@
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink") 日曜 22:30 - 23:00
   - [東海ラジオ](../Page/東海ラジオ放送.md "wikilink") 日曜 23:00 - 23:30
   - [KBS京都](../Page/京都放送.md "wikilink") 日曜 20:50 - 21:20
-  - [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink") 日曜 24:30 - 25:00（ただし日曜日の[ナイター中継](https://ja.wikipedia.org/wiki/ナイター中継 "wikilink")が延長された場合は繰り下げ）
+  - [RKB毎日放送](../Page/RKBラジオ.md "wikilink") 日曜 24:30 - 25:00（ただし日曜日の[ナイター中継](https://ja.wikipedia.org/wiki/ナイター中継 "wikilink")が延長された場合は繰り下げ）
 
 ### 一時期ネットしていた放送局
 
-  - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")
+  - [山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")
 
 ## 主なコーナー
 

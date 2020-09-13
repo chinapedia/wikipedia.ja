@@ -45,8 +45,8 @@
 ## 外部リンク
 
   - [裏モノ公式WEB](http://uramono.net/)
-  - [鉄人社](http://www.tetsujinsya.co.jp/)
-  - [下関マグロ](http://ameblo.jp/maguro1958/)
+  - [鉄人社](https://tetsujinsya.co.jp/)
+  - [下関マグロ](https://ameblo.jp/maguro1958/)
 
 [Category:日本のアダルト雑誌](https://ja.wikipedia.org/wiki/Category:日本のアダルト雑誌 "wikilink") [Category:サブカルチャー雑誌](https://ja.wikipedia.org/wiki/Category:サブカルチャー雑誌 "wikilink") [Category:1998年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1998年創刊の雑誌 "wikilink")
 

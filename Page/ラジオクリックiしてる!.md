@@ -86,4 +86,4 @@
   - [朝6生ワイド](../Page/朝6生ワイド.md "wikilink") - 現在の熊谷明美担当の番組。
   - [ラジ魂](../Page/ラジ魂.md "wikilink")\!\! - 現在の大森俊治担当の番組。
 
-[Category:1999年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のラジオ番組_\(日本\) "wikilink") [Category:STVラジオの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:STVラジオの帯番組の歴史 "wikilink") [Category:ローカルラジオ局の音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の音楽番組の歴史 "wikilink")
+[Category:1999年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のラジオ番組_\(日本\) "wikilink") [Category:STVラジオの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:STVラジオの帯番組の歴史 "wikilink") [Category:ローカルラジオ局の音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の音楽番組の歴史 "wikilink") [Category:リクエスト番組](https://ja.wikipedia.org/wiki/Category:リクエスト番組 "wikilink")

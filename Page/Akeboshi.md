@@ -112,7 +112,7 @@
 
 **[2020年](../Page/2020年.md "wikilink")**
 
-  - 3月9日、映画『もち』の音楽担当を公式サイト上で発表。
+  - 3月9日、映画『[もち](https://ja.wikipedia.org/wiki/もち_\(映画\) "wikilink")』の音楽担当を公式サイト上で発表。
 
 ## ディスコグラフィー
 
@@ -226,9 +226,8 @@ DLCL-3:通常盤</p></td>
 <li>花火 【作詞:Akeboshi,尾上文/作曲:Akeboshi】</li>
 <li>Yellow Moon 【作詞:<a href="../Page/井上陽水.md" title="wikilink">井上陽水</a>,Akeboshi/作曲:Akeboshi】</li>
 <li>Deep End</li>
-</ol>
-<p>初回プレス盤『NARUTO -ナルト-』オリジナルステッカー封入</p></td>
-<td><p>オリコン最高65位、登場回数3回</p></td>
+</ol></td>
+<td><p>オリコン最高65位、登場回数3回 初回プレス盤『NARUTO -ナルト-』オリジナルステッカー封入</p></td>
 </tr>
 <tr class="even">
 <td><p>5th</p></td>
@@ -253,9 +252,8 @@ DLCL-3:通常盤</p></td>
 <li>Standing on the line</li>
 <li>曇り夜空（Studio Live ver.）</li>
 <li>見えない壁（Studio Live ver.）</li>
-</ol>
-<p>期間限定スタジオライブ動画ダウンロード特典付き</p></td>
-<td></td>
+</ol></td>
+<td><p>期間限定スタジオライブ動画ダウンロード特典付き</p></td>
 </tr>
 <tr class="even">
 <td><p>7th</p></td>
@@ -306,9 +304,8 @@ DLCL-3:通常盤</p></td>
 <li>Tall Boy 【作詞作曲編曲:Akeboshi】</li>
 <li>The Audience 【作詞:<a href="../Page/マシュー・ハーバート.md" title="wikilink">Herbert</a>/作曲:Herbert,<a href="https://ja.wikipedia.org/wiki/w:en:Dani_Siciliano" title="wikilink">Dani Siciliano</a>,Phil Parnell/編曲:Akeboshi】</li>
 <li>神様の舌打ち 【作詞作曲編曲:Akeboshi】</li>
-</ol>
-<p>初回プレス盤デジパックケース仕様、<a href="../Page/HMV.md" title="wikilink">HMV</a>予約購入限定直筆サイン入りスリーブケース付仕様</p></td>
-<td><p>メジャーデビューアルバム</p></td>
+</ol></td>
+<td><p>メジャーデビューアルバム 初回プレス盤デジパックケース仕様、<a href="../Page/HMV.md" title="wikilink">HMV</a>予約購入限定直筆サイン入りスリーブケース付仕様</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
@@ -530,7 +527,7 @@ ESCL-3067:通常盤</p></td>
   - 『[恋人たち](https://ja.wikipedia.org/wiki/恋人たち_\(2015年の映画\) "wikilink")』音楽・主題歌担当
   - 『[あめつちの日々](https://ja.wikipedia.org/wiki/あめつちの日々 "wikilink")』音楽担当
   - 『[鈴木家の嘘](https://ja.wikipedia.org/wiki/鈴木家の嘘 "wikilink")』音楽・主題歌担当
-  - 『もち』音楽担当
+  - 『[もち](https://ja.wikipedia.org/wiki/もち_\(映画\) "wikilink")』音楽担当
 
 ## 出演
 
@@ -574,7 +571,7 @@ ESCL-3067:通常盤</p></td>
   -
   -
   -
-[Category:日本のシンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本のシンガーソングライター "wikilink") [Category:日本のポップ歌手](https://ja.wikipedia.org/wiki/Category:日本のポップ歌手 "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink") [Category:横浜市出身の人物](https://ja.wikipedia.org/wiki/Category:横浜市出身の人物 "wikilink") [Category:1978年生](https://ja.wikipedia.org/wiki/Category:1978年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:日本の男性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ポップ歌手 "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink") [Category:横浜市出身の人物](https://ja.wikipedia.org/wiki/Category:横浜市出身の人物 "wikilink") [Category:1978年生](https://ja.wikipedia.org/wiki/Category:1978年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.  『STONED TOWN』販促用告知配布フライヤー記載。

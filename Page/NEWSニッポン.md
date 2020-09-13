@@ -26,6 +26,9 @@
         作詞：KNM PROJECT、作曲・編曲：[馬飼野康二](../Page/馬飼野康二.md "wikilink")
     <!-- end list -->
       - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[バレーボールワールドカップ2003](../Page/2003年ワールドカップバレーボール.md "wikilink")』イメージソング
+    <!-- end list -->
+      -
+        1stアルバム『[touch](https://ja.wikipedia.org/wiki/touch_\(NEWSのアルバム\) "wikilink")』、ベストアルバム『[NEWS BEST](https://ja.wikipedia.org/wiki/NEWS_BEST "wikilink")』ではアルバムバージョンで収録されているため、シングルバージョンで聴くことができるのは、このシングルのみである。
 2.  **ありがとう・今** - [増田貴久](../Page/増田貴久.md "wikilink")・[手越祐也](../Page/手越祐也.md "wikilink")・[森内貴寛](https://ja.wikipedia.org/wiki/森田貴寛 "wikilink")
       -
         作詞：[泉らら](../Page/森進一.md "wikilink")、作曲・編曲：馬飼野康二
@@ -42,7 +45,7 @@
       - 小山・加藤・草野が所属していたユニット「[K.K.Kity](../Page/K.K.Kity.md "wikilink")」のオリジナル曲のセルフカバー
     <!-- end list -->
       -
-        作詞を担当した堂本光一はK.K.Kityに作詞させる予定だったが\[6\]立ち消え、久保田洋司が担当する事になる。光一自身ものちに「[UNBREAKABLE](https://ja.wikipedia.org/wiki/Deep_in_your_heart/+MILLION_but_-LOVE "wikilink")」というタイトルで[セルフカバー](../Page/セルフカバー.md "wikilink")した。
+        作曲を担当した堂本光一はK.K.Kityに作詞させる予定だったが\[6\]立ち消え、久保田洋司が担当する事になる。光一自身ものちに「[UNBREAKABLE](https://ja.wikipedia.org/wiki/Deep_in_your_heart/+MILLION_but_-LOVE "wikilink")」というタイトルで[セルフカバー](../Page/セルフカバー.md "wikilink")した。
 3.  NEWSニッポン（オリジナルカラオケ）
 4.  Private Hearts（オリジナルカラオケ）
 

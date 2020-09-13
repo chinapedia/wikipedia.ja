@@ -5,9 +5,10 @@
 
 ## 大会の歴史
 
-  - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")に[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink") (STV) および開催コースの札幌ゴルフ倶楽部の共催により3日間競技による「STVカップ札幌オープンゴルフトーナメント」としてスタート。[1973年](../Page/1973年.md "wikilink")からは全日本空輸が新たな[スポンサー](../Page/スポンサー.md "wikilink")となり、「全日空札幌オープンゴルフトーナメント」として生まれ変わり、大会も4日間競技となった。その後「全日空オープンゴルフトーナメント」（1986年から）の名称を経て2002年から現在の大会名となっている\[2\]。
+  - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")に[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink") (STV) および開催コースの札幌ゴルフ倶楽部の共催により3日間競技による「STVカップ札幌オープンゴルフトーナメント」としてスタート。[1973年](../Page/1973年.md "wikilink")からはANAが新たな[スポンサー](../Page/スポンサー.md "wikilink")となり、「全日空札幌オープンゴルフトーナメント」として生まれ変わり、大会も4日間競技となった。その後「全日空オープンゴルフトーナメント」（1986年から）の名称を経て2002年から現在の大会名となっている\[2\]。
   - 2018年大会は[北海道胆振東部地震](https://ja.wikipedia.org/wiki/北海道胆振東部地震 "wikilink")の影響により中止され\[3\]、主催のANAは賞金の一部を被災地支援として使うとの声明を発表した。
-  - 2019年大会は例年の開催週に[ラグビーワールドカップの試合が](../Page/ラグビーワールドカップ2019.md "wikilink")[札幌ドーム](../Page/札幌ドーム.md "wikilink")で行われることからインフラへの影響を考慮し、開催時期を1週間繰り上げる処置を行った\[4\]。
+  - 2019年大会は例年の開催週に[ラグビーワールドカップ日本大会の試合が](../Page/ラグビーワールドカップ2019.md "wikilink")[札幌ドーム](../Page/札幌ドーム.md "wikilink")で行われることからインフラへの影響を考慮し、開催時期を1週間繰り上げる処置を行った\[4\]。
+  - 2020年は新型コロナウイルス感染拡大の影響で中止となった\[5\]。
 
 ## 歴代優勝者
 
@@ -24,67 +25,67 @@
 <tr class="odd">
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
 <td><p>第46回</p></td>
-<td><p><a href="../Page/浅地洋佑.md" title="wikilink">浅地洋佑</a>[5]</p></td>
-<td><p>札幌ゴルフ倶楽部輪厚コース[6]</p></td>
+<td><p><a href="../Page/浅地洋佑.md" title="wikilink">浅地洋佑</a>[6]</p></td>
+<td><p>札幌ゴルフ倶楽部輪厚コース[7]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a></p></td>
 <td><p>第45回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/池田勇太" title="wikilink">池田勇太</a>[7]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/池田勇太" title="wikilink">池田勇太</a>[8]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
 <td><p>第44回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブレンダン・ジョーンズ" title="wikilink">ブレンダン・ジョーンズ</a>[8]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ブレンダン・ジョーンズ" title="wikilink">ブレンダン・ジョーンズ</a>[9]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a></p></td>
 <td><p>第43回</p></td>
-<td><p><a href="../Page/石川遼.md" title="wikilink">石川遼</a>[9]</p></td>
+<td><p><a href="../Page/石川遼.md" title="wikilink">石川遼</a>[10]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
 <td><p>第42回</p></td>
-<td><p><a href="../Page/宮本勝昌.md" title="wikilink">宮本勝昌</a>[10]</p></td>
+<td><p><a href="../Page/宮本勝昌.md" title="wikilink">宮本勝昌</a>[11]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a></p></td>
 <td><p>第41回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小田孔明" title="wikilink">小田孔明</a>[11]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/小田孔明" title="wikilink">小田孔明</a>[12]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a></p></td>
 <td><p>第40回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤田寛之" title="wikilink">藤田寛之</a>[12]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/藤田寛之" title="wikilink">藤田寛之</a>[13]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a></p></td>
 <td><p>第39回</p></td>
-<td><p>[13]</p></td>
+<td><p>[14]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a></p></td>
 <td><p>第38回</p></td>
-<td><p>池田勇太[14]</p></td>
+<td><p>池田勇太[15]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
 <td><p>第37回</p></td>
-<td><p><a href="../Page/谷口徹.md" title="wikilink">谷口徹</a>[15]</p></td>
+<td><p><a href="../Page/谷口徹.md" title="wikilink">谷口徹</a>[16]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a></p></td>
 <td><p>第36回</p></td>
-<td><p><a href="../Page/矢野東.md" title="wikilink">矢野東</a>[16]</p></td>
+<td><p><a href="../Page/矢野東.md" title="wikilink">矢野東</a>[17]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -175,13 +176,13 @@
 <td><p><a href="../Page/1993年.md" title="wikilink">1993年</a></p></td>
 <td><p>第21回</p></td>
 <td><p><a href="../Page/中嶋常幸.md" title="wikilink">中嶋常幸</a></p></td>
-<td><p>札幌ゴルフ倶楽部由仁コース[17]</p></td>
+<td><p>札幌ゴルフ倶楽部由仁コース[18]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1992年.md" title="wikilink">1992年</a></p></td>
 <td><p>第20回</p></td>
 <td><p>尾崎将司</p></td>
-<td><p>札幌ゴルフ倶楽部輪厚コース[18]</p></td>
+<td><p>札幌ゴルフ倶楽部輪厚コース[19]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1991年.md" title="wikilink">1991年</a></p></td>
@@ -302,7 +303,7 @@
 </tbody>
 </table>
 
-2018年は前述どおり地震の影響で中止となっている\[19\]。
+2018年は前述どおり地震の影響で中止となっている\[20\]。
 
 ## テレビ放送
 
@@ -322,18 +323,19 @@
 2.  『札幌テレビ放送二十年史』p346-347、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")刊行
 3.
 4.
-5.  [浅地洋佑、史上最多5人のPO制しツアー2勝目](https://www.nikkansports.com/sports/golf/news/201909150000423.html) - 日刊スポーツ、2019年9月15日配信、同日閲覧
-6.  2006年と2007年は、全長7,017ヤード、パー71で開催された。
-7.  [池田勇太PO制す、史上最年少で獲得賞金10億円超](https://www.nikkansports.com/sports/golf/news/201709170000585.html) - 日刊スポーツ、2017年9月17日閲覧
-8.  [ジョーンズ復活V、昨年の難局乗り越え「ハッピー」](http://www.nikkansports.com/sports/golf/news/1711945.html) - 日刊スポーツ、2016年9月18日閲覧
-9.  [石川遼 新境地V ショート以外すべてドライバー](http://www.nikkansports.com/sports/golf/news/1541619.html) - 日刊スポーツ、2015年9月21日掲載、2016年9月18日閲覧
-10. [宮本V「夢かなった」CAと記念撮影](http://www.nikkansports.com/sports/golf/news/p-sp-tp1-20140922-1370850.html) - 日刊スポーツ、2014年9月22日掲載、2016年9月18日閲覧
-11. [小田孔明「逃げ切りの計」／男子ゴルフ](http://www.nikkansports.com/sports/golf/news/p-sp-tp1-20130923-1193815.html) - 日刊スポーツ、2013年9月23日掲載、2016年9月18日閲覧
-12. [藤田ジャンボの呪縛解けた／男子ゴルフ](http://www.nikkansports.com/sports/golf/news/p-sp-tp1-20120917-1018343.html) - 日刊スポーツ、2012年9月17日掲載、2016年9月18日閲覧
-13. [V賞金\!家を買って\!結婚\!／男子ゴルフ](http://www.nikkansports.com/sports/golf/news/f-sp-tp1-20110918-837069.html) - 日刊スポーツ、2011年9月18日掲載、2016年9月18日閲覧
-14. [池田逃げ切って今季2勝目 遼くんは12位タイ](http://www.sponichi.co.jp/sports/news/2010/09/19/kiji/K20100919Z00000240.html) - スポニチアネックス、2010年9月19日掲載、2016年9月19日閲覧
-15. [谷口徹が2年ぶり優勝／ANAオープン](http://www.sponichi.co.jp/sports/news/2009/09/20/kiji/K20090920Z00000510.html) - スポニチアネックス、2009年9月20日掲載、2016年9月19日閲覧
-16. [矢野東3季ぶり優勝「きょうのおれは強い」](http://www.sponichi.co.jp/sports/news/2008/09/21/kiji/K20080921Z00000540.html) - スポニチアネックス、2008年9月21日掲載、2016年9月19日閲覧
-17. 最終18番ホールを22ヤード短縮、全長7,009ヤード、パー72で開催された。
-18. 1990年から、全長7,063ヤードとなり、現在に至る。
-19. [男子ゴルフ「ANAオープン」 北海道地震で中止決定](https://news.golfdigest.co.jp/news/jgto/article/78722/1/) - ゴルフダイジェスト・ オンライン、2018年9月7日閲覧
+5.  [9月の「ANAオープン」中止のお知らせ（6月23日発表）](https://www.jgto.org/pc/OtherTopicsDetail.do?year=2020&tournaKbnCd=0&conferenceCd=000&languageKbn=0&administerNo=810)ANA、JGTO
+6.  [浅地洋佑、史上最多5人のPO制しツアー2勝目](https://www.nikkansports.com/sports/golf/news/201909150000423.html) - 日刊スポーツ、2019年9月15日配信、同日閲覧
+7.  2006年と2007年は、全長7,017ヤード、パー71で開催された。
+8.  [池田勇太PO制す、史上最年少で獲得賞金10億円超](https://www.nikkansports.com/sports/golf/news/201709170000585.html) - 日刊スポーツ、2017年9月17日閲覧
+9.  [ジョーンズ復活V、昨年の難局乗り越え「ハッピー」](http://www.nikkansports.com/sports/golf/news/1711945.html) - 日刊スポーツ、2016年9月18日閲覧
+10. [石川遼 新境地V ショート以外すべてドライバー](http://www.nikkansports.com/sports/golf/news/1541619.html) - 日刊スポーツ、2015年9月21日掲載、2016年9月18日閲覧
+11. [宮本V「夢かなった」CAと記念撮影](http://www.nikkansports.com/sports/golf/news/p-sp-tp1-20140922-1370850.html) - 日刊スポーツ、2014年9月22日掲載、2016年9月18日閲覧
+12. [小田孔明「逃げ切りの計」／男子ゴルフ](http://www.nikkansports.com/sports/golf/news/p-sp-tp1-20130923-1193815.html) - 日刊スポーツ、2013年9月23日掲載、2016年9月18日閲覧
+13. [藤田ジャンボの呪縛解けた／男子ゴルフ](http://www.nikkansports.com/sports/golf/news/p-sp-tp1-20120917-1018343.html) - 日刊スポーツ、2012年9月17日掲載、2016年9月18日閲覧
+14. [V賞金\!家を買って\!結婚\!／男子ゴルフ](http://www.nikkansports.com/sports/golf/news/f-sp-tp1-20110918-837069.html) - 日刊スポーツ、2011年9月18日掲載、2016年9月18日閲覧
+15. [池田逃げ切って今季2勝目 遼くんは12位タイ](http://www.sponichi.co.jp/sports/news/2010/09/19/kiji/K20100919Z00000240.html) - スポニチアネックス、2010年9月19日掲載、2016年9月19日閲覧
+16. [谷口徹が2年ぶり優勝／ANAオープン](http://www.sponichi.co.jp/sports/news/2009/09/20/kiji/K20090920Z00000510.html) - スポニチアネックス、2009年9月20日掲載、2016年9月19日閲覧
+17. [矢野東3季ぶり優勝「きょうのおれは強い」](http://www.sponichi.co.jp/sports/news/2008/09/21/kiji/K20080921Z00000540.html) - スポニチアネックス、2008年9月21日掲載、2016年9月19日閲覧
+18. 最終18番ホールを22ヤード短縮、全長7,009ヤード、パー72で開催された。
+19. 1990年から、全長7,063ヤードとなり、現在に至る。
+20. [男子ゴルフ「ANAオープン」 北海道地震で中止決定](https://news.golfdigest.co.jp/news/jgto/article/78722/1/) - ゴルフダイジェスト・ オンライン、2018年9月7日閲覧

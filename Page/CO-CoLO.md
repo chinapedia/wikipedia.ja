@@ -65,7 +65,8 @@
 ## 外部リンク
 
   - [沢田研二オフィシャル](http://www.co-colo.com/)
-  - [チト河内オフィシャルサイト](http://chito.blog14.fc2.com/)
-  - [石間秀機HP](http://www10.ocn.ne.jp/~sitarla/)
 
+  - [チト河内オフィシャルサイト](http://chito.blog14.fc2.com/)
+
+  -
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:沢田研二](https://ja.wikipedia.org/wiki/Category:沢田研二 "wikilink")

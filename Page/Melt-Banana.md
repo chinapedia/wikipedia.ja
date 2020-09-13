@@ -42,7 +42,7 @@
   - [フェイスブック](http://www.facebook.com/pages/Melt-Banana/192954987398661)
   - [ツイッター](http://twitter.com/melt_banana)
 
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:ノイズロック・バンド](https://ja.wikipedia.org/wiki/Category:ノイズロック・バンド "wikilink") [Category:日本のエクスペリメンタル・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のエクスペリメンタル・ロック・バンド "wikilink")
+[Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:ノイズロック・バンド](https://ja.wikipedia.org/wiki/Category:ノイズロック・バンド "wikilink") [Category:日本のエクスペリメンタル・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のエクスペリメンタル・ロック・バンド "wikilink") [Category:1993年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1993年に結成した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")
 
 1.  [Melt Banana | Biography | AllMusic](http://www.allmusic.com/artist/melt-banana-mn0000412047/biography) - Artist Biography by Ben Tausig - 2014年3月9日閲覧
 2.

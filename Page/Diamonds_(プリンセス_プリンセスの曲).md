@@ -47,7 +47,7 @@
 
 1.  **Diamonds (ダイアモンド)**
 2.  **M**
-3.  **世界でいちばん熱い夏 ('92 mix)**
+3.  **[世界でいちばん熱い夏](../Page/世界でいちばん熱い夏.md "wikilink") ('92 mix)**
       -
         作詞：富田京子
 
@@ -62,7 +62,9 @@
   - [森三中](../Page/森三中.md "wikilink") - [2011年](../Page/2011年.md "wikilink")、[toto BIGのCM](../Page/スポーツ振興くじ.md "wikilink")（奥居（[黒沢かずこ](../Page/黒沢かずこ.md "wikilink")）、中山（[村上知子](https://ja.wikipedia.org/wiki/村上知子 "wikilink")）、渡辺（[大島美幸](https://ja.wikipedia.org/wiki/大島美幸 "wikilink")））
   - [中川翔子](../Page/中川翔子.md "wikilink") - 2011年、CD『[しょこたん☆かばー4 〜しょこ☆ロック篇〜](https://ja.wikipedia.org/wiki/しょこたん☆かばー4 "wikilink")-2』
   - 秋月律子（[若林直美](../Page/若林直美.md "wikilink")） - 2015年、CD『[THE IDOLM@STER MASTER ARTIST 3 13 秋月律子](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_MASTER_ARTIST_3#13_秋月律子 "wikilink")』
-  - [ClariS](https://ja.wikipedia.org/wiki/ClariS "wikilink") - 2019年、CD『SUMMER TRACKS －夏のうた－』
+  - [ノーランズ](../Page/ノーランズ.md "wikilink") - [2017年](../Page/2017年.md "wikilink")、CD『SINGS J-POP』英語でカヴァー。
+  - 青野美沙稀 - 2017年、7インチ盤
+  - [ClariS](https://ja.wikipedia.org/wiki/ClariS "wikilink") - 2019年、CD『[SUMMER TRACKS -夏のうた-](../Page/SUMMER_TRACKS_-夏のうた-.md "wikilink")』
   - Risky Melody - 2019年、CD『Diamonds Type A～C』
 
 ### M
@@ -89,6 +91,7 @@
   - [Ms.OOJA](https://ja.wikipedia.org/wiki/Ms.OOJA "wikilink") - 2014年、CD「[WOMAN 2 〜Love Song Covers〜](https://ja.wikipedia.org/wiki/WOMAN_2_〜Love_Song_Covers〜 "wikilink")」
   - [徳永英明](../Page/徳永英明.md "wikilink") - 2016年、CD 「All Time Best Vocalist」
   - [Acid Black Cherry](../Page/Acid_Black_Cherry.md "wikilink") - 2017年、CD「[Recreation 4](https://ja.wikipedia.org/wiki/Recreation_4 "wikilink")」
+  - [ハラミちゃん](../Page/ハラミちゃん.md "wikilink") - 2020年、CD「ハラミ定食 \~Streetpiano Collection\~」\[10\]
 
 ## 関連項目
 
@@ -113,3 +116,4 @@
 7.
 8.  <http://www.riaj.or.jp/data/others/chart/w141219.html>
 9.
+10.

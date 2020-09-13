@@ -374,7 +374,7 @@
 3.  [ほころび](https://ja.wikipedia.org/wiki/箒星_\(曲\)#収録曲 "wikilink")
 4.  [Sign](../Page/Sign_\(Mr.Childrenの曲\).md "wikilink")
 5.  [終わりなき旅](../Page/終わりなき旅.md "wikilink")
-6.  [Worlds end](https://ja.wikipedia.org/wiki/I_LOVE_U#収録曲 "wikilink")
+6.  [Worlds end](https://ja.wikipedia.org/wiki/I_♥_U#収録曲 "wikilink")
 7.  [箒星](../Page/箒星_\(曲\).md "wikilink")
 
 <!-- end list -->
@@ -444,4 +444,4 @@
 
   - [THE 夢人島 Fes.2006 WOW\!\! 紅白\! エンタの フレンドパーク Hey Hey ステーション …に泊まろう\!](https://www.amuse.co.jp/stages/mujintou-fes/) - 公式ウェブサイト
 
-[Category:2006年8月](https://ja.wikipedia.org/wiki/Category:2006年8月 "wikilink") [Category:2006年の日本の音楽](https://ja.wikipedia.org/wiki/Category:2006年の日本の音楽 "wikilink") [Category:GLAY](https://ja.wikipedia.org/wiki/Category:GLAY "wikilink") [Category:Mr.Children](https://ja.wikipedia.org/wiki/Category:Mr.Children "wikilink") [Category:WOWOWのテレビ番組](https://ja.wikipedia.org/wiki/Category:WOWOWのテレビ番組 "wikilink") [Category:アミューズ](https://ja.wikipedia.org/wiki/Category:アミューズ "wikilink") [Category:サザンオールスターズのコンサート・ツアー](https://ja.wikipedia.org/wiki/Category:サザンオールスターズのコンサート・ツアー "wikilink") [Category:日本のロックフェスティバル](https://ja.wikipedia.org/wiki/Category:日本のロックフェスティバル "wikilink") [Category:浜松市西区の歴史](https://ja.wikipedia.org/wiki/Category:浜松市西区の歴史 "wikilink") [Category:浜松市の音楽](https://ja.wikipedia.org/wiki/Category:浜松市の音楽 "wikilink") [Category:福山雅治](https://ja.wikipedia.org/wiki/Category:福山雅治 "wikilink") [Category:ポルノグラフィティ](https://ja.wikipedia.org/wiki/Category:ポルノグラフィティ "wikilink")
+[Category:アミューズ](https://ja.wikipedia.org/wiki/Category:アミューズ "wikilink") [Category:GLAY](https://ja.wikipedia.org/wiki/Category:GLAY "wikilink") [Category:Mr.Children](https://ja.wikipedia.org/wiki/Category:Mr.Children "wikilink") [Category:福山雅治](https://ja.wikipedia.org/wiki/Category:福山雅治 "wikilink") [Category:ポルノグラフィティ](https://ja.wikipedia.org/wiki/Category:ポルノグラフィティ "wikilink") [Category:サザンオールスターズのコンサート・ツアー](https://ja.wikipedia.org/wiki/Category:サザンオールスターズのコンサート・ツアー "wikilink") [Category:2006年8月](https://ja.wikipedia.org/wiki/Category:2006年8月 "wikilink") [Category:2006年の日本の音楽](https://ja.wikipedia.org/wiki/Category:2006年の日本の音楽 "wikilink") [Category:WOWOWのテレビ番組](https://ja.wikipedia.org/wiki/Category:WOWOWのテレビ番組 "wikilink") [Category:日本のロックフェスティバル](https://ja.wikipedia.org/wiki/Category:日本のロックフェスティバル "wikilink") [Category:浜松市西区の歴史](https://ja.wikipedia.org/wiki/Category:浜松市西区の歴史 "wikilink") [Category:浜松市の音楽](https://ja.wikipedia.org/wiki/Category:浜松市の音楽 "wikilink")

@@ -13,7 +13,7 @@
 
 ### 初代 A40/50型（1978年-1981年）
 
-[1977年](../Page/1977年.md "wikilink")の[東京モーターショー](../Page/東京モーターショー.md "wikilink")に既存のA40型セリカ（4気筒モデル）の[ノッチバック](../Page/ノッチバック.md "wikilink")[クーペ](../Page/クーペ.md "wikilink")モデルをベースに2シーター・ロングノーズ化し、[M型](../Page/トヨタ・M型エンジン.md "wikilink")6気筒エンジンを搭載したコンセプトカーの「**トヨタ・CAL-1**」\[1\]として参考出品。セリカの上級車種として翌[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")登場。CAL-1同様、A40型セリカ（4気筒モデル）の[リフトバックモデルをベースにフロントノーズを延長し](https://ja.wikipedia.org/wiki/ファーストバック "wikilink")、M型6気筒エンジンを搭載。ラグジュアリーな雰囲気を持った高級[スペシャルティカー](../Page/スペシャルティカー.md "wikilink")という設定で、4灯角型ヘッドランプやカラードウレタンバンパー、ガラス調のリアガーニッシュやBピラーフィニッシャー、[七宝調エンブレムを装備し](https://ja.wikipedia.org/wiki/七宝焼き "wikilink")、後の初代[ソアラやマークII](../Page/トヨタ・ソアラ.md "wikilink")3兄弟（[マークII](../Page/トヨタ・マークII.md "wikilink")/[チェイサー](../Page/トヨタ・チェイサー.md "wikilink")/[クレスタ](../Page/トヨタ・クレスタ.md "wikilink")）などに代表されるトヨタ[ハイソカー](../Page/ハイソカー.md "wikilink")ブームへ続く[バーガンディーの内装など](../Page/えんじ色.md "wikilink")、装飾による高級感の演出の元祖であり、その3年後に登場する初代ソアラの源流にもなった車種である。エンジンは[直列6気筒](../Page/直列6気筒.md "wikilink") 2.0L [SOHC](../Page/SOHC.md "wikilink") (M-EU) と2.6L SOHC (4M-EU) が搭載された。フロントグリルの造型に **T**oyota の**T**をあしらい、同じモチーフを用いた同社最高級スポーツカー[2000GTを彷彿させた](../Page/トヨタ・2000GT.md "wikilink")。日本国内のCMキャラクターには[リック・ジェイソン](https://ja.wikipedia.org/wiki/リック・ジェイソン "wikilink")が起用された。
+[1977年](../Page/1977年.md "wikilink")の[東京モーターショー](../Page/東京モーターショー.md "wikilink")に既存のA40型セリカ（4気筒モデル）の[ノッチバック](../Page/ノッチバック.md "wikilink")[クーペ](../Page/クーペ.md "wikilink")モデルをベースに2シーター・ロングノーズ化し、[M型](../Page/トヨタ・M型エンジン.md "wikilink")6気筒エンジンを搭載したコンセプトカーの「**トヨタ・CAL-1**」\[1\]として参考出品。セリカの上級車種として翌[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")登場。CAL-1同様、A40型セリカ（4気筒モデル）の[リフトバックモデルをベースにフロントノーズを延長し](https://ja.wikipedia.org/wiki/ファーストバック "wikilink")、M型6気筒エンジンを搭載。ラグジュアリーな雰囲気を持った高級[スペシャルティカー](../Page/スペシャルティカー.md "wikilink")という設定で、4灯角型ヘッドランプやカラードウレタンバンパー、ガラス調のリアガーニッシュやBピラーフィニッシャー、[七宝調エンブレムを装備し](https://ja.wikipedia.org/wiki/七宝焼き "wikilink")、後の初代[ソアラやマークII](../Page/トヨタ・ソアラ.md "wikilink")3兄弟（[マークII](../Page/トヨタ・マークII.md "wikilink")/[チェイサー](../Page/トヨタ・チェイサー.md "wikilink")/[クレスタ](../Page/トヨタ・クレスタ.md "wikilink")）などに代表されるトヨタ[ハイソカー](../Page/ハイソカー.md "wikilink")ブームへ続く[バーガンディーの内装など](../Page/えんじ色.md "wikilink")、装飾による高級感の演出の元祖であり、その3年後に登場する初代ソアラの源流にもなった車種である。エンジンは[直列6気筒](../Page/直列6気筒.md "wikilink") 2.0L [SOHC](../Page/SOHC.md "wikilink") ([M-EU](https://ja.wikipedia.org/wiki/トヨタ・M型エンジン#M-EU "wikilink")) と2.6L SOHC ([4M-EU](https://ja.wikipedia.org/wiki/トヨタ・M型エンジン#4M-EU "wikilink")) が搭載された。フロントグリルの造型に **T**oyota の**T**をあしらい、同じモチーフを用いた同社最高級スポーツカー[2000GTを彷彿させた](../Page/トヨタ・2000GT.md "wikilink")。日本国内のCMキャラクターには[リック・ジェイソン](https://ja.wikipedia.org/wiki/リック・ジェイソン "wikilink")が起用された。
 
   - 前期 A40型
     グレードは2.0L車 (MA45) が下位から L、S、G の3種、2.6L車 (MA46) が下位から S、G の2種が用意された。
@@ -24,9 +24,9 @@
 <!-- end list -->
 
   - 後期 A50型
-    1980年8月にマイナーチェンジ。このマイナーチェンジ車はわずか7ヶ月しか販売されていない。
+    1980年8月にマイナーチェンジ。このマイナーチェンジ車は11ヶ月程度しか販売されていない。
     リアサスペンションが[4リンク](../Page/リンク式サスペンション.md "wikilink")/[コイルスプリングの](../Page/ばね.md "wikilink")[リジッドアクスル](https://ja.wikipedia.org/wiki/リジッドアクスル "wikilink")式から[セミトレーリングアーム](https://ja.wikipedia.org/wiki/独立懸架#スイングアーム "wikilink")/コイルスプリングの[独立懸架](../Page/独立懸架.md "wikilink")式に変更された。
-    3ナンバー車は 4M-EU に代わり 5M-EU 2.8Lエンジンが搭載された。
+    3ナンバー車は 4M-EU に代わり [5M-EU](https://ja.wikipedia.org/wiki/トヨタ・M型エンジン#5M-EU "wikilink") 2.8L SOHCエンジンが搭載された。
     センターコンソールを形状変更し、日本製乗用車において普及しつつあった[DIN規格のオーディオスペースが](https://ja.wikipedia.org/wiki/ISO_7736 "wikilink")、2段新設された。
 
 <!-- end list -->

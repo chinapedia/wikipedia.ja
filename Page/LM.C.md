@@ -28,7 +28,7 @@ PIERROTのギタリストだった[Aiji](../Page/Aiji.md "wikilink")と、Sinner
 
 凶悪にしてワイルドなロックバンド「THE MAD LM.C」として活動する事もある。その際は、個人名もMAD AIJI（ギター＆ヴォーカル）、MAD MAYA（ベーシスト）と変化している\[1\]。 「THE MAD LM.C」としての楽曲はシングル [LET ME' CRAZY](https://ja.wikipedia.org/wiki/LET_ME'_CRAZY!! "wikilink")、[星の在処。-ホシノアリカ-のカップリングで聴くことができる](https://ja.wikipedia.org/wiki/星の在処。_-ホシノアリカ- "wikilink")。
 
-なお、2014年10月16日/[目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink")、10月31日/[浦和ナルシス](https://ja.wikipedia.org/wiki/浦和ナルシス "wikilink") にてLM.Cオフィシャルファンクラブ「Team☆LM.C」限定でMAD MAYAとしてのライブが行われた。THE MAD LM.Cとは異なり、MAD MAYAがヴォーカル＆ギターを担当した。
+なお、2014年10月16日/[目黒鹿鳴館](../Page/目黒鹿鳴館.md "wikilink")、10月31日/[浦和ナルシス](https://ja.wikipedia.org/wiki/浦和ナルシス "wikilink") にてLM.Cオフィシャルファンクラブ「Team☆LM.C」限定でMAD MAYAとしてのライブが行われた。THE MAD LM.Cとは異なり、MAD MAYAがヴォーカル＆ギターを担当した。
 
 ## 略歴
 
@@ -509,7 +509,7 @@ VBZJ-34 (通常盤)</p></td>
 
   -
   -
-[Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:ミクスチャー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ミクスチャー・ロック・バンド "wikilink") [Category:ポップ・パンク・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・パンク・バンド "wikilink") [Category:パワー・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:パワー・ポップ・バンド "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:ポニーキャニオンアーティスツ所属者](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンアーティスツ所属者 "wikilink")
+[Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:ミクスチャー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ミクスチャー・ロック・バンド "wikilink") [Category:日本のポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のポップ・ロック・バンド "wikilink") [Category:ポップ・パンク・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・パンク・バンド "wikilink") [Category:パワー・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:パワー・ポップ・バンド "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:ポニーキャニオンアーティスツ所属者](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンアーティスツ所属者 "wikilink")
 
 1.  [LM.C、存分な遊び心とホスピタリティ | LM.C](http://www.barks.jp/news/?id=1000065860) - [BARKS](https://ja.wikipedia.org/wiki/BARKS "wikilink")音楽ニュース
 2.  これがPIERROT解散までの事実上のラストライブとなった。

@@ -7,7 +7,7 @@
 
 防府市に本社のある[大村印刷](../Page/大村印刷.md "wikilink")（[高松市](https://ja.wikipedia.org/wiki/高松市 "wikilink")に本社のある[小松印刷](https://ja.wikipedia.org/wiki/小松印刷 "wikilink")の子会社）が筆頭株主で、2004年12月12日開局。
 
-送信周波数76.7MHz 出力17W 送信所は防府市[向島の](https://ja.wikipedia.org/wiki/向島_（山口県） "wikilink")[錦山中腹に設置](https://ja.wikipedia.org/wiki/錦山_（山口県） "wikilink")。演奏所はぷらざFMの本社と同じデザインプラザにスタジオを設置した。 開局当初は全てが自社制作番組であった。
+送信周波数76.7MHz 出力17W 送信所は防府市[向島の](../Page/向島_\(山口県\).md "wikilink")[錦山中腹に設置](https://ja.wikipedia.org/wiki/錦山_\(山口県\) "wikilink")。演奏所はぷらざFMの本社と同じデザインプラザにスタジオを設置した。 開局当初は全てが自社制作番組であった。
 
 2009年1月より放送時間の一部に[J-WAVE](../Page/J-WAVE.md "wikilink")の再送信を開始。
 
@@ -112,9 +112,9 @@
 開局当時は、76.7MHzというこの周波数しか空きがなく、しかも同じ周波数を、海を挟んで対岸にある先発局の福岡県築上郡築上町の[スターコーンFMが使用していた](https://ja.wikipedia.org/wiki/東九州コミュニティ放送 "wikilink")。
 
 開局時に[スターコーンFMへの干渉影響が考慮され](https://ja.wikipedia.org/wiki/東九州コミュニティ放送 "wikilink")、出力制限（17w）や送信に指向性をつけるという制限（錦山の中腹の標高が低いところで山を背後にすることで、九州方面へ電波が伝播しないように配慮をしていた）をがあったが、この防府地域にコミュニティーFMは必要との開業メンバーの熱い思いで、不利な状況を承知で、何とか開局にこぎ着けた\[2\]。
-しかし、当初の懸念通り、[スターコーンFMが](https://ja.wikipedia.org/wiki/東九州コミュニティ放送 "wikilink")、防府市との間に、障害物がなく、海上伝播があり、また、前述の通り、標高の低いところでの送信ということもあり、海沿いや[佐波川](../Page/佐波川.md "wikilink")周辺地域（富海、中浦、西浦、小野の一部）、では、混信をおこしたり、電波が弱く聞こえない地域が多くなり、また離島の野島は、送信所の反対側になり送信範囲外となってしまった。\[3\]。
+しかし、当初の懸念通り、[スターコーンFMが](https://ja.wikipedia.org/wiki/東九州コミュニティ放送 "wikilink")、防府市との間に、障害物がなく、海上伝播があり、また、前述の通り、標高の低いところでの送信ということもあり、海沿いや[佐波川](../Page/佐波川.md "wikilink")周辺地域（富海、中浦、西浦、小野の一部）、では、混信をおこしたり、電波が弱く聞こえない地域が多くなり、また離島の野島は、送信所の反対側になり送信範囲外となってしまった\[3\]。
 
-防府市との防災協定や[防災ラジオの運用をするようになると](https://ja.wikipedia.org/wiki/緊急告知FMラジオ "wikilink")、防府市全域で聞こえる必要があり、以前より中継所の増設なども検討されたが、総務省と協議を重ね[FMななみの閉局により空いていた](../Page/五日市コミュニティ放送.md "wikilink")、77.3MHzが使用可能となった。 それと同時に、送信エリアを拡張するため、送信所を防府市の[向島の錦山山頂](https://ja.wikipedia.org/wiki/向島_（山口県） "wikilink")（356m）に移設可能となり、出力制限も必要なくなったため、出力を20Wへ増強した\[4\]。
+防府市との防災協定や[防災ラジオの運用をするようになると](https://ja.wikipedia.org/wiki/緊急告知FMラジオ "wikilink")、防府市全域で聞こえる必要があり、以前より中継所の増設なども検討されたが、総務省と協議を重ね[FMななみの閉局により空いていた](../Page/五日市コミュニティ放送.md "wikilink")、77.3MHzが使用可能となった。 それと同時に、送信エリアを拡張するため、送信所を防府市の[向島の錦山山頂](../Page/向島_\(山口県\).md "wikilink")（356m）に移設可能となり、出力制限も必要なくなったため、出力を20Wへ増強した\[4\]。
 
 2015年4月1日から5月31日77.3MHzで、試験放送を行なった（コールサイン・周波数・送信場所・出力告知＋BGMのループ再生） （この間、防府市では、すでに配布済みの[防災ラジオを新周波数対応のものに変更した](https://ja.wikipedia.org/wiki/緊急告知FMラジオ "wikilink")）。
 
@@ -233,7 +233,7 @@
   - ほうしん Presents Driving Around
   - ティータイムメモリーズ
   - なつメロぜみな〜る
-  - プレイバック80\`S
+  - プレイバック80'S
   - いきいきライフワーク
   - 八本木ヒルズ BF1
   - LUNCH DAYO ランチ
@@ -335,9 +335,7 @@
 ## 外部リンク
 
   -
-[Category:山口県のマスメディア](https://ja.wikipedia.org/wiki/Category:山口県のマスメディア "wikilink")
-
-[Category:中国・四国地方のコミュニティ放送局](https://ja.wikipedia.org/wiki/Category:中国・四国地方のコミュニティ放送局 "wikilink") [Category:防府市の企業](https://ja.wikipedia.org/wiki/Category:防府市の企業 "wikilink") [Category:2004年設立の企業](https://ja.wikipedia.org/wiki/Category:2004年設立の企業 "wikilink")
+[Category:中国・四国地方のコミュニティ放送局](https://ja.wikipedia.org/wiki/Category:中国・四国地方のコミュニティ放送局 "wikilink") [Category:山口県のマスメディア](https://ja.wikipedia.org/wiki/Category:山口県のマスメディア "wikilink") [Category:防府市の企業](https://ja.wikipedia.org/wiki/Category:防府市の企業 "wikilink") [Category:2004年設立の企業](https://ja.wikipedia.org/wiki/Category:2004年設立の企業 "wikilink")
 
 1.  clubわっしょいマガジンVol.4に記載
 2.  開局時、当時ぷらざFM社長大村俊雄氏から12月12日の開局特別番組での説明があった

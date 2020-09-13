@@ -17,7 +17,7 @@
 
 1.  **LOVE 2000** (4:25)
     （作詞：hitomi、作曲：[鎌田雅人](../Page/鎌田雅人.md "wikilink")）
-      - 日本テレビ系『[劇空間プロ野球2000](../Page/Fun!BASEBALL!!.md "wikilink")』6・7月度、日本シリーズ第2戦イメージソング
+      - 日本テレビ系『[劇空間プロ野球2000](../Page/Fun!BASEBALL!!.md "wikilink")』6・7月度、日本シリーズ第2戦と巨人日本一祝勝会のイメージソング
 2.  **REGRET** (4:29)
     （作詞：hitomi、作曲：渡辺善太郎）
 3.  **[アイドルを探せ](https://ja.wikipedia.org/wiki/アイドルを探せ_\(シルヴィ・ヴァルタンの曲\) "wikilink")** (3:15)

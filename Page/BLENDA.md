@@ -1,7 +1,7 @@
 > この記事は[BLENDA](https://ja.wikipedia.org/wiki/BLENDA)から翻訳されています。
 
 
-『**BLENDA**』（ブレンダ）は、[角川春樹事務所](../Page/角川春樹事務所.md "wikilink")が発売していた女性向け[ファッション](../Page/ファッション.md "wikilink")[雑誌](../Page/雑誌.md "wikilink")。
+『**BLENDA**』（ブレンダ）は、[角川春樹事務所](../Page/角川春樹事務所.md "wikilink")が発売していた女性向け[ファッション](../Page/ファッション.md "wikilink")[雑誌](../Page/雑誌.md "wikilink")。[2020年](../Page/2020年.md "wikilink")、『**BLENDA Japan**』として名前を改め創刊\[1\] \[2\]
 
 ## 来歴
 
@@ -9,9 +9,22 @@
 
 2006年4月より音楽とファッションの融合プロジェクト｢Def Deeper｣を立ち上げ、アーティストライブとファッションショーからなるイベント「BLENDA PREMIUM Def Deeper'06」や[Inter FMでのレギュラー番組](https://ja.wikipedia.org/wiki/エフエムインターウェーブ "wikilink")「BLENDA RADIO Def Deeper」、海の家「BLENDA BEACH Def Deeper」など、効果的な[メディアミックス](../Page/メディアミックス.md "wikilink")を手がける。
 
-2014年8月7日発売の9月号をもって休刊\[1\]。
+2014年8月7日発売の9月号をもって休刊\[3\]。
 
-## 在籍モデル
+[2020年](../Page/2020年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")、BLENDA Japanに名前を改め[角川春樹事務所](../Page/角川春樹事務所.md "wikilink")より発刊\[4\]
+
+## 専属モデル
+
+### 現行
+
+  - KAREN
+  - 松本優
+  - [金谷鞠杏](https://ja.wikipedia.org/wiki/金谷鞠杏 "wikilink")
+  - 三橋観月
+  - HANJJI
+  - アダムス亜里咲
+
+### BLENDA時代
 
 休刊時点での在籍モデル。
 
@@ -43,6 +56,10 @@
 
   - [BLENDA公式ホームページ](http://www.blenda.jp/)
 
+  -
 [Category:日本のファッション雑誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:日本のファッション雑誌_\(休廃刊\) "wikilink") [Category:女性向けファッション雑誌](https://ja.wikipedia.org/wiki/Category:女性向けファッション雑誌 "wikilink") [Category:2003年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:2003年創刊の雑誌 "wikilink") [Category:2014年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2014年休廃刊の雑誌 "wikilink") [Category:角川春樹事務所](https://ja.wikipedia.org/wiki/Category:角川春樹事務所 "wikilink")
 
-1.  [月刊化11年 雑誌「ブレンダ」が8月発売号で休刊へ](http://www.fashionsnap.com/news/2014-07-02/brenda/) [Fashionsnap.com](https://ja.wikipedia.org/wiki/Fashionsnap.com "wikilink") 2014年7月2日
+1.
+2.
+3.  [月刊化11年 雑誌「ブレンダ」が8月発売号で休刊へ](http://www.shionsnap.com/news/2014-07-02/brenda/) [Fashionsnap.com](https://ja.wikipedia.org/wiki/Fashionsnap.com "wikilink") 2014年7月2日
+4.

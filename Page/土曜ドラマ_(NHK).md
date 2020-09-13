@@ -225,7 +225,7 @@
 
   - 1982年
 
-:\* [けものみち](../Page/けものみち.md "wikilink")
+:\* [けものみち](https://ja.wikipedia.org/wiki/けものみち_\(松本清張\) "wikilink")
 
   -
 
@@ -589,7 +589,7 @@
 
 :\* [使命と魂のリミット](https://ja.wikipedia.org/wiki/使命と魂のリミット "wikilink")（11月5日 - 12日、全2回、原作：[東野圭吾](https://ja.wikipedia.org/wiki/東野圭吾 "wikilink")、主演：[石原さとみ](../Page/石原さとみ.md "wikilink")）\[16\]
 
-:\* [蝶々さん〜最後の武士の娘〜](https://ja.wikipedia.org/wiki/蝶々さん_\(小説\)#テレビドラマ "wikilink")（11月19日 - 26日、全2回、原作：[市川森一](../Page/市川森一.md "wikilink")、主演：[宮﨑あおい](https://ja.wikipedia.org/wiki/宮崎あおい "wikilink") 製作：NHKエンタープライズ）\[17\]
+:\* [蝶々さん〜最後の武士の娘〜](https://ja.wikipedia.org/wiki/蝶々さん_\(小説\)#テレビドラマ "wikilink")（11月19日 - 26日、全2回、原作：[市川森一](../Page/市川森一.md "wikilink")、主演：[宮﨑あおい](https://ja.wikipedia.org/wiki/宮﨑あおい "wikilink") 製作：NHKエンタープライズ）\[17\]
 
 :\* [真珠湾からの帰還 〜軍神と捕虜第一号〜](https://ja.wikipedia.org/wiki/真珠湾からの帰還_〜軍神と捕虜第一号〜 "wikilink")（12月10日、主演：[青木崇高](../Page/青木崇高.md "wikilink") 製作：NHK名古屋）
 
@@ -633,11 +633,11 @@
 
 :\* [七つの会議](https://ja.wikipedia.org/wiki/七つの会議 "wikilink")（7月13日 - 8月3日、全4回、原作：池井戸潤、主演：[東山紀之](https://ja.wikipedia.org/wiki/東山紀之 "wikilink")）\[24\]
 
-:\* [夫婦善哉](https://ja.wikipedia.org/wiki/夫婦善哉_\(2013年のテレビドラマ\) "wikilink")（8月24日 - 9月14日、全4回、原作：[織田作之助](../Page/織田作之助.md "wikilink")、主演：[森山未來](../Page/森山未來.md "wikilink")・[尾野真千子](https://ja.wikipedia.org/wiki/尾野真千子 "wikilink") 製作：NHK大阪、製作協力：東映太秦映画村）NHK大阪放送局放送開始60周年記念ドラマ\[25\]
+:\* [夫婦善哉](https://ja.wikipedia.org/wiki/夫婦善哉_\(2013年のテレビドラマ\) "wikilink")（8月24日 - 9月14日、全4回、原作：[織田作之助](../Page/織田作之助.md "wikilink")、主演：[森山未來](../Page/森山未來.md "wikilink")・[尾野真千子](https://ja.wikipedia.org/wiki/尾野真千子 "wikilink")、製作：NHK大阪、製作協力：東映太秦映画村）NHK大阪放送局放送開始60周年記念ドラマ\[25\]
 
 :\* [実験刑事トトリ](https://ja.wikipedia.org/wiki/実験刑事トトリ "wikilink")2（10月12日 - 11月16日、全6回、主演：三上博史）\[26\]
 
-:\* [太陽の罠](https://ja.wikipedia.org/wiki/太陽の罠 "wikilink")（11月30日 - 12月21日、全4回、主演：[西島隆弘](../Page/西島隆弘.md "wikilink") 制作：NHK名古屋）\[27\]
+:\* [太陽の罠](https://ja.wikipedia.org/wiki/太陽の罠 "wikilink")（11月30日 - 12月21日、全4回、主演：[西島隆弘](../Page/西島隆弘.md "wikilink")、制作：NHK名古屋）\[27\]
 
   -
 
@@ -645,7 +645,7 @@
 
 :\* [足尾から来た女](https://ja.wikipedia.org/wiki/足尾から来た女 "wikilink")（1月18日 - 1月25日、全2回、主演：尾野真千子）\[28\]
 
-:\* [ロング・グッドバイ](https://ja.wikipedia.org/wiki/長いお別れ#テレビドラマ "wikilink")（4月19日 - 5月17日、全5回、原作：[レイモンド・チャンドラー](../Page/レイモンド・チャンドラー.md "wikilink")、主演：[浅野忠信](../Page/浅野忠信.md "wikilink") 製作：NHKエンタープライズ）\[29\]
+:\* [ロング・グッドバイ](https://ja.wikipedia.org/wiki/長いお別れ#テレビドラマ "wikilink")（4月19日 - 5月17日、全5回、原作：[レイモンド・チャンドラー](../Page/レイモンド・チャンドラー.md "wikilink")、主演：[浅野忠信](../Page/浅野忠信.md "wikilink")、製作：NHKエンタープライズ）\[29\]
 
 :\* [55歳からのハローライフ](https://ja.wikipedia.org/wiki/55歳からのハローライフ "wikilink")（6月14日 - 7月12日、全5回、原作：[村上龍](../Page/村上龍.md "wikilink")、主演：[リリー・フランキー](../Page/リリー・フランキー.md "wikilink") ほか）※オムニバス\[30\]
 
@@ -673,7 +673,7 @@
 
 :\*[逃げる女](https://ja.wikipedia.org/wiki/逃げる女_\(2016年のテレビドラマ\) "wikilink")（1月9日 - 2月13日、全6回、主演：[水野美紀](https://ja.wikipedia.org/wiki/水野美紀 "wikilink")）\[39\]
 
-:\*[恋の三陸 列車コンで行こう\!](https://ja.wikipedia.org/wiki/恋の三陸_列車コンで行こう! "wikilink")（2月27日-3月12日、全3回 主演：[松下奈緒](https://ja.wikipedia.org/wiki/松下奈緒 "wikilink")）※特集ドラマ扱い
+:\*[恋の三陸 列車コンで行こう\!](https://ja.wikipedia.org/wiki/恋の三陸_列車コンで行こう! "wikilink")（2月27日-3月12日、全3回、主演：[松下奈緒](https://ja.wikipedia.org/wiki/松下奈緒 "wikilink")）※特集ドラマ扱い
 
 :\*[大河ファンタジー・精霊の守り人シーズン1](https://ja.wikipedia.org/wiki/守り人シリーズ#テレビドラマ "wikilink")（3月19日-4月9日 全4回、原作：[上橋菜穂子](../Page/上橋菜穂子.md "wikilink")、主演：[綾瀬はるか](https://ja.wikipedia.org/wiki/綾瀬はるか "wikilink")）※特集ドラマ扱い
 
@@ -741,9 +741,9 @@
 
 :\*[三浦部長、本日付けで女性になります。](https://ja.wikipedia.org/wiki/三浦部長、本日付けで女性になります。 "wikilink")（3月21日、主演：[ムロツヨシ](../Page/ムロツヨシ.md "wikilink")）
 
-:\*[路〜台湾エクスプレス〜](https://ja.wikipedia.org/wiki/路_\(小説\)#テレビドラマ "wikilink")（5月16日 -、全3回、原作：[吉田修一](../Page/吉田修一.md "wikilink")、主演：[波瑠](../Page/波瑠.md "wikilink")）
+:\*[路〜台湾エクスプレス〜](https://ja.wikipedia.org/wiki/路〜台湾エクスプレス〜 "wikilink")（5月16日 - 5月30日、全3回、原作：[吉田修一](../Page/吉田修一.md "wikilink")、主演：[波瑠](../Page/波瑠.md "wikilink")、共同制作：[PTS](https://ja.wikipedia.org/wiki/PTS "wikilink")）日台共同制作ドラマ
 
-:\*[天使にリクエストを〜人生最後の願い〜](../Page/天使にリクエストを〜人生最後の願い〜.md "wikilink")（6月6日 - → 未定\[45\]、全5回、主演：[江口洋介](https://ja.wikipedia.org/wiki/江口洋介 "wikilink")）
+:\*[天使にリクエストを〜人生最後の願い〜](../Page/天使にリクエストを〜人生最後の願い〜.md "wikilink")（9月19日\[45\] - 、全5回、主演：[江口洋介](https://ja.wikipedia.org/wiki/江口洋介 "wikilink")）
 
 ## 脚注
 

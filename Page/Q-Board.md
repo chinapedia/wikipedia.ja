@@ -175,9 +175,9 @@
 
 | 社名                                                              | 現在        | コード  | 本社  | 業種     | 売買開始日                                                                      | 上場廃止日                                                                    | 主幹事証券 | 注釈                                                |
 | --------------------------------------------------------------- | --------- | ---- | --- | ------ | -------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ----- | ------------------------------------------------- |
-| [ジェイエムテクノロジー](../Page/ジェイエムテクノロジー.md "wikilink")                | 上場廃止      | 2423 | 福岡県 | サービス業  | [2004年](../Page/2004年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink") | 2012年[2月20日](../Page/2月20日.md "wikilink")                                | 東洋証券  | <small><sup>Notes 2</sup></small>                 |
-| [ダイヨシトラスト](https://ja.wikipedia.org/wiki/ダイヨシトラスト "wikilink")   | 上場廃止      | 3243 | 福岡県 | 不動産業   | 2007年[7月25日](../Page/7月25日.md "wikilink")                                  | [2013年](../Page/2013年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink") | 東洋証券  | <small><sup>Notes 4</sup></small>                 |
-| [モバイルクリエイト](https://ja.wikipedia.org/wiki/モバイルクリエイト "wikilink") | 市場変更⇒上場廃止 | 3669 | 大分県 | 情報・通信業 | 2012年[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")             | 2018年[6月27日](../Page/6月27日.md "wikilink")                                | 野村證券  | <sup>Notes 5</sup><small>東証重複上場、福証本則市場変更。</small> |
+| [ジェイエムテクノロジー](../Page/ジェイエムテクノロジー.md "wikilink")                | 上場廃止      | 2423 | 福岡県 | サービス業  | [2004年](../Page/2004年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink") | 2012年[2月20日](../Page/2月20日.md "wikilink")                                | 東洋証券  | <small><sup>Notes 5</sup></small>                 |
+| [ダイヨシトラスト](https://ja.wikipedia.org/wiki/ダイヨシトラスト "wikilink")   | 上場廃止      | 3243 | 福岡県 | 不動産業   | 2007年[7月25日](../Page/7月25日.md "wikilink")                                  | [2013年](../Page/2013年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink") | 東洋証券  | <small><sup>Notes 6</sup></small>                 |
+| [モバイルクリエイト](https://ja.wikipedia.org/wiki/モバイルクリエイト "wikilink") | 市場変更⇒上場廃止 | 3669 | 大分県 | 情報・通信業 | 2012年[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")             | 2018年[6月27日](../Page/6月27日.md "wikilink")                                | 野村證券  | <sup>Notes7</sup> <small>東証重複上場、福証本則市場変更。</small> |
 
 ## Notes
 

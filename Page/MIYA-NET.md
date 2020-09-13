@@ -173,7 +173,7 @@ MIYA-NETも難なく新天地に移転した。店内では入り口付近の目
 
 <!-- end list -->
 
-  - ただ一緒に[晩](https://ja.wikipedia.org/wiki/晩 "wikilink")[御飯](https://ja.wikipedia.org/wiki/御飯 "wikilink")を食べるだけの*メシオフ*
+  - ただ一緒に[晩](../Page/晩.md "wikilink")[御飯](https://ja.wikipedia.org/wiki/御飯 "wikilink")を食べるだけの*メシオフ*
 
 <!-- end list -->
 

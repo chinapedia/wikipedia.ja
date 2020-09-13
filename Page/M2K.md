@@ -44,7 +44,7 @@
 
   - [望月成晃](../Page/望月成晃.md "wikilink")
   - [K-ness.](../Page/K-ness..md "wikilink")
-  - [横須賀享](../Page/横須賀享.md "wikilink")（3代目リーダー）
+  - [横須賀享](../Page/横須賀享.md "wikilink")（2代目リーダー）
   - [新井健一郎](../Page/新井健一郎.md "wikilink")
   - [セカンド土井](../Page/土井成樹.md "wikilink")
   - [小野寺大和](../Page/YAMATO_\(プロレスラー\).md "wikilink")

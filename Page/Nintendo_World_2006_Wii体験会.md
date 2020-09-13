@@ -103,7 +103,7 @@
   - [ドラゴンクエストモンスターズ ジョーカー](../Page/ドラゴンクエストモンスターズ_ジョーカー.md "wikilink")　（スクウェア・エニックス）
   - [ご当地検定DS](../Page/ご当地検定DS.md "wikilink")　（[スパイク](../Page/スパイク_\(ゲーム会社\).md "wikilink")）
   - [BLEACH DS 2nd 黒衣ひらめく鎮魂歌](https://ja.wikipedia.org/wiki/BLEACH_DS "wikilink")　（セガ）
-  - [オシャレ魔女 ラブ and ベリー 〜DSコレクション〜](../Page/オシャレ魔女_ラブandベリー.md "wikilink")　（セガ）
+  - [オシャレ魔女 ラブ and ベリー 〜DSコレクション〜](https://ja.wikipedia.org/wiki/オシャレ魔女♥ラブandベリー "wikilink")　（セガ）
   - [三国志大戦DS](https://ja.wikipedia.org/wiki/三国志大戦#三国志大戦DS "wikilink")　（セガ）
   - [不思議のダンジョン 風来のシレンDS](https://ja.wikipedia.org/wiki/風来のシレン#風来のシレンDS "wikilink")　（セガ）
   - [NARUTO -ナルト- 忍列伝](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-#DS "wikilink")　（[タカラトミー](../Page/タカラトミー.md "wikilink")）
@@ -115,7 +115,6 @@
 ## 関連項目
 
   - [任天堂スペースワールド](../Page/任天堂スペースワールド.md "wikilink")
-  - [ニンテンドーワールド Touch\! DS](https://ja.wikipedia.org/wiki/ニンテンドーワールド_Touch!_DS "wikilink")
   - [次世代ワールドホビーフェア](../Page/次世代ワールドホビーフェア.md "wikilink")
   - [東京ゲームショウ](../Page/東京ゲームショウ.md "wikilink")
   - [Electronic Entertainment Expo](../Page/Electronic_Entertainment_Expo.md "wikilink")（E3）

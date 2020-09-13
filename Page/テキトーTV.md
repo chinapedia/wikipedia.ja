@@ -86,13 +86,12 @@
 
 ## 外部リンク
 
-  - [テキトーTV I](http://www.tv-asahi.co.jp/dosp2/contents/hansei/050305/index.html)
-  - [テキトーTV II](http://www.tv-asahi.co.jp/dosp2/contents/hansei/050618/index.html)
-  - [テキトーTV III](http://www.tv-asahi.co.jp/dosp2/contents/hansei/051105/index.html)
-  - [テキトーTV IV](http://www.tv-asahi.co.jp/dosp2/contents/hansei/060225/index.html)
-  - [テキトーTV V](http://www.tv-asahi.co.jp/dosp2/contents/hansei/060401/index.html)
-  - [テキトーTV VI](http://www.tv-asahi.co.jp/dosp2/contents/hansei/060729/index.html)
-  - [テキトーTV VII](http://www.tv-asahi.co.jp/dosp2/contents/hansei/061028/index.html)
-  - [テキトーTV VIII](http://www.tv-asahi.co.jp/dosp2/contents/befor/0018/)
-
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
 [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink") [Category:テレビ朝日のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ朝日のバラエティ番組の歴史 "wikilink") [Category:テレビ朝日の深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜番組の歴史 "wikilink") [Category:テレビ朝日の特別番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の特別番組 "wikilink") [Category:有田哲平](https://ja.wikipedia.org/wiki/Category:有田哲平 "wikilink")

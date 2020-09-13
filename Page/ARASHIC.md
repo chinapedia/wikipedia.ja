@@ -5,15 +5,27 @@
 
 ## 解説
 
-前作『[One](../Page/One_\(嵐のアルバム\).md "wikilink")』より約11ヶ月ぶりとなるオリジナルアルバム。
+  - 前作『[One](../Page/One_\(嵐のアルバム\).md "wikilink")』より約11ヶ月ぶりとなるオリジナルアルバム。
 
-初回限定盤と通常盤の2種類で発売。
+<!-- end list -->
 
-初回限定盤には[2005年](../Page/2005年.md "wikilink")7月から8月まで行われた全国ツアー「嵐 LIVE 2005 "One" SUMMER TOUR」のダイジェスト映像を収録したDVDを付属。
+  - 初回限定盤と通常盤の2種類で発売。
 
-通常盤にはボーナストラック「LOVE PARADE」を追加収録。また、初回プレス分のみ32Pブックレットを封入。
+<!-- end list -->
 
-本作初回限定盤DVD収録の「**Yes? No?**」は、後に5thベストアルバム「[5×20 All the BEST\!\! 1999-2019](https://ja.wikipedia.org/wiki/5×20_All_the_BEST!!_1999-2019 "wikilink")」初回限定盤2特典DVD「ARASHI LIVE CLIPS」にも収録された。
+  - 初回限定盤には[2005年](../Page/2005年.md "wikilink")7月から8月まで行われた全国ツアー「嵐 LIVE 2005 "One" SUMMER TOUR」のダイジェスト映像を収録したDVDを付属。
+
+<!-- end list -->
+
+  - 通常盤にはボーナストラック「**LOVE PARADE**」を追加収録。また、初回プレス分のみ32Pブックレットを封入。
+
+<!-- end list -->
+
+  - 本作初回限定盤DVD収録の「**Yes? No?**」は、後に5thベストアルバム「[5×20 All the BEST\!\! 1999-2019](https://ja.wikipedia.org/wiki/5×20_All_the_BEST!!_1999-2019 "wikilink")」初回限定盤2特典DVD「ARASHI LIVE CLIPS」にも収録された。
+
+<!-- end list -->
+
+  - 2020年2月7日より、通常盤収録曲のデジタル配信、及びサブスクリプション配信が解禁された。
 
 ## チャート成績
 
@@ -139,7 +151,7 @@
 | ライブ映像                                                                                                                                                                           | 『[ARASHI AROUND ASIA Thailand-Taiwan-Korea](https://ja.wikipedia.org/wiki/ARASHI_AROUND_ASIA_Thailand-Taiwan-Korea "wikilink")』        |
 | **きっと大丈夫**                                                                                                                                                                      | CDシングル                                                                                                                                 |
 | ビデオ・クリップ                                                                                                                                                                        | 『きっと大丈夫』〈初回限定盤〉                                                                                                                        |
-| CDアルバム                                                                                                                                                                          | 『[ARASHIC](../Page/ARASHIC.md "wikilink")』                                                                                             |
+| CDアルバム                                                                                                                                                                          | 『**ARASHIC**』                                                                                                                          |
 | ライブ映像                                                                                                                                                                           | 『[ARASHI AROUND ASIA Thailand-Taiwan-Korea](https://ja.wikipedia.org/wiki/ARASHI_AROUND_ASIA_Thailand-Taiwan-Korea "wikilink")』        |
 | 『[ARASHI AROUND ASIA+ in DOME](https://ja.wikipedia.org/wiki/ARASHI_AROUND_ASIA+_in_DOME "wikilink")』                                                                           |                                                                                                                                        |
 | 『[SUMMER TOUR 2007 FINAL Time -コトバノチカラ-](https://ja.wikipedia.org/wiki/SUMMER_TOUR_2007_FINAL_Time_-コトバノチカラ- "wikilink")』                                                       |                                                                                                                                        |
@@ -190,6 +202,11 @@
 |                                                                                                                                                                                 |                                                                                                                                        |
 
 ## 脚注
+
+## 外部リンク
+
+  - [J Stormによる紹介ページ](https://www.j-storm.co.jp/arashi/discography/arashic)
+  - [Johnny's netによる紹介ページ](https://www.johnnys-net.jp/page?id=discoDetail&artist=10&data=98)
 
 [Category:嵐のアルバム](https://ja.wikipedia.org/wiki/Category:嵐のアルバム "wikilink") [Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink") [Category:ジェイ・ストームのアルバム](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームのアルバム "wikilink") [Category:2006年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2006年のオリコンアルバムチャート1位獲得作品 "wikilink")
 

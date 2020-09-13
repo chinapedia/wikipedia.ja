@@ -90,7 +90,7 @@
 
 ## 外部リンク
 
-  - [インターネットラジオステーション＜音泉＞](http://www.onsen.ag/)
-  - [シムーン公式ホームページ](http://www.simoun.tv/)
+  - [インターネットラジオステーション＜音泉＞](https://www.onsen.ag/)
+  - [シムーン公式ホームページ](https://www.simoun.tv/)
 
 [Category:音泉](https://ja.wikipedia.org/wiki/Category:音泉 "wikilink")

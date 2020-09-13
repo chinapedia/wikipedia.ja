@@ -17,9 +17,9 @@
 
 ### VTEC TURBO
 
-2013年11月に、走りと燃費を両立させる新世代パワートレイン技術「EARTH DREAMS TECHNOLOGY」の一つとして発表された「VTEC TURBO」シリーズの中で、主に小～中型車用エンジンとして開発された1.0Lエンジン。
+2013年11月に発表。走りと燃費を両立させる新世代パワートレイン技術「EARTH DREAMS TECHNOLOGY」の1つである「VTEC TURBO」シリーズの中で、主に小～中型車用エンジンとして開発され、主に欧州・中国向けに販売される10代目[シビック](https://ja.wikipedia.org/wiki/シビック "wikilink")に搭載されている。完全自社設計ではなく、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の技術[プロバイダ](https://ja.wikipedia.org/wiki/プロバイダ "wikilink")・[FEVと共同で開発されている](https://ja.wikipedia.org/wiki/:de:FEV "wikilink")\[1\]。
 
-型式はP型ではあるものの、本機は[DOHC](../Page/DOHC.md "wikilink")[直噴化されており](../Page/ガソリン直噴エンジン.md "wikilink")、また燃費改善のために[水冷式EGRも採用された](../Page/排気再循環.md "wikilink")。 主に欧州、中国向けに販売される10代目[シビック](https://ja.wikipedia.org/wiki/シビック "wikilink")に搭載されている。
+型式はP型ではあるものの、本機は[DOHC](../Page/DOHC.md "wikilink")および[直噴化されており](../Page/ガソリン直噴エンジン.md "wikilink")、燃費改善のために[水冷式EGRも採用された](../Page/排気再循環.md "wikilink")。
 
 ファイル: 2017 Honda Civic EX VTEC 1.0 Front.jpg|P10Aを搭載したシビックハッチバック（英国向け）
 
@@ -41,7 +41,7 @@
 
 <!-- end list -->
 
-  - 弁機構：DOHC タイミングベルト駆動 吸気2 排気2
+  - 弁機構：DOHC 湿式（油中式）タイミングベルト駆動 吸気2 排気2
   - 排気量：988cc
   - 内径×行程：73.0mm×78.7mm
   - 圧縮比：10.0
@@ -59,7 +59,7 @@
 
 <!-- end list -->
 
-  - 弁機構：SOHC タイミングベルト駆動 吸気1 排気1
+  - 弁機構：SOHC 乾式タイミングベルト駆動 吸気1 排気1
   - 排気量：658cc
   - 内径×行程：71.0mm×55.4mm
   - 圧縮比：11.2
@@ -74,7 +74,7 @@
 
 <!-- end list -->
 
-  - 弁機構：SOHC タイミングベルト駆動 吸気1 排気1
+  - 弁機構：SOHC 乾式タイミングベルト駆動 吸気1 排気1
   - 排気量：658cc
   - 内径×行程：71.0mm×55.4mm
   - 圧縮比：8.5
@@ -133,3 +133,5 @@
   - [クラストップレベルの出力性能と環境性能を両立した直噴ガソリンターボエンジン「VTEC TURBO」を新開発](http://www.honda.co.jp/news/2013/4131119b.html)（オフィシャル）
 
 [Category:本田技研工業のエンジン](https://ja.wikipedia.org/wiki/Category:本田技研工業のエンジン "wikilink")
+
+1.

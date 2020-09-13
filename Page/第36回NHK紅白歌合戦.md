@@ -51,7 +51,7 @@
   - [武原はん](../Page/武原はん.md "wikilink")（舞踊家。この年、[日本芸術院](../Page/日本芸術院.md "wikilink")会員に選任）
   - [ジェームス三木](../Page/ジェームス三木.md "wikilink")（脚本家。この年上期の[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[澪つくし](../Page/澪つくし.md "wikilink")』の作者）
   - [山口洋子](../Page/山口洋子.md "wikilink")（作家・作詞家。この年『演歌の虫』『老梅』で[第93回直木賞受賞](https://ja.wikipedia.org/wiki/直木三十五賞#受賞作一覧 "wikilink")）
-  - [吉田義男](../Page/吉田義男.md "wikilink")（[阪神タイガース](../Page/阪神タイガース.md "wikilink")監督）
+  - [吉田義男](../Page/吉田義男.md "wikilink")（[阪神タイガース](../Page/阪神タイガース.md "wikilink")監督、この年タイガースを初の[日本一に導き全国に虎フィーバーを巻き起こした](../Page/1985年の日本シリーズ.md "wikilink")）
   - [大地真央](../Page/大地真央.md "wikilink")（女優。『武蔵坊弁慶』の[巴御前](../Page/巴御前.md "wikilink")役）
   - [北尾光司](../Page/北尾光司.md "wikilink")（大相撲・大関）
   - 遠藤利男･NHK番組制作局長
@@ -117,7 +117,7 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=36)
   - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1985年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1985年のテレビ番組_\(日本\) "wikilink") [Category:1985年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1985年のラジオ番組_\(日本\) "wikilink") [Category:1985年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1985年の日本の音楽 "wikilink") [Category:1985年12月](https://ja.wikipedia.org/wiki/Category:1985年12月 "wikilink")

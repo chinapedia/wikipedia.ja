@@ -24,7 +24,7 @@
         [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[走れ公務員\! WOMAN](../Page/走れ公務員!.md "wikilink")POLICE』主題歌。
         曲のタイトルは、春を告げる花といわれている[ヒガンバナ科](../Page/ヒガンバナ科.md "wikilink")の[マツユキソウの英語名](../Page/スノードロップ.md "wikilink")"snowdrop"から取られている。タイトルについて、hydeは「雪の中に咲く花の名前がタイトルになればいいなと思って、調べてたらそういう花があったから\[1\]」と述べており、歌詞の中の「ユキノハナ」はこの花を指している。
         tetsuyaが[アニメ](../Page/アニメ.md "wikilink")『[フランダースの犬](../Page/フランダースの犬_\(アニメ\).md "wikilink")』を観た後に制作した楽曲で、制作の経緯を聞いたhydeもアニメを観て「優しい気持ちで歌詞を書いた」「引っかけとかを作らずに書いたのは、久しぶりかも」と述べている\[2\]。
-        この曲の[ギター](../Page/ギター.md "wikilink")のソロパートでは、[トーキング・モジュレーター](../Page/トーキング・モジュレーター.md "wikilink")が使用されている。また、[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")の[ドラムセット](../Page/ドラムセット.md "wikilink")の特徴とも言える[ロートタムが非常に多く使用されている楽曲である](../Page/ロート・トム.md "wikilink")。
+        この曲の[ギター](../Page/ギター.md "wikilink")のソロパートでは、[トーキング・モジュレーター](../Page/トーキング・モジュレーター.md "wikilink")が使用されている。また、tetsuyaの「タムを使ったフレーズが欲しい\[3\]」というリクエストを受け、[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")の[ドラムセット](../Page/ドラムセット.md "wikilink")の特徴とも言える[ロートタムが非常に多く使用されている](../Page/ロート・トム.md "wikilink")。yukihiro曰くドラム録りに苦労したといい、「あまりドラムキット感のない、タムだけ別の人間が叩いている雰囲気の音作りをしていて、キット感が無いとバタバタ聞こえるんです。だからテイクを録るのも時間がかかった\[4\]」と述べている。
         [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は、核戦争後に[死の灰が降り注ぐ世界が舞台](../Page/放射性降下物.md "wikilink")。その世界で冷凍保存されたメンバーが目覚め、彼らの演奏によって世界を呼び覚ますというコンセプトになっている。
         7thアルバム『[ray](https://ja.wikipedia.org/wiki/ray_\(アルバム\) "wikilink")』には「ray mix」と題した[アルバムバージョンが収録されている](https://ja.wikipedia.org/wiki/アルバム#既発表曲の収録について "wikilink")。シングルバージョンは[2003年](../Page/2003年.md "wikilink")発売の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[The Best of L'Arc〜en〜Ciel 1998-2000](../Page/The_Best_of_L'Arc〜en〜Ciel.md "wikilink")』に収録（海外では韓国、台湾盤の『[Clicked Singles Best 13](../Page/Clicked_Singles_Best_13.md "wikilink")』に既に収録されていた）。
 2.  **a swell in the sun**
@@ -32,9 +32,9 @@
     <!-- end list -->
       -
         1998年に開催されたライブツアー「Tour '98 ハートに火をつけろ\!」のオープニングS.E.として使用されていた楽曲。
-        初めてyukihiroがL'Arc〜en〜Cielで作曲した楽曲。歌詞は全英語詞となっており、hydeが[ノストラダムスの大予言について歌った詞となっている](../Page/ミシェル・ノストラダムス師の予言集.md "wikilink")\[3\]。
-        L'Arc〜en〜Ciel加入以前からyukihiroが温めていた曲で、「（本作発売前から）3年前ぐらいに、自分用に作った曲\[4\]」と述べている。tetsuyaは、yukihiroがバンドに加入する遥か前に、聴かせてもらったことがあったという\[5\]。また、当初のメロディが曖昧だったため、歌入れの際にhydeがメロディを構成し直している。ちなみに、繰り返すギターフレーズは、yukihiroが当初入れていたテイクを使ったループとなっており、kenがギターを弾いている部分は最後の16小節のみとなっている\[6\]。
-        yukihiro曰く、当初は[レニー・クラヴィッツ](../Page/レニー・クラヴィッツ.md "wikilink")っぽく作ったというが\[7\]、yukihiroは制作を振り返り「レニー・クラヴィッツみたいなギターのリフのある曲を作ろうかなと思って考えたんだけど、出来てみたら別にレニー・クラヴィッツじゃなくなった\[8\]」と述べている。
+        初めてyukihiroがL'Arc〜en〜Cielで作曲した楽曲。歌詞は全英語詞となっており、hydeが[ノストラダムスの大予言について歌った詞となっている](../Page/ミシェル・ノストラダムス師の予言集.md "wikilink")\[5\]。
+        L'Arc〜en〜Ciel加入以前からyukihiroが温めていた曲で、「（本作発売前から）3年前ぐらいに、自分用に作った曲\[6\]」と述べている。tetsuyaは、yukihiroがバンドに加入する遥か前に、聴かせてもらったことがあったという\[7\]。また、当初のメロディが曖昧だったため、歌入れの際にhydeがメロディを構成し直している。ちなみに、繰り返すギターフレーズは、yukihiroが当初入れていたテイクを使ったループとなっており、kenがギターを弾いている部分は最後の16小節のみとなっている\[8\]。
+        yukihiro曰く、当初は[レニー・クラヴィッツ](../Page/レニー・クラヴィッツ.md "wikilink")っぽく作ったというが\[9\]、yukihiroは制作を振り返り「レニー・クラヴィッツみたいなギターのリフのある曲を作ろうかなと思って考えたんだけど、出来てみたら別にレニー・クラヴィッツじゃなくなった\[10\]」と述べている。また、hydeは「素材として歌をレコーディングするのは自分の中で凄い新鮮だった。ボーカルは[アニー・レノックス](../Page/アニー・レノックス.md "wikilink")をイメージして歌いました\[11\]」と述べている。
         リミックスアルバム『[ectomorphed works](https://ja.wikipedia.org/wiki/ectomorphed_works "wikilink")』には「a swell in the sun (system in chaos)」と題した[リミックス](../Page/リミックス.md "wikilink")バージョンで収録されており、アルバム内では新規にリミックスされた数少ない楽曲となっている（大半は[カップリング](https://ja.wikipedia.org/wiki/カップリング "wikilink")として収録された楽曲のリアレンジである）。なお、シングルバージョンは、ベストアルバム『[The Best of L'Arc〜en〜Ciel c/w](../Page/The_Best_of_L'Arc〜en〜Ciel.md "wikilink")』、『[QUADRINITY 〜MEMBER'S BEST SELECTIONS〜](https://ja.wikipedia.org/wiki/QUADRINITY_〜MEMBER'S_BEST_SELECTIONS〜 "wikilink")』に収録。
 3.  **snow drop (hydeless version)**
 
@@ -99,9 +99,12 @@
 
 1.  『PATi PATi』、p.19、ソニー・マガジンズ、1998年10月号
 2.
-3.  『PATi PATi』、p.20、ソニー・マガジンズ、1998年10月号
+3.  『Gb』、p.18、1998年11月号
 4.
-5.
+5.  『PATi PATi』、p.20、ソニー・マガジンズ、1998年10月号
 6.
 7.
-8.  『B-PASS』、p.17、シンコーミュージックエンタテイメント、1998年11月号
+8.
+9.
+10. 『B-PASS』、p.17、シンコーミュージックエンタテイメント、1998年11月号
+11. 『Gb』、p.17、1998年11月号

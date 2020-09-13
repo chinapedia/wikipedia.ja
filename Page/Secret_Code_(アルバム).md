@@ -16,7 +16,7 @@
     <!-- end list -->
       -
         1stシングル
-2.  **[ピエロ](../Page/ピエロ_\(上木彩矢の曲\).md "wikilink")**
+2.  **[ピエロ](https://ja.wikipedia.org/wiki/ピエロ_\(B'zの曲\)#上木彩矢によるカバー "wikilink")**
       - 作詞：[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink") / 作曲：[松本孝弘](../Page/松本孝弘.md "wikilink") / 編曲：[葉山たけし](../Page/葉山たけし.md "wikilink")
     <!-- end list -->
       -

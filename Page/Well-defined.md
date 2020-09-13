@@ -1,7 +1,7 @@
 > この記事は[Well-defined](https://ja.wikipedia.org/wiki/Well-defined)から翻訳されています。
 
 
-[数学](../Page/数学.md "wikilink")における****は， 「[定義](https://ja.wikipedia.org/wiki/定義 "wikilink")によって一意の解釈又は値が割り当てられる」ことを言う。 「**良定義**」などと[日本語](../Page/日本語.md "wikilink")訳される場合がある。
+[数学](../Page/数学.md "wikilink")における****は， 「[定義](https://ja.wikipedia.org/wiki/定義 "wikilink")によって一意の解釈又は値が割り当てられる」ことを言う。
 
 ## 定義
 
@@ -44,8 +44,6 @@
 
 ## 参考文献
 
-  -
-  -
   -
   -
   -

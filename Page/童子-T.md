@@ -669,9 +669,9 @@ AVCD-93417</p></td>
 
 ## 外部リンク
 
-  - [童子－T](http://www.universal-music.co.jp/dohzi_t/index.html) - [UNIVERSAL MUSIC JAPAN](https://ja.wikipedia.org/wiki/UNIVERSAL_MUSIC_JAPAN "wikilink")
+  - [童子－T](https://www.universal-music.co.jp/dohzi-t/) - [UNIVERSAL MUSIC JAPAN](https://ja.wikipedia.org/wiki/UNIVERSAL_MUSIC_JAPAN "wikilink")
 
-  - [「言葉はじくブログ」](http://ameblo.jp/dzt/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")（2008年6月11日 - 2011年5月13日）
+  - [「言葉はじくブログ」](https://ameblo.jp/dzt/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")（2008年6月11日 - 2011年5月13日）
 
   -
   -

@@ -11,19 +11,13 @@
 
 ## キャスト
 
-  - 主要人物
-
-<!-- end list -->
+### 主要人物
 
   - 久堂和繁（新米AD） - [加勢大周](../Page/加勢大周.md "wikilink")
   - 杉田巧（チーフAD） - [浜田雅功](../Page/浜田雅功.md "wikilink")（[ダウンタウン](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")）
   - 藤井貴之（セカンドAD） - [的場浩司](../Page/的場浩司.md "wikilink")
 
-<!-- end list -->
-
-  - その他
-
-<!-- end list -->
+### その他
 
   - 遠山久美（元コンビニ店員・デザイナー志望） - [浅香唯](https://ja.wikipedia.org/wiki/浅香唯 "wikilink")
   - 小林あかね（スタイリストの新人） - [石田ひかり](../Page/石田ひかり.md "wikilink")
@@ -66,7 +60,7 @@
 
 ### 外部リンク
 
-  - [ＡＤブギ(1991) - allcinema](http://www.allcinema.net/prog/show_c.php?num_c=321038)
-  - [ＡＤ・リターンズ(1992) - allcinema](http://www.allcinema.net/prog/show_c.php?num_c=361482)
+  - [ＡＤブギ(1991) - allcinema](https://www.allcinema.net/cinema/321038)
+  - [ＡＤ・リターンズ(1992) - allcinema](https://www.allcinema.net/cinema/361482)
 
-[Category:TBS金曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS金曜9時枠の連続ドラマ "wikilink") [Category:1991年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1991年のテレビドラマ "wikilink") [Category:テレビ局を舞台とした作品](https://ja.wikipedia.org/wiki/Category:テレビ局を舞台とした作品 "wikilink") [Category:東京都の赤坂を舞台とした作品](https://ja.wikipedia.org/wiki/Category:東京都の赤坂を舞台とした作品 "wikilink") [Category:遊川和彦脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:遊川和彦脚本のテレビドラマ "wikilink") [Category:浜田雅功](https://ja.wikipedia.org/wiki/Category:浜田雅功 "wikilink")
+[Category:TBS金曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS金曜9時枠の連続ドラマ "wikilink") [Category:1991年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1991年のテレビドラマ "wikilink") [Category:テレビ局を舞台とした作品](https://ja.wikipedia.org/wiki/Category:テレビ局を舞台とした作品 "wikilink") [Category:東京都の赤坂を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:東京都の赤坂を舞台としたテレビドラマ "wikilink") [Category:遊川和彦脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:遊川和彦脚本のテレビドラマ "wikilink") [Category:浜田雅功](https://ja.wikipedia.org/wiki/Category:浜田雅功 "wikilink")

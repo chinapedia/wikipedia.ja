@@ -36,6 +36,74 @@
         [2012年](../Page/2012年.md "wikilink")の『[MR.CHILDREN TOUR POPSAURUS 2012](https://ja.wikipedia.org/wiki/MR.CHILDREN_TOUR_POPSAURUS_2012 "wikilink")』においてライブツアーでは初披露された。
         歌詞に[おりも政夫](../Page/おりも政夫.md "wikilink")が登場する。
 
+## テレビ出演
+
+<table>
+<thead>
+<tr class="header">
+<th><p>番組名</p></th>
+<th><p>日付</p></th>
+<th><p>放送局</p></th>
+<th><p>演奏曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ミュージックステーション" title="wikilink">ミュージックステーション</a></p></td>
+<td><p>1997年2月7日</p></td>
+<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a></p></td>
+<td><p><strong>Everything (It's you)</strong>[5]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TV</a></p></td>
+<td><p>1997年2月8日</p></td>
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS</a></p></td>
+<td><p><strong>Everything (It's you)</strong>[6]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP" title="wikilink">HEY!HEY!HEY! MUSIC CHAMP</a></p></td>
+<td><p>1997年2月10日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ</a></p></td>
+<td><p><strong>Everything (It's you)</strong>[7]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/FAN.md" title="wikilink">FAN</a></p></td>
+<td><p>1997年2月14日</p></td>
+<td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ</a></p></td>
+<td><p><strong>Everything (It's you)</strong>[8]</p></td>
+</tr>
+<tr class="odd">
+<td><p>HEY!HEY!HEY! MUSIC CHAMP</p></td>
+<td><p>1997年3月17日</p></td>
+<td><p>フジテレビ</p></td>
+<td><p><a href="../Page/Tomorrow_never_knows_(Mr.Childrenの曲).md" title="wikilink">Tomorrow never knows</a><br />
+<a href="../Page/名もなき詩.md" title="wikilink">名もなき詩</a><br />
+<a href="../Page/シーソーゲーム_〜勇敢な恋の歌〜.md" title="wikilink">シーソーゲーム 〜勇敢な恋の歌〜</a><br />
+<a href="https://ja.wikipedia.org/wiki/everybody_goes_-秩序のない現代にドロップキック-" title="wikilink">everybody goes -秩序のない現代にドロップキック-</a><br />
+<strong>Everything (It's you)</strong>[9]</p></td>
+</tr>
+</tbody>
+</table>
+
+## ライブ映像作品
+
+**Everything (It's you)**
+
+| 作品名                                                                                                                                                   | 備考                                                                                                                                      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| [regress or progress '96-'97 tour final IN TOKYO DOME](https://ja.wikipedia.org/wiki/regress_or_progress_'96-'97_tour_final_IN_TOKYO_DOME "wikilink") |                                                                                                                                         |
+| [Mr.Children TOUR '99 DISCOVERY](../Page/Mr.Children_TOUR_'99_DISCOVERY.md "wikilink")                                                                |                                                                                                                                         |
+| [Mr.Children Tour 2004 シフクノオト](../Page/Mr.Children_Tour_2004_シフクノオト.md "wikilink")                                                                    |                                                                                                                                         |
+| [Mr.Children / Split The Difference](https://ja.wikipedia.org/wiki/Mr.Children_/_Split_The_Difference "wikilink")                                     | [ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")[映画](../Page/映画.md "wikilink")作品                                                              |
+| [MR.CHILDREN TOUR POPSAURUS 2012](https://ja.wikipedia.org/wiki/MR.CHILDREN_TOUR_POPSAURUS_2012 "wikilink")                                           |                                                                                                                                         |
+| [Mr.Children REFLECTION｛Live\&Film｝](https://ja.wikipedia.org/wiki/Mr.Children_REFLECTION｛Live&Film｝ "wikilink")                                      | Mr.Children TOUR 2015 REFLECTIONと映画『[Mr.Children REFLECTION](https://ja.wikipedia.org/wiki/Mr.Children_REFLECTION "wikilink")』の両方で演奏された |
+
+**デルモ**
+
+| 作品名                                                                                                         | 備考 |
+| ----------------------------------------------------------------------------------------------------------- | -- |
+| [MR.CHILDREN TOUR POPSAURUS 2012](https://ja.wikipedia.org/wiki/MR.CHILDREN_TOUR_POPSAURUS_2012 "wikilink") |    |
+
 ## 収録アルバム
 
   - 『[BOLERO](../Page/BOLERO_\(Mr.Childrenのアルバム\).md "wikilink")』 (\#1)
@@ -55,3 +123,8 @@
 2.  『月刊カドカワ』角川書店、1997年2月号、181頁
 3.  『月刊カドカワ』角川書店、1997年4月号、133頁
 4.  『月刊カドカワ』角川書店、1997年2月号、182頁
+5.
+6.
+7.
+8.
+9.

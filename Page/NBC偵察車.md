@@ -103,19 +103,19 @@ NBC偵察車の調達数
 
 ## 外部リンク
 
-  - [防衛省・自衛隊：平成16年度 事前の事業評価 評価書一覧](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/16/jizen/)
-      - NBC偵察車 ： [要旨 (PDF)](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/16/jizen/youshi/02.pdf) - [本文 (PDF)](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/16/jizen/honbun/02.pdf) - [参考 (PDF)](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/16/jizen/sankou/02.pdf)
-  - [防衛省・自衛隊：平成21年度 事前の事業評価 評価書一覧](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/21/jizen/)
-      - NBC偵察車の取得 ： [要旨 (PDF)](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/21/jizen/youshi/03.pdf) - [本文 (PDF)](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/21/jizen/honbun/03.pdf) - [参考 (PDF)](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/21/jizen/sankou/03.pdf)
-  - [防衛省・自衛隊：平成21年度 事後の事業評価 評価書一覧](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/21/jigo/)
-      - NBC偵察車 ： [要旨 (PDF)](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/21/jigo/youshi/14.pdf) - [本文 (PDF)](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/21/jigo/honbun/14.pdf) - [参考 (PDF)](http://www.mod.go.jp/j/approach/hyouka/seisaku/results/21/jigo/sankou/14.pdf)
+  - [防衛省・自衛隊：平成16年度 事前の事業評価 評価書一覧](https://www.mod.go.jp/j/approach/hyouka/seisaku/results/16/jizen/)
+      - NBC偵察車 ： [要旨 (PDF)](https://www.mod.go.jp/j/approach/hyouka/seisaku/results/16/jizen/youshi/02.pdf) - [本文 (PDF)](https://www.mod.go.jp/j/approach/hyouka/seisaku/results/16/jizen/honbun/02.pdf) - [参考 (PDF)](https://www.mod.go.jp/j/approach/hyouka/seisaku/results/16/jizen/sankou/02.pdf)
+  - [防衛省・自衛隊：平成21年度 事前の事業評価 評価書一覧](https://www.mod.go.jp/j/approach/hyouka/seisaku/results/21/jizen/)
+      - NBC偵察車の取得 ： [要旨 (PDF)](https://www.mod.go.jp/j/approach/hyouka/seisaku/results/21/jizen/youshi/03.pdf) - [本文 (PDF)](https://www.mod.go.jp/j/approach/hyouka/seisaku/results/21/jizen/honbun/03.pdf) - [参考 (PDF)](https://www.mod.go.jp/j/approach/hyouka/seisaku/results/21/jizen/sankou/03.pdf)
+  - [防衛省・自衛隊：平成21年度 事後の事業評価 評価書一覧](https://www.mod.go.jp/j/approach/hyouka/seisaku/results/21/jigo/)
+      - NBC偵察車 ： [要旨 (PDF)](https://www.mod.go.jp/j/approach/hyouka/seisaku/results/21/jigo/youshi/14.pdf) - [本文 (PDF)](https://www.mod.go.jp/j/approach/hyouka/seisaku/results/21/jigo/honbun/14.pdf) - [参考 (PDF)](https://www.mod.go.jp/j/approach/hyouka/seisaku/results/21/jigo/sankou/14.pdf)
   - [核（Nuclear）生物（Biological）化学（Chemical） NBC偵察車 初公開 陸自化校](http://www.asagumo-news.com/news/201205/120524/12052412.html) - 朝雲ニュース2012年5月24日（[朝雲新聞社](https://ja.wikipedia.org/wiki/朝雲新聞社 "wikilink")）
 
 [Category:陸上自衛隊の装輪装甲車](https://ja.wikipedia.org/wiki/Category:陸上自衛隊の装輪装甲車 "wikilink") [Category:陸上自衛隊の対特殊武器装備](https://ja.wikipedia.org/wiki/Category:陸上自衛隊の対特殊武器装備 "wikilink") [Category:偵察](https://ja.wikipedia.org/wiki/Category:偵察 "wikilink") [Category:小松製作所](https://ja.wikipedia.org/wiki/Category:小松製作所 "wikilink")
 
 1.
 2.
-3.  研究開発 装備開発官 陸上装備[開発が完了した主なもの](http://www.mod.go.jp/atla/soubi_riku.html)
+3.  研究開発 装備開発官 陸上装備[開発が完了した主なもの](https://www.mod.go.jp/atla/soubi_riku.html)
 4.
 5.  『[軍事研究](https://ja.wikipedia.org/wiki/軍事研究 "wikilink")』 2011年6月号 「放射能汚染の恐怖&陸自化学科部隊の新型NBC偵察兵器」P123-146
 6.  [平成24年度防衛関係費について](http://www.mof.go.jp/public_relations/finance/201203g.pdf)

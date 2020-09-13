@@ -50,14 +50,16 @@
 
 ## 参加ミュージシャン
 
-  - 増崎孝司 - [ギター](../Page/ギター.md "wikilink")
-  - [寺沢功一](../Page/寺沢功一.md "wikilink")（BLIZARD） - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
-  - [青木智仁](../Page/青木智仁.md "wikilink") - ベース
-  - [江口信夫](https://ja.wikipedia.org/wiki/江口信夫 "wikilink") - [ドラム](../Page/ドラムセット.md "wikilink")
-  - [青山純](../Page/青山純.md "wikilink") - ドラム
-  - 澤野博敬 - [トランペット](../Page/トランペット.md "wikilink")
-  - 伊藤一義 - [コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
-  - 明石昌夫 - ベース、[シンセサイザー](../Page/シンセサイザー.md "wikilink")、コーラス
+  - 増崎孝司 - [ギター](../Page/ギター.md "wikilink") (M-1～11)
+  - [小野塚晃](../Page/小野塚晃.md "wikilink") - [キーボード](../Page/キーボード_\(楽器\).md "wikilink") (M2,3,5,9)
+  - [勝田一樹](../Page/勝田一樹.md "wikilink") - [サックス](../Page/サクソフォーン.md "wikilink") (M-1,2,3,6)
+  - [寺沢功一](../Page/寺沢功一.md "wikilink")（BLIZARD） - [ベース](../Page/ベース_\(弦楽器\).md "wikilink") (M-5)
+  - [青木智仁](../Page/青木智仁.md "wikilink") - ベース (M-3,6,7)
+  - [江口信夫](https://ja.wikipedia.org/wiki/江口信夫 "wikilink") - [ドラム](../Page/ドラムセット.md "wikilink") (M-3,5)
+  - [青山純](../Page/青山純.md "wikilink") - ドラム (M-1,2,4,6,7,8,9,10,11)
+  - 澤野博敬 - [トランペット](../Page/トランペット.md "wikilink") (M-3)
+  - 伊藤一義 - [コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") (M-5,10)
+  - 明石昌夫 - ベース (M-1,2,4,8,9,10,11)、[シンセサイザー](../Page/シンセサイザー.md "wikilink") (M1～11)、コーラス(M-3)
 
 ## 関連項目
 

@@ -72,7 +72,7 @@
 
 ## 外部リンク
 
-  - [公式サイト](http://web.archive.org/web/20120526020558/http://www.icoms.it/)
+  - [公式サイト](https://web.archive.org/web/20120526020558/http://www.icoms.it/)
 
 [Category:イタリアの音楽コンクール](https://ja.wikipedia.org/wiki/Category:イタリアの音楽コンクール "wikilink") [Category:トリノの文化](https://ja.wikipedia.org/wiki/Category:トリノの文化 "wikilink")
 

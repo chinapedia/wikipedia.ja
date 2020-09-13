@@ -124,7 +124,7 @@
   -
 ## 外部リンク
 
-  - [NHK紅白歌合戦 公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK紅白歌合戦 公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=2)
 
 [fi:Kōhaku Uta Gassen](https://ja.wikipedia.org/wiki/fi:Kōhaku_Uta_Gassen "wikilink")
 

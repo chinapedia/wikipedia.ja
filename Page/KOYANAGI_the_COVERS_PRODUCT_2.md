@@ -14,7 +14,7 @@
       -
         15thシングル
         [ザ・ピーナッツ](../Page/ザ・ピーナッツ.md "wikilink")のカヴァー。テレビ番組「[ミュージックフェア](../Page/ミュージックフェア.md "wikilink")」では小柳が二人に"増殖"して歌っていた。
-2.  **[異邦人](https://ja.wikipedia.org/wiki/異邦人_\(久保田早紀の曲\) "wikilink")**
+2.  **[異邦人](../Page/異邦人_-シルクロードのテーマ-.md "wikilink")**
       -
         [久保田早紀](https://ja.wikipedia.org/wiki/久保田早紀 "wikilink")のカヴァー。
 3.  **[愛が止まらない 〜Turn It Into Love〜](https://ja.wikipedia.org/wiki/恋のフーガ#小柳ゆきバージョン "wikilink")**
@@ -49,4 +49,4 @@
 
   - ※印は[ボーナストラック](https://ja.wikipedia.org/wiki/ボーナストラック "wikilink")。
 
-[Category:小柳ゆきのアルバム](https://ja.wikipedia.org/wiki/Category:小柳ゆきのアルバム "wikilink") [Category:小柳ゆきのカバー・アルバム](https://ja.wikipedia.org/wiki/Category:小柳ゆきのカバー・アルバム "wikilink") [Category:ワーナーミュージック・ジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアルバム "wikilink") [Category:2003年のカバー・アルバム](https://ja.wikipedia.org/wiki/Category:2003年のカバー・アルバム "wikilink")
+[Category:小柳ゆきのカバー・アルバム](https://ja.wikipedia.org/wiki/Category:小柳ゆきのカバー・アルバム "wikilink") [Category:ワーナーミュージック・ジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアルバム "wikilink") [Category:2003年のカバー・アルバム](https://ja.wikipedia.org/wiki/Category:2003年のカバー・アルバム "wikilink")

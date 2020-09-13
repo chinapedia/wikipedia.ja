@@ -72,12 +72,12 @@ TCL集団は2017年から2020年にかけて、日本を含むグローバル市
 <tbody>
 <tr class="odd">
 <td><p>Pearl</p></td>
-<td><p>8100 - 8110 - 8120 - 8130 - Pearl3G</p></td>
+<td><p>- 8110 - 8120 - 8130 - Pearl3G</p></td>
 <td><p>SUREキーボード</p></td>
 </tr>
 <tr class="even">
 <td><p>Pearl Flip</p></td>
-<td><p>8220 - 8230</p></td>
+<td><p>- 8230</p></td>
 <td><p>2つ折タイプ（SUREキーボード）</p></td>
 </tr>
 <tr class="odd">
@@ -154,22 +154,22 @@ TCL集団は2017年から2020年にかけて、日本を含むグローバル市
 </tr>
 <tr class="odd">
 <td><p>Classic</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BlackBerry_Classic" title="wikilink">BlackBerry Classic</a></p></td>
+<td></td>
 <td><p>物理キーボード搭載の3.5インチディスプレイ端末（フルタッチ、ストレート型）</p></td>
 </tr>
 <tr class="even">
 <td><p>Passport</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BlackBerry_Passport" title="wikilink">BlackBerry Passport</a></p></td>
+<td></td>
 <td><p>物理キーボード搭載の4.5インチ正方形ディスプレイ端末（フルタッチ、ストレート型）</p></td>
 </tr>
 <tr class="odd">
 <td><p>Priv</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BlackBerry_Priv" title="wikilink">BlackBerry Priv</a></p></td>
+<td></td>
 <td><p>物理キーボード搭載の5.4インチディスプレイ<a href="../Page/Android.md" title="wikilink">Android</a>端末（フルタッチ、ストレート型）</p></td>
 </tr>
 <tr class="even">
 <td><p>DTEK</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BlackBerry_DTEK" title="wikilink">BlackBerry DTEK</a></p></td>
+<td></td>
 <td><p>物理キーボード非搭載の<a href="../Page/Android.md" title="wikilink">Android</a>端末（フルタッチ、ストレート型）</p></td>
 </tr>
 </tbody>

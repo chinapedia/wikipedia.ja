@@ -101,7 +101,7 @@
 
 ## 外部リンク
 
-  - [UP-FRONT WORKSディスコグラフィ](http://www.up-front-works.jp/discography/zetima/29/a_08/index.html)
+  - [UP-FRONT WORKSディスコグラフィ](http://www.up-front-works.jp/release/detail/EPCE-5149/)
 
 [Category:モーニング娘。のアルバム](https://ja.wikipedia.org/wiki/Category:モーニング娘。のアルバム "wikilink") [Category:2002年のアルバム](https://ja.wikipedia.org/wiki/Category:2002年のアルバム "wikilink") [Category:2002年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2002年のオリコンアルバムチャート1位獲得作品 "wikilink")
 

@@ -1,7 +1,7 @@
 > この記事は[Mnet](https://ja.wikipedia.org/wiki/Mnet)から翻訳されています。
 
 
-**Mnet**（エムネット、）とは、[大韓民国](../Page/大韓民国.md "wikilink")の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")、および[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")・[スカパー\!プレミアムサービス光](../Page/スカパー!プレミアムサービス光.md "wikilink")（Ch.658）、[スカパー\!（東経110度CS放送）](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")（Ch.318）で放送されている韓国系[音楽](../Page/音楽.md "wikilink")専門チャンネルである。キャッチコピーは「**Music Network, M.net\!**」。
+**Mnet**（エムネット、）とは、[大韓民国](../Page/大韓民国.md "wikilink")の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")、および[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")・[スカパー\!プレミアムサービス光](../Page/スカパー!プレミアムサービス光.md "wikilink")（Ch.658）、[スカパー\!（東経110度CS放送）](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")（Ch.318）で放送されている韓国系[音楽](../Page/音楽.md "wikilink")専門チャンネルである。キャッチコピーは「**Music Network, M･net**」。
 
 ## チャンネル詳細
 

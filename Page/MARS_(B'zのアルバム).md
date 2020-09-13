@@ -1,7 +1,7 @@
 > この記事は[MARS \(B\'zのアルバム\)](https://ja.wikipedia.org/wiki/MARS_\(B\'zのアルバム\))から翻訳されています。
 
 
-『**MARS**』(マーズ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")[B'z](../Page/B'z.md "wikilink")が[1991年](../Page/1991年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink")に[BMGビクターからリリースした](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")3作目のミニ・アルバム。このアルバムは、後にBMGルームス(現:[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink"))の設立に伴い、発売権がBMGルームスに移行している。
+『**MARS**』(マーズ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")が1991年5月29日に[BMGビクターからリリースした](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")3作目のミニ・アルバム。このアルバムは、後にBMGルームス(現:[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink"))の設立に伴い、発売権がBMGルームスに移行している。
 
 ## 概要
 

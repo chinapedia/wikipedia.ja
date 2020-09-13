@@ -7,7 +7,7 @@
 
 ## 概要
 
-[毎日放送](../Page/毎日放送.md "wikilink")55周年記念特別番組として企画された、[バッファロー吾郎](../Page/バッファロー吾郎.md "wikilink")の2人がパーソナリティーで4人の芸人をゲストに呼び[大喜利](../Page/大喜利.md "wikilink")で対決させる番組。大喜利のルール等は[木村明浩](https://ja.wikipedia.org/wiki/木村明浩 "wikilink")が主催する[ダイナマイト関西がベースとなっている](../Page/ダイナマイト関西_\(お笑いイベント\).md "wikilink")。放送時間は毎週日曜日（土曜深夜）1時30分からの30分。決勝の模様のみは1時00分からの1時間放送を2回行った。また、2006年1月2日には「おもしろGP\! 喜利王・新春スペシャルマッチ」として[エキシビション](../Page/エキシビション.md "wikilink")マッチが放送された。また、毎回オープニングには[桂米朝](../Page/桂米朝.md "wikilink")による番組の趣旨に対してのコメントが流された。
+[毎日放送](../Page/毎日放送.md "wikilink")55周年記念特別番組として企画された、[バッファロー吾郎](../Page/バッファロー吾郎.md "wikilink")の2人がパーソナリティーで4人の芸人をゲストに呼び[大喜利](../Page/大喜利.md "wikilink")で対決させる番組。大喜利のルール等は[木村明浩が主催する](../Page/バッファロー吾郎A.md "wikilink")[ダイナマイト関西がベースとなっている](../Page/ダイナマイト関西_\(お笑いイベント\).md "wikilink")。放送時間は毎週日曜日（土曜深夜）1時30分からの30分。決勝の模様のみは1時00分からの1時間放送を2回行った。また、2006年1月2日には「おもしろGP\! 喜利王・新春スペシャルマッチ」として[エキシビション](../Page/エキシビション.md "wikilink")マッチが放送された。また、毎回オープニングには[桂米朝](../Page/桂米朝.md "wikilink")による番組の趣旨に対してのコメントが流された。
 
 ## ルール
 
@@ -43,7 +43,7 @@
   - [西森洋一](../Page/モンスターエンジン.md "wikilink")（[にのうらご](../Page/にのうらご.md "wikilink")、吉本興業）
   - [ノブ](https://ja.wikipedia.org/wiki/ノブ_\(お笑い芸人\) "wikilink")（[千鳥](../Page/千鳥_\(お笑いコンビ\).md "wikilink")、吉本興業）
   - 小出水（シャンプーハット、吉本興業）
-  - 大悟（千鳥、吉本興業）
+  - [大悟](https://ja.wikipedia.org/wiki/大悟_\(お笑い芸人\) "wikilink")（千鳥、吉本興業）
   - 馬場園梓（[アジアン](../Page/アジアン.md "wikilink")、吉本興業）
   - 石野敦士（[Over Drive](../Page/Over_Drive_\(お笑いコンビ\).md "wikilink")、松竹芸能）
   - 植村茂浩（[DA-DA](../Page/DA-DA.md "wikilink")、松竹芸能）
@@ -55,14 +55,14 @@
   - [城野克弥](../Page/ロッシー.md "wikilink")（[野性爆弾](https://ja.wikipedia.org/wiki/野性爆弾 "wikilink")、吉本興業）
   - 中西茂樹（[なすなかにし](../Page/なすなかにし.md "wikilink")、松竹芸能）
   - [哲夫](../Page/中西哲夫.md "wikilink")（笑い飯、吉本興業）
-  - [川島邦裕](https://ja.wikipedia.org/wiki/くっきー "wikilink")（野性爆弾、吉本興業）
+  - [川島邦裕](../Page/くっきー!.md "wikilink")（野性爆弾、吉本興業）
   - [渡辺裕薫](https://ja.wikipedia.org/wiki/渡辺裕薫 "wikilink")（シンデレラエキスプレス、松竹芸能）
   - [須知裕雅](../Page/すっちー.md "wikilink")（ビッキーズ、吉本興業）
   - [中山功太](../Page/中山功太.md "wikilink")（吉本興業）
   - [ヤナギブソン](../Page/ヤナギブソン.md "wikilink")（ザ・プラン9、吉本興業）1月度喜利王
   - [中川貴志](../Page/中川貴志.md "wikilink")（[ランディーズ](../Page/ランディーズ.md "wikilink")、吉本興業）
   - 久保田和靖（[とろサーモン](https://ja.wikipedia.org/wiki/とろサーモン_\(お笑い\) "wikilink")、吉本興業）
-  - [渡辺鐘](https://ja.wikipedia.org/wiki/渡辺鐘 "wikilink")（[ジャリズム](../Page/ジャリズム.md "wikilink")、吉本興業）
+  - [渡辺鐘](../Page/桂三度.md "wikilink")（[ジャリズム](../Page/ジャリズム.md "wikilink")、吉本興業）
   - 那須晃行（なすなかにし、松竹芸能）
   - [徳井義実](../Page/徳井義実.md "wikilink")（[チュートリアル](../Page/チュートリアル_\(お笑いコンビ\).md "wikilink")、吉本興業）2月度喜利王
   - 隅田美保（アジアン、吉本興業）
@@ -76,7 +76,7 @@
   - [なかやまきんに君](../Page/なかやまきんに君.md "wikilink")（吉本興業）
   - [石田明](https://ja.wikipedia.org/wiki/石田明 "wikilink")（[NON STYLE](../Page/NON_STYLE.md "wikilink")、吉本興業)
   - 水野透（[リットン調査団](../Page/リットン調査団_\(お笑いコンビ\).md "wikilink")、吉本興業）
-  - [お～い\!久馬](https://ja.wikipedia.org/wiki/お～い!久馬 "wikilink")（ザ・プラン9、吉本興業）11月度喜利王
+  - [お〜い\!久馬](../Page/お〜い!久馬.md "wikilink")（ザ・プラン9、吉本興業）11月度喜利王
   - [竹若元博](../Page/竹若元博.md "wikilink")（バッファロー吾郎、吉本興業）喜利王推薦選手としてファイナル大会のみ出場
   - [ケンドーコバヤシ](../Page/ケンドーコバヤシ.md "wikilink")（吉本興業）10月度喜利王・ファイナル大会優勝者
 

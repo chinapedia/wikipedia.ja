@@ -14,7 +14,7 @@
   - [石川周之介](https://ja.wikipedia.org/wiki/石川周之介 "wikilink") - テナーサックス、フルート
   - 河合伸哉 （[河合わかば](https://ja.wikipedia.org/wiki/河合わかば "wikilink")） - [トロンボーン](../Page/トロンボーン.md "wikilink")、[サックス](../Page/サクソフォーン.md "wikilink")　[1960年](../Page/1960年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")生まれ。[山口県](../Page/山口県.md "wikilink")出身
   - [佐々木史郎](https://ja.wikipedia.org/wiki/佐々木史郎 "wikilink")（シロー・ブラッキー） - [トランペット](../Page/トランペット.md "wikilink")　[1962年](../Page/1962年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")生まれ。[東京都](../Page/東京都.md "wikilink")出身
-  - [小林太](https://ja.wikipedia.org/wiki/小林太 "wikilink") （フッシー小林） - [トランペット](../Page/トランペット.md "wikilink")　[1966年](../Page/1966年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")生まれ。[東京都](../Page/東京都.md "wikilink")出身
+  - [小林太](https://ja.wikipedia.org/wiki/小林太_\(トランペット奏者\) "wikilink") （フッシー小林） - [トランペット](../Page/トランペット.md "wikilink")　[1966年](../Page/1966年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")生まれ。[東京都](../Page/東京都.md "wikilink")出身
 
 ### 脱退
 
@@ -35,6 +35,8 @@
 
 [2006年](../Page/2006年.md "wikilink")には再結成した米米CLUBにも参加している。
 
+金子が[職業性ジストニア](https://ja.wikipedia.org/wiki/職業性ジストニア "wikilink")を発症しサックスを休業して以降もテナーサックスの新メンバーは迎えずに活動を続けていたが、2020年から新たに石川が加入し「新生BHB」として再び5管編成に戻った。
+
 ### セッション
 
 作編曲、プロデュース、レコーディング、ツアー等で共演した主なアーティスト。BHB全体での参加を中心に著名なアーティストを列記する。\<\!-非常に数が多いため、BHBを脱退したメンバーのセッションワークは除外する。
@@ -42,21 +44,17 @@
   - [aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")(金子、織田、河合、佐々木、小林)
   - [石井竜也](https://ja.wikipedia.org/wiki/石井竜也 "wikilink")(金子、織田、河合、佐々木、小林)
   - [大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")(金子、河合、佐々木、小林)
-  - [おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")(小林)
   - [甲斐よしひろ](../Page/甲斐よしひろ.md "wikilink")(金子、織田、河合、佐々木、小林)
+  - [角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")(金子、佐々木、河合)※アルバム[Fankacoustics](https://ja.wikipedia.org/wiki/Fankacoustics "wikilink")のみ
+  - [CASIOPEA 3rd](../Page/カシオペア_\(バンド\).md "wikilink")(金子、河合、佐々木、小林、石川。但し、金子はホーンアレンジのみ、アルト&バリトンサックスは[吉田治](../Page/吉田治.md "wikilink")が担当。)※「CASIOPEA 3rd Debut 40th Anniversary Year FINAL」ゲスト
   - [栗林誠一郎](../Page/栗林誠一郎.md "wikilink")(佐々木、河合、小林。但し、サックスは[DIMENSION](../Page/DIMENSION.md "wikilink")の[勝田一樹](../Page/勝田一樹.md "wikilink")が担当)
   - [ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")(金子、織田、河合、佐々木、小林)
   - [近藤房之助](../Page/近藤房之助.md "wikilink")(金子、織田、河合、佐々木、小林)
-  - [姿月あさと](https://ja.wikipedia.org/wiki/姿月あさと "wikilink")(金子)
-  - [JAGATARA](../Page/JAGATARA.md "wikilink")(小林)
   - [スターダストレビュー](../Page/スターダストレビュー.md "wikilink")(金子、織田、河合、小林)
   - [Char](../Page/Char.md "wikilink")(金子、織田、河合、小林)
   - [ディープ・パープル](../Page/ディープ・パープル.md "wikilink")(金子、織田、河合、小林)
-  - [TUBE](../Page/TUBE.md "wikilink")(河合、下神)
-  - [DEEN](../Page/DEEN.md "wikilink")(小林、佐々木)
   - [ともさかりえ](https://ja.wikipedia.org/wiki/ともさかりえ "wikilink")(さかともえり名義含む)(金子、織田、河合、小林)
   - [中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink") (金子、織田、河合、佐々木、小林)
-  - [B'z](../Page/B'z.md "wikilink")(河合、小林)
   - [B.B.キング](../Page/B.B.キング.md "wikilink")(金子、織田、河合、小林)
   - [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")(金子、織田、河合、小林)
   - [MINAKO](https://ja.wikipedia.org/wiki/MINAKO "wikilink")(金子、織田、河合、佐々木、小林)
@@ -64,7 +62,6 @@
   - [モーニング娘。](../Page/モーニング娘。.md "wikilink")(河合、小林。但し、サックス及びホーンアレンジは[竹上良成](https://ja.wikipedia.org/wiki/竹上良成 "wikilink")が担当)
   - [米倉利紀](../Page/米倉利紀.md "wikilink")(金子、織田、河合、小林)
   - [渡辺美里](../Page/渡辺美里.md "wikilink")(金子、織田、河合、小林)
-  - [野猿](../Page/野猿.md "wikilink")(村田)　アルバム[STAFF　ROLLのみ参加](../Page/STAFF_ROLL.md "wikilink")　他多数
 
 ## ディスコグラフィ
 
@@ -112,7 +109,7 @@ BIG HORNS BEE単独作品。米米CLUB作品は除く。
 
 <references />
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:米米CLUB](https://ja.wikipedia.org/wiki/Category:米米CLUB "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:米米CLUB](https://ja.wikipedia.org/wiki/Category:米米CLUB "wikilink")
 
 1.
 2.

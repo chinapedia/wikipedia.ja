@@ -73,7 +73,7 @@ HPゲージのほかに画面下の技ゲージによりかけられる技が制
     必殺技 マッスル・スパーク
   - [マリポーサ](https://ja.wikipedia.org/wiki/キン肉マンマリポーサ "wikilink")
     必殺技 アステカドロップ
-  - [ビッグボディ](https://ja.wikipedia.org/wiki/キン肉マンの登場人物_か行#キン肉マンビッグボディ "wikilink")
+  - [ビッグボディ](https://ja.wikipedia.org/wiki/キン肉マンの登場人物#キン肉マンビッグボディ_/_ストロングマン "wikilink")
     必殺技 マッスル・リベンジャー
   - [ソルジャー](../Page/キン肉アタル.md "wikilink")
     必殺技 ナパームストレッチ

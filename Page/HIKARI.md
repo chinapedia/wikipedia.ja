@@ -61,7 +61,7 @@
       - [Dream & Breeze](https://ja.wikipedia.org/wiki/NaNaNa_\(太陽なんていらねぇ\) "wikilink")（編曲）
       - [見上げた流星](https://ja.wikipedia.org/wiki/見上げた流星 "wikilink")（編曲）
       - [ストロボ](https://ja.wikipedia.org/wiki/羽田空港の奇跡/KIBOU "wikilink")（作詞/作曲/編曲）
-      - [The Course of Life](https://ja.wikipedia.org/wiki/17_\(アルバム\) "wikilink")（編曲）
+      - [The Course of Life](https://ja.wikipedia.org/wiki/17_\(TOKIOのアルバム\) "wikilink")（編曲）
       - [アリア](../Page/リリック_\(TOKIOの曲\).md "wikilink")（作詞/作曲/編曲）
       - [story](https://ja.wikipedia.org/wiki/クモ_\(TOKIOの曲\) "wikilink")（共編曲）
   - [滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")
@@ -118,7 +118,7 @@
   - [小柳ゆき](https://ja.wikipedia.org/wiki/小柳ゆき "wikilink")
       - [あなたのキスを数えましょう](https://ja.wikipedia.org/wiki/The_Best_Now_&_Then_〜10th_Anniversary〜#収録曲 "wikilink")（編曲）
   - [mihimaru GT](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")
-      - [アン♥ロック](https://ja.wikipedia.org/wiki/アン_ロック#収録曲 "wikilink")（作曲/編曲）
+      - [アン♥ロック](https://ja.wikipedia.org/wiki/アン♥ロック#収録曲 "wikilink")（作曲/編曲）
       - [アンビリーバボー feat.TAKUYA](https://ja.wikipedia.org/wiki/Love_Letter_\(mihimaru_GTの曲\)#収録曲 "wikilink")（編曲）
       - [マスターピース](https://ja.wikipedia.org/wiki/マスターピース_\(mihimaru_GTの曲\) "wikilink")（作曲/編曲）
       - [エボ★レボリューション](https://ja.wikipedia.org/wiki/エボ★レボリューション "wikilink")（作曲）
@@ -185,11 +185,13 @@
       - [Unstoppable](https://ja.wikipedia.org/wiki/CAST "wikilink")（作詞/共作曲）
   - [西野カナ](https://ja.wikipedia.org/wiki/西野カナ "wikilink")
       - [Into You](https://ja.wikipedia.org/wiki/Love_Collection_2_〜pink〜 "wikilink")（共作曲/編曲）
+  - [みやかわくん](https://ja.wikipedia.org/wiki/みやかわくん "wikilink")
+      - Wonder（共作曲/編曲）
   - [THE RAMPAGE from EXILE TRIBE](https://ja.wikipedia.org/wiki/THE_RAMPAGE_from_EXILE_TRIBE "wikilink")
       - SWAG & PRIDE（作曲/編曲）
   - [Snow Man](https://ja.wikipedia.org/wiki/Snow_Man "wikilink")
       - [D.D.](https://ja.wikipedia.org/wiki/Imitation_Rain/D.D. "wikilink")（作曲/編曲）
-      - Stories（作詞/作曲/編曲）
+      - [Stories](https://ja.wikipedia.org/wiki/KISSIN'MY_LIPS/Stories "wikilink")（作詞/作曲/編曲）
   - [Travis Japan](https://ja.wikipedia.org/wiki/Travis_Japan "wikilink")
       - VOLCANO（共作曲）
 
@@ -201,11 +203,11 @@
 
 　　ジェットコースター
 
-  - 1999.06.01 Mini Album
+  - 1999.06.25 Mini Album
 
 　　Dive into the ELECTRIC JET MACHINE
 
-  - 1999.09.20 Debut Single
+  - 1999.09.22 Debut Single
 
 　　PLAY BACK
 
@@ -237,13 +239,11 @@
 
   - [avex management Creator Division](https://avex-management.jp/artists/creator/CRHIK)
 
-  - [HIKARI OFFICIAL WEB SITE](http://www.tearbridge.com/hikari/)
-
-  - [Works - tearbridge production](http://tearbridge.com/works/management/creator/hikari.html)
+  - [HIKARI | Blue Bird's Nest](https://bluebirdsnest.avex.jp/creator/detail/18/)
 
   - [Qwerty \[-HIKARI@Blogger-](https://hikariqwerty.blogspot.com/) \]
 
   -
-[Category:日本の作詞家](https://ja.wikipedia.org/wiki/Category:日本の作詞家 "wikilink") [Category:日本の作曲家](https://ja.wikipedia.org/wiki/Category:日本の作曲家 "wikilink") [Category:日本の女性歌手](https://ja.wikipedia.org/wiki/Category:日本の女性歌手 "wikilink") [Category:関西大学出身の人物](https://ja.wikipedia.org/wiki/Category:関西大学出身の人物 "wikilink") [Category:1973年生](https://ja.wikipedia.org/wiki/Category:1973年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の作詞家](https://ja.wikipedia.org/wiki/Category:日本の作詞家 "wikilink") [Category:日本の作曲家](https://ja.wikipedia.org/wiki/Category:日本の作曲家 "wikilink") [Category:日本の男性歌手](https://ja.wikipedia.org/wiki/Category:日本の男性歌手 "wikilink") [Category:関西大学出身の人物](https://ja.wikipedia.org/wiki/Category:関西大学出身の人物 "wikilink") [Category:1973年生](https://ja.wikipedia.org/wiki/Category:1973年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.

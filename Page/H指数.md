@@ -20,19 +20,7 @@
 
 ## 高いh指数の研究者
 
-  - [ジョージ M. ホワイトサイズ](https://ja.wikipedia.org/wiki/ジョージ・ホワイトサイズ "wikilink")(George M. Whitesides:有機化学者) h = 163
-
-      - 2011年現在、生存している化学者の中で最も高いh指数を持っている\[2\]。
-
-  - [エドワード・ウィッテン](../Page/エドワード・ウィッテン.md "wikilink")(Edward Witten:物理学者） h = 132
-
-      - 2005年時点の[ノーベル物理学賞](../Page/ノーベル物理学賞.md "wikilink")受賞者のh-indexの平均は41である。
-
-  - (S. H. Snyder:生命科学） h = 191
-
-  - [エンデル・タルヴィング](https://ja.wikipedia.org/wiki/エンデル・タルヴィング "wikilink")(Endel Tulving:心理学者）h = 64
-
-      - アメリカ・[セントルイス・ワシントン大学](../Page/セントルイス・ワシントン大学.md "wikilink")の心理学教授12人のh-indexの平均は28.1である。
+1983 年から 2002 年の間に最も高く引用された科学者について、ハーシュは生命科学分野のトップ 10 を特定した（h が大きい順）。ソロモン・H・スナイダー（191）、[デビッド・ボルティモア](../Page/デビッド・ボルティモア.md "wikilink")（160）、[ロバート・C・ギャロ](https://ja.wikipedia.org/wiki/ロバート・ギャロ "wikilink")（154）、[ピエール・シャンボン](../Page/ピエール・シャンボン.md "wikilink")（153）、[バート・フォーゲルシュタイン](https://ja.wikipedia.org/wiki/バート・フォーゲルシュタイン "wikilink")（151）、サルバドール・モンカダ（143）、チャールズ・A・ディナレロ（138）、[岸本忠三](../Page/岸本忠三.md "wikilink")（134）、[ロナルド・M・エヴァンス](../Page/ロナルド・エヴァンス_\(生物学者\).md "wikilink")（127）、[アクセル・ウルリッヒ](https://ja.wikipedia.org/wiki/アクセル・ウルリッヒ "wikilink")（120）、ラルフ・L・ブリンスター（120）である。2005年の全米科学アカデミーの生物学・生物医学分野の新入会員36名のうち、h指数の中央値は57であった\[2\]。しかし、ハーシュは、hの値は分野によって異なることを指摘している\[3\]。
 
 ## 参照
 
@@ -47,4 +35,5 @@
 [Category:論文](https://ja.wikipedia.org/wiki/Category:論文 "wikilink") [Category:計量書誌学](https://ja.wikipedia.org/wiki/Category:計量書誌学 "wikilink") [Category:研究](https://ja.wikipedia.org/wiki/Category:研究 "wikilink") [Category:学術出版](https://ja.wikipedia.org/wiki/Category:学術出版 "wikilink")
 
 1.
-2.  [chemistryworld](http://www.rsc.org/images/H-index%20ranking%20of%20living%20chemists%28March%202011%29_tcm18-85867.pdf)
+2.
+3.

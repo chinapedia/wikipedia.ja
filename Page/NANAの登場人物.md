@@ -6,7 +6,7 @@ NANAの登場人物（ナナのとうじょうじんぶつ）では、[矢沢あ
 ## 主人公
 
   - 大崎 ナナ（おおさき ナナ）
-    アニメでの[声優](../Page/声優.md "wikilink")：[朴璐美](../Page/朴ロ美.md "wikilink")/アニメでの歌唱役：[土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")/PS2ゲームでの声優：[皆川純子](../Page/皆川純子.md "wikilink")/映画1・2：[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")
+    アニメでの[声優](../Page/声優.md "wikilink")：[朴璐美](https://ja.wikipedia.org/wiki/朴璐美 "wikilink")/アニメでの歌唱役：[土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")/PS2ゲームでの声優：[皆川純子](../Page/皆川純子.md "wikilink")/映画1・2：[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")
 
     [1981年](../Page/1981年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")生まれ。コミック1巻第2話では18歳。2巻から20巻まで20歳。21巻で21歳を迎えた（現在）。[身長](../Page/身長.md "wikilink")：162cm。[体重](../Page/体重.md "wikilink")：43kg。[星座](../Page/星座.md "wikilink")：[魚座](https://ja.wikipedia.org/wiki/魚座 "wikilink")。[血液型](../Page/血液型.md "wikilink")：A型。
 
@@ -26,7 +26,7 @@ NANAの登場人物（ナナのとうじょうじんぶつ）では、[矢沢あ
 
     <hr/>
 
-    アニメでの声優：[KAORI](../Page/KAORI..md "wikilink")/PS2ゲームでの声優：[宍戸留美](../Page/宍戸留美.md "wikilink")/映画1：[宮﨑あおい](https://ja.wikipedia.org/wiki/宮崎あおい "wikilink")/映画2：[市川由衣](https://ja.wikipedia.org/wiki/市川由衣 "wikilink")
+    アニメでの声優：[KAORI](../Page/KAORI..md "wikilink")/PS2ゲームでの声優：[宍戸留美](../Page/宍戸留美.md "wikilink")/映画1：[宮﨑あおい](https://ja.wikipedia.org/wiki/宮﨑あおい "wikilink")/映画2：[市川由衣](https://ja.wikipedia.org/wiki/市川由衣 "wikilink")
 
     [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[11月30日](../Page/11月30日.md "wikilink")生まれ。[旧姓](https://ja.wikipedia.org/wiki/旧姓 "wikilink")は小松（こまつ）。16巻で21歳を迎えた。コミック1巻第1話では18歳（高校3年生）、2巻から16巻まで20歳。身長：158cm、体重：46kg。星座：[射手座](https://ja.wikipedia.org/wiki/射手座 "wikilink")。血液型：B型。
 

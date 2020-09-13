@@ -41,24 +41,24 @@ PJになるためには、PJニュースHP上で登録する必要がある。
 
   - [工藤明子](https://ja.wikipedia.org/wiki/工藤明子_\(フリーライター\) "wikilink") -運営ブログ、[素顔のニューヨーク](http://3644blog.digbook.jp/)
   - [後藤卓也](https://ja.wikipedia.org/wiki/後藤卓也 "wikilink")
-  - [山本宏樹](https://ja.wikipedia.org/wiki/山本宏樹 "wikilink") - 運営HP、[PJ山本の取材日記](https://hy1407.hatenadiary.org/)・[PJ山本の取材アルバム](http://blog.livedoor.jp/hy1407/)
-  - [石川一舟](https://ja.wikipedia.org/wiki/石川一舟 "wikilink") - 運営HP、[一舟　たいした記事じゃないけれど](http://blog.livedoor.jp/ichifune/)
+  - [山本宏樹](https://ja.wikipedia.org/wiki/山本宏樹 "wikilink") - 運営HP、[PJ山本の取材日記](https://hy1407.hatenadiary.org/)・
+  - [石川一舟](https://ja.wikipedia.org/wiki/石川一舟 "wikilink") - 運営HP、
   - [鈴木修司](https://ja.wikipedia.org/wiki/鈴木修司 "wikilink")
   - [穂高健一](https://ja.wikipedia.org/wiki/穂高健一 "wikilink") - 運営HP、[穂高健一ワールド](http://www.hodaka-kenich.com/)
   - [神宮司信也](https://ja.wikipedia.org/wiki/神宮司信也 "wikilink")
 
 ### 有力記者（採用総数200記事以上）
 
-  - [伊藤昭一](https://ja.wikipedia.org/wiki/伊藤昭一 "wikilink") - 運営HP、[暮らしのノートPJ・ITO](http://blog.livedoor.jp/hbk3253/)
+  - [伊藤昭一](https://ja.wikipedia.org/wiki/伊藤昭一 "wikilink") - 運営HP、
   - [常陸薫](https://ja.wikipedia.org/wiki/常陸薫 "wikilink")
   - [崎山勝功](https://ja.wikipedia.org/wiki/崎山勝功 "wikilink")
   - [長戸稔](https://ja.wikipedia.org/wiki/長戸稔 "wikilink")
-  - [池野徹](https://ja.wikipedia.org/wiki/池野徹 "wikilink") - 運営HP、["Creative Eye"](http://blog.livedoor.jp/stone999/)
+  - [池野徹](https://ja.wikipedia.org/wiki/池野徹 "wikilink") - 運営HP、
 
 ### 有力記者（採用総数100記事以上）
 
   - [堀口剛](https://ja.wikipedia.org/wiki/堀口剛 "wikilink") - 運営HP、[PJ堀口剛のライブドア パブリックジャーナリスト宣言](http://web.archive.org/web/20110807153641/http://pj.livedoor.biz/)（2011年8月7日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
-  - [木下博之](https://ja.wikipedia.org/wiki/木下博之 "wikilink") - 運営HP、[PJニュース録](http://blog.livedoor.jp/reyyy/)
+  - [木下博之](https://ja.wikipedia.org/wiki/木下博之 "wikilink") - 運営HP、
   - [平藤清刀](https://ja.wikipedia.org/wiki/平藤清刀 "wikilink")
   - [三國裕史](https://ja.wikipedia.org/wiki/三國裕史 "wikilink")
   - [神田敏晶](../Page/神田敏晶.md "wikilink")
@@ -72,7 +72,7 @@ PJになるためには、PJニュースHP上で登録する必要がある。
   - [野田博明](https://ja.wikipedia.org/wiki/野田博明 "wikilink") - 運営HP、[彦左の正眼！](http://hero1945.livedoor.biz/)
   - [大山啓](https://ja.wikipedia.org/wiki/大山啓 "wikilink")
   - [伊藤公](https://ja.wikipedia.org/wiki/伊藤公 "wikilink")
-  - [徳島達朗](https://ja.wikipedia.org/wiki/徳島達朗 "wikilink") - 運営HP、[雑文亭・tok.](http://tok.blogzine.jp/keizai/)、[PJ徳島のブログ](http://blog.livedoor.jp/xyz722/)
+  - [徳島達朗](https://ja.wikipedia.org/wiki/徳島達朗 "wikilink") - 運営HP、[雑文亭・tok.](http://tok.blogzine.jp/keizai/)、
 
 ## 脚注
 

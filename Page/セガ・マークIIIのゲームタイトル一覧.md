@@ -66,7 +66,7 @@
   - 10月18日 [覇邪の封印](https://ja.wikipedia.org/wiki/覇邪の封印 "wikilink")（セガ、2Mカセット）
   - 10月18日 [麻雀戦国時代](https://ja.wikipedia.org/wiki/麻雀戦国時代 "wikilink")（セガ、1Mカセット）
   - 10月18日 [エイリアンシンドローム](../Page/エイリアンシンドローム.md "wikilink")（セガ、2Mカセット）◎
-  - 10月18日 [Snail Maze](https://ja.wikipedia.org/wiki/Snail_Maze "wikilink") (セガ、マスターシステム BIOSを内蔵)
+  - 10月18日 [Snail Maze](https://ja.wikipedia.org/wiki/Snail_Maze "wikilink")（セガ、マスターシステム BIOSを内蔵）
   - 10月24日 [SDI](../Page/SDI_\(ゲーム\).md "wikilink")（セガ、1Mカセット）◎
   - 11月7日 [ザクソン](https://ja.wikipedia.org/wiki/ザクソン "wikilink")3D（セガ、1Mカセット）◎
   - 11月15日 [アレックスキッド BMXトライアル](https://ja.wikipedia.org/wiki/アレックスキッド_BMXトライアル "wikilink")（セガ、1Mカセット）◎

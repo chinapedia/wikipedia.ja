@@ -32,7 +32,7 @@ DTSSには世界初の[統合開発環境](../Page/統合開発環境.md "wikili
 
 1.
 2.  <http://www.bitsavers.org/pdf/dartmouth/DTSS_descr_Oct64.pdf> | DTSS user manual October 1964
-3.  [Kemeny's Kids](http://web.archive.org/web/20071009062028/http://www.kemenyskids.com/)
+3.  [Kemeny's Kids](https://web.archive.org/web/20071009062028/http://www.kemenyskids.com/)
 4.  <http://dtss.dartmouth.edu/timeline.php> |Dartmouth Time-Sharing System (DTSS) timeline.
 5.  <http://www.bitsavers.org/pdf/dartmouth/The_Dartmouth_Time-Sharing_System_1980.pdf> | Description of DTSS c. 1977
 6.  <http://www.dartmouth.edu/comp/about/archive/history/timeline/1960s.html> | Dartmouth Computing in the 1960s

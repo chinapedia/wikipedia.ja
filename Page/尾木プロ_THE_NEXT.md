@@ -35,10 +35,9 @@
 ### 女性
 
   - [市原ゆりえ](https://ja.wikipedia.org/wiki/市原ゆりえ "wikilink")
-  - [稲瀬葵](https://ja.wikipedia.org/wiki/稲瀬葵 "wikilink")
   - [大崎なつ](https://ja.wikipedia.org/wiki/大崎なつ "wikilink")
   - [尾小平志津香](../Page/尾小平志津香.md "wikilink")
-  - [小田切茜](https://ja.wikipedia.org/wiki/小田切茜 "wikilink")
+  - [小田切茜](../Page/小田切茜.md "wikilink")
   - [笠原弘子](../Page/笠原弘子.md "wikilink")
   - [風間水希](https://ja.wikipedia.org/wiki/風間水希 "wikilink")
   - [門田紗季](https://ja.wikipedia.org/wiki/門田紗季 "wikilink")
@@ -98,6 +97,7 @@
   - [足立かりん](../Page/足立かりん.md "wikilink")
   - [淡路谷慶子](https://ja.wikipedia.org/wiki/淡路谷慶子 "wikilink")（現所属：[キャラ](https://ja.wikipedia.org/wiki/キャラ "wikilink")）
   - [伊石真由](https://ja.wikipedia.org/wiki/伊石真由 "wikilink")
+  - [稲瀬葵](https://ja.wikipedia.org/wiki/稲瀬葵 "wikilink")（現芸名：いなせあおい、フリー）
   - [岩村愛子](../Page/岩村愛子.md "wikilink")
   - [榎あづさ](../Page/榎あづさ.md "wikilink")（現所属：[砂岡事務所](../Page/砂岡事務所.md "wikilink")）
   - [奥山明日香](https://ja.wikipedia.org/wiki/奥山明日香 "wikilink")

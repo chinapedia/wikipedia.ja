@@ -31,7 +31,7 @@
 
 ## ライヴでの演奏
 
-『ART OF LIFE』発売前の[1991年](../Page/1991年.md "wikilink")[12月8日](../Page/12月8日.md "wikilink")にNHKホールで行われた「X with オーケストラ」で、YOSHIKIがソロコーナーで演奏したものが初演となる。この時は中盤のピアノ・ソロ部分のみの演奏であった。その後1992年[7月30日](../Page/7月30日.md "wikilink")に行われた「YOSHIKI TALK LIVE at 日本武道館」で、YOSHIKIがピアノ協奏曲形式としてオーケストラと共演したものが初のフル演奏となった。この演奏は両方とも撮影、録音されていたが、[年現在に至るまで商品化されていない](https://ja.wikipedia.org/wiki/{{CURRENTYEAR}}年 "wikilink")。
+『ART OF LIFE』発売前の[1991年](../Page/1991年.md "wikilink")[12月8日](../Page/12月8日.md "wikilink")にNHKホールで行われた「X with オーケストラ」で、YOSHIKIがソロコーナーで演奏したものが初演となる。この時は中盤のピアノ・ソロ部分のみの演奏であった。その後1992年[7月30日](../Page/7月30日.md "wikilink")に行われた「YOSHIKI TALK LIVE at 日本武道館」で、YOSHIKIがピアノ協奏曲形式としてオーケストラと共演したものが初のフル演奏となった。この演奏は両方とも撮影、録音されていたが、2017年現在に至るまで商品化されていない。
 
 X JAPANとしては1993年[東京ドーム](../Page/東京ドーム.md "wikilink")の「日本直撃カウントダウンX JAPAN Returns」2daysで演奏している。この公演ではYOSHIKIの演奏の提案に当初はメンバーが反対していたものの、後になって逆に演奏意欲が沸いてしまい、ほとんど唐突に演奏が決定したという。メンバー全員が自分たちの楽曲であるにもかかわらず、ライヴの直前まで必死にコピーをしていた。ピアノ・ソロはYOSHIKIのみの演奏のため、後に一番大変なのは言いだした自分だったとYOSHIKI自身も語っている。この曲に限ってはToshlですら恒例の観客への煽りも無く歌唱のみに集中しているほか、他のメンバーも長時間にわたる高速の演奏に集中せねばならないため、「珍しくXのメンバーが動いていない」という印象をYOSHIKIは語っている。この演奏は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月18日](../Page/3月18日.md "wikilink")発売されたライヴ・アルバム『[Art of life live](../Page/Art_of_life_live.md "wikilink")』に収録されたほか、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月29日](../Page/2月29日.md "wikilink")に発売されたDVD『X JAPAN RETURNS 完全版 1993.12.30』『X JAPAN RETURNS 完全版 1993.12.31』にも収録された。YOSHIKIはこのコンサートでの「ART OF LIFE」にはあまりに思い出が多すぎたためにDVD化を躊躇していたことや、HIDEがこの楽曲の演奏に対してのアイディアを出していたことなどを[2003年](../Page/2003年.md "wikilink")に語っていた。
 

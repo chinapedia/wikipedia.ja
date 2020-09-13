@@ -360,4 +360,4 @@ AVCD-23402:CD</p></td>
   - [2BACKKA Official Web Site](http://www.2backka.com/) - 公式サイト
 
   -
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink")
+[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")

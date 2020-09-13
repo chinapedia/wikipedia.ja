@@ -111,7 +111,7 @@ PK-JP360NAN
 
 [200px](https://ja.wikipedia.org/wiki/ファイル:KeioDentetsuBus_J30902.JPG "wikilink") [2007年](../Page/2007年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")に発売開始された[新長期規制](https://ja.wikipedia.org/wiki/新長期規制 "wikilink")適合車。基準に対して[PMの](../Page/粒子状物質.md "wikilink")10％減を達成している。排出ガス規制のため、前の車種から4ヶ月ほどの販売停止を経ての発売開始となった。
 
-この車種から、日産ディーゼル工業と[三菱ふそうトラック・バス](../Page/三菱ふそうトラック・バス.md "wikilink")のバス事業における業務提携が開始された。日産ディーゼル側が設計しているため、[西日本車体工業](../Page/西日本車体工業.md "wikilink")で架装されているが、エンジンに関しては排出ガス後処理装置（再生制御式[DPFなど](../Page/ディーゼル微粒子捕集フィルター.md "wikilink")）を含めて三菱ふそうから供給を受けており、同時期にモデルチェンジされた[スペースランナーRMと同様の](../Page/日産ディーゼル・スペースランナーRM.md "wikilink")6M60（177kW/240PS）エンジンを搭載している。また、この車種は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月31日](../Page/1月31日.md "wikilink")から三菱ふそうに[エアロミディ-SとしてOEM供給されている](https://ja.wikipedia.org/wiki/三菱ふそう・エアロミディMK#エアロミディ-S "wikilink")。
+この車種から、日産ディーゼル工業と[三菱ふそうトラック・バス](../Page/三菱ふそうトラック・バス.md "wikilink")のバス事業における業務提携が開始された。日産ディーゼル側が設計しているため、[西日本車体工業](../Page/西日本車体工業.md "wikilink")で架装されているが、エンジンに関しては排出ガス後処理装置（再生制御式[DPFなど](../Page/ディーゼル微粒子捕集フィルター.md "wikilink")）を含めて三菱ふそうから供給を受けており、同時期にモデルチェンジされた[スペースランナーRMと同様の三菱ふそうの](../Page/日産ディーゼル・スペースランナーRM.md "wikilink")6M60（177kW/240PS）エンジンを搭載している。また、この車種は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月31日](../Page/1月31日.md "wikilink")から三菱ふそうに[エアロミディ-SとしてOEM供給されている](https://ja.wikipedia.org/wiki/三菱ふそう・エアロミディMK#エアロミディ-S "wikilink")。
 
 ホイールベースが前回と同一（5,560mm）\[1\]\[2\]の全長10.5mのN尺車、**PDG-JP820NAN**一種類の発売である。
 

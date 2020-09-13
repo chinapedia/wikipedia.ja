@@ -1,7 +1,7 @@
 > この記事は[長渕剛LIVE\'89](https://ja.wikipedia.org/wiki/長渕剛LIVE\'89)から翻訳されています。
 
 
-『**長渕剛LIVE'89**』（ながぶちつよし・ライブ・はちじゅうきゅう）は日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")である。
+『**長渕剛LIVE'89**』（ながぶちつよし・ライブ・はちじゅうきゅう）は日本の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")である。
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")／エキスプレスよりリリースされた。
 

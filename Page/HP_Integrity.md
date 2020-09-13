@@ -52,7 +52,9 @@
 
 ## 外部リンク
 
-  - [日本HPE - ミッションクリティカルサーバー](http://www.hpe.com/jp/integrity)
+  - [HPE Superdome Flexサーバー](https://www.hpe.com/jp/ja/product-catalog/servers/mission-critical-x86-servers/pip.hpe-superdome-flex-server.1010323140.html)
+  - [HP-UX搭載HPE Integrity](https://www.hpe.com/jp/ja/servers/hp-ux.html#portfolio)
+  - [HPE Superdome Flex (QuickSpecs)](https://h20195.www2.hpe.com/v2/getdocument.aspx?docname=a00026242enw)
 
 [Category:ヒューレット・パッカード・エンタープライズ](https://ja.wikipedia.org/wiki/Category:ヒューレット・パッカード・エンタープライズ "wikilink") [Category:サーバ_(ハードウェア)](https://ja.wikipedia.org/wiki/Category:サーバ_\(ハードウェア\) "wikilink")
 

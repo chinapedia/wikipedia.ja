@@ -23,6 +23,7 @@
   - 2018年2月 - [Steam](../Page/Steam.md "wikilink")での一般向けゲームソフト販売事業参入および翻訳サービス事業の提供開始を発表した\[3\]。2月20日に配信第一弾として、あぶらそば日和の短編ゲーム『Mavi's Journey』が無料で配信された\[4\]。
   - 2018年5月 - Steamで配信するゲームの公募を開始した\[5\]。
   - 2019年1月 - サービス名称が「DLsite.com」から「DLsite」に変更された\[6\]
+  - 2020年6月 - アリスソフトのランス10の中国語版を発売
 
 ## 全年齢
 
@@ -83,6 +84,8 @@
 
 2013年04月09日にオープンした、ブラウザゲームプラットフォーム。2015年05月PC版オープン。
 
+　サービス名をにじゲームに変更
+
 ### 一般ブラウザゲーム
 
 (＊)は18禁要素の入った18禁版も存在する。
@@ -142,6 +145,10 @@
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月にベータ版公開、4月より正式サービス開始。[ブラウザ](https://ja.wikipedia.org/wiki/ブラウザ "wikilink")上で遊べる[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")を自作し、無料または有料（最低価格10円から）で提供することが出来た。2013年12月9日にサービスを終了。
 
+### DLsiteレンタル
+
+2017年4月20日運営開始。PCゲームをレンタル出来た。2019年6月28日にサービスを終了。\[8\]
+
 ## ラジオ
 
   - [DLラジオ](https://ja.wikipedia.org/wiki/DLラジオ "wikilink")
@@ -157,7 +164,7 @@
 ## 外部リンク
 
   - [DLsite.com](https://www.dlsite.com/)
-  - [にじよめ](https://www.nijiyome.jp/)
+  - [にじGAME](https://www.nijiyome.jp/)
 
 [Category:電子商取引サイト](https://ja.wikipedia.org/wiki/Category:電子商取引サイト "wikilink") [Category:アダルトゲームのウェブサイト](https://ja.wikipedia.org/wiki/Category:アダルトゲームのウェブサイト "wikilink") [Category:同人ショップ](https://ja.wikipedia.org/wiki/Category:同人ショップ "wikilink") [Category:コンピュータゲームのダウンロードサービス](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのダウンロードサービス "wikilink") [Category:日本のウェブサイト](https://ja.wikipedia.org/wiki/Category:日本のウェブサイト "wikilink") [Category:1996年開設のウェブサイト](https://ja.wikipedia.org/wiki/Category:1996年開設のウェブサイト "wikilink")
 
@@ -168,3 +175,4 @@
 5.
 6.
 7.  2004年から2011年のリニューアルまでは[ソフ倫審査作品を](../Page/コンピュータソフトウェア倫理機構.md "wikilink")「Pro」、[映像倫](https://ja.wikipedia.org/wiki/映像倫理機構 "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")11月までは[CSA](../Page/コンテンツ・ソフト協同組合.md "wikilink")）作品とアダルトアニメ（審査団体問わず）を「Pro2」に分けていた。
+8.

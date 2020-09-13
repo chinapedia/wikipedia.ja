@@ -266,6 +266,8 @@
 </tbody>
 </table>
 
+ナンバーシリーズの大会名について、ナンバーの前にドット (.) が入る（例 [PRIDE**.**33](../Page/PRIDE.33.md "wikilink")）。欧米での表記ではドットがないこともある（例 [Pride 33](https://ja.wikipedia.org/wiki/:en:Pride_33 "wikilink")）。
+
 ### PRIDE GRANDPRIX
 
 2000年より開始されたシリーズ。階級別のトーナメント方式で王者を決定する。グランプリの試合以外にも、ワンマッチの試合も数多く開催される。

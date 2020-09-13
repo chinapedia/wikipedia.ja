@@ -67,7 +67,7 @@
 
 [en:ASEAN Free Trade Area\#ASEAN Plus Three](https://ja.wikipedia.org/wiki/en:ASEAN_Free_Trade_Area#ASEAN_Plus_Three "wikilink")
 
-[Category:東南アジア諸国連合](https://ja.wikipedia.org/wiki/Category:東南アジア諸国連合 "wikilink") [Category:地域統合](https://ja.wikipedia.org/wiki/Category:地域統合 "wikilink")
+[Category:東南アジア諸国連合](https://ja.wikipedia.org/wiki/Category:東南アジア諸国連合 "wikilink") [Category:地域統合](https://ja.wikipedia.org/wiki/Category:地域統合 "wikilink") [Category:日本の国際関係](https://ja.wikipedia.org/wiki/Category:日本の国際関係 "wikilink") [Category:韓国の国際関係](https://ja.wikipedia.org/wiki/Category:韓国の国際関係 "wikilink") [Category:中華人民共和国の国際関係](https://ja.wikipedia.org/wiki/Category:中華人民共和国の国際関係 "wikilink")
 
 1.
 2.

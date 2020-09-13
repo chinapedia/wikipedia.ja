@@ -12,6 +12,7 @@
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月25日](../Page/8月25日.md "wikilink")（[8月24日](../Page/8月24日.md "wikilink")に[GyaO\!](https://ja.wikipedia.org/wiki/GyaO! "wikilink")で先行公開）から[日清食品](https://ja.wikipedia.org/wiki/日清食品 "wikilink")の『[カップヌードル](../Page/カップヌードル.md "wikilink")』のテレビCMに起用された\[1\]\[2\]。このCMの映像では「HOWEVER」のクリップのサビの部分がそのまま使用されたうえで歌詞が変更され、その歌詞をTERU本人が録音し直した音源が使用され、口元を新しい歌詞に合う様にCG処理したものが放送されている。このCMの放送開始から3日後に[福岡サンパレス](../Page/福岡サンパレス.md "wikilink")で行われたチャリティーライブにTERUが出演し、その際にこのカップヌードルバージョンを披露している。
   - [リズム時計工業](../Page/リズム時計工業.md "wikilink")のからくり時計の内蔵曲では本曲を使用しているものもある。
   - 当時の恋人について唄った楽曲である\[3\]。
+  - ロンドンに滞在中の[SUGIZO](../Page/SUGIZO.md "wikilink")のフラットにTAKUROが一時的に居候していた際に作られた楽曲である。TAKUROと夕飯を食べる約束をしてレコーディングに向かい、一向に帰ってこないSUGIZOを待っている間に作られたもの。また、SUGIZOの「うちの娘を肩車しながら創ったんじゃない？」という発言にTAKUROは同意している。\[4\]
 
 ## 収録曲
 
@@ -19,7 +20,7 @@
 
 1.  **HOWEVER**
       - コーラスはリーダーTAKUROと当時サポートキーボーディストのDIEが担当。HIGHCOMMUNICATIONSツアーで[TERU](../Page/TERU.md "wikilink")が[キーボードによる](../Page/キーボード_\(楽器\).md "wikilink")[弾き語り](../Page/弾き語り.md "wikilink")を披露し、それが後の29thシングル「[時の雫](../Page/時の雫.md "wikilink")」に「HOWEVER (inspired by HIGHCOMMUNICATIONS)」として収録された。この曲で[紅白歌合戦に初出場した](../Page/NHK紅白歌合戦.md "wikilink")。[第56回NHK紅白歌合戦](../Page/第56回NHK紅白歌合戦.md "wikilink")の「[スキウタ〜紅白みんなでアンケート〜](../Page/スキウタ〜紅白みんなでアンケート〜.md "wikilink")」で白組64位を獲得した。
-      - [2018年](../Page/2018年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")、[豊洲PITにて行われた](https://ja.wikipedia.org/wiki/チームスマイル "wikilink")[ウカスカジー](https://ja.wikipedia.org/wiki/ウカスカジー "wikilink")のライブにて、TERUがサプライズゲストとして出演し、この曲をコラボした\[4\]。
+      - [2018年](../Page/2018年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")、[豊洲PITにて行われた](https://ja.wikipedia.org/wiki/チームスマイル "wikilink")[ウカスカジー](https://ja.wikipedia.org/wiki/ウカスカジー "wikilink")のライブにて、TERUがサプライズゲストとして出演し、この曲をコラボした\[5\]。
 2.  **I'm yours**
       - 『[rare collectives vol.1](https://ja.wikipedia.org/wiki/rare_collectives_vol.1 "wikilink")』にてアルバム初収録。『[rare collectives vol.2](https://ja.wikipedia.org/wiki/rare_collectives_vol.2 "wikilink")』には、リミックスバージョン「I'm yours (Knightmare mix'99)」が収録された。
 3.  **HOWEVER (instrumental)**
@@ -75,3 +76,4 @@
 2.  [『カップヌードル』替え歌CM第3弾はGLAY「HOWEVER」](https://www.oricon.co.jp/news/79365/full/)、ORICON NEWS、2010年8月24日 16:30。
 3.
 4.
+5.

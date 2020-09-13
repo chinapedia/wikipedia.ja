@@ -174,8 +174,5 @@
   - [EXIT DS](http://www.exitgame.net/)
       - [カンガエル EXIT](http://www.exitgame.net/exit2/top.html)
   - [SKT](http://www.skt-products.com/) - 体験版制作協力
-  - [Xbox.com - EXIT](http://www.xbox.com/ja-JP/games/e/exitxboxlivearcade/)
-      - [Xbox.com - EXIT2](http://www.xbox.com/ja-JP/games/e/exit2xboxlivearcade/)
-  - [EXIT for Windows](http://www.unbalance.co.jp/kiwameru/exit/)
 
 [Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink") [Category:2007年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2007年のコンピュータゲーム "wikilink") [Category:2008年のパソコンゲーム](https://ja.wikipedia.org/wiki/Category:2008年のパソコンゲーム "wikilink") [Category:タイトーのゲームソフト](https://ja.wikipedia.org/wiki/Category:タイトーのゲームソフト "wikilink") [Category:PlayStation_Portable用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable用ソフト "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:Xbox_Live_Arcade対応ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_Live_Arcade対応ソフト "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:パズルゲーム](https://ja.wikipedia.org/wiki/Category:パズルゲーム "wikilink") [Category:脱出ゲーム](https://ja.wikipedia.org/wiki/Category:脱出ゲーム "wikilink")

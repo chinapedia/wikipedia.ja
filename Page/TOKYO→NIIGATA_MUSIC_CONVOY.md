@@ -1,26 +1,28 @@
 > この記事は[TOKYO→NIIGATA MUSIC CONVOY](https://ja.wikipedia.org/wiki/TOKYO→NIIGATA_MUSIC_CONVOY)から翻訳されています。
 
 
-**TOKYO→NIIGATA MUSIC CONVOY**（とうきょうにいがたミュージックコンボイ）は、[FM PORTで](../Page/新潟県民エフエム放送.md "wikilink")[生放送](../Page/生放送.md "wikilink")されている[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは曜日別](../Page/ラジオパーソナリティ.md "wikilink")。
+**TOKYO→NIIGATA MUSIC CONVOY**（とうきょうにいがたミュージックコンボイ）は、[FM PORTで](../Page/新潟県民エフエム放送.md "wikilink")[生放送](../Page/生放送.md "wikilink")されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは曜日別](../Page/ラジオパーソナリティ.md "wikilink")。
 
 ## 概要
 
-曜日別パーソナリティが、[リスナー](../Page/リスナー.md "wikilink")からの[FAXや](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")[e-mailを紹介してトークを展開していく](../Page/電子メール.md "wikilink")。
+曜日別パーソナリティが、[リスナー](../Page/リスナー.md "wikilink")からの[FAXや](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")[e-mailを紹介してトークを展開していた](../Page/電子メール.md "wikilink")。
 
 [東京都](../Page/東京都.md "wikilink")内にあるスタジオから[新潟県](../Page/新潟県.md "wikilink")に向けて放送されていることから番組名は「TOKYO」と「NIIGATA」の両方を称している。
 
-この番組を始めとする東京発（都内にある制作会社のスタジオ。番組内での呼称は「中目黒GOGOスタジオ」。後に「赤坂レクシムスタジオ」）の番組はFM PORTが開局以来貫いてきた原則新潟制作の方針を大きく転換するものであり、その点についてはリスナーの賛否が分かれる。なお、東京都内のスタジオで製作する手法は同じく独立FM局の[NACK5や](../Page/エフエムナックファイブ.md "wikilink")[FM-FUJIでもみられるが](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")、FM PORTは首都圏での聴取が基本的にはできない点が前述の2局と大きく異なる。
+この番組を始めとする東京発（都内にある制作会社のスタジオ。番組内での呼称は「中目黒GOGOスタジオ」。後に「赤坂レクシムスタジオ」）の番組はFM PORTが開局以来貫いてきた原則新潟制作の方針を大きく転換するものであり、その点についてはリスナーの賛否が分かれる。なお、東京都内のスタジオで製作する手法は同じく独立FM局の[NACK5や](../Page/エフエムナックファイブ.md "wikilink")[FM-FUJIでもみられるが](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")、FM PORTは首都圏で地上波による聴取ができない点\[1\]が前述の2局と大きく異なる。
+
+FM PORTの閉局に伴い、2020年6月29日の放送をもって終了した\[2\]。
 
 ## ナビゲーター（パーソナリティ）
 
-2019年10月現在。
+放送終了時点
 
   - 月曜 -
 
 <!-- end list -->
 
   -
-    [ゴホウビ](../Page/ゴホウビ.md "wikilink")（2019年4月〜）
+    [ゴホウビ](../Page/ゴホウビ.md "wikilink")（2019年4月 - 2020年6月）
 
 <!-- end list -->
 
@@ -29,7 +31,7 @@
 <!-- end list -->
 
   -
-    [saji](https://ja.wikipedia.org/wiki/saji-サジ- "wikilink")（2019年10月〜）
+    [saji](https://ja.wikipedia.org/wiki/saji-サジ- "wikilink")（2019年10月 - 2020年6月）
 
 <!-- end list -->
 
@@ -38,7 +40,7 @@
 <!-- end list -->
 
   -
-    [GOODWARP](https://ja.wikipedia.org/wiki/GOODWARP "wikilink")（2017年1月〜）
+    [GOODWARP](https://ja.wikipedia.org/wiki/GOODWARP "wikilink")（2017年1月 - 2020年6月）
 
 <!-- end list -->
 
@@ -47,7 +49,7 @@
 <!-- end list -->
 
   -
-    [THE PINBALLS](https://ja.wikipedia.org/wiki/THE_PINBALLS "wikilink")（2019年4月〜）
+    [THE PINBALLS](https://ja.wikipedia.org/wiki/THE_PINBALLS "wikilink")（2019年4月 - 2020年6月）
 
 ## 過去のナビゲーター（パーソナリティ）
 
@@ -59,19 +61,15 @@
   - [ChiE](https://ja.wikipedia.org/wiki/Foxxi_misQ#CHiE "wikilink")（2010年10月〜2012年3月）
   - [mini](https://ja.wikipedia.org/wiki/Mini_\(モデル\) "wikilink")（2012年4月〜2012年9月）
   - [N.O.B.U\!\!\!](https://ja.wikipedia.org/wiki/N.O.B.U!!! "wikilink")（2012年10月〜2013年9月30日）
-  - [上村昌也](https://ja.wikipedia.org/wiki/上村昌也 "wikilink")（2013年10月〜2015年3月、2015年4月10日\[1\]）
-  - [Cyntia](https://ja.wikipedia.org/wiki/Cyntia "wikilink")（2015年4月\[2\]〜2016年6月）
-  - [Le Lien](https://ja.wikipedia.org/wiki/Le_Lien "wikilink")（2016年7月\[3\]〜12月）
-  - [cinema staff](https://ja.wikipedia.org/wiki/cinema_staff "wikilink")（2017年1月\[4\]〜9月\[5\]）
+  - [上村昌也](https://ja.wikipedia.org/wiki/上村昌也 "wikilink")（2013年10月〜2015年3月、2015年4月10日\[3\]）
+  - [Cyntia](https://ja.wikipedia.org/wiki/Cyntia "wikilink")（2015年4月\[4\]〜2016年6月）
+  - [Le Lien](https://ja.wikipedia.org/wiki/Le_Lien "wikilink")（2016年7月\[5\]〜12月）
+  - [cinema staff](https://ja.wikipedia.org/wiki/cinema_staff "wikilink")（2017年1月\[6\]〜9月\[7\]）
   - [phatmans after school](https://ja.wikipedia.org/wiki/saji-サジ- "wikilink")（2017年10月〜2019年3月）
 
 ### 火曜
 
   - **MONTHLY TUESDAY**（2005年10月～2007年3月）
-
-<!-- end list -->
-
-  -
     声優やアニメ・特撮に関わりの深いミュージシャンを起用していた。
       - [後藤沙緒里](../Page/後藤沙緒里.md "wikilink")（2005年10月）
       - [鹿野優以](../Page/鹿野優以.md "wikilink")（2005年11月）
@@ -91,9 +89,6 @@
       - [サイキックラバー](../Page/サイキックラバー.md "wikilink")（2007年1月）
       - [三宅華也](../Page/三宅華也.md "wikilink")（2007年2月）
       - 赤松芳朋（[SOPHIA](../Page/SOPHIA.md "wikilink")）、[菊池志穂](../Page/菊池志穂.md "wikilink")（2007年3月）
-
-<!-- end list -->
-
   - [青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")（2007年4月〜2008年3月）
   - [FROM CRESCENT](https://ja.wikipedia.org/wiki/FROM_CRESCENT "wikilink")（2008年4月〜2012年12月）
   - [葵](https://ja.wikipedia.org/wiki/葵_\(歌手\) "wikilink")（2013年1月〜2015年3月）
@@ -135,8 +130,8 @@
   - [小桃音まい](https://ja.wikipedia.org/wiki/小桃音まい "wikilink")（2013年4月〜2014年3月）
   - [WHY@DOLL](https://ja.wikipedia.org/wiki/WHY@DOLL "wikilink")（2014年4月〜2015年3月）
   - [BRADIO](https://ja.wikipedia.org/wiki/BRADIO "wikilink")（2015年4月〜9月）
-  - [HaKU](https://ja.wikipedia.org/wiki/HaKU "wikilink")（2015年10月\[6\]〜2016年6月）
-  - [ザ・なつやすみバンド](https://ja.wikipedia.org/wiki/ザ・なつやすみバンド "wikilink")（2016年7月\[7\]〜2017年6月\[8\]）
+  - [HaKU](https://ja.wikipedia.org/wiki/HaKU "wikilink")（2015年10月\[8\]〜2016年6月）
+  - [ザ・なつやすみバンド](https://ja.wikipedia.org/wiki/ザ・なつやすみバンド "wikilink")（2016年7月\[9\]〜2017年6月\[10\]）
   - [sui sui duck](https://ja.wikipedia.org/wiki/sui_sui_duck "wikilink")（2017年7月〜2019年3月）
 
 ## 過去の曜日別コーナー
@@ -386,11 +381,13 @@
 
 [Category:FM_PORTの番組](https://ja.wikipedia.org/wiki/Category:FM_PORTの番組 "wikilink") [Category:アニラジ](https://ja.wikipedia.org/wiki/Category:アニラジ "wikilink") [Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink")
 
-1.  最後の担当である2015年3月30日の放送が機材トラブルにより放送されなかった事による振り替えとして「[MUSIC CONVOY SPECIAL 上村昌也 LAST NIGHT](http://www.fmport.com/program/index.html?key=be3d78f1743a4168818aa1934039d896)」という番組名で20:00 - 22:00に放送されたため。
-2.
-3.
+1.  ただし、[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")の有料サービスを利用すれば日本国内であれば地域を問わず聴取可能である。
+2.  閉局当日の6月30日は特別番組放送のため、前日をもって終了した。
+3.  最後の担当である2015年3月30日の放送が機材トラブルにより放送されなかった事による振り替えとして「[MUSIC CONVOY SPECIAL 上村昌也 LAST NIGHT](http://www.fmport.com/program/index.html?key=be3d78f1743a4168818aa1934039d896)」という番組名で20:00 - 22:00に放送されたため。
 4.
 5.
 6.
 7.
 8.
+9.
+10.

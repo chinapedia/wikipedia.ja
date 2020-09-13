@@ -5,7 +5,7 @@
 
 ## 歴史
 
-1980年代に、高いコストパフォーマンスによって[ミニコンピュータ](../Page/ミニコンピュータ.md "wikilink")を置換え、さらに「オフィスや開発現場において、一人一台」を実現し、隆盛を誇ったワークステーションは、その多くが第一のOSとして[UNIX](../Page/UNIX.md "wikilink")を採用していた。[NECの](../Page/日本電気.md "wikilink")[EWS4800](../Page/EWS4800.md "wikilink")もその例に漏れず、[SysVベースのEWS](../Page/UNIX_System_V.md "wikilink")-UXが用意された。1993年頃までトップシェアを誇っていた2次元CADソフトのCAE-2D/MA\[E\]及び、[SX-OS](https://ja.wikipedia.org/wiki/SX-OS "wikilink")（[ACOS](https://ja.wikipedia.org/wiki/ACOS "wikilink")4改造版）から移植した3次元CADソフトのCAE-3D/MA\[E\]及び、地図管理ソフトMAPVIEWをメインにシェアを伸ばしていた。
+1980年代に、高いコストパフォーマンスによって[ミニコンピュータ](../Page/ミニコンピュータ.md "wikilink")を置換え、さらに「オフィスや開発現場において、一人一台」を実現し、隆盛を誇ったワークステーションは、その多くが第一のOSとして[UNIX](../Page/UNIX.md "wikilink")を採用していた。[NECの](../Page/日本電気.md "wikilink")[EWS4800](../Page/EWS4800.md "wikilink")もその例に漏れず、[SysVベースのEWS](../Page/UNIX_System_V.md "wikilink")-UXが用意された。1993年頃までトップシェアを誇っていた2次元CADソフトのCAE-2D/MA\[E\]及び、[SX-OS](https://ja.wikipedia.org/wiki/SX-OS "wikilink")（[ACOS-4](../Page/ACOS-4.md "wikilink")改造版）から移植した3次元CADソフトのCAE-3D/MA\[E\]及び、地図管理ソフトMAPVIEWをメインにシェアを伸ばしていた。
 
 [古舘伊知郎](../Page/古舘伊知郎.md "wikilink")による「四方八方、4800シリーズ」などの[コマーシャルもあり](../Page/コマーシャルメッセージ.md "wikilink")、[郵政省](../Page/郵政省.md "wikilink")や[通商産業省などの主要](../Page/経済産業省.md "wikilink")[官庁](../Page/官庁.md "wikilink")系システムにも採用され、「NECのオープン化の旗印」とされた。またハードウェア側でCPUを当初の[68000から](../Page/MC68000.md "wikilink")[MIPSに移行した後は](../Page/MIPSアーキテクチャ.md "wikilink")、同様にMIPSを採用した[Sony及び](../Page/ソニー.md "wikilink")[住友電工](https://ja.wikipedia.org/wiki/住友電工 "wikilink")、[DECとバイナリ互換のアライアンスを結んだが](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")、その後すぐ自社開発ベースのAlphaに切り換えたDECは脱退した。
 

@@ -451,7 +451,7 @@
       - [カードGメン・小早川茜7](https://www.tbs.co.jp/tbs-ch/item/d1265/)
       - [カードGメン・小早川茜8](https://www.tbs.co.jp/tbs-ch/item/d1266/)
 
-[Category:月曜ドラマスペシャルのシリーズ](https://ja.wikipedia.org/wiki/Category:月曜ドラマスペシャルのシリーズ "wikilink") [Category:月曜ミステリー劇場](https://ja.wikipedia.org/wiki/Category:月曜ミステリー劇場 "wikilink") [Category:片平なぎさ](https://ja.wikipedia.org/wiki/Category:片平なぎさ "wikilink")
+[Category:月曜ドラマスペシャルのシリーズ](https://ja.wikipedia.org/wiki/Category:月曜ドラマスペシャルのシリーズ "wikilink") [Category:月曜ミステリー劇場](https://ja.wikipedia.org/wiki/Category:月曜ミステリー劇場 "wikilink") [Category:片平なぎさ](https://ja.wikipedia.org/wiki/Category:片平なぎさ "wikilink") [Category:カードを題材とした作品](https://ja.wikipedia.org/wiki/Category:カードを題材とした作品 "wikilink")
 
 1.
 2.  [プロフィール](https://web.archive.org/web/20180204071841/http://birroren.com/birroren-units/asako-sonoyama-profile/) - Birroren（アーカイブ）

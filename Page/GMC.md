@@ -5,7 +5,7 @@
 
 ## 概要
 
-かつては[消防車](https://ja.wikipedia.org/wiki/消防車 "wikilink")、[救急車](../Page/救急車.md "wikilink")、大型[トラック](../Page/貨物自動車.md "wikilink")、[バス](../Page/バス_\(交通機関\).md "wikilink")、[軍用車両](../Page/軍用車両.md "wikilink")、[キャンピングカー](../Page/キャンピングカー.md "wikilink")も製造していたが、現在はSUV、ピックアップトラック、[バン](../Page/ライトバン.md "wikilink")、ライトデューティートラック、ミディアムデューティートラックのみを製造している。[セダン](../Page/セダン.md "wikilink")や[クーペ](../Page/クーペ.md "wikilink")などの一般的な[普通乗用車](https://ja.wikipedia.org/wiki/普通乗用車 "wikilink")は扱っていないが、それらの車種を扱う[ビュイック](../Page/ビュイック.md "wikilink")や[ポンティアック](../Page/ポンティアック.md "wikilink")（2010年廃止）とは販売網が統合されている。
+かつては[消防車](https://ja.wikipedia.org/wiki/消防車 "wikilink")、[救急車](../Page/救急車.md "wikilink")、大型[トラック](../Page/貨物自動車.md "wikilink")、[バス](../Page/バス_\(交通機関\).md "wikilink")、[軍用車両](../Page/軍用車両.md "wikilink")、[キャンピングカー](../Page/キャンピングカー.md "wikilink")も製造していたが、現在はSUV、ピックアップトラック、[バン](https://ja.wikipedia.org/wiki/バン_\(自動車\) "wikilink")、[ライトデューティートラック](https://ja.wikipedia.org/wiki/ライトトラック "wikilink")、ミディアムデューティートラックのみを製造している。[セダン](../Page/セダン.md "wikilink")や[クーペ](../Page/クーペ.md "wikilink")などの一般的な[普通乗用車](https://ja.wikipedia.org/wiki/普通乗用車 "wikilink")は扱っていないが、それらの車種を扱う[ビュイック](../Page/ビュイック.md "wikilink")や[ポンティアック](../Page/ポンティアック.md "wikilink")（2010年廃止）とは販売網が統合されている。
 
 ほとんどの車種は[シボレー](../Page/シボレー.md "wikilink")の[バッジエンジニアリング](https://ja.wikipedia.org/wiki/バッジエンジニアリング "wikilink")車である。最大の相違点は車体正面に付けられた赤色（それ以外の色もある）の「GMC」[バッジ](../Page/バッジ.md "wikilink")だが、豊富な標準装備やオプションを取り揃えて差別化を図ることも多い。特に[高級仕様である](../Page/高級車.md "wikilink")「デナリ」の設定はシボレーにないGMCの大きな特徴である。このデナリグレードは、トレードマークとなるハニカムグリル、専用バンパー、サイドの「デナリ」エンブレム、大径アルミホイール、さまざまなクロームのアクセントなどで外観のアップグレードを図り、内装では本革や木目調部材を使用し、ステアリングホイールには「デナリ」ロゴが入るほか、さまざまな快適装備が標準で用意される。そして価格もノーマルモデルと比較して大幅に引き上げられている。日本では一時期[アストロの姉妹車である](../Page/シボレー・アストロ.md "wikilink")[サファリが一部のユーザーに人気となった](https://ja.wikipedia.org/wiki/GMC・サファリ "wikilink")｡
 
@@ -113,7 +113,7 @@ TDH 5301（1960-1962年） Image:GMC-Syclone.jpg|GMC・サイクロン（1991年
   - [GMC公式サイト](http://www.gmc.com/)
   - [GMCアラビア](http://www.gmcarabia.com/)
 
-[Category:ゼネラルモーターズ](https://ja.wikipedia.org/wiki/Category:ゼネラルモーターズ "wikilink") [Category:アメリカ合衆国の自動車メーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の自動車メーカー・ブランド "wikilink") [Category:貨物自動車メーカー](https://ja.wikipedia.org/wiki/Category:貨物自動車メーカー "wikilink")
+[Category:ゼネラルモーターズ](https://ja.wikipedia.org/wiki/Category:ゼネラルモーターズ "wikilink") [Category:アメリカ合衆国の自動車メーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の自動車メーカー・ブランド "wikilink") [Category:アメリカ合衆国の貨物自動車メーカー](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の貨物自動車メーカー "wikilink")
 
 1.
 2.

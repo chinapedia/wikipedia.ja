@@ -36,6 +36,6 @@
 
   - シングルCDとしての発売はなく、2006年12月20日発売のアルバム『[プッチベスト7](https://ja.wikipedia.org/wiki/プッチベスト#プッチベスト7 "wikilink")』に収録。
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:WaT](https://ja.wikipedia.org/wiki/Category:WaT "wikilink") [Category:バレーボール世界選手権](https://ja.wikipedia.org/wiki/Category:バレーボール世界選手権 "wikilink")
+[Category:ハロー\!プロジェクトのポップ・グループ](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクトのポップ・グループ "wikilink") [Category:WaT](https://ja.wikipedia.org/wiki/Category:WaT "wikilink") [Category:バレーボール世界選手権](https://ja.wikipedia.org/wiki/Category:バレーボール世界選手権 "wikilink")
 
 [Category:ハロー\!プロジェクトのユニット](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクトのユニット "wikilink")

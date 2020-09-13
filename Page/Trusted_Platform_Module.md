@@ -1,7 +1,7 @@
 > この記事は[Trusted Platform Module](https://ja.wikipedia.org/wiki/Trusted_Platform_Module)から翻訳されています。
 
 
-**Trusted Platform Module** (TPM) とは、コンピュータにおいて、セキュリティに関する各種機能を備えたデバイスもしくはチップであり、国際標準規格（[ISO/IEC](https://ja.wikipedia.org/wiki/ISO/IEC "wikilink") 11889）のに則ったもの\[1\]\[2\]。主に専用チップとして実装されたディスクリートTPMと、CPU内部のセキュリティ領域で実行されるファームウェアTPMがある\[3\]。
+**Trusted Platform Module** (TPM) とは、コンピュータのマザーボードに直付けされているセキュリティに関する各種機能を備えたデバイスもしくはチップで、暗号化/複合や鍵ペアの生成、ハッシュ値の計算、デジタル署名の生成・検証などの機能を有する。国際標準規格（[ISO/IEC](https://ja.wikipedia.org/wiki/ISO/IEC "wikilink") 11889）に則っている\[1\]\[2\]。主に専用チップとして実装されたディスクリートTPMと、CPU内部のセキュリティ領域で実行されるファームウェアTPMがある\[3\]。
 
 ## 概要
 

@@ -99,7 +99,7 @@
 
 ### 毎日、賢く健康に DHAの健康パワー
 
-内容は『**DHA\&EPA+セサミンE**』の紹介で、愛飲者である青森大学教授の[見城美枝子](../Page/見城美枝子.md "wikilink")や声優（「[タッチ](../Page/タッチ_\(漫画\).md "wikilink")」の[浅倉南](../Page/浅倉南.md "wikilink")役）の[日高のり子](../Page/日高のり子.md "wikilink")が出演し、主婦としての健康の秘訣を語る。
+内容は『**DHA\&EPA+セサミンE**』の紹介で、愛飲者である青森大学教授の[見城美枝子](../Page/見城美枝子.md "wikilink")や声優（「[タッチ](../Page/タッチ_\(漫画\).md "wikilink")」の[浅倉南](../Page/浅倉南.md "wikilink")役）の[日髙のり子](https://ja.wikipedia.org/wiki/日髙のり子 "wikilink")が出演し、主婦としての健康の秘訣を語る。
 
 ### 私がDHAを必要とする理由
 

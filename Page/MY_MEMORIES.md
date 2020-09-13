@@ -34,26 +34,26 @@
 
 ### DISC-2：SonyMusic
 
-|    |                                                                           |                                                                                      |             |                |
-| -- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----------- | -------------- |
-| 曲順 | タイトル                                                                      | アーティスト                                                                               | 発売日         | レーベル           |
-| 01 | [ロンリー・チャップリン](https://ja.wikipedia.org/wiki/ロンリー・チャップリン "wikilink")       | [鈴木聖美 with Rats\&Star](https://ja.wikipedia.org/wiki/鈴木聖美_with_Rats&Star "wikilink") | 1987年7月1日   | EPIC Records   |
-| 02 | [木綿のハンカチーフ](../Page/木綿のハンカチーフ.md "wikilink")                              | [太田裕美](../Page/太田裕美.md "wikilink")                                                   | 1975年12月21日 | Sony Records   |
-| 03 | [やさしい悪魔](../Page/やさしい悪魔.md "wikilink")                                    | [キャンディーズ](../Page/キャンディーズ.md "wikilink")                                             | 1977年3月1日   |                |
-| 04 | [雨音はショパンの調べ](https://ja.wikipedia.org/wiki/雨音はショパンの調べ "wikilink")         | [小林麻美](../Page/小林麻美.md "wikilink")                                                   | 1984年4月21日  |                |
-| 05 | [SWEET MEMORIES](https://ja.wikipedia.org/wiki/SWEET_MEMORIES "wikilink") | [松田聖子](../Page/松田聖子.md "wikilink")                                                   | 1983年8月1日   |                |
-| 06 | [天国にいちばん近い島](../Page/天国にいちばん近い島_\(曲\).md "wikilink")                      | [原田知世](https://ja.wikipedia.org/wiki/原田知世 "wikilink")                                | 1984年10月10日 |                |
-| 07 | [ガラス越しに消えた夏](https://ja.wikipedia.org/wiki/ガラス越しに消えた夏 "wikilink")         | [鈴木雅之](../Page/鈴木雅之_\(歌手\).md "wikilink")                                            | 1986年2月26日  | EPIC Records   |
-| 08 | [Hold On Me](https://ja.wikipedia.org/wiki/Hold_On_Me "wikilink")         | [小比類巻かほる](../Page/小比類巻かほる.md "wikilink")                                             | 1987年2月26日  |                |
-| 09 | [異邦人](https://ja.wikipedia.org/wiki/異邦人_\(久保田早紀の曲\) "wikilink")           | [久保田早紀](https://ja.wikipedia.org/wiki/久保田早紀 "wikilink")                              | 1979年9月21日  | Sony Records   |
-| 10 | [ありがとう](https://ja.wikipedia.org/wiki/ありがとう_\(大江千里の曲\) "wikilink")        | [大江千里](../Page/大江千里_\(アーティスト\).md "wikilink")                                        | 1992年11月6日  | EPIC Records   |
-| 11 | [優しい雨](https://ja.wikipedia.org/wiki/ラジオのように "wikilink")                  | [鈴木祥子](../Page/鈴木祥子.md "wikilink")                                                   | 1993年10月21日 |                |
-| 12 | [24時間の神話](https://ja.wikipedia.org/wiki/24時間の神話 "wikilink")               | [VOICE](https://ja.wikipedia.org/wiki/VOICE_\(ユニット\) "wikilink")                     | 1993年7月28日  | Sony Records   |
-| 13 | [冬のファンタジー](https://ja.wikipedia.org/wiki/冬のファンタジー "wikilink")             | [カズン](../Page/カズン_\(歌手グループ\).md "wikilink")                                          | 1995年10月16日 | Ki/oon Records |
-| 14 | [Get Wild](../Page/Get_Wild.md "wikilink")                                | [TM NETWORK](../Page/TM_NETWORK.md "wikilink")                                       | 1987年4月8日   | EPIC Records   |
-| 15 | [瑠璃色の地球](../Page/瑠璃色の地球.md "wikilink")                                    | [松田聖子](../Page/松田聖子.md "wikilink")                                                   | 1987年       | Sony Records   |
-| 16 | [ENDLESS RAIN](../Page/ENDLESS_RAIN.md "wikilink")                        | [X](../Page/X_JAPAN.md "wikilink")                                                   | 1989年12月1日  | Sony Records   |
-|    |                                                                           |                                                                                      |             |                |
+|    |                                                                                  |                                                                                      |             |                |
+| -- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----------- | -------------- |
+| 曲順 | タイトル                                                                             | アーティスト                                                                               | 発売日         | レーベル           |
+| 01 | [ロンリー・チャップリン](https://ja.wikipedia.org/wiki/ロンリー・チャップリン "wikilink")              | [鈴木聖美 with Rats\&Star](https://ja.wikipedia.org/wiki/鈴木聖美_with_Rats&Star "wikilink") | 1987年7月1日   | EPIC Records   |
+| 02 | [木綿のハンカチーフ](../Page/木綿のハンカチーフ.md "wikilink")                                     | [太田裕美](../Page/太田裕美.md "wikilink")                                                   | 1975年12月21日 | Sony Records   |
+| 03 | [やさしい悪魔](../Page/やさしい悪魔.md "wikilink")                                           | [キャンディーズ](../Page/キャンディーズ.md "wikilink")                                             | 1977年3月1日   |                |
+| 04 | [雨音はショパンの調べ](https://ja.wikipedia.org/wiki/雨音はショパンの調べ "wikilink")                | [小林麻美](../Page/小林麻美.md "wikilink")                                                   | 1984年4月21日  |                |
+| 05 | [SWEET MEMORIES](https://ja.wikipedia.org/wiki/ガラスの林檎/SWEET_MEMORIES "wikilink") | [松田聖子](../Page/松田聖子.md "wikilink")                                                   | 1983年8月1日   |                |
+| 06 | [天国にいちばん近い島](../Page/天国にいちばん近い島_\(曲\).md "wikilink")                             | [原田知世](https://ja.wikipedia.org/wiki/原田知世 "wikilink")                                | 1984年10月10日 |                |
+| 07 | [ガラス越しに消えた夏](https://ja.wikipedia.org/wiki/ガラス越しに消えた夏 "wikilink")                | [鈴木雅之](../Page/鈴木雅之_\(歌手\).md "wikilink")                                            | 1986年2月26日  | EPIC Records   |
+| 08 | [Hold On Me](https://ja.wikipedia.org/wiki/Hold_On_Me "wikilink")                | [小比類巻かほる](../Page/小比類巻かほる.md "wikilink")                                             | 1987年2月26日  |                |
+| 09 | [異邦人](../Page/異邦人_-シルクロードのテーマ-.md "wikilink")                                    | [久保田早紀](https://ja.wikipedia.org/wiki/久保田早紀 "wikilink")                              | 1979年9月21日  | Sony Records   |
+| 10 | [ありがとう](https://ja.wikipedia.org/wiki/ありがとう_\(大江千里の曲\) "wikilink")               | [大江千里](../Page/大江千里_\(アーティスト\).md "wikilink")                                        | 1992年11月6日  | EPIC Records   |
+| 11 | [優しい雨](https://ja.wikipedia.org/wiki/ラジオのように "wikilink")                         | [鈴木祥子](../Page/鈴木祥子.md "wikilink")                                                   | 1993年10月21日 |                |
+| 12 | [24時間の神話](https://ja.wikipedia.org/wiki/24時間の神話 "wikilink")                      | [VOICE](https://ja.wikipedia.org/wiki/VOICE_\(ユニット\) "wikilink")                     | 1993年7月28日  | Sony Records   |
+| 13 | [冬のファンタジー](https://ja.wikipedia.org/wiki/冬のファンタジー "wikilink")                    | [カズン](../Page/カズン_\(歌手グループ\).md "wikilink")                                          | 1995年10月16日 | Ki/oon Records |
+| 14 | [Get Wild](../Page/Get_Wild.md "wikilink")                                       | [TM NETWORK](../Page/TM_NETWORK.md "wikilink")                                       | 1987年4月8日   | EPIC Records   |
+| 15 | [瑠璃色の地球](../Page/瑠璃色の地球.md "wikilink")                                           | [松田聖子](../Page/松田聖子.md "wikilink")                                                   | 1987年       | Sony Records   |
+| 16 | [ENDLESS RAIN](../Page/ENDLESS_RAIN.md "wikilink")                               | [X](../Page/X_JAPAN.md "wikilink")                                                   | 1989年12月1日  | Sony Records   |
+|    |                                                                                  |                                                                                      |             |                |
 
 ### DISC-3：UNIVERSAL MUSIC
 

@@ -1,17 +1,17 @@
 > この記事は[DECT](https://ja.wikipedia.org/wiki/DECT)から翻訳されています。
 
 
-[200px](https://ja.wikipedia.org/wiki/ファイル:Радиотелефон.jpg "wikilink") **DECT**（）とは、[欧州電気通信標準化機構](../Page/欧州電気通信標準化機構.md "wikilink")（）が1988年に策定した[デジタルコードレス電話規格である](https://ja.wikipedia.org/wiki/コードレス電話#デジタルコードレス電話 "wikilink")。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Радиотелефон.jpg "wikilink") **DECT**（）とは、[欧州電気通信標準化機構](../Page/欧州電気通信標準化機構.md "wikilink")（）が1988年に策定した[デジタルコードレス電話規格である](https://ja.wikipedia.org/wiki/コードレス電話#デジタルコードレス電話 "wikilink")。
 
 ## 概要
 
-規格はデジタルコードレス電話向けに開発されたが、[IMT-2000](https://ja.wikipedia.org/wiki/IMT-2000 "wikilink")の要求事項をも満たすため、国際的には[携帯電話](../Page/携帯電話.md "wikilink")の技術的条件の一種である（IMT-FT）。
+規格はデジタルコードレス電話向けに開発されたが、[IMT-2000](https://ja.wikipedia.org/wiki/IMT-2000 "wikilink")の要求事項をも満たすため、国際的には[携帯電話](../Page/携帯電話.md "wikilink")の技術的条件の一種である (IMT-FT)。
 
 [欧州](../Page/ヨーロッパ.md "wikilink")・[オーストラリア](../Page/オーストラリア.md "wikilink")・[南米](../Page/南アメリカ.md "wikilink")・[アジア](../Page/アジア.md "wikilink")諸国で使用されている。
 
-日本では、2010年（平成22年）10月26日に[総務](../Page/総務省.md "wikilink")[省令](../Page/省令.md "wikilink")のデジタルコードレス電話の[無線局](https://ja.wikipedia.org/wiki/無線局 "wikilink")の技術基準が改正\[1\]\[2\]され、技術的条件の[告示](../Page/告示.md "wikilink")が制定\[3\]された。また、2011年（平成23年）3月に[電波産業会](../Page/電波産業会.md "wikilink")（ARIB）も標準規格\[4\]を策定した。
+日本では、2010年（平成22年）10月26日に[総務](../Page/総務省.md "wikilink")[省令](../Page/省令.md "wikilink")のデジタルコードレス電話の[無線局](https://ja.wikipedia.org/wiki/無線局 "wikilink")の技術基準が改正\[1\]\[2\]され、技術的条件の[告示](../Page/告示.md "wikilink")が制定\[3\]された。また、2011年（平成23年）3月に[電波産業会](../Page/電波産業会.md "wikilink") (ARIB) も標準規格\[4\]を策定した。
 
-日本国内での発音は「デクト」。[無線LAN](../Page/無線LAN.md "wikilink")（[Wi-Fi](../Page/Wi-Fi.md "wikilink")）使用周波数である2.4GHz帯（[ISMバンド](../Page/ISMバンド.md "wikilink")）と被らないため、[混信](../Page/混信.md "wikilink")の影響が少ない特徴を持つ。
+日本国内での発音は「デクト」。[無線LAN](../Page/無線LAN.md "wikilink") ([Wi-Fi](../Page/Wi-Fi.md "wikilink")) 使用周波数である2.4GHz帯（[ISMバンド](../Page/ISMバンド.md "wikilink")）と被らないため、[混信](../Page/混信.md "wikilink")の影響が少ない特徴を持つ。
 
 ## 用途
 
@@ -25,7 +25,7 @@
 
 ## 次世代DECT
 
-次世代DECTとも呼ばれる[CAT-iq](https://ja.wikipedia.org/wiki/:en:CAT-iq "wikilink")（）は、自営通信（家庭、事業所など）向けに高品質音声 （[VoIP](../Page/VoIP.md "wikilink")）やインターネットとの接続性を提供する。ブロードバンド回線に接続された[ホームゲートウェイ](https://ja.wikipedia.org/wiki/ホームゲートウェイ "wikilink")等を親機とする。これまでコードレス電話市場にて培われた低コスト性、低消費電力性からセンサーネットワークに向けた仕様の制定も進行している。
+次世代DECTとも呼ばれる[CAT-iq](https://ja.wikipedia.org/wiki/:en:CAT-iq "wikilink") () は、自営通信（家庭、事業所など）向けに高品質音声 ([VoIP](../Page/VoIP.md "wikilink")) やインターネットとの接続性を提供する。ブロードバンド回線に接続された[ホームゲートウェイ](https://ja.wikipedia.org/wiki/ホームゲートウェイ "wikilink")等を親機とする。これまでコードレス電話市場にて培われた低コスト性、低消費電力性からセンサーネットワークに向けた仕様の制定も進行している。
 
 アプリケーションは音声ストリーミングや内線通話、ビデオ会議など、[無線LAN](../Page/無線LAN.md "wikilink")が苦手としていた分野を想定しており、既に普及しているPCやゲーム機等の無線LANによる通信の置き換えを狙ったものではない\[5\]。IPベースのホームゲートウェイをベースとして[Fixed Mobile Convergenceの一種とも捉えられている](https://ja.wikipedia.org/wiki/Fixed_Mobile_Convergence "wikilink")。また、日本国内においては[Next Generation Networkとの絡みもある](https://ja.wikipedia.org/wiki/Next_Generation_Network "wikilink")。
 
@@ -44,14 +44,14 @@ IoT向けにはDECT ULEという規格も策定されている\[6\]。
       -
 ## 日本のDECTの技術的条件
 
-  -   - 周波数帯：1.9[GHz](../Page/ギガヘルツ.md "wikilink")（1880MHz - 1978MHz・2010MHz - 2025MHz）
-      - 通信方式：[TDD](https://ja.wikipedia.org/wiki/時分割複信 "wikilink")-[TDMA](https://ja.wikipedia.org/wiki/時分割多元接続 "wikilink")・自立分散型[マルチチャネルアクセス無線](https://ja.wikipedia.org/wiki/マルチチャネルアクセス無線 "wikilink")
-      - 搬送波：間隔 1782[kHz](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")・伝送速度 1152k[b/s](../Page/ビット毎秒.md "wikilink")・多重化チャネル数 12
-      - [変調方式](../Page/変調方式.md "wikilink")：[GMSK](https://ja.wikipedia.org/wiki/最小偏移変調 "wikilink")
-      - [音](../Page/音.md "wikilink")声[符号化方式](../Page/符号化方式.md "wikilink")：32kb/s ADPCM（[G.726](https://ja.wikipedia.org/wiki/G.726 "wikilink")）
-      - [データ通信](../Page/データ通信.md "wikilink")：[回線交換](https://ja.wikipedia.org/wiki/回線交換 "wikilink")・[パケット通信](../Page/パケット通信.md "wikilink")（[ISDN](../Page/ISDN.md "wikilink")と共通の[HDLC](https://ja.wikipedia.org/wiki/HDLC "wikilink")を元にしたLAPC）
-      - セル半径：25 - 100m
-      - トラフィック密度：10000[アーラン](../Page/アーラン.md "wikilink")/km<sup>2</sup>
+  - 周波数帯：1.9[GHz](../Page/ギガヘルツ.md "wikilink") (1880MHz - 1978MHz・2010MHz - 2025MHz)
+  - 通信方式：[TDD](https://ja.wikipedia.org/wiki/時分割複信 "wikilink")-[TDMA](https://ja.wikipedia.org/wiki/時分割多元接続 "wikilink")・自立分散型[マルチチャネルアクセス無線](https://ja.wikipedia.org/wiki/マルチチャネルアクセス無線 "wikilink")
+  - 搬送波：間隔 1782[kHz](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")・伝送速度 1152k[b/s](../Page/ビット毎秒.md "wikilink")・多重化チャネル数 12
+  - [変調方式](../Page/変調方式.md "wikilink")：[GMSK](https://ja.wikipedia.org/wiki/最小偏移変調 "wikilink")
+  - [音](../Page/音.md "wikilink")声[符号化方式](../Page/符号化方式.md "wikilink")：32kb/s ADPCM ([G.726](https://ja.wikipedia.org/wiki/G.726 "wikilink"))
+  - [データ通信](../Page/データ通信.md "wikilink")：[回線交換](https://ja.wikipedia.org/wiki/回線交換 "wikilink")・[パケット通信](../Page/パケット通信.md "wikilink")（[ISDN](../Page/ISDN.md "wikilink")と共通の[HDLC](https://ja.wikipedia.org/wiki/HDLC "wikilink")を元にしたLAPC）
+  - セル半径：25 - 100m
+  - トラフィック密度：10000[アーラン](../Page/アーラン.md "wikilink")/km<sup>2</sup>
 
 ## 脚注
 

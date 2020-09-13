@@ -1,7 +1,7 @@
 > この記事は[MARU](https://ja.wikipedia.org/wiki/MARU)から翻訳されています。
 
 
-**MARU**（マル、[1981年](../Page/1981年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元女子[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**丸山 美和**（まるやま みわ）。身長160cm。体重55kg。[埼玉県](../Page/埼玉県.md "wikilink")[鴻巣市](../Page/鴻巣市.md "wikilink")出身。現在はI\&Iファクトリー所属の[女優で演劇集団](../Page/俳優.md "wikilink")「水色革命」主宰。夫はI\&Iファクトリー代表で元「戸野廣浩司記念劇場」館長の[平山陽](../Page/平山陽.md "wikilink")\[1\]。
+**MARU**（マル、[1981年](../Page/1981年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元女子[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**丸山 美和**（まるやま みわ）。身長160cm。体重55kg。[埼玉県](../Page/埼玉県.md "wikilink")[鴻巣市](../Page/鴻巣市.md "wikilink")出身。現在は[女優、脚本、演出、プロデューサーで劇団](../Page/俳優.md "wikilink")「水色革命」主宰、コルバタ代表。元夫は元「戸野廣浩司記念劇場」館長の[平山陽](../Page/平山陽.md "wikilink")\[1\]。
 
 ## 経歴
 

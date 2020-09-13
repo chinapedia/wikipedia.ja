@@ -37,7 +37,9 @@
     <!-- end list -->
       -
         [ソーテック](../Page/ソーテック.md "wikilink")「e-one 433」[CMソング](https://ja.wikipedia.org/wiki/CMソング "wikilink")。
-        歌詞に関してhydeは当時「子どもを持つ気持ちを想像して書いた」と語っており、タイトルの「Pieces（＝かけら）」も自身の子どもをイメージしてつけられた。また、作曲したtetsuyaは自身の祖母を想って作った\[3\]と述べており、「自分にとっては恋愛の曲ではない\[4\]」とも語っている。ライブでは「[あなた](https://ja.wikipedia.org/wiki/HEART_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink")」と並びラスト定番の曲となっている。
+        歌詞に関してhydeは「子どもを持つ気持ちを想像して書いた」と当時語っており、タイトルの「Pieces（＝かけら）」も自身の子どもをイメージして付けられた。また、作曲者のtetsuyaから「長い時間の流れ」という曲のイメージが伝えられていたことや、この詞を書いている頃に自身の親戚が亡くなったことが作詞に影響したとhydeは示唆している\[3\]。
+        tetsuyaは楽曲制作について「自分の祖母を想って作った\[4\]」と述べており、「自分にとっては恋愛の曲ではない\[5\]」とも語っている。yukihiroは自身のドラムプレイについて「ロックバラードにならないように、大仰なことはやらないように気を付けました\[6\]」と述べている。
+        ライブでは「[あなた](https://ja.wikipedia.org/wiki/HEART_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink")」と並びラスト定番の曲となっている。[2015年](../Page/2015年.md "wikilink")に開催されたライブ「[L'Arc〜en〜Ciel LIVE 2015 L'ArCASINO](https://ja.wikipedia.org/wiki/L'Arc〜en〜Ciel_LIVE_2015_L'ArCASINO "wikilink")」の最終日公演でもライブの最終曲として披露されているが、CD音源には無い＜私のすべてよ＞というフレーズがアウトロで歌われた。
         [シンガーソングライター](../Page/シンガーソングライター.md "wikilink")の[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")が、自身が[パーソナリティーを務めていた](https://ja.wikipedia.org/wiki/ラジオパーソナリティー "wikilink")[ラジオ](../Page/ラジオ.md "wikilink")番組『[aikoの@llnightnippon.com](https://ja.wikipedia.org/wiki/aikoの@llnightnippon.com "wikilink")』で[カバー](../Page/カバー.md "wikilink")したことがある。
         6thアルバム『[ark](../Page/Ark_\(アルバム\).md "wikilink")』収録の「ark mix」では最後の[サビ](../Page/サビ.md "wikilink")前の[オーケストラ](../Page/オーケストラ.md "wikilink")のアレンジおよびミックスが異なる。シングルバージョンは[2001年](../Page/2001年.md "wikilink")発売の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[Clicked Singles Best 13](../Page/Clicked_Singles_Best_13.md "wikilink")』に収録。
 2.  **fate 〜fake fate mix〜**
@@ -45,6 +47,8 @@
     <!-- end list -->
       -
         5thアルバム『[HEART](../Page/HEART_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』の収録曲「fate」のyukihiroによるリミックス曲。
+        ディストーション・ギターを使わずにインダストリアルの雰囲気を表現するため、ノイズ混じりのキーボードの音色を取り入れている\[7\]。
+        また、曲のオープニングには[ドイツ語](../Page/ドイツ語.md "wikilink")の声と[ソプラノ](../Page/ソプラノ.md "wikilink")の女性の声が入っている\[8\]。ドイツ語の声はテレビから[サンプリング](../Page/サンプリング.md "wikilink")したもので、ソプラノの女性の声は[イタリア](../Page/イタリア.md "wikilink")の[オペラ](../Page/オペラ.md "wikilink")のCDを[DJ用CDプレイヤーでテンポを落としたものである](https://ja.wikipedia.org/wiki/CDプレーヤー#据置型、デッキ型 "wikilink")\[9\]。
         このリミックスとは別バージョンの「everybody knows but god mix」が、[リミックス](../Page/リミックス.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")『[ectomorphed works](https://ja.wikipedia.org/wiki/ectomorphed_works "wikilink")』に収録されている。
 
 ## 参加ミュージシャン
@@ -92,5 +96,10 @@
 
 1.  『ray 15th Anniversary Expanded Edition』特典DVD、[2006年](../Page/2006年.md "wikilink")
 2.
-3.  リットーミュージック社『BASS MAGAZINE SPECIAL FEATURE SERIES/tetsuya L'Arc〜en〜Ciel』2010年
-4.
+3.  ぴあ社『R\&R NewsMaker』、p.25、1999年7月号
+4.  リットーミュージック社『BASS MAGAZINE SPECIAL FEATURE SERIES/tetsuya L'Arc〜en〜Ciel』2010年
+5.
+6.  ぴあ社『R\&R NewsMaker』、p.37、1999年7月号
+7.  ぴあ社『R\&R NewsMaker』、p.38、1999年7月号
+8.
+9.

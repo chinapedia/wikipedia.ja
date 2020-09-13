@@ -1,13 +1,13 @@
 > この記事は[ACOS-2](https://ja.wikipedia.org/wiki/ACOS-2)から翻訳されています。
 
 
-**ACOS-2**（エイコスツー）は、[日本電気](../Page/日本電気.md "wikilink")の[メインフレーム](../Page/メインフレーム.md "wikilink")およびそのOSである[ACOS](https://ja.wikipedia.org/wiki/ACOS "wikilink")の一系列である。
+**ACOS-2**（エイコスツー）は、[日本電気](../Page/日本電気.md "wikilink")の[メインフレーム](../Page/メインフレーム.md "wikilink")およびそのOSである[ACOSの一系列である](../Page/Advanced_Comprehensive_Operating_System.md "wikilink")。
 
 ## 概要
 
 ACOS-2は、ハネウェル社が当初から開発していたOSを基に初期版が開発されたOSである。2015年時点での名称はACOS-2/MP、対象となるハードウェアはi-PX7300GXである。
 
-ACOS-2の兄弟分は[ACOS-4](../Page/ACOS-4.md "wikilink")であり、[ACOS-6](../Page/ACOS-6.md "wikilink")とは、その構造が大きく異なっている（理由については、[ACOS](https://ja.wikipedia.org/wiki/ACOS "wikilink")の項を参照）。他の2つのOSともども同社のメインフレーム事業草創期にハネウェル社から導入した技術が基となっている。
+ACOS-2の兄弟分は[ACOS-4](../Page/ACOS-4.md "wikilink")であり、[ACOS-6](../Page/ACOS-6.md "wikilink")とは、その構造が大きく異なっている（理由については、[ACOSの項を参照](../Page/Advanced_Comprehensive_Operating_System.md "wikilink")）。他の2つのOSともども同社のメインフレーム事業草創期にハネウェル社から導入した技術が基となっている。
 
 ## メモリ管理方式
 

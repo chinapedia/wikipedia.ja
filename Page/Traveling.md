@@ -56,7 +56,7 @@
 ## 外部リンク
 
   -
-[Category:宇多田ヒカルの楽曲](https://ja.wikipedia.org/wiki/Category:宇多田ヒカルの楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:携帯電話のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:携帯電話のコマーシャルソング "wikilink") [Category:2001年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2001年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:2000年代のオリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2000年代のオリコン月間シングルチャート1位獲得作品 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink") [Category:旅行を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:旅行を題材とした楽曲 "wikilink")
+[Category:宇多田ヒカルの楽曲](https://ja.wikipedia.org/wiki/Category:宇多田ヒカルの楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:2001年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2001年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:2000年代のオリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2000年代のオリコン月間シングルチャート1位獲得作品 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink") [Category:旅行を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:旅行を題材とした楽曲 "wikilink") [Category:NTTドコモのCMソング](https://ja.wikipedia.org/wiki/Category:NTTドコモのCMソング "wikilink")
 
 1.  [2003年 国内作品分配額ベスト10(金・銀・銅賞関連)](http://www.jasrac.or.jp/profile/prize/2003_country.html)、日本音楽著作権協会、2003年。
 2.  [2003年JASRAC賞 「千と千尋の神隠しBGM」が金賞を受賞](http://www.jasrac.or.jp/profile/prize/2003_index.html)、日本音楽著作権協会、2003年。

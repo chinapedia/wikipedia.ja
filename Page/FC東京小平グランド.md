@@ -21,7 +21,7 @@
 ## アクセス
 
   - [西武バス](../Page/西武バス.md "wikilink")（21系統・[武蔵小金井駅](https://ja.wikipedia.org/wiki/武蔵小金井駅 "wikilink")-[東久留米駅](https://ja.wikipedia.org/wiki/東久留米駅 "wikilink")西口）[錦城高校前バス停で下車](https://ja.wikipedia.org/wiki/錦城高等学校 "wikilink")、徒歩1分。同バスは西武新宿線[花小金井駅](https://ja.wikipedia.org/wiki/花小金井駅 "wikilink")前からも利用する事ができる。
-  - [西武新宿線](../Page/西武新宿線.md "wikilink")[小平駅](https://ja.wikipedia.org/wiki/小平駅 "wikilink")から徒歩15分～20分。
+  - [西武新宿線](../Page/西武新宿線.md "wikilink")・[拝島線](https://ja.wikipedia.org/wiki/西武拝島線 "wikilink") [小平駅](https://ja.wikipedia.org/wiki/小平駅 "wikilink")から徒歩15分～20分。
   - 立地としては[新小金井街道](https://ja.wikipedia.org/wiki/新小金井街道 "wikilink")と[新青梅街道](../Page/新青梅街道.md "wikilink")の交差する地点にあるが、一般向け駐車場は無いため車での来場は不可。公共交通機関を使用して行く必要がある。
   - 見学者は新小金井街道に面した専用入口より入る。新青梅街道に面した入口は関係者専用となっている。
 

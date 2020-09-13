@@ -1,7 +1,9 @@
 > この記事は[マッキングGOLD \(1\)](https://ja.wikipedia.org/wiki/マッキングGOLD_\(1\))から翻訳されています。
 
 
-**マッキングGOLD①**(マッキングゴールド イチ)は、[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")のソロデビュー後1枚目のオリジナルアルバム。
+{{Infobox Album | | Name = マッキングGOLD① | Type = [アルバム](../Page/アルバム.md "wikilink") | Artist = [後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink") | Released = [2003年](../Page/2003年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink") | Recorded = - | Genre = [ポップス](../Page/ポピュラー音楽.md "wikilink") | Length = 47分46秒 | Label = [PICCOLO TOWN](../Page/アップフロントワークス.md "wikilink") | Producer = [つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink") | Reviews = | Chart position =\*4位（[オリコン](../Page/オリコンチャート.md "wikilink")） | Certification = \*ゴールド（[日本レコード協会](../Page/日本レコード協会.md "wikilink")）\[1\] | Last album = | This album = *マッキングGOLD①*
+(2003年) | Next album = *[「けん&メリーのメリケン粉オンステージ\!」オリジナルキャスト盤](../Page/「けん&メリーのメリケン粉オンステージ!」オリジナルキャスト盤.md "wikilink")*
+（2003年） | Misc =  **マッキングGOLD①**(マッキングゴールド イチ)は、[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")のソロデビュー後1枚目のオリジナルアルバム。
 
 ## 内容
 
@@ -16,7 +18,7 @@
       -
         3rdシングル。
 3.  **愛ってどんな×××?**
-4.  **[溢れちゃう...BE IN LOVE](https://ja.wikipedia.org/wiki/溢れちゃう...BE_IN_LOVE "wikilink")（A Passionate Mix）**
+4.  **[{{JIS90フォント](https://ja.wikipedia.org/wiki/溢れちゃう...BE_IN_LOVE "wikilink")（A Passionate Mix）**
       -
         2ndシングルのリミックスバージョン。
 5.  **デート注意報**
@@ -42,3 +44,5 @@
   - [UP-FRONT WORKSディスコグラフィ](http://up-front-works.jp/release/detail/PKCP-5014/)
 
 [Category:2003年のアルバム](https://ja.wikipedia.org/wiki/Category:2003年のアルバム "wikilink") [Category:後藤真希のアルバム](https://ja.wikipedia.org/wiki/Category:後藤真希のアルバム "wikilink")
+
+1.  [日本レコード協会 認定作品](http://www.riaj.or.jp/f/data/cert/gd.html) **2003年7月度認定作品**を閲覧。 2019年1月3日閲覧。

@@ -24,9 +24,6 @@
   - 200 OK
     **OK**。リクエストは成功し、レスポンスとともに要求に応じた情報が返される。
     [ブラウザ](https://ja.wikipedia.org/wiki/ブラウザ "wikilink")でページが正しく表示された場合は、ほとんどがこのステータスコードを返している。
-
-[200 OKの例](https://www.google.com)
-
   - 201 Created
     **作成**。リクエストは完了し、新たに作成されたリソースのURIが返される。
     例: PUTメソッドでリソースを作成するリクエストを行ったとき、そのリクエストが完了した場合に返される。
@@ -61,7 +58,7 @@
   - 301 Moved Permanently
     **恒久的に移動した**。リクエストしたリソースが恒久的に移動されているときに返される。Location:ヘッダに移動先のURLが示されている。
     ウェブサイトが移転した場合などに用いる\[1\]。ウェブサイト移転の特殊な場合として、HTTPからHTTPSへの移転も該当する\[2\]。
-    そのほか、ファイルではなく[ディレクトリ](../Page/ディレクトリ.md "wikilink")に対応するURLの末尾に*/*を書かずにアクセスした場合に返される。具体例として、https://www.w3.org/TR
+    そのほか、ファイルではなく[ディレクトリ](../Page/ディレクトリ.md "wikilink")に対応するURLの末尾に*/*を書かずにアクセスした場合に返される。具体例として、https://www.w3.org/TR （ただし近年のウェブブラウザは*/*の脱落を自動的に補完するため、エラーは通常表示されない）。
   - 302 Found
     **発見した**。リクエストしたリソースが一時的に移動されているときに返される。Location:ヘッダに移動先のURLが示されている。
     元々は**Moved Temporarily**（一時的に移動した）で、本来はリクエストしたリソースが一時的にそのURLに**存在せず**、別のURLにある場合に使用するステータスコードであった。しかし、例えば掲示板やWikiなどで投稿後にウェブブラウザに対して他のURLに転送させたいときにもこのコードが使用されるようになったため、302はFoundになり、新たに303・307が作成された。
@@ -112,10 +109,6 @@
     例: サーバは英語か日本語しか受け付けられないが、リクエストのAccept-Language:ヘッダにzh（中国語）しか含まれていなかった。
     例: サーバはapplication/pdfを送信したかったが、リクエストのAccept:ヘッダにapplication/pdfが含まれていなかった。
     例: サーバはUTF-8の文章を送信したかったが、リクエストのAccept-Charset:ヘッダには、UTF-8が含まれていなかった。
-    [406 Not Acceptableの例](https://www.nnn.ed.nico/courses/663/chapters/9495.2)
-
-<!-- end list -->
-
   - 407 Proxy Authentication Required
     **[プロキシ](../Page/プロキシ.md "wikilink")認証が必要である**。プロキシの認証が必要な場合に返される。
   - 408 Request Timeout
@@ -149,7 +142,7 @@
     具体例として、Expect:ヘッダに100-continue以外の変なものを入れた場合や、そもそもサーバが100 Continueを扱えない場合に返す。
   - 418 I'm a teapot
     **私はティーポット**。[HTCPCP/1.0の拡張ステータスコード](../Page/Hyper_Text_Coffee_Pot_Control_Protocol.md "wikilink")。
-    [ティーポット](https://ja.wikipedia.org/wiki/ティーポット "wikilink")に[コーヒー](https://ja.wikipedia.org/wiki/コーヒー "wikilink")を淹れさせようとして、拒否された場合に返すとされる、[ジョーク](../Page/ジョーク.md "wikilink")のコードである。
+    [ティーポット](https://ja.wikipedia.org/wiki/ティーポット "wikilink")に[コーヒー](https://ja.wikipedia.org/wiki/コーヒー "wikilink")を淹れさせようとして、拒否された場合に返すとされる、[ジョーク](../Page/ジョーク.md "wikilink")のコードである。2017年にこれを除去しようという動きがあったが、反対運動が起こったため、418は正式に「予約済み」となった。
   - 421 Misdirected Request (RFC 7540)
     **誤ったリクエスト**。
   - 422 Unprocessable Entity
@@ -196,8 +189,6 @@
     **容量不足**。WebDAVの拡張ステータスコード。リクエストを処理するために必要なストレージの容量が足りない場合に返される。
   - 508 Loop Detected
     **ループを検出**。WebDAVの拡張ステータスコード。
-  - 509 Bandwidth Limit Exceeded
-    **帯域幅制限超過**。そのサーバに設定されている帯域幅（転送量）を使い切った場合に返される。IANAに登録されていない非公式コードだが、[Apache HTTP Serverや](../Page/Apache_HTTP_Server.md "wikilink")[cPanel](https://ja.wikipedia.org/wiki/cPanel "wikilink")で用いられている。
   - 510 Not Extended
     **拡張できない**。[An HTTP Extension Frameworkで定義されている拡張ステータスコード](https://ja.wikipedia.org/wiki/An_HTTP_Extension_Framework "wikilink")。
   - 511 Network Authentication Required (RFC 6585)

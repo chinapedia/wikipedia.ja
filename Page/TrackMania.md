@@ -95,11 +95,13 @@ TrackMania United/Nations Foreverでは、[WAV](../Page/WAV.md "wikilink")と[Og
 
 また、Ogg Vorbisのヘッダを編集し、専用形式「MUX」に変換することもできる。MUXファイルはエディターで専用BGMに設定すると、音楽が鳴り始めるときに音楽の詳細データが表示されるようになる。 なお、なぜ独自形式を設定しているかは不明である。
 
+## 脚注
+
 ## 外部リンク
 
   - [公式サイト（一部英語）](http://www.trackmania.com/?lang=jp)
 
-[Category:2003年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2003年のコンピュータゲーム "wikilink") [Category:レースゲーム](https://ja.wikipedia.org/wiki/Category:レースゲーム "wikilink") [Category:コンピュータゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのシリーズ "wikilink")
+[Category:2003年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2003年のコンピュータゲーム "wikilink") [Category:カーレースゲーム](https://ja.wikipedia.org/wiki/Category:カーレースゲーム "wikilink") [Category:コンピュータゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのシリーズ "wikilink")
 
 1.
 2.

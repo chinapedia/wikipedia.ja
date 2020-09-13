@@ -16,19 +16,19 @@ NHKワールド・プレミアムでは翌[2006年](../Page/2006年.md "wikilink
   - [11月21日](../Page/11月21日.md "wikilink") に『スキウタ』上位100位の曲が発表された。
   - [12月1日](../Page/12月1日.md "wikilink") に、紅白出場者が発表された。
       - 紅白各30組の計60組のうち初出場は16組。[ガレッジセール](../Page/ガレッジセール.md "wikilink")の[ゴリは](../Page/ゴリ_\(お笑い芸人\).md "wikilink")、[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ワンナイR\&R](https://ja.wikipedia.org/wiki/ワンナイR&R "wikilink")』で演じた[ゴリエとして紅組から出場した](../Page/松浦ゴリエ.md "wikilink")（女装した男性のソロでは初めての紅組出場である）。正確にはGorie with Jasmine & Joannとして活動しており、[メインボーカルはゴリエではなく](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、女性である[ジャスミン・アレンと](../Page/ジャスミン茉莉花.md "wikilink")[ジョアンであるため](../Page/ジョアン_\(タレント\).md "wikilink")（ゴリエ本人も若干ソロパートがある）、紅組出場となった。これまで紅白には縁がなかった[松任谷由実](../Page/松任谷由実.md "wikilink")（[松任谷由実 with Friends Of Love The Earth名義](../Page/Friends_Of_Love_The_Earth.md "wikilink")。なお、松任谷がソロ名義で[第62回](https://ja.wikipedia.org/wiki/第62回NHK紅白歌合戦 "wikilink")（[2011年](../Page/2011年.md "wikilink")）に出場した際、初出場ではなく2回目の出場扱いだった）と[山崎まさよし](https://ja.wikipedia.org/wiki/山崎まさよし "wikilink")（この年デビュー10周年）が初出場を果たし、『スキウタ』のアンケート結果から[渡辺美里](../Page/渡辺美里.md "wikilink")（この年デビュー20周年）も初出場となった。[前回は同年に新曲を発表しなかったことを理由に出場を辞退した](https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦 "wikilink")[SMAP](../Page/SMAP.md "wikilink")も[第54回](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink")（[2003年](../Page/2003年.md "wikilink")）以来2年ぶりの出場で、第54回同様、白組トリおよび大トリを務めた。
-      - 松任谷は出演の打診を受けた際、同ユニットとしての出演の確約をその条件に挙げたという\[1\]\[2\]。
+      - 松任谷は出演の打診を受けた際、同ユニットとしての出演の確約をその条件に挙げたという\[1\]。
       - 『スキウタ』に持ち歌がランクインしなかった当時常連出場歌手の[美川憲一](../Page/美川憲一.md "wikilink")、[前川清](../Page/前川清.md "wikilink")、[山川豊](../Page/山川豊.md "wikilink")（前回は落選で翌年の[第57回以降は再び落選している](../Page/第57回NHK紅白歌合戦.md "wikilink")）が問題なく出場を果たした。
       - 他方で、この年デビュー25周年を迎えた[松田聖子](../Page/松田聖子.md "wikilink")<ref>スケジュールの都合が合わなかったため（『夕刊フジ』より）。
 
-</ref>、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")、[矢沢永吉](../Page/矢沢永吉.md "wikilink")、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")\[3\]、[ORANGE RANGE](../Page/ORANGE_RANGE.md "wikilink")、この年デビュー10周年を迎えた[平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")\[4\]などが出場を辞退した。その他、番組側はSMAP、[TOKIO](../Page/TOKIO.md "wikilink")以外の[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属アーティストにもオファーをしたが、ジャニーズ事務所側が断ったという（出場歌手発表時にマスコミから番組側にジャニーズ事務所所属アーティストに関する質問が出た際、番組側が「ジャニーズさんにはもっと出てほしい、とお願いしているんですけど」と回答した）\[5\]。
+</ref>、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")、[矢沢永吉](../Page/矢沢永吉.md "wikilink")、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")\[2\]、[ORANGE RANGE](../Page/ORANGE_RANGE.md "wikilink")、この年デビュー10周年を迎えた[平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")\[3\]などが出場を辞退した。その他、番組側はSMAP、[TOKIO](../Page/TOKIO.md "wikilink")以外の[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属アーティストにもオファーをしたが、ジャニーズ事務所側が断ったという（出場歌手発表時にマスコミから番組側にジャニーズ事務所所属アーティストに関する質問が出た際、番組側が「ジャニーズさんにはもっと出てほしい、とお願いしているんですけど」と回答した）\[4\]。
 
   -   - 『[スポーツニッポン](../Page/スポーツニッポン.md "wikilink")』によると[松平健](../Page/松平健.md "wikilink")（初出場した前回白組歌手の視聴率1位を記録。この年の[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[義経](../Page/義経_\(NHK大河ドラマ\).md "wikilink")』に出演したほか、『スキウタ』に「[マツケンサンバ](../Page/マツケンサンバ.md "wikilink")II」がランクイン）、『夕刊フジ』によると[橋幸夫](../Page/橋幸夫.md "wikilink")（『スキウタ』に持ち歌3曲がランクイン）、[舟木一夫](../Page/舟木一夫.md "wikilink")、[郷ひろみ](../Page/郷ひろみ.md "wikilink")（この年芸能活動を再開）は落選。
-      - いずれも『スキウタ』に持ち歌がランクインした[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")と[徳永英明](../Page/徳永英明.md "wikilink")（翌年デビュー20周年）は、体調不良を理由に出演決定とはならなかった\[6\]。前者は[11月21日](../Page/11月21日.md "wikilink")付の『日刊スポーツ』に「本紅白で「[DESIRE -情熱-](../Page/DESIRE_-情熱-.md "wikilink")」（『スキウタ』ランクイン曲）を歌唱することが濃厚になった」と報じられていた。後者は翌年の第57回で初出場を果たす（同回での歌唱曲は『スキウタ』ランクイン曲「[壊れかけのRadio](../Page/壊れかけのRadio.md "wikilink")」であった）。
-      - この年発売した[シングル](../Page/シングル.md "wikilink")「[月夜のタンゴ](https://ja.wikipedia.org/wiki/月夜のタンゴ "wikilink")」がヒットした[森光子](../Page/森光子.md "wikilink")の出場が有力視されており、自身主演の舞台『ツキコの月 そして、タンゴ』（同曲はこの舞台の主題歌である）の終演後に行った会見で出場に意欲的な発言をしていた（さらに同舞台共演者の[石田純一](../Page/石田純一.md "wikilink")と[東山紀之](https://ja.wikipedia.org/wiki/東山紀之 "wikilink")（[少年隊](../Page/少年隊.md "wikilink")）は光子が出場した際には応援に駆けつけることを宣言していた）\[7\]。結局出場歌手には非選出となったが、この年の[文化勲章](../Page/文化勲章.md "wikilink")受章が決め手となって2年連続でゲスト審査員に起用された（コーナー内で歌唱する可能性も取り沙汰された）\[8\]。
+      - いずれも『スキウタ』に持ち歌がランクインした[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")と[徳永英明](../Page/徳永英明.md "wikilink")（翌年デビュー20周年）は、体調不良を理由に出演決定とはならなかった\[5\]。前者は[11月21日](../Page/11月21日.md "wikilink")付の『日刊スポーツ』に「本紅白で「[DESIRE -情熱-](../Page/DESIRE_-情熱-.md "wikilink")」（『スキウタ』ランクイン曲）を歌唱することが濃厚になった」と報じられていた。後者は翌年の第57回で初出場を果たす（同回での歌唱曲は『スキウタ』ランクイン曲「[壊れかけのRadio](../Page/壊れかけのRadio.md "wikilink")」であった）。
+      - この年発売した[シングル](../Page/シングル.md "wikilink")「[月夜のタンゴ](https://ja.wikipedia.org/wiki/月夜のタンゴ "wikilink")」がヒットした[森光子](../Page/森光子.md "wikilink")の出場が有力視されており、自身主演の舞台『ツキコの月 そして、タンゴ』（同曲はこの舞台の主題歌である）の終演後に行った会見で出場に意欲的な発言をしていた（さらに同舞台共演者の[石田純一](../Page/石田純一.md "wikilink")と[東山紀之](https://ja.wikipedia.org/wiki/東山紀之 "wikilink")（[少年隊](../Page/少年隊.md "wikilink")）は光子が出場した際には応援に駆けつけることを宣言していた）\[6\]。結局出場歌手には非選出となったが、この年の[文化勲章](../Page/文化勲章.md "wikilink")受章が決め手となって2年連続でゲスト審査員に起用された（コーナー内で歌唱する可能性も取り沙汰された）\[7\]。
       - [モーニング娘。](../Page/モーニング娘。.md "wikilink")は、卒業メンバーを加えた総勢19名の特別編成での出場となり、注目を集めた（卒業メンバーのうち3名は[松浦亜弥](../Page/松浦亜弥.md "wikilink")&[DEF.DIVA](../Page/DEF.DIVA.md "wikilink")としても出場。また[Wとして活動していた](../Page/W_\(ハロー!プロジェクト\).md "wikilink")[辻希美](../Page/辻希美.md "wikilink")と[加護亜依](../Page/加護亜依.md "wikilink")の2名は、前回で初出場を果たした）。
       - [和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")が、[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink") loves Akiko Wadaとして白組から出場。
-      - 5年連続出場の[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")（初出場以来）、4年連続出場の[島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")（初出場以来）、3年連続出場の[森山良子](../Page/森山良子.md "wikilink")（通算10回）・[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")（初出場以来）・[一青窈](https://ja.wikipedia.org/wiki/一青窈 "wikilink")（初出場以来）・[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")（初出場以来。ただしこの以前モーニング娘。として出場歴があるほか、3年連続別名義\[9\]で出場）は翌年不出場（倉木は辞退）となり、今回で連続出場が途絶えた。CHEMISTRY・良子・島谷・後藤は今回が最後の出場となっているが、一青は[第58回](../Page/第58回NHK紅白歌合戦.md "wikilink")（[2007年](../Page/2007年.md "wikilink")）、[第59回](https://ja.wikipedia.org/wiki/第59回NHK紅白歌合戦 "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）、倉木は[第68回](https://ja.wikipedia.org/wiki/第68回NHK紅白歌合戦 "wikilink")（[2017年](../Page/2017年.md "wikilink")）で復帰している。
-      - [第52回](../Page/第52回NHK紅白歌合戦.md "wikilink")（[2001年](../Page/2001年.md "wikilink")）の初出場以来連続出場していた[松浦亜弥](../Page/松浦亜弥.md "wikilink")もソロ歌手としては今回が最後の出場となっている\[10\]。
+      - 5年連続出場の[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")（初出場以来）、4年連続出場の[島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")（初出場以来）、3年連続出場の[森山良子](../Page/森山良子.md "wikilink")（通算10回）・[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")（初出場以来）・[一青窈](https://ja.wikipedia.org/wiki/一青窈 "wikilink")（初出場以来）・[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")（初出場以来。ただしこの以前モーニング娘。として出場歴があるほか、3年連続別名義\[8\]で出場）は翌年不出場（倉木は辞退）となり、今回で連続出場が途絶えた。CHEMISTRY・良子・島谷・後藤は今回が最後の出場となっているが、一青は[第58回](../Page/第58回NHK紅白歌合戦.md "wikilink")（[2007年](../Page/2007年.md "wikilink")）、[第59回](https://ja.wikipedia.org/wiki/第59回NHK紅白歌合戦 "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）、倉木は[第68回](https://ja.wikipedia.org/wiki/第68回NHK紅白歌合戦 "wikilink")（[2017年](../Page/2017年.md "wikilink")）で復帰している。
+      - [第52回](../Page/第52回NHK紅白歌合戦.md "wikilink")（[2001年](../Page/2001年.md "wikilink")）の初出場以来連続出場していた[松浦亜弥](../Page/松浦亜弥.md "wikilink")もソロ歌手としては今回が最後の出場となっている\[9\]。
       - 前回の初出場以来2年連続出場の[氣志團](../Page/氣志團.md "wikilink")は翌年不出場となり、また今回が最後の出場となっている。ただし、翌年の第57回に同ボーカルの[綾小路翔](https://ja.wikipedia.org/wiki/綾小路翔 "wikilink")と同一人物である[DJ OZMAが出場している](../Page/DJ_OZMA.md "wikilink")。
 
   - [12月21日](../Page/12月21日.md "wikilink")には出場曲が発表されて、その9日後の[30日には曲順が発表された](../Page/12月30日.md "wikilink")。
@@ -38,14 +38,15 @@ NHKワールド・プレミアムでは翌[2006年](../Page/2006年.md "wikilink
 
 ## 当日のステージ
 
-  - SMAPは「[Triangle](../Page/Triangle_\(SMAPの曲\).md "wikilink")」で白組トリおよび大トリを務めた（史上初の複数回トリを務めたグループとなった。また複数回大トリを務めた史上初のグループにもなった。一方翌[第57回](../Page/第57回NHK紅白歌合戦.md "wikilink")（[2006年](../Page/2006年.md "wikilink")） - [第60回](https://ja.wikipedia.org/wiki/第60回NHK紅白歌合戦 "wikilink")（[2009年](../Page/2009年.md "wikilink")）まで同[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")の[中居正広](../Page/中居正広.md "wikilink")が組司会に起用されたことから、SMAPの白組トリ（大トリ）担当は中居が組司会を退いた[第61回](https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦 "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）まで途絶えることとなった\[11\]）。また、後半戦のトップでは『スキウタ』白組および全体1位に輝いた自身の代表曲「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」を5人のメインボーカルにて出場歌手と大合唱した。他にも、コーナー「タイムスリップ60年 昭和・平成ALWAYS」でもトリとして登場し、メンバーがそれぞれ曲紹介を行い、持ち歌2曲を披露した。
+  - SMAPは「[Triangle](../Page/Triangle_\(SMAPの曲\).md "wikilink")」で白組トリおよび大トリを務めた（史上初の複数回トリを務めたグループとなった。また複数回大トリを務めた史上初のグループにもなった。一方翌[第57回](../Page/第57回NHK紅白歌合戦.md "wikilink")（[2006年](../Page/2006年.md "wikilink")） - [第60回](https://ja.wikipedia.org/wiki/第60回NHK紅白歌合戦 "wikilink")（[2009年](../Page/2009年.md "wikilink")）まで同[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")の[中居正広](../Page/中居正広.md "wikilink")が組司会に起用されたことから、SMAPの白組トリ（大トリ）担当は中居が組司会を退いた[第61回](https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦 "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）まで途絶えることとなった\[10\]）。また、後半戦のトップでは『スキウタ』白組および全体1位に輝いた自身の代表曲「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」を5人のメインボーカルにて出場歌手と大合唱した。他にも、コーナー「タイムスリップ60年 昭和・平成ALWAYS」でもトリとして登場し、メンバーがそれぞれ曲紹介を行い、持ち歌2曲を披露した。
   - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")は、『[第47回日本レコード大賞](https://ja.wikipedia.org/wiki/第47回日本レコード大賞 "wikilink")』の受賞を司会の[みのもんた](../Page/みのもんた.md "wikilink")に祝福された。注目されていた[ゴリエとの衣装対決では](../Page/松浦ゴリエ.md "wikilink")、2人で仲良く着物姿で共演する場面があった。
   - これまで前半はポップス歌手、後半は演歌・歌謡歌手というケースが多かったが、今回のトップバッターは先行に白組の[細川たかし](../Page/細川たかし.md "wikilink")・後続に紅組の[川中美幸](../Page/川中美幸.md "wikilink")が務めるなど今回は演歌・歌謡、ポップスが満遍なく配置された。
   - 今回を最後に白組歌手の先行トップバッター起用は[第66回](https://ja.wikipedia.org/wiki/第66回NHK紅白歌合戦 "wikilink")（[2015年](../Page/2015年.md "wikilink")）までなかった。
   - これまで審査員席でトークを行うのみだった「特別審査員」が「ゲスト審査員」となり、客席のみならず、ステージ上にも登場してトークや曲紹介を行った（後述）。
   - 歌詞のテロップの書体はフォントワークスのニューロダンが使われた（前回はフォントワークスのスーラ、それ以前は写研のナールが使用されていた）。
   - [アンガールズ](../Page/アンガールズ.md "wikilink")、[アンジャッシュ](../Page/アンジャッシュ.md "wikilink")、[南海キャンディーズ](../Page/南海キャンディーズ.md "wikilink")、[ヒロシ](../Page/ヒロシ.md "wikilink")、[まちゃまちゃ](../Page/まちゃまちゃ.md "wikilink")、[安田大サーカス](../Page/安田大サーカス.md "wikilink")（上記6組が[裏番組](../Page/裏番組.md "wikilink")として[日本テレビ系列で放送された](../Page/日本テレビ放送網.md "wikilink")[お笑い番組](../Page/お笑い番組.md "wikilink")にも出演）など数多くの[お笑いタレント](../Page/お笑いタレント.md "wikilink")が応援ゲストとして出演。
-  - 終戦60年を記念し、[吉永小百合](../Page/吉永小百合.md "wikilink")が[山梨県](../Page/山梨県.md "wikilink")[北巨摩郡](../Page/北巨摩郡.md "wikilink")[小淵沢町](../Page/小淵沢町.md "wikilink")（現：[北杜市](../Page/北杜市.md "wikilink")）のフィリア美術館から原爆詩を朗読した。その後、[さだまさし](../Page/さだまさし.md "wikilink")の「[広島の空](../Page/逢ひみての.md "wikilink")」、[森山良子](../Page/森山良子.md "wikilink")・[直太朗親子の](../Page/森山直太朗.md "wikilink")「[さとうきび畑](../Page/さとうきび畑.md "wikilink")」\[12\]という[平和](../Page/平和.md "wikilink")を考える歌が続く演出がとられた。この2曲は、歌詞表示テロップの書体も特に楷書体になった。
+  - 終戦60年を記念し、[吉永小百合](../Page/吉永小百合.md "wikilink")が[山梨県](../Page/山梨県.md "wikilink")[北巨摩郡](../Page/北巨摩郡.md "wikilink")[小淵沢町](../Page/小淵沢町.md "wikilink")（現：[北杜市](../Page/北杜市.md "wikilink")）のフィリア美術館から原爆詩を朗読した。その後、[さだまさし](../Page/さだまさし.md "wikilink")の「[広島の空](../Page/逢ひみての.md "wikilink")」、[森山良子](../Page/森山良子.md "wikilink")・[直太朗親子の](../Page/森山直太朗.md "wikilink")「[さとうきび畑](../Page/さとうきび畑.md "wikilink")」\[11\]という[平和](../Page/平和.md "wikilink")を考える歌が続く演出がとられた。この2曲は、歌詞表示テロップの書体も特に楷書体になった。
+  - [前川清](../Page/前川清.md "wikilink")は、[石原裕次郎](https://ja.wikipedia.org/wiki/石原裕次郎 "wikilink")の「[夜霧よ今夜もありがとう](https://ja.wikipedia.org/wiki/夜霧よ今夜もありがとう "wikilink")」を歌唱した。「前川清」個人としての出場は今回が最後となっている\[12\]。また後述ような、ハプニングもあった。
   - [氣志團](../Page/氣志團.md "wikilink")の「[One Night Carnival](../Page/One_Night_Carnival.md "wikilink")」では[TBS系列](../Page/TBSテレビ.md "wikilink")『[K-1 PREMIUM 2005 Dynamite\!\!](../Page/K-1_PREMIUM_2005_Dynamite!!.md "wikilink")』、[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[PRIDE 男祭り 2005](../Page/PRIDE_男祭り_2005.md "wikilink")』といった裏番組の[格闘技](../Page/格闘技.md "wikilink")中継を意識した演出があり、[曙が](../Page/曙太郎.md "wikilink")[ボブサップ](https://ja.wikipedia.org/wiki/ボブサップ "wikilink")にKO負けしたシーンも再現された。紹介時のテロップ出しも『PRIDE』と同じ形式だった。
   - [布施明](https://ja.wikipedia.org/wiki/布施明 "wikilink")の「[少年よ](../Page/少年よ.md "wikilink")」では、同曲を主題歌とする[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列『[仮面ライダー響鬼](../Page/仮面ライダー響鬼.md "wikilink")』のヒーロー（[響鬼・威吹鬼・轟鬼](https://ja.wikipedia.org/wiki/音撃戦士 "wikilink")）たちが登場し、怪人との殺陣を披露した（[スーツアクター](../Page/スーツアクター.md "wikilink")も番組と同じく[JAEのメンバーによる](../Page/ジャパンアクションエンタープライズ.md "wikilink")）。さらに終盤には、同作で主演を務めた[細川茂樹](../Page/細川茂樹.md "wikilink")が登場\[13\]。布施が歌い終わると同じに「ヒビキ、鍛えてます\! 全国の少年、来年も一緒に鍛えようぜ\!」と、劇中のキャラクターそのままのメッセージを披露した。この演出にはみのも驚嘆していた。
   - [森山直太朗](../Page/森山直太朗.md "wikilink")はこの年下期の[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[風のハルカ](../Page/風のハルカ.md "wikilink")』の主題歌「[風花](../Page/風花_\(森山直太朗の曲\).md "wikilink")」を歌唱。曲前には同作の出演者である[村川絵梨](../Page/村川絵梨.md "wikilink")、[渡辺いっけい](https://ja.wikipedia.org/wiki/渡辺いっけい "wikilink")、[真矢みき](https://ja.wikipedia.org/wiki/真矢みき "wikilink")、[黒川芽以](https://ja.wikipedia.org/wiki/黒川芽以 "wikilink")が登場した。
@@ -107,7 +108,7 @@ NHKワールド・プレミアムでは翌[2006年](../Page/2006年.md "wikilink
 
 みのはリハーサル時に進行の方針を巡ってスタッフと対立していたことが表沙汰となった\[22\]。みの本人は紅白終了後の会見で「満足度は10%。大不満」「もう少し演出の方法があるね。曲紹介に主眼を置くNHKと自分には相容れないものがあった」「尊敬する[宮田輝](../Page/宮田輝.md "wikilink")さんがやっていた『[ふるさとの歌まつり](https://ja.wikipedia.org/wiki/ふるさとの歌まつり "wikilink")』みたいなのをやりたいね」とのコメントをし、NHKと決別宣言をした\[23\]\[24\]。みのは翌年司会続投に意欲を見せる発言を行ったが、選出ならず（実際司会続投案があったが、上記発言が影響し落選になったとされる\[25\]）。みのの司会担当は今回限りとなっている（山本・山根も同様。一方仲間は翌年も続投）。
 
-『スポーツ報知』、『[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")』、『スポーツニッポン』、『サンケイスポーツ』、『[ZAKZAK](../Page/夕刊フジ.md "wikilink")』が揃って11月17日付において、仲間の司会（紅組司会）起用が有力であると報じていた。さらに、『スポーツ報知』、『日刊スポーツ』、『サンケイスポーツ』、『ZAKZAK』は[SMAP](../Page/SMAP.md "wikilink")の[中居正広](../Page/中居正広.md "wikilink")の司会（白組司会）起用の可能性があるとしていた（『スポーツ報知』については、中居だけでなく同じくSMAPの[草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")、[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")が起用される可能性があるとも報じた。『スポーツニッポン』は男性司会者（白組司会）の人選について、「局アナを含めて検討中」とした）。その後、『日刊スポーツ』、『[デイリースポーツ](../Page/デイリースポーツ.md "wikilink")』が揃って12月8日付において、仲間・山本の起用を報じた。
+『スポーツ報知』、『[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")』、『スポーツニッポン』、『サンケイスポーツ』、『[ZAKZAK](../Page/夕刊フジ.md "wikilink")』が揃って11月17日付において、仲間の司会（紅組司会）起用が有力であると報じていた。さらに、『スポーツ報知』、『日刊スポーツ』、『サンケイスポーツ』、『ZAKZAK』は[SMAP](../Page/SMAP.md "wikilink")の[中居正広](../Page/中居正広.md "wikilink")の司会（白組司会）起用の可能性があるとしていた（『スポーツ報知』については、中居だけでなく同じくSMAPの[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")、[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")が起用される可能性があるとも報じた。『スポーツニッポン』は男性司会者（白組司会）の人選について、「局アナを含めて検討中」とした）。その後、『日刊スポーツ』、『[デイリースポーツ](../Page/デイリースポーツ.md "wikilink")』が揃って12月8日付において、仲間・山本の起用を報じた。
 
 『[東京スポーツ](../Page/東京スポーツ.md "wikilink")』（12月2日付）、『[ゲンダイネット](../Page/日刊ゲンダイ.md "wikilink")』（2006年11月20日付）によると中居については、司会の打診を辞退したとされる（辞退理由は「みののサブ的位置の司会を掲示したNHKに不満を抱いたため」と位置付けられた。『ゲンダイネット』によると翌年の第57回で中居が白組司会に起用されたのはNHK側が中居側に今回の侘びをする意味もあったほか、今回司会者の区別を廃止としたのはみのと中居に何とか共同司会をしてもらうための策でもあったという）。
 
@@ -215,7 +216,7 @@ NHKワールド・プレミアムでは翌[2006年](../Page/2006年.md "wikilink
 </tr>
 <tr class="even">
 <td><p>30</p></td>
-<td><p><a href="../Page/森山良子.md" title="wikilink">森山良子</a> (10)（・森山直太朗）</p></td>
+<td><p><a href="../Page/森山良子.md" title="wikilink">森山良子</a> (10)（森山直太朗[27]）</p></td>
 </tr>
 <tr class="odd">
 <td><p>第二部</p></td>
@@ -355,7 +356,7 @@ NHKワールド・プレミアムでは翌[2006年](../Page/2006年.md "wikilink
   - [ダース・ベイダー](../Page/ダース・ベイダー.md "wikilink")、[ストームトルーパー](../Page/ストームトルーパー_\(スター・ウォーズ\).md "wikilink")（『スター・ウォーズ・シリーズ』のキャラクター）：T.M.Revolutionの曲中に登場。
   - [アンガールズ](../Page/アンガールズ.md "wikilink")：aikoの曲紹介。
 
-この年ブレイクした[レイザーラモンHG](../Page/レイザーラモンHG.md "wikilink")のゲスト出演の可能性が各所で報じられた\[27\]\[28\]が、実現しなかった。
+この年ブレイクした[レイザーラモンHG](../Page/レイザーラモンHG.md "wikilink")のゲスト出演の可能性が各所で報じられた\[28\]\[29\]が、実現しなかった。
 
 ## スタッフ
 
@@ -385,35 +386,37 @@ NHKワールド・プレミアムでは翌[2006年](../Page/2006年.md "wikilink
 
 ## 外部リンク
 
+  - [NHK紅白歌合戦 公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=56)
   - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:2005年の日本の音楽](https://ja.wikipedia.org/wiki/Category:2005年の日本の音楽 "wikilink") [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink") [Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink") [Category:データ放送連動番組](https://ja.wikipedia.org/wiki/Category:データ放送連動番組 "wikilink") [Category:2005年12月](https://ja.wikipedia.org/wiki/Category:2005年12月 "wikilink")
 
-1.  <http://www.zakzak.co.jp/gei/2005_11/g2005111702.html> [ZAKZAK](../Page/夕刊フジ.md "wikilink")
-2.  『[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")』2005年11月17日付
-3.  公式ファンクラブのカウントダウンライブに出演するため（『[スポーツ報知](../Page/スポーツ報知.md "wikilink")』より）。
-4.  スケジュールの都合が合わなかったため（『スポーツ報知』より）。
-5.  [1](http://www.toonippo.co.jp/tokushuu/danmen/danmen2005/1201.html),[東奥日報](../Page/東奥日報.md "wikilink"),2005年12月1日付
-6.  『夕刊フジ』より
-7.  <http://gforum.jp/news/detail/3908>
-8.  『[東京中日スポーツ](../Page/東京中日スポーツ.md "wikilink")』2005年12月14日付
-9.  後藤真希→後藤真希&松浦亜弥→DEF.DIVA。
-10. 翌年の第57回には[GAMとして出場](../Page/GAM_\(音楽ユニット\).md "wikilink")。そしてこれ以降出場はしていない。
-11. 『[スポーツ報知](../Page/スポーツ報知.md "wikilink")』2010年12月25日付には「第57回 - 第60回は中居が（組）司会だったためSMAPの白組トリ（大トリ）がなかった」と書かれている。並びに中居が組司会兼任の回ではSMAPが白組トリを務めることができないとも取れる内容の見解も示されている。
-12. 紅白における親子の同一曲同時歌唱は史上初。
+1.  『[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")』2005年11月17日付
+2.  公式ファンクラブのカウントダウンライブに出演するため（『[スポーツ報知](../Page/スポーツ報知.md "wikilink")』より）。
+3.  スケジュールの都合が合わなかったため（『スポーツ報知』より）。
+4.  [東奥日報](../Page/東奥日報.md "wikilink")・2005年12月1日付
+5.  『夕刊フジ』より
+6.  <http://gforum.jp/news/detail/3908>
+7.  『[東京中日スポーツ](../Page/東京中日スポーツ.md "wikilink")』2005年12月14日付
+8.  後藤真希→後藤真希&松浦亜弥→DEF.DIVA。
+9.  翌年の第57回には[GAMとして出場](../Page/GAM_\(音楽ユニット\).md "wikilink")。そしてこれ以降出場はしていない。
+10. 『[スポーツ報知](../Page/スポーツ報知.md "wikilink")』2010年12月25日付には「第57回 - 第60回は中居が（組）司会だったためSMAPの白組トリ（大トリ）がなかった」と書かれている。並びに中居が組司会兼任の回ではSMAPが白組トリを務めることができないとも取れる内容の見解も示されている。
+11. 紅白における親子の同一曲同時歌唱は史上初。
+12. [2006年](../Page/第57回NHK紅白歌合戦.md "wikilink")-[2008年は](https://ja.wikipedia.org/wiki/第59回NHK紅白歌合戦 "wikilink")「[前川清&クール・ファイブ](../Page/内山田洋とクール・ファイブ.md "wikilink")」として、出場している。
 13. また細川はこの年の大河ドラマ『[義経](../Page/義経_\(NHK大河ドラマ\).md "wikilink")』にも[平重衡](../Page/平重衡.md "wikilink")役で出演していた。
 14. 『[サンケイスポーツ](../Page/サンケイスポーツ.md "wikilink")』2006年1月の報道
 15. [合田道人](../Page/合田道人.md "wikilink")『紅白歌合戦の舞台裏』
 16. 『スポーツ報知』2006年1月1日付
 17. [第56回NHK紅白歌合戦のリハーサル現場からレポート](https://www.phileweb.com/news/d-av/200512/30/14526.html)(2005年12月30日)PHILEWEB、2018年11月15日閲覧。
 18. [前回はお茶の間デジタル審査員の票は](https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦 "wikilink")42,108対26,929で白組が圧倒的であったが、特別審査員の多くが紅組に投票したため、紅組が8対5で優勝という事例が発生。視聴者票を覆した結果に視聴者・マスコミから批判の声が挙がっていた。ちなみに、[第67回](https://ja.wikipedia.org/wiki/第67回NHK紅白歌合戦 "wikilink")([2016年](../Page/2016年.md "wikilink"))でも同様の理由で批判が起きている。(紅組が9対6で優勝)
-19. みのの本紅白以前のNHK出演は1985年8月20日・12月6日放送の『[ひるのプレゼント](../Page/ひるのプレゼント.md "wikilink")』にゲストとしての出演([NHK番組表ヒストリー](https://www.nhk.or.jp/archives/chronicle/))、1997年03月21日放送のBS2『ウイークエンド・スペシャル』、1999年7月25日放送のBS2『いまさら聞けないあなたのためのNHK流行講座』、2002年10月放送の「[わたしはあきらめない](../Page/わたしはあきらめない.md "wikilink")」のみ（『サンケイスポーツ』2005年11月18日付）。
+19. みのの本紅白以前のNHK出演は1985年8月20日・12月6日放送の『[ひるのプレゼント](../Page/ひるのプレゼント.md "wikilink")』にゲストとしての出演、1997年03月21日放送のBS2『ウイークエンド・スペシャル』、1999年7月25日放送のBS2『いまさら聞けないあなたのためのNHK流行講座』、2002年10月放送の「[わたしはあきらめない](../Page/わたしはあきらめない.md "wikilink")」のみ（『サンケイスポーツ』2005年11月18日付）。
 20. 『[スポーツ報知](../Page/スポーツ報知.md "wikilink")』2005年11月18日付
 21. 同じく『スポーツ報知』2005年11月18日付
 22. 『サンケイスポーツ』2005年12月30日付
-23. <http://www.nikkansports.com/ns/entertainment/p-et-tp0-060101-0003.html> [日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink") 2006年1月1日
-24. <http://www.tv-asahi.co.jp/smt/f/geinou_tokuho/hot/?id=hot_20060101_030&> テレ朝芸能特報 2006年1月1日
+23. [日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")・2006年1月1日
+24. テレ朝芸能特報 2006年1月1日
 25. 詳細は「[第57回NHK紅白歌合戦](../Page/第57回NHK紅白歌合戦.md "wikilink")」の項を参照。
-26. <http://iss.ndl.go.jp/books/R000000004-I7439234-00?ar=4e1f>
-27. <http://www.zakzak.co.jp/gei/2005_10/g2005102712.html> ZAKZAK(2005年10月27日付)
-28. 『スポーツニッポン』2005年12月12日付
+26. [船越英一郎を『紅白歌合戦』司会に抜擢のワケ](http://iss.ndl.go.jp/books/R000000004-I7439234-00?ar=4e1f/)
+27. 母である、森山良子のサポートとして参加
+28. 『ZAKZAK』(2005年10月27日付)
+29. 『スポーツニッポン』2005年12月12日付

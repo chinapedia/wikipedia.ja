@@ -46,7 +46,7 @@
 
 [Category:Globeの楽曲](https://ja.wikipedia.org/wiki/Category:Globeの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:1995年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1995年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:トヨタ自動車のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:トヨタ自動車のコマーシャルソング "wikilink")
 
-1.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊「[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")」1996年5月号87P-89Pより。
+1.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊「[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")」1996年5月号「globe The Completely Free Triangle」87P-89Pより。
 2.
 3.  [ぴあ](../Page/ぴあ.md "wikilink")刊「小室哲哉ぴあ TK編」78Pより。
 4.

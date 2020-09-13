@@ -1,7 +1,7 @@
 > この記事は[太閤記 \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/太閤記_\(NHK大河ドラマ\))から翻訳されています。
 
 
-『**太閤記**』（たいこうき）とは[NHKが](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1965年](../Page/1965年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink")から[12月26日](../Page/12月26日.md "wikilink")まで放送した第3[大河ドラマ](../Page/大河ドラマ.md "wikilink")。
+『**太閤記**』（たいこうき）は、[1965年](../Page/1965年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink")から[12月26日](../Page/12月26日.md "wikilink")に[NHKで放送された](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")3作目の[大河ドラマ](../Page/大河ドラマ.md "wikilink")。
 
 ## 概要
 
@@ -33,7 +33,7 @@
   - [木下弥右衛門](../Page/木下弥右衛門.md "wikilink")：[須永宏](https://ja.wikipedia.org/wiki/須永宏 "wikilink")
       -
         秀吉の実父
-  - [筑阿弥](../Page/竹阿弥.md "wikilink")：茂山七五三（現・[茂山千作](https://ja.wikipedia.org/wiki/茂山千作_\(4代目\) "wikilink")）
+  - [筑阿弥](../Page/竹阿弥.md "wikilink")：茂山七五三（後の四世[茂山千作](../Page/茂山千作.md "wikilink")）
       -
         秀吉の義父
   - [おつみ](../Page/日秀尼.md "wikilink")：[高野通子](https://ja.wikipedia.org/wiki/高野通子 "wikilink")
@@ -47,7 +47,7 @@
   - [おこひ](https://ja.wikipedia.org/wiki/朝日殿 "wikilink")：[花柳小菊](https://ja.wikipedia.org/wiki/花柳小菊 "wikilink")
       -
         ねねの母
-  - [やや](https://ja.wikipedia.org/wiki/長生院 "wikilink")：[本間千代子](../Page/本間千代子.md "wikilink")
+  - [やや](https://ja.wikipedia.org/wiki/長生院_\(浅野長政正室\) "wikilink")：[本間千代子](../Page/本間千代子.md "wikilink")
   - [於次丸](../Page/羽柴秀勝.md "wikilink")：[石井浩](https://ja.wikipedia.org/wiki/石井浩 "wikilink")
       -
         秀吉の養子
@@ -325,13 +325,13 @@
 
 ## 映像の現存状況
 
-[本能寺の変](../Page/本能寺の変.md "wikilink")を題材にした第42話「本能寺」が現存しており、『NHK想い出倶楽部2～黎明期の大河ドラマ編～（3）太閤記』としてDVD販売されている。テレビ開局記念番組での石田三成役の石坂浩二のコメントによると、この回は室内で火を焚くことが出来ず、フィルムで撮影したため残ったとの事だが、実際に保管されている媒体は放送局用[ビデオテープ](https://ja.wikipedia.org/wiki/ビデオテープ "wikilink")（[2インチVTR](../Page/2インチVTR.md "wikilink")）である\[51\]。いずれにしても、放送局用[ビデオテープ](https://ja.wikipedia.org/wiki/ビデオテープ "wikilink")が非常に高価で大型だった時代でもあり、テープは放送終了後に消去されて他の番組に利用された為、本番組の素材もほとんど消去されたものの、第42話は、放送されたバージョンと、コンクール出品用に再編集されたバージョンの2種類が現存している。
+[本能寺の変](../Page/本能寺の変.md "wikilink")を題材にした第42話「本能寺」が現存しており、『NHK想い出倶楽部2～黎明期の大河ドラマ編～（3）太閤記』としてDVD販売されている。テレビ開局記念番組での石田三成役の石坂浩二のコメントによると、この回は室内で火を焚くことが出来ず、フィルムで撮影したため残ったとのことであるが、実際に保管されている媒体は放送局用[ビデオテープ](https://ja.wikipedia.org/wiki/ビデオテープ "wikilink")（[2インチVTR](../Page/2インチVTR.md "wikilink")）である\[51\]。いずれにしても、放送局用[ビデオテープ](https://ja.wikipedia.org/wiki/ビデオテープ "wikilink")が非常に高価で大型だった時代でもあり、テープは放送終了後に消去されて他の番組に利用されたため、本番組の素材もほとんど消去されたものの、第42話は放送されたバージョンと、コンクール出品用に再編集されたバージョンの2種類が現存している。
 
-残存している第42話には「秀吉と信長の出会い」、「桶狭間合戦」、「秀吉の稲葉山上でのお市救出」、「安土桃山城築城」が回想シーンとして、挿入されている。「桶狭間合戦」については製作現場を撮影した映像と当該シーンも残存している。
+残存している第42話には「秀吉と信長の出会い」、「桶狭間合戦」、「秀吉の稲葉山上でのお市救出」、「安土桃山城築城」が回想シーンとして挿入されている。「桶狭間合戦」については製作現場を撮影した映像と当該シーンも残存している。
 
-なお、2008年に主演の緒形拳が亡くなった際、NHKのニュースにおいて唯一現存する第42話にないはずの秀吉とねねが戯れるシーンが紹介されていた(ただし第何話か不明)。 　
+なお、2008年に主演の緒形拳が亡くなった際、NHKのニュースにおいて唯一現存する第42話にないはずの、秀吉とねねが戯れるシーンが紹介されていた（ただし第何話か不明）。 　
 
-また、本作品の美術を取り上げた「ネットワークNHK　スタジオ一夜城｣が保存番組に登録されている。
+また、本作品の美術を取り上げた『ネットワークNHK スタジオ一夜城』が保存番組に登録されている。
 
 ## 脚注・注釈
 
@@ -339,7 +339,7 @@
 
   - \[<https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010118_00000>　大河ドラマ　太閤記 - NHK名作選(動画・静止画) NHKアーカイブス\]
 
-[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1965年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1965年のテレビドラマ "wikilink") [Category:NHK名古屋](https://ja.wikipedia.org/wiki/Category:NHK名古屋 "wikilink") [Category:吉川英治原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:吉川英治原作のテレビドラマ "wikilink") [Category:戦国時代_(日本)を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:戦国時代_\(日本\)を舞台としたテレビドラマ "wikilink") [Category:安土桃山時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:安土桃山時代を舞台としたテレビドラマ "wikilink") [Category:豊臣秀吉を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:豊臣秀吉を題材としたテレビドラマ "wikilink") [Category:緒形拳](https://ja.wikipedia.org/wiki/Category:緒形拳 "wikilink")
+[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1965年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1965年のテレビドラマ "wikilink") [Category:NHK名古屋](https://ja.wikipedia.org/wiki/Category:NHK名古屋 "wikilink") [Category:吉川英治原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:吉川英治原作のテレビドラマ "wikilink") [Category:日本の戦国時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:日本の戦国時代を舞台としたテレビドラマ "wikilink") [Category:安土桃山時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:安土桃山時代を舞台としたテレビドラマ "wikilink") [Category:豊臣秀吉を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:豊臣秀吉を題材としたテレビドラマ "wikilink") [Category:緒形拳](https://ja.wikipedia.org/wiki/Category:緒形拳 "wikilink")
 
 1.
 2.

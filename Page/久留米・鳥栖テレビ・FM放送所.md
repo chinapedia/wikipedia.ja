@@ -22,12 +22,12 @@
 
 当初は耳納山系に設置することも検討されたが、九千部山に設けた方が筑後の広い範囲をカバーできるとして、最終的に九千部山に決まった。しかし、県境地域に設けられたこともあり、放送エリアのめやすは佐賀県の一部地域にも広がった\[3\]。その後、佐賀県の放送局もこの九千部山に鳥栖市向け中継局を設置した（NHK佐賀はNHK福岡と共建、STS・FM佐賀は鳥栖市側に共建で設置）。
 
-  - [1964年](../Page/1964年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")39年）[8月31日](../Page/8月31日.md "wikilink")　NHK福岡放送局と福岡のVHF民放3局(社)が、九千部山に久留米中継局を開設。
+  - [1964年](../Page/1964年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")39年）[8月31日](../Page/8月31日.md "wikilink")　NHK福岡放送局と福岡のVHF民放3局（社）が、九千部山に久留米中継局を開設。
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）[4月1日](../Page/4月1日.md "wikilink")　福岡放送久留米中継局、福岡局と同時開局。
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")　サガテレビが、九千部山に鳥栖中継局を開設。
   - [1991年](../Page/1991年.md "wikilink")（[平成](../Page/平成.md "wikilink")3年）4月1日　ティー・エックス・エヌ九州（現在のTVQ九州放送）久留米中継局、福岡局・北九州中継局と同時開局。
   - [1993年](../Page/1993年.md "wikilink")（平成5年）[9月1日](../Page/9月1日.md "wikilink")　[エフエム九州](../Page/エフエム九州.md "wikilink")（現在のCROSS FM）久留米中継局、福岡局など4局と同時開局
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）4月1日　九州国際エフエム（2011年1月1日に[天神エフエム](../Page/天神エフエム.md "wikilink")に承継後、同年7月1日[ラブエフエム国際放送](../Page/ラブエフエム国際放送.md "wikilink")に社名変更。）福岡局、当地を親局として開局（北九州中継局同時開局）。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）4月1日　九州国際エフエム（2011年1月1日に[天神エフエム](../Page/天神エフエム.md "wikilink")に承継後、同年7月1日[ラブエフエム国際放送](../Page/ラブエフエム国際放送.md "wikilink")に社名変更）福岡局、当地を親局として開局（北九州中継局同時開局）。
   - [2003年](../Page/2003年.md "wikilink")（平成15年）[7月1日](../Page/7月1日.md "wikilink")　エフエム佐賀鳥栖中継局開局。
   - [2006年](../Page/2006年.md "wikilink")（平成18年）[12月1日](../Page/12月1日.md "wikilink")　久留米局出力3W、佐賀局出力100W（定格）で地上デジタルテレビジョン放送開始。
 
@@ -47,6 +47,7 @@
   - [2016年](../Page/2016年.md "wikilink")（平成28年）
       - [3月28日](../Page/3月28日.md "wikilink")　[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")と[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")がFM補完中継局を開局\[6\]\[7\]。
       - [6月30日](../Page/6月30日.md "wikilink")　モバキャスが放送終了\[8\]。
+  - [2020年](../Page/2020年.md "wikilink")（令和2年）[7月17日](../Page/7月17日.md "wikilink")　[NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink")鳥栖FM補完中継局の免許交付\[9\]。
 
 ## 親局と中継局の区分
 
@@ -69,7 +70,7 @@
   - [TVQ九州放送](../Page/TVQ九州放送.md "wikilink") 久留米テレビ中継局（デジタル、アナログ）
   - NHK佐賀放送局 鳥栖テレビ中継局（NHK佐賀アナログ総合） ※アナログ教育、デジタル総合・教育はなし。
   - サガテレビ 鳥栖テレビ中継局（アナログ） ※デジタルはなし。
-  - NHK福岡放送局　久留米FM中継局
+  - NHK福岡放送局 久留米FM中継局
   - [エフエム福岡](../Page/エフエム福岡.md "wikilink") 久留米FM中継局
   - [CROSS FM](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink") 久留米FM中継局
   - [エフエム佐賀](../Page/エフエム佐賀.md "wikilink") 鳥栖FM中継局
@@ -81,17 +82,17 @@
 <thead>
 <tr class="header">
 <th><p><a href="../Page/リモコンキーID.md" title="wikilink">ID</a></p></th>
-<th><p>放送局名</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/識別信号#呼出符号" title="wikilink">呼出符号</a></p></th>
+<th><p>放送局名]</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/識別信号#呼出符号" title="wikilink">呼出符号</a>]</p></th>
 <th><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル<br />
-番号</a></p></th>
+番号</a>]</p></th>
 <th><p><a href="../Page/空中線電力.md" title="wikilink">空中線<br />
-電力</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></th>
-<th><p><a href="../Page/偏光.md" title="wikilink">偏波面</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></th>
+電力</a>]</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a>]</p></th>
+<th><p><a href="../Page/偏光.md" title="wikilink">偏波面</a>]</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a>]</p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送区域" title="wikilink">放送区域</a><br />
-内世帯数</p></th>
+内世帯数]</p></th>
 <th><p>運用開始日</p></th>
 </tr>
 </thead>
@@ -333,10 +334,10 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>14[9]</p></td>
+<td><p>14[10]</p></td>
 <td><p>TVQ<br />
 TVQ九州放送</p></td>
-<td><p>300W[10][11] / 75W</p></td>
+<td><p>300W[11][12] / 75W</p></td>
 <td></td>
 <td></td>
 <td><p>福岡県</p></td>
@@ -345,7 +346,7 @@ TVQ九州放送</p></td>
 4月1日</p></td>
 </tr>
 <tr class="odd">
-<td><p>46[12]</p></td>
+<td><p>46[13]</p></td>
 <td><p>NHK<br />
 福岡総合</p></td>
 <td></td>
@@ -368,7 +369,7 @@ RKB毎日放送</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>52[13]</p></td>
+<td><p>52[14]</p></td>
 <td><p>FBS<br />
 福岡放送</p></td>
 <td><p>1969年<br />
@@ -380,7 +381,7 @@ RKB毎日放送</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>54[14]</p></td>
+<td><p>54[15]</p></td>
 <td><p>NHK<br />
 福岡教育</p></td>
 <td></td>
@@ -392,7 +393,7 @@ RKB毎日放送</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>57[15]</p></td>
+<td><p>57[16]</p></td>
 <td><p>KBC<br />
 九州朝日放送</p></td>
 <td></td>
@@ -463,7 +464,7 @@ RKB毎日放送</p></td>
 <thead>
 <tr class="header">
 <th><p><a href="../Page/周波数.md" title="wikilink">周波数</a><br />
-<a href="https://ja.wikipedia.org/wiki/メガヘルツ" title="wikilink">MHz</a></p></th>
+（<a href="https://ja.wikipedia.org/wiki/メガヘルツ" title="wikilink">MHz</a>）</p></th>
 <th><p>放送局名</p></th>
 <th><p>呼出符号など</p></th>
 <th><p>空中線<br />
@@ -477,44 +478,44 @@ RKB毎日放送</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>76.1[16]</p></td>
+<td><p>76.1[17]</p></td>
 <td><p><a href="../Page/ラブエフエム国際放送.md" title="wikilink">LOVE FM</a><br />
 福岡局</p></td>
-<td><p>JOFW-FM[17]</p></td>
-<td><p>1kW[18]</p></td>
-<td><p>1.85kW[19]</p></td>
+<td><p>JOFW-FM[18]</p></td>
+<td><p>1kW[19]</p></td>
+<td><p>1.85kW[20]</p></td>
 <td><p>福岡市を中心として<br />
 同一の放送番組を同時に受信できることが<br />
 相当と認められる区域として<br />
-総務大臣が別に定める区域[20]</p></td>
+総務大臣が別に定める区域[21]</p></td>
 <td></td>
 <td><p>1997年<br />
 4月1日</p></td>
 </tr>
 <tr class="even">
-<td><p>79.7[21]</p></td>
+<td><p>79.7[22]</p></td>
 <td><p><a href="../Page/エフエム佐賀.md" title="wikilink">エフエム佐賀</a></p></td>
 <td><p>（鳥栖中継局）</p></td>
-<td><p>20W[22]</p></td>
-<td><p>100W[23]</p></td>
+<td><p>20W[23]</p></td>
+<td><p>100W[24]</p></td>
 <td><p>佐賀県</p></td>
 <td><p>-</p></td>
 <td><p>2003年<br />
 7月1日</p></td>
 </tr>
 <tr class="odd">
-<td><p>82.1[24]</p></td>
+<td><p>82.1[25]</p></td>
 <td><p><a href="../Page/エフエム福岡.md" title="wikilink">FM FUKUOKA</a></p></td>
 <td><p>（久留米中継局）</p></td>
-<td><p>30W[25][26][27]</p></td>
-<td><p>140W[28][29][30]</p></td>
+<td><p>30W[26][27][28]</p></td>
+<td><p>140W[29][30][31]</p></td>
 <td><p>福岡県</p></td>
 <td><p>1973年<br />
 12月24日</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>83.4[31]</p></td>
+<td><p>83.4[32]</p></td>
 <td><p>NHK<br />
 福岡<a href="../Page/NHK-FM放送.md" title="wikilink">FM</a></p></td>
 <td><p>1970年<br />
@@ -526,7 +527,7 @@ RKB毎日放送</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>86.5[32]</p></td>
+<td><p>86.5[33]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/CROSS_FM" title="wikilink">CROSS FM</a></p></td>
 <td><p>1993年<br />
 9月1日</p></td>
@@ -537,34 +538,46 @@ RKB毎日放送</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>90.2[33]</p></td>
+<td><p>90.2[34]</p></td>
 <td><p>KBC<br />
 九州朝日放送</p></td>
-<td><p>（KBC福岡FM）[34]</p></td>
-<td><p>1kW[35][36]</p></td>
-<td><p>3kW[37][38]</p></td>
-<td><p>1,262,824世帯（申請による）[39][40]</p></td>
+<td><p>（KBC福岡FM）[35]</p></td>
+<td><p>1kW[36][37]</p></td>
+<td><p>3kW[38][39]</p></td>
+<td><p>1,262,824世帯（申請による）[40][41]</p></td>
 <td><p>2016年<br />
-3月28日[41][42]</p></td>
+3月28日[42][43]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>91.0[43]</p></td>
+<td><p>91.0[44]</p></td>
 <td><p>RKB<br />
 RKB毎日放送</p></td>
-<td><p>（RKB福岡FM）[44]</p></td>
+<td><p>（RKB福岡FM）[45]</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>92.1[46]</p></td>
+<td><p>NBC<br />
+長崎放送</p></td>
+<td><p>（NBC鳥栖FM補完中継局）[47]</p></td>
+<td><p>20W[48]</p></td>
+<td><p>110W[49]</p></td>
+<td><p>長崎県・佐賀県[50]</p></td>
+<td><p>-</p></td>
+<td><p>2020年<br />
+8月1日[51]</p></td>
 </tr>
 </tbody>
 </table>
 
 ### 備考
 
-  - LOVE FMの放送対象地域は放送法令により「**外国語放送実施地域**」として定められた都市であり\[45\]、福岡局では[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")、[久留米市](../Page/久留米市.md "wikilink")、[大牟田市](../Page/大牟田市.md "wikilink")及び[佐賀市](https://ja.wikipedia.org/wiki/佐賀市 "wikilink")が該当する（いずれも平成の大合併以前の市域に限られる）\[46\]。
+  - LOVE FMの放送対象地域は放送法令により「**外国語放送実施地域**」として定められた都市であり\[52\]、福岡局では[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")、[久留米市](../Page/久留米市.md "wikilink")、[大牟田市](../Page/大牟田市.md "wikilink")及び[佐賀市](https://ja.wikipedia.org/wiki/佐賀市 "wikilink")が該当する（いずれも平成の大合併以前の市域に限られる）\[53\]。
 
 ## マルチメディア放送
 
@@ -586,8 +599,8 @@ RKB毎日放送</p></td>
 <td><p>214.714286MHz</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジャパン・モバイルキャスティング" title="wikilink">Jモバ</a><br />
 鳥栖MMH</p></td>
-<td><p>7.5kW[47]</p></td>
-<td><p>37kW[48]</p></td>
+<td><p>7.5kW[54]</p></td>
+<td><p>37kW[55]</p></td>
 <td><p>佐賀県、福岡県の各一部</p></td>
 <td><p>約-世帯</p></td>
 </tr>
@@ -596,7 +609,7 @@ RKB毎日放送</p></td>
 
 ### 備考
 
-  - Jモバは[NOTTV](https://ja.wikipedia.org/wiki/NOTTV "wikilink")のサービス終了に伴い[2016年](../Page/2016年.md "wikilink")（平成28年）[6月30日](../Page/6月30日.md "wikilink")をもって放送終了した\[49\]。
+  - Jモバは[NOTTV](https://ja.wikipedia.org/wiki/NOTTV "wikilink")のサービス終了に伴い[2016年](../Page/2016年.md "wikilink")（平成28年）[6月30日](../Page/6月30日.md "wikilink")をもって放送終了した\[56\]。
 
 ## 送信所配置等について
 
@@ -631,34 +644,34 @@ RKB毎日放送</p></td>
 3.  [放送エリアのめやす（久留米局 A-PAB）](http://apab-tv-area.jp/map/40-0317)
 4.
 5.  [鳥栖送信所の無線局予備免許を取得](http://www.j-mobilecasting.com/news/2014/07/17/1258/)（ジャパン・モバイルキャスティング 2014年7月17日）
-6.  [ワイドFM(RKBラジオ）](http://rkbr.jp/widefm/)2016年3月8日閲覧
+6.  [ワイドFM（RKBラジオ）](http://rkbr.jp/widefm/) 2016年3月8日閲覧
 7.  [ワイドFM（九州朝日放送）](http://www.kbc.co.jp/radio/wide_fm/)2016年3月8日閲覧
 8.  [ホームページ閉鎖のお知らせ](http://www.j-mobilecasting.com/)
-9.  [TVQ会社概要（2004年6月22日現在のアーカイブ）](https://web.archive.org/web/20040622163222/http://www.tvq.co.jp/info/gaiyou.html)（[オリジナルURL](http://www.tvq.co.jp/info/gaiyou.html)
-10. [NHK福岡放送局受信情報（2009年2月25日現在のアーカイブ）](https://web.archive.org/web/20090225192440/http://www.nhk.or.jp/fukuoka/channel/index.html)（[オリジナルURL](http://web.archive.org/web/20090225192440/http://www.nhk.or.jp/fukuoka/channel/index.html)）
-11. [放送用周波数使用計画（2009年7月22日現在のアーカイブ）](http://warp.da.ndl.go.jp/info:ndljp/pid/286922/www.tele.soumu.go.jp/horei/reiki_honbun/00004710002.html)
-12.
-13. [FBS福岡放送会社情報（2005年3月5日現在のアーカイブ）](https://web.archive.org/web/20050305075912/http://www.fbs.co.jp/company/profile/profile.html)（[オリジナルURL](http://www.fbs.co.jp/company/profile/profile.html)
-14.
-15. [九州朝日放送インフォメーション（2006年1月13日現在のアーカイブ）](https://web.archive.org/web/20060113063412/http://www.kbc.co.jp/info/tv.shtml)（[オリジナルURL](http://www.kbc.co.jp/info/tv.shtml)）
-16. [無線局免許状等情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=H&DFCD=0000549731&DD=1&styleNumber=01)
-17.
+9.  [佐賀県鳥栖地区で長崎放送のFM補完放送が聴取可能に（総務省|九州総合通信局）](https://www.soumu.go.jp/soutsu/kyushu/press/200717-1_.html) 2020年7月18日閲覧
+10. [TVQ会社概要（2004年6月22日現在のアーカイブ）](https://web.archive.org/web/20040622163222/http://www.tvq.co.jp/info/gaiyou.html)（[オリジナルURL](http://www.tvq.co.jp/info/gaiyou.html)
+11. [NHK福岡放送局受信情報（2009年2月25日現在のアーカイブ）](https://web.archive.org/web/20090225192440/http://www.nhk.or.jp/fukuoka/channel/index.html)（[オリジナルURL](http://web.archive.org/web/20090225192440/http://www.nhk.or.jp/fukuoka/channel/index.html)）
+12. [放送用周波数使用計画（2009年7月22日現在のアーカイブ）](http://warp.da.ndl.go.jp/info:ndljp/pid/286922/www.tele.soumu.go.jp/horei/reiki_honbun/00004710002.html)
+13.
+14. [FBS福岡放送会社情報（2005年3月5日現在のアーカイブ）](https://web.archive.org/web/20050305075912/http://www.fbs.co.jp/company/profile/profile.html)（[オリジナルURL](http://www.fbs.co.jp/company/profile/profile.html)
+15.
+16. [九州朝日放送インフォメーション（2006年1月13日現在のアーカイブ）](https://web.archive.org/web/20060113063412/http://www.kbc.co.jp/info/tv.shtml)（[オリジナルURL](http://www.kbc.co.jp/info/tv.shtml)）
+17. [無線局免許状等情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=H&DFCD=0000549731&DD=1&styleNumber=01)
 18.
 19.
-20. [基幹放送用周波数使用計画](http://www.tele.soumu.go.jp/horei/reiki_honbun/a000047101.html)
-21. [無線局免許状等情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=H&DFCD=0000550342&DD=1&styleNumber=01)
-22.
+20.
+21. [基幹放送用周波数使用計画](http://www.tele.soumu.go.jp/horei/reiki_honbun/a000047101.html)
+22. [無線局免許状等情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=H&DFCD=0000550342&DD=1&styleNumber=01)
 23.
-24. [無線局免許状等情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=H&DFCD=0000015369&DD=1&styleNumber=01)
-25.
+24.
+25. [無線局免許状等情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=H&DFCD=0000015369&DD=1&styleNumber=01)
 26.
 27.
 28.
 29.
 30.
-31. [無線局免許状等情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=H&DFCD=0000015100&DD=1&styleNumber=01)
-32. [無線局免許状等情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=H&DFCD=0000021224&DD=1&styleNumber=01)
-33.
+31.
+32. [無線局免許状等情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=H&DFCD=0000015100&DD=1&styleNumber=01)
+33. [無線局免許状等情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=H&DFCD=0000021224&DD=1&styleNumber=01)
 34.
 35.
 36.
@@ -670,8 +683,15 @@ RKB毎日放送</p></td>
 42.
 43.
 44.
-45. [基幹放送普及計画（総務省）](http://www.tele.soumu.go.jp/horei/reiki_honbun/a000046801.html)
-46. [放送普及基本計画第2の2の（1）のウの規定による一般放送事業者の行う超短波放送のうちの外国語放送を行う放送局の放送対象地域](http://www.tele.soumu.go.jp/horei/reiki_honbun/a000046901.html)
-47. [無線局免許状等情報（鳥栖送信所）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=H&DFCD=0001219090&DD=1&styleNumber=01)（総務省 電波利用ホームページ 2014年12月1日閲覧）
+45.
+46.
+47.
 48.
 49.
+50. [基幹放送普及計画 昭和63年10月01日 郵政省告示第660号（総務省電波利用ホームページ）](https://www.tele.soumu.go.jp/horei/reiki_honbun/a000046801.html)2020年7月18日閲覧
+51.
+52. [基幹放送普及計画（総務省）](http://www.tele.soumu.go.jp/horei/reiki_honbun/a000046801.html)
+53. [放送普及基本計画第2の2の（1）のウの規定による一般放送事業者の行う超短波放送のうちの外国語放送を行う放送局の放送対象地域](http://www.tele.soumu.go.jp/horei/reiki_honbun/a000046901.html)
+54. [無線局免許状等情報（鳥栖送信所）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=H&DFCD=0001219090&DD=1&styleNumber=01)（総務省 電波利用ホームページ 2014年12月1日閲覧）
+55.
+56.

@@ -159,7 +159,7 @@
   - [エドガー・グロスピロン](../Page/エドガー・グロスピロン.md "wikilink")
   - [ファブリス・ウジエ](https://ja.wikipedia.org/wiki/:pl:Fabrice_Ougier "wikilink")
   - [モヒカン小林](https://ja.wikipedia.org/wiki/モヒカン小林 "wikilink")
-  - [石田浩](https://ja.wikipedia.org/wiki/石田浩 "wikilink")
+  - [石田浩](https://ja.wikipedia.org/wiki/石田浩_\(スキー\) "wikilink")
   - [里谷多英](https://ja.wikipedia.org/wiki/里谷多英 "wikilink")
 
 ## テーマ曲

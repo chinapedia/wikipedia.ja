@@ -30,10 +30,10 @@
 ## 現メンバー
 
   - **生熊耕治**（いくまこうじ） リーダー ヴォーカル（小林在籍時は[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")）＆[ギター](../Page/ギター.md "wikilink") 1974年10月16日・A型
-      - cune活動休止後から主に[JOVO](https://ja.wikipedia.org/wiki/JOVO "wikilink")と言うプロジェクトのメンバー、杉本善徳、[中島卓偉](../Page/中島卓偉.md "wikilink")、[ヒューマンロスト](https://ja.wikipedia.org/wiki/ヒューマンロスト "wikilink")らのサポートギタリストとしてcune活動再開後も並行して活動中。また、2012年にソロ活動を開始、アルバム2作等をリリース。
+      - cune活動休止後から主に[JOVO](https://ja.wikipedia.org/wiki/JOVO "wikilink")と言うプロジェクトのメンバー、杉本善徳、[中島卓偉](../Page/中島卓偉.md "wikilink")、[ヒューマンロスト](https://ja.wikipedia.org/wiki/ヒューマンロスト "wikilink")らのサポートギタリストとしてcune活動再開後も並行して活動中。また、2012年にソロ活動を開始、アルバム2作等をリリース。2018年に[SOPHIA](../Page/SOPHIA.md "wikilink")の赤松芳朋、[Sadieの亜季と共にバンド](../Page/Sadie_\(バンド\).md "wikilink")「BLUEVINE」を結成している\[1\]。
   - **中村泰造**（なかむらたいぞう）[ベース](../Page/ベース_\(弦楽器\).md "wikilink")＆[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") 1978年6月21日･O型
       - cune活動休止後から、杉本善徳らのサポートベーシストとして活動しながら、元[Hysteric Blueのたくや達と共にバンド](https://ja.wikipedia.org/wiki/Hysteric_Blue "wikilink")「CATAMARAN」を結成。2010年解散。
-      - cuneのプロデュースを担当していた[佐久間正英](../Page/佐久間正英.md "wikilink")は「日本で好きなベーシストの5本の指に入る」と、彼の実力を認めている。\[1\]
+      - cuneのプロデュースを担当していた[佐久間正英](../Page/佐久間正英.md "wikilink")は「日本で好きなベーシストの5本の指に入る」と、彼の実力を認めている。\[2\]
       - 現在は株式会社グロールに所属。
       - 倖田來未、細川たかし、ラムジ、渡り廊下走り隊、News等のレコーディングに参加。
       - 新藤晴一（ポルノグラフィティ）とSHOCK EYE（湘南乃風）、サウンドクリエーター篤志の3人からなる音楽プロジェクトTHE野党、上田竜也（KAT-TUN）、OLDCODEX、バロック、等のライブサポートも務める。
@@ -156,4 +156,5 @@
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink")
 
-1.  佐久間 [mixi](https://ja.wikipedia.org/wiki/mixi "wikilink")内 2007年01月19日 日記の[コメント](http://mixi.jp/view_diary.pl?id=321930062&owner_id=318110)より（佐久間mixi退会のため、現在は閲覧できず）
+1.
+2.  佐久間 [mixi](https://ja.wikipedia.org/wiki/mixi "wikilink")内 2007年01月19日 日記の[コメント](http://mixi.jp/view_diary.pl?id=321930062&owner_id=318110)より（佐久間mixi退会のため、現在は閲覧できず）

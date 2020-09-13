@@ -27,17 +27,17 @@
 
 全編曲：[井上鑑](../Page/井上鑑.md "wikilink")
 
+### 規格
+
+  - 1988年6月25日 - [8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink"): 10SL-142\[28\]
+  - 1988年12月21日 - [CT](../Page/コンパクトカセット.md "wikilink"): 10L5-4051\[29\]
+  - 1998年11月26日 - [12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): WPC6-8669\[30\]
+  - 2008年11月12日 - [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")\[31\]\[32\]
+  - 2014年6月18日 - 12cmCD, [Singles Box 1982-1991の一枚として](https://ja.wikipedia.org/wiki/Singles_Box_1982-1991 "wikilink")
+
 ## クレジット
 
-  - [photo](../Page/撮影.md "wikilink") by 佐藤秀春\[28\]
-
-## 再発盤
-
-  - 1988年6月25日 - [8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink"): 10SL-142\[29\]
-  - 1988年12月21日 - [CT](../Page/コンパクトカセット.md "wikilink"): 10L5-4051\[30\]
-  - 1998年11月26日 - [12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): WPC6-8669\[31\]
-  - 2008年11月12日 - [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")\[32\]\[33\]
-  - 2014年6月18日 - 12cmCD, [Singles Box 1982-1991の一枚として](https://ja.wikipedia.org/wiki/Singles_Box_1982-1991 "wikilink")
+  - [photo](../Page/撮影.md "wikilink") by 佐藤秀春\[33\]
 
 ## 参照
 

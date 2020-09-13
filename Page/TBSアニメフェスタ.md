@@ -50,7 +50,7 @@
 
 ## 外部リンク
 
-  - [TBSアニメフェスタ公式サイト](http://www.tbs.co.jp/anime/festa/)
+  - [TBSアニメフェスタ公式サイト](https://www.tbs.co.jp/anime/festa/)
 
 [Category:TBSテレビ](https://ja.wikipedia.org/wiki/Category:TBSテレビ "wikilink") [Category:TBS系アニメ](https://ja.wikipedia.org/wiki/Category:TBS系アニメ "wikilink") [Category:アニメのイベント](https://ja.wikipedia.org/wiki/Category:アニメのイベント "wikilink") [Category:日本の放送事業者によるイベント](https://ja.wikipedia.org/wiki/Category:日本の放送事業者によるイベント "wikilink") [Category:東京都の行事・イベント](https://ja.wikipedia.org/wiki/Category:東京都の行事・イベント "wikilink") [Category:夏のイベント](https://ja.wikipedia.org/wiki/Category:夏のイベント "wikilink") [Category:文京区](https://ja.wikipedia.org/wiki/Category:文京区 "wikilink") [Category:2001年開始のイベント](https://ja.wikipedia.org/wiki/Category:2001年開始のイベント "wikilink")
 

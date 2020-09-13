@@ -7,11 +7,11 @@
 
 『[虹の咲く場所](../Page/虹の咲く場所.md "wikilink")』から1年ぶりとなる、7枚目のアルバム。7thシングル「聴かせてよ君の声」と8thシングル「Pure♡」の表題曲が収録されており、「聴かせてよ君の声」はアルバム仕様となっている。
 
-3rdシングル「caress/place to be」に続く、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")のミュージシャン・[トーレ・ヨハンソン](https://ja.wikipedia.org/wiki/トーレ・ヨハンソン "wikilink")によるプロデュース。ジャケットや歌詞カードの文字は、ほとんどが飯塚の手書き風。
+3rdシングル「caress/place to be」に続く、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")のミュージシャン・[トーレ・ヨハンソン](../Page/トーレ・ヨハンソン.md "wikilink")によるプロデュース。ジャケットや歌詞カードの文字は、ほとんどが飯塚の手書き風。
 
 ## 批評
 
-CDジャーナルは、「[トーレやウルフ](https://ja.wikipedia.org/wiki/トーレ・ヨハンソン "wikilink")・トレッソンらが提供したスウェディシュ・ポップな表情から、[堂島孝平](../Page/堂島孝平.md "wikilink")や[吉田ゐさお](../Page/吉田ゐさお.md "wikilink")らが作りあげたセンチメンタルな姿まで、一人の女性の悲喜な姿を軽やかに描いた逸品」と評した\[1\]。
+CDジャーナルは、「[トーレやウルフ](../Page/トーレ・ヨハンソン.md "wikilink")・トレッソンらが提供したスウェディシュ・ポップな表情から、[堂島孝平](../Page/堂島孝平.md "wikilink")や[吉田ゐさお](../Page/吉田ゐさお.md "wikilink")らが作りあげたセンチメンタルな姿まで、一人の女性の悲喜な姿を軽やかに描いた逸品」と評した\[1\]。
 
 ## 収録内容
 
@@ -35,7 +35,7 @@ CDジャーナルは、「[トーレやウルフ](https://ja.wikipedia.org/wiki/
 **ドライブしようよ！**
 **ぎゅっと。**
 
-  - All Instruments：[トーレ・ヨハンソン](https://ja.wikipedia.org/wiki/トーレ・ヨハンソン "wikilink")
+  - All Instruments：[トーレ・ヨハンソン](../Page/トーレ・ヨハンソン.md "wikilink")
 
 **ごめんね**
 

@@ -3,7 +3,7 @@
 
 **the do-nuts**（ザ・ドゥーナッツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の2人組ガールズポップユニット。[Spice Production所属](https://ja.wikipedia.org/wiki/スパイスプロダクション "wikilink")。所属[レコード](../Page/レコード.md "wikilink")会社は[エイベックス](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")([レーベルは](../Page/レコードレーベル.md "wikilink")[J-more](../Page/J-more.md "wikilink"))。
 
-[沖縄県](../Page/沖縄県.md "wikilink")内で[モデルとして活躍していた](../Page/モデル_\(職業\).md "wikilink")2人が、[2003年](../Page/2003年.md "wikilink")に行われたオーディション「沖縄アイドル発掘プロジェクト」に合格し、[2004年](../Page/2004年.md "wikilink")に初のシングル[CDを発売](../Page/コンパクトディスク.md "wikilink")。[2006年](../Page/2006年.md "wikilink")に[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")。 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")10月1日に[ブログ](../Page/ブログ.md "wikilink")上にて解散を発表。 ラスターとのタイアップで「ザ・ドゥーナッツの​トンdeピース」と言うスロット台を発売した。
+[沖縄県](../Page/沖縄県.md "wikilink")内で[モデルとして活躍していた](../Page/モデル_\(職業\).md "wikilink")2人が、[2003年](../Page/2003年.md "wikilink")に行われたオーディション「沖縄アイドル発掘プロジェクト」に合格し、[2004年](../Page/2004年.md "wikilink")に初のシングル[CDを発売](../Page/コンパクトディスク.md "wikilink")。[2006年](../Page/2006年.md "wikilink")に[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")10月1日に解散。
 
 ## メンバー
 
@@ -15,6 +15,7 @@
   - [2003年](../Page/2003年.md "wikilink") - [第一興商](../Page/第一興商.md "wikilink")主催のオーディション「沖縄アイドル発掘プロジェクト」に合格し、デビュー。
   - [2004年](../Page/2004年.md "wikilink") - [インディーズ](../Page/インディーズ.md "wikilink")レーベルにて初のシングル[CD](../Page/コンパクトディスク.md "wikilink")「アロハ日和」を発売。
   - [2006年](../Page/2006年.md "wikilink") - [エイベックスの](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[J-more](../Page/J-more.md "wikilink")[レーベルより](../Page/レコードレーベル.md "wikilink")[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")10月1日 - [ブログ](../Page/ブログ.md "wikilink")上にて解散を発表。
 
 ## ディスコグラフィー
 
@@ -59,19 +60,22 @@
 
 ### テレビ
 
-  - [深海魚](../Page/深海魚_\(テレビ番組\).md "wikilink") - （[2005年](../Page/2005年.md "wikilink")、[tvk](../Page/テレビ神奈川.md "wikilink")）
-  - ディキヤーズ - （[2006年](../Page/2006年.md "wikilink")、[沖縄テレビ放送](../Page/沖縄テレビ放送.md "wikilink")）
-
-★2007年\[ベルェベル美容専門学校[1](http://www.belebel.ac.jp/index.html)　CMソング「2人のイバショ☆」
+  - [深海魚](../Page/深海魚_\(テレビ番組\).md "wikilink")（[2005年](../Page/2005年.md "wikilink")、[tvk](../Page/テレビ神奈川.md "wikilink")）
+  - ディキヤーズ（[2006年](../Page/2006年.md "wikilink")、[沖縄テレビ放送](../Page/沖縄テレビ放送.md "wikilink")）
+  - ベルェベル美容専門学校 CMソング「2人のイバショ☆」（2007年）
 
 ### ラジオ
 
   - どこでもドゥーナッツ - （[2004年](../Page/2004年.md "wikilink")-[2006年](../Page/2006年.md "wikilink")、[FMちゃたん](../Page/クレスト_\(企業\).md "wikilink")）
   - スイモアマイモ - （[2007年](../Page/2007年.md "wikilink")4月-9月、[bay-fm](../Page/ベイエフエム.md "wikilink")）
 
+### その他
+
+ラスターとのタイアップで「ザ・ドゥーナッツの​トンdeピース」と言うスロット台を発売した。
+
 ## 外部リンク
 
-  - [公式サイト](http://avexnet.or.jp/do-nuts/)
-  - [the do-nuts オフィシャルブログ Powered by アメブロ](https://ameblo.jp/do-nuts/)
-
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink")
+  -
+  -
+  -
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:日本のポップ・アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・アイドルグループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink")

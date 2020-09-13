@@ -21,7 +21,7 @@
         シングル「I Will Wait For You」のカップリング曲。
 4.  **[OH SHINY DAYS](../Page/OH_SHINY_DAYS_\(曲\).md "wikilink")**
       -
-        作詞:小田佳奈子 作曲:[織田哲郎](../Page/織田哲郎.md "wikilink") 編曲:TWINZER
+        作詞:小田佳奈子 作曲:[織田哲郎](../Page/織田哲郎.md "wikilink") 編曲:葉山たけし＆TWINZER
 5.  **消えないでseason**
       -
         作詞:生沢佑一 作曲・編曲:ホリエアキラ

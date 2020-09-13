@@ -11,7 +11,7 @@
 
 ### 東涌線
 
-2003年の[九広西鉄線と](https://ja.wikipedia.org/wiki/西鉄線 "wikilink")[南昌駅](https://ja.wikipedia.org/wiki/南昌駅_\(香港\) "wikilink")、2005年[ディズニー線と](https://ja.wikipedia.org/wiki/迪士尼線 "wikilink")[欣澳駅](https://ja.wikipedia.org/wiki/欣澳駅 "wikilink")が開業した事と、混雑緩和を目的とする増発の為、4[編成が導入された](https://ja.wikipedia.org/wiki/編成_\(鉄道\) "wikilink")。営業最高速度は135km/hである。台車には最高速度135km/hに対応するためヨーダンパが設置されており、観塘線のK-Trainは省略されている。
+2003年の[九広西鉄線と](../Page/西鉄線.md "wikilink")[南昌駅](https://ja.wikipedia.org/wiki/南昌駅_\(香港\) "wikilink")、2005年[ディズニー線と](https://ja.wikipedia.org/wiki/迪士尼線 "wikilink")[欣澳駅](https://ja.wikipedia.org/wiki/欣澳駅 "wikilink")が開業した事と、混雑緩和を目的とする増発の為、4[編成が導入された](https://ja.wikipedia.org/wiki/編成_\(鉄道\) "wikilink")。営業最高速度は135km/hである。台車には最高速度135km/hに対応するためヨーダンパが設置されており、観塘線のK-Trainは省略されている。
 
 **東鉄線**
 
@@ -26,7 +26,7 @@
 |    |                                                       |      |      |                                                                                                          |
 | :-: | :---------------------------------------------------- | :--: | :--: | -------------------------------------------------------------------------------------------------------: |
 |    | ←[北角方面](https://ja.wikipedia.org/wiki/北角駅 "wikilink") |      |      | [宝琳](https://ja.wikipedia.org/wiki/宝琳駅 "wikilink")・[康城方面](https://ja.wikipedia.org/wiki/康城駅 "wikilink")→ |
-| 車種 | Tc                                                    |  M   |  M'  |                                                                                                       M' |
+| 車種 | Tc女1                                                  | M男1  | M'男1 |                                                                                                     M'男2 |
 |    | A301                                                  | C301 | B301 |                                                                                                     B801 |
 |    | A303                                                  | C303 | B303 |                                                                                                     B802 |
 |    | A305                                                  | C305 | B305 |                                                                                                     B803 |
@@ -51,16 +51,16 @@
 |    |                                                       |      |      |                                                              |
 | :-: | :---------------------------------------------------- | :--: | :--: | -----------------------------------------------------------: |
 |    | ←[香港方面](https://ja.wikipedia.org/wiki/香港駅 "wikilink") |      |      | [東涌方面](https://ja.wikipedia.org/wiki/東涌駅_\(香港\) "wikilink")→ |
-| 車種 | Tc                                                    |  M   |  M'  |                                                            M |
+| 車種 | Tc女1                                                  | M男1  | M'男1 |                                                          M男2 |
 |    | V813                                                  | Z813 | X813 |                                                         W713 |
 |    | V814                                                  | Z814 | X814 |                                                         W714 |
 |    | V815                                                  | Z815 | X815 |                                                         W715 |
 |    | V816                                                  | Z816 | X816 |                                                         W716 |
 
   - 備考
-      - V6XX/V8XX - 先頭車 （モーターなし）
-      - W7XX/Z6XX/Z8XX - パンタグラフ付中間車（モータ車）
-      - X6XX/X8XX/Y7XX - 中間車 （モータ車）
+      - V6XX/V8XX - T先頭車両編成女 （モーターなし）
+      - W7XX/Z6XX/Z8XX - パンタグラフ付Ⅿ中間車両編成男（モータ車）
+      - X6XX/X8XX/Y7XX - Ⅿ中間車両編成男 （モータ車）
 
 ## 関連項目
 

@@ -27,7 +27,7 @@
 1.  Happiness×3 Loneliness×3 (TM NETWORK)
 2.  Happiness×3 Loneliness×3 (JULIO IGLESIAS JR.)
 3.  Happiness×3 Loneliness×3 (SHEILA E)
-4.  Happiness×3 Loneliness×3 (WANG LEE-HOM)
+4.  Happiness×3 Loneliness×3 ([ワン・リーホン](../Page/ワン・リーホン.md "wikilink"))
 5.  Happiness×3 Loneliness×3 (Radio Edit)(TM NETWORK)
 
 ## カバー
@@ -56,5 +56,5 @@
 
 [Category:TM_NETWORKの楽曲](https://ja.wikipedia.org/wiki/Category:TM_NETWORKの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:小室みつ子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室みつ子が制作した楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:ソニー・ミュージックアソシエイテッドレコーズのシングル](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアソシエイテッドレコーズのシングル "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")
 
-1.  [小室&安室で沖縄サミット曲](http://web.archive.org/web/20010316074723/http://www.sanspo.com/enter/music/m0001/0121top5.html)、[SANSPO.COM](../Page/サンケイスポーツ.md "wikilink")、2000年1月21日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+1.  [小室&安室で沖縄サミット曲](https://web.archive.org/web/20010316074723/http://www.sanspo.com/enter/music/m0001/0121top5.html)、[SANSPO.COM](../Page/サンケイスポーツ.md "wikilink")、2000年1月21日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
 2.  日経BP刊『日経エンタテインメント\!』1999年12月号より。

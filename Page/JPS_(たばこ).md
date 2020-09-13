@@ -5,7 +5,7 @@
 
 ## 歴史
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Player's_Navy_Cut_logo_-_Project_Gutenberg_etext_18333.gif "wikilink") 19世紀半ば、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ジョン・プレイヤー](https://ja.wikipedia.org/wiki/ジョン・プレイヤー "wikilink")が[ノッティンガム](../Page/ノッティンガム.md "wikilink")にたばこ会社（後のJohn Player & Sons）を設立。その後会社は成長し、息子のJohn Dane PlayerとWilliam Goodacre Playerが跡を継いで運営していた。社名がJohn Player & Sonsになる。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Player's_Navy_Cut_logo_-_Project_Gutenberg_etext_18333.gif "wikilink") 19世紀半ば、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ジョン・プレイヤー](https://ja.wikipedia.org/wiki/ジョン・プレイヤー "wikilink")が[ノッティンガム](../Page/ノッティンガム.md "wikilink")にたばこ会社（後の）を設立。その後会社は成長し、息子のJohn Dane PlayerとWilliam Goodacre Playerが跡を継いで運営していた。社名がジョン・プレイヤー・アンド・サンズ（John Player & Sons）になる。
 
 アメリカの脅威にさらされ、1901年に[ブリストル](../Page/ブリストル.md "wikilink")に本部を置く[インペリアル・タバコ・グループに買収される](https://ja.wikipedia.org/wiki/インペリアル・ブランズ "wikilink")。しかし当時のプレイヤーらのブランド（「Navy Cut」、「No.6」、「John Player Special」、「Gold Leaf」など）は当時のロゴとともに維持された。
 

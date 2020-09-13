@@ -162,7 +162,7 @@ DUALSHOCK 3の販売開始以降も、モーションコントロール機能の
 
 DualSenseは、[PlayStation 5用のワイヤレスコントローラ](https://ja.wikipedia.org/wiki/PlayStation_5 "wikilink")\[22\]。
 
-この[コントローラ](https://ja.wikipedia.org/wiki/コントローラ "wikilink")では[PlayStation 4までの](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")[DUALSHOCK](../Page/DUALSHOCK.md "wikilink")系列の既存のコントローラーとは外観の基本デザインが異なることもあり、ナンバーリングではなく新たな名称として、五感に訴えかけるゲーム体験の実現を強調して、DualSenseと名付けられた。
+この[コントローラ](https://ja.wikipedia.org/wiki/コントローラ "wikilink")では[PlayStation 4までの](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")[DUALSHOCK](../Page/DUALSHOCK.md "wikilink")系列の既存のコントローラーとは外観の基本デザインが異なることもあり、ナンバリングではなく新たな名称として、五感に訴えかけるゲーム体験の実現を強調して、DualSenseと名付けられた。
 
   - [ハプティック技術搭載](https://ja.wikipedia.org/wiki/ハプティクス "wikilink")
   - L2・R2ボタンに抵抗力を感じさせるアダプティブトリガーを採用
@@ -185,6 +185,7 @@ DualSenseは、[PlayStation 5用のワイヤレスコントローラ](https://ja
 ## 外部リンク
 
   - [PS4用ワイヤレスコントローラー(DUALSHOCK 4)](https://www.playstation.com/ja-jp/explore/accessories/gaming-controllers/dualshock-4/) - PlayStation
+  - [DualSense ワイヤレスコントローラー](https://www.playstation.com/ja-jp/accessories/dualsense-wireless-controller/) - PlayStation
 
 [Category:ゲームコントローラ](https://ja.wikipedia.org/wiki/Category:ゲームコントローラ "wikilink") [Category:PlayStation](https://ja.wikipedia.org/wiki/Category:PlayStation "wikilink")
 

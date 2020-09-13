@@ -48,4 +48,18 @@
   - 角谷仁宣：Computer Programming
   - [小倉博和](../Page/小倉博和.md "wikilink")：Sound Technic
 
+## ライブ映像作品
+
+**君がいた夏** ** **風 〜The wind knows how I feel〜**
+
+| 作品名                                                                         | 備考 |
+| --------------------------------------------------------------------------- | -- |
+| [ap bank fes '07](https://ja.wikipedia.org/wiki/ap_bank_fes_'07 "wikilink") |    |
+
+**CHILDREN'S WORLD**
+
+| 作品名                                                                                                           | 備考 |
+| ------------------------------------------------------------------------------------------------------------- | -- |
+| [Mr.Children Stadium Tour 2015 未完](https://ja.wikipedia.org/wiki/Mr.Children_Stadium_Tour_2015_未完 "wikilink") |    |
+
 [Category:Mr.Childrenのアルバム](https://ja.wikipedia.org/wiki/Category:Mr.Childrenのアルバム "wikilink") [Category:1992年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:1992年のミニ・アルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink") [Category:小林武史がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:小林武史がプロデュースしたアルバム "wikilink")

@@ -44,7 +44,8 @@
 
 ## 外部リンク
 
-  - [ニュース](http://www.rkc-kochi.co.jp/news/) - RKC on the WEB
+  - [エリアニュース](http://www.rkc-kochi.co.jp/news/) - 高知放送
+  - [Yahoo\!ニュース RKC高知放送](https://news.yahoo.co.jp/media/rkckochi)
 
 [Category:高知放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:高知放送のテレビ番組 "wikilink") [Category:高知放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:高知放送のラジオ番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:ラジオの帯番組](https://ja.wikipedia.org/wiki/Category:ラジオの帯番組 "wikilink") [Category:中国・四国地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのミニ番組 "wikilink") [Category:ラジオのミニ番組](https://ja.wikipedia.org/wiki/Category:ラジオのミニ番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組 "wikilink") [Category:ローカルラジオ局のニュース・報道番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のニュース・報道番組 "wikilink") [Category:NNNストレイトニュース](https://ja.wikipedia.org/wiki/Category:NNNストレイトニュース "wikilink") [Category:NNN_Newsリアルタイム](https://ja.wikipedia.org/wiki/Category:NNN_Newsリアルタイム "wikilink")
 

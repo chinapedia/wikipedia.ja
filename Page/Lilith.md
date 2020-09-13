@@ -1,7 +1,7 @@
 > この記事は[Lilith](https://ja.wikipedia.org/wiki/Lilith)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Diser_Lilith-IMG_1729.jpg "wikilink") **Lilith**とは、[チューリッヒ工科大学](../Page/チューリッヒ工科大学.md "wikilink")の[ニクラウス・ヴィルト](../Page/ニクラウス・ヴィルト.md "wikilink")らが開発した[ワークステーション](../Page/ワークステーション.md "wikilink")の名称。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Diser_Lilith-IMG_1729.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Lilith-IMG_7326.jpg "wikilink") **Lilith**とは、[チューリッヒ工科大学](../Page/チューリッヒ工科大学.md "wikilink")の[ニクラウス・ヴィルト](../Page/ニクラウス・ヴィルト.md "wikilink")らが開発した[ワークステーション](../Page/ワークステーション.md "wikilink")の名称。
 
 ## 概要
 

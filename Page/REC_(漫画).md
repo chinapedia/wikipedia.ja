@@ -295,7 +295,7 @@ TVコードに伴ういくつかの変更点はあるが、物語の大筋に大
 
 ## 外部リンク
 
-  - [TBSアニメ「REC」公式HP](http://www.tbs.co.jp/rec-aka/)
+  - [TBSアニメ「REC」公式HP](https://www.tbs.co.jp/rec-aka/)
   - [REC☆ドキドキ声優パラダイス☆ - アイディアファクトリー｜製品情報](https://www.ideaf.co.jp/game/spec/?hard=ps2&title=rec)
   - [REC☆ドキドキ声優パラダイス☆（アイディアファクトリー）](http://www.ideaf.co.jp/rec/paradise.html)
 

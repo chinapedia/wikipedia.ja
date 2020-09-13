@@ -166,4 +166,4 @@
   - [carneiro（カルネイロ） Official Web](http://carne-iro.com/disco.html)
 
   -
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink")

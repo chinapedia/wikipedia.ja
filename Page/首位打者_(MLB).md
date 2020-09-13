@@ -202,13 +202,13 @@
 <td></td>
 <td><p><a href="../Page/ダン・ブローザース.md" title="wikilink">ダン・ブローザース</a></p></td>
 <td><p>.368</p></td>
-<td><p><a href="../Page/バッファロー・バイソンズ.md" title="wikilink">バッファロー・バイソンズ</a></p></td>
+<td><p><a href="../Page/バッファロー・バイソンズ_(1879-1885年).md" title="wikilink">バッファロー・バイソンズ</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/ダン・ブローザース.md" title="wikilink">ダン・ブローザース</a></p></td>
 <td><p>.374</p></td>
-<td><p><a href="../Page/バッファロー・バイソンズ.md" title="wikilink">バッファロー・バイソンズ</a></p></td>
+<td><p><a href="../Page/バッファロー・バイソンズ_(1879-1885年).md" title="wikilink">バッファロー・バイソンズ</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>

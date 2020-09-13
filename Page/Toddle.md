@@ -1,17 +1,17 @@
 > この記事は[Toddle](https://ja.wikipedia.org/wiki/Toddle)から翻訳されています。
 
 
-**toddle**(トドル)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
+**toddle**（トドル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
 
 ## 来歴
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Toddle-liveconcert-feb1-2008.jpg "wikilink") 2002年11月、[ナンバーガール](../Page/ナンバーガール.md "wikilink")が解散。同年12月、[田渕ひさ子](../Page/田渕ひさ子.md "wikilink") が自身のバンドを結成すべく構想を始める。 当初はギター2人とドラムという編成で活動を開始。 2004年にベーシストの江崎が正式加入し、現在の基盤となるメンバーが固まる。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Toddle-liveconcert-feb1-2008.jpg "wikilink") 2002年11月、[ナンバーガール](../Page/ナンバーガール.md "wikilink")が解散。同年12月、[田渕ひさ子](../Page/田渕ひさ子.md "wikilink") が自身のバンドを結成すべく構想を始める。当初はギター2人とドラムという編成で活動を開始。2004年にベーシストの江崎が正式加入し、現在の基盤となるメンバーが固まる。
 
-2006年12月にドラマーの安岡が脱退。ドラムにサポートメンバーを迎えての活動期間を経て、内野が正式メンバーとして加入。 2008年3月にアメリカテキサス州オースティン行なわれるSXSWに出演。 2012年公開の映画『[生きてるものはいないのか](https://ja.wikipedia.org/wiki/生きてるものはいないのか "wikilink")』で「chase it」が冒頭曲として使用される。 2014年2月にドラマーの内野が脱退。
+2006年12月にドラマーの安岡が脱退。ドラムにサポートメンバーを迎えての活動期間を経て、内野が正式メンバーとして加入。2008年3月にアメリカテキサス州オースティン行なわれるSXSWに出演。2012年公開の映画『[生きてるものはいないのか](https://ja.wikipedia.org/wiki/生きてるものはいないのか "wikilink")』で「chase it」が冒頭曲として使用される。2014年2月にドラマーの内野が脱退。
 
 Corin Tucker、VERSUS等をはじめとする海外のアーティストとの競演も多く、2014年春にはQUASIのツアーに帯同。
 
-2016年7月27日、前作より5年の期間を経て4thアルバム「Vacantly」をリリース。 ドラムはサポートのTD-Kが録音にも参加。初の完全セルフプロデュース作品となった。
+2016年7月27日、前作より5年の期間を経て4thアルバム「Vacantly」をリリース。ドラムはサポートのTD-Kが録音にも参加。初の完全セルフプロデュース作品となった。
 
 2017年6月より、ドラムにオリジナルメンバーである安岡が復帰。
 
@@ -175,7 +175,7 @@ ex-[Number Girl](https://ja.wikipedia.org/wiki/Number_Girl "wikilink")、[bloodt
   - 2014年12月28日 - nestの忘年会 2014
   - 2015年06月06日 - Maximum Music Values Vol.2
   - 2015年06月20日 - [YATSUI FESTIVAL\!](https://ja.wikipedia.org/wiki/YATSUI_FESTIVAL! "wikilink") 2015
-  - 2015年10月11日 - [みさこ](https://ja.wikipedia.org/wiki/みさこ "wikilink")生誕祭2015 みさこPresents 『幸 福 革 命 ～はぴれぼ～』
+  - 2015年10月11日 - みさこ生誕祭2015 みさこPresents 『幸 福 革 命 ～はぴれぼ～』
   - 2016年02月12日 - PLUGS 15th Anniversary "PLUGS SHOW special 2days"
   - 2016年06月19日 - YATSUI FESTIVAL\! 2016
   - 2016年07月14日 - CLUB Que夏ノ陣 2016 【RETURN TO NATURAL】
@@ -209,4 +209,4 @@ ex-[Number Girl](https://ja.wikipedia.org/wiki/Number_Girl "wikilink")、[bloodt
   - [iTunes](https://music.apple.com/jp/artist/toddle/187931802)
 
   -
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:キングレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:キングレコードのアーティスト "wikilink") [Category:YATSUI_FESTIVAL\!出演者](https://ja.wikipedia.org/wiki/Category:YATSUI_FESTIVAL!出演者 "wikilink")
+[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:キングレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:キングレコードのアーティスト "wikilink") [Category:YATSUI_FESTIVAL\!出演者](https://ja.wikipedia.org/wiki/Category:YATSUI_FESTIVAL!出演者 "wikilink")

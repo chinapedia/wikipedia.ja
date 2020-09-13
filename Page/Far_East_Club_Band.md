@@ -93,7 +93,7 @@
 
 <references />
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:1990年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1990年に結成した音楽グループ "wikilink")
 
 1.  この時のギターは高山一也。ベースは山内薫。
 2.  木下智明のみB型（『KAZUMASA ODA TOUR 2008"今日も どこかで"』パンフレットより）。

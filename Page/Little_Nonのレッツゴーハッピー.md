@@ -179,7 +179,7 @@
 
 ## 外部リンク
 
-  - [インターネットラジオステーション＜音泉＞](http://onsen.ag/)
+  -
   - [「WEBラジオZAKZAK」](http://www.zakzak.co.jp/anime/web/)
 
 [Category:音泉](https://ja.wikipedia.org/wiki/Category:音泉 "wikilink") [Category:アニたまどっとコム](https://ja.wikipedia.org/wiki/Category:アニたまどっとコム "wikilink") [Category:超\!放送局](https://ja.wikipedia.org/wiki/Category:超!放送局 "wikilink")

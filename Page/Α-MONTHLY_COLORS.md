@@ -102,7 +102,7 @@
   - [スガシカオ](../Page/スガシカオ.md "wikilink") (6月)
   - [福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink") (7月)
   - [黒沢健一](../Page/黒沢健一.md "wikilink") (8月)
-  - [Sing Like Talking](https://ja.wikipedia.org/wiki/Sing_Like_Talking "wikilink") (9月)
+  - [SING LIKE TALKING](https://ja.wikipedia.org/wiki/SING_LIKE_TALKING "wikilink") (9月)
   - [AIR](../Page/車谷浩司.md "wikilink") (10月)
   - [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink") (11月)
   - [エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink") (12月)
@@ -220,7 +220,7 @@
 
 ### [2006年](../Page/2006年.md "wikilink")
 
-  - [佐藤竹善](https://ja.wikipedia.org/wiki/Sing_Like_Talking "wikilink") (1月)
+  - [佐藤竹善](../Page/佐藤竹善.md "wikilink") (1月)
   - 徳永英明 (2月)
   - [矢井田瞳](https://ja.wikipedia.org/wiki/矢井田瞳 "wikilink") (3月)
   - [melody.](https://ja.wikipedia.org/wiki/melody. "wikilink") (4月)

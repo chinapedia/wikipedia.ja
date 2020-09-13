@@ -70,4 +70,4 @@
 
 ライブで歌われる曲には、上記の2枚のアルバムには未収録の曲も含まれていることが多かった。例えば、「[ハッピー☆マテリアル](../Page/ハッピー☆マテリアル.md "wikilink")」、「Believe」、「Heartbeat」、「ハロー\!サンキュー\! 」、「true blue」、「Dream×Dream」、「EQUALロマンス」、「運命'95」などで、これらの曲もすべてアニメソングのカバー曲である。
 
-[Category:アキバ系アイドル](https://ja.wikipedia.org/wiki/Category:アキバ系アイドル "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:アニプレックスのアーティスト](https://ja.wikipedia.org/wiki/Category:アニプレックスのアーティスト "wikilink")
+[Category:アキバ系アイドル](https://ja.wikipedia.org/wiki/Category:アキバ系アイドル "wikilink") [Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:日本のポップ・アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・アイドルグループ "wikilink") [Category:アニプレックスのアーティスト](https://ja.wikipedia.org/wiki/Category:アニプレックスのアーティスト "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[FOXスポーツネット](https://ja.wikipedia.org/wiki/FOXスポーツネット)から翻訳されています。
 
 
-**FOXスポーツネット**（Fox Sports Net、**FSN**）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[スポーツ](../Page/スポーツ.md "wikilink")[専門チャンネル](../Page/専門チャンネル.md "wikilink")。[ESPN](../Page/ESPN.md "wikilink")のような全国向けの放送ではなく、ローカル向けの放送を行うRegional Sports Network（RSN）である。[シンクレア・ブロードキャスト・グループ](https://ja.wikipedia.org/wiki/シンクレア・ブロードキャスト・グループ "wikilink")傘下。
+**FOXスポーツネット**（Fox Sports Net、**FSN**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[スポーツ](../Page/スポーツ.md "wikilink")[専門チャンネル](../Page/専門チャンネル.md "wikilink")。[ESPN](../Page/ESPN.md "wikilink")のような全国向けの放送ではなく、ローカル向けの放送を行うRegional Sports Network（RSN）である。[シンクレア・ブロードキャスト・グループ](https://ja.wikipedia.org/wiki/シンクレア・ブロードキャスト・グループ "wikilink")傘下。
 
 ## 概要
 
@@ -103,7 +103,7 @@
 <td><p>FOXスポーツ・ミッドウエスト<br />
 (<em><strong>FS</strong>MID WEST</em>)</p></td>
 <td><p><a href="../Page/ミズーリ州.md" title="wikilink">ミズーリ州</a>東部・中央部、<a href="../Page/イリノイ州.md" title="wikilink">イリノイ州</a>南部、<a href="../Page/インディアナ州.md" title="wikilink">インディアナ州</a>南部、<a href="../Page/アイオワ州.md" title="wikilink">アイオワ州</a></p></td>
-<td><p><a href="../Page/セントルイス・カージナルス.md" title="wikilink">セントルイス・カージナルス</a>(MLB、<em><strong>FS</strong>CARDINALS</em>)、<a href="../Page/セントルイス・ブルース.md" title="wikilink">セントルイス・ブルース</a>(NHL、<em><strong>FS</strong>BLUES</em>）、Big 12、<a href="../Page/サウスイースタン・カンファレンス.md" title="wikilink">サウスイースタン・カンファレンス</a>(SEC)</p></td>
+<td><p><a href="../Page/セントルイス・カージナルス.md" title="wikilink">セントルイス・カージナルス</a>(MLB、<em><strong>FS</strong>CARDINALS</em>)、<a href="https://ja.wikipedia.org/wiki/セントルイス・ブルース_(アイスホッケー)" title="wikilink">セントルイス・ブルース</a>(NHL、<em><strong>FS</strong>BLUES</em>）、Big 12、<a href="../Page/サウスイースタン・カンファレンス.md" title="wikilink">サウスイースタン・カンファレンス</a>(SEC)</p></td>
 <td><p>1989年(<strong>PS</strong>)</p></td>
 <td><p><a href="http://foxsportsmidwest.com/">Fox Sports Mid West</a></p></td>
 </tr>

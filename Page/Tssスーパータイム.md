@@ -32,4 +32,4 @@
   - [FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")
   - [tssザ・ヒューマン](../Page/FNNニュース555_ザ・ヒューマン.md "wikilink")（後番組）
 
-[Category:1987年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1987年のテレビ番組_\(日本\) "wikilink") [Category:テレビ新広島番組](https://ja.wikipedia.org/wiki/Category:テレビ新広島番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:FNNスーパータイム](https://ja.wikipedia.org/wiki/Category:FNNスーパータイム "wikilink")
+[Category:1987年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1987年のテレビ番組_\(日本\) "wikilink") [Category:テレビ新広島の番組](https://ja.wikipedia.org/wiki/Category:テレビ新広島の番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:FNNスーパータイム](https://ja.wikipedia.org/wiki/Category:FNNスーパータイム "wikilink")

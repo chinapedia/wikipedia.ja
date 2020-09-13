@@ -110,7 +110,7 @@
 4.  Jealousy (1998/8/5) 作詞・作曲：伊秩弘将、編曲：水島康貴
       -
         1stアルバム『Lovely\!』からのシングルカット。
-        カップリングに[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")によるリミックス「August Moon Mix」を収録。
+        カップリングに[CMJK](../Page/CMJK.md "wikilink")によるリミックス「August Moon Mix」を収録。
 5.  Maybe Love (1998/11/11) 作詞・作曲：伊秩弘将、編曲：水島康貴
       -
         テレビ朝日系バラエティ『[雛かっぱー](https://ja.wikipedia.org/wiki/雛かっぱー "wikilink")』エンディングテーマ。
@@ -181,6 +181,8 @@
 
   - [GENEON MUSIC dps (deeps) (2007年1月6日のアーカイヴ)](https://web.archive.org/web/20070106102503/http://www.geneon-ent.co.jp/music/artfile/deeps/)
   - [dps official Web Site "baby's web"(2007年1月2日のアーカイヴ)](https://web.archive.org/web/20070102180323/http://www.drivemusic.co.jp/dps/)
+  - [パイオニアLDC dps (2000年12月7日のアーカイヴ)](https://web.archive.org/web/20001207052800/http://www.pme.gr.jp/artfile/deeps/index2.html)
+  - [STATS ON LINE dps (2000年12月12日のアーカイヴ)](https://web.archive.org/web/20001212230800/http://www.stats.co.jp/dps/index.html)
 
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:過去のケイダッシュ系列所属者](https://ja.wikipedia.org/wiki/Category:過去のケイダッシュ系列所属者 "wikilink")
 

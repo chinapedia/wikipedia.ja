@@ -362,7 +362,7 @@ CD：<WPCL-10435></p></td>
   -
   - [RED HOT TV](https://freshlive.tv/redhot)
 
-[Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink") [Category:日本のレゲエ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のレゲエ・ミュージシャン "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink")
+[Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink") [Category:日本のレゲエ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のレゲエ・ミュージシャン "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink") [Category:1974年生](https://ja.wikipedia.org/wiki/Category:1974年生 "wikilink")
 
 1.  [賛同者 オペレーション・コドモタチ 公式ブログ](http://ameblo.jp/opchild/entry-10873973292.html)
 2.

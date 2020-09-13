@@ -23,8 +23,9 @@ L'Arc〜en〜Cielとして初のノンタイアップシングルであったが
       - 作詞・作曲:[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink") / 編曲:L'Arc〜en〜Ciel & [Hajime Okano](../Page/岡野ハジメ.md "wikilink")
     <!-- end list -->
       -
-        リリース時、[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")はこの曲について「Aメロがロックンロールで、サビがキャッチー。」と語っている。
-        [tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")は本楽曲で、[1960年代](../Page/1960年代.md "wikilink")製のビザール・ベース「[VOX](../Page/ヴォックス_\(楽器メーカー\).md "wikilink") PHANTOM IV」を使用している\[1\]。また、tetsuyaが弾くベースラインについて、プロデューサーの[岡野ハジメ](../Page/岡野ハジメ.md "wikilink")は「彼のベーシストとしてのキャリアの中で三本指に入るいいテイクだと思う\[2\]」と後年述べている。
+        歌詞は、[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")の中の怒りの感情を歌にしたもの\[1\]で、メディアや法律に対する怒りを綴った詞となっている。シングル発売時のインタビューでhydeは「同世代でデビューした人が付け回されて写真を撮られていったから、いつかは（自分に）まわって来るのかなって気はしてましたけどね。そういうの見てても"何でそんなことまですんの？"って、俺人のを見ても思うんですよ。"放っといたれよ、そんなの"って\[2\]」「いろんな人が曲を聴いてくれる。両親とかも喜んでくれる。そういうのは嬉しいんだけど、それと同時にこういう状況はやっぱり"辛いな"と思う\[3\]」と述べている。また、「歌詞でここまで言い切ることに対して恐怖心とかは感じなかったか」とのインタビュアーの問いに、「怖さよりも怒りの方が勝った\[4\]」とhydeは述べている。
+        楽曲のイメージについてhydeは「Aメロがロックンロールで、サビがキャッチー」と語っている。また、ギターリフはhydeの案をkenがそのまま採用し弾いている\[5\]。
+        [tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")は[1960年代](../Page/1960年代.md "wikilink")製のビザール・ベース「[VOX](../Page/ヴォックス_\(楽器メーカー\).md "wikilink") PHANTOM IV」をこの曲で使用している\[6\]。また、tetsuyaが弾くベースラインについて、プロデューサーの[岡野ハジメ](../Page/岡野ハジメ.md "wikilink")は後年のインタビューで「彼のベーシストとしてのキャリアの中で三本指に入るいいテイクだと思う\[7\]」と評している。
         この曲で『[第50回NHK紅白歌合戦](../Page/第50回NHK紅白歌合戦.md "wikilink")』に昨年に続き2年連続、通算2度目の出場を果たした。また、[2005年](../Page/2005年.md "wikilink")に行われた「[スキウタ〜紅白みんなでアンケート〜](../Page/スキウタ〜紅白みんなでアンケート〜.md "wikilink")」では、ラルクの楽曲では唯一ランクインし、白組47位を記録した。
         後に、パートチェンジバンド[P'UNK〜EN〜CIEL](https://ja.wikipedia.org/wiki/P'UNK〜EN〜CIEL "wikilink")でリアレンジされ、27thシングル「[叙情詩](../Page/叙情詩_\(曲\).md "wikilink")」のカップリングに収録している。
 2.  **metropolis 〜android goes to sleep mix〜**
@@ -32,7 +33,7 @@ L'Arc〜en〜Cielとして初のノンタイアップシングルであったが
     <!-- end list -->
       -
         8thシングル「[winter fall](https://ja.wikipedia.org/wiki/winter_fall "wikilink")」のカップリング曲「metropolis」のyukihiroによるリミックス曲。演奏時間はラルクの作品中最長で、9分59秒にも及ぶ大作。
-        スロウな[ハウスを意識したリミックスとなっており](../Page/ハウス_\(音楽\).md "wikilink")、yukihiroは曲について「ダウナーで朝方かかるような、踊り疲れた後にどうぞっていう感じ\[3\]」と述べている。
+        スロウな[ハウスを意識したリミックスとなっており](../Page/ハウス_\(音楽\).md "wikilink")、yukihiroは曲について「ダウナーで朝方かかるような、踊り疲れた後にどうぞっていう感じ\[8\]」と述べている。
         このリミックスとは別バージョンの「android goes to be a deep sleep mix」が、[リミックス](../Page/リミックス.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")『[ectomorphed works](https://ja.wikipedia.org/wiki/ectomorphed_works "wikilink")』に収録されている。
 
 ## 参加ミュージシャン
@@ -96,6 +97,11 @@ L'Arc〜en〜Cielとして初のノンタイアップシングルであったが
 
 [Category:L'Arc〜en〜Cielの楽曲](https://ja.wikipedia.org/wiki/Category:L'Arc〜en〜Cielの楽曲 "wikilink") [Category:hydeが制作した楽曲](https://ja.wikipedia.org/wiki/Category:hydeが制作した楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:1999年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:楽曲_へ](https://ja.wikipedia.org/wiki/Category:楽曲_へ "wikilink") [Category:天国を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:天国を題材とした楽曲 "wikilink")
 
-1.  「BASS MAGAZINE SPECIAL FEATURE SERIES 『tetsuya/L'Arc〜en〜Ciel』」、p.57、リットーミュージック、2010年
-2.  『ark 15th Anniversary Expanded Edition』特典DVD、[2006年](../Page/2006年.md "wikilink")
-3.  ぴあ社『R\&R NewsMaker』1999年6月号
+1.  ぴあ社『R\&R NewsMaker』、p.22、1999年7月号
+2.
+3.
+4.
+5.  『R\&R NewsMaker』、p.32、1999年7月号
+6.  「BASS MAGAZINE SPECIAL FEATURE SERIES 『tetsuya/L'Arc〜en〜Ciel』」、p.57、リットーミュージック、2010年
+7.  『ark 15th Anniversary Expanded Edition』特典DVD、[2006年](../Page/2006年.md "wikilink")
+8.  ぴあ社『R\&R NewsMaker』1999年6月号

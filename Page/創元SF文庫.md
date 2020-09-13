@@ -50,14 +50,14 @@
   - [フレドリック・ブラウン](../Page/フレドリック・ブラウン.md "wikilink")編　『[SFカーニバル](https://ja.wikipedia.org/wiki/SFカーニバル "wikilink")』（アンソロジー）
   - [レイ・ブラッドベリ](../Page/レイ・ブラッドベリ.md "wikilink")『[何かが道をやってくる](https://ja.wikipedia.org/wiki/何かが道をやってくる "wikilink")』
 
+## 脚注
+
 ## 関連項目
 
   - [東京創元社](../Page/東京創元社.md "wikilink")
   - [創元推理文庫](https://ja.wikipedia.org/wiki/創元推理文庫 "wikilink")
   - [創元SF短編賞](https://ja.wikipedia.org/wiki/創元SF短編賞 "wikilink")
   - [文庫レーベル一覧](../Page/文庫レーベル一覧.md "wikilink")
-
-## 出典
 
 ## 外部リンク
 
@@ -66,6 +66,6 @@
   - [創元SF短編賞](http://www.tsogen.co.jp/sftanpensho/)
   - [SF文庫データベース](http://www.asahi-net.or.jp/~yu4h-wtnb/database/database00.htm)
 
-[Category:東京創元社](https://ja.wikipedia.org/wiki/Category:東京創元社 "wikilink") [Category:日本のSF](https://ja.wikipedia.org/wiki/Category:日本のSF "wikilink") [Category:創元SF文庫](https://ja.wikipedia.org/wiki/Category:創元SF文庫 "wikilink") [Category:文庫本](https://ja.wikipedia.org/wiki/Category:文庫本 "wikilink") [Category:1963年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:1963年刊行開始の刊行物 "wikilink")
+[Category:創元SF文庫](https://ja.wikipedia.org/wiki/Category:創元SF文庫 "wikilink") [Category:1963年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:1963年刊行開始の刊行物 "wikilink")
 
 1.

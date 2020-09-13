@@ -7,6 +7,8 @@
 
 前作「[NECESSARY](../Page/NECESSARY.md "wikilink")」より、約4ヶ月振りのリリース。
 
+前年発売の最大のヒット曲「[Time goes by](../Page/Time_goes_by.md "wikilink")」以来の1年ぶりのバラードであったが、最高位4位で累計31.5万枚に留まった。（1位は同時発売の[The brilliant green](../Page/The_brilliant_green.md "wikilink")「[そのスピードで](../Page/そのスピードで.md "wikilink")」。8cm +12cm合算すると[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の「[Automatic](https://ja.wikipedia.org/wiki/Automatic/time_will_tell "wikilink")」であった。）
+
 この曲で年末の[NHK紅白歌合戦にも出演した](../Page/第50回NHK紅白歌合戦.md "wikilink")（対戦相手は[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")で「[君といつまでも](../Page/君といつまでも.md "wikilink")」）。
 
 1999年のファンクラブイベントと同年のクリスマスライブ等で歌われているが、オリジナルツアーで初披露されたのは、発売から約10年後の『concert tour 2009-2010 MEET』（2009年10月 - ）である。また、近年ではコンサートの終盤とエンドロールと合わせて披露されることも少なくはない。

@@ -7,6 +7,7 @@
 
   - 自身初の[オリコンシングルチャート](../Page/オリコンチャート.md "wikilink")1位を獲得した作品。日本を除く[アジア](../Page/アジア.md "wikilink")出身のソロアーティストの日本におけるシングルチャート1位獲得は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")の[欧陽菲菲](../Page/欧陽菲菲.md "wikilink")の「[ラヴ・イズ・オーヴァー](https://ja.wikipedia.org/wiki/ラヴ・イズ・オーヴァー "wikilink")」以来約21年振り、平成以降初である。外国ソロアーティストのシングルが1位になったのも[エルトン・ジョン](../Page/エルトン・ジョン.md "wikilink")の「[キャンドル・イン・ザ・ウインド 〜ダイアナ元英皇太子妃に捧ぐ](https://ja.wikipedia.org/wiki/キャンドル・イン・ザ・ウインド#1997年リメイク版 "wikilink")」以来7年6ヶ月ぶりのことであった。
   - タイトル曲の「DO THE MOTION」のほか、c/wの「With U」と「キミのとなりで」にもタイアップが付いた実質3曲A面的なシングルである。
+  - 本作の発売後、海外女性アーティストのシングル首位は、[KARA](https://ja.wikipedia.org/wiki/KARA "wikilink")の『[ジェットコースターラブ](https://ja.wikipedia.org/wiki/ジェットコースターラブ "wikilink")』([2011年](../Page/2011年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")発売)まで途切れる。なお、『ジェットコースターラブ』の作詞は本作と同じく渡辺なつみが担当している。
 
 ## 収録曲
 

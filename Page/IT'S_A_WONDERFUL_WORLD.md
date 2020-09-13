@@ -11,6 +11,8 @@
 
 ベスト・アルバム発売前から「[優しい歌](../Page/優しい歌_\(Mr.Childrenの曲\).md "wikilink")」などのレコーディングは開始していたが、ベストアルバムのプロモーションやそれらに伴うライブ活動も相まって、本作のレコーディングの時間が滞り、結果的にベスト・アルバムの発売が先行することになった。発売前は全13曲収録予定とされていたが、後に全15曲になった。
 
+レコーディングは収録曲順に行われたという。
+
 20thシングル「優しい歌」のカップリング曲「花」、22ndシングル「[君が好き](../Page/君が好き_\(Mr.Childrenの曲\).md "wikilink")」のカップリング曲「さよなら2001年」は未収録となった。
 
 リスナーと向き合い、歌に重きを置いた内容のアルバムになっている。[桜井和寿](../Page/桜井和寿.md "wikilink")は「**たとえばそれが街で流れたときに、聞いた人が聞く意識もなく聞こえてきて、それがその人の中で育っていくっていう、それがポップの素晴らしさだなと思った**」と語っている\[1\]。
@@ -119,6 +121,95 @@
   - 西村浩二：Trumpet
   - 菅坂雅彦：Trumpet
   - [村田陽一](../Page/村田陽一.md "wikilink")：Trombone
+
+## ライブ映像作品
+
+**蘇生**
+
+| 作品名                                                                                                                                                              | 備考 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
+| [wonederful world on DEC 21](https://ja.wikipedia.org/wiki/wonederful_world_on_DEC_21 "wikilink")                                                                |    |
+| [Mr.Children Tour 2004 シフクノオト](../Page/Mr.Children_Tour_2004_シフクノオト.md "wikilink")                                                                               |    |
+| [ap bank fes '05](https://ja.wikipedia.org/wiki/ap_bank_fes_'05 "wikilink")                                                                                      |    |
+| [MR.CHILDREN DOME TOUR 2005 "I ♥ U" 〜FINAL IN TOKYO DOME〜](https://ja.wikipedia.org/wiki/MR.CHILDREN_DOME_TOUR_2005_"I_LOVE_U"_〜FINAL_IN_TOKYO_DOME〜 "wikilink") |    |
+| [Mr.Children "HOME" TOUR 2007](../Page/Mr.Children_"HOME"_TOUR_2007.md "wikilink")                                                                               |    |
+| [ap bank fes '09](https://ja.wikipedia.org/wiki/ap_bank_fes_'09 "wikilink")                                                                                      |    |
+| [MR.CHILDREN TOUR POPSAURUS 2012](https://ja.wikipedia.org/wiki/MR.CHILDREN_TOUR_POPSAURUS_2012 "wikilink")                                                      |    |
+| [Mr.Children Stadium Tour 2015 未完](https://ja.wikipedia.org/wiki/Mr.Children_Stadium_Tour_2015_未完 "wikilink")                                                    |    |
+| [Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")            |    |
+
+**Dear wonderful world**
+
+| 作品名                                                                                               | 備考 |
+| ------------------------------------------------------------------------------------------------- | -- |
+| [wonederful world on DEC 21](https://ja.wikipedia.org/wiki/wonederful_world_on_DEC_21 "wikilink") |    |
+
+**渇いたkiss**
+
+| 作品名                                                                                               | 備考 |
+| ------------------------------------------------------------------------------------------------- | -- |
+| [wonederful world on DEC 21](https://ja.wikipedia.org/wiki/wonederful_world_on_DEC_21 "wikilink") |    |
+
+**youthful days** ** **ファスナー**
+
+<table>
+<thead>
+<tr class="header">
+<th><p>作品名</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/wonederful_world_on_DEC_21" title="wikilink">wonederful world on DEC 21</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/MR.CHILDREN_DOME_TOUR_2005_&quot;I_LOVE_U&quot;_〜FINAL_IN_TOKYO_DOME〜" title="wikilink">MR.CHILDREN DOME TOUR 2005 "I ♥ U" 〜FINAL IN TOKYO DOME〜</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/Mr.Children_Tour_2009_〜終末のコンフィデンスソングス〜" title="wikilink">Mr.Children Tour 2009 〜終末のコンフィデンスソングス〜</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/Mr.Children_/_Split_The_Difference" title="wikilink">Mr.Children / Split The Difference</a></p></td>
+<td><p><a href="../Page/ドキュメンタリー.md" title="wikilink">ドキュメンタリー</a><a href="../Page/映画.md" title="wikilink">映画</a>作品</p>
+<p><a href="../Page/スガシカオ.md" title="wikilink">スガシカオ</a>がゲストボーカルとして参加</p></td>
+</tr>
+</tbody>
+</table>
+
+**Bird Cage**
+
+| 作品名                                                                                               | 備考 |
+| ------------------------------------------------------------------------------------------------- | -- |
+| [wonederful world on DEC 21](https://ja.wikipedia.org/wiki/wonederful_world_on_DEC_21 "wikilink") |    |
+
+**LOVEはじめました**
+
+| 作品名                                                                                                                                                                       | 備考 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
+| [wonederful world on DEC 21](https://ja.wikipedia.org/wiki/wonederful_world_on_DEC_21 "wikilink")                                                                         |    |
+| [MR.CHILDREN DOME TOUR 2005 "I ♥ U" 〜FINAL IN TOKYO DOME〜](https://ja.wikipedia.org/wiki/MR.CHILDREN_DOME_TOUR_2005_"I_LOVE_U"_〜FINAL_IN_TOKYO_DOME〜 "wikilink")          |    |
+| [Mr.Children DOME TOUR 2009 〜SUPERMARKET FANTASY〜 IN TOKYO DOME](https://ja.wikipedia.org/wiki/Mr.Children_DOME_TOUR_2009_〜SUPERMARKET_FANTASY〜_IN_TOKYO_DOME "wikilink") |    |
+| \[\[Mr.Children［(an_imitation)_blood_orange］Tour|Mr.Children \[(an imitation) blood orange\] Tour\]\]                                                                  |    |
+
+**Drawing** ** **君が好き** ** **いつでも微笑みを**
+
+| 作品名                                                                                                       | 備考         |
+| --------------------------------------------------------------------------------------------------------- | ---------- |
+| [wonederful world on DEC 21](https://ja.wikipedia.org/wiki/wonederful_world_on_DEC_21 "wikilink")         |            |
+| [ap bank fes '05](https://ja.wikipedia.org/wiki/ap_bank_fes_'05 "wikilink")                               | 弾き語りで演奏された |
+| [Mr.Children "HOME" TOUR 2007](../Page/Mr.Children_"HOME"_TOUR_2007.md "wikilink")                        |            |
+| [ap bank fes '11 Fund for Japan](https://ja.wikipedia.org/wiki/ap_bank_fes_'11_Fund_for_Japan "wikilink") |            |
+
+**優しい歌** ** **It's a wonderful world**
+
+| 作品名                                                                                               | 備考 |
+| ------------------------------------------------------------------------------------------------- | -- |
+| [wonederful world on DEC 21](https://ja.wikipedia.org/wiki/wonederful_world_on_DEC_21 "wikilink") |    |
+| [ap bank fes '05](https://ja.wikipedia.org/wiki/ap_bank_fes_'05 "wikilink")                       |    |
 
 ## 脚注
 

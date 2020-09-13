@@ -51,7 +51,7 @@
 <tr class="odd">
 <td><p>アーサー・カリントン博士[1]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロバート・コーンスウェイト_(俳優)" title="wikilink">ロバート・コーンスウェイト</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松宮五郎" title="wikilink">松宮五郎</a></p></td>
+<td><p><a href="../Page/松宮五郎.md" title="wikilink">松宮五郎</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ネッド・スコット（スコッティ）</p></td>
@@ -125,7 +125,7 @@
 
 <!-- end list -->
 
-  - [2005年](../Page/2005年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")、アメリカのFSM(Film Score Monthly)より、オリジナル・サウンドトラック盤CDが発売された。同じディミトリ・ティオムキン作曲の、映画『[あの高地を取れ](https://ja.wikipedia.org/wiki/あの高地を取れ "wikilink")』の音楽とのカップリング収録盤。
+  - [2005年](../Page/2005年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")、アメリカのFSM(Film Score Monthly)より、オリジナル・サウンドトラック盤CDが発売された。同じディミトリ・ティオムキン作曲の、映画『[あの高地を取れ](../Page/あの高地を取れ.md "wikilink")』の音楽とのカップリング収録盤。
 
 ## 脚注
 

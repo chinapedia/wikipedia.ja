@@ -47,7 +47,7 @@
         この曲のライブバージョンがGLAYのシングル「[HAPPINESS -WINTER MIX-](../Page/HAPPINESS_-WINTER_MIX-.md "wikilink")」に収録され、さらにGLAYのベストアルバム『[rare collectives vol.1](https://ja.wikipedia.org/wiki/rare_collectives_vol.1 "wikilink")』にも本アルバムのバージョンとライブバージョンの両方が収録されている。
 14. **CELEBRATION**（[I.N.A](../Page/I.N.A.md "wikilink"),[PATA](../Page/PATA.md "wikilink"),[heath](https://ja.wikipedia.org/wiki/heath "wikilink") featuring hide）
       -
-        元は[Xのアルバム](../Page/X_JAPAN.md "wikilink")『[BLUE BLOOD](../Page/BLUE_BLOOD.md "wikilink")』収録曲。ボーカルトラックはhideが生前に残していた[デモ音源が使用されている](https://ja.wikipedia.org/wiki/デモテープ "wikilink")。また、生前のライブでも拡声器を用いて歌われていた。このアルバム唯一のhideボーカルの曲で、現在他のhideのアルバムには収録されていない。
+        元は[Xのアルバム](../Page/X_JAPAN.md "wikilink")『[BLUE BLOOD](../Page/BLUE_BLOOD_\(Xのアルバム\).md "wikilink")』収録曲。ボーカルトラックはhideが生前に残していた[デモ音源が使用されている](https://ja.wikipedia.org/wiki/デモテープ "wikilink")。また、生前のライブでも拡声器を用いて歌われていた。このアルバム唯一のhideボーカルの曲で、現在他のhideのアルバムには収録されていない。
 15. **[GOOD-BYE](https://ja.wikipedia.org/wiki/Hi-Ho/GOOD_BYE "wikilink")**（[YOSHIKI](../Page/YOSHIKI.md "wikilink")）
       -
         ピアノと[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")で構成された[インストゥルメンタル](../Page/器楽曲.md "wikilink")。

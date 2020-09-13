@@ -96,6 +96,10 @@
 
 ## タイトル歴
 
+  - [DRAGON GATE](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")
+
+<!-- end list -->
+
   - [オープン・ザ・ブレイブゲート王座](../Page/オープン・ザ・ブレイブゲート王座.md "wikilink")(オープン・ザ・ガンマゲート王座)
   - [オープン・ザ・トライアングルゲート王座](https://ja.wikipedia.org/wiki/オープン・ザ・トライアングルゲート王座 "wikilink")
   - [オープン・ザ・ツインゲート王座](https://ja.wikipedia.org/wiki/オープン・ザ・ツインゲート王座 "wikilink")

@@ -51,5 +51,6 @@
 ## 外部リンク
 
   - [利府・青山CATV管理組合](http://www.rifu-aoyama-catv.com/)
+  - [デジタルテレビジョン放送 東北管内ケーブルテレビ同時再送信ロードマップ](https://www.soumu.go.jp/soutsu/tohoku/hodo/h2004-06/images/0425e1003.pdf)
 
 [Category:宮城県のケーブルテレビ局](https://ja.wikipedia.org/wiki/Category:宮城県のケーブルテレビ局 "wikilink") [Category:宮城県のマスメディア](https://ja.wikipedia.org/wiki/Category:宮城県のマスメディア "wikilink")

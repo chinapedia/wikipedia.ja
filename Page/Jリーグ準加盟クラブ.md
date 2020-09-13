@@ -339,22 +339,23 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/三重県" title="wikilink">三重県</a><a href="../Page/桑名市.md" title="wikilink">桑名市</a></p></td>
 <td><p>2013年6月28日[64]</p></td>
 <td><p>書類不備により申請不受理[65]</p></td>
-<td><p>現クラブ名:<a href="https://ja.wikipedia.org/wiki/ヴィアティン三重" title="wikilink">ヴィアティン三重</a></p></td>
+<td><p>現クラブ名:<a href="https://ja.wikipedia.org/wiki/ヴィアティン三重" title="wikilink">ヴィアティン三重</a><br />
+2020年に「Jリーグ百年構想クラブ」として承認[66]</p></td>
 </tr>
 <tr class="odd">
 <td><p>栃木ウーヴァFC</p></td>
 <td><p>JFL</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/栃木県" title="wikilink">栃木県</a><a href="../Page/栃木市.md" title="wikilink">栃木市</a>[66]</p></td>
-<td><p>2013年6月28日[67]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/栃木県" title="wikilink">栃木県</a><a href="../Page/栃木市.md" title="wikilink">栃木市</a>[67]</p></td>
+<td><p>2013年6月28日[68]</p></td>
 <td><p>継続審議</p></td>
-<td><p>翌年「Jリーグ百年構想クラブ」として承認[68]<br />
-現クラブ名:<a href="../Page/栃木シティフットボールクラブ.md" title="wikilink">栃木シティフットボールクラブ</a><br />
+<td><p>現クラブ名:<a href="../Page/栃木シティフットボールクラブ.md" title="wikilink">栃木シティフットボールクラブ</a><br />
+2014年に「Jリーグ百年構想クラブ」として承認[69]<br />
 2020年度:関東1部所属</p></td>
 </tr>
 <tr class="even">
 <td><p>FC鈴鹿ランポーレ</p></td>
 <td><p>東海1部</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三重県" title="wikilink">三重県</a><a href="../Page/鈴鹿市.md" title="wikilink">鈴鹿市</a>[69]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/三重県" title="wikilink">三重県</a><a href="../Page/鈴鹿市.md" title="wikilink">鈴鹿市</a>[70]</p></td>
 <td><p>2013年6月28日<ref>{{Cite press release|url=<a href="http://blog.fcsuzuka.net/article/367761857.html">http://blog.fcsuzuka.net/article/367761857.html</a></p></td>
 <td><p>publisher=三重すずかスポーツクラブ|date=2013-06-28|accessdate=2013-06-29}}</ref></p></td>
 <td><p>継続審議</p></td>
@@ -477,3 +478,4 @@
 67.
 68.
 69.
+70.

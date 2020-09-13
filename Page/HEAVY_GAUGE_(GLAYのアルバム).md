@@ -89,25 +89,23 @@
 5.  **HAPPINESS**
 6.  **summer FM**
 7.  **LEVEL DEVIL**
-      - 前奏が大幅にカットされ、前曲とのサウンド上の繋がりがなくなっている。
-
-<!-- end list -->
-
-1.  **BE WITH YOU**
-2.  **Winter,again**
-3.  **Will Be King**
-4.  **生きがい**
-5.  **Savile Row ～サヴィルロウ3番地～**
-6.  **毒ロック**
+      -
+        前奏が大幅にカットされ、前曲とのサウンド上の繋がりがなくなっている。
+8.  **BE WITH YOU**
+9.  **Winter,again**
+10. **Will Be King**
+11. **生きがい**
+12. **Savile Row ～サヴィルロウ3番地～**
+13. **毒ロック**
       -
         15thシングル「BE WITH YOU」のカップリング曲。
-7.  **ストロベリーシェイク**
+14. **ストロベリーシェイク**
       -
         15thシングル「BE WITH YOU」のカップリング曲。
-8.  **Young oh\! oh\!**
+15. **Young oh\! oh\!**
       -
         16thシングル「Winter,again」のカップリング曲。
-9.  **HELLO MY LIFE**
+16. **HELLO MY LIFE**
       -
         16thシングル「Winter,again」のカップリング曲。
 
@@ -125,8 +123,8 @@
 8.  **BE WITH YOU Demo**
 9.  **BE WITH YOU Demo 2**
 10. **BE WITH YOU Demo 3**
-11. **Will Be King Demo**
-12. **生きがい Demo**
+11. **生きがい Demo**
+12. **Savile Row ～サヴィルロウ3番地～ Demo**
 13. **毒ロック Demo**
 14. **Young oh\! oh\! Demo**
 15. **HELLO MY LIFE Demo**

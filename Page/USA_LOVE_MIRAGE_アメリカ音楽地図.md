@@ -20,8 +20,8 @@
   - [信越放送](../Page/信越放送.md "wikilink")
   - [FM静岡](../Page/静岡エフエム放送.md "wikilink")（現・K-MIX）
   - [FM愛知](../Page/エフエム愛知.md "wikilink")（現・FM AICHI）
-  - [FM大阪](../Page/エフエム大阪.md "wikilink")（現・FM OH\!）
-  - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")
+  - [FM大阪](../Page/エフエム大阪.md "wikilink")
+  - [山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")（現・[RSK山陽放送](../Page/RSK山陽放送.md "wikilink")）
   - [広島FM](../Page/広島エフエム放送.md "wikilink")
   - [FM愛媛](../Page/エフエム愛媛.md "wikilink")
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[鈴木Daichi秀行](https://ja.wikipedia.org/wiki/鈴木Daichi秀行)から翻訳されています。
 
 
-**鈴木Daichi秀行**（すずき だいち ひでゆき、[1974年](../Page/1974年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[ギタリスト](../Page/ギタリスト.md "wikilink")。[埼玉県](../Page/埼玉県.md "wikilink")[狭山市](../Page/狭山市.md "wikilink")出身。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。本名は鈴木秀行\[1\]。愛称は**Daichi**。
+**鈴木Daichi秀行**（すずきダイチひでゆき、[1974年](../Page/1974年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[ギタリスト](../Page/ギタリスト.md "wikilink")、[ベーシスト](../Page/ベーシスト.md "wikilink")、[キーボーディスト](../Page/キーボーディスト.md "wikilink")、[レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")。[埼玉県](../Page/埼玉県.md "wikilink")[狭山市](../Page/狭山市.md "wikilink")出身。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。本名は**鈴木秀行**\[1\]。愛称は**Daichi**。
 
 ## 人物
 
@@ -12,6 +12,249 @@
 2016年2月1日には事務所の[Cubic Recordsを立ち上げ](https://ja.wikipedia.org/wiki/Studio_Cubic_Records "wikilink")、代表取締役社長となる\[2\]。
 
 ## 提供作品
+
+### [ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")関連
+
+**[A.B.C-Z](../Page/A.B.C-Z.md "wikilink")**
+
+  - 「[Reboot\!\!\!](https://ja.wikipedia.org/wiki/Reboot!!! "wikilink")」（編曲）
+
+**[KAT-TUN](../Page/KAT-TUN.md "wikilink")**
+
+  - 「[ノーマター・マター](https://ja.wikipedia.org/wiki/cartoon_KAT-TUN_II_You "wikilink")」（編曲）
+
+**[少年隊](../Page/少年隊.md "wikilink")**
+
+  - 「CHASE」（作曲）
+
+**[SMAP](../Page/SMAP.md "wikilink")**
+
+  - 「[Otherside](https://ja.wikipedia.org/wiki/Otherside/愛が止まるまでは "wikilink")」（[MIYAVI](../Page/MIYAVI.md "wikilink")と共編曲）
+  - 「[愛が止まるまでは](https://ja.wikipedia.org/wiki/Otherside/愛が止まるまでは "wikilink")」（編曲）
+  - 「[FIVE RESPECT](https://ja.wikipedia.org/wiki/SMAP_015/Drink!_Smap! "wikilink")」（編曲）
+  - 「[君とBoogie Woogie](https://ja.wikipedia.org/wiki/GIFT_of_SMAP "wikilink")」（編曲・ギター・ベース）
+  - 「[アマノジャク](https://ja.wikipedia.org/wiki/Mr.S "wikilink")」（編曲）
+  - 「[好きよ](https://ja.wikipedia.org/wiki/Mr.S "wikilink")」（編曲）
+
+**[Sexy Zone](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink")**
+
+  - 「[High\!\! High\!\! People](https://ja.wikipedia.org/wiki/Lady_ダイヤモンド "wikilink")」（編曲・ギター・ベース）
+  - 「[Sexy Summerに雪が降る](https://ja.wikipedia.org/wiki/Sexy_Summerに雪が降る "wikilink")」（編曲・ギター）
+  - 「[バィバィDuバィ 〜See you again〜](https://ja.wikipedia.org/wiki/バィバィDuバィ〜See_you_again〜/A_MY_GIRL_FRIEND "wikilink")」（編曲・ギター・ベース）
+  - 「[待ったなんてなしっ\!](https://ja.wikipedia.org/wiki/King_&_Queen_&_Joker "wikilink")」（編曲）
+  - 「[Snow & Stars](https://ja.wikipedia.org/wiki/君にHITOMEBORE "wikilink")」（編曲）
+  - 「[Everyday love you](https://ja.wikipedia.org/wiki/カラフル_Eyes "wikilink")」（編曲）
+  - 「[ロマンティックに勝利をつかめ](https://ja.wikipedia.org/wiki/カラフル_Eyes "wikilink")」（編曲）
+  - 「[完全マイウェイ](https://ja.wikipedia.org/wiki/One_Sexy_Zone "wikilink")」（編曲）
+  - 「[ぶつかっちゃうよ](https://ja.wikipedia.org/wiki/Sexy_Second "wikilink")」（編曲）
+  - 「[Hey you \!](https://ja.wikipedia.org/wiki/Sexy_Power3 "wikilink")」（編曲）
+  - 「[Easy come\! Easy go\! Easy love\!](https://ja.wikipedia.org/wiki/Welcome_to_Sexy_Zone "wikilink")」（編曲）
+
+**[NEWS](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")**
+
+  - 「[I・ZA・NA・I・ZU・KI](https://ja.wikipedia.org/wiki/touch_\(NEWSのアルバム\) "wikilink")」（編曲）
+  - 「[君想フ夜](https://ja.wikipedia.org/wiki/pacific_\(NEWSのアルバム\) "wikilink")」（編曲）
+  - 「[ベサメ・ムーチョ 〜狂おしいボレロ〜](https://ja.wikipedia.org/wiki/NEWS_\(NEWSのアルバム\) "wikilink")」（編曲・ギター）
+
+**[Hey\!Say\!JUMP](https://ja.wikipedia.org/wiki/Hey!Say!JUMP "wikilink")**
+
+  - 「[パーフェクトライフ](https://ja.wikipedia.org/wiki/JUMP_WORLD "wikilink")」（編曲・ギター・ベース）
+
+**[Ya-Ya-yah](../Page/Ya-Ya-yah.md "wikilink")**
+
+  - 「HA・RU・NA・TSU・A・KI・FU・YU」（作曲・編曲）
+
+**[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")**
+
+  - 「[指輪](../Page/抱いてセニョリータ.md "wikilink")」（編曲・ギター）
+  - 「[君と風と三日月](https://ja.wikipedia.org/wiki/LOVE_CHASE "wikilink")」（編曲）
+  - 「[EVERYBODY UP](https://ja.wikipedia.org/wiki/A_NUDE "wikilink")」（編曲）
+  - 「[今夜が革命前夜](https://ja.wikipedia.org/wiki/YOU_\(山下智久のアルバム\) "wikilink")」（Lil' Eddie、Mark Weinbergと共編曲）
+  - 「[戻れないから](https://ja.wikipedia.org/wiki/YOU_\(山下智久のアルバム\) "wikilink")」（編曲）
+
+### [ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")関連
+
+**[安倍なつみ](../Page/安倍なつみ.md "wikilink")**
+
+  - 「[だって 生きてかなくちゃ](https://ja.wikipedia.org/wiki/だって_生きてかなくちゃ "wikilink")」（編曲・ギター）
+  - 「[あなた色](https://ja.wikipedia.org/wiki/一人ぼっち#収録曲 "wikilink")」（編曲）
+  - 「[鳴り止まない タンバリン](https://ja.wikipedia.org/wiki/安倍なつみ_〜Best_Selection〜_15色の似顔絵たち#収録曲 "wikilink")」（編曲・ギター）
+
+**[エコモニ。](../Page/エコモニ。.md "wikilink")**
+
+  - 「エコのワルツ」（編曲・ギター）
+
+**[エレジーズ](https://ja.wikipedia.org/wiki/シャッフルユニット#2005年：優雅ユニット "wikilink")**
+
+  - 「印象派 ルノアールのように」（編曲・ギター）
+
+**[カントリー娘。](../Page/カントリー娘。.md "wikilink")**
+
+  - 「[色っぽい女 〜SEXY BABY〜](https://ja.wikipedia.org/wiki/色っぽい女_〜SEXY_BABY〜 "wikilink")」（編曲・プログラミング・ギター）
+
+**[GAM](../Page/GAM_\(音楽ユニット\).md "wikilink")**
+
+  - 「ダイスキ楽天イーグルス」（編曲・ギター）
+  - 「[純潔 〜Only〜](https://ja.wikipedia.org/wiki/1st_GAM〜甘い誘惑〜#収録曲 "wikilink")」（編曲・プログラミング・ギター）
+  - 「[甘い誘惑](https://ja.wikipedia.org/wiki/1st_GAM〜甘い誘惑〜#収録曲 "wikilink")」（編曲・プログラミング・ギター）
+
+**[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")**
+
+  - 「[即 抱きしめて](../Page/即_抱きしめて.md "wikilink")」（編曲・プログラミング・ギター）
+  - 「[As ONE](https://ja.wikipedia.org/wiki/キューティークイーン_VOL.1#収録曲 "wikilink")」（編曲・プログラミング・ギター）
+  - 「[めぐる恋の季節](../Page/めぐる恋の季節.md "wikilink")」（編曲・プログラミング・ギター）
+  - 「[ほめられ伸び子のテーマ](https://ja.wikipedia.org/wiki/3rd〜LOVE_エスカレーション!〜#収録曲 "wikilink")」（編曲・プログラミング・ギター）
+  - 「[★憧れ My STAR★](https://ja.wikipedia.org/wiki/4憧れ_My_STAR#収録曲 "wikilink")」（編曲・プログラミング・ギター）
+  - 「[別れたくない…](https://ja.wikipedia.org/wiki/超WONDERFUL!6#収録曲 "wikilink")」（編曲・プログラミング・ギター）
+  - 「[越えろ\!楽天イーグルス](https://ja.wikipedia.org/wiki/越えろ!楽天イーグルス "wikilink")」（編曲・プログラミング）
+  - 「[次の角を曲がれ](https://ja.wikipedia.org/wiki/The_Middle_Management〜女性中間管理職〜/我武者LIFE/次の角を曲がれ "wikilink")」（編曲・プログラミング・ギター・ベース）
+
+**[ココナッツ娘。](../Page/ココナッツ娘。.md "wikilink")**
+
+  - 「[情熱行き 未来船](https://ja.wikipedia.org/wiki/情熱行き_未来船 "wikilink")」（編曲・ギター）
+
+**[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")**
+
+  - 「[愛のバカやろう](../Page/愛のバカやろう.md "wikilink")」（編曲）
+  - 「[LIKE A GAME](https://ja.wikipedia.org/wiki/溢れちゃう...BE_IN_LOVE "wikilink")」（編曲・ギター）
+  - 「[盛り上がるしかないでしょ\!](https://ja.wikipedia.org/wiki/マッキングGOLD_\(1\)#収録曲 "wikilink")」（編曲）
+  - 「[晴れた日のマリーン](https://ja.wikipedia.org/wiki/マッキングGOLD_\(1\)#収録曲 "wikilink")」（編曲）
+  - 「[うわさのSEXY GUY](https://ja.wikipedia.org/wiki/うわさのSEXY_GUY "wikilink")」（編曲・プログラミング・ギター）
+  - 「[スクランブル](https://ja.wikipedia.org/wiki/スクランブル_\(後藤真希の曲\) "wikilink")」（編曲）
+  - 「[抱いてよ\! PLEASE GO ON](https://ja.wikipedia.org/wiki/抱いてよ!_PLEASE_GO_ON "wikilink")」（編曲・プログラミング・ギター）
+  - 「[おふざけKISS](https://ja.wikipedia.org/wiki/抱いてよ!_PLEASE_GO_ON "wikilink")」（編曲・プログラミング・ギター）
+  - 「[さよなら「友達にはなりたくないの」](https://ja.wikipedia.org/wiki/さよなら「友達にはなりたくないの」 "wikilink")」（編曲・ギター・ベース）
+  - 「[ポジティブ元気\!](https://ja.wikipedia.org/wiki/3rdステーション#収録曲 "wikilink")」（[ニューロティカ](../Page/ニューロティカ.md "wikilink")と共編曲）
+  - 「[LIFE](https://ja.wikipedia.org/wiki/How_to_use_SEXY#収録曲 "wikilink")」（編曲）
+
+**スマイレージ/[アンジュルム](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")**
+
+  - 「[学級委員長](https://ja.wikipedia.org/wiki/悪ガキッ\(1\)#収録曲 "wikilink")」（編曲・プログラミング・ギター）
+
+**[セクシー8](https://ja.wikipedia.org/wiki/シャッフルユニット#2002年：幸せユニット "wikilink")**
+
+  - 「幸せですか?」（編曲・ギター）
+
+**[7AIR](https://ja.wikipedia.org/wiki/シャッフルユニット#2002年：幸せユニット "wikilink")**
+
+  - 「[壊れない愛がほしいの](https://ja.wikipedia.org/wiki/壊れない愛がほしいの/GET_UP!ラッパー/BE_ALL_RIGHT! "wikilink")」（編曲）
+
+**[SALT5](https://ja.wikipedia.org/wiki/シャッフルユニット#2003年：自然ユニット "wikilink")**
+
+  - 「[GET UP\!ラッパー](https://ja.wikipedia.org/wiki/壊れない愛がほしいの/GET_UP!ラッパー/BE_ALL_RIGHT! "wikilink")」（編曲）
+
+**[W (ダブルユー)](../Page/W_\(ハロー!プロジェクト\).md "wikilink")**
+
+  - 「[恋のバカンス](https://ja.wikipedia.org/wiki/恋のバカンス_\(曲\)#その他のカヴァー "wikilink")」（編曲・プログラミング・ギター）
+  - 「[月影のナポリ](https://ja.wikipedia.org/wiki/恋のバカンス_\(曲\)#その他のカヴァー "wikilink")」（編曲・ギター）
+  - 「[あぁ いいな\!](../Page/あぁ_いいな!.md "wikilink")」（編曲・プログラミング・ギター）
+  - 「[SEXY SNOW](https://ja.wikipedia.org/wiki/ロボキッス#収録曲 "wikilink")」（編曲・ギター）
+
+**[タンポポ](../Page/タンポポ_\(ハロー!プロジェクト\).md "wikilink")**
+
+  - 「[年末年始の大計画](https://ja.wikipedia.org/wiki/王子様と雪の夜#収録曲 "wikilink")」（編曲・ギター・ベース）
+
+**[DEF.DIVA](../Page/DEF.DIVA.md "wikilink")**
+
+  - 「LET'S GO 楽天イーグルス」（編曲）
+
+**[後浦なつみ](../Page/後浦なつみ.md "wikilink")**
+
+  - 「[恋愛戦隊シツレンジャー](https://ja.wikipedia.org/wiki/恋愛戦隊シツレンジャー "wikilink")」（編曲・ギター）
+
+**[H.P.オールスターズ](../Page/H.P.オールスターズ.md "wikilink")**
+
+  - 「[ALL FOR ONE & ONE FOR ALL\!](https://ja.wikipedia.org/wiki/ALL_FOR_ONE_&_ONE_FOR_ALL! "wikilink")」（編曲）
+
+**[美勇伝](../Page/美勇伝.md "wikilink")**
+
+  - 「[恋のヌケガラ](https://ja.wikipedia.org/wiki/恋のヌケガラ "wikilink")」（編曲）
+  - 「[カッチョイイゼ\! JAPAN](https://ja.wikipedia.org/wiki/カッチョイイゼ!JAPAN "wikilink")」（編曲・ギター）
+  - 「[終わらない夜と夢](https://ja.wikipedia.org/wiki/ひとりじめ_\(美勇伝の曲\)#収録曲 "wikilink")」（編曲・ギター）
+  - 「[キョウモマッテマス](https://ja.wikipedia.org/wiki/一切合切_あなたに§あ・げ・る♪#収録曲 "wikilink")」（編曲・ギター）
+  - 「[Tea Break](https://ja.wikipedia.org/wiki/スイートルームナンバー1#収録曲 "wikilink")」（編曲・ギター）
+  - 「[FANTAZY](https://ja.wikipedia.org/wiki/美勇伝_シングルベスト9_Vol.1_おまけつき#収録曲 "wikilink")」（編曲・ギター）
+  - 「[ONLY YOU](https://ja.wikipedia.org/wiki/チャンプル\(1\)〜ハッピーマリッジソングカバー集〜#収録曲 "wikilink")」（編曲・プログラミング）
+
+**[Berryz工房](../Page/Berryz工房.md "wikilink")**
+
+  - 「[恋してる時はいつも…](https://ja.wikipedia.org/wiki/スッペシャル_ジェネレ〜ション#収録曲 "wikilink")」（編曲・ギター）
+  - 「[ありがとう\!おともだち。](https://ja.wikipedia.org/wiki/スッペシャル!ベストミニ〜2.5枚目の彼〜#収録曲 "wikilink")」（編曲・プログラミング・ギター）
+  - 「[Yeah\! めっちゃホリディ](https://ja.wikipedia.org/wiki/\(3\)夏夏ミニベリーズ#収録曲 "wikilink")」（編曲・ギター）
+  - 「[思い出](https://ja.wikipedia.org/wiki/愛の弾丸#収録曲 "wikilink")」（編曲・ギター）
+  - 「[Loving you Too much](https://ja.wikipedia.org/wiki/cha_cha_SING#収録曲 "wikilink")」（編曲・プログラミング・ギター）
+
+**[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")**
+
+  - 「[会えない長い日曜日](https://ja.wikipedia.org/wiki/会えない長い日曜日 "wikilink")」（編曲）
+  - 「[ボーイフレンド](https://ja.wikipedia.org/wiki/ボーイフレンド_\(藤本美貴の曲\) "wikilink")」（編曲）
+  - 「[ブギートレイン '03](https://ja.wikipedia.org/wiki/ブギートレイン'03 "wikilink")」（編曲・ギター）
+  - 「[満月](https://ja.wikipedia.org/wiki/MIKI\(1\)#収録曲 "wikilink")」（編曲）
+
+**[プッチモニ](../Page/プッチモニ.md "wikilink")**
+
+  - 「[WOW WOW WOW](https://ja.wikipedia.org/wiki/プッチベスト#プッチベスト4 "wikilink")」（編曲）
+
+**[松浦亜弥](../Page/松浦亜弥.md "wikilink")**
+
+  - 「[The 美学](https://ja.wikipedia.org/wiki/The_美学 "wikilink")」（編曲）
+  - 「[草原の人](../Page/草原の人.md "wikilink")」（編曲・ギター・ベース）
+  - 「[SHALL WE LOVE?（松浦Version）](https://ja.wikipedia.org/wiki/T・W・O#収録曲 "wikilink")」（編曲）
+  - 「[GOOD BYE 夏男](https://ja.wikipedia.org/wiki/GOOD_BYE_夏男 "wikilink")」（編曲）
+  - 「[LOVE TRAIN](https://ja.wikipedia.org/wiki/×3#収録曲 "wikilink")」（編曲）
+  - 「[奇跡の香りダンス。](https://ja.wikipedia.org/wiki/奇跡の香りダンス。 "wikilink")」（編曲・ギター）
+  - 「[ずっと 好きでいいですか](https://ja.wikipedia.org/wiki/ずっと_好きでいいですか "wikilink")」（[小西貴雄](../Page/小西貴雄.md "wikilink")と共編曲・ギター）
+  - 「[気がつけば あなた](../Page/気がつけば_あなた.md "wikilink")」（[名越由貴夫](https://ja.wikipedia.org/wiki/名越由貴夫 "wikilink")と共編曲・ギター）
+  - 「[友情 〜上カルビ〜](https://ja.wikipedia.org/wiki/気がつけば_あなた#収録曲 "wikilink")」（編曲・ギター）
+
+**[ミニモニ。](../Page/ミニモニ。.md "wikilink")**
+
+  - 「[アイ〜ン\!ダンスの唄](https://ja.wikipedia.org/wiki/アイ〜ン体操/アイ〜ン!ダンスの唄 "wikilink")」（編曲・ギター・キーボード）
+  - 「[ラッキーチャチャチャ\!](https://ja.wikipedia.org/wiki/ラッキーチャチャチャ! "wikilink")」（編曲）
+  - 「[てんとう虫のサンバ](https://ja.wikipedia.org/wiki/チャンプル\(1\)〜ハッピーマリッジソングカバー集〜#収録曲 "wikilink")」（編曲・プログラミング・ギター）
+
+**[メロン記念日](../Page/メロン記念日.md "wikilink")**
+
+  - 「[さぁ\!恋人になろう](https://ja.wikipedia.org/wiki/さぁ!恋人になろう "wikilink")」（編曲・プログラミング・ギター）
+  - 「[チャンス of LOVE](https://ja.wikipedia.org/wiki/チャンス_of_LOVE "wikilink")」（編曲・ギター）
+  - 「[涙の太陽](https://ja.wikipedia.org/wiki/涙の太陽#メロン記念日盤_\(2004年\) "wikilink")」（編曲）
+  - 「[さあ、早速盛り上げて 行こか〜\!\!](https://ja.wikipedia.org/wiki/涙の太陽#メロン記念日盤_\(2004年\) "wikilink")」（編曲・プログラミング・ギター）
+
+<!-- end list -->
+
+  - **[モーニング娘。](../Page/モーニング娘。.md "wikilink")**
+  - 「[Do it\! Now](../Page/Do_it!_Now.md "wikilink")」（編曲）
+  - 「[ここにいるぜぇ\!](../Page/ここにいるぜぇ!.md "wikilink")」（編曲・プログラミング・ギター）
+  - 「[AS FOR ONE DAY](../Page/AS_FOR_ONE_DAY.md "wikilink")」（編曲・プログラミング・ギター）
+  - 「[Go Girl 〜恋のヴィクトリー〜](../Page/Go_Girl_〜恋のヴィクトリー〜.md "wikilink")」（編曲）
+  - 「[恋{{Ruby](https://ja.wikipedia.org/wiki/Go_Girl_〜恋のヴィクトリー〜#収録曲 "wikilink")」（編曲）
+  - 「[YAH\! 愛したい\!](https://ja.wikipedia.org/wiki/ベスト!_モーニング娘。2#収録曲 "wikilink")」（編曲）
+  - 「[ファインエモーション\!](https://ja.wikipedia.org/wiki/浪漫_〜MY_DEAR_BOY〜#収録曲 "wikilink")」（編曲）
+  - 「[女子かしまし物語](../Page/女子かしまし物語.md "wikilink")」（編曲・プログラミング・ギター・ベース）
+  - 「[大阪 恋の歌](../Page/大阪_恋の歌.md "wikilink")」（編曲・プログラミング・ギター）
+  - 「[色っぽい じれったい](../Page/色っぽい_じれったい.md "wikilink")」（編曲・プログラミング・ギター）
+  - 「[恋は発想 Do The Hustle\!](https://ja.wikipedia.org/wiki/直感2_〜逃した魚は大きいぞ!〜#収録曲 "wikilink")」（編曲・ギター）
+  - 「[青空がいつまでも続くような未来であれ\!](https://ja.wikipedia.org/wiki/レインボー7#収録曲 "wikilink")」（編曲・プログラミング・ギター）
+  - 「[歩いてる](../Page/歩いてる.md "wikilink")」（編曲・プログラミング・ギター）
+  - 「[サヨナラのかわりに](https://ja.wikipedia.org/wiki/笑顔YESヌード#収録曲 "wikilink")」（編曲・ギター）
+  - 「[元気+](https://ja.wikipedia.org/wiki/SEXY_8_BEAT#収録曲 "wikilink")」（編曲・プログラミング・ギター）
+  - 「[Hand made CITY](https://ja.wikipedia.org/wiki/悲しみトワイライト#収録曲 "wikilink")」（編曲・ギター）
+  - 「[みかん](../Page/みかん_\(モーニング娘。の曲\).md "wikilink")」（編曲・プログラミング・ギター）
+  - 「[リゾナント ブルー](../Page/リゾナント_ブルー.md "wikilink")」（編曲・プログラミング・ギター）
+  - 「[その場面でビビっちゃいけないじゃん\!](https://ja.wikipedia.org/wiki/リゾナント_ブルー#収録曲 "wikilink")」（編曲・ギター）
+  - 「[情熱のキスを一つ](https://ja.wikipedia.org/wiki/プラチナ_9_DISC#収録曲 "wikilink")」（編曲・プログラミング・ギター）
+  - 「[すべては愛の力](https://ja.wikipedia.org/wiki/なんちゃって恋愛#収録曲 "wikilink")」（編曲・ギター）
+  - 「[女が目立って なぜイケナイ](https://ja.wikipedia.org/wiki/女が目立って_なぜイケナイ "wikilink")」（編曲・ギター）
+
+**[モーニング娘。さくら組](../Page/モーニング娘。さくら組.md "wikilink")**
+
+  - 「[晴れ 雨 のち スキ ♡](../Page/晴れ_雨_のち_スキ.md "wikilink")」（編曲・ギター）
+
+**[モーニング娘。誕生10年記念隊](../Page/モーニング娘。誕生10年記念隊.md "wikilink")**
+
+  - 「[未知なる未来へ](https://ja.wikipedia.org/wiki/愛しき悪友へ#収録曲 "wikilink")」（編曲・ギター）
+
+### その他
 
 **AA-CHINO**
 
@@ -35,31 +278,31 @@
 
 **[赤と嘘](https://ja.wikipedia.org/wiki/森翼#ソロプロジェクトでの活動 "wikilink")**
 
-  - 「[衝動～スタンスミス～](https://ja.wikipedia.org/wiki/衝動ノスタルジア#収録曲 "wikilink")」（作曲・編曲\[3\]）
+  - 「[衝動 ～スタンスミス～](https://ja.wikipedia.org/wiki/衝動ノスタルジア#収録曲 "wikilink")」（作曲・編曲\[3\]）
   - 「[コスモとフィル厶](https://ja.wikipedia.org/wiki/衝動ノスタルジア#収録曲 "wikilink")」（作曲・編曲\[4\]）
-  - 「[ライブハウス～学のない指揮者～](https://ja.wikipedia.org/wiki/衝動ノスタルジア#収録曲 "wikilink")」（編曲）
+  - 「[ライブハウス ～学のない指揮者～](https://ja.wikipedia.org/wiki/衝動ノスタルジア#収録曲 "wikilink")」（編曲）
   - 「[さよなら](https://ja.wikipedia.org/wiki/衝動ノスタルジア#収録曲 "wikilink")」（編曲）
   - 「[僕らは音痴なビートルズ](https://ja.wikipedia.org/wiki/衝動ノスタルジア#収録曲 "wikilink")」（作曲・編曲\[5\]）
 
 <!-- end list -->
 
-  - 「[ありがとう](https://ja.wikipedia.org/wiki/日常マイノリティ#収録曲 "wikilink")」(作曲・編曲・プロデュース\[6\])
+  - 「[ありがとう](https://ja.wikipedia.org/wiki/日常マイノリティ#収録曲 "wikilink")」（作曲・編曲・プロデュース\[6\]）
 
 <!-- end list -->
 
-  - 「[「1」について。](https://ja.wikipedia.org/wiki/日常マイノリティ#収録曲 "wikilink")」(作曲・編曲\[7\])
+  - 「[「1」について。](https://ja.wikipedia.org/wiki/日常マイノリティ#収録曲 "wikilink")」（作曲・編曲\[7\]）
 
 <!-- end list -->
 
-  - 「[あの時君になんて言えばよかったんだろう](https://ja.wikipedia.org/wiki/日常マイノリティ#収録曲 "wikilink")」(作曲・編曲\[8\])
+  - 「[あの時君になんて言えばよかったんだろう](https://ja.wikipedia.org/wiki/日常マイノリティ#収録曲 "wikilink")」（作曲・編曲\[8\]）
 
 <!-- end list -->
 
-  - 「[炭酸シティ](https://ja.wikipedia.org/wiki/日常マイノリティ#収録曲 "wikilink")」(編曲\[9\])
+  - 「[炭酸シティ](https://ja.wikipedia.org/wiki/日常マイノリティ#収録曲 "wikilink")」（編曲\[9\]）
 
 <!-- end list -->
 
-  - 「[アンダーグラウンド](https://ja.wikipedia.org/wiki/日常マイノリティ#収録曲 "wikilink")」([赤と嘘](https://ja.wikipedia.org/wiki/赤と嘘 "wikilink")と共同で編曲\[10\])
+  - 「[アンダーグラウンド](https://ja.wikipedia.org/wiki/日常マイノリティ#収録曲 "wikilink")」（赤と嘘と共同で編曲\[10\]）
 
 **[AKINA](../Page/AKINA_\(歌手\).md "wikilink")**
 
@@ -200,7 +443,7 @@
 
   - 「サガシモノ」（編曲）
 
-**[かつみ・さゆり](../Page/かつみ・さゆり.md "wikilink")**
+**[かつみ♥さゆり](https://ja.wikipedia.org/wiki/かつみ♥さゆり "wikilink")**
 
   - 「元気だ\! ボヨヨン体操 〜なかよしがいちばん〜」（作曲・編曲）
 
@@ -329,6 +572,10 @@
   - 「With your eyes」（イ・ジョンヒョンと共編曲・サウンドプロデュース）
   - 「Greedy Man」（Jung Yong Hwa、Kim Jae Yangと共編曲・サウンドプロデュース）
 
+**[シイナナルミ](https://ja.wikipedia.org/wiki/シイナナルミ "wikilink") × Non Stop Rabbit**
+
+  - 「優しい彼氏」（編曲）
+
 **[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")**
 
   - 「[分身](https://ja.wikipedia.org/wiki/actuality "wikilink")」（編曲・ギター・ベース）
@@ -341,6 +588,10 @@
   - 「[farewell](../Page/やさしいキスの見つけ方.md "wikilink")」（[酒井ミキオ](../Page/酒井ミキオ.md "wikilink")と共編曲）
   - 「[いつの日にか…](../Page/いつの日にか….md "wikilink")」（プログラミング）
 
+**[島爺](https://ja.wikipedia.org/wiki/島爺 "wikilink")**
+
+  - 「[チルドレンレコード](https://ja.wikipedia.org/wiki/チルドレンレコード "wikilink")」（編曲・アレンジ）（じん（自然の敵P）の曲のカバー）
+
 **[清水翔太](../Page/清水翔太.md "wikilink")**
 
   - 「[With You](https://ja.wikipedia.org/wiki/Umbrella_\(清水翔太のアルバム\) "wikilink")」（近藤ひさしと共編曲）
@@ -350,72 +601,6 @@
   - 「残酷な天使のテーゼ」（編曲）
   - 「KUJIKENAIKARA\!」（編曲）
   - 「ブルーウォーター」（編曲）
-
-**[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")**関連
-
-  - **[A.B.C-Z](../Page/A.B.C-Z.md "wikilink")**
-      - 「[Reboot\!\!\!](https://ja.wikipedia.org/wiki/Reboot!!! "wikilink")」（編曲）
-
-<!-- end list -->
-
-  - **[KAT-TUN](../Page/KAT-TUN.md "wikilink")**
-      - 「[ノーマター・マター](https://ja.wikipedia.org/wiki/cartoon_KAT-TUN_II_You "wikilink")」（編曲）
-
-<!-- end list -->
-
-  - **[少年隊](../Page/少年隊.md "wikilink")**
-      - 「CHASE」（作曲）
-
-<!-- end list -->
-
-  - **[SMAP](../Page/SMAP.md "wikilink")**
-      - 「[Otherside](https://ja.wikipedia.org/wiki/Otherside/愛が止まるまでは "wikilink")」（[MIYAVI](../Page/MIYAVI.md "wikilink")と共編曲）
-      - 「[愛が止まるまでは](https://ja.wikipedia.org/wiki/Otherside/愛が止まるまでは "wikilink")」（編曲）
-      - 「[FIVE RESPECT](https://ja.wikipedia.org/wiki/SMAP_015/Drink!_Smap! "wikilink")」（編曲）
-      - 「[君とBoogie Woogie](https://ja.wikipedia.org/wiki/GIFT_of_SMAP "wikilink")」（編曲・ギター・ベース）
-      - 「[アマノジャク](https://ja.wikipedia.org/wiki/Mr.S "wikilink")」（編曲）
-      - 「[好きよ](https://ja.wikipedia.org/wiki/Mr.S "wikilink")」（編曲）
-
-<!-- end list -->
-
-  - **[SexyZone](https://ja.wikipedia.org/wiki/SexyZone "wikilink")**
-      - 「[High\!\! High\!\! People](https://ja.wikipedia.org/wiki/Lady_ダイヤモンド "wikilink")」（編曲・ギター・ベース）
-      - 「[Sexy Summerに雪が降る](https://ja.wikipedia.org/wiki/Sexy_Summerに雪が降る "wikilink")」（編曲・ギター）
-      - 「[バィバィDuバィ 〜See you again〜](https://ja.wikipedia.org/wiki/バィバィDuバィ〜See_you_again〜/A_MY_GIRL_FRIEND "wikilink")」（編曲・ギター・ベース）
-      - 「[待ったなんてなしっ\!](https://ja.wikipedia.org/wiki/King_&_Queen_&_Joker "wikilink")」（編曲）
-      - 「[Snow & Stars](https://ja.wikipedia.org/wiki/君にHITOMEBORE "wikilink")」（編曲）
-      - 「[Everyday love you](https://ja.wikipedia.org/wiki/カラフル_Eyes "wikilink")」（編曲）
-      - 「[ロマンティックに勝利をつかめ](https://ja.wikipedia.org/wiki/カラフル_Eyes "wikilink")」（編曲）
-      - 「[完全マイウェイ](https://ja.wikipedia.org/wiki/One_Sexy_Zone "wikilink")」（編曲）
-      - 「[ぶつかっちゃうよ](https://ja.wikipedia.org/wiki/Sexy_Second "wikilink")」（編曲）
-      - 「[Hey you \!](https://ja.wikipedia.org/wiki/Sexy_Power3 "wikilink")」（編曲）
-      - 「[Easy come\! Easy go\! Easy love\!](https://ja.wikipedia.org/wiki/Welcome_to_Sexy_Zone "wikilink")」（編曲）
-
-<!-- end list -->
-
-  - **[NEWS](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")**
-      - 「[I・ZA・NA・I・ZU・KI](https://ja.wikipedia.org/wiki/touch_\(NEWSのアルバム\) "wikilink")」（編曲）
-      - 「[君想フ夜](https://ja.wikipedia.org/wiki/pacific_\(NEWSのアルバム\) "wikilink")」（編曲）
-      - 「[ベサメ・ムーチョ 〜狂おしいボレロ〜](https://ja.wikipedia.org/wiki/NEWS_\(NEWSのアルバム\) "wikilink")」（編曲・ギター）
-
-<!-- end list -->
-
-  - **[Hey\!Say\!JUMP](https://ja.wikipedia.org/wiki/Hey!Say!JUMP "wikilink")**
-      - 「[パーフェクトライフ](https://ja.wikipedia.org/wiki/JUMP_WORLD "wikilink")」（編曲・ギター・ベース）
-
-<!-- end list -->
-
-  - **[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")**
-      - 「[指輪](../Page/抱いてセニョリータ.md "wikilink")」（編曲・ギター）
-      - 「[君と風と三日月](https://ja.wikipedia.org/wiki/LOVE_CHASE "wikilink")」（編曲）
-      - 「[EVERYBODY UP](https://ja.wikipedia.org/wiki/A_NUDE "wikilink")」（編曲）
-      - 「[今夜が革命前夜](https://ja.wikipedia.org/wiki/YOU_\(山下智久のアルバム\) "wikilink")」（Lil' Eddie、Mark Weinbergと共編曲）
-      - 「[戻れないから](https://ja.wikipedia.org/wiki/YOU_\(山下智久のアルバム\) "wikilink")」（編曲）
-
-<!-- end list -->
-
-  - **[Ya-Ya-yah](../Page/Ya-Ya-yah.md "wikilink")**
-      - 「HA・RU・NA・TSU・A・KI・FU・YU」（作曲・編曲）
 
 **[JAM Project](../Page/JAM_Project.md "wikilink")**
 
@@ -458,11 +643,6 @@
   - 「Super Love」（編曲）
   - 「Shaky\! Shady\! Randy\!」（編曲）
 
-**[ステレオポニー](https://ja.wikipedia.org/wiki/ステレオポニー "wikilink")**
-
-  - 「[泪のムコウ](https://ja.wikipedia.org/wiki/泪のムコウ "wikilink")」（[ステレオポニー](https://ja.wikipedia.org/wiki/ステレオポニー "wikilink")と共編曲）
-  - 「[I do it](https://ja.wikipedia.org/wiki/I_do_it "wikilink")」（ステレオポニーと共編曲）
-
 **[SUPER☆GiRLS](https://ja.wikipedia.org/wiki/SUPER☆GiRLS "wikilink")**
 
   - 「[がんばって 青春](https://ja.wikipedia.org/wiki/がんばって_青春 "wikilink")」（編曲・ギター・ベース）
@@ -477,11 +657,20 @@
   - 「[Celebration](https://ja.wikipedia.org/wiki/Celebration_\(SUPER☆GiRLSのアルバム\) "wikilink")」（編曲）
   - 「情熱RUNNER」（編曲）
 
-**[Stellafia](https://ja.wikipedia.org/wiki/Stellafia "wikilink")**
+**[ステレオポニー](https://ja.wikipedia.org/wiki/ステレオポニー "wikilink")**
+
+  - 「[泪のムコウ](https://ja.wikipedia.org/wiki/泪のムコウ "wikilink")」（ステレオポニーと共編曲）
+  - 「[I do it](https://ja.wikipedia.org/wiki/I_do_it "wikilink")」（ステレオポニーと共編曲）
+
+**Stellafia**
 
   - 「WANT TO」 （プロデュース・編曲）
   - 「PAIN」（プロデュース・編曲）
   - 「FUTURE」（プロデュース・編曲）
+
+**[SWANKY DANK](../Page/SWANKY_DANK.md "wikilink")**
+
+  - 「Amazing Dreams」(SWANKY DANKと共編曲)
 
 **[瀬川あやか](https://ja.wikipedia.org/wiki/瀬川あやか "wikilink")**
 
@@ -506,8 +695,8 @@
   - 「[カレーライスの女](../Page/カレーライスの女.md "wikilink")」（編曲）
   - 「[津軽海峡の女](https://ja.wikipedia.org/wiki/津軽海峡の女 "wikilink")」（[上杉洋史](https://ja.wikipedia.org/wiki/上杉洋史 "wikilink")と共編曲・ギター）
   - 「[東京ミッドナイト ロンリネス](https://ja.wikipedia.org/wiki/東京ミッドナイト_ロンリネス "wikilink")」（編曲）
-  - 「[国領](https://ja.wikipedia.org/wiki/華_\(ソニンのアルバム\) "wikilink")」（編曲）
-  - 「[SEE YOU\!](https://ja.wikipedia.org/wiki/華_\(ソニンのアルバム\) "wikilink")」（編曲）
+  - 「[国領](https://ja.wikipedia.org/wiki/華_\(ソニンのアルバム\)#収録曲 "wikilink")」（編曲）
+  - 「[SEE YOU\!](https://ja.wikipedia.org/wiki/華_\(ソニンのアルバム\)#収録曲 "wikilink")」（編曲）
 
 **[ダイスケ](https://ja.wikipedia.org/wiki/ダイスケ "wikilink")**
 
@@ -563,15 +752,11 @@
   - 「[Sand Mark](../Page/十六夜の月、カナリアの恋。.md "wikilink")」（作曲・編曲）
   - 「[Happy Life](../Page/十六夜の月、カナリアの恋。.md "wikilink")」（編曲）
 
-**[寺島拓篤](../Page/寺島拓篤.md "wikilink")**
-
-  - 「[INNER STAR](https://ja.wikipedia.org/wiki/INNER_STAR "wikilink")」（編曲）
-
 **[茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")**
 
   - 「[ミラクルバング\!](https://ja.wikipedia.org/wiki/ありがとう、だいすき "wikilink")」（編曲・ギター）
 
-**[チョナン・カン](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")**
+**[チョナン・カン](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")**
 
   - 「愛の唄 〜チョンマル サランヘヨ〜」（編曲）
 
@@ -586,14 +771,6 @@
   - 「[One more time, One more chance](https://ja.wikipedia.org/wiki/つるのうた "wikilink")」（編曲・ギター・ベース）
   - 「[はやぶさ](https://ja.wikipedia.org/wiki/つるばむ "wikilink")」（編曲・ギター）
 
-**[Tina](../Page/Tina.md "wikilink")**
-
-  - 「TIME'S STORY」（編曲・ギター）
-
-**[東京パフォーマンスドール](../Page/東京パフォーマンスドール.md "wikilink")**
-
-  - 「[PEOPLE](https://ja.wikipedia.org/wiki/WE_ARE_TPD "wikilink")」（編曲）
-
 **[T･O･P](https://ja.wikipedia.org/wiki/T.O.P._\(ラッパー\) "wikilink")**
 
   - 「VIVA\! DIVA\!」（T.O.P.と共編曲）
@@ -602,6 +779,25 @@
   - 「PRECIOUS TIME」（T.O.P.と共編曲）
   - 「付き合ってた日々に戻りたい」（T.O.P.と共編曲）
   - 「サクラ」（T.O.P.と共編曲）
+
+**[Tina](../Page/Tina.md "wikilink")**
+
+  - 「TIME'S STORY」（編曲・ギター）
+
+**[寺岡呼人](../Page/寺岡呼人.md "wikilink")**
+
+  - 「[スーパースター](https://ja.wikipedia.org/wiki/MASTER_PIECE_YOHITO_TERAOKA_BEST_ALBUM#収録曲 "wikilink")」（寺岡呼人と共編曲・楽器全般）
+  - 「[ブランニュージェネレーション](https://ja.wikipedia.org/wiki/MASTER_PIECE_YOHITO_TERAOKA_BEST_ALBUM#収録曲 "wikilink")」（寺岡呼人と共編曲・楽器全般）
+  - 「[JET MOBILE 2000](https://ja.wikipedia.org/wiki/MASTER_PIECE_YOHITO_TERAOKA_BEST_ALBUM#収録曲 "wikilink")」（寺岡呼人と共編曲・楽器全般）
+  - 「[青山通り](https://ja.wikipedia.org/wiki/Baton_\(寺岡呼人のアルバム\)#収録曲 "wikilink")」（寺岡呼人と共編曲・ギター・キーボード）
+
+**[寺島拓篤](../Page/寺島拓篤.md "wikilink")**
+
+  - 「[INNER STAR](https://ja.wikipedia.org/wiki/INNER_STAR "wikilink")」（編曲）
+
+**[東京パフォーマンスドール](../Page/東京パフォーマンスドール.md "wikilink")**
+
+  - 「[PEOPLE](https://ja.wikipedia.org/wiki/WE_ARE_TPD "wikilink")」（編曲）
 
 **[DOGGY BAG](https://ja.wikipedia.org/wiki/DOGGY_BAG "wikilink")**
 
@@ -647,34 +843,35 @@
 
 **[Non Stop Rabbit](https://ja.wikipedia.org/wiki/Non_Stop_Rabbit "wikilink")**
 
-  - 「[PLOW NOW](https://ja.wikipedia.org/wiki/全A面_\(Non_Stop_Rabbitのアルバム\)#収録曲 "wikilink")」（編曲\[11\]）
-  - 「[UNorder](https://ja.wikipedia.org/wiki/全A面_\(Non_Stop_Rabbitのアルバム\)#収録曲 "wikilink")」（編曲・プロデュース\[12\]）
-  - 「[いけないんだ、いけないんだ](https://ja.wikipedia.org/wiki/全A面_\(Non_Stop_Rabbitのアルバム\)#収録曲 "wikilink")」（編曲\[13\]）
-  - 「[夏の終わり](https://ja.wikipedia.org/wiki/夏の終わり/私面想歌#収録曲 "wikilink")」（編曲・プロデュース）
-  - 「[私面想歌](https://ja.wikipedia.org/wiki/夏の終わり/私面想歌#収録曲 "wikilink")」（編曲・プロデュース）
-  - 「[僕ら](https://ja.wikipedia.org/wiki/全A面_\(Non_Stop_Rabbitのアルバム\)#収録曲 "wikilink")」（編曲\[14\]）
-  - 「[SHION](https://ja.wikipedia.org/wiki/全A面_\(Non_Stop_Rabbitのアルバム\)#収録曲 "wikilink")」（編曲\[15\]）
-  - 「[これだけ](https://ja.wikipedia.org/wiki/全A面_\(Non_Stop_Rabbitのアルバム\)#収録曲 "wikilink")」（編曲\[16\]）
-  - 「[Refutation](https://ja.wikipedia.org/wiki/全A面_\(Non_Stop_Rabbitのアルバム\)#収録曲 "wikilink")」(編曲\[17\])
-  - 「[クリア](https://ja.wikipedia.org/wiki/全A面_\(Non_Stop_Rabbitのアルバム\)#収録曲 "wikilink")」（編曲\[18\]）
-  - 「[1ミリ先の努力](https://ja.wikipedia.org/wiki/全A面_\(Non_Stop_Rabbitのアルバム\)#収録曲 "wikilink")」（編曲・プロデュース\[19\]）
-  - 「[アンリズミックアンチ](https://ja.wikipedia.org/wiki/自力本願_\(Non_Stop_Rabbitのアルバム\)#収録曲 "wikilink")」（編曲・プロデュース\[20\]）
-  - 「[乱気流](https://ja.wikipedia.org/wiki/自力本願_\(Non_Stop_Rabbitのアルバム\)#収録曲 "wikilink")」（編曲\[21\]）
-  - 「[犬のおまわりさん](https://ja.wikipedia.org/wiki/自力本願_\(Non_Stop_Rabbitのアルバム\)#収録曲 "wikilink")」（編曲\[22\]）
-  - 「[イニシアチブ](https://ja.wikipedia.org/wiki/自力本願_\(Non_Stop_Rabbitのアルバム\)#収録曲 "wikilink")」（編曲・プロデュース\[23\]）
-  - 「[たまに死にたくもなるでしょ](https://ja.wikipedia.org/wiki/自力本願_\(Non_Stop_Rabbitのアルバム\)#収録曲 "wikilink")」(編曲\[24\])
-  - 「[一二三](https://ja.wikipedia.org/wiki/自力本願_\(Non_Stop_Rabbitのアルバム\)#収録曲 "wikilink")」（編曲\[25\]）
-  - 「[君と最後に選ぶ言葉](https://ja.wikipedia.org/wiki/自力本願_\(Non_Stop_Rabbitのアルバム\)#収録曲 "wikilink")」（編曲\[26\]）
-  - 「[PILE DRIVER](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[27\]）
-  - 「[其ノ他諸々](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[28\]）
-  - 「[排他的王道主義](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[29\]）
-  - 「[あなたに私が必要なくても](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[30\]）
-  - 「[万事休す](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[31\]）
-  - 「[LINEのうた](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲\[32\]）
-  - 「[Pant Voice](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[33\]）
-  - 「[aiai](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲\[34\]）
-  - 「[late bloomer](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[35\]）
-  - 「[二十五の自白](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[36\]）
+  - 「PLOW NOW」（編曲\[11\]）
+  - 「明るい歌」(編曲\[12\])
+  - 「UNorder」（編曲・プロデュース\[13\]）
+  - 「いけないんだ、いけないんだ」（編曲\[14\]）
+  - 「夏の終わり」（編曲・プロデュース）
+  - 「私面想歌」（編曲・プロデュース）
+  - 「僕ら」（編曲\[15\]）
+  - 「SHION」（編曲\[16\]）
+  - 「これだけ」（編曲\[17\]）
+  - 「Refutation」（編曲\[18\]）
+  - 「クリア」（編曲\[19\]）
+  - 「1ミリ先の努力」（編曲・プロデュース\[20\]）
+  - 「アンリズミックアンチ」（編曲・プロデュース\[21\]）
+  - 「乱気流」（編曲\[22\]）
+  - 「犬のおまわりさん」（編曲\[23\]）
+  - 「イニシアチブ」（編曲・プロデュース\[24\]）
+  - 「たまに死にたくもなるでしょ」(編曲\[25\])
+  - 「一二三」（編曲\[26\]）
+  - 「君と最後に選ぶ言葉」（編曲\[27\]）
+  - 「[PILE DRIVER](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[28\]）
+  - 「[其ノ他諸々](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[29\]）
+  - 「[排他的王道主義](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[30\]）
+  - 「[あなたに私が必要なくても](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[31\]）
+  - 「[万事休す](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[32\]）
+  - 「[LINEのうた](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲\[33\]）
+  - 「[Pant Voice](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[34\]）
+  - 「[aiai](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲\[35\]）
+  - 「[late bloomer](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[36\]）
+  - 「[二十五の自白](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[37\]）
 
 **[初音](https://ja.wikipedia.org/wiki/初音_\(歌手\) "wikilink")**
 
@@ -682,238 +879,31 @@
   - 「R347」（編曲・ギター・ベース）
   - 「ひだまり」（編曲・ギター・ベース）
 
-**[ハニカム.トーキョー](https://ja.wikipedia.org/wiki/ハニカム.トーキョー "wikilink")**
+**ハニカム.トーキョー**
 
-  - 「青空」（編曲\[37\]）
-  - 「Free」（編曲\[38\]）
-  - 「イイじゃん、スゴイやつ\!\!」（編曲\[39\]）
-  - 「全力未来\!\!」（編曲\[40\]）
-  - 「カシオペア」（編曲\[41\]）
-  - 「Bang\!Bang\!BANGOHAAAN\!\!」（編曲\[42\]）
-  - 「Yeah\!\!」（編曲\[43\]）
-  - 「スクランブル」（編曲\[44\]）
-  - 「絆」（編曲\[45\]）
+  - 「青空」（編曲\[38\]）
+  - 「Free」（編曲\[39\]）
+  - 「イイじゃん、スゴイやつ\!\!」（編曲\[40\]）
+  - 「全力未来\!\!」（編曲\[41\]）
+  - 「カシオペア」（編曲\[42\]）
+  - 「Bang\! Bang\! BANGOHAAAN\!\!」（編曲\[43\]）
+  - 「Yeah\!\!」（編曲\[44\]）
+  - 「スクランブル」（編曲\[45\]）
+  - 「絆」（編曲\[46\]）
 
 **[ハレンチ☆パンチ](../Page/80_pan.md "wikilink")**
-
-**[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")**関連
-
-  - **[安倍なつみ](../Page/安倍なつみ.md "wikilink")**
-      - 「[だって 生きてかなくちゃ](https://ja.wikipedia.org/wiki/だって_生きてかなくちゃ "wikilink")」（編曲・ギター）
-      - 「[あなた色](https://ja.wikipedia.org/wiki/一人ぼっち "wikilink")」（編曲）
-      - 「[鳴り止まない タンバリン](https://ja.wikipedia.org/wiki/安倍なつみ_〜Best_Selection〜_15色の似顔絵たち "wikilink")」（編曲・ギター）
-
-<!-- end list -->
-
-  - **[アンジュルム](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")**
-      - 「[学級委員長](https://ja.wikipedia.org/wiki/悪ガキッ\(1\) "wikilink")」（編曲・プログラミング・ギター）
-
-<!-- end list -->
-
-  - **[エコモニ。](../Page/エコモニ。.md "wikilink")**
-      - 「エコのワルツ」（編曲・ギター）
-
-<!-- end list -->
-
-  - **[エレジーズ](https://ja.wikipedia.org/wiki/シャッフルユニット#2005年：優雅ユニット "wikilink")**
-      - 「印象派 ルノアールのように」（編曲・ギター）
-
-<!-- end list -->
-
-  - **[カントリー娘。](../Page/カントリー娘。.md "wikilink")**
-      - 「[色っぽい女 〜SEXY BABY〜](https://ja.wikipedia.org/wiki/色っぽい女_〜SEXY_BABY〜 "wikilink")」（編曲・プログラミング・ギター）
-
-<!-- end list -->
-
-  - **[GAM](../Page/GAM_\(音楽ユニット\).md "wikilink")**
-      - 「ダイスキ楽天イーグルス」（編曲・ギター）
-      - 「[純潔 〜Only〜](https://ja.wikipedia.org/wiki/1st_GAM〜甘い誘惑〜 "wikilink")」（編曲・プログラミング・ギター）
-      - 「[甘い誘惑](https://ja.wikipedia.org/wiki/1st_GAM〜甘い誘惑〜 "wikilink")」（編曲・プログラミング・ギター）
-
-<!-- end list -->
-
-  - **[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")**
-      - 「[即 抱きしめて](../Page/即_抱きしめて.md "wikilink")」（編曲・プログラミング・ギター）
-      - 「[めぐる恋の季節](../Page/めぐる恋の季節.md "wikilink")」（編曲・プログラミング・ギター）
-      - 「[次の角を曲がれ](https://ja.wikipedia.org/wiki/The_Middle_Management〜女性中間管理職〜/我武者LIFE/次の角を曲がれ "wikilink")」（編曲・プログラミング・ギター・ベース）
-      - 「[As ONE](../Page/キューティークイーン_VOL.1.md "wikilink")」（編曲・プログラミング・ギター）
-      - 「[ほめられ伸び子のテーマ](../Page/3rd〜LOVE_エスカレーション!〜.md "wikilink")」（編曲・プログラミング・ギター）
-      - 「[★憧れ My STAR★](https://ja.wikipedia.org/wiki/4憧れ_My_STAR "wikilink")」（編曲・プログラミング・ギター）
-      - 「[別れたくない…](https://ja.wikipedia.org/wiki/超WONDERFUL!6 "wikilink")」（編曲・プログラミング・ギター）
-      - 「[越えろ\! 楽天イーグルス](https://ja.wikipedia.org/wiki/越えろ!楽天イーグルス "wikilink")」（編曲・プログラミング）
-
-<!-- end list -->
-
-  - **[ココナッツ娘。](../Page/ココナッツ娘。.md "wikilink")**
-      - 「[情熱行き 未来船](https://ja.wikipedia.org/wiki/情熱行き_未来船 "wikilink")」（編曲・ギター）
-
-<!-- end list -->
-
-  - **[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")**
-      - 「[愛のバカやろう](../Page/愛のバカやろう.md "wikilink")」（編曲）
-      - 「[LIKE A GAME](https://ja.wikipedia.org/wiki/溢れちゃう...BE_IN_LOVE "wikilink")」（編曲・ギター）
-      - 「[うわさのSEXY GUY](https://ja.wikipedia.org/wiki/うわさのSEXY_GUY "wikilink")」（編曲・プログラミング・ギター）
-      - 「[スクランブル](https://ja.wikipedia.org/wiki/スクランブル_\(後藤真希の曲\) "wikilink")」（編曲）
-      - 「[抱いてよ\! PLEASE GO ON](https://ja.wikipedia.org/wiki/抱いてよ!_PLEASE_GO_ON "wikilink")」（編曲・プログラミング・ギター）
-      - 「[おふざけKISS](https://ja.wikipedia.org/wiki/抱いてよ!_PLEASE_GO_ON "wikilink")」（編曲・プログラミング・ギター）
-      - 「[さよなら「友達にはなりたくないの」](https://ja.wikipedia.org/wiki/さよなら「友達にはなりたくないの」 "wikilink")」（編曲・ギター・ベース）
-      - 「[盛り上がるしかないでしょ\!](../Page/マッキングGOLD_\(1\).md "wikilink")」（編曲）
-      - 「[晴れた日のマリーン](../Page/マッキングGOLD_\(1\).md "wikilink")」（編曲）
-      - 「[ポジティブ元気\!](../Page/3rdステーション.md "wikilink")」（[ニューロティカ](../Page/ニューロティカ.md "wikilink")と共編曲）
-      - 「[LIFE](../Page/How_to_use_SEXY.md "wikilink")」（編曲）
-
-<!-- end list -->
-
-  - **[セクシー8](https://ja.wikipedia.org/wiki/シャッフルユニット#2002年：幸せユニット "wikilink")**
-      - 「幸せですか?」（編曲・ギター）
-
-<!-- end list -->
-
-  - **[7AIR](https://ja.wikipedia.org/wiki/シャッフルユニット#2002年：幸せユニット "wikilink")**
-      - 「[壊れない愛がほしいの](https://ja.wikipedia.org/wiki/壊れない愛がほしいの/GET_UP!ラッパー/BE_ALL_RIGHT! "wikilink")」（編曲）
-
-<!-- end list -->
-
-  - **[SALT5](https://ja.wikipedia.org/wiki/シャッフルユニット#2003年：自然ユニット "wikilink")**
-      - 「[GET UP\!ラッパー](https://ja.wikipedia.org/wiki/壊れない愛がほしいの/GET_UP!ラッパー/BE_ALL_RIGHT! "wikilink")」（編曲）
-
-<!-- end list -->
-
-  - **[W (ダブルユー)](../Page/W_\(ハロー!プロジェクト\).md "wikilink")**
-      - 「[恋のバカンス](https://ja.wikipedia.org/wiki/恋のバカンス_\(曲\)#その他のカヴァー "wikilink")」（編曲・プログラミング・ギター）
-      - 「[月影のナポリ](https://ja.wikipedia.org/wiki/恋のバカンス_\(曲\)#その他のカヴァー "wikilink")」（編曲・ギター）
-      - 「[あぁ いいな\!](../Page/あぁ_いいな!.md "wikilink")」（編曲・プログラミング・ギター）
-      - 「[SEXY SNOW](https://ja.wikipedia.org/wiki/ロボキッス "wikilink")」（編曲・ギター）
-
-<!-- end list -->
-
-  - **[タンポポ](../Page/タンポポ_\(ハロー!プロジェクト\).md "wikilink")**
-      - 「[年末年始の大計画](https://ja.wikipedia.org/wiki/王子様と雪の夜 "wikilink")」（編曲・ギター・ベース）
-
-<!-- end list -->
-
-  - **[DEF.DIVA](../Page/DEF.DIVA.md "wikilink")**
-      - 「LET'S GO 楽天イーグルス」（編曲）
-
-<!-- end list -->
-
-  - **[後浦なつみ](../Page/後浦なつみ.md "wikilink")**
-      - 「[恋愛戦隊シツレンジャー](https://ja.wikipedia.org/wiki/恋愛戦隊シツレンジャー "wikilink")」（編曲・ギター）
-
-<!-- end list -->
-
-  - **[H.P.オールスターズ](../Page/H.P.オールスターズ.md "wikilink")**
-      - 「[ALL FOR ONE & ONE FOR ALL\!](https://ja.wikipedia.org/wiki/ALL_FOR_ONE_&_ONE_FOR_ALL! "wikilink")」（編曲）
-
-<!-- end list -->
-
-  - **[美勇伝](../Page/美勇伝.md "wikilink")**
-      - 「[恋のヌケガラ](https://ja.wikipedia.org/wiki/恋のヌケガラ "wikilink")」（編曲）
-      - 「[カッチョイイゼ\!JAPAN](https://ja.wikipedia.org/wiki/カッチョイイゼ!JAPAN "wikilink")」（編曲・ギター）
-      - 「[終わらない夜と夢](https://ja.wikipedia.org/wiki/ひとりじめ_\(美勇伝の曲\) "wikilink")」（編曲・ギター）
-      - 「[キョウモマッテマス](https://ja.wikipedia.org/wiki/一切合切_あなたに§あ・げ・る♪ "wikilink")」（編曲・ギター）
-      - 「[Tea Break](https://ja.wikipedia.org/wiki/スイートルームナンバー1 "wikilink")」（編曲・ギター）
-      - 「[FANTAZY](https://ja.wikipedia.org/wiki/美勇伝_シングルベスト9_Vol.1_おまけつき "wikilink")」（編曲・ギター）
-      - 「[ONLY YOU](https://ja.wikipedia.org/wiki/チャンプル\(1\)〜ハッピーマリッジソングカバー集〜 "wikilink")」（編曲・プログラミング）
-
-<!-- end list -->
-
-  - **[Bitter & Sweet](https://ja.wikipedia.org/wiki/Bitter_&_Sweet_\(音楽ユニット\) "wikilink")**
-      - 「[Bitter & Sweet](https://ja.wikipedia.org/wiki/Bitter_&_Sweet/インストール "wikilink")」（編曲・ギター・アコースティックギター・ベース）
-      - 「[インストール](https://ja.wikipedia.org/wiki/Bitter_&_Sweet/インストール "wikilink")」（編曲・ギター・アコースティックギター・ベース）
-      - 「[月蝕](https://ja.wikipedia.org/wiki/誰にもナイショ/月蝕 "wikilink")」（編曲）
-      - 「[ラブストーリーは始まらない](https://ja.wikipedia.org/wiki/遠いところへ行くのでしょう/ラブストーリーは始まらない "wikilink")」（編曲）
-
-<!-- end list -->
-
-  - **[Berryz工房](../Page/Berryz工房.md "wikilink")**
-      - 「[恋してる時はいつも…](../Page/スッペシャル_ジェネレ〜ション.md "wikilink")」（編曲・ギター）
-      - 「[ありがとう\!おともだち。](../Page/スッペシャル!ベストミニ〜2.5枚目の彼〜.md "wikilink")」（編曲・プログラミング・ギター）
-      - 「[Yeah\! めっちゃホリディ](../Page/\(3\)夏夏ミニベリーズ.md "wikilink")」（編曲・ギター）
-      - 「[思い出](https://ja.wikipedia.org/wiki/愛の弾丸 "wikilink")」（編曲・ギター）
-      - 「[Loving you Too much](https://ja.wikipedia.org/wiki/cha_cha_SING "wikilink")」（編曲・プログラミング・ギター）
-
-<!-- end list -->
-
-  - **[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")**
-      - 「[会えない長い日曜日](https://ja.wikipedia.org/wiki/会えない長い日曜日 "wikilink")」（編曲）
-      - 「[ボーイフレンド](https://ja.wikipedia.org/wiki/ボーイフレンド_\(藤本美貴の曲\) "wikilink")」（編曲）
-      - 「[ブギートレイン'03](https://ja.wikipedia.org/wiki/ブギートレイン'03 "wikilink")」（編曲・ギター）
-      - 「[満月](https://ja.wikipedia.org/wiki/MIKI\(1\) "wikilink")」（編曲）
-
-<!-- end list -->
-
-  - **[プッチモニ](../Page/プッチモニ.md "wikilink")**
-      - 「[WOW WOW WOW](https://ja.wikipedia.org/wiki/プッチベスト#プッチベスト4 "wikilink")」（編曲）
-
-<!-- end list -->
-
-  - **[松浦亜弥](../Page/松浦亜弥.md "wikilink")**
-      - 「[The 美学](https://ja.wikipedia.org/wiki/The_美学 "wikilink")」（編曲）
-      - 「[草原の人](../Page/草原の人.md "wikilink")」（編曲・ギター・ベース）
-      - 「[GOOD BYE 夏男](https://ja.wikipedia.org/wiki/GOOD_BYE_夏男 "wikilink")」（編曲）
-      - 「[奇跡の香りダンス。](https://ja.wikipedia.org/wiki/奇跡の香りダンス。 "wikilink")」（編曲・ギター）
-      - 「[ずっと 好きでいいですか](https://ja.wikipedia.org/wiki/ずっと_好きでいいですか "wikilink")」（[小西貴雄](../Page/小西貴雄.md "wikilink")と共編曲・ギター）
-      - 「[気がつけば あなた](../Page/気がつけば_あなた.md "wikilink")」（[名越由貴夫](https://ja.wikipedia.org/wiki/名越由貴夫 "wikilink")と共編曲・ギター）
-      - 「[友情 〜上カルビ〜](../Page/気がつけば_あなた.md "wikilink")」（編曲・ギター）
-      - 「[SHALL WE LOVE? (松浦Version)](../Page/T・W・O.md "wikilink")」（編曲）
-      - 「[LOVE TRAIN](../Page/×3.md "wikilink")」（編曲）
-
-<!-- end list -->
-
-  - **[ミニモニ。](../Page/ミニモニ。.md "wikilink")**
-      - 「[アイ〜ン\! ダンスの唄](https://ja.wikipedia.org/wiki/アイ〜ン体操/アイ〜ン!ダンスの唄 "wikilink")」（編曲・ギター・キーボード）
-      - 「[ラッキーチャチャチャ\!](https://ja.wikipedia.org/wiki/ラッキーチャチャチャ! "wikilink")」（編曲）
-      - 「[てんとう虫のサンバ](https://ja.wikipedia.org/wiki/チャンプル\(1\)〜ハッピーマリッジソングカバー集〜 "wikilink")」（編曲・プログラミング・ギター）
-
-<!-- end list -->
-
-  - **[メロン記念日](../Page/メロン記念日.md "wikilink")**
-      - 「[さぁ\!恋人になろう](https://ja.wikipedia.org/wiki/さぁ!恋人になろう "wikilink")」（編曲・プログラミング・ギター）
-      - 「[チャンス of LOVE](https://ja.wikipedia.org/wiki/チャンス_of_LOVE "wikilink")」（編曲・ギター）
-      - 「[涙の太陽](https://ja.wikipedia.org/wiki/涙の太陽#メロン記念日盤_\(2004年\) "wikilink")」（編曲）
-      - 「[さあ、早速盛り上げて 行こか〜\!\!](https://ja.wikipedia.org/wiki/涙の太陽#メロン記念日盤_\(2004年\) "wikilink")」（編曲・プログラミング・ギター）
-
-<!-- end list -->
-
-  - **[モーニング娘。](../Page/モーニング娘。.md "wikilink")**
-      - 「[Do it\! Now](../Page/Do_it!_Now.md "wikilink")」（編曲）
-      - 「[ここにいるぜぇ\!](../Page/ここにいるぜぇ!.md "wikilink")」（編曲・プログラミング・ギター）
-      - 「[AS FOR ONE DAY](../Page/AS_FOR_ONE_DAY.md "wikilink")」（編曲・プログラミング・ギター）
-      - 「[Go Girl 〜恋のヴィクトリー〜](../Page/Go_Girl_〜恋のヴィクトリー〜.md "wikilink")」（編曲）
-      - 「[恋 ING](../Page/Go_Girl_〜恋のヴィクトリー〜.md "wikilink")」（編曲）
-      - 「[ファインエモーション\!](../Page/浪漫_〜MY_DEAR_BOY〜.md "wikilink")」（編曲）
-      - 「[女子かしまし物語](../Page/女子かしまし物語.md "wikilink")」（編曲・プログラミング・ギター・ベース）
-      - 「[大阪 恋の歌](../Page/大阪_恋の歌.md "wikilink")」（編曲・プログラミング・ギター）
-      - 「[色っぽい じれったい](../Page/色っぽい_じれったい.md "wikilink")」（編曲・プログラミング・ギター）
-      - 「[恋は発想 Do The Hustle\!](../Page/直感2_〜逃した魚は大きいぞ!〜.md "wikilink")」（編曲・ギター）
-      - 「[歩いてる](https://ja.wikipedia.org/wiki/歩いてる_\(モーニング娘。の曲\) "wikilink")」（編曲・プログラミング・ギター）
-      - 「[サヨナラのかわりに](../Page/笑顔YESヌード.md "wikilink")」（編曲・ギター）
-      - 「[Hand made CITY](../Page/悲しみトワイライト.md "wikilink")」（編曲・ギター）
-      - 「[みかん](../Page/みかん_\(モーニング娘。の曲\).md "wikilink")」（編曲・プログラミング・ギター）
-      - 「[リゾナント ブルー](../Page/リゾナント_ブルー.md "wikilink")」（編曲・プログラミング・ギター）
-      - 「[その場面でビビっちゃいけないじゃん\!](../Page/リゾナント_ブルー.md "wikilink")」（編曲・ギター）
-      - 「[すべては愛の力](https://ja.wikipedia.org/wiki/なんちゃって恋愛 "wikilink")」（編曲・ギター）
-      - 「[女が目立って なぜイケナイ](https://ja.wikipedia.org/wiki/女が目立って_なぜイケナイ "wikilink")」（編曲・ギター）
-      - 「[青空がいつまでも続くような未来であれ\!](../Page/レインボー7.md "wikilink")」（編曲・プログラミング・ギター）
-      - 「[元気+](../Page/SEXY_8_BEAT.md "wikilink")」（編曲・プログラミング・ギター）
-      - 「[情熱のキスを一つ](https://ja.wikipedia.org/wiki/プラチナ_9_DISC "wikilink")」（編曲・プログラミング・ギター）
-      - 「[YAH\! 愛したい\!](../Page/ベスト!_モーニング娘。2.md "wikilink")」（編曲）
-
-<!-- end list -->
-
-  - **[モーニング娘。さくら組](../Page/モーニング娘。さくら組.md "wikilink")**
-      - 「[晴れ 雨 のち スキ ♡](../Page/晴れ_雨_のち_スキ.md "wikilink")」（編曲・ギター）
-
-<!-- end list -->
-
-  - **[モーニング娘。誕生10年記念隊](../Page/モーニング娘。誕生10年記念隊.md "wikilink")**
-      - 「[未知なる未来へ](../Page/愛しき悪友へ.md "wikilink")」（編曲・ギター）
 
 **Vinal**
 
   - 「Heat\!」（編曲）
   - 「Beat My Way」（編曲）
+
+**[Bitter & Sweet](https://ja.wikipedia.org/wiki/Bitter_&_Sweet_\(音楽ユニット\) "wikilink")**
+
+  - 「[Bitter & Sweet](https://ja.wikipedia.org/wiki/Bitter_&_Sweet/インストール "wikilink")」（編曲・ギター・アコースティックギター・ベース）
+  - 「[インストール](https://ja.wikipedia.org/wiki/Bitter_&_Sweet/インストール "wikilink")」（編曲・ギター・アコースティックギター・ベース）
+  - 「[月蝕](https://ja.wikipedia.org/wiki/誰にもナイショ/月蝕 "wikilink")」（編曲）
+  - 「[ラブストーリーは始まらない](https://ja.wikipedia.org/wiki/遠いところへ行くのでしょう/ラブストーリーは始まらない "wikilink")」（編曲）
 
 **[平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")**
 
@@ -939,8 +929,8 @@
 
 **[THE ポッシボー](https://ja.wikipedia.org/wiki/THE_ポッシボー "wikilink")**
 
-  - 「[Dream More Dreams\!](../Page/いじわる_Crazy_love.md "wikilink")」（編曲・ギター・ベース）
-  - 「[恋するニワトリ](https://ja.wikipedia.org/wiki/1_Be_Possible! "wikilink")」（編曲・ギター）
+  - 「[Dream More Dreams\!](https://ja.wikipedia.org/wiki/いじわる_Crazy_love#収録曲 "wikilink")」（編曲・ギター・ベース）
+  - 「[恋するニワトリ](https://ja.wikipedia.org/wiki/1_Be_Possible!#収録曲 "wikilink")」（編曲・ギター）
 
 **[星村麻衣](https://ja.wikipedia.org/wiki/星村麻衣 "wikilink")**
 
@@ -1082,7 +1072,7 @@
   - 「[Why me](https://ja.wikipedia.org/wiki/feel_my_soul "wikilink")」（編曲・ギター・ベース）
   - 「[Tomorrow's way](../Page/Tomorrow's_way.md "wikilink")」（編曲・ギター・ベース）
   - 「[Last Train](../Page/Tomorrow's_way.md "wikilink")」（編曲・ギター・ベース）
-  - 「[feel my soul 〜YUI Acoustic Version〜](../Page/Tomorrow's_way.md "wikilink")」（[YUIと共編曲](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")・ギター・ベース）
+  - 「[feel my soul 〜YUI Acoustic Version〜](../Page/Tomorrow's_way.md "wikilink")」（YUIと共編曲・ギター・ベース）
   - 「[LIFE](../Page/LIFE_\(YUIの曲\).md "wikilink")」（編曲・ギター・ベース）
   - 「[crossroad](../Page/LIFE_\(YUIの曲\).md "wikilink")」（編曲・ギター・ベース）
   - 「[LIFE 〜YUI Acoustic Version〜](../Page/TOKYO_\(YUIの曲\).md "wikilink")」（YUIと共編曲・ギター）
@@ -1177,21 +1167,7 @@
 
 **[ワルキューレ](https://ja.wikipedia.org/wiki/ワルキューレ_\(マクロスΔ\) "wikilink")**
 
-  - 「AXIA〜ダイスキでダイキライ〜」（編曲・ギター・プログラミング）
-
-**[シイナナルミ](https://ja.wikipedia.org/wiki/シイナナルミ "wikilink")×Non Stop Rabbit**
-
-「優しい彼氏」(編曲)
-
-**[SWANKY DANK](../Page/SWANKY_DANK.md "wikilink")**
-
-  - 「Amazing Dreams」(SWANKY DANKと共編曲)
-
-**[島爺](https://ja.wikipedia.org/wiki/島爺 "wikilink")**
-
-  - 「[チルドレンレコード](https://ja.wikipedia.org/wiki/チルドレンレコード "wikilink")」(編曲・アレンジ)
-
-(じん(自然の敵P)の曲のカバーである。)
+  - 「AXIA 〜ダイスキでダイキライ〜」（編曲・ギター・プログラミング）
 
 ### アニメ・ゲームソング
 
@@ -1235,21 +1211,26 @@
 
   - 「[Pureyes](https://ja.wikipedia.org/wiki/Faith/Pureyes "wikilink")」（アコースティックギター・ギター）
 
+**[グッドモーニングアメリカ](https://ja.wikipedia.org/wiki/グッドモーニングアメリカ "wikilink")**
+
+  - 「イチ、ニッ、サンでジャンプ」（キーボード）
+
 **[K](../Page/K_\(歌手\).md "wikilink")**
 
   - 「Director’s Cut」（ギター）
 
 **[ソニン](https://ja.wikipedia.org/wiki/ソニン_\(タレント\) "wikilink")**
 
-  - 「好きな人だから」（ギター）
+  - 「[好きな人だから](https://ja.wikipedia.org/wiki/華_\(ソニンのアルバム\)#収録曲 "wikilink")」（ギター）
+
+**[寺岡呼人](../Page/寺岡呼人.md "wikilink")**
+
+  - 「[BLOOD, SWEAT & LOVE](https://ja.wikipedia.org/wiki/Baton_\(寺岡呼人のアルバム\)#収録曲 "wikilink")」（ギター）
+  - 「[バトン](../Page/バトン_\(寺岡呼人の曲\).md "wikilink")」（ギター・ピアノ）
 
 **[mihimaru GT](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")**
 
   - 「[The 7 Wonders](../Page/気分上々↑↑.md "wikilink")」（ギター）
-
-**[グッドモーニングアメリカ](https://ja.wikipedia.org/wiki/グッドモーニングアメリカ "wikilink")**
-
-  - 「イチ、ニッ、サンでジャンプ」（キーボード）
 
 **[森恵](https://ja.wikipedia.org/wiki/森恵_\(歌手\) "wikilink")**
 
@@ -1317,3 +1298,4 @@
 43.
 44.
 45.
+46.

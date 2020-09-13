@@ -19,6 +19,8 @@
 
 なお表題曲の「CASTLE IN THE CLOUDS」の本作（シングル）バージョンではベストアルバム等の収録は無く、C/Wのみ「[Gift from Fanks T](../Page/Gift_from_Fanks_T.md "wikilink")」に収録されている。
 
+2019年実施のTM NETWORK 35周年 FanksからのTOP100曲カウントダウンSP～Gift from Fanks～では本曲（シングル）バージョンが第99位に選ばれた\[4\]が、収録されるのは70位以内であるため、シングルバージョンは収録されなかった。一方のC/W曲「君がいる朝」は70位圏内に入っていたため上記通り収録されている。
+
 ## 収録曲
 
 1.  **CASTLE IN THE CLOUDS**
@@ -58,3 +60,4 @@
 1.  一般販売のみをカウントした場合は32枚目
 2.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』2002年11月号98P-99Pより。
 3.
+4.  2020年1月18日、ニコニコ生放送

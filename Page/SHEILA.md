@@ -14,8 +14,11 @@
   - 『[ロンドンハーツ](../Page/ロンドンハーツ.md "wikilink")』初登場となった「オシャレゲート」のコーナーでは、辛口ファッションチェックの[ドン小西にちなんで](../Page/小西良幸.md "wikilink")「**ドンSHEILA**」と言われ的確なファッションアドバイスが好評でイベントなどの依頼が多い。
   - 小学生の頃から大の[スヌーピー](../Page/スヌーピー.md "wikilink")ファンで、同作品の翻訳を手がける[谷川俊太郎](../Page/谷川俊太郎.md "wikilink")に認められ、タレントとしては初となるニューブランド、「SNOOPY Star★d'or」を立ち上げスヌーピーの大人向けアクセサリーやその他のアイテムを多数手がける。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")2月4日にウエディングドレスとカクテルドレスをデザインしたブランド「Feliz　boda」を発表。
-  - [2009年](../Page/2009年.md "wikilink")7月8日に会社役員の一般男性（１歳年下）と11年の交際を実らせて結婚。その後[2011年](../Page/2011年.md "wikilink")10月に妊娠5か月であることを発表した。
-  - [2019年](../Page/2019年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")、[くも膜下出血](https://ja.wikipedia.org/wiki/くも膜下出血 "wikilink")を発症して、緊急手術を受ける\[1\]。12月22日、約7か月ぶりにインスタグラムを更新し、近況を報告した\[2\]。
+  - [2009年](../Page/2009年.md "wikilink")7月8日に会社役員の一般男性（１歳年下）と11年の交際を実らせて結婚。その後[2011年](../Page/2011年.md "wikilink")10月に妊娠5か月であることを発表した。[2013年](../Page/2013年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に第2子長男を出産した後は[尿漏れ](https://ja.wikipedia.org/wiki/尿漏れ "wikilink")が酷く、[トランポリン](../Page/トランポリン.md "wikilink")した時に、びっくりするぐらいジャーッっと漏れたことがあり、日常生活でもくしゃみや子供を抱くとチョロっと漏れ、蛇口のように出るなど全く制御が効かないことをテレビで打ち明けた\[1\]。
+
+<!-- end list -->
+
+  - [2019年](../Page/2019年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")、[くも膜下出血](https://ja.wikipedia.org/wiki/くも膜下出血 "wikilink")を発症して、緊急手術を受ける\[2\]。12月22日、約7か月ぶりにインスタグラムを更新し、近況を報告した\[3\]。
 
 ## 人物
 
@@ -118,5 +121,6 @@
   -
 [Category:日本の女性ファッションモデル](https://ja.wikipedia.org/wiki/Category:日本の女性ファッションモデル "wikilink") [Category:日本のタレント](https://ja.wikipedia.org/wiki/Category:日本のタレント "wikilink") [Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink") [Category:ホリプロ](https://ja.wikipedia.org/wiki/Category:ホリプロ "wikilink") [Category:1973年生](https://ja.wikipedia.org/wiki/Category:1973年生 "wikilink") [Category:キューバ系日本人](https://ja.wikipedia.org/wiki/Category:キューバ系日本人 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
-1.
+1.  [ＳＨＥＩＬＡ　尿漏れに悩む「蛇口のように出る」…４０歳で第２子出産後](https://www-daily-co-jp.cdn.ampproject.org/c/s/www.daily.co.jp/gossip/2017/11/06/0010710372.shtml?pg=amp&usqp=mq331AQRKAGYAZXRn-mCnMjZyQGwASA%3D)
 2.
+3.

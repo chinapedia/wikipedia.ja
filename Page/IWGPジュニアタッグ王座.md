@@ -38,7 +38,7 @@
 </tr>
 <tr class="even">
 <td><p>第2代</p></td>
-<td><p><a href="../Page/石澤常光.md" title="wikilink">ケンドー・カシン</a>&amp;<a href="../Page/ドクトル・ワグナー・ジュニア.md" title="wikilink">ドクトル・ワグナーJr.</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ケンドー・カシン" title="wikilink">ケンドー・カシン</a>&amp;<a href="../Page/ドクトル・ワグナー・ジュニア.md" title="wikilink">ドクトル・ワグナーJr.</a></p></td>
 <td><p>1</p></td>
 <td><p>2</p></td>
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a>1月4日</p></td>
@@ -460,7 +460,7 @@
 </tr>
 <tr class="even">
 <td><p>第54代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小松洋平" title="wikilink">YOH</a>&amp;<a href="https://ja.wikipedia.org/wiki/田中翔" title="wikilink">SHO</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/田中翔" title="wikilink">SHO</a>＆<a href="https://ja.wikipedia.org/wiki/小松洋平" title="wikilink">YOH</a></p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>2017年10月9日</p></td>
@@ -476,7 +476,7 @@
 </tr>
 <tr class="even">
 <td><p>第56代</p></td>
-<td><p>YOH&amp;SHO</p></td>
+<td><p>SHO＆YOH</p></td>
 <td><p>2</p></td>
 <td><p>0</p></td>
 <td><p>2018年1月28日</p></td>
@@ -488,7 +488,8 @@
 <td><p>1</p></td>
 <td><p>4</p></td>
 <td><p>2018年3月6日</p></td>
-<td><p>大田区総合体育館</p></td>
+<td><p>大田区総合体育館<br />
+前王者組、BUSHI＆<a href="https://ja.wikipedia.org/wiki/高橋ヒロム" title="wikilink">高橋ヒロム</a>組との3WAY</p></td>
 </tr>
 <tr class="even">
 <td><p>第58代</p></td>
@@ -501,7 +502,7 @@
 </tr>
 <tr class="odd">
 <td><p>第59代</p></td>
-<td><p>YOH&amp;SHO</p></td>
+<td><p>SHO＆YOH</p></td>
 <td><p>3</p></td>
 <td><p>1</p></td>
 <td><p>2019年3月6日</p></td>
@@ -517,11 +518,19 @@
 </tr>
 <tr class="odd">
 <td><p>第61代</p></td>
-<td><p>YOH&amp;SHO</p></td>
+<td><p>SHO＆YOH</p></td>
 <td><p>4</p></td>
 <td><p>2</p></td>
 <td><p>2020年1月5日</p></td>
-<td><p>東京ドーム</p></td>
+<td><p>東京ドーム、YOHの膝負傷による長期欠場により王座返上。</p></td>
+</tr>
+<tr class="even">
+<td><p>第62代</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>2020年9月11日</p></td>
+<td><p>後楽園ホール、王者決定リーグ戦。</p></td>
 </tr>
 </tbody>
 </table>

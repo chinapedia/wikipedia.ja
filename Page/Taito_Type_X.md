@@ -191,6 +191,7 @@ os:windows xp embedded standard
   - [マジシャンズデッド](https://ja.wikipedia.org/wiki/マジシャンズデッド "wikilink")（バイキング）- 2016年12月8日
   - [電車でGO\!](../Page/電車でGO!.md "wikilink")\!（タイトー）- 2017年11月7日　※GPUはNVIDIA GeForce GTX 1080
   - [星と翼のパラドクス](https://ja.wikipedia.org/wiki/星と翼のパラドクス "wikilink")（スクウェア・エニックス／バイキング／[サンライズ](../Page/サンライズ.md "wikilink")） - 2018年11月21日　※GPUはNVIDIA GeForce GTX 1080、メモリは16GB
+  - [ストリートファイターV タイプアーケード](https://ja.wikipedia.org/wiki/ストリートファイターV "wikilink")（カプコン） - 2019年3月14日
 
 ## 開発及び発売中止タイトル
 

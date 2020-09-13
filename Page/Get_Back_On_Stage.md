@@ -15,7 +15,7 @@
       -
         [Lyrics](../Page/作詞.md "wikilink") by Naoki Takada & BENNIE K / Music by Naoki Takada & BENNIE K
         3rdシングル
-3.  **[DRIVE](https://ja.wikipedia.org/wiki/DRIVE_\(SEAMOの曲\) "wikilink")**
+3.  **[DRIVE](../Page/DRIVE_\(SEAMOの曲\).md "wikilink")**
       -
         Lyrics by Naoki Takada / Music by Naoki Takada
         2ndシングル

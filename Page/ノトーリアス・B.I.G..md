@@ -59,6 +59,8 @@
 
 ラッパーの[ジャマール・ウーラード](https://ja.wikipedia.org/wiki/ジャマール・ウーラード "wikilink")（[Jamal Woolard](https://ja.wikipedia.org/wiki/:en:Jamal_Woolard "wikilink")）が主演の伝記映画『Notorious』が、2009年1月16日に全米公開された。
 
+2018年には、彼の殺害事件を基にしたノンフィクション*LAbyrinth*が*[City of Lies](../Page/シティ・オブ・ライズ.md "wikilink")*として映画化された。
+
 ## 脚注・出典
 
 [Category:アメリカ合衆国のラッパー](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のラッパー "wikilink") [Category:アフリカ系アメリカ人のミュージシャン](https://ja.wikipedia.org/wiki/Category:アフリカ系アメリカ人のミュージシャン "wikilink") [Category:ブルックリン出身の人物](https://ja.wikipedia.org/wiki/Category:ブルックリン出身の人物 "wikilink") [Category:ジャマイカ系アメリカ人](https://ja.wikipedia.org/wiki/Category:ジャマイカ系アメリカ人 "wikilink") [Category:殺人被害者](https://ja.wikipedia.org/wiki/Category:殺人被害者 "wikilink") [Category:1972年生](https://ja.wikipedia.org/wiki/Category:1972年生 "wikilink") [Category:1997年没](https://ja.wikipedia.org/wiki/Category:1997年没 "wikilink") [Category:アメリカ合衆国の未解決殺人事件](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の未解決殺人事件 "wikilink") [Category:50_great_voices](https://ja.wikipedia.org/wiki/Category:50_great_voices "wikilink")

@@ -101,7 +101,7 @@
   -
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=7)
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1956年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1956年のテレビ番組_\(日本\) "wikilink") [Category:1956年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1956年のラジオ番組_\(日本\) "wikilink") [Category:1956年の音楽](https://ja.wikipedia.org/wiki/Category:1956年の音楽 "wikilink") [Category:1956年12月](https://ja.wikipedia.org/wiki/Category:1956年12月 "wikilink")
 

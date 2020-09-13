@@ -27,4 +27,4 @@
   - [TOEI THEATERS](https://toeitheaters.com/) - 東映による映画館情報サイト
   - [丸の内TOEI(1)(2)](https://toeitheaters.com/theaters/marunouchi/) - TOEI THEATERSによるページ
 
-[Category:東映](https://ja.wikipedia.org/wiki/Category:東映 "wikilink") [Category:東急グループ](https://ja.wikipedia.org/wiki/Category:東急グループ "wikilink") [Category:東京都の映画館](https://ja.wikipedia.org/wiki/Category:東京都の映画館 "wikilink") [Category:東京都中央区の建築物](https://ja.wikipedia.org/wiki/Category:東京都中央区の建築物 "wikilink") [Category:銀座](https://ja.wikipedia.org/wiki/Category:銀座 "wikilink") [Category:1960年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:1960年竣工の日本の建築物 "wikilink")
+[Category:東映](https://ja.wikipedia.org/wiki/Category:東映 "wikilink") [Category:東京都の映画館](https://ja.wikipedia.org/wiki/Category:東京都の映画館 "wikilink") [Category:東京都中央区の建築物](https://ja.wikipedia.org/wiki/Category:東京都中央区の建築物 "wikilink") [Category:銀座](https://ja.wikipedia.org/wiki/Category:銀座 "wikilink") [Category:1960年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:1960年竣工の日本の建築物 "wikilink")

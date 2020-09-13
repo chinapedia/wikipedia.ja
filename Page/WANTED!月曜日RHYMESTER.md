@@ -21,12 +21,11 @@
 ## パーソナリティ
 
   - [RHYMESTER](../Page/RHYMESTER.md "wikilink")
+      - [宇多丸](../Page/宇多丸.md "wikilink")
+      - [Mummy-D](../Page/Mummy-D.md "wikilink")
+      - [DJ JIN](../Page/DJ_JIN.md "wikilink")
 
-:\*[宇多丸](../Page/宇多丸.md "wikilink")
-
-:\*[Mummy-D](../Page/Mummy-D.md "wikilink")
-
-:\*[DJ JIN](../Page/DJ_JIN.md "wikilink")
+<!-- end list -->
 
   - まーたん（番組放送作家の結城雅美）
 

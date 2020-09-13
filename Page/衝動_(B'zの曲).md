@@ -1,15 +1,15 @@
 > この記事は[衝動 \(B\'zの曲\)](https://ja.wikipedia.org/wiki/衝動_\(B\'zの曲\))から翻訳されています。
 
 
-「**衝動**」(しょうどう)は、[B'z](../Page/B'z.md "wikilink")の楽曲。同グループ40作目の[シングル](../Page/シングル.md "wikilink")として[2006年](../Page/2006年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")に[VERMILLION RECORDSから発売された](../Page/VERMILLION_RECORDS.md "wikilink")。
+「**衝動**」(しょうどう)は、[B'z](../Page/B'z.md "wikilink")の楽曲。2006年1月25日に[VERMILLION RECORDSから](../Page/VERMILLION_RECORDS.md "wikilink")40作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 
-B'zとしては「[Everlasting](../Page/GREEN_\(B'zのアルバム\).md "wikilink")」以来4曲目の『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』とのタイアップ(途中に[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")の「[Overture](../Page/志庵.md "wikilink")」あり)。
+B'zとしては「[Everlasting](../Page/GREEN_\(B'zのアルバム\).md "wikilink")」以来4曲目の『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』とのタイアップ。
 
 このシングルには、『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン "wikilink")』の原作者である[青山剛昌](../Page/青山剛昌.md "wikilink")描き下ろしのイラストカードが付属している。そのカードには、B'zの2人と『名探偵コナン』の主人公・[江戸川コナン](../Page/江戸川コナン.md "wikilink")が描かれている\[1\]。
 
-B'zのCDが1月に発売されるのは、18年目にして初めてのことだった。[2000年](../Page/2000年.md "wikilink")発売の『[今夜月の見える丘に](../Page/今夜月の見える丘に.md "wikilink")』も当初は1月発売だったが、収録曲変更などで延期され同年2月に変更となった(詳細は「[今夜月の見える丘に](https://ja.wikipedia.org/wiki/今夜月の見える丘に_#概要 "wikilink")」を参照)。また、B'zとしては[漢字](../Page/漢字.md "wikilink")のみのシングル表題曲は今作が初である\[2\]。
+B'zのCDが1月に発売されるのは、18年目にして初めてのことだった。2000年発売の『[今夜月の見える丘に](../Page/今夜月の見える丘に.md "wikilink")』も当初は1月発売だったが、収録曲変更などで延期され同年2月に変更となった(詳細は「[今夜月の見える丘に](https://ja.wikipedia.org/wiki/今夜月の見える丘に#概要 "wikilink")」を参照)。また、B'zとしては[漢字](../Page/漢字.md "wikilink")のみのシングル表題曲は今作が初であり\[2\]、全収録曲が漢字のみのシングルは今作のみである。
 
 ## 収録曲
 
@@ -22,8 +22,8 @@ B'zのCDが1月に発売されるのは、18年目にして初めてのことだ
 2.  **結晶** (4:06)
       -
         楽曲自体は、メンバーがいつ制作したか覚えていないほどの昔の[ストック](../Page/ストック.md "wikilink")である。メンバーは「冬の時期に発表したかった」とのこと。
-        Bメロ部分は、やや[ファルセット](../Page/ファルセット.md "wikilink")気味で歌唱している\[6\]。
-        [2nd beatかつストックでありながら](https://ja.wikipedia.org/wiki/2nd_beat "wikilink")、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[土曜ドラマ](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink")『[喰いタン](../Page/喰いタン_\(テレビドラマ\).md "wikilink")』主題歌に起用された。また、B'zが日本テレビ系列のドラマ主題歌を手掛けるのは「[RING](../Page/RING_\(B'zの曲\).md "wikilink")」以来、約5年4か月ぶりとなる。
+        ドラムは全編[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")となっている。Bメロ部分は、やや[ファルセット](../Page/ファルセット.md "wikilink")気味で歌唱している\[6\]。
+        [2nd beatかつストックでありながら](https://ja.wikipedia.org/wiki/B'zの作品#シングル曲の表記 "wikilink")、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[土曜ドラマ](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink")『[喰いタン](../Page/喰いタン_\(テレビドラマ\).md "wikilink")』主題歌に起用された。また、B'zが日本テレビ系列のドラマ主題歌を手掛けるのは「[RING](../Page/RING_\(B'zの曲\).md "wikilink")」以来、約5年4か月ぶりとなる。
         同系列番組『[歌笑HOTヒット10](../Page/ウタワラ.md "wikilink")』で披露されたが、[LIVE-GYM](../Page/LIVE-GYM.md "wikilink")では未演奏のため、前述の番組出演が唯一の演奏披露である。
 
 ## タイアップ
@@ -44,7 +44,7 @@ B'zのCDが1月に発売されるのは、18年目にして初めてのことだ
 
   - [MONSTER](../Page/MONSTER_\(アルバム\).md "wikilink") (MONSTER MiX)
   - [B'z The Best "ULTRA Pleasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Pleasure" "wikilink")
-  - [THE BEST OF DETECTIVE CONAN 3 〜名探偵コナン テーマ曲集3〜](../Page/THE_BEST_OF_DETECTIVE_CONAN_3_〜名探偵コナン_テーマ曲集3〜.md "wikilink")
+  - [THE BEST OF DETECTIVE CONAN 3 〜名探偵コナン テーマ曲集3〜](https://ja.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN#THE_BEST_OF_DETECTIVE_CONAN_3_〜名探偵コナン_テーマ曲集3〜 "wikilink")
   - [B'z The Best XXV 1999-2012](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1999-2012 "wikilink")
 
 ## ライブ映像作品
@@ -68,7 +68,7 @@ B'zのCDが1月に発売されるのは、18年目にして初めてのことだ
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/テレビアニメ" title="wikilink">テレビアニメ</a>『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_(アニメ)" title="wikilink">名探偵コナン</a>』<a href="../Page/主題歌.md" title="wikilink">オープニングテーマ</a><br />
-<a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/1月9日.md" title="wikilink">1月9日</a> - <a href="../Page/5月8日.md" title="wikilink">5月8日</a></p></td>
+2006年1月9日 - 5月8日</p></td>
 </tr>
 <tr class="even">
 <td><p>前作:<br />
@@ -82,7 +82,7 @@ B'zのCDが1月に発売されるのは、18年目にして初めてのことだ
 
 1.
 2.  本作の他には、「[有頂天](https://ja.wikipedia.org/wiki/有頂天_\(B'zの曲\) "wikilink")」と「[声明](https://ja.wikipedia.org/wiki/声明/Still_Alive "wikilink")」が存在する。
-3.  ただし、「[DIVE](https://ja.wikipedia.org/wiki/イチブトゼンブ/DIVE "wikilink")」の[アルバムバージョンを除く](https://ja.wikipedia.org/wiki/MAGIC_\(B'zのアルバム\) "wikilink")。
+3.  ただし、「[DIVE](https://ja.wikipedia.org/wiki/イチブトゼンブ/DIVE "wikilink")」の[アルバムバージョン](https://ja.wikipedia.org/wiki/MAGIC_\(B'zのアルバム\) "wikilink")（2分59秒）を除く。
 4.
 5.
 6.

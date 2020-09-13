@@ -1,55 +1,57 @@
 > この記事は[第45回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第45回NHK紅白歌合戦)から翻訳されています。
 
 
-『**第45回NHK紅白歌合戦**（だいよんじゅうごかいエヌエイチケイこうはくうたがっせん）は、[1994年](../Page/1994年.md "wikilink")（[平成](../Page/平成.md "wikilink")6年）[12月31日](../Page/12月31日.md "wikilink")に[NHKホール](../Page/NHKホール.md "wikilink")で行われた、通算45回目の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")。20時から21時25分および21時30分 - 23時45分に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。
+『**第45回NHK紅白歌合戦**』（だいよんじゅうごかいエヌエイチケイこうはくうたがっせん）は、[1994年](../Page/1994年.md "wikilink")（[平成](../Page/平成.md "wikilink")6年）[12月31日](../Page/12月31日.md "wikilink")に[NHKホール](../Page/NHKホール.md "wikilink")で行われた、通算45回目の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")。
+
+20時から21時25分（前半）、及び21時30分 - 23時45分（後半）に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。
 
 ## 概要
 
-放送開始が20:00（[JST](../Page/日本標準時.md "wikilink")）に繰り下げられ、以後[第49回](../Page/第49回NHK紅白歌合戦.md "wikilink")（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）まで20:00の放送開始となる。これは「4時間以上は長い」との声に応えたものである\[1\]。また、NHKの旧ロゴマークが使用された最後の紅白となっている。
+放送開始が20:00（[JST](../Page/日本標準時.md "wikilink")）に繰り下げられ、以降[第49回](../Page/第49回NHK紅白歌合戦.md "wikilink")（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）まで20:00の放送開始となる。これは「4時間以上は長い」との声に応えたものである\[1\]。
+
+NHKの旧ロゴマークが使用された最後の紅白となっている。
 
 ### 放送まで
 
   - 今回の司会者は[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")、出場歌手は[12月1日](../Page/12月1日.md "wikilink")、曲目は[12月14日](../Page/12月14日.md "wikilink")、曲順・審査員は[12月21日](../Page/12月21日.md "wikilink")に発表された\[2\]。
-  - 白組司会には[古舘伊知郎](../Page/古舘伊知郎.md "wikilink")（元[テレビ朝日](../Page/テレビ朝日.md "wikilink")[アナウンサー](../Page/日本のアナウンサー.md "wikilink")）が起用された。古舘は史上初の[民放のアナウンサー出身の紅白司会者となった](../Page/民間放送.md "wikilink")\[3\]\[4\]。前年放送を開始した『[クイズ日本人の質問](../Page/クイズ日本人の質問.md "wikilink")』での司会ぶりを買われて且つ制作者一同が起用を一致した上での抜擢である\[5\]\[6\]\[7\]。古舘はここ数年前から白組司会の候補に挙がっており、特に[前回では最終的に番組側が起用を見送る格好となっていた](../Page/第44回NHK紅白歌合戦.md "wikilink")\[8\]。古舘の起用は前年末の時点で内定しており\[9\]、『スポーツニッポン』で起用をスクープされていた。
-  - 古舘は元々紅白の司会を目指していたと話している\[10\]。
-  - 古舘に対抗する紅組司会は全く下馬評に出なかった[上沼恵美子](../Page/上沼恵美子.md "wikilink")が起用された。仕事は基本的に在阪局に絞って行い、あまり在京局や[ローカル局](../Page/ローカル局.md "wikilink")では仕事をしないスタイルの上沼は全国的なテレビ出演が当時[NHK大阪制作](../Page/NHK大阪放送局.md "wikilink")『[バラエティー生活笑百科](../Page/バラエティー生活笑百科.md "wikilink")』程度であったものの、紅組司会に抜擢され、本紅白での絶妙な仕切りが注目され知名度・人気を一躍全国区のものとした。[2014年](../Page/2014年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")放送の[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・[中京テレビ](../Page/中京テレビ放送.md "wikilink")『[上沼・高田のクギズケ\!](https://ja.wikipedia.org/wiki/上沼・高田のクギズケ! "wikilink")』で、紅白司会担当後在京局から11本に及ぶレギュラー番組のオファーがあったことを本人が明かしている。上沼は司会発表会見で「私では番組の価値が下がる・番組を傷つけるのでは」「息子がいじめられる」との理由で紅組司会を辞退するつもりだったことを明かした\[11\]ほか、『[毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")』（1994年12月31日付）のインタビューで「NHKから紅白司会の話があったのは11月に入ってから。この時点で[正月](../Page/正月.md "wikilink")に[ハワイへ家族旅行をする予定を立てていたため](../Page/ハワイ州.md "wikilink")、受けるか悩んだ」「夫（[上沼真平](https://ja.wikipedia.org/wiki/上沼真平 "wikilink")）が仕事を全て反対してくるため、この仕事も絶対に反対すると思っていたが、『引き受けないと君が一生後悔するだろうから』と応援の姿勢を示してくれたので、受けることにした」と語っている。後に自身のドキュメンタリー番組『[快傑えみちゃんねる](../Page/快傑えみちゃんねる.md "wikilink")番外編　誰も知らない上沼恵美子～還暦からのスタートから』（[関西テレビ](../Page/関西テレビ放送.md "wikilink")。[2015年](../Page/2015年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")放送）で上沼は今回の紅組司会について、「上沼恵美子なんて[大阪](../Page/大阪.md "wikilink")だけの[タレント](../Page/タレント.md "wikilink")です。それをNHKが紅組の司会に起用したっていうことは風当たりも強かったですし、やはりベテラン歌手にはいびられました」と語った。また、上沼は出場歌手との面談の際、「横を向いて目を会わせてくれない方が4、5人いた」と『[あさイチ](https://ja.wikipedia.org/wiki/あさイチ "wikilink")』（2015年[12月25日](../Page/12月25日.md "wikilink")放送）で語っている（「その人たちは未だに大っキライです」とも述べた）\[12\]。
-  - 紅組司会の候補としては上沼以外に[黒柳徹子](https://ja.wikipedia.org/wiki/黒柳徹子 "wikilink")、[十朱幸代](../Page/十朱幸代.md "wikilink")、[いしだあゆみ](../Page/いしだあゆみ.md "wikilink")（この年の[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[春よ、来い](../Page/春よ、来い_\(テレビドラマ\).md "wikilink")』に出演）、[由紀さおり](../Page/由紀さおり.md "wikilink")、[山田邦子](../Page/山田邦子.md "wikilink")、[森口博子](../Page/森口博子.md "wikilink")（『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』司会者）、[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")（この年の『[思い出のメロディー](../Page/思い出のメロディー.md "wikilink")』司会）が挙がっており、司会発表直前の時期にはこれらの名前が連日マスコミ報道で出されていた\[13\]。この起用は[益弘春男](https://ja.wikipedia.org/wiki/益弘春男 "wikilink")とプロデューサー2人が、『バラエティー生活笑百科』での上沼のトークを見て紅白の司会に向いていると判断したことや先に内定していた古舘に対抗できる話術の持ち主と判断したことがきっかけであり、[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に司会候補に挙がったという\[14\]。
-  - 上沼によると、（紅組司会の打診を受けた際）スタッフから「この話を口外するな」「（承諾の場合）[28日には](../Page/12月28日.md "wikilink")[東京](../Page/東京.md "wikilink")に入ってほしい」と言われ、「（28日から家を空けることになるため）夫にはこの話をさせてほしい」と返したところ、駄目だと言われたため断ったと話す。その後、スタッフから電話で「ご主人だけに言って良い」と言われると同時に再度オファーを受け、夫に伝えると、まず彼は「（[御節料理](../Page/御節料理.md "wikilink")の）黒豆はどうする?」と聞いてきたという\[15\]\[16\]\[17\]。
-  - 上沼は[海原千里・万里](../Page/海原千里・万里.md "wikilink")時代の[第26回](../Page/第26回NHK紅白歌合戦.md "wikilink")（[1975年](../Page/1975年.md "wikilink")）に同コンビとして紅組応援団を務めた経験がある\[18\]。
-  - 上沼の起用はNHK大阪局の関係者からも「ミスキャスト」との声も上がっていた\[19\]。
-  - 両組司会発表の際、NHKは「今回は総合司会を置かない」と発言\[20\]\[21\]。実際の放送では、[宮川泰夫](../Page/宮川泰夫.md "wikilink")が「進行役」名義で出演し、例年の総合司会と同様の役割を担った。
+  - 白組司会には[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")の[古舘伊知郎](../Page/古舘伊知郎.md "wikilink")が起用された。古舘は史上初の[民放のアナウンサー出身](../Page/民間放送.md "wikilink")（古舘は元[テレビ朝日](../Page/テレビ朝日.md "wikilink")アナウンサー）の紅白司会者となった\[3\]\[4\]。前年放送を開始した『[クイズ日本人の質問](../Page/クイズ日本人の質問.md "wikilink")』での司会ぶりを買われ、制作者一同が起用を一致した上での抜擢である\[5\]\[6\]\[7\]。古舘の起用は前年末の時点で内定しており\[8\]、『スポーツニッポン』で起用をスクープされていた。古舘自身は、元々紅白の司会を目指していたと話している\[9\]。
+  - 古舘に対抗する紅組司会は、全く下馬評に出なかった[上沼恵美子](../Page/上沼恵美子.md "wikilink")が起用された。上沼は基本的に在阪局に絞った芸能活動を行っており、あまり在京局での仕事をしないスタイルで、全国ネット番組への出演は[NHK大阪制作の](../Page/NHK大阪放送局.md "wikilink")『[バラエティー生活笑百科](../Page/バラエティー生活笑百科.md "wikilink")』へのレギュラー出演程度であったものの、紅組司会に抜擢された。[2014年](../Page/2014年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")放送の[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・[中京テレビ](../Page/中京テレビ放送.md "wikilink")『[上沼・高田のクギズケ\!](https://ja.wikipedia.org/wiki/上沼・高田のクギズケ! "wikilink")』で、紅白司会担当後在京局から11本に及ぶレギュラー番組のオファーがあったことを本人が明かしている。上沼は司会発表会見で「私では番組の価値が下がる・番組を傷つけるのでは」「息子がいじめられる」との理由で紅組司会を辞退するつもりだったことを明かした\[10\]ほか、『[毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")』（1994年12月31日付）のインタビューで「NHKから紅白司会の話があったのは11月に入ってからで、この時点で[正月](../Page/正月.md "wikilink")に[ハワイへ家族旅行をする予定を立てていたため](../Page/ハワイ州.md "wikilink")、受けるか悩んだ」、「夫（当時[関西テレビプロデューサーの](../Page/関西テレビ放送.md "wikilink")[上沼真平](https://ja.wikipedia.org/wiki/上沼真平 "wikilink")）は自身の仕事を全て反対してくるため、この仕事も絶対に反対すると思っていたが、『引き受けないと君が一生後悔するだろうから』と応援の姿勢を示してくれたので、受けることにした」と語っている。後に自身のドキュメンタリー番組『[快傑えみちゃんねる](../Page/快傑えみちゃんねる.md "wikilink")番外編　誰も知らない上沼恵美子～還暦からのスタートから』（関西テレビ、[2015年](../Page/2015年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")放送）で上沼は紅白の司会について、「上沼恵美子なんて[大阪](../Page/大阪.md "wikilink")だけの[タレント](../Page/タレント.md "wikilink")です。それをNHKが紅組の司会に起用したっていうことは風当たりも強かったですし、やはりベテラン歌手にはいびられました」と語った。また、上沼は出場歌手との面談の際、「横を向いて目を会わせてくれない方が4、5人いた」と『[あさイチ](https://ja.wikipedia.org/wiki/あさイチ "wikilink")』（2015年[12月25日](../Page/12月25日.md "wikilink")放送）で語っている（「その人たちは未だに大っキライです」とも述べた）\[11\]。
+  - 紅組司会の候補としては上沼以外に[黒柳徹子](https://ja.wikipedia.org/wiki/黒柳徹子 "wikilink")、[十朱幸代](../Page/十朱幸代.md "wikilink")、[いしだあゆみ](../Page/いしだあゆみ.md "wikilink")（この年の[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[春よ、来い](../Page/春よ、来い_\(テレビドラマ\).md "wikilink")』に出演）、[由紀さおり](../Page/由紀さおり.md "wikilink")、[山田邦子](../Page/山田邦子.md "wikilink")、[森口博子](../Page/森口博子.md "wikilink")（『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』司会者）、[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")（この年の『[思い出のメロディー](../Page/思い出のメロディー.md "wikilink")』司会）が挙がっており、司会発表直前の時期にはこれらの名前が連日マスコミ報道で出されていた\[12\]。この起用は[益弘春男](https://ja.wikipedia.org/wiki/益弘春男 "wikilink")とプロデューサー2人が、『バラエティー生活笑百科』での上沼のトークを見て紅白の司会に向いていると判断したことや先に内定していた古舘に対抗できる話術の持ち主と判断したことがきっかけであり、[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に司会候補に挙がったという\[13\]。
+  - 上沼によると、（紅組司会の打診を受けた際）スタッフから「この話を口外するな」「（承諾の場合）[28日には](../Page/12月28日.md "wikilink")[東京](../Page/東京.md "wikilink")に入ってほしい」と言われ、「（28日から家を空けることになるため）夫にはこの話をさせてほしい」と返したところ、駄目だと言われたため断ったと話す。その後、スタッフから電話で「ご主人だけに言って良い」と言われると同時に再度オファーを受け、夫に伝えると、まず彼は「（[御節料理](../Page/御節料理.md "wikilink")の）黒豆はどうする?」と聞いてきたという\[14\]\[15\]\[16\]。
+  - 上沼は[海原千里・万里](../Page/海原千里・万里.md "wikilink")時代の[第26回](../Page/第26回NHK紅白歌合戦.md "wikilink")（[1975年](../Page/1975年.md "wikilink")）に同コンビとして紅組応援団を務めた経験がある\[17\]。
+  - 両組司会発表の際、NHK側は「今回は総合司会を置かない」と公表していたが\[18\]\[19\]、実際には[宮川泰夫](../Page/宮川泰夫.md "wikilink")が進行役として肩書き無く出演し、例年の総合司会と同様の役割を担った。
 
 ### 当日のステージ
 
-  - 今回は出場歌手・両組司会共に対戦色が強く見られた\[22\]（翌年の[第46回も同様](../Page/第46回NHK紅白歌合戦.md "wikilink")）。例年以上に両組司会がクローズアップされた回であり、進行役の宮川は必要最小限の進行補助（オープニング・エンディングの進行や攻守交替のアナウンス）を行うに留まり、大半の番組進行は審査員紹介も含めて上沼・古舘が担当（同コンビが続投した第46回も同様）。
+  - 本回は出場歌手・両組司会共に対戦色が強く見られた\[20\]（翌年の[第46回も同様](../Page/第46回NHK紅白歌合戦.md "wikilink")）。例年以上に両組司会がクローズアップされた回であり、進行役の宮川は必要最小限の進行補助（オープニング・エンディングの進行や攻守交替のアナウンス）を行うに留まり、大半の番組進行は審査員紹介も含めて上沼・古舘が担当（同コンビが続投した第46回も同様）。
   - オープニングは、NHKホールの壁面に出場歌手と両組司会の写真が映し出される場面から始まり、ホール内に画面が切り替わると上沼・古舘がそれぞれ紅・白のガウンを身に纏い、1階客席奥からステージに向かい、ステージ上でガウンを脱ぎ捨てるという演出があった。両組司会は恒例となっている晴れ着姿ではなく、洋装で登場した。
-  - テロップは、各司会者は[第43回](../Page/第43回NHK紅白歌合戦.md "wikilink")（[1992年](../Page/1992年.md "wikilink")）以来2年ぶりとなるカラーテロップが使われたが、座布団は使われていない。歌手は帯付きのアニメーションテロップ。
-  - 審査員紹介時、上沼は紅組司会の先輩である[森光子](../Page/森光子.md "wikilink")に「大変尊敬しています」と述べた。
-  - 第1部の紅組トリである[島倉千代子](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")（この年デビュー40周年）の「[人生いろいろ](https://ja.wikipedia.org/wiki/人生いろいろ "wikilink")」の場面では、まず、曲前に森より「島倉さんは尊敬しています。『人生いろいろ』ありますけれど、どうぞ歌一筋に頑張ってください」と島倉にメッセージが述べられた。そして、曲の途中から上沼と紅組歌手一同が島倉のバックに集結するという演出があった。
+  - 各司会者の紹介テロップには[第43回](../Page/第43回NHK紅白歌合戦.md "wikilink")（[1992年](../Page/1992年.md "wikilink")）以来2年ぶりとなるカラーテロップが使われたが、座布団は使われていない。
+  - 出場歌手のテロップは、帯付きのアニメーションテロップで、ポップス系歌手用、演歌歌手用、番組終盤に出演する歌謡曲歌手用の3種類のデザインが使用された。
+  - 第1部の紅組トリである[島倉千代子](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")（この年デビュー40周年）の「[人生いろいろ](https://ja.wikipedia.org/wiki/人生いろいろ "wikilink")」の場面では、曲前に審査員の[森光子](../Page/森光子.md "wikilink")より「島倉さんは尊敬しています。『人生いろいろ』ありますけれど、どうぞ歌一筋に頑張ってください」と島倉にメッセージが述べられた。そして、曲の途中から上沼と紅組歌手一同が島倉のバックに集結するという演出があった。
   - [松田聖子](../Page/松田聖子.md "wikilink")と[藤谷美和子](../Page/藤谷美和子.md "wikilink")の歌唱時の衣装が、いずれも背中に羽の生えた天使をイメージした物であった（色はそれぞれ白と黒で異なる）ことから一部メディアで「衣装が被った」と評された。これは藤谷側が当日まで衣装をトップシークレットとして公表しなかったことが一因であった。
   - [吉幾三](../Page/吉幾三.md "wikilink")の歌唱前、古舘が吉の2人の娘から預かった父への手紙を朗読。楽曲が「[娘に…](https://ja.wikipedia.org/wiki/娘に… "wikilink")」という、娘にあてた曲であるため、吉は感極まってしまい、歌い出しから一番の途中までは涙声に。2番からは持ち直して歌いきり、曲中のバックには吉の家族での写真などがスライドで映された。また、吉の歌唱と前後して[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")地方で地震が発生し、地震情報がテロップで表示された。
   - [工藤静香](../Page/工藤静香.md "wikilink")はこの年交際が発覚した[YOSHIKI](../Page/YOSHIKI.md "wikilink")が率いる[X JAPANと直接対決した](../Page/X_JAPAN.md "wikilink")（2人は後に破局）。
   - 今回の衣装対決は[小林幸子](../Page/小林幸子.md "wikilink")と[美川憲一](../Page/美川憲一.md "wikilink")の直接対決。美川は2番の歌唱中に早着替えを行い、最後には宙吊りで空を飛び「幸子、おだまり」の一言で暗転し小林が登場。小林は[ナイアガラの滝](../Page/ナイアガラの滝.md "wikilink")をイメージしたセットを使用。元々は本物の水を使用する予定だったが、この年深刻な水不足が起こったことを考慮し、[ドライアイス](../Page/ドライアイス.md "wikilink")で代用した。
   - 小林・美川の対決と前後して22:50頃に[東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")で地震が発生し、地震情報を随時テロップで報じていた。
   - [森進一](../Page/森進一.md "wikilink")は紅白で3回目の「[おふくろさん](../Page/おふくろさん.md "wikilink")」歌唱となった。なお、今回紅白で初めて同[作詞者の](../Page/作詞家.md "wikilink")[川内康範](../Page/川内康範.md "wikilink")が制作していない台詞付のものを披露した。
-  - [和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")と[小林旭](../Page/小林旭.md "wikilink")の対決では、同一の合唱団（現役大学生によって結成された合唱団、「東京シティ合唱団」と「Revolution」）が登場した。小林旭の歌唱後、合唱団が聖歌を歌い、そして和田が登場するという演出があった。
-  - [キム・ヨンジャ](../Page/キム・ヨンジャ.md "wikilink")はNHKが実施したアンケートである「戦後50年で思い出深い歌」「紅白で聴きたい歌アンケート」で共に1位となった「[川の流れのように](../Page/川の流れのように.md "wikilink")」（[美空ひばり](../Page/美空ひばり.md "wikilink")）を歌唱\[23\]\[24\]。
+  - [小林旭](../Page/小林旭.md "wikilink")と[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")の対決では、同一の合唱団（現役大学生によって結成された合唱団、「東京シティ合唱団」と「Revolution」）が登場した。小林旭の歌唱後、合唱団が聖歌を歌い、そして和田が登場するという演出があった。
+  - [キム・ヨンジャ](../Page/キム・ヨンジャ.md "wikilink")はNHKが実施したアンケートである「戦後50年で思い出深い歌」「紅白で聴きたい歌アンケート」で共に1位となった「[川の流れのように](../Page/川の流れのように.md "wikilink")」（[美空ひばり](../Page/美空ひばり.md "wikilink")）を歌唱\[21\]\[22\]。
   - 紅組トリおよび大トリには[都はるみ](../Page/都はるみ.md "wikilink")、白組トリには[五木ひろし](../Page/五木ひろし.md "wikilink")と共にトリには両組揃ってこの年デビュー30周年を迎えた歌手が選ばれた。都の紅組トリ担当は復帰翌年の[第41回](../Page/第41回NHK紅白歌合戦.md "wikilink")（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）以来4年ぶりだが、大トリ担当は自身の引退舞台とした[第35回](https://ja.wikipedia.org/wiki/第35回NHK紅白歌合戦 "wikilink")（[1984年](../Page/1984年.md "wikilink")）以来10年ぶりとなった。
-  - 9対8で紅組が優勝。上沼は紅組司会の先輩である和田と抱擁した（和田は上沼を「偉い\!」と労った）。進行役の宮川に「1点差での敗戦」の感想を聞かれた古舘は「普通こういう時って悔しいと思うんですけど、凄く悔しいです」と述べた後、白組歌手に「すみません」と謝罪した。古舘は翌年の白組司会の際にリベンジを果たしている。なお、今回の上沼のケースを最後にNHKアナウンサー以外が紅組司会を務めた回での紅組優勝は[第62回](https://ja.wikipedia.org/wiki/第62回NHK紅白歌合戦 "wikilink")（[2011年](../Page/2011年.md "wikilink")）\[25\]まで途絶えることとなった。
-  - エンディングの「[蛍の光](../Page/蛍の光.md "wikilink")」大合唱の合唱団に混じって[松本明子](../Page/松本明子.md "wikilink")が[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")『[進め\!電波少年](../Page/進め!電波少年.md "wikilink")』の企画で出演しており、「紅白もらった」という[幟](../Page/幟.md "wikilink")を出した\[26\]。ただ、オンエアの映像ではそれを判別することは出来ず、翌元日放送の『[平成あっぱれテレビ](../Page/平成あっぱれテレビ.md "wikilink")』で日本テレビが独自に撮影した映像を流した。
+  - 9対8で紅組が優勝。上沼は紅組司会の先輩である和田と抱擁した（和田は上沼を「偉い\!」と労った）。進行役の宮川に「1点差での敗戦」の感想を聞かれた古舘は「普通こういう時って悔しいと思うんですけど、凄く悔しいです」と述べた後、白組歌手に「すみません」と謝罪した。古舘は翌年の白組司会の際にリベンジを果たしている。なお、今回の上沼のケースを最後にNHKアナウンサー以外が紅組司会を務めた回での紅組優勝は[第62回](https://ja.wikipedia.org/wiki/第62回NHK紅白歌合戦 "wikilink")（[2011年](../Page/2011年.md "wikilink")）\[23\]まで途絶えることとなった。
+  - エンディングの「[蛍の光](../Page/蛍の光.md "wikilink")」大合唱の合唱団に混じって[松本明子](../Page/松本明子.md "wikilink")が[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")『[進め\!電波少年](../Page/進め!電波少年.md "wikilink")』の企画で乱入しており、「紅白もらった」という[幟](../Page/幟.md "wikilink")を出した\[24\]。ただ、オンエアの映像ではそれを判別することは出来ず、翌元日放送の『[平成あっぱれテレビ](../Page/平成あっぱれテレビ.md "wikilink")』で日本テレビが独自に撮影した映像を流した。
 
 ### その他
 
-  - 審査員の候補には[長嶋茂雄](../Page/長嶋茂雄.md "wikilink")、[大江健三郎](../Page/大江健三郎.md "wikilink")、[向井千秋](../Page/向井千秋.md "wikilink")も挙がっていた\[27\]。
+  - 審査員の候補には[長嶋茂雄](../Page/長嶋茂雄.md "wikilink")、[大江健三郎](../Page/大江健三郎.md "wikilink")、[向井千秋](../Page/向井千秋.md "wikilink")も挙がっていた\[25\]。
   - 今回の中断ニュースは前回の総合司会である[森田美由紀](../Page/森田美由紀.md "wikilink")が担当した。
-  - [ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")調べ、関東地区における瞬間最高視聴率は[前川清](../Page/前川清.md "wikilink")出演時に記録された56.2%である\[28\]。
-  - 上沼は年明けすぐのインタビューで「あぁ、ほんとしんどかった。もう（紅白の）司会はしません」と公言したが、第46回でも紅組司会を務めた。翌[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（翌月）に自身の出身地・[兵庫県](../Page/兵庫県.md "wikilink")[三原郡](../Page/三原郡.md "wikilink")[南淡町](../Page/南淡町.md "wikilink")（（現：[南あわじ市](../Page/南あわじ市.md "wikilink")）も大きな被害を及ぼした[阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")が発生、第46回の紅組司会の打診を受けた当初は拒否したが、「阪神・淡路大震災で被害に遭った人々を元気づけてほしい」と懇請されたため受け入れたというエピソードがある。
+  - [ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")調べ、関東地区における瞬間最高視聴率は[前川清](../Page/前川清.md "wikilink")出演時に記録された56.2%である\[26\]。
+  - 上沼は年明けすぐのインタビューで「あぁ、ほんとしんどかった。もう（紅白の）司会はしません」と公言したが、次回である第46回でも紅組司会を務めた。翌[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（翌月）に自身の出身地・[兵庫県](../Page/兵庫県.md "wikilink")[三原郡](../Page/三原郡.md "wikilink")[南淡町](../Page/南淡町.md "wikilink")（（現：[南あわじ市](../Page/南あわじ市.md "wikilink")）も大きな被害を及ぼした[阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")が発生し、第46回の紅組司会の打診を受けた当初は拒否したが、「阪神・淡路大震災で被害に遭った人々を元気づけてほしい」と懇請されたため受け入れたというエピソードがある。
 
 ## 司会者
 
-  - 紅組司会：[上沼恵美子](../Page/上沼恵美子.md "wikilink")（『[バラエティー生活笑百科](../Page/バラエティー生活笑百科.md "wikilink")』レギュラー相談員役）
-  - 白組司会：[古舘伊知郎](../Page/古舘伊知郎.md "wikilink")（『[クイズ日本人の質問](../Page/クイズ日本人の質問.md "wikilink")』司会者）
-  - 進行役（総合司会）：[宮川泰夫](../Page/宮川泰夫.md "wikilink")（[東京アナウンス室](../Page/NHK放送センター.md "wikilink")）
+  - 紅組司会：[上沼恵美子](../Page/上沼恵美子.md "wikilink")
+  - 白組司会：[古舘伊知郎](../Page/古舘伊知郎.md "wikilink")
+  - 進行役：[宮川泰夫](../Page/宮川泰夫.md "wikilink")（[東京アナウンス室](../Page/NHK放送センター.md "wikilink")）
 
 ## 演奏
 
@@ -88,7 +90,7 @@
 | 11                                                   | [森口博子](../Page/森口博子.md "wikilink")(4)                                      | Let's Go                                                                    | 12 | [SMAP](../Page/SMAP.md "wikilink")(4)                                   | [がんばりましょう](../Page/がんばりましょう.md "wikilink")                                                   |    |   |
 | 13                                                   | [田川寿美](../Page/田川寿美.md "wikilink")(初)                                      | [女…ひとり旅](https://ja.wikipedia.org/wiki/女…ひとり旅 "wikilink")                   | 14 | [香田晋](../Page/香田晋.md "wikilink")(初)                                     | 夢いちど                                                                                         |    |   |
 | 15                                                   | [中山美穂](../Page/中山美穂.md "wikilink")(7)                                      | [ただ泣きたくなるの](../Page/ただ泣きたくなるの.md "wikilink")                                | 16 | [藤井フミヤ](../Page/藤井フミヤ.md "wikilink")(2)                                 | [DAYS](https://ja.wikipedia.org/wiki/DAYS_\(藤井フミヤの曲\) "wikilink")                            |    |   |
-| 17                                                   | [DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")(5)              | [すき](https://ja.wikipedia.org/wiki/すき/きづいてよ "wikilink")〜紅白バージョン〜\[29\]      | 18 | [米米CLUB](../Page/米米CLUB.md "wikilink")(2）                               | [手紙](../Page/手紙_\(米米CLUBの曲\).md "wikilink")〜紅白バージョン〜\[30\]                                   |    |   |
+| 17                                                   | [DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")(5)              | [すき](https://ja.wikipedia.org/wiki/すき/きづいてよ "wikilink")〜紅白バージョン〜\[27\]      | 18 | [米米CLUB](../Page/米米CLUB.md "wikilink")(2）                               | [手紙](../Page/手紙_\(米米CLUBの曲\).md "wikilink")〜紅白バージョン〜\[28\]                                   |    |   |
 | 19                                                   | [島倉千代子](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")(32)                | [人生いろいろ](https://ja.wikipedia.org/wiki/人生いろいろ "wikilink")                   | 20 | [小椋佳](https://ja.wikipedia.org/wiki/小椋佳 "wikilink")(初)                  | [さらば青春](https://ja.wikipedia.org/wiki/しおさいの詩 "wikilink")                                     |    |   |
 | 第2部                                                  |                                                                            |                                                                             |    |                                                                         |                                                                                              |    |   |
 | 21                                                   | [松田聖子](../Page/松田聖子.md "wikilink")(10)                                     | [輝いた季節へ旅立とう](../Page/輝いた季節へ旅立とう.md "wikilink")                              | 22 | [吉田拓郎](../Page/吉田拓郎.md "wikilink")(初)                                   | [外は白い雪の夜](https://ja.wikipedia.org/wiki/外は白い雪の夜 "wikilink")                                  |    |   |
@@ -111,27 +113,27 @@
 
 ### 選考を巡って
 
-これまで出演辞退を続けてきた[吉田拓郎](../Page/吉田拓郎.md "wikilink")が初出場（「（出場は）これが最初で最後\!」と述べた。実際唯一の出場となっている）。拓郎からは発表日前日の20時に承諾の報があり、25組目の当選者となった\[31\]。当日のステージでは[日野皓正](https://ja.wikipedia.org/wiki/日野皓正 "wikilink")（[トランペット](../Page/トランペット.md "wikilink")）、[渡辺香津美](../Page/渡辺香津美.md "wikilink")（[エレキギター](https://ja.wikipedia.org/wiki/エレキギター "wikilink")）、[宮川泰](../Page/宮川泰.md "wikilink")（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")）、[日野元彦](../Page/日野元彦.md "wikilink")（[ドラム](../Page/ドラムセット.md "wikilink")）、[大西順子](../Page/大西順子_\(ミュージシャン\).md "wikilink")（[ピアノ](../Page/ピアノ.md "wikilink")）、[石川鷹彦](../Page/石川鷹彦.md "wikilink")（[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")）、[金沢英明](https://ja.wikipedia.org/wiki/金沢英明 "wikilink")（[ウッドベース](https://ja.wikipedia.org/wiki/ウッドベース "wikilink")）、[吉田建](../Page/吉田建.md "wikilink")（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）という大物[ミュージシャンがバックバンドを務めた](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[コーラスとして](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[五木ひろし](../Page/五木ひろし.md "wikilink")、[森進一](../Page/森進一.md "wikilink")、[前川清](../Page/前川清.md "wikilink")が参加するなど、初出場ながら、NHKが長年出場を心待ちにしてきた歌手が出演するとあって、特別待遇とも云える扱いがなされた。拓郎の後のインタビューで本紅白出演について、「ウンザリしました。絶対に出ません。もうこりごり。ゴメンです」と述べた\[32\]。
+これまで出演辞退を続けてきた[吉田拓郎](../Page/吉田拓郎.md "wikilink")が初出場（「（出場は）これが最初で最後\!」と述べた。実際唯一の出場となっている）。拓郎からは発表日前日の20時に承諾の報があり、25組目の当選者となった\[29\]。当日のステージでは[日野皓正](https://ja.wikipedia.org/wiki/日野皓正 "wikilink")（[トランペット](../Page/トランペット.md "wikilink")）、[渡辺香津美](../Page/渡辺香津美.md "wikilink")（[エレキギター](https://ja.wikipedia.org/wiki/エレキギター "wikilink")）、[宮川泰](../Page/宮川泰.md "wikilink")（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")）、[日野元彦](../Page/日野元彦.md "wikilink")（[ドラム](../Page/ドラムセット.md "wikilink")）、[大西順子](../Page/大西順子_\(ミュージシャン\).md "wikilink")（[ピアノ](../Page/ピアノ.md "wikilink")）、[石川鷹彦](../Page/石川鷹彦.md "wikilink")（[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")）、[金沢英明](https://ja.wikipedia.org/wiki/金沢英明 "wikilink")（[ウッドベース](https://ja.wikipedia.org/wiki/ウッドベース "wikilink")）、[吉田建](../Page/吉田建.md "wikilink")（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）という大物[ミュージシャンがバックバンドを務めた](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[コーラスとして](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[五木ひろし](../Page/五木ひろし.md "wikilink")、[森進一](../Page/森進一.md "wikilink")、[前川清](../Page/前川清.md "wikilink")が参加するなど、初出場ながら、NHKが長年出場を心待ちにしてきた歌手が出演するとあって、特別待遇とも云える扱いがなされた。拓郎の後のインタビューで本紅白出演について、「ウンザリしました。絶対に出ません。もうこりごり。ゴメンです」と述べた\[30\]。
 
 紅白45回を記念して、当時紅組最多出場者の[島倉千代子](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")（[第39回](../Page/第39回NHK紅白歌合戦.md "wikilink")（[1988年](../Page/1988年.md "wikilink")）以来6年ぶり）を筆頭に、[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")（第35回以来10年ぶり）、[松田聖子](../Page/松田聖子.md "wikilink")（第39回以来6年ぶり）、[沢田研二](../Page/沢田研二.md "wikilink")（[第40回](../Page/第40回NHK紅白歌合戦.md "wikilink")（[1989年](../Page/1989年.md "wikilink")）以来5年ぶり）、[郷ひろみ](../Page/郷ひろみ.md "wikilink")（第41回以来4年ぶり）と、往時のアーティストを多くカムバックさせた。
 
-その一方で、前回まで6年連続出場（通算20回）をしていた[八代亜紀](../Page/八代亜紀.md "wikilink")が落選した\[33\]。
+その一方で、前回まで6年連続出場（通算20回）をしていた[八代亜紀](../Page/八代亜紀.md "wikilink")が落選した\[31\]。
 
 前回ゲスト歌手として出演した[小椋佳](https://ja.wikipedia.org/wiki/小椋佳 "wikilink")が白組歌手として初出場を果たす。
 
-今回から[第48回](../Page/第48回NHK紅白歌合戦.md "wikilink")（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）まで[NHK新人歌謡コンテスト](https://ja.wikipedia.org/wiki/NHK新人歌謡コンテスト "wikilink")の優勝者に紅白の出場権が与えられた\[34\]。今回は[田川寿美](../Page/田川寿美.md "wikilink")がそれによって出場を掴んだ\[35\]
+今回から[第48回](../Page/第48回NHK紅白歌合戦.md "wikilink")（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）まで[NHK新人歌謡コンテスト](https://ja.wikipedia.org/wiki/NHK新人歌謡コンテスト "wikilink")の優勝者に紅白の出場権が与えられた\[32\]。今回は[田川寿美](../Page/田川寿美.md "wikilink")がそれによって出場を掴んだ\[33\]
 
-今回から[第59回](https://ja.wikipedia.org/wiki/第59回NHK紅白歌合戦 "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）まで[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属グループからの出場歌手は[SMAP](../Page/SMAP.md "wikilink")と[TOKIO](../Page/TOKIO.md "wikilink")（今回初出場）の2組のみとなった\[36\]。
+今回から[第59回](https://ja.wikipedia.org/wiki/第59回NHK紅白歌合戦 "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）まで[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属グループからの出場歌手は[SMAP](../Page/SMAP.md "wikilink")と[TOKIO](../Page/TOKIO.md "wikilink")（今回初出場）の2組のみとなった\[34\]。
 
-[松任谷由実](../Page/松任谷由実.md "wikilink")（この年の[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[春よ、来い](../Page/春よ、来い_\(テレビドラマ\).md "wikilink")』の主題歌「[春よ、来い](../Page/春よ、来い_\(松任谷由実の曲\).md "wikilink")」を担当）・[竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")・**[CHAGE and ASKA](../Page/CHAGE_and_ASKA.md "wikilink")**・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")・[中島みゆき](../Page/中島みゆき.md "wikilink")・[ZARD](../Page/ZARD.md "wikilink")らが出場を辞退した\[37\]。
+[松任谷由実](../Page/松任谷由実.md "wikilink")（この年の[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[春よ、来い](../Page/春よ、来い_\(テレビドラマ\).md "wikilink")』の主題歌「[春よ、来い](../Page/春よ、来い_\(松任谷由実の曲\).md "wikilink")」を担当）・[竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")・**[CHAGE and ASKA](../Page/CHAGE_and_ASKA.md "wikilink")**・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")・[中島みゆき](../Page/中島みゆき.md "wikilink")・[ZARD](../Page/ZARD.md "wikilink")らが出場を辞退した\[35\]。
 
 ### その他
 
 [北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")は今回の出場で白組歌手の最多出場となった。
 
-[中山美穂](../Page/中山美穂.md "wikilink")・[工藤静香](../Page/工藤静香.md "wikilink")・ケー・ウンスク（現：[ケイ・ウンスク](../Page/桂銀淑.md "wikilink")）は翌年に落選し、第39回初出場以来の連続出場が今回で途切れる（いずれも通算7回）。中山とケーはそれ以来、紅白へは出場していない（中山は徐々に活動の重点を女優業に移し始めていたため）が、工藤は4年後の[第49回](../Page/第49回NHK紅白歌合戦.md "wikilink")（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）で1回限りながら復帰を果たした。
+[中山美穂](../Page/中山美穂.md "wikilink")・[工藤静香](../Page/工藤静香.md "wikilink")・[ケー・ウンスクは翌年に落選し](../Page/桂銀淑.md "wikilink")、第39回初出場以来の連続出場が今回で途切れる（いずれも通算7回）。中山とケーはそれ以来、紅白へは出場していないが、工藤は4年後の[第49回](../Page/第49回NHK紅白歌合戦.md "wikilink")（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）で1回限りながら復帰を果たした。
 
-[X JAPANも](../Page/X_JAPAN.md "wikilink")[第42回](../Page/第42回NHK紅白歌合戦.md "wikilink")（[1991年](../Page/1991年.md "wikilink")）の初出場以来の連続出場が今回で途切れる。彼らは[第48回](../Page/第48回NHK紅白歌合戦.md "wikilink")（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）\[38\]、[第66回](https://ja.wikipedia.org/wiki/第66回NHK紅白歌合戦 "wikilink")（[2015年](../Page/2015年.md "wikilink")） - [第68回](https://ja.wikipedia.org/wiki/第68回NHK紅白歌合戦 "wikilink")（[2017年](../Page/2017年.md "wikilink")）で復帰している\[39\]。
+[X JAPANも](../Page/X_JAPAN.md "wikilink")[第42回](../Page/第42回NHK紅白歌合戦.md "wikilink")（[1991年](../Page/1991年.md "wikilink")）の初出場以来の連続出場が今回で途切れる。彼らは[第48回](../Page/第48回NHK紅白歌合戦.md "wikilink")（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）\[36\]、[第66回](https://ja.wikipedia.org/wiki/第66回NHK紅白歌合戦 "wikilink")（[2015年](../Page/2015年.md "wikilink")） - [第68回](https://ja.wikipedia.org/wiki/第68回NHK紅白歌合戦 "wikilink")（[2017年](../Page/2017年.md "wikilink")）で復帰している\[37\]。
 
 ## ゲスト出演者
 
@@ -182,7 +184,7 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=45)
   - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1994年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1994年のテレビ番組_\(日本\) "wikilink") [Category:1994年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1994年のラジオ番組_\(日本\) "wikilink") [Category:1994年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1994年の日本の音楽 "wikilink") [Category:1994年12月](https://ja.wikipedia.org/wiki/Category:1994年12月 "wikilink")
@@ -194,36 +196,34 @@
 5.  『スポーツ報知』1994年11月17日付
 6.  [牧山泰之](https://ja.wikipedia.org/wiki/牧山泰之 "wikilink")『想い出の紅白歌合戦』
 7.  合田『紅白歌合戦の舞台裏』、185頁。
-8.  「民放のアナウンサー出身ということでNHK内に一部慎重な声があったため起用が見送られた」と[週刊誌](../Page/週刊誌.md "wikilink")で報じられた。
-9.  『デイリースポーツ』1994年11月17日付
-10. [古舘伊知郎「下町ロケット」悪役好評も「エール」が「拾う神」紅白秘話“オファー断る練習”「思いは招く」](https://www.sponichi.co.jp/entertainment/news/2020/04/28/kiji/20200428s00041000092000c.html),スポーツニッポン,2020年4月28日
-11. 『サンデー毎日』1994年12月号
-12.
-13. [合田道人](../Page/合田道人.md "wikilink")『紅白歌合戦の舞台裏』,185頁。
-14. 『スポーツニッポン』1994年11月17日付
-15.
-16. [ライオンのごきげんよう ゴールデン！大物だらけのサイコロSP](http://tvtopic.goo.ne.jp/kansai/program/ktv/25487/472175/),goo
-17. [上沼恵美子「紅白オファーの裏事情」を明かす！](http://taishu.jp/20927.php),[日刊大衆](https://ja.wikipedia.org/wiki/日刊大衆 "wikilink"),2016年4月3日
-18. さらに、その翌年である[第27回](../Page/第27回NHK紅白歌合戦.md "wikilink")（[1976年](../Page/1976年.md "wikilink")）では当初海原千里・万里の紅組司会起用案もあったという。
-19. 『週刊現代』1994年12月号、54～55頁。
-20. 『読売新聞』1994年11月17日付
-21. 『[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")』1994年11月17日付
-22. [太田省一](https://ja.wikipedia.org/wiki/太田省一 "wikilink")『紅白歌合戦と日本人』
-23. 『富山新聞』1994年12月15日付
-24. 合田『紅白歌合戦の舞台裏』、185頁。
-25. 同回の紅組司会は[井上真央](https://ja.wikipedia.org/wiki/井上真央 "wikilink")。
-26. [「紅白歌合戦」と「電波少年」の激しいバトルを振り返る！](http://www.excite.co.jp/News/90s/20161010/E1475636172371.html),90'S チョベリー,2016年10月10日
-27. 『デイリースポーツ』1994年11月17日付
-28. [紅白歌手別視聴率、４０％超えは嵐ら３組だけに…前回は３１組](https://hochi.news/articles/20200106-OHT1T50267.html)、[スポーツ報知](../Page/スポーツ報知.md "wikilink")、2020年1月7日 6時0分。
+8.  『デイリースポーツ』1994年11月17日付
+9.  [古舘伊知郎「下町ロケット」悪役好評も「エール」が「拾う神」紅白秘話“オファー断る練習”「思いは招く」](https://www.sponichi.co.jp/entertainment/news/2020/04/28/kiji/20200428s00041000092000c.html),スポーツニッポン,2020年4月28日
+10. 『サンデー毎日』1994年12月号
+11.
+12. [合田道人](../Page/合田道人.md "wikilink")『紅白歌合戦の舞台裏』,185頁。
+13. 『スポーツニッポン』1994年11月17日付
+14.
+15. [ライオンのごきげんよう ゴールデン！大物だらけのサイコロSP](http://tvtopic.goo.ne.jp/kansai/program/ktv/25487/472175/),goo
+16. [上沼恵美子「紅白オファーの裏事情」を明かす！](http://taishu.jp/20927.php),[日刊大衆](https://ja.wikipedia.org/wiki/日刊大衆 "wikilink"),2016年4月3日
+17. さらに、その翌年である[第27回](../Page/第27回NHK紅白歌合戦.md "wikilink")（[1976年](../Page/1976年.md "wikilink")）では当初海原千里・万里の紅組司会起用案もあったという。
+18. 『読売新聞』1994年11月17日付
+19. 『[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")』1994年11月17日付
+20. [太田省一](https://ja.wikipedia.org/wiki/太田省一 "wikilink")『紅白歌合戦と日本人』
+21. 『富山新聞』1994年12月15日付
+22. 合田『紅白歌合戦の舞台裏』、185頁。
+23. 同回の紅組司会は[井上真央](https://ja.wikipedia.org/wiki/井上真央 "wikilink")。
+24. [「紅白歌合戦」と「電波少年」の激しいバトルを振り返る！](http://www.excite.co.jp/News/90s/20161010/E1475636172371.html),90'S チョベリー,2016年10月10日
+25. 『デイリースポーツ』1994年11月17日付
+26. [紅白歌手別視聴率、４０％超えは嵐ら３組だけに…前回は３１組](https://hochi.news/articles/20200106-OHT1T50267.html)、[スポーツ報知](../Page/スポーツ報知.md "wikilink")、2020年1月7日 6時0分。
     （[平成以後の紅白歌手別瞬間最高視聴率](https://hochi.news/articles/20200106-OHT1T50267.html?mode=photo&photoid=3)）
-29. 「すき」「[WINTER SONG](../Page/WINTER_SONG.md "wikilink")」のメドレー
-30. 「手紙」「[浪漫飛行](../Page/浪漫飛行.md "wikilink")」のメドレー
-31. 合田『紅白歌合戦の真実』
-32. [異例会見！拓郎節全開　“病人扱い”にＮＯ　紅白復帰も拒否「こりごり」](http://www.daily.co.jp/gossip/2016/10/28/0009617433.shtml),デイリースポーツ,2016年10月28日
-33. 『読売新聞』1994年12月2日付東京朝刊、34頁。
-34. [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にNHK新人歌謡コンテストは廃止。
-35. この年のNHK新人歌謡コンテストは[3月12日](../Page/3月12日.md "wikilink")開催であり、同日の時点で田川の出場が真っ先に決まる格好となった。
-36. 他グループについては、バックダンサー・応援ゲスト・コーナー出演者など、出場歌手として以外の出演は行われている。
-37. 『読売新聞』1994年12月5日付東京夕刊、9頁。
-38. 解散ステージ。
-39. 同[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")の[YOSHIKI](../Page/YOSHIKI.md "wikilink")は「YOSHIKI feat. [HYDE](https://ja.wikipedia.org/wiki/hyde "wikilink")」名義で[第69回](https://ja.wikipedia.org/wiki/第69回NHK紅白歌合戦 "wikilink")（[2018年](../Page/2018年.md "wikilink")）にも出場。
+27. 「すき」「[WINTER SONG](../Page/WINTER_SONG.md "wikilink")」のメドレー
+28. 「手紙」「[浪漫飛行](../Page/浪漫飛行.md "wikilink")」のメドレー
+29. 合田『紅白歌合戦の真実』
+30. [異例会見！拓郎節全開　“病人扱い”にＮＯ　紅白復帰も拒否「こりごり」](http://www.daily.co.jp/gossip/2016/10/28/0009617433.shtml),デイリースポーツ,2016年10月28日
+31. 『読売新聞』1994年12月2日付東京朝刊、34頁。
+32. [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にNHK新人歌謡コンテストは廃止。
+33. この年のNHK新人歌謡コンテストは[3月12日](../Page/3月12日.md "wikilink")開催であり、同日の時点で田川の出場が真っ先に決まる格好となった。
+34. 他グループについては、バックダンサー・応援ゲスト・コーナー出演者など、出場歌手として以外の出演は行われている。
+35. 『読売新聞』1994年12月5日付東京夕刊、9頁。
+36. 解散ステージ。
+37. 同[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")の[YOSHIKI](../Page/YOSHIKI.md "wikilink")は「YOSHIKI feat. [HYDE](https://ja.wikipedia.org/wiki/hyde "wikilink")」名義で[第69回](https://ja.wikipedia.org/wiki/第69回NHK紅白歌合戦 "wikilink")（[2018年](../Page/2018年.md "wikilink")）にも出場。

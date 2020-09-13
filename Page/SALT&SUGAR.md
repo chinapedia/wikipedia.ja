@@ -104,7 +104,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/ベラ・ノッテ" title="wikilink">Bella Notte</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/w:en:All_I_Wanna_Do_(The_Beach_Boys_song)" title="wikilink">All I Wanna Do</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ザ・クリスマス・ソング" title="wikilink">The Christmas Song</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/チェリー_(曲)" title="wikilink">チェリー</a> 【作詞作曲:<a href="https://ja.wikipedia.org/wiki/草野正宗" title="wikilink">草野正宗</a>】</li>
+<li><a href="https://ja.wikipedia.org/wiki/チェリー_(曲)" title="wikilink">チェリー</a> 【作詞作曲:<a href="../Page/草野マサムネ.md" title="wikilink">草野正宗</a>】</li>
 <li><a href="../Page/ひとりで生きてゆければ.md" title="wikilink">ひとりで生きてゆければ</a> 【作詞作曲:<a href="../Page/小田和正.md" title="wikilink">小田和正</a>】</li>
 <li><a href="https://ja.wikipedia.org/wiki/恋人_(鈴木雅之の曲)" title="wikilink">恋人</a> 【作詞作曲:西尾佐栄子,<a href="../Page/松尾清憲.md" title="wikilink">松尾清憲</a>】</li>
 <li><a href="../Page/少年時代_(井上陽水の曲).md" title="wikilink">少年時代</a> 【作詞作曲:<a href="../Page/井上陽水.md" title="wikilink">井上陽水</a>,<a href="https://ja.wikipedia.org/wiki/平井夏美" title="wikilink">平井夏美</a>/編曲:塩谷哲】</li>
@@ -160,4 +160,4 @@
 
   - [公式ページ](http://www.universal-music.co.jp/universalj/artist/salt_sugar/)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")

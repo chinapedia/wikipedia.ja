@@ -55,22 +55,35 @@
   - エグゼクティブ・プロデューサー&ディレクター: 門村崇志 (FAITH INC.)
   - スペシャル・サンクス: 内野二朗、小倉禎子 (Music League Inc.)、不破敏之 (TV TOKYO)、沼部俊夫、内藤公子、山田由佳 (TV TOKYO MUSIC)、千本信昭 (JAPAN BROADCASTING CORPORATION.)、大本光俊、永洞貴 (JAPAN BROADCASTING PUBLISHING CO,LTD.)
 
-## 収録作品
+## 収録アルバム
 
-  - 「Days」
-      - 『[I hope so](../Page/I_hope_so.md "wikilink")』\[31\]\[32\]
-      - 『[BEST FINGER 25th anniversary selection](../Page/BEST_FINGER_25th_anniversary_selection.md "wikilink")』\[33\]\[34\]
-  - 「華 -HANA-」 - 『[BEST FINGER 25th anniversary selection](../Page/BEST_FINGER_25th_anniversary_selection.md "wikilink")』\[35\]\[36\]
-  - 「瑠璃色の地球」
-      - 『[-ZEROalbum- 歌姫2](../Page/-ZEROalbum-_歌姫2.md "wikilink")』\[37\]\[38\]
-      - 『[歌姫 Complete Box Empress](../Page/歌姫_Complete_Box_Empress.md "wikilink")』\[39\]\[40\]
-      - 『[歌姫ベスト 〜25th Anniversary Selection〜](../Page/歌姫ベスト_〜25th_Anniversary_Selection〜.md "wikilink")』\[41\]\[42\]
+  - Days
 
-## 参照
+<!-- end list -->
 
-## 外部リンク
+  - 『[I hope so](../Page/I_hope_so.md "wikilink")』\[31\]\[32\]
+  - 『[BEST FINGER 25th anniversary selection](../Page/BEST_FINGER_25th_anniversary_selection.md "wikilink")』\[33\]\[34\]
 
-  -
+<!-- end list -->
+
+  - 華 -HANA-
+
+<!-- end list -->
+
+  - 『[BEST FINGER 25th anniversary selection](../Page/BEST_FINGER_25th_anniversary_selection.md "wikilink")』\[35\]\[36\]
+
+<!-- end list -->
+
+  - 瑠璃色の地球」
+
+<!-- end list -->
+
+  - 『[-ZEROalbum- 歌姫2](../Page/-ZEROalbum-_歌姫2.md "wikilink")』\[37\]\[38\]
+  - 『[歌姫 Complete Box Empress](../Page/歌姫_Complete_Box_Empress.md "wikilink")』\[39\]\[40\]
+  - 『[歌姫ベスト 〜25th Anniversary Selection〜](../Page/歌姫ベスト_〜25th_Anniversary_Selection〜.md "wikilink")』\[41\]\[42\]
+
+## 脚注
+
 [Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:中森明菜の楽曲](https://ja.wikipedia.org/wiki/Category:中森明菜の楽曲 "wikilink") [Category:織田哲郎が制作した楽曲](https://ja.wikipedia.org/wiki/Category:織田哲郎が制作した楽曲 "wikilink") [Category:テレビ東京のテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビドラマ主題歌 "wikilink") [Category:ユニバーサルミュージックジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのシングル "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink")
 
 1.

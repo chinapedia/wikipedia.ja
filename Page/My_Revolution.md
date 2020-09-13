@@ -7,19 +7,19 @@
 
 タイトルナンバーは[TBS系](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[セーラー服通り](../Page/セーラー服通り.md "wikilink")』の主題歌で、[1986年](../Page/1986年.md "wikilink")（昭和61年）[2月27日](../Page/2月27日.md "wikilink")放送の『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』で5位にランクイン、このときが渡辺美里にとって生放送初出演となる。[第28回日本レコード大賞](https://ja.wikipedia.org/wiki/第28回日本レコード大賞 "wikilink")で「金賞」を受賞し、作曲者の[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")が授賞式に出たところへ渡辺美里がお祝いに駆けつけたこともあった\[1\]。
 
-作曲を手がけた[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")は、当時[TM NETWORKとして既にデビューしていたとはいえまだ無名に近く](../Page/TM_NETWORK.md "wikilink")、この曲で作曲者として（大衆に）認められたいという強い信念があり、曲が完成すると渡辺の待つスタジオに自ら足を運んで、ピアノ演奏でメロディーを伝えたという。同曲の特徴ともいえる[転調](../Page/転調.md "wikilink")は、曲の途中で三度も上がるという、それまでの邦楽には珍しいもので、洋楽、特に[モータウン](../Page/モータウン.md "wikilink")系のコード進行に近いといわれる。そのメロディーを聴いた渡辺は「体中に電気が走るほど『凄い\!』と思った」\[2\]といい、レコーディングエンジニアの伊東俊郎も思わず「この曲いいね\!」とトークバックしたという逸話が残っている。小室はこの曲がコンペで選ばれた事を電話口で聞いた時の感覚は、今でも忘れられないと語っている。小室自身も、この曲がヒットしたことで後に「ああいう曲でちゃんと歌っていけばいいんだって、ヒット曲作りのコツや方向性みたいなものが見えた」と語っている\[3\]。
+作曲を手がけた[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")は、当時[TM NETWORKとして既にデビューしていたとはいえまだ無名に近く](../Page/TM_NETWORK.md "wikilink")、この曲で作曲者として（大衆に）認められたいという強い信念があり、曲が完成すると渡辺の待つスタジオに自ら足を運んで、ピアノ演奏でメロディーを伝えたという。同曲の特徴ともいえる[転調](../Page/転調.md "wikilink")は、曲の途中で三度も上がるという、それまでの邦楽には珍しいもので、洋楽、特に[モータウン](../Page/モータウン.md "wikilink")系のコード進行に近いといわれる。そのメロディーを聴いた渡辺は「体中に電気が走るほど『凄い\!』と思った」\[2\]といい、レコーディングエンジニアの伊東俊郎も思わず「この曲いいね\!」とトークバックしたという逸話が残っている。小室はこの曲がコンペで選ばれた事を電話口で聞いた時の感覚は、今でも忘れられないと語っている。小室自身も、この曲がヒットしたことで後に「ああいう曲でちゃんと歌っていけばいいんだって、ヒット曲作りのコツや方向性みたいなものが見えた」\[3\]「この後10年ほど"『My Revolution』みたいな曲を"という依頼が続いたため、『僕はこれだけじゃない』と思いながらひたすら書き続けた」\[4\]と語っている。
 
-[編曲](../Page/編曲.md "wikilink")は[大村雅朗](../Page/大村雅朗.md "wikilink")が担当した。この曲の最も印象的とされるイントロのコードは大村のアイデアによるもので、同コーラスは渡辺がさりげなく口ずさんだ鼻歌から採用されたもので、「大村さんがスタジオを後にしてからこのコーラスを入れたほうがこの曲がもっと良くなるんじゃないかなとふと思いつき、大村さんの了解を取らないで勝手にレコーディングして入れてしまった（笑）」と『[月刊明星](https://ja.wikipedia.org/wiki/月刊明星 "wikilink")』の歌本のインタビューで語っている。小室が原曲で指定した転調直前のコード進行「[D](../Page/ニ長調.md "wikilink")[dim](https://ja.wikipedia.org/wiki/減三和音 "wikilink")」は不安定な印象が残るため、大村がベースとなる音に[四度上の音を加えた](https://ja.wikipedia.org/wiki/完全四度 "wikilink")「[G](https://ja.wikipedia.org/wiki/ト長調 "wikilink")[sus4](https://ja.wikipedia.org/wiki/和音#その他の和音 "wikilink")」というコードにアレンジしたことで曲調が明るくなり、リスナーに伝わりやすくなったといわれる。大村は1992年に渡辺がセルフカバーした『My Revolution－第2章－』の編曲も担当したが、1999年に同カバーのライブ用アレンジを手がけた[斉藤恒芳](../Page/斉藤恒芳.md "wikilink")は「大村さんの譜面には凄く愛情が溢れてる」と語ったといい、それを聞いた渡辺はこの間に大村と仲違いしたまま死別したことを改めて後悔したという\[4\]。
+[編曲](../Page/編曲.md "wikilink")は[大村雅朗](../Page/大村雅朗.md "wikilink")が担当した。この曲の最も印象的とされるイントロのコードは大村のアイデアによるもので、同コーラスは渡辺がさりげなく口ずさんだ鼻歌から採用されたもので、「大村さんがスタジオを後にしてからこのコーラスを入れたほうがこの曲がもっと良くなるんじゃないかなとふと思いつき、大村さんの了解を取らないで勝手にレコーディングして入れてしまった（笑）」と『[月刊明星](https://ja.wikipedia.org/wiki/月刊明星 "wikilink")』の歌本のインタビューで語っている。小室が原曲で指定した転調直前のコード進行「[D](../Page/ニ長調.md "wikilink")[dim](https://ja.wikipedia.org/wiki/減三和音 "wikilink")」は不安定な印象が残るため、大村がベースとなる音に[四度上の音を加えた](https://ja.wikipedia.org/wiki/完全四度 "wikilink")「[G](https://ja.wikipedia.org/wiki/ト長調 "wikilink")[sus4](https://ja.wikipedia.org/wiki/和音#その他の和音 "wikilink")」というコードにアレンジしたことで曲調が明るくなり、リスナーに伝わりやすくなったといわれる。大村は1992年に渡辺がセルフカバーした『My Revolution－第2章－』の編曲も担当したが、1999年に同カバーのライブ用アレンジを手がけた[斉藤恒芳](../Page/斉藤恒芳.md "wikilink")は「大村さんの譜面には凄く愛情が溢れてる」と語ったといい、それを聞いた渡辺はこの間に大村と仲違いしたまま死別したことを改めて後悔したという\[5\]。
 
-[作詞](../Page/作詞.md "wikilink")は[川村真澄](../Page/川村真澄.md "wikilink")によるもので、渡辺美里本人と直接会話したときの印象から「ひとりでも強く自分でやっていける女の子という像が浮かんできた」「夜の街の中でひとりで走り抜けていくような、少し寂しさを背負った感じがした」とのイメージで作詞された。後に渡辺はこの歌詞のイメージについて「クールな世界観で、今までにないタッチの詞世界」「『わかり始めた』って歌ってるんだけど、（歌詞の世界観が）全く分かってない」と歌詞の奥深さを語り、「歌い続けていく中で、その瞬間瞬間を突き動かしていく曲になっていった」と述べている\[5\]。
+[作詞](../Page/作詞.md "wikilink")は[川村真澄](../Page/川村真澄.md "wikilink")によるもので、渡辺美里本人と直接会話したときの印象から「ひとりでも強く自分でやっていける女の子という像が浮かんできた」「夜の街の中でひとりで走り抜けていくような、少し寂しさを背負った感じがした」とのイメージで作詞された。後に渡辺はこの歌詞のイメージについて「クールな世界観で、今までにないタッチの詞世界」「『わかり始めた』って歌ってるんだけど、（歌詞の世界観が）全く分かってない」と歌詞の奥深さを語り、「歌い続けていく中で、その瞬間瞬間を突き動かしていく曲になっていった」と述べている\[6\]。
 
 仮タイトルは「m〜3」。レーベルプロデューサー[小坂洋二](../Page/小坂洋二.md "wikilink")（当時）のアイデアによりタイトルは「My Revolution」に決定した。
 
 レコーディングは[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")にあるKRSスタジオ（現・青葉台スタジオ）で行われた。同シングルは[EP盤のみのリリースだったが](../Page/コンパクト盤.md "wikilink")、[1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）にシングル[CD化されている](../Page/コンパクトディスク.md "wikilink")。
 
-オリコン週間シングルチャートでは、初登場10位。その後、2週目8位、3週目10位、4週目6位、5週目・6週目5位、7週目3位と推移し、8週目に1位に辿り着いた。週間チャートでの1位はこの1週のみであったが、その後もしばらく10位以内を保持し、同年間チャートでは5位を記録した\[6\]。
+オリコン週間シングルチャートでは、初登場10位。その後、2週目8位、3週目10位、4週目6位、5週目・6週目5位、7週目3位と推移し、8週目に1位に辿り着いた。週間チャートでの1位はこの1週のみであったが、その後もしばらく10位以内を保持し、同年間チャートでは5位を記録した\[7\]。
 
-累計売上は70万枚\[7\]。
+累計売上は70万枚\[8\]。
 
 [後述のように](https://ja.wikipedia.org/wiki/#同曲のカバーアーティスト "wikilink")、この曲は多くの他ミュージシャンなどによってカバーされている。
 
@@ -94,26 +94,28 @@
 
 ## エピソード
 
-  - 渡辺がデビュー前からレギュラー出演していた、[毎日放送](../Page/毎日放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")「[MBSヤングタウン](../Page/MBSヤングタウン.md "wikilink")」にて、当時まだヒット曲がなかったため、販売促進の一環として「買ってジャケットを番組に送ってくれたら全て[サインをして送り返す](../Page/署名.md "wikilink")」という企画を開催。しかしこの曲が思わぬ大ヒットとなったため、想定していた以上の数の応募が殺到してしまった。
+  - 渡辺がデビュー前からレギュラー出演していた、[毎日放送の](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")「[MBSヤングタウン](../Page/MBSヤングタウン.md "wikilink")」にて、当時まだヒット曲がなかったため、販売促進の一環として「買ってジャケットを番組に送ってくれたら全て[サインをして送り返す](../Page/署名.md "wikilink")」という企画を開催。しかしこの曲が思わぬ大ヒットとなったため、想定していた以上の数の応募が殺到してしまった。
   - [作曲家](../Page/作曲家.md "wikilink")の[宮川泰](../Page/宮川泰.md "wikilink")が『[平成日本のよふけ](https://ja.wikipedia.org/wiki/平成日本のよふけ#鶴瓶と慎吾、平成日本のよふけ "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）にゲスト出演した際、「…ここ10数年の間で、こんなにエネルギッシュ・パワフルで斬新な曲を聴いた事はなかった。なんて素晴らしいんだろう、と思った。それぐらい衝撃的だった」と、この曲が発売された当時の心境を話している。
   - [岡村隆史](https://ja.wikipedia.org/wiki/岡村隆史 "wikilink")（[ナインティナイン](https://ja.wikipedia.org/wiki/ナインティナイン "wikilink")）が一番好きな邦楽曲は「My Revolution」であると『[ナインティナインのオールナイトニッポン](../Page/ナインティナインのオールナイトニッポン.md "wikilink")』（[ニッポン放送](../Page/ニッポン放送.md "wikilink")）で度々コメントしている。しかし、よく「小室哲哉が最初にプロデュースした」というが、実際には小室哲哉が作曲して初めてオリコン1位になった曲であり、プロデュースはしていない。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[1月24日](../Page/1月24日.md "wikilink")、[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")『[情報プレゼンター とくダネ\!](../Page/情報プレゼンター_とくダネ!.md "wikilink")』の「[朝のヒットスタジオ](../Page/朝のヒットスタジオ.md "wikilink")」コーナーに出演。「My Revolution」を生で熱唱し、[佐々木恭子](../Page/佐々木恭子.md "wikilink")[アナウンサーが](https://ja.wikipedia.org/wiki/フジテレビのアナウンサー一覧 "wikilink")「中学生の時、皆で歌って励まし合った事を思い出した」と号泣してしまった。その姿に渡辺も目を潤ませていた。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[1月24日](../Page/1月24日.md "wikilink")、フジテレビの[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")『[情報プレゼンター とくダネ\!](../Page/情報プレゼンター_とくダネ!.md "wikilink")』の「[朝のヒットスタジオ](../Page/朝のヒットスタジオ.md "wikilink")」コーナーに出演。「My Revolution」を生で熱唱し、[佐々木恭子](../Page/佐々木恭子.md "wikilink")[アナウンサーが](https://ja.wikipedia.org/wiki/フジテレビのアナウンサー一覧 "wikilink")「中学生の時、皆で歌って励まし合った事を思い出した」と号泣した。その姿に渡辺も目を潤ませていた。
   - [韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の芸能事務所「[JYPエンターテインメント](../Page/JYPエンターテインメント.md "wikilink")」創業者である[パク・ジニョン](https://ja.wikipedia.org/wiki/パク・ジニョン "wikilink")は、雑誌『[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")』2011年10月号で[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")と対談し、『My Revolution』を、中学生の時に聴いたと述べた。
+  - [市川哲史](../Page/市川哲史.md "wikilink")は「まだまだ無名時代の作品ながら3度もの転調など、TKメロの個性が既に窺えます」「『少しの寂しさを背負いながらも、一人でも強く歩んでいく女子』を描いた川村真澄の詞が、後年TKが書く歌詞に及ぼした影響は少なくない」と評している\[9\]。
+  - [ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")と[ザ・トップテン](../Page/ザ・トップテン.md "wikilink")にランキングされたが、ランキングされた際に出演したのはザ・ベストテン(1回)のみで、ザ・トップテンには出演しなかった。
 
 ## 同曲の作品等の利用など
 
   - [1986年](../Page/1986年.md "wikilink")（昭和61年）1月-3月に[TBS系で放映された](../Page/TBSテレビ.md "wikilink")『[セーラー服通り](../Page/セーラー服通り.md "wikilink")』のオープニングテーマとして起用。
   - [1988年](../Page/1988年.md "wikilink")（昭和63年）に[大友克洋](../Page/大友克洋.md "wikilink")原作の映画『SO WHAT』（監督：[山川直人](../Page/山川直人_\(映画監督\).md "wikilink")）の主題歌として起用。
   - [1992年](../Page/1992年.md "wikilink")（平成4年）[4月22日](../Page/4月22日.md "wikilink")に渡辺美里自身が「My Revolution -第2章-」としてセルフカバー。
-  - [2001年](../Page/2001年.md "wikilink")（平成13年）4月に[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")『[部長刑事 シンマイ。](../Page/部長刑事.md "wikilink")シリーズ』の主題歌として起用。
+  - [2001年](../Page/2001年.md "wikilink")（平成13年）4月に[朝日放送](../Page/朝日放送テレビ.md "wikilink")『[部長刑事 シンマイ。](../Page/部長刑事.md "wikilink")シリーズ』の主題歌として起用。
   - [2002年](../Page/2002年.md "wikilink")（平成14年）に[大王製紙](../Page/大王製紙.md "wikilink")「[エリエール](../Page/エリエール.md "wikilink")」CMソングとして起用。
   - [2005年](../Page/2005年.md "wikilink")（平成17年）[12月31日](../Page/12月31日.md "wikilink")に[第56回NHK紅白歌合戦](../Page/第56回NHK紅白歌合戦.md "wikilink")の[スキウタ〜紅白みんなでアンケート〜](../Page/スキウタ〜紅白みんなでアンケート〜.md "wikilink")で25位に入選。紅白で初披露。
   - 2005年（平成17年）以降、東洋水産「麺づくり」CMソングとして起用。ヘビーメタルやダンスミュージックにアレンジされ、TRFなどがカバーした。
   - [2006年](../Page/2006年.md "wikilink")（平成18年）、『[ますだおかだのオールナイトニッポン](../Page/ますだおかだのオールナイトニッポン.md "wikilink")』のエンディングテーマ曲として起用。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）11月に公開された映画『[ハンサム★スーツ](../Page/ハンサム★スーツ.md "wikilink")』の主題歌として起用。
-  - [2013年](../Page/2013年.md "wikilink")（平成25年）[MBS](../Page/毎日放送.md "wikilink")『[水野真紀の魔法のレストランR](../Page/水野真紀の魔法のレストランR.md "wikilink")』「新100人の料理人\!レボリューション」のエンディンクテーマとしてオーケストラVer.を使用。
+  - [2013年](../Page/2013年.md "wikilink")（平成25年）[MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")『[水野真紀の魔法のレストランR](../Page/水野真紀の魔法のレストランR.md "wikilink")』「新100人の料理人\!レボリューション」のエンディンクテーマとしてオーケストラVer.を使用。
   - 2013年（平成25年）日本テレビ系『[月曜から夜ふかし](https://ja.wikipedia.org/wiki/月曜から夜ふかし "wikilink")』「[株主優待で暮らす桐谷さんシリーズ](https://ja.wikipedia.org/wiki/月曜から夜ふかし#株主優待で暮らす桐谷さんシリーズ "wikilink")」のコーナーで[桐谷さんが自転車を全力で漕ぐ際に度々使用されている](https://ja.wikipedia.org/wiki/桐谷広人 "wikilink")。
-  - [2020年](../Page/2020年.md "wikilink")（令和2年）[BSテレ東](../Page/BSテレビ東京.md "wikilink")「[真夜中ドラマ](https://ja.wikipedia.org/wiki/真夜中ドラマ "wikilink")」『[ハイポジ 1986年、二度目の青春。](https://ja.wikipedia.org/wiki/ハイポジ_\(漫画\)#テレビドラマ "wikilink")』最終回で挿入歌として使用\[8\]。
+  - [2020年](../Page/2020年.md "wikilink")（令和2年）[BSテレ東](../Page/BSテレビ東京.md "wikilink")「[真夜中ドラマ](https://ja.wikipedia.org/wiki/真夜中ドラマ "wikilink")」『[ハイポジ 1986年、二度目の青春。](https://ja.wikipedia.org/wiki/ハイポジ_\(漫画\)#テレビドラマ "wikilink")』最終回で挿入歌として使用\[10\]。
 
 ## 同曲のカバーアーティスト
 
@@ -204,13 +206,15 @@
   - [misatowatanabe.com（公式サイト）](http://www.sonymusic.co.jp/Music/Info/misato/)
   - [『My Revolution』視聴サイト（Sony Music Online Japan）](https://www.sonymusic.co.jp/artist/MisatoWatanabe/discography/ESDB-3034)
 
-[Category:渡辺美里の楽曲](https://ja.wikipedia.org/wiki/Category:渡辺美里の楽曲 "wikilink") [Category:川村真澄が制作した楽曲](https://ja.wikipedia.org/wiki/Category:川村真澄が制作した楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:1986年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1986年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:TBSのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマ主題歌 "wikilink") [Category:ラジオ番組の主題歌](https://ja.wikipedia.org/wiki/Category:ラジオ番組の主題歌 "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink")
+[Category:渡辺美里の楽曲](https://ja.wikipedia.org/wiki/Category:渡辺美里の楽曲 "wikilink") [Category:川村真澄が制作した楽曲](https://ja.wikipedia.org/wiki/Category:川村真澄が制作した楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:1986年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1986年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:TBS金曜8時枠の連続ドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBS金曜8時枠の連続ドラマ主題歌 "wikilink") [Category:ラジオ番組の主題歌](https://ja.wikipedia.org/wiki/Category:ラジオ番組の主題歌 "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink")
 
 1.  1986年12月31日放送TBS『第28回日本レコード大賞』より
 2.
 3.
-4.
+4.  [シンコーミュージック](https://ja.wikipedia.org/wiki/シンコーミュージック "wikilink")刊 『誰も教えてくれなかった本当のポップ・ミュージック論』 [市川哲史](../Page/市川哲史.md "wikilink")著169Pより。
 5.
-6.  『オリコンチャート1位ヒットソング集500〈下〉1986〜1994』（クラブハウス、1998）P14、P16〜P25
-7.  [神山典士](../Page/神山典士.md "wikilink")『小室哲哉 深層の美意識』[講談社](../Page/講談社.md "wikilink")、1996年、154頁。ISBN 4-06-208076-1。
-8.
+6.
+7.  『オリコンチャート1位ヒットソング集500〈下〉1986〜1994』（クラブハウス、1998）P14、P16〜P25
+8.  [神山典士](../Page/神山典士.md "wikilink")『小室哲哉 深層の美意識』[講談社](../Page/講談社.md "wikilink")、1996年、154頁。ISBN 4-06-208076-1。
+9.
+10.

@@ -23,28 +23,27 @@
 3.  **SO FUNKY NOISE** (3:33) - [RATHER UNIQUE](../Page/RATHER_UNIQUE.md "wikilink")
       -
         作詞：[MAKIDAI](https://ja.wikipedia.org/wiki/MAKIDAI "wikilink")、[USA](https://ja.wikipedia.org/wiki/宇佐美吉啓 "wikilink")、SOHJIN / 作曲・編曲：今井大介
-    <!-- end list -->
-      - RATHER UNIQUEの1stアルバム『[R.U Party](../Page/R.U_Party.md "wikilink")』にも収録。
-4.  **Sand Jackal** (inst.) (1:56)
+        後にRATHER UNIQUEの1stアルバム『[R.U Party](../Page/R.U_Party.md "wikilink")』にも収録された。
+4.  **Sand Jackal**（inst.）(1:56)
       -
         作曲：KIRA
 5.  **例えば…ボクが。** (5:29) - [清木場俊介](../Page/清木場俊介.md "wikilink")
       -
         作詞：清木場俊介 / 作曲：川根来音 / 編曲：岩戸崇
-    <!-- end list -->
-      - 清木場の1stアルバム『[清木場俊介](https://ja.wikipedia.org/wiki/清木場俊介_\(アルバム\) "wikilink")』にはアルバムバージョンで収録、8thシングル「[SAKURA](https://ja.wikipedia.org/wiki/SAKURA_\(清木場俊介の曲\) "wikilink")」（通常盤）にはライブ音源が収録。
+        後に清木場の1stアルバム『[清木場俊介](https://ja.wikipedia.org/wiki/清木場俊介_\(アルバム\) "wikilink")』にアルバムバージョン、8thシングル「[SAKURA](https://ja.wikipedia.org/wiki/SAKURA_\(清木場俊介の曲\) "wikilink")」通常盤にライブ音源が収録された。
 6.  **JOY** (5:00) - [COLOR](../Page/DEEP_\(歌手グループ\).md "wikilink")
       -
         作詞：[ATSUSHI](https://ja.wikipedia.org/wiki/ATSUSHI_\(歌手\) "wikilink") / 作曲：[山口寛雄](https://ja.wikipedia.org/wiki/山口寛雄 "wikilink") / 編曲：h-wonder
-    <!-- end list -->
-      - COLORの1stシングル「[Special love](https://ja.wikipedia.org/wiki/Special_love_\(COLORの曲\) "wikilink")」には別バージョンが収録。
+        後にCOLORの1stシングル「[Special love](https://ja.wikipedia.org/wiki/Special_love_\(COLORの曲\) "wikilink")」に別バージョンが収録された。
 7.  **Emotional Beat** (4:42) - EXILE
       -
         作詞：[加藤健](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink") / 作曲・編曲：h-wonder
     <!-- end list -->
       - [KDDI](../Page/KDDI.md "wikilink")『[アレグリア](../Page/アレグリア.md "wikilink")2』CMソング
-      - ベストアルバム『[PERFECT BEST](../Page/PERFECT_BEST_\(EXILEのアルバム\).md "wikilink")』にも収録。
-8.  **J・S・B NexT** (inst.) (2:41)
+    <!-- end list -->
+      -
+        後にベストアルバム『[PERFECT BEST](../Page/PERFECT_BEST_\(EXILEのアルバム\).md "wikilink")』/『SELECT BEST』にも収録された。
+8.  **J・S・B NexT**（inst.）(2:41)
       -
         作曲：KIRA
 9.  **Last Of War** (5:01) - [NEVER LAND](../Page/NEVER_LAND_\(ヒップホップユニット\).md "wikilink")
@@ -55,11 +54,13 @@
         作詞：ATSUSHI / 作曲：KAYA
     <!-- end list -->
       - SHIBUYA MARUI CMソング
-      - COLORの1stシングル「Special love」には別バージョンが収録。
+    <!-- end list -->
+      -
+        後にCOLORの1stシングルに別バージョンが収録された
 11. **May Be Tomorrow** (5:08) - EXILE
       -
         作詞：永山耕三 / 作曲：Hiroshi Furukawa / 編曲：Sin
-12. **Float** (inst.) (1:04)
+12. **Float**（inst.）(1:04)
       -
         作曲：KIRA
 13. **ARather Train** (2:42) - RATHER UNIQUE
@@ -67,33 +68,32 @@
         作詞：MAKIDAI、USA、SOHJIN / 作曲：DJ KIRA
     <!-- end list -->
       - RATHER UNIQUEのインディーズシングル
-14. **EWIG...(warum?)** (3:02) - SOHJIN
+14. **EWIG...（warum?）** (3:02) - SOHJIN
       -
         作詞・作曲・編曲：SOHJIN & DJ KIRA
 15. **粋な一日** (3:39) - NEVER LAND
       -
         作詞：M2、TO-C / 作曲・編曲：DJ KIRA
-    <!-- end list -->
-      - NEVER LANDの1stアルバム『粋な一日』にも収録。
+        後にNEVER LANDの1stアルバム『粋な一日』にも収録された。
 16. **イノチの理由** (4:05) - EXILE
       -
         作詞：加藤健 / 作曲：山口寛雄 / 編曲：原田憲
     <!-- end list -->
       - [ニベアボディ](../Page/ニベア花王.md "wikilink")「スキンミルク」CMソング
-      - ベストアルバム『PERFECT BEST』にも収録。
+    <!-- end list -->
+      -
+        ベストアルバム『PERFECT BEST』/『SELECT BEST』にも収録された。
 17. **[HEART of GOLD](../Page/HEART_of_GOLD.md "wikilink")** (5:35) - EXILE
       -
         作詞：永山耕三 / 作曲：山口寛雄 / 編曲：河野圭
     <!-- end list -->
       - EXILEの16thシングル
       - 舞台『HEART of GOLD 〜STREET FUTURE OPERA BEAT POPS〜』テーマソング
-18. **[運命のヒト](https://ja.wikipedia.org/wiki/Carry_On/運命のヒト "wikilink") (piano version)** (4:47) - EXILE
+18. **[運命のヒト](https://ja.wikipedia.org/wiki/Carry_On/運命のヒト "wikilink")**（piano version）(4:47) - EXILE
       -
         作詞：ATSUSHI / 作曲：山口寛雄 / 編曲：岩戸崇
     <!-- end list -->
       - EXILEの14thシングルの2曲目のピアノバージョン
-      - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[奇跡の扉\!TVのチカラ](https://ja.wikipedia.org/wiki/奇跡の扉!TVのチカラ "wikilink")』エンディングテーマ
-      - DYNACITY「Scala Mansion Series」TV-CFソング
 
 ## 脚注
 

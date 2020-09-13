@@ -1,7 +1,7 @@
 > この記事は[ミチシルベ〜a road home〜](https://ja.wikipedia.org/wiki/ミチシルベ〜a_road_home〜)から翻訳されています。
 
 
-「**ミチシルベ〜a road home〜**」（ミチシルベ～ア・ロード・ホーム～）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[ORANGE RANGEの](../Page/ORANGE_RANGE.md "wikilink")5枚目の[シングル](../Page/シングル.md "wikilink")。
+「**ミチシルベ〜a road home〜**」（ミチシルベ〜ア・ロード・ホーム〜）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[ORANGE RANGEの](../Page/ORANGE_RANGE.md "wikilink")5枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 

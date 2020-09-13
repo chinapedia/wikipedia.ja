@@ -493,7 +493,7 @@ Aブロックはアントニオ猪木が、Bブロックはマサ斎藤が決勝
 
 ## 脚注
 
-[Category:新日本プロレスの興行](https://ja.wikipedia.org/wiki/Category:新日本プロレスの興行 "wikilink") [Category:プロレスのリーグ戦](https://ja.wikipedia.org/wiki/Category:プロレスのリーグ戦 "wikilink") [Category:プロレスのトーナメント戦](https://ja.wikipedia.org/wiki/Category:プロレスのトーナメント戦 "wikilink") [Category:現存しない競技大会](https://ja.wikipedia.org/wiki/Category:現存しない競技大会 "wikilink")
+[Category:新日本プロレスの興行](https://ja.wikipedia.org/wiki/Category:新日本プロレスの興行 "wikilink") [Category:プロレスのリーグ戦](https://ja.wikipedia.org/wiki/Category:プロレスのリーグ戦 "wikilink") [Category:プロレスのトーナメント戦](https://ja.wikipedia.org/wiki/Category:プロレスのトーナメント戦 "wikilink") [Category:現存しない競技大会](https://ja.wikipedia.org/wiki/Category:現存しない競技大会 "wikilink") [Category:1983年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1983年開始のスポーツイベント "wikilink") [Category:1987年終了のイベント](https://ja.wikipedia.org/wiki/Category:1987年終了のイベント "wikilink")
 
 1.
 2.

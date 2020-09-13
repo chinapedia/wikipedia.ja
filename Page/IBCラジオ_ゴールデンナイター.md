@@ -43,7 +43,7 @@
 
 ## 関連項目
 
-  - [S☆1 BASEBALL](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")（IBCテレビ）
+  - [S☆1 BASEBALL](https://ja.wikipedia.org/wiki/S☆1_BASEBALL "wikilink")（IBCテレビ）
   - [地方ラジオ局のナイター中継タイトル一覧](https://ja.wikipedia.org/wiki/地方ラジオ局のナイター中継タイトル一覧 "wikilink")
   - [夏の高校野球岩手大会実況中継](../Page/夏の高校野球岩手大会実況中継.md "wikilink")
 

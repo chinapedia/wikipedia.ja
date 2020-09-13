@@ -13,7 +13,7 @@
 
 ## 沿革
 
-  - [1890年](../Page/1890年.md "wikilink")（[明治](../Page/明治.md "wikilink")23年） - 西洋風旅館**犀北館**創業。犀北館の命名は書家[巌谷一六](../Page/巌谷一六.md "wikilink")。
+  - [1890年](../Page/1890年.md "wikilink")（[明治](../Page/明治.md "wikilink")23年） - 西洋風旅館**犀北館**創業。犀北館の命名は書家[巖谷一六](../Page/巖谷一六.md "wikilink")。
   - [1977年](../Page/1977年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")52年） - 本館・南館が建てられ、**長野ホテル犀北館**として営業を開始。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（[平成](../Page/平成.md "wikilink")7年） - 本館跡地に新本館が完成、オープン。南館を改装。
   - [1996年](../Page/1996年.md "wikilink")（平成8年） - 新本館が第9回長野市景観賞を受賞\[2\]。

@@ -7,9 +7,11 @@
 
 前作「[Free & Easy](https://ja.wikipedia.org/wiki/Free_&_Easy "wikilink")」からちょうど3か月でのリリースとなった。
 
-3曲[A面シングル](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")。3年前の1999年に発売し浜崎最大のヒット作となった4曲A面の10thシングル「[A](../Page/A_\(シングル\).md "wikilink")」と同じ手法が取られており、ジャケット違いの3種類の限定盤、通常盤および、ミリオンヒット記念盤（2002年[11月7日](../Page/11月7日.md "wikilink")発売）が発売された。
+3曲[A面シングルで](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")、表題曲が存在しない。但し、[オリコンチャート](../Page/オリコンチャート.md "wikilink")におけるシングルのタイトル表記では「independent」が表題曲扱いの『**independent（『H(independent, July 1st, HANABI）』（3曲A面））**』となっている\[1\]。
 
-2002年[オリコン年間シングルチャート](../Page/オリコンチャート.md "wikilink")1位を獲得。また、2002年の邦楽唯一の[ミリオン突破シングルであるが](../Page/ミリオンセラー.md "wikilink")、実際は上述の100万枚出荷記念版を含んだ僅差でのミリオン達成となった。
+3年前の1999年に発売した4曲A面の10thシングル「[A](../Page/A_\(シングル\).md "wikilink")」と同じ手法が取られており、ジャケット違いの3種類の限定盤、通常盤および、ミリオンヒット記念盤（2002年[11月7日](../Page/11月7日.md "wikilink")発売）が発売された。
+
+2002年[オリコン年間シングルチャート](../Page/オリコンチャート.md "wikilink")1位を獲得。また、2002年の邦楽唯一の[ミリオン突破シングルであるが](../Page/ミリオンセラー.md "wikilink")、オリコン集計では上述の100万枚出荷記念版を含んだ僅差でのミリオン達成となった。
 
 「A」の時と同様、3曲とも[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は制作されておらず、本作のプロモーション映像において「independent」は過去のライブ映像を、「July 1st」と「HANABI」はそれぞれのタイアップ先のCM映像を組み合わせたものが使用された。
 
@@ -25,7 +27,7 @@
       -
         編曲：tasuku
         [コーセー](../Page/コーセー.md "wikilink")「VISÉE（ヴィセ）」TV-CFソング
-        [読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")の[長野久義](https://ja.wikipedia.org/wiki/長野久義 "wikilink")選手の登場曲として[7月1日](../Page/7月1日.md "wikilink")のみ使用\[1\]。
+        [読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")の[長野久義](https://ja.wikipedia.org/wiki/長野久義 "wikilink")選手の登場曲として[7月1日](../Page/7月1日.md "wikilink")のみ使用\[2\]。
 3.  **HANABI**
       -
         編曲：[CMJK](../Page/電気グルーヴ.md "wikilink")
@@ -60,4 +62,5 @@
 
 [Category:2002年のトリプルA面シングル](https://ja.wikipedia.org/wiki/Category:2002年のトリプルA面シングル "wikilink") [Category:2002年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2002年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコン年間シングルチャート1位作品](https://ja.wikipedia.org/wiki/Category:オリコン年間シングルチャート1位作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink")
 
-1.
+1.  [浜崎あゆみのシングル売上ランキング](https://www.oricon.co.jp/prof/246497/rank/single/)、ORICON NEWS - 2020年7月28日閲覧。
+2.

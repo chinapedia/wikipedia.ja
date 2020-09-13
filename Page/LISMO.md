@@ -70,10 +70,10 @@ LISMO WAVEは2011年1月26日からサービス開始し、開始時点では[IS
   - ラジオチャンネル - 2019年9月30日サービス終了
     全国の民放FM52局（[全国FM連合](../Page/全国FM連合.md "wikilink")加盟局）\[6\]\[7\]のFMラジオ放送を聴取できたサービス。
     auスマートパス会員には、2019年9月30日にサービス終了したLISMO WAVEの代替サービスとして新たに「**radiko for au**」が提供されることとなった\[8\]。「radiko for au」は、radikoと共通の基本サービスで地元局と全国無料配信局をリアルタイム・タイムフリー聴取が可能な他、独自サービスとして全国のFM放送局45局（2019年9月時点）がリアルタイムで聴取可能となっている。
-    他キャリアでも「[ドコデモFM RADIO](https://ja.wikipedia.org/wiki/ドコデモFM "wikilink")・WIZ」という同様のサービスが存在する。配信局は[JFN加盟の](../Page/全国FM放送協議会.md "wikilink")38局と福岡県の[外国語FM放送局である](https://ja.wikipedia.org/wiki/外国語放送局 "wikilink")[LOVE FMに限られるが](../Page/ラブエフエム国際放送.md "wikilink")、LISMO WAVEで配信し、radikoの配信を行っていないFM局を2019年10月以降にインターネットで聴取するためにはWIZ RADIOなどを利用することになる\[9\]。
+    他キャリアでも「[ドコデモFM RADIO](https://ja.wikipedia.org/wiki/ドコデモFM "wikilink")・WIZ」という同様のサービスが存在する。配信局は[JFN加盟の](../Page/全国FM放送協議会.md "wikilink")38局と福岡県の[外国語FM放送局である](https://ja.wikipedia.org/wiki/外国語放送局 "wikilink")[LOVE FM](../Page/ラブエフエム国際放送.md "wikilink")（2020年6月30日に配信終了）に限られるが、LISMO WAVEで配信し、radikoの配信を行っていないFM局を2019年10月以降にインターネットで聴取するためにはWIZ RADIOなどを利用することになる\[9\]。
     radiko自体も2014年4月1日から有料で全国の実施局の放送をエリア制限なしで聴取できる「radikoプレミアム」のサービスも開始している。こちらはAMの放送も聴取できるが、radikoプレミアムでの再送信を行っていない放送局やradikoによる配信を実施していない放送局は聴取できない。
     LISMO WAVEは、民放ラジオ局を放送対象地域内のみでサイマル送信\[10\]する[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")とは異なり、日本国内で3GまたはLTE回線ならびにWi-Fi回線が繋がっていれば、地域にかかわらず上記のラジオ局をすべて聴取できた。過去にはJFN系列外の一部放送局がradikoの配信を開始するまでの間、インターネットによる再送信サービスが当サービスのみである事例も存在した。
-    バッファ再生機能を備えているため、地上波での実際の放送から1 - 6分程度の遅延が発生していた。基本的にコマーシャルはBGMに差し替えられるが、スポンサーや番組によっては地上波で放送されているコマーシャルがそのまま流れる\[11\]。時報音も各局で対応が異なるが、実際の時刻とずれが生じているので注意が必要である。
+    バッファ再生機能を備えているため、地上波での実際の放送から1 - 6分程度の遅延が発生していた。基本的にコマーシャルはBGMに差し替えられるが、スポンサーや番組によっては地上波で放送されているコマーシャルがそのまま流れる\[11\]。時報音も各局で対応が異なるが、実際の時刻とずれが生じているのを注意する必要があった。
     サービス料金は1局単位で月額100円、全ての対象局が聞ける「ラジオパック」が月額300円（消費税抜）となっているが、サービス開始から2011年5月末までは無料で提供されていた。
     2011年[3月11日](../Page/3月11日.md "wikilink")に発生した[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）を受けて、[3月15日](../Page/3月15日.md "wikilink") - [4月30日](../Page/4月30日.md "wikilink")の間は[JFNの](../Page/全国FM放送協議会.md "wikilink")[キー局](../Page/キー局.md "wikilink")である[TOKYO FMと東北地方の加盟局](../Page/エフエム東京.md "wikilink")（[FM青森](../Page/エフエム青森.md "wikilink")・[FM岩手](../Page/エフエム岩手.md "wikilink")・[FM秋田](../Page/エフエム秋田.md "wikilink")・[Date fm](../Page/エフエム仙台.md "wikilink")・[Rhythm Station](../Page/エフエム山形.md "wikilink")・[ふくしまFM](../Page/エフエム福島.md "wikilink")）の配信（3月29日に[InterFM](../Page/InterFM.md "wikilink")と[bayfm78を追加配信](../Page/ベイエフエム.md "wikilink")）を特設の「『LISMO WAVE』東北地方太平洋沖地震支援サイト」上で行い、LISMO WAVEの契約を行っていなくてもパソコンやスマートフォンで無料で聴取することができた\[12\]。
     放送権利の問題で配信できない[オリンピックや](../Page/近代オリンピック.md "wikilink")[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")などの[ジャパンコンソーシアム](../Page/ジャパンコンソーシアム.md "wikilink")製作のスポーツ中継、および[公職選挙法](../Page/公職選挙法.md "wikilink")に基づく[政見放送](../Page/政見放送.md "wikilink")のほか、一部芸能人の出演する番組\[13\]はradikoでは配信されても本サービスでは配信されないものがあった。
@@ -1177,9 +1177,11 @@ TOSHIBAブランド<br />
 
 パソコン側の対応[OSが](../Page/オペレーティングシステム.md "wikilink")[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")に限られている。[Mac OS](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")（[Macintosh](../Page/Macintosh.md "wikilink")）や[Linux](../Page/Linux.md "wikilink")の各OSに対応したパソコンではこれらのサービスを受けることができない。
 
-## 注釈・参考文献
+## 脚注
 
-<references />
+### 注釈
+
+### 出典
 
 ## 関連項目
 
@@ -1198,13 +1200,13 @@ TOSHIBAブランド<br />
 
 1.  [auスマートフォン向け音楽サービス「うたパス」のリニューアルについて](http://news.kddi.com/kddi/corporate/newsrelease/2016/08/03/1945.html) - KDDI 2016年8月3日
 2.  [重要なお知らせ LISMO WAVEサービスの提供終了について](https://radio.lismowave.jp/mds/android/service/pc.html)
-3.  iOS機種の場合、au非加入のユーザーでも、AppleIDでソフトウェア月額買切による聴取が可能。
+3.  iOS機種の場合、au非加入のユーザーでも、AppleIDでソフトウェア月額買切による聴取が可能だった。
 4.  [お知らせ 2015年5月12日](https://ssl.lismowave.jp/mds/android/service/info-fm)
 5.  [auケータイおよびAndroid™ 搭載auスマートフォンをご利用のお客さまへ](http://www.au.kddi.com/mobile/service/smartphone/lismo/lismo-wave/lismo-wave-information/)
-6.  独自でインターネット配信『[Brandnew J](../Page/Brandnew_J.md "wikilink")』を実施している[J-WAVE](../Page/J-WAVE.md "wikilink")はシステムの対応が遅れたため同年3月15日に配信開始。
-7.  サービス開始後に開局したInterFM NAGOYA（現・[Radio NEO](https://ja.wikipedia.org/wiki/Radio_NEO "wikilink")）はLISMO WAVEでの配信は行っていない。ただし、radikoでは2015年7月に同局のサイマル送信を開始した。
+6.  独自のインターネット配信『[Brandnew J](../Page/Brandnew_J.md "wikilink")』を実施の[J-WAVE](../Page/J-WAVE.md "wikilink")はシステムの対応が遅れたため、配信開始が同年3月15日になった。
+7.  サービス開始後に開局したInterFM NAGOYA（後に[Radio NEOに社名変更](https://ja.wikipedia.org/wiki/Radio_NEO "wikilink")。2020年6月30日に放送事業終了・停波）はLISMO WAVEでの配信は行っていない。ただし、radikoでは2015年7月より2020年6月まで同局のサイマル送信を行っていた。
 8.  [auスマートパス、auスマートパスプレミアム会員の方必見！ 全国のFM放送（ライブ）が楽しめる「radiko for au」誕生。](https://news.radiko.jp/article/edit/34667/)
-9.  2020年に新たにFM7局がradikoによる配信を開始しており、2020年4月15日時点のradiko未配信FM局は[FM徳島のみ](../Page/エフエム徳島.md "wikilink")。
+9.  2020年に新たにFM7局がradikoによる配信を開始しており、2020年7月1日時点のradiko未配信FM局は[FM徳島のみ](../Page/エフエム徳島.md "wikilink")。
 10. 別途、有料会員制で全国の放送局を受信できるradikoプレミアム・エリアフリーもあり
 11. 特に、[TOKYO FMのチャンネル](../Page/エフエム東京.md "wikilink")（2013年11月頃から）や、同局が製作する[JFN加盟局向けのネットワーク番組と](../Page/全国FM放送協議会.md "wikilink")[J-WAVE](../Page/J-WAVE.md "wikilink")（2014年4月1日から）、ふくしまFM、[エフエム山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")、[Hi-Six](../Page/エフエム高知.md "wikilink")、[エフエム大分](../Page/エフエム大分.md "wikilink")（以上4局2015年6月確認）では、ほぼすべてのコマーシャルがそのまま放送されている。
 12. [【震災関連情報】KDDI、TOKYO FMと東北6県のFM放送を配信、スマートフォン・PC向け](http://www.excite.co.jp/News/it_g/20110316/Bcnrank_19575.html) - エキサイトニュース 2011年3月16日
@@ -1213,11 +1215,11 @@ TOSHIBAブランド<br />
 15. 2016年8月3日より[うたパス](https://ja.wikipedia.org/wiki/うたパス "wikilink")と統合されサービス終了。
 16. なお2013年6月1日以降は事実上の後継サービスとなる「[KKBOX](https://ja.wikipedia.org/wiki/KKBOX "wikilink")」、もしくは「[うたパス](https://ja.wikipedia.org/wiki/うたパス "wikilink")」を利用する事となる。
 17. カメラなしモデルのK011 Z（KY011 Z）を含む。
-18. ただし、別途[au Marketから同アプリをダウンロードし](https://ja.wikipedia.org/wiki/au_Market "wikilink")、インストールする事で利用可能となる。
+18. ただし、別途[au Marketから同アプリをダウンロードし](https://ja.wikipedia.org/wiki/au_Market "wikilink")、インストールする事で利用可能となっていた。
 19. 現：[三洋テクノソリューションズ鳥取](../Page/三洋テクノソリューションズ鳥取.md "wikilink")
 20. 後日、アップデートにて対応。
 21. [iOS 4.3以降の対応](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")。
-22. [ソフトバンク向け](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")、および[ドコモ向けの](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")・[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")と3G通信非対応のiPad・iPad mini・[iPod Touchも対応](https://ja.wikipedia.org/wiki/iPod_Touch "wikilink")。利用はいずれもau IDの取得が必要。
+22. [ソフトバンク向け](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")、および[ドコモ向けの](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")・[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")と3G通信非対応のiPad・iPad mini・[iPod Touchも対応](https://ja.wikipedia.org/wiki/iPod_Touch "wikilink")。利用はいずれもau IDの取得が必要だった。
 23. CM本編では[水沢エレナ](https://ja.wikipedia.org/wiki/水沢エレナ "wikilink")と共演。
 24. CM本編では[上野樹里](https://ja.wikipedia.org/wiki/上野樹里 "wikilink")も登場していた。
 25. CM本編には[川口春奈](https://ja.wikipedia.org/wiki/川口春奈 "wikilink")が出演していた。その後、川口はau向けスマートフォンである[isai LGL22の](https://ja.wikipedia.org/wiki/LGL22 "wikilink")[納入メーカーオリジナルのCMに出演している](../Page/LGエレクトロニクス.md "wikilink")。

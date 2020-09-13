@@ -39,27 +39,27 @@
 
 1回戦
 
-|                                                       |   |   |                                                     |
-| ----------------------------------------------------- | - | - | --------------------------------------------------- |
-| 日本                                                    | 0 | 5 | 韓国                                                  |
-| [大竹英雄](https://ja.wikipedia.org/wiki/大竹英雄 "wikilink") | × | ○ | [曺薫鉉](https://ja.wikipedia.org/wiki/曺薫鉉 "wikilink") |
-| [依田紀基](../Page/依田紀基.md "wikilink")                    | × | ○ | [李昌鎬](../Page/李昌鎬.md "wikilink")                    |
-| [本田邦久](../Page/本田邦久.md "wikilink")                    | × | ○ | [朴永訓](../Page/朴永訓.md "wikilink")                    |
-| [淡路修三](../Page/淡路修三.md "wikilink")                    | × | ○ | [劉昌赫](../Page/劉昌赫.md "wikilink")                    |
-| [羽根直樹](../Page/羽根直樹.md "wikilink")                    | × | ○ | [李世乭](../Page/李世ドル.md "wikilink")                   |
-|                                                       |   |   |                                                     |
+|                                                       |   |   |                                   |
+| ----------------------------------------------------- | - | - | --------------------------------- |
+| 日本                                                    | 0 | 5 | 韓国                                |
+| [大竹英雄](https://ja.wikipedia.org/wiki/大竹英雄 "wikilink") | × | ○ | [曺薫鉉](../Page/曺薫鉉.md "wikilink")  |
+| [依田紀基](../Page/依田紀基.md "wikilink")                    | × | ○ | [李昌鎬](../Page/李昌鎬.md "wikilink")  |
+| [本田邦久](../Page/本田邦久.md "wikilink")                    | × | ○ | [朴永訓](../Page/朴永訓.md "wikilink")  |
+| [淡路修三](../Page/淡路修三.md "wikilink")                    | × | ○ | [劉昌赫](../Page/劉昌赫.md "wikilink")  |
+| [羽根直樹](../Page/羽根直樹.md "wikilink")                    | × | ○ | [李世乭](../Page/李世ドル.md "wikilink") |
+|                                                       |   |   |                                   |
 
 1回戦
 
-|                                                     |   |   |                                                     |
-| --------------------------------------------------- | - | - | --------------------------------------------------- |
-| 中華台北                                                | 3 | 2 | 中国                                                  |
-| [林海峰](https://ja.wikipedia.org/wiki/林海峰 "wikilink") | ○ | × | [馬暁春](../Page/馬暁春.md "wikilink")                    |
-| [王銘琬](https://ja.wikipedia.org/wiki/王銘琬 "wikilink") | ○ | × | [常昊](../Page/常昊.md "wikilink")                      |
-| [楊嘉源](https://ja.wikipedia.org/wiki/楊嘉源 "wikilink") | × | ○ | [兪斌](../Page/兪斌.md "wikilink")                      |
-| [周俊勲](../Page/周俊勲.md "wikilink")                    | ○ | × | [邵煒剛](https://ja.wikipedia.org/wiki/邵煒剛 "wikilink") |
-| [林至涵](../Page/林至涵.md "wikilink")                    | × | ○ | [王磊](../Page/王磊_\(囲碁\).md "wikilink")               |
-|                                                     |   |   |                                                     |
+|                                                     |   |   |                                       |
+| --------------------------------------------------- | - | - | ------------------------------------- |
+| 中華台北                                                | 3 | 2 | 中国                                    |
+| [林海峰](https://ja.wikipedia.org/wiki/林海峰 "wikilink") | ○ | × | [馬暁春](../Page/馬暁春.md "wikilink")      |
+| [王銘琬](https://ja.wikipedia.org/wiki/王銘琬 "wikilink") | ○ | × | [常昊](../Page/常昊.md "wikilink")        |
+| [楊嘉源](https://ja.wikipedia.org/wiki/楊嘉源 "wikilink") | × | ○ | [兪斌](../Page/兪斌.md "wikilink")        |
+| [周俊勲](../Page/周俊勲.md "wikilink")                    | ○ | × | [邵煒剛](../Page/邵煒剛.md "wikilink")      |
+| [林至涵](../Page/林至涵.md "wikilink")                    | × | ○ | [王磊](../Page/王磊_\(囲碁\).md "wikilink") |
+|                                                     |   |   |                                       |
 
 決勝戦
 

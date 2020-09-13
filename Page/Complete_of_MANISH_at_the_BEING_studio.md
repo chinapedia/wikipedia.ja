@@ -20,13 +20,13 @@
 3.  **[素顔のままKISSしよう](../Page/素顔のままKISSしよう.md "wikilink")**
       -
         作詞:[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink") 作曲:[西本麻里](../Page/MANISH.md "wikilink") 編曲:明石昌夫
-4.  **[君が欲しい全部欲しい](https://ja.wikipedia.org/wiki/君が欲しい全部欲しい "wikilink")**
+4.  **[君が欲しい 全部欲しい](https://ja.wikipedia.org/wiki/君が欲しい_全部欲しい "wikilink")**
       -
         作詞:大黒摩季 作曲:織田哲郎 編曲:明石昌夫
 5.  **[眠らない街に流されて](../Page/眠らない街に流されて.md "wikilink")**
       -
         作詞:大黒摩季 作曲:織田哲郎 編曲:明石昌夫
-6.  **[だけど止められない](../Page/だけど止められない.md "wikilink")**
+6.  **[だけど止められない ver.)](../Page/だけど止められない.md "wikilink")(single**
       -
         作詞:[高橋美鈴](../Page/MANISH.md "wikilink") 作曲:西本麻里 編曲:明石昌夫
 7.  **[もう誰の目も気にしない](../Page/もう誰の目も気にしない.md "wikilink")**
@@ -38,7 +38,7 @@
 9.  **[走り出せLonely Night](../Page/走り出せLonely_Night.md "wikilink")**
       -
         作詞:高橋美鈴 作曲:[栗林誠一郎](../Page/栗林誠一郎.md "wikilink") 編曲:明石昌夫
-10. **[煌（キラ）めく瞬間（トキ）に捕われて](../Page/煌めく瞬間に捕われて.md "wikilink")**
+10. **[煌（キラ）めく瞬間（トキ）に捕われて](https://ja.wikipedia.org/wiki/煌めく瞬間に捕われて/眩しいくらいに… "wikilink")**
       -
         作詞:高橋美鈴・[川島だりあ](../Page/川島だりあ.md "wikilink") 作曲:川島だりあ 編曲:明石昌夫
 11. **[この一瞬という永遠の中で](https://ja.wikipedia.org/wiki/この一瞬という永遠の中で… "wikilink")**

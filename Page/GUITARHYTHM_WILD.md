@@ -41,7 +41,7 @@
 ## 参加ミュージシャン
 
   - **布袋寅泰** - [ギター](../Page/ギター.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - **[椎野恭一](https://ja.wikipedia.org/wiki/椎野恭一 "wikilink")** - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
+  - **[椎野恭一](../Page/椎野恭一.md "wikilink")** - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - **[浅田孟](https://ja.wikipedia.org/wiki/浅田孟 "wikilink")** - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、コーラス
   - **[成田忍](https://ja.wikipedia.org/wiki/成田忍 "wikilink")** - ギター、コーラス
   - **[小森茂生](https://ja.wikipedia.org/wiki/小森茂生 "wikilink")** - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")、コーラス

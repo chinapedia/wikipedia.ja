@@ -88,7 +88,7 @@
   - 新潟県ホームページ \> [農林水産業](http://www.pref.niigata.lg.jp/norin.html) \> [コシヒカリBL](http://www.pref.niigata.lg.jp/nosanengei/1204823747830.html)
   - [農業・食品産業技術総合研究機構](../Page/農業・食品産業技術総合研究機構.md "wikilink") - [コシヒカリを親にした品種一覧](http://ineweb.narcc.affrc.go.jp/search/oyahinsyu.html?ineCode=ETU00170)
 
-[Category:イネの品種](https://ja.wikipedia.org/wiki/Category:イネの品種 "wikilink") [Category:新潟米](https://ja.wikipedia.org/wiki/Category:新潟米 "wikilink") [Category:新潟県の農業](https://ja.wikipedia.org/wiki/Category:新潟県の農業 "wikilink")
+[Category:イネの品種](https://ja.wikipedia.org/wiki/Category:イネの品種 "wikilink") [Category:新潟米](https://ja.wikipedia.org/wiki/Category:新潟米 "wikilink")
 
 1.  [4 コシヒカリBLの品種名に係る法律上の規定](http://www.pref.niigata.lg.jp/nosanengei/1221175992244.html)（新潟県）
 2.

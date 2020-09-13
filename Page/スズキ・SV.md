@@ -51,7 +51,8 @@ Image:Suzuki sv650s 1.JPG|Suzuki SV650S（旧デザイン） Image:Suzuki sv650s
 
 ## 外部リンク
 
-  - [スズキ・SV650 ABS](http://www1.suzuki.co.jp/motor/product/sv650al6/top)
+  - [スズキ・SV650 ABS](http://www1.suzuki.co.jp/motor/lineup/sv650am0/)
+  - [スズキ・SV650X ABS](https://www1.suzuki.co.jp/motor/lineup/sv650xam0/)
       - [スズキ（グローバル）SV650/A](http://www.globalsuzuki.com/motorcycle/products/sv650/)
   - [スズキ・ニュースリリース1998年9月22日 SV400/S](http://www.suzuki.co.jp/release/b/b980922.htm)
   - [スズキ・ニュースリリース1999年3月30日 SV650/S](http://www.suzuki.co.jp/release/b/b990330.htm)

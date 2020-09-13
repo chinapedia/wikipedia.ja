@@ -131,7 +131,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/一休さん_(テレビアニメ)" title="wikilink">一休さん</a></p></td>
 <td></td>
-<td><p><a href="../Page/藤田淑子.md" title="wikilink">藤田淑子</a>、<a href="../Page/宮内幸平.md" title="wikilink">宮内幸平</a>、<a href="https://ja.wikipedia.org/wiki/桂令子" title="wikilink">桂令子</a>、<a href="../Page/キートン山田.md" title="wikilink">山田俊司</a>、野田圭一</p></td>
+<td><p><a href="../Page/藤田淑子.md" title="wikilink">藤田淑子</a>、<a href="../Page/宮内幸平.md" title="wikilink">宮内幸平</a>、<a href="../Page/桂玲子.md" title="wikilink">桂玲子</a>、<a href="../Page/キートン山田.md" title="wikilink">山田俊司</a>、野田圭一</p></td>
 <td></td>
 </tr>
 <tr class="even">

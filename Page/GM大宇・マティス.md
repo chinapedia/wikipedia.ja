@@ -7,7 +7,7 @@
 
 ### 初代（M100型/M150型、1998年-2005年）
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Mattiz.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Daewoo_Matiz.jpg "wikilink") 初代マティスは3代目[スズキ・アルト](../Page/スズキ・アルト.md "wikilink")をベースにした[ティコの後継車として](https://ja.wikipedia.org/wiki/大宇・ティコ "wikilink")1998年にデビューした。[ジウジアーロがデザインしたボディは元々は](../Page/ジョルジェット・ジウジアーロ.md "wikilink")[フィアット](../Page/フィアット.md "wikilink")車向けにデザインされたといわれている\[1\]。 エンジンは3気筒800ccで、これは[スズキ製の](../Page/スズキ_\(企業\).md "wikilink")[F8B型エンジンが搭載されている](https://ja.wikipedia.org/wiki/スズキ・F型エンジン "wikilink")。ヨーロッパを中心に輸出され、140万台以上も売れた。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Mattiz.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Daewoo_Matiz.jpg "wikilink") 初代マティスは3代目[スズキ・アルト](../Page/スズキ・アルト.md "wikilink")をベースにした[ティコの後継車として](https://ja.wikipedia.org/wiki/大宇・ティコ "wikilink")1998年にデビューした。[ジウジアーロがデザインしたボディは元々は](../Page/ジョルジェット・ジウジアーロ.md "wikilink")[フィアット](../Page/フィアット.md "wikilink")車向けにデザインされたといわれている\[1\]。 エンジンは3気筒800ccで、これは[スズキ製の](../Page/スズキ_\(企業\).md "wikilink")[F8C型エンジンの改良型が搭載されている](https://ja.wikipedia.org/wiki/スズキ・F型エンジン "wikilink")。ヨーロッパを中心に輸出され、140万台以上も売れた。
 
 [2002年](../Page/2002年.md "wikilink")にはマイナーチェンジが行われ（M150型）、外装が変更になった。韓国では[CVT仕様も追加されたが](../Page/無段変速機.md "wikilink")、日本では[トルクコンバーター](https://ja.wikipedia.org/wiki/トルクコンバーター "wikilink")式オートマチックのままであった。また、日本のチューナー、[トミーカイラ](../Page/トミーカイラ.md "wikilink")が、同車をベースにした[コンプリートカー](../Page/改造車.md "wikilink")、「トミーカイラm08」を発売したことがあった。
 

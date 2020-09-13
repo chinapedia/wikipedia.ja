@@ -42,4 +42,4 @@
 
 ## 出典・脚注
 
-[Category:漫画作品_あ](https://ja.wikipedia.org/wiki/Category:漫画作品_あ "wikilink") [Category:週刊ヤングマガジンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊ヤングマガジンの漫画作品 "wikilink") [Category:宇宙飛行士を題材とした作品](https://ja.wikipedia.org/wiki/Category:宇宙飛行士を題材とした作品 "wikilink") [Category:地球の重力圏を舞台とした作品](https://ja.wikipedia.org/wiki/Category:地球の重力圏を舞台とした作品 "wikilink") [Category:武論尊](https://ja.wikipedia.org/wiki/Category:武論尊 "wikilink")
+[Category:武論尊](https://ja.wikipedia.org/wiki/Category:武論尊 "wikilink") [Category:漫画作品_あ](https://ja.wikipedia.org/wiki/Category:漫画作品_あ "wikilink") [Category:1984年の漫画](https://ja.wikipedia.org/wiki/Category:1984年の漫画 "wikilink") [Category:週刊ヤングマガジンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊ヤングマガジンの漫画作品 "wikilink") [Category:宇宙飛行士を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:宇宙飛行士を題材とした漫画作品 "wikilink") [Category:地球の重力圏を舞台とした作品](https://ja.wikipedia.org/wiki/Category:地球の重力圏を舞台とした作品 "wikilink")

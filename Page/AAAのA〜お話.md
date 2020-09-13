@@ -69,4 +69,4 @@
 
   - [KAT-TUN スタイル](https://ja.wikipedia.org/wiki/KAT-TUN_スタイル "wikilink")
 
-[Category:ニッポン放送の帯番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送の帯番組 "wikilink") [Category:ニッポン放送のミニ番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送のミニ番組 "wikilink") [Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink") [Category:AAA](https://ja.wikipedia.org/wiki/Category:AAA "wikilink")
+[Category:ニッポン放送の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:ニッポン放送の帯番組の歴史 "wikilink") [Category:ニッポン放送のミニ番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送のミニ番組 "wikilink") [Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink") [Category:AAA](https://ja.wikipedia.org/wiki/Category:AAA "wikilink")

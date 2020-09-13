@@ -46,7 +46,7 @@
 
 ## 外部リンク
 
-  - [TBSチャンネル](http://www.tbs.co.jp/tbs-ch/)
+  - [TBSチャンネル](https://www.tbs.co.jp/tbs-ch/)
   - [TBSチャンネル・小林麻耶のチャンネルガイド](http://www.tbs.co.jp/tbs-ch/lineup/v1082.html)
   - [TBSチャンネルガイド・出演者交代のお知らせ](http://www.tbs.co.jp/tbs-ch/ichioshi/special/tbs-ch_guide/)
 

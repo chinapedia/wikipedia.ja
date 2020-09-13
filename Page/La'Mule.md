@@ -91,7 +91,7 @@
 
   - 2012年2月16日 2012年4月5日、6日の渋谷REXワンマンライブをもって解散すると発表\[8\]。
 
-  - 2014年3月22日 [目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink")にてAYAME(MIRAGE)追悼イベント「Remembrance Day -TOKYO-」に出演、限定復活ライブ。
+  - 2014年3月22日 [目黒鹿鳴館](../Page/目黒鹿鳴館.md "wikilink")にてAYAME(MIRAGE)追悼イベント「Remembrance Day -TOKYO-」に出演、限定復活ライブ。
 
 ## ディスコグラフィ
 

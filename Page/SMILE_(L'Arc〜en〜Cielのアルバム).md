@@ -23,50 +23,53 @@
       - 作詞:[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink") / 英語訳詞:[Lynne Hobday](https://ja.wikipedia.org/wiki/リン・ホブデイ "wikilink") / 作曲:[ken](https://ja.wikipedia.org/wiki/ken "wikilink") / 編曲:L'Arc〜en〜Ciel & [Hajime Okano](../Page/岡野ハジメ.md "wikilink")
     <!-- end list -->
       -
-        タイトルは「くちづけ」と読む。シングル「Spirit dreams inside -another dream-」制作時にはすでに曲の原型はあり、イントロのギターは当時の音源が採用されており、3年前と今を繋ぐ構成となった。ken曰く「寝かせておいていい曲になった」とのこと。
-        kenが[デペッシュ・モード](../Page/デペッシュ・モード.md "wikilink")を意識してデモを制作したため、hydeは「『デペッシュ・モードで歌いたい』とリスペクトの気持ちを込めて歌った\[11\]」と述べている。また、kenは「[メタリカ](https://ja.wikipedia.org/wiki/メタリカ "wikilink")の新作（『セイント・アンガー』）を聴いて気分が変わった\[12\]」と述べており、デモよりハードなアレンジとなった。
+        タイトルは「くちづけ」と読む。2001年発売のシングル「Spirit dreams inside -another dream-」制作時にはすでに曲の原型があった楽曲。
+        イントロのギターは3年前に録ったデモ音源が採用されている。イントロのギターリフの後、新録のギター、ベース、ドラムの音が入ってくるという3年前と現在を繋げる曲構成となった。ken曰く「寝かせておいていい曲になった」とのこと。
+        kenが[デペッシュ・モード](../Page/デペッシュ・モード.md "wikilink")を意識してデモを制作したため、hydeは「『デペッシュ・モードで歌いたい』とリスペクトの気持ちを込めて歌った\[11\]」と述べている。また、kenは「3年の間に気分がちょっと変わった\[12\]」「（制作の）直前に[メタリカ](https://ja.wikipedia.org/wiki/メタリカ "wikilink")の新作（『セイント・アンガー』）を聴いてたんですよ。そこでダウンピッキングで速いのとか弾いてて、"これちょっと面白いな"と思って。この曲でも全部ダウンで弾いてみようかなと思った\[13\]」と述べており、デモよりハードなアレンジとなった。
         また、後のライブツアー「TOUR 2007-2008 THEATER OF KISS」では『[KISS](../Page/KISS_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』にちなみ、メドレーのラストにイントロから歌い出しの部分「接吻を交わそう」のみ演奏された。ちなみに、同ツアー最終日の福岡マリンメッセ公演のみフル演奏されている。
 2.  **[READY STEADY GO](../Page/READY_STEADY_GO_\(L'Arc〜en〜Cielの曲\).md "wikilink")**
       - 作詞:hyde / 英語訳詞:Lynne Hobday / 作曲:[tetsu](https://ja.wikipedia.org/wiki/tetsuya "wikilink") / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
-        22ndシングル。表記はされていないがアルバムバージョンとなっており、冒頭にhydeの「Are you ready?」という掛け声が入って曲が始まり、次曲と音が連続した構成になっている。当初作曲したtetsuyaはボツになると思っていたようで、「まさかシングルになるとは思わなかった\[13\]」と述べている。
-        また、もともとはミドルテンポのアレンジであり、hydeの提案で[テンポ](../Page/テンポ.md "wikilink")が速くなった。[ライブではさらにテンポを上げて演奏される](../Page/演奏会.md "wikilink")。
-        yukihiroはドラム・プレイについて「テンポに合ったドラムを考えたらこうなった\[14\]」「タムは[ダムド](../Page/ダムド.md "wikilink")の「ニュー・ローズ」みたいなイメージがあった\[15\]」と述べている。
+        22ndシングル。[MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS系アニメ](../Page/TBSテレビ.md "wikilink")『[鋼の錬金術師](https://ja.wikipedia.org/wiki/鋼の錬金術師_\(アニメ\) "wikilink")』第2期オープニングテーマ。
+        表記はされていないがアルバムバージョンとなっており、冒頭にhydeの「Are you ready?」という掛け声が入って曲が始まり、次曲と音が連続した構成になっている。
+        制作にあたりtetsuyaは、当初[グッド・シャーロット](../Page/グッド・シャーロット.md "wikilink")のような[パンク・ロック](../Page/パンク・ロック.md "wikilink")をイメージして作ったと述べている\[14\]。当初作曲したtetsuyaはボツになると思っていたようで、「まさかシングルになるとは思わなかった\[15\]」と述べている。
+        また、もともとはミドルテンポのアレンジであり、hydeの提案で[テンポ](../Page/テンポ.md "wikilink")が速くなった。このやり取りは、本作の初回限定盤の付属DVDにも収録されている。[ライブではさらにテンポを上げて演奏される](../Page/演奏会.md "wikilink")。
+        yukihiroはドラム・プレイについて「テンポに合ったドラムを考えたらこうなった\[16\]」「タムは[ダムド](../Page/ダムド.md "wikilink")の「ニュー・ローズ」みたいなイメージがあった\[17\]」と述べている。
 3.  **Lover Boy**
       - 作詞・作曲:ken / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
-        初めてkenがL'Arc〜en〜Cielで作詞した楽曲。これでメンバー全員がラルクの楽曲において作詞・作曲を経験したこととなった。ラルクで初めて歌詞を手掛けたkenは、[SONS OF ALL PUSSYSで詩を書いて世に出すことを繰り返すうちに](../Page/SONS_OF_ALL_PUSSYS.md "wikilink")、「自分の気持ちを言葉に乗せる照れがなくなった\[16\]」と述べている。また、kenが温泉に行ったときに「こんな曲があったら面白い」というスタッフとの会話から生まれた楽曲で、ギターリフを切り取ってコラージュしたような曲にしたかったと述べている\[17\]。
-        「接吻」同様、ラルク再活動以前の『[REAL](../Page/REAL_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』の時期から存在する曲で、kenがこの曲を提出したらボツになった、という逸話がある。曲中にベースソロが存在する。仮タイトルは楽曲の発想が生まれた場所と時間に因んで、「下田朝5時半」と付けられた\[18\]。
+        初めてkenがL'Arc〜en〜Cielで作詞した楽曲。これでメンバー全員がラルクの楽曲において作詞・作曲を経験したこととなった。ラルクで初めて歌詞を手掛けたkenは、[SONS OF ALL PUSSYSで詩を書いて世に出すことを繰り返すうちに](../Page/SONS_OF_ALL_PUSSYS.md "wikilink")、「自分の気持ちを言葉に乗せる照れがなくなった\[18\]」と述べている。また、kenが温泉に行ったときに「こんな曲があったら面白い」というスタッフとの会話から生まれた楽曲で、ギターリフを切り取ってコラージュしたような曲にしたかったと述べている\[19\]。
+        「接吻」同様、ラルク再活動以前の『[REAL](../Page/REAL_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』の時期から存在する曲で、kenがこの曲を提出したらボツになった、という逸話がある。曲中にベースソロが存在する。仮タイトルは楽曲の発想が生まれた場所と時間に因んで、「下田朝5時半」と付けられた\[20\]。
         [2009年](../Page/2009年.md "wikilink")に行われたKenのソロライブツアー「Ken TOUR 2009 "LIVE IN PHYSICAL"」において、セルフカバーされている。
 4.  **Feeling Fine**
       - 作詞:hyde / 英語訳詞:Lynne Hobday / 作曲:ken / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
         2007年3月から[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")で[麒麟麦酒](../Page/麒麟麦酒.md "wikilink")「麒麟〈生〉激暢ビール」CMソングに起用された。
-        [ママス&パパス](../Page/ママス&パパス.md "wikilink")の楽曲「[夢のカリフォルニア](https://ja.wikipedia.org/wiki/夢のカリフォルニア_\(曲\) "wikilink")」のような60年代、70年代の[フォークロック](../Page/フォークロック.md "wikilink")を意識した楽曲\[19\]で、「フォークとロックとポップスが混じった様な時代の曲が書きたかった\[20\]」と述べている。
+        これまでのken作曲の楽曲にはなかったような明るいポップソングとなっており、「明るい曲って受けつけなかったんですね。終止するところがマイナーでないと嫌だ、みたいなところがあって。でも、（バンド活動休止中の）3年の間に明るい曲が人を元気にしたり、[カーステで鳴らしてイエーイっていうだけでも音楽の意味があるんじゃないかと思い始めて](../Page/カーオーディオ.md "wikilink")。そういう曲も書いてみたいなと思って書き始めた\[21\]」と述べている。
+        [ママス&パパス](../Page/ママス&パパス.md "wikilink")の楽曲「[夢のカリフォルニア](https://ja.wikipedia.org/wiki/夢のカリフォルニア_\(曲\) "wikilink")」のような60年代、70年代の[フォークロック](../Page/フォークロック.md "wikilink")を意識した楽曲\[22\]で、「映画とか見てて、曲は知ってるけど名前を知らないようなバンドのフォークとロックとポップスが混じった様な時代の音楽ってあるじゃないですか。ああいうニュアンスの曲が書きたかった\[23\]」と述べている。
         後に、パートチェンジバンド[P'UNK〜EN〜CIEL](https://ja.wikipedia.org/wiki/P'UNK〜EN〜CIEL "wikilink")でリアレンジされ、31stシングル「[MY HEART DRAWS A DREAM](../Page/MY_HEART_DRAWS_A_DREAM.md "wikilink")」のカップリングに収録している。
 5.  **Time goes on**
       - 作詞・作曲:tetsu / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
-        tetsuyaが作詞した本作唯一の楽曲。tetsuyaはこの曲において、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[6弦ベース](../Page/6弦ベース.md "wikilink")、[ギター](../Page/ギター.md "wikilink")[ソロを担当している](../Page/ソロ_\(音楽\).md "wikilink")。
-        ギターソロは、tetsuyaが弾いた[デモ](https://ja.wikipedia.org/wiki/デモ "wikilink")の段階のものをそのまま使用しており、kenは[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")のみ弾いている。
-        ライブでは、ギターソロの[パートを](https://ja.wikipedia.org/wiki/声部 "wikilink")6弦ベースとピッチシフターで代用し演奏している。
+        tetsuyaが作詞した本作唯一の楽曲。tetsuya曰く「2002年にニューヨークで[ノー・ダウト](../Page/ノー・ダウト.md "wikilink")のライブを観て、そこから影響を受けて作った\[24\]」という。
+        tetsuyaはこの曲において、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[6弦ベース](../Page/6弦ベース.md "wikilink")、[ギター](../Page/ギター.md "wikilink")[ソロを担当している](../Page/ソロ_\(音楽\).md "wikilink")。ギターソロは、tetsuyaが弾いた[デモ](https://ja.wikipedia.org/wiki/デモ "wikilink")の段階のものをそのまま使用しており、kenは[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")のみ弾いている。ライブでは、ギターソロの[パートを](https://ja.wikipedia.org/wiki/声部 "wikilink")6弦ベースとピッチシフターで代用し演奏している。
         [2016年](../Page/2016年.md "wikilink")にはTETSUYAがソロシングル「[Time goes on 〜泡のように〜](https://ja.wikipedia.org/wiki/Time_goes_on_〜泡のように〜 "wikilink")」というタイトルでセルフカバーした。
 6.  **Coming Closer**
       - 作詞:hyde / 英語訳詞:Lynne Hobday / 作曲:ken / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
-        この曲は[環境破壊](https://ja.wikipedia.org/wiki/環境破壊 "wikilink")がテーマであり、歌詞中の「君」とは[地球](https://ja.wikipedia.org/wiki/地球 "wikilink")のことだとhydeは語っている。
-        ken曰く「[欧州のほうの](../Page/ヨーロッパ.md "wikilink")[民謡](../Page/民謡.md "wikilink")を意識した」という。また、「yukihiroのドラムに対する"当て書き"なところもあった\[21\]」とも述べている。
+        歌詞は[環境破壊](https://ja.wikipedia.org/wiki/環境破壊 "wikilink")をテーマとしており、歌詞中の「君」とは[地球](https://ja.wikipedia.org/wiki/地球 "wikilink")のことを指しているとhydeは語っている。
+        ken曰く「[欧州のほうの](../Page/ヨーロッパ.md "wikilink")[民謡](../Page/民謡.md "wikilink")を意識した」という。また、「yukihiroがこのドラムのフレーズを叩いてるところを想像しながら作っていったんですよ。彼ののドラムに対する"当て書き"なところもあった\[25\]」と述べている。
 7.  **永遠**
       - 作詞・作曲:hyde / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
-        アルバムレコーディング中に設けられた作曲期間にhydeが3日でデモを制作した楽曲。作曲期間の10日のうち7日間がソロのプロモーションで埋まってしまい、hydeは「この3日で作らないとシバかれると思った\[22\]」と述べている。
-        kenは「ギターの弦6本を掻き毟って弾こうって気分になった曲\[23\]」と語っている。また、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")には[エコーがかかっている](../Page/エコー_\(音響機器\).md "wikilink")。
+        アルバムレコーディング中に設けられた作曲期間にhydeが3日でデモを制作した楽曲。作曲期間の10日のうち7日間がソロのプロモーションで埋まってしまい、hydeは「この3日で作らないとシバかれると思った\[26\]」と述べている。
+        kenは「ギターの弦6本を掻き毟って弾こうって気分になった曲\[27\]」と語っている。また、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")には[エコーがかかっている](../Page/エコー_\(音響機器\).md "wikilink")。
         [2019年](../Page/2019年.md "wikilink")に行われたHYDEのソロアコースティックライブ「HYDE ACOUSTIC CONCERT 2019 黒ミサ BIRTHDAY EVE」において、40代最後の演奏楽曲として披露された。
 8.  **REVELATION**
       - 作詞:hyde / 作曲:[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink") / 編曲:L'Arc〜en〜Ciel & Hajime Okano
@@ -74,20 +77,21 @@
       -
         本作唯一のyukihiro作曲の楽曲だが、[メロディ](../Page/メロディ.md "wikilink")はhydeが制作している。メンバー4人とプロデューサーの[岡野ハジメ](../Page/岡野ハジメ.md "wikilink")、所属事務所の代表である大石征裕がコーラスを担当。
         歌詞中の「42ヶ月の永遠」「十の王冠」とは、[新約聖書](../Page/新約聖書.md "wikilink")の「[ヨハネ黙示録](https://ja.wikipedia.org/wiki/ヨハネ黙示録 "wikilink")」に由来する。真意の程は定かではないが、「十の王冠」は活動再開前までのオリコン週間シングルチャートの首位獲得回数、「42ヶ月間」は活動休止の期間と同じである。
-        yukihiro作曲の曲では「trick」とならびライブで頻繁に演奏される定番曲となっており、メンバーがパートを変えて演奏することもある。[2017年](../Page/2017年.md "wikilink")に行われたライブ「[25th L'Anniversary LIVE](https://ja.wikipedia.org/wiki/25th_L'Anniversary_LIVE "wikilink")」では、tetsuyaとyukihiroがギターを、hydeとkenがスタンディングで[スチールドラムを演奏している](../Page/スティールパン.md "wikilink")\[24\]。
+        yukihiro作曲の曲では「trick」とならびライブで頻繁に演奏される定番曲となっており、メンバーがパートを変えて演奏することもある。[2017年](../Page/2017年.md "wikilink")に行われたライブ「[25th L'Anniversary LIVE](https://ja.wikipedia.org/wiki/25th_L'Anniversary_LIVE "wikilink")」では、tetsuyaとyukihiroがギターを、hydeとkenがスタンディングで[スチールドラムを演奏している](../Page/スティールパン.md "wikilink")\[28\]。
         yukihiroのソロバンド[acid androidのシングル](https://ja.wikipedia.org/wiki/acid_android "wikilink")「[let's dance](https://ja.wikipedia.org/wiki/let's_dance "wikilink")」に収録されている「it's a fine day」はこの楽曲を大々的にセルフサンプリングしている。
 9.  **[瞳の住人](../Page/瞳の住人.md "wikilink")**
       - 作詞:hyde / 作曲:tetsu / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
-        23rdシングル。アルバムに先行し発売された。先行シングルの表題曲に選ばれた経緯について、tetsuyaは「レコード会社の社長から"ぜひこれで！"と強く言われたから\[25\]」「売る方のそういう気持ちってのも大事だと思うから、それを尊重したいと思った\[26\]」と述べている。kenはこの曲と「READY STEADY GO」がシングルの表題曲に選ばれたことについて、「アルバムの中の極端なところ、バリエーションを感じさせるのにいい抽出の仕方だなって感じです\[27\]」と述べている。
-        ベストアルバム『[Clicked Singles Best 13](../Page/Clicked_Singles_Best_13.md "wikilink")』に収録された「Anemone」と同時期に一部レコーディングされており、kenは「ボーカル録りとミックスを待つかたちで置いておかれた曲」と述べている。
+        23rdシングル。アルバムに先行し発売された。先行シングルの表題曲に選ばれた経緯について、tetsuyaは「レコード会社の社長から"ぜひこれで！"と強く言われたから\[29\]」「売る方のそういう気持ちってのも大事だと思うから、それを尊重したいと思った\[30\]」と述べている。kenはこの曲と「READY STEADY GO」がシングルの表題曲に選ばれたことについて、「アルバムの中の極端なところ、バリエーションを感じさせるのにいい抽出の仕方だなって感じです\[31\]」と述べている。
+        tetsuyaは楽曲制作の経緯について「[夢](../Page/夢.md "wikilink")の中でサビの[メロディ](../Page/メロディ.md "wikilink")が出て来た\[32\]」と述べている。また、ベストアルバム『[Clicked Singles Best 13](../Page/Clicked_Singles_Best_13.md "wikilink")』に収録された「Anemone」と同時期にレコーディングされており、ボーカル以外は3年前に録り終えた音がほぼ全て採用されている。kenは「（3年前に）色んなアイデアを散々コラージュみたいに入れちゃってて、もう一回やり直そうにも何をどれだけ入れたかわからないぐらい入れてた（笑）こういう作り方も滅多にないことだし、それを逆にミックスするときにコラージュするみたいに出し入れするのもいいかなと思って、そのままにしましたね\[33\]」「今回はわりとストレートなアルバムで、音像もそんなに変わらずにギターがずっと居たりするので、この曲で入れ替わる様を見せれてもいいなと思ってましたね。今録ると多分ギターは一本でずっと弾ききって、こういうアイデアにはならないと思うので\[34\]」と述べている。
 10. **[Spirit dreams inside](../Page/Spirit_dreams_inside_-another_dream-.md "wikilink")**
       - 作詞・作曲:hyde / 英語訳詞:Lynne Hobday / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
         21stシングル「Spirit dreams inside -another dream-」のカップリングに収録された全英語詞バージョンである。
         [タイアップ](../Page/タイアップ.md "wikilink")の[ギャガ](../Page/ギャガ.md "wikilink")＝ヒューマックス配給映画『[FINAL FANTASY](../Page/ファイナルファンタジー_\(映画\).md "wikilink")』の主題歌にはこちらのバージョンが使用された。
+        ken曰く「「接吻」で始まって過去から現在に戻っていって、また過去にぐるっと回って一周するような面白いストーリーが出来たんで、この位置での収録になった\[35\]」という。
 11. **READY STEADY GO (hydeless version)**
       -
         米国盤のみの[ボーナストラック](https://ja.wikipedia.org/wiki/ボーナストラック "wikilink")。
@@ -266,18 +270,26 @@
 10.
 11. [HYDEをかたち作った6枚](http://rollingstonejapan.com/articles/detail/25364/3/1/1) - RollingStone
 12.
-13. 『WORDS L'Arc〜en〜Ciel』、p.34、角川書店、2005年
-14. 『newsmaker』、p.36、ぴあ、2004年4月号
-15.
-16.
+13.
+14. 『BASS MAGAZINE』2004年5月号、リットーミュージック
+15. 『WORDS L'Arc〜en〜Ciel』、p.34、角川書店、2005年
+16. 『newsmaker』、p.36、ぴあ、2004年4月号
 17.
-18. キューンFM『キューン兄弟』2004年4月8日放送
-19. 『WORDS L'Arc〜en〜Ciel』、p.30-p.31、角川書店、2005年
-20.
-21. [Interview with ken](http://ent2.excite.co.jp/music/special/2010/larc-en-ciel/interview_ken.html) - exciteMUSIC
-22. ラジオ番組『[ラジアンリミテッドDX](https://ja.wikipedia.org/wiki/ラジアンリミテッドDX "wikilink")』[2004年](../Page/2004年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")放送回より。
+18.
+19.
+20. キューンFM『キューン兄弟』2004年4月8日放送
+21.
+22. 『WORDS L'Arc〜en〜Ciel』、p.30-p.31、角川書店、2005年
 23.
-24. [【詳細レポート】L'Arc-en-Ciel、＜25th L'Anniversary LIVE＞初日「L'edの輝きには君たちの想いが溢れていました」](https://www.barks.jp/news/?id=1000140745) - BARKS
-25. 『newsmaker』、p.32、ぴあ、2004年4月号
-26.
-27. 『newsmaker』、p.26、ぴあ、2004年4月号
+24. [TETSUYA「Make a Wish」「Time goes on ～泡のように～」インタビュー](https://natalie.mu/music/pp/tetsuya05/page/2) - ナタリー
+25. [Interview with ken](http://ent2.excite.co.jp/music/special/2010/larc-en-ciel/interview_ken.html) - exciteMUSIC
+26. ラジオ番組『[ラジアンリミテッドDX](https://ja.wikipedia.org/wiki/ラジアンリミテッドDX "wikilink")』[2004年](../Page/2004年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")放送回より。
+27.
+28. [【詳細レポート】L'Arc-en-Ciel、＜25th L'Anniversary LIVE＞初日「L'edの輝きには君たちの想いが溢れていました」](https://www.barks.jp/news/?id=1000140745) - BARKS
+29. 『newsmaker』、p.32、ぴあ、2004年4月号
+30.
+31. 『newsmaker』、p.26、ぴあ、2004年4月号
+32.
+33.
+34.
+35.

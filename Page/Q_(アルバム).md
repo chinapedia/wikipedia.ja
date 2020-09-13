@@ -39,7 +39,7 @@
 4.  **スロースターター** \[3:14\]
       -
         仮タイトルは「**ジュビ研・炎のテーマ**」で、メンバーが所属するサッカーチーム「ジュビ研」のゴールシーンで流れる曲というコンセプトで制作された\[2\]。
-5.  **Surrender** \[3:40\]
+5.  **[Surrender](../Page/I'LL_BE_\(Mr.Childrenの曲\).md "wikilink")** \[3:40\]
       -
         17thシングル「[I'LL BE](../Page/I'LL_BE_\(Mr.Childrenの曲\).md "wikilink")」のカップリング曲。
         表記は無いが、冒頭に[鈴木英哉](../Page/鈴木英哉.md "wikilink")のカウントが入っている為、アルバムバージョンである。
@@ -90,6 +90,78 @@
   - Catherine Russell：Chorus (\#12)
   - Ada Dyer：Chorus (\#12)
   - Sandra Park Strings：Strings (\#2,\#3,\#6,\#13)
+
+## ライブ映像作品
+
+**CENTER OF UNIVERSE**
+
+| 作品名                                                                                                                                                              | 備考 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
+| [Mr.Children Concert Tour Q 2000-2001](../Page/Mr.Children_Concert_Tour_Q_2000-2001.md "wikilink")                                                               |    |
+| [wonederful world on DEC 21](https://ja.wikipedia.org/wiki/wonederful_world_on_DEC_21 "wikilink")                                                                |    |
+| [ap bank fes '05](https://ja.wikipedia.org/wiki/ap_bank_fes_'05 "wikilink")                                                                                      |    |
+| [MR.CHILDREN DOME TOUR 2005 "I ♥ U" 〜FINAL IN TOKYO DOME〜](https://ja.wikipedia.org/wiki/MR.CHILDREN_DOME_TOUR_2005_"I_LOVE_U"_〜FINAL_IN_TOKYO_DOME〜 "wikilink") |    |
+| [Mr.Children "HOME" TOUR 2007](../Page/Mr.Children_"HOME"_TOUR_2007.md "wikilink")                                                                               |    |
+| [Mr.Children "HOME" TOUR 2007 -in the field-](https://ja.wikipedia.org/wiki/Mr.Children_"HOME"_TOUR_2007_-in_the_field- "wikilink")                              |    |
+| [Mr.Children STADIUM TOUR 2011 SENSE -in the field-](https://ja.wikipedia.org/wiki/Mr.Children_STADIUM_TOUR_2011_SENSE_-in_the_field- "wikilink")                |    |
+| \[\[Mr.Children［(an_imitation)_blood_orange］Tour|Mr.Children \[(an imitation) blood orange\] Tour\]\]                                                         |    |
+| [Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")            |    |
+
+**その向こうへ行こう**
+
+| 作品名                                                                                                | 備考 |
+| -------------------------------------------------------------------------------------------------- | -- |
+| [Mr.Children Concert Tour Q 2000-2001](../Page/Mr.Children_Concert_Tour_Q_2000-2001.md "wikilink") |    |
+
+**NOT FOUND** ** **スロースターター**
+
+| 作品名                                                                                                | 備考 |
+| -------------------------------------------------------------------------------------------------- | -- |
+| [Mr.Children Concert Tour Q 2000-2001](../Page/Mr.Children_Concert_Tour_Q_2000-2001.md "wikilink") |    |
+
+**Surrender** ** **つよがり**
+
+| 作品名                                                                                                                       | 備考 |
+| ------------------------------------------------------------------------------------------------------------------------- | -- |
+| [Mr.Children Concert Tour Q 2000-2001](../Page/Mr.Children_Concert_Tour_Q_2000-2001.md "wikilink")                        |    |
+| [wonederful world on DEC 21](https://ja.wikipedia.org/wiki/wonederful_world_on_DEC_21 "wikilink")                         |    |
+| [Mr.Children Tour 2009 〜終末のコンフィデンスソングス〜](https://ja.wikipedia.org/wiki/Mr.Children_Tour_2009_〜終末のコンフィデンスソングス〜 "wikilink") |    |
+
+**十二月のセントラルパークブルース**
+
+| 作品名                                                                                                | 備考          |
+| -------------------------------------------------------------------------------------------------- | ----------- |
+| [Mr.Children Concert Tour Q 2000-2001](../Page/Mr.Children_Concert_Tour_Q_2000-2001.md "wikilink") | キーを下げて演奏された |
+
+**友とコーヒーと嘘と胃袋**
+
+| 作品名                                                                                                | 備考 |
+| -------------------------------------------------------------------------------------------------- | -- |
+| [Mr.Children Concert Tour Q 2000-2001](../Page/Mr.Children_Concert_Tour_Q_2000-2001.md "wikilink") |    |
+
+**ロードムービー**
+
+| 作品名                                                                                                                                                                       | 備考 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
+| [Mr.Children Concert Tour Q 2000-2001](../Page/Mr.Children_Concert_Tour_Q_2000-2001.md "wikilink")                                                                        |    |
+| [Mr.Children DOME TOUR 2009 〜SUPERMARKET FANTASY〜 IN TOKYO DOME](https://ja.wikipedia.org/wiki/Mr.Children_DOME_TOUR_2009_〜SUPERMARKET_FANTASY〜_IN_TOKYO_DOME "wikilink") |    |
+| [Mr.Children Dome Tour 2019 Against All GRAVITY](../Page/Mr.Children_Dome_Tour_2019_Against_All_GRAVITY.md "wikilink")                                                    |    |
+
+**Everything is made from a dream**
+
+| 作品名                                                                                                                                               | 備考          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [Mr.Children Concert Tour Q 2000-2001](../Page/Mr.Children_Concert_Tour_Q_2000-2001.md "wikilink")                                                | キーを下げて演奏された |
+| [ap bank fes '05](https://ja.wikipedia.org/wiki/ap_bank_fes_'05 "wikilink")                                                                       |             |
+| [Mr.Children STADIUM TOUR 2011 SENSE -in the field-](https://ja.wikipedia.org/wiki/Mr.Children_STADIUM_TOUR_2011_SENSE_-in_the_field- "wikilink") |             |
+
+**口笛** ** **Hallelujah**
+
+| 作品名                                                                                                                                                              | 備考          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [Mr.Children Concert Tour Q 2000-2001](../Page/Mr.Children_Concert_Tour_Q_2000-2001.md "wikilink")                                                               | キーを下げて演奏された |
+| [Mr.Children CONCERT TOUR POPSAURUS 2001](../Page/Mr.Children_CONCERT_TOUR_POPSAURUS_2001.md "wikilink")                                                         |             |
+| [MR.CHILDREN DOME TOUR 2005 "I ♥ U" 〜FINAL IN TOKYO DOME〜](https://ja.wikipedia.org/wiki/MR.CHILDREN_DOME_TOUR_2005_"I_LOVE_U"_〜FINAL_IN_TOKYO_DOME〜 "wikilink") | キーを下げて演奏された |
 
 ## 脚注
 

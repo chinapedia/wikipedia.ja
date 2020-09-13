@@ -826,7 +826,7 @@ L⇔Rのアルバム『<a href="https://ja.wikipedia.org/wiki/Let_me_Roll_it!" t
 
   - [タナカユキミインフォ](http://tanakayukimi.info/)（[田中有紀美](../Page/田中有紀美.md "wikilink") Official Website）
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:過去のフォスター所属者](https://ja.wikipedia.org/wiki/Category:過去のフォスター所属者 "wikilink")
+[Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:過去のフォスター所属者](https://ja.wikipedia.org/wiki/Category:過去のフォスター所属者 "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
 
 1.  「アイドル黄金時代大名鑑」グラフィック社、2002年3月25日発行
 2.  「[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")」日経BP社、2013年11月号 No.200

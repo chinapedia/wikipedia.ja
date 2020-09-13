@@ -33,8 +33,8 @@
 
 ## 外部リンク
 
-  - [Marron](http://www.marron.nu/index.html)
-  - [MarronWiki](http://www.sue445.net/wiki/index.php)
-  - [Marronオンリー同人誌即売会 クリケット](http://www.cricket.gr.jp/index.shtml)
+  - [Marron](https://web.archive.org/web/20161009153029/http://www.marron.nu/)（2016年10月9日時点の[アーカイブ](https://ja.wikipedia.org/wiki/archive.is "wikilink")）
+  - [MarronWiki](https://web.archive.org/web/20161118063326/http://www.sue445.net/wiki/index.php)（2016年11月18日時点の[アーカイブ](https://ja.wikipedia.org/wiki/archive.is "wikilink")）
+  - [Marronオンリー同人誌即売会 クリケット](https://web.archive.org/web/20160331170721/http://www.cricket.gr.jp/index.shtml)（2016年3月31日時点の[アーカイブ](https://ja.wikipedia.org/wiki/archive.is "wikilink")）
 
 [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink")

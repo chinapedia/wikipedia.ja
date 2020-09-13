@@ -791,6 +791,5 @@
 
 ## 外部リンク
 
-  - [日本テレビ内『Gの嵐\!』公式サイト](http://www.ntv.co.jp/arashi/g/)
-
+  -
 [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink") [Category:日本テレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビの深夜番組の歴史 "wikilink") [Category:日本テレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビのバラエティ番組の歴史 "wikilink") [Category:嵐_(ジャニーズ)](https://ja.wikipedia.org/wiki/Category:嵐_\(ジャニーズ\) "wikilink") [Category:ジャニーズ関連の放送番組](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連の放送番組 "wikilink")

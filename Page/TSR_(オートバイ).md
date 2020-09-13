@@ -472,22 +472,8 @@
 </tr>
 <tr class="odd">
 <td><p>第4戦　<br />
-ボルドール24時間耐久<br />
-(2020　9/19-20)</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>第5戦　<br />
-鈴鹿8時間耐久<br />
-(2020　11/1)</p></td>
+<a href="../Page/エストリル・サーキット.md" title="wikilink">エストリル</a>12時間耐久<br />
+(2020　9/27)</p></td>
 <td></td>
 <td></td>
 <td></td>

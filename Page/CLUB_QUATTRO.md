@@ -26,7 +26,7 @@
 
 #### 梅田CLUB QUATTRO
 
-[CLUB_QUATTRO_UMEDA_at_night.JPG](https://ja.wikipedia.org/wiki/File:CLUB_QUATTRO_UMEDA_at_night.JPG "fig:CLUB_QUATTRO_UMEDA_at_night.JPG")
+[Umeda_CLUB_QUATTRO.jpg](https://ja.wikipedia.org/wiki/File:Umeda_CLUB_QUATTRO.jpg "fig:Umeda_CLUB_QUATTRO.jpg")
 
   - オープン：[2012年](../Page/2012年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")
   - 所在地：[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[北区太融寺町](../Page/北区_\(大阪市\).md "wikilink")　[プラザ梅田](https://ja.wikipedia.org/wiki/梅田ピカデリー "wikilink")10階

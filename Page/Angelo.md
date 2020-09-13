@@ -61,7 +61,7 @@
 
 2019年11月6日、アルバム『FAUST』発売。このアルバムは[ゲーテの](../Page/ヨハン・ヴォルフガング・フォン・ゲーテ.md "wikilink")[戯曲](../Page/戯曲.md "wikilink")、[ファウストをモチーフにして作成された](../Page/ファウスト_\(ゲーテ\).md "wikilink")。
 
-2020年、5月から6月にかけて予定していたAngelo Tour 2020「Mephisto Rebellion」及び6月から7月にかけて予定していたAngelo「THE BRANCHED WORLD LINE」が[新型コロナウィルス感染拡大防止のため開催中止となった](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")。 それを受けて6月7日にAngelo -Acoustic Live Streaming「NEOPHASE」-を有料配信予定。
+2020年、5月から6月にかけて予定していたAngelo Tour 2020「Mephisto Rebellion」及び6月から7月にかけて予定していたAngelo「THE BRANCHED WORLD LINE」が[新型コロナウイルス感染拡大防止のため開催中止となった](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")。 それを受けて「NEOPHASE」と冠し6月にアコースティックライブ、7月に通常のバンド形態でのライブが有料生配信が行われた。 また、[ソーシャルディスタンスに配慮し完全着席](../Page/社会距離拡大戦略.md "wikilink")・発声禁止・拍手禁止が徹底された東名阪アコースティックライブツアーを開催され、こちらも有料生配信された\[18\]。
 
 ## 作品
 
@@ -1178,7 +1178,7 @@
 #### DOGMATIC PARTY
 
 毎年夏に「DOGMATIC PARTY」と冠したファンクラブ主催ライブを開催。
-2016年は「DOGMATIC PARTY」ではなく「THE CHAIN OF GROWTH」と冠したワンマン３デイズライブが開催された。
+2016年は「DOGMATIC PARTY」ではなく「THE CHAIN OF GROWTH」と冠したワンマン3デイズライブが開催された。
 
 | 日程             | タイトル                                                                      | 会場                                                 |
 | -------------- | ------------------------------------------------------------------------- | -------------------------------------------------- |
@@ -1481,17 +1481,36 @@
 <tr class="even">
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p>　</p></td>
-<td><p><a href="../Page/新型コロナウイルス感染症の流行_(2019年-).md" title="wikilink">新型コロナウィルス感染拡大防止のため開催中止</a></p></td>
+<td></td>
+<td><p><a href="../Page/新型コロナウイルス感染症の流行_(2019年-).md" title="wikilink">新型コロナウイルス感染拡大防止のため開催中止</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><strong>　　</strong></p></td>
-<td><p>　</p></td>
-<td><p>　　<a href="../Page/新型コロナウイルス感染症の流行_(2019年-).md" title="wikilink">新型コロナウィルス感染拡大防止のため開催中止</a></p></td>
+<td><p>'''  '''</p></td>
+<td></td>
+<td><p><a href="../Page/新型コロナウイルス感染症の流行_(2019年-).md" title="wikilink">新型コロナウイルス感染拡大防止のため開催中止</a></p></td>
+</tr>
+<tr class="even">
+<td><p>7月18日 - 8月2日</p></td>
+<td><p>'''Angelo Acoustic Live circuit &amp; Streaming「NEOPHASE Ⅲ - The quantum method -」 '''</p></td>
+<td><p>東名阪3ヶ所3公演</p></td>
+<td><p>アコースティックライブツアー。ZAIKOにて生配信。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
+
+### ライブ配信
+
+| 日程        | タイトル                                                                | 会場        | 備考                      |
+| --------- | ------------------------------------------------------------------- | --------- | ----------------------- |
+| 2020年6月7日 | '''Angelo -Acoustic Live Streaming「NEOPHASE」- '''                   | リハーサルスタジオ | アコースティックライブ。ZAIKOにて生配信。 |
+| 2020年7月5日 | **Angelo Studio Live Streaming「NEOPHASE Ⅱ - The switched world -」** | リハーサルスタジオ | 通常ライブ。ZAIKOにて生配信。       |
 
 ### ゲスト出演ライブ
 
@@ -1540,3 +1559,4 @@
 15.
 16.
 17.
+18.

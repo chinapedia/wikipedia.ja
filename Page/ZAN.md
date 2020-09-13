@@ -64,4 +64,4 @@
   - [ZAN OFFICIAL SITE](http://www.rhythmzone.net/zan/)
   - [Kominato official website](http://www.kominato.com/) - 小湊昭尚HP
 
-[Category:日本の伝統音楽](https://ja.wikipedia.org/wiki/Category:日本の伝統音楽 "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:日本民謡系グループ](https://ja.wikipedia.org/wiki/Category:日本民謡系グループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink")
+[Category:日本の伝統音楽](https://ja.wikipedia.org/wiki/Category:日本の伝統音楽 "wikilink") [Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:日本民謡系グループ](https://ja.wikipedia.org/wiki/Category:日本民謡系グループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink")

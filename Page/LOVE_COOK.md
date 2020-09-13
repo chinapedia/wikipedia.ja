@@ -65,7 +65,9 @@
 
 ## 脚注
 
-<references />
+### 注釈
+
+### 出典
 
 [Category:大塚愛のアルバム](https://ja.wikipedia.org/wiki/Category:大塚愛のアルバム "wikilink") [Category:2005年のアルバム](https://ja.wikipedia.org/wiki/Category:2005年のアルバム "wikilink") [Category:2005年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2005年のオリコンアルバムチャート1位獲得作品 "wikilink")
 

@@ -5,7 +5,7 @@
 
 ## 人物
 
-優しく透明感のある歌声と穏やかで切ない歌詞、メロディを武器に、ソロとして[Dragon Ash](../Page/Dragon_Ash.md "wikilink")、[Steady\&Co.](../Page/Steady&Co..md "wikilink")、[スネオヘアー](../Page/スネオヘアー.md "wikilink")、[SOFFet](../Page/SOFFet.md "wikilink")、[MOOMIN](https://ja.wikipedia.org/wiki/MOOMIN "wikilink")など、さまざまなアーティストの楽曲のフィーチャリングボーカルとして起用される\[4\]。
+優しく透明感のある歌声と穏やかで切ない歌詞、メロディを武器に、ソロとして[GLAY](../Page/GLAY.md "wikilink")、[Dragon Ash](../Page/Dragon_Ash.md "wikilink")、[Steady\&Co.](../Page/Steady&Co..md "wikilink")、[スネオヘアー](../Page/スネオヘアー.md "wikilink")、[SOFFet](../Page/SOFFet.md "wikilink")、[MOOMIN](https://ja.wikipedia.org/wiki/MOOMIN "wikilink")など、さまざまなアーティストの楽曲のフィーチャリングボーカルとして起用される\[4\]。
 
 フェイバリット・アーティストは[エラ・フィッツジェラルド](../Page/エラ・フィッツジェラルド.md "wikilink")、[カサンドラ・ウィルソン](../Page/カサンドラ・ウィルソン.md "wikilink")、[ハービー・ハンコック](../Page/ハービー・ハンコック.md "wikilink")、[タック&パティ](../Page/タック&パティ.md "wikilink")、[ジョニ・ミッチェル](../Page/ジョニ・ミッチェル.md "wikilink")、[ビョーク](https://ja.wikipedia.org/wiki/ビョーク "wikilink")\[5\]。
 
@@ -159,7 +159,7 @@
 </div>
 </div></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ランブリング・レコーズ" title="wikilink">Rambling RECORDS</a></p></td>
-<td><p>「ジムノペディ」や「威風堂々」のような<a href="../Page/クラシック.md" title="wikilink">クラシック</a>や<a href="../Page/映画音楽.md" title="wikilink">映画音楽</a>に自作詞を付けて披露するというコンセプト。</p></td>
+<td><p>「ジムノペディ」や「威風堂々」のような<a href="../Page/クラシック音楽.md" title="wikilink">クラシックや</a><a href="../Page/映画音楽.md" title="wikilink">映画音楽</a>に自作詞を付けて披露するというコンセプト。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/カバーアルバム" title="wikilink">カバーアルバム</a></p></td>
@@ -232,27 +232,33 @@
 
 ### 参加作品
 
-| アーティスト名                                                                                                        | 収録作品                                                                              | 発売日                                         | 参加曲                                                                      |
-| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------ |
-| [MOOMIN](https://ja.wikipedia.org/wiki/MOOMIN "wikilink")                                                      | 『GET HERE』                                                                        | 2001年5月23日                                  | 9\. Kissing You \[4:58\]/ ヴォーカルで参加。                                      |
-| [Steady\&Co.](../Page/Steady&Co..md "wikilink")                                                                | 『[CHAMBERS](https://ja.wikipedia.org/wiki/CHAMBERS_\(アルバム\) "wikilink")』          | 2001年11月28日                                 | 11\. Only Holy Story featuring azumi from wyolica \[5:10\]/ 作詞とヴォーカルで参加。 |
-| [スネオヘアー](../Page/スネオヘアー.md "wikilink")                                                                         | 「悲しみロックフェスティバル」                                                                   | 2005年11月23日                                 | 1\. happy end/ ヴォーカルで参加。                                                 |
-| 『[カナシミ](https://ja.wikipedia.org/wiki/カナシミ "wikilink")』                                                        | 2005年12月7日                                                                        | 3\. 悲しみロックフェスティバル（album version）/ ヴォーカルで参加。 |                                                                          |
-| [Tama](../Page/Tama_\(ベーシスト\).md "wikilink")（元[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")） | 『[Great Pleasure](../Page/Great_Pleasure.md "wikilink")』                          | 2005年12月21日                                 | 4\. Fuzz Butterfly feat.azumi/ 作詞とヴォーカルで参加。                              |
-| [SOFFet](../Page/SOFFet.md "wikilink")                                                                         | 「Love Story」                                                                      | 2007年11月14日                                 | 1\. Love Story/ ヴォーカルで参加。                                                |
-| 『[NEW STANDARD](https://ja.wikipedia.org/wiki/NEW_STANDARD_\(アルバム\) "wikilink")』                               | 2008年2月27日                                                                        | 12\. Love Story/ ヴォーカルで参加。                  |                                                                          |
-| [FLOW](../Page/FLOW.md "wikilink")                                                                             | 『[アイル](https://ja.wikipedia.org/wiki/アイル_\(アルバム\) "wikilink")』                    | 2008年3月18日                                  | 8\. 陽だまり feat.azumi from wyolica \[5:00\]/ 作詞とヴォーカルで参加。                  |
-| [DJ No.2](https://ja.wikipedia.org/wiki/LGYankees#メンバー "wikilink")                                             | 『2番の美学』                                                                           | 2010年6月9日                                   | 9\. 木漏れ日の中で… feat.GIO,Azumi from Wyolica \[5:53\]                        |
-| STAR GUiTAR                                                                                                    | 『Carbon Copy』                                                                     | 2011年1月7日                                   | 9\. Brain Function feat. Azumi from wyolica/ ヴォーカルで参加。                   |
-| [KG](https://ja.wikipedia.org/wiki/KG_\(歌手\) "wikilink")                                                       | 『[Still Goes On....](https://ja.wikipedia.org/wiki/Still_Goes_On.... "wikilink")』 | 2011年9月28日                                  | 13\. I will be there duet with Azumi                                     |
-| Fencer                                                                                                         | 『Rip Current』                                                                     | 2012年6月6日                                   | 7\. Humming Boat feat.Azumi from wyolica \[3:45\]                        |
-| [NaotoHiroki\&Karatesystems](https://ja.wikipedia.org/wiki/NaotoHiroki&Karatesystems "wikilink")               | 『Travel Sounds』                                                                   | 2013年9月4日                                   | 9\. stars feat. Frankie Paul, Azumi                                      |
+| アーティスト名                                                                                                        | 収録作品                                                                              | 発売日                                         | 参加曲                                                                                                                                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [MOOMIN](https://ja.wikipedia.org/wiki/MOOMIN "wikilink")                                                      | 『GET HERE』                                                                        | 2001年5月23日                                  | 9\. Kissing You \[4:58\]/ ヴォーカルで参加。                                                                                                                                                                                                        |
+| [Steady\&Co.](../Page/Steady&Co..md "wikilink")                                                                | 『[CHAMBERS](https://ja.wikipedia.org/wiki/CHAMBERS_\(アルバム\) "wikilink")』          | 2001年11月28日                                 | 11\. [Only Holy Story](https://ja.wikipedia.org/wiki/Only_Holy_Story "wikilink") featuring [azumi](https://ja.wikipedia.org/wiki/azumi "wikilink") from [wyolica](https://ja.wikipedia.org/wiki/wyolica "wikilink") \[5:10\]/ 作詞とヴォーカルで参加。 |
+| [スネオヘアー](../Page/スネオヘアー.md "wikilink")                                                                         | 「悲しみロックフェスティバル」                                                                   | 2005年11月23日                                 | 1\. happy end/ ヴォーカルで参加。                                                                                                                                                                                                                   |
+| 『[カナシミ](https://ja.wikipedia.org/wiki/カナシミ "wikilink")』                                                        | 2005年12月7日                                                                        | 3\. 悲しみロックフェスティバル（album version）/ ヴォーカルで参加。 |                                                                                                                                                                                                                                            |
+| [Tama](../Page/Tama_\(ベーシスト\).md "wikilink")（元[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")） | 『[Great Pleasure](../Page/Great_Pleasure.md "wikilink")』                          | 2005年12月21日                                 | 4\. Fuzz Butterfly feat.azumi/ 作詞とヴォーカルで参加。                                                                                                                                                                                                |
+| [SOFFet](../Page/SOFFet.md "wikilink")                                                                         | 「Love Story」                                                                      | 2007年11月14日                                 | 1\. Love Story/ ヴォーカルで参加。                                                                                                                                                                                                                  |
+| 『[NEW STANDARD](https://ja.wikipedia.org/wiki/NEW_STANDARD_\(アルバム\) "wikilink")』                               | 2008年2月27日                                                                        | 12\. Love Story/ ヴォーカルで参加。                  |                                                                                                                                                                                                                                            |
+| [FLOW](../Page/FLOW.md "wikilink")                                                                             | 『[アイル](https://ja.wikipedia.org/wiki/アイル_\(アルバム\) "wikilink")』                    | 2008年3月18日                                  | 8\. 陽だまり feat.azumi from wyolica \[5:00\]/ 作詞とヴォーカルで参加。                                                                                                                                                                                    |
+| [DJ No.2](https://ja.wikipedia.org/wiki/LGYankees#メンバー "wikilink")                                             | 『2番の美学』                                                                           | 2010年6月9日                                   | 9\. 木漏れ日の中で… feat.GIO,Azumi from Wyolica \[5:53\]                                                                                                                                                                                          |
+| STAR GUiTAR                                                                                                    | 『Carbon Copy』                                                                     | 2011年1月7日                                   | 9\. Brain Function feat. Azumi from wyolica/ ヴォーカルで参加。                                                                                                                                                                                     |
+| [KG](https://ja.wikipedia.org/wiki/KG_\(歌手\) "wikilink")                                                       | 『[Still Goes On....](https://ja.wikipedia.org/wiki/Still_Goes_On.... "wikilink")』 | 2011年9月28日                                  | 13\. I will be there duet with Azumi                                                                                                                                                                                                       |
+| Fencer                                                                                                         | 『Rip Current』                                                                     | 2012年6月6日                                   | 7\. Humming Boat feat.Azumi from wyolica \[3:45\]                                                                                                                                                                                          |
+| [NaotoHiroki\&Karatesystems](https://ja.wikipedia.org/wiki/NaotoHiroki&Karatesystems "wikilink")               | 『Travel Sounds』                                                                   | 2013年9月4日                                   | 9\. stars feat. Frankie Paul, Azumi                                                                                                                                                                                                        |
+| [GLAY](../Page/GLAY.md "wikilink")                                                                             | 『[NO DEMOCRACY](https://ja.wikipedia.org/wiki/NO_DEMOCRACY "wikilink")』           | 2019年10月2日                                  | 5.氷の翼/コーラスで参加                                                                                                                                                                                                                              |
+| [GLAY](../Page/GLAY.md "wikilink")                                                                             | 『[REVIEW II](https://ja.wikipedia.org/wiki/REVIEW_II "wikilink") -BEST OF GLAY-』  | 2020年3月11日                                  | 3.氷の翼 feat.Azumi(Wyolica)/ゲストボーカルで参加                                                                                                                                                                                                       |
 
 ## 主な出演
 
 ### 映画
 
   - 「函館珈琲」（2016年9月24日） - 藤村佐和 役\[23\]
+
+### ドラマ　
+
+  - 「異世界居酒屋「のぶ」」（2020年6月26日） - 教会シンガー 役
 
 ### ラジオ
 
@@ -274,6 +280,7 @@
 
 ### ナレーション
 
+  - [虎ノ門](../Page/虎ノ門.md "wikilink")・[麻布台プロジェクト](https://ja.wikipedia.org/wiki/麻布台プロジェクト "wikilink") コンセプトムービー｜都市に生きるhttps://youtu.be/AGo7V_muPm4
   - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")「[畑のうた](https://ja.wikipedia.org/wiki/畑のうた "wikilink")」（2009年）
   - [JAL機内放送](../Page/日本航空.md "wikilink")（2009年）
   - [森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")「[ICE BOX](https://ja.wikipedia.org/wiki/ICE_BOX "wikilink")」（2010年）
@@ -299,7 +306,7 @@
 
 ### 雑誌連載（コラム等）
 
-  - 「すばる」（集英社）「テアトル惑い」連載中
+  - 「[すばる](https://ja.wikipedia.org/wiki/すばる "wikilink")」（[集英社](../Page/集英社.md "wikilink")）「テアトル惑い」連載中
   - [FLOOR net](https://ja.wikipedia.org/wiki/FLOOR_net "wikilink")
   - [FUDGE](https://ja.wikipedia.org/wiki/FUDGE "wikilink")
   - PeeWee
@@ -333,6 +340,7 @@
 
   - [Azumi Official Site](https://azumi.asobisystem.com/)
   - [wyolica公式blog](https://ameblo.jp/wyolica-blog/)
+  - [1](https://www.110107.com/s/oto/page/Wyolica20?ima=0000&oto=ROBO004/wyolicaデビュー20周年特設サイト)
   - [azumi facebook](https://www.facebook.com/azumi.wyolica)
 
 [Category:日本の女性歌手](https://ja.wikipedia.org/wiki/Category:日本の女性歌手 "wikilink") [Category:日本の女性ファッションモデル](https://ja.wikipedia.org/wiki/Category:日本の女性ファッションモデル "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

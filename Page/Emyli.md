@@ -3,8 +3,6 @@
 
 **Emyli**（エミリ、[1988年](../Page/1988年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。
 
-よく間違えられるがEmilyは誤記である。
-
 ## プロフィール
 
 [2003年](../Page/2003年.md "wikilink")[6月](../Page/6月.md "wikilink")、15歳でデビュー。音楽に深く関わる両親のもとに生まれたEmyliは、幼少期から[アメリカンスクール](../Page/アメリカンスクール.md "wikilink")に通い、3歳から[バレエ](../Page/バレエ.md "wikilink")、6歳から[ヒップホップ・ダンスを学び](../Page/ヒップホップ_\(ダンス\).md "wikilink")、11歳で本格的に歌い始めたという。好きな音楽は[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")。敬愛する歌手は[マライア・キャリー](https://ja.wikipedia.org/wiki/マライア・キャリー "wikilink")、[アリシア・キーズ](../Page/アリシア・キーズ.md "wikilink")。

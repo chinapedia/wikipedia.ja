@@ -83,6 +83,58 @@
   - 長田功：Trumpet (\#9)
   - 四家卯大ストリングス：Strings (\#7,\#10,\#11)
 
+## ライブ映像作品
+
+**DISCOVERY**
+
+| 作品名                                                                                    | 備考 |
+| -------------------------------------------------------------------------------------- | -- |
+| [Mr.Children TOUR '99 DISCOVERY](../Page/Mr.Children_TOUR_'99_DISCOVERY.md "wikilink") |    |
+
+**光の射す方へ** ** **Prism** ** **アンダーシャツ**
+
+| 作品名                                                                                    | 備考 |
+| -------------------------------------------------------------------------------------- | -- |
+| [Mr.Children TOUR '99 DISCOVERY](../Page/Mr.Children_TOUR_'99_DISCOVERY.md "wikilink") |    |
+
+**ニシエヒガシエ** ** **Simple**
+
+| 作品名                                                                                                                                                                       | 備考              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [Mr.Children TOUR '99 DISCOVERY](../Page/Mr.Children_TOUR_'99_DISCOVERY.md "wikilink")                                                                                    |                 |
+| [MR.CHILDREN DOME TOUR 2005 "I ♥ U" 〜FINAL IN TOKYO DOME〜](https://ja.wikipedia.org/wiki/MR.CHILDREN_DOME_TOUR_2005_"I_LOVE_U"_〜FINAL_IN_TOKYO_DOME〜 "wikilink")          | 特典映像、弾き語りで演奏された |
+| [ap bank fes '09](https://ja.wikipedia.org/wiki/ap_bank_fes_'09 "wikilink")                                                                                               |                 |
+| [Mr.Children DOME TOUR 2009 〜SUPERMARKET FANTASY〜 IN TOKYO DOME](https://ja.wikipedia.org/wiki/Mr.Children_DOME_TOUR_2009_〜SUPERMARKET_FANTASY〜_IN_TOKYO_DOME "wikilink") | キーを下げて演奏された     |
+| [MR.CHILDREN TOUR POPSAURUS 2012](https://ja.wikipedia.org/wiki/MR.CHILDREN_TOUR_POPSAURUS_2012 "wikilink")                                                               | 特典映像、弾き語りで演奏された |
+| [Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")                     | 弾き語りで演奏された      |
+
+**I'll be**
+
+| 作品名                                                                                                      | 備考 |
+| -------------------------------------------------------------------------------------------------------- | -- |
+| [Mr.Children TOUR '99 DISCOVERY](../Page/Mr.Children_TOUR_'99_DISCOVERY.md "wikilink")                   |    |
+| [Mr.Children CONCERT TOUR POPSAURUS 2001](../Page/Mr.Children_CONCERT_TOUR_POPSAURUS_2001.md "wikilink") |    |
+| [ap bank fes '07](https://ja.wikipedia.org/wiki/ap_bank_fes_'07 "wikilink")                              |    |
+| [ap bank fes '10](https://ja.wikipedia.org/wiki/ap_bank_fes_'10 "wikilink")                              |    |
+
+**ラララ**
+
+| 作品名                                                                                                                                                              | 備考         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [Mr.Children TOUR '99 DISCOVERY](../Page/Mr.Children_TOUR_'99_DISCOVERY.md "wikilink")                                                                           |            |
+| [Mr.Children CONCERT TOUR POPSAURUS 2001](../Page/Mr.Children_CONCERT_TOUR_POPSAURUS_2001.md "wikilink")                                                         |            |
+| [MR.CHILDREN DOME TOUR 2005 "I ♥ U" 〜FINAL IN TOKYO DOME〜](https://ja.wikipedia.org/wiki/MR.CHILDREN_DOME_TOUR_2005_"I_LOVE_U"_〜FINAL_IN_TOKYO_DOME〜 "wikilink") |            |
+| [ap bank fes '08](https://ja.wikipedia.org/wiki/ap_bank_fes_'08 "wikilink")                                                                                      |            |
+| [MR.CHILDREN TOUR POPSAURUS 2012](https://ja.wikipedia.org/wiki/MR.CHILDREN_TOUR_POPSAURUS_2012 "wikilink")                                                      | 弾き語りで演奏された |
+
+**終わりなき旅** ** **Image**
+
+| 作品名                                                                                                       | 備考 |
+| --------------------------------------------------------------------------------------------------------- | -- |
+| [Mr.Children TOUR '99 DISCOVERY](../Page/Mr.Children_TOUR_'99_DISCOVERY.md "wikilink")                    |    |
+| [Mr.Children Tour 2004 シフクノオト](../Page/Mr.Children_Tour_2004_シフクノオト.md "wikilink")                        |    |
+| [ap bank fes '12 Fund for Japan](https://ja.wikipedia.org/wiki/ap_bank_fes_'12_Fund_for_Japan "wikilink") |    |
+
 ## 脚注
 
 [Category:Mr.Childrenのアルバム](https://ja.wikipedia.org/wiki/Category:Mr.Childrenのアルバム "wikilink") [Category:1999年のアルバム](https://ja.wikipedia.org/wiki/Category:1999年のアルバム "wikilink") [Category:小林武史がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:小林武史がプロデュースしたアルバム "wikilink") [Category:1999年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")

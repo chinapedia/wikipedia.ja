@@ -66,7 +66,7 @@
   - 作詞:[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")(\#1, 2, 4 - 7, 11, 12)、[CAPTAIN MOOK](../Page/関口和之.md "wikilink")(\#9)
   - 訳詞:Judith Wanso Atanga(\#5)
   - 作曲:桑田佳祐(\#1 - 8, 10 - 14)、CAPTAIN MOOK(\#9)
-  - 編曲:[柳満夫](https://ja.wikipedia.org/wiki/柳満夫 "wikilink")(\#1, 2, 6, 9 - 11, 13)、[青柳拓次](https://ja.wikipedia.org/wiki/青柳拓次 "wikilink")(\#3 - 5, 12)、[高野寛](../Page/高野寛.md "wikilink")(\#7)、[Noahlewis' Mahlon Taits](https://ja.wikipedia.org/wiki/ノアルイズ・マーロン・タイツ "wikilink")(\#8)、CAPTAIN MOOK(\#14)
+  - 編曲:柳満夫(\#1, 2, 6, 9 - 11, 13)、[青柳拓次](https://ja.wikipedia.org/wiki/青柳拓次 "wikilink")(\#3 - 5, 12)、[高野寛](../Page/高野寛.md "wikilink")(\#7)、Noahlewis' Mahlon Taits(\#8)、CAPTAIN MOOK(\#14)
   - ギター編曲:柳満夫(\#6)
 
 ここでの関口のクレジットは**CAPTAIN MOOK**名義になっているが、原曲では関口和之名義である。

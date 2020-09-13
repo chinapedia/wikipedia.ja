@@ -9,7 +9,7 @@
 
 ### 次世代DVD
 
-[第3世代光ディスク](../Page/第3世代光ディスク.md "wikilink")（当時は「次世代DVD」と呼ばれた）の規格争いで[ソニー](../Page/ソニー.md "wikilink")、[フィリップス](../Page/フィリップス.md "wikilink")、[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")ほか多数企業は「Blu-ray Disc Association」を構成し[Blu-ray Discを策定](../Page/Blu-ray_Disc.md "wikilink")。これに対抗しDVDフォーラムは[HD DVDを策定する](../Page/HD_DVD.md "wikilink")。規格争いの結果、Blu-ray Discが勝利する。このためBlu-ray Discの規格団体『Blu-ray Disc Association』へ事実上移行した。
+[第3世代光ディスク](../Page/第3世代光ディスク.md "wikilink")（当時は「次世代DVD」と呼ばれた）の規格争いで[ソニー](../Page/ソニー.md "wikilink")、[フィリップス](../Page/フィリップス.md "wikilink")、[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")ほか多数企業は『[Blu-ray Disc Association](https://ja.wikipedia.org/wiki/Blu-ray_Disc_アソシエーション "wikilink")』を構成し[Blu-ray Discを策定](../Page/Blu-ray_Disc.md "wikilink")。これに対抗しDVDフォーラムは[HD DVDを策定する](../Page/HD_DVD.md "wikilink")。規格争いの結果、Blu-ray Discが勝利する。このためBlu-ray Discの規格団体『Blu-ray Disc Association』へ事実上移行した。
 
 ## 規格
 
@@ -36,5 +36,6 @@
 ## 関連項目
 
   - [DVDフォーラム](../Page/DVDフォーラム.md "wikilink")
+  - [Blu-ray Disc アソシエーション](https://ja.wikipedia.org/wiki/Blu-ray_Disc_アソシエーション "wikilink")
 
 [Category:DVD](https://ja.wikipedia.org/wiki/Category:DVD "wikilink") [Category:業界団体](https://ja.wikipedia.org/wiki/Category:業界団体 "wikilink") [Category:専門技術団体](https://ja.wikipedia.org/wiki/Category:専門技術団体 "wikilink") [Category:電子媒体](https://ja.wikipedia.org/wiki/Category:電子媒体 "wikilink")

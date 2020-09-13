@@ -87,6 +87,6 @@
 
   - [D.N.ドリームパートナーズ](http://dndp.jp/)
   - [日本テレビ放送網株式会社と業務提携について合意（NTTドコモプレスリリース）](http://www.nttdocomo.co.jp/info/news_release/page/20060209.html)
-  - [株式会社NTTドコモとの放送・通信連携サービスに関する業務提携合意及びコンテンツファンド設立について（日本テレビプレスリリース）](http://www.ntv.co.jp/info/news/272.html)
+  - [株式会社NTTドコモとの放送・通信連携サービスに関する業務提携合意及びコンテンツファンド設立について（日本テレビプレスリリース）](https://www.ntv.co.jp/info/news/272.html)
 
 [Category:NTTドコモ](https://ja.wikipedia.org/wiki/Category:NTTドコモ "wikilink") [Category:日本テレビ放送網](https://ja.wikipedia.org/wiki/Category:日本テレビ放送網 "wikilink")

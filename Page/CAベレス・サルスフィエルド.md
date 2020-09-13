@@ -1,7 +1,7 @@
 > この記事は[CAベレス・サルスフィエルド](https://ja.wikipedia.org/wiki/CAベレス・サルスフィエルド)から翻訳されています。
 
 
-**クルブ・アトレティコ・ベレス・サルスフィエルド** (\[1\]) は、[アルゼンチン](../Page/アルゼンチン.md "wikilink")・[ブエノスアイレス州](../Page/ブエノスアイレス州.md "wikilink")[ブエノスアイレス](../Page/ブエノスアイレス.md "wikilink")を本拠地とする[スポーツクラブ](https://ja.wikipedia.org/wiki/スポーツクラブ "wikilink")である。[スーペルリーガ・アルヘンティーナに所属する](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン_\(アルゼンチン\) "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")部門がよく知られている。
+**クルブ・アトレティコ・ベレス・サルスフィエルド**（\[1\]）は、[アルゼンチン](../Page/アルゼンチン.md "wikilink")・[ブエノスアイレス州](../Page/ブエノスアイレス州.md "wikilink")[ブエノスアイレス](../Page/ブエノスアイレス.md "wikilink")を本拠地とする[スポーツクラブ](https://ja.wikipedia.org/wiki/スポーツクラブ "wikilink")である。[スーペルリーガ・アルヘンティーナに所属する](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン_\(アルゼンチン\) "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")部門がよく知られている。
 
 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:1942VelezRugilo.jpg "wikilink")
 
@@ -27,7 +27,7 @@
 
 ベレスには直接的なライバルが存在しないが、近隣のカバリート地区を本拠地とする[フェロカリル・オエステ](../Page/フェロカリル・オエステ.md "wikilink")とは歴史的にライバル関係にある。彼らとの対戦はクラシコ・デル・オエステ（西部ダービー）として知られるが、フェロの[プリメーラB・ナシオナル](https://ja.wikipedia.org/wiki/プリメーラB・ナシオナル "wikilink")（2部）降格以来、両クラブは異なるカテゴリーに参戦しており、ライバル意識は薄れている。最後に対戦した2000年の試合ではアウェーのベレスが1-0の勝利を収めた。
 
-2011年、ベレスがリーグ優勝してプロ化以降の優勝回数で、ビッグ5のひとつであるラシン・クラブを追い抜いたことがあった。これをきっかけに、ベレスの選手がメディアを通して、ラシンを挑発するなどして、両チームの対戦は以前より熱気を帯びている。
+2011年、ベレスがリーグ優勝してプロ化以降の優勝回数で、ビッグ5のひとつであるラシン・クルブを追い抜いたことがあった。これをきっかけに、ベレスの選手がメディアを通して、ラシンを挑発するなどして、両チームの対戦は以前より熱気を帯びている。
 
 ## タイトル
 
@@ -590,8 +590,6 @@
 
 ### 注釈
 
-<references group="注釈"/>
-
 ### 脚注
 
 ## 外部リンク
@@ -608,7 +606,7 @@
 5.  <http://deportv.gov.ar/noticias/por-que-se-lo-conoce-a-velez-como-el-fortin/>
 6.
 7.  [de Tucuman](https://www.facebook.com/group.php?gid=81689673626%7CFortineros)
-8.  2012-13シーズンは後期優勝チーム ([ニューウェルズ・オールドボーイズ](../Page/ニューウェルズ・オールドボーイズ.md "wikilink")）との年間王者決定戦が別途開催された。その対決を制して年間王者に輝いた。
+8.  2012-13シーズンは後期優勝チーム（[ニューウェルズ・オールドボーイズ](../Page/ニューウェルズ・オールドボーイズ.md "wikilink")）との年間王者決定戦が別途開催された。その対決を制して年間王者に輝いた。
 9.  ["Argentina: Fourth level champions 1905-2008/09"](http://www.rsssf.com/tablesa/arg4champ.html), RSSSF
 10. [Campeones de Cuarta División - AFA website](http://www.afa.org.ar/index.php?option=com_content&view=article&id=2228&Itemid=222)
 11.

@@ -17,7 +17,7 @@
     [ボケ担当](https://ja.wikipedia.org/wiki/漫才#ボケとツッコミ "wikilink")。
     [千葉県](../Page/千葉県.md "wikilink")[千葉市](../Page/千葉市.md "wikilink")出身（後に[千葉県](../Page/千葉県.md "wikilink")[船橋市](https://ja.wikipedia.org/wiki/船橋市 "wikilink")で育つ）。
     身長158cm、体重55kg。
-    [血液型A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+    [血液型A型](../Page/ABO式血液型.md "wikilink")。
     趣味：[散歩](../Page/散歩.md "wikilink")、特技：[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")
     かつて本名の須藤祐名義で、「[チョーダイ](https://ja.wikipedia.org/wiki/チョーダイ "wikilink")」というコンビでも活動していた。
     現在はピン芸人として活動中。
@@ -32,7 +32,7 @@
     [ツッコミ](https://ja.wikipedia.org/wiki/ツッコミ "wikilink")担当。
     [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")出身。
     身長167cm、体重50kg。
-    [血液型A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+    [血液型A型](../Page/ABO式血液型.md "wikilink")。
     趣味：[作詞](../Page/作詞.md "wikilink")[作曲](../Page/作曲.md "wikilink")、特技：すぐ[オナラを出せる](../Page/屁.md "wikilink")
     かつて「[ポプラ並木](https://ja.wikipedia.org/wiki/ポプラ並木_\(お笑い芸人\) "wikilink")」というコンビでも活動していた。
     ポプラ並木解散後、[電波少年](https://ja.wikipedia.org/wiki/電波少年 "wikilink")出演者のその後をインタビューした雑誌特集において、元相方である[青木史幸](https://ja.wikipedia.org/wiki/青木史幸 "wikilink")は及川の事を「嘘つき野郎」、また及川も「青木とはもうやっていけない」と発言するなど、解散時には相当険悪な仲になっていたことが伺える。

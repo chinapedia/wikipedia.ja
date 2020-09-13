@@ -18,7 +18,7 @@
       - [Dove](https://ja.wikipedia.org/wiki/Dove_\(バンド\) "wikilink")（[Smelling Cuntsから改名](https://ja.wikipedia.org/wiki/Smelling_Cunts "wikilink")）の元メンバー。
       - 企画バンドMONTEROZA 4950のメンバー。
       - 内装インテリア・店舗設計デザイン株式会社Metronome Inc. 代表。内装デザイナーとして[中目黒](../Page/中目黒.md "wikilink")の[セレクトショップ](../Page/セレクトショップ.md "wikilink")「Vendor」や[学芸大学駅](https://ja.wikipedia.org/wiki/学芸大学駅 "wikilink")の[レコード](../Page/レコード.md "wikilink")[ショップ](https://ja.wikipedia.org/wiki/ショップ "wikilink")「Jazzy Sport」、[ホテル](../Page/ホテル.md "wikilink")「Anteroom KYOTO」の[ファサード](../Page/ファサード.md "wikilink")/共用部分などを手がけている\[14\]。
-      - 音楽制作者として[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")「[ライフ](https://ja.wikipedia.org/wiki/ライフ_\(テレビドラマ\) "wikilink")」の[劇伴](../Page/劇伴.md "wikilink")や[ユニクロ](../Page/ユニクロ.md "wikilink")のwebCM「UNIQLO INNOVATION PROJECT Web」テーマソングのプロデュースなどを手掛ける。
+      - 音楽制作者として[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")『[ライフ](https://ja.wikipedia.org/wiki/ライフ_\(テレビドラマ\) "wikilink")』の[劇伴](../Page/劇伴.md "wikilink")や[ユニクロ](../Page/ユニクロ.md "wikilink")のwebCM「UNIQLO INNOVATION PROJECT Web」テーマソングのプロデュースなどを手掛ける。
   - **美濃 隆章**（みの たかあき、Mino Takaaki） - ギター担当
       - 神奈川県横浜市出身\[15\]。[音楽学校メーザー・ハウス](https://ja.wikipedia.org/wiki/音楽学校メーザー・ハウス "wikilink")ギター科卒業\[16\]。
       - [popcatcher](https://ja.wikipedia.org/wiki/popcatcher "wikilink")、[REACHの元メンバー](https://ja.wikipedia.org/wiki/REACH_\(バンド\) "wikilink")。
@@ -26,7 +26,7 @@
   - **山根 敏史**（やまね さとし、Yamane Satoshi） - [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")
       - [モード学園ファッションデザイン学科卒業](https://ja.wikipedia.org/wiki/学校法人モード学園 "wikilink")\[18\]。
       - fragment、Doveの元メンバー。
-      - ファッションデザイナーとして[バッグ](https://ja.wikipedia.org/wiki/バッグ "wikilink")[ブランド](../Page/ブランド.md "wikilink")のF/CE.®（エフ シーイー）と[アパレル](https://ja.wikipedia.org/wiki/アパレル "wikilink")ブランドのso far（ソーファー）の2ブランドを展開する\[19\]。1997年からメンズビギで[デザイナー](../Page/デザイナー.md "wikilink")としてのキャリアを積み、2004年から[クロックス](../Page/クロックス.md "wikilink")日本支社の立ち上げに参画\[20\]\[21\]。2010年に独立し、自身の会社オープン・ユアアイズ（株）を設立\[22\]\[23\]。
+      - ファッションデザイナーとして[バッグ](https://ja.wikipedia.org/wiki/バッグ "wikilink")[ブランド](../Page/ブランド.md "wikilink")のF/CE.®（エフ シーイー）と[アパレル](https://ja.wikipedia.org/wiki/アパレル "wikilink")ブランドのso far（ソーファー）の2ブランドを展開する\[19\]。1997年からMEN'S BIGIで[デザイナー](../Page/デザイナー.md "wikilink")としてのキャリアを積み、2004年から[クロックス](../Page/クロックス.md "wikilink")日本支社の立ち上げに参画\[20\]\[21\]。2010年に独立し、自身の会社オープン・ユアアイズ（株）を設立\[22\]\[23\]。
   - **柏倉 隆史**（かしくら たかし、Kashikura Takashi） - [ドラムス担当](../Page/ドラムセット.md "wikilink")
       - 神奈川県[川崎市](../Page/川崎市.md "wikilink")出身\[24\]。[旧県立川崎南高校卒業](../Page/神奈川県立川崎高等学校.md "wikilink")。
       - [DAMAGE](https://ja.wikipedia.org/wiki/DAMAGE_\(バンド\) "wikilink")、REACHの元ドラマー\[25\]\[26\]。また[SUEMITSU & THE SUEMITHのオリジナルメンバーとしてドラム](https://ja.wikipedia.org/wiki/SUEMITSU_&_THE_SUEMITH "wikilink")・[シンバル](../Page/シンバル.md "wikilink")・[タンバリン](../Page/タンバリン.md "wikilink")を担当していた\[27\]。
@@ -930,7 +930,7 @@ AICL-2717</p></td>
   -
   - [『For Long Tomorrow』高音質配信＆インタビュー\[ototoy\]](http://ototoy.jp/feature/index.php/20091208)
 
-[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:ポストロック・バンド](https://ja.wikipedia.org/wiki/Category:ポストロック・バンド "wikilink") [Category:マスロック・バンド](https://ja.wikipedia.org/wiki/Category:マスロック・バンド "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:2000年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に結成した音楽グループ "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
+[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:日本のポストロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のポストロック・バンド "wikilink") [Category:マスロック・バンド](https://ja.wikipedia.org/wiki/Category:マスロック・バンド "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:2000年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に結成した音楽グループ "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
 
 1.
 2.

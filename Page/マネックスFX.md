@@ -32,7 +32,7 @@
 
   - [マネックスFX](http://www.monexfx.co.jp)
 
-[Category:かつて存在した東京都の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した東京都の企業 "wikilink") [Category:外国為替証拠金取引業者](https://ja.wikipedia.org/wiki/Category:外国為替証拠金取引業者 "wikilink") [Category:2004年設立の企業](https://ja.wikipedia.org/wiki/Category:2004年設立の企業 "wikilink")
+[Category:かつて存在した東京都の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した東京都の企業 "wikilink") [Category:外国為替証拠金取引業者](https://ja.wikipedia.org/wiki/Category:外国為替証拠金取引業者 "wikilink") [Category:2004年設立の企業](https://ja.wikipedia.org/wiki/Category:2004年設立の企業 "wikilink") [Category:マネックスグループ](https://ja.wikipedia.org/wiki/Category:マネックスグループ "wikilink")
 
 1.   - マネックス・ビーンズ・ホールディングス(株) 2008年3月21日
 2.   - マネックス・ビーンズ・ホールディングス(株) 2008年4月28日

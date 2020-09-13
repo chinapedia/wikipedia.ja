@@ -122,9 +122,9 @@
 
 ### 参加ミュージシャン
 
-  - 長渕剛 - [アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")、[マウスハープ](../Page/ハーモニカ.md "wikilink")
+  - 長渕剛 - [アコースティックギター](../Page/アコースティック・ギター.md "wikilink")、[マウスハープ](../Page/ハーモニカ.md "wikilink")
   - [石川鷹彦](../Page/石川鷹彦.md "wikilink") - アコースティックギター、ナッシュビル・チューニング・ギター、[バンジョー](../Page/バンジョー.md "wikilink")
-  - 谷口陽一 - [ラップスチールギター](https://ja.wikipedia.org/wiki/スチールギター "wikilink")、[フィドル](../Page/フィドル.md "wikilink")
+  - 谷口陽一 - [ラップスチールギター](../Page/スティール・ギター.md "wikilink")、[フィドル](../Page/フィドル.md "wikilink")
 
 ### スタッフ
 

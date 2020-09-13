@@ -3,8 +3,6 @@
 
 **Xerox Star**（ゼロックス・スター）または**Starワークステーション**（スター・ワークステーション）は、[1981年](../Page/1981年.md "wikilink")に[ゼロックス](../Page/ゼロックス.md "wikilink")が発売した[ワークステーション](../Page/ワークステーション.md "wikilink")。正式な型名は8010 Star Information System。この機器は、今日の[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")で標準となっている様々な技術を統合した最初の商用システムである。例えば、[ビットマップ](../Page/ビットマップ画像.md "wikilink")[ディスプレイ](../Page/ディスプレイ_\(コンピュータ\).md "wikilink")、[ウィンドウ](../Page/ウィンドウ.md "wikilink")に基づいた[グラフィカルユーザインターフェース](https://ja.wikipedia.org/wiki/グラフィカルユーザインターフェース "wikilink")、[アイコン](../Page/アイコン.md "wikilink")、[フォルダ](https://ja.wikipedia.org/wiki/フォルダ "wikilink")、[マウス](../Page/マウス_\(コンピュータ\).md "wikilink")、[イーサネット](../Page/イーサネット.md "wikilink")[ネットワークシステム](../Page/コンピュータネットワーク.md "wikilink")、[ファイルサーバ](../Page/ファイルサーバ.md "wikilink")、[プリントサーバ](../Page/プリントサーバ.md "wikilink")、[電子メール](../Page/電子メール.md "wikilink")といった技術が用いられていた。
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Xerox_Star_8010.jpg "wikilink")
-
 ## 背景
 
 ゼロックスは商用レベルの新技術開発を目的とした内部[シンクタンク](../Page/シンクタンク.md "wikilink")として、[1970年](../Page/1970年.md "wikilink")に[パロアルト研究所](../Page/パロアルト研究所.md "wikilink") (PARC) を作った。
@@ -27,7 +25,7 @@ StarはPARCで開発されたものではない。[1977年](../Page/1977年.md "
 
 開発作業の多くの時間は打合わせと企画立案に費やされ、分厚く詳細な機能設計書 Red Book が作成された。この本は開発のすべての段階において[聖書](../Page/聖書.md "wikilink")のように扱われることとなる。すべてのモジュールと機能は、この設計書によって[インタフェースが定義され](../Page/インタフェース_\(情報技術\).md "wikilink")、整合性を保つようになっている。機能の仕様変更は監査チームによって承認を受けなければいけないため、設計基準が厳格に守られた。
 
-この[ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink")の基本原理は、ユーザが直感的に理解できるように現実の事務所内の事物を擬態することにある。つまり、[WYSIWYG](../Page/WYSIWYG.md "wikilink")であることが最も重要であるとする。文書は実際の印刷物のように白い背景の上に黒い文字で描かれる。また、PARCが開発した[ページ記述言語](../Page/ページ記述言語.md "wikilink")Interpressを使って、[プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")はディスプレイの「複写」をとることができる。
+この[ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink")の基本原理は、ユーザが直感的に理解できるように現実の事務所内の事物を擬態することにある。つまり、[WYSIWYG](../Page/WYSIWYG.md "wikilink")であることが最も重要であるとする。文書は実際の印刷物のように白い背景の上に黒い文字で描かれる。また、PARCが開発した[ページ記述言語](../Page/ページ記述言語.md "wikilink")[Interpress](https://ja.wikipedia.org/wiki/Interpress "wikilink")を使って、[プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")はディスプレイの「複写」をとることができる。
 
 ユーザは文書や[フォルダ](https://ja.wikipedia.org/wiki/フォルダ "wikilink")などが置いてある[デスクトップ](https://ja.wikipedia.org/wiki/デスクトップ "wikilink")を目にする。そこには文書の種類毎に異なった[アイコン](../Page/アイコン.md "wikilink")が表示されている。アイコンを[クリック](../Page/クリック.md "wikilink")すると[ウィンドウ](../Page/ウィンドウ.md "wikilink")が開く。このとき、ユーザはプログラム（[テキストエディタ](../Page/テキストエディタ.md "wikilink")や描画プログラムや[表計算ソフト](../Page/表計算ソフト.md "wikilink")など）の起動を明示的に指示しない。文書を開くだけで必要なプログラムが動くのである。
 
@@ -45,7 +43,7 @@ Starは[プログラミング言語](../Page/プログラミング言語.md "wik
 
 Mesaでのプログラミングにはモジュール毎に2つのファイルを用意する必要があった。一つは各オブジェクトのデータ構造定義と手続き宣言をする定義部で、もう一つは各手続きの処理コードが記述される部分である。
 
-Starの開発チームは洗練された[統合開発環境](../Page/統合開発環境.md "wikilink")Tajo（外部からは "Xerox Development Environment XDE" と呼ばれていた）を使っていた。Tajoは[Smalltalk](../Page/Smalltalk.md "wikilink")-80の環境に似た点を多く持つが、それ以上のツールを持っていた。例えば、"DF" という[バージョン管理システム](../Page/バージョン管理システム.md "wikilink")があり、[プログラマ](../Page/プログラマ.md "wikilink")は[モジュール](../Page/モジュール.md "wikilink")に変更を加える前にチェックアウト作業を行なわなければいけないようになっていた。依存関係にあるモジュールの変更を要するような変更点はきっちりと追跡管理され、文書化された。そして低レベルのモジュールの変更は、多くのレベルの認証を受けなければならなかった。
+Starの開発チームは洗練された[統合開発環境](../Page/統合開発環境.md "wikilink")Tajo（外部からは "; XDE" と呼ばれていた）を使っていた。Tajoは[Smalltalk](../Page/Smalltalk.md "wikilink")-80の環境に似た点を多く持つが、それ以上のツールを持っていた。例えば、"DF" という[バージョン管理システム](../Page/バージョン管理システム.md "wikilink")があり、[プログラマ](../Page/プログラマ.md "wikilink")は[モジュール](../Page/モジュール.md "wikilink")に変更を加える前にチェックアウト作業を行なわなければいけないようになっていた。依存関係にあるモジュールの変更を要するような変更点はきっちりと追跡管理され、文書化された。そして低レベルのモジュールの変更は、多くのレベルの認証を受けなければならなかった。
 
 開発チームは精力的に作業を進めていった。そして数多くの[プロトタイプ](../Page/プロトタイプ.md "wikilink")作成とテスト作業をこなさなければいけなかった。PARCの研究環境にあったネットワーク[プロトコル](../Page/プロトコル.md "wikilink")やデータ[エンコード](../Page/エンコード.md "wikilink")方式が能力不足だと感じれば、彼らはそれを新たに作り直していった。
 
@@ -83,7 +81,7 @@ Viewpointは[レーザープリンター](../Page/レーザープリンター.md
 
 かなりの価格低下を実現したにもかかわらず、2000ドル以下で売られている[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")の世界では、この機器はまるで[ロールス・ロイス](../Page/ロールス・ロイス.md "wikilink")のようなものであった。
 
-[1989年](../Page/1989年.md "wikilink")には[DTP](../Page/DTP.md "wikilink")向けの多くの新しいアプリケーションを搭載したViewpoint 2.0が市場投入された。しかし結果としては、ゼロックスはViewpointで実現したハードウェアとソフトウェアを融合した形でのワークステーションというものを捨てることになった。ゼロックスはPC/AT互換機用ソフトウェア GlobalView を発売し、そこでStarのインタフェースと技術を実現することになったのである。GlobalViewの最初の版ではMESA CPU拡張基板を取り付ける必要があったが、[1996年](../Page/1996年.md "wikilink")に発表された最終版 (2.1)では[Windows 3.1](../Page/Microsoft_Windows_3.x.md "wikilink")、[Windows 95](../Page/Microsoft_Windows_95.md "wikilink")、[Windows 98上でエミュレーションにより動作するようになった](../Page/Microsoft_Windows_98.md "wikilink")。
+[1989年](../Page/1989年.md "wikilink")には[DTP](../Page/DTP.md "wikilink")向けの多くの新しいアプリケーションを搭載したViewpoint 2.0が市場投入された。しかし結果としては、ゼロックスはViewpointで実現したハードウェアとソフトウェアを融合した形でのワークステーションというものを捨てることになった。ゼロックスはPC/AT互換機用ソフトウェア [GlobalView](../Page/GlobalView.md "wikilink") を発売し、そこでStarのインタフェースと技術を実現することになったのである。GlobalViewの最初の版ではMESA CPU拡張基板を取り付ける必要があったが、[1996年](../Page/1996年.md "wikilink")に発表された最終版 (2.1)では[Windows 3.1](../Page/Microsoft_Windows_3.x.md "wikilink")、[Windows 95](../Page/Microsoft_Windows_95.md "wikilink")、[Windows 98上でエミュレーションにより動作するようになった](../Page/Microsoft_Windows_98.md "wikilink")。
 
 ## Starの遺産と誤解
 
@@ -111,9 +109,18 @@ Viewpointは[レーザープリンター](../Page/レーザープリンター.md
 
 J-Starは[日本語](../Page/日本語.md "wikilink")表示用の[JIS第](../Page/JIS漢字コード.md "wikilink")1水準、第2水準漢字、[平仮名](../Page/平仮名.md "wikilink")、[片仮名](../Page/片仮名.md "wikilink")に加え、[ドイツ語](../Page/ドイツ語.md "wikilink")、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")、[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")、[ギリシア語](https://ja.wikipedia.org/wiki/ギリシア語 "wikilink")など合計7000種類の文字種を備えていた。字体は日本語用に[ゴシック体](../Page/ゴシック体.md "wikilink")と[明朝体](../Page/明朝体.md "wikilink")、欧文用に[斜体](../Page/斜体.md "wikilink")、[太字](https://ja.wikipedia.org/wiki/太字 "wikilink")、サイズは8、10、12、18ポイントなどが用意された。キーボード配列は画面に表示されるバーチャルキーボードに従って実際のキーボードを操作することで、日本語、[英語](../Page/英語.md "wikilink")のみならず多言語の入力が可能だった。
 
+## 参照項目
+
+  - [Pilot (オペレーティングシステム)](../Page/Pilot_\(オペレーティングシステム\).md "wikilink")
+
+  - [Mesa](../Page/Mesa.md "wikilink") (プログラミング言語)
+
+  - [ViewPoint/GlobalView](../Page/GlobalView.md "wikilink")
+
+  -
 ## 出典
 
-[Category:ワークステーション](https://ja.wikipedia.org/wiki/Category:ワークステーション "wikilink") [Category:コンピュータ史](https://ja.wikipedia.org/wiki/Category:コンピュータ史 "wikilink") [Category:ゼロックス](https://ja.wikipedia.org/wiki/Category:ゼロックス "wikilink")
+[Category:ワークステーション](https://ja.wikipedia.org/wiki/Category:ワークステーション "wikilink") [Category:コンピュータ史](https://ja.wikipedia.org/wiki/Category:コンピュータ史 "wikilink") [Category:ゼロックス](https://ja.wikipedia.org/wiki/Category:ゼロックス "wikilink") [Category:富士ゼロックス](https://ja.wikipedia.org/wiki/Category:富士ゼロックス "wikilink")
 
 1.  毎日コミュニケーションズ刊「[未来をつくった人々](../Page/未来をつくった人々.md "wikilink")」(ISBN 4-8399-0225-9) 第23章
 2.  [Origins of the Apple Human Interface](http://www.computerhistory.org/events/lectures/appleint_10281997/appleint_xscript.shtml)

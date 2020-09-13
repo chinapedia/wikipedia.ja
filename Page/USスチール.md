@@ -1,7 +1,7 @@
 > この記事は[USスチール](https://ja.wikipedia.org/wiki/USスチール)から翻訳されています。
 
 
-**USスチール**（英語：United States Steel Corporation（U.S. Steel）、）は、アメリカと中央ヨーロッパに大きな生産拠点を持った総合[製鉄](https://ja.wikipedia.org/wiki/製鉄 "wikilink")会社である。[20１６年の粗鋼生産は](../Page/2016年.md "wikilink")1４２２万トンで、世界２４位。USスチールは[1991年](../Page/1991年.md "wikilink")にUSXコーポレーション（USX Corporation）と改名されたが、[2001年](../Page/2001年.md "wikilink")に再びUSスチールへ改称した。20１6年の時点で、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")第2の製鉄会社である。
+**USスチール**（英語：United States Steel Corporation（U.S. Steel）、）は、アメリカと中央ヨーロッパに大きな生産拠点を持った総合[製鉄](https://ja.wikipedia.org/wiki/製鉄 "wikilink")会社である。[2016年](../Page/2016年.md "wikilink")の粗鋼生産は1422万トンで、世界24位。USスチールは[1991年](../Page/1991年.md "wikilink")にUSXコーポレーション（USX Corporation）と改名されたが、[2001年](../Page/2001年.md "wikilink")に再びUSスチールへ改称した。2016年の時点で、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")第2の製鉄会社である。
 
 ## 歴史
 

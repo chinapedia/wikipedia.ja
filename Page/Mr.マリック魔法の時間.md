@@ -51,7 +51,7 @@
 
   - [マジック王国](../Page/マジック王国.md "wikilink") - 同様にマジックを主体にしていた任天堂の一社提供番組。
 
-[Category:2001年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のテレビ番組_\(日本\) "wikilink") [Category:テレビ東京のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のバラエティ番組の歴史 "wikilink") [Category:テレビ東京の一社提供番組](https://ja.wikipedia.org/wiki/Category:テレビ東京の一社提供番組 "wikilink") [Category:任天堂一社提供番組](https://ja.wikipedia.org/wiki/Category:任天堂一社提供番組 "wikilink") [Category:奇術](https://ja.wikipedia.org/wiki/Category:奇術 "wikilink")
+[Category:2001年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のテレビ番組_\(日本\) "wikilink") [Category:テレビ東京のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のバラエティ番組の歴史 "wikilink") [Category:テレビ東京の一社提供番組](https://ja.wikipedia.org/wiki/Category:テレビ東京の一社提供番組 "wikilink") [Category:任天堂一社提供番組](https://ja.wikipedia.org/wiki/Category:任天堂一社提供番組 "wikilink") [Category:奇術を題材とした作品](https://ja.wikipedia.org/wiki/Category:奇術を題材とした作品 "wikilink")
 
 1.
 2.

@@ -5,27 +5,44 @@
 
 ## 内容
 
-[バンダイ・ミュージックエンタテインメント](../Page/バンダイ・ミュージックエンタテインメント.md "wikilink")在籍時のA面シングルを主に収録。1stアルバム「[KIX-S](../Page/KIX-S_\(アルバム\).md "wikilink")」収録曲を収録していない。
+  - [バンダイ・ミュージックエンタテインメント](../Page/バンダイ・ミュージックエンタテインメント.md "wikilink")在籍時のA面シングルを主に収録。1stアルバム「[KIX-S](../Page/KIX-S_\(アルバム\).md "wikilink")」収録曲を収録していない。
 
 ## 収録曲
 
-1.  **LOVIN'YOU**
+1.  **LOVIN'YOU　**
+      - 4thシングル
 2.  **BE MY LOVE**
+      - 1stシングルカップリング
 3.  **もう一度抱きしめて**
+      - 2ndアルバム収録曲
 4.  **抱いて…抱きしめて**
+      - 5thシングル
 5.  **NAKED WOMAN**
+      - 7thシングル
 6.  **LOVE IN MY LIFE**
+      - 9thシングル
 7.  **Dynamaite**
+      - 10thシングル
 8.  **MY LIFE**
+      - 6thシングル
 9.  **MOVING ON**
+      - 11thシングル
 10. **DEAREST**
+      - 6thアルバム収録曲
 11. **わがままに Crazy Love**
-12. **もう一度 TENDERNESS**
+      - 5thアルバム収録曲
+12. **もう一度 TENDERNES**
+      - 3rdシングル
 13. **愛し過ぎてこわい**
+      - 2ndシングル
 14. **MaMa's Song**
+      - 5thアルバム収録曲
 15. **Everybody\! Shake It Buddy\!**
+      - 7thアルバム収録曲
 16. **自由に歩いて愛して**
+      - 8thシングル
 17. **また逢える…**
+      - 1stシングル
 
 <!-- end list -->
 

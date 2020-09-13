@@ -139,7 +139,7 @@
 4.  ステレオ・ラヴ
 5.  氷の空
 6.  プラスティック・ソング
-7.  [PALE ALE](https://ja.wikipedia.org/wiki/PALE_ALE "wikilink")
+7.  PALE ALE
       -
         黒沢健一のセルフカバー。
 8.  Dance To God
@@ -161,7 +161,7 @@
 
   - [公式サイト](http://motorworks.me)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:ドリーミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:ドリーミュージックのアーティスト "wikilink") [Category:スピッツ_(バンド)](https://ja.wikipedia.org/wiki/Category:スピッツ_\(バンド\) "wikilink") [Category:L⇔R](https://ja.wikipedia.org/wiki/Category:L⇔R "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:2003年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に結成した音楽グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:ドリーミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:ドリーミュージックのアーティスト "wikilink") [Category:スピッツ_(バンド)](https://ja.wikipedia.org/wiki/Category:スピッツ_\(バンド\) "wikilink") [Category:L⇔R](https://ja.wikipedia.org/wiki/Category:L⇔R "wikilink")
 
 1.  サンコンJr.ブログ <http://sankon-jr.exblog.jp/23679865/>
 2.  石田ショーキチブログ <http://ishidashokichi.com/blog/?p=108>

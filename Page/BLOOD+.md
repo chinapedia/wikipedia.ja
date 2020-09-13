@@ -15,7 +15,7 @@
 
 ## 作品概要
 
-2000年に劇場公開およびゲーム化されたBLOODシリーズ第1作『[BLOOD THE LAST VAMPIRE](https://ja.wikipedia.org/wiki/BLOOD_THE_LAST_VAMPIRE "wikilink")』の「少女が刀を使って翼手を斬る」というコンセプトはそのままに、キャラクターやストーリーを一新して製作された。『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』、『[鋼の錬金術師](https://ja.wikipedia.org/wiki/鋼の錬金術師_\(アニメ\) "wikilink")』、『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』などの人気アニメ作品を連発する[毎日放送土曜6時枠](../Page/毎日放送制作土曜夕方6時枠のアニメ.md "wikilink")、通称・**土6**の新作として話題を集める。作品上での謎が実際の歴史との関係が深く、奥深い作品となっている。
+2000年に劇場公開およびゲーム化されたBLOODシリーズ第1作『[BLOOD THE LAST VAMPIRE](https://ja.wikipedia.org/wiki/BLOOD_THE_LAST_VAMPIRE "wikilink")』の「少女が刀を使って翼手を斬る」というコンセプトはそのままに、キャラクターやストーリーを一新して製作された。『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』『[鋼の錬金術師](https://ja.wikipedia.org/wiki/鋼の錬金術師_\(アニメ\) "wikilink")』『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』などの人気アニメ作品を連発する[毎日放送土曜6時枠](../Page/毎日放送制作土曜夕方6時枠のアニメ.md "wikilink")、通称・**土6**の新作として話題を集める。作品上での謎が実際の歴史との関係が深く、奥深い作品となっている。
 
 [メディアミックス](../Page/メディアミックス.md "wikilink")として、[小説](../Page/小説.md "wikilink")版・複数の[コミック版](https://ja.wikipedia.org/wiki/漫画 "wikilink")・[ゲーム](../Page/ゲーム.md "wikilink")版が存在する。[1993年](../Page/1993年.md "wikilink")開始の『[ムカムカパラダイス](../Page/ムカムカパラダイス.md "wikilink")』から続いた[MBS土6枠最後の](../Page/毎日放送制作土曜夕方6時枠のアニメ.md "wikilink")4クール（1年）作品である。
 

@@ -34,4 +34,4 @@
 
   - [France 24 Blog](https://france24.wordpress.com/)‐同チャンネルに関するブログ
 
-[Category:フランスのテレビ局](https://ja.wikipedia.org/wiki/Category:フランスのテレビ局 "wikilink") [Category:ニュース専門テレビチャンネル](https://ja.wikipedia.org/wiki/Category:ニュース専門テレビチャンネル "wikilink") [Category:国際放送](https://ja.wikipedia.org/wiki/Category:国際放送 "wikilink")
+[Category:フランスのテレビ局](https://ja.wikipedia.org/wiki/Category:フランスのテレビ局 "wikilink") [Category:ニュース専門テレビチャンネル](https://ja.wikipedia.org/wiki/Category:ニュース専門テレビチャンネル "wikilink") [Category:国際放送](https://ja.wikipedia.org/wiki/Category:国際放送 "wikilink") [Category:フランスの公企業](https://ja.wikipedia.org/wiki/Category:フランスの公企業 "wikilink")

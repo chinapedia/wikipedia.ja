@@ -15,6 +15,6 @@
 
 ## 脚注
 
-[Category:1991年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1991年のテレビ番組_\(日本\) "wikilink") [Category:福島テレビ番組](https://ja.wikipedia.org/wiki/Category:福島テレビ番組 "wikilink") [Category:東北地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビのミニ番組 "wikilink") [Category:東北地方の深夜テレビ番組](https://ja.wikipedia.org/wiki/Category:東北地方の深夜テレビ番組 "wikilink") [Category:東北地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの情報・ワイドショー番組 "wikilink")
+[Category:1991年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1991年のテレビ番組_\(日本\) "wikilink") [Category:福島テレビの番組](https://ja.wikipedia.org/wiki/Category:福島テレビの番組 "wikilink") [Category:東北地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビのミニ番組 "wikilink") [Category:東北地方の深夜テレビ番組](https://ja.wikipedia.org/wiki/Category:東北地方の深夜テレビ番組 "wikilink") [Category:東北地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの情報・ワイドショー番組 "wikilink")
 
 1.  この番組が始まる前も同じ編成だったが、開始前のこの10分枠は[天気予報](../Page/天気予報.md "wikilink")と[ミニ番組](../Page/ミニ番組.md "wikilink")を流していた。

@@ -112,6 +112,12 @@
 
 実況・解説はバギー（声:[千葉繁](../Page/千葉繁.md "wikilink")）とMr.2・ボン・クレー（声：[矢尾一樹](../Page/矢尾一樹.md "wikilink")）が担当し、声の出演もこの2人のみ。
 
+## 関連書籍
+
+  - [アニメ・コミックス](../Page/フィルムコミック.md "wikilink") ONE PIECE 呪われた聖剣（上）（2004年7月2日発売、ISBN 978-4088737072）
+  - アニメ・コミックス ONE PIECE 呪われた聖剣（下）（2004年7月2日発売、ISBN 978-4088737089）
+      - アニメ・コミックス 新装版 劇場版ONE PIECE 呪われた聖剣（2011年2月18日発売、ISBN 978-4088748511） - 上記2冊の合本。
+
 [ru:Список анимационных фильмов о One Piece\#Фильм пятый](https://ja.wikipedia.org/wiki/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_пятый "wikilink")
 
 [Category:劇場版ONE_PIECE](https://ja.wikipedia.org/wiki/Category:劇場版ONE_PIECE "wikilink") [Category:2004年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2004年のアニメ映画 "wikilink") [Category:ジャンプ_ジェイ_ブックス](https://ja.wikipedia.org/wiki/Category:ジャンプ_ジェイ_ブックス "wikilink") [Category:刀剣を題材とした作品](https://ja.wikipedia.org/wiki/Category:刀剣を題材とした作品 "wikilink")

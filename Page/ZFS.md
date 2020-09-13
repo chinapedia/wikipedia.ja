@@ -1,7 +1,7 @@
 > この記事は[ZFS](https://ja.wikipedia.org/wiki/ZFS)から翻訳されています。
 
 
-**ZFS**は、主に[オラクルのOracle](../Page/オラクル_\(企業\).md "wikilink") [Solaris](../Page/Solaris.md "wikilink")上で実装されている[128ビット](https://ja.wikipedia.org/wiki/128ビット "wikilink")・アドレッシングを特徴とする[ファイルシステム](../Page/ファイルシステム.md "wikilink")。今まで Solaris (SunOS) で用いられてきた [Unix File System](../Page/Unix_File_System.md "wikilink") (UFS) の次世代ファイルシステムと位置づけられている。名称は *Zettabyte File System* に由来する\[1\]が、現在は何の略称でもないとされる\[2\]。
+**ZFS**は、主に[オラクルの](../Page/オラクル_\(企業\).md "wikilink")[Solaris](../Page/Solaris.md "wikilink")上で実装されている[128ビット](https://ja.wikipedia.org/wiki/128ビット "wikilink")・アドレッシングを特徴とする[ファイルシステム](../Page/ファイルシステム.md "wikilink")。今までSolaris (SunOS) で用いられてきた [Unix File System](../Page/Unix_File_System.md "wikilink") (UFS) の次世代ファイルシステムと位置づけられている。名称は*Zettabyte File System*に由来する\[1\]が、現在は何の略称でもないとされる\[2\]。
 
 ## 概要
 
@@ -23,13 +23,13 @@
   - クローンプロモーション（アクティブなZFS領域を複製と置換を容易にする機能）
   - 再帰的スナップショットコマンドの簡素化オプション
 
-以下に記載されていない機能追加として、Oracle Solaris Solaris SRU 11.2.8.4.0 などより、Persistant L2ARC (ブートをまたがるL2ARC の内容の再利用）が追加されている。 (\[他の環境での実装状況を記載する必要あり\])
+以下に記載されていない機能追加として、Oracle Solaris Solaris SRU 11.2.8.4.0などより、Persistant L2ARC (ブートをまたがるL2ARCの内容の再利用）が追加されている（他の環境での実装状況を記載する必要あり） 。
 
 以降の追加機能は下記のバージョン番号を参照。
 
 ### バージョン番号
 
-利用可能な形式と特徴を指定するために、新機能が導入されるに従ってZPoolとZFSのバージョン番号が増える。バージョン番号の一覧は以下の通り\[3\]。（\[\]内はサポートしているOS）
+利用可能な形式と特徴を指定するために、新機能が導入されるに従ってZPoolとZFSのバージョン番号が増える。バージョン番号の一覧は以下の通り\[3\]。（\[\]内はサポートしている[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")）
 
   - 1 Initial ZFS version \[Supported by Solaris 10 06/06\]
   - 2 Ditto blocks (replicated metadata) \[Supported by Solaris 10 06/06 build 09\]
@@ -76,7 +76,7 @@
   - 43 RAID-Z enhancements and cloud device support
   - 44 Device Removal
 
-今、自分のシステムでどのバージョンまでサポートしているか知りたい場合は zpool upgrade -v で確認できる。
+今、自分のシステムでどのバージョンまでサポートしているか知りたい場合はzpool upgrade -vで確認できる。
 
 ## 訴訟合戦
 
@@ -104,21 +104,20 @@
 
 ### 移植
 
-CDDLでライセンスされるオープンソースであり、Solaris系以外の[Unix系](../Page/Unix系.md "wikilink")OSにも移植が進んでいる。
+CDDLでライセンスされるオープンソースであり、Solaris系以外の[Unix系](../Page/Unix系.md "wikilink")オペレーティングシステムにも移植が進んでいる。
 
   - [FreeBSD](../Page/FreeBSD.md "wikilink")
-    [x64](https://ja.wikipedia.org/wiki/x64 "wikilink")の9.0-RELEASEでZFS v28をサポートしている。[IA-32](../Page/IA-32.md "wikilink")でも一応動作するが、実用的に使うのは難しい（カーネルが多量のメモリを必要とするが、32ビット空間の限界がある、等）。
-    2011/2/28時点ではカーネル側の未サポートが理由でiSCSIを経由した共有ZVOLs機能 (zfs set shareiscsi) は実現されていない。また10.x以降は[AFT](https://ja.wikipedia.org/wiki/AFT "wikilink")(4KB/セクタ)を自動的に認識してZFS poolを作成するようになった。
+    [x64](https://ja.wikipedia.org/wiki/x64 "wikilink")の9.0-RELEASEでZFS v28をサポートしている。[IA-32](../Page/IA-32.md "wikilink")でも一応動作するが、実用的に使うのは難しい（[カーネル](../Page/カーネル.md "wikilink")が多量のメモリを必要とするが、32ビット空間の限界がある等）。2011年2月28日時点ではカーネル側の未サポートが理由でiSCSIを経由した共有ZVOLs機能 (zfs set shareiscsi) は実現されていない。また10.x以降は[AFT](https://ja.wikipedia.org/wiki/AFT "wikilink")（4KB/セクタ）を自動的に認識してZFS poolを作成するようになった。
   - [NetBSD](../Page/NetBSD.md "wikilink")
     2007年の [Google Summer of Code](https://ja.wikipedia.org/wiki/Google_Summer_of_Code "wikilink") で開発が始められたが、2016年時点でメンテナンスされていない\[4\]。
   - [Mac OS X](https://ja.wikipedia.org/wiki/macOS "wikilink")
-    [10.5 Leopard](../Page/Mac_OS_X_v10.5.md "wikilink") より搭載されているが、初期リリースの10.5.0では読み込みのみの対応にとどまる。[10.6 Snow Leopard](../Page/Mac_OS_X_v10.6.md "wikilink") では、サーバ版で標準対応することが発表されていたものの 10.6.1 リリースでも実現せず、結局[アップルは](../Page/アップル_\(企業\).md "wikilink") ZFS プロジェクトを停止した\[5\]。[Btrfs](https://ja.wikipedia.org/wiki/Btrfs "wikilink")を開発中のオラクルによるサン・マイクロシステムズ買収に伴いZFSの将来が不透明になったためと報じられている。ただしアップルの援助が止まっただけであり、プロジェクト自体は Google Code にホスティングを移して、細々とではあるが続いている[1](http://code.google.com/p/maczfs/)。
+    [10.5 Leopardより搭載されているが](../Page/Mac_OS_X_v10.5.md "wikilink")、初期リリースの10.5.0では読み込みのみの対応にとどまる。[10.6 Snow Leopard](../Page/Mac_OS_X_v10.6.md "wikilink") では、サーバ版で標準対応することが発表されていたものの10.6.1 リリースでも実現せず、結局[アップルはZFSプロジェクトを停止した](../Page/アップル_\(企業\).md "wikilink")\[5\]。[Btrfs](https://ja.wikipedia.org/wiki/Btrfs "wikilink")を開発中のオラクルによるサン・マイクロシステムズ買収に伴いZFSの将来が不透明になったためと報じられている。ただしアップルの援助が止まっただけであり、プロジェクト自体はGoogle Codeにホスティングを移して、細々とではあるが続いている[1](http://code.google.com/p/maczfs/)。
   - [Linux](../Page/Linux.md "wikilink")
-    CDDLがGPLに抵触するというライセンスの問題があり、また、ZFSの権利を保有するOracleの姿勢を踏まえ、Linuxの生みの親[リーナス・トーバルズ](../Page/リーナス・トーバルズ.md "wikilink")がカーネルへマージしない姿勢を表明している為\[6\]、Linuxではカーネル空間に統合された手法での利用は出来ない。
-    [FUSEというユーザー空間のファイルシステムドライバを利用する形での実装例は存在しているが](../Page/Filesystem_in_Userspace.md "wikilink")、ユーザー空間の実装であるため、一部の機能は制限される。この実装は2006年の Google Summer Code から始まっている。zfs-fuse の名称で、[Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") の EPEL や [Ubuntu](../Page/Ubuntu.md "wikilink") 10.04 以降など各種 Linux ディストリビューションに含まれている。
-    2010年頃から別個に2本のネイティブポート版開発プロジェクトが動いており、そのうち KQ infotech のパッケージは [POSIX](../Page/POSIX.md "wikilink") 準拠である。
-    また **ZFS on Linux** と呼ばれるプロジェクトも進行しており\[7\]、[Debian](../Page/Debian.md "wikilink") / [CentOS](../Page/CentOS.md "wikilink") / [Ubuntu](../Page/Ubuntu.md "wikilink") / [Fedora](../Page/Fedora.md "wikilink") などといったディストビューションで ZFS を用いることができる。
-    Ubuntu 16.04にてZFSを正式採用することが発表された。\[8\]
+    CDDLがGPLに抵触するというライセンスの問題があり、また、ZFSの権利を保有するオラクルの姿勢を踏まえ、Linuxの生みの親[リーナス・トーバルズ](../Page/リーナス・トーバルズ.md "wikilink")がカーネルへマージしない姿勢を表明している為\[6\]、Linuxではカーネル空間に統合された手法での利用は出来ない。
+    [FUSEというユーザー空間のファイルシステムドライバを利用する形での実装例は存在しているが](../Page/Filesystem_in_Userspace.md "wikilink")、ユーザー空間の実装であるため、一部の機能は制限される。この実装は2006年のGoogle Summer Codeから始まっている。zfs-fuseの名称で、[Red Hat Enterprise LinuxのEPELや](../Page/Red_Hat_Enterprise_Linux.md "wikilink")[Ubuntu](../Page/Ubuntu.md "wikilink") 10.04以降など各種[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")に含まれている。
+    2010年頃から別個に2本のネイティブポート版開発プロジェクトが動いており、そのうちKQ infotechのパッケージは[POSIX](../Page/POSIX.md "wikilink")準拠である。
+    また**ZFS on Linux**と呼ばれるプロジェクトも進行しており\[7\]、[Debian](../Page/Debian.md "wikilink") / [CentOS](../Page/CentOS.md "wikilink") / [Ubuntu](../Page/Ubuntu.md "wikilink") / [Fedora](../Page/Fedora.md "wikilink")などといったLinuxディストビューションでZFSを用いることができる。
+    Ubuntu 16.04にてZFSを正式採用することが発表された\[8\]。
 
 ## 脚注
 

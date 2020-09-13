@@ -53,6 +53,6 @@
 
 [Category:兵庫県の超高層ビル](https://ja.wikipedia.org/wiki/Category:兵庫県の超高層ビル "wikilink")
 
-[Category:近畿地方の超高層マンション](https://ja.wikipedia.org/wiki/Category:近畿地方の超高層マンション "wikilink") [Category:神戸すまいまちづくり公社](https://ja.wikipedia.org/wiki/Category:神戸すまいまちづくり公社 "wikilink") [Category:兵庫県の再開発地区](https://ja.wikipedia.org/wiki/Category:兵庫県の再開発地区 "wikilink") [Category:垂水区の建築物](https://ja.wikipedia.org/wiki/Category:垂水区の建築物 "wikilink") [Category:近畿地方の駅ビル](https://ja.wikipedia.org/wiki/Category:近畿地方の駅ビル "wikilink") [Category:2001年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:2001年竣工の日本の建築物 "wikilink") [Category:高さ100m以上150m未満の超高層ビル](https://ja.wikipedia.org/wiki/Category:高さ100m以上150m未満の超高層ビル "wikilink")
+[Category:近畿地方の超高層マンション](https://ja.wikipedia.org/wiki/Category:近畿地方の超高層マンション "wikilink") [Category:神戸すまいまちづくり公社](https://ja.wikipedia.org/wiki/Category:神戸すまいまちづくり公社 "wikilink") [Category:兵庫県の再開発地区](https://ja.wikipedia.org/wiki/Category:兵庫県の再開発地区 "wikilink") [Category:垂水区の建築物](https://ja.wikipedia.org/wiki/Category:垂水区の建築物 "wikilink") [Category:兵庫県の駅ビル](https://ja.wikipedia.org/wiki/Category:兵庫県の駅ビル "wikilink") [Category:2001年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:2001年竣工の日本の建築物 "wikilink") [Category:高さ100m以上150m未満の超高層ビル](https://ja.wikipedia.org/wiki/Category:高さ100m以上150m未満の超高層ビル "wikilink")
 
 1.  「博愛社」（後の日本赤十字社）設立の建議を受け、これを認可した

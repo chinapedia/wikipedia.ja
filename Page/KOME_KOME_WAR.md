@@ -21,10 +21,10 @@
 
 ## 収録アルバム
 
-  - [GO FUNK](https://ja.wikipedia.org/wiki/GO_FUNK "wikilink") (\#3)
-  - [K2C](../Page/K2C_\(アルバム\).md "wikilink") (\#6、リメイク・バージョン)
-  - [HARVEST SINGLES 1985-1992](https://ja.wikipedia.org/wiki/HARVEST_SINGLES_1985-1992 "wikilink") (\#6)
-  - [STAR BOX](../Page/STAR_BOX_\(米米CLUBのアルバム\).md "wikilink") (\#5)
+  - [GO FUNK](https://ja.wikipedia.org/wiki/GO_FUNK "wikilink") (\#1)
+  - [K2C](../Page/K2C_\(アルバム\).md "wikilink") (\#1、リメイク・バージョン)
+  - [HARVEST SINGLES 1985-1992](https://ja.wikipedia.org/wiki/HARVEST_SINGLES_1985-1992 "wikilink") (\#1)
+  - [STAR BOX](../Page/STAR_BOX_\(米米CLUBのアルバム\).md "wikilink") (\#1)
   - [米 〜Best of Best〜](../Page/米_〜Best_of_Best〜.md "wikilink") Disc1 (\#1)
 
 ## 脚注

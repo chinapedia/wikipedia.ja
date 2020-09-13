@@ -5,7 +5,7 @@
 
 ## 解説
 
-当時としては珍しく全曲[英語](../Page/英語.md "wikilink")詞で歌われた。音楽的には、[1980年代](../Page/1980年代.md "wikilink")後期の[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[インディ・ポップ](https://ja.wikipedia.org/wiki/インディ・ポップ "wikilink")、主に[ネオアコ](../Page/ネオアコ.md "wikilink")の影響が色濃く、[アズテック・カメラ](../Page/アズテック・カメラ.md "wikilink")、[ヘアカット100](https://ja.wikipedia.org/wiki/ヘアカット100 "wikilink")、[ペイル・ファウンテンズ](https://ja.wikipedia.org/wiki/ペイル・ファウンテンズ "wikilink")、[モノクローム・セット](../Page/モノクローム・セット.md "wikilink")などからの引用が散見される。
+当時としては珍しく全曲[英語](../Page/英語.md "wikilink")詞で歌われた。音楽的には、[1980年代](../Page/1980年代.md "wikilink")後期の[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[インディ・ポップ](https://ja.wikipedia.org/wiki/インディ・ポップ "wikilink")、主に[ネオアコ](../Page/ネオアコ.md "wikilink")の影響が色濃く、[アズテック・カメラ](../Page/アズテック・カメラ.md "wikilink")、[ヘアカット100](https://ja.wikipedia.org/wiki/ヘアカット100 "wikilink")、[ペイル・ファウンテンズ](../Page/ペイル・ファウンテンズ.md "wikilink")、[モノクローム・セット](../Page/モノクローム・セット.md "wikilink")などからの引用が散見される。
 
 なお、本アルバム収録曲は、ほとんどが[ロリポップ・ソニック](../Page/ロリポップ・ソニック.md "wikilink")時代の曲で構成されている。このアルバムを出した直後にメンバー3人が脱退し、[小山田圭吾](https://ja.wikipedia.org/wiki/小山田圭吾 "wikilink")と[小沢健二](../Page/小沢健二.md "wikilink")の2人のみが残った。
 
@@ -31,7 +31,7 @@
         作曲: 小沢健二
 4.  **Coffee-milk Crazy/コーヒーミルク・クレイジー**
       -
-        作曲: 小山田圭吾
+        作曲: 小山田圭吾 　　NHKミッドナイトチャンネル(再放送枠) テーマ曲
 5.  **My Red Shoes Story/僕のレッド・シューズ物語**
       -
         作曲: 小山田圭吾/小沢健二

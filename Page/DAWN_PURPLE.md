@@ -9,7 +9,7 @@
   - このタイトルを思いついたきっかけは、[1991年](../Page/1991年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")の[ピナトゥボ山](../Page/ピナトゥボ山.md "wikilink")大噴火であった。大量の[火山灰](../Page/火山灰.md "wikilink")が[成層圏](../Page/成層圏.md "wikilink")に吹き上げられ、地球規模の異常気象が生じ、[関東平野](../Page/関東平野.md "wikilink")でも深暗紫色に染まった幻想的な夜明けが観測された。この夜明けにインスピレーションを受けて「DAWN PURPLE」というタイトルを思いついたとのことである。
   - アルバムのテーマは「セカンドバースデイ」。
   - ジャケットの写真では本人がシンクロエナジャイザーを着用している。
-  - [CD](../Page/CD-DA.md "wikilink")・[CTの初回版はジャケットを上から見て](../Page/コンパクトカセット.md "wikilink")、ユーミンの目に当たる部分が円で、後は四角形が並んでいる透明のプラスチックの板が装入されていた。
+  - [CD](../Page/CD-DA.md "wikilink")・[CTの初回版はジャケットを上から見て](../Page/コンパクトカセット.md "wikilink")、ユーミンの目に当たる部分が円で、後は四角形が並んでいる透明のプラスチックの板が装入されていた。このジャケットについて、ユーミン本人曰く「パーマンと言われます。｣とのこと。\[1\]
   - [1991年](../Page/1991年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")付アルバムチャートにて[オリコン](../Page/オリコン.md "wikilink")史上初の初動ミリオンを達成する。
   - 1992年[第34回日本レコード大賞](https://ja.wikipedia.org/wiki/第34回日本レコード大賞 "wikilink")ポップス・ロック部門優秀アルバム賞受賞（日本レコード大賞に関する受賞は、現在のところ本作が最後の作品となっている。）
 
@@ -67,3 +67,5 @@
       - [DAWN PURPLE](http://yuming.co.jp/discography/album/original23/)
 
 [Category:Yumingのアルバム](https://ja.wikipedia.org/wiki/Category:Yumingのアルバム "wikilink") [Category:エキスプレスのアルバム](https://ja.wikipedia.org/wiki/Category:エキスプレスのアルバム "wikilink") [Category:1991年のアルバム](https://ja.wikipedia.org/wiki/Category:1991年のアルバム "wikilink") [Category:1991年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1991年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
+
+1.  ファンクラブ会報誌vol.38内のインタビューでの発言

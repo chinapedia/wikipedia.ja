@@ -39,7 +39,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/DJ_BOOBY.md" title="wikilink">DJ BOOBY</a></p></td>
-<td><p>非公開</p></td>
+<td><p>山田祥正</p></td>
 <td><p>DJ</p></td>
 <td></td>
 </tr>
@@ -57,7 +57,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/いときん.md" title="wikilink">いときん</a></p></td>
-<td><p>山田祥正</p></td>
+<td><p>伊東欣司</p></td>
 <td><p>リーダー<br />
 ボーカル</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/トラックメイカー" title="wikilink">トラックメイカー</a>・<a href="../Page/プロデューサー.md" title="wikilink">プロデューサー</a><br />
@@ -886,7 +886,7 @@ REGGAE MILLION III</p></td>
       -
       -
   -
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:1999年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に結成した音楽グループ "wikilink") [Category:7人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:7人組の音楽グループ "wikilink")
+[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:1999年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に結成した音楽グループ "wikilink") [Category:7人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:7人組の音楽グループ "wikilink")
 
 1.  [ET-KINGスペシャルインタビュー](https://web.archive.org/web/20080429192447/http://www.be-live.tv/contents/interview_17_01.jsp)
 2.

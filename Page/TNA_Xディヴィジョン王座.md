@@ -662,6 +662,13 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/クリス・ベイ" title="wikilink">クリス・ベイ</a></p></td>
+<td><p>1</p></td>
+<td><p>2020年7月18日</p></td>
+<td><p>テネシー州ナッシュビル</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

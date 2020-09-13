@@ -17,6 +17,8 @@ trfのシングルは「[survival dAnce 〜no no cry more〜](https://ja.wikiped
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月19日](../Page/8月19日.md "wikilink")公開の[東映](../Page/東映.md "wikilink")・[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")共同製作による[ぼくたちの映画シリーズ](../Page/ぼくたちの映画シリーズ.md "wikilink")第1弾『[花より男子](https://ja.wikipedia.org/wiki/花より男子 "wikilink")』では挿入歌（エンディングテーマ）に起用され、劇中にtrfが出演、歌唱している。また[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月31日](../Page/12月31日.md "wikilink")の『[第37回日本レコード大賞](https://ja.wikipedia.org/wiki/第37回日本レコード大賞 "wikilink")』では、この曲で大賞を受賞し、[エイベックス初の](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[レコード大賞](https://ja.wikipedia.org/wiki/レコード大賞 "wikilink")受賞に輝いている。それを記念して専用のケース付き[テレホンカード](../Page/テレホンカード.md "wikilink")が作られた。
 
+[ナンシー関](../Page/ナンシー関.md "wikilink")は「もうすごい。酔った親父の説教のように、1から10まで言って聞かせるというような押しの強さであり、聴く側の解釈の自由を許さない」と評している\[4\]。
+
 後に[地球ゴージャス](../Page/地球ゴージャス.md "wikilink")の[岸谷五朗](../Page/岸谷五朗.md "wikilink")と[寺脇康文](../Page/寺脇康文.md "wikilink")がYU-KIとの合唱の形でカバーし、「Overnight Sensation 〜時代はあなたに委ねてる〜 -meets Goro Kishitani & Yasufumi Terawaki-」のタイトルでTRFのアルバム『[Lif-e-Motions](../Page/Lif-e-Motions.md "wikilink")』に収録された。
 
 ## バリエーション
@@ -40,7 +42,8 @@ trfのシングルは「[survival dAnce 〜no no cry more〜](https://ja.wikiped
 
   - [東京女子流](https://ja.wikipedia.org/wiki/東京女子流 "wikilink") - 2012年12月19日発売のアルバム『[TRFリスペクトアイドルトリビュート\!\!](https://ja.wikipedia.org/wiki/TRFリスペクトアイドルトリビュート!! "wikilink")』、2013年1月31日発売のアルバム『[約束](https://ja.wikipedia.org/wiki/約束_\(東京女子流のアルバム\) "wikilink")』に収録。編曲は[松井寛](https://ja.wikipedia.org/wiki/松井寛 "wikilink")、エレキギターは[土方隆行](https://ja.wikipedia.org/wiki/土方隆行 "wikilink")が担当している。東京女子流のライブで継続的に数多くパフォーマンスされている。
       - 東京女子流のメンバーの[庄司芽生](https://ja.wikipedia.org/wiki/庄司芽生 "wikilink")は、デビュー前の2008年にTRFのツアーアクトダンサーオーディションに合格しており、TRFのツアーのステージや、SAM・ETSU・CHIHARUがプロデュースする[a-nation](https://ja.wikipedia.org/wiki/a-nation "wikilink")’09のアクトダンサーに出演していたこのアクトダンサー出演後に、エイベックスのスタッフからスカウトされ、東京女子流のメンバーとしてデビューしている）。
-  - 涼野ユウ（CV.[内田雄馬](https://ja.wikipedia.org/wiki/内田雄馬 "wikilink")） - 2019年7月24日発売予定のシングル『KING OF PRISM -Shiny Seven Stars- マイソングシングルシリーズ 涼野ユウ』に収録。編曲はmichitomoが担当。テレビアニメ『[KING OF PRISM -Shiny Seven Stars-](https://ja.wikipedia.org/wiki/KING_OF_PRISM_-Shiny_Seven_Stars- "wikilink")』第8話エンディングテーマ。
+  - 涼野ユウ（CV.[内田雄馬](https://ja.wikipedia.org/wiki/内田雄馬 "wikilink")） - 2019年7月24日発売のシングル『KING OF PRISM -Shiny Seven Stars- マイソングシングルシリーズ 涼野ユウ』に収録。編曲はmichitomoが担当。テレビアニメ『[KING OF PRISM -Shiny Seven Stars-](https://ja.wikipedia.org/wiki/KING_OF_PRISM_-Shiny_Seven_Stars- "wikilink")』第8話エンディングテーマ。
+  - 向井拓海（CV.[原優子](https://ja.wikipedia.org/wiki/原優子 "wikilink")） - 2020年8月21日、ゲーム『[アイドルマスター シンデレラガールズ スターライトステージ](https://ja.wikipedia.org/wiki/アイドルマスター_シンデレラガールズ_スターライトステージ "wikilink")』内の[DJ KOOコラボレーションとして配信された楽曲](../Page/DJ_KOO.md "wikilink")「TRF×CG -DJKOO Mix-」のひとつとして収録。のちに本楽曲単体カバーも収録予定\[5\]。
 
 ## 関連項目
 
@@ -55,8 +58,10 @@ trfのシングルは「[survival dAnce 〜no no cry more〜](https://ja.wikiped
 
   - ミュージック・ビデオ
       -
-[Category:TRFの楽曲](https://ja.wikipedia.org/wiki/Category:TRFの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:日本レコード大賞受賞曲](https://ja.wikipedia.org/wiki/Category:日本レコード大賞受賞曲 "wikilink") [Category:1995年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1995年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:本田技研工業のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:本田技研工業のコマーシャルソング "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink") [Category:ディスコ](https://ja.wikipedia.org/wiki/Category:ディスコ "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")
+[Category:TRFの楽曲](https://ja.wikipedia.org/wiki/Category:TRFの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:日本レコード大賞受賞曲](https://ja.wikipedia.org/wiki/Category:日本レコード大賞受賞曲 "wikilink") [Category:1995年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1995年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:本田技研工業のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:本田技研工業のコマーシャルソング "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink") [Category:ディスコの楽曲](https://ja.wikipedia.org/wiki/Category:ディスコの楽曲 "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")
 
 1.  [角川書店](../Page/角川書店.md "wikilink")刊『[月刊カドカワ](../Page/月刊カドカワ.md "wikilink")』1995年5月号「trf『快楽のGROOVE』」237Pより。
 2.
 3.
+4.  [朝日新聞社](../Page/朝日新聞社.md "wikilink")刊『聞いて極楽（文庫版）』[ナンシー関](../Page/ナンシー関.md "wikilink")著162Pより。
+5.

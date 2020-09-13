@@ -201,7 +201,7 @@
 
 :\* [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")
 
-:\* [草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")
+:\* [草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")
 
 :\* [香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")
 

@@ -258,8 +258,7 @@
 ## 外部リンク
 
   -
-  - [ジーパラドットコム・クリエイターズファイル：喜多川務さん](http://www.gpara.com/contents/creator/bn_250.php)
-
+  -
   -
   -
   -

@@ -30,11 +30,10 @@
         作詞・作曲・編曲：五十嵐充
         15thシングル
         [日本ゲートウェイ](../Page/日本ゲートウェイ.md "wikilink")ノートパソコン 「[Gateway](../Page/ゲートウェイ_\(PCメーカー\).md "wikilink") Solo」CMソング
-4.  **[愛のカケラ](../Page/愛のカケラ_\(Every_Little_Thingの曲\).md "wikilink")**
+4.  **[愛のカケラ 〜Steppin' Hard Enough Mix〜](../Page/愛のカケラ_\(Every_Little_Thingの曲\).md "wikilink")**
       -
         作詞：持田香織 / 作曲：[多胡邦夫](../Page/多胡邦夫.md "wikilink") / 編曲：桑島幻矢、[伊藤一朗](../Page/伊藤一朗.md "wikilink")
-        16thシングル
-        [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")「マシェリ」CMソング
+        16thシングルのバージョン違い
 5.  **[fragile](https://ja.wikipedia.org/wiki/fragile/JIRENMA "wikilink")**
       -
         作詞：持田香織 / 作曲：[菊池一仁](../Page/菊池一仁.md "wikilink") / 編曲：桑島幻矢、菊池一仁、伊藤一朗

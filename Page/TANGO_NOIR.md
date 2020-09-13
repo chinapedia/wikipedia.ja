@@ -17,32 +17,38 @@
 
 ## 収録曲
 
-## クレジット
+### 規格
 
-  - [Photo](../Page/撮影.md "wikilink") by 坂野豊\[22\]
-  - ミキサー: 石崎信郎\[23\]
-
-## 再発盤
-
-  - 1988年6月25日 - [8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink"): 10SL-147\[24\]
-  - 1988年12月21日 - [CT](../Page/コンパクトカセット.md "wikilink"): 10L5-4056\[25\]
-  - 1998年11月26日 - [12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): WPC6-8674\[26\]
-  - 2008年11月12日 - [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")\[27\]\[28\]
+  - 1988年6月25日 - [8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink"): 10SL-147\[22\]
+  - 1988年12月21日 - [CT](../Page/コンパクトカセット.md "wikilink"): 10L5-4056\[23\]
+  - 1998年11月26日 - [12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): WPC6-8674\[24\]
+  - 2008年11月12日 - [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")\[25\]\[26\]
   - 2014年6月18日 - 12cmCD, [Singles Box 1982-1991の一枚として](https://ja.wikipedia.org/wiki/Singles_Box_1982-1991 "wikilink")
 
-## 収録作品
+## クレジット
 
-  - 「TANGO NOIR」
-      - 『[CD'87](../Page/CD'87.md "wikilink")』\[29\]
-      - 『[BEST II](../Page/BEST_II_\(中森明菜のアルバム\).md "wikilink")』\[30\]
-  - 「MILONGUITA」 - 『CD'87』\[31\]
+  - [Photo](../Page/撮影.md "wikilink") by 坂野豊\[27\]
+  - ミキサー: 石崎信郎\[28\]
 
-## カバー
+## 収録アルバム
 
-  - 女優の[片瀬那奈](https://ja.wikipedia.org/wiki/片瀬那奈 "wikilink")が2004年4月にリリースした彼女の2枚目のアルバム『[EXTENDED](https://ja.wikipedia.org/wiki/EXTENDED "wikilink")』にて、「TANGO NOIR」をカバーしている\[32\]\[33\]。
-  - 香港の歌手の[ヨリンダ・ヤン](https://ja.wikipedia.org/wiki/ヨリンダ・ヤン "wikilink")が1988年に発表したアルバム『[無伴的舞](https://ja.wikipedia.org/wiki/無伴的舞 "wikilink")』で、広東語による「恕不奉陪」として、「TANGO NOIR」をカバーした。
+**TANGO NOIR**
 
-## 参照
+  - 『[CD'87](../Page/CD'87.md "wikilink")』\[29\]
+  - 『[BEST II](../Page/BEST_II_\(中森明菜のアルバム\).md "wikilink")』\[30\]
+
+**MILONGUITA**
+
+  - 『CD'87』\[31\]
+
+## カバーしたアーティスト
+
+**TANGO NOIR**
+
+  - 女優の[片瀬那奈](https://ja.wikipedia.org/wiki/片瀬那奈 "wikilink")が2004年4月にリリースした彼女の2枚目のアルバム『[EXTENDED](https://ja.wikipedia.org/wiki/EXTENDED "wikilink")』にてカバーしている\[32\]\[33\]。
+  - 香港の歌手の[ヨリンダ・ヤン](https://ja.wikipedia.org/wiki/ヨリンダ・ヤン "wikilink")が1988年に発表したアルバム『[無伴的舞](https://ja.wikipedia.org/wiki/無伴的舞 "wikilink")』で、広東語による「恕不奉陪」としてカバーした。
+
+## 脚注
 
 ## 外部リンク
 

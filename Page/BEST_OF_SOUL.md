@@ -5,7 +5,13 @@
 
 ## 概要
 
-日本での初めてのベストアルバム。「CD」「CD+DVD」の2形態で発売。出荷ベースで『[LISTEN TO MY HEART](../Page/LISTEN_TO_MY_HEART_\(アルバム\).md "wikilink")』『[VALENTI](../Page/VALENTI_\(アルバム\).md "wikilink")』以来となる[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成。累計出荷枚数は120万枚\[1\]。通常盤には6thシングル「[Don't start now](../Page/Don't_start_now.md "wikilink")」13thシングル「[Be the one](../Page/Be_the_one.md "wikilink")」以外（もともと[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")扱いのため）のシングル曲14曲とSOUL TREEでカバーした「[LA・LA・LA LOVE SONG](../Page/LA・LA・LA_LOVE_SONG.md "wikilink")」が収録されている。 初回限定盤（『BEST OF SOUL -PERFECT EDITION-』）には「[Be the one](../Page/Be_the_one.md "wikilink")」を加えた「[ID; Peace B](../Page/ID;_Peace_B.md "wikilink")」から「[メリクリ](../Page/メリクリ.md "wikilink")」までの全シングル曲に「[the Love Bug](https://ja.wikipedia.org/wiki/the_Love_Bug "wikilink")」のミュージック・ビデオ以外に「QUINCY」「メリクリ」のメイキングビデオが収録されている。レンタルCDは[CCCD](https://ja.wikipedia.org/wiki/CCCD "wikilink")仕様。
+日本での初めてのベストアルバム。「CD+DVD」（初回限定盤）、「CD ONLY」（通常盤）の2形態で発売。初回限定盤版は『BEST OF SOUL -PERFECT EDITION-』という名称。
+
+CDには6thシングル「[Don't start now](../Page/Don't_start_now.md "wikilink")」13thシングル「[Be the one](../Page/Be_the_one.md "wikilink")」以外（もともと[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")扱いのため）のシングル曲14曲とSOUL TREEでカバーした「[LA・LA・LA LOVE SONG](../Page/LA・LA・LA_LOVE_SONG.md "wikilink")」が収録されている。
+
+初回限定盤のDVDには「[Be the one](../Page/Be_the_one.md "wikilink")」を加えた「[ID; Peace B](../Page/ID;_Peace_B.md "wikilink")」から「[メリクリ](../Page/メリクリ.md "wikilink")」までの全シングル曲に「[the Love Bug](https://ja.wikipedia.org/wiki/the_Love_Bug "wikilink")」のミュージック・ビデオ以外に「QUINCY」「メリクリ」のメイキングビデオが収録されている。レンタルCDは[CCCD](https://ja.wikipedia.org/wiki/CCCD "wikilink")仕様。
+
+出荷ベースで『[LISTEN TO MY HEART](../Page/LISTEN_TO_MY_HEART_\(アルバム\).md "wikilink")』『[VALENTI](../Page/VALENTI_\(アルバム\).md "wikilink")』以来となる[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成。累計出荷枚数は120万枚\[1\]。
 
 ## 収録曲 (CD)
 
@@ -75,10 +81,10 @@
 9.  Shine We Are\!
 10. DOUBLE
 11. Rock With You
-12. Be the one
+12. [Be the one](../Page/Be_the_one.md "wikilink")
 13. QUINCY
 14. メリクリ
-15. the Love Bug （[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink") loves BoA）
+15. [the Love Bug](https://ja.wikipedia.org/wiki/the_Love_Bug "wikilink") （[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink") loves BoA）
 
 <!-- end list -->
 
@@ -97,7 +103,7 @@
 | M-2                                                                                                                         | ID; Peace B           | [DDIポケット](../Page/ウィルコム.md "wikilink") 『feelH" Sound Market』CMソング                                                                   |
 | [中京テレビ制作](../Page/中京テレビ放送.md "wikilink")・日本テレビ系『[ろみひー](../Page/ろみひー.md "wikilink")』エンディングテーマ                                |                       |                                                                                                                                     |
 | M-3                                                                                                                         | Amazing Kiss          | [カネボウ](../Page/カネボウ化粧品.md "wikilink")『[テスティモ](https://ja.wikipedia.org/wiki/T'ESTIMO "wikilink")』CMソング                              |
-| [ニッポン放送](../Page/ニッポン放送.md "wikilink")『[ショウアップナイター](https://ja.wikipedia.org/wiki/ショウアップナイター "wikilink")』エンディングテーマ          |                       |                                                                                                                                     |
+| [ニッポン放送](../Page/ニッポン放送.md "wikilink")『[ショウアップナイター](../Page/ニッポン放送ショウアップナイター.md "wikilink")』エンディングテーマ                       |                       |                                                                                                                                     |
 | 中京テレビ制作・日本テレビ系『ろみひー』エンディングテーマ                                                                                               |                       |                                                                                                                                     |
 | M-4                                                                                                                         | 気持ちはつたわる              | [ロッテ](../Page/ロッテ.md "wikilink")『エアレ』 CMソング                                                                                         |
 | [TBS系](../Page/TBSテレビ.md "wikilink")『[月極ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")』テーマソング                                |                       |                                                                                                                                     |

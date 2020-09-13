@@ -1,7 +1,7 @@
 > この記事は[素顔のままKISSしよう](https://ja.wikipedia.org/wiki/素顔のままKISSしよう)から翻訳されています。
 
 
-「**素顔のままKISSしよう**」（すがおのままキスをしよう）は、[MANISH](../Page/MANISH.md "wikilink")の3枚目のシングル。
+「**素顔のままKISSしよう**」（すがおのままキスしよう）は、[MANISH](../Page/MANISH.md "wikilink")の3枚目のシングル。
 
 ## 解説
 

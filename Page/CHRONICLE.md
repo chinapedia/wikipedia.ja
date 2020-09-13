@@ -18,7 +18,7 @@
         （[ディレクター](../Page/ディレクター.md "wikilink")：[竹石渉](https://ja.wikipedia.org/wiki/竹石渉 "wikilink")）
 2.  '''[花葬](../Page/花葬.md "wikilink")
       -
-        （ディレクター：[Higuchinsky](https://ja.wikipedia.org/wiki/Higuchinsky "wikilink")）
+        （ディレクター：[Higuchinsky](../Page/Higuchinsky.md "wikilink")）
 3.  **[浸食 〜lose control〜](../Page/浸食_〜lose_control〜.md "wikilink")**
       -
         （ディレクター：Higuchinsky）

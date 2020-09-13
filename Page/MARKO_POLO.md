@@ -24,10 +24,10 @@
         『SUPER EUROBEAT VOL.87』収録。
   - SPEEDY SPEED BOY
       -
-        『EUROMACH 1』収録\[2\]。アニメ『[頭文字D](../Page/頭文字D.md "wikilink")』にも起用された。『頭文字D Arcade Stage Ver.3』の妙義のBGM。
+        『EUROMACH 1』収録\[2\]。アニメ『[頭文字D](../Page/頭文字D.md "wikilink")』にも起用された。『頭文字D Arcade Stage Ver.3 / Street Stage』の妙義のBGM。
   - STOP YOUR SELF CONTROL
       -
-        『SUPER EUROBEAT VOL.139』収録。『頭文字D Arcade Stage Ver.3』の秋名（雪）のBGM。2017年3月7日に稼働した『頭文字D Zero』でも収録される。
+        『SUPER EUROBEAT VOL.139』収録。『頭文字D Arcade Stage Ver.3 / Street Stage』の秋名（夜）、秋名（雪）のBGM。2017年3月7日に稼働した『頭文字D Zero』でも収録される。
   - HAI HAI HAI (Dance across the nations)
       -
         『SUPER EUROBEAT VOL.142』収録。

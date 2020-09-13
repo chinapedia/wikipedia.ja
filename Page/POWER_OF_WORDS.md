@@ -16,7 +16,7 @@ Sincerely Yours／Can you feel the POWER OF WORDS?}}
 
 1.  **POWER OF WORDS**
       - 作詞：愛内里菜 / 作曲：[宝仙明伽音](https://ja.wikipedia.org/wiki/宝仙明伽音 "wikilink") / 編曲：KCP
-2.  **[I can't stop my love for you♥](../Page/I_can't_stop_my_love_for_you.md "wikilink")**
+2.  **[I can't stop my love for you♥](../Page/I_can't_stop_my_love_for_you♥.md "wikilink")**
       - 作詞：愛内里菜 / 作曲：[川島だりあ](../Page/川島だりあ.md "wikilink") / 編曲：尾城九龍
     <!-- end list -->
       -
@@ -31,11 +31,11 @@ Sincerely Yours／Can you feel the POWER OF WORDS?}}
     <!-- end list -->
       -
         8thシングル。[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[感動ファクトリー・すぽると\!](../Page/すぽると!.md "wikilink")』主題歌。
-5.  **[pink baby's breath -album mix-](../Page/I_can't_stop_my_love_for_you.md "wikilink")**
+5.  **[pink baby's breath](../Page/I_can't_stop_my_love_for_you♥.md "wikilink") -album mix-**
       - 作詞：愛内里菜 / 作曲：[輝門](../Page/輝門.md "wikilink") / 編曲：[寺尾広](../Page/寺尾広.md "wikilink")
     <!-- end list -->
       -
-        9thシングル「I can't stop my love for you♥」のカップリング曲のアルバムミックス。
+        9thシングル『I can't stop my love for you♥』のカップリング曲のアルバムミックス。
 6.  **be distant**
       - 作詞：愛内里菜 / 作曲：徳永暁人 / 編曲：KCP
 7.  **WISH**
@@ -65,7 +65,7 @@ Sincerely Yours／Can you feel the POWER OF WORDS?}}
       - 作詞：愛内里菜 / 作曲：大野愛果 / 編曲：徳永暁人
     <!-- end list -->
       -
-        フジテレビ系『[ザ・レターズ〜家族の愛にありがとう](../Page/ザ・レターズ〜家族の愛にありがとう.md "wikilink")』挿入歌。後に10thシングル「Sincerely Yours／Can you feel the POWER OF WORDS?」でリミックスバージョンとしてリカットされる。
+        フジテレビ系『[ザ・レターズ〜家族の愛にありがとう](../Page/ザ・レターズ〜家族の愛にありがとう.md "wikilink")』挿入歌。後に10thシングル『Sincerely Yours／Can you feel the POWER OF WORDS?』でリミックスバージョンとしてリカットされる。
 
 ## 参加ミュージシャン
 
@@ -80,10 +80,5 @@ Sincerely Yours／Can you feel the POWER OF WORDS?}}
   - [大賀好修](../Page/大賀好修.md "wikilink")：[Guitars](../Page/ギター.md "wikilink") (\#1,2,3,7,9)
   - 中井俊秀：Guitars、Chorus (\#5)
   - 綿貫正顕：Guitars (\#6)
-
-## 関連項目
-
-  - [愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")
-  - [名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")
 
 [Category:愛内里菜のアルバム](https://ja.wikipedia.org/wiki/Category:愛内里菜のアルバム "wikilink") [Category:2002年のアルバム](https://ja.wikipedia.org/wiki/Category:2002年のアルバム "wikilink") [Category:2002年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2002年のオリコンアルバムチャート1位獲得作品 "wikilink")

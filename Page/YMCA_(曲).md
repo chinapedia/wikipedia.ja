@@ -29,7 +29,6 @@
   - [山崎弘也](../Page/山崎弘也.md "wikilink")（[アンタッチャブル](../Page/アンタッチャブル_\(お笑いコンビ\).md "wikilink")）が、『[リチャードホール](../Page/リチャードホール.md "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）でコントのキャラクター・下衆ヤバ夫として歌っている。ほとんど全て[替え歌](../Page/替え歌.md "wikilink")だった。西城と同名タイトルの「YOUNG MAN (Y.M.C.A.)」でカバーした。
   - [2016年](../Page/2016年.md "wikilink")に発売された[BOYS AND MENのアルバム](https://ja.wikipedia.org/wiki/BOYS_AND_MEN "wikilink")『[威風堂々〜B.M.C.A.〜](https://ja.wikipedia.org/wiki/威風堂々〜B.M.C.A.〜 "wikilink")』に、歌詞がリアレンジされた「ヤングマン〜B.M.C.A.〜」が収録されている。
   - 西城と同じ歌詞でカバーした歌手については、[YOUNG MAN (Y.M.C.A.)\#カバーを参照](https://ja.wikipedia.org/wiki/YOUNG_MAN_\(Y.M.C.A.\)#カバー "wikilink")。
-  - [2018年](../Page/2018年.md "wikilink")に発売された[E.G.11](https://ja.wikipedia.org/wiki/E.G.11 "wikilink")というアルバムに[Y.M.C.A. (E-girls version)という曲名でカヴァーされた](https://ja.wikipedia.org/wiki/Y.M.C.A._\(E-girls_version\) "wikilink")。
 
 ## この曲が使用されるもの
 
@@ -45,7 +44,7 @@
   - [滋賀レイクスターズ](https://ja.wikipedia.org/wiki/滋賀レイクスターズ "wikilink")ホームゲーム
   - [中央競馬](../Page/中央競馬.md "wikilink")第4回、第5回東京新馬戦本馬場入場（2007年まで）
   - [KONAMI](../Page/コナミデジタルエンタテインメント.md "wikilink")・超大型[マスメダル](https://ja.wikipedia.org/wiki/プッシャーゲーム#マスプッシャー "wikilink")[プッシャーゲーム](../Page/プッシャーゲーム.md "wikilink")[GRAND CROSS](../Page/GRAND_CROSS.md "wikilink")「[PREMIUM MODE](https://ja.wikipedia.org/wiki/GRAND_CROSS#PREMIUM_MODE "wikilink")」中のBGM（メダル獲得枚数が3000枚を超えると全サテライトにBGMが流れる）
-  - [TBSテレビ](../Page/TBSテレビ.md "wikilink")のドラマ「家路」では、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")の[歌手](../Page/歌手.md "wikilink")[ジョージ・ラム](https://ja.wikipedia.org/wiki/ジョージ・ラム "wikilink")（林子祥）が歌う[広東語](../Page/広東語.md "wikilink")ヴァージョンが劇中で体操用の曲として使用され、歌い出しの「YOUNG MAN」の部分で歌われる「兄弟」（hing<small style="font-size:70%;"><sup>1</sup></small>dai<small style="font-size:70%;"><sup>6</sup></small>）の発音が日本人には「ヘンタイ」と聞こえるため、このヴァージョンは「ヘンタイ体操」の通称で呼ばれた。この体操には[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")が[フィーチャー](https://ja.wikipedia.org/wiki/フィーチャー "wikilink")されており、いわゆる「空耳」の初期の[ネタ](https://ja.wikipedia.org/wiki/ネタ "wikilink")であるとも言える。
+  - [TBSテレビ](../Page/TBSテレビ.md "wikilink")のドラマ「家路」では、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")の[歌手](../Page/歌手.md "wikilink")[ジョージ・ラム](https://ja.wikipedia.org/wiki/ジョージ・ラム "wikilink")（林子祥）が歌う[広東語](../Page/広東語.md "wikilink")ヴァージョンが劇中で体操用の曲として使用され、歌い出しの「YOUNG MAN」の部分で歌われる「兄弟」（hing<small style="font-size:70%;"><sup>1</sup></small>dai<small style="font-size:70%;"><sup>6</sup></small>）の発音が[日本語](../Page/日本語.md "wikilink")の「ヘンタイ」のように聞こえるため、このヴァージョンは「ヘンタイ体操」の通称で呼ばれた。この体操には[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")が[フィーチャー](https://ja.wikipedia.org/wiki/フィーチャー "wikilink")されている。
   - [サンリオ](../Page/サンリオ.md "wikilink")の[キャラクター](../Page/キャラクター.md "wikilink")、[バッドばつ丸](../Page/バッドばつ丸.md "wikilink")の持ち歌である（[サンリオピューロランド](../Page/サンリオピューロランド.md "wikilink")などで披露）。
   - [NAHAマラソン](../Page/NAHAマラソン.md "wikilink")コース上の嘉数交差点付近にて応援の一環として用いられている。
   - ギネス記録「ウォーリーを探せ」で使われた。
@@ -57,7 +56,7 @@
 
   - [1979年の音楽](../Page/1979年の音楽.md "wikilink")
 
-[Category:ヴィレッジ・ピープルの楽曲](https://ja.wikipedia.org/wiki/Category:ヴィレッジ・ピープルの楽曲 "wikilink") [Category:LGBT関連楽曲](https://ja.wikipedia.org/wiki/Category:LGBT関連楽曲 "wikilink") [Category:1978年のシングル](https://ja.wikipedia.org/wiki/Category:1978年のシングル "wikilink") [Category:全英シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:全英シングルチャート1位獲得作品 "wikilink") [Category:楽曲_わ](https://ja.wikipedia.org/wiki/Category:楽曲_わ "wikilink")
+[Category:ヴィレッジ・ピープルの楽曲](https://ja.wikipedia.org/wiki/Category:ヴィレッジ・ピープルの楽曲 "wikilink") [Category:LGBT関連楽曲](https://ja.wikipedia.org/wiki/Category:LGBT関連楽曲 "wikilink") [Category:1978年のシングル](https://ja.wikipedia.org/wiki/Category:1978年のシングル "wikilink") [Category:全英シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:全英シングルチャート1位獲得作品 "wikilink") [Category:ディスコの楽曲](https://ja.wikipedia.org/wiki/Category:ディスコの楽曲 "wikilink") [Category:楽曲_わ](https://ja.wikipedia.org/wiki/Category:楽曲_わ "wikilink")
 
 1.  コンピレーション・アルバム『ナンバーワン70s ORICON ヒッツ』の[裏ジャケット](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")。[ナンバーワン 70s 80s 90s オリコン・ヒッツ](http://www.sonymusic.co.jp/Music/International/Special/no1oriconhits/)も参照。
 2.

@@ -61,4 +61,4 @@
 8.  女の意地vs男の見栄
 9.  最後に正義は勝つ
 
-[Category:土曜グランド劇場](https://ja.wikipedia.org/wiki/Category:土曜グランド劇場 "wikilink") [Category:テレパックのテレビドラマ](https://ja.wikipedia.org/wiki/Category:テレパックのテレビドラマ "wikilink") [Category:1994年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1994年のテレビドラマ "wikilink") [Category:星座を題材とした作品](https://ja.wikipedia.org/wiki/Category:星座を題材とした作品 "wikilink") [Category:武田鉄矢](https://ja.wikipedia.org/wiki/Category:武田鉄矢 "wikilink")
+[Category:土曜グランド劇場](https://ja.wikipedia.org/wiki/Category:土曜グランド劇場 "wikilink") [Category:テレパックのテレビドラマ](https://ja.wikipedia.org/wiki/Category:テレパックのテレビドラマ "wikilink") [Category:1994年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1994年のテレビドラマ "wikilink") [Category:血液型を題材とした作品](https://ja.wikipedia.org/wiki/Category:血液型を題材とした作品 "wikilink") [Category:星座を題材とした作品](https://ja.wikipedia.org/wiki/Category:星座を題材とした作品 "wikilink") [Category:武田鉄矢](https://ja.wikipedia.org/wiki/Category:武田鉄矢 "wikilink")

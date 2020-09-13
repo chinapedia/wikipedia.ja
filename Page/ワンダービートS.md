@@ -5,7 +5,7 @@
 
 ## 概要
 
-22世紀の科学[学園都市](../Page/学園都市.md "wikilink")・ナギサシティで、[器官](../Page/器官.md "wikilink")や[運動器](https://ja.wikipedia.org/wiki/運動器 "wikilink")に突如として痛みなど体調不良を呈する住民が相次ぎ、総合健康科学研究所に搬送されてくる。研究所の特殊医療部隊「ホワイトペガサス」のメンバーがワンダービート号でミクロ化のうえ体内に入り込み、原因不明の異物を駆逐する内容の[SF](../Page/SF.md "wikilink")[アクション](https://ja.wikipedia.org/wiki/アクション "wikilink")である。
+22世紀の科学[学園都市](../Page/学園都市.md "wikilink")・ナギサシティで、[器官](../Page/器官.md "wikilink")や[運動器](https://ja.wikipedia.org/wiki/運動器 "wikilink")に突如として痛みなど体調不良を呈する住民が相次ぎ、総合健康科学研究所に搬送されてくる。研究所の特殊医療部隊「ホワイトペガサス」のメンバーがワンダービート号でミクロ化のうえ体内に入り込み、原因不明の異物を駆逐する内容の[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[アクション](https://ja.wikipedia.org/wiki/アクション "wikilink")である。
 
 倒産後新たに設立した[虫プロダクション](../Page/虫プロダクション.md "wikilink")株式会社初のテレビアニメ作品で、[鉄腕アトム (アニメ第1作)の](../Page/鉄腕アトム_\(アニメ第1作\).md "wikilink")「[細菌部隊](../Page/ミクロの決死圏.md "wikilink")」を[モチーフ](https://ja.wikipedia.org/wiki/モチーフ "wikilink")とした[伊藤叡](https://ja.wikipedia.org/wiki/伊藤叡 "wikilink")によるオリジナル企画である。再起の時に協力することを約束した[手塚治虫](../Page/手塚治虫.md "wikilink")が本作の企画・監修を快諾。当時のアニメでは前例のない[医学](../Page/医学.md "wikilink")・[生理学](../Page/生理学.md "wikilink")分野の学者監修が付き、実際の器官機能に基づいたストーリーが展開されている。また、本編終了後に医学博士でもある手塚が実写出演し、舞台となった人体の[器官](../Page/器官.md "wikilink")と生理学の働きについて説明する「手塚治虫のミニミニトーク」コーナーが本放送で放映された。
 

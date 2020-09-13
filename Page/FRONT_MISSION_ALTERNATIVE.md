@@ -77,7 +77,7 @@
   - [フロントミッションオルタナティヴ公式サイト](http://www.square-enix.co.jp/fm/fma/)
   - [フロントミッションシリーズ公式サイト](http://www.square-enix.co.jp/fm/)
 
-[Category:フロントミッション](https://ja.wikipedia.org/wiki/Category:フロントミッション "wikilink") [Category:リアルタイムストラテジー](https://ja.wikipedia.org/wiki/Category:リアルタイムストラテジー "wikilink") [Category:1997年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1997年のコンピュータゲーム "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:クーデターを題材とした作品](https://ja.wikipedia.org/wiki/Category:クーデターを題材とした作品 "wikilink") [Category:アフリカを舞台とした作品](https://ja.wikipedia.org/wiki/Category:アフリカを舞台とした作品 "wikilink")
+[Category:フロントミッション](https://ja.wikipedia.org/wiki/Category:フロントミッション "wikilink") [Category:リアルタイムストラテジー](https://ja.wikipedia.org/wiki/Category:リアルタイムストラテジー "wikilink") [Category:1997年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1997年のコンピュータゲーム "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:クーデターを題材とした作品](https://ja.wikipedia.org/wiki/Category:クーデターを題材とした作品 "wikilink") [Category:アフリカを舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:アフリカを舞台としたコンピュータゲーム "wikilink")
 
 1.  具体的には、ゲーム用にレートを落とす前の状態。未収録曲が出た理由は、ゲームに使用された曲が優に40曲を超えており、ディスク一枚制限の中完全収録が困難であったためである。（インタビューより）
 2.  「DengekiGAMES 2004年2月号（フロントミッション100年史）」より

@@ -32,7 +32,7 @@
 <!-- end list -->
 
   - [蘭寿とむ](../Page/蘭寿とむ.md "wikilink") - アルバム「Le Ange（ル アンジュ）」（2015年10月21日）収録\[1\]
-  - ほのか（Zero-Shaft） - アルバム「dramatic. (ドラマチック)」（2018年6月21日）収録。
+  - ほのか（[Zero-Shaft](https://ja.wikipedia.org/wiki/Zero-Shaft "wikilink")） - アルバム「dramatic. (ドラマチック)」（2018年6月21日）収録。
   - [家入レオ](https://ja.wikipedia.org/wiki/家入レオ "wikilink") - EP「Answer」(2020年5月13日)収録。編曲は[冨田恵一](https://ja.wikipedia.org/wiki/冨田恵一 "wikilink")。
 
 ## 関連作品
@@ -49,6 +49,6 @@
 
 ## 脚注
 
-[Category:平井堅の楽曲](https://ja.wikipedia.org/wiki/Category:平井堅の楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:2005年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2005年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:フジテレビ月曜9時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビ月曜9時枠の連続ドラマの主題歌 "wikilink") [Category:星を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:星を題材とした楽曲 "wikilink") [Category:楽曲_ほ](https://ja.wikipedia.org/wiki/Category:楽曲_ほ "wikilink")
+[Category:平井堅の楽曲](https://ja.wikipedia.org/wiki/Category:平井堅の楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:2005年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2005年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:フジテレビ月曜9時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビ月曜9時枠の連続ドラマの主題歌 "wikilink") [Category:楽曲_ほ](https://ja.wikipedia.org/wiki/Category:楽曲_ほ "wikilink")
 
 1.

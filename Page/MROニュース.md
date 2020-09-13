@@ -91,7 +91,7 @@
 ## 外部リンク
 
   - [MROニュース](http://www.mro.co.jp/news/) - 北陸放送
-  - [Yahoo\!ニュース MROテレビ](https://news.yahoo.co.jp/media/mrov) - 動画配信ニュースあり
+  - [Yahoo\!ニュース MRO北陸放送](https://news.yahoo.co.jp/media/mrov) - 動画配信ニュースあり
 
 [Category:北陸放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:北陸放送のテレビ番組 "wikilink") [Category:東海・北陸地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビのニュース・報道番組 "wikilink") [Category:東海・北陸地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビのミニ番組 "wikilink") [Category:東海・北陸地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビの帯番組 "wikilink") [Category:北陸放送のラジオ帯番組](https://ja.wikipedia.org/wiki/Category:北陸放送のラジオ帯番組 "wikilink") [Category:ローカルラジオ局のニュース・報道番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のニュース・報道番組 "wikilink") [Category:ラジオのミニ番組](https://ja.wikipedia.org/wiki/Category:ラジオのミニ番組 "wikilink") [Category:北國新聞](https://ja.wikipedia.org/wiki/Category:北國新聞 "wikilink") [Category:JNNニュースコープ](https://ja.wikipedia.org/wiki/Category:JNNニュースコープ "wikilink") [Category:JNNニュースの森](https://ja.wikipedia.org/wiki/Category:JNNニュースの森 "wikilink") [Category:JNNイブニング・ニュース](https://ja.wikipedia.org/wiki/Category:JNNイブニング・ニュース "wikilink") [Category:ひるおび\!](https://ja.wikipedia.org/wiki/Category:ひるおび! "wikilink") [Category:ヤン坊マー坊天気予報](https://ja.wikipedia.org/wiki/Category:ヤン坊マー坊天気予報 "wikilink") [Category:Nスタ](https://ja.wikipedia.org/wiki/Category:Nスタ "wikilink")
 

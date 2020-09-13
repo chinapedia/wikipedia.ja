@@ -35,4 +35,4 @@ C.T.Uレンジャーは2006年7月30日に[後楽園ホール](../Page/後楽園
   - [TAKAみちのく](../Page/TAKAみちのく.md "wikilink")（[KAIENTAI DOJO](../Page/KAIENTAI_DOJO.md "wikilink")）
   - [ディック東郷](../Page/ディック東郷.md "wikilink")（[SUPER CREW](https://ja.wikipedia.org/wiki/SUPER_CREW "wikilink")）
 
-[Category:新日本プロレスのユニット](https://ja.wikipedia.org/wiki/Category:新日本プロレスのユニット "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink")
+[Category:新日本プロレスのユニット](https://ja.wikipedia.org/wiki/Category:新日本プロレスのユニット "wikilink")

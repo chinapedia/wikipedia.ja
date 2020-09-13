@@ -134,7 +134,7 @@
 
   -
     ドーリングとの外国人コンビとして活躍。解散まで加入し、解散後は正規軍。
-    現在はWRESTLE-1へ不定期参戦している。
+    現在は杉浦軍の一員としてプロレスリング・ノアへ参戦中。
 
 <!-- end list -->
 
@@ -344,15 +344,6 @@
 
 <!-- end list -->
 
-  - [ハートリー・ジャクソン](https://ja.wikipedia.org/wiki/ハートリー・ジャクソン "wikilink")
-
-<!-- end list -->
-
-  -
-    ZERO1に参戦中の外国人レスラー。2016年加入。ZERO1ではTARUとのタッグで共闘中。2019年現在休業中。
-
-<!-- end list -->
-
   - [クリス・ヴァイス](../Page/クリス・ヴァイス.md "wikilink")- （2018年　- ）
 
 <!-- end list -->
@@ -507,6 +498,11 @@
   -
     2018年1月に加入。
 
+<!-- end list -->
+
+  - [ハートリー・ジャクソン](https://ja.wikipedia.org/wiki/ハートリー・ジャクソン "wikilink")
+  - [RAICHO](https://ja.wikipedia.org/wiki/RAICHO "wikilink")
+
 ## 獲得タイトル
 
 ### 第1期
@@ -537,7 +533,8 @@
   - [NWAインターコンチネンタルタッグ王座](https://ja.wikipedia.org/wiki/NWAインターコンチネンタルタッグ王座 "wikilink")･･･1回 - TARU&ハートリー・ジャクソン（第33代）
   - NWAインターコンチネンタルタッグ王座･･･1回 - 田中将斗&火野裕士（第38代）
   - NWAインターコンチネンタルタッグ王座･･･1回 - TARU&クリス・ヴァイス（第39代）
-  - [NWA UNヘビー級王座](https://ja.wikipedia.org/wiki/NWAユナイテッド・ナショナル・ヘビー級王座 "wikilink")･･･1回 - クリス・ヴァイス（第30代）
+  - [NWA UNヘビー級王座](https://ja.wikipedia.org/wiki/NWAユナイテッド・ナショナル・ヘビー級王座 "wikilink")･･･2回 - クリス・ヴァイス（第31代、第34代）
+  - 世界ヘビー級王座･･･1回- クリス・ヴァイス（第27代）
 
 ## 脚注
 

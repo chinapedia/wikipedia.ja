@@ -17,6 +17,8 @@
 
 [2019年](../Page/2019年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")の中野サンプラザ公演をもってグループ活動を休止し（解散はしていない）\[3\]\[4\]、[5月20日](../Page/5月20日.md "wikilink")には吉井のグループ脱退・芸能活動休止を発表した\[5\]\[6\]。
 
+2020年5月22日、オンラインイベント「9nine online event 2020 ～ONLINEのON9nine」を開催\[7\]。
+
 ### グループ名の由来
 
 10が完璧とすると“9”のみんな（結成当時の人数）が集まることで10に近づけるように頑張ろう、完璧じゃないが目標を持った者が集まり完璧なもの、ひとつのものを目指すという意味を込めて付けられた。
@@ -207,7 +209,7 @@
 
 :\* 2月14日：**1stシングル「[Sweet Snow](https://ja.wikipedia.org/wiki/Sweet_Snow "wikilink")」**をリリース後、都内各地で、ストリート[ライブや各種ライブイベントなどを中心とした活動を行う](../Page/演奏会.md "wikilink")。
 
-:\* 4月1日：[shibuya duo MUSIC EXCHANGEにて](https://ja.wikipedia.org/wiki/Shibuya_O-EAST#duo_MUSIC_EXCHANGE "wikilink")、初のワンマンライブを行う。\[7\]
+:\* 4月1日：[shibuya duo MUSIC EXCHANGEにて](https://ja.wikipedia.org/wiki/Shibuya_O-EAST#duo_MUSIC_EXCHANGE "wikilink")、初のワンマンライブを行う。\[8\]
 
 :\* 7月26日：**デジタルシングル「Shine」**をリリース。
 
@@ -291,13 +293,13 @@
 
   - 2011年
 
-:\* 3月9日：**6thシングル「[SHINING☆STAR](https://ja.wikipedia.org/wiki/SHINING☆STAR "wikilink")」**をリリース\[8\]。同時に、[GREE](https://ja.wikipedia.org/wiki/GREE "wikilink")にて公式ブログ、[Myspace](../Page/Myspace.md "wikilink")にて公式ページを開設。
+:\* 3月9日：**6thシングル「[SHINING☆STAR](https://ja.wikipedia.org/wiki/SHINING☆STAR "wikilink")」**をリリース\[9\]。同時に、[GREE](https://ja.wikipedia.org/wiki/GREE "wikilink")にて公式ブログ、[Myspace](../Page/Myspace.md "wikilink")にて公式ページを開設。
 
 :\* 3月28日：『Go\!Go\!9nine』が終了。
 
 :\* 7月20日：**7thシングル「[夏 wanna say love U](https://ja.wikipedia.org/wiki/夏_wanna_say_love_U "wikilink")」**をリリース。表題曲はGREE[ソーシャルゲーム](https://ja.wikipedia.org/wiki/ソーシャルゲーム "wikilink")『ボクは敏腕マネージャー』[TV](https://ja.wikipedia.org/wiki/TV "wikilink")-[CMソング](https://ja.wikipedia.org/wiki/CMソング "wikilink")。
 
-:\* 8月17日：「『夏 wanna say love U』のリリースイベントで通算3,939人と握手する」\[9\]という企画を達成したため、鎌倉市由比ヶ浜海岸にて『9nine Beach Party 2011』を行う。
+:\* 8月17日：「『夏 wanna say love U』のリリースイベントで通算3,939人と握手する」\[10\]という企画を達成したため、鎌倉市由比ヶ浜海岸にて『9nine Beach Party 2011』を行う。
 
 :\* 9月10日：新宿BLAZEにて*ワンマンライブ『We are 9nine♥〜あれから1年経ちました\! 9nineの日スペシャルライブ〜』*を行う。
 
@@ -305,21 +307,21 @@
 
 :\* 11月27日：大阪・阿倍野ROCKTOWNにて*ファンミーティング『ほっとけない〜ん会 全5皿\!\!“2皿め〜”』*を行う。
 
-:\* 12月21日：**8thシングル「[チクタク☆2NITE](https://ja.wikipedia.org/wiki/チクタク☆2NITE "wikilink")」**をリリース。[新垣結衣](https://ja.wikipedia.org/wiki/新垣結衣 "wikilink")主演[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[金曜スーパープライム](https://ja.wikipedia.org/wiki/金曜スーパープライム "wikilink")スペシャルドラマ『[らんま1/2](https://ja.wikipedia.org/wiki/らんま1/2 "wikilink")』主題歌\[10\]。
+:\* 12月21日：**8thシングル「[チクタク☆2NITE](https://ja.wikipedia.org/wiki/チクタク☆2NITE "wikilink")」**をリリース。[新垣結衣](https://ja.wikipedia.org/wiki/新垣結衣 "wikilink")主演[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[金曜スーパープライム](https://ja.wikipedia.org/wiki/金曜スーパープライム "wikilink")スペシャルドラマ『[らんま1/2](https://ja.wikipedia.org/wiki/らんま1/2 "wikilink")』主題歌\[11\]。
 
 :\* 12月24日：恵比寿LIVE GATEにて*ファンミーティング『ほっとけない〜ん会 全5皿\!\!“3皿め〜”』*を行う。
 
   - 2012年
 
-:\* 1月11日：初のキー局冠レギュラー番組『[こんなのアイドルじゃナイン\!?](https://ja.wikipedia.org/wiki/こんなのアイドルじゃナイン!? "wikilink")』が日本テレビでスタート\[11\]。
+:\* 1月11日：初のキー局冠レギュラー番組『[こんなのアイドルじゃナイン\!?](https://ja.wikipedia.org/wiki/こんなのアイドルじゃナイン!? "wikilink")』が日本テレビでスタート\[12\]。
 
-:\* 1月25日：**9thシングル「[少女トラベラー](https://ja.wikipedia.org/wiki/少女トラベラー "wikilink")」**をリリース\[12\]。このシングルで初の[オリコンウィークリーシングルランキングトップ](../Page/オリコンチャート.md "wikilink")10入りを果たした(9位)\[13\]。
+:\* 1月25日：**9thシングル「[少女トラベラー](https://ja.wikipedia.org/wiki/少女トラベラー "wikilink")」**をリリース\[13\]。このシングルで初の[オリコンウィークリーシングルランキングトップ](../Page/オリコンチャート.md "wikilink")10入りを果たした(9位)\[14\]。
 
 :\* 1月28日：[品川ステラボールにて](https://ja.wikipedia.org/wiki/エプソン_アクアパーク品川 "wikilink")*ワンマンライブ『ワンマン9nine 〜略して“ワンナイ”スペシャル\!\!〜』*を行う。
 
 :\* 2月18日：代々木山野ホールにて*ファンミーティング『ほっとけない〜ん会 全5皿\!\!“4皿め〜”』*を行う。
 
-:\* 3月7日：**リニューアル後初のアルバム『[9nine](https://ja.wikipedia.org/wiki/9nine_\(アルバム\) "wikilink")』**をリリース\[14\]。このアルバムで結成以来初のアルバムチャートトップ10入りを果たした（8位）。また、同日に『9nine Official Youtube Channel』がオープン。
+:\* 3月7日：**リニューアル後初のアルバム『[9nine](https://ja.wikipedia.org/wiki/9nine_\(アルバム\) "wikilink")』**をリリース\[15\]。このアルバムで結成以来初のアルバムチャートトップ10入りを果たした（8位）。また、同日に『9nine Official Youtube Channel』がオープン。
 
 :\* 3月10日：『9nineのオールナイトニッポンR』が終了。
 
@@ -483,7 +485,7 @@
 
 :\* 2月27日：4月以降活動休止期間に入る事を発表。
 
-:\* 4月6日：中野サンプラザにて*ワンマンライブ『9nine one man live 2019 Forever 9nine』*を開催し、活動休止。
+:\* 4月6日：中野サンプラザにて*ワンマンライブ『9nine one man live 2019 Forever 9nine』*を開催し、活動休止\[16\]。
 
 :\* 5月20日：吉井の脱退を発表。
 
@@ -491,7 +493,7 @@
 
   - 2020年
 
-:\* 5月22日：活動休止後初の*オンラインイベント『9nine online event 2020 〜ONLINEのON9NINE\!〜』*をSHOWROOMから配信予定。
+:\* 5月22日：活動休止後初の*オンラインイベント『9nine online event 2020 〜ONLINEのON9NINE\!〜』*をSHOWROOMから配信。
 
 ## 作品
 
@@ -505,7 +507,7 @@
 <th><p>タイトル</p></th>
 <th><p>形態</p></th>
 <th><p>収録アルバム</p></th>
-<th><p>最高位[15]</p></th>
+<th><p>最高位[17]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -766,7 +768,7 @@ PLAYLAND</a></p></td>
 <th><p>リリース</p></th>
 <th><p>タイトル</p></th>
 <th><p>形態</p></th>
-<th><p>最高位[16]</p></th>
+<th><p>最高位[18]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -847,7 +849,7 @@ PLAYLAND</a></p></td>
 <th><p>リリース</p></th>
 <th><p>タイトル</p></th>
 <th><p>形態</p></th>
-<th><p>最高位[17]</p></th>
+<th><p>最高位[19]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -2626,7 +2628,7 @@ WEB-CMソング</p></td>
 
   - [ワッチミー\! TV×TV](https://ja.wikipedia.org/wiki/ワッチミー!TV#ワッチミー!TV×TV "wikilink")（2008年10月 - 2009年3月、[BSフジ](../Page/BSフジ.md "wikilink")）
   - [Go\!Go\!9nine](https://ja.wikipedia.org/wiki/Go!Go!9nine "wikilink")（2010年9月27日 - 2011年3月28日、[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")）
-  - [下町ロケバラエティ番組 浅草ベビ9](https://ja.wikipedia.org/wiki/下町ロケバラエティ番組_浅草ベビ9 "wikilink")（2017年4月2日 - 9月24日、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）\[18\]
+  - [下町ロケバラエティ番組 浅草ベビ9](https://ja.wikipedia.org/wiki/下町ロケバラエティ番組_浅草ベビ9 "wikilink")（2017年4月2日 - 9月24日、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）\[20\]
   - [下町ロケバラエティ番組 浅草うず九](https://ja.wikipedia.org/wiki/下町ロケバラエティ番組_浅草うず九 "wikilink")（2018年1月14日 - 4月2日、テレビ東京）
   - 9nine 4 YOU（2019年1月12日 - 、台湾MTV）
 
@@ -2716,9 +2718,9 @@ WEB-CMソング</p></td>
   - [9nineなんです](https://ja.wikipedia.org/wiki/9nineなんです "wikilink")（2009年4月4日 - 9月26日、[FM NACK5](../Page/エフエムナックファイブ.md "wikilink")）
   - 9nineのお呼びで9nine。（2010年1月5日 - 6月29日、[スターデジオ](../Page/スターデジオ.md "wikilink")）
   - [9nineのオールナイトニッポンR](https://ja.wikipedia.org/wiki/9nineのオールナイトニッポンR "wikilink")（2010年10月9日 - 2012年3月10日、[ニッポン放送](../Page/ニッポン放送.md "wikilink")）
-  - [wktkラヂオ学園](https://ja.wikipedia.org/wiki/wktkラヂオ学園 "wikilink")（2013年4月6日 - 4月27日、[NHKラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")） - マンスリーパーソナリティー\[19\]。
+  - [wktkラヂオ学園](https://ja.wikipedia.org/wiki/wktkラヂオ学園 "wikilink")（2013年4月6日 - 4月27日、[NHKラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")） - マンスリーパーソナリティー\[21\]。
   - 9nine plus（2015年1月7日 - 2016年3月30日、[FM AICHI](../Page/エフエム愛知.md "wikilink")）
-  - 9nineのモテNight Party♪（2014年4月3日 - 2017年3月30日、[FM NACK5](../Page/エフエムナックファイブ.md "wikilink")） - 「[The Nutty Radio Show おに魂](../Page/The_Nutty_Radio_Show_おに魂.md "wikilink")」木曜に内包\[20\]。
+  - 9nineのモテNight Party♪（2014年4月3日 - 2017年3月30日、[FM NACK5](../Page/エフエムナックファイブ.md "wikilink")） - 「[The Nutty Radio Show おに魂](../Page/The_Nutty_Radio_Show_おに魂.md "wikilink")」木曜に内包\[22\]。
 
 ### ソーシャルゲーム
 
@@ -2755,7 +2757,7 @@ WEB-CMソング</p></td>
   -
   - [9nine｜Victor Entertainment](https://www.jvcmusic.co.jp/-/Artist/A020878.html)
 
-[Category:9nine](https://ja.wikipedia.org/wiki/Category:9nine "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:レプロエンタテインメント](https://ja.wikipedia.org/wiki/Category:レプロエンタテインメント "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:エスエムイーレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:エスエムイーレコーズのアーティスト "wikilink") [Category:名数9](https://ja.wikipedia.org/wiki/Category:名数9 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
+[Category:9nine](https://ja.wikipedia.org/wiki/Category:9nine "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:レプロエンタテインメント](https://ja.wikipedia.org/wiki/Category:レプロエンタテインメント "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:エスエムイーレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:エスエムイーレコーズのアーティスト "wikilink") [Category:名数9](https://ja.wikipedia.org/wiki/Category:名数9 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
 
 1.
 2.
@@ -2775,5 +2777,7 @@ WEB-CMソング</p></td>
 16.
 17.
 18.
-19. 村田寛奈は18歳未満で労働基準法に触れるため、残り4人のうちから毎週数名が交代で登場する。
-20. 西脇彩華が中心で各メンバーが週替りで登場。
+19.
+20.
+21. 村田寛奈は18歳未満で労働基準法に触れるため、残り4人のうちから毎週数名が交代で登場する。
+22. 西脇彩華が中心で各メンバーが週替りで登場。

@@ -159,4 +159,4 @@
 
   - [YNN47 span\!](https://twitter.com/ynn47_osaka?lang=ja)（@ynn47_osaka）-　Twitter
 
-[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink")
+[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink") [Category:近畿地方のローカルタレント](https://ja.wikipedia.org/wiki/Category:近畿地方のローカルタレント "wikilink")

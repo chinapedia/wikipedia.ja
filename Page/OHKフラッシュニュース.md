@@ -1,7 +1,7 @@
 > この記事は[OHKフラッシュニュース](https://ja.wikipedia.org/wiki/OHKフラッシュニュース)から翻訳されています。
 
 
-『**OHKフラッシュニュース**』（オーエイチケイ - ）は、[岡山放送](../Page/岡山放送.md "wikilink")（OHK）で放送されている[スポットニュース](../Page/スポットニュース.md "wikilink")番組。
+『**OHKフラッシュニュース**』（オーエイチケイフラッシュニュース）は、[岡山放送](../Page/岡山放送.md "wikilink")（OHK）で放送されている[スポットニュース](../Page/スポットニュース.md "wikilink")番組。
 
 ## 概要
 
@@ -35,5 +35,10 @@
 ## 関連項目
 
   - [OHKニュース](../Page/OHKニュース.md "wikilink")
+
+## 外部リンク
+
+  - [OHK岡山放送 ニュース](https://www.ohk.co.jp/list/ohknews/)
+  - [Yahoo\!ニュース OHK岡山放送](https://news.yahoo.co.jp/media/ohk)
 
 [Category:岡山放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:岡山放送のテレビ番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:中国・四国地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのミニ番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組 "wikilink") [Category:FNNレインボー発](https://ja.wikipedia.org/wiki/Category:FNNレインボー発 "wikilink")

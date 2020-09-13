@@ -1,7 +1,7 @@
 > この記事は[ITV \(イギリス\)](https://ja.wikipedia.org/wiki/ITV_\(イギリス\))から翻訳されています。
 
 
-**ITV**（**Independent Television**:独立テレビジョン）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")最大かつ最古の[民間放送](../Page/民間放送.md "wikilink")局で、[1955年](../Page/1955年.md "wikilink")[9月](../Page/9月.md "wikilink")に放送開始。主に娯楽番組で[BBCと競合してきた](../Page/英国放送協会.md "wikilink")。法律上は「Channel 3」。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:The_London_Studios_20160901.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Granada_TV.jpg "wikilink") **ITV**（**Independent Television**:独立テレビジョン）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")最大かつ最古の[民間放送](../Page/民間放送.md "wikilink")局で、[1955年](../Page/1955年.md "wikilink")[9月](../Page/9月.md "wikilink")に放送開始。主に娯楽番組で[BBCと競合してきた](../Page/英国放送協会.md "wikilink")。法律上は「Channel 3」。
 
 法人としては  であり、ITVネットワーク・リミテッド () のメンバーである。
 

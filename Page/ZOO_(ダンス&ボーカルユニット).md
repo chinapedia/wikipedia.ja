@@ -248,6 +248,6 @@
 
   - [フォーライフミュージックによるZOO公式サイト](http://www.forlife.co.jp/artist/fl00220/)
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:過去のケイダッシュ系列所属者](https://ja.wikipedia.org/wiki/Category:過去のケイダッシュ系列所属者 "wikilink") [Category:フォーライフミュージックエンタテイメントのアーティスト](https://ja.wikipedia.org/wiki/Category:フォーライフミュージックエンタテイメントのアーティスト "wikilink") [Category:1989年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1989年に結成した音楽グループ "wikilink") [Category:1995年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1995年に解散した音楽グループ "wikilink")
+[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:過去のケイダッシュ系列所属者](https://ja.wikipedia.org/wiki/Category:過去のケイダッシュ系列所属者 "wikilink") [Category:フォーライフミュージックエンタテイメントのアーティスト](https://ja.wikipedia.org/wiki/Category:フォーライフミュージックエンタテイメントのアーティスト "wikilink") [Category:1989年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1989年に結成した音楽グループ "wikilink") [Category:1995年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1995年に解散した音楽グループ "wikilink")
 
 1.  [2016/02/28 TACO（野嶋千照）放送情報 / on air｜Disco Train](http://s.mxtv.jp/disco_train/onair.php?date=20160228)

@@ -254,7 +254,7 @@ PlotData =
     12. SAI-KA-NO
     13. VOID（日本盤ボーナストラック Dmn-str-mix）
     14. Royal Sky（アメリカ盤とヨーロッパ盤ボーナストラック）
-6.  **THE LEGEND**\[20\]（2018年6月13日）
+6.  **THE LEGEND**（2018年6月13日）
     1.  KAMUI-神威-
     2.  Silence Of Northern Hell ～0～
     3.  Crimson Symphony ～rage of blood～
@@ -313,9 +313,11 @@ PlotData =
 6.  **[Princess Ghibli](https://ja.wikipedia.org/wiki/Princess_Ghibli "wikilink")**
 7.  **[Princess Ghibli II](https://ja.wikipedia.org/wiki/Princess_Ghibli_II "wikilink")**
 
-## 注釈
-
 ## 脚注
+
+### 注釈
+
+### 出典
 
 ## 外部リンク
 
@@ -342,4 +344,3 @@ PlotData =
 17. [BLOOD STAIN CHLD 公式ツイッター【お知らせ】](https://twitter.com/bsc_of/status/1048906874475577344) 2018年10月7日閲覧。
 18. <http://www.bloodstainchild.com/news.html> 2019年2月2日閲覧。
 19.
-20. 「KAMUI-神威-」のみが新曲で、残りの楽曲はこれまでの楽曲を新しくアレンジし、再録音したベストアルバム。

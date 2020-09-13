@@ -20,7 +20,7 @@
 | [ドン・キング](../Page/ドン・キング.md "wikilink")                        | [ミケルティ・ウィリアムソン](https://ja.wikipedia.org/wiki/ミケルティ・ウィリアムソン "wikilink")   | [手塚秀彰](../Page/手塚秀彰.md "wikilink")                    |
 | ソンジ・ロイ                                                        | [ジェイダ・ピンケット＝スミス](https://ja.wikipedia.org/wiki/ジェイダ・ピンケット＝スミス "wikilink") | [金沢映子](https://ja.wikipedia.org/wiki/金沢映子 "wikilink") |
 | ベリンダ・アリ                                                       | [ノーナ・ゲイ](https://ja.wikipedia.org/wiki/ノーナ・ゲイ "wikilink")                 | [山像かおり](../Page/山像かおり.md "wikilink")                  |
-| ヴェロニカ・ポルシェ                                                    | [マイケル・ミッシェル](https://ja.wikipedia.org/wiki/マイケル・ミッシェル "wikilink")         | [阿部桐子](https://ja.wikipedia.org/wiki/阿部桐子 "wikilink") |
+| ヴェロニカ・ポルシェ                                                    | [マイケル・ミシェル](https://ja.wikipedia.org/wiki/マイケル・ミシェル "wikilink")           | [阿部桐子](https://ja.wikipedia.org/wiki/阿部桐子 "wikilink") |
 | エスクリッジ                                                        | [ジョー・モートン](../Page/ジョー・モートン.md "wikilink")                                | [安井邦彦](../Page/安井邦彦.md "wikilink")                    |
 | ハーバート                                                         | [バリー・シャバカ・ヘンリー](https://ja.wikipedia.org/wiki/バリー・シャバカ・ヘンリー "wikilink")   | [宝亀克寿](../Page/宝亀克寿.md "wikilink")                    |
 | アリの父                                                          | [ジャンカルロ・エスポジート](../Page/ジャンカルロ・エスポジート.md "wikilink")                      | [中村秀利](../Page/中村秀利.md "wikilink")                    |

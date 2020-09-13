@@ -3,7 +3,7 @@
 
 **BBゴロー**（ビービーゴロー、[1972年](../Page/1972年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ピン芸人](../Page/ピン芸人.md "wikilink")、[ものまね芸人](../Page/ものまねタレント.md "wikilink")、[漫談](../Page/漫談.md "wikilink")師（[ギター](../Page/ギター.md "wikilink")漫談）。本名、**川野 勝**（かわの まさる）。
 
-芸名は大好きなドラマ『[北の国から](../Page/北の国から.md "wikilink")』の黒板五郎からとった（黒板五郎→Black Board ゴロー→BBゴロー）。
+芸名は自身の出生地、[富良野市](../Page/富良野市.md "wikilink")が舞台のドラマ『[北の国から](../Page/北の国から.md "wikilink")』の[田中邦衛](../Page/田中邦衛.md "wikilink")の役名、黒板五郎からとった（黒板五郎→Black Board ゴロー→BBゴロー）。
 
 ## 来歴・人物
 

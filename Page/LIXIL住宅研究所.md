@@ -86,7 +86,7 @@
 
 ### 概要
 
-  - アイフルホームカンパニーはピアニスト・[女優の](../Page/俳優.md "wikilink")[松下奈緒](https://ja.wikipedia.org/wiki/松下奈緒 "wikilink")\[1\]をイメージキャラクターにした企業CMを、スポットCMを中心に流している。2008年に映画『[砂時計](../Page/砂時計_\(漫画\).md "wikilink")』のタイアップを兼ねたバージョン企業CMを放送していたこともある。主題歌及びCMソングは、3人組[音楽グループ](https://ja.wikipedia.org/wiki/音楽グループ "wikilink")[いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")の「帰りたくなったよ」を起用した。2017年8月より俳優の[山﨑賢人をイメージキャラクターにした企業CMを放映している](https://ja.wikipedia.org/wiki/山崎賢人 "wikilink")。
+  - アイフルホームカンパニーはピアニスト・[女優の](../Page/俳優.md "wikilink")[松下奈緒](https://ja.wikipedia.org/wiki/松下奈緒 "wikilink")\[1\]をイメージキャラクターにした企業CMを、スポットCMを中心に流している。2008年に映画『[砂時計](../Page/砂時計_\(漫画\).md "wikilink")』のタイアップを兼ねたバージョン企業CMを放送していたこともある。主題歌及びCMソングは、3人組[音楽グループ](https://ja.wikipedia.org/wiki/音楽グループ "wikilink")[いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")の「帰りたくなったよ」を起用した。2017年8月より俳優の[山﨑賢人](https://ja.wikipedia.org/wiki/山﨑賢人 "wikilink")をイメージキャラクターにした企業CMを放映している。
   - フィアスホームカンパニーもアイフルホームカンパニー同様企業CMを、スポットCMを中心に流している。フィアスホームカンパニー創業となった2008年4月1日より[青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")の「Paradise」をCMソングに起用した企業CMを流していた時期もある（全国向けは2008年4月2日から[テレビ朝日](../Page/テレビ朝日.md "wikilink")『[スーパーモーニング](../Page/スーパーモーニング.md "wikilink")』で放映開始。）。
 
 ### 提供番組

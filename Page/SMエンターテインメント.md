@@ -183,14 +183,16 @@
   - [SHINee](../Page/SHINee.md "wikilink") （シャイニー） - 2008年デビューの男性5人組
   - [f(x)](https://ja.wikipedia.org/wiki/f\(x\) "wikilink") （エフエックス） - 2009年9月デビューの女性4人組（2015年8月末まで5人組）
   - [S.M. The Ballad](https://ja.wikipedia.org/wiki/S.M._The_Ballad "wikilink") （エス・エム・ザ・バラード）- 2010年結成されたプロジェクト。
-  - [EXO](https://ja.wikipedia.org/wiki/EXO "wikilink") （エクソ） - 2012年デビューの男性9人組。韓国で活動するEXO-K(韓国人6人組)と中国で活動するEXO-M(中国人1人＋韓国人2人)
-  - [Red Velvet](https://ja.wikipedia.org/wiki/Red_Velvet "wikilink")（レッドベルベット） - 2014年8月デビューの女性5人組 （2015年3月メンバー1人追加)
+  - [EXO](https://ja.wikipedia.org/wiki/EXO "wikilink") （エクソ） - 2012年デビューの男性12人組。(現在は9人組)韓国で活動するEXO-K(韓国人6人組)と中国で活動するEXO-M(中国人1人＋韓国人2人)
+  - [Red Velvet](https://ja.wikipedia.org/wiki/Red_Velvet "wikilink")（レッドベルベット） - 2014年8月デビューの女性5人組 （2015年3月メンバー イェリ追加)
   - [NCT](https://ja.wikipedia.org/wiki/NCT_\(音楽グループ\) "wikilink") (エンシティ ) - NCTはメンバー数に制限がなく、新しいメンバーをいつでも追加するシステムで2016年から活動。
       - [NCT U](https://ja.wikipedia.org/wiki/NCT_U "wikilink") (エンシティユ) - 2016年4月デビューの男性ユニット。
       - [NCT 127](https://ja.wikipedia.org/wiki/NCT_127 "wikilink") (エンシティイリチル) - 2016年7月デビューの男性10人組。
       - [NCT DREAM](https://ja.wikipedia.org/wiki/NCT_DREAM "wikilink") (エンシティドリム) - 2016年8月デビューの男性7人組。
       - 威神v(WayV)(WeiShienV)-2019年1月デビューの男性7人組。中国を拠点として活動するNCTグループの一つである。
   - [SuperM](https://ja.wikipedia.org/wiki/:w:SuperM "wikilink") (スーパーエム) - 2019年10月デビューしたアメリカを拠点として活動する男性7人組。
+
+EXO(2)SHINee(1)NCT(2)WayV(2)
 
 ### ソロ歌手
 

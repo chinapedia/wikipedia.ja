@@ -11,13 +11,13 @@
 
 ## 出演者
 
-  - 明 - [大沢樹生](../Page/大沢樹生.md "wikilink")：スポーツ万能。実は美しい女性に接すると変身してしまう[狼男](../Page/狼男.md "wikilink")。男性に接することで元に戻ることができる。
-  - 治 - [内海光司](../Page/内海光司.md "wikilink")：妹の操と暮らしている。
-  - 操 - [喜多嶋舞](../Page/喜多嶋舞.md "wikilink")：治の妹。明に惚れる。
-  - 早百合 - [吉田美江](https://ja.wikipedia.org/wiki/吉田美江 "wikilink")
-  - 石黒 - [桑野信義](../Page/桑野信義.md "wikilink")
-  - れい子 - [黒田福美](../Page/黒田福美.md "wikilink")：明の隣家の住人。
-  - 敬 - [阿藤海](https://ja.wikipedia.org/wiki/阿藤海 "wikilink")：明の隣家の住人。
+  - 明 - [大沢樹生](../Page/大沢樹生.md "wikilink")：本作の主人公の一人。スポーツ万能でかなりの美形のため大いにモテるが実は美しい女性に接すると変身してしまう[狼男](../Page/狼男.md "wikilink")。男性に接することで元に戻ることができる、そのためよく[ホモと勘違いされることが多い](https://ja.wikipedia.org/wiki/同性愛 "wikilink")。
+  - 治 - [内海光司](../Page/内海光司.md "wikilink")：本作の主人公の一人。バイト中に狼姿の明と遭遇し彼の特殊体質を知り妹の操とともに明と生活を共にすることになる。早百合に惚れているが明の体質のせいで周りから彼との怪しい関係を疑われることが多い。(操もその一人だった)
+  - 操 - [喜多嶋舞](../Page/喜多嶋舞.md "wikilink")：本作のヒロイン。治の妹。明のことは当初良く思っておらず兄との怪しい関係を疑っていたが彼の特殊体質を知ってからは良き理解者となり互いに惹かれ合うようになる。
+  - 早百合 - [吉田美江](https://ja.wikipedia.org/wiki/吉田美江 "wikilink") : 治の想い人。かなりの美人で誰に対しても丁寧に接する。時折、治や明との約束をドタキャンしたり妹の世話を頼むなど都合よく使うことはあるものの基本的には二人に対し好意的で信頼を寄せている。石黒に対してはあまり好感は抱いていない。
+  - 石黒 - [桑野信義](../Page/桑野信義.md "wikilink") : 治と明のバイト先の先輩。二人に対して理不尽かつ嫌味っぽいため彼らからは疎まれている。その上スケベでもあるため彼ら以外のバイトの女の子、はたまた早百合からも快く思われてない。
+  - れい子 - [黒田福美](../Page/黒田福美.md "wikilink")：明たちの隣家の住人。艶かしい美人であるが明に対し特別な体質があると勘づき何かと迫ることが多く彼や治兄妹からは少々迷惑がられることある。ただ根は良い人である。
+  - 敬 - [阿藤海](../Page/阿藤快.md "wikilink")：明たちの隣家の住人でれい子の夫。妻同様、明の体質に勘づき無理やり迫っては彼らに迷惑がられる。ただ根は良い人。
   - [塚本信夫](../Page/塚本信夫.md "wikilink")
   - 重行 - [ベンガル](../Page/ベンガル_\(俳優\).md "wikilink")：早百合の見合い相手で、不動産会社の御曹司。
   - 高村 - [内藤典彦](../Page/内藤典彦.md "wikilink")：治の友人。
@@ -27,9 +27,9 @@
   - [三谷昇](../Page/三谷昇.md "wikilink")
   - 高田 - [柳沢慎吾](../Page/柳沢慎吾.md "wikilink")：「七曲署」刑事。
   - 久美 - [藤村正美](https://ja.wikipedia.org/wiki/藤村正美 "wikilink")：早百合の妹。
-  - 渚 - [天久美智子](../Page/あめくみちこ.md "wikilink")：明の[フィアンセと名乗る女性](https://ja.wikipedia.org/wiki/許婚 "wikilink")（第15話から）。
+  - 渚 - [天久美智子](../Page/あめくみちこ.md "wikilink")：明の[フィアンセと名乗る女性](https://ja.wikipedia.org/wiki/許婚 "wikilink")。再会するまで明の特殊体質を知らなかったが明本人から告白され狼姿を目の当たりにしても動じずそれでもいいと受け入れる。視力が悪くコンタクトとメガネを使い分けている。第15話から登場。
   - マイク - [黒田アーサー](../Page/黒田アーサー.md "wikilink")：早百合の昔の恋人（第7話出演）
-  - ルー - [網浜直子](https://ja.wikipedia.org/wiki/網浜直子 "wikilink")：[日系](https://ja.wikipedia.org/wiki/日系人 "wikilink")2世の少女（第12話出演）
+  - ルー - [網浜直子](https://ja.wikipedia.org/wiki/網浜直子 "wikilink")：[日系](https://ja.wikipedia.org/wiki/日系人 "wikilink")2世の少女。第12話・第13話にゲスト出演。明と同じく異性と接すると狼になり同性と接すると元に戻る特殊体質の持ち主。体質のせいで女性と恋愛ができないことを悩む明に「心から大切と思える人と出会うと狼に変身しない」ことを教える。
   - 石黒の母 - [杉山とく子](../Page/杉山とく子.md "wikilink")（第12話出演）
 
 ## スタッフ
@@ -204,4 +204,4 @@
 </tbody>
 </table>
 
-[Category:1988年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1988年のテレビドラマ "wikilink") [Category:フジテレビ月曜7時30分枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビ月曜7時30分枠の連続ドラマ "wikilink") [Category:狼男を題材としたフィクション作品](https://ja.wikipedia.org/wiki/Category:狼男を題材としたフィクション作品 "wikilink")
+[Category:1988年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1988年のテレビドラマ "wikilink") [Category:フジテレビ月曜7時30分枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビ月曜7時30分枠の連続ドラマ "wikilink") [Category:狼男を題材としたフィクション作品](https://ja.wikipedia.org/wiki/Category:狼男を題材としたフィクション作品 "wikilink") [Category:光GENJI](https://ja.wikipedia.org/wiki/Category:光GENJI "wikilink")

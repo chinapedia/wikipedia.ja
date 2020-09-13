@@ -25,7 +25,7 @@
 ## 参加ミュージシャン
 
   - [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink"):[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink"), [Guitar](../Page/ギター.md "wikilink")
-  - [今野多久郎](https://ja.wikipedia.org/wiki/今野多久郎 "wikilink"):[Percussions](../Page/打楽器.md "wikilink"), Vocal
+  - 今野多久郎:[Percussions](../Page/打楽器.md "wikilink"), Vocal
   - [小島良喜](../Page/小島良喜.md "wikilink"):[Keyboards](../Page/キーボード_\(楽器\).md "wikilink"), Vocal
   - [琢磨仁](https://ja.wikipedia.org/wiki/琢磨仁 "wikilink"):[Bass](../Page/ベース_\(弦楽器\).md "wikilink"), Vocal
   - [河内淳一](../Page/河内淳一.md "wikilink"):[Guitar](../Page/リードギター.md "wikilink"), Vocal

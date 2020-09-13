@@ -25,6 +25,7 @@
 
   - [UFO (ピンク・レディーの曲)](../Page/UFO_\(ピンク・レディーの曲\).md "wikilink") - [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")デュオ・[ピンク・レディー](../Page/ピンク・レディー.md "wikilink")の代表曲。
   - UFO - [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の楽曲。アルバム「[IT'S A WONDERFUL WORLD](../Page/IT'S_A_WONDERFUL_WORLD.md "wikilink")」に収録。
+  - UFO - [NEWSの楽曲](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")。アルバム「[EPCOTIA](https://ja.wikipedia.org/wiki/EPCOTIA "wikilink")」に収録。
   - U・F・O - [ザ・コレクターズ COLLECTORS)のアルバム](../Page/ザ・コレクターズ.md "wikilink")(THE「[UFO CLUV](https://ja.wikipedia.org/wiki/UFO_CLUV "wikilink")」に収録されている楽曲。
 
 ## 製品

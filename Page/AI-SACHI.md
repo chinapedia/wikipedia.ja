@@ -41,4 +41,4 @@
 
   - [オリコン「AI-SACHI」](https://www.oricon.co.jp/prof/285677/)
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:過去のライジングプロダクション所属者](https://ja.wikipedia.org/wiki/Category:過去のライジングプロダクション所属者 "wikilink") [Category:2001年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に結成した音楽グループ "wikilink") [Category:2002年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に解散した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")
+[Category:日本のポップ・アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・アイドルグループ "wikilink") [Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:ライジングプロダクションのアイドル](https://ja.wikipedia.org/wiki/Category:ライジングプロダクションのアイドル "wikilink") [Category:2001年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に結成した音楽グループ "wikilink") [Category:2002年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に解散した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")

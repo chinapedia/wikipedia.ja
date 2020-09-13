@@ -33,7 +33,7 @@
 
 ## 外部リンク
 
-  - [HGX 番組内容](http://web.archive.org/web/20030417033834/http://www.nhk.or.jp/kagoshima/program/hgx/program.htm) - NHK鹿児島放送局（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")保存データ）
+  - [HGX 番組内容](https://web.archive.org/web/20030417033834/http://www.nhk.or.jp/kagoshima/program/hgx/program.htm) - NHK鹿児島放送局（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")保存データ）
 
 [Category:2000年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のテレビ番組_\(日本\) "wikilink") [Category:NHK総合テレビジョン平日夕方の地域番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョン平日夕方の地域番組 "wikilink") [Category:NHK鹿児島](https://ja.wikipedia.org/wiki/Category:NHK鹿児島 "wikilink")
 

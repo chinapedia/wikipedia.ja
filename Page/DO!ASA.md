@@ -32,10 +32,10 @@
 
 ### 過去の出演者
 
-  - [井上雪彦](../Page/井上雪彦.md "wikilink")（放送開始～90年代半ば、故人）
-  - [三池孝尚](https://ja.wikipedia.org/wiki/三池孝尚 "wikilink")（放送開始～90年代半ば、下松市閼伽井坊住職）
-  - [池内博子](../Page/池内博子.md "wikilink")（90年代半ば～2001年）
-  - [マルク・レール](https://ja.wikipedia.org/wiki/マルク・レール "wikilink")（1993～1999年）
+  - [井上雪彦](../Page/井上雪彦.md "wikilink")（放送開始～1995年、故人）
+  - [三池孝尚](https://ja.wikipedia.org/wiki/三池孝尚 "wikilink")（放送開始～1995年、下松市閼伽井坊住職）
+  - [池内博子](../Page/池内博子.md "wikilink")（1995年～2001年）
+  - [マルク・レール](https://ja.wikipedia.org/wiki/マルク・レール "wikilink")（1993年～1999年）
   - [吉田治美](../Page/吉田治美.md "wikilink")（2001年、故人）
   - [石川正史](../Page/石川正史.md "wikilink")（2001年、現[OBS大分放送アナウンサー](../Page/大分放送.md "wikilink")）
 

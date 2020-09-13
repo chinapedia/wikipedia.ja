@@ -9,9 +9,9 @@
 
 設立当初は小室哲哉の自費製作によるインディーズレーベルだったが、[1999年](../Page/1999年.md "wikilink")にSME傘下のレーベルとなった。
 
-レーベルの趣旨は「音色先行」で小室が面白がれて楽しいと思える物を[TRUE KiSS DESTiNATiONから初めて](../Page/Kiss_Destination.md "wikilink")、レーベルのイメージとロゴマークもそこから固めていくようにした。目標は「海外のアーティスト・セルフプロデュースの出来るアーティストが個性を上手く引き出せて、好きなことを自由にやり易い環境を作るレーベル」「[トミー・ボーイ・レコード](https://ja.wikipedia.org/wiki/トミー・ボーイ・レコード "wikilink")・[マーヴェリック・レコード](https://ja.wikipedia.org/wiki/:en:Maverick_\(company\) "wikilink")・[デフ・ジャム・レコーディングス](https://ja.wikipedia.org/wiki/デフ・ジャム・レコーディングス "wikilink")のレベルに近づく」「レーベルから出る全ての作品が『**Produced by Tetsuya Komuro**』ではなくレーベルが所属アーティストの代弁者になる」「デジタル配信や他メディアとの融合等のマルチメディア展開」を目指した\[1\]。
+レーベルの趣旨は「音色先行」で小室が面白がれて楽しいと思える物を[TRUE KiSS DESTiNATiONから初めて](../Page/Kiss_Destination.md "wikilink")、レーベルのイメージとロゴマークもそこから固めていくようにした。目標は「海外のアーティスト・セルフ・プロデュースの出来るアーティストが個性を上手く引き出せて、好きなことを自由にやり易い環境を作るレーベル」「[トミー・ボーイ・レコード](https://ja.wikipedia.org/wiki/トミー・ボーイ・レコード "wikilink")・[マーヴェリック・レコード](https://ja.wikipedia.org/wiki/:en:Maverick_\(company\) "wikilink")・[デフ・ジャム・レコーディングス](https://ja.wikipedia.org/wiki/デフ・ジャム・レコーディングス "wikilink")のレベルに近づく」「レーベルから出る全ての作品が『**Produced by Tetsuya Komuro**』ではなくレーベルが所属アーティストの代弁者になる」「デジタル配信や他メディアとの融合等のマルチメディア展開」を目指した\[1\]。
 
-作品第一弾は[TRUE KiSS DESTiNATiONのアナログレコード盤](../Page/Kiss_Destination.md "wikilink")｢[PRECiOUS MOMENTS -WHEN WILL I SEE YOU AGAIN-](https://ja.wikipedia.org/wiki/PRECiOUS_MOMENTS_-WHEN_WILL_I_SEE_YOU_AGAIN- "wikilink")」。SMEのレーベルとしての作品第一弾は[鈴木あみのシングルCD](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")｢[Nothing Without You](https://ja.wikipedia.org/wiki/Nothing_Without_You "wikilink")」。しかし、レーベルが発足する以前にも同じ型番で鈴木などのプロデュースを行っているため、それらを遡って含める場合もある。
+作品第一弾は[TRUE KiSS DESTiNATiONのアナログレコード盤](../Page/Kiss_Destination.md "wikilink")｢[PRECiOUS MOMENTS -WHEN WILL I SEE YOU AGAIN-](https://ja.wikipedia.org/wiki/PRECiOUS_MOMENTS_-WHEN_WILL_I_SEE_YOU_AGAIN- "wikilink")」。SMEのレーベルとしての作品第一弾は[鈴木あみのシングルCD](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")｢[Nothing Without You](https://ja.wikipedia.org/wiki/Nothing_Without_You "wikilink")」。しかし、レーベルが発足する以前にも同じ型番で鈴木などのプロデュースを行っているため、それらを遡って含める場合もある\[2\]。
 
 [2000年](../Page/2000年.md "wikilink")前半に、Kiss Destination、[TM NETWORK](../Page/TM_NETWORK.md "wikilink")（[宇都宮隆](https://ja.wikipedia.org/wiki/宇都宮隆 "wikilink")・[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")）が[Rojam Entertainmentへ移籍](../Page/Rojam_Entertainment.md "wikilink")（後に[R and C](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")/gaball screenに移籍）。最後に残った鈴木も契約トラブルにより新曲のリリースが不可能となり、2001年5月の[FUN for FANと](../Page/FUN_for_FAN.md "wikilink")7月に同名の[ビデオクリップ集のリリースを以てTRUE](../Page/ミュージック・ビデオ.md "wikilink") KiSS DiSCレーベルは活動休止となった。
 
@@ -48,4 +48,5 @@
 
 [Category:ソニー・ミュージックアソシエイテッドレコーズ](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアソシエイテッドレコーズ "wikilink") [Category:かつて存在した日本のレコード・レーベル](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のレコード・レーベル "wikilink") [Category:1998年設立](https://ja.wikipedia.org/wiki/Category:1998年設立 "wikilink") [Category:小室哲哉](https://ja.wikipedia.org/wiki/Category:小室哲哉 "wikilink")
 
-1.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』1999年7月号73P-75Pより。
+1.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』1999年7月号「小室哲哉 世紀末前夜、最強のTRAP始動」73P-75Pより。
+2.  所属レーベルは上述のままだが、鈴木が1998年7月にデビューした当初の表記名は、**Sony Music Entertainment (Japan) Inc.**のままとなっていた。

@@ -13,8 +13,8 @@
 ## タイムテーブル
 
   - 7:45 - 7:50.30 オープニングと青森ローカルニュース・大相撲期間中は青森県出身力士の結果も放送する。
-  - 7:50.30 - 7:54.40 東北地方の話題・検証・中継など（東北ブロック放送）。
-  - 7:54.40 - 7:58 [仙台から](../Page/NHK仙台放送局.md "wikilink")[東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")の気象情報
+  - 7:50.30 - 7:54.50 東北地方の話題・検証・中継など（東北ブロック放送）。
+  - 7:54.50 - 7:58 [仙台から](../Page/NHK仙台放送局.md "wikilink")[東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")の気象情報
   - 7:58 - 7:59.30 [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")内の気象情報と[あっぷるワイド](../Page/あっぷるワイド.md "wikilink")の予告
       - 7:59.30から8:00.00までは、青森局のスポット番宣などを放送。
       - なお、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")[月曜日](../Page/月曜日.md "wikilink")から[6月27日](../Page/6月27日.md "wikilink")[金曜日](../Page/金曜日.md "wikilink")の期間は、「[岩手・宮城内陸地震](https://ja.wikipedia.org/wiki/岩手・宮城内陸地震 "wikilink")関連報道」に伴い、「東北地方の話題・検証」は、[仙台局スタジオからの](../Page/NHK仙台放送局.md "wikilink")[ニュース](../Page/ニュース.md "wikilink")「おはよう宮城」に切り替えられた（仙台からのアナウンサーの氏名紹介は最初はなかったが、後に表示された。）。また、2008年7月24日未明（7月23日深夜）に発生した「[岩手県沿岸北部地震](../Page/岩手県沿岸北部地震.md "wikilink")」でも、同様の対応を採った。

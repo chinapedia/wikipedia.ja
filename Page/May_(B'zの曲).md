@@ -1,11 +1,11 @@
 > この記事は[May \(B\'zの曲\)](https://ja.wikipedia.org/wiki/May_\(B\'zの曲\))から翻訳されています。
 
 
-「**May**」(メイ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[2000年](../Page/2000年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")に[Rooms RECORDSより](../Page/VERMILLION_RECORDS.md "wikilink")28作目の[シングル](../Page/シングル.md "wikilink")として発売された。
+「**May**」（メイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。2000年5月24日に[Rooms RECORDSより](../Page/VERMILLION_RECORDS.md "wikilink")28作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 
-発売当初は名義上『[ZERO](../Page/ZERO_\(B'zの曲\).md "wikilink")』(1992年発売)以来のノン[タイアップ](../Page/タイアップ.md "wikilink")作品であったが、[2nd beatの](https://ja.wikipedia.org/wiki/2nd_beat "wikilink")「You pray, I stay」は、[サントリー](../Page/サントリー.md "wikilink")「スーパーチューハイ」[CMソングに起用された](../Page/コマーシャルソング.md "wikilink")。
+発売当初は名義上『[ZERO](../Page/ZERO_\(B'zの曲\).md "wikilink")』(1992年発売)以来のノン[タイアップ](../Page/タイアップ.md "wikilink")作品であったが、[2nd beatの](https://ja.wikipedia.org/wiki/B'zの作品#シングル曲の表記 "wikilink")「You pray, I stay」は、[サントリー](../Page/サントリー.md "wikilink")「スーパーチューハイ」[CMソングに起用された](../Page/コマーシャルソング.md "wikilink")。
 
 [ジャケット写真は](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")にあるダイナーで撮影されたもの。さらに、ワイドフォト付きのダブルジャケット付きとなっており、裏面にはシチュエーションの異なるメンバーの写真が掲載されている\[1\]。
 
@@ -21,7 +21,7 @@
       -
         『[B'z LIVE-GYM '98 "SURVIVE"](https://ja.wikipedia.org/wiki/LIVE-GYM_#1998年 "wikilink")』にサポートメンバーとして参加した[大島康祐](https://ja.wikipedia.org/wiki/大島康祐 "wikilink")との共同作業で制作された楽曲で、生のピアノを中心に打ち込みによるスクラッチを絡めたミディアムバラード。
         本来は「原点回帰」をテーマに掲げ制作しており\[2\]、リリース当初のメンバーは「世間の人がイメージするB'zの典型的な曲」と評していた。しかし、リリース後はファンから「今までシングルになかったタイプの曲」という反応が多く、メンバーも自分たちの予想に反したファンの反応が意外だったと後のインタビューで語っている。
-        タイトルは、稲葉から相談を受けた松本が命名したもので、「[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に発売する」ことと「(詩の内容が)[五月病](../Page/五月病.md "wikilink")のような虚しい心情」から付けられた\[3\]。稲葉は「言葉が伝わるように、なおかつ感情的になりすぎないようにと」ボーカル録りに苦労したという\[4\]。
+        タイトルは、稲葉から相談を受けた松本が命名したもので、「5月に発売する」ことと「(詩の内容が)[五月病](../Page/五月病.md "wikilink")のような虚しい心情」から付けられた\[3\]。稲葉は「言葉が伝わるように、なおかつ感情的になりすぎないようにと」ボーカル録りに苦労したという\[4\]。
         [PVは](../Page/ミュージック・ビデオ.md "wikilink")[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[宇都宮市](https://ja.wikipedia.org/wiki/宇都宮市 "wikilink")の[大谷資料館](https://ja.wikipedia.org/wiki/大谷資料館 "wikilink")で撮影された\[5\]。
         同年に行われたツアー『[B'z LIVE-GYM Pleasure 2000 "juice"](https://ja.wikipedia.org/wiki/LIVE-GYM_#1999年-2003年 "wikilink")』で初めて演奏されたのみで、翌年以降のライブでは一切演奏されていない。映像化も2017年に発売された『[B'z COMPLETE SINGLE BOX](https://ja.wikipedia.org/wiki/B'z_COMPLETE_SINGLE_BOX "wikilink")』までされておらず、同作発売時点では最も映像化が遅いシングル表題曲の一つだった。
 2.  **You pray, I stay** (4:14)

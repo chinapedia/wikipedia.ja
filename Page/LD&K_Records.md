@@ -1,13 +1,9 @@
 > この記事は[LD\&K Records](https://ja.wikipedia.org/wiki/LD\&K_Records)から翻訳されています。
 
 
-**LD\&K Records**（エル・ディー・アンド・ケイ・レコード）は、日本の[インディーズ](../Page/インディーズ.md "wikilink")[レコード会社](../Page/レコード会社.md "wikilink")。[代表取締役](../Page/代表取締役.md "wikilink")は、[大谷秀政](https://ja.wikipedia.org/wiki/大谷秀政 "wikilink")（[1968年](../Page/1968年.md "wikilink")[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")生まれ）。
+**LD\&K Records**（エル・ディー・アンド・ケイ・レコード）は、日本の[インディーズレーベル](https://ja.wikipedia.org/wiki/インディーズレーベル "wikilink")。1994年、「Living,Dining\&KitchenRecords」として開始した。運営は[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")エル・ディー・アンド・ケイ。[2004年](../Page/2004年.md "wikilink")より[日本レコード協会](../Page/日本レコード協会.md "wikilink")準[会員](https://ja.wikipedia.org/wiki/会員 "wikilink")。同社は音楽プロダクション業務等の他に、カフェやレストラン、ライブハウス、スタジオ等を経営しており、本項にて扱う。
 
-[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")エル・ディー・アンド・ケイは[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[有限会社](../Page/有限会社.md "wikilink")として設立、[2004年](../Page/2004年.md "wikilink")より[日本レコード協会](../Page/日本レコード協会.md "wikilink")準[会員](https://ja.wikipedia.org/wiki/会員 "wikilink")。
-
-[渋谷](../Page/渋谷.md "wikilink")に[カフェ](../Page/カフェ.md "wikilink")「宇田川カフェ」や「桜丘カフェ」[バー](../Page/バー_\(酒場\).md "wikilink")「宇田川ラヴァーズロック」を、[赤坂に](../Page/赤坂_\(東京都港区\).md "wikilink")[イタリアン](https://ja.wikipedia.org/wiki/イタリアン "wikilink")[レストラン](../Page/レストラン.md "wikilink")「オーセンティカ」を、[ライブハウス](../Page/ライブハウス.md "wikilink")としてチェルシーホテル（渋谷）、 シャングリ・ラ（[梅田](../Page/梅田.md "wikilink")）、那覇セントラル（[沖縄](https://ja.wikipedia.org/wiki/沖縄 "wikilink")）を経営している。
-
-幅広いジャンルの音楽を扱い、これまでに200枚以上のリリースがある。
+LD\&K Recordsは幅広いジャンルの音楽を扱い、これまでに200枚以上のリリースがある。
 
 ## 主なアーティスト
 
@@ -3046,6 +3042,35 @@ living records tokyo\* (2003年 - 2014年)
 
   - RUFF and RUGGED records
 
+## LD\&K inc.
+
+エル・ディー・アンド・ケイは、1990年3月、企画・デザイン事務所の有限会社ビックボスとして設立した\[1\]。同社内で1994年11月、音楽レーベル「Living,Dining\&KitchenRecords」を開始\[2\]。1995年11月、有限会社エル・ディー・アンド・ケイを設立し、2006年5月に株式会社となった\[3\]。
+
+LD\&K Recordsの音楽プロダクション業務、自主レーベル業務などの他、飲食店やライブハウスの経営も行う。
+
+### カフェ、レストラン
+
+  - [カフェ](../Page/カフェ.md "wikilink") - 宇田川カフェ（東京・渋谷）、桜丘カフェ（同）
+  - [バー](../Page/バー_\(酒場\).md "wikilink") - 宇田川ラヴァーズロック（東京・渋谷）
+  - [レストラン](../Page/レストラン.md "wikilink") - オーセンティカ（[イタリアン](https://ja.wikipedia.org/wiki/イタリアン "wikilink")、東京・[赤坂](../Page/赤坂_\(東京都港区\).md "wikilink")）、他
+
+### ライブハウス
+
+  - チェルシーホテル（東京・渋谷）
+  - スターラウンジ（東京・渋谷）
+  - Club Malcolm（東京・渋谷）
+  - 1000 CLUB（横浜）- 2020年7月開業予定\[4\]
+  - シャングリ・ラ（大阪・[梅田](../Page/梅田.md "wikilink")）
+  - 桜坂セントラル（[沖縄](https://ja.wikipedia.org/wiki/沖縄 "wikilink")・那覇）
+
+### スタジオ
+
+  - LD＆Kスタジオ（東京・渋谷）
+  - 早稲田スタジオ
+  - 東中野スタジオ
+
+## 脚注
+
 ## 外部リンク
 
   - [公式サイト](http://www.ldandk.com/)
@@ -3060,3 +3085,8 @@ living records tokyo\* (2003年 - 2014年)
 
   -
 [Category:日本のレコード会社](https://ja.wikipedia.org/wiki/Category:日本のレコード会社 "wikilink") [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink")
+
+1.  [会社概要](https://ldandk.com/about/) LD\&K inc.
+2.
+3.
+4.

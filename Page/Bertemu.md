@@ -186,5 +186,5 @@
 2.  カップリング曲「Touch Yourself」は収録されている。
 3.  共に次作『[Iravati](../Page/Iravati.md "wikilink")』に収録されている。
 4.
-5.  [椎名へきる、林原めぐみ、國府田マリ子 ヒットチャートは声優だらけ\!\!](http://web.archive.org/web/20010217045451/http://ent.nikkeibp.co.jp/ent/bn/9706/special/seiyu.html)（『日経エンタテインメント\!』1997年6月号 インターネット・アーカイブキャッシュ）
+5.  [椎名へきる、林原めぐみ、國府田マリ子 ヒットチャートは声優だらけ\!\!](https://web.archive.org/web/20010217045451/http://ent.nikkeibp.co.jp/ent/bn/9706/special/seiyu.html)（『日経エンタテインメント\!』1997年6月号 インターネット・アーカイブキャッシュ）
 6.

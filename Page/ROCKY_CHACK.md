@@ -55,6 +55,6 @@
   -
   - [ROCKY CHACK｜プロフィール｜FlyingDog](http://www.jvcmusic.co.jp/flyingdog/-/Profile/A020423.html) - FlyingDogによるアーティストページ
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:フライングドッグのアーティスト](https://ja.wikipedia.org/wiki/Category:フライングドッグのアーティスト "wikilink") [Category:1998年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1998年に結成した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")
+[Category:日本のポップ・バンド](https://ja.wikipedia.org/wiki/Category:日本のポップ・バンド "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:フライングドッグのアーティスト](https://ja.wikipedia.org/wiki/Category:フライングドッグのアーティスト "wikilink") [Category:1998年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1998年に結成した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")
 
 1.  [アウトサイド業務終了告知([Internet Archive](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink"))](http://web.archive.org/web/20010201153500/www.outside.co.jp/)

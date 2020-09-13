@@ -21,7 +21,7 @@ SAPIXとの中高一貫を前面に打ち出し、人材や資料を一本化す
 
 ## 校舎
 
-  - 東京都：[東大館](https://ja.wikipedia.org/wiki/東京大学 "wikilink")・東京校（医学館）・吉祥寺校・[自由が丘](../Page/自由が丘.md "wikilink")校★（YGC併設）・代々木キャンパス(YGC)
+  - 東京都：[東大館](https://ja.wikipedia.org/wiki/東京大学 "wikilink")・東京校（医学館）・吉祥寺校・[自由が丘](../Page/自由が丘.md "wikilink")校
   - 神奈川県：大船校
   - 千葉県：西船校
   - 自宅：iClass mySpace校
@@ -36,8 +36,9 @@ SAPIXとの中高一貫を前面に打ち出し、人材や資料を一本化す
 
 ## 外部リンク
 
-  - [Y-SAPIX](http://www.y-sapix.com/)
+  - [Y-SAPIX](https://www.y-sapix.com/)
 
+  -
 [Category:代々木ゼミナール](https://ja.wikipedia.org/wiki/Category:代々木ゼミナール "wikilink") [Category:学習塾](https://ja.wikipedia.org/wiki/Category:学習塾 "wikilink")
 
 1.

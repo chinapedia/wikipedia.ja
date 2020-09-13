@@ -1,15 +1,17 @@
 > この記事は[第49回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第49回NHK紅白歌合戦)から翻訳されています。
 
 
-『**第49回NHK紅白歌合戦**』（だいよんじゅうきゅうかいエヌエイチケイこうはくうたがっせん）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（[平成](../Page/平成.md "wikilink")10年）[12月31日](../Page/12月31日.md "wikilink")に[NHKホール](../Page/NHKホール.md "wikilink")で行われた、通算49回目の『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』である。20時から21時25分および21時30分 - 23時45分に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。
+『**第49回NHK紅白歌合戦**』（だいよんじゅうきゅうかいエヌエイチケイこうはくうたがっせん）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（[平成](../Page/平成.md "wikilink")10年）[12月31日](../Page/12月31日.md "wikilink")に[NHKホール](../Page/NHKホール.md "wikilink")で行われた、通算49回目の『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』である。
+
+20時から21時25分および21時30分 - 23時45分に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。
 
 ## 概要
 
-[第45回](../Page/第45回NHK紅白歌合戦.md "wikilink")（[1994年](../Page/1994年.md "wikilink")）から続いていた20:00 - 23:45枠での放送は今回が最後となった。翌年の[第50回以降](../Page/第50回NHK紅白歌合戦.md "wikilink")、[第40回](../Page/第40回NHK紅白歌合戦.md "wikilink")（[1989年](../Page/1989年.md "wikilink")） - [第44回](../Page/第44回NHK紅白歌合戦.md "wikilink")（[1993年](../Page/1993年.md "wikilink")）同様に19時台から放送する体制に戻っている。
+[第45回](../Page/第45回NHK紅白歌合戦.md "wikilink")（[1994年](../Page/1994年.md "wikilink")）から続いていた20:00 - 23:45枠での放送は今回が最後となった。翌年の[第50回以降](../Page/第50回NHK紅白歌合戦.md "wikilink")、[第40回](../Page/第40回NHK紅白歌合戦.md "wikilink")（[1989年](../Page/1989年.md "wikilink")） - [第44回](../Page/第44回NHK紅白歌合戦.md "wikilink")（[1993年](../Page/1993年.md "wikilink")）同様に19時台から放送する体制となった。
 
 ### 司会について
 
-  - 両組司会については、紅組司会には[東京アナウンス室在籍](../Page/NHK放送センター.md "wikilink")3年目（NHK在籍自体は5年目）ながら大抜擢される形となった[久保純子](../Page/久保純子.md "wikilink")、白組司会には2年連続での登板となる[SMAP](../Page/SMAP.md "wikilink")の[中居正広](../Page/中居正広.md "wikilink")がそれぞれ起用された。なお、今回の司会発表は[11月10日](../Page/11月10日.md "wikilink")に行われた。
+  - 両組司会については、紅組司会にはNHK入局5年目ながら大抜擢される形となった[久保純子](../Page/久保純子.md "wikilink")アナウンサー、白組司会には2年連続での登板となる[SMAP](../Page/SMAP.md "wikilink")の[中居正広](../Page/中居正広.md "wikilink")がそれぞれ起用された。なお、今回の司会発表は[11月10日](../Page/11月10日.md "wikilink")に行われた。
   - 久保は司会発表会見にて、紅組司会の話を聞いた時の心境を聞かれ、「『私でいいんかい?』と思った」と述べた。久保・中居は当時26歳同士（久保は早生まれ）であり、この両組司会について、「44年ぶり\!NHK女性単独[アナウンサーの紅組司会](../Page/日本のアナウンサー.md "wikilink")」「26歳同士。若さと明るさで乗り切る\!」と好意的なマスコミもあった一方、初起用である久保に対して「若さ」を危惧する声が局の内外から上がっていたのも事実だった。総合司会で久保の先輩（[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")の先輩でもある）である[宮本隆治](../Page/宮本隆治.md "wikilink")\[1\]は久保に対し、当時『[NHK歌謡コンサート](../Page/NHK歌謡コンサート.md "wikilink")』（紅白同様、NHKホールから生放送）の司会をしていた経験から司会の指導を行った。[12月30日](../Page/12月30日.md "wikilink")のリハーサル終了後、「宮本さん、なんだかウキウキしてきました\!」との久保の言葉を聞いた宮本はこの瞬間、久保の凄さと番組の成功を確信したという\[2\]。また、久保は本紅白での紅組司会起用が決定した直後より、各[週刊誌](../Page/週刊誌.md "wikilink")\[3\]で[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")転身・[民放移籍が報じられるようにもなった](../Page/民間放送.md "wikilink")（後にフリー転身）。
   - [有働由美子](https://ja.wikipedia.org/wiki/有働由美子 "wikilink")は後輩である久保が自身より先に紅白の司会に選出されたことに不満を持ち、これがきっかけで2人は確執関係になったとの報道があった\[4\]。なお、久保は以後[第51回](../Page/第51回NHK紅白歌合戦.md "wikilink")（[2000年](../Page/2000年.md "wikilink")）まで紅組司会を連続して担当したが、[第52回](../Page/第52回NHK紅白歌合戦.md "wikilink")（[2001年](../Page/2001年.md "wikilink")） - [第54回](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink")（[2003年](../Page/2003年.md "wikilink")）は久保に代わって有働が紅組司会を務める格好となる（2000年に結婚した久保は翌年に産休入りしたことで同年の第52回では司会候補から外れ、代わって有働が選出される運びとなった）。
   - 一部メディアは[前回初出場を果たした](../Page/第48回NHK紅白歌合戦.md "wikilink")[広末涼子](https://ja.wikipedia.org/wiki/広末涼子 "wikilink")や[江角マキコ](https://ja.wikipedia.org/wiki/江角マキコ "wikilink")が紅組司会の有力候補と報じていた。
@@ -24,35 +26,35 @@
       - [海援隊の](../Page/海援隊_\(フォークグループ\).md "wikilink")[武田鉄矢](../Page/武田鉄矢.md "wikilink")はこの年亡くなった自身の母親に向け、歌詞を一部改めた「[母に捧げるバラード](../Page/母に捧げるバラード.md "wikilink")」を歌唱。
       - [橋幸夫](../Page/橋幸夫.md "wikilink")はこの年亡くなった[作曲家](../Page/作曲家.md "wikilink")・[吉田正](../Page/吉田正.md "wikilink")の追悼として吉田作曲の「[いつでも夢を](https://ja.wikipedia.org/wiki/いつでも夢を "wikilink")」を第1部トリで歌唱。
       - [由紀さおり](../Page/由紀さおり.md "wikilink")・[安田祥子](../Page/安田祥子.md "wikilink")はこの年亡くなった[映画監督](../Page/映画監督.md "wikilink")・[黒澤明](../Page/黒澤明.md "wikilink")の追悼として黒澤作品の『[生きる](../Page/生きる_\(映画\).md "wikilink")』の挿入歌「[ゴンドラの唄](https://ja.wikipedia.org/wiki/ゴンドラの唄 "wikilink")」を歌唱。
-  - 前回の出演を最後に1年間の産休に入っていた[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")が本紅白を以ってステージ復帰。2年連続で「[CAN YOU CELEBRATE?](../Page/CAN_YOU_CELEBRATE?.md "wikilink")」を歌唱\[6\]。歌唱途中、会場からの拍手と声援に感極まって涙を流し、仲の良い[MAXのメンバーに支えられながらステージを後にした](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")。
-      - ちなみにMAXの[Linaは当日](https://ja.wikipedia.org/wiki/Lina_\(歌手\) "wikilink")39度の高熱を出しており、会場に着いた後医務室で倒れ込む状態だったが、医者から尻に注射を打ってステージに立ったという\[7\]。
-  - [さだまさし](../Page/さだまさし.md "wikilink")が歌唱した「[北の国から〜遥かなる大地より〜](../Page/北の国から〜遥かなる大地より〜.md "wikilink")」は歌詞のない楽曲であることから、歌詞を付けて歌うと報道された\[8\]が、実際には歌詞を付けて歌うことはなかった。紅白でのハミング歌唱は史上初\[9\]。
+  - 前回の出演を最後に1年間の産休に入っていた[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")が本紅白でステージ復帰し、2年連続で「[CAN YOU CELEBRATE?](../Page/CAN_YOU_CELEBRATE?.md "wikilink")」を歌唱した。歌唱途中、会場からの拍手と声援に感極まって涙を流し、かつて同じグループメンバーとして活動した[MAXのメンバーに支えられながらステージを後にした](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")。
+      - ちなみにMAXの[Linaは当日](https://ja.wikipedia.org/wiki/Lina_\(歌手\) "wikilink")39度の高熱を出しており、会場に着いた後医務室で倒れ込む状態だったが、医者から尻に注射を打ってステージに立ったという\[6\]。
+  - [さだまさし](../Page/さだまさし.md "wikilink")が歌唱した「[北の国から〜遥かなる大地より〜](../Page/北の国から〜遥かなる大地より〜.md "wikilink")」は歌詞のない楽曲であることから、歌詞を付けて歌うと報道されたが\[7\]、実際には歌詞はつけられず、原曲と同様のハミング歌唱となった。紅白でのハミング歌唱は史上初である\[8\]。歌詞の代わりとして、さだまさしの直筆のメッセージが間奏のさだによるバイオリン演奏中にテロップ表示された。
   - [日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")『[ウッチャンナンチャンのウリナリ\!\!](../Page/ウッチャンナンチャンのウリナリ!!.md "wikilink")』で結成された[ポケットビスケッツ](../Page/ポケットビスケッツ.md "wikilink")と[ブラックビスケッツ](../Page/ブラックビスケッツ.md "wikilink")が同時に合同ユニットとして初出場。番組出演メンバーも応援団としてステージを盛り上げた。
   - [SMAP](../Page/SMAP.md "wikilink")は「[夜空ノムコウ](../Page/夜空ノムコウ.md "wikilink")」を歌唱。司会席に集結した歌手達も観客同様、ペンライトで応援した。中居の代理としてSMAPの曲紹介は久保が行った。
   - 「[アメリカ橋](https://ja.wikipedia.org/wiki/恵比寿南橋#この橋にちなむ曲 "wikilink")」を歌唱した[山川豊](../Page/山川豊.md "wikilink")のバックコーラスには、白組歌手の[美川憲一](../Page/美川憲一.md "wikilink")、[五木ひろし](../Page/五木ひろし.md "wikilink")に加え同曲を作曲した[平尾昌晃](../Page/平尾昌晃.md "wikilink")が参加して場を盛り上げた。同曲は年跨ぎのヒットとなり、翌年の第50回でも歌唱された（平尾も2年連続で参加）。今回は持ち時間上2番目の一部が割愛されたが、第50回はリピート部分を除いたフルコーラスで歌われた。
   - 15周年を迎えた[東京ディズニーランド](https://ja.wikipedia.org/wiki/東京ディズニーランド "wikilink")から[ミッキーマウス](../Page/ミッキーマウス.md "wikilink")ら人気キャラクターを迎えたコラボレーション企画が行われた。なお、この時のバックダンサーを[教育テレビで放送されている](../Page/NHK教育テレビジョン.md "wikilink")『[天才てれびくん](https://ja.wikipedia.org/wiki/天才てれびくん "wikilink")』のてれび戦士らが務めており、後に[WaT](../Page/WaT.md "wikilink")として紅白に出場する[ウエンツ瑛士](../Page/ウエンツ瑛士.md "wikilink")も、てれび戦士の1人としてステージを務めた。また[西田ひかる](../Page/西田ひかる.md "wikilink")が「ザッツ ディズニー ファンタジー」の題目で、ディズニーソングの5曲を[メドレー](../Page/メドレー.md "wikilink")形式で披露した。
   - [藤岡弘、](../Page/藤岡弘、.md "wikilink")が、[せがた三四郎](../Page/せがた三四郎.md "wikilink")に扮して登場。[TOKIO](../Page/TOKIO.md "wikilink")の曲紹介を務めた直後、怪人イカデビル率いるショッカー軍団の出現からNHKを守るために[本郷猛](../Page/本郷猛.md "wikilink")として、[仮面ライダー](../Page/仮面ライダー.md "wikilink")に変身。ライダー2号、[V3](../Page/仮面ライダーV3.md "wikilink")、[RXとともにショッカーと果敢に戦い](../Page/仮面ライダーBLACK_RX.md "wikilink")、撃退するという活躍を見せ、低年齢層の視聴者たちの支持を集めた。
   - [小林幸子](../Page/小林幸子.md "wikilink")が歌唱した「[風といっしょに](../Page/風といっしょに.md "wikilink")」は『[劇場版ポケットモンスター ミュウツーの逆襲](../Page/劇場版ポケットモンスター_ミュウツーの逆襲.md "wikilink")』の[エンディング主題歌であるため](../Page/主題歌.md "wikilink")、子供の視聴者に配慮し歌詞テロップの漢字には全て振り仮名が振られていた。
+  - [郷ひろみ](../Page/郷ひろみ.md "wikilink")の曲紹介は中居ではなく、郷の大ファンであるという理由から久保が担当した。
   - [北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")は「[根っこ](https://ja.wikipedia.org/wiki/根っこ_\(北島三郎の曲\) "wikilink")」歌唱時、途中歌詞を飛ばしてしまう場面があった（1番目の「忘れちゃならない」の部分）。
   - 白組トリは2年連続で[五木ひろし](../Page/五木ひろし.md "wikilink")が担当し、「[酒ひとり](https://ja.wikipedia.org/wiki/酒ひとり "wikilink")」を歌唱した。今回の五木を最後に白組歌手における2年連続以上でのトリ担当は[第61回](https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦 "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")） - [第64回](https://ja.wikipedia.org/wiki/第64回NHK紅白歌合戦 "wikilink")（[2013年](../Page/2013年.md "wikilink")）のSMAPまで途絶えることとなる。
   - 紅組トリおよび大トリはこの年デビュー30周年を迎えた[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")の「[今あなたにうたいたい](../Page/今あなたにうたいたい.md "wikilink")」（和田は4回目の紅組トリで自身初の大トリである）。この時、和田は曲のサビ部分はハンドマイクを外して歌うという離れ技を見せ、観客席からは大拍手が起こった（同曲は[1988年](../Page/1988年.md "wikilink")に和田のデビュー20周年記念に、[加藤登紀子](../Page/加藤登紀子.md "wikilink")が和田に提供したものであり、和田自身の意向により[シングル](../Page/シングル.md "wikilink")A面曲としては発売されていない。ちなみに、和田の公演の常連客だというNHKのスタッフの強い要望により歌唱が実現した）。リハーサルでは会場を完全シャットアウトにして和田側のスタッフや会場スタッフ以外マイク外しでの歌唱することを知らなかったとされる。
   - 出場歌手発表の翌日、『[サンケイスポーツ](../Page/サンケイスポーツ.md "wikilink")』（1998年11月26日付）は今回の紅組トリについて、「安室の2年連続起用（且つ大トリの候補にも挙がっているとした）の可能性がある」と報じていた。その後、『ZAKZAK』（1998年12月18日付）も安室が大トリの候補に挙がっていたと報じた。
-  - 9対4で紅組が優勝（客席審査では、紅組:1428、白組:1130で紅組優勢）。審査集計時、宮本が両組司会と両歌手リーダーに「客席審査でどちらが優勢でしょうか?」と聞き、4人とも「紅組が優勢」と答えた。優勝決定後、久保は和田と抱擁し、涙を流した\[10\]。
+  - 9対4で紅組が優勝（客席審査では、紅組:1428、白組:1130で紅組優勢）。審査集計時、宮本が両組司会と両歌手リーダーに「客席審査でどちらが優勢でしょうか?」と聞き、4人とも「紅組が優勢」と答えた。優勝決定後、久保は和田と抱擁し、涙を流した\[9\]。
 
 ### 視聴率
 
-第1部の平均視聴率は**45.4%**、第2部の平均視聴率は**57.2%**（関東地区・ビデオリサーチ社調べ、以下同じ）で、関東地区では第1部・第2部いずれも紅白が2部制になってから最高の視聴率（当時）を記録した\[11\]。瞬間最高視聴率は、安室歌唱最中の23:30に記録された**64.9%**である\[12\]。安室は[平成](../Page/平成.md "wikilink")以後では初となる、関東地区において2年連続での歌手別視聴率1位獲得となった\[13\]。『サンケイスポーツ』の記事では、[不況](https://ja.wikipedia.org/wiki/不況 "wikilink")により屋外でレジャーを楽しむより室内でテレビを視聴する世帯が増えたことが全体的な視聴率上昇の要因であると報じられた\[14\]。
+第1部の平均視聴率は**45.4%**、第2部の平均視聴率は**57.2%**（関東地区・ビデオリサーチ社調べ、以下同じ）で、関東地区では第1部・第2部いずれも紅白が2部制になってから最高の視聴率（当時）を記録した\[10\]。瞬間最高視聴率は、安室歌唱最中の23:30に記録された**64.9%**である\[11\]。安室は[平成](../Page/平成.md "wikilink")以後では初となる、関東地区において2年連続での歌手別視聴率1位獲得となった\[12\]。『サンケイスポーツ』の記事では、[不況](https://ja.wikipedia.org/wiki/不況 "wikilink")により屋外でレジャーを楽しむより室内でテレビを視聴する世帯が増えたことが全体的な視聴率上昇の要因であると報じられた\[13\]。
 
 今回を最後に関東地区での平均視聴率55%台超は達成されていない。
 
-2部制移行後の最高視聴率となったものの、年間視聴率争いでは、60.9%を記録した[6月20日](../Page/6月20日.md "wikilink")放送の『[1998 FIFAワールドカップ](../Page/1998_FIFAワールドカップ.md "wikilink") 日本-クロアチア』（総合テレビ）、60.5%を記録した[6月14日](../Page/6月14日.md "wikilink")放送の『1998 FIFAワールドカップ 日本-アルゼンチン』（総合テレビ）に及ばず初めて年間視聴率1位の座を譲ることとなった\[15\]\[16\]。以後も年によっては別番組にその座を奪われることもある。
+2部制移行後の最高視聴率となったものの、年間視聴率争いでは、60.9%を記録した[6月20日](../Page/6月20日.md "wikilink")放送の『[1998 FIFAワールドカップ](../Page/1998_FIFAワールドカップ.md "wikilink") 日本-クロアチア』（総合テレビ）、60.5%を記録した[6月14日](../Page/6月14日.md "wikilink")放送の『1998 FIFAワールドカップ 日本-アルゼンチン』（総合テレビ）に及ばず初めて年間視聴率1位の座を譲ることとなった\[14\]\[15\]。以後も年によっては別番組にその座を奪われることもある。
 
 ### その他のエピソード
 
   - 審査員を務めた[藤原紀香](../Page/藤原紀香.md "wikilink")はNHK初出演だった。
-  - 久保は[Every Little Thingの曲紹介時に曲タイトルを飛ばしたり](../Page/Every_Little_Thing.md "wikilink")、この年下期の[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[やんちゃくれ](../Page/やんちゃくれ.md "wikilink")』の出演者が紅組応援で登場した際に「れんじょくテレビ小説」と発してしまうなどミスも多々見受けられた\[17\]。
   - 久保と中居は2004年に[TBS系列の](../Page/TBSテレビ.md "wikilink")[アテネオリンピック中継のメインキャスター同士として再タッグを組むことになる](https://ja.wikipedia.org/wiki/アテネオリンピック_\(2004年\) "wikilink")。
-  - 翌年の『[大河ドラマ](../Page/大河ドラマ.md "wikilink")』の主演者が審査員に起用されることが慣例的な中、今回では翌年作品『[元禄繚乱](../Page/元禄繚乱.md "wikilink")』の主演・中村勘九郎（後の[中村勘三郎](../Page/中村勘三郎_\(18代目\).md "wikilink")）の選出はなかった（応援ゲストでの出演もなし。なお、同作出演者の[松平健](../Page/松平健.md "wikilink")が審査員を担当）。一方、勘九郎は翌年白組司会に起用されている（紅組司会は久保が続投。また当初白組司会について、マスコミ報道では中居の3年連続起用が有力視されていた\[18\]）。
+  - 翌年の『[大河ドラマ](../Page/大河ドラマ.md "wikilink")』の主演者が審査員に起用されることが慣例的な中、今回では翌年作品『[元禄繚乱](../Page/元禄繚乱.md "wikilink")』の主演・中村勘九郎（後の[中村勘三郎](../Page/中村勘三郎_\(18代目\).md "wikilink")）の選出はなかった（応援ゲストでの出演もなし。なお、同作出演者の[松平健](../Page/松平健.md "wikilink")が審査員を担当）。一方、勘九郎は翌年白組司会に起用されている（紅組司会は久保が続投。また当初白組司会について、マスコミ報道では中居の3年連続起用が有力視されていた\[16\]）。
 
 ## 司会者
 
@@ -123,23 +125,23 @@
 
 今回は初出場が6組と少なく、[演歌歌手](../Page/演歌歌手.md "wikilink")を中心に返り咲きが多かった。
 
-当時[J-POP](../Page/J-POP.md "wikilink")界を席巻していた「沖縄ブーム」の影響で[前回に続いて出場の](../Page/第48回NHK紅白歌合戦.md "wikilink")[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")、[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")、[MAXに加えて](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")[Kiroro](../Page/Kiroro.md "wikilink")、[DA PUMPと計](../Page/DA_PUMP.md "wikilink")5組の[沖縄県](../Page/沖縄県.md "wikilink")出身歌手が選出された\[19\]。
+当時[J-POP](../Page/J-POP.md "wikilink")界を席巻していた「沖縄ブーム」の影響で[前回に続いて出場の](../Page/第48回NHK紅白歌合戦.md "wikilink")[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")、[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")、[MAXに加えて](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")[Kiroro](../Page/Kiroro.md "wikilink")、[DA PUMPと計](../Page/DA_PUMP.md "wikilink")5組の[沖縄県](../Page/沖縄県.md "wikilink")出身歌手が選出された\[17\]。
 
 前回初出場した[河村隆一](../Page/河村隆一.md "wikilink")が[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を務める[LUNA SEAが初出場](../Page/LUNA_SEA.md "wikilink")。
 
 主な辞退歌手は以下の通り。
 
   - [橋幸夫](../Page/橋幸夫.md "wikilink")の歌唱曲「いつでも夢を」をデュエットする歌手として当初は[吉永小百合](../Page/吉永小百合.md "wikilink")にもオファーを送ったが、吉永が「現役の歌手ではない」と辞退した。吉永の辞退の代わりとして、紅組歌手が参加した（先述）。
-  - デビュー20周年の[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")と、デビュー10周年且つ[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")が500万枚を売り上げた[B'z](../Page/B'z.md "wikilink")の出場が有力視されたが、いずれも辞退した\[20\]。
-  - [KinKi Kids](../Page/KinKi_Kids.md "wikilink")、[V6は年末にコンサートを行うという理由で出場辞退](../Page/V6_\(グループ\).md "wikilink")\[21\]\[22\]。
-  - [シャ乱Q](../Page/シャ乱Q.md "wikilink")はメンバーの1人が謹慎中であることを理由に出場辞退\[23\]。
-  - [都はるみ](../Page/都はるみ.md "wikilink")は[10月22日](../Page/10月22日.md "wikilink")、「紅白を卒業したい」と出場辞退を申し出る。翌年以後の出場もないとした\[24\]\[25\]。ただし都は実質「落選」だったが、番組側の配慮で「辞退」との形になったとする説もある\[26\]。
+  - デビュー20周年の[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")と、デビュー10周年且つ[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")が500万枚を売り上げた[B'z](../Page/B'z.md "wikilink")の出場が有力視されたが、いずれも辞退した\[18\]。
+  - [KinKi Kids](../Page/KinKi_Kids.md "wikilink")、[V6は年末にコンサートを行うという理由で出場辞退](../Page/V6_\(グループ\).md "wikilink")\[19\]\[20\]。
+  - [シャ乱Q](../Page/シャ乱Q.md "wikilink")はメンバーの1人が謹慎中であることを理由に出場辞退\[21\]。
+  - [都はるみ](../Page/都はるみ.md "wikilink")は[10月22日](../Page/10月22日.md "wikilink")、「紅白を卒業したい」と出場辞退を申し出る。翌年以後の出場もないとした\[22\]\[23\]。ただし都は実質「落選」だったが、番組側の配慮で「辞退」との形になったとする説もある\[24\]。
 
 主な落選歌手は以下の通り。
 
-  - 前回出場した[広末涼子](https://ja.wikipedia.org/wiki/広末涼子 "wikilink")、[反町隆史](https://ja.wikipedia.org/wiki/反町隆史 "wikilink")は「この年はドラマや舞台の印象が強く、歌手としてのイメージが薄い」ことを理由に落選\[27\]。なお、前者は出場歌手が発表された[11月25日](../Page/11月25日.md "wikilink")に[早稲田大学](../Page/早稲田大学.md "wikilink")に合格を決めた。
-  - [松田聖子](../Page/松田聖子.md "wikilink")、[DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")、[森高千里](../Page/森高千里.md "wikilink")は「世論調査やアンケートでの支持が落ちた」ことを理由に落選\[28\]。
-  - この年下期の連続テレビ小説『やんちゃくれ』の主題歌「[あそぼう](https://ja.wikipedia.org/wiki/あそぼう "wikilink")」を担当した[ウルフルズ](../Page/ウルフルズ.md "wikilink")も視聴者からの支持の低さを理由に落選\[29\]。
+  - 前回出場した[広末涼子](https://ja.wikipedia.org/wiki/広末涼子 "wikilink")、[反町隆史](https://ja.wikipedia.org/wiki/反町隆史 "wikilink")は「この年はドラマや舞台の印象が強く、歌手としてのイメージが薄い」ことを理由に落選\[25\]。なお、前者は出場歌手が発表された[11月25日](../Page/11月25日.md "wikilink")に[早稲田大学](../Page/早稲田大学.md "wikilink")に合格を決めた。
+  - [松田聖子](../Page/松田聖子.md "wikilink")、[DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")、[森高千里](../Page/森高千里.md "wikilink")は「世論調査やアンケートでの支持が落ちた」ことを理由に落選\[26\]。
+  - この年下期の連続テレビ小説『やんちゃくれ』の主題歌「[あそぼう](https://ja.wikipedia.org/wiki/あそぼう "wikilink")」を担当した[ウルフルズ](../Page/ウルフルズ.md "wikilink")も視聴者からの支持の低さを理由に落選\[27\]。
 
 ### その他
 
@@ -164,8 +166,8 @@ JUDY AND MARYは2001年に解散したため、今回が最後の出場となっ
   - 白雪姫、7人の小人（ディズニー映画『[白雪姫](../Page/白雪姫_\(1937年の映画\).md "wikilink")』のキャラクター）：同上。
   - メリー・ポピンズ、バート、ウェイターペンギン（同じく『[メリー・ポピンズ](../Page/メリー・ポピンズ.md "wikilink")』のキャラクター）：同上。
   - [エルモ](../Page/エルモ.md "wikilink")、[クッキーモンスター](https://ja.wikipedia.org/wiki/クッキーモンスター "wikilink")、[ビッグバード](https://ja.wikipedia.org/wiki/ビッグバード "wikilink")（『[セサミストリート](../Page/セサミストリート.md "wikilink")』のキャラクター）：JUDY AND MARYの曲紹介。
-  - [川上憲伸](../Page/川上憲伸.md "wikilink")（[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")[投手](../Page/投手.md "wikilink")\[30\]）：「98年スポーツヒーローショー」。
-  - [小関竜也](../Page/小関竜也.md "wikilink")（[西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")[外野手](../Page/外野手.md "wikilink")\[31\]）：同上。
+  - [川上憲伸](../Page/川上憲伸.md "wikilink")（[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")[投手](../Page/投手.md "wikilink")\[28\]）：「98年スポーツヒーローショー」。
+  - [小関竜也](../Page/小関竜也.md "wikilink")（[西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")[外野手](../Page/外野手.md "wikilink")\[29\]）：同上。
   - [伊東浩司](../Page/伊東浩司.md "wikilink")（陸上選手）：同上。
   - [高橋尚子](https://ja.wikipedia.org/wiki/高橋尚子 "wikilink")（陸上選手）：同上。
   - [田島寧子](https://ja.wikipedia.org/wiki/田島寧子 "wikilink")（[水泳](../Page/水泳.md "wikilink")選手）：同上。
@@ -199,7 +201,7 @@ JUDY AND MARYは2001年に解散したため、今回が最後の出場となっ
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=49)
   - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1998年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のテレビ番組_\(日本\) "wikilink") [Category:1998年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のラジオ番組_\(日本\) "wikilink") [Category:1998年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1998年の日本の音楽 "wikilink") [Category:1998年12月](https://ja.wikipedia.org/wiki/Category:1998年12月 "wikilink")
@@ -209,30 +211,28 @@ JUDY AND MARYは2001年に解散したため、今回が最後の出場となっ
 3.  『[週刊宝石](../Page/週刊宝石.md "wikilink")』1998年12月10日号など
 4.  『[芸能ニッポン](https://ja.wikipedia.org/wiki/芸能ニッポン "wikilink")』1999年4月号
 5.  『[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")』1998年12月16日付夕刊、7頁。
-6.  本紅白で発売したての復帰曲「[I HAVE NEVER SEEN](../Page/I_HAVE_NEVER_SEEN.md "wikilink")」を歌唱する可能性も取り沙汰された。
+6.
 7.
-8.
-9.  [安室紅白登場今年は「トリ」の前](http://web.archive.org/web/20030404115406/http://www.zakzak.co.jp/geino/n_Dec98/nws3133.html)、ZAKZAK、1998年12月18日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
-10.
-11. [アムロ紅白でNO・1視聴率64.9%](http://web.archive.org/web/20010316014633/http://www.sanspo.com/enter/music/m9901/m0105.html)、SANSPO.COM、1999年1月4日（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
-12.
-13. [紅白歌手別視聴率、４０％超えは嵐ら３組だけに…前回は３１組](https://hochi.news/articles/20200106-OHT1T50267.html)、[スポーツ報知](../Page/スポーツ報知.md "wikilink")、2020年1月7日 6時0分。
+8.  [安室紅白登場今年は「トリ」の前](http://web.archive.org/web/20030404115406/http://www.zakzak.co.jp/geino/n_Dec98/nws3133.html)、ZAKZAK、1998年12月18日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+9.
+10. [アムロ紅白でNO・1視聴率64.9%](http://web.archive.org/web/20010316014633/http://www.sanspo.com/enter/music/m9901/m0105.html)、SANSPO.COM、1999年1月4日（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+11.
+12. [紅白歌手別視聴率、４０％超えは嵐ら３組だけに…前回は３１組](https://hochi.news/articles/20200106-OHT1T50267.html)、[スポーツ報知](../Page/スポーツ報知.md "wikilink")、2020年1月7日 6時0分。
     （[平成以後の紅白歌手別瞬間最高視聴率](https://hochi.news/articles/20200106-OHT1T50267.html?mode=photo&photoid=3)）
+13.
 14.
 15.
-16.
-17. 『[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")』1999年1月1日付
-18. 今回の高視聴率獲得から久保・中居の両組司会続投案もあったという。なお、中居は[第57回](../Page/第57回NHK紅白歌合戦.md "wikilink")（[2006年](../Page/2006年.md "wikilink")） - [第60回](https://ja.wikipedia.org/wiki/第60回NHK紅白歌合戦 "wikilink")（[2009年](../Page/2009年.md "wikilink")）で再び組司会を務めた。
+16. 今回の高視聴率獲得から久保・中居の両組司会続投案もあったという。なお、中居は[第57回](../Page/第57回NHK紅白歌合戦.md "wikilink")（[2006年](../Page/2006年.md "wikilink")） - [第60回](https://ja.wikipedia.org/wiki/第60回NHK紅白歌合戦 "wikilink")（[2009年](../Page/2009年.md "wikilink")）で再び組司会を務めた。
+17.
+18. 『[読売新聞](../Page/読売新聞.md "wikilink")』1998年12月10日付東京夕刊、7頁。
 19.
-20. 『[読売新聞](../Page/読売新聞.md "wikilink")』1998年12月10日付東京夕刊、7頁。
+20. [紅白「落選・辞退組」の裏舞台…](http://web.archive.org/web/20000615093517/http://www.zakzak.co.jp/geino/n_November98/nws3040.html)、ZAKZAK、1998年11月26日。（インターネット・アーカイブのキャッシュ）
 21.
-22. [紅白「落選・辞退組」の裏舞台…](http://web.archive.org/web/20000615093517/http://www.zakzak.co.jp/geino/n_November98/nws3040.html)、ZAKZAK、1998年11月26日。（インターネット・アーカイブのキャッシュ）
+22. [都はるみ紅白辞退で「充電?」](http://web.archive.org/web/20030415231808/http://www.zakzak.co.jp/geino/n_October98/nws2900.html)、ZAKZAK、1998年10月23日。（インターネット・アーカイブのキャッシュ）
 23.
-24. [都はるみ紅白辞退で「充電?」](http://web.archive.org/web/20030415231808/http://www.zakzak.co.jp/geino/n_October98/nws2900.html)、ZAKZAK、1998年10月23日。（インターネット・アーカイブのキャッシュ）
+24. [合田道人](../Page/合田道人.md "wikilink")『紅白歌合戦の真実』
 25.
-26. [合田道人](../Page/合田道人.md "wikilink")『紅白歌合戦の真実』
+26.
 27.
-28.
-29.
-30. この年の[セ･リーグ](https://ja.wikipedia.org/wiki/セントラル・リーグ "wikilink")[新人王](../Page/最優秀新人_\(日本プロ野球\).md "wikilink")。
-31. この年の[パ・リーグ新人王](https://ja.wikipedia.org/wiki/パシフィック・リーグ "wikilink")。
+28. この年の[セ･リーグ](https://ja.wikipedia.org/wiki/セントラル・リーグ "wikilink")[新人王](../Page/最優秀新人_\(日本プロ野球\).md "wikilink")。
+29. この年の[パ・リーグ新人王](https://ja.wikipedia.org/wiki/パシフィック・リーグ "wikilink")。

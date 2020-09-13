@@ -43,3 +43,5 @@
   - 個数モード（PieCeS）。スケール（はかり）の計数モードのひとつ。重量に対しあらかじめ設定した値が何個含まれるかを測定する。
 
   - （Professional Children's School）
+
+  - [パワーコンディショナー](https://ja.wikipedia.org/wiki/パワーコンディショナー "wikilink")(Power Conditioning System)

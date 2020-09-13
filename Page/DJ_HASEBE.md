@@ -360,6 +360,7 @@ LEXCD-12012</p></td>
 
 ### 主な楽曲・リミックス作品
 
+  - [BACK DROP BOMB](../Page/BACK_DROP_BOMB.md "wikilink")「THE NEW SOUTH HAND BLOWS AND NORTH KICK BLOWS」内収録7曲目words...（1996年08月21日）
   - [織田裕二](../Page/織田裕二.md "wikilink")「Love Somebody」（1998年10月28日）
 
 <!-- end list -->

@@ -87,6 +87,6 @@ IDEA (Internet2 Driving Exemplary Applications) 賞は Internet2 が2006年か�
 14.
 15. ["Optical networking: The next generation - CNET News.com, By Marguerite Reardon (Staff Writer), Published October 11, 2004 4:00 AM PDT](http://archive.is/20120710234213/http://news.com.com/Optical%20networking%20The%20next%20generation/2100-1033-5403589.html?part=dht&tag=ntop&tag=nl.e703)
 16. ["Internet2, National Lambda Rail, In Merger Talks (July 18, 2005)"](http://www.osc.edu/press/releases/2005/lambda.shtml)
-17. [Internate archive of now defunct www.internet2-nlr.org site)](http://web.archive.org/web/20080327142035/http://www.internet2-nlr.org/)
+17. [Internate archive of now defunct www.internet2-nlr.org site)](https://web.archive.org/web/20080327142035/http://www.internet2-nlr.org/)
 18.
 19. [Internet2 IDEA Awards](http://www.internet2.edu/idea/)

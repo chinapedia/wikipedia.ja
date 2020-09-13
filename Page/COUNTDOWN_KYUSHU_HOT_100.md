@@ -47,7 +47,7 @@
 
 ## ナビゲーター変遷
 
-  - 初代:[アラン・J](https://ja.wikipedia.org/wiki/アラン・J "wikilink")（1993年4月 -）
+  - 初代:[アラン・J](https://ja.wikipedia.org/wiki/アラン・J "wikilink")（1993年9月 -）
   - 2代目:[北野順一](../Page/北野順一.md "wikilink")（- 1998年12月）
   - 3代目:[宗方脩](https://ja.wikipedia.org/wiki/宗方脩 "wikilink")（1999年1月 - 2000年3月）
   - 4代目:[永松ケンシ](../Page/永松ケンシ.md "wikilink")（2000年4月 - 2003年3月）

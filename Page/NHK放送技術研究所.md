@@ -209,7 +209,7 @@
 
   - [テレビの試験放送開始　NHK名作選（動画・静止画） NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009060091_00000)
 
-[Category:日本の研究所](https://ja.wikipedia.org/wiki/Category:日本の研究所 "wikilink") [Category:NHKの施設](https://ja.wikipedia.org/wiki/Category:NHKの施設 "wikilink") [Category:世田谷区の建築物](https://ja.wikipedia.org/wiki/Category:世田谷区の建築物 "wikilink")
+[Category:東京都の研究所](https://ja.wikipedia.org/wiki/Category:東京都の研究所 "wikilink") [Category:NHKの施設](https://ja.wikipedia.org/wiki/Category:NHKの施設 "wikilink") [Category:世田谷区の建築物](https://ja.wikipedia.org/wiki/Category:世田谷区の建築物 "wikilink")
 
 1.  この録音機は[NHK放送博物館](../Page/NHK放送博物館.md "wikilink")に資料として所蔵されている。
 2.  <http://www.hitachihyoron.com/jp/pdf/2007/04/2007_04_00_professional.pdf#page=5>

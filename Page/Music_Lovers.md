@@ -1434,8 +1434,7 @@ flumpool</p></td>
 
 ## 外部リンク
 
-  - [Music Lovers](http://www.ntv.co.jp/mlovers/)
-
+  -
   -
   -
   -

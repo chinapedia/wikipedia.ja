@@ -11,9 +11,9 @@
 
 ホームタウンは[長野県](../Page/長野県.md "wikilink")[松本市](../Page/松本市.md "wikilink")（2013年2月26日）から、[安曇野市](https://ja.wikipedia.org/wiki/安曇野市 "wikilink")、[山形村](../Page/山形村.md "wikilink")、[塩尻市](../Page/塩尻市.md "wikilink")へ広域化され\[8\]、2015年5月21日には[大町市](https://ja.wikipedia.org/wiki/大町市 "wikilink")が\[9\]\[10\]、同年12月15日には[池田町が](../Page/池田町_\(長野県\).md "wikilink")\[11\]\[12\]、2018年7月31日には[生坂村](../Page/生坂村.md "wikilink")が\[13\]\[14\]、2019年11月18日には[箕輪町](../Page/箕輪町.md "wikilink")と[朝日村](https://ja.wikipedia.org/wiki/朝日村 "wikilink")が加わった\[15\]\[16\]。
 
-ホームスタジアムは[サンプロ アルウィン](../Page/長野県松本平広域公園総合球技場.md "wikilink")\[17\]、練習グラウンドは松本市かりがねサッカー場である\[18\]。
+ホームスタジアムは[サンプロ アルウィン](../Page/長野県松本平広域公園総合球技場.md "wikilink")\[17\]、練習グラウンドは[かりがねサッカー場](../Page/かりがねサッカー場.md "wikilink")である\[18\]。
 
-クラブマスコットは「[ガンズくん](https://ja.wikipedia.org/wiki/ガンズくん "wikilink")」で、長野県の県鳥である[ライチョウ](../Page/ライチョウ.md "wikilink")（雷鳥）をモチーフにしている\[19\]\[20\]。[Jリーグへ加盟した](../Page/日本プロサッカーリーグ.md "wikilink")[2012年](../Page/2012年.md "wikilink")にオフィシャルマスコットとなった。
+クラブマスコットは「**[ガンズくん](https://ja.wikipedia.org/wiki/ガンズくん "wikilink")**」で、長野県の県鳥である[ライチョウ](../Page/ライチョウ.md "wikilink")（雷鳥）をモチーフにしている\[19\]\[20\]。[Jリーグへ加盟した](../Page/日本プロサッカーリーグ.md "wikilink")[2012年](../Page/2012年.md "wikilink")にオフィシャルマスコットとなった。
 
 ## 歴史
 
@@ -163,7 +163,7 @@
     [横浜FMから元](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")[日本代表DFの](../Page/サッカー日本代表.md "wikilink")[松田直樹](../Page/松田直樹.md "wikilink")\[34\]\[35\]、[熊本から](https://ja.wikipedia.org/wiki/ロアッソ熊本 "wikilink")[渡辺匠](../Page/渡辺匠.md "wikilink")、[水戸から](../Page/水戸ホーリーホック.md "wikilink")3年ぶりのチーム復帰となる[片山真人](../Page/片山真人.md "wikilink")などを獲得。また、ヘッドコーチに[流通経済大学から](https://ja.wikipedia.org/wiki/流通経済大学サッカー部 "wikilink")[柴田峡](https://ja.wikipedia.org/wiki/柴田峡 "wikilink")、GKコーチに[鳥栖から](https://ja.wikipedia.org/wiki/サガン鳥栖 "wikilink")[本間康貴](../Page/本間康貴.md "wikilink")がそれぞれ就任した。
     [JFL優勝](../Page/日本フットボールリーグ.md "wikilink")・[J2昇格を至上課題としてシーズンに臨んだが](https://ja.wikipedia.org/wiki/J2リーグ "wikilink")、序盤の成績は低迷。6月に吉澤監督を解任、後任監督にGMの[加藤が就任した](../Page/加藤善之.md "wikilink")。7月に[福岡から](../Page/アビスパ福岡.md "wikilink")[李鍾民](../Page/李鍾民.md "wikilink")を獲得。8月2日、チームを引っ張っていた[松田直樹](../Page/松田直樹.md "wikilink")が練習中に[急性心筋梗塞で突如倒れ](../Page/心筋梗塞.md "wikilink")、8月4日に死去した。
     シーズン中の8月に練習生として練習に参加していた[江原FC](https://ja.wikipedia.org/wiki/江原FC "wikilink")（[Kリーグ](../Page/Kリーグ1.md "wikilink")）の[大橋正博](../Page/大橋正博.md "wikilink")、[横浜FC](../Page/横浜FC.md "wikilink")から[飯尾和也](../Page/飯尾和也.md "wikilink")、[栃木SC](../Page/栃木SC.md "wikilink")からレンタル移籍で[船山貴之](https://ja.wikipedia.org/wiki/船山貴之 "wikilink")を獲得した。リーグ戦は後期第17節の[ホンダロックSC](../Page/ホンダロックSC.md "wikilink")戦に勝利してJFL4位以内を確定（最終順位も4位）。12月12日のJリーグ臨時理事会で正式に[Jリーグへの入会が承認され](../Page/日本プロサッカーリーグ.md "wikilink")、[町田と共に](https://ja.wikipedia.org/wiki/FC町田ゼルビア "wikilink")2012年シーズンからの[J2加入が決定した](https://ja.wikipedia.org/wiki/J2リーグ "wikilink")。[全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")で[2006年](../Page/2006年.md "wikilink")から制度化された「上位入賞チームの[全国地域サッカーリーグ決勝大会出場](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")」資格の特権を活かしたチームのJリーグ昇格第1号となった。
-    [天皇杯は](https://ja.wikipedia.org/wiki/第91回天皇杯全日本サッカー選手権大会 "wikilink")2回戦で横浜FC(J2)、3回戦で[新潟](../Page/アルビレックス新潟.md "wikilink")（[J1](https://ja.wikipedia.org/wiki/J1リーグ "wikilink")）に勝利し、Jリーグクラブ以外で唯一4回戦進出を果たした。4回戦で[横浜FM](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")(J1)に敗退した。
+    [天皇杯は](https://ja.wikipedia.org/wiki/第91回天皇杯全日本サッカー選手権大会 "wikilink")2回戦で横浜FC（J2）、3回戦で[新潟](../Page/アルビレックス新潟.md "wikilink")（[J1](https://ja.wikipedia.org/wiki/J1リーグ "wikilink")）に勝利し、Jリーグクラブ以外で唯一4回戦進出を果たした。4回戦で[横浜FM](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")(J1)に敗退した。
     シーズン終了後、[加藤善之](../Page/加藤善之.md "wikilink")が監督を退任してGM専任となった。
 
 ### 2012年 - 2014年（J2）
@@ -280,7 +280,7 @@
     反町体制4年目。
     2月、株式会社松本山雅社長の大月が退任、後任には2005年に松本山雅FCに在籍した元選手で、取締役管理本部長の[神田文之](https://ja.wikipedia.org/wiki/神田文之 "wikilink")が就任した。
     飯尾和也が引退、サビアとイが契約満了で退団。野澤が[アルビレックス新潟シンガポール](../Page/アルビレックス新潟シンガポール.md "wikilink")へ、船山が川崎へ、玉林が愛媛へ、ユンが[ソウルイーランドFC](https://ja.wikipedia.org/wiki/ソウルイーランドFC "wikilink")へ、多々良が仙台へ完全移籍。犬飼と山本が期限付き移籍期間満了で移籍元へ復帰した。また永井と北井が富山へ、鴇田と蔵田がアスルクラロ沼津へ、岩淵がFC琉球へ、パクが水戸へ期限付き移籍、宮下、中村、松下の移籍期間が延長された。
-    補強は栃木SCから[鈴木智幸](https://ja.wikipedia.org/wiki/鈴木智幸 "wikilink")、東京Vから[キローラン菜入](https://ja.wikipedia.org/wiki/キローラン菜入 "wikilink")、徳島から[那須川将大](https://ja.wikipedia.org/wiki/那須川将大 "wikilink")、岡山から[後藤圭太](../Page/後藤圭太.md "wikilink")・[石原崇兆](https://ja.wikipedia.org/wiki/石原崇兆 "wikilink")・[荒田智之](https://ja.wikipedia.org/wiki/荒田智之 "wikilink")、京都から[酒井隆介](https://ja.wikipedia.org/wiki/酒井隆介 "wikilink")、北九州から[池元友樹](../Page/池元友樹.md "wikilink")、磐田から[阿部吉朗](../Page/阿部吉朗.md "wikilink")、[アメリカFCから](../Page/アメリカFC_\(ミナスジェライス州\).md "wikilink")[オビナ](https://ja.wikipedia.org/wiki/オビナ "wikilink")を完全移籍で、鳥栖から[坂井達弥](https://ja.wikipedia.org/wiki/坂井達弥 "wikilink")、東京Vから[前田直輝](https://ja.wikipedia.org/wiki/前田直輝 "wikilink")、アメリカFCから[ドリバを期限付き移籍で獲得](https://ja.wikipedia.org/wiki/ドリヴァウ・ダス・ネーヴィス・フェハス・ジュニオール "wikilink")。新人では[順天堂大学](https://ja.wikipedia.org/wiki/順天堂大学 "wikilink")から[谷奥健四郎](https://ja.wikipedia.org/wiki/谷奥健四郎 "wikilink")、[拓殖大学](../Page/拓殖大学.md "wikilink")から[柴田隆太朗](https://ja.wikipedia.org/wiki/柴田隆太朗 "wikilink")が加入した。また5月に[東海学園大学](../Page/東海学園大学.md "wikilink")の[志知孝明](https://ja.wikipedia.org/wiki/志知孝明 "wikilink")を[特別指定選手](../Page/特別指定選手.md "wikilink")として受け入れたほか、6月に広島から[工藤浩平](../Page/工藤浩平.md "wikilink")、C大阪から[安藤淳](../Page/安藤淳.md "wikilink")、[CSパンドゥリイ・トゥルグ・ジウ](https://ja.wikipedia.org/wiki/CSパンドゥリイ・トゥルグ・ジウ "wikilink")から[エリック](https://ja.wikipedia.org/wiki/エリック・デ・オリベイラ・ペレイラ "wikilink")、8月に[ECバイーア](../Page/ECバイーア.md "wikilink")から[ウィリアン](https://ja.wikipedia.org/wiki/ウィリアンス・ドス・サントス・サンターナ "wikilink")、9月に[ウィガン・アスレティックFC](../Page/ウィガン・アスレティックFC.md "wikilink")から[韓国代表の](../Page/サッカー大韓民国代表.md "wikilink")[キム・ボギョンを](https://ja.wikipedia.org/wiki/金甫ギョン "wikilink")、それぞれ完全移籍で獲得した。
+    補強は栃木SCから[鈴木智幸](https://ja.wikipedia.org/wiki/鈴木智幸 "wikilink")、東京Vから[キローラン菜入](https://ja.wikipedia.org/wiki/キローラン菜入 "wikilink")、徳島から[那須川将大](https://ja.wikipedia.org/wiki/那須川将大 "wikilink")、岡山から[後藤圭太](../Page/後藤圭太.md "wikilink")・[石原崇兆](https://ja.wikipedia.org/wiki/石原崇兆 "wikilink")・[荒田智之](https://ja.wikipedia.org/wiki/荒田智之 "wikilink")、京都から[酒井隆介](https://ja.wikipedia.org/wiki/酒井隆介 "wikilink")、北九州から[池元友樹](../Page/池元友樹.md "wikilink")、磐田から[阿部吉朗](../Page/阿部吉朗.md "wikilink")、[アメリカFCから](../Page/アメリカFC_\(ミナスジェライス州\).md "wikilink")[オビナ](https://ja.wikipedia.org/wiki/オビナ "wikilink")を完全移籍で、鳥栖から[坂井達弥](https://ja.wikipedia.org/wiki/坂井達弥 "wikilink")、東京Vから[前田直輝](https://ja.wikipedia.org/wiki/前田直輝 "wikilink")、アメリカFCから[ドリバを期限付き移籍で獲得](https://ja.wikipedia.org/wiki/ドリヴァウ・ダス・ネーヴィス・フェハス・ジュニオール "wikilink")。新人では[順天堂大学](https://ja.wikipedia.org/wiki/順天堂大学 "wikilink")から[谷奥健四郎](https://ja.wikipedia.org/wiki/谷奥健四郎 "wikilink")、[拓殖大学](../Page/拓殖大学.md "wikilink")から[柴田隆太朗](https://ja.wikipedia.org/wiki/柴田隆太朗 "wikilink")が加入した。また5月に[東海学園大学](../Page/東海学園大学.md "wikilink")の[志知孝明](https://ja.wikipedia.org/wiki/志知孝明 "wikilink")を[特別指定選手](../Page/特別指定選手.md "wikilink")として受け入れたほか、6月に広島から[工藤浩平](../Page/工藤浩平.md "wikilink")、C大阪から[安藤淳](../Page/安藤淳.md "wikilink")、[CSパンドゥリイ・トゥルグ・ジウ](https://ja.wikipedia.org/wiki/CSパンドゥリイ・トゥルグ・ジウ "wikilink")から[エリック](https://ja.wikipedia.org/wiki/エリック・デ・オリベイラ・ペレイラ "wikilink")、8月に[ECバイーア](../Page/ECバイーア.md "wikilink")から[ウィリアン](https://ja.wikipedia.org/wiki/ウィリアンス・ドス・サントス・サンターナ "wikilink")、9月に[ウィガン・アスレティックFC](../Page/ウィガン・アスレティックFC.md "wikilink")から[韓国代表の](../Page/サッカー大韓民国代表.md "wikilink")[キム・ボギョンを](https://ja.wikipedia.org/wiki/金甫炅 "wikilink")、それぞれ完全移籍で獲得した。
     日本の「**トップ15**」を目標にシーズンイン\[36\]。記念すべき開幕戦は、[3月7日](../Page/3月7日.md "wikilink")にアウェイで名古屋と対戦、一時は2点差をつけてリードしたものの追いつかれ、3-3のドローに終わった\[37\]。[同月22日](../Page/3月22日.md "wikilink")、第3節[清水戦で](../Page/清水エスパルス.md "wikilink")[J1初勝利を](https://ja.wikipedia.org/wiki/J1リーグ "wikilink")\[38\]、[4月25日](../Page/4月25日.md "wikilink")には第7節[仙台戦でJ](../Page/ベガルタ仙台.md "wikilink")1ホーム戦初勝利を\[39\]、それぞれ挙げた。1stステージでは、第12節終了時点で、4勝3分5敗の勝ち点15で暫定9位につけたが、その後5連敗し失速、結局1stステージは4勝3分10敗の勝ち点15で、15位に終わった。2ndステージでは、第2節の[広島戦に敗れてリーグ通算](https://ja.wikipedia.org/wiki/サンフレッチェ広島F.C "wikilink")7連敗を喫し、ついに降格圏に転落したが、翌第3節の[鹿島戦に勝利して連敗を止め](../Page/鹿島アントラーズ.md "wikilink")、すぐに降格圏を脱出すると、続く第4節[甲府戦にも勝利し](https://ja.wikipedia.org/wiki/ヴァンフォーレ甲府 "wikilink")、J1では初の連勝を記録\[40\]。上昇の兆しを見せたかに思えたが、第5節で再び降格圏に転落すると、その後は連敗や試合終了間際に失点して勝ち点を落とす試合が続いてしまい、結局降格圏から脱出できぬまま、[11月7日](../Page/11月7日.md "wikilink")の第16節[神戸戦に敗れて](../Page/ヴィッセル神戸.md "wikilink")、昇格から1年でのJ2降格が決定した\[41\]。
     初出場となった[ヤマザキナビスコカップでは](../Page/Jリーグカップ.md "wikilink")、予選Aグループを戦い、1勝1分け4敗勝ち点4の6位で、決勝トーナメント進出を逃した。
     [天皇杯は](../Page/天皇杯_JFA_全日本サッカー選手権大会.md "wikilink")4回戦で仙台（J1）に敗退した。
@@ -420,31 +420,35 @@
 
 ### 表彰
 
-**クラブ**
+  - **クラブ**
 
-  - [J1リーグ](https://ja.wikipedia.org/wiki/J1リーグ "wikilink")
+<!-- end list -->
+
+  - **[J1リーグ](https://ja.wikipedia.org/wiki/J1リーグ "wikilink")**
       - フェアプレー賞：2回
 
 ([2015年](https://ja.wikipedia.org/wiki/2015年のJリーグ#表彰 "wikilink")、[2019年](https://ja.wikipedia.org/wiki/2019年のJリーグ#表彰 "wikilink"))
 
-  - J2リーグ
+  - **J2リーグ**
       - フェアプレー賞：4回
 
 ([2013年](https://ja.wikipedia.org/wiki/2013年のJリーグ#表彰 "wikilink")、[2014年](https://ja.wikipedia.org/wiki/2014年のJリーグ#表彰 "wikilink")、[2017年](https://ja.wikipedia.org/wiki/2017年のJリーグ#表彰 "wikilink")、[2018年](https://ja.wikipedia.org/wiki/2018年のJリーグ#表彰 "wikilink"))
 
-  - [日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")
+  - **[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")**
       - 奨励賞：1回
 
 ([2011年](https://ja.wikipedia.org/wiki/第13回日本フットボールリーグ "wikilink"))
 
-**監督・選手**
+  - **監督・選手**
 
-  - J2リーグ
+<!-- end list -->
+
+  - **J2リーグ**
       - Most Exciting Player
           - 2014年 : [田中隼磨](../Page/田中隼磨.md "wikilink")
       - 優勝監督賞
           - 2018年 : [反町康治](../Page/反町康治.md "wikilink")
-  - 日本フットボールリーグ
+  - **日本フットボールリーグ**
       - ベストイレブン
           - 2011年 : [飯田真輝](../Page/飯田真輝.md "wikilink")
 
@@ -826,6 +830,7 @@
 | FP Other                    |
 | --------------------------- |
 | {{Football kit|filetype=png |
+| {{Football kit|filetype=png |
 |                             |
 
 ### 歴代ユニフォームスポンサー年表
@@ -1032,11 +1037,16 @@
 [2019年](../Page/2019年.md "wikilink")、育成サポート会員組織「RAZUSO」を設立\[62\]。
 RAZUSOとは、松本山雅FCから世界に羽ばたく選手を輩出するための育成サポート会員組織である。（会費は個人会員1口3,000円、法人会員は1口10,000円※3口から）なお、名称はNPO法人アルウィンスポーツプロジェクトの前身である任意団体「ラズーソ・J・プロジェクト」より決める。また、トップチームユニフォーム（鎖骨）にRAZUSOのロゴを表示。RAZUSOの運営は、NPO法人松本山雅スポーツクラブが行う。
 
+  - **主な事業実績**
+
+<!-- end list -->
+
+  - レディース U-15　アメリカ遠征
+  - 「COPA RAZUSO U-12」開催
+
 ### ユース
 
-U-18は[高円宮杯 JFA U-18サッカープリンスリーグ北信越所属](https://ja.wikipedia.org/wiki/高円宮杯_JFA_U-18サッカープリンスリーグ北信越 "wikilink")。
-
-2011年に第15回北信越クラブユースサッカー選手権(U-18)大会で準優勝し、初の全国大会となる[日本クラブユースサッカー選手権 (U-18)大会に出場](../Page/日本クラブユースサッカー選手権_\(U-18\)大会.md "wikilink")。2016年には[Jリーグユース選手権大会](https://ja.wikipedia.org/wiki/Jリーグユース選手権大会 "wikilink")（Jユースカップ）でベスト4進出を果たした。
+U-18は[高円宮杯 JFA U-18サッカープリンスリーグ北信越所属](https://ja.wikipedia.org/wiki/高円宮杯_JFA_U-18サッカープリンスリーグ北信越 "wikilink")。2011年に第15回北信越クラブユースサッカー選手権(U-18)大会で準優勝し、初の全国大会となる[日本クラブユースサッカー選手権 (U-18)大会に出場](../Page/日本クラブユースサッカー選手権_\(U-18\)大会.md "wikilink")。2016年には[Jリーグユース選手権大会](https://ja.wikipedia.org/wiki/Jリーグユース選手権大会 "wikilink")（Jユースカップ）でベスト4進出を果たした。
 
 ### ジュニアユース
 
@@ -1050,7 +1060,7 @@ U-12は2015年に第39回[全日本少年サッカー大会長野県大会で初
 
 <!-- end list -->
 
-  - [JFA 全日本U-12サッカー選手権大会](../Page/JFA_全日本U-12サッカー選手権大会.md "wikilink") 長野県大会：**3回**
+  - [JFA 全日本U-12サッカー選手権大会](../Page/JFA_全日本U-12サッカー選手権大会.md "wikilink") [長野県大会](https://ja.wikipedia.org/wiki/JFA_全日本U-12サッカー選手権大会_長野県大会 "wikilink")：**3回**
       - 2015年、2016年、2019年
 
 ### レディース
@@ -1063,21 +1073,23 @@ U-12は2015年に第39回[全日本少年サッカー大会長野県大会で初
 
 なお、クラブ員、スクール生含めた総会員数は約750人となっている\[72\]。
 
-### 松本山雅FCマスターズ
+### シニア
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に発足した40歳以上の選手が対象のチーム。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、40歳以上の選手を対象とした「**松本山雅FCマスターズ**」が発足。2009年まで全国大会に5度出場したアルフット安曇野シニアが前身。メンバーは山雅サッカークラブOB、[FC上田ジェンシャンOB](../Page/上田ジェンシャン.md "wikilink")、[長野エルザサッカークラブOBを中心に県内各地の選手が所属している](../Page/AC長野パルセイロ.md "wikilink")。結成初年度で[日本スポーツマスターズ](../Page/日本スポーツマスターズ.md "wikilink")県大会、北信越大会を勝ち上がり、全国大会出場を果たしている。運営はNPO法人松本山雅スポーツクラブが行う。
 
-2009年まで全国大会に5度出場したアルフット安曇野シニアが前身。メンバーは山雅サッカークラブOB、[FC上田ジェンシャンOB](../Page/上田ジェンシャン.md "wikilink")、[長野エルザサッカークラブOBを中心に県内各地の選手が所属している](../Page/AC長野パルセイロ.md "wikilink")。結成初年度で[日本スポーツマスターズ](../Page/日本スポーツマスターズ.md "wikilink")県大会、北信越大会を勝ち上がり、全国大会出場を果たしている。運営はNPO法人松本山雅スポーツクラブが行う。
+### ブラインドサッカー
+
+2016年からクラブ事業として[ブラインドサッカーの普及活動を進めていたが](https://ja.wikipedia.org/wiki/視覚障害者5人制サッカー "wikilink")\[73\]、2020年7月、[埴科郡](../Page/埴科郡.md "wikilink")[坂城町](../Page/坂城町.md "wikilink")に拠点を置く長野県内唯一のブラインドサッカークラブ「長野RAINBOW（レインボー）」を母体として、ブラインドサッカークラブ「**松本山雅B.F.C**（まつもとやまがブラインド・フットボール・クラブ）」を発足させる\[74\]。監督は元ブラインドサッカー男子日本代表の落合啓士が務め、クラブ運営はNPO法人松本山雅スポーツクラブが行う。
 
 ## その他
 
 ### FDA 4号機
 
-  - [松本空港](../Page/松本空港.md "wikilink")に就航している[フジドリームエアラインズ](../Page/フジドリームエアラインズ.md "wikilink")（FDA）が、4号機の導入([2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")10月就航、[機体記号](https://ja.wikipedia.org/wiki/機体記号 "wikilink"):JA04FJ)に際して、FDAのホームページ上での機体色のアンケートを実施、松本山雅FCは公式サイトでアンケートへの投票を呼びかけた\[73\]。なお、2010年7月にFDAは総投票数54.5％（3,418票）を集めたグリーンを機体色に決定した\[74\]。
+  - [松本空港](../Page/松本空港.md "wikilink")に就航している[フジドリームエアラインズ](../Page/フジドリームエアラインズ.md "wikilink")（FDA）が、4号機の導入([2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")10月就航、[機体記号](https://ja.wikipedia.org/wiki/機体記号 "wikilink"):JA04FJ)に際して、FDAのホームページ上での機体色のアンケートを実施、松本山雅FCは公式サイトでアンケートへの投票を呼びかけた\[75\]。なお、2010年7月にFDAは総投票数54.5％（3,418票）を集めたグリーンを機体色に決定した\[76\]。
 
 ### 松本市観光大使
 
-  - [2012年](../Page/2012年.md "wikilink")3月26日、[松本市](../Page/松本市.md "wikilink")は松本山雅FCを市の[観光大使](../Page/観光大使.md "wikilink")に任命すると発表\[75\]。4月1日に行われた第6節ホーム[富山戦の試合前に任命式が行われた](../Page/カターレ富山.md "wikilink")\[76\]\[77\]。
+  - [2012年](../Page/2012年.md "wikilink")3月26日、[松本市](../Page/松本市.md "wikilink")は松本山雅FCを市の[観光大使](../Page/観光大使.md "wikilink")に任命すると発表\[77\]。4月1日に行われた第6節ホーム[富山戦の試合前に任命式が行われた](../Page/カターレ富山.md "wikilink")\[78\]\[79\]。
 
 ## メディア
 
@@ -1086,7 +1098,7 @@ U-12は2015年に第39回[全日本少年サッカー大会長野県大会で初
   - [NHK長野放送局](../Page/NHK長野放送局.md "wikilink")
       - 『[イブニング信州](../Page/イブニング信州.md "wikilink")』（マンデースポーツ、スポーツコーナー「スポしん」）
   - [信越放送](../Page/信越放送.md "wikilink")
-      - 『J One Soul 山雅TV』\[78\]（毎週金曜 18:55 - 19:00）
+      - 『J One Soul 山雅TV』\[80\]（毎週金曜 18:55 - 19:00）
       - 『[SBCニュースワイド](../Page/SBCニュースワイド.md "wikilink")』（月曜スポーツコーナー）
       - 『[ずくだせテレビ](https://ja.wikipedia.org/wiki/ずくだせテレビ "wikilink")』（毎週月曜 13:55 - 15:49の中で放送 ）
   - [長野放送](../Page/長野放送.md "wikilink")
@@ -1097,7 +1109,7 @@ U-12は2015年に第39回[全日本少年サッカー大会長野県大会で初
   - [テレビ松本](../Page/テレビ松本ケーブルビジョン.md "wikilink") - 「J702ch 松本山雅＆スポーツチャンネル」
       -
         2006年シーズンから応援番組の放映、試合の中継を行ってきた。JFL昇格を機に「松本山雅チャンネル」を開設、2010年2月24日に[総務省](../Page/総務省.md "wikilink")からチャンネル開設の認可を受け、3月14日より放映開始。単独チームの専門チャンネルはJFLやJリーグを含めても全国初。
-        2012年3月1日より「松本山雅&スポーツチャンネル」にリニューアル\[79\]\[80\]。
+        2012年3月1日より「松本山雅&スポーツチャンネル」にリニューアル\[81\]\[82\]。
     <!-- end list -->
       - 「松本山雅情報　教えてガチャさん\!」（随時放送）
   - [スカパー\!](https://ja.wikipedia.org/wiki/スカパー! "wikilink")
@@ -1232,10 +1244,12 @@ U-12は2015年に第39回[全日本少年サッカー大会長野県大会で初
 71.
 72.
 73.
-74.  [フジドリームエアラインズ](../Page/フジドリームエアラインズ.md "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月23日](../Page/7月23日.md "wikilink")）、2013年7月7日閲覧
+74.
 75.
-76.
+76.  [フジドリームエアラインズ](../Page/フジドリームエアラインズ.md "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月23日](../Page/7月23日.md "wikilink")）、2013年7月7日閲覧
 77.
-78. J1昇格により、『いくJ1\!山雅TV』から名称変更
+78.
 79.
-80.
+80. J1昇格により、『いくJ1\!山雅TV』から名称変更
+81.
+82.

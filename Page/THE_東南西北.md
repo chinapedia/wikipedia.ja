@@ -102,7 +102,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>1985年11月21日</p></td>
+<td><p>1986年4月2日</p></td>
 <td><p>7'EP</p></td>
 <td><p>07SH-1749</p></td>
 <td><p>A</p></td>

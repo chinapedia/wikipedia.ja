@@ -83,6 +83,7 @@
 
   - [ヤマハポピュラーソングコンテスト](../Page/ヤマハポピュラーソングコンテスト.md "wikilink")
   - [世界歌謡祭](../Page/世界歌謡祭.md "wikilink")
+  - [1984年の音楽\#デビュー](https://ja.wikipedia.org/wiki/1984年の音楽#デビュー "wikilink") - 同じ年にデビューした歌手
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ポプコン出身者](https://ja.wikipedia.org/wiki/Category:ポプコン出身者 "wikilink") [Category:1984年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1984年に結成した音楽グループ "wikilink")
 

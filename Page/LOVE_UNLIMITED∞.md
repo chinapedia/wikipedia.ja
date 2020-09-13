@@ -33,6 +33,7 @@
       - 作詩：吉田美和、作曲・編曲：中村正人
       - 19thシングル。
       - 曲のアウトロに前アルバム収録曲「WHEATHER FORECAST」のコーラスが使用されている。
+      - 最後の「このROMANCEの海の底へ」を何回も繰り返してる
 5.  **[嵐が来る](https://ja.wikipedia.org/wiki/LOVE_LOVE_LOVE/嵐が来る "wikilink")～ALBUM VERSION**
       - 作詩：吉田美和、作曲・編曲：中村正人
       - 18thシングル。

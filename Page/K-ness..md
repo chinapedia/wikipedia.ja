@@ -126,7 +126,7 @@
   - ジャンボの輪\!
     ススムがジャンボの勝ち\!を放ち、ススムはフォールに入らずK-ness.が光の輪を放ち、フォールを奪う技。
 
-## タイトル履歴
+## タイトル歴
 
   - [DRAGON GATE](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")
 

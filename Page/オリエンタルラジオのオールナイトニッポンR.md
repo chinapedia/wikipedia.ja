@@ -359,7 +359,7 @@ DJ藤森に対するリクエストや質問を送ると、答えてくれたり
   - 原稿は中田が読む。
   - 「○○?No（もしくはYes、Go）。○○?No×2。○○?No×3。○○?慎吾ちゃん○○\!」（1つ目から4つ目の○○には同じ系統の単語などが入り、最後の○○には適当なコメントが入る）の形態のネタが多かった。
   - 後半では「フジモる」という単語が出現、有名な曲の一部に入れたネタなどが登場し、自由度が高くなった。さらに「藤森くんがボールでした。はずーむ、はずーむ」といったネタが現れるなど、何でもありとなっていった。
-  - 終盤にはネタがよければ次週も存続という形になり、何週か延命した。延命を決めたネタに「綺麗な顔してるだろ。[汁男優](../Page/汁男優.md "wikilink")なんだぜ。」（『[タッチ』での](../Page/タッチ_\(漫画\).md "wikilink")[上杉達也](../Page/上杉達也.md "wikilink")の言葉「死んでるんだぜ」をひねったもの）がある。
+  - 終盤にはネタがよければ次週も存続という形になり、何週か延命した。延命を決めたネタに「綺麗な顔してるだろ。[汁男優](../Page/汁男優.md "wikilink")なんだぜ。」（『[タッチ](../Page/タッチ_\(漫画\).md "wikilink")』での[上杉達也](../Page/上杉達也.md "wikilink")の言葉「死んでるんだぜ」をひねったもの）がある。
   - 2006年9月29日〜2007年7月20日
 
 <!-- end list -->
@@ -1076,7 +1076,7 @@ DJ藤森に対するリクエストや質問を送ると、答えてくれたり
 
   - ディレクター：[生江龍太郎](../Page/生江龍太郎.md "wikilink")（[サウンドマン](../Page/サウンドマン.md "wikilink")）
       - 2008年3月7日の放送から番組に参加。
-  - 構成作家：[宮澤一彰](https://ja.wikipedia.org/wiki/宮澤一彰 "wikilink")（[Reezent](http://www12.ocn.ne.jp/~espresso/reezent/4p.html)）
+  - 構成作家：[宮澤一彰](https://ja.wikipedia.org/wiki/宮澤一彰 "wikilink")（）
       - 2008年10月3日の放送から番組に参加。
       - 元はオールナイトニッポンなどのハガキ職人「ダビッツのメガネ」。東京[NSCでオリラジと同期](../Page/吉本総合芸能学院.md "wikilink")（構成作家コース）。前の構成作家の細田と同い年。
       - 番組中に笑い声が聞こえる。
@@ -1208,6 +1208,6 @@ DJ藤森に対するリクエストや質問を送ると、答えてくれたり
 
   - [オリエンタルラジオのオールナイトニッポンR 公式サイト](http://www.allnightnippon.com/oriental)
 
-[Category:オールナイトニッポンR](https://ja.wikipedia.org/wiki/Category:オールナイトニッポンR "wikilink") [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink")
+[Category:オールナイトニッポンR](https://ja.wikipedia.org/wiki/Category:オールナイトニッポンR "wikilink") [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink") [Category:お笑い芸人のラジオ番組](https://ja.wikipedia.org/wiki/Category:お笑い芸人のラジオ番組 "wikilink")
 
 1.  これを機に『オールナイトニッポンR　スペシャルナイト』金曜日の放送が第1週目のみ復活した。

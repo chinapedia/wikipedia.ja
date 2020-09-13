@@ -612,7 +612,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>50　<a href="https://ja.wikipedia.org/wiki/おもてなし_即レス英会話" title="wikilink">おもてなし 即レス英会話</a></p></td>
+<td><p>50　<a href="../Page/おもてなし_即レス英会話.md" title="wikilink">おもてなし 即レス英会話</a></p></td>
 <td><p>50　PREMIUM SELECTIONS</p></td>
 <td></td>
 <td></td>
@@ -625,7 +625,7 @@
 <tr class="even">
 <td><p>14</p></td>
 <td><p>00　<a href="../Page/COOL_JAPAN〜発掘!かっこいいニッポン〜.md" title="wikilink">COOL JAPAN〜発掘!かっこいいニッポン〜</a></p></td>
-<td><p>00　<a href="https://ja.wikipedia.org/wiki/世界にいいね!つぶやき英語" title="wikilink">世界にいいね!つぶやき英語</a></p></td>
+<td><p>00　<a href="../Page/世界にいいね!つぶやき英語.md" title="wikilink">世界にいいね!つぶやき英語</a></p></td>
 <td><p>00　<a href="../Page/テレビで中国語.md" title="wikilink">テレビで中国語</a></p></td>
 <td><p>00　<a href="https://ja.wikipedia.org/wiki/旅するスペイン語" title="wikilink">旅するスペイン語</a></p></td>
 <td><p>00　<a href="https://ja.wikipedia.org/wiki/旅するフランス語" title="wikilink">旅するフランス語</a></p></td>

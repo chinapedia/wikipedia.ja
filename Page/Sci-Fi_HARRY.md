@@ -269,7 +269,7 @@
   - [名古屋テレビ](../Page/名古屋テレビ放送.md "wikilink")
   - [KBS京都](../Page/京都放送.md "wikilink")
   - [瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")
-  - [愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink")
+  - [愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink")（2001年に放送）\[2\]
 
 ## 脚注
 
@@ -280,6 +280,7 @@
   - [NIGHT HEAD](../Page/NIGHT_HEAD.md "wikilink")
   - [常識酒場](../Page/常識酒場.md "wikilink") - [テレビドラマ](../Page/テレビドラマ.md "wikilink")『[世にも奇妙な物語](https://ja.wikipedia.org/wiki/世にも奇妙な物語 "wikilink")』の1話であり、「NIGHT HEAD」の原案となった作品。2作とも飯田譲治が原作を担当しており、本作と同様に超能力を扱っている。
 
-[Category:漫画作品_さ](https://ja.wikipedia.org/wiki/Category:漫画作品_さ "wikilink") [Category:超能力を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:超能力を題材とした漫画作品 "wikilink") [Category:アニメ作品_さ](https://ja.wikipedia.org/wiki/Category:アニメ作品_さ "wikilink") [Category:2000年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2000年のテレビアニメ "wikilink") [Category:テレビ朝日の深夜アニメ](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜アニメ "wikilink") [Category:名古屋テレビの深夜アニメ](https://ja.wikipedia.org/wiki/Category:名古屋テレビの深夜アニメ "wikilink") [Category:エイベックス・グループのアニメ作品](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアニメ作品 "wikilink") [Category:超能力を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:超能力を題材としたアニメ作品 "wikilink") [Category:アメリカ合衆国を舞台とした作品](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国を舞台とした作品 "wikilink")
+[Category:漫画作品_さ](https://ja.wikipedia.org/wiki/Category:漫画作品_さ "wikilink") [Category:1995年の漫画](https://ja.wikipedia.org/wiki/Category:1995年の漫画 "wikilink") [Category:超能力を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:超能力を題材とした漫画作品 "wikilink") [Category:アメリカ合衆国を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国を舞台とした漫画作品 "wikilink") [Category:アニメ作品_さ](https://ja.wikipedia.org/wiki/Category:アニメ作品_さ "wikilink") [Category:2000年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2000年のテレビアニメ "wikilink") [Category:テレビ朝日の深夜アニメ](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜アニメ "wikilink") [Category:名古屋テレビの深夜アニメ](https://ja.wikipedia.org/wiki/Category:名古屋テレビの深夜アニメ "wikilink") [Category:エイベックス・グループのアニメ作品](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアニメ作品 "wikilink") [Category:超能力を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:超能力を題材としたアニメ作品 "wikilink") [Category:アメリカ合衆国を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国を舞台としたアニメ作品 "wikilink")
 
 1.  [Sci-Fi HARRY(サイファイハリー)Vol.01](https://mediafactory.jp/Form/Product/ProductDetail.aspx?shop=0&pid=4935228990443&vid=&cat=010010020010001&swrd=)
+2.  『[アニメディア](../Page/アニメディア.md "wikilink")』2001年8月号『TV STATION NETWORK』（116頁）

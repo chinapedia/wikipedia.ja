@@ -83,7 +83,7 @@
   - [公式サイトディスコグラフィー「GOOD-BYE青春」](http://www.nagabuchi.or.jp/disco/single/goodbye_seisyun.php)
 
   -
-[Category:1983年のシングル](https://ja.wikipedia.org/wiki/Category:1983年のシングル "wikilink") [Category:TBSのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマ主題歌 "wikilink") [Category:秋元康が制作した楽曲](https://ja.wikipedia.org/wiki/Category:秋元康が制作した楽曲 "wikilink") [Category:エキスプレスのシングル](https://ja.wikipedia.org/wiki/Category:エキスプレスのシングル "wikilink") [Category:楽曲_く](https://ja.wikipedia.org/wiki/Category:楽曲_く "wikilink") [Category:青春を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:青春を題材とした楽曲 "wikilink") [Category:長渕剛が制作した楽曲](https://ja.wikipedia.org/wiki/Category:長渕剛が制作した楽曲 "wikilink") [Category:長渕剛の楽曲](https://ja.wikipedia.org/wiki/Category:長渕剛の楽曲 "wikilink")
+[Category:1983年のシングル](https://ja.wikipedia.org/wiki/Category:1983年のシングル "wikilink") [Category:TBS金曜8時枠の連続ドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBS金曜8時枠の連続ドラマ主題歌 "wikilink") [Category:秋元康が制作した楽曲](https://ja.wikipedia.org/wiki/Category:秋元康が制作した楽曲 "wikilink") [Category:エキスプレスのシングル](https://ja.wikipedia.org/wiki/Category:エキスプレスのシングル "wikilink") [Category:楽曲_く](https://ja.wikipedia.org/wiki/Category:楽曲_く "wikilink") [Category:青春を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:青春を題材とした楽曲 "wikilink") [Category:長渕剛が制作した楽曲](https://ja.wikipedia.org/wiki/Category:長渕剛が制作した楽曲 "wikilink") [Category:長渕剛の楽曲](https://ja.wikipedia.org/wiki/Category:長渕剛の楽曲 "wikilink")
 
 1.  [2.ひょんなきっかけから高校生で作家デビュー](http://www.musicman-net.com/relay/86-2.html) - Musicman's RELAY第86回・秋元康（Musicman-NET）
 2.

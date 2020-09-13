@@ -1,7 +1,7 @@
 > この記事は[Technics SL-1200](https://ja.wikipedia.org/wiki/Technics_SL-1200)から翻訳されています。
 
 
-[Technics_SL-1200MK2-2.jpg](https://ja.wikipedia.org/wiki/File:Technics_SL-1200MK2-2.jpg "fig:Technics_SL-1200MK2-2.jpg") **Technics SL-1200シリーズ**（テクニクス エスエル せんにひゃくシリーズ）は、[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")（旧・松下電器産業）が製造し、同社の高級音響機器用[ブランド](../Page/ブランド.md "wikilink")「[Technics](../Page/Technics.md "wikilink")」で販売している[レコードプレーヤー](../Page/レコードプレーヤー.md "wikilink")のシリーズ。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に一度販売終了したが、[2016年](../Page/2016年.md "wikilink")に復活している。
+[Technics_SL-1200MK2-2.jpg](https://ja.wikipedia.org/wiki/File:Technics_SL-1200MK2-2.jpg "fig:Technics_SL-1200MK2-2.jpg") **Technics SL-1200シリーズ**（テクニクス エスエル センニヒャクシリーズ）は、[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")（旧・松下電器産業）が製造し、同社の高級音響機器用[ブランド](../Page/ブランド.md "wikilink")「[Technics](../Page/Technics.md "wikilink")」で販売している[レコードプレーヤー](../Page/レコードプレーヤー.md "wikilink")のシリーズ。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に一度販売終了したが、[2016年](../Page/2016年.md "wikilink")に復活している。
 
 2010年の一時販売終了までの累計販売台数は全世界で約350万台\[1\]。
 

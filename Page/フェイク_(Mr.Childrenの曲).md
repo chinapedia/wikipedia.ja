@@ -22,8 +22,21 @@
         [東宝](../Page/東宝.md "wikilink")系映画『[どろろ](../Page/どろろ_\(映画\).md "wikilink")』主題歌。書き下ろしとなっている。
         曲終了後、約30秒間の無音の後に[シークレットトラックとして約](../Page/隠しトラック.md "wikilink")4分の[インストゥルメンタルが収録されており](../Page/器楽曲.md "wikilink")、トラック上はこれを含めて1曲となっている。Mr.Childrenの作品でシークレットトラックが収録されたのは今回が初となる。配信版のシングルでは、シークレットの部分は削除されている。
         [the pillowsとの](https://ja.wikipedia.org/wiki/the_pillows "wikilink")[Zepp](../Page/Zepp.md "wikilink")ツアーで「しるし」と共に初披露された。
-        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")の監督は前作に引き続いて[丹下紘希](../Page/丹下紘希.md "wikilink")が務めており、メンバー全員がミュージック・ビデオに出演するのは「[Worlds end](https://ja.wikipedia.org/wiki/I_LOVE_U#収録曲 "wikilink")」以来。[2012年](../Page/2012年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")発売の『[Mr.Children 2005-2010 <macro>](https://ja.wikipedia.org/wiki/Mr.Children_2005-2010_＜macro＞ "wikilink")』の初回限定盤、[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。PVはこれとは別に『どろろ』バージョンも存在しており、主に『どろろ』公開中に流されていた。
+        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")の監督は前作に引き続いて[丹下紘希](../Page/丹下紘希.md "wikilink")が務めており、メンバー全員がミュージック・ビデオに出演するのは「[Worlds end](https://ja.wikipedia.org/wiki/I_♥_U#収録曲 "wikilink")」以来。[2012年](../Page/2012年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")発売の『[Mr.Children 2005-2010 <macro>](https://ja.wikipedia.org/wiki/Mr.Children_2005-2010_＜macro＞ "wikilink")』の初回限定盤、[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。PVはこれとは別に『どろろ』バージョンも存在しており、主に『どろろ』公開中に流されていた。
         テレビでの披露は[3月11日](../Page/3月11日.md "wikilink")の『[Music Lovers](../Page/Music_Lovers.md "wikilink")』でのみ行われた。
+
+## ライブ映像作品
+
+| 作品名                                                                                                                                 | 備考           |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [HOME](../Page/HOME_\(Mr.Childrenのアルバム\).md "wikilink")                                                                             | 初回限定版のDVDに収録 |
+| [Mr.Children "HOME" TOUR 2007](../Page/Mr.Children_"HOME"_TOUR_2007.md "wikilink")                                                  |              |
+| [Mr.Children "HOME" TOUR 2007 -in the field-](https://ja.wikipedia.org/wiki/Mr.Children_"HOME"_TOUR_2007_-in_the_field- "wikilink") |              |
+| [ap bank fes '08](https://ja.wikipedia.org/wiki/ap_bank_fes_'08 "wikilink")                                                         |              |
+| [Mr.Children Tour 2009 〜終末のコンフィデンスソングス〜](https://ja.wikipedia.org/wiki/Mr.Children_Tour_2009_〜終末のコンフィデンスソングス〜 "wikilink")           |              |
+| [Mr.Children TOUR 2011 "SENSE"](https://ja.wikipedia.org/wiki/Mr.Children_TOUR_2011_"SENSE" "wikilink")                             |              |
+| [MR.CHILDREN TOUR POPSAURUS 2012](https://ja.wikipedia.org/wiki/MR.CHILDREN_TOUR_POPSAURUS_2012 "wikilink")                         |              |
+| [Mr.Children Stadium Tour 2015 未完](https://ja.wikipedia.org/wiki/Mr.Children_Stadium_Tour_2015_未完 "wikilink")                       |              |
 
 ## 収録アルバム
 

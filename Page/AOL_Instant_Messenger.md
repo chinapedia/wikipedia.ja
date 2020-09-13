@@ -51,13 +51,13 @@ AOL Instant Messengerで採用されている[プロトコル](../Page/プロト
 
 [Category:インスタントメッセンジャー](https://ja.wikipedia.org/wiki/Category:インスタントメッセンジャー "wikilink") [Category:MacOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:MacOSのソフトウェア "wikilink") [Category:1997年開設のウェブサイト](https://ja.wikipedia.org/wiki/Category:1997年開設のウェブサイト "wikilink") [Category:2017年廃止のウェブサイト](https://ja.wikipedia.org/wiki/Category:2017年廃止のウェブサイト "wikilink")
 
-1.  \[<http://web.archive.org/web/20041028235138/http://corp.aol.com/products/brands_aim.shtml>　 AOL Products（Web archiveより）\]
-2.  \[<http://web.archive.org/web/20021124234704/http://www.jp.aol.com/info/release/981214.html>　 <http://www.jp.aol.com/info/release/981214.html（Web> archiveより）\]
+1.  \[<https://web.archive.org/web/20041028235138/http://corp.aol.com/products/brands_aim.shtml>　 AOL Products（Web archiveより）\]
+2.  \[<https://web.archive.org/web/20021124234704/http://www.jp.aol.com/info/release/981214.html>　 <http://www.jp.aol.com/info/release/981214.html（Web> archiveより）\]
 3.  [ネット草創期に人気を集めたAOLのメッセンジャー「AIM」が終了へ（2017年10月10日）](https://japan.cnet.com/article/35108493/)
 4.  [インスタントメッセンジャー「AIM」が終了（2017年12月17日）](http://nlab.itmedia.co.jp/nl/articles/1712/17/news019.html)
 5.  [AOLがヤフー、MSとの互換メッセージ・サービスを封鎖（1999年07月）](http://wired.jp/1999/07/26/aol%E3%81%8C%E3%83%A4%E3%83%95%E3%83%BC%E3%80%81ms%E3%81%A8%E3%81%AE%E4%BA%92%E6%8F%9B%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E5%B0%81/)
 6.  [AOLがOdigoからのインスタントメッセージアクセスをブロック（2000年06月）](http://internet.watch.impress.co.jp/www/article/2000/0613/odigo.htm)
-7.  [AOL，人気IMソフト「Trillian」を遮断（2002年1月）](http://web.archive.org/web/20040324202410/http://www.itmedia.co.jp/news/0201/31/e_aol.html)
+7.  [AOL，人気IMソフト「Trillian」を遮断（2002年1月）](https://web.archive.org/web/20040324202410/http://www.itmedia.co.jp/news/0201/31/e_aol.html)
 8.  [IM分野で「雪解け」--マイクロソフト、AOL、ヤフーが相互乗り入れへ](http://japan.cnet.com/news/media/20069864/)
 9.  [AppleとAOLがインスタントメッセージで提携（1999年）](http://internet.watch.impress.co.jp/www/article/1999/0730/aplaol.htm)
 10. [米AppleがAIM互換の「iChat」を披露～次期版の「Mac OS X」に搭載（2002年）](http://internet.watch.impress.co.jp/www/article/2002/0507/ichat.htm)

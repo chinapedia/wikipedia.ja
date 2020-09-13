@@ -7,6 +7,7 @@
 
   - 松本"マッツ"雅光（Composer）
   - AG Kanno（菅野英児）（Drum）[浅草ジンタ](../Page/浅草ジンタ.md "wikilink")
+  - 佐藤しおり（Tb,Vocal）2019年加入〜
   - 新井一徳（T.Sax）2012年加入～
   - 大上ゴウ（Bass）2016年加入～
 
@@ -16,10 +17,10 @@
   - 河内洋祐（Bass）2003年加入～2005年脱退
   - 河原真（Bass）2005年加入～2007年脱退（現[ロッカトレンチ](https://ja.wikipedia.org/wiki/ロッカトレンチ "wikilink")）
   - 右田真（Bass）2006年加入～2014年脱退
+  - 高鳥玲（Bass）2015年加入〜2016年脱退
   - かなす（Tb）2012年加入～2014年脱退（現[HEY-SMITH](https://ja.wikipedia.org/wiki/HEY-SMITH "wikilink")）
   - おおうちもとひろ（A.Sax）2015年脱退
   - 楯岡亮（Guitar）
-  - 佐藤しおり（Tb,Vocal）
 
 ## ディスコグラフィー
 
@@ -314,10 +315,6 @@
 
 ラジオ「肚決めて行くぜ」（[仙台ラジオ3](../Page/仙台シティエフエム.md "wikilink")） 毎月　第1、第3金曜日　AM 11:00～AM 11:30　O.A
 
-## 不祥事
-
-2020年1月9日、メンバーである松本"マッツ"雅光が、関東運輸局に対して所有するワゴン車の登録地を偽って申請したとして警視庁に逮捕された\[1\]。松本は[対レイシスト行動集団](https://ja.wikipedia.org/wiki/対レイシスト行動集団 "wikilink")（旧・レイシストをしばき隊）のメンバーとして活動しており、ワゴン車はしばき隊の活動資材の運搬として用いていたことも判明した。\[2\]
-
 ## 脚注
 
 ## 外部リンク
@@ -328,7 +325,4 @@
   -
   - 楽器レンタル　[ハイエースサウンドシステムズ](http://www.high-ace.com/index.html)（メンバーで経営）
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:スカ](https://ja.wikipedia.org/wiki/Category:スカ "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink")
-
-1.  [「対レイシスト行動集団」メンバー、“車庫飛ばし”で逮捕](https://web.archive.org/web/20200109135041/https://www.mbs.jp/news/zenkokunews/20200109/3876168.shtml)
-2.  [虚偽住所で車検更新疑い、活動団体の男逮捕　警視庁 - 産経ニュース](https://www.sankei.com/affairs/news/200109/afr2001090030-n1.html)
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:1997年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に結成した音楽グループ "wikilink") [Category:スカ](https://ja.wikipedia.org/wiki/Category:スカ "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink")

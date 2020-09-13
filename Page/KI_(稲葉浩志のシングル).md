@@ -27,9 +27,10 @@
 4.  **I'm on fire** (5:43)
       -
         基本的には[バラード](../Page/バラード.md "wikilink")調だが、間奏のみ曲調が大きく変わる。
+        稲葉は自分の中でのテーマとして「“I'm on fire”というフレーズでバラードというか、静かな曲というか、そういうことをやりたいな」と語っている\[2\]。
 5.  **AKATSUKI Version O** (4:08)
       -
-        オーケストラバージョンで、完全な[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")。
+        オーケストラバージョンで、完全な[インストゥルメンタル](../Page/器楽曲.md "wikilink")。
 
 ## タイアップ
 
@@ -58,3 +59,4 @@
 [Category:稲葉浩志の楽曲](https://ja.wikipedia.org/wiki/Category:稲葉浩志の楽曲 "wikilink") [Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:2003年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2003年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:日本テレビの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビの主題歌 "wikilink")
 
 1.
+2.

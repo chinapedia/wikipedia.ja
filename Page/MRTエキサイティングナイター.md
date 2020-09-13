@@ -179,6 +179,7 @@
 
 ## 関連項目
 
+  - [S☆1 BASEBALL](https://ja.wikipedia.org/wiki/S☆1_BASEBALL "wikilink")（MRTテレビ）
   - [地方ラジオ局のナイター中継タイトル一覧](https://ja.wikipedia.org/wiki/地方ラジオ局のナイター中継タイトル一覧 "wikilink")
 
 [Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:宮崎放送のラジオ帯番組](https://ja.wikipedia.org/wiki/Category:宮崎放送のラジオ帯番組 "wikilink")

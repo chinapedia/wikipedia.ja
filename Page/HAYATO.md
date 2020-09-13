@@ -54,6 +54,7 @@
 
   - [男子キックボクサー一覧](../Page/男子キックボクサー一覧.md "wikilink")
   - [K-1選手一覧](../Page/K-1選手一覧.md "wikilink")
+  - [はやと](https://ja.wikipedia.org/wiki/はやと "wikilink")
 
 ## 外部リンク
 

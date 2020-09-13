@@ -1,7 +1,7 @@
 > この記事は[Three tight b](https://ja.wikipedia.org/wiki/Three_tight_b)から翻訳されています。
 
 
-**three tight b**（スリータイトビー）は[九州](../Page/九州.md "wikilink")出身の3人からなる日本の[音楽グループ](../Page/バンド_\(音楽\).md "wikilink")。[2002年](../Page/2002年.md "wikilink")結成、[2004年](../Page/2004年.md "wikilink")メジャーデビュー。所属[レコード会社](../Page/レコード会社.md "wikilink")は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
+**three tight b**（スリータイトビー）は[九州](../Page/九州.md "wikilink")出身の3人からなる日本の[バンド (音楽)](../Page/バンド_\(音楽\).md "wikilink")。[2002年](../Page/2002年.md "wikilink")結成、[2004年](../Page/2004年.md "wikilink")メジャーデビュー。所属[レコード会社](../Page/レコード会社.md "wikilink")は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 メンバーそれぞれ20代、30代、40代という「**エイジレス・ユニット**」である。 2009年4月解散した。
 
@@ -75,7 +75,7 @@
 
 ## 外部リンク
 
-  - [ユニバーサルミュージック内公式サイト](http://www.universal-music.co.jp/ttb/index.html)
+  - [ユニバーサルミュージック内公式サイト](https://www.universal-music.co.jp/three-tight-b/)
 
   - [ttbのこんな毎日\!](https://blog.goo.ne.jp/threetightb) - 公式ブログ
 
@@ -85,7 +85,7 @@
 
   - （H(eichi)）
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink") [Category:2009年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2009年に解散した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
 
 1.  [CDJournal.com CDJ PUSH 特集：話題急上昇！　九州発のアイドル・グループ、LinQ躍進の秘密に迫る！](http://www.cdjournal.com/main/cdjpush/linq/2000000644)
 2.  [地元アイドルLinQの楽曲チームが運営からの離脱を発表](http://tou.ch/news/article/6939764/) - ロケタッチ新聞 福岡版 2012年9月10日

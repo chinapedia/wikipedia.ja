@@ -21,8 +21,8 @@
 
 ## 装備
 
-  - [デュマコC7](https://ja.wikipedia.org/wiki/コルト・カナダ_C7 "wikilink")
-  - [デュマコC8](https://ja.wikipedia.org/wiki/コルト・カナダ_C7#C8 "wikilink")
+  - [ディマコC7](https://ja.wikipedia.org/wiki/コルト・カナダ_C7 "wikilink")
+  - [ディマコC8](https://ja.wikipedia.org/wiki/コルト・カナダ_C7#C8 "wikilink")
   - [FN P90](../Page/FN_P90.md "wikilink")
   - [H\&K MP5](../Page/H&K_MP5.md "wikilink")
   - [SIG SAUER P226](../Page/SIG_SAUER_P226.md "wikilink")

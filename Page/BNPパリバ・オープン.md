@@ -5,9 +5,11 @@
 
 ## 概要
 
-。2009年からフランスの証券会社[BNPパリバ](../Page/BNPパリバ.md "wikilink")が冠スポンサーを務めている。カテゴリーは男子は[マスターズ1000](https://ja.wikipedia.org/wiki/ATPツアー・マスターズ1000 "wikilink")、女子は[プレミア・マンダトリーに属する](https://ja.wikipedia.org/wiki/WTAプレミアトーナメント "wikilink")。賞金総額はマスターズ1000、プレミア・マンダトリーの中で最も多く、2012年から男女シングルスの優勝賞金が100万ドルを超えている。また、。
+この大会の翌週に開催される[マイアミ・オープン](../Page/マイアミ・オープン.md "wikilink")と共に。男子は[マスターズ1000](https://ja.wikipedia.org/wiki/ATPツアー・マスターズ1000 "wikilink")、女子は[プレミア・マンダトリーのカテゴリに属している](https://ja.wikipedia.org/wiki/WTAプレミアトーナメント "wikilink")。賞金総額はマスターズ1000、プレミア・マンダトリーの中で最も多く、。2009年からフランスの証券会社[BNPパリバ](../Page/BNPパリバ.md "wikilink")が冠スポンサーを務めている\[1\]。
 
-2020年大会は新型コロナウイルスの世界的な流行を懸念し中止された\[1\]\[2\]。
+BNPパリバ・オープンとマイアミ・オープンを連続で優勝することは「サンシャイン・ダブル」と呼ばれる\[2\]\[3\]。
+
+2020年大会は[新型コロナウイルスの世界的な流行を懸念し中止された](../Page/2019新型コロナウイルス.md "wikilink")\[4\]。
 
 ## 大会名の変遷
 
@@ -247,7 +249,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
-<td><p><strong>開催中止</strong>[3]</p></td>
+<td><p><strong>大会開催なし</strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -543,7 +545,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
-<td><p><strong>開催中止</strong>[4]</p></td>
+<td><p><strong>大会開催なし</strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -750,7 +752,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
-<td><p><strong>開催中止</strong>[5]</p></td>
+<td><p><strong>大会開催なし</strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -917,7 +919,7 @@
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
 <td><p><strong><a href="../Page/リサ・レイモンド.md" title="wikilink">リサ・レイモンド</a></strong><br />
  <strong><a href="https://ja.wikipedia.org/wiki/サマンサ・ストーサー" title="wikilink">サマンサ・ストーサー</a></strong></p></td>
-<td><p><a href="../Page/チャン詠然.md" title="wikilink">詹詠然</a><br />
+<td><p><a href="../Page/詹詠然.md" title="wikilink">詹詠然</a><br />
  <a href="../Page/荘佳容.md" title="wikilink">荘佳容</a></p></td>
 <td><p>6-3, 7-5</p></td>
 </tr>
@@ -995,7 +997,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a></p></td>
-<td><p><strong><a href="../Page/チャン詠然.md" title="wikilink">詹詠然</a></strong><br />
+<td><p><strong><a href="../Page/詹詠然.md" title="wikilink">詹詠然</a></strong><br />
  <strong><a href="../Page/マルチナ・ヒンギス.md" title="wikilink">マルチナ・ヒンギス</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ルーシー・ハラデツカ" title="wikilink">ルーシー・ハラデツカ</a><br />
  <a href="https://ja.wikipedia.org/wiki/カテリナ・シニアコバ" title="wikilink">カテリナ・シニアコバ</a></p></td>
@@ -1019,7 +1021,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
-<td><p><strong>開催中止</strong>[6]</p></td>
+<td><p><strong>大会開催なし</strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1040,5 +1042,3 @@
 2.
 3.
 4.
-5.
-6.

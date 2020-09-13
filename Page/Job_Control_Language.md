@@ -33,7 +33,7 @@ JCLは、[オペレーティングシステム](../Page/オペレーティング
 
   - [GCOS](../Page/GCOS.md "wikilink")系（多機能で一般のシェルスクリプトに近い）
       - [Bull](../Page/Bull.md "wikilink")の[GCOS](../Page/GCOS.md "wikilink")
-      - [日本電気](../Page/日本電気.md "wikilink")の[ACOS](https://ja.wikipedia.org/wiki/ACOS "wikilink")
+      - [日本電気](../Page/日本電気.md "wikilink")の[ACOS](../Page/Advanced_Comprehensive_Operating_System.md "wikilink")
 
 <!-- end list -->
 
@@ -357,14 +357,17 @@ CPUの外部スイッチ・シミュレーション。
       - [z/VSE](https://ja.wikipedia.org/wiki/z/VSE "wikilink")
   - GCOS
       - [GCOS](../Page/GCOS.md "wikilink")
-      - [ACOS](https://ja.wikipedia.org/wiki/ACOS "wikilink")
+      - [ACOS](../Page/Advanced_Comprehensive_Operating_System.md "wikilink")
 
 ## 外部リンク
 
   - MVS関連（MVS、OS/390、z/OS）
-      - [MVS便利帳](http://www33.ocn.ne.jp/~yfuku/mvs/mvsindex.html)（JCL簡易解説あり）
+      - （JCL簡易解説あり）
+
       - [サンプルJCL集](http://mvsjcl.web.fc2.com/)
+
       - [z/OS MVS JCLユーザーズガイド](http://www-1.ibm.com/support/docview.wss?uid=pub3sa88857000)
+
       - [z/OS MVS JCL Reference](http://publibz.boulder.ibm.com/bookmgr_OS390/libraryserver/zosv1r9/index.html?DOCNUM/SA22-7597/CCONTENTS?FS=TRUE&TB=SCRIPT&BOOKMARK=TRUE&PATH=/bookmgr_OS390/libraryserver/zosv1r9/)（英文。z/OS各バージョン）
 
 <!-- end list -->

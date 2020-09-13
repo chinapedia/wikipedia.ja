@@ -181,10 +181,10 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA女子チャンピオンズリーグ_2019-20" title="wikilink">2019-20</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フランツ・ホア・シュターディオン" title="wikilink">フランツ・ホア・シュターディオン</a>（<a href="https://ja.wikipedia.org/wiki/ウィーン" title="wikilink">ウィーン</a>）</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/オリンピック・リヨン_(女子)" title="wikilink">オリンピック・リヨン</a></strong></p></td>
+<td><p><strong>3 - 1</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/VfLヴォルフスブルク_(女子)" title="wikilink">ヴォルフスブルク</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/エスタディオ・アノエタ" title="wikilink">エスタディオ・アノエタ</a>（<a href="../Page/サン・セバスティアン.md" title="wikilink">サン・セバスティアン</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA女子チャンピオンズリーグ_2020-21" title="wikilink">2020-21</a></p></td>
@@ -227,9 +227,9 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/オリンピック・リヨン_(女子)" title="wikilink">オリンピック・リヨン</a></p></td>
-<td><p><strong>6</strong></p></td>
+<td><p><strong>7</strong></p></td>
 <td><p>2</p></td>
-<td><p>2011,2012,2016,2017,2018,2019</p></td>
+<td><p>2011,2012,2016,2017,2018,2019,2020</p></td>
 <td><p>2010,2013</p></td>
 </tr>
 <tr class="even">
@@ -256,9 +256,9 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/VfLヴォルフスブルク_(女子)" title="wikilink">ヴォルフスブルク</a></p></td>
 <td><p>2</p></td>
-<td><p>2</p></td>
+<td><p><strong>3</strong></p></td>
 <td><p>2013,2014</p></td>
-<td><p>2016,2018</p></td>
+<td><p>2016,2018,2020</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/アーセナル・ウィメンFC.md" title="wikilink">アーセナル</a></p></td>
@@ -335,11 +335,11 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ドイツサッカー連盟" title="wikilink">ドイツ</a></p></td>
 <td><p><strong>9</strong></p></td>
-<td><p><strong>6</strong></p></td>
+<td><p><strong>7</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/フランスサッカー連盟.md" title="wikilink">フランス</a></p></td>
-<td><p>6</p></td>
+<td><p><strong>7</strong></p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="odd">
@@ -369,6 +369,10 @@
 </tr>
 </tbody>
 </table>
+
+## 脚注
+
+## 出典
 
 ## 関連項目
 

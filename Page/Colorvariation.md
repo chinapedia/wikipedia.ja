@@ -36,7 +36,8 @@
   - [Planet Colorvariation](http://www.colorvariation.net)（公式サイト）
 
   -
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")
+
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink")
 
 1.  [BLUEBLOOD](http://www.blueblood.tv/)
 2.  [手摺狂会](http://www.tesurikyokai.net/#)

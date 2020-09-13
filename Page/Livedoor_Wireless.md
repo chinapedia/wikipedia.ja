@@ -67,5 +67,5 @@ livedoor Wirelessのアクセスポイント数の推移
 
 1.  [高木浩光](../Page/高木浩光.md "wikilink")@自宅の日記[2007年11月3日](http://takagi-hiromitsu.jp/diary/20071103.html)
 2.  <http://dhjournal.jp/2006autumn/content04.html>
-3.  [KDDI、ライブドアの公衆無線LAN事業を無償で譲受](http://k-tai.impress.co.jp/docs/news/20111007_482404.html),ケータイWatch,2011年10月7日
-4.  [重要「livedoor Wireless」のサービス終了のお知らせ](http://blog.livedoor.jp/ld_wireless/archives/52083846.html),2013年1月25日
+3.
+4.

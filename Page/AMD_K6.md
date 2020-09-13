@@ -28,11 +28,11 @@
 
 AMDは、x86互換プロセッサメーカーであった、Atiq Raza率いる[NexGen](https://ja.wikipedia.org/wiki/NexGen "wikilink")社を買収し、当時NexGenが開発中だったNx686というx86互換CPUを手に入れた。AMDがもともと開発していたK6は性能がこのNx686より劣るものであったため、Nx686を元に開発した新プロセッサをK6として、1997年に市場に投入した。
 
-本来、Nx686は前作Nx586やIntelのPentium Proなどと同様に2次キャッシュバスがフロントサイドバスから独立した構成の、専用バス・専用ソケットに対応するCPUとして開発が進められていたが、AMDはそれをSocket7対応に変更し、2次キャッシュバス廃止に伴うペナルティ軽減を目的に1次キャッシュを増量（32+32=64KB）の上で、Nx686独自のマルチメディア命令をIntelからライセンスを受けMMX命令セットに変更して完成させた。
+本来、Nx686は前作Nx586やIntelのPentium Proなどと同様に[2次キャッシュバスが](../Page/L2キャッシュ.md "wikilink")[フロントサイドバス](../Page/フロントサイドバス.md "wikilink")から独立した構成の、専用バス・専用ソケットに対応するCPUとして開発が進められていたが、AMDはそれをSocket7対応に変更し、2次キャッシュバス廃止に伴うペナルティ軽減を目的に1次キャッシュを増量（32+32=64KB）の上で、Nx686独自のマルチメディア命令をIntelからライセンスを受け[MMX](../Page/MMX.md "wikilink")命令セットに変更して完成させた。
 
-このCPUは時期により様々な開発コードネームが用いられたが、その一つに「Catapult」があった。これは、この新CPUを強大な[ゴリアテ](../Page/ゴリアテ.md "wikilink")（=インテル）を打ち倒した[ダビデ](../Page/ダビデ.md "wikilink") (=AMD) の武器（[投石機](https://ja.wikipedia.org/wiki/投石機 "wikilink")）になぞらえての命名であり、AMDが相当な自信と意気込みをもってこのCPUの開発に臨んだことを窺わせていた。
+このCPUは時期により様々な開発コードネームが用いられたが、その一つに「Catapult」があった。これは、この新CPUを強大な[ゴリアテ](../Page/ゴリアテ.md "wikilink")（=インテル）を打ち倒した[ダビデ](../Page/ダビデ.md "wikilink") (=AMD) の武器（[投石機](../Page/カタパルト_\(投石機\).md "wikilink")）になぞらえての命名であり、AMDが相当な自信と意気込みをもってこのCPUの開発に臨んだことを窺わせていた。
 
-K6は上述の通りインテルの[Pentium](https://ja.wikipedia.org/wiki/Pentium "wikilink") (Socket 7) とソケット互換であり、出荷開始の段階でインテルのMMX Pentiumシリーズよりも高クロック（233MHz）動作モデルが提供され、発売当初は、x86系で最速クロック動作のCPUとなった。このため、AMDはK6を「インテル製品よりも高速な初めての互換プロセッサ」だとして大々的に売り出した。K6はその発売開始一か月後にインテルが販売開始した当時最速のインテル製プロセッサ[Pentium IIと競合する製品であったとAMDは宣伝していたが](../Page/Pentium_II.md "wikilink")、クロックあたりの命令実行効率ではPentium IIにやや劣っていた。発表から約1年後の1998年5月には、[SIMD](../Page/SIMD.md "wikilink")拡張命令セットである[3DNow\!](../Page/3DNow!.md "wikilink")を追加した[K6-2](https://ja.wikipedia.org/wiki/K6-2 "wikilink")という後継プロセッサが登場している。
+K6は上述の通りインテルの[Pentium](../Page/Intel_Pentium_\(1993年\).md "wikilink") (Socket 7) とソケット互換であり、出荷開始の段階でインテルのMMX Pentiumシリーズよりも高クロック（233MHz）動作モデルが提供され、発売当初は、x86系で最速クロック動作のCPUとなった。このため、AMDはK6を「インテル製品よりも高速な初めての互換プロセッサ」だとして大々的に売り出した。K6はその発売開始一か月後にインテルが販売開始した当時最速のインテル製プロセッサ[Pentium IIと競合する製品であったとAMDは宣伝していたが](../Page/Pentium_II.md "wikilink")、クロックあたりの命令実行効率ではPentium IIにやや劣っていた。発表から約1年後の1998年5月には、[SIMD](../Page/SIMD.md "wikilink")拡張命令セットである[3DNow\!](../Page/3DNow!.md "wikilink")を追加した[K6-2](https://ja.wikipedia.org/wiki/K6-2 "wikilink")という後継プロセッサが登場している。
 
 Pentium IIでは、Socket 7ではなく、[Slot 1](../Page/Slot_1.md "wikilink") (P6バス) が採用されており、Socket 7ユーザーがPentium IIにアップグレードするには、[マザーボード](../Page/マザーボード.md "wikilink")ごと（そして多くの場合メモリも）交換しなければならなかった。これに対しK6はSocket 7を採用していたため、[ローエンド](https://ja.wikipedia.org/wiki/ローエンド "wikilink")向けPC用の[CPU](../Page/CPU.md "wikilink")として採用されたり、Socket 7ユーザーのアップグレード用[CPU](../Page/CPU.md "wikilink")としても使用された。
 

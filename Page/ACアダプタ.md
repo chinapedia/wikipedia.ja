@@ -73,7 +73,7 @@ ACアダプタの中には、全世界対応と称してAC 100ボルトからAC 
 
 日本の旧来の携帯電話（[フィーチャー・フォン](https://ja.wikipedia.org/wiki/フィーチャー・フォン "wikilink")）のACアダプタでは、携帯電話の規格ごとに統一されている外部接続端子（EIAJ RC-5238「IMT-2000携帯電話用コネクタA」・CDMA Type Cellular Phones NC-R1-18「CDMA方式携帯電話端末用インターフェイスコネクタ」）を利用しているものもある。ただし、端子は統一されていても、電圧および電流は統一されていない場合もあり（[PDC](../Page/PDC.md "wikilink")、[CDMA 1X](../Page/CDMA_1X.md "wikilink") など）、その場合は、キーと呼ばれる端子に固有の突起を設ける事で、同じメーカーのものでなければ接続できないようにしている。
 
-またUSBのバスパワーによって動作・充電する機器で使用するために、USB端子を持ち電源端子に電力を供給する機能を有する汎用ACアダプタも存在する。
+またUSBのバスパワーによって動作・充電する機器で使用するために、機械的に同一のUSB端子を持ち電源端子に電力を供給する機能を有する汎用ACアダプタも存在する。ただし、USBの規格では500mA以上の電流を出力するためにはデータ通信によるネゴシエーションが必要であるため、無条件でそれ以上を出力する仕組みの場合それをUSBと呼ぶのは問題がある（USBは商標登録されているので、USBで無い物をUSBと表示するのは不当な表示になる。）。
 
 <table>
 <caption>主なプラグの規格（長さ9.5mm、電流 最大2A）</caption>
@@ -172,7 +172,7 @@ ACアダプタを使用する際は機器の付属品、もしくはメーカー
 
 ## 外部リンク
 
-  - [一般社団法人電子情報技術産業協会](http://www.jeita.or.jp/)（JEITA） - 旧 社団法人日本電子機械工業会（EIAJ）
+  - [一般社団法人電子情報技術産業協会](https://www.jeita.or.jp/japanese/)（JEITA） - 旧 社団法人日本電子機械工業会（EIAJ）
 
 [Category:家電機器](https://ja.wikipedia.org/wiki/Category:家電機器 "wikilink") [Category:電子部品](https://ja.wikipedia.org/wiki/Category:電子部品 "wikilink") [Category:電源回路](https://ja.wikipedia.org/wiki/Category:電源回路 "wikilink")
 

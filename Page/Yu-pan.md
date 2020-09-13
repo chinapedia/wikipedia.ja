@@ -1,7 +1,7 @@
 > この記事は[Yu-pan](https://ja.wikipedia.org/wiki/Yu-pan)から翻訳されています。
 
 
-**Yu-pan.**（ゆうぱん、[1981年](../Page/1981年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[マニピュレーター](../Page/マニピュレーター.md "wikilink")。BOND\&Co.所属。[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[北橘村](../Page/北橘村.md "wikilink")（現・[渋川市](../Page/渋川市.md "wikilink")）出身。[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。別名は**YUPA**。本名は**萩原祐二**。
+**Yu-pan.**（ゆうぱん、[1981年](../Page/1981年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[マニピュレーター](../Page/マニピュレーター.md "wikilink")。BOND\&Co.所属。[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[北橘村](../Page/北橘村.md "wikilink")（現・[渋川市](../Page/渋川市.md "wikilink")）出身。[血液型はB型](../Page/ABO式血液型.md "wikilink")。別名は**YUPA**。本名は**萩原祐二**。
 
 ## 人物
 

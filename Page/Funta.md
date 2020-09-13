@@ -21,65 +21,33 @@
 ### シングル
 
   - [顔でかーい](https://ja.wikipedia.org/wiki/顔でかーい "wikilink")
-
-<!-- end list -->
-
-  -
     [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月21日](../Page/1月21日.md "wikilink")発売（[ソニーレコード](https://ja.wikipedia.org/wiki/ソニーレコード "wikilink")）。オリコン最高順位86位。
     1.  顔でかーい
           - テレビアニメ『[ドクタースランプ](../Page/ドクタースランプ.md "wikilink")』オープニングテーマ
     2.  It's a happy world
     3.  顔でかーい（original karaoke）
-
-<!-- end list -->
-
   - [鼻毛がちょっととびだしている。](https://ja.wikipedia.org/wiki/鼻毛がちょっととびだしている。 "wikilink")
-
-<!-- end list -->
-
-  -
     1998年[3月21日](../Page/3月21日.md "wikilink")発売（ソニーレコード）
     1.  鼻毛がちょっととびだしている。
           - テレビアニメ『ドクタースランプ』エンディングテーマ
     2.  オンボロの自転車にのって
           - テレビアニメ『ドクタースランプ』挿入歌
     3.  鼻毛がちょっととびだしている。(original karaoke)
-
-<!-- end list -->
-
   - Wake up Angel 〜ねがいましては∞（無限）なり〜
-
-<!-- end list -->
-
-  -
     [2002年](../Page/2002年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")発売（[ランティス](../Page/ランティス.md "wikilink")）
     1.  Wake up Angel 〜ねがいましては∞（無限）なり〜
           - テレビアニメ『[ぴたテン](../Page/ぴたテン.md "wikilink")』オープニングテーマ
     2.  We are all Dreamer
     3.  Wake up Angel 〜ねがいましては∞（無限）なり〜(off vocal)
     4.  We are all Dreamer(off vocal)
-
-<!-- end list -->
-
   - 素直なまま
-
-<!-- end list -->
-
-  -
     [2003年](../Page/2003年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink")発売（ランティス）
     1.  素直なまま
           - テレビアニメ『[ななか6/17](https://ja.wikipedia.org/wiki/ななか6/17 "wikilink")』オープニングテーマ
     2.  見えないHAPPY 〜探し物はいつも〜
     3.  素直なまま(off vocal)
     4.  見えないHAPPY 〜探し物はいつも〜(off vocal)
-
-<!-- end list -->
-
   - ぽぽたんe. p.
-
-<!-- end list -->
-
-  -
     2003年[8月6日](../Page/8月6日.md "wikilink")発売（ランティス）
     1.  ぽぽたん畑でつかまえて（歌：[UNDER17](../Page/UNDER17.md "wikilink")）
     2.  S･U･K･I
@@ -92,10 +60,6 @@
 ### アルバム
 
   - Funta-stic\!\!〜ファンタが自分の曲を歌ってみた（セルフカバーアルバム）
-
-<!-- end list -->
-
-  -
     [2013年](../Page/2013年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")発売（[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")）
     1.  [マイペースでいきましょう](https://ja.wikipedia.org/wiki/マイペースでいきましょう "wikilink")
           - 作詞：Funta3、作曲：Funta7、編曲：[ARM](https://ja.wikipedia.org/wiki/ARM_\(作曲家\) "wikilink")（[IOSYS](https://ja.wikipedia.org/wiki/IOSYS "wikilink")）
@@ -122,7 +86,17 @@
 
 ### テレビ番組
 
-  - ドクタースランプ（1997年 - 1999年）
+  - [ドクタースランプ](../Page/ドクタースランプ.md "wikilink")（1997年 - 1999年）
+  - SHOW BY ROCK\!\!
+      - [SHOW BY ROCK\!\!](https://ja.wikipedia.org/wiki/SHOW_BY_ROCK!! "wikilink")（2015年）※Funta7名義、[高梨康治](../Page/高梨康治.md "wikilink")、[RegaSound](https://ja.wikipedia.org/wiki/RegaSound "wikilink")と共同
+      - [SHOW BY ROCK\!\!（第2期）](https://ja.wikipedia.org/wiki/SHOW_BY_ROCK!! "wikilink")（2016年）※Funta7名義、高梨康治、RegaSoundと共同
+      - [SHOW BY ROCK\!\! ましゅまいれっしゅ\!\!](https://ja.wikipedia.org/wiki/SHOW_BY_ROCK!!_ましゅまいれっしゅ!! "wikilink")（2020年）※Funta7名義、高梨康治と共同
+  - [カリギュラ](https://ja.wikipedia.org/wiki/カリギュラ "wikilink") (2018年) ※Funta7名義、[増子津可燦](https://ja.wikipedia.org/wiki/増子津可燦 "wikilink")、高梨康治、RegaSound、[岩田賢治](https://ja.wikipedia.org/wiki/岩田賢治 "wikilink")と共同
+  - [ゾンビランドサガ](https://ja.wikipedia.org/wiki/ゾンビランドサガ "wikilink")（2018年）※Funta7名義、高梨康治と共同
+
+### ゲーム
+
+  - [山海镜花](https://ja.wikipedia.org/wiki/山海镜花 "wikilink")（2020年）※Funta7名義、片山修二、[鈴木暁也](https://ja.wikipedia.org/wiki/鈴木暁也 "wikilink")、[Johannes Nilsson](https://ja.wikipedia.org/wiki/Johannes_Nilsson "wikilink")、高梨康治(音楽監修)と共同
 
 ## 提供
 
@@ -309,14 +283,14 @@
       - [モテ期のうた](https://ja.wikipedia.org/wiki/Snow_celebration/モテ期のうた "wikilink")（作曲・編曲）
       - [モテ期のうた〜season2〜](https://ja.wikipedia.org/wiki/告白_\(アイドリング!!!の曲\) "wikilink")（作曲・編曲）
       - [「職業:アイドル。」](https://ja.wikipedia.org/wiki/「職業:アイドル。」 "wikilink")（作曲・編曲 ただしFunta7名義）
-      - [ラブマジック♡フィーバー](https://ja.wikipedia.org/wiki/ラブマジックフィーバー "wikilink")（作曲・編曲 ただしFunta7名義）
+      - [ラブマジック♡フィーバー](https://ja.wikipedia.org/wiki/ラブマジック♡フィーバー "wikilink")（Funta7名義、作曲・編曲）
   - [五井道子](../Page/星野みちる.md "wikilink")
       - 棺のなかで眠りたい（作曲・編曲）
 
 ### ドラマCD
 
   - [ミカるんX](../Page/ミカるんX.md "wikilink")
-      - しあわせのスパイラル　(作曲・編曲 ただしFunta7名義)
+      - しあわせのスパイラル　(Funta7名義、作曲・編曲)
 
 ## 脚注
 
@@ -326,7 +300,7 @@
 
   - [オフィシャルサイト](http://funta.net/)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:日本の作詞家](https://ja.wikipedia.org/wiki/Category:日本の作詞家 "wikilink") [Category:日本の作曲家](https://ja.wikipedia.org/wiki/Category:日本の作曲家 "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:萌えソング歌手](https://ja.wikipedia.org/wiki/Category:萌えソング歌手 "wikilink") [Category:萌えソングの作曲家](https://ja.wikipedia.org/wiki/Category:萌えソングの作曲家 "wikilink") [Category:アニメ音楽の作詞家](https://ja.wikipedia.org/wiki/Category:アニメ音楽の作詞家 "wikilink") [Category:アニメ音楽の作曲家](https://ja.wikipedia.org/wiki/Category:アニメ音楽の作曲家 "wikilink") [Category:ゲーム音楽の作曲家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽の作曲家 "wikilink") [Category:アイドルマスターの音楽関係者](https://ja.wikipedia.org/wiki/Category:アイドルマスターの音楽関係者 "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:ランティスのアーティスト](https://ja.wikipedia.org/wiki/Category:ランティスのアーティスト "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:日本の作詞家](https://ja.wikipedia.org/wiki/Category:日本の作詞家 "wikilink") [Category:日本の作曲家](https://ja.wikipedia.org/wiki/Category:日本の作曲家 "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:萌えソング歌手](https://ja.wikipedia.org/wiki/Category:萌えソング歌手 "wikilink") [Category:萌えソングの作曲家](https://ja.wikipedia.org/wiki/Category:萌えソングの作曲家 "wikilink") [Category:アニメ音楽の作詞家](https://ja.wikipedia.org/wiki/Category:アニメ音楽の作詞家 "wikilink") [Category:アニメ音楽の作曲家](https://ja.wikipedia.org/wiki/Category:アニメ音楽の作曲家 "wikilink") [Category:ゲーム音楽の作曲家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽の作曲家 "wikilink") [Category:アイドルマスターの音楽関係者](https://ja.wikipedia.org/wiki/Category:アイドルマスターの音楽関係者 "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:ランティスのアーティスト](https://ja.wikipedia.org/wiki/Category:ランティスのアーティスト "wikilink")
 
 1.  リスアニ！ Vol.07
 2.  吉倉英雄編「ゲームばんざい 第25回目のゲスト Funta」『[Vジャンプ](https://ja.wikipedia.org/wiki/Vジャンプ "wikilink") 1998年3月号』[集英社](../Page/集英社.md "wikilink")、1998年3月1日、雑誌11323-3、210頁。この時、吉見は「その時あったのがウーロン茶だったら、ユニット名がウーロン茶に…」という返答に、UCOは「それはないって」と返していた。

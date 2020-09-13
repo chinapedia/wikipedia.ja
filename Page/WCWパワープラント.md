@@ -42,6 +42,6 @@
 
 ## 関連項目
 
-  - [WWEパフォーマンスセンター](https://ja.wikipedia.org/wiki/WWEパフォーマンスセンター "wikilink")
+  - [WWEパフォーマンスセンター](../Page/WWEパフォーマンスセンター.md "wikilink")
 
 [Category:プロレスラー養成所](https://ja.wikipedia.org/wiki/Category:プロレスラー養成所 "wikilink") [Category:WCW](https://ja.wikipedia.org/wiki/Category:WCW "wikilink")

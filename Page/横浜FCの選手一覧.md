@@ -126,6 +126,15 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><strong>41</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/深宮祐徳" title="wikilink">深宮祐徳</a></p></td>
+<td></td>
+<td><p>2020年7月 -</p></td>
+<td><p>横浜FCジュニアユース</p></td>
+<td><p><a href="../Page/2種登録選手.md" title="wikilink">2種登録選手</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><strong>44</strong></p></td>
 <td><p><a href="../Page/六反勇治.md" title="wikilink">六反勇治</a></p></td>
 <td></td>
@@ -136,7 +145,7 @@
 元<a href="../Page/サッカー日本代表.md" title="wikilink">日本代表</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>DF</p></td>
 <td><p><strong>3</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マグノ・ジョゼ・ダ・シルバ" title="wikilink">マギーニョ</a></p></td>
@@ -146,7 +155,7 @@
 <td><p>新加入<br />
 期限付き移籍</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>4</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小林友希" title="wikilink">小林友希</a></p></td>
 <td></td>
@@ -156,7 +165,7 @@
 期限付き移籍</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>5</strong></p></td>
 <td><p><a href="../Page/田代真一.md" title="wikilink">田代真一</a></p></td>
 <td></td>
@@ -165,7 +174,7 @@
 <td><p>2018年は期限付き移籍</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>14</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/志知孝明" title="wikilink">志知孝明</a></p></td>
 <td></td>
@@ -174,7 +183,7 @@
 <td><p>新加入</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>19</strong></p></td>
 <td><p><a href="../Page/伊野波雅彦.md" title="wikilink">伊野波雅彦</a></p></td>
 <td></td>
@@ -184,7 +193,7 @@
 元日本代表</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>20</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カルフィン・ヨン・ア・ピン" title="wikilink">カルフィン・ヨン・ア・ピン</a></p></td>
 <td></td>
@@ -193,7 +202,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>26</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/袴田裕太郎" title="wikilink">袴田裕太郎</a></p></td>
 <td></td>
@@ -202,22 +211,13 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>29</strong></p></td>
 <td><p><a href="../Page/星キョーワァン.md" title="wikilink">星キョーワァン</a></p></td>
 <td></td>
 <td><p>2020年 -</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/駒澤大学体育会サッカー部" title="wikilink">駒澤大学</a></p></td>
 <td><p>新加入</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>33</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川崎裕大" title="wikilink">川崎裕大</a></p></td>
-<td></td>
-<td><p>2017年8月 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サンフレッチェ広島F.C" title="wikilink">サンフレッチェ広島</a></p></td>
-<td><p>2017年は期限付き移籍</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -296,6 +296,16 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><strong>31</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/杉本竜士" title="wikilink">杉本竜士</a></p></td>
+<td></td>
+<td><p>2020年8月 -</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/横浜F・マリノス" title="wikilink">横浜F・マリノス</a></p></td>
+<td><p>新加入<br />
+期限付き移籍</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><strong>32</strong></p></td>
 <td><p><a href="../Page/古宿理久.md" title="wikilink">古宿理久</a></p></td>
 <td></td>
@@ -305,7 +315,7 @@
 ジュニアユース出身</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>34</strong></p></td>
 <td><p><a href="../Page/熊川翔.md" title="wikilink">熊川翔</a></p></td>
 <td></td>
@@ -314,7 +324,7 @@
 <td><p>新加入</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>37</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/松尾佑介" title="wikilink">松尾佑介</a></p></td>
 <td></td>
@@ -323,7 +333,7 @@
 <td><p>新加入</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>40</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/レアンドロ・ドミンゲス・バルボーザ" title="wikilink">レアンドロ・ドミンゲス</a></p></td>
 <td></td>
@@ -332,7 +342,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>46</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/中村俊輔" title="wikilink">中村俊輔</a></p></td>
 <td></td>
@@ -341,7 +351,7 @@
 <td><p>元日本代表</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>FW</p></td>
 <td><p><strong>9</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/一美和成" title="wikilink">一美和成</a></p></td>
@@ -350,15 +360,6 @@
 <td><p><a href="../Page/京都サンガF.C..md" title="wikilink">京都サンガF.C.</a></p></td>
 <td><p>新加入<br />
 期限付き移籍</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>10</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アブドゥラーヒム・ラーヤブ" title="wikilink">イバ</a></p></td>
-<td></td>
-<td><p>2016年3月 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/河北華夏幸福足球倶楽部" title="wikilink">河北華夏幸福</a></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><strong>11</strong></p></td>
@@ -472,14 +473,22 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/杉本竜士" title="wikilink">杉本竜士</a></p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/横浜F・マリノス" title="wikilink">横浜F・マリノス</a></p></td>
+<td><p>2020年8月10日 - 2021年1月31日</p></td>
+<td><p>横浜FMと対戦する公式戦出場不可</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>FW</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/一美和成" title="wikilink">一美和成</a></p></td>
 <td></td>
 <td><p><a href="../Page/ガンバ大阪.md" title="wikilink">ガンバ大阪</a></p></td>
+<td><p>2020年2月1日 - 2021年1月31日</p></td>
 <td><p>G大阪と対戦する公式戦出場不可</p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -515,16 +524,25 @@
 横浜FCと対戦する公式戦出場不可</p></td>
 </tr>
 <tr class="odd">
+<td><p>DF</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/川崎裕大" title="wikilink">川﨑裕大</a></p></td>
+<td></td>
+<td><p>2017年8月 - 2020年8月</p></td>
+<td><p><a href="../Page/カターレ富山.md" title="wikilink">カターレ富山</a></p></td>
+<td><p>2020年8月24日 - 2021年1月31日</p></td>
+<td><p>横浜FCと対戦する公式戦出場不可</p></td>
+</tr>
+<tr class="even">
 <td><p>MF</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/前嶋洋太" title="wikilink">前嶋洋太</a></p></td>
 <td></td>
 <td><p>2016年 - 2017年</p></td>
 <td><p><a href="../Page/水戸ホーリーホック.md" title="wikilink">水戸ホーリーホック</a></p></td>
+<td><p>2020年2月1日 - 2021年1月31日</p></td>
 <td><p>ユース出身<br />
 横浜FCと対戦する公式戦出場不可</p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>FW</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/戸島章" title="wikilink">戸島章</a></p></td>
 <td></td>
@@ -533,7 +551,7 @@
 <td><p>横浜FCと対戦する公式戦出場不可</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -939,11 +957,12 @@
 <tr class="odd">
 <td><p>2003</p></td>
 <td><p>水原大樹</p></td>
+<td><p>マシュー<br />
+モネール</p></td>
 <td><p>高木成太</p></td>
 <td><p>レーマン<br />
 大柴健二</p></td>
 <td><p>佐藤正美</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1538,7 +1557,7 @@
 |      |       |              |      |           |        |      |      |    |    |
 | ---- | ----- | ------------ | ---- | --------- | ------ | ---- | ---- | -- | -- |
 | |31  | 32    | 33           | 34   | 35        | 36     | 37   | 38   | 39 | 40 |
-| 2020 | \-    | 古宿理久         | 川崎裕大 | 熊川翔       | \-     | \-   | 松尾佑介 | \- | \- |
+| 2020 | 杉本竜士  | 古宿理久         | 川﨑裕大 | 熊川翔       | \-     | \-   | 松尾佑介 | \- | \- |
 | 2019 | 大内一生  | \-           | \-   | 辻周吾       | 伊野波雅彦  |      |      |    |    |
 | 2018 | \-    | 松井大輔         | \-   | 瀬沼優司      |        |      |      |    |    |
 | 2017 | 大内一生  | \-           | \-   | 大久保哲哉     |        |      |      |    |    |
@@ -1565,8 +1584,8 @@
 |      |      |      |      |      |    |
 | ---- | ---- | ---- | ---- | ---- | -- |
 | |41  | 42   | 43   | 44   | 45   | 46 |
-| 2020 | \-   | \-   | \-   | 六反勇治 | \- |
-| 2019 | \-   |      |      |      |    |
+| 2020 | 深宮祐徳 | \-   | \-   | 六反勇治 | \- |
+| 2019 | \-   | \-   |      |      |    |
 | 2018 | 大内一生 | 安永玲央 | 斉藤光毅 | \-   |    |
 | 2017 | \-   | \-   | \-   | 北野貴之 |    |
 | 2016 | \-   |      |      |      |    |
@@ -1593,7 +1612,9 @@
 
 ### GK
 
-''' 日本 '''
+  - 日本
+
+<!-- end list -->
 
   - [大石尚哉](../Page/大石尚哉.md "wikilink")
 
@@ -1637,7 +1658,9 @@
 
 ### DF
 
-**日本**
+  - 日本
+
+<!-- end list -->
 
   - [重田征紀](../Page/重田征紀.md "wikilink")：横浜FCアカデミーダイレクター
 
@@ -1743,17 +1766,29 @@
 
   - [藤井悠太](https://ja.wikipedia.org/wiki/藤井悠太 "wikilink")：[アビスパ福岡](../Page/アビスパ福岡.md "wikilink")
 
-**アルゼンチン**
+<!-- end list -->
+
+  - アルゼンチン
+
+<!-- end list -->
 
   - [モネール](../Page/フェルナンド・ダニエル・モネール.md "wikilink")
 
-**ブラジル**
+<!-- end list -->
+
+  - ブラジル
+
+<!-- end list -->
 
   - [アンデルソン](../Page/アンデルソン・サントス・シウバ.md "wikilink")
 
   - [ドウグラス](https://ja.wikipedia.org/wiki/ドウグラス・マルケス・ドス・サントス "wikilink")： [キンゼ・デ・ピラシカーバ](https://ja.wikipedia.org/wiki/ECキンゼ・デ・ノヴェンブロ_\(ピラシカーバ\) "wikilink")
 
-**韓国**
+<!-- end list -->
+
+  - 韓国
+
+<!-- end list -->
 
   - [呉範錫](../Page/呉範錫.md "wikilink")： [江原FC](https://ja.wikipedia.org/wiki/江原FC "wikilink")
 
@@ -1763,13 +1798,19 @@
 
   - [ペ・スンジン](../Page/裴乗振.md "wikilink")： 慶南FC
 
-**スロベニア**
+<!-- end list -->
+
+  - スロベニア
+
+<!-- end list -->
 
   - [デニス・ハリロヴィッチ](https://ja.wikipedia.org/wiki/デニス・ハリロヴィッチ "wikilink")
 
 ### MF
 
-**日本**
+  - 日本
+
+<!-- end list -->
 
   - [佐藤一樹](../Page/佐藤一樹.md "wikilink")：[京都サンガF.C.](../Page/京都サンガF.C..md "wikilink")ヘッドコーチ
 
@@ -1883,11 +1924,19 @@
 
   - [上田悠起](https://ja.wikipedia.org/wiki/上田悠起 "wikilink")：[高知ユナイテッドSC](https://ja.wikipedia.org/wiki/高知ユナイテッドSC "wikilink")
 
-**アルバニア**
+<!-- end list -->
+
+  - アルバニア
+
+<!-- end list -->
 
   - [ルディ](../Page/ルディ・バタ.md "wikilink")
 
-**ブラジル**
+<!-- end list -->
+
+  - ブラジル
+
+<!-- end list -->
 
   - [アウグスト](../Page/ルイス・アウグスト・オゾリオ・ハモン.md "wikilink")
 
@@ -1903,17 +1952,29 @@
 
   - [ホベルト](../Page/ホベルト・ジュリオ・デ・フィゲイレド.md "wikilink")
 
-**オランダ**
+<!-- end list -->
+
+  - オランダ
+
+<!-- end list -->
 
   - [ディルク・ファンデルフェン](https://ja.wikipedia.org/wiki/ディルク・ファンデルフェン "wikilink")
 
   - [マシュー・ブーツ](https://ja.wikipedia.org/wiki/マシュー・ブーツ "wikilink")
 
-**スコットランド**
+<!-- end list -->
+
+  - スコットランド
+
+<!-- end list -->
 
   - [トゥイード](../Page/スティーブン・トゥイード.md "wikilink")
 
-**韓国**
+<!-- end list -->
+
+  - 韓国
+
+<!-- end list -->
 
   - [崔成勇](../Page/崔成勇.md "wikilink")
 
@@ -1929,23 +1990,43 @@
 
   - [ジョン・チュングン](https://ja.wikipedia.org/wiki/鄭充根 "wikilink")：[FC町田ゼルビア](https://ja.wikipedia.org/wiki/FC町田ゼルビア "wikilink")
 
-**トリニダード・トバゴ**
+<!-- end list -->
+
+  - トリニダード・トバゴ
+
+<!-- end list -->
 
   - [シルビオ](../Page/シルビオ・レイナルド・スパン.md "wikilink")
 
-**ベトナム**
+<!-- end list -->
+
+  - ベトナム
+
+<!-- end list -->
 
   - [グエン・トゥアン・アイン](https://ja.wikipedia.org/wiki/グエン・トゥアン・アイン "wikilink")： [ホアンアイン・ザライFC](https://ja.wikipedia.org/wiki/ホアンアイン・ザライFC "wikilink")
 
-**スロベニア**
+<!-- end list -->
+
+  - スロベニア
+
+<!-- end list -->
 
   - [ロク・シュトラウス](https://ja.wikipedia.org/wiki/ロク・シュトラウス "wikilink")： [NKツェリェ](https://ja.wikipedia.org/wiki/NKツェリェ "wikilink")
 
-**朝鮮籍**
+<!-- end list -->
+
+  - 朝鮮籍
+
+<!-- end list -->
 
   - [安英学](../Page/安英学.md "wikilink")
 
-**フィリピン/日本二重国籍**
+<!-- end list -->
+
+  - フィリピン/日本二重国籍
+
+<!-- end list -->
 
   - [大友慧](../Page/大友慧.md "wikilink")
 
@@ -2083,6 +2164,16 @@
 
   - [朴成鎬](https://ja.wikipedia.org/wiki/朴成鎬 "wikilink")
 
+<!-- end list -->
+
+  - ノルウェー/モロッコ二重国籍
+
+<!-- end list -->
+
+  - [イバ](https://ja.wikipedia.org/wiki/アブドゥラーヒム・ラーヤブ "wikilink")：[大宮アルディージャ](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")
+
+|-
+
 ## アカデミー出身者
 
   - 1986年/1987年生
@@ -2103,7 +2194,7 @@
       - [黒木晃賢](https://ja.wikipedia.org/wiki/黒木晃賢 "wikilink") **横浜FCユース**→[SC相模原](../Page/SC相模原.md "wikilink")→[ムラドスト・ツァレフ・ドヴォル](https://ja.wikipedia.org/wiki/FKムラドスト・ツァレフ・ドヴォル "wikilink")→[沖縄SV](https://ja.wikipedia.org/wiki/沖縄SV "wikilink")→[ロコモティフ](https://ja.wikipedia.org/wiki/OFKロコモティフ・ゴルナ・オリャホヴィツァ "wikilink")
       - [松木駿之介](https://ja.wikipedia.org/wiki/松木駿之介 "wikilink") **横浜FCジュニアユース**→[青森山田中学](../Page/青森山田中学高等学校.md "wikilink")→[青森山田高校](../Page/青森山田中学高等学校.md "wikilink")→[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学体育会ソッカー部 "wikilink")→[ファジアーノ岡山](../Page/ファジアーノ岡山FC.md "wikilink")
       - [中山克広](https://ja.wikipedia.org/wiki/中山克広 "wikilink") **横浜FCジュニアユース**→[麻布大学附属高等学校](../Page/麻布大学附属高等学校.md "wikilink")→[専修大学](https://ja.wikipedia.org/wiki/専修大学体育会サッカー部 "wikilink")→[横浜FC](../Page/横浜FC.md "wikilink")
-      - [鈴木翔](https://ja.wikipedia.org/wiki/鈴木翔 "wikilink") **横浜FCジュニアユース**→**横浜FCユース**→[関東学院大学](../Page/関東学院大学.md "wikilink")→[東京武蔵野シティFC](https://ja.wikipedia.org/wiki/東京武蔵野シティFC "wikilink")
+      - [鈴木翔](../Page/鈴木翔.md "wikilink") **横浜FC鶴見ジュニアユース**→**横浜FCユース**→[関東学院大学](../Page/関東学院大学.md "wikilink")→[東京武蔵野シティFC](https://ja.wikipedia.org/wiki/東京武蔵野シティFC "wikilink")
   - 1997年/1998年生
       - [齋藤功佑](https://ja.wikipedia.org/wiki/齋藤功佑 "wikilink") **横浜FCジュニアユース**→**横浜FCユース**→横浜FC
       - [前嶋洋太](https://ja.wikipedia.org/wiki/前嶋洋太 "wikilink") **横浜FCジュニアユース**→**横浜FCユース**→横浜FC→[カターレ富山](../Page/カターレ富山.md "wikilink")→水戸ホーリーホック

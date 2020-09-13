@@ -333,7 +333,7 @@
 
   - [sonymusic](https://www.sonymusic.co.jp/artist/YellowCherry/) (2008年11月更新停止)
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:デフスターレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:デフスターレコーズのアーティスト "wikilink") [Category:青森県出身の人物](https://ja.wikipedia.org/wiki/Category:青森県出身の人物 "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
+[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:デフスターレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:デフスターレコーズのアーティスト "wikilink") [Category:青森県出身の人物](https://ja.wikipedia.org/wiki/Category:青森県出身の人物 "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
 
 1.  2006年6月号「日経エンタテインメント\!」インタビューより
 2.

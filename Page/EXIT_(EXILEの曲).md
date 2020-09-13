@@ -1,7 +1,7 @@
 > この記事は[EXIT \(EXILEの曲\)](https://ja.wikipedia.org/wiki/EXIT_\(EXILEの曲\))から翻訳されています。
 
 
-「**EXIT**」（イグジット）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の18枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
+「**EXIT**」（イグジット）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の楽曲。2005年8月24日に[rhythm zoneから](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")18枚目の[シングル](../Page/シングル.md "wikilink")として発売。
 
 ## 概要
 
@@ -26,17 +26,19 @@ EXILE第二章以降に発売されたベストアルバム『[EXILE CATCHY BEST
         作詞：ATSUSHI / 作曲・編曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
     <!-- end list -->
       - ニベアボディ「薬用ホワイトニングストレッチアップ」「タイムディフェンスボディミルク」CMソング
-3.  EXIT (Instrumental)
-4.  DIAMOND (Instrumental)
-5.  **EXIT (TV drama ver.)** \[3:21\]
+3.  EXIT（Instrumental）
+4.  DIAMOND（Instrumental）
+5.  **EXIT**（TV drama ver.）\[3:21\]
       -
-        作詞：秋元康 / 作曲：原一博 / 編曲：h-wonder
+        編曲：h-wonder
     <!-- end list -->
       - 表題曲のテレビドラマバージョン
 
 ### DVD
 
-1.  EXIT (Video Clip)
+※CD+DVDのみ
+
+1.  **EXIT**（Video Clip）
 
 ## 脚注
 

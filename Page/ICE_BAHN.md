@@ -135,7 +135,7 @@
   - 028(Ojiba) **「System feat. 玉露(ICE BAHN)」** (「Time is Fire」収録)
   - LIFE EARTH **「どしゃぶりマイク feat. KEN THE 390, CHANNEL, FORK, 鎮座DOPENESS」** (「PAINT THE TOWN」収録)
   - [CHANNEL](../Page/CHANNEL.md "wikilink") **「スメルライカ HIIP HOP feat. FORK(ICE BAHN)」** (「1gの幸せ」収録)
-  - [MCU](https://ja.wikipedia.org/wiki/MCU "wikilink") **「FREE 3 MC'S 1 feat. CHANNEL, FORK」** (「SHU･HA･RI ～STILL LOVE～」収録)
+  - [MCU](../Page/MCU_\(ラッパー\).md "wikilink") **「FREE 3 MC'S 1 feat. CHANNEL, FORK」** (「SHU･HA･RI ～STILL LOVE～」収録)
 
 ### その他
 
@@ -155,7 +155,7 @@
 ## 外部リンク
 
   - [公式サイト](http://www.icebahn.com/)
-  - [ICE BAHN official blog](http://icebahn.exblog.jp/)
+  - [ICE BAHN official blog](https://icebahn.exblog.jp/)
   - [MySpace](http://www.myspace.com/icebahn/)
 
 [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:2001年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に結成した音楽グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink")

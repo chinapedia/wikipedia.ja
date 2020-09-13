@@ -11,6 +11,9 @@
 
 ### 国内タイトル
 
+  - **オランダ全国選手権（[エールディヴィジ](../Page/エールディヴィジ.md "wikilink")の前身）:3回**
+      -
+        1916, 1952, 1955
   - **[KNVBカップ](../Page/KNVBカップ.md "wikilink"):2回**
       -
         1943-44, 1962-63
@@ -24,95 +27,88 @@
 
 ## 過去の成績
 
-[220px](https://ja.wikipedia.org/wiki/ファイル:Willem_II_stadion.jpg "wikilink")
+[Willem_II_stadion.jpg](https://ja.wikipedia.org/wiki/File:Willem_II_stadion.jpg "fig:Willem_II_stadion.jpg")
 
 | シーズン    | ディビジョン                                            | [KNVBカップ](../Page/KNVBカップ.md "wikilink") |
 | ------- | ------------------------------------------------- | ---------------------------------------- |
-| リーグ     | 順位                                                | 試                                        |
-| 1956-57 | [エールディヴィジ](../Page/エールディヴィジ.md "wikilink")        | '''17位                                   |
-| 1957-58 | [エールステ・ディヴィジ](../Page/エールステ・ディヴィジ.md "wikilink")A | '''1位                                    |
-| 1958-59 | エールディヴィジ                                          | '''16位                                   |
-| 1959-60 | エールディヴィジ                                          | '''8位                                    |
-| 1960-61 | エールディヴィジ                                          | '''10位                                   |
-| 1961-62 | エールディヴィジ                                          | '''8位                                    |
-| 1962-63 | エールディヴィジ                                          | '''15位                                   |
-| 1963-64 | エールステ・ディヴィジ                                       | '''10位                                   |
-| 1964-65 | エールステ・ディヴィジ                                       | '''1位                                    |
-| 1965-66 | エールディヴィジ                                          | '''10位                                   |
-| 1966-67 | エールディヴィジ                                          | '''18位                                   |
-| 1967-68 | エールステ・ディヴィジ                                       | '''4位                                    |
-| 1968-69 | エールステ・ディヴィジ                                       | '''14位                                   |
-| 1969-70 | エールステ・ディヴィジ                                       | '''6位                                    |
-| 1970-71 | エールステ・ディヴィジ                                       | '''14位                                   |
-| 1971-72 | エールステ・ディヴィジ                                       | '''15位                                   |
-| 1972-73 | エールステ・ディヴィジ                                       | '''14位                                   |
-| 1973-74 | エールステ・ディヴィジ                                       | '''18位                                   |
-| 1974-75 | エールステ・ディヴィジ                                       | '''14位                                   |
-| 1975-76 | エールステ・ディヴィジ                                       | '''9位                                    |
-| 1976-77 | エールステ・ディヴィジ                                       | '''11位                                   |
-| 1977-78 | エールステ・ディヴィジ                                       | '''7位                                    |
-| 1978-79 | エールステ・ディヴィジ                                       | '''3位                                    |
-| 1979-80 | エールディヴィジ                                          | '''8位                                    |
-| 1980-81 | エールディヴィジ                                          | '''10位                                   |
-| 1981-82 | エールディヴィジ                                          | '''14位                                   |
-| 1982-83 | エールディヴィジ                                          | '''14位                                   |
-| 1983-84 | エールディヴィジ                                          | '''17位                                   |
-| 1984-85 | エールステ・ディヴィジ                                       | '''8位                                    |
-| 1985-86 | エールステ・ディヴィジ                                       | '''5位                                    |
-| 1986-87 | エールステ・ディヴィジ                                       | '''2位                                    |
-| 1987-88 | エールディヴィジ                                          | '''4位                                    |
-| 1988-89 | エールディヴィジ                                          | '''15位                                   |
-| 1989-90 | エールディヴィジ                                          | '''13位                                   |
-| 1990-91 | エールディヴィジ                                          | '''11位                                   |
-| 1991-92 | エールディヴィジ                                          | '''12位                                   |
-| 1992-93 | エールディヴィジ                                          | '''10位                                   |
-| 1993-94 | エールディヴィジ                                          | '''8位                                    |
-| 1994-95 | エールディヴィジ                                          | '''7位                                    |
-| 1995-96 | エールディヴィジ                                          | '''12位                                   |
-| 1996-97 | エールディヴィジ                                          | '''15位                                   |
-| 1997-98 | エールディヴィジ                                          | '''5位                                    |
-| 1998-99 | エールディヴィジ                                          | '''2位                                    |
-| 1999-00 | エールディヴィジ                                          | '''9位                                    |
-| 2000-01 | エールディヴィジ                                          | '''8位                                    |
-| 2001-02 | エールディヴィジ                                          | '''11位                                   |
-| 2002-03 | エールディヴィジ                                          | '''11位                                   |
-| 2003-04 | エールディヴィジ                                          | '''7位                                    |
-| 2004-05 | エールディヴィジ                                          | '''10位                                   |
-| 2005-06 | エールディヴィジ                                          | '''17位                                   |
-| 2006-07 | エールディヴィジ                                          | '''15位                                   |
-| 2007-08 | エールディヴィジ                                          | '''15位                                   |
-| 2008-09 | エールディヴィジ                                          | '''12位                                   |
-| 2009-10 | エールディヴィジ                                          | '''17位                                   |
-| 2010-11 | エールディヴィジ                                          | '''18位                                   |
-| 2011-12 | エールステ・ディヴィジ                                       | '''5位                                    |
-| 2012-13 | エールディヴィジ                                          | '''18位                                   |
-| 2013-14 | エールステ・ディヴィジ                                       | '''1位                                    |
-| 2014-15 | エールディヴィジ                                          | '''9位                                    |
-| 2015-16 | エールディヴィジ                                          | '''16位                                   |
-| 2016-17 | エールディヴィジ                                          | '''13位                                   |
-| 2017-18 | エールディヴィジ                                          | '''13位                                   |
-| 2018-19 | エールディヴィジ                                          | '''10位                                   |
-| 2019-20 | エールディヴィジ                                          | '''位                                     |
+| リーグ     | 試                                                 | 勝                                        |
+| 1956-57 | [エールディヴィジ](../Page/エールディヴィジ.md "wikilink")        | 34                                       |
+| 1957-58 | [エールステ・ディヴィジ](../Page/エールステ・ディヴィジ.md "wikilink")A | 30                                       |
+| 1958-59 | エールディヴィジ                                          | 34                                       |
+| 1959-60 | エールディヴィジ                                          | 34                                       |
+| 1960-61 | エールディヴィジ                                          | 34                                       |
+| 1961-62 | エールディヴィジ                                          | 34                                       |
+| 1962-63 | エールディヴィジ                                          | 30                                       |
+| 1963-64 | エールステ・ディヴィジ                                       | 30                                       |
+| 1964-65 | エールステ・ディヴィジ                                       | 30                                       |
+| 1965-66 | エールディヴィジ                                          | 30                                       |
+| 1966-67 | エールディヴィジ                                          | 34                                       |
+| 1967-68 | エールステ・ディヴィジ                                       | 36                                       |
+| 1968-69 | エールステ・ディヴィジ                                       | 34                                       |
+| 1969-70 | エールステ・ディヴィジ                                       | 34                                       |
+| 1970-71 | エールステ・ディヴィジ                                       | 30                                       |
+| 1971-72 | エールステ・ディヴィジ                                       | 40                                       |
+| 1972-73 | エールステ・ディヴィジ                                       | 38                                       |
+| 1973-74 | エールステ・ディヴィジ                                       | 38                                       |
+| 1974-75 | エールステ・ディヴィジ                                       | 36                                       |
+| 1975-76 | エールステ・ディヴィジ                                       | 36                                       |
+| 1976-77 | エールステ・ディヴィジ                                       | 36                                       |
+| 1977-78 | エールステ・ディヴィジ                                       | 36                                       |
+| 1978-79 | エールステ・ディヴィジ                                       | 36                                       |
+| 1979-80 | エールディヴィジ                                          | 34                                       |
+| 1980-81 | エールディヴィジ                                          | 34                                       |
+| 1981-82 | エールディヴィジ                                          | 34                                       |
+| 1982-83 | エールディヴィジ                                          | 34                                       |
+| 1983-84 | エールディヴィジ                                          | 34                                       |
+| 1984-85 | エールステ・ディヴィジ                                       | 34                                       |
+| 1985-86 | エールステ・ディヴィジ                                       | 36                                       |
+| 1986-87 | エールステ・ディヴィジ                                       | 36                                       |
+| 1987-88 | エールディヴィジ                                          | 34                                       |
+| 1988-89 | エールディヴィジ                                          | 34                                       |
+| 1989-90 | エールディヴィジ                                          | 34                                       |
+| 1990-91 | エールディヴィジ                                          | 34                                       |
+| 1991-92 | エールディヴィジ                                          | 34                                       |
+| 1992-93 | エールディヴィジ                                          | 34                                       |
+| 1993-94 | エールディヴィジ                                          | 34                                       |
+| 1994-95 | エールディヴィジ                                          | 34                                       |
+| 1995-96 | エールディヴィジ                                          | 34                                       |
+| 1996-97 | エールディヴィジ                                          | 34                                       |
+| 1997-98 | エールディヴィジ                                          | 34                                       |
+| 1998-99 | エールディヴィジ                                          | 34                                       |
+| 1999-00 | エールディヴィジ                                          | 34                                       |
+| 2000-01 | エールディヴィジ                                          | 34                                       |
+| 2001-02 | エールディヴィジ                                          | 34                                       |
+| 2002-03 | エールディヴィジ                                          | 34                                       |
+| 2003-04 | エールディヴィジ                                          | 34                                       |
+| 2004-05 | エールディヴィジ                                          | 34                                       |
+| 2005-06 | エールディヴィジ                                          | 34                                       |
+| 2006-07 | エールディヴィジ                                          | 34                                       |
+| 2007-08 | エールディヴィジ                                          | 34                                       |
+| 2008-09 | エールディヴィジ                                          | 34                                       |
+| 2009-10 | エールディヴィジ                                          | 34                                       |
+| 2010-11 | エールディヴィジ                                          | 34                                       |
+| 2011-12 | エールステ・ディヴィジ                                       | 34                                       |
+| 2012-13 | エールディヴィジ                                          | 34                                       |
+| 2013-14 | エールステ・ディヴィジ                                       | 38                                       |
+| 2014-15 | エールディヴィジ                                          | 34                                       |
+| 2015-16 | エールディヴィジ                                          | 34                                       |
+| 2016-17 | エールディヴィジ                                          | 34                                       |
+| 2017-18 | エールディヴィジ                                          | 34                                       |
+| 2018-19 | エールディヴィジ                                          | 34                                       |
+| 2019-20 | エールディヴィジ                                          | 26                                       |
+| 2020-21 | エールディヴィジ                                          | 34                                       |
 
 ## 現所属メンバー
 
-  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Albania.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Morocco.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Burundi.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ireland.svg "wikilink"))
+  - 2020年7月10日現在\[1\]
 
-※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
+  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Morocco.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Burundi.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ireland.svg "wikilink"))       ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink"))  ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 
   - [監督](../Page/監督.md "wikilink")
 
 <!-- end list -->
 
   - [アドリー・コスター](../Page/アドリー・コスター.md "wikilink") (2018 - )
-
-<!-- end list -->
-
-  - [助監督](../Page/監督.md "wikilink")
-
-<!-- end list -->
-
-  - [ヘリー・フィンク](https://ja.wikipedia.org/wiki/ヘリー・フィンク "wikilink") (2018 - -)
 
 ### ローン移籍選手
 
@@ -121,6 +117,49 @@
 <!-- end list -->
 
   - out
+
+### チームスタッフ
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>役職</p></td>
+<td><p>名前</p></td>
+<td><p>在籍年</p></td>
+<td><p>契約年</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>監督</strong></p></td>
+<td><p><a href="../Page/アドリー・コスター.md" title="wikilink">アドリー・コスター</a></p></td>
+<td><p>2018年-</p></td>
+<td><p>2021</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>助監督</strong></p></td>
+<td><p>ヘリー・フィンク</p></td>
+<td><p>2018年-</p></td>
+<td><p>2021</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>フィジカルトレーナー</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:nl:Chima_Onyeike" title="wikilink">チマ・オニェイケ</a></p></td>
+<td><p>2018年-</p></td>
+<td><p>2021</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>スカウト責任者</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:nl:Gerard_Wielaert" title="wikilink">ヘラルト・ヴィーレルト</a></p></td>
+<td><p>2016年-</p></td>
+<td><p>2021</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>GKコーチ</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:nl:Harald_Wapenaar" title="wikilink">ハラルト・ワペナール</a></p></td>
+<td><p>2016年-</p></td>
+<td><p>2020</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 歴代監督
 
@@ -170,6 +209,8 @@
 
   - [ケウ・ヤリエンス](../Page/ケウ・ヤリエンス.md "wikilink") 1999-2004
 
+  - [アルヤン・スヴィンケルス](../Page/アルヤン・スヴィンケルス.md "wikilink") 2003-2012
+
   - [ミケル・クリーク](https://ja.wikipedia.org/wiki/ミケル・クリーク "wikilink") 2004–2006
 
 ### MF
@@ -179,6 +220,8 @@
   - [トマーシュ・ガラーセク](../Page/トマーシュ・ガラーセク.md "wikilink") 1996-2000
 
   - [デニー・ランツァート](../Page/デニー・ランツァート.md "wikilink") 1999-2003
+
+  - [トム・カルウェー](../Page/トム・カルウェー.md "wikilink") 2000-2006
 
 ### FW
 
@@ -190,8 +233,24 @@
 
   - [ムニル・エル・ハムダウィ](https://ja.wikipedia.org/wiki/ムニル・エル・ハムダウィ "wikilink") 2006-2007
 
+  - [ヴァンゲリス・パヴリディス](../Page/ヴァンゲリス・パヴリディス.md "wikilink") 2018-
+
+## クラブ記録
+
+  - 公式戦最多出場 **483試合**  [ヨン・フェスケンス](https://ja.wikipedia.org/wiki/:nl:John_Feskens "wikilink")
+  - 公式戦最多得点 **216得点**  [ピート・デ・ヨング](https://ja.wikipedia.org/wiki/:nl:Piet_de_Jong_\(voetballer\) "wikilink")
+  - エールディヴィジ通算最多得点 **94得点**  [コイ・コーパル](https://ja.wikipedia.org/wiki/:nl:Coy_Koopal "wikilink")
+  - 最年少出場 **16歳234日**  [イェルーン・ルム](https://ja.wikipedia.org/wiki/:nl:Jeroen_Lumu "wikilink")
+  - 最年少得点 **16歳238日**  [イェルーン・ルム](https://ja.wikipedia.org/wiki/:nl:Jeroen_Lumu "wikilink")
+  - 最初のフル代表招集選手  [ティナス・ファン・ブールデン](https://ja.wikipedia.org/wiki/:nl:Tinus_van_Beurden "wikilink")
+  - 最初の外国人選手  [カールト・ザロ](https://ja.wikipedia.org/wiki/:nl:Kurt_Zaro "wikilink")（1956年）
+
+## 脚注
+
 ## 外部リンク
 
   - [公式サイト](http://www.willem-ii.nl/)
 
 [Category:ヴィレムII](https://ja.wikipedia.org/wiki/Category:ヴィレムII "wikilink") [Category:オランダのサッカークラブ](https://ja.wikipedia.org/wiki/Category:オランダのサッカークラブ "wikilink") [Category:北ブラバント州のスポーツ](https://ja.wikipedia.org/wiki/Category:北ブラバント州のスポーツ "wikilink") [Category:ティルブルフ](https://ja.wikipedia.org/wiki/Category:ティルブルフ "wikilink")
+
+1.  [Eerste Elftal](https://www.willem-ii.nl/wii/team/selectie)

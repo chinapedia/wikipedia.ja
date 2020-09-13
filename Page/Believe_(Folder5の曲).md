@@ -15,7 +15,7 @@
 
   - [我那覇響](https://ja.wikipedia.org/wiki/我那覇響 "wikilink")（[沼倉愛美](https://ja.wikipedia.org/wiki/沼倉愛美 "wikilink")）（2012年、アルバム「[THE IDOLM@STER ANIM@TION MASTER 生っすかSPECIAL 01](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION_MASTER_生っすかSPECIAL "wikilink")」収録）
   - [Dream5](https://ja.wikipedia.org/wiki/Dream5 "wikilink")（2013年、シングル「[COME ON\!/ドレミファソライロ](https://ja.wikipedia.org/wiki/COME_ON!/ドレミファソライロ "wikilink")」収録）
-  - [ラトゥラトゥ](https://ja.wikipedia.org/wiki/ラトゥラトゥ "wikilink")（2020年、アルバム「ONE PIECE MUUUSIC COVER ALBUM」収録）
+  - [ラトゥラトゥ](../Page/ラトゥラトゥ.md "wikilink")（2020年、アルバム「ONE PIECE MUUUSIC COVER ALBUM」収録）
 
 ## 収録曲
 

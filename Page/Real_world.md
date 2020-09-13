@@ -23,11 +23,13 @@
 2.  **ありがとう** - [清木場俊介](../Page/清木場俊介.md "wikilink")
       -
         作詞・作曲：清木場俊介 / 編曲：岩戸崇
-3.  **real world 〜REPRESENT JAPAN DUB〜** \[5:13\]
+3.  **real world** 〜REPRESENT JAPAN DUB〜 \[5:13\]
       -
         編曲：YUKIYOSHI
-4.  real world (Instrumental)
-5.  ありがとう (Instrumental)
+    <!-- end list -->
+      - 表題曲のアレンジバージョン
+4.  real world（Instrumental）
+5.  ありがとう（Instrumental）
 
 ## 収録アルバム
 

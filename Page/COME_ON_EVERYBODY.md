@@ -9,6 +9,8 @@
 
 [1988年](../Page/1988年.md "wikilink")に『[紅白歌合戦](../Page/第39回NHK紅白歌合戦.md "wikilink")』に初出場した際には「'88 FINAL MEGA MIX」というサブタイトルを冠して、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")の[サンプリング](../Page/サンプリング.md "wikilink")プレイを最大限に[フィーチャー](https://ja.wikipedia.org/wiki/フィーチャー "wikilink")したバージョンで演奏。演奏時間は6分弱で、紅白としては演奏時間がかなり長く取られている。また、演奏中、[宇都宮隆](https://ja.wikipedia.org/wiki/宇都宮隆 "wikilink")が歌詞を間違えている。そして、[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")もコーラスを間違えている。ギターは当時ツアーのサポートメンバーであった[B'z](../Page/B'z.md "wikilink")の[松本孝弘](../Page/松本孝弘.md "wikilink")が演奏し\[2\]、ドラムは阿部薫が演奏している。
 
+また、[1989年](../Page/1989年.md "wikilink")12月発売の[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用ソフト『[TM NETWORK LIVE IN POWER BOWL](https://ja.wikipedia.org/wiki/TM_NETWORK_LIVE_IN_POWER_BOWL "wikilink")』のデモ画面でイントロ部分が8bit調にアレンジされて使用されている。
+
 ## 収録曲
 
 1.  **COME ON EVERYBODY**

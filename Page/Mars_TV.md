@@ -18,7 +18,7 @@
   - [Laおかき](../Page/飯尾和樹.md "wikilink")
   - [ヘーシンク](../Page/やす.md "wikilink")
   - [底ぬけAIR-LINE](../Page/底ぬけAIR-LINE.md "wikilink")
-  - [吉村くん](https://ja.wikipedia.org/wiki/吉村くん "wikilink")
+  - [吉村くん](../Page/吉村くん.md "wikilink")
   - [アンラッキー後藤](../Page/アンラッキー後藤.md "wikilink")
   - [TKO](../Page/TKO_\(お笑いコンビ\).md "wikilink")
   - 与世田清家

@@ -7,15 +7,15 @@
 
 外装はエッチング加工を施し、布のような（ファブリック調）手触りを実現した。
 
-ディスプレイは、メイン・サブ共に[AQUOS](https://ja.wikipedia.org/wiki/AQUOS "wikilink")の技術を応用したモバイルASV液晶を採用している。また、メインディスプレイには、周りからの覗き込みを防止できるベールビュー液晶を採用している。
+ディスプレイは、メイン・サブ共に[AQUOSの技術を応用したモバイルASV液晶を採用している](../Page/アクオス.md "wikilink")。また、メインディスプレイには、周りからの覗き込みを防止できるベールビュー液晶を採用している。
 
 「Task」キーにより、メールを作成中にスケジュールを表示するなど、擬似的なマルチタスク「Task bar機能」がある（「Task」キーにより呼び出した機能を使用中に、さらに別のタスクを呼び出すことは出来ない。）。
 
 「EZ[着うたフル](../Page/着うたフル.md "wikilink")」や「[au LISTEN MOBILE SERVICE](../Page/LISMO.md "wikilink")」に対応し、[EZ FeliCaや](../Page/EZ_FeliCa.md "wikilink")[SD-Audio](../Page/SD-Audio.md "wikilink")などには対応しない、ミドルエンドクラスのモデルである。
 
-日本語入力システムは[ケータイShoin4を搭載している](https://ja.wikipedia.org/wiki/FSKAREN "wikilink")。[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")および[旧ボーダフォン（現：ソフトバンクモバイル）のシャープ製端末で問題となった](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")、文字入力で「みられまくっちゃ」・「かぜがなおりかけた」と入力するとフリーズ・再起動する不具合\[1\]\[2\]は、発覚当時はまだ開発途上にあったため事前に修正され発生していない\[3\]。
+日本語入力システムは[ケータイShoin4を搭載している](https://ja.wikipedia.org/wiki/FSKAREN "wikilink")。[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")および[旧ボーダフォン（現：ソフトバンクモバイル）のシャープ製端末で問題となった](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")、文字入力で「みられまくっちゃ」・「かぜがなおりかけた」と入力するとフリーズ・再起動する不具合\[1\]\[2\] は、発覚当時はまだ開発途上にあったため事前に修正され発生していない\[3\]。
 
-W43Sを除く2006年秋冬モデルのWIN対応端末の多くがmicroSDカードを採用しているが、[トヨタ専売のWIN端末](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")[TiMO W44T II](../Page/W44T.md "wikilink")\[4\]とこの端末はminiSDカードを採用している。
+W43Sを除く2006年秋冬モデルのWIN対応端末の多くがmicroSDカードを採用しているが、[トヨタ専売のWIN端末](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")[TiMO W44T II](../Page/W44T.md "wikilink")\[4\] とこの端末はminiSDカードを採用している。
 
 ## 沿革
 

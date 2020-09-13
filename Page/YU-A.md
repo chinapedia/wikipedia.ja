@@ -1,13 +1,13 @@
 > この記事は[YU-A](https://ja.wikipedia.org/wiki/YU-A)から翻訳されています。
 
 
-**YU-A**（ユア 、[1986年](../Page/1986年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink") - ）は日本の[女性](../Page/女性.md "wikilink")[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。
+**YU-A**（ユア 、[1986年](../Page/1986年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink") - ）は、日本の女性[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。
 
 [2005年](../Page/2005年.md "wikilink")、オーディション番組『[歌スタ\!\!](../Page/歌スタ!!.md "wikilink")』に出演し、合格。先に合格していたCHiE、DEMとともに[ガール・グループ](https://ja.wikipedia.org/wiki/ガール・グループ "wikilink")[Foxxi misQを結成し](https://ja.wikipedia.org/wiki/Foxxi_misQ "wikilink")、[2006年](../Page/2006年.md "wikilink")にシングル「[Tha F.Q's Style](../Page/Tha_F.Q's_Style.md "wikilink")」でメジャー・デビュー。グループは、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に活動を休止した。ソロ歌手としては、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[童子-T](../Page/童子-T.md "wikilink")の楽曲「[願い](https://ja.wikipedia.org/wiki/願い_feat._YU-A "wikilink")」に客演で迎えられる。[2009年](../Page/2009年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")に[シングル](../Page/シングル.md "wikilink")「[逢いたい…](https://ja.wikipedia.org/wiki/逢いたい… "wikilink")」で、ソロデビューを果たした。
 
 ## 略歴
 
-音楽との出会いは幼少の頃。母の影響で[マイケル・ジャクソン](https://ja.wikipedia.org/wiki/マイケル・ジャクソン "wikilink")や、プリンスを見て、音楽、ダンスに興味を持つようになる。2002年、16歳の時に地元札幌にてダンスを本格的に習い始める。同年、コンサドーレ札幌チアガール[コンサドールズ](../Page/コンサドールズ.md "wikilink")に、当時最年少の16歳で選ばれた。[札幌第一高等学校](../Page/札幌第一高等学校.md "wikilink")では[右代啓祐](https://ja.wikipedia.org/wiki/右代啓祐 "wikilink")と同級生であった。
+音楽との出会いは幼少の頃。母の影響で[マイケル・ジャクソン](https://ja.wikipedia.org/wiki/マイケル・ジャクソン "wikilink")や[プリンスを見て](https://ja.wikipedia.org/wiki/プリンス_\(ミュージシャン\) "wikilink")、音楽、ダンスに興味を持つようになる。2002年、16歳の時に地元札幌にてダンスを本格的に習い始める。同年、コンサドーレ札幌チアガール、[コンサドールズ](../Page/コンサドールズ.md "wikilink")に、当時最年少の16歳で選ばれた。[札幌第一高等学校](../Page/札幌第一高等学校.md "wikilink")では[右代啓祐](https://ja.wikipedia.org/wiki/右代啓祐 "wikilink")と同級生であった。
 
 ### 2005年 - 2010年：Foxxi misQでの活動
 
@@ -23,7 +23,7 @@
 
 2009年4月22日、シングル「[逢いたい…](https://ja.wikipedia.org/wiki/逢いたい… "wikilink")」でソロデビューを果たす。自ら作詞したストレートな歌詞が10代、20代の女性に圧倒的な支持を得て、4月8日から先行配信が開始された着うたフルで4日連続2位を獲得。また、携帯電話向け歌詞表示サイト「[デジ歌詞JOYSOUND](https://ja.wikipedia.org/wiki/デジ歌詞JOYSOUND "wikilink")」では4月6日の初掲載から7日間連続で閲覧数1位を獲得の他、4月度月間ランキング1位になった。オリコンチャートでは初登場22位。同年7月、2枚目のシングル「[夕日](https://ja.wikipedia.org/wiki/夕日_\(YU-Aの曲\) "wikilink")」を発表。本人曰く、自身は“雨女”で「夕日」のPVで使用されている夕日は実は合成で、実際の天候は豪雨であったとラジオ番組などで述懐している。
 
-1枚目のスタジオ・アルバム発売に先駆けて配信限定シングルを8月、9月、10月の3ヶ月連続で発売する。その第1弾となった「[大好きだから](https://ja.wikipedia.org/wiki/大好きだから "wikilink")」は[THE STYLISTICSの楽曲](../Page/スタイリスティックス.md "wikilink")「[You Are Everything](https://ja.wikipedia.org/wiki/You_Are_Everything "wikilink")」をサンプリングしたもので、7月28日に[レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")にて先行配信が開始された。レコチョクで7月29日から7日連続で着うたデイリーランキングトップ10入り、着うたフルでもデイリー最高3位（8月19日付け）を記録。第2弾は[Every Little Thingの](../Page/Every_Little_Thing.md "wikilink")1998年の楽曲「[Time goes by](../Page/Time_goes_by.md "wikilink")」のカバーで8月26日に配信が開始された。第3弾の「[嫌いになれたら](https://ja.wikipedia.org/wiki/嫌いになれたら "wikilink")」は9月16日に配信が開始された。
+1枚目のスタジオ・アルバム発売に先駆けて配信限定シングルを8月、9月、10月の3か月連続で発売する。その第1弾となった「[大好きだから](https://ja.wikipedia.org/wiki/大好きだから "wikilink")」は[THE STYLISTICSの楽曲](../Page/スタイリスティックス.md "wikilink")「[You Are Everything](https://ja.wikipedia.org/wiki/You_Are_Everything "wikilink")」をサンプリングしたもので、7月28日に[レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")にて先行配信が開始された。レコチョクで7月29日から7日連続で着うたデイリーランキングトップ10入り、着うたフルでもデイリー最高3位（8月19日付け）を記録。第2弾は[Every Little Thingの](../Page/Every_Little_Thing.md "wikilink")1998年の楽曲「[Time goes by](../Page/Time_goes_by.md "wikilink")」のカバーで8月26日に配信が開始された。第3弾の「[嫌いになれたら](https://ja.wikipedia.org/wiki/嫌いになれたら "wikilink")」は9月16日に配信が開始された。
 
 同年、2009年10月に1枚目のソロアルバム『[You Are My Love](https://ja.wikipedia.org/wiki/You_Are_My_Love "wikilink")』を発表、オリコンチャートで週間初登場8位を記録（翌週10位）。累計売上も10万枚を越え、スマッシュヒットとなった。同年12月16日発売の童子-Tのアルバム『[4 ever](https://ja.wikipedia.org/wiki/4_ever "wikilink")』のリードトラックで、「願い」の第2章と称される「[想い](https://ja.wikipedia.org/wiki/想い_feat.YU-A "wikilink")」に参加。
 
@@ -35,11 +35,11 @@
 
 同年12月1日に、フィーチャリングに[MUNEHIRO](https://ja.wikipedia.org/wiki/MUNEHIRO "wikilink")を迎えた5枚目のシングルで「[CHANGE](https://ja.wikipedia.org/wiki/CHANGE "wikilink")」を発表。MUNEHIROには制作締め切りの1週間前にオファーした。もともと同じバイブスを持ったアーティストだとYU-A自身感じていた様で、制作についてもそれぞれが持ち寄った歌詞がピッタリはまったと語っている。日本テレビ系、MIDNITEテレビシリーズ『[プリズンブレイク](https://ja.wikipedia.org/wiki/プリズンブレイク "wikilink")ファイナルシーズン』エンディングテーマに起用された。
 
-翌年、2011年2月には、セカンドアルバム『[2 Girls](https://ja.wikipedia.org/wiki/2_Girls "wikilink")』をリリースし、オリコン初登場5位を獲得（自身最高位）。『そばにいて、すぐ消えて。』からテーマとした二面性が各所に表現され、[Baby Girlサイドとされる前半はバラード](https://ja.wikipedia.org/wiki/Baby_Girl "wikilink")、[Bad Girlサイドとされる後半ダンスチューンと明確に分かれていることや](https://ja.wikipedia.org/wiki/Bad_Girl "wikilink")、前半は日本語タイトルが並び、後半は英語が並ぶなどにも感じられる。また、収録時間も74分を越え、制作の最終段階まで収録出来るか不安だったと語る意欲作になっている。内、「[見守っていたい](https://ja.wikipedia.org/wiki/見守っていたい "wikilink")」はTBS系バラエティ番組『[イチハチ](https://ja.wikipedia.org/wiki/イチハチ "wikilink")』エンディングテーマに起用された。ミュージックビデオには、[ライセンス](../Page/ライセンス.md "wikilink")・[中村アン](https://ja.wikipedia.org/wiki/中村アン "wikilink")が出演し話題になる。
+翌2011年2月に、2枚目のアルバム『[2 Girls](https://ja.wikipedia.org/wiki/2_Girls "wikilink")』をリリースし、オリコン初登場5位を獲得（自身最高位）。『そばにいて、すぐ消えて。』からテーマとした二面性が各所に表現され、Baby Girlサイドとされる前半はバラード、Bad Girlサイドとされる後半ダンスチューンと明確に分かれていることや、前半は日本語タイトルが並び、後半は英語が並ぶなどにも感じられる。また、収録時間も74分を越え、制作の最終段階まで収録出来るか不安だったと語る意欲作になっている。うち、「[見守っていたい](https://ja.wikipedia.org/wiki/見守っていたい "wikilink")」はTBS系バラエティ番組『[イチハチ](https://ja.wikipedia.org/wiki/イチハチ "wikilink")』エンディングテーマに起用された。ミュージックビデオにはライセンス・[中村アン](https://ja.wikipedia.org/wiki/中村アン "wikilink")が出演して話題になる。
 
-その後初の地元・札幌でのワンマンライブを含む、全国5ヶ所でのYU-A 2Girls Live Tour「[PERFORMANCE 2011](https://ja.wikipedia.org/wiki/PERFORMANCE_2011 "wikilink")」を行う。ツアーのファイナルは、25歳の誕生日の5月29日に、ラフォーレミュージアム六本木にて開催。超満員の中でツアーの幕を閉じた。 昨年のツアーから表現されているダンスパフォーマンスを全面に押し出したライブパフォーマンスは“泣き歌”のイメージが先行しているなかで、彼女のポテンシャルの深さを感じさせるものだった。
+その後、初の地元・札幌でのワンマンライブを含む、全国5か所でのYU-A 2Girls Live Tour「[PERFORMANCE 2011](https://ja.wikipedia.org/wiki/PERFORMANCE_2011 "wikilink")」を行う。ツアーのファイナルは、25歳の誕生日の5月29日に、ラフォーレミュージアム六本木にて開催。超満員の中でツアーの幕を閉じた。前年のツアーから表現されているダンスパフォーマンスを全面に押し出したライブパフォーマンスは“泣き歌”のイメージが先行しているなかで、彼女のポテンシャルの深さを感じさせるものだった。
 
-同年5月25日には、6枚目のシングル「[夜明けが来るまで](https://ja.wikipedia.org/wiki/夜明けが来るまで "wikilink")」をリリース。震災当日にライブのため水戸にいて、予定されていたライブは中止、一般道を17時間掛けて帰京する中、甚大な被害をニュースで知り、そのときの気持ち「当たり前と思っていたことが、当たり前じゃない、大切なものを感じながら生きることの大切さ」（本人談）を歌った作品である。YouTubeにピアノバージョンとしてワンコーラスだけアップした同曲は、多くのコメントが寄せられたため、シングルとして発売となった。
+同年5月25日には、6枚目のシングル「[夜明けが来るまで](https://ja.wikipedia.org/wiki/夜明けが来るまで "wikilink")」をリリース。[東日本震災](https://ja.wikipedia.org/wiki/東日本震災 "wikilink")発生当日にライブのため水戸にいて、予定されていたライブは中止、一般道を17時間かけて帰京する中、甚大な被害をニュースで知り、そのときの気持ち「当たり前と思っていたことが、当たり前じゃない、大切なものを感じながら生きることの大切さ」（本人談）を歌った作品である。YouTubeにピアノバージョンとしてワンコーラスだけアップした同曲は、多くのコメントが寄せられたため、シングルとして発売となった。
 
 同年7月20日には、童子-Tとシングル「[誓い feat.YU-A](https://ja.wikipedia.org/wiki/誓い_feat.YU-A "wikilink")」に参加。「願い」「想い」に続く3部作の完結編となるこの作品は、着うた初登場2位でランクインとなるなど、発売前から話題となっていた。
 
@@ -119,160 +119,124 @@
   - **[DREAM](https://ja.wikipedia.org/wiki/DREAM_\(YU-Aのアルバム\) "wikilink")**（2012年）
   - **[SINGLE COLLECTION](https://ja.wikipedia.org/wiki/SINGLE_COLLECTION_\(YU-Aのアルバム\) "wikilink")**（2013年）
   - **[PURPLE](https://ja.wikipedia.org/wiki/PURPLE_\(YU-Aのアルバム\) "wikilink")**（2015年）
-  - **[OFF](https://ja.wikipedia.org/wiki/OFF "wikilink")**（2018年）
+  - **OFF**（2018年）
 
 ## ライブツアー
 
   - YU-A 1st LIVE TOUR
-
-<!-- end list -->
-
-  -
-    2010年3月26日\[東京\]渋谷CLUB QUATTRO
-    2010年3月28日\[大阪\]心斎橋CLUB QUATTRO
-    2010年3月29日\[名古屋\]名古屋CLUB QUATTRO
+      -
+        2010年3月26日［東京］渋谷CLUB QUATTRO
+        2010年3月28日［大阪］心斎橋CLUB QUATTRO
+        2010年3月29日［名古屋］名古屋CLUB QUATTRO
 
 <!-- end list -->
 
   - YU-A 2Girls Live Tour PERFORMANCE 2011
-
-<!-- end list -->
-
-  -
-    3月5日\[大阪\]BIG CAT
-    3月6日\[名古屋\]CLUB QUATTRO
-    3月21日\[福岡\]BEAT STATION
-    3月25日\[札幌\]KRAPS HALL
-    4月1日\[東京\]LIQUIDROOM ※震災のため中止
-    5月29日\[東京\]LAFORET MUSEUM ROPPONGI
-    YU-A:Vocal　NANAKO(OH GIRL\!):DANCER　REIKO(OUTSET):DANCER　FUYUMI:DANCER　SHIKINO:DANCER
-    MAKO-T:KEYBOARDS
+      -
+        3月5日［大阪］BIG CAT
+        3月6日［名古屋］CLUB QUATTRO
+        3月21日［福岡］BEAT STATION
+        3月25日［札幌］KRAPS HALL
+        4月1日［東京］LIQUIDROOM ※震災のため中止
+        5月29日［東京］LAFORET MUSEUM ROPPONGI
+        YU-A:Vocal　NANAKO(OH GIRL\!):DANCER　REIKO(OUTSET):DANCER　FUYUMI:DANCER　SHIKINO:DANCER
+        MAKO-T:KEYBOARDS
 
 <!-- end list -->
 
   - ESP × YU-A YU-Action☆ Project Premium LIVE
-
-<!-- end list -->
-
-  -
-    10月14日\[東京\]ESPミュージカルアカデミー12号館　club 1ne2wo
-    10月16日ESPエンタテインメント本館 Club GARDEN OPEN
-    かどしゅんたろう:DRUM　[人時](../Page/人時.md "wikilink"):BASS　黒田晃年:GUITAR　MAKO-T:KEYBOARDS　[ルンヒャン](https://ja.wikipedia.org/wiki/ルンヒャン "wikilink"):KEYBOARDS\&CHORUS
+      -
+        10月14日［東京］ESPミュージカルアカデミー12号館　club 1ne2wo
+        10月16日ESPエンタテインメント本館 Club GARDEN OPEN
+        かどしゅんたろう:DRUM　[人時](../Page/人時.md "wikilink"):BASS　黒田晃年:GUITAR　MAKO-T:KEYBOARDS　[ルンヒャン](https://ja.wikipedia.org/wiki/ルンヒャン "wikilink"):KEYBOARDS\&CHORUS
 
 <!-- end list -->
 
   - YU-A DREAM Live Tour PERFORMANCE 2012
-
-<!-- end list -->
-
-  -
-    9月8日\[大阪\]BIG CAT
-    9月14日\[名古屋\]Electric LadyLand
-    9月21日\[札幌\]Sound Lab mole
-    9月28日\[福岡\]BeatStation
-    10月5日\[東京\]SHIBUYA-AX
-    YU-A:Vocal　NANAKO(OH GIRL\!):DANCER　REIKO(OUTSET):DANCER　FUYUMI:DANCER　SHIKINO:DANCER
-    かどしゅんたろう:DRUM　御供信弘:BASS　黒田晃年:GUITAR　宮崎裕介:KEYBOARDS　[ルンヒャン](https://ja.wikipedia.org/wiki/ルンヒャン "wikilink"):KEYBOARDS\&CHORUS
+      -
+        9月8日［大阪］BIG CAT
+        9月14日［名古屋］Electric LadyLand
+        9月21日［札幌］Sound Lab mole
+        9月28日［福岡］BeatStation
+        10月5日［東京］SHIBUYA-AX
+        YU-A:Vocal　NANAKO(OH GIRL\!):DANCER　REIKO(OUTSET):DANCER　FUYUMI:DANCER　SHIKINO:DANCER
+        かどしゅんたろう:DRUM　御供信弘:BASS　黒田晃年:GUITAR　宮崎裕介:KEYBOARDS　[ルンヒャン](https://ja.wikipedia.org/wiki/ルンヒャン "wikilink"):KEYBOARDS\&CHORUS
 
 <!-- end list -->
 
   - YU-ANISTA Live Tour 2013 〜Spring〜
-
-<!-- end list -->
-
-  -
-    4月29日\[大阪\]Music Club JANUS
-    4月30日\[東京\]duo MUSIC EXCHANGE
+      -
+        4月29日［大阪］Music Club JANUS
+        4月30日［東京］duo MUSIC EXCHANGE
 
 <!-- end list -->
 
   - YU-ANISTA Live Tour 2013 〜Summer〜
-
-<!-- end list -->
-
-  -
-    8月10日\[福岡\]BeatStation
-    8月18日\[大阪\]umeda AKASO
-    8月23日\[東京\]duo MUSIC EXCHANGE
+      -
+        8月10日［福岡］BeatStation
+        8月18日［大阪］umeda AKASO
+        8月23日［東京］duo MUSIC EXCHANGE
 
 <!-- end list -->
 
   - YU-ANISTA Live Tour 2013 〜winter〜
-
-<!-- end list -->
-
-  -
-    12月21日\[福岡\]BeatStation
-    12月22日\[大阪\]umeda AKASO
-    12月23日\[東京\]duo MUSIC EXCHANGE
+      -
+        12月21日［福岡］BeatStation
+        12月22日［大阪］umeda AKASO
+        12月23日［東京］duo MUSIC EXCHANGE
 
 <!-- end list -->
 
   - YU-ANISTA Live Tour 2014 〜Summer〜
-
-<!-- end list -->
-
-  -
-    6月15日\[大阪\]umeda AKASO
-    6月18日\[福岡\]BeatStation
-    6月28日\[東京\]duo MUSIC EXCHANGE
+      -
+        6月15日［大阪］umeda AKASO
+        6月18日［福岡］BeatStation
+        6月28日［東京］duo MUSIC EXCHANGE
 
 <!-- end list -->
 
   - YU-ANISTA Live Tour 2014 〜Winter〜
-
-<!-- end list -->
-
-  -
-    11月8日\[福岡\]BeatStation
-    11月9日\[大阪\]umeda AKASO
-    11月23日\[東京\]duo MUSIC EXCHANGE
+      -
+        11月8日［福岡］BeatStation
+        11月9日［大阪］umeda AKASO
+        11月23日［東京］duo MUSIC EXCHANGE
 
 <!-- end list -->
 
   - YU-A PURPLE Live Tour PERFORMANCE 2015
-
-<!-- end list -->
-
-  -
-    7月5日\[大阪\]umeda AKASO
-    7月11日\[横浜\]BAYSIS
-    7月12日\[茨城\]club SONIC mito
-    7月17日\[札幌\]KRAPS HALL
-    7月25日\[兵庫\]神戸VARIT
-    7月26日\[京都\]京都MOJO
-    8月7日\[名古屋\]ell.FITS ALL
-    8月8日\[千葉\]柏ドーム
-    8月15日\[熊本\]熊本B.9 V2
-    8月16日\[福岡\]DRUM Be-1
-    8月23日\[仙台\]仙台HOOK
-    8月30日\[東京\]新宿ReNY
-    Performer:IG　Guitar:Naoki Ikumoto　Drums:Takazumi Katayama
+      -
+        7月5日［大阪］umeda AKASO
+        7月11日［横浜］BAYSIS
+        7月12日［茨城］club SONIC mito
+        7月17日［札幌］KRAPS HALL
+        7月25日［兵庫］神戸VARIT
+        7月26日［京都］京都MOJO
+        8月7日［名古屋］ell.FITS ALL
+        8月8日［千葉］柏ドーム
+        8月15日［熊本］熊本B.9 V2
+        8月16日［福岡］DRUM Be-1
+        8月23日［仙台］仙台HOOK
+        8月30日［東京］新宿ReNY
+        Performer:IG　Guitar:Naoki Ikumoto　Drums:Takazumi Katayama
 
 <!-- end list -->
 
   - YU-ANISTA LIVE TOUR 2016 NEWYEAR 〜しゃべる、うたう、やせる?〜
-
-<!-- end list -->
-
-  -
-    1月16日\[東京\]Mt.RAINIER HALL SHIBUYA PLEASURE PLEASURE
-    1月17日\[大阪\]YES THEATER
-    Performer:Dancer:エリナッチ　Drums:Takazumi Katayama　Keyboards:YUKI KISHIDA
-    トークゲスト　ミラクルひかる@16日渋谷　スピリチュアル占い師CHIE@17日難波
+      -
+        1月16日［東京］Mt.RAINIER HALL SHIBUYA PLEASURE PLEASURE
+        1月17日［大阪］YES THEATER
+        Performer:Dancer:エリナッチ　Drums:Takazumi Katayama　Keyboards:YUKI KISHIDA
+        トークゲスト　ミラクルひかる@16日渋谷　スピリチュアル占い師CHIE@17日難波
 
 <!-- end list -->
 
   - YU-A Live Tour 2016〜あと2キロが落ちないの〜
-
-<!-- end list -->
-
-  -
-    6月25日\[大阪\]OSAKA MUSE
-    7月2日\[福岡\]DRUM Be-1
-    7月9日\[札幌\]KRAPS HALL
-    7月16日\[名古屋\]ell.FITS All
-    7月18日\[東京\]新宿ReNY
+      -
+        6月25日［大阪］OSAKA MUSE
+        7月2日［福岡］DRUM Be-1
+        7月9日［札幌］KRAPS HALL
+        7月16日［名古屋］ell.FITS All
+        7月18日［東京］新宿ReNY
 
 ## 出典
 
@@ -285,7 +249,7 @@
 
   -
   -
-[Category:日本のR\&B・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のR&B・ミュージシャン "wikilink") [Category:札幌市出身の人物](https://ja.wikipedia.org/wiki/Category:札幌市出身の人物 "wikilink") [Category:1986年生](https://ja.wikipedia.org/wiki/Category:1986年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink") [Category:北海道コンサドーレ札幌の人物](https://ja.wikipedia.org/wiki/Category:北海道コンサドーレ札幌の人物 "wikilink")
+[Category:日本の女性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の女性シンガーソングライター "wikilink") [Category:日本のR\&B・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のR&B・ミュージシャン "wikilink") [Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink") [Category:北海道コンサドーレ札幌の人物](https://ja.wikipedia.org/wiki/Category:北海道コンサドーレ札幌の人物 "wikilink") [Category:札幌市出身の人物](https://ja.wikipedia.org/wiki/Category:札幌市出身の人物 "wikilink") [Category:1986年生](https://ja.wikipedia.org/wiki/Category:1986年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.

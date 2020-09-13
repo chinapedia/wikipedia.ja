@@ -1,30 +1,6 @@
 > この記事は[Yak-42 \(航空機\)](https://ja.wikipedia.org/wiki/Yak-42_\(航空機\))から翻訳されています。
 
 
-|                                                                                  Yak-42                                                                                   |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [Dnjeproavia_Jak-42D_UR-42449_cropped.jpg](https://ja.wikipedia.org/wiki/File:Dnjeproavia_Jak-42D_UR-42449_cropped.jpg "fig:Dnjeproavia_Jak-42D_UR-42449_cropped.jpg") |
-|                                                                                   要目一覧                                                                                    |
-|                                                                                   運航乗員                                                                                    |
-|                                                                                    乗客                                                                                     |
-|                                                                                   初飛行日                                                                                    |
-|                                                                                   初就航日                                                                                    |
-|                                                                                    全長                                                                                     |
-|                                                                                    全幅                                                                                     |
-|                                                                                    高さ                                                                                     |
-|                                                                                    翼面積                                                                                    |
-|                                                                                   エンジン                                                                                    |
-|                                                                                    推進力                                                                                    |
-|                                                                  [最大離陸重量](../Page/最大離陸重量.md "wikilink")                                                                   |
-|                                                                                   機体重量                                                                                    |
-|                                                                                   巡航速度                                                                                    |
-|                                                                                   航続距離                                                                                    |
-|                                                                                   離陸距離                                                                                    |
-|                                                                                   着陸距離                                                                                    |
-|                                                                                 最大上昇限界高度                                                                                  |
-|                                                                                   生産機数                                                                                    |
-|                                                                                                                                                                           |
-
 [Cubana_in_SdC.JPG](https://ja.wikipedia.org/wiki/File:Cubana_in_SdC.JPG "fig:Cubana_in_SdC.JPG") Yak-42D
 引き込み式タラップ([エアステア](https://ja.wikipedia.org/wiki/エアステア "wikilink"))から乗客が降りている。\]\]
 

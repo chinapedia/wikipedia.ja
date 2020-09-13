@@ -5,7 +5,7 @@
 
 ## 概要
 
-[WedsSport_Advan_SC430_2011_Super_GT_Fuji_250km.jpg](https://ja.wikipedia.org/wiki/File:WedsSport_Advan_SC430_2011_Super_GT_Fuji_250km.jpg "fig:WedsSport_Advan_SC430_2011_Super_GT_Fuji_250km.jpg") 1983年、坂東正明が坂東商会を設立し、1990年にレーシングプロジェクトバンドウを立ち上げた。「プライベートでワークスチームの前を走りたい\[1\]」というテーマのもと、[ツーリングカー](../Page/ツーリングカー.md "wikilink")レース（いわゆる[ハコレース](https://ja.wikipedia.org/wiki/箱車 "wikilink")）の入門カテゴリーからトップカテゴリーまで精力的な活動を続けている。
+1983年、坂東正明が坂東商会を設立し、1990年にレーシングプロジェクトバンドウを立ち上げた。「プライベートでワークスチームの前を走りたい\[1\]」というテーマのもと、[ツーリングカー](../Page/ツーリングカー.md "wikilink")レース（いわゆる[ハコレース](https://ja.wikipedia.org/wiki/箱車 "wikilink")）の入門カテゴリーからトップカテゴリーまで精力的な活動を続けている。
 
 これまで監督を務めてきた坂東正明は、[2007年](../Page/2007年.md "wikilink")より[SUPER GTを運営するGTアソシエイション](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")（GTA）内の「GTA委員会」委員長に就任したほか、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には株式会社化されたGTAの初代社長に就任したため、運営面に集中する必要性から監督の座は退くことになった。ただしチーム代表として、引き続きチームを見守ることとなっている。新たに監督としてチームを率いるのは息子の坂東正敬で、前年から既に監督代行を務めてきていたが、その翌年から正式に監督の座に就くこととなった。
 
@@ -32,6 +32,8 @@
 2016年、第7戦タイラウンドにてSUPER GT500クラスに移籍して初めての優勝をポールトゥーウィンで飾る。
 
 2014年第7戦〜2017年第3戦にかけての21戦連続入賞はJGTC時代を含めても歴代1位。
+
+<File:WedsSport> Advan SC430 2011 Super GT Fuji 250km.jpg|WedsSport ADVAN SC430（2011年） <File:Lexus> IS 350 SuperGT WedSport side view.jpg|WedsSport IS350
 
 ### 参戦歴
 

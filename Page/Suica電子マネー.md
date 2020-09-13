@@ -57,7 +57,7 @@ JR東日本の駅構内店舗（土産物店、書店など）から展開を開
 
 スーパーマーケット分野では、初期は[大丸ピーコック](../Page/イオンマーケット.md "wikilink")（現・ピーコックストア）などの一部店舗に留まっていたが、[2007年](../Page/2007年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")より[イオングループ](../Page/イオングループ.md "wikilink")（[イオン](https://ja.wikipedia.org/wiki/イオン_\(店舗ブランド\) "wikilink")（旧[ジャスコ](../Page/ジャスコ.md "wikilink")・[サティ等](https://ja.wikipedia.org/wiki/サティ_\(チェーンストア\) "wikilink")）、[ダイエーや](https://ja.wikipedia.org/wiki/ダイエー_\(店舗ブランド\) "wikilink")[マックスバリュ](../Page/マックスバリュ.md "wikilink")等も含む）の店舗及び各種テナントにも導入され、同年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に関東地方及び愛知・岐阜両県内の店舗でも導入された。また[2013年](../Page/2013年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink")からは全国の[ユニーグループ](https://ja.wikipedia.org/wiki/ユニーグループ "wikilink")のスーパーマーケットやショッピングモール各テナントにも導入が開始された。なお、現在はＪＲ東日本のエリアに導入は限定されている\[6\]。(なお、現在でも、Suicaのキャンペーンについては、イオングループはJR東海のエリア内もキャンペーンの対象としている。\[7\])
 
-2010年6月30日からは、下記の関東地区の[高島屋](../Page/高島屋.md "wikilink")各店の食料品売場にも導入されたが、玉川店については地下1階の「フーズシティ」では利用できない。また新宿店は、食料品以外の売場でも利用可能であるが、[ユザワヤ](../Page/ユザワヤ.md "wikilink")、[東急ハンズ](../Page/東急ハンズ.md "wikilink")、及び12階以上のレストランと専門店では利用できない。
+2010年6月30日からは、下記の関東地区の[髙島屋](https://ja.wikipedia.org/wiki/髙島屋 "wikilink")各店の食料品売場にも導入されたが、玉川店については地下1階の「フーズシティ」では利用できない。また新宿店は、食料品以外の売場でも利用可能であるが、[ユザワヤ](../Page/ユザワヤ.md "wikilink")、[東急ハンズ](../Page/東急ハンズ.md "wikilink")、及び12階以上のレストランと専門店では利用できない。
 
 ●日本橋店 ●新宿店 ●玉川店 ●立川店 ●横浜店（タカシマヤ フードメゾン 新横浜店を含む） ●港南台店 ●大宮店 ●柏店（タカシマヤ フードメゾン おおたかの森店を含む） ●高崎店
 
@@ -203,7 +203,7 @@ NECインフロンティアの汎用型リーダライタ（Suica・iD・Edy・Q
 ### 2010年
 
   - [3月13日](../Page/3月13日.md "wikilink") - TOICA及び[SUGOCA](https://ja.wikipedia.org/wiki/SUGOCA "wikilink")・[nimoca](https://ja.wikipedia.org/wiki/nimoca "wikilink")・[はやかけん](https://ja.wikipedia.org/wiki/はやかけん "wikilink")との電子マネーの相互利用を開始。
-  - [6月30日](../Page/6月30日.md "wikilink") - 関東地区の[高島屋](../Page/高島屋.md "wikilink")各店の食料品売場に導入（一部の店舗では、利用できる売場が異なる）。
+  - [6月30日](../Page/6月30日.md "wikilink") - 関東地区の[髙島屋](https://ja.wikipedia.org/wiki/髙島屋 "wikilink")各店の食料品売場に導入（一部の店舗では、利用できる売場が異なる）。
   - [7月14日](../Page/7月14日.md "wikilink") - JR東日本エリア内の[サークルKサンクス](https://ja.wikipedia.org/wiki/サークルKサンクス "wikilink")全店で導入、及び同チェーンのカルワザクラブとの連携開始（事前登録したSuica利用でカルポイントが貯まるカルポイントとSuicaポイントの交換）\[27\]\[28\]。
 
 ### 2011年

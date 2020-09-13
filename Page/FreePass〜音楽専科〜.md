@@ -37,7 +37,7 @@
 ## ナビゲーター
 
   - [奈央子](http://www.webtsc.com/fp/FPoldData/naokosdiary.htm)（テレビせとうち社員、2000年4月 - 2001年2月） - Naoko名義で出演。
-  - [山野智子](http://web.archive.org/web/20021201092508/http://www.webtsc.com/ana/kobetu/yamano.htm)（テレビせとうち社員） - Tomoko名義で出演。
+  - [山野智子](https://web.archive.org/web/20021201092508/http://www.webtsc.com/ana/kobetu/yamano.htm)（テレビせとうち社員） - Tomoko名義で出演。
   - [中島有香](../Page/中島有香.md "wikilink")（テレビせとうちアナウンサー）
   - [西野友子](https://ja.wikipedia.org/wiki/西野友子 "wikilink")（テレビせとうちアナウンサー、2008年4月 - 2009年3月）
 

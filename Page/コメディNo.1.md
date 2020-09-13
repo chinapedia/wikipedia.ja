@@ -86,5 +86,5 @@ CD盤「浪花のモーツァルト キダ・タローのすべて」（[SLC](ht
 9.  [アホの坂田 母校甲子園出場で大興奮 「アホマン姿で応援」宣言](https://www.tokyo-sports.co.jp/entame/entertainment/428650/) [東京スポーツ](../Page/東京スポーツ.md "wikilink")、2015年7月31日
 10. [【関西レジェンド伝】キダ・タロー(2)高校2年のとき藤岡琢也とタンゴバンド (2/2ページ)](http://www.sanspo.com/geino/news/20170613/geo17061310000010-n2.html) [SANSPO.COM](../Page/サンケイスポーツ.md "wikilink")、2017年6月13日
 11.
-12. [「アホの坂田」バカ売れだったが1本の電話で…](http://www.sponichi.co.jp/entertainment/column/yoshimoto/KFullNormal20090401168.html)、2009年4月1日、スポーツニッポン。
+12. [「アホの坂田」バカ売れだったが1本の電話で…](https://web.archive.org/web/20100823052345/http://www.sponichi.co.jp/entertainment/column/yoshimoto/KFullNormal20090401168.html)、2009年4月1日、スポーツニッポン。
 13. CD「浪花のモーツァルト キダ・タローのほんまにすべて」リーフレット解説

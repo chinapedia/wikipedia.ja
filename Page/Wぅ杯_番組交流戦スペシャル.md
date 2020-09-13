@@ -41,7 +41,7 @@
   - [笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")×[平成教育テレビ](../Page/平成教育テレビ.md "wikilink")（[1992年](../Page/1992年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")）
       - 『いいとも\!』に『平成教育TV』から[ビートたけし](../Page/ビートたけし.md "wikilink")が、『平成教育TV』に『いいとも\!』から[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")と[明石家さんま](../Page/明石家さんま.md "wikilink")（当時レギュラー）が登場した。
   - [いいひと。](../Page/いいひと。.md "wikilink")×[ギフト](../Page/ギフト_\(テレビドラマ\).md "wikilink")（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）
-      - 『いいひと。』に『ギフト』から[木村拓哉](../Page/木村拓哉.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）が、『ギフト』に『いいひと。』から[草彅 剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")（SMAP）が登場した。
+      - 『いいひと。』に『ギフト』から[木村拓哉](../Page/木村拓哉.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）が、『ギフト』に『いいひと。』から[草彅 剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")（SMAP）が登場した。
   - [中居正広のボク生きII](https://ja.wikipedia.org/wiki/中居正広のボク生きII "wikilink")×[少年頭脳カトリ](../Page/少年頭脳カトリ.md "wikilink")（[1999年](../Page/1999年.md "wikilink")1月）
       - 『ボク生きII』に『カトリ』から[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")（SMAP）が、『カトリ』に『ボク生きII』から[中居正広](../Page/中居正広.md "wikilink")（SMAP）が登場した。
   - [ポンキッキーズ](../Page/ポンキッキーズ.md "wikilink")×[マッハブイロク](../Page/マッハブイロク.md "wikilink")ドラマスペシャル『Big大作戦』（[2000年](../Page/2000年.md "wikilink")6月）

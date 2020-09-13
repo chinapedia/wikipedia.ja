@@ -1,7 +1,7 @@
 > この記事は[Waive](https://ja.wikipedia.org/wiki/Waive)から翻訳されています。
 
 
-**Waive**（ウェイブ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の4人組[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。
+**Waive**（ウェイブ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の4人組[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。2020年現在、『解散中』\[1\]\[2\]。2021年2月に結成20周年記念GIGを予定している。
 
 ## 概要
 
@@ -9,21 +9,21 @@
 
 2004年7月31日をもって所属事務所SWEET CHILD離脱。 Vo田澤の脱退により2005年12月1日の「LAST GIGS.」[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")公演をもって解散した。
 
-2010年3月に一時的な再結成および再演を発表\[1\]。 同年11月29日の[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")公演をもって奇跡の再演全日程が終了。
+2010年3月に一時的な再結成および再演を発表\[3\]。 同年11月29日の[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")公演をもって奇跡の再演全日程が終了。
 
-2015年12月1日22:00、解散から10年が経ったことを機に2016年4月3日に[EX THEATER ROPPONGIにて](https://ja.wikipedia.org/wiki/EX_THEATER_ROPPONGI "wikilink")「GIG FINAL DISTORTION！」を開催することを発表。同公演を皮切りに横浜・大阪・名古屋で公演を実施し、2016年10月22日[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")公演をもって全日程を終了。横浜～赤坂の各会場限定で、新曲2曲入りシングル『Days.』(収録曲:Days./END ROLL)が発売された。
+2015年12月1日22:00、解散から10年が経ったことを機に2016年4月3日に[EX THEATER ROPPONGIにて](https://ja.wikipedia.org/wiki/EX_THEATER_ROPPONGI "wikilink")「GIG FINAL DISTORTION！」を開催することを発表\[4\]。同公演を皮切りに横浜・大阪・名古屋で公演を実施し、2016年10月22日[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")公演をもって全日程を終了。横浜～赤坂の各会場限定で、新曲2曲入りシングル『Days.』(収録曲:Days./END ROLL)が発売された\[5\]。
 
-2018年10月、[MUCC](../Page/MUCC.md "wikilink")・[Psycho le Cémuとともに](../Page/Psycho_le_Cemu.md "wikilink")3マンイベント『MUD FRIENDS 2000〜2018』を東京・大阪にて開催(全4公演)\[2\]。
+2018年10月、[MUCC](../Page/MUCC.md "wikilink")・[Psycho le Cémuとともに](../Page/Psycho_le_Cemu.md "wikilink")3マンイベント『MUD FRIENDS 2000〜2018』を東京・大阪にて開催(全4公演)\[6\]。
 
-2019年2月より、解散中にもかかわらず全国ツアー(Wave to Waive；全7公演\[3\])を実施。各会場にてCD『BRiNG ME TO LiFE(新曲)/バニラ(再録)』つきパンフレットを販売\[4\]。 同年[4月30日](../Page/4月30日.md "wikilink")『[平成](../Page/平成.md "wikilink")最後の日』には、解散中にもかかわらず自身最大キャパである[Zepp TokyoにてGIG](https://ja.wikipedia.org/wiki/Zepp_Tokyo "wikilink")『「サヨナラ？」愛しい平成よ』を決行\[5\]、翌[5月1日](../Page/5月1日.md "wikilink")には[恵比寿LIQUIDROOMにてGIG](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")『まだ見ぬ"[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")"へと駆け抜けてく』を実施。4月30日公演の来場者には『Dear』の再録音源CDがプレゼントされた\[6\]。
+2019年2月より、解散中にもかかわらず全国ツアー(Wave to Waive；全7公演\[7\])を実施。各会場にてCD『BRiNG ME TO LiFE(新曲)/バニラ(再録)』つきパンフレットを販売\[8\]。 同年[4月30日](../Page/4月30日.md "wikilink")『[平成](../Page/平成.md "wikilink")最後の日』には、解散中にもかかわらず自身最大キャパである[Zepp TokyoにてGIG](https://ja.wikipedia.org/wiki/Zepp_Tokyo "wikilink")『「サヨナラ？」愛しい平成よ』を決行\[9\]、翌[5月1日](../Page/5月1日.md "wikilink")には[恵比寿LIQUIDROOMにてGIG](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")『まだ見ぬ"[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")"へと駆け抜けてく』を実施。4月30日公演の来場者には『Dear』の再録音源CDがプレゼントされた\[10\]。
 
-このように、近年活発な活動がみられるが、あくまでも『解散中』というスタンスを取っている\[7\]\[8\]。
+このように、近年活発な活動がみられるが、あくまでも『解散中』というスタンスを取っている\[11\]\[12\]。
 
-2019年9月末、公式Twitterに『解散中』と表示されたスロットマシン映像が投稿された後は、数ヶ月Waiveとしての動きはなかったが、2020年の元日には結成20周年を告げる投稿が行われた。 本格始動の2000年4月4日(デモテープ『Spanner』)から20年となった2020年4月4日からは、毎日スロットマシン映像でカウントダウンを行いながらWaiveの歴史を1年ずつ振り返るという意味深な投稿が行われ、最後の4月24日には、結成20周年記念GIGを2021年2月23日『[LINE CUBE SHIBUYA](https://ja.wikipedia.org/wiki/LINE_CUBE_SHIBUYA "wikilink")』にて開催することが発表された。自身初の『[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")』ワンマンとなる。
+2019年9月末、公式Twitterに『解散中』と表示されたスロットマシン映像が投稿\[13\]された後は、数ヶ月Waiveとしての動きはなかったが、2020年の元日には結成20周年を告げる投稿\[14\]が行われた。 本格始動の2000年4月4日(デモテープ『Spanner』リリース)から20年となった2020年4月4日\[15\]からは、毎日スロットマシン映像でカウントダウンを行いながらWaiveの歴史を1年ずつ振り返るという意味深な投稿\[16\]が行われ、最後の4月24日には、結成20周年記念GIGを2021年2月23日『[LINE CUBE SHIBUYA](https://ja.wikipedia.org/wiki/LINE_CUBE_SHIBUYA "wikilink")』にて開催することが発表された。自身初の『[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")』ワンマン\[17\]となる。
 
 ## メンバー
 
-  - **[田澤孝介](../Page/田澤孝介.md "wikilink")**（たざわ　たかゆき、[11月23日](../Page/11月23日.md "wikilink") - ）ボーカル　[京都府](../Page/京都府.md "wikilink")出生[大阪府](../Page/大阪府.md "wikilink")[八尾市](../Page/八尾市.md "wikilink")出身　A型
+  - **[田澤孝介](../Page/田澤孝介.md "wikilink")**（たざわ たかゆき、[11月23日](../Page/11月23日.md "wikilink") - ）ボーカル　[京都府](../Page/京都府.md "wikilink")出生[大阪府](../Page/大阪府.md "wikilink")[八尾市](../Page/八尾市.md "wikilink")出身　A型
 
 <!-- end list -->
 
@@ -140,8 +140,8 @@
 ## 外部リンク
 
   - [Waive 公式サイト](http://www.waivewaive.com/)
-  - [Waive公式Twitter](https://twitter.com/Waive_info)
-  - [Waive公式LINE@](http://line.me/ti/p/%40waive_info)
+  - [Waive 公式Twitter](https://twitter.com/Waive_info)
+  - [Waive 公式LINE@](http://line.me/ti/p/%40waive_info)
   - [鉄ぱいぷチャンネル](https://www.youtube.com/user/FePipeCHANNEL/playlists)
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink")
@@ -154,3 +154,12 @@
 6.
 7.
 8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.

@@ -24,6 +24,8 @@
   - [2002年](../Page/2002年.md "wikilink")、4thアルバム『FUTURE IS NOW』を発売。
   - [2014年](../Page/2014年.md "wikilink")、8月31日に楽曲「ひと夜のバカンス」と「HANABI」のシングルがアナログ盤で発売される。更に同年12月17日には楽曲「蜂と蝶」のシングルもアナログ盤として発売された（どちらも期間限定生産盤）。
   - [2015年](../Page/2015年.md "wikilink")、長らく廃盤となっていた1stアルバム「THE DEEP」が2月28日に期間限定生産のアナログ盤として再発。
+  - 2020年、5月27日にアルバム『The positive gravity ～案とヒント～』をアナログ盤として発売\[1\]。
+  - 2020年、6月17日に18年ぶりの新曲「Love, Peace & Happiness」をリリース\[2\]\[3\]
 
 ## 概要
 
@@ -39,6 +41,7 @@
   - 『ひと夜のバカンス』　（[2000年](../Page/2000年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink")）
   - 『あした FUTURE IS NOW』　（[2002年](../Page/2002年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")）
   - 『緑の森』　（2002年[7月17日](../Page/7月17日.md "wikilink")）
+  - 『Love, Peace & Happiness』　（2020年6月17日）
 
 ### アルバム
 
@@ -57,6 +60,7 @@
   - 『HANABI』　（2014年8月31日）
   - 『蜂と蝶』　（2014年[12月17日](../Page/12月17日.md "wikilink")）
   - 『THE DEEP』　（[2015年](../Page/2015年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")）
+  - 『The positive gravity ～案とヒント～』　（2020年5月27日）
 
 ### DVD
 
@@ -92,6 +96,16 @@
 
   - 『PROJECT:141』 （2002年[12月18日](../Page/12月18日.md "wikilink")）
 
+## メディア出演
+
+  - インターネットテレビ
+
+<!-- end list -->
+
+  - [ABEMA](https://ja.wikipedia.org/wiki/AbemaTV "wikilink") 『[AbemaMix](https://ja.wikipedia.org/wiki/AbemaMix "wikilink")』-（2020年6月24日）
+
+## 脚注
+
 ## 関連項目
 
   - [SUITE CHIC](../Page/SUITE_CHIC.md "wikilink")
@@ -104,4 +118,10 @@
   -
   - [SOUL SCREAM MYSPACE](http://www.myspace.com/soulscreamhiphop)
 
+  - [SOUL SCREAM YouTube channel](https://www.youtube.com/channel/UC8KByM7EQIG-jAa3XZh0UIA/featured)
+
 [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:1994年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1994年に結成した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
+
+1.
+2.
+3.

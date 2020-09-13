@@ -95,7 +95,7 @@
     <!-- end list -->
       - 13th/22ndシングルのリミックスバージョン
 
-### DISC-3「HIGH BANG\!」
+### DISC-3「HIGH\! BANG\!」
 
 1.  **ブリブリマン** - [中居正広](../Page/中居正広.md "wikilink")
       -

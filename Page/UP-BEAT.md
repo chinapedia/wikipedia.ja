@@ -24,7 +24,7 @@
 ### 解散時のメンバー
 
   - [広石武彦](../Page/広石武彦.md "wikilink")（ひろいし たけひこ、[1965年](../Page/1965年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink") - ）[福岡県](../Page/福岡県.md "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[門司区](https://ja.wikipedia.org/wiki/門司区 "wikilink")出身。[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")
-  - 岩永凡（いわなが ひろし、[1965年](../Page/1965年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink") - ）福岡県[行橋市](../Page/行橋市.md "wikilink")出身。[Guitar](../Page/エレクトリック・ギター.md "wikilink")、作曲
+  - [岩永凡](https://ja.wikipedia.org/wiki/岩永凡 "wikilink")（いわなが ひろし、[1965年](../Page/1965年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink") - ）福岡県[行橋市](../Page/行橋市.md "wikilink")出身。[Guitar](../Page/エレクトリック・ギター.md "wikilink")、作曲
   - 嶋田祐一（しまだ ゆういち、[1964年](../Page/1964年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink") - ）[鳥取県](../Page/鳥取県.md "wikilink")[鳥取市](../Page/鳥取市.md "wikilink")出身。[Drums](../Page/ドラムセット.md "wikilink")、作曲
 
 ### 活動途中で脱退したメンバー
@@ -43,7 +43,7 @@
   - [Kiss...いきなり天国](https://ja.wikipedia.org/wiki/Kiss...いきなり天国 "wikilink") (1986年5月21日、[12inchレコード](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")：VIH-12001)◎
   - [VANITY -BRANDNEW-](https://ja.wikipedia.org/wiki/VANITY_-BRANDNEW- "wikilink") (1986年10月21日、[7inchEP](https://ja.wikipedia.org/wiki/レコード#EP盤 "wikilink")：VIHX-1702)◎
   - [PRISONER OF LOVE](https://ja.wikipedia.org/wiki/PRISONER_OF_LOVE_\(UP-BEATの曲\) "wikilink") (1987年2月14日、7inchEP：VIHX-1707)◎
-  - [KISS IN THE MOONLIGHT](https://ja.wikipedia.org/wiki/KISS_IN_THE_MOONLIGHT "wikilink") (1987年8月21日、7inchEP：VIHX-1717)
+  - [KISS IN THE MOONLIGHT](https://ja.wikipedia.org/wiki/KISS_IN_THE_MOONLIGHT "wikilink") (1987年7月21日、7inchEP：VIHX-1717)
   - [NO SIDE ACTION](https://ja.wikipedia.org/wiki/NO_SIDE_ACTION "wikilink") (1988年1月21日、7inchEP：VIHX-1728 ／ 1988年2月21日、8cmCD：VDRS-1002)(※この作品よりCD盤も発売)
   - [Blind Age](https://ja.wikipedia.org/wiki/Blind_Age "wikilink") (1988年5月25日、7inchEP：VIHX-1737、8cmCD：VDRS-1026)
   - [DEAR VENUS](https://ja.wikipedia.org/wiki/DEAR_VENUS "wikilink") (1988年9月7日、7inchEP：VIHX-1751、8cmCD：VDRS-1079)
@@ -61,7 +61,7 @@
 
 ### アルバム
 
-  - UP-BEAT UNDER GROUND　インディーズ
+  - UP-BEAT UNDER GROUND　インディーズ時代のデモテープをCDアルバム化した無版権作品。Kings World Record 1992年頃発売
   - [IMAGE](https://ja.wikipedia.org/wiki/IMAGE_\(UP-BEATのアルバム\) "wikilink") (1986年11月11日 LP：VIH-28275 CD：VDR-1314、再発(紙ジャケ・リマスター盤)：2008年8月20日 VICL-62966)
   - [inner ocean](https://ja.wikipedia.org/wiki/inner_ocean "wikilink") (1987年9月15日 LP：VIH-28301 CD：VDR-1404、再発(紙ジャケ・リマスター盤)：2008年8月20日 VICL-62967)
   - [HERMIT COMPLEX](https://ja.wikipedia.org/wiki/HERMIT_COMPLEX "wikilink") (1988年10月21日 LP：VIH-28335 CD：VDR-1527、再発(紙ジャケ・リマスター盤)：2008年8月20日 VICL-62968)
@@ -97,6 +97,14 @@
   - [Welcome To The Pleasure Land vol.II](https://ja.wikipedia.org/wiki/Welcome_To_The_Pleasure_Land_vol.II "wikilink") (1993年10月21日 VILL-108)
   - [FINAL](https://ja.wikipedia.org/wiki/FINAL_\(UP-BEATの映像作品\) "wikilink") (1995年11月22日 VIVL-160) ラストライブビデオ
 
+### Capitagon
+
+無料ビデオコンサートシリーズ
+
+  - Real Beat Scene1
+  - Real Beat Scene2(1987年2月14日の[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")でのライブ映像。)
+  - Real Beat Scene3
+
 ### オムニバス・アルバム
 
   - JUMPING JAM from 博多 Rebel Street III （1984年 LP） - UP BEAT「LOVE YOU SO WANT YOU」収録
@@ -110,9 +118,8 @@
   - [市川哲史](../Page/市川哲史.md "wikilink")
   - [斉藤律](../Page/斉藤律.md "wikilink")
   - [伊藤賢一](../Page/伊藤賢一.md "wikilink")
-  - [バレンタインデー関連楽曲一覧](../Page/バレンタインデー関連楽曲一覧.md "wikilink")
-  - [福岡県出身の人物一覧](https://ja.wikipedia.org/wiki/福岡県出身の人物一覧 "wikilink")
   - [潮崎裕己](https://ja.wikipedia.org/wiki/潮崎裕己 "wikilink")
+  - [鈴木享明](https://ja.wikipedia.org/wiki/鈴木享明 "wikilink")
 
 ## 外部リンク
 

@@ -5,12 +5,11 @@
 
 ## 解説
 
-  - [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")と破局後、色々な騒動や休養を挟んで、およそ9ヶ月ぶりの新曲となった。復帰第1弾シングル。
+  - [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")と破局後、色々な騒動や休養を挟んで、およそ9ヶ月ぶりの復帰第1弾シングル。
   - 小室プロデュース離脱後、初のシングル作品。事務所もTKステートから[プロダクション尾木](../Page/プロダクション尾木.md "wikilink")に移籍した。
-  - 発売日が小室哲哉がメンバーの[TM NETWORKの楽曲](../Page/TM_NETWORK.md "wikilink")「[GET WILD DECADE RUN](../Page/GET_WILD_DECADE_RUN.md "wikilink")」と重なった。
-  - 初の本人単独での作詞で、プロデューサーかつ恋人だった小室へのメッセージソングとして話題になった。作曲は[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")・[V6](../Page/V6_\(グループ\).md "wikilink")・[Every Little Thingなどのヒット曲で知られる](../Page/Every_Little_Thing.md "wikilink")[菊池一仁](../Page/菊池一仁.md "wikilink")。
-  - 発売前の6月に静岡県御殿場市の乗馬クラブ「アルカディア」で白馬に跨って登場し、復帰会見を行ったが、当時は明らかに不完全な状態で本人曰く、30%程度しか本来の自分を取り戻していない状態であった。TVでも痛々しい姿で復帰し、当時は激太りだったと語っている。
-  - 完全復活後の[2001年](../Page/2001年.md "wikilink")に開催した当時デビュー7年目にして初となったファーストライブツアー“待っててくれてアリガトウ”では、涙ながらに力強く歌い、会場を感動させた。
+  - 初の本人単独での作詞で、プロデューサーかつ恋人だった小室へのメッセージソングとして話題になった。作曲は[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")・[V6](../Page/V6_\(グループ\).md "wikilink")・[Every Little Thingなどのヒットで知られる](../Page/Every_Little_Thing.md "wikilink")[菊池一仁](../Page/菊池一仁.md "wikilink")。
+  - 発売前の6月に静岡県御殿場市の乗馬クラブ「アルカディア」で白馬に跨って登場し、復帰会見を行ったが、当時は不完全な状態で本人曰く、30%程度しか本来の自分を取り戻していない状態であった。TVにも別人のような姿で出演したが、当時は激太りだったと語っている。
+  - 渡米を経て復活後の[2001年](../Page/2001年.md "wikilink")に開催した当時デビュー7年目にして初となったファーストライブツアー“待っててくれてアリガトウ”では、涙ながらに力強く歌い、会場を感動させた。
   - 初登場で6位にランクインし、「[here we are](https://ja.wikipedia.org/wiki/here_we_are "wikilink")」以来、1年ぶりにTOP10入りを果たし、以降も3週連続10位内をキープし、最終的には約30万枚を売り上げた。
   - 1999[オリコン年間シングルチャートでは](../Page/オリコンチャート.md "wikilink")79位。『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）年間パーフェクトランキングでは54位。
 

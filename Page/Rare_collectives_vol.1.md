@@ -96,4 +96,4 @@
 
 [Category:B面集](https://ja.wikipedia.org/wiki/Category:B面集 "wikilink") [Category:GLAYのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:GLAYのベスト・アルバム "wikilink") [Category:2003年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2003年のベスト・アルバム "wikilink") [Category:アンリミテッド・レコードのアルバム](https://ja.wikipedia.org/wiki/Category:アンリミテッド・レコードのアルバム "wikilink") [Category:佐久間正英がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:佐久間正英がプロデュースしたアルバム "wikilink")
 
-1.  [GLAY Official Store G-DIRECTによる『rare collectives vol.1』詳細](http://gdirect.jp/products/detail/G00100012U)より
+1.  [GLAY Official Store G-DIRECTによる『rare collectives vol.1』詳細](https://web.archive.org/web/20120505042404/http://gdirect.jp/products/detail/G00100012U)より(2012年5月5日時点でのアーカイブより引用)

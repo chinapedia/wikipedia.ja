@@ -32,4 +32,4 @@
   - [rockwellオフィシャルサイト](http://www.usmusic.co.jp/rockwell/index.html)
   - [DREAMUSIC.](http://www.dreamusic.co.jp/)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:ドリーミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:ドリーミュージックのアーティスト "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:ドリーミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:ドリーミュージックのアーティスト "wikilink") [Category:2005年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に結成した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")

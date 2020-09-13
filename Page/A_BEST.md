@@ -7,17 +7,17 @@
 
 ## 解説
 
-人気絶頂の2001年3月に発売された自身初のベストアルバム。デビューから3年間の[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[2000年](../Page/2000年.md "wikilink")までに発売されたシングル・アルバムから選ばれて収録されており、2001年発売済みであった20thシングル「[evolution](https://ja.wikipedia.org/wiki/evolution_\(浜崎あゆみの曲\) "wikilink")」と21stシングル「[NEVER EVER](../Page/NEVER_EVER_\(浜崎あゆみの曲\).md "wikilink")」は収録されていない。
+2001年3月に発売された自身初のベストアルバム。デビューから3年間の[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[2000年](../Page/2000年.md "wikilink")まで20世紀に発売されたシングル・アルバムから浜崎自身が選曲して収録されており、2001年当時発売済みであった20thシングル「[evolution](https://ja.wikipedia.org/wiki/evolution_\(浜崎あゆみの曲\) "wikilink")」と21stシングル「[NEVER EVER](../Page/NEVER_EVER_\(浜崎あゆみの曲\).md "wikilink")」は収録されていない。また、先行対象年に発表されたシングルのうち、1stシングル「[poker face](https://ja.wikipedia.org/wiki/poker_face_\(浜崎あゆみの曲\) "wikilink")」、2ndシングル「[YOU](../Page/YOU_\(浜崎あゆみの曲\).md "wikilink")」、4thシングル「[For My Dear...](../Page/For_My_Dear....md "wikilink")」、6thシングル「[WHATEVER](https://ja.wikipedia.org/wiki/WHATEVER "wikilink")」、7thシングル「[LOVE〜since 1999〜](https://ja.wikipedia.org/wiki/LOVE〜Destiny〜/LOVE〜since_1999〜 "wikilink")」、10thシングル「[A](../Page/A_\(シングル\).md "wikilink")」のうちの「monochrome」、「too late」、12thシングル「[kanariya](https://ja.wikipedia.org/wiki/kanariya "wikilink")」、18thシングル「[AUDIENCE](../Page/AUDIENCE.md "wikilink")」が収録されていない。
 
 初期楽曲である「[A Song for ××](../Page/A_Song_for_××.md "wikilink")」、「[Trust](../Page/Trust_\(浜崎あゆみの曲\).md "wikilink")」、「[Depend on you](../Page/Depend_on_you.md "wikilink")」の3曲は、ボーカルの新録音とミックスの変更が成されており、ブックレットにも『New Vocal & Mix』と表記されている。また、表記こそされてはいないが、10thシングル「[End roll](../Page/A_\(シングル\).md "wikilink")」もボーカルを新録音、ミックスのアレンジが成され、9thシングル「[Boys & Girls](../Page/Boys_&_Girls_\(浜崎あゆみの曲\).md "wikilink")」はボーカルは原曲通りでアレンジのみ生音に近いものに変更されている。8thシングル「[TO BE](../Page/TO_BE.md "wikilink")」、11thシングル「[appears](https://ja.wikipedia.org/wiki/appears "wikilink")」と13thシングル「[Fly high](../Page/Fly_high_\(浜崎あゆみの曲\).md "wikilink")」は、2ndアルバム『[LOVEppears](../Page/LOVEppears.md "wikilink")』のミックスで収録されている。初回限定盤のジャケットは、6パターンある（紙箱のデザインは共通で、CDブックレットの写真が異なる）。
 
 ### チャート成績
 
-[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の2ndアルバム『[Distance](../Page/Distance_\(宇多田ヒカルのアルバム\).md "wikilink")』と同日発売に敢えてぶつけたことでセールス争いは加熱し、発売前からワイドショーで盛んに報じられた。また、発売日までのカウントダウンCMを放映し、渋谷駅を広告で一面中ジャックするなどプロモーションには莫大な金額を投資された。その結果、初回出荷枚数は350万枚、バックオーダーを含めた初日出荷枚数は400万枚を記録\[1\]。自身最高となる初動約287万枚（オリコン）を記録してオリコンアルバムチャートで2位となり、順位・売上共に『Distance』（初動約300万枚）には及ばなかったものの、翌週にはオリコン1位を獲得（ただし、オリコンで実際1位を記録したのは2週目7日間のうち僅か1日間だけであり、[プラネットや](https://ja.wikipedia.org/wiki/プラネット_\(企業\) "wikilink")[サウンドスキャンジャパン](https://ja.wikipedia.org/wiki/サウンドスキャンジャパン "wikilink")などでは、2週連続2位だった）。2001年度の売上年間ランキングは2位で、年間1位を獲得していない作品では『[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』（[B'z](../Page/B'z.md "wikilink")）に次ぐ歴代2位の売上となっている。累計売上はエイベックスの発表で431.2万枚\[2\]となっており、自身のアルバム売上としても、自身最高となっている\[3\]。
+[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の2ndアルバム『[Distance](../Page/Distance_\(宇多田ヒカルのアルバム\).md "wikilink")』と同日発売に敢えてぶつけたことでセールス争いは加熱し、発売前からワイドショーで盛んに報じられた。また、発売日までのカウントダウンCMを放映し、渋谷駅を広告で一面中ジャックするなどプロモーションには莫大な金額を投資された。その結果、初回出荷枚数は350万枚、バックオーダーを含めた初日出荷枚数は400万枚を記録\[1\]。自身最高となる初動約287万枚（オリコン）を記録してオリコンアルバムチャートで2位となり、順位・売上共に『Distance』（初動約300万枚）には及ばなかったものの、オリコン歴代アルバム売上ランキングでは6位となった。2001年度の売上年間ランキングは2位で、年間1位を獲得していない作品では『[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』（[B'z](../Page/B'z.md "wikilink")）に次ぐ歴代2位の売上となっている。2010年時点での累計売上はエイベックスの発表で450万枚\[2\]。また、オリコン調べでは自身最高のアルバム売上を記録している\[3\]。
 
 ### その他のエピソード
 
-当時、[avexが強制的に発売したため](https://ja.wikipedia.org/wiki/ベスト・アルバム#ベスト盤をめぐるトラブル "wikilink")、浜崎自身は2004年の『[スーパーテレビ](https://ja.wikipedia.org/wiki/スーパーテレビ "wikilink")』のインタビューで、「自分はavexの大切な商品なんだなと思った」と皮肉交りに回想し、嫌気が差して引退も考えたという。その抵抗感を表すべく浜崎自身のアイデアで涙を流すジャケットが採用された。また、本人の希望で本作発売時に合わせて、あらゆる雑誌の表紙を徹底的にジャックした。
+当時、最全盛期で売上が見込めると判断した[avexが強制的に発売したため](https://ja.wikipedia.org/wiki/ベスト・アルバム#ベスト盤をめぐるトラブル "wikilink")、浜崎自身は2004年の『[スーパーテレビ](https://ja.wikipedia.org/wiki/スーパーテレビ "wikilink")』のインタビューで、「自分はavexの大切な商品なんだなと思った」と皮肉交りに回想し、嫌気が差して引退も考えたという。その抵抗感を表すべく浜崎自身のアイデアで涙を流すジャケットが採用された。また、本人の希望で本作発売時に合わせて、あらゆる雑誌の表紙を徹底的にジャックした。
 
 ## A BEST -15th Anniversary Edition-
 
@@ -36,83 +36,83 @@
 1.  **[A Song for ××](../Page/A_Song_for_××.md "wikilink") (New Vocal & Mix)**
       -
         作曲:[星野靖彦](https://ja.wikipedia.org/wiki/星野靖彦 "wikilink") / 編曲:[本間昭光](../Page/本間昭光.md "wikilink")
-        1999年1月発売　1stアルバム『A Song for ××』の表題曲。歌い直しされている。
+        1stアルバム『A Song for ××』表題曲
 2.  **[Trust](../Page/Trust_\(浜崎あゆみの曲\).md "wikilink") (New Vocal & Mix)**
       -
         作曲:[木村貴志](https://ja.wikipedia.org/wiki/木村貴志 "wikilink") / 編曲:本間昭光、木村貴志
-        1998年8月発売　3rdシングル。歌い直しされている。　
-        [花王](../Page/花王.md "wikilink")「AUBE」CMソング。
+        3rdシングル
+        [花王](../Page/花王.md "wikilink")「AUBE」CMソング
 3.  **[Depend on you](../Page/Depend_on_you.md "wikilink") (New Vocal & Mix)**
       -
         作曲:[菊池一仁](../Page/菊池一仁.md "wikilink") / 編曲:本間昭光・[守尾崇](https://ja.wikipedia.org/wiki/守尾崇 "wikilink")
-        1998年12月発売　5thシングル。歌い直しされている。
+        5thシングル
         [TBS系列](../Page/TBS系列.md "wikilink")「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」98年12月エンディングテーマ曲
         [PS](https://ja.wikipedia.org/wiki/PS "wikilink")ゲームソフト「[サウザンドアームズ](https://ja.wikipedia.org/wiki/サウザンドアームズ "wikilink")」オープニングテーマ曲
 4.  **[LOVE 〜Destiny〜](https://ja.wikipedia.org/wiki/LOVE〜Destiny〜/LOVE〜since_1999〜 "wikilink")**
       -
         作曲:[つんく](https://ja.wikipedia.org/wiki/つんく "wikilink") / 編曲:小林信吾、[前嶋康明](../Page/前嶋康明.md "wikilink")
-        1999年4月発売　7thシングル
+        7thシングル
         [CX系](https://ja.wikipedia.org/wiki/CX系 "wikilink")ドラマ「[セミダブル](../Page/セミダブル.md "wikilink")」挿入歌
+        アルバム初収録
 5.  **[TO BE](../Page/TO_BE.md "wikilink")**
       -
         作曲:[D・A・I](../Page/長尾大.md "wikilink") / 編曲:[Naoto Suzuki](https://ja.wikipedia.org/wiki/鈴木直人_\(音楽プロデューサー\) "wikilink")、D.A.I
-        1999年5月発売　8thシングル　
+        8thシングル　
         [JT](https://ja.wikipedia.org/wiki/JT "wikilink")「[桃の天然水](../Page/桃の天然水.md "wikilink")」CMソング（本人出演）
 6.  **[Boys & Girls](../Page/Boys_&_Girls_\(浜崎あゆみの曲\).md "wikilink")**
       -
         作曲:D・A・I / 編曲:Naoto Suzuki、D.A.I
-        1999年7月発売　9thシングル　
+        9thシングル　
         花王「AUBE」CMソング（本人出演）
 7.  **[Trauma](../Page/A_\(シングル\).md "wikilink")**
       -
         作曲:D・A・I / 編曲:Naoto Suzuki、D.A.I
-        1999年8月発売　10thシングル「A(4曲A面)」収録曲　
+        10thシングル『A』収録曲　
         JT「桃の天然水」CMソング（本人出演）
 8.  **[End roll](../Page/A_\(シングル\).md "wikilink")**
       -
         作曲:D・A・I / 編曲:Naoto Suzuki、D.A.I
-        1999年8月発売　10thシングル「A(4曲A面)」収録曲　
+        10thシングル『A』収録曲　
         [森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")「こんがりショコラ」CMソング（本人出演）
 9.  **[appears](https://ja.wikipedia.org/wiki/appears "wikilink")**
       -
         作曲:菊池一仁 / 編曲:[HΛL](../Page/HΛL.md "wikilink")
-        1999年11月発売　11thシングル　※1999年11月発売　アルバム「[LOVEppears](../Page/LOVEppears.md "wikilink")」収録バージョン
+        11thシングル
         花王「AUBE」CMソング（本人出演）
 10. **[Fly high](../Page/Fly_high_\(浜崎あゆみの曲\).md "wikilink")**
       -
         作曲:D・A・I / 編曲:HΛL
-        2000年2月発売　13thシングル　
-        ※1999年11月発売　アルバム「LOVEppears」収録バージョン
+        13thシングル　
         [ライコス](../Page/ライコス.md "wikilink")CMソング（本人出演）
 11. **[vogue](https://ja.wikipedia.org/wiki/vogue_\(浜崎あゆみの曲\) "wikilink")**
       -
         作曲:菊池一仁 / 編曲:Naoto Suzuki、Kazuhito Kikuchi
-        2000年4月発売　14thシングル
+        14thシングル
         [コーセー](../Page/コーセー.md "wikilink")「VISSE」CMソング（本人出演）
 12. **[Far away](../Page/Far_away_\(浜崎あゆみの曲\).md "wikilink")**
       -
         作曲:菊池一仁、 D・A・I / 編曲:HΛL
-        2000年5月発売　15thシングル
+        15thシングル
         [TU-KA](https://ja.wikipedia.org/wiki/TU-KA "wikilink") CMソング（本人出演）
 13. **[SEASONS](../Page/SEASONS_\(浜崎あゆみの曲\).md "wikilink")**
       -
         作曲:D・A・I / 編曲:Naoto Suzuki
-        2000年6月発売　16thシングル
+        16thシングル
         [CX系](https://ja.wikipedia.org/wiki/CX系 "wikilink")[月9](../Page/月9.md "wikilink")ドラマ「[天気予報の恋人](../Page/天気予報の恋人.md "wikilink")」主題歌
 14. **[SURREAL](../Page/SURREAL.md "wikilink")**
       -
         作曲:菊池一仁 / 編曲:HΛL
-        2000年9月発売　17thシングル
-        [たかの友梨](../Page/たかの友梨.md "wikilink")ビューティークリニックCMソング（本人出演）　※実際のタイアップ曲は「Duty」
+        17thシングル
+        [たかの友梨](../Page/たかの友梨.md "wikilink")ビューティークリニックCMソング（本人出演)
 15. **[ℳ](../Page/M_\(浜崎あゆみの曲\).md "wikilink")**
       -
         作曲:[CREA](../Page/浜崎あゆみ.md "wikilink") / 編曲:HΛL
-        2000年12月発売　19thシングル
+        19thシングル
         TU-KA CMソング（本人出演）
 16. **[Who...](../Page/LOVEppears.md "wikilink")**
       -
         作曲:菊池一仁 / 編曲:鈴木直人
-        1999年11月発売　2ndアルバム『[LOVEppears](../Page/LOVEppears.md "wikilink")』収録曲
+        2ndアルバム『[LOVEppears](../Page/LOVEppears.md "wikilink")』収録曲
         映画「[月](https://ja.wikipedia.org/wiki/月_\(映画\) "wikilink")」主題歌
 
 ### DVD/Blu-ray
@@ -128,7 +128,8 @@
 7.  Fly high
 8.  [vogue 〜Far away 〜SEASONS](https://ja.wikipedia.org/wiki/vogue_Far_away_SEASONS "wikilink")
 9.  SURREAL
-10.
+10. ℳ
+11.
 ## 脚注
 
 ## 外部リンク
@@ -137,8 +138,8 @@
 
 [Category:浜崎あゆみのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:浜崎あゆみのベスト・アルバム "wikilink") [Category:2001年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2001年のベスト・アルバム "wikilink") [Category:松浦勝人がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:松浦勝人がプロデュースしたアルバム "wikilink") [Category:2001年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2001年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 
-1.  [宇多田・あゆ初回出荷800万枚 史上空前歌姫バトル](http://web.archive.org/web/20010605165938/http://www.yomiuri.co.jp/hochi/geinou/mar/o20010328_10.htm)、[スポーツ報知](../Page/スポーツ報知.md "wikilink")、2001年3月28日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
-2.  「」、[エイベックス・グループ・ホールディングス](https://ja.wikipedia.org/wiki/エイベックス・グループ・ホールディングス "wikilink")、2010年、8頁。
+1.  [宇多田・あゆ初回出荷800万枚 史上空前歌姫バトル](https://web.archive.org/web/20010605165938/http://www.yomiuri.co.jp/hochi/geinou/mar/o20010328_10.htm)、[スポーツ報知](../Page/スポーツ報知.md "wikilink")、2001年3月28日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+2.  」、[エイベックス・グループ・ホールディングス](https://ja.wikipedia.org/wiki/エイベックス・グループ・ホールディングス "wikilink")、2010年、8頁。
 3.  [浜崎あゆみアルバム売上ランキング](http://www.oricon.co.jp/prof/246497/rank/album/)
 4.
 5.

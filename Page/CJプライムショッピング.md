@@ -221,6 +221,6 @@
 
 [Category:通信販売業](https://ja.wikipedia.org/wiki/Category:通信販売業 "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:愛知県発祥の企業](https://ja.wikipedia.org/wiki/Category:愛知県発祥の企業 "wikilink") [Category:かつて存在したスカパー\!のテレビチャンネル](https://ja.wikipedia.org/wiki/Category:かつて存在したスカパー!のテレビチャンネル "wikilink") [Category:2000年上場の企業](https://ja.wikipedia.org/wiki/Category:2000年上場の企業 "wikilink")
 
-1.  会社テンプレートの法人番号から法人番号サイトにて閉鎖を確認できる
+1.  [株式会社ＣＪプライムショッピングの情報｜国税庁法人番号公表サイト](https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=1010401090943)
 2.  [韓国のCJOショッピング 〝プライムショッピング〟を買収、韓国のTV通販企業が子会社化](http://www.tsuhanshinbun.com/archive/2011/02/post-654.html)（[通販新聞](https://ja.wikipedia.org/wiki/通販新聞 "wikilink") 2011年2月3日）
 3.  \[<http://www.tsuhanshinbun.com/archive/2013/02/post-1413.html>　ＣＪプライムショッピング　ヘアケアの戦略商品投入、ローラさん起用で拡販\]（[通販新聞](https://ja.wikipedia.org/wiki/通販新聞 "wikilink") 2013年2月14日）

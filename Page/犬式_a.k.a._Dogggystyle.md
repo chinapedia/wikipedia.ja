@@ -271,7 +271,7 @@ XQFD-1001</p></td>
 
 ## 外部リンク
 
-  - [Dogggystyle｜Victor Entertainment](http://www.jvcmusic.co.jp/-/Artist/A016750.html)
+  - [Dogggystyle｜Victor Entertainment](https://www.jvcmusic.co.jp/-/Artist/A016750.html)
 
 <!-- end list -->
 

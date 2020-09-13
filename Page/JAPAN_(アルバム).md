@@ -220,7 +220,7 @@ TOTT-6355 (CT)</p></td>
 1.
 2.
 3.  \[ <http://archive.is/MiSn2> NHKアーカイブス 「[第41回NHK紅白歌合戦](../Page/第41回NHK紅白歌合戦.md "wikilink")」\] 1990年12月31日放送（2013年5月1日時点の[アーカイブ](https://ja.wikipedia.org/wiki/archive.is "wikilink")）
-4.  [長渕剛　13年ぶり紅白出場へ](http://web.archive.org/web/20031203015126/http://www.sponichi.co.jp/entertainment/kiji/2003/11/26/02.html)、[スポニチアネックス](../Page/スポーツニッポン.md "wikilink")、2003年11月26日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+4.  [長渕剛　13年ぶり紅白出場へ](https://web.archive.org/web/20031203015126/http://www.sponichi.co.jp/entertainment/kiji/2003/11/26/02.html)、[スポニチアネックス](../Page/スポーツニッポン.md "wikilink")、2003年11月26日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
 5.
 6.
 7.  [第5回日本ゴールドディスク大賞](http://www.golddisc.jp/award/05/index.html) 1991年3月

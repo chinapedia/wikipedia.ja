@@ -5,17 +5,17 @@
 
 ## 解説
 
-前作「[Boys & Girls](../Page/Boys_&_Girls_\(浜崎あゆみの曲\).md "wikilink")」よりわずか1か月でのリリースとなった。前作が3週連続でチャート1位を記録し大ブレイクした矢先、当時業界としては異例の4曲A面（全て本人出演のタイアップ付きでアルバムに近い）作品だったため、初動売上は前作から更に倍増し、初の50万枚超えとなった。
+前作「[Boys & Girls](../Page/Boys_&_Girls_\(浜崎あゆみの曲\).md "wikilink")」よりわずか1か月でのリリースとなった。前作が3週連続でチャート1位を記録しブレイクした矢先、当時業界としては異例の4曲A面（全て本人出演のタイアップ付きでアルバムに近い）作品だったため、初動売上は前作から更に倍増し初の50万枚超えとなり、浜崎あゆみの人気を急激に押し上げることに成功した。
 
-シングルのタイトルは『A』であるが、「A」というタイトルの曲が収録されているわけではなく、「monochrome」、「too late」、「Trauma」、「End roll」の4曲を収録した作品となっている。そのため、歌番組によってそれぞれ別の曲を披露していた。
+表題曲が存在せず、「monochrome」、「too late」、「Trauma」、「End roll」の4曲を収録した作品となっている。そのため、[音楽番組](../Page/音楽番組.md "wikilink")ごとにそれぞれ別の曲を披露していた。[オリコンチャート](../Page/オリコンチャート.md "wikilink")におけるシングルのタイトル表記では「monochrome」が表題曲扱いの『**monochrome（『A（monochrome, too late, Trauma, End roll）』（4曲A面））**』となっている\[1\]。
 
 4曲共に[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は制作されず、各楽曲のタイアップCM映像を編集し制作した短い映像（TVスポットおよび店頭用ビデオ）が作られたのみである。なお、全ての収録曲が発売1-2ヶ月前から本人出演CMで大量オンエアされていた。
 
-累計163.1万枚を売り上げ（[オリコン調べ](../Page/オリコンチャート.md "wikilink")）、初の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")シングルで最大のヒットシングルとなったが、リミックス含めて14曲という収録曲数の関係上、日本レコード協会では[アルバム](../Page/アルバム.md "wikilink")扱いとなっている。（そのため、1曲で知名度を押し上げた前作「Boys\&Girls」が同年の代表曲として扱われることが圧倒的に多い）。
+累計163.1万枚を売り上げ（[オリコン調べ](../Page/オリコンチャート.md "wikilink")）、オリコン調べにおいて初の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")シングルで最大の売上のシングル\[2\]となったが、リミックス含めて14曲という収録曲数の関係上、日本レコード協会では[アルバム](../Page/アルバム.md "wikilink")扱いとなっている。また、本作のヒットで前作「Boys\&Girls」も後追いでミリオンセラーとなった。そのため、「Boys\&Girls」が同年の代表曲として扱われることが圧倒的に多い。
 
-1999年[10月6日](../Page/10月6日.md "wikilink")には、本作収録曲の[リミックス](../Page/リミックス.md "wikilink")を収録した[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")『[A -side TYO](http://avex.jp/ayu/discography/detail.php?id=1003299)』と『[A -side NYC](http://avex.jp/ayu/discography/detail.php?id=1003300)』が[Rhythm REPUBLICより](../Page/Rhythm_REPUBLIC.md "wikilink")2作同時発売された。なお[アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[2001年](../Page/2001年.md "wikilink")に「End roll」を除く3曲のリミックスがそれぞれアナログ盤でavex usaより発売されている\[1\]\[2\]\[3\]。
+1999年[10月6日](../Page/10月6日.md "wikilink")には、本作収録曲の[リミックス](../Page/リミックス.md "wikilink")を収録した[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")『[A -side TYO](http://avex.jp/ayu/discography/detail.php?id=1003299)』と『[A -side NYC](http://avex.jp/ayu/discography/detail.php?id=1003300)』が[Rhythm REPUBLICより](../Page/Rhythm_REPUBLIC.md "wikilink")2作同時発売された。なお[アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[2001年](../Page/2001年.md "wikilink")に「End roll」を除く3曲のリミックスがそれぞれアナログ盤でavex usaより発売されている\[3\]\[4\]\[5\]。
 
-翌年3月の『[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")』にて本作が、ソング・オブ・ザ・イヤー ゴールドディスクとなった\[4\]。
+翌年3月の『[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")』にて本作が、ソング・オブ・ザ・イヤー ゴールドディスクとなった\[6\]。
 
 ## 収録曲
 
@@ -127,9 +127,11 @@
 
   - [DISCOGRAPHY – ayumi hamasaki](http://avex.jp/ayu/discography/detail.php?id=1003297)
 
-[Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:1999年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:クアトロA面シングル](https://ja.wikipedia.org/wiki/Category:クアトロA面シングル "wikilink")
+[Category:1999年のクアトロA面シングル](https://ja.wikipedia.org/wiki/Category:1999年のクアトロA面シングル "wikilink") [Category:1999年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink")
 
-1.  [Monochrome (Vinyl) at Discogs](http://www.discogs.com/ja/Ayumi-Hamasaki-Monochrome/release/547530)
-2.  [Too Late (Remixed By Soul Solution) (Vinyl) at Discogs](http://www.discogs.com/ja/Ayumi-Hamasaki-Too-Late/release/547234)
-3.  [Trauma (Vinyl) at Discogs](http://www.discogs.com/ja/Ayumi-Hamasaki-Trauma/release/528717)
-4.  [浜崎あゆみ15周年記念特集](https://shop.mu-mo.net/st/event/ayu15anniv/)
+1.  [浜崎あゆみのシングル売上ランキング](https://www.oricon.co.jp/prof/246497/rank/single/)、ORICON NEWS - 2020年7月28日閲覧。
+2.
+3.  [Monochrome (Vinyl) at Discogs](http://www.discogs.com/ja/Ayumi-Hamasaki-Monochrome/release/547530)
+4.  [Too Late (Remixed By Soul Solution) (Vinyl) at Discogs](http://www.discogs.com/ja/Ayumi-Hamasaki-Too-Late/release/547234)
+5.  [Trauma (Vinyl) at Discogs](http://www.discogs.com/ja/Ayumi-Hamasaki-Trauma/release/528717)
+6.  [浜崎あゆみ15周年記念特集](https://shop.mu-mo.net/st/event/ayu15anniv/)

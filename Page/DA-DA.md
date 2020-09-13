@@ -1,16 +1,25 @@
 > この記事は[DA-DA](https://ja.wikipedia.org/wiki/DA-DA)から翻訳されています。
 
 
-**DA-DA**（だだ）とは、春名和昭と植村茂浩からなる日本の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。[松竹芸能](../Page/松竹芸能.md "wikilink")に所属。[1989年](../Page/1989年.md "wikilink")8月コンビ結成、[2009年](../Page/2009年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")解散。
+**DA-DA**（だだ）は、かつて[松竹芸能](../Page/松竹芸能.md "wikilink")で活動していた日本の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。[1989年](../Page/1989年.md "wikilink")[8月](../Page/8月.md "wikilink")結成、[2009年](../Page/2009年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")解散。
 
 ## メンバー
 
-  - **春名和昭**（はるな かずあき、 - ）[兵庫県](../Page/兵庫県.md "wikilink")[たつの市](../Page/たつの市.md "wikilink")（旧新宮町）出身、血液型[AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")、趣味は水撒き、ボケを担当。春名の方がチョンマゲをかぶる時代劇コントが得意。後輩芸人を引き連れて「春名軍団」を組織する。[ますだおかだ角パァ\!](../Page/ますだおかだ角パァ!.md "wikilink")では[高田総統](../Page/高田総統.md "wikilink")を模したコスチュームで出演。2014年、芸能界引退。
-  - **植村茂浩**（うえむら しげひろ、 - ）兵庫県たつの市（旧新宮町）出身、血液型[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")、趣味は[バスケットボール](../Page/バスケットボール.md "wikilink")、ツッコミを担当。
+  - **春名 和昭**（はるな かずあき、 - ）ボケ担当
+      - [兵庫県](../Page/兵庫県.md "wikilink")[たつの市](../Page/たつの市.md "wikilink")（旧新宮町）出身。血液型[AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+      - 趣味は水撒き。春名の方がチョンマゲをかぶる時代劇コントが得意。
+      - 後輩芸人を引き連れて「春名軍団」を組織する。[ますだおかだ角パァ\!](../Page/ますだおかだ角パァ!.md "wikilink")では[高田総統](../Page/高田総統.md "wikilink")を模したコスチュームで出演。
+      - コンビ解散後はピン芸人の活動を経て、[2014年](../Page/2014年.md "wikilink")に芸能界引退。
+  - **植村 茂浩**（うえむら しげひろ、 - ）ツッコミ担当
+      - 兵庫県たつの市（旧新宮町）出身。血液型[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+      - 趣味は[バスケットボール](../Page/バスケットボール.md "wikilink")。
+      - コンビ解散後は、元左ミドルの[華井二等兵](https://ja.wikipedia.org/wiki/華井二等兵 "wikilink")とのコンビ「**モナコ大作戦**」として活動。現在はピン芸人として活動中。
 
 ## 経歴
 
-松竹の中でも若手扱いだが[シンデレラエキスプレス](../Page/シンデレラエキスプレス.md "wikilink")と共に芸歴は20年を超えており、2005年の[M-1グランプリ](../Page/M-1グランプリ.md "wikilink")には音楽グループの「珍獣王国」のメンバー・山下純一と3人で「だだぐるま」として出場した。
+1989年8月コンビ結成。[爆笑BOOING](../Page/爆笑BOOING.md "wikilink")では5週勝ち抜きチャンピオンとなり、グランドチャンピオン大会へ進出。
+
+松竹の中でも若手扱いだが[シンデレラエキスプレス](../Page/シンデレラエキスプレス.md "wikilink")と共に芸歴は20年を超えており、2005年の[M-1グランプリ](../Page/M-1グランプリ.md "wikilink")には音楽グループの「珍獣王国」のメンバー・山下純一と3人で「だだぐるま」として出場した。2009年の[キングオブコント](../Page/キングオブコント.md "wikilink")では準決勝へと進出。
 
 2009年11月21日をもって解散した際には本人たちのブログのほか、同じ事務所の[よゐこ](../Page/よゐこ.md "wikilink")[有野晋哉](../Page/有野晋哉.md "wikilink")のブログでも報告された。
 
@@ -24,7 +33,7 @@
   - [Mars TV](../Page/Mars_TV.md "wikilink")
   - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink") 戦績1勝6敗 最高421KB（これはオフエアの記録で、オンエアは381KB）
       - 2000年12月10日放送回の大阪大会では、421KBながらも6位オフエアであった。この記録は当時のオフエア最高記録でもあった(現在では[スピードワゴン](../Page/スピードワゴン.md "wikilink")と[パッション屋良](../Page/パッション屋良.md "wikilink")が461KBでオフエアとなり記録を塗り替えている。また421KBでオフエアとなった回では奇しくも[田上よしえ](../Page/田上よしえ.md "wikilink")がネタの最中に「オフエア」という言葉を生み出した回でもある)。初オンエアは2003年9月19日放送回の大阪大会で6回目の挑戦で達成した。6回目の挑戦で初オンエアを獲得するのは彼らが初となる。
-      - 7回中5回が大阪大会での挑戦であり、残る2回は東京収録だった。2003年11月7日放送回の東京収録では113KBと自己最低を記録してしまった。
+      - 7回中5回が大阪大会での挑戦であり、残る2回は東京収録だった。2003年11月7日放送回の東京収録では117KBと自己最低を記録してしまった。
   - [ますだおかだ角パァ\!](../Page/ますだおかだ角パァ!.md "wikilink")
   - [上方演芸ホール](../Page/上方演芸ホール.md "wikilink")
   - [くるくるドカン〜新しい波を探して〜](../Page/くるくるドカン〜新しい波を探して〜.md "wikilink")
@@ -59,4 +68,4 @@
   - [DA-DA春名オフィシャルブログ「春名ふとん店」](https://ameblo.jp/roto-atarimasita/)
   - [DA-DA植村オフィシャルブログ「USB」](https://ameblo.jp/moon-dada-mimi/)
 
-[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:松竹芸能](https://ja.wikipedia.org/wiki/Category:松竹芸能 "wikilink")
+[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:松竹芸能](https://ja.wikipedia.org/wiki/Category:松竹芸能 "wikilink") [Category:過去の松竹芸能所属者](https://ja.wikipedia.org/wiki/Category:過去の松竹芸能所属者 "wikilink")

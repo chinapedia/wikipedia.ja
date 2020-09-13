@@ -616,4 +616,4 @@
   - [ペパーミント](http://www.peppermint-web.net/)(ボーカルwakanaのソロプロジェクト)
 
   -
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:スカ](https://ja.wikipedia.org/wiki/Category:スカ "wikilink") [Category:名古屋市出身の人物](https://ja.wikipedia.org/wiki/Category:名古屋市出身の人物 "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink") [Category:2011年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2011年に解散した音楽グループ "wikilink") [Category:7人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:7人組の音楽グループ "wikilink") [Category:スカ](https://ja.wikipedia.org/wiki/Category:スカ "wikilink") [Category:名古屋市出身の人物](https://ja.wikipedia.org/wiki/Category:名古屋市出身の人物 "wikilink")

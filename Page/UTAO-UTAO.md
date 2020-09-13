@@ -9,8 +9,6 @@
 
 3年10ヶ月ぶりに非[コピーコントロールCD](../Page/コピーコントロールCD.md "wikilink")での発売となった。
 
-[坂本](../Page/坂本昌行.md "wikilink")、[井ノ原](../Page/井ノ原快彦.md "wikilink")、[岡田にソロパートが与えられている](../Page/岡田准一.md "wikilink")。
-
 ## 収録曲
 
 1.  **UTAO-UTAO**（読み：うたをうたおう）

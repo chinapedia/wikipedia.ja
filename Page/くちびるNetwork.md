@@ -123,7 +123,7 @@
 
   - 注釈
 
-[Category:岡田有希子の楽曲](https://ja.wikipedia.org/wiki/Category:岡田有希子の楽曲 "wikilink") [Category:松田聖子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松田聖子が制作した楽曲 "wikilink") [Category:坂本龍一が作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一が作詞作曲した楽曲 "wikilink") [Category:カネボウ化粧品のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:カネボウ化粧品のコマーシャルソング "wikilink") [Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:1986年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1986年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:楽曲_く](https://ja.wikipedia.org/wiki/Category:楽曲_く "wikilink")
+[Category:岡田有希子の楽曲](https://ja.wikipedia.org/wiki/Category:岡田有希子の楽曲 "wikilink") [Category:松田聖子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松田聖子が制作した楽曲 "wikilink") [Category:坂本龍一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一が制作した楽曲 "wikilink") [Category:カネボウ化粧品のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:カネボウ化粧品のコマーシャルソング "wikilink") [Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:1986年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1986年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:楽曲_く](https://ja.wikipedia.org/wiki/Category:楽曲_く "wikilink")
 
 1.  Youtube[1](https://www.youtube.com/watch?v=XlBm69MWFAo)
 2.

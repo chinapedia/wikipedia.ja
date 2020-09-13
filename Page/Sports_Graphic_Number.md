@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に創刊。創刊前年の9月から誌名を公募、1980年1月1日付けで、『Sports Graphic **Number1』**になったと公表、ポスターに[王貞治](../Page/王貞治.md "wikilink")、[江夏豊](../Page/江夏豊.md "wikilink")を起用したCMでも「ナンバーワン」として告知。1の部分は号数であり、毎号変化するとすると対外的に説明し、準備号も「Number1」というタイトルで発行した\[1\]。しかし、創刊後に毎号変化する誌名は認められなかったとして、急遽雑誌名を「Number」に変更した。
+[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に創刊（初代編集長は[岡崎満義](https://ja.wikipedia.org/wiki/岡崎満義 "wikilink")）。創刊前年の9月から誌名を公募、1980年1月1日付けで、『Sports Graphic **Number1』**になったと公表、ポスターに[王貞治](../Page/王貞治.md "wikilink")、[江夏豊](../Page/江夏豊.md "wikilink")を起用したCMでも「ナンバーワン」として告知。1の部分は号数であり、毎号変化するとすると対外的に説明し、準備号も「Number1」というタイトルで発行した\[1\]。しかし、創刊後に毎号変化する誌名は認められなかったとして、急遽雑誌名を「Number」に変更した。
 
 [アメリカのスポーツ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[週刊誌](../Page/週刊誌.md "wikilink")「[スポーツ・イラストレイテッド](../Page/スポーツ・イラストレイテッド.md "wikilink")」のような観戦者向けのスポーツ全般を扱う雑誌として発刊され、記事や写真の提供を受ける提携誌でもあった。創刊号に掲載された[山際淳司](../Page/山際淳司.md "wikilink")の『[江夏の21球](../Page/江夏の21球.md "wikilink")』の[ノンフィクション](../Page/ノンフィクション.md "wikilink")の手法でアスリートの内面を創造するスタイルは話題を呼び、従来のスポーツ誌と異なる『Number』のスタイルを印象づけた\[2\] が、特定の競技ファンを購買層とするスポーツ専門誌や、即時報道できる[スポーツ新聞](../Page/スポーツ新聞.md "wikilink")が強みを見せていたため、創刊以来10年は赤字続きだった。
 
@@ -19,7 +19,7 @@
 
 ウェブサイトではかつてはMSNスポーツ、その後[goo](https://ja.wikipedia.org/wiki/goo "wikilink")と共同であったが、現在は独立。本誌とは別に各種記事・コラムを配信している。
 
-2020年3月26日の刊行で、第1000号を記録した\[5\]。第1000号の表紙は、イチローが飾った\[6\]。
+2020年3月26日の刊行で、創刊1000号を記録した\[5\]。第1000号の表紙は、イチローが飾った\[6\]。
 
 ## 特徴
 
@@ -27,13 +27,17 @@
 
 記事は署名原稿がほとんどを占め、[沢木耕太郎](../Page/沢木耕太郎.md "wikilink")や[乙武洋匡](../Page/乙武洋匡.md "wikilink")などの著名なライターの特集記事が掲載されたり、[海老沢泰久](../Page/海老沢泰久.md "wikilink")・[村上春樹](../Page/村上春樹.md "wikilink")など小説家の寄稿もあり、文芸出版も行なっている。
 
+## 記録
+
+文芸春秋のリリースによると、創刊1000号時点で最も多く表紙に登場したのは[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink")（32回）であり、2位以下にはサッカー界の[本田圭佑](https://ja.wikipedia.org/wiki/本田圭佑 "wikilink")（24回）、[中田英寿](../Page/中田英寿.md "wikilink")（21回）、[三浦知良](../Page/三浦知良.md "wikilink")（18回）が続く。
+
 ## 特集記事
 
 毎号、特集記事を組んでおり、巻末にコラム記事等が書かれている。特集記事は、基本的に[Jリーグ](https://ja.wikipedia.org/wiki/Jリーグ "wikilink")発足以降は[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")特集記事が最も多くを占めるようになったが、その時期で世間の話題が高いスポーツを特集しており、様々なジャンルのスポーツが特集される。
 
 発刊当初の1980年代は、日本の[プロ野球](../Page/プロ野球.md "wikilink")・[競馬](../Page/競馬.md "wikilink")・[ラグビー](../Page/ラグビー.md "wikilink")が特集されることが多く、1980年代後半にはF1ブームの影響もあり、F1が多く特集されるようになった。1990年代に入ると、[NBA](../Page/NBA.md "wikilink")や[MLB等も特集されるようになり](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")、1980年代から1990年代にかけて定期的に特集されていた[プロレス](../Page/プロレス.md "wikilink")に代わって、[2000年代](../Page/2000年代.md "wikilink")前半になると[総合格闘技](../Page/総合格闘技.md "wikilink")を中心とした[格闘技](../Page/格闘技.md "wikilink")特集が掲載されることが多くなったが、総合格闘技イベント[PRIDEの大会停止により](../Page/PRIDE_\(格闘技イベント\).md "wikilink")、2007年代以降は特集の回数が減っている。プロレスに関しては、2015年7月16日発売の882号「[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")、No.1宣言。」で14年ぶりの特集が組まれた。同号では、創刊以来初となる「[インターネット](../Page/インターネット.md "wikilink")投票（新日本プロレス総選挙）で表紙を決める」という試みが行われ\[7\]、結果1位に選ばれた[棚橋弘至](../Page/棚橋弘至.md "wikilink")が表紙を飾った\[8\]。
 
-日本のプロ野球の記事は減少の傾向にあるが、現在も特集記事は組まれている。[西鉄ライオンズ](https://ja.wikipedia.org/wiki/西鉄ライオンズ "wikilink")、[阪神タイガース](../Page/阪神タイガース.md "wikilink")、[ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")、[西武ライオンズ等の特定の球団の特集や](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")、[長嶋茂雄](../Page/長嶋茂雄.md "wikilink")・[中畑清](../Page/中畑清.md "wikilink")・[マイケル・ジョーダン](../Page/マイケル・ジョーダン.md "wikilink")・[野茂英雄](../Page/野茂英雄.md "wikilink")・[武豊](../Page/武豊.md "wikilink")・[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink")・[中田英寿](../Page/中田英寿.md "wikilink")・[本田圭佑](https://ja.wikipedia.org/wiki/本田圭佑 "wikilink")等、特定の選手を特集することもあった。[オリンピック開催時は夏冬とも通例的に特集される](../Page/近代オリンピック.md "wikilink")。
+日本のプロ野球の記事は減少の傾向にあるが、現在も特集記事は組まれている。[西鉄ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")、[阪神タイガース](../Page/阪神タイガース.md "wikilink")、[ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")、[西武ライオンズ等の特定の球団の特集や](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")、[長嶋茂雄](../Page/長嶋茂雄.md "wikilink")・[中畑清](../Page/中畑清.md "wikilink")・[マイケル・ジョーダン](../Page/マイケル・ジョーダン.md "wikilink")・[野茂英雄](../Page/野茂英雄.md "wikilink")・[武豊](../Page/武豊.md "wikilink")・[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink")・[中田英寿](../Page/中田英寿.md "wikilink")・[本田圭佑](https://ja.wikipedia.org/wiki/本田圭佑 "wikilink")等、特定の選手を特集することもあった。[オリンピック開催時は夏冬とも通例的に特集される](../Page/近代オリンピック.md "wikilink")。
 
 2000年代後半頃からは、「愛読書」「メンタル」「思考法」などのスポーツジャンルにとらわれない特集テーマを設定し、それに関係の深い選手をあらゆる競技からピックアップすることも多くなった。
 

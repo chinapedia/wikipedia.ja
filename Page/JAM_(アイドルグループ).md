@@ -50,4 +50,4 @@
   - [DOWN with AMI](https://ameblo.jp/ami-musee/) (春名亜美のブログ：GiRLSGATE)
   - [Misako's Room](https://ameblo.jp/misako-littleberry/) (村上実沙子のブログ：GiRLSGATE)
 
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本の女性ファッションモデル](https://ja.wikipedia.org/wiki/Category:日本の女性ファッションモデル "wikilink") [Category:ViViモデルズ](https://ja.wikipedia.org/wiki/Category:ViViモデルズ "wikilink") [Category:近畿地方のローカルアイドル](https://ja.wikipedia.org/wiki/Category:近畿地方のローカルアイドル "wikilink") [Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:日本の女性ファッションモデル](https://ja.wikipedia.org/wiki/Category:日本の女性ファッションモデル "wikilink") [Category:ViViモデルズ](https://ja.wikipedia.org/wiki/Category:ViViモデルズ "wikilink") [Category:近畿地方のローカルアイドル](https://ja.wikipedia.org/wiki/Category:近畿地方のローカルアイドル "wikilink") [Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink")

@@ -5,9 +5,9 @@
 
 ## 概要
 
-1981年に[NWA北米タッグ王座が封印されて以来](../Page/北米タッグ王座.md "wikilink")、新日本は長らくタッグ王座不在の時期が続いていたが、1985年5月に[WWFインターナショナル・タッグ王座](https://ja.wikipedia.org/wiki/WWFインターナショナル・タッグ王座 "wikilink")が復活され、[藤波辰巳](../Page/藤波辰爾.md "wikilink")&[木村健吾組が第](../Page/木村健悟.md "wikilink")8代王者組となり、4度の防衛を果たしていた。しかし、10月末に[WWFが新日本との業務提携を解消して同王座は復活からわずか](../Page/WWE.md "wikilink")5ヶ月で[WWFインターナショナル・ヘビー級王座](https://ja.wikipedia.org/wiki/WWFインターナショナル・ヘビー級王座 "wikilink")、[WWFジュニアヘビー級王座](https://ja.wikipedia.org/wiki/WWFジュニアヘビー級王座 "wikilink")と共に封印されてしまった。それに代わるタッグ王座として新日本プロレスが[IWGP](../Page/IWGP.md "wikilink")の王座として初めて認定したタイトルが、このIWGPタッグ王座である。
+1981年に[NWA北米タッグ王座が封印されて以来](../Page/北米タッグ王座.md "wikilink")、新日本は長らくタッグ王座不在の時期が続いていたが、1985年5月に[WWFインターナショナル・タッグ王座](https://ja.wikipedia.org/wiki/WWFインターナショナル・タッグ王座 "wikilink")が復活され、[藤波辰巳](../Page/藤波辰爾.md "wikilink")&[木村健吾組が第](../Page/木村健悟.md "wikilink")8代王者となり、4度の防衛を果たしていた。しかし、10月末に[WWFが新日本との業務提携を解消して同王座は復活からわずか](../Page/WWE.md "wikilink")5ヶ月で[WWFインターナショナル・ヘビー級王座](https://ja.wikipedia.org/wiki/WWFインターナショナル・ヘビー級王座 "wikilink")、[WWFジュニアヘビー級王座](https://ja.wikipedia.org/wiki/WWFジュニアヘビー級王座 "wikilink")と共に封印されてしまった。それに代わるタッグ王座として新日本プロレスが[IWGP](../Page/IWGP.md "wikilink")の王座として初めて認定したタイトルが、このIWGPタッグ王座である。
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")11月、本来行われる予定だった「[MSGタッグリーグ戦](../Page/MSGタッグ・リーグ戦.md "wikilink")」が業務提携解消で「[MSG](../Page/マディソン・スクエア・ガーデン.md "wikilink")」の名称が使えなくなった事から、その代替として「IWGPタッグリーグ戦」の開催が発表され、優勝チームが初代IWGPタッグ王者チームに認定されることになった。ところがリーグ戦1位通過の[ブルーザー・ブロディ](../Page/ブルーザー・ブロディ.md "wikilink")&[ジミー・スヌーカ](../Page/ジミー・スヌーカ.md "wikilink")組が[12月12日](../Page/12月12日.md "wikilink")の決勝を[ボイコット](../Page/ボイコット.md "wikilink")して帰国してしまった為、急遽[アントニオ猪木](../Page/アントニオ猪木.md "wikilink")＆[坂口征二](../Page/坂口征二.md "wikilink")組と藤波＆木村組のリーグ戦2位同士の間で決勝戦が行われ、[ドラゴン・スープレックス](../Page/ドラゴン・スープレックス.md "wikilink")・ホールドで藤波が猪木からで3カウントを奪い、WWFインターナショナル・タッグ王座 組だった藤波＆木村組が記念すべき初代王者組に輝いた。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")11月、本来行われる予定だった「[MSGタッグリーグ戦](../Page/MSGタッグ・リーグ戦.md "wikilink")」が業務提携解消で「[MSG](../Page/マディソン・スクエア・ガーデン.md "wikilink")」の名称が使えなくなった事から、その代替として「IWGPタッグリーグ戦」の開催が発表され、優勝チームが初代IWGPタッグ王者チームに認定されることになった。ところがリーグ戦1位通過の[ブルーザー・ブロディ](../Page/ブルーザー・ブロディ.md "wikilink")&[ジミー・スヌーカ](../Page/ジミー・スヌーカ.md "wikilink")組が[12月12日](../Page/12月12日.md "wikilink")の決勝を[ボイコット](../Page/ボイコット.md "wikilink")して帰国してしまった為、急遽[アントニオ猪木](../Page/アントニオ猪木.md "wikilink")＆[坂口征二](../Page/坂口征二.md "wikilink")組と藤波＆木村組のリーグ戦2位同士の間で決勝戦が行われ、[ドラゴン・スープレックス](../Page/ドラゴン・スープレックス.md "wikilink")・ホールドで藤波が猪木からで3カウントを奪い、WWFインターナショナル・タッグ王者だった藤波＆木村組が記念すべき初代王者に輝いた。
 
 ## 歴代王者
 
@@ -675,7 +675,7 @@
 </tr>
 <tr class="odd">
 <td><p>第79代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/渡辺高章" title="wikilink">EVIL</a>&amp;<a href="../Page/真田聖也.md" title="wikilink">SANADA</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/EVIL" title="wikilink">EVIL</a>&amp;<a href="../Page/SANADA.md" title="wikilink">SANADA</a></p></td>
 <td><p>1</p></td>
 <td><p>2</p></td>
 <td><p>2018年1月4日</p></td>
@@ -733,9 +733,17 @@
 <td><p>第86代</p></td>
 <td><p>棚橋弘至&amp;<a href="../Page/飯伏幸太.md" title="wikilink">飯伏幸太</a></p></td>
 <td><p>1</p></td>
-<td></td>
+<td><p>0</p></td>
 <td><p>2020年2月21日</p></td>
 <td><p>後楽園ホール</p></td>
+</tr>
+<tr class="odd">
+<td><p>第87代</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/タイチ_(プロレスラー)" title="wikilink">タイチ</a>&amp;<a href="https://ja.wikipedia.org/wiki/ザック・セイバーJr." title="wikilink">ザック・セイバーJr.</a></p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+<td><p>2020年7月12日</p></td>
+<td><p>大阪城ホール</p></td>
 </tr>
 </tbody>
 </table>
@@ -759,7 +767,7 @@
   - 第59代王者は、調印式のボイコット、2012年6月16日大阪での試合内容並びに結果（ノーコンテスト）、[菅林直樹](https://ja.wikipedia.org/wiki/菅林直樹 "wikilink")新日本プロレス社長への暴行を受けて新日本プロレス社長、IWGP実行委員会、審判部で協議の結果、矢野&飯塚組は王者にふさわしくないと判断、6月16日の大阪の防衛も認めず王座剥奪。
   - 第60代王者は、2012年7月22日に天山&小島組と矢野&飯塚組の間で王者決定戦を実施、勝利した天山&小島組を第60代王者に認定。なお試合は、場外カウント無し、4人のレフェリーが試合を裁く特別ルールで行われた。
   - 第63代王者は[NWA世界タッグチーム王座](../Page/NWA世界タッグチーム王座.md "wikilink")とのダブル選手権試合で、NWA世界タッグ王者組のアーチャー&スミス組、第62代IWGPタッグ王者組の天山&小島組、[ロブ・コンウェイ](../Page/ロブ・コンウェイ.md "wikilink")&[ジャックス・デイン](https://ja.wikipedia.org/wiki/ジャックス・デイン "wikilink")組との変則3WAYマッチで行われた。この試合は60分2本勝負で行われ、1本目の勝利者チームはNWA世界タッグ王座に認定、2本目の勝利者チームはIWGPタッグ王座に認定というルールで行われた。試合結果は1本目をロブ&ジャックス組、2本目をアーチャー&スミス組となり、第63代王者にアーチャー&スミス組が認定された。
-  - 第83代王者は[ROH世界タッグ王座](https://ja.wikipedia.org/wiki/ROH世界タッグ王座 "wikilink")チームとの ダブル選手権試合4WAYマッチでROH世界タッグ王者のブロディ・キング＆PCO組、第83代IWGPタッグ王者組のタンガ・ロア＆タマ・トンガ組、SANADA＆EVIL組、マーク・ブリスコ＆ジェイ・ブリスコ組行われた。
+  - 第83代王者は[ROH世界タッグ王座](https://ja.wikipedia.org/wiki/ROH世界タッグ王座 "wikilink")チームとの ダブル選手権試合4WAYマッチでROH世界タッグ王者のブロディ・キング＆PCO組、第83代IWGPタッグ王者のタンガ・ロア＆タマ・トンガ組、SANADA＆EVIL組、マーク・ブリスコ＆ジェイ・ブリスコ組行われた。
 
 ## 外部リンク
 

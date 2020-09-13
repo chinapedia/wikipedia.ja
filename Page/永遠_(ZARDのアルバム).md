@@ -10,7 +10,7 @@
   - [コンポーザー](https://ja.wikipedia.org/wiki/コンポーザー "wikilink")には[織田哲郎](../Page/織田哲郎.md "wikilink")、[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")といったおなじみのメンバーをはじめ、[大野愛果](../Page/大野愛果.md "wikilink")、[北野正人](../Page/北野正人.md "wikilink")など多くの新人を起用。
   - 初回特典のボーナスディスクには、[ピチカート・ファイヴ](https://ja.wikipedia.org/wiki/ピチカート・ファイヴ "wikilink")の[小西康陽](../Page/小西康陽.md "wikilink")プロデュースによる「[Can't take my eyes off of you](../Page/君の瞳に恋してる.md "wikilink")」が収録されている。同封のはがきで応募すると、1999名に抽選で30cmの[LP盤がプレゼントされた](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")。その後、2万枚限定で[インディーズ](../Page/インディーズ.md "wikilink")から発売。なお、オリコンチャートではこのアナログ盤がシングルとして50位を記録しているため、シングルの連続トップ10記録は30thシングルの『[痛いくらい君があふれているよ](../Page/痛いくらい君があふれているよ.md "wikilink")』からの計算になっている。[2005年](../Page/2005年.md "wikilink")にファンクラブ会員限定のアルバム内にこの曲が再録された。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に洋楽カバーコンピレーションアルバム「[Christmas Non-Stop Carol](https://ja.wikipedia.org/wiki/Christmas_Non-Stop_Carol "wikilink")」は葉山たけしによるリアレンジが収録される。
   - 坂井泉水は、発売時に当作品の全収録曲のライナーノーツを「[NO.](../Page/NO..md "wikilink")」や各音楽雑誌などに寄せており、当作品のタイトルについて、「自分達の音楽が永遠にスタンダードになれば、との思いを込めた」と語っている。
-  - 1999年2月20日に放送された「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」において、「永遠」の坂井泉水本人の肉声によるコメントとレコーディングの様子を撮影したVTRが放送された。これが生前唯一の「COUNT DOWN TV」出演となった。またこの時に放送された「I feel fine, yeah」の音源は、アルバムに収録された音源とは別ミックスの音源である。
+  - 1999年2月20日に放送された「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」において、「永遠」の坂井泉水本人の肉声によるコメントとレコーディングの様子を撮影したVTRが放送された。これが生前唯一の「COUNT DOWN TV」出演となった。しかしながら、VTRは坂井の死後に公開された映像の中で、「雨に濡れて」のレコーディング時のものであることが確認されている。またこの時に放送された「I feel fine, yeah」の音源は、アルバムに収録された音源とは別ミックスの音源である。
 
 ## 収録曲
 

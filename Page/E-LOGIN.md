@@ -27,6 +27,6 @@
 
 ## 外部リンク
 
-  - [E-LOGiN](http://web.archive.org/web/20031205051410/http://www.enterbrain.co.jp/e-login/) - エンターブレイン（インターネットアーカイブ2003年12月5日分キャッシュ）
+  - [E-LOGiN](https://web.archive.org/web/20031205051410/http://www.enterbrain.co.jp/e-login/) - エンターブレイン（インターネットアーカイブ2003年12月5日分キャッシュ）
 
 [Category:アスペクト](https://ja.wikipedia.org/wiki/Category:アスペクト "wikilink") [Category:エンターブレインのゲーム雑誌](https://ja.wikipedia.org/wiki/Category:エンターブレインのゲーム雑誌 "wikilink") [Category:コンピュータゲーム雑誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:コンピュータゲーム雑誌_\(休廃刊\) "wikilink") [Category:アダルトゲーム雑誌](https://ja.wikipedia.org/wiki/Category:アダルトゲーム雑誌 "wikilink") [Category:リプレイ](https://ja.wikipedia.org/wiki/Category:リプレイ "wikilink") [Category:1995年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1995年創刊の雑誌 "wikilink") [Category:2003年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2003年休廃刊の雑誌 "wikilink")

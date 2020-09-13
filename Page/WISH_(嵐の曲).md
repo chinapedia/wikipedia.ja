@@ -56,6 +56,11 @@
 
 ## 脚注
 
+## 外部リンク
+
+  - [J Stormによる紹介ページ](https://www.j-storm.co.jp/arashi/discography/wish)
+  - [Johnny's netによる紹介ページ](https://www.johnnys-net.jp/page?id=discoDetail&artist=10&data=141)
+
 [Category:嵐の楽曲](https://ja.wikipedia.org/wiki/Category:嵐の楽曲 "wikilink") [Category:久保田洋司が制作した楽曲](https://ja.wikipedia.org/wiki/Category:久保田洋司が制作した楽曲 "wikilink") [Category:オオヤギヒロオが制作した楽曲](https://ja.wikipedia.org/wiki/Category:オオヤギヒロオが制作した楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:ジェイ・ストームの楽曲](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームの楽曲 "wikilink") [Category:2005年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2005年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:花より男子](https://ja.wikipedia.org/wiki/Category:花より男子 "wikilink") [Category:TBS金曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:TBS金曜ドラマの主題歌 "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")
 
 1.  『嵐 楽曲完全ガイド2016』（鉄人社、2015年11月14日発売、64頁）

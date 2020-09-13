@@ -431,6 +431,7 @@ B1.the Time is Now</p></td>
 | music controller  | テレビ東京『[ミュージックブレイク](https://ja.wikipedia.org/wiki/ミュージックブレイク "wikilink")』『イチオシ』エンディングテーマ                                                                                                                                          |
 | プラスチックガール         | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[給与明細](../Page/給与明細_\(テレビ番組\).md "wikilink")』エンディングテーマ                                                                                                                  |
 | キャンディーキューティー      | テレビ東京系『給与明細』エンディングテーマ                                                                                                                                                                                                            |
+| RGB               | [朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")『[ココイロ](https://ja.wikipedia.org/wiki/ココイロ "wikilink")』オープニングソング / エンディングジングル                                                                                                            |
 | レトロメモリー           | [ハウス食品](../Page/ハウス食品.md "wikilink")「おうちで食べよう。」第二弾キャンペーン〈ソリ遊び編〉・〈道草編〉CMソング                                                                                                                                                       |
 | 宇宙エレベーター          | [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『\[\[アイドリング                                                                                                                                                           |
 | Lucky Love        | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『\[\[スッキリ                                                                                                                                                                                |
@@ -507,7 +508,7 @@ B1.the Time is Now</p></td>
 
 ## 外部リンク
 
-  - [CAPSULE OFFICIAL WEB SITE](http://www.capsule-official.com/) - 公式ウェブサイト
+  - [CAPSULE OFFICIAL WEB SITE](https://www.capsule-official.com/) - 公式ウェブサイト
 
   - \[<https://wmg.jp/capsule/>　CAPSULE｜Warner Music Japan\] - Waner Music Japanのアーティストページ
 
@@ -521,7 +522,7 @@ B1.the Time is Now</p></td>
   -
   -
   -
-[Category:エレクトロニック・ミュージシャン](https://ja.wikipedia.org/wiki/Category:エレクトロニック・ミュージシャン "wikilink") [Category:ハウスミュージシャン](https://ja.wikipedia.org/wiki/Category:ハウスミュージシャン "wikilink") [Category:エレクトロニック・ダンス・ミュージック](https://ja.wikipedia.org/wiki/Category:エレクトロニック・ダンス・ミュージック "wikilink") [Category:テクノポップ](https://ja.wikipedia.org/wiki/Category:テクノポップ "wikilink") [Category:渋谷系](https://ja.wikipedia.org/wiki/Category:渋谷系 "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:1997年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に結成した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink") [Category:ヤマハミュージックコミュニケーションズのアーティスト](https://ja.wikipedia.org/wiki/Category:ヤマハミュージックコミュニケーションズのアーティスト "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
+[Category:エレクトロニック・ミュージシャン](https://ja.wikipedia.org/wiki/Category:エレクトロニック・ミュージシャン "wikilink") [Category:ハウスミュージシャン](https://ja.wikipedia.org/wiki/Category:ハウスミュージシャン "wikilink") [Category:エレクトロニック・ダンス・ミュージック](https://ja.wikipedia.org/wiki/Category:エレクトロニック・ダンス・ミュージック "wikilink") [Category:テクノポップ](https://ja.wikipedia.org/wiki/Category:テクノポップ "wikilink") [Category:渋谷系](https://ja.wikipedia.org/wiki/Category:渋谷系 "wikilink") [Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:1997年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に結成した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink") [Category:ヤマハミュージックコミュニケーションズのアーティスト](https://ja.wikipedia.org/wiki/Category:ヤマハミュージックコミュニケーションズのアーティスト "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
 
 1.  [CAPSULE|ASOBISYSTEM](http://asobisystem.com/capsule/)（ASOBISYSTEM）
 2.  [capsule『MORE\! MORE\! MORE\!』](http://www.oricon.co.jp/prof/artist/267893/products/music/787229/1/)（オリコン）

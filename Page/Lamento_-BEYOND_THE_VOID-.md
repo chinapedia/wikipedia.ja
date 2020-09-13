@@ -190,7 +190,7 @@
 <!-- end list -->
 
   -
-    [comic B's-LOG](https://ja.wikipedia.org/wiki/comic_B's-LOG "wikilink")（現在はコミックビーズログ エアレイド）にて連載されている[茶屋町勝呂](../Page/茶屋町勝呂.md "wikilink")による[コミカライズ](https://ja.wikipedia.org/wiki/コミカライズ "wikilink")作品。出版は[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")。
+    [comic B's-LOG](https://ja.wikipedia.org/wiki/comic_B's-LOG "wikilink")（現在はコミックビーズログ エアレイド）にて連載されている[茶屋町勝呂](../Page/茶屋町勝呂.md "wikilink")による[コミカライズ](../Page/コミカライズ.md "wikilink")作品。出版は[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")。
 
 <!-- end list -->
 

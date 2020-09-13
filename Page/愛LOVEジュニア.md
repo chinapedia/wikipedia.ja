@@ -19,10 +19,10 @@
 ### レギュラー
 
   - [ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")
-  - [滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")（[タッキー&翼](../Page/タッキー&翼.md "wikilink")）
-  - [今井翼](../Page/今井翼.md "wikilink")（タッキー&翼）
-  - [大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")（[嵐](../Page/嵐_\(グループ\).md "wikilink")）
-  - [櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")（嵐）
+      - [滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")
+      - [今井翼](../Page/今井翼.md "wikilink")
+      - [大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")
+      - [櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")
   - ウクレレ君
   - ほか
 
@@ -33,15 +33,23 @@
 ## コーナー
 
   - 天むすロシアンルーレット
-  - イントロDEドン
-  - ラップDEクッキング
-  - ZOKKONちゃん
-  - ボクシング講座
-  - 借り物しりとり
-  - こちょこちょイヤーン
-  - ジュニアサウンドストーリー
-  - DJカウントダウン
-  - 城山Jrハイスクール
-  - ほか
+    イントロDEドン
+    ラップDEクッキング
+    ZOKKONちゃん
+    ボクシング講座
+    借り物しりとり
+    こちょこちょイヤーン
+    ジュニアサウンドストーリー
+    DJカウントダウン
+    城山Jrハイスクール
+    ジュニア・ホームラン・バトル\[1\]
+    2チームに分かれ、どちらがたくさんホームランを打つことができるかを競う。
+  - Jr.サウンド・ストーリーⅡ\[2\]
+    最新ヒット曲をBGMにJr.がショート・ドラマを熱演する。
 
-[Category:1996年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1996年のテレビ番組_\(日本\) "wikilink") [Category:テレビ東京のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のバラエティ番組の歴史 "wikilink") [Category:テレビのアイドル番組](https://ja.wikipedia.org/wiki/Category:テレビのアイドル番組 "wikilink") [Category:ジャニーズ関連の放送番組](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連の放送番組 "wikilink") [Category:テレビ東京の一社提供番組](https://ja.wikipedia.org/wiki/Category:テレビ東京の一社提供番組 "wikilink") [Category:ロッテ一社提供番組](https://ja.wikipedia.org/wiki/Category:ロッテ一社提供番組 "wikilink") [Category:ジャニーズJr.](https://ja.wikipedia.org/wiki/Category:ジャニーズJr. "wikilink") [Category:タッキー&翼](https://ja.wikipedia.org/wiki/Category:タッキー&翼 "wikilink") [Category:嵐_(ジャニーズ)](https://ja.wikipedia.org/wiki/Category:嵐_\(ジャニーズ\) "wikilink")
+## 脚注
+
+[Category:1996年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1996年のテレビ番組_\(日本\) "wikilink") [Category:テレビ東京のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のバラエティ番組の歴史 "wikilink") [Category:テレビのアイドル番組](https://ja.wikipedia.org/wiki/Category:テレビのアイドル番組 "wikilink") [Category:ジャニーズ関連の放送番組](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連の放送番組 "wikilink") [Category:テレビ東京の一社提供番組](https://ja.wikipedia.org/wiki/Category:テレビ東京の一社提供番組 "wikilink") [Category:ロッテ一社提供番組](https://ja.wikipedia.org/wiki/Category:ロッテ一社提供番組 "wikilink") [Category:ジャニーズJr.](https://ja.wikipedia.org/wiki/Category:ジャニーズJr. "wikilink")
+
+1.
+2.

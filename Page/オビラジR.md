@@ -10,7 +10,7 @@
   - 番組名は**[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")**を意味する「オビ」と、初の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")となる司会者の**[オリエンタルラジオ](../Page/オリエンタルラジオ.md "wikilink")**（「オリラジ」）の[かばん語](../Page/かばん語.md "wikilink")となっている。
   - 曜日毎の情報コーナーは[ソーシャル・ネットワーキング・サービス](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")の最高峰「**プレミアムSNS**」と連動。[番組宣伝](../Page/番組宣伝.md "wikilink")も行うゲストも1週につき1組に出演（2008年4月現在は火曜日がゲスト出演ゾーン）。
   - TBSでは「[Pooh\!](../Page/Pooh!.md "wikilink")」終了以来2年ぶりの深夜の帯情報番組となるのだが、テコ入れを繰り返していくうちに情報番組色が希薄化し、普通のバラエティ番組になっていった。生放送ではなく、基本的に木曜日収録の[撮って出し](../Page/撮って出し.md "wikilink")方式の収録番組となっている\[1\]。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作・[字幕放送実施番組](https://ja.wikipedia.org/wiki/文字多重放送#字幕放送 "wikilink")。以前は木曜日放送分は当日夜に収録の為、字幕放送は行われなかったが、2007年2月頃から字幕放送が行われていた。
-  - 番組のネット局は年月を追うごとに減少傾向にあり、最末期のネット局は[山陽放送のみであった](https://ja.wikipedia.org/wiki/山陽放送テレビ "wikilink")。番組開始当初[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（『[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")』や『Pooh\!』は非ネット）でも時差ネットされていたが、自社番組編成の都合により度々放送時間が変更されるなど編成上の支障になるためか、わずか1年で打ち切られた。また、『ワンダフル』や『Pooh\!』をネットしていた[東北放送](../Page/東北放送.md "wikilink")、[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")、[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")では番組の2年半の間一貫して放送しなかった。[参照](https://ja.wikipedia.org/wiki/#放送時間とネット局 "wikilink")
+  - 番組のネット局は年月を追うごとに減少傾向にあり、最末期のネット局は[山陽放送のみであった](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")。番組開始当初[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（『[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")』や『Pooh\!』は非ネット）でも時差ネットされていたが、自社番組編成の都合により度々放送時間が変更されるなど編成上の支障になるためか、わずか1年で打ち切られた。また、『ワンダフル』や『Pooh\!』をネットしていた[東北放送](../Page/東北放送.md "wikilink")、[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")、[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")では番組の2年半の間一貫して放送しなかった。[参照](https://ja.wikipedia.org/wiki/#放送時間とネット局 "wikilink")
   - 番組開始初期は名前などのテロップはパソコンをイメージした下のアイコン（左から起動、出演者、ゲスト、アンケート、コダワリオビガール、ランキング、企画、ログアウト、CM）をクリックすることで表示される。下のアイコンが無い時は、上に[テキストボックス](../Page/テキストボックス.md "wikilink")でインフォメーションが表示されている。ちなみに、どちらも頭にリボンをつけ番組用に服装が（[ピンク](../Page/ピンク.md "wikilink")色に）変わった[BooBo](../Page/BooBo.md "wikilink")（[SNSサイトの**はるBoo**〔井田晴香〕のデザイン](https://ja.wikipedia.org/wiki/#過去のスタッフ "wikilink")）が出し入れする。
   - 右上のテロップは、2006年10月2日～[5日までは白アイコンにピンクの文字だったが](../Page/10月5日.md "wikilink")、あまりに小さすぎて見辛かったため僅か1週間で大きめのアイコンに[10月9日](../Page/10月9日.md "wikilink")から変更した（[2007年](../Page/2007年.md "wikilink")[1月8日](../Page/1月8日.md "wikilink")に再度デザインを変更）。
   - 2007年から春や秋の改編期に特別番組を組んで1〜2週間休止する。
@@ -241,7 +241,7 @@
 しかし、視聴者の抗議が多く、オビガールGが商品を持っているだけでプレゼントを紹介出来ていないデメリットもあり、ビューティーこくぶはわずか約2ヶ月弱で降板。
 
   - オビ得
-  - 1分間でお薦めの一品を紹介 今日のイチオシ\! - 2008年9月2日開始。「ロケの月曜日」以外に行う、オリエンタルラジオによる1分間のオープニングトーク（2008年11月4日以降はオビ得直前のエンディングトークになる場合もある）。オリエンタルラジオのどちらかが（その日次第で1人ずつ交互）、今ハマっているモノを1分以内に紹介。2008年10月15日放送分は[佐藤健や](../Page/佐藤健_\(俳優\).md "wikilink")[三浦春馬](https://ja.wikipedia.org/wiki/三浦春馬 "wikilink")も出演のテレビドラマ「[BLOODY MONDAY](https://ja.wikipedia.org/wiki/BLOODY_MONDAY "wikilink")」の原作コミック単行本を持ち飛び入り参加。
+  - 1分間でお薦めの一品を紹介 今日のイチオシ\! - 2008年9月2日開始。「ロケの月曜日」以外に行う、オリエンタルラジオによる1分間のオープニングトーク（2008年11月4日以降はオビ得直前のエンディングトークになる場合もある）。オリエンタルラジオのどちらかが（その日次第で1人ずつ交互）、今ハマっているモノを1分以内に紹介。2008年10月15日放送分は[佐藤健や](../Page/佐藤健_\(俳優\).md "wikilink")[三浦春馬](../Page/三浦春馬.md "wikilink")も出演のテレビドラマ「[BLOODY MONDAY](https://ja.wikipedia.org/wiki/BLOODY_MONDAY "wikilink")」の原作コミック単行本を持ち飛び入り参加。
 
 <!-- end list -->
 
@@ -628,10 +628,10 @@
 
 ## 放送時間とネット局（2009年3月時点）
 
-| 放送対象地域                                      | 放送局                                                           | 放送日時                                                    | 備考                                           |
-| ------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------- |
-| [関東広域圏](../Page/広域放送.md "wikilink")         | [東京放送](../Page/TBSテレビ.md "wikilink")（TBS）                     | 月曜 - 木曜 24時29分 - 24時59分                                 | 現・[TBSテレビ](../Page/TBSテレビ.md "wikilink")、制作局 |
-| [岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink") | [山陽放送](https://ja.wikipedia.org/wiki/山陽放送テレビ "wikilink")（RSK） | [同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink") |                                              |
+| 放送対象地域                                      | 放送局                                                          | 放送日時                                                                                               | 備考                                           |
+| ------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| [関東広域圏](../Page/広域放送.md "wikilink")         | [東京放送](../Page/TBSテレビ.md "wikilink")（TBS）                    | 月曜 - 木曜 24時29分 - 24時59分                                                                            | 現・[TBSテレビ](../Page/TBSテレビ.md "wikilink")、制作局 |
+| [岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink") | [山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")（RSK） | 現・[RSK山陽放送](../Page/RSK山陽放送.md "wikilink")、[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink") |                                              |
 
 ※山陽放送は、[再放送](../Page/再放送.md "wikilink")の[ドラマを集中放送する場合または](../Page/テレビドラマ.md "wikilink")、[バレーボール](../Page/バレーボール.md "wikilink")[プレミアリーグの](../Page/プレミアリーグ_\(バレーボール\).md "wikilink")[岡山シーガルズ](https://ja.wikipedia.org/wiki/岡山シーガルズ "wikilink")戦の試合中継など、ローカル[特番が不定期に編成された場合は休止になる](../Page/特別番組.md "wikilink")。
 
@@ -793,7 +793,7 @@
   - [Rose in many Colors](../Page/Rose_in_many_Colors.md "wikilink")「楽園」（2008年1月）
   - [TUT-1026](https://ja.wikipedia.org/wiki/TUT-1026 "wikilink")「[FALL IN LOVE WITH AT FIRST SIGHT](https://ja.wikipedia.org/wiki/エブリバディー#収録曲 "wikilink")」（2008年3月）
   - [マヤ・ヒラサワ](https://ja.wikipedia.org/wiki/マヤ・ヒラサワ "wikilink")「アンド・アイ・ファウンド・ディス・ボーイ」（2008年4月）
-  - [AZURE](https://ja.wikipedia.org/wiki/AZURE "wikilink")「One Sided Love」（2008年5月）
+  - [AZURE](https://ja.wikipedia.org/wiki/AZURE_\(バンド\) "wikilink")「One Sided Love」（2008年5月）
   - [二千花](../Page/二千花.md "wikilink")『あたらしい水』（2008年6月）
   - [TUFF SESSION](../Page/TUFF_SESSION.md "wikilink")「あなたが傍に」（2008年7月）
   - [YGA](../Page/よしもとグラビアエージェンシー.md "wikilink")「小さなハッピーあげましょ」（2008年8月）
@@ -814,7 +814,7 @@
 
 ## 外部リンク
 
-  - [オビラジR](http://www.tbs.co.jp/obirajir/)
+  - [オビラジR](https://www.tbs.co.jp/obirajir/)
   - [オビラジR番組紹介ページ](http://www.tbs.co.jp/program/obiradi.html)
   - [SNSと連動した新情報番組、TBSが10月から放送](http://www.nikkei.co.jp/news/sangyo/20060821AT1D1804Q18082006.html) - 日本経済新聞
 

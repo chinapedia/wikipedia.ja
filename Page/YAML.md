@@ -7,7 +7,7 @@
 
 [テキストのため可読である](../Page/テキストファイル.md "wikilink")。その概念は[XMLや](../Page/Extensible_Markup_Language.md "wikilink")[プログラミング言語](../Page/プログラミング言語.md "wikilink")である[C](../Page/C言語.md "wikilink")、[Python](../Page/Python.md "wikilink")、[Perl](../Page/Perl.md "wikilink")からきている。 YAMLの原案はClark Evans、Brian Ingerson、Oren Ben-Kikが共同で出した。
 
-YAMLは[再帰的に定義された頭字語であり](../Page/再帰的頭字語.md "wikilink") "YAML Ain't a Markup Language"（YAMLは[マークアップ言語](../Page/マークアップ言語.md "wikilink")ではない）の意味である。初期には "Yet Another Markup Language"（もうひとつ別のマークアップ言語）の意味と言われていたが、マークアップよりもデータ重視を目的としていたために後付されてできた名前である。しかしながら [XML](../Page/Extensible_Markup_Language.md "wikilink")（本当のマークアップ言語）が[データシリアライズ目的のために頻繁に使用されるため](../Page/シリアライズ.md "wikilink")、 YAMLを[軽量マークアップ言語](../Page/軽量マークアップ言語.md "wikilink")と考えることもできる。類似の規格として[JSONがある](../Page/JavaScript_Object_Notation.md "wikilink")。
+YAMLは[再帰的に定義された頭字語であり](../Page/再帰的頭字語.md "wikilink") "YAML Ain't a Markup Language"（YAMLは[マークアップ言語](../Page/マークアップ言語.md "wikilink")じゃない）の意味である。初期には "Yet Another Markup Language"（もうひとつ別のマークアップ言語）の意味と言われていたが、マークアップよりもデータ重視を目的としていたために後付されてできた名前である。しかしながら [XML](../Page/Extensible_Markup_Language.md "wikilink")（本当のマークアップ言語）が[データシリアライズ目的のために頻繁に使用されるため](../Page/シリアライズ.md "wikilink")、 YAMLを[軽量マークアップ言語](../Page/軽量マークアップ言語.md "wikilink")と考えることもできる。類似の規格として[JSONがある](../Page/JavaScript_Object_Notation.md "wikilink")。
 
 ## 表記方法
 
@@ -102,7 +102,7 @@ YAMLは次の言語で利用可能である。
   - [Rust](https://ja.wikipedia.org/wiki/Rust_\(プログラミング言語\) "wikilink")
   - [Tcl](https://ja.wikipedia.org/wiki/Tcl "wikilink")
   - [Vim](../Page/Vim.md "wikilink")
-  - [XML](../Page/Extensible_Markup_Language.md "wikilink") (ドラフト段階)
+  - [XML](../Page/Extensible_Markup_Language.md "wikilink") (ドラフト段階)\[5\]
 
 ## 脚注
 
@@ -119,9 +119,10 @@ YAMLは次の言語で利用可能である。
 
   - [YAML検証ツール](https://www.yamlonline.comr) YAML Lint|YAML TO JSON Converter
 
-[Category:マークアップ言語](https://ja.wikipedia.org/wiki/Category:マークアップ言語 "wikilink") [Category:データシリアライゼーションフォーマット](https://ja.wikipedia.org/wiki/Category:データシリアライゼーションフォーマット "wikilink")
+[Category:マークアップ言語](https://ja.wikipedia.org/wiki/Category:マークアップ言語 "wikilink") [Category:データシリアライゼーションフォーマット](https://ja.wikipedia.org/wiki/Category:データシリアライゼーションフォーマット "wikilink") [Category:オープンフォーマット](https://ja.wikipedia.org/wiki/Category:オープンフォーマット "wikilink")
 
 1.
 2.
 3.
 4.
+5.

@@ -169,7 +169,7 @@
     声 - [中嶋聡彦](../Page/中嶋聡彦.md "wikilink")
     海賊ギルド「ダ・ルマー」総帥。GP及び樹雷を困らせるほどの巨大組織にまで成長させる。西南の活躍により組織に多大な被害を受けると幸運艦隊を結成するなど、状況への対応力も高い。しかし、西南の前にはその能力を持ってしても対抗しきれず、捕縛される。
   - コマチ・キョウ
-    声 - [朴璐美](../Page/朴ロ美.md "wikilink")
+    声 - [朴璐美](https://ja.wikipedia.org/wiki/朴璐美 "wikilink")
     小説版では「コマチ・京」と表記される。ダ・ルマーギルドの幹部の一人。本名は「子舞一（コマチ）」\[35\]。身長は190cm超とかなり大柄な体格で、女性にしてはかなり筋肉質なのが特徴。海賊ではあるが、礼節を重んじる武人である。運呼が誕生してからは、同艦副長として勤務。西南の結婚式に招待され、静竜から誕生日祝いに指輪をもらい、赤面する一面もある\[36\]。後に静竜と結婚、2児をもうける。
     小説版ではダ・ルマーギルドの対樹雷の外交を担っていて、瀬戸との直通チャンネルを持っている。
   - マーロン
@@ -391,7 +391,7 @@
 <td><p>奥田淳、河野悦隆<br />
 <a href="../Page/西井正典.md" title="wikilink">西井正典</a>（メカ）</p></td>
 <td><p><strong><a href="../Page/2002年.md" title="wikilink">2002年</a></strong><br />
-<a href="../Page/4月2日.md" title="wikilink">4月2日</a></p></td>
+<a href="../Page/4月3日.md" title="wikilink">4月3日</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -402,7 +402,7 @@
 <td><p>森中正春、<a href="../Page/梶島正樹.md" title="wikilink">梶島正樹</a><br />
 関口雅浩<br />
 西井正典（メカ）</p></td>
-<td><p><a href="../Page/4月9日.md" title="wikilink">4月9日</a></p></td>
+<td><p><a href="../Page/4月10日.md" title="wikilink">4月10日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
@@ -412,7 +412,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/江上潔" title="wikilink">江上潔</a></p></td>
 <td><p>山沢実<br />
 西井正典（メカ）</p></td>
-<td><p><a href="../Page/4月16日.md" title="wikilink">4月16日</a></p></td>
+<td><p><a href="../Page/4月17日.md" title="wikilink">4月17日</a></p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
@@ -421,7 +421,7 @@
 <td><p>岩田義彦</p></td>
 <td><p>横田和善</p></td>
 <td><p>山本善哉</p></td>
-<td><p><a href="../Page/4月23日.md" title="wikilink">4月23日</a></p></td>
+<td><p><a href="../Page/4月24日.md" title="wikilink">4月24日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
@@ -430,7 +430,7 @@
 <td><p>川島宏</p></td>
 <td><p>羽生尚靖</p></td>
 <td><p>石田啓一</p></td>
-<td><p><a href="../Page/4月30日.md" title="wikilink">4月30日</a></p></td>
+<td><p><a href="../Page/5月1日.md" title="wikilink">5月1日</a></p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
@@ -441,7 +441,7 @@
 <td><p>岡崎幸男<br />
 白石道太</p></td>
 <td><p>浜野裕治</p></td>
-<td><p><a href="../Page/5月7日.md" title="wikilink">5月7日</a></p></td>
+<td><p><a href="../Page/5月8日.md" title="wikilink">5月8日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
@@ -450,7 +450,7 @@
 <td><p>別所誠人</p></td>
 <td><p>高島大輔</p></td>
 <td><p>工藤征輝</p></td>
-<td><p><a href="../Page/5月14日.md" title="wikilink">5月14日</a></p></td>
+<td><p><a href="../Page/5月15日.md" title="wikilink">5月15日</a></p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
@@ -459,7 +459,7 @@
 <td><p>ワタナベシンイチ</p></td>
 <td><p>円条矢太郎</p></td>
 <td><p>河合静男</p></td>
-<td><p><a href="../Page/5月21日.md" title="wikilink">5月21日</a></p></td>
+<td><p><a href="../Page/5月22日.md" title="wikilink">5月22日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
@@ -468,14 +468,14 @@
 <td><p>中村主水</p></td>
 <td><p>羽生尚靖</p></td>
 <td><p>石田啓一</p></td>
-<td><p><a href="../Page/5月28日.md" title="wikilink">5月28日</a></p></td>
+<td><p><a href="../Page/5月29日.md" title="wikilink">5月29日</a></p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
 <td><p>洗礼</p></td>
 <td><p>江上潔</p></td>
 <td><p>山沢実</p></td>
-<td><p><a href="../Page/6月4日.md" title="wikilink">6月4日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/6月5日" title="wikilink">6月5日</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -486,7 +486,7 @@
 <td><p>羽生尚靖</p></td>
 <td><p>花井信也</p></td>
 <td><p>小関雅</p></td>
-<td><p><a href="../Page/6月11日.md" title="wikilink">6月11日</a></p></td>
+<td><p><a href="../Page/6月12日.md" title="wikilink">6月12日</a></p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
@@ -495,7 +495,7 @@
 <td><p>森本正木</p></td>
 <td><p>土屋浩幸</p></td>
 <td><p>工藤征輝</p></td>
-<td><p><a href="../Page/6月18日.md" title="wikilink">6月18日</a></p></td>
+<td><p><a href="../Page/6月19日.md" title="wikilink">6月19日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
@@ -504,7 +504,7 @@
 <td><p>中村主水</p></td>
 <td><p>山崎茂</p></td>
 <td><p><a href="../Page/大田和寛.md" title="wikilink">大田和寛</a></p></td>
-<td><p><a href="../Page/6月25日.md" title="wikilink">6月25日</a></p></td>
+<td><p><a href="../Page/6月26日.md" title="wikilink">6月26日</a></p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
@@ -513,7 +513,7 @@
 <td><p>ワタナベシンイチ</p></td>
 <td><p>白石道太</p></td>
 <td><p>森中正春</p></td>
-<td><p><a href="../Page/7月2日.md" title="wikilink">7月2日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/7月3" title="wikilink">7月3</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
@@ -522,7 +522,7 @@
 <td><p>中村主水</p></td>
 <td><p>花井信也</p></td>
 <td><p>小関雅</p></td>
-<td><p><a href="../Page/7月9日.md" title="wikilink">7月9日</a></p></td>
+<td><p><a href="../Page/7月10日.md" title="wikilink">7月10日</a></p></td>
 </tr>
 <tr class="even">
 <td><p>16</p></td>
@@ -531,7 +531,7 @@
 <td><p>福多潤</p></td>
 <td><p><a href="../Page/石踊宏.md" title="wikilink">石踊宏</a></p></td>
 <td><p>藤田正幸</p></td>
-<td><p><a href="../Page/7月16日.md" title="wikilink">7月16日</a></p></td>
+<td><p><a href="../Page/7月17日.md" title="wikilink">7月17日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>17</p></td>
@@ -541,7 +541,7 @@
 <td><p>梶島正樹</p></td>
 <td><p>和田裕一</p></td>
 <td><p>中山岳洋</p></td>
-<td><p><a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
+<td><p><a href="../Page/7月24日.md" title="wikilink">7月24日</a></p></td>
 </tr>
 <tr class="even">
 <td><p>18</p></td>
@@ -550,7 +550,7 @@
 <td><p>ワタナベシンイチ</p></td>
 <td><p>羽生尚靖</p></td>
 <td><p>石田啓一</p></td>
-<td><p><a href="../Page/7月30日.md" title="wikilink">7月30日</a></p></td>
+<td><p><a href="../Page/7月31日.md" title="wikilink">7月31日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>19</p></td>
@@ -559,7 +559,7 @@
 <td><p>森本正木</p></td>
 <td><p>土屋浩幸</p></td>
 <td><p>工藤征輝</p></td>
-<td><p><a href="../Page/8月6日.md" title="wikilink">8月6日</a></p></td>
+<td><p><a href="../Page/8月7日.md" title="wikilink">8月7日</a></p></td>
 </tr>
 <tr class="even">
 <td><p>20</p></td>
@@ -568,7 +568,7 @@
 <td><p>中村主水</p></td>
 <td><p>花井信也</p></td>
 <td><p>小関雅</p></td>
-<td><p><a href="../Page/8月13日.md" title="wikilink">8月13日</a></p></td>
+<td><p><a href="../Page/8月14日.md" title="wikilink">8月14日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>21</p></td>
@@ -577,7 +577,7 @@
 <td><p>福多潤</p></td>
 <td><p>泉明宏</p></td>
 <td><p><a href="../Page/なかじまちゅうじ.md" title="wikilink">なかじまちゅうじ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/8月20日" title="wikilink">8月20日</a></p></td>
+<td><p><a href="../Page/8月21日.md" title="wikilink">8月21日</a></p></td>
 </tr>
 <tr class="even">
 <td><p>22</p></td>
@@ -586,7 +586,7 @@
 <td><p>中村主水</p></td>
 <td><p>石踊宏</p></td>
 <td><p>藤田正幸</p></td>
-<td><p><a href="../Page/8月27日.md" title="wikilink">8月27日</a></p></td>
+<td><p><a href="../Page/8月28日.md" title="wikilink">8月28日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>23</p></td>
@@ -595,7 +595,7 @@
 <td><p>村木靖</p></td>
 <td><p>羽生尚靖</p></td>
 <td><p>石田啓一</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/9月3日" title="wikilink">9月3日</a></p></td>
+<td><p><a href="../Page/9月4日.md" title="wikilink">9月4日</a></p></td>
 </tr>
 <tr class="even">
 <td><p>24</p></td>
@@ -604,7 +604,7 @@
 <td><p>森本正木</p></td>
 <td><p>土屋浩幸</p></td>
 <td><p>工藤征輝</p></td>
-<td><p><a href="../Page/9月10日.md" title="wikilink">9月10日</a></p></td>
+<td><p><a href="../Page/9月11日.md" title="wikilink">9月11日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>25</p></td>
@@ -613,7 +613,7 @@
 <td><p>ワタナベシンイチ</p></td>
 <td><p>山田徹</p></td>
 <td><p>向山祐治</p></td>
-<td><p><a href="../Page/9月17日.md" title="wikilink">9月17日</a></p></td>
+<td><p><a href="../Page/9月18日.md" title="wikilink">9月18日</a></p></td>
 </tr>
 <tr class="even">
 <td><p>26</p></td>
@@ -623,7 +623,7 @@
 <td><p>奥田淳、河野悦隆<br />
 梶島正樹、佐藤道雄<br />
 山田正樹</p></td>
-<td><p><a href="../Page/9月24日.md" title="wikilink">9月24日</a></p></td>
+<td><p><a href="../Page/9月25日.md" title="wikilink">9月25日</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -631,14 +631,11 @@
 
 ## 放送局
 
-| 放送局                                     | 放送日時       | 放送期間                    | 備考                                        |
-| --------------------------------------- | ---------- | ----------------------- | ----------------------------------------- |
-| [日本テレビ](../Page/日本テレビ放送網.md "wikilink") | 火曜 24:55 - | 2002年4月2日 - 9月24日       | **製作局**                                   |
-| [ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink") | 木曜 25:55 - | 2002年4月11日 - 10月3日      |                                           |
-| [中京テレビ](../Page/中京テレビ放送.md "wikilink")  | 火曜 25:35 - | 2002年8月27日 - 2003年2月25日 |                                           |
-| [福岡放送](../Page/福岡放送.md "wikilink")      | 月曜 26:30 - | 2002年9月30日 - 2003年3月31日 |                                           |
-| [アニマックス](../Page/アニマックス.md "wikilink")  | 火曜 23:00 - | 2004年4月13日 - 10月4日      | [CS放送](../Page/日本における衛星放送.md "wikilink")  |
-| [とちぎテレビ](../Page/とちぎテレビ.md "wikilink")  | 月曜 23:35 - | 2005年7月18日 - 2006年1月16日 | [独立UHF局](../Page/全国独立放送協議会.md "wikilink") |
+| 放送局                                     | 放送日時             | 放送期間                    | 備考      |
+| --------------------------------------- | ---------------- | ----------------------- | ------- |
+| [日本テレビ](../Page/日本テレビ放送網.md "wikilink") | 水曜 0:55 - \[67\] | 2002年4月3日 - 9月25日       | **製作局** |
+| [ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink") | 金曜 1:55 - \[68\] | 2002年4月12日 - 10月4日      |         |
+| [中京テレビ](../Page/中京テレビ放送.md "wikilink")  | 水曜 1:35 -        | 2002年8月28日 - 2003年2月26日 |         |
 
 ## 漫画版
 
@@ -753,3 +750,5 @@
 64. 夫である支配人との子は二名。他は違う男性との間に生まれた子
 65. 外部の遺伝子を受けいれるという儀式のため、本来は性交渉を行う。まだ幼いために手を握り合っただけの略式とされた
 66. 9億5千～10億年後
+67.
+68.

@@ -28,7 +28,7 @@ Movable Typeは主に[Perl](../Page/Perl.md "wikilink")と[PHPで書かれてお
 
   - ブログ記事の作成
   - ウェブページの作成
-  - [テンプレートエンジン](../Page/テンプレートエンジン.md "wikilink")(モジュールテンプレートによる作業効率化)
+  - [テンプレートエンジン](../Page/テンプレートエンジン.md "wikilink")（モジュールテンプレートによる作業効率化）
   - [フィード](../Page/フィード.md "wikilink")の提供
   - [トラックバック](https://ja.wikipedia.org/wiki/トラックバック "wikilink")
   - [Atom出版プロトコルによる投稿](https://ja.wikipedia.org/wiki/Atom_\(ウェブコンテンツ配信\)#Atom_Publishing_Protocol "wikilink")
@@ -42,6 +42,8 @@ Movable Typeは主に[Perl](../Page/Perl.md "wikilink")と[PHPで書かれてお
   - ブログ内の検索
   - プラグイン
 
+## 脚注
+
 ## 関連項目
 
   - [ブログ](../Page/ブログ.md "wikilink")
@@ -49,8 +51,6 @@ Movable Typeは主に[Perl](../Page/Perl.md "wikilink")と[PHPで書かれてお
   - [トラックバック](https://ja.wikipedia.org/wiki/トラックバック "wikilink")
   - [TypePad](../Page/TypePad.md "wikilink")
   - [WordPress](../Page/WordPress.md "wikilink")
-
-## 脚注
 
 ## 外部リンク
 
@@ -64,4 +64,4 @@ Movable Typeは主に[Perl](../Page/Perl.md "wikilink")と[PHPで書かれてお
 
 [Category:Webオーサリングソフト](https://ja.wikipedia.org/wiki/Category:Webオーサリングソフト "wikilink") [Category:ブログソフト](https://ja.wikipedia.org/wiki/Category:ブログソフト "wikilink") [Category:ウェブサイトの構成](https://ja.wikipedia.org/wiki/Category:ウェブサイトの構成 "wikilink") [Category:2001年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2001年のソフトウェア "wikilink")
 
-1.  これからはじめる MovableTypeの本 (自分で選べるパソコン到達点), やまもといずみ, ふじかわまゆこ,[技術評論社](../Page/技術評論社.md "wikilink") 2009,ISBN 978-4774137254
+1.  \#fc0（やまもといずみ、ふじかわまゆこ）著、上ノ郷谷太一 監修 『これからはじめるMovable Typeの本 : Movable Type 4.2対応版』 [技術評論社](../Page/技術評論社.md "wikilink")〈自分で選べるパソコン到達点。〉、2009年、。

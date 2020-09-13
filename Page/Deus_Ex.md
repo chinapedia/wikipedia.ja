@@ -48,17 +48,39 @@
 
 ## 登場人物
 
-  - J.C. Denton: 主人公。[国連の反テロリスト組織](../Page/国際連合.md "wikilink")“UNATCO”に所属しているエージェント。“J.C. Denton”という名前は[コードネーム](../Page/コードネーム.md "wikilink")であり、本名は自分で決められる。肉体と機械が細胞レベルで融合するサイボーグ技術「ナノ・オーグメンテーション」が施されており、身体の至るところに特殊な機能を発動させる装置が備え付けてある。頭脳明晰で、プレイヤーの選択によって思いやり深くも冷血漢にもなりうるが、表面的には感情をあらわすことは滅多になく、一匹狼的な性格をしている。彼の視覚情報はリアルタイムでオペレーターに転送される。両親は交通事故により死去したと聞かされている。
-    Paul Denton: J.C.の兄で、同じくUNATCOに所属するエージェント。容姿は髭を生やしていることを除けばサングラスを外した弟と瓜二つだが、性格は大きく異なり温和で情熱的。J.C.と同様にナノ・オーグメンテーションが施されたサイボーグであり、エージェントとして極めて優秀。しかしテロリストが相手でも殺すことを極端に嫌うため、UNATCO内部での評価は二分している。
-    Bob Page: ナノテクノロジーにおける優れた知識を持つ科学者。初期にJ.C.の訓練にも協力をしてくれる。 表向きには世界一の資産家、慈善家として知られる。[トマス・アクィナス](../Page/トマス・アクィナス.md "wikilink")を崇拝している。
-    Walton Simons: [FEMA](https://ja.wikipedia.org/wiki/FEMA "wikilink")の長官。J.C.やPaulよりも新しい[ファームウェア](../Page/ファームウェア.md "wikilink")のナノ・オーグメンテーションを施されている。捕らえたテロリストを尋問と称して躊躇いなく銃殺するなど、性格は極めて冷酷。目的の為には手段を選ばない生粋のマキャベリアンであり、部下の忠誠は恐怖で掌握している。
-    Alex Jacobson: UNATCOの電子機器の総合的管理担当。またハッキングなどの敵の機密情報を探る技も持っている。J.C.が見ている光景を常時監視しており、状況に応じて指示をしてくれる。
-    Joseph Manderley: UNATCOの長官。[FEMA](https://ja.wikipedia.org/wiki/FEMA "wikilink")の長官、Walton Simonsに任命されて今の立場にある。強圧的なSimonsのことはあまり良く思っていない。
-    Gunther Hermann: [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")人のUNATCOのエージェントで、ナノ・オーグメテーションよりも古い、人体の部位を機械に置き換えるサイボーグ技術「メカニカル・オーグメンテーション」を施されている。性格は暴力的で無慈悲であり、殺すと決めた相手は執拗に追い回す。重火器系の武器を常に携帯している。常人を超える戦闘能力を持つ一方で自分が旧式のサイボーグであることを自覚しており、やがて自分の立ち位置がナノ・オーグメンテーションを施されたエージェントたちに置き換えられることを恐れている。
-    Anna Navarre: UNATCOに所属する[イスラエル](../Page/イスラエル.md "wikilink")人の女性エージェントで、Guntherと同じくメカニカル・オーグメンテーションを施されたサイボーグ。強いロシア訛りのある英語を話す。性格はサディスティックで、敵がたとえ戦意喪失していても躊躇いもなくその場で撃ち殺す。武器はAssault Rifleを使用し、射撃は正確。ナノ・オーグメンテーションの力に対して疑わしく思っているが、Guntherほど偏見が強いわけではない。
-    Jock: UNATCOに所属するステルス[ヘリコプター](../Page/ヘリコプター.md "wikilink")の操縦士。元はエリア51で働いていたらしい。バーでJ.C.と知り合って以後、行動を共にするようになる。香港在住。
-    Sam Carter: UNATCOの倉庫の管理を担当。元は軍人で[将軍](../Page/将軍.md "wikilink")だったこともある人物だが、家族がNSFに殺されたことがきっかけでUNATCOに加わった。厳格な性格だが、J.C.には必要なものを供給するなど何かと協力をしてくれる。家族が殺されたことで暴力を嫌うようになり、軍事行動に重きを置く現在のUNATCOを好ましく思っていない。
-    Jaime Reyes: UNATCOの医療担当で、外科医。オーグメンテーションが施されたサイボーグの身体の構造にも詳しい。性格は温厚で、Samと同じくJ.C.に何かと協力をしてくれる。
+  - J.C. Denton
+    声 - ジェイ・アンソニー・フランケ
+    主人公。[国連の反テロリスト組織](../Page/国際連合.md "wikilink")“UNATCO”に所属しているエージェント。“J.C. Denton”という名前は[コードネーム](../Page/コードネーム.md "wikilink")であり、本名は自分で決められる。肉体と機械が細胞レベルで融合するサイボーグ技術「ナノ・オーグメンテーション」が施されており、身体の至るところに特殊な機能を発動させる装置が備え付けてある。頭脳明晰で、プレイヤーの選択によって思いやり深くも冷血漢にもなりうるが、表面的には感情をあらわすことは滅多になく、一匹狼的な性格をしている。彼の視覚情報はリアルタイムでオペレーターに転送される。両親は交通事故により死去したと聞かされている。ファーストネームの「J.C.」はJesus Christを意味する。\[1\]
+  - Paul Denton
+    声 - ジェイ・アンソニー・フランケ
+    J.C.の兄で、同じくUNATCOに所属するエージェント。容姿は髭を生やしていることを除けばサングラスを外した弟と瓜二つだが、性格は大きく異なり温和で情熱的。J.C.と同様にナノ・オーグメンテーションが施されたサイボーグであり、エージェントとして極めて優秀。しかしテロリストが相手でも殺すことを極端に嫌うため、UNATCO内部での評価は二分している。
+  - Bob Page
+    声 - クリフ・スティーブンス
+    ナノテクノロジーにおける優れた知識を持つ科学者。初期にJ.C.の訓練にも協力をしてくれる。 表向きには世界一の資産家、慈善家として知られる。[トマス・アクィナス](../Page/トマス・アクィナス.md "wikilink")を崇拝している。
+  - Walton Simons
+    声 - トム・ホール
+    [FEMA](https://ja.wikipedia.org/wiki/FEMA "wikilink")の長官。J.C.やPaulよりも新しい[ファームウェア](../Page/ファームウェア.md "wikilink")のナノ・オーグメンテーションを施されている。捕らえたテロリストを尋問と称して躊躇いなく銃殺するなど、性格は極めて冷酷。目的の為には手段を選ばない生粋のマキャベリアンであり、部下の忠誠は恐怖で掌握している。
+  - Alex Jacobson
+    声 - リチャード・ゴーベール
+    UNATCOの電子機器の総合的管理担当。またハッキングなどの敵の機密情報を探る技も持っている。J.C.が見ている光景を常時監視しており、状況に応じて指示をしてくれる。
+  - Joseph Manderley
+    声 - ジョン・ウィリアム・ガルト
+    UNATCOの長官。[FEMA](https://ja.wikipedia.org/wiki/FEMA "wikilink")の長官、Walton Simonsに任命されて今の立場にある。強圧的なSimonsのことはあまり良く思っていない。
+  - Gunther Hermann
+    声 - ジェフ・グロテボアー
+    [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")人のUNATCOのエージェントで、ナノ・オーグメテーションよりも古い、人体の部位を機械に置き換えるサイボーグ技術「メカニカル・オーグメンテーション」を施されている。性格は暴力的で無慈悲であり、殺すと決めた相手は執拗に追い回す。重火器系の武器を常に携帯している。常人を超える戦闘能力を持つ一方で自分が旧式のサイボーグであることを自覚しており、やがて自分の立ち位置がナノ・オーグメンテーションを施されたエージェントたちに置き換えられることを恐れている。
+  - Anna Navarre
+    声 - キャロリン・マコーミック
+    UNATCOに所属する[イスラエル](../Page/イスラエル.md "wikilink")人の女性エージェントで、Guntherと同じくメカニカル・オーグメンテーションを施されたサイボーグ。強いロシア訛りのある英語を話す。性格はサディスティックで、敵がたとえ戦意喪失していても躊躇いもなくその場で撃ち殺す。武器はAssault Rifleを使用し、射撃は正確。ナノ・オーグメンテーションの力に対して疑わしく思っているが、Guntherほど偏見が強いわけではない。
+  - Jock
+    声 - ジョン・ウィリアム・ガルト
+    UNATCOに所属するステルス[ヘリコプター](../Page/ヘリコプター.md "wikilink")の操縦士。元はエリア51で働いていたらしい。バーでJ.C.と知り合って以後、行動を共にするようになる。香港在住。
+  - Sam Carter
+    声 - ショーン・ヘニガン
+    UNATCOの倉庫の管理を担当。元は軍人で[将軍](../Page/将軍.md "wikilink")だったこともある人物だが、家族がNSFに殺されたことがきっかけでUNATCOに加わった。厳格な性格だが、J.C.には必要なものを供給するなど何かと協力をしてくれる。家族が殺されたことで暴力を嫌うようになり、軍事行動に重きを置く現在のUNATCOを好ましく思っていない。
+  - Jaime Reyes
+    声 - ショーン・ヘニガン
+    UNATCOの医療担当で、外科医。オーグメンテーションが施されたサイボーグの身体の構造にも詳しい。性格は温厚で、Samと同じくJ.C.に何かと協力をしてくれる。
 
 ## 武器一覧
 
@@ -279,4 +301,8 @@ Medkitの回復量を上げる。レベルによって30、60、75、90と上昇
   - Speed Enhancement（40）: スピードアップ。発動中、移動速度と跳躍力を上昇させ、高所から落下した際のダメージを軽減する。レベルを上げることによりその効果は上昇し、レベル4であれば誰も追いつけない速度と落下のダメージに対する驚異的な耐久力を得ることが出来る。
     Run Silent（40）: サイレント。発動中、足音を静かにする。レベル3で移動中に敵に気づかれなくなり、レベル4では落下時の音も消してくれる。暗殺や逃避の際に便利。尚、Botに足音を感知する能力は最初から無い。
 
-[Category:アイドスのゲームソフト](https://ja.wikipedia.org/wiki/Category:アイドスのゲームソフト "wikilink") [Category:ファーストパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/Category:ファーストパーソン・シューティングゲーム "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:2000年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2000年のコンピュータゲーム "wikilink") [Category:Macintosh用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Macintosh用ゲームソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:Steam](https://ja.wikipedia.org/wiki/Category:Steam "wikilink") [Category:サイバーパンク・コンピュータゲーム](https://ja.wikipedia.org/wiki/Category:サイバーパンク・コンピュータゲーム "wikilink") [Category:サイボーグを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:サイボーグを題材としたコンピュータゲーム "wikilink") [Category:オールタイム100ビデオゲーム選出](https://ja.wikipedia.org/wiki/Category:オールタイム100ビデオゲーム選出 "wikilink") [Category:デウスエクス](https://ja.wikipedia.org/wiki/Category:デウスエクス "wikilink")
+## 脚注
+
+[Category:アイドスのゲームソフト](https://ja.wikipedia.org/wiki/Category:アイドスのゲームソフト "wikilink") [Category:ファーストパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/Category:ファーストパーソン・シューティングゲーム "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:2000年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2000年のコンピュータゲーム "wikilink") [Category:Macintosh用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Macintosh用ゲームソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:サイバーパンク・コンピュータゲーム](https://ja.wikipedia.org/wiki/Category:サイバーパンク・コンピュータゲーム "wikilink") [Category:サイボーグを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:サイボーグを題材としたコンピュータゲーム "wikilink") [Category:オールタイム100ビデオゲーム選出](https://ja.wikipedia.org/wiki/Category:オールタイム100ビデオゲーム選出 "wikilink") [Category:デウスエクス](https://ja.wikipedia.org/wiki/Category:デウスエクス "wikilink")
+
+1.

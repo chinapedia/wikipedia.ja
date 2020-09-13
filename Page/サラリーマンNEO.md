@@ -768,7 +768,7 @@
 
   - [40Love〜大河内透の恋愛ブログ](http://web.archive.org/web/20120419075804/http://www.nhk.or.jp/neo/contents/blog/index.html) - 閉鎖。（2012年4月19日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
-  - [サラリーマンNEO　メイキングインタビュー](http://www.tvco.tv/interview/index.php?action=detail&id=26)（[テレビコ](https://ja.wikipedia.org/wiki/MEDIACO "wikilink")）
+  - （[テレビコ](https://ja.wikipedia.org/wiki/MEDIACO "wikilink")）
 
   -
   - [「サラリーマンNEO 劇場版（笑）」公式サイト](http://www.neo-movie.com/)

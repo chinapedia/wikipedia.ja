@@ -93,7 +93,22 @@
 
 ## ゲーム作品
 
-ゲーム作品『[サンライズ英雄譚](../Page/サンライズ英雄譚.md "wikilink")』、『[スーパーロボット大戦](../Page/スーパーロボット大戦.md "wikilink")』各シリーズに登場。主にメカニック中心の出演だが、『[スーパーロボット大戦COMPACT3](../Page/スーパーロボット大戦COMPACT3.md "wikilink")』、『[スーパーロボット大戦T](https://ja.wikipedia.org/wiki/スーパーロボット大戦T "wikilink")』ではキャラクターやストーリーも再現された。
+ゲーム作品では、「[スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")」や『[サンライズ英雄譚](../Page/サンライズ英雄譚.md "wikilink")』などに登場。主にテレビ版『聖戦士ダンバイン』用の乗り換え機体としてのみの登場がメインとなっている。
+
+『[スーパーロボット大戦COMPACT3](../Page/スーパーロボット大戦COMPACT3.md "wikilink")』、『[スーパーロボット大戦T](https://ja.wikipedia.org/wiki/スーパーロボット大戦T "wikilink")』などではキャラクターやストーリーも再現された。
+
+  - [スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")
+      - [第4次スーパーロボット大戦](../Page/第4次スーパーロボット大戦.md "wikilink")（1995年3月17日、機体のみ）
+      - [スーパーロボット大戦64](../Page/スーパーロボット大戦64.md "wikilink")（1999年10月29日、機体のみ）
+      - [スーパーロボット大戦COMPACT2 第3部:銀河決戦篇](../Page/スーパーロボット大戦COMPACT2.md "wikilink")（2001年1月18日、機体のみ）
+      - [スーパーロボット大戦COMPACT3](../Page/スーパーロボット大戦COMPACT3.md "wikilink")（2003年7月17日）
+      - [スーパーロボット大戦Operation Extend](https://ja.wikipedia.org/wiki/スーパーロボット大戦Operation_Extend "wikilink")（2013年9月26日、機体のみ、[ダウンロードコンテンツ](https://ja.wikipedia.org/wiki/ダウンロードコンテンツ "wikilink")）
+      - [スーパーロボット大戦BX](https://ja.wikipedia.org/wiki/スーパーロボット大戦BX "wikilink")（2015年8月20日、機体のみ）
+      - [スーパーロボット大戦X](https://ja.wikipedia.org/wiki/スーパーロボット大戦X "wikilink")（2018年3月29日、機体のみ）
+      - [スーパーロボット大戦T](https://ja.wikipedia.org/wiki/スーパーロボット大戦T "wikilink")（2019年3月20日）
+      - [スーパーロボット大戦X-Ω](https://ja.wikipedia.org/wiki/スーパーロボット大戦X-Ω "wikilink")（2019年9月9日、期間限定）
+      - [スーパーロボット大戦DD](https://ja.wikipedia.org/wiki/スーパーロボット大戦DD "wikilink")（2020年7月22日）
+  - [サンライズ英雄譚](../Page/サンライズ英雄譚.md "wikilink")（1999年12月2日）
 
 ## 脚注
 

@@ -67,9 +67,12 @@
 
   - [平田聡](https://ja.wikipedia.org/wiki/平田聡 "wikilink") (FLAT122) (Guitar)
   - テイセナ (Violin)
-  - 川越好博 (Keyboard)
   - [田辺清貴](https://ja.wikipedia.org/wiki/田辺清貴 "wikilink") (FLAT122) (Drums)
   - 大山曜 (Bass)
+
+#### 以前参加していたメンバー
+
+  - 川越好博 (Keyboard)\[2\]
 
 #### ディスコグラフィ
 
@@ -82,7 +85,7 @@
 
 一般的には[プログレとして紹介されており](../Page/プログレッシブ・ロック.md "wikilink")、大山のアストゥーリアスに対する自己認識も、デビュー以来一貫して同様である。他方で一部の楽曲のイメージから、[ニューエイジ・ミュージック](../Page/ニューエイジ・ミュージック.md "wikilink")に近い音楽として見る向きもあり、レコード会社もそのような点をアピールする場合がある。
 
-大山は2005年初頭にアルゼンチンのプログレ系ウェブサイト「Nucleus」からインタビュー\[2\]を受けているが、その際に自らの音楽の特徴を以下の三点に要約して説明している。
+大山は2005年初頭にアルゼンチンのプログレ系ウェブサイト「Nucleus」からインタビュー\[3\]を受けているが、その際に自らの音楽の特徴を以下の三点に要約して説明している。
 
   - *[インストゥルメンタルが中心](../Page/器楽曲.md "wikilink")。難解さを目的とはしておらず、できる限りリスナーにとって分かりやすいものとなっている。[即興演奏](../Page/即興演奏.md "wikilink")的要素はほとんどなく、また、アバンギャルド的でもない。*
   - *神秘的、シリアスであるとともにクールで美しい雰囲気を持ちあわせ、なおかつドラマティックである。*
@@ -115,4 +118,5 @@
 [Category:日本のプログレッシブ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のプログレッシブ・ロック・バンド "wikilink") [Category:日本のニューエイジ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のニューエイジ・ミュージシャン "wikilink")
 
 1.  キングレコードが企画したコンピレーション盤
-2.  [“Deep Beauty”- Interview with the Multi-player Yoh Ohyama](http://replay.web.archive.org/20070928074135/http://www.nucleusprog.com.ar/ingles/r-asturias.htm) （サイト消滅のため、[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のログをリンク）
+2.
+3.  [“Deep Beauty”- Interview with the Multi-player Yoh Ohyama](http://replay.web.archive.org/20070928074135/http://www.nucleusprog.com.ar/ingles/r-asturias.htm) （サイト消滅のため、[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のログをリンク）

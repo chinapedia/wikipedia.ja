@@ -119,7 +119,7 @@
 | 48                                                                                         | [坂本冬美](../Page/坂本冬美.md "wikilink")(5)                                                                                                      |
 | 50                                                                                         | [石川さゆり](../Page/石川さゆり.md "wikilink")(15)                                                                                                   |
 | 52                                                                                         | [和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")(16)                                                                                |
-| 54                                                                                         | [由紀さおり](../Page/由紀さおり.md "wikilink")(12)                                                                                                   |
+| 54                                                                                         | [由紀さおり](../Page/由紀さおり.md "wikilink")\[12\](12)                                                                                             |
 |                                                                                            |                                                                                                                                            |
 
 「テレビ40年思い出の主役たち」の曲目・歌手は次の通り。
@@ -138,11 +138,11 @@
 
 「テレビ放送40年」をテーマとしたこの年、[1989年](../Page/1989年.md "wikilink")から[1991年](../Page/1991年.md "wikilink")まで続いた海外アーティストの出場枠を撤廃。代わって、[舟木一夫](../Page/舟木一夫.md "wikilink")（[第22回以来](../Page/第22回NHK紅白歌合戦.md "wikilink")21年ぶり）、[伊東ゆかり](https://ja.wikipedia.org/wiki/伊東ゆかり "wikilink")（[第26回](../Page/第26回NHK紅白歌合戦.md "wikilink")〈[1975年](../Page/1975年.md "wikilink")〉以来17年ぶりで、『ひらり』で石田演じるヒロインの母親役を担当。[第20回](../Page/第20回NHK紅白歌合戦.md "wikilink")〈[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")〉の紅組司会者）、[梓みちよ](../Page/梓みちよ.md "wikilink")（[第27回](../Page/第27回NHK紅白歌合戦.md "wikilink")〈[1976年](../Page/1976年.md "wikilink")〉以来16年ぶり）ら、かつての紅白常連歌手がそれぞれカムバック。ほか、[南こうせつ](https://ja.wikipedia.org/wiki/南こうせつ "wikilink")、[イルカなどこれまで紅白からは距離を置いてきた](https://ja.wikipedia.org/wiki/イルカ_\(歌手\) "wikilink")[ニューミュージック](../Page/ニューミュージック.md "wikilink")系も出演させるなど、世代的に幅の広い人選が行われた。
 
-[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")は「コンディションが良くない」、この年デビュー20周年を迎えた[松任谷由実](../Page/松任谷由実.md "wikilink")は「大晦日は料理を作る」、[とんねるず](../Page/とんねるず.md "wikilink")は「昨年（[第42回NHK紅白歌合戦\#概要](https://ja.wikipedia.org/wiki/第42回NHK紅白歌合戦#概要 "wikilink")を参照）を超えるパフォーマンスができない」、[松田聖子](../Page/松田聖子.md "wikilink")は「スケジュールが合わない」、[槇原敬之](../Page/槇原敬之.md "wikilink")は「年末年始は海外にいる」という理由で、それぞれ出場を辞退した\[12\]。
+[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")は「コンディションが良くない」、この年デビュー20周年を迎えた[松任谷由実](../Page/松任谷由実.md "wikilink")は「大晦日は料理を作る」、[とんねるず](../Page/とんねるず.md "wikilink")は「昨年（[第42回NHK紅白歌合戦\#概要](https://ja.wikipedia.org/wiki/第42回NHK紅白歌合戦#概要 "wikilink")を参照）を超えるパフォーマンスができない」、[松田聖子](../Page/松田聖子.md "wikilink")は「スケジュールが合わない」、[槇原敬之](../Page/槇原敬之.md "wikilink")は「年末年始は海外にいる」という理由で、それぞれ出場を辞退した\[13\]。
 
-この年[11月10日](../Page/11月10日.md "wikilink")、NHKホールで行われた『日本作曲家協会創立35周年記念チャリティーコンサート』で[吉田正](../Page/吉田正.md "wikilink")と共に「[いつでも夢を](https://ja.wikipedia.org/wiki/いつでも夢を "wikilink")」を披露、23年ぶりにステージで歌唱をした[吉永小百合](../Page/吉永小百合.md "wikilink")に、番組側は出演交渉を行い、吉永が「（紅白の）話は承っていますけれど、歌に関してはずっとやっていなかったので、『無理です』と申し上げたんですが、スタッフの皆さんが諦めてくれなくて・・・。困りましたね。どうしましょう」と出演実現を匂わす発言をしたが、最終的に「やっぱりお断りさせて頂きます」と辞退した\[13\]。
+この年[11月10日](../Page/11月10日.md "wikilink")、NHKホールで行われた『日本作曲家協会創立35周年記念チャリティーコンサート』で[吉田正](../Page/吉田正.md "wikilink")と共に「[いつでも夢を](https://ja.wikipedia.org/wiki/いつでも夢を "wikilink")」を披露、23年ぶりにステージで歌唱をした[吉永小百合](../Page/吉永小百合.md "wikilink")に、番組側は出演交渉を行い、吉永が「（紅白の）話は承っていますけれど、歌に関してはずっとやっていなかったので、『無理です』と申し上げたんですが、スタッフの皆さんが諦めてくれなくて・・・。困りましたね。どうしましょう」と出演実現を匂わす発言をしたが、最終的に「やっぱりお断りさせて頂きます」と辞退した\[14\]。
 
-[島倉千代子](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")・**[CHAGE and ASKA](../Page/CHAGE_and_ASKA.md "wikilink")**・[小田和正](../Page/小田和正.md "wikilink")については、NHKが最初からオファーしなかった\[14\]。
+[島倉千代子](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")・**[CHAGE and ASKA](../Page/CHAGE_and_ASKA.md "wikilink")**・[小田和正](../Page/小田和正.md "wikilink")については、NHKが最初からオファーしなかった\[15\]。
 
 ## ゲスト出演者
 
@@ -240,7 +240,7 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=43)
   - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1992年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1992年のテレビ番組_\(日本\) "wikilink") [Category:1992年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1992年のラジオ番組_\(日本\) "wikilink") [Category:1992年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1992年の日本の音楽 "wikilink") [Category:1992年12月](https://ja.wikipedia.org/wiki/Category:1992年12月 "wikilink")
@@ -257,6 +257,7 @@
 10. [紅白歌手別視聴率、４０％超えは嵐ら３組だけに…前回は３１組](https://hochi.news/articles/20200106-OHT1T50267.html)、[スポーツ報知](../Page/スポーツ報知.md "wikilink")、2020年1月7日 6時0分。
     （[平成以後の紅白歌手別瞬間最高視聴率](https://hochi.news/articles/20200106-OHT1T50267.html?mode=photo&photoid=3)）
 11. 「92年NHK総合『紅白歌合戦』歌手別視聴率」平島廉久『検証視聴率』日本能率協会マネジメントセンター、1993年、80-81頁。ISBN 4-8207-0953-4。（該当ページにはこの回の全歌手別視聴率を掲載）
-12.
+12. 姉の安田祥子は、バックコーラスを担当(当時はグループはトリを務めてはならないという決まりがあった。[2003年に](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink")[SMAP](../Page/SMAP.md "wikilink")がトリを務めてからは、その決まりは廃止された)。
 13.
 14.
+15.

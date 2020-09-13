@@ -284,7 +284,7 @@
       -
         [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")は1973年7月に『太陽にほえろ\!』を遅れネットに変更した上で同時ネットに移行した他、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")は[熊本県民テレビ](../Page/熊本県民テレビ.md "wikilink")開局に伴い、1982年4月から同時ネットに移行している。
         [中国放送](../Page/中国放送.md "wikilink")は、『三菱ダイヤモンド・アワー』が本来の系列局である[広島テレビに移行した](../Page/広島テレビ放送.md "wikilink")1969年10月から同時ネットとなった。
-        [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")・[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")・[琉球放送](../Page/琉球放送.md "wikilink")は、1981年4月に『太陽にほえろ\!』の放映権をフジテレビ系列局（[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")・[鹿児島テレビ](../Page/鹿児島テレビ放送.md "wikilink")・[沖縄テレビ](../Page/沖縄テレビ放送.md "wikilink")、テレビ宮崎と鹿児島テレビは日本テレビ系列・[NETテレビ系列とのクロスネット局](../Page/テレビ朝日.md "wikilink")）へ放映権を移行して同時ネットに移行している。
+        [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")・[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")・[琉球放送](../Page/琉球放送.md "wikilink")は、1981年4月に『太陽にほえろ\!』の放映権をフジテレビ系列局（[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")・[鹿児島テレビ](../Page/鹿児島テレビ放送.md "wikilink")・[沖縄テレビ](../Page/沖縄テレビ放送.md "wikilink")、テレビ宮崎と鹿児島テレビは日本テレビ系列・[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列とのクロスネット局）へ放映権を移行して同時ネットに移行している。
         [信越放送](../Page/信越放送.md "wikilink")・[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")・[長崎放送](../Page/長崎放送.md "wikilink")は、1984年4月の『[JNNフラッシュニュース](../Page/JNNフラッシュニュース.md "wikilink")』の放送見直しと『[金曜ナイター](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")』の開始に伴い同時ネットに移行している（同時に『太陽にほえろ\!』は長野県・長崎県では[テレビ信州](../Page/テレビ信州.md "wikilink")・[テレビ長崎](../Page/テレビ長崎.md "wikilink")へ放映権移行、北陸放送は遅れネット化）。
   - 当時フジテレビ系列とのクロスネット局だった[福島テレビ](../Page/福島テレビ.md "wikilink")・[テレビ山口](../Page/テレビ山口.md "wikilink")の2局は以下の対応が取られていた。
       -

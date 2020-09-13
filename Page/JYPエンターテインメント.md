@@ -5,30 +5,32 @@
 
 ## 概要
 
-1997年5月、シンガーソングライターの[パク・ジニョン](https://ja.wikipedia.org/wiki/パク・ジニョン "wikilink")が芸能事務所「テホン企画」を設立。[god](https://ja.wikipedia.org/wiki/god_\(音楽グループ\) "wikilink")、[パク・チユン](https://ja.wikipedia.org/wiki/パク・チユン "wikilink")などを輩出し、プロデューサーとしての地位を固める。2001年4月、パク・ジニョンのイニシャルを取って「JYPエンターテインメント」に社名を変更。その後、ホン・スンソンと協力し、[ピ](../Page/ピ_\(歌手\).md "wikilink")、[Wonder Girls](https://ja.wikipedia.org/wiki/Wonder_Girls "wikilink")、[ジュ](https://ja.wikipedia.org/wiki/ジュ "wikilink")、[2PM](https://ja.wikipedia.org/wiki/2PM "wikilink")などの大物歌手を続々と輩出。2008年にホン・スンソンと決別した後も、[Miss A](https://ja.wikipedia.org/wiki/Miss_A "wikilink")、[GOT7](https://ja.wikipedia.org/wiki/GOT7 "wikilink")、[TWICE](https://ja.wikipedia.org/wiki/TWICE_\(韓国の音楽グループ\) "wikilink")、[Stray Kids](https://ja.wikipedia.org/wiki/Stray_Kids "wikilink")、[ITZY](https://ja.wikipedia.org/wiki/ITZY "wikilink")など、多くの歌手を世に送り出している。練習生の個性を否定しない企業方針の一方で人間教育にも非常に力を入れており、不祥事の少なさも折り紙つきである。[2010年代](../Page/2010年代.md "wikilink")以降の急成長ぶりは目覚ましく、名実ともに[SMエンターテインメント](../Page/SMエンターテインメント.md "wikilink")、[YGエンターテインメント](../Page/YGエンターテインメント.md "wikilink")と共に韓国の3大芸能事務所に成長した。
+1997年5月、シンガーソングライターの[パク・ジニョン](https://ja.wikipedia.org/wiki/パク・ジニョン "wikilink")が芸能事務所「テホン企画」を設立。[god](https://ja.wikipedia.org/wiki/god_\(音楽グループ\) "wikilink")、[パク・チユン](https://ja.wikipedia.org/wiki/パク・チユン "wikilink")などを輩出し、プロデューサーとしての地位を固める。2001年4月、パク・ジニョンのイニシャルを取って「JYPエンターテインメント」に社名を変更。その後、ホン・スンソンと協力し、[ピ](../Page/ピ_\(歌手\).md "wikilink")、[Wonder Girls](https://ja.wikipedia.org/wiki/Wonder_Girls "wikilink")、[ジュ](https://ja.wikipedia.org/wiki/ジュ "wikilink")、[2PM](https://ja.wikipedia.org/wiki/2PM "wikilink")などの大物歌手を続々と輩出。2008年にホン・スンソンと決別した後も、[Miss A](https://ja.wikipedia.org/wiki/Miss_A "wikilink")、[GOT7](https://ja.wikipedia.org/wiki/GOT7 "wikilink")、[TWICE](https://ja.wikipedia.org/wiki/TWICE_\(韓国の音楽グループ\) "wikilink")、[Stray Kids](https://ja.wikipedia.org/wiki/Stray_Kids "wikilink")、[ITZY](https://ja.wikipedia.org/wiki/ITZY "wikilink")など、多くの歌手を世に送り出している。[2010年代](../Page/2010年代.md "wikilink")以降の急成長ぶりは目覚ましく、名実ともに[SMエンターテインメント](../Page/SMエンターテインメント.md "wikilink")、[YGエンターテインメント](../Page/YGエンターテインメント.md "wikilink")と共に韓国の3大芸能事務所に成長した。
 
 ## 所属歌手・タレント
 
 ### 歌手・グループ
 
-  - [パク・ジニョン](https://ja.wikipedia.org/wiki/パク・ジニョン "wikilink")（1992年〜）
-  - [2PM](https://ja.wikipedia.org/wiki/2PM "wikilink")（2008年〜）
-  - [フェイ](https://ja.wikipedia.org/wiki/ワン・フェイフェイ "wikilink")（2010年〜）※元[miss A](https://ja.wikipedia.org/wiki/miss_A "wikilink")
-  - [GOT7](https://ja.wikipedia.org/wiki/GOT7 "wikilink")（2014年〜）
-  - ナクジュン (Bernard Park)（2014年〜）
-  - [DAY6](https://ja.wikipedia.org/wiki/DAY6 "wikilink")（2015年〜）
-  - [TWICE](https://ja.wikipedia.org/wiki/TWICE_\(韓国の音楽グループ\) "wikilink")（2015年〜）
-  - Lily M（2015年〜）
-  - [Stray Kids](https://ja.wikipedia.org/wiki/Stray_Kids "wikilink")（2018年〜）
-  - [ITZY](https://ja.wikipedia.org/wiki/ITZY "wikilink")（2019年〜）
+  - [パク・ジニョン](https://ja.wikipedia.org/wiki/パク・ジニョン "wikilink")（1992年 - ）
+  - [2PM](https://ja.wikipedia.org/wiki/2PM "wikilink")（2008年 - ）
+  - [フェイ](https://ja.wikipedia.org/wiki/ワン・フェイフェイ "wikilink")（2010年 - ）※元[miss A](https://ja.wikipedia.org/wiki/miss_A "wikilink")
+  - [GOT7](https://ja.wikipedia.org/wiki/GOT7 "wikilink")（2014年 - ）
+  - ナクジュン (Bernard Park)（2014年 - ）
+  - [DAY6](https://ja.wikipedia.org/wiki/DAY6 "wikilink")（2015年 - ）
+  - [TWICE](https://ja.wikipedia.org/wiki/TWICE_\(韓国の音楽グループ\) "wikilink")（2015年 - ）
+  - [Lily M](https://ja.wikipedia.org/wiki/Lily_M "wikilink")（2015年 - ）
+  - [Boy Story](../Page/Boy_Story.md "wikilink")（2018年 - ）
+  - [Stray Kids](https://ja.wikipedia.org/wiki/Stray_Kids "wikilink")（2018年 - ）
+  - [ITZY](https://ja.wikipedia.org/wiki/ITZY "wikilink")（2019年 - ）
+  - [NiziU](../Page/NiziU.md "wikilink")（2020年 - ）※[ソニーミュージックとJYPの合同オーディション](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")・プロジェクト「[Nizi Project](../Page/Nizi_Project.md "wikilink")」より
 
 ### 俳優・女優
 
-  - ユン・パク（2006年〜）
-  - カン・フン（2009年〜）
-  - シン・ウンス（2016年〜）
-  - シン・イェウン（2018年〜）
-  - キム・ドンヒ（2018年〜）
+  - ユン・パク（2006年 - ）
+  - カン・フン（2009年 - ）
+  - シン・ウンス（2016年 - ）
+  - シン・イェウン（2018年 - ）
+  - キム・ドンヒ（2018年 - ）
 
 ## 過去に所属していた歌手・タレント
 
@@ -61,9 +63,9 @@
       - [イェウン](https://ja.wikipedia.org/wiki/パク・イェウン "wikilink")
       - [ソンミ](https://ja.wikipedia.org/wiki/ソンミ_\(歌手\) "wikilink")
       - ヘリム
-      - [キム・ヒョナ](https://ja.wikipedia.org/wiki/キム・ヒョナ "wikilink") ※元メンバー
+      - [ヒョナ](https://ja.wikipedia.org/wiki/キム・ヒョナ "wikilink") ※元メンバー
       - ソネ ※元メンバー
-      - アン・ソヒ ※元メンバー
+      - [ソヒ](../Page/アン・ソヒ.md "wikilink") ※元メンバー
   - [ジュ](https://ja.wikipedia.org/wiki/ジュ "wikilink")
   - San E
   - [パク・ジェボム](https://ja.wikipedia.org/wiki/パク・ジェボム "wikilink")　※元[2PM](https://ja.wikipedia.org/wiki/2PM "wikilink")
@@ -84,6 +86,9 @@
   - [G.Soul](https://ja.wikipedia.org/wiki/G.Soul "wikilink") (現在はGolden)
   - [チョン・ソミ](https://ja.wikipedia.org/wiki/チョン・ソミ "wikilink")　※元[I.O.I](https://ja.wikipedia.org/wiki/I.O.I "wikilink")
   - ウジン　※元[Stray Kids](https://ja.wikipedia.org/wiki/Stray_Kids "wikilink")
+  - うんこドリル※元[JRバス東北運転士](https://ja.wikipedia.org/wiki/JRバス東北運転士 "wikilink")
+
+※中村幸則、元[JRバス東北運転士](https://ja.wikipedia.org/wiki/JRバス東北運転士 "wikilink")、
 
 ### 俳優・女優
 
@@ -110,9 +115,17 @@
   - パク・シウン
   - キム・ユアン
 
-<!-- end list -->
+### 練習生
 
-  -
+※(JYPではマネージメントを受けず、その後デビューした歌手を指します。)
+
+  - [イ・チェヨン](https://ja.wikipedia.org/wiki/イ・チェヨン_\(2000年生の歌手\) "wikilink") (現在、[IZ\*ONE](https://ja.wikipedia.org/wiki/IZ*ONE "wikilink"))
+  - パク・ジウォン (現在、[fromis_9](https://ja.wikipedia.org/wiki/fromis_9 "wikilink"))
+  - [ナッティー](../Page/ナッティー.md "wikilink") (現在、ソロ活動)
+  - レン・シカ (現在、[FANATICS](https://ja.wikipedia.org/wiki/FANATICS_\(韓国のアイドルグループ\) "wikilink"))
+  - チョン・ユンへ (現在、[FANATICS](https://ja.wikipedia.org/wiki/FANATICS_\(韓国のアイドルグループ\) "wikilink"))
+  - ク・セミ (現在、[CIGNATURE](../Page/CIGNATURE.md "wikilink"))
+
 ## 脚註
 
 ## 外部リンク

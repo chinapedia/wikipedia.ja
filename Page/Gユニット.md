@@ -126,7 +126,7 @@
 ## 外部リンク
 
   - [G-Unit（公式HP）](http://www.g-unitsoldier.com)
-  - [G-Unit（Universal-Musicの日本語HP）](http://www.universal-music.co.jp/u-pop/artist/g-unit/index.html)
+  - [G-Unit（Universal-Musicの日本語HP）](https://www.universal-music.co.jp/g-unit/)
   - [Shadyville Entertainment（DJ Whookidの公式HP）](http://www.shadyville.biz/)
   - [Reebok Japan](http://www.reebok.co.jp)
   - [G-Unit Clothing（日本語公式HP）](http://www.g-unitclothing.jp)

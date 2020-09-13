@@ -72,7 +72,7 @@
 
 ## 外部リンク
 
-  - [インターネットラジオステーション＜音泉＞](http://onsen.ag/)
+  -
   - [Supporters community site BEWE](https://web.archive.org/web/20161214093734/http://www.bewe.sc/)
 
 [Category:音泉](https://ja.wikipedia.org/wiki/Category:音泉 "wikilink") [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink")

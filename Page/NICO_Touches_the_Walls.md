@@ -1,7 +1,7 @@
 > この記事は[NICO Touches the Walls](https://ja.wikipedia.org/wiki/NICO_Touches_the_Walls)から翻訳されています。
 
 
-**NICO Touches the Walls**（ニコ・タッチズ・ザ・ウォールズ）は、[2004年](../Page/2004年.md "wikilink")に結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。略称は『**NICO**』『**ニコ**』（公式TwitterのIDや一部グッズには『**NTtW**』の表記も見られる）。2015年以降、アコースティック編成の名義として『**ACO Touches the Walls**』が用いられることもある。
+**NICO Touches the Walls**（ニコ・タッチズ・ザ・ウォールズ）は、[2004年](../Page/2004年.md "wikilink")に結成をし、[2019年](../Page/2019年.md "wikilink")に活動終了を発表した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。略称は『**NICO**』『**ニコ**』（公式TwitterのIDや一部グッズには『**NTtW**』の表記も見られる）。2015年以降、アコースティック編成の名義として『**ACO Touches the Walls**』が用いられることもある。
 
 ## メンバー
 
@@ -323,6 +323,10 @@
 
   - 2019年
 
+:\* 6月
+
+:\*\*5日、7th アルバム『[QUIZMASTER](../Page/QUIZMASTER.md "wikilink")』をリリース。
+
 :\* 11月
 
 :\*\*15日、オフィシャルサイトにて活動終了が発表された。
@@ -604,7 +608,7 @@ KSCL-2712（通常盤）</p></td>
 <tr class="even">
 <td><p>7th</p></td>
 <td><p>2019年6月5日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/QUIZMASTER" title="wikilink">QUIZMASTER</a></strong></p></td>
+<td><p><strong><a href="../Page/QUIZMASTER.md" title="wikilink">QUIZMASTER</a></strong></p></td>
 <td><p>KSCL-3171/73（完全生産限定盤）<br />
 KSCL-3174/76（初回限定盤）<br />
 KSCL-3177（通常盤）</p></td>
@@ -1429,7 +1433,7 @@ UPJH-9016</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/大谷太郎" title="wikilink">大谷太郎</a></p></td>
-<td><p>「バケモノ」(出演:<a href="https://ja.wikipedia.org/wiki/三浦春馬" title="wikilink">三浦春馬</a>)</p></td>
+<td><p>「バケモノ」(出演:<a href="../Page/三浦春馬.md" title="wikilink">三浦春馬</a>)</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1851,7 +1855,7 @@ w/ACO Touches the Walls(OA)/[BLUE ENCOUNT](https://ja.wikipedia.org/wiki/BLUE_EN
   - [NICOと僕と](http://blog.livedoor.jp/nicoandtatsuya/) （ボーカル・光村の旧ブログ）
 
   -
-[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:A-Sketchのアーティスト](https://ja.wikipedia.org/wiki/Category:A-Sketchのアーティスト "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink") [Category:2019年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に解散した音楽グループ "wikilink")
+[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:A-Sketchのアーティスト](https://ja.wikipedia.org/wiki/Category:A-Sketchのアーティスト "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink") [Category:2019年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に解散した音楽グループ "wikilink")
 
 1.
 2.

@@ -184,8 +184,7 @@
 <td><p><a href="../Page/鳥取県.md" title="wikilink">鳥取県</a><br />
 <a href="../Page/島根県.md" title="wikilink">島根県</a></p></td>
 <td><p><a href="../Page/日本海テレビジョン放送.md" title="wikilink">日本海テレビ</a></p></td>
-<td><p>日本テレビ系列<br />
-テレビ朝日系列</p></td>
+<td><p>日本テレビ系列</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -284,7 +283,7 @@
   - NKT 日本海テレビ - [NKTニュース](https://ja.wikipedia.org/wiki/NKTニュース "wikilink")→[ワイドニュース日本海](https://ja.wikipedia.org/wiki/ワイドニュース日本海 "wikilink")
   - RNC 西日本放送 - [RNCニュース](../Page/RNCニュース.md "wikilink")→[RNC6:00](../Page/RNC6:00.md "wikilink")
   - JR→JRT 四国放送 - [徳島新聞テレビ夕刊](https://ja.wikipedia.org/wiki/徳島新聞テレビ夕刊 "wikilink")→フォーカス徳島（｢[フォーカス徳島](../Page/フォーカス徳島.md "wikilink")｣は現在も放送中）
-  - RKC 高知放送 - [テレビレポートRKC６時です](https://ja.wikipedia.org/wiki/テレビレポートRKC６時です "wikilink")
+  - RKC 高知放送 - [テレビレポートRKC6時です](https://ja.wikipedia.org/wiki/テレビレポートRKC6時です "wikilink")
   - RNB 南海放送 - [なんかいNEWS](../Page/なんかいNEWS.md "wikilink")→[なんかいワイドニュースtoday](https://ja.wikipedia.org/wiki/なんかいワイドニュースtoday "wikilink")
   - HTV 広島テレビ - [広島テレビニュース](../Page/広島テレビNEWS.md "wikilink")→[広島テレビニュースアイ](https://ja.wikipedia.org/wiki/広島テレビニュースアイ "wikilink")
   - KRY 山口放送 - [KRYニュース](../Page/KRYニュース.md "wikilink")→[KRY テレビ夕刊](../Page/KRY_テレビ夕刊.md "wikilink")

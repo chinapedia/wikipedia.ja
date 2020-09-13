@@ -582,7 +582,7 @@
 <strong><a href="https://ja.wikipedia.org/wiki/入江悠" title="wikilink">入江悠</a>監督、及びスタッフ・キャスト一同</strong> [9]<br />
 <strong><a href="../Page/役所広司.md" title="wikilink">役所広司</a></strong> - 『<a href="https://ja.wikipedia.org/wiki/わが母の記" title="wikilink">わが母の記</a>』『<a href="https://ja.wikipedia.org/wiki/キツツキと雨" title="wikilink">キツツキと雨</a>』『<a href="https://ja.wikipedia.org/wiki/聯合艦隊司令長官_山本五十六" title="wikilink">聯合艦隊司令長官 山本五十六</a>』<br />
 <strong><a href="../Page/樹木希林.md" title="wikilink">樹木希林</a></strong> - 『わが母の記』<br />
-<strong><a href="https://ja.wikipedia.org/wiki/宮崎あおい" title="wikilink">宮﨑あおい</a></strong> - 『わが母の記』『<a href="https://ja.wikipedia.org/wiki/天地明察" title="wikilink">天地明察</a>』『<a href="https://ja.wikipedia.org/wiki/ツレがうつになりまして。" title="wikilink">ツレがうつになりまして。</a>』『<a href="https://ja.wikipedia.org/wiki/おおかみこどもの雨と雪" title="wikilink">おおかみこどもの雨と雪</a>』<br />
+<strong><a href="https://ja.wikipedia.org/wiki/宮﨑あおい" title="wikilink">宮﨑あおい</a></strong> - 『わが母の記』『<a href="https://ja.wikipedia.org/wiki/天地明察" title="wikilink">天地明察</a>』『<a href="https://ja.wikipedia.org/wiki/ツレがうつになりまして。" title="wikilink">ツレがうつになりまして。</a>』『<a href="https://ja.wikipedia.org/wiki/おおかみこどもの雨と雪" title="wikilink">おおかみこどもの雨と雪</a>』<br />
 <strong><a href="https://ja.wikipedia.org/wiki/梁英姫" title="wikilink">ヤン・ヨンヒ監督</a></strong> - 『<a href="https://ja.wikipedia.org/wiki/かぞくのくに" title="wikilink">かぞくのくに</a>』<br />
 <strong><a href="https://ja.wikipedia.org/wiki/沖田修一" title="wikilink">沖田修一</a>監督</strong> - 『キツツキと雨』<br />
 <strong><a href="https://ja.wikipedia.org/wiki/神木隆之介" title="wikilink">神木隆之介</a></strong> - 『桐島、部活やめるってよ』『<a href="https://ja.wikipedia.org/wiki/劇場版_SPEC〜天〜" title="wikilink">SPEC 天</a>』<br />

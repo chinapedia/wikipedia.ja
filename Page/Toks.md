@@ -177,7 +177,7 @@
 
   - [東急ステーションリテールサービス](http://www.e-toks.co.jp/)
 
-[Category:鉄道のサービス](https://ja.wikipedia.org/wiki/Category:鉄道のサービス "wikilink") [Category:鉄道駅の構内商業施設](https://ja.wikipedia.org/wiki/Category:鉄道駅の構内商業施設 "wikilink") [Category:東京急行電鉄](https://ja.wikipedia.org/wiki/Category:東京急行電鉄 "wikilink") [Category:東急グループ](https://ja.wikipedia.org/wiki/Category:東急グループ "wikilink") [Category:ローソン](https://ja.wikipedia.org/wiki/Category:ローソン "wikilink") [Category:日本のコンビニエンスストア](https://ja.wikipedia.org/wiki/Category:日本のコンビニエンスストア "wikilink")
+[Category:鉄道のサービス](https://ja.wikipedia.org/wiki/Category:鉄道のサービス "wikilink") [Category:鉄道駅の構内商業施設](https://ja.wikipedia.org/wiki/Category:鉄道駅の構内商業施設 "wikilink") [Category:東急電鉄](https://ja.wikipedia.org/wiki/Category:東急電鉄 "wikilink") [Category:東急グループ](https://ja.wikipedia.org/wiki/Category:東急グループ "wikilink") [Category:ローソン](https://ja.wikipedia.org/wiki/Category:ローソン "wikilink") [Category:日本のコンビニエンスストア](https://ja.wikipedia.org/wiki/Category:日本のコンビニエンスストア "wikilink")
 
 1.  [会社概要/沿革](http://www.e-toks.co.jp/company/history/tabid/65/Default.aspx) 東急ステーションリテールサービス公式サイト
 2.  [店舗一覧](http://www.e-toks.co.jp/shopinfo) 東急ステーションリテールサービス 公式サイト

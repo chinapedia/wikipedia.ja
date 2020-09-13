@@ -1,7 +1,7 @@
 > この記事は[Sakura Script Transfer Protocol](https://ja.wikipedia.org/wiki/Sakura_Script_Transfer_Protocol)から翻訳されています。
 
 
-**SSTP** (**S**akura **S**cript **T**ransfer **P**rotocol) とは、[伺か](../Page/伺か.md "wikilink")、およびその互換環境（以下 SSTP サーバ）の制御に使われる SAKURA [Script](../Page/スクリプト言語.md "wikilink") の転送[プロトコルである](../Page/通信プロトコル.md "wikilink")。 [HTTP](../Page/Hypertext_Transfer_Protocol.md "wikilink") ヘッダに似た構文を持つ。
+**Sakura Script Transfer Protocol** (サクラ スクリプト トランスファー プロトコル、**SSTP**) とは、[伺か](../Page/伺か.md "wikilink")、およびその互換環境（以下 SSTP サーバ）の制御に使われる SAKURA [Script](../Page/スクリプト言語.md "wikilink") の転送[プロトコルである](../Page/通信プロトコル.md "wikilink")。 [HTTP](../Page/Hypertext_Transfer_Protocol.md "wikilink") ヘッダに似た構文を持つ。
 
 SSTP を利用することにより、外部から SSTP サーバにイベントを発生させることができる。 SSTP が使用する[ポート番号](https://ja.wikipedia.org/wiki/ポート番号 "wikilink")9801、およびポート番号7743は [IANA](../Page/Internet_Assigned_Numbers_Authority.md "wikilink") が定める予約済みポート番号にも登録されている。 SSTP 自体は単なる転送プロトコルに過ぎず、 SSTP サーバへ実際に与えられる命令は SAKURA Script による。これは HTTP と [HTML](../Page/HyperText_Markup_Language.md "wikilink") の関係に例えると分かりやすい。
 

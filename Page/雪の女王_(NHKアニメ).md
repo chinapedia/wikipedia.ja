@@ -34,7 +34,7 @@
   - ゲルダ - [川澄綾子](../Page/川澄綾子.md "wikilink")
   - カイ / 春の国の王子 - [夏樹リオ](../Page/夏樹リオ.md "wikilink")
   - カール（カイの父） - [高嶋政宏](../Page/高嶋政宏.md "wikilink")
-  - ニナ（カイの母） - [日高のり子](../Page/日高のり子.md "wikilink")
+  - ニナ（カイの母） - [日髙のり子](https://ja.wikipedia.org/wiki/日髙のり子 "wikilink")
   - ヨハンネ（カイの妹） - [城雅子](../Page/城雅子.md "wikilink")
   - マティルデ（ゲルダの祖母） - [翠準子](../Page/翠準子.md "wikilink")
   - 赤トロル（女王の侍従） - [後藤哲夫](../Page/後藤哲夫.md "wikilink")

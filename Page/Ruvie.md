@@ -57,7 +57,7 @@
 <!-- end list -->
 
   - 4月1日…[S'CUBE所属](../Page/フリーウィル.md "wikilink")
-  - 8月29日…[目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink") ワンマンライブ「limit」
+  - 8月29日…[目黒鹿鳴館](../Page/目黒鹿鳴館.md "wikilink") ワンマンライブ「limit」
   - 11月17日…[高田馬場AREA](../Page/高田馬場AREA.md "wikilink") 主催イベント「荒川」
 
 <!-- end list -->

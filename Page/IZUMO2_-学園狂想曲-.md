@@ -108,8 +108,8 @@
 
 ## 外部リンク
 
-  - [『IZUMO2 -学園狂想曲-』公式サイト](http://web.archive.org/web/20110614100700fw_/http://www.studio-ego.co.jp/ego/game/izumo2p/top.html) - 閉鎖。（2011年7月23日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
-  - [『IZUMO2 -学園狂想曲- ダブルタクト』公式サイト](http://web.archive.org/web/20120214130309/http://www.goodnavigate.com/GN/products/IZUMO_DT/index.html) - 閉鎖。（2012年2月14日時点のアーカイブ）
+  - [『IZUMO2 -学園狂想曲-』公式サイト](https://web.archive.org/web/20110614100700fw_/http://www.studio-ego.co.jp/ego/game/izumo2p/top.html) - 閉鎖。（2011年7月23日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [『IZUMO2 -学園狂想曲- ダブルタクト』公式サイト](https://web.archive.org/web/20120214130309/http://www.goodnavigate.com/GN/products/IZUMO_DT/index.html) - 閉鎖。（2012年2月14日時点のアーカイブ）
 
 [Category:Studio_e.go\!](https://ja.wikipedia.org/wiki/Category:Studio_e.go! "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:2006年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2006年のアダルトゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:学校を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:学校を舞台としたコンピュータゲーム "wikilink")
 

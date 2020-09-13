@@ -1,7 +1,7 @@
 > この記事は[Liar! Liar!](https://ja.wikipedia.org/wiki/Liar!_Liar!)から翻訳されています。
 
 
-「**Liar\! Liar\!**」 (ライアー\! ライアー\!)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月8日](../Page/10月8日.md "wikilink")に[Rooms RECORDSより](../Page/VERMILLION_RECORDS.md "wikilink")23作目の[シングル](../Page/シングル.md "wikilink")として発売された。
+「**Liar\! Liar\!**」 (ライアー\! ライアー\!)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。1997年10月8日に[Rooms RECORDSより](../Page/VERMILLION_RECORDS.md "wikilink")23作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 
@@ -11,7 +11,9 @@
 
 この作品のCMでは「稲葉が[腹話術](../Page/腹話術.md "wikilink")を行う」、「松本が[バーで飲む](../Page/バー_\(酒場\).md "wikilink")」、「2人が[ヒッチハイク](../Page/ヒッチハイク.md "wikilink")をする」という一風変わったものが放送された。
 
-『FIREBALL』と同様にオリコンではミリオンには届かなかったが、日本レコード協会の集計ではミリオンセラーを達成している\[2\]。
+オリコンでは『Liar\! Liar\!/ビリビリ』と両A面シングルとして扱われているが\[2\]、公式では「Liar\! Liar\!」の単独A面である。
+
+『FIREBALL』と同様にオリコンではミリオンには届かなかったが、日本レコード協会の集計ではミリオンセラーを達成している\[3\]。
 
 ## 収録曲
 
@@ -19,10 +21,10 @@
       -
         打ち込み音やギターリフを多用した楽曲で、当時のインタビューで本人たちは「原点回帰」とコメントしている。
         歌詞は社会風刺を取り込んだもの。
-        元々はアルバム『[SURVIVE](../Page/SURVIVE.md "wikilink")』からの先行シングルがなかなか決まらずならば新曲を作ろうとのことで、アルバム制作の最後に急遽製作された\[3\]\[4\]。
-        松本がメロディーを作り始めた3、4日後には歌詞やアレンジも完成し\[5\]、前作「[Calling](../Page/Calling_\(B'zの曲\).md "wikilink")」とは対照的に、当時のB'z史上最短時間で完成した。
-        [PVは](../Page/ミュージック・ビデオ.md "wikilink")[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ルイジアナ州](https://ja.wikipedia.org/wiki/ルイジアナ州 "wikilink")[ニューオーリンズ](../Page/ニューオーリンズ.md "wikilink")で\[6\]、9月9日と10日の2日間で撮影された。
-        元[メガデスの](../Page/メガデス_\(バンド\).md "wikilink")[マーティ・フリードマン](../Page/マーティ・フリードマン.md "wikilink")が[日本のロック](../Page/日本のロック.md "wikilink")に傾倒するきっかけとなった曲である\[7\]。
+        元々はアルバム『[SURVIVE](../Page/SURVIVE.md "wikilink")』からの先行シングルがなかなか決まらずならば新曲を作ろうとのことで、アルバム制作の最後に急遽製作された\[4\]\[5\]。
+        松本がメロディーを作り始めた3、4日後には歌詞やアレンジも完成し\[6\]、前作「[Calling](../Page/Calling_\(B'zの曲\).md "wikilink")」とは対照的に、当時のB'z史上最短時間で完成した。
+        [PVは](../Page/ミュージック・ビデオ.md "wikilink")[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ルイジアナ州](https://ja.wikipedia.org/wiki/ルイジアナ州 "wikilink")[ニューオーリンズ](../Page/ニューオーリンズ.md "wikilink")で\[7\]、9月9日と10日の2日間で撮影された。
+        元[メガデスの](../Page/メガデス_\(バンド\).md "wikilink")[マーティ・フリードマン](../Page/マーティ・フリードマン.md "wikilink")が日本のロックに傾倒するきっかけとなった曲である\[8\]。
 2.  **ビリビリ** (3:33)
       -
         打ち込みのベースと[山木秀夫](../Page/山木秀夫.md "wikilink")によるドラム・ループを使用した楽曲。
@@ -86,3 +88,4 @@
 5.
 6.
 7.
+8.

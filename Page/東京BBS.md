@@ -1,19 +1,17 @@
 > この記事は[東京BBS](https://ja.wikipedia.org/wiki/東京BBS)から翻訳されています。
 
 
-**東京BBS**（とうきょうびーびーえす）とは、かつて存在した[パソコン通信](../Page/パソコン通信.md "wikilink")の[草の根BBS](https://ja.wikipedia.org/wiki/草の根BBS "wikilink")。[2001年](../Page/2001年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")をもって閉局した。
+**東京BBS**（とうきょうびーびーえす）とは、かつて存在した[パソコン通信](../Page/パソコン通信.md "wikilink")の[草の根BBS](https://ja.wikipedia.org/wiki/草の根BBS "wikilink")。[2001年](../Page/2001年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")をもって閉局。
 
 ## 概要
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")開局。
 
-[東京都](../Page/東京都.md "wikilink")[足立区](../Page/足立区.md "wikilink")に所在した草の根BBS局であり、その規模は草の根BBSとして日本最大の規模を誇った。
+[東京都](../Page/東京都.md "wikilink")[足立区](../Page/足立区.md "wikilink")に所在した草の根BBS局であり、その規模は草の根BBSとして日本最大の規模を誇っていた。
 
-内容はおよそホビーに特化しており、他の[パソコン通信](../Page/パソコン通信.md "wikilink")局とともに現在へ繋がる[同人](https://ja.wikipedia.org/wiki/同人 "wikilink")文化に多大な影響を与えた。
+内容はおよそホビーに特化しており、CG系ボードや同人サークル系の個人ボードが充実していた。そのため、他の[パソコン通信](../Page/パソコン通信.md "wikilink")局とともに現在へ繋がる[同人](https://ja.wikipedia.org/wiki/同人 "wikilink")文化に多大な影響を与えている。
 
-ホストは[BIG-MODEL](https://ja.wikipedia.org/wiki/BIG-MODEL "wikilink")を多回線対応へ独自に改良したMEGA-LINKS(後にGIGA-LINKS)を使用した。
-
-末期には、申請により東京BBSドメインによるメールアドレスが付与されるなど、インターネット網への接続も試みられていた。
+ホストは[BIG-MODEL](https://ja.wikipedia.org/wiki/BIG-MODEL "wikilink")を多回線対応へ独自に改良したMEGA-LINKS(後にGIGA-LINKS)を使用し、末期には、申請により東京BBSドメインによるメールアドレスが付与されるなど、インターネット網への接続も試みられていた。
 
 宣伝用のシールが用意されており、イベントなどで配布することを申請するとロゴ入りシールセットが送られてきた。
 
@@ -27,7 +25,7 @@
 
 ## ホスト放火
 
-[1999年](../Page/1999年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink")未明、ホストのある横の建物で不審火による[火災](../Page/火災.md "wikilink")があり、延焼によりホストが全焼した。この頃は全盛期を終え[インターネット](../Page/インターネット.md "wikilink")の普及が始まっていた時期であり、このホストの停止は致命的であった。半年後には復旧したが利用者は激減、争奪戦まで起こった回線は縮小しついに以前の勢いを取り戻すことは無かった。
+[1999年](../Page/1999年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink")未明、ホストのある横の建物で不審火による[火災](../Page/火災.md "wikilink")があり、延焼によりホストが全焼した。この頃は全盛期を終え[インターネット](../Page/インターネット.md "wikilink")の普及が始まっていた時期であり、このホストの停止は致命的であった。半年後には復旧したが、利用者は激減。かつては争奪戦まで起きていた回線も縮小し、ついに以前の勢いを取り戻すことは無かった。
 
 出火直後、炎上する建物の画像が他の草の根ネットや、[ニフティサーブ](../Page/ニフティサーブ.md "wikilink")(現在の[@nifty](https://ja.wikipedia.org/wiki/ニフティ#@nifty "wikilink"))などに投稿され、被害の甚大さとパソコン通信時代の終焉を物語るかのような様相を呈した。
 

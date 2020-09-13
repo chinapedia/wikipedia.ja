@@ -45,7 +45,7 @@
     <!-- end list -->
       -
         19thシングル「NEO UNIVERSE／finale」の1曲目。[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")の[口紅](../Page/口紅.md "wikilink")ブランド「[ピエヌ](../Page/ピエヌ.md "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")。
-        hydeは「ある意味このアルバムを象徴している曲」と述べており、「夢を追いつつ現実はこうなんだなっていう部分が一番よく出てる\[15\]」と語っている。
+        楽曲は[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")が多用されており、kenがキーボードのリフから制作したものである。hydeは「ある意味このアルバムを象徴している曲」と述べており、「夢を追いつつ現実はこうなんだなっていう部分が一番よく出てる\[15\]」と語っている。
         アウトロの一発を除き、スネアの音が入っておらず、ドラムは終始ハイハットとキックの4分打ちだけの構成となっている。プロデューサーの[岡野ハジメ](../Page/岡野ハジメ.md "wikilink")にとって思い入れの曲であり、「"メガヒットシングルで、ダンサンブルな曲なのにスネアが入ってない"というのは俺の人生の誇りになりました」「もしこれを他の人に先にやられたら、かなり嫉妬したと思います」と述べている\[16\]。曲中にギターソロの代わりに、エフェクター「Roger Mayer Marble Fuzz」を用いた6弦ベースソロが存在する\[17\]。
 4.  **bravery**
       - 作詞・作曲：[tetsu](https://ja.wikipedia.org/wiki/tetsuya "wikilink") / 編曲：L'Arc〜en〜Ciel & [Seiji Kameda](../Page/亀田誠治.md "wikilink")
@@ -59,19 +59,19 @@
     <!-- end list -->
       -
         18thシングル。メンバー出演の[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")「Wonder BJ」[CMソング](../Page/コマーシャルソング.md "wikilink")、及び[テレビ朝日](../Page/テレビ朝日.md "wikilink")系ドラマ『[青い鳥症候群](../Page/青い鳥症候群_\(テレビドラマ\).md "wikilink")』主題歌。
-        シングルのテイクと比べ、やや[リバーブが抑えられている](../Page/リバーブレーター.md "wikilink")。
+        [1999年](../Page/1999年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")から[8月](../Page/8月.md "wikilink")にかけて行われたライブツアー「[1999 GRAND CROSS TOUR](../Page/1999_GRAND_CROSS_TOUR.md "wikilink")」で訪れた会場の景色をイメージして制作された楽曲。歌詞についてhydeは「1999年っていうのが自分の中でなんかすごく感慨深い年だったんで、それを言葉の中に残したかったんです。1999年から2000年に向ける前向きなニュアンスを入れたいなと\[21\]」と述べている。曲名は「（あなたのもとへ）愛が羽ばたいていく」という意味で、元々はkenが曲のイメージをhydeに伝える際に用いた言葉であった。シングルのテイクと比べ、やや[リバーブが抑えられている](../Page/リバーブレーター.md "wikilink")。
 6.  **[finale](https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale "wikilink")**
       - 作詞：hyde / 作曲：tetsu / 編曲：L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
         19thシングル「NEO UNIVERSE／finale」の2曲目。[東宝](../Page/東宝.md "wikilink")配給[映画](../Page/映画.md "wikilink")『[リング0 バースデイ](../Page/リング0_バースデイ.md "wikilink")』主題歌。
-        上記映画の登場人物である[貞子の恋人の視点で書かれていた楽曲で](../Page/山村貞子.md "wikilink")、hydeは「一つ一つの場面を自分に置き換えて考えたんで、全ての部分にリングの映像が伴う感じ\[21\]」と述べている。
+        歌詞はhydeが上記映画の台本を読んだ上で手掛けており、上記映画の登場人物である[貞子の恋人の視点で書かれた楽曲](../Page/山村貞子.md "wikilink")。歌詞を手掛けたhydeは「一つ一つの場面を自分に置き換えて考えたんで、全ての部分にリングの映像が伴う感じ\[22\]」と述べている。
 7.  **[STAY AWAY](../Page/STAY_AWAY.md "wikilink")**
       - 作詞：hyde / 作曲：tetsu / 編曲：L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
         20thシングル。「NEO UNIVERSE」の後を継いで、資生堂「ピエヌ」CMソングに起用された。
-        エフェクター「PSK Core Drive CDV-5」を用いた歪みの効いたファズベースソロが曲間に存在する。
+        tetsuyaは楽曲のイメージについて「結局自由自由と言いながら、それって型にハマってるだけじゃん。全然自由じゃない\[23\]」と述べており、このイメージを基にhydeが歌詞を手掛けている。曲中にはエフェクター「PSK Core Drive CDV-5」を用いた歪みの効いたファズベースソロが曲間に存在する。
         [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は、最後の[サビ](../Page/サビ.md "wikilink")の部分において、メンバーがバックで踊っているエキストラと全く同じ[ダンス](../Page/ダンス.md "wikilink")を息を合わせて踊る映像となっている。この映像は[音楽](../Page/音楽.md "wikilink")[専門チャンネル](../Page/専門チャンネル.md "wikilink")『[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")』主催の音楽賞「[SPACE SHOWER Music Video Awards 00](https://ja.wikipedia.org/wiki/SPACE_SHOWER_Music_Video_Awards "wikilink")」の「BEST VIDEO OF THE YEAR」と「BEST GROUP VIDEO」を受賞している。
 8.  **ROUTE 666**
       - 作詞・作曲：hyde / 編曲：L'Arc〜en〜Ciel & Hajime Okano
@@ -79,22 +79,22 @@
       -
         読み方は「ルートシックスシックスティーシックス」。666とは悪魔の数字を意味している。名前の由来は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")に実在する「[国道66号線](../Page/国道66号線_\(アメリカ合衆国\).md "wikilink")」から。
         アルバム発売前の[2000年](../Page/2000年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")に発売された[プレイステーション](https://ja.wikipedia.org/wiki/プレイステーション "wikilink")用[レーシングゲーム](https://ja.wikipedia.org/wiki/レーシングゲーム "wikilink")『[激突トマラルク](https://ja.wikipedia.org/wiki/激突トマラルク "wikilink")』のBGMに本楽曲のゲームアレンジ版が使用されている。
-        歌詞は全て[比喩で](https://ja.wikipedia.org/wiki/修辞技法#比喩 "wikilink")、hyde曰く「自分の人生っていうか、自分の現在いる道ってものを、現実の道に置き換えて書いてみた\[22\]」「アメリカのROUTE66から南にずっと抜けていく道があるんですけど、そこの砂漠や荒野をイメージした\[23\]」という。また、hydeは曲について「古典的なロックンロール\[24\]」と表現している。曲中にベースソロが存在する。ライブではテンポアップして演奏される。
+        歌詞は全て[比喩で](https://ja.wikipedia.org/wiki/修辞技法#比喩 "wikilink")、hyde曰く「自分の人生っていうか、自分の現在いる道ってものを、現実の道に置き換えて書いてみた\[24\]」「アメリカのROUTE66から南にずっと抜けていく道があるんですけど、そこの砂漠や荒野をイメージした\[25\]」という。また、hydeは曲について「古典的なロックンロール\[26\]」と表現している。曲中にベースソロが存在する。ライブではテンポアップして演奏される。
         [2015年](../Page/2015年.md "wikilink")に行われたライブ「[L'Arc〜en〜Ciel LIVE 2015 L'ArCASINO](https://ja.wikipedia.org/wiki/L'Arc〜en〜Ciel_LIVE_2015_L'ArCASINO "wikilink")」において、[2000年](../Page/2000年.md "wikilink")に開催されたライブツアー「TOUR 2000 REAL」以来15年ぶりにライブで披露された。
         後に、パートチェンジバンド[P'UNK〜EN〜CIEL](https://ja.wikipedia.org/wiki/P'UNK〜EN〜CIEL "wikilink")でリアレンジされ、36thシングル「[BLESS](https://ja.wikipedia.org/wiki/BLESS_\(L'Arc〜en〜Cielの曲\) "wikilink")」のカップリングに収録している。
 9.  **TIME SLIP**
       - 作詞：hyde / 作曲：ken / 編曲：L'Arc〜en〜Ciel & [CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
     <!-- end list -->
       -
-        hydeが、「昔の友達と数年ぶりに会ったときに感じたこと」を歌詞にしており、楽曲について「身近で、ライフスタイルが見える生活感のある曲\[25\]」と述べている。
-        作曲したkenはこの曲について「怒りとか喜びとか、突出した感情がなくても曲はできるんだなあと実感できた\[26\]」と述べている。本楽曲のアレンジ・共同プロデュースとして、「[虹](../Page/虹_\(L'Arc〜en〜Cielの曲\).md "wikilink")」以来に[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")が参加している。仮タイトルは「[加藤紀子](https://ja.wikipedia.org/wiki/加藤紀子 "wikilink")」で、kenがスタッフに好きなタレントを聞いた際に、返ってきた人物の名前をそのまま付けている\[27\]。
+        hydeが、「昔の友達と数年ぶりに会ったときに感じたこと」を歌詞にしており、楽曲について「身近で、ライフスタイルが見える生活感のある曲\[27\]」と述べている。
+        作曲したkenはこの曲について「怒りとか喜びとか、突出した感情がなくても曲はできるんだなあと実感できた\[28\]」と述べている。本楽曲のアレンジ・共同プロデュースとして、「[虹](../Page/虹_\(L'Arc〜en〜Cielの曲\).md "wikilink")」以来に[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")が参加している。仮タイトルは「[加藤紀子](https://ja.wikipedia.org/wiki/加藤紀子 "wikilink")」で、kenがスタッフに好きなタレントを聞いた際に、返ってきた人物の名前をそのまま付けている\[29\]。
         「THE NEPENTHES」と同様に、2008年に行われたライブツアー「[TOUR 2008 L'7 〜Trans ASIA via PARIS〜](https://ja.wikipedia.org/wiki/TOUR_2008_L'7_〜Trans_ASIA_via_PARIS〜 "wikilink")」において、ドームツアー「TOUR 2000 REAL」以来約8年ぶりに演奏された。
 10. **a silent letter**
       - 作詞：hyde / 作曲：ken / 編曲：L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
-        kenが夜空を見ながら作った楽曲で\[28\]、終盤に女性コーラスが重なる[バラード](../Page/バラード.md "wikilink")。kenはhydeの歌詞を見て「俺が見た風景と一緒だった\[29\]」と述べている。
-        また、kenが[フジテレビ系番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")』内のコーナー、[テレフォンショッキング](https://ja.wikipedia.org/wiki/テレフォンショッキング "wikilink")に出演した際に[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")にプレゼントしたギターで出演前日に作曲したため、仮タイトルは「タモソング」。hydeは番組でのやり取りを聞いて「どんな曲だろうと思って楽しみにしていた\[30\]」という。
+        kenが夜空を見ながら作った楽曲で\[30\]、終盤に女性コーラスが重なる[バラード](../Page/バラード.md "wikilink")。kenはhydeの歌詞を見て「俺が見た風景と一緒だった\[31\]」と述べている。
+        また、kenが[フジテレビ系番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")』内のコーナー、[テレフォンショッキング](https://ja.wikipedia.org/wiki/テレフォンショッキング "wikilink")に出演した際に[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")にプレゼントしたギターで出演前日に作曲したため、仮タイトルは「タモソング」。hydeは番組でのやり取りを聞いて「どんな曲だろうと思って楽しみにしていた\[32\]」という。
         2000年に開催したドームツアー「TOUR 2000 REAL」では、この曲の演奏前に英文の[手紙](../Page/手紙.md "wikilink")がナレーションされる演出があった。スクリーンには、ナレーションされる英文が映し出されており、手紙は「Dear my love, How are you？」の書き出しから始まり、「To say goodbye Is like being a small lost child again. Goodbye. Goodbye. Goodbye. Goodbye.」で書き終わる。また、同ツアーにおいてhydeは[ミラーボール](https://ja.wikipedia.org/wiki/ミラーボール "wikilink")を手に持って歌っている。そのミラーボールにステージ裏から照明を当て、それにより発せられる反射光を舞台演出に利用していた。
         [2017年](../Page/2017年.md "wikilink")に行われたHYDEのソロアコースティックライブ「HYDE Christmas Concert 2017 -黑ミサ TOKYO-」において、ゲストとして出演したKenとともに披露した。
 11. **ALL YEAR AROUND FALLING IN LOVE**
@@ -102,9 +102,9 @@
     <!-- end list -->
       -
         hydeが、取材である人物に「ラルクはラブ・ソングが少ない」「あなたって暗い詞しか書けないの？」と言われたため作った曲である。
-        hyde曰く、「ここまで思い切ったラブ・ソングは初めて。アルバムの最後に救いの手を差し伸べた歌詞」「今年一番印象的だったのが、その辺に散歩に行った時の1日で。海外とかいろいろ行ってるけど、自分の中ではあの1日が一番で、その時のことを書きたいと思った\[31\]」という。
-        また、歌詞を手掛ける上で、「開拓心があった\[32\]」とhydeは語っており、「もともと『[HEART](../Page/HEART_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』以降から身近ではない表現が多くなってて。その時はそれで問題がなかったんだけど、時間が経ってみるとアルバムの全体的な感触として、人から遠くなっていた。それは、テレビで戦争をやってても何も思わないっていうのに近い感触ですよね\[33\]」「聴く人のどこかに引っかかる、フックの部分がないと、テレビで見る戦争で終わってしまう。もしそこに身近な何かがあったら、もっと戦争に引き込まれる。そういう部分を目指したかった\[34\]」と述べている。ちなみに、この歌詞は本作収録曲の中で最後に書かれ\[35\]、歌録りも最後に行われた\[36\]。
-        この曲でtetsuyaは4弦ベースと6弦ベースを弾いており、6弦ベースは「ESP Bandit Six」を使用している\[37\]。
+        hyde曰く、「ここまで思い切ったラブ・ソングは初めて。アルバムの最後に救いの手を差し伸べた歌詞」「今年一番印象的だったのが、その辺に散歩に行った時の1日で。海外とかいろいろ行ってるけど、自分の中ではあの1日が一番で、その時のことを書きたいと思った\[33\]」という。
+        また、歌詞を手掛ける上で、「開拓心があった\[34\]」とhydeは語っており、「もともと『[HEART](../Page/HEART_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』以降から身近ではない表現が多くなってて。その時はそれで問題がなかったんだけど、時間が経ってみるとアルバムの全体的な感触として、人から遠くなっていた。それは、テレビで戦争をやってても何も思わないっていうのに近い感触ですよね\[35\]」「聴く人のどこかに引っかかる、フックの部分がないと、テレビで見る戦争で終わってしまう。もしそこに身近な何かがあったら、もっと戦争に引き込まれる。そういう部分を目指したかった\[36\]」と述べている。ちなみに、この歌詞は本作収録曲の中で最後に書かれ\[37\]、歌録りも最後に行われた\[38\]。
+        この曲でtetsuyaは4弦ベースと6弦ベースを弾いており、6弦ベースは「ESP Bandit Six」を使用している\[39\]。
         [2020年](../Page/2020年.md "wikilink")に行われたコンサートツアー「[ARENA TOUR MMXX](../Page/ARENA_TOUR_MMXX.md "wikilink")」において、ドームツアー「TOUR 2000 REAL」以来約20年ぶりにライブで披露された。
 
 ### LP
@@ -318,20 +318,22 @@
 18. 『WHAT's IN?』、p.33、2000年9月号
 19. リットーミュージック社『BASS MAGAZINE SPECIAL FEATURE SERIES/tetsuya L'Arc〜en〜Ciel』、p.63、2010年
 20.
-21.
-22. [PATiPATi](../Page/ソニー・マガジンズ.md "wikilink")2000年9月号より。
-23. 『WHAT's IN?』、p.36、2000年9月号
-24.
-25.
+21. 『WHAT's IN?』、p.37、ソニー・マガジンズ、1999年11月号
+22.
+23. 『B-PASS』、シンコー・ミュージック、2000年8月号
+24. [PATiPATi](../Page/ソニー・マガジンズ.md "wikilink")2000年9月号より。
+25. 『WHAT's IN?』、p.36、2000年9月号
 26.
-27. 『R\&R NewsMaker』、p.27、2000年10月号
+27.
 28.
-29.
+29. 『R\&R NewsMaker』、p.27、2000年10月号
 30.
-31. 『R\&R NewsMaker』、p.9、2000年10月号
+31.
 32.
-33.
+33. 『R\&R NewsMaker』、p.9、2000年10月号
 34.
 35.
 36.
 37.
+38.
+39.

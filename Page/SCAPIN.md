@@ -1,7 +1,7 @@
 > この記事は[SCAPIN](https://ja.wikipedia.org/wiki/SCAPIN)から翻訳されています。
 
 
-**連合国最高司令官指令**（れんごうこくさいこうしれいかんしれい）（Supreme Commander for the Allied Powers Directive）とは、[連合国最高司令官](../Page/連合国軍最高司令官総司令部.md "wikilink")（SCAP: Supreme Commander for the Allied Powers）から[日本国政府](https://ja.wikipedia.org/wiki/日本国政府 "wikilink")宛てに発せられた基礎的施策を定める指示およびそれを拡充する訓令である。当該指令に係る文書には**SCAP Index Number**と呼ばれる番号が「SCAPIN-○○」という形で付されることから「**SCAPIN**」（スキャッピン）と通称される。「**連合国軍最高司令官指令**」や「**連合国軍最高司令部指令**」と呼ばれることもあるほか、「**対日指令**」とも略称される。なお、行政的（administrative）な指示であり、「SCAPIN-○○A」という形でSCAP Index Numberが付される「SCAPIN-A」とは区別される。\[1\]
+**連合国最高司令官指令**（れんごうこくさいこうしれいかんしれい、Supreme Commander for the Allied Powers Directive）とは、[連合国最高司令官](../Page/連合国軍最高司令官総司令部.md "wikilink")（SCAP: Supreme Commander for the Allied Powers）から[日本国政府](https://ja.wikipedia.org/wiki/日本国政府 "wikilink")宛てに発せられた基礎的施策を定める指示およびそれを拡充する訓令である。当該指令に係る文書には**SCAP Index Number**と呼ばれる番号が「SCAPIN-○○」という形で付されることから「**SCAPIN**」（スキャッピン）と通称される。「**連合国軍最高司令官指令**」や「**連合国軍最高司令部指令**」と呼ばれることもあるほか、「**対日指令**」とも略称される。なお、行政的（administrative）な指示であり、「SCAPIN-○○A」という形でSCAP Index Numberが付される「SCAPIN-A」とは区別される。\[1\]
 
 ## 総説
 
@@ -15,11 +15,11 @@ SCAPINは、[1945年](../Page/1945年.md "wikilink")（[昭和](../Page/昭和.m
 
 ### SCAPIN-677　（日本の範囲）
 
-[SCAPIN_677_lq.jpg](https://ja.wikipedia.org/wiki/File:SCAPIN_677_lq.jpg "fig:SCAPIN_677_lq.jpg") [サムネイル](https://ja.wikipedia.org/wiki/ファイル:SCAPIN677_1.jpg "wikilink") [サムネイル](https://ja.wikipedia.org/wiki/ファイル:SCAPIN677_2.jpg "wikilink") 日本の[行政権](https://ja.wikipedia.org/wiki/行政権 "wikilink")の行使に関する範囲に言及した第677号において、[伊豆諸島](../Page/伊豆諸島.md "wikilink")、[小笠原諸島](../Page/小笠原諸島.md "wikilink")、[南西諸島](../Page/南西諸島.md "wikilink")、[竹島](https://ja.wikipedia.org/wiki/竹島_\(島根県\) "wikilink")、[鬱陵島](../Page/鬱陵島.md "wikilink")、[済州島](../Page/済州島.md "wikilink")、[千島列島](../Page/千島列島.md "wikilink")、[色丹島](../Page/色丹島.md "wikilink")および[歯舞群島](../Page/歯舞群島.md "wikilink")が除かれている。これらの地域のうち、サンフランシスコ講和条約発効前に日本に復帰したのは伊豆諸島と[トカラ列島](../Page/トカラ列島.md "wikilink")のみで、伊豆諸島は[1946年](../Page/1946年.md "wikilink")（昭和21年）3月22日、トカラ列島は1952年（昭和27年）2月10日に日本に復帰した。一方、（2016年）現在でも竹島を占拠する韓国と、千島列島、色丹島、歯舞群島を占拠するロシアは、この文書を自国の領有根拠の一つとしており、日本との間で領土問題が続いている。
+[SCAPIN_677_lq.jpg](https://ja.wikipedia.org/wiki/File:SCAPIN_677_lq.jpg "fig:SCAPIN_677_lq.jpg") [サムネイル](https://ja.wikipedia.org/wiki/ファイル:SCAPIN677_1.jpg "wikilink") [サムネイル](https://ja.wikipedia.org/wiki/ファイル:SCAPIN677_2.jpg "wikilink") 日本の[行政権](https://ja.wikipedia.org/wiki/行政権 "wikilink")の行使に関する範囲に言及した第677号において、[伊豆諸島](../Page/伊豆諸島.md "wikilink")、[小笠原諸島](../Page/小笠原諸島.md "wikilink")、[南西諸島](../Page/南西諸島.md "wikilink")、[竹島](https://ja.wikipedia.org/wiki/竹島 "wikilink")、[鬱陵島](../Page/鬱陵島.md "wikilink")、[済州島](../Page/済州島.md "wikilink")、[千島列島](../Page/千島列島.md "wikilink")、[色丹島](../Page/色丹島.md "wikilink")および[歯舞群島](../Page/歯舞群島.md "wikilink")が除かれている。これらの地域のうち、サンフランシスコ講和条約発効前に日本に復帰したのは伊豆諸島と[トカラ列島](../Page/トカラ列島.md "wikilink")のみで、伊豆諸島は[1946年](../Page/1946年.md "wikilink")（昭和21年）3月22日、トカラ列島は1952年（昭和27年）2月10日に日本に復帰した。一方、（2016年）現在でも竹島を占拠する韓国と、千島列島、色丹島、歯舞群島を占拠するロシアは、この文書を自国の領有根拠の一つとしており、日本との間で領土問題が続いている。
 
 しかし、SCAPの上部組織である[極東委員会](../Page/極東委員会.md "wikilink")には軍事作戦行動や領域の調整に関する権限が与えられていない\[2\]。それを踏まえてこの文書の第6項には「この指令中の条項は何れも、[ポツダム宣言](../Page/ポツダム宣言.md "wikilink")の第8条にある小島嶼の最終的決定に関する連合国側の政策を示すものと解釈してはならない。」と、これが暫定的な指令である旨が明示されている。
 
-[中ノ鳥島](../Page/中ノ鳥島.md "wikilink")は大正時代の大規模探索でも発見されず、1943年（昭和18年）には[日本海軍](https://ja.wikipedia.org/wiki/日本海軍 "wikilink")の機密[水路図誌](https://ja.wikipedia.org/wiki/水路図誌 "wikilink")から削除されたものの、一般の地図には記載が残っていたため、第677号において言及されている（一般の水路図誌から削除されたのは発令10ヶ月後の1946年（昭和21年）11月22日）。
+[中ノ鳥島](../Page/中ノ鳥島.md "wikilink")は[大正](../Page/大正.md "wikilink")時代の大規模探索でも発見されず、1943年（昭和18年）には[日本海軍の機密](../Page/大日本帝国海軍.md "wikilink")[水路図誌](https://ja.wikipedia.org/wiki/水路図誌 "wikilink")から削除されたものの、一般の地図には記載が残っていたため、第677号において言及されている（一般の水路図誌から削除されたのは発令10ヶ月後の1946年（昭和21年）11月22日）。
 
 また、SCAPIN-677が発令された半月後の1946年（昭和21年）2月13日に行われた日本との会談において、GHQはSCAPINが領土に関する決定ではないこと及び領土の決定は講和会議にてなされると回答している。\[3\]
 
@@ -43,7 +43,7 @@ SCAPINは、[1945年](../Page/1945年.md "wikilink")（[昭和](../Page/昭和.m
 
 #### 竹島
 
-韓国政府は[サンフランシスコ講和条約で日本の放棄領土に竹島を含めようと米国務省に要請したが拒否された](../Page/日本国との平和条約.md "wikilink")。講和条約で竹島を放棄させることに失敗した韓国政府は、[サンフランシスコ講和条約署名後の](../Page/日本国との平和条約.md "wikilink")1951年9月8日 に初めてSCAPIN677に基づく竹島の主権主張を行った。これ以降、韓国政府はSCAPIN677をその領有の根拠の柱としている。\[10\]　韓国のSCAPIN677に基づく主張に対して1952年11月14日に米国務省は駐韓米大使に「SCAPIN677は、日本の永続的な主権の行使を排除したものではない」とした。併せてラスク書簡に関する情報も得た駐韓米国大使は、No.187口上書で米国の認識は竹島を日本領とした[ラスク書簡](../Page/ラスク書簡.md "wikilink")のとおりと韓国外交部に回答した。
+韓国政府は[サンフランシスコ講和条約で日本の放棄領土に竹島を含めようと米国務省に要請したが拒否された](../Page/日本国との平和条約.md "wikilink")。講和条約で竹島を放棄させることに失敗した韓国政府は、サンフランシスコ講和条約署名後の1951年9月8日 に初めてSCAPIN677に基づく竹島の主権主張を行った。これ以降、韓国政府はSCAPIN677をその領有の根拠の柱としている。\[10\]　韓国のSCAPIN677に基づく主張に対して1952年11月14日に米国務省は駐韓米大使に「SCAPIN677は、日本の永続的な主権の行使を排除したものではない」とした。併せて[ラスク書簡](../Page/ラスク書簡.md "wikilink")に関する情報も得た駐韓米国大使は、No.187口上書で米国の認識は竹島を日本領としたラスク書簡のとおりと韓国外交部に回答した。
 
 ### SCAPIN-1033　（日本の漁業捕鯨区域からの竹島の排除）
 
@@ -61,7 +61,7 @@ SCAPINは、[1945年](../Page/1945年.md "wikilink")（[昭和](../Page/昭和.m
 
 ### 竹島に対する韓国の要求への米国務省の説明
 
-竹島に対する韓国の要求に対して、SCAPIN-677、SCAPIN-1778についての回答文書。[サンフランシスコ条約](https://ja.wikipedia.org/wiki/サンフランシスコ条約 "wikilink")後の1952年（昭和27年）11月14日に、米国務省はSCAPIN-677を根拠とした韓国の竹島に対する要求について、駐韓米国大使に以下の書簡を送付している\[11\]\[12\]。SCAPIN-1778は[竹島を極東空軍の射爆場として指定している](https://ja.wikipedia.org/wiki/竹島_\(島根県\) "wikilink")。
+[竹島](https://ja.wikipedia.org/wiki/竹島 "wikilink")に対する韓国の要求に対して、SCAPIN-677、SCAPIN-1778についての回答文書。[サンフランシスコ条約](https://ja.wikipedia.org/wiki/サンフランシスコ条約 "wikilink")後の1952年（昭和27年）11月14日に、米国務省はSCAPIN-677を根拠とした韓国の竹島に対する要求について、駐韓米国大使に以下の書簡を送付している\[11\]\[12\]。SCAPIN-1778は竹島を極東空軍の射爆場として指定している。
 
 サンフランシスコ条約が発効したのちの1952年7月26日に、日米合同委員会は在日米軍の爆撃訓練地域として竹島を再び指定した。\[13\]
 
@@ -108,7 +108,7 @@ SCAPINは、[1945年](../Page/1945年.md "wikilink")（[昭和](../Page/昭和.m
   - [プレスコード](../Page/プレスコード.md "wikilink")
   - [神道指令](../Page/神道指令.md "wikilink")
   - [連合国軍占領下の日本](../Page/連合国軍占領下の日本.md "wikilink")
-  - [竹島](https://ja.wikipedia.org/wiki/竹島_\(島根県\) "wikilink")
+  - [竹島](https://ja.wikipedia.org/wiki/竹島 "wikilink")
   - [北方領土問題](https://ja.wikipedia.org/wiki/北方領土問題 "wikilink")
   - [尖閣諸島問題](https://ja.wikipedia.org/wiki/尖閣諸島問題 "wikilink")
   - [マッカーサー・ライン](../Page/マッカーサー・ライン.md "wikilink")

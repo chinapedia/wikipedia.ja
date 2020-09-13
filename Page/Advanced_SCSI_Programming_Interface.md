@@ -24,7 +24,7 @@
 
 ## Windows 時代の ASPI
 
-このように、ASPI の本質はドライバモデルにあるということができる。 しかし、このようなドライバモデルはまともな OS なら本来当然備えているべきものであり、PC 用の OS でも [OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink")、[Windows 95](https://ja.wikipedia.org/wiki/Microsoft_Windows95 "wikilink")、[Windows NT](../Page/Microsoft_Windows_NT.md "wikilink") などではもともと備えていた。 そのため、これらの OS にも ASPI は提供されたものの、その役割は「SCSI アダプタのドライバ」ではなく「DOS の ASPI と似たソフトウェアインターフェイスを提供するラッパー」に過ぎないもの、すなわち**ASPI レイヤー**となり、[CD-R](../Page/CD-R.md "wikilink") や[イメージスキャナ](../Page/イメージスキャナ.md "wikilink")を制御するアプリケーションなど一部で利用されるにとどまった。
+このように、ASPI の本質はドライバモデルにあるということができる。 しかし、このようなドライバモデルはまともな OS なら本来当然備えているべきものであり、PC 用の OS でも [OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink")、[Windows 95](../Page/Microsoft_Windows_95.md "wikilink")、[Windows NT](../Page/Microsoft_Windows_NT.md "wikilink") などではもともと備えていた。 そのため、これらの OS にも ASPI は提供されたものの、その役割は「SCSI アダプタのドライバ」ではなく「DOS の ASPI と似たソフトウェアインターフェイスを提供するラッパー」に過ぎないもの、すなわち**ASPI レイヤー**となり、[CD-R](../Page/CD-R.md "wikilink") や[イメージスキャナ](../Page/イメージスキャナ.md "wikilink")を制御するアプリケーションなど一部で利用されるにとどまった。
 
 それでも、Windows 95 系列では ASPI レイヤーが OS 標準で付属していたため、それなりに使われてもいたが、Windows NT系列においては、ASPIレイヤーが OS に標準で付属しておらず、SCSI を制御する標準ソフトウェアインターフェイスとして**SPTI** (SCSI Pass-Through Interface) が新たに定義されたことにより、ASPI の存在意義は限りなく薄いものになってしまった。 にもかかわらず、Windows 95 系列での流れから、Windows NT 系列でも SPTI に対応せず ASPI を必要とする CD-R ライティングソフトなどが多数あり、利用者を悩ませていた。 ただし、一部の CD-R ライティングソフトなどには、Windows NT 系列にもインストール可能な ASPI レイヤーが付属しているものがあった。 また、アダプテックも Windows NT 向けに ASPI レイヤーを別途提供していたものの、そのインストールにはアダプテックの SCSI アダプタを装着している必要があり、他社製品の利用者には役に立たないものであった。
 
@@ -55,4 +55,4 @@
   - [Technical reference (ASPI for Win32)](http://www.zianet.com/jgray/dat/files/ASPI32.pdf)
   - [ASPI Layer setup](http://www.doom9.org/aspi.htm)
 
-[Category:パーソナルコンピュータ](https://ja.wikipedia.org/wiki/Category:パーソナルコンピュータ "wikilink") [Category:API](https://ja.wikipedia.org/wiki/Category:API "wikilink") [Category:デバイスドライバ](https://ja.wikipedia.org/wiki/Category:デバイスドライバ "wikilink")
+[Category:パーソナルコンピュータ](https://ja.wikipedia.org/wiki/Category:パーソナルコンピュータ "wikilink") [Category:API](https://ja.wikipedia.org/wiki/Category:API "wikilink") [Category:デバイスドライバ](https://ja.wikipedia.org/wiki/Category:デバイスドライバ "wikilink") [Category:SCSI](https://ja.wikipedia.org/wiki/Category:SCSI "wikilink")

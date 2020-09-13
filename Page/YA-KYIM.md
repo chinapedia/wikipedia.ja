@@ -280,7 +280,7 @@ WPCL-10837</p></td>
   - YouTube
       - [YA-KYIM オフィシャルチャンネル](https://www.youtube.com/yakyim) - ya-kyim x YouTubeオフィシャルチャンネル
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のR\&Bグループ](https://ja.wikipedia.org/wiki/Category:日本のR&Bグループ "wikilink") [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink") [Category:レプロエンタテインメント](https://ja.wikipedia.org/wiki/Category:レプロエンタテインメント "wikilink")
+[Category:日本のR\&Bグループ](https://ja.wikipedia.org/wiki/Category:日本のR&Bグループ "wikilink") [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink") [Category:レプロエンタテインメント](https://ja.wikipedia.org/wiki/Category:レプロエンタテインメント "wikilink")
 
 1.  2008年6月号『[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")』内、P11「音楽・今月の話題人」インタビューより
 2.  「**YA-KYIM respects [SEAMO](../Page/SEAMO.md "wikilink")**」名義

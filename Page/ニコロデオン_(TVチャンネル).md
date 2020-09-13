@@ -5,11 +5,11 @@
 
 ## 概要
 
-日本では1998年11月15日にディレクTVで放送開始（[委託放送事業者](../Page/委託放送事業者.md "wikilink")はワンダーウェーブ株式会社、Ch.272）\[1\]。開局直後は「**ニッケルオデオン**」の名前であったが、1999年1月に現在の名称に変更された。
+日本では1998年11月15日に[ディレクTV](../Page/ディレクTV.md "wikilink")で放送開始（[委託放送事業者](../Page/委託放送事業者.md "wikilink")はワンダーウェーブ株式会社、Ch.272）\[1\]。開局直後は「**ニッケルオデオン**」の名前であったが、1999年1月に現在の名称に変更された。
 
 ディレクTVの日本撤退に伴い、2000年10月に[プラットフォームを](../Page/有料放送管理事業者.md "wikilink")[スカイパーフェクTV\!に移行](../Page/スカパー!プレミアムサービス.md "wikilink")（[委託放送事業者](../Page/委託放送事業者.md "wikilink")は[ジャパンイメージコミュニケーションズ](../Page/ジャパンイメージコミュニケーションズ.md "wikilink")、Ch.278）。チャンネル名は「**ニコロデオン/教養バラエティータイム**」。2001年にニコロデオン・マネージメント・プライベート・Ltd日本支社（ニコロデオン・ジャパン）設立。同年11月にはチャンネル名を「**ニコロデオン/アニメ・子どもTV**」に変更。
 
-2005年1月、現在の日本での運営会社であるViacom International Japan (VIJ) 株式会社設立。2006年1月には[電気通信役務利用放送](https://ja.wikipedia.org/wiki/電気通信役務利用放送 "wikilink")に移行（電気通信役務利用放送事業者は[MTVジャパン](../Page/MTVジャパン.md "wikilink")株式会社、現在のバイアコム・ネットワークス・ジャパン株式会社、Ch.751に変更）。2006年10月にはチャンネルのリニューアルが行われた。2008年1月、VIJがMTV Networks Japan株式会社（MTVNJ）に社名変更（のち合同会社に組織変更）。
+2005年1月、現在の日本での運営会社であるViacom International Japan（VIJ）株式会社設立。2006年1月には[電気通信役務利用放送](https://ja.wikipedia.org/wiki/電気通信役務利用放送 "wikilink")に移行（電気通信役務利用放送事業者は[MTVジャパン](../Page/MTVジャパン.md "wikilink")株式会社、現在のバイアコム・ネットワークス・ジャパン株式会社、Ch.751に変更）。2006年10月にはチャンネルのリニューアルが行われた。2008年1月、VIJがMTV Networks Japan株式会社（MTVNJ）に社名変更（のち合同会社に組織変更）。
 
 しかし、[日本アニメの根強い人気に加え](../Page/アニメ.md "wikilink")、同業会社である[ディズニー・チャンネル](../Page/ディズニー・チャンネル.md "wikilink")や[カートゥーン ネットワークなどとの競争で苦戦を強いられた結果](../Page/カートゥーン_ネットワーク.md "wikilink")、2009年9月30日にチャンネル放送を一旦終了。その後2018年になるまでMTVジャパンや他のCS局、[TwellVや](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")[NHK Eテレ](../Page/NHK教育テレビジョン.md "wikilink")、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")などに配給を行っていた\[2\]。
 
@@ -86,7 +86,7 @@
   - [アルバート ～もみの木くんの夢～](https://ja.wikipedia.org/wiki/:en:Albert_\(2016_film\) "wikilink")
   - レゴシティ アドベンチャーズ ※当初は[LEGO公式チャンネル](https://www.youtube.com/user/LEGO)で配信
   - レゴ ジュラシック・ワールド：イスラ・ヌブラル島の伝説 ※当初は[LEGO公式チャンネル](https://www.youtube.com/user/LEGO)で配信
-  - ジミー・ニュートロン 僕は天才発明家\!
+  - [ジミー・ニュートロン 僕は天才発明家\!](https://ja.wikipedia.org/wiki/ジミー・ニュートロン_僕は天才発明家! "wikilink")
   - [名探偵ハンターストリート](https://ja.wikipedia.org/wiki/:en:Hunter_Street_\(TV_series\) "wikilink")
 
 ### 日本のニコロデオンで放送されていた番組
@@ -156,7 +156,7 @@
   - [オリビア](https://ja.wikipedia.org/wiki/オリビア_\(アニメ\) "wikilink")（[ディズニージュニア](https://ja.wikipedia.org/wiki/ディズニージュニア "wikilink")）
   - [ゲームシェイカーズ](https://ja.wikipedia.org/wiki/ゲームシェイカーズ "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
   - [獣旋バトル モンスーノ](https://ja.wikipedia.org/wiki/獣旋バトル_モンスーノ "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")制作）
-  - [チクタク・タウン](https://ja.wikipedia.org/wiki/:en:Tickety_Toc "wikilink")（ディズニージュニア、[ネットフリックス](https://ja.wikipedia.org/wiki/ネットフリックス "wikilink")）
+  - [チクタク・タウン](https://ja.wikipedia.org/wiki/:en:Tickety_Toc "wikilink")（ディズニー・チャンネル、[ネットフリックス](https://ja.wikipedia.org/wiki/ネットフリックス "wikilink")）
   - ミュータント タートルズ3D（テレビ東京系列）
   - [超能力ファミリー サンダーマン](https://ja.wikipedia.org/wiki/超能力ファミリー_サンダーマン "wikilink")（NHK）
   - [100 オトナになったらできないこと](https://ja.wikipedia.org/wiki/100_オトナになったらできないこと "wikilink")（NHK）

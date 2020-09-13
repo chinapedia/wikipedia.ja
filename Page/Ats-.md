@@ -200,7 +200,7 @@
       - ONE（編曲）
       - G:I:C:O:D:E（編曲） 東映配給映画「[偶然にも最悪な少年](../Page/偶然にも最悪な少年.md "wikilink")」主題歌
   - [鋼の錬金術師](../Page/鋼の錬金術師.md "wikilink")
-      - RETURNABLE MEMORIES（作曲・編曲） [エドワード・エルリック](../Page/エドワード・エルリック.md "wikilink")[鋼の錬金術師](../Page/鋼の錬金術師.md "wikilink")（[朴璐美](../Page/朴ロ美.md "wikilink")） キャラクターソング
+      - RETURNABLE MEMORIES（作曲・編曲） [エドワード・エルリック](../Page/エドワード・エルリック.md "wikilink")[鋼の錬金術師](../Page/鋼の錬金術師.md "wikilink")（[朴璐美](https://ja.wikipedia.org/wiki/朴璐美 "wikilink")） キャラクターソング
   - [mink](https://ja.wikipedia.org/wiki/mink "wikilink")
       - おまじない（編曲）
   - [REIRA starring YUNA ITO](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")
@@ -503,6 +503,14 @@
   - [GENIC](../Page/GENIC.md "wikilink")
 
       - 抱きしめたら (編曲)
+
+  - TVアニメ「[THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink") SideM」WORLD TRE@SUREシリーズ
+
+      - Welcome to Japan！(作曲)
+
+  - [大阪☆春夏秋冬](https://ja.wikipedia.org/wiki/大阪☆春夏秋冬 "wikilink")
+
+      - Makkkkko Shobu(作曲)
 
 ## 出典
 

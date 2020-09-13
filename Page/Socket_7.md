@@ -17,4 +17,4 @@ Socket 7はSocket 5からの互換性により、[サードパーティー](../P
 
 以前発売されていたゲームの[要件](https://ja.wikipedia.org/wiki/要件 "wikilink")で、「[Pentium II](../Page/Pentium_II.md "wikilink") 300MHz以上」とうたわれていると同時に、「Socket 7系マシンでは、クロック数に関わらず**動作サポートは対象外**」と表記されているものがあるのはこのためである。
 
-[Category:CPUソケット](https://ja.wikipedia.org/wiki/Category:CPUソケット "wikilink")
+[Category:インテルのCPUソケット](https://ja.wikipedia.org/wiki/Category:インテルのCPUソケット "wikilink")

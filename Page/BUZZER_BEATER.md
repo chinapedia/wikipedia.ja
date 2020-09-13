@@ -552,7 +552,7 @@
 
 :\* [::: INOUE TAKEHIKO ON THE WEB :::](http://www.itplanning.co.jp/) - 原作者公式サイト
 
-:\*\* [BUZZER BEATER on line comic｜:::INOUE TAKEHIKO ON THE WEB :::（公表された原作）](http://web.archive.org/web/20120616032555/http://itplanning.co.jp/bbimages/body.img/B0/FBEAT0.HTML)（2012年6月16日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+:\*\* [BUZZER BEATER on line comic｜:::INOUE TAKEHIKO ON THE WEB :::（公表された原作）](https://web.archive.org/web/20120616032555/http://itplanning.co.jp/bbimages/body.img/B0/FBEAT0.HTML)（2012年6月16日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
   - アニメ（1期・WOWOW版）
 
@@ -562,7 +562,7 @@
 
   - アニメ（2期・日テレ版）
 
-:\* [BUZZER BEATER 公式サイト](http://www.ntv.co.jp/buzzer/) - 日テレ
+:\* [BUZZER BEATER 公式サイト](https://www.ntv.co.jp/buzzer/) - 日テレ
 
   - アニメ（1・2期連番放送）
 

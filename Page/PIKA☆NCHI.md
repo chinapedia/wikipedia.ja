@@ -50,4 +50,9 @@
   - [5×10 All the BEST\! 1999-2009](https://ja.wikipedia.org/wiki/5×10_All_the_BEST!_1999-2009 "wikilink")（\#1）
   - [5×20 All the BEST\!\! 1999-2019](https://ja.wikipedia.org/wiki/5×20_All_the_BEST!!_1999-2019 "wikilink")（\#1）
 
+## 外部リンク
+
+  - [J Stormによる紹介ページ](https://www.j-storm.co.jp/arashi/discography/pika☆nchi)
+  - [Johnny's netによる紹介ページ](https://www.johnnys-net.jp/page?id=discoDetail&artist=10&data=147)
+
 [Category:ピカ☆ンチ_LIFE_IS_HARDだけどHAPPY](https://ja.wikipedia.org/wiki/Category:ピカ☆ンチ_LIFE_IS_HARDだけどHAPPY "wikilink") [Category:嵐の楽曲](https://ja.wikipedia.org/wiki/Category:嵐の楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:ジェイ・ストームの楽曲](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームの楽曲 "wikilink") [Category:2002年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2002年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink")

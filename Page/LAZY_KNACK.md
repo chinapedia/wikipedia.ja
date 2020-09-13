@@ -139,4 +139,4 @@
   - [access](https://ja.wikipedia.org/wiki/access "wikilink")
   - [pool bit boys](https://ja.wikipedia.org/wiki/pool_bit_boys "wikilink")
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")
+[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[ABBグループ](https://ja.wikipedia.org/wiki/ABBグループ)から翻訳されています。
 
 
-**ABBグループ** （**Asea Brown Boveri**、**アセア・ブラウン・ボベリ**）は、[電力](../Page/電力.md "wikilink")関連、重電、[重工業](https://ja.wikipedia.org/wiki/重工業 "wikilink")を主たる業とする、[スイス](../Page/スイス.md "wikilink")に本社を置く[多国籍企業](../Page/多国籍企業.md "wikilink")で、100カ国以上に進出している。1988年にスウェーデンの[アセア](https://ja.wikipedia.org/wiki/アセア "wikilink")とスイスの[ブラウン・ボベリ](https://ja.wikipedia.org/wiki/ブラウン・ボベリ "wikilink")が合併して成立した。[ファナック](../Page/ファナック.md "wikilink")、[安川電機](../Page/安川電機.md "wikilink")、[クーカ](../Page/クーカ.md "wikilink")と並んで世界4大[産業用ロボット](../Page/産業用ロボット.md "wikilink")メーカーのひとつ\[1\]。
+**ABBグループ** （**Asea Brown Boveri**、**アセア・ブラウン・ボベリ**）は、[電力](../Page/電力.md "wikilink")関連、重電、[重工業](https://ja.wikipedia.org/wiki/重工業 "wikilink")を主たる業とする、[スイス](../Page/スイス.md "wikilink")に本社を置く[多国籍企業](../Page/多国籍企業.md "wikilink")で、100カ国以上に進出している。1988年にスウェーデンの[アセア](https://ja.wikipedia.org/wiki/アセア "wikilink")とスイスの[ブラウン・ボベリ](https://ja.wikipedia.org/wiki/ブラウン・ボベリ "wikilink")が合併して成立した。[ファナック](../Page/ファナック.md "wikilink")、[安川電機](../Page/安川電機.md "wikilink")、[クーカ](../Page/クーカ.md "wikilink")と並んで世界4大[産業用ロボット](../Page/産業用ロボット.md "wikilink")メーカーのひとつ\[1\]。また、低圧産業用モータでは世界No.[1](http://marketss.blog.jp/archives/52289604.html)である。
 
 ## 概要
 
@@ -26,7 +26,7 @@ ABBは2つの事業部に分かれており、電力技術部門は、[送電](.
 
 ## 日本との関わり
 
-  - 日本法人「**ABB株式会社**」は、東京（[大崎](https://ja.wikipedia.org/wiki/大崎 "wikilink")）に本社を置く。関西支店や、名豊事業所（愛知県[豊田市](https://ja.wikipedia.org/wiki/豊田市 "wikilink")）\[8\]など各地に事業拠点を持つ。このほか以下のグループ会社を持つ\[9\]。
+  - 日本法人「**ABB株式会社**」は、東京（[大崎](../Page/大崎_\(品川区\).md "wikilink")）に本社を置く。関西支店や、名豊事業所（愛知県[豊田市](https://ja.wikipedia.org/wiki/豊田市 "wikilink")）\[8\]など各地に事業拠点を持つ。このほか以下のグループ会社を持つ\[9\]。
   - [ターボシステムズユナイテッド](https://ja.wikipedia.org/wiki/ターボシステムズユナイテッド "wikilink") - [過給器](https://ja.wikipedia.org/wiki/過給器 "wikilink")の販社（出資母体2社のブランドで販売）。同社(6割)と[IHI](../Page/IHI.md "wikilink")(4割)の合弁（出資割合…3:2）。
   - [ABB日本ベーレー](https://ja.wikipedia.org/wiki/ABB日本ベーレー "wikilink")（旧日本ベーレー） - 制御・情報管理システムを主体としたメーカーで、元は旧ベーレー（※同社に買収→合併）の日本法人。現在は同社(51%)・[極東貿易](https://ja.wikipedia.org/wiki/極東貿易 "wikilink")(29.4%)・IHI(19.6%)の3社合弁。
   - 日立ABBHVDCテクノロジーズ株式会社 - 日立製作所とABBによる、国内向け高圧直流送電事業に関する合弁会社\[10\]。
@@ -43,6 +43,7 @@ ABBは2つの事業部に分かれており、電力技術部門は、[送電](.
 ## 参考文献
 
   - [Who we are – Group structure](http://new.abb.com/about/abb-in-brief/group-structure/)
+  - <http://marketss.blog.jp/archives/52289604.html>
 
 ## 関連項目
 

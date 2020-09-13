@@ -90,7 +90,7 @@
 
   - [2005年](../Page/2005年.md "wikilink")に[NHKラジオ第1で放送された特集番組内で](../Page/NHKラジオ第1放送.md "wikilink")、現存するラジオ中継の音声のうち、[美空ひばり](../Page/美空ひばり.md "wikilink")の歌の音声が紹介された。　
   - 優勝は白組。
-  - テレビとラジオで同時中継された。ラジオ中継の録音は現存しているが、テレビ映像は当時のニュースで極一部が紹介されたモノクロ映像のみが現存している。これは放送局用の2インチVTRが当時世に出たばかりで機器・テープ共々非常に高価で大型であり、資料として録画・保存するどころではなかったためである。とはいえ、前回以前の紅白に関しては映像が全く現存していないことから、今回が**NHKに紅白歌合戦の映像が現存している最古の回**となっている。2003年に放送された「感動プレイバックTV50年」では、[美空ひばり](../Page/美空ひばり.md "wikilink")、[江利チエミ](../Page/江利チエミ.md "wikilink")、[飯田久彦](../Page/飯田久彦.md "wikilink")の歌唱映像が紹介されている。
+  - テレビとラジオで同時中継された。ラジオ中継の録音は現存しているが、テレビ映像は当時のニュースで極一部が紹介されたモノクロ映像のみが現存している。これは放送局用の2インチVTRが当時世に出たばかりで機器・テープ共々非常に高価で大型であり、資料として録画・保存するどころではなかったためである。とはいえ、前回以前の紅白に関しては映像が全く現存していないことから、今回が**NHKに紅白歌合戦の映像が現存する最古の回**となっている。2003年に放送された「感動プレイバックTV50年」では、[美空ひばり](../Page/美空ひばり.md "wikilink")、[江利チエミ](../Page/江利チエミ.md "wikilink")、[飯田久彦](../Page/飯田久彦.md "wikilink")の歌唱映像が紹介されている。
   - 今回使用したマイクロホンは、司会者用は[AIWA](https://ja.wikipedia.org/wiki/アイワ "wikilink") VM-17([BTS呼称](../Page/BTS_\(放送技術規格\).md "wikilink")、RV1-1A)、歌手用はNHK放送技術研究所と　[SONY](../Page/ソニー.md "wikilink") の共同開発の真空管マイク C-37A([BTS呼称](../Page/BTS_\(放送技術規格\).md "wikilink")、CU1-2)
   - [ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")社による**紅白初のテレビ[視聴率](../Page/視聴率.md "wikilink")調査**でいきなり**80.4%を記録**する。
 
@@ -116,7 +116,7 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=13)
   - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1962年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1962年のテレビ番組_\(日本\) "wikilink") [Category:1962年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1962年のラジオ番組_\(日本\) "wikilink") [Category:1962年の音楽](https://ja.wikipedia.org/wiki/Category:1962年の音楽 "wikilink") [Category:1962年12月](https://ja.wikipedia.org/wiki/Category:1962年12月 "wikilink")

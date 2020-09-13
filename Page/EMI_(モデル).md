@@ -5,15 +5,10 @@
 
 ## 来歴・人物
 
-  - ルックスやキャラクターが**小動物**と例えられる。
   - 1stフォトエッセイ『I’m EMI』GOMA BOOKSより発売（2008年3月）
   - アメーバスタジオ「EMI’s GIRLS TALK」ではMCを務める（2007年5月〜隔週日曜日）
 
-<!-- end list -->
-
-  - 2009年ヘアメイクWANIと結婚。2012年離婚。
-
-現夫はモデル・俳優の[肥野竜也](https://ja.wikipedia.org/wiki/肥野竜也 "wikilink")。2014年1月1日に再婚\[1\]、同年3月22日に自身のブログて妊娠を発表。8月18日に女児を出産している\[2\]。
+夫はモデル・俳優の[肥野竜也](https://ja.wikipedia.org/wiki/肥野竜也 "wikilink")。 \[1\]、同年3月22日に自身のブログて妊娠を発表。8月18日に女児を出産している\[2\]。
 
 ## 出演
 
@@ -49,6 +44,7 @@
 
 ### 雑誌
 
+  - mama girl
   - [non-no](https://ja.wikipedia.org/wiki/non-no "wikilink")
   - mina
   - soup

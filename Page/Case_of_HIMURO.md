@@ -168,7 +168,7 @@
       - 作詞：松井五郎、氷室京介 / 作曲：氷室京介
     <!-- end list -->
       -
-        BOØWYの「[ハイウェイに乗る前に](../Page/BOOWY_\(アルバム\).md "wikilink")」のセルフカバー。
+        BOØWYの「[ハイウェイに乗る前に](https://ja.wikipedia.org/wiki/BOØWY_\(アルバム\) "wikilink")」のセルフカバー。
 15. **ANGEL2003**
       - 作詞・作曲：氷室京介
     <!-- end list -->

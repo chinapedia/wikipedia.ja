@@ -40,4 +40,4 @@
 ## 外部リンク
 
   -
-[Category:おニャン子クラブの楽曲](https://ja.wikipedia.org/wiki/Category:おニャン子クラブの楽曲 "wikilink") [Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:1986年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1986年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:ポニーキャニオンの楽曲](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンの楽曲 "wikilink") [Category:秋元康が制作した楽曲](https://ja.wikipedia.org/wiki/Category:秋元康が制作した楽曲 "wikilink") [Category:痴漢冤罪](https://ja.wikipedia.org/wiki/Category:痴漢冤罪 "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")
+[Category:おニャン子クラブの楽曲](https://ja.wikipedia.org/wiki/Category:おニャン子クラブの楽曲 "wikilink") [Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:1986年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1986年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:ポニーキャニオンの楽曲](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンの楽曲 "wikilink") [Category:秋元康が制作した楽曲](https://ja.wikipedia.org/wiki/Category:秋元康が制作した楽曲 "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")

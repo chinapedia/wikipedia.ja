@@ -163,7 +163,7 @@
 <td><p><a href="../Page/タニノギムレット.md" title="wikilink">タニノギムレット</a></p></td>
 <td><p><a href="../Page/ジャングルポケット.md" title="wikilink">ジャングルポケット</a></p></td>
 <td><p><a href="../Page/フサイチコンコルド.md" title="wikilink">フサイチコンコルド</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スペシャルウイーク" title="wikilink">スペシャルウイーク</a></p></td>
+<td><p><a href="../Page/スペシャルウィーク.md" title="wikilink">スペシャルウィーク</a></p></td>
 <td><p><a href="../Page/ネオユニヴァース.md" title="wikilink">ネオユニヴァース</a></p></td>
 <td></td>
 </tr>
@@ -317,9 +317,9 @@
 ## 出典
 
   - ダービーウィーク公式サイト
-      - [2006年](http://www.keiba.go.jp/derbyweek/index.html)、[2007年](http://www.keiba.go.jp/derbyweek2007/index.html)、[2008年](http://www.keiba.go.jp/derbyweek2008/index.html)、[2009年](http://www.keiba.go.jp/derbyweek2009/index.html)、[2010年](http://www.keiba.go.jp/derbyweek2010/index.html)、[2011年](http://www.keiba.go.jp/derbyweek2011/index.html)、[2012年](http://www.keiba.go.jp/derbyweek2012/index.html)、[2013年](http://www.keiba.go.jp/derbyweek2013/index.html)、[2014年](http://www.keiba.go.jp/derbyweek2014/index.html)、[2015年](http://www.keiba.go.jp/derbyweek2015/index.html)、[2016年](http://www.keiba.go.jp/derbyweek2016/index.html)
+      - [2006年](https://www.keiba.go.jp/derbyweek/index.html)、[2007年](https://www.keiba.go.jp/derbyweek2007/index.html)、[2008年](https://www.keiba.go.jp/derbyweek2008/index.html)、[2009年](https://www.keiba.go.jp/derbyweek2009/index.html)、[2010年](https://www.keiba.go.jp/derbyweek2010/index.html)、[2011年](https://www.keiba.go.jp/derbyweek2011/index.html)、[2012年](https://www.keiba.go.jp/derbyweek2012/index.html)、[2013年](https://www.keiba.go.jp/derbyweek2013/index.html)、[2014年](https://www.keiba.go.jp/derbyweek2014/index.html)、[2015年](https://www.keiba.go.jp/derbyweek2015/index.html)、[2016年](https://www.keiba.go.jp/derbyweek2016/index.html)
   - ダービーシリーズ公式サイト
-      - [2017年](http://www.keiba.go.jp/derbyseries2017/index.html)、[2018年](http://www.keiba.go.jp/derbyseries2018/index.html)
+      - [2017年](https://www.keiba.go.jp/derbyseries2017/index.html)、[2018年](https://www.keiba.go.jp/derbyseries2018/index.html)、[2019年](https://www.keiba.go.jp/derbyseries2019/index.html)
 
 ## 関連項目
 
@@ -327,7 +327,7 @@
 
 ## 外部リンク
 
-  - [ダービーシリーズ2019 公式サイト](http://www.keiba.go.jp/derbyseries2019/)
+  - [ダービーシリーズ2020 公式サイト](https://www.keiba.go.jp/derbyseries2020/index.html)
 
 [Category:競馬のイベント](https://ja.wikipedia.org/wiki/Category:競馬のイベント "wikilink") [Category:地方競馬](https://ja.wikipedia.org/wiki/Category:地方競馬 "wikilink") [Category:地方競馬の競走](https://ja.wikipedia.org/wiki/Category:地方競馬の競走 "wikilink") [Category:2006年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:2006年開始のスポーツイベント "wikilink")
 

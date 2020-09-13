@@ -14,8 +14,9 @@
   - 2010年[12月23日](../Page/12月23日.md "wikilink") - [咎狗の血 True Blood Portable](../Page/咎狗の血.md "wikilink")
   - [2012年](../Page/2012年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink") - [DRAMAtical Murder](https://ja.wikipedia.org/wiki/DRAMAtical_Murder "wikilink")
   - [2013年](../Page/2013年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink") - [DRAMAtical Murder re:connect](https://ja.wikipedia.org/wiki/DRAMAtical_Murder "wikilink")
-  - [2014年](../Page/2014年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink") - [DRAMAtical Murder re:code](https://ja.wikipedia.org/wiki/DRAMAtical_Murder "wikilink")
-  - 発売日未定 - [スロウ・ダメージ](https://ja.wikipedia.org/wiki/スロウ・ダメージ "wikilink")
+  - [2017年](../Page/2017年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink") - [THE CHiRAL NIGHT rhythm carnival](https://ja.wikipedia.org/wiki/THE_CHiRAL_NIGHT_rhythm_carnival "wikilink")
+  - [2018年](../Page/2018年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink") - [sweet pool リマスター版](https://ja.wikipedia.org/wiki/sweet_pool "wikilink")
+  - [2020年](../Page/2020年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - [スロウ・ダメージ](https://ja.wikipedia.org/wiki/スロウ・ダメージ "wikilink")\[1\]
 
 ## スタッフ
 
@@ -32,6 +33,8 @@
   - 原画：[たたなかな](../Page/倉花千夏.md "wikilink")
   - 原画：オニツカセージ
 
+## 脚注
+
 ## 関連項目
 
   - [いとうかなこ](https://ja.wikipedia.org/wiki/いとうかなこ "wikilink")
@@ -39,7 +42,13 @@
 
 ## 外部リンク
 
-  - [ニトロプラスキラル](http://www.nitrochiral.com/)
-  - [ニトロプラス](http://www.nitroplus.co.jp/pc/)
+  - [ニトロプラスキラル](https://www.nitrochiral.com/)
 
+  - [ニトロプラス](https://www.nitroplus.co.jp/)
+
+  -
+  -
+  -
 [Category:ニトロプラス](https://ja.wikipedia.org/wiki/Category:ニトロプラス "wikilink") [Category:ボーイズラブゲーム](https://ja.wikipedia.org/wiki/Category:ボーイズラブゲーム "wikilink")
+
+1.

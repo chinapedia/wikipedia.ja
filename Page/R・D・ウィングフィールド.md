@@ -1,7 +1,7 @@
 > この記事は[R・D・ウィングフィールド](https://ja.wikipedia.org/wiki/R・D・ウィングフィールド)から翻訳されています。
 
 
-**R.D.ウィングフィールド**（*R.D. Wingfield* または *Rodney D. Wingfield*, [1928年](../Page/1928年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink") - [2007年](../Page/2007年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")）は[英国](https://ja.wikipedia.org/wiki/イギリス "wikilink")[ロンドン](../Page/ロンドン.md "wikilink")生まれの[小説家](../Page/小説家.md "wikilink")、[放送作家](../Page/放送作家.md "wikilink")。
+**R.D.ウィングフィールド**（R.D. WingfieldまたはRodney D. Wingfield、[1928年](../Page/1928年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink") - [2007年](../Page/2007年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[ロンドン](../Page/ロンドン.md "wikilink")生まれの[小説家](../Page/小説家.md "wikilink")、[放送作家](../Page/放送作家.md "wikilink")。
 
 ## 略歴
 
@@ -33,4 +33,4 @@
   - "**Just the Fax**"　(1997) 『ファックスで失礼』（「ミステリマガジン」98･6月号）
   - "**Early Morning Frost**" (2001) 『夜明けのフロスト』（芹澤恵 訳：光文社文庫「ジャーロ傑作短編集」）
 
-[Category:イングランドの小説家](https://ja.wikipedia.org/wiki/Category:イングランドの小説家 "wikilink") [Category:イギリスの推理作家](https://ja.wikipedia.org/wiki/Category:イギリスの推理作家 "wikilink") [Category:1928年生](https://ja.wikipedia.org/wiki/Category:1928年生 "wikilink") [Category:2007年没](https://ja.wikipedia.org/wiki/Category:2007年没 "wikilink")
+[Category:イングランドの小説家](https://ja.wikipedia.org/wiki/Category:イングランドの小説家 "wikilink") [Category:イギリスの推理作家](https://ja.wikipedia.org/wiki/Category:イギリスの推理作家 "wikilink") [Category:ロンドン出身の人物](https://ja.wikipedia.org/wiki/Category:ロンドン出身の人物 "wikilink") [Category:1928年生](https://ja.wikipedia.org/wiki/Category:1928年生 "wikilink") [Category:2007年没](https://ja.wikipedia.org/wiki/Category:2007年没 "wikilink")

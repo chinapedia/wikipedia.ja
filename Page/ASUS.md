@@ -1,17 +1,17 @@
 > この記事は[ASUS](https://ja.wikipedia.org/wiki/ASUS)から翻訳されています。
 
 
-**ASUSTeK Computer Inc.**（エイスース テック・コンピューター・インク、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")：）は、[台湾の](../Page/台湾省.md "wikilink")[台北市](../Page/台北市.md "wikilink")に本社を置く[PCおよびPCパーツ](../Page/パーソナルコンピュータ.md "wikilink")、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")、周辺機器製造メーカー。日本法人はASUS JAPAN株式会社。社名の正式な読みは、「エイスース」とされている（発音に関する経緯は[下記を参照](https://ja.wikipedia.org/wiki/ASUS#「ASUS」の発音 "wikilink")）。
+**ASUSTeK Computer Inc.**（エイスーステック・コンピューター・インク）、あるいは**華碩電脳股份有限公司**（かせきでんのうこぶんゆうげんこうし）は、[中華民国](../Page/中華民国.md "wikilink")[台北市](../Page/台北市.md "wikilink")に本社を置く[PCおよびPCパーツ](../Page/パーソナルコンピュータ.md "wikilink")、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")、周辺機器製造メーカー。日本法人は**ASUS JAPAN株式会社**。ASUSの正式な読みは、「エイスース」とされている（発音に関する経緯は[下記を参照](https://ja.wikipedia.org/wiki/ASUS#「ASUS」の発音 "wikilink")）。
 
 ## 社名と由来
 
-ブランド名として「**ASUS**」を使用しているが、これは[Pegasusに由来して付けられたものであり](../Page/ペガサス.md "wikilink")\[1\]、同社は「市場に問うすべての製品に高レベルの品質と独創性を吹き込むことにより、機知に富むペガサスが象徴する強さ、創造性、純粋さを具体的に実現する」という意味を込めたと説明している。
+ブランド名として「ASUS」を使用しているが、これは[ペーガソス](../Page/ペーガソス.md "wikilink")（Pegasus）に由来して付けられたものであり\[1\]、同社は「市場に問うすべての製品に高レベルの品質と独創性を吹き込むことにより、機知に富むペガサスが象徴する強さ、創造性、純粋さを具体的に実現する」という意味を込めたと説明している。
 
 ### 「ASUS」の発音
 
-当初、日本参入時からの「ASUS」の日本での読みは「アスース」が正式とされていた。日本法人の登記名も「アスース・ジャパン株式会社」であったが\[2\]、[2012年](../Page/2012年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に「ASUS」の呼称を「エイスース」に統一し、同時に日本法人のアスース・ジャパン株式会社をASUS JAPAN株式会社に社名変更した\[3\]。
+当初、日本参入時からの「ASUS」の日本での読みは「アスース」が正式とされていた。日本法人の登記名も**アスース・ジャパン株式会社**であったが\[2\]、[2012年](../Page/2012年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に「ASUS」の呼称を「エイスース」に統一し、同時に日本法人のアスース・ジャパン株式会社をASUS JAPAN株式会社に社名変更した\[3\]。
 
-日本人に馴染みのある[ローマ字](https://ja.wikipedia.org/wiki/ローマ字 "wikilink")や[英語](../Page/英語.md "wikilink")とは異なる[読み方](https://ja.wikipedia.org/wiki/読み方 "wikilink")であるため、誤って読まれることも少なくない。日本国内では「アスース」「エーサス」「アサス」、英語圏では「エイスス」に近い発音で読まれることが多い。[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")表記の発音は上記いずれとも全く異なり、「華碩」と書いて「フアシュオ」に近い発音となる。しかし、おおむねどの読み方でも通じる。ASUSTeKは「どんな読み方をしても、ASUSに親しんでくれればいい」として放置、呼称に対する同社の曖昧な姿勢が混乱を招いていた\[4\]。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")12月に、「Ey-SUS」という発音表記の書かれた画像と、それを発音する動画がEngadgetにおいて公開された\[5\]。なお、同サイトの記事では古い発音として、最後に「アスース」と発音している以前のYouTubeのオフィシャル動画も示されている。
+日本人に馴染みのある[ローマ字](https://ja.wikipedia.org/wiki/ローマ字 "wikilink")や[英語](../Page/英語.md "wikilink")とは異なる読み方であるため、誤って読まれることも少なくない。日本国内では「アスース」「エーサス」「アサス」、英語圏では「エイスス」に近い発音で読まれることが多い。[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")表記の発音は上記いずれとも全く異なり、「華碩」と書いて「ファーシュオ」に近い発音となる。しかし、おおむねどの読み方でも通じる。ASUSTeKは「どんな読み方をしても、ASUSに親しんでくれればいい」として放置、呼称に対する同社の曖昧な姿勢が混乱を招いていた\[4\]。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")12月に、「Ey-SUS」という発音表記の書かれた画像と、それを発音する動画がEngadgetにおいて公開された\[5\]。なお、同サイトの記事では古い発音として、最後に「アスース」と発音している以前のYouTubeのオフィシャル動画も示されている。
 
 この新しい発音の日本での公式なカナ表記が「エイスース」である\[6\]。
 
@@ -161,7 +161,7 @@
   - PCケース
   - [CPUクーラー](../Page/CPUの冷却装置.md "wikilink")
   - [ドライブレコーダー](../Page/ドライブレコーダー.md "wikilink")
-  - [スマートスピーカー](https://ja.wikipedia.org/wiki/スマートスピーカー "wikilink")『神隊友小布（シャオブー）』：台湾国内向けに[批踢踢(PTT)創設者の](https://ja.wikipedia.org/wiki/PTT_\(台湾\) "wikilink")[杜奕瑾](https://ja.wikipedia.org/wiki/杜奕瑾 "wikilink")が率いる台湾AIラボが開発したAIアシスタント「雅婷一号」を搭載。中国語圏でも[普通話](../Page/普通話.md "wikilink")とは異なる[台湾中国語の独特の言い回しにも対応している](https://ja.wikipedia.org/wiki/台湾華語 "wikilink")\[13\]\[14\]。
+  - [スマートスピーカー](https://ja.wikipedia.org/wiki/スマートスピーカー "wikilink")『神隊友小布（シャオブー）』：台湾国内向けに[PTT創設者の](https://ja.wikipedia.org/wiki/PTT_\(台湾\) "wikilink")[杜奕瑾](https://ja.wikipedia.org/wiki/杜奕瑾 "wikilink")が率いる台湾AIラボが開発したAIアシスタント「雅婷一号」を搭載。中国語圏でも[普通話](../Page/普通話.md "wikilink")とは異なる[台湾国語](../Page/台湾国語.md "wikilink")の独特の言い回しにも対応している\[13\]\[14\]。
 
 ## 脚注
 

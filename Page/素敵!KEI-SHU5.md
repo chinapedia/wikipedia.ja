@@ -14,7 +14,7 @@
 ### レギュラーメンバー
 
   - [圭・修](../Page/清水圭・和泉修.md "wikilink")（[清水圭](../Page/清水圭.md "wikilink")・[和泉修](../Page/和泉修.md "wikilink")）
-  - [どんきほ〜て](https://ja.wikipedia.org/wiki/どんきほ〜て "wikilink")（[きびのだんご](https://ja.wikipedia.org/wiki/前谷正弘 "wikilink")、[太平かつみ](../Page/かつみ・さゆり.md "wikilink")）
+  - [どんきほ〜て](https://ja.wikipedia.org/wiki/どんきほ〜て "wikilink")（[きびのだんご](https://ja.wikipedia.org/wiki/前谷正弘 "wikilink")、[太平かつみ](https://ja.wikipedia.org/wiki/かつみ♥さゆり "wikilink")）
   - [130R](../Page/130R.md "wikilink")（[板尾創路](../Page/板尾創路.md "wikilink")、[蔵野孝洋](../Page/ほんこん.md "wikilink")）
   - [石田靖](../Page/石田靖.md "wikilink") - 1988年9月まで出演。
   - [リットン調査団](../Page/リットン調査団_\(お笑いコンビ\).md "wikilink")（[藤原光博](../Page/藤原光博.md "wikilink")、[水野透](../Page/水野透.md "wikilink")）

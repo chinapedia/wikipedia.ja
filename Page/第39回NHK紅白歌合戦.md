@@ -141,7 +141,7 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=39)
   - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。[1962年](../Page/1962年.md "wikilink")（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1988年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1988年のテレビ番組_\(日本\) "wikilink") [Category:1988年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1988年のラジオ番組_\(日本\) "wikilink") [Category:1988年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1988年の日本の音楽 "wikilink") [Category:1988年12月](https://ja.wikipedia.org/wiki/Category:1988年12月 "wikilink")
@@ -155,7 +155,7 @@
 7.  後者は以後司会を担当していない（ただし、[第41回](../Page/第41回NHK紅白歌合戦.md "wikilink")（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）で白組司会再登板の可能性が取り沙汰された）が、前者は[第48回](../Page/第48回NHK紅白歌合戦.md "wikilink")（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）で紅組司会に復帰している。
 8.  放送が行われた翌年の第40回でも特に作品に触れられることはなかった。
 9.  この中には[1988年ソウルオリンピック](../Page/1988年ソウルオリンピック.md "wikilink")[スポーツピストル銀メダルの長谷川智子](https://ja.wikipedia.org/wiki/ライフル射撃#ピストル種目 "wikilink")（現：[福島實智子](../Page/福島實智子.md "wikilink")）もいた。
-10. 小林は、2回紅組のトリ([2004年は大トリ](https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦 "wikilink"))を担当しているが、2回とも「雪椿」を歌唱している。
+10. 小林は、2回トリ(今回、[2004年](https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦 "wikilink"))を務めたが、2回とも「雪椿」を歌唱している。
 11. 2年後の[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[12月2日](../Page/12月2日.md "wikilink")に死去。
 12. 前回辞退を浜口に報告したところ、「紅白で「人生いろいろ」が聞けないのか」と返されたことを明かしている（『島倉家-これが私の遺言』）。
 13. 『紅白50回』、56頁。

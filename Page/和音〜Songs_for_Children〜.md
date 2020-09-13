@@ -12,7 +12,7 @@
         22ndシングル。
         ゲストミュージシャンとして参加しているダイアナ湯川の父親は同曲のオリジナルを歌っていた[坂本九](../Page/坂本九.md "wikilink")と同じく[日本航空123便墜落事故で亡くなっている](https://ja.wikipedia.org/wiki/日本航空123便墜落事故#著名人やその関係者 "wikilink")。
 2.  **[今日の日はさようなら](../Page/今日の日はさようなら.md "wikilink")　featuring [宗次郎](../Page/宗次郎.md "wikilink")**
-      - 作詞・作曲:[金子詔一](https://ja.wikipedia.org/wiki/金子詔一 "wikilink")
+      - 作詞・作曲:[金子詔一](../Page/金子詔一.md "wikilink")
     <!-- end list -->
       -
         22ndシングルのカップリング曲。表記は無いが、イントロや間奏にオカリナ演奏が追加されており、アルバムバージョンとなっている。

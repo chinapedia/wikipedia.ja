@@ -11,6 +11,7 @@
   - 当時放送されていた『[NO.](../Page/NO..md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系）では、発売日の30日前から、ZARDのビデオクリップが放送される日に、画面左上に「発表まであと○○日\!」と表示するカウントダウンを行い、発売2日前の放送日まで行われた。
   - ちなみに、本作が発売される週には[avexから](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")のベストアルバム『[ID](../Page/ID_\(相川七瀬のアルバム\).md "wikilink")』が1999年5月26日に発売される予定であったが、相川の連続1位記録更新の為に発売を1週間早めている（1999年5月19日発売）。また自身の『ZARD BEST 〜Request Memorial〜』は当初の発売予定（1999年9月24日）週にavexが[globe](https://ja.wikipedia.org/wiki/globe "wikilink")のベストアルバム『[CRUISE RECORD 1995-2000](../Page/CRUISE_RECORD_1995-2000.md "wikilink")』（1999年9月22日発売）をぶつけてきた為、ZARDの連続1位記録更新の為に発売日を1週間早めるという事態となった。
   - 14thシングル「[Just believe in love](../Page/Just_believe_in_love.md "wikilink")」がZARDのベストアルバムに収録されているのは、この作品だけである。
+  - ブックレットが2種類存在している。初回盤では、坂井の写真は海外で撮影された2点のみで、それ以外は海の風景写真となっている。それより後の盤では、大半が坂井の写真となっている。
 
 ## 収録曲
 

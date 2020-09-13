@@ -24,7 +24,8 @@
 <!-- end list -->
 
   -
-    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。現[S.Q.F](https://ja.wikipedia.org/wiki/S.Q.F "wikilink")のメンバー。2018年に元[ALvino](../Page/ALvino.md "wikilink")のKOJIと共にALICE IN MENSWEAR を結成。
+    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。解散後は[S.Q.F](https://ja.wikipedia.org/wiki/S.Q.F "wikilink")を始動（バンド編成、ユニットを経て、michi.のソロプロジェクト）。
+    michi.として、2018年に活動休止した[ALvino](../Page/ALvino.md "wikilink")のKOJIと共にALICE IN MENSWEARを結成。
 
 <!-- end list -->
 
@@ -406,7 +407,7 @@
 
 ## 外部リンク
 
-  - [オフィシャルサイト](http://www.maschera2012.com/)
+  - [オフィシャルサイト](http://www.maschera2012.com/)　※2014年3月29日閉鎖
   - [MASCHERA2012](https://twitter.com/maschera2012) (@MASCHERA2012) - [Twitter](../Page/Twitter.md "wikilink")
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:1992年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1992年に結成した音楽グループ "wikilink") [Category:2000年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に解散した音楽グループ "wikilink") [Category:過去のホリプロ所属者](https://ja.wikipedia.org/wiki/Category:過去のホリプロ所属者 "wikilink")

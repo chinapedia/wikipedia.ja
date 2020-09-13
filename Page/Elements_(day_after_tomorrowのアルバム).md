@@ -27,7 +27,7 @@
 2.  **Time Of Destiny** (4:16)
     （作詞：[北野正人](../Page/北野正人.md "wikilink") / 作曲：北野正人 / 編曲：五十嵐充、day after tomorrow）
 3.  **ありふれた日常を捨てて** (3:14)
-    （作詞：misono / 作曲：北野正人 / 編曲：五十嵐充、day after tomorrow）
+    （作詞：北野正人 / 作曲：北野正人 / 編曲：五十嵐充、day after tomorrow）
 4.  **Sentence** (4:04)
     （作詞：misono / 作曲：北野正人 / 編曲：石塚知生、五十嵐充、day after tomorrow）
 5.  **[Stay in my heart](../Page/Stay_in_my_heart.md "wikilink")** (5:16)

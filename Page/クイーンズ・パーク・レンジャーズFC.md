@@ -423,6 +423,14 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2019-2020" title="wikilink">2019-20</a></p></td>
 <td><p>チャンピオン</p></td>
 <td><p>46</p></td>
+<td><p>16</p></td>
+<td><p>10</p></td>
+<td><p>20</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2020-2021" title="wikilink">2020-21</a></p></td>
+<td><p>チャンピオン</p></td>
+<td><p>46</p></td>
 <td></td>
 <td></td>
 <td></td>

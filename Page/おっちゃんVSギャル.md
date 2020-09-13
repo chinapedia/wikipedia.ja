@@ -1,11 +1,11 @@
 > この記事は[おっちゃんVSギャル](https://ja.wikipedia.org/wiki/おっちゃんVSギャル)から翻訳されています。
 
 
-『**おっちゃんVSギャル**』（おっちゃんブイエスギャル）は、[1986年](../Page/1986年.md "wikilink")[5月6日](../Page/5月6日.md "wikilink")から[2000年](../Page/2000年.md "wikilink")3月まで[朝日放送（ABCテレビ）の](../Page/朝日放送テレビ.md "wikilink")『[ナイトinナイト](../Page/ナイトinナイト.md "wikilink")』火曜枠で放送された[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")（放送当時は『ナイトinナイト 』が番組名で、『おっちゃんVSギャル』は企画名扱い）である。放送時間は、毎週[火曜日](../Page/火曜日.md "wikilink")23:17-24:12（[JST](../Page/日本標準時.md "wikilink")）。
+『**おっちゃんVSギャル**』（おっちゃんブイエスギャル）は、[1986年](../Page/1986年.md "wikilink")[5月6日](../Page/5月6日.md "wikilink")から[2000年](../Page/2000年.md "wikilink")3月まで[朝日放送（ABCテレビ）の](../Page/朝日放送テレビ.md "wikilink")『[ナイトinナイト](../Page/ナイトinナイト.md "wikilink")』火曜枠で放送された[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")（放送当時は『ナイトinナイト 』が番組名で、『おっちゃんVSギャル』は企画名扱い）である。放送時間は、毎週[火曜日](../Page/火曜日.md "wikilink")23:27-24:27（[JST](../Page/日本標準時.md "wikilink")）。
 
 ## 概要
 
-司会は[落語家](../Page/落語家.md "wikilink")の桂三枝（現・[六代桂文枝](../Page/桂文枝_\(6代目\).md "wikilink")）、アシスタントは初代が岡野久子、2代目が春藤睦、3代目がそれまで解答者だった[タレント](../Page/タレント.md "wikilink")の[遥洋子](../Page/遙洋子.md "wikilink")、4代目が当時・ABCアナウンサーの[高野直子が番組終了まで務め](../Page/高野直子_\(アナウンサー\).md "wikilink")、解説者（ワードプロフェッサー）を[亀井肇](https://ja.wikipedia.org/wiki/亀井肇 "wikilink")が務めた（後に[門上武司](https://ja.wikipedia.org/wiki/門上武司 "wikilink")に交代）。
+司会は[落語家](../Page/落語家.md "wikilink")の桂三枝（現・[6代目桂文枝](../Page/桂文枝_\(6代目\).md "wikilink")）、アシスタントは初代が岡野久子、2代目が春藤睦、3代目がそれまで解答者だった[タレント](../Page/タレント.md "wikilink")の[遥洋子](../Page/遙洋子.md "wikilink")、4代目が当時・ABCアナウンサーの[高野直子が番組終了まで務め](../Page/高野直子_\(アナウンサー\).md "wikilink")、解説者（ワードプロフェッサー）を[亀井肇](https://ja.wikipedia.org/wiki/亀井肇 "wikilink")が務めた（後に[門上武司](https://ja.wikipedia.org/wiki/門上武司 "wikilink")に交代）。
 
 中年男性芸能人・文化人・弁護士などの「おっちゃん」チームと、若手女性タレントの「ギャル」チームに分かれ、おじさん世代しか知らないことや若者たちしか知らない流行などを答えるクイズ番組だった。
 
@@ -44,7 +44,7 @@
 <li><a href="../Page/ミヤコ_(お笑い芸人).md" title="wikilink">非常階段ミヤコ</a></li>
 <li>麻生みどり</li>
 <li><a href="https://ja.wikipedia.org/wiki/羽野晶紀" title="wikilink">羽野晶紀</a></li>
-<li><a href="../Page/かつみ・さゆり.md" title="wikilink">尾崎小百合</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/かつみ♥さゆり" title="wikilink">尾崎小百合</a></li>
 <li>内東（亀屋）佳世乃</li>
 <li><a href="https://ja.wikipedia.org/wiki/堀美矢子" title="wikilink">堀みやこ</a></li>
 <li><a href="../Page/亀山房代.md" title="wikilink">亀山房代</a></li>
@@ -76,8 +76,8 @@
 
 ## 関連項目
 
-  - [クイズ\!年の差なんて](../Page/クイズ!年の差なんて.md "wikilink") - 桂三枝が司会、高島忠夫がアダルトチームの解答者として出演した番組。この番組を基としてフジテレビジョンにて放送された番組。
-  - [そんなコト考えた事なかったクイズ\!トリニクって何の肉\!?](https://ja.wikipedia.org/wiki/そんなコト考えた事なかったクイズ!トリニクって何の肉!? "wikilink")
+  - [クイズ\!年の差なんて](../Page/クイズ!年の差なんて.md "wikilink") - 桂三枝が司会、高島忠夫がアダルトチームの解答者として出演した番組。この番組のフォーマットを三枝がフジテレビジョンに売り込み、同局で放送された番組。
+  - [そんなコト考えた事なかったクイズ\!トリニクって何の肉\!?](https://ja.wikipedia.org/wiki/そんなコト考えた事なかったクイズ!トリニクって何の肉!? "wikilink") - 本作と同じ朝日放送制作・同じコンセプトのクイズ番組。
 
 ## 脚注
 

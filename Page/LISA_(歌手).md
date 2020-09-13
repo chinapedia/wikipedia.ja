@@ -115,7 +115,7 @@
 
 ## 人物
 
-日本国籍で、日本での[出生名](https://ja.wikipedia.org/wiki/出生名 "wikilink")の届け出は、[戸籍](../Page/戸籍.md "wikilink")に関する法令に依り、"成田・エリザベスサクラ" となる。 [J-WAVE](../Page/J-WAVE.md "wikilink")『[Across The View](https://ja.wikipedia.org/wiki/Across_The_View#ラジオ番組『Across_The_View』 "wikilink")』では、「成田リサ」と[☆Takuに呼ばれたことがある](https://ja.wikipedia.org/wiki/☆Taku_Takahashi "wikilink")。（[エリザベス](../Page/エリザベス.md "wikilink")の[愛称](../Page/愛称.md "wikilink")は「リサ」になるため間違いではない。） 実家は、[東京都](../Page/東京都.md "wikilink")[世田谷区](../Page/世田谷区.md "wikilink")[用賀](../Page/用賀.md "wikilink")にある[焼き鳥](../Page/焼き鳥.md "wikilink")屋「やきとり天国」である。 [清泉インターナショナルスクール](../Page/清泉インターナショナルスクール.md "wikilink")出身で、歌手の[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")は、後輩にあたる。 [日本語](../Page/日本語.md "wikilink")、[英語](../Page/英語.md "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")を操る[トリリンガルである](../Page/多言語.md "wikilink")。
+結成20周年。m-floの紅一点。最強の肉食ボーカリスト。日本国籍で、日本での[出生名](https://ja.wikipedia.org/wiki/出生名 "wikilink")の届け出は、[戸籍](../Page/戸籍.md "wikilink")に関する法令に依り、"成田・エリザベスサクラ" となる。 [J-WAVE](../Page/J-WAVE.md "wikilink")『[Across The View](https://ja.wikipedia.org/wiki/Across_The_View#ラジオ番組『Across_The_View』 "wikilink")』では、「成田リサ」と[☆Takuに呼ばれたことがある](https://ja.wikipedia.org/wiki/☆Taku_Takahashi "wikilink")。（[エリザベス](../Page/エリザベス.md "wikilink")の[愛称](../Page/愛称.md "wikilink")は「リサ」になるため間違いではない。） 実家は、[東京都](../Page/東京都.md "wikilink")[世田谷区](../Page/世田谷区.md "wikilink")[用賀](../Page/用賀.md "wikilink")にある[焼き鳥](../Page/焼き鳥.md "wikilink")屋「やきとり天国」である。 [清泉インターナショナルスクール](../Page/清泉インターナショナルスクール.md "wikilink")出身で、歌手の[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")は、後輩にあたる。 [日本語](../Page/日本語.md "wikilink")、[英語](../Page/英語.md "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")を操る[トリリンガルである](../Page/多言語.md "wikilink")。
 
 m-floを脱退後、様々な[ジャンル](../Page/ジャンル.md "wikilink")の音楽を発表してきたが、最近は[R\&B特化を宣言している](../Page/リズム・アンド・ブルース.md "wikilink")。[長渕剛](../Page/長渕剛.md "wikilink")を支持する歌手の一人であり、長渕の[トリビュートアルバム](https://ja.wikipedia.org/wiki/トリビュートアルバム "wikilink") 『[Hey ANIKI\!](../Page/Hey_ANIKI!.md "wikilink")』に参加。[2004年](../Page/2004年.md "wikilink")に開かれた長渕の[桜島](../Page/桜島.md "wikilink")オールナイトコンサートでは、同じく『Hey ANIKI\!』に参加していた[Zeebra](../Page/Zeebra.md "wikilink")と共に長渕との競演を果たしている。
 
@@ -355,15 +355,6 @@ LISA LIONの名で[ラップ](../Page/ラップ.md "wikilink")パートを行う
   - [CLIFF EDGE](../Page/CLIFF_EDGE.md "wikilink")
   - [中村舞子](https://ja.wikipedia.org/wiki/中村舞子 "wikilink")
 
-## 外部リンク
-
-  - [LISA avex Official Website](https://avex.jp/lisa/index.html)
-
-  - [LISAオフィシャルブログ「CRAZY LIFE\!\!」Powered by Ameba](https://ameblo.jp/lisa-official/)2010年1月から
-
-  -
-  - [Lisa Narita](https://www.instagram.com/real_lisa_gn/) (real_lisa_gn) - [Instagram](https://ja.wikipedia.org/wiki/Instagram "wikilink")
-
 ## 脚注
 
 ### 注釈
@@ -372,6 +363,14 @@ LISA LIONの名で[ラップ](../Page/ラップ.md "wikilink")パートを行う
 
 ### 出典
 
+## 外部リンク
+
+  - [LISA avex official website](https://avex.jp/lisa/index.html)
+
+  - \- 2010年1月から
+
+  -
+  -
 [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:日本のR\&B・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のR&B・ミュージシャン "wikilink") [Category:1974年生](https://ja.wikipedia.org/wiki/Category:1974年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:コロンビア系日本人](https://ja.wikipedia.org/wiki/Category:コロンビア系日本人 "wikilink") [Category:m-floのメンバー](https://ja.wikipedia.org/wiki/Category:m-floのメンバー "wikilink")
 
 1.  AFPBB News「[ヨーロッパ最大の楽園でLISAが日本人女性初となるLIVE敢行！！！](http://www.afpbb.com/article/pressrelease/pr-entertainment/2435304/3354921)」2008年9月19日

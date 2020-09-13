@@ -13,7 +13,7 @@
 
 ## あらすじ
 
-2017年夏、人気絶頂のアイドルグループ、Lemon Angelが唐突に活動を終えた。それから10か月後の2018年、新生Lemon Angelを選ぶオーディションに集まった6人の少女たちの運命を描く。
+2016年夏、人気絶頂のアイドルグループ、Lemon Angelが唐突に活動を終えた。それから10か月後の2017年、新生Lemon Angelを選ぶオーディションに集まった6人の少女たちの運命を描く。
 
 ## 登場人物
 
@@ -301,6 +301,6 @@
 ## 外部リンク
 
   - [レモンエンジェルプロジェクト アニメ公式サイト](http://www.imagicatv.jp/content/LAP/)
-  - [RADIO LEMON ANGEL PROJECT 〜い・け・な・い☆レッスン〜 公式サイト](http://web.archive.org/web/20060810233859/http://www.amg-e.com/radiolap/) - 閉鎖。（2006年8月10日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [RADIO LEMON ANGEL PROJECT 〜い・け・な・い☆レッスン〜 公式サイト](https://web.archive.org/web/20060810233859/http://www.amg-e.com/radiolap/) - 閉鎖。（2006年8月10日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
 [Category:レモンエンジェル](https://ja.wikipedia.org/wiki/Category:レモンエンジェル "wikilink") [Category:アニメ作品_れ](https://ja.wikipedia.org/wiki/Category:アニメ作品_れ "wikilink") [Category:2006年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2006年のテレビアニメ "wikilink") [Category:UHFアニメ](https://ja.wikipedia.org/wiki/Category:UHFアニメ "wikilink") [Category:アニメ魂](https://ja.wikipedia.org/wiki/Category:アニメ魂 "wikilink") [Category:エイベックス・グループのアニメ作品](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアニメ作品 "wikilink") [Category:アイドルを題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:アイドルを題材としたアニメ作品 "wikilink")

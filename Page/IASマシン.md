@@ -5,7 +5,7 @@
 
 ## 歴史
 
-1946年5月、主任技術者としてが雇われた\[3\]。プロジェクト参加者としては他に、[ハーマン・ゴールドスタイン](https://ja.wikipedia.org/wiki/ハーマン・ゴールドスタイン "wikilink")、、[アーサー・バークス](https://ja.wikipedia.org/wiki/アーサー・バークス "wikilink")がいる\[4\]。マシンは1951年夏に部分稼動し、[1952年](../Page/1952年.md "wikilink")6月10日に完全稼動している。
+1946年5月、主任技術者としてが雇われた\[3\]。プロジェクト参加者としては他に、[ハーマン・ゴールドスタイン](https://ja.wikipedia.org/wiki/ハーマン・ゴールドスタイン "wikilink")、[ジェラルド・エストリン](https://ja.wikipedia.org/wiki/ジェラルド・エストリン "wikilink")、[アーサー・バークス](https://ja.wikipedia.org/wiki/アーサー・バークス "wikilink")がいる\[4\]。マシンは1951年夏に部分稼動し、[1952年](../Page/1952年.md "wikilink")6月10日に完全稼動している。
 
 1958年7月15日まで使用されていた\[5\]。
 
@@ -63,7 +63,7 @@ IASマシンの派生の例：
 
 ## 参考文献
 
-  - Gilchrist, Bruce, ["Remembering Some Early Computers, 1948-1960"](http://web.archive.org/web/20061212200023/http://www.columbia.edu/cu/epic/gilchrist_3.07.06.pdf), *Columbia University EPIC*, 2006, pp.7-9. (archived 2006) Contains some autobiographical material on Gilchrist's use of the IAS computer beginning in 1952.
+  - Gilchrist, Bruce, ["Remembering Some Early Computers, 1948-1960"](https://web.archive.org/web/20061212200023/http://www.columbia.edu/cu/epic/gilchrist_3.07.06.pdf), *Columbia University EPIC*, 2006, pp.7-9. (archived 2006) Contains some autobiographical material on Gilchrist's use of the IAS computer beginning in 1952.
 
 ## 関連項目
 

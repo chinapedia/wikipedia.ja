@@ -57,5 +57,8 @@
 ## 外部リンク
 
   - [オフィシャルサイト](https://www.beatniks.online/)
+  - [YouTube公式チャンネル](https://www.youtube.com/channel/UCI5YuLOiuQ8SZF-W-XDdXNw/)
+  - [Twitter](https://twitter.com/TheaterBeatniks?s=09)
+  - [Facebook](https://facebook.com/theaterbeatniks/)
 
 [Category:日本の劇団](https://ja.wikipedia.org/wiki/Category:日本の劇団 "wikilink") [Category:日本のお笑いグループ](https://ja.wikipedia.org/wiki/Category:日本のお笑いグループ "wikilink") [Category:日本のコントユニット](https://ja.wikipedia.org/wiki/Category:日本のコントユニット "wikilink") [Category:香川県のコントユニット](https://ja.wikipedia.org/wiki/Category:香川県のコントユニット "wikilink")

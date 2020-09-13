@@ -166,7 +166,7 @@
 
 ## 外部リンク
 
-  - [インターネットラジオステーション<音泉>](http://onsen.ag/)
+  -
   - [「ARIA The ANIMATION」公式サイト](http://www.ariacompany.net/index.htm)
 
 [Category:ARIA](https://ja.wikipedia.org/wiki/Category:ARIA "wikilink") [Category:音泉](https://ja.wikipedia.org/wiki/Category:音泉 "wikilink") [Category:アニメイトTV](https://ja.wikipedia.org/wiki/Category:アニメイトTV "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")

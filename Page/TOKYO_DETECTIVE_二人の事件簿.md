@@ -209,7 +209,7 @@
 <td><p>恐怖! ゆがんだ愛情</p></td>
 <td><p>大野武雄</p></td>
 <td><p>村山新治</p></td>
-<td><p><a href="../Page/郷えい治.md" title="wikilink">郷鍈治</a>、<a href="../Page/牧れい.md" title="wikilink">牧れい</a>、<a href="https://ja.wikipedia.org/wiki/大塚吾郎" title="wikilink">大塚吾郎</a></p></td>
+<td><p><a href="../Page/郷鍈治.md" title="wikilink">郷鍈治</a>、<a href="../Page/牧れい.md" title="wikilink">牧れい</a>、<a href="https://ja.wikipedia.org/wiki/大塚吾郎" title="wikilink">大塚吾郎</a></p></td>
 </tr>
 <tr class="even">
 <td><p>18</p></td>

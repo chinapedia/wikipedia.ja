@@ -13,13 +13,13 @@
 
 積み増し（チャージ）した際には、入金額より割り増した金額が利用可能額として加算されるようになっている。また、割増率は入金額が大きいほど高くなる。
 
-相互利用のいわさきICカードともども、[SUGOCA](https://ja.wikipedia.org/wiki/SUGOCA "wikilink")・[nimoca](https://ja.wikipedia.org/wiki/nimoca "wikilink")・[Suica](../Page/Suica.md "wikilink")などの[全国相互利用ICカードとの相互利用はできない](https://ja.wikipedia.org/wiki/交通系ICカード全国相互利用サービス "wikilink")(詳細は[鹿児島市交通局\#ICカード乗車券の相互利用問題](https://ja.wikipedia.org/wiki/鹿児島市交通局#ICカード乗車券の相互利用問題 "wikilink")を参照)。ただし、桜島フェリー内でRapicaの定期券を購入する際に、全国相互利用ICカードを使用することは可能である\[2\]。
+相互利用のいわさきICカードともども、[SUGOCA](https://ja.wikipedia.org/wiki/SUGOCA "wikilink")・[nimoca](https://ja.wikipedia.org/wiki/nimoca "wikilink")・[Suica](../Page/Suica.md "wikilink")などの[全国相互利用ICカードとの相互利用はできない](https://ja.wikipedia.org/wiki/交通系ICカード全国相互利用サービス "wikilink")(詳細は[鹿児島市交通局\#ICカード乗車券の相互利用問題](https://ja.wikipedia.org/wiki/鹿児島市交通局#ICカード乗車券の相互利用問題 "wikilink")を参照)。ただし、桜島フェリー内や一部営業所でRapica（定期券を含む）を購入する際に、全国相互利用ICカードを使用することは可能である\[2\]\[3\]。
 
 ## 沿革
 
-  - 2005年4月1日 - 鹿児島市交通局、南国交通、[林田バスの](../Page/いわさきバスネットワーク.md "wikilink")3社局で導入\[3\]。
+  - 2005年4月1日 - 鹿児島市交通局、南国交通、[林田バスの](../Page/いわさきバスネットワーク.md "wikilink")3社局で導入\[4\]。
       - なお、林田バスはのちにいわさきグループ傘下会社に事業譲渡したためいわさきICカードに移行した。
-  - 2007年4月1日 - 桜島フェリーでの取扱いを開始\[4\]。
+  - 2007年4月1日 - 桜島フェリーでの取扱いを開始\[5\]。
 
 ## カードの特徴
 
@@ -56,5 +56,6 @@
 
 1.  (かごしま市議会だよりNo.329)
 2.  [桜島フェリーでクレジットカード・電子マネーが使えるようになります。](https://www.city.kagoshima.lg.jp/sakurajima-ferry/unchin/documents/925cashless.pdf)
-3.   - 国土交通省鉄道局、2007年4月1日現在
-4.  [桜島フェリーでラピカが使用できますか？](http://www.kotsu-city-kagoshima.jp/cust-faq/p-1733/) - 鹿児島市交通局
+3.  [キャッシュレスシステム導入のお知らせ](http://www.kotsu-city-kagoshima.jp/topics/21867/)
+4.   - 国土交通省鉄道局、2007年4月1日現在
+5.  [桜島フェリーでラピカが使用できますか？](http://www.kotsu-city-kagoshima.jp/cust-faq/p-1733/) - 鹿児島市交通局

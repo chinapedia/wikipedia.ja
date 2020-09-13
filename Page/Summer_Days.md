@@ -101,6 +101,7 @@ SHINY版の開発に伴い、PC版は2011年[8月26日](../Page/8月26日.md "wi
   - Strip Battle Days 2（ストリップバトルデイズ ツー）
     2016年4月28日発売。『野球拳 Strip Battle Days』の続編。主人公は**[伊藤誠](https://ja.wikipedia.org/wiki/デイズシリーズの登場人物#伊藤誠 "wikilink")**\[18\]。ヒロインは**[西園寺世界](https://ja.wikipedia.org/wiki/デイズシリーズの登場人物#西園寺世界 "wikilink")**・**[桂言葉](https://ja.wikipedia.org/wiki/デイズシリーズの登場人物#桂言葉 "wikilink")**・**[大隈二喜](https://ja.wikipedia.org/wiki/デイズシリーズの登場人物#大隈二喜 "wikilink")**・**[花山院恭美](https://ja.wikipedia.org/wiki/デイズシリーズの登場人物#花山院恭美 "wikilink")**が務め、前作に無かったアニメ演出も導入される\[19\]。新登場人物は伊藤誠の母**[伊藤萌子](https://ja.wikipedia.org/wiki/デイズシリーズの登場人物#伊藤萌子 "wikilink")**。
     発売直後の5月3日、不適切な画像が入っているという理由で一度販売が停止。その後、修正された物が27日に再出荷された。
+    2020年9月25日発売の「SCHOOLDAYS SERIES COMPLETE BOX」収録版はデザインが刷新され、新要素が追加されている。
 
 ## 関連商品
 

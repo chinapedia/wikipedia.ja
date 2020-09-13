@@ -85,6 +85,10 @@ Windows版は[ソースネクスト](../Page/ソースネクスト.md "wikilink"
 
 ※ PC版は全て、PS2版は3のシナリオのみ追加（ただし特定条件を満たせば4のシナリオが追加される）
 
+### 戦史モード
+
+PKで新たに追加されたモード\[2\]でステージクリア型の戦闘を楽しむモード。
+
 ## ネットワーク
 
 本作では[ネットワークの比重が大きくなっている](../Page/コンピュータネットワーク.md "wikilink")。ゲーム起動後「ネットワークに接続する」を選択すると、ゲームプログラムが自動的にアップデートされる、自分のプレイ内容が送信されランキングとして集計される、（これまでの武将交換掲示板経由ではなく直接）新武将の交換ができる、などの機能が利用できる。
@@ -102,3 +106,4 @@ Windows版は[ソースネクスト](../Page/ソースネクスト.md "wikilink"
 [Category:三國志シリーズ](https://ja.wikipedia.org/wiki/Category:三國志シリーズ "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:2004年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2004年のコンピュータゲーム "wikilink")
 
 1.  <http://www.sourcenext.info/support/sangokusi10.html>
+2.  [1](https://www.gamecity.ne.jp/sangokushi/10puk/popup/popup1.htm) - 2020年8月15日閲覧

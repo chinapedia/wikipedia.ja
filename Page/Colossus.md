@@ -129,7 +129,7 @@ Cipher Challenge により、復元プロジェクトの成功が確認された
   - ["Colossus cracks codes once more"](http://news.bbc.co.uk/1/hi/technology/7094881.stm) BBCの記事 (2007-11-15)
   - ["Bletchley's code-cracking Colossus"](http://news.bbc.co.uk/1/hi/technology/8492762.stm) BBCの記事。インタビュー動画付き (2010-02-02)
 
-[Category:コンピュータ_(歴代)](https://ja.wikipedia.org/wiki/Category:コンピュータ_\(歴代\) "wikilink") [Category:1940年代のコンピュータ](https://ja.wikipedia.org/wiki/Category:1940年代のコンピュータ "wikilink") [Category:初期のコンピュータ](https://ja.wikipedia.org/wiki/Category:初期のコンピュータ "wikilink") [Category:真空管式コンピュータ](https://ja.wikipedia.org/wiki/Category:真空管式コンピュータ "wikilink") [Category:個別のコンピュータ](https://ja.wikipedia.org/wiki/Category:個別のコンピュータ "wikilink")
+[Category:コンピュータ_(歴代)](https://ja.wikipedia.org/wiki/Category:コンピュータ_\(歴代\) "wikilink") [Category:1940年代のコンピュータ](https://ja.wikipedia.org/wiki/Category:1940年代のコンピュータ "wikilink") [Category:初期のコンピュータ](https://ja.wikipedia.org/wiki/Category:初期のコンピュータ "wikilink") [Category:真空管式コンピュータ](https://ja.wikipedia.org/wiki/Category:真空管式コンピュータ "wikilink") [Category:個別のコンピュータ](https://ja.wikipedia.org/wiki/Category:個別のコンピュータ "wikilink") [Category:暗号解読装置](https://ja.wikipedia.org/wiki/Category:暗号解読装置 "wikilink")
 
 1.  [Bletchley's code-cracking Colossus](http://news.bbc.co.uk/1/hi/technology/8492762.stm)
 2.  [The Colossus Rebuild](http://www.tnmoc.org/colossus-rebuild.aspx)

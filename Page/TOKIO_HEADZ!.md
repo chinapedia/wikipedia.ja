@@ -17,7 +17,7 @@
 
   - [カゼッタF](https://ja.wikipedia.org/wiki/カゼッタ岡 "wikilink")（自称宇宙人）
   - [零士](https://ja.wikipedia.org/wiki/零士 "wikilink")（カリスマ[ホスト](../Page/ホストクラブ.md "wikilink")）
-  - [龍飛雲](https://ja.wikipedia.org/wiki/龍飛雲 "wikilink")（武道家）
+  - [龍飛雲](../Page/龍飛雲.md "wikilink")（武道家）
   - [竹田恒泰](../Page/竹田恒泰.md "wikilink")（実業家）
 
 など

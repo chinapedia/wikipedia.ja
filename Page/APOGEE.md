@@ -719,7 +719,7 @@ LITTLE 8 RECORDS<br />
 
   - [APOGEE POINT](http://www.apogeepoint.com/) - 公式ウェブサイト
 
-  - [APOGEE@VictorEntertanment](http://www.jvcmusic.co.jp/-/Artist/A019098.html) - レーベルによる公式ページ
+  - [APOGEE@VictorEntertanment](https://www.jvcmusic.co.jp/-/Artist/A019098.html) - レーベルによる公式ページ
 
   -
   -   -

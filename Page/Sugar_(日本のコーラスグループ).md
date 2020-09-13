@@ -5,12 +5,15 @@
 
 ## メンバー
 
-  - ミキ（笠松美樹、[1960年](../Page/1960年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink") - ） - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink") 　[東京都](../Page/東京都.md "wikilink")[大田区](https://ja.wikipedia.org/wiki/大田区 "wikilink")出身。[日本大学鶴ヶ丘高等学校](../Page/日本大学鶴ヶ丘高等学校.md "wikilink")卒業。
+  - ミキ（笠松美樹、[1960年](../Page/1960年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink") - ） - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink") 　[東京都](../Page/東京都.md "wikilink")[大田区](https://ja.wikipedia.org/wiki/大田区 "wikilink")出身。[日本大学鶴ヶ丘高等学校](../Page/日本大学鶴ヶ丘高等学校.md "wikilink")卒業。「ムーピー・ベイビー」作曲。
 
 <!-- end list -->
 
   -
     解散後は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")の子供向け番組『[パオパオチャンネル](../Page/パオパオチャンネル.md "wikilink")』のコーナー「ピッカピカ音楽館」で「ねこのひげ」（「DE:RAH」名義）と「すきだからあだな」（「MIKI」名義）を歌っていた\[1\]。その後、「[森田公一とトップギャラン](https://ja.wikipedia.org/wiki/森田公一とトップギャラン "wikilink")2」のキーボードを経て、現在はソロ及び[作曲家](../Page/作曲家.md "wikilink")として活動。
+    　「はなかっぱ」「カルカル　カルシウムの唄」などを作曲。
+    youtubeでは、MIKI KASAMATSU　というチャンネルを持っている。
+    [NHK](https://ja.wikipedia.org/wiki/NHK "wikilink")・[Eテレ](https://ja.wikipedia.org/wiki/Eテレ "wikilink")のアニメ「[はなかっぱ](https://ja.wikipedia.org/wiki/はなかっぱ "wikilink")」で、**ふわ吉の母親**の声を担当している。
 
 <!-- end list -->
 
@@ -19,7 +22,7 @@
 <!-- end list -->
 
   -
-    解散後は、ソロ活動等を経て、現在は[デザイナー](../Page/デザイナー.md "wikilink")として、企画・デザイン会社Bring代表。犬の愛護を目的とした団体[NPO法人シュガープロジェクトも運営している](../Page/特定非営利活動法人.md "wikilink")。息子が2人いる。
+    解散後は、ソロ活動等を経て、現在は[デザイナー](../Page/デザイナー.md "wikilink")として、企画・デザイン会社Bring代表。犬の愛護を目的とした団体[NPO法人シュガープロジェクトも運営している](../Page/特定非営利活動法人.md "wikilink")。2男の母。
 
 <!-- end list -->
 
@@ -165,18 +168,26 @@
 
   - バナナ&桃（ピーチ）白書（1982年、[立風書房](../Page/立風書房.md "wikilink")）
 
-## 主なテレビ出演
+## 主な出演
 
 ### テレビドラマ
 
   - [ザ・サスペンス](../Page/ザ・サスペンス.md "wikilink")「[刑事ガモさんシリーズ](https://ja.wikipedia.org/wiki/刑事ガモさんシリーズ "wikilink") 1 女子大生危険な帰り道」（1982年、[TBS](../Page/TBSテレビ.md "wikilink")）
   - ドラマスペシャル「[赤川次郎](../Page/赤川次郎.md "wikilink")のおやすみ、テディ・ベア」（1983年、TBS）
 
-### バラエティ
+### テレビバラエティ
 
   - [日立テレビシティ](../Page/日立テレビシティ.md "wikilink")「[ニャロメのおもしろ数学教室](https://ja.wikipedia.org/wiki/ニャロメ#ニャロメのおもしろ入門シリーズ "wikilink")」(1982年、[TBS](../Page/TBSテレビ.md "wikilink"))
+  - [サムシングNOW](../Page/サムシングNOW.md "wikilink")(1982年3月27日、TBS)
   - [シュガー・泰葉の歌謡最前線](https://ja.wikipedia.org/wiki/歌謡最前線_\(日本テレビ\) "wikilink")(1982年 - 1983年、[NTV](../Page/日本テレビ放送網.md "wikilink")) - [泰葉](../Page/泰葉.md "wikilink")と共にメインMC。
   - [爆報\! THE フライデー](https://ja.wikipedia.org/wiki/爆報!_THE_フライデー "wikilink")（2020年3月13日、TBSテレビ） - クミが出演。1990年に急死したモーリについて語った\[5\]\[6\]。
+
+### ラジオ
+
+  - [NISSANミッドナイトステーション](../Page/NISSANミッドナイトステーション.md "wikilink") シュガー 気まぐれ夜間飛行 （[TBSラジオ](../Page/TBSラジオ.md "wikilink") 1982年10月〜1983年3月、土曜日）
+  - シュガーのバイキン少女とSISTER BOY（[文化放送](../Page/文化放送.md "wikilink")）
+  - シュガーのFree\&Free魔法の時間（文化放送）
+  - [古舘伊知郎](../Page/古舘伊知郎.md "wikilink")のパワフルタッチのまるごと遊ビジョン（[ニッポン放送](../Page/ニッポン放送.md "wikilink")）- モーリのみ、アシスタント出演
 
 ### NHK紅白歌合戦出場歴
 
@@ -198,13 +209,17 @@
 
 ## 脚注
 
+## 関連項目
+
+  - [1981年の音楽\#デビュー](https://ja.wikipedia.org/wiki/1981年の音楽#デビュー "wikilink") - 同じ年にデビューした歌手
+
 ## 外部リンク
 
   -
   -
   -
   -
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:コーラス・グループ](https://ja.wikipedia.org/wiki/Category:コーラス・グループ "wikilink") [Category:フォーライフミュージックエンタテイメントのアーティスト](https://ja.wikipedia.org/wiki/Category:フォーライフミュージックエンタテイメントのアーティスト "wikilink") [Category:1981年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1981年に結成した音楽グループ "wikilink") [Category:1987年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1987年に解散した音楽グループ "wikilink")
+[Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:コーラス・グループ](https://ja.wikipedia.org/wiki/Category:コーラス・グループ "wikilink") [Category:フォーライフミュージックエンタテイメントのアーティスト](https://ja.wikipedia.org/wiki/Category:フォーライフミュージックエンタテイメントのアーティスト "wikilink") [Category:1981年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1981年に結成した音楽グループ "wikilink") [Category:1987年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1987年に解散した音楽グループ "wikilink")
 
 1.  [小島豊美](https://ja.wikipedia.org/wiki/小島豊美 "wikilink")とアヴァンデザイン活字楽団『昭和のテレビ童謡クロニクル 『ひらけ\! ポンキッキ』から『ピッカピカ音楽館』まで』DU BOOKS、2015年、317頁。ISBN 978-4-907583-45-3
 2.

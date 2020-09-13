@@ -26,7 +26,7 @@
       -
         2ndシングル「うさぎの唄」c/w。
 3.  **[うさぎの唄](https://ja.wikipedia.org/wiki/うさぎの唄 "wikilink")**
-    （作詞：[関口和之](../Page/関口和之.md "wikilink")　作曲：[宇崎竜童](../Page/宇崎竜童.md "wikilink")　編曲：[HARABOSE](https://ja.wikipedia.org/wiki/HARABOSE "wikilink")）
+    （作詞：[関口和之](../Page/関口和之.md "wikilink")　作曲：[宇崎竜童](../Page/宇崎竜童.md "wikilink")　編曲：HARABOSE）
       -
         2ndシングル。
 4.  **[いちょう並木のセレナーデ](../Page/Miss_YOKOHAMADULT.md "wikilink")**

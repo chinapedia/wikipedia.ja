@@ -5,15 +5,17 @@
 
 ## 概要
 
-デビューから5周年を迎え、これまでに発表した楽曲（リミックス含む）も100曲を超えた記念となる初のベストアルバム。 A面、ダブルA面、トリプルA面全てのシングルタイトル曲（DISC2の8曲目までは発売順に収録）を収録したシングルコレクション的作品だが、[Crystal Kayとのコラボレーション楽曲](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")「Two As One」、[松尾潔](https://ja.wikipedia.org/wiki/松尾潔 "wikilink")を再びプロデューサーに迎えての新曲「Top of the World」も収録している。なお、「Top of the World」は[2006年](../Page/2006年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")にリカットシングルとしてもリリース。
+デビューから5周年を迎え、これまでに発表した楽曲（リミックス含む）も100曲を超えた記念となる初のベストアルバム。 A面、ダブルA面、トリプルA面全てのシングルタイトル曲（Disc 2の8曲目までは発売順に収録）を収録したシングルコレクション的作品だが、[Crystal Kayとのコラボレーション楽曲](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")「Two As One」、[松尾潔](https://ja.wikipedia.org/wiki/松尾潔 "wikilink")を再びプロデューサーに迎えての新曲「Top of the World」も収録している。なお、「Top of the World」は[2006年](../Page/2006年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")にリカットシングルとしてもリリース。
 
-初回盤はライブツアー「CHEMISTRY 2006 TOUR fo(u)r」の[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")公演の模様、[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")男子ボーカリスト[オーディション](../Page/オーディション.md "wikilink")のダイジェスト映像を収録した[DVD](../Page/DVD.md "wikilink")付きの3枚組。DVDの単体発売は予定されていないが、同内容を収録した[Blu-ray Discが同時発売](../Page/Blu-ray_Disc.md "wikilink")。
+初回限定盤はライブツアー「CHEMISTRY 2006 TOUR fo(u)r」の[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")公演の模様、[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")男子ボーカリスト[オーディション](../Page/オーディション.md "wikilink")のダイジェスト映像を収録した[DVD](../Page/DVD.md "wikilink")付きの3枚組。DVDの単体発売は予定されていないが、同内容を収録した[Blu-ray Discが同時発売](../Page/Blu-ray_Disc.md "wikilink")。
 
 今作で『[Hot Chemistry](../Page/Hot_Chemistry.md "wikilink")』以来、1年10ヶ月ぶりとなるアルバム首位を獲得。
 
 ## 収録曲
 
-### Disc 1：2001-2003
+### CD
+
+#### Disc 1：2001 - 2003
 
 1.  **[PIECES OF A DREAM](../Page/PIECES_OF_A_DREAM.md "wikilink")**
       -
@@ -58,7 +60,7 @@
       -
         9thシングルの3曲目。
 
-### Disc 2：2004-2006
+#### Disc 2：2004 - 2006
 
 1.  **[So in Vain](../Page/So_in_Vain.md "wikilink")**
       -
@@ -97,7 +99,7 @@
       -
         新曲。後に19thシングルとしてリカット。
 
-### DVD（初回盤のみ）
+### DVD（初回限定盤のみ）
 
   - 「CHEMISTRY 2006 TOUR fo(u)r」さいたまスーパーアリーナ公演より
 

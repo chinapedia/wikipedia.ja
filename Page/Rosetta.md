@@ -5,6 +5,10 @@
 
 インテルアーキテクチャ向けに対応した[v10.4 "Tiger"で初めて搭載されたものの](../Page/Mac_OS_X_v10.4.md "wikilink")、[v10.6 "Snow Leopard"ではインストールが任意化](../Page/Mac_OS_X_v10.6.md "wikilink")\[2\]及び最後の対応となり、[v10.7 "Lion"で廃止された](https://ja.wikipedia.org/wiki/Mac_OS_X_Lion "wikilink")\[3\]。
 
+2020年6月に行われた[WWDC20](https://www.apple.com/apple-events/june-2020/) において[Apple Silicon移行に伴ったRosetta](https://ja.wikipedia.org/wiki/Apple_Silicon "wikilink") 2が発表された。\[4\]
+
+[Mac Catalystなどと同様に](https://ja.wikipedia.org/wiki/Mac_Catalyst "wikilink")、[Xcode](../Page/Xcode.md "wikilink") 12で再ビルドすれば自動的に利用可能\[5\]。
+
 ## 仕組みとパフォーマンス
 
 どの程度のサイズのバイナリコードが変換されるかは動的に変化する（[キャッシュメモリ](../Page/キャッシュメモリ.md "wikilink")と同じような概念で、必要なプログラムコードを任意の容量読み込んだ上でx86コードに変換するため、逐一命令を変換する[エミュレータとはいささか趣を異にする](../Page/エミュレータ_\(コンピュータ\).md "wikilink")）。アプリケーションのコード全体をインテル用コードに変換してから実行する機能はない。[ユニバーサルバイナリ](https://ja.wikipedia.org/wiki/ユニバーサルバイナリ "wikilink")対応のソフトでは自動的にインテル用コードが実行される。
@@ -24,3 +28,5 @@ Rosettaを利用した場合、たとえ最新の[Core i7でも](https://ja.wiki
 1.  [86系に乗り換えるApple社の秘策，「Rosetta」の概要が明らかに](http://techon.nikkeibp.co.jp/article/NEWS/20050610/105646/)
 2.  [話題のユキヒョウを追う「Snow Leopard、ココに注目」(3) - 互換性の謎を解く](https://news.mynavi.jp/articles/2009/09/03/macosx_snowleopard/)
 3.  [新機能のポイントをチェック\! アップル「OS X Lion」速攻レビュー(後編)](https://news.mynavi.jp/articles/2011/07/27/lion02/002.html)
+4.
+5.

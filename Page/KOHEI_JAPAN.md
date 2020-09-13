@@ -83,7 +83,7 @@ MELLOW YELLOW、Funky Lemonadeの作品は除く
       - 「FRIENDS feat. KOHEI JAPAN」
   - [マボロシ](../Page/マボロシ.md "wikilink"),『[ワルダクミ](../Page/ワルダクミ.md "wikilink")』（2004年12月8日）
       - 「DEAR MY HOME GROUND featuring [Full Of Harmony](../Page/Full_Of_Harmony.md "wikilink"),KOHEI JAPAN」
-  - [MCU](https://ja.wikipedia.org/wiki/MCU "wikilink"),『[A Peacetime MCU](https://ja.wikipedia.org/wiki/A_Peacetime_MCU "wikilink")』（2005年5月11日）
+  - [MCU](../Page/MCU_\(ラッパー\).md "wikilink"),『[A Peacetime MCU](https://ja.wikipedia.org/wiki/A_Peacetime_MCU "wikilink")』（2005年5月11日）
       - 「しし座のA型feat.KOHEI JAPAN」
   - [Miss Monday](../Page/Miss_Monday.md "wikilink")『JOY RIDE THE COMPILATION』（2005年9月7日）
       - 「元町ブロックパーティーfeat.KOHEI JAPAN」

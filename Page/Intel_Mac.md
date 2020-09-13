@@ -3,7 +3,7 @@
 
 [right](https://ja.wikipedia.org/wiki/ファイル:Mac_mini_Intel_Core.jpg "wikilink") **Intel Mac**（インテルマック）は[アップルが開発および販売を行っている](../Page/アップル_\(企業\).md "wikilink")、[Macintosh](../Page/Macintosh.md "wikilink")に[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")の[CPU](../Page/CPU.md "wikilink")([PC/AT互換](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink"))を採用した製品群の総称である。[PowerPC](../Page/PowerPC.md "wikilink")を搭載したMacの後継にあたる。
 
-[2015年](../Page/2015年.md "wikilink")現在、全てのMac製品にインテル製プロセッサが採用されていることから、この表現は滅多に使われなくなっている。
+[2020年](../Page/2020年.md "wikilink")現在、全てのMac製品にインテル製プロセッサが採用されていることから、この表現は使われなくなっているが、2020年6月にプロセッサを自社開発の「Apple Silicon」へ段階的に移行する計画を発表しており\[1\]、680x0、PowerPCに続く世代として分類するために使用する。
 
 ## 概要
 
@@ -19,11 +19,13 @@
 
 [Boot Campとは](../Page/Boot_Camp.md "wikilink")、Intel Macで他の[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) を動作させることのできる新たな機能である。
 
-当初は、インテルのプロセッサを採用しているが、[Windows XPがインテル搭載マックの採用するファームウェア](../Page/Microsoft_Windows_XP.md "wikilink") "[EFI](../Page/Unified_Extensible_Firmware_Interface.md "wikilink")" に対応していないため、既存のWindows XPを動作させることは疑問視されていたが、アップルからFirmware UpdateとBoot Campのベータ版の[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")による提供が開始されたことによりIntel Mac上でWindows XP ServicePack 2を動作させる事ができるようになった。またBoot Campは[Mac OS X v10.5 Leopardにて](../Page/Mac_OS_X_v10.5.md "wikilink")、正式に採用される事となった。[ニュースリリース](http://www.apple.com/jp/news/2006/apr/05bootcamp.html)
+当初は、インテルのプロセッサを採用しているが、[Windows XPがインテル搭載マックの採用するファームウェア](../Page/Microsoft_Windows_XP.md "wikilink") "[UEFI](../Page/Unified_Extensible_Firmware_Interface.md "wikilink")" に対応していないため、既存のWindows XPを動作させることは疑問視されていたが、アップルからFirmware UpdateとBoot Campのベータ版の[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")による提供が開始されたことによりIntel Mac上でWindows XP ServicePack 2を動作させる事ができるようになった。またBoot Campは[Mac OS X v10.5 Leopardにて](../Page/Mac_OS_X_v10.5.md "wikilink")、正式に採用される事となった。[ニュースリリース](http://www.apple.com/jp/news/2006/apr/05bootcamp.html)
+
+2015年にリリースされたBoot Camp 6.0以降では、[Windows 10（64bit）のみがサポートされている](https://ja.wikipedia.org/wiki/Microsoft_Windows_10 "wikilink")。
 
 アップルは以前と同様に他社製OSを意図的に排除していないが、逆に[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")を他社製ハードウェアで起動させることはライセンス違反となる（保護が掛かっている）。
 
-[ブートローダ](https://ja.wikipedia.org/wiki/ブートローダ "wikilink")をEFIに対応させた[Linux](../Page/Linux.md "wikilink")などのOSは起動が確認されている。それまでMac上では[Virtual PC等を利用して他のOSを動作させていたが](https://ja.wikipedia.org/wiki/Virtual_PC "wikilink")、ハードをネイティヴに利用出来るBoot Campは注目を集めている。
+[ブートローダ](https://ja.wikipedia.org/wiki/ブートローダ "wikilink")をUEFIに対応させた[Linux](../Page/Linux.md "wikilink")などのOSは起動が確認されている。それまでMac上では、[Virtual PCやRealPC等エミュレータを利用して他のOSを動作させていたが](https://ja.wikipedia.org/wiki/Virtual_PC "wikilink")、ハードをネイティヴに利用出来るBoot Campは注目を集めている。
 
 ## Intel Macのプロセッサ
 
@@ -63,9 +65,13 @@ Intel Macと呼ばれる製品には以下のものがある。
   - [Mac Pro](../Page/Mac_Pro.md "wikilink")
   - [Xserve](../Page/Xserve.md "wikilink")
 
+## 脚注
+
 ## 関連項目
 
   - [Macintosh](../Page/Macintosh.md "wikilink")
   - [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")
 
 [Category:Macintosh](https://ja.wikipedia.org/wiki/Category:Macintosh "wikilink")
+
+1.  [アップル 「Mac」心臓部を自社製に切り替えへ](https://www3.nhk.or.jp/news/html/20200623/k10012480341000.html?utm_int=news_contents_news-main_007) - [NHK](https://ja.wikipedia.org/wiki/NHK "wikilink")

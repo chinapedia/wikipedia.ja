@@ -1,7 +1,7 @@
 > この記事は[長渕剛 ALL NIGHT LIVE IN 桜島 04.8.21](https://ja.wikipedia.org/wiki/長渕剛_ALL_NIGHT_LIVE_IN_桜島_04.8.21)から翻訳されています。
 
 
-『**長渕剛 ALL NIGHT LIVE IN 桜島 04.8.21**』（ながぶちつよし・オール・ナイト・ライブ・イン・さくらじま-）は日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")である。
+『**長渕剛 ALL NIGHT LIVE IN 桜島 04.8.21**』（ながぶちつよし・オール・ナイト・ライブ・イン・さくらじま-）は日本の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")である。
 
 ## 背景
 
@@ -58,7 +58,7 @@
 ### 参加ミュージシャン
 
   - 長渕剛 - [ギター](../Page/ギター.md "wikilink")、[ブルースハープ](../Page/ハーモニカ.md "wikilink")
-  - [笛吹利明](https://ja.wikipedia.org/wiki/笛吹利明 "wikilink") - [バンドマスター](https://ja.wikipedia.org/wiki/バンドマスター "wikilink")、[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")
+  - [笛吹利明](https://ja.wikipedia.org/wiki/笛吹利明 "wikilink") - [バンドマスター](https://ja.wikipedia.org/wiki/バンドマスター "wikilink")、[アコースティックギター](../Page/アコースティック・ギター.md "wikilink")
       -
         演奏が少なめであるが、これは[腱鞘炎](https://ja.wikipedia.org/wiki/腱鞘炎 "wikilink")を患っていた為である。
   - [岡本郭男](../Page/岡本郭男.md "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")

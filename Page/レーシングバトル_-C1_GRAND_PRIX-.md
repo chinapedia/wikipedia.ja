@@ -230,7 +230,7 @@
   - [首都高バトルシリーズ](../Page/首都高バトルシリーズ.md "wikilink")
   - [街道バトルシリーズ](../Page/街道バトルシリーズ.md "wikilink")
 
-[Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:元気のゲームソフト](https://ja.wikipedia.org/wiki/Category:元気のゲームソフト "wikilink") [Category:レースゲーム](https://ja.wikipedia.org/wiki/Category:レースゲーム "wikilink") [Category:首都高速道路を舞台とした作品](https://ja.wikipedia.org/wiki/Category:首都高速道路を舞台とした作品 "wikilink")
+[Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:元気のゲームソフト](https://ja.wikipedia.org/wiki/Category:元気のゲームソフト "wikilink") [Category:カーレースゲーム](https://ja.wikipedia.org/wiki/Category:カーレースゲーム "wikilink") [Category:首都高速道路を舞台とした作品](https://ja.wikipedia.org/wiki/Category:首都高速道路を舞台とした作品 "wikilink")
 
 1.  目標値よりも多くポイントを稼いでいれば、ライバルに先着されてもプレイヤーの勝利となる。
 2.  コースアウト・逆走のみ、正常な走行に復帰するまでポイントが減少し続ける。

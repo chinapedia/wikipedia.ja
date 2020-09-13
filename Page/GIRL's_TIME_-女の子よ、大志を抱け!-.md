@@ -7,9 +7,7 @@
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")12月[パルコ劇場](https://ja.wikipedia.org/wiki/パルコ劇場 "wikilink")にて初演。[1996年](../Page/1996年.md "wikilink")2月に[シアター・ドラマシティ](https://ja.wikipedia.org/wiki/シアター・ドラマシティ "wikilink")でも上演された。同じく[宮本亜門](https://ja.wikipedia.org/wiki/宮本亜門 "wikilink")による『ボーイズ・タイム』と対になる作品。
 
-ヴァージン・コンプレックス、出産依存症、セックス嫌悪、トランスジェンダー、若年性更年期障害恐怖症、整形願望、王子様願望妄想、初恋相手の死、など、自分ではどうにもならない次元の問題で人生思い通りにいかない現代女性達の苦悩を描きながらも、休憩なしの約2時間の上演時間中、理屈抜きでパワフルな舞台が繰り広げられる。
-
-2000年～2001年の再演は初演と比べ基本的な構成は変わらないが、メンバーを10人中4人入れ替え、社会情勢風俗の変化や出演俳優達の年齢に合わせて設定・ストーリー等を大幅に改変した上で上演された。
+ヴァージン・コンプレックス、出産依存症、セックス嫌悪、トランスジェンダー、若年性更年期障害恐怖症、整形願望、王子様願望妄想、初恋相手の死、など、自分ではどうにもならない次元の問題で人生思い通りにいかない現代女性達の苦悩を描いた作品。
 
 ## 構成
 
@@ -19,7 +17,7 @@
   - 「PART2」は音楽監督でもある広瀬香美のヒット曲に乗せて10人の「GIRLS」が歌い踊る「SHOW TIME」。
   - 「PART3」は、クリスマス・イヴの夜、突然停止したデパートのエレベーター内に閉じ込められてしまった「10人のワケありオンナ達」による密室劇。
 
-## 出演者
+## キャスト
 
 出演俳優は多種多様な年齢・キャリア・個性を持つ女性10人をオーディションで選考。中にはそれまでパルコ劇場で[もぎり](https://ja.wikipedia.org/wiki/もぎり "wikilink")のアルバイトをしていて、これが初舞台だという新人（佐々木陽子）もいた。
 
@@ -35,5 +33,7 @@
 | [林希](https://ja.wikipedia.org/wiki/林希 "wikilink")       | [林希](https://ja.wikipedia.org/wiki/林希 "wikilink")           |
 | [樋口沙絵子](https://ja.wikipedia.org/wiki/樋口沙絵子 "wikilink") | [日永沙絵子](../Page/日永沙絵子.md "wikilink")                        |
 | [松本美香](../Page/松本美香.md "wikilink")                      | [三国由奈](https://ja.wikipedia.org/wiki/三国由奈 "wikilink")       |
+
+また、上記10名が名を連ねたユニット・**DECAメロン**名義で、本作品のテーマソング『恋するギャンブラー』を1995年11月1日にポニーキャニオンよりリリースした。作詞・作曲・編曲：広瀬香美。参加ミュージシャンはギター：[野村義男](../Page/野村義男.md "wikilink")、ベース：[渡辺英樹](../Page/渡辺英樹.md "wikilink")。なお、楽曲を提供した広瀬は同年12月にリリースした自身のアルバム『[Love Together](https://ja.wikipedia.org/wiki/Love_Together "wikilink")』にてセルフカバーをしている。
 
 [Category:日本のミュージカル作品](https://ja.wikipedia.org/wiki/Category:日本のミュージカル作品 "wikilink") [Category:1990年代のミュージカル](https://ja.wikipedia.org/wiki/Category:1990年代のミュージカル "wikilink") [Category:1995年の舞台作品](https://ja.wikipedia.org/wiki/Category:1995年の舞台作品 "wikilink")

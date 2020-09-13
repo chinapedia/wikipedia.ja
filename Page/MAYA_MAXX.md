@@ -63,7 +63,7 @@
   -
   - [MAYA MAXX Blog](http://mayamaxxblog.blogspot.jp)
 
-[Category:日本の美術家](https://ja.wikipedia.org/wiki/Category:日本の美術家 "wikilink") [Category:日本のイラストレーター](https://ja.wikipedia.org/wiki/Category:日本のイラストレーター "wikilink") [Category:愛媛県立今治西高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:愛媛県立今治西高等学校出身の人物 "wikilink") [Category:早稲田大学出身の人物](https://ja.wikipedia.org/wiki/Category:早稲田大学出身の人物 "wikilink") [Category:愛媛県出身の人物](https://ja.wikipedia.org/wiki/Category:愛媛県出身の人物 "wikilink") [Category:1961年生](https://ja.wikipedia.org/wiki/Category:1961年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の画家](https://ja.wikipedia.org/wiki/Category:日本の画家 "wikilink") [Category:日本のイラストレーター](https://ja.wikipedia.org/wiki/Category:日本のイラストレーター "wikilink") [Category:日本の絵本作家](https://ja.wikipedia.org/wiki/Category:日本の絵本作家 "wikilink") [Category:愛媛県立今治西高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:愛媛県立今治西高等学校出身の人物 "wikilink") [Category:早稲田大学出身の人物](https://ja.wikipedia.org/wiki/Category:早稲田大学出身の人物 "wikilink") [Category:愛媛県出身の人物](https://ja.wikipedia.org/wiki/Category:愛媛県出身の人物 "wikilink") [Category:1961年生](https://ja.wikipedia.org/wiki/Category:1961年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.

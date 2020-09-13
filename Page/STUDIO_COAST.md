@@ -62,13 +62,16 @@ ageHaは、STUDIO COASTで週末に行われる[クラブ](../Page/クラブ.md 
 
 ## 外部リンク
 
-  - [STUDIO COAST](http://www.studio-coast.com/)
+  - [STUDIO COAST](https://www.studio-coast.com/)
 
+  -
+  -
+  -
   - [ageHa](http://www.ageha.com/)
 
-  - [ageHa on iFLYER](http://iflyer.tv/ageha)
+  - [ageHa](https://iflyer.tv/ageha) - iFLYER
 
-  - [ageHa on clubberia](http://www.clubberia.com/clubs/330-ageHa/)
+  - [ageHa](http://www.clubberia.com/clubs/330-ageHa/) - clubberia
 
   -
 [Category:東京都のコンサート会場](https://ja.wikipedia.org/wiki/Category:東京都のコンサート会場 "wikilink") [Category:新木場](https://ja.wikipedia.org/wiki/Category:新木場 "wikilink") [Category:ライブハウス](https://ja.wikipedia.org/wiki/Category:ライブハウス "wikilink") [Category:ディスコ](https://ja.wikipedia.org/wiki/Category:ディスコ "wikilink")

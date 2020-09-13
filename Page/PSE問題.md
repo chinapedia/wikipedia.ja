@@ -1,13 +1,13 @@
 > この記事は[PSE問題](https://ja.wikipedia.org/wiki/PSE問題)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:NEW_PSEimage.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Otsu_PSEimage.svg "wikilink") **PSE問題**（―もんだい）とは、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[電気用品安全法](../Page/電気用品安全法.md "wikilink")に基づく表示（PSEマーク）がついていない電気用品の販売を認めないことにより生じた問題である。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:NEW_PSEimage.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Otsu_PSEimage.svg "wikilink") **PSE問題**（ピーエスイーもんだい）とは、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[電気用品安全法](../Page/電気用品安全法.md "wikilink")に基づく表示（PSEマーク）がついていない電気用品の販売を認めないことにより生じた問題である。
 
 旧来の電気用品取締法（電取法）が改正、改題され、電気用品安全法（電安法）として、[2001年](../Page/2001年.md "wikilink")（[平成](../Page/平成.md "wikilink")13年）[4月1日](../Page/4月1日.md "wikilink")に改正施行された。製造事業者や輸入事業者の自主性を促すために手続を大幅に緩和する改正であったが、同法第27条は『PSEマークが付されていない中古電気用品の販売をも規制するもの』との解釈も可能なものであった。新法移行のための猶予期間切れが直近に迫った[2005年](../Page/2005年.md "wikilink")末から[2006年](../Page/2006年.md "wikilink")初頭にかけて、[経済産業省](../Page/経済産業省.md "wikilink")が突如として中古品も販売規制の対象となるとの解釈を打ち出したため、これに対して、消費者や一部の中古品販売業者などが反対運動を展開、社会問題化した。
 
 これを受けて経済産業省は、2006年[3月24日](../Page/3月24日.md "wikilink")に至り、PSEマークがついていない電気用品の販売を事実上容認する方針を表明。その後、[2007年](../Page/2007年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")より施行された改正電気用品安全法により、旧電取法上の表示をもってPSEマークとみなされることとなり、旧電取法上の表示が付されている電気用品の販売が法律上も合法化された。
 
-但し本件の場合、法律の改正・改題に伴う具体的な被害実例や影響例の明確な解析などの出典元が明らかにされる前に、社会問題化した。
+ただし本件の場合、法律の改正・改題に伴う具体的な被害実例や影響例の明確な解析などの出典元が明らかにされる前に、社会問題化した。
 
 ## 猶予期間
 

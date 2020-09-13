@@ -3,23 +3,21 @@
 
 「**EMANON**」（エマノン）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の楽曲。自身の18作目の[シングル](../Page/シングル.md "wikilink")として、[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")から[7インチレコードで](https://ja.wikipedia.org/wiki/レコード#7インチシングル盤 "wikilink")[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[7月5日](../Page/7月5日.md "wikilink")に発売された。
 
-[1988年](../Page/1988年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に[CD化](https://ja.wikipedia.org/wiki/コンパクト・ディスク "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")にも8cmCDとして、[2005年](../Page/2005年.md "wikilink")6月25日には12cmCDで再発され、計3回再発売されている。
+[1988年](../Page/1988年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")と[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")に8cmCDとして、[2005年](../Page/2005年.md "wikilink")6月25日には12cmCDで再発売されている。[2014年](../Page/2014年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")からはダウンロード配信、[2019年](../Page/2019年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")からはストリーミング配信が開始されている\[1\]\[2\]。
 
-## 背景
+## 背景・リリース
 
-タイトルの「EMANON」は、「[no name](https://ja.wikipedia.org/wiki/ノー・ネーム "wikilink")」を逆から読んだ英語の言葉遊びで、グループや店の名前などにしばしば用いられる\[1\]。ただし、桑田は曲名の由来を語っておらず、この曲名が直接は何に由来するのかははっきりしていない。なお、映画に由来するという説もあるが、映画『エマノン』（*Emanon*）は、このシングルがリリースされた後の1986年に公開されたものである\[2\]。
+前作「[ボディ・スペシャル II (BODY SPECIAL)](../Page/ボディ・スペシャルII.md "wikilink")」から、4か月ぶりとなる作品で、6枚目アルバム『[綺麗](../Page/綺麗.md "wikilink")』と同日に発売された\[3\]。
 
-## リリース
-
-本作からは[ビクター音楽産業](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")（現・[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")）のサザン専用レーベルである[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")からの発売となっており、現在でも続いている。ちなみにこの後全ての作品がこのレーベルからの発売であるため、ビクター音楽産業の変更後の社名ビクターエンタテインメントから発売された作品は存在しない。
+1983年6月に[ビクター音楽産業](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")（現・[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")）からサザン専用[レーベルである](../Page/レコードレーベル.md "wikilink")[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")を設立した。本作から[Invitationではなく](../Page/Invitation_\(レーベル\).md "wikilink")、タイシタレーベルからの発売となっており、ジャケットにもタイシタレーベルのタイマークが記載されている\[4\]\[5\]。
 
 ## チャート成績
 
-本作の累計売上は7.4万枚（[オリコン調べ](../Page/オリコンチャート.md "wikilink")）を記録している\[3\]。
+本作の累計売上は7.4万枚（[オリコン調べ](../Page/オリコンチャート.md "wikilink")）を記録している\[6\]。
 
 ## 収録曲
 
-  - 収録時間：6:40
+  - 収録時間：6:40\[7\]
 
 <!-- end list -->
 
@@ -27,7 +25,7 @@
       -
         （作詞・作曲:[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")　編曲:サザンオールスターズ　弦管編曲:[八木正生](../Page/八木正生.md "wikilink")）
         大人の恋模様を描いた作品。
-2.  **ALLSTARS' JUNGO** (2:56)
+2.  **ALLSTARS' JUNGO** (2:57)
       -
         （作詞・作曲:桑田佳祐　編曲:サザンオールスターズ）
         [テクノサウンドにアフリカン](../Page/テクノポップ.md "wikilink")[リズム](../Page/リズム.md "wikilink")を取り入れた作品。
@@ -69,6 +67,10 @@
 
 [Category:サザンオールスターズの楽曲](https://ja.wikipedia.org/wiki/Category:サザンオールスターズの楽曲 "wikilink") [Category:1983年のシングル](https://ja.wikipedia.org/wiki/Category:1983年のシングル "wikilink") [Category:桑田佳祐が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐が制作した楽曲 "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")
 
-1.  例えば、[マンフレッド・マン・チャプター・スリー](../Page/マンフレッド・マン・チャプター・スリー.md "wikilink")の前身となった1969年のプロジェクトの名前に使われている。
-2.  [映画 エマノン](http://www.allcinema.net/prog/show_c.php?num_c=3046) - [allcinema](https://ja.wikipedia.org/wiki/allcinema "wikilink")
-3.  [「栞のテーマ」「イエローマン」など、あんまりヒットしなかったサザンの曲特集](https://middle-edge.jp/articles/Efg6e) ミドルエッジ 2017年11月29日閲覧
+1.  [サザン、全266曲を世界111ヶ国で配信](https://www.oricon.co.jp/news/2046030/full/) オリコン 2014年12月17日配信, 2020年6月4日閲覧
+2.  [サザン関連全972曲 サブスク一斉解禁 メンバーソロ曲も対象に](https://www.oricon.co.jp/news/2151435/full/) オリコン 2019年12月20日配信, 2019年12月20日閲覧
+3.  『サザンオールスターズ 公式データブック 1978-2019』（2019年）[リットーミュージック](../Page/リットーミュージック.md "wikilink")出版 p146
+4.
+5.  『サザンオールスターズ 公式データブック 1978-2019』（2019年）[リットーミュージック](../Page/リットーミュージック.md "wikilink")出版 p11
+6.  [「栞のテーマ」「イエローマン」など、あんまりヒットしなかったサザンの曲特集](https://middle-edge.jp/articles/Efg6e) ミドルエッジ 2017年11月29日閲覧
+7.  [楽天ブックス:EMANON-サザンオールスターズ](https://books.rakuten.co.jp/rb/3829809/) 楽天ブックス 2020年8月2日閲覧

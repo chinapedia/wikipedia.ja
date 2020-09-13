@@ -205,7 +205,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/金嶋真希" title="wikilink">金嶋真希</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/白鴎大学ラグビー部" title="wikilink">白鴎大</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/白鷗大学ラグビー部" title="wikilink">白鷗大</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -309,7 +309,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/崔多訓" title="wikilink">崔多訓</a></p></td>
-<td><p>白鴎大</p></td>
+<td><p>白鷗大</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -339,7 +339,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/和田垣城" title="wikilink">和田垣城</a></p></td>
-<td><p>白鴎大</p></td>
+<td><p>白鷗大</p></td>
 <td></td>
 <td></td>
 </tr>

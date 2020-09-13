@@ -58,7 +58,7 @@
   - [小山いと子](https://ja.wikipedia.org/wiki/小山いと子 "wikilink") - 作家
   - [吉村公三郎](../Page/吉村公三郎.md "wikilink") - 映画監督
   - [市川翠穂](https://ja.wikipedia.org/wiki/市川翠穂 "wikilink") - 舞踊家
-  - [マヤ片岡](https://ja.wikipedia.org/wiki/マヤ片岡 "wikilink") - 美容家
+  - [マヤ片岡](../Page/マヤ片岡.md "wikilink") - 美容家
 
 ### 応援ゲスト
 
@@ -88,7 +88,7 @@
   -
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=6)
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1955年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1955年のテレビ番組_\(日本\) "wikilink") [Category:1955年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1955年のラジオ番組_\(日本\) "wikilink") [Category:1955年の音楽](https://ja.wikipedia.org/wiki/Category:1955年の音楽 "wikilink") [Category:1955年12月](https://ja.wikipedia.org/wiki/Category:1955年12月 "wikilink")
 

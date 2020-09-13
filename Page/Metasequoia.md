@@ -15,15 +15,43 @@ Metasequoia 4以降にはStandard版と高機能なEX版がある。Ver3.1以前
 
 3DCGモデラーとしての機能性や扱いやすさ、入手のしやすさなど、日本における3DCGモデラーとして人気が高い。データ可搬性を重視しており、様々なファイル形式で入力・出力することができる。低価格であり、趣味で使用する個人ユーザーが多いが、プロが製作現場で使用することもある。採用段階でMetasequoiaの使用経験を認める企業もある\[4\]\[5\]。
 
-開発者向けに[C++](../Page/C++.md "wikilink")用プラグインSDKを公開しているため、[シェアウェア](../Page/シェアウェア.md "wikilink")版では多くの開発者による[プラグイン](../Page/プラグイン.md "wikilink")を利用することができるようになっている。プラグインのインターフェイス自体は基本的に後方[互換性](../Page/互換性.md "wikilink")を持っているため、古いバージョンのSDKで作成されたプラグインであっても新しいバージョンのMetasequoiaでそのまま利用可能である。なお、Metasequoia 4では32bit版アプリケーションと64bit版アプリケーションの両方が提供されるようになったが、32bit版のプラグインは64bit版のアプリケーションでは使用することができない。その逆もまた然りである。
+Metasequoia 4.3でボーン\[6\]に、4.5でモーフ\[7\]に標準対応するなど、これまでプラグインや別の統合ソフトと連携しなければ実現できなかった高度な機能も実装され始めている。なお、ボーンやモーフの追加情報は、モデルデータであるMQOファイルではなく、拡張用の外部MQXファイル（[XMLフォーマット](../Page/Extensible_Markup_Language.md "wikilink")）に保存される。
 
-また、組込マクロ言語として[Python](../Page/Python.md "wikilink")を採用しており、簡単なバッチ処理などであればプラグインを作成・使用せずともPythonスクリプトを記述して実行することで素早く実現できるようになっている。Metasequoia Ver2.4.13時点でPython 2.2.3に対応、Ver4.5時点でPython 3.4.3に対応\[6\]。各種モジュールを使用するにはそれぞれ対応する日本語版Windows用Pythonを別途インストールする必要がある。
+なお、Metasequoia自体は初版から[C++ Builderを使って開発されていることが](../Page/C++_Builder.md "wikilink")、公式ブログなどで言及されている\[8\]\[9\]。
 
-レンダリング機能としてスキャンラインが搭載されているが、本格的なレンダリングや動画の作成を行う場合は、他のレンダラーを併用するかプラグインを使う必要がある。Ver4.0で[レイトレーシング](../Page/レイトレーシング.md "wikilink")によるレンダリング機能が追加された。Ver4.5では[RenderMan](../Page/RenderMan.md "wikilink")との連携機能も追加されている\[7\]。
+## プラグイン/スクリプト
 
-Metasequoia 4.3でボーン\[8\]に、4.5でモーフ\[9\]に標準対応するなど、これまでプラグインや別の統合ソフトと連携しなければ実現できなかった高度な機能も実装され始めている。なお、ボーンやモーフの追加情報は、モデルデータであるMQOファイルではなく、拡張用の外部MQXファイル（[XMLフォーマット](../Page/Extensible_Markup_Language.md "wikilink")）に保存される。
+開発者向けに[C++](../Page/C++.md "wikilink")用プラグインSDKを公開しており、[シェアウェア](../Page/シェアウェア.md "wikilink")版では外部開発者による[プラグイン](../Page/プラグイン.md "wikilink")を利用することができるようになっている。32bit版のプラグインは64bit版のアプリケーションでは使用することができない。その逆もまた然りである。
 
-なお、Metasequoia自体は初版から[C++ Builderを使って開発されていることが](../Page/C++_Builder.md "wikilink")、公式ブログなどで言及されている\[10\]\[11\]。
+プラグインのインターフェイス自体は基本的に後方[互換性](../Page/互換性.md "wikilink")を持っているため、古いバージョンのSDKで作成されたプラグインであっても新しいバージョンのMetasequoiaで利用可能である。しかしMetasequoia 3.x以前は64bit版が存在しなかったり\[10\]、多角形ポリゴン (NGon)に未対応であった\[11\]ため、3.x以前のプラグインにもその制限が引き継がれている。
+
+また、組込マクロ言語として[Python](../Page/Python.md "wikilink")を採用しており、簡単なバッチ処理などであればプラグインを作成・使用せずともPythonスクリプトを記述して実行することで素早く実現できるようになっている。Ver4.6.9時点でPython 3.6.7に対応\[12\]。各種モジュールを使用するにはそれぞれ対応する日本語版Windows用Pythonを別途インストールする必要がある。
+
+## レンダリング
+
+Metasequoiaにはレンダリング機能としてスキャンライン及び[レイトレーシング](../Page/レイトレーシング.md "wikilink") (Ver4.0以降) が搭載されているものの、本格的なレンダリングや動画の作成を行う場合には外部のレンダラーを使用する必要がある。
+
+Metasequoia Ver4.5以降は[ピクサーの提供するレンダラーである](https://ja.wikipedia.org/wiki/ピクサー・アニメーション・スタジオ "wikilink")[RenderMan](../Page/RenderMan.md "wikilink")との連携機能を使うことができる\[13\]。RenderManは非商用に限って無料で使用することが可能となっている\[14\]。
+
+またオープンソースのレンダラーである[LuxCoreRenderのメタセコイア用プラグインのテスト版もテトラフェイスより提供されている](https://ja.wikipedia.org/wiki/LuxRender "wikilink")\[15\]。
+
+### 過去のレンダラー
+
+以前は以下の外部提供レンダラーが使われていた。
+
+  - [vidro](https://ja.wikipedia.org/wiki/vidro "wikilink")\[16\]
+
+  - [Parthenon Renderer](https://ja.wikipedia.org/wiki/Parthenon_Renderer "wikilink") [1](http://www.bee-www.com/parthenon/)
+
+  - [Warabi MP](https://ja.wikipedia.org/wiki/Warabi "wikilink")\[17\]
+
+  - [POV-Ray](../Page/POV-Ray.md "wikilink")\[18\] - 関連ソフトウェアのMetaMegaを通して使用可能
+
+  - \- 関連ソフトウェアのMetaSceneを通して使用可能
+
+  - Lightflow - 関連ソフトウェアのMetalight2やMATSpiderを通して使用可能
+
+  - [Redqueen](https://ja.wikipedia.org/wiki/Redqueen "wikilink")\[19\]\[20\]\[21\] - プラグインのrrtdlgMQを通して使用可能
 
 ## キャラクターアニメーション
 
@@ -35,7 +63,7 @@ Metasequoiaは長らくボーンやモーフなどのキャラクターアニメ
 
 ## バージョン変遷
 
-  - 1999年5月10日 Metasequoia Ver1.0 \[12\]
+  - 1999年5月10日 Metasequoia Ver1.0 \[22\]
   - 2000年5月3日 Metasequoia LE Ver2.0
   - 2000年5月4日 Metasequoia Ver2.0
   - 2000年10月17日 Metasequoia Ver2.1.0
@@ -44,17 +72,18 @@ Metasequoiaは長らくボーンやモーフなどのキャラクターアニメ
   - 2006年7月25日 Metasequoia Ver2.4.0
   - 2012年4月29日 Metasequoia Ver3.0.0
   - 2012年10月25日 Metasequoia Ver3.1.0
-  - 2013年9月30日 Metasequoia 4\[13\]
-  - 2014年1月24日 Metasequoia 4.1.0\[14\]
-  - 2014年1月29日 Metasequoia 3.1.6(バージョン3系最後のリリース)\[15\]
-  - 2014年6月4日 Metasequoia 4.2.0\[16\]
-  - 2014年9月30日 Metasequoia 4.3.0\[17\]
-  - 2015年2月13日 Metasequoia 4.4.0\[18\]
-  - 2015年7月8日 Metasequoia 4.5.0\[19\]
-  - 2016年3月28日 Metasequoia 4.5.5(macOS版の初リリース)\[20\]
-  - 2017年08月21日 Metasequoia 4.6.0\[21\]
-  - 2019年04月24日 Metasequoia 4.7.0\[22\]
-  - 2020年05月18日 Metasequoia 4.7.4b\[23\]
+  - 2013年9月30日 Metasequoia 4\[23\]
+  - 2014年1月24日 Metasequoia 4.1.0\[24\]
+  - 2014年1月29日 Metasequoia 3.1.6(バージョン3系最後のリリース)\[25\]
+  - 2014年6月4日 Metasequoia 4.2.0\[26\]
+  - 2014年9月30日 Metasequoia 4.3.0\[27\]
+  - 2015年2月13日 Metasequoia 4.4.0\[28\]
+  - 2015年7月8日 Metasequoia 4.5.0\[29\]
+  - 2016年3月28日 Metasequoia 4.5.5(macOS版の初リリース)\[30\]
+  - 2017年08月21日 Metasequoia 4.6.0\[31\]
+  - 2019年04月24日 Metasequoia 4.7.0\[32\]
+  - 2020年05月18日 Metasequoia 4.7.4b\[33\]
+  - 2020年07月7日 Metasequoia 4.7.4c\[34\]
 
 ## モデルコンテスト
 
@@ -63,36 +92,6 @@ Metasequoiaは長らくボーンやモーフなどのキャラクターアニメ
 なお、このモデルコンテストの表題には2004と付いているが、コンテストが行われたのは2010年現在、まだこの1回のみである。
 
 ## 関連ソフトウェア
-
-### レンダラ
-
-  - 現行
-
-<!-- end list -->
-
-  - [RenderMan](../Page/RenderMan.md "wikilink") - Metasequoia 4.xで標準対応
-
-<!-- end list -->
-
-  - 過去 (3.x以前)
-
-<!-- end list -->
-
-  - [vidro](https://ja.wikipedia.org/wiki/vidro "wikilink")
-
-  - [Parthenon Renderer](https://ja.wikipedia.org/wiki/Parthenon_Renderer "wikilink") [1](http://www.bee-www.com/parthenon/)
-
-  - [Warabi MP](https://ja.wikipedia.org/wiki/Warabi "wikilink")\[24\]
-
-  - [POV-Ray](../Page/POV-Ray.md "wikilink")\[25\] - 関連ソフトウェアのMetaMegaを通して使用可能
-
-  - \- 関連ソフトウェアのMetaSceneを通して使用可能
-
-  - Lightflow - 関連ソフトウェアのMetalight2やMATSpiderを通して使用可能
-
-  - [Redqueen](https://ja.wikipedia.org/wiki/Redqueen "wikilink")\[26\]
-
-\[27\] \[28\] - プラグインのrrtdlgMQを通して使用可能
 
 ### モーション / アニメーション
 
@@ -109,8 +108,8 @@ Metasequoiaは長らくボーンやモーフなどのキャラクターアニメ
 
 <!-- end list -->
 
-  - [Mikoto](https://ja.wikipedia.org/wiki/Mikoto "wikilink")\[29\]
-  - エルフレイナ [4](http://sorceryforce.com/elfreina/)
+  - [Mikoto](https://ja.wikipedia.org/wiki/Mikoto "wikilink")\[35\]
+  - エルフレイナ [4](https://sorceryforce.net/elfreina/)
   - [MechaStudio](https://ja.wikipedia.org/wiki/MechaStudio "wikilink")/ToyStudio
 
 ### ビューア
@@ -160,17 +159,17 @@ Metasequoiaは長らくボーンやモーフなどのキャラクターアニメ
 3.
 4.
 5.  [ゲームエフェクトデザイナー（アートディレクター候補）](http://jobinjapan.jp/job-listing/J24352.html)　JOBinJAPAN　2014年11月28日観覧
-6.
-7.  [Metasequoia 4.5の新機能：RenderMan連携機能のチュートリアル | metaseq.net](http://www.metaseq.net/jp/archives/280/)
-8.  [metaseq.net blog: Metasequoia 4.3の新機能(1) ボーン](http://blog.metaseq.net/2014/10/metasequoia-431.html)
-9.  [Metasequoia 4.5の新機能：モーフ機能のチュートリアル | metaseq.net](http://www.metaseq.net/jp/archives/278/)
-10. [C++Builder 2009](http://metaseq.sblo.jp/article/18463741.html)　metaseq.net blog（旧公式ブログ）　2008年08月27日
-11. [C++BuilderXEへ移行中](http://metaseq.sblo.jp/article/45935261.html)　metaseq.net blog（旧公式ブログ）　2011年06月12日
+6.  [metaseq.net blog: Metasequoia 4.3の新機能(1) ボーン](http://blog.metaseq.net/2014/10/metasequoia-431.html)
+7.  [Metasequoia 4.5の新機能：モーフ機能のチュートリアル | metaseq.net](http://www.metaseq.net/jp/archives/278/)
+8.  [C++Builder 2009](http://metaseq.sblo.jp/article/18463741.html)　metaseq.net blog（旧公式ブログ）　2008年08月27日
+9.  [C++BuilderXEへ移行中](http://metaseq.sblo.jp/article/45935261.html)　metaseq.net blog（旧公式ブログ）　2011年06月12日
+10.
+11. [エディション間比較](https://www.metaseq.net/jp/feature/version/)
 12.
-13.
-14.
-15.
-16.
+13. [Metasequoia 4.5の新機能：RenderMan連携機能のチュートリアル | metaseq.net](http://www.metaseq.net/jp/archives/280/)
+14. [Pixar ships RenderMan 23.3](http://www.cgchannel.com/2020/05/pixar-ships-renderman-23-0/) CG Channel 2020年5月20日
+15. [LuxCoreRender Bridge for Metasequoia 4](https://metaseq.net/software/luxcore.html) テトラフェイス
+16. 『メタセコイア4 マスターブック 3DCGモデリングの基本と応用』 海川メノウ 2013年12月20日 ISBN 978-4877833190
 17.
 18.
 19.
@@ -184,3 +183,9 @@ Metasequoiaは長らくボーンやモーフなどのキャラクターアニメ
 27.
 28.
 29.
+30.
+31.
+32.
+33.
+34.
+35.

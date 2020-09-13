@@ -57,9 +57,9 @@
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")9月29日、フルアルバムとしては7年ぶりのオリジナル・アルバム『Castle of wind』をDeep Blue Recordingsより発売。
 
-[2011年](../Page/2011年.md "wikilink")11月、それぞれソロ活動を再開し、事実上の解散となる\[23\]\[24\]。
+[2011年](../Page/2011年.md "wikilink")11月、それぞれソロ活動を再開\[23\]\[24\]。
 
-2013年5月1日、so-toが自身の[フェイスブック](https://ja.wikipedia.org/wiki/フェイスブック "wikilink")にてWyolicaの解散を発表。5月31日、azumiが自身のソロライブと公式ブログでWyolicaの解散を発表\[25\]\[26\]。
+2013年5月1日、so-toが自身の[フェイスブック](https://ja.wikipedia.org/wiki/フェイスブック "wikilink")にてWyolicaの解散を発表。5月31日、azumiが自身のソロライブと公式ブログでWyolicaの解散を公式発表\[25\]\[26\]。
 
 ## ディスコグラフィ
 
@@ -690,7 +690,7 @@
 <td><p>2010年7月1日</p></td>
 <td><p><strong>Live at The Globe Tokyo Vol.1</strong></p></td>
 <td><p>配信限定</p></td>
-<td><p>24bit/48kHz</p></td>
+<td><p>24bit/48 kHz</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
 <p>詳細</p>
@@ -780,7 +780,7 @@
 <td><p>2007年<a href="../Page/6月13日.md" title="wikilink">6月13日</a></p></td>
 <td><p>CD</p></td>
 <td><p>KSCL-1144</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Ki/oon_Records" title="wikilink">Ki/oon Records</a></p></td>
+<td><p><a href="../Page/キューンミュージック.md" title="wikilink">Ki/oon Records</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -850,89 +850,49 @@
 
 ## 客演・楽曲提供
 
-azumi
+[Azumi](../Page/Azumi.md "wikilink")
 
-  - [Steady\&Co.](../Page/Steady&Co..md "wikilink") CHAMBERS (2001年11月28日)
-      - [Only Holy Storyに作詞とヴォーカルで参加](https://ja.wikipedia.org/wiki/Only_Holy_Story "wikilink")。
-
-<!-- end list -->
-
-  - [MOOMIN](https://ja.wikipedia.org/wiki/MOOMIN "wikilink") GET HERE (2001年5月23日）
-      - 「Kissing You」にヴォーカルでゲスト参加
-
-<!-- end list -->
-
-  - [スネオヘアー](../Page/スネオヘアー.md "wikilink") カナシミ（2005年12月7日）、悲しみロックフェスティバル（2005年11月23日）
-      - 「happy end」にヴォーカルでゲスト参加。
-
-<!-- end list -->
-
-  - [Tama](../Page/Tama_\(ベーシスト\).md "wikilink")（元[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")）Great Pleasure（2005年12月21日）
-      - 「Fuzz Butterfly」に作詞とヴォーカルでゲスト参加。
-
-<!-- end list -->
-
-  - [SOFFet](../Page/SOFFet.md "wikilink") NEW STANDARD（2008/02/27）,Love Story（2007/11/14）
-      - 『Love Story』にゲストボーカルとして参加
-
-<!-- end list -->
-
-  - [FLOW](../Page/FLOW.md "wikilink") アイル（2008/03/18）
-      - 「陽だまり feat.azumi from wyolica」に作詞とヴォーカルで参加
+| アーティスト名                                                                                                        | 収録作品                                                                              | 発売日                                         | 参加曲                                                                      |
+| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------ |
+| [MOOMIN](https://ja.wikipedia.org/wiki/MOOMIN "wikilink")                                                      | 『GET HERE』                                                                        | 2001年5月23日                                  | 9\. Kissing You \[4:58\]/ ヴォーカルで参加。                                      |
+| [Steady\&Co.](../Page/Steady&Co..md "wikilink")                                                                | 『[CHAMBERS](https://ja.wikipedia.org/wiki/CHAMBERS_\(アルバム\) "wikilink")』          | 2001年11月28日                                 | 11\. Only Holy Story featuring azumi from wyolica \[5:10\]/ 作詞とヴォーカルで参加。 |
+| [スネオヘアー](../Page/スネオヘアー.md "wikilink")                                                                         | 「悲しみロックフェスティバル」                                                                   | 2005年11月23日                                 | 1\. happy end/ ヴォーカルで参加。                                                 |
+| 『[カナシミ](https://ja.wikipedia.org/wiki/カナシミ "wikilink")』                                                        | 2005年12月7日                                                                        | 3\. 悲しみロックフェスティバル（album version）/ ヴォーカルで参加。 |                                                                          |
+| [Tama](../Page/Tama_\(ベーシスト\).md "wikilink")（元[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")） | 『[Great Pleasure](../Page/Great_Pleasure.md "wikilink")』                          | 2005年12月21日                                 | 4\. Fuzz Butterfly feat.azumi/ 作詞とヴォーカルで参加。                              |
+| [SOFFet](../Page/SOFFet.md "wikilink")                                                                         | 「Love Story」                                                                      | 2007年11月14日                                 | 1\. Love Story/ ヴォーカルで参加。                                                |
+| 『[NEW STANDARD](https://ja.wikipedia.org/wiki/NEW_STANDARD_\(アルバム\) "wikilink")』                               | 2008年2月27日                                                                        | 12\. Love Story/ ヴォーカルで参加。                  |                                                                          |
+| [FLOW](../Page/FLOW.md "wikilink")                                                                             | 『[アイル](https://ja.wikipedia.org/wiki/アイル_\(アルバム\) "wikilink")』                    | 2008年3月18日                                  | 8\. 陽だまり feat.azumi from wyolica \[5:00\]/ 作詞とヴォーカルで参加。                  |
+| [DJ No.2](https://ja.wikipedia.org/wiki/LGYankees#メンバー "wikilink")                                             | 『2番の美学』                                                                           | 2010年6月9日                                   | 9\. 木漏れ日の中で… feat.GIO,Azumi from Wyolica \[5:53\]                        |
+| STAR GUiTAR                                                                                                    | 『Carbon Copy』                                                                     | 2011年1月7日                                   | 9\. Brain Function feat. Azumi from wyolica/ ヴォーカルで参加。                   |
+| [KG](https://ja.wikipedia.org/wiki/KG_\(歌手\) "wikilink")                                                       | 『[Still Goes On....](https://ja.wikipedia.org/wiki/Still_Goes_On.... "wikilink")』 | 2011年9月28日                                  | 13\. I will be there duet with Azumi                                     |
+| Fencer                                                                                                         | 『Rip Current』                                                                     | 2012年6月6日                                   | 7\. Humming Boat feat.Azumi from wyolica \[3:45\]                        |
+| [NaotoHiroki\&Karatesystems](https://ja.wikipedia.org/wiki/NaotoHiroki&Karatesystems "wikilink")               | 『Travel Sounds』                                                                   | 2013年9月4日                                   | 9\. stars feat. Frankie Paul, Azumi                                      |
+| [GLAY](../Page/GLAY.md "wikilink")                                                                             | 『NO DEMOCRACY』                                                                    | 2019年10月2日                                  | 5.氷の翼/コーラスで参加                                                            |
+| [GLAY](../Page/GLAY.md "wikilink")                                                                             | 『REVIEW II -BEST OF GLAY-』                                                        | 2020年3月11日                                  | 3.氷の翼 feat.Azumi(Wyolica)/ゲストボーカルで参加                                     |
 
 so-to
 
   - [as](https://ja.wikipedia.org/wiki/as_\(歌手\) "wikilink")　帰り道 (2005年10月19日)
       - 「帰り道」に作詞・作曲・編曲で参加
       - 「stage」に作曲で参加
-
-<!-- end list -->
-
   - [柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")　[影](../Page/影_\(柴咲コウの曲\).md "wikilink") (2006年2月15日)
       - 「あのひとこのひと」に作曲で参加
-
-<!-- end list -->
-
   - 柴咲コウ　[at home](https://ja.wikipedia.org/wiki/at_home "wikilink") (2007年2月21日)
       - 「sonoinochi」に作曲で参加
-
-<!-- end list -->
-
   - 柴咲コウ　[嬉々](../Page/嬉々.md "wikilink")♥ (2007年4月25日)
       - 「甘いさきくさ。」に作曲で参加
-
-<!-- end list -->
-
   - [中孝介](../Page/中孝介.md "wikilink")　[ユライ花](../Page/ユライ花.md "wikilink") (2007年7月11日)
       - 「恋の栞」に作曲で参加
-
-<!-- end list -->
-
   - SOFFet　Love Story (2007年11月14日)
       - 「Jackal」に作曲で参加
-
-<!-- end list -->
-
   - 中孝介　[絆歌](https://ja.wikipedia.org/wiki/絆歌 "wikilink") (2008年10月1日)
       - 「あいのうた」に作曲で参加
-
-<!-- end list -->
-
   - [Tiara](https://ja.wikipedia.org/wiki/Tiara_\(シンガーソングライター\) "wikilink")　[さよならをキミに...feat.Spontania](https://ja.wikipedia.org/wiki/さよならをキミに...feat.Spontania "wikilink") (2009年9月2日)
       - 「さあいこう feat. Spontania」に作詞・作曲で参加
-
-<!-- end list -->
-
   - 柴咲コウ　[Love Paranoia](https://ja.wikipedia.org/wiki/Love_Paranoia "wikilink") (2009年11月18日)
       - 「きみが残していったもの」に作曲で参加
-
-<!-- end list -->
-
   - 柴咲コウ　[EUPHORIA](https://ja.wikipedia.org/wiki/EUPHORIA_\(柴咲コウの曲\) "wikilink") (2010年11月3日)
       - 「となり -100709-」に作曲・編曲で参加
-
-<!-- end list -->
-
   - [茉奈 佳奈](https://ja.wikipedia.org/wiki/茉奈_佳奈 "wikilink")　夢の画用紙 (2011年2月23日)、[Sweet Home](https://ja.wikipedia.org/wiki/Sweet_Home_\(茉奈_佳奈のアルバム\) "wikilink") (2011年4月6日)
       - 「こころの花」に作曲とアコースティクギターで参加
 

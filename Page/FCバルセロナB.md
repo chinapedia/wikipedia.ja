@@ -24,9 +24,9 @@
 
 ## 現所属メンバー
 
-  - 2019年7月15日現在
+  - 2020年8月13日現在
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Venezuela.svg "wikilink"))         ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
+([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))            ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 
 ### レンタル移籍
 

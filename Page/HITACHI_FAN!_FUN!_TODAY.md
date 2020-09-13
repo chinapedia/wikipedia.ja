@@ -40,7 +40,7 @@
 
 なお日立枠は帯番組から撤退後、週1回（主に週末）となり「**HITACHI CRESCENT TIME**」（ヒタチ・クレッセント・タイム）のタイトルとして放送され（[参照](https://ja.wikipedia.org/wiki/#「HITACHI_CRESCENT_TIME」のタイトル冠がついた放送 "wikilink")）、引き続き全国のNRN系列にネットしたものの、その枠自体も1998年9月末に廃止された。
 
-一方、パーソナリティであった上柳アナは昼時間帯の[日曜](https://ja.wikipedia.org/wiki/日曜 "wikilink")午前枠「[上柳昌彦のベストヒットサンデー](https://ja.wikipedia.org/wiki/上柳昌彦のベストヒットサンデー "wikilink")」に担当時間を移動した（[1992年](../Page/1992年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")終了）。
+一方、パーソナリティであった上柳アナは昼時間帯の[日曜午前枠](../Page/日曜日.md "wikilink")「[上柳昌彦のベストヒットサンデー](https://ja.wikipedia.org/wiki/上柳昌彦のベストヒットサンデー "wikilink")」に担当時間を移動した（[1992年](../Page/1992年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")終了）。
 
 #### 「HITACHI CRESCENT TIME」のタイトル冠がついた放送
 

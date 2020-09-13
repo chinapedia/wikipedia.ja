@@ -14,7 +14,7 @@
 5.  株式会社**メディア・ジャック**
 6.  株式会社**メディア・ワーク・ステーション**
 
-本項では発売元となっている1～4の各社を中心に取り上げる。5は[ピンク映画](../Page/ピンク映画.md "wikilink")の監督として知られた[笠井雅裕](https://ja.wikipedia.org/wiki/笠井雅裕 "wikilink")が率いる制作会社。なお後述するが、現在の芳友舎は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に設立された社内企業であり、旧芳友舎の流れを汲むのはh.m.pの方である。
+本項では発売元となっている1～4の各社を中心に取り上げる。5は[ピンク映画](../Page/ピンク映画.md "wikilink")の監督として知られた笠井雅裕が率いる制作会社。なお後述するが、現在の芳友舎は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に設立された社内企業であり、旧芳友舎の流れを汲むのはh.m.pの方である。
 
 ## 沿革
 
@@ -22,7 +22,7 @@
 
 オーナーの賀山茂が[1979年](../Page/1979年.md "wikilink")に[東京](../Page/東京.md "wikilink")・[六本木](../Page/六本木.md "wikilink")に開設した会員制[SMサロン](../Page/SM_\(性風俗\).md "wikilink")、「SAMM」を母体に[1981年](../Page/1981年.md "wikilink")に創業。サロンの名を冠した「サム・ビデオ・センター」として、当初は「本格派のSM」をうたったマニアックなSM作品をリリースしていた。
 
-[1984年](../Page/1984年.md "wikilink")3月、株式会社芳友舎が設立され、サムは同社のメインレーベルとなるとともに、作品の傾向も一般的な路線へとシフトした。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、[九鬼で監督デビューしていた](../Page/九鬼_\(アダルトビデオ\).md "wikilink")[豊田薫が加入](../Page/豊田薫_\(AV監督\).md "wikilink")。「マクロ・ボディ　奥までのぞいて」等の性表現の限界を追求した作品群を世に送り出し、サムへの注目度を一気に高めた。豊田は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[ダイヤモンド映像](../Page/ダイヤモンド映像.md "wikilink")に移籍するまでの間、[斉藤唯](../Page/斉藤唯.md "wikilink")の「禁姦色II」などのヒット作品を数多く制作し、80年代のサムの牽引役となった。また[神野龍太郎](https://ja.wikipedia.org/wiki/神野龍太郎 "wikilink")、[東良美季](https://ja.wikipedia.org/wiki/東良美季 "wikilink")などの職人肌の監督が、キャッチーかつハード路線というサムのレーベルカラーを演出。[1988年](../Page/1988年.md "wikilink")ごろから始まった「淫乱ブーム」では、80年代中盤の美少女ブームを主導した[宇宙企画が失速する一方で](https://ja.wikipedia.org/wiki/メディアステーション "wikilink")、サムは存在感を強くアピールした。
+[1984年](../Page/1984年.md "wikilink")3月、株式会社芳友舎が設立され、サムは同社のメインレーベルとなるとともに、作品の傾向も一般的な路線へとシフトした。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、[九鬼で監督デビューしていた](../Page/九鬼_\(アダルトビデオ\).md "wikilink")[豊田薫が加入](../Page/豊田薫_\(AV監督\).md "wikilink")。「マクロ・ボディ　奥までのぞいて」等の性表現の限界を追求した作品群を世に送り出し、サムへの注目度を一気に高めた。豊田は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[ダイヤモンド映像](../Page/ダイヤモンド映像.md "wikilink")に移籍するまでの間、[斉藤唯](../Page/斉藤唯.md "wikilink")の「禁姦色II」などのヒット作品を数多く制作し、80年代のサムの牽引役となった。また神野龍太郎、東良美季などの職人肌の監督が、キャッチーかつハード路線というサムのレーベルカラーを演出。[1988年](../Page/1988年.md "wikilink")ごろから始まった「淫乱ブーム」では、80年代中盤の美少女ブームを主導した[宇宙企画が失速する一方で](https://ja.wikipedia.org/wiki/メディアステーション "wikilink")、サムは存在感を強くアピールした。
 
 サムと並行して、芳友舎は[1984年](../Page/1984年.md "wikilink")に「ミス・クリスティーヌ（Miss Christine）」レーベルを設置。1社が複数のレーベルを持つ先駆け的なケースであり、社員監督・[島村雪彦](https://ja.wikipedia.org/wiki/島村雪彦 "wikilink")の女優の外見的な質を重視した作風は、サムのハード路線と並ぶ芳友舎の一方の個性となった。[1986年](../Page/1986年.md "wikilink")には株式会社クリスティーヌとして分社化され活動を本格化、[葉山レイコ](../Page/葉山レイコ.md "wikilink")の「[処女宮　うぶ毛のヴィーナス](https://ja.wikipedia.org/wiki/処女宮_\(アダルトビデオ\) "wikilink")」などのヒット作を生んでいる。[1989年](../Page/1989年.md "wikilink")にはクリスティーヌ傘下に、トップクラスの美少女ものだけをリリースするという「ティファニー（Tiffany）」レーベルも設けられた。また[1986年](../Page/1986年.md "wikilink")には芳友舎とクリスティーヌの合同レーベルとして「ゴールデン・サム（Golden SAMM）」（後の「小さな映画会社」）が発足。複数キャストによる映画的な作品を制作するレーベルで、[武智鉄二](../Page/武智鉄二.md "wikilink")や[片岡修二](../Page/片岡修二.md "wikilink")といった映画畑の監督が作品を残した。
 
@@ -115,8 +115,8 @@
 
   - [春日みゆき](https://ja.wikipedia.org/wiki/春日みゆき "wikilink")（5月）
   - [三田愛](https://ja.wikipedia.org/wiki/三田愛 "wikilink")（9月）
-  - [野乃原あい](https://ja.wikipedia.org/wiki/野乃原あい "wikilink")（12月）
-  - [水沢真奈](https://ja.wikipedia.org/wiki/水沢真奈 "wikilink")（12月）
+  - 野乃原あい（12月）
+  - 水沢真奈（12月）
 
 <!-- end list -->
 
@@ -126,13 +126,13 @@
 
   - [いつか](../Page/いつか_\(AV女優\).md "wikilink")（2月）
   - [三浦沙耶香](../Page/三浦沙耶香.md "wikilink")（2月）
-  - [青山可奈](https://ja.wikipedia.org/wiki/青山可奈 "wikilink")（3月）
-  - [内田彩](https://ja.wikipedia.org/wiki/うちだあや "wikilink")（4月）
+  - 青山可奈（3月）
+  - 内田彩（4月）
   - [木崎りの](https://ja.wikipedia.org/wiki/木崎りの "wikilink")（5月）
   - [中島京子](../Page/中島京子_\(AV女優\).md "wikilink")（5月）
   - [瀬戸由衣](../Page/瀬戸由衣.md "wikilink")（7月）
   - [古都ひかる](https://ja.wikipedia.org/wiki/古都ひかる "wikilink")（10月）
-  - [三宿ジュン](https://ja.wikipedia.org/wiki/三宿ジュン "wikilink")（11月）
+  - 三宿ジュン（11月）
 
 <!-- end list -->
 
@@ -140,7 +140,7 @@
 
 <!-- end list -->
 
-  - [美咲静](https://ja.wikipedia.org/wiki/美咲静 "wikilink")（6月）
+  - 美咲静（6月）
   - [喜田嶋りお](https://ja.wikipedia.org/wiki/喜田嶋りお "wikilink")（7月）
   - [片瀬あき](../Page/片瀬あき.md "wikilink")（8月）
   - [平山千里](../Page/平山千里.md "wikilink")（9月）
@@ -158,8 +158,8 @@
   - [星野あかり](../Page/星野あかり.md "wikilink")（1月）
   - [美神ルナ](../Page/美神ルナ.md "wikilink")（4月）
   - [倖田梨紗](https://ja.wikipedia.org/wiki/倖田梨紗 "wikilink")（5月）
-  - [鈴蘭](https://ja.wikipedia.org/wiki/鈴蘭_\(AV女優\) "wikilink")（6月）
-  - [相川みなみ](../Page/相川みなみ.md "wikilink")（7月）
+  - 鈴蘭（6月）
+  - 相川みなみ（7月）
   - [一ノ瀬カレン](../Page/一ノ瀬カレン.md "wikilink")（8月）
   - [上原優実](https://ja.wikipedia.org/wiki/上原優実 "wikilink")（10月）
   - [美月れいな](../Page/美月れいな.md "wikilink")（11月）
@@ -192,16 +192,16 @@
 <!-- end list -->
 
   - [有希ちな](../Page/有希ちな.md "wikilink")（1月、[MAX-Aとの共同プロデュース](../Page/マックス・エー.md "wikilink")）
-  - [夏木彩](https://ja.wikipedia.org/wiki/夏木彩_\(AV女優\) "wikilink")（3月）
+  - 夏木彩（3月）
   - [星アンジェ](../Page/星アンジェ.md "wikilink")（3月）
   - [石原莉奈](https://ja.wikipedia.org/wiki/石原莉奈 "wikilink")（4月）
-  - [月嶋みやび](https://ja.wikipedia.org/wiki/月嶋みやび "wikilink")（4月）
+  - 月嶋みやび（4月）
   - [綾瀬みさ](https://ja.wikipedia.org/wiki/綾瀬みさ "wikilink")（5月）
-  - [上原レナ](https://ja.wikipedia.org/wiki/上原レナ "wikilink")（6月）
-  - [伊吹怜](https://ja.wikipedia.org/wiki/伊吹怜 "wikilink")（8月、改名）
+  - 上原レナ（6月）
+  - 伊吹怜（8月、改名）
   - [叶志穂](https://ja.wikipedia.org/wiki/叶志穂 "wikilink")（8月）
   - [松下桃香](https://ja.wikipedia.org/wiki/松下桃香 "wikilink")（10月）
-  - [雨音レイラ](https://ja.wikipedia.org/wiki/雨音レイラ "wikilink")（11月）
+  - 雨音レイラ（11月）
   - [蒼井怜](https://ja.wikipedia.org/wiki/蒼井怜 "wikilink")（12月）
 
 <!-- end list -->
@@ -211,13 +211,13 @@
 <!-- end list -->
 
   - [麻生香月](https://ja.wikipedia.org/wiki/麻生香月 "wikilink")（1月）
-  - [坂井優羽](https://ja.wikipedia.org/wiki/坂井優羽 "wikilink")（2月）
+  - 坂井優羽（2月）
   - 瀬尾えみり（3月）
   - [乙井なずな](https://ja.wikipedia.org/wiki/乙井なずな "wikilink")（4月）
-  - [愛内梨花](https://ja.wikipedia.org/wiki/愛内梨花 "wikilink")（5月）
-  - [姫咲静香](https://ja.wikipedia.org/wiki/姫咲静香 "wikilink")（7月）
+  - 愛内梨花（5月）
+  - 姫咲静香（7月）
   - [白咲舞](https://ja.wikipedia.org/wiki/白咲舞 "wikilink")（8月）
-  - [夢咲ほのか](https://ja.wikipedia.org/wiki/夢咲ほのか "wikilink")（8月）
+  - 夢咲ほのか（8月）
   - [亜希菜](https://ja.wikipedia.org/wiki/亜希菜 "wikilink")（9月）
   - [綾瀬ティアラ](https://ja.wikipedia.org/wiki/綾瀬ティアラ "wikilink")（9月）
   - [秋山祥子](https://ja.wikipedia.org/wiki/秋山祥子 "wikilink")（10月）
@@ -235,7 +235,7 @@
   - [佐倉カオリ](https://ja.wikipedia.org/wiki/佐倉カオリ "wikilink")（5月）
   - [相澤リナ](https://ja.wikipedia.org/wiki/相澤リナ "wikilink")（7月、改名）
   - [あずみ恋](https://ja.wikipedia.org/wiki/あずみ恋 "wikilink")（8月、改名）
-  - [加藤ディーナ](https://ja.wikipedia.org/wiki/加藤ディーナ "wikilink")（9月）
+  - 加藤ディーナ（9月）
   - [木下若菜](https://ja.wikipedia.org/wiki/木下若菜 "wikilink")（11月）
   - [篠原杏](https://ja.wikipedia.org/wiki/篠原杏 "wikilink")（12月）
 
@@ -245,13 +245,13 @@
 
 <!-- end list -->
 
-  - [眞木あずさ](https://ja.wikipedia.org/wiki/眞木あずさ "wikilink")（1月）
+  - 眞木あずさ（1月）
   - [伊東美姫](https://ja.wikipedia.org/wiki/伊東美姫 "wikilink")（3月）
   - [瀬乃ゆいか](https://ja.wikipedia.org/wiki/瀬乃ゆいか "wikilink")（5月）
   - [はるか真菜](https://ja.wikipedia.org/wiki/はるか真菜 "wikilink")（7月）
-  - [綾音ゆりあ](https://ja.wikipedia.org/wiki/綾音ゆりあ "wikilink")（9月）
-  - [椎名彩](https://ja.wikipedia.org/wiki/椎名彩 "wikilink")（11月）
-  - [堀江クララ](https://ja.wikipedia.org/wiki/堀江クララ "wikilink")（12月）
+  - 綾音ゆりあ（9月）
+  - 椎名彩（11月）
+  - 堀江クララ（12月）
 
 <!-- end list -->
 
@@ -259,16 +259,16 @@
 
 <!-- end list -->
 
-  - [光月まや](https://ja.wikipedia.org/wiki/光月まや "wikilink")（2月）
+  - 光月まや（2月）
   - [安達亜美](https://ja.wikipedia.org/wiki/安達亜美 "wikilink")（3月）
-  - [美咲あかり](https://ja.wikipedia.org/wiki/美咲あかり "wikilink")（4月）
-  - [ゆうきちせ](https://ja.wikipedia.org/wiki/ゆうきちせ "wikilink")（5月）
-  - [田丸みく](https://ja.wikipedia.org/wiki/田丸みく "wikilink")（6月）
-  - [優月良花](https://ja.wikipedia.org/wiki/優月良花 "wikilink")（6月）
+  - 美咲あかり（4月）
+  - ゆうきちせ（5月）
+  - 田丸みく（6月）
+  - 優月良花（6月）
   - [神谷まゆ](https://ja.wikipedia.org/wiki/神谷まゆ "wikilink")（7月）
   - [星野ナミ](https://ja.wikipedia.org/wiki/星野ナミ "wikilink")（8月）
-  - [夏目りょうこ](https://ja.wikipedia.org/wiki/夏目りょうこ "wikilink")（10月）
-  - [今村楓](https://ja.wikipedia.org/wiki/今村楓 "wikilink")（12月）
+  - 夏目りょうこ（10月）
+  - 今村楓（12月）
 
 <!-- end list -->
 
@@ -276,13 +276,13 @@
 
 <!-- end list -->
 
-  - [望月あゆみ](https://ja.wikipedia.org/wiki/望月あゆみ "wikilink")（2月）
-  - [MIYABI](https://ja.wikipedia.org/wiki/MIYABI "wikilink")（3月）
-  - [春乃千佳](https://ja.wikipedia.org/wiki/春乃千佳 "wikilink")（4月）
+  - 望月あゆみ（2月）
+  - MIYABI（3月）
+  - 春乃千佳（4月）
   - [白石マリエ](https://ja.wikipedia.org/wiki/白石マリエ "wikilink")（6月）
   - [葉山めい](https://ja.wikipedia.org/wiki/葉山めい "wikilink")（7月）
-  - [藤本奈央](https://ja.wikipedia.org/wiki/藤本奈央 "wikilink")（10月）
-  - [竹内みい](https://ja.wikipedia.org/wiki/竹内みい "wikilink")（12月）
+  - 藤本奈央（10月）
+  - 竹内みい（12月）
 
 <!-- end list -->
 
@@ -290,7 +290,7 @@
 
 <!-- end list -->
 
-  - [長谷部ゆい](https://ja.wikipedia.org/wiki/長谷部ゆい "wikilink")（1月）
+  - 長谷部ゆい（1月）
   - [青山未来](https://ja.wikipedia.org/wiki/青山未来 "wikilink")（2月）
   - [浅倉愛](https://ja.wikipedia.org/wiki/浅倉愛 "wikilink")（3月）
   - [宮崎夏帆](https://ja.wikipedia.org/wiki/宮崎夏帆 "wikilink")（3月）
@@ -298,7 +298,7 @@
   - [佐伯ゆきな](https://ja.wikipedia.org/wiki/佐伯ゆきな "wikilink")（6月）
   - [西田カリナ](https://ja.wikipedia.org/wiki/西田カリナ "wikilink")（8月）
   - [舞園かりん](https://ja.wikipedia.org/wiki/舞園かりん "wikilink")（9月）
-  - [星野遥](https://ja.wikipedia.org/wiki/星野遥 "wikilink")（10月）
+  - 星野遥（10月）
   - [神尾舞](https://ja.wikipedia.org/wiki/神尾舞 "wikilink")（12月）
   - [星空もあ](https://ja.wikipedia.org/wiki/星空もあ "wikilink")（12月）
 
@@ -308,7 +308,7 @@
 
 <!-- end list -->
 
-  - [美月あおい](https://ja.wikipedia.org/wiki/美月あおい "wikilink")（3月）
+  - 美月あおい（3月）
 
 <!-- end list -->
 
@@ -332,7 +332,7 @@
 
 <!-- end list -->
 
-  - [叶樹梨](https://ja.wikipedia.org/wiki/叶樹梨 "wikilink")（10月）
+  - 叶樹梨（10月）
   - [立花もえ](https://ja.wikipedia.org/wiki/立花もえ "wikilink")（10月）
 
 <!-- end list -->
@@ -351,7 +351,7 @@
 
   - [美咲マリ](https://ja.wikipedia.org/wiki/上原カエラ "wikilink")（1月）
   - [桐島ひかり](../Page/桐島ひかり.md "wikilink")（2月）
-  - [花房愛里](https://ja.wikipedia.org/wiki/花房愛里 "wikilink")（5月）
+  - 花房愛里（5月）
 
 ### その他
 
@@ -368,7 +368,7 @@
 <!-- end list -->
 
   - [星野ひかる](../Page/星野ひかる.md "wikilink")（6月）
-  - [佐藤江珠](https://ja.wikipedia.org/wiki/佐藤江珠 "wikilink")（12月）
+  - 佐藤江珠（12月）
 
 <!-- end list -->
 
@@ -376,7 +376,7 @@
 
 <!-- end list -->
 
-  - [沢口ひろみ](https://ja.wikipedia.org/wiki/沢口ひろみ "wikilink")（11月）
+  - 沢口ひろみ（11月）
 
 <!-- end list -->
 
@@ -393,11 +393,11 @@
 
 <!-- end list -->
 
-  - [川村リサ](https://ja.wikipedia.org/wiki/川村リサ "wikilink")（3月）
+  - 川村リサ（3月）
   - [麻宮淳子](../Page/麻宮淳子.md "wikilink")（4月）
   - [立原貴美](../Page/立原貴美.md "wikilink")（4月、改名）
   - [白鳥美香](../Page/桜井涼子.md "wikilink")（6月）
-  - [麻生菜月](https://ja.wikipedia.org/wiki/麻生菜月 "wikilink")（8月）
+  - 麻生菜月（8月）
 
 <!-- end list -->
 
@@ -408,7 +408,7 @@
   - [夕樹舞子](../Page/夕樹舞子.md "wikilink")（4月）
   - [遠峰夏子](https://ja.wikipedia.org/wiki/遠峰夏子 "wikilink")（7月）
   - [ナオミ](../Page/ナオミ.md "wikilink")（7月）
-  - [乃坂エミ](https://ja.wikipedia.org/wiki/乃坂エミ "wikilink")（9月）
+  - 乃坂エミ（9月）
   - [星野杏里](https://ja.wikipedia.org/wiki/星野杏里 "wikilink")（11月）
 
 <!-- end list -->
@@ -417,10 +417,10 @@
 
 <!-- end list -->
 
-  - [香月あんな](https://ja.wikipedia.org/wiki/香月あんな "wikilink")（6月）
-  - [後藤えみり](https://ja.wikipedia.org/wiki/後藤えみり "wikilink")（6月）
-  - [寺田里美](https://ja.wikipedia.org/wiki/寺田里美 "wikilink")（6月）
-  - [牧原さおり](https://ja.wikipedia.org/wiki/牧原さおり "wikilink")（6月）
+  - 香月あんな（6月）
+  - 後藤えみり（6月）
+  - 寺田里美（6月）
+  - 牧原さおり（6月）
 
 <!-- end list -->
 
@@ -428,8 +428,8 @@
 
 <!-- end list -->
 
-  - [水島千影](https://ja.wikipedia.org/wiki/水島千影 "wikilink")（1月）
-  - [かわいももこ](https://ja.wikipedia.org/wiki/かわいももこ "wikilink")（7月）
+  - 水島千影（1月）
+  - かわいももこ（7月）
 
 <!-- end list -->
 
@@ -438,8 +438,8 @@
 <!-- end list -->
 
   - [小川春菜](../Page/小川春菜.md "wikilink")（4月）
-  - [小野ゆうか](https://ja.wikipedia.org/wiki/小野ゆうか "wikilink")（9月）
-  - [椎名みお](https://ja.wikipedia.org/wiki/椎名みお "wikilink")（10月）
+  - 小野ゆうか（9月）
+  - 椎名みお（10月）
   - [夢野まりあ](../Page/夢野まりあ.md "wikilink")（10月）
 
 <!-- end list -->
@@ -449,10 +449,10 @@
 <!-- end list -->
 
   - [河愛つぐみ](https://ja.wikipedia.org/wiki/河愛つぐみ "wikilink")（1月）
-  - [中山美礼](https://ja.wikipedia.org/wiki/中山美礼 "wikilink")（5月）
-  - [森村なつみ](https://ja.wikipedia.org/wiki/森村なつみ "wikilink")（8月）
-  - [川村理沙](https://ja.wikipedia.org/wiki/川村理沙 "wikilink")（10月）
-  - [吉野ゆうき](https://ja.wikipedia.org/wiki/吉野ゆうき "wikilink")（12月）
+  - 中山美礼（5月）
+  - 森村なつみ（8月）
+  - 川村理沙（10月）
+  - 吉野ゆうき（12月）
 
 <!-- end list -->
 
@@ -460,18 +460,18 @@
 
 <!-- end list -->
 
-  - [青木絵里](https://ja.wikipedia.org/wiki/青木絵里 "wikilink")（1月）
-  - [片瀬ラン](https://ja.wikipedia.org/wiki/片瀬ラン "wikilink")（1月）
-  - [沖遥](https://ja.wikipedia.org/wiki/沖遥 "wikilink")（2月）
-  - [遠野春希](https://ja.wikipedia.org/wiki/遠野春希 "wikilink")（4月）
+  - 青木絵里（1月）
+  - 片瀬ラン（1月）
+  - 沖遥（2月）
+  - 遠野春希（4月）
   - [星野くるみ](../Page/星野くるみ.md "wikilink")（4月）
   - [北村うるか](../Page/北村うるか.md "wikilink")（5月）
-  - [後藤リナ](https://ja.wikipedia.org/wiki/後藤リナ "wikilink")（6月）
-  - [森川珠里](https://ja.wikipedia.org/wiki/森川珠里 "wikilink")（6月）
+  - 後藤リナ（6月）
+  - 森川珠里（6月）
   - [安倍なつき](../Page/安倍なつき.md "wikilink")（8月）
-  - [相澤玲](https://ja.wikipedia.org/wiki/相澤玲 "wikilink")（9月）
-  - [小泉春花](https://ja.wikipedia.org/wiki/小泉春花 "wikilink")（11月）
-  - [田中麻里](https://ja.wikipedia.org/wiki/たなかまり "wikilink")（12月）
+  - 相澤玲（9月）
+  - 小泉春花（11月）
+  - 田中麻里（12月）
 
 <!-- end list -->
 
@@ -479,19 +479,19 @@
 
 <!-- end list -->
 
-  - [風音つぐみ](https://ja.wikipedia.org/wiki/風音つぐみ "wikilink")（1月）
-  - [神谷麗子](https://ja.wikipedia.org/wiki/神谷麗子 "wikilink")（1月）
+  - 風音つぐみ（1月）
+  - 神谷麗子（1月）
   - [榊うらら](https://ja.wikipedia.org/wiki/榊うらら "wikilink")（1月）
-  - [早川理奈](https://ja.wikipedia.org/wiki/早川理奈 "wikilink")（1月）
-  - [中森藍子](https://ja.wikipedia.org/wiki/中森藍子 "wikilink")（2月）
-  - [矢吹まりあ](https://ja.wikipedia.org/wiki/矢吹まりあ "wikilink")（3月）
-  - [桜ことみ](https://ja.wikipedia.org/wiki/桜ことみ "wikilink")（4月）
-  - [飯島めぐみ](https://ja.wikipedia.org/wiki/飯島めぐみ "wikilink")（5月）
-  - [松田みみ](https://ja.wikipedia.org/wiki/松田みみ "wikilink")（5月）
-  - [冬月菜美](https://ja.wikipedia.org/wiki/冬月菜美 "wikilink")（5月）
+  - 早川理奈（1月）
+  - 中森藍子（2月）
+  - 矢吹まりあ（3月）
+  - 桜ことみ（4月）
+  - 飯島めぐみ（5月）
+  - 松田みみ（5月）
+  - 冬月菜美（5月）
   - [長谷川瞳](https://ja.wikipedia.org/wiki/長谷川瞳_\(AV女優\) "wikilink")（7月）
-  - [高宮りこ](https://ja.wikipedia.org/wiki/高宮りこ "wikilink")（8月）
-  - [九里マリ](https://ja.wikipedia.org/wiki/九里マリ "wikilink")（12月）
+  - 高宮りこ（8月）
+  - 九里マリ（12月）
 
 <!-- end list -->
 
@@ -499,7 +499,7 @@
 
 <!-- end list -->
 
-  - [七海ひかる](https://ja.wikipedia.org/wiki/七海ひかる "wikilink")（6月）
+  - 七海ひかる（6月）
 
 <!-- end list -->
 
@@ -508,10 +508,10 @@
 <!-- end list -->
 
   - [白鳥さくら](../Page/白鳥さくら.md "wikilink")（7月）
-  - [中山美嘉](https://ja.wikipedia.org/wiki/中山美嘉 "wikilink")（7月）
-  - [渋谷亜美](https://ja.wikipedia.org/wiki/渋谷亜美 "wikilink")（8月）
-  - [鈴木美帆](https://ja.wikipedia.org/wiki/すずきみほ "wikilink")（8月）
-  - [やなせりほ](https://ja.wikipedia.org/wiki/やなせりほ "wikilink")（12月）
+  - 中山美嘉（7月）
+  - 渋谷亜美（8月）
+  - 鈴木美帆（8月）
+  - やなせりほ（12月）
 
 <!-- end list -->
 
@@ -519,9 +519,9 @@
 
 <!-- end list -->
 
-  - [成宮智香](https://ja.wikipedia.org/wiki/成宮智香 "wikilink")（1月）
-  - [綾野ひろ](https://ja.wikipedia.org/wiki/綾野ひろ "wikilink")（2月）
-  - [矢口あみか](https://ja.wikipedia.org/wiki/矢口あみか "wikilink")（3月）
+  - 成宮智香（1月）
+  - 綾野ひろ（2月）
+  - 矢口あみか（3月）
   - [松下可憐](https://ja.wikipedia.org/wiki/松下可憐 "wikilink")（4月）
 
 <!-- end list -->
@@ -538,7 +538,7 @@
 
 <!-- end list -->
 
-  - [バーバラに逢いたくて…](https://ja.wikipedia.org/wiki/バーバラに逢いたくて… "wikilink")（11月8日）
+  - バーバラに逢いたくて…（11月8日）
 
 <!-- end list -->
 
@@ -546,11 +546,11 @@
 
 <!-- end list -->
 
-  - [かおりクライマックス](https://ja.wikipedia.org/wiki/かおりクライマックス "wikilink")（4月18日）
-  - [バーバラ Don’t Stop](https://ja.wikipedia.org/wiki/バーバラ_Don’t_Stop "wikilink")（6月6日）
-  - [総務部庶務課](https://ja.wikipedia.org/wiki/総務部庶務課 "wikilink")（8月8日）
-  - [かおりクライマックス2](https://ja.wikipedia.org/wiki/かおりクライマックス2 "wikilink")（10月10日）
-  - [未来世紀バーバラ](https://ja.wikipedia.org/wiki/未来世紀バーバラ "wikilink")（12月12日）
+  - かおりクライマックス（4月18日）
+  - バーバラ Don’t Stop（6月6日）
+  - 総務部庶務課（8月8日）
+  - かおりクライマックス2（10月10日）
+  - 未来世紀バーバラ（12月12日）
 
 <!-- end list -->
 
@@ -558,14 +558,14 @@
 
 <!-- end list -->
 
-  - [Guiltia ～罪～](https://ja.wikipedia.org/wiki/Guiltia_～罪～ "wikilink")（4月24日）
-  - [トロピカル・メモリーズ ～夏色シンフォニー～](https://ja.wikipedia.org/wiki/トロピカル・メモリーズ_～夏色シンフォニー～ "wikilink")（6月19日）
-  - [総務部庶務課II](https://ja.wikipedia.org/wiki/総務部庶務課II "wikilink")（8月7日）
-  - [CYBER MODEL CLUB](https://ja.wikipedia.org/wiki/CYBER_MODEL_CLUB "wikilink")（9月4日）
-  - [暗闇坂の家](https://ja.wikipedia.org/wiki/暗闇坂の家 "wikilink")（9月11日）
-  - [WARG ～SEXバイオロイド戦記～](https://ja.wikipedia.org/wiki/WARG_～SEXバイオロイド戦記～ "wikilink")（10月9日）
+  - Guiltia ～罪～（4月24日）
+  - トロピカル・メモリーズ ～夏色シンフォニー～（6月19日）
+  - 総務部庶務課II（8月7日）
+  - CYBER MODEL CLUB（9月4日）
+  - 暗闇坂の家（9月11日）
+  - WARG ～SEXバイオロイド戦記～（10月9日）
   - [ザ・ハッスル](https://ja.wikipedia.org/wiki/ザ・ハッスル "wikilink")（11月13日）
-  - [乾杯](https://ja.wikipedia.org/wiki/乾杯_\(ゲーム\) "wikilink")（12月4日）
+  - 乾杯（12月4日）
 
 <!-- end list -->
 
@@ -573,7 +573,7 @@
 
 <!-- end list -->
 
-  - [おもちゃ妻](https://ja.wikipedia.org/wiki/おもちゃ妻 "wikilink")（11月26日）
+  - おもちゃ妻（11月26日）
 
 <!-- end list -->
 
@@ -581,15 +581,15 @@
 
 <!-- end list -->
 
-  - [RUSH ～危険な香り CRISIS:2014～](https://ja.wikipedia.org/wiki/RUSH_～危険な香り_CRISIS:2014～ "wikilink")（8月4日）
+  - RUSH ～危険な香り CRISIS:2014～（8月4日）
 
 ## 脚注
 
 ## 外部リンク
 
-  - [h.m.p online](http://www.hmp.jp/) - 公式HP
+  - [h.m.p online](https://www.hmp.jp/) - 公式HP
 
-  - [h.m.p](http://blog.livedoor.jp/hmpblog/) - オフィシャルブログ
+  - \- オフィシャルブログ
 
   -
   -

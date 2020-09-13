@@ -354,7 +354,7 @@
 
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")に[予備免許](../Page/予備免許.md "wikilink")交付、[12月21日](../Page/12月21日.md "wikilink")に本免許交付。
   - 放送エリアは、名護市呉我地区と仲尾地区の各一部。この中継局の開局により、[2011年](../Page/2011年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")に開局した[大東諸島](../Page/大東諸島.md "wikilink")地区を除いて沖縄県内でのデジタル中継局の整備が完了した。
-  - [呉我･数久田の両デジタル中継局に予備免許交付](http://www.soumu.go.jp/soutsu/okinawa/hodo/2010/10_11_05-01.html) - 総務省沖縄総合事務所ホームページ
+  - [呉我･数久田の両デジタル中継局に予備免許交付](https://www.soumu.go.jp/soutsu/okinawa/hodo/2010/10_11_05-01.html) - 総務省沖縄総合事務所ホームページ
 
 ### 地上アナログテレビ放送
 
@@ -605,7 +605,7 @@
   - [名護市におけるテレビジョン放送の難視聴の解消 - 沖縄本島北部地域難視聴解消事業により整備するテレビジョン放送中継局への免許 -](https://warp.da.ndl.go.jp/info:ndljp/pid/997626/www.soumu.go.jp/soutsu/okinawa/hodo/2000/00_03_22_2.html) - 総務省沖縄総合通信事務所(平成12年度報道資料)
   - [地上デジタルテレビジョン放送局に予備免許～今帰仁、佐敷及び久米島の中継局～](https://warp.da.ndl.go.jp/info:ndljp/pid/286615/www.soumu.go.jp/soutsu/okinawa/hodo/2007/07_10_31-01.html) - 総務省沖縄総合通信局(2007年10月31日プレスリリース・平成19年度報道資料)
   - [地上デジタルテレビジョン放送中継局に免許～今帰仁、佐敷及び久米島中継局～](https://warp.da.ndl.go.jp/info:ndljp/pid/286615/www.soumu.go.jp/soutsu/okinawa/hodo/2007/07_11_30-01.html) - 総務省沖縄総合通信局(2007年10月31日プレスリリース・平成19年度報道資料)
-  - [呉我・運天原を含むデジタル中継局置局予定(参考リンク)](http://www.soumu.go.jp/soutsu/okinawa/hodo/2010/10_07_21-01.html#bessi_top)
+  - [呉我・運天原を含むデジタル中継局置局予定(参考リンク)](https://www.soumu.go.jp/soutsu/okinawa/hodo/2010/10_07_21-01.html#bessi_top)
 
 ## 関連項目
 

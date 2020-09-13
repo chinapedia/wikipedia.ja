@@ -33,14 +33,12 @@
 
 その他、本誌以外にも兄弟誌とも言える三栄書房が出版する同様の自動車雑誌が数誌存在する（別項参照）が、基本的なスタイルは本誌を追従しており、やはり改造関係が大きなシフトを占める。
 
-  -
-
 ## 過去にプロジェクト製作されたチューニングカー
 
   - Dai Z
     Daiこと[稲田大二郎](../Page/稲田大二郎.md "wikilink")所有の[S130型フェアレディ280ZXをベースに](https://ja.wikipedia.org/wiki/日産・フェアレディZ#2.E4.BB.A3.E7.9B.AE_S130.E5.9E.8B.EF.BC.881978-1983.E5.B9.B4.EF.BC.89 "wikilink")[HKS](https://ja.wikipedia.org/wiki/HKS "wikilink")製ターボキットを装着。最高速・ゼロヨン・サーキットそれぞれのステージで活躍。
   - OPT KKKシグマ セリカXXターボ
-    当時編集に関わっていた[福野礼のプライベートカーであった](../Page/福野礼一郎.md "wikilink")[MA60型セリカXXをベースに](https://ja.wikipedia.org/wiki/トヨタ・セリカXX#2.E4.BB.A3.E7.9B.AE.EF.BC.88GA60.2FMA60.E7.B3.BB.E3.83.BB1981-1986.E5.B9.B4.EF.BC.89 "wikilink")[シグマ・オートモーティブ製ターボキットを装着](https://ja.wikipedia.org/wiki/サード "wikilink")。1982年12月に最高速度256.68km/hを記録。
+    当時編集に関わっていた[福野礼のプライベートカーであった](../Page/福野礼一郎.md "wikilink")[MA60型セリカXXをベースに](https://ja.wikipedia.org/wiki/トヨタ・セリカXX#2.E4.BB.A3.E7.9B.AE.EF.BC.88GA60.2FMA60.E7.B3.BB.E3.83.BB1981-1986.E5.B9.B4.EF.BC.89 "wikilink")[シグマ・オートモーティブ製ターボキットを装着](../Page/サード_\(企業\).md "wikilink")。1982年12月に最高速度256.68km/hを記録。
   - OPTION・シティ・ターボ・ミッドシップ
     著名なレーシングコンストラクターである[ノバ・エンジニアリング](../Page/ノバ・エンジニアリング.md "wikilink")の協力の下、元々FFだった[ホンダ・シティ](../Page/ホンダ・シティ.md "wikilink")ターボをベースにミッドシップ化。後にツインエンジン化される。
   - Option Speed Wagon
@@ -62,7 +60,7 @@
   - Option4 - [S.U.V.の車輌をテーマとし](https://ja.wikipedia.org/wiki/SUV "wikilink")、カスタムカー中心に記事を充実させている内容であった。SUVブームの衰退と共に廃刊となった。
   - [ドリフト天国](../Page/ドリフト天国.md "wikilink") - ドリフト専門誌。
   - Option Wagon - ワゴン系の改造情報を扱う（2007年1月発売号にて休刊）。
-  - [G-ワークス](https://ja.wikipedia.org/wiki/G-ワークス "wikilink") - [旧車](../Page/旧車.md "wikilink")がメインの内容。ウェーバーやソレックスなどの[キャブレター](../Page/キャブレター.md "wikilink")に関する記事や[ロータリーエンジン](../Page/ロータリーエンジン.md "wikilink")のポートの解説などOPTION本誌より突っ込んだ内容の記事が掲載されている。以前フロム出版から発行されていた「Auto Works」が母体。編集部ごと移籍しての再出発となった。OPTIONの増刊扱いだったが[2009年](../Page/2009年.md "wikilink")より独立創刊
+  - [G-ワークス](https://ja.wikipedia.org/wiki/G-ワークス "wikilink") - [旧車](../Page/旧車.md "wikilink")がメインの内容。ウェーバーやソレックスなどの[キャブレター](../Page/キャブレター.md "wikilink")に関する記事や[ロータリーエンジン](../Page/ロータリーエンジン.md "wikilink")のポートの解説などOPTION本誌より突っ込んだ内容の記事が掲載されている。以前フロム出版から発行されていた「Auto Works」が母体。編集部ごと移籍しての再出発となった。OPTIONの増刊扱いだったが[2009年](../Page/2009年.md "wikilink")より独立創刊。
 
 ## 類似雑誌
 

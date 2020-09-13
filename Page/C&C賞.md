@@ -14,9 +14,9 @@
   - 2016年A: [大野英男](../Page/大野英男.md "wikilink")
   - 2016年B: [ジェフリー・ヒントン](https://ja.wikipedia.org/wiki/ジェフリー・ヒントン "wikilink")
   - 2015年A: [喜連川優](../Page/喜連川優.md "wikilink")
-  - 2015年B: マーティン・カサド、、
+  - 2015年B: 、、
   - 2014年A: [辻井重男](https://ja.wikipedia.org/wiki/辻井重男 "wikilink")、[今井秀樹](../Page/今井秀樹.md "wikilink")
-  - 2014年B: ヤン・ウッデンフェルト、、安達文幸
+  - 2014年B: ヤン・ウッデンフェルト、[アーウィン・M・ジェイコブス](../Page/アーウィン・M・ジェイコブス.md "wikilink")、安達文幸
   - 2013年A: 菊池和朗、[中沢正隆](../Page/中沢正隆.md "wikilink")
   - 2013年B:
   - 2012年A: 山田宰、黒田徹、高田政幸
@@ -52,13 +52,13 @@
   - 1997年A: [ジョン・L・モル](https://ja.wikipedia.org/wiki/:en:John_L._Moll "wikilink")
   - 1997年B: バリー・G・ハスケル（Barry G. Haskell）、
   - 1996年A: [ポール・バラン](../Page/ポール・バラン.md "wikilink")、[ヴィントン・サーフ](../Page/ヴィントン・サーフ.md "wikilink")、[ティム・バーナーズ＝リー](../Page/ティム・バーナーズ＝リー.md "wikilink")
-  - 1996年B: 、アーネスト・S・クー (Ernest S. Kuh)、ロナルド・A・ローラー (Ronald A. Rohrer)
+  - 1996年B: 、、ロナルド・A・ローラー (Ronald A. Rohrer)
   - 1995年A: [長谷川晃](https://ja.wikipedia.org/wiki/長谷川晃_\(物理学者\) "wikilink")
   - 1995年B:
   - 1994年A: [ジョン・コック](../Page/ジョン・コック.md "wikilink")
   - 1994年B: [末松安晴](../Page/末松安晴.md "wikilink")、[大越孝敬](https://ja.wikipedia.org/wiki/大越孝敬 "wikilink")
   - 1993年A: [岩崎俊一](../Page/岩崎俊一.md "wikilink")
-  - 1993年B: ウィリアム・A・ギャンブリング（William A. Gambling）、
+  - 1993年B: ウィリアム・A・ギャンブリング（William A. Gambling）、[デイヴィッド・ペイン](https://ja.wikipedia.org/wiki/デビッド・ペイン_\(研究者\) "wikilink")
   - 1992年A: [坂井利之](../Page/坂井利之.md "wikilink")
   - 1992年B: 、ウォルター・K・ヴィクター（Walter K. Victor）、[アンドリュー・ビタビ](https://ja.wikipedia.org/wiki/アンドリュー・ビタビ "wikilink")
   - 1991年A: 垂井康夫、豊田博夫
@@ -72,13 +72,13 @@
   - 1987年A: [猪瀬博](../Page/猪瀬博.md "wikilink")
   - 1987年B: [チャールズ・K・カオ](https://ja.wikipedia.org/wiki/チャールズ・K・カオ "wikilink")（高錕）
   - 1986年A:
-  - 1986年B: [林厳雄](../Page/林厳雄.md "wikilink")、モートン・B・パニッシ（Morton B. Panish）
+  - 1986年B: [林厳雄](../Page/林厳雄.md "wikilink")、
   - 1985年A: [山下英男](https://ja.wikipedia.org/wiki/山下英男 "wikilink")、和田弘
   - 1985年B: 、
   - 1985年C: 、シドニー・メツガー（Sidney Metzger）
 
 ## 外部リンク
 
-  - [公益財団法人 NEC C\&C財団](http://www.candc.or.jp/index.html)
+  - [公益財団法人 NEC C\&C財団](https://www.candc.or.jp/index.html)
 
 [Category:日本の科学技術賞](https://ja.wikipedia.org/wiki/Category:日本の科学技術賞 "wikilink") [Category:日本電気](https://ja.wikipedia.org/wiki/Category:日本電気 "wikilink")

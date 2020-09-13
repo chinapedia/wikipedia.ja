@@ -5,7 +5,7 @@
 
 ## 活動
 
-[1991年](../Page/1991年.md "wikilink")に[レイジー](../Page/レイジー.md "wikilink")が解散した後、ソロ活動をしていた[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")と、[ネバーランドを経て](../Page/ネバーランド_\(バンド\).md "wikilink")[HUMAN NATUREを結成していた](https://ja.wikipedia.org/wiki/HUMAN_NATURE "wikilink")[井上俊次](../Page/井上俊次.md "wikilink")・[田中宏幸が集まって結成](https://ja.wikipedia.org/wiki/田中宏幸_\(ベーシスト\) "wikilink")。しかし、インディーズでの活動だったため大きく注目されることはなく、[アルバム](../Page/アルバム.md "wikilink")を1枚発表した他に作家[藤本ひとみ](../Page/藤本ひとみ.md "wikilink")のイメージアルバムに参加するなどの活動のみで、わずか1年の活動に終止符を打った。
+[1981年](../Page/1981年.md "wikilink")に[レイジー](../Page/レイジー.md "wikilink")が解散した後、ソロ活動をしていた[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")と、[ネバーランドを経て](../Page/ネバーランド_\(バンド\).md "wikilink")[HUMAN NATUREを結成していた](https://ja.wikipedia.org/wiki/HUMAN_NATURE "wikilink")[井上俊次](../Page/井上俊次.md "wikilink")・[田中宏幸が集まって結成](https://ja.wikipedia.org/wiki/田中宏幸_\(ベーシスト\) "wikilink")。しかし、インディーズでの活動だったため大きく注目されることはなく、[アルバム](../Page/アルバム.md "wikilink")を1枚発表した他に作家[藤本ひとみ](../Page/藤本ひとみ.md "wikilink")のイメージアルバムに参加するなどの活動のみで、わずか1年の活動に終止符を打った。
 
 影山ヒロノブの公式[ホームページ](../Page/ホームページ.md "wikilink")は、このバンドの名前が由来である。
 

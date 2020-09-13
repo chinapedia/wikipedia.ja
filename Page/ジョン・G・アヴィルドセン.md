@@ -46,7 +46,7 @@
 
   -
   -
-[Category:アメリカ合衆国の映画監督](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の映画監督 "wikilink") [Category:オークパーク出身の人物](https://ja.wikipedia.org/wiki/Category:オークパーク出身の人物 "wikilink") [Category:スウェーデン系アメリカ人](https://ja.wikipedia.org/wiki/Category:スウェーデン系アメリカ人 "wikilink") [Category:アカデミー賞受賞者](https://ja.wikipedia.org/wiki/Category:アカデミー賞受賞者 "wikilink") [Category:ロッキー](https://ja.wikipedia.org/wiki/Category:ロッキー "wikilink") [Category:1935年生](https://ja.wikipedia.org/wiki/Category:1935年生 "wikilink") [Category:2017年没](https://ja.wikipedia.org/wiki/Category:2017年没 "wikilink")
+[Category:アメリカ合衆国の映画監督](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の映画監督 "wikilink") [Category:オークパーク出身の人物](https://ja.wikipedia.org/wiki/Category:オークパーク出身の人物 "wikilink") [Category:デンマーク系アメリカ人](https://ja.wikipedia.org/wiki/Category:デンマーク系アメリカ人 "wikilink") [Category:アカデミー賞受賞者](https://ja.wikipedia.org/wiki/Category:アカデミー賞受賞者 "wikilink") [Category:ロッキー](https://ja.wikipedia.org/wiki/Category:ロッキー "wikilink") [Category:膵癌で亡くなった人物](https://ja.wikipedia.org/wiki/Category:膵癌で亡くなった人物 "wikilink") [Category:1935年生](https://ja.wikipedia.org/wiki/Category:1935年生 "wikilink") [Category:2017年没](https://ja.wikipedia.org/wiki/Category:2017年没 "wikilink")
 
 1.  [「ロッキー」のJ・アビルドセン監督が死去](http://www.sanspo.com/geino/news/20170617/geo17061711260016-n1.html) サンケイスポーツ 2017年6月17日
 2.

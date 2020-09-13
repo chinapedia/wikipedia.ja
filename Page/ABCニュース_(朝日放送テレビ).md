@@ -124,7 +124,7 @@
 ## 外部リンク
 
   - [WEBニュース](https://www.asahi.co.jp/webnews/) - 朝日放送テレビ（ニュース公式サイト）
-  - [Yahoo\!ニュース ABCテレビ](https://news.yahoo.co.jp/media/asahibc) - 動画配信あり
+  - [Yahoo\!ニュース ABCニュース](https://news.yahoo.co.jp/media/asahibc) - 動画配信あり
   - [gooニュース ABC NEWS 関西ニュース](https://news.goo.ne.jp/publisher/abc/) - 動画配信なし
 
 [Category:1999年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のテレビ番組_\(日本\) "wikilink") [Category:朝日放送テレビの番組](https://ja.wikipedia.org/wiki/Category:朝日放送テレビの番組 "wikilink") [Category:朝日放送テレビのミニ番組](https://ja.wikipedia.org/wiki/Category:朝日放送テレビのミニ番組 "wikilink") [Category:近畿地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:近畿地方のテレビのニュース・報道番組 "wikilink") [Category:朝日新聞社のニュース番組](https://ja.wikipedia.org/wiki/Category:朝日新聞社のニュース番組 "wikilink")

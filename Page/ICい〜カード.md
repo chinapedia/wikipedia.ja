@@ -35,7 +35,7 @@
   - [2005年](../Page/2005年.md "wikilink")（平成17年）
       - [8月23日](../Page/8月23日.md "wikilink") 「ICい〜カード」の名称で、ICカードシステムを正式導入。
       - [11月1日](../Page/11月1日.md "wikilink") ICい〜カード定期券導入。自動チャージ機導入。
-  - [2006年](../Page/2006年.md "wikilink")（平成18年）[9月1日](../Page/9月1日.md "wikilink") 、[いよてつ髙島屋などでショッピングにも](../Page/伊予鉄高島屋.md "wikilink")[電子マネー](../Page/電子マネー.md "wikilink")として利用できるようになった(その後順次縮小)。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）[9月1日](../Page/9月1日.md "wikilink") 、[いよてつ髙島屋などでショッピングにも](https://ja.wikipedia.org/wiki/伊予鉄髙島屋 "wikilink")[電子マネー](../Page/電子マネー.md "wikilink")として利用できるようになった(その後順次縮小)。
   - [2009年](../Page/2009年.md "wikilink")（平成21年）[10月1日](../Page/10月1日.md "wikilink")、グループ内の[石崎汽船](../Page/石崎汽船.md "wikilink")傘下の[中島汽船](https://ja.wikipedia.org/wiki/中島汽船 "wikilink")でサービス開始。
   - [2009年](../Page/2009年.md "wikilink")（平成21年）[10月31日](../Page/10月31日.md "wikilink")、[石崎汽船](../Page/石崎汽船.md "wikilink")でサービス開始。
   - [2016年](../Page/2016年.md "wikilink")（平成28年）[4月1日](../Page/4月1日.md "wikilink")、乗車ポイント制の導入開始。これに伴い新デザインのカードの発行を開始。また、電車・バスの運賃割引、エコシステム、オート1DAYチケットサービスは終了。

@@ -79,7 +79,7 @@
 
 [Category:安室奈美恵の楽曲](https://ja.wikipedia.org/wiki/Category:安室奈美恵の楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:前田たかひろが制作した楽曲](https://ja.wikipedia.org/wiki/Category:前田たかひろが制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:日本レコード大賞受賞曲](https://ja.wikipedia.org/wiki/Category:日本レコード大賞受賞曲 "wikilink") [Category:1996年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:炭酸飲料のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:炭酸飲料のコマーシャルソング "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")
 
-1.  [安室奈美恵ディスコグラフィー](http://web.archive.org/web/20010715041931/www.nikkansports.com/news2/amuro/a-cd.html)、[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+1.  [安室奈美恵ディスコグラフィー](https://web.archive.org/web/20010715041931/www.nikkansports.com/news2/amuro/a-cd.html)、[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
 2.  [角川書店](../Page/角川書店.md "wikilink")刊「[CDでーた](../Page/CD&DLでーた.md "wikilink")」1996年4月5日号12Pより。
 3.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊「PATi PATi」1996年9月号11Pより。
 4.  [マガジンハウス](../Page/マガジンハウス.md "wikilink")刊『[POPEYE](../Page/POPEYE.md "wikilink")』1996年12月25日号36P-37Pより。

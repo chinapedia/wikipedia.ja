@@ -23,7 +23,7 @@
       - [ティエリー・ミュグレー](../Page/ティエリー・ミュグレー.md "wikilink")
       - [上田義彦](../Page/上田義彦.md "wikilink")
       - [ヤン・サウデク](https://ja.wikipedia.org/wiki/ヤン・サウデク "wikilink")
-      - [伊島薫](https://ja.wikipedia.org/wiki/伊島薫 "wikilink")
+      - [伊島薫](../Page/伊島薫.md "wikilink")
       - [操上和美](../Page/操上和美.md "wikilink")
       - [今道子](https://ja.wikipedia.org/wiki/今道子 "wikilink")
       - [田村彰英](https://ja.wikipedia.org/wiki/田村彰英 "wikilink")

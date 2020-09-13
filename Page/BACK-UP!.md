@@ -73,7 +73,7 @@
 
 ## 外部リンク
 
-  - [BACK-UP\!](http://web.archive.org/web/20051201060930/http://www.fujitv.co.jp/jp/b_hp/back-up/)（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")保存データ）
+  - [BACK-UP\!](https://web.archive.org/web/20051201060930/http://www.fujitv.co.jp/jp/b_hp/back-up/)（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")保存データ）
   - [21世紀の幕開けの日に......](http://5l-web.com/column-satochan/satochan70.html) - [佐藤義和](../Page/佐藤義和.md "wikilink")の私のテレビ史、2011年8月号（通巻70号）
 
 [Category:2001年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:共同テレビ](https://ja.wikipedia.org/wiki/Category:共同テレビ "wikilink")

@@ -38,4 +38,4 @@
   - [Bryg-TOP](http://blueberry-yogurt.com/) - 公式ウェブサイト
   - [Studio CLEF](http://clef.blueberry-yogurt.com/)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")

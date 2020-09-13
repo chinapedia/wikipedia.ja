@@ -1,7 +1,7 @@
 > この記事は[RKCヴァールヴァイク](https://ja.wikipedia.org/wiki/RKCヴァールヴァイク)から翻訳されています。
 
 
-**RKCヴァールヴァイク**（**Rooms Katholieke Combinatie Waalwijk**）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")南部、[北ブラバント州](../Page/北ブラバント州.md "wikilink")の都市[ヴァールヴァイク](https://ja.wikipedia.org/wiki/ヴァールヴァイク "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。通常の呼称は「エルカーセー」。2019-20シーズンは[エールディヴィジ](../Page/エールディヴィジ.md "wikilink")に所属。
+**RKCヴァールヴァイク**（**Rooms Katholieke Combinatie Waalwijk**）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")南部、[北ブラバント州](../Page/北ブラバント州.md "wikilink")の都市[ヴァールヴァイク](https://ja.wikipedia.org/wiki/ヴァールヴァイク "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。通常の呼称は「エルカーセー」。2020-21シーズンは[エールディヴィジ](../Page/エールディヴィジ.md "wikilink")に所属。
 
 ## 歴史
 
@@ -13,30 +13,21 @@
 
 ### 国内タイトル
 
-  - [フーフトクラッセ](../Page/フーフトクラッセ_\(サッカー\).md "wikilink")：2回
-
-<!-- end list -->
-
-  -
-    1980-81, 1981-82
-
-<!-- end list -->
-
-  - [サンデー・フーフトクラッセ](../Page/フーフトクラッセ_\(サッカー\).md "wikilink")：2回
-
-<!-- end list -->
-
-  -
-    1980-81, 1981-82
-
-<!-- end list -->
-
-  - [エールステ・ディヴィジ](../Page/エールステ・ディヴィジ.md "wikilink")：1回
+  - **[エールステ・ディヴィジ](../Page/エールステ・ディヴィジ.md "wikilink")：1回**
 
 <!-- end list -->
 
   -
     2010-11
+
+<!-- end list -->
+
+  - **[フーフトクラッセ](../Page/フーフトクラッセ_\(サッカー\).md "wikilink")：2回**
+
+<!-- end list -->
+
+  -
+    1980-81, 1981-82
 
 ### 国際タイトル
 
@@ -44,7 +35,7 @@
 
 ## 過去の成績
 
-[220px](https://ja.wikipedia.org/wiki/ファイル:RKC_Waalwijk_Maandemakers_Stadion.JPG "wikilink") <timeline> ImageSize = width:800 height:60 PlotArea = left:10 right:10 bottom:30 top:10 TimeAxis = orientation:horizontal format:yyyy DateFormat = dd/mm/yyyy Period = from:01/01/1984 till:01/01/2018 ScaleMajor = unit:year increment:1 start:1984 Colors =
+[RKC_Waalwijk_Maandemakers_Stadion.JPG](https://ja.wikipedia.org/wiki/File:RKC_Waalwijk_Maandemakers_Stadion.JPG "fig:RKC_Waalwijk_Maandemakers_Stadion.JPG") <timeline> ImageSize = width:800 height:60 PlotArea = left:10 right:10 bottom:30 top:10 TimeAxis = orientation:horizontal format:yyyy DateFormat = dd/mm/yyyy Period = from:01/01/1984 till:01/01/2021 ScaleMajor = unit:year increment:1 start:1984 Colors =
 
 ` id:bl1  value:rgb(0.5,0.8,0.5)`
 ` id:bl2  value:rgb(0.9,0.9,0.3)  `
@@ -89,6 +80,9 @@ PlotData=
 ` from:01/01/2015 till:01/01/2016  shift:(0,-4) text:18`
 ` from:01/01/2016 till:01/01/2017  shift:(0,-4) text:10`
 ` from:01/01/2017 till:01/01/2018  shift:(0,-4) text:18`
+` from:01/01/2018 till:01/01/2019  shift:(0,-4) text:8`
+` from:01/01/2019 till:01/01/2020  shift:(0,-4) text:18`
+` from:01/01/2020 till:01/01/2021  shift:(0,-4) text:`
 
 ` from:01/01/1984 till:01/01/1988 color:bl2  shift:(0,13)  text: "`[`Eerste``   ``Divisie`](../Page/エールステ・ディヴィジ.md "wikilink")`"`
 ` from:01/01/1988 till:01/01/2007 color:bl1  shift:(0,13)  text: "`[`Eredivisie`](../Page/エールディヴィジ.md "wikilink")`"`
@@ -96,45 +90,86 @@ PlotData=
 ` from:01/01/2009 till:01/01/2010 color:bl1  shift:(0,13)  text: "`[`Erediv.`](../Page/エールディヴィジ.md "wikilink")`"`
 ` from:01/01/2010 till:01/01/2011 color:bl2  shift:(0,13)  text: "`[`1e``   ``Div.`](../Page/エールステ・ディヴィジ.md "wikilink")`"`
 ` from:01/01/2011 till:01/01/2014 color:bl1  shift:(0,13)  text: "`[`Erediv.`](../Page/エールディヴィジ.md "wikilink")`"`
-` from:01/01/2014 till:01/01/2018 color:bl2  shift:(0,13)  text: "`[`1e``   ``Div.`](../Page/エールステ・ディヴィジ.md "wikilink")`"`
+` from:01/01/2014 till:01/01/2019 color:bl2  shift:(0,13)  text: "`[`1e``   ``Div.`](../Page/エールステ・ディヴィジ.md "wikilink")`"`
+` from:01/01/2019 till:01/01/2021 color:bl1  shift:(0,13)  text: "`[`Erediv.`](../Page/エールディヴィジ.md "wikilink")`"`
 
 </timeline>
 
 | シーズン    | ディビジョン                                           | [KNVBカップ](../Page/KNVBカップ.md "wikilink") |
 | ------- | ------------------------------------------------ | ---------------------------------------- |
-| リーグ     | 順位                                               | 試                                        |
-| 1988-89 | [エールディヴィジ](../Page/エールディヴィジ.md "wikilink")       | '''11位                                   |
-| 1989-90 | エールディヴィジ                                         | '''8位                                    |
-| 1990-91 | エールディヴィジ                                         | '''7位                                    |
-| 1991-92 | エールディヴィジ                                         | '''10位                                   |
-| 1992-93 | エールディヴィジ                                         | '''9位                                    |
-| 1993-94 | エールディヴィジ                                         | '''16位                                   |
-| 1994-95 | エールディヴィジ                                         | '''8位                                    |
-| 1995-96 | エールディヴィジ                                         | '''11位                                   |
-| 1996-97 | エールディヴィジ                                         | '''16位                                   |
-| 1997-98 | エールディヴィジ                                         | '''16位                                   |
-| 1998-99 | エールディヴィジ                                         | '''16位                                   |
-| 1999-00 | エールディヴィジ                                         | '''11位                                   |
-| 2000-01 | エールディヴィジ                                         | '''7位                                    |
-| 2001-02 | エールディヴィジ                                         | '''8位                                    |
-| 2002-03 | エールディヴィジ                                         | '''9位                                    |
-| 2003-04 | エールディヴィジ                                         | '''11位                                   |
-| 2004-05 | エールディヴィジ                                         | '''9位                                    |
-| 2005-06 | エールディヴィジ                                         | '''12位                                   |
-| 2006-07 | エールディヴィジ                                         | '''17位                                   |
-| 2007-08 | [エールステ・ディヴィジ](../Page/エールステ・ディヴィジ.md "wikilink") | '''2位                                    |
-| 2008-09 | エールステ・ディヴィジ                                      | '''2位                                    |
-| 2009-10 | エールディヴィジ                                         | '''18位                                   |
-| 2010-11 | エールステ・ディヴィジ                                      | '''1位                                    |
-| 2011-12 | エールディヴィジ                                         | '''9位                                    |
-| 2012-13 | エールディヴィジ                                         | '''14位                                   |
-| 2013-14 | エールディヴィジ                                         | '''16位                                   |
-| 2014-15 | エールステ・ディヴィジ                                      | '''20位                                   |
-| 2015-16 | エールステ・ディヴィジ                                      | '''18位                                   |
-| 2016-17 | エールステ・ディヴィジ                                      | '''10位                                   |
-| 2017-18 | エールステ・ディヴィジ                                      | '''18位                                   |
-| 2018-19 | エールステ・ディヴィジ                                      | '''8位                                    |
-| 2019-20 | エールディヴィジ                                         | '''位                                     |
+| リーグ     | 試                                                | 勝                                        |
+| 1988-89 | [エールディヴィジ](../Page/エールディヴィジ.md "wikilink")       | 34                                       |
+| 1989-90 | エールディヴィジ                                         | 34                                       |
+| 1990-91 | エールディヴィジ                                         | 34                                       |
+| 1991-92 | エールディヴィジ                                         | 34                                       |
+| 1992-93 | エールディヴィジ                                         | 34                                       |
+| 1993-94 | エールディヴィジ                                         | 34                                       |
+| 1994-95 | エールディヴィジ                                         | 34                                       |
+| 1995-96 | エールディヴィジ                                         | 34                                       |
+| 1996-97 | エールディヴィジ                                         | 34                                       |
+| 1997-98 | エールディヴィジ                                         | 34                                       |
+| 1998-99 | エールディヴィジ                                         | 34                                       |
+| 1999-00 | エールディヴィジ                                         | 34                                       |
+| 2000-01 | エールディヴィジ                                         | 34                                       |
+| 2001-02 | エールディヴィジ                                         | 34                                       |
+| 2002-03 | エールディヴィジ                                         | 34                                       |
+| 2003-04 | エールディヴィジ                                         | 34                                       |
+| 2004-05 | エールディヴィジ                                         | 34                                       |
+| 2005-06 | エールディヴィジ                                         | 34                                       |
+| 2006-07 | エールディヴィジ                                         | 34                                       |
+| 2007-08 | [エールステ・ディヴィジ](../Page/エールステ・ディヴィジ.md "wikilink") | 38                                       |
+| 2008-09 | エールステ・ディヴィジ                                      | 38                                       |
+| 2009-10 | エールディヴィジ                                         | 34                                       |
+| 2010-11 | エールステ・ディヴィジ                                      | 34                                       |
+| 2011-12 | エールディヴィジ                                         | 34                                       |
+| 2012-13 | エールディヴィジ                                         | 34                                       |
+| 2013-14 | エールディヴィジ                                         | 34                                       |
+| 2014-15 | エールステ・ディヴィジ                                      | 38                                       |
+| 2015-16 | エールステ・ディヴィジ                                      | 36                                       |
+| 2016-17 | エールステ・ディヴィジ                                      | 38                                       |
+| 2017-18 | エールステ・ディヴィジ                                      | 38                                       |
+| 2018-19 | エールステ・ディヴィジ                                      | 38                                       |
+| 2019-20 | エールディヴィジ                                         | 26                                       |
+| 2020-21 | エールディヴィジ                                         | 34                                       |
+
+## 欧州の成績
+
+<table>
+<thead>
+<tr class="header">
+<th><p>シーズン</p></th>
+<th><p>大会</p></th>
+<th><p>ラウンド</p></th>
+<th><p>対戦相手</p></th>
+<th><p>ホーム</p></th>
+<th><p>アウェー</p></th>
+<th><p>合計</p></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2000</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_2000" title="wikilink">UEFAインタートトカップ</a></p></td>
+<td><p>3回戦</p></td>
+<td><p><a href="../Page/ブラッドフォード・シティAFC.md" title="wikilink">ブラッドフォード・シティ</a></p></td>
+<td><p>0-1</p></td>
+<td><p>0-2</p></td>
+<td><p>'''0-3</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2001</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_2001" title="wikilink">UEFAインタートトカップ</a></p></td>
+<td><p>3回戦</p></td>
+<td><p><a href="../Page/TSV1860ミュンヘン.md" title="wikilink">1860ミュンヘン</a></p></td>
+<td><p>1-2</p></td>
+<td><p>1-3</p></td>
+<td><p>'''2-5</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+</tr>
+</tbody>
+</table>
 
 ## 現所属メンバー
 
@@ -167,6 +202,14 @@ PlotData=
   - [ルート・ブロート](https://ja.wikipedia.org/wiki/ルート・ブロート "wikilink") 2008-2012
 
   - [エルウィン・クーマン](../Page/エルウィン・クーマン.md "wikilink") 2012-2014
+
+  - [マーティン・コープマン](https://ja.wikipedia.org/wiki/マーティン・コープマン "wikilink") 2014-2015
+
+  - [ピーター・バン・デン・バーグ](https://ja.wikipedia.org/wiki/ピーター・バン・デン・バーグ "wikilink") 2015-2018
+
+  - [ハンス・デ・コニング](https://ja.wikipedia.org/wiki/ハンス・デ・コニング "wikilink") 2018
+
+  - [フレット・フリム](../Page/フレット・フリム.md "wikilink") 2018-
 
 ## 歴代所属選手
 

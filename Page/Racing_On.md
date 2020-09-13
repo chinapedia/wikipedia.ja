@@ -23,7 +23,7 @@
 
 ## 外部リンク
 
-  - [イデア](http://www.i-dea21.co.jp/)‐編集元
-  - [三栄書房](http://www.sun-a.com/index.html)‐発行元
+  - [イデア](http://www.i-dea21.co.jp/) - 編集元
+  - [三栄](http://www.sun-a.com/index.html) - 発行元
 
-[Category:日本の自動車雑誌](https://ja.wikipedia.org/wiki/Category:日本の自動車雑誌 "wikilink") [Category:日本のモータースポーツ](https://ja.wikipedia.org/wiki/Category:日本のモータースポーツ "wikilink") [Category:1986年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1986年創刊の雑誌 "wikilink")
+[Category:1986年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1986年創刊の雑誌 "wikilink") [Category:日本のモータースポーツ雑誌](https://ja.wikipedia.org/wiki/Category:日本のモータースポーツ雑誌 "wikilink")

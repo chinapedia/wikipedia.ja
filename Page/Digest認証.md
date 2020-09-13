@@ -1,7 +1,7 @@
 > この記事は[Digest認証](https://ja.wikipedia.org/wiki/Digest認証)から翻訳されています。
 
 
-**Digest認証**（ダイジェストにんしょう）とは、HTTPの認証方法の一つ。ユーザ名と[パスワード](../Page/パスワード.md "wikilink")を[MD5](../Page/MD5.md "wikilink")でハッシュ（ダイジェスト）化して送る。[Basic認証](../Page/Basic認証.md "wikilink")では防げなかった[盗聴](../Page/盗聴.md "wikilink")や[改竄](../Page/改竄.md "wikilink")を防ぐために考案された。
+**Digest認証**（ダイジェストにんしょう）とは、HTTPの認証方法（[HTTP認証](../Page/HTTP認証.md "wikilink")）の一つ。ユーザ名と[パスワード](../Page/パスワード.md "wikilink")を[MD5](../Page/MD5.md "wikilink")でハッシュ（ダイジェスト）化して送る。[Basic認証](../Page/Basic認証.md "wikilink")では防げなかった[盗聴](../Page/盗聴.md "wikilink")や[改竄](../Page/改竄.md "wikilink")を防ぐために考案された。
 
 ## 例
 
@@ -29,6 +29,7 @@
 
 ## 関連項目
 
+  - [HTTP認証](../Page/HTTP認証.md "wikilink")
   - [Basic認証](../Page/Basic認証.md "wikilink")
   - [MD5](../Page/MD5.md "wikilink")
 

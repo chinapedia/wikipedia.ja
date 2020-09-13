@@ -57,6 +57,7 @@
 <!-- end list -->
 
   - 初代[BJW認定ヘビー級王座](https://ja.wikipedia.org/wiki/BJW認定大日本ヘビー級王座 "wikilink")
+  - 第9代、14代[BJW認定タッグ王座](../Page/BJW認定タッグ王座.md "wikilink")
 
 <!-- end list -->
 

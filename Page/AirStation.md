@@ -16,4 +16,4 @@
 
   - [airstation.com](https://www.buffalo.jp/product/category/wireless-lan.html)
 
-[Category:Wi-Fi](https://ja.wikipedia.org/wiki/Category:Wi-Fi "wikilink") [Category:ネットワークハードウェア](https://ja.wikipedia.org/wiki/Category:ネットワークハードウェア "wikilink")
+[Category:Wi-Fi](https://ja.wikipedia.org/wiki/Category:Wi-Fi "wikilink") [Category:ネットワークハードウェア](https://ja.wikipedia.org/wiki/Category:ネットワークハードウェア "wikilink") [Category:メルコグループ](https://ja.wikipedia.org/wiki/Category:メルコグループ "wikilink")

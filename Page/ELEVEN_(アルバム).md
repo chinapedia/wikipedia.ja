@@ -1,7 +1,7 @@
 > この記事は[ELEVEN \(アルバム\)](https://ja.wikipedia.org/wiki/ELEVEN_\(アルバム\))から翻訳されています。
 
 
-『**ELEVEN**』(イレヴン)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の11作目の[オリジナル・アルバムである](../Page/スタジオ・アルバム.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")に[Rooms RECORDSよりリリース](../Page/VERMILLION_RECORDS.md "wikilink")。
+『**ELEVEN**』(イレヴン)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の11作目の[オリジナル・アルバムである](../Page/スタジオ・アルバム.md "wikilink")。2000年12月6日に[Rooms RECORDSよりリリース](../Page/VERMILLION_RECORDS.md "wikilink")。
 
 ## 概要
 
@@ -17,11 +17,11 @@
 
 2013年には松本が「B'zのNo.1アルバムは?」との問いに本作を挙げている\[6\]。
 
-[2018年](../Page/2018年.md "wikilink")に結成30周年記念として『[DINOSAUR](https://ja.wikipedia.org/wiki/DINOSAUR_\(B'zのアルバム\) "wikilink")』までのオリジナル・アルバムと共に[アナログレコード化された](../Page/レコード.md "wikilink")\[7\]。
+2018年に結成30周年記念として『[DINOSAUR](https://ja.wikipedia.org/wiki/DINOSAUR_\(B'zのアルバム\) "wikilink")』までのオリジナル・アルバムと共に[アナログレコード化された](../Page/レコード.md "wikilink")\[7\]。
 
 ## 制作
 
-本作はそれまでのアルバムとは異なり、発売時期を決めずに前年の『[B'z LIVE-GYM '99 "Brotherhood"](https://ja.wikipedia.org/wiki/LIVE-GYM_#1999年 "wikilink")』終了直後から日本でレコーディングを開始された。その後、1999年11月頃に1か月半[ロサンゼルス](../Page/ロサンゼルス.md "wikilink") (以下L.A.略)へ渡米し、現地の有名プロデューサー兼エンジニアで[Mr.Big](https://ja.wikipedia.org/wiki/Mr.Big "wikilink")等を手がけたパット・リーガン、[ガンズ・アンド・ローゼズ](https://ja.wikipedia.org/wiki/ガンズ・アンド・ローゼズ "wikilink")等を手がけたマイク・クリンク\[8\] と共同作業でレコーディングが行われ、歌詞はすべて英語詞で制作され、アレンジ等も外国人プロデューサーに全て委ねる方式がとられた。
+本作はそれまでのアルバムとは異なり、発売時期を決めずに前年の『[B'z LIVE-GYM '99 "Brotherhood"](https://ja.wikipedia.org/wiki/once_upon_a_time_in_横浜_〜B'z_LIVE_GYM'99_"Brotherhood"〜 "wikilink")』終了直後から日本でレコーディングを開始された。その後、1999年11月頃に1か月半[ロサンゼルス](../Page/ロサンゼルス.md "wikilink") (以下L.A.略)へ渡米し、現地の有名プロデューサー兼エンジニアで[Mr.Big等を手がけたパット](../Page/ミスター・ビッグ_\(アメリカのバンド\).md "wikilink")・リーガン、[ガンズ・アンド・ローゼズ](https://ja.wikipedia.org/wiki/ガンズ・アンド・ローゼズ "wikilink")等を手がけたマイク・クリンク\[8\] と共同作業でレコーディングが行われ、歌詞はすべて英語詞で制作され、アレンジ等も外国人プロデューサーに全て委ねる方式がとられた。
 
 2000年になり日本で制作が再開され、その後3月に再び渡米、現地のエンジニアのジム・シャンパンと共同作業で制作が行われた。その後、再び日本でもレコーディングが行われ、途中『[B'z The "Mixture"](../Page/B'z_The_"Mixture".md "wikilink")』のレコーディングや『[B'z LIVE-GYM Pleasure 2000 "juice"](https://ja.wikipedia.org/wiki/LIVE-GYM_#2000年 "wikilink")』を挟み、ツアーの頃は歌入れが少し残す程度でほぼ完成していた。
 

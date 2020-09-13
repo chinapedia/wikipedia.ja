@@ -5,20 +5,26 @@
 
 ## メンバー
 
-  - 白川貴善（ボーカル） - ストリートブランド「empire」を展開。現在は有限会社empireにてシューズブランドオルフィックを展開。ex.[THE MAD CAPSULE MARKETSのBs](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")/Vo/Pro の[TAKESHI UEDAのソロプロジェクトAA](../Page/上田剛士.md "wikilink")＝ではVoを務める。
-  - 小島真史（ボーカル）
-  - 田中仁（ギター）
-  - 篭橋俊樹（ベース）
-  - 有松益男（ドラムス） - 2005年11月脱退、2012年10月復帰。
+  - 白川貴善（ボーカル）通称タカ - ストリートブランド「empire」を展開。現在は有限会社empireにてシューズブランドオルフィックを展開。ex.[THE MAD CAPSULE MARKETSのBs](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")/Vo/Pro の[上田剛士](../Page/上田剛士.md "wikilink")のソロプロジェクト[AA=](https://ja.wikipedia.org/wiki/AA= "wikilink")ではVoを務める。メロディックハードコアバンド[NOSHOW](https://ja.wikipedia.org/wiki/NOSHOW "wikilink")でもVoを努めている。身長184cm。
+  - 小島真史（ボーカル）通称マサ -[広島県](../Page/広島県.md "wikilink")出身。すでに解散しているがパンクバンドWORDでもVoを勤めていた。高円寺にある立呑み居酒屋「千吉良屋」の店長でもある。アメリカの[スカパンク](https://ja.wikipedia.org/wiki/スカパンク "wikilink")バンド[サブライム](https://ja.wikipedia.org/wiki/サブライム "wikilink")の1stアルバムの日本版のライナーノーツを担当。
+  - 田中仁（ギター）通称ジン - 歌舞伎町発アイドルユニット[みんなのこどもちゃん](https://ja.wikipedia.org/wiki/みんなのこどもちゃん "wikilink")をプロデュースしている。
+  - 篭橋俊樹（ベース）通称トシ
+  - 有松益男（ドラムス） - [福岡県](../Page/福岡県.md "wikilink")出身。1972年12月23日生まれ。血液型B型。2005年11月脱退、2012年10月復帰。脱退中は[浅井健一](https://ja.wikipedia.org/wiki/浅井健一 "wikilink")、[照井利幸](../Page/照井利幸.md "wikilink")と[PONTIACS](https://ja.wikipedia.org/wiki/PONTIACS "wikilink")を結成していた。スカコアバンド[KEMURI](https://ja.wikipedia.org/wiki/KEMURI "wikilink")の1995年8月結成時の初代ドラマー。1995年12月/BACK DROP BOMBに加入。アコチルエリアにてドラム教室の講師を行なっている。
 
 ### 元メンバー
 
   - 武田将伯（ドラム） - 2009年加入・2012年10月脱退。
   - 寿千寿（ギター）
 
+### サポートメンバー
+
+  - 田村秀一（テナーサックス）通称シュウちゃん（元[SCAFULL KING](https://ja.wikipedia.org/wiki/SCAFULL_KING "wikilink")）
+
 ## 概要
 
-[ハードコア・パンク](../Page/ハードコア・パンク.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")、[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")、[スカ](../Page/スカ.md "wikilink")などの要素を融合させた楽曲を制作している。[DJ HASEBE](../Page/DJ_HASEBE.md "wikilink")、[DJ WATARAI](../Page/DJ_WATARAI.md "wikilink")、[FIRE BALL](../Page/FIRE_BALL_\(レゲエグループ\).md "wikilink")、[BRAHMAN](../Page/BRAHMAN.md "wikilink")との共演歴がある。
+[ハードコア・パンク](../Page/ハードコア・パンク.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")、[ファンク](../Page/ファンク.md "wikilink")、[黒人音楽](https://ja.wikipedia.org/wiki/黒人音楽 "wikilink")、[メタル](../Page/ヘヴィメタル.md "wikilink")、[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")、[スカ](../Page/スカ.md "wikilink")、[電子音楽](../Page/電子音楽.md "wikilink")などの要素を融合させた楽曲を制作している[ミクスチャー・ロック](../Page/ミクスチャー・ロック.md "wikilink")、 [ラップロック](https://ja.wikipedia.org/wiki/ラップロック "wikilink")、[ラップコア](https://ja.wikipedia.org/wiki/ラップコア "wikilink")、[ラップメタル](https://ja.wikipedia.org/wiki/ラップメタル "wikilink")バンド。ボーカルはツインボーカル、もしくは2MC体制。[DJ HASEBE](../Page/DJ_HASEBE.md "wikilink")、[DJ WATARAI](../Page/DJ_WATARAI.md "wikilink")、[FIRE BALL](../Page/FIRE_BALL_\(レゲエグループ\).md "wikilink")、[BRAHMAN](../Page/BRAHMAN.md "wikilink")、[HUSKING BEEなどのアーティストとの共演歴がある](../Page/HUSKING_BEE.md "wikilink")。[AIR JAM](https://ja.wikipedia.org/wiki/AIR_JAM "wikilink")98、及び[AIR JAM](https://ja.wikipedia.org/wiki/AIR_JAM "wikilink")2000への出演歴があり、[AIR JAM](https://ja.wikipedia.org/wiki/AIR_JAM "wikilink")2000ではトップバッターを務めた。
+
+BACK DROP BOMBのバンド名の由来は、サポートメンバーの田村秀一の前にサックスでメンバーがいて、そのメンバーが決めたことだから、他のメンバーは由来を知らないという。（小島真史談）（VHS LIVE and DIRECTより）。
 
 ## ディスコグラフィー
 

@@ -17,7 +17,6 @@
   - 放送開始から2011年9月まではレコメン\!』月曜版内で火曜日0時～0時半の間の放送だったが、2011年10月より『レコメン\!』火曜版内の水曜日0時～0時半の間の放送に変更となった。
   - 2014年4月1日より開始されたradikoプレミアムのエリアフリー聴取及び2016年10月11日から開始されたradikoタイムフリー聴取では当初は配信されず、2018年4月4日放送分より配信されるようになった。
   - 現在、コーナーは「ふつおた」のみとなっている。
-  - 2018年6月7日に発覚した小山慶一郎の不祥事により小山が芸能活動を自粛後の同年6月13日放送は休止し、同年6月20日放送・27日放送は増田貴久が1人でゲストなしで代役を務めた。同年6月20日放送では増田が小山の不祥事について謝罪した。同年6月27日に小山が芸能活動再開を発表し、出演再開後の同年7月4日放送は小山が自身の不祥事について謝罪し、2回代役を務めた増田についても言及した。この日は小山が1人でゲストなしで出演した。同年7月11日放送から、小山とゲストの2人での出演を再開した。
 
 「過去にあったコーナー」
 
@@ -101,7 +100,7 @@
 
 ## NEWSのParty Time
 
-『**NEWSのParty Time**』（ニュースのパーティー･タイム）は、『KちゃんNEWS』の前身となるラジオ番組。文化放送『レコメン\!』月曜版内で、日本時間の隔週火曜日0時台に放送された。小山慶一郎がパーソナリティを務め、NEWSのメンバーが1人ずつゲストとして登場し番組を進めていく形式は、『KちゃんNEWS』に受け継がれる。2005年3月22日に終了した。
+『**NEWSのParty Time**』（ニュースのパーティー･タイム）は、『KちゃんNEWS』の前身となるラジオ番組。2004年11月8日深夜24時より開始。文化放送『レコメン\!』月曜版内で、日本時間の隔週火曜日0時台に放送された。小山慶一郎がパーソナリティを務め、NEWSのメンバーが1人ずつゲストとして登場し番組を進めていく形式は、『KちゃんNEWS』に受け継がれる。2005年3月22日に終了した。
 
 番組タイトルはシングル『[チェリッシュ](../Page/チェリッシュ_\(NEWSの曲\).md "wikilink")』に収録される、「Party Time」という楽曲から取った。同曲は番組のテーマソングとして使用された。
 
@@ -126,4 +125,4 @@
 
   - [KちゃんNEWS](http://www.joqr.co.jp/reco/programs/knews.html)
 
-[Category:文化放送の深夜ラジオ番組](https://ja.wikipedia.org/wiki/Category:文化放送の深夜ラジオ番組 "wikilink") [Category:レコメン\!](https://ja.wikipedia.org/wiki/Category:レコメン! "wikilink") [Category:小山慶一郎](https://ja.wikipedia.org/wiki/Category:小山慶一郎 "wikilink") [Category:NEWS](https://ja.wikipedia.org/wiki/Category:NEWS "wikilink") [Category:ジャニーズ関連の放送番組](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連の放送番組 "wikilink")
+[Category:文化放送の深夜ラジオ番組](https://ja.wikipedia.org/wiki/Category:文化放送の深夜ラジオ番組 "wikilink") [Category:レコメン\!](https://ja.wikipedia.org/wiki/Category:レコメン! "wikilink") [Category:小山慶一郎](https://ja.wikipedia.org/wiki/Category:小山慶一郎 "wikilink") [Category:NEWS](https://ja.wikipedia.org/wiki/Category:NEWS "wikilink") [Category:ジャニーズ関連の放送番組](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連の放送番組 "wikilink") [Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink")

@@ -474,7 +474,7 @@ UMCK-1391:通常盤</p></td>
 
 ## 外部リンク
 
-  - [WISE UNIVERSAL MUSIC OFFICIAL SITE](http://www.universal-music.co.jp/wise/) ユニーバーサル・ミュージックによる公式サイト
+  - [WISE UNIVERSAL MUSIC OFFICIAL SITE](https://www.universal-music.co.jp/wise/) ユニーバーサル・ミュージックによる公式サイト
   - [WISEオフィシャルブログ「WISE BLOG」](https://ameblo.jp/worldwidewise/)
 
 [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:名古屋市出身の人物](https://ja.wikipedia.org/wiki/Category:名古屋市出身の人物 "wikilink") [Category:1979年生](https://ja.wikipedia.org/wiki/Category:1979年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

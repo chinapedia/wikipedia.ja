@@ -43,9 +43,23 @@ F-35の海軍向けのC型が、初期作戦能力獲得を宣言したのは201
 
 ニミッツ級空母の最終艦｢[ジョージ･H･W･ブッシュ](../Page/ジョージ・H・W・ブッシュ_\(空母\).md "wikilink")｣の建造費は62億ドル（約6800億円）だった。これに対して、「電磁式航空機発射システム（EMALS）」や、「新型着艦制動装置“**A**dvanced **A**rresting **G**ear”（AAG）｣、「先進型兵器エレベーター“**A**dvanced **W**eapons **E**levators”（AWE）」の開発遅延のおかげで、実戦任務への投入が2年遅れ、2019年1月時点での建造費用は130億ドル（約1兆4,000億円）を越え、ニミッツ級2隻分の費用となっている。
 
-## 脚注
+## 第8空母航空団
 
-<references/>
+第8空母航空団（Carrier Air Wing 8, CVW-8）は、ジェラルド・フォード（CVN-78）に艦載される航空団。
+
+| 飛行隊名                       | 通称名                         | 使用機種                                                                          |
+| -------------------------- | --------------------------- | ----------------------------------------------------------------------------- |
+| 第37戦闘攻撃飛行隊(VFA-37)         | 『ブルズ *Bulls*』               | [F/A-18E](https://ja.wikipedia.org/wiki/F/A-18E/F_\(航空機\) "wikilink")         |
+| 第213戦闘攻撃飛行隊(VFA-213)       | 『ブラック・ライオンズ *Black Lions*』  | [F/A-18F BlockII](https://ja.wikipedia.org/wiki/F/A-18E/F_\(航空機\) "wikilink") |
+| 第97戦闘攻撃飛行隊(VFA-97)         | 『ウォーホークス *Warhawks*』        | [F/A-18E](https://ja.wikipedia.org/wiki/F/A-18E/F_\(航空機\) "wikilink")         |
+| 第34戦闘攻撃飛行隊(VFA-34)         | 『ブルー・ブラスターズ*Blue Blasters*』 | [F/A-18E BlockII](https://ja.wikipedia.org/wiki/F/A-18E/F_\(航空機\) "wikilink") |
+| 第\*\*\*電子攻撃飛行隊(VAQ-\*\*\*) | 2020年8月時点で指定飛行隊無し           | [EA-18G](https://ja.wikipedia.org/wiki/EA-18G_\(航空機\) "wikilink")             |
+| 第124早期警戒飛行隊(VAW-124)       | 『ベア・エーセス *Bear Aces*』       | [E-2C+II(C)](../Page/E-2_\(航空機\).md "wikilink")                               |
+| 第9ヘリコプター海上作戦飛行隊 (HSC-9)    | 『トライデンツ *Tridents*』         | [MH-60S](../Page/SH-60_シーホーク.md "wikilink")                                   |
+| 第70ヘリコプター海洋攻撃飛行隊(HSM-70)   | 『スパルタンズ *Spartans*』         | [MH-60R](../Page/SH-60_シーホーク.md "wikilink")                                   |
+| 第40艦隊後方支援飛行隊(VRC-40)       | 『ローハイズ *Rawhides*』          | [C-2A](../Page/C-2_\(航空機・アメリカ\).md "wikilink")                                |
+
+## 脚注
 
 ## 外部リンク
 

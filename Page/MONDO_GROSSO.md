@@ -1,7 +1,7 @@
 > この記事は[MONDO GROSSO](https://ja.wikipedia.org/wiki/MONDO_GROSSO)から翻訳されています。
 
 
-**MONDO GROSSO**（モンド・グロッソ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[バンドで](../Page/バンド_\(音楽\).md "wikilink")、[大沢伸一](../Page/大沢伸一.md "wikilink")のソロプロジェクト。バンド名は[イタリア語](../Page/イタリア語.md "wikilink")で、「大きな世界」という意味。楽曲のジャンルは[クラブ・ミュージック](https://ja.wikipedia.org/wiki/クラブ・ミュージック "wikilink")が中心。[ジャズ](../Page/ジャズ.md "wikilink")、[ソウル](../Page/ソウルミュージック.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")、[ボサノヴァ](../Page/ボサノヴァ.md "wikilink")、[R\&B等](../Page/リズム・アンド・ブルース.md "wikilink")、その音楽性の幅はきわめて広く、対照的に[ハウスや](../Page/ハウス_\(音楽\).md "wikilink")[ブレイクビーツ](../Page/ブレイクビーツ.md "wikilink")、[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")といったデジタル音楽がベースの楽曲も数多い。
+**MONDO GROSSO**（モンド・グロッソ）は1993年に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のフォーライフ・レコードからデビューしレーベル移籍しつつ2006年まで日本の元[バンドとして活動した](../Page/バンド_\(音楽\).md "wikilink")。[大沢伸一](../Page/大沢伸一.md "wikilink")のソロプロジェクト。バンド名は[イタリア語](../Page/イタリア語.md "wikilink")で、「大きな世界」という意味。楽曲のジャンルは[クラブ・ミュージック](https://ja.wikipedia.org/wiki/クラブ・ミュージック "wikilink")が中心。[ジャズ](../Page/ジャズ.md "wikilink")、[ソウル](../Page/ソウルミュージック.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")、[ボサノヴァ](../Page/ボサノヴァ.md "wikilink")、[R\&B等](../Page/リズム・アンド・ブルース.md "wikilink")、その音楽性の幅はきわめて広く、対照的に[ハウスや](../Page/ハウス_\(音楽\).md "wikilink")[ブレイクビーツ](../Page/ブレイクビーツ.md "wikilink")、[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")といったデジタル音楽がベースの楽曲も数多い。
 
 ## メンバー
 
@@ -329,7 +329,7 @@ CTCR-14939(CD only)</p></td>
   - [SonyMusic公式HP](http://www.sonymusic.co.jp/Music/Info/MondoGrosso/)
   - [FEARLESS RECORDS 公式HP](http://www.fearlessrecords.jp/)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:フォーライフミュージックエンタテイメントのアーティスト](https://ja.wikipedia.org/wiki/Category:フォーライフミュージックエンタテイメントのアーティスト "wikilink") [Category:ソニー・ミュージックアソシエイテッドレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアソシエイテッドレコーズのアーティスト "wikilink") [Category:1991年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1991年に結成した音楽グループ "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:ソロプロジェクト](https://ja.wikipedia.org/wiki/Category:ソロプロジェクト "wikilink") [Category:フォーライフミュージックエンタテイメントのアーティスト](https://ja.wikipedia.org/wiki/Category:フォーライフミュージックエンタテイメントのアーティスト "wikilink") [Category:ソニー・ミュージックアソシエイテッドレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアソシエイテッドレコーズのアーティスト "wikilink") [Category:1991年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1991年に結成した音楽グループ "wikilink")
 
 1.
 2.

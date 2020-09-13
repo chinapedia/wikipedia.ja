@@ -1,7 +1,7 @@
 > この記事は[LAND IN ASIA](https://ja.wikipedia.org/wiki/LAND_IN_ASIA)から翻訳されています。
 
 
-『**LAND IN ASIA**』（ランド・イン・エイジア）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の[アジア](../Page/アジア.md "wikilink")地区限定の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。[1996年](../Page/1996年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")と[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")のレコード会社 (Cinepoly/Polygram)より共同で発売された。
+『**LAND IN ASIA**』（ランド・イン・エイジア）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の[アジア](../Page/アジア.md "wikilink")地区限定の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。[1996年](../Page/1996年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")と[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")のレコード会社 (Cinepoly/Polygram) より共同で発売された。
 
 ## 概要
 
@@ -17,10 +17,12 @@
 
 1.  **[シーソーゲーム 〜勇敢な恋の歌〜](../Page/シーソーゲーム_〜勇敢な恋の歌〜.md "wikilink")** \[4:29\]
       -
-        9thシングル。アルバム初収録。
+        9thシングル。
+        アルバム初収録。
 2.  **[Tomorrow never knows](../Page/Tomorrow_never_knows_\(Mr.Childrenの曲\).md "wikilink")** \[5:08\]
       -
-        6thシングル。アルバム初収録。その後に発売された6thアルバム『[BOLERO](../Page/BOLERO_\(Mr.Childrenのアルバム\).md "wikilink")』及び、[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[Mr.Children 1992-1995](../Page/Mr.Children_1992-1995.md "wikilink")』にはアルバムバージョンが収録されたため、シングルバージョンが収録されたのは本作のみとなっている。
+        6thシングル。
+        アルバム初収録。その後に発売された6thアルバム『[BOLERO](../Page/BOLERO_\(Mr.Childrenのアルバム\).md "wikilink")』及び、[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[Mr.Children 1992-1995](../Page/Mr.Children_1992-1995.md "wikilink")』にはアルバムバージョンが収録されたため、シングルバージョンが収録されたのは本作のみとなっている。
 3.  **Dance Dance Dance** \[4:57\]
       -
         4thアルバム『[Atomic Heart](../Page/Atomic_Heart.md "wikilink")』収録曲。
@@ -35,10 +37,12 @@
         4thアルバム『Atomic Heart』収録曲。
 7.  **[everybody goes -秩序のない現代にドロップキック-](https://ja.wikipedia.org/wiki/everybody_goes_-秩序のない現代にドロップキック- "wikilink")** \[4:36\]
       -
-        7thシングル。アルバム初収録。
+        7thシングル。
+        アルバム初収録。
 8.  **[【es】 〜Theme of es〜](../Page/【es】_〜Theme_of_es〜.md "wikilink")** \[5:49\]
       -
-        8thシングル。アルバム初収録。
+        8thシングル。
+        アルバム初収録。
 9.  **Round About 〜孤独の肖像〜** \[5:25\]
       -
         4thアルバム『Atomic Heart』収録曲。

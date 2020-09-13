@@ -41,6 +41,17 @@
   - 香港の歌手アンディ・ホイ許志安が1995年に発表したアルバム『荒廢的樂園』で、「完美的畫面」として、「CROSS ROAD」を広東語カバーした。
   - [山本潤子](../Page/山本潤子.md "wikilink") （2007年） - カヴァーアルバム『SONGS』に収録。
 
+## ライブ映像作品
+
+**CROSS ROAD**
+
+| 作品名                                                                                                                                 | 備考                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| [【es】 Mr.Children in FILM](../Page/【es】_Mr.Children_in_FILM.md "wikilink")                                                          | [ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")[映画](../Page/映画.md "wikilink")作品 |
+| [Mr.Children "HOME" TOUR 2007 -in the field-](https://ja.wikipedia.org/wiki/Mr.Children_"HOME"_TOUR_2007_-in_the_field- "wikilink") | キーを下げて演奏された                                                                |
+
+**and I close to you** **
+
 ## 収録アルバム
 
   - 『[Atomic Heart](../Page/Atomic_Heart.md "wikilink")』 (\#1)

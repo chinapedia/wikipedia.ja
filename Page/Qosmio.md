@@ -101,7 +101,7 @@
 <!-- end list -->
 
   -
-    F40/85Dを除く全機種で、業界で初めて、地上デジタルTVチューナーを2基搭載。これにより、放送時刻の重なった[地上デジタルの](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")2番組を同時に録画することが可能になった。また、HD DVD-Rドライブ搭載モデルを拡充し、新たにF40/88DBLにも搭載された。また最上位モデルであるG40/97Dは、同社の[ハイビジョン](../Page/ハイビジョン.md "wikilink")[液晶](../Page/液晶.md "wikilink")[テレビ](../Page/テレビ.md "wikilink")「[REGZA](https://ja.wikipedia.org/wiki/REGZA "wikilink")」（一部を除く2007年秋冬モデル以降の機種）と[HDMI](https://ja.wikipedia.org/wiki/HDMI "wikilink")ケーブルで接続し、テレビのリモコンでパソコンを操作することができるリンク機能「REGZA LINK（レグザリンク）」に対応。保存された映像や音楽、写真を鑑賞できるほか、[HD DVDや](../Page/HD_DVD.md "wikilink")[DVD](../Page/DVD.md "wikilink")ソフトの再生も可能。また再生や一時停止などの基本操作や電源ON/OFFもリモコン一つでできる。
+    F40/85Dを除く全機種で、業界で初めて、地上デジタルTVチューナーを2基搭載。これにより、放送時刻の重なった[地上デジタルの](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")2番組を同時に録画することが可能になった。また、HD DVD-Rドライブ搭載モデルを拡充し、新たにF40/88DBLにも搭載された。また最上位モデルであるG40/97Dは、同社の[ハイビジョン](../Page/ハイビジョン.md "wikilink")[液晶](../Page/液晶.md "wikilink")[テレビ](../Page/テレビ.md "wikilink")「[REGZA](../Page/レグザ.md "wikilink")」（一部を除く2007年秋冬モデル以降の機種）と[HDMI](https://ja.wikipedia.org/wiki/HDMI "wikilink")ケーブルで接続し、テレビのリモコンでパソコンを操作することができるリンク機能「REGZA LINK（レグザリンク）」に対応。保存された映像や音楽、写真を鑑賞できるほか、[HD DVDや](../Page/HD_DVD.md "wikilink")[DVD](../Page/DVD.md "wikilink")ソフトの再生も可能。また再生や一時停止などの基本操作や電源ON/OFFもリモコン一つでできる。
 
 <!-- end list -->
 

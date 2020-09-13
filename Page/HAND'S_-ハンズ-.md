@@ -1,9 +1,7 @@
 > この記事は[HAND\'S -ハンズ-](https://ja.wikipedia.org/wiki/HAND\'S_-ハンズ-)から翻訳されています。
 
 
-『**HAND'S -ハンズ-**』（ハンズ）は、[板倉雄一](https://ja.wikipedia.org/wiki/板倉雄一 "wikilink")原作の[ハンドボール](../Page/ハンドボール.md "wikilink")を題材とした[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[少年漫画](../Page/少年漫画.md "wikilink")作品。『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）にて2006年44号から2007年1号まで連載されていた、単行本は全1巻。
-
-また、読切として『[赤マルジャンプ](../Page/週刊少年ジャンプの増刊号.md "wikilink")』2005SUMMERと『週刊少年ジャンプ』2006年18号に掲載されている。
+『**HAND'S -ハンズ-**』（ハンズ）は、[板倉雄一](https://ja.wikipedia.org/wiki/板倉雄一 "wikilink")原作の[ハンドボール](../Page/ハンドボール.md "wikilink")を題材とした[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[少年漫画](../Page/少年漫画.md "wikilink")作品。『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）にて2006年44号から2007年1号まで連載された。単行本は全1巻。また、読切として『[赤マルジャンプ](../Page/週刊少年ジャンプの増刊号.md "wikilink")』2005SUMMERと『週刊少年ジャンプ』2006年18号に掲載されている。
 
 ## あらすじ
 
@@ -41,4 +39,6 @@
   - 読みきりで一定の評価を受け連載が始まったが、ハンドボール自体がマイナーなスポーツであった事や連載開始当初はハンドボールと無関係な内容が続いたことなどから人気を得られず、2004年14号に『[LIVE](../Page/LIVE_\(漫画\).md "wikilink")』が10週で打ち切られて以来、約3年ぶりの10週[打ち切り](../Page/打ち切り.md "wikilink")作品となった。この作品の終了直後に開始された『[神力契約者M\&Y](../Page/神力契約者M&Y.md "wikilink")』、『[重機人間ユンボル](../Page/重機人間ユンボル.md "wikilink")』も10週打ち切りとなっている。
   - 第一話で主人公の親が借金が原因で蒸発する、車で連れ去られたヒロインを主人公が助けるといった箇所などが[畑健二郎](../Page/畑健二郎.md "wikilink")の漫画『[ハヤテのごとく\!](../Page/ハヤテのごとく!.md "wikilink")』の第一話と酷似しており、読者の一部では盗作疑惑も囁かれた。
 
-[Category:漫画作品_は](https://ja.wikipedia.org/wiki/Category:漫画作品_は "wikilink") [Category:2006年の漫画](https://ja.wikipedia.org/wiki/Category:2006年の漫画 "wikilink") [Category:週刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年ジャンプの漫画作品 "wikilink") [Category:ハンドボール](https://ja.wikipedia.org/wiki/Category:ハンドボール "wikilink") [Category:球技を題材とした漫画](https://ja.wikipedia.org/wiki/Category:球技を題材とした漫画 "wikilink")
+## 脚注
+
+[Category:漫画作品_は](https://ja.wikipedia.org/wiki/Category:漫画作品_は "wikilink") [Category:2006年の漫画](https://ja.wikipedia.org/wiki/Category:2006年の漫画 "wikilink") [Category:週刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年ジャンプの漫画作品 "wikilink") [Category:ハンドボールを題材とした作品](https://ja.wikipedia.org/wiki/Category:ハンドボールを題材とした作品 "wikilink") [Category:球技を題材とした漫画](https://ja.wikipedia.org/wiki/Category:球技を題材とした漫画 "wikilink")

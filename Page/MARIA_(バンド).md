@@ -420,7 +420,7 @@ TATTSU
 
 ## 外部リンク
 
-  - [ランタイムミュージックエンタテインメント・オフィシャルサイト](http://www.runtime.co.jp/)
+  - [ランタイムミュージックエンタテインメント・オフィシャルサイト](https://www.runtime.co.jp/)
   - [MARIAオフィシャルサイト](http://www.maria-6.com/)（更新終了。）
   - [MARIA blog](http://6109.jp/MARIA/)（更新終了）
 

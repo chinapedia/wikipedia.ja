@@ -9,9 +9,7 @@
 
 2004年3月、横浜にて結成される。2007年2月、[Shibuya O-nestにて初のワンマンライブ](../Page/Shibuya_O-WEST.md "wikilink")。同年10月10日に、[シングル](../Page/シングル.md "wikilink")『Discommunication e.p.』で[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")（現在のEMI RECORDS）よりデビュー。[プロデューサーは](../Page/音楽プロデューサー.md "wikilink")、アルバム『[VAMPIRE](../Page/VAMPIRE_\(アルバム\).md "wikilink")』までは元[SUPERCAR](../Page/SUPERCAR.md "wikilink")の[いしわたり淳治](../Page/いしわたり淳治.md "wikilink")。以降はセルフプロデュース。
 
-バンド名の由来は[9mmパラベラム弾](https://ja.wikipedia.org/wiki/9mmパラベラム弾 "wikilink")より。名付け親のかみじょうが、数字を1つ入れたかったという事と、武器が好きで、日本刀や潜水艦の名前を付けようと思ったが、英語3語くらいで付けたほうがよいという事や、「9mm」を日本語で「キューミリ」と読ませるのは自分たちが日本男児である主張などという理由を語っているが、多くの説があるため明確ではない。菅原曰く、壁に貼ってある紙に書かれた「9mm Parabellum Bullet」という文字を、かみじょうがかっこいいと言ったから、とのこと。ちなみに、中村が加入したときには、既に現在のバンド名に落ち着いていた。なおbulletの標準的な英語発音は/bˈʊlɪt/であり、カナ表記すると「ブリット」に近い。
-
-リリースするCDの形式を[シングル](../Page/シングル.md "wikilink")と[E.P.で分けている](../Page/コンパクト盤.md "wikilink")。過去6作のE.P.を製作しており、そのうちメジャーデビュー以降に発表された4作は「表題曲1曲のほかに自らのライブ音源を収録し、カップリング曲は収録されない」という形式になっている。デモテープである『Talking Machine E.P.』、インディーズ時代にリリースされた 『[The World e.p.](https://ja.wikipedia.org/wiki/The_World_e.p. "wikilink")』は、「ミニ・アルバム」の形を取っている。
+バンド名の由来は文字通り[9mmパラベラム弾](https://ja.wikipedia.org/wiki/9mmパラベラム弾 "wikilink")から名付けた。名付け親のかみじょうが、数字を1つ入れたかったという事と、武器が好きで、日本刀や潜水艦の名前を付けようと思ったが、英語3語くらいで付けたほうがよいという事や、「9mm」を日本語で「キューミリ」と読ませるのは自分たちが日本男児である主張などという理由を語っているが、多くの説があるため明確ではない。菅原曰く、壁に貼ってある紙に書かれた「9mm Parabellum Bullet」という文字を、かみじょうがかっこいいと言ったから、とのこと。ちなみに、中村が加入したときには、既に現在のバンド名に落ち着いていた。なおbulletの標準的な英語発音は/bˈʊlɪt/であり、カナ表記すると「ブリット」に近い。
 
 ライブでの登場SEは[アタリ・ティーンエイジ・ライオット](../Page/アタリ・ティーンエイジ・ライオット.md "wikilink")の「Digital Hardcore」で、9mmメンバー選曲によるEPも発売されている。
 
@@ -19,18 +17,18 @@
 
 ### 菅原 卓郎
 
-**菅原 卓郎**（すがわら たくろう、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[7月19日](../Page/7月19日.md "wikilink") - ）Vo.\&Gt.。血液型[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[山形県](../Page/山形県.md "wikilink")[東田川郡](../Page/東田川郡.md "wikilink")[藤島町](../Page/藤島町.md "wikilink")（現・[鶴岡市](../Page/鶴岡市.md "wikilink")）出身。[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")および[作詞](../Page/作詞.md "wikilink")を担当（ライブでは、[マラカス](../Page/マラカス.md "wikilink")や[鈴](../Page/鈴.md "wikilink")も使用する）。
+**菅原 卓郎**（すがわら たくろう、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[7月19日](../Page/7月19日.md "wikilink") - ）Vo.\&Gt.。血液型[B型](../Page/ABO式血液型.md "wikilink")。[山形県](../Page/山形県.md "wikilink")[東田川郡](../Page/東田川郡.md "wikilink")[藤島町](../Page/藤島町.md "wikilink")（現・[鶴岡市](../Page/鶴岡市.md "wikilink")）出身。[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")および[作詞](../Page/作詞.md "wikilink")を担当（ライブでは、[マラカス](../Page/マラカス.md "wikilink")や[鈴](../Page/鈴.md "wikilink")も使用する）。
 
 #### 人物
 
-  - 2011年に一般女性と結婚。2014年には長女が誕生している。また、特徴的な髪型はアフロヘアーではなく天然パーマである。\[1\]。
+  - 2011年に一般女性と結婚。2014年には長女が誕生している。また、特徴的な髪型はアフロヘアーではなく天然パーマである\[1\]。
   - 趣味は読書で、[村上春樹](../Page/村上春樹.md "wikilink")や[太宰治](../Page/太宰治.md "wikilink")を愛読する。
   - [the pillows](https://ja.wikipedia.org/wiki/the_pillows "wikilink")、[BUMP OF CHICKENのファンであり](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")、中学・高校時代は[ラジオ](../Page/ラジオ.md "wikilink")でよく[BLANKEY JET CITYや](../Page/BLANKEY_JET_CITY.md "wikilink")[thee michelle gun elephantも聴いていたという](https://ja.wikipedia.org/wiki/thee_michelle_gun_elephant "wikilink")\[2\]。BUMP OF CHICKENは中学・高校時代に何度かライブに足を運んでいるほどのファンである。ギタリストとしてはthee michelle gun elephantの[アベフトシ](../Page/アベフトシ.md "wikilink")に影響を受けており、「アンプとギターと両手だけですべてを表現するというところに、今でもすごくあこがれがあります。\[3\]」と語っている。
   - 小さい頃は恥ずかしがり屋だったという。大学在学中、かみじょうに「声質が好き」という理由でバンドに誘われ、9mmに加入した。
   - グッズ等に使用されているキャラクター「キュ～ちゃん」の原案を作成した。
   - 2011年度の9mmの日、以降（2012年年越し等）ので行ったパートチェンジではベースを担当した。ボーカルはそのまま行っている。
   - 2014年度の武道館ライブに4人全員ドラムを演奏するパフォーマンスがあった。使用していたドラムスティックは、Zildjian かみじょうちひろ ドラムスティックモデル。
-  - ソロで弾き語りとしてイベントに出演することもあり、2015年・2017年には弾き語りツアーも行った。2017年にはバンド形式でのソロツアーも開催。
+  - ソロで弾き語りとしてイベントに出演することもあり、2015年・2017年には弾き語りツアーも行った。2017年と2018年にはバンド形式でのソロツアーも開催。
   - [GIGSにてコラム](https://ja.wikipedia.org/wiki/月刊ギグス "wikilink")「指板の上で逢いましょう」を2011年7月号～2015年6月号まで連載していた。
 
 #### ディスコグラフィー
@@ -194,8 +192,8 @@ Welcome! [Alexandros]</p></td>
   - レスポールタイプを使用するようになってから、かなり時間が経ってから発表した「生命のワルツ」をライブで演奏するときはSNAPPERを使用している。Bricoleurでは違うなと思っていたところ、ローディに相談してハムバッカーのストラトという意見を受けてSNAPPERを久々に取り出して採用に至った。
   - 自身の1つめのシグネチュア・モデルTYGは、SNAPPER時代のセッティングがモデルとなっている。ちなみにTYGは本人いわく「とっても・良い・ギター」の略。
   - 他に、999(アットブドウカン)で[METALLICA](https://ja.wikipedia.org/wiki/METALLICA "wikilink")のカバー曲「Motorbreath」の演奏時にはESPのTRUCKSTERを、10周年の武道館ライブで「Wild West Mustang」を演奏した時はFender Jonny Marr Jaguarを使用している。
-  - 自らの趣味として[ギブソンのサンバースト色フルアコアーチトップを所有している](../Page/ギブソン_\(楽器メーカー\).md "wikilink")。Movement YOKOHAMA以降のアンプラグドライブでは滝とアコギの演奏を披露した。ちなみに使用したアコギは菅原はGibsonのJ-50。当初はピエゾタイプのピックアップだったが、現在はホールの上に後付けされたピックアップを使用して音を出している。
-  - アンプにはこだわりがあり、マーシャル製のアンプを好んで使用する。Termination時代はFenderのアンプを使用していたが、マーシャルのアンプを購入したため、以降はライヴで使用している。購入前のPVでマーシャルを使用している作品はレンタルして臨んだとのこと。
+  - 自らの趣味として[ギブソンのサンバースト色フルアコアーチトップを所有している](../Page/ギブソン_\(楽器メーカー\).md "wikilink")。Movement YOKOHAMA以降のアンプラグドライブでは滝とアコースティックギターの演奏を披露した。ちなみに使用したアコースティックギターは菅原はGibsonのJ-50。当初はピエゾタイプのピックアップだったが、現在はホールの上に後付けされたピックアップを使用して音を出している。
+  - アンプはマーシャル製を好んで使用する。Termination時代はFenderのアンプを使用していたが、マーシャル購入以降はライヴで使用している。購入前のPVでマーシャルを使用している作品はレンタルして臨んだとのこと。
 
 :; 現ライヴ[ギター](../Page/ギター.md "wikilink")
 
@@ -241,23 +239,24 @@ Welcome! [Alexandros]</p></td>
 
 ### 滝 善充
 
-**滝 善充**（たき よしみつ、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[5月9日](../Page/5月9日.md "wikilink") - ）Gt.。血液型[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[茨城県](../Page/茨城県.md "wikilink")[北茨城市](../Page/北茨城市.md "wikilink")出身。[ギター](../Page/ギター.md "wikilink")、[コーラスおよび](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")[作曲](../Page/作曲.md "wikilink")を担当。
+**滝 善充**（たき よしみつ、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[5月9日](../Page/5月9日.md "wikilink") - ）Gt.。血液型[B型](../Page/ABO式血液型.md "wikilink")。[茨城県](../Page/茨城県.md "wikilink")[北茨城市](../Page/北茨城市.md "wikilink")出身。[ギター](../Page/ギター.md "wikilink")、[コーラスおよび](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")[作曲](../Page/作曲.md "wikilink")を担当。
 
 #### 人物
 
-  - [速弾き](../Page/速弾き.md "wikilink")や[タッピング](https://ja.wikipedia.org/wiki/タッピング "wikilink")などを駆使し、[いしわたり淳治](../Page/いしわたり淳治.md "wikilink")やメンバー、ファンからも「ギターの妖精」と呼ばれている\[5\]（髭を伸ばしていた時期があり、そのときは「ギターの仙人」と呼ばれていた）。
-  - 作曲の大半を担当している。メンバーの中では特にパフォーマンスが激しく、ギターを弾かずに踊ったりしている事も多々ある。パフォーマンスは人一倍激しいが、「メーカーやクラフトマンの方が丹精込めて作り上げた機材を粗末にするのは、その人たちに対してリスペクトが足りないということだ」という信念を持っており、機材を壊すほどのパフォーマンスをすることはない。しかし滝の激しい演奏から多少の傷がついてしまっているギターも多い。
-  - Movement YOKOHAMAでは、菅原と一緒に買いに行ったお揃いのJ-45（J-50の色違い）をメインに使っている。またアコギ以外にカズーやピアノも演奏している。MTV UnpluggedではJ-45ではなく、クラシックギターで演奏した。
-  - 2011年度の9mmの日、以降（2012年年越し等）で行ったパートチェンジではドラムを担当した。キーボードを披露したこともあった。
+  - [速弾き](../Page/速弾き.md "wikilink")や[タッピング](https://ja.wikipedia.org/wiki/タッピング "wikilink")などを駆使し、[いしわたり淳治](../Page/いしわたり淳治.md "wikilink")やメンバー、ファンからも「ギターの妖精」と呼ばれている\[5\]（髭を伸ばしていた時期は「ギターの仙人」と呼ばれていた）。
+  - 作曲の大半を担当している。メンバーの中では特にパフォーマンスが激しく、ギターを弾かずに踊ったりしている事も多々あるが、「メーカーやクラフトマンの方が丹精込めて作り上げた機材を粗末にするのは、その人たちに対してリスペクトが足りないということだ」という信念から、機材を壊すほどのパフォーマンスをすることはない。しかし激しい演奏により多少の傷がついてしまっているギターも多い。
+  - Movement YOKOHAMAでは、菅原と一緒に買いに行ったお揃いのJ-45（J-50の色違い）をメインに使っている。またアコースティックギター以外にカズーやピアノも演奏している。MTV UnpluggedではJ-45ではなく、クラシックギターで演奏した。
+  - 2011年度の9mmの日、以降（2012年年越し等）で行ったパートチェンジではドラムを担当した。キーボードを披露したこともある。
   - 2014年度の武道館ライブに4人全員ドラムを演奏するパフォーマンスがあった。使用していたドラムスティックは、ロックノッカータイプのPROMARK TXRKW。
-  - [エフェクター](../Page/エフェクター.md "wikilink")や[シールド](../Page/シールド.md "wikilink")を作るのが趣味。ライブでは自身のエフェクター技術を詰め込んだという[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")型[エフェクター](../Page/エフェクター.md "wikilink")「SUPER CHAOS」を始めとする自作エフェクターを多数使用している。制作の際、内蔵する精密部品さえ揃っていれば容れ物は何でもいいらしく、中には石鹸箱で作られたエフェクターなどもある。バンド初期は歪み中心であったが、滝のパートは単音リフが多くエフェクター無しだと音が切ないとのことで、ディレイとオクターバで音の厚みを増して演奏するのが最近のスタイルとなっている。また、イベントの際に開催された「9mm Parabellum Bullet福引」では特賞の景品として自身が制作したエフェクターを提供したこともある。GiGS本誌で「面白い筺体を使ってエフェクター製作をする」という企画から、送られてきた黄金のキョロちゃんを筺体にオートワウを製作し（しかし反応が遅いという理由でボードには載せておらず、アンプの上に飾られていた）、後に一般公募で選ばれたアイデア提供者に贈呈された。2019年には、8thアルバム『DEEP BLUE』発売に合わせ、菅原卓郎の誕生日に自作のブースター「DEEP BLUE Booster」をプレゼント。後に数量限定で¥17,700で抽選販売されている。
+  - [エフェクター](../Page/エフェクター.md "wikilink")や[シールド](../Page/シールド.md "wikilink")を作るのが趣味。ライブでは自身のエフェクター技術を詰め込んだという[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")型[エフェクター](../Page/エフェクター.md "wikilink")「SUPER CHAOS」を始めとする自作エフェクターを多数使用している。制作の際、内蔵する精密部品さえ揃っていれば容れ物は何でもよく、中には石鹸箱で作られたエフェクターなどもある。バンド初期は歪み中心であったが、滝のパートは単音リフが多く歪みだけでは音が切ないとのことで、ディレイとオクターバーで音の厚みを増して演奏するのが最近のスタイルとなっている。また、イベントの際に開催された「9mm Parabellum Bullet福引」では特賞の景品として自身が制作したエフェクターを提供したこともある。GiGS本誌で「面白い筺体を使ってエフェクター製作をする」という企画から、送られてきた黄金のキョロちゃんを筺体にオートワウを製作し（しかし反応が遅いという理由でボードには載せておらず、アンプの上に飾られていた）、後に一般公募で選ばれたアイデア提供者に贈呈された。2019年には、8thアルバム『DEEP BLUE』発売に合わせ、菅原卓郎の誕生日に自作のブースター「DEEP BLUE Booster」をプレゼント。後に数量限定で¥17,700で抽選販売されている。
   - 自身が影響を受けたバンドに[Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")、[eastern youthなどを挙げている](https://ja.wikipedia.org/wiki/eastern_youth "wikilink")\[6\]。
   - 2歳から中学2年まで[エレクトーン](../Page/エレクトーン.md "wikilink")を習っていた。
-  - 高校時代にはギターではなくドラムを担当していた。現在でもエアドラムを披露している姿がオフショット等に多く収められている。
-  - 実家は農家。『[COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 08/09』での代沢残響の出店や、Next Bullet Marks Tour 2014 [STUDIO COAST公演での](../Page/STUDIO_COAST.md "wikilink")『「生命のワルツ」抽選会』の景品\[7\]などに「滝家の米」を提供しており、2019年の『DEEP BLUE』ツアーでは正式にライブグッズとして(数量限定ではあるが)販売されている。\[8\]\[9\]また、田植え・稲刈りの時期になると帰省して家業を手伝うこともある。
+  - 高校時代にはドラムを担当していた。現在でもエアドラムを披露している姿がオフショット等に多く収められている。
+  - 実家は農家であり、田植え・稲刈りの時期になると帰省して家業を手伝うこともある。『[COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 08/09』での代沢残響の出店や、Next Bullet Marks Tour 2014 [STUDIO COAST公演での](../Page/STUDIO_COAST.md "wikilink")『「生命のワルツ」抽選会』の景品\[7\]などに「滝家の米」を提供しており、2019年の『DEEP BLUE』ツアーでは正式にライブグッズとして(数量限定ではあるが)販売されている\[8\]\[9\]。
   - 酒好きで特に[ビール](../Page/ビール.md "wikilink")と[いいちこ](https://ja.wikipedia.org/wiki/いいちこ "wikilink")を好む。いいちこ好きが縁となり、[三和酒類](../Page/三和酒類.md "wikilink")の協力の元、9mmといいちことのコラボ前掛け（非売品）が制作された。
   - ギター・マガジンにてコラム「またやっちゃいました。～世界の滝工房から～」連載中。
   - 9mm以外でも、ボカロP、[キングダムハーツ](https://ja.wikipedia.org/wiki/キングダムハーツ "wikilink")のトリビュートへの参加、ピエール中野（[凛として時雨](https://ja.wikipedia.org/wiki/凛として時雨 "wikilink")）ソロ作品への参加、サウンドクリエイターユニット「[ZiNG](https://ja.wikipedia.org/wiki/ZiNG "wikilink")」のメンバーとしてなど、積極的に音楽活動を行っている。
+  - 2016年11月9日、腕の不調のためライブ活動を当面中止し、バンドのライブ活動はサポートメンバーを迎えて行うことを発表。
 
 #### プロデュース活動
 
@@ -325,11 +324,11 @@ Welcome! [Alexandros]</p></td>
 #### 使用機材
 
   - 現在のメインはEdwards KarmasterとEdwards Ultratone SE proto typeの2つ。Karmasterはジャズマスターと同じXJシェイプで今までの滝モデルと異なり、極薄ボディのギターである。薄さを追求したため、シールドプラグやボリュームノブがブリッジからストラップピンに間に配置している。ピックアップはネック・ブリッジともにToneZoneを付けている。Ultratone SEについては初期型のボディにSUFFERのネックを付けており、ドロップDの曲は持ち替えて演奏している。両機のロゴは滝の趣味でEDWARDS Platinum Editionとなっている。
-  - 以前のメインは、[ESPのSNAPPER](../Page/イーエスピー.md "wikilink")、及びそれを基にした本人モデルのESP SUFFERを使用している。見た目はラージヘッドのSNAPPERだが、演奏性よりも耐久性を重視しており、滝の激しい演奏に耐えられるように内部構造から外装まで全面的に強化されていて並大抵のことで壊れることはない。その他のこだわりとしては、初期のSNAPPERより搭載している[ディマジオ](../Page/ディマジオ.md "wikilink")製のハムバッカーピックアップのToneZoneが特徴である。最近使用している黒SUFFERのメイプル指板のピックアップを交換して色々試しているとのこと。最近はセイモアダンカンの78 Model Humbucker(EVH)モデルを使用していたが、結局ToneZoneを使用している模様である。
-  - SUFFERは複数所持しており、市販のシグネチュアモデルと同様の家具フィニッシュボディーにテストモデルで使用していたローズウッド指板（SUFFERロゴなし）と、シグネチュアモデルとなったメイプル指板（SUFFERロゴあり）を筆頭に、木目の見えない漆黒のSUFFERをメイプル、ローズウッド指板をそれぞれ1本ずつ、Edwards製SUFFERをマーブルフィニッシュしたものなどをライブやレコーディングで使用している。SUFFERのプロトモデルである、2009年9月9日に[日本武道館](../Page/日本武道館.md "wikilink")で行われた「999＜アットブドウカン＞」まで使用していた黒い木目の見えるSNAPPERは「非常にいい音になっているのでこれからはレコーディングのみに使う」と「Revolutionary」のバンドスコアとGIGSでコメントしている。ライブでは使用しているところを見ないが、バスウッド製のリバースヘッドのSUFFERや中古楽器屋で見つけたSufferの1PUオーダーモデルも存在しており、ライブ以外のイベントやレコーディングで持参している。ペグがオリジナルのSUFFERと異なる。
+  - 以前は[ESPのSNAPPER](../Page/イーエスピー.md "wikilink")、及びそれを基にした本人モデルのESP SUFFERをメインに使用していた。見た目はラージヘッドのSNAPPERだが、演奏性よりも耐久性を重視しており、滝の激しい演奏に耐えられるように内部構造から外装まで全面的に強化されていて並大抵のことで壊れることはない。その他のこだわりとしては、初期のSNAPPERより搭載している[ディマジオ](../Page/ディマジオ.md "wikilink")製のハムバッカーピックアップのToneZoneが特徴である。最近使用している黒SUFFERのメイプル指板のピックアップを交換して色々試しているとのこと。最近はセイモアダンカンの78 Model Humbucker(EVH)モデルを使用していたが、結局ToneZoneを使用している模様である。
+  - SUFFERは複数所持しており、市販のシグネチュアモデルと同様の家具フィニッシュボディーにテストモデルで使用していたローズウッド指板（SUFFERロゴなし）と、シグネチュアモデルとなったメイプル指板（SUFFERロゴあり）を筆頭に、木目の見えない漆黒のSUFFERをメイプル、ローズウッド指板をそれぞれ1本ずつ、Edwards製SUFFERをマーブルフィニッシュしたものなどをライブやレコーディングで使用している。SUFFERのプロトモデルにあたる黒い木目の見えるSNAPPERは、2009年9月9日に[日本武道館](../Page/日本武道館.md "wikilink")で行われた「999＜アットブドウカン＞」まで使用していたが、「非常にいい音になっているのでこれからはレコーディングのみに使う」と「Revolutionary」のバンドスコアとGIGSでコメントしている。ライブでは使用しているところを見ないが、バスウッド製のリバースヘッドのSUFFERや中古楽器屋で見つけたSufferの1PUオーダーモデルも所持しており、ライブ以外のイベントやレコーディングで持参している。ペグがオリジナルのSUFFERと異なる。
   - レコーディングでは、サウンドバラエティに富んで収録するため、複数のギターやアンプを使用する。ただし、ベーシックパートにはSUFFERプロトモデルのSNAPPERがメインとして使用することが主である。「Dawning」からは、かつて使用していたBRONDのSNAPPERを3Sに改造してベーシックパートの収録に使用している。過去には個人で所有するFender MUSTANG '73やESPからULTRATONE-SLをレンタルしていたこともある。
-  - ESPのMAX CAVALERA AXは[METALLICA](https://ja.wikipedia.org/wiki/METALLICA "wikilink")のカバー曲である「Motorbreath」や「Revolutionary」のレコーディングで使用された。ライブで「カモメ」の演奏時は菅原の所有するESP TRUCKSTERを使用する。「生命のワルツ」ではヌンチャク 溝口和紀（Gt）から借りている初期型のULTRATONEを使用する。いずれのギターも元々パワーのあるSUFFERよりも更にパワーが必要になった時に使用することを基準に置いている。
-  - 「Living Dying Message」のPVでは、砂上での撮影になるため、故障を回避するためにライヴ用の機材ではなくESPからPOTBELLYとVOXのアンプをレンタルしたこともある。本人は「(実際の演奏で)VOXなんて使った事もない」と発言。
+  - ESPのMAX CAVALERA AXは[METALLICA](https://ja.wikipedia.org/wiki/METALLICA "wikilink")のカバー曲である「Motorbreath」や「Revolutionary」のレコーディングで使用された。ライブで「カモメ」の演奏時は菅原の所有するESP TRUCKSTERを使用する。「生命のワルツ」ではヌンチャク 溝口和紀（Gt）から借りている初期型のULTRATONEを使用する。いずれのギターも元々パワーのあるSUFFERよりも更にパワーが必要な時に使用することを基準に置いている。
+  - 「Living Dying Message」のPVでは、砂上での撮影だったため、自身の機材の故障を回避するためにESPからPOTBELLYとVOXのアンプをレンタルした。本人は「(実際の演奏で)VOXなんて使った事もない」と発言。
 
 :; 現ライヴ[ギター](../Page/ギター.md "wikilink")
 
@@ -437,11 +436,11 @@ Welcome! [Alexandros]</p></td>
 
 ### 中村 和彦
 
-**中村 和彦**（なかむら かずひこ、[1984年](../Page/1984年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink") - ）Ba.。血液型[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")出身。[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[シャウト](https://ja.wikipedia.org/wiki/叫び "wikilink")、一部[作曲](../Page/作曲.md "wikilink")も担当。
+**中村 和彦**（なかむら かずひこ、[1984年](../Page/1984年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink") - ）Ba.。血液型[B型](../Page/ABO式血液型.md "wikilink")。[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")出身。[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[シャウト](https://ja.wikipedia.org/wiki/叫び "wikilink")、一部[作曲](../Page/作曲.md "wikilink")も担当。
 
 #### 人物
 
-  - 大学時代は菅原、滝より一年後輩であり、9mmに加入したのもメンバー中で最後だった。初めは中村以外のメンバーだけで活動していたが、さすがにベースなしでは寂しいということになり、菅原が電話で直接中村に加入交渉をした。
+  - 大学時代は菅原、滝より1年後輩であり、9mmに加入したのもメンバー中で最後だった。初めは中村以外のメンバーだけで活動していたが、さすがにベースなしでは寂しいということになり、菅原が電話で直接中村に加入交渉をした。
   - ライブでは、ベースを寝かせ琴のように弾いたり(残響record CompilationのCMでも同じようなことをしていた)、スティックでベースを弾いたり、ベースを投げ捨てシンバルを叩きに行ったりする。滝に影響され、激しいライブパフォーマンスを始めた。
   - ライブで、かみじょうのドラムセットの後ろに[銅鑼](https://ja.wikipedia.org/wiki/銅鑼 "wikilink")が設置されていると、ライブの終盤あたりで必ずと言っていいほど叩き、その回数はかみじょうよりも多い。そのため、本人は、CDなどの自分のクレジットに銅鑼を追加してほしい、と言っている。
   - 2011年度の9mmの日、以降（2012年年越し等）で行ったパートチェンジではリズムギター（菅原パート）を担当した。
@@ -450,7 +449,7 @@ Welcome! [Alexandros]</p></td>
 #### 使用機材
 
   - 現在のメインはPJタイプの無題に酷似したベースを用いている。ピックガード搭載を希望したため、プリアンプのノブ等の配置を無題とは変更している。
-  - 以前のメインは、[ESPのAP](../Page/イーエスピー.md "wikilink")、及びそれを基にした本人モデルのESP 無題を使用している。いずれのベースも、四弦のペグがHIPSHOTのBASS XTENDER KEYになっている（9mmの楽曲にドロップDチューニングを用いた楽曲や変調する楽曲が多く、ライヴ時に素早くチューニングを変更するため）。また、「無題」プロトモデルのAP CUSTOMとシグネチュア・モデルでは、ボディの材質に違いがある（プロトモデルは試験的にアルダー、シグネチュア・モデルは重いホワイトアッシュ）。他にもこだわりとして、トラブルを防ぐために出力ジャックをボディートップに配置している。またボディは通常規格の機材より重くし、プリアンプにはESP CINNAMONを内蔵、軽いペグを使用することによって重心がボディー側に寄るようにセッティングしている（シグネチュア・モデルが出来上がる前のAP CUSTOMには、重心をボディー側に寄せるためにボディー裏に鉛の板を貼り付けていた）。これは自身のパフォーマンスのためのものであって、ネックから手を離してもボディ側が上がらないようにするためである。なお、「無題」プロトタイプのAP CUSTOMはVAMPIRE EMPIRE TOUR08/09から使用し、「無題」は日本武道館公演時より使用している。現在「無題」は複数所持している。市販と同じモデルは指板が異っているが、それ以外の差異はない。他には、反逆のマーチ発表くらいから指板がローズウッドで黒のマッチングヘッドとネック裏が黒に塗装されて、ゴールドパーツを使用した無題も存在する。また名称は不明だが、同じく黒のボディにローズウッド指板でPJタイプのベースも存在している。このベースは2013年度のライブからしばしばライブで使用している。
+  - 以前のメインは、[ESPのAP](../Page/イーエスピー.md "wikilink")、及びそれを基にした本人モデルのESP 無題を使用している。いずれのベースも、4弦のペグがHIPSHOTのBASS XTENDER KEYになっている（9mmの楽曲にドロップDチューニングを用いた楽曲や変調する楽曲が多く、ライヴ時に素早くチューニングを変更するため）。また、「無題」プロトモデルのAP CUSTOMとシグネチュア・モデルでは、ボディの材質に違いがある（プロトモデルは試験的にアルダー、シグネチュア・モデルは重いホワイトアッシュ）。他にもこだわりとして、トラブルを防ぐために出力ジャックをボディートップに配置している。またボディは通常規格の機材より重くし、プリアンプにはESP CINNAMONを内蔵、軽いペグを使用することによって重心がボディー側に寄るようにセッティングしている（シグネチュア・モデルが出来上がる前のAP CUSTOMには、重心をボディー側に寄せるためにボディー裏に鉛の板を貼り付けていた）。これは自身のパフォーマンスのためのものであって、ネックから手を離してもボディ側が上がらないようにするためである。なお、「無題」プロトタイプのAP CUSTOMはVAMPIRE EMPIRE TOUR08/09から使用し、「無題」は日本武道館公演時より使用している。現在「無題」は複数所持している。市販と同じモデルは指板が異っているが、それ以外の差異はない。他には、反逆のマーチ発表の頃から指板がローズウッドで黒のマッチングヘッドとネック裏が黒に塗装されて、ゴールドパーツを使用した無題も存在する。また名称は不明だが、同じく黒のボディにローズウッド指板でPJタイプのベースも存在している。このベースは2013年度のライブからしばしばライブで使用している。
 
 本人曰く、「見分けをつけるため」とのこと。
 
@@ -459,7 +458,7 @@ Welcome! [Alexandros]</p></td>
   - 「Finder」のレコーディング時にはアコースティックベースを用いたが、そのベースはレコーディング後「変な弾き方しないと音が出にくい」という理由によりGGTVのチャリティーオークションに出品された。Movement YOKOHAMA以降のアンプラグドライブでのアコースティックベースはYAMAHAからレンタルしている。
   - ライブで[METALLICA](https://ja.wikipedia.org/wiki/METALLICA "wikilink")のカバー曲「Motorbreath」を演奏した際、ESP XJ-CRYSTALを使用した。
   - レコーディングでは複数のベースを使い分けている。レコーディングのメインは無題プロトモデルのAP CUSTOMを使用し、曲調に合わせてAMAZE-CTMとPrecision Bass Typeを使用している。「Revolutionary」のレコーディングの時期より、ESP製Precision Bass Typeを導入している。「Movement」のレコーディングではさらにPUを交換、ESP CINNAMONも組み込まれる改造が施された。
-  - 「Living Dying Message」のPVでは、砂上での撮影になるため、故障を回避するためにライヴ用の機材ではなくESPから倉庫にあったという3トーンサンバーストのプレベをレンタルしたこともある。
+  - 「Living Dying Message」のPV撮影は砂上だったため、自身の機材の故障を回避するためESPから倉庫にあったという3トーンサンバーストのプレシジョンベースをレンタルした。
 
 :; 現ライヴ用[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
 
@@ -499,16 +498,16 @@ Welcome! [Alexandros]</p></td>
 
 ### かみじょうちひろ
 
-**かみじょうちひろ**（本名非公開、[1981年](../Page/1981年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink")\[10\] - /[1999年](../Page/1999年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")(仮)\[11\] - ）Dr.。血液型[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[長野県](../Page/長野県.md "wikilink")[上伊那郡](../Page/上伊那郡.md "wikilink")[辰野町](../Page/辰野町.md "wikilink")出身。[ドラムスと](../Page/ドラムセット.md "wikilink")[パーカッション](../Page/パーカッション.md "wikilink")を担当（自身が作曲した「3031」ではギターソロを務め、一部の曲ではコーラスの収録や作詞や作曲も手掛ける）。9mm Parabellum Bulletのリーダー。
+**かみじょうちひろ**（本名非公開、[1981年](../Page/1981年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink")\[10\] - /[1999年](../Page/1999年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")(仮)\[11\] - ）Dr.。血液型[O型](../Page/ABO式血液型.md "wikilink")。[長野県](../Page/長野県.md "wikilink")[上伊那郡](../Page/上伊那郡.md "wikilink")[辰野町](../Page/辰野町.md "wikilink")出身。[ドラムスと](../Page/ドラムセット.md "wikilink")[パーカッション](../Page/パーカッション.md "wikilink")を担当（自身が作曲した「3031」ではギターソロを務め、一部の曲ではコーラスの収録や作詞や作曲も手掛ける）。9mm Parabellum Bulletのリーダー。
 
 #### 人物
 
   - 工学部機械工学科、メンバー内で唯一の[大学院](https://ja.wikipedia.org/wiki/大学院 "wikilink")卒。
   - ライブでは、メンバー内で最も腰を落ち着けて演奏しているため、演奏の土台となっている。しかし、以前は3人と共に暴れていて、「Talking Machine」の[PVでは](../Page/ミュージック・ビデオ.md "wikilink")、フロアタムを持って寝ころんで叩いていた。
-  - 6歳から小学6年生の時まで、[エレクトーン](../Page/エレクトーン.md "wikilink")を習っていた。最初は、ギターを演奏したかったが、友人から「姉ちゃんがドラムだから、あんたもドラムでしょ」と言われたため、ドラマーに転向した。大学在学中、8～10ほどのバンドを掛け持ちし、そのうち1つのバンドでは、担当はドラムスではなく、ボーカルギターだった。
-  - 学生時代には大学の外でもバンドを組んでいたが、そのどれもが手伝いとしての参加だったので、自主的にバンドがしたいと思い立ち同じ大学の菅原と滝を誘って、9mm Parabellum Bulletの原型が出来た。インディーズの2ndアルバムの際は、就職してサラリーマンだった。
-  - 就職活動中には60社の採用試験に落ちた。
-  - バンド名の名付け親であるが、雑誌のインタビューなどでは「9mm Parabellum Bullet」の名前の理由を訊かれるとウソの理由を答える。（風呂に入っている時にふと思いついたから・祖父が戦場で銃で打たれて戦死し、その時の弾が[9mmパラベラム弾](https://ja.wikipedia.org/wiki/9mmパラベラム弾 "wikilink")だったからなど）。理由は、かみじょうが同じ質問に何度も答えているうちに飽き飽きし始めたから。
+  - 6歳から小学6年生の時まで、[エレクトーン](../Page/エレクトーン.md "wikilink")を習っていた。最初はギターを演奏したかったが、友人から「姉ちゃんがドラムだから、あんたもドラムでしょ」と言われたため、ドラマーに転向した。大学在学中は8～10ほどのバンドを掛け持ちし、そのうち1つのバンドではボーカルギターを担当していた。
+  - 学生時代には大学の外でもバンドを組んでいたが、そのどれもが手伝いとしての参加だったので、自主的にバンドがしたいと思い立ち同じ大学の菅原と滝を誘って、9mm Parabellum Bulletの原型が出来た。
+  - 就職活動中には60社の採用試験に落ちた。インディーズの2ndアルバムの際は、就職してサラリーマンだった。
+  - バンド名の名付け親であるが、雑誌のインタビューなどでは「9mm Parabellum Bullet」の名前の理由を訊かれるとウソの理由を答える（風呂に入っている時にふと思いついたから・祖父が戦場で銃で打たれて戦死し、その時の弾が[9mmパラベラム弾](https://ja.wikipedia.org/wiki/9mmパラベラム弾 "wikilink")だったからなど）。理由は、かみじょうが同じ質問に何度も答えているうちに飽き飽きし始めたから。
   - 生まれてから自身の血液型がA型だと思っていたが、献血に行った際にO型であると判明した事を2011年12月24日付の公式ブログで記している\[12\]。
   - 2011年度の9mmの日、以降（2012年年越し等）で行ったパートチェンジではリードギター（滝パート）を担当し、ソロパートなどをこなした\[13\]。
   - 2013年、バンド結成9周年を盛り上げるために公式ブログを1年間毎日更新した。
@@ -528,7 +527,7 @@ Welcome! [Alexandros]</p></td>
 
   - インディーズ時代、メンバーからの要望でツインペダルを使いはじめ、現在はツーバスセッティング。色んな種類のドラムセットを触ったが、[Ludwig](https://ja.wikipedia.org/wiki/Ludwig "wikilink")のビスタライトが一番良かったらしく、2009年9月9日に[日本武道館](../Page/日本武道館.md "wikilink")で行われた「999＜アットブドウカン＞」まで使用していた。しかし「より音に対して貪欲になったため、見た目重視のビスタライトを使ってファッションで音楽するのは辞めた」という本人の意向もあり\[15\]、それ以降（レコーディングでは「Cold Edge」から、「命ノゼンマイ」は収録時期の違いによりビスタライト、ライブでは2009年9月20日に[Zepp Tokyoで行われた](https://ja.wikipedia.org/wiki/Zepp_Tokyo "wikilink")『[SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink") LIVE TOUR "YOUNG FLAG 09"』から）は[YAMAHA](https://ja.wikipedia.org/wiki/YAMAHA "wikilink")のドラムセット（Birch Custom Absolute / ブルー・アイス・スパークル）を使用していた。本人のネーミングは「青いデビル」。また10周年武道館からヤマハの最上位ドラムセットPHXを使用することになった。本人のネーミングは「青い不死鳥」。
   - ビスタライト、Birch Custom Absoluteは自身の所有するスタジオ（ちースタ）にあり、Birch Custom Absoluteは左利き用のセッティングとして設置されている。これは左半身の筋肉もまんべんなく鍛えるためであり、練習後は右利き用のセッティングがしてあるビスタライトを叩き、感覚を戻している。
-  - ドラムのセッティングにはこだわりがあり、左右対称にセットされている。そのため「自分のドラミングを真似ようと思ったら全部のタイコを2つずつ用意したほうがいい」と本人も語っている。
+  - ドラムセットは左右対称になるようセットされている。そのため「自分のドラミングを真似ようと思ったら全部のタイコを2つずつ用意したほうがいい」と語っている。
   - ジルジャンから出ているシグネチュア・モデルと同様のスペック、ジルジャンのUSヒッコリー製ウッドチップのスティックASJ2を愛用している。シグネチュアモデルを使用する前はジルジャンの3Aを使用していた。現在は使用していない。
   - 規模の大きな会場で、本人の気が向いた時にだけ背後に銅鑼が追加される。
   - Movement Moment Tour 2011のZepp Sapporo公演では試験的にYAMAHA SUB KICKも導入していた。
@@ -623,7 +622,7 @@ Welcome! [Alexandros]</p></td>
       - 6月27日 - [幕張メッセ](../Page/幕張メッセ.md "wikilink")にて2日間行われた、[LUNA SEA主催のロックフェス](../Page/LUNA_SEA.md "wikilink")「[LUNATIC FEST.](https://ja.wikipedia.org/wiki/LUNATIC_FEST. "wikilink")」の初日に出演\[16\]\[17\]。
   - **2016年**
       - 自主レーベル「Sazanga Records(サザンガレコーズ)」を軸とするリリースプロジェクトを始動。2014年5月に発足したレーベルで、Sazanga（サザンガ）”という名称は、「3×3=“9”」（サザンガ“キュー”）から付けられ、バンド名と同じくかみじょうちひろ（Dr）が命名した\[18\]。
-      - 11月9日、滝が[ジストニア](../Page/ジストニア.md "wikilink")の疑いなどによる腕の不調のためライブ活動を当面中止し、バンドのライブ活動はサポートメンバーを迎えて行うことを発表。アルバム制作活動は引き続き行われた。\[19\]
+      - 11月9日、滝が[ジストニア](../Page/ジストニア.md "wikilink")の疑いなどによる腕の不調のためライブ活動を当面中止し、バンドのライブ活動はサポートメンバーを迎えて行うことを発表。アルバム制作活動は引き続き行われた\[19\]。
   - **2018年**
       - 1月1日、9mmの楽曲をアコースティック中心にリアレンジを行うプロジェクトとして、菅原・中村・かみじょうのスリーピースによる「AC 9mm」の活動開始を発表\[20\]。また、ライブ活動を休止していた滝が徐々にライブへ復帰する事を発表した。その後、秋頃からは全てのライブに参加するようになった。
       - 5月28日、新曲「キャリーオン」の[MVを公開](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")\[21\]。同曲は映画『[ニート・ニート・ニート](https://ja.wikipedia.org/wiki/ニート・ニート・ニート "wikilink")』主題歌となった、また、[LINE MUSICでの無料配信も開始](https://ja.wikipedia.org/wiki/LINE_MUSIC "wikilink")\[22\]。
@@ -748,6 +747,14 @@ Welcome! [Alexandros]</p></td>
 <td><p>4回</p></td>
 </tr>
 <tr class="odd">
+<td><p>11</p></td>
+<td><p>2020年9月9日</p></td>
+<td><p>白夜の日々</p></td>
+<td><p>COCA-17780</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>EP</p></td>
 <td></td>
 <td></td>
@@ -755,7 +762,7 @@ Welcome! [Alexandros]</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1</p></td>
 <td><p>2007年10月10日</p></td>
 <td><p><a href="../Page/Discommunication_e.p..md" title="wikilink">Discommunication e.p.</a></p></td>
@@ -763,7 +770,7 @@ Welcome! [Alexandros]</p></td>
 <td><p>9位</p></td>
 <td><p>10回</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2</p></td>
 <td><p>2009年6月3日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Black_Market_Blues_e.p." title="wikilink">Black Market Blues e.p.</a></p></td>
@@ -771,7 +778,7 @@ Welcome! [Alexandros]</p></td>
 <td><p>5位</p></td>
 <td><p>8回</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3</p></td>
 <td><p>2009年9月30日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Cold_Edge_e.p." title="wikilink">Cold Edge e.p.</a></p></td>
@@ -779,7 +786,7 @@ Welcome! [Alexandros]</p></td>
 <td><p>5位</p></td>
 <td><p>6回</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4</p></td>
 <td><p>2011年9月7日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カモメ_e.p." title="wikilink">カモメ e.p.</a></p></td>
@@ -787,7 +794,7 @@ Welcome! [Alexandros]</p></td>
 <td><p>11位</p></td>
 <td><p>4回</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>配信</p></td>
 <td></td>
 <td></td>
@@ -795,7 +802,7 @@ Welcome! [Alexandros]</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1</p></td>
 <td><p>2014年9月10日</p></td>
 <td><p>生命のワルツ</p></td>
@@ -803,7 +810,7 @@ Welcome! [Alexandros]</p></td>
 <td><p>―</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Waltz_on_Life_Line" title="wikilink">Waltz on Life Line</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2</p></td>
 <td><p>2015年8月7日</p></td>
 <td><p>反逆のマーチ</p></td>
@@ -811,15 +818,15 @@ Welcome! [Alexandros]</p></td>
 <td><p>―</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3</p></td>
 <td><p>2018年5月28日</p></td>
 <td><p>キャリーオン</p></td>
 <td><p>―</p></td>
 <td><p>―</p></td>
-<td><p><a href="../Page/DEEP_BLUE_(アルバム).md" title="wikilink">DEEP BLUE</a></p></td>
+<td><p><a href="../Page/DEEP_BLUE_(9mm_Parabellum_Bulletのアルバム).md" title="wikilink">DEEP BLUE</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4</p></td>
 <td><p>2018年10月1日</p></td>
 <td><p>21g / カルマの花環</p></td>
@@ -827,7 +834,7 @@ Welcome! [Alexandros]</p></td>
 <td><p>―</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1081,7 +1088,7 @@ Welcome! [Alexandros]</p></td>
 <tr class="odd">
 <td><p>8</p></td>
 <td><p>2019年9月9日</p></td>
-<td><p><a href="../Page/DEEP_BLUE_(アルバム).md" title="wikilink">DEEP BLUE</a></p></td>
+<td><p><a href="../Page/DEEP_BLUE_(9mm_Parabellum_Bulletのアルバム).md" title="wikilink">DEEP BLUE</a></p></td>
 <td><p>通常盤(CD)：COCP-40931<br />
 初回盤(CD＋DVD)：COZP-1566～7<br />
 アナログ盤 : COJA-9366<br />
@@ -1130,6 +1137,20 @@ Welcome! [Alexandros]</p></td>
 <td><p>初回盤：2CD／TYCT-69027、69028<br />
 通常盤：CD／TYCT-69029</p></td>
 <td><p>12位</p></td>
+</tr>
+<tr class="even">
+<td><p>トリビュートアルバム</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>2020年9月9日</p></td>
+<td><p>CHAOSMOLOGY</p></td>
+<td><p>COCP-41241～2</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1494,7 +1515,7 @@ Release Party at SHIBUYA CLUB QUATTRO</strong></p></td>
 ### カオスの百年
 
   - 結成当初から行っている自主企画イベント。
-  - 2015年に開催される「カオスの百年TOUR 2015」および2018年に開催される「カオスの百年TOUR 2018」に関しては[ツアーに記載し](https://ja.wikipedia.org/wiki/#ツアー "wikilink")、以下一覧では「Vol.」の通し番号があるライブのみを記載する。
+  - 「カオスの百年TOUR」に関しては[ツアーに記載し](https://ja.wikipedia.org/wiki/#ツアー "wikilink")、以下一覧では「Vol.」の通し番号があるライブのみを記載する。
 
 <table>
 <thead>
@@ -1600,6 +1621,13 @@ Release Party at SHIBUYA CLUB QUATTRO</strong></p></td>
 <td><p>AC 9mmは滝以外の3人による アコースティックプロジェクト</p></td>
 </tr>
 <tr class="even">
+<td><p>Vol.13</p></td>
+<td><p>2020年3月17日</p></td>
+<td><p>LINE CUBE SHBUYA</p></td>
+<td><p>ワンマンライブ</p></td>
+<td><p>2020年7月1日に延期</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1741,7 +1769,7 @@ Release Party at SHIBUYA CLUB QUATTRO</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2008年</p></td>
+<td><p><strong>2008年</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1795,12 +1823,6 @@ Release Party at SHIBUYA CLUB QUATTRO</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/凛として時雨" title="wikilink">凛として時雨</a>との対バンツアー</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>11月6日〜2009年2月1日</p></td>
 <td><p>'''VAMPIRE EMPIRE TOUR 08/09 '''</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -1851,13 +1873,13 @@ Release Party at SHIBUYA CLUB QUATTRO</strong></p></td>
 </dl></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>2009年</p></td>
+<tr class="even">
+<td><p><strong>2009年</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2008年11月6日〜2月1日</p></td>
 <td><p>'''VAMPIRE EMPIRE TOUR 08/09 '''</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -1900,7 +1922,7 @@ Release Party at SHIBUYA CLUB QUATTRO</strong></p></td>
 </dl></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6月12日〜7月8日</p></td>
 <td><p>'''大惨事目眩大戦 '''</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -1925,13 +1947,13 @@ Release Party at SHIBUYA CLUB QUATTRO</strong></p></td>
 </dl></td>
 <td><p><a href="../Page/THE_BACK_HORN.md" title="wikilink">THE BACK HORNとの対バンツアー</a></p></td>
 </tr>
-<tr class="even">
-<td><p>2010年</p></td>
+<tr class="odd">
+<td><p><strong>2010年</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2月1日〜3月18日</p></td>
 <td><p>'''命ノゼンマイ大巡業 '''</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -1982,7 +2004,7 @@ Release Party at SHIBUYA CLUB QUATTRO</strong></p></td>
 </dl></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5月20日〜6月30日</p></td>
 <td><p><strong>Revolutionary Tour 2010</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -2015,13 +2037,13 @@ Release Party at SHIBUYA CLUB QUATTRO</strong></p></td>
 </dl></td>
 <td><p>横浜 BLITZは追加公演</p></td>
 </tr>
-<tr class="odd">
-<td><p>2011年</p></td>
+<tr class="even">
+<td><p><strong>2011年</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4月4日〜4月8日</p></td>
 <td><p><strong>東名阪2マンTOUR</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -2040,7 +2062,7 @@ Release Party at SHIBUYA CLUB QUATTRO</strong></p></td>
 </dl></td>
 <td><p>対バンはシークレット出演</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7月4日〜9月30日</p></td>
 <td><p><strong>Movement Moment Tour 2011</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -2109,7 +2131,7 @@ Release Party at SHIBUYA CLUB QUATTRO</strong></p></td>
 </dl></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11月1日〜11月8日</p></td>
 <td><p><strong>Movement Moment Tour 2011 番外編<br />
 ～MAXIMUM THE HORMONE Movement～</strong></p></td>
@@ -2134,7 +2156,7 @@ Release Party at SHIBUYA CLUB QUATTRO</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン" title="wikilink">マキシマム ザ ホルモンとの</a><br />
 北海道対バンツアー</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11月19日〜11月23日</p></td>
 <td><p><strong>Movement Moment Tour 2011 番外編<br />
 ～POLYSICS Movement ～</strong></p></td>
@@ -2156,7 +2178,7 @@ Release Party at SHIBUYA CLUB QUATTRO</strong></p></td>
 </dl></td>
 <td><p><a href="../Page/POLYSICS.md" title="wikilink">POLYSICS</a>との九州対バンツアー</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12月1日〜12月6日</p></td>
 <td><p><strong>Movement Moment Tour 2011 番外編<br />
 ～ avengers in sci-fi Movement ～</strong></p></td>
@@ -2179,20 +2201,20 @@ Release Party at SHIBUYA CLUB QUATTRO</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/avengers_in_sci-fi" title="wikilink">avengers in sci-fiとの</a><br />
 中部・北陸地方対バンツアー</p></td>
 </tr>
-<tr class="odd">
-<td><p>2012年</p></td>
+<tr class="even">
+<td><p><strong>2012年</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1月31日</p></td>
 <td><p><strong>Movement Moment Tour 2011 番外編<br />
 ～MAXIMUM THE HORMONE Movement 裏ファイナル～</strong></p></td>
 <td><p>八王子Match Vox(マキシマム ザ ホルモン)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10月27日〜11月4日</p></td>
 <td><p><strong>THE BAWDIES × 9mm Parabellum Bullet<br />
 学園祭ツアー</strong></p></td>
@@ -2216,7 +2238,7 @@ Release Party at SHIBUYA CLUB QUATTRO</strong></p></td>
 </dl></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/THE_BAWDIES" title="wikilink">THE BAWDIESとの学園祭ツアー</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11月13日〜11月29日</p></td>
 <td><p><strong>EAST COAST TOUR 2012</strong>''</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -2237,13 +2259,13 @@ Release Party at SHIBUYA CLUB QUATTRO</strong></p></td>
 </dl></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>2013年</p></td>
+<tr class="even">
+<td><p><strong>2013年</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3月19日〜4月17日</p></td>
 <td><p><strong>桜前線ブッタ斬リ2013</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -2282,7 +2304,7 @@ Release Party at SHIBUYA CLUB QUATTRO</strong></p></td>
 </dl></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7月9日〜11月9日</p></td>
 <td><p><strong>Breaking The Dawn Tour 2013</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -2358,7 +2380,7 @@ Release Party at SHIBUYA CLUB QUATTRO</strong></p></td>
 <td><p>ツアーファイナルは<br />
 初の海外ワンマンライブ</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12月3日</p></td>
 <td><p><strong>Breaking The Dawn Tour 2013 EXTRA<br />
 〜EX THEATER OPENING SERIES〜</strong></p></td>
@@ -2367,13 +2389,13 @@ Release Party at SHIBUYA CLUB QUATTRO</strong></p></td>
 EX THEATERのオープニング記念として<br />
 オープンから4組目にライブを行った。</p></td>
 </tr>
-<tr class="odd">
-<td><p>2014年</p></td>
+<tr class="even">
+<td><p><strong>2014年</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3月1日〜3月27日</p></td>
 <td><p><strong>決闘披露宴</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -2405,7 +2427,7 @@ EX THEATERのオープニング記念として<br />
 </dl></td>
 <td><p>THE BACK HORNとの対バンツアー</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9月27日〜12月11日</p></td>
 <td><p><strong>Next Bullet Marks Tour 2014</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -2474,13 +2496,13 @@ EX THEATERのオープニング記念として<br />
 </dl></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>2015年</p></td>
+<tr class="odd">
+<td><p><strong>2015年</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10月8日〜10月30日</p></td>
 <td><p><strong>9mm Parabellum Bullet presents<br />
 カオスの百年TOUR 2015</strong></p></td>
@@ -2514,14 +2536,8 @@ EX THEATERのオープニング記念として<br />
 </dl></td>
 <td><p>OAとしてアコースティックセットの9mmが出演した。</p></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
-<td><p>2016年</p></td>
+<td><p><strong>2016年</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2587,7 +2603,7 @@ EX THEATERのオープニング記念として<br />
 サポートギタリストを務めた。</p></td>
 </tr>
 <tr class="odd">
-<td><p>2017年</p></td>
+<td><p><strong>2017年</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2655,7 +2671,7 @@ EX THEATERのオープニング記念として<br />
 <td><p><strong>9mm Parabellum Bullet presents</strong> <strong>カオスの百年TOUR 2018</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
-<p><strong>全国5箇所6公演</strong></p>
+<p><strong>全国5ヶ所6公演</strong></p>
 </div>
 <div class="NavContent" style="text-align:left;">
 <dl>
@@ -2688,7 +2704,7 @@ EX THEATERのオープニング記念として<br />
 <td><p><strong>〜15th Anniversary〜『6番勝負』</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
-<p><strong>全国6箇所6公演</strong></p>
+<p><strong>全国6ヶ所6公演</strong></p>
 </div>
 <div class="NavContent" style="text-align:left;">
 <dl>
@@ -2711,9 +2727,8 @@ EX THEATERのオープニング記念として<br />
 <tr class="odd">
 <td><p>10月12日~11月3日</p></td>
 <td><p><strong>「DEEP BLUE」Release Tour</strong></p></td>
-<td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead">
-<p>全国9ヶ所10公演</p>
+<td><div class="NavHead">
+<p><strong>全国9ヶ所10公演</strong></p>
 </div>
 <div class="NavContent" style="text-align:left;">
 <dl>
@@ -2741,8 +2756,164 @@ EX THEATERのオープニング記念として<br />
 </dl></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><strong>2020年</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3月20日～10月18日</p></td>
+<td><p><strong>カオスの百年～Never Ending Tour 2020～</strong></p></td>
+<td><div class="NavHead">
+<p><strong>全国22ヶ所22公演</strong></p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>3月20日 松山WstudioRED
+</dd>
+<dd>3月23日 高知X-pt.
+</dd>
+<dd>4月16日 帯広MEGA STONE
+</dd>
+<dd>4月17日 旭川CASINO DRIVE
+</dd>
+<dd>4月19日 函館club COCOA
+</dd>
+<dd>5月28日 長崎DRUM Be-7
+</dd>
+<dd>5月30日 宮崎SR BOX
+</dd>
+<dd>5月31日 鹿児島CAPARVO HALL
+</dd>
+<dd>6月8日 岐阜Club-G
+</dd>
+<dd>6月10日 心斎橋Music Club JANUS
+</dd>
+<dd>6月11日 京都MUSE
+</dd>
+<dd>6月18日 石巻BLUE RESISTANCE
+</dd>
+<dd>6月20日 大船渡KESEN ROCK FREAKS
+</dd>
+<dd>6月21日 宮古KLUB COUNTER ACTION MIYAKO
+</dd>
+<dd>7月9日 岡山YEBISU YA PRO
+</dd>
+<dd>7月11日 周南RISING HALL
+</dd>
+<dd>7月12日 松江AZTiC canova
+</dd>
+<dd>10月10日 金沢Eight Hall
+</dd>
+<dd>10月11日 富山MAIRO
+</dd>
+<dd>10月13日 長野CLUB JUNK BOX
+</dd>
+<dd>10月17日 広島LIVE VANQUISH
+</dd>
+<dd>10月18日 高松オリーブホール
+</dd>
+</dl>
+<div class="NavHead">
+<p><strong>振替公演</strong></p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>10月20日 松山WstudioRED
+</dd>
+<dd>10月21日 高知X-pt.
+</dd>
+<dd>10月31日 旭川CASINO DRIVE
+</dd>
+<dd>11月1日 帯広MEGA STONE
+</dd>
+<dd>11月3日 函館club COCOA
+</dd>
+<dd>11月12日 鹿児島CAPARVO HALL
+</dd>
+<dd>11月14日 宮崎SR BOX
+</dd>
+<dd>11月15日 長崎DRUM Be-7
+</dd>
+<dd>11月12日 鹿児島CAPARVO HALL
+</dd>
+<dd>12月1日 京都MUSE
+</dd>
+<dd>12月2日 心斎橋Music Club JANUS
+</dd>
+<dd>12月4日 岐阜Club-G
+</dd>
+<dd>2021年3月4日 岡山YEBISU YA PRO
+</dd>
+<dd>2021年3月6日 周南RISING HALL
+</dd>
+<dd>2021年3月7日 松江AZTiC canova
+</dd>
+<dd>2021年3月25日 石巻BLUE RESISTANCE
+</dd>
+<dd>2021年3月27日 大船渡KESEN ROCK FREAKS
+</dd>
+<dd>2021年3月28日 宮古KLUB COUNTER ACTION MIYAKO
+</dd>
+</dl></td>
+<td><p>新型コロナウイルスの影響のため一部公演を延期し、振替公演にて実施予定</p></td>
+</tr>
+<tr class="even">
+<td><p>9月9日～10月3日</p></td>
+<td><p><strong>9mm Parabellum Bullet presents</strong> <strong>カオスの百年TOUR 2020　～CHAOSMOLOGY～</strong></p></td>
+<td><div class="NavHead">
+<p><strong>全国5ヶ所6公演</strong></p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>9月9日 KT Zepp Yokohama(公演中止)
+</dd>
+<dd>9月12日 Zepp Fukuoka
+</dd>
+<dd>9月13日 Zepp Osaka Bayside
+</dd>
+<dd>9月19日 Zepp Sapporo
+</dd>
+<dd>9月21日 仙台GIGS
+</dd>
+<dd>9月27日 Zepp Nagoya
+</dd>
+<dd>10月3日 Zepp Tokyo
+</dd>
+</dl>
+<div class="NavHead">
+<p><strong>振替公演</strong></p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>2021年6月6日 Zepp Haneda
+</dd>
+<dd>2021年6月13日 Zepp Sapporo
+</dd>
+<dd>2021年6月19日 Zepp Fukuoka
+</dd>
+<dd>2021年6月20日 Zepp Osaka Bayside
+</dd>
+<dd>2021年6月26日 Zepp Nagoya
+</dd>
+<dd>2021年7月3日 仙台GIGS
+</dd>
+</dl></td>
+<td><p>新型コロナウイルスの影響のためZepp Yokohama公演を中止。以降の公演は振替公演にて実施予定。</p></td>
+</tr>
 </tbody>
 </table>
+
+### 配信ライブ
+
+| 日程         | タイトル                           |
+| ---------- | ------------------------------ |
+| 2020年6月30日 | **カオスの百年〜YouTube Super Chat〜** |
 
 ### イベント
 
@@ -3299,7 +3470,23 @@ EX THEATERのオープニング記念として<br />
   - 09月28日 - PIA MUSIC COMPLEX 2019
   - 09月29日 - 中津川 THE SOLAR BUDOKAN 2019
   - 12月03日 - THE SUN ALSO RISES vol.100
-  - 12月29日 - COUNTDOWN JAPAN 19/30
+  - 12月29日 - COUNTDOWN JAPAN 19/20
+
+</div>
+
+</div>
+
+<div class="NavFrame" style="clear: both; border:0;font-size:small;">
+
+<div class="NavHead" style="text-align: center;">
+
+2020年
+
+</div>
+
+<div class="NavContent" style="text-align: left;font-size:small;">
+
+  - 07月24日 - UNITED FOR MUSIC-Live 60- 9mm Parabellum Bullet（配信ライブ）
 
 </div>
 
@@ -3337,7 +3524,7 @@ EX THEATERのオープニング記念として<br />
 
   - <https://www.tfm.co.jp/lock/9mm/index.html> - 9mm LOCKS\!公式サイト
 
-[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:エモ・バンド](https://ja.wikipedia.org/wiki/Category:エモ・バンド "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:ポスト・ハードコア・バンド](https://ja.wikipedia.org/wiki/Category:ポスト・ハードコア・バンド "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink") [Category:SCHOOL_OF_LOCK\!](https://ja.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
+[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:エモ・バンド](https://ja.wikipedia.org/wiki/Category:エモ・バンド "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:ポスト・ハードコア・バンド](https://ja.wikipedia.org/wiki/Category:ポスト・ハードコア・バンド "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink") [Category:ミクスチャー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ミクスチャー・ロック・バンド "wikilink") [Category:SCHOOL_OF_LOCK\!](https://ja.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
 
 1.
 2.  \[[http://www.pia.co.jp/interview/sn/index.html\]THE](http://www.pia.co.jp/interview/sn/index.html%5DTHE) COLLECTORS、the pillows、9mm Parabellum Bullet/インタビュー

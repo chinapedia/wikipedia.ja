@@ -72,7 +72,6 @@ G36C（および一部のG36K）は、標準では光学照準器を装備しな
 
 ## 登場作品
 
-1.
 ### 映画・テレビドラマ
 
   - 『[24 -TWENTY FOUR-](https://ja.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")』
@@ -176,7 +175,10 @@ G36C（および一部のG36K）は、標準では光学照準器を装備しな
     [アメリカ軍](../Page/アメリカ軍.md "wikilink")陣営で使用可能な[アサルトライフル](../Page/アサルトライフル.md "wikilink")としてG36Eが登場する。
 
   - 『[Paperman](https://ja.wikipedia.org/wiki/Paperman "wikilink")』
-    『[S.T.A.L.K.E.R. SHADOW OF CHERNOBYL](../Page/S.T.A.L.K.E.R._SHADOW_OF_CHERNOBYL.md "wikilink")』
+    『[PUBG](https://ja.wikipedia.org/wiki/PlayerUnknown's_Battlegrounds "wikilink")』
+    G36Cが登場。
+
+  - 『[S.T.A.L.K.E.R. SHADOW OF CHERNOBYL](../Page/S.T.A.L.K.E.R._SHADOW_OF_CHERNOBYL.md "wikilink")』
     『[SOCOM： U.S. NAVY SEALs](https://ja.wikipedia.org/wiki/SOCOM：_U.S._NAVY_SEALs "wikilink")』
     『[WarRock](../Page/WarRock.md "wikilink")』
     『[アームド・アサルト](https://ja.wikipedia.org/wiki/アームド・アサルト "wikilink")』
@@ -264,6 +266,9 @@ G36C（および一部のG36K）は、標準では光学照準器を装備しな
     『[ディビジョン (ゲーム)](https://ja.wikipedia.org/wiki/ディビジョン_\(ゲーム\) "wikilink")』
     『[PLAYERUNKNOWN'S　BATTLEGROUNDS](https://ja.wikipedia.org/wiki/PLAYERUNKNOWN'S_BATTLEGROUNDS "wikilink")』
     G36Cという名称で登場。なお本銃はVikendi(雪原マップ)にのみ登場する。
+
+  - 『[荒野行動](https://ja.wikipedia.org/wiki/荒野行動 "wikilink")』
+    HK-50という名称で登場する。
 
 ### 小説
 

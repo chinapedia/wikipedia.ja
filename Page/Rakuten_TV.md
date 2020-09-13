@@ -11,7 +11,7 @@
 
 [2017年](../Page/2017年.md "wikilink")（平成29年）7月にブランド変更した動画配信サービス。旧名称は楽天SHOWTIME。月会費無料で、コンテンツ1本ごとに課金を行う料金体系を採用している。楽天会員登録が必須で、楽天のサービスとして「[楽天スーパーポイント](https://ja.wikipedia.org/wiki/楽天スーパーポイント "wikilink")を貯める・使用する」、「クーポン (RaCoupon)を獲得・使用する」ことが可能となっている。
 
-ジャンル数は全16ジャンル。決済手段は[クレジットカード](../Page/クレジットカード.md "wikilink")とキャリア決済。対応デバイスは[パソコン](../Page/パーソナルコンピュータ.md "wikilink")・[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")の他、[テレビ](../Page/テレビ.md "wikilink")・[ゲーム機](../Page/ゲーム機.md "wikilink")にも対応。一部コンテンツはアプリを利用したダウンロード配信に対応している。画質としては、高画質 (HD)・標準画質 (SD) の2パターンがある。また[のぎ天](https://ja.wikipedia.org/wiki/のぎ天 "wikilink")シリーズなどオリジナルコンテンツの制作・配信や、[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")を含めた[パ・リーグ公式戦](https://ja.wikipedia.org/wiki/パシフィック・リーグ "wikilink")（商品名：[Rakuten パ・リーグSpecial](https://ja.wikipedia.org/wiki/Rakuten_パ・リーグSpecial "wikilink")）、アメリカプロ[バスケットボール](../Page/バスケットボール.md "wikilink")リーグNBA（商品名：Rakuten NBASpecial）などのライブ配信も行っている。
+ジャンル数は全16ジャンル。決済手段は[クレジットカード](../Page/クレジットカード.md "wikilink")とキャリア決済。対応デバイスは[パソコン](../Page/パーソナルコンピュータ.md "wikilink")・[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")の他、[テレビ](../Page/テレビ.md "wikilink")・[ゲーム機](../Page/ゲーム機.md "wikilink")にも対応。一部コンテンツはアプリを利用したダウンロード配信に対応している。画質としては、高画質 (HD)・標準画質 (SD) の2パターンがある。また[のぎ天](https://ja.wikipedia.org/wiki/のぎ天 "wikilink")シリーズなどオリジナルコンテンツの制作・配信や、[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")を含めた[パ・リーグ公式戦](https://ja.wikipedia.org/wiki/パシフィック・リーグ "wikilink")（商品名：[Rakuten パ・リーグSpecial](https://ja.wikipedia.org/wiki/Rakuten_パ・リーグSpecial "wikilink")）、アメリカプロ[バスケットボール](../Page/バスケットボール.md "wikilink")リーグNBA（商品名：Rakuten NBASpecial。2019年9月30日から、サービスをNBA専用のオンラインプラットフォーム[NBA Rakutenへ移行](../Page/NBA_Rakuten.md "wikilink")）などのライブ配信も行っている。
 
 ### ShowTime
 
@@ -47,7 +47,7 @@
 ### ジャンル
 
   - **Rakuten TV**
-      - 全16ジャンル: 洋画 / 邦画 / 海外ドラマ / 台湾ドラマ / 国内ドラマ / 韓国ドラマ / アニメ / キッズ / バラエティ / アイドル・グラビア / パチンコ・パチスロ / 舞台 / ミュージック / ドキュメンタリー / スポーツ（[NBA](../Page/NBA.md "wikilink")、[パ・リーグを含む](https://ja.wikipedia.org/wiki/パシフィック・リーグ "wikilink")） / アダルト
+      - 全16ジャンル: 洋画 / 邦画 / 海外ドラマ / 台湾ドラマ / 国内ドラマ / 韓国ドラマ / アニメ / キッズ / バラエティ / アイドル・グラビア / パチンコ・パチスロ / 舞台 / ミュージック / ドキュメンタリー / スポーツ（[パ・リーグを含む](https://ja.wikipedia.org/wiki/パシフィック・リーグ "wikilink")） / アダルト
   - **ShowTime**
       - 全21ジャンル: アニメ / 韓国ドラマ / 台湾ドラマ / 海外ドラマ / テレビ番組 / アイドル芸能 / シネマ / Vシネマ / ドキュメンタリー / ライフ&カルチャー / スポーツ / パチンコ&パチスロ / 麻雀 / ハーレクイン / コミック / 写真集 / 宝塚 / R18ゲーム / R18アニメ / R18シネマ / アダルト\&R18
       - ハーレクイン、コミック、写真集、R18ゲームは、「ShowTime」のみでの取り扱い。
@@ -69,7 +69,7 @@
 
   - [スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")・[タブレット](../Page/タブレット_\(コンピュータ\).md "wikilink")
       - [Android](../Page/Android.md "wikilink") 5.0以降
-      - [iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink") 10.0以降
+      - [iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink") 11.2以降
   - [パソコン](../Page/パーソナルコンピュータ.md "wikilink")
       - [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") [8](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink")・[10](https://ja.wikipedia.org/wiki/Microsoft_Windows_10 "wikilink")
       - [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink") [10.11以降](https://ja.wikipedia.org/wiki/OS_X_El_Capitan "wikilink")
@@ -110,7 +110,7 @@
 
   - [２つのサイトのご説明 《 ShowTime 》と《 Rakuten TV 》](https://www.showtime.jp/special/site_comparison/)
 
-[Category:日本のインターネットテレビ局](https://ja.wikipedia.org/wiki/Category:日本のインターネットテレビ局 "wikilink") [Category:楽天](https://ja.wikipedia.org/wiki/Category:楽天 "wikilink") [Category:世田谷区の企業](https://ja.wikipedia.org/wiki/Category:世田谷区の企業 "wikilink") [Category:2001年設立の企業](https://ja.wikipedia.org/wiki/Category:2001年設立の企業 "wikilink") [Category:USEN](https://ja.wikipedia.org/wiki/Category:USEN "wikilink")
+[Category:定額制動画配信サービス](https://ja.wikipedia.org/wiki/Category:定額制動画配信サービス "wikilink") [Category:日本のインターネットテレビ局](https://ja.wikipedia.org/wiki/Category:日本のインターネットテレビ局 "wikilink") [Category:楽天](https://ja.wikipedia.org/wiki/Category:楽天 "wikilink") [Category:世田谷区の企業](https://ja.wikipedia.org/wiki/Category:世田谷区の企業 "wikilink") [Category:2001年設立の企業](https://ja.wikipedia.org/wiki/Category:2001年設立の企業 "wikilink") [Category:USEN](https://ja.wikipedia.org/wiki/Category:USEN "wikilink")
 
 1.  [２つのサイトのご説明 | 《 ShowTime 》と《 Rakuten TV 》 | 国内最大級の動画配信サービス | 動画を楽しむにはShowTime（ショウタイム）](https://www.showtime.jp/special/site_comparison/)
 2.

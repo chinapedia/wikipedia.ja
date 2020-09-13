@@ -94,11 +94,11 @@ TBFの後継機であった爆撃・雷撃兼用[艦上攻撃機](../Page/艦上
 
 第二次世界大戦中にアメリカとイギリス以外で本機を保有したのは[ニュージーランド](../Page/ニュージーランド.md "wikilink")で、2型式48機が供与されていた。
 
-大戦後はアメリカ海軍の余剰機が大量に各国に供与された。供与された国は前述のイギリスの他、[ウルグアイ](https://ja.wikipedia.org/wiki/ウルグアイ "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")である。 [thumb](https://ja.wikipedia.org/wiki/ファイル:Grumman_Avenger_ExCC.jpg "wikilink") {{-}}
+大戦後はアメリカ海軍の余剰機が大量に各国に供与された。供与された国は前述のイギリスの他、[ウルグアイ](https://ja.wikipedia.org/wiki/ウルグアイ "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")（後述）である。 [thumb](https://ja.wikipedia.org/wiki/ファイル:Grumman_Avenger_ExCC.jpg "wikilink") {{-}}
 
 ### 日本での運用
 
-[TBM-3M.jpg](https://ja.wikipedia.org/wiki/File:TBM-3M.jpg "fig:TBM-3M.jpg") [JMSDF_TBM-3W.jpg](https://ja.wikipedia.org/wiki/File:JMSDF_TBM-3W.jpg "fig:JMSDF_TBM-3W.jpg") [1954年](../Page/1954年.md "wikilink")（昭和29年）7月1日に発足した[海上自衛隊](../Page/海上自衛隊.md "wikilink")に対して[MSA協定に基づき米軍から航空機が供与されることとなった](../Page/日本国とアメリカ合衆国との間の相互防衛援助協定.md "wikilink")。同年12月に最初の実用機として索敵型のTBM-3Wが10機供与された。[1955年](../Page/1955年.md "wikilink")（昭和30年）11月には攻撃型のTBM-3Sの供与が始まり[1956年](../Page/1956年.md "wikilink")（昭和31年）2月までに計10機を受領し、10組の対潜チームの編成が可能となった。しかし、機体が鈍重であることと、すでに老朽化していたため、本格的な単機任務完結型の対潜哨戒機が導入されるまでの間、主に訓練用として運用された。TBM-3Sは[1959年](../Page/1959年.md "wikilink")（昭和34年）6月に、TBM-3Wは[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年）8月に全機除籍。{{-}}
+[TBM-3M.jpg](https://ja.wikipedia.org/wiki/File:TBM-3M.jpg "fig:TBM-3M.jpg") [JMSDF_TBM-3W.jpg](https://ja.wikipedia.org/wiki/File:JMSDF_TBM-3W.jpg "fig:JMSDF_TBM-3W.jpg") [1954年](../Page/1954年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")29年）7月1日に発足した[海上自衛隊](../Page/海上自衛隊.md "wikilink")に対して[MSA協定に基づき米軍から航空機が供与されることとなった](../Page/日本国とアメリカ合衆国との間の相互防衛援助協定.md "wikilink")。同年12月に最初の実用機として索敵型のTBM-3Wが10機供与された。[1955年](../Page/1955年.md "wikilink")（昭和30年）11月には攻撃型のTBM-3Sの供与が始まり[1956年](../Page/1956年.md "wikilink")（昭和31年）2月までに計10機を受領し、10組の対潜チームの編成が可能となった。しかし、機体が鈍重であることと、すでに老朽化していたため、本格的な単機任務完結型の[対潜哨戒機](../Page/対潜哨戒機.md "wikilink")が導入されるまでの間、主に[訓練](../Page/訓練.md "wikilink")用として運用された。TBM-3Sは[1959年](../Page/1959年.md "wikilink")（昭和34年）6月に、TBM-3Wは[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年）8月に全機が除籍となった。 {{-}}
 
 ## 民間での運用
 
@@ -508,7 +508,7 @@ AS Mk.3</p></td>
 TBM-3E</p></td>
 <td><p>53454<br />
 3516</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:2012-10-18_14-47-24_hdr_(Military_Aviation_Museum).jpg" title="fig:2012-10-18_14-47-24_hdr_(Military_Aviation_Museum).jpg">2012-10-18_14-47-24_hdr_(Military_Aviation_Museum).jpg</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Grumman_TBM-3E_Avenger_‘53454_10’_(NL7030C)_(49395563798).jpg" title="fig:Grumman_TBM-3E_Avenger_‘53454_10’_(NL7030C)_(49395563798).jpg">Grumman_TBM-3E_Avenger_‘53454_10’_(NL7030C)_(49395563798).jpg</a></p></td>
 <td><p>アメリカ ヴァージニア州</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Military_Aviation_Museum" title="wikilink">軍事航空博物館</a><a href="http://militaryaviationmuseum.org/">28</a></p></td>
 <td><p>公開</p></td>
@@ -908,9 +908,9 @@ TBM-3S<br />
 AS Mk.3</p></td>
 <td><p>53337<br />
 3399</p></td>
-<td><p><a href="https://live.staticflickr.com/1660/24194041073_e1b9619a3a_o.jpg">写真</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Grumman_TBM-3E_Avenger_(VH-VTB)_taking_off_during_the_2015_Warbirds_Downunder_Airshow_at_Temora.jpg" title="fig:Grumman_TBM-3E_Avenger_(VH-VTB)_taking_off_during_the_2015_Warbirds_Downunder_Airshow_at_Temora.jpg">Grumman_TBM-3E_Avenger_(VH-VTB)_taking_off_during_the_2015_Warbirds_Downunder_Airshow_at_Temora.jpg</a></p></td>
 <td><p>アメリカ ウィスコンシン州</p></td>
-<td><p>ロナルド・M・カールソン<br />
+<td><p>ロナルド・M・カールソン氏<br />
 (Ronald M. Carlson)</p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能</p></td>
@@ -956,7 +956,7 @@ AS Mk.3</p></td>
 <td><p>TBM-3E</p></td>
 <td><p>85632<br />
 2451</p></td>
-<td><p><a href="https://imgproc.airliners.net/photos/airliners/0/8/4/2199480.jpg?v=v40">写真</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:AirExpo_2015_-_TBM_Avenger_Flyby_(19225485373).jpg" title="fig:AirExpo_2015_-_TBM_Avenger_Flyby_(19225485373).jpg">AirExpo_2015_-_TBM_Avenger_Flyby_(19225485373).jpg</a></p></td>
 <td><p>アメリカ イリノイ州</p></td>
 <td><p>TBMアヴェンジャー有限会社<a href="https://tbmavenger.com/">91</a><br />
 (TBM Avenger LLC)</p></td>
@@ -1041,12 +1041,12 @@ P-102<br />
 <td><p>TBM-3E</p></td>
 <td><p>85957<br />
 2776</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Eastern_Aircraft_Div.,_General_Motors_TBM-3E_Avenger_85957_VS-25_Sea_Control_Squadron_US_Navy_(7170811250).jpg" title="fig:Eastern_Aircraft_Div.,_General_Motors_TBM-3E_Avenger_85957_VS-25_Sea_Control_Squadron_US_Navy_(7170811250).jpg">Eastern_Aircraft_Div.,_General_Motors_TBM-3E_Avenger_85957_VS-25_Sea_Control_Squadron_US_Navy_(7170811250).jpg</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:USS_Midway_Museum_IMG_8875_(29016642266).jpg" title="fig:USS_Midway_Museum_IMG_8875_(29016642266).jpg">USS_Midway_Museum_IMG_8875_(29016642266).jpg</a></p></td>
 <td><p>アメリカ カリフォルニア州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:USS_Midway_Museum" title="wikilink">空母ミッドウェイ博物館</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:USS_Midway_Museum" title="wikilink">空母ミッドウェイ博物館</a><a href="https://www.midway.org/">102</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td></td>
+<td><p><a href="https://www.midway.org/exhibits-activities/exhibits/aircraft-gallery/propellers-airplanes/tbm-avenger/">103</a></p></td>
 </tr>
 <tr class="even">
 <td><p>TBM-3E</p></td>
@@ -1077,10 +1077,10 @@ P-102<br />
 3099</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Grumman_TBM-3E_Avenger_RSide_CFM_7Oct2011_(15324849182).jpg" title="fig:Grumman_TBM-3E_Avenger_RSide_CFM_7Oct2011_(15324849182).jpg">Grumman_TBM-3E_Avenger_RSide_CFM_7Oct2011_(15324849182).jpg</a></p></td>
 <td><p>アメリカ テキサス州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Cavanaugh_Flight_Museum" title="wikilink">キャヴァナー飛行博物館</a><a href="https://cavflight.org/">102</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Cavanaugh_Flight_Museum" title="wikilink">キャヴァナー飛行博物館</a><a href="https://cavflight.org/">104</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://cavflight.org/index.php?option=com_content&amp;view=article&amp;id=60&amp;Itemid=119">103</a></p></td>
+<td><p><a href="https://cavflight.org/index.php?option=com_content&amp;view=article&amp;id=60&amp;Itemid=119">105</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>TBM-3E</p></td>
@@ -1088,34 +1088,34 @@ P-102<br />
 4093</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Grumman_TBM-3U_Avenger_91188_N108Q_Flight_19_FT-28_23307_Incorrect_LSideRear_close_TICO_16March2014_(14669961091).jpg" title="fig:Grumman_TBM-3U_Avenger_91188_N108Q_Flight_19_FT-28_23307_Incorrect_LSideRear_close_TICO_16March2014_(14669961091).jpg">Grumman_TBM-3U_Avenger_91188_N108Q_Flight_19_FT-28_23307_Incorrect_LSideRear_close_TICO_16March2014_(14669961091).jpg</a></p></td>
 <td><p>アメリカ フロリダ州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Valiant_Air_Command_Warbird_Museum" title="wikilink">ヴァリアント航空管制軍用機博物館</a><a href="https://www.valiantaircommand.com/">104</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Valiant_Air_Command_Warbird_Museum" title="wikilink">ヴァリアント航空管制軍用機博物館</a><a href="https://www.valiantaircommand.com/">106</a></p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能</p></td>
-<td><p><a href="https://www.valiantaircommand.com/tbm-avenger-torpedo-bomber">105</a></p></td>
+<td><p><a href="https://www.valiantaircommand.com/tbm-avenger-torpedo-bomber">107</a></p></td>
 </tr>
 <tr class="even">
 <td><p>TBM-3E</p></td>
 <td><p>91264<br />
 KE465<br />
 4169</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:TBM3E_Avenger_-_Chino_Airshow_2014_(14243520422).jpg" title="fig:TBM3E_Avenger_-_Chino_Airshow_2014_(14243520422).jpg">TBM3E_Avenger_-_Chino_Airshow_2014_(14243520422).jpg</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:N7835C_Grumman_TBM-3E_Avenger_Bureau_91264_C_N_7154_(48906613026).jpg" title="fig:N7835C_Grumman_TBM-3E_Avenger_Bureau_91264_C_N_7154_(48906613026).jpg">N7835C_Grumman_TBM-3E_Avenger_Bureau_91264_C_N_7154_(48906613026).jpg</a></p></td>
 <td><p>アメリカ カリフォルニア州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プレーンズ・オブ・フェイム航空博物館" title="wikilink">プレーンズ・オブ・フェイム航空博物館</a><a href="https://planesoffame.org/">106</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/プレーンズ・オブ・フェイム航空博物館" title="wikilink">プレーンズ・オブ・フェイム航空博物館</a><a href="https://planesoffame.org/">108</a></p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能</p></td>
-<td><p><a href="https://planesoffame.org/aircraft/plane-TBM-3E">107</a></p></td>
+<td><p><a href="https://planesoffame.org/aircraft/plane-TBM-3E">109</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>TBM-3E<br />
 AS Mk.3</p></td>
 <td><p>91426<br />
 4331</p></td>
-<td><p><a href="https://live.staticflickr.com/4469/37716356396_7ba1105503_o.jpg">写真</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Grumman_TBM-3E_Avenger_‘91426_P87’_“Doris_Mae”_(N40402)_(49416566037).jpg" title="fig:Grumman_TBM-3E_Avenger_‘91426_P87’_“Doris_Mae”_(N40402)_(49416566037).jpg">Grumman_TBM-3E_Avenger_‘91426_P87’_“Doris_Mae”_(N40402)_(49416566037).jpg</a></p></td>
 <td><p>アメリカ ヴァージニア州</p></td>
 <td><p>記念空軍</p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能</p></td>
-<td><p><a href="https://commemorativeairforce.org/aircraft/12">108</a></p></td>
+<td><p><a href="https://commemorativeairforce.org/aircraft/12">110</a></p></td>
 </tr>
 <tr class="even">
 <td><p>TBM-3E</p></td>
@@ -1123,11 +1123,11 @@ AS Mk.3</p></td>
 4341</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Grumman_TBM-3E_Avenger_BuNo_91436_NL436GM_LSide_Dawn_SNF_04April2014_(14585632102).jpg" title="fig:Grumman_TBM-3E_Avenger_BuNo_91436_NL436GM_LSide_Dawn_SNF_04April2014_(14585632102).jpg">Grumman_TBM-3E_Avenger_BuNo_91436_NL436GM_LSide_Dawn_SNF_04April2014_(14585632102).jpg</a></p></td>
 <td><p>アメリカ オハイオ州</p></td>
-<td><p>リバティー航空博物館<a href="http://www.libertyaviationmuseum.org/">109</a><br />
+<td><p>リバティー航空博物館<a href="http://www.libertyaviationmuseum.org/">111</a><br />
 (Liberty Aviation Museum)</p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能</p></td>
-<td><p><a href="http://www.libertyaviationmuseum.org/collection/aircraft.html">110</a></p></td>
+<td><p><a href="http://www.libertyaviationmuseum.org/collection/aircraft.html">112</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>TBM-3E</p></td>
@@ -1150,7 +1150,7 @@ AS Mk.3</p></td>
 <td><p>TBMアヴェンジャー有限会社</p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能</p></td>
-<td><p>後部銃座を無くして展示されている。<a href="https://nbavengers.com/usa-series-usacanada/91521-n4171a-reeder-d11-11/">111</a></p></td>
+<td><p>後部銃座を無くして展示されている。<a href="https://nbavengers.com/usa-series-usacanada/91521-n4171a-reeder-d11-11/">113</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>TBM-3E</p></td>
@@ -1203,10 +1203,10 @@ AS Mk.3</p></td>
 4638</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Grumman_TBM_Avenger_310T_-_Collings_Foundation_-_Massachusetts_-_DSC06782.jpg" title="fig:Grumman_TBM_Avenger_310T_-_Collings_Foundation_-_Massachusetts_-_DSC06782.jpg">Grumman_TBM_Avenger_310T_-_Collings_Foundation_-_Massachusetts_-_DSC06782.jpg</a></p></td>
 <td><p>アメリカ マサチューセッツ州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Collings_Foundation" title="wikilink">コリングス財団</a><a href="https://www.collingsfoundation.org/">112</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Collings_Foundation" title="wikilink">コリングス財団</a><a href="https://www.collingsfoundation.org/">114</a></p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能</p></td>
-<td><p><a href="https://www.collingsfoundation.org/aircrafts/grumman-tbm-avenger/">113</a></p></td>
+<td><p><a href="https://www.collingsfoundation.org/aircrafts/grumman-tbm-avenger/">115</a></p></td>
 </tr>
 <tr class="even">
 <td><p>TBM-3E</p></td>
@@ -1214,10 +1214,10 @@ AS Mk.3</p></td>
 4657</p></td>
 <td><p><a href="https://live.staticflickr.com/1891/42881659270_98487acd5b_o.jpg">写真</a></p></td>
 <td><p>アメリカ ニューヨーク州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Wings_of_Eagles_Discovery_Center" title="wikilink">ウィングス・オブ・イーグルス開発センター</a><a href="http://www.wingsofeagles.com/">114</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Wings_of_Eagles_Discovery_Center" title="wikilink">ウィングス・オブ・イーグルス開発センター</a><a href="http://www.wingsofeagles.com/">116</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="http://www.wingsofeagles.com/support-us/sponsor-an-aircraft/sponsor-the-grumman-gm-tbm-3e-avenger/">115</a></p></td>
+<td><p><a href="http://www.wingsofeagles.com/support-us/sponsor-an-aircraft/sponsor-the-grumman-gm-tbm-3e-avenger/">117</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -1238,6 +1238,8 @@ AS Mk.3</p></td>
 
   - 『[男たちの大和/YAMATO](https://ja.wikipedia.org/wiki/男たちの大和/YAMATO "wikilink")』
     アメリカ海軍所属機が登場。終盤にて、[F6F ヘルキャットや](../Page/F6F_\(航空機\).md "wikilink")[SB2C ヘルダイバーと共に](../Page/SB2C_\(航空機\).md "wikilink")、[菊水作戦](https://ja.wikipedia.org/wiki/菊水作戦 "wikilink")のために[沖縄へ向かっていた](../Page/沖縄県.md "wikilink")[大和型戦艦](../Page/大和型戦艦.md "wikilink")「[大和](../Page/大和_\(戦艦\).md "wikilink")」を襲撃する。
+  - 『[未知との遭遇](../Page/未知との遭遇.md "wikilink")』
+    冒頭、メキシコの砂漠で突如発見された機体群として登場。作中では[バミューダトライアングル](../Page/バミューダトライアングル.md "wikilink")における消失事件として有名な、1945年に発生した遭難事件（通称「フライト19消失事件」）に遭遇した機体、と説明されている。
 
 ### アニメ・漫画
 
@@ -1252,7 +1254,7 @@ AS Mk.3</p></td>
 
   - 『[アズールレーン](https://ja.wikipedia.org/wiki/アズールレーン "wikilink")』
 
-：ユニオン所属の空母の艦載機として登場する。
+ユニオン所属の空母の艦載機として登場する。
 
 ### ゲーム
 
@@ -1261,8 +1263,8 @@ AS Mk.3</p></td>
   - 『[World of Warships](https://ja.wikipedia.org/wiki/World_of_Warships "wikilink")』
     アメリカの[空母である](../Page/航空母艦.md "wikilink")「[レキシントン](../Page/レキシントン_\(CV-2\).md "wikilink")」と「[レンジャー](../Page/レンジャー_\(CV-4\).md "wikilink")」の[雷撃機](../Page/雷撃機.md "wikilink")として登場する。
   - 『[艦隊これくしょん -艦これ-](https://ja.wikipedia.org/wiki/艦隊これくしょん_-艦これ- "wikilink")』
-    通常の[艦上攻撃機](../Page/艦上攻撃機.md "wikilink")としてTBFが、夜間行動が可能な艦上攻撃機としてTBM-3Dが登場。
-    『World war battleships』
+    通常の[艦上攻撃機](../Page/艦上攻撃機.md "wikilink")としてTBFが、夜間行動が可能な艦上攻撃機としてTBM-3Dが登場。また同じく夜間行動が可能な対潜哨戒攻撃機としてTBM-3W + 3Sもペアで登場。
+  - 『[World war battleships](https://ja.wikipedia.org/wiki/World_war_battleships "wikilink")』
     アメリカ空母雷撃機として登場。
 
 ## 脚注

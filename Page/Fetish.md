@@ -11,7 +11,7 @@
 
 [テクノサウンドを大々的に取り入れた](https://ja.wikipedia.org/wiki/テクノ_\(ダンスミュージック\) "wikilink")[前作とは打って変わり](../Page/SUPERSONIC_GENERATION.md "wikilink")、**[ゴシック](../Page/ゴシック・ロック.md "wikilink")**なテイストの楽曲で構築されており、また多くの楽曲で**[ブラス](../Page/ブラスバンド.md "wikilink")**が取り入れられている。アルバムの制作過程について布袋は「ある種、ヌードになっているような気分を味わいながら作っていった」と表現している。
 
-クレジットには、布袋に最も影響を与えた「[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")、[ロキシー・ミュージック](../Page/ロキシー・ミュージック.md "wikilink")、[T-REX](https://ja.wikipedia.org/wiki/T-REX "wikilink")へこのアルバムを捧げる」と英文で表記されている。本人曰く「色々な人から影響を受けているけど、今回このアルバムと向き合う時、こだわるべき部分ってのが結局は、この三者から影響を受けたところだったってことで、アルバムの最後に名前を入れた」「『[King & Queen](../Page/King_&_Queen.md "wikilink")』『[SSG](../Page/SUPERSONIC_GENERATION.md "wikilink")』『fetish』どれが布袋？って思うかもしれないけど、全部が俺。そうやって常に“変化”していくことすら“ポジティヴ”なんだってこともデヴィッド・ボウイから学んだんだと思う。日々、変化していってこそ[R\&R](https://ja.wikipedia.org/wiki/R&R "wikilink").」としている。
+クレジットには、布袋に最も影響を与えた「[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")、[ロキシー・ミュージック](../Page/ロキシー・ミュージック.md "wikilink")、[T・レックス](../Page/T・レックス.md "wikilink")へこのアルバムを捧げる」と英文で表記されている。本人曰く「色々な人から影響を受けているけど、今回このアルバムと向き合う時、こだわるべき部分ってのが結局は、この三者から影響を受けたところだったってことで、アルバムの最後に名前を入れた」「『[King & Queen](../Page/King_&_Queen.md "wikilink")』『[SSG](../Page/SUPERSONIC_GENERATION.md "wikilink")』『fetish』どれが布袋？って思うかもしれないけど、全部が俺。そうやって常に“変化”していくことすら“ポジティヴ”なんだってこともデヴィッド・ボウイから学んだんだと思う。日々、変化していってこそ[R\&R](https://ja.wikipedia.org/wiki/R&R "wikilink").」としている。
 
 ## 録音
 

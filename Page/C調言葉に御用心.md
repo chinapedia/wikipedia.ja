@@ -3,15 +3,15 @@
 
 「**C調言葉に御用心**」（シーちょうことばにごようじん）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の楽曲。自身の5作目の[シングル](../Page/シングル.md "wikilink")として、[Invitationから](../Page/Invitation_\(レーベル\).md "wikilink")[7インチレコードで](https://ja.wikipedia.org/wiki/レコード#7インチシングル盤 "wikilink")[1979年](../Page/1979年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")に発売された。
 
-[1988年](../Page/1988年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に[CD化](../Page/コンパクトディスク.md "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")にも8cmCDとして、[2005年](../Page/2005年.md "wikilink")6月25日には12cmCDで再発され、計3回再発売されている。
+[1988年](../Page/1988年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")と[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")に8cmCDとして、[2005年](../Page/2005年.md "wikilink")6月25日には12cmCDで再発売されている。[2014年](../Page/2014年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")からはダウンロード配信、[2019年](../Page/2019年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")からはストリーミング配信が開始されている\[1\]\[2\]。
 
 ## 背景・制作
 
 自身が[1979年](../Page/1979年.md "wikilink")にリリースした最後のシングルである。
 
-1979年、彼らは芸能誌の取材や音楽番組やバラエティ番組などのテレビ出演の合間を縫って、本作のレコーディングを行っていた\[1\]。
+1979年、彼らは芸能誌の取材や音楽番組やバラエティ番組などのテレビ出演の合間を縫って、本作のレコーディングを行っていた\[3\]。
 
-桑田曰く、タイトルの「C調」とは「いい加減」「無責任」などの意味だと言う\[2\]。
+桑田曰く、タイトルの「C調」とは「いい加減」「無責任」などの意味だと言う\[4\]。
 
 ## 収録曲
 
@@ -22,7 +22,7 @@
 1.  **C調言葉に御用心** (4:33)
     （作詞・作曲:[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")　編曲:サザンオールスターズ　弦編曲:[新田一郎](../Page/新田一郎_\(ミュージシャン\).md "wikilink")）
       -
-        メンバー全員出演の[ヤマザキナビスコ](../Page/ヤマザキビスケット.md "wikilink")「チップスター」[CMソング](../Page/コマーシャルソング.md "wikilink")。また、映画『[彼女が水着にきがえたら](../Page/彼女が水着にきがえたら.md "wikilink")』挿入歌\[3\]。
+        メンバー全員出演の[ヤマザキナビスコ](../Page/ヤマザキビスケット.md "wikilink")「チップスター」[CMソング](../Page/コマーシャルソング.md "wikilink")。また、映画『[彼女が水着にきがえたら](../Page/彼女が水着にきがえたら.md "wikilink")』挿入歌\[5\]。
 2.  **I AM A PANTY (Yes, I am)** (3:44)
     （作詞・作曲:桑田佳祐　編曲:サザンオールスターズ　管編曲:新田一郎）
       -
@@ -68,6 +68,8 @@
 
 [Category:サザンオールスターズの楽曲](https://ja.wikipedia.org/wiki/Category:サザンオールスターズの楽曲 "wikilink") [Category:桑田佳祐が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐が制作した楽曲 "wikilink") [Category:菓子のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:菓子のコマーシャルソング "wikilink") [Category:1979年のシングル](https://ja.wikipedia.org/wiki/Category:1979年のシングル "wikilink") [Category:ニュー・サウンズ・イン・ブラス](https://ja.wikipedia.org/wiki/Category:ニュー・サウンズ・イン・ブラス "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")
 
-1.  『サザンオールスターズ 公式データブック 1978-2019』（2019年）[リットーミュージック](../Page/リットーミュージック.md "wikilink")出版 p109
-2.  『guts』、[集英社](../Page/集英社.md "wikilink")、1979年12月発行 p21
-3.  1989年に使用。
+1.  [サザン、全266曲を世界111ヶ国で配信](https://www.oricon.co.jp/news/2046030/full/) オリコン 2014年12月17日配信, 2020年6月4日閲覧
+2.  [サザン関連全972曲 サブスク一斉解禁 メンバーソロ曲も対象に](https://www.oricon.co.jp/news/2151435/full/) オリコン 2019年12月20日配信, 2019年12月20日閲覧
+3.  『サザンオールスターズ 公式データブック 1978-2019』（2019年）[リットーミュージック](../Page/リットーミュージック.md "wikilink")出版 p109
+4.  『guts』、[集英社](../Page/集英社.md "wikilink")、1979年12月発行 p21
+5.  1989年に使用。

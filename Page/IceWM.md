@@ -1,7 +1,7 @@
 > この記事は[IceWM](https://ja.wikipedia.org/wiki/IceWM)から翻訳されています。
 
 
-**IceWM**は、[X Window Systemの](../Page/X_Window_System.md "wikilink")[ウィンドウマネージャ](../Page/ウィンドウマネージャ.md "wikilink")の一つ。Marko Mačekによってゼロから[C++](../Page/C++.md "wikilink")で書かれた。 [ライセンス](../Page/ライセンス.md "wikilink")形態は[GNU Lesser General Public License](../Page/GNU_Lesser_General_Public_License.md "wikilink")。メモリ使用量とCPU使用率が比較的低いのが特徴である。テーマをサポートしており、Windows 95、OS/2、Motifなどのユーザインタフェースに似せることができる。
+**IceWM**は、[X Window Systemの](../Page/X_Window_System.md "wikilink")[ウィンドウマネージャ](../Page/ウィンドウマネージャ.md "wikilink")の一つ。Marko Mačekによってゼロから[C++](../Page/C++.md "wikilink")で書かれた。 [ライセンス](../Page/ライセンス.md "wikilink")形態は[GNU Lesser General Public License](../Page/GNU_Lesser_General_Public_License.md "wikilink")。メモリ使用量とCPU使用率が比較的低いのが特徴である。テーマをサポートしており、Windows 95、OS/2、[Motifなどのユーザインタフェースに似せることができる](../Page/Motif_\(GUI\).md "wikilink")。
 
 IceWMプロジェクトの主な目標は、よいルック＆フィールを提供しながらも同時に軽量であることである。またもう一つの重要な特徴として、ポップアップなどでユーザを妨げない操作感が挙げられる。
 

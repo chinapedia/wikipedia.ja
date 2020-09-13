@@ -2556,6 +2556,24 @@ Fascinate Love、Jerk'N'Spark、Stay、３枚同時リリース</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>194</p></td>
+<td><p>2019年12月13日</p></td>
+<td><p>高円寺HIGH</p></td>
+<td><p>FREAKS OF THE LEGEND 2019</p></td>
+<td><p>イベント</p></td>
+<td><p><a href="../Page/DER_ZIBET.md" title="wikilink">DER ZIBET</a>、<a href="../Page/AUTO-MOD.md" title="wikilink">AUTO-MOD</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>2020年6月13日</p></td>
+<td><p>高田馬場AREA</p></td>
+<td><p>AREA 23rd ANNIVERSARY ～Evil God’s Cabaret～</p></td>
+<td><p>主催イベント</p></td>
+<td><p>tezya &amp; the sightz、LiQuid ButterFly</p></td>
+<td><p>新型コロナ等の影響で延期</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

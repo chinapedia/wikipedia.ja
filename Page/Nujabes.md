@@ -1,7 +1,7 @@
 > この記事は[Nujabes](https://ja.wikipedia.org/wiki/Nujabes)から翻訳されています。
 
 
-**Nujabes**（ヌジャベス、アーティスト名：**瀬場 潤**（せば じゅん）\[1\]\[2\] \[3\]）は、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[西麻布](../Page/西麻布.md "wikilink")出身の[DJ](../Page/ディスクジョッキー.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")のトラックメイカー、音楽プロデューサー。未婚。
+**Nujabes**（ヌジャベス、アーティスト名：**瀬場 潤**（せば じゅん）、本名：田中淳（たなか　じゅん）\[1\]\[2\] \[3\]）は、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[西麻布](../Page/西麻布.md "wikilink")出身の[DJ](../Page/ディスクジョッキー.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")のトラックメイカー、音楽プロデューサー。未婚。
 
 ## 来歴
 
@@ -20,7 +20,7 @@
 
 インディペンデントレーベル「hydeout productions」の主宰も兼ねた。
 
-30数枚の12" Singleのリリースを経て2003年にファースト・アルバム"metaphorical music"をリリースする。 2004年3月のパリコレクションにて[コムデギャルソン](https://ja.wikipedia.org/wiki/コムデギャルソン "wikilink")音楽ディレクター[ジュンヤワタナベ](https://ja.wikipedia.org/wiki/ジュンヤワタナベ "wikilink")、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")「[サムライチャンプルー](../Page/サムライチャンプルー.md "wikilink")」のサウンド制作、Sonar Sound Tokyo出演等を経て、2005年11月にセカンド・アルバム"modal soul"を発表、07年11月には"first collection"以来4年半ぶりのレーベルコレクションアルバム"2nd collection"をリリース。08年に入り、Nujabesが影響を受けた音楽を集めたコンピ"Modal Soul Classics By Nujabes"を発表したが、 2010年2月に交通事故で逝去した。まだ36歳だった。[東京都営霊園](https://ja.wikipedia.org/wiki/東京都営霊園 "wikilink")にある墓に埋葬され、墓誌には「NUJABES・瀬葉淳」と刻まれている。2011年に3rdアルバム「Spiritual State」を発表した。
+30数枚の12" Singleのリリースを経て2003年にファースト・アルバム"metaphorical music"をリリースする。 2004年3月のパリコレクションにて[コムデギャルソン](https://ja.wikipedia.org/wiki/コムデギャルソン "wikilink")音楽ディレクター[ジュンヤワタナベ](https://ja.wikipedia.org/wiki/ジュンヤワタナベ "wikilink")、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")「[サムライチャンプルー](../Page/サムライチャンプルー.md "wikilink")」のサウンド制作、Sonar Sound Tokyo出演等を経て、2005年11月にセカンド・アルバム"modal soul"を発表、07年11月には"first collection"以来4年半ぶりのレーベルコレクションアルバム"2nd collection"をリリース。08年に入り、Nujabesが影響を受けた音楽を集めたコンピ"Modal Soul Classics By Nujabes"を発表したが、 2010年2月に交通事故で逝去した。まだ36歳だった。[多磨霊園](../Page/多磨霊園.md "wikilink")にある墓に埋葬され、墓誌には「NUJABES・瀬葉淳」と刻まれている。2011年に3rdアルバム「Spiritual State」を発表した。
 
 ## ディスコグラフィー
 

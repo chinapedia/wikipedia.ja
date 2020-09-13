@@ -3,6 +3,8 @@
 
 「**この青い空、みどり 〜BLUE IN GREEN〜**」（このあおいそら・みどり ブルー・イン・グリーン）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の楽曲。自身の46作目の[シングル](../Page/シングル.md "wikilink")として、[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")から[2000年](../Page/2000年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")に発売された。
 
+[2014年](../Page/2014年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")からはダウンロード配信、[2019年](../Page/2019年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")からはストリーミング配信が開始されている\[1\]\[2\]。
+
 ## 背景
 
 本作を最後にギターの[大森隆志](../Page/大森隆志.md "wikilink")が休養に入り、2001年8月に脱退した。本作、そして直後に発売された[バラード](../Page/バラード.md "wikilink")・[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[バラッド3 〜the album of LOVE〜](../Page/バラッド3_〜the_album_of_LOVE〜.md "wikilink")』をリリースしてからは、メンバーそれぞれのソロ活動に入ることとなり、再びサザンとしての活動を休止することとなった。
@@ -21,57 +23,57 @@
 
   - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")（2000年11月3日、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
       -
-        「この青い空、みどり 〜BLUE IN GREEN〜」を披露した\[1\]。
+        「この青い空、みどり 〜BLUE IN GREEN〜」を披露した\[3\]。
   - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")（2000年11月13日、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
       -
-        「この青い空、みどり 〜BLUE IN GREEN〜」を披露した\[2\]。
+        「この青い空、みどり 〜BLUE IN GREEN〜」を披露した\[4\]。
   - [桑田佳祐の音楽寅さん 〜MUSIC TIGER〜](../Page/桑田佳祐の音楽寅さん_〜MUSIC_TIGER〜.md "wikilink")（2000年12月29日、フジテレビ）
       -
         「この青い空、みどり 〜BLUE IN GREEN〜」「[TSUNAMI](../Page/TSUNAMI.md "wikilink")」「[HOTEL PACIFIC](../Page/HOTEL_PACIFIC.md "wikilink")」を披露した。
 
 ## チャート成績
 
-本作は[オリコンチャート](../Page/オリコンチャート.md "wikilink")で最高3位を記録し、累計35.4万枚（オリコン調べ）を売り上げた\[3\]。
+本作は[オリコンチャート](../Page/オリコンチャート.md "wikilink")で最高3位を記録し、累計35.4万枚（オリコン調べ）を売り上げた\[5\]。
 
 ## 収録曲
 
 ### CD盤
 
-  - 収録時間：16:33\[4\]
+  - 収録時間：16:33\[6\]
 
 <!-- end list -->
 
 1.  **この青い空、みどり 〜BLUE IN GREEN〜** (4:26)
-    （作詞・作曲:[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")　英語補作詞:[Tommy Snyder](../Page/トミー・スナイダー.md "wikilink")　編曲:サザンオールスターズ）
       -
+        （作詞・作曲:[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")　英語補作詞:[Tommy Snyder](../Page/トミー・スナイダー.md "wikilink")　編曲:サザンオールスターズ）
         [関西テレビ](../Page/関西テレビ放送.md "wikilink")・[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[神様のいたずら](../Page/神様のいたずら_\(テレビドラマ\).md "wikilink")』主題歌。桑田出演のフジテレビ系[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")『[桑田佳祐の音楽寅さん 〜MUSIC TIGER〜](../Page/桑田佳祐の音楽寅さん_〜MUSIC_TIGER〜.md "wikilink")』エンディングテーマ。桑田出演の[WOWOW](../Page/WOWOW.md "wikilink") CMソング。
-        サポートなしのメンバーによるバック・アレンジで、[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")や[ハーモニカ](../Page/ハーモニカ.md "wikilink")が前面に出されている。桑田は、本作発売時に、複数の音楽雑誌のインタビューの中で、「[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")が[オノ・ヨーコ](../Page/オノ・ヨーコ.md "wikilink")から影響を受けて作った楽曲『[ビコーズ](../Page/ビコーズ.md "wikilink")』（曲自体は[ビートルズ](../Page/ビートルズ.md "wikilink")名義）の歌詞にある「Because the sky is blue, it makes me cry. (空が青いから僕は悲しい)」のフレーズにインスパイアされて作った」と明かしている。桑田がビートルズやジョン・レノンに強い影響を受けていることを表している作品である。
-        「この青い空、みどり」のタイトルは「Free & Easy」誌の取材で[沖縄](https://ja.wikipedia.org/wiki/沖縄 "wikilink")に行った際に思いついたといい、表紙にそのフレーズが載っている。「BLUE IN GREEN」の部分は発売年の6月21日にリリースされた[島健](../Page/島健.md "wikilink")の同名のアルバムに影響されて引用したもので\[5\]、それが頭から離れなかった事と、沖縄の[青空](../Page/青空.md "wikilink")・[海](../Page/海.md "wikilink")・[サトウキビ](../Page/サトウキビ.md "wikilink")畑の風景を見た事がきっかけで、「この青い空、みどり」の部分も浮かんだという\[6\]。また、このタイトルについては当時の日本や未来を想像した憂愁やそれ以上の希望の言葉、21世紀への期待、人間賛歌、友や家族への愛情、デビュー以来ずっと支えてくれたファンへの深い感謝の気持ち、サザンのメンバー同志の絆などといった事が託されているとディレクターの松元直樹が述べている\[7\]。
+        「この青い空、みどり」のタイトルは「Free & Easy」誌の取材で[沖縄](https://ja.wikipedia.org/wiki/沖縄 "wikilink")に行った際に思いついたといい、表紙にそのフレーズが載っている。「BLUE IN GREEN」の部分は発売年の6月21日にリリースされた[島健](../Page/島健.md "wikilink")の同名のアルバムに影響されて引用したもので\[7\]、それが頭から離れなかった事と、沖縄の[青空](../Page/青空.md "wikilink")・[海](../Page/海.md "wikilink")・[サトウキビ](../Page/サトウキビ.md "wikilink")畑の風景を見た事がきっかけで、「この青い空、みどり」の部分も浮かんだという\[8\]。また、このタイトルについては当時の日本や未来を想像した憂愁やそれ以上の希望の言葉、21世紀への期待、人間賛歌、友や家族への愛情、デビュー以来ずっと支えてくれたファンへの深い感謝の気持ち、サザンのメンバー同志の絆などといった事が託されているとディレクターの松元直樹が述べている\[9\]。
         レコーディング自体は「[TSUNAMI](../Page/TSUNAMI.md "wikilink")」と同時期の[1999年](../Page/1999年.md "wikilink")秋頃から始まっていた。それが年明けの「TSUNAMI」の大ヒット、そして8月の茅ヶ崎ライブの開催に伴い、ライブのテーマ曲として「[HOTEL PACIFIC](../Page/HOTEL_PACIFIC.md "wikilink")」の製作が急務となったため、曲調も相まって茅ヶ崎ライブ後の秋にリリースすることが決まった経緯がある。
 2.  **チャイナムーンとビーフン娘** (4:54)
-    （作詞:[関口和之](../Page/関口和之.md "wikilink")　作曲:[原由子](../Page/原由子.md "wikilink")　編曲:サザンオールスターズ　弦編曲:[島健](../Page/島健.md "wikilink")）
       -
-        作詞が関口、作曲とボーカルを原が担当した新たな試みである楽曲。メンバー全員での共作は過去に存在していたが、個々のメンバー同士の共作と言うのは初である。
-        歌詞は、[中国](../Page/中国.md "wikilink")から[横浜中華街](../Page/横浜中華街.md "wikilink")に出稼ぎに来た少女が、忙しくもひたむきな毎日を送りながら、夜空を見上げると日本でも中国と同じ月が見られて故郷を思い出す、という心情を歌っている。当初のタイトルは「横浜チャイナムーン」で、リリース直前の告知ポスター等でもこのタイトルで表記されていたが、桑田から「タイトルがありきたりでは」の一言があったため、関口が改めて考案し、最終的にこのタイトルになった。桑田はタイトルへの助言以外、制作には一切関わらずメンバーに一任している\[8\]。
-        原がシングル曲でボーカルを取ったのは[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の「[真夏の果実](https://ja.wikipedia.org/wiki/真夏の果実 "wikilink")」c/wの「ナチカサヌ恋歌 (Live at BUDOKAN)」以来、スタジオ・レコーディングの新曲としては[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")の「[シャ・ラ・ラ](https://ja.wikipedia.org/wiki/シャ・ラ・ラ/ごめんねチャーリー "wikilink")」以来2度目である。
+        （作詞:[関口和之](../Page/関口和之.md "wikilink")　作曲:[原由子](../Page/原由子.md "wikilink")　編曲:サザンオールスターズ　弦編曲:[島健](../Page/島健.md "wikilink")）
+        歌詞は、[中国](../Page/中国.md "wikilink")から[横浜中華街](../Page/横浜中華街.md "wikilink")に出稼ぎに来た少女が、忙しくもひたむきな毎日を送りながら、夜空を見上げると日本でも中国と同じ月が見られて故郷を思い出す、という心情を歌っている。当初のタイトルは「横浜チャイナムーン」で、リリース直前の告知ポスター等でもこのタイトルで表記されていたが、桑田から「タイトルがありきたりでは」の一言があったため、関口が改めて考案し、最終的にこのタイトルになった。桑田はタイトルへの助言以外、制作には一切関わらずメンバーに一任している\[10\]。
 3.  **[心を込めて花束を <茅ヶ崎ライブVersion>](https://ja.wikipedia.org/wiki/Young_Love#収録曲 "wikilink")** (7:13)
-    （作詞・作曲:桑田佳祐　編曲:サザンオールスターズ）
       -
+        （作詞・作曲:桑田佳祐　編曲:サザンオールスターズ）
         [1996年](../Page/1996年.md "wikilink")のアルバム『[Young Love](../Page/Young_Love.md "wikilink")』収録曲。本作では同年8月に行われた野外コンサート『[茅ヶ崎ライブ 〜あなただけの茅ヶ崎〜](../Page/茅ヶ崎ライブ_〜あなただけの茅ヶ崎〜.md "wikilink")』での音源を収録している。
         原曲が完全なオーケストラ・サウンドであるのに対し、こちらは[バンドサウンドである](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。
 
 ### アナログ盤
 
 1.  **この青い空、みどり 〜BLUE IN GREEN〜**
-    （作詞・作曲:桑田佳祐　編曲:サザンオールスターズ）
-2.  **チャイナムーンとビーフン娘**
-    （作詞:関口和之　作曲:原由子　編曲:サザンオールスターズ　弦編曲:島健）
-3.  **[いなせなロコモーション <茅ヶ崎ライブVersion>](../Page/いなせなロコモーション.md "wikilink")**
-    （作詞・作曲:桑田佳祐　編曲:サザンオールスターズ）
       -
-        LP盤にのみ収録。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")の8thシングル。音源は「心を込めて花束を <茅ヶ崎ライブVersion>」と同じ時の物である。
+        （作詞・作曲:桑田佳祐　編曲:サザンオールスターズ）
+2.  **チャイナムーンとビーフン娘**
+      -
+        （作詞:関口和之　作曲:原由子　編曲:サザンオールスターズ　弦編曲:島健）
+3.  **[いなせなロコモーション <茅ヶ崎ライブVersion>](../Page/いなせなロコモーション.md "wikilink")**
+      -
+        （作詞・作曲:桑田佳祐　編曲:サザンオールスターズ）
+        アナログ盤にのみ収録。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")発売の8枚目シングル。音源は「心を込めて花束を <茅ヶ崎ライブVersion>」と同じ時の物である。
 4.  **心を込めて花束を <茅ヶ崎ライブVersion>**
-    （作詞・作曲:桑田佳祐　編曲:サザンオールスターズ）
+      -
+        （作詞・作曲:桑田佳祐　編曲:サザンオールスターズ）
 
 ## 参加ミュージシャン
 
@@ -92,7 +94,7 @@
       - [金原千恵子](../Page/金原千恵子.md "wikilink"):[Cornet](../Page/コルネット.md "wikilink") [Violin](../Page/ヴァイオリン.md "wikilink")
   - 心を込めて花束を <茅ヶ崎ライブVersion>
       - 片山敦夫:[Keyboards](../Page/キーボード_\(楽器\).md "wikilink")
-      - 清水美恵:[Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
+      - [清水美恵](../Page/清水美恵.md "wikilink"):[Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
       - 包国充:[Saxophone](../Page/サクソフォーン.md "wikilink") & [Flute](../Page/フルート.md "wikilink")
       - [山本拓夫](../Page/山本拓夫.md "wikilink"):Saxphone
       - 荒木敏男:[Trumpet](../Page/トランペット.md "wikilink")
@@ -128,11 +130,13 @@
 
 [Category:サザンオールスターズの楽曲](https://ja.wikipedia.org/wiki/Category:サザンオールスターズの楽曲 "wikilink") [Category:桑田佳祐が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐が制作した楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:関西テレビ火曜10時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:関西テレビ火曜10時枠の連続ドラマの主題歌 "wikilink") [Category:フジテレビの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビの主題歌 "wikilink") [Category:色を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:色を題材とした楽曲 "wikilink") [Category:空を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:空を題材とした楽曲 "wikilink") [Category:平和を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:平和を題材とした楽曲 "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink")
 
-1.  [ミュージックステーション 2000年11月3日放送](http://www.tv-asahi.co.jp/music/contents/m_lineup/0614/index.html) テレビ朝日 2016年8月27日閲覧
-2.  [HEY\!HEY\!HEY\! 2000年11月13日放送](https://www.fujitv.co.jp/HEY/guest/guest_files/001113/index.html) フジテレビ 2019年5月3日閲覧
-3.  [サザン、今夏52作目のニューシングル発売決定\!](http://www.oricon.co.jp/news/25386/full/) オリコン 2016年7月29日閲覧。
-4.  [楽天ブックス: この青い空、みどり 〜BLUE IN GREEN〜](https://books.rakuten.co.jp/rb/3824233/?l-id=search-c-item-text-01) 楽天ブックス 2020年2月14日閲覧
-5.  島はこのアルバムで[マイルス・デイヴィス](../Page/マイルス・デイヴィス.md "wikilink")の[ブルー・イン・グリーン](https://ja.wikipedia.org/wiki/ブルー・イン・グリーン "wikilink")をピアノソロでカバーしており、「言葉の響きの良さをかってアルバムタイトルにした」と述べている。
-6.  [SASダイヤリー](https://web.archive.org/web/20050211044724/http://www.jvcmusic.co.jp/sas/diary/blueingreen.html) サザンオールスターズラボラトリー （[Internet Archive](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink")）
-7.  \[<http://www.jvcmusic.co.jp/what/backnumber/2000.html>　「STANDOOH\! AREEENA\!\! C'MOOOON\!\!\!」\]
-8.  [SASダイヤリー](https://web.archive.org/web/20050211122257/http://www.jvcmusic.co.jp/sas/diary/blueingreen2.html) サザンオールスターズラボラトリー （[Internet Archive](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink")）
+1.  [サザン、全266曲を世界111ヶ国で配信](https://www.oricon.co.jp/news/2046030/full/) オリコン 2014年12月17日配信, 2020年6月4日閲覧
+2.  [サザン関連全972曲 サブスク一斉解禁 メンバーソロ曲も対象に](https://www.oricon.co.jp/news/2151435/full/) オリコン 2019年12月20日配信, 2019年12月20日閲覧
+3.  [ミュージックステーション 2000年11月3日放送](http://www.tv-asahi.co.jp/music/contents/m_lineup/0614/index.html) テレビ朝日 2016年8月27日閲覧
+4.  [HEY\!HEY\!HEY\! 2000年11月13日放送](https://www.fujitv.co.jp/HEY/guest/guest_files/001113/index.html) フジテレビ 2019年5月3日閲覧
+5.  [サザン、今夏52作目のニューシングル発売決定\!](http://www.oricon.co.jp/news/25386/full/) オリコン 2016年7月29日閲覧。
+6.  [楽天ブックス: この青い空、みどり 〜BLUE IN GREEN〜](https://books.rakuten.co.jp/rb/3824233/?l-id=search-c-item-text-01) 楽天ブックス 2020年2月14日閲覧
+7.  島はこのアルバムで[マイルス・デイヴィス](../Page/マイルス・デイヴィス.md "wikilink")の[ブルー・イン・グリーン](https://ja.wikipedia.org/wiki/ブルー・イン・グリーン "wikilink")をピアノソロでカバーしており、「言葉の響きの良さをかってアルバムタイトルにした」と述べている。
+8.  [SASダイヤリー](https://web.archive.org/web/20050211044724/http://www.jvcmusic.co.jp/sas/diary/blueingreen.html) サザンオールスターズラボラトリー （[Internet Archive](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink")）
+9.  \[<http://www.jvcmusic.co.jp/what/backnumber/2000.html>　「STANDOOH\! AREEENA\!\! C'MOOOON\!\!\!」\]
+10. [SASダイヤリー](https://web.archive.org/web/20050211122257/http://www.jvcmusic.co.jp/sas/diary/blueingreen2.html) サザンオールスターズラボラトリー （[Internet Archive](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink")）

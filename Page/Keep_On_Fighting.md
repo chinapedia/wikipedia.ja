@@ -182,8 +182,8 @@
 7.
 8.
 9.
-10. [長渕剛　13年ぶり紅白出場へ](http://web.archive.org/web/20031203015126/http://www.sponichi.co.jp/entertainment/kiji/2003/11/26/02.html)、スポニチアネックス、2003年11月26日。（インターネット・アーカイブのキャッシュ）
-11. [13年ぶり長渕､今度は1曲](http://web.archive.org/web/20031210211748/http://www.sponichi.co.jp/entertainment/kiji/2003/11/27/03.html)、スポニチアネックス、2003年11月27日。（インターネット・アーカイブのキャッシュ）
+10. [長渕剛　13年ぶり紅白出場へ](https://web.archive.org/web/20031203015126/http://www.sponichi.co.jp/entertainment/kiji/2003/11/26/02.html)、スポニチアネックス、2003年11月26日。（インターネット・アーカイブのキャッシュ）
+11. [13年ぶり長渕､今度は1曲](https://web.archive.org/web/20031210211748/http://www.sponichi.co.jp/entertainment/kiji/2003/11/27/03.html)、スポニチアネックス、2003年11月27日。（インターネット・アーカイブのキャッシュ）
 12.
 13.
 14.

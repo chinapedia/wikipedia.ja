@@ -51,7 +51,7 @@ UF-XSは[1967年](../Page/1967年.md "wikilink")（昭和42年）[10月16日](..
 
   - [日本製航空機の一覧](../Page/日本製航空機の一覧.md "wikilink")
 
-[Category:飛行艇](https://ja.wikipedia.org/wiki/Category:飛行艇 "wikilink")
+[Category:日本の飛行艇](https://ja.wikipedia.org/wiki/Category:日本の飛行艇 "wikilink")
 
 [Category:日本の実験機](https://ja.wikipedia.org/wiki/Category:日本の実験機 "wikilink") [Category:新明和の航空機](https://ja.wikipedia.org/wiki/Category:新明和の航空機 "wikilink") [Category:海上自衛隊の装備品](https://ja.wikipedia.org/wiki/Category:海上自衛隊の装備品 "wikilink")
 

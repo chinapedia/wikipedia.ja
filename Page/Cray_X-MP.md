@@ -65,7 +65,7 @@ X-MPの直接の後継である [Cray Y-MP](../Page/Cray_Y-MP.md "wikilink") シ
 
   - [リクルート事件](../Page/リクルート事件.md "wikilink")
 
-[Category:スーパーコンピュータ](https://ja.wikipedia.org/wiki/Category:スーパーコンピュータ "wikilink")
+[Category:スーパーコンピュータ](https://ja.wikipedia.org/wiki/Category:スーパーコンピュータ "wikilink") [Category:クレイのハードウェア](https://ja.wikipedia.org/wiki/Category:クレイのハードウェア "wikilink")
 
 1.  Cray Research, Inc. (1985). ["The Cray X-MP Series of Computer Systems"](http://archive.computerhistory.org/resources/text/Cray/Cray.X-MP.1985.102646183.pdf).
 2.

@@ -8,7 +8,7 @@
 ## 解説
 
   - 本作品はバラッド曲（[叙情詩](https://ja.wikipedia.org/wiki/叙情詩 "wikilink")）を集めたベストアルバムであり、[GLAY](../Page/GLAY.md "wikilink")が今までに発表したシングル曲の中から13曲と、新曲「つづれ織り〜so far and yet so close〜」を含む14曲で構成されている。
-  - ちなみに収録されている曲の中には「[SOUL LOVE](../Page/SOUL_LOVE.md "wikilink")」「[Blue Jean](../Page/Blue_Jean.md "wikilink")」「[a Boy〜ずっと忘れない〜](https://ja.wikipedia.org/wiki/a_Boy〜ずっと忘れない〜 "wikilink")」 といった、その曲調からは到底一般的にはバラードとは呼ばれないような曲も収録されているが、これはTAKUROが本アルバムのコンセプトを「バラードではなくバラッド、つまり叙情詩という意味でメロディよりも歌詞内容に焦点を当てた」としたためである（その意味では[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の[バラッドベストに近いスタンスといえる](../Page/バラッド_\(サザンオールスターズのアルバム\).md "wikilink")）。
+  - ちなみに収録されている曲の中には「[SOUL LOVE](../Page/SOUL_LOVE.md "wikilink")」「[Blue Jean](../Page/Blue_Jean.md "wikilink")」「[a Boy〜ずっと忘れない〜](https://ja.wikipedia.org/wiki/a_Boy〜ずっと忘れない〜 "wikilink")」「[BE WITH YOU](../Page/BE_WITH_YOU_\(GLAYの曲\).md "wikilink")」 といった、その曲調からは到底一般的にはバラードとは呼ばれないような曲も収録されているが、これはTAKUROが本アルバムのコンセプトを「バラードではなくバラッド、つまり叙情詩という意味でメロディよりも歌詞内容に焦点を当てた」としたためである（その意味では[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の[バラッドベストに近いスタンスといえる](../Page/バラッド_\(サザンオールスターズのアルバム\).md "wikilink")）。
 
 ## 収録曲
 

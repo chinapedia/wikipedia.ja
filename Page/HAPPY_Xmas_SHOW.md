@@ -91,7 +91,7 @@
 
 ### 2005年
 
-  - 小雪主演のクリスマスをテーマにしたドラマを中心とした構成。その間に、[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")と[シングライクトーキング](https://ja.wikipedia.org/wiki/シングライクトーキング "wikilink")の[佐藤竹善](../Page/佐藤竹善.md "wikilink")が共演して[山下達郎](../Page/山下達郎.md "wikilink")の「[クリスマス・イブ](https://ja.wikipedia.org/wiki/クリスマス・イブ_\(山下達郎の曲\) "wikilink")」を披露。[鈴木雅之と](../Page/鈴木雅之_\(歌手\).md "wikilink")[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")は、[としまえん](../Page/としまえん.md "wikilink")のメリーゴーランド「エルドラド」の前で大瀧詠一の「[夢で逢えたら](https://ja.wikipedia.org/wiki/夢で逢えたら_\(大瀧詠一の曲\) "wikilink")」を披露。また[杏子](../Page/杏子_\(ミュージシャン\).md "wikilink")、[山崎まさよし](https://ja.wikipedia.org/wiki/山崎まさよし "wikilink")、[スガシカオ](../Page/スガシカオ.md "wikilink")によるスペシャルユニット「[福耳](../Page/福耳_\(音楽\).md "wikilink")」が再結成されたり[松任谷正隆](../Page/松任谷正隆.md "wikilink")と[Char](../Page/Char.md "wikilink")が30年ぶりにセッションを行ったりするなど、数々の楽曲をこの番組ならではのスペシャルバーションで披露。エンディングには登場アーティストによる[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")の「[HAPPY XMAS（WAR IS OVER）](../Page/ハッピー・クリスマス（戦争は終った）.md "wikilink")」の大合唱もあった。辛島美登里はトリノから「サイレント・イヴ」を熱唱した。
+  - 小雪主演のクリスマスをテーマにしたドラマを中心とした構成。その間に、[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")と[佐藤竹善](../Page/佐藤竹善.md "wikilink")（[SING LIKE TALKING](https://ja.wikipedia.org/wiki/SING_LIKE_TALKING "wikilink")）が共演して[山下達郎](../Page/山下達郎.md "wikilink")の「[クリスマス・イブ](https://ja.wikipedia.org/wiki/クリスマス・イブ_\(山下達郎の曲\) "wikilink")」を披露。[鈴木雅之と](../Page/鈴木雅之_\(歌手\).md "wikilink")[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")は、[としまえん](../Page/としまえん.md "wikilink")のメリーゴーランド「エルドラド」の前で大瀧詠一の「[夢で逢えたら](https://ja.wikipedia.org/wiki/夢で逢えたら_\(大瀧詠一の曲\) "wikilink")」を披露。また[杏子](../Page/杏子_\(ミュージシャン\).md "wikilink")、[山崎まさよし](https://ja.wikipedia.org/wiki/山崎まさよし "wikilink")、[スガシカオ](../Page/スガシカオ.md "wikilink")によるスペシャルユニット「[福耳](../Page/福耳_\(音楽\).md "wikilink")」が再結成されたり[松任谷正隆](../Page/松任谷正隆.md "wikilink")と[Char](../Page/Char.md "wikilink")が30年ぶりにセッションを行ったりするなど、数々の楽曲をこの番組ならではのスペシャルバーションで披露。エンディングには登場アーティストによる[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")の「[HAPPY XMAS（WAR IS OVER）](../Page/ハッピー・クリスマス（戦争は終った）.md "wikilink")」の大合唱もあった。辛島美登里はトリノから「サイレント・イヴ」を熱唱した。
 
 ### 2006年
 
@@ -123,8 +123,7 @@
 
 ## 外部リンク
 
-  - [ハッピークリスマスショー](http://www.ntv.co.jp/xmas/)
-
+  -
 [Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink") [Category:日本テレビの音楽番組](https://ja.wikipedia.org/wiki/Category:日本テレビの音楽番組 "wikilink") [Category:かつて存在した日本テレビの年末年始特番](https://ja.wikipedia.org/wiki/Category:かつて存在した日本テレビの年末年始特番 "wikilink") [Category:日本テレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:日本テレビの一社提供番組 "wikilink") [Category:パナソニックグループ単独提供番組](https://ja.wikipedia.org/wiki/Category:パナソニックグループ単独提供番組 "wikilink") [Category:明石家さんま](https://ja.wikipedia.org/wiki/Category:明石家さんま "wikilink") [Category:クリスマスの音楽特別番組](https://ja.wikipedia.org/wiki/Category:クリスマスの音楽特別番組 "wikilink")
 
 1.  2008年9月までは「松下電器産業」、10月より現在の「パナソニック株式会社」。このため2007年までは松下電器産業として提供していた（提供クレジットは一貫してPanasonic名義）。

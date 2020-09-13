@@ -466,7 +466,7 @@
 
 ## 香港曾經播放神思者音樂之劇集
 
-  - [1996年](../Page/1996年.md "wikilink")[亞洲電視](https://ja.wikipedia.org/wiki/亞洲電視 "wikilink")[本港台](https://ja.wikipedia.org/wiki/本港台 "wikilink")[再見艷陽天](https://ja.wikipedia.org/wiki/再見艷陽天 "wikilink")：[海神](https://ja.wikipedia.org/wiki/海神 "wikilink")
+  - [1996年](../Page/1996年.md "wikilink")[亞洲電視](https://ja.wikipedia.org/wiki/亞洲電視 "wikilink")[本港台](https://ja.wikipedia.org/wiki/本港台 "wikilink")[再見艷陽天](https://ja.wikipedia.org/wiki/再見艷陽天 "wikilink")：[海神](../Page/海神.md "wikilink")
   - [1996年](../Page/1996年.md "wikilink")亞洲電視本港台[再見艷陽天](https://ja.wikipedia.org/wiki/再見艷陽天 "wikilink")：愛芙羅黛蒂Aphrodite
   - [1996年](../Page/1996年.md "wikilink")亞洲電視本港台[再見艷陽天](https://ja.wikipedia.org/wiki/再見艷陽天 "wikilink")：[望夫女](https://ja.wikipedia.org/wiki/望夫女 "wikilink")（Sigiriya Lady）
   - [1996年](../Page/1996年.md "wikilink")亞洲電視本港台再見艷陽天：Color \[色彩\] Shikisai
@@ -489,6 +489,6 @@
 
   -
   -
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:日本の映画音楽の作曲家](https://ja.wikipedia.org/wiki/Category:日本の映画音楽の作曲家 "wikilink") [Category:アニメ音楽の作曲家](https://ja.wikipedia.org/wiki/Category:アニメ音楽の作曲家 "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:日本の映画音楽の作曲家](https://ja.wikipedia.org/wiki/Category:日本の映画音楽の作曲家 "wikilink") [Category:アニメ音楽の作曲家](https://ja.wikipedia.org/wiki/Category:アニメ音楽の作曲家 "wikilink") [Category:インストゥルメンタルの音楽グループ](https://ja.wikipedia.org/wiki/Category:インストゥルメンタルの音楽グループ "wikilink")
 
 1.

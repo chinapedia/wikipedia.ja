@@ -131,7 +131,7 @@
   -
   -
   -
-[Category:1988年の映画](https://ja.wikipedia.org/wiki/Category:1988年の映画 "wikilink") [Category:香港のアクション映画](https://ja.wikipedia.org/wiki/Category:香港のアクション映画 "wikilink") [Category:サモ・ハン・キンポーの監督映画](https://ja.wikipedia.org/wiki/Category:サモ・ハン・キンポーの監督映画 "wikilink")
+[Category:1988年の映画](https://ja.wikipedia.org/wiki/Category:1988年の映画 "wikilink") [Category:香港のアクション映画](https://ja.wikipedia.org/wiki/Category:香港のアクション映画 "wikilink") [Category:サモ・ハン・キンポーの監督映画](https://ja.wikipedia.org/wiki/Category:サモ・ハン・キンポーの監督映画 "wikilink") [Category:ジャッキー・チェン](https://ja.wikipedia.org/wiki/Category:ジャッキー・チェン "wikilink")
 
 1.  海外では、ヨーロッパで発売されたDVDソフトにのみ含まれていた。
 2.  劇場パンフレットに記載。

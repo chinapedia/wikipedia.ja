@@ -5,13 +5,13 @@
 
 ## 概要
 
-  - DREAMS COME TRUE15周年を記念したアルバム第1弾。バラード曲を中心に収録しており、Disc 1にはDISC BLUE、Disc 2にはDISC ROUGEとそれぞれタイトルが付いている。
+  - DREAMS COME TRUE15周年を記念したアルバム第1弾。バラード曲を中心に収録しており、Disc 1にはDISC BLEU、Disc 2にはDISC ROUGEとそれぞれタイトルが付いている。
   - エピックレコードジャパンとのベストアルバム契約切れ直前の作品。
   - 初回プレスは三方背ボックス入り。
 
 ## 収録曲
 
-### DISC BLUE -torch song collection-
+### DISC BLEU -torch song collection-
 
 1.  [いつのまに](../Page/いつのまに.md "wikilink") a-mix（ピアノ・バージョン）feat. [Yoshihiro Kondo](https://ja.wikipedia.org/wiki/近藤嘉宏 "wikilink")
       -

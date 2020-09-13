@@ -6,7 +6,7 @@
 
 ## メンバー
 
-  - [パダ](https://ja.wikipedia.org/wiki/パダ "wikilink")（Sea/Bada,  本名：、崔盛希、チェ・ソンヒ）。血液型AB型。既婚。
+  - [パダ](https://ja.wikipedia.org/wiki/パダ "wikilink")（Sea/Bada,  本名：、崔盛希、チェ・ソンヒ）。血液型AB型。既婚。[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")[全羅南道](../Page/全羅南道.md "wikilink")[莞島郡](https://ja.wikipedia.org/wiki/莞島郡 "wikilink")出身。
   - [ユジン](https://ja.wikipedia.org/wiki/ユジン "wikilink")（Eugene,  本名：、金楢真、キム・ユジン）。血液型A型。既婚。二女の母。
   - [シュー](https://ja.wikipedia.org/wiki/シュー_\(S.E.S.\) "wikilink")（Shoo,  本名：、柳水永、ユ・スヨン）。血液型A型。既婚。一男二女の母。在日韓国人で14歳まで横浜市で育った。
 
@@ -74,7 +74,7 @@ S.E.S解散後、パダはミュージカル俳優とソロ歌手、ユジンは
 </tr>
 <tr class="even">
 <td><p><small>2集</p></td>
-<td><p><small>Sea &amp; Eugene &amp; Shoo</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Sea_&amp;_Eugene_&amp;_Shoo" title="wikilink">Sea &amp; Eugene &amp; Shoo</a></p></td>
 <td><p><small>1998年11月23日</p></td>
 <td><center>
 <p><small>651,331枚</p></td>

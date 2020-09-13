@@ -74,6 +74,6 @@ PS2ゲーム『D.C.I.F. 〜ダ・カーポ〜 イノセントフィナーレ』<
 
   - [Web喫茶よずりの](../Page/Web喫茶よずりの.md "wikilink")
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink")
+[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink")
 
 1.

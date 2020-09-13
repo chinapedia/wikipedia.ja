@@ -208,7 +208,9 @@
 
 ・”SLUMP -Japanese Ver.-” (2020) /日本語詞作詞
 
+<NiziU>
 
+・”Boom Boom Boom” (2020) /作詞・作曲
 
 ## 関連項目
 

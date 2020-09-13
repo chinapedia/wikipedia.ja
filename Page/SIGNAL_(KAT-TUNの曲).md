@@ -21,7 +21,6 @@
     <!-- end list -->
       - [NTT DoCoMo](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")「[new 9 series](https://ja.wikipedia.org/wiki/new_9_series "wikilink")」CMソング
       - [ニッポン放送](../Page/ニッポン放送.md "wikilink")『[KAT-TUN スタイル](https://ja.wikipedia.org/wiki/KAT-TUN_スタイル "wikilink")』7月 - 10月中間テーマソング
-      - 全員にソロパートが与えられている。
 2.  **I'll be with you**※
       -
         作詞：[白井裕紀](../Page/白井裕紀.md "wikilink"), 新美香、作曲：[Shusui](https://ja.wikipedia.org/wiki/canna_\(音楽グループ\) "wikilink"), Carl Sahlin, Peter Ledin, Peter Moden、編曲：[長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")

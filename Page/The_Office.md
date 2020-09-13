@@ -9,7 +9,7 @@
 
 イギリスのロンドン郊外の町[スラウ](https://ja.wikipedia.org/wiki/スラウ "wikilink")にある製紙会社ウェーナム・ホッグの支社を舞台に、リッキー・ジャーヴェイス（演出と脚本も務めている）が演じる無神経な上司によって振り回されるオフィスの日常をドキュメンタリー・タッチで描いたシニカルな[シチュエーション・コメディ](../Page/シチュエーション・コメディ.md "wikilink")番組である。
 
-では3年連続で作品賞とコメディ演技賞（ジャーヴェイス）が授与された。[2003年](../Page/2003年.md "wikilink")にはBBCアメリカでも放送され、イギリスのテレビ作品としては初の[ゴールデングローブ賞](../Page/ゴールデングローブ賞.md "wikilink")の作品賞に輝く。スペシャル番組は[エミー賞](../Page/エミー賞.md "wikilink")の候補にもなった。
+[英国アカデミー賞テレビ部門](https://ja.wikipedia.org/wiki/英国アカデミー賞テレビ部門 "wikilink")では3年連続で作品賞とコメディ演技賞（ジャーヴェイス）が授与された。[2003年](../Page/2003年.md "wikilink")にはBBCアメリカでも放送され、イギリスのテレビ作品としては初の[ゴールデングローブ賞](../Page/ゴールデングローブ賞.md "wikilink")の作品賞に輝く。スペシャル番組は[エミー賞](../Page/エミー賞.md "wikilink")の候補にもなった。
 
 日本では[東芝エンタテインメント](https://ja.wikipedia.org/wiki/東芝エンタテインメント "wikilink")が配給し、[WOWOW](../Page/WOWOW.md "wikilink")で[2005年](../Page/2005年.md "wikilink")に[コメディUK\!](https://ja.wikipedia.org/wiki/コメディUK! "wikilink")内で放送された。2019年12月より[Amazonビデオで配信されている](https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ "wikilink")。
 
@@ -268,7 +268,7 @@
   - [公式サイト（WOWOW）](http://www.wowow.co.jp/drama/office/index.html) WOWOW
   - [アメリカ版公式サイト](http://www.nbc.com/The_Office/) NBC
 
-[Category:BBCのテレビドラマ](https://ja.wikipedia.org/wiki/Category:BBCのテレビドラマ "wikilink") [Category:モキュメンタリー](https://ja.wikipedia.org/wiki/Category:モキュメンタリー "wikilink") [Category:2001年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2001年のテレビドラマ "wikilink") [Category:イギリスを舞台とした作品](https://ja.wikipedia.org/wiki/Category:イギリスを舞台とした作品 "wikilink") [Category:アメリカ合衆国のテレビドラマ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビドラマ "wikilink") [Category:ペンシルベニア州を舞台としたテレビ番組](https://ja.wikipedia.org/wiki/Category:ペンシルベニア州を舞台としたテレビ番組 "wikilink") [Category:NBC](https://ja.wikipedia.org/wiki/Category:NBC "wikilink") [Category:シチュエーション・コメディ](https://ja.wikipedia.org/wiki/Category:シチュエーション・コメディ "wikilink") [Category:セクシャルハラスメントを題材とした作品](https://ja.wikipedia.org/wiki/Category:セクシャルハラスメントを題材とした作品 "wikilink") [Category:エミー賞受賞作](https://ja.wikipedia.org/wiki/Category:エミー賞受賞作 "wikilink")
+[Category:BBCのテレビドラマ](https://ja.wikipedia.org/wiki/Category:BBCのテレビドラマ "wikilink") [Category:モキュメンタリー](https://ja.wikipedia.org/wiki/Category:モキュメンタリー "wikilink") [Category:2001年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2001年のテレビドラマ "wikilink") [Category:イギリスを舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:イギリスを舞台としたテレビドラマ "wikilink") [Category:アメリカ合衆国のテレビドラマ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビドラマ "wikilink") [Category:ペンシルベニア州を舞台としたテレビ番組](https://ja.wikipedia.org/wiki/Category:ペンシルベニア州を舞台としたテレビ番組 "wikilink") [Category:NBC](https://ja.wikipedia.org/wiki/Category:NBC "wikilink") [Category:シチュエーション・コメディ](https://ja.wikipedia.org/wiki/Category:シチュエーション・コメディ "wikilink") [Category:セクシャルハラスメントを題材とした作品](https://ja.wikipedia.org/wiki/Category:セクシャルハラスメントを題材とした作品 "wikilink") [Category:エミー賞受賞作](https://ja.wikipedia.org/wiki/Category:エミー賞受賞作 "wikilink")
 
 1.
 2.

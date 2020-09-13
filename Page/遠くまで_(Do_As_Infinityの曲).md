@@ -13,6 +13,10 @@
 
 ## 収録曲
 
+  - 全曲作詞・作曲：[D･A･I](../Page/長尾大.md "wikilink")
+
+<!-- end list -->
+
 1.  **遠くまで**
 2.  **シグナル**
 3.  遠くまで (Instrumental)
@@ -30,8 +34,8 @@
   - 『[Do The A-side](../Page/Do_The_A-side.md "wikilink")』
   - 『[Do The Best "Great Supporters Selection"](https://ja.wikipedia.org/wiki/Do_The_Best_"Great_Supporters_Selection" "wikilink")』
   - 『[The Best of Do As Infinity](https://ja.wikipedia.org/wiki/The_Best_of_Do_As_Infinity "wikilink")』
-  - 『\[\[2_of_Us\#2_of_Us_BLUE_-14_Re:SINGLES-|2 of Us \[BLUE\] -14 Re:SINGLES-\]\]』（アレンジ・新録音して収録）
-  - 『[The Best of Do As Infinity](https://ja.wikipedia.org/wiki/The_Best_of_Do_As_Infinity "wikilink")』
+  - 『[Anime and Game COLLECTION](../Page/Anime_and_Game_COLLECTION.md "wikilink")』
+  - 『\[\[2_of_Us\#2_of_Us_BLUE_-14_Re:SINGLES-|2 of Us \[BLUE\] -14 Re:SINGLES-\]\]』（アレンジ・新録音して収録)
   - 『[Lounge](https://ja.wikipedia.org/wiki/Lounge_\(Do_As_Infinityのアルバム\) "wikilink")』（アレンジ・新録音して収録）
 
 <!-- end list -->
@@ -42,6 +46,22 @@
 
   - 『[DEEP FOREST](../Page/DEEP_FOREST.md "wikilink")』（初回盤のみアルバムバージョンを収録）
   - 『[Do The B-side](../Page/Do_The_B-side.md "wikilink")』
+
+## 遠くまで (映像作品)
+
+『**遠くまで**』は、日本の音楽ユニット[Do As InfinityのDVDシングル](../Page/Do_As_Infinity.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")に発売
+
+### 解説
+
+プロモーションビデオやそのメイキングなどを収録したものである。
+
+プロモーションビデオはジャケットから見ても分かる通り戦場が舞台であり、ボーカルの伴都美子とギターの[大渡亮](../Page/大渡亮.md "wikilink")が軍人に扮している。伴が扮する女軍人を見送る家族や大渡以外の軍人ら等の出演者には外国人が見られ、舞台は異国の地と見られるが、撮影は全て日本国内で行われている。
+
+なお、プロモーションビデオの中では最も制作費が高い作品である。\[1\]
+
+### 収録曲
+
+1.  **遠くまで**
 
 ## 遠くまで 2 of Us
 
@@ -54,14 +74,6 @@
 ### 収録曲
 
 1.  **遠くまで \[2 of Us\]**
-
-## DVDシングル
-
-「遠くまで」のプロモーションビデオやそのメイキングなどを収録したものである。
-
-プロモーションビデオはジャケットから見ても分かる通り戦場が舞台であり、ボーカルの伴都美子とギターの[大渡亮](../Page/大渡亮.md "wikilink")が軍人に扮している。伴が扮する女軍人を見送る家族や大渡以外の軍人ら等の出演者には外国人が見られ、舞台は異国の地と見られるが、撮影は全て日本国内で行われている。
-
-なお、プロモーションビデオの中では最も制作費が高い作品である。\[1\]
 
 ## 脚注
 

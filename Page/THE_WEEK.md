@@ -55,12 +55,13 @@
 ## テーマ曲
 
   - [高中正義](../Page/高中正義.md "wikilink")「[BLUE SHARK](https://ja.wikipedia.org/wiki/BLUE_SHARK "wikilink")」
+  - [佐藤博](https://ja.wikipedia.org/wiki/佐藤博 "wikilink")「[約束](../Page/約束.md "wikilink")」（1996年12月～番組終了まで）
 
 ## スタッフ
 
 1992年当時の番組スタッフ
 
-  - ナレーター：[森功至](../Page/森功至.md "wikilink")、[渡辺友里江](../Page/渡辺友里江.md "wikilink")、[鈴木ふう](../Page/鈴木ふう.md "wikilink")
+  - ナレーター：[森功至](../Page/森功至.md "wikilink")、[渡辺友里江](../Page/渡辺友里江.md "wikilink")、[鈴木渢](https://ja.wikipedia.org/wiki/鈴木渢 "wikilink")
   - ロケ技術：[共同テレビ](../Page/共同テレビジョン.md "wikilink")
   - タイトルロゴ：吉川友子
   - ディレクター：[原田冬彦](https://ja.wikipedia.org/wiki/原田冬彦 "wikilink")、谷山雄次郎、丸山雅史、川村隆弘、鈴木鉄平
@@ -68,6 +69,8 @@
   - 制作著作：フジテレビ
 
 ## 放送局
+
+特筆の無い限り全て同時ネット。
 
   - フジテレビ（制作局）
   - [北海道文化放送](../Page/北海道文化放送.md "wikilink")\[1\]

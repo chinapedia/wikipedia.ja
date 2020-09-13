@@ -189,7 +189,7 @@
 
   - Backing Vocals：ソルヴァイ・サンドネス
   - Drums：ラスマス・キールベルク
-  - All Instruments：[トーレ・ヨハンソン](https://ja.wikipedia.org/wiki/トーレ・ヨハンソン "wikilink")
+  - All Instruments：[トーレ・ヨハンソン](../Page/トーレ・ヨハンソン.md "wikilink")
 
 **君といたmemory**
 

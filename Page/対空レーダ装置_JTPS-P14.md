@@ -13,6 +13,8 @@
 
 配備から20年以上が経過しており、更新という形で探知精度や中・高空域の目標情報の迅速・正確な収集・処理・伝送及び機動性の向上を図った新たな[対空レーダ装置 JTPS-P25が対空戦闘指揮統制システムの一つとして開発され](../Page/対空レーダ装置_JTPS-P25.md "wikilink")、[2012年](../Page/2012年.md "wikilink")度より配備された。
 
+2020年8月、[フィリピン空軍](../Page/フィリピン空軍.md "wikilink")の防空レーダーとして[三菱電機](../Page/三菱電機.md "wikilink")が開発・製造する固定式レーダー3基と移動式レーダー1基の輸出契約が成立した\[1\]。固定式は[J/FPS-3](https://ja.wikipedia.org/wiki/J/FPS-3 "wikilink")、移動式は本機を三菱電機が開発した経験から新たに開発するという\[2\]。契約額は約1億ドル（約100億円）で、2021年後半から2022年に配備予定\[3\]。2014年に「[防衛装備移転三原則](https://ja.wikipedia.org/wiki/防衛装備移転三原則 "wikilink")」を決定後、国産防衛装備の完成品の輸出は初めてのことである\[4\]。
+
 ## 参考文献
 
   -
@@ -29,3 +31,8 @@
   - [陸上自衛隊主要装備-通信・電子器材](https://www.mod.go.jp/gsdf/equipment/ce/index.html)
 
 [Category:陸上自衛隊のレーダ装置](https://ja.wikipedia.org/wiki/Category:陸上自衛隊のレーダ装置 "wikilink") [Category:三菱電機のレーダー](https://ja.wikipedia.org/wiki/Category:三菱電機のレーダー "wikilink")
+
+1.
+2.
+3.
+4.

@@ -234,6 +234,7 @@
 
   - [ららら♪クラシック](https://ja.wikipedia.org/wiki/ららら♪クラシック "wikilink")
   - [クラシック音楽館](https://ja.wikipedia.org/wiki/クラシック音楽館 "wikilink")
+  - [N響 ザ・レジェンド](https://ja.wikipedia.org/wiki/N響_ザ・レジェンド "wikilink")(NHK-FM) - N響アワーで司会を務めていた池辺晋一郎・檀ふみが担当するラジオ番組
 
 ## 脚注
 

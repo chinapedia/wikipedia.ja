@@ -36,31 +36,47 @@
 ## ネット局
 
   - 1994年4月
-      - フルネット(3時～6時)　[Boy FM（エフエム山形）](../Page/エフエム山形.md "wikilink")、[RADIO BERRY（エフエム栃木）](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")、[FM群馬](../Page/エフエム群馬.md "wikilink")、[FM新潟](../Page/エフエムラジオ新潟.md "wikilink")、[FMとやま](../Page/富山エフエム放送.md "wikilink")、[FM石川](../Page/エフエム石川.md "wikilink")、[FM福井](../Page/福井エフエム放送.md "wikilink")、[FM三重](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")、[FM徳島](../Page/エフエム徳島.md "wikilink")、[FM香川](../Page/エフエム香川.md "wikilink")、[FM高知](../Page/エフエム高知.md "wikilink")、[Air Radio FM88（エフエム大分）](../Page/エフエム大分.md "wikilink")、[FMK（エフエム中九州：当時）](../Page/エフエム熊本.md "wikilink")、[JOY FM（エフエム宮崎）](../Page/エフエム宮崎.md "wikilink")、[μFM（エフエム鹿児島）](../Page/エフエム鹿児島.md "wikilink")
-      - 5時まで（FM AICHI以外は[大学受験ラジオ講座](../Page/大学受験ラジオ講座.md "wikilink")ネットのため）　[FM青森](../Page/エフエム青森.md "wikilink")、[FM岩手](../Page/エフエム岩手.md "wikilink")、[K-MIX（静岡エフエム）](../Page/静岡エフエム放送.md "wikilink")、[FM AICHI](../Page/エフエム愛知.md "wikilink")、[広島FM](../Page/広島エフエム放送.md "wikilink")、[FM山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")
-      - 5時15分まで（大学受験ラジオ講座ネットのため）　[V-air（エフエム山陰）](../Page/エフエム山陰.md "wikilink")
+
+<!-- end list -->
+
+  - フルネット(3時～6時)　[Boy FM（エフエム山形）](../Page/エフエム山形.md "wikilink")、[RADIO BERRY（エフエム栃木）](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")、[FM群馬](../Page/エフエム群馬.md "wikilink")、[FM新潟](../Page/エフエムラジオ新潟.md "wikilink")、[FMとやま](../Page/富山エフエム放送.md "wikilink")、[FM石川](../Page/エフエム石川.md "wikilink")、[FM福井](../Page/福井エフエム放送.md "wikilink")、[FM三重](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")、[FM徳島](../Page/エフエム徳島.md "wikilink")、[FM香川](../Page/エフエム香川.md "wikilink")、[FM高知](../Page/エフエム高知.md "wikilink")、[Air Radio FM88（エフエム大分）](../Page/エフエム大分.md "wikilink")、[FMK（エフエム中九州：当時）](../Page/エフエム熊本.md "wikilink")、[JOY FM（エフエム宮崎）](../Page/エフエム宮崎.md "wikilink")、[μFM（エフエム鹿児島）](../Page/エフエム鹿児島.md "wikilink")
+  - 5時まで（FM AICHI以外は[大学受験ラジオ講座](../Page/大学受験ラジオ講座.md "wikilink")ネットのため）　[FM青森](../Page/エフエム青森.md "wikilink")、[FM岩手](../Page/エフエム岩手.md "wikilink")、[K-MIX（静岡エフエム）](../Page/静岡エフエム放送.md "wikilink")、[FM AICHI](../Page/エフエム愛知.md "wikilink")、[広島FM](../Page/広島エフエム放送.md "wikilink")、[FM山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")
+  - 5時15分まで（大学受験ラジオ講座ネットのため）　[V-air（エフエム山陰）](../Page/エフエム山陰.md "wikilink")
 
 <!-- end list -->
 
   - 1994年10月
-      - [TOKYO FM](../Page/エフエム東京.md "wikilink")（ネット開始、27:00～28:30（「高校通信教育講座」のため、但し祝日にあたる日はフル））、[FM長野](../Page/長野エフエム放送.md "wikilink")（ネット開始、フル）、FM AICHI（フルネット化）、[fm osaka](../Page/エフエム大阪.md "wikilink")（ネット開始、27:00～29:00）
+
+<!-- end list -->
+
+  - [TOKYO FM](../Page/エフエム東京.md "wikilink")（ネット開始、27:00～28:30（「[高校通信教育講座](https://ja.wikipedia.org/wiki/高校通信教育講座 "wikilink")」のため、但し祝日にあたる日はフル））、[FM長野](../Page/長野エフエム放送.md "wikilink")（ネット開始、フル）、FM AICHI（フルネット化）、[fm osaka](../Page/エフエム大阪.md "wikilink")（ネット開始、27:00～29:00）
+
+<!-- end list -->
+
   - 1995年4月（[大学受験ラジオ講座](../Page/大学受験ラジオ講座.md "wikilink")終了のためフルネット化、ネット開始局が増加）
-      - FM青森（フルネット化）、FM岩手（5:45まで延長）、[FM秋田](../Page/エフエム秋田.md "wikilink")（ネット開始、～5:55）、[FM仙台](../Page/エフエム仙台.md "wikilink")（ネット開始、フル）、K-MIX（フルネット化）、V-air（フルネット化）、広島FM（フルネット化）、FM山口（フルネット化）、[FM沖縄](../Page/エフエム沖縄.md "wikilink")（ネット開始、フル）
+
+<!-- end list -->
+
+  - FM青森（フルネット化）、FM岩手（5:45まで延長）、[FM秋田](../Page/エフエム秋田.md "wikilink")（ネット開始、～5:55）、[FM仙台](../Page/エフエム仙台.md "wikilink")（ネット開始、フル）、K-MIX（フルネット化）、V-air（フルネット化）、広島FM（フルネット化）、FM山口（フルネット化）、[FM沖縄](../Page/エフエム沖縄.md "wikilink")（ネット開始、フル）
 
 <!-- end list -->
 
   - 1996年10月
-      - FM仙台（27：00～29：00の枠で「[G1グルーパー](https://ja.wikipedia.org/wiki/G1グルーパー "wikilink")」の時差ネット開始のため5：00～6：00に縮小）
+
+<!-- end list -->
+
+  - FM仙台（27：00～29：00の枠で「[G1グルーパー](https://ja.wikipedia.org/wiki/G1グルーパー "wikilink")」の時差ネット開始のため5：00～6：00に縮小）
 
 <!-- end list -->
 
   -
     ※FM大阪は27：00～29：00の枠で「G1グルーパー」の時差ネット開始のため打ち切り。
 
+  - 1997年4月～終了
+
 <!-- end list -->
 
-  - 1997年4月～終了
-      - FM青森、FM岩手（～5:45）、FM秋田（～5:55）、FM仙台（5：00～6：00）、FM山形、[ふくしまFM](../Page/エフエム福島.md "wikilink")、RADIO BERRY、FMぐんま、TOKYO FM（～4:30）、FM新潟、FM長野、K-MIX、FM AICHI、FM三重、FMとやま、FM石川、FM福井、[e-radio](../Page/エフエム滋賀.md "wikilink")、V-air、広島FM、FM山口、FM徳島、FM香川、FM高知、Air Radio FM88、FMK、JOY FM、μFM、FM沖縄
+  - FM青森、FM岩手（～5:45）、FM秋田（～5:55）、FM仙台（5：00～6：00）、FM山形、[ふくしまFM](../Page/エフエム福島.md "wikilink")、RADIO BERRY、FMぐんま、TOKYO FM（～4:30）、FM新潟、FM長野、K-MIX、FM AICHI、FM三重、FMとやま、FM石川、FM福井、[e-radio](../Page/エフエム滋賀.md "wikilink")、V-air、広島FM、FM山口、FM徳島、FM香川、FM高知、Air Radio FM88、FMK、JOY FM、μFM、FM沖縄
 
 ## コーナー
 

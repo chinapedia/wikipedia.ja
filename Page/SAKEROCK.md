@@ -3,7 +3,7 @@
 
 **SAKEROCK**（サケロック）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[インストゥルメンタル](../Page/器楽曲.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。リーダーの[星野源](../Page/星野源.md "wikilink")が同じ[自由の森学園高等学校出身のメンバーを集め](../Page/自由の森学園中学校・高等学校.md "wikilink")、2000年に結成。インディーズレーベル[カクバリズム](../Page/カクバリズム.md "wikilink")所属。バンド名の由来は、[マーティン・デニー](https://ja.wikipedia.org/wiki/マーティン・デニー "wikilink")の同名曲から。
 
-[2015年](../Page/2015年.md "wikilink")2月28日に解散発表\[1\]し、6月2日に[両国国技館](../Page/両国国技館.md "wikilink")でラストライブを開催し解散した。
+[2015年](../Page/2015年.md "wikilink")2月28日に解散発表\[1\] し、6月2日に[両国国技館](../Page/両国国技館.md "wikilink")でラストライブを開催し解散した。
 
 ## メンバー
 
@@ -531,7 +531,7 @@ SAKEROCK収録曲：穴を掘る／慰安旅行／イケニエの人（ゲスト
 </tr>
 <tr class="odd">
 <td><p>2011年3月2日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SQUARE_ENIX" title="wikilink">SQUARE ENIXトリビュート</a>「<a href="https://ja.wikipedia.org/wiki/More_SQ" title="wikilink">More SQ</a>」</p></td>
+<td><p><a href="../Page/スクウェア・エニックス.md" title="wikilink">スクウェア・エニックス</a>トリビュート「<a href="https://ja.wikipedia.org/wiki/More_SQ" title="wikilink">More SQ</a>」</p></td>
 <td><p>SQEX-10238</p></td>
 <td><p>5．Rosenkranz（<a href="../Page/サガ_フロンティア2.md" title="wikilink">サガ フロンティア2より</a>）</p></td>
 </tr>
@@ -648,7 +648,7 @@ SAKEROCK収録曲：穴を掘る／慰安旅行／イケニエの人（ゲスト
 
   - [ムダってなんぞや？ SAKEROCKインタビュー（10年12月13日 CINRA.NET掲載）](https://www.cinra.net/interview/2010/12/13/000000.php)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:2000年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に結成した音楽グループ "wikilink") [Category:2015年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2015年に解散した音楽グループ "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:CDショップ大賞受賞者](https://ja.wikipedia.org/wiki/Category:CDショップ大賞受賞者 "wikilink") [Category:星野源](https://ja.wikipedia.org/wiki/Category:星野源 "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:2000年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に結成した音楽グループ "wikilink") [Category:2015年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2015年に解散した音楽グループ "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:CDショップ大賞受賞者](https://ja.wikipedia.org/wiki/Category:CDショップ大賞受賞者 "wikilink") [Category:星野源](https://ja.wikipedia.org/wiki/Category:星野源 "wikilink") [Category:インストゥルメンタルの音楽グループ](https://ja.wikipedia.org/wiki/Category:インストゥルメンタルの音楽グループ "wikilink")
 
 1.
 2.  ファミ通WaveDVDポッドキャスティングより。

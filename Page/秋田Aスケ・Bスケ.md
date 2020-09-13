@@ -120,7 +120,7 @@ Aスケは一発芸に依存して稽古に不熱心なBスケを嘆き、また
   - [スポニチ大阪「「秋田Ａスケ・Ｂスケ」結成60年の歴史振り返る」の記事](http://www.gslb.sponichi.co.jp/osaka/ente/200511/24/ente187592.html)
   - [新開地 「30年ぶり松竹座“復活”　喜味こいしさんら出演　芸の伝統次世代に」 神戸新聞の記事](http://www.shinkaichi.or.jp/whatsnew/detail.html?row_no=174)
 
-[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:過去の吉本興業所属者](https://ja.wikipedia.org/wiki/Category:過去の吉本興業所属者 "wikilink")
+[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:過去の吉本興業所属者](https://ja.wikipedia.org/wiki/Category:過去の吉本興業所属者 "wikilink") [Category:秋田一門](https://ja.wikipedia.org/wiki/Category:秋田一門 "wikilink")
 
 1.
 2.

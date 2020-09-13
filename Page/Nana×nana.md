@@ -11,11 +11,11 @@
 | ----------------------------------------------------- | ------ |
 | [水樹奈々](../Page/水樹奈々.md "wikilink")                    | 鈴木ナナ   |
 | [桃森すもも](../Page/桃森すもも.md "wikilink")                  | 怒：ナナっぺ |
-| [中原麻衣](https://ja.wikipedia.org/wiki/中原麻衣 "wikilink") | 頭：ナナさま |
-| [名塚佳織](../Page/名塚佳織.md "wikilink")                    | 霊：ナナぽん |
+| [浅木舞](../Page/浅木舞.md "wikilink")                      | 笑：ナナっち |
 | [福井裕佳梨](../Page/福井裕佳梨.md "wikilink")                  | 泣：ナナりん |
 | [秋田まどか](../Page/秋田まどか.md "wikilink")                  | 幸：ナナっこ |
-| [浅木舞](../Page/浅木舞.md "wikilink")                      | 笑：ナナっち |
+| [中原麻衣](https://ja.wikipedia.org/wiki/中原麻衣 "wikilink") | 頭：ナナさま |
+| [名塚佳織](../Page/名塚佳織.md "wikilink")                    | 霊：ナナぽん |
 
 ## ディスコグラフィ
 
@@ -59,4 +59,4 @@
 
   - [『七人のナナ』StarChild公式ページ](http://www.starchild.co.jp/special/nana/)
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:声優ユニット](https://ja.wikipedia.org/wiki/Category:声優ユニット "wikilink") [Category:スターチャイルドのアーティスト](https://ja.wikipedia.org/wiki/Category:スターチャイルドのアーティスト "wikilink") [Category:水樹奈々](https://ja.wikipedia.org/wiki/Category:水樹奈々 "wikilink") [Category:中原麻衣](https://ja.wikipedia.org/wiki/Category:中原麻衣 "wikilink")
+[Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:声優ユニット](https://ja.wikipedia.org/wiki/Category:声優ユニット "wikilink") [Category:スターチャイルドのアーティスト](https://ja.wikipedia.org/wiki/Category:スターチャイルドのアーティスト "wikilink") [Category:水樹奈々](https://ja.wikipedia.org/wiki/Category:水樹奈々 "wikilink") [Category:中原麻衣](https://ja.wikipedia.org/wiki/Category:中原麻衣 "wikilink")

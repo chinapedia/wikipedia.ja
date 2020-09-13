@@ -795,7 +795,7 @@ Viewsic（現MUSIC ON\! TV）にて[生中継](https://ja.wikipedia.org/wiki/生
 
 アンコール 2
 
-1.  [LOVE PARADE](https://ja.wikipedia.org/wiki/LOVE_PARADE "wikilink")
+1.  [LOVE PARADE](https://ja.wikipedia.org/wiki/LOVE_PARADE/STEPPERS_-PARADE- "wikilink")
 2.  [FLY HIGH](https://ja.wikipedia.org/wiki/FLY_HIGH "wikilink")
 3.  [独壇場Beauty -R.I.P.-](https://ja.wikipedia.org/wiki/独壇場Beauty_-R.I.P.- "wikilink")
 
@@ -821,7 +821,7 @@ Viewsic（現MUSIC ON\! TV）にて[生中継](https://ja.wikipedia.org/wiki/生
 
 アンコール 2
 
-1.  [LOVE PARADE](https://ja.wikipedia.org/wiki/LOVE_PARADE "wikilink")
+1.  [LOVE PARADE](https://ja.wikipedia.org/wiki/LOVE_PARADE/STEPPERS_-PARADE- "wikilink")
 2.  [FLY HIGH](https://ja.wikipedia.org/wiki/FLY_HIGH "wikilink")
 3.  [独壇場Beauty -R.I.P.-](https://ja.wikipedia.org/wiki/独壇場Beauty_-R.I.P.- "wikilink")
 
@@ -847,7 +847,7 @@ Viewsic（現MUSIC ON\! TV）にて[生中継](https://ja.wikipedia.org/wiki/生
 
 アンコール 2
 
-1.  [LOVE PARADE](https://ja.wikipedia.org/wiki/LOVE_PARADE "wikilink")
+1.  [LOVE PARADE](https://ja.wikipedia.org/wiki/LOVE_PARADE/STEPPERS_-PARADE- "wikilink")
 2.  [FLY HIGH](https://ja.wikipedia.org/wiki/FLY_HIGH "wikilink")
 3.  [独壇場Beauty -R.I.P.-](https://ja.wikipedia.org/wiki/独壇場Beauty_-R.I.P.- "wikilink")
 
@@ -874,7 +874,7 @@ Viewsic（現MUSIC ON\! TV）にて[生中継](https://ja.wikipedia.org/wiki/生
 
 アンコール 2
 
-1.  [LOVE PARADE](https://ja.wikipedia.org/wiki/LOVE_PARADE "wikilink")
+1.  [LOVE PARADE](https://ja.wikipedia.org/wiki/LOVE_PARADE/STEPPERS_-PARADE- "wikilink")
 2.  [FLY HIGH](https://ja.wikipedia.org/wiki/FLY_HIGH "wikilink")
 3.  [独壇場Beauty -R.I.P.-](https://ja.wikipedia.org/wiki/独壇場Beauty_-R.I.P.- "wikilink")
 
@@ -2084,7 +2084,7 @@ Viewsic（現MUSIC ON\! TV）にて[生中継](https://ja.wikipedia.org/wiki/生
   - [BUCK-TICK](../Page/BUCK-TICK.md "wikilink")
   - [日本武道館](../Page/日本武道館.md "wikilink")
 
-[Category:BUCK-TICK](https://ja.wikipedia.org/wiki/Category:BUCK-TICK "wikilink") [Category:コンサート](https://ja.wikipedia.org/wiki/Category:コンサート "wikilink") [Category:コンサート・ツアーの一覧](https://ja.wikipedia.org/wiki/Category:コンサート・ツアーの一覧 "wikilink")
+[Category:BUCK-TICK](https://ja.wikipedia.org/wiki/Category:BUCK-TICK "wikilink") [Category:日本のコンサート](https://ja.wikipedia.org/wiki/Category:日本のコンサート "wikilink") [Category:コンサート・ツアーの一覧](https://ja.wikipedia.org/wiki/Category:コンサート・ツアーの一覧 "wikilink")
 
 1.
 2.

@@ -25,7 +25,7 @@
 
 口調は、初登場の『サンシャイン』の頃と『ギャラクシー1・2』など近年の作品では若干の差異がある（成長したためとも取れるが）。一人称は「ぼく」。父クッパへの呼称は「お父さん」である。当初はピーチを「ピーチママ」と呼んでいたが『マリオギャラクシー』以降からは成長したためか「ピーチ姫」と呼んでいた。
 
-前述のように父を心から尊敬しており、父クッパも『[マリオカート ダブルダッシュ\!\!](../Page/マリオカート_ダブルダッシュ!!.md "wikilink")』公式サイトの説明で「目に入れても痛くない」と言うほど可愛がっている。なお、クッパJr.登場以前からクッパの息子たちとして存在していた「[コクッパ](../Page/コクッパ.md "wikilink")7人衆」は、クッパJr.登場以降は「クッパの手下」として扱われることが多く、2012年9月には、アメリカのゲーム誌『[Game Informer](https://ja.wikipedia.org/wiki/:en:Game_Informer "wikilink")』のインタビューにて、[宮本茂](https://ja.wikipedia.org/wiki/宮本茂 "wikilink")が *"Our current story is that the seven Koopalings are not Bowser's children. Bowser's only child is Bowser Jr., and we do not know who the mother is."* （翻訳：我々の現在のストーリーでは、7人のコクッパ達はクッパの子供ではない。クッパの唯一の子供はクッパJr.で、その母親が誰なのかは分からない。） と回答している\[1\]。2015年9月に宮本は「クッパJrの母親が誰か知っているか？」という質問に頷き、自身を指さしている\[2\]。両者が初共演した『[New スーパーマリオブラザーズ Wii](https://ja.wikipedia.org/wiki/New_スーパーマリオブラザーズ_Wii "wikilink")』のプロローグやエピローグでは非常に息の合った連携プレイ、やり取りを見せており、厳密な関係は不明だが、少なくともJr.と7人衆の関係はかなり良好のようである。『[マリオ&ルイージRPG ペーパーマリオMIX](https://ja.wikipedia.org/wiki/マリオ&ルイージRPG_ペーパーマリオMIX "wikilink")』では[ロイから](../Page/ロイ_\(マリオシリーズ\).md "wikilink")「ぼっちゃん」と呼ばれている。
+前述のように父を心から尊敬しており、父クッパも『[マリオカート ダブルダッシュ\!\!](../Page/マリオカート_ダブルダッシュ!!.md "wikilink")』公式サイトの説明で「目に入れても痛くない」と言うほど可愛がっている。なお、クッパJr.登場以前からクッパの息子たちとして存在していた「[コクッパ](../Page/コクッパ.md "wikilink")7人衆」は、クッパJr.登場以降は「クッパの手下」として扱われることが多く、2012年9月には、アメリカのゲーム誌『[Game Informer](https://ja.wikipedia.org/wiki/:en:Game_Informer "wikilink")』のインタビューにて、[宮本茂](https://ja.wikipedia.org/wiki/宮本茂 "wikilink")が *"Our current story is that the seven Koopalings are not Bowser's children. Bowser's only child is Bowser Jr., and we do not know who the mother is."* （翻訳：我々の現在のストーリーでは、7人のコクッパ達はクッパの子供ではない。クッパの唯一の子供はクッパJr.で、その母親が誰なのかは分からない。） と回答している\[1\]。2015年9月に宮本は「クッパJrの母親が誰か知っているか？」という質問に頷き、自身を指さしている\[2\]。両者が初共演した『[New スーパーマリオブラザーズ Wii](https://ja.wikipedia.org/wiki/New_スーパーマリオブラザーズ_Wii "wikilink")』のプロローグやエピローグでは非常に息の合った連携プレイ、やり取りを見せており、厳密な関係は不明だが、少なくともJr.と7人衆の関係はかなり良好のようである。『[マリオ&ルイージRPG ペーパーマリオMIX](https://ja.wikipedia.org/wiki/マリオ&ルイージRPG_ペーパーマリオMIX "wikilink")』では[ロイから](../Page/ロイ_\(マリオシリーズ\).md "wikilink")、『[ペーパーマリオ オリガミキング](../Page/ペーパーマリオ_オリガミキング.md "wikilink")』では[カメック](../Page/カメック.md "wikilink")から「ぼっちゃん」と呼ばれている。
 
 ## 歴史
 
@@ -120,12 +120,18 @@
     Wii U版『8』には参戦していなかったが、今作では最初から使用可能。マリオカートシリーズでは初めて7人衆と共に出場となった。軽量級。
   - 『[マリオ+ラビッツ キングダムバトル](https://ja.wikipedia.org/wiki/マリオ+ラビッツ_キングダムバトル "wikilink")』（2017年）
     ステージ4-5のボスとして登場。
+  - 『みまもりSwitch』(2017年)
+    紹介映像として登場する。
   - 『[マリオ&ルイージRPG1 DX](https://ja.wikipedia.org/wiki/マリオ&ルイージRPG#マリオ&ルイージRPG1_DX "wikilink")』（2017年）
     原作GBA版には登場していなかったが、今作の追加モード「クッパ軍団RPG」で参戦。メインストーリーには原作同様登場しない。
   - 『[マリオパーティ100 ミニゲームコレクション](https://ja.wikipedia.org/wiki/マリオパーティ100_ミニゲームコレクション "wikilink")』（2017年）
     『[マリオパーティ4](../Page/マリオパーティ4.md "wikilink")』からの再録ミニゲーム「さいごのたたかい\!\!」にて、原作のミニクッパ2体に代わって登場している。
-  - 『[マリオ&ルイージRPG3\!\!\! DX](https://ja.wikipedia.org/wiki/マリオ&ルイージRPG3!!!#マリオ&ルイージRPG3!!!_DX "wikilink")』（[2018年](../Page/2018年.md "wikilink")）
+  - 『[マリオテニス エース](https://ja.wikipedia.org/wiki/マリオテニス_エース "wikilink")』（[2018年](../Page/2018年.md "wikilink")）
+    前作「ウルトラスマッシュ」に引き続き、クッパJr.クラウンに乗っての登場。タイプがディフェンスに変更されている。前作と異なり最初からプレイアブルキャラとして使用できる。
+  - 『[マリオ&ルイージRPG3\!\!\! DX](https://ja.wikipedia.org/wiki/マリオ&ルイージRPG3!!!#マリオ&ルイージRPG3!!!_DX "wikilink")』（2018年）
     原作NDS版には登場していなかったが、今作の追加モード「クッパJr.RPG」で参戦。メインストーリーには原作同様登場しない。
+  - 『[ペーパーマリオ オリガミキング](../Page/ペーパーマリオ_オリガミキング.md "wikilink")』（2020年）
+    父を救出すべく天空スパーランドに登場するも、ハサミに襲われてしまい各地の温泉を巡ることで元に戻る。その後は中途半端に折られて動けなくなったクッパを助けるためにマリオやカメックと一時行動することになる。
 
 ## 登場作品
 
@@ -158,6 +164,7 @@
       - [マリオ&ソニック AT リオオリンピック](https://ja.wikipedia.org/wiki/マリオ&ソニック_AT_リオオリンピック "wikilink")
   - [いただきストリートWii](https://ja.wikipedia.org/wiki/いただきストリートWii "wikilink")
   - [ペーパーマリオ スーパーシール](https://ja.wikipedia.org/wiki/ペーパーマリオ_スーパーシール "wikilink")
+  - [ペーパーマリオ オリガミキング](../Page/ペーパーマリオ_オリガミキング.md "wikilink")
   - [マリオ&ルイージRPGシリーズ](https://ja.wikipedia.org/wiki/マリオ&ルイージRPGシリーズ "wikilink")
       - [マリオ&ルイージRPG4 ドリームアドベンチャー](https://ja.wikipedia.org/wiki/マリオ&ルイージRPG4_ドリームアドベンチャー "wikilink")
       - [マリオ&ルイージRPG ペーパーマリオMIX](https://ja.wikipedia.org/wiki/マリオ&ルイージRPG_ペーパーマリオMIX "wikilink")

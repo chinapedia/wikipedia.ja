@@ -171,7 +171,7 @@ Super Monaco GP II</p></td>
 
   - （英語）
 
-[Category:1992年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1992年のコンピュータゲーム "wikilink") [Category:アイルトン・セナ](https://ja.wikipedia.org/wiki/Category:アイルトン・セナ "wikilink") [Category:ゲームギア用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームギア用ソフト "wikilink") [Category:セガのゲームソフト](https://ja.wikipedia.org/wiki/Category:セガのゲームソフト "wikilink") [Category:セガ・マークIII&マスターシステム用ソフト](https://ja.wikipedia.org/wiki/Category:セガ・マークIII&マスターシステム用ソフト "wikilink") [Category:プロスポーツ選手監修のスポーツゲーム](https://ja.wikipedia.org/wiki/Category:プロスポーツ選手監修のスポーツゲーム "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink") [Category:レースゲーム](https://ja.wikipedia.org/wiki/Category:レースゲーム "wikilink")
+[Category:1992年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1992年のコンピュータゲーム "wikilink") [Category:アイルトン・セナ](https://ja.wikipedia.org/wiki/Category:アイルトン・セナ "wikilink") [Category:ゲームギア用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームギア用ソフト "wikilink") [Category:セガのゲームソフト](https://ja.wikipedia.org/wiki/Category:セガのゲームソフト "wikilink") [Category:セガ・マークIII&マスターシステム用ソフト](https://ja.wikipedia.org/wiki/Category:セガ・マークIII&マスターシステム用ソフト "wikilink") [Category:プロスポーツ選手監修のスポーツゲーム](https://ja.wikipedia.org/wiki/Category:プロスポーツ選手監修のスポーツゲーム "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink") [Category:F1ゲーム](https://ja.wikipedia.org/wiki/Category:F1ゲーム "wikilink")
 
 1.  [アイルトン・セナ](../Page/アイルトン・セナ.md "wikilink")のみ実名で登場。
 2.  但し、アイルトン・セナと勝負し、セナに勝った場合はエンディングが流れる。

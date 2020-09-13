@@ -60,8 +60,8 @@
 
 ## 外部リンク
 
-  - [Kick Off\!](http://web.archive.org/web/20071008165626/http://www.jvcmusic.co.jp/sas/songs/items/VCF-10008.html) - sas-fan.net
+  - [Kick Off\!](https://web.archive.org/web/20071008165626/http://www.jvcmusic.co.jp/sas/songs/items/VCF-10008.html) - sas-fan.net
 
 [Category:サザンオールスターズのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:サザンオールスターズのベスト・アルバム "wikilink") [Category:1980年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:1980年のベスト・アルバム "wikilink") [Category:ビクターインビテーションのアルバム](https://ja.wikipedia.org/wiki/Category:ビクターインビテーションのアルバム "wikilink")
 
-1.  [公式サイト Kick Off\!](http://web.archive.org/web/20071008165626/http://www.jvcmusic.co.jp/sas/songs/items/VCF-10008.html) sas-fan.net 2016年3月20日閲覧
+1.  [公式サイト Kick Off\!](https://web.archive.org/web/20071008165626/http://www.jvcmusic.co.jp/sas/songs/items/VCF-10008.html) sas-fan.net 2016年3月20日閲覧

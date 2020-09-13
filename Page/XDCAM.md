@@ -1,7 +1,7 @@
 > この記事は[XDCAM](https://ja.wikipedia.org/wiki/XDCAM)から翻訳されています。
 
 
-**XDCAM**（エックスディカム）は、[ソニー](../Page/ソニー.md "wikilink")が開発した放送業務用ディスクビデオシステム。 [2003年](../Page/2003年.md "wikilink")10月に[SDシステムの発売が開始され](../Page/世界の放送方式.md "wikilink")、2006年4月には[HDシステムが発表された](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")。記録メディアは「[Professional Disc](../Page/Professional_Disc.md "wikilink")」という名称で、カートリッジに入っており1層23.3GB、2層50GBの容量を持ち[Blu-ray Discと同じ波長](../Page/Blu-ray_Disc.md "wikilink")405nmの青紫色レーザーを利用する直径12cmの光ディスクである。
+[サムネイル](https://ja.wikipedia.org/wiki/ファイル:XDCAM.jpg "wikilink") **XDCAM**（エックスディカム）は、[ソニー](../Page/ソニー.md "wikilink")が開発した放送業務用ディスクビデオシステム。 [2003年](../Page/2003年.md "wikilink")10月に[SDシステムの発売が開始され](../Page/世界の放送方式.md "wikilink")、2006年4月には[HDシステムが発表された](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")。記録メディアは「[Professional Disc](../Page/Professional_Disc.md "wikilink")」という名称で、カートリッジに入っており1層23.3GB、2層50GBの容量を持ち[Blu-ray Discと同じ波長](../Page/Blu-ray_Disc.md "wikilink")405nmの青紫色レーザーを利用する直径12cmの光ディスクである。
 
 記録フォーマットには [MPEG-2](../Page/MPEG-2.md "wikilink") (**[MPEG IMX](https://ja.wikipedia.org/wiki/MPEG_IMX "wikilink")**と**MPEG HD**、**MPEG HD422**)と[DVCAM](../Page/DVCAM.md "wikilink")フォーマットが利用されており、[BDMV](../Page/BDMV.md "wikilink")(BD-Video) (Blu-ray Discでの民生用ビデオフォーマット)との互換性はない。
 

@@ -49,7 +49,7 @@
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年） - [松崎麻矢](../Page/松崎麻矢.md "wikilink")と[Favorite Blueを結成](../Page/Favorite_Blue.md "wikilink")
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年） - motsu、[yuri](https://ja.wikipedia.org/wiki/yuri "wikilink")とmoveを結成、同グループのリーダーに就任（後に[m.o.v.e](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")へ名称変更）
   - [2000年](../Page/2000年.md "wikilink")（平成12年） - [Favorite Blue活動停止](../Page/Favorite_Blue.md "wikilink")
-  - [2001年](../Page/2001年.md "wikilink") (平成13年)　- 結婚。子供を儲ける。
+  - [2001年](../Page/2001年.md "wikilink") (平成13年)　- 結婚。子供を設ける。
   - [2002年](../Page/2002年.md "wikilink")（平成14年） - ソロプロジェクト・[Orbitribe](https://ja.wikipedia.org/wiki/Orbitribe "wikilink")を始動し、アルバム『TUNE ON』をリリース
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年） - プロデューサーに専念するためエイベックスとの契約を終了。
   - [2009年](../Page/2009年.md "wikilink")（平成21年）[4月4日](../Page/4月4日.md "wikilink") - [SHIBUYA AXでの](https://ja.wikipedia.org/wiki/SHIBUYA_AX "wikilink")『LIVE TRANSFORM 2009』をもってm.o.v.eを正式に卒業。同時にアーティスト活動も終了しプロデューサーに専念、併せて株式会社バーニングパブリッシャーズに移籍。

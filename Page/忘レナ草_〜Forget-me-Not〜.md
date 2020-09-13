@@ -53,4 +53,4 @@
   - [忘レナ草 Forget-me-Not](http://unisonshift.amusecraft.com/products/project6/project6.html)
   - [ユニゾンシフト](http://unisonshift.amusecraft.com/)
 
-[Category:2002年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2002年のアダルトゲーム "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:ソフパル](https://ja.wikipedia.org/wiki/Category:ソフパル "wikilink") [Category:ユニゾンシフト](https://ja.wikipedia.org/wiki/Category:ユニゾンシフト "wikilink") [Category:死神を題材とした作品](https://ja.wikipedia.org/wiki/Category:死神を題材とした作品 "wikilink")
+[Category:2002年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2002年のアダルトゲーム "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:ソフパル](https://ja.wikipedia.org/wiki/Category:ソフパル "wikilink") [Category:ユニゾンシフト](https://ja.wikipedia.org/wiki/Category:ユニゾンシフト "wikilink") [Category:死神を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:死神を題材としたコンピュータゲーム "wikilink")

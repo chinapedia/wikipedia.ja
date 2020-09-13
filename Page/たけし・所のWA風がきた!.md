@@ -1,27 +1,29 @@
 > この記事は[たけし・所のWA風がきた!](https://ja.wikipedia.org/wiki/たけし・所のWA風がきた!)から翻訳されています。
 
 
-『**たけし・所のWA風が来た\!**』（たけし ところのわふうがきた）は、[2001年](../Page/2001年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")にかけて[テレビ朝日系列で放送されていた](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")･[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。[朝日放送](../Page/朝日放送テレビ.md "wikilink")（ABC）と[イーストの共同制作](https://ja.wikipedia.org/wiki/イースト_\(テレビ制作会社\) "wikilink")。放送時間は毎週[火曜](../Page/火曜日.md "wikilink")20:00 - 20:54（[JST](../Page/日本標準時.md "wikilink")）。
+『**たけし・所のWA風が来た\!**』（たけし ところのわふうがきた）は、[2001年](../Page/2001年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")にかけて[テレビ朝日系列で放送されていた](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")･[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")。[朝日放送](../Page/朝日放送テレビ.md "wikilink")（ABC）と[イーストの共同制作](https://ja.wikipedia.org/wiki/イースト_\(テレビ制作会社\) "wikilink")。放送時間は毎週[火曜](../Page/火曜日.md "wikilink")20:00 - 20:54（[JST](../Page/日本標準時.md "wikilink")）。
 
 ビートたけし司会の科学情報番組『[たけしの万物創世紀](../Page/たけしの万物創世紀.md "wikilink")』の後番組で、世界で活躍する日本人や日本の技術、世界で評価される日本文化などを紹介する番組だった。
 
 ## 番組内容
 
-世界で活躍する『ニッポン』を紹介する番組で、初期はクイズ番組で、**ビートたけしチーム**対**所ジョージチーム**の対抗戦という形式だった。セットには番組ロゴが設けられており、初期は毎週敗戦したキャプテンの名前が吹き飛び、次回の番組タイトルが勝利チームのキャプテン単独の冠（「たけしの～」または「所の～」）になる、というギミックがあった。視聴者からも情報を募集し紹介されたものから抽選で番組特製[クオカード](../Page/クオカード.md "wikilink")がプレゼントされた。
+世界で活躍する『ニッポン』を紹介する番組で、初期はクイズ番組で**ビートたけしチーム**対**所ジョージチーム**の対抗戦という形式だった。セットには番組ロゴが設けられており、初期は毎週敗戦したキャプテンの名前が吹き飛び、次回の番組タイトルが勝利チームのキャプテン単独の冠（「たけしの～」または「所の～」）になるというギミックがあった。視聴者からも情報を募集し紹介されたものから抽選で番組特製[クオカード](../Page/クオカード.md "wikilink")がプレゼントされた。
 
 後期にはクイズ形式を廃止し日本の物事と他国の物事を対決形式で比較する内容となった。この時期の企画の中でリフォーム企画の評判が良く、その後、所司会の同様の趣旨の番組『[大改造\!\!劇的ビフォーアフター](../Page/大改造!!劇的ビフォーアフター.md "wikilink")』が制作されている。
 
-なお、この番組の終了後、火曜20時枠におけるたけし冠司会の番組は、2004年4月に『[最終警告\!たけしの本当は怖い家庭の医学](../Page/最終警告!たけしの本当は怖い家庭の医学.md "wikilink")』が開始する（ - 2009年12月）まで2年の期間を要することとなる。
-
 ## 出演
+
+当番組はたけしと所の冠番組であるものの、両者とも司会ではなくレギュラーパネラーという位置付けだった。
+
+### レギュラーパネラー
 
   - [ビートたけし](../Page/ビートたけし.md "wikilink")
   - [所ジョージ](https://ja.wikipedia.org/wiki/所ジョージ "wikilink")
 
-<!-- end list -->
+### MC
 
-  - [山寺宏一](https://ja.wikipedia.org/wiki/山寺宏一 "wikilink")（前期司会進行）
-  - [浅草キッド](../Page/浅草キッド.md "wikilink")（[水道橋博士](../Page/水道橋博士.md "wikilink")・[玉袋筋太郎](../Page/玉袋筋太郎.md "wikilink")）（後期進行）
+  - [山寺宏一](https://ja.wikipedia.org/wiki/山寺宏一 "wikilink")（前期MC）
+  - [浅草キッド](../Page/浅草キッド.md "wikilink")（[水道橋博士](../Page/水道橋博士.md "wikilink")・[玉袋筋太郎](../Page/玉袋筋太郎.md "wikilink")）（後期MC）
 
 ## ネット局
 
@@ -55,7 +57,7 @@
 
 ## スタッフ
 
-  - 構成：[倉本美津留](../Page/倉本美津留.md "wikilink")、[中野俊成](../Page/中野俊成.md "wikilink")、増山実、須平敦宣、川野将一（毎週）、野中浩之、関口正晃、櫻井昭宏、川島浩司、高橋ナツコ（週替り）
+  - 構成：[倉本美津留](../Page/倉本美津留.md "wikilink")、[中野俊成](../Page/中野俊成.md "wikilink")、増山実、須平敦宣、[川野将一](../Page/川野将一.md "wikilink")（毎週）、[野中浩之](https://ja.wikipedia.org/wiki/野中浩之 "wikilink")、[関口正晃](https://ja.wikipedia.org/wiki/関口正晃 "wikilink")、櫻井昭宏、川島浩司、[高橋ナツコ](../Page/高橋ナツコ.md "wikilink")（週替り）
   - ナレーター：[屋良有作](../Page/屋良有作.md "wikilink")
   - 技術：岡本隆嗣
   - カメラ：川崎昭
@@ -86,9 +88,9 @@
   - 制作協力：[エックスワン](../Page/エックスワン.md "wikilink")、[NON PRO](../Page/ノンプロダクション.md "wikilink")、[スペードワン](https://ja.wikipedia.org/wiki/スペードワン "wikilink")
   - 企画協力：[オフィス北野](https://ja.wikipedia.org/wiki/オフィス北野 "wikilink")、TV CLUB
   - ディレクター：河合優、河合希絵、酒井秀樹、栖川一郎、佐久間大介、御手洗英明、[髙橋章良](https://ja.wikipedia.org/wiki/高橋章良 "wikilink")
-  - 演出：中山高嘉（イースト）
+  - 演出：[中山高嘉](https://ja.wikipedia.org/wiki/中山高嘉 "wikilink")（イースト）
   - プロデューサー：[岩田潤](../Page/岩田潤.md "wikilink")（ABC）、岩城信行（イースト）、佐藤和之（スペードワン）
-  - チーフプロデューサー：今村俊昭（ABC）、梅本満（イースト、以前はプロデューサー）
+  - チーフプロデューサー：今村俊昭（ABC）、[梅本満](https://ja.wikipedia.org/wiki/梅本満 "wikilink")（イースト、以前はプロデューサー）
   - 制作：ABC、イースト
 
 ### 過去のスタッフ

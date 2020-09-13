@@ -16,7 +16,14 @@
 
 1.  **promised you**
       -
-        作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")　作曲：[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")　編曲：[Cybersound](https://ja.wikipedia.org/wiki/Cybersound "wikilink")
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")
+        作曲：[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")
+        編曲：[Cybersound](https://ja.wikipedia.org/wiki/Cybersound "wikilink")
+
+        </div>
     <!-- end list -->
       - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[土曜ワイド劇場](../Page/土曜ワイド劇場.md "wikilink")』エンディングテーマ
       - コーラス参加は[Michael Africk](https://ja.wikipedia.org/wiki/Michael_Africk "wikilink")
@@ -24,7 +31,13 @@
       - プロモーションビデオの撮影は[大阪](../Page/大阪.md "wikilink")のGRAND cafeで行われた。
 2.  **The only truth I know is you**
       -
-        作詞：坂井泉水　作曲・編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：坂井泉水
+        作曲・編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
+
+        </div>
     <!-- end list -->
       - Cメロ後の間奏で坂井によるラップが入る。
 3.  **promised you（オリジナルカラオケ）**

@@ -102,7 +102,7 @@
 </tr>
 <tr class="odd">
 <td><p>第11代</p></td>
-<td><p><a href="../Page/大黒坊弁慶.md" title="wikilink">大黒坊弁慶</a>&amp;<a href="../Page/アブドーラ小林.md" title="wikilink">アブドーラ小林</a></p></td>
+<td><p><a href="../Page/大黒坊弁慶.md" title="wikilink">大黒坊弁慶</a>&amp;<a href="../Page/アブドーラ・小林.md" title="wikilink">アブドーラ小林</a></p></td>
 <td><p>0</p></td>
 <td><p>2003年3月23日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/鶴見緑地公園水の館ホール" title="wikilink">鶴見緑地公園水の館ホール</a>付属展示場<br />

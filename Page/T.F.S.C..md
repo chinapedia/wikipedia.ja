@@ -66,6 +66,18 @@
       - ベストイレブン：吉岡広介、安藤謙、林真人、谷本修、棚町佑介、勝部和気（※）
       - ※東京都社会人サッカー選抜選出
 
+## タイトル
+
+### リーグ戦
+
+  - **[東京都社会人サッカーリーグ](../Page/東京都社会人サッカーリーグ.md "wikilink")1部：2回**
+      - 2004年、2009年
+
+### カップ戦
+
+  - **[関東社会人サッカー大会](../Page/関東社会人サッカー大会.md "wikilink")：1回**
+      - 2004年
+
 ## ユニフォーム
 
 ### クラブカラー
@@ -82,9 +94,9 @@
 
 ## 歴代所属選手
 
-  - [菅谷淳](https://ja.wikipedia.org/wiki/菅谷淳 "wikilink")
-  - [林真人](https://ja.wikipedia.org/wiki/林真人 "wikilink") 2008-2010
-  - [田谷高浩](https://ja.wikipedia.org/wiki/田谷高浩 "wikilink") 2010-2011
+  - [菅谷淳](https://ja.wikipedia.org/wiki/菅谷淳 "wikilink") (?)
+  - [林真人](https://ja.wikipedia.org/wiki/林真人 "wikilink") (2008-2010)
+  - [田谷高浩](https://ja.wikipedia.org/wiki/田谷高浩 "wikilink") (2010-2011)
 
 ## 脚注
 

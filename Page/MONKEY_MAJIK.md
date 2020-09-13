@@ -13,7 +13,7 @@
 
 [2006年](../Page/2006年.md "wikilink")（平成18年）、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[月9ドラマ](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")『[西遊記](../Page/西遊記_\(2006年のテレビドラマ\).md "wikilink")』の主題歌「[Around The World](../Page/Around_The_World_\(MONKEY_MAJIKの曲\).md "wikilink")」のヒットにより有名バンドの仲間入りをし、[2007年](../Page/2007年.md "wikilink")（平成19年）には[ヨコハマタイヤイメージソング](../Page/横浜ゴム.md "wikilink")「[空はまるで](../Page/空はまるで.md "wikilink")」が[USEN](../Page/USEN.md "wikilink")の総合チャートとリクエストチャートで1位となり、発売前の楽曲が同チャート1位となるのは史上初だったため話題となった。このほかにも[テレビ](../Page/テレビ.md "wikilink")、[CM](../Page/コマーシャルメッセージ.md "wikilink")、[映画](../Page/映画.md "wikilink")などでの[タイアップ](../Page/タイアップ.md "wikilink")が目立つ。また、[SMAP](../Page/SMAP.md "wikilink")の42枚目のシングル「[そのまま](https://ja.wikipedia.org/wiki/そのまま "wikilink")」を手がけた。
 
-日本国[外務省](../Page/外務省.md "wikilink")およびカナダ外務省より「日加国交樹立80周年記念[親善大使](../Page/親善大使.md "wikilink")」、[国土交通省](../Page/国土交通省.md "wikilink")[東北運輸局](../Page/東北運輸局.md "wikilink")および[東北観光推進機構](https://ja.wikipedia.org/wiki/東北観光推進機構 "wikilink")より「[東北観光親善大使](https://ja.wikipedia.org/wiki/東北地方 "wikilink")」、[ベガルタ仙台より](https://ja.wikipedia.org/wiki/ベガルタ仙台_\(企業\) "wikilink")「[ベガルタ仙台](../Page/ベガルタ仙台.md "wikilink")日加親善大使」、日本国外務省より「復興発信使（KIZUNA大使）」を委嘱されている。[2009年](../Page/2009年.md "wikilink")（平成21年）にはカナダ公式訪問中の[天皇](https://ja.wikipedia.org/wiki/上皇明仁 "wikilink")・[皇后両陛下の前で天覧ライヴを行った](../Page/上皇后美智子.md "wikilink")。
+日本国[外務省](../Page/外務省.md "wikilink")およびカナダ外務省より「日加国交樹立80周年記念[親善大使](../Page/親善大使.md "wikilink")」、[国土交通省](../Page/国土交通省.md "wikilink")[東北運輸局](../Page/東北運輸局.md "wikilink")および[東北観光推進機構](../Page/東北観光推進機構.md "wikilink")より「[東北観光親善大使](https://ja.wikipedia.org/wiki/東北地方 "wikilink")」、[ベガルタ仙台より](https://ja.wikipedia.org/wiki/ベガルタ仙台_\(企業\) "wikilink")「[ベガルタ仙台](../Page/ベガルタ仙台.md "wikilink")日加親善大使」、日本国外務省より「復興発信使（KIZUNA大使）」を委嘱されている。[2009年](../Page/2009年.md "wikilink")（平成21年）にはカナダ公式訪問中の[天皇](https://ja.wikipedia.org/wiki/上皇明仁 "wikilink")・[皇后両陛下の前で天覧ライヴを行った](../Page/上皇后美智子.md "wikilink")。
 
 マネージメントは[エドワード・エンターテインメント・グループ](https://ja.wikipedia.org/wiki/エドワード・エンターテインメント・グループ "wikilink")に所属していたが、現在は[エイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink")所属となっている。[レーベルについては](../Page/レコードレーベル.md "wikilink")、[スタジオ](../Page/スタジオ.md "wikilink")収録音源は[インディーズ](../Page/インディーズ.md "wikilink")時代が[UNDER HORSE RECORDS](https://ja.wikipedia.org/wiki/エドワード・エンターテインメント・グループ#UNDER_HORSE_RECORDS "wikilink")、[メジャー・デビュー後から](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")[2019年](../Page/2019年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までは[binyl records](https://ja.wikipedia.org/wiki/binyl_records "wikilink")\[6\]に所属していたが[2019年](../Page/2019年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")より[A.S.A.B](https://ja.wikipedia.org/wiki/A.S.A.B "wikilink")レーベル\[7\]に移籍。[ライブ収録音源はインディーズ](../Page/演奏会.md "wikilink")・メジャー通じてUNDER HORSE RECORDS。
 
@@ -108,7 +108,7 @@
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）、「MONKEY MAJIK BEST 〜10Years\&Forever〜」を発売。同アルバムのプロモーションとして過去のプロモーション・ビデオを再編集した30分の[CM](https://ja.wikipedia.org/wiki/コマーシャル・メッセージ "wikilink")\[28\] を製作、「最も長いテレビコマーシャル」として[ギネス・ワールド・レコーズ](https://ja.wikipedia.org/wiki/ギネス・ワールド・レコーズ "wikilink")に認定された。
 
-[2011年](../Page/2011年.md "wikilink")（平成23年）[2月2日](../Page/2月2日.md "wikilink")、[国土交通省](../Page/国土交通省.md "wikilink")[東北運輸局](../Page/東北運輸局.md "wikilink")および[東北観光推進機構](https://ja.wikipedia.org/wiki/東北観光推進機構 "wikilink")から「東北観光親善大使」を委嘱される\[29\]。[3月11日](../Page/3月11日.md "wikilink")に発生した[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）で被災したが、メンバーはそれぞれ無事であったと[Twitter](../Page/Twitter.md "wikilink")にて報告している。後にスタッフも含め全員無事と公式[サイトに記載された](../Page/ウェブサイト.md "wikilink")。多くの著名人が[募金](https://ja.wikipedia.org/wiki/募金 "wikilink")や支援物資を送る活動、あるいは、被災地でのイベントを行う一方（[参照](https://ja.wikipedia.org/wiki/東日本大震災に対する個人・その他各種団体の支援活動 "wikilink")）、メンバーは一般[ボランティア](../Page/ボランティア.md "wikilink")に混じって泥かきや[瓦礫](https://ja.wikipedia.org/wiki/瓦礫 "wikilink")撤去などの[肉体労働のボランティア活動を発災後すぐから継続的に行っている](../Page/ブルーカラー.md "wikilink")\[30\]\[31\]。[7月3日](../Page/7月3日.md "wikilink")には[大阪城野外音楽堂](https://ja.wikipedia.org/wiki/大阪城野外音楽堂 "wikilink")で同じ被災地・仙台在住のアーティストの[Rake](https://ja.wikipedia.org/wiki/Rake_\(シンガーソングライター\) "wikilink")、[GAGLE](../Page/GAGLE.md "wikilink")、SOUL ADDICTIONをゲストに迎えての[チャリティー](../Page/チャリティー.md "wikilink")ライブ「SEND愛」を開催\[32\]。ライブの売り上げ金は義援金として寄付された\[33\]。[10月16日](../Page/10月16日.md "wikilink")には仙台の[セキスイハイムスーパーアリーナ](https://ja.wikipedia.org/wiki/セキスイハイムスーパーアリーナ "wikilink")にて同じくゲストを迎えてのチャリティーライブを開催。
+[2011年](../Page/2011年.md "wikilink")（平成23年）[2月2日](../Page/2月2日.md "wikilink")、[国土交通省](../Page/国土交通省.md "wikilink")[東北運輸局](../Page/東北運輸局.md "wikilink")および[東北観光推進機構](../Page/東北観光推進機構.md "wikilink")から「東北観光親善大使」を委嘱される\[29\]。[3月11日](../Page/3月11日.md "wikilink")に発生した[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）で被災したが、メンバーはそれぞれ無事であったと[Twitter](../Page/Twitter.md "wikilink")にて報告している。後にスタッフも含め全員無事と公式[サイトに記載された](../Page/ウェブサイト.md "wikilink")。多くの著名人が[募金](https://ja.wikipedia.org/wiki/募金 "wikilink")や支援物資を送る活動、あるいは、被災地でのイベントを行う一方（[参照](https://ja.wikipedia.org/wiki/東日本大震災に対する個人・その他各種団体の支援活動 "wikilink")）、メンバーは一般[ボランティア](../Page/ボランティア.md "wikilink")に混じって泥かきや[瓦礫](https://ja.wikipedia.org/wiki/瓦礫 "wikilink")撤去などの[肉体労働のボランティア活動を発災後すぐから継続的に行っている](../Page/ブルーカラー.md "wikilink")\[30\]\[31\]。[7月3日](../Page/7月3日.md "wikilink")には[大阪城野外音楽堂](https://ja.wikipedia.org/wiki/大阪城野外音楽堂 "wikilink")で同じ被災地・仙台在住のアーティストの[Rake](https://ja.wikipedia.org/wiki/Rake_\(シンガーソングライター\) "wikilink")、[GAGLE](../Page/GAGLE.md "wikilink")、SOUL ADDICTIONをゲストに迎えての[チャリティー](../Page/チャリティー.md "wikilink")ライブ「SEND愛」を開催\[32\]。ライブの売り上げ金は義援金として寄付された\[33\]。[10月16日](../Page/10月16日.md "wikilink")には仙台の[セキスイハイムスーパーアリーナ](https://ja.wikipedia.org/wiki/セキスイハイムスーパーアリーナ "wikilink")にて同じくゲストを迎えてのチャリティーライブを開催。
 
 [2012年](../Page/2012年.md "wikilink")（平成24年）、外務省から「震災復興発信使」（KIZUNA大使）に任命された。[2月19日](../Page/2月19日.md "wikilink")には[トロント](../Page/トロント.md "wikilink")の[日系文化会館小林ホールにて](https://ja.wikipedia.org/wiki/:en:Japanese_Canadian_Cultural_Centre "wikilink")、また[2月21日](../Page/2月21日.md "wikilink")には[オタワ](../Page/オタワ.md "wikilink")のライブハウス(Zaphod Beeblebrox)にて、それぞれ在トロント日本国総領事館主催、在カナダ日本国大使館主催の無料スペシャルアコースティックライヴが開催された\[34\]\[35\]。 [3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")に、[MTVアンプラグド](../Page/MTVアンプラグド.md "wikilink")に初出演\[36\]。11月、アジア（[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")・[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")）、北米（[ニューヨーク](../Page/ニューヨーク.md "wikilink")・トロント・オタワ）\[37\] でのライブを開催。[12月21日](../Page/12月21日.md "wikilink")に東京の[NHKホール](../Page/NHKホール.md "wikilink")でチャリティーライブ「SEND愛」の第3弾を開催、5日にコラボレーションシングルをリリースした[小田和正](../Page/小田和正.md "wikilink")をサプライズゲストに迎えた\[38\]。
 
@@ -364,6 +364,14 @@ Japan Hot 100)</p></th>
 <td></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/northview" title="wikilink">northview</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020年7月7日</p></td>
+<td><p>Eden</p></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -704,6 +712,8 @@ Japan Hot 100)</p></th>
 | 40 days                                                                                                                                                                                             | 「[ショートショート フィルムフェスティバル アジア 2018](../Page/ショートショートフィルムフェスティバル.md "wikilink")」上映作品「VR Story Seek®」主題歌                                                                                                                                       |
 | Fight This Storm                                                                                                                                                                                    | [福島競馬場](../Page/福島競馬場.md "wikilink")開設100周年記念CMソング                                                                                                                                                                                        |
 | ウマーベラス                                                                                                                                                                                              | [TBCテレビ](../Page/東北放送.md "wikilink")「[サンドのぼんやり〜ぬTV](../Page/サンドのぼんやり〜ぬTV.md "wikilink")」オープニングテーマ                                                                                                                                         |
+| Bitten By You                                                                                                                                                                                       | 映画「スプーキッズ ザ・ムービー」主題歌                                                                                                                                                                                                                      |
+| Eden                                                                                                                                                                                                | TVアニメ「[フルーツバスケット](../Page/フルーツバスケット_\(漫画\).md "wikilink")」2nd season 第2クール エンディングテーマ                                                                                                                                                      |
 
 ## 出演
 
@@ -720,7 +730,7 @@ Japan Hot 100)</p></th>
   - お米のなみだ（2008年、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
       - ブレイズが、[ニューヨーク](../Page/ニューヨーク.md "wikilink")・世界海洋気象情報センターの研究員・クリス役で出演。
   - [連続テレビ小説](../Page/連続テレビ小説.md "wikilink") [まんぷく](https://ja.wikipedia.org/wiki/まんぷく "wikilink")（2018年10月 - 2019年3月、NHK） - ハリー・ビンガム 役（メイナード）、ジョナサン・メイ 役（ブレイズ）
-  - [仮面ライダーゼロワン](https://ja.wikipedia.org/wiki/仮面ライダーゼロワン "wikilink")（2019年9月 - 、[テレビ朝日](../Page/テレビ朝日.md "wikilink")） - 飛電ゼロワンドライバー音声（メイナード、ブレイズ）\[60\]
+  - [仮面ライダーゼロワン](https://ja.wikipedia.org/wiki/仮面ライダーゼロワン "wikilink")（2019年9月 - 2020年8月、[テレビ朝日](../Page/テレビ朝日.md "wikilink")） - 飛電ゼロワンドライバー音声（メイナード、ブレイズ）\[60\]
 
 ### テレビ番組
 

@@ -22,7 +22,7 @@
 3.  **[BIG TIME CHANGES](../Page/BIG_TIME_CHANGES.md "wikilink")** （作詞：[JUNKY MONKEY BABY'S](https://ja.wikipedia.org/wiki/ジャンキー・モンキー・ベイビーズ "wikilink")、作曲：[エース清水](../Page/ACE_\(ミュージシャン\).md "wikilink")、編曲：聖飢魔II）
       - 各パートのバランスや質感の違いのほか「Hey\!」の掛け合いがオリジナルよりも多用されている。
 4.  **[RATSBANE](../Page/THE_OUTER_MISSION.md "wikilink")**（作詞・作曲：[SGT. ルーク篁III世](../Page/ルーク篁.md "wikilink")、編曲：聖飢魔II、[土橋安騎夫](../Page/土橋安騎夫.md "wikilink")）
-      - 本作唯一の、オリジナルバージョンがそのまま収録された曲。
+      - オリジナルバージョンがそのまま収録された曲。
 5.  **[STAINLESS NIGHT](../Page/STAINLESS_NIGHT.md "wikilink")**（作詞：デーモン小暮、作曲：エース清水、編曲：聖飢魔II）
       - リミックス。
 6.  **[NEVER ENDING DARKNESS](../Page/BIG_TIME_CHANGES.md "wikilink")** （作詞・作曲：SGT. ルーク篁III世、編曲：聖飢魔II）
@@ -38,7 +38,7 @@
 11. **[蠟人形の館](../Page/蝋人形の館_\(曲\).md "wikilink")**（作詞・作曲：ダミアン浜田、編曲：聖飢魔II）
       - オープニングと各所にデーモン閣下による新録の声が[エフェクト](https://ja.wikipedia.org/wiki/エフェクト "wikilink")的に新録されている。
 12. **[WINNER\!](../Page/WINNER!.md "wikilink")**（作詞：デーモン小暮、[ぬらりひょん吉](../Page/ぬらりひょん吉.md "wikilink")、作曲：SGT. ルーク篁III世、編曲：聖飢魔II、土橋安騎夫）
-      - イントロ前のOvertureは削除されている。
+      - イントロ前のOvertureが削除されたシングルバージョンが収録されている。
 13. **[白い奇蹟](../Page/白い奇蹟.md "wikilink")**（作詞：デーモン小暮、作曲：エース清水、編曲：聖飢魔II）
       - ロング・バージョン
 

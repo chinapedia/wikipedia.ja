@@ -7,7 +7,7 @@
 
 那覇市と[姉妹都市](../Page/姉妹都市.md "wikilink")を結んでいる[ホノルル](../Page/ホノルル.md "wikilink")（[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ハワイ州](../Page/ハワイ州.md "wikilink")州都）を中心に[オアフ島](../Page/オアフ島.md "wikilink")で毎年12月の第2日曜日に開催されている[ホノルルマラソン](../Page/ホノルルマラソン.md "wikilink")にちなんで、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に那覇市とホノルル市の姉妹都市締結25周年を記念して第1回大会が開催された。
 
-開催日は第1回はホノルルマラソンと同じ12月8日だったが、翌年[1986年](../Page/1986年.md "wikilink")の第2回から12月の第1日曜日となった（但し[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の第6回を除く）。なおこれまで大会が中止または延期されたことは1度もない。
+開催日は第1回はホノルルマラソンと同じ12月8日だったが、翌年[1986年](../Page/1986年.md "wikilink")の第2回から12月の第1日曜日となった（但し[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の第6回を除く）。しかし2020年（第36回）は[COVID-19](https://ja.wikipedia.org/wiki/COVID-19 "wikilink")の影響で実質中止（1年延期）となった。
 
 制限時間は6時間15分。
 

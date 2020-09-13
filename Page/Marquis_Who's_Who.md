@@ -1,7 +1,7 @@
 > この記事は[Marquis Who\'s Who](https://ja.wikipedia.org/wiki/Marquis_Who\'s_Who)から翻訳されています。
 
 
-**Marquis Who's Who**（マークィーズ・フーズ・フー）は[米国のNew](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") Communications inc.による[著名人](https://ja.wikipedia.org/wiki/著名人 "wikilink")の略歴を掲載した[年鑑](https://ja.wikipedia.org/wiki/年鑑 "wikilink")の[紳士録](https://ja.wikipedia.org/wiki/紳士録 "wikilink")である。この紳士録には通常、*Who's Who in America*, *Who's Who in Science and Engineering*のように"Who's Who in …" の後に各分野名や地域名が続く形式でタイトルが付けられている。
+**Marquis Who's Who**（マークィーズ・フーズ・フー）は[米国のNew](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") Communications inc.による[著名人](https://ja.wikipedia.org/wiki/著名人 "wikilink")の略歴を掲載した[年鑑](https://ja.wikipedia.org/wiki/年鑑 "wikilink")の[紳士録](../Page/紳士録.md "wikilink")である。この紳士録には通常、*Who's Who in America*, *Who's Who in Science and Engineering*のように"Who's Who in …" の後に各分野名や地域名が続く形式でタイトルが付けられている。
 
 ## 概要
 

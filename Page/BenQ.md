@@ -21,7 +21,7 @@
 
 ## 主な生産工場
 
-  - 台湾桃園工場（[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")[桃園県](https://ja.wikipedia.org/wiki/桃園県 "wikilink")）
+  - 台湾桃園工場（[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")[桃園市](../Page/桃園市.md "wikilink")）
   - 中国蘇州工場（[中国](../Page/中国.md "wikilink")[江蘇省](../Page/江蘇省.md "wikilink")[蘇州市](../Page/蘇州市.md "wikilink")）
   - 中国上海工場（[中国](../Page/中国.md "wikilink")[上海直轄市](../Page/上海市.md "wikilink")）
   - ペナン工場（[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")[ペナン州](../Page/ペナン州.md "wikilink")）
@@ -35,8 +35,7 @@
   - [イメージスキャナ](../Page/イメージスキャナ.md "wikilink")
   - ビジネス[プロジェクター](https://ja.wikipedia.org/wiki/プロジェクター "wikilink")
   - シネマプロジェクター
-  - [3G](https://ja.wikipedia.org/wiki/3G "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")
-  - [GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")携帯電話
+  - [携帯電話](../Page/携帯電話.md "wikilink")
   - ディスプレイPC[1](http://www.benq.co.jp/press/News.cfm?id=2413&cat=0)
 
 ## 関連会社

@@ -84,7 +84,7 @@
   - [株式会社 オー・エム・コーポレーション 芸能プロダクション部 (インターネット・アーカイブ)](http://web.archive.org/web/20141218020928/http://omc1997.com/)
   - [SHiHO Official Blog　BOSSY](http://blog.livedoor.jp/shiho_bossy/)
 
-[Category:日本のアイドル](https://ja.wikipedia.org/wiki/Category:日本のアイドル "wikilink") [Category:日本の女性歌手](https://ja.wikipedia.org/wiki/Category:日本の女性歌手 "wikilink") [Category:1968年生](https://ja.wikipedia.org/wiki/Category:1968年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:宮崎県出身の人物](https://ja.wikipedia.org/wiki/Category:宮崎県出身の人物 "wikilink") [Category:過去のアーティストハウス・ピラミッド所属者](https://ja.wikipedia.org/wiki/Category:過去のアーティストハウス・ピラミッド所属者 "wikilink")
+[Category:日本の女性アイドル](https://ja.wikipedia.org/wiki/Category:日本の女性アイドル "wikilink") [Category:日本の女性歌手](https://ja.wikipedia.org/wiki/Category:日本の女性歌手 "wikilink") [Category:1968年生](https://ja.wikipedia.org/wiki/Category:1968年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:宮崎県出身の人物](https://ja.wikipedia.org/wiki/Category:宮崎県出身の人物 "wikilink") [Category:過去のアーティストハウス・ピラミッド所属者](https://ja.wikipedia.org/wiki/Category:過去のアーティストハウス・ピラミッド所属者 "wikilink")
 
 1.
 2.  [TBS『爆報』に人権侵害申立　「私は400万円泥棒にされた」（1/5ページ）](https://www.news-postseven.com/archives/20190401_1341237.html) NEWSポストセブン 2019.04.01 11:00（週刊ポスト2019年4月12日号、2020年2月23日閲覧）

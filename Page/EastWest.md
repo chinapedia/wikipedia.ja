@@ -7,6 +7,7 @@
 
 ## 主な出場バンド
 
+  - GROOVY（ボーカルの[江尻博之が](../Page/マモル&Jilly.md "wikilink")1976年ベストボーカル賞）
   - [カシオペア](../Page/カシオペア_\(バンド\).md "wikilink")（1977年優秀グループ賞）
   - [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")（ボーカルの[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")が1977年ベストボーカル賞）
   - [ウシャコダ](https://ja.wikipedia.org/wiki/ウシャコダ "wikilink") (1978年グランプリ)

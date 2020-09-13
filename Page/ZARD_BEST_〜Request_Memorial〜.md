@@ -100,7 +100,7 @@
   - 第二次特典**「ZARD BEST〜Memorial Video〜」**
       - 1992年に出演した「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」での「眠れない夜を抱いて」の3回分の出演映像を1曲分のサイズに編集して収録。また[岩井俊二](../Page/岩井俊二.md "wikilink")監督によって撮影された「不思議ね…」のフルサイズのビデオクリップを収録\[6\]。以降のビデオクリップ集ではショートサイズでの収録になっているため、フルサイズでの視聴ができる唯一の作品である。
   - 第三次特典**「ZARD SPECIAL ENHANCED CD Ⅱ」**
-      - 前作の特典とは異なり、CD-ROM内のゲームをクリアすることで、発売2週間前に行われた「ZARD Cruising\&Live」のダイジェスト映像を視聴することができる\[7\]。
+      - 前作の特典とは異なり、CD-ROM内のゲームをクリアすることで、発売2週間前に行われた「ZARD Cruising\&Live」のダイジェスト映像を視聴することができる\[7\]。なお、オーディオCDとしても、「ZARD Cruising\&Live」のダイジェスト音声を聴くことが可能。
 
 前作同様、主要CDショップに於いて購入先着でポスターやメモパッドなどのZARDグッズがもれなく当たる抽選会「ZARD DAY」が行なわれた。
 
@@ -108,20 +108,20 @@
 
 Music Freak Magazine 1999年9月号で紹介された順位\[8\]。初期のファンクラブの紙面でも紹介されたという。
 
-  - 1位:Don't you see\! （19th single）1997年
-  - 2位:あなたを感じていたい （13th single）1994年
-  - 3位:息もできない （24th single）1998年
-  - 4位:君に逢いたくなったら… （20th single）1997年
+  - 1位:[Don't you see\!](../Page/Don't_you_see!.md "wikilink") （19th single）1997年
+  - 2位:[あなたを感じていたい](../Page/あなたを感じていたい.md "wikilink") （13th single）1994年
+  - 3位:[息もできない](../Page/息もできない.md "wikilink") （24th single）1998年
+  - 4位:[君に逢いたくなったら…](../Page/君に逢いたくなったら….md "wikilink") （20th single）1997年
   - 5位:あの微笑みを忘れないで （3rd album 『[HOLD ME](../Page/HOLD_ME.md "wikilink")』）1992年
   - 6位:Oh my love （5th album 『[OH MY LOVE](../Page/OH_MY_LOVE.md "wikilink")』）1994年
-  - 7位:サヨナラは今もこの胸に居ます （16th single）1995年
-  - 8位:My Baby Grand 〜ぬくもりが欲しくて〜 （23rd single）1997年
+  - 7位:[サヨナラは今もこの胸に居ます](../Page/サヨナラは今もこの胸に居ます.md "wikilink") （16th single）1995年
+  - 8位:[My Baby Grand 〜ぬくもりが欲しくて〜](../Page/My_Baby_Grand_〜ぬくもりが欲しくて〜.md "wikilink") （23rd single）1997年
   - 9位:Forever you （6th album『[Forever you](../Page/Forever_you_\(アルバム\).md "wikilink")』）1995年
   - 10位:突然 （7th album 『[TODAY IS ANOTHER DAY](../Page/TODAY_IS_ANOTHER_DAY.md "wikilink")』）1996年
   - 11位:遠い日のNostalgia （3rd album 『[HOLD ME](../Page/HOLD_ME.md "wikilink")』）1992年
   - 12位:雨に濡れて （「[果てしない夢を](../Page/果てしない夢を.md "wikilink")」c/w）1993年
   - 13位:I still remember （5th album 『[OH MY LOVE](../Page/OH_MY_LOVE.md "wikilink")』）1994年
-  - 14位:MIND GAMES （28th single）1999年
+  - 14位:[MIND GAMES](../Page/MIND_GAMES_\(ZARDの曲\).md "wikilink") （28th single）1999年
 
 ### 15位以下の順位
 

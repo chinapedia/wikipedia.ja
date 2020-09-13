@@ -77,7 +77,7 @@
   - [北川原温](../Page/北川原温.md "wikilink")
   - [メグホソキ](https://ja.wikipedia.org/wiki/メグホソキ "wikilink")
   - [西山浩平](../Page/西山浩平.md "wikilink")
-  - [グエナエル・ニコラ](https://ja.wikipedia.org/wiki/グエナエル・ニコラ "wikilink")
+  - [グエナエル・ニコラ](../Page/グエナエル・ニコラ.md "wikilink")
   - [安西水丸](../Page/安西水丸.md "wikilink")
   - [船曳鴻紅](../Page/船曳鴻紅.md "wikilink")
   - [猪子寿之](https://ja.wikipedia.org/wiki/猪子寿之 "wikilink")

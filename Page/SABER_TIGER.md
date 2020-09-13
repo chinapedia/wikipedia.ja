@@ -71,7 +71,7 @@
   - **山住隆** (ベース) その後MI JAPAN札幌校BIT科講師としてベースを教えている。
   - **渡辺徹** (ボーカル) 元とおるバンバン、CAIN ABELL、VICTIMIZER、その後HARD GEARに参加。
   - **小寺伸幸** (ドラム) 元ELIZA、その後スタジオを経営している
-  - **飯山明寛** (ドラム) その後BALDEZに参加。
+  - **飯山明寛** (ドラム) その後BALDEZ、TINKL、プロジェクト虹紫に参加。
   - **竹内聡** (ベース) 元DIALL、HARD GEAR、その後SIXRIDEに参加。
   - **鈴木勝人** (ボーカル)
   - **弓田秀明** (ドラム) その後[LIGHT BRINGERに参加](https://ja.wikipedia.org/wiki/LIGHT_BRINGER "wikilink")。

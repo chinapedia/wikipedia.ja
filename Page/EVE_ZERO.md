@@ -36,13 +36,69 @@ EVEシリーズの伝統である「2人の主人公の違った視点から1つ
 ## 登場人物
 
   - **天城 小次郎**（あまぎ こじろう）[声](../Page/声優.md "wikilink")：[子安武人](../Page/子安武人.md "wikilink")
+
+<!-- end list -->
+
+  -
+    桂木探偵事務所の職員、高校時代に両親を亡くし、それ以後は桂木源三郎に面倒を見てもらっていた。
+
+<!-- end list -->
+
   - **法条 まりな**（ほうじょう まりな）声：[三石琴乃](../Page/三石琴乃.md "wikilink")
+
+<!-- end list -->
+
+  -
+    警視庁公安部に所属しており、高い任務成功率を誇るエージェント。しかし規律無視や上司の不満を言うなと問題も多い。
+
+<!-- end list -->
+
   - **トア・ノバルティス**(Torah Novartis)声：[桑島法子](../Page/桑島法子.md "wikilink")
+
+<!-- end list -->
+
+  -
+    法条まりなが担当した猟奇殺人事件で、犯人逮捕の際に誘拐されていた。まりなは、身寄りがない彼女を事件解決後に引き取ることになる。
+
+<!-- end list -->
+
   - **榊原 真**（さかきばら しん）声：[保志総一朗](../Page/保志総一朗.md "wikilink")
+
+<!-- end list -->
+
+  -
+    天城小次郎が家出少年の探索を依頼されたことがきっかけで出会う。しだいに彼は小次郎に憧れ、小次郎の手助けをするようになる。
+
+<!-- end list -->
+
   - **桂木 弥生**（かつらぎ やよい）声：[本多知恵子](../Page/本多知恵子.md "wikilink")
+
+<!-- end list -->
+
+  -
+    桂木源三郎の娘で小次郎の恋人。理由を告げることなく出て行った父のあとを継いで、小次郎と共に桂木探偵事務所を切り盛りしている。
+
+<!-- end list -->
+
   - **柴田 茜**（しばた あかね）声：[かないみか](../Page/かないみか.md "wikilink")
+
+<!-- end list -->
+
+  -
+    フリーランスの女性カメラマン。さまざまな仕事をこなしている。
+
+<!-- end list -->
+
   - **桂木 源三郎**（かつらぎ げんざぶろう）声：[納谷悟朗](../Page/納谷悟朗.md "wikilink")
   - **甲野 三郎**（こうの さぶろう）声：[野沢那智](../Page/野沢那智.md "wikilink")
+
+<!-- end list -->
+
+  -
+    若くして警視庁の要職に登り詰めた切れ者。それゆえ組織の中では煙たがられ孤立した存在となっている。\[1\]
+
+<!-- end list -->
+
   - **高畠豊**（たかばたけ ゆたか） 声：[飛田展男](../Page/飛田展男.md "wikilink")
   - **仁科 秀人**（にしな ひでひと） 声：[肝付兼太](../Page/肝付兼太.md "wikilink")
   - **ルース・ブラッチフォード** 声：[勝生真沙子](../Page/勝生真沙子.md "wikilink")
@@ -51,3 +107,5 @@ EVEシリーズの伝統である「2人の主人公の違った視点から1つ
   - **グレン** 声：[飯塚昭三](../Page/飯塚昭三.md "wikilink")
 
 [Category:EVEシリーズ](https://ja.wikipedia.org/wiki/Category:EVEシリーズ "wikilink") [Category:2000年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2000年のコンピュータゲーム "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:ドリームキャスト用ソフト](https://ja.wikipedia.org/wiki/Category:ドリームキャスト用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink")
+
+1.

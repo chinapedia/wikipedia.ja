@@ -267,7 +267,7 @@
   -
   - [インタビュー](http://oops-music.com/docs/article.html?author=interview&title=INT_10_ink1)
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:テクノミュージシャン](https://ja.wikipedia.org/wiki/Category:テクノミュージシャン "wikilink")
+[Category:日本の男性歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の男性歌手グループ "wikilink") [Category:日本のテクノミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のテクノミュージシャン "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink")
 
 1.
 2.

@@ -249,7 +249,7 @@
 
   - [Vanilla Mood Official facebook](http://www.facebook.com/pages/VanillaMood-Official/183023571750792)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:ライジングプロダクション](https://ja.wikipedia.org/wiki/Category:ライジングプロダクション "wikilink") [Category:ガールズバンド](https://ja.wikipedia.org/wiki/Category:ガールズバンド "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:2003年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に結成した音楽グループ "wikilink") [Category:ライジングプロダクション](https://ja.wikipedia.org/wiki/Category:ライジングプロダクション "wikilink") [Category:ガールズバンド](https://ja.wikipedia.org/wiki/Category:ガールズバンド "wikilink")
 
 1.  オープニングテーマ「素敵なフラメンコはいかが」（[宮川泰](../Page/宮川泰.md "wikilink")作曲）と、毎日異なるオリジナル編曲のインサートテーマを生演奏した。
 2.

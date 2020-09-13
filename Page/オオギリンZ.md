@@ -40,7 +40,7 @@
 
 ## 外部リンク
 
-  - [日テレ](http://www.ntv.co.jp/)
+  - [日テレ](https://www.ntv.co.jp/)
 
   -
   - [大笑点「オオギリンZ」レポート](http://dl.nazca.co.jp/prog/dl_main.phtml?id=repoban&login_pass=&dir=142&mesid=321&year=2006&month=1)

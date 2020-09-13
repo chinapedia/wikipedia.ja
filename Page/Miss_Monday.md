@@ -104,7 +104,7 @@
   - [beatmania III new songs collection](https://ja.wikipedia.org/wiki/BEMANIシリーズサウンドトラック一覧#beatmania（III含む） "wikilink")(2000年6月16日)
       - 19.BADBOY FLYGIRL (game size) / Miss Monday\&GURY
       - 25.BADBOY FLYGIRL (full size) / Miss Monday\&GURY
-  - [ZOOCO](https://ja.wikipedia.org/wiki/ZOOCO "wikilink")「Love Education」（2001年3月1日）
+  - [ZOOCO](../Page/ZOOCO.md "wikilink")「Love Education」（2001年3月1日）
       - 1.Respect Me feat.Miss Monday
   - [kazami](https://ja.wikipedia.org/wiki/kazami "wikilink")「Sprout」（2003年10月22日）
       - 4.Sprout featuring Miss Monday

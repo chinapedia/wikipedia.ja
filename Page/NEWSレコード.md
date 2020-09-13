@@ -175,7 +175,7 @@
 <td><p>16</p></td>
 <td><p>7N0015</p></td>
 <td><p>松山千春</p></td>
-<td><p><a href="../Page/Sing_a_Song.md" title="wikilink">Sing a Song</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Sing_a_Song_(松山千春の曲)" title="wikilink">Sing a Song</a></p></td>
 <td><p>涙の街</p></td>
 <td><p>1983年3月21日</p></td>
 </tr>

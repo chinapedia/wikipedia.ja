@@ -19,17 +19,13 @@
 
 ## 収録曲
 
-## 収録作品
+## 収録アルバム
 
   - 『[UNBALANCE+BALANCE+6](https://ja.wikipedia.org/wiki/UNBALANCE+BALANCE#UNBALANCE+BALANCE+6 "wikilink")』\[18\]
   - 『[歌姫伝説 〜90's BEST〜](../Page/歌姫伝説_〜90's_BEST〜.md "wikilink")』\[19\]\[20\]
 
-## 参照
+## 脚注
 
-## 外部リンク
-
-  -
-  -
 [Category:中森明菜の楽曲](https://ja.wikipedia.org/wiki/Category:中森明菜の楽曲 "wikilink") [Category:後藤次利が制作した楽曲](https://ja.wikipedia.org/wiki/Category:後藤次利が制作した楽曲 "wikilink") [Category:1994年のシングル](https://ja.wikipedia.org/wiki/Category:1994年のシングル "wikilink") [Category:ユニバーサルミュージックジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのシングル "wikilink") [Category:日本テレビの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビの主題歌 "wikilink") [Category:楽曲_よ](https://ja.wikipedia.org/wiki/Category:楽曲_よ "wikilink")
 
 1.

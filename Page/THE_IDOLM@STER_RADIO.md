@@ -411,7 +411,7 @@
 | 第68回                                                   | [tune the rainbow](https://ja.wikipedia.org/wiki/tune_the_rainbow "wikilink") | [坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink")                |                                                                 |
 | 第69回                                                   | [HOT LIMIT](../Page/HOT_LIMIT.md "wikilink")                                  | [T.M.Revolution](../Page/T.M.Revolution.md "wikilink")               | 今井・たかはし・[平田宏美](../Page/平田宏美.md "wikilink")                      |
 | 第70回                                                   | 王蟲との交流                                                                        | [久石譲](../Page/久石譲.md "wikilink") 作曲                                  |                                                                 |
-| 第71回                                                   | [異邦人](https://ja.wikipedia.org/wiki/異邦人_\(久保田早紀の曲\) "wikilink")               | [久保田早紀](https://ja.wikipedia.org/wiki/久保田早紀 "wikilink")              |                                                                 |
+| 第71回                                                   | [異邦人](../Page/異邦人_-シルクロードのテーマ-.md "wikilink")                                 | [久保田早紀](https://ja.wikipedia.org/wiki/久保田早紀 "wikilink")              |                                                                 |
 | 第72回                                                   | レッツゴー                                                                         | ライダーキック                                                              | [藤浩一](../Page/子門真人.md "wikilink")                               |
 | 第73回                                                   | [恋花火](../Page/恋花火_\(諫山実生の曲\).md "wikilink")                                   | [諫山実生](https://ja.wikipedia.org/wiki/諫山実生 "wikilink")                |                                                                 |
 | 第74回                                                   | [あずさ2号](../Page/あずさ2号.md "wikilink")                                          | [狩人](../Page/狩人.md "wikilink")                                       |                                                                 |
@@ -434,7 +434,7 @@
 | 第95回                                                   | 霙 -mizore-                                                                    | [サガユウキ](../Page/サガユウキ.md "wikilink")                                 |                                                                 |
 | 第96回                                                   | [待つわ](../Page/待つわ.md "wikilink")                                              | [あみん](../Page/あみん.md "wikilink")                                     |                                                                 |
 | 第97回                                                   | [ロマンスの神様](../Page/ロマンスの神様.md "wikilink")                                      | [広瀬香美](https://ja.wikipedia.org/wiki/広瀬香美 "wikilink")                |                                                                 |
-| 第98回                                                   | ウルティマ 〜瞳のナイフ〜                                                                 | [日高のり子](../Page/日高のり子.md "wikilink")                                 |                                                                 |
+| 第98回                                                   | ウルティマ 〜瞳のナイフ〜                                                                 | [日髙のり子](https://ja.wikipedia.org/wiki/日髙のり子 "wikilink")              |                                                                 |
 | 第99回                                                   | [春よ、来い](../Page/春よ、来い_\(松任谷由実の曲\).md "wikilink")                              | [松任谷由実](../Page/松任谷由実.md "wikilink")                                 |                                                                 |
 | 第100回                                                  | [ありがとう](../Page/ありがとう_\(SMAPの曲\).md "wikilink")（エンディングにて）                     | [SMAP](../Page/SMAP.md "wikilink")                                   | 今井・たかはし・[中村繪里子](https://ja.wikipedia.org/wiki/中村繪里子 "wikilink") |
 
@@ -811,7 +811,7 @@ CDタイトルには、一貫してゲーム内のオーディションの名前
 
   - \- 番組後期の[スポンサー](../Page/スポンサー.md "wikilink")として番組制作にも参加。
 
-  - [インターネットラジオステーション 音泉](http://www.onsen.ag/) - 音泉の公式サイト（一時本番組を配信していた。配信時期については前述）
+  - [インターネットラジオステーション 音泉](https://www.onsen.ag/) - 音泉の公式サイト（一時本番組を配信していた。配信時期については前述）
 
   - \- アニメイトTV（当時。現:アニメイトタイムズ）の公式サイト（一時本番組を配信していた。配信時期については前述）
 

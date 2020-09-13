@@ -38,7 +38,7 @@
 
 ### 2008年10月 - 2009年3月
 
-  - 火曜：[桒子英里](https://ja.wikipedia.org/wiki/桑子英里 "wikilink")「えりだま-英里の魂-」
+  - 火曜：[桒子英里](https://ja.wikipedia.org/wiki/桒子英里 "wikilink")「えりだま-英里の魂-」
   - 水曜：[樋田かおり](https://ja.wikipedia.org/wiki/樋田かおり "wikilink")「かおりんぐ」
   - 木曜：青山英次「SCHOOL OF RADIO」
   - 金曜：[上野由加里](https://ja.wikipedia.org/wiki/上野由加里 "wikilink")「ユカリズム」

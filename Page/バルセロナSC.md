@@ -1,17 +1,17 @@
 > この記事は[バルセロナSC](https://ja.wikipedia.org/wiki/バルセロナSC)から翻訳されています。
 
 
-**バルセロナSC**（**Barcelona Sporting Club**）は[エクアドル](https://ja.wikipedia.org/wiki/エクアドル "wikilink")の[グアヤキル](../Page/グアヤキル.md "wikilink")に本拠地を置くサッカークラブ。[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")との混同を避けたい場合には Barcelona de Guayaquil（バルセロナ・デ・グアヤキル）という呼称が用いられることもある。 [FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")とは直接的な関係は無いものの、エンブレムは非常によく似ており親善試合も行ったことがある。
+**バルセロナ・スポルティング・クルブ**（[西](https://ja.wikipedia.org/wiki/スペイン語 "wikilink"): Barcelona Sporting Club）は[エクアドル](https://ja.wikipedia.org/wiki/エクアドル "wikilink")の[グアヤキル](../Page/グアヤキル.md "wikilink")に本拠地を置くサッカークラブである。[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")の[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")との混同を避けたい場合には、バルセロナ・デ・グアヤキル（Barcelona de Guayaquil、グアヤキルのバルセロナ）という呼称が用いられることもある。[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")とは直接的な関係は無いものの、エンブレムは非常によく似ており、親善試合を行ったこともある。
 
-1925年5月1日、クラブ名の由来であるスペイン・[バルセロナ](../Page/バルセロナ.md "wikilink")市からの移民エウティミオ・ペレスによって創設された。1960年から40年間はエクアドル一の強豪クラブとして南米にその名を轟かせた。1990年と1998年には[コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink")で決勝まで進むものの、それぞれ[オリンピア・アスンシオン](../Page/オリンピア・アスンシオン.md "wikilink")と[CRヴァスコ・ダ・ガマ](../Page/CRヴァスコ・ダ・ガマ.md "wikilink")に敗れ、 日本行きはならなかった。
+1925年5月1日、クラブ名の由来にもなった[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バルセロナ](../Page/バルセロナ.md "wikilink")市からの移民、エウティミオ・ペレスによって創設された。1960年から約40年間はエクアドルを代表する強豪クラブとして南米にその名を轟かせた。1990年と1998年には[コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink")で決勝まで進んだが、決勝戦で[オリンピア・アスンシオン](../Page/オリンピア・アスンシオン.md "wikilink")と[CRヴァスコ・ダ・ガマ](../Page/CRヴァスコ・ダ・ガマ.md "wikilink")にそれぞれ敗れている。
 
-ここ最近はかつてのような強さは無くなったものの、未だにエクアドル随一の人気クラブであることには変わりない。
+最近はかつてのような強さは見られなくなってきているが、今でもエクアドル随一の人気クラブであることには変わりない。
 
-本拠地のエスタディオ・モヌメンタルは約9万人収容の大スタジアムであり、[1993年](../Page/1993年.md "wikilink")の[コパ・アメリカ](../Page/コパ・アメリカ.md "wikilink")決勝戦でも使用された。
+本拠地の[エスタディオ・モヌメンタルは約](https://ja.wikipedia.org/wiki/エスタディオ・モヌメンタル・イシドロ・ロメロ・カルボ "wikilink")9万人収容の巨大スタジアムであり、[1993年](../Page/1993年.md "wikilink")の[コパ・アメリカ](../Page/コパ・アメリカ.md "wikilink")では決勝戦の会場となった。
 
 ## ライバル
 
-バルセロナSCの最大のライバルは同じグアヤキルを本拠地に置く、[エメレクである](https://ja.wikipedia.org/wiki/CSエメレク "wikilink")。この2チームの対戦は"[エル・クラシコ・デル・アスティジェーロ](https://ja.wikipedia.org/wiki/クラシコ・デル・アスティジェーロ "wikilink")"（造船所のダービー）と言われている。また[リーガ・デ・キトと](../Page/LDUキト.md "wikilink")[CDエル・ナシオナル](../Page/CDエル・ナシオナル.md "wikilink")ともライバル関係にある。
+バルセロナSCの最大のライバルは、同じく[グアヤキル](../Page/グアヤキル.md "wikilink")を本拠地とする[CSエメレク](https://ja.wikipedia.org/wiki/CSエメレク "wikilink")である。この2チームの対戦は[クラシコ・デル・アスティジェーロ](https://ja.wikipedia.org/wiki/クラシコ・デル・アスティジェーロ "wikilink")（造船所のダービー）と呼ばれ、エクアドルで最も関心を集めるダービーマッチである。また、[キト](../Page/キト.md "wikilink")を本拠地とする[LDUキト](../Page/LDUキト.md "wikilink")や[CDエル・ナシオナル](../Page/CDエル・ナシオナル.md "wikilink")ともライバル関係にある。
 
 ## タイトル
 

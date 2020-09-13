@@ -123,5 +123,5 @@ T-Connect専用DCMは基本的に2011年モデル以降のDCMと共通。
 
 1.  新車またはレクサス認定中古車(CPO)を購入したときのみサービスを受けられる。それ以外の中古車店で購入したレクサス車は、一部サービスがカットされた「G-Link Light」に加入できる。
 2.  [「富士通テン」技報第31号より](https://www.denso-ten.com/jp/gihou/30_39.html)[デンソーテン](../Page/デンソーテン.md "wikilink")HP内・2018年3月18日確認
-3.  [三菱自動車、トヨタとのテレマティクス提携を凍結 ｜ Response.](http://response.jp/issue/2005/0715/article72599_1.html)
+3.
 4.  \[[http://www.mazda.co.jp/carlife/owner/mazda-g-book/\]2018年3月18日確認](http://www.mazda.co.jp/carlife/owner/mazda-g-book/%5D2018年3月18日確認)

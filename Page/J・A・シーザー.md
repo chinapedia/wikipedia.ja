@@ -86,6 +86,10 @@
   - 光来復活した大歌劇 『身毒丸』 (2017) ※CD＋DVD
   - [ウィッチクラフト《テオフィルの奇蹟》](https://ja.wikipedia.org/wiki/Some_Dreams "wikilink")（2018）
   - チェンチ一族 (2019) ※1982年作品のCD化
+  - 少女錬金術師 卵・バラモノガタリ (2019)
+  - 赤糸で縫いとじられた物語 (2019)
+  - 夜叉ケ池 (2019)
+  - 疫病流行記 (2020)
 
 ### J・A・シーザーと悪魔の家
 
@@ -110,4 +114,4 @@
   - [演劇実験室◎万有引力](http://banyuinryoku.wordpress.com/)公式ブログ
 
   -
-[Category:日本の作曲家](https://ja.wikipedia.org/wiki/Category:日本の作曲家 "wikilink") [Category:日本の作詞家](https://ja.wikipedia.org/wiki/Category:日本の作詞家 "wikilink") [Category:日本の演出家](https://ja.wikipedia.org/wiki/Category:日本の演出家 "wikilink") [Category:宮崎県出身の人物](https://ja.wikipedia.org/wiki/Category:宮崎県出身の人物 "wikilink") [Category:1948年生](https://ja.wikipedia.org/wiki/Category:1948年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の作曲家](https://ja.wikipedia.org/wiki/Category:日本の作曲家 "wikilink") [Category:日本の作詞家](https://ja.wikipedia.org/wiki/Category:日本の作詞家 "wikilink") [Category:日本の舞台演出家](https://ja.wikipedia.org/wiki/Category:日本の舞台演出家 "wikilink") [Category:宮崎県出身の人物](https://ja.wikipedia.org/wiki/Category:宮崎県出身の人物 "wikilink") [Category:1948年生](https://ja.wikipedia.org/wiki/Category:1948年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

@@ -254,7 +254,7 @@
 
 <!-- end list -->
 
-  - [ZOOCO](https://ja.wikipedia.org/wiki/ZOOCO "wikilink") 「Love Education」(2001年3月1日)
+  - [ZOOCO](../Page/ZOOCO.md "wikilink") 「Love Education」(2001年3月1日)
 
 <!-- end list -->
 
@@ -591,7 +591,7 @@
 <!-- end list -->
 
   -
-    14.Born This Way feat. MACCHO (OZROSAURUS), [AI](../Page/AI.md "wikilink")
+    14.Born This Way feat. MACCHO (OZROSAURUS), [AI](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink")
 
 <!-- end list -->
 
@@ -647,6 +647,33 @@
   -
     5.SCHOOL OF HARD KNOX feat. MACCHO & T.O.P.
 
+<!-- end list -->
+
+  - [MIGHTY CROWN](https://ja.wikipedia.org/wiki/MIGHTY_CROWN "wikilink")「Trust Yourself feat. Maccho from Ozrosaurus & [Rudebwoy Face](../Page/RUDEBWOY_FACE.md "wikilink")」(2018年8月3日)
+
+<!-- end list -->
+
+  -
+    1.Trust Yourself feat. Maccho from Ozrosaurus & Rudebwoy Face
+
+<!-- end list -->
+
+  - [NORIKIYO](../Page/NORIKIYO.md "wikilink")「平成エクスプレス」(2019年3月1日)
+
+<!-- end list -->
+
+  -
+    13.俺達の唄 feat.MACCHO
+
+<!-- end list -->
+
+  - [ZORN](https://ja.wikipedia.org/wiki/ZORN "wikilink")「Rep feat. MACCHO」(2019年12月5日)
+
+<!-- end list -->
+
+  -
+    1.Rep feat. MACCHO
+
 ## 作品に客演しているミュージシャン
 
   - [BIG RON](../Page/BIG_RON.md "wikilink")
@@ -682,7 +709,7 @@
   -
   - [OZROSAURUS オフィシャルブログ](https://ameblo.jp/ozrosaurus-blog) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
 
-  - [OZROSAURUS](http://www.universal-music.co.jp/ozrosaurus/) - [ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")
+  - [OZROSAURUS](https://www.universal-music.co.jp/ozrosaurus/) - [ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")
 
 [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink")
 

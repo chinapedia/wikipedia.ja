@@ -75,7 +75,7 @@
 
   - 監督：[堤幸彦](../Page/堤幸彦.md "wikilink")
   - 脚本：[高山直也](../Page/高山直也.md "wikilink")
-  - 音楽：[蓜島邦明](https://ja.wikipedia.org/wiki/蓜島邦明 "wikilink")
+  - 音楽：[蓜島邦明](../Page/蓜島邦明.md "wikilink")
   - エンディングテーマ：「SIREN」[石野卓球](../Page/石野卓球.md "wikilink")
   - 製作プロダクション・配給：[東宝](../Page/東宝.md "wikilink")
   - 製作協力：[オフィスクレッシェンド](../Page/オフィスクレッシェンド.md "wikilink")

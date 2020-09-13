@@ -1,7 +1,7 @@
-> この記事は[GREEN \(B\'z\)](https://ja.wikipedia.org/wiki/GREEN_\(B\'z\))から翻訳されています。
+> この記事は[GREEN \(B\'zのアルバム\)](https://ja.wikipedia.org/wiki/GREEN_\(B\'zのアルバム\))から翻訳されています。
 
 
-『**GREEN**』 (グリーン)は、日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")が、[2002年](../Page/2002年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")に[VERMILLION RECORDSからリリースした](../Page/VERMILLION_RECORDS.md "wikilink")、12作目の[オリジナル・アルバムである](../Page/スタジオ・アルバム.md "wikilink")。
+『**GREEN**』（グリーン）は、日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")が、2002年7月3日に[VERMILLION RECORDSからリリースした](../Page/VERMILLION_RECORDS.md "wikilink")、12作目の[オリジナル・アルバムである](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 概要
 
@@ -11,17 +11,17 @@
 
 オリコンアルバムチャートで通算800作目の1位獲得作品で、B'zのオリジナル・アルバムでは初めて[デジパック](https://ja.wikipedia.org/wiki/デジパック "wikilink")が採用された。
 
-本作と「[野性のENERGY](../Page/野性のENERGY.md "wikilink")」、次作『[BIG MACHINE](../Page/BIG_MACHINE.md "wikilink")』は専用の「B'z」ロゴマークが使われている\[4\]。
+本作とシングル『[野性のENERGY](../Page/野性のENERGY.md "wikilink")』、次作『[BIG MACHINE](../Page/BIG_MACHINE.md "wikilink")』は専用の「B'z」ロゴマークが使われている\[4\]。
 
 前作『[ELEVEN](../Page/ELEVEN_\(アルバム\).md "wikilink")』のレコーディングから継続して制作が行われ、途中で『[B'z LIVE-GYM 2001 "ELEVEN"](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2001_-ELEVEN- "wikilink")』とソロ活動を挟み、2002年1月よりレコーディングが再開され制作された。そのためこの期間にレコーディングされた楽曲は20曲程となり、その中からバランスを考慮してまとめたのが本作であった。
 
 5thアルバム『[IN THE LIFE](../Page/IN_THE_LIFE.md "wikilink")』以来の[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")を多用したポップス路線となっており、収録曲の半数の[ドラムが全編打ち込み](../Page/ドラムセット.md "wikilink")\[5\]だが、これは意図的ではなく自然とそうなったらしく、実際にはハードな曲も作ったらしいが今回は収録されなかった。メンバーは「『Brotherhood』、『ELEVEN』とヘビィーな作品が続いたので、その反動があったと思う。」とコメントしている。
 
-前作『ELEVEN』以降に発売されたシングルのうち、「[GOLD](../Page/GOLD_\(B'zの曲\).md "wikilink")」は本作に「Everlasting」が収録されているという理由で未収録となった。また、「[旅★EVERYDAY](../Page/野性のENERGY.md "wikilink")」、「[Magnolia](../Page/BANZAI_\(B'zの曲\).md "wikilink")」、「[もうはなさない](../Page/ARIGATO_\(B'zの曲\).md "wikilink")」、「[結晶](../Page/衝動_\(B'zの曲\).md "wikilink")」等はこの頃の[アウトテイク](https://ja.wikipedia.org/wiki/アウトテイク "wikilink")である。
+前作『ELEVEN』以降に発売されたシングルのうち、「[GOLD](../Page/GOLD_\(B'zの曲\).md "wikilink")」は本作に「Everlasting」が収録されているという理由で未収録となった。また、「[旅★EVERYDAY](../Page/野性のENERGY.md "wikilink")」、「[Magnolia](../Page/BANZAI_\(B'zの曲\).md "wikilink")」、「[もうはなさない](../Page/ARIGATO_\(B'zの曲\).md "wikilink")」等はこの頃の[アウトテイク](https://ja.wikipedia.org/wiki/アウトテイク "wikilink")である。
 
 かつてはオリジナル・アルバムで最も未演奏曲が多い作品だった\[6\]。また、オリジナルアルバムでは現時点で最後の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")作品となっている\[7\]。
 
-[2018年](../Page/2018年.md "wikilink")に結成30周年記念として『[DINOSAUR](https://ja.wikipedia.org/wiki/DINOSAUR_\(B'zのアルバム\) "wikilink")』までのオリジナルアルバムと共に[アナログレコード化された](../Page/レコード.md "wikilink")\[8\]。
+2018年に結成30周年記念として『[DINOSAUR](https://ja.wikipedia.org/wiki/DINOSAUR_\(B'zのアルバム\) "wikilink")』までのオリジナル・アルバムと共に[アナログレコード化された](../Page/レコード.md "wikilink")\[8\]。
 
 ## 収録曲
 
@@ -47,7 +47,7 @@
       -
         [プレイステーション2用ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ときめきメモリアル Girl's Side](../Page/ときめきメモリアル_Girl's_Side.md "wikilink")』オープニングテーマ。
         「[今では…今なら…今も…](../Page/BREAK_THROUGH.md "wikilink")」と同様、信号待ちを題材としたバラード\[12\]。
-        本作で最も古い曲で、前作『ELEVEN』の制作時にすでにレコーディングされていた[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")主体の楽曲。松本によると「ギターだけ録り直して、あとは変えてない」とのこと。ライブ未演奏曲。
+        本作で最も古い曲で、前作『ELEVEN』の制作時にすでにレコーディングされていた[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")主体の楽曲。松本によると「ギターだけ録り直して、あとは変えてない」とのこと。
 5.  **SURFIN' 3000GTR** (3:50)
       -
         読み方は「サーフィン・スリーサウザンド・ジーティーアール」。
@@ -69,14 +69,14 @@
 9.  **Everlasting** (3:42)
       -
         映画『[名探偵コナン ベイカー街の亡霊](../Page/名探偵コナン_ベイカー街の亡霊.md "wikilink")』主題歌。
-        本作収録曲では唯一[ストリングスが使用され](../Page/弦楽器.md "wikilink")、演奏者が最も多いが、元々はゆったりとしたバラードだったらしい。
+        元々はゆったりとしたバラードだったらしいが、大幅なアレンジが加えられて現在の形になった\[17\]。
         本作に「[GOLD](../Page/GOLD_\(B'zの曲\).md "wikilink")」が収録されなかったのは、松本曰く「『Everlasting』という名曲があるから」だった。後に発売されるバラード・ベスト・アルバム『[The Ballads 〜Love & B'z〜](../Page/The_Ballads_〜Love_&_B'z〜.md "wikilink")』には両曲とも収録されている。
 10. **FOREVER MINE** (3:43)
       -
         歌詞にある「僕を奮い立たす…」という[フレーズ](https://ja.wikipedia.org/wiki/フレーズ "wikilink")は、自分に投げかけられた叱咤で、それが自分を頑張らせる素になる、ということから来ている。
-        この曲もアレンジが数パターンあり、松本曰く「70年代[ディスコみたいな](https://ja.wikipedia.org/wiki/ディスコ_\(音楽\) "wikilink")」アレンジも存在していた\[17\]。
+        この曲もアレンジが数パターンあり、松本曰く「70年代[ディスコみたいな](https://ja.wikipedia.org/wiki/ディスコ_\(音楽\) "wikilink")」アレンジも存在していた\[18\]。
         また、松本は「SURFIN' 3000GTR」とこの曲がお気に入りだという。
-        先述の通り、アルバムツアーでは演奏されず、『B'z LIVE-GYM 2008 "ACTION"』でライブ初披露となった。そのリハーサルで松本は「なんでこんな難しい曲作ったんだろう…」と嘆いていた\[18\]。
+        先述の通り、アルバムツアーでは演奏されず、『B'z LIVE-GYM 2008 "ACTION"』でライブ初披露となった。そのリハーサルで松本は「なんでこんな難しい曲作ったんだろう…」と嘆いていた\[19\]。
 11. **The Spiral** (3:31)
       -
         打ち込みを多用した静かなパートとバンドサウンドによる激しいパートが交互に繰り返される曲構成をしており、最後は稲葉のボーカルだけで終了する。
@@ -85,7 +85,7 @@
 12. **GO★FIGHT★WIN** (3:16)
       -
         アルバムタイトルが「GREEN」と決まる前に先にツアータイトルとして決まっていた。その名残から、同年のツアーのサブタイトル(『B'z LIVE-GYM 2002 "GREEN 〜GO★FIGHT★WIN〜"』)として残った。
-        曲名は日本で言うところの「フレー！ フレー！」など、欧米で応援時に使われる掛け声から付けられた\[19\]。
+        曲名は日本で言うところの「フレー！ フレー！」など、欧米で応援時に使われる掛け声から付けられた\[20\]。
         なお、ドラムとして山木のクレジットがあるが、この曲のドラムも基本的に全編打ち込みで、[シンバル](../Page/シンバル.md "wikilink")のみ生音が使用されている。
         2007年に行われた『B'z SHOWCASE 2007 -B'z In Your Town-』で久し振りに演奏された。
 
@@ -153,16 +153,16 @@
 
 ## 外部リンク
 
-  - [B'z DISCOGRAPHY 『GREEN』](http://bz-vermillion.com/disco/al_12.html) ※楽曲の試聴が可能
+  - [B'z DISCOGRAPHY 『GREEN』](http://bz-vermillion.com/discography/al_12.html) ※楽曲の試聴が可能
 
 [Category:B'zのアルバム](https://ja.wikipedia.org/wiki/Category:B'zのアルバム "wikilink") [Category:2002年のアルバム](https://ja.wikipedia.org/wiki/Category:2002年のアルバム "wikilink") [Category:VERMILLION_RECORDSのアルバム](https://ja.wikipedia.org/wiki/Category:VERMILLION_RECORDSのアルバム "wikilink") [Category:2002年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2002年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 
 1.
 2.
 3.
-4.  バラード・ベスト・アルバム『[The Ballads 〜Love & B'z〜](../Page/The_Ballads_〜Love_&_B'z〜.md "wikilink")』とシングル「[IT'S SHOWTIME\!\!](../Page/IT'S_SHOWTIME!!.md "wikilink")」は、それぞれオリジナルロゴを使用。
+4.  バラード・ベスト・アルバム『[The Ballads 〜Love & B'z〜](../Page/The_Ballads_〜Love_&_B'z〜.md "wikilink")』とシングル『[IT'S SHOWTIME\!\!](../Page/IT'S_SHOWTIME!!.md "wikilink")』は、それぞれオリジナルロゴを使用。
 5.  本作以降[ベースまたは](../Page/ベース_\(弦楽器\).md "wikilink")[ドラムが全編打ち込みの曲は](../Page/ドラムセット.md "wikilink")「[IT'S SHOWTIME\!\!](../Page/IT'S_SHOWTIME!!.md "wikilink")」のシングルバージョンと「[結晶](../Page/衝動_\(B'zの曲\).md "wikilink")」(いずれもドラムが全編打ち込み)を除き存在せず、大半の曲がバンドサウンドとなっている。
-6.  「SIGNAL」、「美しき世界」、「FOREVER MINE」、「The Spiral」の4曲が未演奏だったが、6年後の『[B'z LIVE-GYM 2008 "ACTION"](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2008_-ACTION- "wikilink")』で「FOREVER MINE」の初演奏により、ツアー前の年に発売された16thアルバム『[ACTION](../Page/ACTION.md "wikilink")』が最多(4/17曲)となった。
+6.  「SIGNAL」、「美しき世界」、「FOREVER MINE」、「The Spiral」の4曲が未演奏だったが、6年後の『[B'z LIVE-GYM 2008 "ACTION"](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2008_-ACTION- "wikilink")』で「FOREVER MINE」の初演奏により、ツアー前の年に発売された16thアルバム『[ACTION](../Page/ACTION_\(アルバム\).md "wikilink")』が最多（4/17曲）となった。
 7.  [ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")を含めると『[B'z The Best "ULTRA Pleasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Pleasure" "wikilink")』が最後。
 8.
 9.
@@ -176,3 +176,4 @@
 17.
 18.
 19.
+20.

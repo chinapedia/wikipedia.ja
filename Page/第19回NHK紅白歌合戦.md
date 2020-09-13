@@ -97,6 +97,7 @@
   - [ザ・ドリフターズ](../Page/ザ・ドリフターズ.md "wikilink")（デューク・エイセスの後に登場し、ドリフのカバー版『いい湯だな』を披露した）。
   - [青空はるお](../Page/青空はるお.md "wikilink")・[あきお](../Page/横山あきお.md "wikilink")（はるおは[秋田県](../Page/秋田県.md "wikilink")[男鹿市](../Page/男鹿市.md "wikilink")、あきおは[山口県](../Page/山口県.md "wikilink")[防府市](../Page/防府市.md "wikilink")より中継）
   - [三木のり平](../Page/三木のり平.md "wikilink")
+  - 渥美清
 
 ## 当日のステージ・エピソード
 
@@ -135,6 +136,10 @@
 ## 関連項目
 
   - [1968年の音楽](../Page/1968年の音楽.md "wikilink")
+
+## 外部リンク
+
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=19)
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1968年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1968年のテレビ番組_\(日本\) "wikilink") [Category:1968年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1968年のラジオ番組_\(日本\) "wikilink") [Category:1968年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1968年の日本の音楽 "wikilink") [Category:1968年12月](https://ja.wikipedia.org/wiki/Category:1968年12月 "wikilink")
 

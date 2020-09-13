@@ -115,7 +115,7 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: center;"><p><strong><a href="https://ja.wikipedia.org/wiki/CBCテレビ" title="wikilink">中部日本放送</a></strong> (CBC)</p></td>
-<td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/ジャパン・ニュース・ネットワーク.md" title="wikilink">TBS系列</a></p></td>
 <td style="text-align: center;"><p>日曜 24:45～25:00</p></td>
 <td style="text-align: center;"><p>※制作局</p></td>
 </tr>
@@ -132,7 +132,7 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><strong><a href="https://ja.wikipedia.org/wiki/山陽放送" title="wikilink">山陽放送</a></strong> (RSK)</p></td>
+<td style="text-align: center;"><p><strong><a href="https://ja.wikipedia.org/wiki/RSKテレビ" title="wikilink">山陽放送</a></strong> (RSK)</p></td>
 <td style="text-align: center;"><p>TBS系列</p></td>
 <td style="text-align: center;"><p>日曜 24:30～24:45</p></td>
 <td style="text-align: center;"></td>

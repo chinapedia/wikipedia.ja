@@ -46,13 +46,18 @@ CDジャーナルは「リズム先行のサウンドが主流の時代にメロ
 
 ## 参加ミュージシャン
 
-  - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink") - ギター
-  - [小野塚晃](../Page/小野塚晃.md "wikilink") - キーボード
-  - [青木智仁](../Page/青木智仁.md "wikilink") - ベース
-  - [青山純](../Page/青山純.md "wikilink") - ドラム
-  - [江口信夫](https://ja.wikipedia.org/wiki/江口信夫 "wikilink") - ドラム
-  - [勝田一樹](../Page/勝田一樹.md "wikilink") - サックス
-  - 明石昌夫 - ベース、シンセサイザー
+  - 栗林誠一郎 - [ベース](../Page/ベース_\(弦楽器\).md "wikilink") (T-1)、[バックアップボーカル](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") (T-1,2,3,5,7,8,9)
+  - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink") - [ギター](../Page/ギター.md "wikilink") (T-1～7,9)
+  - [小野塚晃](../Page/小野塚晃.md "wikilink") - [キーボード](../Page/キーボード_\(楽器\).md "wikilink") (T-1～7)
+  - [青木智仁](../Page/青木智仁.md "wikilink") - ベース (T2,6,7,9)
+  - [青山純](../Page/青山純.md "wikilink") - [ドラム](../Page/ドラムセット.md "wikilink") (T-1～7)
+  - [江口信夫](https://ja.wikipedia.org/wiki/江口信夫 "wikilink") - ドラム (T-9)
+  - Susumu Kazuhara - [フリューゲルホルン](../Page/フリューゲルホルン.md "wikilink") (T-3)
+  - Nobuo Yagi - Jazz Harp (T-7)
+  - [勝田一樹](../Page/勝田一樹.md "wikilink") - [サックス](../Page/サクソフォーン.md "wikilink") (T-1,2,4,6,9)
+  - Hironori Sawano - [トランペット](../Page/トランペット.md "wikilink") (T-2,4,6,9)
+  - Keita Miyahara - [トロンボーン](../Page/トロンボーン.md "wikilink") (T-2,4,6)
+  - 明石昌夫 - ベース (T-3,5)、[シンセサイザー](../Page/シンセサイザー.md "wikilink") (T-1～7,9)
 
 ## 脚注
 

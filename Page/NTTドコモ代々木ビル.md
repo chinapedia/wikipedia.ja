@@ -32,7 +32,7 @@ NTTドコモは[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")代半
 
 ## ビル外観画像ギャラリー
 
-画像:NTTドコモ代々木ビル.jpg|[新宿御苑](../Page/新宿御苑.md "wikilink")から望む 画像:Yoyogi_NTTDocomo200505.jpg|[新宿タカシマヤタイムズスクエアと](../Page/高島屋.md "wikilink")[新宿サザンテラス](../Page/新宿サザンテラス.md "wikilink")を結ぶイーストデッキから望む 画像:Starbucks Shinjuku.jpg|[新宿サザンテラス](../Page/新宿サザンテラス.md "wikilink")の[スターバックス](../Page/スターバックス.md "wikilink")・オープンテラスから望む夜景 画像:DoCoMoTower_ShinjukuSta.jpg|JR[新宿駅](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")山手線ホームから望む 画像:DoCoMoTower-Yoyogi-St-East.jpg|代々木駅東口から仰ぐ 画像:DoCoMoTower-View-From-DaiBiru.jpg|秋葉原ダイビルから
+画像:NTTドコモ代々木ビル.jpg|[新宿御苑](../Page/新宿御苑.md "wikilink")から望む 画像:Yoyogi_NTTDocomo200505.jpg|[新宿タカシマヤタイムズスクエアと](https://ja.wikipedia.org/wiki/髙島屋 "wikilink")[新宿サザンテラス](../Page/新宿サザンテラス.md "wikilink")を結ぶイーストデッキから望む 画像:Starbucks Shinjuku.jpg|[新宿サザンテラス](../Page/新宿サザンテラス.md "wikilink")の[スターバックス](../Page/スターバックス.md "wikilink")・オープンテラスから望む夜景 画像:DoCoMoTower_ShinjukuSta.jpg|JR[新宿駅](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")山手線ホームから望む 画像:DoCoMoTower-Yoyogi-St-East.jpg|代々木駅東口から仰ぐ 画像:DoCoMoTower-View-From-DaiBiru.jpg|秋葉原ダイビルから
 
 ## 脚注
 

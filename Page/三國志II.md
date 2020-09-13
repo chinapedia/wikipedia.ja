@@ -1,23 +1,27 @@
 > この記事は[三國志II](https://ja.wikipedia.org/wiki/三國志II)から翻訳されています。
 
 
-『**三國志II**』（さんごくし・ツー）は、1989年に[光栄](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）から発売された[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。「[三國志シリーズ](../Page/三國志シリーズ.md "wikilink")」の第2作。前作の基本的なシステムは引き継ぎつつ、新たな工夫が施されている。音楽は[向谷実](../Page/向谷実.md "wikilink")が担当\[1\]。
+『**三國志II**』（さんごくし・ツー）は、[1989年](../Page/1989年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に日本の[光栄から発売された](../Page/コーエー.md "wikilink")[PC-8801mk2SR用](https://ja.wikipedia.org/wiki/PC-8800シリーズ "wikilink")[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。
 
-PC-88SR版が発売された後、さまざまなパソコン機種や[家庭用ゲーム機](https://ja.wikipedia.org/wiki/家庭用ゲーム機 "wikilink")などに移植された。またPC-98版の復刻収録は「[コーエー25周年記念パック](../Page/コーエー25周年記念パック.md "wikilink") Vol.5」、「my GAMECITY クラシックゲーム館」でのブラウザゲーム版、[Steam](../Page/Steam.md "wikilink")でのダウンロード販売で行われている。
+同社の『[三國志シリーズ](../Page/三國志シリーズ.md "wikilink")』第2作目。前作に引き続き、プレイヤーは『[三国志演義](../Page/三国志演義.md "wikilink")』に登場する英雄（[君主](../Page/君主.md "wikilink")）の一人となり、配下の武将に対し内政、軍事、[外交](../Page/外交.md "wikilink")、[計略](https://ja.wikipedia.org/wiki/計略 "wikilink")などのコマンドを出すことにより41国に分割された古代中国全土の統一を目指すことが最終的な目的である。機種によって4人、8人、12人までマルチプレイが可能。ただし、本作でも一部の君主は[プレイヤーが選択できず](../Page/ノンプレイヤーキャラクター.md "wikilink")、COM専用となっている。前作の基本的なシステムは引き継ぎつつ、新たな工夫が施されている。
+
+開発は光栄が行い、プロデューサーは[シブサワ・コウ](../Page/シブサワ・コウ.md "wikilink")、音楽は[カシオペアに所属していた](../Page/カシオペア_\(バンド\).md "wikilink")[向谷実](../Page/向谷実.md "wikilink")が担当している\[1\]。
+
+PC-88SR版の発売後、他の日本国産[パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")各機種に移植された他、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")においても『*Romance of the Three Kingdoms II*』のタイトルで[Amiga](../Page/Amiga.md "wikilink")や[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")に移植され、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")には[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")に移植された。その他、[1991年](../Page/1991年.md "wikilink")に『**スーパー三國志II**』のタイトルで[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")に移植された他、同年に[メガドライブ](../Page/メガドライブ.md "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink")、[1999年](../Page/1999年.md "wikilink")に『**三國志 ゲームボーイ版2**』のタイトルで[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")、[2000年](../Page/2000年.md "wikilink")に『**三國志II for WonderSwan**』のタイトルで[ワンダースワン](../Page/ワンダースワン.md "wikilink")など[家庭用ゲーム機から](../Page/コンシューマーゲーム.md "wikilink")[携帯型ゲーム](../Page/携帯型ゲーム.md "wikilink")機に至るまで様々な機種に移植された。[2004年](../Page/2004年.md "wikilink")から[2005年](../Page/2005年.md "wikilink")にかけては[携帯電話ゲーム](../Page/携帯電話ゲーム.md "wikilink")として『**Mobile三國志2**』のタイトルで配信された。PC-9801版の復刻収録は『[コーエー25周年記念パック](../Page/コーエー25周年記念パック.md "wikilink") Vol.5』、「my GAMECITY クラシックゲーム館」でのブラウザゲーム版、[Steam](../Page/Steam.md "wikilink")でのダウンロード販売で行われている。
+
+ファミリーコンピュータ版はゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」にてシルバー殿堂を獲得した。
 
 なお本項では、本作の各リメイク版についても併せて記述する。
 
-## 概要
+## ゲーム内容
 
-前作に引き続き、プレイヤーは『[三国志演義](../Page/三国志演義.md "wikilink")』に登場する英雄（[君主](../Page/君主.md "wikilink")）の一人となり、配下の武将に対し内政、軍事、[外交](../Page/外交.md "wikilink")、[計略](https://ja.wikipedia.org/wiki/計略 "wikilink")などのコマンドを出すことにより41国に分割された古代中国全土の統一を目指すことが最終的な目的である。機種によって4人、8人、12人までマルチプレイが可能。ただし、本作でも一部の君主は[プレイヤーが選択できず](../Page/ノンプレイヤーキャラクター.md "wikilink")、COM専用となっている。
-
-## 前作からの変更点
+### 前作からの変更点
 
 戦略フェイズにおいては、前作では1国に行えるコマンドは1つだけであったが、本作では、配下武将の数だけコマンドを出せるようになり、戦略の幅が広がった。ただし、君主や太守のみしか行えないコマンドもある（一例：君主のみ 太守や軍師の「任命」、太守は当事国での登用時の「三顧の礼」や使用頻度の高い「褒美」も含まれる）。外交の際は使者ユニットがマップ上を動き回って交渉相手国へ到達するという演出もなされ、時には使者を捕縛したり密書を取り上げることもできる。
 
 合戦フェイズにおいては、通常攻撃、一斉攻撃、突撃、火計などの前作からのコマンドは細かな変更を加えつつ引き継がれ、新たに[一騎討ち](../Page/一騎討ち.md "wikilink")、寝返り工作、[伏兵](https://ja.wikipedia.org/wiki/伏兵 "wikilink")、共同軍や援軍、[ZOC](../Page/ZOC.md "wikilink")の概念のシステムが設けられ、駆け引きの幅が広くなった。また、一度に出陣できる枠数は、攻撃側は5部隊・守備側は10部隊まで守備側に有利となっている。ただし前述の共同軍を用いれば他の君主が最大で5部隊を増援を派遣してくれるほか、寝返り工作や一部の計略などで攻撃側の不利を多少緩和できる。
 
-本作より[後漢](../Page/後漢.md "wikilink")滅亡後のシナリオが初登場し、それに伴い[鄧艾や](../Page/トウ艾.md "wikilink")[鍾会](../Page/鍾会.md "wikilink")など三国時代末期の武将も追加され武将数は352人（後述の特殊な武将を除く）と増加した。一方で、国の数は58から41へと減少している。また、パソコン版のみ、特殊な武将として[華佗](../Page/華佗.md "wikilink")、[許子将](../Page/許劭.md "wikilink")、[司馬徽](../Page/司馬徽.md "wikilink")、[貂蝉](../Page/貂蝉.md "wikilink")が登場する。
+本作より[後漢](../Page/後漢.md "wikilink")滅亡後のシナリオが初登場し、それに伴い[鄧艾](https://ja.wikipedia.org/wiki/鄧艾 "wikilink")や[鍾会](../Page/鍾会.md "wikilink")など三国時代末期の武将も追加され武将数は352人（後述の特殊な武将を除く）と増加した。一方で、国の数は58から41へと減少している。また、パソコン版のみ、特殊な武将として[華佗](../Page/華佗.md "wikilink")、[許子将](../Page/許劭.md "wikilink")、[司馬徽](../Page/司馬徽.md "wikilink")、[貂蝉](../Page/貂蝉.md "wikilink")が登場する。
 
 在野武将の登場年齢が平均して引き上げられた。[黄忠](../Page/黄忠.md "wikilink")のように50代半ばにならないと登場しない武将もいる。
 
@@ -27,7 +31,7 @@ PC-88SR版が発売された後、さまざまなパソコン機種や[家庭用
 
 本作は[吉川英治](../Page/吉川英治.md "wikilink")の小説『[三国志](https://ja.wikipedia.org/wiki/三国志_\(吉川英治\) "wikilink")』\[2\]を原典\[3\]にしており、[夏侯惇](../Page/夏侯惇.md "wikilink")の読みがなが「かこうじゅん」\[4\]となっている他、小説独自のキャラクターが登場する（楊平、芙蓉姫など）。また[曹豹](https://ja.wikipedia.org/wiki/曹豹 "wikilink")の全能力値が10台（知力13、武力19、魅力15）と群を抜いて低く、当時『光栄ゲームパラダイス』誌の投稿コーナーでは「曹豹血盟軍」と題した特集が組まれるなどカルト人気を獲得した。
 
-## 新データ
+### 新データ
 
   - 信用度
     これは、外交・登用の成否や配下武将の忠誠度の増減に影響を与えるもので、上昇させる方法は「[玉璽](https://ja.wikipedia.org/wiki/玉璽 "wikilink")」以外には基本的に同盟国に対してであり、「同盟国から依頼された、共同作戦または救援要請に応じる」「同盟国の使者を無条件に通す」などの信義に基づいた行動を取ると（共同軍および援軍は、その戦争に敗北しても）上昇し、「同盟国に攻め込む」「戦場で同盟軍を裏切る」「（同盟・非同盟を問わず）外交の使者を捕らえる」といった信義に反する行為をとると低下する。この数値が低いほど忠誠度の下がり幅が大きくなる\[5\]ため、シナリオ2の[呂布](../Page/呂布.md "wikilink")は開始時点で30しかない（別のシナリオも含めて他の君主は全て50スタートであるのに加え、初期設定時の魅力も極端に低く褒美による忠誠の上がり幅自体も小さい）ので、その点で不利である。ただし、選択君主の場合はプレイ次第で意図的に上げられるため途中で他のCOM君主と信用度が逆転する可能性が発生するが、COM君主の呂布の場合は後述の義理・人徳が最低であるため下がり方に より拍車が掛かる形となる。後続作品では細分化され改称もあるが、「善行」および「悪名」に近いデータであり、「信用度が高い＝善行が高い」「信用度が低い＝悪名が高い」こととなる。
@@ -48,13 +52,15 @@ PC-88SR版が発売された後、さまざまなパソコン機種や[家庭用
   - 寿命
     何歳まで生きられるかを表したもの。寿命自体はマスクデータだが年齢はゲーム中に確認できる公開データであるため、一部の有名な君主や配下武将には寿命が設定されており寿命間近となると「凶兆」イベントが発生する。 ただし、PC版の設定にある「仮想モード」でプレイすると寿命の設定が無効になり\[16\]、どの武将も60歳が目安となる\[17\]。
 
-## シナリオ
+## 設定
+
+### シナリオ
 
 サブタイトルは機種により異なり、括弧内はファミコン・スーパーファミコン・メガドライブ・PS版のシナリオタイトル。 下記は登場する君主（選択できない君主は*斜体字*で表記）。
 
 1・董卓[洛陽](https://ja.wikipedia.org/wiki/洛陽 "wikilink")を騒がし群星起つ（董卓の横暴） [189年](../Page/189年.md "wikilink")
 
-  - [曹操](../Page/曹操.md "wikilink") [劉備](../Page/劉備.md "wikilink") [孫堅](../Page/孫堅.md "wikilink") [袁紹](../Page/袁紹.md "wikilink") [袁術](../Page/袁術.md "wikilink") [馬騰](../Page/馬騰.md "wikilink") [劉焉](../Page/劉焉.md "wikilink") [劉表](../Page/劉表.md "wikilink") [董卓](../Page/董卓.md "wikilink") [公孫瓚](../Page/公孫サン.md "wikilink") [陶謙](../Page/陶謙.md "wikilink") *[韓馥](../Page/韓馥.md "wikilink")* *[孔融](../Page/孔融.md "wikilink")* *[王朗](https://ja.wikipedia.org/wiki/王朗 "wikilink")* *[劉繇](../Page/劉ヨウ_\(揚州牧\).md "wikilink")*
+  - [曹操](../Page/曹操.md "wikilink") [劉備](../Page/劉備.md "wikilink") [孫堅](../Page/孫堅.md "wikilink") [袁紹](../Page/袁紹.md "wikilink") [袁術](../Page/袁術.md "wikilink") [馬騰](../Page/馬騰.md "wikilink") [劉焉](../Page/劉焉.md "wikilink") [劉表](../Page/劉表.md "wikilink") [董卓](../Page/董卓.md "wikilink") [公孫瓚](https://ja.wikipedia.org/wiki/公孫瓚 "wikilink") [陶謙](../Page/陶謙.md "wikilink") *[韓馥](../Page/韓馥.md "wikilink")* *[孔融](../Page/孔融.md "wikilink")* *[王朗](https://ja.wikipedia.org/wiki/王朗 "wikilink")* *[劉繇](https://ja.wikipedia.org/wiki/劉繇 "wikilink")*
 
 2・群雄割拠し盛んに覇を競う（曹操の雄飛） [194年](https://ja.wikipedia.org/wiki/194年 "wikilink")
 
@@ -76,7 +82,7 @@ PC-88SR版が発売された後、さまざまなパソコン機種や[家庭用
 
   - [曹丕](../Page/曹丕.md "wikilink") 劉備 孫権 孟獲
 
-## 戦利品の一覧
+### 戦利品の一覧
 
 戦利品には以下のようなものがあり、能力を最低5〜最大18上昇させる。ただし、どの能力値も最大値の100を超える事はない（一例として、値が96の武将に与えても上昇値は4が限界である）。 また、ストック（取り置き）する事は出来ず、入手した時点で誰かに使用しなければならない。その際、君主自身に使用も可能だが 配下に与えると その時点で忠誠が必ず100になる\[18\]。
 
@@ -88,15 +94,330 @@ PC-88SR版が発売された後、さまざまなパソコン機種や[家庭用
 5.  **[玉璽](https://ja.wikipedia.org/wiki/玉璽 "wikilink")** - 君主の魅力と信用度が100になる。
 6.  **華佗の医学書**（[青嚢書のこと](https://ja.wikipedia.org/wiki/華佗#『三国志演義』における華佗 "wikilink")） - 病気やケガになった武将が一月で治る。
 
-## 歴史イベント「貂蝉」
+### 歴史イベント「貂蝉」
 
 三國志シリーズでは初の歴史イベントで、一定の条件下で発生する。小説『[三国志演義](../Page/三国志演義.md "wikilink")』での[貂蝉](../Page/貂蝉.md "wikilink")による「連環の計」のエピソードをモチーフとしており、特殊な命令コマンド「貂蝉」を選択することでイベントが進行。コマンドを選択するたびに表示される貂蝉の肌の露出度が上がっていくが、イベントを最後 まで進行すると自害するため、君主の信用度と全ての配下武将の忠誠度が30下がる。
 
 ある程度の性的表現を含んだ内容だったためか、[FC版などの家庭用機種では実装されていない](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")。ちなみに、文字のみであるが[王允](../Page/王允.md "wikilink")も登場する。
 
-## リメイク版
+## 他機種版
 
-### 三國志 ゲームボーイ版2
+### 一覧
+
+<table>
+<thead>
+<tr class="header">
+<th><p>No.</p></th>
+<th><p>タイトル</p></th>
+<th><p>発売日</p></th>
+<th><p>対応機種</p></th>
+<th><p>開発元</p></th>
+<th><p>発売元</p></th>
+<th><p>メディア</p></th>
+<th><p>型式</p></th>
+<th><p>備考</p></th>
+<th><p>Ref.</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>三國志II</p></td>
+<td></td>
+<td><p><a href="../Page/PC-9800シリーズ.md" title="wikilink">PC-9801</a></p></td>
+<td><p>光栄</p></td>
+<td><p>光栄</p></td>
+<td><p>5インチフロッピーディスク<br />
+3.5インチフロッピーディスク</p></td>
+<td><p>NFKN14032 (5")<br />
+NHKN15011 (3.5")<br />
+NHKN15012 (3.5")</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>三國志II</p></td>
+<td></td>
+<td><p><a href="../Page/MSX2.md" title="wikilink">MSX2</a></p></td>
+<td><p>光栄</p></td>
+<td><p>光栄</p></td>
+<td><p>フロッピーディスク<br />
+ロムカセット</p></td>
+<td><p>MXKN12019 (FD)<br />
+MXKN12022 (ROM)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>三國志II</p></td>
+<td></td>
+<td><p><a href="../Page/X1_(コンピュータ).md" title="wikilink">X1turbo</a></p></td>
+<td><p>光栄</p></td>
+<td><p>光栄</p></td>
+<td><p>5インチフロッピーディスク</p></td>
+<td><p>SJKN11012</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>三國志II</p></td>
+<td></td>
+<td><p><a href="../Page/FM_TOWNS.md" title="wikilink">FM TOWNS</a></p></td>
+<td><p>光栄</p></td>
+<td><p>光栄</p></td>
+<td><p><a href="../Page/CD-ROM.md" title="wikilink">CD-ROM</a></p></td>
+<td><p>KN10011010</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>三國志II</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/X68000" title="wikilink">X68000</a></p></td>
+<td><p>光栄</p></td>
+<td><p>光栄</p></td>
+<td><p>5インチフロッピーディスク</p></td>
+<td><p>KN10011020</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファミリーコンピュータ" title="wikilink">ファミリーコンピュータ</a></p></td>
+<td><p>光栄</p></td>
+<td><p>光栄</p></td>
+<td><p>4<a href="../Page/メガビット.md" title="wikilink">メガビット</a>+128キロRAMロムカセット<ref name="famimaga297">{{Cite journal |和書</p></td>
+<td><p>author =</p></td>
+<td><p>authorlink =</p></td>
+<td><p>title = 5月10日号特別付録 ファミコンロムカセット オールカタログ</p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>三國志II</p></td>
+<td></td>
+<td><p><a href="../Page/98NOTE.md" title="wikilink">98NOTE</a></p></td>
+<td><p>光栄</p></td>
+<td><p>光栄</p></td>
+<td><p>フロッピーディスク</p></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td></td>
+<td></td>
+<td><p><a href="../Page/スーパーファミコン.md" title="wikilink">スーパーファミコン</a></p></td>
+<td><p>光栄</p></td>
+<td><p>光栄</p></td>
+<td><p>8メガビット+256キロRAMロムカセット<ref name="famimaga82">{{Cite journal |和書</p></td>
+<td><p>author =</p></td>
+<td><p>authorlink =</p></td>
+<td><p>title = 8月情報号特別付録 スーパーファミコンオールカタログ'93</p></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td></td>
+<td></td>
+<td><p><a href="../Page/メガドライブ.md" title="wikilink">メガドライブ</a></p></td>
+<td><p>光栄</p></td>
+<td><p>光栄</p></td>
+<td><p>8メガビットロムカセット<ref name="megafan86">{{Cite journal |和書</p></td>
+<td><p>author =</p></td>
+<td><p>authorlink =</p></td>
+<td><p>title = 7月号特別付録 メガドライブ&amp;ゲームギア オールカタログ'93</p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>Romance of the Three Kingdoms II</p></td>
+<td></td>
+<td><p><a href="../Page/Amiga.md" title="wikilink">Amiga</a><br />
+<a href="https://ja.wikipedia.org/wiki/PC/AT互換機" title="wikilink">PC/AT互換機</a></p></td>
+<td><p>光栄</p></td>
+<td><p>光栄</p></td>
+<td><p>フロッピーディスク</p></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>三國志II</p></td>
+<td></td>
+<td><p><a href="../Page/PlayStation_(ゲーム機).md" title="wikilink">PlayStation</a></p></td>
+<td><p>光栄</p></td>
+<td><p>光栄</p></td>
+<td><p>CD-ROM</p></td>
+<td><p>SLPS-01596</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p>三國志 ゲームボーイ版2</p></td>
+<td></td>
+<td><p><a href="../Page/ゲームボーイカラー.md" title="wikilink">ゲームボーイカラー</a></p></td>
+<td><p>コーエー</p></td>
+<td><p>コーエー</p></td>
+<td><p>ロムカセット</p></td>
+<td><p>DMG-AS9J-JPN</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>13</p></td>
+<td><p>三國志II for WonderSwan</p></td>
+<td></td>
+<td><p><a href="../Page/ワンダースワン.md" title="wikilink">ワンダースワン</a></p></td>
+<td><p>コーエー</p></td>
+<td><p>コーエー</p></td>
+<td><p>ロムカセット</p></td>
+<td><p>SWJ-KEX004</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/コーエーテクモ定番シリーズ" title="wikilink">コーエー定番シリーズ</a><br />
+三國志II</p></td>
+<td></td>
+<td><p>PlayStation</p></td>
+<td><p>コーエー</p></td>
+<td><p>コーエー</p></td>
+<td><p>CD-ROM</p></td>
+<td><p>SLPM-86607</p></td>
+<td><p>廉価版</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>15</p></td>
+<td><p>コーエー定番シリーズ<br />
+三國志II</p></td>
+<td></td>
+<td><p><a href="../Page/Microsoft_Windows_98.md" title="wikilink">Windows 98</a> - <a href="../Page/Microsoft_Windows_XP.md" title="wikilink">XP</a></p></td>
+<td><p>コーエー</p></td>
+<td><p>コーエー</p></td>
+<td><p>CD-ROM</p></td>
+<td><p>KN11-98101</p></td>
+<td></td>
+<td><p>[19]</p></td>
+</tr>
+<tr class="even">
+<td><p>16</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/コーエー25周年パック" title="wikilink">コーエー25周年パック</a>Vol.5</p></td>
+<td></td>
+<td><p><a href="../Page/Microsoft_Windows_98.md" title="wikilink">Windows 98</a> - <a href="../Page/Microsoft_Windows_XP.md" title="wikilink">XP</a></p></td>
+<td><p>コーエー</p></td>
+<td><p>コーエー</p></td>
+<td><p>CD-ROM</p></td>
+<td><p>-</p></td>
+<td><p>PC-9801版の移植</p></td>
+<td><p>[20][21][22][23]</p></td>
+</tr>
+<tr class="odd">
+<td><p>17</p></td>
+<td><p>Mobile三國志2</p></td>
+<td></td>
+<td><p><a href="../Page/FOMA.md" title="wikilink">FOMA</a>900iシリーズ<br />
+FOMA703シリーズ/<a href="../Page/F702iD.md" title="wikilink">F702iD</a><br />
+<a href="../Page/D800iDS.md" title="wikilink">D800iDS</a>専用<br />
+（<a href="https://ja.wikipedia.org/wiki/iアプリ" title="wikilink">iアプリ</a>）</p></td>
+<td><p>コーエー</p></td>
+<td><p>コーエー</p></td>
+<td><p><a href="../Page/ダウンロード販売.md" title="wikilink">ダウンロード</a></p></td>
+<td><p>-</p></td>
+<td></td>
+<td><p>[24]</p></td>
+</tr>
+<tr class="even">
+<td><p>18</p></td>
+<td><p>Mobile三國志2</p></td>
+<td></td>
+<td><p><a href="../Page/BREW.md" title="wikilink">BREW</a>対応機種<br />
+（<a href="https://ja.wikipedia.org/wiki/EZアプリ" title="wikilink">EZアプリ</a>）</p></td>
+<td><p>コーエー</p></td>
+<td><p>コーエー</p></td>
+<td><p>ダウンロード</p></td>
+<td><p>-</p></td>
+<td></td>
+<td><p>[25][26]</p></td>
+</tr>
+<tr class="odd">
+<td><p>19</p></td>
+<td><p>Mobile三國志2</p></td>
+<td></td>
+<td><p><a href="../Page/Yahoo!ケータイ.md" title="wikilink">ボーダフォンライブ!</a><br />
+（<a href="../Page/S!アプリ.md" title="wikilink">Vアプリ</a>）</p></td>
+<td><p>コーエー</p></td>
+<td><p>コーエー</p></td>
+<td><p>ダウンロード</p></td>
+<td><p>-</p></td>
+<td></td>
+<td><p>[27]</p></td>
+</tr>
+<tr class="even">
+<td><p>20</p></td>
+<td><p>三國志2</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/iPhone" title="wikilink">iPhone</a>、<a href="https://ja.wikipedia.org/wiki/iPod_touch" title="wikilink">iPod touch</a><br />
+(<a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/コーエーテクモゲームス" title="wikilink">コーエーテクモ</a></p></td>
+<td><p>コーエーテクモ</p></td>
+<td><p>ダウンロード</p></td>
+<td><p>-</p></td>
+<td></td>
+<td><p>[28][29]</p></td>
+</tr>
+<tr class="odd">
+<td><p>21</p></td>
+<td><p>三國志2</p></td>
+<td></td>
+<td><p><a href="../Page/Android.md" title="wikilink">Android</a></p></td>
+<td><p>コーエーテクモ</p></td>
+<td><p>コーエーテクモ</p></td>
+<td><p>ダウンロード</p></td>
+<td><p>-</p></td>
+<td></td>
+<td><p>[30][31]</p></td>
+</tr>
+<tr class="even">
+<td><p>22</p></td>
+<td><p>三國志II</p></td>
+<td></td>
+<td><p><a href="../Page/ブラウザゲーム.md" title="wikilink">ブラウザゲーム</a></p></td>
+<td><p>コーエーテクモ</p></td>
+<td><p>コーエーテクモ</p></td>
+<td><p>ダウンロード<br />
+（クラシックゲーム館）</p></td>
+<td><p>-</p></td>
+<td></td>
+<td><p>[32]</p></td>
+</tr>
+<tr class="odd">
+<td><p>23</p></td>
+<td><p>シブサワ・コウ アーカイブス 歴史三部作パック Vol.2</p></td>
+<td></td>
+<td><p><a href="../Page/Microsoft_Windows_7.md" title="wikilink">Microsoft Windows 7</a>/<a href="https://ja.wikipedia.org/wiki/Microsoft_Windows_8.1" title="wikilink">8.1</a>/<a href="https://ja.wikipedia.org/wiki/Microsoft_Windows_10" title="wikilink">10</a></p></td>
+<td><p>コーエーテクモ</p></td>
+<td><p>コーエーテクモ</p></td>
+<td><p>ダウンロード<br />
+(<a href="../Page/Steam.md" title="wikilink">Steam</a>)</p></td>
+<td><p>-</p></td>
+<td></td>
+<td><p>[33][34]</p></td>
+</tr>
+</tbody>
+</table>
+
+### リメイク版
+
+  - 三國志 ゲームボーイ版2
 
 [1999年](../Page/1999年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink")に発売された、[コーエー](../Page/コーエー.md "wikilink")（現・コーエーテクモゲームス）の[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")用ソフト。
 「三國志II」をベースにし、ゲーム内容、武将総数、シナリオなどは同作と変更はないが、以下のような違いがある。
@@ -120,7 +441,9 @@ PC-88SR版が発売された後、さまざまなパソコン機種や[家庭用
   - 「貂蝉」などの各種イベントは全て削除されている。
   - 長期戦の廃止。つまり1か月で戦いに勝てないと強制的に敗北となる。
 
-### 三國志II for WonderSwan
+<!-- end list -->
+
+  - 三國志II for WonderSwan
 
 [2000年](../Page/2000年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")に発売された、コーエー（現・コーエーテクモゲームス）の[ワンダースワン](../Page/ワンダースワン.md "wikilink")用ソフト。基本的には『三國志II』をベースにしているが、オリジナルにはなかった「武将列伝」が搭載され、携帯機であることを活かしてデータベース的使い方も可能になっている。
 
@@ -131,7 +454,9 @@ PC-88SR版が発売された後、さまざまなパソコン機種や[家庭用
   - **新君主**プレイがない。
   - コマンドの「軍師助言」「うわさ」「治療」「放浪」が削除されている。
 
-### Mobile三國志2
+<!-- end list -->
+
+  - Mobile三國志2
 
 『三國志II』を携帯電話向けアプリゲームとしてリメイクした作品。初めはシナリオ1「董卓の横暴」のみしかプレイできず、クリアや契約月数によりシナリオが増えていく。その他、次の点が異なる。
 
@@ -152,9 +477,11 @@ PC-88SR版が発売された後、さまざまなパソコン機種や[家庭用
 5.  荊州争奪戦
 6.  三國鼎立
 
-### 三國志2（iPhone/iPod touch版）
+<!-- end list -->
 
-『三國志II』をベースとしており、武将の顔は『[VII](../Page/三國志VII.md "wikilink")』のものを流用している。操作はタッチパネルに最適化している。武将の寿命の選択が可能(史実・長寿・仮想の3種)であるほか、劉備と諸葛亮の対話形式で行われるチュートリアルや武将列伝・宝物庫(戦利品一覧)・用語集等を収めた「三國志事典」を収録。 オリジナル版との違いは以下の通り
+  - 三國志2（iPhone/iPod touch版）
+
+『三國志II』をベースとしており、武将の顔は『[三國志VII](../Page/三國志VII.md "wikilink")』（[2000年](../Page/2000年.md "wikilink")）のものを流用している。操作はタッチパネルに最適化している。武将の寿命の選択が可能(史実・長寿・仮想の3種)であるほか、劉備と諸葛亮の対話形式で行われるチュートリアルや武将列伝・宝物庫(戦利品一覧)・用語集等を収めた「三國志事典」を収録。 オリジナル版との違いは以下の通り
 
   - 全君主のプレイが可能。オリジナル版で選べなかった孔融・王朗などのプレイができる。
   - 女性武将の追加（貂蝉、大喬、小喬、[祝融など](https://ja.wikipedia.org/wiki/祝融夫人 "wikilink")）。
@@ -180,7 +507,67 @@ PC-88SR版が発売された後、さまざまなパソコン機種や[家庭用
 2.  諸葛亮登場 208年
 3.  三國の鼎立 220年
 
-### 三国志ツクール
+## 音楽
+
+  - サウンドトラック
+
+<!-- end list -->
+
+  - 三國志II H29E-20009
+  - 光栄オリジナルBGM集Vol.3 三國志II/[維新の嵐](../Page/維新の嵐.md "wikilink") KECH-1001
+  - 光栄オリジナルBGM集Vol.5 スーパー[信長の野望・武将風雲録](../Page/信長の野望・武将風雲録.md "wikilink")/スーパー三國志II KECH-1023（※スーパーファミコン音源をそのまま使用）
+
+## 評価
+
+  - ファミリーコンピュータ版
+    日本のゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では合計30点（満40点）でシルバー殿堂を獲得\[35\]\[36\]、『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、23.50点（満30点）となっている\[37\]。
+
+<!-- end list -->
+
+  -
+    {|class="wikitable" style="font-size:85%; text-align:center; width:50%"
+
+|- \! 項目 | キャラクタ || 音楽 || 操作性 || 熱中度 || お買得度 || オリジナリティ \! 総合 |- \! 得点 | 4.23 || 4.03 || 3.93 || 4.34 || 3.11 || 3.86 \! 23.50 |}
+
+  - スーパーファミコン版
+    ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では合計24点（満40点）\[38\]、『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通り、22.00点（満30点）となっている\[39\]。この得点は1993年時点でのスーパーファミコン全ソフトの中で、77位（323本中）である\[40\]。
+
+<!-- end list -->
+
+  -
+    {|class="wikitable" style="font-size:85%; text-align:center; width:50%"
+
+|- \! 項目 | キャラクタ || 音楽 || 操作性 || 熱中度 || お買得度 || オリジナリティ \! 総合 |- \! 得点 | 3.97 || 3.81 || 3.63 || 4.15 || 2.91 || 3.54 \! 22.00 |}
+
+  - メガドライブ版
+    ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では合計27点（満40点）\[41\]、『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通り、21.41点（満30点）となっている\[42\]。
+
+<!-- end list -->
+
+  -
+    {|class="wikitable" style="font-size:85%; text-align:center; width:50%"
+
+|- \! 項目 | キャラクタ || 音楽 || 操作性 || 熱中度 || お買得度 || オリジナリティ \! 総合 |- \! 得点 | 3.98 || 3.50 || 3.41 || 4.06 || 3.02 || 3.44 \! 21.41 |}
+
+  - Amiga、PC/AT互換機版
+    [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のゲーム誌『[Computer Gaming World](https://ja.wikipedia.org/wiki/:en:Computer_Gaming_World "wikilink")』では、前作よりも2世紀中国の「混乱をシミュレートする優れた仕事をしている」と評した\[43\]。同誌は1993年の20世紀の戦略ゲームについての調査で5段階のうち4つの星を与えた\[44\]。
+
+<!-- end list -->
+
+  - PlayStation版
+    ゲーム誌『ファミ通』の「クロスレビュー」では合計27点（満40点）となっている\[45\]。
+
+<!-- end list -->
+
+  - ゲームボーイカラー版
+    ゲーム誌『ファミ通』の「クロスレビュー」では6、6、7、7の26点\[46\]\[47\]。レビュアーは携帯機向けにシステムがシェイプアップ、画面レイアウトが見やすくなっている、思考時間のストレスがないとしたが、他の国の行動中にポーズができないなどもっと仕様変更ができたのではないかとした\[48\]。
+
+<!-- end list -->
+
+  - ワンダースワン版
+    ゲーム誌『ファミ通』の「クロスレビュー」では合計22点（満40点）となっている\[49\]。
+
+## 三国志ツクール
 
 『三國志II』をベースとしており、[ツクールシリーズ](../Page/ツクールシリーズ.md "wikilink")でもある。シナリオを自分で編集・作成できる。作成したシナリオは、他のプレイヤーに頒布が可能。 サンプルとして、「董卓洛陽を騒がし群星起つ」シナリオが附属しており、他の5つのシナリオは有料DLCとして提供される。また、コーエーテクモ作品の顔グラフィックも有料DLCとして提供された（一部はDLCシナリオ附属）。
 
@@ -210,34 +597,33 @@ PC-88SR版が発売された後、さまざまなパソコン機種や[家庭用
   - 従来機種では、容量の都合で一部シナリオで間引かれていた武将が、全てのシナリオで登場するようになった。
   - 多くの武将に、史実の没年準拠の寿命が設定された。これにより、全体的に『三國志II』より武将の寿命は短くなっている。
 
-## 評価
-
-『三國志II』は[Computer Gaming Worldでは前作よりも](https://ja.wikipedia.org/wiki/:en:Computer_Gaming_World "wikilink")2世紀中国の「混乱をシミュレートする優れた仕事をしている」と評した\[19\]。同誌は1993年の20世紀の戦略ゲームについての調査で5段階のうち4つの星を与えた\[20\]。[ファミコン通信ではFC版は](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")30/40点\[21\]。
-
-『三國志 ゲームボーイ版2』は[ファミ通](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")クロスレビューでは6、6、7、7の26点\[22\]。レビュアーは携帯機向けにシステムがシェイプアップ、画面レイアウトが見やすくなっている、思考時間のストレスがないとしたが、他の国の行動中にポーズができないなどもっと仕様変更ができたのではないかとした\[23\]。
-
-## 音楽
-
-### CD
-
-  - 三國志II H29E-20009
-  - 光栄オリジナルBGM集Vol.3 三國志II/[維新の嵐](../Page/維新の嵐.md "wikilink") KECH-1001
-  - 光栄オリジナルBGM集Vol.5 スーパー[信長の野望・武将風雲録](../Page/信長の野望・武将風雲録.md "wikilink")/スーパー三國志II KECH-1023（※スーパーファミコン音源をそのまま使用）
-
 ## 脚注
+
+### 注釈
+
+### 出典
 
 ## 外部リンク
 
   - [三國志II 製品案内](https://www.gamecity.ne.jp/products/products/ee/Rlsan2.htm)
+
   - [三國志II for WONDERSWAN](http://www.swan.channel.or.jp/swan/partner_title/title/sangokushi_2/index.html) （スワンチャンネル）
+
   - [Mobile三國志2](https://www.gamecity.ne.jp/products/products/ee/keitai/san/msan2.htm) コーエー公式サイト
+
   - [PlayStation.com(Japan)｜ソフトウェアカタログ｜コーエー・定番シリーズ 三國志II](https://www.jp.playstation.com/software/title/slpm86607.html)
+
   - [三國志II（iphone版）](https://www.gamecity.ne.jp/ip/pc/j/g0014.htm)
+
   - [my GAMECITY クラシックゲーム館](https://my.gamecity.ne.jp/mygc/classic/)
+
   - [「シブサワ・コウ アーカイブス」](https://www.gamecity.ne.jp/shibusawa-kou/archives.html)
+
   - [Steamによる配信ページ Romance of the Three Kingdoms Ⅱ / 三國志Ⅱ](https://store.steampowered.com/app/521690/Romance_of_the_Three_Kingdoms/)
 
-[Category:三國志シリーズ](https://ja.wikipedia.org/wiki/Category:三國志シリーズ "wikilink") [Category:MSX/MSX2用ソフト](https://ja.wikipedia.org/wiki/Category:MSX/MSX2用ソフト "wikilink") [Category:PC-8800用ゲームソフト](https://ja.wikipedia.org/wiki/Category:PC-8800用ゲームソフト "wikilink") [Category:PC-9800シリーズ用ゲームソフト](https://ja.wikipedia.org/wiki/Category:PC-9800シリーズ用ゲームソフト "wikilink") [Category:X1用ゲームソフト](https://ja.wikipedia.org/wiki/Category:X1用ゲームソフト "wikilink") [Category:X68000用ゲームソフト](https://ja.wikipedia.org/wiki/Category:X68000用ゲームソフト "wikilink") [Category:FM_TOWNS用ゲームソフト](https://ja.wikipedia.org/wiki/Category:FM_TOWNS用ゲームソフト "wikilink") [Category:1989年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1989年のコンピュータゲーム "wikilink") [Category:1990年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1990年のファミリーコンピュータ用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Macintosh用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Macintosh用ゲームソフト "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:iPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPhone用ゲームソフト "wikilink") [Category:コンピュータゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのシリーズ "wikilink") [Category:ブラウザゲーム](https://ja.wikipedia.org/wiki/Category:ブラウザゲーム "wikilink")
+  - （英語）
+
+[Category:1989年のパソコンゲーム](https://ja.wikipedia.org/wiki/Category:1989年のパソコンゲーム "wikilink") [Category:1990年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1990年のファミリーコンピュータ用ソフト "wikilink") [Category:Amiga用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Amiga用ゲームソフト "wikilink") [Category:DOSのゲームソフト](https://ja.wikipedia.org/wiki/Category:DOSのゲームソフト "wikilink") [Category:FM_TOWNS用ゲームソフト](https://ja.wikipedia.org/wiki/Category:FM_TOWNS用ゲームソフト "wikilink") [Category:iPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPhone用ゲームソフト "wikilink") [Category:MSX/MSX2用ソフト](https://ja.wikipedia.org/wiki/Category:MSX/MSX2用ソフト "wikilink") [Category:PC-8800用ゲームソフト](https://ja.wikipedia.org/wiki/Category:PC-8800用ゲームソフト "wikilink") [Category:PC-9800シリーズ用ゲームソフト](https://ja.wikipedia.org/wiki/Category:PC-9800シリーズ用ゲームソフト "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:X1用ゲームソフト](https://ja.wikipedia.org/wiki/Category:X1用ゲームソフト "wikilink") [Category:X68000用ゲームソフト](https://ja.wikipedia.org/wiki/Category:X68000用ゲームソフト "wikilink") [Category:三國志シリーズ](https://ja.wikipedia.org/wiki/Category:三國志シリーズ "wikilink") [Category:ファミ通クロスレビューシルバー殿堂入りソフト](https://ja.wikipedia.org/wiki/Category:ファミ通クロスレビューシルバー殿堂入りソフト "wikilink") [Category:ブラウザゲーム](https://ja.wikipedia.org/wiki/Category:ブラウザゲーム "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink")
 
 1.   - 同書によれば*「FM音源の音色まで担当した」*(p.121より引用)とのことである。
 2.  講談社文庫・刊「全8巻」、六興出版・刊「全10巻」、他。ただし、中身は同一。
@@ -259,6 +645,32 @@ PC-88SR版が発売された後、さまざまなパソコン機種や[家庭用
 18. （一時的なものである事が多く）君主との相性や信用度によっては、その後に低下する事もある。
 19.
 20.
-21. 30 Point Plus: 三國志II. Weekly Famicom Tsūshin. No.336. Pg.31. 26 May 1995.
-22. ファミ通No.555 1999年8月6日号 31ページ
+21.
+22.
 23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35. 30 Point Plus: 三國志II. Weekly Famicom Tsūshin. No.336. Pg.31. 26 May 1995.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46. ファミ通No.555 1999年8月6日号 31ページ
+47.
+48.
+49.

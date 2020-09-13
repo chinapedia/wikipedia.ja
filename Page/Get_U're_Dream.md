@@ -24,19 +24,40 @@
 
 1.  **Get U're Dream**
       -
-        作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")　作曲：[大野愛果](../Page/大野愛果.md "wikilink")　編曲：[葉山たけし](../Page/葉山たけし.md "wikilink")
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")
+        作曲：[大野愛果](../Page/大野愛果.md "wikilink")
+        編曲：[葉山たけし](../Page/葉山たけし.md "wikilink")
+
+        </div>
     <!-- end list -->
       - [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[シドニーオリンピック](https://ja.wikipedia.org/wiki/シドニーオリンピック "wikilink")放送テーマソング
       - コーラス参加は[Micheal africk](https://ja.wikipedia.org/wiki/マイケル・アフリック "wikilink")、大野愛果、坂井泉水
       - オリンピック用のタイアップを受け制作された。
 2.  **Get U're Dream（Version Two）**
       -
-        作詞：坂井泉水　作曲：大野愛果　編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：坂井泉水
+        作曲：大野愛果
+        編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
+
+        </div>
     <!-- end list -->
       - 打ち込みを主体とした、軽めのロックアレンジになっており、曲の進行に伴い、音が多重になって行く。最後のサビが半音上がる。
 3.  **Get U're Dream（Version Three）**
       -
-        作詞：坂井泉水　作曲：大野愛果　編曲：[YOKO Black. Stone](../Page/YOKO_Black._Stone.md "wikilink")
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：坂井泉水
+        作曲：大野愛果
+        編曲：[YOKO Black. Stone](../Page/YOKO_Black._Stone.md "wikilink")
+
+        </div>
     <!-- end list -->
       - コーラス参加は編曲を担当したYOKO Black. Stone。
       - この時期流行していたR\&Bを取り入れたアレンジになっており、坂井が[フェイク](../Page/フェイク.md "wikilink")に挑戦していて、新しい側面が見られる。
@@ -45,7 +66,14 @@
       - コーラスあり。
 5.  **Get U're Dream (Perry Geyer Short Mix) (Secret Track)**
       -
-        作詞：坂井泉水　作曲：大野愛果　remix：[perry geyer](https://ja.wikipedia.org/wiki/perry_geyer "wikilink")
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：坂井泉水
+        作曲：大野愛果
+        remix：[perry geyer](https://ja.wikipedia.org/wiki/perry_geyer "wikilink")
+
+        </div>
     <!-- end list -->
       - コーラス参加はMichael Africk。
       - 原曲を基調にしたmixだが、Michael Africkのコーラスが強調され、サビ部分が短く処理されている。

@@ -49,7 +49,7 @@
 
 ## 外部リンク
 
-  - [インターネットラジオステーション＜音泉＞](http://www.onsen.ag/)
+  - [インターネットラジオステーション＜音泉＞](https://www.onsen.ag/)
   - [石田燿子オフィシャルWEB SITE](http://www.hypervoice.com/yokoishida/)
   - [ジェネオン内石田燿子情報ページ](http://nbcuni-music.com/ishida/)
   - [松濤アクターズギムナジウムHP](http://www.actorschool.jp/)

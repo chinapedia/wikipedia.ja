@@ -171,4 +171,6 @@
 
   -
   -
+  - [PERSONZ](https://www.youtube.com/user/PERSONZchannel/featured) - YouTube
+
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:テイチクエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:テイチクエンタテインメントのアーティスト "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink")

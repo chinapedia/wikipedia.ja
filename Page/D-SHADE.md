@@ -5,7 +5,7 @@
 
 ## 概説
 
-バンド名のD-SHADEはDEAREST SHADEの略。 当初は「D†SHADE」という表記だった。 [インディーズ](../Page/インディーズ.md "wikilink")時は広島並木ジャンクションを中心に活動。『ポスト[BOφWY](../Page/BOOWY.md "wikilink")』などとも呼ばれていた\[1\]。1998年にシングル『BELIEVE』で[メジャーデビューし](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")、その後1998年にシングル「[ENDLESS LOVE](https://ja.wikipedia.org/wiki/ENDLESS_LOVE "wikilink")」がヒットしたが、ボーカルのHIBIKIが[レーサー](https://ja.wikipedia.org/wiki/レーサー "wikilink")に転向するため音楽界を引退し、2000年5月31日をもって解散。
+バンド名のD-SHADEはDEAREST SHADEの略。 当初は「D†SHADE」という表記だった。 [インディーズ](../Page/インディーズ.md "wikilink")時は広島並木ジャンクションを中心に活動。『ポスト[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")』などとも呼ばれていた\[1\]。1998年にシングル『BELIEVE』で[メジャーデビューし](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")、その後1998年にシングル「[ENDLESS LOVE](https://ja.wikipedia.org/wiki/ENDLESS_LOVE_\(D-SHADEの曲\) "wikilink")」がヒットしたが、ボーカルのHIBIKIが[レーサー](https://ja.wikipedia.org/wiki/レーサー "wikilink")に転向するため音楽界を引退し、2000年5月31日をもって解散。
 
 ## メンバー
 
@@ -88,7 +88,7 @@
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ENDLESS_LOVE" title="wikilink">ENDLESS LOVE</a></strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ENDLESS_LOVE_(D-SHADEの曲)" title="wikilink">ENDLESS LOVE</a></strong></p></td>
 <td><p>1998年7月15日</p></td>
 <td><p>PODH-1422</p></td>
 <td><p>10</p></td>
@@ -226,15 +226,14 @@ POBH-1013</p></td>
 
   - **KEN**
       -
-      - [nagaken@blog](http://web.archive.org/web/20110511180807/http://nagaken.blogzine.jp/weblog/)（アーカイヴ） - [OCN](../Page/OCN.md "wikilink")ブログ人
+      - [nagaken@blog](https://web.archive.org/web/20110511180807/http://nagaken.blogzine.jp/weblog/)（アーカイヴ） - [OCN](../Page/OCN.md "wikilink")ブログ人
 
       - [THE LIDEE OFFICIAL BLOG](https://ameblo.jp/thelidee) - [アメーバブログ](../Page/アメーバブログ.md "wikilink") 2012-04-30最終更新
   - **YUJI**
       -
       - [YUJIオフィシャルブログ「YUJIと佑治」](https://ameblo.jp/neo-yuji/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
 
-      - [as.milk Official Site](http://asmilk.syncl.jp/)
-
+      -
       - [adding japan](https://www.adding.tokyo/)
 
       - [super view(非営利団体)](https://www.adding.tokyo/superview)
@@ -242,7 +241,7 @@ POBH-1013</p></td>
   - HIBIKI（待田克彦）
       - [プレスネット スタッフ紹介](http://www.pressnet.co.jp/article/company_staff.php)
 
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:過去のケイダッシュ系列所属者](https://ja.wikipedia.org/wiki/Category:過去のケイダッシュ系列所属者 "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:2000年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に解散した音楽グループ "wikilink")
+[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:過去のケイダッシュ系列所属者](https://ja.wikipedia.org/wiki/Category:過去のケイダッシュ系列所属者 "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:2000年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に解散した音楽グループ "wikilink")
 
 1.
 2.

@@ -1,7 +1,7 @@
 > この記事は[D.J.カラスコ](https://ja.wikipedia.org/wiki/D.J.カラスコ)から翻訳されています。
 
 
-**ダニエル・J・カラスコ**（**Daniel J. "D. J." Carrasco**, [1977年](../Page/1977年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink") - ）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[アリゾナ州](https://ja.wikipedia.org/wiki/アリゾナ州 "wikilink")[サフォード出身の元](https://ja.wikipedia.org/wiki/サフォード_\(アリゾナ州\) "wikilink")[プロ野球選手](../Page/プロ野球選手.md "wikilink")（[投手](../Page/投手.md "wikilink")）。
+**ダニエル・J・カラスコ**（**Daniel J. "D. J." Carrasco**, [1977年](../Page/1977年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink") - ）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[アリゾナ州](https://ja.wikipedia.org/wiki/アリゾナ州 "wikilink")[サフォード出身の元](https://ja.wikipedia.org/wiki/サフォード_\(アリゾナ州\) "wikilink")[プロ野球選手](../Page/プロ野球選手.md "wikilink")（[投手](../Page/投手.md "wikilink")）。野球指導者。
 
 ## 経歴
 
@@ -51,11 +51,13 @@
 
 ### ブレーブス時代
 
-2012年6月20日、[アトランタ・ブレーブス](../Page/アトランタ・ブレーブス.md "wikilink")と契約を結ぶ\[5\]。しかし、7月4日に解雇された。
+2012年6月20日、[アトランタ・ブレーブス](../Page/アトランタ・ブレーブス.md "wikilink")と契約を結ぶ\[5\]。しかし、7月4日に解雇されたため、後に現役を引退した。
 
-### ブレーブス退団後
+### 現役引退後
 
-7月6日に、[第4回WBC予選のニュージーランド代表ブルペンコーチを務める事が発表された](https://ja.wikipedia.org/wiki/2017_ワールド・ベースボール・クラシック "wikilink")\[6\]。
+[ロサンゼルス・ドジャース](../Page/ロサンゼルス・ドジャース.md "wikilink")で[アドバンスト・スカウトとして活動](https://ja.wikipedia.org/wiki/先乗りスカウト "wikilink")\[6\]。その一方で、[2017年の第4回ワールド・ベースボール・クラシック（WBC）では](https://ja.wikipedia.org/wiki/2017_ワールド・ベースボール・クラシック "wikilink")、[予選1組に出場した](https://ja.wikipedia.org/wiki/2017_ワールド・ベースボール・クラシック_予選1組 "wikilink")[ニュージーランド代表チームのブルペンコーチを務めた](https://ja.wikipedia.org/wiki/2017_ワールド・ベースボール・クラシック・ニュージーランド代表 "wikilink")\[7\]。さらに、2018・2019年度の[オーストラリアン・ベースボールリーグ](../Page/オーストラリアン・ベースボールリーグ.md "wikilink")では、ドジャースから投手コーチとして[オークランド・トゥアタラ](https://ja.wikipedia.org/wiki/オークランド・トゥアタラ "wikilink")へ派遣\[8\]。2019年度のリーグ期間中には、ドジャースの傘下球団に所属する[北方悠誠](https://ja.wikipedia.org/wiki/北方悠誠 "wikilink")（元・[横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")→ソフトバンク投手）を自身の推薦でオークランドに迎え入れた\[9\]ほか、[村中恭兵](../Page/村中恭兵.md "wikilink")（元・[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")）などの日本人投手を指導している\[10\]。
+
+なお、2020年1月14日には、[シラキュース・メッツ](../Page/シラキュース・メッツ.md "wikilink")（現役時代の最後に所属していたメッツ傘下のAAA級球団）で投手コーチを務めることが発表されていた\[11\]。もっとも、同年には世界規模で[新型コロナウイルスへの感染が拡大している影響で](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")、AAA級を含むマイナーリーグが全面中止に追い込まれている。
 
 ## 選手としての特徴
 
@@ -475,4 +477,9 @@
 3.  <http://mlb.mlb.com/news/article.jsp?ymd=20101209&content_id=16290480&vkey=news_mlb&c_id=mlb>　Retrieved 26 December 2010.
 4.  <http://metsblog.com/news/mets-option-carson-to-double-a-purchase-contract-of-jack-egbert/>
 5.  <http://www.talkingchop.com/2012/6/20/3101927/braves-sign-reliever-d-j-carrasco>
-6.  \[<http://www.baseballnewzealand.com/index.php/41-baseball/international/385-team-nz-wbc-coaching-staff-named>　Team NZ WBC Coaching Staff Named\] Baseball New Zealand  (2015年7月6日) 2015年8月20日閲覧
+6.  \[<http://metsminors.net/dj-carrasco-returns-to-mets-organization-as-syracuse-pitching-coach/#>:\~:text=After%20retiring%20from%20baseball%2C%20he,of%20the%20Australian%20Baseball%20League.　DJ Carrasco Returns to Mets Organization As Syracuse Pitching Coach\]METSMINORS.NET (2020年1月14日) 2020年9月1日閲覧
+7.  \[<http://www.baseballnewzealand.com/index.php/41-baseball/international/385-team-nz-wbc-coaching-staff-named>　Team NZ WBC Coaching Staff Named\] Baseball New Zealand  (2015年7月6日) 2015年8月20日閲覧
+8.
+9.  [オークランドが北方悠誠投手と契約](http://abl-japan.com/2019/09/28/846/)（『オーストラリアン・ベースボールリーグ・ジャパン』2019年9月28日付記事）
+10. [ニュージーランドでプレーする侍たち](https://news.yahoo.co.jp/byline/asasatoshi/20200104-00157564/)（『[Yahoo\!ニュース](https://ja.wikipedia.org/wiki/Yahoo!ニュース "wikilink")』2020年1月4日付記事）
+11.

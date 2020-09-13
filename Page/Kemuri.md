@@ -7,8 +7,8 @@
 
 ## 経歴
 
-  - 1995年に元Paninoの伊藤、田中、霜田、元[Aggressive Dogsの津田等と結成](https://ja.wikipedia.org/wiki/Aggressive_Dogs "wikilink")。後にバンド名を「KEMURI」とする。伊藤が渡米を繰り返ししながらデモテープを地元レコードに売り込みするなど、現地ミュージシャンとの交流を深めた。
-  - 1996年に米で発売された2枚のコンピレーション・アルバムに参加。平谷がメンバー加入。[Roadrunner Japanと契約する](../Page/ロードランナー・レコード.md "wikilink")。
+  - 1995年に元Paninoの伊藤、田中、霜田、元[Aggressive Dogsの津田](https://ja.wikipedia.org/wiki/Aggressive_Dogs "wikilink")、現[BACK DROP BOMBの有松益男と結成](../Page/BACK_DROP_BOMB.md "wikilink")。後にバンド名を「KEMURI」とする。伊藤が渡米を繰り返ししながらデモテープを地元レコードに売り込みするなど、現地ミュージシャンとの交流を深めた。
+  - 1996年に米で発売された2枚のコンピレーション・アルバムに参加。平谷がメンバー加入。[Roadrunner Japanと契約する](../Page/ロードランナー・レコード.md "wikilink")。5月ドラムの有松益男が脱退。
   - 1997年、レコ発ライヴのチケットは即時完売し、ライヴ中には、酸欠による30分間のインターバルを入れるというハプニングも起こした。霜田、田中が脱退。増井，桧田がメンバー加入。
   - 1998年 南、森村、コバヤシがメンバー加入。桧田が脱退。米でのSKA AGAINST RACISMツアーに参加。日本での初の全国ツアーも全公演完売となる。
   - 1999年、初のフランス・ツアーを敢行。
@@ -145,6 +145,17 @@
   -
     1998年に加入。
     2003年9月21日、ツアー移動中の交通事故により急逝。アルバム『CIRCLES』の収録曲「白いばら」は彼の為に作られた。
+
+<!-- end list -->
+
+  - **[有松益男](https://ja.wikipedia.org/wiki/有松益男 "wikilink")**（[ドラム](https://ja.wikipedia.org/wiki/ドラム "wikilink")）
+
+<!-- end list -->
+
+  -
+    1995年 8月KEMURI結成時のメンバー&初代ドラマー。
+    1995年 12月/[BACK DROP BOMBに加入](../Page/BACK_DROP_BOMB.md "wikilink")。
+    1996年 5月/KEMURI脱退。
 
 ## ディスコグラフィー
 

@@ -75,7 +75,7 @@
   - [徒然KAB.日記](http://blog.goo.ne.jp/kabfc/) （2005年12月 - 2011年10月）
 
   -
-[Category:日本の歌手](https://ja.wikipedia.org/wiki/Category:日本の歌手 "wikilink") [Category:日本のシンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本のシンガーソングライター "wikilink") [Category:日本出身のLGBTの音楽家](https://ja.wikipedia.org/wiki/Category:日本出身のLGBTの音楽家 "wikilink") [Category:日本のトランスジェンダーの人物](https://ja.wikipedia.org/wiki/Category:日本のトランスジェンダーの人物 "wikilink") [Category:横浜市出身の人物](https://ja.wikipedia.org/wiki/Category:横浜市出身の人物 "wikilink") [Category:1977年生](https://ja.wikipedia.org/wiki/Category:1977年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:日本出身のLGBTの音楽家](https://ja.wikipedia.org/wiki/Category:日本出身のLGBTの音楽家 "wikilink") [Category:日本のトランスジェンダーの人物](https://ja.wikipedia.org/wiki/Category:日本のトランスジェンダーの人物 "wikilink") [Category:横浜市出身の人物](https://ja.wikipedia.org/wiki/Category:横浜市出身の人物 "wikilink") [Category:1977年生](https://ja.wikipedia.org/wiki/Category:1977年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.

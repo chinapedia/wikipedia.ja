@@ -7,7 +7,7 @@
 
 [TripleAの制作デスクであった山田良輔とTripleA制作進行の小野拓哉](../Page/Triple_A_\(アニメ制作会社\).md "wikilink")、TripleAアニメーターの小田武士らが同社から元請制作の作品を生み出すことを目標に[2009年](../Page/2009年.md "wikilink")5月、TripleAの子会社として株式会社**C2C**（シートゥーシー）を設立\[1\]。社名は「Challenge To Challenge」の略であり、親会社のTripleAの企業理念「挑戦なくして成功はなし」から影響を受けている\[2\]。アニメーション企画・制作を事業としながらも、設立後は親会社と同じく他社の[グロス請け](../Page/グロス請け.md "wikilink")をメインに活動していた。2012年より『[ゆるめいつ 3でぃ](https://ja.wikipedia.org/wiki/ゆるめいつ_3でぃ "wikilink")』などの5分枠ショートアニメの制作担当や、他社との共同制作という形でTVアニメシリーズなどの元請制作を担当。制作会社[サテライトとの共同制作が多く](../Page/サテライト_\(アニメ制作会社\).md "wikilink")、元請制作開始後もサテライト制作作品のグロス請けを多く担当している。
 
-「いつか元請け制作会社になる」という目標のもと、他社のグロス請けや共同制作、ショートアニメ作品の制作を続け、設立から9年目の2018年『[はるかなレシーブ](https://ja.wikipedia.org/wiki/はるかなレシーブ "wikilink")』で初の30分枠TVアニメーション作品の単独元請け制作を行い目標を達成\[3\]。以降は元請制作をメインに活動している。
+「いつか元請け制作会社になる」という目標のもと、他社のグロス請けや共同制作、ショートアニメ作品の制作を続け、設立から9年目の2018年『[はるかなレシーブ](https://ja.wikipedia.org/wiki/はるかなレシーブ "wikilink")』で初の30分枠TVアニメーション作品の単独元請け制作を行い目標を達成\[3\]。以降は元請制作をメインに活動しているが、グロス請けに関してもこれまで通り継続して引き請けている。
 
 ## 制作部門
 
@@ -104,13 +104,13 @@
 </tr>
 <tr class="even">
 <td><p>2020年</p></td>
-<td><p>4月 -</p></td>
+<td><p>4月 - 6月</p></td>
 <td><p><a href="../Page/社長、バトルの時間です!.md" title="wikilink">社長、バトルの時間です!</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>時期未定</p></td>
+<td><p>10月 -</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/魔女の旅々" title="wikilink">魔女の旅々</a></p></td>
 <td></td>
 <td></td>
@@ -268,6 +268,10 @@
 ## 外部リンク
 
   - [C2C公式サイト](http://www.c2c2009.com/)
+
+  -
+
+  -
 
 [Category:C2C](https://ja.wikipedia.org/wiki/Category:C2C "wikilink") [Category:日本のアニメスタジオ](https://ja.wikipedia.org/wiki/Category:日本のアニメスタジオ "wikilink") [Category:西東京市の企業](https://ja.wikipedia.org/wiki/Category:西東京市の企業 "wikilink") [Category:2009年設立の企業](https://ja.wikipedia.org/wiki/Category:2009年設立の企業 "wikilink")
 

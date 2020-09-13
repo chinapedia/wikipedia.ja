@@ -41,8 +41,6 @@
 
 なお、従来から装備していたルノーFT-17を「ルノー甲型」と改名し、ルノーNC27を「ルノー乙型」としたという説もあるが、ルノーNC27があまりに欠陥が多いため、改修したルノーNC27を改修前の車輌と区別するために「ルノー乙型」と改名したとする資料もある。
 
-ただ前年の[1931年](../Page/1931年.md "wikilink")（昭和6年）12月にルノー甲型に対して行われた対戦車弾丸効力試験では、装甲板そのものは高い抗堪性を示したルノー乙型（1927年に開発されたルノーNC27は装甲板の質でも第一次世界大戦時のルノーFT-17に対し改善されている。同時期の日本でもニセコ鋼板が開発されている）に対する結果と明らかに違い、一撃で致命的な損傷を受け、あまりにも脆弱なので、やはりルノー甲型はルノーFT-17のことと解釈すべきだと思われる。
-
 中国大陸から日本本土へ引き揚げられたルノー乙型戦車は、各地の戦車学校で訓練用戦車として使われた後、展示車輛となった。
 
 ### 中隊の編成
@@ -70,6 +68,6 @@
 
 [en:Char D1\#Renault NC](https://ja.wikipedia.org/wiki/en:Char_D1#Renault_NC "wikilink")
 
-[Category:大日本帝国の戦車](https://ja.wikipedia.org/wiki/Category:大日本帝国の戦車 "wikilink") [Category:フランスの戦車](https://ja.wikipedia.org/wiki/Category:フランスの戦車 "wikilink") [Category:ルノーの車種](https://ja.wikipedia.org/wiki/Category:ルノーの車種 "wikilink")
+[Category:大日本帝国の戦車](https://ja.wikipedia.org/wiki/Category:大日本帝国の戦車 "wikilink") [Category:フランスの戦車](https://ja.wikipedia.org/wiki/Category:フランスの戦車 "wikilink") [Category:ルノーの戦車](https://ja.wikipedia.org/wiki/Category:ルノーの戦車 "wikilink")
 
 1.  『機甲入門』p149

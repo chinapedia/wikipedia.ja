@@ -43,8 +43,8 @@
 
   - 同時期発売の[SoftBank 810SHとは](../Page/SoftBank_810SH.md "wikilink")、外部デザインは異なるが、基盤等内部構造は共通で諸元性能においても同一である。
   - 本機が男性向けのデザイン、姉妹機[SoftBank 810SHは女性向けのデザインという位置づけとなっている](../Page/SoftBank_810SH.md "wikilink")。
-  - メインディスプレイに2.4[インチ](../Page/インチ.md "wikilink")[VGA](https://ja.wikipedia.org/wiki/VGA "wikilink")[液晶](../Page/液晶.md "wikilink")を採用。640×480ドットの高い解像度を誇り、ＰＣサイトブラウザの搭載も相まって最小フォントでも文字が見やすく、携帯電話でのサイト閲覧の容易さを飛躍的に向上させた。ただ、[VGA](https://ja.wikipedia.org/wiki/VGA "wikilink")[液晶](../Page/液晶.md "wikilink")採用機種としては初期のモデルのためか画像表示の速さには欠ける。
-  - [VGA](https://ja.wikipedia.org/wiki/VGA "wikilink")ドキュメントビューアを搭載。[PDF](https://ja.wikipedia.org/wiki/PDF "wikilink")、[Word](https://ja.wikipedia.org/wiki/Word "wikilink")、[Excel](https://ja.wikipedia.org/wiki/Excel "wikilink")、[PowerPoint](https://ja.wikipedia.org/wiki/PowerPoint "wikilink")ファイルの閲覧･携帯が可能。
+  - メインディスプレイに2.4[インチ](../Page/インチ.md "wikilink")[VGA](https://ja.wikipedia.org/wiki/VGA "wikilink")[液晶](../Page/液晶.md "wikilink")を採用。640×480ドットの高い解像度を誇り、PCサイトブラウザの搭載も相まって最小フォントでも文字が見やすく、携帯電話でのサイト閲覧の容易さを飛躍的に向上させた。ただ、[VGA](https://ja.wikipedia.org/wiki/VGA "wikilink")[液晶](../Page/液晶.md "wikilink")採用機種としては初期のモデルのためか画像表示の速さには欠ける。
+  - [VGA](https://ja.wikipedia.org/wiki/VGA "wikilink")ドキュメントビューアを搭載。[PDF](https://ja.wikipedia.org/wiki/PDF "wikilink")、[Word](../Page/Microsoft_Word.md "wikilink")、[Excel](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")、[PowerPointファイルの閲覧](../Page/Microsoft_PowerPoint.md "wikilink")･携帯が可能。
   - [S\!CAST](../Page/S!CAST.md "wikilink")を契約すれば、[ステーション](../Page/ステーション.md "wikilink")で人気のあったお天気アイコンを改良した[3Gお天気アイコン](https://ja.wikipedia.org/wiki/3Gお天気アイコン "wikilink")が利用できる。
 
 ## 不具合

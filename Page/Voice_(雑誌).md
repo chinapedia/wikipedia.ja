@@ -37,6 +37,8 @@
 ## 外部リンク
 
   - [Voice](http://www.php.co.jp/magazine/voice/) - PHP研究所
+  - [WEBVoice](https://shuchi.php.co.jp/voice/)
+  - [Voice](https://ironna.jp/media/3)-iRONNA
 
 [Category:PHP研究所](https://ja.wikipedia.org/wiki/Category:PHP研究所 "wikilink") [Category:総合雑誌](https://ja.wikipedia.org/wiki/Category:総合雑誌 "wikilink") [Category:日本の経済雑誌](https://ja.wikipedia.org/wiki/Category:日本の経済雑誌 "wikilink") [Category:1977年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1977年創刊の雑誌 "wikilink") [Category:日本の保守主義の雑誌](https://ja.wikipedia.org/wiki/Category:日本の保守主義の雑誌 "wikilink")
 

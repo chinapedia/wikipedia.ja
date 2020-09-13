@@ -21,7 +21,7 @@
   - [2007年](../Page/2007年.md "wikilink")（平成19年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - グループ会社4社が保有していた[T\&Dアセットマネジメント](https://ja.wikipedia.org/wiki/T&Dアセットマネジメント "wikilink")株式会社の株式を取得し、子会社化
   - [2015年](../Page/2015年.md "wikilink")（平成27年）12月 - 本社を東京都中央区日本橋二丁目7番1号に移転
   - [2019年](../Page/2019年.md "wikilink")（平成31年）4月 - ペット&ファミリー少額短期保険が損害保険会社へ移行。社名を「ペット&ファミリー損害保険」に変更
-  - 2019年（令和元年）7月 - 戦略子会社・T\&Dユナイテッドキャピタルを設立
+  - 2019年（令和元年）7月 - T\&Dユナイテッドキャピタル株式会社の事業開始
 
 ## グループ企業
 
@@ -45,6 +45,7 @@
   - T\&Dコンファーム株式会社（保険契約に関する確認代行業務）
   - 東陽保険代行株式会社（保険代理業）
   - 株式会社大同マネジメントサービス（保険代理業）
+  - 株式会社太陽生命少子高齢社会研究所（健康・医療などに関する調査・研究業務）
 
 ### 資産運用関連事業
 
@@ -69,6 +70,7 @@
   - [大同生命保険株式会社](https://www.daido-life.co.jp/)
   - [T\&Dフィナンシャル生命保険株式会社](https://www.tdf-life.co.jp/)
   - [T\&Dアセットマネジメント株式会社](https://www.tdasset.co.jp/)
+  - [T\&Dユナイテッドキャピタル株式会社](https://www.tduc.co.jp/)
   - [ペット＆ファミリー損害保険株式会社](https://www.petfamilyins.co.jp/)
 
 [Category:T\&D保険グループ](https://ja.wikipedia.org/wiki/Category:T&D保険グループ "wikilink") [Category:金融持株会社](https://ja.wikipedia.org/wiki/Category:金融持株会社 "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:2004年上場の企業](https://ja.wikipedia.org/wiki/Category:2004年上場の企業 "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:日経平均株価](https://ja.wikipedia.org/wiki/Category:日経平均株価 "wikilink") [Category:2004年設立の企業](https://ja.wikipedia.org/wiki/Category:2004年設立の企業 "wikilink")

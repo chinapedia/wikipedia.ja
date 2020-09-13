@@ -20,7 +20,7 @@
 
 ## 関連番組
 
-  - [川崎宗則の今日もヨロシコ](https://ja.wikipedia.org/wiki/川崎宗則#出演 "wikilink")（[CROSS FM](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")、[2004年](../Page/2004年.md "wikilink")から毎年1月～3月に放送、チームメイトである[川崎宗則](../Page/川崎宗則.md "wikilink")が担当）
+  - [川﨑宗則の今日もヨロシコ](https://ja.wikipedia.org/wiki/川﨑宗則#出演 "wikilink")（[CROSS FM](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")、[2004年](../Page/2004年.md "wikilink")から毎年1月～3月に放送、チームメイトである[川﨑宗則](https://ja.wikipedia.org/wiki/川﨑宗則 "wikilink")が担当）
 
 ## 外部リンク
 

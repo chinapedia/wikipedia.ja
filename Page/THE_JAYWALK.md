@@ -178,6 +178,7 @@
 ## 関連項目
 
   - [ロードブラスター](../Page/ロードブラスター.md "wikilink") - [メガCD](../Page/メガCD.md "wikilink")版のテーマソングを歌っていた。
+  - [1981年の音楽\#デビュー](https://ja.wikipedia.org/wiki/1981年の音楽#デビュー "wikilink") - 同じ年にデビューした歌手
 
 ## 外部リンク
 

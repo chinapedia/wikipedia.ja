@@ -97,8 +97,9 @@
 
 ## 外部リンク
 
-  - [音泉](http://onsen.ag/)
+  -
   - [ウォーターオリオン](http://www.waterorion.com/)
+
   - [ウォーターオリオンblog](http://blog.waterorion.com/)（収録風景を掲載）
 
 [Category:音泉](https://ja.wikipedia.org/wiki/Category:音泉 "wikilink")

@@ -1,25 +1,27 @@
 > この記事は[I\'m proud](https://ja.wikipedia.org/wiki/I\'m_proud)から翻訳されています。
 
 
-「**I'm Proud**」（アイム・プラウド）は、日本の女性歌手、[華原朋美](../Page/華原朋美.md "wikilink")の3作目のシングル。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースによる楽曲である。
+
+ 「**I'm Proud**」（アイム・プラウド）は、日本の女性歌手、[華原朋美](../Page/華原朋美.md "wikilink")の3作目のシングル。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースによる楽曲である。
 
 ## 解説
 
-  - 前作「[I BELIEVE](../Page/I_BELIEVE_\(華原朋美の曲\).md "wikilink")」に続いて、2作連続で[ミリオンヒットとなり](../Page/ミリオンセラー.md "wikilink")、華原朋美最大のヒット曲となった。
-  - [TBC](../Page/TBCグループ.md "wikilink")（東京ビューティセンター）「the レディ・エステティック」の[CMソング](../Page/コマーシャルソング.md "wikilink")。当時のプロデューサー・[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")と共に出演し、“恋よりキレイになれるもの”の[キャッチコピー](../Page/キャッチコピー.md "wikilink")にシンデレラストーリー仕立てのCMが話題を呼んだ。セレブ感を出すために「PRADA」「GUCCI」などのハイブランドでファッションも統一している。
-  - 制作にあたって小室が描いたイメージは「[風と共に去りぬ](../Page/風と共に去りぬ.md "wikilink")」。小室曰く、「数多くの小室作品の中でも5本の指に入る力作」であり、「1st、2ndは手探りでやっていたが、とてつもない速さで自分をどう表現するかという力を身に着け、難しい楽曲を歌うことができるようになった。」と当時語っている。また、華原の要望も受けて小室は歌詞を書き換えており「曲自体はデビュー前にある程度出来ていたが、歌詞を完成させるのに凄く時間がかかった」とも語っている。
-  - 当初、サビフレーズの歌詞「いちごの様に」の果物の部分は“りんご”であったが、小室が作詞をしているときに一緒にいた華原は小室がシャンパンのグラスの中にイチゴを入れる様子を見て、「I’m Proud」の歌詞に「いちご」という言葉を入れるのはどうかと提案して“いちご”に変更された。\[1\]。
+  - 前作「[I BELIEVE](../Page/I_BELIEVE_\(華原朋美の曲\).md "wikilink")」に続く2作連続で[ミリオンヒットであり](../Page/ミリオンセラー.md "wikilink")、華原朋美最大のヒット曲。
+  - 同年オリコン年間シングルチャートでは[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")を抑えて女性ソロでは1位、年間カラオケランキング1位を記録。
+  - 本人出演の[TBC](../Page/TBCグループ.md "wikilink")（東京ビューティセンター）「the レディ・エステティック」の[CMソング](../Page/コマーシャルソング.md "wikilink")。当時のプロデューサー[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")と共に出演し、“恋よりキレイになれるもの”の[キャッチコピー](../Page/キャッチコピー.md "wikilink")にシンデレラストーリー仕立てのPVと連動したCMが話題を呼んだ。
+  - 1stアルバム『[LOVE BRACE](../Page/LOVE_BRACE.md "wikilink")』では、ラストのサビを更に盛り上げる歌詞とメロディーが加わった全編の \[full version\] で収録されている。
+  - [2005年](../Page/2005年.md "wikilink") シングル「[涙の続き](../Page/涙の続き.md "wikilink")」のc/wに「I'm proud 2005」を再レコーディング収録。
+  - [2013年](../Page/2013年.md "wikilink")　長期活動休止からの復帰第1弾シングル「[夢やぶれて -I DREAMED A DREAM-](https://ja.wikipedia.org/wiki/夢やぶれて_-I_DREAMED_A_DREAM- "wikilink")」のc/wに「I'm proud -2013 Orchestra Ver.-」を再レコーディング収録。
+
+## エピソード
+
+  - レコーディングや[PVの撮影は](../Page/ミュージック・ビデオ.md "wikilink")[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で行われた。[ハンティントンビーチでジャケット撮影時](https://ja.wikipedia.org/wiki/ハンティントンビーチ_\(カリフォルニア州\) "wikilink")、高熱でダウン寸前だったが、根気で乗り切ったと後に本人が語っている。PVは倉庫街ビル（[1100 Wilshire](https://ja.wikipedia.org/wiki/:en:1100_Wilshire "wikilink")）屋上とスタジオで撮影されPVとメイキングが収められたシングル・ビデオは、同年3月27日に発売された。セレブ感を出すために「PRADA」「GUCCI」などのハイブランドでファッションも統一している。
+  - 制作にあたって小室が描いたイメージは「[風と共に去りぬ](../Page/風と共に去りぬ.md "wikilink")」。小室曰く、”数多くの小室作品の中でも5本の指に入る力作”であり、「1st、2ndは手探りでやっていたが、とてつもない速さで自分をどう表現するかという力を身に着け、難しい楽曲を歌うことができるようになった」と当時語っている。華原自身も「『[keep yourself alive](https://ja.wikipedia.org/wiki/keep_yourself_alive "wikilink")』『[I BELIEVE](../Page/I_BELIEVE_\(華原朋美の曲\).md "wikilink")』では『強さ』を歌っていたけど、今度は『強さの裏にある優しさ』を歌った。『他人に優しくなれる力強さを持ちたい』と思っている方に歌ってほしい」と語っている\[1\]。
+  - 小室が楽曲製作において､詞をきちんと意識したのは華原朋美が初めてであった｡それまでは洋楽的エッセンスを取り入れることを重視しており､[TRF](../Page/TRF.md "wikilink")や[篠原涼子](https://ja.wikipedia.org/wiki/篠原涼子 "wikilink")の楽曲から少しずつ詞も意識していたが1～2フレーズ残れば良いという程度だった｡最初から最後まで､リスナーにきちんと伝わる詞を書くようになったのは華原朋美から｡\[2\]また､当時､小室が華原を通じて表現していたのは「元々普通の女の子なのに､意図せず規律の外に出てしまった女の子」「自分に自信が持てず『どうせ自分なんて』とため息をつく､そんな若者の切なさ・やりきれなさを表現したかった」としている\[3\]。
+  - 華原の要望も受けて小室は歌詞を書き換えており「曲自体はデビュー前にある程度出来ていたが、歌詞を完成させるのに凄く時間がかかった」と語っている。小室はロサンゼルスへ向かう飛行機内で完成させたが、ホテルで華原に見せたところ「どこが気になったのか未だに分からないんだけど、ロスのホテルの暖炉に丸めて捨てられたんだよね。気に入らないとまでは言わなかったけど、なんか嫌だったみたい」と告白\[4\]。「勝気というか、ロックンローラーというか、曲げたくないところは曲げたくないって部分はあったと思う」と当時の華原の懐古し、小室は「ありがとうって言ってもらうつもりもなかったけど、『どうかな？』っていう感じ」と回想。その歌詞は「覚えてないんだよ。一行一行でポンポン書いていったので」と、自分でも内容を思い出せないという\[5\]。また当初、サビフレーズの歌詞「いちごの様に」の果物の部分は“りんご”であったが、華原は小室がシャンパンのグラスの中にイチゴを入れる様子を見て、「I’m Proud」の歌詞に華原自身も好きな「いちご」という言葉を入れるのはどうかと提案し、最終的に“いちご”に変更されている\[6\]。
   - 冒頭のサビを終えた直後の間奏からAメロにかけて、J.S.バッハ以前の時代に使われていた[教会旋法](../Page/教会旋法.md "wikilink")の中からドリア旋法を用いて書かれており、敢えて現代の調性に合わないように見せかけたのち、Bメロで日本の[ヨナ抜き音階](../Page/ヨナ抜き音階.md "wikilink")を取り込んでいるなど、高校までの音楽の授業で習うような理論の範疇を超えて作曲されており、小室の手腕の高さが伺える。
-  - レコーディングや、ジャケット・[PVの撮影は](../Page/ミュージック・ビデオ.md "wikilink")[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で行われた。ジャケットは[ハンティントンビーチで撮影された](https://ja.wikipedia.org/wiki/ハンティントンビーチ_\(カリフォルニア州\) "wikilink")。ジャケット撮影時、高熱でダウン寸前だったが、根気で乗り切ったと本人が語った。PVは、倉庫街ビル（[1100 Wilshire](https://ja.wikipedia.org/wiki/:en:1100_Wilshire "wikilink")）屋上（ヘリコプターを使っての大掛かりなシーン）とスタジオで撮影され、小室も共に出演した。PVとメイキングが収められたシングル・ビデオは、同年3月27日に発売された。
-  - 記録的なビッグ・セールスとなった1枚目のアルバム『[LOVE BRACE](../Page/LOVE_BRACE.md "wikilink")』では、シングルの \[Radio Edit\] ではカットされたラストのサビをさらに盛り上げる歌詞とメロディーが加わった、全編の \[full version\] で収録されている。
-  - 発売週に出演した『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』では、サビ歌詞を間違えて“ラララ～♪”で歌いきり、ハプニングシーンとなった。また、この曲での2回目出演時には、[吉野家](../Page/吉野家.md "wikilink")の[牛丼](../Page/牛丼.md "wikilink")が大好きで“並・玉・つゆだく”で食べていると公言したことから、吉野家に女性客が急増し、“つゆだく”という用語も広く一般に浸透した。
-  - この曲で、[1996年](../Page/1996年.md "wikilink")の『[第47回NHK紅白歌合戦](../Page/第47回NHK紅白歌合戦.md "wikilink")』に初出場し、小室がピアノ演奏として参加した。
-  - デビュー10周年を迎えた[2005年](../Page/2005年.md "wikilink")には、「I BELIEVE 2004」のリメイクに続き、シングル「[涙の続き](../Page/涙の続き.md "wikilink")」のカップリングに「I'm proud 2005」を収録した。さらに[2013年](../Page/2013年.md "wikilink")には、長期活動休止からの復帰第1弾シングルとなった「[夢やぶれて -I DREAMED A DREAM-](https://ja.wikipedia.org/wiki/夢やぶれて_-I_DREAMED_A_DREAM- "wikilink")」のカップリングに「I'm proud -2013 Orchestra Ver.-」を収録した。
-  - 導入部のサビの後の四つ打ちキック音とその後のベース音は、[TMNのアルバム](../Page/TM_NETWORK.md "wikilink")『[CLASSIX](https://ja.wikipedia.org/wiki/CLASSIX "wikilink")』の「Human System -Cafe De Paris Mix-」と同じものである。
-  - 同年のオリコン年間シングルチャートでは、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の「[Don't wanna cry](../Page/Don't_wanna_cry.md "wikilink")」や「[Chase the Chance](../Page/Chase_the_Chance.md "wikilink")」を抑えて、女性ソロ部門では最大のヒット曲となった。
-  - 華原は「『[keep yourself alive](https://ja.wikipedia.org/wiki/keep_yourself_alive "wikilink")』『[I BELIEVE](../Page/I_BELIEVE_\(華原朋美の曲\).md "wikilink")』では『強さ』を歌っていたけど、今度は『強さの裏にある優しさ』を歌った。『他人に優しくなれる力強さを持ちたい』と思っている方に歌ってほしい」と語っている\[2\]。
-  - 本作が収録された「[LOVE BRACE](../Page/LOVE_BRACE.md "wikilink")」は､小室哲哉が自身のアルバムプロデュース作品の中で一番気に入っている作品｡最初から最後の一音まで徹底的に拘った｡当時､楽曲以外のネタで騒がれることが多くなってた風潮に対し､絶対に負けたくなく音楽で答えたかったという思いで製作された｡\[3\]
-  - 小室が､楽曲製作において､詞をきちんと意識したのは華原朋美が初めてであった｡それまでは洋楽的エッセンスを取り入れることを重視しており､[TRF](../Page/TRF.md "wikilink")や[篠原涼子](https://ja.wikipedia.org/wiki/篠原涼子 "wikilink")の楽曲から少しずつ詞も意識し初めていたが1～2フレーズ残れば良いという程度だった｡最初から最後まで､リスナーにきちんと伝わる詞を書くようになったのは華原朋美から｡\[4\]また､当時､小室が華原を通じて表現していたのは「元々､普通の女の子なのに､意図せず規律の外に出てしまった女の子」「自分に自信が持てず『どうせ自分なんて』とため息をつく､そんな若者の切なさ､やりきれなさを表現したかった」としている\[5\]
+  - 発売時に出演した『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』では、サビ歌詞を間違えて“ラララ～♪”で歌いきり、ハプニングシーンとなった。また、同曲2回目出演時には、[吉野家](../Page/吉野家.md "wikilink")の[牛丼](../Page/牛丼.md "wikilink")が大好きで“並・玉・つゆだく”で食べていると公言したことから、吉野家に女性客が急増し“つゆだく”という業界通の用語も広く一般に浸透した。
+  - この曲で、[1996年](../Page/1996年.md "wikilink")の『[第47回NHK紅白歌合戦](../Page/第47回NHK紅白歌合戦.md "wikilink")』に初出場し、小室がピアノ演奏として参加。
 
 ## 主な記録
 
@@ -129,13 +131,16 @@
   - 華原の大ファンであった[深田恭子](https://ja.wikipedia.org/wiki/深田恭子 "wikilink")は、[ホリプロタレントスカウトキャラバン](../Page/ホリプロタレントスカウトキャラバン.md "wikilink")・オーディションでこの曲を歌ってグランプリを獲得し、芸能界入りを果たした。
   - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")は2004年10月の『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")SP』で、自身が選ぶ思い出に残るラブソングとして「I'm proud」を挙げている。
   - [坂本美雨](https://ja.wikipedia.org/wiki/坂本美雨 "wikilink")は、当時この曲をカラオケで歌っており、偶然その歌声を聴いていた音楽関係者の推薦を経て、覆面歌手SISTER M（ [坂本龍一](../Page/坂本龍一.md "wikilink")の娘）としてデビューを果たした。
+  - [市川哲史](../Page/市川哲史.md "wikilink")は「歌詞はくれぐれも覚悟してお読みください。どうだまいったかのフェミニズム大感謝祭です」と評している\[7\]
 
 ## 脚注
 
 [Category:華原朋美の楽曲](https://ja.wikipedia.org/wiki/Category:華原朋美の楽曲 "wikilink") [Category:華原朋美の映像作品](https://ja.wikipedia.org/wiki/Category:華原朋美の映像作品 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:NBCユニバーサル・ジャパンの楽曲](https://ja.wikipedia.org/wiki/Category:NBCユニバーサル・ジャパンの楽曲 "wikilink") [Category:NBCユニバーサル・ジャパンの映像作品](https://ja.wikipedia.org/wiki/Category:NBCユニバーサル・ジャパンの映像作品 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
 
-1.
-2.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』1996年6月号90P-91Pより。
-3.  ぴあMOOK「小室哲哉ぴあ TK編より」
-4.  TK MUSIC CLAMP 1997.9.7
-5.  ちなみに[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")は「積極的で楽観的な不良性」[globe](https://ja.wikipedia.org/wiki/globe "wikilink") keikoは「田舎から都市に出てきた社会経験のある女性」　ROLa 2013.11月号
+1.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』1996年6月号90P-91Pより。
+2.  TK MUSIC CLAMP 1997.9.7
+3.  ちなみに[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")は「積極的で楽観的な不良性」[globe](https://ja.wikipedia.org/wiki/globe "wikilink") keikoは「田舎から都市に出てきた社会経験のある女性」　ROLa 2013.11月号
+4.
+5.
+6.
+7.  [シンコーミュージック](https://ja.wikipedia.org/wiki/シンコーミュージック "wikilink")刊 『誰も教えてくれなかった本当のポップ・ミュージック論』 [市川哲史](../Page/市川哲史.md "wikilink")著174P-177Pより。

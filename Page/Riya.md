@@ -1,7 +1,7 @@
 > この記事は[Riya](https://ja.wikipedia.org/wiki/Riya)から翻訳されています。
 
 
-**riya**（りや、[2月18日](../Page/2月18日.md "wikilink")生）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[歌手](../Page/歌手.md "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")。[福岡県](../Page/福岡県.md "wikilink")出身。アニメ&ゲーム関連の[音楽ユニット](../Page/音楽ユニット.md "wikilink")「**[eufonius](https://ja.wikipedia.org/wiki/eufonius "wikilink")**」のボーカル。[血液型はAB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**riya**（りや、[2月18日](../Page/2月18日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[作詞家](../Page/作詞家.md "wikilink")。[音楽ユニット](../Page/音楽ユニット.md "wikilink")「**[eufonius](https://ja.wikipedia.org/wiki/eufonius "wikilink")**」のボーカリスト。[福岡県](../Page/福岡県.md "wikilink")出身。[血液型はAB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
 
 ## 概要・略歴
 
@@ -9,7 +9,7 @@
 
 自身のホームページに掲載していた曲が作曲家の[菊地創](../Page/菊地創.md "wikilink")の目に留まり、同人ボーカルユニットeufoniusが結成される。インディーズでの活動が続いていたが、eufonius結成によりメジャーデビューを果たした。
 
-多くの楽曲で[作詞](../Page/作詞.md "wikilink")も手掛け、まれに[作曲](../Page/作曲.md "wikilink")や[編曲](../Page/編曲.md "wikilink")も行う。歌詞中に一聴すると英語に聞こえる「[造語](../Page/造語.md "wikilink")」を使うことがある。また、一人称には「僕」、二人称には「君」を使うことが多い\[1\]。
+多くの楽曲で[作詞](../Page/作詞.md "wikilink")も手掛け、[作曲](../Page/作曲.md "wikilink")や[編曲](../Page/編曲.md "wikilink")も行う。歌詞中に一聴すると英語に聞こえる「[造語](../Page/造語.md "wikilink")」を使うことがある。また、一人称には「僕」、二人称には「君」を使うことが多い\[1\]。
 
 ## 作品
 
@@ -124,6 +124,6 @@
   - [+komforta sono+](http://www.riya.jp/)（旧ホームページ、閉鎖）
   - [□■□ frequency⇒e □■□](http://www.eufonius.net/)
 
-[Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:日本の作詞家](https://ja.wikipedia.org/wiki/Category:日本の作詞家 "wikilink") [Category:同人音楽の作詞家](https://ja.wikipedia.org/wiki/Category:同人音楽の作詞家 "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:アニメ音楽の作詞家](https://ja.wikipedia.org/wiki/Category:アニメ音楽の作詞家 "wikilink") [Category:ゲーム音楽家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽家 "wikilink") [Category:同人ボーカル](https://ja.wikipedia.org/wiki/Category:同人ボーカル "wikilink") [Category:福岡県出身の人物](https://ja.wikipedia.org/wiki/Category:福岡県出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の女性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の女性シンガーソングライター "wikilink") [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:日本の作詞家](https://ja.wikipedia.org/wiki/Category:日本の作詞家 "wikilink") [Category:同人音楽の作詞家](https://ja.wikipedia.org/wiki/Category:同人音楽の作詞家 "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:アニメ音楽の作詞家](https://ja.wikipedia.org/wiki/Category:アニメ音楽の作詞家 "wikilink") [Category:ゲーム音楽家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽家 "wikilink") [Category:同人ボーカル](https://ja.wikipedia.org/wiki/Category:同人ボーカル "wikilink") [Category:福岡県出身の人物](https://ja.wikipedia.org/wiki/Category:福岡県出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  こうした作詞の手法を「君僕」と呼ぶことがある。

@@ -1388,13 +1388,13 @@
 
 ## テレビ中継
 
-1969年から1981年大会まで[NBC](../Page/NBC.md "wikilink")で中継されていたが、1982年から[CBS](../Page/CBS.md "wikilink")で全試合放送されている。最近になって、全試合をインターネットで生中継されるようになった。2011年から2024年までは[CBS](../Page/CBS.md "wikilink")とともに、[ワーナーメディア](../Page/ワーナーメディア.md "wikilink")の[TBS](https://ja.wikipedia.org/wiki/TBS_\(アメリカのテレビジョン放送\) "wikilink")・[TNT](../Page/ターナー・ネットワーク・テレビジョン.md "wikilink")・[truTV](https://ja.wikipedia.org/wiki/truTV "wikilink")で中継する。2015年までは、[CBS](../Page/CBS.md "wikilink")がリージョナルファイナルとファイナルフォーを放送するが、2016年以降は、[CBS](../Page/CBS.md "wikilink")とTBSが交互に隔年で放送する。各リージョナルは、CBSとターナーが平等に分担して放送する。
+1969年から1981年大会まで[NBC](../Page/NBC.md "wikilink")で中継されていたが、1982年から[CBS](../Page/CBS.md "wikilink")で全試合放送されている。最近になって、全試合をインターネットで生中継されるようになった。2011年から2024年までは[CBS](../Page/CBS.md "wikilink")とともに、[ワーナーメディア](../Page/ワーナーメディア.md "wikilink")の[TBS](https://ja.wikipedia.org/wiki/TBS_\(アメリカのテレビジョン放送\) "wikilink")・[TNT](../Page/ターナー・ネットワーク・テレビジョン.md "wikilink")・[truTV](https://ja.wikipedia.org/wiki/truTV "wikilink")で中継する。2015年までは、[CBS](../Page/CBS.md "wikilink")がリージョナルファイナルとファイナルフォーを放送するが、2016年以降は、[CBS](../Page/CBS.md "wikilink")とTBSが交互に隔年で放送する。各リージョナルは、CBSとワーナーが平等に分担して放送する。
 
 1987年大会から決勝終了後に『One Shining Moment』を流しながら、大会を振り返る\[2\]。長年にわたって[ルーサー・ヴァンドロス](../Page/ルーサー・ヴァンドロス.md "wikilink")が歌唱していたが、2010年は[ジェニファー・ハドソン](../Page/ジェニファー・ハドソン.md "wikilink")がカバーしたが、2011年はルーサーバージョンに戻った。
 
 カナダ国内では[TSNで全試合放送されている](../Page/The_Sports_Network.md "wikilink")。
 
-日本国内では[J SPORTSで放送されていたが](../Page/J_SPORTS.md "wikilink")、2019年大会は[Rakuten TVのRakuten](../Page/Rakuten_TV.md "wikilink") NBA Special（現[NBA Rakuten](https://ja.wikipedia.org/wiki/NBA_Rakuten "wikilink")）で放送されており、最大8試合日本語実況を行っている。
+日本国内では[J SPORTSで放送されていたが](../Page/J_SPORTS.md "wikilink")、2019年大会は[Rakuten TVのRakuten](../Page/Rakuten_TV.md "wikilink") NBA Special（現[NBA Rakuten](../Page/NBA_Rakuten.md "wikilink")）で放送されており、最大8試合日本語実況を行っている。
 
 ## 脚注
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-それまで21:00（以下全て[日本時間](../Page/日本標準時.md "wikilink")）から放送されていた地域情報番組『[JUST 9 Information](https://ja.wikipedia.org/wiki/JUST_9_Information "wikilink")』と21:30から放送されていた報道番組『[CTCニュース 930ライフ](https://ja.wikipedia.org/wiki/CTCニュース_930ライフ "wikilink")』を融合して時間枠を拡大し『**ニュースC-master**』としてリニューアル[千葉県](../Page/千葉県.md "wikilink")内の[ニュース](../Page/ニュース.md "wikilink")や生活・スポット情報を提供している。なお、放送開始当初から正式番組名の頭にチバテレビの略称である**CTC**の3文字は付記されていない。
+それまで21:00（以下全て[日本時間](../Page/日本標準時.md "wikilink")）から放送されていた地域情報番組『[JUST 9 Information](https://ja.wikipedia.org/wiki/JUST_9_Information "wikilink")』と21:30から放送されていた報道番組『[CTCニュース 930ライフ](../Page/CTCニュース_930ライフ.md "wikilink")』を融合して時間枠を拡大し『**ニュースC-master**』としてリニューアル[千葉県](../Page/千葉県.md "wikilink")内の[ニュース](../Page/ニュース.md "wikilink")や生活・スポット情報を提供している。なお、放送開始当初から正式番組名の頭にチバテレビの略称である**CTC**の3文字は付記されていない。
 
 『マリーンズナイター』実施日の場合、番組のコーナーはほぼ県内ニュース・スポーツ・天気予報に集約される。ちなみに本番組開始後もロッテの試合が続いている場合、[千葉マリンスタジアム](../Page/千葉マリンスタジアム.md "wikilink")へ中継することがある。
 

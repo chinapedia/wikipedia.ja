@@ -9,13 +9,15 @@
 
 後にシングル『[Get Wild](../Page/Get_Wild.md "wikilink")(再発盤)』のカップリング曲としてシングルカットされている。[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の4枚目のシングル「[B・BLUE](../Page/B・BLUE.md "wikilink")」に対抗して作ったという。こういう曲がないとBOØWYみたいな勢いのあるバンドに敵わないだろうと[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")は思ったという\[1\]。
 
-間奏のギターソロは、[B'z](../Page/B'z.md "wikilink")の[松本孝弘](../Page/松本孝弘.md "wikilink")が演奏している。このソロの演奏は難しいのではないかと小室はインタビューに答えている\[2\]。ドラムは[レベッカの](../Page/レベッカ_\(バンド\).md "wikilink")[小田原豊](../Page/小田原豊.md "wikilink")が叩いている。[小田原豊](../Page/小田原豊.md "wikilink")のドラムには、海外でパンクシーンから[ポリス的なものが生まれてきたような](../Page/ポリス_\(バンド\).md "wikilink")、スピード感があると[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") は評している\[3\]。
+ギターは[B'z](../Page/B'z.md "wikilink")の[松本孝弘](../Page/松本孝弘.md "wikilink")が演奏しており、ソロの演奏は難しいのではないかと小室はインタビューに答えている\[2\]。ドラムは[レベッカの](../Page/レベッカ_\(バンド\).md "wikilink")[小田原豊](../Page/小田原豊.md "wikilink")が叩いている。[小田原豊](../Page/小田原豊.md "wikilink")のドラムには、海外でパンクシーンから[ポリス的なものが生まれてきたような](../Page/ポリス_\(バンド\).md "wikilink")、スピード感があると[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") は評している\[3\]。
 
 リプロダクション・アルバム「[DRESS](../Page/DRESS_\(TM_NETWORKのアルバム\).md "wikilink")」ではJonathan Eliasによってリミックスされ、原曲バージョンにはなかった冒頭の台詞が付加されている(その台詞部分は原曲版のボーカルトラックにもあったが、ミックスの段階でカットされたもの)。「[DRESS](../Page/DRESS_\(TM_NETWORKのアルバム\).md "wikilink")」バージョンは[松本孝弘](../Page/松本孝弘.md "wikilink")のギターソロはサックスに置き換えられている。
 
 ライブ・アルバム「[COLOSSEUM II](../Page/TMN_COLOSSEUM.md "wikilink")」ではアルバム1曲目に収録されている。ライブツアー『KISS JAPAN DANCING DYNA-MIX TM NETWORK ARENA TOUR』からの音源である。このバージョンはイントロがサビから始まっている。静かなイントロで始まる原曲バージョン、DRESSバージョンとは対照的である。
 
-1994年の[終了ライヴでは](../Page/TMN_final_live_LAST_GROOVE_\(ビデオ\).md "wikilink")5月18日での2曲目で披露され、原曲バージョン基調でDRESSバージョンでの冒頭の台詞が加わったアレンジで披露された。
+ライブで度々演奏をされており、原曲バージョン基調でDRESSバージョンでの冒頭の台詞が加わったアレンジで披露されることが多い(CAMP FANKS'89, LAST GROOVEなど)。
+
+RHYTHEM RED TOURの際にも旧TM NETWORK曲としては珍しく演奏をされたが小室哲哉によりドラム・ソロが追加され、長時間演奏となってしまった。結果映像などには収録されていない。
 
 2014年にリリースされたセルフリプロダクト・アルバム「[DRESS2](https://ja.wikipedia.org/wiki/DRESS2 "wikilink")」では2014バージョンとして収録されボーカルも新規に録り直されている。
 
@@ -78,7 +80,7 @@
 
 [Category:TM_NETWORKの楽曲](https://ja.wikipedia.org/wiki/Category:TM_NETWORKの楽曲 "wikilink") [Category:鈴木亜美の楽曲](https://ja.wikipedia.org/wiki/Category:鈴木亜美の楽曲 "wikilink") [Category:小室みつ子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室みつ子が制作した楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1987年の楽曲](https://ja.wikipedia.org/wiki/Category:1987年の楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:ソニー・ミュージックアソシエイテッドレコーズのシングル](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアソシエイテッドレコーズのシングル "wikilink") [Category:1999年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:外食産業のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:外食産業のコマーシャルソング "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink")
 
-1.  「TM NETWORK 30th Anniversary Special Issue 小室哲哉ぴあ TM編 (ぴあMOOK)」47ページの[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") のインタビュー
-2.  「TM NETWORK 30th Anniversary Special Issue 小室哲哉ぴあ TM編 (ぴあMOOK)」47ページの[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") のインタビュー
-3.  「TM NETWORK 30th Anniversary Special Issue 小室哲哉ぴあ TM編 (ぴあMOOK)」47ページの[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") のインタビュー
+1.  「TM NETWORK 30th Anniversary Special Issue 小室哲哉ぴあ TM編 (ぴあMOOK)」47ページの[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") のインタビューより。
+2.
+3.
 4.  [ASAYAN モーニング娘。](https://web.archive.org/web/20050216004339/http://www.asayan.com/vocal/morning/1999/0725.html)、ASAYAN.COM、1999年7月25日放送。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）

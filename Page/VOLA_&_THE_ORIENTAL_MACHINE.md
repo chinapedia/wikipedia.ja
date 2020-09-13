@@ -330,15 +330,15 @@ UPCH-1624:通常盤</p></td>
 
 ## ミュージックビデオ
 
-|                                                                     |                                                                  |
-| ------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| **監督**                                                              | **曲名**                                                           |
-| [加藤マニ](https://ja.wikipedia.org/wiki/加藤マニ "wikilink")               | 「[Honey Honey](https://www.youtube.com/watch?v=OHVdPF2K51s)」     |
-| [熊谷昭](https://ja.wikipedia.org/wiki/熊谷昭 "wikilink")                 | 「[羽根の光](https://www.youtube.com/watch?v=5SbiF4Ajgus)」            |
-| [島田大介](../Page/島田大介.md "wikilink")                                  | 「An imitation's superstar」「WEEKEND LOVERS」                       |
-| [Higuchinsky](https://ja.wikipedia.org/wiki/Higuchinsky "wikilink") | 「[Flag](https://www.youtube.com/watch?v=UrzJ6angpK0)」            |
-| [T.Matsuda](https://ja.wikipedia.org/wiki/T.Matsuda "wikilink")     | 「[Turning Turning](https://www.youtube.com/watch?v=n2liDrVSx0U)」 |
-|                                                                     |                                                                  |
+|                                                                 |                                                                  |
+| --------------------------------------------------------------- | ---------------------------------------------------------------- |
+| **監督**                                                          | **曲名**                                                           |
+| [加藤マニ](https://ja.wikipedia.org/wiki/加藤マニ "wikilink")           | 「[Honey Honey](https://www.youtube.com/watch?v=OHVdPF2K51s)」     |
+| [熊谷昭](https://ja.wikipedia.org/wiki/熊谷昭 "wikilink")             | 「[羽根の光](https://www.youtube.com/watch?v=5SbiF4Ajgus)」            |
+| [島田大介](../Page/島田大介.md "wikilink")                              | 「An imitation's superstar」「WEEKEND LOVERS」                       |
+| [Higuchinsky](../Page/Higuchinsky.md "wikilink")                | 「[Flag](https://www.youtube.com/watch?v=UrzJ6angpK0)」            |
+| [T.Matsuda](https://ja.wikipedia.org/wiki/T.Matsuda "wikilink") | 「[Turning Turning](https://www.youtube.com/watch?v=n2liDrVSx0U)」 |
+|                                                                 |                                                                  |
 
 ## 出演
 

@@ -203,7 +203,7 @@ HAL研究所<br />
 | タイトル                                            | 発売日                                                                                                                          | 発売元                                                                                              | 備考                                                                                                                          |
 | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
 | nowrap style="text-align:center"|MOTHER         | nowrap style="text-align:center"|[1989年](../Page/1989年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")                    | nowrap style="text-align:center"|[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")          | 海外歌手によるボーカル曲を多数収録した、ゲーム『MOTHER』のアレンジアルバム。全11曲。                                                                              |
-| nowrap style="text-align:center"|MOTHER2 ギーグの逆襲 | nowrap style="text-align:center"|[1994年](../Page/1994年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")                    | nowrap style="text-align:center"|[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")          | ゲーム『MOTHER2 ギーグの逆襲』使用曲をメドレー形式で収録。全24曲。                                                                                      |
+| nowrap style="text-align:center"|MOTHER2 ギーグの逆襲 | nowrap style="text-align:center"|[1994年](../Page/1994年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")                    | nowrap style="text-align:center"|[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")          | ゲーム『MOTHER2 ギーグの逆襲』使用曲の一部をメドレー形式で収録。全24曲。                                                                                   |
 | nowrap style="text-align:center"|MOTHER1+2      | nowrap style="text-align:center"|[2003年](../Page/2003年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink") | nowrap style="text-align:center"|[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")          | ゲーム『MOTHER1+2』の曲をアレンジ。全26曲。                                                                                                 |
 | nowrap style="text-align:center"|MOTHER         | nowrap style="text-align:center"|[2004年](../Page/2004年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")                    | nowrap style="text-align:center"|[ソニー・ミュージックダイレクト](../Page/ソニー・ミュージックダイレクト.md "wikilink")        | 上記のアルバム『MOTHER』の[デジタルリマスター](../Page/デジタルリマスター.md "wikilink")版。新たにデモトラックを収録。全12曲。                                            |
 | nowrap style="text-align:center"|MOTHER2 ギーグの逆襲 | nowrap style="text-align:center"|[2004年](../Page/2004年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")                    | nowrap style="text-align:center"|[ソニー・ミュージックダイレクト](../Page/ソニー・ミュージックダイレクト.md "wikilink")        | 上記のアルバム『MOTHER2 ギーグの逆襲』の再発売。収録内容は同じ。全24曲。                                                                                   |
@@ -213,11 +213,11 @@ HAL研究所<br />
 
 ## HOBONICHI MOTHER PROJECT
 
-[2020年](../Page/2020年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")、『ほぼ日刊イトイ新聞』（以下「ほぼ日」）上において、MOTHERシリーズの全ての台詞を収録した書籍を2020年末までに発売予定であることが発表された。これに合わせ、様々なコンテンツやグッズを展開する企画「HOBONICHI MOTHER PROJECT」が行われている\[26\]。
+[2020年](../Page/2020年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")、『ほぼ日刊イトイ新聞』（以下「ほぼ日」）上において、MOTHERシリーズの全ての台詞を収録した書籍を2020年末までに発売予定であることが発表された。これに合わせ、様々なコンテンツやグッズを展開する企画「HOBONICHI MOTHER PROJECT」（ほぼ日『MOTHER』プロジェクト）が行われている\[26\]。
 
 ### Pollyanna
 
-総勢35人の漫画家・イラストレーターによる作品を収録したMOTHERシリーズのトリビュートコミック。ほぼ日が運営する「ほぼ日ストア」で2020年[6月12日](../Page/6月12日.md "wikilink")に先行発売が行われ、[6月25日](../Page/6月25日.md "wikilink")より一般販売される\[27\]。
+総勢35人の漫画家・イラストレーターによる作品を収録したMOTHERシリーズのトリビュートコミック。ほぼ日が運営する「ほぼ日ストア」で2020年[6月12日](../Page/6月12日.md "wikilink")に先行発売が行われ、[6月25日](../Page/6月25日.md "wikilink")より一般販売された\[27\]。
 
   - 参加作家\[28\]
 
@@ -274,11 +274,16 @@ HAL研究所<br />
       - [MOTHER3](https://www.nintendo.co.jp/titles/20010000020398) （Wii U）
   - 糸井重里が主宰する『[ほぼ日刊イトイ新聞](http://www.1101.com/)』内の『MOTHER』に関するメニュー
       - [「MOTHER」のこと。](http://www.1101.com/nintendo/mother_info/)
-      - [『MOTHER』の目次。](http://www.1101.com/MOTHER/MOTHER.html)
-      - [ようこそ『ＭＯＴＨＥＲ３』の世界へ！](http://www.1101.com/MOTHER3/index.html)
-      - [『ＭＯＴＨＥＲ ３』の開発が中止になったことについての糸井重里・岩田聡・宮本茂の座談会](http://www.1101.com/nintendo/nin13/index.htm) （NINTENDO64版が開発中止になった際の鼎談）
-      - [HOBONICHI MOTHER PROJECT](https://www.1101.com/mother_project/)
 
+      - [『MOTHER』の目次。](http://www.1101.com/MOTHER/MOTHER.html)
+
+      - [ようこそ『ＭＯＴＨＥＲ３』の世界へ！](http://www.1101.com/MOTHER3/index.html)
+
+      - [『ＭＯＴＨＥＲ ３』の開発が中止になったことについての糸井重里・岩田聡・宮本茂の座談会](http://www.1101.com/nintendo/nin13/index.htm) （NINTENDO64版が開発中止になった際の鼎談）
+
+      - [ほぼ日『MOTHER』プロジェクト](https://www.1101.com/mother_project/)
+
+      -
 [Category:MOTHERシリーズ](https://ja.wikipedia.org/wiki/Category:MOTHERシリーズ "wikilink") [Category:コンピュータゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのシリーズ "wikilink")
 
 1.

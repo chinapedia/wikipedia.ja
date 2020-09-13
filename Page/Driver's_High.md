@@ -81,7 +81,7 @@
 
 <references/>
 
-[Category:L'Arc〜en〜Cielの楽曲](https://ja.wikipedia.org/wiki/Category:L'Arc〜en〜Cielの楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:フジテレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビのテレビアニメ主題歌 "wikilink") [Category:GTOの音楽](https://ja.wikipedia.org/wiki/Category:GTOの音楽 "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:hydeが制作した楽曲](https://ja.wikipedia.org/wiki/Category:hydeが制作した楽曲 "wikilink") [Category:tetsuyaが制作した楽曲](https://ja.wikipedia.org/wiki/Category:tetsuyaが制作した楽曲 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")
+[Category:L'Arc〜en〜Cielの楽曲](https://ja.wikipedia.org/wiki/Category:L'Arc〜en〜Cielの楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:フジテレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビのテレビアニメ主題歌 "wikilink") [Category:GTOの音楽](https://ja.wikipedia.org/wiki/Category:GTOの音楽 "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:hydeが制作した楽曲](https://ja.wikipedia.org/wiki/Category:hydeが制作した楽曲 "wikilink") [Category:tetsuyaが制作した楽曲](https://ja.wikipedia.org/wiki/Category:tetsuyaが制作した楽曲 "wikilink") [Category:自動車を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:自動車を題材とした楽曲 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")
 
 1.  Lesson1 - Lesson16、なお、最終話ではエンディングテーマとして使用された。
 2.  [ドライブに行く時に持っていきたい曲、聴きたい曲ランキング](http://www.oricon.co.jp/news/ranking/20100/) - オリコン（2006年04月29日）

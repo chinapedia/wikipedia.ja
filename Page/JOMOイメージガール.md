@@ -1,7 +1,7 @@
 > この記事は[JOMOイメージガール](https://ja.wikipedia.org/wiki/JOMOイメージガール)から翻訳されています。
 
 
-**JOMOイメージガール**（じょも - ）は、株式会社[ジャパンエナジー](../Page/ジャパンエナジー.md "wikilink")（現・[JXTGエネルギー](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")株式会社）が「JOMO」[ブランド](../Page/ブランド.md "wikilink")のイメージ向上を図るため選定していたイメージガール。「JOMO」発足前の1992年までは「**共石イメージガール**」という名称だった。
+**JOMOイメージガール**（じょも - ）は、株式会社[ジャパンエナジー](../Page/ジャパンエナジー.md "wikilink")（現・[ENEOS](../Page/ENEOS.md "wikilink")株式会社）が「JOMO」[ブランド](../Page/ブランド.md "wikilink")のイメージ向上を図るため選定していたイメージガール。「JOMO」発足前の1992年までは「**共石イメージガール**」という名称だった。
 
 ## 概要
 

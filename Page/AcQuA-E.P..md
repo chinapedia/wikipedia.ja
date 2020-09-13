@@ -214,7 +214,7 @@
 
   - [サムライボウル公式サイト](http://www.s-ball.com/)
 
-  - [サムライボウル Seijiのうぶ毛の時間](http://blog.livedoor.jp/houzyou_seiji/)（Seijiによるブログ）
+  - （Seijiによるブログ）
 
   - （Seijiによるブログ）
 
@@ -222,10 +222,10 @@
 
   - [サムライボウル 弌狼『根菜の気持ち。』](https://ameblo.jp/princeofbassist/)（Ichiroによるブログ）
 
-  - [サムライボウル Naoya『こどもの上腕二頭筋』](http://blog.livedoor.jp/chatani_naoya/)（Naoyaによるブログ）
+  - （Naoyaによるブログ）
 
   - [咲夜涼の復活日記\!](https://ameblo.jp/sakuya-ryo/)（Ryoによるブログ）
 
-  - [咲夜涼がBLOG?](http://blog.livedoor.jp/sakuya_ryo/)（Ryoによる旧ブログ）
+  - （Ryoによる旧ブログ）
 
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink")
+[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:7人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:7人組の音楽グループ "wikilink") [Category:2006年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2006年に結成した音楽グループ "wikilink")

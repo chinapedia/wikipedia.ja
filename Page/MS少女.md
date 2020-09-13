@@ -45,8 +45,11 @@
   - [ハロ](../Page/ハロ_\(ガンダムシリーズ\).md "wikilink")（H.A.R.O.）+FF-X7 [コア・ファイター](../Page/コア・ファイター.md "wikilink")
   - MS-14S [ゲルググ](../Page/ゲルググ.md "wikilink")
   - MSM-04 [アッガイ](../Page/アッガイ.md "wikilink")
-  - RXｰ78-2 ガンダム マグネットコーティングVer.
+  - RXｰ78-2 ガンダム [マグネットコーティング](https://ja.wikipedia.org/wiki/マグネットコーティング "wikilink")Ver.
   - MSM-10 [ゾック](../Page/ゾック.md "wikilink")
+  - MSM-07 [グラブロ](https://ja.wikipedia.org/wiki/ジオン公国の機動兵器#グラブロ "wikilink")（+ザクI）
+  - MA-08 [ビグ・ザム](../Page/ビグ・ザム.md "wikilink")（+ザクII）
+  - MAN-03 [ブラウ・ブロ](../Page/ブラウ・ブロ.md "wikilink")
 
 ## 関連書籍
 

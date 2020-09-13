@@ -95,14 +95,21 @@
 
   - 『CIPHER THE MUSIC』（[ビクターエンタテインメント](../Page/日本ビクター.md "wikilink")、1989年1月21日、VDR-20002）
       -
-        作品に関連するイメージソングを収録した他、[トンプソン・ツインズ](../Page/トンプソン・ツインズ.md "wikilink")作曲による登場人物であるアレクサンドラ・レヴァイン（I Don't Like）やハル（KAMIKAZE）のイメージソングが収録されたミュージックアルバム。
-    <!-- end list -->
-    1.  見つめてほしい
-    2.  レッツ・ヒア・ボーイ
-    3.  [フットルース](https://ja.wikipedia.org/wiki/フットルース_\(曲\) "wikilink")
-    4.  KAMIKAZE
-    5.  I Don't Like
-    6.  LIVING IN THE DARK
+        作品に関連するイメージソングが収録されたミュージックアルバム
+
+　　登場人物のイメージソング　アレクサンドラ・レヴァイン（I Don't Like）や　ハル（KAMIKAZE）を収録
+
+\*\# 見つめてほしい / Phil Collins
+
+\*\# レッツ・ヒア・ボーイ / Deniece Williams
+
+\*\# [フットルース](https://ja.wikipedia.org/wiki/フットルース_\(曲\) "wikilink") / Kenny Loggins
+
+\*\# KAMIKAZE / [トンプソン・ツインズ](../Page/トンプソン・ツインズ.md "wikilink")
+
+\*\# I Don't Like / MESCALINE DRIVE
+
+\*\# LIVING IN THE DARK / ARMY CALL UP TEST
 
 ## その他
 
@@ -116,6 +123,6 @@
 
 </div>
 
-[Category:漫画作品_さ](https://ja.wikipedia.org/wiki/Category:漫画作品_さ "wikilink") [Category:成田美名子](https://ja.wikipedia.org/wiki/Category:成田美名子 "wikilink") [Category:LaLa](https://ja.wikipedia.org/wiki/Category:LaLa "wikilink") [Category:双子を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:双子を題材とした漫画作品 "wikilink") [Category:人物の入れ代わりを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:人物の入れ代わりを題材とした漫画作品 "wikilink") [Category:高等学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした漫画作品 "wikilink") [Category:恋愛漫画](https://ja.wikipedia.org/wiki/Category:恋愛漫画 "wikilink") [Category:芸能界を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:芸能界を舞台とした漫画作品 "wikilink") [Category:ニューヨーク市を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:ニューヨーク市を舞台とした漫画作品 "wikilink") [Category:ロサンゼルスを舞台とした作品](https://ja.wikipedia.org/wiki/Category:ロサンゼルスを舞台とした作品 "wikilink") [Category:イメージ・アルバム](https://ja.wikipedia.org/wiki/Category:イメージ・アルバム "wikilink")
+[Category:成田美名子](https://ja.wikipedia.org/wiki/Category:成田美名子 "wikilink") [Category:漫画作品_さ](https://ja.wikipedia.org/wiki/Category:漫画作品_さ "wikilink") [Category:1984年の漫画](https://ja.wikipedia.org/wiki/Category:1984年の漫画 "wikilink") [Category:LaLa](https://ja.wikipedia.org/wiki/Category:LaLa "wikilink") [Category:恋愛漫画](https://ja.wikipedia.org/wiki/Category:恋愛漫画 "wikilink") [Category:双子を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:双子を題材とした漫画作品 "wikilink") [Category:人物の入れ代わりを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:人物の入れ代わりを題材とした漫画作品 "wikilink") [Category:高等学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした漫画作品 "wikilink") [Category:芸能界を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:芸能界を舞台とした漫画作品 "wikilink") [Category:ニューヨーク市を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:ニューヨーク市を舞台とした漫画作品 "wikilink") [Category:ロサンゼルスを舞台とした作品](https://ja.wikipedia.org/wiki/Category:ロサンゼルスを舞台とした作品 "wikilink") [Category:イメージ・アルバム](https://ja.wikipedia.org/wiki/Category:イメージ・アルバム "wikilink")
 
 1.  『[BSマンガ夜話](../Page/BSマンガ夜話.md "wikilink")』より

@@ -6,13 +6,13 @@
 ## 単位
 
   - [分角](../Page/分_\(角度\).md "wikilink") () - 角度の単位の「分」
-  - [M.O.A.（Minites Of Angle）](https://ja.wikipedia.org/wiki/:en:Minute_of_arc#FirearmsM.O.A. "wikilink") - [射撃](../Page/射撃.md "wikilink")において用いられる精度の単位。1 M.O.A.は「100[ヤード](../Page/ヤード.md "wikilink")(91.44[m](../Page/メートル.md "wikilink"))先において1[インチ](../Page/インチ.md "wikilink")(2.54[cm](../Page/センチメートル.md "wikilink"))」を意味し、[銃器](https://ja.wikipedia.org/wiki/銃器 "wikilink")の命中精度を数値で示す際や[照準器](../Page/照準器.md "wikilink")の調整を行う際に用いられる。　　
-      - 英語において“MOA(Minites Of Angle)”とは“minute of arc”と同じく“角度の単位の「分」”を意味するため、射撃に関する用語として表記される際には、独自の値を用いていることを示すために“M**.**O**.**A**.**”と「**.**」を付けた表記とされている場合があるため留意を要する。
+  - [M.O.A.（Minites Of Angle）](https://ja.wikipedia.org/wiki/:en:Minute_of_arc#FirearmsM.O.A. "wikilink") - [射撃](../Page/射撃.md "wikilink")において用いられる精度の単位。1 M.O.A.は「100[ヤード](../Page/ヤード.md "wikilink") (91.44[メートル](../Page/メートル.md "wikilink")) 先において1[インチ](../Page/インチ.md "wikilink") (2.54[センチメートル](../Page/センチメートル.md "wikilink"))」を意味し、[銃器](https://ja.wikipedia.org/wiki/銃器 "wikilink")の命中精度を数値で示す際や[照準器](../Page/照準器.md "wikilink")の調整を行う際に用いられる。　　
+      - 英語において“MOA ()”とは“”と同じく“角度の単位の「分」”を意味するため、射撃に関する用語として表記される際には、独自の値を用いていることを示すために“M**.**O**.**A**.**”と「**.**」を付けた表記とされている場合があるため留意を要する。
 
 ## 場所
 
   - [アンカレジ](https://ja.wikipedia.org/wiki/アンカレジ "wikilink")自治市 () - アメリカの都市アンカレジの自治体名
-  - [モール・オブ・アメリカ](../Page/モール・オブ・アメリカ.md "wikilink") (Mall of America) - アメリカ合衆国最大の[ショッピングモール](https://ja.wikipedia.org/wiki/ショッピングモール "wikilink")
+  - [モール・オブ・アメリカ](../Page/モール・オブ・アメリカ.md "wikilink") () - アメリカ合衆国最大の[ショッピングモール](https://ja.wikipedia.org/wiki/ショッピングモール "wikilink")
 
 ## 学問
 

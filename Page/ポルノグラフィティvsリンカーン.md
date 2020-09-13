@@ -33,6 +33,6 @@
 
   - [ポルノグラフィティのインディーズ作品](https://ja.wikipedia.org/wiki/ポルノグラフィティのインディーズ作品 "wikilink")
 
-[Category:ポルノグラフィティ](https://ja.wikipedia.org/wiki/Category:ポルノグラフィティ "wikilink") [Category:クアトロA面シングル](https://ja.wikipedia.org/wiki/Category:クアトロA面シングル "wikilink") [Category:1999年のスプリット・シングル](https://ja.wikipedia.org/wiki/Category:1999年のスプリット・シングル "wikilink") [Category:楽曲_ほ](https://ja.wikipedia.org/wiki/Category:楽曲_ほ "wikilink")
+[Category:ポルノグラフィティ](https://ja.wikipedia.org/wiki/Category:ポルノグラフィティ "wikilink") [Category:1999年のクアトロA面シングル](https://ja.wikipedia.org/wiki/Category:1999年のクアトロA面シングル "wikilink") [Category:1999年のスプリット・シングル](https://ja.wikipedia.org/wiki/Category:1999年のスプリット・シングル "wikilink") [Category:楽曲_ほ](https://ja.wikipedia.org/wiki/Category:楽曲_ほ "wikilink")
 
 1.

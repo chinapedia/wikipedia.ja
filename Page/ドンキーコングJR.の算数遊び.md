@@ -125,7 +125,7 @@ CALCURATE AおよびBは2人用で、『ドンキーコングJR.』の1面を元
   -
   - （英語）
 
-[Category:ドンキーコングシリーズ](https://ja.wikipedia.org/wiki/Category:ドンキーコングシリーズ "wikilink") [Category:1983年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1983年のコンピュータゲーム "wikilink") [Category:1983年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1983年のファミリーコンピュータ用ソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:固定画面アクションゲーム](https://ja.wikipedia.org/wiki/Category:固定画面アクションゲーム "wikilink") [Category:算数](https://ja.wikipedia.org/wiki/Category:算数 "wikilink") [Category:数学教育ソフトウェア](https://ja.wikipedia.org/wiki/Category:数学教育ソフトウェア "wikilink") [Category:数学を題材とした作品](https://ja.wikipedia.org/wiki/Category:数学を題材とした作品 "wikilink")
+[Category:ドンキーコングシリーズのコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ドンキーコングシリーズのコンピュータゲーム "wikilink") [Category:1983年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1983年のコンピュータゲーム "wikilink") [Category:1983年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1983年のファミリーコンピュータ用ソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:固定画面アクションゲーム](https://ja.wikipedia.org/wiki/Category:固定画面アクションゲーム "wikilink") [Category:算数](https://ja.wikipedia.org/wiki/Category:算数 "wikilink") [Category:数学教育ソフトウェア](https://ja.wikipedia.org/wiki/Category:数学教育ソフトウェア "wikilink") [Category:数学を題材とした作品](https://ja.wikipedia.org/wiki/Category:数学を題材とした作品 "wikilink")
 
 1.
 2.

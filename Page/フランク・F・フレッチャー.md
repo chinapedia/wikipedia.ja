@@ -16,4 +16,4 @@
   - <http://www.history.navy.mil/danfs/f3/fletcher.htm>
   - <http://www.arlingtoncemetery.net/ff-fletc.htm>
 
-[Category:アメリカ合衆国海軍の軍人](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国海軍の軍人 "wikilink") [Category:第一次世界大戦期のアメリカ合衆国の軍人](https://ja.wikipedia.org/wiki/Category:第一次世界大戦期のアメリカ合衆国の軍人 "wikilink") [Category:1855年生](https://ja.wikipedia.org/wiki/Category:1855年生 "wikilink") [Category:1928年没](https://ja.wikipedia.org/wiki/Category:1928年没 "wikilink") [Category:海軍名誉勲章受章者](https://ja.wikipedia.org/wiki/Category:海軍名誉勲章受章者 "wikilink") [Category:海軍兵学校_(アメリカ合衆国)出身の人物](https://ja.wikipedia.org/wiki/Category:海軍兵学校_\(アメリカ合衆国\)出身の人物 "wikilink")
+[Category:アメリカ合衆国海軍の軍人](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国海軍の軍人 "wikilink") [Category:第一次世界大戦期のアメリカ合衆国の軍人](https://ja.wikipedia.org/wiki/Category:第一次世界大戦期のアメリカ合衆国の軍人 "wikilink") [Category:海軍名誉勲章受章者](https://ja.wikipedia.org/wiki/Category:海軍名誉勲章受章者 "wikilink") [Category:海軍兵学校_(アメリカ合衆国)出身の人物](https://ja.wikipedia.org/wiki/Category:海軍兵学校_\(アメリカ合衆国\)出身の人物 "wikilink") [Category:1855年生](https://ja.wikipedia.org/wiki/Category:1855年生 "wikilink") [Category:1928年没](https://ja.wikipedia.org/wiki/Category:1928年没 "wikilink")

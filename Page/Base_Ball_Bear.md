@@ -1,12 +1,15 @@
 > この記事は[Base Ball Bear](https://ja.wikipedia.org/wiki/Base_Ball_Bear)から翻訳されています。
 
 
-**Base Ball Bear**（ベース ボール ベアー）は、[2001年](../Page/2001年.md "wikilink")に結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。[2006年](../Page/2006年.md "wikilink")にメジャーデビュー。結成以来4人組で活動していたが、[2016年](../Page/2016年.md "wikilink")にメンバーが脱退。それ以降は[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")で活動している。 所属レコード会社は[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")、所属レーベルはプライベートレーベルであるDGP RECORDS。所属事務所は[ソニー・ミュージックアーティスツ](../Page/ソニー・ミュージックアーティスツ.md "wikilink")。略称として主に**ベボベ**や**BBB**が用いられる。公式ファンクラブは「**ベボ部**」。
+| 活動期間 = 2001年 - | レーベル =  | 事務所 = [ソニー・ミュージックアーティスツ](../Page/ソニー・ミュージックアーティスツ.md "wikilink")
+（2005年\[1\] - ） | 共同作業者 = | 公式サイト = [Base Ball Bear Official Website](https://www.baseballbear.com/) | メンバー =  | 旧メンバー = 湯浅将平（ギター） }} **Base Ball Bear**（ベース ボール ベアー）は、2001年に結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。2006年にメジャーデビュー。結成以来4人組で活動していたが、[2016年](../Page/2016年.md "wikilink")にメンバーが脱退してからは[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")で活動している。
+
+所属レコード会社は[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")、所属レーベルはプライベートレーベルであるDGP RECORDS。所属事務所は[ソニー・ミュージックアーティスツ](../Page/ソニー・ミュージックアーティスツ.md "wikilink")。略称として主に**ベボベ**や**BBB**が用いられる。公式ファンクラブは「**ベボ部**」。
 
 ## 概要
 
   - 男性2人・女性1人のスリーピース・ロックバンドである。2001年の結成時から約15年間、男性3人・女性1人の4人体制であったが、2016年3月に湯浅将平（ギター）が脱退したことにより3人体制となった（湯浅の脱退の経緯などについては後述）。それ以降は3人体制で活動している。
-  - 結成日は[2001年](../Page/2001年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")である。この日、バンドとして初めてライブを行った。
+  - 結成日は2001年11月11日である。この日、バンドとして初めてライブを行った。
   - コード進行に特徴があり、メジャーデビューミニアルバム『[GIRL FRIEND](https://ja.wikipedia.org/wiki/GIRL_FRIEND_\(Base_Ball_Bearのアルバム\) "wikilink")』発売時には「未知のコード感」を持つバンドとして紹介されている。
   - 音楽性やメンバー構成、歌詞や曲名から、[ナンバーガール](../Page/ナンバーガール.md "wikilink")や[SUPERCAR](../Page/SUPERCAR.md "wikilink")から強い影響を受けていると思われる（高校時代にはSUPERCARのコピーをしていた）。小出自身、旧HPの自身の日記にてそのような事実をほのめかす発言をしている。
   - ライブ時の[SE](../Page/SE.md "wikilink")として、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のバンド・[XTCの楽曲](../Page/XTC_\(バンド\).md "wikilink")『[Making Plans For Nigel](https://ja.wikipedia.org/wiki/ドラムス・アンド・ワイアーズ "wikilink")』を使用している。
@@ -50,11 +53,11 @@
 
   - [千葉県](../Page/千葉県.md "wikilink")[松戸市](https://ja.wikipedia.org/wiki/松戸市 "wikilink")出身。血液型はO型。元[ギター担当](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")。愛称「将平」「将やん」など。身長170[cm](../Page/センチメートル.md "wikilink")。
   - メインギターは[フェンダー・ストラトキャスター](../Page/フェンダー・ストラトキャスター.md "wikilink") 「FENDER USA STRATOCASTER '58年製 リイシュー（サンバースト）」、ライブではサブギターとして「Fender USA American Deluxe Stratocaster (アンバー)」も使用していた。またエフェクターを様々使用しており、[ワウペダル](../Page/ワウペダル.md "wikilink")やワーミーペダル(DigiTech/WhammyPedalなどを使用することを得意としていた。
-  - また『若者のゆくえ』ではベースを弾いていた\[1\]。
+  - また『若者のゆくえ』ではベースを弾いていた\[2\]。
   - ライブ演奏時、主に『[SAYONARA-NOSTALGIA](https://ja.wikipedia.org/wiki/夕方ジェネレーション "wikilink")』や、『[真夏の条件](https://ja.wikipedia.org/wiki/真夏の条件 "wikilink")』『[青い春.虚無](https://ja.wikipedia.org/wiki/十七歳_\(Base_Ball_Bearのアルバム\) "wikilink")』『[十字架 You and I](https://ja.wikipedia.org/wiki/CYPRESS_GIRLS "wikilink")』などの曲において、小出の「ダンス湯浅将平！」の合図で踊りだしていた。
   - [2016年](../Page/2016年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、約15年間在籍したBase Ball Bearから**脱退**。
 
-**脱退に至る経緯**\[2\]
+**脱退に至る経緯**\[3\]
 
   - [2016年](../Page/2016年.md "wikilink")2月中旬、突如として制作現場に現れなくなる。この時よりメンバーなどとの連絡がつかなくなっていたが、その後第三者を通じ「Base Ball Bearでの活動を続けるのは難しい」という本人の意思表示が関係者などに伝えられた。この意思表示がなされてからの以後数日間、様々な方法を用いて本人との話し合いの場を設けようと試みたもののうまくいかず、バンド・そして所属事務所であるSMAはフルメンバー4名でのバンド活動は困難と判断した。[2016年](../Page/2016年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink")夕方、公式サイトを通じ「脱退」の声明がSMAのバンド担当スタッフ・レーベル・メンバーの連名でコメントと共に発表された。
 
@@ -164,7 +167,7 @@
 
 <!-- end list -->
 
-  - [2月4日](../Page/2月4日.md "wikilink")、渋谷CLUB QUATTROにて新シリーズライブ「LIVE IN LIVE」を開催\[3\]。
+  - [2月4日](../Page/2月4日.md "wikilink")、渋谷CLUB QUATTROにて新シリーズライブ「LIVE IN LIVE」を開催\[4\]。
 
 <!-- end list -->
 
@@ -195,7 +198,7 @@
 
 <!-- end list -->
 
-  - 11月、これまでの所属レコード会社であった[ユニバーサル ミュージックを離れ](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")に移籍\[4\]。同社にプライベートレーベル「**DGP RECORDS**」を立ちあげる。
+  - 11月、これまでの所属レコード会社であった[ユニバーサル ミュージックを離れ](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")に移籍\[5\]。同社にプライベートレーベル「**DGP RECORDS**」を立ちあげる。
 
 <!-- end list -->
 
@@ -472,7 +475,7 @@
 <td><p>2007年<a href="../Page/7月18日.md" title="wikilink">7月18日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/真夏の条件" title="wikilink">真夏の条件</a></strong></p></td>
 <td><p>26</p></td>
-<td></td>
+<td><p>十七歳</p></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
@@ -624,8 +627,7 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Grape_(Base_Ball_Bearのアルバム)" title="wikilink">Grape</a></strong></p></td>
 <td><p>4</p></td>
 <td><p>配信限定だがCD盤も販売。<br />
-CD盤はツアー「Guitar！Drum！Bass！Tour～日比谷ノンフィクションVIII～」（2019年9月15日）<br />
-および「Guitar！Drum！Bass！Tour」（2019年9月〜12月）の各会場でのみ販売。</p></td>
+CD盤はツアー「Guitar！Drum！Bass！Tour」（2019年9月〜12月）の各会場でのみ販売</p></td>
 </tr>
 </tbody>
 </table>
@@ -1001,7 +1003,7 @@ CD盤はツアー「Guitar！Drum！Bass！Tour～日比谷ノンフィクショ
 | 日本テレビ系『[音燃え\!](../Page/音燃え!.md "wikilink")』エンディング・テーマ                                                                                           |                                                                                                                                                                   |                                                                                                                                                |
 | [中京テレビ](../Page/中京テレビ放送.md "wikilink")『[スーパーチャンプル](../Page/スーパーチャンプル.md "wikilink")』2007年11月度エンディング・テーマ                                         |                                                                                                                                                                   |                                                                                                                                                |
 | [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[志村けんのだいじょうぶだぁII](../Page/志村けんのだいじょうぶだぁII.md "wikilink")』2007年12月度エンディング・テーマ        |                                                                                                                                                                   |                                                                                                                                                |
-| 2008年                                                                                                                                           | [北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")『[夢チカ18](../Page/夢チカ18.md "wikilink")』2008年1月度 オープニングテーマ \[5\]                                                          |                                                                                                                                                |
+| 2008年                                                                                                                                           | [北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")『[夢チカ18](../Page/夢チカ18.md "wikilink")』2008年1月度 オープニングテーマ \[6\]                                                          |                                                                                                                                                |
 | changes                                                                                                                                         | [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ノイタミナ](../Page/ノイタミナ.md "wikilink")』枠アニメ『[図書館戦争](../Page/図書館戦争.md "wikilink")』エンディングテーマ              |                                                                                                                                                |
 | LOVE MATHEMATICS                                                                                                                                | テレビ東京系『JAPAN COUNTDOWN』2008年12月度エンディングテーマ                                                                                                                         |                                                                                                                                                |
 | 2009年                                                                                                                                           | 神々LOOKS YOU                                                                                                                                                       | [松竹](../Page/松竹.md "wikilink")配給映画「[鴨川ホルモー](https://ja.wikipedia.org/wiki/鴨川ホルモー "wikilink")」主題歌                                               |
@@ -1085,104 +1087,111 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 
 ### ワンマンライブ・主催イベント
 
-| 日程                                                      | タイトル                                                                | 公演規模・会場                                                          | 備考                                                                                                                                                                                                                                                                                                                                                                       |
-| ------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [2003年](../Page/2003年.md "wikilink")                    |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
-| [12月9日](../Page/12月9日.md "wikilink")                    | RIHOMI NIGHT〜1st mini Album 「夕方ジェネレーション」発売記念ライヴ〜                    | [下北沢 GARAGE](https://ja.wikipedia.org/wiki/下北沢GARAGE "wikilink") | ゲストバンド: 12月8日 / [湯川潮音](https://ja.wikipedia.org/wiki/湯川潮音 "wikilink") / きたはらいく                                                                                                                                                                                                                                                                                           |
-| [2004年](../Page/2004年.md "wikilink")                    |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
-| [4月23日](../Page/4月23日.md "wikilink")                    | GARAGEのKOIDEさんNIGHT〜RIHOMI NIGHT2〜                                  | 下北沢 GARAGE                                                       | ゲストバンド: 砂場 / Crooner / throwcurve / another bebe / アメリカンファミリー                                                                                                                                                                                                                                                                                                            |
-| [8月25日](../Page/8月25日.md "wikilink")                    | 「YUME is VISION」発売記念ライヴ                                             | 下北沢 GARAGE                                                       | ゲストバンド: FREEZER NOIZE                                                                                                                                                                                                                                                                                                                                                    |
-| [2005年](../Page/2005年.md "wikilink")                    |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
-| [4月29日](../Page/4月29日.md "wikilink")                    | 「HIGH COLOR TIMES」アルバム発売記念ライヴ                                       | [新宿LOFT](https://ja.wikipedia.org/wiki/新宿LOFT "wikilink")        | ゲストバンド: Kaimy Plants / KOHL                                                                                                                                                                                                                                                                                                                                              |
-| [2006年](../Page/2006年.md "wikilink")                    |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
-| [5月20日](../Page/5月20日.md "wikilink")                    | THE "GIRL FRIEND"SHOW                                               | 下北沢CLUB Que                                                      |                                                                                                                                                                                                                                                                                                                                                                          |
-| 5月26日                                                   | 大阪LIVE SQUARE 2nd LINE                                              |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
-| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
-| [9月19日](../Page/9月19日.md "wikilink")                    | C.C. Lemon Hall LIVE one day,one day 「僕らの2日間演奏」                     | [渋谷C.C.Lemonホール](../Page/渋谷公会堂.md "wikilink")                    |                                                                                                                                                                                                                                                                                                                                                                          |
-| [9月20日](../Page/9月20日.md "wikilink")                    |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
-| [2009年](../Page/2009年.md "wikilink")                    |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
-| [6月27日](../Page/6月27日.md "wikilink")                    | 日比谷ノンフィクション                                                         | [日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")  |                                                                                                                                                                                                                                                                                                                                                                          |
-| [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
-| [1月3日](../Page/1月3日.md "wikilink")                      | LIVE;(THIS IS THE) Base Ball Bear.                                  | [日本武道館](../Page/日本武道館.md "wikilink")                             |                                                                                                                                                                                                                                                                                                                                                                          |
-| [1月4日](../Page/1月4日.md "wikilink")                      | GARAGEのKOIDEさんNIGHT2                                                | 下北沢 GARAGE                                                       |                                                                                                                                                                                                                                                                                                                                                                          |
-| [6月19日](../Page/6月19日.md "wikilink")                    | TOUR;HALL IN MY LIFE. 「日比谷ノンフィクションII」                               | 日比谷野外大音楽堂                                                        |                                                                                                                                                                                                                                                                                                                                                                          |
-| [6月20日](../Page/6月20日.md "wikilink")                    | ゲストバンド: [サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink") |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
-| [9月29日](../Page/9月29日.md "wikilink")                    | 十字架 You and Night                                                   | 渋谷 WOMB                                                          |                                                                                                                                                                                                                                                                                                                                                                          |
-| [2011年](../Page/2011年.md "wikilink")                    |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
-| [11月11日](../Page/11月11日.md "wikilink")                  | GARAGEのKOIDEさんNIGHT3 〜出張ニコニコMAPLE HOUSE〜                            | 学芸大学 MAPLEHOUSE                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
-| [2012年](../Page/2012年.md "wikilink")                    |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
-| [1月3日](../Page/1月3日.md "wikilink")                      | 10th Anniversary tour (This Is The)Base Ball Bear part.2 「Live 新呼吸」 | [日本武道館](../Page/日本武道館.md "wikilink")                             |                                                                                                                                                                                                                                                                                                                                                                          |
-| [12月9日](../Page/12月9日.md "wikilink")                    | GARAGEのKOIDEさんNIGHT 4〜Limited Direction〜                            | さいたま新都心 HEAVEN'S ROCK VJ-3                                       | ゲストアクト: [東京女子流](https://ja.wikipedia.org/wiki/東京女子流 "wikilink")                                                                                                                                                                                                                                                                                                          |
-| [2013年](../Page/2013年.md "wikilink")                    |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
-| [6月15日](../Page/6月15日.md "wikilink")                    | 日比谷ノンフィクションIII                                                      | 日比谷野外大音楽堂                                                        |                                                                                                                                                                                                                                                                                                                                                                          |
-| [2015年](../Page/2015年.md "wikilink")                    |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
-| [2月4日](../Page/2月4日.md "wikilink")                      | LIVE IN LIVE vol.1 〜HELLO,NOSTALGIA 編〜                              | 渋谷 CLUB QUATTRO                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
-| [6月13日](../Page/6月13日.md "wikilink")                    | 日比谷ノンフィクションIV                                                       | 日比谷野外大音楽堂                                                        |                                                                                                                                                                                                                                                                                                                                                                          |
-| [12月24日](../Page/12月24日.md "wikilink")                  | LIVE IN LIVE vol.2 〜C to C2〜                                        | 渋谷 CLUB QUATTRO                                                  | 湯浅がメンバーとして参加している(事実上)最後のワンマンライブ。                                                                                                                                                                                                                                                                                                                                         |
-| [2016年](../Page/2016年.md "wikilink")                    |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
-| [4月30日](../Page/4月30日.md "wikilink")                    | 日比谷ノンフィクションV〜LIVE BY THE C2〜                                        | 日比谷野外大音楽堂                                                        | サポートギタリスト: [フルカワユタカ](https://ja.wikipedia.org/wiki/フルカワユタカ "wikilink") / [田渕ひさ子](../Page/田渕ひさ子.md "wikilink") / ハヤシ ([POLYSICS](../Page/POLYSICS.md "wikilink")) / 石毛輝 ([lovefilm](https://ja.wikipedia.org/wiki/lovefilm "wikilink") / [the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")) 全国ツアー『LIVE BY THE C2』の実質最終公演。湯浅脱退後初の『日比谷ノンフィクション』である。 |
-| [2017年](../Page/2017年.md "wikilink")                    |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
-| [9月30日](../Page/9月30日.md "wikilink")                    | 日比谷ノンフィクションVI〜光源〜                                                   | 日比谷野外大音楽堂                                                        | サポートギタリスト: 弓木英梨乃（[キリンジ](../Page/キリンジ.md "wikilink")） アルバムツアー『光源』の東京公演として開催される。                                                                                                                                                                                                                                                                                           |
-|                                                         |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
+| 日程                                                                        | タイトル                                                                | 公演規模・会場                                                          | 備考                                                                                                                                                                                                                                                                                                                                                                       |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [2003年](../Page/2003年.md "wikilink")                                      |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
+| [12月9日](../Page/12月9日.md "wikilink")                                      | RIHOMI NIGHT〜1st mini Album 「夕方ジェネレーション」発売記念ライヴ〜                    | [下北沢 GARAGE](https://ja.wikipedia.org/wiki/下北沢GARAGE "wikilink") | ゲストバンド: 12月8日 / [湯川潮音](https://ja.wikipedia.org/wiki/湯川潮音 "wikilink") / きたはらいく                                                                                                                                                                                                                                                                                           |
+| [2004年](../Page/2004年.md "wikilink")                                      |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
+| [4月23日](../Page/4月23日.md "wikilink")                                      | GARAGEのKOIDEさんNIGHT〜RIHOMI NIGHT2〜                                  | 下北沢 GARAGE                                                       | ゲストバンド: 砂場 / Crooner / throwcurve / another bebe / アメリカンファミリー                                                                                                                                                                                                                                                                                                            |
+| [8月25日](../Page/8月25日.md "wikilink")                                      | 「YUME is VISION」発売記念ライヴ                                             | 下北沢 GARAGE                                                       | ゲストバンド: FREEZER NOIZE                                                                                                                                                                                                                                                                                                                                                    |
+| [2005年](../Page/2005年.md "wikilink")                                      |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
+| [4月29日](../Page/4月29日.md "wikilink")                                      | 「HIGH COLOR TIMES」アルバム発売記念ライヴ                                       | [新宿LOFT](https://ja.wikipedia.org/wiki/新宿LOFT "wikilink")        | ゲストバンド: Kaimy Plants / KOHL                                                                                                                                                                                                                                                                                                                                              |
+| [2006年](../Page/2006年.md "wikilink")                                      |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
+| [5月20日](../Page/5月20日.md "wikilink")                                      | THE "GIRL FRIEND"SHOW                                               | 下北沢CLUB Que                                                      |                                                                                                                                                                                                                                                                                                                                                                          |
+| 5月26日                                                                     | 大阪LIVE SQUARE 2nd LINE                                              |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
+| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")                   |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
+| [9月19日](../Page/9月19日.md "wikilink")                                      | C.C. Lemon Hall LIVE one day,one day 「僕らの2日間演奏」                     | [渋谷C.C.Lemonホール](../Page/渋谷公会堂.md "wikilink")                    |                                                                                                                                                                                                                                                                                                                                                                          |
+| [9月20日](../Page/9月20日.md "wikilink")                                      |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
+| [2009年](../Page/2009年.md "wikilink")                                      |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
+| [6月27日](../Page/6月27日.md "wikilink")                                      | 日比谷ノンフィクション                                                         | [日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")  |                                                                                                                                                                                                                                                                                                                                                                          |
+| [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")                   |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
+| [1月3日](../Page/1月3日.md "wikilink")                                        | LIVE;(THIS IS THE) Base Ball Bear.                                  | [日本武道館](../Page/日本武道館.md "wikilink")                             |                                                                                                                                                                                                                                                                                                                                                                          |
+| [1月4日](../Page/1月4日.md "wikilink")                                        | GARAGEのKOIDEさんNIGHT2                                                | 下北沢 GARAGE                                                       |                                                                                                                                                                                                                                                                                                                                                                          |
+| [6月19日](../Page/6月19日.md "wikilink")                                      | TOUR;HALL IN MY LIFE. 「日比谷ノンフィクションII」                               | 日比谷野外大音楽堂                                                        |                                                                                                                                                                                                                                                                                                                                                                          |
+| [6月20日](../Page/6月20日.md "wikilink")                                      | ゲストバンド: [サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink") |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
+| [9月29日](../Page/9月29日.md "wikilink")                                      | 十字架 You and Night                                                   | 渋谷 WOMB                                                          |                                                                                                                                                                                                                                                                                                                                                                          |
+| [2011年](../Page/2011年.md "wikilink")                                      |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
+| [11月11日](../Page/11月11日.md "wikilink")                                    | GARAGEのKOIDEさんNIGHT3 〜出張ニコニコMAPLE HOUSE〜                            | 学芸大学 MAPLEHOUSE                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
+| [2012年](../Page/2012年.md "wikilink")                                      |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
+| [1月3日](../Page/1月3日.md "wikilink")                                        | 10th Anniversary tour (This Is The)Base Ball Bear part.2 「Live 新呼吸」 | [日本武道館](../Page/日本武道館.md "wikilink")                             |                                                                                                                                                                                                                                                                                                                                                                          |
+| [12月9日](../Page/12月9日.md "wikilink")                                      | GARAGEのKOIDEさんNIGHT 4〜Limited Direction〜                            | さいたま新都心 HEAVEN'S ROCK VJ-3                                       | ゲストアクト: [東京女子流](https://ja.wikipedia.org/wiki/東京女子流 "wikilink")                                                                                                                                                                                                                                                                                                          |
+| [2013年](../Page/2013年.md "wikilink")                                      |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
+| [6月15日](../Page/6月15日.md "wikilink")                                      | 日比谷ノンフィクションIII                                                      | 日比谷野外大音楽堂                                                        |                                                                                                                                                                                                                                                                                                                                                                          |
+| [2015年](../Page/2015年.md "wikilink")                                      |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
+| [2月4日](../Page/2月4日.md "wikilink")                                        | LIVE IN LIVE vol.1 〜HELLO,NOSTALGIA 編〜                              | 渋谷 CLUB QUATTRO                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
+| [6月13日](../Page/6月13日.md "wikilink")                                      | 日比谷ノンフィクションIV                                                       | 日比谷野外大音楽堂                                                        |                                                                                                                                                                                                                                                                                                                                                                          |
+| [12月24日](../Page/12月24日.md "wikilink")                                    | LIVE IN LIVE vol.2 〜C to C2〜                                        | 渋谷 CLUB QUATTRO                                                  | 湯浅がメンバーとして参加している(事実上)最後のワンマンライブ。                                                                                                                                                                                                                                                                                                                                         |
+| [2016年](../Page/2016年.md "wikilink")                                      |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
+| [4月30日](../Page/4月30日.md "wikilink")                                      | 日比谷ノンフィクションV〜LIVE BY THE C2〜                                        | 日比谷野外大音楽堂                                                        | サポートギタリスト: [フルカワユタカ](https://ja.wikipedia.org/wiki/フルカワユタカ "wikilink") / [田渕ひさ子](../Page/田渕ひさ子.md "wikilink") / ハヤシ ([POLYSICS](../Page/POLYSICS.md "wikilink")) / 石毛輝 ([lovefilm](https://ja.wikipedia.org/wiki/lovefilm "wikilink") / [the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")) 全国ツアー『LIVE BY THE C2』の実質最終公演。湯浅脱退後初の『日比谷ノンフィクション』である。 |
+| [2017年](../Page/2017年.md "wikilink")                                      |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
+| [9月30日](../Page/9月30日.md "wikilink")                                      | 日比谷ノンフィクションVI〜光源〜                                                   | 日比谷野外大音楽堂                                                        | サポートギタリスト: 弓木英梨乃（[キリンジ](../Page/キリンジ.md "wikilink")） アルバムツアー『光源』の東京公演として開催される。                                                                                                                                                                                                                                                                                           |
+| [2020年](../Page/2020年.md "wikilink")                                      |                                                                     |                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
+| [5月21日](../Page/5月21日.md "wikilink") - [8月7日](../Page/8月7日.md "wikilink") | LIVE IN LIVE～IN YOUR HOME～                                          | \-                                                               | ツアー「LIVE BY THE C3」の中止を受け、また新型コロナウイルスの感染拡大防止のために企画された"仮想ツアー"。全8曲で構成され、全曲が1ヶ月間限定で[Youtube](https://ja.wikipedia.org/wiki/Youtube "wikilink")にて毎週1度アップされた。                                                                                                                                                                                                                 |
+| [8月25日](../Page/8月25日.md "wikilink")(予定)                                  | LIVE IN LIVE～IN YOUR HOME,MY HOME GROUND～                           | 下北沢 GARAGE                                                       | 仮想ツアー『LIVE IN LIVE～IN YOUR HOME～』の続編であり、初の生配信ライブ。公式モバイルFCサイト『ベボ部』会員のみ視聴が可能。                                                                                                                                                                                                                                                                                              |
 
 ### ツアー
 
 ※~~取り消し線~~のみ引かれているものは見合わせになった公演。<span style="color:#FF0000">赤字</span>になっており、なおかつ~~取り消し線~~が引かれているものは中止になった公演をさす。
 
-<table style="width:102%;">
-<colgroup>
-<col style="width: 15%" />
-<col style="width: 25%" />
-<col style="width: 27%" />
-<col style="width: 35%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>日程</p></th>
-<th><p>タイトル</p></th>
-<th><p>公演規模・会場（対バン）</p></th>
-<th><p>備考</p></th>
-</tr>
-</thead>
+<table>
 <tbody>
 <tr class="odd">
+<td><p>日程</p></td>
+<td><p>タイトル</p></td>
+<td><p>公演規模・会場（対バン）</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/8月22日.md" title="wikilink">8月22日</a> - <a href="../Page/8月25日.md" title="wikilink">8月25日</a></p></td>
 <td><p>若若男女サマーツアー'06</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>8月22日 <a href="../Page/SHIBUYA-AX.md" title="wikilink">SHIBUYA-AX</a></li>
 <li>8月23日 大阪 <a href="https://ja.wikipedia.org/wiki/BIG_CAT" title="wikilink">BIG CAT</a></li>
 <li>8月25日 福岡 DRUM LOGOS</li>
-</ol></td>
-<td><p><a href="../Page/チャットモンチー.md" title="wikilink">チャットモンチー</a>、<a href="../Page/シュノーケル_(バンド).md" title="wikilink">シュノーケルとのスプリット</a>・ツアー</p></td>
+</ol>
+<ul>
+<li><a href="../Page/チャットモンチー.md" title="wikilink">チャットモンチー</a>、<a href="../Page/シュノーケル_(バンド).md" title="wikilink">シュノーケルとのスプリット</a>・ツアー</li>
+</ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/10月20日.md" title="wikilink">10月20日</a> - <a href="../Page/11月18日.md" title="wikilink">11月18日</a></p></td>
-<td><p>THE "STAND BY ME・I・DO"SHOW</p></td>
-<td><ol>
+<td><p>THE "STAND BY ME・I・DO" SHOW</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>10月20日 千葉LOOK</li>
 <li>11月10日 名古屋アポロシアター</li>
 <li>11月11日 大阪MUSE</li>
 <li>11月17日 福岡DRUM SON</li>
 <li>11月18日 渋谷CLUB QUATTRO</li>
 </ol></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/3月30日.md" title="wikilink">3月30日</a> - <a href="../Page/5月11日.md" title="wikilink">5月11日</a></p></td>
 <td><p>Tour「LIVE BY THE C」</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>3月30日 千葉 LOOK</li>
 <li>3月31日 横浜 CLUB 24</li>
 <li>4月7日 高崎 club FLEEZ</li>
@@ -1199,24 +1208,35 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 <li>4月28日 心斎橋 CLUB QUATTRO</li>
 <li>5月11日 SHIBUYA-AX</li>
 </ol></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/8月20日" title="wikilink">8月20日</a> - <a href="../Page/8月30日.md" title="wikilink">8月30日</a></p></td>
 <td><p>若若男女サマーツアー'07</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>8月20日 <a href="../Page/横浜BLITZ.md" title="wikilink">横浜 BLITZ</a></li>
 <li>8月21日 名古屋 DIAMOND HALL</li>
 <li>8月23日 <a href="https://ja.wikipedia.org/wiki/新木場STUDIO_COAST" title="wikilink">新木場 STUDIO COAST</a></li>
 <li>8月28日 福岡 DRUM LOGOS</li>
 <li>8月30日 なんば Hatch</li>
-</ol></td>
-<td><p>チャットモンチー、シュノーケルとのスプリット・ツアー</p></td>
+</ol>
+<ul>
+<li>チャットモンチー、シュノーケルとのスプリット・ツアー</li>
+</ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/9月18日.md" title="wikilink">9月18日</a> - <a href="../Page/10月24日.md" title="wikilink">10月24日</a></p></td>
 <td><p>TOUR'07 「B-POP HIGH SCHOOL TOUR」</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>9月18日 金沢 AX</li>
 <li>9月20日 名古屋 CLUB QUATTRO</li>
 <li>9月21日 京都 磔磔</li>
@@ -1235,18 +1255,21 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 <li>10月23日 SHIBUYA-AX</li>
 <li>10月24日 SHIBUYA-AX</li>
 </ol></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a></p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/3月16日.md" title="wikilink">3月16日</a> - <a href="../Page/4月25日.md" title="wikilink">4月25日</a></p></td>
 <td><p>'08 Spring Tour 「17才からやってますツアー」</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>3月16日 仙台 CLUB JUNK BOX</li>
 <li>3月20日 青森 Quarter</li>
 <li>3月22日 金沢 EIGHT HALL</li>
@@ -1264,38 +1287,52 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 <li>4月12日 <a href="https://ja.wikipedia.org/wiki/Zepp_Tokyo" title="wikilink">Zepp Tokyo</a></li>
 <li>4月25日 桜坂 セントラル</li>
 </ol></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/7月14日.md" title="wikilink">7月14日</a> - <a href="../Page/7月18日.md" title="wikilink">7月18日</a></p></td>
 <td><p>若若男女サマーツアー'08</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>7月14日 Zepp Osaka</li>
 <li>7月16日 東京 <a href="../Page/ミーツポート.md" title="wikilink">JCB HALL</a></li>
 <li>7月18日 Zepp Sapporo</li>
-</ol></td>
-<td><p>チャットモンチー、シュノーケルとのスプリット・ツアー</p></td>
+</ol>
+<ul>
+<li>チャットモンチー、シュノーケルとのスプリット・ツアー</li>
+</ul></td>
 </tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/10月12日" title="wikilink">10月12日</a>〜<a href="../Page/10月25日.md" title="wikilink">10月25日</a></p></td>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/10月12日" title="wikilink">10月12日</a> - <a href="../Page/10月25日.md" title="wikilink">10月25日</a></p></td>
 <td><p>Tour 「学園祭からやってますツアー」</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>10月12日 <a href="../Page/北海道薬科大学.md" title="wikilink">北海道薬科大学</a></li>
 <li>10月18日 <a href="../Page/高千穂大学.md" title="wikilink">高千穂大学</a></li>
 <li>10月25日 <a href="../Page/倉敷芸術科学大学.md" title="wikilink">倉敷芸術科学大学</a></li>
 </ol></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/3月5日.md" title="wikilink">3月5日</a> - <a href="../Page/5月23日.md" title="wikilink">5月23日</a></p></td>
-<td><p>LIVE MATHEMATICS TOUR09</p></td>
-<td><ol>
+<td><p>LIVE MATHEMATICS TOUR 09</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>3月5日 千葉 LOOK</li>
 <li>3月6日 横浜 BAYSIS</li>
 <li>3月11日 静岡 Sunash</li>
@@ -1329,41 +1366,52 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 <li>5月17日 盛岡 Club Change WAVE</li>
 <li>5月23日 広島 CLUB QUATTRO</li>
 </ol></td>
-<td></td>
 </tr>
-<tr class="even">
-<td><p><a href="../Page/10月31日.md" title="wikilink">10月31日</a>〜<a href="../Page/11月15日.md" title="wikilink">11月15日</a></p></td>
+<tr class="odd">
+<td><p><a href="../Page/10月31日.md" title="wikilink">10月31日</a> - <a href="../Page/11月15日.md" title="wikilink">11月15日</a></p></td>
 <td><p>Zeppyramid tour</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>10月31日 Zepp Sapporo</li>
 <li>11月3日 Zepp Sendai</li>
 <li>11月6日 Zepp Nagoya</li>
 <li>11月14日 Zepp Fukuoka</li>
 <li>11月15日 Zepp Osaka</li>
 </ol></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a></p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/3月26日" title="wikilink">3月26日</a> - <a href="../Page/5月14日.md" title="wikilink">5月14日</a></p></td>
 <td><p>TOUR;HALL IN MY LIFE.</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>3月26日 大阪厚生年金会館 大ホール</li>
 <li>4月23日 浦安市文化会館</li>
 <li>5月8日 福岡国際会議場 メインホール</li>
 <li>5月14日 名古屋市公会堂</li>
 </ol></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/10月22日.md" title="wikilink">10月22日</a> - <a href="../Page/11月19日.md" title="wikilink">11月19日</a></p></td>
 <td><p>(Shine On You)Cypress Girls &amp; Detective Boys</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>10月22日 福岡 DRUM LOGOS</li>
 <li>10月23日 周南 TIKI-TA</li>
 <li>10月26日 神戸 VARIT.</li>
@@ -1379,26 +1427,28 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 <li>11月16日 <a href="https://ja.wikipedia.org/wiki/恵比寿LIQUID_ROOM" title="wikilink">恵比寿 LIQUID ROOM</a> (元気ロケッツ / <a href="https://ja.wikipedia.org/wiki/OKAMOTO&#39;S" title="wikilink">OKAMOTO'S</a>)</li>
 <li>11月19日 新木場 STUDIO COAST</li>
 </ol></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><del><span style="color:#FF0000"><a href="../Page/3月17日.md" title="wikilink">3月17日</a> - <a href="../Page/6月30日.md" title="wikilink">6月30日</a></span></del><br />
 ↓<br />
 <a href="../Page/4月7日.md" title="wikilink">4月7日</a> - <a href="../Page/7月1日.md" title="wikilink">7月1日</a></p></td>
 <td><p>10th Anniversary 『SAYONARA-NOSTALGIA TOUR』</p></td>
-<td><p>【中止/見合わせされた公演】</p>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<p>【中止/見合わせされた公演】</p>
 <ol>
 <li><del>3月17日 下北沢GARAGE</del></li>
 <li><del>3月19日 水戸club SONIC</del></li>
@@ -1446,13 +1496,21 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 <li>6月26日 HEAVEN'S ROCK Utsunomiya VJ-2</li>
 <li>6月30日 SHIBUYA-AX</li>
 <li>7月1日 下北沢 GARAGE</li>
-</ol></td>
-<td><p>結成10周年記念ツアー。全36公演を予定していたが[6]、<a href="https://ja.wikipedia.org/wiki/東日本大震災" title="wikilink">東日本大震災</a>により3月に開催を予定していた全公演と4・5月に行われる公演の一部が見合わせ、または公演中止となった。</p></td>
+</ol>
+<ul>
+<li>結成10周年記念ツアー。全36公演を予定していた[7]。</li>
+<li><a href="https://ja.wikipedia.org/wiki/東日本大震災" title="wikilink">東日本大震災</a>により公演の一部が見合わせ、または公演中止となった。</li>
+</ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/10月1日.md" title="wikilink">10月1日</a> - <a href="../Page/10月30日.md" title="wikilink">10月30日</a></p></td>
 <td><p>10th Anniversary 『Tabibito In The Dark Tour』</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>10月1日 青森 Quarter</li>
 <li>10月2日 秋田 Club SWINDLE</li>
 <li>10月4日 山形 ミュージック昭和session</li>
@@ -1462,19 +1520,25 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 <li>10月22日 なんば Hatch</li>
 <li>10月29日 仙台 darwin</li>
 <li>10月30日 郡山 Hip Shot Japan</li>
-</ol></td>
-<td><p>結成10周年記念ツアーの第2弾。東日本大震災にて中止となった東北地方での公演を含むツアー。</p></td>
+</ol>
+<ul>
+<li>結成10周年記念ツアーの第2弾。東日本大震災にて中止となった東北地方での公演を含むツアー。</li>
+</ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a></p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/5月20日.md" title="wikilink">5月20日</a> - <a href="../Page/7月11日.md" title="wikilink">7月11日</a></p></td>
 <td><p>TOUR 新呼吸</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>5月20日 Zepp Tokyo</li>
 <li>5月24日 仙台 darwin</li>
 <li>5月26日 青森 Quarter</li>
@@ -1495,12 +1559,16 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 <li>7月7日 浜松 窓枠</li>
 <li>7月11日 SHIBUYA-AX</li>
 </ol></td>
-<td></td>
 </tr>
-<tr class="even">
-<td><p><a href="../Page/10月19日.md" title="wikilink">10月19日</a>〜<a href="../Page/12月7日.md" title="wikilink">12月7日</a></p></td>
+<tr class="odd">
+<td><p><a href="../Page/10月19日.md" title="wikilink">10月19日</a> - <a href="../Page/12月7日.md" title="wikilink">12月7日</a></p></td>
 <td><p>TOUR 新呼吸 take2</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>10月19日 岐阜 CLUB ROOTS</li>
 <li>10月20日 静岡 SOUND SHOWER ark</li>
 <li>11月2日 神戸 VARIT.</li>
@@ -1513,18 +1581,21 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 <li>11月24日 福井 CHOP</li>
 <li>12月7日 横浜 BAYSIS</li>
 </ol></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a></p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/4月4日.md" title="wikilink">4月4日</a> - <a href="../Page/4月26日.md" title="wikilink">4月26日</a></p></td>
 <td><p>バンドBのゆくえツアー</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>4月4日 なんば Hatch</li>
 <li>4月6日 広島 CLUB QUATTRO</li>
 <li>4月12日 名古屋 DIAMOND HALL</li>
@@ -1534,29 +1605,39 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 <li>4月25日 <a href="../Page/赤坂BLITZ.md" title="wikilink">赤坂 BLITZ</a></li>
 <li>4月26日 札幌 cube garden</li>
 </ol></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/3月25日" title="wikilink">3月25日</a> - <a href="../Page/4月10日.md" title="wikilink">4月10日</a></p></td>
 <td><p>Tour「光蘚」</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>3月25日 SHIBUYA-AX</li>
 <li>3月30日 なんば Hatch</li>
 <li>4月4日 名古屋 THE BOTTOM LINE</li>
 <li>4月10日 渋谷 CLUB QUATTRO</li>
-</ol></td>
-<td></td>
+</ol>
+<ul>
+<li>タイトル名は「ひかりごけ」と読む</li>
+</ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/9月6日.md" title="wikilink">9月6日</a> - <a href="../Page/11月29日.md" title="wikilink">11月29日</a></p></td>
 <td><p>Tour「二十九歳」</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>9月6日 高崎 club FLEEZ</li>
 <li>9月7日 水戸 LIGHT HOUSE</li>
 <li>9月13日 岡山 CRAZYMAMA KINGDOM</li>
@@ -1581,18 +1662,21 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 <li>11月11日 下北沢 GARAGE</li>
 <li>11月29日 Zepp DiverCity</li>
 </ol></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a></p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/3月7日.md" title="wikilink">3月7日</a> - <a href="../Page/4月29日.md" title="wikilink">4月29日</a></p></td>
 <td><p>Tour「二十九歳+一」</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>3月7日 秋田 club SWINDLE</li>
 <li>3月8日 青森 Quarter</li>
 <li>3月13日 松山 SALONKITTY</li>
@@ -1609,12 +1693,16 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 <li>4月26日 さいたま新都心 HEAVEN'S ROCK VJ-3</li>
 <li>4月29日 浜松 窓枠</li>
 </ol></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/9月12日.md" title="wikilink">9月12日</a> - <a href="../Page/12月4日.md" title="wikilink">12月4日</a></p></td>
 <td><p>Tour「三十一歳」</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>9月12日 水戸 LIGHT HOUSE</li>
 <li>9月13日 宇都宮 HEAVEN'S ROCK VJ-2</li>
 <li>9月19日 釧路 NAVANA HALL</li>
@@ -1640,19 +1728,25 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 <li>11月22日 甲府 CONVICTION</li>
 <li>11月29日 Zepp Namba</li>
 <li>12月4日 豊洲 PIT</li>
-</ol></td>
-<td><p>湯浅脱退前としては(事実上)最後となる全国ツアー。</p></td>
+</ol>
+<ul>
+<li>湯浅脱退前としては(事実上)最後となる全国ツアー。</li>
+</ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/3月5日.md" title="wikilink">3月5日</a> - <a href="../Page/4月15日.md" title="wikilink">4月15日</a></p></td>
 <td><p>Tour「LIVE BY THE C2」</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>3月5日 仙台 darwin</li>
 <li>3月11日 岡山 IMAGE</li>
 <li>3月12日 高松 MONSTER</li>
@@ -1660,19 +1754,26 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 <li>4月2日 名古屋 DIAMOND HALL</li>
 <li>4月9日 新潟 LOTS</li>
 <li>4月15日 なんば Hatch</li>
-</ol></td>
-<td><p>湯浅脱退後初の全国ツアー。 《サポートギタリスト》 <a href="https://ja.wikipedia.org/wiki/フルカワユタカ" title="wikilink">フルカワユタカ</a></p></td>
+</ol>
+<ul>
+<li>湯浅脱退後初の全国ツアー。</li>
+<li>サポートギタリスト:<a href="https://ja.wikipedia.org/wiki/フルカワユタカ" title="wikilink">フルカワユタカ</a></li>
+</ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a> - <a href="../Page/2017年.md" title="wikilink">2017年</a></p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a><a href="../Page/11月11日.md" title="wikilink">11月11日</a> - <a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/3月29日.md" title="wikilink">3月29日</a></p></td>
 <td><p>Tour「バンドBのすべて 2016-2017」</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>11月11日(金) 東京都 下北沢 GARAGE</li>
 <li>11月12日(土) 愛知県 名古屋 DIAMOND HALL</li>
 <li>11月23日(水) 福井県 福井 CHOP</li>
@@ -1709,25 +1810,32 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 <li>3月19日(日) 新潟県 新潟 LOTS</li>
 <li>3月24日(金) 大阪府 なんばHatch</li>
 <li>3月29日(水) 東京都 ZEPP TOKYO</li>
-</ol></td>
-<td><p>結成15周年・デビュー10周年記念ツアー。 《サポートギタリスト》 <a href="../Page/キリンジ.md" title="wikilink">弓木英梨乃</a>（<a href="../Page/キリンジ.md" title="wikilink">キリンジ</a>）。ZEPP TOKYOでの最終公演は<a href="https://ja.wikipedia.org/wiki/LINE_LIVE" title="wikilink">LINE LIVEで全編生中継された</a>。</p></td>
+</ol>
+<ul>
+<li>結成15周年・デビュー10周年記念ツアー。</li>
+<li>ZEPP TOKYOでの最終公演は<a href="https://ja.wikipedia.org/wiki/LINE_LIVE" title="wikilink">LINE LIVEで全編生中継された</a>。</li>
+<li>サポートギタリスト:<a href="../Page/キリンジ.md" title="wikilink">弓木英梨乃</a>（<a href="../Page/キリンジ.md" title="wikilink">キリンジ</a>）</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a> - <a href="../Page/2018年.md" title="wikilink">2018年</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a> - <a href="../Page/2018年.md" title="wikilink">2018年</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/6月11日.md" title="wikilink">6月11日</a> - <a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/1月21日.md" title="wikilink">1月21日</a></p></td>
 <td><p>Tour「光源」</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>6月11日（日）静岡県 浜松窓枠</li>
 <li>6月13日（火）三重県 四日市Club Chaos</li>
 <li>6月15日（木）京都府 京都磔磔</li>
@@ -1759,26 +1867,32 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 <li>1月20日（土）宮崎県 宮崎SR-BOX</li>
 <li>1月21日（日）福岡県 福岡DRUM LOGOS</li>
 <li>2月9日（金）東京都 Zepp Tokyo（追加公演）</li>
-</ol></td>
-<td><p>アルバム「<a href="https://ja.wikipedia.org/wiki/光源_(アルバム)" title="wikilink">光源</a>」のリリースツアー。<a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/9月30日.md" title="wikilink">9月30日</a>の東京公演は『日比谷ノンフィクションVI〜光源〜』として開催される。<br />
-《サポートギタリスト》 <a href="../Page/キリンジ.md" title="wikilink">弓木英梨乃</a>（<a href="../Page/キリンジ.md" title="wikilink">キリンジ</a>）[7]</p></td>
+</ol>
+<ul>
+<li>アルバム「<a href="https://ja.wikipedia.org/wiki/光源_(アルバム)" title="wikilink">光源</a>」のリリースツアー。</li>
+<li><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/9月30日.md" title="wikilink">9月30日</a>の東京公演は『日比谷ノンフィクションVI〜光源〜』として開催された。</li>
+<li>サポートギタリスト:<a href="../Page/キリンジ.md" title="wikilink">弓木英梨乃</a>（<a href="../Page/キリンジ.md" title="wikilink">キリンジ</a>）[8]</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/5月18日.md" title="wikilink">5月18日</a> - <a href="../Page/6月23日.md" title="wikilink">6月23日</a></p></td>
-<td><p>Tour「LIVE IN LIVE」[8]</p></td>
-<td><ol>
+<td><p>Tour「LIVE IN LIVE」</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>5月18日（金）愛知県 名古屋CLUB QUATTRO</li>
 <li>5月25日（金）東京都 渋谷CLUB QUATTRO</li>
 <li>5月27日（日）宮城県 仙台Darwin</li>
@@ -1787,35 +1901,50 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 <li>6月15日（金）北海道 札幌CUBE GARDEN</li>
 <li>6月17日（日）石川県 金沢AZ</li>
 <li>6月23日（土）福岡県 小倉FUSE</li>
-</ol></td>
-<td><p>ライブシリーズ「LIVE IN LIVE」をツアー形式として開催するものであり、3人体制では初のサポートメンバーがつかないツアーとなる。</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+</ol>
+<ul>
+<li>ライブシリーズ「LIVE IN LIVE」をツアー形式として開催したもの。</li>
+<li>3人体制では初のサポートメンバーが付かないツアーとなった。</li>
+</ul></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/10月13日.md" title="wikilink">10月13日</a> - <a href="../Page/11月11日.md" title="wikilink">11月11日</a></p></td>
 <td><p>Tour「LIVE IN LIVE～I HUB YOU～」</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>10月13日（土）大阪府 なんばHatch (<a href="https://ja.wikipedia.org/wiki/キュウソネコカミ" title="wikilink">キュウソネコカミ</a>)</li>
 <li>10月21日（日）東京都 日比谷野外大音楽堂(<a href="../Page/RHYMESTER.md" title="wikilink">RHYMESTER</a>・<a href="https://ja.wikipedia.org/wiki/ペトロールズ" title="wikilink">ペトロールズ</a>)</li>
 <li>11月11日（日）愛知県 名古屋DIAMOND HALL (<a href="https://ja.wikipedia.org/wiki/the_pillows" title="wikilink">the pillows</a>)</li>
-</ol></td>
-<td><p>「LIVE IN LIVE」ツアーの対バン編。サポートメンバーはつかない。なお東京公演は『<strong>日比谷ノンフィクションVII</strong>』として開催された。また11/11名古屋公演のthe pillowsが演奏する際には関根史織がサポートベースとして演奏した[9]。</p></td>
+</ol>
+<ul>
+<li>「LIVE IN LIVE」ツアーの対バン編。サポートメンバーは付かない。</li>
+<li>東京公演は『日比谷ノンフィクションVII』として開催された。</li>
+<li>名古屋公演のthe pillowsが演奏する際には、関根史織がサポートベーシストとして演奏した[9]。</li>
+</ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2月3日.md" title="wikilink">2月3日</a>～<a href="../Page/4月13日.md" title="wikilink">4月13日</a></p></td>
 <td><p>「LIVE IN LIVE～17才から17年やってますツアー～」</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>2月3日（日）広島県 広島CAVE-BE</li>
 <li>2月10日（日）宮城県 仙台Rensa</li>
 <li>2月11日（月・祝）岩手県 盛岡CLUB CHANGE WAVE</li>
@@ -1838,13 +1967,20 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 <p>【3/10公演 振替】</p>
 <ol>
 <li>4月19日（金） 愛知県 名古屋DIAMOND HALL</li>
-</ol></td>
-<td><p>「LIVE IN LIVE」ツアーの第3弾。自主レーベル立ち上げ後初となる作品『ポラリス』のリリースツアー。</p></td>
+</ol>
+<ul>
+<li>自主レーベル立ち上げ後初となる作品『ポラリス』のリリースツアー。</li>
+</ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/9月15日.md" title="wikilink">9月15日</a> - <a href="../Page/12月22日.md" title="wikilink">12月22日</a></p></td>
 <td><p>Guitar！Drum！Bass！Tour</p></td>
-<td><ol>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
 <li>9月15日（日）東京都 日比谷野外大音楽堂</li>
 <li>9月28日（土）香川県 高松DIME</li>
 <li>9月29日（日）愛媛県 松山サロンキティ　</li>
@@ -1865,38 +2001,51 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 <li>12月15日（日）愛知県 DIAMOND HALL</li>
 <li>12月21日（土）福岡県 小倉FUSE</li>
 <li>12月22日（日）広島県 CAVE-BE</li>
-</ol></td>
-<td><p>2nd EPのリリースに伴うツアー。なお東京公演は『<strong>Guitar！Drum！Bass！Tour～日比谷ノンフィクションVIII～</strong>』として開催された。</p></td>
+</ol>
+<ul>
+<li>東京公演は『Guitar！Drum！Bass！Tour～日比谷ノンフィクションVIII～』として開催された。</li>
+</ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><del><span style="color:#FF0000"><a href="../Page/3月19日.md" title="wikilink">3月19日</a> - <a href="../Page/3月28日.md" title="wikilink">3月28日</a></span></del><br />
 ↓<br />
-<a href="../Page/9月9日.md" title="wikilink">9月9日</a> - <a href="../Page/9月17日.md" title="wikilink">9月17日</a></p></td>
-<td><p>Tour「LIVE IN LIVE～I HUB YOU 2～」</p></td>
-<td><p>【延期された公演】</p>
+<del><span style="color:#FF0000"><a href="../Page/9月9日.md" title="wikilink">9月9日</a> - <a href="../Page/9月17日.md" title="wikilink">9月17日</a></span></del></p></td>
+<td><p><del>Tour「LIVE IN LIVE～I HUB YOU 2～」</del></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<p>【延期された公演】</p>
 <ol>
 <li><del>3月19日（木）東京都 Zepp Tokyo (<a href="https://ja.wikipedia.org/wiki/KANA-BOON" title="wikilink">KANA-BOON</a>)</del></li>
 <li><del>3月26日（木）愛知県 Zepp Nagoya(<a href="https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN" title="wikilink">UNISON SQUARE GARDEN</a>)</del></li>
 <li><del>3月28日（土）大阪府 Zepp Osaka Bayside (<a href="https://ja.wikipedia.org/wiki/the_telephones" title="wikilink">the telephones</a>)</del></li>
 </ol>
-<p>【ツアー日程修正後の日程】</p>
+<p>【延期公演として予定が組まれたが中止となった公演】</p>
 <ol>
-<li>9月9日(水) 愛知県 Zepp Nagoya（UNISON SQUARE GARDEN）</li>
-<li>9月10日（木）大阪府 Zepp Osaka　Bayside（the telephones）</li>
-<li>9月17日（木）東京都 Zepp Tokyo（KANA-BOON）</li>
-</ol></td>
-<td><p>「LIVE IN LIVE」ツアーの2度目となる対バン編。当初同年3月に3公演が開催される予定だったが新型コロナウイルスの感染拡大防止の観点から全公演が同年の9月に延期となった。</p></td>
+<li><del><span style="color:#FF0000">9月9日(水) 愛知県 Zepp Nagoya（UNISON SQUARE GARDEN）</span></del></li>
+<li><del><span style="color:#FF0000">9月10日（木）大阪府 Zepp Osaka　Bayside（the telephones） </span></del></li>
+<li><del><span style="color:#FF0000">9月17日（木）東京都 Zepp Tokyo（KANA-BOON） </span></del></li>
+</ol>
+<ul>
+<li>新型コロナウイルスの感染拡大防止の観点から全公演が一度延期された。その後、全公演が中止となった。</li>
+</ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><del><span style="color:#FF0000"><a href="../Page/5月9日.md" title="wikilink">5月9日</a> - <a href="../Page/7月12日.md" title="wikilink">7月12日</a></span></del></p></td>
-<td><p>TOUR 「LIVE BY THE C3」</p></td>
-<td><p>【中止された公演】</p>
+<td><p><del>TOUR 「LIVE BY THE C3」</del></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<p>【中止された公演】</p>
 <ol>
 <li><del><span style="color:#FF0000">5月9日（土） 広島県 広島CAVE-BE</span></del></li>
 <li><del><span style="color:#FF0000">5月10日（日）香川県 高松DIME</span></del></li>
@@ -1913,8 +2062,10 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 <li><del><span style="color:#FF0000">7月5日（日）宮城県 仙台Darwin</span></del></li>
 <li><del><span style="color:#FF0000">7月11日（土）鹿児島県 SR HALL</span></del></li>
 <li><del><span style="color:#FF0000">7月12日（日）福岡県 DRUM Be-1</span></del></li>
-</ol></td>
-<td><p>8thフルアルバム『C3』リリースに伴うツアー。全15公演を予定していたが新型コロナウイルスの感染拡大防止の観点から全公演が中止となった。全公演が中止となるのはキャリアでは初のことである。</p></td>
+</ol>
+<ul>
+<li>新型コロナウイルスの感染拡大防止の観点から全公演が中止となった。全公演が中止となるのは初のことである。</li>
+</ul></td>
 </tr>
 </tbody>
 </table>
@@ -2087,6 +2238,7 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
       - 12月30日 - COUNTDOWN JAPAN 19/20
   - [2020年](../Page/2020年.md "wikilink")
       - ~~<span style="color:#FF0000">5月5日 - JAPAN JAM 2020</span>~~（開催中止）
+      - 8月20日 - ズームイン\!\! SMA\!
 
 ## 脚注
 
@@ -2096,13 +2248,12 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 
 ## 関連項目
 
-  - [熊井友理奈](../Page/熊井友理奈.md "wikilink")
-  - [マテリアルクラブ](https://ja.wikipedia.org/wiki/マテリアルクラブ "wikilink")
+  - [日本のバンド一覧](https://ja.wikipedia.org/wiki/日本のバンド一覧 "wikilink")
+  - [ポピュラー音楽の音楽家一覧 (日本・グループ)](../Page/ポピュラー音楽の音楽家一覧_\(日本・グループ\).md "wikilink")
 
 ## 外部リンク
 
-  - [Base Ball Bear 公式サイト](http://www.baseballbear.com/)
-
+  -
   - [Base Ball Bear - 所属レーベル(DGP RECORDS)公式サイト](https://www.jvcmusic.co.jp/-/Artist/A026389.html)
 
   - [Base Ball Bear - 前所属レーベル(EMI Records)公式サイト](https://www.universal-music.co.jp/base-ball-bear/)
@@ -2121,14 +2272,14 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
   -
   -
   -
-[Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:パワー・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:パワー・ポップ・バンド "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアーティスツ "wikilink") [Category:SCHOOL_OF_LOCK\!](https://ja.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink") [Category:2001年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に結成した音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
+[Category:日本のポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のポップ・ロック・バンド "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアーティスツ "wikilink") [Category:SCHOOL_OF_LOCK\!](https://ja.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink") [Category:2001年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に結成した音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
 
-1.  1stベストアルバム「[バンドBのベスト](https://ja.wikipedia.org/wiki/バンドBのベスト "wikilink")」初回盤特典ブックレット参照。
-2.
+1.  TOUR『LIVE BY THE C』にて物販されたSMA制作のアーティストブックに記載あり。正確には同年5月1日より所属。
+2.  1stベストアルバム「[バンドBのベスト](https://ja.wikipedia.org/wiki/バンドBのベスト "wikilink")」初回盤特典ブックレット参照。
 3.
 4.
-5.  山野楽器 ホームページ （タイアップについての記載参照） <https://www.yamano-music.co.jp/userProdDetailCD.do?itemCode=4107101338&itemClass=C> 2015年11月2日閲覧。
-6.
+5.
+6.  山野楽器 ホームページ （タイアップについての記載参照） <https://www.yamano-music.co.jp/userProdDetailCD.do?itemCode=4107101338&itemClass=C> 2015年11月2日閲覧。
 7.
 8.
 9.

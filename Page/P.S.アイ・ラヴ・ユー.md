@@ -1,6 +1,10 @@
 > この記事は[P.S.アイ・ラヴ・ユー](https://ja.wikipedia.org/wiki/P.S.アイ・ラヴ・ユー)から翻訳されています。
 
 
+<div class="pathnavbox">
+
+</div>
+
 「**P.S.アイ・ラヴ・ユー**」（ピーエス・アイ・ラヴ・ユー、）は、[1962年](../Page/1962年.md "wikilink")10月に[ビートルズ](../Page/ビートルズ.md "wikilink")が発表した1枚目の[オリジナル・シングル](https://ja.wikipedia.org/wiki/ビートルズの作品#シングル\(英国\) "wikilink")（「[ラヴ・ミー・ドゥ](../Page/ラヴ・ミー・ドゥ.md "wikilink")」）の[B面](https://ja.wikipedia.org/wiki/B面 "wikilink")曲である。演奏時間は2分2秒という比較的短い曲である。
 
 ## 解説
@@ -15,7 +19,7 @@
 
 1963年3月リリースの[アルバム](../Page/アルバム.md "wikilink")『[プリーズ・プリーズ・ミー](../Page/プリーズ・プリーズ・ミー_\(アルバム\).md "wikilink")』のB面2曲目\[5\]に再収録された。
 
-後にポールが、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")のアルバム『[フラワーズ・イン・ザ・ダート](../Page/フラワーズ・イン・ザ・ダート.md "wikilink")・スペシャルパッケージ』（[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")限定の来日記念盤）の中で「P.S. ラヴ・ミー・ドゥ」\[6\]の形でリメイクし、[1991年](../Page/1991年.md "wikilink")の[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")『バースデイ』(ライヴ盤）の中で同曲のライヴ・ヴァージョンを発表している。この曲はライヴではポールは楽器を持たずに1曲通してハンドマイクで歌うという、非常に珍しい形態で演奏されていた\[7\]
+後にポールが、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")のアルバム『[フラワーズ・イン・ザ・ダート](../Page/フラワーズ・イン・ザ・ダート.md "wikilink")・スペシャルパッケージ』（[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")限定の来日記念盤）の中で「P.S. ラヴ・ミー・ドゥ」\[6\]の形でリメイクし、[1991年](../Page/1991年.md "wikilink")の[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")『バースデイ』(ライヴ盤）の中で同曲のライヴ・ヴァージョンを発表している。この曲はライヴではポールは楽器を持たずに1曲通してハンドマイクで歌うという、非常に珍しい形態で演奏されていた\[7\]。
 
 ## ステレオ・ヴァージョン
 
@@ -47,7 +51,8 @@
 
 ## 外部リンク
 
-  -
+  - [P.S. I Love You](http://www.icce.rug.nl/~soundscapes/DATABASES/AWP/psily.shtml)
+
   - [Listing for "P.S. I Love You" at *The Complete Guide to the Beatles' Instruments*](https://web.archive.org/web/20050305215617/http://perso.wanadoo.es/sissu/ppm.htm#9)
 
   -
@@ -61,5 +66,5 @@
 6.  「ラヴ・ミー・ドゥ」とのメドレー形式
 7.  曲の一部分のみ楽器を演奏しないで歌うケースは「[ヘイ・ジュード](../Page/ヘイ・ジュード.md "wikilink")」等ではあるが、1曲通して楽器を持たないのは極めて稀なケース。
 8.
-9.  ただし、[1963年](../Page/1963年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")に録音されたテイク（『[オン・エア〜ライヴ・アット・ザ・BBC Vol.2](https://ja.wikipedia.org/wiki/オン・エア〜ライヴ・アット・ザ・BBC_Vol.2 "wikilink")』に収録）では[ドラムスを叩いている](../Page/ドラムセット.md "wikilink")。
+9.  ただし、[1963年](../Page/1963年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")に録音されたテイク（『[オン・エア〜ライヴ・アット・ザ・BBC Vol.2](../Page/オン・エア〜ライヴ・アット・ザ・BBC_Vol.2.md "wikilink")』に収録）では[ドラムスを叩いている](../Page/ドラムセット.md "wikilink")。
 10. ただし、1963年6月17日のテイクには参加していない。

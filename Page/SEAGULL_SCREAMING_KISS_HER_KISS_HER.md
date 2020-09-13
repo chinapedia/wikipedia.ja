@@ -28,7 +28,7 @@
 
   -
     [ベース](../Page/ベース_\(弦楽器\).md "wikilink")・[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。
-    Crypt City、younGSounds、元[ナンバーガール](../Page/ナンバーガール.md "wikilink")。
+    Crypt City、younGSounds、[ナンバーガール](../Page/ナンバーガール.md "wikilink")。
 
 <!-- end list -->
 

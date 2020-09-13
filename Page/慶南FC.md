@@ -65,7 +65,7 @@
 
   - [金鍾夫](https://ja.wikipedia.org/wiki/金鍾夫 "wikilink") 2016-2019
 
-  - [薛琦鉉](../Page/薛ギ鉉.md "wikilink") 2020-
+  - [薛琦鉉](https://ja.wikipedia.org/wiki/薛琦鉉 "wikilink") 2020-
 
 ## 歴代所属選手
 

@@ -64,6 +64,8 @@
   - [2018年](../Page/2018年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink") - [sin光臨天使エンシェル･レナFD -FACE THE DESTINY-](https://ja.wikipedia.org/wiki/sin光臨天使エンシェル･レナFD_-FACE_THE_DESTINY- "wikilink")
   - [2019年](../Page/2019年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink") - [魔法戦士エメロードナイツ -絆を紡ぐ女神たち-](https://ja.wikipedia.org/wiki/魔法戦士エメロードナイツ_-絆を紡ぐ女神たち- "wikilink")
   - [2020年](../Page/2020年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink") - [神装剣姫 アークセイバー ～魔族懐胞～](https://ja.wikipedia.org/wiki/神装剣姫_アークセイバー_～魔族懐胞～ "wikilink")
+  - [2020年](../Page/2020年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink") - Triangle Complete Disc 6
+  - [2020年](../Page/2020年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink") - プリンセスクライシス\[1\]
 
 ### Delta
 
@@ -102,4 +104,7 @@
 
   -
   -
+  -
 [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink")
+
+1.

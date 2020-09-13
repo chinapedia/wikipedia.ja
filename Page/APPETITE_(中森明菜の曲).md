@@ -19,17 +19,13 @@
 
 「APPETITE」、『[歌姫伝説 〜90's BEST〜](../Page/歌姫伝説_〜90's_BEST〜.md "wikilink")』のライナー・ノーツより\[22\]\[23\]
 
-## 収録作品
+## 収録アルバム
 
   - 『[SHAKER+3](https://ja.wikipedia.org/wiki/SHAKER_\(中森明菜のアルバム\)#SHAKER+3 "wikilink")』\[24\]
   - 『[歌姫伝説 〜90's BEST〜](../Page/歌姫伝説_〜90's_BEST〜.md "wikilink")』\[25\]\[26\]
 
-## 参照
+## 脚注
 
-## 外部リンク
-
-  -
-  -
 [Category:中森明菜の楽曲](https://ja.wikipedia.org/wiki/Category:中森明菜の楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:ユニバーサルミュージックジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのシングル "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
 
 1.

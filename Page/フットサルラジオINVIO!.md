@@ -22,7 +22,7 @@
 
 ## パーソナリティ
 
-  - [竹川英紀](https://ja.wikipedia.org/wiki/竹川英紀 "wikilink")（2004年4月～）
+  - [竹川英紀](https://ja.wikipedia.org/wiki/竹川英紀 "wikilink")（ラジオNIKKEIアナウンサー。2004年4月～）
   - [小島くるみ](../Page/小島くるみ.md "wikilink")（2005年4月～）
   - [丸山葵](../Page/丸山葵.md "wikilink")（2007年4月～）
 
@@ -61,4 +61,4 @@
 
   - [FUTSAL RADIO WEB](http://www.radionikkei.jp/futsal/index.html)（番組公式サイト）
 
-[Category:フットサルのメディア](https://ja.wikipedia.org/wiki/Category:フットサルのメディア "wikilink") [Category:芸能人女子フットサル](https://ja.wikipedia.org/wiki/Category:芸能人女子フットサル "wikilink") [Category:ラジオのサッカー番組](https://ja.wikipedia.org/wiki/Category:ラジオのサッカー番組 "wikilink") [Category:ラジオNIKKEIの番組](https://ja.wikipedia.org/wiki/Category:ラジオNIKKEIの番組 "wikilink")
+[Category:フットサルのメディア](https://ja.wikipedia.org/wiki/Category:フットサルのメディア "wikilink") [Category:芸能人女子フットサル](https://ja.wikipedia.org/wiki/Category:芸能人女子フットサル "wikilink") [Category:ラジオのサッカー番組](https://ja.wikipedia.org/wiki/Category:ラジオのサッカー番組 "wikilink") [Category:ラジオNIKKEIの番組](https://ja.wikipedia.org/wiki/Category:ラジオNIKKEIの番組 "wikilink") [Category:ラジオのスポーツ番組_(日本)](https://ja.wikipedia.org/wiki/Category:ラジオのスポーツ番組_\(日本\) "wikilink")

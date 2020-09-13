@@ -831,7 +831,7 @@
 <td><p><a href="../Page/ハテム・ベン・アルファ.md" title="wikilink">ハテム・ベン・アルファ</a><br />
  <a href="https://ja.wikipedia.org/wiki/ブルーノ・ガマ" title="wikilink">ブルーノ・ガマ</a><br />
  <a href="https://ja.wikipedia.org/wiki/シェイン・ポール" title="wikilink">シェイン・ポール</a><br />
- <a href="https://ja.wikipedia.org/wiki/マルク・ペドラサ" title="wikilink">マルク・ペドラサ</a></p></td>
+ <a href="../Page/マルク・ペドラサ.md" title="wikilink">マルク・ペドラサ</a></p></td>
 <td><p>3</p></td>
 </tr>
 <tr class="even">

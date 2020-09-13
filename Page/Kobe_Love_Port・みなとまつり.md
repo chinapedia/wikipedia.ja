@@ -3,7 +3,7 @@
 
 **Kobe Love Port・みなとまつり**（こうべらぶぽーと・みなとまつり）は、2002年7月より毎年[海の日](../Page/海の日.md "wikilink")（7月20日前後）に[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[中央区の](../Page/中央区_\(神戸市\).md "wikilink")[メリケンパーク](../Page/メリケンパーク.md "wikilink")にて開催される[イベント](../Page/イベント.md "wikilink")。
 
-地元に根付く神戸の[夏まつりとなることを願って](../Page/夏祭り.md "wikilink")（社）神戸[青年会議所](https://ja.wikipedia.org/wiki/青年会議所 "wikilink")が主体となり運営されている。
+地元に根付く神戸の[夏まつりとなることを願って](../Page/夏祭り.md "wikilink")（社）神戸[青年会議所が主体となり運営されている](../Page/日本青年会議所.md "wikilink")。
 
 地元神戸にこだわったまつりを試行し、[国際都市](https://ja.wikipedia.org/wiki/国際都市 "wikilink")らしく、神戸に店をだしている飲食店が、「国際屋台」と呼ばれる世界各国の料理を食べることのできる[屋台](../Page/屋台.md "wikilink")を数多く出店している。
 

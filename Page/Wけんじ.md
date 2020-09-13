@@ -1,7 +1,7 @@
 > この記事は[Wけんじ](https://ja.wikipedia.org/wiki/Wけんじ)から翻訳されています。
 
 
-**Wけんじ**（ダブルけんじ、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（[昭和](../Page/昭和.md "wikilink")36年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [1999年](../Page/1999年.md "wikilink")（[平成](../Page/平成.md "wikilink")11年）[1月7日](../Page/1月7日.md "wikilink")）は、[東けんじ](../Page/東けんじ.md "wikilink")、[宮城けんじ](../Page/宮城けんじ.md "wikilink")による日本の[漫才](../Page/漫才.md "wikilink")コンビ。通称「ダブケン」。師匠は東京漫才の始祖といわれる「[東喜代駒・駒千代](https://ja.wikipedia.org/wiki/東喜代駒・駒千代 "wikilink")」。
+**Wけんじ**（ダブルけんじ）は、[東けんじ](../Page/東けんじ.md "wikilink")、[宮城けんじ](../Page/宮城けんじ.md "wikilink")による日本の[漫才](../Page/漫才.md "wikilink")コンビ。通称「ダブケン」。師匠は東京漫才の始祖といわれる「[東喜代駒・駒千代](https://ja.wikipedia.org/wiki/東喜代駒・駒千代 "wikilink")」。
 
 ## メンバー
 
@@ -158,7 +158,7 @@ A面「ダブ子ちゃん」／B面「おしかった」（作詞：丹古晴己
 
 ## 脚注
 
-[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:漫才](https://ja.wikipedia.org/wiki/Category:漫才 "wikilink")
+[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:漫才](https://ja.wikipedia.org/wiki/Category:漫才 "wikilink") [Category:東一門](https://ja.wikipedia.org/wiki/Category:東一門 "wikilink") [Category:W一門](https://ja.wikipedia.org/wiki/Category:W一門 "wikilink")
 
 1.
 2.

@@ -91,11 +91,11 @@
 5.
 6.
 7.
-8.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊「[PATi PATi](https://ja.wikipedia.org/wiki/PATi_PATi "wikilink")」1993年3月号90Pより。
+8.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊「[PATi PATi](https://ja.wikipedia.org/wiki/PATi_PATi "wikilink")」1993年3月号「trf TK RAVE FACTORY TETSUYA KOMURO」90Pより。
 9.
 10.
 11. [角川書店](../Page/角川書店.md "wikilink")刊『[月刊カドカワ](../Page/月刊カドカワ.md "wikilink")』1995年5月号233Pより。
-12. [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』1993年4月号162Pより。
+12. [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』1993年4月号「『trf 〜THIS IS THE TRUTH〜』セルフライナーノーツ」162Pより。
 13.
 14.
 15.

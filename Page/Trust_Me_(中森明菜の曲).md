@@ -17,15 +17,16 @@
 
 ## 収録曲
 
-## 収録作品
+## 収録アルバム
 
-  - 「Trust Me」 - 『[will](https://ja.wikipedia.org/wiki/will_\(中森明菜のアルバム\) "wikilink")』\[17\]
+  - Trust Me
 
-## 参照
+<!-- end list -->
 
-## 外部リンク
+  - 『[will](https://ja.wikipedia.org/wiki/will_\(中森明菜のアルバム\) "wikilink")』\[17\]
 
-  -
+## 脚注
+
 [Category:中森明菜の楽曲](https://ja.wikipedia.org/wiki/Category:中森明菜の楽曲 "wikilink") [Category:原一博が制作した楽曲](https://ja.wikipedia.org/wiki/Category:原一博が制作した楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:徳間ジャパンコミュニケーションズのシングル](https://ja.wikipedia.org/wiki/Category:徳間ジャパンコミュニケーションズのシングル "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")
 
 1.

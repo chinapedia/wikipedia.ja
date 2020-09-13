@@ -1,11 +1,11 @@
 > この記事は[日産・NXクーペ](https://ja.wikipedia.org/wiki/日産・NXクーペ)から翻訳されています。
 
 
-**NXクーペ**（エヌエックスクーペ）は、[日産自動車](../Page/日産自動車.md "wikilink")が[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から[1994年](../Page/1994年.md "wikilink")まで製造販売していた[自動車](../Page/自動車.md "wikilink")である。
+**NXクーペ**（エヌエックスクーペ）は、[日産自動車](../Page/日産自動車.md "wikilink")が[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から[1994年](../Page/1994年.md "wikilink")まで製造販売していた[クーペ](../Page/クーペ.md "wikilink")型の[小型自動車](../Page/小型自動車.md "wikilink")である。
 
 ## 概要
 
-同時期に販売されていた[サニーB](../Page/日産・サニー.md "wikilink")13型（7代目）をベースにした[クーペ](../Page/クーペ.md "wikilink")タイプの[乗用車](../Page/乗用車.md "wikilink")で、[トヨタ・サイノス](../Page/トヨタ・サイノス.md "wikilink")同様、廉価でおしゃれな「[セクレタリーカー](../Page/秘書.md "wikilink")」として[開発](../Page/開発.md "wikilink")された。当時販売されていた[180SX](https://ja.wikipedia.org/wiki/180SX "wikilink")をそのまま小さくしたようなデザインが特徴的である。
+同時期に販売されていた[サニーB](../Page/日産・サニー.md "wikilink")13型（7代目）をベースにしたクーペタイプの[乗用車](../Page/乗用車.md "wikilink")で、[トヨタ・サイノス](../Page/トヨタ・サイノス.md "wikilink")同様、廉価でおしゃれな「[スペシャルティカー](../Page/スペシャルティカー.md "wikilink")」または「[セクレタリーカー](../Page/秘書.md "wikilink")」として[開発](../Page/開発.md "wikilink")された。当時販売されていた[180SXを縮小したようなデザインが特徴的である](../Page/日産・180SX.md "wikilink")。
 
 先代の[サニークーペRZ-1とは打って変わり](../Page/日産・サニーRZ-1.md "wikilink")、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンディエゴ](../Page/サンディエゴ.md "wikilink")の「日産デザインインターナショナル（NDI、現・[NDA](https://ja.wikipedia.org/wiki/NDA "wikilink")）」で[スタイリングされた外観は](../Page/インダストリアルデザイン.md "wikilink")、[フェアレディZ（Z32）と共通のデザインテイストを持たせており](../Page/日産・フェアレディZ.md "wikilink")、丸みを帯びたカジュアルなスタイリングと、へこんだオーバルシェイプの[ヘッドランプが特徴となった](../Page/前照灯.md "wikilink")。
 
@@ -39,6 +39,6 @@
 
   - [GAZOO.com 日産・NXクーペ](http://gazoo.com/car/newcar/vehicle_info/Pages/detail.aspx?MAKER_CD=B&CARTYPE_CD=A04&GENERATION=-1&NEWS_ID=BA04-1990005493)
 
-[Category:日産の車種](https://ja.wikipedia.org/wiki/Category:日産の車種 "wikilink") [Category:クーペ](https://ja.wikipedia.org/wiki/Category:クーペ "wikilink")
+[Category:日産の車種](https://ja.wikipedia.org/wiki/Category:日産の車種 "wikilink") [Category:クーペ](https://ja.wikipedia.org/wiki/Category:クーペ "wikilink") [Category:スペシャルティカー](https://ja.wikipedia.org/wiki/Category:スペシャルティカー "wikilink")
 
 1.  [出るのが早かったのか失敗作か\!? 販売台数が低迷した車5選（1頁）](https://kuruma-news.jp/post/175096/) - くるまのニュース 2019年9月7日

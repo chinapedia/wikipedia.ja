@@ -79,19 +79,11 @@ ZIPやgzipの電子ファイルを圧縮するとき、7-Zipは自家製の[Defl
 
 ## 外部リンク
 
-  - [7-zip.org](https://www.7-zip.org/)（公式サイト）
-  - [the P7ZIP Home](http://p7zip.sourceforge.net/)
-  - [SourceForge.net](https://sourceforge.net/)
-      - [SourceForge.net: 7-Zip](https://sourceforge.net/projects/sevenzip/)
-      - [SourceForge.net: p7zip](https://sourceforge.net/projects/p7zip/)
-  - [sevenzip.osdn.jp](https://sevenzip.osdn.jp)（日本語公式サイト）
-  - [OSDN](https://osdn.jp/)
-      - [7-Zip — OSDN.JP](https://osdn.jp/projects/sevenzip/)
-          - [7-Zip Wiki — OSDN.JP](https://osdn.jp/projects/sevenzip/wiki/)
-  - [PortableApps.com](https://portableapps.com/)
-      - [7-Zip Portable | PortableApps.com](https://portableapps.com/apps/utilities/7-zip_portable)
-  - [7-Zip .NET wrapper](https://archive.codeplex.com/?p=sevenzipsharp)
+  -
+  -
 
+  -
+  -
 [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:解凍ソフト](https://ja.wikipedia.org/wiki/Category:解凍ソフト "wikilink") [Category:1999年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1999年のソフトウェア "wikilink")
 
 1.  [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")、[Solaris](../Page/Solaris.md "wikilink") など。

@@ -48,7 +48,7 @@
 
 ## 外部リンク
 
-  - [TBSチャンネル](http://www.tbs.co.jp/tbs-ch/)
+  - [TBSチャンネル](https://www.tbs.co.jp/tbs-ch/)
   - [TBSチャンネル・出水麻衣のチャンネルガイド](https://web.archive.org/web/20061108032713/http://www.tbs.co.jp/tbs-ch/lineup/v1190.html)
 
 [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:TBSチャンネル](https://ja.wikipedia.org/wiki/Category:TBSチャンネル "wikilink") [Category:広報・番組宣伝番組](https://ja.wikipedia.org/wiki/Category:広報・番組宣伝番組 "wikilink") [Category:TBSの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:TBSの情報・ワイドショー番組 "wikilink")

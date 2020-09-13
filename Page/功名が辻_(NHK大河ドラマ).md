@@ -67,7 +67,7 @@
     一豊夫妻の長女。待望の我が子と夫婦共に喜び成長を見守っていたが、[大地震により幼い命を落とす](../Page/天正地震.md "wikilink")。
   - [湘南](../Page/湘南宗化.md "wikilink")（しょうなん）
     （拾 → 湘南）
-    演：[三浦春馬](https://ja.wikipedia.org/wiki/三浦春馬 "wikilink")（幼少期：[泉澤祐希](../Page/泉澤祐希.md "wikilink")）
+    演：[三浦春馬](../Page/三浦春馬.md "wikilink")（幼少期：[泉澤祐希](../Page/泉澤祐希.md "wikilink")）
     幼名は拾（ひろい）。捨て子であったが一豊夫妻が養育する。跡目を継がせようとするが、その件で「実子ではない」という理由から家臣たちの猛反対に遭い、一豊夫妻が止む無く出家させ、僧になる。その後、一豊が[一領具足](../Page/一領具足.md "wikilink")の頭目たちを謀殺したことに失望し、彼のもとを離れようとしていた千代のもとに現れ、「寛猛自在」という言葉について説いて千代を慰留した。
   - 於美（およし）
     演：[眞野裕子](../Page/眞野裕子.md "wikilink")
@@ -227,7 +227,7 @@
   - 菊（きく）
     演：[橋口恵莉奈](../Page/橋口恵莉奈.md "wikilink")
     光秀の次女。
-  - [明智光春](https://ja.wikipedia.org/wiki/明智光春 "wikilink")（あけち みつはる）/[溝尾勝兵衛](../Page/溝尾茂朝.md "wikilink")（みぞお しょうべえ）
+  - [明智光春](../Page/明智秀満.md "wikilink")（あけち みつはる）/[溝尾勝兵衛](../Page/溝尾茂朝.md "wikilink")（みぞお しょうべえ）
     演：[冨家規政](../Page/冨家規政.md "wikilink")（光春） / 演：[吉野正弘](https://ja.wikipedia.org/wiki/吉野正弘 "wikilink")（前期：[杉山聡](https://ja.wikipedia.org/wiki/杉山聡 "wikilink")）（溝尾）
     明智家臣。
 
@@ -274,7 +274,7 @@
     （拾 → 豊臣秀頼）
     演：[石黒英雄](../Page/石黒英雄.md "wikilink")（幼少期：[丸山歩夢](../Page/丸山歩夢.md "wikilink") / 少年期：[広田亮平](../Page/広田亮平.md "wikilink")）
     秀吉の次男。
-  - [やや](https://ja.wikipedia.org/wiki/長生院 "wikilink")
+  - [やや](https://ja.wikipedia.org/wiki/長生院_\(浅野長政正室\) "wikilink")
     演：[真由子](../Page/真由子.md "wikilink")
     寧々の実妹。
   - [浅野又右衛門](../Page/浅野長勝.md "wikilink")（あさの またえもん）
@@ -345,7 +345,7 @@
   - [前田利家](../Page/前田利家.md "wikilink")（まえだ としいえ）
     演：[唐沢寿明](../Page/唐沢寿明.md "wikilink")\[9\]
     五大老の一人。秀吉が失禁した際には機転を利かせて秀頼がしくじったように見せかけた。秀吉没後は家康に対抗できる唯一の存在だったが、翌年病死した。
-  - [不破万作](https://ja.wikipedia.org/wiki/不破万作_\(小姓\) "wikilink")（ふわ ばんさく）
+  - [不破万作](../Page/不破万作_\(小姓\).md "wikilink")（ふわ ばんさく）
     演：[浅利陽介](../Page/浅利陽介.md "wikilink")
     豊臣秀次の小姓。
   - [木村常陸介](../Page/木村重茲.md "wikilink")（きむら ひたちのすけ）
@@ -643,7 +643,7 @@
     千代の幼馴染。千代の父・喜助に仕えていたが喜助の死後、喜助を打ち抜いた弾丸を届けにやってきた。しかし、夜盗から千代を救うとしばらく行方不明となる。千代への思いと一豊へのサポートに徹する狭間で葛藤し悩みながらも陰から千代・一豊を見守る。[関ヶ原の戦い](https://ja.wikipedia.org/wiki/関ヶ原の戦い "wikilink")の後は山内家の傘下に入り、土佐平定のため土佐の豪族([一領具足](../Page/一領具足.md "wikilink"))を粛清する計画を打ち出す。計画は成功するも罪の意識に苛まれ、千代に自らの恋心を打ち明けた後にかつて喜助を打ち抜いたもう一つの弾丸を呑み服毒自殺。死後一豊に「私にとって軍師であった」と評される。
   - 小りん（こりん）
     演：[長澤まさみ](https://ja.wikipedia.org/wiki/長澤まさみ "wikilink")
-    甲賀の忍。織田の動向を探るため一豊に接近。誘惑に負けた一豊は肉体関係を結んだ上、機密を漏らしてしまう。しかし小りんは一豊の正直さに惚れ、度々戦場に現れては一豊を救ったりした。また六平太の妻であると偽って一豊の家に夜這いを敢行、一豊を誘惑しようとしたこともある。後に千代の公認の下、一豊の子どもを産む計画が持ち上がったが、一豊にはねつけられた上、千代が懐妊したこともあり、山内家を去る。[荒木村重](../Page/荒木村重.md "wikilink")の謀反の際、一豊のために[別所長治](../Page/別所長治.md "wikilink")の城に忍び込むが兵糧攻めに遭い失明。戦の後に一豊と再会するも、真っ直ぐな性格だった一豊が秀吉の命とはいえ、正攻法ではない兵糧攻めを実行したことに幻滅。
+    甲賀の忍。織田の動向を探るため一豊に接近。誘惑に負けた一豊は肉体関係を結んだ上に機密を漏らしてしまうが、一豊の正直さに惚れ、度々戦場に現れては一豊を救う。また六平太の妻であると偽って一豊の家に夜這いを敢行、一豊を誘惑しようとしたこともある。後に千代の公認の下、一豊の子どもを産む計画が持ち上がったが、一豊にはねつけられた上、千代が懐妊したこともあり、山内家を去る。[荒木村重](../Page/荒木村重.md "wikilink")の謀反の際、一豊のために[別所長治](../Page/別所長治.md "wikilink")の城に忍び込むが兵糧攻めに遭い失明。戦の後に一豊と再会するも、真っ直ぐな性格だった一豊が秀吉の命令であったとはいえ、正攻法ではない兵糧攻めを実行した際には幻滅する。
 
 ### その他の人々
 
@@ -1137,18 +1137,18 @@
   - [NHKオンデマンド 大河ドラマ 功名が辻](https://www.nhk-ondemand.jp/program/P201000069600000/index.html)（2016年11月30日まで）
   - [大河ドラマ 功名が辻 - NHK名作選（動画・静止画） NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010533_00000)
 
-[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:2006年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2006年のテレビドラマ "wikilink") [Category:NHK高知](https://ja.wikipedia.org/wiki/Category:NHK高知 "wikilink") [Category:大石静脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:大石静脚本のテレビドラマ "wikilink") [Category:司馬遼太郎原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:司馬遼太郎原作のテレビドラマ "wikilink") [Category:山内土佐守家](https://ja.wikipedia.org/wiki/Category:山内土佐守家 "wikilink") [Category:戦国時代_(日本)を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:戦国時代_\(日本\)を舞台としたテレビドラマ "wikilink") [Category:安土桃山時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:安土桃山時代を舞台としたテレビドラマ "wikilink") [Category:江戸時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:江戸時代を舞台としたテレビドラマ "wikilink") [Category:滋賀県を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:滋賀県を舞台としたテレビドラマ "wikilink") [Category:文禄・慶長の役を題材とした作品](https://ja.wikipedia.org/wiki/Category:文禄・慶長の役を題材とした作品 "wikilink") [Category:NHKオンデマンド配信番組](https://ja.wikipedia.org/wiki/Category:NHKオンデマンド配信番組 "wikilink") [Category:テレビドラマ連動データ放送](https://ja.wikipedia.org/wiki/Category:テレビドラマ連動データ放送 "wikilink")
+[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:2006年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2006年のテレビドラマ "wikilink") [Category:NHK高知](https://ja.wikipedia.org/wiki/Category:NHK高知 "wikilink") [Category:大石静脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:大石静脚本のテレビドラマ "wikilink") [Category:司馬遼太郎原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:司馬遼太郎原作のテレビドラマ "wikilink") [Category:山内土佐守家](https://ja.wikipedia.org/wiki/Category:山内土佐守家 "wikilink") [Category:日本の戦国時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:日本の戦国時代を舞台としたテレビドラマ "wikilink") [Category:安土桃山時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:安土桃山時代を舞台としたテレビドラマ "wikilink") [Category:江戸時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:江戸時代を舞台としたテレビドラマ "wikilink") [Category:滋賀県を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:滋賀県を舞台としたテレビドラマ "wikilink") [Category:文禄・慶長の役を題材とした作品](https://ja.wikipedia.org/wiki/Category:文禄・慶長の役を題材とした作品 "wikilink") [Category:NHKオンデマンド配信番組](https://ja.wikipedia.org/wiki/Category:NHKオンデマンド配信番組 "wikilink") [Category:テレビドラマ連動データ放送](https://ja.wikipedia.org/wiki/Category:テレビドラマ連動データ放送 "wikilink")
 
 1.  [1973年](../Page/1973年.md "wikilink")放送の『[国盗り物語](../Page/国盗り物語_\(NHK大河ドラマ\).md "wikilink")』においても、原作の一つとして使用されている
 2.  木嵜正弘編『NHK大河ドラマ・ストーリー 功名が辻 前編』日本放送出版協会、2006年、107頁。
 3.
 4.  [ビデオリサーチ NHK大河ドラマ 過去の視聴率データ](http://www.videor.co.jp/data/ratedata/program/03taiga.htm)
 5.
-6.  本作において[舘ひろし](../Page/舘ひろし.md "wikilink")が着た衣装は翌年の大河ドラマ『[風林火山](../Page/風林火山_\(NHK大河ドラマ\).md "wikilink")』において[佐久間二郎](https://ja.wikipedia.org/wiki/佐久間二郎 "wikilink")（本作では地謡を担当）も着ている。
+6.  本作において舘が着た衣装は、翌年の『[風林火山](../Page/風林火山_\(NHK大河ドラマ\).md "wikilink")』において[佐久間二郎](https://ja.wikipedia.org/wiki/佐久間二郎 "wikilink")（本作では地謡を担当）も着ている。
 7.  当初予定は[杉田かおる](../Page/杉田かおる.md "wikilink")。
 8.  大谷吉継と二役。
 9.  『[利家とまつ〜加賀百万石物語〜](../Page/利家とまつ〜加賀百万石物語〜.md "wikilink")』と同じ役での出演。
-10. 大野治長と二役。
+10. 大野治長と二役。当初予定は泷沢秀明。
 11. 殺陣武術指導を兼ねる。
 12. 茶道指導を兼ねる。
 13. 竹之内五左衛門役を兼ねる。前年の『[義経](../Page/義経_\(NHK大河ドラマ\).md "wikilink")』に続きゲスト出演している。

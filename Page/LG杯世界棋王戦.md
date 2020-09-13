@@ -26,27 +26,27 @@
 
 1.  1997年 [李昌鎬](../Page/李昌鎬.md "wikilink")（韓国） 3-0 劉昌赫（韓国）（李昌鎬-馬暁春、劉昌赫-[崔明勲](../Page/崔明勲.md "wikilink")）
 2.  1998年 [王立誠](../Page/王立誠.md "wikilink")（日本） 3-2 劉昌赫（韓国）（王立誠-崔明勲、劉昌赫-李昌鎬）
-3.  1999年 李昌鎬（韓国） 3-0 [馬暁春](../Page/馬暁春.md "wikilink")（中国）（李昌鎬-[邵煒剛](https://ja.wikipedia.org/wiki/邵煒剛 "wikilink")、馬暁春-兪斌）
+3.  1999年 李昌鎬（韓国） 3-0 [馬暁春](../Page/馬暁春.md "wikilink")（中国）（李昌鎬-[邵煒剛](../Page/邵煒剛.md "wikilink")、馬暁春-兪斌）
 4.  2000年 [兪斌](../Page/兪斌.md "wikilink")（中国） 3-1 劉昌赫（韓国）（兪斌-曺薫鉉、劉昌赫-李昌鎬）
 5.  2001年 李昌鎬（韓国） 3-2 李世乭（韓国）（李昌鎬-王立誠、李世乭-[周鶴洋](../Page/周鶴洋.md "wikilink")）
-6.  2002年 [劉昌赫](../Page/劉昌赫.md "wikilink")（韓国） 3-2 [曺薫鉉](https://ja.wikipedia.org/wiki/曺薫鉉 "wikilink")（韓国）（劉昌赫-李世乭、曺薫鉉-李昌鎬）
-7.  2003年 [李世乭](../Page/李世ドル.md "wikilink")（韓国） 3-1 李昌鎬（韓国）（李世乭-趙漢乗、李昌鎬-元晟湊）
-8.  2004年 李昌鎬（韓国） 3-1 [睦鎮碩](../Page/睦鎮碩.md "wikilink")（韓国）（李昌鎬-元晟湊、睦鎮碩-趙漢乗）
+6.  2002年 [劉昌赫](../Page/劉昌赫.md "wikilink")（韓国） 3-2 [曺薫鉉](../Page/曺薫鉉.md "wikilink")（韓国）（劉昌赫-李世乭、曺薫鉉-李昌鎬）
+7.  2003年 [李世乭](../Page/李世ドル.md "wikilink")（韓国） 3-1 李昌鎬（韓国）（李世乭-趙漢乗、李昌鎬-元晟溱）
+8.  2004年 李昌鎬（韓国） 3-1 [睦鎮碩](../Page/睦鎮碩.md "wikilink")（韓国）（李昌鎬-元晟溱、睦鎮碩-趙漢乗）
 9.  2005年 [張栩](../Page/張栩.md "wikilink")（日本） 3-1 兪斌（中国）（張栩-趙漢乗、兪斌-李昌鎬）
-10. 2006年 [古力](../Page/古力.md "wikilink")（中国） 3-2 [陳耀燁](../Page/陳耀ヨウ.md "wikilink")（中国）（古力-李世乭、陳耀燁-朴文尭）
-11. 2007年 [周俊勲](../Page/周俊勲.md "wikilink") （台湾）2-1 [胡耀宇](../Page/胡耀宇.md "wikilink")（中国）（周俊勲-趙漢乗、胡耀宇-[洪旼杓](https://ja.wikipedia.org/wiki/洪ミン杓 "wikilink")）
+10. 2006年 [古力](../Page/古力.md "wikilink")（中国） 3-2 [陳耀燁](https://ja.wikipedia.org/wiki/陳耀燁 "wikilink")（中国）（古力-李世乭、陳耀燁-朴文尭）
+11. 2007年 [周俊勲](../Page/周俊勲.md "wikilink") （台湾）2-1 [胡耀宇](../Page/胡耀宇.md "wikilink")（中国）（周俊勲-趙漢乗、胡耀宇-[洪旼杓](https://ja.wikipedia.org/wiki/洪旼杓 "wikilink")）
 12. 2008年 李世乭（韓国） 2-1 [韓尚勲](../Page/韓尚勲.md "wikilink")（韓国）（李世乭-胡耀宇、韓尚勲-[温昭珍](https://ja.wikipedia.org/wiki/温昭珍 "wikilink")）
 13. 2009年 古力（中国） 2-0 李世乭（韓国）（古力-李昌鎬、李世乭-朴永訓）
 14. 2010年 [孔傑](../Page/孔傑.md "wikilink")（中国） 2-0 李昌鎬（韓国）（孔傑-朴永訓、李昌鎬-朴文尭）
 15. 2011年 [朴文尭](https://ja.wikipedia.org/wiki/朴文尭 "wikilink")（中国） 2-0 孔傑（中国）（朴文尭-[王尭](https://ja.wikipedia.org/wiki/王尭 "wikilink")、孔傑-[孟泰齢](https://ja.wikipedia.org/wiki/孟泰齢 "wikilink")）
 16. 2012年 [江維傑](https://ja.wikipedia.org/wiki/江維傑 "wikilink")（中国） 2-0 李昌鎬（韓国）（江維傑-金志錫、李昌鎬-[謝赫](https://ja.wikipedia.org/wiki/謝赫_\(囲碁\) "wikilink")）
-17. 2013年 [時越](https://ja.wikipedia.org/wiki/時越 "wikilink")（中国） 2-0 [元晟湊](https://ja.wikipedia.org/wiki/元晟湊 "wikilink")（韓国）（時越-姜東潤、元晟湊-[崔哲瀚](../Page/崔哲瀚.md "wikilink")）
+17. 2013年 [時越](https://ja.wikipedia.org/wiki/時越 "wikilink")（中国） 2-0 [元晟溱](https://ja.wikipedia.org/wiki/元晟溱 "wikilink")（韓国）（時越-姜東潤、元晟溱-[崔哲瀚](../Page/崔哲瀚.md "wikilink")）
 18. 2014年 [柁嘉熹](https://ja.wikipedia.org/wiki/柁嘉熹 "wikilink")（中国） 2-1 [周睿羊](https://ja.wikipedia.org/wiki/周睿羊 "wikilink")（中国）（柁嘉熹-[李喆](https://ja.wikipedia.org/wiki/李テツ_\(囲碁棋士\) "wikilink")、周睿羊-陳耀燁）
 19. 2015年 [朴廷桓](https://ja.wikipedia.org/wiki/朴廷桓 "wikilink")（韓国） 2-1 [金志錫](https://ja.wikipedia.org/wiki/金志錫 "wikilink")（韓国）（朴廷桓-朴永訓、金志錫-崔哲瀚）
 20. 2016年 [姜東潤](https://ja.wikipedia.org/wiki/姜東潤 "wikilink")（韓国） 2-1 [朴永訓](../Page/朴永訓.md "wikilink")（韓国）（姜東潤-時越、朴永訓-柁嘉熹）
 21. 2017年 [党毅飛](https://ja.wikipedia.org/wiki/党毅飛 "wikilink")（中国） 2-0 周睿羊（中国）（党毅飛 - [申眞諝](https://ja.wikipedia.org/wiki/申眞諝 "wikilink")、周睿羊 - 朴廷桓）
 22. 2018年 [謝爾豪](https://ja.wikipedia.org/wiki/謝爾豪 "wikilink")（中国） 2-1 [井山裕太](https://ja.wikipedia.org/wiki/井山裕太 "wikilink")（日本）（謝爾豪 - 江維傑、井山裕太 - [柯潔](https://ja.wikipedia.org/wiki/柯潔 "wikilink")）
-23. 2019年 [楊鼎新](https://ja.wikipedia.org/wiki/楊鼎新 "wikilink")（中国） 2-1 時越（中国）（楊鼎新 - [申旻埈](https://ja.wikipedia.org/wiki/申旻ジュン "wikilink")、時越 - [范廷鈺](https://ja.wikipedia.org/wiki/范廷ギョク "wikilink")）
+23. 2019年 [楊鼎新](https://ja.wikipedia.org/wiki/楊鼎新 "wikilink")（中国） 2-1 時越（中国）（楊鼎新 - [申旻埈](https://ja.wikipedia.org/wiki/申旻埈 "wikilink")、時越 - [范廷鈺](https://ja.wikipedia.org/wiki/范廷鈺 "wikilink")）
 24. 2020年 [申眞諝](https://ja.wikipedia.org/wiki/申眞諝 "wikilink")（韓国） 2-0 朴廷桓（韓国）（申眞諝 - 柯潔、朴廷桓 - [陶欣然](https://ja.wikipedia.org/wiki/陶欣然 "wikilink")）
 
 ## エキジビジョン

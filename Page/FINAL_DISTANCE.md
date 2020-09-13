@@ -26,7 +26,7 @@
 3.  **DISTANCE -[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink") remix-** (5:57)
       -
         編曲:[河野伸](../Page/河野伸.md "wikilink")（ストリングス・アレンジ）、
-        produced by TAKU (m-flo)
+        produced by [TAKU](https://ja.wikipedia.org/wiki/☆Taku_Takahashi "wikilink") (m-flo)
 4.  **[DISTANCE](../Page/Distance_\(宇多田ヒカルのアルバム\).md "wikilink")** (5:42)
       -
         編曲:河野圭、宇多田ヒカル

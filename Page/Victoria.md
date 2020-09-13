@@ -73,4 +73,4 @@ Victoria IIの拡張パック第二段。[2013年](../Page/2013年.md "wikilink"
   -
   -
   -
-[Category:パラドックスインタラクティブの歴史シミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:パラドックスインタラクティブの歴史シミュレーションゲーム "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:ヴィクトリア朝を舞台とした作品](https://ja.wikipedia.org/wiki/Category:ヴィクトリア朝を舞台とした作品 "wikilink") [Category:スウェーデンで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:スウェーデンで開発されたコンピュータゲーム "wikilink")
+[Category:パラドックスインタラクティブの歴史シミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:パラドックスインタラクティブの歴史シミュレーションゲーム "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:ヴィクトリア朝を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ヴィクトリア朝を舞台としたコンピュータゲーム "wikilink") [Category:スウェーデンで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:スウェーデンで開発されたコンピュータゲーム "wikilink")

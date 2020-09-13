@@ -1,7 +1,9 @@
 > この記事は[GDPデフレーター](https://ja.wikipedia.org/wiki/GDPデフレーター)から翻訳されています。
 
 
-[GDPDeflator01.png](https://ja.wikipedia.org/wiki/File:GDPDeflator01.png "fig:GDPDeflator01.png") [経済学](../Page/経済学.md "wikilink")において、**GDPデフレーター**(GDP deflator)とは、ある国（または地域）の**名目[GDP](https://ja.wikipedia.org/wiki/GDP "wikilink")**から**実質GDP**を算出するために用いられる[物価指数](https://ja.wikipedia.org/wiki/物価指数 "wikilink")である\[1\]。名目GDPと実質GDPはそれぞれ[物価](../Page/物価.md "wikilink")変動の影響を排除していないGDPと排除したGDPであるため、その比にあたるGDPデフレーターは、物価変動の程度を表す物価指数であると解釈される。従ってGDPデフレーターの増加率がプラスであれば[インフレーション](../Page/インフレーション.md "wikilink")、マイナスであれば[デフレーション](../Page/デフレーション.md "wikilink")とみなせる。
+[GDPDeflator01.png](https://ja.wikipedia.org/wiki/File:GDPDeflator01.png "fig:GDPDeflator01.png") [経済学](../Page/経済学.md "wikilink")において、**GDPデフレーター**(GDP deflator)とは、ある経済機構において一年の間に新しく国内で生産されたすべての最終財とサービスの価格水準の指標であり、ある国（または地域）の**名目[GDP](https://ja.wikipedia.org/wiki/GDP "wikilink")**から**実質GDP**を算出するために用いられる[物価指数](https://ja.wikipedia.org/wiki/物価指数 "wikilink")である\[1\]。GDPは、国内総生産を表す。これは、ある一定の期間内（四半期または毎年）に一国の領土内で生産されたすべての最終財およびサービスの金銭的価値の合計である。名目GDPと実質GDPはそれぞれ[物価](../Page/物価.md "wikilink")変動の影響を排除していないGDPと排除したGDPであるため、その比にあたるGDPデフレーターは、物価変動の程度を表す物価指数であると解釈される。従ってGDPデフレーターの増加率がプラスであれば[インフレーション](../Page/インフレーション.md "wikilink")、マイナスであれば[デフレーション](../Page/デフレーション.md "wikilink")とみなせる。
+
+消費者物価指数（CPI）と同様に、GDPデフレーターは特定の基準年に関する物価インフレ/デフレの指標であり、基準年のGDPデフレーターそれ自体は100になる。CPIとは異なり、GDPデフレーターは商品やサービスの単一の固定的な集合に基づいていない。GDPデフレーターの検体は、人々の消費と投資のパターンによって年ごとに変更することができる。
 
 ## 算出
 

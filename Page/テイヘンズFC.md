@@ -658,18 +658,32 @@
 <tr class="odd">
 <td><p>2018</p></td>
 <td><p>石川県1部</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p>28</p></td>
+<td><p>10</p></td>
+<td><p>9</p></td>
+<td><p>1</p></td>
+<td><p>0</p></td>
+<td><p>34</p></td>
+<td><p>2</p></td>
+<td><p>32</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2019</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p>27</p></td>
+<td><p>9</p></td>
+<td><p>9</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>40</p></td>
+<td><p>3</p></td>
+<td><p>37</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -851,7 +865,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>11</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/奥村和広（サッカー選手）" title="wikilink">奥村和広</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/奥村和広_(サッカー選手)" title="wikilink">奥村和広</a></p></td>
 <td><p><a href="../Page/石川県立金沢西高等学校.md" title="wikilink">金沢西高校</a></p></td>
 <td></td>
 <td></td>
@@ -949,10 +963,9 @@
 
 ## 外部リンク
 
-  - [テイヘンズFC公式サイト](http://sports.geocities.jp/teihensfc11/)
-
   -
-  - [下部組織 テイヘンズFCジュニア金沢](http://www.teihens-fc.com)
+  -
+  - [下部組織 テイヘンズFCジュニア金沢](http://www.teihens-fc.com/)
 
   - [北信越リーグ](http://refolm-hfl.appspot.com/team_data.jsp?teamid=5)
 

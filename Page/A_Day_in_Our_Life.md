@@ -23,7 +23,7 @@ PVの監督は、「[A・RA・SHI](../Page/A・RA・SHI.md "wikilink")」、「[
       - 櫻井翔出演 映画『[木更津キャッツアイ 日本シリーズ](../Page/木更津キャッツアイ_日本シリーズ.md "wikilink")』・『[木更津キャッツアイ ワールドシリーズ](../Page/木更津キャッツアイ_ワールドシリーズ.md "wikilink")』主題歌
     <!-- end list -->
       -
-        Bメロからサビに掛けて、[ラップ](../Page/ラップ.md "wikilink")と[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の掛け合いになっている。
+        ボーカルパート組とラップパート組に分かれており、ボーカルパートを大野、松本(一部ラップハモリ)、ラップパートを櫻井、二宮、相葉が担当している。
         事務所の先輩である[少年隊](../Page/少年隊.md "wikilink")7thシングル「[ABC](https://ja.wikipedia.org/wiki/ABC_\(少年隊の曲\) "wikilink")」を[サンプリング](../Page/サンプリング.md "wikilink")している。
         ドラマの[エンディング](https://ja.wikipedia.org/wiki/エンディング "wikilink")で放送されたものは、[イントロ](https://ja.wikipedia.org/wiki/イントロ "wikilink")など前半部分がドラマ用に[アレンジされており](../Page/編曲.md "wikilink")、CDの収録バージョンとは異なる。なお、ドラマで放送されたバージョンは現時点でも未作品化になっている。
         2020年リリースのデジタルEP「[Reborn Vol.1](../Page/Reborn_Vol.1.md "wikilink")」には、この曲をリプロダクションした「**a Day in Our Life : Reborn**」が収録される。
@@ -50,5 +50,12 @@ PVの監督は、「[A・RA・SHI](../Page/A・RA・SHI.md "wikilink")」、「[
   - [5×5 THE BEST SELECTION OF 2002←2004](../Page/5×5_THE_BEST_SELECTION_OF_2002←2004.md "wikilink")
   - [5×10 All the BEST\! 1999-2009](https://ja.wikipedia.org/wiki/5×10_All_the_BEST!_1999-2009 "wikilink")
   - [5×20 All the BEST\!\! 1999-2019](https://ja.wikipedia.org/wiki/5×20_All_the_BEST!!_1999-2019 "wikilink")
+
+## 外部リンク
+
+  - [A Day in Our Life](https://www.j-storm.co.jp/arashi/discography/a-day-in-our-life) - J Stormによる紹介ページ
+  - [A Day in Our Life](https://www.johnnys-net.jp/page?id=discoDetail&artist=10&data=149) - Johnny's netによる紹介ページ
+  - [a Day in Our Life:Reborn](https://www.j-storm.co.jp/arashi/discography/reborn-vol-1) - J Stormによる紹介ページ
+  - [a Day in Our Life:Reborn](https://www.johnnys-net.jp/page?id=discoDetail&artist=10&data=2313) - Johnny's netによる紹介ページ
 
 [Category:嵐の楽曲](https://ja.wikipedia.org/wiki/Category:嵐の楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:ジェイ・ストームの楽曲](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームの楽曲 "wikilink") [Category:2002年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2002年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:TBS金曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:TBS金曜ドラマの主題歌 "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")

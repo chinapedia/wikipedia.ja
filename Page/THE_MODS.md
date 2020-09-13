@@ -226,10 +226,16 @@
 ## 外部リンク
 
   - [Crazy Com World](http://www.themods.jp/) - 公式ウェブサイト
+
   - [ROCKAHOLIC MAILORDER](http://www.rockaholic.info/)
+
   - [DUDE TONE](http://dude-tone.com/)
+
   - [THE MODS｜SonyMusic](http://www.110107.com/mob/pageShw.php?site=OTONANO&ima=2331&cd=mods)
 
+  -
+  -
+  -
 [Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink") [Category:徳間ジャパンコミュニケーションズのアーティスト](https://ja.wikipedia.org/wiki/Category:徳間ジャパンコミュニケーションズのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink")
 
 1.

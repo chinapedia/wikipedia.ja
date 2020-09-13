@@ -17,9 +17,7 @@
   - JUN 4 SHOT（ジュン・フォー・ショット（本名：湯沢 潤（ゆざわじゅん））、[1975年](../Page/1975年.md "wikilink") - ）Dee jay（ディージェイ）
   - :[MIGHTY CROWNのMASTA](https://ja.wikipedia.org/wiki/MIGHTY_CROWN "wikilink") SIMON, SAMI-T兄弟とは従兄弟の関係になる。
   - CHOZEN LEE（チョーゼン・リー（本名：李夏碩(LEE HA SEOK)）、[1975年](../Page/1975年.md "wikilink") - ）Dee jay（ディージェイ）
-  - SUPER CRISS（スーパークリス（本名：CHRIS ROBERSON ）、[1975年](../Page/1975年.md "wikilink") - ）SINGER（シンガー）
-
-yoyo-c （ヨーヨーシー） 現在ソロ活動中 バツ2 現在の嫁は20歳以上年下の美人ハーフ 不倫からのデキ婚 夫婦仲は良好
+  - SUPER CRISS（スーパークリス（本名：CHRIS ROBERSON ）、[1975年](../Page/1975年.md "wikilink") - ）
 
 ## ディスコグラフィー
 

@@ -3,9 +3,11 @@
 
 「**彩 〜Aja〜**」（あや）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の楽曲。自身の48作目の[シングル](../Page/シングル.md "wikilink")として、[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")に発売された。
 
+発売1週間後の[4月21日](../Page/4月21日.md "wikilink")には12インチレコードも発売されている。また、[2014年](../Page/2014年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")からはダウンロード配信、[2019年](../Page/2019年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")からはストリーミング配信が開始されている\[1\]\[2\]。
+
 ## 背景・リリース
 
-前作「[涙の海で抱かれたい 〜SEA OF LOVE〜](../Page/涙の海で抱かれたい_〜SEA_OF_LOVE〜.md "wikilink")」から約9か月ぶりとなるシングル。本作は4月に発売されていることもあり、**SPRING SINGLE**と[春](../Page/春.md "wikilink")に発売されていることを強調している\[1\]。
+前作「[涙の海で抱かれたい 〜SEA OF LOVE〜](../Page/涙の海で抱かれたい_〜SEA_OF_LOVE〜.md "wikilink")」から約9か月ぶりとなるシングル。本作は4月に発売されていることもあり、**SPRING SINGLE**と[春](../Page/春.md "wikilink")に発売されていることを強調している\[3\]。
 
 本作にはカップリング曲として[原由子](../Page/原由子.md "wikilink")ボーカル曲が収録されているが、作品上の名義は原由子\&ALL STARSとなっている。
 
@@ -21,11 +23,11 @@
 
   - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")（2004年11月26日、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
       -
-        「彩 〜Aja〜」「[君こそスターだ](https://ja.wikipedia.org/wiki/君こそスターだ/夢に消えたジュリア "wikilink")」「[愛と欲望の日々](../Page/愛と欲望の日々.md "wikilink")」を披露した\[2\]。
+        「彩 〜Aja〜」「[君こそスターだ](https://ja.wikipedia.org/wiki/君こそスターだ/夢に消えたジュリア "wikilink")」「[愛と欲望の日々](../Page/愛と欲望の日々.md "wikilink")」を披露した\[4\]。
 
 ## チャート成績
 
-本作は[オリコンチャート](../Page/オリコンチャート.md "wikilink")で最高1位を記録し、2003年に再発売した「[勝手にシンドバッド](../Page/勝手にシンドバッド.md "wikilink")」から3作連続首位を記録した。また、累計27.9万枚（オリコン調べ）を売り上げた\[3\]。
+本作は[オリコンチャート](../Page/オリコンチャート.md "wikilink")で最高1位を記録し、2003年に再発売した「[勝手にシンドバッド](../Page/勝手にシンドバッド.md "wikilink")」から3作連続首位を記録した。また、累計27.9万枚（オリコン調べ）を売り上げた\[5\]。
 
 ## 収録曲
 
@@ -36,16 +38,16 @@
 1.  **彩 〜Aja〜** (5:13)
     （作詞・作曲：[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")　編曲：サザンオールスターズ & 片山敦夫　管編曲：[山本拓夫](../Page/山本拓夫.md "wikilink")）
       -
-        桑田出演の[日本航空](../Page/日本航空.md "wikilink")『FLY\! JAL\!』CMソング\[4\]。
+        桑田出演の[日本航空](../Page/日本航空.md "wikilink")『FLY\! JAL\!』CMソング\[6\]。
         タイアップCMの出演は前者は桑田で、後者は[原由子](../Page/原由子.md "wikilink")がそれぞれソロで出演している。
-        歌詞は[春](../Page/春.md "wikilink")のラブソングになっており、公式サイトや自身の公式[Twitter](../Page/Twitter.md "wikilink")でも春のサウンドにのせて切なく染み入るスプリング・ソングと強調している\[5\]\[6\]。ちなみに、桑田は日本の四季の中では春が一番好きである事を公言している\[7\]。
-        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は[タイの](../Page/タイ王国.md "wikilink")[バンコク](../Page/バンコク.md "wikilink")で撮影されたものと[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スタジオ](../Page/スタジオ.md "wikilink")で撮影されたメンバーの映像が収録された。レコーディングの際にはメンバーがベトナムやタイの写真のスライドなどを見ながら製作・録音していた。MV内にはサザンと同じ[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")所属の[神木隆之介](https://ja.wikipedia.org/wiki/神木隆之介 "wikilink")が出演している。映像中に多く登場する[風車は](../Page/風車_\(玩具\).md "wikilink")[タイの地元商店で売られていたものを使用している](../Page/タイ王国.md "wikilink")\[8\]。
-        [アルバム](../Page/アルバム.md "wikilink")『[キラーストリート](../Page/キラーストリート.md "wikilink")』にはリマスタリングが施されて収録された。同アルバムの解説で、亡き父（発売年の三月に桑田の父である久司が亡くなっている\[9\]）に捧げた曲であると語っている\[10\]。Ajaは[インドネシア](../Page/インドネシア.md "wikilink")の言葉で「永遠」の意味である\[11\]。
+        歌詞は[春](../Page/春.md "wikilink")のラブソングになっており、公式サイトや自身の公式[Twitter](../Page/Twitter.md "wikilink")でも春のサウンドにのせて切なく染み入るスプリング・ソングと強調している\[7\]\[8\]。ちなみに、桑田は日本の四季の中では春が一番好きである事を公言している\[9\]。
+        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は[タイの](../Page/タイ王国.md "wikilink")[バンコク](../Page/バンコク.md "wikilink")で撮影されたものと[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スタジオ](../Page/スタジオ.md "wikilink")で撮影されたメンバーの映像が収録された。レコーディングの際にはメンバーがベトナムやタイの写真のスライドなどを見ながら製作・録音していた。MV内にはサザンと同じ[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")所属の[神木隆之介](https://ja.wikipedia.org/wiki/神木隆之介 "wikilink")が出演している。映像中に多く登場する[風車は](../Page/風車_\(玩具\).md "wikilink")[タイの地元商店で売られていたものを使用している](../Page/タイ王国.md "wikilink")\[10\]。
+        [アルバム](../Page/アルバム.md "wikilink")『[キラーストリート](../Page/キラーストリート.md "wikilink")』にはリマスタリングが施されて収録された。同アルバムの解説で、亡き父（発売年の三月に桑田の父である久司が亡くなっている\[11\]）に捧げた曲であると語っている\[12\]。Ajaは[インドネシア](../Page/インドネシア.md "wikilink")の言葉で「永遠」の意味である\[13\]。
 2.  **FRIENDS** (8:22)
     （作詞・作曲：桑田佳祐　編曲：サザンオールスターズ & 片山敦夫）
       -
         企画ユニット「[地球ゴージャス](../Page/地球ゴージャス.md "wikilink")」の[舞台](../Page/ミュージカル.md "wikilink")『クラウディア』主題歌。
-        桑田と[岸谷五朗](../Page/岸谷五朗.md "wikilink")が最初に打ち合わせをした際に岸谷がかつてニューヨークで見たミュージカル「[ヘアー](../Page/ヘアー_\(ミュージカル\).md "wikilink")」の話になったことが、この曲を作るうえでのヒントになった\[12\]\[13\]。
+        桑田と[岸谷五朗](../Page/岸谷五朗.md "wikilink")が最初に打ち合わせをした際に岸谷がかつてニューヨークで見たミュージカル「[ヘアー](../Page/ヘアー_\(ミュージカル\).md "wikilink")」の話になったことが、この曲を作るうえでのヒントになった\[14\]\[15\]。
         愛する[妹](https://ja.wikipedia.org/wiki/妹 "wikilink")との死別を描いており、前半はゆったりした曲調だが、後半は激しくなり、同じ歌詞のフレーズを繰り返す構成。
         アルバム『キラーストリート』にはリマスタリングされて収録された。
 3.  **夢見るアニバーサリー** (4:18)
@@ -125,16 +127,18 @@
 
 [Category:サザンオールスターズの楽曲](https://ja.wikipedia.org/wiki/Category:サザンオールスターズの楽曲 "wikilink") [Category:桑田佳祐が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐が制作した楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:2004年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2004年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:JALグループのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:JALグループのコマーシャルソング "wikilink") [Category:春を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:春を題材とした楽曲 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink") [Category:2004年のスプリット・シングル](https://ja.wikipedia.org/wiki/Category:2004年のスプリット・シングル "wikilink")
 
-1.  [「彩 〜Aja〜」特設サイト](http://mobile.sas-fan.net/special/Aja/detail.html) sas-fan.net 2018年11月23日閲覧
-2.  [ミュージックステーション 2004年11月26日放送](http://www.tv-asahi.co.jp/music/contents/m_lineup/0780/index.html) 2015年8月7日閲覧
-3.  [サザン、今夏52作目のニューシングル発売決定\!](http://www.oricon.co.jp/news/25386/full/) オリコン 2016年7月29日閲覧。
-4.  [日本航空「FLY\! JAL\!」](http://www.jal.com/ja/jasnews/030526.htm)
-5.  [サザンオールスターズ 彩 〜Aja〜 特設サイト](http://sas-fan.net/special/Aja/shousai/index_menu.html) 2015年12月13日閲覧
-6.  [サザンオールスターズ official 2016年4月14日19:00ツイート](https://twitter.com/sasfannet/status/720552200745852929) 2016年4月15日閲覧
-7.  [中期から後期へと駆け抜けていくサザンオールスターズの軌跡。プレミアムアルバム『海のOh, Yeah\!\!』深掘りレビュー](https://entertainmentstation.jp/259581) エンタメステーション 2018年8月9日
-8.  『[ベストヒットUSAS (Ultra Southern All Stars)](../Page/ベストヒットUSAS_\(Ultra_Southern_All_Stars\).md "wikilink")』付属ブックレット「彩 〜Aja〜」ビデオクリップ及び本編内容より
-9.  [《速報》サザン桑田の父、死去](http://www.tv-asahi.co.jp/smt/f/geinou_tokuho/hot/?id=hot_20040308_060&) テレビ朝日
-10.
-11. DVD『ベストヒットUSAS』ビクター、2004
-12. アルバム『キラーストリート』初回版ブックレットより。2005年
-13. ただし、岸谷は打ち合わせの時点であらすじなどは覚えていたものの、肝心のタイトルを覚えていなかった事がライナーノーツに記されている。
+1.  [サザン、全266曲を世界111ヶ国で配信](https://www.oricon.co.jp/news/2046030/full/) オリコン 2014年12月17日配信, 2020年6月4日閲覧
+2.  [サザン関連全972曲 サブスク一斉解禁 メンバーソロ曲も対象に](https://www.oricon.co.jp/news/2151435/full/) オリコン 2019年12月20日配信, 2019年12月20日閲覧
+3.  [「彩 〜Aja〜」特設サイト](http://mobile.sas-fan.net/special/Aja/detail.html) sas-fan.net 2018年11月23日閲覧
+4.  [ミュージックステーション 2004年11月26日放送](http://www.tv-asahi.co.jp/music/contents/m_lineup/0780/index.html) 2015年8月7日閲覧
+5.  [サザン、今夏52作目のニューシングル発売決定\!](http://www.oricon.co.jp/news/25386/full/) オリコン 2016年7月29日閲覧。
+6.  [日本航空「FLY\! JAL\!」](http://www.jal.com/ja/jasnews/030526.htm)
+7.  [サザンオールスターズ 彩 〜Aja〜 特設サイト](http://sas-fan.net/special/Aja/shousai/index_menu.html) 2015年12月13日閲覧
+8.  [サザンオールスターズ official 2016年4月14日19:00ツイート](https://twitter.com/sasfannet/status/720552200745852929) 2016年4月15日閲覧
+9.  [中期から後期へと駆け抜けていくサザンオールスターズの軌跡。プレミアムアルバム『海のOh, Yeah\!\!』深掘りレビュー](https://entertainmentstation.jp/259581) エンタメステーション 2018年8月9日
+10. 『[ベストヒットUSAS (Ultra Southern All Stars)](../Page/ベストヒットUSAS_\(Ultra_Southern_All_Stars\).md "wikilink")』付属ブックレット「彩 〜Aja〜」ビデオクリップ及び本編内容より
+11. [《速報》サザン桑田の父、死去](http://www.tv-asahi.co.jp/smt/f/geinou_tokuho/hot/?id=hot_20040308_060&) テレビ朝日
+12.
+13. DVD『ベストヒットUSAS』ビクター、2004
+14. アルバム『キラーストリート』初回版ブックレットより。2005年
+15. ただし、岸谷は打ち合わせの時点であらすじなどは覚えていたものの、肝心のタイトルを覚えていなかった事がライナーノーツに記されている。

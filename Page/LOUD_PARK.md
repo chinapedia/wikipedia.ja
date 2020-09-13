@@ -320,7 +320,7 @@ Zepp Osaka</p></th>
 <li><a href="https://ja.wikipedia.org/wiki/ヘルイェー" title="wikilink">ヘルイェー</a></li>
 <li><a href="../Page/エドガイ.md" title="wikilink">エドガイ</a></li>
 <li><a href="../Page/ソニック_(バンド).md" title="wikilink">ソニック</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ホーリー・グレイル" title="wikilink">ホーリー・グレイル</a></li>
+<li><a href="../Page/ホーリー・グレイル_(バンド).md" title="wikilink">ホーリー・グレイル</a></li>
 </ul></td>
 </tr>
 </tbody>

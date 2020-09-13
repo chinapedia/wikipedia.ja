@@ -528,19 +528,6 @@ Ch番号</p></th>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>BS258</p></td>
-<td><p>　</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Dlife" title="wikilink">Dlife</a></strong></p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>　</p></td>
-<td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/3月17日.md" title="wikilink">3月17日</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>　</p></td>
 <td><p>B910</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウェザーニューズ" title="wikilink">ウェザーニューズ</a></p></td>
@@ -553,7 +540,7 @@ Ch番号</p></th>
 <td><p>※[32]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>コミュニティ</p></td>
 <td><p>　</p></td>
 <td><p><em>C049</em></p></td>
@@ -566,7 +553,7 @@ Ch番号</p></th>
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/7月3日.md" title="wikilink">7月3日</a></p></td>
 <td><p>※[33]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>アニメ</p></td>
 <td><p>C870</p></td>
 <td><p>　</p></td>
@@ -579,7 +566,7 @@ Ch番号</p></th>
 <td><p>2009年10月</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C869</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/キッズステーション.md" title="wikilink">キッズステーション</a>HD</strong></p></td>
@@ -592,7 +579,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C871</p></td>
 <td><p>C746</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ディズニーXD" title="wikilink">ディズニーXD HD</a></strong></p></td>
@@ -605,7 +592,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C868</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/カートゥーン_ネットワーク.md" title="wikilink">海外アニメ!カートゥーン ネットワーク HD</a></strong></p></td>
@@ -618,7 +605,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C729</p></td>
 <td><p>　</p></td>
 <td><p>★<strong><a href="../Page/アニメシアターX.md" title="wikilink">AT-X! HD</a></strong></p></td>
@@ -631,7 +618,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C872</p></td>
 <td><p>　</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ディズニージュニア" title="wikilink">ディズニージュニア</a></p></td>
@@ -644,7 +631,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>映画・ドラマ</p></td>
 <td><p>C832</p></td>
 <td><p>　</p></td>
@@ -657,7 +644,7 @@ Ch番号</p></th>
 <td><p>2010年3月</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C834</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/日本映画専門チャンネル.md" title="wikilink">日本映画専門チャンネル</a>HD</strong></p></td>
@@ -670,7 +657,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C830</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/シネフィルWOWOW.md" title="wikilink">シネフィルWOWOW</a></strong></p></td>
@@ -683,7 +670,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C831</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/ザ・シネマ.md" title="wikilink">ザ・シネマ</a>HD</strong></p></td>
@@ -696,7 +683,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C863</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/V☆パラダイス" title="wikilink">V☆パラダイス</a>HD</strong></p></td>
@@ -709,7 +696,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C833</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/チャンネルNECO.md" title="wikilink">チャンネルNECO</a>-HD</strong></p></td>
@@ -722,7 +709,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C860</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/ファミリー劇場.md" title="wikilink">ファミリー劇場</a>HD</strong></p></td>
@@ -735,7 +722,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C851</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/FOXチャンネル.md" title="wikilink">FOX HD</a></strong></p></td>
@@ -748,7 +735,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C853</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/AXN.md" title="wikilink">AXN HD 海外ドラマ</a></strong></p></td>
@@ -761,7 +748,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C862</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/時代劇専門チャンネル.md" title="wikilink">時代劇専門チャンネル</a>HD</strong></p></td>
@@ -774,7 +761,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C850</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/LaLa_TV.md" title="wikilink">女性チャンネル♪LaLa TV（HD）</a></strong></p></td>
@@ -787,7 +774,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C849</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/スーパー!ドラマTV.md" title="wikilink">スーパー!ドラマTV HD</a></strong></p></td>
@@ -800,7 +787,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C854</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/ミステリチャンネル.md" title="wikilink">AXNミステリー HD</a></strong></p></td>
@@ -813,7 +800,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C857[34]</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/KBSワールド" title="wikilink">KBS World HD</a></strong></p></td>
@@ -826,7 +813,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C861</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/ホームドラマチャンネル.md" title="wikilink">ホームドラマチャンネル</a>HD</strong></p></td>
@@ -839,7 +826,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C855</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/アジアドラマチックTV★So-net" title="wikilink">アジアドラマチックTV★HD</a></strong></p></td>
@@ -852,7 +839,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C628</p></td>
 <td><p>　</p></td>
 <td><p>★<strong><a href="../Page/衛星劇場.md" title="wikilink">衛星劇場</a>HD</strong></p></td>
@@ -865,7 +852,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C835[35]</p></td>
 <td><p><em>C318</em></p></td>
 <td><p><strong><a href="../Page/FOXムービー.md" title="wikilink">FOXムービー</a></strong></p></td>
@@ -878,7 +865,7 @@ Ch番号</p></th>
 <td><p>※[36]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C708</p></td>
 <td><p><em>C708</em></p></td>
 <td><p>★<strong><a href="../Page/東映チャンネル.md" title="wikilink">東映チャンネル</a>HD</strong></p></td>
@@ -891,7 +878,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>　</p></td>
 <td><p>C709</p></td>
 <td><p>★<a href="https://ja.wikipedia.org/wiki/エキサイティング・グランプリ" title="wikilink">エキサイティング・グランプリ</a></p></td>
@@ -904,7 +891,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>スポーツ</p></td>
 <td><p>C802</p></td>
 <td><p>　</p></td>
@@ -917,7 +904,7 @@ Ch番号</p></th>
 <td><p>2009年5月</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C803</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/J_SPORTS.md" title="wikilink">J SPORTS 1</a></strong></p></td>
@@ -930,7 +917,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C804</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/J_SPORTS.md" title="wikilink">J SPORTS 2</a></strong></p></td>
@@ -943,7 +930,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C805[37]</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/J_SPORTS.md" title="wikilink">J SPORTS 3</a></strong></p></td>
@@ -956,7 +943,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C807</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/スカイ・エー.md" title="wikilink">スカイA</a></strong></p></td>
@@ -969,7 +956,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C808</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/日テレジータス.md" title="wikilink">日テレジータス</a>HD</strong></p></td>
@@ -982,7 +969,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C809</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/ゴルフネットワーク.md" title="wikilink">ゴルフネットワーク</a>HD</strong></p></td>
@@ -995,7 +982,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>　</p></td>
 <td><p>C282</p></td>
 <td><p>★<a href="https://ja.wikipedia.org/wiki/EXスポーツ" title="wikilink">EXスポーツ</a></p></td>
@@ -1008,7 +995,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C301</p></td>
 <td><p><em>C301</em></p></td>
 <td><p>★<strong><a href="../Page/FIGHTING_TV_サムライ.md" title="wikilink">FIGHTING TV サムライ</a></strong></p></td>
@@ -1021,7 +1008,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C605</p></td>
 <td><p>　</p></td>
 <td><p>★<strong><a href="../Page/J_SPORTS.md" title="wikilink">J SPORTS 4</a></strong></p></td>
@@ -1034,7 +1021,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>音楽</p></td>
 <td><p>C840</p></td>
 <td><p>　</p></td>
@@ -1047,7 +1034,7 @@ Ch番号</p></th>
 <td><p>2009年10月</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C841</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/MUSIC_ON!_TV.md" title="wikilink">MUSIC ON! TV（エムオン!）HD</a></strong></p></td>
@@ -1060,7 +1047,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C838</p></td>
 <td><p>　</p></td>
 <td><p>'''<a href="../Page/スペースシャワーTV.md" title="wikilink">スペースシャワーTV HD</a></p></td>
@@ -1073,7 +1060,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C842</p></td>
 <td><p>　</p></td>
 <td><p>'''<a href="../Page/100%ヒッツ!スペースシャワーTVプラス.md" title="wikilink">100%ヒッツ!スペースシャワーTV プラス HD</a></p></td>
@@ -1086,7 +1073,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C843</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/歌謡ポップスチャンネル.md" title="wikilink">歌謡ポップスチャンネル</a></strong></p></td>
@@ -1099,7 +1086,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C269</p></td>
 <td><p><em>C269</em></p></td>
 <td><p><strong><a href="../Page/Music_Japan_TV.md" title="wikilink">Music Japan TV HD</a></strong></p></td>
@@ -1112,7 +1099,7 @@ Ch番号</p></th>
 <td><p>※[38]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C271</p></td>
 <td><p><em>C271</em></p></td>
 <td><p><strong><a href="../Page/ミュージック・エア.md" title="wikilink">ミュージック・エア</a></strong></p></td>
@@ -1125,7 +1112,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C736</p></td>
 <td><p><em>C736</em></p></td>
 <td><p>★<strong><a href="../Page/クラシカ・ジャパン.md" title="wikilink">クラシカ・ジャパン</a>HD</strong></p></td>
@@ -1138,7 +1125,7 @@ Ch番号</p></th>
 <td><p>　</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>エンターテイメント</p></td>
 <td><p>C821</p></td>
 <td><p>　</p></td>
@@ -1151,7 +1138,7 @@ Ch番号</p></th>
 <td><p>2012年5月9日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C816</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/TBSチャンネル.md" title="wikilink">TBSチャンネル</a>1</strong></p></td>
@@ -1164,7 +1151,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C820</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/TBSチャンネル.md" title="wikilink">TBSチャンネル</a>2</strong></p></td>
@@ -1177,7 +1164,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C859</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/MONDO_TV.md" title="wikilink">MONDO TV HD</a></strong></p></td>
@@ -1190,7 +1177,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C819</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/日テレプラス_ドラマ・アニメ・音楽ライブ.md" title="wikilink">日テレプラス ドラマ・アニメ・音楽ライブ</a></strong></p></td>
@@ -1203,7 +1190,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C817</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/テレ朝チャンネル.md" title="wikilink">テレ朝チャンネル ドラマ・バラエティ・アニメ</a>1</strong></p></td>
@@ -1216,7 +1203,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C882</p></td>
 <td><p><em>C256</em></p></td>
 <td><p><strong><a href="../Page/テレ朝チャンネル.md" title="wikilink">テレ朝チャンネル ニュース・情報・スポーツ</a>2</strong></p></td>
@@ -1229,7 +1216,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>　</p></td>
 <td><p>C262</p></td>
 <td><p>★<a href="https://ja.wikipedia.org/wiki/DHCシアター" title="wikilink">DHCシアター カルチャー&amp;エンターテインメント</a></p></td>
@@ -1242,7 +1229,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>　</p></td>
 <td><p>C290</p></td>
 <td><p>★<a href="../Page/TAKARAZUKA_SKY_STAGE.md" title="wikilink">タカラヅカ・スカイ・ステージ</a></p></td>
@@ -1255,7 +1242,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C814[39]</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/フジテレビONE" title="wikilink">フジテレビONE スポーツ・バラエティ</a></strong></p></td>
@@ -1268,7 +1255,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C815[40]</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/フジテレビTWO" title="wikilink">フジテレビTWO ドラマ・アニメ</a></strong></p></td>
@@ -1281,7 +1268,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C613</p></td>
 <td><p>　</p></td>
 <td><p>★<strong><a href="https://ja.wikipedia.org/wiki/フジテレビNEXT" title="wikilink">フジテレビNEXT ライブ・プレミアム</a></strong></p></td>
@@ -1294,7 +1281,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C720</p></td>
 <td><p><em>C720</em></p></td>
 <td><p><strong><a href="../Page/エンタメ〜テレ☆シネドラバラエティ.md" title="wikilink">エンタメ～テレHD☆シネドラバラエティ</a></strong></p></td>
@@ -1307,7 +1294,7 @@ Ch番号</p></th>
 <td><p>※[41]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C810</p></td>
 <td></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ビーエスFOX" title="wikilink">FOXスポーツ&amp;エンターテイメント</a></strong></p></td>
@@ -1320,7 +1307,7 @@ Ch番号</p></th>
 <td><p>※[42]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ドキュメンタリー</p></td>
 <td><p>C873</p></td>
 <td><p>　</p></td>
@@ -1333,7 +1320,7 @@ Ch番号</p></th>
 <td><p>2010年3月</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C874</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/ヒストリーチャンネル.md" title="wikilink">ヒストリーチャンネル HD</a>™</strong></p></td>
@@ -1346,7 +1333,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C875</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ナショナル_ジオグラフィック" title="wikilink">ナショナル ジオグラフィック</a></strong></p></td>
@@ -1359,7 +1346,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C876</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ナショジオ_ワイルド" title="wikilink">ナショジオ ワイルド HD</a></strong></p></td>
@@ -1372,7 +1359,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C877</p></td>
 <td><p>C747</p></td>
 <td><p><strong><a href="../Page/アニマルプラネット.md" title="wikilink">アニマルプラネット</a></strong></p></td>
@@ -1385,7 +1372,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ニュース</p></td>
 <td><p>C651</p></td>
 <td></td>
@@ -1398,7 +1385,7 @@ Ch番号</p></th>
 <td><p>2012年10月2日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C881</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/日経CNBC" title="wikilink">日経CNBC</a></strong></p></td>
@@ -1411,7 +1398,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C880</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/TBSニュースバード" title="wikilink">TBSニュースバード</a></strong></p></td>
@@ -1424,7 +1411,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C883</p></td>
 <td><p><em>C257</em></p></td>
 <td><p><strong><a href="../Page/CNNj.md" title="wikilink">CNNj</a></strong></p></td>
@@ -1437,7 +1424,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C884</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/BBCワールド" title="wikilink">BBCワールド</a>ニュース</p></td>
@@ -1450,7 +1437,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>趣味・教養</p></td>
 <td><p>C891</p></td>
 <td></td>
@@ -1463,7 +1450,7 @@ Ch番号</p></th>
 <td><p>※[43]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C893</p></td>
 <td><p>C320</p></td>
 <td><p><strong><a href="../Page/囲碁・将棋チャンネル.md" title="wikilink">囲碁・将棋チャンネル</a>HD</strong></p></td>
@@ -1476,7 +1463,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C892</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/釣りビジョン.md" title="wikilink">釣りビジョン</a>HD</strong></p></td>
@@ -1489,7 +1476,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C894</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/アクトオンTV◆大人の趣味とライフスタイル" title="wikilink">アクトオンTV◆大人の趣味とライフスタイル</a></strong></p></td>
@@ -1502,7 +1489,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>C759</p></td>
 <td><p>★<a href="../Page/パチンコ★パチスロTV!.md" title="wikilink">パチンコ★パチスロTV!</a></p></td>
@@ -1515,7 +1502,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ショッピング</p></td>
 <td><p>C825[44]</p></td>
 <td><p>C220</p></td>
@@ -1528,7 +1515,7 @@ Ch番号</p></th>
 <td><p>2012年10月4日　</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C825[45]</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/QVC.md" title="wikilink">QVC</a>（キュー・ヴィー・シー）</strong></p></td>
@@ -1541,7 +1528,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C827[46]</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/ジャパネットたかた.md" title="wikilink">ジャパネットチャンネルDX ハイビジョン</a></strong></p></td>
@@ -1554,7 +1541,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C828</p></td>
 <td><p>C243</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/GemsTV" title="wikilink">ジュエリー☆GSTV</a></strong></p></td>
@@ -1567,7 +1554,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>外国・趣味</p></td>
 <td><p>C331</p></td>
 <td><p><em>C331</em></p></td>
@@ -1580,7 +1567,7 @@ Ch番号</p></th>
 <td><p>2012年10月2日　</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>　</p></td>
 <td><p>C783</p></td>
 <td><p>★<a href="../Page/大富_(企業).md" title="wikilink">中国テレビ★CCTV大富</a></p></td>
@@ -1593,7 +1580,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C792</p></td>
 <td><p><em>C792</em></p></td>
 <td><p>★<strong><a href="../Page/Mnet.md" title="wikilink">Mnet HD</a></strong></p></td>
@@ -1606,7 +1593,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C693</p></td>
 <td><p>　</p></td>
 <td><p>★<strong><a href="../Page/グリーンチャンネル.md" title="wikilink">グリーンチャンネル</a>HD</strong></p></td>
@@ -1619,7 +1606,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C694</p></td>
 <td><p>　</p></td>
 <td><p>★<strong><a href="../Page/グリーンチャンネル.md" title="wikilink">グリーンチャンネル</a>2HD</strong></p></td>
@@ -1632,7 +1619,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C390</p></td>
 <td><p><em>C390</em></p></td>
 <td><p>★<strong><a href="../Page/SPEEDチャンネル.md" title="wikilink">SPEEDチャンネル</a></strong></p></td>
@@ -1645,7 +1632,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>アダルト</p></td>
 <td><p>C900</p></td>
 <td><p><em>C900</em></p></td>
@@ -1658,7 +1645,7 @@ Ch番号</p></th>
 <td><p>2012年10月2日</p></td>
 <td><p>20歳未満視聴不可</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>　</p></td>
 <td><p>C904</p></td>
 <td><p>★<a href="https://ja.wikipedia.org/wiki/チャンネル・ルビー" title="wikilink">チャンネル・ルビー</a></p></td>
@@ -1671,7 +1658,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>　</p></td>
 <td><p>C914</p></td>
 <td><p>★ピンクチェリー</p></td>
@@ -1684,7 +1671,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>　</p></td>
 <td><p>C915</p></td>
 <td><p>★イエローチェリー</p></td>
@@ -1697,7 +1684,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C905</p></td>
 <td><p><em>C905</em></p></td>
 <td><p>★<strong>チェリーボムHD</strong></p></td>
@@ -1710,7 +1697,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C901</p></td>
 <td><p><em>C901</em></p></td>
 <td><p>★<strong><a href="../Page/レインボーチャンネル.md" title="wikilink">レインボーチャンネル</a>HD</strong></p></td>
@@ -1723,7 +1710,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C902</p></td>
 <td><p><em>C902</em></p></td>
 <td><p>★<strong><a href="https://ja.wikipedia.org/wiki/MIDNIGHT_BLUE_(チャンネル)" title="wikilink">ミッドナイト・ブルー</a></strong></p></td>
@@ -1736,7 +1723,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C913</p></td>
 <td><p><em>C913</em></p></td>
 <td><p>★<strong><a href="../Page/パラダイステレビ.md" title="wikilink">パラダイステレビ</a>HD</strong></p></td>
@@ -1749,7 +1736,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>　</p></td>
 <td><p>C916</p></td>
 <td><p>★ダイナマイトTV</p></td>
@@ -1762,7 +1749,7 @@ Ch番号</p></th>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>　</p></td>
 <td><p>C917</p></td>
 <td><p>★AV王</p></td>
@@ -1789,28 +1776,29 @@ Ch番号</p></th>
 | BS102     | *[NHK BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")*                            |              |
 | BS103-104 | **[NHK BShi](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")**                       | \[48\]\[49\] |
 | BS238     | **[FOX bs238](https://ja.wikipedia.org/wiki/ビーエスFOX "wikilink")**           | \[50\]\[51\] |
-| BS531     | [放送大学](https://ja.wikipedia.org/wiki/放送大学 "wikilink")BSラジオ                  | \[52\]       |
-| C050      | eo光チャンネル・3Dプラス                                                              | \[53\]       |
-| C205      | 放送大学テレビ                                                                     | \[54\]       |
-| C218      | [ビクトリーチャンネル](https://ja.wikipedia.org/wiki/ビクトリーチャンネル "wikilink")           | \[55\]       |
-| C241      | [ハッピー241](../Page/ハッピー241.md "wikilink")                                    | \[56\]       |
-| C248      | [ベネッセチャンネル](https://ja.wikipedia.org/wiki/ベネッセチャンネル "wikilink")             | \[57\]       |
-| C267      | [第一興商スターカラオケ](../Page/第一興商スターカラオケ.md "wikilink")                            | \[58\]       |
-| C268      | [エコミュージックTV](../Page/エコミュージックTV.md "wikilink")                              | \[59\]       |
-| C275      | [EXエンタテイメント](../Page/寄席チャンネル.md "wikilink")                                 | \[60\]       |
-| C286      | [ザ・ゴルフ・チャンネル](../Page/ザ・ゴルフ・チャンネル.md "wikilink")                            | \[61\]       |
+| BS258     | **[Dlife](https://ja.wikipedia.org/wiki/Dlife "wikilink")**                 | \[52\]\[53\] |
+| BS531     | [放送大学](https://ja.wikipedia.org/wiki/放送大学 "wikilink")BSラジオ                  | \[54\]       |
+| C050      | eo光チャンネル・3Dプラス                                                              | \[55\]       |
+| C205      | 放送大学テレビ                                                                     | \[56\]       |
+| C218      | [ビクトリーチャンネル](https://ja.wikipedia.org/wiki/ビクトリーチャンネル "wikilink")           | \[57\]       |
+| C241      | [ハッピー241](../Page/ハッピー241.md "wikilink")                                    | \[58\]       |
+| C248      | [ベネッセチャンネル](https://ja.wikipedia.org/wiki/ベネッセチャンネル "wikilink")             | \[59\]       |
+| C267      | [第一興商スターカラオケ](../Page/第一興商スターカラオケ.md "wikilink")                            | \[60\]       |
+| C268      | [エコミュージックTV](../Page/エコミュージックTV.md "wikilink")                              | \[61\]       |
+| C275      | [EXエンタテイメント](../Page/寄席チャンネル.md "wikilink")                                 | \[62\]       |
+| C286      | [ザ・ゴルフ・チャンネル](../Page/ザ・ゴルフ・チャンネル.md "wikilink")                            | \[63\]       |
 |           |                                                                             |              |
-| C316      | [スター・チャンネル プラス](../Page/スター・チャンネル.md "wikilink")                            | \[62\]       |
+| C316      | [スター・チャンネル プラス](../Page/スター・チャンネル.md "wikilink")                            | \[64\]       |
 | C317      | [スター・チャンネル クラシック](../Page/スター・チャンネル.md "wikilink")                          |              |
-| C325      | [歌舞伎チャンネル](../Page/歌舞伎チャンネル.md "wikilink")                                  | \[63\]       |
-| C343      | [Baby TV こどもえいごチャンネル](https://ja.wikipedia.org/wiki/Baby_TV "wikilink")     | \[64\]       |
-| C726      | [関西テレビ☆京都チャンネル](../Page/関西テレビ☆京都チャンネル.md "wikilink")                        | \[65\]       |
-| C852      | **[FOXクラシック 名作ドラマHD](../Page/FOXクラシック.md "wikilink")**                      | \[66\]       |
-| C856      | **[ユニバーサル チャンネル HD](https://ja.wikipedia.org/wiki/ユニバーサルチャンネル "wikilink")** | \[67\]       |
-| C822      | 食と旅のフーディーズTV                                                                | \[68\]\[69\] |
-| J150      | [パワープラッツ](https://ja.wikipedia.org/wiki/パワープラッツ "wikilink")                 | \[70\]       |
-| J162,J171 | [スカチャン](../Page/スカチャン.md "wikilink")162、171                                 | \[71\]       |
-| J171      | [Mnet](../Page/Mnet.md "wikilink")                                          | \[72\]\[73\] |
+| C325      | [歌舞伎チャンネル](../Page/歌舞伎チャンネル.md "wikilink")                                  | \[65\]       |
+| C343      | [Baby TV こどもえいごチャンネル](https://ja.wikipedia.org/wiki/Baby_TV "wikilink")     | \[66\]       |
+| C726      | [関西テレビ☆京都チャンネル](../Page/関西テレビ☆京都チャンネル.md "wikilink")                        | \[67\]       |
+| C852      | **[FOXクラシック 名作ドラマHD](../Page/FOXクラシック.md "wikilink")**                      | \[68\]       |
+| C856      | **[ユニバーサル チャンネル HD](https://ja.wikipedia.org/wiki/ユニバーサルチャンネル "wikilink")** | \[69\]       |
+| C822      | 食と旅のフーディーズTV                                                                | \[70\]\[71\] |
+| J150      | [パワープラッツ](https://ja.wikipedia.org/wiki/パワープラッツ "wikilink")                 | \[72\]       |
+| J162,J171 | [スカチャン](../Page/スカチャン.md "wikilink")162、171                                 | \[73\]       |
+| J171      | [Mnet](../Page/Mnet.md "wikilink")                                          | \[74\]\[75\] |
 | J176      | [スカチャン](../Page/スカチャン.md "wikilink")176                                     |              |
 | J700      | [チャンネル700](https://ja.wikipedia.org/wiki/チャンネル700 "wikilink")               |              |
 | J950      | [パーフェクトチョイス110](../Page/パーフェクト・チョイス.md "wikilink")                          |              |
@@ -1819,7 +1807,7 @@ Ch番号</p></th>
 | J952      | ミッドナイト・ブルー                                                                  |              |
 | J954      | ピンクチェリー                                                                     |              |
 | J954      | [パラダイステレビ](../Page/パラダイステレビ.md "wikilink")                                  |              |
-| J959      | パワープラッツ・ナイト                                                                 | \[74\]       |
+| J959      | パワープラッツ・ナイト                                                                 | \[76\]       |
 
 ### FMラジオ
 
@@ -1910,7 +1898,7 @@ Ch番号</p></th>
 <td><p>86.1（2016年現在も実施中）</p></td>
 <td><p>（CS放送の副音声のみ）</p></td>
 <td><p>放送大学ラジオ</p></td>
-<td><p>[75]</p></td>
+<td><p>[77]</p></td>
 </tr>
 </tbody>
 </table>
@@ -1922,7 +1910,7 @@ Ch番号</p></th>
       - パススルー化よりも前（2009年5月17日まで）に加入した世帯では、録画などで外部の機器に出力する場合にはSTBからの映像出力となる（[i-Linkを介しての録画の場合はハイビジョン画質に対応](../Page/IEEE_1394.md "wikilink")）。ただし、[ONUの交換工事を行えば市販のBSデジタル放送チューナーを搭載した機器で直接視聴や録画が可能となった](../Page/光回線終端装置.md "wikilink")。
   - [2007年](../Page/2007年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")10時30分頃より、[マスプロ電工](../Page/マスプロ電工.md "wikilink")製の[STB](../Page/セットトップボックス.md "wikilink")(DST-22)を使用している「K-CAT」のサービスエリア内の世帯（約15000台）で、アナログ放送以外が全く視聴できなくなるという障害が発生した。該当する世帯では[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")製のSTB(TZ-DCH800)に順次交換し、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月30日](../Page/1月30日.md "wikilink")には交換が完了した。
   - 従来の標準画質放送のサービスについては、新規申し込みは[2009年](../Page/2009年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")を持って終了となったが、それまでに申し込んだものは従来の標準画質サービス（バリューパック、スタンダードパック、ライト、オプション）の番組を引き続き視聴できる他、そのサービス間での契約変更・追加も可能となっている。ただしハイビジョンサービスに移行した場合は標準画質サービスへの転換・視聴はできない。
-      - [2012年](../Page/2012年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink")正午より（これに先駆けて[4月25日](../Page/4月25日.md "wikilink")未明より試験放送中）、ケイキャットeo光テレビでは、これまでの標準画質サービスで提供していたチャンネルのうち、ハイビジョン対応で放送されるチャンネルについては全てハイビジョンへ一本化されることになった。同[5月31日](../Page/5月31日.md "wikilink")までは移行期間と位置づけて標準画質放送と並列配信するが、それ以後はハイビジョンのみの単独配信となる。\[76\]
+      - [2012年](../Page/2012年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink")正午より（これに先駆けて[4月25日](../Page/4月25日.md "wikilink")未明より試験放送中）、ケイキャットeo光テレビでは、これまでの標準画質サービスで提供していたチャンネルのうち、ハイビジョン対応で放送されるチャンネルについては全てハイビジョンへ一本化されることになった。同[5月31日](../Page/5月31日.md "wikilink")までは移行期間と位置づけて標準画質放送と並列配信するが、それ以後はハイビジョンのみの単独配信となる。\[78\]
 
 ## eo光テレビ制作の主な番組
 
@@ -2003,28 +1991,30 @@ Ch番号</p></th>
 49.
 50.
 51.
-52. 2018年9月30日に終了。
-53. [2011年](../Page/2011年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")-[2013年](../Page/2013年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")に放送。ケイ・キャット独自製作のものと、外部プロダクション製作の番組の混合編成。原則として平日（祝日含む）は18時から22時、土曜・日曜は9時から22時に配信。それ以外は放送時間の告知画面（2D）を流していた
-54. BSへの移行のため2012年3月31日に終了
-55. 2013年3月31日終了。スカパー\!、および他の一部ケーブルテレビ局では引き続き配信中
-56. 2008年9月30日終了（運営元の経営破たんに伴う）
-57. [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")より配信を開始したが、[2009年](../Page/2009年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に閉局
-58. 2012年3月31日に終了
-59.
-60. 2007年10月31日終了。スカパー\!では「寄席チャンネル」と改めたうえで引き続き配信中
+52. [【重要】2020年3月31日 Dlife放送終了のお知らせ](https://dlog.disney.co.jp/blog/spnews/article/28131?app_code=dlife_nl&opt1=PVVtWnB4R1I%3D) 2020年6月2日閲覧
+53. [2012年](../Page/2012年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink") HDサービス開始
+54. 2018年9月30日に終了。
+55. [2011年](../Page/2011年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")-[2013年](../Page/2013年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")に放送。ケイ・キャット独自製作のものと、外部プロダクション製作の番組の混合編成。原則として平日（祝日含む）は18時から22時、土曜・日曜は9時から22時に配信。それ以外は放送時間の告知画面（2D）を流していた
+56. BSへの移行のため2012年3月31日に終了
+57. 2013年3月31日終了。スカパー\!、および他の一部ケーブルテレビ局では引き続き配信中
+58. 2008年9月30日終了（運営元の経営破たんに伴う）
+59. [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")より配信を開始したが、[2009年](../Page/2009年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に閉局
+60. 2012年3月31日に終了
 61.
-62.
-63. 2011年3月31日終了
-64. 2011年6月30日にスカパー\!向けの配信終了に合わせて、当チャンネルでの配信も同日終了したが、現在も[BBTV NEXTと一部のケーブルテレビ局向けに配信している](https://ja.wikipedia.org/wiki/ビービー・ケーブル "wikilink")
-65. 2009年[4月30日](../Page/4月30日.md "wikilink")に閉局した。
-66. 2018年9月30日に終了。
-67.
-68. 2014年3月31日終了。スカパー\!、および他の一部ケーブルテレビ局では引き続き配信中
-69. 2012年10月までは標準画質放送（C281）で放送されていた
-70. 深夜以外は150で、深夜は959で放送。いずれも2009年4月30日に配信を終了した。
-71. 2009年3月31日まで配信されていた。スカパー\!では引き続き配信中
-72. 2011年3月31日にケイ・キャットに於けるエラボチャンネルの配信終了による。これにより[ペイ・パー・ビュー](../Page/ペイ・パー・ビュー.md "wikilink")のサービスは受信できなくなった。スカパー\!では引き続き配信中
-73. [ケイ・キャット2011年4月1日リリース](http://www.kcat.jp/information/1196707_5413.html)
-74.
-75.
-76. [ケイキャット「ＣＳ放送４０CHのハイビジョン放送開始とCH番号・名称変更のお知らせ」のリリース](http://www.kcat.jp/information/1201496_5413.html)参照
+62. 2007年10月31日終了。スカパー\!では「寄席チャンネル」と改めたうえで引き続き配信中
+63.
+64.
+65. 2011年3月31日終了
+66. 2011年6月30日にスカパー\!向けの配信終了に合わせて、当チャンネルでの配信も同日終了したが、現在も[BBTV NEXTと一部のケーブルテレビ局向けに配信している](https://ja.wikipedia.org/wiki/ビービー・ケーブル "wikilink")
+67. 2009年[4月30日](../Page/4月30日.md "wikilink")に閉局した。
+68. 2018年9月30日に終了。
+69.
+70. 2014年3月31日終了。スカパー\!、および他の一部ケーブルテレビ局では引き続き配信中
+71. 2012年10月までは標準画質放送（C281）で放送されていた
+72. 深夜以外は150で、深夜は959で放送。いずれも2009年4月30日に配信を終了した。
+73. 2009年3月31日まで配信されていた。スカパー\!では引き続き配信中
+74. 2011年3月31日にケイ・キャットに於けるエラボチャンネルの配信終了による。これにより[ペイ・パー・ビュー](../Page/ペイ・パー・ビュー.md "wikilink")のサービスは受信できなくなった。スカパー\!では引き続き配信中
+75. [ケイ・キャット2011年4月1日リリース](http://www.kcat.jp/information/1196707_5413.html)
+76.
+77.
+78. [ケイキャット「ＣＳ放送４０CHのハイビジョン放送開始とCH番号・名称変更のお知らせ」のリリース](http://www.kcat.jp/information/1201496_5413.html)参照

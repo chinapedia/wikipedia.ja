@@ -67,7 +67,7 @@ PPS-42は、1942年7月にレニングラード造兵廠で生産を開始し、
     PPS-42の改良型。ソ連は戦時中にしか製造しておらず、戦後はポーランド等でライセンス生産が行われた。なお、ソ連製と他国製とでは、部品の溶接の処理など、若干の差異がある。
   - MP-709(r)
     ドイツ軍に[鹵獲](../Page/鹵獲.md "wikilink")された際のPPSモデルの呼称名。
-  - M/44
+  - [M/44](https://ja.wikipedia.org/wiki/KP/M44短機関銃 "wikilink")
     [フィンランド](../Page/フィンランド.md "wikilink")で製造されたPPS-43のコピー。[9mmパラベラム弾](https://ja.wikipedia.org/wiki/9mmパラベラム弾 "wikilink")を使用し、ストレート形状の箱型弾倉、または[スオミM1931](https://ja.wikipedia.org/wiki/スオミM1931 "wikilink")のドラム式弾倉を使用出来る。
   - UX-51/53/59
     [スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")が製造したM/44のコピー、[西ドイツ国境警備隊に採用された](https://ja.wikipedia.org/wiki/連邦国境警備隊 "wikilink")。

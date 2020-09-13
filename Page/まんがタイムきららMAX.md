@@ -57,7 +57,7 @@
   - 『[ご注文はうさぎですか?](https://ja.wikipedia.org/wiki/ご注文はうさぎですか? "wikilink")』
       - 第1期 - 2014年4月 - 6月放送
       - 第2期 - 2015年10月 - 12月放送
-      - 第3期 - 2020年放送予定
+      - 第3期 - 2020年10月放送予定
       - 劇場版 - 2017年11月11日公開
       - OVA - 2018年9月26日発売
   - 『[ステラのまほう](https://ja.wikipedia.org/wiki/ステラのまほう "wikilink")』 - 2016年10月 - 12月放送
@@ -95,7 +95,7 @@
   - [エンとゆかり](https://ja.wikipedia.org/wiki/エンとゆかり "wikilink")（[しろううらやま](https://ja.wikipedia.org/wiki/しろううらやま "wikilink")、2019年1月号 - 3月号ゲスト、7月号 - ）
   - [ハルメタルドールズ](https://ja.wikipedia.org/wiki/ハルメタルドールズ "wikilink")（[カコベン](https://ja.wikipedia.org/wiki/カコベン "wikilink")、2019年5月号 - 6月号ゲスト、9月号 - ）
   - [いのち短し善せよ乙女](https://ja.wikipedia.org/wiki/いのち短し善せよ乙女 "wikilink")（[土管](https://ja.wikipedia.org/wiki/土管（漫画家） "wikilink")、2019年8月号-10月号ゲスト、12月号 - ）
-  - [六条さんのアトリビュート](https://ja.wikipedia.org/wiki/六条さんのアトリビュート "wikilink")（[セトユーキ](https://ja.wikipedia.org/wiki/セトユーキ "wikilink")、2019年9月号-10月号ゲスト、2020年2月号 - ）
+  - [六条さんのアトリビュート](../Page/六条さんのアトリビュート.md "wikilink")（[セトユーキ](https://ja.wikipedia.org/wiki/セトユーキ "wikilink")、2019年9月号-10月号ゲスト、2020年2月号 - ）
   - [ホレンテ島の魔法使い](https://ja.wikipedia.org/wiki/ホレンテ島の魔法使い "wikilink")（[谷津](https://ja.wikipedia.org/wiki/谷津（漫画家） "wikilink")、2020年1月号 - 2月号ゲスト、2020年4月号 - ）
   - [ぬるめた](https://ja.wikipedia.org/wiki/ぬるめた "wikilink")（[こかむも](https://ja.wikipedia.org/wiki/こかむも "wikilink")、2020年2月号 - 4月号ゲスト、2020年5月号 - ）
   - [のむラリアット\!](https://ja.wikipedia.org/wiki/のむラリアット! "wikilink")（[こんぱる](https://ja.wikipedia.org/wiki/こんぱる "wikilink")&[ふじしまペポ](https://ja.wikipedia.org/wiki/ふじしまペポ "wikilink")、2020年2月号 - 4月号ゲスト、2020年6月号 - ）
@@ -166,7 +166,7 @@
   - [ぽすから](https://ja.wikipedia.org/wiki/ぽすから "wikilink") （[中村哲也](../Page/中村哲也.md "wikilink")、2008年11月号 - 2010年12月号）
   - [レンタルきゅーと](../Page/レンタルきゅーと.md "wikilink") （[白雪しおん](https://ja.wikipedia.org/wiki/白雪しおん "wikilink")、2004年11月号、2005年4、6、10月号、2006年4月号、2007年3、8月号、2008年5月号掲載の後、2009年2月号 - 2010年10月号、偶数号隔月連載）
   - [くすりのマジョラム](https://ja.wikipedia.org/wiki/くすりのマジョラム "wikilink") （[鈴城芹](../Page/鈴城芹.md "wikilink")、2009年7月号 - 2012年10月号）
-  - [つかえて\!コハル](https://ja.wikipedia.org/wiki/つかえて!コハル "wikilink") （[ねことうふ](https://ja.wikipedia.org/wiki/ねことうふ "wikilink")、2009年7 - 8月号ゲスト、10月号 - 2011年1月号）
+  - [つかえて\!コハル](https://ja.wikipedia.org/wiki/つかえて!コハル "wikilink") （[ねことうふ](../Page/ねことうふ.md "wikilink")、2009年7 - 8月号ゲスト、10月号 - 2011年1月号）
   - [おしおきっ\!](https://ja.wikipedia.org/wiki/おしおきっ! "wikilink") （[かぐらゆうき](https://ja.wikipedia.org/wiki/かぐらゆうき "wikilink")、2009年10月号 - 2010年12月号）
   - [ラッキーストライク\!](https://ja.wikipedia.org/wiki/ラッキーストライク! "wikilink") （[みそおでん](https://ja.wikipedia.org/wiki/みそおでん_\(漫画家\) "wikilink")、2009年10月号 - 2012年3月号）
   - [はる×どり](https://ja.wikipedia.org/wiki/はる×どり "wikilink") （[渡真仁](https://ja.wikipedia.org/wiki/渡真仁 "wikilink")、2009年11月号 - 2011年1月号）
@@ -204,21 +204,21 @@
   - [ハナイロ](https://ja.wikipedia.org/wiki/ハナイロ "wikilink")（[アカコッコ](https://ja.wikipedia.org/wiki/アカコッコ_\(漫画家\) "wikilink")、2013年11月号 - 2014年1月号ゲスト、2014年4月号 - 2016年4月号）
   - [アイドル声優☆上村とまり17歳](https://ja.wikipedia.org/wiki/アイドル声優☆上村とまり17歳 "wikilink") （[ぷらぱ](https://ja.wikipedia.org/wiki/ぷらぱ "wikilink")、2014年6月号 - 2016年6月号）
   - [しょーがくせいのあたまのなか](https://ja.wikipedia.org/wiki/しょーがくせいのあたまのなか "wikilink") （[石見翔子](../Page/石見翔子.md "wikilink")、2014年6月号 - 2015年4月号\[3\]、2016年7月号 - 2017年11月号）
-  - [みことの一手\!](https://ja.wikipedia.org/wiki/みことの一手! "wikilink")（[宇城はやひろ](https://ja.wikipedia.org/wiki/宇城はやひろ "wikilink")、2013年7月号、2014年1月号 - 2月号、4月号、6月号 - 8月号ゲスト、9月号 - 2015年2月号）
+  - [みことの一手\!](https://ja.wikipedia.org/wiki/みことの一手! "wikilink")（[宇城はやひろ](../Page/宇城はやひろ.md "wikilink")、2013年7月号、2014年1月号 - 2月号、4月号、6月号 - 8月号ゲスト、9月号 - 2015年2月号）
   - [廃校ドールズ](https://ja.wikipedia.org/wiki/廃校ドールズ "wikilink")\[4\]（[君と子音](https://ja.wikipedia.org/wiki/君と子音 "wikilink")、2014年4月号 - 6月号ゲスト、9月号 - 2016年10月号）
   - [神様生徒会部\!](https://ja.wikipedia.org/wiki/神様生徒会部! "wikilink") （[未影](https://ja.wikipedia.org/wiki/未影 "wikilink")、2014年9月号 - 2017年1月号）
   - [軍師姫](https://ja.wikipedia.org/wiki/軍師姫 "wikilink")（[吉野貝](https://ja.wikipedia.org/wiki/吉野貝 "wikilink")、2014年7月号 - 9月号ゲスト、10月号 - 2016年8月号）
   - [裏庭には…\!](https://ja.wikipedia.org/wiki/裏庭には…! "wikilink")（原作：[氷坂透](https://ja.wikipedia.org/wiki/氷坂透 "wikilink")・作画：[水鏡ひより](https://ja.wikipedia.org/wiki/水鏡ひより "wikilink")、2014年2月号 - 4月号ゲスト、11月号 - 2016年9月号）
   - [ふるスクらっち\!](https://ja.wikipedia.org/wiki/ふるスクらっち! "wikilink")（[右左もりもり](https://ja.wikipedia.org/wiki/右左もりもり "wikilink")、2015年3月号 - 4月号ゲスト、7月号 - 2016年5月号）
   - [ぱぺっとコール\!](https://ja.wikipedia.org/wiki/ぱぺっとコール! "wikilink")（[へちま](https://ja.wikipedia.org/wiki/へちま_\(漫画家\) "wikilink")、2015年4月号 - 5月号ゲスト\[5\]、9月号 - 2017年10月号）
-  - [はんどすたんど\!](https://ja.wikipedia.org/wiki/はんどすたんど! "wikilink")（[有馬](https://ja.wikipedia.org/wiki/有馬_\(漫画家\) "wikilink")、2015年6月号・8月号ゲスト\[6\]、9月号 - 2018年9月号）
+  - [はんどすたんど\!](https://ja.wikipedia.org/wiki/はんどすたんど! "wikilink")（[有馬](../Page/有馬_\(漫画家\).md "wikilink")、2015年6月号・8月号ゲスト\[6\]、9月号 - 2018年9月号）
   - [ペンにまします神サマの](https://ja.wikipedia.org/wiki/ペンにまします神サマの "wikilink")（[佐古新佑](https://ja.wikipedia.org/wiki/佐古新佑 "wikilink")、2015年7月号 - 9月号ゲスト、10月号 - 2017年8月号）
   - [みゅ〜こん\!](https://ja.wikipedia.org/wiki/みゅ〜こん! "wikilink")（[永山ゆうのん](https://ja.wikipedia.org/wiki/永山ゆうのん "wikilink")、2015年7月号 - 8月号ゲスト、11月号 - 2017年10月号）
   - [きらりブックス迷走中\!](https://ja.wikipedia.org/wiki/きらりブックス迷走中! "wikilink")（[はまじあき](https://ja.wikipedia.org/wiki/はまじあき "wikilink")、2015年9月号 - 11月号ゲスト、12月号 - 2017年10月号）
   - [すくりぞ\!](https://ja.wikipedia.org/wiki/すくりぞ! "wikilink")（[らぐほのえりか](https://ja.wikipedia.org/wiki/らぐほのえりか "wikilink")、2015年10月号 - 11月号ゲスト、2016年1月号 - 2017年12月号）
   - [魔法少女のカレイなる余生](https://ja.wikipedia.org/wiki/魔法少女のカレイなる余生 "wikilink")（[晴瀬ひろき](../Page/晴瀬ひろき.md "wikilink")、2015年11月号 - 12月号ゲスト、2016年1月号 - 2019年1月号）
   - [ななかさんの印税生活入門](https://ja.wikipedia.org/wiki/ななかさんの印税生活入門 "wikilink")（[kashmir](https://ja.wikipedia.org/wiki/kashmir "wikilink")、2016年2月号 - 2019年4月号）
-  - [夢見るプリマ・ガール\!](https://ja.wikipedia.org/wiki/夢見るプリマ・ガール! "wikilink")（[昆布わかめ](https://ja.wikipedia.org/wiki/昆布わかめ "wikilink")、2016年1月号 - 2月号ゲスト\[7\]、4月号 - 2018年3月号）
+  - [夢見るプリマ・ガール\!](https://ja.wikipedia.org/wiki/夢見るプリマ・ガール! "wikilink")（[昆布わかめ](../Page/昆布わかめ.md "wikilink")、2016年1月号 - 2月号ゲスト\[7\]、4月号 - 2018年3月号）
   - [どうして私が美術科に\!?](https://ja.wikipedia.org/wiki/どうして私が美術科に!? "wikilink")（[相崎うたう](https://ja.wikipedia.org/wiki/相崎うたう "wikilink")、2016年3月号 - 5月号ゲスト、6月号 - 2019年5月号）
   - [ゴスロリJK無人島漂流記](https://ja.wikipedia.org/wiki/ゴスロリJK無人島漂流記 "wikilink")（[青田めい](https://ja.wikipedia.org/wiki/青田めい "wikilink")、2016年4月号 - 5月号ゲスト、7月号 - 2018年6月号）
   - [TCGirls](https://ja.wikipedia.org/wiki/TCGirls "wikilink")（[もみのさと](https://ja.wikipedia.org/wiki/もみのさと "wikilink")、2016年5月号 - 6月号ゲスト、8月号 - 2018年7月号）

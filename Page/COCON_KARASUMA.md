@@ -40,6 +40,6 @@
 
   -
   -
-[Category:占領軍に接収された日本の建築物](https://ja.wikipedia.org/wiki/Category:占領軍に接収された日本の建築物 "wikilink") [Category:1938年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:1938年竣工の日本の建築物 "wikilink") [Category:京都市の商業施設](https://ja.wikipedia.org/wiki/Category:京都市の商業施設 "wikilink") [Category:下京区の建築物](https://ja.wikipedia.org/wiki/Category:下京区の建築物 "wikilink") [Category:隈研吾](https://ja.wikipedia.org/wiki/Category:隈研吾 "wikilink") [Category:丸紅の歴史](https://ja.wikipedia.org/wiki/Category:丸紅の歴史 "wikilink")
+[Category:占領軍に接収された日本の建築物](https://ja.wikipedia.org/wiki/Category:占領軍に接収された日本の建築物 "wikilink") [Category:1938年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:1938年竣工の日本の建築物 "wikilink") [Category:京都市の商業施設](https://ja.wikipedia.org/wiki/Category:京都市の商業施設 "wikilink") [Category:下京区の建築物](https://ja.wikipedia.org/wiki/Category:下京区の建築物 "wikilink") [Category:隈研吾](https://ja.wikipedia.org/wiki/Category:隈研吾 "wikilink") [Category:丸紅の歴史](https://ja.wikipedia.org/wiki/Category:丸紅の歴史 "wikilink") [Category:エフエム京都](https://ja.wikipedia.org/wiki/Category:エフエム京都 "wikilink")
 
 1.  [5/1 kara-Sリニューアルのお知らせ](http://www.kara-s.jp/news/20130501_new_kara-s.html)（2013年4月29日）、京都精華大学 kara-S、2014年1月30日閲覧。

@@ -41,7 +41,7 @@ CDデビューイベントは2000年7月に[池袋](../Page/池袋.md "wikilink"
 
 ## 脚注
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")
+[Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink")
 
 1.  [NHK老舗番組にパラパラ登場の事情 「みんなのうた」で放送中](https://web.archive.org/web/20010501040904/http://www.zakzak.co.jp/geino/n-2001_04/g2001041910.html)、ZAKZAK、2001年4月19日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
 2.

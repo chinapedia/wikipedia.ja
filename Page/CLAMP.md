@@ -17,7 +17,7 @@
 
 ## メンバー
 
-2009年現在のメンバーは以下の女性4人。4人とも[2004年](../Page/2004年.md "wikilink")に商業デビュー15周年を期に改名したが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月に大川のみ「緋芭（あげは）」から旧名の「七瀬」へと戻した。
+2009年現在のメンバーは以下の女性4人。4人とも[2004年](../Page/2004年.md "wikilink")に商業デビュー15周年を機に改名したが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月に大川のみ「緋芭（あげは）」から旧名の「七瀬」へと戻した。
 
 なお、CLAMPにはアシスタントはおらず、ストーリー担当の大川七瀬を除いた3人ですべてを描いている。
 
@@ -41,12 +41,12 @@
 ## 作風
 
   - [2000年](../Page/2000年.md "wikilink")頃を境にそれまで頻繁だった[スクリーントーン](../Page/スクリーントーン.md "wikilink")の使用が激減し、すっきりした線画で描かれるようになっている。
-  - 「物事は偶然ではなく必然で動く」、「死んだ者が生き返ることは決して無い」という世界観、舞台設定上[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")がキーとなる作品が多いこと、[武道](../Page/武道.md "wikilink")を得意とするキャラクターがよく登場することなどが特徴として挙げられる。
+  - 「物事は偶然ではなく必然で動く」「死んだ者が生き返ることは決して無い」という世界観、舞台設定上[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")がキーとなる作品が多いこと、[武道](../Page/武道.md "wikilink")を得意とするキャラクターがよく登場することなどが特徴として挙げられる。
   - 作品中においては、主人公が魔法などの特別な力を持っていながら、その力は日常においては使わず必要な時にだけ使うという考え方、つまり特別な力を持つ自分自身を特別な存在だと思わず、自分が身を置く世界で魔法などの力は非日常ではなく日常だという考え（この考えは『[東京BABYLON](../Page/東京BABYLON.md "wikilink")』の作中で、霊能力に溺れる3人の少女に対して桜塚星史郎が説教）をほぼ貫徹している。
   - キャラクターを別作品に再登場させることがある。[スター・システムを用いて](https://ja.wikipedia.org/wiki/スター・システム_\(小説・アニメ・漫画\) "wikilink")、「異世界の同一人物」としている場合もある。
   - [隻眼](../Page/隻眼.md "wikilink")もしくは[オッドアイの設定を持つ](../Page/虹彩異色症.md "wikilink")（ようになる）キャラクターが多く登場している。
   - 絵柄は作品の内容によって頻繁に描き分けている。『[XXXHOLiC](../Page/XXXHOLiC.md "wikilink")』などの近年の作品では、頭身の高いキャラクターを描くようになった。
-      - 出版物によっては稀に、イラストの著作者として個人名義で表記されていることがあり 、作画担当の3名の絵柄に差があることが伺える。
+      - 出版物によっては稀に、イラストの著作者として個人名義で表記されていることがあり 、作画担当の3名の絵柄に差があることが窺える。
       - 作画担当の3名の作画体制は明らかにされていないが、唯一、マスコットキャラクターとも言える「[モコナ](../Page/モコナ.md "wikilink")」は猫井椿が描いていることが明らかにされている。
 
 ## 名前の由来
@@ -119,7 +119,7 @@
   - **[ちょびっツ](../Page/ちょびっツ.md "wikilink")**（講談社 2000年-2002年）
   - [合法ドラッグ](../Page/合法ドラッグ_\(漫画\).md "wikilink")（角川書店 2000年- 完結済）
   - [かきょうのちきゅうせいふくにっき](https://ja.wikipedia.org/wiki/かきょうのちきゅうせいふくにっき "wikilink")（2002年）
-  - **[XXXHOLiC](../Page/XXXHOLiC.md "wikilink")**（講談社 2003年- 2011年）
+  - **[XXXHOLiC](../Page/XXXHOLiC.md "wikilink")**\[18\]（講談社 2003年- 2011年）
       - [XXHOLiC・戻](../Page/XXXHOLiC.md "wikilink")（講談社 2013年-）
   - **[ツバサ-RESERVoir CHRoNiCLE-](../Page/ツバサ-RESERVoir_CHRoNiCLE-.md "wikilink")**（講談社 2003年-2009年）
       - [ツバサ-WoRLD CHRoNiCLE-ニライカナイ編](https://ja.wikipedia.org/wiki/ツバサ-WoRLD_CHRoNiCLE-ニライカナイ編 "wikilink")（講談社 2014年-2016年）
@@ -148,7 +148,7 @@
   - [撲殺天使ドクロちゃん です](../Page/撲殺天使ドクロちゃん.md "wikilink")（[メディアワークス](../Page/メディアワークス.md "wikilink") 2006年6月）
   - [魔女館シリーズ](https://ja.wikipedia.org/wiki/魔女館シリーズ "wikilink")（[青い鳥文庫](../Page/青い鳥文庫.md "wikilink") 2006年6月15日 - 2011年10月8日）
   - [xxxHOLiC アナザーホリック ランドルト環エアロゾル](https://ja.wikipedia.org/wiki/XXXHOLiC#ノベライズ "wikilink")（[西尾維新](../Page/西尾維新.md "wikilink") 講談社 2006年8月1日）
-  - [舞姫](https://ja.wikipedia.org/wiki/舞姫_\(森鴎外の小説\) "wikilink")・[うたかたの記](../Page/うたかたの記.md "wikilink")（[森鴎外](https://ja.wikipedia.org/wiki/森鴎外 "wikilink") [角川文庫](../Page/角川文庫.md "wikilink") 2008年6月25日）
+  - [舞姫](https://ja.wikipedia.org/wiki/舞姫_\(森鷗外\) "wikilink")・[うたかたの記](../Page/うたかたの記.md "wikilink")（[森鷗外](https://ja.wikipedia.org/wiki/森鷗外 "wikilink") [角川文庫](../Page/角川文庫.md "wikilink") 2008年6月25日）
   - [山椒大夫](../Page/山椒大夫.md "wikilink")・[高瀬舟](../Page/高瀬舟_\(小説\).md "wikilink")・[阿部一族](../Page/阿部一族.md "wikilink")（森鴎外 角川文庫 2008年6月25日）
   - [神々シリーズ](https://ja.wikipedia.org/wiki/神々シリーズ "wikilink")（[あさのあつこ](../Page/あさのあつこ.md "wikilink") 講談社 2009年10月1日 - 2013年10月29日）
   - おもしろい話が読みたい\! マジカル編（アンソロジー 青い鳥文庫 2010年8月5日）
@@ -205,14 +205,14 @@
   - [スウィート・ヴァレリアン](../Page/スウィート・ヴァレリアン.md "wikilink")（講談社 2004年） - 原案・メインキャラクターデザイン
   - [コードギアス 反逆のルルーシュ](../Page/コードギアス_反逆のルルーシュ.md "wikilink")（テレビアニメ 2006年-2007年） - キャラクターデザイン原案
   - コードギアス 反逆のルルーシュR2（テレビアニメ 2008年） - キャラクターデザイン原案・エンディングイラスト
-  - [魍魎の匣](../Page/魍魎の匣.md "wikilink")（テレビアニメ 2008年） - キャラクターデザイン原案
+  - [魍魎の匣](../Page/魍魎の匣.md "wikilink")（テレビアニメ 2008年） - キャラクターデザイン原案\[19\]
   - [鉄拳6](../Page/鉄拳6.md "wikilink")（PS3、PSP、XBOX360版） - 風間仁のEXコスチュームデザイン
   - [天才てれびくん](https://ja.wikipedia.org/wiki/天才てれびくん "wikilink")MAX（2009年） - ガールズ通信社キャラクター・ハピ子 キャラクターデザイン
-  - [BLOOD-C](https://ja.wikipedia.org/wiki/BLOOD-C "wikilink")（2011年） - 原作・ストーリー・キャラクターデザイン原案\[18\]
+  - [BLOOD-C](https://ja.wikipedia.org/wiki/BLOOD-C "wikilink")（2011年） - 原作・ストーリー・キャラクターデザイン原案\[20\]
   - [劇場版 BLOOD-C The Last Dark](https://ja.wikipedia.org/wiki/BLOOD-C#映画 "wikilink")（2012年） - 原作・ストーリー・キャラクターデザイン原案
   - [コードギアス 反逆のルルーシュ ナナリーinワンダーランド](https://ja.wikipedia.org/wiki/コードギアス_反逆のルルーシュ_ナナリーinワンダーランド "wikilink")（2012年） - キャラクター原案
   - [コードギアス 亡国のアキト](https://ja.wikipedia.org/wiki/コードギアス_亡国のアキト "wikilink")（2012年） - キャラクターデザイン原案
-  - MOONSAGA-義経秘伝-（原作/脚本/演出/主演:[GACKT](https://ja.wikipedia.org/wiki/GACKT "wikilink") 企画協力/衣装コンセプトデザイン:CLAMP）\[19\]
+  - MOONSAGA-義経秘伝-（原作/脚本/演出/主演:[GACKT](https://ja.wikipedia.org/wiki/GACKT "wikilink") 企画協力/衣装コンセプトデザイン:CLAMP）\[21\]
   - [BLOOD-C The LAST MIND](https://ja.wikipedia.org/wiki/BLOOD-C#舞台 "wikilink")（2015年） - 原作
   - [カブキブ\!](https://ja.wikipedia.org/wiki/カブキブ! "wikilink")（テレビアニメ 2017年） - アニメキャラクター原案
   - [阿修羅少女～BLOOD-C異聞～](https://ja.wikipedia.org/wiki/BLOOD-C#実写映画 "wikilink")（2017年） - 原作
@@ -242,32 +242,33 @@
 
 ## エピソード
 
-  - メンバー全員が『[ジョジョの奇妙な冒険](../Page/ジョジョの奇妙な冒険.md "wikilink")』の大ファンで、原作者の[荒木飛呂彦](../Page/荒木飛呂彦.md "wikilink")とCLAMPのメンバーである猫井椿の対談などの交流もある。
+  - メンバー全員が『[ジョジョの奇妙な冒険](../Page/ジョジョの奇妙な冒険.md "wikilink")』の大ファンで、原作者の[荒木飛呂彦](../Page/荒木飛呂彦.md "wikilink")とCLAMPのメンバーである猫井椿の対談\[22\]などの交流もある。
 
 ## 脚注
 
 ## 参考文献
 
-  - 「漫画も描ける、企画・製作チーム CLAMP」『[MORE](../Page/MORE_\(雑誌\).md "wikilink")』[1993年](../Page/1993年.md "wikilink")9月号、[集英社](../Page/集英社.md "wikilink")。
-  - 「CLAMPの素顔 人生の旅路は女同士が面白い」『[FRaU](https://ja.wikipedia.org/wiki/FRaU "wikilink")』[2004年](../Page/2004年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")号、[講談社](../Page/講談社.md "wikilink")。
+  -
+<!-- end list -->
 
+  -
 ## 外部リンク
 
   -
   -
 [Category:20世紀日本の女性著作家](https://ja.wikipedia.org/wiki/Category:20世紀日本の女性著作家 "wikilink") [Category:21世紀日本の女性著作家](https://ja.wikipedia.org/wiki/Category:21世紀日本の女性著作家 "wikilink") [Category:日本の漫画家](https://ja.wikipedia.org/wiki/Category:日本の漫画家 "wikilink") [Category:同人作家](https://ja.wikipedia.org/wiki/Category:同人作家 "wikilink") [Category:共有筆名](https://ja.wikipedia.org/wiki/Category:共有筆名 "wikilink") [Category:CLAMP](https://ja.wikipedia.org/wiki/Category:CLAMP "wikilink")
 
-1.  「漫画も描ける、企画・製作チーム CLAMP」『MORE』1993年9月号、304頁。
+1.  [『MORE』1993年9月号](https://ja.wikipedia.org/wiki/#MORE "wikilink")、304頁。
 2.
 3.
 4.
 5.
-6.  日外アソシエーツ発行『漫画家人名事典』（2003年2月）ISBN 978-4-8169-1760-8、P72
-7.  同『漫画家人名事典』P30
-8.  同『漫画家人名事典』P288
-9.  同『漫画家人名事典』P375
+6.
+7.
+8.
+9.
 10. 『聖伝』第1巻（[新書館](../Page/新書館.md "wikilink")、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）巻末に記載。七穂せいは執筆者ではなく「応援」となっている。
-11. 「TALK SESSION I 高河ゆん+大川七瀬」、『高河ゆん漫画家30周年記念本 30――までだと思っていた道は、まだ先に続いている（といいな）』、一迅社、ISBN 978-4-7580-3083-0、8-23頁、2015年。
+11.
 12.
 13.
 14.
@@ -275,4 +276,7 @@
 16.
 17.
 18.
-19. [義経秘伝公式サイト](http://www.dmm.com/moonsaga)
+19.
+20.
+21.
+22.

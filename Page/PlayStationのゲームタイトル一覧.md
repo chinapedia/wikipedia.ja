@@ -19,5 +19,9 @@
 ## 関連項目
 
   - [PS one Books](../Page/PS_one_Books.md "wikilink") - PS one の発売に際して発売されたプレイステーション用ゲームソフトの廉価版シリーズ
+  - [PlayStation 2のゲームタイトル一覧](../Page/PlayStation_2のゲームタイトル一覧.md "wikilink")
+  - [PlayStation 3のゲームタイトル一覧](../Page/PlayStation_3のゲームタイトル一覧.md "wikilink")
+  - [PlayStation 4のゲームタイトル一覧](https://ja.wikipedia.org/wiki/PlayStation_4のゲームタイトル一覧 "wikilink")
+  - [PlayStation 5のゲームタイトル一覧](../Page/PlayStation_5のゲームタイトル一覧.md "wikilink")
 
 [Category:ゲーム機別ゲームタイトル一覧](https://ja.wikipedia.org/wiki/Category:ゲーム機別ゲームタイトル一覧 "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink")

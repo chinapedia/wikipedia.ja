@@ -19,8 +19,8 @@ SPコードの『SP』とは「スーパー」の意味である\[11\]。
 
 ## 外部リンク
 
-  - [スピーチオ・ＳＰコード公式ホームページ](http://www.sp-code.com/)
-  - [テルミー公式ホームページ](http://www.tellme.jp/)
+  - [SPコード公式ホームページ](http://www.sp-code.com/)
+  - [テルミー](http://www.tellme.jp/)
 
 [Category:バーコード](https://ja.wikipedia.org/wiki/Category:バーコード "wikilink") [Category:視覚障害](https://ja.wikipedia.org/wiki/Category:視覚障害 "wikilink") [Category:音声合成](https://ja.wikipedia.org/wiki/Category:音声合成 "wikilink") [Category:バリアフリー](https://ja.wikipedia.org/wiki/Category:バリアフリー "wikilink") [Category:日本の発明](https://ja.wikipedia.org/wiki/Category:日本の発明 "wikilink")
 

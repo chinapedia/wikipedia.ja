@@ -147,6 +147,12 @@
   - 「[sailing day](https://ja.wikipedia.org/wiki/ロストマン/sailing_day "wikilink")」
     作詞・作曲 - [藤原基央](https://ja.wikipedia.org/wiki/藤原基央 "wikilink") / 編曲 - [BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink") / 歌 - BUMP OF CHICKEN
 
+## 関連書籍
+
+  - [アニメ・コミックス](../Page/フィルムコミック.md "wikilink") ONE PIECE THE MOVIE デッドエンドの冒険（上）（2003年10月3日発売、ISBN 978-4088735474）
+  - アニメ・コミックス ONE PIECE THE MOVIE デッドエンドの冒険（下）（2003年10月3日発売、ISBN 978-4088735481）
+      - 新装版 アニメ・コミックス ONE PIECE THE MOVIE デッドエンドの冒険（2011年2月18日発売、ISBN 978-4088748504） - 上記2冊の合本。
+
 ## 脚注
 
 <references/>

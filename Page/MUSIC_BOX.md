@@ -71,7 +71,7 @@
   - [また逢う日まで](../Page/また逢う日まで_\(尾崎紀世彦の曲\).md "wikilink")（'71）/[尾崎紀世彦](https://ja.wikipedia.org/wiki/尾崎紀世彦 "wikilink")
   - [喝采](../Page/喝采_\(曲\).md "wikilink")（'72）/[ちあきなおみ](../Page/ちあきなおみ.md "wikilink")
   - [岬めぐり](https://ja.wikipedia.org/wiki/岬めぐり "wikilink")（'74）/[山本コウタロー](../Page/山本コウタロー.md "wikilink")とウィークエンド
-  - [異邦人](https://ja.wikipedia.org/wiki/異邦人_\(久保田早紀の曲\) "wikilink")（'79）/[久保田早紀](../Page/久米小百合.md "wikilink")
+  - [異邦人](../Page/異邦人_-シルクロードのテーマ-.md "wikilink")（'79）/[久保田早紀](../Page/久米小百合.md "wikilink")
   - [結婚しようよ](https://ja.wikipedia.org/wiki/結婚しようよ "wikilink")（'72）/[よしだたくろう](../Page/吉田拓郎.md "wikilink")
   - [わたしの彼は左きき](../Page/わたしの彼は左きき.md "wikilink")（'73）/[麻丘めぐみ](../Page/麻丘めぐみ.md "wikilink")
   - [たどりついたらいつも雨ふり](https://ja.wikipedia.org/wiki/たどりついたらいつも雨ふり "wikilink")（'72）/[ザ・モップス](../Page/ザ・モップス.md "wikilink")
@@ -158,7 +158,7 @@
   - [メリーアン](../Page/メリーアン_\(曲\).md "wikilink")/[アルフィー](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")
   - [まっ赤な女の子](../Page/まっ赤な女の子.md "wikilink")/[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")
   - [SUMMER SUSPICION](https://ja.wikipedia.org/wiki/SUMMER_SUSPICION "wikilink")/[杉山清貴&オメガトライブ](https://ja.wikipedia.org/wiki/杉山清貴&オメガトライブ "wikilink")
-  - [SWEET MEMORIES](https://ja.wikipedia.org/wiki/SWEET_MEMORIES "wikilink")/[松田聖子](../Page/松田聖子.md "wikilink")\[3\]。
+  - [SWEET MEMORIES](https://ja.wikipedia.org/wiki/ガラスの林檎/SWEET_MEMORIES "wikilink")/[松田聖子](../Page/松田聖子.md "wikilink")\[3\]。
 
 #### 1984年
 

@@ -7,7 +7,7 @@
 
   - インディーズではシングル「OVER」をリリースしていたが、[沖縄県](../Page/沖縄県.md "wikilink")と一部の[タワーレコード](../Page/タワーレコード.md "wikilink")での限定発売だったため、全国発売としてはこれが初となる。
   - 同年3月24日には、表題曲「PRIDE」のリミックス曲を収録した、「PRIDE Remix」が発売されている（後述）。
-  - 2005年2月18日、この曲で『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に初出演した。
+  - この曲で[テレビ朝日](../Page/テレビ朝日.md "wikilink")系音楽番組『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に初出演した\[1\]。
   - 2005年12月31日、『[第47回日本レコード大賞](https://ja.wikipedia.org/wiki/第47回日本レコード大賞 "wikilink")』の新人賞に本人たちがノミネートされた時にこの曲が披露された。
 
 ## 収録曲
@@ -57,4 +57,8 @@
       -
         [コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")『[機動戦士ガンダムSEED DESTINY COMPLETE BEST](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY_COMPLETE_BEST "wikilink") DASH』にも収録されている。
 
+## 脚注
+
 [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink") [Category:HIGH_and_MIGHTY_COLORの楽曲](https://ja.wikipedia.org/wiki/Category:HIGH_and_MIGHTY_COLORの楽曲 "wikilink") [Category:2005年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:2005年のデビュー・シングル "wikilink") [Category:エスエムイーレコーズのシングル](https://ja.wikipedia.org/wiki/Category:エスエムイーレコーズのシングル "wikilink") [Category:ガンダムシリーズのアニメソング](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズのアニメソング "wikilink") [Category:毎日放送のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:毎日放送のテレビアニメ主題歌 "wikilink") [Category:ロックマンエグゼの音楽](https://ja.wikipedia.org/wiki/Category:ロックマンエグゼの音楽 "wikilink") [Category:ポピュラーソング](https://ja.wikipedia.org/wiki/Category:ポピュラーソング "wikilink")
+
+1.

@@ -5,7 +5,7 @@
 
 ## 概要
 
-[尾関茂雄](../Page/尾関茂雄.md "wikilink")が1999年に株式会社アクシブドットコムとして創業後、2011年10月、「株式会社ECナビ」より社名変更。サイバーエージェントの子会社を経て独立（代表取締役会長の宇佐美進典は一時期[サイバーエージェント](https://ja.wikipedia.org/wiki/サイバーエージェント "wikilink")の[CTO](https://ja.wikipedia.org/wiki/CTO "wikilink")を務めていた）。主な事業としては、メディア事業と、アドテクノロジー事業を営む。自社メディア事業としては、販促メディア・コンテンツメディアの運営を行っている。アドテクノロジー事業としては、Web検索やリスティング広告の導入支援事業や、広告配信の最適化をはかるSSP（Supply-Side-Platform）事業をインターネットメディアに対し展開している。2015年9月、東証一部上場。2018年11月、株式会社[電通](../Page/電通.md "wikilink")からの資本参加により[サイバー・コミュニケーションズ](https://ja.wikipedia.org/wiki/サイバー・コミュニケーションズ "wikilink")との経営統合を発表。2019年1月、社名を株式会社[CARTA HOLDINGSに改め代表取締役会長に](../Page/CARTA_HOLDINGS.md "wikilink")[宇佐美 進典](https://ja.wikipedia.org/wiki/宇佐美_進典 "wikilink")、代表取締役社長に[新澤 明男が就任した](https://ja.wikipedia.org/wiki/新澤_明男 "wikilink")。
+[尾関茂雄](../Page/尾関茂雄.md "wikilink")が1999年に株式会社アクシブドットコムとして創業後、2011年10月、「株式会社ECナビ」より社名変更。サイバーエージェントの子会社を経て独立（代表取締役会長の宇佐美進典は一時期[サイバーエージェント](https://ja.wikipedia.org/wiki/サイバーエージェント "wikilink")の[CTO](https://ja.wikipedia.org/wiki/CTO "wikilink")を務めていた）。主な事業としては、メディア事業と、アドテクノロジー事業を営む。自社メディア事業としては、販促メディア・コンテンツメディアの運営を行っている。アドテクノロジー事業としては、Web検索やリスティング広告の導入支援事業や、広告配信の最適化をはかるSSP（Supply-Side-Platform）事業をインターネットメディアに対し展開している。2015年9月、東証一部上場。2018年11月、株式会社[電通](../Page/電通.md "wikilink")からの資本参加により[サイバー・コミュニケーションズ](https://ja.wikipedia.org/wiki/サイバー・コミュニケーションズ "wikilink")との経営統合を発表。2019年1月、社名を株式会社**CARTA HOLDINGS**に改め代表取締役会長に[宇佐美 進典](https://ja.wikipedia.org/wiki/宇佐美_進典 "wikilink")、代表取締役社長に[新澤 明男が就任した](https://ja.wikipedia.org/wiki/新澤_明男 "wikilink")。
 
 ## 事業内容
 

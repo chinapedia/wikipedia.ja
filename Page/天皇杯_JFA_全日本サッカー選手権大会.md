@@ -3,13 +3,13 @@
 
 **天皇杯 JFA 全日本サッカー選手権大会**（てんのうはい ジェイエフエイ ぜんにほん\[1\] サッカーせんしゅけんたいかい）（）は、[日本のサッカー](https://ja.wikipedia.org/wiki/日本のサッカー "wikilink")の[カップ戦](../Page/カップ戦.md "wikilink")の1つである。2017年大会までは**天皇杯全日本サッカー選手権大会**（てんのうはい ぜんにほんサッカーせんしゅけんたいかい）と称していた。
 
-優勝チームに[AFCチャンピオンズリーグ](../Page/AFCチャンピオンズリーグ.md "wikilink")への出場権が与えられる。
+優勝チームに[AFCチャンピオンズリーグ](../Page/AFCチャンピオンズリーグ.md "wikilink")への出場権が与えられる。[J1リーグ](https://ja.wikipedia.org/wiki/J1リーグ "wikilink")、[JリーグYBCルヴァンカップと合わせて日本の](../Page/Jリーグカップ.md "wikilink")[国内3大タイトルの](https://ja.wikipedia.org/wiki/トレブル_\(サッカー\) "wikilink")1つとされる（[FUJI XEROX SUPER CUPは除く](../Page/FUJI_XEROX_SUPER_CUP.md "wikilink")）\[2\]。
 
 ## 概要
 
 [1921年](../Page/1921年.md "wikilink")に開始されたサッカーの[日本選手権大会](../Page/日本選手権大会.md "wikilink")であり、[日本サッカー協会チーム登録種別](../Page/日本サッカー協会チーム登録種別.md "wikilink")の第1種登録があれば基本的に予選に参加可能なオープントーナメントである。
 
-[J1リーグ](https://ja.wikipedia.org/wiki/J1リーグ "wikilink")、[JリーグYBCルヴァンカップと合わせて日本の](../Page/Jリーグカップ.md "wikilink")[国内3大タイトルの](https://ja.wikipedia.org/wiki/トレブル_\(サッカー\) "wikilink")1つとされる（[FUJI XEROX SUPER CUPは除く](../Page/FUJI_XEROX_SUPER_CUP.md "wikilink")）\[2\]。2013年度（第93回）まで[元日](../Page/元日.md "wikilink")に[国立霞ヶ丘陸上競技場](../Page/国立霞ヶ丘陸上競技場.md "wikilink")にて決勝戦が開催され、[サンケイスポーツ](../Page/サンケイスポーツ.md "wikilink")などは「[正月](../Page/正月.md "wikilink")の[風物詩](../Page/風物詩.md "wikilink")」と称していた\[3\]。
+2013年度（第93回）まで[元日](../Page/元日.md "wikilink")に[国立霞ヶ丘陸上競技場](../Page/国立霞ヶ丘陸上競技場.md "wikilink")にて決勝戦が開催され、[サンケイスポーツ](../Page/サンケイスポーツ.md "wikilink")などは「[正月](../Page/正月.md "wikilink")の[風物詩](../Page/風物詩.md "wikilink")」と称していた\[3\]。
 
 ## 沿革
 
@@ -1265,9 +1265,9 @@
 </tbody>
 </table>
 
-## 統計
+## 統計・記録
 
-### チーム別成績
+### 全クラブ別成績
 
   - 現存するチームは現在のチーム名を表記し、廃部したチームはその当時のチーム名を表記する。
   - 大学関連チームの成績は、複数の文献の記述\[74\] に基づき、現役学生のみで構成されたチームの成績と、学生・OB混成チームの成績を包括して表記する。

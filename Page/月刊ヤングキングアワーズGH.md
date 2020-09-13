@@ -18,13 +18,11 @@
 ## 連載作品
 
   - 悪役令嬢転生おじさん（[上山道郎](../Page/上山道郎.md "wikilink")）
-  - アホゲノム〜座牟坂サタニックヘアー〜（[井上和郎](../Page/井上和郎.md "wikilink")）
   - 異世界狙撃手（スナイパー）は女戦士のモフモフ愛玩動物（ペット）（原作：[光永康則](../Page/光永康則.md "wikilink")、作画：いのまる）
   - 美味しいエルフ（[ISUTOSHI](https://ja.wikipedia.org/wiki/ISUTOSHI "wikilink")）
   - [おくさん](https://ja.wikipedia.org/wiki/おくさん "wikilink")（[大井昌和](../Page/大井昌和.md "wikilink")）
   - 俺のキスで世界が変わるなら（[紺條夏生](https://ja.wikipedia.org/wiki/紺條夏生 "wikilink")）
   - オレは床で寝ます\!（9℃）
-  - かみくじむら（[大見武士](https://ja.wikipedia.org/wiki/大見武士 "wikilink")）
   - 社長、恋人のフリをして私の父に会ってください。（[塩野干支郎次](../Page/塩野干支郎次.md "wikilink")）
   - [出撃\!喫茶あるぺじお](https://ja.wikipedia.org/wiki/蒼き鋼のアルペジオ#コラム・トリビュート作など "wikilink")（[小竹田貴弘](../Page/小竹田貴弘.md "wikilink")）
   - 心理学は役に立たない\!?（原作：[ゆうきゆう](https://ja.wikipedia.org/wiki/ゆうきゆう "wikilink")、作画：[ソウ](https://ja.wikipedia.org/wiki/ソウ_\(漫画家\) "wikilink")） ※2017年9月号にて『カウンセリングを学ぶ話を聞かない13人』→『心理学は役に立たない\!?』に改題
@@ -33,7 +31,8 @@
   - ちょっと社会不適合者さん（ウシハシル）
   - [棺探偵D\&W](https://ja.wikipedia.org/wiki/棺探偵D&W "wikilink")（[光永康則](../Page/光永康則.md "wikilink")） ※不定期連載
   - 変と乱（[しおやてるこ](https://ja.wikipedia.org/wiki/しおやてるこ "wikilink")）
-  - 魔導士 LV99 は空気が読めない（[山西正則](https://ja.wikipedia.org/wiki/山西正則 "wikilink")）
+  - マンガで分かる肉体改造（原作：ゆうきゆう、作画：ソウ）
+      - 免疫力アップ編
   - メガネさんは意外とかわいい（[新居さとし](../Page/新居さとし.md "wikilink")）
   - ヨタモノサダメ〜八百八町の鑑定奇譚〜（瀬戸一里）
 
@@ -48,6 +47,7 @@
   - アイドルを守るだけの簡単なお仕事。（甘夏）
   - [蒼き鋼のアルペジオ ノベライズ](https://ja.wikipedia.org/wiki/蒼き鋼のアルペジオ#コラム・トリビュート作など "wikilink")（[森田繁](../Page/森田繁.md "wikilink")） ※小説作品
   - アタシのセンパイ（[しおやてるこ](https://ja.wikipedia.org/wiki/しおやてるこ "wikilink")）
+  - アホゲノム〜座牟坂サタニックヘアー〜（[井上和郎](../Page/井上和郎.md "wikilink")）
   - 悪霊神 〜あらがみ〜（[竹山祐右](../Page/竹山祐右.md "wikilink")）
   - [アルペジオ劇場](https://ja.wikipedia.org/wiki/蒼き鋼のアルペジオ#コラム・トリビュート作など "wikilink")（[山村響](https://ja.wikipedia.org/wiki/山村響 "wikilink")）
   - E.D.D（[橋本エイジ](https://ja.wikipedia.org/wiki/橋本エイジ "wikilink")） ←『[ヤングキング](../Page/ヤングキング.md "wikilink")』からの移籍
@@ -69,6 +69,7 @@
   - カッコイイ男キャラクター漫画教室\!（[Boichi](../Page/Boichi.md "wikilink")） ※2017年7月号から2019年3月号まで休載
   - [ガッデス](https://ja.wikipedia.org/wiki/GODEATH_〜女神の血脈〜 "wikilink")（[塩崎雄二](../Page/塩崎雄二.md "wikilink")）
   - 彼女がビキニアーマーにきがえたら（[花見沢Q太郎](../Page/花見沢Q太郎.md "wikilink")）
+  - かみくじむら（[大見武士](https://ja.wikipedia.org/wiki/大見武士 "wikilink")）
   - KISS MY ASS（[大見武士](https://ja.wikipedia.org/wiki/大見武士 "wikilink")）
   - 鬼啖撃鉄サバイヴァ\!\!（霧恵マサノブ）
   - 軌道の鎧 レイルゴースト（[戸田泰成](../Page/戸田泰成.md "wikilink")）
@@ -132,6 +133,7 @@
   - [ブロッケンブラッド](../Page/ブロッケンブラッド.md "wikilink")IX（塩野干支郎次）
   - 放課後探偵倶楽部（[石川マサキ](../Page/石川マサキ.md "wikilink")）
   - ぼくらのふしだら（[大見武士](https://ja.wikipedia.org/wiki/大見武士 "wikilink")）
+  - 魔導士 LV99 は空気が読めない（[山西正則](https://ja.wikipedia.org/wiki/山西正則 "wikilink")）
   - [まるせい](https://ja.wikipedia.org/wiki/まるせい_\(漫画\) "wikilink")（[花見沢Q太郎](../Page/花見沢Q太郎.md "wikilink")） ←『ヤングキング』からの移籍
   - マンガで読む心のクスリ（原作：[ゆうきゆう](https://ja.wikipedia.org/wiki/ゆうきゆう "wikilink")、作画：[長月みそか](../Page/長月みそか.md "wikilink")）
   - マンガで分かる肉体改造（原作：ゆうきゆう、作画：ソウ）

@@ -355,7 +355,7 @@
 
 ### THE WINDS OF GOD -KAMIKAZE- （2006年版）
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Ruin_of_Fuke_es_Okuchi_2010.JPG "wikilink") 『**THE WINDS OF GOD -KAMIKAZE-**』というタイトルで[2006年](../Page/2006年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")に公開。国際映画として上映するため、現代を演じる場面の舞台はアメリカへと変更され、タイムスリップする人間もニューヨーク在住のアメリカ人コメディアンという設定になっている。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Ruin_of_Fuke_es_Okuchi_2010.JPG "wikilink")  『**THE WINDS OF GOD -KAMIKAZE-**』というタイトルで[2006年](../Page/2006年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")に公開。国際映画として上映するため、現代を演じる場面の舞台はアメリカへと変更され、タイムスリップする人間もニューヨーク在住のアメリカ人コメディアンという設定になっている。
 
 #### キャスト
 
@@ -471,6 +471,11 @@
 ## 外部リンク
 
   - [THE WINDS OF GOD オフィシャルサイト](http://windsofgod.com/)
+
+  -
+  -
+  -
+  -
 
 [Category:日本の戯曲](https://ja.wikipedia.org/wiki/Category:日本の戯曲 "wikilink") [Category:太平洋戦争の海戦を題材とした作品](https://ja.wikipedia.org/wiki/Category:太平洋戦争の海戦を題材とした作品 "wikilink") [Category:タイムトラベルを題材とした作品](https://ja.wikipedia.org/wiki/Category:タイムトラベルを題材とした作品 "wikilink") [Category:特攻を題材とした作品](https://ja.wikipedia.org/wiki/Category:特攻を題材とした作品 "wikilink") [Category:人格の入れ替わりを題材とした作品](https://ja.wikipedia.org/wiki/Category:人格の入れ替わりを題材とした作品 "wikilink") [Category:転生を題材とした作品](https://ja.wikipedia.org/wiki/Category:転生を題材とした作品 "wikilink") [Category:演芸を題材とした作品](https://ja.wikipedia.org/wiki/Category:演芸を題材とした作品 "wikilink")
 

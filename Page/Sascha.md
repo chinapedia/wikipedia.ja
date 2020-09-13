@@ -38,10 +38,11 @@
   - [第64回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第64回NHK紅白歌合戦 "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")） - [Linked Horizon](https://ja.wikipedia.org/wiki/Linked_Horizon "wikilink")「[紅蓮の弓矢](https://ja.wikipedia.org/wiki/自由への進撃 "wikilink")」のドイツ語ナレーションを担当
   - [F3](https://ja.wikipedia.org/wiki/フォーミュラ3 "wikilink") 世界一決定戦 〜[マカオGP](../Page/マカオグランプリ.md "wikilink")～ ([BSフジ](../Page/BSフジ.md "wikilink")) - 実況（2016 - ）
   - [ズームイン\!\!サタデー](../Page/ズームイン!!サタデー.md "wikilink")（日本テレビ、2019年4月6日 - ） - サブ司会・スポーツコーナー担当
+  - [モーニングCROSS](https://ja.wikipedia.org/wiki/モーニングCROSS "wikilink")（[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")） - コメンテーター、金曜に不定期出演
 
 ### ラジオ番組
 
-  - [MUSIC HYPER MARKET](https://ja.wikipedia.org/wiki/MUSIC_HYPER_MARKET "wikilink")（J-WAVE、2001年 - 、[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")）
+  - [MUSIC HYPER MARKET](https://ja.wikipedia.org/wiki/MUSIC_HYPER_MARKET "wikilink")（J-WAVE、2001年 - 2019年4月26日、[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")）
   - [WAKE UP TOKYO](../Page/WAKE_UP_TOKYO.md "wikilink")
   - [GAZOO METAPOLIS Blue Style](https://ja.wikipedia.org/wiki/GAZOO_METAPOLIS#GAZOO_METAPOLIS_RADIO "wikilink")（2008年10月 - 2012年9月）
   - [HELLO WORLD](https://ja.wikipedia.org/wiki/HELLO_WORLD_\(ラジオ番組\) "wikilink")（[J-WAVE](../Page/J-WAVE.md "wikilink")、2010年10月 - 2012年9月）- 金曜日
@@ -80,6 +81,7 @@
   - Sound Horizon 第一次領土復興遠征（2011年7月 - 9月、[ALSOKホール](../Page/広島県立文化芸術ホール.md "wikilink")・[愛知県芸術劇場](../Page/愛知県芸術劇場.md "wikilink")・[神戸国際会館](../Page/神戸国際会館.md "wikilink")・[大阪城ホール](../Page/大阪城ホール.md "wikilink")、[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")）
   - Sound Horizon Revo's Halloween Party（2013年10月26日、[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")）
   - Sound Horizon 9th Story Concert 「Nein」 〜西洋骨董屋根裏堂へようこそ〜（2015年4月 - 5月、3会場全11公演）
+  - 新感覚\!スペクタクルステージ『THE★JINRO』－イケメン人狼アイドルは誰だ\!\!－（2020年6月30日〜7月5日、[新宿シアターモリエール](../Page/新宿シアターモリエール.md "wikilink")）\[13\]
 
 ### CM
 
@@ -90,7 +92,7 @@
 
 ## 外部リンク
 
-  - [SASCHA OFFICIAL WEBSITE](http://www.sascha348.com) - オフィシャルサイト
+  - [SASCHA OFFICIAL WEBSITE](https://www.sascha348.com/) - オフィシャルサイト
 
   - [ドイツジャパン](http://www.doitsujapan.jp) - 主宰サイト
 
@@ -116,3 +118,4 @@
 10.
 11.
 12.
+13.

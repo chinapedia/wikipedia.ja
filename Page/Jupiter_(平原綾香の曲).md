@@ -7,15 +7,16 @@
 
 ## 解説
 
-  - 作曲者[ホルストは死後](../Page/グスターヴ・ホルスト.md "wikilink")85年程経過し、同曲の[著作権](../Page/著作権.md "wikilink")はすでに消滅しており、許諾など不要で自由に使用できた。
+  - 2003年のリリース時点では、作曲者[ホルストは死後](../Page/グスターヴ・ホルスト.md "wikilink")69年程経過しおり、著作権消滅を死後50年とする当時の日本国内では同曲の[著作権](../Page/著作権.md "wikilink")はすでに消滅していたため、許諾など不要で自由に使用できた。
   - CDデビューにあたり、ホルストの原曲に日本語の歌詞をのせて歌うことを提案したのは平原自身である。また、歌詞の一部には、平原綾香自らが書いた言葉“私の両手で何ができるの?”“ありのままでずっと愛されている”“いつまでも歌うわあなたのために”などが織り込まれている。
   - 当初はノンタイアップだったが、最初フジテレビ系の広告大賞のエンディングテーマで流れ、その後はさまざまなテレビ番組やドラマ、CMの挿入歌などに使われる。
   - また、この歌詞はフジテレビで放映された「ザ・ノンフィクション『短い命を刻む少女：[アシュリーの生き方](https://ja.wikipedia.org/wiki/アシュリー・ヘギ "wikilink")』」[](http://www.fujitv.co.jp/sciencemystery/news/04-030.html)に影響をうけている。
   - [新潟県中越地震](https://ja.wikipedia.org/wiki/新潟県中越地震 "wikilink")の際、被災者を勇気付ける応援歌として新潟県内の[ラジオ局で多くリクエストされた](../Page/ラジオ放送局.md "wikilink")。また、被災翌年の2005年より[長岡まつり](../Page/長岡まつり.md "wikilink")大花火大会で打ち上げられている復興祈願花火『[フェニックス](https://ja.wikipedia.org/wiki/長岡まつり#復興祈願花火フェニックス "wikilink")』ではこの曲がBGMとして使われている。ただしこの曲は約6分だが『フェニックス』の打ち上げ時間に合わせて約3分に短縮されている。2005年8月3日（花火大会2日目）には平原自身が来場し、花火大会に先立ってこの曲をライブで歌った。また2011年の[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")直後にも、「[FNS音楽特別番組](https://ja.wikipedia.org/wiki/FNS音楽特別番組_上を向いて歩こう_〜うたでひとつになろう日本〜 "wikilink")」での歌唱など、リクエストの多い曲となった。
-  - [2006年](../Page/2006年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink")に[シングルCD](https://ja.wikipedia.org/wiki/シングルCD "wikilink")の出荷枚数が100万枚を突破し、[着うた](../Page/着うた.md "wikilink")等の[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")件数は160万件を突破するなど[ロングセラー](https://ja.wikipedia.org/wiki/ロングセラー "wikilink")となっている。オリコン週間チャートで1位を獲得せずにデビュー曲がミリオン突破したのは、[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")の「[Love, Day After Tomorrow](../Page/Love,_Day_After_Tomorrow.md "wikilink")」以来7年ぶりの記録となった。
+  - [2006年](../Page/2006年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink")に[シングル](../Page/シングル.md "wikilink")CDの出荷枚数が100万枚を突破し、[着うた](../Page/着うた.md "wikilink")等の[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")件数は160万件を突破するなど[ロングセラー](https://ja.wikipedia.org/wiki/ロングセラー "wikilink")となっている。オリコン週間チャートで1位を獲得せずにデビュー曲がミリオン突破したのは、[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")の「[Love, Day After Tomorrow](../Page/Love,_Day_After_Tomorrow.md "wikilink")」以来7年ぶりの記録となった。
   - [2007年](../Page/2007年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")に行われた[第58回NHK紅白歌合戦](../Page/第58回NHK紅白歌合戦.md "wikilink")では、長岡市[山古志地区からの中継を交え](https://ja.wikipedia.org/wiki/山古志村 "wikilink")、「Jupiter」のアレンジバージョンを歌った。
   - この曲の[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")は、平原が当時在学していた[洗足学園音楽大学](../Page/洗足学園音楽大学.md "wikilink")（[川崎市](../Page/川崎市.md "wikilink")）の前田ホールで撮影された。
   - [2016年](../Page/2016年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")に[川崎市](../Page/川崎市.md "wikilink")[等々力陸上競技場](../Page/等々力陸上競技場.md "wikilink")で行われた[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")・[川崎フロンターレ](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")の試合では、[宇宙](../Page/宇宙.md "wikilink")関連企画としてハーフタイムに、この曲が本人によりスタジアムのトラック上で歌われた。
+  - [2020年](../Page/2020年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")、平原はNHKの生番組「ライブ・エール」で、[イタリア](../Page/イタリア.md "wikilink")・[クレモナ](../Page/クレモナ.md "wikilink")在住のヴァイオリニスト[横山令奈](../Page/横山令奈.md "wikilink")と、[リモートでの共演をした](../Page/テレワーク.md "wikilink")。
 
 ## 収録曲
 

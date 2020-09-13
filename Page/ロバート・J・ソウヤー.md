@@ -131,7 +131,7 @@
 
   - [Robert J Sawyer Talks about Flashforward](http://paullev.libsyn.com/webpage/rob_sawyer_talks_about_flash_forward_/)
 
-[Category:カナダの小説家](https://ja.wikipedia.org/wiki/Category:カナダの小説家 "wikilink") [Category:カナダのSF作家](https://ja.wikipedia.org/wiki/Category:カナダのSF作家 "wikilink") [Category:ヒューゴー賞作家](https://ja.wikipedia.org/wiki/Category:ヒューゴー賞作家 "wikilink") [Category:ネビュラ賞作家](https://ja.wikipedia.org/wiki/Category:ネビュラ賞作家 "wikilink") [Category:SF編集者](https://ja.wikipedia.org/wiki/Category:SF編集者 "wikilink") [Category:オタワ出身の人物](https://ja.wikipedia.org/wiki/Category:オタワ出身の人物 "wikilink") [Category:1960年生](https://ja.wikipedia.org/wiki/Category:1960年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:カナダの小説家](https://ja.wikipedia.org/wiki/Category:カナダの小説家 "wikilink") [Category:20世紀の小説家](https://ja.wikipedia.org/wiki/Category:20世紀の小説家 "wikilink") [Category:21世紀の小説家](https://ja.wikipedia.org/wiki/Category:21世紀の小説家 "wikilink") [Category:カナダのSF作家](https://ja.wikipedia.org/wiki/Category:カナダのSF作家 "wikilink") [Category:ヒューゴー賞作家](https://ja.wikipedia.org/wiki/Category:ヒューゴー賞作家 "wikilink") [Category:ネビュラ賞作家](https://ja.wikipedia.org/wiki/Category:ネビュラ賞作家 "wikilink") [Category:SF編集者](https://ja.wikipedia.org/wiki/Category:SF編集者 "wikilink") [Category:オタワ出身の人物](https://ja.wikipedia.org/wiki/Category:オタワ出身の人物 "wikilink") [Category:1960年生](https://ja.wikipedia.org/wiki/Category:1960年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.

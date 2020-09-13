@@ -23,7 +23,7 @@
   - 「砂のプリン」（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")10月 13-LDKEP）※7インチ
   - 「Farewell Gritty Pudding」（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")10月 14-LDKEP）※7インチ
   - 「Wild Turkey」（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")12月 EQCD-001）
-  - 「O.S.T.e.p.」（[2000年](../Page/2000年.md "wikilink")3月 HREP-001）※Qypthoneとのスプリットシングル、7インチ
+  - 「O.S.T.e.p.」（[2000年](../Page/2000年.md "wikilink")3月 HREP-001）※[Qypthoneとのスプリットシングル](https://ja.wikipedia.org/wiki/中塚武 "wikilink")、7インチ
 
 ### アルバム
 
@@ -61,8 +61,8 @@
   - 「Anthology 30 (at living room)」（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3月 30-LDKCD）
   - 「Anthology 31 (at dining room)」（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3月 31-LDKCD）
   - 「Anthology 32 (at kitchen)」（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3月 32-LDKCD）
-  - 「トッドは真実のスーパースター」（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[6月18日](../Page/6月18日.md "wikilink") PCCA-1113）※4曲目「I saw the light」
-  - 「NISSAN CM SPECIAL\!\!」（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")4月 35-LDKCD）※2曲目「トレイル・ランナー カッコいい！」yes, mama ok? feat. [片岡知子](https://ja.wikipedia.org/wiki/片岡知子 "wikilink")（[インスタントシトロン](https://ja.wikipedia.org/wiki/インスタントシトロン "wikilink")）
+  - 「[トッドは真実のスーパースター](../Page/トッド・ラングレン.md "wikilink")」（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[6月18日](../Page/6月18日.md "wikilink") PCCA-1113）※4曲目「I saw the light」
+  - 「[NISSAN](../Page/日産自動車.md "wikilink") CM SPECIAL\!\!」（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")4月 35-LDKCD）※2曲目「トレイル・ランナー カッコいい！」yes, mama ok? feat. [片岡知子](https://ja.wikipedia.org/wiki/片岡知子 "wikilink")（[インスタントシトロン](https://ja.wikipedia.org/wiki/インスタントシトロン "wikilink")）
   - 「9 Pieces of BROWNIE」（[1999年](../Page/1999年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink") PHCL-13）※4曲目「Hurry up\!」
   - 「Smash water people, ok?」（[2000年](../Page/2000年.md "wikilink")1月 COAR-0003）※1曲目「問と解」
   - 「a breach of etiquette vol.1」（[2000年](../Page/2000年.md "wikilink")8月 EQTR-2001）※1曲目「Breaches of Etiquette」、10曲目「Steeplechase」

@@ -1,7 +1,7 @@
 > この記事は[FRIENDS II](https://ja.wikipedia.org/wiki/FRIENDS_II)から翻訳されています。
 
 
-『**FRIENDS II**』(フレンズ・ツー)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")が[1996年](../Page/1996年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")にRooms RECORDSからリリースした5作目のミニ・アルバムである。4thミニ・アルバム『[FRIENDS](../Page/FRIENDS_\(B'zのアルバム\).md "wikilink")』の続編となっている。
+『**FRIENDS II**』(フレンズ・ツー)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")が1996年11月25日に[Rooms RECORDSからリリースした](../Page/VERMILLION_RECORDS.md "wikilink")5作目のミニ・アルバムである。4thミニ・アルバム『[FRIENDS](../Page/FRIENDS_\(B'zのアルバム\).md "wikilink")』の続編となっている。
 
 ## 概要
 
@@ -28,7 +28,7 @@ B'zの作品では初となるデジパック仕様\[2\]。
         本作では唯一[LIVE-GYM](../Page/LIVE-GYM.md "wikilink")で演奏された楽曲で、1997年に行われたツアー『B'z LIVE-GYM Pleasure '97 "FIREBALL"』、1998年に行われたツアー『B'z LIVE-GYM '98 "SURVIVE"』、2008年に行われたツアー『B'z LIVE-GYM 2008 "ACTION"』で演奏された。
 3.  **傷心** (5:04)
       -
-        [テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[超次元タイムボンバー](../Page/超次元タイムボンバー.md "wikilink")」のテーマソングとして起用された。
+        [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[超次元タイムボンバー](../Page/超次元タイムボンバー.md "wikilink")』のテーマソングとして起用された。
         元々は本作の先行[シングル](../Page/シングル.md "wikilink")曲として作られたが、「ただでさえ曲数の少ないミニ・アルバムに知っている曲があるのもつまらないだろう」という理由でアルバム収録曲に収まった。
         落ち着いた[音色](../Page/音色.md "wikilink")のギター[ソロや](../Page/ソロ_\(音楽\).md "wikilink")、[フルート](../Page/フルート.md "wikilink")がフィーチャーされていたり、[リズム隊](https://ja.wikipedia.org/wiki/リズム隊 "wikilink")に[コンガ](../Page/コンガ.md "wikilink")などの生楽器が生かされているなど、それまでのB'zの楽曲とは違うアプローチがされている。
         短いながらもPVが制作されており、ジャケット撮影に臨むメンバーを捉えた映像と、ジャケットや中表紙に映る女性が登場している。歌唱映像は入っていない。

@@ -22,7 +22,7 @@
       -
         出版者:ギザミュージック
 3.  **dance \<KENNY'S CLASSIC CLUB MIX\>**
-      - remixed by KENNY（ORIENTA-RHYTHM）for BASEMENT FACTORY PRODUCTIONS
+      - remixed by KENNY（ORIENTA-RHYTHM\[2\]）for BASEMENT FACTORY PRODUCTIONS\[3\]
     <!-- end list -->
       -
         出版者:日本テレビ音楽
@@ -46,3 +46,5 @@
 [Category:小松未歩の楽曲](https://ja.wikipedia.org/wiki/Category:小松未歩の楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:日本テレビの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビの主題歌 "wikilink") [Category:ダンスを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:ダンスを題材とした楽曲 "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")
 
 1.  ビーイングと新光グループの提携で設立された[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")企業、新光美音（Shin Kong Being）の品番はSBCS-2009。
+2.  クラブ[DJである](../Page/ディスクジョッキー.md "wikilink")"Kazuhiro"、"Kenny D"、"D.Miyamoto"の3名が1997年に結成した[ハウスミュージックプロジェクト](../Page/ハウス_\(音楽\).md "wikilink")。
+3.  1997年創業の[音楽クリエイターチーム](../Page/音楽クリエイターチーム.md "wikilink")。2003年に株式会社化。現在はメイン事業を[ウェブデザイン](../Page/ウェブデザイン.md "wikilink")へシフトしている。

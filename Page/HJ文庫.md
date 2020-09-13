@@ -273,7 +273,7 @@
 <small>（初出：<a href="../Page/小説家になろう.md" title="wikilink">小説家になろう</a>）</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ハヤケン" title="wikilink">ハヤケン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Nagu" title="wikilink">Nagu</a></p></td>
-<td><p>既刊2巻</p></td>
+<td><p>既刊3巻</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/エロス降臨!" title="wikilink">エロス降臨!</a></p></td>
@@ -873,7 +873,7 @@
 <small>（初出：<a href="../Page/小説家になろう.md" title="wikilink">小説家になろう</a>）</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北山結莉" title="wikilink">北山結莉</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Riv_(イラストレーター)" title="wikilink">Riv</a></p></td>
-<td><p>既刊16巻</p></td>
+<td><p>既刊17巻</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/聖なる騎士の暗黒道" title="wikilink">聖なる騎士の暗黒道</a></p></td>
@@ -1852,7 +1852,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/六畳間の侵略者!?" title="wikilink">六畳間の侵略者!?</a></p></td>
 <td><p>健速</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ポコ_(イラストレーター)" title="wikilink">ポコ</a></p></td>
-<td><p>既刊36巻</p></td>
+<td><p>既刊37巻</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/6度目の世界_はじまりの夢/先輩は陰謀論好き？" title="wikilink">6度目の世界 はじまりの夢/先輩は陰謀論好き？</a></p></td>
@@ -1891,7 +1891,7 @@
 
   -
   -
-[Category:HJ文庫](https://ja.wikipedia.org/wiki/Category:HJ文庫 "wikilink") [Category:ホビージャパンの出版物](https://ja.wikipedia.org/wiki/Category:ホビージャパンの出版物 "wikilink") [Category:ライトノベルレーベル](https://ja.wikipedia.org/wiki/Category:ライトノベルレーベル "wikilink") [Category:文庫本](https://ja.wikipedia.org/wiki/Category:文庫本 "wikilink") [Category:2006年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:2006年刊行開始の刊行物 "wikilink")
+[Category:HJ文庫](https://ja.wikipedia.org/wiki/Category:HJ文庫 "wikilink") [Category:ホビージャパンの出版物](https://ja.wikipedia.org/wiki/Category:ホビージャパンの出版物 "wikilink") [Category:文庫本](https://ja.wikipedia.org/wiki/Category:文庫本 "wikilink") [Category:ライトノベルレーベル](https://ja.wikipedia.org/wiki/Category:ライトノベルレーベル "wikilink") [Category:2006年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:2006年刊行開始の刊行物 "wikilink")
 
 1.
 2.  [プレスリリース](http://www.dreamnews.jp/?action_press=1&pid=0000038793)

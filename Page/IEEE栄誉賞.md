@@ -62,7 +62,7 @@
   - 1972年: [ジェイ・フォレスター](../Page/ジェイ・フォレスター.md "wikilink")
   - 1973年: [ルドルフ・コンフナー](https://ja.wikipedia.org/wiki/ルドルフ・コンフナー "wikilink")
   - 1974年: [ルドルフ・カルマン](../Page/ルドルフ・カルマン.md "wikilink")
-  - 1975年: [:en:John Robinson Pierce](https://ja.wikipedia.org/wiki/:en:John_Robinson_Pierce "wikilink")
+  - 1975年: [ジョン・R・ピアス](../Page/ジョン・R・ピアス.md "wikilink")
   - 1976年: 受賞者無し
   - 1977年: [:en:H. Earle Vaughan](https://ja.wikipedia.org/wiki/:en:H._Earle_Vaughan "wikilink")
   - 1978年: [ロバート・ノイス](../Page/ロバート・ノイス.md "wikilink")

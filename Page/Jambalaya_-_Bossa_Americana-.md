@@ -26,7 +26,7 @@
         [ウィリー・ネルソン](../Page/ウィリー・ネルソン.md "wikilink")のカヴァー
 8.  [I've Just Seen a Face](https://ja.wikipedia.org/wiki/:en:I've_Just_Seen_a_Face "wikilink") - [夢の人](../Page/夢の人.md "wikilink")
       -
-        [ビートルズ](../Page/ビートルズ.md "wikilink")のアルバム『[4人はアイドル](../Page/4人はアイドル.md "wikilink")』からのナンバーのカヴァー
+        [ビートルズ](../Page/ビートルズ.md "wikilink")のアルバム『[ヘルプ\!](https://ja.wikipedia.org/wiki/ヘルプ!_\(ビートルズのアルバム\) "wikilink")』からのナンバーのカヴァー
 9.  Old Fashioned Love \~ You Are My Sunshine - オールド・ファンションド・ラヴ〜ユーアーマイ・サンシャイン
       -
         [メドレー](../Page/メドレー.md "wikilink")曲。「You Are My〜」は1940年にヒットした、ジミー・デイヴィス ([:en:Jimmy Davis](https://ja.wikipedia.org/wiki/:en:Jimmy_Davis "wikilink")) と[:en:Charles Mitchellのヒット曲](https://ja.wikipedia.org/wiki/:en:Charles_Mitchell "wikilink")。
@@ -36,10 +36,10 @@
 13. My Boy - マイ・ボーイ
       -
         オリジナル曲。[イオンサマーコレクションCMソング](../Page/イオン_\(企業\).md "wikilink")。
-14. *Fescination - ファシネーション〜誘惑のワルツ*
+14. *Fescination* - ファシネーション〜誘惑のワルツ
       -
         [ノエビア](https://ja.wikipedia.org/wiki/ノエビア "wikilink")CMソング。
-15. *Mornig Sun - モーニング・サン*
+15. *Mornig Sun* - モーニング・サン
       -
         [ズームイン\!\!SUPER](https://ja.wikipedia.org/wiki/ズームイン!!SUPER "wikilink")テーマ曲。
 

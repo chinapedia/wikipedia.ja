@@ -25,6 +25,8 @@
 
 1.  **NO TRICKS**
       -
+        作詞：Kumi koda（倖田來未）, Daisuke'D.I'Imai（今井大介）
+        作曲：Daisuke'D.I'Imai
         新曲。
 2.  **[TAKE BACK](../Page/TAKE_BACK.md "wikilink")**
       -

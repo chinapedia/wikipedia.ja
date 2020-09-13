@@ -63,9 +63,9 @@ Webシステム開発言語
 
 ## 関連会社
 
+  - 株式会社[住友商事](https://ja.wikipedia.org/wiki/住友商事 "wikilink")
   - 株式会社[Minoriソリューションズ](https://ja.wikipedia.org/wiki/Minoriソリューションズ "wikilink")
   - [ヴィーエー・リナックス・システムズ・ジャパン](../Page/ヴィーエー・リナックス・システムズ・ジャパン.md "wikilink")株式会社
-  - 株式会社[JIEC](https://ja.wikipedia.org/wiki/JIEC "wikilink")
   - 株式会社[CSIソリューションズ](https://ja.wikipedia.org/wiki/CSIソリューションズ "wikilink")
   - [Winテクノロジ](https://ja.wikipedia.org/wiki/Winテクノロジ "wikilink")株式会社
   - [SCSK九州](https://ja.wikipedia.org/wiki/SCSK九州 "wikilink")株式会社

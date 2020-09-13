@@ -11,7 +11,7 @@
 
 ## 歴史
 
-[2006年](../Page/2006年.md "wikilink")に[グルージャ盛岡から分離独立する形で創設](../Page/いわてグルージャ盛岡.md "wikilink")。当初は「いこいの村岩手」の支援を受け、[八幡平市](../Page/八幡平市.md "wikilink")を練習拠点とした\[1\]。
+[2006年](../Page/2006年.md "wikilink")に**[グルージャ盛岡](../Page/いわてグルージャ盛岡.md "wikilink")**から分離独立する形で創設。当初は「**いこいの村岩手**」の支援を受け、[八幡平市](../Page/八幡平市.md "wikilink")を練習拠点とした\[1\]。
 
 ### 2007年
 
@@ -23,7 +23,7 @@
 
 ### 2009年
 
-3月、これまで支援を行ってきたいこいの村岩手が活動拠点をめぐる相違から独立し、「[アンソメット岩手・八幡平](https://ja.wikipedia.org/wiki/アンソメット岩手・八幡平 "wikilink")」を設立\[2\]。 岩手県出身の元[湘南ベルマーレ](https://ja.wikipedia.org/wiki/湘南ベルマーレ "wikilink")[照井篤](../Page/照井篤.md "wikilink")、同じく岩手県出身で[Fリーグ](https://ja.wikipedia.org/wiki/日本フットサルリーグ "wikilink")[ステラミーゴいわて花巻](../Page/ステラミーゴいわて花巻.md "wikilink")元主将の[山谷紘大](https://ja.wikipedia.org/wiki/山谷紘大 "wikilink")、元[大分トリニータ](https://ja.wikipedia.org/wiki/大分トリニータ "wikilink")の[川田和宏](../Page/川田和宏.md "wikilink")、元[韓国代表の](../Page/サッカー大韓民国代表.md "wikilink")[趙世權](https://ja.wikipedia.org/wiki/趙世權 "wikilink")など各方面から多彩な選手を獲得。岩手県社会人リーグ2部を制覇し1部昇格を決めた。リーグ戦以外では、大分県でおこなわれた第16回[全国クラブチームサッカー選手権大会](../Page/全国クラブチームサッカー選手権大会.md "wikilink")に出場、決勝で[HOYO Atletico ELAN大分に勝利して](https://ja.wikipedia.org/wiki/HOYO_Atletico_ELAN大分 "wikilink")2年ぶり2回目の優勝を果たした。
+3月、これまで支援を行ってきたいこいの村岩手が活動拠点をめぐる相違から独立し、「**[アンソメット岩手・八幡平](https://ja.wikipedia.org/wiki/アンソメット岩手・八幡平 "wikilink")**」を設立\[2\]。 岩手県出身の元[湘南ベルマーレ](https://ja.wikipedia.org/wiki/湘南ベルマーレ "wikilink")[照井篤](../Page/照井篤.md "wikilink")、同じく岩手県出身で[Fリーグ](https://ja.wikipedia.org/wiki/日本フットサルリーグ "wikilink")[ステラミーゴいわて花巻](../Page/ステラミーゴいわて花巻.md "wikilink")元主将の[山谷紘大](https://ja.wikipedia.org/wiki/山谷紘大 "wikilink")、元[大分トリニータ](https://ja.wikipedia.org/wiki/大分トリニータ "wikilink")の[川田和宏](../Page/川田和宏.md "wikilink")、元[韓国代表の](../Page/サッカー大韓民国代表.md "wikilink")[趙世權](https://ja.wikipedia.org/wiki/趙世權 "wikilink")など各方面から多彩な選手を獲得。岩手県社会人リーグ2部を制覇し1部昇格を決めた。リーグ戦以外では、大分県でおこなわれた第16回[全国クラブチームサッカー選手権大会](../Page/全国クラブチームサッカー選手権大会.md "wikilink")に出場、決勝で[HOYO Atletico ELAN大分に勝利して](https://ja.wikipedia.org/wiki/HOYO_Atletico_ELAN大分 "wikilink")2年ぶり2回目の優勝を果たした。
 
 ### 2010年
 
@@ -55,7 +55,7 @@
 
 ### 2017年
 
-運営会社名が「株式会社アズイズ」に変更される。2月にアンソメットの流れを汲み、かつて岩手県リーグに所属していたサッカークラブ「八幡平トーレゾール」と統合。アズイズは運営を離れる。クラブの活動拠点は八幡平市に置かれた\[3\]\[4\]。
+運営会社名が「**株式会社アズイズ**」に変更される。2月にアンソメットの流れを汲み、かつて岩手県リーグに所属していたサッカークラブ「**八幡平トーレゾール**」と統合。アズイズは運営を離れる。クラブの活動拠点は八幡平市に置かれた\[3\]\[4\]。
 
 ## チーム成績・歴代監督
 
@@ -149,9 +149,10 @@
 </tr>
 <tr class="even">
 <td><p><strong>監督</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/的場大治" title="wikilink">中西哲也</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/八幡平トーレゾール" title="wikilink">グルージャ盛岡</a></p></td>
-<td><p>選手兼監督</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中西哲也" title="wikilink">中西哲也</a></p></td>
+<td><p>FCガンジュ岩手 選手兼コーチ</p></td>
+<td><p>新任<br />
+選手兼監督</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -196,29 +197,43 @@
 </tr>
 <tr class="odd">
 <td><p><strong>DF</strong></p></td>
-<td><p><strong>6</strong></p></td>
+<td><p><strong>2</strong></p></td>
 <td><p>和田篤</p></td>
 <td><p>七戸SC</p></td>
 <td><p>新加入</p></td>
 </tr>
 <tr class="even">
+<td><p><strong>3</strong></p></td>
+<td><p>田中大地</p></td>
+<td><p>東京情報大学</p></td>
+<td><p>新加入</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>4</strong></p></td>
+<td><p>新田拓矢</p></td>
+<td><p>fcfuji-08</p></td>
+<td><p>新加入</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>7</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/中西哲也" title="wikilink">中西哲也</a></p></td>
 <td><p><a href="../Page/いわてグルージャ盛岡.md" title="wikilink">グルージャ盛岡</a></p></td>
 <td><p>選手兼監督</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td><p>田所柊</p></td>
-<td><p>ヴァンラーレ八戸U-18</p></td>
+<td><p><strong>13</strong></p></td>
+<td><p>吉田知生</p></td>
+<td><p>江南義塾高等学校</p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>27</strong></p></td>
-<td><p>田中大地</p></td>
-<td><p>東京情報大学</p></td>
+<td><p><strong>18</strong></p></td>
+<td><p>田所柊</p></td>
+<td><p>ヴァンラーレ八戸U-18</p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
@@ -226,20 +241,6 @@
 <td><p><strong>22</strong></p></td>
 <td><p>大内周</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アルティスタ浅間" title="wikilink">アルティスタ浅間</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>29</strong></p></td>
-<td><p>新田拓矢</p></td>
-<td><p>fcfuji-08</p></td>
-<td><p>新加入</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>33</strong></p></td>
-<td><p>鹿村祥平</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブランデュー弘前FC" title="wikilink">ブランデュー弘前FC</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -252,23 +253,23 @@
 </tr>
 <tr class="odd">
 <td><p><strong>MF</strong></p></td>
-<td><p><strong>7</strong></p></td>
+<td><p><strong>5</strong></p></td>
 <td><p>長屋輝</p></td>
 <td><p>名古屋サッカークラブ</p></td>
 <td><p>新加入</p></td>
 </tr>
 <tr class="even">
+<td><p><strong>6</strong></p></td>
+<td><p>山中透</p></td>
+<td><p>藤沢ユナイテッド</p></td>
+<td><p>新加入</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><strong>9</strong></p></td>
 <td><p>三田優</p></td>
 <td><p>八戸大学</p></td>
 <td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>11</strong></p></td>
-<td><p>山中透</p></td>
-<td><p>藤沢ユナイテッド</p></td>
-<td><p>新加入</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -286,31 +287,31 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><strong>33</strong></p></td>
+<td><p>鹿村祥平</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ブランデュー弘前FC" title="wikilink">ブランデュー弘前FC</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>FW</strong></p></td>
-<td></td>
+<td><p><strong>8</strong></p></td>
 <td><p>佐藤史門</p></td>
 <td><p><a href="../Page/八戸学院大学.md" title="wikilink">ノルデンシュタッド</a></p></td>
 <td><p>新加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>10</strong></p></td>
 <td><p>熊谷心真</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士大学サッカー部" title="wikilink">富士大学</a></p></td>
 <td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>13</strong></p></td>
-<td><p>吉田知生</p></td>
-<td><p>江南義塾高等学校</p></td>
-<td><p>新加入</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -450,13 +451,15 @@
 
 ### ユニフォームスポンサー
 
-|      |                                                            |          |        |         |
-| ---- | ---------------------------------------------------------- | -------- | ------ | ------- |
-| 掲出箇所 | スポンサー名                                                     | 表記       | 掲出年    | 備考      |
-| 胸    | [岩鷲百選市場](https://ss1.coressl.jp/www.fc-ganju.jp/hyakusen/) | 百選市場     | 2012年〜 |         |
-| 背中   | [株式会社ミチノク](http://michinoku-asahigroup.co.jp/)             | 株式会社ミチノク | 2012年〜 | 2011年は袖 |
-| 袖    | なし                                                         |          |        |         |
-| パンツ  | なし                                                         |          |        |         |
+|      |                                                            |                         |         |         |
+| ---- | ---------------------------------------------------------- | ----------------------- | ------- | ------- |
+| 掲出箇所 | スポンサー名                                                     | 表記                      | 掲出年     | 備考      |
+| 胸    | [岩鷲百選市場](https://ss1.coressl.jp/www.fc-ganju.jp/hyakusen/) | 百選市場                    | 2012年 - |         |
+| 鎖骨   | なし                                                         |                         |         |         |
+| 背中上部 | [ミチノク](http://michinoku-asahigroup.co.jp/)                 | <small>株式会社</small>ミチノク | 2012年 - | 2011年は袖 |
+| 背中下部 | なし                                                         |                         |         |         |
+| 袖    | なし                                                         |                         |         |         |
+| パンツ  | なし                                                         |                         |         |         |
 
 ### ユニフォームサプライの遍歴
 
@@ -465,14 +468,19 @@
 
 ### 歴代ユニフォームスポンサー年表
 
-|      |                                                          |                                                |          |     |        |
-| ---- | -------------------------------------------------------- | ---------------------------------------------- | -------- | --- | ------ |
-| 年度   | 胸                                                        | 袖                                              | 背中       | パンツ | サプライヤー |
-| 2011 | [エバープロテクト](http://www.ever-protect.com/)                 | [株式会社ミチノク](http://michinoku-asahigroup.co.jp/) | kosho    | \-  | Kappa  |
-| 2012 | [百選市場](https://ss1.coressl.jp/www.fc-ganju.jp/hyakusen/) | \-                                             | 株式会社ミチノク | \-  |        |
-| 2013 | \-                                                       | \-                                             |          |     |        |
-| 2014 | \-                                                       | \-                                             |          |     |        |
-| 2015 | \-                                                       | \-                                             |          |     |        |
+|      |                                                          |                                                               |       |      |                                                               |     |                                      |
+| ---- | -------------------------------------------------------- | ------------------------------------------------------------- | ----- | ---- | ------------------------------------------------------------- | --- | ------------------------------------ |
+| 年度   | 胸                                                        | 鎖骨                                                            | 背中上部  | 背中下部 | 袖                                                             | パンツ | サプライヤー                               |
+| 2011 | [エバープロテクト](http://www.ever-protect.com/)                 | 解禁前                                                           | kosho | 解禁前  | [<small>株式会社</small>ミチノク](http://michinoku-asahigroup.co.jp/) | \-  | [Kappa](../Page/Kappa.md "wikilink") |
+| 2012 | [百選市場](https://ss1.coressl.jp/www.fc-ganju.jp/hyakusen/) | [<small>株式会社</small>ミチノク](http://michinoku-asahigroup.co.jp/) | \-    |      |                                                               |     |                                      |
+| 2013 |                                                          |                                                               |       |      |                                                               |     |                                      |
+| 2014 |                                                          |                                                               |       |      |                                                               |     |                                      |
+| 2015 |                                                          |                                                               |       |      |                                                               |     |                                      |
+| 2016 | \-                                                       |                                                               |       |      |                                                               |     |                                      |
+| 2017 |                                                          |                                                               |       |      |                                                               |     |                                      |
+| 2018 | \-                                                       |                                                               |       |      |                                                               |     |                                      |
+| 2019 |                                                          |                                                               |       |      |                                                               |     |                                      |
+| 2020 |                                                          |                                                               |       |      |                                                               |     |                                      |
 
 ## 関連項目
 
@@ -486,7 +494,7 @@
 
 ## 外部リンク
 
-  - [FCガンジュ岩手公式サイト](http://www.fc-ganju.jp/)
+  - [FCガンジュ岩手公式サイト](https://fc-ganju.com/)
 
   -
   -

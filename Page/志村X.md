@@ -1425,7 +1425,7 @@
 
 ## 外部リンク
 
-  - [ShimuraX天国](http://www.fujitv.co.jp/b_hp/shimura/index.html) (フジテレビ)
+  - [ShimuraX天国](https://www.fujitv.co.jp/b_hp/shimura/index.html) (フジテレビ)
   - [Shimura X](https://www.fami-geki.com/detail/index.php?fami_id=00628) - ファミリー劇場
   - [Shimura XYZ](https://www.fami-geki.com/detail/index.php?fami_id=02538) - ファミリー劇場
   - [Shimura X 天国](https://www.fami-geki.com/detail/index.php?fami_id=00773) - ファミリー劇場

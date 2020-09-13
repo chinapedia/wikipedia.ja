@@ -48,7 +48,7 @@
 
 ## 備考
 
-  - TNCの公式サイトにある[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")や[地上デジタル放送の](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")[EPGでは](../Page/電子番組ガイド.md "wikilink")「**FNNニューススピーク**」と表記されていた。
+  - TNCの公式サイトにある[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")や[地上デジタル放送の](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")[EPG](../Page/電子番組ガイド.md "wikilink")、タイトル表示では1987年10月から2003年3月まで「**FNNニュース スピーク**」と表記されていた。
   - [2003年](../Page/2003年.md "wikilink")3月28日までは、TNC独自のオープニングとエンディングを使用していた。
   - 平日11:46.40のローカル枠ジングルは、TNCから[お天気カメラ](../Page/お天気カメラ.md "wikilink")の映像と音楽を送出している。ちなみに音楽は、旧バージョン（メロディー自体は同じだが、）のままである。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")のリニューアル以降は、音楽が提供ジングルと同じで『FNNスピーク』となる（※同時に「つづいて福岡から」と出すが、出さない日もある）。さらに[2012年](../Page/2012年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")のリニューアルからは、CM入り前のジングルを若干短くした物になった。

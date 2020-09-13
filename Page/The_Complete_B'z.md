@@ -1,7 +1,7 @@
 > この記事は[The Complete B\'z](https://ja.wikipedia.org/wiki/The_Complete_B\'z)から翻訳されています。
 
 
-『**The Complete B'z**』（ザ･コンプリート・ビーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")が[2005年](../Page/2005年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")に[VERMILLION RECORDSからリリースされていた](../Page/VERMILLION_RECORDS.md "wikilink")[ボックス・セット](../Page/ボックス・セット.md "wikilink")である。iTunes Music Store（現:[iTunes Store](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")）よりネット配信限定でリリースされたが、現在配信が停止されている（理由は後述にて）。
+『**The Complete B'z**』（ザ･コンプリート・ビーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")が2005年8月1日に[VERMILLION RECORDSからリリースされていた](../Page/VERMILLION_RECORDS.md "wikilink")[ボックス・セット](../Page/ボックス・セット.md "wikilink")である。iTunes Music Store（現:[iTunes Store](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")）よりネット配信限定でリリースされたが、現在配信が停止されている（理由は後述にて）。
 
 ## 内容
 
@@ -15,7 +15,7 @@
 
 iTunesではこの他にも多くのB'zの楽曲が配信されているが、シングル『OCEAN』以前のシングル[カップリング](https://ja.wikipedia.org/wiki/カップリング "wikilink")、及び[原盤権](../Page/原盤権.md "wikilink")が[ビーイング](../Page/ビーイング.md "wikilink")ではなく、[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")にある初期作品をPC配信で入手するには、当時はこのボックス・セットを一括で買う他なかった。
 
-[2012年](../Page/2012年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink")、[アップルは日本国内において](../Page/アップル_\(企業\).md "wikilink")、全楽曲をiTunes Plus（256kbps AAC DRMフリー）で配信することを決定した\[5\]。このため、iTunes Plusの許可を出していない国内音源の配信が一時ストップする事態が発生した。B'zに関しても例外ではなく、日本iTunesからB'zの文字が消えることとなった。後日配信が再開されたが、先述のような原盤権の問題のためか、このボックス・セットのみ配信が停止したままになっている。この状況は、初期シングル3曲を収録した『[B'z The Best XXV 1988-1998](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1988-1998 "wikilink")』が配信された後も変わりない。
+2012年2月22日、[アップルは日本国内において](../Page/アップル_\(企業\).md "wikilink")、全楽曲をiTunes Plus（256kbps AAC DRMフリー）で配信することを決定した\[5\]。このため、iTunes Plusの許可を出していない国内音源の配信が一時ストップする事態が発生した。B'zに関しても例外ではなく、日本iTunesからB'zの文字が消えることとなった。後日配信が再開されたが、先述のような原盤権の問題のためか、このボックス・セットのみ配信が停止したままになっている。この状況は、初期シングル3曲を収録した『[B'z The Best XXV 1988-1998](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1988-1998 "wikilink")』が配信された後も変わりない。
 
 ## 特典
 

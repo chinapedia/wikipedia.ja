@@ -346,7 +346,7 @@ ActiveHybrid 7L</p></td>
 
 ロングホイールベース (G12) 2019年 -
 
-BMW Engine 740i L6.jpg|740iのエンジン BMW 7Series Carbon Core Emblem.jpg|B[ピラー](https://ja.wikipedia.org/wiki/ピラー "wikilink")に所在するカーボン`・`コア使用を示すエンブレム。 BMW 7Series Rear (left).jpg|740i 右後部 BMW 750Li by Japan specification.jpg|750Li BMW sixth-generation 7Series in Tokyo-MotorShow 2015.jpg|第44回[東京モーターショー](../Page/東京モーターショー.md "wikilink")出品車
+BMW 740i L6 engine.jpg|740iのエンジン BMW 7Series Carbon Core Emblem.jpg|B[ピラー](https://ja.wikipedia.org/wiki/ピラー "wikilink")に所在するカーボン`・`コア使用を示すエンブレム。 BMW 7Series Rear (left).jpg|740i 右後部 BMW 750Li by Japan specification.jpg|750Li BMW sixth-generation 7Series in Tokyo-MotorShow 2015.jpg|第44回[東京モーターショー](../Page/東京モーターショー.md "wikilink")出品車
 
 {{-}}
 

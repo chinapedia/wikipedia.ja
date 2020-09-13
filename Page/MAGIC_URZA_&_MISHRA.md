@@ -95,4 +95,4 @@
   - [魔法](https://ja.wikipedia.org/wiki/魔法 "wikilink")
   - [マジック:ザ・ギャザリング](../Page/マジック:ザ・ギャザリング.md "wikilink")
 
-[Category:漫画作品_ま](https://ja.wikipedia.org/wiki/Category:漫画作品_ま "wikilink") [Category:コロコロコミックの漫画作品](https://ja.wikipedia.org/wiki/Category:コロコロコミックの漫画作品 "wikilink") [Category:トレーディングカードゲームを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:トレーディングカードゲームを題材とした漫画作品 "wikilink") [Category:マジック:ザ・ギャザリング](https://ja.wikipedia.org/wiki/Category:マジック:ザ・ギャザリング "wikilink")
+[Category:漫画作品_ま](https://ja.wikipedia.org/wiki/Category:漫画作品_ま "wikilink") [Category:コロコロコミックの漫画作品](https://ja.wikipedia.org/wiki/Category:コロコロコミックの漫画作品 "wikilink") [Category:トレーディングカードゲームを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:トレーディングカードゲームを題材とした漫画作品 "wikilink") [Category:兄弟姉妹を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:兄弟姉妹を題材とした漫画作品 "wikilink") [Category:マジック:ザ・ギャザリング](https://ja.wikipedia.org/wiki/Category:マジック:ザ・ギャザリング "wikilink")

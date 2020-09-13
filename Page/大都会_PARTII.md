@@ -11,7 +11,7 @@
 
 ただし内容はアクション一辺倒ではなく、前作で見られた人間ドラマ路線も継承しており、ラブストーリー、当時の社会事情を反映したもの、海外作品や実際に起こった事件をヒントにしたもの、『[刑事コロンボ](../Page/刑事コロンボ.md "wikilink")』を彷彿させる倒叙ミステリーなど、その作風は多岐に渡っている。
 
-## 設定
+## 登場人物
 
 ### 城西警察署
 
@@ -296,7 +296,7 @@
 <td><p>非常線突破</p></td>
 <td><p>峯尾基三</p></td>
 <td><p>村川透</p></td>
-<td><p><a href="../Page/中島ゆたか.md" title="wikilink">中島ゆたか</a>、<a href="../Page/蜷川幸雄.md" title="wikilink">蜷川幸雄</a>、<a href="../Page/潮健児.md" title="wikilink">潮建志</a>、<a href="../Page/石山雄大.md" title="wikilink">石山雄大</a>、<a href="https://ja.wikipedia.org/wiki/藤山浩二" title="wikilink">藤山浩二</a>、<a href="https://ja.wikipedia.org/wiki/秋ひとみ" title="wikilink">秋ひとみ</a>、<a href="https://ja.wikipedia.org/wiki/日吉としやす" title="wikilink">日吉としやす</a>、<a href="https://ja.wikipedia.org/wiki/青木茂_(俳優)" title="wikilink">青木茂</a>、<a href="https://ja.wikipedia.org/wiki/仙波和之" title="wikilink">千波和之</a>、<a href="https://ja.wikipedia.org/wiki/南裕輔" title="wikilink">南裕輔</a>、<a href="https://ja.wikipedia.org/wiki/別所立木" title="wikilink">別所立木</a>、<a href="https://ja.wikipedia.org/wiki/佐々木功_(俳優)" title="wikilink">佐々木功</a>、<a href="https://ja.wikipedia.org/wiki/田辺裕_(ピー・ディー・ネットワーク)" title="wikilink">田辺裕</a>、氷室浩二</p></td>
+<td><p><a href="../Page/中島ゆたか.md" title="wikilink">中島ゆたか</a>、<a href="../Page/蜷川幸雄.md" title="wikilink">蜷川幸雄</a>、<a href="../Page/潮健児.md" title="wikilink">潮建志</a>、<a href="../Page/石山雄大.md" title="wikilink">石山雄大</a>、<a href="https://ja.wikipedia.org/wiki/藤山浩二" title="wikilink">藤山浩二</a>、<a href="https://ja.wikipedia.org/wiki/秋ひとみ" title="wikilink">秋ひとみ</a>、<a href="https://ja.wikipedia.org/wiki/日吉としやす" title="wikilink">日吉としやす</a>、<a href="https://ja.wikipedia.org/wiki/青木茂_(俳優)" title="wikilink">青木茂</a>、<a href="https://ja.wikipedia.org/wiki/仙波和之" title="wikilink">千波和之</a>、<a href="https://ja.wikipedia.org/wiki/南裕輔" title="wikilink">南裕輔</a>、<a href="https://ja.wikipedia.org/wiki/別所立木" title="wikilink">別所立木</a>、<a href="../Page/ささきいさお.md" title="wikilink">佐々木功</a>、<a href="https://ja.wikipedia.org/wiki/田辺裕_(ピー・ディー・ネットワーク)" title="wikilink">田辺裕</a>、氷室浩二</p></td>
 <td><p>17.2%</p></td>
 </tr>
 <tr class="even">
@@ -395,7 +395,7 @@
 <td><p>刑事黒岩の命</p></td>
 <td><p><a href="../Page/山田正弘.md" title="wikilink">山田正弘</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山崎大助" title="wikilink">山崎大助</a></p></td>
-<td><p><a href="../Page/曽根晴美.md" title="wikilink">曽根晴美</a>、<a href="../Page/堀田眞三.md" title="wikilink">堀田真三</a>、<a href="https://ja.wikipedia.org/wiki/田中筆子" title="wikilink">田中筆子</a>、<a href="https://ja.wikipedia.org/wiki/宇南山宏" title="wikilink">宇南山宏</a>、中平哲仟、<a href="https://ja.wikipedia.org/wiki/杉浦光郎" title="wikilink">杉浦光郎</a>、新井一夫、<a href="https://ja.wikipedia.org/wiki/入江正徳" title="wikilink">入江正徳</a>、山根久幸、<a href="https://ja.wikipedia.org/wiki/小島光貴" title="wikilink">小島光貴</a>、石川弦志、三橋渡、<a href="https://ja.wikipedia.org/wiki/早川五郎" title="wikilink">早川五郎</a>、<a href="https://ja.wikipedia.org/wiki/猪野剛太郎" title="wikilink">猪野剛太郎</a>、千葉聡</p></td>
+<td><p><a href="../Page/曽根晴美.md" title="wikilink">曽根晴美</a>、<a href="../Page/堀田眞三.md" title="wikilink">堀田真三</a>、<a href="https://ja.wikipedia.org/wiki/田中筆子" title="wikilink">田中筆子</a>、<a href="https://ja.wikipedia.org/wiki/宇南山宏" title="wikilink">宇南山宏</a>、中平哲仟、<a href="https://ja.wikipedia.org/wiki/杉浦光郎" title="wikilink">杉浦光郎</a>、新井一夫、<a href="../Page/入江正徳.md" title="wikilink">入江正徳</a>、山根久幸、<a href="https://ja.wikipedia.org/wiki/小島光貴" title="wikilink">小島光貴</a>、石川弦志、三橋渡、<a href="https://ja.wikipedia.org/wiki/早川五郎" title="wikilink">早川五郎</a>、<a href="https://ja.wikipedia.org/wiki/猪野剛太郎" title="wikilink">猪野剛太郎</a>、千葉聡</p></td>
 <td><p>19.8%</p></td>
 </tr>
 <tr class="odd">

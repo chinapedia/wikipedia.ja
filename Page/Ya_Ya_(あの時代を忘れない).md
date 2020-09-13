@@ -3,7 +3,7 @@
 
 「**Ya Ya (あの時代を忘れない)**」（ヤヤ あのときをわすれない）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の楽曲。自身の16作目の[シングル](../Page/シングル.md "wikilink")として、[Invitationから](../Page/Invitation_\(レーベル\).md "wikilink")[7インチレコードで](https://ja.wikipedia.org/wiki/レコード#7インチシングル盤 "wikilink")[1982年](../Page/1982年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")に発売された。
 
-[1988年](../Page/1988年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に[CD化](https://ja.wikipedia.org/wiki/コンパクト・ディスク "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")にも8cmCDとして、[2005年](../Page/2005年.md "wikilink")6月25日には12cmCDで再発され、計3回再発売されている。
+[1988年](../Page/1988年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")と[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")に8cmCDとして、[2005年](../Page/2005年.md "wikilink")6月25日には12cmCDで再発売されている。[2014年](../Page/2014年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")からはダウンロード配信、[2019年](../Page/2019年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")からはストリーミング配信が開始されている\[1\]\[2\]。
 
 ## アートワーク
 
@@ -22,7 +22,7 @@
 1.  **Ya Ya (あの<ruby><rb>時代</rb><rp></rp><rt>とき</rt><rp></rp></ruby>を忘れない)** (3:54)
       -
         （作詞・作曲：[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")　編曲：サザンオールスターズ　弦管編曲：[新田一郎](../Page/新田一郎_\(ミュージシャン\).md "wikilink")）
-        [マツダ](../Page/マツダ.md "wikilink")『[MPV](../Page/マツダ・MPV.md "wikilink")』CMソング\[1\]。
+        [マツダ](../Page/マツダ.md "wikilink")『[MPV](../Page/マツダ・MPV.md "wikilink")』CMソング\[3\]。
         歌詞に登場する「better days」とは桑田らが[青山学院大学](../Page/青山学院大学.md "wikilink")で所属していた軽音楽[サークルの名前で](../Page/クラブ活動.md "wikilink")、大学構内の様子も描写されている。ちなみに同年7月に発売されたアルバム『[NUDE MAN](../Page/NUDE_MAN.md "wikilink")』収録の「PLASTIC SUPER STAR (LIVE IN BETTER DAYS)」はその当時のライブテイクを収録したものである。
 2.  **シャッポ** (4:29)
       -
@@ -66,7 +66,7 @@
   - [佐藤竹善](../Page/佐藤竹善.md "wikilink") - 2004年10月27日発売の3rdカバーアルバム『THE HITS〜CORNERSTONES 3〜』に収録。
   - [隼人加織](https://ja.wikipedia.org/wiki/隼人加織 "wikilink") - 2008年3月26日発売の3rdアルバム『pluma』に収録。
   - [Chara](https://ja.wikipedia.org/wiki/CHARA "wikilink") - 2008年9月24日発売の17thアルバム（オリジナルミニアルバム）『Kiss』に収録。
-  - [沢田知可子](../Page/沢田知可子.md "wikilink") - 2017年6月21日発売のアルバム『こころ唄 〜Best\&Cover 30〜』に収録\[2\]。
+  - [沢田知可子](../Page/沢田知可子.md "wikilink") - 2017年6月21日発売のアルバム『こころ唄 〜Best\&Cover 30〜』に収録\[4\]。
 
 ## 脚注
 
@@ -78,5 +78,7 @@
 
 [Category:サザンオールスターズの楽曲](https://ja.wikipedia.org/wiki/Category:サザンオールスターズの楽曲 "wikilink") [Category:桑田佳祐が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐が制作した楽曲 "wikilink") [Category:1982年のシングル](https://ja.wikipedia.org/wiki/Category:1982年のシングル "wikilink") [Category:マツダのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:マツダのコマーシャルソング "wikilink") [Category:ロック・バラード](https://ja.wikipedia.org/wiki/Category:ロック・バラード "wikilink") [Category:楽曲_や](https://ja.wikipedia.org/wiki/Category:楽曲_や "wikilink")
 
-1.  CMの場合、[ジャズ](../Page/ジャズ.md "wikilink")バージョンの[インストゥルメンタルとして使われたため歌唱がされていない](../Page/器楽曲.md "wikilink")
-2.  [沢田知可子、「天国ポスト」に寄せられた想いを歌う](https://www.barks.jp/news/?id=1000144285) BARKS 2017年7月9日閲覧
+1.  [サザン、全266曲を世界111ヶ国で配信](https://www.oricon.co.jp/news/2046030/full/) オリコン 2014年12月17日配信, 2020年6月4日閲覧
+2.  [サザン関連全972曲 サブスク一斉解禁 メンバーソロ曲も対象に](https://www.oricon.co.jp/news/2151435/full/) オリコン 2019年12月20日配信, 2019年12月20日閲覧
+3.  CMの場合、[ジャズ](../Page/ジャズ.md "wikilink")バージョンの[インストゥルメンタルとして使われたため歌唱がされていない](../Page/器楽曲.md "wikilink")
+4.  [沢田知可子、「天国ポスト」に寄せられた想いを歌う](https://www.barks.jp/news/?id=1000144285) BARKS 2017年7月9日閲覧

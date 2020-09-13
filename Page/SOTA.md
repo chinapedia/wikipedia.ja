@@ -5,6 +5,8 @@
 
 近年は“**菅原そうた**”名義で活動する事が多く、作品に[クレジットされる役職も企画](../Page/クレジットタイトル.md "wikilink")・（[3DCGアニメ](https://ja.wikipedia.org/wiki/コンピュータアニメーション "wikilink")）監督・構成・脚本・キャラクターデザイン・グラフィックデザイナー・声優・映像制作・編集など多岐にわたる。[漫画家](../Page/漫画家.md "wikilink")だったり、ミュージックバンドに所属していた時期もある。（詳しい遍歴は下記“人物”の節を参照）
 
+連載漫画「みんなのトニオちゃん」のエピソードの一つである「5億年ボタン」は[インターネット・ミーム](https://ja.wikipedia.org/wiki/インターネット・ミーム "wikilink")として日本国内外に知れ渡り、ユーザー間で数々の派生作品も生み出された。
+
 ## 人物
 
 19歳で漫画家デビュー。週刊誌『[SPA\!](../Page/SPA!.md "wikilink")』([扶桑社](../Page/扶桑社.md "wikilink"))にて、CG漫画「みんなのトニオちゃん」を2年間連載。
@@ -32,6 +34,9 @@ B-DASHの前身バンド[HAGUKI](https://ja.wikipedia.org/wiki/HAGUKI "wikilink"
 ### 漫画
 
   - 『みんなのトニオちゃん』（週刊SPA\!/1999年 - 2年間/扶桑社）
+
+<!-- end list -->
+
   - 『BOTTUN\~A PART TIME JOB』([週刊少年ジャンプGAG Special2002](../Page/週刊少年ジャンプの増刊号.md "wikilink")/2001年12月30日増刊号/集英社)
   - 単行本『みんなのトニオちゃん』(2002年7月/[文芸社](../Page/文芸社.md "wikilink")）
   - 『NEWみんなのトニオちゃん』（[smart](https://ja.wikipedia.org/wiki/smart_\(雑誌\) "wikilink")/2003年 - 1年間/[宝島社](../Page/宝島社.md "wikilink")）

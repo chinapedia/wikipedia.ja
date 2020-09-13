@@ -141,7 +141,7 @@
 <li>ノリベー</li>
 <li>クチベー</li>
 </ol></td>
-<td><p>Less Than TV</p></td>
+<td><p><a href="../Page/Less_Than_TV.md" title="wikilink">Less Than TV</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>

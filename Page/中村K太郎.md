@@ -119,7 +119,7 @@ Twitterで自身の誕生日2013年5月22日に入籍したことを発表。同
 
 ## 外部リンク
 
-  - [道場ブログ](http://ameblo.jp/ktarou-nakamura/)（公式ブログ）
+  - [道場ブログ](https://ameblo.jp/ktarou-nakamura/)（公式ブログ）
 
   -
   - [UFC 選手データ](http://www.ufc.com/fighter/Keita-Nakamura)
@@ -133,7 +133,7 @@ Twitterで自身の誕生日2013年5月22日に入籍したことを発表。同
 
 1.  「自分に嘘をついてまでやれなかった」（中村へのインタビュー） 『[ゴング格闘技](../Page/ゴング格闘技.md "wikilink")』No.193、2008年7月号
 2.  [【強者】8・22ケージフォース提供試合に中村K太郎が出場！ナパウォンと対戦](http://gbring.com/sokuho/news/2009_07/0723_gcm.htm) 格闘技ウェブマガジンGBR 2009年7月23日
-3.  [欠場](http://ameblo.jp/ktarou-nakamura/entry-10319335397.html) 公式ブログ 2009年8月12日
+3.  [欠場](https://ameblo.jp/ktarou-nakamura/entry-10319335397.html) 公式ブログ 2009年8月12日
 4.  [【ADCC】 日本惨敗！準決勝に勝ち残ったのは2名のみ！ADCC初日レポ](http://www.kakutoh.com/pc/news/shosai.php?id=4322) 格闘王国 2009年9月27日
 5.  [【ADCC】 アブダビコンバット バルセロナ大会 最終日結果速報](http://www.kakutoh.com/pc/news/shosai.php?id=4323) 格闘王国 2009年9月28日
 6.  [【DEEP X】中村K太郎、八隅孝平、スーパー女子高生の湯浅麗歌子ら本命優勝](http://gbring.com/sokuho/result/result2010_01/0110_deepx.htm) 格闘技ウェブマガジンGBR 2010年1月10日

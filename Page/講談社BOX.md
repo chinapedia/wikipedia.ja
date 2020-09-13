@@ -888,7 +888,7 @@
   -
   -
   -
-[Category:講談社BOX](https://ja.wikipedia.org/wiki/Category:講談社BOX "wikilink")
+[Category:講談社BOX](https://ja.wikipedia.org/wiki/Category:講談社BOX "wikilink") [Category:講談社の出版物](https://ja.wikipedia.org/wiki/Category:講談社の出版物 "wikilink") [Category:日本の文学叢書](https://ja.wikipedia.org/wiki/Category:日本の文学叢書 "wikilink") [Category:書籍レーベル](https://ja.wikipedia.org/wiki/Category:書籍レーベル "wikilink") [Category:2006年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:2006年刊行開始の刊行物 "wikilink")
 
 1.  [amazon.co.jp 講談社ストア スペシャル・フィーチャー 講談社BOX](https://web.archive.org/web/20090820002111/http://www.amazon.co.jp/%E8%AC%9B%E8%AB%87%E7%A4%BE%E3%82%B9%E3%83%88%E3%82%A2-COOP-%E5%92%8C%E6%9B%B8/b?ie=UTF8&node=3078071)（2009年8月20日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 2.  [島田先生のデジカメ日記【第280回9-21 講談社BOX】](http://www.harashobo.co.jp/online-shimada/shukan/backnumber/index280.html)より

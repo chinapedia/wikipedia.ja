@@ -1,9 +1,11 @@
 > この記事は[ブルートレイン \(ASIAN KUNG-FU GENERATIONの曲\)](https://ja.wikipedia.org/wiki/ブルートレイン_\(ASIAN_KUNG-FU_GENERATIONの曲\))から翻訳されています。
 
 
-「**ブルートレイン**」は、[2005年](../Page/2005年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")に発売された[ASIAN KUNG-FU GENERATIONの](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")7枚目の[シングル](../Page/シングル.md "wikilink")。
+「**ブルートレイン**」（Blue Train）は、[2005年](../Page/2005年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")に発売された[ASIAN KUNG-FU GENERATIONの](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")7枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 解説
+
+前作「[君の街まで](../Page/君の街まで.md "wikilink")」から1年2か月ぶりのリリースで、2005年に発売された唯一のシングル。
 
 アルバム『[ファンクラブ](../Page/ファンクラブ_\(アルバム\).md "wikilink")』からの先行シングル第1弾。4曲入りのため、価格はシングルとしては高めの1529円となっている。自身のシングルの売上としては「[リライト](../Page/リライト_\(ASIAN_KUNG-FU_GENERATIONの曲\).md "wikilink")」に次ぐ2位。初回生産分のみステッカー付き、ピクチャーレーベル仕様になっている。
 

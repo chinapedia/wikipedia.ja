@@ -5,7 +5,7 @@
 
 本作は『[プリンセスメーカー](../Page/プリンセスメーカー.md "wikilink")』（[ガイナックス](../Page/ガイナックス.md "wikilink")）で確立された育成シミュレーションと言うジャンルをさらに発展させると共に、登場キャラクターの複数化・個性化を図ったことで単なる二番煎じに留まらない印象付けに成功。[PCエンジン](../Page/PCエンジン.md "wikilink")への移植を皮切りに多数の機種へ移植されると共に、[角川書店](../Page/角川書店.md "wikilink")から「お家騒動」により分離・独立した[メディアワークス](../Page/メディアワークス.md "wikilink")の全面的なバックアップを受けて広範囲な[メディアミックス](../Page/メディアミックス.md "wikilink")が展開された。こうしたゲームの製作手法やメディアミックス戦略は『[ときめきメモリアル](../Page/ときめきメモリアル.md "wikilink")』（[コナミ](../Page/コナミデジタルエンタテインメント.md "wikilink")）を始め多数のゲームに採り入れられており、現在まで続いている[ギャルゲー](../Page/ギャルゲー.md "wikilink")のスタンダードを確立した作品となっている。
 
-本作のヒットにより[シリーズ化され](../Page/卒業_\(ゲーム\).md "wikilink")、『[卒業II Neo Generation](https://ja.wikipedia.org/wiki/卒業II_Neo_Generation "wikilink")』や『[卒業III ウェディングベル](https://ja.wikipedia.org/wiki/卒業III_ウェディングベル "wikilink")』といったナンバリング作品や、実写版の『卒業R』や[乙女ゲーム](../Page/乙女ゲーム.md "wikilink")の『[卒業M](../Page/卒業M.md "wikilink")』といった番外編がつくられていった。
+本作のヒットにより[シリーズ化され](../Page/卒業_\(ゲーム\).md "wikilink")、『[卒業II 〜Neo Generation〜](../Page/卒業II_〜Neo_Generation〜.md "wikilink")』や『[卒業III 〜Wedding Bell〜](https://ja.wikipedia.org/wiki/卒業III_〜Wedding_Bell〜 "wikilink")』といったナンバリング作品や、実写版の『卒業R 〜Graduation Real〜（後述）』や[乙女ゲーム](../Page/乙女ゲーム.md "wikilink")の『[卒業M](../Page/卒業M.md "wikilink")』といった番外編がつくられていった。
 
 ## ゲームシステム
 

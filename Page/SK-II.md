@@ -87,7 +87,7 @@ SK-IIの**SK**とは「**Secret Key（秘密の鍵）**」の略である。
 
 :\*マスターピース アイ クリーム
 
-  - [美容液](https://ja.wikipedia.org/wiki/美容液 "wikilink")
+  - [美容液](../Page/美容液.md "wikilink")
 
 :\*ジェノプティクス オーラ エッセンス
 

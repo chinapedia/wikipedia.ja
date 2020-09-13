@@ -62,6 +62,6 @@
 [Category:マーシー級病院船](https://ja.wikipedia.org/wiki/Category:マーシー級病院船 "wikilink") [Category:1976年竣工船](https://ja.wikipedia.org/wiki/Category:1976年竣工船 "wikilink")
 
 1.
-2.  [日米衛生共同訓練の実施について](http://www.mod.go.jp/msdf/release/201806/20180612-01.pdf) [海上幕僚監部](../Page/海上幕僚監部.md "wikilink"), 2018年6月12日、2018年6月17日閲覧
+2.  [日米衛生共同訓練の実施について](https://www.mod.go.jp/msdf/release/201806/20180612-01.pdf) [海上幕僚監部](../Page/海上幕僚監部.md "wikilink"), 2018年6月12日、2018年6月17日閲覧
 3.
 4.

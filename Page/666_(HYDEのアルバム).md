@@ -47,6 +47,9 @@
         [松竹](../Page/松竹.md "wikilink")映画『[CASSHERN](../Page/CASSHERN.md "wikilink")』公式アルバム『OUR LAST DAY』収録曲。
 7.  **MIDNIGHT CELEBRATION**
       - 作詞:HYDE・ANIS / 作曲:HYDE / 編曲:HYDE・KAZ (from Spin Aqua)
+    <!-- end list -->
+      -
+        ソロや[VAMPS](https://ja.wikipedia.org/wiki/VAMPS "wikilink")のライブでは本編ラストナンバーで演奏されることが多い曲。8thシングルの『[WHO'S GONNA SAVE US](https://ja.wikipedia.org/wiki/WHO'S_GONNA_SAVE_US "wikilink")』では新たなバージョンの「MIDNIGHT CELEBRATIONⅡ」が収録されている。
 8.  **SHINING OVER YOU**
       - 作詞:HYDE・ANIS / 作曲:HYDE / 編曲:HYDE・KAZ (from Spin Aqua)
     <!-- end list -->

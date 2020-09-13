@@ -1,7 +1,7 @@
 > この記事は[魔法のiらんど](https://ja.wikipedia.org/wiki/魔法のiらんど)から翻訳されています。
 
 
-**魔法のiらんど**（まほうのあいらんど）は、[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink") [アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")（AMW）が運営する小説サイト投稿サイト。過去には小説投稿以外のサービスも提供していた。
+**魔法のiらんど**（まほうのあいらんど）は、[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink") [アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")（AMW）の社内ブランド及び同社が運営している小説投稿サイト。システム開発は[はてなが担当している](../Page/はてな_\(企業\).md "wikilink")。過去には小説投稿以外のサービスも提供していた。
 
 ## 沿革
 
@@ -31,7 +31,7 @@
 
 ## サービス
 
-「魔法のiらんど」はホームページ作成サービスとして、[フィーチャー・フォン](https://ja.wikipedia.org/wiki/フィーチャー・フォン "wikilink")向けから始まり、[パソコンや](../Page/パーソナルコンピュータ.md "wikilink")[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")でも利用可能だった。サイトでの小説の投稿・閲覧の機能は「BOOK」と呼ばれ、投稿から生まれた作品が書籍化されるようになってケータイ小説のニーズが高まると、サイト内で小説投稿用に「魔法の図書館」 をオープンさせ\[7\]\[8\]、名称変更で現在「魔法のiらんどNOVEL」 として運営されていた。2020年4月1日のリニューアルによりホームページ作成サービスは終了し、「BOOK」機能と小説投稿の「魔法のiらんどNOVEL」は統合された。
+「魔法のiらんど」はホームページ作成サービスとして、[フィーチャー・フォン](https://ja.wikipedia.org/wiki/フィーチャー・フォン "wikilink")向けから始まり、[パソコンや](../Page/パーソナルコンピュータ.md "wikilink")[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")でも利用可能だった。サイトでの小説の投稿・閲覧の機能は「BOOK」と呼ばれ、投稿から生まれた作品が書籍化されるようになってケータイ小説のニーズが高まると、サイト内で小説投稿用に「魔法の図書館」 をオープンさせ\[7\]\[8\]、名称変更で「魔法のiらんどNOVEL」 として運営されていた。2020年4月1日のリニューアルによりホームページ作成サービスは終了し、「BOOK」機能と小説投稿の「魔法のiらんどNOVEL」は統合された。
 
   - 終了したサービス
 
@@ -52,8 +52,8 @@
   - 魔法のiらんどclub - メイクやファッション、エンタメなど興味のある活動に参加できる参加型会員サービス。
   - iクラBLOG - 魔法のiらんどclubメンバーズ向けサービス。
   - アイポリス - 「魔法のiらんど」内のHPの監視サービス。
-  - 魔法のiらんどMAGAZINE - 女の子のための情報サイト。「魔法のiらんど」の小説投稿に特化するためのリニューアルに伴い終了。
-  - 魔法のiらんどNOVEL - 旧名「魔法の図書館」で小説投稿に特化したサービス。「魔法のiらんど」の小説投稿に特化するためのリニューアルにより統合。
+  - 魔法のiらんどMAGAZINE - 女の子のための情報サイト。「魔法のiらんど」の小説投稿に特化させるためのリニューアルに伴い終了。
+  - 魔法のiらんどNOVEL - 旧名「魔法の図書館」で小説投稿に重点を置いたサービス。「魔法のiらんど」の小説投稿に特化させるためのリニューアルにより統合。
 
 ## 出版
 
@@ -113,7 +113,7 @@
           -
   -
   -
-[Category:日本のウェブサイト](https://ja.wikipedia.org/wiki/Category:日本のウェブサイト "wikilink") [Category:ケータイ小説](https://ja.wikipedia.org/wiki/Category:ケータイ小説 "wikilink") [Category:アスキー・メディアワークス](https://ja.wikipedia.org/wiki/Category:アスキー・メディアワークス "wikilink") [Category:KADOKAWAの歴史](https://ja.wikipedia.org/wiki/Category:KADOKAWAの歴史 "wikilink") [Category:かつて存在した東京都の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した東京都の企業 "wikilink") [Category:1989年設立の企業](https://ja.wikipedia.org/wiki/Category:1989年設立の企業 "wikilink") [Category:小説投稿サイト](https://ja.wikipedia.org/wiki/Category:小説投稿サイト "wikilink")
+[Category:日本のウェブサイト](https://ja.wikipedia.org/wiki/Category:日本のウェブサイト "wikilink") [Category:ケータイ小説](https://ja.wikipedia.org/wiki/Category:ケータイ小説 "wikilink") [Category:アスキー・メディアワークス](https://ja.wikipedia.org/wiki/Category:アスキー・メディアワークス "wikilink") [Category:KADOKAWAの歴史](https://ja.wikipedia.org/wiki/Category:KADOKAWAの歴史 "wikilink") [Category:かつて存在した東京都の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した東京都の企業 "wikilink") [Category:1989年設立の企業](https://ja.wikipedia.org/wiki/Category:1989年設立の企業 "wikilink") [Category:小説投稿サイト](https://ja.wikipedia.org/wiki/Category:小説投稿サイト "wikilink") [Category:はてな](https://ja.wikipedia.org/wiki/Category:はてな "wikilink")
 
 1.
 2.  [沿革 | ＮＴＴデータビジネスシステムズ](http://www.nttdata-bizsys.co.jp/company/history.html)

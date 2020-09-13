@@ -717,8 +717,8 @@
       - SUGAR\!SUGAR\!\!SUGAR\!\!\!（作曲）
   - [山下久美子](../Page/山下久美子.md "wikilink")
       - [バンg バンg バンg](https://ja.wikipedia.org/wiki/Baby_Baby_\(山下久美子のアルバム\) "wikilink")
-      - [Darlin' Darlin'](https://ja.wikipedia.org/wiki/Sophia_\(アルバム\) "wikilink")
-      - [Please Don't Go](https://ja.wikipedia.org/wiki/Sophia_\(アルバム\) "wikilink")
+      - [Darlin' Darlin'](../Page/Sophia_\(アルバム\).md "wikilink")
+      - [Please Don't Go](../Page/Sophia_\(アルバム\).md "wikilink")
       - [GIMME LOVE](../Page/アニマ・アニムス.md "wikilink")
       - [5・6・7・8 DANCE\!](../Page/アニマ・アニムス.md "wikilink")
   - [山本達彦](../Page/山本達彦.md "wikilink")

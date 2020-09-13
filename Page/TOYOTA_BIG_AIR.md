@@ -89,6 +89,7 @@
   - 地上波テレビでは、大会主催の[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")（HTB）が、大会と同名のダイジェスト番組を毎年制作。[テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")24局ネット・TOYOTAの筆頭提供番組として、大会後に日曜日の深夜枠で放送される。
       - 北海道や[ウィンタースポーツ](../Page/ウィンタースポーツ.md "wikilink")に縁のある著名人を、年替わりでナビゲーターやスペシャルゲストに招くことが特徴。第18回大会のダイジェスト番組（[2014年](../Page/2014年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink")放送）では、[土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")をスペシャルゲストに迎えた。近年の放送では[お笑い芸人](https://ja.wikipedia.org/wiki/お笑い芸人 "wikilink")がナビゲーターを務めていたが、2014年のダイジェスト番組では趣向を一新。毎年合宿に臨むほど、スノーボードに対する造詣の深い[GACKT](https://ja.wikipedia.org/wiki/GACKT "wikilink")が、ナビゲーターと平岡・角野へのインタビュアーを務めた。
       - 過去の主な出演者
+          - [TEAM NACS](../Page/TEAM_NACS.md "wikilink")（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）
           - [ライセンス](../Page/ライセンス_\(お笑いコンビ\).md "wikilink")・[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）
           - [トータルテンボス](../Page/トータルテンボス.md "wikilink")・[永井大](../Page/永井大.md "wikilink")（[2011年](../Page/2011年.md "wikilink")）
           - [タカアンドトシ](../Page/タカアンドトシ.md "wikilink")・[大島麻衣](../Page/大島麻衣.md "wikilink")（[2012年](../Page/2012年.md "wikilink")）
@@ -161,7 +162,7 @@ TBA第10回大会を記念して[2005年](../Page/2005年.md "wikilink")[12月21
   - [Air & Style](https://ja.wikipedia.org/wiki/Air_&_Style "wikilink")
   - [平成ノブシコブシのヨルオシ\!](https://ja.wikipedia.org/wiki/平成ノブシコブシのヨルオシ! "wikilink")（北海道テレビが北海道ローカルで放送していた深夜番組シリーズ）
       -
-        地元・北海道出身の平成ノブシコブシが第17回大会（2013年）のダイジェスト番組（[前述](https://ja.wikipedia.org/wiki/#放送 "wikilink")）でナビゲーターを務めたことから、大会終了後の第2期第3回（同年[4月18日](../Page/4月18日.md "wikilink")放送分）で、『**TOJIMA BIG AIR**』というパロディ企画を実施した。ちなみに大会名の“TOJIMA”は同番組プロデューサーの戸島龍太郎から引用している。
+        地元・北海道出身の平成ノブシコブシが第17回大会（2013年）のダイジェスト番組（[前述](https://ja.wikipedia.org/wiki/#放送 "wikilink")）でナビゲーターを務めたことから、大会終了後の第2期第3回（同年[4月18日](../Page/4月18日.md "wikilink")放送分）で、『**TOJIMA BIG AIR**』というパロディ企画を実施した。ちなみに大会名の“TOJIMA”は同番組プロデューサーの[戸島龍太郎](../Page/戸島龍太郎.md "wikilink")から引用している。
 
 ## 脚注
 

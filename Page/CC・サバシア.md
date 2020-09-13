@@ -75,7 +75,7 @@ FAとなると、ブルワーズを含めた複数球団による争奪戦が繰
 
 も開幕ローテーションに名を連ね、29試合に先発。2桁勝利はならなかったが、9勝7敗、防御率3.65という成績を挙げた。シーズン最終登板となった9月27日のレイズ戦で報復死球を行ったことで退場となり、翌2019年シーズン開幕から5試合の出場停止処分が下された。またこの退場でシーズン155イニング到達によるボーナスを逃したことになり、話題を呼んだ\[58\]。オフの11月7日にヤンキースと単年800万ドルで再契約を結んだ\[59\]。
 
-2月15日に同年限りでの現役引退を表明した。オフに心臓付近の手術を受けており、健康不安を抱えスプリングトレーニングに入っていた。4月30日の[アリゾナ・ダイヤモンドバックス](../Page/アリゾナ・ダイヤモンドバックス.md "wikilink")戦で史上17人目の通算3000奪三振を達成、左投手としては[ランディ・ジョンソン](../Page/ランディ・ジョンソン.md "wikilink")、[スティーブ・カールトン](../Page/スティーブ・カールトン.md "wikilink")に続く史上3人目の快挙だった\[60\]。6月19日のレイズ戦で史上48人目の通算250勝達成\[61\]、250勝＆3000奪三振の達成は史上14人目である\[62\]。7月9日、かつて在籍したインディアンスの本拠地[プログレッシブ・フィールド](../Page/プログレッシブ・フィールド.md "wikilink")で行われた[オールスターゲームで始球式を務め](https://ja.wikipedia.org/wiki/2019年のMLBオールスターゲーム "wikilink")、9回には伝令役としてマウンドに向かった\[63\]。9月18日、エンゼルス戦で本拠地最後の先発登板したものの3回2失点満塁の場面で降板、しかしファンはスタンディングオベーションで迎えた\[64\]。その後はキャリア最終年にして自身初の[リリーフ](../Page/リリーフ.md "wikilink")に[転向した](../Page/コンバート_\(野球\).md "wikilink")\[65\]。10月17日の[ヒューストン・アストロズ](../Page/ヒューストン・アストロズ.md "wikilink")との[リーグ優勝決定戦の第](https://ja.wikipedia.org/wiki/2019年のアメリカンリーグチャンピオンシップシリーズ "wikilink")4戦で8回にリリーフ登板したが、左肩を痛めて降板。翌日、左肩関節の亜脱臼により登録メンバーから外れることが発表され、この試合が現役最後の登板となった\[66\]。10月21日、自身のツイッターに引退メッセージを載せた\[67\]。
+2月15日に同年限りでの現役引退を表明した。オフに心臓付近の手術を受けており、健康不安を抱えスプリングトレーニングに入っていた。4月30日の[アリゾナ・ダイヤモンドバックス](../Page/アリゾナ・ダイヤモンドバックス.md "wikilink")戦で史上17人目の通算3000奪三振を達成、左投手としては[スティーブ・カールトン](../Page/スティーブ・カールトン.md "wikilink")、[ランディ・ジョンソン](../Page/ランディ・ジョンソン.md "wikilink")に続く史上3人目の快挙だった\[60\]。6月19日のレイズ戦で史上48人目の通算250勝達成\[61\]、250勝&3000奪三振の達成は史上14人目である\[62\]。7月9日、かつて在籍したインディアンスの本拠地[プログレッシブ・フィールド](../Page/プログレッシブ・フィールド.md "wikilink")で行われた[オールスターゲームで始球式を務め](https://ja.wikipedia.org/wiki/2019年のMLBオールスターゲーム "wikilink")、9回には伝令役としてマウンドに向かった\[63\]。9月18日、エンゼルス戦で本拠地最後の先発登板したものの3回2失点満塁の場面で降板、しかしファンはスタンディングオベーションで迎えた\[64\]。その後はキャリア最終年にして自身初の[リリーフ](../Page/リリーフ.md "wikilink")に[転向した](../Page/コンバート_\(野球\).md "wikilink")\[65\]。10月17日の[ヒューストン・アストロズ](../Page/ヒューストン・アストロズ.md "wikilink")との[リーグ優勝決定戦の第](https://ja.wikipedia.org/wiki/2019年のアメリカンリーグチャンピオンシップシリーズ "wikilink")4戦で8回にリリーフ登板したが、左肩を痛めて降板。翌日、左肩関節の亜脱臼により登録メンバーから外れることが発表され、この試合が現役最後の登板となった\[66\]。10月21日、自身のツイッターに引退メッセージを載せた\[67\]。
 
 ## 投球スタイル
 
@@ -945,7 +945,7 @@ in</p></th>
 
   - [MLBオールスターゲーム](../Page/MLBオールスターゲーム.md "wikilink")選出：6回（[2003年](../Page/2003年のMLBオールスターゲーム.md "wikilink") - [2004年](../Page/2004年のMLBオールスターゲーム.md "wikilink")、[2007年](../Page/2007年のMLBオールスターゲーム.md "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年のMLBオールスターゲーム "wikilink") - [2012年](https://ja.wikipedia.org/wiki/2012年のMLBオールスターゲーム "wikilink")）
   - [開幕投手](../Page/開幕投手.md "wikilink")：11回（2003年 - 2004年、2006年 - 2014年）
-  - 通算3000奪三振 ※MLB史上17人目（左投手では史上3人目）
+  - [通算3000奪三振](../Page/3000奪三振クラブ.md "wikilink") ※MLB史上17人目（左投手では史上3人目）
 
 ### 背番号
 
@@ -1001,7 +1001,7 @@ in</p></th>
 32.
 33.
 34.
-35. Ken Rosenthal, "[Savvy Brewers turn prospects into ace Sabathia](http://web.archive.org/web/20080708125922/http://msn.foxsports.com/mlb/story/8319678/Savvy-Brewers-turn-prospects-into-ace-Sabathia)," *[FOX Sports](../Page/FOXスポーツ.md "wikilink") on MSN*, 2008年7月7日。 2008年7月8日閲覧。（2008年7月8日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+35. Ken Rosenthal, "[Savvy Brewers turn prospects into ace Sabathia](https://web.archive.org/web/20080708125922/http://msn.foxsports.com/mlb/story/8319678/Savvy-Brewers-turn-prospects-into-ace-Sabathia)," *[FOX Sports](../Page/FOXスポーツ.md "wikilink") on MSN*, 2008年7月7日。 2008年7月8日閲覧。（2008年7月8日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 36. Jeff Passan, Yahoo\! Sports, "[Tribe wise, but Brewers get best of deal](http://sports.yahoo.com/mlb/news?slug=jp-brewersindiansdeal070608&prov=yhoo&type=lgns)," *[Yahoo\! Sports](https://ja.wikipedia.org/wiki/:en:Yahoo!_Sports "wikilink")*, 2008年7月7日。 2008年7月8日閲覧。
 37.
 38. "[October 2, 2008 National League Division Series (NLDS) Game 2 at Citizens Bank Park Play by Play and Box Score](http://www.baseball-reference.com/boxes/PHI/PHI200810020.shtml)," *Baseball-Reference.com*. 2008年10月26日閲覧。

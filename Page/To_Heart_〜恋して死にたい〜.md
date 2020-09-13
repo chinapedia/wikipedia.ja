@@ -1,7 +1,7 @@
 > この記事は[To Heart 〜恋して死にたい〜](https://ja.wikipedia.org/wiki/To_Heart_〜恋して死にたい〜)から翻訳されています。
 
 
-『**to Heart 〜恋して死にたい〜**』（トゥハート こいしてしにたい）は、[1999年](../Page/1999年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")から[9月17日](../Page/9月17日.md "wikilink")まで毎週金曜日21:00 - 21:54に、[TBS系の](../Page/TBSテレビ.md "wikilink")「[金曜21時](../Page/TBS金曜9時枠の連続ドラマ.md "wikilink")」枠で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[堂本剛](../Page/堂本剛.md "wikilink")。平均視聴率は15.0%。
+『**to Heart 〜恋して死にたい〜**』（トゥハート こいしてしにたい）は、[1999年](../Page/1999年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")から[9月17日](../Page/9月17日.md "wikilink")まで毎週金曜日21:00 - 21:54に、[TBS系の](../Page/TBSテレビ.md "wikilink")「[金曜9時](../Page/TBS金曜9時枠の連続ドラマ.md "wikilink")」枠で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[堂本剛](../Page/堂本剛.md "wikilink")。平均視聴率は15.0%。
 
 [テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")・[テレビアニメの](../Page/アニメ.md "wikilink")『[To Heart](../Page/To_Heart.md "wikilink")』とは無関係である。
 

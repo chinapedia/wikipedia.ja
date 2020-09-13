@@ -26,8 +26,7 @@
 
 ## 外部リンク
 
-  - [ジェミネットII](http://www.k3.dion.ne.jp/~leone_oc/oemleone_op.html)
-
+  -
 [Category:いすゞの車種](https://ja.wikipedia.org/wiki/Category:いすゞの車種 "wikilink") [Category:ライトバン](https://ja.wikipedia.org/wiki/Category:ライトバン "wikilink")
 
 1.  [同社にジェミネットIIとしてOEM供給が開始されるまでは](../Page/いすゞ自動車.md "wikilink")、[スバルの](../Page/SUBARU_\(自動車\).md "wikilink")[レオーネバンが日本国内で発売される](../Page/スバル・レオーネ.md "wikilink")[バンとしては](../Page/ライトバン.md "wikilink")、唯一サッシュレスドアを採用していた。なお、いすゞ自動車から発売されていた乗用車で[サッシュレスドアを初めて採用するのは](../Page/ハードトップ.md "wikilink")、[2代目](https://ja.wikipedia.org/wiki/いすゞ・アスカ#2代目_BCK/BCL/BCM型（1990年-1994年） "wikilink")[アスカ](../Page/いすゞ・アスカ.md "wikilink")（[スバル](https://ja.wikipedia.org/wiki/スバル "wikilink")・[レガシィ](https://ja.wikipedia.org/wiki/スバル・レガシィ#初代_BC/BF系（1989年-1993年） "wikilink")[OEM](../Page/OEM.md "wikilink")モデル）である。しかし、ジェミネットII、アスカともに、サッシュレスドアを採用する事例は、いずれも最初で最後だった。

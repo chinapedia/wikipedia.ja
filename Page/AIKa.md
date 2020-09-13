@@ -7,7 +7,7 @@
 
 ## 概要
 
-特別編1巻を含む全8巻のOVA。『[女神天国](../Page/女神天国.md "wikilink")』OVA版の好評を受け、ほぼ同一スタッフで制作された。当初は第1期全4巻の予定だったが、好評により第2期が制作され、全8巻となった。なお、第1期は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")より11回に分けて[TBSの](../Page/TBSテレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")』内で放送された\[1\]。第2期では引き続き藍華を主人公に置きながらも、やられ役であるデルモ達にも焦点が当てられていた。
+特別編1巻を含む全8巻のOVA。『[女神天国](../Page/女神天国.md "wikilink")』OVA版の好評を受け、ほぼ同一スタッフで制作された。当初は第1期全4巻の予定だったが、好評により第2期が制作され、全8巻となった。なお、第1期は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")\[1\]より11回に分けて[TBSの](../Page/TBSテレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")』内で放送された\[2\]。第2期では引き続き藍華を主人公に置きながらも、やられ役であるデルモ達にも焦点が当てられていた。
 
 ### 特徴
 
@@ -58,7 +58,7 @@
 
   - ルドルフ・ハーゲン
     声：[塩沢兼人](../Page/塩沢兼人.md "wikilink")
-    試験管ベビーとして生まれた天才科学者。2003年生まれ。31歳。人類を一旦滅ぼし、優秀な遺伝子を持つ者だけで構成された世界を再生しようと目論んでいる\[2\]。
+    試験管ベビーとして生まれた天才科学者。2003年生まれ。31歳。人類を一旦滅ぼし、優秀な遺伝子を持つ者だけで構成された世界を再生しようと目論んでいる\[3\]。
     女好きで、藍華のことを気に入るものの、ネーナの暴走に巻き込まれて吸収されてしまい、旗艦と運命を共にした。
   - ネーナ・ハーゲン
     声：[田中敦子](../Page/田中敦子_\(声優\).md "wikilink")
@@ -338,11 +338,16 @@ AIKa Special Mission
 
 ## 脚注
 
+### 注釈
+
+### 出典
+
 ## 外部リンク
 
   - [webアニメスタイル](http://www.style.fm/as/05_column/animesama17.shtml)
 
 [Category:アニメ作品_あ](https://ja.wikipedia.org/wiki/Category:アニメ作品_あ "wikilink") [Category:1997年のOVA](https://ja.wikipedia.org/wiki/Category:1997年のOVA "wikilink") [Category:1998年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1998年のテレビアニメ "wikilink") [Category:日本のオリジナルアニメ作品](https://ja.wikipedia.org/wiki/Category:日本のオリジナルアニメ作品 "wikilink") [Category:TBSの深夜アニメ](https://ja.wikipedia.org/wiki/Category:TBSの深夜アニメ "wikilink") [Category:スタジオ・ファンタジア](https://ja.wikipedia.org/wiki/Category:スタジオ・ファンタジア "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:ワンダフルアニメ](https://ja.wikipedia.org/wiki/Category:ワンダフルアニメ "wikilink") [Category:漫画作品_あ](https://ja.wikipedia.org/wiki/Category:漫画作品_あ "wikilink") [Category:コミックガム](https://ja.wikipedia.org/wiki/Category:コミックガム "wikilink")
 
-1.  <http://www.animetopics.com/news.php?news_seq=2741>
-2.  りおん曰く「邪魔な奴全員殺して、女と遊び暮らしたいだけの変態」。
+1.  内包元である『ワンダフル』としての放送日のため、『ワンダフル』そのものを0時以降に放送開始した日を除き、本作品の実際の放送日はその翌日である。
+2.  <http://www.animetopics.com/news.php?news_seq=2741>
+3.  りおん曰く「邪魔な奴全員殺して、女と遊び暮らしたいだけの変態」。

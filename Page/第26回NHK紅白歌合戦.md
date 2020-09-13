@@ -23,34 +23,34 @@
 
 ### 出場歌手
 
-| 紅組                                                               | 白組                                                                                   |
-| ---------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| 歌手                                                               | 曲                                                                                    |
-| [岩崎宏美](../Page/岩崎宏美.md "wikilink")(初)                            | [ロマンス](../Page/ロマンス_\(岩崎宏美の曲\).md "wikilink")                                        |
-| [南沙織](https://ja.wikipedia.org/wiki/南沙織 "wikilink")(5)           | [人恋しくて](https://ja.wikipedia.org/wiki/人恋しくて "wikilink")                              |
-| [藤圭子](../Page/藤圭子.md "wikilink")(4)                              | [さすらい](https://ja.wikipedia.org/wiki/さすらい_\(藤圭子の曲\) "wikilink")                      |
-| [キャンディーズ](../Page/キャンディーズ.md "wikilink")(初)                      | [年下の男の子](../Page/年下の男の子_\(キャンディーズの曲\).md "wikilink")                                 |
-| [チェリッシュ](../Page/チェリッシュ_\(歌手グループ\).md "wikilink")(3)             | [ペパーミント・キャンディー](https://ja.wikipedia.org/wiki/ペパーミント・キャンディー_\(チェリッシュの曲\) "wikilink") |
-| [和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")(6)       | [もっと自由に](https://ja.wikipedia.org/wiki/もっと自由に "wikilink")                            |
-| [桜田淳子](../Page/桜田淳子.md "wikilink")(2)                            | [はじめての出来事](../Page/はじめての出来事.md "wikilink")                                           |
-| [佐良直美](../Page/佐良直美.md "wikilink")(9)                            | [オブラディ・オブラダ](../Page/オブ・ラ・ディ、オブ・ラ・ダ.md "wikilink")                                   |
-| [森昌子](../Page/森昌子.md "wikilink")(3)                              | [あなたを待って三年三月](https://ja.wikipedia.org/wiki/あなたを待って三年三月 "wikilink")                  |
-| [水前寺清子](../Page/水前寺清子.md "wikilink")(11)                         | [大勝負](https://ja.wikipedia.org/wiki/大勝負 "wikilink")                                  |
-| [アグネス・チャン](https://ja.wikipedia.org/wiki/アグネス・チャン "wikilink")(3) | [愛の迷い子](../Page/愛の迷い子.md "wikilink")                                                 |
-| [青江三奈](../Page/青江三奈.md "wikilink")(9)                            | [神戸北ホテル](https://ja.wikipedia.org/wiki/神戸北ホテル "wikilink")                            |
-| [伊東ゆかり](https://ja.wikipedia.org/wiki/伊東ゆかり "wikilink")(10)      | [わたし女ですもの](https://ja.wikipedia.org/wiki/わたし女ですもの "wikilink")                        |
-| [山口百恵](../Page/山口百恵.md "wikilink")(2)                            | [夏ひらく青春](../Page/夏ひらく青春.md "wikilink")                                               |
-| [西川峰子](../Page/仁支川峰子.md "wikilink")(初)                           | [あなたにあげる](https://ja.wikipedia.org/wiki/あなたにあげる "wikilink")                          |
-| [由紀さおり](../Page/由紀さおり.md "wikilink")(7)                          | [慕情](https://ja.wikipedia.org/wiki/慕情_\(由紀さおりの曲\) "wikilink")                        |
-| [森山良子](../Page/森山良子.md "wikilink")(5)                            | [歌ってよ夕陽の歌を](https://ja.wikipedia.org/wiki/歌ってよ夕陽の歌を "wikilink")                      |
-| [小柳ルミ子](../Page/小柳ルミ子.md "wikilink")(5)                          | [花車](https://ja.wikipedia.org/wiki/花車_\(曲\) "wikilink")                              |
-| [梓みちよ](../Page/梓みちよ.md "wikilink")(9)                            | [リリー・マルレーン](../Page/リリー・マルレーン.md "wikilink")                                         |
-| [八代亜紀](../Page/八代亜紀.md "wikilink")(3)                            | [ともしび](https://ja.wikipedia.org/wiki/ともしび "wikilink")                                |
-| [いしだあゆみ](../Page/いしだあゆみ.md "wikilink")(7)                        | [渚にて](https://ja.wikipedia.org/wiki/渚にて_\(いしだあゆみの曲\) "wikilink")                     |
-| [都はるみ](../Page/都はるみ.md "wikilink")(11)                           | [北の宿から](../Page/北の宿から.md "wikilink")                                                 |
-| [ちあきなおみ](../Page/ちあきなおみ.md "wikilink")(6)                        | [さだめ川](https://ja.wikipedia.org/wiki/さだめ川 "wikilink")                                |
-| [島倉千代子](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")(19)      | [悲しみの宿](https://ja.wikipedia.org/wiki/悲しみの宿 "wikilink")                              |
-|                                                                  |                                                                                      |
+| 紅組                                                               | 白組                                                              |
+| ---------------------------------------------------------------- | --------------------------------------------------------------- |
+| 歌手                                                               | 曲                                                               |
+| [岩崎宏美](../Page/岩崎宏美.md "wikilink")(初)                            | [ロマンス](../Page/ロマンス_\(岩崎宏美の曲\).md "wikilink")                   |
+| [南沙織](https://ja.wikipedia.org/wiki/南沙織 "wikilink")(5)           | [人恋しくて](https://ja.wikipedia.org/wiki/人恋しくて "wikilink")         |
+| [藤圭子](../Page/藤圭子.md "wikilink")(4)                              | [さすらい](https://ja.wikipedia.org/wiki/さすらい_\(藤圭子の曲\) "wikilink") |
+| [キャンディーズ](../Page/キャンディーズ.md "wikilink")(初)                      | [年下の男の子](../Page/年下の男の子_\(キャンディーズの曲\).md "wikilink")            |
+| [チェリッシュ](../Page/チェリッシュ_\(歌手グループ\).md "wikilink")(3)             | [ペパーミント・キャンディー](../Page/チェリッシュ_\(歌手グループ\).md "wikilink")        |
+| [和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")(6)       | [もっと自由に](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")        |
+| [桜田淳子](../Page/桜田淳子.md "wikilink")(2)                            | [はじめての出来事](../Page/はじめての出来事.md "wikilink")                      |
+| [佐良直美](../Page/佐良直美.md "wikilink")(9)                            | [オブラディ・オブラダ](../Page/オブ・ラ・ディ、オブ・ラ・ダ.md "wikilink")              |
+| [森昌子](../Page/森昌子.md "wikilink")(3)                              | [あなたを待って三年三月](../Page/森昌子.md "wikilink")                        |
+| [水前寺清子](../Page/水前寺清子.md "wikilink")(11)                         | [大勝負](../Page/水前寺清子.md "wikilink")                              |
+| [アグネス・チャン](https://ja.wikipedia.org/wiki/アグネス・チャン "wikilink")(3) | [愛の迷い子](../Page/愛の迷い子.md "wikilink")                            |
+| [青江三奈](../Page/青江三奈.md "wikilink")(9)                            | [神戸北ホテル](../Page/青江三奈.md "wikilink")                            |
+| [伊東ゆかり](https://ja.wikipedia.org/wiki/伊東ゆかり "wikilink")(10)      | [わたし女ですもの](https://ja.wikipedia.org/wiki/伊東ゆかり "wikilink")      |
+| [山口百恵](../Page/山口百恵.md "wikilink")(2)                            | [夏ひらく青春](../Page/夏ひらく青春.md "wikilink")                          |
+| [西川峰子](../Page/仁支川峰子.md "wikilink")(初)                           | [あなたにあげる](https://ja.wikipedia.org/wiki/あなたにあげる "wikilink")     |
+| [由紀さおり](../Page/由紀さおり.md "wikilink")(7)                          | [慕情](../Page/由紀さおり.md "wikilink")                               |
+| [森山良子](../Page/森山良子.md "wikilink")(5)                            | [歌ってよ夕陽の歌を](https://ja.wikipedia.org/wiki/歌ってよ夕陽の歌を "wikilink") |
+| [小柳ルミ子](../Page/小柳ルミ子.md "wikilink")(5)                          | [花車](https://ja.wikipedia.org/wiki/花車_\(曲\) "wikilink")         |
+| [梓みちよ](../Page/梓みちよ.md "wikilink")(9)                            | [リリー・マルレーン](../Page/リリー・マルレーン.md "wikilink")                    |
+| [八代亜紀](../Page/八代亜紀.md "wikilink")(3)                            | [ともしび](https://ja.wikipedia.org/wiki/ともしび "wikilink")           |
+| [いしだあゆみ](../Page/いしだあゆみ.md "wikilink")(7)                        | [渚にて](../Page/いしだあゆみ.md "wikilink")                             |
+| [都はるみ](../Page/都はるみ.md "wikilink")(11)                           | [北の宿から](../Page/北の宿から.md "wikilink")                            |
+| [ちあきなおみ](../Page/ちあきなおみ.md "wikilink")(6)                        | [さだめ川](https://ja.wikipedia.org/wiki/さだめ川 "wikilink")           |
+| [島倉千代子](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")(19)      | [悲しみの宿](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")         |
+|                                                                  |                                                                 |
 
 #### 選考を巡って
 
@@ -146,7 +146,7 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=26)
   - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1975年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1975年のテレビ番組_\(日本\) "wikilink") [Category:1975年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1975年のラジオ番組_\(日本\) "wikilink") [Category:1975年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1975年の日本の音楽 "wikilink") [Category:1975年12月](https://ja.wikipedia.org/wiki/Category:1975年12月 "wikilink")

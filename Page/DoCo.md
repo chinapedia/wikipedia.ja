@@ -17,7 +17,7 @@
 
   - [林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")
     担当：[女らんま](../Page/早乙女乱馬.md "wikilink")
-  - [日高のり子](../Page/日高のり子.md "wikilink")
+  - [日髙のり子](https://ja.wikipedia.org/wiki/日髙のり子 "wikilink")
     担当：[天道あかね](../Page/天道あかね.md "wikilink")
   - [佐久間レイ](../Page/佐久間レイ.md "wikilink")
     担当：[シャンプー](https://ja.wikipedia.org/wiki/シャンプー_\(らんま1/2\) "wikilink")

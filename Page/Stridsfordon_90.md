@@ -51,51 +51,23 @@ Stridsfordon 90（Strf 90）の開発は、[1980年代](../Page/1980年代.md "w
 
 ## 採用国
 
-  -
-<!-- end list -->
+  -   -
+        Strf 9040および派生型
 
-  -
-    Strf 9040および派生型
+  -   -
+        CV 9035 Mk.III（[2007年](../Page/2007年.md "wikilink")より納入開始）
 
-<!-- end list -->
+  -   -
+        Spz 2000（CV 9030 Mk.II）
 
-  -
-<!-- end list -->
+  -   -
+        CV 9035 Mk.III（2007年より納入開始）
 
-  -
-    CV 9035 Mk.III（[2007年](../Page/2007年.md "wikilink")より納入開始）
+  -   -
+        CV 9030N（CV 9030）
 
-<!-- end list -->
-
-  -
-<!-- end list -->
-
-  -
-    Spz 2000（CV 9030 Mk.II）
-
-<!-- end list -->
-
-  -
-<!-- end list -->
-
-  -
-    CV 9035 Mk.III（2007年より納入開始）
-
-<!-- end list -->
-
-  -
-<!-- end list -->
-
-  -
-    CV 9030N（CV 9030）
-
-<!-- end list -->
-
-  -
-<!-- end list -->
-
-  -
-    CV 9030 FIN（CV 9030 Mk.II）
+  -   -
+        CV 9030 FIN（CV 9030 Mk.II）
 
 ## 関連項目
 
@@ -107,19 +79,13 @@ Stridsfordon 90（Strf 90）の開発は、[1980年代](../Page/1980年代.md "w
 
   - [Försvarets materielverk - Strf 90 - Stridsfordon 90](http://www.fmv.se/WmTemplates/Page.aspx?id=1126)
   - [Sweden - BAE Systems](http://www.baesystems.com/WorldwideLocations/Sweden/)
-
-:\* [Bofors - BAE Systems](http://www.baesystems.com/Businesses/LandArmaments/Divisions/Bofors/)
-
-:\* [Hagglunds - BAE Systems](http://www.baesystems.com/Businesses/LandArmaments/Divisions/Hagglunds/)
-
+      - [Bofors - BAE Systems](http://www.baesystems.com/Businesses/LandArmaments/Divisions/Bofors/)
+      - [Hagglunds - BAE Systems](http://www.baesystems.com/Businesses/LandArmaments/Divisions/Hagglunds/)
   - [Patria Hägglunds](http://www.patriahagglunds.fi/)
   - [RUAG - 120 mm Compact Tank Gun](http://www.ruag.com/ruag/juice?pageID=133087)
   - [SoldF.com - Stridsfordon 90 Familjen](http://www.soldf.com/strf90fam.html)
-
-:\* [SoldF.com - Stridsfordon 90 CV90 9040 IFV](http://www.soldf.com/strf9040.html)
-
-:\* [SoldF.com - Luftvärnskanonvagn 90 LvKv 90 CV90AAV AAV](http://www.soldf.com/strf90lvkv.html)
-
+      - [SoldF.com - Stridsfordon 90 CV90 9040 IFV](http://www.soldf.com/strf9040.html)
+      - [SoldF.com - Luftvärnskanonvagn 90 LvKv 90 CV90AAV AAV](http://www.soldf.com/strf90lvkv.html)
   - [Army Technology - CV 90 - Tracked Armoured Combat Vehicles](http://www.army-technology.com/projects/cv90/)
   - [Nordic Military Vehicles](http://members.surfeu.fi/stefan.allen/)
 

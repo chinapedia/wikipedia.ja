@@ -5,11 +5,11 @@
 
 ## 概説
 
-[Akihabara_Main_Street_at_1-02_p.m._on_Sunday_23_January_2011.JPG](https://ja.wikipedia.org/wiki/File:Akihabara_Main_Street_at_1-02_p.m._on_Sunday_23_January_2011.JPG "fig:Akihabara_Main_Street_at_1-02_p.m._on_Sunday_23_January_2011.JPG")と[秋葉原UDX](../Page/秋葉原UDX.md "wikilink")正面の通りが交わる南角に位置する。\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:AKB48_theater.jpg "wikilink") 「会いに行けるアイドル」というコンセプトを体現したAKB48の活動拠点である。2005年12月8日にデビュー公演が行われた。本劇場は[AKB48の公演でのみ運用されているが](https://ja.wikipedia.org/wiki/AKB48の劇場公演 "wikilink")、AKB48姉妹グループの出張公演が開催されることもある。2009年8月から2012年3月の間は[SDN48](https://ja.wikipedia.org/wiki/SDN48 "wikilink")と共用していた。本劇場の竣工は2005年であるが、劇場施設そのものはAKB48グループでは[大阪市](../Page/大阪市.md "wikilink")・[難波](../Page/難波.md "wikilink")の[NMB48劇場](https://ja.wikipedia.org/wiki/NMB48劇場 "wikilink")（1999年竣工の旧[baseよしもと](https://ja.wikipedia.org/wiki/baseよしもと "wikilink")、2011年改装開業）の方が古い。
+「会いに行けるアイドル」というコンセプトを体現したAKB48の活動拠点である。2005年12月8日にデビュー公演が行われた。本劇場は[AKB48の公演でのみ運用されているが](https://ja.wikipedia.org/wiki/AKB48の劇場公演 "wikilink")、AKB48姉妹グループの出張公演が開催されることもある。2009年8月から2012年3月の間は[SDN48](https://ja.wikipedia.org/wiki/SDN48 "wikilink")と共用していた。本劇場の竣工は2005年であるが、劇場施設そのものはAKB48グループでは[大阪市](../Page/大阪市.md "wikilink")・[難波](../Page/難波.md "wikilink")の[NMB48劇場](https://ja.wikipedia.org/wiki/NMB48劇場 "wikilink")（1999年竣工の旧[baseよしもと](https://ja.wikipedia.org/wiki/baseよしもと "wikilink")、2011年改装開業）の方が古い。
 
 ## 劇場の立地
 
-外神田4丁目交差点前の旧・ミナミ電気館秋葉原本店ビル8階に立地する。信号を挟んだ斜向かいは[住友不動産秋葉原ビル](https://ja.wikipedia.org/wiki/住友不動産秋葉原ビル "wikilink")。地下鉄[末広町駅](https://ja.wikipedia.org/wiki/末広町駅_\(東京都\) "wikilink")1番出口から南へ200m、JR・[秋葉原駅](https://ja.wikipedia.org/wiki/秋葉原駅 "wikilink")電気街口からは320m程度である。この場所は通称「秋葉原」の範囲内であり、付近に従来から電子機器や家電の販売店・パソコンショップが多いほか、アニメグッズ専門店や[メイド喫茶](../Page/メイド喫茶.md "wikilink")などオタク系・美少女萌え系の店も多い。
+[Akihabara_Main_Street_at_1-02_p.m._on_Sunday_23_January_2011.JPG](https://ja.wikipedia.org/wiki/File:Akihabara_Main_Street_at_1-02_p.m._on_Sunday_23_January_2011.JPG "fig:Akihabara_Main_Street_at_1-02_p.m._on_Sunday_23_January_2011.JPG")と[秋葉原UDX](../Page/秋葉原UDX.md "wikilink")正面の通りが交わる南角に位置する。\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:AKB48_theater.jpg "wikilink") 外神田4丁目交差点前の旧・ミナミ電気館秋葉原本店ビル8階に立地する。信号を挟んだ斜向かいは[住友不動産秋葉原ビル](https://ja.wikipedia.org/wiki/住友不動産秋葉原ビル "wikilink")。地下鉄[末広町駅](https://ja.wikipedia.org/wiki/末広町駅_\(東京都\) "wikilink")1番出口から南へ200m、JR・[秋葉原駅](https://ja.wikipedia.org/wiki/秋葉原駅 "wikilink")電気街口からは320m程度である。この場所は通称「秋葉原」の範囲内であり、付近に従来から電子機器や家電の販売店・パソコンショップが多いほか、アニメグッズ専門店や[メイド喫茶](../Page/メイド喫茶.md "wikilink")などオタク系・美少女萌え系の店も多い。
 
 ### 秋葉原が選ばれた理由
 
@@ -77,7 +77,7 @@ Electro-Voice社製の大型スピーカーが設置されている。
 
 #### 48's Cafe
 
-ロビーは劇場開設時から2008年末まで「48's Cafe」という[カフェスペースになっていた](../Page/喫茶店.md "wikilink")。[ソフトドリンク](../Page/ソフトドリンク.md "wikilink")や[ソフトクリーム](../Page/ソフトクリーム.md "wikilink")に加え、[オムライス](../Page/オムライス.md "wikilink")や[ピラフ](../Page/ピラフ.md "wikilink")などの[軽食](../Page/軽食.md "wikilink")が提供されていた。その後、この機能は秋葉原駅前にある「AKB48カフェ＆ショップ\[10\]」が引き継いだ。
+ロビーは劇場開設時から2008年末まで「48's Cafe」という[カフェスペースになっていた](../Page/喫茶店.md "wikilink")。[ソフトドリンク](../Page/ソフトドリンク.md "wikilink")や[ソフトクリーム](../Page/ソフトクリーム.md "wikilink")に加え、[オムライス](../Page/オムライス.md "wikilink")や[ピラフ](../Page/ピラフ.md "wikilink")などの[軽食](../Page/軽食.md "wikilink")が提供されていた。その後、この機能は秋葉原駅前にある「[AKB48カフェ＆ショップ](https://ja.wikipedia.org/wiki/AKB48_SHOP#AKB48_CAFE&SHOP_AKIHABARA "wikilink")\[10\]」が引き継いだ。
 
   - ロビーでのサプライズ
       - ロビーにおいて、事前の予告なくメンバー数名がカフェやグッズ売場の売り子になることがあった。
@@ -85,7 +85,7 @@ Electro-Voice社製の大型スピーカーが設置されている。
 
 #### グッズ売場
 
-ロビーにはグッズ売場「48's Shop」があり、AKB48のCDやオリジナルグッズを販売していたが、2009年12月8日より、階下のドン・キホーテ秋葉原店5階に設置された「AKB48 SHOP\[11\]」に段階的に移管され、ロビーでの販売は終了した。
+ロビーにはグッズ売場「48's Shop」があり、AKB48のCDやオリジナルグッズを販売していたが、2009年12月8日より、階下のドン・キホーテ秋葉原店5階に設置された「[AKB48 SHOP](https://ja.wikipedia.org/wiki/AKB48_SHOP "wikilink")\[11\]」に段階的に移管され、ロビーでの販売は終了した。
 
 #### 当たり券入りガチャガチャ
 

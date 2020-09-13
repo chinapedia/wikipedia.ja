@@ -18,13 +18,13 @@
 
 ### 連載中（雑誌オリジナル）
 
-  - [イケメン女と箱入り娘](https://ja.wikipedia.org/wiki/イケメン女と箱入り娘 "wikilink")（原作：[もちオーレ](https://ja.wikipedia.org/wiki/もちオーレ "wikilink")、漫画：[majoccoid](https://ja.wikipedia.org/wiki/majoccoid "wikilink")）（2019年11月号 - ）
+  - [イケメン女と箱入り娘](https://ja.wikipedia.org/wiki/イケメン女と箱入り娘 "wikilink")（原作：[もちオーレ](../Page/もちオーレ.md "wikilink")、漫画：[majoccoid](https://ja.wikipedia.org/wiki/majoccoid "wikilink")）（2019年11月号 - ）
   - [1年A組のモンスター](https://ja.wikipedia.org/wiki/1年A組のモンスター "wikilink")（[英貴](https://ja.wikipedia.org/wiki/英貴 "wikilink")）（2018年3月号 - ）
   - [お稲荷JKたまもちゃん](https://ja.wikipedia.org/wiki/お稲荷JKたまもちゃん "wikilink")（[ユウキレイ](https://ja.wikipedia.org/wiki/ユウキレイ "wikilink")）（2017年3月号・4月号読み切り、5月号 - ） - 当初は短期集中連載
   - [推しのアイドルが隣の部屋に引っ越してきた](https://ja.wikipedia.org/wiki/推しのアイドルが隣の部屋に引っ越してきた "wikilink")（[脊髄引き抜きの刑](https://ja.wikipedia.org/wiki/脊髄引き抜きの刑 "wikilink")）（2019年9月号 - ）
-  - [お兄ちゃんはおしまい\!](https://ja.wikipedia.org/wiki/お兄ちゃんはおしまい! "wikilink")（[ねことうふ](https://ja.wikipedia.org/wiki/ねことうふ "wikilink")）（2019年6月号 - ）
+  - [お兄ちゃんはおしまい\!](https://ja.wikipedia.org/wiki/お兄ちゃんはおしまい! "wikilink")（[ねことうふ](../Page/ねことうふ.md "wikilink")）（2019年6月号 - ）
   - [今日、小柴葵に会えたら。](https://ja.wikipedia.org/wiki/今日、小柴葵に会えたら。 "wikilink")（原作：[竹岡葉月](../Page/竹岡葉月.md "wikilink")、漫画：[フライ](https://ja.wikipedia.org/wiki/フライ_\(イラストレーター\) "wikilink")）（2019年1月号 - ）
-  - [思春期ちゃんのしつけかた](https://ja.wikipedia.org/wiki/思春期ちゃんのしつけかた "wikilink")（[中田ゆみ](../Page/中田ゆみ.md "wikilink")）（2019年4月号 - ）
+  - [思春期ちゃんのしつけかた](../Page/思春期ちゃんのしつけかた.md "wikilink")（[中田ゆみ](../Page/中田ゆみ.md "wikilink")）（2019年4月号 - ）
   - [どっちも気づかない。](https://ja.wikipedia.org/wiki/どっちも気づかない。 "wikilink")（[東ふゆ](https://ja.wikipedia.org/wiki/東ふゆ "wikilink")）（2020年4月号 - ）
   - [ニジとクロ](https://ja.wikipedia.org/wiki/ニジとクロ "wikilink")（[武梨えり](../Page/武梨えり.md "wikilink")）（2018年9月号 - ）
   - [バーナード嬢曰く。](https://ja.wikipedia.org/wiki/バーナード嬢曰く。 "wikilink")（[施川ユウキ](https://ja.wikipedia.org/wiki/施川ユウキ "wikilink")）（2014年1月号 - ）

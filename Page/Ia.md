@@ -106,6 +106,6 @@
   -
   - [ia アイア. - Yahoo\!ブログ](http://blogs.yahoo.co.jp/ia9ia9)（2006年 - 2007年）
 
-  - [ia official blog Powered by Ameba](http://ameblo.jp/ia9/)（2007年 - 2013年）
+  - [ia official blog Powered by Ameba](https://ameblo.jp/ia9/)（2007年 - 2013年）
 
 [Category:VJ](https://ja.wikipedia.org/wiki/Category:VJ "wikilink") [Category:日本の司会者](https://ja.wikipedia.org/wiki/Category:日本の司会者 "wikilink") [Category:オランダの音楽関係者](https://ja.wikipedia.org/wiki/Category:オランダの音楽関係者 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:ロンドン出身の人物](https://ja.wikipedia.org/wiki/Category:ロンドン出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:日本のヒップホップ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ "wikilink") [Category:過去のLDH所属タレント](https://ja.wikipedia.org/wiki/Category:過去のLDH所属タレント "wikilink")

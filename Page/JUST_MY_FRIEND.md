@@ -28,4 +28,4 @@
   - [H2O](../Page/H2O_\(米米CLUBのアルバム\).md "wikilink") (\#1,2)
   - [HARVEST SINGLES 1992-1997](https://ja.wikipedia.org/wiki/HARVEST_SINGLES_1992-1997 "wikilink") (\#1)
 
-[Category:米米CLUBの楽曲](https://ja.wikipedia.org/wiki/Category:米米CLUBの楽曲 "wikilink") [Category:フジテレビの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビの主題歌 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")
+[Category:米米CLUBの楽曲](https://ja.wikipedia.org/wiki/Category:米米CLUBの楽曲 "wikilink") [Category:フジテレビの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビの主題歌 "wikilink") [Category:友達を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:友達を題材とした楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")

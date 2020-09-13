@@ -64,13 +64,13 @@
 ### ifシナリオ
 
 1.  [孫堅](../Page/孫堅.md "wikilink")の中興　191年2月　[孫堅](../Page/孫堅.md "wikilink")が反董卓連合の後[洛陽](https://ja.wikipedia.org/wiki/洛陽 "wikilink")にとどまっている状態。
-2.  白馬将軍の威　191年7月　[公孫瓚が](../Page/公孫サン.md "wikilink")[劉備](../Page/劉備.md "wikilink")を、[袁紹](../Page/袁紹.md "wikilink")が[曹操](../Page/曹操.md "wikilink")を、[袁術](../Page/袁術.md "wikilink")が[孫策](../Page/孫策.md "wikilink")をそれぞれ配下としている。
+2.  白馬将軍の威　191年7月　[公孫瓚](https://ja.wikipedia.org/wiki/公孫瓚 "wikilink")が[劉備](../Page/劉備.md "wikilink")を、[袁紹](../Page/袁紹.md "wikilink")が[曹操](../Page/曹操.md "wikilink")を、[袁術](../Page/袁術.md "wikilink")が[孫策](../Page/孫策.md "wikilink")をそれぞれ配下としている。
 3.  皇帝呂布　197年6月（※）　成の皇帝となった袁術が死去したのち[呂布](../Page/呂布.md "wikilink")がその勢力を引き継いだ形。
 4.  漢の忠臣ここにあり　200年1月　[董承](../Page/董承.md "wikilink")による献帝脱出計画が成功し、劉備が[馬騰](../Page/馬騰.md "wikilink")とともに献帝を擁立して[長安](../Page/長安.md "wikilink")から雍州・涼州を領有している。
 5.  [華北](../Page/華北.md "wikilink")の覇者[袁紹](../Page/袁紹.md "wikilink")　200年10月（※）　[官渡の戦い](../Page/官渡の戦い.md "wikilink")で袁紹が勝利し、[洛陽](https://ja.wikipedia.org/wiki/洛陽 "wikilink")・[許昌](https://ja.wikipedia.org/wiki/許昌 "wikilink")を領有、献帝を擁立している。
 6.  [周瑜](../Page/周瑜.md "wikilink")の天下二分計　210年10月　孫呉が[劉璋](../Page/劉璋.md "wikilink")を降して揚州および江陵から益州を領有し、曹操と対抗している。
 7.  曹家分裂　220年1月（※）　曹操の死後、4人の息子達が争い、魏が4つに分裂している。
-8.  西蜀動乱　264年1月（※）　蜀漢の滅亡後、蜀の地で[鄧艾](../Page/トウ艾.md "wikilink")・[鍾会](../Page/鍾会.md "wikilink")が独立している。
+8.  西蜀動乱　264年1月（※）　蜀漢の滅亡後、蜀の地で[鄧艾](https://ja.wikipedia.org/wiki/鄧艾 "wikilink")・[鍾会](../Page/鍾会.md "wikilink")が独立している。
 9.  超・三國志　208年1月　小説「[超・三國志](../Page/反三国志演義.md "wikilink")」（著：[今戸榮一](https://ja.wikipedia.org/wiki/今戸榮一 "wikilink")）に題材を得たシナリオ。
 10. 英雄集結　281年1月（※）　ゲーム内の全ての君主・全ての武将が登場する。
 

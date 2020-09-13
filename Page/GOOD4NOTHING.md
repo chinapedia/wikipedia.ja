@@ -1,7 +1,7 @@
 > この記事は[GOOD4NOTHING](https://ja.wikipedia.org/wiki/GOOD4NOTHING)から翻訳されています。
 
 
-**GOOD4NOTHING**（グッドフォーナッシング）は[大阪](../Page/大阪.md "wikilink")[堺市](https://ja.wikipedia.org/wiki/堺市 "wikilink")出身の[メロディック](https://ja.wikipedia.org/wiki/メロディック "wikilink")[パンク](../Page/パンク・ロック.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
+**GOOD4NOTHING**（グッドフォーナッシング）は[大阪府](../Page/大阪府.md "wikilink")[堺市](https://ja.wikipedia.org/wiki/堺市 "wikilink")出身の[メロディック](https://ja.wikipedia.org/wiki/メロディック "wikilink")[パンク](../Page/パンク・ロック.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 [KICK ROCK MUSICに所属していたが](https://ja.wikipedia.org/wiki/KICK_ROCK_MUSIC "wikilink")、2010年8月に自主マネージメントレーベル＜L.M.N.O.P.＞（エレメノピー）の立ち上げを発表。公式サイトに『自分達のやりたいように出来る環境を作るべく設立したレーベル。当面は、セルフプロデュースと言う形で自分達を表現していく場所。名前の由来は、ABCの歌が日本とアメリカで違うところから、この部分を抜粋。』と発表した。メジャーレーベルはUNIVERSAL J。
 
-2011年5月には『GOOD4NOTHING "BACK 4 GOOD" CHINA TOUR 2011』と題した大規模な中国ツアーを敢行。日本人アーティストとしては史上初のライブハウス、大型野外フェスティバルを含めた16公演を。上海で行われたMIDI MUSIC FESTIVAL 2011では最終日のトリ前に出演。（主な公演場所：広州 / 香港 / 深セン / 珠海 / マカオ / 西安 / 武漢 / 重慶 / 成都 / 北京 / 上海 / 杭州等）
+2011年5月には『GOOD4NOTHING "BACK 4 GOOD" CHINA TOUR 2011』と題した大規模な中国ツアーを敢行。日本人アーティストとしては史上初のライブハウス、大型野外フェスティバルを含めた16公演を。上海で行われたMIDI MUSIC FESTIVAL 2011では最終日のトリ前に出演。（主な公演場所：広州 / 香港 / 深圳 / 珠海 / マカオ / 西安 / 武漢 / 重慶 / 成都 / 北京 / 上海 / 杭州等）
 
 また、同年10月に行われた『GOOD4NOTHING "It’s shoooort time\!\!" CHINA TOUR 2011』では、[鎮江](https://ja.wikipedia.org/wiki/鎮江 "wikilink")で行われた『STRAWBERRY CHANJIANG MUSIC FESTIVAL 2011』にて、日本人アーティストとしては中国ロックフェス史上初の大トリを飾った。この模様は中国版Twitter『[新浪微博](https://ja.wikipedia.org/wiki/新浪微博 "wikilink")（シンランウェイボー）』にて大々的にクローズアップされた。
 
@@ -222,7 +222,7 @@
   - 2013年11月28日〜12月06日 - GOOD4NOTHING 15TH ANNIVERSARY 『SAKAI NO OSSAN goes on ONE-MAN SHOW』
   - 2014年02月14日〜06月29日 - Four voices tour 2014
       -
-        w/COUNTRY YARD / [THE CHERRY COKE$](../Page/THE_CHERRY_COKE$.md "wikilink") / GARLIC BOYS / BOMB FACTORY / [SECRET 7 LINE](https://ja.wikipedia.org/wiki/SECRET_7_LINE "wikilink") / [EGG BRAIN](https://ja.wikipedia.org/wiki/EGG_BRAIN "wikilink") / [FOUR GET ME A NOTS](https://ja.wikipedia.org/wiki/FOUR_GET_ME_A_NOTS "wikilink") / [Northern19](../Page/Northern19.md "wikilink") / HEY-SMITH / dustbox / [ROACH](https://ja.wikipedia.org/wiki/ROACH "wikilink") / [THE→CHINA WIFE MOTORS](https://ja.wikipedia.org/wiki/THE→CHINA_WIFE_MOTORS "wikilink") / [DROPOUT](https://ja.wikipedia.org/wiki/DROPOUT "wikilink") / [HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink") / SPREAD / OVER ARM THROW / STOMPIN'BIRD
+        w/COUNTRY YARD / [THE CHERRY COKE$](../Page/THE_CHERRY_COKE$.md "wikilink") / GARLIC BOYS / BOMB FACTORY / [SECRET 7 LINE](https://ja.wikipedia.org/wiki/SECRET_7_LINE "wikilink") / [EGG BRAIN](https://ja.wikipedia.org/wiki/EGG_BRAIN "wikilink") / [FOUR GET ME A NOTS](https://ja.wikipedia.org/wiki/FOUR_GET_ME_A_NOTS "wikilink") / [Northern19](../Page/Northern19.md "wikilink") / HEY-SMITH / dustbox / [ROACH](../Page/ROACH.md "wikilink") / [THE→CHINA WIFE MOTORS](https://ja.wikipedia.org/wiki/THE→CHINA_WIFE_MOTORS "wikilink") / [DROPOUT](https://ja.wikipedia.org/wiki/DROPOUT "wikilink") / [HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink") / SPREAD / OVER ARM THROW / STOMPIN'BIRD
   - 2014年08月31日 - HI BACK PACK vol.10
   - 2015年 - MELODIC CORSTAR（渋谷クラブクアトロ）
   - 2015年06月12日〜07月18日 - Raise Your Hope TOUR 2015 ～OSSAN TACHI NO ONE-MAN～

@@ -13,6 +13,8 @@
 
 [ケロQ](../Page/ケロQ.md "wikilink")のリリースする[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")の世界観の主たる構成者である。
 
+一時期戦後ヤクザについて調べたり、定期的にアウトローな書物を読んだりするため、作風に物騒な雰囲気が見受けられる。[薬理凶室](https://ja.wikipedia.org/wiki/薬理凶室 "wikilink")などの危ない科学を好む。\[2\]
+
 イラストは、比較的細身な少女を描くことが多い一方で、筋骨隆々の男性を描くことも間々ある。また、人物以外に小物類（銃や剣などの武器類など）も度々描くほか、レースやプリーツの多い絵を描くことも多い。元気なキャラ、暴れているキャラが好みで、おしとやかなタイプのキャラは苦手。そのタイプを得意とする[基4%](https://ja.wikipedia.org/wiki/基4% "wikilink")に任せている。
 
 ラフイラストに於いては、一本線を描かずにデッサン風な描画をすることも、特徴の一つである。
@@ -34,6 +36,11 @@
   - [2007年](../Page/2007年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink") - [√after and another](https://ja.wikipedia.org/wiki/√after_and_another "wikilink")（キャラクターデザイン、原画、シナリオ）
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月26日](../Page/9月26日.md "wikilink") - [しゅぷれ〜むキャンディ 〜王道には王道たる理由があるんです\!〜](https://ja.wikipedia.org/wiki/しゅぷれ〜むキャンディ_〜王道には王道たる理由があるんです!〜 "wikilink")
   - [2015年](../Page/2015年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink") - [サクラノ詩 -櫻の森の上を舞う-](https://ja.wikipedia.org/wiki/サクラノ詩_-櫻の森の上を舞う- "wikilink")（総指揮、シナリオ）
+  - 発売日未定 - [サクラノ刻 -櫻の森の下を歩む-](https://ja.wikipedia.org/wiki/サクラノ詩_-櫻の森の上を舞う- "wikilink")（シナリオ）\[3\]
+
+### [ANIPLEX.EXE](../Page/アニプレックス.md "wikilink")
+
+  - 2020年6月19日 - [ATRI -My Dear Moments-](../Page/ATRI_-My_Dear_Moments-.md "wikilink")（アートディレクター、ディレクター、企画協力、演出素材）\[4\]\[5\]
 
 ### 画集
 
@@ -67,6 +74,10 @@
   - [39computer](http://koinu39computer.blog42.fc2.com/)（個人HP）
 
   -
-[Category:同人作家](https://ja.wikipedia.org/wiki/Category:同人作家 "wikilink") [Category:ゲームクリエイター](https://ja.wikipedia.org/wiki/Category:ゲームクリエイター "wikilink") [Category:日本のイラストレーター](https://ja.wikipedia.org/wiki/Category:日本のイラストレーター "wikilink") [Category:ケロQ](https://ja.wikipedia.org/wiki/Category:ケロQ "wikilink") [Category:ゲームのグラフィッカー・原画家](https://ja.wikipedia.org/wiki/Category:ゲームのグラフィッカー・原画家 "wikilink") [Category:アダルトゲームライター](https://ja.wikipedia.org/wiki/Category:アダルトゲームライター "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:千葉県出身の人物](https://ja.wikipedia.org/wiki/Category:千葉県出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:同人作家](https://ja.wikipedia.org/wiki/Category:同人作家 "wikilink") [Category:日本のコンピュータゲームデザイナー](https://ja.wikipedia.org/wiki/Category:日本のコンピュータゲームデザイナー "wikilink") [Category:日本のイラストレーター](https://ja.wikipedia.org/wiki/Category:日本のイラストレーター "wikilink") [Category:ケロQ](https://ja.wikipedia.org/wiki/Category:ケロQ "wikilink") [Category:ゲームのグラフィッカー・原画家](https://ja.wikipedia.org/wiki/Category:ゲームのグラフィッカー・原画家 "wikilink") [Category:アダルトゲームライター](https://ja.wikipedia.org/wiki/Category:アダルトゲームライター "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:千葉県出身の人物](https://ja.wikipedia.org/wiki/Category:千葉県出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  [2010/12/16 twitter](https://twitter.com/SCA_DI/status/15223703050653698)
+2.
+3.
+4.
+5.  アートディレクター以外の役職はスタッフロールで判明。

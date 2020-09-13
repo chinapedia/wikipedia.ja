@@ -195,7 +195,7 @@
 
 ### 越後湯沢駅
 
-[Cocolo-yuzawa.jpg](https://ja.wikipedia.org/wiki/File:Cocolo-yuzawa.jpg "fig:Cocolo-yuzawa.jpg")
+[CoCoLo湯沢.jpg](https://ja.wikipedia.org/wiki/File:CoCoLo湯沢.jpg "fig:CoCoLo湯沢.jpg")
 
 **CoCoLo湯沢**（西口2階コンコース、2階北側）
 
@@ -221,7 +221,7 @@
 
   - [CoCoLo](http://www.cocolo-station.jp/pc)
 
-[Category:新潟県の商業施設](https://ja.wikipedia.org/wiki/Category:新潟県の商業施設 "wikilink") [Category:新潟市の商業施設](https://ja.wikipedia.org/wiki/Category:新潟市の商業施設 "wikilink") [Category:新潟市中央区の建築物](https://ja.wikipedia.org/wiki/Category:新潟市中央区の建築物 "wikilink") [Category:長岡市の建築物](https://ja.wikipedia.org/wiki/Category:長岡市の建築物 "wikilink") [Category:湯沢町の建築物](https://ja.wikipedia.org/wiki/Category:湯沢町の建築物 "wikilink") [Category:JR東日本グループ](https://ja.wikipedia.org/wiki/Category:JR東日本グループ "wikilink") [Category:中部地方の駅ビル](https://ja.wikipedia.org/wiki/Category:中部地方の駅ビル "wikilink") [Category:新潟駅](https://ja.wikipedia.org/wiki/Category:新潟駅 "wikilink")
+[Category:新潟県の商業施設](https://ja.wikipedia.org/wiki/Category:新潟県の商業施設 "wikilink") [Category:新潟市の商業施設](https://ja.wikipedia.org/wiki/Category:新潟市の商業施設 "wikilink") [Category:新潟市中央区の建築物](https://ja.wikipedia.org/wiki/Category:新潟市中央区の建築物 "wikilink") [Category:長岡市の建築物](https://ja.wikipedia.org/wiki/Category:長岡市の建築物 "wikilink") [Category:湯沢町の建築物](https://ja.wikipedia.org/wiki/Category:湯沢町の建築物 "wikilink") [Category:JR東日本グループ](https://ja.wikipedia.org/wiki/Category:JR東日本グループ "wikilink") [Category:新潟県の駅ビル](https://ja.wikipedia.org/wiki/Category:新潟県の駅ビル "wikilink") [Category:新潟駅](https://ja.wikipedia.org/wiki/Category:新潟駅 "wikilink")
 
 1.
 2.

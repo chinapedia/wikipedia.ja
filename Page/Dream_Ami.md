@@ -19,7 +19,7 @@
 
 ## 人物
 
-  - 金髪がトレードマーク。在籍しているグループのDreamがLDHへ移籍となった2008年にイメージチェンジをはかったことがきっかけである\[13\]。
+  - 金髪がトレードマーク。在籍していたグループであるDreamの所属事務所がLDHへ移籍となった2008年にイメージチェンジをはかったことがきっかけである\[13\]。
   - 2020年2月22日、建築家の半田悠人と結婚\[14\]。3年の交際期間を経て結婚に至った\[15\]。半田は同い年で、かつてリアリティ番組『[テラスハウス](https://ja.wikipedia.org/wiki/テラスハウス_\(テレビ番組\) "wikilink")』に出演していた\[16\]。
 
 ## 作品
@@ -252,7 +252,7 @@ E.G. POWER 2019 〜POWER to the DOME〜
 ### テレビドラマ
 
   - [ムッシュ\!](https://ja.wikipedia.org/wiki/ムッシュ! "wikilink") 第10話（2013年6月24日、[CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")） - Ami 役\[42\]
-  - [ひみつ×戦士 ファントミラージュ\!](https://ja.wikipedia.org/wiki/ひみつ×戦士_ファントミラージュ! "wikilink")（2020年4月26日 - 、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")） - ファントミクイーン アミーゴ 役\[43\]
+  - [ひみつ×戦士 ファントミラージュ\!](https://ja.wikipedia.org/wiki/ひみつ×戦士_ファントミラージュ! "wikilink")（2020年4月 - 6月、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")） - ファントミクイーン アミーゴ 役\[43\]
 
 ### 声優
 
@@ -304,15 +304,16 @@ E.G. POWER 2019 〜POWER to the DOME〜
   - [ユニリーバ](../Page/ユニリーバ・ジャパン.md "wikilink")「[LUX](https://ja.wikipedia.org/wiki/ラックス_\(ビューティケア\) "wikilink") Shine Plus」（2018年）\[70\]
   - [Google Japan](https://ja.wikipedia.org/wiki/Google#日本法人 "wikilink") Googleアプリ「Discover（探す）」「写真でお店検索」（2018年）\[71\]
   - [花王](../Page/花王.md "wikilink")「[メリット](../Page/メリット_\(シャンプー\).md "wikilink") PYUAN」（2019年 -）\[72\]\[73\]\[74\]
+  - 大阪府 令和2年「秋の全国交通安全運動」（2020年）\[75\]
 
 ### ミュージックビデオ
 
-  - [EXILE TAKAHIRO](https://ja.wikipedia.org/wiki/TAKAHIRO_\(歌手\) "wikilink")「[BLACK BEANZ](https://ja.wikipedia.org/wiki/All-The-Time_Memories "wikilink")」（2017年）\[75\]\[76\]
+  - [EXILE TAKAHIRO](https://ja.wikipedia.org/wiki/TAKAHIRO_\(歌手\) "wikilink")「[BLACK BEANZ](https://ja.wikipedia.org/wiki/All-The-Time_Memories "wikilink")」（2017年）\[76\]\[77\]
 
 ### その他
 
-  - サンリオ「Dream Ami × Little Twin Stars」（2019年）\[77\]
-  - [サンリオピューロランド](../Page/サンリオピューロランド.md "wikilink")「PURO WHITE CHRISTMAS」アンバサダー（2019年）\[78\]
+  - サンリオ「Dream Ami × Little Twin Stars」（2019年）\[78\]
+  - [サンリオピューロランド](../Page/サンリオピューロランド.md "wikilink")「PURO WHITE CHRISTMAS」アンバサダー（2019年）\[79\]
 
 ## 脚注
 
@@ -326,7 +327,7 @@ E.G. POWER 2019 〜POWER to the DOME〜
   - [Dream Ami](https://www.ldh.co.jp/management/dream_ami/) - LDH Japan Official Website
 
   -
-[Category:Dream_Ami](https://ja.wikipedia.org/wiki/Category:Dream_Ami "wikilink") [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:日本のダンサー](https://ja.wikipedia.org/wiki/Category:日本のダンサー "wikilink") [Category:Dreamのメンバー](https://ja.wikipedia.org/wiki/Category:Dreamのメンバー "wikilink") [Category:E-girlsの元メンバー](https://ja.wikipedia.org/wiki/Category:E-girlsの元メンバー "wikilink") [Category:芸能人女子フットサル選手](https://ja.wikipedia.org/wiki/Category:芸能人女子フットサル選手 "wikilink") [Category:ガールズアワード出演モデル](https://ja.wikipedia.org/wiki/Category:ガールズアワード出演モデル "wikilink") [Category:過去のフィットワン所属者](https://ja.wikipedia.org/wiki/Category:過去のフィットワン所属者 "wikilink") [Category:LDH所属のアーティスト・歌手](https://ja.wikipedia.org/wiki/Category:LDH所属のアーティスト・歌手 "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink") [Category:1988年生](https://ja.wikipedia.org/wiki/Category:1988年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:Dream_Ami](https://ja.wikipedia.org/wiki/Category:Dream_Ami "wikilink") [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:日本の女性ダンサー](https://ja.wikipedia.org/wiki/Category:日本の女性ダンサー "wikilink") [Category:Dreamのメンバー](https://ja.wikipedia.org/wiki/Category:Dreamのメンバー "wikilink") [Category:E-girlsの元メンバー](https://ja.wikipedia.org/wiki/Category:E-girlsの元メンバー "wikilink") [Category:芸能人女子フットサル選手](https://ja.wikipedia.org/wiki/Category:芸能人女子フットサル選手 "wikilink") [Category:ガールズアワード出演モデル](https://ja.wikipedia.org/wiki/Category:ガールズアワード出演モデル "wikilink") [Category:過去のフィットワン所属者](https://ja.wikipedia.org/wiki/Category:過去のフィットワン所属者 "wikilink") [Category:LDH所属のアーティスト・歌手](https://ja.wikipedia.org/wiki/Category:LDH所属のアーティスト・歌手 "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink") [Category:1988年生](https://ja.wikipedia.org/wiki/Category:1988年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.
@@ -406,3 +407,4 @@ E.G. POWER 2019 〜POWER to the DOME〜
 76.
 77.
 78.
+79.

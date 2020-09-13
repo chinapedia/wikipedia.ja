@@ -1,13 +1,13 @@
 > この記事は[THE MANZAI \(小説\)](https://ja.wikipedia.org/wiki/THE_MANZAI_\(小説\))から翻訳されています。
 
 
-『**The MANZAI**』（ザ・マンザイ）は、[あさのあつこ](../Page/あさのあつこ.md "wikilink")作の小説。シリーズ累計200万部を突破しており、全6巻でシリーズ完結。漫画化、[CDドラマ化もされている](../Page/ドラマCD.md "wikilink")。
+『**The MANZAI**』（ザ・マンザイ）は、[あさのあつこ](../Page/あさのあつこ.md "wikilink")作の[児童小説](https://ja.wikipedia.org/wiki/児童小説 "wikilink")。シリーズ累計200万部を突破しており、全6巻でシリーズ完結。漫画化、[CDドラマ化もされている](../Page/ドラマCD.md "wikilink")。
 
 ## 主なストーリー
 
 ### The MANZAI
 
-ある十月の日、訳ありの中学2年で転校生の**瀬田歩**（せたあゆむ）はクラスメイトの**秋本貴史**（あきもとたかし）に**「付き合ってくれ」**と言われる。秋本は一緒に漫才のコンビを組んでくれという意味で言ったのだが、瀬田には[同性愛](https://ja.wikipedia.org/wiki/同性愛 "wikilink")の申し出の様に聞こえ戸惑いを隠せずにいた。その後瀬田は無理矢理コンビを組まされ、文化祭で**「漫才ロミオとジュリエット、ほんまは、あんたがアホやねん」**（**通称「ロミジュリ」**）を行うことにしたのだが…。中学生を舞台として中学生の青春と葛藤と恋を描く。
+ある十月の日、訳ありの中学2年で転校生の**瀬田歩**（せたあゆむ）はクラスメイトの**秋本貴史**（あきもとたかし）に**「付き合ってくれ」**と言われる。秋本は一緒に[漫才](../Page/漫才.md "wikilink")のコンビを組んでくれという意味で言ったのだが、瀬田には[同性愛](https://ja.wikipedia.org/wiki/同性愛 "wikilink")の申し出の様に聞こえ戸惑いを隠せずにいた。その後瀬田は無理矢理コンビを組まされ、文化祭で**「漫才ロミオとジュリエット、ほんまは、あんたがアホやねん」**（**通称「ロミジュリ」**）を行うことにしたのだが…。中学生を舞台として中学生の青春と葛藤と恋を描く。
 
 ### The MANZAI2
 
@@ -208,4 +208,4 @@ The MANZAI 3
   - ACT.6 キャストコール
   - ACT.7 イメージ曲：WATER//COLOR 「LOVE」ドラマ・ショートバージョン
 
-[Category:あさのあつこ](https://ja.wikipedia.org/wiki/Category:あさのあつこ "wikilink") [Category:日本の小説のシリーズ](https://ja.wikipedia.org/wiki/Category:日本の小説のシリーズ "wikilink") [Category:1999年の小説](https://ja.wikipedia.org/wiki/Category:1999年の小説 "wikilink") [Category:漫画作品_さ](https://ja.wikipedia.org/wiki/Category:漫画作品_さ "wikilink") [Category:月刊コミックラッシュ](https://ja.wikipedia.org/wiki/Category:月刊コミックラッシュ "wikilink")
+[Category:あさのあつこ](https://ja.wikipedia.org/wiki/Category:あさのあつこ "wikilink") [Category:日本の児童文学](https://ja.wikipedia.org/wiki/Category:日本の児童文学 "wikilink") [Category:日本の小説のシリーズ](https://ja.wikipedia.org/wiki/Category:日本の小説のシリーズ "wikilink") [Category:1999年の小説](https://ja.wikipedia.org/wiki/Category:1999年の小説 "wikilink") [Category:漫画作品_さ](https://ja.wikipedia.org/wiki/Category:漫画作品_さ "wikilink") [Category:月刊コミックラッシュ](https://ja.wikipedia.org/wiki/Category:月刊コミックラッシュ "wikilink") [Category:演芸を題材とした作品](https://ja.wikipedia.org/wiki/Category:演芸を題材とした作品 "wikilink") [Category:中学校を舞台とした小説](https://ja.wikipedia.org/wiki/Category:中学校を舞台とした小説 "wikilink") [Category:中学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:中学校を舞台とした漫画作品 "wikilink")

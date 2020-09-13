@@ -11,7 +11,7 @@
   - [Boys & Girls (サディスティック・ミカ・バンドの曲)](https://ja.wikipedia.org/wiki/Boys_&_Girls_\(サディスティック・ミカ・バンドの曲\) "wikilink") - [サディスティック・ミカ・バンド](../Page/サディスティック・ミカ・バンド.md "wikilink")のシングル曲。
   - [Boys & Girls (浜崎あゆみの曲)](../Page/Boys_&_Girls_\(浜崎あゆみの曲\).md "wikilink") - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")のシングル曲。
   - Boys & Girls - [堀江美都子](../Page/堀江美都子.md "wikilink")のシングル曲。
-  - BoysGirls - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の曲。シングル「[Someday/Boys{{unicode](https://ja.wikipedia.org/wiki/Someday/Boys_Girls "wikilink")」に収録。
+  - BoysGirls - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の曲。シングル「[Someday/Boys♥Girls](https://ja.wikipedia.org/wiki/Someday/Boys♥Girls "wikilink")」に収録。
   - [BOYS & GIRLS (LM.Cの曲)](https://ja.wikipedia.org/wiki/BOYS_&_GIRLS_\(LM.Cの曲\) "wikilink") - [LM.C](../Page/LM.C.md "wikilink")のシングル曲。
   - ボーイズ&ガールズ - [宇浦冴香](https://ja.wikipedia.org/wiki/宇浦冴香 "wikilink")の曲。シングル「[マイミライ](../Page/マイミライ.md "wikilink")」に収録。
   - [Boys & Girls (WEAVERの曲)](https://ja.wikipedia.org/wiki/Boys_&_Girls_\(WEAVERの曲\) "wikilink") - [WEAVER](https://ja.wikipedia.org/wiki/WEAVER "wikilink")のシングル曲。

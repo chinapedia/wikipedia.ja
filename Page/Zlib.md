@@ -1,7 +1,7 @@
 > この記事は[Zlib](https://ja.wikipedia.org/wiki/Zlib)から翻訳されています。
 
 
-**zlib**は、データの[圧縮および伸張を行うためのフリーのライブラリである](../Page/データ圧縮.md "wikilink")。[可逆圧縮](../Page/可逆圧縮.md "wikilink")アルゴリズムの[Deflate](../Page/Deflate.md "wikilink") (RFC 1951)を実装している。ヘッダーやフッターなどのデータ形式はRFC 1950 (ZLIB Compressed Data Format Specification)として仕様化されている。また、これ以外のデータ形式としてRFC 1952 (GZIP File Format Specification)及び、RAW形式(ヘッダーやフッタなし)もサポートする\[1\]。
+**zlib**は、データの[圧縮および伸張を行うための](../Page/データ圧縮.md "wikilink")[フリーの](../Page/フリーソフトウェア.md "wikilink")[ライブラリ](../Page/ライブラリ.md "wikilink")である。[可逆圧縮](../Page/可逆圧縮.md "wikilink")アルゴリズムの[Deflate](../Page/Deflate.md "wikilink") (RFC 1951)を実装している。ヘッダーやフッターなどのデータ形式はRFC 1950 (ZLIB Compressed Data Format Specification)として仕様化されている。また、これ以外のデータ形式としてRFC 1952 (GZIP File Format Specification)及び、RAW形式(ヘッダーやフッタなし)もサポートする\[1\]。
 
 ## 概要
 

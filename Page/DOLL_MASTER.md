@@ -102,7 +102,7 @@
 
   - [ぱら・さいと ～井原裕士の小部屋～](http://www008.upp.so-net.ne.jp/ihara/)（作者公式サイト）
 
-[Category:漫画作品_と](https://ja.wikipedia.org/wiki/Category:漫画作品_と "wikilink") [Category:月刊コミック電撃大王の漫画作品](https://ja.wikipedia.org/wiki/Category:月刊コミック電撃大王の漫画作品 "wikilink") [Category:フィギュアを題材とした作品](https://ja.wikipedia.org/wiki/Category:フィギュアを題材とした作品 "wikilink") [Category:人形を題材とした作品](https://ja.wikipedia.org/wiki/Category:人形を題材とした作品 "wikilink")
+[Category:漫画作品_と](https://ja.wikipedia.org/wiki/Category:漫画作品_と "wikilink") [Category:月刊コミック電撃大王の漫画作品](https://ja.wikipedia.org/wiki/Category:月刊コミック電撃大王の漫画作品 "wikilink") [Category:1999年の漫画](https://ja.wikipedia.org/wiki/Category:1999年の漫画 "wikilink") [Category:フィギュアを題材とした作品](https://ja.wikipedia.org/wiki/Category:フィギュアを題材とした作品 "wikilink")
 
 1.  「巧の人形」の件の後、久具津は雛子に秘伝を教えようかと尋ねたがトラウマになり拒否した。
 2.  後に御文から「久具津家の話」と、久具津の技が「呪術」の一種だと聞かされ、諦めかけている

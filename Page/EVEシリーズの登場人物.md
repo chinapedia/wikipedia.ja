@@ -15,7 +15,7 @@
 
 **EVEシリーズの登場人物**（イヴシリーズのとうじょうじんぶつ）は、[EVEシリーズ](../Page/EVEシリーズ.md "wikilink")に登場する[架空](../Page/架空.md "wikilink")の人物。
 
-以下、第1作目『[EVE burst error](../Page/EVE_burst_error.md "wikilink")』は原作/SS版/Win95版も含めて**be**、『EVE burst error PLUS』と『EVE』は**PLUS**と**PLUS18禁**および**PLUSシリーズ**、『burst error EVE the 1st.』は**1st**、『EVE burst error R』は**R**、第2作目『[EVE The Lost One](https://ja.wikipedia.org/wiki/EVE_The_Lost_One "wikilink")』はリメイクの『The Lost One Last Chapter of Eve』も含めて**TLO**、第3&5作目『ADAM THE DOUBLE FACTOR』と『[EVE The Fatal Attraction](../Page/EVE_The_Fatal_Attraction.md "wikilink")』は**ADAM**と**TFA**、第4作目『[EVE ZERO](../Page/EVE_ZERO.md "wikilink")』は**ZERO**、第6作目『[EVE new generation](../Page/EVE_new_generation.md "wikilink")』と『EVE 〜new generation X〜』は**ng**と**ngX**、第7作目『[EVE rebirth terror](https://ja.wikipedia.org/wiki/EVE_rebirth_terror "wikilink")』は**rt**のように略記する。
+以下、第1作目『[EVE burst error](../Page/EVE_burst_error.md "wikilink")』は原作/SS版/Win95版も含めて**be**、『EVE burst error PLUS』と『EVE』は**PLUS**と**PLUS18禁**および**PLUSシリーズ**、『burst error EVE the 1st.』は**1st**、『EVE burst error R』は**R**、第2作目『[EVE The Lost One](https://ja.wikipedia.org/wiki/EVE_The_Lost_One "wikilink")』はリメイクの『The Lost One Last Chapter of Eve』も含めて**TLO**、第3&5作目『ADAM THE DOUBLE FACTOR』と『[EVE The Fatal Attraction](../Page/EVE_The_Fatal_Attraction.md "wikilink")』は**ADAM**と**TFA**、第4作目『[EVE ZERO](../Page/EVE_ZERO.md "wikilink")』は**ZERO**、第6作目『[EVE new generation](../Page/EVE_new_generation.md "wikilink")』と『EVE 〜new generation X〜』は**ng**と**ngX**、第7作目『[EVE rebirth terror](../Page/EVE_rebirth_terror.md "wikilink")』は**rt**のように略記する。
 
 さらに総称する場合は、1作目では『PLUSシリーズ』『1st』『R』も含めての**beシリーズ**、3&5作目では**TFAシリーズ**、6作目では『EVE雀』も含めての**ngシリーズ**などと称する。
 

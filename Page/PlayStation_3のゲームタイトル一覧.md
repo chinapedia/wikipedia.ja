@@ -836,7 +836,7 @@
 </tr>
 <tr class="odd">
 <td><p>09月22日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シンギュラリティ" title="wikilink">シンギュラリティ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/シンギュラリティ_(ゲーム)" title="wikilink">シンギュラリティ</a></p></td>
 <td><p>スクウェア・エニックス</p></td>
 <td><p>●</p></td>
 <td></td>

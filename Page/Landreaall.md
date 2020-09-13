@@ -1,7 +1,7 @@
 > この記事は[Landreaall](https://ja.wikipedia.org/wiki/Landreaall)から翻訳されています。
 
 
-『**Landreaall**』（ランドリオール）は、[おがきちか](../Page/おがきちか.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[コミックZERO-SUM](../Page/コミックZERO-SUM.md "wikilink")』（[一迅社](../Page/一迅社.md "wikilink")）にて連載中。単行本は2019年12月現在で、34巻まで刊行されている。架空の世界を舞台とした[ファンタジー漫画](../Page/ファンタジー漫画.md "wikilink")である。
+『**Landreaall**』（ランドリオール）は、[おがきちか](../Page/おがきちか.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[コミックZERO-SUM](../Page/コミックZERO-SUM.md "wikilink")』（[一迅社](../Page/一迅社.md "wikilink")）にて連載中。単行本は2020年6月現在で、35巻まで刊行されている。架空の世界を舞台とした[ファンタジー漫画](../Page/ファンタジー漫画.md "wikilink")である。
 
 ## あらすじ
 

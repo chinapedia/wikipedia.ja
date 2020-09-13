@@ -1,17 +1,17 @@
 > この記事は[FRIENDS \(B\'zのアルバム\)](https://ja.wikipedia.org/wiki/FRIENDS_\(B\'zのアルバム\))から翻訳されています。
 
 
-『**FRIENDS**』(フレンズ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")[B'z](../Page/B'z.md "wikilink")が[1992年](../Page/1992年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")に[BMGルームスからリリースした](../Page/VERMILLION_RECORDS.md "wikilink")4作目のミニ・アルバムである。また[1996年](../Page/1996年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")には、このアルバムの続編である『[FRIENDS II](../Page/FRIENDS_II.md "wikilink")』が発売された。
+『**FRIENDS**』(フレンズ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")[B'z](../Page/B'z.md "wikilink")が1992年12月9日に[BMGルームスからリリースした](../Page/VERMILLION_RECORDS.md "wikilink")4作目のミニ・アルバムである。また1996年11月25日には、このアルバムの続編である『[FRIENDS II](../Page/FRIENDS_II.md "wikilink")』が発売された。
 
 ## 概要
 
-ジャケットには、[イングランド](../Page/イングランド.md "wikilink")の写真家Michael Kennaの作品「Deckchairs, Bournemouth, Dorset, England」が使用されている\[1\]。初回盤のみCDケースを入れる紙製のスリーブケースが付属している。
+ジャケットには、[イングランド](../Page/イングランド.md "wikilink")の写真家Michael Kennaの作品『Deckchairs, Bournemouth, Dorset, England』が使用されている\[1\]。初回盤のみCDケースを入れる紙製のスリーブケースが付属している。
 
 9thシングル『[ALONE](../Page/ALONE_\(B'zの曲\).md "wikilink")』からの「B'z」ロゴマークが使用された最後のアルバム\[2\]。
 
 本作より、クレジットにて[ベースが表記されるようになった](../Page/ベース_\(弦楽器\).md "wikilink")。
 
-本作は全楽曲で1つのストーリー性を持たせた[コンセプト・アルバム](../Page/コンセプト・アルバム.md "wikilink")となっており\[3\]、内容は『回想』『再会』『葛藤』『解決』のシーンからなるラブストーリーで、アルバムタイトル『**FRIENDS**』はストーリーのテーマにあたる。本作について[松本孝弘](../Page/松本孝弘.md "wikilink")は、「映画のサウンドトラックのようなアルバムを作りたかった」と述べている。
+本作は全楽曲で1つのストーリー性を持たせた[コンセプト・アルバム](../Page/コンセプト・アルバム.md "wikilink")となっており\[3\]、内容は「回想」「再会」「葛藤」「解決」のシーンからなるラブストーリーで、アルバムタイトル『**FRIENDS**』はストーリーのテーマにあたる。本作について[松本孝弘](../Page/松本孝弘.md "wikilink")は、「映画のサウンドトラックのようなアルバムを作りたかった」と述べている。
 
 作詞について[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")は「全ての楽曲の歌詞は飛行機での移動中に4曲同時進行で書いた」と語っている。
 
@@ -55,16 +55,16 @@
 
 ## 参加ミュージシャン
 
-  - [松本孝弘](../Page/松本孝弘.md "wikilink"):[ギター](../Page/ギター.md "wikilink")、全曲[作曲](../Page/作曲.md "wikilink")、[編曲](../Page/編曲.md "wikilink")
-  - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink"):[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](../Page/作詞.md "wikilink")
-  - [明石昌夫](../Page/明石昌夫.md "wikilink"):[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[マニピュレーター](../Page/マニピュレーター.md "wikilink")、[編曲](../Page/編曲.md "wikilink") (\#4、6、8除く)
+  - [松本孝弘](../Page/松本孝弘.md "wikilink"):[ギター](../Page/ギター.md "wikilink")、全曲[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")
+  - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink"):[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](../Page/作詞.md "wikilink") (\#2、3、5、7)
+  - [明石昌夫](../Page/明石昌夫.md "wikilink"):[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[マニピュレーター](../Page/マニピュレーター.md "wikilink")、編曲 (\#4、6、8除く)
   - [田中一光](https://ja.wikipedia.org/wiki/田中一光_\(ドラマー\) "wikilink"):[ドラム](../Page/ドラムセット.md "wikilink")
   - [小野塚晃](../Page/小野塚晃.md "wikilink") ([DIMENSION](../Page/DIMENSION.md "wikilink")):[キーボード](../Page/キーボード_\(楽器\).md "wikilink") (\#3、4、7、8)
   - 澤野博敬:[トランペット](../Page/トランペット.md "wikilink") (\#7)
   - [野村裕幸](../Page/野村裕幸.md "wikilink"):[トロンボーン](../Page/トロンボーン.md "wikilink") (\#7)
   - 日色Strings:[ストリングス](../Page/弦楽器.md "wikilink") (\#1)
   - [大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink"):[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") (\#3、7)
-  - 古川真一:[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") (\#2、5)
+  - 古川真一:コーラス (\#2、5)
 
 ## 脚注
 

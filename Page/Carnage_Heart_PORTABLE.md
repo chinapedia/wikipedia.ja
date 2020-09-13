@@ -1,7 +1,7 @@
 > この記事は[Carnage Heart PORTABLE](https://ja.wikipedia.org/wiki/Carnage_Heart_PORTABLE)から翻訳されています。
 
 
-**Carnage Heart PORTABLE**（カルネージ ハート ポータブル）は[カルネージハート](../Page/カルネージハート.md "wikilink")の続編で、[2006年](../Page/2006年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")に[元気](https://ja.wikipedia.org/wiki/元気 "wikilink")から発売された[PlayStation Portable専用の思考設計型オリジナルロボット対戦シミュレーションゲームである](../Page/PlayStation_Portable.md "wikilink")。CHPまたはカルポと略される。
+**Carnage Heart PORTABLE**（カルネージ ハート ポータブル）は[カルネージハート](../Page/カルネージハート.md "wikilink")の続編で、[2006年](../Page/2006年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")に[元気](https://ja.wikipedia.org/wiki/元気 "wikilink")から発売された[PlayStation Portable専用の思考設計型ロボット対戦シミュレーションゲームである](../Page/PlayStation_Portable.md "wikilink")。CHPまたはカルポと略される。
 
 2010年10月28日には、CHP続編でかつシリーズ最新作となる『Carnage Heart EXA（カルネージ ハート エクサ）』が発売された。
 

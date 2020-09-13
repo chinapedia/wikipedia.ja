@@ -24,16 +24,19 @@
 
 ## サービスエリア
 
+すべて京都府。
+
 ### KCN京都/本社・キネット局（旧キネット）
 
-  - [京都府](../Page/京都府.md "wikilink")[相楽郡](../Page/相楽郡.md "wikilink")[精華町](../Page/精華町.md "wikilink")
-  - 京都府[木津川市](../Page/木津川市.md "wikilink")（旧・[木津町](../Page/木津町.md "wikilink")のみ）
-  - 京都府[京田辺市](https://ja.wikipedia.org/wiki/京田辺市 "wikilink")（[京阪東ローズタウン](../Page/京阪東ローズタウン.md "wikilink")は[ケイ・オプティコム](https://ja.wikipedia.org/wiki/ケイ・オプティコム "wikilink")\<[ケイ・キャット](../Page/ケイ・キャット.md "wikilink")\>が行っているため除く）
+  - [相楽郡](../Page/相楽郡.md "wikilink")[精華町](../Page/精華町.md "wikilink")
+  - [木津川市](../Page/木津川市.md "wikilink")（旧・[山城町](https://ja.wikipedia.org/wiki/山城町 "wikilink")を除く）
+  - [京田辺市](https://ja.wikipedia.org/wiki/京田辺市 "wikilink")（[京阪東ローズタウン](../Page/京阪東ローズタウン.md "wikilink") は[ケイ・オプティコム](../Page/オプテージ.md "wikilink")\<[ケイ・キャット](../Page/ケイ・キャット.md "wikilink")\>が行っているため除く）
 
 ### KCN京都/宇治・城陽局（旧近鉄ケーブルネットワーク京都支店）
 
-  - 京都府[宇治市](../Page/宇治市.md "wikilink")
-  - 京都府[城陽市](../Page/城陽市.md "wikilink")
+  - [宇治市](../Page/宇治市.md "wikilink")
+  - [城陽市](../Page/城陽市.md "wikilink")
+  - [久世郡](../Page/久世郡.md "wikilink")[久御山町](../Page/久御山町.md "wikilink")の一部
 
 ## 主な放送チャンネル
 

@@ -78,7 +78,7 @@
   - **[関羽](https://ja.wikipedia.org/wiki/関羽 "wikilink")雲長**：[堀秀行](../Page/堀秀行.md "wikilink")
   - **[張飛](../Page/張飛.md "wikilink")翼徳**：[玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink")
   - **[趙雲](../Page/趙雲.md "wikilink")子龍**：[草尾毅](../Page/草尾毅.md "wikilink")
-  - [龐統士元](../Page/ホウ統.md "wikilink")：[古川登志夫](../Page/古川登志夫.md "wikilink")
+  - [龐統](https://ja.wikipedia.org/wiki/龐統 "wikilink")士元：[古川登志夫](../Page/古川登志夫.md "wikilink")
   - [馬超](../Page/馬超.md "wikilink")孟起：[神谷明](../Page/神谷明.md "wikilink")
   - [黄忠](../Page/黄忠.md "wikilink")漢升：[青野武](../Page/青野武.md "wikilink")
   - [魏延](../Page/魏延.md "wikilink")文長：[田中亮一](../Page/田中亮一.md "wikilink")
@@ -86,6 +86,7 @@
   - [楊儀](../Page/楊儀.md "wikilink")威公：[大塚芳忠](../Page/大塚芳忠.md "wikilink")
   - [関平](../Page/関平.md "wikilink")：[林延年](../Page/神奈延年.md "wikilink")
   - [馬岱](../Page/馬岱.md "wikilink")：[辻谷耕史](../Page/辻谷耕史.md "wikilink")
+  - [馬良](../Page/馬良.md "wikilink")季常：[吉水孝宏](../Page/吉水孝宏.md "wikilink")
   - [馬謖](../Page/馬謖.md "wikilink")幼常：[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")
   - [孟達](../Page/孟達.md "wikilink")子慶：[里内信夫](../Page/里内信夫.md "wikilink")
   - [劉禅](../Page/劉禅.md "wikilink")公嗣：[太田真一郎](../Page/太田真一郎.md "wikilink")
@@ -96,16 +97,17 @@
   - [甘夫人](https://ja.wikipedia.org/wiki/甘夫人 "wikilink")：[住友優子](../Page/住友優子.md "wikilink") ※劉備の第二夫人、劉禅の生母
   - [仁姫（孫夫人）](../Page/孫夫人.md "wikilink")：[柿沼紫乃](../Page/柿沼紫乃.md "wikilink")
   - [糜芳](../Page/糜芳.md "wikilink")：[佐藤浩之](https://ja.wikipedia.org/wiki/佐藤浩之 "wikilink")
+  - [劉封](../Page/劉封.md "wikilink")：[石川英郎](../Page/石川英郎.md "wikilink")
 
 ### 魏
 
   - **[曹操](../Page/曹操.md "wikilink")孟徳**：[銀河万丈](../Page/銀河万丈.md "wikilink")
-  - [荀彧文若](../Page/荀イク.md "wikilink")：[難波圭一](../Page/難波圭一.md "wikilink")
+  - [荀彧](https://ja.wikipedia.org/wiki/荀彧 "wikilink")文若：[難波圭一](../Page/難波圭一.md "wikilink")
   - [司馬懿](../Page/司馬懿.md "wikilink")仲達：[納谷六朗](../Page/納谷六朗.md "wikilink")
   - [夏侯惇](../Page/夏侯惇.md "wikilink")元譲：[佐藤正治](../Page/佐藤正治_\(声優\).md "wikilink")
   - [張遼](../Page/張遼.md "wikilink")文遠：[田中秀幸](../Page/田中秀幸_\(声優\).md "wikilink")
-  - [程昱仲徳](../Page/程イク.md "wikilink")：[増田有宏](https://ja.wikipedia.org/wiki/増田有宏 "wikilink")
-  - [賈詡文和](../Page/賈ク.md "wikilink")：[戸谷公次](../Page/戸谷公次.md "wikilink")
+  - [程昱](https://ja.wikipedia.org/wiki/程昱 "wikilink")仲徳：[増田有宏](https://ja.wikipedia.org/wiki/増田有宏 "wikilink")
+  - [賈詡](https://ja.wikipedia.org/wiki/賈詡 "wikilink")文和：[戸谷公次](../Page/戸谷公次.md "wikilink")
   - [郭嘉](../Page/郭嘉.md "wikilink")奉孝：[二又一成](../Page/二又一成.md "wikilink")
   - [曹丕](../Page/曹丕.md "wikilink")子桓：[檜山修之](../Page/檜山修之.md "wikilink")
   - [曹仁](../Page/曹仁.md "wikilink")子孝：[真地勇志](../Page/真地勇志.md "wikilink")
@@ -125,13 +127,15 @@
   - [魯粛](../Page/魯粛.md "wikilink")子敬：[遠藤武](../Page/遠藤武_\(声優\).md "wikilink")
   - [諸葛瑾](../Page/諸葛瑾.md "wikilink")子瑜：[平野正人](../Page/平野正人.md "wikilink")
   - [張昭](../Page/張昭.md "wikilink")子布：[池水通洋](../Page/池水通洋.md "wikilink")
-  - [闞沢徳潤](../Page/カン沢.md "wikilink")：[大倉正章](../Page/大倉正章.md "wikilink")
+  - [闞沢](https://ja.wikipedia.org/wiki/闞沢 "wikilink")徳潤：[大倉正章](../Page/大倉正章.md "wikilink")
   - [太史慈](../Page/太史慈.md "wikilink")子義：[梁田清之](../Page/梁田清之.md "wikilink")
   - [黄蓋](../Page/黄蓋.md "wikilink")公覆：[菅谷勇](../Page/菅谷勇.md "wikilink")
   - [丁奉](../Page/丁奉.md "wikilink")承淵：[田中一成](../Page/田中一成.md "wikilink")
   - [徐盛](../Page/徐盛.md "wikilink")文嚮：[吉水孝宏](../Page/吉水孝宏.md "wikilink")
   - [陸遜](../Page/陸遜.md "wikilink")伯言：[島田敏](../Page/島田敏.md "wikilink")
+  - [呂蒙](../Page/呂蒙.md "wikilink")子明：[増谷康紀](../Page/増谷康紀.md "wikilink")
   - [小喬](../Page/小喬.md "wikilink")：[島本須美](../Page/島本須美.md "wikilink")
+  - [潘璋](../Page/潘璋.md "wikilink")文珪：[川津泰彦](https://ja.wikipedia.org/wiki/川津泰彦 "wikilink")
 
 ### その他
 
@@ -159,10 +163,12 @@
   - [孟獲](../Page/孟獲.md "wikilink")：[関俊彦](../Page/関俊彦.md "wikilink")
   - [祝融](https://ja.wikipedia.org/wiki/祝融夫人 "wikilink")：[高山みなみ](../Page/高山みなみ.md "wikilink")
   - [孟優](https://ja.wikipedia.org/wiki/孟優 "wikilink")：[山田真一](../Page/山田真一_\(声優\).md "wikilink")
+  - [孟節](https://ja.wikipedia.org/wiki/孟節 "wikilink")：増谷康紀
   - [諸葛均](../Page/諸葛均.md "wikilink")：[緑川光](../Page/緑川光.md "wikilink")
   - 諸葛詠：[緒方恵美](../Page/緒方恵美.md "wikilink") ※諸葛亮の姉という設定の本作品オリジナルキャラ。
   - 呂伯奢：[北川米彦](../Page/北川米彦.md "wikilink")
   - 鄒夫人：[住友優子](../Page/住友優子.md "wikilink")
+  - 黄承彦：増谷康紀
 
 <!-- end list -->
 

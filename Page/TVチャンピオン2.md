@@ -181,7 +181,7 @@
   - [秋田放送](../Page/秋田放送.md "wikilink")
   - [山形放送](../Page/山形放送.md "wikilink")
   - [福島テレビ](../Page/福島テレビ.md "wikilink")
-  - [新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")
+  - [新潟総合テレビ](../Page/NST新潟総合テレビ.md "wikilink")
   - [北日本放送](../Page/北日本放送.md "wikilink")（2007年4月よりネット開始）
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（放送内容は、2か月遅れの放送）
   - [長野放送](../Page/長野放送.md "wikilink")

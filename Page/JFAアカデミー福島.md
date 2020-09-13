@@ -269,6 +269,16 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 </tr>
 <tr class="even">
 <td><center>
+<p>2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/平澤俊輔" title="wikilink">平澤俊輔</a></p></td>
+<td><p>2007</p></td>
+<td><p>2012</p></td>
+<td><p><a href="../Page/早稲田大学ア式蹴球部.md" title="wikilink">早稲田大学</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/いわきFC" title="wikilink">いわきFC</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><center>
 <p>3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/金子翔太" title="wikilink">金子翔太</a></p></td>
 <td><p>2008</p></td>
@@ -277,7 +287,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <td><p><a href="../Page/清水エスパルス.md" title="wikilink">清水エスパルス</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><center>
 <p>3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/安東輝" title="wikilink">安東輝</a></p></td>
@@ -287,7 +297,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <td><p><a href="../Page/水戸ホーリーホック.md" title="wikilink">水戸ホーリーホック</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><center>
 <p>3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/平岡将豪" title="wikilink">平岡将豪</a></p></td>
@@ -297,37 +307,37 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <td><p><a href="https://ja.wikipedia.org/wiki/いわきFC" title="wikilink">いわきFC</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><center>
 <p>3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小池龍太" title="wikilink">小池龍太</a></p></td>
 <td><p>2008</p></td>
 <td><p>2013</p></td>
 <td><p><a href="../Page/レノファ山口FC.md" title="wikilink">レノファ山口FC</a></p></td>
-<td><p><a href="../Page/スポルティング・ロケレン.md" title="wikilink">スポルティング・ロケレン</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/横浜F・マリノス" title="wikilink">横浜F・マリノス</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><center>
 <p>3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/木下諒" title="wikilink">木下諒</a></p></td>
 <td><p>2008</p></td>
 <td><p>2013</p></td>
-<td><p><a href="../Page/早稲田大学ア式蹴球部.md" title="wikilink">早稲田大学</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京武蔵野シティFC" title="wikilink">東京武蔵野シティFC</a></p></td>
+<td><p>早稲田大学</p></td>
+<td><p>現役引退</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><center>
 <p>4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/似鳥康太" title="wikilink">似鳥康太</a></p></td>
 <td><p>2009</p></td>
 <td><p>2014</p></td>
 <td><p><a href="../Page/ファジアーノ岡山FC.md" title="wikilink">ファジアーノ岡山</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/いわきFC" title="wikilink">いわきFC</a></p></td>
+<td><p>いわきFC</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><center>
 <p>4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/金城ジャスティン俊樹" title="wikilink">金城ジャスティン俊樹</a></p></td>
@@ -335,6 +345,16 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <td><p>2014</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1860ミュンヘン" title="wikilink">1860ミュンヘン</a>U-19</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ザスパクサツ群馬" title="wikilink">ザスパクサツ群馬</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><center>
+<p>5</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/オビ・パウエル・オビンナ" title="wikilink">オビ・パウエル・オビンナ</a></p></td>
+<td><p>2010</p></td>
+<td><p>2015</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/流通経済大学サッカー部" title="wikilink">流通経済大学</a></p></td>
+<td><p><a href="../Page/栃木SC.md" title="wikilink">栃木SC</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

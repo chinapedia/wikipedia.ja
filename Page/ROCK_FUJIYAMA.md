@@ -42,7 +42,7 @@
   - 第8回 [真矢](../Page/真矢_\(ドラマー\).md "wikilink")（ex. [LUNA SEA](../Page/LUNA_SEA.md "wikilink")）
   - 第9回 [佐野史郎](../Page/佐野史郎.md "wikilink")（from [Sanch](https://ja.wikipedia.org/wiki/Sanch "wikilink")）
   - 第10回 [青田典子](../Page/青田典子.md "wikilink")（ex. [C.C.ガールズ](../Page/C.C.ガールズ.md "wikilink")）
-  - 第11回 [MCU](https://ja.wikipedia.org/wiki/MCU "wikilink") （from [マツリルカ](../Page/マツリルカ.md "wikilink")、[KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink")）
+  - 第11回 [MCU](../Page/MCU_\(ラッパー\).md "wikilink") （from [マツリルカ](../Page/マツリルカ.md "wikilink")、[KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink")）
   - 第12回 [東貴博](../Page/東貴博.md "wikilink")（from [東八郎](../Page/東八郎.md "wikilink")、[take2](https://ja.wikipedia.org/wiki/take2 "wikilink")）
   - 第13回 [木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")
   - 第14回 [アンドリューW.K.](../Page/アンドリューW.K..md "wikilink") （from [パーティー](https://ja.wikipedia.org/wiki/パーティー "wikilink")）

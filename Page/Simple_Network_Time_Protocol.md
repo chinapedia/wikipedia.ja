@@ -1,7 +1,7 @@
 > この記事は[Simple Network Time Protocol](https://ja.wikipedia.org/wiki/Simple_Network_Time_Protocol)から翻訳されています。
 
 
-**Simple Network Time Protocol**（シンプルネットワークタイムプロトコル、**SNTP**と略記）とは、[NTP](../Page/Network_Time_Protocol.md "wikilink")[パケット](../Page/パケット.md "wikilink")を利用した、簡単な[時計](../Page/時計.md "wikilink")補正[プロトコル](../Page/プロトコル.md "wikilink")である。
+**Simple Network Time Protocol**（シンプルネットワークタイムプロトコル、**SNTP**と略記）とは、[NTP](../Page/Network_Time_Protocol.md "wikilink")[パケット](../Page/パケット.md "wikilink")を利用した、簡単な[時刻同期](../Page/クロック同期.md "wikilink")[プロトコルである](../Page/通信プロトコル.md "wikilink")。
 
 ## 処理概要
 

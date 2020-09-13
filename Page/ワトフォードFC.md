@@ -1,7 +1,7 @@
 > この記事は[ワトフォードFC](https://ja.wikipedia.org/wiki/ワトフォードFC)から翻訳されています。
 
 
-**ワトフォード・フットボール・クラブ**（）は、[イングランド](../Page/イングランド.md "wikilink")・[ワトフォード](../Page/ワトフォード.md "wikilink")をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。
+**ワトフォード・フットボール・クラブ**（）は、[イングランド](../Page/イングランド.md "wikilink")・[ワトフォード](../Page/ワトフォード.md "wikilink")をホームタウンとする、イングランドプロサッカーリーグ（[EFLチャンピオンシップ](../Page/EFLチャンピオンシップ.md "wikilink")）に加盟するプロサッカークラブ。
 
 かつては歌手の[エルトン・ジョン](../Page/エルトン・ジョン.md "wikilink")がオーナーを務めていたことでも知られる（現在は名誉会長）。ホームスタジアムは収容人数20,400人の。
 
@@ -14,6 +14,8 @@
 2012年6月、イタリア人実業家の[ジャンパオロ・ポッツォ](https://ja.wikipedia.org/wiki/ジャンパオロ・ポッツォ "wikilink")によって買収された。ポッツォは新監督に[ジャンフランコ・ゾラ](../Page/ジャンフランコ・ゾラ.md "wikilink")を招聘し、ポッツォがオーナーを務める[ウディネーゼや](../Page/ウディネーゼ・カルチョ.md "wikilink")[グラナダからレンタル移籍で選手補強を行っている](https://ja.wikipedia.org/wiki/グラナダCF "wikilink")。
 
 2017-18シーズン、現役時代は[ポルトガル](../Page/ポルトガル.md "wikilink")で活躍した[マルコ・シウバ](https://ja.wikipedia.org/wiki/マルコ・シウバ "wikilink")を監督に置き、移籍市場では[バルセロナから](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")[ジェラール・デウロフェウ](https://ja.wikipedia.org/wiki/ジェラール・デウロフェウ "wikilink")を、[バーンリーFC](../Page/バーンリーFC.md "wikilink")から[アンドレ・グレイ](https://ja.wikipedia.org/wiki/アンドレ・グレイ "wikilink")、他にも[リシャルリソンや](https://ja.wikipedia.org/wiki/リシャルリソン・デ・アンドラーデ "wikilink")[キコ・フェメニアを獲得した](https://ja.wikipedia.org/wiki/フランシスコ・フェメニア "wikilink")。
+
+2019-20シーズンは開幕4試合で勝ち点1しか獲得できず、2019年9月7日、[ハビ・グラシア](https://ja.wikipedia.org/wiki/ハビ・グラシア "wikilink")監督を解任し\[1\]、かつてチームを率いた[キケ・サンチェス・フローレス](../Page/キケ・サンチェス・フローレス.md "wikilink")が復帰したが、僅か1勝しかできず、12月6日にシーズン3人目の監督として[ナイジェル・ピアソン](https://ja.wikipedia.org/wiki/ナイジェル・ピアソン "wikilink")が就任した\[2\]。2020年2月29日にホームでのリヴァプール戦に3-0で勝利し、リヴァプールのリーグ戦連勝記録を18で、リーグ戦無敗記録を44でストップさせた\[3\]。しかし、最後の2試合に連敗し、同じく降格を争っていたアストン・ヴィラに勝ち点1及ばず、19位でチャンピオンシップ（2部相当）への降格が決まった\[4\]。
 
 ## タイトル
 
@@ -67,7 +69,8 @@
 | 2016-17 | 38                                                                        | 11                                   | 7                                      | 20                                                     | 40    |
 | 2017-18 | 38                                                                        | 11                                   | 8                                      | 19                                                     | 44    |
 | 2018-19 | 38                                                                        | 14                                   | 8                                      | 16                                                     | 52    |
-| 2019-20 | 38                                                                        |                                      |                                        |                                                        |       |
+| 2019-20 | 38                                                                        | 8                                    | 10                                     | 20                                                     | 36    |
+| 2020-21 | チャンピオンシップ                                                                 | 46                                   |                                        |                                                        |       |
 
 ## 現所属メンバー
 
@@ -79,15 +82,15 @@
 
 </div>
 
-  - [2020年](../Page/2020年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[8月15日](../Page/8月15日.md "wikilink")現在
 
-★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Fiji.svg "wikilink"))★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Sierra_Leone.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Mali.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guinea-Bissau.svg "wikilink"))   ★ ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Uruguay.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guadeloupe_\(local\)_variant.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ★
+★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Fiji.svg "wikilink"))★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Sierra_Leone.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Mali.svg "wikilink")) ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guinea-Bissau.svg "wikilink"))    ★ ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Uruguay.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guadeloupe_\(local\)_variant.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ★     ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))
 
   - [監督](../Page/監督.md "wikilink")
 
 <!-- end list -->
 
-  - [ナイジェル・ピアソン](https://ja.wikipedia.org/wiki/ナイジェル・ピアソン "wikilink")
+  - [ヘイデン・マリンズ](https://ja.wikipedia.org/wiki/ヘイデン・マリンズ "wikilink")　(暫定)
 
 ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 
@@ -116,3 +119,8 @@
   - [Watford break the mould in youth development](http://www.bbc.co.uk/blogs/legacy/paulfletcher/2010/12/watford_offer_a_glimpse_of_the.html)
 
 [Category:ハートフォードシャーのサッカークラブ](https://ja.wikipedia.org/wiki/Category:ハートフォードシャーのサッカークラブ "wikilink") [Category:ワトフォード](https://ja.wikipedia.org/wiki/Category:ワトフォード "wikilink") [Category:1881年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1881年設立のスポーツチーム "wikilink")
+
+1.
+2.
+3.
+4.

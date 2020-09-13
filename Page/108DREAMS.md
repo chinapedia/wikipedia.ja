@@ -1,7 +1,7 @@
 > この記事は[108DREAMS](https://ja.wikipedia.org/wiki/108DREAMS)から翻訳されています。
 
 
-『**108DREAMS**』（ワンオーエイトドリームス）\[1\]は、[キャプテンストライダム](https://ja.wikipedia.org/wiki/キャプテンストライダム "wikilink")のメジャー1stアルバム及び通算2枚目のアルバム。[Sony Music Associated Recordsよりリリース](https://ja.wikipedia.org/wiki/Sony_Music_Associated_Records "wikilink")。
+『**108DREAMS**』（ワンオーエイトドリームス）\[1\]は、[キャプテンストライダム](https://ja.wikipedia.org/wiki/キャプテンストライダム "wikilink")のメジャー1stアルバム及び通算2枚目のアルバム。2006年2月15日に[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")より発売された。
 
 ## 解説
 
@@ -63,7 +63,7 @@
 
 ## 108 FILMS
 
-[キャプテンストライダム](https://ja.wikipedia.org/wiki/キャプテンストライダム "wikilink")初の映像作品。[2006年](../Page/2006年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")発売。
+『**108 FILMS**』（ワンオーエイト・フィルムズ）は、[キャプテンストライダム](https://ja.wikipedia.org/wiki/キャプテンストライダム "wikilink")初の映像作品。2006年3月24日発売。
 
 『108DREAMS』に収録されているシングル4曲と「サイボーグ」のミュージック・ビデオを収録。キャプテンストライダムの楽曲のミュージック・ビデオが公式的に発表されているのはこの作品と3rdアルバム『[BAN BAN BAN](../Page/BAN_BAN_BAN_\(アルバム\).md "wikilink")』初回限定盤、シングル「[ブギーナイト・フィーバー](https://ja.wikipedia.org/wiki/ブギーナイト・フィーバー "wikilink")」初回盤のみ。
 
@@ -93,7 +93,7 @@
 ## 108DREAMS+1
 
   - キャプテンストライダム初のバンドスコア集。2006年6月15日発売。
-  - [シンコーミュージック・エンタテイメント](../Page/シンコーミュージック・エンタテイメント.md "wikilink")より発行。定価3360円。B5版。ISBN4401352998
+  - [シンコーミュージック・エンタテイメント](../Page/シンコーミュージック・エンタテイメント.md "wikilink")より発行。
   - 108DREAMSの11曲と「[風船ガム](https://ja.wikipedia.org/wiki/風船ガム_\(曲\) "wikilink")」が収録。
 
 ## ライブ映像作品

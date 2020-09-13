@@ -1,7 +1,9 @@
 > この記事は[HSST](https://ja.wikipedia.org/wiki/HSST)から翻訳されています。
 
 
-**HSST**（、エイチエスエスティ）は日本の[磁気浮上式鉄道](../Page/磁気浮上式鉄道.md "wikilink")（[常電導リニア](https://ja.wikipedia.org/wiki/常電導リニア "wikilink")）技術の一つで、高速地表輸送機関のことである。常電磁石の吸引力で約1センチメートル浮上し[リニアモーター](../Page/リニアモーター.md "wikilink")で動かすことにより、軌道（線路）に接触せずに走行するため、低振動・低騒音および高速走行が可能であることが特徴である\[1\]。当初は[日本航空](../Page/日本航空.md "wikilink")、その後は[名古屋鉄道](https://ja.wikipedia.org/wiki/名古屋鉄道 "wikilink")が中心となり開発が進められた。運転速度および輸送能力に応じてHSST-100、HSST-200、HSST-300の3システムが開発されている。[2005年](../Page/2005年.md "wikilink")3月に[愛知高速交通東部丘陵線](https://ja.wikipedia.org/wiki/愛知高速交通東部丘陵線 "wikilink")（愛称：リニモ）で常設路線として初の営業運転を開始した。
+**HSST**（）とは、日本の[磁気浮上式鉄道](../Page/磁気浮上式鉄道.md "wikilink")（[常電導リニア](https://ja.wikipedia.org/wiki/常電導リニア "wikilink")）技術の一つで、高速地表輸送機関のことである。常電磁石の吸引力で約1センチメートル浮上し[リニアモーター](../Page/リニアモーター.md "wikilink")で動かすことにより、軌道（線路）に接触せずに走行するため、低振動・低騒音および高速走行が可能であることが特徴である\[1\]。当初は[日本航空](../Page/日本航空.md "wikilink")、その後は[名古屋鉄道](https://ja.wikipedia.org/wiki/名古屋鉄道 "wikilink")が中心となり開発が進められた。運転速度および輸送能力に応じてHSST-100、HSST-200、HSST-300の3システムが開発されている。
+
+[2005年](../Page/2005年.md "wikilink")3月に[愛知高速交通東部丘陵線](https://ja.wikipedia.org/wiki/愛知高速交通東部丘陵線 "wikilink")（愛称：リニモ）で常設路線として初の営業運転を開始した。
 
 ## 開発経緯
 

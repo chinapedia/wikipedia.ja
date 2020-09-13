@@ -20,12 +20,25 @@
 
 1.  **永遠**
       -
-        作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")　作曲・編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")
+        作曲・編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
+
+        </div>
     <!-- end list -->
       - コーラスに、MARY、SUZZY、MIKE WASHINGTONが参加。
 2.  **I can't let go**
       -
-        作詞：坂井泉水　作曲：[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")　編曲：[古井弘人](https://ja.wikipedia.org/wiki/古井弘人 "wikilink")
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：坂井泉水
+        作曲：[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")
+        編曲：[古井弘人](https://ja.wikipedia.org/wiki/古井弘人 "wikilink")
+
+        </div>
     <!-- end list -->
       - PVは「永遠」のメイキング映像が使用されている。
       - 編曲はZARDの楽曲では初めて古井弘人が手がけた。

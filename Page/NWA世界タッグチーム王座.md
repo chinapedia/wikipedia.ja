@@ -535,7 +535,7 @@
 <td><p>テキサス州<a href="https://ja.wikipedia.org/wiki/サンアントニオ" title="wikilink">サンアントニオ</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/K.E.S." title="wikilink">K.E.S.</a>（<a href="../Page/ランス・ホイット.md" title="wikilink">ランス・アーチャー</a> &amp; <a href="https://ja.wikipedia.org/wiki/デイビーボーイ・スミス・ジュニア" title="wikilink">デイビーボーイ・スミス・ジュニア</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/K.E.S." title="wikilink">K.E.S.</a>（<a href="../Page/ランス・アーチャー.md" title="wikilink">ランス・アーチャー</a> &amp; <a href="https://ja.wikipedia.org/wiki/デイビーボーイ・スミス・ジュニア" title="wikilink">デイビーボーイ・スミス・ジュニア</a>）</p></td>
 <td><p>1</p></td>
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a>4月20日</p></td>
 <td><p>テキサス州<a href="../Page/ヒューストン.md" title="wikilink">ヒューストン</a></p></td>

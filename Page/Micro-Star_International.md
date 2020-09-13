@@ -187,7 +187,7 @@ MSIが日本で行った記者発表会及びイベントのメディア報道
   - [Global公式](https://www.msi.com/index.php)
   - [日本語公式](https://jp.msi.com/)
 
-[Category:台湾証券取引所上場企業](https://ja.wikipedia.org/wiki/Category:台湾証券取引所上場企業 "wikilink") [Category:新北市の企業](https://ja.wikipedia.org/wiki/Category:新北市の企業 "wikilink") [Category:台湾のコンピュータ企業](https://ja.wikipedia.org/wiki/Category:台湾のコンピュータ企業 "wikilink") [Category:マザーボードメーカー](https://ja.wikipedia.org/wiki/Category:マザーボードメーカー "wikilink") [Category:中和区](https://ja.wikipedia.org/wiki/Category:中和区 "wikilink")
+[Category:台湾の電気機器メーカー](https://ja.wikipedia.org/wiki/Category:台湾の電気機器メーカー "wikilink") [Category:台湾証券取引所上場企業](https://ja.wikipedia.org/wiki/Category:台湾証券取引所上場企業 "wikilink") [Category:新北市の企業](https://ja.wikipedia.org/wiki/Category:新北市の企業 "wikilink") [Category:台湾のコンピュータ企業](https://ja.wikipedia.org/wiki/Category:台湾のコンピュータ企業 "wikilink") [Category:マザーボードメーカー](https://ja.wikipedia.org/wiki/Category:マザーボードメーカー "wikilink") [Category:中和区](https://ja.wikipedia.org/wiki/Category:中和区 "wikilink")
 
 1.  英名:
 2.  英名:

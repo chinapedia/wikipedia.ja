@@ -38,7 +38,7 @@
       - [長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")の意向により収録された。
 9.  **[錆びついたマシンガンで今を撃ち抜こう](../Page/錆びついたマシンガンで今を撃ち抜こう.md "wikilink")**
       - 12thシングル。
-10. **[WORST CRIME〜About a rock star who was a swindler〜](../Page/WORST_CRIME〜About_a_rock_star_who_was_a_swindler〜.md "wikilink")**
+10. **[WORST CRIME〜About a rock star who was a swindler〜](https://ja.wikipedia.org/wiki/WORST_CRIME〜About_a_rock_star_who_was_a_swindler〜/Blind_To_My_Heart "wikilink")**
       - 11thシングル。
 11. **[明日もし君が壊れても](../Page/明日もし君が壊れても.md "wikilink")**
       - 14thシングル。

@@ -26,6 +26,10 @@ __NOTOC__  **eDRAM**(Embedded DRAM)、**混載DRAM**は、メインの[ASIC](../
 
   - パーソナルコンピュータ
 
+<!-- end list -->
+
+  - [Intel 810DC](https://ja.wikipedia.org/wiki/オンボードグラフィック#Display_Cache "wikilink")（チップセット内蔵グラフィックに4MBのeDRAMを搭載）
+
 など。
 
 ## 脚注

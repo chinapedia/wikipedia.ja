@@ -24,8 +24,6 @@
 
 [de:Orchestersuiten (Bach)\#Suite Nr. 3 D-Dur BWV 1068](https://ja.wikipedia.org/wiki/de:Orchestersuiten_\(Bach\)#Suite_Nr._3_D-Dur_BWV_1068 "wikilink")
 
-__目次強制__
-
 [Category:J.S.バッハの楽曲](https://ja.wikipedia.org/wiki/Category:J.S.バッハの楽曲 "wikilink") [Category:ヴァイオリン小品](https://ja.wikipedia.org/wiki/Category:ヴァイオリン小品 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")
 
 1.  小学館『日本大百科全書』項目名において原語読み「ゲー」を採用した三宅に倣う。

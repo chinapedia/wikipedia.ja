@@ -89,6 +89,10 @@
 
   - [7月31日](../Page/7月31日.md "wikilink") - 母里治樹が脱退。
 
+**2019年**
+
+  - [1月31日](../Page/1月31日.md "wikilink") - 末益涼太が脱退
+
 ## 主なスタッフ（クリエイター）
 
   - **[上松範康](../Page/上松範康.md "wikilink")**（あげまつ のりやす） - Elements Garden主宰。アコースティックな曲からデジタルサウンドを前面に出した曲まで幅広い曲調の曲を制作している。アルパ奏者・[上松美香](../Page/上松美香.md "wikilink")の実兄。
@@ -102,16 +106,18 @@
   - **織田あすか**（おだ あすか） - 2016年よりElements Gardenに参加。
   - **笠井雄太**（かさい ゆうた） - 2016年よりElements Gardenに参加。
   - **竹田祐介**（たけだ ゆうすけ） - 2017年よりElements Gardenに参加。
-  - **下田晃太郎**
+  - **下田晃太郎**(しもだ こうたろう) - 2019年加入。
+  - **日高勇輝**(ひだか ゆうき) - 2020年加入。
+  - **近藤世真**(こんどう せいま)
 
 ## かつて所属していたスタッフ（クリエイター）
 
-  - 中井康智（なかい やすとも） - 2005年より所属、2006年7月31日脱退と同時に音楽活動を引退。\[3\]
-  - [中山真斗](https://ja.wikipedia.org/wiki/中山真斗 "wikilink")（なかやま まさと） - 2007年より活動を開始。作詞やギターも担当する。信念は「一期一会」な楽曲作り。[2013年](../Page/2013年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")脱退。\[4\]
-  - [Evan Call](https://ja.wikipedia.org/wiki/エバン・コール "wikilink")（エバン・コール）\[5\] - [バークリー音楽大学](../Page/バークリー音楽大学.md "wikilink")卒業の[アメリカ人](https://ja.wikipedia.org/wiki/アメリカ人 "wikilink")。[スコアを書くことができる](../Page/楽譜.md "wikilink")[オーケストラ](../Page/オーケストラ.md "wikilink")のほか、本格[メタルサウンドまで](../Page/ヘヴィメタル.md "wikilink")、幅広く対応。[2016年](../Page/2016年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")契約期間満了に伴い脱退。\[6\]
-  - 喜多智弘（きた ともひろ） - 当初からアシスタントとして関わっていたが、2011年より本格的に制作に参加。[2016年](../Page/2016年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")契約期間満了に伴い脱退。\[7\]
-  - [母里治樹](https://ja.wikipedia.org/wiki/母里治樹 "wikilink")（もり はるき） - 2009年より参加。上松曰く「ストレートに心に響くメロディを作る、可能性を秘めた新人（※加入当時）。」2018年7月31日脱退。\[8\]
-  - [末益涼太](https://ja.wikipedia.org/wiki/末益涼太 "wikilink")（すえます りょうた）- 2014年よりElements Gardenに参加。1993年12月11日生まれ。\[9\]。デジタルサウンドのほか、ライブ映えを意識したメロディ作りやアレンジを得意とし、ギターやベースも演奏する。2019年1月31日脱退。\[10\]
+  - 中井康智（なかい やすとも） - 2005年より所属、2006年7月31日脱退と同時に音楽活動を引退\[3\] 。
+  - [中山真斗](https://ja.wikipedia.org/wiki/中山真斗 "wikilink")（なかやま まさと） - 2007年より活動を開始。作詞やギターも担当する。信念は「一期一会」な楽曲作り。[2013年](../Page/2013年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")脱退\[4\]。
+  - [Evan Call](https://ja.wikipedia.org/wiki/エバン・コール "wikilink")（エバン・コール）\[5\] - [バークリー音楽大学](../Page/バークリー音楽大学.md "wikilink")卒業の[アメリカ人](https://ja.wikipedia.org/wiki/アメリカ人 "wikilink")。[スコアを書くことができる](../Page/楽譜.md "wikilink")[オーケストラ](../Page/オーケストラ.md "wikilink")のほか、本格[メタルサウンドまで](../Page/ヘヴィメタル.md "wikilink")、幅広く対応。[2016年](../Page/2016年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")契約期間満了に伴い脱退\[6\]。
+  - 喜多智弘（きた ともひろ） - 当初からアシスタントとして関わっていたが、2011年より本格的に制作に参加。[2016年](../Page/2016年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")契約期間満了に伴い脱退\[7\]。
+  - [母里治樹](https://ja.wikipedia.org/wiki/母里治樹 "wikilink")（もり はるき） - 2009年より参加。上松曰く「ストレートに心に響くメロディを作る、可能性を秘めた新人（※加入当時）。」2018年7月31日脱退\[8\]。
+  - [末益涼太](https://ja.wikipedia.org/wiki/末益涼太 "wikilink")（すえます りょうた）- 2014年よりElements Gardenに参加。1993年12月11日生まれ\[9\]。デジタルサウンドのほか、ライブ映えを意識したメロディ作りやアレンジを得意とし、ギターやベースも演奏する。2019年1月31日脱退\[10\]。
 
 ## 主な楽曲提供アーティスト
 
@@ -178,7 +184,7 @@
   - [桜川めぐ](https://ja.wikipedia.org/wiki/桜川めぐ "wikilink")
   - [南條愛乃](../Page/南條愛乃.md "wikilink")
   - [風男塾](https://ja.wikipedia.org/wiki/中野風女シスターズ#風男塾 "wikilink")
-  - [嵐](../Page/嵐_\(グループ\).md "wikilink")(編曲のみ)
+  - [嵐](../Page/嵐_\(グループ\).md "wikilink")(2020年時点では編曲のみ)
 
 ## 主な作品
 
@@ -745,6 +751,24 @@
 <td><p><a href="../Page/宮田俊哉.md" title="wikilink">宮田俊哉</a>・<a href="../Page/玉森裕太.md" title="wikilink">玉森裕太</a>（Kis-My-Ft2）</p></td>
 <td></td>
 <td><p>作曲（編曲は菊田大介）</p></td>
+</tr>
+<tr class="odd">
+<td><p>電乱★カウントダウン</p></td>
+<td><p>Peaky P-key</p></td>
+<td><p>メディアミックスプロジェクト「<a href="../Page/D4DJ.md" title="wikilink">D4DJ</a>」キャラクターソング</p></td>
+<td><p>作詞・作曲（編曲は竹田祐介）</p></td>
+</tr>
+<tr class="even">
+<td><p>Let’s do the ‘Big-Bang!’</p></td>
+<td><p>Peaky P-key</p></td>
+<td><p>メディアミックスプロジェクト「D4DJ」キャラクターソング</p></td>
+<td><p>作曲（作詞は織田あすか、編曲は竹田祐介）</p></td>
+</tr>
+<tr class="odd">
+<td><p>Gonna be right</p></td>
+<td><p>Peaky P-key</p></td>
+<td><p>メディアミックスプロジェクト「D4DJ」キャラクターソング</p></td>
+<td><p>作曲（作詞は織田あすか、編曲は竹田祐介）</p></td>
 </tr>
 </tbody>
 </table>
@@ -2518,6 +2542,24 @@
 <td></td>
 <td><p>作詞 （作曲・編曲は藤田淳平）</p></td>
 </tr>
+<tr class="even">
+<td><p>Let’s do the ‘Big-Bang!’</p></td>
+<td><p>Peaky P-key</p></td>
+<td><p>メディアミックスプロジェクト「<a href="../Page/D4DJ.md" title="wikilink">D4DJ</a>」キャラクターソング</p></td>
+<td><p>作詞（作曲は上松範康、編曲は竹田祐介)</p></td>
+</tr>
+<tr class="odd">
+<td><p>Gonna be right</p></td>
+<td><p>Peaky P-key</p></td>
+<td><p>メディアミックスプロジェクト「<a href="../Page/D4DJ.md" title="wikilink">D4DJ</a>」キャラクターソング</p></td>
+<td><p>作詞（作曲は上松範康、編曲は竹田祐介)</p></td>
+</tr>
+<tr class="even">
+<td><p>最頂点Peaky&amp;Peaky</p></td>
+<td></td>
+<td><p>Peaky P-key</p></td>
+<td><p>メディアミックスプロジェクト「<a href="../Page/D4DJ.md" title="wikilink">D4DJ</a>」キャラクターソング</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -2574,10 +2616,14 @@
 
 ### 竹田祐介
 
-| 曲名             | 歌手名         | タイアップ | 楽曲提供        |
-| -------------- | ----------- | ----- | ----------- |
-| Lyrical Poetry | 天草シオン（山下大輝） |       | 編曲（作曲は上松範康） |
-| 真なる旋律は最愛を歌う    | 聖川真斗(鈴村健一)  |       | 編曲（作曲は上松範康） |
+| 曲名                        | 歌手名         | タイアップ                                                       | 楽曲提供                          |
+| ------------------------- | ----------- | ----------------------------------------------------------- | ----------------------------- |
+| Lyrical Poetry            | 天草シオン（山下大輝） |                                                             | 編曲（作曲は上松範康）                   |
+| 真なる旋律は最愛を歌う               | 聖川真斗(鈴村健一)  |                                                             | 編曲（作曲は上松範康）                   |
+| 電乱★カウントダウン                | Peaky P-key | メディアミックスプロジェクト「[D4DJ](../Page/D4DJ.md "wikilink")」キャラクターソング | 編曲（作詞・作曲は上松範康）                |
+| Let’s do the ‘Big-Bang\!’ | Peaky P-key | メディアミックスプロジェクト「D4DJ」キャラクターソング                               | 編曲（作詞は織田あすか、作曲は上松範康）          |
+| Gonna be right            | Peaky P-key | メディアミックスプロジェクト「D4DJ」キャラクターソング                               | 編曲（作詞は織田あすか、作曲は上松範康）          |
+| 最頂点Peaky\&Peaky           |             | Peaky P-key                                                 | メディアミックスプロジェクト「D4DJ」キャラクターソング |
 
 ## BGM担当作品
 
@@ -2591,6 +2637,7 @@
   - うたの☆プリンスさまっ♪ マジLOVEレボリューションズ
   - [神々の悪戯](https://ja.wikipedia.org/wiki/神々の悪戯 "wikilink")
   - [君と僕。](../Page/君と僕。.md "wikilink")
+  - [キミと僕の最後の戦場、あるいは世界が始まる聖戦](https://ja.wikipedia.org/wiki/キミと僕の最後の戦場、あるいは世界が始まる聖戦 "wikilink")
   - [恋と選挙とチョコレート](https://ja.wikipedia.org/wiki/恋と選挙とチョコレート "wikilink")
   - [シュヴァルツェスマーケン](https://ja.wikipedia.org/wiki/シュヴァルツェスマーケン "wikilink")
   - [祝福のカンパネラ](https://ja.wikipedia.org/wiki/祝福のカンパネラ "wikilink")
@@ -2664,7 +2711,7 @@
       - とらバ\!
   - ブシモ（[ブシロード](../Page/ブシロード.md "wikilink")）
       - [戦姫絶唱シンフォギアXD UNLIMITED](https://ja.wikipedia.org/wiki/戦姫絶唱シンフォギアXD_UNLIMITED "wikilink")
-      - [バンドリ！ ガールズバンドパーティ！](https://ja.wikipedia.org/wiki/BanG_Dream!#ゲーム "wikilink")
+      - [バンドリ\! ガールズバンドパーティ\!](https://ja.wikipedia.org/wiki/バンドリ!_ガールズバンドパーティ! "wikilink")
   - [ブロッコリー](../Page/ブロッコリー_\(企業\).md "wikilink")
       - [うたの☆プリンスさまっ♪](https://ja.wikipedia.org/wiki/うたの☆プリンスさまっ♪ "wikilink")
       - [神々の悪戯](https://ja.wikipedia.org/wiki/神々の悪戯 "wikilink")
@@ -2768,7 +2815,7 @@
 
   - [ARIA entertainment](http://www.ariamusic.co.jp/)
       - [Elements Garden](http://www.ariamusic.co.jp/elements-garden/)
-  - [公式ブログ](http://elegablog.exblog.jp/)
+  - [公式ブログ](https://elegablog.exblog.jp/)
 
 [Category:Elements_Garden](https://ja.wikipedia.org/wiki/Category:Elements_Garden "wikilink") [Category:音楽プロダクション](https://ja.wikipedia.org/wiki/Category:音楽プロダクション "wikilink") [Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:ゲーム音楽グループ](https://ja.wikipedia.org/wiki/Category:ゲーム音楽グループ "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink")
 

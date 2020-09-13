@@ -6,8 +6,11 @@
   - AKB - [アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[アラスカ州](../Page/アラスカ州.md "wikilink")にある[アトカ空港](https://ja.wikipedia.org/wiki/アトカ空港 "wikilink")の[IATAコード](../Page/空港コード.md "wikilink")。
   - akb - [バタク・アンコーラ語](https://ja.wikipedia.org/wiki/バタク・アンコーラ語 "wikilink")の[ISO 639-3による言語名コード](https://ja.wikipedia.org/wiki/ISO_639-3 "wikilink")。
   - 以下は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")の地域・[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")（**Ak**iha**b**ara、略して「秋葉」または「アキバ」、**AK**I**B**Aとも）に由来する。
-      - [AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink") - [秋元康](../Page/秋元康.md "wikilink")がプロデュースした日本の[女性アイドルグループ](https://ja.wikipedia.org/wiki/アイドル "wikilink")。その略称が「AKB」。
-          - [AKB0048](https://ja.wikipedia.org/wiki/AKB0048 "wikilink") - 上記グループを[モチーフ](https://ja.wikipedia.org/wiki/モチーフ "wikilink")にした2012年の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。
+      - [AKB48グループ](https://ja.wikipedia.org/wiki/AKB48グループ "wikilink") - [秋元康](../Page/秋元康.md "wikilink")がプロデュースしたAKB48にその姉妹グループも含めた総称。
+          - [AKB48 Team SH](https://ja.wikipedia.org/wiki/AKB48_Team_SH "wikilink") - [中国の](../Page/中華人民共和国.md "wikilink")[上海を拠点とするグループ](../Page/上海市.md "wikilink")。
+          - [AKB48 Team TP](https://ja.wikipedia.org/wiki/AKB48_Team_TP "wikilink") - [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[台北を拠点とするグループ](../Page/台北市.md "wikilink")。
+      - [AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink") - 秋元康がプロデュースした日本の[女性アイドルグループ](https://ja.wikipedia.org/wiki/アイドル "wikilink")。その略称が「AKB」。
+          - [AKB0048](https://ja.wikipedia.org/wiki/AKB0048 "wikilink") - AKB48を[モチーフ](https://ja.wikipedia.org/wiki/モチーフ "wikilink")にした2012年の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。
       - [JR東日本](../Page/東日本旅客鉄道.md "wikilink")・[秋葉原駅](https://ja.wikipedia.org/wiki/秋葉原駅 "wikilink")の[3レターコード](../Page/3レターコード.md "wikilink")\[1\]。
   - akB（あくびー） - 日本の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[イーリア](../Page/イーリア.md "wikilink")の旧芸名。
       - AKB - akBがボーカルを務めるバンド。

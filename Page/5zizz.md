@@ -33,4 +33,4 @@
   - [5pb.Inc](http://5pb.jp/) - 株式会社5pb.の公式サイト
   - [ZIZZ STUDIO](http://www.zizz-studio.com/) - ZIZZ STUDIOの公式サイト
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:ゲーム音楽グループ](https://ja.wikipedia.org/wiki/Category:ゲーム音楽グループ "wikilink") [Category:2007年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2007年に結成した音楽グループ "wikilink")
+[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:ゲーム音楽グループ](https://ja.wikipedia.org/wiki/Category:ゲーム音楽グループ "wikilink") [Category:2007年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2007年に結成した音楽グループ "wikilink")

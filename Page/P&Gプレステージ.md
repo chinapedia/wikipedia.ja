@@ -9,7 +9,7 @@
 
 [1994年](../Page/1994年.md "wikilink")、同じくP\&G傘下となっていた**プロクター・アンド・ギャンブル・ヘルスケア株式会社**（P\&Gヘルスケア、旧：日本ヴィックス株式会社）を吸収合併した。その際、P\&Gヘルスケアは[社内カンパニー](../Page/社内カンパニー.md "wikilink")制によって、マックスファクターのP\&Gヘルスケア事業部となり、同社がP\&Gの日本における大衆薬事業も手掛けるようになった。
 
-ちなみにマックスファクターが吸収合併したP\&Gヘルスケアの前身会社にあたる日本ヴィックスは、米国の[製薬](../Page/製薬.md "wikilink")会社・[リチャードソン・ヴィックス](https://ja.wikipedia.org/wiki/リチャードソン・ヴィックス "wikilink")（）社と日本の[伊藤忠商事](https://ja.wikipedia.org/wiki/伊藤忠商事 "wikilink")との共同で設立された[医薬品](../Page/医薬品.md "wikilink")会社で、本社は[大阪市](../Page/大阪市.md "wikilink")、[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[鈴鹿市](../Page/鈴鹿市.md "wikilink")に工場\[1\]があった。日本ヴィックスは1985年にP\&G傘下になり、3年後の1988年にP\&Gヘルスケアに社名変更している。
+ちなみにマックスファクターが吸収合併したP\&Gヘルスケアの前身会社にあたる日本ヴィックスは、米国の[製薬](../Page/製薬.md "wikilink")会社・[リチャードソン・ヴィックス](https://ja.wikipedia.org/wiki/リチャードソン・ヴィックス "wikilink")（）社と日本の[伊藤忠商事](https://ja.wikipedia.org/wiki/伊藤忠商事 "wikilink")との共同で設立された[医薬品](../Page/医薬品.md "wikilink")会社で、本社は[大阪市](../Page/大阪市.md "wikilink")、[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[鈴鹿市](../Page/鈴鹿市.md "wikilink")に工場\[1\] があった。日本ヴィックスは1985年にP\&G傘下になり、3年後の1988年にP\&Gヘルスケアに社名変更している。
 
 [2002年](../Page/2002年.md "wikilink")にP\&Gが[大正製薬](../Page/大正製薬.md "wikilink")や[杏林製薬](../Page/杏林製薬.md "wikilink")などに大衆薬事業を売却し、日本での大衆薬事業から完全に撤退、P\&Gヘルスケア事業部を廃止した。なお、日本以外のP\&Gにおける大衆薬事業は「クレアラシル\[2\]」を除いて引き続き行われている。
 
@@ -24,21 +24,21 @@
 ### 旧マックスファクター発足～現在
 
   - [1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink") [マックスファクター](../Page/マックスファクター.md "wikilink")が日本法人である**マックスファクター株式会社**を東京で設立。
-  - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink") [滋賀県](../Page/滋賀県.md "wikilink")[野洲市](../Page/野洲市.md "wikilink")に滋賀工場\[4\]竣工。
+  - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink") [滋賀県](../Page/滋賀県.md "wikilink")[野洲市](../Page/野洲市.md "wikilink")に滋賀工場\[4\] 竣工。
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink") スキンケアブランド「[SK-II](../Page/SK-II.md "wikilink")」発売。
   - [1991年](../Page/1991年.md "wikilink") マックスファクターがP\&Gの傘下になる。
   - [1994年](../Page/1994年.md "wikilink") マックスファクターがP\&Gヘルスケアを吸収合併。
   - [2001年](../Page/2001年.md "wikilink") スキンケアブランド「イリューム」発売。
   - [2002年](../Page/2002年.md "wikilink") P\&Gヘルスケア事業部を廃止して、日本での大衆薬事業から完全撤退。
   - [2006年](../Page/2006年.md "wikilink") **P\&Gマックスファクター合同会社**に改組。
-  - [2015年](../Page/2015年.md "wikilink")7月　P\&Gがマックスファクターブランドを他の43ブランド\[5\]と一緒に125億ドル（約1兆5000億円）で[コティ](https://ja.wikipedia.org/wiki/コティ "wikilink")に売却\[6\]。
+  - [2015年](../Page/2015年.md "wikilink")7月　P\&Gがマックスファクターブランドを他の43ブランド\[5\] と一緒に125億ドル（約1兆5000億円）で[コティ](https://ja.wikipedia.org/wiki/コティ "wikilink")に売却\[6\]。
   - [2016年](../Page/2016年.md "wikilink")8月 **P\&Gプレステージ合同会社**へ社名変更。SK-IIの販売が中心事業となる。ヘアケア製品はP\&Gジャパンへ移管。
   - [2019年](../Page/2019年.md "wikilink")2月 スキンケアブランド「」のプレステージラインである「オレイ リジェネリスト」を日本販売開始\[7\]。オンライン限定で3月発売\[8\]。
 
 ### 旧日本ヴィックス
 
   - [1966年](../Page/1966年.md "wikilink") ヴィックス製品を輸入販売していた阪急共栄物産（現・[阪食](../Page/阪食.md "wikilink")）より分離・独立で**日本ヴィックス株式会社**を設立。
-  - [1977年](../Page/1977年.md "wikilink") 日本ヴィックスが社名を「**リチャードソン・メレル株式会社**」\[9\]に変更。
+  - [1977年](../Page/1977年.md "wikilink") 日本ヴィックスが社名を「**リチャードソン・メレル株式会社**」\[9\] に変更。
   - [1979年](../Page/1979年.md "wikilink") リチャードソン・メレルの親会社がリチャードソン・ヴィックス（Richardson-Vicks）に社名変更したことに伴い\[10\]、**日本ヴィックス株式会社**に復名。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") 経営が悪化した親会社リチャードソン・ヴィックス社に対して[ユニリーバ](../Page/ユニリーバ.md "wikilink")が[TOB](https://ja.wikipedia.org/wiki/TOB "wikilink")による[買収を画策](https://ja.wikipedia.org/wiki/企業買収 "wikilink")。この時、ユニリーバとの経営統合を嫌った経営陣がプロクター・アンド・ギャンブル（P\&G）へ[救済を求め](https://ja.wikipedia.org/wiki/M&A#ホワイト・ナイト "wikilink")、P\&G傘下となる。\[11\]
   - [1988年](../Page/1988年.md "wikilink") P\&G傘下となっていた日本ヴィックスが社名を「**プロクター・アンド・ギャンブル・ヘルスケア株式会社**（呼称・**P\&Gヘルスケア**）」に変更。
@@ -129,7 +129,7 @@
 
   - [日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列](../Page/日本テレビネットワーク協議会.md "wikilink")
       - [金曜10時\!うわさのチャンネル\!\!](../Page/金曜10時!うわさのチャンネル!!.md "wikilink")
-      - [ウィークエンダー](https://ja.wikipedia.org/wiki/ウィークエンダー "wikilink")
+      - [テレビ三面記事 ウィークエンダー](../Page/テレビ三面記事_ウィークエンダー.md "wikilink")
       - [お昼のワイドショー](../Page/お昼のワイドショー.md "wikilink")（昼・隔日）
       - [超音速攻撃ヘリ エアーウルフ](../Page/超音速攻撃ヘリ_エアーウルフ.md "wikilink")
       - [恋はハイホー\!](https://ja.wikipedia.org/wiki/恋はハイホー! "wikilink")\[17\]

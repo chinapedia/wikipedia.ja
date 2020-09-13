@@ -46,7 +46,8 @@
   - [蜜野まこと](https://ja.wikipedia.org/wiki/蜜野まこと "wikilink") 「[お迎え渋谷くん](https://ja.wikipedia.org/wiki/お迎え渋谷くん "wikilink")」
   - [美森青](../Page/美森青.md "wikilink") 「[抱きしめて ついでにキスも](https://ja.wikipedia.org/wiki/抱きしめて_ついでにキスも "wikilink")」
   - [森本梢子](../Page/森本梢子.md "wikilink") 「[アシガール](https://ja.wikipedia.org/wiki/アシガール "wikilink")」
-  - [山川あいじ](https://ja.wikipedia.org/wiki/山川あいじ "wikilink") 「[2.43 清陰高校男子バレー部](https://ja.wikipedia.org/wiki/2.43_清陰高校男子バレー部 "wikilink")」
+  - [山川あいじ](https://ja.wikipedia.org/wiki/山川あいじ "wikilink") 「[2.43 清陰高校男子バレー部](../Page/2.43_清陰高校男子バレー部.md "wikilink")」
+  - [吉住渉](../Page/吉住渉.md "wikilink") 「キャラメル シナモン ポップコーン」
 
 ### 連載が終了した作品
 

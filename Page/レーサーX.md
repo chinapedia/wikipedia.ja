@@ -46,6 +46,6 @@
   - [ジューダス・プリースト](../Page/ジューダス・プリースト.md "wikilink")
   - [パイントサイズ](https://ja.wikipedia.org/wiki/パイントサイズ "wikilink")
   - [ポール・ギルバート](../Page/ポール・ギルバート.md "wikilink")
-  - [MR. BIG](../Page/MR._BIG.md "wikilink")
+  - [MR. BIG](../Page/ミスター・ビッグ_\(アメリカのバンド\).md "wikilink")
 
 [Category:アメリカ合衆国のヘヴィメタル・バンド](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のヘヴィメタル・バンド "wikilink")

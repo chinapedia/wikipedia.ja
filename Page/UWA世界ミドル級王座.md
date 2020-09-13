@@ -473,7 +473,7 @@ LLI解散後も王座のみ存続して[WAR](../Page/WAR_\(プロレス\).md "wi
 
   - [プロレス選手権変遷史 UWA世界ミドル級選手権](http://www.wrestling-titles.com/jp/mexico/uwa/j-uwa-m.html)
 
-[Category:プロレスのジュニアヘビー級王座](https://ja.wikipedia.org/wiki/Category:プロレスのジュニアヘビー級王座 "wikilink") [Category:UWAの王座](https://ja.wikipedia.org/wiki/Category:UWAの王座 "wikilink") [Category:KAIENTAI-DOJOの王座](https://ja.wikipedia.org/wiki/Category:KAIENTAI-DOJOの王座 "wikilink") [Category:バトラーツ](https://ja.wikipedia.org/wiki/Category:バトラーツ "wikilink") [Category:WARの王座](https://ja.wikipedia.org/wiki/Category:WARの王座 "wikilink") [Category:新日本プロレスの王座](https://ja.wikipedia.org/wiki/Category:新日本プロレスの王座 "wikilink")
+[Category:プロレスのジュニアヘビー級王座](https://ja.wikipedia.org/wiki/Category:プロレスのジュニアヘビー級王座 "wikilink") [Category:UWAの王座](https://ja.wikipedia.org/wiki/Category:UWAの王座 "wikilink") [Category:2AWの王座](https://ja.wikipedia.org/wiki/Category:2AWの王座 "wikilink") [Category:バトラーツ](https://ja.wikipedia.org/wiki/Category:バトラーツ "wikilink") [Category:WARの王座](https://ja.wikipedia.org/wiki/Category:WARの王座 "wikilink") [Category:新日本プロレスの王座](https://ja.wikipedia.org/wiki/Category:新日本プロレスの王座 "wikilink")
 
 1.  本名の浅井嘉浩の時代から通算している。
 2.  同日、東京でNWA世界ミドル級王座獲得後にUWAの要請があったためである。

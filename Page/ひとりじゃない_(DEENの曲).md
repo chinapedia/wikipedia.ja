@@ -9,7 +9,7 @@
 
 ライブでもよく演奏されDEENの中でも人気曲の一つである。
 
-[日本コロムビア](../Page/日本コロムビア.md "wikilink")から発売されたCD『こどものうた』シリーズで[加嶋浩司](https://ja.wikipedia.org/wiki/加嶋浩司 "wikilink")がカバーしている。\[1\] 。 。
+[日本コロムビア](../Page/日本コロムビア.md "wikilink")から発売されたCD『こどものうた』シリーズで[加嶋浩司](https://ja.wikipedia.org/wiki/加嶋浩司 "wikilink")がカバーしている。\[1\] 。また、現役選手では[オリックスバファローズ](https://ja.wikipedia.org/wiki/オリックスバファローズ "wikilink")の[松井雅人](https://ja.wikipedia.org/wiki/松井雅人 "wikilink")捕手が[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")時代から登場曲に使用している。
 
   - 。
 

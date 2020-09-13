@@ -1,7 +1,7 @@
 > この記事は[SLホテル](https://ja.wikipedia.org/wiki/SLホテル)から翻訳されています。
 
 
-[Hotel_SL.jpg](https://ja.wikipedia.org/wiki/File:Hotel_SL.jpg "fig:Hotel_SL.jpg")[川場村](../Page/川場村.md "wikilink")）\]\] **SLホテル**とは、[静態保存](../Page/静態保存.md "wikilink")された[蒸気機関車](../Page/蒸気機関車.md "wikilink") (SL) に退役した[寝台車を連結し](../Page/寝台車_\(鉄道\).md "wikilink")、宿泊施設として利用したものである。
+[Hotel_SL.jpg](https://ja.wikipedia.org/wiki/File:Hotel_SL.jpg "fig:Hotel_SL.jpg")[利根郡](../Page/利根郡.md "wikilink")[川場村](../Page/川場村.md "wikilink")）\]\] **SLホテル**とは、[静態保存](../Page/静態保存.md "wikilink")された[蒸気機関車](../Page/蒸気機関車.md "wikilink") (SL) に退役した[寝台車を連結し](../Page/寝台車_\(鉄道\).md "wikilink")、宿泊施設として利用したものである。
 
 ## 拡張期
 
@@ -37,7 +37,7 @@
     [C56 96](../Page/国鉄C56形蒸気機関車.md "wikilink")+10系A寝台車4両、オハ80形座敷車1両。1975年8月から1987年3月まで営業した\[5\]。機関車のみが南牧村の銀河公園（[野辺山駅](../Page/野辺山駅.md "wikilink")前、南牧村歴史民俗資料館横）に移設され現存する。
   - [多賀SLパーク](../Page/多賀SLパーク.md "wikilink")（[滋賀県](../Page/滋賀県.md "wikilink")[犬上郡](../Page/犬上郡.md "wikilink")[多賀町](https://ja.wikipedia.org/wiki/多賀町 "wikilink")）
     D51 1149+10系B寝台車（一部は内部を改造）。1976年から1980年代まで営業した。機関車のみ現存するが、整備が行われておらず荒廃している。
-  - [びわ湖温泉](../Page/びわ湖温泉.md "wikilink")内SLホテル紅葉（滋賀県[大津市](../Page/大津市.md "wikilink")）
+  - [びわ湖温泉](../Page/びわ湖温泉.md "wikilink")内SL[紅葉パラダイス](https://ja.wikipedia.org/wiki/紅葉パラダイス "wikilink")（滋賀県[大津市](../Page/大津市.md "wikilink")）
     [ドイツ国鉄52 2438](../Page/ドイツ国鉄52形蒸気機関車.md "wikilink")+ワゴン・リ形客車。1978年から1990年代後半まで営業した。機関車・客車とも撤去されている。
   - 神南幸福駅SLビューホテル（[愛媛県](../Page/愛媛県.md "wikilink")[喜多郡](../Page/喜多郡.md "wikilink")[五十崎町](../Page/五十崎町.md "wikilink")（現：[内子町](../Page/内子町.md "wikilink")））
     [C58 312](../Page/国鉄C58形蒸気機関車.md "wikilink")+旧型客車（座席車の改造）2両。営業年次不明。廃業後、敷地は吉田ホテルという一般ホテルに転業後、ホテルWHEELという[ラブホテル](../Page/ラブホテル.md "wikilink")となって車両が残されていたが、2007年5月に機関車・客車ともに解体された。

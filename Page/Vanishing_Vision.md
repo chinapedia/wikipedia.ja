@@ -7,7 +7,7 @@
 
 [1988年](../Page/1988年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[エクスタシーレコード](../Page/エクスタシーレコード.md "wikilink")より発売。当初はLP(EXL-001)で発売され、後にCD(EXC-001)化と5000枚限定のピクチャーレーベル盤（LP）も発売された。ピクチャーレーベル盤には「Stab Me In The Back」の1988年の京都スポーツバレーでのライブ音源が収録された[ソノシート](../Page/ソノシート.md "wikilink")が付属しており、後に『[PERFECT BEST](../Page/PERFECT_BEST_\(X_JAPANのアルバム\).md "wikilink")』に収録された。
 
-初動1万枚以上と、当時のインディーズとしては記録的なセールスを上げ、インディーズ・レーベルながらメジャー・チャートにランクインを果した日本史上初のアルバムとなった。
+初動1万枚以上と、当時のインディーズとしては記録的なセールスを上げ、インディーズ・レーベルながらメジャー・チャートにランクインを果した日本史上初のアルバムとなった。最終的な累計売上は100万枚を超えた\[1\]。
 
 タイトルの意味としては、「幻影が消えていく」イメージであり、当時は色物バンドと見られていたXの表面的なイメージが消えて核が見えてくる状況を表現したとYOSHIKIは語っている。
 
@@ -45,7 +45,7 @@
       -
         （作詞・作曲：[YOSHIKI](../Page/YOSHIKI.md "wikilink") / 編曲：X）
         1987年から1992年まで演奏。
-        アルバム発売前後のライブでは、オープニングナンバーとして演奏された。だが、メジャー1stアルバム『[BLUE BLOOD](../Page/BLUE_BLOOD.md "wikilink")』発売以降は演奏機会が減り、1992年『破滅に向かって（2日目）』で演奏されたのが最後である。
+        アルバム発売前後のライブでは、オープニングナンバーとして演奏された。だが、メジャー1stアルバム『[BLUE BLOOD](../Page/BLUE_BLOOD_\(Xのアルバム\).md "wikilink")』発売以降は演奏機会が減り、1992年『破滅に向かって（2日目）』で演奏されたのが最後である。
         なお、ライブではショートカットバージョンで演奏されることが多かった。
 3.  **PHANTOM OF GUILT** (5:18)
       -
@@ -58,7 +58,7 @@
         （作詞：YOSHIKI / 作曲：[HIDE](https://ja.wikipedia.org/wiki/hide "wikilink") / 編曲：X）
         1988年から1996年まで演奏。
         [横須賀サーベルタイガー](../Page/横須賀サーベルタイガー.md "wikilink")の楽曲「SADISTIC EMOTION」を、Xの楽曲として[リメイク](../Page/リメイク.md "wikilink")。
-        歌詞はYOSHIKIによって作詞され、内容については当時傾倒していた[デヴィッド・リンチ](../Page/デヴィッド・リンチ.md "wikilink")監督の映画『[ブルーベルベット](../Page/ブルーベルベット.md "wikilink")』に触発され書いたものだとしている。\[1\]
+        歌詞はYOSHIKIによって作詞され、内容については当時傾倒していた[デヴィッド・リンチ](../Page/デヴィッド・リンチ.md "wikilink")監督の映画『[ブルーベルベット](../Page/ブルーベルベット.md "wikilink")』に触発され書いたものだとしている。\[2\]
         前期から後期と長期にかけて、コンサートの主に2番目あるいは3番目に演奏された。
         [1991年](../Page/1991年.md "wikilink")にリメイクされ、シングル「[Silent Jealousy](../Page/Silent_Jealousy.md "wikilink")」のカップリングとして収録されている。
         年を重ねていくにつれてこのアルバム収録曲のほとんどが演奏されなくなっていくが、この曲は後期となった1996年頃になっても演奏されていた。1996年3月13日の公演を最後に演奏されていない。
@@ -104,4 +104,5 @@
 
 [Category:X_JAPANのアルバム](https://ja.wikipedia.org/wiki/Category:X_JAPANのアルバム "wikilink") [Category:エクスタシーレコードのアルバム](https://ja.wikipedia.org/wiki/Category:エクスタシーレコードのアルバム "wikilink") [Category:1988年のアルバム](https://ja.wikipedia.org/wiki/Category:1988年のアルバム "wikilink")
 
-1.  [ロッキンf](https://ja.wikipedia.org/wiki/ロッキンf "wikilink")（立東社） 1988年6月号 124p
+1.  [日経BP社](https://ja.wikipedia.org/wiki/日経BP社 "wikilink")刊『[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")』1998年3月号「ビジネスとして語る、X解散、GLAYの成功、そして海外進出 『必ず売る、意地でも売る』－日本の音楽産業との10年戦争」24Pより。
+2.  [ロッキンf](https://ja.wikipedia.org/wiki/ロッキンf "wikilink")（立東社） 1988年6月号 124p

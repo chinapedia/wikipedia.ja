@@ -61,7 +61,7 @@
   - プロモーター: 富岡信夫
   - セールス・プロモーター: 畠山政行
 
-## 収録作品
+## 収録アルバム
 
 **少女A**
 
@@ -70,7 +70,7 @@
   - 『[BEST AKINA メモワール](../Page/BEST_AKINA_メモワール.md "wikilink")』\[53\]\[54\]
   - 『[BEST](../Page/BEST_\(中森明菜のアルバム\).md "wikilink")』\[55\]\[56\]
 
-## カバー
+## カバーしたアーティスト
 
   - マーチングフェローズオーケストラ - [インストゥルメンタル](../Page/器楽曲.md "wikilink")。[ビクターからシングルレコード](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")「聖母たちのララバイ／少女A」として発売。
   - [葉佩芬](https://ja.wikipedia.org/wiki/葉佩芬 "wikilink") （ダウン・イップ） - [シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")の歌手。1983年1月発売のアルバム「不要留下」で、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")による「不要留下」としてカバーした。
@@ -89,11 +89,11 @@
   - [Split BoB](https://ja.wikipedia.org/wiki/Split_BoB "wikilink") - 2015年発売のシングル『マヤカシ少女』に収録。
   - [新井ひとみ](https://ja.wikipedia.org/wiki/新井ひとみ "wikilink") - 2020年にCDシングル・CD+DVD版「少女A」を発売。7インチレコード「[デリケートに好きして](https://ja.wikipedia.org/wiki/魔法の天使クリィミーマミ#主題歌 "wikilink")」のC/W曲にも収録。
 
-## パロディ
+### パロディ
 
   - [五月みどり](../Page/五月みどり.md "wikilink")が1983年に発表した楽曲の「熟女B」が、「少女A」のパロディ・ソング（あるいは[アンサー・ソング](https://ja.wikipedia.org/wiki/アンサーソング "wikilink")）であるとして[日本テレビ系列の](../Page/日本テレビ放送網.md "wikilink")[ワイドショー](../Page/ワイドショー.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")『[スッキリ\!\!](https://ja.wikipedia.org/wiki/スッキリ!! "wikilink")』で指摘された\[64\]\[65\]。
 
-## 参照
+## 脚注
 
 ## 外部リンク
 

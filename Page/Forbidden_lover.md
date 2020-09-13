@@ -20,12 +20,16 @@
     <!-- end list -->
       -
         [日本テレビ系番組](../Page/日本テレビ放送網.md "wikilink")『[知ってるつもり?\!](../Page/知ってるつもり?!.md "wikilink")』エンディングテーマ。
-        [ドラムの](../Page/ドラムセット.md "wikilink")[フレーズ](https://ja.wikipedia.org/wiki/フレーズ "wikilink")が[バックビートを刻む一般的な](https://ja.wikipedia.org/wiki/バックビート_\(音楽用語\) "wikilink")[ドラムビート](https://ja.wikipedia.org/wiki/ドラムビート "wikilink")ではなく、変則的かつ[マーチング・ビートのためほとんどが](../Page/行進曲.md "wikilink")[スネアドラム](../Page/スネアドラム.md "wikilink")で構成されており、[フィルイン](https://ja.wikipedia.org/wiki/フィルイン "wikilink")もスネアが主役である。そのため、[ハイハットは殆ど使われておらず](https://ja.wikipedia.org/wiki/シンバル#ハイハット "wikilink")、フィルインの時にしか使われていない。フィルイン自体も、手数の多い[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")にしては簡素で、既記したスネアを中心にハイハット、その組み合わせに[クラッシュシンバル](https://ja.wikipedia.org/wiki/クラッシュシンバル "wikilink")、そして[タムを加えた簡素な物である](../Page/トムトム.md "wikilink")。また、yukihiroがフィルインでよく用いる[チャイナシンバル](https://ja.wikipedia.org/wiki/チャイナシンバル "wikilink")も[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")内では一切、使用されていない。
+        詞を手掛けたhydeは「曲を聴いてると、なんだか寒くなって。歴史的な過ちとか、統制とか、そういう時代の不可思議なものを感じた\[1\]」「詞を書いてるときは、ずっと海の上で戦火に包まれる状況を考えていた\[2\]」と述べており、「神に対する疑問や国が争うことへの疑問\[3\]」をテーマとしている。
+        作曲者であるkenは「家で作ってるときはこんな濃い曲になる予定じゃなかったんですよ。それがギターソロに[ティンパニ](../Page/ティンパニ.md "wikilink")を入れたあたりから凄いことになった\[4\]」と述べている。また、hydeは詞を書く前に完成したオケを聴き、「あまりに壮大で笑った\[5\]」「あまり深く考えずに歌詞を書きだしたんだけど、"こりゃ間奏に持っていく言葉が普通では負けてしまうな"と思った\[6\]」と述べており、＜神の名を＞＜新たなる国＞といった強いフレーズが歌詞に取り入れられた。
+        また、kenは「最近、どうも落ち着くのがこのテンポなんです\[7\]」と述べており、「[fate](../Page/HEART_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")」「[花葬](../Page/花葬.md "wikilink")」とテンポが一緒の曲となっている。後年のインタビューで、kenは「当時それぐらいのテンポ感が、気持ち良くて仕方なかったっていうのは覚えてますね。テンポ萌えしてた。そのテンポを聴くだけで気持ち良くなってた\[8\]」と振り返っている。
+        [ドラムの](../Page/ドラムセット.md "wikilink")[フレーズ](https://ja.wikipedia.org/wiki/フレーズ "wikilink")が[バックビートを刻む一般的な](https://ja.wikipedia.org/wiki/バックビート_\(音楽用語\) "wikilink")[ドラムビート](https://ja.wikipedia.org/wiki/ドラムビート "wikilink")ではなく、変則的かつ[マーチング・ビートのため](../Page/行進曲.md "wikilink")、ほとんどが[スネアドラム](../Page/スネアドラム.md "wikilink")で構成されており、[フィルイン](https://ja.wikipedia.org/wiki/フィルイン "wikilink")もスネアが主役である。そのため、[ハイハットは殆ど使われておらず](https://ja.wikipedia.org/wiki/シンバル#ハイハット "wikilink")、フィルインの時にしか使われていない。フィルイン自体も、手数の多い[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")にしては簡素で、既記したスネアを中心にハイハット、その組み合わせに[クラッシュシンバル](https://ja.wikipedia.org/wiki/クラッシュシンバル "wikilink")、そして[タムを加えた簡素な物である](../Page/トムトム.md "wikilink")。また、yukihiroがフィルインでよく用いる[チャイナシンバル](https://ja.wikipedia.org/wiki/チャイナシンバル "wikilink")も[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")内では一切、使用されていない。このドラムのアプローチはkenの「スネアを使って巷にあまりないリズムで」というリクエストがきっかけで、yukihiroは「曲の仕上がりはドラマティックになってるけど、ドラムは最後まで展開しない。それだけでカッコいいんだから、余計なことはいらないなと思った\[9\]」「スネアのアクセントだけで一曲やるのは[ZI:KILL](../Page/ZI:KILL.md "wikilink")の頃にもやったから、そんなに苦労はなかったです\[10\]」と述べている。
 2.  **花葬 -1014 mix-**
       - 作詞:hyde / 作曲:ken / [リミックス](../Page/リミックス.md "wikilink"):[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")
     <!-- end list -->
       -
         11thシングル「[花葬](../Page/花葬.md "wikilink")」のyukihiroによるリミックス曲。サブタイトルの「1014」とはこの曲の発売日に由来する。
+        原曲のギターを2小節ほど使っており\[11\]、前作の「浸食 〜lose control〜 (control experiment mix)」と比べ原曲のイメージを残したリミックスとなっている。また、このリミックスのイメージはyukihiro曰く「ギターを弾くようになってからの[デペッシュ・モード](../Page/デペッシュ・モード.md "wikilink")\[12\]」だという。
         シングルCDに収録されているリミックス曲で唯一[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[The Best of L'Arc〜en〜Ciel c/w](../Page/The_Best_of_L'Arc〜en〜Ciel.md "wikilink")』に収録された。このリミックスとは別バージョンの「0628 mix」が、[リミックス](../Page/リミックス.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")『[ectomorphed works](https://ja.wikipedia.org/wiki/ectomorphed_works "wikilink")』に収録されている。
 3.  **forbidden lover (hydeless version)**
 
@@ -65,4 +69,19 @@
 
   - 『[ectomorphed works](https://ja.wikipedia.org/wiki/ectomorphed_works "wikilink")』 (\#2,別リミックスバージョン)
 
+## 脚注
+
 [Category:L'Arc〜en〜Cielの楽曲](https://ja.wikipedia.org/wiki/Category:L'Arc〜en〜Cielの楽曲 "wikilink") [Category:hydeが制作した楽曲](https://ja.wikipedia.org/wiki/Category:hydeが制作した楽曲 "wikilink") [Category:kenが制作した楽曲](https://ja.wikipedia.org/wiki/Category:kenが制作した楽曲 "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:1998年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1998年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
+
+1.  『Gb』、p.17、1998年11月号
+2.  『R\&R NewsMaker』、p.14、1998年11月号
+3.
+4.  『Gb』、p.21、1998年11月号
+5.
+6.
+7.
+8.  [L’Arc～en～Ciel　ベストアルバム『TWENITY 1991-1996』『TWENITY 1997-1999』『TWENITY 2000-2010』インタビュー（kenインタビュー）](http://ent2.excite.co.jp/music/special/2011/larc-en-ciel/interview_ken.html) - exciteニュース
+9.  『R\&R NewsMaker』、p.29、1998年11月号
+10. 『Gb』、p.18、1998年11月号
+11.
+12.

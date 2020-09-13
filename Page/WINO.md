@@ -566,7 +566,7 @@ MSCL-60774:MEG-CD</p></td>
 | **監督**                                                            | **曲名**                                                                                                                               |
 | [池田剛](../Page/池田剛.md "wikilink")                                  | 「LOVE IS HERE」                                                                                                                       |
 | [タミム・ナッシャー](https://ja.wikipedia.org/wiki/タミム・ナッシャー "wikilink")   | 「太陽は夜も輝く」                                                                                                                            |
-| [中村友彦](https://ja.wikipedia.org/wiki/中村友彦 "wikilink")             | 「Devil's own \[mix no.4\]」                                                                                                           |
+| [中村友彦](../Page/中村友彦.md "wikilink")                                | 「Devil's own \[mix no.4\]」                                                                                                           |
 | [野田竜司](https://ja.wikipedia.org/wiki/野田竜司 "wikilink")             | 「Resolution」                                                                                                                         |
 | [MASAO](https://ja.wikipedia.org/wiki/MASAO "wikilink")           | 「Not Alone」                                                                                                                          |
 | [Resolution](https://ja.wikipedia.org/wiki/Resolution "wikilink") | 「Sullen Days」                                                                                                                        |

@@ -3,7 +3,7 @@
 
 **H\&K P9S**は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の銃器メーカーである[H\&K社が](../Page/ヘッケラー&コッホ.md "wikilink")[1970年](../Page/1970年.md "wikilink")に開発した、[9x19mmパラベラム弾](../Page/9x19mmパラベラム弾.md "wikilink")を使用する[拳銃](../Page/拳銃.md "wikilink")である。
 
-[SIG SAUER P220とほぼ同時期に登場した](../Page/SIG_SAUER_P220.md "wikilink")。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後に登場した新世代の[ダブルアクション](../Page/ダブルアクション.md "wikilink")方式の[自動式拳銃としては先駆け的な存在であり](https://ja.wikipedia.org/wiki/拳銃#自動式拳銃 "wikilink")、1970年-[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")まで発売されていた。現在は[ギリシャ](../Page/ギリシャ.md "wikilink")で**EP9S**という名称で[ライセンス生産](../Page/ライセンス生産.md "wikilink")されている。
+[SIG SAUER P220とほぼ同時期に登場した](../Page/SIG_SAUER_P220.md "wikilink")。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後に登場した新世代の[ダブルアクション](../Page/ダブルアクション.md "wikilink")方式の[自動式拳銃としては先駆け的な存在である](https://ja.wikipedia.org/wiki/拳銃#自動式拳銃 "wikilink")。
 
 ## 概要
 
@@ -12,10 +12,6 @@ H\&K P9Sは、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の
 しかし、[ダブルアクション](../Page/ダブルアクション.md "wikilink")のP9Sに対して本家のP9はメカニズムが[シングルアクション](../Page/シングルアクション.md "wikilink")であり、同年代に生産が終了（少なくとも[1970年](../Page/1970年.md "wikilink")より前に生産が縮小）したため、P9の存在を知る者は少ない。
 
 ## 特徴
-
-本銃最大の特徴は、フレームの先端からトリガーガード、グリップフレーム前部は[ポリマーでできている点である](../Page/重合体.md "wikilink")。H\&K P9がグリップ以外の場所に（部分的ではあるが）[プラスチックを使用した最初の銃となる](../Page/合成樹脂.md "wikilink")。しかし、[H\&K VP70が史上初のポリマーフレームとして設計されたことによるインパクトが強かったことや](../Page/H&K_VP70.md "wikilink")[グロック17](../Page/グロック17.md "wikilink")が成功を収め、それらの銃のほうが有名になったことから、プラスチックを設計に取り入れただけとも言える本銃の知名度は低い。
-
-次に、[銃身の](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")[ライフリング](../Page/ライフリング.md "wikilink")にポリゴナルライフリングと呼ばれる方式を採用した事である。ポリゴナルライフリングの銃身は、断面で見ると穴が角の丸い六角形をしており、ライフリングが彫られていない構造となっている。
 
 作動方式としては[拳銃](../Page/拳銃.md "wikilink")では珍しい「[ローラーロッキング方式](https://ja.wikipedia.org/wiki/ブローバック#ローラー遅延式 "wikilink")」を採用したことが挙げられる。ローラーロッキング方式は[H\&K社の](../Page/ヘッケラー&コッホ.md "wikilink")[G3](../Page/H&K_G3.md "wikilink")[自動小銃](../Page/自動小銃.md "wikilink")や、[MP5](../Page/H&K_MP5.md "wikilink")[短機関銃](../Page/短機関銃.md "wikilink")に用いられている作動方式であり、[射撃](../Page/射撃.md "wikilink")時の反動が少なく、連射でも高い命中精度を保つことができる。反面、ほかの方式に比べて機構が複雑で故障の原因になりやすいという欠点もあり、拳銃で採用している例としてはほかに[Cz52](../Page/Cz52.md "wikilink")があるだけである。
 

@@ -1,7 +1,7 @@
 > この記事は[BLOWIN\'](https://ja.wikipedia.org/wiki/BLOWIN\')から翻訳されています。
 
 
-「**BLOWIN**'」(ブローウィン)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[1992年](../Page/1992年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")に[BMGルームスより](../Page/VERMILLION_RECORDS.md "wikilink")10作目の[シングル](../Page/シングル.md "wikilink")として発売された。
+「**BLOWIN**'」(ブローウィン)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。1992年5月27日に[BMGルームスより](../Page/VERMILLION_RECORDS.md "wikilink")10作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 解説
 
@@ -9,7 +9,7 @@
 
 本作品では1曲目と2曲目の曲間がほとんどなく、「BLOWIN'」が終わったと同時に「TIME」が始まるようになっている。
 
-[2003年](../Page/2003年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")にリマスタリング、12cm化で再発売された。なお、リマスタリングに際し、上記とは違い曲間が存在するようになっている。
+2003年3月26日にリマスタリング、12cm化で再発売された。なお、リマスタリングに際し、上記とは違い曲間が存在するようになっている。
 
 [オリコンチャート](../Page/オリコンチャート.md "wikilink")にて2週連続1位を獲得。初動で58.7万枚を売り上げ、累計売上は176万3970枚を記録している\[2\]。オリコン集計では3作目、[日本レコード協会](../Page/日本レコード協会.md "wikilink")からは初のミリオンセラー認定を受けた。最終的に、B'zのシングルでは3番目の売上を記録した\[3\]。
 
@@ -26,8 +26,8 @@
       -
         1992年に行われたツアー『[B'z LIVE-GYM Pleasure '92 "TIME"](https://ja.wikipedia.org/wiki/LIVE-GYM_#1989年-1993年 "wikilink")』のタイトルとなった曲。
         2nd beatにも関わらずライブでよく演奏される曲であり、特に90年代のライブではバラードの定番曲として演奏されていた。2000年以降も度々演奏されている。
-        [オリジナル・アルバム未収録であるものの](../Page/スタジオ・アルバム.md "wikilink")、ベスト・アルバム『[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』投票では5位となり収録されているほか、[バラード](../Page/バラード.md "wikilink")・ベスト・アルバム『[The Ballads 〜Love & B'z〜](../Page/The_Ballads_〜Love_&_B'z〜.md "wikilink")』、ベスト・アルバム『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』にも収録されており、[2nd beatの曲では最多の](https://ja.wikipedia.org/wiki/2nd_beat "wikilink")3作のアルバムに収録されている(B'z以外のアルバムを含めると「[ONE](../Page/ギリギリchop.md "wikilink")」が『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』の主題歌集3作を含めた5作に収録)。
-        ソングレスバージョンは[テレビ朝日](../Page/テレビ朝日.md "wikilink")『[ステーションEYE](../Page/ステーションEYE.md "wikilink")』オープニングテーマとなった。稲葉はこの歌詞を「自分の思い出の風景を切り取ったもの」と語っており、歌詞中に出てくる「港が見渡せる丘」は[横浜市](../Page/横浜市.md "wikilink")の[港の見える丘公園](../Page/港の見える丘公園.md "wikilink")がモデルであるといわれている\[5\]。
+        [オリジナル・アルバム未収録であるものの](../Page/スタジオ・アルバム.md "wikilink")、ベスト・アルバム『[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』投票では5位となり収録されているほか、[バラード](../Page/バラード.md "wikilink")・ベスト・アルバム『[The Ballads 〜Love & B'z〜](../Page/The_Ballads_〜Love_&_B'z〜.md "wikilink")』、ベスト・アルバム『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』にも収録されており、[2nd beatの曲では最多の](https://ja.wikipedia.org/wiki/2nd_beat "wikilink")3作のアルバムに収録されている\[5\]。
+        [ソングレスバージョンは](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")[テレビ朝日](../Page/テレビ朝日.md "wikilink")『[ステーションEYE](../Page/ステーションEYE.md "wikilink")』オープニングテーマとなった。稲葉はこの歌詞を「自分の思い出の風景を切り取ったもの」と語っており、歌詞中に出てくる「港が見渡せる丘」は[横浜市](../Page/横浜市.md "wikilink")の[港の見える丘公園](../Page/港の見える丘公園.md "wikilink")がモデルであるといわれている\[6\]。
 
 ## タイアップ
 
@@ -88,7 +88,7 @@
 ## カバー
 
   - 1992年にTHE RANKIN FILE PROJECTがアルバム『ENGLISH COVERVERSION IN HIT POPS 1』CFB-601でカバーしている。
-  - 声優の[茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")が自身のライブ「Minori Chihara Live 2009 "SUMMER CAMP"」にて「BLOWIN'」をカバーした\[6\]。(但し、権利関係により後発の映像作品ではカットされている。)
+  - 声優の[茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")が自身のライブ「Minori Chihara Live 2009 "SUMMER CAMP"」にて「BLOWIN'」をカバーした\[7\]。(但し、権利関係により後発の映像作品ではカットされている。)
 
 ## 脚注
 
@@ -107,5 +107,6 @@
 2.
 3.
 4.
-5.  大学時代の稲葉は横浜に住んでいた。
-6.
+5.  B'z以外のアルバムを含めると「[ONE](https://ja.wikipedia.org/wiki/ギリギリchop#収録曲 "wikilink")」が『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』の主題歌集3作を含めた5作に収録
+6.  大学時代の稲葉は横浜に住んでいた。
+7.

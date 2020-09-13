@@ -48,7 +48,7 @@
 
 <!-- end list -->
 
-  - **沼能 友樹**（ぬまのう ともき、[11月10日](../Page/11月10日.md "wikilink") - ）ギター、コーラス。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。
+  - **[沼能 友樹](../Page/沼能友樹.md "wikilink")**（ぬまのう ともき、[11月10日](../Page/11月10日.md "wikilink") - ）ギター、コーラス。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。
 
 <!-- end list -->
 
@@ -285,8 +285,8 @@
 | ------------------------------------------------------------- | ------------------------------ | --------------------------------------- |
 | [K-MIX](../Page/静岡エフエム放送.md "wikilink")                       | **おとなたちの音楽**\[2\] - 柴野のみ       | 日曜日21:30 - 22:00\[3\]                   |
 | K-MIX                                                         | **LOOP CHILDの緑音**              | 2010年7月3日 - 2011年3月26日・土曜日19:30 - 20:00 |
-| [FM NACK5](https://ja.wikipedia.org/wiki/FM_NACK5 "wikilink") | **HAPPY LOOP\!N**              | 木曜日23:00 - 23:30                        |
-| [栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")         | **LOOP CHILD しばまりの100%つながるーぷ** | 2020年4月3日 - ・金曜日20:00 - 20:30           |
+| [FM NACK5](../Page/エフエムナックファイブ.md "wikilink")                 | **HAPPY LOOP\!N**              | 木曜日23:00 - 23:30                        |
+| [RadioBerry](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink") | **LOOP CHILD しばまりの100%つながるーぷ** | 2020年4月3日 - ・金曜日20:00 - 20:30           |
 |                                                               |                                |                                         |
 
 ## その他

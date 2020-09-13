@@ -5,91 +5,84 @@
 
 ## 解説
 
-オリジナルアルバムとしては、前作『[MY STORY](../Page/MY_STORY_\(浜崎あゆみのアルバム\).md "wikilink")』から1年1か月ぶりとなる。「[CD](../Page/コンパクトディスク.md "wikilink")+[DVD](../Page/DVD-Video.md "wikilink")」と「CDのみ」のジャケットが異なる2形態で発売。それぞれ、初回特典として別内容の[写真集](../Page/写真集.md "wikilink")が付いており、36枚目のシングル「[fairyland](https://ja.wikipedia.org/wiki/fairyland_\(浜崎あゆみの曲\) "wikilink")」の[ビデオクリップ撮影で訪れた](../Page/ミュージック・ビデオ.md "wikilink")[ハワイで撮影されたもの](../Page/ハワイ州.md "wikilink")。レンタル版のみ、[CCCD](https://ja.wikipedia.org/wiki/CCCD "wikilink")が回避されなかった。
+オリジナルアルバムとしては、前作『[MY STORY](../Page/MY_STORY_\(浜崎あゆみのアルバム\).md "wikilink")』から1年1か月ぶりとなる。「[CD](../Page/コンパクトディスク.md "wikilink")+[DVD](../Page/DVD-Video.md "wikilink")」と「CDのみ」のジャケットが異なる2形態で発売。それぞれ、初回特典として別内容の[写真集](../Page/写真集.md "wikilink")が付いており、36thシングル「[fairyland](https://ja.wikipedia.org/wiki/fairyland_\(浜崎あゆみの曲\) "wikilink")」の[ビデオクリップ撮影で訪れた](../Page/ミュージック・ビデオ.md "wikilink")[ハワイで撮影されたもの](../Page/ハワイ州.md "wikilink")。レンタル版のみ、[CCCD](https://ja.wikipedia.org/wiki/CCCD "wikilink")が回避されなかった。
 
 本作に収録されている「Bold & Delicious」「Pride」「Ladies Night」「Beautiful Day」「rainy day」「In The Corner」は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ユニット](../Page/音楽ユニット.md "wikilink")・[SweetBoxとのコラボレーションにより](../Page/スウィートボックス.md "wikilink")、そのプロデューサーGEOによる提供された楽曲である。なお、SWEETBOXの楽曲の内、「Beautiful Day」は「Beautiful Girl」、「rainy day」は「Every Step」となっている。
 
-また、表記されていないが、「alterna」は若干ミックスを変更したものを収録している。
+## 売上記録
+
+## 批評
+
+CDジャーナルは、「通算7枚目となるオリジナル・アルバム。ゴージャスなロック・サウンドを前面に打ち出した「STEP you」やヒットメイカー菊池一仁作曲の壮大なバラード曲「HEAVEN」など、3枚の既発ヒット・シングルを網羅した快作。」と批評した\[1\]。
 
 ## 収録曲
 
 ### DISC1 (CD)
 
-  -
-    全16曲収録 [全曲作詞](../Page/作詞.md "wikilink"): ayumi hamasaki
+  - 全曲作詞：ayumi hamasaki
 
 <!-- end list -->
 
-1.  **[Bold & Delicious](https://ja.wikipedia.org/wiki/Bold&Delicious/Pride "wikilink")**
+1.  **[Bold & Delicious](https://ja.wikipedia.org/wiki/Bold&Delicious/Pride "wikilink")** (4:40)
       -
-        [作曲](../Page/作曲.md "wikilink"): [GEO of SWEETBOX](../Page/スウィートボックス.md "wikilink") / [編曲](../Page/編曲.md "wikilink"): [CMJK](../Page/電気グルーヴ.md "wikilink")
+        composition : [GEO of SWEETBOX](../Page/スウィートボックス.md "wikilink") / arrangement : CMJK
         38thシングル
-        [Panasonic](https://ja.wikipedia.org/wiki/パナソニック "wikilink") SDオーディオ「[D-snap](../Page/D-snap.md "wikilink") Audio」 / SDミニコンポ「[D-dock](../Page/D-dock.md "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")
-2.  **[STEP you](https://ja.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")**
+2.  **[STEP you](https://ja.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")** (4:25)
       -
-        作曲: [原一博](../Page/原一博.md "wikilink") / 編曲: CMJK
+        composition : [Kazuhiro Hara](../Page/原一博.md "wikilink") / arrangement : CMJK
         35thシングル
-        Panasonic SDオーディオ「D-snap Audio」 / SDミニコンポ「D-dock」CMソング
-3.  **[Ladies Night](../Page/BLUE_BIRD_\(浜崎あゆみの曲\).md "wikilink")**
+3.  **[Ladies Night](../Page/BLUE_BIRD_\(浜崎あゆみの曲\).md "wikilink")** (4:30)
       -
-        作曲: GEO of SWEETBOX / 編曲: CMJK
+        composition : [GEO of SWEETBOX](../Page/スウィートボックス.md "wikilink") / arrangement : CMJK
         後にアレンジされ、40thシングル「[BLUE BIRD](../Page/BLUE_BIRD_\(浜崎あゆみの曲\).md "wikilink")」に「Ladies Night 〜another night〜」として収録された。
-4.  **[is this LOVE?](https://ja.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")**
+4.  **[is this LOVE?](https://ja.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")** (4:51)
       -
-        作曲: [渡辺未来](../Page/渡辺未来.md "wikilink") / 編曲: [HΛL](../Page/HΛL.md "wikilink")
+        composition : [Miki Watanabe](../Page/渡辺未来.md "wikilink") / arrangement : HΛL
         35thシングル
-        [森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")「ベイク」CMソング
-5.  **(miss)understood**
+5.  **(miss)understood** (4:02)
       -
-        作曲: [湯汲哲也](../Page/湯汲哲也.md "wikilink") / 編曲: tasuku
-6.  **[alterna](https://ja.wikipedia.org/wiki/fairyland_\(浜崎あゆみの曲\) "wikilink")**
+        composition : [Tetsuya Yukumi](../Page/湯汲哲也.md "wikilink") / arrangement : tasuku
+6.  **[alterna](https://ja.wikipedia.org/wiki/fairyland_\(浜崎あゆみの曲\) "wikilink")** (5:28)
       -
-        作曲: 萩原慎太郎・佐々木聡作 / 編曲: CMJK
-        36thシングルのカップリング。
-        Panasonic デジタルカメラ [LUMIX](../Page/LUMIX.md "wikilink") FX-8 CMソング
-7.  **In The Corner**
+        composition : Shintarou Hagiwara & Sousaku Sasaki / arrangement : CMJK
+        36thシングルのカップリング。表記されていないが、若干ミックスが異なるアルバムバージョンで収録。
+7.  **In The Corner** (3:23)
       -
-        作曲: GEO of SWEETBOX / 編曲: tasuku
-8.  **tasking**
+        composition : GEO of SWEETBOX / arrangement : tasuku
+8.  **tasking** (1:25)
       -
-        作曲 ・編曲: tasuku
+        composition & arrangement : tasuku
         インスト曲
-9.  **criminal**
+9.  **criminal** (5:13)
       -
-        作曲 ・編曲: 原一博
-10. **[Pride](https://ja.wikipedia.org/wiki/Bold_&_Delicious/Pride "wikilink")**
+        composition & arrangement : Kazuhiro Hara
+10. **[Pride](https://ja.wikipedia.org/wiki/Bold_&_Delicious/Pride "wikilink")** (4:10)
       -
-        作曲: GEO of SWEETBOX / 編曲: CMJK
+        composition : GEO of SWEETBOX / arrangement : CMJK
         38thシングル
-11. **[Will](../Page/HEAVEN_\(浜崎あゆみの曲\).md "wikilink")**
+11. **[Will](../Page/HEAVEN_\(浜崎あゆみの曲\).md "wikilink")** (4:08)
       -
-        作曲: [CREA](../Page/浜崎あゆみ.md "wikilink") + [D･A･I](../Page/長尾大.md "wikilink") / 編曲: tasuku
+        composition : [CREA](../Page/浜崎あゆみ.md "wikilink") + [D.A.I.](../Page/長尾大.md "wikilink") / arrangement : [Yuta Nakano](../Page/中野雄太.md "wikilink") + KZB
         37thシングルのカップリング
-        Panasonic デジタルカメラ LUMIX FX-9 CMソング
-12. **[HEAVEN](../Page/HEAVEN_\(浜崎あゆみの曲\).md "wikilink")**
+12. **[HEAVEN](../Page/HEAVEN_\(浜崎あゆみの曲\).md "wikilink")** (4:18)
       -
-        作曲: [菊池一仁](../Page/菊池一仁.md "wikilink") / 編曲: [中野雄太](../Page/中野雄太.md "wikilink") + KZB
+        composition : [Kazuhito Kikuchi](../Page/菊池一仁.md "wikilink") / arrangement : [Yuta Nakano](../Page/中野雄太.md "wikilink") + KZB
         37thシングル
-        映画「[SHINOBI](https://ja.wikipedia.org/wiki/SHINOBI "wikilink")」主題歌
-13. **Are You Wake Up?**
+13. **Are You Wake Up?** (2:06)
       -
-        作曲 ・ 編曲: CMJK
+        composition & arrangement : CMJK
         インスト曲
-14. **[fairyland](https://ja.wikipedia.org/wiki/fairyland_\(浜崎あゆみの曲\) "wikilink")**
+14. **[fairyland](https://ja.wikipedia.org/wiki/fairyland_\(浜崎あゆみの曲\) "wikilink")** (5:17)
       -
-        作曲: tasuku / 編曲: HΛL
+        composition : [tasuku](https://ja.wikipedia.org/wiki/tasuku "wikilink") / arrangement : HΛL
         36thシングル
-        カメリアダイヤモンドCMソング
-        日本テレビ『音楽戦士 MUSIC FIGHTER』8月度オープニングテーマ
-        日本テレビ『スポーツうるぐす』イメージソング
-        日産自動車「X-TRAIL CUP」オフィシャルテーマソング
-15. **Beautiful Day**
+15. **Beautiful Day** (4:34)
       -
-        作曲: GEO of SWEETBOX / 編曲: tasuku
-16. **rainy day**
+        composition : GEO of SWEETBOX / arrangement : tasuku
+16. **rainy day** (4:02)
       -
-        作曲: GEO of SWEETBOX / 編曲: 中野雄太
-        PS2用ゲームソフト「[新鬼武者 DAWN OF DREAMS](../Page/鬼武者.md "wikilink")」エンディングテーマ
+        composition : GEO of SWEETBOX / arrangement : [Yuta Nakano](../Page/中野雄太.md "wikilink")
+        PS2用ゲームソフト「[新鬼武者 DAWN OF DREAMS](../Page/鬼武者.md "wikilink")」エンディングテーマ。
 
 ### DISC2 (DVD)
 
@@ -119,3 +112,5 @@
   - [DISCOGRAPHY –ayumi hamasaki](http://avex.jp/ayu/discography/detail.php?id=1003396)
 
 [Category:浜崎あゆみのアルバム](https://ja.wikipedia.org/wiki/Category:浜崎あゆみのアルバム "wikilink") [Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink") [Category:2006年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2006年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:松浦勝人がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:松浦勝人がプロデュースしたアルバム "wikilink") [Category:オリコン月間アルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間アルバムチャート1位獲得作品 "wikilink")
+
+1.

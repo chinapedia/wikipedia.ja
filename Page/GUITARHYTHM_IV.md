@@ -19,7 +19,7 @@
 
 レコーディングには[ピーター・ガブリエル](../Page/ピーター・ガブリエル.md "wikilink")が所有するが使用された。
 
-前述の通りデモテープは一切制作しておらず、バンドメンバーである[成田忍](https://ja.wikipedia.org/wiki/成田忍 "wikilink")、[浅田孟](https://ja.wikipedia.org/wiki/浅田孟 "wikilink")、[小森茂生](https://ja.wikipedia.org/wiki/小森茂生 "wikilink")、[椎野恭一](https://ja.wikipedia.org/wiki/椎野恭一 "wikilink")をロンドンへ呼び寄せ、彼らの前でデモをプレイした後、[アレンジに取り掛かり](../Page/編曲.md "wikilink")、形が決まったらメンバー全員でスタジオに入り、一発録りに近い感じでレコーディングといった手法で制作は進められた。レコーディング時にはスタジオの照明を落とし、蝋燭だけを灯して演奏したという。
+前述の通りデモテープは一切制作しておらず、バンドメンバーである[成田忍](https://ja.wikipedia.org/wiki/成田忍 "wikilink")、[浅田孟](https://ja.wikipedia.org/wiki/浅田孟 "wikilink")、[小森茂生](https://ja.wikipedia.org/wiki/小森茂生 "wikilink")、[椎野恭一](../Page/椎野恭一.md "wikilink")をロンドンへ呼び寄せ、彼らの前でデモをプレイした後、[アレンジに取り掛かり](../Page/編曲.md "wikilink")、形が決まったらメンバー全員でスタジオに入り、一発録りに近い感じでレコーディングといった手法で制作は進められた。レコーディング時にはスタジオの照明を落とし、蝋燭だけを灯して演奏したという。
 
 上述の通り、バンドサウンドを主体として構成されている。本作で布袋は[リズムギタリストに徹しており](../Page/リズムギター.md "wikilink")、「リズムパートとソロは布袋、[リードパートは成田](../Page/リードギター.md "wikilink")」という役割分担が成されている\[5\]。
 
@@ -47,7 +47,7 @@
 
 また、追加公演として『**GUITARHYTHM SERIOUS\! CLIMAX ARENA TOUR**』と題し、[11月21日](../Page/11月21日.md "wikilink")の[大阪城ホール](../Page/大阪城ホール.md "wikilink")を皮切りに5都市9公演が行われている。こちらは全公演が[アリーナ](../Page/アリーナ.md "wikilink")規模の会場で行われた。このツアーから、最終日となった[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")の[日本武道館](../Page/日本武道館.md "wikilink")公演がライブ・ビデオ『GUITARHYTHM SERIOUS\! CLIMAX』（1995年）としてリリースされた。
 
-両ツアー共に、バンドメンバーは前ツアーと同じく[成田忍](https://ja.wikipedia.org/wiki/成田忍 "wikilink")、[浅田孟](https://ja.wikipedia.org/wiki/浅田孟 "wikilink")、[椎野恭一](https://ja.wikipedia.org/wiki/椎野恭一 "wikilink")、[小森茂生](https://ja.wikipedia.org/wiki/小森茂生 "wikilink")が務めた。
+両ツアー共に、バンドメンバーは前ツアーと同じく[成田忍](https://ja.wikipedia.org/wiki/成田忍 "wikilink")、[浅田孟](https://ja.wikipedia.org/wiki/浅田孟 "wikilink")、[椎野恭一](../Page/椎野恭一.md "wikilink")、[小森茂生](https://ja.wikipedia.org/wiki/小森茂生 "wikilink")が務めた。
 
 ## 収録曲
 
@@ -99,7 +99,7 @@
 ### 参加ミュージシャン
 
   - **布袋寅泰** - [ギター](../Page/ギター.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - **[椎野恭一](https://ja.wikipedia.org/wiki/椎野恭一 "wikilink")** - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")、バッキングボーカル
+  - **[椎野恭一](../Page/椎野恭一.md "wikilink")** - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")、バッキングボーカル
   - **[浅田孟](https://ja.wikipedia.org/wiki/浅田孟 "wikilink")** - [ベース](../Page/エレクトリックベース.md "wikilink")、バッキングボーカル
   - **[成田忍](https://ja.wikipedia.org/wiki/成田忍 "wikilink")** - ギター、バッキングボーカル
   - **[小森茂生](https://ja.wikipedia.org/wiki/小森茂生 "wikilink")** - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")、バッキングボーカル

@@ -20,7 +20,7 @@
   -   - [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")
       - [松田弘](../Page/松田弘.md "wikilink")
       - [河内淳一](../Page/河内淳一.md "wikilink")
-      - [今野多久郎](https://ja.wikipedia.org/wiki/今野多久郎 "wikilink")
+      - 今野多久郎
       - [小島良喜](../Page/小島良喜.md "wikilink")
       - [琢磨仁](https://ja.wikipedia.org/wiki/琢磨仁 "wikilink")
 

@@ -101,7 +101,7 @@
 <tr class="odd">
 <td><p>ソフト版</p></td>
 <td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>版<br />
-（追加録音版）</p></td>
+（吹替補完版）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -203,7 +203,7 @@
 <tr class="odd">
 <td><p>演出</p></td>
 <td></td>
-<td><p>蕨南勝之</p></td>
+<td><p><a href="../Page/蕨南勝之.md" title="wikilink">蕨南勝之</a></p></td>
 </tr>
 <tr class="even">
 <td><p>翻訳</p></td>
@@ -245,7 +245,7 @@
 </tbody>
 </table>
 
-  - テレビ朝日版は2014年12月20日に[WOWOW](../Page/WOWOW.md "wikilink")でカット部分を追加録音したものが放送。
+  - テレビ朝日版は2014年12月20日に[WOWOW](../Page/WOWOW.md "wikilink")でカット部分を追加録音した「吹替補完版」が放送。
 
 ## 製作
 

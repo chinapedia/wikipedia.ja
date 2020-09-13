@@ -97,7 +97,7 @@
 
   - 紅組トリは前回に引き続き美空ひばりの「柔」（この年の『[第7回日本レコード大賞](https://ja.wikipedia.org/wiki/第7回日本レコード大賞 "wikilink")』受賞曲。前年からロングヒットした。前年は先行トリで披露）が選曲された。なお、これに関し各マスコミから「2年連続同じ歌を歌うとは非常識だ」とのバッシングもあった\[1\]。
   - 日野てる子のバックでムームーを着た水前寺清子・三沢あけみがウクレレ伴奏で応援していたが、間奏でこまどり姉妹が三味線で伴奏に加わろうとした所を、司会の林美智子があわてて止めに入った。
-  - 伊東ゆかりはこの年のサンレモ音楽祭で2位入賞を果たし、入賞曲｢恋する瞳｣で出場したが、登場した際に司会者が使うサイドマイク前で一礼し、歌に入る直前にセンターマイクにサッと移動して、何事もなかったように歌った。
+  - 伊東ゆかりはこの年の[サンレモ音楽祭](../Page/サンレモ音楽祭.md "wikilink")で2位入賞を果たし、入賞曲｢恋する瞳｣で出場したが、登場した際に司会者が使うサイドマイク前で一礼し、歌に入る直前にセンターマイクにサッと移動して、何事もなかったように歌った。
   - 翌年の[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[源義経](../Page/源義経_\(NHK大河ドラマ\).md "wikilink")』の出演者がゲスト出演。翌年の『大河ドラマ』の宣伝演出が行われるのは今回が初めてだった。
   - [倍賞千恵子](../Page/倍賞千恵子.md "wikilink")のバックには、当時[松竹歌劇団](../Page/松竹歌劇団.md "wikilink")に所属していた妹の[倍賞美津子](../Page/倍賞美津子.md "wikilink")がダンスで参加した。
   - 曲名テロップの右側には、曲名に合わせた挿絵が添えられているのが特徴だった。
@@ -142,7 +142,7 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=16)
   - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1965年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1965年のテレビ番組_\(日本\) "wikilink") [Category:1965年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1965年のラジオ番組_\(日本\) "wikilink") [Category:1965年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1965年の日本の音楽 "wikilink") [Category:1965年12月](https://ja.wikipedia.org/wiki/Category:1965年12月 "wikilink")

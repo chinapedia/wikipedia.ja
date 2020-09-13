@@ -224,7 +224,7 @@
 
   - [MŨV RINOIE](http://muv.jp/) - 公式ページ
 
-[Category:ROMANTIC_MODE](https://ja.wikipedia.org/wiki/Category:ROMANTIC_MODE "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:キングレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:キングレコードのアーティスト "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink")
+[Category:ROMANTIC_MODE](https://ja.wikipedia.org/wiki/Category:ROMANTIC_MODE "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:キングレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:キングレコードのアーティスト "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:1995年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1995年に結成した音楽グループ "wikilink") [Category:1999年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に解散した音楽グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink")
 
 1.
 2.  [タイアップ](../Page/タイアップ.md "wikilink")ではなく[JASRAC](https://ja.wikipedia.org/wiki/JASRAC "wikilink")との放送における包括的契約利用許諾契約に基づいた、いわゆる「通常使用」だったが、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月](../Page/8月.md "wikilink")に[石垣島](../Page/石垣島.md "wikilink")で行われた公開録画にボーカルの麻倉がゲストとして出演、歌唱を披露している。ちなみに麻倉は、この仕事で初めて[沖縄県](../Page/沖縄県.md "wikilink")を訪問した。

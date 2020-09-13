@@ -36,9 +36,9 @@
       -
         [エディ・コクラン](../Page/エディ・コクラン.md "wikilink")のカバー曲。
 10. **[MERRY-GO-ROUND](../Page/GUITARHYTHM_II.md "wikilink")**
-11. **[DANCE CRAZE](../Page/BOOWY_\(アルバム\).md "wikilink")**
+11. **[DANCE CRAZE](https://ja.wikipedia.org/wiki/BOØWY_\(アルバム\) "wikilink")**
       -
-        [BOØWY時代の曲だが](../Page/BOOWY.md "wikilink")、原曲から大幅にアレンジされ、[ハウス・ミュージック](https://ja.wikipedia.org/wiki/ハウス・ミュージック "wikilink")を取り入れたダンス・チューンになっている。また曲中で[ボレロの一節が挿入されている](../Page/ボレロ_\(ラヴェル\).md "wikilink")。
+        [BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")時代の曲だが、原曲から大幅にアレンジされ、[ハウス・ミュージック](https://ja.wikipedia.org/wiki/ハウス・ミュージック "wikilink")を取り入れたダンス・チューンになっている。また曲中で[ボレロの一節が挿入されている](../Page/ボレロ_\(ラヴェル\).md "wikilink")。
 12. **[FLY INTO YOUR DREAM](../Page/GUITARHYTHM_II.md "wikilink")**
 13. **[GLORIOUS DAYS](../Page/GUITARHYTHM.md "wikilink")**
 14. **[RADIO\! RADIO\! RADIO\!](https://ja.wikipedia.org/wiki/BEAT_EMOTION_\(布袋寅泰の曲\) "wikilink")**
@@ -50,7 +50,7 @@
 ## 参加ミュージシャン
 
   - **布袋寅泰** - [ギター](../Page/ギター.md "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - **[椎野恭一](https://ja.wikipedia.org/wiki/椎野恭一 "wikilink")** - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
+  - **[椎野恭一](../Page/椎野恭一.md "wikilink")** - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
   - **浅田孟** - [ベース](../Page/エレクトリックベース.md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - **[成田忍](https://ja.wikipedia.org/wiki/成田忍 "wikilink")** - ギター、コーラス
   - **小森茂生** - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")、コーラス

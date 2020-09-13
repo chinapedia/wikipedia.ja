@@ -100,14 +100,14 @@
 
 ## 外部リンク
 
-  - [陸上自衛隊](http://www.mod.go.jp/gsdf/) - [120mm迫撃砲 RT](http://www.mod.go.jp/gsdf/equipment/index.html#/detail/0/0_15/)
+  - [陸上自衛隊](https://www.mod.go.jp/gsdf/) - [120mm迫撃砲 RT](https://www.mod.go.jp/gsdf/equipment/index.html#/detail/0/0_15/)
   - [フランス陸軍公式サイト](http://www.defense.gouv.fr/terre/equipements/artillerie/mo-120mm-rtf1)
   - [イタリア陸軍公式サイト](http://www.esercito.difesa.it/EQUIPAGGIAMENTI/ARMI_MATERIALI_MEZZI/ARMI/TIRO_CURVO/MORTAI/Pagine/Mortaiorigatoda120mm.aspx)
   - [オランダ陸軍公式サイト](http://www.defensie.nl/landmacht/materieel/bewapening/mortieren/mortier_120_mm)
 
 [Category:120mm砲](https://ja.wikipedia.org/wiki/Category:120mm砲 "wikilink") [Category:フランスの迫撃砲](https://ja.wikipedia.org/wiki/Category:フランスの迫撃砲 "wikilink") [Category:陸上自衛隊の迫撃砲](https://ja.wikipedia.org/wiki/Category:陸上自衛隊の迫撃砲 "wikilink") [Category:アメリカ合衆国海兵隊の装備](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国海兵隊の装備 "wikilink")
 
-1.  [駐屯地機関紙「湯布院」第29号](http://www.mod.go.jp/gsdf/wae/yufuin/yufuinsinbun/__HPB_Recycled/2016yufuinsinnbunn59gou.pdf)(pdf) - 陸上自衛隊湯布院駐屯地
+1.  [駐屯地機関紙「湯布院」第29号](https://www.mod.go.jp/gsdf/wae/yufuin/yufuinsinbun/__HPB_Recycled/2016yufuinsinnbunn59gou.pdf)(pdf) - 陸上自衛隊湯布院駐屯地
 2.
 3.  アゴラ 言論プラットフォーム 120ミリ迫撃砲は来し方行き方。特科のリストラ　清谷信一 2017年11月3日11時30分。
 4.  [防衛白書の検索](http://www.clearing.mod.go.jp/hakusho_web/)

@@ -135,7 +135,7 @@
   - [新春ゴールデンピンクカーペット](../Page/爆笑レッドカーペット.md "wikilink")（フジテレビ）キャッチコピーは「お笑いトワイライトゾーン」\[15\]
   - [エンタの神様](https://ja.wikipedia.org/wiki/エンタの神様 "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）キャッチコピーは「上笑の記号」\[16\]
   - [ニューカマーズ](../Page/ニューカマーズ.md "wikilink")（フジテレビ、2008年8月12日）
-  - [しょこ♥リータ](https://ja.wikipedia.org/wiki/しょこリータ "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、2008年12月3日）福田のみ、「キャラクターボイスドラマ」オーディション
+  - [しょこ♥リータ](https://ja.wikipedia.org/wiki/しょこ♥リータ "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、2008年12月3日）福田のみ、「キャラクターボイスドラマ」オーディション
   - [U・LA・LA](https://ja.wikipedia.org/wiki/U・LA・LA "wikilink")@7（[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")、2009年3月17日） - 『よしもとうららちゃん』コーナー
   - [スクール革命\!](https://ja.wikipedia.org/wiki/スクール革命! "wikilink")（日本テレビ、2009年8月16日）
   - [ダウンタウンのガキの使いやあらへんで\!\!](https://ja.wikipedia.org/wiki/ダウンタウンのガキの使いやあらへんで!! "wikilink")（日本テレビ、2009年8月16日）福田のみ、「芸能界怒り王グランプリ\!\!」

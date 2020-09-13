@@ -40,4 +40,4 @@
 
   - [RACE公式サイト](http://www.race-game.org/) - 英語
 
-[Category:世界ツーリングカー選手権](https://ja.wikipedia.org/wiki/Category:世界ツーリングカー選手権 "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:レースゲーム](https://ja.wikipedia.org/wiki/Category:レースゲーム "wikilink") [Category:シミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:シミュレーションゲーム "wikilink") [Category:アイドスのゲームソフト](https://ja.wikipedia.org/wiki/Category:アイドスのゲームソフト "wikilink") [Category:スウェーデンで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:スウェーデンで開発されたコンピュータゲーム "wikilink")
+[Category:世界ツーリングカー選手権](https://ja.wikipedia.org/wiki/Category:世界ツーリングカー選手権 "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:カーレースゲーム](https://ja.wikipedia.org/wiki/Category:カーレースゲーム "wikilink") [Category:シミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:シミュレーションゲーム "wikilink") [Category:アイドスのゲームソフト](https://ja.wikipedia.org/wiki/Category:アイドスのゲームソフト "wikilink") [Category:スウェーデンで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:スウェーデンで開発されたコンピュータゲーム "wikilink")

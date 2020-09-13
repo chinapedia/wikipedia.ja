@@ -5,7 +5,7 @@
 
 ## 概要
 
-バンドの母体は[NUTS & MILKのメンバー](https://ja.wikipedia.org/wiki/NUTS_&_MILK "wikilink")4人（タナカ、シライシ、ヨシザワ、マツムラ）と[FRUITY](https://ja.wikipedia.org/wiki/FRUITY "wikilink")の[サイトウ "JxJx" ジュンが](../Page/サイトウ_"JxJx"_ジュン.md "wikilink")[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に結成した1曲1分以内のファストチューンのソウルパンクバンドであるSCHOOL JACKETS。半年の活動でデモテープLIVEなどを集めた40曲入りCD『Back To The Dance Floor』をHG Factからリリースした後、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にYOUR SONG IS GOOD結成。バンド名は、既に決まっていた最初のLIVEに向かう電車の中でサイトウが思いついたもの。当時[STIFFEEN RECORDSを主宰し](https://ja.wikipedia.org/wiki/STIFFEEN_RECORDS "wikilink")、YOUR SONG IS GOODのファンでもあった[角張渉](https://ja.wikipedia.org/wiki/角張渉 "wikilink")が、YOUR SONG IS GOODを中心としたイベント『KAKUBARHYTHM（カクバリズム）』を開始。[2002年](../Page/2002年.md "wikilink")にそのイベント名をそのままレーベル名とし、7インチアナログEP『BIG STOMACH ,BIG MOUTH』でインディーズデビュー。[2006年](../Page/2006年.md "wikilink")にカクバリズムと[ユニバーサルJとの共同リリースという形をとり](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、『FEVER』でメジャーデビュー。その後も[NAYUTAWAVE RECORDSとカクバリズムの共同リリースという形で](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")3枚のフルアルバムとBEST盤を発表。2013年に発表されたアルバム『OUT』より、カクバリズムからのリリースに戻っている。また2013年よりサポートメンバーに松井泉（パーカッション）を起用。LIVEのみならず、アルバム『OUT』でも松井が全面的に参加している。
+バンドの母体は[NUTS & MILKのメンバー](https://ja.wikipedia.org/wiki/NUTS_&_MILK "wikilink")4人（タナカ、シライシ、ヨシザワ、マツムラ）と[FRUITY](https://ja.wikipedia.org/wiki/FRUITY "wikilink")の[サイトウ "JxJx" ジュンが](../Page/サイトウ_"JxJx"_ジュン.md "wikilink")[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に結成した1曲1分以内のファストチューンのソウルパンクバンドであるSCHOOL JACKETS。半年の活動でデモテープLIVEなどを集めた40曲入りCD『Back To The Dance Floor』をHG Factからリリースした後、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にYOUR SONG IS GOOD結成。バンド名は、既に決まっていた最初のLIVEに向かう電車の中でサイトウが思いついたもの。当時[STIFFEEN RECORDSを主宰し](https://ja.wikipedia.org/wiki/STIFFEEN_RECORDS "wikilink")、YOUR SONG IS GOODのファンでもあった[角張渉](../Page/角張渉.md "wikilink")が、YOUR SONG IS GOODを中心としたイベント『KAKUBARHYTHM（カクバリズム）』を開始。[2002年](../Page/2002年.md "wikilink")にそのイベント名をそのままレーベル名とし、7インチアナログEP『BIG STOMACH ,BIG MOUTH』でインディーズデビュー。[2006年](../Page/2006年.md "wikilink")にカクバリズムと[ユニバーサルJとの共同リリースという形をとり](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、『FEVER』でメジャーデビュー。その後も[NAYUTAWAVE RECORDSとカクバリズムの共同リリースという形で](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")3枚のフルアルバムとBEST盤を発表。2013年に発表されたアルバム『OUT』より、カクバリズムからのリリースに戻っている。また2013年よりサポートメンバーに松井泉（パーカッション）を起用。LIVEのみならず、アルバム『OUT』でも松井が全面的に参加している。
 
 メジャーデビュー時は、ライブの際には全員が[アロハシャツ](../Page/アロハシャツ.md "wikilink")姿に[レイを首からさげる格好で登場し](https://ja.wikipedia.org/wiki/レイ_\(ハワイ\) "wikilink")、ライブの始めの「ウイッス！ウイッス！ウイッス！」がお決まりだったが、2008年1月に行われた「ユアソングイズグッドの超！お正月ツアー～ワンマン～」にてレイを引きちぎった上で封印した。「ウイッス！ウイッス！ウイッス！」も「ウイッス！」一つになっている。
 
@@ -111,7 +111,7 @@
       - [イルリメ](../Page/イルリメ.md "wikilink")
       - [BREAKfAST](../Page/BREAKfAST.md "wikilink")（酒井、森本）
       - [SUGAR HILL DOWNTOWN ORCHESTRA](https://ja.wikipedia.org/wiki/SUGAR_HILL_DOWNTOWN_ORCHESTRA "wikilink")（塚本、プリンスコッチ）
-      - [角張渉](https://ja.wikipedia.org/wiki/角張渉 "wikilink")
+      - [角張渉](../Page/角張渉.md "wikilink")
 
 ## ディスコグラフィー
 
@@ -721,4 +721,4 @@ KICM-3274</p></td>
 
   -   -
       -
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:ダンス・ミュージック](https://ja.wikipedia.org/wiki/Category:ダンス・ミュージック "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:1998年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1998年に結成した音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:ダンス・ミュージック](https://ja.wikipedia.org/wiki/Category:ダンス・ミュージック "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink") [Category:1998年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1998年に結成した音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:インストゥルメンタルの音楽グループ](https://ja.wikipedia.org/wiki/Category:インストゥルメンタルの音楽グループ "wikilink")

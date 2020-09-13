@@ -21,7 +21,7 @@
 
 ### 長編
 
-  - [カルバニア物語](../Page/カルバニア物語.md "wikilink") 1〜18巻（[徳間書店](../Page/徳間書店.md "wikilink") / [Chara連載中](../Page/Chara_\(雑誌\).md "wikilink")）
+  - [カルバニア物語](../Page/カルバニア物語.md "wikilink") 1〜19巻（[徳間書店](../Page/徳間書店.md "wikilink") / [Chara連載中](../Page/Chara_\(雑誌\).md "wikilink")）
   - [チキタ★GuGu](../Page/チキタ★GuGu.md "wikilink") 全8巻（[朝日ソノラマ](../Page/朝日ソノラマ.md "wikilink")、[朝日新聞社](../Page/朝日新聞社.md "wikilink")/[ネムキ](../Page/ネムキ.md "wikilink")）
       - 新装版 全6巻（朝日新聞出版）、6巻に新作追加あり
   - [ラビット・ハンティング](https://ja.wikipedia.org/wiki/ラビット・ハンティング "wikilink") 1〜2巻（[新書館](../Page/新書館.md "wikilink") / [月刊ウィングス](https://ja.wikipedia.org/wiki/月刊ウィングス "wikilink")連載中）

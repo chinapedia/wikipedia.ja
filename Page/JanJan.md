@@ -77,5 +77,5 @@
 8.
 9.
 10.
-11. [JanJanとは](http://web.archive.org/web/20100105211208/http://www.janjannews.jp/archives/extra/janjan_toha.html)（2010年1月5日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
-12. [ザ・選挙/選挙の開票速報に関するおわび](http://web.archive.org/web/20090305234035/http://www.senkyo.janjan.jp/senkyo_news/0902/0902090114/1.php)（2009年3月5日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+11. [JanJanとは](https://web.archive.org/web/20100105211208/http://www.janjannews.jp/archives/extra/janjan_toha.html)（2010年1月5日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+12. [ザ・選挙/選挙の開票速報に関するおわび](https://web.archive.org/web/20090305234035/http://www.senkyo.janjan.jp/senkyo_news/0902/0902090114/1.php)（2009年3月5日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）

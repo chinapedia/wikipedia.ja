@@ -30,6 +30,6 @@
 
 ## 外部リンク
 
-  - [自信回復TV 胸はって行こう\! - フジテレビ](http://www.fujitv.co.jp/b_hp/jishintv/)
+  - [自信回復TV 胸はって行こう\! - フジテレビ](https://www.fujitv.co.jp/b_hp/jishintv/)
 
 [Category:2002年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:共同テレビ](https://ja.wikipedia.org/wiki/Category:共同テレビ "wikilink") [Category:和田アキ子](https://ja.wikipedia.org/wiki/Category:和田アキ子 "wikilink") [Category:薬丸裕英](https://ja.wikipedia.org/wiki/Category:薬丸裕英 "wikilink")

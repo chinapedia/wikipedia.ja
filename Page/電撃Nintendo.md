@@ -72,7 +72,7 @@
 <!-- end list -->
 
   - [星のカービィ プププヒーロー](https://ja.wikipedia.org/wiki/星のカービィ_プププヒーロー "wikilink")（作画：[あおきけい](../Page/あおきけい.md "wikilink")と[みかまる](https://ja.wikipedia.org/wiki/みかまる "wikilink")、2008年11月(2009年1月号)～2013年3月号(5月号)まで連載）
-  - [クレヨンしんちゃん 笑いを呼ぶ 4コマ劇場\!](https://ja.wikipedia.org/wiki/クレヨンしんちゃん "wikilink")（作画：[木村陽子](https://ja.wikipedia.org/wiki/木村陽子 "wikilink")([シンエイ動画](../Page/シンエイ動画.md "wikilink"))2009年(9月号)～2013年3月号(5月号)まで連載）
+  - [クレヨンしんちゃん 笑いを呼ぶ 4コマ劇場\!](https://ja.wikipedia.org/wiki/クレヨンしんちゃん "wikilink")（作画：[木村陽子](https://ja.wikipedia.org/wiki/木村陽子_\(アニメーター\) "wikilink")([シンエイ動画](../Page/シンエイ動画.md "wikilink"))2009年(9月号)～2013年3月号(5月号)まで連載）
   - [街へいこうよ 動物の森 あつまれ\!こもびれ村](../Page/街へいこうよ_どうぶつの森.md "wikilink")（作画：[村上ゆみ子](../Page/村上ゆみ子.md "wikilink")）
   - [牧場物語](https://ja.wikipedia.org/wiki/牧場物語 "wikilink")
   - [たまごっち](../Page/たまごっち.md "wikilink")

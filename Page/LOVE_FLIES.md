@@ -20,15 +20,18 @@ L'Arc〜en〜Cielの楽曲がテレビドラマの主題歌を担当するのは
     <!-- end list -->
       -
         メンバー出演の[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")「Wonder BJ」[CMソング](../Page/コマーシャルソング.md "wikilink")、及び[テレビ朝日](../Page/テレビ朝日.md "wikilink")系ドラマ『[青い鳥症候群](../Page/青い鳥症候群_\(テレビドラマ\).md "wikilink")』主題歌。
-        タイトルは「（あなたのもとへ）愛が羽ばたいていく\[2\]」という意味。[1999年](../Page/1999年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")から[8月](../Page/8月.md "wikilink")にかけて行われたライブツアー「[1999 GRAND CROSS TOUR](../Page/1999_GRAND_CROSS_TOUR.md "wikilink")」で訪れた会場の景色をイメージして制作された楽曲\[3\]で、作曲したkenはリリース当時、「制作から世に出るまでが一番短い曲\[4\]」と述べていた。
-        [シンセサイザー](../Page/シンセサイザー.md "wikilink")のような[電子楽器](../Page/電子楽器.md "wikilink")はほとんど使われておらず、基本的には[ギター](../Page/ギター.md "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[ドラムという](../Page/ドラムセット.md "wikilink")4人の音だけで表現されている。
-        歌詞のほとんどの部分が英詞で手掛けられている楽曲であり、kenは「最後のサビの英詞になってからがかなり好きなんですよ。この英詞の部分が曲と交わってる\[5\]」「コーラスワークもあるんだろうけど、何ていうのかな、脳みそからいろいろ溢れかえってる感じ\[6\]」と述べている。また、ライブにおいて披露する際は、kenと[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")が2人で最後の大[サビ](../Page/サビ.md "wikilink")のコーラスを担当する。
         [1999年](../Page/1999年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")から翌年[1月1日](../Page/1月1日.md "wikilink")にかけ行われたカウントダウンライブ「RESET\>\>LIVE \*000」において、ライブ初披露された。
+        タイトルは「（あなたのもとへ）愛が羽ばたいていく\[2\]」という意味で、元々はkenが曲のイメージをhydeに伝える際に用いた言葉であった。ken曰く「曲が自分の中から一気に出てくるときはいいんだけど、徐々に出来上がっていく時は途中で曲の持つイメージが掴みにくくなることがあるんで、一言二言、イメージワードみたいなものを作っておくんですよ。"LOVE FLIES"はそういう中の一つでした\[3\]」「ギターを弾いてる時の気分っていうのかな。気張って弾くという方に走らないためにというか、情緒を感じるというか。最初の発想を匂いとして残せるような言葉にした\[4\]」という。
+        楽曲は、[1999年](../Page/1999年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")から[8月](../Page/8月.md "wikilink")にかけて行われたライブツアー「[1999 GRAND CROSS TOUR](../Page/1999_GRAND_CROSS_TOUR.md "wikilink")」で訪れた会場の景色をイメージして制作され\[5\]、作曲したkenはリリース当時、「制作から世に出るまでが一番短い曲\[6\]」と述べていた。
+        [シンセサイザー](../Page/シンセサイザー.md "wikilink")のような[電子楽器](../Page/電子楽器.md "wikilink")はほとんど使われておらず、基本的には[ギター](../Page/ギター.md "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[ドラムという](../Page/ドラムセット.md "wikilink")4人の音だけで表現されており、ギターとドラムは制作段階の初めから[Pro Toolsに音を入れて制作が行われている](../Page/Pro_Tools.md "wikilink")\[7\]。また、yukihiroは「ルーズな感じが合うんじゃないかな\[8\]」と曲を聴いて思ったといい、自身のドラムプレイに関し「この曲、聴感上はゆったり感じるかもしれないけど、テンポは遅くはないんですよ、BPM上は122ある。それより遅く聴こえるってことは、自分の意図していたことが成功したなと思います\[9\]」と述べている。
+        歌詞は、hyde曰く「砂漠を一生懸命歩いている感じ」というイメージに加え、kenの曲のイメージを合わせ手掛けられている。歌詞についてhydeは「今年っていうのが自分の中でなんかすごく感慨深い年だったんで、それを言葉の中に残したかったんです。今年から来年に向ける前向きなニュアンスを入れたいなと\[10\]」と述べている。また、この曲のコード進行がhydeが昔作った曲に似ていたことから、「その曲の詞を1行だけ使った\[11\]」と述べている。
+        ちなみに、歌詞のほとんどの部分が英詞で手掛けられている楽曲であり、kenは「最後のサビの英詞になってからがかなり好きなんですよ。この英詞の部分が曲と交わってる\[12\]」「コーラスワークもあるんだろうけど、何ていうのかな、脳みそからいろいろ溢れかえってる感じ\[13\]」と述べている。最後の大[サビ](../Page/サビ.md "wikilink")のコーラスは、音源ではhydeとtetsuyaの2人が担当しているが、ライブで披露する際はkenと[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")が担当する。
 2.  **真実と幻想と 〜out of the reality mix〜**
       - 作詞:hyde / 作曲:ken / [リミックス](../Page/リミックス.md "wikilink"):[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")
     <!-- end list -->
       -
         6thアルバム『[ark](https://ja.wikipedia.org/wiki/ark_\(アルバム\) "wikilink")』の収録曲「真実と幻想と」のyukihiroによるリミックス曲。
+        コード感を全てバラし、オリジナルと全く異なる音源となっている。この曲のベースラインについて、yukihiroは「[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")というか、[ダブ](../Page/ダブ.md "wikilink")っぽいっていうのはあるかもしれない\[14\]」と述べている。また、曲の後半において、ゲートで音をカットしている箇所があるが、「曲が一旦静かな感じになって、次また盛り上げるときに、隙間があったほうがカッコいいかなと思った\[15\]」とyukihiroは述べている。
         このリミックスとは別バージョンの「out of the reality mix \#2」が、[リミックス](../Page/リミックス.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")『[ectomorphed works](https://ja.wikipedia.org/wiki/ectomorphed_works "wikilink")』に収録されている。
 
 ## 参加ミュージシャン
@@ -74,7 +77,16 @@ L'Arc〜en〜Cielの楽曲がテレビドラマの主題歌を担当するのは
 
 1.  [LOVE FLIES Special Contents.1](http://www.sonymusic.co.jp/Music/Info/LArc-en-Ciel/LOVEFLIES/sp001.html)
 2.
-3.  『ROCKIN'ON JAPAN』2004年3月号、[ロッキング・オン](../Page/ロッキング・オン.md "wikilink")
-4.  ラジオ番組『[FLYING〜L'Arc〜ATTACK](../Page/FLYING〜L'Arc〜ATTACK.md "wikilink")』1999年10月5日放送分
-5.  『R\&R NewsMaker』、p.27、2000年10月号
-6.
+3.  『WHAT's IN?』、p.37、ソニー・マガジンズ、1999年11月号
+4.
+5.  『ROCKIN'ON JAPAN』2004年3月号、[ロッキング・オン](../Page/ロッキング・オン.md "wikilink")
+6.  ラジオ番組『[FLYING〜L'Arc〜ATTACK](../Page/FLYING〜L'Arc〜ATTACK.md "wikilink")』1999年10月5日放送分
+7.
+8.  『WHAT's IN?』、p.36、ソニー・マガジンズ、1999年11月号
+9.
+10.
+11.
+12. 『R\&R NewsMaker』、p.27、2000年10月号
+13.
+14. 『WHAT's IN?』、p.38、ソニー・マガジンズ、1999年11月号
+15.

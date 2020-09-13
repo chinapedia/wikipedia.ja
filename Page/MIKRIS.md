@@ -7,7 +7,7 @@
 
   - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身で、10代の頃に[千葉県](../Page/千葉県.md "wikilink")に引っ越してくる。[ダンス甲子園](https://ja.wikipedia.org/wiki/ダンス甲子園 "wikilink")で[ヒップホップ](../Page/ヒップホップ.md "wikilink")に目覚め、[ラジカセ](https://ja.wikipedia.org/wiki/ラジカセ "wikilink")を携えて街中を練り歩く生活を送ったが、いわゆる不良的な行動はとらず、変わった服装・言動の少年だった。
   - その後、千葉県のヒップホップシーンに入っていくときに、Mr.OMERIとも交流。また、[DELI](../Page/DELI.md "wikilink")にその才能を認められ、[2001年](../Page/2001年.md "wikilink")ごろからDELI関連の作品を中心に多数の客演をこなしていく。
-  - いつのころからか千葉県出身のMC、SESAMEやKAGEとグループ「THE DOG」を結成し、2006年にはTHE DOG名義でのミックスCDを発表、また、THE DOGのほかの二人と共に[TEAM 44 BLOXに名を連ねており](../Page/TEAM_44_BLOX.md "wikilink")、県外出身ながら、千葉県をレペゼンし続けている。
+  - いつのころからか千葉県出身のMC、SESAMEや[KGE THE SHADOWMENとグループ](https://ja.wikipedia.org/wiki/KGE_THE_SHADOWMEN "wikilink")「THE DOG」を結成し、2006年にはTHE DOG名義でのミックスCDを発表、また、THE DOGのほかの二人と共に[TEAM 44 BLOXに名を連ねており](../Page/TEAM_44_BLOX.md "wikilink")、県外出身ながら、千葉県をレペゼンし続けている。
 
 ## 人柄
 

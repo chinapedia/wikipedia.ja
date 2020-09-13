@@ -5,7 +5,7 @@
 
 ## 沿革
 
-  - [2006年](../Page/2006年.md "wikilink")2月 初代社長である[村井智建](https://ja.wikipedia.org/wiki/村井智建 "wikilink")（現[AppBank](https://ja.wikipedia.org/wiki/AppBank "wikilink")取締役）により株式会社GT-Agency 設立
+  - [2006年](../Page/2006年.md "wikilink")2月 初代社長である[村井智建](https://ja.wikipedia.org/wiki/村井智建 "wikilink")（現[AppBank](https://ja.wikipedia.org/wiki/AppBank "wikilink")株式会社 代表取締役社長）により株式会社GT-Agency 設立
   - 2006年2月 株式会社塔里木とコンテンツ展開に関して独占提携
   - 2006年7月 池袋ナンジャタウンにて「占者ストリート」　開始
   - 2006年8月 今日の運勢占いコンテンツ「Web Ad Fortune」リリース
@@ -26,7 +26,7 @@
   - 2007年10月 天気予報コンテンツの提供を開始
   - 2007年12月 Web Ad Fortune エンタ！　開始
   - 2007年12月 Web Ad Fortune 恋愛相性占い　開始
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")11月 社員の25%が退職
+  - 2008年11月 社員の25%が退職
   - 2008年12月 海外事業からの撤退表明
 
 ## 主要商品

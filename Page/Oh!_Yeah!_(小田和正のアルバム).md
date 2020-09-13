@@ -120,7 +120,7 @@
 
 {{-}}
 
-  - CHIKUZEN SATO - [SING LIKE TALKING](https://ja.wikipedia.org/wiki/Sing_Like_Talking "wikilink")
+  - CHIKUZEN SATO - [SING LIKE TALKING](https://ja.wikipedia.org/wiki/SING_LIKE_TALKING "wikilink")
 
 ### 恋は大騒ぎ
 

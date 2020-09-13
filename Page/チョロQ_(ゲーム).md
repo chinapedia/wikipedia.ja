@@ -25,7 +25,7 @@
 
 :\* [1996年](../Page/1996年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")発売
 
-:\* 作曲＆効果音担当：中野恭宏、田辺文雄
+:\* 音楽＆効果音：中野 恭宏、[田辺 文雄](https://ja.wikipedia.org/wiki/田辺文雄 "wikilink")
 
   -
     「チョロQ」シリーズ第1作目。
@@ -36,7 +36,7 @@
 
 :\* 1996年[12月6日](../Page/12月6日.md "wikilink")発売
 
-:\* 作曲＆効果音担当：中野恭宏、田辺文雄
+:\* 音楽＆効果音：中野 恭宏、[田辺 文雄](https://ja.wikipedia.org/wiki/田辺文雄 "wikilink")
 
   -
     一作目[チョロQの廉価版](https://ja.wikipedia.org/wiki/チョロQ_\(プレイステーション\) "wikilink")(PlayStation the Best)。
@@ -47,7 +47,7 @@
 
 :\* [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")発売
 
-:\* 作曲＆効果音担当：中野恭宏、[本山明燮](https://ja.wikipedia.org/wiki/本山明燮 "wikilink")、田辺文雄、[梅垣ルナ](https://ja.wikipedia.org/wiki/梅垣ルナ "wikilink")
+:\* 音楽＆効果音：中野 恭宏、[本山 明燮](https://ja.wikipedia.org/wiki/本山明燮 "wikilink")、[田辺 文雄](https://ja.wikipedia.org/wiki/田辺文雄 "wikilink")、[梅垣 留奈](https://ja.wikipedia.org/wiki/梅垣ルナ "wikilink")
 
   -
     「チョロQ」シリーズ第2作目。
@@ -56,7 +56,7 @@
 
 :\* [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月19日](../Page/2月19日.md "wikilink")発売
 
-:\* 作曲&効果音担当：[梅垣ルナ](https://ja.wikipedia.org/wiki/梅垣ルナ "wikilink")、[本山明燮](https://ja.wikipedia.org/wiki/本山明燮 "wikilink")　/作曲担当：田辺文雄、[石村睦](https://ja.wikipedia.org/wiki/石村睦 "wikilink")　/エンジニア：中野恭宏
+:\* 音楽&効果音：[梅垣 留奈](https://ja.wikipedia.org/wiki/梅垣ルナ "wikilink")、[本山 明燮](https://ja.wikipedia.org/wiki/本山明燮 "wikilink")　／　音楽：[田辺 文雄](https://ja.wikipedia.org/wiki/田辺文雄 "wikilink")、[石村 睦](https://ja.wikipedia.org/wiki/石村睦 "wikilink")　／　サウンド・エンジニア：中野 恭宏
 
   -
     「チョロQ」シリーズ第3作目。
@@ -66,6 +66,8 @@
 :\* 1998年[2月25日](../Page/2月25日.md "wikilink")発売
 
 :\* 開発：[アストロビジョン](../Page/アストロビジョン.md "wikilink")
+
+:\* 音楽：星 弘泰
 
   -
     チョロQの戦闘機版。前作までと違い、[パイロットとして](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")[アニメ](../Page/アニメ.md "wikilink")調のキャラクター（ボイス付き）が登場するという異色作。パイロット毎にどの戦闘機かが決まっており、戦闘機はそれぞれ武器や性能などが違う。様々なステージで空賊団を撃退し悪の野望を阻止するのが目的。
@@ -78,7 +80,7 @@
 
 :\* 開発：ネクステック（現[ネクスエンタテインメント](../Page/ネクスエンタテインメント.md "wikilink")）
 
-:\* 作曲＆効果音担当：葛岡善哉
+:\* 作曲＆効果音：葛岡 善哉
 
   -
     唯一の[セガサターン](../Page/セガサターン.md "wikilink")ソフトの作品。。この作品では、エンジンを「ぜんまい」の「ネジ」と称しているが、やはり引いてチャージする概念はない。カスタマイズするのではなく、あらかじめ用意された性能の決まったチョロQをコース上のポイントに配置してリレー形式でレースをする。レースで優勝したり、コース上のコインを全て拾ったりなどとすると新しいチョロQが手に入る。また、ライバル車にぶつけるタイヤ、コース上に撒いてスピンさせるオイルという妨害アイテムもある。
@@ -89,7 +91,9 @@
 
 :\* 開発：バーンハウスエフェクト
 
-:\* 作曲担当：[山田靖子](https://ja.wikipedia.org/wiki/山田靖子 "wikilink")、Morrigan、ギター演奏：小川敬介
+:\* 音楽：[山田 靖子](https://ja.wikipedia.org/wiki/山田靖子 "wikilink")、土谷 忠寛
+
+\*: ギター演奏：小川 敬介
 
   -
     [船舶](https://ja.wikipedia.org/wiki/船舶 "wikilink")や[潜水艦](../Page/潜水艦.md "wikilink")でのレースの他に制限時間内に条件を満たすとクリアとなるミッションがある。
@@ -107,7 +111,13 @@
 
 :\* 開発：LOCOMOTIVE
 
-:\* サウンド - 指揮：AKIKO HIDA、音楽：KAZUHISA KAMIFUJI、効果音：HIROKO OGIHARA
+:\* SOUND
+
+:\* 　CONDUCTOR：AKIKO HIDA
+
+:\* 　MUSIC：KAZUHISA KAMIFUJI
+
+:\* 　SOUND EFFECT：HIROKO OGIHARA
 
   -
     初の[任天堂](../Page/任天堂.md "wikilink")ゲーム機による発売。
@@ -132,7 +142,7 @@
 
 :\* 開発：バーンハウスエフェクト
 
-:\* 作曲＆効果音担当：[佐藤天平](../Page/佐藤天平.md "wikilink")
+:\* サウンド＆音楽：[佐藤 天平](../Page/佐藤天平.md "wikilink")
 
   -
     チョロQを戦車（Qタンク）に、コースをマップに置き換えたような作りになっており、ミッションをクリアすることで新たなマップが現れる。戦車にはカスタムタンクとノーマルタンクが存在し、カスタムタンクは入手したパーツで強化することが可能で、ノーマルタンクは性能が戦車ごとに固定されている。またドラゴンタンクやホバー戦車などのオリジナルタンクもノーマルタンクとして使える。また、ノーマルタンクはクリアしていないミッションには使用できない。燃料や装甲、重量等の概念があるため、ミッションに応じたセッティングが必要となる。また各ステージ上にある宝箱にレアアイテムやシークレットタンクが入っている。また、超重戦車や試作段階の戦車も多数登場する。
@@ -154,7 +164,7 @@
 
 :\* 開発：E-GAME
 
-:\* 作曲＆効果音担当：田辺文雄
+:\* 音楽＆効果音：[田辺 文雄](https://ja.wikipedia.org/wiki/田辺文雄 "wikilink")
 
   -
     初のE-GAMEによる制作作品。チョロQ3の「チョロQシティ」よりさらに町の数を増やし、レースを制しつつ各町でのイベントをクリアしていくという**ストーリー形式の道を確立**。RPG色の強い作品。
@@ -175,7 +185,9 @@
 
 :\* 開発：LOCOMOTIVE
 
-:\* 音楽：KAZUHISA KAMIFUJI、効果音：HIROKO OGIHARA
+:\* 音楽：KAZUHISA KAMIFUJI
+
+:\* 効果音：HIROKO OGIHARA
 
   -
     前作「チョロQ64」の好評により発売された。数多くのゲームタイトル名に『64』と付いているゲームタイトル名の中では唯一ナンバリングを付いている。タカラ最後のNINTENDO64ソフト。前作との主な違いはコース上に置かれたコインにより、攻撃アイテムの使用許容数を増やすことができるようになったことと、インターフェース面の一新である（タイトル画面の画像は前作と同一）。続編は発売されていない。
@@ -194,7 +206,7 @@
 
 :\* [2000年](../Page/2000年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")発売
 
-:\* サウンド：[山田靖子](https://ja.wikipedia.org/wiki/山田靖子 "wikilink")、なかざわたかすけ
+:\* サウンド：[やまだ やすこ](https://ja.wikipedia.org/wiki/山田靖子 "wikilink")、なかざわ たかすけ
 
   -
     前作「チョロQ ハイパーカスタマブルGB」とは違い「チョロQ ワンダフォー\!」のように人間ではなくチョロQ同士が会話をするようになった。また、チョロQコインやスタンプを集める要素もある。レースのシステムは前作と同じだが、今作ではボディが「パーフェクトボディ」と「ノーマルボディ」の二種類がありパーフェクトボディのみ、しんかショップでジャンプモードやドリフトモードなどに進化ができる。
@@ -209,7 +221,7 @@
 
 :\* 開発：バーンハウスエフェクト
 
-:\* 作曲＆効果音担当：[佐藤天平](../Page/佐藤天平.md "wikilink")
+:\* サウンド＆作曲：[TENPEI SATO](../Page/佐藤天平.md "wikilink")\&TEMPEI ARTISTS
 
   -
     初回限定版として玩具版チョロQ「[ランサー・エボリューション](https://ja.wikipedia.org/wiki/ランサー・エボリューション "wikilink")3 ラリーアートカラーバージョン」と着せ替え人形[ジェニー](../Page/ジェニー.md "wikilink")のオリジナルバージョン「レースクイーンジェニー」を同梱の『チョロQジェニーハイグレードBOX』が発売。コンバットチョロQやQボート開発を手がけてきたバーンハウスエフェクトによる初のPS2作品。ゲーム内容としてはチョロQ2から続いていたタウン要素を廃止し、[ライセンス](../Page/ライセンス.md "wikilink")や[洗車](https://ja.wikipedia.org/wiki/洗車 "wikilink")などの要素が組み込まれ、ボディに重量の要素（重量が重い程弾かれにくい）を導入し今までなかったボディの性能差が発生した。また、シリーズで唯一オープニングに歌詞が付いている。なお、[モアイ像](https://ja.wikipedia.org/wiki/モアイ像 "wikilink")やフライドチキンなどシリーズ恒例のお笑い系ボディも多数存在する（ロボットやフライドチキンはこの作品のみの登場）。
@@ -224,7 +236,7 @@
 
 :\* 開発：[エレクトロニクス・アプリケーションズ](https://ja.wikipedia.org/wiki/エレクトロニクス・アプリケーションズ "wikilink")
 
-:\* 作曲＆効果音担当：[山田靖子](https://ja.wikipedia.org/wiki/山田靖子 "wikilink")
+:\* サウンド：＜REEB＞　[山田 靖子](https://ja.wikipedia.org/wiki/山田靖子 "wikilink")
 
   -
     レースで入賞する毎に新たなコースが現れ、全てのコースで入賞すると次のエリアに行けるようになっている。エリアには「サーキットエリア」「ネイチャーエリア」「バトルエリア」「アクアエリア」「アトラクションエリア」の5つがあり、マリンエリアではスクリューもしくはジェットを装備して水上走行することになる。バトルエリアではキャタピラと武器を装備し、コース上の弾薬を拾うことで相手を攻撃できるようになるが、キャタピラでネイチャーエリアのコースを走行したり通常のタイヤでバトルエリアを走行したりはできない。またバトルエリアではMTは使用不可となる。コースは基本的に平面だが、凸凹な地面やジャンプパネル等があり、GBAソフトのわりにはコースの種類が豊富で形状も変化に富んでいる。また消耗品のオイルを使用（装備）することにより、そのレースのみ加速力を上げることもできる。
@@ -237,7 +249,7 @@
 
 :\* 開発：E-GAME
 
-:\* 作曲＆効果音担当：田辺文雄
+:\* 音楽＆効果音：[田辺 文雄](https://ja.wikipedia.org/wiki/田辺文雄 "wikilink")
 
 :\* ラジオ局：Pink Sardine
 
@@ -276,10 +288,12 @@
 
 :\* 開発：バーンハウスエフェクト
 
-:\* 作曲担当：[山田靖子](https://ja.wikipedia.org/wiki/山田靖子 "wikilink")、効果音担当：安藤童太
+:\* ミュージック・コンポーザー：[山田 靖子](https://ja.wikipedia.org/wiki/山田靖子 "wikilink")
+
+:\* サウンド・エフェクト：安藤 童太
 
   -
-    バーンハウスエフェクトの戦車・格闘版チョロQの第二作。上官の指導で味方軍とともにミッションに参戦し、敵軍を倒していくストーリーを展開。また、BHE作品として初めてタムソフトやE-game社のような「町を探索する要素」が盛り込まれた。
+    バーンハウスエフェクトの戦車・格闘版チョロQの第二作。上官の指導で味方軍とともにミッションに参戦し、敵軍を倒していくストーリーを展開。また、BHE作品として初めてタムソフトやE-GAME社のような「町を探索する要素」が盛り込まれた。
 
     作戦、ミニゲーム、バトルアリーナをクリアすることで戦車が入手可能。
 
@@ -295,7 +309,7 @@
 
 :\* 2002年[8月8日](../Page/8月8日.md "wikilink")発売
 
-:\* サウンドスタッフ：HIROSHI IIZUKA
+:\* SOUND STAFF：HIROSHI IIZUKA
 
   -
     これまでのコンバットチョロQから一転し、ヘクス（六角形のマス）を使用した[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")となっている。また、戦車毎に名前や性格、能力値が設定されており、敵を倒したり選択肢を選んだりすることで成長していく。チョロQ同士で会話したりとどちらかといえば低年齢向けにキャラクター化されているが、武器とシールドに相性があり、またユニットの配置による支援効果や特殊効果のあるフォーメーションがある。
@@ -308,7 +322,7 @@
 
 :\* 開発：[エレクトロニクス・アプリケーションズ](https://ja.wikipedia.org/wiki/エレクトロニクス・アプリケーションズ "wikilink")
 
-:\* 作曲＆効果音担当：有限会社リーブ
+:\* サウンド：リーブ
 
   -
     チョロQアドバンスの続編。前作の基本的に平面なコースと違って軽くうねる程度の高低差があるコースになり、雨や雪が降る演出も加わった。コースの数は多いものの、四角の枠内にコースを押し込めたような形になっているため、どれも同じような長さのコースになっている。また、コースそのものも前作と比べると短くなっているため、コース数が豊富なわりには変化に乏しい。コースには通常の路面の他に川や海、空などがあり、水上はフロート、空中はジェットやプロペラなどのパーツを付けて走ることになる。バトルコースでは、前作のバトルエリアで必要だったキャタピラや武器パーツは無くなり、代わりにコース上に落ちているアイテムを拾って攻撃という形になった。操作面での変化は、マニュアルミッションが無くなった代わりにRボタンと十字キーの操作で跳ねつつドリフトをすることができるようになった。
@@ -323,7 +337,7 @@
 
 :\* 開発：E-game社
 
-:\* 作曲＆効果音担当：田辺文雄
+:\* 音楽＆効果音：[田辺 文雄](https://ja.wikipedia.org/wiki/田辺文雄 "wikilink")
 
   -
     オモチャのチョロQが抽選で貰えた。車種は、[チョロQモータース](https://ja.wikipedia.org/wiki/チョロQモータース "wikilink")の電気自動車、「キューノ(Q-Car-QUNO)」の「ファイヤーステッカー」バージョンである。
@@ -352,7 +366,11 @@
 
 :\* 2002年[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")発売
 
-:\* サウンドディレクター：TOMOYUKI HAMADA、BGM：SATOSHI MIYASHITA、YASUTAKA HATADE、TOMOYUKI HAMADA、SE：MANABU FUJIKI
+:\* サウンドディレクター：TOMOYUKI HAMADA
+
+:\* BGM：SATOSHI MIYASHITA、YASUTAKA HATADE、TOMOYUKI HAMADA
+
+:\* SE：MANABU FUJIKI
 
   -
     PSハード系列の「かっこよさ」と任天堂ハード系列の「おもしろさ」を折衷した仕上がりとなっている。特徴としては、操作する車は**おもちゃのチョロQ**という設定であること。車がひっくり返ったり、一部のコースを子供部屋や公園・学校などが舞台になっているなど、玩具としてのリアルさが出ている。4人対戦を可能としている点はN64版と変わらない。
@@ -369,16 +387,14 @@
 
 :\* 開発：BHE社
 
-:\* 作曲＆効果音担当：葛岡善哉
+:\* 作曲＆効果音：葛岡 善哉
 
   -
     ハイグレードシリーズ4作目にて、再び初代ハイグレードと同様のBHE社による制作。「登場キャラがチョロQのRPG」と言う様なテイストの作品。ストーリーも存在し、たくさんのレースに勝ち、最後にはグランプリに出場し優勝するのが最終目的となっている。HG2の仲間参戦も復活、グランプリはワークスのキャラクターと一緒に出られる。
 
     ボディは200種を超えており、チョロQゲーム初の三輪自動車（[ダイハツ・ミゼット](../Page/ダイハツ・ミゼット.md "wikilink")、[ダイハツ・Bee](../Page/ダイハツ・Bee.md "wikilink")、[富士自動車・フジキャビン](https://ja.wikipedia.org/wiki/富士自動車・フジキャビン "wikilink")　など）、六輪自動車（[ティレル・P34](https://ja.wikipedia.org/wiki/ティレル・P34 "wikilink")、三菱ふそう・ダブルルーキー　など）などが登場したほか、人生カーが久々に登場した。また、[ティーガーI](../Page/ティーガーI.md "wikilink")や[新幹線E4系電車](../Page/新幹線E4系電車.md "wikilink")といったタイヤが隠れるボディもあり、オープンカーや[アウディ・R8 (レーシングカー)](../Page/アウディ・R8_\(レーシングカー\).md "wikilink")、フォーミュラカーも登場するがコックピット部分に玩具のチョロQのゼンマイが出ている。また、ゲーム中にて一定条件を満たすとプレイヤーの手でデザインを変更できるボディが入手可能。
 
-    本作ではゲーム中に一定条件を満たすとプレイヤーの手でパーツが作れるようになり、特定のアイテムを組み合わせることでパーツが作れる（たとえば「サイバータイヤ」を作る場合、「ガラスせんい」と「タイヤのもと」で作れる）。
-
-    チョロQジェットを除き唯一ゲームオーバーが存在する。
+    本作ではゲーム中に一定条件を満たすとプレイヤーの手でパーツが作れるようになり、特定のアイテムを組み合わせることでパーツが作れる（たとえば「サイバータイヤ」を作る場合、「ガラスせんい」と「タイヤのもと」で作れる）。 特定の条件で発生するミニゲームやアイテムをもらえる条件があり、ストーリー進行の都合上、通常プレイで一度ゲームクリアしてしまうと、全てのミニゲームをクリアできない、アイテムをもらえないことがあるので、注意が必要である（デバッグモードでは全アイテムを揃えることが可能である）。チョロQジェットを除き唯一ゲームオーバーが存在する。
 
     『バイオハザード』などへのオマージュなのかパッケージのジャケットに“**このゲームには友情シーンやフレンドリーな表現が含まれています。**”との表示が描かれている。また、公式サイトには“**あの映画「Cars」の原点となった**”と書かれている。
 
@@ -388,7 +404,11 @@
 
 :\* [2005年](../Page/2005年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")発売
 
-:\* サウンドディレクター：[山田靖子](https://ja.wikipedia.org/wiki/山田靖子 "wikilink")、効果音担当：安藤童太、作編曲担当：[山田靖子](https://ja.wikipedia.org/wiki/山田靖子 "wikilink")、小川敬介、鈴木康行、石井吉幸
+:\* サウンドディレクション：[山田靖子](https://ja.wikipedia.org/wiki/山田靖子 "wikilink")
+
+:\* 効果音：安藤童太
+
+:\* 作・編曲：[山田 靖子](https://ja.wikipedia.org/wiki/山田靖子 "wikilink")、小川 敬介、鈴木 康行、石井 吉幸
 
   -
     この作品のみアトラス社の販売である。今回は主にイベント重視で、建築、輸送、破壊、畜産と多様なジャンルのミニゲームを作り、またこれに伴いパーツの一種としてクレーン、パワーシャベル、レッカー、トレーラー、耕運機、消火ポンプなどの**ワークパーツ**が存在する。そして、様々な仕事をクリアした上で各町で仕事の頂点に君臨する者（マスター）を倒していくというストーリーである。[グラフィック](../Page/グラフィック.md "wikilink")面ではチョロQの描写に[トゥーンシェイドを用いていて](../Page/トゥーンレンダリング.md "wikilink")、今までのリアル感が一転、おもちゃっぽさや温かみを出したものになっている。また、各[自動車会社](https://ja.wikipedia.org/wiki/自動車会社 "wikilink")とコンタクトをとり、登場ボディが実車名になった。しかし、その代わりボディ全体の登場数は前作と比べて大幅に減っている上にCPUのみしか使えないボディまであり、さらにチョロQシリーズの骨子であったレースを大幅に省略している。
@@ -401,7 +421,7 @@
 
 :\* 開発：バーンハウスエフェクト
 
-:\* 作曲＆効果音担当：葛岡善哉
+:\* 作曲＆効果音：葛岡 善哉
 
   -
     初の[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ソフトで現時点でのゲームソフトとしては最新作。発売元は[タカラトミー](../Page/タカラトミー.md "wikilink")。今作では、[Wiiリモコン](../Page/Wiiリモコン.md "wikilink")を横向きに持ち、車のハンドルに見立てて左右に傾けることでチョロQを操作する。また、Wiiリモコンを振ってエネルギーをチャージすれば猛ダッシュも可能。ボディは70種類（140バージョン）の車種が実名で登場。アヒル型や戦車といった変わり種のボディもある。ゲームモードは、レースを勝ち進んでポイントを稼ぎ、最後にボスチョロQ（計5台）と対戦する「ひとりであそぶ」モード、最大4分割で対戦が出来る「みんなであそぶ」モード、チョロQがあらかじめ用意された「とにかくあそぶ」モードなどがある。グラフィックは、チョロQHG4や前作のチョロQワークスのような[トゥーンシェイドを採用している](../Page/トゥーンレンダリング.md "wikilink")。グラフィックも良くパーツも豊富だが、パーツの種類が簡素化されコースが少ない（約7ヶ所）。また、今まで続いてきた「ストーリー」「タウン要素」などが廃止された。
@@ -626,7 +646,7 @@
   - [ARコンバットデジQ -ともだち戦車隊-の公式サイト](http://www.konami.jp/products/combat-digiq_vita)
   - [Pink Sardine.](http://www5f.biglobe.ne.jp/~bunguitar/band/) HG2にてラジオ番組を担当
 
-[Category:チョロQシリーズ](https://ja.wikipedia.org/wiki/Category:チョロQシリーズ "wikilink") [Category:コンピュータゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのシリーズ "wikilink") [Category:レースゲーム](https://ja.wikipedia.org/wiki/Category:レースゲーム "wikilink") [Category:パズルゲーム](https://ja.wikipedia.org/wiki/Category:パズルゲーム "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:NINTENDO64用ソフト](https://ja.wikipedia.org/wiki/Category:NINTENDO64用ソフト "wikilink") [Category:ゲームキューブ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームキューブ用ソフト "wikilink") [Category:Wii用ソフト](https://ja.wikipedia.org/wiki/Category:Wii用ソフト "wikilink") [Category:ゲームボーイ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイ用ソフト "wikilink") [Category:ゲームボーイアドバンス用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイアドバンス用ソフト "wikilink") [Category:PC-8800用ゲームソフト](https://ja.wikipedia.org/wiki/Category:PC-8800用ゲームソフト "wikilink") [Category:1996年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1996年のコンピュータゲーム "wikilink")
+[Category:チョロQシリーズ](https://ja.wikipedia.org/wiki/Category:チョロQシリーズ "wikilink") [Category:コンピュータゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのシリーズ "wikilink") [Category:カーレースゲーム](https://ja.wikipedia.org/wiki/Category:カーレースゲーム "wikilink") [Category:パズルゲーム](https://ja.wikipedia.org/wiki/Category:パズルゲーム "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:NINTENDO64用ソフト](https://ja.wikipedia.org/wiki/Category:NINTENDO64用ソフト "wikilink") [Category:ゲームキューブ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームキューブ用ソフト "wikilink") [Category:Wii用ソフト](https://ja.wikipedia.org/wiki/Category:Wii用ソフト "wikilink") [Category:ゲームボーイ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイ用ソフト "wikilink") [Category:ゲームボーイアドバンス用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイアドバンス用ソフト "wikilink") [Category:PC-8800用ゲームソフト](https://ja.wikipedia.org/wiki/Category:PC-8800用ゲームソフト "wikilink") [Category:1996年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1996年のコンピュータゲーム "wikilink")
 
 1.  [チョロQグランプリアプリの詳細｜アプリ取り放題 - auスマートパス](http://pass.auone.jp/app/detail?app_id=7897510000001)
 2.

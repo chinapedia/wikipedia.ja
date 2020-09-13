@@ -13,9 +13,13 @@
 
 [ニューヨーク](../Page/ニューヨーク.md "wikilink")にてコーラス、サックス（元[タワー・オブ・パワー](../Page/タワー・オブ・パワー.md "wikilink")の[レニー・ピケット](https://ja.wikipedia.org/wiki/レニー・ピケット "wikilink")が担当）の[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")、そしてミックスダウンを行っている。なお、コーラスには、小室が楽曲を提供するなどの縁もあって[渡辺美里](../Page/渡辺美里.md "wikilink")が参加している。
 
+小室の「ダンサブルな音楽は昔からやりたかった。アメリカの[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")・[モータウン](../Page/モータウン.md "wikilink")の音楽をルーツにしているヨーロッパの人達と同じ所に行きたい。ヨーロッパの方から見たら“Far East（極東）”ではあるんだけど、同じルーツの音楽を違う解釈で作ったら、同じレベルになったという所までやりたい」という意向から、エンジニアに[ジェリービーンが起用された](https://ja.wikipedia.org/wiki/:en:John_Benitez "wikilink")\[1\]。
+
+アメリカのスタッフからは「ヨーロッパディスコのヒットパターンだね」「オリエンタルな部分もある」と言われた。小室は「イントロは正にそう取られる様に作っていた。アメリカの受け止められ方と自分が考えていたことにズレはなかった」と答えている\[2\]。
+
 カップリング曲は、同じくアルバム先行曲の「**You can Dance**」、「Come on Let's Dance」の[リミックス](../Page/リミックス.md "wikilink")バージョンである「**Come On Let\`s Dance (The SAINT MIX)**」が収録されている。
 
-[宇都宮隆](https://ja.wikipedia.org/wiki/宇都宮隆 "wikilink")は「自分なりの16ビートのタイム感がつかめた大きなきっかけとなった1曲」と語っている\[1\]。
+[宇都宮隆](https://ja.wikipedia.org/wiki/宇都宮隆 "wikilink")は「自分なりの16ビートのタイム感がつかめた大きなきっかけとなった1曲」と語っている\[3\]。
 
 [1989年](../Page/1989年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")にタレントの[彦摩呂](../Page/彦摩呂.md "wikilink")が所属していたパフォーマンスグループ「**[幕末塾](../Page/幕末塾.md "wikilink")**」によって[カバーされている](https://ja.wikipedia.org/wiki/カバー#カバー（楽曲） "wikilink")。
 
@@ -59,4 +63,6 @@
 
 [Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:エピックレコードジャパンのシングル](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのシングル "wikilink") [Category:TM_NETWORKの楽曲](https://ja.wikipedia.org/wiki/Category:TM_NETWORKの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:ダンスを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:ダンスを題材とした楽曲 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink") [Category:楽曲_か](https://ja.wikipedia.org/wiki/Category:楽曲_か "wikilink")
 
-1.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[ギターブック](https://ja.wikipedia.org/wiki/ギターブック "wikilink")』 1997年1月号11Pより。
+1.  [自由国民社](../Page/自由国民社.md "wikilink")刊『[シンプジャーナル](https://ja.wikipedia.org/wiki/シンプジャーナル "wikilink")』1986年8月号「TM NETWORK ツアー直前インタビュー 金色のDISCO DREAM」18Pより。
+2.
+3.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[ギターブック](https://ja.wikipedia.org/wiki/ギターブック "wikilink")』 1997年1月号11Pより。

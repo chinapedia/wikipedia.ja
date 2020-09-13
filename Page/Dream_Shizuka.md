@@ -81,7 +81,7 @@ LDH PERFECT YEAR 2020 SPECIAL STAGE 〜MUSIC BOX〜
 
 <div class="NavContent" style="text-align: left;">
 
-  - <s>3月29日：東京・[ステラボール](https://ja.wikipedia.org/wiki/ステラボール "wikilink")</s>（新型ウイルスによる政府の自粛要請に従い中止）
+  - <s>3月29日：東京・[ステラボール](https://ja.wikipedia.org/wiki/ステラボール "wikilink")</s>（新型コロナウイルスによる政府の自粛要請に従い中止）\[19\]
 
 </div>
 
@@ -93,7 +93,7 @@ LDH PERFECT YEAR 2020 SPECIAL STAGE 〜MUSIC BOX〜
 
 <div class="NavHead" style="text-align: left;">
 
-MUSIC BOX Christmas Special Night\[19\]
+MUSIC BOX Christmas Special Night\[20\]
 
 </div>
 
@@ -152,11 +152,11 @@ E.G. POWER 2019 〜POWER to the DOME〜
 
 ### テレビドラマ
 
-  - [恋文日和](https://ja.wikipedia.org/wiki/恋文日和#テレビドラマ "wikilink")（2014年1月 - 3月、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - キヨミ 役\[20\]\[21\]
+  - [恋文日和](https://ja.wikipedia.org/wiki/恋文日和#テレビドラマ "wikilink")（2014年1月 - 3月、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - キヨミ 役\[21\]\[22\]
 
 ### 短編映画
 
-  - Red Skies at Night（2015年） - 主演・Flower 役\[22\]
+  - Red Skies at Night（2015年） - 主演・Flower 役\[23\]
 
 ### 舞台
 
@@ -166,11 +166,11 @@ E.G. POWER 2019 〜POWER to the DOME〜
 
 ### ラジオ
 
-  - Dream Shizukaの dream a Dream（2019年4月 - 、[FM OH\!](../Page/エフエム大阪.md "wikilink")）\[23\]\[24\]
+  - Dream Shizukaの dream a Dream（2019年4月 - 、[FM OH\!](../Page/エフエム大阪.md "wikilink")）\[24\]\[25\]
 
 ### その他
 
-  - [ふるさと祭り東京 〜日本のまつり・故郷の味〜](https://ja.wikipedia.org/wiki/ふるさと祭り東京_〜日本のまつり・故郷の味〜 "wikilink")（2018年\[25\]） - 日本の祭りナビゲーター
+  - [ふるさと祭り東京 〜日本のまつり・故郷の味〜](https://ja.wikipedia.org/wiki/ふるさと祭り東京_〜日本のまつり・故郷の味〜 "wikilink")（2018年\[26\]） - 日本の祭りナビゲーター
 
 ## 脚注
 
@@ -204,3 +204,4 @@ E.G. POWER 2019 〜POWER to the DOME〜
 23.
 24.
 25.
+26.

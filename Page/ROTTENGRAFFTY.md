@@ -91,7 +91,7 @@
 <!-- end list -->
 
   - アルバム『SYNCHRONICITIZM』のプロデューサーに[Dragon AshのIKUZONEを迎えている](../Page/Dragon_Ash.md "wikilink")。これはIKUZONEからの申し出から叶ったことであった。
-  - 2003年に参加した『[BOOWY Respect](../Page/BOOWY_Respect.md "wikilink")』では「MARIONETTE」がやりたかったが、N∀OKIの「モラルの無い『MORAL』やりたい」というところからカバーする経緯になった。
+  - 2003年に参加した『[BOØWY Respect](https://ja.wikipedia.org/wiki/BOØWY_Respect "wikilink")』では「MARIONETTE」がやりたかったが、N∀OKIの「モラルの無い『MORAL』やりたい」というところからカバーする経緯になった。
   - アルバム『Walk』収録の「D.A.N.C.E.」は急死した[馬場育三](https://ja.wikipedia.org/wiki/馬場育三 "wikilink")へ向けて作られた歌で、歌詞中にも「IKÜZÖNE」が登場する\[12\]。
 
 <!-- end list -->
@@ -107,7 +107,7 @@
   - **[2003年](../Page/2003年.md "wikilink")**
       - 自主レーベル『BEDTIME FOR DEMOCRACY』を立ち上げ。
       - 3月 - [プロデューサーに](../Page/音楽プロデューサー.md "wikilink")[Dragon Ashの](../Page/Dragon_Ash.md "wikilink")**[IKÜZÖNE](https://ja.wikipedia.org/wiki/馬場育三 "wikilink")**を迎え3rdミニアルバム『[SYNCHRONICITIZM](https://ja.wikipedia.org/wiki/SYNCHRONICITIZM "wikilink")』をリリース。
-      - 11月6日 - IKÜZÖNEプロデュースにより、メジャー第一弾シングル『[悪巧み〜Merry Christmas Mr.Lawrence](https://ja.wikipedia.org/wiki/悪巧み〜Merry_Christmas_Mr.Lawrence "wikilink")』をリリース。このタイトル曲は[坂本龍一](../Page/坂本龍一.md "wikilink")による「[戦場のメリークリスマスのテーマ](https://ja.wikipedia.org/wiki/メリー・クリスマス・ミスター・ローレンス "wikilink")」にロットングラフティー流のアレンジを施し、それにオリジナル曲の「悪巧み」を融合させたもので、そのインパクトは各地で話題となった。
+      - 11月6日 - IKÜZÖNEプロデュースにより、メジャー第一弾シングル『[悪巧み〜Merry Christmas Mr.Lawrence](https://ja.wikipedia.org/wiki/悪巧み〜Merry_Christmas_Mr.Lawrence "wikilink")』をリリース。このタイトル曲は[坂本龍一](../Page/坂本龍一.md "wikilink")による「[戦場のメリークリスマスのテーマ](https://ja.wikipedia.org/wiki/メリー・クリスマス・ミスター・ローレンス "wikilink")」にロットングラフティー流のアレンジを施し、それにオリジナル曲の「悪巧み」を融合させたもの。
   - **[2005年](../Page/2005年.md "wikilink")**
       - 3月 - [マキシマム ザ ホルモンのナヲがゲストコーラスとして参加した](https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン "wikilink")「RATMAN」収録の『えきさぴこ』をリリース。その後、キングレコードとの契約を解消してフリーとなるも、活発に全国展開のライヴ活動を行う。
   - **[2006年](../Page/2006年.md "wikilink")**
@@ -818,7 +818,7 @@ VICL-65344～65345(通常盤)</p></td>
 <li>DISC 3(Compiled with Cover &amp; Collaboration Songs、数量限定20thアニヴァーサリー・ボックス・セット/完全生産限定盤)</li>
 </ul>
 <ol>
-<li>MORAL(2003年発表、『<a href="../Page/BOOWY_Respect.md" title="wikilink">BOØWY Respect</a>』収録)</li>
+<li>MORAL(2003年発表、『<a href="https://ja.wikipedia.org/wiki/BOØWY_Respect" title="wikilink">BOØWY Respect</a>』収録)</li>
 <li>マジンガーZ(2005年発表、『GO ! GO ! NAGAI Tribute to the 永井豪』収録)</li>
 <li>RAT FINK(2006年発表、『GELUGUGU AMIGOS』収録)</li>
 <li>HOLD IN LOVE［赤い雨につつまれて］(2010年発表、『ピエロとスイカと88ライダー』収録)</li>

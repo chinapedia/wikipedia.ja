@@ -15,15 +15,15 @@
 
 ジャケットキービジュアルおよびアートワークに関しては、生々しい裸の姿が当時の若者らが大きな反響を呼び、同日にリリースされた「LOVEppears」を『白アユ』、本シングルを『黒アユ』というネーミングブームが定着した。アルバム撮影の際、浜崎は「ジャケット・アイデアは、スタッフとの打ち合わせで、Ayuが言った意見。エーッ？ って思うかもしれないけど、“上半身は洋服なし！胸は髪の毛で隠しちゃえ”みたいな感じで、アッという間に決まって」とコメントしていた。
 
-1999年12月24日放送の『[ミュージックステーションスペシャル スーパーライブ99](../Page/ミュージックステーションスーパーライブ.md "wikilink")』にて、途中で涙ながら歌唱していた場面があった。当時、涙の理由は謎のため、いろいろ憶測を飛び交う。翌年2000年12月29日放送の『ミュージックステーションスペシャル スーパーライブ2000』では、理由を『歌唱中むせた』と発言したが、実際は、[エイベックス株式会社代表締役会長CEO](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")との破局直後だったことを、小説『[M 愛すべき人がいて](../Page/M_愛すべき人がいて.md "wikilink")』にて公表した\[4\]。　
+1999年12月24日放送の『[ミュージックステーションスペシャル スーパーライブ99](../Page/ミュージックステーションスーパーライブ.md "wikilink")』にて、途中で涙ながら歌唱していた場面があった\[4\]\[5\]。当時は涙の理由は謎のため、いろいろ憶測を呼び、翌年2000年12月29日放送の『ミュージックステーションスペシャル スーパーライブ2000』の歌唱前のトークにて理由を『歌唱中むせた』と発言したが、実際は[エイベックス株式会社代表締役会長CEOの](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")との破局直後だったことを、小説『[M 愛すべき人がいて](../Page/M_愛すべき人がいて.md "wikilink")』にて公表した\[6\]。　
 
 ## LOVEppears / appears -20th Anniversary Edition-
 
-本作「appears」およびアルバム『[LOVEppears](../Page/LOVEppears.md "wikilink")』リリースから20年後である[2019年](../Page/2019年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")に、リマスター盤「**LOVEppears / appears -20th Anniversary Edition-**」（ラヴピアーズ / アピアーズ・トゥエンティーズ・アニバーサリー・エディション）が発売された。こちらは、浜崎公認である。収録曲全てマスターテープからリマスタリングを施し\[5\]、さらに「appears」のリミックス、ライブなど複数のバージョンを1枚にコンパイルした特典ディスクに加え、収録曲のPVと完全初公開となる「Trauma」の振り付け映像が収録されたDVDが追加される。
+本作「appears」およびアルバム『[LOVEppears](../Page/LOVEppears.md "wikilink")』リリースから20年後である[2019年](../Page/2019年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")に、リマスター盤「**LOVEppears / appears -20th Anniversary Edition-**」（ラヴピアーズ / アピアーズ・トゥエンティーズ・アニバーサリー・エディション）が発売された。こちらは、浜崎公認である。収録曲全てマスターテープからリマスタリングを施し\[7\]、さらに「appears」のリミックス、ライブなど複数のバージョンを1枚にコンパイルした特典ディスクに加え、収録曲のPVと完全初公開となる「Trauma」の振り付け映像が収録されたDVDが追加される。
 
-初回生産限定盤には、縦長デジパック透明スリーヴ仕様、特設サイトアクセスカードが封入されている\[6\]。
+初回生産限定盤には、縦長デジパック透明スリーヴ仕様、特設サイトアクセスカードが封入されている\[8\]。
 
-本リリースに先駆け、浜崎の誕生日にあたる[10月2日](../Page/10月2日.md "wikilink")、デビュー曲「[poker face](https://ja.wikipedia.org/wiki/poker_face_\(浜崎あゆみの曲\) "wikilink")」から最新アルバム『[M(A)DE IN JAPAN](https://ja.wikipedia.org/wiki/M\(A\)DE_IN_JAPAN "wikilink")』までの間にリリースされた100曲以上の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が、動画サイト[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")においてフル尺で一挙解禁された\[7\]ほか、本リリース同日には、本作に収録されている「TO BE」と「appears」から2本のリリックビデオが公開された\[8\]。また10月11日には、本アルバムDISC1収録の全16曲がリマスター音源の配信が先行として行われた\[9\]。
+本リリースに先駆け、浜崎の誕生日にあたる[10月2日](../Page/10月2日.md "wikilink")、デビュー曲「[poker face](https://ja.wikipedia.org/wiki/poker_face_\(浜崎あゆみの曲\) "wikilink")」から最新アルバム『[M(A)DE IN JAPAN](https://ja.wikipedia.org/wiki/M\(A\)DE_IN_JAPAN "wikilink")』までの間にリリースされた100曲以上の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が、動画サイト[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")においてフル尺で一挙解禁された\[9\]ほか、本リリース同日には、本作に収録されている「TO BE」と「appears」から2本のリリックビデオが公開された\[10\]。また10月11日には、本アルバムDISC1収録の全16曲がリマスター音源の配信が先行として行われた\[11\]。
 
 ## 収録曲
 
@@ -133,7 +133,7 @@ Ayu（浜崎あゆみ）がヨーロッパで発売した5thシングル。[Armi
 
 ### 収録曲
 
-  - CD\[10\]
+  - CD\[12\]
 
 <!-- end list -->
 
@@ -174,10 +174,12 @@ Ayu（浜崎あゆみ）がヨーロッパで発売した5thシングル。[Armi
 1.  [アナログ盤](http://www.discogs.com/ja/Ayumi-Hamasaki-Appears-Whatever/release/140020)のみ[Rhythm REPUBLICより発売](../Page/Rhythm_REPUBLIC.md "wikilink")。
 2.  2000年[1月28日](../Page/1月28日.md "wikilink")には、6thシングル「[WHATEVER](../Page/WHATEVER_\(浜崎あゆみの曲\).md "wikilink")」と両A面のアナログ盤「[appears/WHATEVER](http://avex.jp/ayu/discography/detail.php?id=1003305)」も発売された。
 3.  [Appears Remixed By Junior Vasquez (Vinyl) at Discogs](http://www.discogs.com/ja/Ayumi-Hamasaki-Appears/release/118957)
-4.
+4.  ドラマ「[M 愛すべき人がいて](../Page/M_愛すべき人がいて.md "wikilink")」第7話(最終話・2020年7月4日放送分)では、テレビ局のスタジオからの生放送という設定で、歌唱中に涙する場面を再現するシーンがある。
 5.
 6.
 7.
 8.
 9.
-10. [Appears (CD) at Discogs](http://www.discogs.com/ja/Ayu-Appears/release/443393)
+10.
+11.
+12. [Appears (CD) at Discogs](http://www.discogs.com/ja/Ayu-Appears/release/443393)

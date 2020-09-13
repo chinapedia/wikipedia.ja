@@ -22,6 +22,7 @@
 
   - Garcia - [SUGIZO](../Page/SUGIZO.md "wikilink")『ONENESS M』収録（2017年）
   - [奥田民生](../Page/奥田民生.md "wikilink")「ライジングサン」- ゲストボーカルとして参加（2019年）
+  - [田中　貴と前後関係](https://ja.wikipedia.org/wiki/サニーデイ・サービス "wikilink")「ラーメンたべたい」「きみとラーメン」- バンドメンバーとして参加。ムック本『Ra: \[ラ\]』おまけCD収録（2015年）
 
 ## 出演
 

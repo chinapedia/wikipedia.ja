@@ -89,16 +89,14 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
 <td><p><a href="../Page/富山テレビ放送.md" title="wikilink">富山テレビ</a>(T34)</p></td>
 <td><p>1969年4月開局から。<br />
-日曜日は『<a href="../Page/中日新聞テレビ日曜夕刊.md" title="wikilink">北陸中日新聞・テレビ日曜夕刊</a>』に改題。<br />
-『中日新聞日曜夕刊』とした時期あり。現・BBT</p></td>
+日曜日は『<a href="../Page/中日新聞テレビ日曜夕刊.md" title="wikilink">中日新聞テレビ日曜夕刊</a>』と改題。現・BBT</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a></p></td>
 <td><p><a href="../Page/石川テレビ放送.md" title="wikilink">石川テレビ</a>(ITC)</p></td>
 <td><p>1969年4月開局から。<br />
-日曜日は『北陸中日新聞・テレビ日曜夕刊』に改題。<br />
-『中日新聞・テレビ日曜夕刊』とした時期あり。</p></td>
+日曜日は『<a href="../Page/中日新聞テレビ日曜夕刊.md" title="wikilink">中日新聞テレビ日曜夕刊</a>』と改題</p></td>
 <td></td>
 </tr>
 <tr class="odd">

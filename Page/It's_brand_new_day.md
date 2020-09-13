@@ -28,15 +28,12 @@
   - [photo](../Page/撮影.md "wikilink"): 塚田和徳
   - art work: seiichi komatsu (room)
 
-## 収録作品
+## 収録アルバム
 
   - 『[歌姫伝説 〜90's BEST〜](../Page/歌姫伝説_〜90's_BEST〜.md "wikilink")』\[23\]\[24\]
 
-## 参照
+## 脚注
 
-## 外部リンク
-
-  -
 [Category:中森明菜の楽曲](https://ja.wikipedia.org/wiki/Category:中森明菜の楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")
 
 1.

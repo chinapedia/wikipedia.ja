@@ -521,7 +521,7 @@
   - DEEP COUNTDOWN LIVE 2015-2016（12月31日）
   - EXILE THE SECOND LIVE TOUR 2017-2018 "ROUTE 6・6"（10月28日 - 5月24日）\[20\]
   - DEEP LIVE TOUR 2018 "THE SINGER"（11月26日 - 12月26日）
-  - LDH PERFECT YEAR 2020 SPECIAL STAGE 〜MUSIC BOX〜（<s>3月25日、4月4日</s>）新型ウイルスによる政府の自粛要請に従い中止
+  - LDH PERFECT YEAR 2020 SPECIAL STAGE 〜MUSIC BOX〜（<s>3月25日、4月4日</s>）新型コロナウイルスによる政府の自粛要請に従い中止）\[21\]
 
 ## 出演
 
@@ -536,24 +536,30 @@
 
 ### 配信
 
-  - 漢部 〜真ノ男道〜（2014年10月\[21\] - 2015年2月\[22\]、[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")）\[23\]
+  - 漢部 〜真ノ男道〜（2014年10月\[22\] - 2015年2月\[23\]、[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")）\[24\]
 
 ## DEEP SQUAD
 
-**DEEP SQUAD**（ディープ スクワッド）は、DEEPによるプロジェクト。2019年2月19日、「DEEP VOCALIST AUDITION」の開催を発表\[24\]。同年4月より始動した1次審査は、約1万2千人が参加した。同年7月22日に赤坂BLITZで最終審査を行い、DEEPと合格者によるプロジェクト「DEEP SQUAD」を発表\[25\]。
+**DEEP SQUAD**（ディープ スクワッド）は、DEEPによるプロジェクト。レーベルは[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")\[25\]。
+
+2019年2月19日、「DEEP VOCALIST AUDITION」の開催を発表\[26\]。同年4月より始動した1次審査は、約1万2千人が参加した。同年7月22日に赤坂BLITZで最終審査を行い、DEEPと合格者によるプロジェクト「DEEP SQUAD」を発表\[27\]。
 
 **DEEP以外のメンバー**
 
   - 宇原雄飛（うはら ゆうひ、[2001年](../Page/2001年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink") - ）
-      - [大阪府](../Page/大阪府.md "wikilink")出身。身長178cm\[26\]。
+      - [大阪府](../Page/大阪府.md "wikilink")出身。身長178cm\[28\]。
   - 杉山亮司（すぎやま りょうじ、[1996年](../Page/1996年.md "wikilink")[5月15日](../Page/5月15日.md "wikilink") - ）
-      - [埼玉県](../Page/埼玉県.md "wikilink")出身。身長177cm\[27\]。
+      - [埼玉県](../Page/埼玉県.md "wikilink")出身。身長177cm\[29\]。
   - 比嘉涼樹（ひが すずき、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月14日](../Page/8月14日.md "wikilink") - ）
-      - [沖縄県](../Page/沖縄県.md "wikilink")出身。身長175cm\[28\]。
+      - [沖縄県](../Page/沖縄県.md "wikilink")出身。身長175cm\[30\]。
+
+**配信シングル**
+
+  - [Get With You](../Page/Get_With_You.md "wikilink")（2020年7月22日）\[31\]
 
 **ライブ**
 
-  - LDH PERFECT YEAR 2020 SPECIAL STAGE 〜MUSIC BOX〜（<s>3月26日、4月5日</s>）新型ウイルスによる政府の自粛要請に従い中止
+  - LDH PERFECT YEAR 2020 SPECIAL STAGE 〜MUSIC BOX〜（<s>3月26日、4月5日</s>）新型コロナウイルスによる政府の自粛要請に従い中止\[32\]
 
 ## 脚注
 
@@ -564,6 +570,13 @@
   - [DEEP LINK -DEEP SQUAD OFFICIAL FAN CLUB-](https://deeplink.jp/)
 
   -
+  -
+  -
+  -
+**DEEP SQUAD**
+
+  - [DEEP SQUAD | LDH mobile](http://r.ldh-m.jp/deepsquad-official/)
+
   -
   -
   -
@@ -578,7 +591,7 @@
   - （2012年 - 2015年）
 
   -
-[Category:DEEP_(R\&B)](https://ja.wikipedia.org/wiki/Category:DEEP_\(R&B\) "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のR\&Bグループ](https://ja.wikipedia.org/wiki/Category:日本のR&Bグループ "wikilink") [Category:コーラス・グループ](https://ja.wikipedia.org/wiki/Category:コーラス・グループ "wikilink") [Category:LDH所属のアーティスト・歌手](https://ja.wikipedia.org/wiki/Category:LDH所属のアーティスト・歌手 "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink")
+[Category:DEEP_(R\&B)](https://ja.wikipedia.org/wiki/Category:DEEP_\(R&B\) "wikilink") [Category:日本のボーイ・バンド](https://ja.wikipedia.org/wiki/Category:日本のボーイ・バンド "wikilink") [Category:日本のR\&Bグループ](https://ja.wikipedia.org/wiki/Category:日本のR&Bグループ "wikilink") [Category:コーラス・グループ](https://ja.wikipedia.org/wiki/Category:コーラス・グループ "wikilink") [Category:LDH所属のアーティスト・歌手](https://ja.wikipedia.org/wiki/Category:LDH所属のアーティスト・歌手 "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink")
 
 1.
 2.
@@ -608,3 +621,7 @@
 26.
 27.
 28.
+29.
+30.
+31.
+32.

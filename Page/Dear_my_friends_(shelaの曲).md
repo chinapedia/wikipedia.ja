@@ -26,7 +26,7 @@
 
 <references />
 
-[Category:Shelaの楽曲](https://ja.wikipedia.org/wiki/Category:Shelaの楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:関西テレビ火曜10時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:関西テレビ火曜10時枠の連続ドラマの主題歌 "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink")
+[Category:Shelaの楽曲](https://ja.wikipedia.org/wiki/Category:Shelaの楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:関西テレビ火曜10時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:関西テレビ火曜10時枠の連続ドラマの主題歌 "wikilink") [Category:友達を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:友達を題材とした楽曲 "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink")
 
 1.  「GAL'S PARADISE」2006トップレースクイーン編（[三栄書房](https://ja.wikipedia.org/wiki/三栄書房 "wikilink")・2006年9月発売）より
 2.  「[SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink") 2008 〜Second Round〜」（2008年[9月10日](../Page/9月10日.md "wikilink")発売）に収録。

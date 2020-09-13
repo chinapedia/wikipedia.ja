@@ -3,7 +3,7 @@
 
 **GCOS**（ジーコス、***G**eneral **C**omprehensive **O**perating **S**ystem*）は、[メインフレーム](../Page/メインフレーム.md "wikilink")向けの[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) のファミリー。[1962年](../Page/1962年.md "wikilink")、[ゼネラル・エレクトリック](../Page/ゼネラル・エレクトリック.md "wikilink") (GE) が開発したものが起源となっており、当初の名称は GECOS (*the **G**eneral **E**lectric **C**omprehensive **O**perating **S**upervisor*)であった。
 
-今日でもごく一部で使用されている。このOS上の[プログラムは](../Page/プログラム_\(コンピュータ\).md "wikilink") GMAP[アセンブラ](../Page/アセンブリ言語.md "wikilink")、[COBOL](../Page/COBOL.md "wikilink")、[FORTRAN](../Page/FORTRAN.md "wikilink")、[ALGOL](../Page/ALGOL.md "wikilink")などで書かれることが多い。[日本電気](../Page/日本電気.md "wikilink")の[ACOS](https://ja.wikipedia.org/wiki/ACOS "wikilink")はGCOSから派生したOSである。
+今日でもごく一部で使用されている。このOS上の[プログラムは](../Page/プログラム_\(コンピュータ\).md "wikilink") GMAP[アセンブラ](../Page/アセンブリ言語.md "wikilink")、[COBOL](../Page/COBOL.md "wikilink")、[FORTRAN](../Page/FORTRAN.md "wikilink")、[ALGOL](../Page/ALGOL.md "wikilink")などで書かれることが多い。[日本電気](../Page/日本電気.md "wikilink")の[ACOSはGCOSから派生したOSである](../Page/Advanced_Comprehensive_Operating_System.md "wikilink")。
 
 ## システムアーキテクチャとコンセプト
 

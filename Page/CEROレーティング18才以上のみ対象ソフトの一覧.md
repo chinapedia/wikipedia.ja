@@ -32,14 +32,29 @@
 ### Nintendo Switch
 
   - [L.A.ノワール](https://ja.wikipedia.org/wiki/L.A.ノワール "wikilink")（リマスター版）（コンテンツアイコン：「暴力、犯罪」）
+  - アンセスターズレガシー（コンテンツアイコン：「暴力」）
   - [侍道外伝 KATANAKAMI](../Page/侍道外伝_KATANAKAMI.md "wikilink")（コンテンツアイコン：「暴力」）
   - [The Elder Scrolls V：SKYRIM](https://ja.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [DOOM](../Page/DOOM.md "wikilink")（コンテンツアイコン：「暴力」）
-  - [Wolfensteins II: The New Colossus](https://ja.wikipedia.org/wiki/Wolfenstein_II:_The_New_Colossus "wikilink")（コンテンツアイコン：「暴力」）
+  - [Wolfenstein II: The New Colossus](https://ja.wikipedia.org/wiki/Wolfenstein_II:_The_New_Colossus "wikilink")（コンテンツアイコン：「暴力」）
+  - [Wolfenstein YOUNG BLOOD](../Page/Wolfenstein.md "wikilink"):(コンテンツアイコン：「暴力」)
   - [アサシン クリード オデッセイ クラウドバージョン](https://ja.wikipedia.org/wiki/アサシン_クリード_オデッセイ "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+  - [アサシンクリードIIIリマスター](https://ja.wikipedia.org/wiki/アサシン_クリード_III "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+  - [アサシンクリードリベルコレクション](https://ja.wikipedia.org/wiki/アサシン_クリード_IV_ブラック_フラッグ "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [BIOHAZARD 7 resident evil cloud version](https://ja.wikipedia.org/wiki/バイオハザード7_レジデント_イービル "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [真 流行り神1・2パック](https://ja.wikipedia.org/wiki/真_流行り神 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [AI: ソムニウム ファイル](https://ja.wikipedia.org/wiki/AI:_ソムニウム_ファイル "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+  - [the outer worlds](https://ja.wikipedia.org/wiki/The_Outer_Worlds "wikilink") (コンテンツアイコン：「暴力、犯罪」)
+  - [Saints Row:The Third](https://ja.wikipedia.org/wiki/Saints_Row:_The_Third "wikilink")　(コンテンツアイコン：「暴力、犯罪」)
+  - [friday the 13th: the game](https://ja.wikipedia.org/wiki/Friday_the_13th:_The_Game "wikilink")（コンテンツアイコン：「暴力」）
+  - The Sinking City　(コンテンツアイコン：「暴力」)
+  - [デッドバイデイライト](https://ja.wikipedia.org/wiki/Dead_by_Daylight "wikilink")（コンテンツアイコン：「暴力」）
+  - [ディヴィニティ：オリジナル‣シン２ディフィニティブエディション](https://ja.wikipedia.org/wiki/ディヴィニティ:オリジナル・シン "wikilink")（コンテンツアイコン：「暴力」）
+  - [エイリアン　アイソレーション](https://ja.wikipedia.org/wiki/エイリアン_アイソレーション "wikilink")（コンテンツアイコン：「暴力」）
+  - [METRO　リダックスダブルパック](https://ja.wikipedia.org/wiki/メトロ2033 "wikilink")（コンテンツアイコン：「暴力」）
+  - ゾンビアーミー　トリロジー（コンテンツアイコン：「暴力」）
+  - [ボーダーランズ](https://ja.wikipedia.org/wiki/ボーダーランズ "wikilink")　レジェンダリーコレクション（コンテンツアイコン：「暴力」）
+  - [バイオショック](https://ja.wikipedia.org/wiki/バイオショック "wikilink")コレクション（コンテンツアイコン：「暴力」）
 
 <!-- end list -->
 
@@ -49,6 +64,11 @@
 
   - 滅やばたにえん（コンテンツアイコン：「犯罪」）
   - リディーマー僧侶の怒り（コンテンツアイコン：「暴力」）
+  - アルカディ・スミスの事件簿（コンテンツアイコン：「暴力、犯罪」）
+  - アメリカン・フュージティブ（コンテンツアイコン：「暴力、犯罪」）
+  - [METRO　ラストライトリダックス](https://ja.wikipedia.org/wiki/メトロ_ラストライト "wikilink")（コンテンツアイコン：「暴力」）
+  - [バイオショック２　リマスター](https://ja.wikipedia.org/wiki/バイオショック2 "wikilink")（コンテンツアイコン：「暴力」）
+  - [バイオショックインフィニット　コンプリートコレクション](https://ja.wikipedia.org/wiki/バイオショック_インフィニット "wikilink")（コンテンツアイコン：「暴力」）
 
 ### Wii U
 
@@ -86,64 +106,154 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
 ### PlayStation 4
 
   - [L.A.ノワール](https://ja.wikipedia.org/wiki/L.A.ノワール "wikilink")（リマスター版）（コンテンツアイコン：「暴力、犯罪」）
-  - [OUTLAST](https://ja.wikipedia.org/wiki/OUTLAST "wikilink")（コンテンツアイコン：「セクシャル、暴力、恐怖、犯罪、言葉・その他」）
+
+  - [the outer worlds](https://ja.wikipedia.org/wiki/The_Outer_Worlds "wikilink") (コンテンツアイコン：「暴力、犯罪」）
+
   - [アサシン クリードシリーズ](https://ja.wikipedia.org/wiki/アサシン_クリードシリーズ "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+
       - [アサシン クリード IV ブラック フラッグ](https://ja.wikipedia.org/wiki/アサシン_クリード_IV_ブラック_フラッグ "wikilink")
       - [アサシン クリード ユニティ](https://ja.wikipedia.org/wiki/アサシン_クリード_ユニティ "wikilink")
       - [アサシン クリード シンジケート](https://ja.wikipedia.org/wiki/アサシン_クリード_シンジケート "wikilink")
-  - アンセスターズレガシー（コンテンツアイコン：暴力）
-  - [アンティル・ドーン 惨劇の山荘](https://ja.wikipedia.org/wiki/アンティル・ドーン_惨劇の山荘 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
-  - [inFAMOUS Second Son](https://ja.wikipedia.org/wiki/inFAMOUS_Second_Son "wikilink")（コンテンツアイコン：「暴力、犯罪」）
-  - [ウィッチャー3 ワイルドハント](https://ja.wikipedia.org/wiki/ウィッチャー3_ワイルドハント "wikilink")（コンテンツアイコン：「暴力」）
-  - [ウォッチドッグス](https://ja.wikipedia.org/wiki/ウォッチドッグス "wikilink")（コンテンツアイコン：「暴力、犯罪」）
-  - [ウォッチドッグス2](https://ja.wikipedia.org/wiki/ウォッチドッグス2 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
-  - [レッド・デッド・リデンプションII](https://ja.wikipedia.org/wiki/レッド・デッド・リデンプションII "wikilink")（コンテンツアイコン：「暴力、犯罪」）
-  - ウルフェンシュタインシリーズ
-      - [ウルフェンシュタイン：ザ ニューオーダー](https://ja.wikipedia.org/wiki/ウルフェンシュタイン：ザ_ニューオーダー "wikilink")（コンテンツアイコン：「暴力」）
+      - [アサシン クリード オリジンズ](https://ja.wikipedia.org/wiki/アサシン_クリード_オリジンズ "wikilink")
+      - [アサシン クリード オデッセイ](https://ja.wikipedia.org/wiki/アサシン_クリード_オデッセイ "wikilink")
 
-<!-- end list -->
+  - アンセスターズレガシー（コンテンツアイコン：暴力）
+
+  - [アンティル・ドーン 惨劇の山荘](https://ja.wikipedia.org/wiki/アンティル・ドーン_惨劇の山荘 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+
+  - [inFAMOUS Second Son](https://ja.wikipedia.org/wiki/inFAMOUS_Second_Son "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+
+  - [ウィッチャー3 ワイルドハント](https://ja.wikipedia.org/wiki/ウィッチャー3_ワイルドハント "wikilink")（コンテンツアイコン：「暴力」）
+
+  - [wasteland 2](https://ja.wikipedia.org/wiki/wasteland_2 "wikilink") (コンテンツアイコン：「暴力、犯罪」）
+
+  - [ウォッチドッグス](https://ja.wikipedia.org/wiki/ウォッチドッグス "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+
+  - [ウォッチドッグス2](https://ja.wikipedia.org/wiki/ウォッチドッグス2 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+
+  - [レッド・デッド・リデンプションII](https://ja.wikipedia.org/wiki/レッド・デッド・リデンプションII "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+
+  - ウルフェンシュタインシリーズ
+
+      - [ウルフェンシュタイン：ザ ニューオーダー](https://ja.wikipedia.org/wiki/ウルフェンシュタイン：ザ_ニューオーダー "wikilink")（コンテンツアイコン：「暴力」）
+      - ウルフェンシュタイン：ザ オールドブラッド（コンテンツアイコン：「暴力、犯罪」）
+      - [Wolfenstein II: The New Colossus](https://ja.wikipedia.org/wiki/Wolfenstein_II:_The_New_Colossus "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+      - [Wolfenstein YOUNG BLOOD](../Page/Wolfenstein.md "wikilink"):（コンテンツアイコン：「暴力」）
 
   - [エイリアン アイソレーション](https://ja.wikipedia.org/wiki/エイリアン_アイソレーション "wikilink")（コンテンツアイコン：「暴力」）
+
   - [お姉チャンバラ](../Page/お姉チャンバラ.md "wikilink")ORIGIN（コンテンツアイコン：「暴力」）
+
   - [CHAOS;CHILD](https://ja.wikipedia.org/wiki/CHAOS;CHILD "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+
+  - [キングダムカム・デリバランス](https://ja.wikipedia.org/wiki/キングダムカム・デリバランス "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+
   - [グランド・セフト・オートV](https://ja.wikipedia.org/wiki/グランド・セフト・オートV "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+
+  - [Ghost of Tsushima](../Page/Ghost_of_Tsushima.md "wikilink")（コンテンツアイコン：「暴力」）
+
   - [ゴーストリコン ワイルドランズ](https://ja.wikipedia.org/wiki/ゴーストリコン_ワイルドランズ "wikilink")（コンテンツアイコン：「暴力」）
+
   - [ゴーストリコン ブレイクポイント](https://ja.wikipedia.org/wiki/ゴーストリコン_ブレイクポイント "wikilink")（コンテンツアイコン：「暴力」）
+
   - [コール オブ デューティ アドバンスド・ウォーフェア](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_アドバンスド・ウォーフェア "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+
   - [コール オブ デューティ インフィニット・ウォーフェア](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_インフィニット・ウォーフェア "wikilink")（コンテンツアイコン：「暴力」）
+
   - [コール オブ デューティ ブラックオプス3](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_ブラックオプス3 "wikilink")（コンテンツアイコン：「暴力」）
+
   - [コール オブ デューティ ワールドウォーII](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_ワールドウォーII "wikilink")（コンテンツアイコン：「暴力」）
+
+  - [コール オブ デューティ ブラックオプス４](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_ブラックオプス4 "wikilink")（コンテンツアイコン：「暴力」）
+
   - [コナン アウトキャスト](../Page/コナン・ザ・グレート.md "wikilink")（コンテンツアイコン：「暴力」）
-  - サイバーバンク２０７７
+
+  - [サイバーパンク2077](../Page/サイバーパンク2077.md "wikilink")　（コンテンツアイコン：「暴力、犯罪」）
+
   - [サイレントVR](https://ja.wikipedia.org/wiki/サイレントVR "wikilink")（コンテンツアイコン：「暴力」）
-  - [侍道外伝 KATANAKAMI](../Page/侍道外伝_KATANAKAMI.md "wikilink")（コンテンツアイコン：暴力）
+
+  - [侍道外伝 KATANAKAMI](../Page/侍道外伝_KATANAKAMI.md "wikilink")（コンテンツアイコン：「暴力」）
+
+  - [ラスト・オブ・アス](https://ja.wikipedia.org/wiki/The_Last_of_Us "wikilink")（コンテンツアイコン：「暴力」）
+
+  - [ラスト・オブ・アス・パート2](../Page/The_Last_of_Us_Part_II.md "wikilink")(コンテンツアイコン：「暴力」)
+
   - [The Surge](https://ja.wikipedia.org/wiki/The_Surge "wikilink")（コンテンツアイコン：「暴力」）
+
+  - The Surge２（コンテンツアイコン：「暴力」）
+
   - [The Order:1886](https://ja.wikipedia.org/wiki/The_Order:1886 "wikilink")（コンテンツアイコン：「暴力」）
-  - [Thief](https://ja.wikipedia.org/wiki/Thief_\(2014年のゲーム\) "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+
+  - [Thief](https://ja.wikipedia.org/wiki/Thief_\(2014年のゲーム\) "wikilink")（コンテンツアイコン:「暴力、犯罪」)
+
+  - The Sinking City　(コンテンツアイコン：「暴力」)
+
   - [シャドウオブザトゥームレイダー](https://ja.wikipedia.org/wiki/シャドウ_オブ_ザ_トゥームレイダー "wikilink")（コンテンツアイコン：「暴力」）
+
   - [シャドウ・オブ・モルドール](https://ja.wikipedia.org/wiki/シャドウ・オブ・モルドール "wikilink")（コンテンツアイコン：「暴力」）
+
+  - [シャドウ・オブ・ウォー](https://ja.wikipedia.org/wiki/シャドウ・オブ・ウォー "wikilink")（コンテンツアイコン：「暴力」）
+
   - [真 流行り神2](https://ja.wikipedia.org/wiki/真_流行り神2 "wikilink")（コンテンツアイコン：「暴力」）
+
   - [Saints Row IV](https://ja.wikipedia.org/wiki/Saints_Row_IV "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+
   - [ゾンビ](https://ja.wikipedia.org/wiki/ゾンビU "wikilink")（コンテンツアイコン：「暴力」）
+
   - ゾンビアーミー4：デッドウォー（コンテンツアイコン「暴力」）
-  - [Dying Light](https://ja.wikipedia.org/wiki/Dying_Light "wikilink")（コンテンツアイコン：「暴力、犯罪」）
-  - [トゥームレイダー ディフィニティブ エディション](https://ja.wikipedia.org/wiki/トゥームレイダー_ディフィニティブエディション "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+
+  - [Dying Light](https://ja.wikipedia.org/wiki/Dying_Light "wikilink")（コンテンツアイコン：「暴力」）
+
+  - [トゥームレイダー ディフィニティブ エディション](https://ja.wikipedia.org/wiki/トゥームレイダー_ディフィニティブエディション "wikilink")（コンテンツアイコン：「暴力」）
+
   - [DOOM](../Page/DOOM.md "wikilink")（コンテンツアイコン：「暴力」）
+
+  - [DOOM Eternal](../Page/Doom_Eternal.md "wikilink")　（コンテンツアイコン：「暴力」）
+
+  - [Dishonored HD](https://ja.wikipedia.org/wiki/ディスオナード "wikilink")（コンテンツアイコン：「暴力」）
+
+  - [Dishonored 2](https://ja.wikipedia.org/wiki/Dishonored "wikilink")（コンテンツアイコン：「暴力」）
+
+  - [ディヴィニティ：オリジナルシン　エンハンスドエディション](https://ja.wikipedia.org/wiki/ディヴィニティ:オリジナル・シン "wikilink")　（コンテンツアイコン：「暴力」
+
+  - [ディヴィニティ：オリジナル‣シン２ディフィニティブエディション](https://ja.wikipedia.org/wiki/ディヴィニティ:オリジナル・シン "wikilink")（コンテンツアイコン：「暴力」
+
   - [デイズゴーン](https://ja.wikipedia.org/wiki/Days_Gone "wikilink")（コンテンツアイコン：「暴力」）
-  - デイメア：1998（コンテンツアイコン：「暴力」）
+
+  - （コンテンツアイコン：「暴力」）
+
   - [デウスエクス マンカインド・ディバイデッド](https://ja.wikipedia.org/wiki/デウスエクス_マンカインド・ディバイデッド "wikilink")（コンテンツアイコン：「暴力、犯罪」）
-  - [デッドバイデイライト](https://ja.wikipedia.org/wiki/デッドバイデイライト "wikilink")（コンテンツアイコン：「暴力」）
+
+  - [デッドバイデイライト](https://ja.wikipedia.org/wiki/Dead_by_Daylight "wikilink")（コンテンツアイコン：「暴力」）
+
   - [バイオショック コレクション](../Page/BioShock.md "wikilink")（コンテンツアイコン：「暴力」）
-  - [ヒットマン２](https://ja.wikipedia.org/wiki/ヒットマン2 "wikilink")（コンテンツアイコン：「暴力」）
+
+  - [ヒットマン2](https://ja.wikipedia.org/wiki/ヒットマン2 "wikilink")（コンテンツアイコン：「暴力,　犯罪」)
+
   - [Far Cry 4](https://ja.wikipedia.org/wiki/Far_Cry_4 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+
+  - [far cry primal](https://ja.wikipedia.org/wiki/ファークライ_プライマル "wikilink")(コンテンツアイコン：「暴力」)
+
   - [Far Cry 5](https://ja.wikipedia.org/wiki/Far_Cry_5 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+
+  - [far cry new dawn](https://ja.wikipedia.org/wiki/Far_Cry_New_Dawn "wikilink") （コンテンツアイコン：「暴力、犯罪」）
+
   - [Fallout 4](https://ja.wikipedia.org/wiki/Fallout_4 "wikilink")(コンテンツアイコン：「暴力、犯罪」）
+
   - [fallout76](https://ja.wikipedia.org/wiki/Fallout_76 "wikilink")（コンテンツアイコン：「暴力」）
+
   - [Friday the 13th: The Game](https://ja.wikipedia.org/wiki/Friday_the_13th:_The_Game "wikilink")\[5\]（コンテンツアイコン：「暴力」）
-  - [Pｒedator:hantingGrounds](../Page/プレデター_ハンティンググラウンズ.md "wikilink")（コンテンツアイコン：「暴力」）
+
+  - [predator:hantingGrounds](../Page/プレデター_ハンティンググラウンズ.md "wikilink")（コンテンツアイコン：「暴力」）
+
   - [マッドマックス](https://ja.wikipedia.org/wiki/マッドマックス_\(2015年のゲーム\) "wikilink")（コンテンツアイコン：「暴力」）
+
   - [マフィア III](https://ja.wikipedia.org/wiki/マフィア_III "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+
   - [LET IT DIE](https://ja.wikipedia.org/wiki/LET_IT_DIE "wikilink")（コンテンツアイコン：「暴力」）
+
+  - [METRO　エクソダス](https://ja.wikipedia.org/wiki/メトロ_エクソダス "wikilink")（コンテンツアイコン：「暴力」）
+
   - [サイコブレイク](https://ja.wikipedia.org/wiki/サイコブレイク "wikilink")（コンテンツアイコン：「暴力、犯罪」）
 
 <!-- end list -->
@@ -157,7 +267,7 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
 <!-- end list -->
 
   - [サイコブレイク2](https://ja.wikipedia.org/wiki/サイコブレイク2 "wikilink")（コンテンツアイコン：「暴力」）
-  - [バイオハザード7 レジデント イービル](https://ja.wikipedia.org/wiki/バイオハザード7_レジデント_イービル "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+  - [バイオハザード7 レジデント イービル](https://ja.wikipedia.org/wiki/バイオハザード7_レジデント_イービル "wikilink")（コンテンツアイコン：「暴力、犯罪」)
 
 <!-- end list -->
 
@@ -170,10 +280,11 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
 <!-- end list -->
 
   - [Prey](../Page/Prey.md "wikilink")（コンテンツアイコン：「暴力」）
-  - プレイグテイルｰイノセンス-（コンテンツアイコン：「暴力」）
+  - プレイグテイル-イノセンス-（コンテンツアイコン：「暴力」）
   - [祝姫 -祀-](https://ja.wikipedia.org/wiki/祝姫 "wikilink")（コンテンツアイコン：「犯罪」）
   - [ライズオブザトゥームレイダー](https://ja.wikipedia.org/wiki/ライズ_オブ_ザ_トゥームレイダー "wikilink")（コンテンツアイコン：「暴力」）
-  - [バイオハザード RE:2](https://ja.wikipedia.org/wiki/バイオハザード_RE:2 "wikilink")（コンテンツアイコン：「暴力」）
+  - [バイオハザード　RE:2](https://ja.wikipedia.org/wiki/バイオハザード_RE:2 "wikilink")（コンテンツアイコン：「暴力」）
+  - [バイオハザード　RE:3](../Page/バイオハザード_RE:3.md "wikilink") (コンセントアイコン：「暴力」）
 
 <!-- end list -->
 
@@ -187,6 +298,7 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
 
   - [AI: ソムニウム ファイル](https://ja.wikipedia.org/wiki/AI:_ソムニウム_ファイル "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [WORLD WAR Z](https://ja.wikipedia.org/wiki/WORLD_WAR_Z "wikilink")(コンテンツアイコン：暴力）
+  - [レムナント フロム・ジ・アッシュ](https://ja.wikipedia.org/wiki/レムナント_フロム・ジ・アッシュ "wikilink")（コンテンツアイコン：「暴力」）
 
 <!-- end list -->
 
@@ -195,6 +307,7 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
 <!-- end list -->
 
   - リディーマー僧侶の怒り（コンテンツアイコン：「暴力」）
+  - [デストロイオールヒューマンズ！](https://ja.wikipedia.org/wiki/デストロイ_オール_ヒューマンズ! "wikilink")（コンテンツアイコン：「暴力」）
 
 ### PlayStation Vita
 
@@ -206,7 +319,7 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
   - [CHAOS;HEAD DUAL](https://ja.wikipedia.org/wiki/CHAOS;HEAD "wikilink")（コンテンツアイコン：「暴力、犯罪」）
       - CHAOS;HEAD NOAH（コンテンツアイコン：「犯罪」）（PSP・PS3版では「D区分」）
   - [CHAOS;CHILD](https://ja.wikipedia.org/wiki/CHAOS;CHILD "wikilink")（コンテンツアイコン：「暴力、犯罪」）
-  - [かまいたちの夜 輪廻彩声](https://ja.wikipedia.org/wiki/かまいたちの夜_輪廻彩声 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+  - [かまいたちの夜 輪廻彩声](https://ja.wikipedia.org/wiki/かまいたちの夜_輪廻彩声 "wikilink")（コンテンツアイコン：「犯罪」）
   - [祝姫 -祀-](https://ja.wikipedia.org/wiki/祝姫 "wikilink")（コンテンツアイコン：「犯罪」）
   - デッドネーション（コンテンツアイコン：「暴力」）
 
@@ -219,25 +332,31 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
       - [アサシン クリード ブラザーフッド](https://ja.wikipedia.org/wiki/アサシン_クリード_ブラザーフッド "wikilink")
           - アサシン クリード ブラザーフッド スペシャルエディション
       - [アサシン クリード III](https://ja.wikipedia.org/wiki/アサシン_クリード_III "wikilink")
+      - [アサシン クリード リベレーション](https://ja.wikipedia.org/wiki/アサシン_クリード_リベレーション "wikilink")　
+      - [アサシンクリード　Ⅳ　ブラックフラッグ](https://ja.wikipedia.org/wiki/アサシン_クリード_IV_ブラック_フラッグ "wikilink")
   - [アーミー オブ ツー: The 40th Day](https://ja.wikipedia.org/wiki/アーミー_オブ_ツー:_The_40th_Day "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [アリス マッドネス リターンズ](https://ja.wikipedia.org/wiki/アリス_マッドネス_リターンズ "wikilink")（コンテンツアイコン：「犯罪」）
   - [INFAMOUS〜悪名高き男〜](https://ja.wikipedia.org/wiki/INFAMOUS〜悪名高き男〜 "wikilink")（コンテンツアイコン：「暴力」）
   - [inFAMOUS 2](https://ja.wikipedia.org/wiki/inFAMOUS_2 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [ウォッチドッグス](https://ja.wikipedia.org/wiki/ウォッチドッグス "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [L.A.ノワール](https://ja.wikipedia.org/wiki/L.A.ノワール "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+  - [キラー・イズ・デッド](https://ja.wikipedia.org/wiki/KILLER_IS_DEAD "wikilink")（コンテンツアイコン：「暴力」）
   - [グランド・セフト・オートシリーズ](https://ja.wikipedia.org/wiki/グランド・セフト・オートシリーズ "wikilink")（コンテンツアイコン：「暴力、犯罪」）
       - [グランド・セフト・オートIV](../Page/グランド・セフト・オートIV.md "wikilink")
       - [グランド・セフト・オート・エピソード・フロム・リバティーシティ](https://ja.wikipedia.org/wiki/グランド・セフト・オート・エピソード・フロム・リバティーシティ "wikilink")
       - グランド・セフト・オートIV コンプリート・エディション
       - [グランド・セフト・オートV](https://ja.wikipedia.org/wiki/グランド・セフト・オートV "wikilink")
   - [ゴッド・オブ・ウォーIII](https://ja.wikipedia.org/wiki/ゴッド・オブ・ウォーIII "wikilink")（コンテンツアイコン：「暴力」）
+  - God of War: Ascension（コンテンツアイコン：「暴力\])
   - [ゴッドファーザー ドン・エディション](../Page/ゴッドファーザー.md "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [コール オブ デューティ ブラックオプス](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_ブラックオプス "wikilink")（コンテンツアイコン：「暴力」）
   - [コール オブ デューティ モダン・ウォーフェア3](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_モダン・ウォーフェア3 "wikilink")（コンテンツアイコン：「暴力」）
   - [コール オブ デューティ ブラックオプス2](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_ブラックオプス2 "wikilink")（コンテンツアイコン：「暴力」）
   - [コール オブ デューティ アドバンスド・ウォーフェア](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_アドバンスド・ウォーフェア "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+  - [コール オブ デューティ ブラックオプス3](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_ブラックオプス3 "wikilink")（コンテンツアイコン：「暴力」
   - [ザ・ダークネス](../Page/ザ・ダークネス_\(ゲーム\).md "wikilink")（コンテンツアイコン：「犯罪」）
   - [ザ・ハウス・オブ・ザ・デッド オーバーキル:ディレクターズカット](https://ja.wikipedia.org/wiki/ザ・ハウス・オブ・ザ・デッド_オーバーキル "wikilink")（コンテンツアイコン：「暴力」）
+  - [ザ・ラスト・オブ・アス](https://ja.wikipedia.org/wiki/The_Last_of_Us "wikilink")（コンテンツアイコン：「暴力」）
   - [Thief](https://ja.wikipedia.org/wiki/Thief_\(2014年のゲーム\) "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [シャドウ オブ ザ ダムド](https://ja.wikipedia.org/wiki/シャドウ_オブ_ザ_ダムド "wikilink")（コンテンツアイコン：「暴力」）
   - [The Elder Scrolls V: Skyrim](https://ja.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim "wikilink")（コンテンツアイコン:「暴力、犯罪」）
@@ -245,6 +364,9 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
   - [真 流行り神2](https://ja.wikipedia.org/wiki/真_流行り神2 "wikilink")（コンテンツアイコン：「暴力」）
   - [The Last of Us](https://ja.wikipedia.org/wiki/The_Last_of_Us "wikilink")（コンテンツアイコン：「暴力」）
   - [Saints Row 2](https://ja.wikipedia.org/wiki/Saints_Row_2 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+  - [saints row: the third](https://ja.wikipedia.org/wiki/Saints_Row:_The_Third "wikilink") (コンテンツアイコン：「暴力、犯罪」）
+  - [Saints Row IV](https://ja.wikipedia.org/wiki/Saints_Row_IV "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+  - [Dishonored](https://ja.wikipedia.org/wiki/ディスオナード "wikilink")（コンテンツアイコン：「暴力」）
   - [デウスエクス](../Page/Deus_Ex.md "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [デッドライジング2](https://ja.wikipedia.org/wiki/デッドライジング2 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [デッドライジング2 オフ・ザ・レコード](https://ja.wikipedia.org/wiki/デッドライジング2_オフ・ザ・レコード "wikilink")（コンテンツアイコン：「暴力、犯罪」）
@@ -266,6 +388,8 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
   - [Fallout: New Vegas](https://ja.wikipedia.org/wiki/Fallout:_New_Vegas "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [Mafia 2](https://ja.wikipedia.org/wiki/Mafia_2 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [Rage](https://ja.wikipedia.org/wiki/Rage_\(ゲーム\) "wikilink")（コンテンツアイコン：「暴力」）
+  - [METRO　ラストライト](https://ja.wikipedia.org/wiki/メトロ_ラストライト "wikilink")（コンテンツアイコン：「暴力」）
+  - [risen 2](https://ja.wikipedia.org/wiki/Risen_2_dark_warters "wikilink") (コンテンツアイコン：「暴力」）
   - [レッド・デッド・リデンプション](https://ja.wikipedia.org/wiki/レッド・デッド・リデンプション "wikilink")（コンテンツアイコン：「暴力、犯罪」）
       - レッド・デッド・リデンプション アンデッド・ナイトメア（コンテンツアイコン：「暴力、犯罪」）
   - [ロリポップチェーンソー PREMIUM EDITION](https://ja.wikipedia.org/wiki/ロリポップチェーンソー "wikilink")（通常版は「D」区分）（コンテンツアイコン：「暴力」）
@@ -354,6 +478,7 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
   - [Thief](https://ja.wikipedia.org/wiki/Thief_\(2014年のゲーム\) "wikilink")（コンテンツアイコン：「暴力」）
   - [シャドウ・オブ・モルドール](https://ja.wikipedia.org/wiki/シャドウ・オブ・モルドール "wikilink")（コンテンツアイコン：「暴力」）
   - [Saints Row IV](https://ja.wikipedia.org/wiki/Saints_Row_IV "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+  - [ディスオナード２](https://ja.wikipedia.org/wiki/Dishonored "wikilink")（コンテンツアイコン：「暴力」）
   - [デッドライジング3](https://ja.wikipedia.org/wiki/デッドライジング3 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [トゥームレイダー ディフィニティブ エディション](https://ja.wikipedia.org/wiki/トゥームレイダー_ディフィニティブエディション "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [Far Cry 4](https://ja.wikipedia.org/wiki/Far_Cry_4 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
@@ -415,6 +540,7 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
   - [ウォッチドッグス](https://ja.wikipedia.org/wiki/ウォッチドッグス "wikilink")（コンテンツアイコン「暴力、犯罪」）
   - [ウィッチャー2](https://ja.wikipedia.org/wiki/w:The_Witcher_2:_Assassins_of_Kings "wikilink")（コンテンツアイコン：「暴力」）
   - [L.A.ノワール](https://ja.wikipedia.org/wiki/L.A.ノワール "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+  - [キラー・イズ・デッド](https://ja.wikipedia.org/wiki/KILLER_IS_DEAD "wikilink")（コンテンツアイコン：「暴力」）
   - [The Elder Scrolls V: Skyrim](https://ja.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [お姉チャンバラ 〜忌血を継ぐ者たち〜](../Page/お姉チャンバラ.md "wikilink")vorteX（コンテンツアイコン：「暴力」）
   - [お姉チャンバラ ～カグラ～](../Page/お姉チャンバラ.md "wikilink")Z（コンテンツアイコン：「暴力」）
@@ -476,6 +602,7 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
   - [マイト・アンド・マジック エレメンツ](../Page/マイト・アンド・マジック.md "wikilink")（コンテンツアイコン：「暴力」）
   - [マックス・ペイン3](../Page/マックスペイン.md "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [Mafia 2](https://ja.wikipedia.org/wiki/Mafia_2 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+  - [METRO　ラストライト](https://ja.wikipedia.org/wiki/メトロ_ラストライト "wikilink")（コンテンツアイコン：「暴力」）
   - ライオットアクトシリーズ（コンテンツアイコン：「暴力、犯罪」）
       - [ライオットアクト](https://ja.wikipedia.org/wiki/ライオットアクト "wikilink")
       - [ライオットアクト 2](https://ja.wikipedia.org/wiki/ライオットアクト_2 "wikilink")

@@ -148,7 +148,7 @@ NAVIOとは[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語
   - [Hankyu MEN'S](http://www.hankyu-dept.co.jp/honten/hankyu-mens/) （阪急百貨店メンズ館）
   - [阪急百貨店メンズ館を解剖](http://inlifeweb.com/sphankyu_index_e.html)
 
-[Category:大阪市北区の建築物](https://ja.wikipedia.org/wiki/Category:大阪市北区の建築物 "wikilink") [Category:大阪府のショッピングセンター](https://ja.wikipedia.org/wiki/Category:大阪府のショッピングセンター "wikilink") [Category:梅田](https://ja.wikipedia.org/wiki/Category:梅田 "wikilink") [Category:阪急阪神東宝グループ](https://ja.wikipedia.org/wiki/Category:阪急阪神東宝グループ "wikilink") [Category:第42回BCS賞](https://ja.wikipedia.org/wiki/Category:第42回BCS賞 "wikilink") [Category:1998年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:1998年竣工の日本の建築物 "wikilink") [Category:1998年開業の施設](https://ja.wikipedia.org/wiki/Category:1998年開業の施設 "wikilink") [Category:大阪府の映画館](https://ja.wikipedia.org/wiki/Category:大阪府の映画館 "wikilink") [Category:ファッションビル](https://ja.wikipedia.org/wiki/Category:ファッションビル "wikilink")
+[Category:大阪市北区の建築物](https://ja.wikipedia.org/wiki/Category:大阪市北区の建築物 "wikilink") [Category:大阪府のショッピングセンター](https://ja.wikipedia.org/wiki/Category:大阪府のショッピングセンター "wikilink") [Category:梅田](https://ja.wikipedia.org/wiki/Category:梅田 "wikilink") [Category:阪急阪神東宝グループ](https://ja.wikipedia.org/wiki/Category:阪急阪神東宝グループ "wikilink") [Category:第42回BCS賞](https://ja.wikipedia.org/wiki/Category:第42回BCS賞 "wikilink") [Category:1998年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:1998年竣工の日本の建築物 "wikilink") [Category:1998年開業の施設](https://ja.wikipedia.org/wiki/Category:1998年開業の施設 "wikilink") [Category:ファッションビル](https://ja.wikipedia.org/wiki/Category:ファッションビル "wikilink")
 
 1.
 2.

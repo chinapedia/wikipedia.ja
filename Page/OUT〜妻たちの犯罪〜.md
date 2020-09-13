@@ -82,6 +82,6 @@
 
 ## 外部リンク
 
-  - [フジテレビ公式](http://www.fujitv.co.jp/jp/b_hp/out/)
+  - [フジテレビ公式](https://www.fujitv.co.jp/b_hp/out/)
 
 [Category:フジテレビ火曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビ火曜9時枠の連続ドラマ "wikilink") [Category:1999年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1999年のテレビドラマ "wikilink") [Category:共同テレビのテレビドラマ](https://ja.wikipedia.org/wiki/Category:共同テレビのテレビドラマ "wikilink") [Category:犯罪を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:犯罪を題材としたテレビドラマ "wikilink") [Category:サスペンスドラマ](https://ja.wikipedia.org/wiki/Category:サスペンスドラマ "wikilink") [Category:ドメスティックバイオレンスを題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:ドメスティックバイオレンスを題材としたテレビドラマ "wikilink") [Category:桐野夏生原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:桐野夏生原作のテレビドラマ "wikilink") [Category:多摩地域を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:多摩地域を舞台としたテレビドラマ "wikilink")

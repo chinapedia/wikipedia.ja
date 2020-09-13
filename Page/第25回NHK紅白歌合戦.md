@@ -22,35 +22,35 @@
 
 ### 出場歌手
 
-| 紅組                                                                   | 白組                                                                        |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 歌手                                                                   | 曲                                                                         |
-| [山口百恵](../Page/山口百恵.md "wikilink")(初)                                | [ひと夏の経験](../Page/ひと夏の経験.md "wikilink")                                    |
-| [アグネス・チャン](https://ja.wikipedia.org/wiki/アグネス・チャン "wikilink")(2)     | [ポケットいっぱいの秘密](../Page/ポケットいっぱいの秘密.md "wikilink")                          |
-| [チェリッシュ](../Page/チェリッシュ_\(歌手グループ\).md "wikilink")(2)                 | [恋の風車](https://ja.wikipedia.org/wiki/恋の風車 "wikilink")                     |
-| [小柳ルミ子](../Page/小柳ルミ子.md "wikilink")(4)                              | [冬の駅](../Page/冬の駅.md "wikilink")                                          |
-| [桜田淳子](../Page/桜田淳子.md "wikilink")(初)                                | [黄色いリボン](../Page/黄色いリボン_\(桜田淳子の曲\).md "wikilink")                         |
-| [佐良直美](../Page/佐良直美.md "wikilink")(8)                                | [花のフェスティバル](https://ja.wikipedia.org/wiki/花のフェスティバル "wikilink")           |
-| [梓みちよ](../Page/梓みちよ.md "wikilink")(8)                                | [二人でお酒を](https://ja.wikipedia.org/wiki/二人でお酒を "wikilink")                 |
-| [南沙織](https://ja.wikipedia.org/wiki/南沙織 "wikilink")(4)               | [夏の感情](../Page/夏の感情.md "wikilink")                                        |
-| [森昌子](../Page/森昌子.md "wikilink")(2)                                  | [おかあさん](https://ja.wikipedia.org/wiki/おかあさん_\(森昌子の曲\) "wikilink")         |
-| [和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")(5)           | [美しき誤解](https://ja.wikipedia.org/wiki/美しき誤解 "wikilink")                   |
-| [山本リンダ](https://ja.wikipedia.org/wiki/山本リンダ "wikilink")(4)           | [闇夜にドッキリ](https://ja.wikipedia.org/wiki/闇夜にドッキリ "wikilink")               |
-| [森山良子](../Page/森山良子.md "wikilink")(4)                                | [ある日の午後](https://ja.wikipedia.org/wiki/ある日の午後 "wikilink")                 |
-| [都はるみ](../Page/都はるみ.md "wikilink")(10)                               | [にごりえの町](https://ja.wikipedia.org/wiki/にごりえの町 "wikilink")                 |
-| [水前寺清子](../Page/水前寺清子.md "wikilink")(10)                             | [てっぺんまごころ](https://ja.wikipedia.org/wiki/てっぺんまごころ "wikilink")             |
-| [あべ静江](../Page/あべ静江.md "wikilink")(初)                                | [みずいろの手紙](https://ja.wikipedia.org/wiki/みずいろの手紙 "wikilink")               |
-| [ペドロ&カプリシャス](https://ja.wikipedia.org/wiki/ペドロ&カプリシャス "wikilink")(初) | [ジョニィへの伝言](../Page/ジョニィへの伝言.md "wikilink")                                |
-| [小坂明子](../Page/小坂明子.md "wikilink")(初)                                | [あなた](../Page/あなた_\(小坂明子の曲\).md "wikilink")                               |
-| [天地真理](../Page/天地真理.md "wikilink")(3)                                | [想い出のセレナーデ](../Page/想い出のセレナーデ.md "wikilink")                              |
-| [八代亜紀](../Page/八代亜紀.md "wikilink")(2)                                | [愛ひとすじ](https://ja.wikipedia.org/wiki/愛ひとすじ "wikilink")                   |
-| [ザ・ピーナッツ](../Page/ザ・ピーナッツ.md "wikilink")(16)                         | [ブギウギ・ビューグル・ボーイ](https://ja.wikipedia.org/wiki/ブギウギ・ビューグル・ボーイ "wikilink") |
-| [いしだあゆみ](../Page/いしだあゆみ.md "wikilink")(6)                            | [美しい別れ](https://ja.wikipedia.org/wiki/美しい別れ "wikilink")                   |
-| [青江三奈](../Page/青江三奈.md "wikilink")(8)                                | [銀座ブルーナイト](https://ja.wikipedia.org/wiki/銀座ブルーナイト "wikilink")             |
-| [由紀さおり](../Page/由紀さおり.md "wikilink")(6)                              | [挽歌](https://ja.wikipedia.org/wiki/挽歌_\(由紀さおりの曲\) "wikilink")             |
-| [ちあきなおみ](../Page/ちあきなおみ.md "wikilink")(5)                            | [かなしみ模様](https://ja.wikipedia.org/wiki/かなしみ模様 "wikilink")                 |
-| [島倉千代子](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")(18)          | [襟裳岬](https://ja.wikipedia.org/wiki/襟裳岬_\(島倉千代子の曲\) "wikilink")           |
-|                                                                      |                                                                           |
+| 紅組                                                                   | 白組                                                                |
+| -------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| 歌手                                                                   | 曲                                                                 |
+| [山口百恵](../Page/山口百恵.md "wikilink")(初)                                | [ひと夏の経験](../Page/ひと夏の経験.md "wikilink")                            |
+| [アグネス・チャン](https://ja.wikipedia.org/wiki/アグネス・チャン "wikilink")(2)     | [ポケットいっぱいの秘密](../Page/ポケットいっぱいの秘密.md "wikilink")                  |
+| [チェリッシュ](../Page/チェリッシュ_\(歌手グループ\).md "wikilink")(2)                 | [恋の風車](https://ja.wikipedia.org/wiki/恋の風車 "wikilink")             |
+| [小柳ルミ子](../Page/小柳ルミ子.md "wikilink")(4)                              | [冬の駅](../Page/冬の駅.md "wikilink")                                  |
+| [桜田淳子](../Page/桜田淳子.md "wikilink")(初)                                | [黄色いリボン](../Page/黄色いリボン_\(桜田淳子の曲\).md "wikilink")                 |
+| [佐良直美](../Page/佐良直美.md "wikilink")(8)                                | [花のフェスティバル](../Page/佐良直美.md "wikilink")                           |
+| [梓みちよ](../Page/梓みちよ.md "wikilink")(8)                                | [二人でお酒を](https://ja.wikipedia.org/wiki/二人でお酒を "wikilink")         |
+| [南沙織](https://ja.wikipedia.org/wiki/南沙織 "wikilink")(4)               | [夏の感情](../Page/夏の感情.md "wikilink")                                |
+| [森昌子](../Page/森昌子.md "wikilink")(2)                                  | [おかあさん](https://ja.wikipedia.org/wiki/おかあさん_\(森昌子の曲\) "wikilink") |
+| [和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")(5)           | [美しき誤解](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")           |
+| [山本リンダ](https://ja.wikipedia.org/wiki/山本リンダ "wikilink")(4)           | [闇夜にドッキリ](https://ja.wikipedia.org/wiki/山本リンダ "wikilink")         |
+| [森山良子](../Page/森山良子.md "wikilink")(4)                                | [ある日の午後](../Page/森山良子.md "wikilink")                              |
+| [都はるみ](../Page/都はるみ.md "wikilink")(10)                               | [にごりえの町](../Page/都はるみ.md "wikilink")                              |
+| [水前寺清子](../Page/水前寺清子.md "wikilink")(10)                             | [てっぺんまごころ](../Page/水前寺清子.md "wikilink")                           |
+| [あべ静江](../Page/あべ静江.md "wikilink")(初)                                | [みずいろの手紙](https://ja.wikipedia.org/wiki/みずいろの手紙 "wikilink")       |
+| [ペドロ&カプリシャス](https://ja.wikipedia.org/wiki/ペドロ&カプリシャス "wikilink")(初) | [ジョニィへの伝言](../Page/ジョニィへの伝言.md "wikilink")                        |
+| [小坂明子](../Page/小坂明子.md "wikilink")(初)                                | [あなた](../Page/あなた_\(小坂明子の曲\).md "wikilink")                       |
+| [天地真理](../Page/天地真理.md "wikilink")(3)                                | [想い出のセレナーデ](../Page/想い出のセレナーデ.md "wikilink")                      |
+| [八代亜紀](../Page/八代亜紀.md "wikilink")(2)                                | [愛ひとすじ](https://ja.wikipedia.org/wiki/愛ひとすじ "wikilink")           |
+| [ザ・ピーナッツ](../Page/ザ・ピーナッツ.md "wikilink")(16)                         | [ブギウギ・ビューグル・ボーイ](../Page/ザ・ピーナッツ.md "wikilink")                   |
+| [いしだあゆみ](../Page/いしだあゆみ.md "wikilink")(6)                            | [美しい別れ](../Page/いしだあゆみ.md "wikilink")                             |
+| [青江三奈](../Page/青江三奈.md "wikilink")(8)                                | [銀座ブルーナイト](../Page/青江三奈.md "wikilink")                            |
+| [由紀さおり](../Page/由紀さおり.md "wikilink")(6)                              | [挽歌](../Page/由紀さおり.md "wikilink")                                 |
+| [ちあきなおみ](../Page/ちあきなおみ.md "wikilink")(5)                            | [かなしみ模様](https://ja.wikipedia.org/wiki/かなしみ模様 "wikilink")         |
+| [島倉千代子](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")(18)          | [襟裳岬](https://ja.wikipedia.org/wiki/襟裳岬_\(島倉千代子の曲\) "wikilink")   |
+|                                                                      |                                                                   |
 
 #### 選考を巡って
 
@@ -96,7 +96,7 @@
   - [ザ・ドリフターズ](../Page/ザ・ドリフターズ.md "wikilink") - コメディアン。佐良直美と殿さまキングスの曲間および中間審査。
   - [三波伸介](../Page/三波伸介_\(初代\).md "wikilink") - コメディアン。梓みちよと野口五郎の曲間および中間審査。
   - [鈴木ヒロミツ](../Page/鈴木ヒロミツ.md "wikilink") - タレント。この年にスタートした若者向け[音楽番組](../Page/音楽番組.md "wikilink")『[レッツゴーヤング](../Page/レッツゴーヤング.md "wikilink")』初代司会者。和田アキ子と美川憲一の曲間。
-  - [大原麗子](https://ja.wikipedia.org/wiki/大原麗子 "wikilink") - 女優。『勝海舟』の梶久役。渡哲也の曲紹介（大原は渡の義妹）。
+  - [大原麗子](https://ja.wikipedia.org/wiki/大原麗子 "wikilink") - 女優。『勝海舟』の梶久役。渡哲也の曲紹介（大原は当時の渡の義妹）。
   - [左とん平](../Page/左とん平.md "wikilink") - コメディアン。にしきのあきらとペドロ&カプリシャスの曲間。
   - [樋浦勉](../Page/樋浦勉.md "wikilink") - 俳優。この年の[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[鳩子の海](../Page/鳩子の海.md "wikilink")』の民夫役。三橋美智也の曲紹介。
 
@@ -139,7 +139,7 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=25)
   - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1974年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1974年のテレビ番組_\(日本\) "wikilink") [Category:1974年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1974年のラジオ番組_\(日本\) "wikilink") [Category:1974年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1974年の日本の音楽 "wikilink") [Category:1974年12月](https://ja.wikipedia.org/wiki/Category:1974年12月 "wikilink")

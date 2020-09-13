@@ -57,8 +57,13 @@
 
 ### カップ戦
 
-  - [全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")：**1回**
+  - **[全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")：1回**
       - 2019年
+
+### その他
+
+  - **[大阪サッカー選手権大会](https://ja.wikipedia.org/wiki/大阪サッカー選手権大会 "wikilink") : 1回**
+      - 2020年
 
 ### 表彰
 
@@ -403,7 +408,7 @@ TAORU</p></td>
 </tr>
 <tr class="odd">
 <td><p>パンツ</p></td>
-<td><p><a href="http://fukuda-hsp.jp/">福田総合病院</a></p></td>
+<td><p><a href="../Page/福田総合病院.md" title="wikilink">福田総合病院</a></p></td>
 <td><p>福田総合病院</p></td>
 <td><p>2020年 -</p></td>
 <td></td>
@@ -522,7 +527,7 @@ TAORU</p></td>
 <td><p><a href="http://izawa-towel.com/">IZAWA<br />
 TAORU</a></p></td>
 <td><p><a href="http://www.himuros.com/">ヒムロ</a></p></td>
-<td><p><a href="http://fukuda-hsp.jp/">福田総合病院</a></p></td>
+<td><p><a href="../Page/福田総合病院.md" title="wikilink">福田総合病院</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -560,7 +565,7 @@ TAORU</a></p></td>
   -
   -
   -
-[Category:大阪府のサッカークラブ](https://ja.wikipedia.org/wiki/Category:大阪府のサッカークラブ "wikilink") [Category:枚方市](https://ja.wikipedia.org/wiki/Category:枚方市 "wikilink") [Category:2004年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:2004年設立のスポーツチーム "wikilink") [Category:稲本潤一](https://ja.wikipedia.org/wiki/Category:稲本潤一 "wikilink")
+[Category:大阪府のサッカークラブ](https://ja.wikipedia.org/wiki/Category:大阪府のサッカークラブ "wikilink") [Category:枚方市のスポーツ](https://ja.wikipedia.org/wiki/Category:枚方市のスポーツ "wikilink") [Category:2004年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:2004年設立のスポーツチーム "wikilink") [Category:稲本潤一](https://ja.wikipedia.org/wiki/Category:稲本潤一 "wikilink")
 
 1.
 2.

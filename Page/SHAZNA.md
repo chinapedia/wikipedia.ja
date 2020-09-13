@@ -29,7 +29,7 @@
 
 [2006年](../Page/2006年.md "wikilink")6月、デビュー9年を期に6年ぶりの活動再開を発表し、IZAMは自身のトレードマークであった[女装](../Page/女装.md "wikilink")を「単に飽きてた」のと「髪を短くしていた」ことを理由に封印した\[9\]。9月の渋谷duo MUSIC EXCHANGEでの復活ライヴで活動を再開。11月にはIZAMとタレントの[吉岡美穂](../Page/吉岡美穂.md "wikilink")の結婚が報道された。IZAMにとっては再婚となる。
 
-[2007年](../Page/2007年.md "wikilink")4月25日にニュー・シングル『心 c/w \[1/2\] , 神風』がネット限定発売。「神風」を除く2曲は、ダウンロード、着うたフルでも発売された。5月4日、5日、6日には、東京の[目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink")で原点回帰をキーワードにした復帰シングル発売記念のライヴを行った。この3日間はそれぞれ「過去」・「現在」・「未来」と分けられ、一部楽曲を除き各日異なる曲構成となっていた。
+[2007年](../Page/2007年.md "wikilink")4月25日にニュー・シングル『心 c/w \[1/2\] , 神風』がネット限定発売。「神風」を除く2曲は、ダウンロード、着うたフルでも発売された。5月4日、5日、6日には、東京の[目黒鹿鳴館](../Page/目黒鹿鳴館.md "wikilink")で原点回帰をキーワードにした復帰シングル発売記念のライヴを行った。この3日間はそれぞれ「過去」・「現在」・「未来」と分けられ、一部楽曲を除き各日異なる曲構成となっていた。
 
 [2007年](../Page/2007年.md "wikilink")8月8日に10周年記念アルバム『10th Melty Life』を発売した。エンハンスト仕様で、「Melty Love」のラスト・インディーズ・ヴァージョンのPVが収録されている。8月19日には十周年記念公演「Summer Celebration☆10th Melty Life☆」を恵比寿LIQUIDROOMにて開催した。9月5日にはベスト盤『SINGLE BEST SHAZNA & IZAM』を発売した。
 
@@ -49,27 +49,16 @@
 
 ## メンバー
 
-  - **[IZAM](../Page/IZAM.md "wikilink")**（イザム - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。[1972年](../Page/1972年.md "wikilink")\[16\][4月23日](../Page/4月23日.md "wikilink") - ）
-
-<!-- end list -->
-
-  -
-    本名は**日根 良和**（ひね よしかず）。身長180cm。父親は[国鉄スワローズの投手だった](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")[日根紘三](../Page/日根紘三.md "wikilink")。
+  - [IZAM](../Page/IZAM.md "wikilink")（イザム）
+    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。[1972年](../Page/1972年.md "wikilink")\[16\][4月23日](../Page/4月23日.md "wikilink")生まれ。本名は**日根 良和**（ひね よしかず）。身長180cm。父親は[国鉄スワローズの投手だった](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")[日根紘三](../Page/日根紘三.md "wikilink")。
     インディーズ時代のバンドネームは「葵翠 -kisui-」「IZANE」「IZAMÜ」「IZAMU」など活動時期・ミニアルバムの発売ごとに変わり、インディーズラストアルバム『Promise Eve』にて現在の「IZAM」名義となる。
     AOIとのバンド「[alcali-5](http://www.myspace.com/alcali5)」では「十六夢（いざむ）」名義で活動。
     活動中はソロデビュー、俳優としても映画『[溺れる魚](https://ja.wikipedia.org/wiki/溺れる魚#映画 "wikilink")』や[日本テレビのドラマ](../Page/日本テレビ放送網.md "wikilink")『[三姉妹探偵団](../Page/三姉妹探偵団.md "wikilink")』、[テレビ朝日](../Page/テレビ朝日.md "wikilink")のドラマ『[TRICK3](../Page/トリック_\(テレビドラマ\).md "wikilink")』にも出演している。
     妻はタレントの[吉岡美穂](../Page/吉岡美穂.md "wikilink")。元妻はタレント・[モデルの](../Page/モデル_\(職業\).md "wikilink")[吉川ひなの](https://ja.wikipedia.org/wiki/吉川ひなの "wikilink")。
-    解散後も主にタレント・俳優として活動。また恐妻家などで話題となる。
+    解散後も主にタレント・俳優として活動。2010年代前半にはバラエティー番組で恐妻家として再注目される。
     デビュー直後からあらゆる場面で、SHAZNAの名前の由来は当初「NIYと好きな英単語を出し合って並べ替えたもの」と発言していたが、『[ろみひー](../Page/ろみひー.md "wikilink")』（[中京テレビ](../Page/中京テレビ放送.md "wikilink")）出演時にIZAMが自身の本名である日根良和（hine yoshikazu）を並べ替えた物であると発言（実際に一致する）。また、この出演時に年齢を4歳[サバを読んでいたこともカミングアウトしている](../Page/鯖読み.md "wikilink")。
-
-<!-- end list -->
-
-  - **AOI**（アオイ - [ギター](../Page/ギター.md "wikilink")担当。1972年[11月8日](../Page/11月8日.md "wikilink")（歳） - ）
-
-<!-- end list -->
-
-  -
-    本名は**萬 圭介**（よろず けいすけ）。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")生まれの[千葉県](../Page/千葉県.md "wikilink")育ち。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+  - AOI（アオイ）
+    [ギター](../Page/ギター.md "wikilink")担当。1972年[11月8日](../Page/11月8日.md "wikilink")生まれ、歳。本名は**萬 圭介**（よろず けいすけ）。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")生まれの[千葉県](../Page/千葉県.md "wikilink")育ち。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
     初期は「A・O・I」名義。活動休止後はソロとして「AOI UNPLUGGED」にてVocal\&A.Guitarによる単独公演を開催。
     ショートフィルム『ガラクタノココロ』を「葵圭介」名義で自主制作。[インディーズムービー・フェスティバル](../Page/インディーズムービー・フェスティバル.md "wikilink")においてグランプリを受賞した。
     SHAZNAに加入する前はオーディションを受けており、ライヴハウスのスタッフの紹介で新宿の[マクドナルド](../Page/マクドナルド.md "wikilink")でメンバーと顔を合わせた。AOIは「僕も下手だから一緒に頑張ろうよ」と言い、SHAZNAに加入した。
@@ -77,50 +66,20 @@
     弟は[俳優](../Page/俳優.md "wikilink")の[萬雅之](../Page/萬雅之.md "wikilink")、妻は[作詞家](../Page/作詞家.md "wikilink")兼[女優](https://ja.wikipedia.org/wiki/女優 "wikilink")の[森本玲](https://ja.wikipedia.org/wiki/森本玲 "wikilink")で間に一女がいる。
     解散後も「AOI UNPLUGGED」を継続しながら、[UNWAS](https://ja.wikipedia.org/wiki/UNWAS "wikilink")（[2013年](../Page/2013年.md "wikilink")3月付で解散）のサポートギタリストを経て、R2Y+J（リリィ・ジョーカー）のボーカル兼ギタリストとしても活動。
     2011年、[大手前大学](../Page/大手前大学.md "wikilink")[通信教育課程](https://ja.wikipedia.org/wiki/通信教育課程 "wikilink")の大学講師に就任。「音楽とコミュニケーション」を担当。
-
-<!-- end list -->
-
-  - **NIY**（ニー - [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。1972年[10月29日](../Page/10月29日.md "wikilink")（歳） - ）
-
-<!-- end list -->
-
-  -
-    本名非公表。[東京都](../Page/東京都.md "wikilink")出身。血液型はB型。[小松原高等学校](https://ja.wikipedia.org/wiki/小松原高等学校 "wikilink")出身。
+  - NIY（ニー）
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。1972年[10月29日](../Page/10月29日.md "wikilink")生まれ、歳。本名非公表。[東京都](../Page/東京都.md "wikilink")出身。血液型はB型。[小松原高等学校](https://ja.wikipedia.org/wiki/小松原高等学校 "wikilink")出身。
     バンドネームの由来は、結成当初のギタリストであったIZAMの友人の「兄ちゃん」だから。
-    2人兄弟で、AOIがSHAZNAに加入する前は弟がギターを弾いていた。しかしNIYの弟は、音楽性の違いと当時高校に通っていて、単位が取れなくなるとの理由により、結成後すぐに脱退した。
+    2人兄弟で、AOIがSHAZNAに加入する前は弟がギターを担当していた。しかしNIYの弟は音楽性の違いと当時高校に通っていて、単位が取れなくなるとの理由により、結成後すぐに脱退した。
     インディーズデビュー直前に一般人女性と結婚。一児を儲けたが、妻の浪費癖等によるトラブルなどで長男が小学生の頃に離婚。長男の親権は妻が持っている\[17\]。
     活動休止後は「FANBLE」のベーシストとしても活動。解散後は主にエムキチ・ビートにて[舞台俳優](https://ja.wikipedia.org/wiki/舞台俳優 "wikilink")として活動していた。
-
-<!-- end list -->
-
-  - **[Raychell](https://ja.wikipedia.org/wiki/Raychell "wikilink")**（レイチェル - 2ndボーカル担当。1月13日 - ）
-
-<!-- end list -->
-
-  -
-    身長170cm、血液型A\[18\]。2010年に「**Lay**」名義でデビューし、2013年に現在の名前に改名。[エースクルー・エンタテインメント](https://ja.wikipedia.org/wiki/エースクルー・エンタテインメント "wikilink")所属。
+  - （レイチェル）
+    2ndボーカル担当。1月13日生まれ。身長170cm、血液型A\[18\]。2010年に「**Lay**」名義でデビューし、2013年に現在の名前に改名。[エースクルー・エンタテインメント](https://ja.wikipedia.org/wiki/エースクルー・エンタテインメント "wikilink")所属。
     2017年にSHAZNA再始動発表と同時にグループに2ndボーカルとして加入。
-    2018年からはメディアミックスプロジェクト『**BanG Dream\!**』の女性バンド「[RAISE A SUILEN](https://ja.wikipedia.org/wiki/BanG_Dream!#RAISE_A_SUILEN（女性バンドユニット） "wikilink")」のボーカル＆ベースとしても活動しており、2019年からは[声優](../Page/声優.md "wikilink")としても参加する。
-
-<!-- end list -->
-
-  - **[夏芽](../Page/夏芽.md "wikilink")**（ナツメ - [ドラム担当](../Page/ドラムセット.md "wikilink")。7月20日 - ）
-
-<!-- end list -->
-
-  -
-    本名は**松浦 夏芽**（まつうら なつめ）。身長172cm、血液型B\[19\]。SHAZNA加入前はガールズバンド「Claddaph Ring」のメンバーとして活動していた。エースクルー・エンタテインメント所属。
+  - （ナツメ）
+    [ドラム担当](../Page/ドラムセット.md "wikilink")。7月20日生まれ。本名は**松浦 夏芽**（まつうら なつめ）。身長172cm、血液型B\[19\]。SHAZNA加入前はガールズバンド「Claddaph Ring」のメンバーとして活動していた。エースクルー・エンタテインメント所属。
     好きなものは[セーラームーン](https://ja.wikipedia.org/wiki/セーラームーン "wikilink")、[ミニーマウス](../Page/ミニーマウス.md "wikilink")。
-    2018年からはRaychellと共に「RAISE A SUILEN」のドラマーとしても活動しており、2019年からは声優としても参加する。
-
-<!-- end list -->
-
-  - **Asuka**（アスカ - [サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")担当。4月23日 - ）
-
-<!-- end list -->
-
-  -
-    本名、身長、血液型は2018年現在非公表。IZAMがプロデュースを務める「東京エロティカルパレード（現在は無期限活動休止中）」のメンバー。[モデル](https://ja.wikipedia.org/wiki/モデル "wikilink")、コンパニオンとしても活動している。好きなものは[ディズニー](https://ja.wikipedia.org/wiki/ディズニー "wikilink")。IZAMとは誕生日が同じである。
+  - Asuka（アスカ）
+    [サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")担当。4月23日生まれ。本名、身長、血液型は2019年現在非公表。IZAMがプロデュースを務める「東京エロティカルパレード（現在は無期限活動休止中）」のメンバー。[モデル](https://ja.wikipedia.org/wiki/モデル "wikilink")、コンパニオンとしても活動している。好きなものは[ディズニー](https://ja.wikipedia.org/wiki/ディズニー "wikilink")。IZAMとは誕生日が同じである。
 
 ## 元メンバー
 
@@ -130,8 +89,9 @@
 
   -
     [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。血液型O型。身長161.5cm。
-    インディーズ時代にドラムを担当。当時のメンバーでは唯一のバンド経験者であった。[1996年](../Page/1996年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")に発売されたインディーズアルバム『Raspberry Time』を最後にSHAZNAを脱退。翌1997年、[BAISER](../Page/BAISER.md "wikilink")のメンバーとしてメジャーデビューを果たしたが、2000年5月に同バンドは解散。
-    その後はインディーズに戻り、様々な[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンドを転々とした後、音楽活動を引退。現在は結婚し子供がいる。仕事をしながら野球チームをやっている。
+    インディーズ時代に在籍し、ドラムを担当。当時のメンバーでは唯一のバンド経験者であった。
+    [1996年](../Page/1996年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")に発売されたインディーズアルバム『Raspberry Time』を最後にSHAZNAを脱退。翌1997年、[BAISER](../Page/BAISER.md "wikilink")に加入してメジャーデビューを果たしたが、2000年5月に同バンドは解散。
+    その後はインディーズに戻り、様々な[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンドを転々とした後、音楽活動を引退。既婚者で子供がおり、現在は仕事をしながら野球チームをやっている。
 
 ## ディスコグラフィー
 
@@ -394,7 +354,7 @@
 <td></td>
 <td><p>1994年11月30日</p></td>
 <td><p><strong>Sophia</strong></p></td>
-<td></td>
+<td><p>MEDA-R001SP（初回盤）</p></td>
 <td><ol>
 <li>If...</li>
 <li>Mirror</li>
@@ -404,13 +364,21 @@
 <li>Miss XXXX</li>
 <li>ESCAPE</li>
 </ol></td>
-<td></td>
+<td><p>初回盤は<a href="https://ja.wikipedia.org/wiki/デジパック" title="wikilink">デジパック</a>仕様。</p></td>
 </tr>
 <tr class="even">
+<td><p>MEDA-R001（通常盤）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td><p>1996年3月14日</p></td>
 <td><p><strong>Melty Case</strong></p></td>
-<td></td>
+<td><p>LAC-001</p></td>
 <td><ol>
 <li>Melty Love</li>
 <li>TOPAZ</li>
@@ -420,7 +388,7 @@
 </ol></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1st</p></td>
 <td><p>1996年8月1日</p></td>
 <td><p><strong>Raspberry Time</strong></p></td>
@@ -436,7 +404,7 @@
 年間285位<br />
 </p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2nd</p></td>
 <td><p>1997年1月22日</p></td>
 <td><p><strong>Promise Eve</strong></p></td>
@@ -453,7 +421,7 @@
 1997年間126位<br />
 1998年間279位</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3rd</p></td>
 <td><p>1998年1月22日<br />
 1998年06月24日</p></td>
@@ -465,7 +433,7 @@ BVJR-8888:12inch</p></td>
 年間42位（限定盤）<br />
 年間59位（通常盤）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4th</p></td>
 <td><p>1999年6月30日</p></td>
 <td><p><strong>PURE HEARTS</strong></p></td>
@@ -490,7 +458,7 @@ BVJR-8888:12inch</p></td>
 <td><p>オリコン最高15位<br />
 年間321位</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Best</p></td>
 <td><p>2000年1月1日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/BEST_ALBUM_1993_2000_OLDIES" title="wikilink">BEST ALBUM 1993 2000 OLDIES</a></strong></p></td>
@@ -499,7 +467,7 @@ BVJR-8888:12inch</p></td>
 <td><p>オリコン最高24位<br />
 年間368位</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5th</p></td>
 <td><p>2007年8月8日</p></td>
 <td><p><strong>10TH MELTY LIFE</strong></p></td>
@@ -523,7 +491,7 @@ BVJR-8888:12inch</p></td>
 </dl></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Best</p></td>
 <td><p>2007年9月5日</p></td>
 <td><p><strong>SINGLE BEST SHAZNA &amp; IZAM</strong></p></td>
@@ -547,7 +515,7 @@ BVJR-8888:12inch</p></td>
 </ol></td>
 <td><p>シングルコレクション、IZAMのソロシングル曲も収録</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -649,12 +617,12 @@ TOVF-1298:通常盤</p></td>
 
 ## ミュージックビデオ
 
-|                                                                     |                                                                                                                                                                    |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **監督**                                                              | **曲名**                                                                                                                                                             |
-| [Higuchinsky](https://ja.wikipedia.org/wiki/Higuchinsky "wikilink") | 「PIECE OF LOVE」「PINK」                                                                                                                                              |
-| 不明                                                                  | 「AQUA」「Love is Alive」「Melty Love」「PURENESS」「Raspberry Time」「SWEET HEART MEMORY」「Tokyo Ballet Reprise」「White Silent Night」「Winter's Review」「すみれ September Love」「恋人」 |
-|                                                                     |                                                                                                                                                                    |
+|                                                  |                                                                                                                                                                    |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **監督**                                           | **曲名**                                                                                                                                                             |
+| [Higuchinsky](../Page/Higuchinsky.md "wikilink") | 「PIECE OF LOVE」「PINK」                                                                                                                                              |
+| 不明                                               | 「AQUA」「Love is Alive」「Melty Love」「PURENESS」「Raspberry Time」「SWEET HEART MEMORY」「Tokyo Ballet Reprise」「White Silent Night」「Winter's Review」「すみれ September Love」「恋人」 |
+|                                                  |                                                                                                                                                                    |
 
 ## タイアップ
 
@@ -757,7 +725,7 @@ TOVF-1298:通常盤</p></td>
 13.
 14.
 15.
-16. "IZAM"としての生年は[1976年](../Page/1976年.md "wikilink")、占い師に変えてもらったという
+16. "IZAM"としての生年は[1976年](../Page/1976年.md "wikilink")、占い師に変えてもらったという。
 17.
 18.  エースクルー・エンタテインメント|url=[http://acecrew.co.jp/artist/raychell.html|website=acecrew.co.jp|accessdate=2019-05-05](http://acecrew.co.jp/artist/raychell.html%7Cwebsite=acecrew.co.jp%7Caccessdate=2019-05-05)}}
 19.  エースクルー・エンタテインメント|url=[http://acecrew.co.jp/artist/natsume.html|website=acecrew.co.jp|accessdate=2019-05-05](http://acecrew.co.jp/artist/natsume.html%7Cwebsite=acecrew.co.jp%7Caccessdate=2019-05-05)}}

@@ -31,7 +31,7 @@
 <!-- end list -->
 
   - 虎田 功 -とらだ いさお-（演 [星正人](../Page/星正人.md "wikilink")）
-    刑事。捜査課では最年少の若手刑事。美青年で、強面揃いの軍団では異色の存在である。愛称は「トラ」。前半期は[パーマ](https://ja.wikipedia.org/wiki/パーマ "wikilink")・サングラスというチンピラ的な風貌であったが、後半期は長髪・パンタロンスーツというファッショナブルなキャラになった。ルックスに似合わぬ武闘派で権威や権力を嫌い、加川には真っ向から反発する事もあったが、後半からは二枚目半的性格が強調される様になる。また、黒岩、丸山以外の先輩刑事には平然とタメ口で話すのが定番だった。女好きであり、美女が容疑者と分かった時は捜査を張り切る描写が見られた（ただし、一度だけ逮捕した女から「坊や」呼ばわりされ、逆上した事がある）。拳銃は[コルト](../Page/コルト・ファイヤーアームズ.md "wikilink") [M1911](../Page/M1911.md "wikilink")ガバメントを使用。「[教職を取っておけばよかった](https://ja.wikipedia.org/wiki/教育職 "wikilink")」とぼやく描写がある事（第41話）から大卒である模様。
+    刑事。捜査課では最年少の若手刑事。美青年で、強面揃いの軍団では異色の存在である。愛称は「トラ」。前半期は[パーマ](https://ja.wikipedia.org/wiki/パーマ "wikilink")・サングラスというチンピラ的な風貌であったが、後半期は長髪・パンタロンスーツというファッショナブルなキャラになった。ルックスに似合わぬ武闘派で権威や権力を嫌い、加川には真っ向から反発する事もあったが、後半からは二枚目半的性格が強調される様になる。また、黒岩、丸山以外の先輩刑事には平然とタメ口で話すのが定番だった。女好きであり、美女が容疑者と分かった時は捜査を張り切る描写が見られた（ただし、一度だけ逮捕した女から「坊や」呼ばわりされ、逆上した事がある）。拳銃は[コルト](../Page/コルト・ファイヤーアームズ.md "wikilink") [M1911](../Page/M1911.md "wikilink")ガバメントを使用。「[教職を取っておけばよかった](../Page/教職課程.md "wikilink")」とぼやく描写がある事（第41話）から大卒である模様。
     企画段階では「村田功」という役名であり、愛称は「ムラ」だった\[6\]。
 
 <!-- end list -->
@@ -339,7 +339,7 @@
 <td><p>3月20日</p></td>
 <td><p>冷血</p></td>
 <td><p>永原秀一</p></td>
-<td><p><a href="../Page/ガッツ石松.md" title="wikilink">ガッツ石松</a>、<a href="https://ja.wikipedia.org/wiki/鹿沼エリ" title="wikilink">鹿沼エリ</a>、<a href="../Page/藤山律子.md" title="wikilink">藤山律子</a>、<a href="https://ja.wikipedia.org/wiki/あきじゅん" title="wikilink">あきじゅん</a>、<a href="https://ja.wikipedia.org/wiki/梨沙ゆり" title="wikilink">梨沙ゆり</a>、<a href="https://ja.wikipedia.org/wiki/横田陽子" title="wikilink">横田陽子</a>、<a href="https://ja.wikipedia.org/wiki/入江正徳" title="wikilink">入江正徳</a>、<a href="https://ja.wikipedia.org/wiki/金子勝美_(女優)" title="wikilink">金子勝美</a>、<a href="https://ja.wikipedia.org/wiki/佐藤陽子_(女優)" title="wikilink">佐藤陽子</a>、<a href="https://ja.wikipedia.org/wiki/殿塚喜久子" title="wikilink">殿塚喜久子</a>、<a href="https://ja.wikipedia.org/wiki/有目ゆう子" title="wikilink">有目ゆう子</a>、<a href="https://ja.wikipedia.org/wiki/山口麻美_(女優)" title="wikilink">山口麻美</a></p></td>
+<td><p><a href="../Page/ガッツ石松.md" title="wikilink">ガッツ石松</a>、<a href="https://ja.wikipedia.org/wiki/鹿沼エリ" title="wikilink">鹿沼エリ</a>、<a href="../Page/藤山律子.md" title="wikilink">藤山律子</a>、<a href="https://ja.wikipedia.org/wiki/あきじゅん" title="wikilink">あきじゅん</a>、<a href="https://ja.wikipedia.org/wiki/梨沙ゆり" title="wikilink">梨沙ゆり</a>、<a href="https://ja.wikipedia.org/wiki/横田陽子" title="wikilink">横田陽子</a>、<a href="../Page/入江正徳.md" title="wikilink">入江正徳</a>、<a href="https://ja.wikipedia.org/wiki/金子勝美_(女優)" title="wikilink">金子勝美</a>、<a href="https://ja.wikipedia.org/wiki/佐藤陽子_(女優)" title="wikilink">佐藤陽子</a>、<a href="https://ja.wikipedia.org/wiki/殿塚喜久子" title="wikilink">殿塚喜久子</a>、<a href="https://ja.wikipedia.org/wiki/有目ゆう子" title="wikilink">有目ゆう子</a>、<a href="https://ja.wikipedia.org/wiki/山口麻美_(女優)" title="wikilink">山口麻美</a></p></td>
 <td><p>24.1%</p></td>
 <td></td>
 </tr>
@@ -458,7 +458,7 @@
 <td><p>頭取集団誘拐</p></td>
 <td><p>浅井達也</p></td>
 <td><p>渡辺拓也</p></td>
-<td><p><a href="../Page/山本昌平.md" title="wikilink">山本昌平</a>、小林稔侍、伊豆肇、<a href="https://ja.wikipedia.org/wiki/長島隆一" title="wikilink">長島隆一</a>、外野村晋、<a href="https://ja.wikipedia.org/wiki/吉良冬太" title="wikilink">吉良冬太</a>、<a href="../Page/鈴木和夫.md" title="wikilink">鈴木和夫</a>、<a href="https://ja.wikipedia.org/wiki/湯川勉" title="wikilink">湯川勉</a>、西山健司、<a href="https://ja.wikipedia.org/wiki/桐島好夫" title="wikilink">桐島好文</a>、小見山玉樹、山本武、<a href="https://ja.wikipedia.org/wiki/近松敏夫" title="wikilink">近松敏夫</a>、稲川善一、<a href="https://ja.wikipedia.org/wiki/伴藤武" title="wikilink">伴藤武</a>、<a href="https://ja.wikipedia.org/wiki/入江正徳" title="wikilink">入江正徳</a>、<a href="https://ja.wikipedia.org/wiki/久遠利三" title="wikilink">久遠利三</a>、<a href="https://ja.wikipedia.org/wiki/竹下江里子" title="wikilink">竹下江里子</a></p></td>
+<td><p><a href="../Page/山本昌平.md" title="wikilink">山本昌平</a>、小林稔侍、伊豆肇、<a href="https://ja.wikipedia.org/wiki/長島隆一" title="wikilink">長島隆一</a>、外野村晋、<a href="https://ja.wikipedia.org/wiki/吉良冬太" title="wikilink">吉良冬太</a>、<a href="../Page/鈴木和夫.md" title="wikilink">鈴木和夫</a>、<a href="https://ja.wikipedia.org/wiki/湯川勉" title="wikilink">湯川勉</a>、西山健司、<a href="https://ja.wikipedia.org/wiki/桐島好夫" title="wikilink">桐島好文</a>、小見山玉樹、山本武、<a href="https://ja.wikipedia.org/wiki/近松敏夫" title="wikilink">近松敏夫</a>、稲川善一、<a href="https://ja.wikipedia.org/wiki/伴藤武" title="wikilink">伴藤武</a>、<a href="../Page/入江正徳.md" title="wikilink">入江正徳</a>、<a href="https://ja.wikipedia.org/wiki/久遠利三" title="wikilink">久遠利三</a>、<a href="https://ja.wikipedia.org/wiki/竹下江里子" title="wikilink">竹下江里子</a></p></td>
 <td><p>20.2%</p></td>
 </tr>
 <tr class="even">
@@ -648,11 +648,11 @@
       -
         第11話のみ使用。
 
-「エンディングに主演俳優の歌を使う」、「刑事の行きつけの店で若手歌手が歌う」というフォーマットは『[西部警察](../Page/西部警察.md "wikilink")』にも受け継がれる。
+「エンディングに主演俳優の歌を使う」「刑事の行きつけの店で若手歌手が歌う」というフォーマットは『[西部警察](../Page/西部警察.md "wikilink")』にも受け継がれる。
 
 ## 撮影中の事故
 
-第36話「密告屋」の撮影中、宮本刑事役の[苅谷俊介](../Page/苅谷俊介.md "wikilink")が転倒、頭部を強打するという事故が発生。番組でロケ地として使用されていた渋谷病院へ救急搬送されたが、一時は意識不明の危篤状態に陥った\[10\]。その後の第40話からの撮影は苅谷を外した状態で続行されたが（オープニング映像には登場するが、クレジットは削除）、苅谷自身も奇跡的な回復を見せ、最終話「黒岩軍団抹殺指令」で復帰を果たした\[11\]。
+第36話「密告屋」の撮影中、宮本刑事役の[苅谷俊介](../Page/苅谷俊介.md "wikilink")が転倒、頭部を強打するという事故が発生。番組でロケ地として使用されていた渋谷病院へ救急搬送されたが、一時は意識不明の危篤状態に陥った\[10\]。その後の第40話からの撮影は苅谷を外した状態で続行されたが（オープニング映像には登場するが、クレジットは削除）、幸いにも苅谷自身は奇跡的な回復を見せ、最終話「黒岩軍団抹殺指令」で復帰を果たした\[11\]。
 
 ## 再放送・ソフト化
 
@@ -668,19 +668,17 @@ DVD-BOXは2012年10月、11月に[ポニーキャニオン](../Page/ポニーキ
 
   - 本作の当初の予定終了後に、放送延長もしくは新シリーズ（『新大都会』『大都会IV』『にっぽんFBI』などの仮題）の制作が日本テレビ側から希望されていた\[12\]。しかし石原プロがテレビ朝日系で放映された『[浮浪雲](https://ja.wikipedia.org/wiki/浮浪雲#渡哲也版 "wikilink")』を制作したことをきっかけに、テレビ朝日から石原プロに対し破格の条件（広告代理店を介しない、テレビ朝日との直接契約）で『[西部警察](../Page/西部警察.md "wikilink")』の制作を打診されたことで『大都会』シリーズは終了した。この時は円満な“移籍”であり、気持ち良く送り出してくれたとのことで、第1制作部長になった[井原高忠](../Page/井原高忠.md "wikilink")からも「ダメだったら半年後でも1年後でもすぐ戻って来い」とも言われたという\[13\]。車両スポンサーもそのまま日産自動車が引き継ぎ、『西部警察』からは特殊車両の製作を担当することになる。
   - ちなみに『西部警察』第1話時点で本作からスライドして出演しているのは石原・渡・寺尾・苅谷・武藤の5人であり、後に峰と高城も出演することとなる。このうち石原は医者から軍団をサポートする捜査課長に、武藤は新聞記者から鑑識課員に役柄が変わる。峰は同じ刑事ながら、本作とは大きく異なる三枚目キャラクターで登場している。これ以外のメンバーでは、星と小野もゲスト出演を果たしている。
-  - 日本テレビでは本作終了の翌週から、『[大都会 PARTII](../Page/大都会_PARTII.md "wikilink")』で徳吉刑事を演じた[松田優作](../Page/松田優作.md "wikilink")主演による『[探偵物語](../Page/探偵物語.md "wikilink")』を放送。この作品は監督の[村川透](../Page/村川透.md "wikilink")を筆頭に『大都会』『西部警察』と共通のスタッフが多く起用されている。松田は第3話のカーチェイスシーンで「おいおい、これじゃまるで『大都会PARTIII』じゃねえか」と突っ込むセリフがある\[14\]。
+  - 日本テレビでは本作終了の翌週から、『[大都会 PARTII](../Page/大都会_PARTII.md "wikilink")』で徳吉刑事を演じた[松田優作](../Page/松田優作.md "wikilink")主演による『[探偵物語](../Page/探偵物語.md "wikilink")』を放送。この作品は監督の[村川透](../Page/村川透.md "wikilink")を筆頭に『大都会』『西部警察』と共通のスタッフが多く起用されている。松田が演じる工藤俊作は、第3話のカーチェイスシーンで「おいおい、これじゃまるで『大都会 PARTIII』じゃねえか」と突っ込むセリフがある\[14\]。
 
 ## その他
 
   - 30数台のパトカーが坂を上り下りし、ヘリコプターが飛ぶという本作のオープニング映像は、現・[横浜市](../Page/横浜市.md "wikilink")[青葉区の](../Page/青葉区_\(横浜市\).md "wikilink")[あざみ野](../Page/あざみ野.md "wikilink")の幅の広い道路で撮影された\[15\]。
   - 第19話「警官ギャング」は当初、第17話として1979年[1月30日](../Page/1月30日.md "wikilink")に放送される予定だったが、銀行強盗を扱った内容が同年[1月26日](../Page/1月26日.md "wikilink")大阪で発生した[三菱銀行人質事件](../Page/三菱銀行人質事件.md "wikilink")の影響を受け、「誘拐」と差し替えられた。「警官ギャング」は2週間後の[2月13日](../Page/2月13日.md "wikilink")に放送された。
   - 銀行強盗が立てこもるシーンを撮影するために、[調布市](../Page/調布市.md "wikilink")内にある石原プロの取引先の銀行にロケ協力を申し込んだが、銀行の上層部はこのストーリーの内容に難色を示して協力を渋った。これを受けて制作の陣頭指揮を執っていた小林正彦は石原プロの預金をすべて引き揚げ、これが支店長の進退問題になるほどの騒ぎに発展した。銀行上層部が丁重に謝罪し、この銀行でのロケが実現したという\[16\]。
-  - 企画段階では、牧野役に[郷鍈治](../Page/郷えい治.md "wikilink")、虎田役に[沖雅也](https://ja.wikipedia.org/wiki/沖雅也 "wikilink")と[永島敏行](../Page/永島敏行.md "wikilink")の名が上がっていた。また、[舘ひろし](../Page/舘ひろし.md "wikilink")のレギュラー出演が検討されたが、音楽活動に専念するという理由で本人が辞退している（後に『西部警察』に出演し、『[--PARTI](../Page/西部警察_\(PART1\).md "wikilink")』の初回から第30話で一旦降板したが、第109話から『[--PARTIII](../Page/西部警察_PART-III.md "wikilink")』の最終回まで別の役で再出演した）\[17\]。
-  - 第37話「頭取集団誘拐」の[プロット](https://ja.wikipedia.org/wiki/プロット "wikilink")は、後に[1996年](../Page/1996年.md "wikilink")の映画『[あぶない刑事リターンズ](https://ja.wikipedia.org/wiki/あぶない刑事リターンズ "wikilink")』（脚本:柏原寛司、[大川俊道](../Page/大川俊道.md "wikilink") / 監督:村川透）へ流用された\[18\]。
-
-<!-- end list -->
-
-  - 動画配信サイト「[hulu](https://ja.wikipedia.org/wiki/hulu "wikilink")」では権利上の理由(詳細は不明)により27話は配信されていない。
+  - 企画段階では、牧野役に[郷鍈治](../Page/郷鍈治.md "wikilink")、虎田役に[沖雅也](https://ja.wikipedia.org/wiki/沖雅也 "wikilink")と[永島敏行](../Page/永島敏行.md "wikilink")の名が上がっていた。また、[舘ひろし](../Page/舘ひろし.md "wikilink")のレギュラー出演が検討されたが、音楽活動に専念するという理由で本人が辞退している（後に『西部警察』に出演し、『[--PARTI](../Page/西部警察_\(PART1\).md "wikilink")』の初回から第30話で一旦降板したが、第109話から『[--PARTIII](../Page/西部警察_PART-III.md "wikilink")』の最終回まで別の役で再出演した）\[17\]。
+  - 第37話「頭取集団誘拐」の[プロット](https://ja.wikipedia.org/wiki/プロット "wikilink")は、後に[1996年](../Page/1996年.md "wikilink")の映画『[あぶない刑事リターンズ](https://ja.wikipedia.org/wiki/あぶない刑事リターンズ "wikilink")』（脚本：柏原寛司、[大川俊道](../Page/大川俊道.md "wikilink") / 監督：村川透）へ流用された\[18\]。
+  - 動画配信サイト「[hulu](https://ja.wikipedia.org/wiki/hulu "wikilink")」では、権利上の理由（詳細は不明）により第27話が配信されていない。
+  - 『[週刊文春](../Page/週刊文春.md "wikilink")』2020年8月27日号にて渡哲也の追悼グラビアが組まれ、そこに本作の写真が掲載されていたが、キャプションの間違い（作品名が「西部警察」、星正人が「松田優作」、装甲車が「戦車」）を複数の読者から指摘され、翌9月3日号の読者投稿ページにて謝罪文を掲載することとなった。
 
 ## 脚注
 

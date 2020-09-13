@@ -837,7 +837,7 @@
 <td><p>全5回</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/権野元" title="wikilink">権野元</a></p></td>
 <td><p><a href="../Page/渡辺千穂.md" title="wikilink">渡辺千穂</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松雪泰子" title="wikilink">松雪泰子</a>、<a href="https://ja.wikipedia.org/wiki/ミムラ_(女優)" title="wikilink">ミムラ</a>、<a href="https://ja.wikipedia.org/wiki/西田尚美" title="wikilink">西田尚美</a>、<a href="https://ja.wikipedia.org/wiki/麻生祐未" title="wikilink">麻生祐未</a>、<a href="https://ja.wikipedia.org/wiki/小池栄子" title="wikilink">小池栄子</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/松雪泰子" title="wikilink">松雪泰子</a>、<a href="../Page/美村里江.md" title="wikilink">ミムラ</a>、<a href="https://ja.wikipedia.org/wiki/西田尚美" title="wikilink">西田尚美</a>、<a href="https://ja.wikipedia.org/wiki/麻生祐未" title="wikilink">麻生祐未</a>、<a href="https://ja.wikipedia.org/wiki/小池栄子" title="wikilink">小池栄子</a></p></td>
 <td><p><a href="../Page/真梨幸子.md" title="wikilink">真梨幸子</a></p></td>
 <td></td>
 </tr>
@@ -1152,7 +1152,7 @@
 <td><p>全6回</p></td>
 <td><p><a href="../Page/国本雅広.md" title="wikilink">国本雅広</a></p></td>
 <td><p>吉田紀子</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三浦春馬" title="wikilink">三浦春馬</a>、<a href="../Page/高橋メアリージュン.md" title="wikilink">高橋メアリージュン</a></p></td>
+<td><p><a href="../Page/三浦春馬.md" title="wikilink">三浦春馬</a>、<a href="../Page/高橋メアリージュン.md" title="wikilink">高橋メアリージュン</a></p></td>
 <td><p>東野圭吾</p></td>
 <td></td>
 </tr>
@@ -1567,7 +1567,7 @@
 <a href="../Page/岩本仁志.md" title="wikilink">岩本仁志</a><br />
 <a href="https://ja.wikipedia.org/wiki/西村了_(演出家)" title="wikilink">西村了</a></p></td>
 <td><p><a href="../Page/大石哲也.md" title="wikilink">大石哲也</a><br />
-<a href="https://ja.wikipedia.org/wiki/山浦雅大" title="wikilink">山浦雅大</a><br />
+<a href="../Page/山浦雅大.md" title="wikilink">山浦雅大</a><br />
 <a href="https://ja.wikipedia.org/wiki/山岡潤平" title="wikilink">山岡潤平</a></p></td>
 <td><p>鈴木亮平</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/モンキー・パンチ" title="wikilink">モンキー・パンチ</a></p></td>
@@ -1841,7 +1841,7 @@
 </tr>
 <tr class="odd">
 <td><p>40</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/監査役野崎修平#頭取_野崎修平" title="wikilink">頭取 野崎修平</a></p></td>
+<td><p><a href="../Page/監査役野崎修平.md" title="wikilink">頭取 野崎修平</a></p></td>
 <td><p>1月19日 - 2月16日</p></td>
 <td><p>全5回</p></td>
 <td><p>権野元</p></td>
@@ -1874,6 +1874,53 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>43</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/セイレーンの懺悔#テレビドラマ" title="wikilink">セイレーンの懺悔</a></p></td>
+<td><p>10月18日 -11月8日<br />
+（予定）</p></td>
+<td><p>全4回</p></td>
+<td><p>中前勇児<br />
+村上正典</p></td>
+<td><p>篠﨑絵里子</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/新木優子" title="wikilink">新木優子</a>、池内博之、高梨臨、<a href="../Page/甲本雅裕.md" title="wikilink">甲本雅裕</a>、<a href="https://ja.wikipedia.org/wiki/濱田マリ" title="wikilink">濱田マリ</a>、<a href="../Page/池田成志.md" title="wikilink">池田成志</a>、高嶋政伸</p></td>
+<td><p>中山七里</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>44</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/夜がどれほど暗くても#テレビドラマ" title="wikilink">夜がどれほど暗くても</a></p></td>
+<td><p>11月 - （予定）</p></td>
+<td><p>全4回</p></td>
+<td><p><a href="../Page/橋本一.md" title="wikilink">橋本一</a><br />
+<a href="https://ja.wikipedia.org/wiki/谷口正晃" title="wikilink">谷口正晃</a></p></td>
+<td><p><a href="../Page/大石哲也.md" title="wikilink">大石哲也</a></p></td>
+<td><p>上川隆也</p></td>
+<td><p>中山七里</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2021年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>45</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/トッカイ〜バブルの怪人を追いつめた男たち#テレビドラマ" title="wikilink">トッカイ〜不良債権特別回収部〜</a></p></td>
+<td><p>（放送日未定）</p></td>
+<td><p>全12回</p></td>
+<td><p>若松節朗</p></td>
+<td><p>戸田山雅司</p></td>
+<td><p>伊藤英明、中山優馬</p></td>
+<td><p>清武英利　</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>#</p></td>
 <td><p>タイトル</p></td>
 <td><p>初放送日</p></td>
@@ -1901,6 +1948,7 @@
 
   - [オリジナルドラマ - WOWOW ONLINE](http://www.wowow.co.jp/drama/original/)
 
+  -
   -
 [Category:ドラマW](https://ja.wikipedia.org/wiki/Category:ドラマW "wikilink")
 

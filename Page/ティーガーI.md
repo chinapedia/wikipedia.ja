@@ -127,7 +127,7 @@
 
 ## 連合軍による鹵獲
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Tiger_131_\(7527948486\).jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Zhukov_at_the_Tiger_tank.jpg "wikilink")、[ジューコフら赤軍](https://ja.wikipedia.org/wiki/ゲオルギー・ジューコフ "wikilink")\]\] 1943年4月21日、[第504重戦車大隊](https://ja.wikipedia.org/wiki/第504重戦車大隊 "wikilink")の砲塔番号131番のティーガーIが、[チュニジア](../Page/チュニジア.md "wikilink")のジェベルジャッファの丘での[イギリス軍](../Page/イギリス軍.md "wikilink")の[チャーチル歩兵戦車](../Page/チャーチル歩兵戦車.md "wikilink")との戦闘後に[鹵獲](../Page/鹵獲.md "wikilink")された。その戦車は修理され、チュニジアでしばらく展示された後、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")本国に送られ徹底的に調査された。しかし米英など[西側連合国はこのドイツ戦車がいかなる自軍戦車より優れていることが判明したにもかかわらず](../Page/西側諸国.md "wikilink")、ほとんど対策をとらなかった。これは、一つにはティーガーIは[大量生産](../Page/大量生産.md "wikilink")がなされないだろうという正しい推測による。また、[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")の戦術教条では、戦車というものは戦車対戦車の戦闘には重点をおかず、対戦車戦闘は[駆逐戦車](../Page/駆逐戦車.md "wikilink")の担当となっていたことによる。一方[イギリス陸軍](../Page/イギリス陸軍.md "wikilink")はティーガーIの調査後、17ポンド砲を搭載した[シャーマン ファイアフライや](../Page/シャーマン_ファイアフライ.md "wikilink")[コメット巡航戦車](../Page/コメット巡航戦車.md "wikilink")を投入したが、後者は登場時期がライン渡河作戦以降であったため、ドイツ戦車と遭遇する機会はほとんどなかった。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Tiger_131_\(7527948486\).jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Zhukov_at_the_Tiger_tank.jpg "wikilink")、[ジューコフら](https://ja.wikipedia.org/wiki/ゲオルギー・ジューコフ "wikilink")[赤軍](../Page/赤軍.md "wikilink")\]\] 1943年4月21日、[第504重戦車大隊](https://ja.wikipedia.org/wiki/第504重戦車大隊 "wikilink")の砲塔番号131番のティーガーIが、[チュニジア](../Page/チュニジア.md "wikilink")のジェベルジャッファの丘での[イギリス軍](../Page/イギリス軍.md "wikilink")の[チャーチル歩兵戦車](../Page/チャーチル歩兵戦車.md "wikilink")との戦闘後に[鹵獲](../Page/鹵獲.md "wikilink")された。その戦車は修理され、チュニジアでしばらく展示された後、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")本国に送られ徹底的に調査された。しかし米英など[西側連合国はこのドイツ戦車がいかなる自軍戦車より優れていることが判明したにもかかわらず](../Page/西側諸国.md "wikilink")、ほとんど対策をとらなかった。これは、一つにはティーガーIは[大量生産](../Page/大量生産.md "wikilink")がなされないだろうという正しい推測による。また、[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")の戦術教条では、戦車というものは戦車対戦車の戦闘には重点をおかず、対戦車戦闘は[駆逐戦車](../Page/駆逐戦車.md "wikilink")の担当となっていたことによる。一方[イギリス陸軍](../Page/イギリス陸軍.md "wikilink")はティーガーIの調査後、17ポンド砲を搭載した[シャーマン ファイアフライや](../Page/シャーマン_ファイアフライ.md "wikilink")[コメット巡航戦車](../Page/コメット巡航戦車.md "wikilink")を投入したが、後者は登場時期がライン渡河作戦以降であったため、ドイツ戦車と遭遇する機会はほとんどなかった。
 
 1951年9月25日、鹵獲されたティーガーIはイギリス軍需省によって[ボービントン戦車博物館](https://ja.wikipedia.org/wiki/ボービントン戦車博物館 "wikilink")へと正式に寄贈された。1990年6月、本車が完全に稼動できるように修復作業が始まった。2003年12月、ABRO（陸軍基地修理組織？）による大規模な修復作業の末、完全に稼動可能なエンジンを装備した131号車は博物館に戻された。今日、ティーガーIはボービントン戦車博物館において稼働展示が行われることがあり、その走行の様子を見ることができる\[31\]\[32\]。 {{-}}
 
@@ -236,7 +236,7 @@
   - **[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ムンスター戦車博物館](https://ja.wikipedia.org/wiki/ムンスター戦車博物館 "wikilink")の車両**
     屋内展示。[ノルマンディー](../Page/ノルマンディー.md "wikilink")のスクラップヤードや[ラトビア](https://ja.wikipedia.org/wiki/ラトビア "wikilink")から実物の部品を取り寄せつつ組み上げられたレプリカ。
 
-TigerI Saumur.jpg|ソミュール戦車博物館の所蔵車両 Vimoutiers (Orne-France) - Char Tigre allemand.jpg|ヴィムティエの展示車両 Немецкий тяжёлый танк Pz.VI (Tiger I).JPG|thumb|クビンカ戦車博物館の所蔵車両 Pz.Kpfw. Vl Ausf.H in Snegiri.JPG|レニノ＝スネギリ軍事歴史博物館の展示車両
+TigerI Saumur.jpg|ソミュール戦車博物館の所蔵車両 Vimoutiers (Orne-France) - Char Tigre allemand.jpg|ヴィムティエの展示車両 Немецкий тяжёлый танк Pz.VI (Tiger I).JPG|thumb|クビンカ戦車博物館の所蔵車両 Pz.Kpfw. Vl Ausf.H in Snegiri.JPG|レニノ＝スネギリ軍事歴史博物館の展示車両 Panzer VI Tiger Munster.jpg|ムンスター戦車博物館の展示車両
 
 ## 脚注
 

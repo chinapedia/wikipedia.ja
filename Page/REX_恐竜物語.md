@@ -52,11 +52,12 @@
 ## その他
 
   - ロケは[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[豊橋市](../Page/豊橋市.md "wikilink")の[豊橋自然史博物館](https://ja.wikipedia.org/wiki/豊橋自然史博物館 "wikilink")ハッシーワールドなどを中心に撮影されている。なお、この[豊橋自然史博物館](https://ja.wikipedia.org/wiki/豊橋自然史博物館 "wikilink")は[愛・地球博](https://ja.wikipedia.org/wiki/愛・地球博 "wikilink")で話題になった冷凍マンモスのユカギル・マンモスの展示でも有名。
-  - 劇中で安達祐実扮する千恵が使用している[オカリナ](../Page/オカリナ.md "wikilink")は、オカリナ奏者の寿和が製作したものである。また、劇中で流れるオカリナの演奏は、同じくオカリナ奏者である[宗次郎](../Page/宗次郎.md "wikilink")による。
+  - 劇中で安達扮する千恵が使用している[オカリナ](../Page/オカリナ.md "wikilink")は、オカリナ奏者の寿和が製作したものである。また、劇中で流れるオカリナの演奏は、同じくオカリナ奏者である[宗次郎](../Page/宗次郎.md "wikilink")による。
   - 千恵は引きこもりがちな性格に過ぎないにもかかわらず、[自閉症](../Page/自閉症.md "wikilink")と呼ばれるなど、過度に社交性を求める社会の問題点を加えて描いている（原作では単に[喘息](https://ja.wikipedia.org/wiki/喘息 "wikilink")という設定）。この件についてVHS版の本編終了後に「本作品は、寓話として製作されたフィクションですが、原作と異なって、主人公の少女の状態を自閉症気味ほとんど自閉症というセリフで表現していますが、少女は自閉症ではありません。こうした表現は、自閉症について誤った認識を助長しかねないものであり、お詫びして訂正します。医学的に自閉症はひとつの障害であり、本作品が描くような原因やその治癒は、実際とはまったく異なるものです。」とのテロップが流れる。
   - 当時安達は別の映画の仕事が内定していたが、この映画の話を聞いた事務所社長(当時)の[相澤秀禎](../Page/相澤秀禎.md "wikilink")自らの裁定でこの映画に出演させたという。
   - レックスの着ぐるみは『[E.T.](../Page/E.T..md "wikilink")』などの造形も担当した[カルロ・ランバルディ](https://ja.wikipedia.org/wiki/カルロ・ランバルディ "wikilink")によるもので、製作には500万ドルを費やしたといわれる\[2\]。
   - 高稼動のため10週間興行を14週間興行に変更する予定だったが、[角川春樹](../Page/角川春樹.md "wikilink")製作者兼監督のコカイン事件のため当初の10週間興行で打ち切られた\[3\]。また、。
+  - 1994年12月16日放送の『[金曜ロードショー（現:金曜ロードSHOW\!）](../Page/金曜ロードSHOW!.md "wikilink")』で本作品が放送され、解説内で安達がゲスト出演した。また、この放送日の翌日に公開される『[家なき子](../Page/家なき子_\(1994年のテレビドラマ\).md "wikilink")』の劇場版の予告が流れた。
 
 ## 受賞歴
 
@@ -106,7 +107,7 @@
   -
   -
   -
-[Category:1993年の映画](https://ja.wikipedia.org/wiki/Category:1993年の映画 "wikilink") [Category:日本のSF映画作品](https://ja.wikipedia.org/wiki/Category:日本のSF映画作品 "wikilink") [Category:日本のファンタジー映画](https://ja.wikipedia.org/wiki/Category:日本のファンタジー映画 "wikilink") [Category:恐竜映画](https://ja.wikipedia.org/wiki/Category:恐竜映画 "wikilink") [Category:北海道を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:北海道を舞台とした映画作品 "wikilink") [Category:角川春樹の監督映画](https://ja.wikipedia.org/wiki/Category:角川春樹の監督映画 "wikilink") [Category:畑正憲](https://ja.wikipedia.org/wiki/Category:畑正憲 "wikilink") [Category:内館牧子](https://ja.wikipedia.org/wiki/Category:内館牧子 "wikilink") [Category:漫画作品_れ](https://ja.wikipedia.org/wiki/Category:漫画作品_れ "wikilink") [Category:CLAMPの作品](https://ja.wikipedia.org/wiki/Category:CLAMPの作品 "wikilink") [Category:月刊Asukaの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊Asukaの漫画作品 "wikilink") [Category:SF漫画作品](https://ja.wikipedia.org/wiki/Category:SF漫画作品 "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink")
+[Category:1993年の映画](https://ja.wikipedia.org/wiki/Category:1993年の映画 "wikilink") [Category:日本のSF映画作品](https://ja.wikipedia.org/wiki/Category:日本のSF映画作品 "wikilink") [Category:日本のファンタジー映画](https://ja.wikipedia.org/wiki/Category:日本のファンタジー映画 "wikilink") [Category:恐竜映画](https://ja.wikipedia.org/wiki/Category:恐竜映画 "wikilink") [Category:北海道を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:北海道を舞台とした映画作品 "wikilink") [Category:角川春樹の監督映画](https://ja.wikipedia.org/wiki/Category:角川春樹の監督映画 "wikilink") [Category:丸山昇一の脚本映画](https://ja.wikipedia.org/wiki/Category:丸山昇一の脚本映画 "wikilink") [Category:畑正憲](https://ja.wikipedia.org/wiki/Category:畑正憲 "wikilink") [Category:内館牧子](https://ja.wikipedia.org/wiki/Category:内館牧子 "wikilink") [Category:漫画作品_れ](https://ja.wikipedia.org/wiki/Category:漫画作品_れ "wikilink") [Category:CLAMPの作品](https://ja.wikipedia.org/wiki/Category:CLAMPの作品 "wikilink") [Category:月刊Asukaの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊Asukaの漫画作品 "wikilink") [Category:SF漫画作品](https://ja.wikipedia.org/wiki/Category:SF漫画作品 "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink")
 
 1.
 2.

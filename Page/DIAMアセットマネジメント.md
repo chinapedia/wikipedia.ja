@@ -37,7 +37,7 @@
 
 ## 脚注
 
-[Category:みずほグループの歴史](https://ja.wikipedia.org/wiki/Category:みずほグループの歴史 "wikilink") [Category:1985年設立の企業](https://ja.wikipedia.org/wiki/Category:1985年設立の企業 "wikilink")
+[Category:みずほグループの歴史](https://ja.wikipedia.org/wiki/Category:みずほグループの歴史 "wikilink") [Category:第一生命グループ](https://ja.wikipedia.org/wiki/Category:第一生命グループ "wikilink") [Category:1985年設立の企業](https://ja.wikipedia.org/wiki/Category:1985年設立の企業 "wikilink")
 
 1.
 2.

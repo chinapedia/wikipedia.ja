@@ -239,7 +239,7 @@
 <td><p>11月</p></td>
 <td><p><a href="../Page/井上和彦_(声優).md" title="wikilink">井上和彦</a><br />
 （<a href="../Page/はたけカカシ.md" title="wikilink">はたけカカシ</a>役）<br />
-<a href="../Page/朴ロ美.md" title="wikilink">朴璐美</a><br />
+<a href="https://ja.wikipedia.org/wiki/朴璐美" title="wikilink">朴璐美</a><br />
 （<a href="https://ja.wikipedia.org/wiki/テマリ" title="wikilink">テマリ</a>役）(SP)</p></td>
 <td><p><a href="../Page/水樹奈々.md" title="wikilink">水樹奈々</a><br />
 （<a href="https://ja.wikipedia.org/wiki/NARUTO_-ナルト-の登場人物#日向ヒナタ" title="wikilink">日向ヒナタ役</a>）</p></td>

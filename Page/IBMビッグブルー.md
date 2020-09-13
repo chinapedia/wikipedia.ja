@@ -1,7 +1,7 @@
 > この記事は[IBMビッグブルー](https://ja.wikipedia.org/wiki/IBMビッグブルー)から翻訳されています。
 
 
-**IBM BigBlue**（アイ・ビー・エム ビッグブルー）は、[アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")・[Xリーグ](https://ja.wikipedia.org/wiki/Xリーグ "wikilink")I部所属のチーム。年によって東地区（EASTディビジョン）あるいは中部地区（CENTRALディビジョン）に属する。練習場所は[IBM](../Page/IBM.md "wikilink")箱崎ビル・都内体育館・八千代グラウンド。
+**IBM BigBlue**（アイ・ビー・エム ビッグブルー）は、[アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")・[Xリーグ](https://ja.wikipedia.org/wiki/Xリーグ "wikilink")I部所属のチーム。年によって東地区（EASTディビジョン）あるいは中部地区（CENTRALディビジョン）に属する。練習場所は[ゾゾパークホンダフットボールエリア](https://ja.wikipedia.org/wiki/ゾゾパークホンダフットボールエリア "wikilink")。
 
 現チーム名はスポンサー企業IBMの愛称（青ロゴで知られる事、世界最大の電子計算機メーカーである事にちなむ）をそのまま頂いたもの。
 
@@ -82,7 +82,7 @@ DL（ディフェンスライン）にトゥイカ・トゥファーガ、ジェ
   -
   -
   -
-[Category:Xリーグのチーム](https://ja.wikipedia.org/wiki/Category:Xリーグのチーム "wikilink") [Category:東京都区部のスポーツチーム](https://ja.wikipedia.org/wiki/Category:東京都区部のスポーツチーム "wikilink") [Category:1976年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1976年設立のスポーツチーム "wikilink") [Category:IBM](https://ja.wikipedia.org/wiki/Category:IBM "wikilink")
+[Category:Xリーグのチーム](https://ja.wikipedia.org/wiki/Category:Xリーグのチーム "wikilink") [Category:東京都区部のスポーツチーム](https://ja.wikipedia.org/wiki/Category:東京都区部のスポーツチーム "wikilink") [Category:1976年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1976年設立のスポーツチーム "wikilink") [Category:IBM](https://ja.wikipedia.org/wiki/Category:IBM "wikilink") [Category:千葉県のスポーツチーム](https://ja.wikipedia.org/wiki/Category:千葉県のスポーツチーム "wikilink")
 
 1.  [IBM BigBlue - チームプロフィール](http://www.xleague.com/profile/ibm.php) Xリーグ
 2.  <http://www.wasedawillwin.com/report/article/111014american.html>

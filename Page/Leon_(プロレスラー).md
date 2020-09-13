@@ -83,6 +83,7 @@
   - [CMLL-REINAインターナショナル王座](https://ja.wikipedia.org/wiki/CMLL-REINAインターナショナル王座 "wikilink")
   - [REINA世界タッグ王座](https://ja.wikipedia.org/wiki/REINA世界タッグ王座 "wikilink")
   - [デイリースポーツ認定女子タッグ王座](https://ja.wikipedia.org/wiki/デイリースポーツ認定女子タッグ王座 "wikilink")
+  - [PURE-J認定無差別級王座](https://ja.wikipedia.org/wiki/PURE-J認定無差別級王座 "wikilink")
 
 ## 入場曲
 

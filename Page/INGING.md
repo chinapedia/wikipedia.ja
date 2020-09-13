@@ -67,7 +67,7 @@
 
 [スーパーフォーミュラ](https://ja.wikipedia.org/wiki/スーパーフォーミュラ "wikilink")や[インタープロトシリーズ](https://ja.wikipedia.org/wiki/インタープロトシリーズ "wikilink")、[全日本F3選手権](../Page/全日本F3選手権.md "wikilink")などのマシンに描かれており、2015年に痛車として史上初めて日本のトップフォーミュラを制覇した。更に2016年、17年とドライバー&チームの双方を制覇しており、「地上最速の萌えキャラ」の異名を持つ。
 
-またインギングとしては参戦していないが、[全日本ラリー選手権](https://ja.wikipedia.org/wiki/全日本ラリー選手権 "wikilink")のJN4クラスでチャンピオンを獲得した、山口カローラ社員の曽根崇仁（トキオワークスレーシング）が駆る[トヨタ・86](https://ja.wikipedia.org/wiki/トヨタ・86 "wikilink")にも描かれている。
+またインギングとしては参戦していないが、[全日本ラリー選手権](https://ja.wikipedia.org/wiki/全日本ラリー選手権 "wikilink")のJN4クラスでチャンピオンを獲得した、山口カローラ社員の曽根崇仁（トクオワークスレーシング）が駆る[トヨタ・86](https://ja.wikipedia.org/wiki/トヨタ・86 "wikilink")にも描かれている。
 
 デザインはイラストレーターのP2W氏が担当。レースゲーム、[グランツーリスモSPORT](https://ja.wikipedia.org/wiki/グランツーリスモSPORT "wikilink")に参戦しているスーパーフォーミュラの車体、[SF19が収録された為](https://ja.wikipedia.org/wiki/ダラーラ・SF19 "wikilink")、車体装飾用カーリバリー素材を公式に公開(提供された素材を有志がカーリバリー用ステッカーに加工したもの)している。
 

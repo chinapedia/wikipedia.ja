@@ -145,7 +145,7 @@
   - 2012-2014  [ピエルパオロ・ビゾーリ](https://ja.wikipedia.org/wiki/ピエルパオロ・ビゾーリ "wikilink")
   - 2014-2015  [ドメニコ・ディ・カルロ](https://ja.wikipedia.org/wiki/ドメニコ・ディ・カルロ "wikilink")
   - 2015-2016  [マッシモ・ドラーゴ](https://ja.wikipedia.org/wiki/マッシモ・ドラーゴ "wikilink")
-  - 2016-  [アンドレア・カンプローネ](https://ja.wikipedia.org/wiki/アンドレア・カンプローネ "wikilink")
+  - 2016-2017  [アンドレア・カンプローネ](https://ja.wikipedia.org/wiki/アンドレア・カンプローネ "wikilink")
 
 ## 歴代所属選手
 

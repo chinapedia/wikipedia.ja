@@ -1,7 +1,7 @@
 > この記事は[ROH](https://ja.wikipedia.org/wiki/ROH)から翻訳されています。
 
 
-**ROH**は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")。正式略称は*ROH*\[1\]。正式名称は**リング・オブ・オナー（***Ring of Honor*）。
+**ROH**は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")。正式略称は*ROH*\[1\]。正式名称は**リング・オブ・オナー**（*Ring of Honor*）。
 
 ## 歴史
 
@@ -29,7 +29,7 @@
 
 [2016年](../Page/2016年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")、[メキシコ](../Page/メキシコ.md "wikilink")の[CMLL](../Page/CMLL.md "wikilink")と業務提携を結んだことを発表\[3\]。
 
-[9月9日](../Page/9月9日.md "wikilink")、ROH女子部「Women of Honor（WOH）」が日本の[SEAdLINNNGと業務提携を結んだことを発表](https://ja.wikipedia.org/wiki/高橋奈七永#SEAdLINNNG "wikilink")\[4\]。
+[9月9日](../Page/9月9日.md "wikilink")、ROH女子部「Women of Honor（WOH）」が日本の[SEAdLINNNG](https://ja.wikipedia.org/wiki/SEAdLINNNG "wikilink")と業務提携を結んだことを発表\[4\]。
 
 [2017年](../Page/2017年.md "wikilink")[2月17日](../Page/2月17日.md "wikilink")、WOHが日本の[スターダム](https://ja.wikipedia.org/wiki/スターダム "wikilink")と業務提携を結んだことを発表\[5\]。
 
@@ -145,7 +145,7 @@
   - [ブライアン・ミロナス](https://ja.wikipedia.org/wiki/ブライアン・ミロナス "wikilink")（Brian Milonas）
   - [フラミータ](https://ja.wikipedia.org/wiki/フラミータ "wikilink")（Flamita）
   - [ブリー・レイ](../Page/マーク・ロモナコ.md "wikilink")（Bully Ray）
-  - [フリップ・ゴードン](https://ja.wikipedia.org/wiki/フリップ・ゴードン "wikilink")（Flip Gordon）
+  - [フリップ・ゴードン](../Page/フリップ・ゴードン.md "wikilink")（Flip Gordon）
   - [ブロディ・キング](https://ja.wikipedia.org/wiki/ブロディ・キング "wikilink")（Brody King）
   - [マーク・ハスキンス](https://ja.wikipedia.org/wiki/マーク・ハスキンス "wikilink")（Mark Haskins）
   - [マーク・ブリスコ](../Page/マーク・ブリスコ.md "wikilink")（Mark Briscoe）

@@ -49,7 +49,7 @@
 13. **LISTEN TO MY HEART（[Hex Hector](../Page/ヘックス・ヘクター.md "wikilink") Main Mix - English Version）**（Bonus track）
       - 作詞：渡辺なつみ／作曲：原一博／編曲：Hex Hector
       - 日本語版が『Peace B.REMIXES』に収録。
-14. **the meaning of peace**（Bonus track）
+14. **[the meaning of peace](https://ja.wikipedia.org/wiki/the_meaning_of_peace "wikilink")**（Bonus track）
       - 作詞・作曲・編曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
 
 ## 脚注

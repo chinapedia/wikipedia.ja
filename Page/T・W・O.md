@@ -1,15 +1,6 @@
 > この記事は[T・W・O](https://ja.wikipedia.org/wiki/T・W・O)から翻訳されています。
 
 
-{{Infobox Album | Name = T・W・O | Type = [アルバム](../Page/アルバム.md "wikilink") | Artist = [松浦亜弥](../Page/松浦亜弥.md "wikilink") | Cover = | Released = [2003年](../Page/2003年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink") | Recorded = | Genre = [J-POP](../Page/J-POP.md "wikilink") | Length = 50分49秒 | Label = [zetima](../Page/アップフロントワークス.md "wikilink") | Producer = [つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink") | Reviews = | Chart position = \*週間2位（[オリコン](../Page/オリコンチャート.md "wikilink")）
-
-  - 2003年度年間39位（オリコン）
-
-| Certification = \*プラチナ（[日本レコード協会](../Page/日本レコード協会.md "wikilink")）\[1\] | Last album = [ファーストKISS](../Page/ファーストKISS.md "wikilink")
-（[2002年](../Page/2002年.md "wikilink")） | This album = **T・W・O**
-（2003年） | Next album = [×3](../Page/×3.md "wikilink")
-（[2004年](../Page/2004年.md "wikilink")） | Misc =
-
 『**T・W・O**』（ティー・ダブリュ・オー）は、[松浦亜弥](../Page/松浦亜弥.md "wikilink")の2枚目のアルバム。
 
 ## 内容
@@ -23,7 +14,7 @@
 2.  [The 美学](https://ja.wikipedia.org/wiki/The_美学 "wikilink")
       - 7枚目のシングル。
 3.  あなたの彼女
-4.  [{{JIS2004フォント](../Page/桃色片想い.md "wikilink")
+4.  [♡桃色片想い♡](https://ja.wikipedia.org/wiki/♡桃色片想い♡ "wikilink")
       - 5枚目のシングル。
 5.  ダイアリー
 6.  SHINE MORE
@@ -68,5 +59,3 @@
   - [UP-FRONT WORKS](http://www.up-front-works.jp/release/detail/EPCE-5195/)
 
 [Category:2003年のアルバム](https://ja.wikipedia.org/wiki/Category:2003年のアルバム "wikilink") [Category:松浦亜弥のアルバム](https://ja.wikipedia.org/wiki/Category:松浦亜弥のアルバム "wikilink")
-
-1.  [日本レコード協会 認定作品](http://www.riaj.or.jp/f/data/cert/gd.html) **2003年7月度認定作品**を閲覧。 2019年1月3日閲覧。

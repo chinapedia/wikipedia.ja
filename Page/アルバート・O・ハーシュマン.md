@@ -1,28 +1,15 @@
 > この記事は[アルバート・O・ハーシュマン](https://ja.wikipedia.org/wiki/アルバート・O・ハーシュマン)から翻訳されています。
 
 
-[thumb将軍の軍事裁判にて通訳を務めるハーシュマン](https://ja.wikipedia.org/wiki/ファイル:Dostlertrial.jpg "wikilink")。（1945年）\]\] **アルバート・O・ハーシュマン**（Albert Otto Hirschman, [1915年](../Page/1915年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink") - [2012年](../Page/2012年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink")）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")出身の[経済学者](../Page/経済学者.md "wikilink")。専門は[政治経済学](../Page/政治経済学.md "wikilink")、[開発経済学](../Page/開発経済学.md "wikilink")。
+**アルバート・O・ハーシュマン**（Albert Otto Hirschman, [1915年](../Page/1915年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink") - [2012年](../Page/2012年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink")）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")出身の[経済学者](../Page/経済学者.md "wikilink")。専門は[政治経済学](../Page/政治経済学.md "wikilink")、[開発経済学](../Page/開発経済学.md "wikilink")。
 
 ## 略歴
 
-  - 1915年　[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")生まれ。
-  - [ベルリン大学在学中](../Page/フンボルト大学ベルリン.md "wikilink")、反ナチス運動に参加したことで、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")に出国。
-  - [ソルボンヌ大学](https://ja.wikipedia.org/wiki/ソルボンヌ大学 "wikilink")で学ぶ。
-  - 1930年代中頃　[ロンドン・スクール・オブ・エコノミクス](../Page/ロンドン・スクール・オブ・エコノミクス.md "wikilink")学部学生として学ぶ。
-  - 1938年　[トリエステ大学](https://ja.wikipedia.org/wiki/トリエステ大学 "wikilink")で博士号を得る。
-  - 1941年　ロックフェラー財団の奨学金でアメリカ合衆国に行く。
-  - アメリカ陸軍で戦時勤務を終える。
-  - 1945年　ワシントンで連邦官庁に入る。
-  - 1945年　最初の著書『外国貿易の力と構造』を出版。
-  - 1952年　[コロンビア](../Page/コロンビア.md "wikilink")の[ボゴタ](../Page/ボゴタ.md "wikilink")にある国家計画局の財政顧問となる。
-  - 2年後　私的な経済コンサルタントとしてコロンビアに留まる。
-  - 1956年～1958年　[イェール大学](../Page/イェール大学.md "wikilink")のリサーチ教授として初めて教える。
-  - 1958年～1964年　[コロンビア大学](https://ja.wikipedia.org/wiki/コロンビア大学 "wikilink")の国際経済学教授となる。
-  - 1964年～1974年　[ハーヴァード大学](https://ja.wikipedia.org/wiki/ハーヴァード大学 "wikilink")の政治経済学教授となる。
-  - 1974年　[プリンストン大学](https://ja.wikipedia.org/wiki/プリンストン大学 "wikilink")の[プリンストン高等研究所](../Page/プリンストン高等研究所.md "wikilink")の経済学教授となる（後に名誉教授） 。
-  - 1978年　[ラトガーズ大学](https://ja.wikipedia.org/wiki/ラトガーズ大学 "wikilink")より名誉学位を受ける。
-  - 1980年　政治経済学の部門で「フランク・E・ザイドマン特別賞」を受賞。　　
-  - 2012年12月11日、死去\[1\]。。
+[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")で[ユダヤ系の家庭に生まれる](https://ja.wikipedia.org/wiki/ユダヤ人 "wikilink")。[フリードリヒ・ヴィルヘルム大学に進むもののユダヤ系だったことから](../Page/フンボルト大学ベルリン.md "wikilink")[ナチス](https://ja.wikipedia.org/wiki/ナチス "wikilink")の政権獲得に伴い[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")に出国、[エコール・デ・オートエチュード・コマーシャル・ド・パリや](../Page/HEC経営大学院.md "wikilink")[ソルボンヌ大学](https://ja.wikipedia.org/wiki/ソルボンヌ大学 "wikilink")で学んだ後に[ロンドン・スクール・オブ・エコノミクス](../Page/ロンドン・スクール・オブ・エコノミクス.md "wikilink")に遊学。[スペイン内戦](../Page/スペイン内戦.md "wikilink")に於ける[共和国側での従軍を経て](https://ja.wikipedia.org/wiki/スペイン第二共和政 "wikilink")1938年に[トリエステ大学](https://ja.wikipedia.org/wiki/トリエステ大学 "wikilink")で博士号を取得。
+
+[thumb将軍の軍事裁判にて通訳を務めるハーシュマン](https://ja.wikipedia.org/wiki/ファイル:Dostlertrial.jpg "wikilink")。（1945年）\]\]学位取得後は姉のウルスラと共に反ナチスの活動を続けるが、[フランスがナチス・ドイツに占領されて暫く後に](https://ja.wikipedia.org/wiki/ナチス・ドイツによるフランス占領 "wikilink")[ポルトガル](../Page/ポルトガル.md "wikilink")に脱出し、[ロックフェラー財団](../Page/ロックフェラー財団.md "wikilink")の奨学金で[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")に赴き[カリフォルニア大学バークレー校](../Page/カリフォルニア大学バークレー校.md "wikilink")で研究生活に入る。1943年から1946年まで[アメリカ合衆国陸軍](https://ja.wikipedia.org/wiki/アメリカ合衆国陸軍 "wikilink")に従軍の傍ら、最初の著書『国力と外国貿易の構造』を上梓。復員後は[連邦準備制度理事会](https://ja.wikipedia.org/wiki/連邦準備制度理事会 "wikilink")勤務から1952年に[世界銀行](../Page/世界銀行.md "wikilink")のスタッフとして[コロンビア](../Page/コロンビア.md "wikilink")に赴任し、[ボゴタ](../Page/ボゴタ.md "wikilink")にある国家計画局の財政顧問を2年間務めた後私的な経済コンサルタントとして1956年までコロンビアに滞在した。
+
+アメリカに帰国してからは[イェール大学](../Page/イェール大学.md "wikilink")のリサーチ教授を振り出しに[コロンビア大学](https://ja.wikipedia.org/wiki/コロンビア大学 "wikilink")国際経済学教授（1958年）・[ハーヴァード大学](https://ja.wikipedia.org/wiki/ハーヴァード大学 "wikilink")政治経済学教授（1964年）を歴任。1974年に[プリンストン大学](https://ja.wikipedia.org/wiki/プリンストン大学 "wikilink")[プリンストン高等研究所](../Page/プリンストン高等研究所.md "wikilink")経済学教授となり、2012年にで死去するまでその座にあった\[1\]。この間、1978年に[ラトガーズ大学](https://ja.wikipedia.org/wiki/ラトガーズ大学 "wikilink")より名誉学位を授与され、1980年に政治経済学の部門で「フランク・E・ザイドマン特別賞」を受賞。1990年から1995年までベルリン高等研究所のフェローを務めた。
 
 ## 著書
 

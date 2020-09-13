@@ -45,4 +45,4 @@
   - [motsu](https://ja.wikipedia.org/wiki/motsu "wikilink")
   - [Terry-T / T-Effect (Chosen Effect)](https://ja.wikipedia.org/wiki/:en:Chosen_Effect "wikilink")
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:M.o.v.e](https://ja.wikipedia.org/wiki/Category:M.o.v.e "wikilink")
+[Category:日本の男性歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の男性歌手グループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:M.o.v.e](https://ja.wikipedia.org/wiki/Category:M.o.v.e "wikilink") [Category:日本のテクノミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のテクノミュージシャン "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink")

@@ -35,7 +35,7 @@
 
   - 機動戦士ガンダムSEED featuring SUIT CD
     著者：山口 恭史
-    [カドカワコミックス・エースから発売された](https://ja.wikipedia.org/wiki/カドカワコミックス#カドカワコミックス・エース "wikilink")。機動戦士ガンダムSEED featuring SUIT CDに収められている物語を[漫画化](https://ja.wikipedia.org/wiki/漫画化 "wikilink")したものであり、[月刊ガンダムエースで](../Page/ガンダムエース.md "wikilink")5ヶ月に渡り連載された。
+    [カドカワコミックス・エースから発売された](https://ja.wikipedia.org/wiki/カドカワコミックス#カドカワコミックス・エース "wikilink")。機動戦士ガンダムSEED featuring SUIT CDに収められている物語を[漫画化](https://ja.wikipedia.org/wiki/漫画化 "wikilink")したものであり、『[月刊ガンダムエース](../Page/ガンダムエース.md "wikilink")』で5か月にわたり連載された。
 
 ## 関連項目
 
@@ -73,4 +73,4 @@
   - [GUNDAM SEED WEB](http://www.gundam-seed.net/)
   - [GUNDAM SEED DESTINY](http://www.gundam-seed-d.net/)
 
-[Category:コズミック・イラ](https://ja.wikipedia.org/wiki/Category:コズミック・イラ "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink") [Category:キャラクターソング・アルバム](https://ja.wikipedia.org/wiki/Category:キャラクターソング・アルバム "wikilink")
+[Category:コズミック・イラ](https://ja.wikipedia.org/wiki/Category:コズミック・イラ "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink") [Category:キャラクターソング・アルバム](https://ja.wikipedia.org/wiki/Category:キャラクターソング・アルバム "wikilink") [Category:ガンダムシリーズのアルバム](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズのアルバム "wikilink")

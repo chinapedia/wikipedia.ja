@@ -29,15 +29,24 @@
   - RECOREDE AT [OCEAN WAY RECORDING](https://ja.wikipedia.org/wiki/オーシャン・ウェイ・レコーディング "wikilink")
   - MIXED AT B5 STUDIO
 
-## 収録作品
+## 収録アルバム
 
-  - 「Tokyo Rose」
-      - 『[true album akina 95 best](https://ja.wikipedia.org/wiki/true_album_akina_95_best "wikilink")』\[31\]\[32\]
-      - 『[la alteración+4](https://ja.wikipedia.org/wiki/la_alteracion#la_alteracion+4 "wikilink")』\[33\]
-      - 『[歌姫伝説 〜90's BEST〜](../Page/歌姫伝説_〜90's_BEST〜.md "wikilink")』\[34\]\[35\]
-  - 「優しい関係」
-      - 『la alteración+4』\[36\]
-      - 『歌姫伝説 〜90's BEST〜』\[37\]
+  - Tokyo Rose
+
+<!-- end list -->
+
+  - 『[true album akina 95 best](https://ja.wikipedia.org/wiki/true_album_akina_95_best "wikilink")』\[31\]\[32\]
+  - 『[la alteración+4](https://ja.wikipedia.org/wiki/la_alteracion#la_alteracion+4 "wikilink")』\[33\]
+  - 『[歌姫伝説 〜90's BEST〜](../Page/歌姫伝説_〜90's_BEST〜.md "wikilink")』\[34\]\[35\]
+
+<!-- end list -->
+
+  - 優しい関係
+
+<!-- end list -->
+
+  - 『la alteración+4』\[36\]
+  - 『歌姫伝説 〜90's BEST〜』\[37\]
 
 ## 脚注
 

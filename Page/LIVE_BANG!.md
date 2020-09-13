@@ -61,7 +61,7 @@
   - [2月12日](../Page/2月12日.md "wikilink") - BRUNET BULL／THE KOOL BURNS
   - [2月19日](../Page/2月19日.md "wikilink") - 15JAM／ナナマーラ
   - 2月26日 - 休止
-  - 3月5日 - [しんが](http://www6.ocn.ne.jp/~nori-53/)／[KICK FLIP](http://my.peps.jp/kickflip/)
+  - 3月5日 - ／[KICK FLIP](http://my.peps.jp/kickflip/)
   - 3月12日 - スロウロリス／CLARABELL
   - 3月19日 - [蔵や敷G介](http://www.gdstarlight.net/)／Dear Bros
   - 3月26日 - チャンピオン大会・総集編

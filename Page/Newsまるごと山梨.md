@@ -63,8 +63,7 @@
 
 ## 外部リンク
 
-  - [まるごと山梨](http://www4.nhk.or.jp/P2835/)
-
+  -
 [Category:関東・甲信越地方のNHKの地域テレビ番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のNHKの地域テレビ番組 "wikilink") [Category:NHK総合テレビジョン平日18時台の地域ニュース](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョン平日18時台の地域ニュース "wikilink") [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:NHK甲府](https://ja.wikipedia.org/wiki/Category:NHK甲府 "wikilink")
 
 1.  『ニュースフレッシュ山梨』から続投。

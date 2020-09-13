@@ -25,7 +25,7 @@
 
 ## ミュージック・ビデオ
 
-[PVは白い空間で](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")2人がそれぞれ歌、ギター演奏をするだけのシンプルなものとなっている。監督は[中村友彦](https://ja.wikipedia.org/wiki/中村友彦 "wikilink")。後に「[PRETTY DOLL](../Page/COMPLEX_\(アルバム\).md "wikilink")」のPVとともにシングルビデオ『BE MY BABY』としてリリースされた。
+[PVは白い空間で](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")2人がそれぞれ歌、ギター演奏をするだけのシンプルなものとなっている。監督は[中村友彦](../Page/中村友彦.md "wikilink")。後に「[PRETTY DOLL](../Page/COMPLEX_\(アルバム\).md "wikilink")」のPVとともにシングルビデオ『BE MY BABY』としてリリースされた。
 
 ## メディアでの使用
 

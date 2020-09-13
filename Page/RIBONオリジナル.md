@@ -43,7 +43,7 @@
 
 ## 脚注
 
-[Category:休廃刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:休廃刊漫画雑誌 "wikilink") [Category:日本の漫画雑誌](https://ja.wikipedia.org/wiki/Category:日本の漫画雑誌 "wikilink") [Category:集英社の漫画雑誌](https://ja.wikipedia.org/wiki/Category:集英社の漫画雑誌 "wikilink") [Category:隔月刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:隔月刊漫画雑誌 "wikilink") [Category:季刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:季刊漫画雑誌 "wikilink") [Category:児童・幼年漫画雑誌](https://ja.wikipedia.org/wiki/Category:児童・幼年漫画雑誌 "wikilink") [Category:少女漫画雑誌](https://ja.wikipedia.org/wiki/Category:少女漫画雑誌 "wikilink") [Category:りぼん](https://ja.wikipedia.org/wiki/Category:りぼん "wikilink") [Category:りぼんオリジナル](https://ja.wikipedia.org/wiki/Category:りぼんオリジナル "wikilink")
+[Category:りぼんオリジナル](https://ja.wikipedia.org/wiki/Category:りぼんオリジナル "wikilink") [Category:日本の漫画雑誌](https://ja.wikipedia.org/wiki/Category:日本の漫画雑誌 "wikilink") [Category:集英社の漫画雑誌](https://ja.wikipedia.org/wiki/Category:集英社の漫画雑誌 "wikilink") [Category:隔月刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:隔月刊漫画雑誌 "wikilink") [Category:季刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:季刊漫画雑誌 "wikilink") [Category:児童・幼年漫画雑誌](https://ja.wikipedia.org/wiki/Category:児童・幼年漫画雑誌 "wikilink") [Category:少女漫画雑誌](https://ja.wikipedia.org/wiki/Category:少女漫画雑誌 "wikilink") [Category:りぼん](https://ja.wikipedia.org/wiki/Category:りぼん "wikilink") [Category:休廃刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:休廃刊漫画雑誌 "wikilink") [Category:集英社の歴史](https://ja.wikipedia.org/wiki/Category:集英社の歴史 "wikilink")
 
 1.  [日本雑誌協会](http://www.j-magazine.or.jp/)JMPAマガジンデータによる。
 2.

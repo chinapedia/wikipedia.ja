@@ -3,7 +3,7 @@
 
 「**Thirty Minutes Over Tokyo**」（サーティー・ミニッツ・オーヴァー・トウキョウ）は、[アメリカのアニメシリーズ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")『[ザ・シンプソンズ](../Page/ザ・シンプソンズ.md "wikilink")』の第10シーズン第23エピソード。[FOXテレビで](../Page/フォックス放送.md "wikilink")[1999年](../Page/1999年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink")に放映された。節約セミナーに参加したシンプソン一家が日本旅行をするという話である。
 
-エピソードは、ドニック・カーリーとダン・グリーニーによって書かれ、ジム・リードンが[監督](../Page/監督.md "wikilink")を務めた。題名は、[1944年](../Page/1944年.md "wikilink")公開の映画「[Thirty Seconds Over Tokyo（邦題：東京上空三十秒）](https://ja.wikipedia.org/wiki/東京上空三十秒 "wikilink")」に言及している。エピソードでは、『*Happy Smile Super Challenge Family Wish Show*』の司会者役の[ジョージ・タケイ](../Page/ジョージ・タケイ.md "wikilink")を含むいくつかのスター俳優が登場した。このエピソードでは、[日本のバラエティ番組の残酷さを含む](https://ja.wikipedia.org/wiki/日本のバラエティ番組一覧 "wikilink")[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")の側面を嘲笑する。
+エピソードは、ドニック・カーリーとダン・グリーニーによって書かれ、ジム・リードンが[監督](../Page/監督.md "wikilink")を務めた。題名は、[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")の[ドーリットル空襲](../Page/ドーリットル空襲.md "wikilink")（東京初空襲）を題材とした[1944年](../Page/1944年.md "wikilink")公開の映画「[Thirty Seconds Over Tokyo（邦題：東京上空三十秒）](https://ja.wikipedia.org/wiki/東京上空三十秒 "wikilink")」に言及している。エピソードでは、『*Happy Smile Super Challenge Family Wish Show*』の司会者役の[ジョージ・タケイ](../Page/ジョージ・タケイ.md "wikilink")を含むいくつかのスター俳優が登場した。このエピソードでは、[日本のバラエティ番組の残酷さを含む](https://ja.wikipedia.org/wiki/日本のバラエティ番組一覧 "wikilink")[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")の側面を嘲笑する。
 
 このエピソードは、最初の放送で約800万人に視聴された。[2005年](../Page/2005年.md "wikilink")には、ホームビデオで最初に発売され、[2007年](../Page/2007年.md "wikilink")には第10シーズンのDVDボックスセットの一部として発売された。「*Thirty Minutes Over Tokyo*」は、批評家から賛否両論の評価を受けている。[天皇](https://ja.wikipedia.org/wiki/天皇 "wikilink")を投げ飛ばす場面のあることから、このエピソードは日本では放送されたことがない。
 

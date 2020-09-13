@@ -46,8 +46,9 @@ Eureka は[カリフォルニア州](../Page/カリフォルニア州.md "wikili
   - [EURECA](https://ja.wikipedia.org/wiki/EURECA "wikilink") - [欧州宇宙機関](../Page/欧州宇宙機関.md "wikilink")（ESA）の人工衛星。各国語でEurekaと同様に発音される。
   - [ユリーカ](https://ja.wikipedia.org/wiki/ユリーカ "wikilink")
   - [ヒューリスティクス](../Page/ヒューリスティクス.md "wikilink")
-  - [アハ体験](https://ja.wikipedia.org/wiki/アハ体験_\(心理学\) "wikilink")（エウレカ効果）
+  - [アハ体験](https://ja.wikipedia.org/wiki/アハ体験_\(心＾理学\) "wikilink")（エウレカ効果）
   - [ユリイカ (雑誌)](../Page/ユリイカ_\(雑誌\).md "wikilink")
+  - [エウレカ (小惑星)](../Page/エウレカ_\(小惑星\).md "wikilink")
 
 [Category:ギリシア語の語句](https://ja.wikipedia.org/wiki/Category:ギリシア語の語句 "wikilink") [Category:アルキメデス](https://ja.wikipedia.org/wiki/Category:アルキメデス "wikilink")
 

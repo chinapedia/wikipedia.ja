@@ -1,7 +1,7 @@
 > この記事は[水曜ドラマ \(TBS\)](https://ja.wikipedia.org/wiki/水曜ドラマ_\(TBS\))から翻訳されています。
 
 
-**水曜ドラマ**（すいようドラマ）は、[TBS系列で](../Page/TBSテレビ.md "wikilink")[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")～[1989年](../Page/1989年.md "wikilink")[9月](../Page/9月.md "wikilink")まで、毎週水曜日の21:00～21:54に放送されていた[テレビドラマ](../Page/テレビドラマ.md "wikilink")の枠である。
+**水曜ドラマ**（すいようドラマ）は、[TBS系列で](../Page/TBSテレビ.md "wikilink")[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")～[1989年](../Page/1989年.md "wikilink")[9月](../Page/9月.md "wikilink")まで、毎週水曜日の21:00 - 21:54 ([JST](../Page/日本標準時.md "wikilink")) に放送されていた[テレビドラマ](../Page/テレビドラマ.md "wikilink")の枠である。
 
 ## 概要
 

@@ -74,7 +74,7 @@
 
 ### 主題歌
 
-  - テーマソング「JOKER」
+  - テーマソング「[JOKER](https://ja.wikipedia.org/wiki/JOKER_\(榊原ゆいのアルバム\) "wikilink")」
     作詞・作曲・歌 - [榊原ゆい](https://ja.wikipedia.org/wiki/榊原ゆい "wikilink") / 編曲 - 原田勝通（[Angel Note](../Page/Angel_Note.md "wikilink")）
 
 ### 各話リスト
@@ -89,7 +89,7 @@
 
 ## 実写ドラマ版
 
-[テレビ朝日](../Page/テレビ朝日.md "wikilink")をキー局に、[2001年](../Page/2001年.md "wikilink")4月から同年6月まで深夜に放送された実写連続ドラマ。
+[テレビ朝日](../Page/テレビ朝日.md "wikilink")をキー局に、[2001年](../Page/2001年.md "wikilink")4月5日から同年6月28日まで毎週木曜日深夜27時14分から27時44分に放送された実写連続ドラマ。
 
 ### 内容
 
@@ -141,4 +141,4 @@
   - [G-taste公式サイト](http://kc.kodansha.co.jp/gtaste/) - 講談社
 
   -
-[Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:ミスターマガジン](https://ja.wikipedia.org/wiki/Category:ミスターマガジン "wikilink") [Category:ヤングマガジンアッパーズ](https://ja.wikipedia.org/wiki/Category:ヤングマガジンアッパーズ "wikilink") [Category:月刊ヤングマガジン](https://ja.wikipedia.org/wiki/Category:月刊ヤングマガジン "wikilink") [Category:2001年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2001年のテレビドラマ "wikilink") [Category:テレビ朝日のテレビドラマ](https://ja.wikipedia.org/wiki/Category:テレビ朝日のテレビドラマ "wikilink") [Category:アニメ作品_し](https://ja.wikipedia.org/wiki/Category:アニメ作品_し "wikilink") [Category:1999年の成人向けOVA](https://ja.wikipedia.org/wiki/Category:1999年の成人向けOVA "wikilink") [Category:2010年のOVA](https://ja.wikipedia.org/wiki/Category:2010年のOVA "wikilink") [Category:AIC](https://ja.wikipedia.org/wiki/Category:AIC "wikilink") [Category:後藤法子脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:後藤法子脚本のテレビドラマ "wikilink")
+[Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:ミスターマガジン](https://ja.wikipedia.org/wiki/Category:ミスターマガジン "wikilink") [Category:ヤングマガジンアッパーズ](https://ja.wikipedia.org/wiki/Category:ヤングマガジンアッパーズ "wikilink") [Category:月刊ヤングマガジン](https://ja.wikipedia.org/wiki/Category:月刊ヤングマガジン "wikilink") [Category:2001年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2001年のテレビドラマ "wikilink") [Category:テレビ朝日のテレビドラマ](https://ja.wikipedia.org/wiki/Category:テレビ朝日のテレビドラマ "wikilink") [Category:テレビ朝日の深夜ドラマ](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜ドラマ "wikilink") [Category:アニメ作品_し](https://ja.wikipedia.org/wiki/Category:アニメ作品_し "wikilink") [Category:1999年の成人向けOVA](https://ja.wikipedia.org/wiki/Category:1999年の成人向けOVA "wikilink") [Category:2010年のOVA](https://ja.wikipedia.org/wiki/Category:2010年のOVA "wikilink") [Category:AIC](https://ja.wikipedia.org/wiki/Category:AIC "wikilink") [Category:後藤法子脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:後藤法子脚本のテレビドラマ "wikilink")

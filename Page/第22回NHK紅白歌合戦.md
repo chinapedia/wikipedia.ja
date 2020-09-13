@@ -100,13 +100,15 @@
   - [ワールド・ダンサーズ](https://ja.wikipedia.org/wiki/ワールド・ダンサーズ "wikilink")
   - [本多林松栄社中](https://ja.wikipedia.org/wiki/本多林松栄社中 "wikilink")
   - [東京放送合唱団](../Page/東京放送合唱団.md "wikilink")
-  - [ポピーズ](https://ja.wikipedia.org/wiki/ポピーズ "wikilink")
+  - [ポピーズ](../Page/ポピーズ.md "wikilink")
   - [高山愛子バトンチーム](https://ja.wikipedia.org/wiki/高山愛子バトンチーム "wikilink")
   - [菊池剣友会](https://ja.wikipedia.org/wiki/菊池剣友会 "wikilink")
   - [ザ・ヴァイオレッツ](https://ja.wikipedia.org/wiki/ザ・ヴァイオレッツ "wikilink")
   - [ザ・ベアーズ](https://ja.wikipedia.org/wiki/ザ・ベアーズ "wikilink")
   - [薗田憲一とデキシーキングス](https://ja.wikipedia.org/wiki/薗田憲一とデキシーキングス "wikilink")
   - [内山田洋とクール・ファイブ](../Page/内山田洋とクール・ファイブ.md "wikilink")（[前川清](../Page/前川清.md "wikilink")を除く） - 藤圭子のバックコーラス
+  - [笑福亭仁鶴](../Page/笑福亭仁鶴_\(3代目\).md "wikilink")
+  - [正司敏江・玲児](../Page/正司敏江・玲児.md "wikilink")
 
 ## 当日のステージ・エピソード
 
@@ -133,7 +135,7 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=22)
   - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1971年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1971年のテレビ番組_\(日本\) "wikilink") [Category:1971年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1971年のラジオ番組_\(日本\) "wikilink") [Category:1971年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1971年の日本の音楽 "wikilink") [Category:1971年12月](https://ja.wikipedia.org/wiki/Category:1971年12月 "wikilink")

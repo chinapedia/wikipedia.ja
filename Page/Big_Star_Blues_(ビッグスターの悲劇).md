@@ -3,7 +3,7 @@
 
 「**Big Star Blues (ビッグスターの悲劇)**」（ビッグ・スター・ブルース ビッグスターのひげき）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の楽曲。自身の12作目の[シングル](../Page/シングル.md "wikilink")として、[Invitationから](../Page/Invitation_\(レーベル\).md "wikilink")[7インチレコードで](https://ja.wikipedia.org/wiki/レコード#7インチシングル盤 "wikilink")[1981年](../Page/1981年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に発売された。
 
-[1988年](../Page/1988年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に[CD化](https://ja.wikipedia.org/wiki/コンパクト・ディスク "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")にも8cmCDとして、[2005年](../Page/2005年.md "wikilink")6月25日には12cmCDで再発され、計3回再発売されている。
+[1988年](../Page/1988年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")と[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")に8cmCDとして、[2005年](../Page/2005年.md "wikilink")6月25日には12cmCDで再発売されている。[2014年](../Page/2014年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")からはダウンロード配信、[2019年](../Page/2019年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")からはストリーミング配信が開始されている\[1\]\[2\]。
 
 ## 背景・アートワーク
 
@@ -13,7 +13,7 @@
 
 ## チャート成績
 
-本作はオリコンチャートで週間49位を記録し累計4.6万枚（オリコン調べ）を売り上げ、自身のシングルとしてはオリコン最低位と最低売上枚数作品である\[1\]\[2\]。
+本作はオリコンチャートで週間49位を記録し累計4.6万枚（オリコン調べ）を売り上げ、自身のシングルとしてはオリコン最低位と最低売上枚数作品である\[3\]\[4\]。
 
 ## 収録曲
 
@@ -26,8 +26,8 @@
       -
         [映画](../Page/映画.md "wikilink")『[モーニング・ムーンは粗雑に](https://ja.wikipedia.org/wiki/モーニング・ムーンは粗雑に "wikilink")』主題歌。
         歌詞には[ダスティン・ホフマン](../Page/ダスティン・ホフマン.md "wikilink")、[エリック・クラプトン](../Page/エリック・クラプトン.md "wikilink")、[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")の[妻](https://ja.wikipedia.org/wiki/妻 "wikilink")である[オノ・ヨーコ](../Page/オノ・ヨーコ.md "wikilink")、そしてジョン・レノンを射殺した[マーク・チャップマン](../Page/マーク・チャップマン.md "wikilink")の名前が登場する。
-        1989年発売のシングル「[フリフリ'65](../Page/フリフリ'65.md "wikilink")」のカップリング曲として『[真夏の夜の夢 1988大復活祭](https://ja.wikipedia.org/wiki/真夏の夜の夢_大復活祭 "wikilink")』の[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")公演の音源が収録されている。
-        [テレビ朝日](../Page/テレビ朝日.md "wikilink")系[音楽番組](../Page/音楽番組.md "wikilink")『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に初出演した際に「[みんなのうた](../Page/みんなのうた_\(サザンオールスターズの曲\).md "wikilink")」と共に披露した曲でもある\[3\]。
+        1989年発売のシングル「[フリフリ'65](../Page/フリフリ'65.md "wikilink")」のカップリング曲として『真夏の夜の夢 1988大復活祭』の[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")公演の音源が収録されている。
+        [テレビ朝日](../Page/テレビ朝日.md "wikilink")系[音楽番組](../Page/音楽番組.md "wikilink")『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に初出演した際に「[みんなのうた](../Page/みんなのうた_\(サザンオールスターズの曲\).md "wikilink")」と共に披露した曲でもある\[5\]。
 2.  **朝方ムーンライト** (3:34)
     （作詞・作曲:桑田佳祐　編曲:サザンオールスターズ）
       -
@@ -63,6 +63,8 @@
 
 [Category:サザンオールスターズの楽曲](https://ja.wikipedia.org/wiki/Category:サザンオールスターズの楽曲 "wikilink") [Category:桑田佳祐が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐が制作した楽曲 "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:1981年のシングル](https://ja.wikipedia.org/wiki/Category:1981年のシングル "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink")
 
-1.  [サザンオールスターズのシングル売上ランキング51位〜56位](http://www.oricon.co.jp/prof/72619/rank/single/p/6/) オリコン 2017年8月21日閲覧
-2.  [「栞のテーマ」「イエローマン」など、あんまりヒットしなかったサザンの曲特集](https://middle-edge.jp/articles/Efg6e) ミドルエッジ 2017年11月29日閲覧
-3.  [ミュージックステーション 1988年6月24日放送](http://www.tv-asahi.co.jp/music/contents/m_lineup/0082/index.html) 2017年3月26日閲覧
+1.  [サザン、全266曲を世界111ヶ国で配信](https://www.oricon.co.jp/news/2046030/full/) オリコン 2014年12月17日配信, 2020年6月4日閲覧
+2.  [サザン関連全972曲 サブスク一斉解禁 メンバーソロ曲も対象に](https://www.oricon.co.jp/news/2151435/full/) オリコン 2019年12月20日配信, 2019年12月20日閲覧
+3.  [サザンオールスターズのシングル売上ランキング51位〜56位](http://www.oricon.co.jp/prof/72619/rank/single/p/6/) オリコン 2017年8月21日閲覧
+4.  [「栞のテーマ」「イエローマン」など、あんまりヒットしなかったサザンの曲特集](https://middle-edge.jp/articles/Efg6e) ミドルエッジ 2017年11月29日閲覧
+5.  [ミュージックステーション 1988年6月24日放送](http://www.tv-asahi.co.jp/music/contents/m_lineup/0082/index.html) 2017年3月26日閲覧

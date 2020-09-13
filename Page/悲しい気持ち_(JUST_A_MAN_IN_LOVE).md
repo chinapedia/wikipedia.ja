@@ -3,7 +3,7 @@
 
 「**悲しい気持ち (JUST A MAN IN LOVE)**」（かなしいきもち ジャスト・ア・メン・イン・ラヴ）は、[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")の楽曲。自身の[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングル](../Page/シングル.md "wikilink")として、[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")から[7インチレコードで](https://ja.wikipedia.org/wiki/レコード#7インチシングル盤 "wikilink")[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月6日](../Page/10月6日.md "wikilink")に発売された。
 
-[1988年](../Page/1988年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")は8cmCDとして、[2001年](../Page/2001年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")は12cmCDとして再発売されている。
+[1988年](../Page/1988年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")は8cmCDとして、[2001年](../Page/2001年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")は12cmCDとして再発売されている。[2016年](../Page/2016年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")にはダウンロード配信、[2019年](../Page/2019年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")にはストリーミング配信を開始した。
 
 ## 背景・リリース
 
@@ -70,7 +70,7 @@
 <!-- end list -->
 
   - [張震嶽](../Page/張震嶽.md "wikilink")（チャン・チェンユエ）- [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の歌手。1993年、中国語による「就是喜歡你」として、同じ名のアルバムにカバーしている
-  - 古巨基（[レオ・クー](https://ja.wikipedia.org/wiki/レオ・クー "wikilink")） - [香港](https://ja.wikipedia.org/wiki/香港 "wikilink")の歌手。1994年、広東語による「藍天與白雲」としてアルバム『愛的解釋』に収録しています
+  - 古巨基（レオ・クー） - [香港](https://ja.wikipedia.org/wiki/香港 "wikilink")の歌手。1994年、広東語による「藍天與白雲」としてアルバム『愛的解釋』に収録しています
   - TOXIC（トシック）- [韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")のバンド。2013年、韓国語詞でKBSテレビドラマ『広告の天才イ・テベク』にテーマソングを採用された。
 
 ## 脚注

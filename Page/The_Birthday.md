@@ -1061,7 +1061,7 @@ Getting Roll〜Rock Anthem Mix〜</p></td>
 
   - [rockin' blues.com](http://www.rockin-blues.com/) - 公式ウェブサイト
 
-  - [The Birthday](http://www.universal-music.co.jp/thebirthday/) - ユニバーサルミュージックによる公式ウェブサイト
+  - [The Birthday](https://www.universal-music.co.jp/the-birthday/) - ユニバーサルミュージックによる公式ウェブサイト
 
   -
   -

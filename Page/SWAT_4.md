@@ -3,7 +3,7 @@
 
 『**SWAT 4**』（スワット4）は、[米国の特殊部隊を題材とした](../Page/SWAT.md "wikilink")[Windows用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[ファーストパーソン・シューティングゲーム](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")（FPS、一人称視点シューティングゲーム）。プレイヤーは部隊のチームリーダーとなり、人質救出や犯人逮捕、その他様々な任務に就く。
 
-開発はIrrational Games、販売はフランスのヴィヴェンディ・ユニバーサル。欧米では2005年4月5日に発売され、日本ではライブドアより2005年4月8日に日本語マニュアル付き英語版、7月29日に日本語版が発売された。拡張版『SWAT 4: The Stetchkov Syndicate』も[2006年](../Page/2006年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に発売された。GOG.comは[2017年](../Page/2017年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")にダウンロード販売を開始した。
+開発は[Irrational Games](https://ja.wikipedia.org/wiki/Irrational_Games "wikilink")、販売はフランスの[ビベンディ ユニバーサル ゲームズ](../Page/ヴィヴェンディ・ユニバーサルゲームズ.md "wikilink")。欧米では2005年4月5日に発売され、日本では[ライブドア](../Page/ライブドア.md "wikilink")より2005年4月8日に日本語マニュアル付き英語版、7月29日に日本語版が発売された。拡張版『SWAT 4: The Stetchkov Syndicate』も[2006年](../Page/2006年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に発売された。[GOG.com](https://ja.wikipedia.org/wiki/GOG.com "wikilink")は[2017年](../Page/2017年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")にダウンロード販売を開始した。
 
 ## プレイモード
 

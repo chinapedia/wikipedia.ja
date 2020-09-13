@@ -24,7 +24,7 @@
       -
         作詞・作曲：[MORISHIN](../Page/MORISHIN.md "wikilink")S' / 編曲：REO
     <!-- end list -->
-      - [草彅剛主演](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink") [関西テレビ](../Page/関西テレビ放送.md "wikilink")・[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[僕の歩く道](../Page/僕の歩く道.md "wikilink")』主題歌
+      - [草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")主演 [関西テレビ](../Page/関西テレビ放送.md "wikilink")・[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[僕の歩く道](../Page/僕の歩く道.md "wikilink")』主題歌
       - [TBS系](../Page/TBSテレビ.md "wikilink")\[6\]『[リオオリンピック2016](https://ja.wikipedia.org/wiki/リオデジャネイロオリンピック "wikilink")』テーマソング\[7\]
 2.  **show your smile**
       -

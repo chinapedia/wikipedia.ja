@@ -36,7 +36,7 @@ TBSグループの劇場施設は、赤坂BLITZ、TBS赤坂ACTシアター、[IH
 
 ## 外部リンク
 
-  - [BLITZ](http://www.tbs.co.jp/blitz/)
+  - [BLITZ](https://www.tbs.co.jp/blitz/)
 
 [Category:東京都のコンサート会場](https://ja.wikipedia.org/wiki/Category:東京都のコンサート会場 "wikilink") [Category:ライブハウス](https://ja.wikipedia.org/wiki/Category:ライブハウス "wikilink") [Category:TBSテレビ](https://ja.wikipedia.org/wiki/Category:TBSテレビ "wikilink") [Category:東京都港区の建築物](https://ja.wikipedia.org/wiki/Category:東京都港区の建築物 "wikilink") [Category:東京都のホール](https://ja.wikipedia.org/wiki/Category:東京都のホール "wikilink") [Category:赤坂](https://ja.wikipedia.org/wiki/Category:赤坂 "wikilink") [Category:日本のプロレス会場](https://ja.wikipedia.org/wiki/Category:日本のプロレス会場 "wikilink") [Category:1996年開業の施設](https://ja.wikipedia.org/wiki/Category:1996年開業の施設 "wikilink") [Category:2008年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:2008年竣工の日本の建築物 "wikilink") [Category:マイナビ](https://ja.wikipedia.org/wiki/Category:マイナビ "wikilink")
 

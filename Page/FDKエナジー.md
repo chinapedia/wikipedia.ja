@@ -34,7 +34,7 @@
   - [FDK](http://www.fdk.co.jp/)
   - [FDK - 乾電池のお話](http://www.fdk.co.jp/denchi_club/denchi_story/top_denchit.html)
 
-[Category:富士通の歴史](https://ja.wikipedia.org/wiki/Category:富士通の歴史 "wikilink") [Category:かつて存在した日本の電気機器メーカー](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の電気機器メーカー "wikilink") [Category:電池メーカー](https://ja.wikipedia.org/wiki/Category:電池メーカー "wikilink") [Category:かつて存在した静岡県の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した静岡県の企業 "wikilink") [Category:2002年設立の企業](https://ja.wikipedia.org/wiki/Category:2002年設立の企業 "wikilink")
+[Category:富士通の歴史](https://ja.wikipedia.org/wiki/Category:富士通の歴史 "wikilink") [Category:かつて存在した日本の電気機器メーカー](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の電気機器メーカー "wikilink") [Category:電池メーカー](https://ja.wikipedia.org/wiki/Category:電池メーカー "wikilink") [Category:かつて存在した静岡県の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した静岡県の企業 "wikilink") [Category:2002年設立の企業](https://ja.wikipedia.org/wiki/Category:2002年設立の企業 "wikilink") [Category:2017年廃止の企業](https://ja.wikipedia.org/wiki/Category:2017年廃止の企業 "wikilink")
 
 1.
 2.

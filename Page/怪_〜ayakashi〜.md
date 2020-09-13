@@ -15,7 +15,7 @@
 
 ### 四谷怪談
 
-『[東海道四谷怪談](https://ja.wikipedia.org/wiki/東海道四谷怪談 "wikilink")』に沿った内容で、物語の最初と「大詰め」の最後に、原作者・[鶴屋南北](https://ja.wikipedia.org/wiki/鶴屋南北 "wikilink")による四谷怪談の歴史を交えた構成になっている。
+『[東海道四谷怪談](https://ja.wikipedia.org/wiki/東海道四谷怪談 "wikilink")』に沿った内容で、物語の最初と「大詰め」の最後に、原作者・[鶴屋南北による四谷怪談の歴史を交えた構成になっている](https://ja.wikipedia.org/wiki/鶴屋南北_\(4代目\) "wikilink")。
 
 #### 登場人物（四谷怪談）
 

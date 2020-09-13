@@ -43,7 +43,7 @@ FileMaker Proとなった後に大きなものでは、3.0にて[関係データ
 ### Claris Connect
 
   - 2019年にイタリアの Stamplay社を買収し、ClarisConnectとして 2020年3月リリース。データの統合・連携を可能とするクラウドベースのサービスで、Twitter、Slack、Dropbox、Box、Twilio など、世界中で広く使用されているエンタープライズ App を含む 50 種類近くのコネクタを利用でき、FileMakerとも連携できるが、FileMakerと関係なく動作する。
-  - 2020年5月21日 日本国内での FileMaker 19リリース公開に合わせて、日本製サービスのコネクタとして[弁護士ドットコム](https://ja.wikipedia.org/wiki/弁護士ドットコム "wikilink")株式会社の クラウドサインと、[Chatwork株式会社の](https://ja.wikipedia.org/wiki/ChatWork "wikilink") Chatwork が新たに追加された。
+  - 2020年5月21日 日本国内での FileMaker 19リリース公開に合わせて、日本製サービスのコネクタとして[弁護士ドットコム](https://ja.wikipedia.org/wiki/弁護士ドットコム "wikilink")株式会社の クラウドサインと、[Chatwork株式会社の](../Page/Chatwork_\(企業\).md "wikilink")[Chatwork](https://ja.wikipedia.org/wiki/Chatwork "wikilink")が新たに追加された。
 
 ## 販売終了製品
 

@@ -75,8 +75,12 @@ AMX-30には[ルクレール](../Page/ルクレール.md "wikilink")の様な愛
 
 ### 映画
 
+  - 『[ジャッカルの日](https://ja.wikipedia.org/wiki/ジャッカルの日#映画 "wikilink")』
+    フランス陸軍所属車両が登場。[パリ解放記念式典の](../Page/パリの解放.md "wikilink")[パレード](../Page/パレード.md "wikilink")に参加している。
+    作中では、実際のパレードに参加する実物を撮影した映像が映されている。
   - 『[TAXi2](https://ja.wikipedia.org/wiki/TAXi2 "wikilink")』
     [フランス陸軍](../Page/フランス陸軍.md "wikilink")のB2型が登場。主人公の彼女の父親であるベルティノー将軍からの要請を受け、[防衛庁長官](https://ja.wikipedia.org/wiki/防衛庁長官 "wikilink")を[誘拐](https://ja.wikipedia.org/wiki/誘拐 "wikilink")して日仏の調印式妨害と国交断絶を画策する[ヤクザ](../Page/ヤクザ.md "wikilink")を逮捕すべく出動し、主人公たちと協力してヤクザの[ランエボVIを包囲する](https://ja.wikipedia.org/wiki/三菱・ランサーエボリューション#ランサーエボリューションVI "wikilink")。
+    撮影には、フランス陸軍の全面協力で実物が使用されている。
 
 ### ゲーム
 

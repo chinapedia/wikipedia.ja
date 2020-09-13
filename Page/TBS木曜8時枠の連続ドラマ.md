@@ -92,7 +92,7 @@
 <tr class="odd">
 <td><p><a href="../Page/広域放送.md" title="wikilink">関東広域圏</a></p></td>
 <td><p><a href="../Page/TBSテレビ.md" title="wikilink">東京放送</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a></p></td>
+<td><p><a href="../Page/ジャパン・ニュース・ネットワーク.md" title="wikilink">TBS系列</a></p></td>
 <td><p><strong>制作局</strong></p></td>
 <td><p>現：TBSテレビ</p></td>
 </tr>
@@ -135,7 +135,7 @@
 <td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形放送.md" title="wikilink">山形放送</a></p></td>
 <td><p>日本テレビ系列<br />
-<a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列</a></p></td>
+<a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">テレビ朝日系列</a></p></td>
 <td><p>1980年3月までは日本テレビ単独加盟局</p></td>
 <td></td>
 </tr>
@@ -241,7 +241,8 @@
 →<a href="../Page/岡山県・香川県の放送.md" title="wikilink">岡山県<br />
 香川県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/RSKテレビ" title="wikilink">山陽放送</a></p></td>
-<td><p>1983年3月までの放送エリアは岡山県のみ<br />
+<td><p>現：<a href="../Page/RSK山陽放送.md" title="wikilink">RSK山陽放送</a><br />
+1983年3月までの放送エリアは岡山県のみ<br />
 1983年4月から電波相互乗り入れにより香川県でも放送</p></td>
 <td></td>
 <td></td>

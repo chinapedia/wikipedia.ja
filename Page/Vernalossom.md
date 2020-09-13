@@ -150,24 +150,6 @@ AKB48\[3\]・[HKT48](https://ja.wikipedia.org/wiki/HKT48 "wikilink")・[NGT48](h
 
 グループ間兼任メンバーについては、「本籍」グループのメンバーとして扱う。
 
-### CGM48
-
-<div class="NavFrame" style="clear:both; border:0">
-
-<div class="NavHead">
-
-正規メンバー
-
-</div>
-
-<div class="NavContent" style="text-align:left">
-
-  - [伊豆田莉奈](https://ja.wikipedia.org/wiki/伊豆田莉奈 "wikilink") - 移籍元のAKB48加入時から所属。
-
-</div>
-
-</div>
-
 ### 元所属タレント（2020年4月1日の新運営会社への移籍）
 
 #### AKB48
@@ -441,7 +423,7 @@ AKB48\[3\]・[HKT48](https://ja.wikipedia.org/wiki/HKT48 "wikilink")・[NGT48](h
 
   - 荒巻美咲
   - 今村麻莉愛
-  - 小田彩加
+  - [小田彩加](../Page/小田彩加.md "wikilink")
   - 栗原紗英
   - 堺萌香
   - 坂本愛玲菜
@@ -682,7 +664,7 @@ AKB48\[3\]・[HKT48](https://ja.wikipedia.org/wiki/HKT48 "wikilink")・[NGT48](h
   - [内山奈月](https://ja.wikipedia.org/wiki/内山奈月 "wikilink") - フリー期間を経て、ホリプロへ移籍後、引退。
   - 梅田綾乃（現・[清水綾乃](https://ja.wikipedia.org/wiki/清水綾乃_\(女優\) "wikilink")） - DCTストーリー、フリー期間を経て、[ハーモニープロモーション](../Page/ハーモニープロモーション.md "wikilink")へ移籍。
   - [大島涼花](https://ja.wikipedia.org/wiki/大島涼花 "wikilink") - フリー期間を経て、Candeeへ移籍。
-  - [木﨑ゆりあ](https://ja.wikipedia.org/wiki/木崎ゆりあ "wikilink") - 加入以前はエイベックス・マネジメントに所属。SKE48時代にピタゴラス・プロモーションより移籍。AKB48卒業後は[トライストーン・エンタテイメント](../Page/トライストーン・エンタテイメント.md "wikilink")へ移籍。
+  - [木﨑ゆりあ](https://ja.wikipedia.org/wiki/木﨑ゆりあ "wikilink") - 加入以前はエイベックス・マネジメントに所属。SKE48時代にピタゴラス・プロモーションより移籍。AKB48卒業後は[トライストーン・エンタテイメント](../Page/トライストーン・エンタテイメント.md "wikilink")へ移籍。
   - [倉持明日香](../Page/倉持明日香.md "wikilink") - ワタナベエンターテインメントへ移籍（移籍当初はビスケットエンターティメント所属）。
   - 小嶋菜月 - [フィットへ移籍](https://ja.wikipedia.org/wiki/フィットワン "wikilink")。
   - [小森美果](https://ja.wikipedia.org/wiki/小森美果 "wikilink")\[54\] - プロダクション尾木へ移籍後、引退。
@@ -714,6 +696,7 @@ AKB48\[3\]・[HKT48](https://ja.wikipedia.org/wiki/HKT48 "wikilink")・[NGT48](h
 <div class="NavContent" style="text-align:left">
 
   - 飯野雅 - フリー期間を経て、[ワイエムエヌ](https://ja.wikipedia.org/wiki/ワイエムエヌ "wikilink")へ移籍。
+  - [伊豆田莉奈](https://ja.wikipedia.org/wiki/伊豆田莉奈 "wikilink") - Independent Artists Managementへ移籍。
   - 大川莉央
   - 岡田彩花 - フリー期間を経て、[松竹芸能](../Page/松竹芸能.md "wikilink")へ移籍。
   - [小林茉里奈](https://ja.wikipedia.org/wiki/小林茉里奈 "wikilink") - [福岡放送](../Page/福岡放送.md "wikilink")にアナウンサーとして入社。

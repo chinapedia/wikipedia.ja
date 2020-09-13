@@ -1,7 +1,7 @@
 > この記事は[RISKY \(アルバム\)](https://ja.wikipedia.org/wiki/RISKY_\(アルバム\))から翻訳されています。
 
 
-『**RISKY**』 (リスキー)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")が[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[11月7日](../Page/11月7日.md "wikilink")に[BMGビクターからリリースした](https://ja.wikipedia.org/wiki/BMG_JAPAN#BMGビクター "wikilink")4作目の[オリジナル・アルバム](../Page/スタジオ・アルバム.md "wikilink")。このアルバムは、後にBMGルームス(現:[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink"))の設立に伴い、発売権がBMGルームスに移行している。
+『**RISKY**』 (リスキー)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")が1990年11月7日に[BMGビクターからリリースした](https://ja.wikipedia.org/wiki/BMG_JAPAN#BMGビクター "wikilink")4作目の[オリジナル・アルバム](../Page/スタジオ・アルバム.md "wikilink")。このアルバムは、後にBMGルームス(現:[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink"))の設立に伴い、発売権がBMGルームスに移行している。
 
 ## 解説
 
@@ -25,7 +25,7 @@ B'zのアルバムでは初の首位を獲得\[5\]。本作以降に発売され
 
 [iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")では本作から『[The 7th Blues](../Page/The_7th_Blues.md "wikilink")』までのオリジナル・アルバムが、リマスタリング音源で配信されている。
 
-[2018年](../Page/2018年.md "wikilink")に結成30周年記念として『[DINOSAUR](https://ja.wikipedia.org/wiki/DINOSAUR_\(B'zのアルバム\) "wikilink")』までのオリジナル・アルバムと共に[アナログレコード化された](../Page/レコード.md "wikilink")\[6\]。
+2018年に結成30周年記念として『[DINOSAUR](https://ja.wikipedia.org/wiki/DINOSAUR_\(B'zのアルバム\) "wikilink")』までのオリジナル・アルバムと共に[アナログレコード化された](../Page/レコード.md "wikilink")\[6\]。
 
 ## 収録曲
 
@@ -69,7 +69,7 @@ B'zのアルバムでは初の首位を獲得\[5\]。本作以降に発売され
         主人公の声を稲葉が、女性の声を[坪倉唯子](../Page/坪倉唯子.md "wikilink")が担当。坪倉はレコーディング中に稲葉の台詞に笑ってしまった。
         諺や慣用句を捻った歌詞や韻を踏んだ歌詞が特徴的。松本曰く、「最初はギター・リフを中心としたヘヴィ・メタル風の曲だったがぜんぜん駄目だった。でもある日突然に[ハウスでやってみようというアイデアが浮かび試してみると上手くいった](../Page/ハウス_\(音楽\).md "wikilink")」。
         後に[Z'bとしてセルフカバーした](https://ja.wikipedia.org/wiki/B'z#Z'b "wikilink")。
-        1995年の『[B'z LIVE-GYM Pleasure '95 "BUZZ\!\!"](../Page/"BUZZ!!"_THE_MOVIE.md "wikilink")』では演出付きで演奏される予定があったが、代わりに「[LOVE PHANTOM](../Page/LOVE_PHANTOM.md "wikilink")」が新しく制作された経緯がある\[9\]。
+        1995年の『[B'z LIVE-GYM Pleasure '95 "BUZZ\!\!"](../Page/"BUZZ!!"_THE_MOVIE.md "wikilink")』では演出付きで演奏される予定があったが、代わりに「[LOVE PHANTOM](../Page/LOVE_PHANTOM.md "wikilink")」が新しく制作された経緯がある\[9\]\[10\]。
         [2009年](../Page/2009年.md "wikilink")の『[B'z SHOWCASE 2009 -B'z In Your Town-](https://ja.wikipedia.org/wiki/LIVE-GYM_#2009年〜2013年 "wikilink")』で久し振りに演奏された。
 8.  **確かなものは闇の中**　(4:18)
       -
@@ -78,12 +78,12 @@ B'zのアルバムでは初の首位を獲得\[5\]。本作以降に発売され
         ライブ未演奏。
 9.  **FRIDAY MIDNIGHT BLUE**　(4:26)
       -
-        歌詞は、稲葉がたまたま乗り合わせたタクシードライバーから聞いた話を元に作詞された\[10\]。松本のお気に入りの歌詞のひとつ。
+        歌詞は、稲葉がたまたま乗り合わせたタクシードライバーから聞いた話を元に作詞された\[11\]。松本のお気に入りの歌詞のひとつ。
         『[B'z LIVE-GYM 2008 "ACTION"](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2008_-ACTION- "wikilink")』で久し振りに演奏され、その際は歌詞の一部が変更されて歌われた。
 10. **It's Raining...**　(4:58)
       -
-        曲のほとんどが稲葉による語りで構成されている\[11\]。
-        会話部分を稲葉は半分寝転んで煙草を吸いながらレコーディングをした\[12\]。
+        曲のほとんどが稲葉による語りで構成されている\[12\]。
+        会話部分を稲葉は半分寝転んで煙草を吸いながらレコーディングをした\[13\]。
         稲葉は「色々な意味でアルバムで一番ヘヴィーな曲かも」と述べている。松本はこの曲を思いついた時に「何ていいアイデアだと思った。自分で自分のアイデアに酔ったね。」とコメントしている。
         歌詞カードにはサビ部分の歌詞しか記載されていない。
         ライブでは未演奏だが、アルバムツアーのエンディング[SEとして使用された](../Page/効果音.md "wikilink")。
@@ -148,7 +148,8 @@ B'zのアルバムでは初の首位を獲得\[5\]。本作以降に発売され
 6.
 7.  過去のアルバムはすべてシングルが1曲目だった。本作以降、シングルが全体の1曲目になるアルバムは存在しない。
 8.  「BH 90年11月号」より
-9.  「B'z ウルトラクロニクル」([佐伯明](https://ja.wikipedia.org/wiki/佐伯明 "wikilink")著)より。
+9.
 10.
 11.
 12.
+13.

@@ -524,4 +524,4 @@
 [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink") [Category:ニッポン放送の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:ニッポン放送の帯番組の歴史 "wikilink") [Category:ニッポン放送のミニ番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送のミニ番組 "wikilink") [Category:KAT-TUN](https://ja.wikipedia.org/wiki/Category:KAT-TUN "wikilink") [Category:ジャニーズ関連の放送番組](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連の放送番組 "wikilink")
 
 1.  『銀河にほえろ\!宇宙GメンTAKUYA』内包番組時代、同番組サイト内タイムテーブルで英字表記がなされていた。
-2.  参考：[2008年春改編当時のニッポン放送ウェブサイト内全番組表](http://web.archive.org/web/20080423134611/http://www.1242.com/timetable/index_day.php) - インターネットアーカイブ2008年4月23日付保存キャッシュ
+2.  参考：[2008年春改編当時のニッポン放送ウェブサイト内全番組表](https://web.archive.org/web/20080423134611/http://www.1242.com/timetable/index_day.php) - インターネットアーカイブ2008年4月23日付保存キャッシュ

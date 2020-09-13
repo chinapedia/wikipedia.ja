@@ -42,6 +42,6 @@
 
 <references />
 
-[Category:ニッポン放送の帯番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送の帯番組 "wikilink") [Category:1987年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1987年のラジオ番組_\(日本\) "wikilink")
+[Category:ニッポン放送の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:ニッポン放送の帯番組の歴史 "wikilink") [Category:1987年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1987年のラジオ番組_\(日本\) "wikilink")
 
 1.  土橋正幸の元気UP\!朝一番\!では、「今日も元気にさあ行こう\!」と締められていた。

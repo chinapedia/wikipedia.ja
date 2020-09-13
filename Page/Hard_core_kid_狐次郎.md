@@ -28,4 +28,4 @@
 
   - [プロレスラー一覧](../Page/プロレスラー一覧.md "wikilink")
 
-[Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:KAIENTAI-DOJOに所属していたプロレスラー](https://ja.wikipedia.org/wiki/Category:KAIENTAI-DOJOに所属していたプロレスラー "wikilink") [Category:1983年生](https://ja.wikipedia.org/wiki/Category:1983年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:KAIENTAI-DOJOに所属していたプロレスラー](https://ja.wikipedia.org/wiki/Category:KAIENTAI-DOJOに所属していたプロレスラー "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink") [Category:1983年生](https://ja.wikipedia.org/wiki/Category:1983年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

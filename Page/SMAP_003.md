@@ -27,7 +27,7 @@
 5.  **Cry** - [木村拓哉](../Page/木村拓哉.md "wikilink")・[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")・[森且行](../Page/森且行.md "wikilink")
       -
         作詞：久和カノン / 作曲：羽場仁志 / 編曲：[新川博](https://ja.wikipedia.org/wiki/新川博 "wikilink") / コーラスアレンジ：椎名和夫
-6.  **言わなきゃわからない** - [草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")・[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")
+6.  **言わなきゃわからない** - [草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")・[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")
       -
         作詞：小倉めぐみ / 作曲：[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink") / 編曲：新川博 / コーラスアレンジ：松下誠
 7.  **二人のLove Train**

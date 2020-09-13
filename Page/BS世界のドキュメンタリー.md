@@ -65,12 +65,9 @@
 
 ## 外部リンク
 
-  - [BS世界のドキュメンタリー](http://www6.nhk.or.jp/wdoc/)
-  - [NHK BS1 国際共同制作 発掘 アジアドキュメンタリー](https://www.nhk.or.jp/asianpitch/) - 『BS世界のドキュメンタリー』枠で放送される。
-  - [NHK 国際共同制作](https://www.nhk.or.jp/co-pro/) - NHKが制作に参加した『BS世界のドキュメンタリー』放送作品が紹介される。
-  - [もっとNHKドキュメンタリー](https://www.nhk.or.jp/docudocu/) - NHKが放送するドキュメンタリー番組ポータルサイト
+  - [BS世界のドキュメンタリー](https://www.nhk.jp/p/wdoc/ts/88Z7X45XZY/)
 
-[Category:NHK_BS1の帯番組](https://ja.wikipedia.org/wiki/Category:NHK_BS1の帯番組 "wikilink") [Category:NHK_BSの深夜番組](https://ja.wikipedia.org/wiki/Category:NHK_BSの深夜番組 "wikilink") [Category:NHK_BSのドキュメンタリー番組](https://ja.wikipedia.org/wiki/Category:NHK_BSのドキュメンタリー番組 "wikilink") [Category:2004年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のテレビ番組_\(日本\) "wikilink")
+[Category:2004年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のテレビ番組_\(日本\) "wikilink") [Category:NHK_BS1の帯番組](https://ja.wikipedia.org/wiki/Category:NHK_BS1の帯番組 "wikilink") [Category:NHK_BSの深夜番組](https://ja.wikipedia.org/wiki/Category:NHK_BSの深夜番組 "wikilink") [Category:NHK_BSのドキュメンタリー番組](https://ja.wikipedia.org/wiki/Category:NHK_BSのドキュメンタリー番組 "wikilink")
 
 1.  2011年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")以降、NHK制作、およびNHKと日本国内の制作会社の共同制作によるドキュメンタリーの放送は新設の『[ドキュメンタリーWAVE](https://ja.wikipedia.org/wiki/ドキュメンタリーWAVE "wikilink")』に移行した。
 2.  年度上半期は平日毎夜放送。下半期は月・火曜日（2015年度までは日曜も）のみ放送

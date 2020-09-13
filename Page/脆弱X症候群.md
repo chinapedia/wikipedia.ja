@@ -1,7 +1,7 @@
 > この記事は[脆弱X症候群](https://ja.wikipedia.org/wiki/脆弱X症候群)から翻訳されています。
 
 
-**脆弱X症候群**（ぜいじゃくエックスしょうこうぐん、フラジャイルエックスしょうこうぐん:**FXS**）は、2006年現在唯一[遺伝性であることが確認されている](../Page/遺伝子疾患.md "wikilink")[知的障害](https://ja.wikipedia.org/wiki/知的障害 "wikilink")である。英語ではfragile X syndrome。「フラジャイル」はfragile（脆い、の意）の[カタカナ書き](../Page/片仮名.md "wikilink")。
+**脆弱X症候群**（ぜいじゃくエックスしょうこうぐん、フラジャイルエックスしょうこうぐん:**FXS**）は、2006年現在唯一[遺伝性であることが確認されている](../Page/遺伝子疾患.md "wikilink")[知的障害](https://ja.wikipedia.org/wiki/知的障害 "wikilink")である。英語ではfragile X syndrome。
 
 [X染色体](../Page/X染色体.md "wikilink")の異常に起因する疾患で、精神発達障害（場合によっては[知的障害](https://ja.wikipedia.org/wiki/知的障害 "wikilink")）、[情緒不安定](https://ja.wikipedia.org/wiki/情緒障害 "wikilink")、注意欠陥と多動性、[自閉症](../Page/自閉症.md "wikilink")様症状、長い顔・大きな耳・扁平な足、関節（特に手指）の過伸展を伴う。男性の方が女性より症状が重く、大部分が精神発達遅滞をみせる。全人口中1000 - 2500人に1人と頻度の高い疾患である。
 

@@ -38,7 +38,7 @@ Uターンに関しては、[道路交通法](../Page/道路交通法.md "wikili
   - [つづら折れ](https://ja.wikipedia.org/wiki/つづら折れ "wikilink")
   - [スイッチバック](../Page/スイッチバック.md "wikilink")
   - [マラソン](../Page/マラソン.md "wikilink")
-  - [駅伝](https://ja.wikipedia.org/wiki/駅伝 "wikilink")
+  - [駅伝競走](../Page/駅伝競走.md "wikilink")
   - [ターニングパッド](https://ja.wikipedia.org/wiki/ターニングパッド "wikilink")
 
 [Category:交通](https://ja.wikipedia.org/wiki/Category:交通 "wikilink")

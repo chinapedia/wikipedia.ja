@@ -18,7 +18,7 @@
   - 応援サポーターの発表前、『サンケイスポーツ』（2002年10月15日更新）がこの枠の候補として、紅組に[藤原紀香](../Page/藤原紀香.md "wikilink")、白組に[ダウンタウンの](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")[浜田雅功](../Page/浜田雅功.md "wikilink")（『[夢見るタマゴ\!熱血浜田塾](../Page/夢見るタマゴ!熱血浜田塾.md "wikilink")の夏期講習』の司会）を挙げていた。
   - この年[ノーベル化学賞](../Page/ノーベル化学賞.md "wikilink")を受賞した[田中耕一](../Page/田中耕一.md "wikilink")に審査員の打診をしたが、早々に辞退した\[7\]。
   - [テレビ番組](../Page/テレビ番組.md "wikilink")への出演が少なくこれまで紅白出場を辞退し続けてきた[中島みゆき](../Page/中島みゆき.md "wikilink")が[黒部ダム](../Page/黒部ダム.md "wikilink")の[黒部川第四発電所](../Page/黒部川第四発電所.md "wikilink")から中継出演して「[地上の星](https://ja.wikipedia.org/wiki/地上の星/ヘッドライト・テールライト "wikilink")」を歌い、放送前から話題を集めた。この時間帯が最高瞬間[視聴率](../Page/視聴率.md "wikilink")（[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")社・[関東地区調べ](https://ja.wikipedia.org/wiki/関東地方 "wikilink")）となった\[8\]。曲紹介時、有働との絡みはなかった。これについては、当の本人の「あっけらかん」さが表れるのが嫌だった、と中島本人が語っている\[9\]。また同曲の最中中島が2番の歌詞を間違えた\[10\]ことも話題となった。演奏直前に、同曲が主題歌となっている『[プロジェクトX〜挑戦者たち〜](../Page/プロジェクトX〜挑戦者たち〜.md "wikilink")』のVTRと、同番組でナレーションを務める[田口トモロヲ](../Page/田口トモロヲ.md "wikilink")の声が流れた。応援ゲストとして出演した[爆笑問題](../Page/爆笑問題.md "wikilink")の[太田光](../Page/太田光.md "wikilink")によると、田口のナレーションは生であり、楽屋も用意されていたという。当初は「初出場にして紅組トリおよび大トリでの登場」になるのではないかとも報道された\[11\]が、「締めの歌はNHKホールから送りたい」（チーフプロデューサーの並木正行）という理由により、紅組トリでの出演は見送られた\[12\]。
-  - 中島は「すごかったのは、（歌詞間違えをした）その瞬間、（歌詞の）テロップを消してくださったんですってね。すごいわ、NHK」とNHKの瞬時の対応を絶賛している。さらに、「ここまで行ったら止まって、ここまでいったら歩いて、一節歌ったらこっちを向いて、みたいな一応練習はしていたんですけど、あの少し前でハウッたんですの。音がモニターがキーンって。そこでちょっと血圧上がりましたね。『やべ』って思った瞬間に、歩いてはいけないポイントで歩いてたんです、私。止まってなきゃならないのに…。目の前でスタッフがワラワラ後ずさっていくんです。あっ\!私、ここ止まってなきゃならないんだって思った瞬間、歌詞が…歌詞何って…って飛んだんです」と笑いながら歌詞間違えをした経緯を語っている。また、極寒の地での歌唱で「マイクが氷のように冷たいんです。気の毒だってんで（スタッフが）懐で暖めてくれたんですね。ありがたいことですね」と改めてスタッフの好意に感謝もしている\[13\]。
+  - 中島は「すごかったのは、（歌詞間違いをした）その瞬間、（歌詞の）テロップを消してくださったんですってね。すごいわ、NHK」とNHKの瞬時の対応を絶賛している。さらに、「ここまで行ったら止まって、ここまでいったら歩いて、一節歌ったらこっちを向いて、みたいな一応練習はしていたんですけど、あの少し前でハウッたんですの。音がモニターがキーンって。そこでちょっと血圧上がりましたね。『やべ』って思った瞬間に、歩いてはいけないポイントで歩いてたんです、私。止まってなきゃならないのに…。目の前でスタッフがワラワラ後ずさっていくんです。あっ\!私、ここ止まってなきゃならないんだって思った瞬間、歌詞が…歌詞何って…って飛んだんです」と笑いながら歌詞間違いをした経緯を語っている。また、極寒の地での歌唱で「マイクが氷のように冷たいんです。気の毒だってんで（スタッフが）懐で暖めてくれたんですね。ありがたいことですね」と改めてスタッフの好意に感謝もしている\[13\]。
   - 中島が歌い終わり再びNHKホールに映像が切り替わった直後、司会の三宅は、「地上の星」は紅白用の特別版の歌詞であったが、誤って通常版の歌詞テロップを表示してしまったと説明した。
   - 紅組トップバッターおよび先行トップバッターの[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")のバックでは当時の藤本が所属していた[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の中で、同じく今回に出場していた[モーニング娘。](../Page/モーニング娘。.md "wikilink")4・5期メンバー8人がダンスを披露した。なお、ハロー\!プロジェクトからは他にも[松浦亜弥](../Page/松浦亜弥.md "wikilink")が出場しており、紅白で初めてハロー\!プロジェクトが紅組の3枠を使った。
   - 膳場が審査員の[朝青龍明徳](https://ja.wikipedia.org/wiki/朝青龍明徳 "wikilink")に「どちらが優勢でしょうか?」と振ったところ、「白星先行」との理由で白組と述べた。これに対し、有働は司会席から「（母国の）[モンゴル相撲の衣装は赤じゃないですか](../Page/ブフ.md "wikilink")」と返した。
@@ -220,7 +220,7 @@
 <td><p><a href="../Page/長山洋子.md" title="wikilink">長山洋子</a>(9)</p></td>
 <td><p>めぐり逢い</p></td>
 <td><p>22</p></td>
-<td><p><a href="../Page/鳥羽一郎.md" title="wikilink">鳥羽一郎</a>(15)（・<a href="../Page/宇崎竜童.md" title="wikilink">宇崎竜童</a>）</p></td>
+<td><p><a href="../Page/鳥羽一郎.md" title="wikilink">鳥羽一郎</a>(15)（<a href="../Page/宇崎竜童.md" title="wikilink">宇崎竜童</a>[17]）</p></td>
 <td><p>海よ海よ</p></td>
 <td></td>
 <td></td>
@@ -352,7 +352,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/WILL_(中島美嘉の曲)" title="wikilink">WILL</a></p></td>
 <td><p>43</p></td>
 <td><p><a href="../Page/SMAP.md" title="wikilink">SMAP</a>(11)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/freebird" title="wikilink">freebird</a> '02[17]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/freebird" title="wikilink">freebird</a> '02[18]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -422,24 +422,24 @@
 
 ### 選考を巡って
 
-  - 「日本音楽界の総決算」をテーマとした今回出場歌手・曲目の多ジャンル化を決行\[18\]。一方で、[前回まで常連だった](../Page/第52回NHK紅白歌合戦.md "wikilink")[演歌歌手](../Page/演歌歌手.md "wikilink")が次々に落選となり（後述）、[北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")はNHKに対し批判的なコメントを出した\[19\]。
-  - [オペラ](../Page/オペラ.md "wikilink")界から[鈴木慶江](https://ja.wikipedia.org/wiki/鈴木慶江 "wikilink")と[ジョン・健・ヌッツォ](../Page/ジョン・健・ヌッツォ.md "wikilink")が初出場\[20\]。
-  - [沖縄](../Page/沖縄県.md "wikilink")・[奄美大島](../Page/奄美大島.md "wikilink")のメロディのヒットを受け、[夏川りみ](https://ja.wikipedia.org/wiki/夏川りみ "wikilink")、[BEGINが初出場](../Page/BEGIN_\(バンド\).md "wikilink")\[21\]。
-  - テレビ出演が少ない[中島みゆき](../Page/中島みゆき.md "wikilink")が初出場。中島のNHK出演は[1999年](../Page/1999年.md "wikilink")の『[夜会の冒険](https://ja.wikipedia.org/wiki/夜会の冒険 "wikilink")』以来。テレビへの生登場は[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")』以来で、NHKの番組への生出演はこれが初となった\[22\]。
-  - 前回メンバーの[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")の不祥事で出場を辞退した[SMAP](../Page/SMAP.md "wikilink")が2年ぶりに、「[あきらめましょう](../Page/あきらめましょう.md "wikilink")」がヒットした[華原朋美](../Page/華原朋美.md "wikilink")が4年ぶりに復帰\[23\]。
-  - この年カバー・アルバムがヒットし、デビュー20周年を迎えた[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")が[第39回](../Page/第39回NHK紅白歌合戦.md "wikilink")（[1988年](../Page/1988年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")63年））以来14年ぶりに復帰を果たした\[24\]。
+  - 「日本音楽界の総決算」をテーマとした今回出場歌手・曲目の多ジャンル化を決行\[19\]。一方で、[前回まで常連だった](../Page/第52回NHK紅白歌合戦.md "wikilink")[演歌歌手](../Page/演歌歌手.md "wikilink")が次々に落選となり（後述）、[北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")はNHKに対し批判的なコメントを出した\[20\]。
+  - [オペラ](../Page/オペラ.md "wikilink")界から[鈴木慶江](https://ja.wikipedia.org/wiki/鈴木慶江 "wikilink")と[ジョン・健・ヌッツォ](../Page/ジョン・健・ヌッツォ.md "wikilink")が初出場\[21\]。
+  - [沖縄](../Page/沖縄県.md "wikilink")・[奄美大島](../Page/奄美大島.md "wikilink")のメロディのヒットを受け、[夏川りみ](https://ja.wikipedia.org/wiki/夏川りみ "wikilink")、[BEGINが初出場](../Page/BEGIN_\(バンド\).md "wikilink")\[22\]。
+  - テレビ出演が少ない[中島みゆき](../Page/中島みゆき.md "wikilink")が初出場。中島のNHK出演は[1999年](../Page/1999年.md "wikilink")の『[夜会の冒険](https://ja.wikipedia.org/wiki/夜会の冒険 "wikilink")』以来。テレビへの生登場は[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")』以来で、NHKの番組への生出演はこれが初となった\[23\]。
+  - 前回メンバーの[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")の不祥事で出場を辞退した[SMAP](../Page/SMAP.md "wikilink")が2年ぶりに、「[あきらめましょう](../Page/あきらめましょう.md "wikilink")」がヒットした[華原朋美](../Page/華原朋美.md "wikilink")が4年ぶりに復帰\[24\]。
+  - この年カバー・アルバムがヒットし、デビュー20周年を迎えた[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")が[第39回](../Page/第39回NHK紅白歌合戦.md "wikilink")（[1988年](../Page/1988年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")63年））以来14年ぶりに復帰を果たした\[25\]。
   - 16年連続出場（初出場以来）の[吉幾三](../Page/吉幾三.md "wikilink")、14年連続出場（初出場以来）の[坂本冬美](../Page/坂本冬美.md "wikilink")、12年連続出場（初出場以来）の[伍代夏子](../Page/伍代夏子.md "wikilink")、9年連続出場（通算10回出場）の[由紀さおり](../Page/由紀さおり.md "wikilink")・[安田祥子](../Page/安田祥子.md "wikilink")、8年連続出場（通算22回出場）の[郷ひろみ](../Page/郷ひろみ.md "wikilink")、5年連続出場（それぞれ初出場以来、通算18回出場）の[MAX](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")、[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")、3年連続出場（それぞれ通算23回、15回、16回出場）の[八代亜紀](../Page/八代亜紀.md "wikilink")、[松田聖子](../Page/松田聖子.md "wikilink")、[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")といった常連が今回不選出となった。
   - 坂本はこの年3月を以って芸能活動を休業していたため、今回は紅白出場を見送った。その後、翌[2003年](../Page/2003年.md "wikilink")（[平成](../Page/平成.md "wikilink")15年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に歌手活動を再開、同年の[第54回には](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink")2年ぶり15回目のカムバック出場を果たしている。
   - 郷は前回の出場を最後に一旦活動休止となっていたが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（[平成](../Page/平成.md "wikilink")15年）の[第61回では](https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦 "wikilink")9年振り23回目の復帰出演と成った。
-  - アンケート結果で上位だった[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")、[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")らが早々に出場辞退した\[25\]。
+  - アンケート結果で上位だった[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")、[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")らが早々に出場辞退した\[26\]。
   - 「[ワダツミの木](../Page/ワダツミの木.md "wikilink")」が約80万枚の大ヒットを記録し、この年下期の[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[まんてん](../Page/まんてん.md "wikilink")』の主題歌「[この街](../Page/この街_\(元ちとせの曲\).md "wikilink")」を担当していた[元ちとせ](https://ja.wikipedia.org/wiki/元ちとせ "wikilink")（奄美大島出身）に、番組側が早くから出演の打診をしており、一部メディアに「出場確実」と報じられていた。しかし、元の所属事務所・[オフィスオーガスタ](../Page/オフィスオーガスタ.md "wikilink")側より「その時期は、本人がレコーディングのため[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")に行くため、そこから中継にしてほしい」と要望した。番組側から「本人と関連のある場所（出身地や楽曲に関係する場所）でなければ、中継はできない」とその要望を断ったため、最終的に元は出場を辞退した。
   - この年開催された[ソルトレークシティオリンピックの](https://ja.wikipedia.org/wiki/2002年ソルトレークシティオリンピック "wikilink")[NHK中継テーマソング](../Page/NHKオリンピック歴代テーマソング.md "wikilink")「[果てなく続くストーリー](https://ja.wikipedia.org/wiki/果てなく続くストーリー "wikilink")」を担当した[MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink")の出場も実現しなかった。
-  - [きたやまおさむによれば](../Page/北山修.md "wikilink")、[ザ・フォーク・クルセダーズ](https://ja.wikipedia.org/wiki/ザ・フォーク・クルセダーズ "wikilink")にこの年シングル発売された「[イムジン河](https://ja.wikipedia.org/wiki/イムジン河 "wikilink")」で紅白出場の打診があったが、メンバーの1人が固辞したため実現しなかった\[26\]。
+  - [きたやまおさむによれば](../Page/北山修.md "wikilink")、[ザ・フォーク・クルセダーズ](https://ja.wikipedia.org/wiki/ザ・フォーク・クルセダーズ "wikilink")にこの年シングル発売された「[イムジン河](https://ja.wikipedia.org/wiki/イムジン河 "wikilink")」で紅白出場の打診があったが、メンバーの1人が固辞したため実現しなかった\[27\]。
 
 ### その他
 
   - [森進一](../Page/森進一.md "wikilink")は史上初の35年連続出場を達成した。
-  - [モーニング娘。](../Page/モーニング娘。.md "wikilink")について、この年9月にグループを卒業した[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")が本紅白で1日限りの復帰をする計画があると報道された\[27\]が、実現することはなかった。
+  - [モーニング娘。](../Page/モーニング娘。.md "wikilink")について、この年9月にグループを卒業した[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")が本紅白で1日限りの復帰をする計画があると報道された\[28\]が、実現することはなかった。
   - 8年連続出場（通算10回）の[中村美津子](https://ja.wikipedia.org/wiki/中村美津子 "wikilink")、5年連続出場（初出場以来）の[DA PUMP](../Page/DA_PUMP.md "wikilink")、3年連続出場（初出場以来）の[小柳ゆき](https://ja.wikipedia.org/wiki/小柳ゆき "wikilink")は翌年不出場となり、今回で連続出場が途絶えた。小柳は今回を最後に出場していないが、中村は[第55回](https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦 "wikilink")（[2004年](../Page/2004年.md "wikilink")）および[第58回](../Page/第58回NHK紅白歌合戦.md "wikilink")（[2007年](../Page/2007年.md "wikilink")） - [第61回](https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦 "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）、DA PUMPは[第69回](https://ja.wikipedia.org/wiki/第69回NHK紅白歌合戦 "wikilink")（[2018年](../Page/2018年.md "wikilink")）で再出場を果たしている。
 
 ## ゲスト出演者
@@ -495,6 +495,7 @@
 
 ## 外部リンク
 
+  - [NHK紅白歌合戦 公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=53)
   - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。[1962年](../Page/1962年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")37年）（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:2002年の音楽](https://ja.wikipedia.org/wiki/Category:2002年の音楽 "wikilink") [Category:2002年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のテレビ番組_\(日本\) "wikilink") [Category:2002年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のラジオ番組_\(日本\) "wikilink") [Category:データ放送連動番組](https://ja.wikipedia.org/wiki/Category:データ放送連動番組 "wikilink") [Category:2002年12月](https://ja.wikipedia.org/wiki/Category:2002年12月 "wikilink")
@@ -515,14 +516,15 @@
 14. [中島みゆき“天気次第”でトリも](http://web.archive.org/web/20030203133415/http://www.sponichi.co.jp:80/entertainment/kiji/2002/12/19/02.html)
 15. 『スポーツニッポン』2002年12月27日付
 16. 年間視聴率1位陥落は第49回の前例があるが、この時は同紅白を上回ったものが総合テレビの『[1998 FIFAワールドカップ](../Page/1998_FIFAワールドカップ.md "wikilink")』の日本対[クロアチア戦であった](../Page/サッカークロアチア代表.md "wikilink")。
-17. 「freebird」「[夜空ノムコウ](../Page/夜空ノムコウ.md "wikilink")」のメドレー
-18. [初出場は14組　紅白出場歌手発表](http://web.archive.org/web/20021201090139/http://www.sponichi.co.jp/entertainment/kiji/2002/11/27/01.html)、スポニチアネックス、2002年11月27日。（インターネット・アーカイブのキャッシュ）
-19. [北島三郎 中継チクリ](http://web.archive.org/web/20030207115425/http://www.sponichi.co.jp/entertainment/kiji/2002/12/30/06.html)、スポニチアネックス、2002年12月30日。（インターネット・アーカイブのキャッシュ）
-20. [オペラ界からはジョン健ヌッツォら](http://web.archive.org/web/20030204122450/http://www.sponichi.co.jp/entertainment/kiji/2002/11/27/08.html)、スポニチアネックス、2002年11月27日。（インターネット・アーカイブのキャッシュ）
-21. [沖縄の風呼ぶ…夏川りみ、BEGIN](http://web.archive.org/web/20030404203522/http://www.sponichi.co.jp/entertainment/kiji/2002/11/27/06.html)、スポニチアネックス、2002年11月27日。（インターネット・アーカイブのキャッシュ）
-22. [中島みゆき「プロジェクトＸに感謝」](http://web.archive.org/web/20030404153554/http://www.sponichi.co.jp/entertainment/kiji/2002/11/27/04.html)、スポニチアネックス、2002年11月27日。（インターネット・アーカイブのキャッシュ）
-23. [華原4年､SMAP2年ぶり復帰](http://web.archive.org/web/20030204163138/http://www.sponichi.co.jp/entertainment/kiji/2002/11/27/07.html)、スポニチアネックス、2002年11月27日。（インターネット・アーカイブのキャッシュ）
-24. [14年ぶり明菜「大変光栄」](http://web.archive.org/web/20030404203206/http://www.sponichi.co.jp/entertainment/kiji/2002/11/27/03.html)、スポニチアネックス、2002年11月27日。（インターネット・アーカイブのキャッシュ）
-25.
-26. 喜多由浩『『イムジン河』物語 “封印された歌”の真実』アルファベータブックス、2016年、151頁。ISBN 978-4-86598-018-9。
-27. [1](http://web.archive.org/web/20021210025421/http://www.sponichi.co.jp/entertainment/kiji/2002/11/27/02.html),スポーツニッポン,2002年11月27日
+17. 鳥羽一郎のサポート
+18. 「freebird」「[夜空ノムコウ](../Page/夜空ノムコウ.md "wikilink")」のメドレー
+19. [初出場は14組　紅白出場歌手発表](http://web.archive.org/web/20021201090139/http://www.sponichi.co.jp/entertainment/kiji/2002/11/27/01.html)、スポニチアネックス、2002年11月27日。（インターネット・アーカイブのキャッシュ）
+20. [北島三郎 中継チクリ](http://web.archive.org/web/20030207115425/http://www.sponichi.co.jp/entertainment/kiji/2002/12/30/06.html)、スポニチアネックス、2002年12月30日。（インターネット・アーカイブのキャッシュ）
+21. [オペラ界からはジョン健ヌッツォら](http://web.archive.org/web/20030204122450/http://www.sponichi.co.jp/entertainment/kiji/2002/11/27/08.html)、スポニチアネックス、2002年11月27日。（インターネット・アーカイブのキャッシュ）
+22. [沖縄の風呼ぶ…夏川りみ、BEGIN](http://web.archive.org/web/20030404203522/http://www.sponichi.co.jp/entertainment/kiji/2002/11/27/06.html)、スポニチアネックス、2002年11月27日。（インターネット・アーカイブのキャッシュ）
+23. [中島みゆき「プロジェクトＸに感謝」](http://web.archive.org/web/20030404153554/http://www.sponichi.co.jp/entertainment/kiji/2002/11/27/04.html)、スポニチアネックス、2002年11月27日。（インターネット・アーカイブのキャッシュ）
+24. [華原4年､SMAP2年ぶり復帰](http://web.archive.org/web/20030204163138/http://www.sponichi.co.jp/entertainment/kiji/2002/11/27/07.html)、スポニチアネックス、2002年11月27日。（インターネット・アーカイブのキャッシュ）
+25. [14年ぶり明菜「大変光栄」](http://web.archive.org/web/20030404203206/http://www.sponichi.co.jp/entertainment/kiji/2002/11/27/03.html)、スポニチアネックス、2002年11月27日。（インターネット・アーカイブのキャッシュ）
+26.
+27. 喜多由浩『『イムジン河』物語 “封印された歌”の真実』アルファベータブックス、2016年、151頁。ISBN 978-4-86598-018-9。
+28. [1](http://web.archive.org/web/20021210025421/http://www.sponichi.co.jp/entertainment/kiji/2002/11/27/02.html),スポーツニッポン,2002年11月27日

@@ -83,7 +83,7 @@ MOTOKATSU（[宮上元克](../Page/宮上元克.md "wikilink")）は本作のレ
 3.  **Bomb Idea**
 4.  **SCARY -Delete streamin' freq. from fear side-**
       -
-        先行シングル曲。メンズビューティーンの[CMに使われた](../Page/コマーシャルメッセージ.md "wikilink")（CMには[オダギリジョー](../Page/オダギリジョー.md "wikilink")が出演）。また総合格闘家[五味隆典](../Page/五味隆典.md "wikilink")の入場曲としても使用されている。[西武ライオンズ](https://ja.wikipedia.org/wiki/西武ライオンズ "wikilink")の投手・[岡本篤志](../Page/岡本篤志.md "wikilink")がマウンドにあがるときのテーマ曲として使用。
+        先行シングル曲。メンズビューティーンの[CMに使われた](../Page/コマーシャルメッセージ.md "wikilink")（CMには[オダギリジョー](../Page/オダギリジョー.md "wikilink")が出演）。また総合格闘家[五味隆典](../Page/五味隆典.md "wikilink")の入場曲としても使用されている。[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")の投手・[岡本篤志](../Page/岡本篤志.md "wikilink")がマウンドにあがるときのテーマ曲として使用。
 5.  **W.O.R.L.D**
 6.  **クラッカー\!\!\!**
       -

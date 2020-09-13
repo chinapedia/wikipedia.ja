@@ -1,7 +1,7 @@
 > この記事は[ZZ TRAIN](https://ja.wikipedia.org/wiki/ZZ_TRAIN)から翻訳されています。
 
 
-**ZZトレイン**（ジージートレイン）とは、2005年から[バンダイ](../Page/バンダイ.md "wikilink")より発売された軌間4.8mm、1/300スケールの[鉄道模型](../Page/鉄道模型.md "wikilink")である。"SUPERVISOR\&EDITOR"として[いのうえこーいち](https://ja.wikipedia.org/wiki/いのうえこーいち "wikilink")が参画している。「ZZトレイン」の名前の由来は、走るときに**ジージー**という音を立てるからである。
+**ZZトレイン**（ジージートレイン）とは、2005年から[バンダイ](../Page/バンダイ.md "wikilink")より発売された軌間4.8mm、1/300スケールの[鉄道玩具](https://ja.wikipedia.org/wiki/鉄道玩具 "wikilink")である。"SUPERVISOR\&EDITOR"として[いのうえこーいち](https://ja.wikipedia.org/wiki/いのうえこーいち "wikilink")が参画している。「ZZトレイン」の名前の由来は、走るときに**ジージー**という音を立てるからである。
 
 ## 商品概要
 
@@ -15,7 +15,7 @@
 
 ## メカニズム
 
-ZZトレインの動力源には[マイクロモーター](https://ja.wikipedia.org/wiki/マイクロモーター "wikilink")と呼ばれる[携帯電話](../Page/携帯電話.md "wikilink")の[バイブレーション](https://ja.wikipedia.org/wiki/バイブレーション "wikilink")機能に使われる物が入っている。サイズは縦約12mm・横約6mmと小さい。[軌間](../Page/軌間.md "wikilink")は[Zゲージ](../Page/Zゲージ.md "wikilink")の6.5mmよりも狭い4.8mmで、2006年7月に[Tゲージが発表されるまでは世界最小だった](../Page/U9規格.md "wikilink")。 動力車については車輛の前寄りの屋根にスイッチがあり、後寄りの車輪が1軸駆動の駆動輪となっている。動力車は構造的には[片ボギー](https://ja.wikipedia.org/wiki/片ボギー "wikilink")車である。 また、製品には3輛を超える連結運転をしないよう注意書きが入っている。
+ZZトレインの動力源には[マイクロモーター](https://ja.wikipedia.org/wiki/マイクロモーター "wikilink")と呼ばれる[携帯電話](../Page/携帯電話.md "wikilink")の[バイブレーション](https://ja.wikipedia.org/wiki/バイブレーション "wikilink")機能に使われる物が入っている。サイズは縦約12mm・横約6mmと小さい。[軌間](../Page/軌間.md "wikilink")は[Zゲージ](../Page/Zゲージ.md "wikilink")の6.5mmよりも狭い4.8mm。 動力車については車輛の前寄りの屋根にスイッチがあり、後寄りの車輪が1軸駆動の駆動輪となっている。動力車は構造的には[片ボギー](https://ja.wikipedia.org/wiki/片ボギー "wikilink")車である。 また、製品には3輛を超える連結運転をしないよう注意書きが入っている。
 
 ## モデル化された車種
 
@@ -50,12 +50,8 @@ ZZトレインの動力源には[マイクロモーター](https://ja.wikipedia.
   - [E231系](https://ja.wikipedia.org/wiki/JR東日本E231系電車 "wikilink")[山手線](https://ja.wikipedia.org/wiki/山手線 "wikilink")（ストラクチャー:[踏切](../Page/踏切.md "wikilink")）
   - [485系](../Page/国鉄485系電車.md "wikilink")300番台[特急](https://ja.wikipedia.org/wiki/特別急行列車 "wikilink")（ストラクチャー:[鉄橋](https://ja.wikipedia.org/wiki/鉄橋 "wikilink")）
 
-## 関連項目
-
-  - [U9規格](../Page/U9規格.md "wikilink")
-
 ## 外部リンク
 
   - [ZZトレイン](http://www.asovision.com/zz-train/index.html)
 
-[Category:日本の鉄道模型メーカー](https://ja.wikipedia.org/wiki/Category:日本の鉄道模型メーカー "wikilink") [Category:バンダイ](https://ja.wikipedia.org/wiki/Category:バンダイ "wikilink")
+[Category:鉄道玩具](https://ja.wikipedia.org/wiki/Category:鉄道玩具 "wikilink") [Category:バンダイ](https://ja.wikipedia.org/wiki/Category:バンダイ "wikilink")

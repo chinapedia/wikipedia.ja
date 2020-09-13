@@ -11,6 +11,8 @@ DEEN初となるカヴァーアルバム『[和音〜Songs for Children〜](../P
 
 シングルカットされた際はSingle Mixになっているが、ミキシングを担当したのが作詞・作曲者[大滝詠一](https://ja.wikipedia.org/wiki/大滝詠一 "wikilink")の1980年代以降のレコーディングエンジニアで、本曲の最初の歌い手・[吉田美奈子](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink")の実兄の[吉田保である](https://ja.wikipedia.org/wiki/吉田保_\(レコーディングエンジニア\) "wikilink")。
 
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")の登場週数は2週、チャート最高順位は週間44位、累計7,560枚のセールスを記録した\[1\]。
+
 ## 収録トラックス
 
 1.  **夢で逢えたら DEEN&原田知世**
@@ -35,9 +37,13 @@ DEEN初となるカヴァーアルバム『[和音〜Songs for Children〜](../P
 
   - 作詞:Sylvia Dee　作曲:Arthur Kent 編曲:DEEN (2.)
 
+## 脚注
+
 ## 関連項目
 
   - [夢で逢えたら (大瀧詠一の曲)](https://ja.wikipedia.org/wiki/夢で逢えたら_\(大瀧詠一の曲\) "wikilink")
   - [2002年の音楽](../Page/2002年の音楽.md "wikilink")
 
-[Category:2002年のコラボレーション・シングル](https://ja.wikipedia.org/wiki/Category:2002年のコラボレーション・シングル "wikilink") [Category:DEENの楽曲](https://ja.wikipedia.org/wiki/Category:DEENの楽曲 "wikilink") [Category:原田知世の楽曲](https://ja.wikipedia.org/wiki/Category:原田知世の楽曲 "wikilink") [Category:ビーイング関連楽曲](https://ja.wikipedia.org/wiki/Category:ビーイング関連楽曲 "wikilink") [Category:海を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:海を題材とした楽曲 "wikilink") [Category:楽曲_ゆ](https://ja.wikipedia.org/wiki/Category:楽曲_ゆ "wikilink")
+[Category:2002年のコラボレーション・シングル](https://ja.wikipedia.org/wiki/Category:2002年のコラボレーション・シングル "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:DEENの楽曲](https://ja.wikipedia.org/wiki/Category:DEENの楽曲 "wikilink") [Category:原田知世の楽曲](https://ja.wikipedia.org/wiki/Category:原田知世の楽曲 "wikilink") [Category:ビーイング関連楽曲](https://ja.wikipedia.org/wiki/Category:ビーイング関連楽曲 "wikilink") [Category:海を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:海を題材とした楽曲 "wikilink") [Category:楽曲_ゆ](https://ja.wikipedia.org/wiki/Category:楽曲_ゆ "wikilink")
+
+1.

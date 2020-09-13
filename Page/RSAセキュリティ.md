@@ -7,7 +7,7 @@ RSAは、共同設立者である[ロナルド・リベスト](../Page/ロナル
 
 RSAの製品には、RSA BSAFE[暗号化](https://ja.wikipedia.org/wiki/暗号化 "wikilink")ライブラリや[SecurID](https://ja.wikipedia.org/wiki/SecurID "wikilink")認証トークンなどがある。RSAは、[アメリカ国家安全保障局](../Page/アメリカ国家安全保障局.md "wikilink")(NSA)が開発したバックドアを製品に組み込んでいるとされている\[3\]\[4\]。情報セキュリティに関するカンファレンスである[RSA Conferenceを毎年開催している](https://ja.wikipedia.org/wiki/RSA_Conference "wikilink")。
 
-RSAセキュリティは、1982年に独立企業として設立された。2006年に[EMCコーポレーション](https://ja.wikipedia.org/wiki/EMCコーポレーション "wikilink")に21億ドルで買収され、EMC内で事業部として運営された\[5\]。EMCは2016年にに買収され\[6\]、RSAはDell EMCインフラストラクチャソリューショングループの子会社となった\[7\]。
+RSAセキュリティは、1982年に独立企業として設立された。2006年に[EMCコーポレーション](https://ja.wikipedia.org/wiki/EMCコーポレーション "wikilink")に21億ドルで買収され、EMC内で事業部として運営された\[5\]。EMCは2016年に[デル・テクノロジーズ](../Page/デル・テクノロジーズ.md "wikilink")に買収され\[6\]、RSAはDell EMCインフラストラクチャソリューショングループの子会社となった\[7\]。
 
 RSAは[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")を拠点とし、（イギリス）と[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")に地域本部を、他に多数の国際事務所を置いている\[8\]。
 

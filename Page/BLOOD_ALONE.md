@@ -188,8 +188,8 @@
 ## 外部リンク
 
   - [イブニング | BLOOD ALONE | 作品紹介 | 講談社コミックプラス](https://web.archive.org/web/20140226154551/http://kc.kodansha.co.jp/content/top.php/1000005333) - 2014年2月26日時点の [オリジナル](http://kc.kodansha.co.jp/content/top.php/1000005333)よりアーカイブ。
-  - [BLOOD ALONE - 高野真之のHP](http://www.h5.dion.ne.jp/~mtaka/blood-alone.html)
 
+  -
 [Category:漫画作品_ふ](https://ja.wikipedia.org/wiki/Category:漫画作品_ふ "wikilink") [Category:吸血鬼漫画](https://ja.wikipedia.org/wiki/Category:吸血鬼漫画 "wikilink") [Category:同人漫画作品](https://ja.wikipedia.org/wiki/Category:同人漫画作品 "wikilink") [Category:月刊コミック電撃大王の漫画作品](https://ja.wikipedia.org/wiki/Category:月刊コミック電撃大王の漫画作品 "wikilink") [Category:イブニング](https://ja.wikipedia.org/wiki/Category:イブニング "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink")
 
 1.  [BLOOD ALONE - 高野真之のHP](http://www.h5.dion.ne.jp/~mtaka/blood-alone.html)

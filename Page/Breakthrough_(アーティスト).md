@@ -69,4 +69,4 @@
   - 『JAZZ NOT JAZZ "HIP HOP EXPERIMENT selected by Breakthrough』V.A.（2003年）
   - 『Freewheeler selected by breakthrough』V.A (2011年）
 
-[Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:テクノミュージシャン](https://ja.wikipedia.org/wiki/Category:テクノミュージシャン "wikilink")
+[Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:日本のテクノミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のテクノミュージシャン "wikilink")

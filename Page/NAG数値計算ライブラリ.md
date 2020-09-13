@@ -1,7 +1,7 @@
 > この記事は[NAG数値計算ライブラリ](https://ja.wikipedia.org/wiki/NAG数値計算ライブラリ)から翻訳されています。
 
 
-**NAG** ライブラリは、[Numerical Algorithms Group](https://ja.wikipedia.org/wiki/Numerical_Algorithms_Group "wikilink")（NAG社）により販売されている[Fortran](https://ja.wikipedia.org/wiki/Fortran "wikilink")、[C言語](../Page/C言語.md "wikilink")、[Java](https://ja.wikipedia.org/wiki/Java "wikilink")、などで使用可能な[数値計算](https://ja.wikipedia.org/wiki/数値計算 "wikilink")、[統計解析](https://ja.wikipedia.org/wiki/統計解析 "wikilink")用[ライブラリ](../Page/ライブラリ.md "wikilink")である。線型方程式、[固有値](../Page/固有値.md "wikilink")問題、[補間](https://ja.wikipedia.org/wiki/補間 "wikilink")、[微積分](https://ja.wikipedia.org/wiki/微積分 "wikilink")、非線型方程式、[微分方程式](../Page/微分方程式.md "wikilink")などの[数学関数のほかに](../Page/関数_\(数学\).md "wikilink")、[相関係数](../Page/相関係数.md "wikilink")、[共分散](../Page/共分散.md "wikilink")、[多変量解析](https://ja.wikipedia.org/wiki/多変量解析 "wikilink")、[乱数](https://ja.wikipedia.org/wiki/乱数 "wikilink")発生などの統計計算や[金融工学](../Page/金融工学.md "wikilink")に必要な[関数を多く取り揃えている](https://ja.wikipedia.org/wiki/関数_\(プログラミング\) "wikilink")。[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[HP-UX](../Page/HP-UX.md "wikilink")、[IBM](../Page/IBM.md "wikilink") [AIX](../Page/AIX.md "wikilink")、[SGI](../Page/シリコングラフィックス.md "wikilink") [IRIX](../Page/IRIX.md "wikilink"), その他[NEC](https://ja.wikipedia.org/wiki/NEC "wikilink")や[富士通](../Page/富士通.md "wikilink")の[スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")などの[プラットフォームで動作する](../Page/プラットフォーム_\(コンピューティング\).md "wikilink")。英国 [The Numerical Algorithms Group Ltd.](https://ja.wikipedia.org/wiki/Numerical_Algorithms_Group "wikilink") が開発、日本国内では日本ニューメリカルアルゴリズムズグループ株式会社が販売、サポートを行なっている。 NAG数値計算ライブラリでは利用言語や環境などにより以下の5種類のライブラリが用意されている。
+**NAG** ライブラリは、[Fortran](https://ja.wikipedia.org/wiki/Fortran "wikilink")、[C言語](../Page/C言語.md "wikilink")、[Java](https://ja.wikipedia.org/wiki/Java "wikilink")、などで使用可能な[数値計算](https://ja.wikipedia.org/wiki/数値計算 "wikilink")、[統計解析](https://ja.wikipedia.org/wiki/統計解析 "wikilink")用[ライブラリ](../Page/ライブラリ.md "wikilink")であり、[Numerical Algorithms Group](https://ja.wikipedia.org/wiki/Numerical_Algorithms_Group "wikilink")（NAG社）により販売されている。線型方程式、[固有値](../Page/固有値.md "wikilink")問題、[補間](https://ja.wikipedia.org/wiki/補間 "wikilink")、[微積分](https://ja.wikipedia.org/wiki/微積分 "wikilink")、非線型方程式、[微分方程式](../Page/微分方程式.md "wikilink")などの[数学関数のほかに](../Page/関数_\(数学\).md "wikilink")、[相関係数](../Page/相関係数.md "wikilink")、[共分散](../Page/共分散.md "wikilink")、[多変量解析](https://ja.wikipedia.org/wiki/多変量解析 "wikilink")、[乱数](https://ja.wikipedia.org/wiki/乱数 "wikilink")発生などの統計計算や[金融工学](../Page/金融工学.md "wikilink")に必要な[関数を多く取り揃えている](https://ja.wikipedia.org/wiki/関数_\(プログラミング\) "wikilink")。[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[HP-UX](../Page/HP-UX.md "wikilink")、[IBM](../Page/IBM.md "wikilink") [AIX](../Page/AIX.md "wikilink")、[SGI](../Page/シリコングラフィックス.md "wikilink") [IRIX](../Page/IRIX.md "wikilink"), その他[NEC](https://ja.wikipedia.org/wiki/NEC "wikilink")や[富士通](../Page/富士通.md "wikilink")の[スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")などの[プラットフォームで動作する](../Page/プラットフォーム_\(コンピューティング\).md "wikilink")。英国 [The Numerical Algorithms Group Ltd.](https://ja.wikipedia.org/wiki/Numerical_Algorithms_Group "wikilink") が開発、日本国内では日本ニューメリカルアルゴリズムズグループ株式会社が販売、サポートを行なっている。 NAG数値計算ライブラリでは利用言語や環境などにより以下の5種類のライブラリが用意されている。
 
 1.  「NAG Fortran Library」：すでに40年以上の歴史を持ち1700以上の関数より構成される。（※最新バージョンMark24）
 2.  「NAG C Library」：C／C++言語の他、C\#、VBA、Java等より利用可能（最新バージョン　Mark24）
@@ -14,56 +14,261 @@
 
 ## 提供される関数
 
-  - 特殊関数
-      - [双曲線](../Page/双曲線.md "wikilink")関数、[ガンマ関数](../Page/ガンマ関数.md "wikilink")、[誤差関数](https://ja.wikipedia.org/wiki/誤差関数 "wikilink")、[ベッセル関数](../Page/ベッセル関数.md "wikilink")、[フレネル関数](https://ja.wikipedia.org/wiki/フレネル関数 "wikilink")、[楕円積分](../Page/楕円積分.md "wikilink")、[楕円関数](https://ja.wikipedia.org/wiki/楕円関数 "wikilink")、[エアリー関数](../Page/エアリー関数.md "wikilink")、[ケルビン関数](https://ja.wikipedia.org/wiki/ケルビン関数 "wikilink")、Hankel関数
-  - [行列](https://ja.wikipedia.org/wiki/行列 "wikilink")、[ベクトル](../Page/ベクトル.md "wikilink")操作
-      - [逆行列](https://ja.wikipedia.org/wiki/逆行列 "wikilink")、[疎行列](../Page/疎行列.md "wikilink")ユーティリティー
-  - 線型方程式
-      - 一般連立線型方程式、対称連立方程式、三角連立方程式、一般帯連立方程式、対象帯連立方程式、[LU分解](../Page/LU分解.md "wikilink")、コレスキー分解、疎行列連立方程式、大規模スパース線型連立方程式ソルバー
-  - 固有値問題
-      - [固有値](../Page/固有値.md "wikilink")、[固有ベクトル](https://ja.wikipedia.org/wiki/固有ベクトル "wikilink")、[シューア分解](https://ja.wikipedia.org/wiki/シューア分解 "wikilink")
-  - [特異値分解](../Page/特異値分解.md "wikilink") (SVD)
-  - 最小二乗問題
-  - [高速フーリエ変換](../Page/高速フーリエ変換.md "wikilink") (FFT)
-  - [畳み込み積分](https://ja.wikipedia.org/wiki/畳み込み積分 "wikilink")
-  - 曲線、曲面フィッティング、補間
-      - エルミート補間、1次元スプラインフィット、2次元スプラインフィット、修正シェパード法、[チェビシェフ級数](https://ja.wikipedia.org/wiki/チェビシェフ級数 "wikilink")
-  - [最適化](https://ja.wikipedia.org/wiki/最適化 "wikilink")
-      - [線型計画法](../Page/線型計画法.md "wikilink") (LP)、2次計画法 (QP)、[非線型最小二乗法](https://ja.wikipedia.org/wiki/非線型最小二乗法 "wikilink")、非線型計画法、一変量最小化、拘束条件付き大規模[スパース](https://ja.wikipedia.org/wiki/スパース "wikilink")最適化問題、拘束条件付き規模スパース二次計画問題 (QP)
-  - 非線型方程式
-      - 多項式の根、非線型方程式の根、連立方程式の根
-  - [数値積分](https://ja.wikipedia.org/wiki/数値積分 "wikilink")
-      - 有限区間の数値積分、無限区間の数値積分、多次元積分
-  - 積分方程式
-      - 線型フレッドホルム積分方程式、非線型ヴォルテラ畳み込み方程式、アーベル型方程式
-  - [常微分方程式](../Page/常微分方程式.md "wikilink")の数値解法
-      - ルンゲクッタ法、初期値問題、アダムス法、後退差分方程式 (BDF)、境界値問題
-  - [偏微分方程式](../Page/偏微分方程式.md "wikilink")
-      - ヘルムホルツ方程式 (Helmholtz)、マルチグリッド、楕円微分方程式、放物型偏微分方程式、ブラックショールズ (Black Scholes) モデル、Bond
-  - メッシュ生成
-      - 反復法、Delaunay、Advancing-Front
-  - オペレーションズリサーチ (OR)
-      - 整数計画、最短経路問題
-  - 統計分散関数 (偏差、確率)
-      - [正規分布](https://ja.wikipedia.org/wiki/正規分布 "wikilink")、スチューデントの[t分布](https://ja.wikipedia.org/wiki/t分布 "wikilink")、χ二乗分布 ([カイ二乗分布](../Page/カイ二乗分布.md "wikilink"))、[F分布](../Page/F分布.md "wikilink")、[ベータ分布](../Page/ベータ分布.md "wikilink")、[ガンマ分布](../Page/ガンマ分布.md "wikilink")、[離散分布](https://ja.wikipedia.org/wiki/離散分布 "wikilink")
-  - 乱数発生
-      - 準乱数系列、[一様分布](../Page/一様分布.md "wikilink")、[正規分布](https://ja.wikipedia.org/wiki/正規分布 "wikilink")、[多変量正規分布](https://ja.wikipedia.org/wiki/多変量正規分布 "wikilink")、[ベータ分布](../Page/ベータ分布.md "wikilink")、[指数分布](../Page/指数分布.md "wikilink")、[ガンマ分布](../Page/ガンマ分布.md "wikilink")、[二項分布](../Page/二項分布.md "wikilink")、[超幾何分布](../Page/超幾何分布.md "wikilink")、[フォン・ミーゼス分布](https://ja.wikipedia.org/wiki/フォン・ミーゼス分布 "wikilink")、離散分布
-  - 一変量推定
-      - [二項分布](../Page/二項分布.md "wikilink")信頼区間、[ポアソン分布](../Page/ポアソン分布.md "wikilink")信頼区間、[ワイブル分布](../Page/ワイブル分布.md "wikilink")信頼区間、[ロバスト推定](https://ja.wikipedia.org/wiki/ロバスト推定 "wikilink")
-  - [回帰分析](../Page/回帰分析.md "wikilink")
-      - [線型回帰](https://ja.wikipedia.org/wiki/線型回帰 "wikilink")分析、多重線型回帰分析
-      - [相関分析](https://ja.wikipedia.org/wiki/相関分析 "wikilink")
-      - ピアソン積率[相関係数](../Page/相関係数.md "wikilink")、[共分散行列](https://ja.wikipedia.org/wiki/共分散行列 "wikilink")、偏相関行列、偏共分散行列
-  - [多変量解析](https://ja.wikipedia.org/wiki/多変量解析 "wikilink")
-      - [因子分析](../Page/因子分析.md "wikilink")、[主成分分析](../Page/主成分分析.md "wikilink") (PCA)、正準分析、クラスタ分析、判別分析
-  - 一般化線型モデル (GLM)
-  - [分散分析](../Page/分散分析.md "wikilink") (ANOVA)
-  - 時系列分析
-      - [ARIMA](https://ja.wikipedia.org/wiki/ARIMA "wikilink")モデルフィット、[ARMA](https://ja.wikipedia.org/wiki/ARMA "wikilink")モデルフィット、予測、[伝達関数](https://ja.wikipedia.org/wiki/伝達関数 "wikilink")、スペクトル解析、ACF、PACF
-  - 生存解析
-      - カプランマイヤ推定値、コックス・ハザード・モデル、危険集合
-  - ノンパラメトリック統計
-      - コックススチュアート検定、[ウィルコクソン検定](https://ja.wikipedia.org/wiki/ウィルコクソン検定 "wikilink")、ラン検定、マクネマー検定、[マン・ホイットニー検定](https://ja.wikipedia.org/wiki/マン・ホイットニー検定 "wikilink")、フリードマン検定、クラスカルウォリス検定、コクランQ検定、[コルモゴロフ・スミルノフ検定](https://ja.wikipedia.org/wiki/コルモゴロフ・スミルノフ検定 "wikilink")、[ケンドール](../Page/ケンドール.md "wikilink")の合致係数、ケンドールの階数相関
+<table>
+<thead>
+<tr class="header">
+<th><p>分類</p></th>
+<th><p>関数</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>特殊関数</p></td>
+<td><ul>
+<li><a href="../Page/双曲線.md" title="wikilink">双曲線</a>関数</li>
+<li><a href="../Page/ガンマ関数.md" title="wikilink">ガンマ関数</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/誤差関数" title="wikilink">誤差関数</a></li>
+<li><a href="../Page/ベッセル関数.md" title="wikilink">ベッセル関数</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/フレネル関数" title="wikilink">フレネル関数</a></li>
+<li><a href="../Page/楕円積分.md" title="wikilink">楕円積分</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/楕円関数" title="wikilink">楕円関数</a></li>
+<li><a href="../Page/エアリー関数.md" title="wikilink">エアリー関数</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ケルビン関数" title="wikilink">ケルビン関数</a></li>
+<li>Hankel関数</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/行列" title="wikilink">行列</a>、<a href="../Page/ベクトル.md" title="wikilink">ベクトル</a>操作</p></td>
+<td><ul>
+<li><a href="https://ja.wikipedia.org/wiki/逆行列" title="wikilink">逆行列</a></li>
+<li><a href="../Page/疎行列.md" title="wikilink">疎行列</a>ユーティリティー</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>線型方程式</p></td>
+<td><ul>
+<li>一般連立線型方程式</li>
+<li>対称連立方程式</li>
+<li>三角連立方程式</li>
+<li>一般帯連立方程式</li>
+<li>対象帯連立方程式</li>
+<li><a href="../Page/LU分解.md" title="wikilink">LU分解</a></li>
+<li>コレスキー分解</li>
+<li>疎行列連立方程式</li>
+<li>大規模スパース線型連立方程式ソルバー</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>固有値問題</p></td>
+<td><ul>
+<li><a href="../Page/固有値.md" title="wikilink">固有値</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/固有ベクトル" title="wikilink">固有ベクトル</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/シューア分解" title="wikilink">シューア分解</a></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/特異値分解.md" title="wikilink">特異値分解</a> (SVD)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>最小二乗問題</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/高速フーリエ変換.md" title="wikilink">高速フーリエ変換</a> (FFT)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/畳み込み積分" title="wikilink">畳み込み積分</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>曲線、曲面フィッティング、補間</p></td>
+<td><ul>
+<li>エルミート補間</li>
+<li>1次元スプラインフィット</li>
+<li>2次元スプラインフィット</li>
+<li>修正シェパード法</li>
+<li><a href="https://ja.wikipedia.org/wiki/チェビシェフ級数" title="wikilink">チェビシェフ級数</a></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/最適化" title="wikilink">最適化</a></p></td>
+<td><ul>
+<li><a href="../Page/線型計画法.md" title="wikilink">線型計画法</a> (LP)</li>
+<li>2次計画法 (QP)</li>
+<li><a href="https://ja.wikipedia.org/wiki/非線型最小二乗法" title="wikilink">非線型最小二乗法</a></li>
+<li>非線型計画法</li>
+<li>一変量最小化</li>
+<li>拘束条件付き大規模<a href="https://ja.wikipedia.org/wiki/スパース" title="wikilink">スパース</a>最適化問題</li>
+<li>拘束条件付き規模スパース二次計画問題 (QP)</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>非線型方程式</p></td>
+<td><ul>
+<li>多項式の根</li>
+<li>非線型方程式の根</li>
+<li>連立方程式の根</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/数値積分" title="wikilink">数値積分</a></p></td>
+<td><ul>
+<li>有限区間の数値積分</li>
+<li>無限区間の数値積分</li>
+<li>多次元積分</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>積分方程式</p></td>
+<td><ul>
+<li>線型フレッドホルム積分方程式</li>
+<li>非線型ヴォルテラ畳み込み方程式</li>
+<li>アーベル型方程式</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/常微分方程式.md" title="wikilink">常微分方程式</a>の数値解法</p></td>
+<td><ul>
+<li>ルンゲクッタ法</li>
+<li>初期値問題</li>
+<li>アダムス法</li>
+<li>後退差分方程式 (BDF)</li>
+<li>境界値問題</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/偏微分方程式.md" title="wikilink">偏微分方程式</a></p></td>
+<td><ul>
+<li>ヘルムホルツ方程式 (Helmholtz)</li>
+<li>マルチグリッド</li>
+<li>楕円微分方程式</li>
+<li>放物型偏微分方程式</li>
+<li>ブラックショールズ (Black Scholes) モデル</li>
+<li>Bond</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>メッシュ生成</p></td>
+<td><ul>
+<li>反復法</li>
+<li>Delaunay</li>
+<li>Advancing-Front</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>オペレーションズリサーチ (OR)</p></td>
+<td><ul>
+<li>整数計画</li>
+<li>最短経路問題</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>統計分散関数 (偏差、確率)</p></td>
+<td><ul>
+<li><a href="https://ja.wikipedia.org/wiki/正規分布" title="wikilink">正規分布</a></li>
+<li>スチューデントの<a href="https://ja.wikipedia.org/wiki/t分布" title="wikilink">t分布</a></li>
+<li>χ二乗分布 (<a href="../Page/カイ二乗分布.md" title="wikilink">カイ二乗分布</a>)</li>
+<li><a href="../Page/F分布.md" title="wikilink">F分布</a></li>
+<li><a href="../Page/ベータ分布.md" title="wikilink">ベータ分布</a></li>
+<li><a href="../Page/ガンマ分布.md" title="wikilink">ガンマ分布</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/離散分布" title="wikilink">離散分布</a></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>乱数発生</p></td>
+<td><ul>
+<li>準乱数系列</li>
+<li><a href="../Page/一様分布.md" title="wikilink">一様分布</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/正規分布" title="wikilink">正規分布</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/多変量正規分布" title="wikilink">多変量正規分布</a></li>
+<li><a href="../Page/ベータ分布.md" title="wikilink">ベータ分布</a></li>
+<li><a href="../Page/指数分布.md" title="wikilink">指数分布</a></li>
+<li><a href="../Page/ガンマ分布.md" title="wikilink">ガンマ分布</a></li>
+<li><a href="../Page/二項分布.md" title="wikilink">二項分布</a></li>
+<li><a href="../Page/超幾何分布.md" title="wikilink">超幾何分布</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/フォン・ミーゼス分布" title="wikilink">フォン・ミーゼス分布</a></li>
+<li>離散分布</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>一変量推定</p></td>
+<td><ul>
+<li><a href="../Page/二項分布.md" title="wikilink">二項分布</a>信頼区間</li>
+<li><a href="../Page/ポアソン分布.md" title="wikilink">ポアソン分布</a>信頼区間</li>
+<li><a href="../Page/ワイブル分布.md" title="wikilink">ワイブル分布</a>信頼区間</li>
+<li><a href="https://ja.wikipedia.org/wiki/ロバスト推定" title="wikilink">ロバスト推定</a></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/回帰分析.md" title="wikilink">回帰分析</a></p></td>
+<td><ul>
+<li><a href="https://ja.wikipedia.org/wiki/線型回帰" title="wikilink">線型回帰</a>分析</li>
+<li>多重線型回帰分析</li>
+<li><a href="https://ja.wikipedia.org/wiki/相関分析" title="wikilink">相関分析</a></li>
+<li>ピアソン積率<a href="../Page/相関係数.md" title="wikilink">相関係数</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/共分散行列" title="wikilink">共分散行列</a></li>
+<li>偏相関行列</li>
+<li>偏共分散行列</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/多変量解析" title="wikilink">多変量解析</a></p></td>
+<td><ul>
+<li><a href="../Page/因子分析.md" title="wikilink">因子分析</a></li>
+<li><a href="../Page/主成分分析.md" title="wikilink">主成分分析</a> (PCA)</li>
+<li>正準分析</li>
+<li>クラスタ分析</li>
+<li>判別分析</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>一般化線型モデル (GLM)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/分散分析.md" title="wikilink">分散分析</a> (ANOVA)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>時系列分析</p></td>
+<td><ul>
+<li><a href="https://ja.wikipedia.org/wiki/ARIMA" title="wikilink">ARIMA</a>モデルフィット</li>
+<li><a href="https://ja.wikipedia.org/wiki/ARMA" title="wikilink">ARMA</a>モデルフィット</li>
+<li>予測</li>
+<li><a href="https://ja.wikipedia.org/wiki/伝達関数" title="wikilink">伝達関数</a></li>
+<li>スペクトル解析</li>
+<li>ACF</li>
+<li>PACF</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>生存解析</p></td>
+<td><ul>
+<li>カプランマイヤ推定値</li>
+<li>コックス・ハザード・モデル</li>
+<li>危険集合</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>ノンパラメトリック統計</p></td>
+<td><ul>
+<li>コックススチュアート検定</li>
+<li><a href="https://ja.wikipedia.org/wiki/ウィルコクソン検定" title="wikilink">ウィルコクソン検定</a></li>
+<li>ラン検定</li>
+<li>マクネマー検定</li>
+<li><a href="https://ja.wikipedia.org/wiki/マン・ホイットニー検定" title="wikilink">マン・ホイットニー検定</a></li>
+<li>フリードマン検定</li>
+<li>クラスカルウォリス検定</li>
+<li>コクランQ検定</li>
+<li><a href="https://ja.wikipedia.org/wiki/コルモゴロフ・スミルノフ検定" title="wikilink">コルモゴロフ・スミルノフ検定</a></li>
+<li><a href="../Page/ケンドール.md" title="wikilink">ケンドール</a>の合致係数</li>
+<li>ケンドールの階数相関</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
 
 ## 脚注
 

@@ -91,7 +91,7 @@
 #### Aステージ
 
   - 発作モンキーズ
-  - ディフェランス（[北村昌士](https://ja.wikipedia.org/wiki/北村昌士 "wikilink")）
+  - ディフェランス（[北村昌士](../Page/北村昌士.md "wikilink")）
   - [AUTO-MOD](../Page/AUTO-MOD.md "wikilink")
   - さかな
   - ＃9（BAKI）

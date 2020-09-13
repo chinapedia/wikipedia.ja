@@ -19,13 +19,13 @@
 
 ## 競走条件
 
-2017年現在の出走資格は、[サラ系](../Page/サラブレッド.md "wikilink")3歳（旧4歳）以上で、施行日当日の1週前から過去1年前までの期間内に1回以上出走のJRA所属の[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")及び外国調教馬（9頭まで）\[13\]。
+2020年現在の出走資格は、[サラ系](../Page/サラブレッド.md "wikilink")3歳（旧4歳）以上で、施行日当日の1週前から過去1年前までの期間内に1回以上出走のJRA所属の[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")及び外国調教馬（9頭まで）\[13\]。
 
 負担重量は、ハンデキャップである\[14\]。
 
 ### 賞金
 
-2017年の1着賞金は3900万円で、以下2着1600万円、3着980万円、4着590万円、5着390万円\[15\]\[16\]。
+2020年の1着賞金は3900万円で、以下2着1600万円、3着980万円、4着590万円、5着390万円\[15\]\[16\]。
 
 ## 歴史
 
@@ -58,6 +58,9 @@
       - 施行時期を7月に変更。
       - [サマースプリントシリーズの第](../Page/サマーシリーズ.md "wikilink")2戦に組み込まれる。
       - 特別指定交流競走に再び指定される。
+  - 2020年
+      - [京都競馬場](../Page/京都競馬場.md "wikilink")の改修工事等の関連で[阪神競馬場](../Page/阪神競馬場.md "wikilink")で施行\[27\]。
+      - [新型コロナウイルスの感染拡大防止のため](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")、「[無観客競馬](https://ja.wikipedia.org/wiki/無観客試合#競馬 "wikilink")」として実施\[28\]。
 
 ### 歴代優勝馬
 
@@ -121,7 +124,8 @@
 | 第52回 | 2016年7月3日   | 中京  | 1200m  | [レッドファルクス](https://ja.wikipedia.org/wiki/レッドファルクス "wikilink")       | 牡5 | 1:07.2 | [M.デムーロ](../Page/ミルコ・デムーロ.md "wikilink")              | [尾関知人](https://ja.wikipedia.org/wiki/尾関知人 "wikilink")        | [(株)東京ホースレーシング](https://ja.wikipedia.org/wiki/東京ホースレーシング "wikilink")  |
 | 第53回 | 2017年7月2日   | 中京  | 1200m  | [シャイニングレイ](https://ja.wikipedia.org/wiki/シャイニングレイ "wikilink")       | 牡5 | 1:08.0 | [北村友一](../Page/北村友一.md "wikilink")                    | [高野友和](https://ja.wikipedia.org/wiki/高野友和 "wikilink")        | [(有)キャロットファーム](../Page/キャロットファーム.md "wikilink")                       |
 | 第54回 | 2018年7月1日   | 中京  | 1200m  | [アレスバローズ](https://ja.wikipedia.org/wiki/アレスバローズ "wikilink")         | 牡6 | 1:07.0 | [川田将雅](../Page/川田将雅.md "wikilink")                    | [角田晃一](../Page/角田晃一.md "wikilink")                           | [猪熊広次](https://ja.wikipedia.org/wiki/猪熊広次 "wikilink")                 |
-| 第55回 | 2019年6月30日  | 中京  | 1200m  | [レッドアンシェル](https://ja.wikipedia.org/wiki/レッドアンシェル "wikilink")       | 牡5 | 1:09.8 | 福永祐一                                                  | [庄野靖志](https://ja.wikipedia.org/wiki/庄野靖志 "wikilink")        | (株) 東京ホースレーシング                                                        |
+| 第55回 | 2019年6月30日  | 中京  | 1200m  | [レッドアンシェル](../Page/レッドアンシェル.md "wikilink")                          | 牡5 | 1:09.8 | 福永祐一                                                  | [庄野靖志](https://ja.wikipedia.org/wiki/庄野靖志 "wikilink")        | (株) 東京ホースレーシング                                                        |
+| 第56回 | 2020年7月5日   | 阪神  | 1200m  | [ラブカンプー](../Page/ラブカンプー.md "wikilink")                              | 牝5 | 1:08.7 | [斎藤新](https://ja.wikipedia.org/wiki/斎藤新 "wikilink")   | [森田直行](https://ja.wikipedia.org/wiki/森田直行 "wikilink")        | [増田陽一](https://ja.wikipedia.org/wiki/増田陽一 "wikilink")                 |
 
 ## もう一つのCBC賞
 
@@ -134,18 +138,18 @@
 | 施行日        | 距離      | 優勝馬                                                           | 性齢 | タイム    | 優勝騎手                                                  | 管理調教師                                                        | 馬主                                                                    |
 | ---------- | ------- | ------------------------------------------------------------- | -- | ------ | ----------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------------------- |
 | 1958年8月24日 | |砂1700m | [ワールドグレイス](https://ja.wikipedia.org/wiki/ワールドグレイス "wikilink") | 牝5 | 1:47.0 | [伊藤修司](../Page/伊藤修司.md "wikilink")                    | [伊藤勝吉](../Page/伊藤勝吉.md "wikilink")                           | 不明                                                                    |
-| 1959年1月25日 | |砂1800m | [ブレツシング](https://ja.wikipedia.org/wiki/ブレツシング "wikilink")     | 牝8 | 1:53.0 | [保田隆芳](../Page/保田隆芳.md "wikilink")                    | [尾形藤吉](../Page/尾形藤吉.md "wikilink")                           | [小野晃](https://ja.wikipedia.org/wiki/小野晃 "wikilink")\[27\]             |
-| 1959年8月23日 | |砂1700m | [タマノミネ](https://ja.wikipedia.org/wiki/タマノミネ "wikilink")       | 牡4 | 1:48.2 | [武田作十郎](../Page/武田作十郎.md "wikilink")                  | [加藤清一](https://ja.wikipedia.org/wiki/加藤清一_\(競馬\) "wikilink") | [楠本逸治](https://ja.wikipedia.org/wiki/楠本逸治 "wikilink")\[28\]           |
-| 1960年1月24日 | |砂1800m | [スイートワン](https://ja.wikipedia.org/wiki/スイートワン "wikilink")     | 牡5 | 1:54.9 | [野平祐二](../Page/野平祐二.md "wikilink")                    | [野平省三](https://ja.wikipedia.org/wiki/野平省三 "wikilink")        | [和田共弘](../Page/和田共弘.md "wikilink")\[29\]                              |
-| 1960年7月31日 | |砂1800m | [イセロンパー](https://ja.wikipedia.org/wiki/イセロンパー "wikilink")     | 牡4 | 1:54.1 | [田所秀雄](https://ja.wikipedia.org/wiki/田所秀雄 "wikilink") | [武輔彦](https://ja.wikipedia.org/wiki/武輔彦 "wikilink")          | [真野正男](https://ja.wikipedia.org/wiki/真野正男 "wikilink")\[30\]           |
-| 1961年1月29日 | |砂1800m | [トキノキロク](https://ja.wikipedia.org/wiki/トキノキロク "wikilink")     | 牝5 | 1:55.6 | 武田作十郎                                                 | [松田由太郎](https://ja.wikipedia.org/wiki/松田由太郎 "wikilink")      | [涌谷辰造](https://ja.wikipedia.org/wiki/涌谷辰造 "wikilink")\[31\]           |
-| 1961年7月30日 | |砂1800m | [ミスヤマニン](https://ja.wikipedia.org/wiki/ミスヤマニン "wikilink")     | 牝5 | 1:54.4 | [池江泰郎](../Page/池江泰郎.md "wikilink")                    | [相羽仙一](https://ja.wikipedia.org/wiki/相羽仙一 "wikilink")        | [土井宏二](https://ja.wikipedia.org/wiki/土井宏二 "wikilink")\[32\]           |
-| 1962年2月4日  | |砂1700m | [クサナギ](https://ja.wikipedia.org/wiki/クサナギ "wikilink")         | 牡6 | 1:48.0 | [伊藤竹男](https://ja.wikipedia.org/wiki/伊藤竹男 "wikilink") | [岩佐宗五郎](https://ja.wikipedia.org/wiki/岩佐宗五郎 "wikilink")      | [日本軽種馬株式会社](https://ja.wikipedia.org/wiki/日本軽種馬株式会社 "wikilink")\[33\] |
-| 1962年7月15日 | |砂1800m | [シズマサ](https://ja.wikipedia.org/wiki/シズマサ "wikilink")         | 牡6 | 1:54.0 | [松永高徳](https://ja.wikipedia.org/wiki/松永高徳 "wikilink") | [梶与三男](https://ja.wikipedia.org/wiki/梶与三男 "wikilink")        | [橘八重子](https://ja.wikipedia.org/wiki/橘八重子 "wikilink")\[34\]           |
-| 1963年2月10日 | |砂1800m | [ヤマトタチバナ](https://ja.wikipedia.org/wiki/ヤマトタチバナ "wikilink")   | 牝5 | 1:55.1 | [坂田正行](https://ja.wikipedia.org/wiki/坂田正行 "wikilink") | [清水茂次](https://ja.wikipedia.org/wiki/清水茂次 "wikilink")        | [野上政次](https://ja.wikipedia.org/wiki/野上政次 "wikilink")\[35\]           |
-| 1963年7月7日  | |砂1700m | [アンデス](https://ja.wikipedia.org/wiki/アンデス_\(競走馬\) "wikilink") | 牡4 | 1:46.9 | [宇田明彦](https://ja.wikipedia.org/wiki/宇田明彦 "wikilink") | [星川泉士](https://ja.wikipedia.org/wiki/星川泉士 "wikilink")        | [ナルミ](https://ja.wikipedia.org/wiki/ナルミ "wikilink")\[36\]             |
-| 1964年2月2日  | |砂1800m | [タカチオ](https://ja.wikipedia.org/wiki/タカチオ "wikilink")         | 牡5 | 1:54.8 | [中島啓之](../Page/中島啓之.md "wikilink")                    | [菊池一雄](../Page/菊池一雄.md "wikilink")                           | [丸谷キミ](https://ja.wikipedia.org/wiki/丸谷キミ "wikilink")\[37\]           |
-| 1964年8月2日  | |砂1800m | [ヤマトキヨウダイ](https://ja.wikipedia.org/wiki/ヤマトキヨウダイ "wikilink") | 牡5 | 1:53.3 | [梶与四松](https://ja.wikipedia.org/wiki/梶与四松 "wikilink") | [稲葉幸夫](../Page/稲葉幸夫.md "wikilink")                           | [門井みち](https://ja.wikipedia.org/wiki/門井みち "wikilink")\[38\]           |
+| 1959年1月25日 | |砂1800m | [ブレツシング](https://ja.wikipedia.org/wiki/ブレツシング "wikilink")     | 牝8 | 1:53.0 | [保田隆芳](../Page/保田隆芳.md "wikilink")                    | [尾形藤吉](../Page/尾形藤吉.md "wikilink")                           | [小野晃](https://ja.wikipedia.org/wiki/小野晃 "wikilink")\[29\]             |
+| 1959年8月23日 | |砂1700m | [タマノミネ](https://ja.wikipedia.org/wiki/タマノミネ "wikilink")       | 牡4 | 1:48.2 | [武田作十郎](../Page/武田作十郎.md "wikilink")                  | [加藤清一](https://ja.wikipedia.org/wiki/加藤清一_\(競馬\) "wikilink") | [楠本逸治](https://ja.wikipedia.org/wiki/楠本逸治 "wikilink")\[30\]           |
+| 1960年1月24日 | |砂1800m | [スイートワン](https://ja.wikipedia.org/wiki/スイートワン "wikilink")     | 牡5 | 1:54.9 | [野平祐二](../Page/野平祐二.md "wikilink")                    | [野平省三](https://ja.wikipedia.org/wiki/野平省三 "wikilink")        | [和田共弘](../Page/和田共弘.md "wikilink")\[31\]                              |
+| 1960年7月31日 | |砂1800m | [イセロンパー](https://ja.wikipedia.org/wiki/イセロンパー "wikilink")     | 牡4 | 1:54.1 | [田所秀雄](https://ja.wikipedia.org/wiki/田所秀雄 "wikilink") | [武輔彦](https://ja.wikipedia.org/wiki/武輔彦 "wikilink")          | [真野正男](https://ja.wikipedia.org/wiki/真野正男 "wikilink")\[32\]           |
+| 1961年1月29日 | |砂1800m | [トキノキロク](https://ja.wikipedia.org/wiki/トキノキロク "wikilink")     | 牝5 | 1:55.6 | 武田作十郎                                                 | [松田由太郎](https://ja.wikipedia.org/wiki/松田由太郎 "wikilink")      | [涌谷辰造](https://ja.wikipedia.org/wiki/涌谷辰造 "wikilink")\[33\]           |
+| 1961年7月30日 | |砂1800m | [ミスヤマニン](https://ja.wikipedia.org/wiki/ミスヤマニン "wikilink")     | 牝5 | 1:54.4 | [池江泰郎](../Page/池江泰郎.md "wikilink")                    | [相羽仙一](https://ja.wikipedia.org/wiki/相羽仙一 "wikilink")        | [土井宏二](https://ja.wikipedia.org/wiki/土井宏二 "wikilink")\[34\]           |
+| 1962年2月4日  | |砂1700m | [クサナギ](https://ja.wikipedia.org/wiki/クサナギ "wikilink")         | 牡6 | 1:48.0 | [伊藤竹男](https://ja.wikipedia.org/wiki/伊藤竹男 "wikilink") | [岩佐宗五郎](https://ja.wikipedia.org/wiki/岩佐宗五郎 "wikilink")      | [日本軽種馬株式会社](https://ja.wikipedia.org/wiki/日本軽種馬株式会社 "wikilink")\[35\] |
+| 1962年7月15日 | |砂1800m | [シズマサ](https://ja.wikipedia.org/wiki/シズマサ "wikilink")         | 牡6 | 1:54.0 | [松永高徳](https://ja.wikipedia.org/wiki/松永高徳 "wikilink") | [梶与三男](https://ja.wikipedia.org/wiki/梶与三男 "wikilink")        | [橘八重子](https://ja.wikipedia.org/wiki/橘八重子 "wikilink")\[36\]           |
+| 1963年2月10日 | |砂1800m | [ヤマトタチバナ](https://ja.wikipedia.org/wiki/ヤマトタチバナ "wikilink")   | 牝5 | 1:55.1 | [坂田正行](https://ja.wikipedia.org/wiki/坂田正行 "wikilink") | [清水茂次](https://ja.wikipedia.org/wiki/清水茂次 "wikilink")        | [野上政次](https://ja.wikipedia.org/wiki/野上政次 "wikilink")\[37\]           |
+| 1963年7月7日  | |砂1700m | [アンデス](https://ja.wikipedia.org/wiki/アンデス_\(競走馬\) "wikilink") | 牡4 | 1:46.9 | [宇田明彦](https://ja.wikipedia.org/wiki/宇田明彦 "wikilink") | [星川泉士](https://ja.wikipedia.org/wiki/星川泉士 "wikilink")        | [ナルミ](https://ja.wikipedia.org/wiki/ナルミ "wikilink")\[38\]             |
+| 1964年2月2日  | |砂1800m | [タカチオ](https://ja.wikipedia.org/wiki/タカチオ "wikilink")         | 牡5 | 1:54.8 | [中島啓之](../Page/中島啓之.md "wikilink")                    | [菊池一雄](../Page/菊池一雄.md "wikilink")                           | [丸谷キミ](https://ja.wikipedia.org/wiki/丸谷キミ "wikilink")\[39\]           |
+| 1964年8月2日  | |砂1800m | [ヤマトキヨウダイ](https://ja.wikipedia.org/wiki/ヤマトキヨウダイ "wikilink") | 牡5 | 1:53.3 | [梶与四松](https://ja.wikipedia.org/wiki/梶与四松 "wikilink") | [稲葉幸夫](../Page/稲葉幸夫.md "wikilink")                           | [門井みち](https://ja.wikipedia.org/wiki/門井みち "wikilink")\[40\]           |
 
 ## 脚注・出典
 
@@ -160,12 +164,15 @@
 
   - 『[中央競馬全重賞競走成績集 【古馬関西編】](https://ja.wikipedia.org/wiki/#中央競馬全重賞競走成績集 "wikilink")』第1回 - 第41回
   - JRA年度別全成績
-      - （2017年）
-      - （2016年）
-      - （2015年）
-      - （2014年）
-      - （2013年）
-      - （2012年）
+      - （2020年）（索引番号: 18023）
+      - （2019年）（索引番号: 19023）
+      - （2018年）（索引番号: 19023）
+      - （2017年）（索引番号: 19023）
+      - （2016年）（索引番号: 19023）
+      - （2015年）（索引番号: 19023）
+      - （2014年）（索引番号: 19023）
+      - （2013年）（索引番号: 19023）
+      - （2012年）（索引番号: 18023）
       - （2011年）（索引番号：16047）
       - （2010年）（索引番号：15094）
       - （2009年）（索引番号：16094）
@@ -178,13 +185,13 @@
       - （2003年）（索引番号：35071）
       - （2002年）（索引番号：35071）
 
-netkeiba.comより（最終閲覧日：2015年7月6日）
+netkeiba.comより（最終閲覧日：2020年7月6日）
 
-  - 、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+  - 、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
 
 ## 外部リンク
 
-  - [レース分析：CBC賞　今週の注目レース](http://jra.jp/keiba/thisweek/2019/0630_2/) - 日本中央競馬会
+  - [レース分析：CBC賞 今週の注目レース](http://jra.jp/keiba/thisweek/2020/0705_2/) - 日本中央競馬会
 
 [Category:中央競馬の競走](https://ja.wikipedia.org/wiki/Category:中央競馬の競走 "wikilink") [Category:CBCテレビ](https://ja.wikipedia.org/wiki/Category:CBCテレビ "wikilink") [Category:中京競馬場の競走](https://ja.wikipedia.org/wiki/Category:中京競馬場の競走 "wikilink")
 
@@ -214,15 +221,17 @@ netkeiba.comより（最終閲覧日：2015年7月6日）
 24.
 25.
 26.
-27. 昭和34年『競馬成績公報』日本中央競馬会刊 152頁
-28. 昭和34年『競馬成績公報』日本中央競馬会刊 1,142頁
-29. 昭和35年『競馬成績公報』日本中央競馬会刊 163頁
-30. 昭和35年『競馬成績公報』日本中央競馬会刊 1,085頁
-31. 昭和36年『競馬成績公報』日本中央競馬会刊 165頁
-32. 昭和36年『競馬成績公報』日本中央競馬会刊 1,126頁
-33. 昭和37年『競馬成績公報』日本中央競馬会刊 214頁
-34. 昭和37年『競馬成績公報』日本中央競馬会刊 990頁
-35. 昭和38年『競馬成績公報』日本中央競馬会刊 238頁
-36. 昭和38年『競馬成績公報』日本中央競馬会刊 1,031頁
-37. 昭和39年『競馬成績公報』日本中央競馬会刊 252頁
-38. 昭和39年『競馬成績公報』日本中央競馬会刊 1,374頁
+27.
+28.
+29. 昭和34年『競馬成績公報』日本中央競馬会刊 152頁
+30. 昭和34年『競馬成績公報』日本中央競馬会刊 1,142頁
+31. 昭和35年『競馬成績公報』日本中央競馬会刊 163頁
+32. 昭和35年『競馬成績公報』日本中央競馬会刊 1,085頁
+33. 昭和36年『競馬成績公報』日本中央競馬会刊 165頁
+34. 昭和36年『競馬成績公報』日本中央競馬会刊 1,126頁
+35. 昭和37年『競馬成績公報』日本中央競馬会刊 214頁
+36. 昭和37年『競馬成績公報』日本中央競馬会刊 990頁
+37. 昭和38年『競馬成績公報』日本中央競馬会刊 238頁
+38. 昭和38年『競馬成績公報』日本中央競馬会刊 1,031頁
+39. 昭和39年『競馬成績公報』日本中央競馬会刊 252頁
+40. 昭和39年『競馬成績公報』日本中央競馬会刊 1,374頁

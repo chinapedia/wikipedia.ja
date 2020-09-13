@@ -72,7 +72,7 @@
   - 第13回（2019年）
       - グランプリ:[沙倉しずか](https://ja.wikipedia.org/wiki/沙倉しずか "wikilink")（歴代最年長、32歳での受賞\[14\]）、[阿南萌花](https://www.projectyamato.jp/所属タレント-女性/阿南-萌花/)、[山岸奈津美](https://ja.wikipedia.org/wiki/山岸奈津美 "wikilink")\[15\]
   - 第14回（2020年）
-      - グランプリ:[藤田いろは](../Page/藤田いろは.md "wikilink")\[16\]・[崎川みずき](https://ja.wikipedia.org/wiki/崎川みずき "wikilink")・[白宮奈々](../Page/白宮奈々.md "wikilink")
+      - グランプリ:[藤田いろは](../Page/藤田いろは.md "wikilink")\[16\]・[崎川みずき](../Page/崎川みずき.md "wikilink")・[白宮奈々](../Page/白宮奈々.md "wikilink")
       - 審査員特別賞:[日野アリス](https://ja.wikipedia.org/wiki/日野アリス "wikilink")
 
 ### 特記

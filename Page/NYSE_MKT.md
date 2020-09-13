@@ -23,7 +23,7 @@
 
 2008年12月1日、[トリニティ・プレイス](https://ja.wikipedia.org/wiki/トリニティ・プレイス "wikilink") 86番地にあったCurb ExchangeビルのAMEXトレーディング・フロアは閉鎖され、[ウォール・ストリート](https://ja.wikipedia.org/wiki/ウォール・ストリート "wikilink") 11番地にあるニューヨーク証券取引所のトレーディング・フロアへ移転した。
 
-2017年7月14日、**NYSE MKT LLC**は、**NYSE American** へと改称した。
+。
 
 ## 関連項目
 

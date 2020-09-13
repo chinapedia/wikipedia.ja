@@ -1,13 +1,13 @@
 > この記事は[PwCあらた有限責任監査法人](https://ja.wikipedia.org/wiki/PwCあらた有限責任監査法人)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/画像:Sumitomo-shiodomebuilding.jpg "wikilink") **PwCあらた有限責任監査法人**（ぴーだうりゅすぃーあらたゆうげんせきにんかんさほうじん、英文名称： ）は、日本の[監査法人](../Page/監査法人.md "wikilink")。海外の大手会計事務所を指す「[big4](https://ja.wikipedia.org/wiki/4大会計事務所 "wikilink")」の一つ、[プライスウォーターハウスクーパース](../Page/プライスウォーターハウスクーパース.md "wikilink")のメンバーファーム。
+[thumb](https://ja.wikipedia.org/wiki/画像:Sumitomo-shiodomebuilding.jpg "wikilink") **PwCあらた有限責任監査法人**（ぴーだぶるしーあらたゆうげんせきにんかんさほうじん、英文名称： ）は、日本の[監査法人](../Page/監査法人.md "wikilink")。海外の大手会計事務所を指す「[big4](https://ja.wikipedia.org/wiki/4大会計事務所 "wikilink")」の一つ、[プライスウォーターハウスクーパース](../Page/プライスウォーターハウスクーパース.md "wikilink")のメンバーファーム。
 
 いわゆる「[4大監査法人](../Page/4大監査法人.md "wikilink")」の一つ。[2016年](../Page/2016年.md "wikilink")（平成28年）[7月1日](../Page/7月1日.md "wikilink")、その中では最後に有限責任監査法人へ移行した。
 
 ## 概要
 
-世界最大の会計事務所である[プライスウォーターハウスクーパース](../Page/プライスウォーターハウスクーパース.md "wikilink")（PwC）は、日本において[中央青山監査法人](../Page/みすず監査法人.md "wikilink")（後に[みすず監査法人](../Page/みすず監査法人.md "wikilink")に改称）と提携していた。しかし、中央青山監査法人の一連の不祥事と、それによる行政処分や顧客離れを受け、PwCはそれらの受け皿として中央青山監査法人の一部を独立させてあらた監査法人を設立した。
+世界最大級の会計事務所である[プライスウォーターハウスクーパース](../Page/プライスウォーターハウスクーパース.md "wikilink")（PwC）は、日本において[中央青山監査法人](../Page/みすず監査法人.md "wikilink")（後に[みすず監査法人](../Page/みすず監査法人.md "wikilink")に改称）と提携していた。しかし、中央青山監査法人の一連の不祥事と、それによる行政処分や顧客離れを受け、PwCはそれらの受け皿として中央青山監査法人の一部を独立させてあらた監査法人を設立した。
 
 こうした経緯から、4大監査法人のなかでは唯一の純粋な外資系の監査法人であり、上場クライアント数や地方事務所の拠点数は準大手の[太陽有限責任監査法人](../Page/太陽有限責任監査法人.md "wikilink")よりも小規模である。
 
@@ -24,11 +24,11 @@
 有価証券報告書より、最近の監査報酬が1億円超のクライアントを列挙。
 
   - 素材・エネルギー
-    [王子HD](https://ja.wikipedia.org/wiki/王子ホールディングス "wikilink")、[昭和シェル石油](../Page/昭和シェル石油.md "wikilink")、[フジクラ](../Page/フジクラ.md "wikilink")、[大王製紙](../Page/大王製紙.md "wikilink")、[トヨタ紡織](../Page/トヨタ紡織.md "wikilink")
+    [フジクラ](../Page/フジクラ.md "wikilink")、[トヨタ紡織](../Page/トヨタ紡織.md "wikilink")、[大王製紙](../Page/大王製紙.md "wikilink")
   - 医療・化学
-    [旭化成](../Page/旭化成.md "wikilink")、[クラレ](../Page/クラレ.md "wikilink")、[ユニ・チャーム](../Page/ユニ・チャーム.md "wikilink")
+    [旭化成](../Page/旭化成.md "wikilink")、[クラレ](../Page/クラレ.md "wikilink")、[太陽ホールディングス](https://ja.wikipedia.org/wiki/太陽ホールディングス "wikilink")、[ユニ・チャーム](../Page/ユニ・チャーム.md "wikilink")
   - 自動車・機械・部品・エレクトロニクス
-    [東芝](../Page/東芝.md "wikilink")、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")、[ソニー](../Page/ソニー.md "wikilink")、[シャープ](../Page/シャープ.md "wikilink")、[アイシン精機](../Page/アイシン精機.md "wikilink")、[沖電気工業](../Page/沖電気工業.md "wikilink")、[日野自動車](../Page/日野自動車.md "wikilink")、[豊田自動織機](../Page/豊田自動織機.md "wikilink")、[東芝テック](../Page/東芝テック.md "wikilink")、[ダイフク](../Page/ダイフク.md "wikilink")、[ノーリツ鋼機](../Page/ノーリツ鋼機.md "wikilink")、[ルネサスエレクトロニクス](../Page/ルネサスエレクトロニクス.md "wikilink")
+    [東芝](../Page/東芝.md "wikilink")、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")、[ソニー](../Page/ソニー.md "wikilink")、[シャープ](../Page/シャープ.md "wikilink")、[アイシン精機](../Page/アイシン精機.md "wikilink")、[キオクシア](https://ja.wikipedia.org/wiki/キオクシア "wikilink")HD、[沖電気工業](../Page/沖電気工業.md "wikilink")、[ルネサスエレクトロニクス](../Page/ルネサスエレクトロニクス.md "wikilink")、[日野自動車](../Page/日野自動車.md "wikilink")、[豊田自動織機](../Page/豊田自動織機.md "wikilink")、[東芝テック](../Page/東芝テック.md "wikilink")、[ノーリツ鋼機](../Page/ノーリツ鋼機.md "wikilink")、[ダイフク](../Page/ダイフク.md "wikilink")、[アルバック](../Page/アルバック.md "wikilink")
   - 生活・サービス
     [コナミHD](../Page/コナミホールディングス.md "wikilink")、[みらかHD](https://ja.wikipedia.org/wiki/みらかホールディングス "wikilink")
   - 情報・通信
@@ -36,7 +36,7 @@
   - 卸売・小売・外食
     [豊田通商](https://ja.wikipedia.org/wiki/豊田通商 "wikilink")、[兼松](../Page/兼松.md "wikilink")、[ゼンショー](../Page/ゼンショー.md "wikilink")HD、[丸井グループ](../Page/丸井グループ.md "wikilink")
   - 金融・保険
-    [東京海上HD](../Page/東京海上ホールディングス.md "wikilink")、[アクサ生命保険](../Page/アクサ生命保険.md "wikilink")、[東京海上日動火災保険](../Page/東京海上日動火災保険.md "wikilink")、[ソニーフィナンシャルHD](../Page/ソニーフィナンシャルホールディングス.md "wikilink")、[商工組合中央金庫](../Page/商工組合中央金庫.md "wikilink")
+    [東京海上HD](../Page/東京海上ホールディングス.md "wikilink")、[ソニーフィナンシャルHD](../Page/ソニーフィナンシャルホールディングス.md "wikilink")、[東京海上日動火災保険](../Page/東京海上日動火災保険.md "wikilink")、[アクサHDジャパン](https://ja.wikipedia.org/wiki/アクサ・ホールディングス・ジャパン "wikilink")、[プレミアグループ](https://ja.wikipedia.org/wiki/プレミアグループ "wikilink")、[商工組合中央金庫](../Page/商工組合中央金庫.md "wikilink")
 
 ## 経営成績の推移
 
@@ -159,10 +159,6 @@
 | 3 | 木村浩一郎 | 2012年6月 -                                                                       | [早稲田大学](../Page/早稲田大学.md "wikilink")[政治経済学部](../Page/政治経済学部.md "wikilink")卒、現職                                                                             |
 |   |       |                                                                                 |                                                                                                                                                            |
 
-## 不祥事
-
-2019年5月21日、PwCあらた有限責任監査法人に勤務する公認会計士が女子中学生に性的いたずらをしようとして[強制わいせつ](https://ja.wikipedia.org/wiki/強制わいせつ "wikilink")未遂容疑で警視庁調布署に逮捕された\[8\]。PwCあらた有限責任監査法人は「詳細は現在調査中であり、事実関係を確認次第、厳正に対処いたします」とコメントした\[9\]。
-
 ## 関係会社
 
   - [プライスウォーターハウスクーパース](../Page/プライスウォーターハウスクーパース.md "wikilink")株式会社
@@ -193,5 +189,3 @@
 5.  [ＰｗＣあらた、７月から有限責任監査法人へ移行（2016年2月18日、日本経済新聞）](http://www.nikkei.com/article/DGXLZO97442950Y6A210C1DTA000/)
 6.  [PwCあらた、福岡事務所開設のお知らせ（PwCあらた有限責任監査法人）](http://www.pwc.com/jp/ja/japan-press-room/press-release/2016/pwc-fukuoka160818.html)
 7.  [PwC Japan、大手町に「働き方改革」を実現するオフィスを開設（PwC Japan）](http://www.pwc.com/jp/ja/press-room/work-style170515.html)
-8.  女子中学生にわいせつ未遂 32歳エリート公認会計士の素性、[日刊ゲンダイDIGITAL](https://ja.wikipedia.org/wiki/日刊ゲンダイDIGITAL "wikilink")公式サイト（2019年5月23日）。
-9.  当法人の職員の逮捕に関するお詫び、PwCあらた有限責任監査法人（2019年5月22日）。

@@ -5,7 +5,7 @@
 
 ## 解説
 
-小田和正監督による、同年製作の映画『[いつか どこかで](../Page/いつか_どこかで_\(映画\).md "wikilink")』のサウンド・トラックを兼ねたアルバム。ミキサーは[ビル・シュネー](https://ja.wikipedia.org/wiki/ビル・シュネー "wikilink")、シンセサイザーは[望月英樹](https://ja.wikipedia.org/wiki/望月英樹_\(プログラマー\) "wikilink")。ミュージシャンは[ネーザン・イースト](https://ja.wikipedia.org/wiki/ネーザン・イースト "wikilink")、[佐橋佳幸](../Page/佐橋佳幸.md "wikilink")など多彩な顔ぶれである。[Sing Like Talkingの](https://ja.wikipedia.org/wiki/Sing_Like_Talking "wikilink")[佐藤竹善](../Page/佐藤竹善.md "wikilink")がコーラスで参加している。
+小田和正監督による、同年製作の映画『[いつか どこかで](../Page/いつか_どこかで_\(映画\).md "wikilink")』のサウンド・トラックを兼ねたアルバム。ミキサーは[ビル・シュネー](https://ja.wikipedia.org/wiki/ビル・シュネー "wikilink")、シンセサイザーは[望月英樹](https://ja.wikipedia.org/wiki/望月英樹_\(プログラマー\) "wikilink")。ミュージシャンは[ネーザン・イースト](https://ja.wikipedia.org/wiki/ネーザン・イースト "wikilink")、[佐橋佳幸](../Page/佐橋佳幸.md "wikilink")など多彩な顔ぶれである。[佐藤竹善](../Page/佐藤竹善.md "wikilink")がコーラスで参加している。
 
 ## 収録曲
 

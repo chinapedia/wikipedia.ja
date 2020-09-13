@@ -1,9 +1,9 @@
 > この記事は[Windows Messenger](https://ja.wikipedia.org/wiki/Windows_Messenger)から翻訳されています。
 
 
-**Windows Messenger** は[インスタントメッセンジャー](../Page/インスタントメッセンジャー.md "wikilink")のひとつで、[Windows XP](../Page/Microsoft_Windows_XP.md "wikilink") に含まれた。
+**Windows Messenger**（ウィンドウズ メッセンジャー） は、[Windows XPに含まれた](../Page/Microsoft_Windows_XP.md "wikilink")[インスタントメッセンジャー](../Page/インスタントメッセンジャー.md "wikilink")のひとつ。
 
-現在は消費者向けに [Windows Live Messengerが提供されており](https://ja.wikipedia.org/wiki/Windows_Live_Messenger "wikilink")、企業向けの [Office Communications Server](https://ja.wikipedia.org/wiki/Microsoft_Office_Communications_Server "wikilink") のクライアントとしては、[Office Communicator](https://ja.wikipedia.org/wiki/Microsoft_Office_Communicator "wikilink") が提供されている。
+後継として消費者向けに [Windows Live Messengerが提供されており](https://ja.wikipedia.org/wiki/Windows_Live_Messenger "wikilink")、企業向けの [Office Communications Server](https://ja.wikipedia.org/wiki/Microsoft_Office_Communications_Server "wikilink") のクライアントとしては、[Office Communicator](https://ja.wikipedia.org/wiki/Microsoft_Office_Communicator "wikilink") が提供されている。
 
 ## 特徴
 

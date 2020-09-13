@@ -188,7 +188,7 @@
   -
   -
   -
-[Category:日本の冒険小説](https://ja.wikipedia.org/wiki/Category:日本の冒険小説 "wikilink") [Category:日本のSF小説](https://ja.wikipedia.org/wiki/Category:日本のSF小説 "wikilink") [Category:1987年の小説](https://ja.wikipedia.org/wiki/Category:1987年の小説 "wikilink") [Category:小説_野性時代](https://ja.wikipedia.org/wiki/Category:小説_野性時代 "wikilink") [Category:直木三十五賞](https://ja.wikipedia.org/wiki/Category:直木三十五賞 "wikilink") [Category:海洋冒険小説](https://ja.wikipedia.org/wiki/Category:海洋冒険小説 "wikilink") [Category:古生物を題材とした作品](https://ja.wikipedia.org/wiki/Category:古生物を題材とした作品 "wikilink") [Category:オセアニアを舞台とした作品](https://ja.wikipedia.org/wiki/Category:オセアニアを舞台とした作品 "wikilink")
+[Category:日本の冒険小説](https://ja.wikipedia.org/wiki/Category:日本の冒険小説 "wikilink") [Category:日本のSF小説](https://ja.wikipedia.org/wiki/Category:日本のSF小説 "wikilink") [Category:1987年の小説](https://ja.wikipedia.org/wiki/Category:1987年の小説 "wikilink") [Category:小説_野性時代](https://ja.wikipedia.org/wiki/Category:小説_野性時代 "wikilink") [Category:直木三十五賞](https://ja.wikipedia.org/wiki/Category:直木三十五賞 "wikilink") [Category:海洋冒険小説](https://ja.wikipedia.org/wiki/Category:海洋冒険小説 "wikilink") [Category:古生物を題材とした作品](https://ja.wikipedia.org/wiki/Category:古生物を題材とした作品 "wikilink") [Category:オセアニアを舞台とした小説](https://ja.wikipedia.org/wiki/Category:オセアニアを舞台とした小説 "wikilink")
 
 1.  上製本『遠い海から来たCOO』装丁カバーの折り返し案内文より
 2.  「[キネマ旬報](../Page/キネマ旬報.md "wikilink")」1994年1月下旬

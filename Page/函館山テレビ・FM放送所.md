@@ -145,7 +145,7 @@
   - [地上デジタルテレビジョン放送局の無線局免許申請書を受理](https://warp.da.ndl.go.jp/info:ndljp/pid/283520/www.hokkaido-bt.go.jp/2006/1215.htm) - 総務省北海道総合通信局（平成18年度報道資料）
   - [地上デジタルテレビ放送の試験電波発射のお知らせ](https://warp.da.ndl.go.jp/info:ndljp/pid/283520/www.hokkaido-bt.go.jp/2007/0724a.htm) - 総務省北海道総合通信局（平成19年度報道資料）
   - [地上デジタルテレビジョン放送局（中継局）に免許](https://warp.da.ndl.go.jp/info:ndljp/pid/283520/www.hokkaido-bt.go.jp/2007/0926.htm#BETSU1) - 総務省北海道総合通信局（平成19年度報道資料）
-  - [北海道内の最新デジタル中継局最新開局情報](http://www.soumu.go.jp/soutsu/hokkaido/chideji/index.htm) - 総務省北海道総合通信局
+  - [北海道内の最新デジタル中継局最新開局情報](https://www.soumu.go.jp/soutsu/hokkaido/chideji/index.htm) - 総務省北海道総合通信局
 
 ### 地上アナログテレビジョン放送
 

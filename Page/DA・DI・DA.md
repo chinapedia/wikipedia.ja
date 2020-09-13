@@ -50,7 +50,7 @@
   - ベース：[高水健司](https://ja.wikipedia.org/wiki/高水健司 "wikilink")
   - ドラム：[林立夫](../Page/林立夫.md "wikilink")、[Mike Baird](https://ja.wikipedia.org/wiki/マイク・ベアード "wikilink")
   - ギター：[松原正樹](../Page/松原正樹.md "wikilink")
-  - キーボード: [松任谷正隆](../Page/松任谷正隆.md "wikilink")
+  - キーボード：[松任谷正隆](../Page/松任谷正隆.md "wikilink")
   - パーカッション：[斎藤ノブ](https://ja.wikipedia.org/wiki/斎藤ノブ "wikilink")、[浜口茂外也](https://ja.wikipedia.org/wiki/浜口茂外也 "wikilink")
   - サックス：[Jake H. Conception](https://ja.wikipedia.org/wiki/ジェイク・コンセプション "wikilink")、[Ernest J. Watts](https://ja.wikipedia.org/wiki/:en:Ernie_Watts "wikilink")
   - シンセサイザープログラミング：浦田恵司、Chuck Wild

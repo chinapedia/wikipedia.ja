@@ -1,30 +1,6 @@
 > この記事は[Yak-40 \(航空機\)](https://ja.wikipedia.org/wiki/Yak-40_\(航空機\))から翻訳されています。
 
 
-|                                                                   Yak-40                                                                    |
-| :-----------------------------------------------------------------------------------------------------------------------------------------: |
-| [Tulpar_Air_Yakovlev_Yak-40.jpg](https://ja.wikipedia.org/wiki/File:Tulpar_Air_Yakovlev_Yak-40.jpg "fig:Tulpar_Air_Yakovlev_Yak-40.jpg") |
-|                                                                    要目一覧                                                                     |
-|                                                                    運航乗員                                                                     |
-|                                                                     乗客                                                                      |
-|                                                                    初飛行日                                                                     |
-|                                                                    初就航日                                                                     |
-|                                                                     全長                                                                      |
-|                                                                     全幅                                                                      |
-|                                                                     高さ                                                                      |
-|                                                                     翼面積                                                                     |
-|                                                                    エンジン                                                                     |
-|                                                                     推進力                                                                     |
-|                                                   [最大離陸重量](../Page/最大離陸重量.md "wikilink")                                                    |
-|                                                                    機体重量                                                                     |
-|                                                                    巡航速度                                                                     |
-|                                                                    航続距離                                                                     |
-|                                                                    離陸距離                                                                     |
-|                                                                    着陸距離                                                                     |
-|                                                                  最大上昇限界高度                                                                   |
-|                                                                    生産機数                                                                     |
-|                                                                                                                                             |
-
 **Yak-40**（[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>ヤーク・ソーラク</small>）は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ヤコヴレフ設計局が](https://ja.wikipedia.org/wiki/A・S・ヤコヴレフ記念試作設計局 "wikilink")、[Il-18などが就航していた路線の](../Page/Il-18_\(航空機\).md "wikilink")[ジェット化を目指して開発](../Page/ジェット機.md "wikilink")・製造した短距離用3発ジェット[旅客機](../Page/旅客機.md "wikilink")である。
 
 ## 概要

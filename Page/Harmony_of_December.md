@@ -70,6 +70,6 @@
 
   - [Harmony of December](https://www.jehp.jp/kinki_discography/article/927)
 
-[Category:KinKi_Kidsの楽曲](https://ja.wikipedia.org/wiki/Category:KinKi_Kidsの楽曲 "wikilink") [Category:マシコタツロウが制作した楽曲](https://ja.wikipedia.org/wiki/Category:マシコタツロウが制作した楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:2006年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2006年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:ポップ・バラード](https://ja.wikipedia.org/wiki/Category:ポップ・バラード "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")
+[Category:KinKi_Kidsの楽曲](https://ja.wikipedia.org/wiki/Category:KinKi_Kidsの楽曲 "wikilink") [Category:マシコタツロウが制作した楽曲](https://ja.wikipedia.org/wiki/Category:マシコタツロウが制作した楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:2006年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2006年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:ポップ・バラード](https://ja.wikipedia.org/wiki/Category:ポップ・バラード "wikilink") [Category:冬を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:冬を題材とした楽曲 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")
 
 1.  [KinKi Kids、ギネス更新\!連続首位数は歴代3位に\!](http://www.oricon.co.jp/news/39828/full/) オリコン 2015年12月25日閲覧

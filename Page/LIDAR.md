@@ -5,7 +5,7 @@
 
 この技法は[レーダー](../Page/レーダー.md "wikilink")に類似しており、レーダーの電波を光に置き換えたものである。対象までの距離は、発光後反射光を受光するまでの時間の差で求まる。そのため、レーザーレーダー (Laser radar) の語が用いられることもある。
 
-ライダーは[地質学](../Page/地質学.md "wikilink")、[地質工学](https://ja.wikipedia.org/wiki/地質工学 "wikilink")、[地震学](../Page/地震学.md "wikilink")、[リモートセンシング](../Page/リモートセンシング.md "wikilink")、 [大気物理学](../Page/大気物理学.md "wikilink")で用いられる。近年は[自動運転車用センサーとしても注目されている](../Page/オートパイロット.md "wikilink")。\[1\]
+ライダーは[地質学](../Page/地質学.md "wikilink")、[地質工学](https://ja.wikipedia.org/wiki/地質工学 "wikilink")、[地震学](../Page/地震学.md "wikilink")、[リモートセンシング](../Page/リモートセンシング.md "wikilink")、 [大気物理学](../Page/大気物理学.md "wikilink")で用いられる。近年は、[タブレット](https://ja.wikipedia.org/wiki/タブレット "wikilink")端末や[自動運転車用センサー](../Page/オートパイロット.md "wikilink")\[1\]。としても注目されている。\[2\]
 
 ## 概説
 
@@ -56,7 +56,7 @@
 
 立体イメージングが可能である。[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で軍事応用が研究されており、数キロメートル先の対象の立体像を  以下の誤差で描出することができる。
 
-イギリスにある[欧州トーラス共同研究施設](https://ja.wikipedia.org/wiki/欧州トーラス共同研究施設 "wikilink") (JET) では、ライダーを用いた[トムソン散乱](https://ja.wikipedia.org/wiki/トムソン散乱 "wikilink")の測定を行い、[プラズマ](https://ja.wikipedia.org/wiki/プラズマ "wikilink")中の電子密度、温度プロフィールを求めている\[2\]。
+イギリスにある[欧州トーラス共同研究施設](https://ja.wikipedia.org/wiki/欧州トーラス共同研究施設 "wikilink") (JET) では、ライダーを用いた[トムソン散乱](https://ja.wikipedia.org/wiki/トムソン散乱 "wikilink")の測定を行い、[プラズマ](https://ja.wikipedia.org/wiki/プラズマ "wikilink")中の電子密度、温度プロフィールを求めている\[3\]。
 
 ## 関連項目
 
@@ -101,3 +101,4 @@
 
 1.
 2.
+3.

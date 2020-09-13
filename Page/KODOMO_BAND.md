@@ -597,6 +597,10 @@
 
 ## 脚注
 
+## 関連項目
+
+  - [1980年の音楽\#デビュー](https://ja.wikipedia.org/wiki/1980年の音楽#デビュー "wikilink") - 同じ年にデビューした歌手
+
 ## 外部リンク
 
   - [公式サイト](http://kodomoband.jp/)

@@ -76,7 +76,7 @@
   - 一部のキャラクターと声優の交代。
   - ドラムスティックの出現方法の変更。
   - 自作コースをT.Tと走行可能。
-  - エンディングデモの変更。バンジョーとコンカーが登場しない。最後に皆がディディーを見送り、「THE END「」の看板が表示される。など変更点がある。
+  - エンディングデモの変更。バンジョーとコンカーが登場しない、最後に皆がディディーを見送り「THE END」の看板が表示される、といった変更点がある。
 
 ## 関連項目
 
@@ -86,4 +86,4 @@
 
 [en:Diddy Kong Racing\#Diddy Kong Racing DS](https://ja.wikipedia.org/wiki/en:Diddy_Kong_Racing#Diddy_Kong_Racing_DS "wikilink") [it:Diddy Kong Racing\#Diddy Kong Racing DS](https://ja.wikipedia.org/wiki/it:Diddy_Kong_Racing#Diddy_Kong_Racing_DS "wikilink")
 
-[Category:ドンキーコングシリーズ](https://ja.wikipedia.org/wiki/Category:ドンキーコングシリーズ "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:レースゲーム](https://ja.wikipedia.org/wiki/Category:レースゲーム "wikilink") [Category:レアのゲームソフト](https://ja.wikipedia.org/wiki/Category:レアのゲームソフト "wikilink") [Category:イギリスで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:イギリスで開発されたコンピュータゲーム "wikilink") [Category:ゲームのスピンオフ作品](https://ja.wikipedia.org/wiki/Category:ゲームのスピンオフ作品 "wikilink") [Category:発売中止となったコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:発売中止となったコンピュータゲーム "wikilink")
+[Category:ドンキーコングシリーズのコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ドンキーコングシリーズのコンピュータゲーム "wikilink") [Category:2007年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2007年のコンピュータゲーム "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:レースゲーム](https://ja.wikipedia.org/wiki/Category:レースゲーム "wikilink") [Category:レアのゲームソフト](https://ja.wikipedia.org/wiki/Category:レアのゲームソフト "wikilink") [Category:イギリスで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:イギリスで開発されたコンピュータゲーム "wikilink") [Category:ゲームのスピンオフ作品](https://ja.wikipedia.org/wiki/Category:ゲームのスピンオフ作品 "wikilink") [Category:発売中止となったコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:発売中止となったコンピュータゲーム "wikilink")

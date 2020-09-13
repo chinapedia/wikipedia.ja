@@ -37,4 +37,4 @@
 
 当時[ANNにも加盟していた](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[山形放送](../Page/山形放送.md "wikilink")（[日本テレビ系列](../Page/日本テレビネットワーク協議会.md "wikilink")）では毎週月曜 22:00 - 22:54 に放送されていた（6日遅れ）。
 
-[Category:1984年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1984年のテレビ番組_\(日本\) "wikilink") [Category:テレビ朝日のクイズ番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日のクイズ番組 "wikilink") [Category:テレビ朝日のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ朝日のバラエティ番組の歴史 "wikilink") [Category:横山やすし・西川きよし](https://ja.wikipedia.org/wiki/Category:横山やすし・西川きよし "wikilink")
+[Category:1984年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1984年のテレビ番組_\(日本\) "wikilink") [Category:テレビ朝日のクイズ番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日のクイズ番組 "wikilink") [Category:テレビ朝日のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ朝日のバラエティ番組の歴史 "wikilink") [Category:西川きよし](https://ja.wikipedia.org/wiki/Category:西川きよし "wikilink")

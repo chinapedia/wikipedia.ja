@@ -63,7 +63,7 @@
 
 ## 外部リンク
 
-  - \[<http://web.archive.org/web/20020212063029/http://www.j-wave.co.jp/original/azbeat/contents.htm>　Web Archiveに保存されている、2002年2月12日時点での番組公式ページ\]
-  - \[<http://web.archive.org/web/19980627154718/http://www.j-wave.co.jp/program/index.htm>　Web Archiveに保存されている、1998年6月27日時点でのJ-WAVE公式サイトにおける番組表（AZ-WAVEの放送時間が確認できる）。\]
+  - \[<https://web.archive.org/web/20020212063029/http://www.j-wave.co.jp/original/azbeat/contents.htm>　Web Archiveに保存されている、2002年2月12日時点での番組公式ページ\]
+  - \[<https://web.archive.org/web/19980627154718/http://www.j-wave.co.jp/program/index.htm>　Web Archiveに保存されている、1998年6月27日時点でのJ-WAVE公式サイトにおける番組表（AZ-WAVEの放送時間が確認できる）。\]
 
 [Category:J-WAVEの番組の歴史](https://ja.wikipedia.org/wiki/Category:J-WAVEの番組の歴史 "wikilink") [Category:1999年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のラジオ番組_\(日本\) "wikilink")

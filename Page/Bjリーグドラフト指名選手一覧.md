@@ -1,9 +1,9 @@
 > この記事は[Bjリーグドラフト指名選手一覧](https://ja.wikipedia.org/wiki/Bjリーグドラフト指名選手一覧)から翻訳されています。
 
 
-**bjリーグドラフト指名選手一覧**（ビージェイリーグドラフトしめいせんしゅいちらん）は、[bjリーグで](https://ja.wikipedia.org/wiki/日本プロバスケットボールリーグ "wikilink")[ドラフト指名された選手の](../Page/Bjリーグドラフト会議.md "wikilink")[一覧](https://ja.wikipedia.org/wiki/一覧 "wikilink")。
+**bjリーグドラフト指名選手一覧**（ビージェイリーグドラフトしめいせんしゅいちらん）は、[bjリーグの](https://ja.wikipedia.org/wiki/日本プロバスケットボールリーグ "wikilink")[ドラフト会議で指名された選手の](../Page/Bjリーグドラフト会議.md "wikilink")[一覧](https://ja.wikipedia.org/wiki/一覧 "wikilink")。
 
-## 2005〜2008
+## 2005年 - 2008年
 
 |     | 2005              | 2006                                                                 | 2007              | 2008                                                                          |
 | --- | ----------------- | -------------------------------------------------------------------- | ----------------- | ----------------------------------------------------------------------------- |
@@ -34,7 +34,7 @@
 | 25位 | <small>大分</small> | <small>[三友康平](../Page/三友康平.md "wikilink")</small>                    | <small></small>   | <small></small>                                                               |
 | 26位 | <small>大分</small> | <small>[水町亮介](../Page/水町亮介.md "wikilink")</small>                    | <small></small>   | <small></small>                                                               |
 
-## 2009〜2011
+## 2009年 - 2011年
 
 <table style="width:10%;">
 <colgroup>
@@ -194,7 +194,7 @@
 </tbody>
 </table>
 
-## 2012〜
+## 2012年 - 2015年
 
 <table style="width:17%;">
 <colgroup>

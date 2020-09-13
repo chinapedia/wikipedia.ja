@@ -49,6 +49,7 @@
       - [ダイナハイブリッド](../Page/トヨタ・ダイナ.md "wikilink")
       - [トヨエースハイブリッド](../Page/トヨタ・トヨエース.md "wikilink")
       - [QD200ハイブリッド](../Page/トヨタ・クイックデリバリー.md "wikilink")
+      - ヤリス
   - [レクサス](../Page/レクサス.md "wikilink")ブランド車
       - [LS600h / LS600hL](../Page/レクサス・LS.md "wikilink")
       - [GS450h](../Page/レクサス・GS.md "wikilink")

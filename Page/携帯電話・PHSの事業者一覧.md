@@ -14,7 +14,7 @@
   - [ソフトバンクグループ](../Page/ソフトバンクグループ.md "wikilink")
       - [ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")（[SoftBank](../Page/SoftBank_\(携帯電話\).md "wikilink")、[Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")）
       - [ウィルコム沖縄](../Page/ウィルコム沖縄.md "wikilink")（Y\!mobile）
-  - [楽天モバイル](https://ja.wikipedia.org/wiki/楽天モバイル_\(企業\) "wikilink")（[楽天モバイル](../Page/楽天モバイル_\(MNO\).md "wikilink")）
+  - [楽天モバイル](https://ja.wikipedia.org/wiki/楽天モバイル_\(企業\) "wikilink")（[楽天モバイル](../Page/楽天モバイル.md "wikilink")）
 
 ### アメリカ
 
@@ -219,42 +219,5 @@
 
   - [vodacom](https://ja.wikipedia.org/wiki/vodacom "wikilink") - vodafoneグループ
   - [MTN](https://ja.wikipedia.org/wiki/MTN "wikilink")
-
-## PHSの事業者一覧
-
-### 日本
-
-  - [ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")、[ウィルコム沖縄](../Page/ウィルコム沖縄.md "wikilink")([Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink"))
-
-### 中国
-
-  - 中国電信（China Telecom）
-  - 中国聯通（China Unicom）
-
-### タイ
-
-  - Asia Wireless Communication
-
-### ベトナム
-
-  - Vietnam Post & Telecommunications（VNPT） Cityphone（iPas）
-
-### チリ
-
-  - Telefónica del Sur
-
-## 大陸別
-
-  -
-  -
-  -
-  -
-  -
-## ビジネス上の地域区分別
-
-  - [中東及びアフリカ](https://ja.wikipedia.org/wiki/:en:List_of_mobile_network_operators_of_the_Middle_East_and_Africa "wikilink")（中東・阿州）（*Middle East and Africa*）
-  - [アジア太平洋地域](https://ja.wikipedia.org/wiki/:en:List_of_mobile_network_operators_of_the_Asia_Pacific_region "wikilink")（*Asia-Pacific*）
-  - [アメリカ州](https://ja.wikipedia.org/wiki/:en:List_of_mobile_network_operators_of_the_Americas "wikilink")（米州）（*Americas*）
-  - [ヨーロッパ](https://ja.wikipedia.org/wiki/:en:List_of_mobile_network_operators_of_Europe "wikilink")（欧州）（*Europe*）
 
 [Category:携帯電話事業者](https://ja.wikipedia.org/wiki/Category:携帯電話事業者 "wikilink") [Category:携帯電話](https://ja.wikipedia.org/wiki/Category:携帯電話 "wikilink") [Category:携帯電話_(PHS)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(PHS\) "wikilink") [Category:電気通信事業者](https://ja.wikipedia.org/wiki/Category:電気通信事業者 "wikilink") [Category:企業一覧](https://ja.wikipedia.org/wiki/Category:企業一覧 "wikilink")

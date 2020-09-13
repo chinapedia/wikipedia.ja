@@ -74,7 +74,7 @@
 ### 掲載作家
 
 1.  2007年4月11日発売
-      - イラスト：[あずまゆき](../Page/あずまゆき.md "wikilink")、[しんたろー](https://ja.wikipedia.org/wiki/しんたろー "wikilink")、[ミヤスリサ](../Page/ミヤスリサ.md "wikilink")、[YUKIRIN](https://ja.wikipedia.org/wiki/YUKIRIN "wikilink")
+      - イラスト：[あずまゆき](../Page/あずまゆき.md "wikilink")、[しんたろー](https://ja.wikipedia.org/wiki/しんたろー "wikilink")、[ミヤスリサ](../Page/ミヤスリサ.md "wikilink")、[YUKIRIN](../Page/YUKIRIN.md "wikilink")
       - 漫画：みさくらなんこつ、[水城たくや](https://ja.wikipedia.org/wiki/水城たくや "wikilink")、[BENNY'S](../Page/BENNY'S.md "wikilink")、[鷹勢優](https://ja.wikipedia.org/wiki/鷹勢優 "wikilink")、[井ノ本リカ子](../Page/井ノ本リカ子.md "wikilink")、[KEN+](https://ja.wikipedia.org/wiki/KEN+ "wikilink"), [あやせまい](https://ja.wikipedia.org/wiki/あやせまい "wikilink")、[ひなたもも](https://ja.wikipedia.org/wiki/ひなたもも "wikilink")、[小巻恋](https://ja.wikipedia.org/wiki/小巻恋 "wikilink")、[シロガネヒナ](https://ja.wikipedia.org/wiki/シロガネヒナ "wikilink")、[凪妖女](https://ja.wikipedia.org/wiki/凪妖女 "wikilink")、[神楽武志](https://ja.wikipedia.org/wiki/神楽武志 "wikilink")、[あいざわひろし](https://ja.wikipedia.org/wiki/あいざわひろし "wikilink")、[つつみあかり](https://ja.wikipedia.org/wiki/つつみあかり "wikilink")、[丸ちゃん。](https://ja.wikipedia.org/wiki/丸ちゃん。 "wikilink")、[神保玉蘭](https://ja.wikipedia.org/wiki/神保玉蘭 "wikilink")
 2.  2007年6月11日発売
       - イラスト：あずまゆき、[神無月ねむ](https://ja.wikipedia.org/wiki/神無月ねむ "wikilink")、[てぃんくる](https://ja.wikipedia.org/wiki/てぃんくる_\(漫画家\) "wikilink")、[ゆきうさぎ](https://ja.wikipedia.org/wiki/ゆきうさぎ_\(イラストレーター\) "wikilink")

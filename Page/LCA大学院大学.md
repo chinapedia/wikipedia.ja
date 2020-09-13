@@ -65,4 +65,4 @@
 
   - [株式会社日本エル・シー・エー](http://www.lca-j.co.jp/)
 
-[Category:日本の私立大学_(廃止)](https://ja.wikipedia.org/wiki/Category:日本の私立大学_\(廃止\) "wikilink") [Category:日本の大学院大学](https://ja.wikipedia.org/wiki/Category:日本の大学院大学 "wikilink") [Category:日本の株式会社立大学](https://ja.wikipedia.org/wiki/Category:日本の株式会社立大学 "wikilink") [Category:現存しない大阪府の大学](https://ja.wikipedia.org/wiki/Category:現存しない大阪府の大学 "wikilink") [Category:学校記事](https://ja.wikipedia.org/wiki/Category:学校記事 "wikilink")
+[Category:日本の私立大学_(廃止)](https://ja.wikipedia.org/wiki/Category:日本の私立大学_\(廃止\) "wikilink") [Category:日本の大学院大学](https://ja.wikipedia.org/wiki/Category:日本の大学院大学 "wikilink") [Category:日本の株式会社立大学](https://ja.wikipedia.org/wiki/Category:日本の株式会社立大学 "wikilink") [Category:大阪府の大学_(廃止)](https://ja.wikipedia.org/wiki/Category:大阪府の大学_\(廃止\) "wikilink") [Category:学校記事](https://ja.wikipedia.org/wiki/Category:学校記事 "wikilink")

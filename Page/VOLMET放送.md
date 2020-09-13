@@ -81,13 +81,13 @@ All stations this is TOKYO mets report 1200. NARITA\[2\], NARITA, 120 degrees 4 
 
   - [昭和34年気象庁告示第3号 東京ボルメット無線電話通報規則](http://www.mext.go.jp/b_menu/hakusho/nc/k19590427001/k19590427001.html)
 
-  - [昭和39年郵政省告示第677号 無線局運用規則140条の規定による気象通報を送信する無線局の運用](http://www.tele.soumu.go.jp/horei/reiki_honbun/a724300001.html)第1項第2号 総務省電波関係法令集（総務省電波利用ホームページ）
+  - [昭和39年郵政省告示第677号 無線局運用規則140条の規定による気象通報を送信する無線局の運用](https://www.tele.soumu.go.jp/horei/reiki_honbun/a724300001.html)第1項第2号 総務省電波関係法令集（総務省電波利用ホームページ）
 
   - [HF Volmet Broadcasts（英語版）](http://www.dxinfocentre.com/volmet-wx.htm)
 
   - utilityradio.com
 
-[Category:航空機の運航](https://ja.wikipedia.org/wiki/Category:航空機の運航 "wikilink") [Category:アビオニクス](https://ja.wikipedia.org/wiki/Category:アビオニクス "wikilink") [Category:気象事業](https://ja.wikipedia.org/wiki/Category:気象事業 "wikilink") [Category:気象情報ネットワーク](https://ja.wikipedia.org/wiki/Category:気象情報ネットワーク "wikilink")
+[Category:無線局](https://ja.wikipedia.org/wiki/Category:無線局 "wikilink") [Category:航空機の運航](https://ja.wikipedia.org/wiki/Category:航空機の運航 "wikilink") [Category:アビオニクス](https://ja.wikipedia.org/wiki/Category:アビオニクス "wikilink") [Category:気象事業](https://ja.wikipedia.org/wiki/Category:気象事業 "wikilink") [Category:気象情報ネットワーク](https://ja.wikipedia.org/wiki/Category:気象情報ネットワーク "wikilink")
 
 1.  「「同報通信方式」とは、特定の二以上の受信設備に対し、同時に同一内容の通報の送信のみを行なう通信方式をいう。」（電波法施行規則第2条第1項第20号）
 2.  2004年5月までは「NARITA」を「NEW TOKYO」と呼んでいた。[成田国際空港株式会社発足に伴って空港名が改称されたことにより](../Page/成田国際空港_\(企業\).md "wikilink")、変更された。

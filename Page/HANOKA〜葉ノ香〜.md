@@ -180,6 +180,6 @@ DVDは前編が2008年９月、後編が同年10月にリリースされた。DV
 
 ## 外部リンク
 
-  - [HANOKA〜葉ノ香〜公式サイト](http://web.archive.org/web/20070101151132/http://www.rams.jp/hanoka/) - 閉鎖。（2007年1月1日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [HANOKA〜葉ノ香〜公式サイト](https://web.archive.org/web/20070101151132/http://www.rams.jp/hanoka/) - 閉鎖。（2007年1月1日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
 [Category:アニメ作品_は](https://ja.wikipedia.org/wiki/Category:アニメ作品_は "wikilink") [Category:2006年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2006年のテレビアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:キッズステーションのアニメ](https://ja.wikipedia.org/wiki/Category:キッズステーションのアニメ "wikilink") [Category:UHFアニメ](https://ja.wikipedia.org/wiki/Category:UHFアニメ "wikilink") [Category:FLASHアニメーション](https://ja.wikipedia.org/wiki/Category:FLASHアニメーション "wikilink")

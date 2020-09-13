@@ -7,7 +7,7 @@
 
 ## 概要
 
-前年の『[三姉妹](https://ja.wikipedia.org/wiki/三姉妹 "wikilink")』に続く幕末ものであり、『[独眼竜政宗](../Page/独眼竜政宗_\(NHK大河ドラマ\).md "wikilink")』『[武田信玄](../Page/武田信玄_\(NHK大河ドラマ\).md "wikilink")』以前では、同じ時代の作品が2年続いた唯一の例であった（ただし、『独眼竜政宗』『武田信玄』は広義の戦国時代を舞台としてはいるが、前者は安土桃山時代、後者は狭義の戦国時代を舞台としており、正確には同じ時代の作品ではない）。また、前年の大河ドラマの登場人物が主人公になった例としては、現在も唯一である。大河ドラマとしては、最後の[モノクロ](https://ja.wikipedia.org/wiki/モノクロ "wikilink")作品である。大河ドラマで初めて、短期ながら当地（[高知](../Page/高知県.md "wikilink")）ロケが行われた作品でもある（1968年3月）。
+前年の『[三姉妹](../Page/三姉妹.md "wikilink")』に続く幕末ものであり、『[独眼竜政宗](../Page/独眼竜政宗_\(NHK大河ドラマ\).md "wikilink")』『[武田信玄](../Page/武田信玄_\(NHK大河ドラマ\).md "wikilink")』以前では、同じ時代の作品が2年続いた唯一の例であった（ただし、『独眼竜政宗』『武田信玄』は広義の戦国時代を舞台としてはいるが、前者は安土桃山時代、後者は狭義の戦国時代を舞台としており、正確には同じ時代の作品ではない）。また、前年の大河ドラマの登場人物が主人公になった例としては、現在も唯一である。大河ドラマとしては、最後の[モノクロ](https://ja.wikipedia.org/wiki/モノクロ "wikilink")作品である。大河ドラマで初めて、短期ながら当地（[高知](../Page/高知県.md "wikilink")）ロケが行われた作品でもある（1968年3月）。
 
 このときの模様は『NHKグラフ』に掲載された北大路欣也の日記によると、次のとおりである。
 
@@ -21,7 +21,7 @@
 
 [武市半平太役の](../Page/武市瑞山.md "wikilink")[高橋英樹は](../Page/高橋英樹_\(俳優\).md "wikilink")、この作品で初めて本格的な時代劇を経験、[日活](../Page/日活.md "wikilink")出身の高橋は当時、[石原裕次郎](https://ja.wikipedia.org/wiki/石原裕次郎 "wikilink")などの同社所属スターが長脚揃いであったのにくらべて、「高橋君、きみは違うねえ」といわれたため時代劇に転向したという（本人談）。
 
-オープニング映像は上空の雲海を撮影したもので、主題曲は[間宮芳生](../Page/間宮芳生.md "wikilink")のマーチ調のものである。ただ、現在CDなどで聴くことができるテーマ曲と実際に放送されたものとでは、編曲が異なる。また、オープニングの人物クレジットは[ゴシック体](../Page/ゴシック体.md "wikilink")のみで表記されている(他の作品では手書きの文字か[教科書体](https://ja.wikipedia.org/wiki/教科書体 "wikilink")・[明朝体](../Page/明朝体.md "wikilink")などそれに近い字体が使われている)。
+オープニング映像は上空の雲海を撮影したもので、主題曲は[間宮芳生](../Page/間宮芳生.md "wikilink")のマーチ調のものである。ただ、現在CDなどで聴くことができるテーマ曲と実際に放送されたものとでは、編曲が異なる。また、オープニングの人物クレジットは[ゴシック体](../Page/ゴシック体.md "wikilink")のみで表記されている（他の作品では手書きの文字か[教科書体](https://ja.wikipedia.org/wiki/教科書体 "wikilink")・[明朝体](../Page/明朝体.md "wikilink")などそれに近い字体が使われている）。
 
 初回視聴率22.9%、最高視聴率22.9%、平均視聴率14.5%（関東地区、[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")調べ）\[1\]と、視聴率は低迷し、『[花の乱](../Page/花の乱.md "wikilink")』が最低記録を更新するまでの大河ドラマでは歴代最低であった（現在は『[平清盛](https://ja.wikipedia.org/wiki/平清盛_\(NHK大河ドラマ\) "wikilink")』ならびに『[花燃ゆ](https://ja.wikipedia.org/wiki/花燃ゆ "wikilink")』、『[おんな城主 直虎](https://ja.wikipedia.org/wiki/おんな城主_直虎 "wikilink")』、『花の乱』に続き4番目の低さ）。また、本作では前作に引き続き放送回に副題がない。
 
@@ -104,7 +104,7 @@
   - [パークス](../Page/ハリー・パークス.md "wikilink")：[ジョン・フォース](https://ja.wikipedia.org/wiki/ジョン・フォース "wikilink")
   - [真木和泉](../Page/真木保臣.md "wikilink")：[大久保正信](../Page/大久保正信.md "wikilink")
   - [北添佶摩](../Page/北添佶摩.md "wikilink")：[松山照夫](../Page/松山照夫.md "wikilink")
-  - [福原越後](../Page/福原元たけ.md "wikilink")：[高橋正夫](https://ja.wikipedia.org/wiki/高橋正夫 "wikilink")
+  - [福原越後](https://ja.wikipedia.org/wiki/福原元僴 "wikilink")：[高橋正夫](https://ja.wikipedia.org/wiki/高橋正夫 "wikilink")
   - [望月亀弥太](https://ja.wikipedia.org/wiki/望月亀弥太 "wikilink")：[串田和美](../Page/串田和美.md "wikilink")
   - [富](https://ja.wikipedia.org/wiki/武市富子 "wikilink")：[坪内ミキ子](../Page/坪内ミキ子.md "wikilink")
   - [寺島忠三郎](https://ja.wikipedia.org/wiki/寺島忠三郎 "wikilink")：[金親保雄](https://ja.wikipedia.org/wiki/金親保雄 "wikilink")
@@ -199,7 +199,7 @@
 
 ## 放送
 
-特記が無い限り\[<http://www.nhk.or.jp/archives/chronicle/>　NHKクロニクルのNHK番組表ヒストリー\]で確認。
+特記が無い限り\[<https://www.nhk.or.jp/archives/chronicle/>　NHKクロニクルのNHK番組表ヒストリー\]で確認。
 
 ### 通常放送時間
 

@@ -1,7 +1,7 @@
 > この記事は[モーゼルHSc](https://ja.wikipedia.org/wiki/モーゼルHSc)から翻訳されています。
 
 
-'''モーゼルHSc (Mauser HSc) '''は、[1937年](../Page/1937年.md "wikilink")に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[モーゼル](../Page/モーゼル.md "wikilink")社で開発された、ダブルアクション式のセミオートマチック[拳銃](../Page/拳銃.md "wikilink")の事。
+'''モーゼルHSc (Mauser HSc) '''は、[1937年](../Page/1937年.md "wikilink")に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[モーゼル](../Page/モーゼル.md "wikilink")社で開発された、ダブルアクション式のセミオートマチック[拳銃](../Page/拳銃.md "wikilink")である。
 
 ## 概要
 

@@ -133,8 +133,10 @@ USブラック・ディスク・ガイドでは、佐々木士郎とともにラ
       - okay\! / daoko & Mummy-D（※初回限定盤のDVDのみ）
   - [餓鬼レンジャー](https://ja.wikipedia.org/wiki/餓鬼レンジャー "wikilink")『ティンカーベル 〜ネバーランドの妖精たち〜』（2019年4月3日）
       - キューバ・リブレ feat. Mummy-D, [RYO-Z](../Page/RYO-Z.md "wikilink"), [LIBRO](../Page/LIBRO.md "wikilink") ＆ DABO
-  - スガシカオ『労働なんかしないで 光合成だけで生きたい』（2019年4月17日）
-      - ドキュメント2019 feat.Mummy-D
+  - スガシカオ『[労働なんかしないで 光合成だけで生きたい](https://ja.wikipedia.org/wiki/労働なんかしないで_光合成だけで生きたい "wikilink")』（2019年4月17日）
+      - ドキュメント2019 feat. Mummy-D
+  - SuzKen & the Kungo Bongos『Runaway feat. Mummy-D / Across The Universe』（2020年10月21日）
+      - Runaway feat. Mummy-D
 
 ## プロデュース作品
 
@@ -206,6 +208,8 @@ Mr.Drunk名義での作品を含む
       - 8.Young,Gifted and Yellow
   - [入野自由](../Page/入野自由.md "wikilink")『DARE TO DREAM』（2016年11月30日）
       - 8.トップランナー
+  - 『くわなにさくはな』
+      - [三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[桑名市](../Page/桑名市.md "wikilink")の広報動画\[3\]\[4\]\[5\]\[6\]。
 
 ## メディア出演
 
@@ -229,7 +233,7 @@ Mr.Drunk名義での作品を含む
 ### CM
 
   - マガシーク「うっかり篇」（2012年）
-  - 「トビタテ\!留学JAPAN」キャンペーン・広報Webムービー「Dear Father」（2016年）\[3\]
+  - 「トビタテ\!留学JAPAN」キャンペーン・広報Webムービー「Dear Father」（2016年）\[7\]
 
 ### 映画
 
@@ -239,7 +243,7 @@ Mr.Drunk名義での作品を含む
 
   - [KREVA](../Page/KREVA.md "wikilink")の新しい音楽劇「最高はひとつじゃない」（2011年11月30日・12月1日、[シアタークリエ](../Page/シアタークリエ.md "wikilink")） - 白紳士 役（友情出演）
       - KREVAの新しい音楽劇「最高はひとつじゃない 2014」（2014年1月28日 - 2月2日、シアタークリエ）
-  - KREVAの新しい音楽劇「最高はひとつじゃない 2016 SAKURA」（2016年3月25日 - 4月3日、[東京芸術劇場](../Page/東京芸術劇場.md "wikilink") プレイハウス / 4月8日 - 10日、[森ノ宮ピロティホール](https://ja.wikipedia.org/wiki/森ノ宮ピロティホール "wikilink")） - 武将 役\[4\]
+  - KREVAの新しい音楽劇「最高はひとつじゃない 2016 SAKURA」（2016年3月25日 - 4月3日、[東京芸術劇場](../Page/東京芸術劇場.md "wikilink") プレイハウス / 4月8日 - 10日、[森ノ宮ピロティホール](https://ja.wikipedia.org/wiki/森ノ宮ピロティホール "wikilink")） - 武将 役\[8\]
 
 ### テレビアニメ
 
@@ -256,9 +260,13 @@ Mr.Drunk名義での作品を含む
   - [ヒップホップ](../Page/ヒップホップ.md "wikilink")
   - [ラップ](../Page/ラップ.md "wikilink")
 
-[Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:日本のトラックメイカー](https://ja.wikipedia.org/wiki/Category:日本のトラックメイカー "wikilink") [Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:早稲田大学出身の人物](https://ja.wikipedia.org/wiki/Category:早稲田大学出身の人物 "wikilink") [Category:神奈川県立横浜緑ケ丘高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:神奈川県立横浜緑ケ丘高等学校出身の人物 "wikilink") [Category:横浜市出身の人物](https://ja.wikipedia.org/wiki/Category:横浜市出身の人物 "wikilink") [Category:1970年生](https://ja.wikipedia.org/wiki/Category:1970年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:日本のトラックメイカー](https://ja.wikipedia.org/wiki/Category:日本のトラックメイカー "wikilink") [Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:桑沢デザイン研究所出身の人物](https://ja.wikipedia.org/wiki/Category:桑沢デザイン研究所出身の人物 "wikilink") [Category:早稲田大学出身の人物](https://ja.wikipedia.org/wiki/Category:早稲田大学出身の人物 "wikilink") [Category:神奈川県立横浜緑ケ丘高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:神奈川県立横浜緑ケ丘高等学校出身の人物 "wikilink") [Category:横浜市出身の人物](https://ja.wikipedia.org/wiki/Category:横浜市出身の人物 "wikilink") [Category:1970年生](https://ja.wikipedia.org/wiki/Category:1970年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  USブラック・ディスク・ガイド、316ページ～318ページを参照
 2.  <http://clubberia.com/ja/artists/851-MARLEY-MARL/>
-3.
-4.
+3.  [くわなにさくはな](https://www.youtube.com/watch?v=P7vVhDBU8-I)
+4.  [桑名市PR動画「くわなにさくはな」の再生回数が15万回を突破しました。](http://www.city.kuwana.lg.jp/index.cfm/26,76345,236,854,html)
+5.  [「魅力みつけびと」が桑名の魅力を発信します！](https://www.city.kuwana.lg.jp/news/index.cfm/detail.1.65967.html)
+6.  [RHYMESTER Mummy-D書き下ろし楽曲「くわなにさくはな」を公開！ ～三重県桑名市の歴史をテーマに制作。Mummy-Dコメントも～](https://news.ponycanyon.co.jp/2019/09/34117)
+7.
+8.

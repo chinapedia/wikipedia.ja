@@ -1,13 +1,13 @@
 > この記事は[ALONE \(B\'zの曲\)](https://ja.wikipedia.org/wiki/ALONE_\(B\'zの曲\))から翻訳されています。
 
 
-「**ALONE**」(アローン) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[1991年](../Page/1991年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")に[BMGルームスより](../Page/VERMILLION_RECORDS.md "wikilink")9作目の[シングル](../Page/シングル.md "wikilink")として発売された。
+「**ALONE**」(アローン) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。1991年10月30日に[BMGルームスより](../Page/VERMILLION_RECORDS.md "wikilink")9作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 解説
 
 5thアルバム『[IN THE LIFE](../Page/IN_THE_LIFE.md "wikilink")』からの先行シングル。
 
-このシングルからB'zのロゴマークが新しくなった。また、松本・稲葉の英語クレジットが従来のロゴの下から右に変更になった。同時にクレジットも変更され、それぞれのパートが外れて"TAKAHIRO MATSUMOTO"・"KOHSHI INABA"と名前のみになった。なお、このロゴマークは[1993年](../Page/1993年.md "wikilink")の13thシングル『[裸足の女神](../Page/裸足の女神.md "wikilink")』まで使用される。
+このシングルからB'zのロゴマークが新しくなった。また、松本・稲葉の英語クレジットが従来のロゴの下から右に変更になった。同時にクレジットも変更され、それぞれのパートが外れて"TAKAHIRO MATSUMOTO"・"KOHSHI INABA"と名前のみになった。なお、このロゴマークは1993年の13thシングル『[裸足の女神](../Page/裸足の女神.md "wikilink")』まで使用される。
 
 ジャケットの表には左側に稲葉の顔が左半分、右側に松本の顔が右半分映っている。裏ジャケットには稲葉の顔の右半分と松本の顔の左半分が映っていて、2枚以上同じジャケットの表と裏を組み合わせるとそれぞれの顔が完成する様になっている\[1\]。
 
@@ -27,7 +27,7 @@
 2.  **GO-GO-GIRLS** (3:48)
       -
         [坪倉唯子](../Page/坪倉唯子.md "wikilink")に提供した「[GO-GO-GIRLS](https://ja.wikipedia.org/wiki/I_Wanna_Be_Myself "wikilink")」の[セルフカバー](../Page/セルフカバー.md "wikilink")。そのため女性目線の[歌詞](../Page/歌詞.md "wikilink")になっている。
-        曲中に登場する歓声は、『B'z LIVE-GYM "Pleasure '91"』（[7月31日](../Page/7月31日.md "wikilink")の[日本武道館](../Page/日本武道館.md "wikilink")公演）で録音した観客の歓声を[サンプリング](../Page/サンプリング.md "wikilink")したもの\[6\]。
+        曲中に登場する歓声は、『B'z LIVE-GYM "Pleasure '91"』（7月31日の[日本武道館](../Page/日本武道館.md "wikilink")公演）で録音した観客の歓声を[サンプリング](../Page/サンプリング.md "wikilink")したもの\[6\]。
         現在もアルバム未収録のままである。
         『B'z SHOWCASE 2017 -B'z In Your Town-』で、『B'z LIVE-GYM '91〜'92 "IN THE LIFE"』以来、25年ぶりに演奏された。
 
@@ -89,7 +89,7 @@
 [Category:B'zの楽曲](https://ja.wikipedia.org/wiki/Category:B'zの楽曲 "wikilink") [Category:稲葉浩志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:稲葉浩志が制作した楽曲 "wikilink") [Category:松本孝弘が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘が制作した楽曲 "wikilink") [Category:1991年のシングル](https://ja.wikipedia.org/wiki/Category:1991年のシングル "wikilink") [Category:1991年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1991年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:関西テレビのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:関西テレビのテレビドラマ主題歌 "wikilink") [Category:ロック・バラード](https://ja.wikipedia.org/wiki/Category:ロック・バラード "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
 
 1.
-2.  佐伯明『B'z ウルトラクロニクル』P40 ソニー・マガジンズ 2003年 ISBN 4-7897-2101-9
+2.
 3.
 4.
 5.  別冊カドカワ（2003年9月号）より

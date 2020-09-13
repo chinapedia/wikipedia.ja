@@ -25,7 +25,7 @@ Argo計画では、水深2000mから海面までの水温・塩分を約10日毎
   - [Official Argo website](http://www.argo.net/)
   - [Argo計画紹介サイト](http://www.jamstec.go.jp/ARGO/)
   - [Japan Argo](http://www.jamstec.go.jp/ARGO/argo_web/argo/)
-  - [高度海洋監視システム（ARGO計画）の構築（首相官邸ミレニアムプロジェクト内ページ）](http://www.kantei.go.jp/jp/mille/argo/index.html)
+  - [高度海洋監視システム（ARGO計画）の構築（首相官邸ミレニアムプロジェクト内ページ）](https://www.kantei.go.jp/jp/mille/argo/index.html)
   - [UCSD Argo Home Page](http://www.argo.ucsd.edu/index.html)  現在稼働中のフロートの数と位置など。
 
 [Category:海洋学](https://ja.wikipedia.org/wiki/Category:海洋学 "wikilink") [Category:気象学](https://ja.wikipedia.org/wiki/Category:気象学 "wikilink") [Category:研究プロジェクト](https://ja.wikipedia.org/wiki/Category:研究プロジェクト "wikilink") [Category:環境保全プロジェクト](https://ja.wikipedia.org/wiki/Category:環境保全プロジェクト "wikilink")

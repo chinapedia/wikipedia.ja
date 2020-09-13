@@ -49,6 +49,4 @@
 
 <references />
 
-[Category:英語の女性名](https://ja.wikipedia.org/wiki/Category:英語の女性名 "wikilink") [Category:ロシア語の女性名](https://ja.wikipedia.org/wiki/Category:ロシア語の女性名 "wikilink") [Category:ポルトガル語の姓](https://ja.wikipedia.org/wiki/Category:ポルトガル語の姓 "wikilink")
-
 1.  [水上木製コースターレジーナ営業終了のお知らせ](http://www.tobuzoo.com/event/details/1566/)

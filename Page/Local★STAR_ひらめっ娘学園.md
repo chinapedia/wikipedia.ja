@@ -78,4 +78,4 @@
   - プロデューサー：横井利行（2006年4月14日〜6月30日）→[満田直美](https://ja.wikipedia.org/wiki/満田直美 "wikilink")（2006年7月7日〜）、[南典秀](https://ja.wikipedia.org/wiki/南典秀 "wikilink")（2006年10月6日〜）
   - 制作：[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")
 
-[Category:テレビ新広島番組](https://ja.wikipedia.org/wiki/Category:テレビ新広島番組 "wikilink") [Category:中国・四国地方の深夜テレビ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方の深夜テレビ番組 "wikilink") [Category:中国・四国地方のバラエティ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のバラエティ番組 "wikilink") [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink")
+[Category:テレビ新広島の番組](https://ja.wikipedia.org/wiki/Category:テレビ新広島の番組 "wikilink") [Category:中国・四国地方の深夜テレビ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方の深夜テレビ番組 "wikilink") [Category:中国・四国地方のバラエティ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のバラエティ番組 "wikilink") [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink")

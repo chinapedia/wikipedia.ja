@@ -1,7 +1,7 @@
 > この記事は[SEAMO](https://ja.wikipedia.org/wiki/SEAMO)から翻訳されています。
 
 
-**SEAMO**（シーモ、[1975年](../Page/1975年.md "wikilink")（昭和50年）[10月31日](../Page/10月31日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。本名は**高田 尚輝**（たかだ なおき）。作詞・作曲のクレジットは、2枚目のシングル「[DRIVE](https://ja.wikipedia.org/wiki/DRIVE_\(SEAMOの曲\) "wikilink")」までは高田尚輝、3枚目のシングル「[a love story](https://ja.wikipedia.org/wiki/a_love_story_\(SEAMOの曲\) "wikilink")」以降は**"Naoki Takada"**とローマ字表記されている。[NEWSに楽曲提供した](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")[Happy Birthdayだけ](https://ja.wikipedia.org/wiki/Happy_Birthday_\(NEWSの曲\) "wikilink")、作詞、作曲ともにSEAMO名義でクレジットされている。所属事務所は[tearbridge production](https://ja.wikipedia.org/wiki/tearbridge_production "wikilink")。所属レコード会社は[Ariola Japan](https://ja.wikipedia.org/wiki/Ariola_Japan "wikilink")。
+**SEAMO**（シーモ、[1975年](../Page/1975年.md "wikilink")（昭和50年）[10月31日](../Page/10月31日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。本名は**高田 尚輝**（たかだ なおき）。作詞・作曲のクレジットは、2枚目のシングル「[DRIVE](https://ja.wikipedia.org/wiki/DRIVE_\(SEAMOの曲\) "wikilink")」までは高田尚輝、3枚目のシングル「[a love story](https://ja.wikipedia.org/wiki/a_love_story_\(SEAMOの曲\) "wikilink")」以降は**"Naoki Takada"**とローマ字表記されている。[NEWSに楽曲提供した](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")[Happy Birthdayだけ](https://ja.wikipedia.org/wiki/Happy_Birthday_\(NEWSの曲\) "wikilink")、作詞、作曲ともにSEAMO名義でクレジットされている。所属事務所は[tearbridge production](https://ja.wikipedia.org/wiki/tearbridge_production "wikilink")。
 
 [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[一宮市](../Page/一宮市.md "wikilink")出身。[名城大学附属高等学校](../Page/名城大学附属高等学校.md "wikilink")、[愛知学院大学](../Page/愛知学院大学.md "wikilink")文学部宗教学科卒業。
 
@@ -299,7 +299,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
 <td><p>10th</p></td>
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/10月9日.md" title="wikilink">10月9日</a></p></td>
 <td><p><strong>Wave My Flag</strong></p></td>
-<td><p>-</p></td>
+<td><p>57位</p></td>
 <td><p>初回限定盤：&lt;BVCL-1003～1004&gt;<br />
 通常盤：<BVCL-1005></p></td>
 </tr>
@@ -342,6 +342,14 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
 <td><p>38位</p></td>
 <td><p>DVD付初回限定盤：&lt;BVCL244〜246&gt;<br />
 通常盤：&lt;BVCL-247〜248&gt;</p></td>
+</tr>
+<tr class="odd">
+<td><p>3rd</p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/1月22日.md" title="wikilink">1月22日</a></p></td>
+<td><p><strong>PERFECT SEAMO</strong></p></td>
+<td><p>50位</p></td>
+<td><p>初回生産限定盤：＜BVCL-1035～1037＞</p>
+<p>通常盤：＜ BVCL-1038＞</p></td>
 </tr>
 </tbody>
 </table>
@@ -760,7 +768,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
   - ミュージックステーション（2006年9月1日）「[マタアイマショウ](../Page/マタアイマショウ.md "wikilink")」をパフォーマンス
   - [トップランナー](../Page/トップランナー.md "wikilink")（2006年9月3日）シーモネーター時代の話から、自身の挫折、そして再デビューまでを語った
   - [COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")（2006年10月7日）「マタアイマショウ」をパフォーマンス
-  - [紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")（2006年12月31日）「ルパン・ザ・ファイヤー」、「マタアイマショウ」をパフォーマンス
+  - [NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")（2006年12月31日）「ルパン・ザ・ファイヤー」、「マタアイマショウ」をパフォーマンス
   - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（2008年5月9日）「[MOTHER](../Page/MOTHER_\(SEAMOの曲\).md "wikilink")」をパフォーマンス
   - ミュージックステーション（2008年5月9日）「MOTHER」をパフォーマンス
   - COUNT DOWN TV（2008年5月11日）「MOTHER」をパフォーマンス
@@ -835,6 +843,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
   - [Metis](https://ja.wikipedia.org/wiki/Metis "wikilink")
   - [カルテット](../Page/カルテット_\(ユニット\).md "wikilink")
   - [手裏剣ジェット](https://ja.wikipedia.org/wiki/手裏剣ジェット "wikilink")
+  - [鈴木マリナ](https://ja.wikipedia.org/wiki/鈴木マリナ "wikilink")
   - ["E"qual](../Page/"E"qual.md "wikilink")（[M.O.S.A.D.](../Page/M.O.S.A.D..md "wikilink")）
   - [BENNIE K](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")
   - [Spontania](../Page/Spontania.md "wikilink")
@@ -866,7 +875,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
   - [加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink")
   - [オナニーマシーン](../Page/オナニーマシーン.md "wikilink")
   - [Kylee](https://ja.wikipedia.org/wiki/Kylee "wikilink")
-  - [谷村奈南](https://ja.wikipedia.org/wiki/谷村奈南 "wikilink")
+  - [May J.](https://ja.wikipedia.org/wiki/May_J. "wikilink")
   - [スキマスイッチ](../Page/スキマスイッチ.md "wikilink")
   - [天上智喜The Grace](../Page/天上智喜The_Grace.md "wikilink")
   - [板野友美](https://ja.wikipedia.org/wiki/板野友美 "wikilink")
@@ -890,6 +899,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
   - [いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")
   - [Base Ball Bear](../Page/Base_Ball_Bear.md "wikilink")
   - [ケツメイシ](../Page/ケツメイシ.md "wikilink")
+  - [谷村奈南](https://ja.wikipedia.org/wiki/谷村奈南 "wikilink")
 
 ## 脚注
 

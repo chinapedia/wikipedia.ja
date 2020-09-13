@@ -3,26 +3,24 @@
 
 [Hinchada_de_cobreloa.jpg](https://ja.wikipedia.org/wiki/File:Hinchada_de_cobreloa.jpg "fig:Hinchada_de_cobreloa.jpg")
 
-**クルブ（クラブ）・デ・デポルテス・コブレロア**（）は、[チリ](../Page/チリ.md "wikilink")北部、[アタカマ砂漠](../Page/アタカマ砂漠.md "wikilink")の都市[カラマ](https://ja.wikipedia.org/wiki/カラマ "wikilink")に本拠地を置くサッカークラブである。
+**クルブ・デ・デポルテス・コブレロア**（）は、[チリ](../Page/チリ.md "wikilink")北部、[アタカマ砂漠](../Page/アタカマ砂漠.md "wikilink")の都市[カラマ](https://ja.wikipedia.org/wiki/カラマ "wikilink")に本拠地を置くサッカークラブである。
 
-1977年1月7日創立の新興クラブ。クラブ名はスペイン語で[銅](../Page/銅.md "wikilink")を意味するコブレ (*Cobre*) と、[エルロア県](https://ja.wikipedia.org/wiki/エルロア県 "wikilink")（*[Provincia de El Loa](https://ja.wikipedia.org/wiki/:es:Provincia_de_El_Loa "wikilink")*）から成る造語。ちなみに、Loaは、カラマ市内を流れる河川の名称である。
+1977年1月7日創立の新興クラブ。クラブ名はスペイン語で[銅](../Page/銅.md "wikilink")を意味するコブレ (*Cobre*) と、[エルロア県](https://ja.wikipedia.org/wiki/エルロア県 "wikilink")（*[Provincia de El Loa](https://ja.wikipedia.org/wiki/:es:Provincia_de_El_Loa "wikilink")*）から成る造語。ちなみに、Loaは、カラマ市内を流れる河川の名称である。チリで5番目に人気のあるクラブである。\[1\]
 
-チリで5番目に人気のあるクラブである。\[1\]
-
-創立最初のシーズンで1部昇格を決め、1978年以降は常に1部リーグに所属。1978年、1979年の準優勝を経て、1980年に優勝を果たした。
+クラブ創設最初のシーズンで1部昇格を決め、1978年以降は常に1部リーグに所属。1978年、1979年の準優勝を経て、1980年に初優勝を果たした。
 
 初出場となった1981年の[コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink")ではいきなり決勝に進出し、翌1982年にも決勝に進出した。それぞれ[フラメンゴ](https://ja.wikipedia.org/wiki/フラメンゴ "wikilink")、[ペニャロール](https://ja.wikipedia.org/wiki/ペニャロール "wikilink")に敗れて準優勝に終わっている。
 
 ## ライバル
 
-コブレロアのライバルは[CSDコロコロ](../Page/CSDコロコロ.md "wikilink")、[デポルテス・アントファガスタ](https://ja.wikipedia.org/wiki/デポルテス・アントファガスタ "wikilink")、[CDコブレサル](https://ja.wikipedia.org/wiki/CDコブレサル "wikilink")である。 コブレサルとの対戦は、[クラシコ・デル・コブレ](https://ja.wikipedia.org/wiki/クラシコ・デル・コブレ "wikilink")（銅のダービー）と呼ばれている。
+コブレロアのライバルは[CSDコロコロ](../Page/CSDコロコロ.md "wikilink")、[デポルテス・アントファガスタ](https://ja.wikipedia.org/wiki/デポルテス・アントファガスタ "wikilink")、[CDコブレサル](https://ja.wikipedia.org/wiki/CDコブレサル "wikilink")である。コブレサルとの対戦は、[クラシコ・デル・コブレ](https://ja.wikipedia.org/wiki/クラシコ・デル・コブレ "wikilink")（銅のダービー）と呼ばれている。
 
 ## タイトル
 
 ### 国内タイトル
 
   - **チリリーグ：8回**
-      - 1980、1982、1985、1988、1992、2003アペルトゥラ、2003クラウスラ、2004クラウスラ
+      - 1980、1982、1985、1988、1992、2003前期、2003後期、2004後期
 
 <!-- end list -->
 

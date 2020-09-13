@@ -18,6 +18,9 @@
 ## 関連項目
 
   - [TrackID](https://ja.wikipedia.org/wiki/TrackID "wikilink")
+  - [SoundHound](https://ja.wikipedia.org/wiki/SoundHound "wikilink")
+  - [midomi](https://ja.wikipedia.org/wiki/midomi "wikilink")
+  - [Shazam (アプリケーション)](../Page/Shazam_\(アプリケーション\).md "wikilink")
 
 ## 外部リンク
 

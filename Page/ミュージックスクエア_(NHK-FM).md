@@ -184,7 +184,7 @@
 
   - \- 公式サイト
 
-[Category:NHK-FMの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK-FMの帯番組の歴史 "wikilink") [Category:NHK-FMの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK-FMの音楽番組の歴史 "wikilink") [Category:音楽ランキング番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:音楽ランキング番組_\(ラジオ\) "wikilink") [Category:1990年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1990年のラジオ番組_\(日本\) "wikilink") [Category:桑田佳祐](https://ja.wikipedia.org/wiki/Category:桑田佳祐 "wikilink") [Category:布袋寅泰](https://ja.wikipedia.org/wiki/Category:布袋寅泰 "wikilink") [Category:中島みゆき](https://ja.wikipedia.org/wiki/Category:中島みゆき "wikilink")
+[Category:NHK-FMの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK-FMの帯番組の歴史 "wikilink") [Category:NHK-FMの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK-FMの音楽番組の歴史 "wikilink") [Category:音楽ランキング番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:音楽ランキング番組_\(ラジオ\) "wikilink") [Category:1990年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1990年のラジオ番組_\(日本\) "wikilink")
 
 1.  [2009 NHK 春の新番組：ミュージックライン](http://cgi4.nhk.or.jp/feature/index.cgi?p=yQspeYOA&c=8) - NHKオンライン
 2.  開始初期などの一時期のみ1か月。

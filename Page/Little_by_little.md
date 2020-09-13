@@ -288,13 +288,13 @@ little by little
 ## 外部リンク
 
   -
-  - [little by little オフィシャルブログ](http://littlebylittle-net.blog.so-net.ne.jp/)
+  - [little by little オフィシャルブログ](https://littlebylittle-net.blog.ss-blog.jp/)
 
   - [鈴木哲彦公式ホームページ](http://www.suzukitetsuhiko.com/)
 
   - [所属事務所「アイアンクリエイティヴ」](http://ironcreative.net/)
 
   -
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:gr8\!recordsのアーティスト](https://ja.wikipedia.org/wiki/Category:gr8!recordsのアーティスト "wikilink") [Category:過去のスターダストプロモーション所属者](https://ja.wikipedia.org/wiki/Category:過去のスターダストプロモーション所属者 "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:gr8\!recordsのアーティスト](https://ja.wikipedia.org/wiki/Category:gr8!recordsのアーティスト "wikilink") [Category:過去のスターダストプロモーション所属者](https://ja.wikipedia.org/wiki/Category:過去のスターダストプロモーション所属者 "wikilink")
 
 1.  楽曲が起用された年ではなく、音源化された年で明記。

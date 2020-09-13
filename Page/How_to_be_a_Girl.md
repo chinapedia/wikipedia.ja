@@ -67,4 +67,4 @@
 2.
 3.
 4.  [日経BP](../Page/日経BP.md "wikilink")刊『[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")』1998年1月号57Pより。
-5.  [安室奈美恵ディスコグラフィー](http://web.archive.org/web/20010715041931/www.nikkansports.com/news2/amuro/a-cd.html)、[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+5.  [安室奈美恵ディスコグラフィー](https://web.archive.org/web/20010715041931/www.nikkansports.com/news2/amuro/a-cd.html)、[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）

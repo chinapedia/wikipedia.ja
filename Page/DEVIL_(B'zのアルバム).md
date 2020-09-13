@@ -1,7 +1,7 @@
 > この記事は[DEVIL \(B\'zのアルバム\)](https://ja.wikipedia.org/wiki/DEVIL_\(B\'zのアルバム\))から翻訳されています。
 
 
-『**DEVIL**』（デビル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")が[2002年](../Page/2002年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")にBeing Music Koreaより[韓国限定で発売した](../Page/大韓民国.md "wikilink")[ミニ・アルバム](https://ja.wikipedia.org/wiki/ミニ・アルバム "wikilink") (BMCR-0000 (DBKED-0132)) 。
+『**DEVIL**』（デビル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")が2002年4月23日にBeing Music Koreaより[韓国限定で発売した](../Page/大韓民国.md "wikilink")[ミニ・アルバム](../Page/コンパクト盤.md "wikilink") (BMCR-0000 (DBKED-0132)) 。
 
 ## 内容
 
@@ -18,8 +18,9 @@
 1.  **DEVIL** (3:35)
       -
         11thアルバム『[ELEVEN](../Page/ELEVEN_\(アルバム\).md "wikilink")』に収録の「TOKYO DEVIL」のデモ音源を元に、ギターアレンジや曲構成を一部変更し、リズムトラックに[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")を用いた英語バージョン。ボーカルのメロディラインは、「TOKYO DEVIL」のアウトロに登場するメロディーラインが本曲のサビに転用されている以外は新しいメロディーとなっており、[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")のように1つの音符に1つの単語を載せるような箇所が多い。これは海外スタッフとの共同作業によるため（詳しくは『[ELEVEN](../Page/ELEVEN_\(アルバム\).md "wikilink")』項を参照）。
-        この曲を収録している日本国内で販売されたアルバムは、[2002年](../Page/2002年.md "wikilink")発売の『[FIFA WORLD CUP OFFICIAL ALBUM](https://ja.wikipedia.org/wiki/2002_FIFA_ワールドカップ公式アルバム#コリア・ジャパン盤収録曲 "wikilink")』（国内版）があり、『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』に収録されるまで日本国内のB'z関連作品には未収録だった。
-        [ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『B'z The Best "ULTRA Treasure"』のファン投票で14位にランクインし\[1\]、同アルバムに収録された。
+        この曲を収録している日本国内で販売されたアルバムは、2002年発売の『[FIFA WORLD CUP OFFICIAL ALBUM](https://ja.wikipedia.org/wiki/2002_FIFA_ワールドカップ公式アルバム#コリア・ジャパン盤収録曲 "wikilink")』（国内版）があり、『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』に収録されるまで日本国内のB'z関連作品には未収録だった。
+        ライブではリリースされた年に開催された『[B'z LIVE-GYM 2002 GREEN 〜GO★FIGHT★WIN〜](https://ja.wikipedia.org/wiki/a_BEAUTIFUL_REEL._B'z_LIVE-GYM_2002_GREEN_〜GO★FIGHT★WIN〜 "wikilink")』と『B'z LIVE-GYM 2002 "Rock n' California Roll"』で披露され、その後2006年9月1日で開催された『[B'z NETWORK LIVE in Japan](../Page/B'z_LIVE_in_なんば.md "wikilink")』で約4年ぶりに演奏された\[1\]。
+        [ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『B'z The Best "ULTRA Treasure"』のファン投票で14位にランクインし\[2\]、同アルバムに収録された。
 2.  **[Real Thing Shakes](../Page/Real_Thing_Shakes.md "wikilink")** (4:12)
       -
         20thシングル。収録アルバムは、本作以外では『[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』と『[B'z The Best XXV 1988-1998](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1988-1998 "wikilink")』である。
@@ -76,3 +77,4 @@
 [Category:B'zのミニ・アルバム](https://ja.wikipedia.org/wiki/Category:B'zのミニ・アルバム "wikilink") [Category:2002年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:2002年のミニ・アルバム "wikilink")
 
 1.
+2.

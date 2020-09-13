@@ -9,7 +9,7 @@
 
 ジャッキーと元[アメリカンキックボクシング世界王者](../Page/世界キックボクシング協会_\(WKA\).md "wikilink")[ベニー・ユキーデ](../Page/ベニー・ユキーデ.md "wikilink")の対決シーンが特に有名で、ジャッキー自身が選ぶ「ファイティング・トップ10」においてこのシーンを堂々の1位に挙げているほか、ベニーとジャッキーが再戦した「[サイクロンZ](../Page/サイクロンZ_\(映画\).md "wikilink")」における対決を同ランキングの第5位に挙げている\[1\]。
 
-他のジャッキー・チェン作品と同様、現在は[21世紀フォックス](https://ja.wikipedia.org/wiki/21世紀フォックス "wikilink")傘下の[スターTV→フォーチュンスターメディアに著作権が移動している](../Page/スター_\(衛星放送\).md "wikilink")。
+他のジャッキー・チェン作品と同様、は[21世紀フォックス](https://ja.wikipedia.org/wiki/21世紀フォックス "wikilink")傘下の[スターTV→フォーチュンスターメディアに著作権が移動している](../Page/スター_\(衛星放送\).md "wikilink")。
 
 ## あらすじ
 
@@ -68,6 +68,13 @@
   - カーチェイスシーンは「[007](https://ja.wikipedia.org/wiki/007 "wikilink")」シリーズにも出演したカースタント専門のドライバーをヨーロッパ中から召集した。
   - 当初、本作の英語のタイトルは「Meals On Wheels」だったが、配給ゴールデン・ハーベストの『Megaforce（メガフォース）』と『Menage A Trios』が失敗に終わったばかりで、両作どちらもタイトルが「M」で始まっていたため、縁起を担いで"Meals"と"Wheels"を逆にして「Wheels On Meals」とした。
   - 当時のジャッキーは1980年頃から愛用している[アディダス](../Page/アディダス.md "wikilink")のマジックテープ式スニーカーを履くことが多かった。この靴を含む数足を、このときも香港から持ちこんでいる。本作の撮影中、ジャッキーは20足前後の靴に囲まれて生活していたのだった\[4\]。
+  - 本作はジャッキー・チェンの作品舞台が香港を離れた海外進出第一弾の作品でもある<ref>
+
+</ref>。
+
+  - 1985年の香港映画賞 (Hong Kong Film Award) にて「優秀アクション振付賞」にノミネートされた<ref>
+
+</ref>。
 
 ## ビデオゲーム版
 
@@ -91,7 +98,7 @@
   -
   -
   -
-[Category:香港のアクション映画](https://ja.wikipedia.org/wiki/Category:香港のアクション映画 "wikilink") [Category:1984年の映画](https://ja.wikipedia.org/wiki/Category:1984年の映画 "wikilink") [Category:バルセロナを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:バルセロナを舞台とした映画作品 "wikilink") [Category:サモ・ハン・キンポーの監督映画](https://ja.wikipedia.org/wiki/Category:サモ・ハン・キンポーの監督映画 "wikilink")
+[Category:香港のアクション映画](https://ja.wikipedia.org/wiki/Category:香港のアクション映画 "wikilink") [Category:1984年の映画](https://ja.wikipedia.org/wiki/Category:1984年の映画 "wikilink") [Category:バルセロナを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:バルセロナを舞台とした映画作品 "wikilink") [Category:サモ・ハン・キンポーの監督映画](https://ja.wikipedia.org/wiki/Category:サモ・ハン・キンポーの監督映画 "wikilink") [Category:ジャッキー・チェン](https://ja.wikipedia.org/wiki/Category:ジャッキー・チェン "wikilink")
 
 1.  『I AM JACKIE CHAN―僕はジャッキー・チェン 初めて語られる香港帝王の素顔』 近代映画社
 2.  スパイクから発売されたDVDには、英語音声が収録されたが、元となる映像は香港版のためEDのNGシーンは無い。

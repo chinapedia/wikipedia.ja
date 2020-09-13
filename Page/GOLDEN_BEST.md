@@ -111,4 +111,4 @@
 
 [Category:井上陽水のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:井上陽水のベスト・アルバム "wikilink") [Category:1999年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:1999年のベスト・アルバム "wikilink") [Category:フォーライフ・レコードのアルバム](https://ja.wikipedia.org/wiki/Category:フォーライフ・レコードのアルバム "wikilink") [Category:フォーライフミュージックエンタテイメントのアルバム](https://ja.wikipedia.org/wiki/Category:フォーライフミュージックエンタテイメントのアルバム "wikilink") [Category:1999年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 
-1.  [デビュー40周年の井上陽水、ファン感謝ツアー開催決定](http://web.archive.org/web/20090213032512/http://music.jp.msn.com/news/6618.htm)、MSNミュージック音楽ニュース（OOPS\! News Network）、2008年12月10日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+1.  [デビュー40周年の井上陽水、ファン感謝ツアー開催決定](https://web.archive.org/web/20090213032512/http://music.jp.msn.com/news/6618.htm)、MSNミュージック音楽ニュース（OOPS\! News Network）、2008年12月10日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）

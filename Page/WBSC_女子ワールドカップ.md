@@ -10,6 +10,7 @@
   - 第3回大会は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に日本・[松山で開催され](../Page/松山市.md "wikilink")、開催国の日本が大会初優勝を果たした。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")の第4回大会において、試合中に香港の選手がふくらはぎに銃弾を受けるという事件が発生した\[1\]。
   - 出場枠数は[2014年](../Page/2014年.md "wikilink")の第6回大会までは8。[2016年](../Page/2016年.md "wikilink")の第7回大会からは12\[2\]。
+  - COVID-19の影響で開催延期が発表されていた第9回大会は、11月12日〜21日に、メキシコ・ティファナで開催することが発表された。\[3\]
 
 ## 大会の結果・予定
 
@@ -102,7 +103,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2016_WBSC女子ワールドカップ" title="wikilink">7</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/9月3日" title="wikilink">9月3日</a> - <a href="../Page/9月11日.md" title="wikilink">9月11日</a></p></td>
-<td><p><a href="../Page/釜山広域市.md" title="wikilink">釜山</a>[3]</p></td>
+<td><p><a href="../Page/釜山広域市.md" title="wikilink">釜山</a>[4]</p></td>
 <td><p>12</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/野球日本女子代表" title="wikilink">日本</a></p></td>
 </tr>
@@ -242,4 +243,5 @@
 
 1.  [香港選手の脚に銃の流れ弾 日本も出場の野球女子W杯](http://www.47news.jp/CN/201008/CN2010081401000420.html) - 2010年8月14日 47NEWS
 2.
-3.
+3.  [WBSC Women's Baseball World Cup to start 12 November in Tijuana, Mexico](https://www.wbsc.org/en/news/wbsc-womens-baseball-world-cup-to-start-on-12-november-in-tijuana-mexico)
+4.

@@ -32,16 +32,16 @@
       - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 自主制作CD『光と影/トオイソラ』をライブ会場、下北沢ハイラインレコーズで限定リリース。
   - [2004年](../Page/2004年.md "wikilink")
       - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - [下北沢](../Page/下北沢.md "wikilink")[ハイラインレコーズ](../Page/ハイラインレコーズ.md "wikilink")オムニバス「HI-STYLEVol.07」に参加。
-      - [9月](../Page/9月.md "wikilink") - [1stミニアルバム](../Page/序数詞.md "wikilink")『光-hikari-』(6曲)をROCKTRADEよりリリース。
+      - [9月](../Page/9月.md "wikilink") - 1stミニアルバム『光-hikari-』(6曲)をROCKTRADEよりリリース。
   - [2005年](../Page/2005年.md "wikilink")
       - [1月](https://ja.wikipedia.org/wiki/1月 "wikilink") - 下北沢ハイラインレコーズ限定シングル『白い街/LOTUSEATER』リリース。
-      - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - [1st](https://ja.wikipedia.org/wiki/1st "wikilink")マキシシングル『SAYONARA e.p.』（3曲）リリース。
+      - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 1stマキシシングル『SAYONARA e.p.』（3曲）リリース。
           - 収録曲「サヨナラトーン」が[FM長崎のパワープレイと](../Page/エフエム長崎.md "wikilink")[下北沢](../Page/下北沢.md "wikilink")[ハイラインレコーズ](../Page/ハイラインレコーズ.md "wikilink")チャート1位となる。また、リリース後の全国ツアー"COOL\&DISCOIII "を全国16か所で開催。ツアーファイナルを4/27下北沢CLUB Que のHIGH LINE NIGHTにて開催。
       - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - DVD「GALACTiKA VOL.12 」に参加。「四月の空」、「ハルカ」収録。
       - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink") - 下北沢ハイラインレコーズ主催"HIGHLINE GO AROUND 2"全国6か所ツアーに参加。
       - [7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - [グリコセブンティーンアイスX](https://ja.wikipedia.org/wiki/セブンティーンアイス "wikilink")[タワーレコード](../Page/タワーレコード.md "wikilink")コラボオムニバスCD「LOVE」に「トオイソラ」収録。7月より8月にかけて夏の全国行脚ツアー開催。
       - [9月](../Page/9月.md "wikilink") - [東京](../Page/東京.md "wikilink")、[大阪](../Page/大阪.md "wikilink")で初企画「daylight party」開催。[9月21日](../Page/9月21日.md "wikilink")[下北沢](../Page/下北沢.md "wikilink")SHELTER [9月25日](../Page/9月25日.md "wikilink")[大阪](../Page/大阪.md "wikilink")2ndLINE。
-      - [10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [2nd](https://ja.wikipedia.org/wiki/2nd "wikilink")マキシシングル『スペクトル/STRB』（3曲）リリース。
+      - [10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - 2ndマキシシングル『スペクトル/STRB』（3曲）リリース。
           - WeeklyぴあCDシングル満足度ランキング5位獲得。
           - [8日](../Page/10月8日.md "wikilink")[柏](https://ja.wikipedia.org/wiki/柏 "wikilink")ZaXより全国16か所ツアー”COOL\&DSICOⅣ　ダテメガネの逆襲」スタート。
           - [下北沢](../Page/下北沢.md "wikilink")[ハイラインレコーズ](../Page/ハイラインレコーズ.md "wikilink")オムニバスCD「HI-STYLEVo.10」に参加。「光と影」収録。
@@ -53,11 +53,11 @@
       - [12月31日](../Page/12月31日.md "wikilink") - カウントダウンイベントSHELTER /Zher the ZOO に出演。2005年トータルライブ本数98本となる。
       - [12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - [長崎](../Page/長崎.md "wikilink")ユナイテッドシネマ公開。[長崎アミュプラザ](../Page/アミュプラザ長崎.md "wikilink")5周年記念制作[映画](../Page/映画.md "wikilink")「スロウマップ」の主題歌を担当。同タイトル曲「スロウマップ」を提供する。
   - [2006年](../Page/2006年.md "wikilink")
-      - [1月25日](../Page/1月25日.md "wikilink") - [1st](https://ja.wikipedia.org/wiki/1st "wikilink")フルアルバム『2000'S★★★★★DISCO』リリース。下北沢ハイラインレコーズチャート1位を獲得し、5タイトル連続1位記録を達成。
+      - [1月25日](../Page/1月25日.md "wikilink") - 1stフルアルバム『2000'S★★★★★DISCO』リリース。下北沢ハイラインレコーズチャート1位を獲得し、5タイトル連続1位記録を達成。
       - [1月31日](../Page/1月31日.md "wikilink") - アルバムレコ発ライブを下北沢SHELTERにて行う。初のワンマンライブ。
       - [2月4日](../Page/2月4日.md "wikilink") - アルバム発売記念全国１７ヶ所ツアー"COOL\&DISCO V てっちをプロデュース。"を千葉LOOKよりスタート。
       - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - ヘアブレ2回目の自主企画イベント「daylight party」を3/21大阪2nd LINE、3/23下北沢CLUB Queにて開催。
-      - [4月26日](../Page/4月26日.md "wikilink") - [3rd](https://ja.wikipedia.org/wiki/3rd "wikilink")マキシシングル『ソライロ』リリース。[ユニバーサルシグマへメジャー移籍](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
+      - [4月26日](../Page/4月26日.md "wikilink") - 3rdマキシシングル『ソライロ』リリース。[ユニバーサルシグマへメジャー移籍](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
       - [7月22日](../Page/7月22日.md "wikilink") - UDO MUSIC FESTIVAL2006 出演。
       - [8月5日](../Page/8月5日.md "wikilink") - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2006 出演。
       - [8月9日](../Page/8月9日.md "wikilink") - 4thマキシシングル『Sputnik』リリース。収録曲「Sputnik」が[FMQリーグ](../Page/FMQリーグ.md "wikilink")と[FM新潟のパワープレイに選出される](../Page/エフエムラジオ新潟.md "wikilink")。
@@ -68,7 +68,7 @@
       - [12月6日](../Page/12月6日.md "wikilink") - 5thマキシシングル『ORION/Clap\!』リリース。収録曲「ORION」が[FM岩手](../Page/エフエム岩手.md "wikilink")・[Date fm](../Page/エフエム仙台.md "wikilink")・[FM PORTのパワープレイに選出される](../Page/新潟県民エフエム放送.md "wikilink")。
   - [2007年](../Page/2007年.md "wikilink")
       - [1月1日](../Page/1月1日.md "wikilink") - [幕張メッセ](../Page/幕張メッセ.md "wikilink")国際展示場[COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 06/07 MOON STAGEに出演。
-      - [2月7日](../Page/2月7日.md "wikilink") - [2nd](https://ja.wikipedia.org/wiki/2nd "wikilink")フルアルバム『EVEN BEAT』リリース。
+      - [2月7日](../Page/2月7日.md "wikilink") - 2ndフルアルバム『EVEN BEAT』リリース。
       - [2月17日](../Page/2月17日.md "wikilink") - 千葉LOOKを皮きりに全国ツアー"HAPPY NEW DISCO"スタート。ツアーファイナルとして[3月28日](../Page/3月28日.md "wikilink")[渋谷CLUB QUATTROでワンマンライブを行う](https://ja.wikipedia.org/wiki/渋谷CLUB_QUATTRO "wikilink")。
       - [5月19日](../Page/5月19日.md "wikilink") - [大阪城野外音楽堂](https://ja.wikipedia.org/wiki/大阪城野外音楽堂 "wikilink")にて開催[SWEET LOVE SHOWER EXTRAに出演](../Page/SWEET_LOVE_SHOWER.md "wikilink")。
       - [7月16日](../Page/7月16日.md "wikilink") - [Zepp東京](https://ja.wikipedia.org/wiki/Zepp東京 "wikilink") 「HIGH LINE RECORDS 10th ANNIVERSARY “10年目の夏”」に出演。共演は[POLYSICS](../Page/POLYSICS.md "wikilink")・[LUNKHEAD](../Page/LUNKHEAD.md "wikilink")・[LOST IN TIME](../Page/LOST_IN_TIME.md "wikilink")・[FULLARMOR](https://ja.wikipedia.org/wiki/FULLARMOR "wikilink")・[BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")（O.A：[UNISON SQUARE GARDEN](https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink")）

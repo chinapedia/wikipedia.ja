@@ -28,6 +28,6 @@
 
 ## 外部リンク
 
-  - [MIYUKI Freaks\!](http://miyuki-freaks.syncl.jp/)（オフィシャルホームページ）
+  - （オフィシャルホームページ）
 
 [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:佐賀県出身の人物](https://ja.wikipedia.org/wiki/Category:佐賀県出身の人物 "wikilink") [Category:小室哲哉](https://ja.wikipedia.org/wiki/Category:小室哲哉 "wikilink") [Category:1976年生](https://ja.wikipedia.org/wiki/Category:1976年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

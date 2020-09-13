@@ -120,6 +120,7 @@
   - [森進一](../Page/森進一.md "wikilink") - 『Love Music』（2009年11月25日）\[29\]
   - [未涼亜希](../Page/未涼亜希.md "wikilink") - 『14 COVERS TAKARAZUKA OTOKOUTA』（2011年3月16日）
   - [和央ようか](../Page/和央ようか.md "wikilink") - 『麗人 REIJIN』（2015年1月21日）\[30\]\[31\]
+  - [高山みなみ](../Page/高山みなみ.md "wikilink")アニメ『カラオケ戦士マイク次郎』でカバー
 
 ### 英語バージョン
 
@@ -136,6 +137,8 @@
   - [ソニン](https://ja.wikipedia.org/wiki/ソニン_\(タレント\) "wikilink") - シングル「ジグソーパズル」カップリング（2004年）\[33\]\[34\]
 
   -
+＊コン・ユ「ILoveYou」(2007年)ファンミーティングにて
+
 ### 中国語バージョン
 
   - [アーロン・クォック](https://ja.wikipedia.org/wiki/アーロン・クォック "wikilink") - アルバム「到底有誰能够告訴我」（1991年）

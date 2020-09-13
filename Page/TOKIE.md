@@ -21,7 +21,7 @@
 
 [1996年](../Page/1996年.md "wikilink")に帰国\[13\]。[キーボーディスト](../Page/キーボーディスト.md "wikilink")[富樫春生](https://ja.wikipedia.org/wiki/富樫春生 "wikilink")のバンド「ボンボコ」を皮切りに、ソロシンガーの[hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")など様々なアーティストのサポートを開始、コンサートやレコーディングの現場でセッションベーシストとして腕を磨く\[14\]\[15\]\[16\]。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に「[RIZE](../Page/RIZE.md "wikilink")」結成\[17\]。[2000年](../Page/2000年.md "wikilink")にはシングル『カミナリ』でメジャーデビューを果たす。一方でRIZE在籍中の2000年に[UA](https://ja.wikipedia.org/wiki/UA_\(歌手\) "wikilink")、元[ブランキー・ジェット・シティ](https://ja.wikipedia.org/wiki/ブランキー・ジェット・シティ "wikilink")の[浅井健一](https://ja.wikipedia.org/wiki/浅井健一 "wikilink")が結成した[AJICO](../Page/AJICO.md "wikilink")にドラマーの[椎野恭一](https://ja.wikipedia.org/wiki/椎野恭一 "wikilink")と共に参加\[18\]。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に「[RIZE](../Page/RIZE.md "wikilink")」結成\[17\]。[2000年](../Page/2000年.md "wikilink")にはシングル『カミナリ』でメジャーデビューを果たす。一方でRIZE在籍中の2000年に[UA](https://ja.wikipedia.org/wiki/UA_\(歌手\) "wikilink")、元[ブランキー・ジェット・シティ](https://ja.wikipedia.org/wiki/ブランキー・ジェット・シティ "wikilink")の[浅井健一](https://ja.wikipedia.org/wiki/浅井健一 "wikilink")が結成した[AJICO](../Page/AJICO.md "wikilink")にドラマーの[椎野恭一](../Page/椎野恭一.md "wikilink")と共に参加\[18\]。
 
 [2001年](../Page/2001年.md "wikilink")にRIZEを脱退し、AJICOも活動休止するが、新たに[中村達也率いるロック](../Page/中村達也_\(ドラマー\).md "wikilink")・ジャム・バンド「[LOSALIOS](../Page/LOSALIOS.md "wikilink")に加入する\[19\]。
 
@@ -91,6 +91,7 @@
   - [LEO今井](../Page/LEO今井.md "wikilink")
   - [Leyona](../Page/Leyona.md "wikilink")
   - [WISE](../Page/WISE.md "wikilink")
+  - [宮本浩次](https://ja.wikipedia.org/wiki/宮本浩次 "wikilink")
 
 ### ライブ / ツアー参加
 

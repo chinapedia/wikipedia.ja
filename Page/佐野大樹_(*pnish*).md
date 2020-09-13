@@ -1,7 +1,7 @@
 > この記事は[佐野大樹 \(\*pnish\*\)](https://ja.wikipedia.org/wiki/佐野大樹_\(\*pnish\*\))から翻訳されています。
 
 
-**佐野 大樹**（さの だいき、[1979年](../Page/1979年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[俳優](../Page/俳優.md "wikilink")である。愛称は、**大樹っちゃん**。[ラ・セッテ](https://ja.wikipedia.org/wiki/ラ・セッテ "wikilink")所属。
+**佐野 大樹**（さの だいき、[1979年](../Page/1979年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[俳優](../Page/俳優.md "wikilink")である。愛称は、**大樹っちゃん。**ラ・セッテを2019年末をもって離れる。現在は自身が社長を務める[WBB](http://www.w-b-bros.jp/)所属。
 
 [静岡県](../Page/静岡県.md "wikilink")[富士宮市](../Page/富士宮市.md "wikilink")出身。[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長175cm。体重56kg。[兄](../Page/兄.md "wikilink")は俳優の[佐野瑞樹](../Page/佐野瑞樹_\(俳優\).md "wikilink")。
 
@@ -9,7 +9,8 @@
 
   - 男性4人組演劇ユニット[\*pnish\*](../Page/*pnish*.md "wikilink")のリーダー。
   - [\*pnish\*](../Page/*pnish*.md "wikilink")でのイメージカラーは赤。
-  - 2011年より佐野瑞樹・佐野大樹による兄弟プロデュースWBBを活動している。
+  - 2011年より佐野瑞樹・佐野大樹による兄弟プロデュース[WBB](http://www.w-b-bros.jp/)を活動している。
+  - 2020年よりYoutubeで[佐野大樹チャンネル](https://www.youtube.com/channel/UCzkznBaNbANtQMeoYo89jQg)を開設
 
 ## 出演
 
@@ -123,7 +124,7 @@
       - 『SniTs Vol.2』（2018年4月20日 - 22日、ザムザ阿佐谷）
   - ラ・セッテ×イヌッコロ コラボ公演『まわれ！無敵のマーダーケース』（2017年10月12日 - 22日、作:羽仁 修・演出:羽仁 修 佐野大樹、新宿サンモールスタジオ）殺人鬼 役
   - ラ・セッテ プロデュース『ギャング　アワー』（2018年3月13日 - 18日、作:羽仁 修・演出:佐野大樹、赤坂RED/THEATER）
-  - 『恋するアンチヒーロー』（2018年9月6日 - 17日、作・演出:羽仁修、劇場MOMO）
+  - 『[恋するアンチヒーロー](../Page/恋するアンチヒーロー.md "wikilink")』（2018年9月6日 - 17日、作・演出:羽仁修、劇場MOMO）
   - 『トラベルモード2018』（2018年10月11日 - 15日、作:\*pnish\*・演出:佐野大樹、中野ウエストエンドスタジオ）予定
 
 ### テレビドラマ
@@ -199,4 +200,6 @@
   - [\*pnish\* OFFICIAL WEB SITE](http://www.pnish.jp/)
 
   -
+  - WBB
+
 [Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:静岡県出身の人物](https://ja.wikipedia.org/wiki/Category:静岡県出身の人物 "wikilink") [Category:1979年生](https://ja.wikipedia.org/wiki/Category:1979年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

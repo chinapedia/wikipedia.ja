@@ -5,11 +5,11 @@
 
 ## 解説
 
-  - 自身が出演した[LOTTE](../Page/ロッテ.md "wikilink")[チョコレート](https://ja.wikipedia.org/wiki/チョコレート "wikilink")「紗々」の[CFイメージソング](../Page/コマーシャルソング.md "wikilink")。シングルでは初となった1位を獲得した。[日本レコード協会](../Page/日本レコード協会.md "wikilink")の集計では[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")に認定されている。
+  - 自身が出演した[LOTTE](../Page/ロッテ.md "wikilink")[チョコレート](https://ja.wikipedia.org/wiki/チョコレート "wikilink")「紗々」の[CFイメージソング](../Page/コマーシャルソング.md "wikilink")。シングルでは初の1位を獲得。[日本レコード協会](../Page/日本レコード協会.md "wikilink")の集計では[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")に認定されている。
   - この曲を歌っていた当時の華原は極端に痩せていて、体重30kg台であったと語っている。当時、自身が愛用していた“[ホアキン・ベラオ](https://ja.wikipedia.org/wiki/ホアキン・ベラオ "wikilink")”（[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")のブランド）のアクセサリーが華原効果で人気に火が点いた。
-  - 1996年8月にレコーディングされた。「[summer visit](../Page/LOVE_BRACE.md "wikilink")」に近い感じの楽しい雰囲気を意識した\[1\]。
+  - 1996年8月にレコーディングされ、本人は「[summer visit](../Page/LOVE_BRACE.md "wikilink")」に近い感じの楽しい雰囲気を意識したという\[1\]。小室は1stアルバム『[LOVE BRACE](../Page/LOVE_BRACE.md "wikilink")』を聴いたリスナーが違和感なく新鮮に聴けるような次のステージに進んだ楽曲制作を意識し、華原自身が好んでいた[マライア・キャリー](https://ja.wikipedia.org/wiki/マライア・キャリー "wikilink")のような高音も取り入れている。
   - [PVとメイキングが収められたシングル](../Page/ミュージック・ビデオ.md "wikilink")・ビデオは、[1996年](../Page/1996年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")に発売された。
-  - \[Original Mix\]を除いた、\[Deep Dark Mix\]と\[Lotte Remix\]の2ヴァージョンを収録した12インチの[アナログ盤](https://ja.wikipedia.org/wiki/アナログ盤 "wikilink")（非売品）が存在するが、万単位の高プレミアが付いている。華原の楽曲のなかでも、特にキーが高い楽曲である。
+  - \[Original Mix\]を除いた、\[Deep Dark Mix\]と\[Lotte Remix\]の2ヴァージョンを収録した12インチの[アナログ盤](https://ja.wikipedia.org/wiki/アナログ盤 "wikilink")（非売品）が存在するが、万単位の高プレミアが付いている。
 
 ## 収録曲
 

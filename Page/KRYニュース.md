@@ -34,6 +34,7 @@
 
 ## 外部リンク
 
-  - [KRYニュース](http://kry.jp/news/index.htm)
+  - [KRY山口放送 エリアニュース](http://kry.co.jp/news/index.html)
+  - [Yahoo\!ニュース KRY山口放送](https://news.yahoo.co.jp/media/kry)
 
 [Category:山口放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:山口放送のテレビ番組 "wikilink") [Category:山口放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:山口放送のラジオ番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組 "wikilink") [Category:ローカルラジオ局のニュース・報道番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のニュース・報道番組 "wikilink") [Category:読売新聞のニュース番組](https://ja.wikipedia.org/wiki/Category:読売新聞のニュース番組 "wikilink") [Category:中国新聞社](https://ja.wikipedia.org/wiki/Category:中国新聞社 "wikilink") [Category:NNN_JUST_NEWS](https://ja.wikipedia.org/wiki/Category:NNN_JUST_NEWS "wikilink") [Category:NNN6:30きょうのニュース](https://ja.wikipedia.org/wiki/Category:NNN6:30きょうのニュース "wikilink") [Category:NNNライブオンネットワーク](https://ja.wikipedia.org/wiki/Category:NNNライブオンネットワーク "wikilink") [Category:NNN昼のニュース](https://ja.wikipedia.org/wiki/Category:NNN昼のニュース "wikilink") [Category:NNN日曜夕刊](https://ja.wikipedia.org/wiki/Category:NNN日曜夕刊 "wikilink") [Category:NNNニュースダッシュ](https://ja.wikipedia.org/wiki/Category:NNNニュースダッシュ "wikilink") [Category:NNNストレイトニュース](https://ja.wikipedia.org/wiki/Category:NNNストレイトニュース "wikilink") [Category:NNNニュースプラス1](https://ja.wikipedia.org/wiki/Category:NNNニュースプラス1 "wikilink") [Category:NNN_Newsリアルタイム](https://ja.wikipedia.org/wiki/Category:NNN_Newsリアルタイム "wikilink") [Category:news_every.](https://ja.wikipedia.org/wiki/Category:news_every. "wikilink") [Category:ANNニュースライナー](https://ja.wikipedia.org/wiki/Category:ANNニュースライナー "wikilink") [Category:ヤン坊マー坊天気予報](https://ja.wikipedia.org/wiki/Category:ヤン坊マー坊天気予報 "wikilink")

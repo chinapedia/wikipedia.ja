@@ -3,7 +3,7 @@
 
 「**いつか何処かで (I FEEL THE ECHO)**」（いつかどこかで アイ・フィール・ジ・エコー）は、[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")の楽曲。自身の2作目の[シングル](../Page/シングル.md "wikilink")として、[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")から[8cmCDで](https://ja.wikipedia.org/wiki/8センチCD "wikilink")[1988年](../Page/1988年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")に発売された。
 
-[2001年](../Page/2001年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に12cmCDとして再発売されている。
+[2001年](../Page/2001年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に12cmCDとして再発売されている。[2016年](../Page/2016年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")にはダウンロード配信、[2019年](../Page/2019年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")にはストリーミング配信を開始した。
 
 ## 背景
 

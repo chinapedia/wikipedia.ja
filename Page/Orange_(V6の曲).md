@@ -11,8 +11,6 @@ V6のデビュー10周年記念シングルである。
 
 振付は現[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")/[三代目 J SOUL BROTHERS from EXILE TRIBEの](https://ja.wikipedia.org/wiki/三代目_J_SOUL_BROTHERS_from_EXILE_TRIBE "wikilink")[NAOTOが担当](https://ja.wikipedia.org/wiki/NAOTO_\(ダンサー\) "wikilink")。
 
-[坂本と](../Page/坂本昌行.md "wikilink")[岡田にソロパートが与えられている](../Page/岡田准一.md "wikilink")。
-
 ## 収録曲
 
 ### CD

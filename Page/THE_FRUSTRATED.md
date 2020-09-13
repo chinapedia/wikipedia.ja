@@ -27,7 +27,7 @@
       - 作詞：TAKURO　作曲：Kombinat-12　編曲：GLAY & 佐久間正英
     <!-- end list -->
       -
-        [2003年](../Page/2003年.md "wikilink")のアリーナ・ツアーのツアー・タイトルであり、その[ライヴにおいて先行](../Page/演奏会.md "wikilink")[演奏](../Page/演奏.md "wikilink")された曲。作曲は[HISASHI](../Page/HISASHI.md "wikilink")と[TAKURO](../Page/TAKURO.md "wikilink")の共作である。曲名は2007年から2008年にかけて行われたホールツアーのタイトルにもなった。歌詞は全英詞で歌詞カードには記載されておらず、「HIGHCOMMUNICATIONS\!」とだけ書かれている。
+        [2003年](../Page/2003年.md "wikilink")のアリーナ・ツアーのツアー・タイトルであり、その[ライヴにおいて先行](../Page/演奏会.md "wikilink")[演奏](../Page/演奏.md "wikilink")された曲。作曲は[HISASHI](../Page/HISASHI.md "wikilink")と[TAKURO](../Page/TAKURO.md "wikilink")の共作である。曲名は2007年から2008年にかけて行われたホールツアーのタイトルにもなり、以降も同曲名を冠したホールツアーが度々開催されている\[11\]。歌詞は全英詞で歌詞カードには記載されておらず、「HIGHCOMMUNICATIONS\!」とだけ書かれている。
         コンセプトアルバム『[rare collectives vol.4](https://ja.wikipedia.org/wiki/rare_collectives_vol.4 "wikilink")』にリミックスバージョンが収録されている。
 2.  **THE FRUSTRATED**
       - 作詞：TAKURO　作曲：Kombinat-12　編曲：GLAY & 佐久間正英
@@ -146,3 +146,4 @@
 8.
 9.  『Kansai Walker増刊号 GLAY EXPO Walker』「リリースヒストリーで辿るGLAY10年の道のり」(P62)より
 10. 『別冊カドカワ 総力特集GLAY』「GLAYの持つ普遍性」(P170～173)より
+11. 2011年から2012年、2016年内に2回、2017年に開催されている。

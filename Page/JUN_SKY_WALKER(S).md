@@ -99,7 +99,7 @@
 
 ドラム担当であった小林雅之『La.mamaの25周年、ELLの30周年の記念イベントがあるんだけど、そこにジュンスカで出ないか?』と、残りのメンバー3人に言い出したのが、再結成のきっかけとなった。小林は再結成の話をしに、宮田とファミレスで会ったが、小林は「事前に寺岡には承諾を得ている。宮田が快諾してくれれば、森にも話しするつもりだ」と宮田に提案し、宮田は「二人がOKならいい」と快諾した。再結成は当初、La.mamaのイベントのみで考えていたが、ライブ終了後に話が盛り上がり、また2008年がメジャーデビュー20周年ということもありツアーを敢行、それ以後も活動することとなった。
 
-なお、ベースをオリジナルメンバーである伊藤ではなく寺岡にしたのは、「伊藤ではダメ」ということでは無く、「全部このままで」、「ひとつ抱きしめて」、「歩いていこう」を作ったメンバーでやるのが、ファンにとってもいちばんいいだろうと思い、寺岡を選んだ。\[17\]
+また、ベースをオリジナルメンバーである伊藤ではなく寺岡にしたのは、「伊藤ではダメ」ということでは無く、「全部このままで」、「ひとつ抱きしめて」、「歩いていこう」を作ったメンバーでやるのが、ファンにとってもいちばんいいだろうと思い、寺岡を選んだ。\[17\] なお、伊藤はメジャーデビュー25周年、30周年の節目のライブにゲスト出演している。
 
 ## ディスコグラフィ
 
@@ -708,7 +708,7 @@ CDとして発表されたもののみ。
   -
   -
   -
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:ポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・ロック・バンド "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:トイズファクトリーのアーティスト](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのアーティスト "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink") [Category:1980年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1980年に結成した音楽グループ "wikilink") [Category:1997年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に解散した音楽グループ "wikilink") [Category:2007年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2007年に再結成した音楽グループ "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
+[Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のポップ・ロック・バンド "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:トイズファクトリーのアーティスト](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのアーティスト "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink") [Category:1980年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1980年に結成した音楽グループ "wikilink") [Category:1997年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に解散した音楽グループ "wikilink") [Category:2007年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2007年に再結成した音楽グループ "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
 
 1.  Golden Circle HPより
 2.  [TOUR 2012 “B(S)T”〜完全復活〜](http://junskywalkers.jp/information/index.php?e=114) - 公式サイト

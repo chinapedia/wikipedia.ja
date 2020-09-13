@@ -3,7 +3,7 @@
 
 「**愛の言霊 〜Spiritual Message〜**」（あいのことだま スピリチュアル・メッセージ）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の楽曲。自身の37作目の[シングル](../Page/シングル.md "wikilink")として、[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")から[8cmCDで](https://ja.wikipedia.org/wiki/8センチCD "wikilink")[1996年](../Page/1996年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink")に発売された。
 
-[2005年](../Page/2005年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")には12cmCDで再発売されている。
+[2005年](../Page/2005年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")には12cmCDで再発売されている。[2014年](../Page/2014年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")からはダウンロード配信、[2019年](../Page/2019年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")からはストリーミング配信が開始されている\[1\]\[2\]。
 
 ## 背景・リリース
 
@@ -13,7 +13,7 @@
 
 ## チャート成績
 
-本作は累計139.5万枚（オリコン調べ）を売り上げて、前作「あなただけを 〜Summer Heartbreak〜」に引き続き1位獲得、2作連続・通算4作目のミリオンを達成した\[1\]。ビクターエンタテインメントによる出荷枚数は累計155万枚を記録した\[2\]。
+本作は累計139.5万枚（オリコン調べ）を売り上げて、前作「あなただけを 〜Summer Heartbreak〜」に引き続き1位獲得、2作連続・通算4作目のミリオンを達成した\[3\]。ビクターエンタテインメントによる出荷枚数は累計155万枚を記録した\[4\]。
 
 ## 収録曲
 
@@ -24,7 +24,7 @@
 1.  **愛の<ruby><rb>言霊</rb><rp></rp><rt>ことだま</rt><rp></rp></ruby> 〜Spiritual Message〜** (5:39)
     （作詞・作曲：[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")　編曲：サザンオールスターズ　SAX SOLI編曲：[山本拓夫](../Page/山本拓夫.md "wikilink")）
       -
-        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[土曜グランド劇場](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink")『[透明人間](../Page/透明人間_\(テレビドラマ\).md "wikilink")』主題歌。[au](../Page/Au_\(携帯電話\).md "wikilink")『[LISTEN MOBILE SERVICE](../Page/LISMO.md "wikilink")』キャンペーンソング\[3\]。
+        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[土曜グランド劇場](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink")『[透明人間](../Page/透明人間_\(テレビドラマ\).md "wikilink")』主題歌。[au](../Page/Au_\(携帯電話\).md "wikilink")『[LISTEN MOBILE SERVICE](../Page/LISMO.md "wikilink")』キャンペーンソング\[5\]。
         また、本作が収録されているアルバム『[Young Love](../Page/Young_Love.md "wikilink")』の[CMソングでも使用されている](../Page/コマーシャルソング.md "wikilink")。
         歌詞には、[英語](../Page/英語.md "wikilink")・[日本語](../Page/日本語.md "wikilink")を用いた言葉遊びが多く用いられているほか、間奏時には[インドネシア語](../Page/インドネシア語.md "wikilink")も用いられている。ただしこの部分は桑田の声ではなく、[梅田英春](https://ja.wikipedia.org/wiki/梅田英春 "wikilink")による。また、桑田による造語も多く含まれている。[ラップ](../Page/ラップ.md "wikilink")部分の「T.C.」（魂の意）、「MESSAGE FROM T.C.」（言霊の意）「COME-A COOL RAP」（「[カマクラ](../Page/鎌倉市.md "wikilink")」を英語のように言い換えたもの）など。
         [2003年](../Page/2003年.md "wikilink")に放送された桑田のレギュラー番組である[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[桑田佳祐の音楽寅さん 〜MUSIC TIGER〜 サザンオールスターズスペシャル](https://ja.wikipedia.org/wiki/桑田佳祐の音楽寅さん_〜MUSIC_TIGER〜#桑田佳祐の音楽寅さん_〜MUSIC_TIGER〜_サザンオールスターズスペシャル "wikilink")」で披露したもの（披露場所は[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[鎌倉市](../Page/鎌倉市.md "wikilink")にある[建長寺](../Page/建長寺.md "wikilink")）がミュージックビデオではないが、[2004年](../Page/2004年.md "wikilink")に発売したPV集『[ベストヒットUSAS (Ultra Southern All Stars)](../Page/ベストヒットUSAS_\(Ultra_Southern_All_Stars\).md "wikilink")』に収録されている。
@@ -80,6 +80,8 @@
 
 [Category:サザンオールスターズの楽曲](https://ja.wikipedia.org/wiki/Category:サザンオールスターズの楽曲 "wikilink") [Category:桑田佳祐が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐が制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:1996年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:日本テレビ土曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビ土曜ドラマの主題歌 "wikilink") [Category:au_LISTEN_MOBILE_SERVICEのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:au_LISTEN_MOBILE_SERVICEのコマーシャルソング "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
 
-1.  [【オリコン】サザンオールスターズ 売上別TOP10＆主な記録](http://www.oricon.co.jp/news/54526/full/) オリコン 2015年1月22日閲覧。
-2.  「新曲『TSUNAMI』発売1週間で65万枚 サザン22年目の自己新\!\!」『[スポーツニッポン](../Page/スポーツニッポン.md "wikilink")』2000年2月4日付、25面。
-3.  2008年に使用
+1.  [サザン、全266曲を世界111ヶ国で配信](https://www.oricon.co.jp/news/2046030/full/) オリコン 2014年12月17日配信, 2020年6月4日閲覧
+2.  [サザン関連全972曲 サブスク一斉解禁 メンバーソロ曲も対象に](https://www.oricon.co.jp/news/2151435/full/) オリコン 2019年12月20日配信, 2019年12月20日閲覧
+3.  [【オリコン】サザンオールスターズ 売上別TOP10＆主な記録](http://www.oricon.co.jp/news/54526/full/) オリコン 2015年1月22日閲覧。
+4.  「新曲『TSUNAMI』発売1週間で65万枚 サザン22年目の自己新\!\!」『[スポーツニッポン](../Page/スポーツニッポン.md "wikilink")』2000年2月4日付、25面。
+5.  2008年に使用

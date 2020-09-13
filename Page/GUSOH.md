@@ -7,11 +7,11 @@
 
 ## 概要
 
-元は[戦闘機](../Page/戦闘機.md "wikilink")用の燃料、次世代エネルギーとして開発されたものであり、普段は無色無臭の[液体](../Page/液体.md "wikilink")だが、[酸素](../Page/酸素.md "wikilink")と結合し、一瞬で気化する。発生した[VXガス](../Page/VXガス.md "wikilink")の50倍の毒性を持つ[神経ガス](../Page/神経ガス.md "wikilink")が皮膚に浸透し、[神経](https://ja.wikipedia.org/wiki/神経 "wikilink")と[筋肉](../Page/筋肉.md "wikilink")を繋ぐ伝達物質を破壊し、筋肉の麻痺・硬直によって、窒息死させる。[致死量](../Page/致死量.md "wikilink")は30mgで、たったの1リットルで、[東京](../Page/東京.md "wikilink")を全滅させる。
+元々は[石油](https://ja.wikipedia.org/wiki/石油 "wikilink")に代わる次世代エネルギーとして開発されたもので、普段は無色無臭の[液体](../Page/液体.md "wikilink")だが、[酸素](../Page/酸素.md "wikilink")と結合することで一瞬で気化する（そのスピードから、『亡国のイージス』では実験映像を見た日本政府高官が[ニトロ](https://ja.wikipedia.org/wiki/ニトロ "wikilink")に例えている）。気化により発生した[神経ガス](../Page/神経ガス.md "wikilink")は[VXガス](../Page/VXガス.md "wikilink")の50倍の毒性を有しており、生物の皮膚に浸透した後、[神経](https://ja.wikipedia.org/wiki/神経 "wikilink")と[筋肉](../Page/筋肉.md "wikilink")を繋ぐ伝達物質を破壊し、筋肉を麻痺・硬直させ、最終的に窒息死させる。[致死量](../Page/致死量.md "wikilink")は30mgであり、『亡国のイージス』ではたったの1リットルで、[東京](../Page/東京.md "wikilink")を全滅させる程の威力を発揮するとされた。
 
-液体そのものは、[中和](https://ja.wikipedia.org/wiki/中和 "wikilink")剤により[イソプロパノール](https://ja.wikipedia.org/wiki/イソプロパノール "wikilink")と[ポリマー](https://ja.wikipedia.org/wiki/ポリマー "wikilink")に分解できる。しかし、発生したガスは、自然分解で人体に影響のないレベルまで毒性を緩和させるまで、[酸性](https://ja.wikipedia.org/wiki/酸性 "wikilink")条件下で約110時間、[アルカリ](../Page/アルカリ.md "wikilink")条件下で約103時間もかかる。そのため、流出した場合は6,000度の熱を発生させる[テルミット・プラス](https://ja.wikipedia.org/wiki/テルミット・プラス "wikilink")による焼却法が用いられる。
+液体そのものは、[中和](https://ja.wikipedia.org/wiki/中和 "wikilink")剤により[イソプロパノール](https://ja.wikipedia.org/wiki/イソプロパノール "wikilink")と[ポリマー](https://ja.wikipedia.org/wiki/ポリマー "wikilink")に分解できるが、発生したガスは、自然分解によって人体に影響のないレベルまで毒性を緩和させるまでは、[酸性](https://ja.wikipedia.org/wiki/酸性 "wikilink")条件下で約110時間、[アルカリ](../Page/アルカリ.md "wikilink")条件下で約103時間かかる。そのため、流出した場合は6,000度の熱を発生させる[テルミット・プラス](https://ja.wikipedia.org/wiki/テルミット・プラス "wikilink")か、それが無い場合は[核兵器](https://ja.wikipedia.org/wiki/核兵器 "wikilink")による焼却法が用いられる。
 
-一度[沖縄のアメリカ海兵隊](../Page/沖縄県.md "wikilink")[辺野古基地地下で漏出したが](../Page/辺野古弾薬庫.md "wikilink")、T・プラスにより基地ごと焼却され、外部には爆発事故として処理された（辺野古ディストラクション）（『Twelve Y. O.』）。その後、試料が[嘉手納基地からの輸送中に](../Page/嘉手納飛行場.md "wikilink")[北朝鮮の対日工作員](../Page/朝鮮民主主義人民共和国.md "wikilink")、ホ・ヨンファ率いる[テロリスト](https://ja.wikipedia.org/wiki/テロリスト "wikilink")グループにより強奪され、[日本政府](https://ja.wikipedia.org/wiki/日本政府 "wikilink")を脅迫するために使われた（『亡国のイージス』）。
+一度[沖縄のアメリカ海兵隊](../Page/沖縄県.md "wikilink")[辺野古弾薬庫](../Page/辺野古弾薬庫.md "wikilink")地下研究施設で漏出したが、テルミット・プラスにより基地ごと焼却され、外部には爆発事故として処理された（辺野古ディストラクション）（『Twelve Y. O.』）。その後、試料が[嘉手納基地からの輸送中に](../Page/嘉手納飛行場.md "wikilink")[北朝鮮の対日工作員](../Page/朝鮮民主主義人民共和国.md "wikilink")、ホ・ヨンファ率いる[テロリスト](https://ja.wikipedia.org/wiki/テロリスト "wikilink")グループにより強奪され、[日本政府](https://ja.wikipedia.org/wiki/日本政府 "wikilink")を脅迫するために使われた（『亡国のイージス』）。
 
 その数千年後となる『月に繭 地には果実』においては、[マウンテンサイクル](https://ja.wikipedia.org/wiki/マウンテンサイクル "wikilink")から[VXガス](../Page/VXガス.md "wikilink")とともに出土している。
 

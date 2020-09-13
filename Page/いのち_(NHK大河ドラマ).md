@@ -11,7 +11,7 @@
 
 歴史的人物・事件を主要な題材とする大河ドラマとしてはかなりの異色作で、当時の資料映像を除き、話を進行させる名前のある登場人物は全員架空の唯一の大河作品であり、実在の人物の名前が出たのはナレーションや登場人物の台詞でも[マッカーサー](../Page/ダグラス・マッカーサー.md "wikilink")、[池田勇人](../Page/池田勇人.md "wikilink")（内閣総理大臣）などごくわずかである。しかし[農地改革](../Page/農地改革.md "wikilink")とこれに伴う地主の没落、[高度経済成長](../Page/高度経済成長.md "wikilink")下の農村、[集団就職](../Page/集団就職.md "wikilink")、[オイルショック](../Page/オイルショック.md "wikilink")、核家族化など昭和20-50年代の社会的事象や事件は多数描かれており、史実と無関係のドラマではない。
 
-配役としては映画『[Wの悲劇](https://ja.wikipedia.org/wiki/Wの悲劇_\(映画\) "wikilink")』などで、当時注目されていたベテラン女優の[三田佳子](../Page/三田佳子.md "wikilink")が橋田の希望で主演に迎えた。その他についても、庶民派大河を意識した地味なキャスティングとなった。制作費の面では、例年に比べて出演者が少なく、過去の局資産も流用できるため、思い切って本建築の高原家セットを組むなど、バランスのとれた予算配分となった。
+配役としては映画『[Wの悲劇](https://ja.wikipedia.org/wiki/Wの悲劇_\(映画\) "wikilink")』などで、当時注目されていたベテラン女優の[三田佳子](../Page/三田佳子.md "wikilink")を橋田の希望で主演に迎えた。その他についても、庶民派大河を意識した地味なキャスティングとなった。制作費の面では、例年に比べて出演者が少なく、過去の局資産も流用できるため、思い切って本建築の高原家セットを組むなど、バランスのとれた予算配分となった。
 
 オープニング映像は[水晶玉](../Page/水晶玉.md "wikilink")に光をあて光がうねるような描写と燃え盛る[炎](../Page/炎.md "wikilink")が交互に現れるという、物語を象徴するような激しくも幻想的な作りとなっている。そのバックには、ドラマ中の重要なシンボルである[岩木山](../Page/岩木山.md "wikilink")の眺望が[かげろう](../Page/かげろう.md "wikilink")のように浮かび上がる。
 
@@ -224,7 +224,7 @@
   - 演奏：[新室内楽協会](../Page/新音楽協会.md "wikilink")（現・新音楽協会）
   - テーマ音楽演奏：[NHK交響楽団](../Page/NHK交響楽団.md "wikilink")（ピアノ・[本荘玲子](../Page/本荘玲子.md "wikilink")、ヴァイオリン・[堀正文](../Page/堀正文.md "wikilink")）
   - テーマ音楽指揮：[小松一彦](https://ja.wikipedia.org/wiki/小松一彦 "wikilink")
-  - 監修：[小木新造](https://ja.wikipedia.org/wiki/小木新造 "wikilink")、[小舘衷三](https://ja.wikipedia.org/wiki/小舘衷三 "wikilink")
+  - 監修：[小木新造](../Page/小木新造.md "wikilink")、[小舘衷三](https://ja.wikipedia.org/wiki/小舘衷三 "wikilink")
   - 医事監修：[行天良雄](https://ja.wikipedia.org/wiki/行天良雄 "wikilink")、[白石幸治郎](https://ja.wikipedia.org/wiki/白石幸治郎 "wikilink")
   - 衣装考証：[小泉清子](../Page/小泉清子.md "wikilink")、[鈴木紀男](https://ja.wikipedia.org/wiki/鈴木紀男 "wikilink")
   - 方言指導：[津島康一](https://ja.wikipedia.org/wiki/津島康一 "wikilink")、[相沢ケイコ](https://ja.wikipedia.org/wiki/相沢ケイコ "wikilink")

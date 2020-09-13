@@ -64,10 +64,12 @@
 | [2002](../Page/2002年.md "wikilink").04 | 2008.09                                   |
 | 2008.09                                | 2014.03                                   |
 | 2014.04                                | 2016.03                                   |
-| 2016.04                                | 現在                                        |
+| 2016.04                                | 2020.03                                   |
 
 ## 外部リンク
 
   - [シャキッとi](https://www.rbc.co.jp/radio_program/syaki/)
 
+  -
+  -
 [Category:琉球放送のラジオ帯番組](https://ja.wikipedia.org/wiki/Category:琉球放送のラジオ帯番組 "wikilink") [Category:2002年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のラジオ番組_\(日本\) "wikilink") [Category:ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ラジオの情報・ワイドショー番組 "wikilink")

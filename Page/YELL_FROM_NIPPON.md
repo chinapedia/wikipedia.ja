@@ -5,14 +5,13 @@
 
 ## 作品
 
-シングル「友情のエール」[2006年](../Page/2006年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")（[Victor Sweetsterレーベル](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）
+シングル『友情のエール』2006年5月31日（[Victor Sweetsterレーベル](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）
 
-  -
-    作詞：[浜崎貴司](../Page/浜崎貴司.md "wikilink")
-    作曲：浜崎貴司、[本間昭光](../Page/本間昭光.md "wikilink")
-    編曲：本間昭光
-    音楽プロデュース：浜崎貴司、本間昭光
-    ジャケットデザイン：[日比野克彦](../Page/日比野克彦.md "wikilink")
+  - 作詞：[浜崎貴司](../Page/浜崎貴司.md "wikilink")
+  - 作曲：浜崎貴司、[本間昭光](../Page/本間昭光.md "wikilink")
+  - 編曲：本間昭光
+  - 音楽プロデュース：浜崎貴司、本間昭光
+  - ジャケットデザイン：[日比野克彦](../Page/日比野克彦.md "wikilink")
 
 ## 参加アーティスト
 
@@ -30,7 +29,7 @@
   - [松本素生](../Page/松本素生.md "wikilink")、[中澤寛規](https://ja.wikipedia.org/wiki/中澤寛規 "wikilink")（[GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink")）
   - [斉藤和義](../Page/斉藤和義.md "wikilink")
   - [坂井真紀](https://ja.wikipedia.org/wiki/坂井真紀 "wikilink")
-  - [崎山龍男](../Page/崎山龍男.md "wikilink")（[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")）
+  - [﨑山龍男](https://ja.wikipedia.org/wiki/﨑山龍男 "wikilink")（[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")）
   - [佐藤タイジ](../Page/佐藤タイジ.md "wikilink")（[THEATRE BROOK](../Page/THEATRE_BROOK.md "wikilink")）
   - [佐野史郎](../Page/佐野史郎.md "wikilink")
   - [椎名純平](../Page/椎名純平.md "wikilink")
@@ -53,7 +52,7 @@
 
 ## 楽器などの担当
 
-  - Drums：崎山龍男（スピッツ）
+  - Drums：﨑山龍男（スピッツ）
   - Bass：前田啓介（レミオロメン）
   - Electric Guitar：佐藤タイジ（THEATRE BROOK）
   - Acostic Guitar：佐野史郎・浜崎貴司

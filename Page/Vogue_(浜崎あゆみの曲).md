@@ -7,7 +7,7 @@
 
 シングルとしては前作「[Fly high](../Page/Fly_high_\(浜崎あゆみの曲\).md "wikilink")」より、約2か月半振りのシングル。
 
-[オリコン週間シングルチャートでは初登場](../Page/オリコンチャート.md "wikilink")3位ながら、累計76.8万枚を売り上げるヒットとなった\[2\]。（1位は[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")「[桜坂](../Page/桜坂_\(福山雅治の曲\).md "wikilink")」、2位は[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")「[Secret of my heart](../Page/Secret_of_my_heart.md "wikilink")」であった）
+[オリコン週間シングルチャートでは最高位](../Page/オリコンチャート.md "wikilink")3位ながら、累計76.8万枚を売り上げ、自身8番目の売上となっている\[2\]。(初登場3位であり、1位は同時発売日の[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")「[桜坂](../Page/桜坂_\(福山雅治の曲\).md "wikilink")」、2位は[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")「[Secret of my heart](../Page/Secret_of_my_heart.md "wikilink")」であった。）
 
 僅か半年前に本人出演していた[花王](../Page/花王.md "wikilink")「AUBE」CMの契約満期直後、ライバル社となる[コーセー](../Page/コーセー.md "wikilink")「VISSE」の新キャラクターに起用され話題に。プロモーションで謳った通称"あゆグロス"は3ヶ月の目標売上を僅か2日で売上げ、歌手デビューから丸2年にして女子高生を中心にファッションアイコンとしての地位を急速に高めていった。
 
@@ -15,7 +15,9 @@
 
 カップリングの「ever free」は、本作付属の歌詞カードには歌詞が掲載されていない（ライブDVD『[ayumi hamasaki concert tour 2000 A 第2幕](https://ja.wikipedia.org/wiki/ayumi_hamasaki_concert_tour_2000_A_第2幕 "wikilink")』には掲載されている）。
 
-2000年[7月12日](../Page/7月12日.md "wikilink")には、3部作のミュージック・ビデオなどを収めた「[Vogue Far away SEASONS](https://ja.wikipedia.org/wiki/Vogue_Far_away_SEASONS "wikilink")」が発売された。
+2000年[7月12日](../Page/7月12日.md "wikilink")には、3部作のミュージック・ビデオなどを収めた「[Vogue Far away SEASONS](https://ja.wikipedia.org/wiki/Vogue_Far_away_SEASONS "wikilink")」が発売された
+
+ジャケットは本作、次作、次々作 と、だんだんと小さくなる。
 
 ## 収録曲
 
@@ -27,15 +29,27 @@
       -
         [作曲](../Page/作曲.md "wikilink")：[Kazuhito Kikuchi](../Page/菊池一仁.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[Naoto Suzuki](https://ja.wikipedia.org/wiki/鈴木直人_\(音楽プロデューサー\) "wikilink")、Kazuhito Kikuchi
         [コーセー](../Page/コーセー.md "wikilink")「VISEE（ヴィセ）」[CMソング](../Page/コマーシャルソング.md "wikilink")
-2.  **vogue "[HΛL](../Page/HΛL.md "wikilink")'s MIX 2000"**
+2.  **vogue "HΛL's MIX 2000"**
+      -
+        Remixed by [HΛL](../Page/HΛL.md "wikilink")
 3.  **[too late](../Page/A_\(シングル\).md "wikilink") "Soul Solution Remix -Extended Vox-"**
       -
-        [本田技研工業](../Page/本田技研工業.md "wikilink")「[ジョルノクレア](../Page/ホンダ・ジョルノクレア.md "wikilink")」CMソング
+        Remixed by Soul Solution
 4.  **vogue "Dub's mellowtech Remix"**
+      -
+        Remixed by [Izumi "DMX" Miyazaki](https://ja.wikipedia.org/wiki/Dub_Master_X "wikilink")
 5.  **vogue "Groove That Soul Mix"**
+      -
+        Remixed by Satoshi Hidaka from [GTS](../Page/GTS_\(DJグループ\).md "wikilink")
 6.  **vogue "400BPM Fatback Mix"**
+      -
+        Remixed by [Miki Watanabe](../Page/渡辺未来.md "wikilink")
 7.  **[WHATEVER](../Page/WHATEVER_\(浜崎あゆみの曲\).md "wikilink") "FPM's WINTER BOSSA"**
+      -
+        Remixed by Tomoyuki Tanaka ([Fantastic Plastic Machine](../Page/Fantastic_Plastic_Machine.md "wikilink"))
 8.  **vogue "pandart sasanoooha Mix"**
+      -
+        Remixed by pandart sasanooha
 9.  **vogue "Original Mix -Instrumental-"**
 10. **ever free**
       -

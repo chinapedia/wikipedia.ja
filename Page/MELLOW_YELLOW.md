@@ -89,6 +89,8 @@
 
   - [FILE RECORDS アーティスト公式ページ](http://filerecords.com/release/filerecords/mellow-yellow/)
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink")
+[カテゴリ:3人組の音楽グループ](https://ja.wikipedia.org/wiki/カテゴリ:3人組の音楽グループ "wikilink")
+
+[Category:日本の男性歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の男性歌手グループ "wikilink") [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink")
 
 1.  [FILE RECORDS アーティスト公式ページ](http://filerecords.com/release/filerecords/mellow-yellow/)

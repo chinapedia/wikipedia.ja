@@ -118,6 +118,10 @@
 
 ## 脚注
 
+## 外部リンク
+
+  - [東京NEWS - 東京メトロポリタンテレビジョン](https://web.archive.org/web/19981201054437/http://www.mxtv.co.jp/news/new-main.htm)1998年12月1日分の[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")
+
 [Category:1995年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1995年のテレビ番組_\(日本\) "wikilink") [Category:TOKYO_MXの番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_MXの番組の歴史 "wikilink") [Category:TOKYO_MXの帯番組](https://ja.wikipedia.org/wiki/Category:TOKYO_MXの帯番組 "wikilink") [Category:関東・甲信越地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのニュース・報道番組の歴史 "wikilink")
 
 1.  フルCGは18:00版には冒頭の項目読みがなく22:00と2:00にはあった。またその他は天カメ映像にテロップを載せる方式だが、普通にタイトルが出るものと、気球がタイトル文字にタッチした後MXTVのロゴマークに変わるものとの2種類あった。

@@ -5,7 +5,7 @@
 
 ## 概要
 
-2005年結成。以前からそれぞれ独自に音楽活動をしていたメンバーを、ボーカルの真緒とベースの亜季の2人が中心となって結成した\[1\]。「サディ」というバンド名の由来は、結成当時の真緒の心境がかなり落ちていた時期で、その**悲しみ=SAD**からきている。サウンド面では[ハードコア](https://ja.wikipedia.org/wiki/ハードコアパンク "wikilink")、[デスメタル](../Page/デスメタル.md "wikilink")といった**メタルコア**を中心としている。また、ファンクラブとして「**UNDEAD**」がある。2015年9月21日のZEPP TOKYO公演を最後に活動を休止している。
+2005年結成。以前からそれぞれ独自に音楽活動をしていたメンバーを、ボーカルの真緒とベースの亜季の2人が中心となって結成した\[1\]。「サディ」というバンド名の由来は、結成当時の真緒の心境がかなり落ちていた時期で、その**悲しみ=SAD**からきている。サウンド面では[ハードコアや](https://ja.wikipedia.org/wiki/ハードコアパンク "wikilink")**メタルコア**を中心としている。また、ファンクラブとして「**UNDEAD**」がある。2015年9月21日のZEPP TOKYO公演を最後に活動を休止している。
 
 ## メンバー
 
@@ -16,16 +16,14 @@
 <tr class="header">
 <th><p>人名</p></th>
 <th><p>演奏担当</p></th>
-<th><p>制作</p></th>
 <th><p>その他</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p><strong>真緒</strong><br />
-<small>(まお）</small></p></td>
+<small>(まお)</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">Voice.</a></p></td>
-<td></td>
 <td><p><small></p>
 <ul>
 <li>6月7日生、O型。</li>
@@ -37,53 +35,52 @@
 </tr>
 <tr class="even">
 <td><p><strong>剣</strong><br />
-<small>（つるぎ）</small></p></td>
+<small>(つるぎ)</small></p></td>
 <td><p><a href="../Page/ギター.md" title="wikilink">Gt.</a></p></td>
-<td></td>
 <td><p><small></p>
 <ul>
 <li>4月2日生、AB型。</li>
 <li><a href="../Page/滋賀県.md" title="wikilink">滋賀県</a>出身。</li>
 <li>ギタリストとして<a href="../Page/LUNA_SEA.md" title="wikilink">LUNA SEAの</a><a href="../Page/SUGIZO.md" title="wikilink">SUGIZO</a>と<a href="../Page/INORAN.md" title="wikilink">INORAN</a>、<a href="https://ja.wikipedia.org/wiki/PIERROT" title="wikilink">PIERROT</a>の<a href="../Page/Aiji.md" title="wikilink">アイジと</a><a href="../Page/潤.md" title="wikilink">潤</a>、<a href="../Page/Laputa.md" title="wikilink">Laputa</a>の<a href="../Page/Kouichi.md" title="wikilink">Kouichi</a>へのリスペクトを表明している[2]。</li>
 <li>2010年同じ滋賀県出身の<a href="../Page/T.M.Revolution.md" title="wikilink">T.M.Revolution</a>のサポートメンバーを務める。</li>
-<li><a href="https://ja.wikipedia.org/wiki/REIGN" title="wikilink">REIGN</a>郁磨（Vo.）の動画コンテンツ「悪魔的教育講座」の宇宙編・特別篇に出演している。</small></li>
-<li><small>楽曲メインコンポーザー</small></li>
-<li><small>活動休止後<a href="https://ja.wikipedia.org/wiki/RAZOR" title="wikilink">RAZOR</a>を結成する（2016年）。</small></li>
+<li><a href="https://ja.wikipedia.org/wiki/REIGN" title="wikilink">REIGN</a>郁磨（Vo.）の動画コンテンツ「悪魔的教育講座」の宇宙編・特別篇に出演している。</li>
+<li>楽曲メインコンポーザー</li>
+<li>活動休止後<a href="https://ja.wikipedia.org/wiki/RAZOR" title="wikilink">RAZOR</a>を結成する（2016年）。</small></li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p><strong>美月</strong><br />
-<small>（みづき）</small></p></td>
+<small>(みづき)</small></p></td>
 <td><p>Gt.</p></td>
-<td></td>
 <td><p><small></p>
 <ul>
-<li>1984年1月8日生、B型。</li>
-<li>滋賀県出身。</li>
-<li>2009年よりムックの逹瑯と共にカラスというセッションに参加し、2009年12月27日には日本武道館にてLIVEを行う。</li>
-<li><a href="../Page/ナイトメア_(バンド).md" title="wikilink">ナイトメアの</a><a href="../Page/柩_(ミュージシャン).md" title="wikilink">柩によるプロジェクト</a><a href="https://ja.wikipedia.org/wiki/GREMLINS" title="wikilink">GREMLINS</a>にてギターを担当している。</li>
-<li>かつてはVo.真緒と住んでいた経歴がある。</li>
-<li>活動休止後The THIRTEENを結成する。</li>
-</ul>
-<p></small></p></td>
+<li>1月8日生、B型。</li>
+<li><a href="../Page/滋賀県.md" title="wikilink">滋賀県</a>出身。</li>
+<li>2009年より<a href="../Page/MUCC.md" title="wikilink">ムックの</a><a href="https://ja.wikipedia.org/wiki/逹瑯" title="wikilink">逹瑯</a>と共に<a href="https://ja.wikipedia.org/wiki/カラス_(バンド)" title="wikilink">カラスというセッションに参加</a>。2009年12月27日には日本武道館にてLIVEを行う。</li>
+<li>2010年同じ滋賀県出身の<a href="../Page/T.M.Revolution.md" title="wikilink">T.M.Revolution</a>のサポートメンバーを務める。</li>
+<li><a href="../Page/ナイトメア_(バンド).md" title="wikilink">ナイトメアの</a><a href="../Page/柩_(ミュージシャン).md" title="wikilink">柩のプロジェクト</a><a href="https://ja.wikipedia.org/wiki/GREMLINS" title="wikilink">GREMLINS</a>にてギターを担当している。</li>
+<li>かつては真緒と住んでいた経歴がある。</li>
+<li><a href="../Page/SuG.md" title="wikilink">SuG</a>のベース<a href="../Page/CHIYU.md" title="wikilink">Chiyuの家に</a>“明日泊めて”といいそのまま半年以上居座った経歴がある。</li>
+<li>交友関係がとても広く<a href="../Page/Sadie_(バンド).md" title="wikilink">Sadieの自分は窓口であると語っている</a>。</small></li>
+</ul></td>
 </tr>
 <tr class="even">
 <td><p><em>' 亜季</em>'<br />
-<small>（あき）</small></p></td>
+<small>(あき)</small></p></td>
 <td><p><a href="../Page/ベース_(弦楽器).md" title="wikilink">Ba.</a></p></td>
-<td></td>
 <td><p><small></p>
 <ul>
 <li>3月25日生、A型。</li>
 <li><a href="../Page/大阪府.md" title="wikilink">大阪府</a>出身。</li>
 <li>大阪の有名進学校を卒業したが、夢を追いかけ大学には進学しなかった。</li>
-</ul></td>
+<li>活動停止後、2018年に<a href="../Page/SOPHIA.md" title="wikilink">SOPHIA</a>の赤松芳朋、<a href="https://ja.wikipedia.org/wiki/cune" title="wikilink">cune</a>の生熊耕治と共にバンド「BLUEVINE」を結成している[3]。</li>
+</ul>
+<p></small></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>景</strong><br />
-<small>（けい）</small></p></td>
+<small>(けい)</small></p></td>
 <td><p><a href="../Page/ドラムセット.md" title="wikilink">Dr.</a></p></td>
-<td></td>
 <td><p><small></p>
 <ul>
 <li>11月30日生、AB型。</li>
@@ -107,9 +104,8 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>空</strong><br />
-<small>（そら）</small></p></td>
+<small>(そら)</small></p></td>
 <td><p>Dr.</p></td>
-<td></td>
 <td><p><small></p>
 <ul>
 <li>B型</li>
@@ -117,6 +113,7 @@
 <li>2006年1月に家庭の事情で脱退する。</li>
 <li>1999年〜2001年まで、<a href="../Page/DAS:VASSER.md" title="wikilink">DAS:VASSER</a>のローディをしていた。</small></li>
 </ul></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -758,3 +755,4 @@ MRS-0061</p></td>
 
 1.  『FOOL'S MATE』2006年2月号より。
 2.
+3.

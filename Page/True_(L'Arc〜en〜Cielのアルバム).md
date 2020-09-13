@@ -37,6 +37,7 @@
         kenは「こういうビートだったら売れるだろう\[11\]」と述べており、当時セールスを意識して制作した楽曲となっている。tetsuya曰く、仮で録ったベースが採用されており、この曲ではベース本体のトレブルを絞って演奏している\[12\]。また、tetsuyaは発売当時のインタビューで思い入れのある曲でこの曲を挙げている。
         アルバム発売から約10年後の[2006年](../Page/2006年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")に放送された[テレビ朝日](../Page/テレビ朝日.md "wikilink")系番組『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』でTV初披露された。
         ベストアルバム『[The Best of L'Arc〜en〜Ciel 1994-1998](../Page/The_Best_of_L'Arc〜en〜Ciel.md "wikilink")』、『[TWENITY 1991-1996](https://ja.wikipedia.org/wiki/TWENITY "wikilink")』には、イントロに前曲「Fare Well」のアウトロが被っていないミックスの異なるバージョンで収録されている。
+        また、ロックバンド、[Hemenway](https://ja.wikipedia.org/wiki/Hemenway "wikilink")によるこの楽曲のカバーがトリビュート・アルバム『[L'Arc〜en〜Ciel Tribute](https://ja.wikipedia.org/wiki/L'Arc〜en〜Ciel_Tribute "wikilink")』に収録されている。
 3.  **Round and Round**
       - 作詞・作曲:hyde / 編曲:L'Arc〜en〜Ciel & Takeyuki Hatano
     <!-- end list -->
@@ -50,15 +51,16 @@
       - 作詞・作曲:hyde / 編曲:L'Arc〜en〜Ciel & [Takao Konishi](../Page/小西貴雄.md "wikilink")
     <!-- end list -->
       -
-        5thシングル。ベストアルバム『[Clicked Singles Best 13](../Page/Clicked_Singles_Best_13.md "wikilink")』の収録曲を決める投票で1位に輝いた曲。
-        また、2006年に行われたライブ「[15th L'Anniversary Live](../Page/15th_L'Anniversary_Live.md "wikilink")」の演奏曲目リクエスト投票で「the Fourth Avenue Café」に次いで2位を記録した。
+        5thシングル。sakura在籍時のL'Arc〜en〜Cielとしては最大の売上を記録したヒット曲。
+        楽曲はスウェーデンポップスを思わせる軽快な曲\[14\]だが、hyde自身は自分の好みの楽曲ではなく、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")のインタビューにおいて「時代を俯瞰で見て、今だったらこういう曲を作れば売れるだろうと狙って作った曲\[15\]」「自分のなかではちょっと不思議な存在の曲ですね。自分の価値観とはちょっと違う\[16\]」とコメントしていた。ただ、[2019年](../Page/2019年.md "wikilink")にhydeがソロ名義で開催したアコースティックライブツアー「HYDE ACOUSTIC CONCERT 2019 黒ミサ BIRTHDAY TOKYO」でこの曲を披露した際に、「僕はあまり好きな曲ではなかったんですけど、最近大好きになりました\[17\]」と述べている。
+        ファンからの人気は非常に高い楽曲で、ベストアルバム『[Clicked Singles Best 13](../Page/Clicked_Singles_Best_13.md "wikilink")』発売にあたり、収録曲を決めるファン投票で1位に輝いている。また、2006年に行われたライブ「[15th L'Anniversary Live](../Page/15th_L'Anniversary_Live.md "wikilink")」の演奏曲目リクエスト投票でも「the Fourth Avenue Café」に次ぐ2位という高順位を記録している。
 5.  **"good-morning Hide"**
       - 作詞:[sakura](https://ja.wikipedia.org/wiki/sakura_\(ドラマー\) "wikilink") / 作曲:hyde / 英語訳詞:Atsuko Numazaki & Chieko Nakayama / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
-        sakuraが作詞した唯一の曲であり、L'Arc〜en〜Cielとして初の全英語詞曲でもある。タイトルの「Hide」の読みは「ハイド」で様々な意味を包含しており、sakura曰く「"隠す"とか"隠れた"とかこの言葉自体に凄くいっぱい意味がある」「他にも"餓鬼みたいに痩せ細った人"とか"ジキルとハイド"とかもある」という\[14\]。普段のsakuraの言動に興味を示していたhydeが作詞を薦めたといい、「"sakuraの思う疑問"を何でもいいから書いてくれないか」というリクエストがあったという。
-        また、歌詞のテーマについてsakuraは「テーマはあるんだけど言いたくない」「歌詞には登場人物が3人出てるくんだけど、"僕"、"君"、"彼等"、それが何のことなのかイメージは任せる」と述べている\[15\]。ブックレットには日本語訳も付記されている。
-        楽曲は80年代後半のブリティッシュ・ロックをイメージしており、編曲を務めた岡野ハジメは「ギターはイギリスの[ゴスや](../Page/ゴシック・ロック.md "wikilink")[ニュー・ウェイヴの感じにしようと話し合った](../Page/ニュー・ウェイヴ_\(音楽\).md "wikilink")」「そういうことができる日本のバンドは少なかったので、ラルクのメンバーはマニアックなものも受け入れてくれるんだ、これは嬉しいと思った」と述べている\[16\]。
+        sakuraが作詞した唯一の曲であり、L'Arc〜en〜Cielとして初の全英語詞曲でもある。タイトルの「Hide」の読みは「ハイド」で様々な意味を包含しており、sakura曰く「"隠す"とか"隠れた"とかこの言葉自体に凄くいっぱい意味がある」「他にも"[餓鬼みたいに痩せ細った人](https://ja.wikipedia.org/wiki/hyde "wikilink")"とか"[ジキルとハイド](https://ja.wikipedia.org/wiki/ジキル博士とハイド氏 "wikilink")"とかもある」という\[18\]。普段のsakuraの言動に興味を示していたhydeが作詞を薦めたといい、「"sakuraの思う疑問"を何でもいいから書いてくれないか」というリクエストがあったという。
+        また、歌詞のテーマについてsakuraは「テーマはあるんだけど言いたくない」「歌詞には登場人物が3人出てるくんだけど、"僕"、"君"、"彼等"、それが何のことなのかイメージは任せる」と述べている\[19\]。ブックレットには日本語訳も付記されている。
+        楽曲は80年代後半のブリティッシュ・ロックをイメージしており、編曲を務めた岡野ハジメは「ギターはイギリスの[ゴスや](../Page/ゴシック・ロック.md "wikilink")[ニュー・ウェイヴの感じにしようと話し合った](../Page/ニュー・ウェイヴ_\(音楽\).md "wikilink")」「そういうことができる日本のバンドは少なかったので、ラルクのメンバーはマニアックなものも受け入れてくれるんだ、これは嬉しいと思った」と述べている\[20\]。
         [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に行われたコンサートツアー「CONCERT TOUR '96〜'97 Carnival of True」以降ライブで演奏されていない。
 6.  **[the Fourth Avenue Café](https://ja.wikipedia.org/wiki/the_Fourth_Avenue_Café "wikilink")**
       - 作詞:hyde / 作曲:ken / 編曲:L'Arc〜en〜Ciel & Takeyuki Hatano
@@ -72,19 +74,22 @@
       - 作詞:hyde / 作曲:ken / 編曲:L'Arc〜en〜Ciel & [Akira Nishihira](../Page/西平彰.md "wikilink")
     <!-- end list -->
       -
-        6thシングル。シングルバージョンと違い、イントロに[ベース音](../Page/ベース_\(弦楽器\).md "wikilink")・[ドラム音やエンディングのメロディが追加され](../Page/ドラムセット.md "wikilink")、完奏して終了する。そのため、シングルよりも演奏時間が長い。基本的にライブ等で演奏する場合はこのバージョンが基になっている。
+        6thシングル。アルバム発売前の先行シングルとして発売されていた楽曲。
+        作曲者であるkenは、楽曲について「メロディ指向のものがチャート上位に入っていたから意識的に書いた\[21\]」と述べており、セールスを意識した制作だったと述べている。
+        シングルバージョンとの違いは、イントロに[ベース音](../Page/ベース_\(弦楽器\).md "wikilink")・[ドラム音やエンディングのメロディが追加されており](../Page/ドラムセット.md "wikilink")、完奏して終了する点である。そのため、シングルよりも演奏時間が長い。基本的にライブ等で演奏する場合はこのバージョンが基になっている。
 8.  **[風にきえないで](../Page/風にきえないで.md "wikilink") ("True" mix)**
       - 作詞:hyde / 作曲:[tetsu](https://ja.wikipedia.org/wiki/tetsuya "wikilink") / 編曲:L'Arc〜en〜Ciel & [Masahide Sakuma](../Page/佐久間正英.md "wikilink")
     <!-- end list -->
       -
-        4thシングル。この曲で初めてのオリコン週間シングルチャートTOP5入りを果たした。仮タイトルは「[バレンタインの憂鬱](../Page/バレンタインデー.md "wikilink")」。
-        シングル版との違いは、イントロが削除されたことやミックス変更、一部[ギター](../Page/ギター.md "wikilink")のリテイク、使用[ベースの変更など](../Page/ベース_\(弦楽器\).md "wikilink")。そのため、こちらはシングルより僅かに短くなっている。
+        4thシングル。この曲を収録したシングルで初めてのオリコン週間シングルチャートTOP5入りを果たしている。
+        作曲者のtetsuyaは「バレンタインに嫌な思い出があり、それがきっかけでこの曲が出来た」と語っており、その理由から仮タイトルが「[バレンタインの憂鬱](../Page/バレンタインデー.md "wikilink")」と付けられた。
+        シングルバージョンとの違いは、イントロが削除されたことやミックス変更、一部[ギター](../Page/ギター.md "wikilink")のリテイク、使用[ベースの変更など](../Page/ベース_\(弦楽器\).md "wikilink")。そのため、こちらはシングルより僅かに短くなっている。
         2020年に行われたコンサートツアー「ARENA TOUR MMXX」において、ホールツアー「Tour '98 ハートに火をつけろ\!」以来22年ぶりにライブで披露された。
 9.  **I Wish**
       - 作詞:hyde / 作曲:tetsu / 編曲:L'Arc〜en〜Ciel & Takao Konishi
     <!-- end list -->
       -
-        tetsuyaが楽曲制作において「個人的に昔のクリスマスとかを思い出して作った」ことから、仮タイトルは「[クリスマス](../Page/クリスマス.md "wikilink")」と名付けられた。また、楽曲はtetsuya曰く「クリスマスに一人佇んで途方に暮れていると、雪が降って世界が滲んで見えなくなるようなイメージ\[17\]」だといい、当初はスローテンポのバラードとして制作されていた。
+        tetsuyaが楽曲制作において「個人的に昔のクリスマスとかを思い出して作った」ことから、仮タイトルは「[クリスマス](../Page/クリスマス.md "wikilink")」と名付けられた。また、楽曲はtetsuya曰く「クリスマスに一人佇んで途方に暮れていると、雪が降って世界が滲んで見えなくなるようなイメージ\[22\]」だといい、当初はスローテンポのバラードとして制作されていた。
         歌詞中にクリスマスという単語は入っていないが、「真っ白な天使が舞い降りて」などのクリスマスを彷彿とさせる歌詞が入っている。また、コーラスの「Ring bell through the window I wish you smile for me sing song all together La la la la...」の部分は子供達が参加し歌っている。
         [TBS系音楽番組](../Page/TBSテレビ.md "wikilink")『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』の「クリスマスに聴きたい曲」アンケートでアルバム曲でありながらランクインしたこともある。
         また、[2018年](../Page/2018年.md "wikilink")に行われたライブ「[L'Arc〜en〜Ciel LIVE 2018 L'ArChristmas](https://ja.wikipedia.org/wiki/L'Arc〜en〜Ciel_LIVE_2018_L'ArChristmas "wikilink")」において、ライブ「1997 REINCARNATION」以来21年ぶりにライブで披露された。
@@ -93,7 +98,7 @@
       - 作詞:hyde / 作曲:tetsu / 編曲:L'Arc〜en〜Ciel & Haruo Togashi
     <!-- end list -->
       -
-        演奏時間が6分40秒を超える[3連リズムのロックバラードで](../Page/音符.md "wikilink")、レコーディング合宿の合間にtetsuyaが制作した楽曲\[18\]。
+        演奏時間が6分40秒を超える[3連リズムのロックバラードで](../Page/音符.md "wikilink")、レコーディング合宿の合間にtetsuyaが制作した楽曲\[23\]。
         曲中で聞こえる高音の[ファルセット](../Page/ファルセット.md "wikilink")コーラス（最高音は[A5](https://ja.wikipedia.org/wiki/音名・階名表記 "wikilink")）はhydeではなくtetsuyaによるもの。
         2018年に行われたライブ「L'Arc〜en〜Ciel LIVE 2018 L'ArChristmas」において、「I Wish」と同様にライブ「1997 REINCARNATION」以来21年ぶりにライブで披露された。
 
@@ -248,8 +253,6 @@
 
 ## 脚注
 
-<references />
-
 [Category:L'Arc〜en〜Cielのアルバム](https://ja.wikipedia.org/wiki/Category:L'Arc〜en〜Cielのアルバム "wikilink") [Category:1996年のアルバム](https://ja.wikipedia.org/wiki/Category:1996年のアルバム "wikilink") [Category:キューンミュージックのアルバム](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアルバム "wikilink") [Category:1997年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1997年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 
 1.  『Vicious』、シンコー・ミュージック、p.127、1997年1月号
@@ -265,8 +268,13 @@
 11.
 12.
 13.
-14. 『Vicious』、シンコー・ミュージック、p.122、1997年1月号
-15.
-16. 『音楽プロデューサー 岡野ハジメ エンサイクロペディア CATHARSIS OF MUSIC』、p.143、[シンコーミュージック・エンタテイメント](../Page/シンコーミュージック・エンタテイメント.md "wikilink")、2019年
-17.
-18.
+14. [L'Arc-en-Ciel Discography](https://www.larc-en-ciel.com/discography/) - L'Arc〜en〜Ciel.com
+15. [INTERVIEW――hyde 〈hyde best〉](http://tower.jp/article/feature/2010/03/10/3671/3672)[タワーレコード](../Page/タワーレコード.md "wikilink")（2010年3月10日）-2015年11月8日閲覧
+16.
+17. [【詳細レポート】HYDE、＜黑ミサ BIRTHDAY -TOKYO-＞2日目「これからも一緒に、僕と歩んでください」](https://www.barks.jp/news/?id=1000164067) - BARKS（2019年1月30日）
+18. 『Vicious』、シンコー・ミュージック、p.122、1997年1月号
+19.
+20. 『音楽プロデューサー 岡野ハジメ エンサイクロペディア CATHARSIS OF MUSIC』、p.143、[シンコーミュージック・エンタテイメント](../Page/シンコーミュージック・エンタテイメント.md "wikilink")、2019年
+21.
+22.
+23.

@@ -32,7 +32,7 @@ WOODSTOCK KARUIZAWA RECORDING studio | Genre = [J-POP](../Page/J-POP.md "wikilin
 
 小室は「**僕の音楽活動の中で得たもの全てを投入しました。最初の0秒から57分03秒までアルバムのどこを切り取って聴いて頂いても、恥ずかしい所はありません**」と断言するほどの自信を見せていた\[2\]。
 
-[オリコンにおいて](../Page/オリコンチャート.md "wikilink")、初週（集計された日は発売日の3月31日のみ）と2週目でそれぞれ100万枚以上を売り上げ、発売2週目で売上200万枚を突破、5週目には300万枚を突破する。いずれも当時の最速記録である。また、2週目の売上としては歴代最高となる105万枚を記録している。1996年5月、当時オリコンにおけるアルバムの歴代最高売上記録を保持していた[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の4thアルバム『[Atomic Heart](../Page/Atomic_Heart.md "wikilink")』の累積売上343万枚を突破して記録を更新する。1996年6月、[日本レコード協会](../Page/日本レコード協会.md "wikilink")から4ミリオンの認定を受けた最初の作品となった\[3\]。1997年2月にはオリコン史上初となるアルバムセールス400万枚を突破した。発売元の[エイベックスによる売上枚数は](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")1997年4月26日までの時点で413.7万枚\[4\]。
+[オリコンにおいて](../Page/オリコンチャート.md "wikilink")、初週（集計された日は発売日の3月31日のみ）と2週目でそれぞれ100万枚以上を売り上げ、発売2週目で売上200万枚を突破、5週目には300万枚を突破する。いずれも当時の最速記録である。また、2週目の売上としては歴代最高となる105万枚を記録している。1996年5月、当時オリコンにおけるアルバムの歴代最高売上記録を保持していた[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の4thアルバム『[Atomic Heart](../Page/Atomic_Heart.md "wikilink")』の累積売上343万枚を突破して記録を更新する。1996年6月、[日本レコード協会](../Page/日本レコード協会.md "wikilink")から4ミリオンの認定を受けた最初の作品となった\[3\]。1997年2月にはオリコン史上初となるアルバムセールス400万枚を突破した。発売元の[エイベックスによる売上枚数は](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")1997年4月26日までの時点で413.7万枚\[4\]。2020年現在でも歴代アルバム売上7位、オリジナルアルバムに限れば[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")2作品に次ぐ日本歴代3位の売上記録となる。
 
 [第38回日本レコード大賞](https://ja.wikipedia.org/wiki/第38回日本レコード大賞 "wikilink")アルバム大賞受賞\[5\]。
 
@@ -164,27 +164,27 @@ WOODSTOCK KARUIZAWA RECORDING studio | Genre = [J-POP](../Page/J-POP.md "wikilin
 [Category:Globeのアルバム](https://ja.wikipedia.org/wiki/Category:Globeのアルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink") [Category:1996年のアルバム](https://ja.wikipedia.org/wiki/Category:1996年のアルバム "wikilink") [Category:1996年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:小室哲哉プロデュースのアルバム](https://ja.wikipedia.org/wiki/Category:小室哲哉プロデュースのアルバム "wikilink") [Category:オリコン年間アルバムチャート1位作品](https://ja.wikipedia.org/wiki/Category:オリコン年間アルバムチャート1位作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 
 1.  [第11回日本ゴールドディスク大賞](http://www.golddisc.jp/award/11/index.html#gd11_08)
-2.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊「[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")」1996年5月号87P-89Pより。
+2.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊「[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")」1996年5月号「globe The Completely Free Triangle」87P-89Pより。
 3.  [レコード産業界の歴史](https://www.riaj.or.jp/f/leg/chronicle/)　1990年～1999年。
-4.  [globeアルバム「およげ！たいやきくん」抜く！](http://web.archive.org/web/19970714073616/http://www.zakzak.co.jp/geino/n-April97/nws782.html)、ZAKZAK、1997年4月26日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+4.  [globeアルバム「およげ！たいやきくん」抜く！](https://web.archive.org/web/19970714073616/http://www.zakzak.co.jp/geino/n-April97/nws782.html)、ZAKZAK、1997年4月26日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
 5.  [第38回日本レコード大賞](http://jacompa.or.jp/reco38.html)
-6.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊「[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")」1996年6月号31Pより。
+6.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊「[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")」1996年6月号「globe globeという名の未知数」31Pより。
 7.
 8.  [globe 20周年イヤーを記念したハイレゾリリース＆期間限定フラッシュプライス！](http://www.e-onkyo.com/news/577/) e-onkyo music NEWS 2016年12月22日閲覧
 9.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[ギターブック](https://ja.wikipedia.org/wiki/ギターブック "wikilink")』 1996年7月号21Pより。
-10. [ダイヤモンド社](../Page/ダイヤモンド社.md "wikilink")刊『[FM STATION](../Page/FM_STATION.md "wikilink")』1996年5月20日号24P-25Pより。
+10. [ダイヤモンド社](../Page/ダイヤモンド社.md "wikilink")刊『[FM STATION](../Page/FM_STATION.md "wikilink")』1996年5月20日号「INTERVIEW→globe」24P-25Pより。
 11. 「[第143回 伊東 宏晃 氏 エイベックス・マネジメント株式会社 代表取締役社長 | Musicman-NET](https://www.musicman-net.com/relay/63294)」より。
 12. [リットーミュージック](../Page/リットーミュージック.md "wikilink")刊『[ギター・マガジン](https://ja.wikipedia.org/wiki/ギター・マガジン "wikilink")』2019年11月号123P-124Pより。
 13.
 14. [講談社](../Page/講談社.md "wikilink")刊『[月刊現代](../Page/月刊現代.md "wikilink")』1997年7月号240Pより。
 15. [小室哲哉に聞く、globe 1stアルバムが当時最速に400万枚を突破した理由 - otoCoto](http://otocoto.jp/interview/tetsuya_komuro/)より。
 16.
-17. [角川書店](../Page/角川書店.md "wikilink")刊「[CDでーた](../Page/CD&DLでーた.md "wikilink")」1996年4月20日号123Pより。
+17. [角川書店](../Page/角川書店.md "wikilink")刊「[CDでーた](../Page/CD&DLでーた.md "wikilink")」1996年4月20日号「globe 新曲『FREEDOM』&新作『globe』発表 自由で未知な可能性を秘めて\!\!」121P-123Pより。
 18.
 19.
-20. INFAS publications刊「[STUDIO VOICE](https://ja.wikipedia.org/wiki/STUDIO_VOICE "wikilink")」1996年9月号36P-37Pより。
+20. INFAS publications刊「[STUDIO VOICE](https://ja.wikipedia.org/wiki/STUDIO_VOICE "wikilink")」1996年9月号「『小室哲哉』という名の空虚なマジョリティ “豊かさを楽しむ勇気”は、そこにあるのか?」36P-37Pより。
 21.
-22. [角川書店](../Page/角川書店.md "wikilink")刊「[CDでーた](../Page/CD&DLでーた.md "wikilink")」1996年6月5日号19Pより。
+22. [角川書店](../Page/角川書店.md "wikilink")刊「[CDでーた](../Page/CD&DLでーた.md "wikilink")」1996年6月5日号「globe 1stアルバム『globe』300万枚突破記念インタビュー Respiration～呼吸～」16P-19Pより。
 23.
 24.
 25.

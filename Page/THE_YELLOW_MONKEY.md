@@ -1409,7 +1409,7 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 | 1998年2月25日  | 地獄の賞賛〜KISS トリビュート・イン・ジャパン                                                                                             | CD | PHCL-5085  | 1曲目に[KISS](../Page/キッス.md "wikilink")「[Shout It Out Loud](https://ja.wikipedia.org/wiki/:en:Shout_It_Out_Loud_\(Kiss_song\) "wikilink")」（狂気の叫び）のカバーを収録。英語詞。                                                                                                                                                                                              |
 | 2017年9月13日  | T. Rex Tribute 〜Sitting Next To You〜 presented by [Rama Amoeba](https://ja.wikipedia.org/wiki/Rama_Amoeba "wikilink") | CD | VICL-64822 | [マーク・ボラン](../Page/マーク・ボラン.md "wikilink")生誕70年/没後40年記念アルバム。3曲目「[Light Of Love](https://ja.wikipedia.org/wiki/:en:Light_of_Love_\(T._Rex_song\) "wikilink")」（マーク・ボラン作曲）、11曲目「[The Prettiest Star](https://ja.wikipedia.org/wiki/:en:The_Prettiest_Star "wikilink")」（デヴィッド・ボウイ作曲）、12曲目「Sitting Next To You」（ボラン&ボウイ作曲）のカバーにTHE YELLOW MONKEYメンバーが参加\[107\]。 |
 
-### ビデオ・DVD
+### ビデオ
 
 <table>
 <thead>
@@ -2612,10 +2612,34 @@ THE EXHIBITION AND VIDEO FESTIVAL OF THE YELLOW MONKEY<br />
 <div class="NavContent" style="text-align:left;">
 <p>12月28日 <a href="../Page/ナゴヤドーム.md" title="wikilink">ナゴヤドーム</a><br />
 2月11日 京セラドーム大阪<br />
-4月4日 東京ドーム<br />
-4月5日 東京ドーム</p>
+4月4日 東京ドーム（中止）<br />
+4月5日 東京ドーム（中止）</p>
 </div>
 </div></td>
+</tr>
+<tr class="even">
+<td><p>2020年</p></td>
+<td><p>THE YELLOW MONKEY 30th Anniversary LIVE<br />
+DOME SPECIAL</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>THE YELLOW MONKEY 30th Anniversary LIVE<br />
+YOKOHAMA SPECIAL</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>THE YELLOW MONKEY 30th Anniversary LIVE<br />
+YOYOGI SPECIAL</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>THE YELLOW MONKEY 30th Anniversary LIVE<br />
+BUDOKAN SPECIAL</p></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -2859,7 +2883,7 @@ THE EXHIBITION AND VIDEO FESTIVAL OF THE YELLOW MONKEY<br />
   -
   -
   -
-[Category:THE_YELLOW_MONKEY](https://ja.wikipedia.org/wiki/Category:THE_YELLOW_MONKEY "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:兄弟姉妹の音楽グループ](https://ja.wikipedia.org/wiki/Category:兄弟姉妹の音楽グループ "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:1988年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1988年に結成した音楽グループ "wikilink") [Category:2004年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に解散した音楽グループ "wikilink") [Category:2016年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2016年に再結成した音楽グループ "wikilink")
+[Category:THE_YELLOW_MONKEY](https://ja.wikipedia.org/wiki/Category:THE_YELLOW_MONKEY "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:兄弟姉妹の音楽グループ](https://ja.wikipedia.org/wiki/Category:兄弟姉妹の音楽グループ "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:1988年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1988年に結成した音楽グループ "wikilink") [Category:2004年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に解散した音楽グループ "wikilink") [Category:2016年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2016年に再結成した音楽グループ "wikilink")
 
 1.
 2.

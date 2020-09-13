@@ -1,7 +1,7 @@
 > この記事は[PuTTY](https://ja.wikipedia.org/wiki/PuTTY)から翻訳されています。
 
 
-{{ Infobox Software | 名称 = PuTTY | ロゴ = PuTTY icon 128px.png | スクリーンショット = [256px](https://ja.wikipedia.org/wiki/ファイル:PuTTY.PNG "wikilink") | 説明文 = PuTTYの設定ウィンドウ | 開発元 = Simon Tatham | 初版 =  | 最新版 = 0.73 | 最新版発表日 =  | プログラミング言語 = [C言語](../Page/C言語.md "wikilink") | 対応OS = [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")
+{{ Infobox Software | 名称 = PuTTY | ロゴ = PuTTY icon 128px.png | スクリーンショット = [256px](https://ja.wikipedia.org/wiki/ファイル:PuTTY.PNG "wikilink") | 説明文 = PuTTYの設定ウィンドウ | 開発元 = Simon Tatham | 初版 =  | 最新版 = 0.74 | 最新版発表日 =  | プログラミング言語 = [C言語](../Page/C言語.md "wikilink") | 対応OS = [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")
 [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")
 [UNIX](../Page/UNIX.md "wikilink")
 [Android](../Page/Android.md "wikilink")

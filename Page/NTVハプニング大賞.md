@@ -84,6 +84,8 @@
   - [マジカル頭脳パワー\!\!](../Page/マジカル頭脳パワー!!.md "wikilink")
   - [おれはO型・牡羊座](../Page/おれはO型・牡羊座.md "wikilink")
   - [静かなるドン](../Page/静かなるドン.md "wikilink")
+  - [ぐるぐるナインティナイン](../Page/ぐるぐるナインティナイン.md "wikilink")（関東ローカル時代）
+  - [NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")（櫻井よしこ時代）
   - [夜もヒッパレ一生けんめい。](https://ja.wikipedia.org/wiki/夜もヒッパレ一生けんめい。 "wikilink")
 
 #### 1995年10月・NTVラップ
@@ -95,7 +97,7 @@
   - 天才・たけしの元気が出るテレビ\!\!
   - 世界まる見え\!テレビ特捜部
   - [THE夜もヒッパレ](../Page/THE夜もヒッパレ.md "wikilink")
-  - [NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")（井田由美時代）
+  - NNNきょうの出来事（井田由美時代）
   - [新装開店\!SHOW by ショーバイ2](../Page/クイズ世界はSHOW_by_ショーバイ!!.md "wikilink")（[山城新伍](https://ja.wikipedia.org/wiki/山城新伍 "wikilink")在任時代）
   - 投稿\!特ホウ王国（[リサ・ステッグマイヤー](https://ja.wikipedia.org/wiki/リサ・ステッグマイヤー "wikilink")がアシスタントの時代）
   - [金曜ロードショー](https://ja.wikipedia.org/wiki/金曜ロードショー "wikilink")（[水野晴郎](../Page/水野晴郎.md "wikilink")時代）
@@ -106,7 +108,7 @@
   - スーパーJOCKEY（[辺見えみり](../Page/辺見えみり.md "wikilink")アシスタント時代）
   - [たたかうお嫁さま](../Page/たたかうお嫁さま.md "wikilink")
   - [江戸の用心棒II](../Page/江戸の用心棒_\(1994年のテレビドラマ\).md "wikilink")
-  - [ぐるぐるナインティナイン](../Page/ぐるぐるナインティナイン.md "wikilink")（関東ローカル時代）
+  - ぐるぐるナインティナイン（関東ローカル時代）
   - [ルックルックこんにちは](../Page/ルックルックこんにちは.md "wikilink")（[岸部四郎](../Page/岸部四郎.md "wikilink")時代）
   - [ザ・ワイド](../Page/ザ・ワイド.md "wikilink")（[飯星景子](../Page/飯星景子.md "wikilink")アシスタント時代）
   - [欽ちゃんの仮装大賞](https://ja.wikipedia.org/wiki/欽ちゃんの仮装大賞 "wikilink")

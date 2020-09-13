@@ -413,13 +413,13 @@ KSCL-613</p></td>
 </tr>
 <tr class="even">
 <td><p>2003年8月27日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/CAROL_TRIBUTE" title="wikilink">CAROL TRIBUTE</a></strong></p></td>
+<td><p><strong>CAROL TRIBUTE</strong></p></td>
 <td><p>UPCH-1276</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/CAROL" title="wikilink">CAROL</a>のトリビュートアルバム。AKIMA &amp; Theピーズ名義で「ラスト・チャンス」をカバー。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2004年9月16日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/シンクロナイズド・ロッカーズ" title="wikilink">シンクロナイズド・ロッカーズ</a></strong></p></td>
+<td><p><strong><a href="../Page/SYNCHRONIZED_ROCKERS.md" title="wikilink">SYNCHRONIZED ROCKERS</a></strong></p></td>
 <td><p>KICS-1103</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/the_pillows" title="wikilink">the pillowsのトリビュートアルバム</a>。Theピーズ with <a href="../Page/クハラカズユキ.md" title="wikilink">クハラカズユキ</a>名義で「巴里の女性マリー」をカバー。</p></td>
 </tr>

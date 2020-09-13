@@ -13,13 +13,11 @@ SMは[DSのボディ構造をベースとして](../Page/シトロエン・DS.md
 
 本国での[ヘッドライトの仕様は可動式角型](../Page/前照灯.md "wikilink")6灯であったが、日本へ輸入されたモデルは米国仕様をベースとしたもので、固定式の丸型4灯に改められている。
 
-当初は5速MTのみの構成であったが、後に[ボルクワーナー](https://ja.wikipedia.org/wiki/ボルクワーナー "wikilink")製3速ATも追加されている。5速MTはゲートは横方向のみに存在し縦方向にはゲートが刻まれたプレートがスライドするという変則的なものであり、多くのユーザーは3速AT仕様を選択している。
-
-{{-}}
+当初は5速MTのみの構成であったが、後に[ボルクワーナー](https://ja.wikipedia.org/wiki/ボルクワーナー "wikilink")製3速ATも追加されている。5速MTのシフトノブはゲートは横方向のみに存在し縦方向にはゲートが刻まれたプレートがスライドするという変則的なものであり、多くのユーザーは3速AT仕様を選択している。シトロエン・SMの5速MTは[ロータス・エスプリ](../Page/ロータス・エスプリ.md "wikilink")にも供給されたが、シフトノブは通常のものが採用された。 {{-}}
 
 ## 特徴
 
-下記のとおり[マセラティ・ボーラ](../Page/マセラティ・ボーラ.md "wikilink")のエンジンとの共通性が強くバンク角はマセラティ伝統の90度である。バンク角90度のV6DOHCエンジンは振動面で不利だが、[バランサーシャフト](https://ja.wikipedia.org/wiki/バランサーシャフト "wikilink")の追加によって振動をクリアしている。カム駆動は[チェーン](../Page/チェーン.md "wikilink")によるが、非常に特殊なチェーンの掛け方になっており、これがDS譲りのトランスミッションとエンジンを反転させて配置する複雑なレイアウトと相まり、極めて独特である。一般的な[整備士が](../Page/自動車整備士.md "wikilink")[ボンネットを開け](https://ja.wikipedia.org/wiki/ボンネット_\(自動車\) "wikilink")「どこから手をつけていいかわからない」となった[逸話](https://ja.wikipedia.org/wiki/逸話 "wikilink")もある。
+[1972_Citroen_SM_2.5_Interior.jpg](https://ja.wikipedia.org/wiki/File:1972_Citroen_SM_2.5_Interior.jpg "fig:1972_Citroen_SM_2.5_Interior.jpg") 下記のとおり[マセラティ・ボーラ](../Page/マセラティ・ボーラ.md "wikilink")のエンジンとの共通性が強くバンク角はマセラティ伝統の90度である。バンク角90度のV6DOHCエンジンは振動面で不利だが、[バランサーシャフト](https://ja.wikipedia.org/wiki/バランサーシャフト "wikilink")の追加によって振動をクリアしている。カム駆動は[チェーン](../Page/チェーン.md "wikilink")によるが、非常に特殊なチェーンの掛け方になっており、これがDS譲りのトランスミッションとエンジンを反転させて配置する複雑なレイアウトと相まり、極めて独特である。一般的な[整備士が](../Page/自動車整備士.md "wikilink")[ボンネットを開け](https://ja.wikipedia.org/wiki/ボンネット_\(自動車\) "wikilink")「どこから手をつけていいかわからない」となった[逸話](https://ja.wikipedia.org/wiki/逸話 "wikilink")もある。
 
 エンジンは動弁機能は変わらないが2.7L、3.0L、キャブレター、機械式インジェクションが存在する。このエンジンは[マセラティ・ボーラ](../Page/マセラティ・ボーラ.md "wikilink")のV型8気筒の2気筒を削ったものと思われがちだがほぼ専用設計であり、シトロエンからオファーを受けたマセラティのチーフエンジニアであったジュリオ・アルフィエーリは約3週間で設計を完成させシトロエン側を驚かせたというエピソードも存在する。
 
@@ -29,9 +27,7 @@ SMは[DSのボディ構造をベースとして](../Page/シトロエン・DS.md
 
 ## ラリー競技
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Rétromobile_2011_-_Citroën_SM_Rallye_du_Maroc_1971_-_003.jpg "wikilink") まだラリーに選手権タイトルの掛けられていない1971年よりモロッコ・ラリーや[ラリー・モンテカルロ](../Page/ラリー・モンテカルロ.md "wikilink")等にも投入されている。モンテカルロでは長すぎるボディを30cm程中央でカットした仕様を持ち込み、周囲を驚かせたが、それでもベースであるロングボディが災いしたかFF車でありながらも成功作とも言えなかった\[1\]。
-
-{{-}}
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Rétromobile_2011_-_Citroën_SM_Rallye_du_Maroc_1971_-_003.jpg "wikilink") まだラリーに選手権タイトルの掛けられていない1971年よりモロッコ・ラリーや[ラリー・モンテカルロ](../Page/ラリー・モンテカルロ.md "wikilink")等にも投入されている。モンテカルロでは長すぎるボディを30cm程中央でカットした仕様を持ち込み、周囲を驚かせたが、それでもベースであるロングボディが災いしたかFF車でありながらも成功作とも言えなかった\[1\]。 {{-}}
 
 ## 日本での現存数　
 
@@ -39,8 +35,8 @@ SMは[DSのボディ構造をベースとして](../Page/シトロエン・DS.md
 
 ## 外部リンク
 
-  - [- CITROEN SM REGEMBEAU](http://citroensmregembeau.free.fr/)
-  - [- CITROEN SM passion](http://citroensmpassion.free.fr/) （シトロエンによる紹介ページ（英語））
+  - [CITROEN SM REGEMBEAU](http://citroensmregembeau.free.fr/)
+  - [CITROEN SM passion](http://citroensmpassion.free.fr/) （シトロエンによる紹介ページ（英語））
 
 ## 脚注
 

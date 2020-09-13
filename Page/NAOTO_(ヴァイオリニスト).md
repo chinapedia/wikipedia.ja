@@ -93,11 +93,12 @@
 ## 出演
 
   - テレビドラマ『[のだめカンタービレ](../Page/のだめカンタービレ_\(テレビドラマ\).md "wikilink")』（ヴァイオリンの吹き替え演奏）
-  - [テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")『[ひろしま満点ママ\!\!](../Page/ひろしま満点ママ!!.md "wikilink")』（ゲスト） - 2010年2月17日冒頭では番組OPテーマ『Brand new days』、2015年7月20日は『Glowing』を生演奏
+  - 『[ひろしま満点ママ\!\!](../Page/ひろしま満点ママ!!.md "wikilink")』（[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")、ゲスト） - 2010年2月17日冒頭では番組OPテーマ『Brand new days』、2015年7月20日は『Glowing』を生演奏
   - 映画『[富士見二丁目交響楽団 寒冷前線コンダクター](../Page/富士見二丁目交響楽団.md "wikilink")シリーズ』（ゲスト出演、2012年公開）
-  - 『[中居正広のミになる図書館](https://ja.wikipedia.org/wiki/中居正広のミになる図書館 "wikilink")』（2014年7月22日、テレビ朝日） - 「中居正広の号外スクープ狙います \!\! 」一流音楽家大集合SP
+  - 『[中居正広のミになる図書館](https://ja.wikipedia.org/wiki/中居正広のミになる図書館 "wikilink")』（2014年7月22日、[テレビ朝日](../Page/テレビ朝日.md "wikilink")） - 「中居正広の号外スクープ狙います \!\! 」一流音楽家大集合SP
   - 『[OTTAVA Salone](https://ja.wikipedia.org/wiki/OTTAVA_Salone "wikilink")』（2014年10月30日・2015年10月29日、[OTTAVA](../Page/OTTAVA.md "wikilink")）
-  - [有吉反省会](https://ja.wikipedia.org/wiki/有吉反省会 "wikilink")（2017年３月11日、日本テレビ）
+  - [有吉反省会](https://ja.wikipedia.org/wiki/有吉反省会 "wikilink")（2017年３月11日、[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")）
+  - [チャンネルはそのまま\!](https://ja.wikipedia.org/wiki/チャンネルはそのまま! "wikilink")（2019年3月18日 - 22日、[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")） - 鳴沢真弓（演:[東李苑](https://ja.wikipedia.org/wiki/東李苑 "wikilink")）のバイオリン吹き替え演奏
 
 ## ラジオ（パーソナリティー）
 

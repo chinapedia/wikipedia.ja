@@ -235,4 +235,4 @@
 
   - [MBSラジオ・「ゴーJ！」「ゴー傑P」オフィシャルサイト（インターネットアーカイブのキャッシュ）](http://web.archive.org/web/20100202190229/http://www.mbs1179.com/go/)
 
-[Category:毎日放送の深夜ラジオ番組](https://ja.wikipedia.org/wiki/Category:毎日放送の深夜ラジオ番組 "wikilink")
+[Category:毎日放送の深夜ラジオ番組](https://ja.wikipedia.org/wiki/Category:毎日放送の深夜ラジオ番組 "wikilink") [Category:お笑い芸人のラジオ番組](https://ja.wikipedia.org/wiki/Category:お笑い芸人のラジオ番組 "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[BOMB](https://ja.wikipedia.org/wiki/BOMB)から翻訳されています。
 
 
-『**BOMB**』（ボム）は、[学研プラス](https://ja.wikipedia.org/wiki/学研プラス "wikilink")（旧学習研究社→学研パブリッシング）が発行する、月刊の[グラビア雑誌](https://ja.wikipedia.org/wiki/グラビア雑誌 "wikilink")。毎月9日（同日が休日の場合はその前日）発売。[女性アイドルの](https://ja.wikipedia.org/wiki/アイドル "wikilink")[グラビアページ](https://ja.wikipedia.org/wiki/グラビアページ "wikilink")で主に構成されている。
+『**BOMB**』（ボム）は、[ワン・パブリッシング](https://ja.wikipedia.org/wiki/ワン・パブリッシング "wikilink")が発行する、月刊の[グラビア雑誌](https://ja.wikipedia.org/wiki/グラビア雑誌 "wikilink")。毎月9日（同日が休日の場合はその前日）発売。[女性アイドルの](https://ja.wikipedia.org/wiki/アイドル "wikilink")[グラビアページ](https://ja.wikipedia.org/wiki/グラビアページ "wikilink")で主に構成されている。
 
 [1994年](../Page/1994年.md "wikilink")10月号までは名前を「**BOMB\!**」としていた。創刊当初から[判型](../Page/判型.md "wikilink")は[A5判](https://ja.wikipedia.org/wiki/紙の寸法#A列 "wikilink")（148mm×210mmで発行されていたが、2010年11月号（同年10月9日発売分）から[Duet](../Page/Duet.md "wikilink")のようにAB判（210mm×257mm）のより大きな判型に変更された。
 
@@ -15,7 +15,9 @@
 
 [1990年代](../Page/1990年代.md "wikilink")後半からBOMB編集部として[写真集](../Page/写真集.md "wikilink")制作・出版も行われる事が多くなっている。さらに判型が『BOMB』よりも大きく（おおよそA4サイズ）内容も特化された『DELUXE BOMB』（通称「デラボム」）シリーズとして、『デラボム INDEX』（年1回発行）や『まるごと○○』（○○には特集される女性アイドルの名前が入る）などが、同時期に出版されるようになった。また、[ダイヤルQ2](../Page/ダイヤルQ2.md "wikilink")による[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")活動情報を提供していた。なお[DVD](../Page/DVD.md "wikilink")の普及に伴い、「DVD BOMB」や「d-BOMB」シリーズのDVD制作・販売も行われている。
 
-近年では[インターネット](../Page/インターネット.md "wikilink")の普及に伴い、「インターネットBOMB」「BOMB.tv」などを立ち上げ、有料画像配信なども行っている。[2009年](../Page/2009年.md "wikilink")10月に実施された学研グループの組織再編に伴い発行元が学研パブリッシングとなった後、[2015年](../Page/2015年.md "wikilink")には学研パブリッシングが学研マーケティング他と合併し学研プラスが発行元となっている。
+近年では[インターネット](../Page/インターネット.md "wikilink")の普及に伴い、「インターネットBOMB」「BOMB.tv」などを立ち上げ、有料画像配信なども行っている。
+
+[2009年](../Page/2009年.md "wikilink")10月に実施された学研グループの組織再編に伴い発行元が学研パブリッシングとなった後、[2015年](../Page/2015年.md "wikilink")に学研パブリッシングが学研マーケティング他と合併し[学研プラス](https://ja.wikipedia.org/wiki/学研プラス "wikilink")が発行元となる。2020年7月に学研プラスのメディアビジネス部の会社分割により[ワン・パブリッシング](https://ja.wikipedia.org/wiki/ワン・パブリッシング "wikilink")が発行元となる\[2\]。
 
 ## 巻頭モデル
 
@@ -467,7 +469,7 @@
     5月号 : 高橋みなみ
     6月号 : 横山由依、[永尾まりや](https://ja.wikipedia.org/wiki/永尾まりや "wikilink")、川栄李奈・AKB48
     7月号 : 渡辺美優紀
-    8月号 : 松井玲奈、高柳明音、[木﨑ゆりあ](https://ja.wikipedia.org/wiki/木崎ゆりあ "wikilink")・AKB48
+    8月号 : 松井玲奈、高柳明音、[木﨑ゆりあ](https://ja.wikipedia.org/wiki/木﨑ゆりあ "wikilink")・AKB48
     9月号 : 指原莉乃、川栄李奈、入山杏奈・SKE48
     10月号 : 宮脇咲良、田島芽瑠、朝長美桜・HKT48
     11月号 : 山本彩、渡辺美優紀、薮下柊、小笠原茉由、加藤夕夏・NMB48
@@ -551,3 +553,4 @@
 [Category:学研の雑誌](https://ja.wikipedia.org/wiki/Category:学研の雑誌 "wikilink") [Category:グラビア雑誌](https://ja.wikipedia.org/wiki/Category:グラビア雑誌 "wikilink") [Category:1979年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1979年創刊の雑誌 "wikilink") [Category:アイドル雑誌](https://ja.wikipedia.org/wiki/Category:アイドル雑誌 "wikilink")
 
 1.  ｢BOMB！　今昔物語｣**BOMB**　学習研究社、1985年3月号
+2.

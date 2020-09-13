@@ -14,7 +14,8 @@
   - Ryo (1992年生まれの歌手) - 本名：池森龍。DEENのボーカリスト、[池森秀一](../Page/池森秀一.md "wikilink")の甥。2016年9月「HOMARE」でデビュー。
   - 音楽グループのメンバー
       - RYÖ - [BY-SEXUAL](../Page/BY-SEXUAL.md "wikilink")・BY-SEX・[ZIGZO](../Page/ZIGZO.md "wikilink")のギタリスト (1970–)。
-      - [Ryo](../Page/Ryo.md "wikilink") (田中亮) - 東方神起、JYJ、防弾少年団のダンサー。ドリカムパフォーマー。
+      - [Ryo](../Page/Ryo.md "wikilink") - [ケツメイシ](../Page/ケツメイシ.md "wikilink")の[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink") (1972–)。
+      - Ryo (田中亮) - 東方神起、JYJ、防弾少年団のダンサー。ドリカムパフォーマー。
       - Ryo (HAKU) - [AcQuA-E.P.](../Page/AcQuA-E.P..md "wikilink")のメンバー (1983–)。
       - [RYO (ORANGE RANGE)](../Page/RYO_\(ORANGE_RANGE\).md "wikilink") - [ORANGE RANGEのヴォーカリスト](../Page/ORANGE_RANGE.md "wikilink") (1985–)。
       - RYO (前田亮太) - COLOR・[DEEPのメンバー](../Page/DEEP_\(歌手グループ\).md "wikilink") (1986–)。

@@ -30,7 +30,7 @@
   - [木村拓哉](../Page/木村拓哉.md "wikilink")（SMAP）
   - [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")（SMAP）
   - [森且行](../Page/森且行.md "wikilink")（SMAP）
-  - [草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")（SMAP）
+  - [草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")（SMAP）
   - [香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")（SMAP）
   - [島崎俊郎](../Page/島崎俊郎.md "wikilink")
   - [SHU](https://ja.wikipedia.org/wiki/SHU "wikilink") (本名・斎藤修一)
@@ -51,29 +51,29 @@
 
 ## 放送局
 
-| 放送対象地域                                                            | 放送局                                                         | 系列                                                                                              | 備考                |
-| ----------------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------- |
-| [関東広域圏](../Page/広域放送.md "wikilink")                               | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")     | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink")                                         | 製作局               |
-| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")               | [テレビ北海道](../Page/テレビ北海道.md "wikilink")                      |                                                                                                 |                   |
-| [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")               | [青森テレビ](../Page/青森テレビ.md "wikilink")                        | [TBS系列](https://ja.wikipedia.org/wiki/JNN "wikilink")                                           |                   |
-| [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")               | [東北放送](../Page/東北放送.md "wikilink")                          |                                                                                                 |                   |
-| [秋田県](../Page/秋田県.md "wikilink")                                  | [秋田放送](../Page/秋田放送.md "wikilink")                          | [日本テレビ系列](../Page/日本テレビネットワーク協議会.md "wikilink")                                                 | 途中、打ち切り           |
-| [山形県](../Page/山形県.md "wikilink")                                  | [山形テレビ](../Page/山形テレビ.md "wikilink")                        | [フジテレビ系列](../Page/フジネットワーク.md "wikilink") → [テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink") |                   |
-| [福島県](../Page/福島県.md "wikilink")                                  | [福島テレビ](../Page/福島テレビ.md "wikilink")                        | フジテレビ系列                                                                                         |                   |
-| [新潟県](../Page/新潟県.md "wikilink")                                  | [新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink") |                                                                                                 |                   |
-| [岐阜県](../Page/岐阜県.md "wikilink")                                  | [岐阜放送](../Page/岐阜放送.md "wikilink")                          | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")                                                       |                   |
-| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")               | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                        | テレビ東京系列                                                                                         |                   |
-| [三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")               | [三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")   | 独立UHF局                                                                                          |                   |
-| [滋賀県](../Page/滋賀県.md "wikilink")                                  | [びわ湖放送](../Page/びわ湖放送.md "wikilink")                        |                                                                                                 |                   |
-| [大阪府](../Page/大阪府.md "wikilink")                                  | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                        | テレビ東京系列                                                                                         |                   |
-| [奈良県](../Page/奈良県.md "wikilink")                                  | [奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")   | 独立UHF局                                                                                          |                   |
-| [和歌山県](../Page/和歌山県.md "wikilink")                                | [テレビ和歌山](../Page/テレビ和歌山.md "wikilink")                      |                                                                                                 |                   |
-| [鳥取県](../Page/鳥取県.md "wikilink")・[島根県](../Page/島根県.md "wikilink") | [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")                 | 日本テレビ系列                                                                                         |                   |
-| [岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink")                       | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                    | テレビ東京系列                                                                                         |                   |
-| [広島県](../Page/広島県.md "wikilink")                                  | [テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")   | フジテレビ系列                                                                                         | 1995年10月から半年間のみ放送 |
-| [福岡県](../Page/福岡県.md "wikilink")                                  | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                    | テレビ東京系列                                                                                         |                   |
-| [宮崎県](../Page/宮崎県.md "wikilink")                                  | [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")       | TBS系列                                                                                           |                   |
-| [沖縄県](../Page/沖縄県.md "wikilink")（一部）                              | [宮古テレビ](../Page/宮古テレビ.md "wikilink")                        | [ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局                                                       |                   |
+| 放送対象地域                                                            | 放送局                                                       | 系列                                                      | 備考                 |
+| ----------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------- | ------------------ |
+| [関東広域圏](../Page/広域放送.md "wikilink")                               | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")   | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink") | 製作局                |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")               | [テレビ北海道](../Page/テレビ北海道.md "wikilink")                    |                                                         |                    |
+| [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")               | [青森テレビ](../Page/青森テレビ.md "wikilink")                      | [TBS系列](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")         |                    |
+| [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")               | [東北放送](../Page/東北放送.md "wikilink")                        |                                                         |                    |
+| [秋田県](../Page/秋田県.md "wikilink")                                  | [秋田放送](../Page/秋田放送.md "wikilink")                        | [日本テレビ系列](../Page/日本テレビネットワーク協議会.md "wikilink")         | 途中、打ち切り            |
+| [山形県](../Page/山形県.md "wikilink")                                  | [山形テレビ](../Page/山形テレビ.md "wikilink")                      | [テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink")     | 1994年頃より放送開始。      |
+| [福島県](../Page/福島県.md "wikilink")                                  | [福島テレビ](../Page/福島テレビ.md "wikilink")                      | フジテレビ系列                                                 |                    |
+| [新潟県](../Page/新潟県.md "wikilink")                                  | [新潟総合テレビ](../Page/NST新潟総合テレビ.md "wikilink")               |                                                         |                    |
+| [岐阜県](../Page/岐阜県.md "wikilink")                                  | [岐阜放送](../Page/岐阜放送.md "wikilink")                        | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")               |                    |
+| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")               | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                      | テレビ東京系列                                                 |                    |
+| [三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")               | [三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink") | 独立UHF局                                                  |                    |
+| [滋賀県](../Page/滋賀県.md "wikilink")                                  | [びわ湖放送](../Page/びわ湖放送.md "wikilink")                      |                                                         |                    |
+| [大阪府](../Page/大阪府.md "wikilink")                                  | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                      | テレビ東京系列                                                 |                    |
+| [奈良県](../Page/奈良県.md "wikilink")                                  | [奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink") | 独立UHF局                                                  |                    |
+| [和歌山県](../Page/和歌山県.md "wikilink")                                | [テレビ和歌山](../Page/テレビ和歌山.md "wikilink")                    |                                                         |                    |
+| [鳥取県](../Page/鳥取県.md "wikilink")・[島根県](../Page/島根県.md "wikilink") | [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")               | 日本テレビ系列                                                 |                    |
+| [岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink")                       | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                  | テレビ東京系列                                                 |                    |
+| [広島県](../Page/広島県.md "wikilink")                                  | [テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink") | フジテレビ系列                                                 | 1995年10月から半年間のみ放送。 |
+| [福岡県](../Page/福岡県.md "wikilink")                                  | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                  | テレビ東京系列                                                 |                    |
+| [宮崎県](../Page/宮崎県.md "wikilink")                                  | [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")     | TBS系列                                                   |                    |
+| [沖縄県](../Page/沖縄県.md "wikilink")（一部）                              | [宮古テレビ](../Page/宮古テレビ.md "wikilink")                      | [ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局               |                    |
 
 ## 備考
 

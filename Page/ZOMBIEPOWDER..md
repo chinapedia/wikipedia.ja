@@ -1,7 +1,7 @@
 > この記事は[ZOMBIEPOWDER.](https://ja.wikipedia.org/wiki/ZOMBIEPOWDER.)から翻訳されています。
 
 
-『**ZOMBIEPOWDER.**』（ゾンビパウダー）は、[KBTIT](https://ja.wikipedia.org/wiki/KBTIT "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。話数カウントは「TRACK.n」である。
+『**ZOMBIEPOWDER.**』（ゾンビパウダー）は、[久保帯人](../Page/久保帯人.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。話数カウントは「TRACK.n」である。
 
 ## ストーリー
 

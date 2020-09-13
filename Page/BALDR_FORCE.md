@@ -1,7 +1,9 @@
 > この記事は[BALDR FORCE](https://ja.wikipedia.org/wiki/BALDR_FORCE)から翻訳されています。
 
 
-『**BALDR FORCE**』（バルドフォース）は、[戯画が発売した](../Page/戯画_\(ブランド\).md "wikilink")[18禁](https://ja.wikipedia.org/wiki/成人向け "wikilink")[アクションアドベンチャーゲーム](../Page/アクションアドベンチャーゲーム.md "wikilink")。後に[アルケミストによって](../Page/アルケミスト_\(企業\).md "wikilink")『**BALDR FORCE EXE**』（バルドフォースエグゼ）が[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")、[PlayStation 2に移植されている](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+『**BALDR FORCE**』（バルドフォース）は、[戯画が発売した](../Page/戯画_\(ブランド\).md "wikilink")[18禁](https://ja.wikipedia.org/wiki/成人向け "wikilink")[PCアダルトゲームである](../Page/アダルトゲーム.md "wikilink")。ジャンルはオリジナルロボット[アクションアドベンチャーゲーム](../Page/アクションアドベンチャーゲーム.md "wikilink")。
+
+後に[アルケミストによって](../Page/アルケミスト_\(企業\).md "wikilink")『**BALDR FORCE EXE**』（バルドフォースエグゼ）が[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")、[PlayStation 2に移植されている](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
 
 ## ストーリー
 
@@ -225,4 +227,4 @@
   - [戯画](http://www.web-giga.com/)
   - [アルケミスト](http://www.alchemist-net.co.jp/)
 
-[Category:戯画のゲームソフト](https://ja.wikipedia.org/wiki/Category:戯画のゲームソフト "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:アクションゲーム](https://ja.wikipedia.org/wiki/Category:アクションゲーム "wikilink") [Category:2002年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2002年のアダルトゲーム "wikilink") [Category:サイバーパンク・コンピュータゲーム](https://ja.wikipedia.org/wiki/Category:サイバーパンク・コンピュータゲーム "wikilink") [Category:仮想世界を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:仮想世界を舞台としたコンピュータゲーム "wikilink") [Category:復讐を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:復讐を題材としたコンピュータゲーム "wikilink")
+[Category:戯画のゲームソフト](https://ja.wikipedia.org/wiki/Category:戯画のゲームソフト "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:アクションゲーム](https://ja.wikipedia.org/wiki/Category:アクションゲーム "wikilink") [Category:2002年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2002年のアダルトゲーム "wikilink") [Category:サイバーパンク・コンピュータゲーム](https://ja.wikipedia.org/wiki/Category:サイバーパンク・コンピュータゲーム "wikilink") [Category:仮想世界を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:仮想世界を舞台としたコンピュータゲーム "wikilink") [Category:復讐を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:復讐を題材としたコンピュータゲーム "wikilink") [Category:巨大ロボットを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたコンピュータゲーム "wikilink")

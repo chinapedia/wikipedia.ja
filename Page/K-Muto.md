@@ -5,9 +5,7 @@
 
 ## 経歴
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")発表の嶋野百恵のデビュー曲で作・編曲・プロデューサーとして起用され本格的に活動を開始。以後、数々のアーティスト作品にプロデュースや[リミックス](../Page/リミックス.md "wikilink")で関わり新進気鋭のプロデューサーとして注目をされる。
-
-[2001年](../Page/2001年.md "wikilink")にソウル、ファンクバンド[SOYSOUL](https://ja.wikipedia.org/wiki/SOYSOUL "wikilink")に[キーボードで参加](../Page/キーボード_\(楽器\).md "wikilink")。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")発表の[嶋野百恵](../Page/嶋野百恵.md "wikilink")のデビュー曲で作・編曲・プロデューサーとして起用され本格的に活動を開始。以後、数々のアーティスト作品にプロデュースや[リミックス](../Page/リミックス.md "wikilink")で関わる。[2001年](../Page/2001年.md "wikilink")にソウル、ファンクバンド[SOYSOUL](https://ja.wikipedia.org/wiki/SOYSOUL "wikilink")に[キーボードで参加](../Page/キーボード_\(楽器\).md "wikilink")。
 
 ## プロデュース・編曲・作曲で関わった主なアーティスト
 
@@ -22,7 +20,7 @@
   - [ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")
   - [島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")
   - [嶋野百恵](../Page/嶋野百恵.md "wikilink")
-  - [ZOOCO](https://ja.wikipedia.org/wiki/ZOOCO "wikilink")
+  - [ZOOCO](../Page/ZOOCO.md "wikilink")
   - [鈴木雅之](../Page/鈴木雅之_\(歌手\).md "wikilink")
   - [Atomic Kitten](https://ja.wikipedia.org/wiki/Atomic_Kitten "wikilink")
   - [CAIZE](https://ja.wikipedia.org/wiki/CAIZE "wikilink")

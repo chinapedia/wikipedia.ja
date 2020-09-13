@@ -192,11 +192,11 @@ KSCL-926:CD</p></td>
 
 ### 参加作品
 
-| 発売日                                                                      | タイトル                                                                                                                             | 規格品番       | 収録曲                     |
-| ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------- |
-| [2005年](../Page/2005年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink") | [MCU](https://ja.wikipedia.org/wiki/MCU "wikilink")『[A Peacetime MCU](https://ja.wikipedia.org/wiki/A_Peacetime_MCU "wikilink")』 | BVCR-11070 | 15.影ふみ / MCU feat.CHABA |
-| 2006年05月24日                                                              | 神輿ロッカーズPresents～island live in okinawa 2005～                                                                                     | BVBR-11070 |                         |
-|                                                                          |                                                                                                                                  |            |                         |
+| 発売日                                                                      | タイトル                                                                                                                   | 規格品番       | 収録曲                     |
+| ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------- |
+| [2005年](../Page/2005年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink") | [MCU](../Page/MCU_\(ラッパー\).md "wikilink")『[A Peacetime MCU](https://ja.wikipedia.org/wiki/A_Peacetime_MCU "wikilink")』 | BVCR-11070 | 15.影ふみ / MCU feat.CHABA |
+| 2006年05月24日                                                              | 神輿ロッカーズPresents～island live in okinawa 2005～                                                                           | BVBR-11070 |                         |
+|                                                                          |                                                                                                                        |            |                         |
 
 ## 出演
 
@@ -232,10 +232,22 @@ KSCL-926:CD</p></td>
 
   - [大阪芸術大学の人物一覧](https://ja.wikipedia.org/wiki/大阪芸術大学の人物一覧 "wikilink")
 
+## 脚注
+
 ## 外部リンク
 
-  - [平野一郎twitter](https://twitter.com/hiranoichiro)
-  - [hanabusalvador公式](http://hanasal.com/)
-  - [Shizuka Kashima official 鹿嶋静Facebook](https://www.facebook.com/KashimaShizuka/)
+  -
+  - [CHABA | ソニーミュージック オフィシャルサイト](https://www.sonymusic.co.jp/artist/Chaba/)
 
+  -
+  -
+  -
+  - [Hanasal公式Facebook](https://www.facebook.com/pages/Hanasal/229567067058367/)
+
+  -
+  -
+  - [SHIZUKA KASHIMA | music](https://kashimakabushikika.wixsite.com/music/shizuka-kashima)
+
+  -
+  -
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink")

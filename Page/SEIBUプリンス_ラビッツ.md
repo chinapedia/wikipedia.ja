@@ -1,7 +1,7 @@
 > この記事は[SEIBUプリンス ラビッツ](https://ja.wikipedia.org/wiki/SEIBUプリンス_ラビッツ)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:SeibuPrincerabbits_2008-1.JPG "wikilink") **SEIBUプリンスラビッツ**（セイブ・プリンスラビッツ [英表記](../Page/英語.md "wikilink"): SEIBU PRINCE RABBITS）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アイスホッケー](../Page/アイスホッケー.md "wikilink")チームで、[アジアリーグに所属していた](https://ja.wikipedia.org/wiki/アジアリーグアイスホッケー "wikilink")。本拠地は、[西東京市](../Page/西東京市.md "wikilink")の[ダイドードリンコアイスアリーナ](../Page/東伏見アイスアリーナ.md "wikilink")。準本拠地は、[横浜市](../Page/横浜市.md "wikilink")の新横浜[プリンスホテル](../Page/プリンスホテル.md "wikilink")スケートセンターと[長野県](../Page/長野県.md "wikilink")[長野市](../Page/長野市.md "wikilink")の[ビッグハット](../Page/長野市若里多目的スポーツアリーナ.md "wikilink")。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:SeibuPrincerabbits_2008-1.JPG "wikilink") **SEIBUプリンスラビッツ**（セイブ・プリンスラビッツ [英表記](../Page/英語.md "wikilink"): SEIBU PRINCE RABBITS）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アイスホッケー](../Page/アイスホッケー.md "wikilink")チームで、[アジアリーグに所属していた](https://ja.wikipedia.org/wiki/アジアリーグアイスホッケー "wikilink")。本拠地は、[西東京市](../Page/西東京市.md "wikilink")の[ダイドードリンコアイスアリーナ](../Page/東伏見アイスアリーナ.md "wikilink")。準本拠地は、[横浜市](../Page/横浜市.md "wikilink")の[新横浜プリンスホテル](../Page/新横浜プリンスホテル.md "wikilink")スケートセンターと[長野県](../Page/長野県.md "wikilink")[長野市](../Page/長野市.md "wikilink")の[ビッグハット](../Page/長野市若里多目的スポーツアリーナ.md "wikilink")。
 
 日本人初の[NHL](https://ja.wikipedia.org/wiki/NHL "wikilink")プレーヤー、[福藤豊](../Page/福藤豊.md "wikilink")が所属していたことでも有名。
 
@@ -19,7 +19,7 @@
 
 [1992年](../Page/1992年.md "wikilink") - 国土計画が社名をコクドに変えたことに伴い、チーム名もコクドアイスホッケー部となる。
 
-[2003年](../Page/2003年.md "wikilink") - 西武鉄道と再び合併し、コクドアイスホッケーチームに変更。ペットマークもうさぎから[西武ライオンズ](https://ja.wikipedia.org/wiki/西武ライオンズ "wikilink")と共有する形で[レオに変えた](https://ja.wikipedia.org/wiki/レオ_\(埼玉西武ライオンズ\) "wikilink")。西武鉄道の本拠地だった東京都[西東京市](../Page/西東京市.md "wikilink")が本拠地となり、新横浜と長野が準本拠地となる。長野が準本拠地となったのはコクドアイスホッケー部の初期の本拠地が軽井沢にあった名残で、現在のアジアリーグでも長野大会が行われるのもそのため。この年から発足した[アジアリーグへ参加](https://ja.wikipedia.org/wiki/アジアリーグアイスホッケー "wikilink")。
+[2003年](../Page/2003年.md "wikilink") - 西武鉄道と再び合併し、コクドアイスホッケーチームに変更。ペットマークもうさぎから[西武ライオンズと共有する形で](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")[レオに変えた](https://ja.wikipedia.org/wiki/レオ_\(埼玉西武ライオンズ\) "wikilink")。西武鉄道の本拠地だった東京都[西東京市](../Page/西東京市.md "wikilink")が本拠地となり、新横浜と長野が準本拠地となる。長野が準本拠地となったのはコクドアイスホッケー部の初期の本拠地が軽井沢にあった名残で、現在のアジアリーグでも長野大会が行われるのもそのため。この年から発足した[アジアリーグへ参加](https://ja.wikipedia.org/wiki/アジアリーグアイスホッケー "wikilink")。
 
 [2004](../Page/2004年.md "wikilink")-[2005年](../Page/2005年.md "wikilink")の[第2回アジアリーグも制覇](https://ja.wikipedia.org/wiki/アジアリーグアイスホッケー2004-2005 "wikilink")。
 
@@ -29,7 +29,7 @@
 
 [2006年](../Page/2006年.md "wikilink")-[2007年](../Page/2007年.md "wikilink")シーズンより一般公募による新チーム「**SEIBUプリンス ラビッツ**」として再スタートする。ペットマークをレオからうさぎの新しいデザインに変更。女子チーム「コクドレディース」も「**[SEIBUプリンセス ラビッツ](https://ja.wikipedia.org/wiki/SEIBUプリンセス_ラビッツ "wikilink")**」となった。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")-[2009年](../Page/2009年.md "wikilink")シーズンを最後に、親会社・プリンスホテルの業績不振もあり、シーズン中の12月19日に廃部を発表。記者会見では苦渋の決断だったと表明した\[1\]。なおSEIBUプリンセス ラビッツの女子部は当面存続する方針。最後のシーズンは全日本選手権優勝、アジアリーグではプレーオフ準決勝で王子イーグルスに4連勝したが、決勝で[日本製紙クレインズ](https://ja.wikipedia.org/wiki/日本製紙クレインズ "wikilink")に3勝4敗で敗れて2位となった\[2\]。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")-[2009年](../Page/2009年.md "wikilink")シーズンを最後に、親会社・プリンスホテルの業績不振もあり、シーズン中の12月19日に廃部を発表。記者会見では苦渋の決断だったと表明した\[1\]。なおSEIBUプリンセス ラビッツの女子部は当面存続する方針。最後のシーズンは全日本選手権優勝、アジアリーグではプレーオフ準決勝で王子イーグルスに4連勝したが、決勝で[日本製紙クレインズに](../Page/ひがし北海道クレインズ.md "wikilink")3勝4敗で敗れて2位となった\[2\]。
 
 ## 獲得タイトル
 
@@ -101,7 +101,7 @@
 
 8 CF 今洋祐、9 FW 佐藤翔
 
-**[日本製紙クレインズ](https://ja.wikipedia.org/wiki/日本製紙クレインズ "wikilink")へ移籍**
+**[日本製紙クレインズへ移籍](../Page/ひがし北海道クレインズ.md "wikilink")**
 
 16 CF 小原大輔
 

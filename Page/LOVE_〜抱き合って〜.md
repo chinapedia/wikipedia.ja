@@ -25,8 +25,6 @@
 
 ## 脚注
 
-
-
 ## 外部リンク
 
 [所属レコード会社によるディスコグラフィー](http://www.up-front-works.jp/release/detail/EPCE-5020/)

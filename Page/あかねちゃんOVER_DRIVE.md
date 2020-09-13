@@ -77,8 +77,8 @@
 
 ## 単行本
 
-  - 第1巻　1999年3月25日刊行　ISBN 4088470486
-  - 第2巻　2000年2月25日刊行　ISBN 4088471881
+  - 第1巻　[1999年](../Page/1999年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")刊行　ISBN 4088470486
+  - 第2巻　[2000年](../Page/2000年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")刊行　ISBN 4088471881
 
 [en:Akane-chan_Overdrive](https://ja.wikipedia.org/wiki/en:Akane-chan_Overdrive "wikilink")
 

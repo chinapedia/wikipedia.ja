@@ -5,11 +5,12 @@
 
 ## 概要
 
-前作『[JUMP WORLD](https://ja.wikipedia.org/wiki/JUMP_WORLD "wikilink")』から約2年ぶりとなるオリジナルアルバム。
+  - 前作『[JUMP WORLD](https://ja.wikipedia.org/wiki/JUMP_WORLD "wikilink")』から約2年ぶりとなるオリジナルアルバム。
+  - 初回限定盤1・初回限定盤2・通常盤初回プレス盤・通常盤の4形態で発売された。
 
-初回限定盤1・初回限定盤2・通常盤初回プレス盤・通常盤の4形態で発売された。
+<!-- end list -->
 
-12thシングルの2曲目「愛すればもっとハッピーライフ」は収録されていない。（アルバム初収録はベストアルバム『[Hey\! Say\! JUMP 2007-2017 I/O](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP_2007-2017_I/O "wikilink")』である。）
+  - 12thシングルの2曲目[「愛すればもっとハッピーライフ](https://ja.wikipedia.org/wiki/AinoArika/愛すればもっとハッピーライフ "wikilink")」は収録されていない。(アルバム初収録はベストアルバム『[Hey\! Say\! JUMP 2007-2017 I/O](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP_2007-2017_I/O "wikilink")』である。)
 
 ## 収録曲
 
@@ -90,4 +91,9 @@
 
 ## 脚注
 
-[Category:Hey\!_Say\!_JUMPのアルバム](https://ja.wikipedia.org/wiki/Category:Hey!_Say!_JUMPのアルバム "wikilink") [Category:2014年のアルバム](https://ja.wikipedia.org/wiki/Category:2014年のアルバム "wikilink") [Category:ジェイ・ストームのアルバム](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームのアルバム "wikilink") [Category:2014年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2014年のオリコンアルバムチャート1位獲得作品 "wikilink")
+## 外部リンク
+
+  - [J Stormによる紹介ページ](https://www.j-storm.co.jp/heysayjump/discography/smart)
+  - [Johnny's netによる紹介ページ](https://www.johnnys-net.jp/page?id=discoDetail&artist=15&data=2118)
+
+[Category:Hey\!_Say\!_JUMPのアルバム](https://ja.wikipedia.org/wiki/Category:Hey!_Say!_JUMPのアルバム "wikilink") [Category:ジェイ・ストームのアルバム](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームのアルバム "wikilink") [Category:2014年のアルバム](https://ja.wikipedia.org/wiki/Category:2014年のアルバム "wikilink") [Category:2014年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2014年のオリコンアルバムチャート1位獲得作品 "wikilink")

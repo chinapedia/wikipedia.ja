@@ -34,6 +34,7 @@
 7.  **冬の終り**
       -
         1992年[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ボクたちのドラマシリーズ](../Page/ボクたちのドラマシリーズ.md "wikilink")『[その時、ハートは盗まれた](../Page/その時、ハートは盗まれた.md "wikilink")』エンディングテーマ。
+        [第69回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第69回NHK紅白歌合戦 "wikilink")にて[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")がユーミンの好きな楽曲としてこの曲を挙げている。
 8.  **So high**
       -
         同じくドラマ『その時、ハートは盗まれた』劇中歌。
@@ -43,6 +44,7 @@
 10. **Carry on**
       -
         1992年[NHKスポーツニュース番組エンディングテーマ](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")。公式サイトと公式[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネルでプロモーション・ビデオが見られる。2003年にポーリン・ウィルソン（ex [シーウィンド](../Page/シーウィンド.md "wikilink")）がカバーした（『[OVER THE SKY: Yuming International Cover Album](../Page/OVER_THE_SKY:_Yuming_International_Cover_Album.md "wikilink")』収録）。
+        ライブではキーを下げて歌われることが多い。
 
 ## 参加ミュージシャン
 

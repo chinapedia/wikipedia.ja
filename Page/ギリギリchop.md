@@ -1,7 +1,7 @@
 > この記事は[ギリギリchop](https://ja.wikipedia.org/wiki/ギリギリchop)から翻訳されています。
 
 
-「**ギリギリchop**」 (ギリギリチョップ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[1999年](../Page/1999年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")に[Rooms RECORDSより](../Page/VERMILLION_RECORDS.md "wikilink")26作目の[シングル](../Page/シングル.md "wikilink")として発売された。
+「**ギリギリchop**」 (ギリギリチョップ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。1999年6月9日に[Rooms RECORDSより](../Page/VERMILLION_RECORDS.md "wikilink")26作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 
@@ -15,7 +15,7 @@
 
 購入者特典として主人公の[江戸川コナン](../Page/江戸川コナン.md "wikilink")とヒロインの[毛利蘭](../Page/毛利蘭.md "wikilink")がバイクに乗っているカードが入っている。またその裏には[着メロの入力番号が書かれている](../Page/着信メロディ.md "wikilink")\[2\]。
 
-両曲ともオリジナルバージョンでのアルバム初収録は、アニメの主題歌集である『[THE BEST OF DETECTIVE CONAN 〜名探偵コナン テーマ曲集〜](../Page/THE_BEST_OF_DETECTIVE_CONAN_〜名探偵コナン_テーマ曲集〜.md "wikilink")』となっている。
+両曲ともオリジナルバージョンでのアルバム初収録は、アニメの主題歌集である『[THE BEST OF DETECTIVE CONAN 〜名探偵コナン テーマ曲集〜](https://ja.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN#THE_BEST_OF_DETECTIVE_CONAN_〜名探偵コナン_テーマ曲集〜 "wikilink")』となっている。
 
 ## 収録曲
 
@@ -29,13 +29,12 @@
         [LIVE-GYM](../Page/LIVE-GYM.md "wikilink")ではライブ終盤やアンコールで演奏されることが多く、この曲がライブで演奏される時は、観客は[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")のコンサートなどでよく見られる「プロペラ」(タオルを頭上でブンブン振り回す)を行う。この曲が発売された当初はこのようなことは行われなかったが、後に行われた『B'z LIVE-GYM Pleasure 2000 "juice"』で、“各曲に演出を行うのに協力してもらうため”に作られたバックステージ席で行われた演出が発端であり(当然、それに乗じて通常の席に座っていた人も行った)、以降この曲がライブで演奏されると客席で「プロペラ」が行われ、『[B'z LIVE-GYM Pleasure 2008 -GLORY DAYS-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_Pleasure_2008_-GLORY_DAYS- "wikilink")』ではこれを使った演出が行われた。
         間奏はベースソロ→ギターソロの二段構成である。2001年の『[B'z LIVE-GYM 2001 "ELEVEN"](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2001_-ELEVEN- "wikilink")』までは原曲通りベースソロのパートで松本がバッキングを弾いていたが、ビリー・シーンが参加した2002年の『[B'z LIVE-GYM 2002 GREEN ～GO★FIGHT★WIN～](../Page/A_BEAUTIFUL_REEL._B'z_LIVE-GYM_2002_GREEN_〜GO★FIGHT★WIN〜.md "wikilink")』以降は弾いておらず、またサポートメンバーに[大賀好修](../Page/大賀好修.md "wikilink")が加わった『B'z LIVE-GYM 2011 -long time no see-』以降はギターソロの前半を大賀とのユニゾンで演奏している。
         2007年8月12日の[サマーソニック](../Page/サマーソニック.md "wikilink")2007にて行われた『エアギター2007ジャパンファイナル』で[ガチャピン](../Page/ガチャピン.md "wikilink")がこの曲をバックにパフォーマンスを行い、3位入賞および審査員特別賞受賞した\[6\]。
-        本作品より、[ビーイング](../Page/ビーイング.md "wikilink")所属アーティストによる『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』のオープニングテーマが続いている。
 2.  **ONE** (4:10)
       -
         映画『[名探偵コナン 世紀末の魔術師](../Page/名探偵コナン_世紀末の魔術師.md "wikilink")』主題歌に起用されたバラードナンバー。
         10thアルバム『Brotherhood』の制作過程で、最初期に制作された曲。なお、この曲のメイキングが『[The true meaning of "Brotherhood"?](../Page/The_true_meaning_of_"Brotherhood"?.md "wikilink")』に収められている。
         完成した時点で1st Beat、2nd Beat関係なくシングルに入れることは決まっており、1st Beatでもいいのではと意見もスタッフから出ていた\[7\]。
-        [バラード](../Page/バラード.md "wikilink")・[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[The Ballads 〜Love & B'z〜](../Page/The_Ballads_〜Love_&_B'z〜.md "wikilink")』でアルバム初収録となった。ベストアルバム『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』ではファン投票3位(中間発表2位)にランクインし\[8\]、2nd beatの曲では「[恋心 (KOI-GOKORO)](https://ja.wikipedia.org/wiki/ZERO_\(B'zの曲\)_#収録曲 "wikilink")」に匹敵する人気を誇っている。
+        [バラード](../Page/バラード.md "wikilink")・[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[The Ballads 〜Love & B'z〜](../Page/The_Ballads_〜Love_&_B'z〜.md "wikilink")』でアルバム初収録となった。ベスト・アルバム『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』ではファン投票3位(中間発表2位)にランクインし\[8\]、2nd beatの曲では「[恋心(KOI-GOKORO)](https://ja.wikipedia.org/wiki/ZERO_\(B'zの曲\)_#収録曲 "wikilink")」に匹敵する人気を誇っている。
 
 ## タイアップ
 
@@ -62,14 +61,14 @@
   - [B'z The Best "Pleasure II"](https://ja.wikipedia.org/wiki/B'z_The_Best_"Pleasure_II" "wikilink")
   - [B'z The Best "ULTRA Pleasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Pleasure" "wikilink")
   - [B'z The Best XXV 1999-2012](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1999-2012 "wikilink")
-  - [THE BEST OF DETECTIVE CONAN 〜名探偵コナン テーマ曲集〜](../Page/THE_BEST_OF_DETECTIVE_CONAN_〜名探偵コナン_テーマ曲集〜.md "wikilink")
+  - [THE BEST OF DETECTIVE CONAN 〜名探偵コナン テーマ曲集〜](https://ja.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN#THE_BEST_OF_DETECTIVE_CONAN_〜名探偵コナン_テーマ曲集〜 "wikilink")
 
 **ONE**
 
   - [The Ballads 〜Love & B'z〜](../Page/The_Ballads_〜Love_&_B'z〜.md "wikilink")
   - [B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")
-  - [THE BEST OF DETECTIVE CONAN 〜名探偵コナン テーマ曲集〜](../Page/THE_BEST_OF_DETECTIVE_CONAN_〜名探偵コナン_テーマ曲集〜.md "wikilink")
-  - [THE BEST OF DETECTIVE CONAN 〜The Movie Themes Collection〜](../Page/THE_BEST_OF_DETECTIVE_CONAN_〜The_Movie_Themes_Collection〜.md "wikilink")
+  - [THE BEST OF DETECTIVE CONAN 〜名探偵コナン テーマ曲集〜](https://ja.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN#THE_BEST_OF_DETECTIVE_CONAN_〜名探偵コナン_テーマ曲集〜 "wikilink")
+  - [THE BEST OF DETECTIVE CONAN 〜The Movie Themes Collection〜](https://ja.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN#THE_BEST_OF_DETECTIVE_CONAN_〜The_Movie_Themes_Collection〜 "wikilink")
   - [劇場版 名探偵コナン 主題歌集 〜“20”All Songs〜](https://ja.wikipedia.org/wiki/劇場版_名探偵コナン_主題歌集_〜“20”All_Songs〜 "wikilink")
 
 ## ライブ映像作品
@@ -107,7 +106,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/テレビアニメ" title="wikilink">テレビアニメ</a>『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_(アニメ)" title="wikilink">名探偵コナン</a>』<a href="../Page/主題歌.md" title="wikilink">オープニングテーマ</a><br />
-<a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/5月3日.md" title="wikilink">5月3日</a> - <a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/11月8日.md" title="wikilink">11月8日</a></p></td>
+1999年5月3日 - 1999年11月8日</p></td>
 </tr>
 <tr class="even">
 <td><p>前作:<br />
@@ -117,13 +116,13 @@
 </tbody>
 </table>
 
-[Category:B'zの楽曲](https://ja.wikipedia.org/wiki/Category:B'zの楽曲 "wikilink") [Category:稲葉浩志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:稲葉浩志が制作した楽曲 "wikilink") [Category:松本孝弘が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘が制作した楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:1999年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:読売テレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:読売テレビのテレビアニメ主題歌 "wikilink") [Category:名探偵コナンのアニメソング](https://ja.wikipedia.org/wiki/Category:名探偵コナンのアニメソング "wikilink") [Category:口笛が入った楽曲](https://ja.wikipedia.org/wiki/Category:口笛が入った楽曲 "wikilink") [Category:ジャイアント馬場を扱った作品](https://ja.wikipedia.org/wiki/Category:ジャイアント馬場を扱った作品 "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")
+[Category:B'zの楽曲](https://ja.wikipedia.org/wiki/Category:B'zの楽曲 "wikilink") [Category:稲葉浩志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:稲葉浩志が制作した楽曲 "wikilink") [Category:松本孝弘が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘が制作した楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:1999年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:読売テレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:読売テレビのテレビアニメ主題歌 "wikilink") [Category:名探偵コナンのアニメソング](https://ja.wikipedia.org/wiki/Category:名探偵コナンのアニメソング "wikilink") [Category:口笛が入った楽曲](https://ja.wikipedia.org/wiki/Category:口笛が入った楽曲 "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")
 
 1.  OP映像は2種類存在し、本PVが使われる前は、前年の『B'z LIVE-GYM '98 "SURVIVE"』の映像が使われていた。
 2.
 3.
 4.
-5.  『[B'z The Best XXV 1999-2012](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1999-2012 "wikilink")』初回限定盤に付属しているMUSIC VIDEOの[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")にて。
+5.
 6.
 7.
 8.

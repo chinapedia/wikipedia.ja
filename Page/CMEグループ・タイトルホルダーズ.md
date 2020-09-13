@@ -17,7 +17,7 @@
 
 ## 歴代優勝者
 
-### CMEグループ タイトルホルダーズ
+### CMEグループ・ツアー選手権
 
 <table>
 <thead>
@@ -77,7 +77,25 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+</tbody>
+</table>
+
+### CMEグループ・タイトルホルダーズ
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年</p></th>
+<th><p>優勝者</p></th>
+<th><p>国</p></th>
+<th><p>スコア</p></th>
+<th><p>会場</p></th>
+<th><p>賞金総額</p></th>
+<th><p>優勝賞金</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/馮珊珊" title="wikilink">フォン・シャンシャン</a></p></td>
 <td></td>
@@ -86,7 +104,7 @@
 <td><p>$700,000</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a></p></td>
 <td></td>
 <td></td>
@@ -95,7 +113,7 @@
 <td><p>$1,500,000</p></td>
 <td><p>$500,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a></p></td>
 <td></td>
 <td></td>
@@ -223,7 +241,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/メグ・マローン" title="wikilink">メグ・マローン</a></p></td>
+<td><p><a href="../Page/メグ・マローン.md" title="wikilink">メグ・マローン</a></p></td>
 <td></td>
 <td><p>281 (-7)</p></td>
 <td></td>
@@ -242,7 +260,7 @@
 </tbody>
 </table>
 
-### ITT LPGAツアー選手権
+### ITT・LPGAツアー選手権
 
 <table>
 <thead>

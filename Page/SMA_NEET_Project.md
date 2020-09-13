@@ -7,7 +7,9 @@
 
 ## 概要
 
-所属タレントはかつて他の芸能事務所に所属していた人が多いのが特徴で、諸事情がある芸人たちの「最後の砦」として機能している性格を持ち、新興事務所ながら芸人同士のつながりが深く経験も蓄積されている\[1\]。ユース的な要素を持つ下部組織として**[SMA HEET Project](../Page/SMA_HEET_Project.md "wikilink")**も存在している。また、他事務所からのオファーがあれば、移籍を容認する方針を取っている。
+かつて[渡辺プロダクション](../Page/渡辺プロダクション.md "wikilink")で芸人のマネージャーを務めていた平井精一が2004年12月に立ち上げた\[1\]。お笑い事務所としては後発だったため、他事務所が少数精鋭の方針を取っていたところをあえて逆行。かつて他事務所に所属していたフリーの芸人を集め、「とにかく分母を増やす」手法を取った\[2\]。立ち上げ後も「来る者拒まず、去る者追わず」を基本としており移籍組が多いのが特徴で、諸事情がある芸人たちの「最後の砦」として機能している性格を持ち、新興事務所ながら芸人同士のつながりが深く経験も蓄積されている\[3\]。
+
+他プロジェクトとして、ユース的な要素を持つ下部組織**[SMA HEET Project](../Page/SMA_HEET_Project.md "wikilink")**、および占い師など文化人枠の**SMA KEET Project**が存在する\[4\]。
 
 ## SMAトライアウトライブ（笑）
 
@@ -51,23 +53,20 @@
   - [だーりんず](https://ja.wikipedia.org/wiki/だーりんず "wikilink")（松本りんす／小田祐一郎）
   - [ムシャムシャ](https://ja.wikipedia.org/wiki/ムシャムシャ "wikilink")（児島淳子／村上友香）
   - [バイきんぐ](https://ja.wikipedia.org/wiki/バイきんぐ "wikilink")（[小峠英二](https://ja.wikipedia.org/wiki/小峠英二 "wikilink")／[西村瑞樹](https://ja.wikipedia.org/wiki/西村瑞樹 "wikilink")）
-  - [ツインクル](../Page/ツインクル_\(お笑いコンビ\).md "wikilink")（ポリスじろう\[2\]／クック井上。\[3\]）
+  - [ツインクル](../Page/ツインクル_\(お笑いコンビ\).md "wikilink")（ポリスじろう\[5\]／クック井上。\[6\]）
   - [つくし野センター](https://ja.wikipedia.org/wiki/つくし野センター "wikilink")（鈴木トド／松井瀬己）
   - [プラッチック](https://ja.wikipedia.org/wiki/プラッチック_\(お笑い\) "wikilink")（[一丁](https://ja.wikipedia.org/wiki/一丁 "wikilink")／[ニッタロビンソン](https://ja.wikipedia.org/wiki/仁田和伸 "wikilink")）
   - [キリンキリン](https://ja.wikipedia.org/wiki/キリンキリン "wikilink")（きりん田／岡下浩也）
   - [しめじクリニック](https://ja.wikipedia.org/wiki/しめじクリニック "wikilink")（中山亮／あんご）
   - [レインボーグランド](https://ja.wikipedia.org/wiki/レインボーグランド "wikilink")（根本正一／目良圭佑）
-  - [TOKYO COOL](https://ja.wikipedia.org/wiki/TOKYO_COOL "wikilink")（[カンカン](../Page/カンカン_\(お笑い芸人\).md "wikilink")\[4\]／[前すすむ](../Page/グーとパー.md "wikilink")）
-
-<!-- end list -->
-
+  - [TOKYO COOL](https://ja.wikipedia.org/wiki/TOKYO_COOL "wikilink")（[カンカン](../Page/カンカン_\(お笑い芸人\).md "wikilink")\[7\]／[前すすむ](../Page/グーとパー.md "wikilink")）
   - [ダンシングヒーロー](https://ja.wikipedia.org/wiki/シャングリラ_\(お笑い\) "wikilink")（河中美二／宮田庸平）
   - [ハンライス](https://ja.wikipedia.org/wiki/ハンライス "wikilink")（伴田大輔／飯田健吾）
   - [シャチ](https://ja.wikipedia.org/wiki/シャチ_\(お笑い\) "wikilink")（古山紘基／リアル鈴木／江口マサル）
   - [ズンズンポイポイ](https://ja.wikipedia.org/wiki/ズンズンポイポイ "wikilink")（ロックキッズ太朗／THE小野）
   - [リッチドッグ](https://ja.wikipedia.org/wiki/リッチドッグ "wikilink")（山中陽裕／宮本裕平）
   - [Wニードロップ](https://ja.wikipedia.org/wiki/Wニードロップ "wikilink")（[小橋太っ太](https://ja.wikipedia.org/wiki/3フランシスコ "wikilink")／奥村CEO）
-  - [万福](https://ja.wikipedia.org/wiki/万福 "wikilink")（桑本／トントン\[5\]）
+  - [万福](https://ja.wikipedia.org/wiki/万福 "wikilink")（桑本／トントン\[8\]）
   - [愛のゼブラ](https://ja.wikipedia.org/wiki/愛のゼブラ "wikilink")（田中ゼブラ／愛のかたまり）
   - [あるてぃんぐ](https://ja.wikipedia.org/wiki/あるてぃんぐ "wikilink")（大矢はるき／鷲尾あきと）
   - [社長のおにぎり](https://ja.wikipedia.org/wiki/社長のおにぎり "wikilink")（ヤキオニギリ／社長）
@@ -82,7 +81,6 @@
 
 <!-- end list -->
 
-  - [カンカン](../Page/カンカン_\(お笑い芸人\).md "wikilink")
   - [ハリウッドザコシショウ](../Page/ハリウッドザコシショウ.md "wikilink")
   - [SAKURAI](../Page/SAKURAI.md "wikilink")
   - [えずれひろゆき](https://ja.wikipedia.org/wiki/えずれひろゆき "wikilink")
@@ -99,7 +97,7 @@
   - [ゆっくんちゃん](https://ja.wikipedia.org/wiki/ゆっくんちゃん "wikilink")
   - [エンジェリック乱世](https://ja.wikipedia.org/wiki/エンジェリック乱世 "wikilink")
   - [マツモトクラブ](https://ja.wikipedia.org/wiki/マツモトクラブ "wikilink")
-  - [桐野安生](https://ja.wikipedia.org/wiki/桐野安生 "wikilink")
+  - [桐野安生](../Page/桐野安生.md "wikilink")
   - [きの](https://ja.wikipedia.org/wiki/きの "wikilink")
   - [ナスヒト](https://ja.wikipedia.org/wiki/ナスヒト "wikilink")
   - [箸休めサトシ](https://ja.wikipedia.org/wiki/箸休めサトシ "wikilink")
@@ -134,7 +132,7 @@
   - [ジャック豆山](https://ja.wikipedia.org/wiki/ジャック豆山 "wikilink")
   - [小声くん](https://ja.wikipedia.org/wiki/小声くん "wikilink")
   - [ツジモト](https://ja.wikipedia.org/wiki/ツジモト "wikilink")
-  - [今泉](https://ja.wikipedia.org/wiki/今泉 "wikilink")
+  - [今泉](../Page/今泉.md "wikilink")
 
 ## かつて所属していた主なタレント
 
@@ -459,7 +457,7 @@
 
 ## Beach V
 
-**Beach V**（びーちぶ）は、[東京都](../Page/東京都.md "wikilink")[豊島区](https://ja.wikipedia.org/wiki/豊島区 "wikilink")[要町](../Page/要町_\(豊島区\).md "wikilink")\[6\]にあるSMA所有の稽古場兼[劇場](../Page/劇場.md "wikilink")である。
+**Beach V**（びーちぶ）は、[東京都](../Page/東京都.md "wikilink")[豊島区](https://ja.wikipedia.org/wiki/豊島区 "wikilink")[要町](../Page/要町_\(豊島区\).md "wikilink")\[9\]にあるSMA所有の稽古場兼[劇場](../Page/劇場.md "wikilink")である。
 
 ### 概要
 
@@ -492,9 +490,12 @@
 
 [Category:SMA_NEET_Project](https://ja.wikipedia.org/wiki/Category:SMA_NEET_Project "wikilink") [Category:ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアーティスツ "wikilink") [Category:芸能プロダクション](https://ja.wikipedia.org/wiki/Category:芸能プロダクション "wikilink") [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink")
 
-1.  [アキラ100％、バイきんぐ――「SMA芸人」が強い3つの理由](https://news.yahoo.co.jp/byline/larrytoda/20170313-00068664/)
-2.  ピン芸人として個別のプロフィールも掲載されている。
-3.  ピン芸人として個別のプロフィールも掲載されている。
-4.  ピン芸人として個別のプロフィールも掲載されている。
+1.
+2.
+3.  [アキラ100％、バイきんぐ――「SMA芸人」が強い3つの理由](https://news.yahoo.co.jp/byline/larrytoda/20170313-00068664/)
+4.
 5.  ピン芸人として個別のプロフィールも掲載されている。
-6.
+6.  ピン芸人として個別のプロフィールも掲載されている。
+7.  ピン芸人として個別のプロフィールも掲載されている。
+8.  ピン芸人として個別のプロフィールも掲載されている。
+9.

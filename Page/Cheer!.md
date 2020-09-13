@@ -11,7 +11,7 @@
 
 ## 収録曲
 
-1.  **[煌めく瞬間に捕われて](../Page/煌めく瞬間に捕われて.md "wikilink")**
+1.  **[煌めく瞬間に捕われて](https://ja.wikipedia.org/wiki/煌めく瞬間に捕われて/眩しいくらいに… "wikilink")**
       -
         作詞:[高橋美鈴](../Page/MANISH.md "wikilink")･[川島だりあ](../Page/川島だりあ.md "wikilink") 作曲:川島だりあ 編曲:[明石昌夫](../Page/明石昌夫.md "wikilink")
 2.  **イラナイ**
@@ -24,7 +24,7 @@
         作詞:高橋美鈴 作曲:[西本麻里](../Page/MANISH.md "wikilink") 編曲:古井弘人
     <!-- end list -->
       - ビデオクリップが制作されており、遠くから2人を撮影した映像が主に使用されているが、直接曲を歌う様子は含まれていない。
-4.  **[眩しいくらいに…（Album Version）](../Page/煌めく瞬間に捕われて.md "wikilink")**
+4.  **[眩しいくらいに…（Album Version）](https://ja.wikipedia.org/wiki/煌めく瞬間に捕われて/眩しいくらいに… "wikilink")**
       -
         作詞:高橋美鈴 作曲:西本麻里 編曲:古井弘人
         古井がアレンジを加えたアルバムバージョン。

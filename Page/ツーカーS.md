@@ -11,7 +11,7 @@
 
 また、着信音は一種類のみでマナーモードも全く搭載されていない為、着信音が鳴る事が好ましくない状況では電源を切る必要がある。
 
-名称に関しては究極のシンプル端末を意味し、**[黒電話並みの使いやすさで説明書の要らない携帯電話](https://ja.wikipedia.org/wiki/電話機 "wikilink")**とPRされた。実際に添付された説明書は大きな紙1枚だった\[1\]。販売当初より5000円以下で提供され、1年以上ツーカーで最も人気の高い端末になった。なおこの端末は2004年度の[グッドデザイン賞](https://ja.wikipedia.org/wiki/グッドデザイン賞 "wikilink")ユニバーサルデザイン賞を受賞している。
+名称に関しては究極のシンプル端末を意味し、**[黒電話](../Page/黒電話.md "wikilink")並みの使いやすさで説明書の要らない携帯電話**とPRされた。実際に添付された説明書は大きな紙1枚だった\[1\]。販売当初より5000円以下で提供され、1年以上ツーカーで最も人気の高い端末になった。なおこの端末は2004年度の[グッドデザイン賞](https://ja.wikipedia.org/wiki/グッドデザイン賞 "wikilink")ユニバーサルデザイン賞を受賞している。
 
 ## 他キャリアへ与えた影響
 
@@ -36,8 +36,8 @@
 
 ## 外部リンク
 
-  - [ツーカー、液晶なしの通話専用端末「ツーカーS」](http://k-tai.impress.co.jp/cda/article/news_toppage/21003.html)
-  - [ケータイ新製品SHOW CASE ツーカーS](http://k-tai.impress.co.jp/cda/article/showcase_top/21845.html)
+  -
+  -
 
 [Category:携帯電話端末_(ツーカー)](https://ja.wikipedia.org/wiki/Category:携帯電話端末_\(ツーカー\) "wikilink") [Category:携帯電話端末_(京セラ)](https://ja.wikipedia.org/wiki/Category:携帯電話端末_\(京セラ\) "wikilink") [Category:グッドデザイン賞](https://ja.wikipedia.org/wiki/Category:グッドデザイン賞 "wikilink")
 

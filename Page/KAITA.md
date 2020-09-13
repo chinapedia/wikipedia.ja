@@ -203,8 +203,6 @@
 
 ## 関連人物
 
-  - [能勢克男](https://ja.wikipedia.org/wiki/能勢克男 "wikilink")
+  - [能勢克男](https://ja.wikipedia.org/wiki/能勢克男 "wikilink")　戦前の思想家。ボーカル能勢海太の祖父にあたる
 
-戦前の思想家。ボーカル能勢海太の祖父にあたる
-
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink")

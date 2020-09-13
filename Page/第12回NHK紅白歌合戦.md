@@ -105,6 +105,6 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=12)
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1961年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1961年のテレビ番組_\(日本\) "wikilink") [Category:1961年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1961年のラジオ番組_\(日本\) "wikilink") [Category:1961年の音楽](https://ja.wikipedia.org/wiki/Category:1961年の音楽 "wikilink") [Category:1961年12月](https://ja.wikipedia.org/wiki/Category:1961年12月 "wikilink")

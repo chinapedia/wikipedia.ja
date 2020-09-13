@@ -5,17 +5,17 @@
 
 ## 概要
 
-  - B'zとしての活動を休止し、それぞれがソロ活動を行っていた期間にリリースされたシングル。
-  - 初回限定盤には48ページに及ぶ「SPECIAL ART & PHOTO BOOK」が付属されている。
+B'zとしての活動を休止し、それぞれがソロ活動を行っていた期間にリリースされたシングル。
+
+初回限定盤には48ページに及ぶ『SPECIAL ART & PHOTO BOOK』が付属されている。
 
 ## 収録曲
 
 1.  **Wonderland** （4:05）
       -
-        [引きこもり](../Page/引きこもり.md "wikilink")を核として書かれた楽曲。稲葉自身が「引きこもり」を取り上げたあるテレビ特番において、引きこもり患者を周りの人達が必死で外に出そうとしている姿を見て「その行為はその人にとっても、相手にとってもプラスになるのだろうか？」という一種の疑問から生まれた。
-        稲葉は当初、「裏返しの世界」をタイトルにしようと思っていたらしい。また、以前から歌詞はあり、その時のタイトルは「ぴかぴか」。
-        TBS系「[恋するハニカミ\!](../Page/恋するハニカミ!.md "wikilink")」の主題歌としても取り上げられた。
-        3枚目のアルバム『[Peace Of Mind](../Page/Peace_Of_Mind_\(アルバム\).md "wikilink")』に収録されており、ソロシングル曲がソロオリジナルアルバムに収録されたのは本作が初めてである。
+        [引きこもり](../Page/引きこもり.md "wikilink")を核として書かれた楽曲\[1\]\[2\]。
+        TBS系『[恋するハニカミ\!](../Page/恋するハニカミ!.md "wikilink")』テーマソングに起用された。
+        3枚目のアルバム『[Peace Of Mind](../Page/Peace_Of_Mind_\(アルバム\).md "wikilink")』に収録されており、ソロシングル曲がソロオリジナルアルバムに収録されたのは本曲が初めてである。
 2.  **あなたの声だけがこの胸震わす** （5:11）
       -
         [スカイセンサーの](../Page/スカイセンサー_\(ラジオ\).md "wikilink")[ノイズ](../Page/ノイズ.md "wikilink")で幕を開けるバラード。
@@ -53,3 +53,6 @@
 ### 出典
 
 [Category:稲葉浩志の楽曲](https://ja.wikipedia.org/wiki/Category:稲葉浩志の楽曲 "wikilink") [Category:稲葉浩志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:稲葉浩志が制作した楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:2004年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2004年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:恋するハニカミ\!](https://ja.wikipedia.org/wiki/Category:恋するハニカミ! "wikilink") [Category:楽曲_わ](https://ja.wikipedia.org/wiki/Category:楽曲_わ "wikilink")
+
+1.
+2.

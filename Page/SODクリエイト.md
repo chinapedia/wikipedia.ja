@@ -118,7 +118,7 @@
 </tr>
 <tr class="odd">
 <td><p>★</p></td>
-<td><p><a href="../Page/天野こころ.md" title="wikilink">天野♥こころ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/天野♥こころ" title="wikilink">天野♥こころ</a></p></td>
 <td><p>24時間いつでもどこでもぶっかけザーメン 天野♥こころ(2002-10-5)</p></td>
 </tr>
 <tr class="even">
@@ -238,7 +238,7 @@
 </tr>
 <tr class="odd">
 <td><p>☆</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/天川るる" title="wikilink">天川るる</a></p></td>
+<td><p>天川るる</p></td>
 <td><p>天川るる 『私、AV女優になります。』(2008-5-22)</p></td>
 </tr>
 <tr class="even">
@@ -297,7 +297,7 @@
 </tr>
 <tr class="even">
 <td><p>☆</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SARAH_(AV女優)" title="wikilink">SARAH</a></p></td>
+<td><p>SARAH</p></td>
 <td><p>SARAH AV Debut(2010-12-7)</p></td>
 </tr>
 <tr class="odd">
@@ -798,7 +798,8 @@
 | ☆       | [白川ゆず](https://ja.wikipedia.org/wiki/白川ゆず "wikilink")     | 白川ゆず 18歳 AV DEBUT (2019-12-26)           |
 | ☆       | [楠木あず](https://ja.wikipedia.org/wiki/楠木あず "wikilink")     | 楠木あず AV DEBUT（2020-2-20）※同年1月17日配信開始     |
 | ☆       | [朝比奈ななせ](https://ja.wikipedia.org/wiki/朝比奈ななせ "wikilink") | 朝比奈ななせ AV DEBUT (2020-3-12)              |
-| ☆       | 夏目響\[10\]                                                 | 名前はまだない。 緊急発売 AV出演（2020-4-23)            |
+| ☆       | [夏目響](../Page/夏目響.md "wikilink")\[10\]                    | 名前はまだない。 緊急発売 AV出演（2020-4-23)            |
+| ☆       | 宮島めい                                                      | 宮島めい AV DEBUTします。でも、次で引退です。（2020-7-9)    |
 |         |                                                           |                                          |
 
 ### SODstarシンデレラオーディション
@@ -857,7 +858,7 @@
 </tr>
 <tr class="even">
 <td><p>グランプリ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/相内しおり" title="wikilink">相内しおり</a></p></td>
+<td><p>相内しおり</p></td>
 <td><p>第2回シンデレラオーディショングランプリ 相内しおり AV Debut<br />
 (2010-5-1)</p></td>
 <td><p><a href="../Page/処女.md" title="wikilink">処女</a>でAVデビュー<br />

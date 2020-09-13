@@ -54,7 +54,7 @@
 
 ### 使用可能な路線及び特典
 
-  - [広域電鉄](../Page/広域電鉄.md "wikilink")・[首都圏電鉄](../Page/首都圏電鉄.md "wikilink")、[団体列車](../Page/団体専用列車.md "wikilink")、[SRTを除くKORAIL全線の一般室](https://ja.wikipedia.org/wiki/SRT_\(列車\) "wikilink")[指定席](https://ja.wikipedia.org/wiki/指定席 "wikilink")、観光列車（[O-train](https://ja.wikipedia.org/wiki/中部内陸循環列車 "wikilink")・[V-train](https://ja.wikipedia.org/wiki/白頭大幹峡谷列車 "wikilink")・[A-train](https://ja.wikipedia.org/wiki/旌善アリラン列車 "wikilink")・[S-train](https://ja.wikipedia.org/wiki/南道海洋観光列車 "wikilink")・[G-train](https://ja.wikipedia.org/wiki/西海金光列車 "wikilink")・[DMZ-train](https://ja.wikipedia.org/wiki/DMZ-Train "wikilink")）が乗車可（事前に座席指定券の発行を受ける。座席指定券の発券枚数は1人1日2枚まで\[1\]）
+  - [広域電鉄](../Page/広域電鉄.md "wikilink")・[首都圏電鉄](../Page/首都圏電鉄.md "wikilink")、[団体列車](../Page/団体専用列車.md "wikilink")、[SRTを除くKORAIL全線](https://ja.wikipedia.org/wiki/SRT_\(列車\) "wikilink")([ITX-青春](https://ja.wikipedia.org/wiki/ITX-青春 "wikilink")含む)の一般室[指定席](https://ja.wikipedia.org/wiki/指定席 "wikilink")、観光列車（[O-train](https://ja.wikipedia.org/wiki/中部内陸循環列車 "wikilink")・[V-train](https://ja.wikipedia.org/wiki/白頭大幹峡谷列車 "wikilink")・[A-train](https://ja.wikipedia.org/wiki/旌善アリラン列車 "wikilink")・[S-train](https://ja.wikipedia.org/wiki/南道海洋観光列車 "wikilink")・[G-train](https://ja.wikipedia.org/wiki/西海金光列車 "wikilink")・[DMZ-train](https://ja.wikipedia.org/wiki/DMZ-Train "wikilink")）が乗車可（事前に座席指定券の発行を受ける。座席指定券の発券枚数は1人1日2枚まで\[1\]）
       - 年末年始、[旧正月](https://ja.wikipedia.org/wiki/旧正月 "wikilink")、[秋夕](https://ja.wikipedia.org/wiki/秋夕 "wikilink")、夏休みは[KTX](https://ja.wikipedia.org/wiki/韓国高速鉄道 "wikilink")・[ITX-セマウル](https://ja.wikipedia.org/wiki/ITX-セマウル "wikilink")・[ムグンファ号](../Page/ムグンファ号.md "wikilink")の指定席は利用できない（立席は可）。
       - [平昌オリンピック前後の](https://ja.wikipedia.org/wiki/2018年平昌オリンピック "wikilink")2018年2月1日 - 3月25日の間は、[京江線](https://ja.wikipedia.org/wiki/京江線 "wikilink")直通のKTXは利用不可。別途発売される「[平昌コレールパス](https://ja.wikipedia.org/wiki/#平昌コレールパス "wikilink")」のみ利用可能。
   - 特室は一般室料金との差の半額で使用可
@@ -80,7 +80,7 @@
 
 ### 注意点
 
-[ITX-青春](https://ja.wikipedia.org/wiki/ITX-青春 "wikilink")は、首都圏電鉄扱いのため乗車券としても使用出来ない。また、KTXと同じ線路を使用する[SRTも運営会社が異なるためパス使用は出来ない](https://ja.wikipedia.org/wiki/SRT_\(列車\) "wikilink")。
+また、KTXと同じ線路を使用する[SRTも運営会社が異なるためパス使用は出来ない](https://ja.wikipedia.org/wiki/SRT_\(列車\) "wikilink")。
 
 [2018年平昌オリンピック](https://ja.wikipedia.org/wiki/2018年平昌オリンピック "wikilink")・[パラリンピックの期間中](https://ja.wikipedia.org/wiki/2018年平昌パラリンピック "wikilink")（2018年2月1日 - 3月25日）は、KTX京江線（現：江陵線）は対象外であり\[2\]、別途販売される平昌コレールパスが必要だった。
 

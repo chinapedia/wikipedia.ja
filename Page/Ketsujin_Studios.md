@@ -18,6 +18,6 @@
 ## 外部リンク
 
   - [www.convergedgames.com（要FLASH、英語）](http://www.convergedgames.com/)
-  - [公式サイト(英語)](http://web.archive.org/web/20130120004246/http://www.ketsujin.com/) - 閉鎖。（2013年1月20日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [公式サイト(英語)](https://web.archive.org/web/20130120004246/http://www.ketsujin.com/) - 閉鎖。（2013年1月20日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
 [Category:カナダのコンピュータゲームメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:カナダのコンピュータゲームメーカー・ブランド "wikilink")

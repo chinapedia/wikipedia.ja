@@ -74,8 +74,4 @@
   - [ゆうがたGet\!](../Page/ゆうがたGet!.md "wikilink")
   - [TSB 600ステーション](../Page/TSB_600ステーション.md "wikilink")
 
-## 外部リンク
-
-  - [NNNニュース](http://tsb.jp/news/nnn/)
-
-[Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:テレビ信州番組](https://ja.wikipedia.org/wiki/Category:テレビ信州番組 "wikilink") [Category:関東・甲信越地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビの帯番組 "wikilink") [Category:関東・甲信越地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:NNN_Newsリアルタイム](https://ja.wikipedia.org/wiki/Category:NNN_Newsリアルタイム "wikilink")
+[Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:テレビ信州の番組](https://ja.wikipedia.org/wiki/Category:テレビ信州の番組 "wikilink") [Category:関東・甲信越地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビの帯番組 "wikilink") [Category:関東・甲信越地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:NNN_Newsリアルタイム](https://ja.wikipedia.org/wiki/Category:NNN_Newsリアルタイム "wikilink")

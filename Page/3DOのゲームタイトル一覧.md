@@ -110,7 +110,7 @@
   - 1月28日 [スーパーモデル ゲイル・マッケンナ](https://ja.wikipedia.org/wiki/ゲイル・マッケンナ "wikilink")（[ディジタルプロダクション](https://ja.wikipedia.org/wiki/ディジタルプロダクション "wikilink")）
   - 2月10日 [サムライショーダウン](../Page/サムライスピリッツ.md "wikilink")（BMGビクター）
   - 2月17日 [スター・ウォーズ レベル・アサルト](https://ja.wikipedia.org/wiki/スター・ウォーズ・シリーズ "wikilink")（エレクトロニック・アーツ・ビクター）
-  - 2月17日 [バーチャルカメラマン Part1](https://ja.wikipedia.org/wiki/バーチャルカメラマン "wikilink") [沢田奈緒美](https://ja.wikipedia.org/wiki/沢田奈緒美 "wikilink")＆[樹里あんな](../Page/樹里あんな.md "wikilink")（[ナグザット](https://ja.wikipedia.org/wiki/ナグザット "wikilink")）
+  - 2月17日 [バーチャルカメラマン Part1](https://ja.wikipedia.org/wiki/バーチャルカメラマン "wikilink") [沢田奈緒美](https://ja.wikipedia.org/wiki/沢田奈緒美 "wikilink")＆樹里あんな（[ナグザット](https://ja.wikipedia.org/wiki/ナグザット "wikilink")）
   - 2月17日 [ファッティーペアのびっくり誕生日\!](https://ja.wikipedia.org/wiki/ファッティーペアのびっくり誕生日! "wikilink")（丸紅/メディアビジョン）
   - 2月17日 [ファン・ゲーム ソフトのおもちゃばこ](https://ja.wikipedia.org/wiki/ファン・ゲーム_ソフトのおもちゃばこ "wikilink")（ヴァージンインタラクティブ エンターテインメント）
   - 2月17日 [フラッシュバック](https://ja.wikipedia.org/wiki/フラッシュバック_\(ゲーム\) "wikilink")（エレクトロニック・アーツ・ビクター）
@@ -147,7 +147,7 @@
   - 5月26日 [ウェイ・オブ・ザ・ウォリアー](https://ja.wikipedia.org/wiki/ウェイ・オブ・ザ・ウォリアー "wikilink")（UIS）
   - 5月26日 [小倉百人一首](https://ja.wikipedia.org/wiki/小倉百人一首 "wikilink")（[パンソフト](https://ja.wikipedia.org/wiki/パンソフト "wikilink")）
   - 6月2日 [バーチャルカメラマン Part4](https://ja.wikipedia.org/wiki/バーチャルカメラマン "wikilink") [藤谷しおり](../Page/藤谷しおり.md "wikilink")（ナグザット）
-  - 6月9日 [ゲームの達人](../Page/ゲームの達人.md "wikilink")（サンソフト）
+  - 6月9日 [ゲームの達人](../Page/ゲームの達人_\(ゲーム\).md "wikilink")（サンソフト）
   - 6月9日 [山田かまち](../Page/山田かまち.md "wikilink")美術館（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
   - 6月16日 [けろけろけろっぴ](../Page/けろけろけろっぴ.md "wikilink")とおりがみのたびびと（MIZUKI）
   - 6月16日 [ハローキティあそびのおもちゃばこ](https://ja.wikipedia.org/wiki/ハローキティあそびのおもちゃばこ "wikilink")（MIZUKI）

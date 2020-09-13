@@ -34,7 +34,7 @@
 
 [Category:日本のウェブサイト](https://ja.wikipedia.org/wiki/Category:日本のウェブサイト "wikilink") [Category:アダルトゲームのウェブサイト](https://ja.wikipedia.org/wiki/Category:アダルトゲームのウェブサイト "wikilink") [Category:2003年開設のウェブサイト](https://ja.wikipedia.org/wiki/Category:2003年開設のウェブサイト "wikilink") [Category:2010年廃止のウェブサイト](https://ja.wikipedia.org/wiki/Category:2010年廃止のウェブサイト "wikilink")
 
-1.  [サイト休止のお知らせ](http://web.archive.org/web/20100408035942/http://galge.com/info/notice/)（インターネットアーカイブ2010年4月8日分キャッシュ）
+1.  [サイト休止のお知らせ](https://web.archive.org/web/20100408035942/http://galge.com/info/notice/)（インターネットアーカイブ2010年4月8日分キャッシュ）
 2.  旧：Cheerful+Colorful in『ちあ+から』のチ･カ･ラ-ver2.0-
 3.  株式会社「天沼矛」社長
 4.  「ピースソフト」代表取締役

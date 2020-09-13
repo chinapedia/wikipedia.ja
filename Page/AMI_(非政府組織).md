@@ -71,7 +71,7 @@
 
 ## 外部リンク
 
-  - [連絡網AMI-Web](http://web.archive.org/web/20140529104513/http://picnic.to/~ami/index.htm)
+  - [連絡網AMI-Web](https://web.archive.org/web/20140529104513/http://picnic.to/~ami/index.htm)
 
   - [AMI19板](http://jbbs.shitaraba.net/news/648/)（連絡網AMIの掲示板。現在はアーカイブとして残っている）
 
@@ -91,24 +91,24 @@
 9.  [川中達治『青少年保護とネット規制』](https://www.oit.ac.jp/japanese/toshokan/tosho/kiyou/jinshahen/54-1/03kawanaka.pdf)
 10.
 11.
-12. [AMI活動史](http://web.archive.org/web/20140320071248/http://picnic.to/~ami/repo/katsudou.htm)
+12. [AMI活動史](https://web.archive.org/web/20140320071248/http://picnic.to/~ami/repo/katsudou.htm)
 13. [児童ポルノ禁止法](../Page/児童買春、児童ポルノに係る行為等の規制及び処罰並びに児童の保護等に関する法律.md "wikilink")、[青少年有害社会環境対策基本法](../Page/青少年有害社会環境対策基本法案.md "wikilink")、[東京都](../Page/東京都.md "wikilink")の[青少年保護育成条例](https://ja.wikipedia.org/wiki/青少年保護育成条例 "wikilink")などである。
 14. [TINAMIX『「第二回子どもの商業的性的搾取に反対する世界会議」レポート』](http://www.tinami.com/x/report/16/page2.html)
 15. [『米沢嘉博記念図書館｜米沢嘉博：人と仕事｜年譜』](http://www.meiji.ac.jp/manga/yonezawa_lib/profile_year_02.html)
 16. [JSS:日本副次文化安全保障局](http://www.geocities.co.jp/WallStreet-Stock/8595/top.html) 2003-2004年に活動を終了している。
-17. [AMI公式HP「署名活動について」](http://web.archive.org/web/20131217091144/http://picnic.to/~ami/syomei.htm)
+17. [AMI公式HP「署名活動について」](https://web.archive.org/web/20131217091144/http://picnic.to/~ami/syomei.htm)
 18. [第156回国会　法務委員会『児童保護に名を借りた創作物の規制反対に関する請願』](http://www.shugiin.go.jp/itdb_seigan.nsf/html/seigan/1561105.htm)
 19. [連絡網AMI『朝日新聞への抗議文』](https://web.archive.org/web/20101222014114/http://picnic.to/~ami/kougibun.htm)
-20. [AMI活動史](http://web.archive.org/web/20140320071248/http://picnic.to/~ami/repo/katsudou.htm)
-21. [「大谷昭宏フラッシュアップ」平成16年11月23日掲載分についての公開質問状](http://web.archive.org/web/20130902044513/http://picnic.to/~ami/ool.htm)
+20. [AMI活動史](https://web.archive.org/web/20140320071248/http://picnic.to/~ami/repo/katsudou.htm)
+21. [「大谷昭宏フラッシュアップ」平成16年11月23日掲載分についての公開質問状](https://web.archive.org/web/20130902044513/http://picnic.to/~ami/ool.htm)
 22. メディア総合研究所『放送レポート193号』 P40「フィギュア萌え族という“妄言”」
-23. [AMI更新略歴](http://web.archive.org/web/20050728091719/http://picnic.to/~ami/topnews.htm)
+23. [AMI更新略歴](https://web.archive.org/web/20050728091719/http://picnic.to/~ami/topnews.htm)
 24. [衆議院選挙候補者アンケート](http://archive.is/yTfaX)
 25. [参議院選挙候補者アンケート](http://archive.is/JeL9)
 26. 解散が正式に発表された日付は6月25日だが、具体的な解散の設定日付はなく「AMIは2012年を持って正式に解散いたします」という内容の宣言であった。その2日後の27日にAMI-BBSにおいて、「NGO-AMIは2012年6月27日を持って解散いたしました。」という正式な宣言が出された。
 27. [『連絡網AMI「児童買春、児童ポルノに係る行為等の処罰及び保護等に関する法律」の改正に向けた意見書』](https://web.archive.org/web/20130421164855/http://picnic.to/~ami/repo/k_ikensyo.htm) 連絡網AMIの理事には成人向けマンガ家が多くを占め、ゲーム関係者は一人もいない。
 28. [『CESA DEVELOPERS CONFERENCE 2005レポート ラウンドテーブル「『ゲーム脳』問題はゲーム業界に何を残したか」』](http://game.watch.impress.co.jp/docs/20050901/cedec_05.htm) 国際ゲーム開発者協会日本（IGDA日本）代表の新 清士は「ゲーム業界の対応は、あまりにも後手に回っていると説明。「暴力的表現」に対する社会の圧力を回避するため、業界団体が自主規制をより強化する方向に向かっている」と述べている。
 29. [『CESA DEVELOPERS CONFERENCE 2005レポート ラウンドテーブル「『ゲーム脳』問題はゲーム業界に何を残したか」』](http://game.watch.impress.co.jp/docs/20050901/cedec_05.htm) 国際ゲーム開発者協会日本（IGDA日本）代表の新 清士は「（[ゲーム脳](https://ja.wikipedia.org/wiki/ゲーム脳 "wikilink")問題に対して）ゲーム業界がなんらのリアクションもせず、同著の影響が社会に浸透するに任せてしまった事実は失敗だった」との認識を示している。
-30. [AMI活動史](http://web.archive.org/web/20140320071248/http://picnic.to/~ami/repo/katsudou.htm)
+30. [AMI活動史](https://web.archive.org/web/20140320071248/http://picnic.to/~ami/repo/katsudou.htm)
 31. [カマヤンの虚業日記『即売会周辺ならびに出版関係は、自力でロビーに行け』](http://d.hatena.ne.jp/kamayan/20100423#1271948795)。鎌やんによると2010年4月の段階でAMIはすでに潰れていると認識されている。
 32. 永山薫・佐藤圭亮 編著『マンガ論争vol9』P53-P54

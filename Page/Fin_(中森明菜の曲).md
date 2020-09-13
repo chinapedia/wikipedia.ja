@@ -21,35 +21,38 @@
 
 ## 収録曲
 
+### 規格
+
+  - 1988年6月25日 - [8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink"): 10SL-146\[18\]
+  - 1988年12月21日 - [CT](../Page/コンパクトカセット.md "wikilink"): 10L5-4055\[19\]
+  - 1998年11月26日 - [12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): WPC6-8673\[20\]
+  - 2008年11月12日 - [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")\[21\]\[22\]
+  - 2014年6月18日 - 12cmCD, [Singles Box 1982-1991の一枚として](https://ja.wikipedia.org/wiki/Singles_Box_1982-1991 "wikilink")
+
+### 価格
+
+  - 発売当時の価格は700円
+
 ## クレジット
 
-「Fin」のライナー・ノーツより\[18\]
+「Fin」のライナー・ノーツより\[23\]
 
   - [Photo](../Page/撮影.md "wikilink") by 海田俊二
   - 写真提供: Hi FASHION
   - 衣裳協力: LA BREA
 
-## 価格
-
-  - 発売当時の価格は700円
-
-## 再発盤
-
-  - 1988年6月25日 - [8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink"): 10SL-146\[19\]
-  - 1988年12月21日 - [CT](../Page/コンパクトカセット.md "wikilink"): 10L5-4055\[20\]
-  - 1998年11月26日 - [12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): WPC6-8673\[21\]
-  - 2008年11月12日 - [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")\[22\]\[23\]
-  - 2014年6月18日 - 12cmCD, [Singles Box 1982-1991の一枚として](https://ja.wikipedia.org/wiki/Singles_Box_1982-1991 "wikilink")
-
 ## 収録作品
 
-  - 「Fin」
-      - 『[CD'87](../Page/CD'87.md "wikilink")』\[24\]\[25\]
-      - 『[BEST II](../Page/BEST_II_\(中森明菜のアルバム\).md "wikilink")』\[26\]\[27\]
-  - 「危ないMON AMOUR」
-      - 『CD'87』\[28\]\[29\]
+**Fin**
 
-## 参照
+  - 『[CD'87](../Page/CD'87.md "wikilink")』\[24\]\[25\]
+  - 『[BEST II](../Page/BEST_II_\(中森明菜のアルバム\).md "wikilink")』\[26\]\[27\]
+
+**危ないMON AMOUR**
+
+  - 『CD'87』\[28\]\[29\]
+
+## 注釈
 
 ## 外部リンク
 

@@ -117,6 +117,6 @@
 
 ## 外部リンク
 
-  - [2ndハウス〈セカンドハウス〉 - テレビ東京](http://www.tv-tokyo.co.jp/2ndhouse)
+  - [2ndハウス〈セカンドハウス〉 - テレビ東京](https://www.tv-tokyo.co.jp/2ndhouse/)
 
-[Category:漫画作品_せ](https://ja.wikipedia.org/wiki/Category:漫画作品_せ "wikilink") [Category:MANGAオールマン](https://ja.wikipedia.org/wiki/Category:MANGAオールマン "wikilink") [Category:ドラマ24](https://ja.wikipedia.org/wiki/Category:ドラマ24 "wikilink") [Category:2006年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2006年のテレビドラマ "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:テレパックのテレビドラマ](https://ja.wikipedia.org/wiki/Category:テレパックのテレビドラマ "wikilink")
+[Category:漫画作品_せ](https://ja.wikipedia.org/wiki/Category:漫画作品_せ "wikilink") [Category:MANGAオールマン](https://ja.wikipedia.org/wiki/Category:MANGAオールマン "wikilink") [Category:ドラマ24](https://ja.wikipedia.org/wiki/Category:ドラマ24 "wikilink") [Category:2006年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2006年のテレビドラマ "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:テレパックのテレビドラマ](https://ja.wikipedia.org/wiki/Category:テレパックのテレビドラマ "wikilink") [Category:長野博](https://ja.wikipedia.org/wiki/Category:長野博 "wikilink")

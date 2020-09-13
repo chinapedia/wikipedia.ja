@@ -29,23 +29,29 @@ ALOHAは、多重ランダムアクセス方式を採用しており、この種
 
 Pure ALOHAの改良版のプロトコルで、Pure ALOHAが任意のタイミングでの送信を許可していたのに対し、一定間隔でタイムスロットを設けて送信タイミングを制御している。 それ以外はPure ALOHAと同様の手順で送受信が行われる。 これによりパケットの一部だけが衝突しても再送しなければならないという制約が無くなり、最大スループット36.8%と通信効率が飛躍的に向上した。
 
-`|    Timeslot    |    Timeslot    |    Timeslot    |    Timeslot    |`
-`|Packet of Node A|<-送信成功                        |Packet of Node A|<-送信失敗（衝突）`
-`                 |Packet of Node B|<-送信成功       |Packet of Node B|<-送信失敗（衝突）`
+```
+ |    Timeslot    |    Timeslot    |    Timeslot    |    Timeslot    |
+ |Packet of Node A|<-送信成功                        |Packet of Node A|<-送信失敗（衝突）
+                  |Packet of Node B|<-送信成功       |Packet of Node B|<-送信失敗（衝突）
+```
 
 ### r-ALOHA
 
 r-ALOHA（予約ALOHA, Reservation ALOHA）は、Slotted ALOHA方式を用いて予約情報を載せて送信し、それ以降のフレーム（複数からなるスロット）を予約する方式である。 予約に成功した場合は、そのフレーム（後に続くスロット）はすでに予約済みとみなされ、予約に成功したノード以外は送信を行わない。
 
-`|rsrv/data|rsrv/data|rsrv/data|rsrv/data|rsrv/data|rsrv/data|rsrv/data|・・・`
-`|<-------------------- Frame -------------------->|`
+```
+ |rsrv/data|rsrv/data|rsrv/data|rsrv/data|rsrv/data|rsrv/data|rsrv/data|・・・
+ |<-------------------- Frame -------------------->|
+```
 
 ### ALOHA-Reservation
 
 r-ALOHAとの違いは、各フレームに予約のためのスロットが設けられていて、そのタイミングで予約を行うことである。
 
-`| reserve |data-slot|data-slot|data-slot|data-slot| reserve |data-slot|・・・`
-`|<-------------------- Frame -------------------->|`
+```
+ | reserve |data-slot|data-slot|data-slot|data-slot| reserve |data-slot|・・・
+ |<-------------------- Frame -------------------->|
+```
 
 ## 関連項目
 

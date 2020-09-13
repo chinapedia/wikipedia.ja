@@ -9,9 +9,9 @@
 
 ### 東大関係者
 
-  - [雨宮綾夫](https://ja.wikipedia.org/wiki/雨宮綾夫 "wikilink") - 助教授。中心人物。（あめみや あやお、生年1907年 - 没年1977年）
-  - [山下英男](https://ja.wikipedia.org/wiki/山下英男 "wikilink")（生年1899年 - 没年1993年） - 教授。当時理系一の頭脳と呼ばれていた。早くから電子計算機の重要性を見抜いており、[パンチカード](../Page/パンチカード.md "wikilink")に代わるシステム開発を1940年に着手、1947年にデジタル動作の「山下式画線統計機」を完成させていた。
-  - [村田健郎](https://ja.wikipedia.org/wiki/村田健郎 "wikilink")（むらた けんろう 生年1923年-没年2003年）
+  - [雨宮綾夫](https://ja.wikipedia.org/wiki/雨宮綾夫 "wikilink") - 助教授。中心人物。
+  - [山下英男](https://ja.wikipedia.org/wiki/山下英男 "wikilink") - 教授。当時理系一の頭脳と呼ばれていた。早くから電子計算機の重要性を見抜いており、[パンチカード](../Page/パンチカード.md "wikilink")に代わるシステム開発を1940年に着手、1947年にデジタル動作の「山下式画線統計機」を完成させていた。
+  - [村田健郎](https://ja.wikipedia.org/wiki/村田健郎 "wikilink")
 
 <!-- end list -->
 
@@ -20,14 +20,13 @@
 
 <!-- end list -->
 
-  - [山内恭彦](../Page/山内恭彦.md "wikilink") - 理学部教授。（やまのうち たかひこ、生年1902年 - 没年1986年）
-  - [茅誠司](../Page/茅誠司.md "wikilink") - 後に[総長](https://ja.wikipedia.org/wiki/総長 "wikilink")になる。（かや せいじ、生年1898年 - 没年1988年）
+  - [山内恭彦](../Page/山内恭彦.md "wikilink") - 理学部教授。
+  - [茅誠司](../Page/茅誠司.md "wikilink") - 後に[総長](https://ja.wikipedia.org/wiki/総長 "wikilink")になる。
   - [阪本椀房](https://ja.wikipedia.org/wiki/阪本椀房 "wikilink") - 教授。
-  - [高橋秀俊](../Page/高橋秀俊.md "wikilink") （生年1915年 - 没年1985年）- 助教授。
-  - [元岡達](https://ja.wikipedia.org/wiki/元岡達 "wikilink")（もとおか　とおる　生年1929年 - 没年1985年）
-  - [山田博](https://ja.wikipedia.org/wiki/山田博 "wikilink")（生年1929年-）
-  - [中澤喜三郎](https://ja.wikipedia.org/wiki/中澤喜三郎 "wikilink")（生年1932年 - 没年2013年） - 大学院生。
-  - [後藤英一](../Page/後藤英一.md "wikilink")（生年1931年 - 没年2005年）
+  - [高橋秀俊](../Page/高橋秀俊.md "wikilink") - 助教授。
+  - [元岡達](https://ja.wikipedia.org/wiki/元岡達 "wikilink")（1929年-）
+  - [中澤喜三郎](https://ja.wikipedia.org/wiki/中澤喜三郎 "wikilink") - 大学院生。
+  - [後藤英一](../Page/後藤英一.md "wikilink")
 
 ### 東芝関係者
 
@@ -134,4 +133,4 @@
   - [情報処理学会　コンピュータ博物館　東京大学 TAC](http://museum.ipsj.or.jp/computer/dawn/0021.html)
 
   -
-[Category:コンピュータ_(歴代)](https://ja.wikipedia.org/wiki/Category:コンピュータ_\(歴代\) "wikilink") [Category:真空管式コンピュータ](https://ja.wikipedia.org/wiki/Category:真空管式コンピュータ "wikilink")
+[Category:コンピュータ_(歴代)](https://ja.wikipedia.org/wiki/Category:コンピュータ_\(歴代\) "wikilink") [Category:真空管式コンピュータ](https://ja.wikipedia.org/wiki/Category:真空管式コンピュータ "wikilink") [Category:個別のコンピュータ](https://ja.wikipedia.org/wiki/Category:個別のコンピュータ "wikilink")

@@ -129,4 +129,4 @@
 
   -
 
-[Category:ゲームのグラフィッカー・原画家](https://ja.wikipedia.org/wiki/Category:ゲームのグラフィッカー・原画家 "wikilink") [Category:日本の女性イラストレーター](https://ja.wikipedia.org/wiki/Category:日本の女性イラストレーター "wikilink") [Category:ゲームプロデューサー](https://ja.wikipedia.org/wiki/Category:ゲームプロデューサー "wikilink") [Category:同人作家](https://ja.wikipedia.org/wiki/Category:同人作家 "wikilink") [Category:生年非公表](https://ja.wikipedia.org/wiki/Category:生年非公表 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:ゲームのグラフィッカー・原画家](https://ja.wikipedia.org/wiki/Category:ゲームのグラフィッカー・原画家 "wikilink") [Category:日本の女性イラストレーター](https://ja.wikipedia.org/wiki/Category:日本の女性イラストレーター "wikilink") [Category:日本のコンピュータゲームプロデューサー](https://ja.wikipedia.org/wiki/Category:日本のコンピュータゲームプロデューサー "wikilink") [Category:同人作家](https://ja.wikipedia.org/wiki/Category:同人作家 "wikilink") [Category:生年非公表](https://ja.wikipedia.org/wiki/Category:生年非公表 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

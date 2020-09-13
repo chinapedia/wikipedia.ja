@@ -50,6 +50,7 @@ Haikuは下記の特性を持ったデスクトップOSを目指している。
   - 2012年11月12日 公式リリース Haiku R1/Alpha 4 が公開される [公式サイトでの発表](http://haiku-os.org/news/2012-11-12_haiku_release_1_alpha_4)
   - 2012年11月14日 公式リリース Haiku R1/Alpha 4.1 が公開される [公式サイトでの発表](http://haiku-os.org/news/2012-11-14_haiku_release_1_alpha_41)
   - 2018年9月28日 公式リリース Haiku R1/Beta 1 が公開される [公式サイトでの発表](http://www.haiku-os.org/news/2018_09_28_haiku_r1_beta1)
+  - 2020年6月9日 公式リリース Haiku R1/Beta 2 が公開される [公式サイトでの発表](https://www.haiku-os.org/news/2020-06-09_haiku_r1_beta2)
 
 ## 開発状況
 
@@ -64,7 +65,7 @@ Haikuは下記の特性を持ったデスクトップOSを目指している。
 
 ## 開発者向け資料
 
-  - [Programming the Be Operating System](http://www.jpbe.net/program-be/work.php) ([原文の英語版](http://haiku-os.org/downloads.php?mode=download&id=8&mirror=1)) − JPBE.netによる日本語版 (作成中)
+  - [Programming the Be Operating System](http://www.jpbe.net/program-be/work.php) ([原文の英語版](http://haiku-os.org/downloads.php?mode=download&id=8&mirror=1)) − JPBE.netによる日本語版 (作成中)(どちらもリンク切れ）
   - [Coding Guidelines](http://opentracker.sourceforge.net/guidelines.html) − Haikuに適用されるOpenTrackerのコーディングガイドライン
   - [Practical File System Design with the Be File System](http://www.nobius.org/~dbg/practical-file-system-design.pdf) (PDF) − Dominic GiampaoloによるBFSファイルシステムに関する書籍
   - [The BeBook](http://www.haiku-os.org/develop.php?mode=doc&id=12)（英語版）

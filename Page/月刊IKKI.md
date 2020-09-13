@@ -61,7 +61,7 @@
 
 ### 単行本書き下ろし継続予定作品
 
-  - [阿房列車](../Page/阿房列車.md "wikilink")（漫画：[一條裕子](../Page/一條裕子.md "wikilink")、原作：[内田百{{CP932フォント](../Page/内田百間.md "wikilink")）
+  - [阿房列車](../Page/阿房列車.md "wikilink")（漫画：[一條裕子](../Page/一條裕子.md "wikilink")、原作：[内田百閒](https://ja.wikipedia.org/wiki/内田百閒 "wikilink")）
   - [ディエンビエンフー](../Page/ディエンビエンフー_\(漫画\).md "wikilink") （[西島大介](../Page/西島大介.md "wikilink")）
   - [WOMBS](https://ja.wikipedia.org/wiki/WOMBS "wikilink")（[白井弓子](https://ja.wikipedia.org/wiki/白井弓子 "wikilink")）
 
@@ -190,7 +190,7 @@
   - [IKKI](https://web.archive.org/web/20100211021049/http://comics.yahoo.co.jp/magazine/ikki_0001.html)（Yahoo\!コミック） - 閉鎖。2010年2月11日時点のアーカイブ。
 
   -
-[Category:月刊IKKI](https://ja.wikipedia.org/wiki/Category:月刊IKKI "wikilink") [Category:日本の漫画雑誌](https://ja.wikipedia.org/wiki/Category:日本の漫画雑誌 "wikilink") [Category:小学館の漫画雑誌](https://ja.wikipedia.org/wiki/Category:小学館の漫画雑誌 "wikilink") [Category:月刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:月刊漫画雑誌 "wikilink") [Category:青年漫画雑誌](https://ja.wikipedia.org/wiki/Category:青年漫画雑誌 "wikilink") [Category:2003年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:2003年創刊の雑誌 "wikilink") [Category:2014年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2014年休廃刊の雑誌 "wikilink") [Category:ビッグコミックスピリッツ](https://ja.wikipedia.org/wiki/Category:ビッグコミックスピリッツ "wikilink") [Category:Yahoo\!コミック](https://ja.wikipedia.org/wiki/Category:Yahoo!コミック "wikilink") [Category:休廃刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:休廃刊漫画雑誌 "wikilink")
+[Category:月刊IKKI](https://ja.wikipedia.org/wiki/Category:月刊IKKI "wikilink") [Category:日本の漫画雑誌](https://ja.wikipedia.org/wiki/Category:日本の漫画雑誌 "wikilink") [Category:小学館の漫画雑誌](https://ja.wikipedia.org/wiki/Category:小学館の漫画雑誌 "wikilink") [Category:月刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:月刊漫画雑誌 "wikilink") [Category:青年漫画雑誌](https://ja.wikipedia.org/wiki/Category:青年漫画雑誌 "wikilink") [Category:2003年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:2003年創刊の雑誌 "wikilink") [Category:2014年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2014年休廃刊の雑誌 "wikilink") [Category:ビッグコミックスピリッツ](https://ja.wikipedia.org/wiki/Category:ビッグコミックスピリッツ "wikilink") [Category:Yahoo\!コミック](https://ja.wikipedia.org/wiki/Category:Yahoo!コミック "wikilink") [Category:休廃刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:休廃刊漫画雑誌 "wikilink") [Category:小学館の歴史](https://ja.wikipedia.org/wiki/Category:小学館の歴史 "wikilink")
 
 1.  『創』2007年5月号
 2.  [小学館の漫画誌「月刊IKKI」休刊へ](https://web.archive.org/web/20140727004838/http://www.yomiuri.co.jp/culture/20140720-OYT1T50103.html) 読売新聞 2014年7月20日（2014年7月27日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）

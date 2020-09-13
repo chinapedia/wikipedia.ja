@@ -39,7 +39,7 @@ My Birthday増刊号として1980年にスタート。「MISTY」と名前を変
   - ルネの魔女ガール入門（[ルネ・ヴァン・ダール・ワタナベ](https://ja.wikipedia.org/wiki/ルネ・ヴァン・ダール・ワタナベ "wikilink")）
   - 姫乃宮亜美の優しい光のマザーズタッチ（[姫乃宮亜美](https://ja.wikipedia.org/wiki/姫乃宮亜美 "wikilink")）
   - 鏡リュウジの魔法図書館（[鏡リュウジ](../Page/鏡リュウジ.md "wikilink")）
-  - 女王LUAの星の調教ルーム（[LUA](https://ja.wikipedia.org/wiki/LUA "wikilink")）（イラスト担当[倉馬奈未](https://ja.wikipedia.org/wiki/倉馬奈未 "wikilink")）
+  - 女王LUAの星の調教ルーム（[LUA](https://ja.wikipedia.org/wiki/LUA_\(占術家\) "wikilink")）（イラスト担当[倉馬奈未](https://ja.wikipedia.org/wiki/倉馬奈未 "wikilink")）
   - 石井ゆかりのホロスコープ虎の巻（[石井ゆかり](https://ja.wikipedia.org/wiki/石井ゆかり "wikilink")）
   - テノール心理学者 斉藤匡章の美声塾（[斉藤匡章](https://ja.wikipedia.org/wiki/斉藤匡章 "wikilink")）
   - エル・クアトロの婚活指南 星のお嬢様検定（[エル・クアトロ](https://ja.wikipedia.org/wiki/エル・クアトロ "wikilink")）

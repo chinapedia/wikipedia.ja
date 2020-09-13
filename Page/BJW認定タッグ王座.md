@@ -126,7 +126,7 @@
 </tr>
 <tr class="even">
 <td><p>第14代</p></td>
-<td><p>「神風」&amp;<a href="../Page/アブドーラ小林.md" title="wikilink">アブドーラ小林</a></p></td>
+<td><p>「神風」&amp;<a href="../Page/アブドーラ・小林.md" title="wikilink">アブドーラ小林</a></p></td>
 <td><p>1</p></td>
 <td><p>2</p></td>
 <td><p>2000年<a href="../Page/9月15日.md" title="wikilink">9月15日</a></p></td>
@@ -422,9 +422,17 @@
 <td><p>第49代</p></td>
 <td><p>関本大介&amp;佐藤耕平</p></td>
 <td><p>1</p></td>
-<td></td>
+<td><p>3</p></td>
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/12月18日.md" title="wikilink">12月18日</a></p></td>
 <td><p>横浜文化体育館、<a href="https://ja.wikipedia.org/wiki/河上隆一" title="wikilink">河上隆一</a>&amp;<a href="https://ja.wikipedia.org/wiki/菊田一美" title="wikilink">菊田一美</a></p></td>
+</tr>
+<tr class="even">
+<td><p>第50代</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/野村卓矢" title="wikilink">野村卓矢</a>&amp;<a href="https://ja.wikipedia.org/wiki/阿部史典" title="wikilink">阿部史典</a></p></td>
+<td><p>1</p></td>
+<td></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/8月10日.md" title="wikilink">8月10日</a></p></td>
+<td><p>後楽園ホール</p></td>
 </tr>
 </tbody>
 </table>

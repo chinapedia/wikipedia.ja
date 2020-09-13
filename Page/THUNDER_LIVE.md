@@ -87,7 +87,7 @@
 
 ## 出典・脚注
 
-[Category:カシオペアのライブ・アルバム](https://ja.wikipedia.org/wiki/Category:カシオペアのライブ・アルバム "wikilink") [Category:1980年のライブ・アルバム](https://ja.wikipedia.org/wiki/Category:1980年のライブ・アルバム "wikilink") [Category:アルファレコードのアルバム](https://ja.wikipedia.org/wiki/Category:アルファレコードのアルバム "wikilink")
+[Category:カシオペアのライブ・アルバム](https://ja.wikipedia.org/wiki/Category:カシオペアのライブ・アルバム "wikilink") [Category:アルファレコードのアルバム](https://ja.wikipedia.org/wiki/Category:アルファレコードのアルバム "wikilink") [Category:1980年のライブ・アルバム](https://ja.wikipedia.org/wiki/Category:1980年のライブ・アルバム "wikilink")
 
 1.
 2.

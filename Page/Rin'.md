@@ -162,7 +162,7 @@ Rin'の [New Day Rising](../Page/New_Day_Rising.md "wikilink") 毎週木曜日 2
   - [Rin' MySpace](http://www.myspace.com/rinnetwork)
   - [(Blog) Rin' with Mana Yoshinaga (吉永真奈), Tomoca Nagasu (長須与佳) & Chie Arai (新井智恵)](https://rinjapanesepopgroup.home.blog/)
 
-[Category:日本の伝統音楽](https://ja.wikipedia.org/wiki/Category:日本の伝統音楽 "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:2003年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に結成した音楽グループ "wikilink") [Category:2009年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2009年に解散した音楽グループ "wikilink")
+[Category:日本の伝統音楽](https://ja.wikipedia.org/wiki/Category:日本の伝統音楽 "wikilink") [Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:2003年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に結成した音楽グループ "wikilink") [Category:2009年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2009年に解散した音楽グループ "wikilink")
 
 1.
 2.

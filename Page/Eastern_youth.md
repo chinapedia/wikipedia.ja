@@ -41,7 +41,7 @@
 
 <!-- end list -->
 
-  - **二宮 友和**（にのみや ともかず） - [愛媛県](../Page/愛媛県.md "wikilink")[宇和島市](../Page/宇和島市.md "wikilink")出身。[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
+  - **二宮 友和**（にのみや ともかず、 - ） - [愛媛県](../Page/愛媛県.md "wikilink")[宇和島市](../Page/宇和島市.md "wikilink")出身。[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
 
 <!-- end list -->
 
@@ -70,7 +70,7 @@
 
 ## 交流
 
-[向井秀徳](../Page/向井秀徳.md "wikilink")（[ナンバーガール](../Page/ナンバーガール.md "wikilink")、[ZAZEN BOYS](../Page/ZAZEN_BOYS.md "wikilink")）など多くのロックミュージシャンが彼らからの影響を公言している。吉野自身はナンバーガールの楽曲にeastern youthの影響は感じられないとしつつも、そのオリジナリティーを「[ブッチャーズとfOULで打ち止めかと思っていたけど](https://ja.wikipedia.org/wiki/bloodthirsty_butchers "wikilink")、もう一個刺客が出て来た」と評した\[19\]。
+[向井秀徳](../Page/向井秀徳.md "wikilink")（[ナンバーガール](../Page/ナンバーガール.md "wikilink")、[ZAZEN BOYS](../Page/ZAZEN_BOYS.md "wikilink")）など多くのロックミュージシャンが彼らからの影響を公言している。吉野自身はナンバーガールの楽曲にeastern youthの影響は感じられないとしつつも、そのオリジナリティーを「[ブッチャーズとfOULで打ち止めかと思っていたけど](https://ja.wikipedia.org/wiki/bloodthirsty_butchers "wikilink")、もう一個刺客が出て来た」と評した\[19\]。向井はアルバム『ボトムオブザワールド』にゲスト参加もしている。
 
 同じ北海道出身のbloodthirsty butchersおよびfOULとは親交が深く、「極東最前線」を含む数多くのライブで共演している。吉野自身大好きなバンドとしてこの2つのバンドを頻繁に挙げ、活動休止中のfOULに1人のファンとして呼びかけ、後述の[オムニバス](../Page/オムニバス.md "wikilink")アルバム『極東最前線2』に参加してもらうなどしている。「極東最前線」の開催数は80回を超え（2012年4月現在）、bloodthirsty butchers, [あぶらだこ](../Page/あぶらだこ.md "wikilink")、[怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink")、[ハスキング・ビー](https://ja.wikipedia.org/wiki/ハスキング・ビー "wikilink")、[小谷美紗子](../Page/小谷美紗子.md "wikilink")、[タテタカコ](https://ja.wikipedia.org/wiki/タテタカコ "wikilink")、[ジミー・イート・ワールド](../Page/ジミー・イート・ワールド.md "wikilink")、カーシヴなど、国を問わず様々なアーティストをゲストとして迎え入れている。
 
@@ -1093,7 +1093,7 @@ TFVQ-68053: VHS</p></td>
   - 2007年 - 極東最前線 ～沸点36.5℃～　（対バン：Shugo Tokumaru　＆　The Magic band）
   - 2007年 - 極東最前線 ～遠雷と六月の俺達～　（対バン：[toe](https://ja.wikipedia.org/wiki/toe "wikilink")）
   - 2008年 - 極東最前線 ～ジャンプ・スウィング・花に嵐～　（対バン：[the band apart](https://ja.wikipedia.org/wiki/the_band_apart "wikilink")）
-  - 2008年 - 極東最前線 ～あのUFOに乗りたかったの。～　（対バン：[キセル](https://ja.wikipedia.org/wiki/キセル "wikilink")）
+  - 2008年 - 極東最前線 ～あのUFOに乗りたかったの。～　（対バン：[キセル](../Page/キセル_\(バンド\).md "wikilink")）
   - 2008年 - 極東最前線 / 巡業～スットコドッコイ20年～
   - 2008年 - SHIBUYA CLUB QUATTRO 20th Anniversary極東最前線～ファイトバック現代～　（対バン：[SPARTA LOCALS](../Page/SPARTA_LOCALS.md "wikilink")）
   - 2009年 - 極東最前線 ～ore no noizu ni tobinore～　（対バン：[GOUPIL AND C](https://ja.wikipedia.org/wiki/GOUPIL_AND_C "wikilink")）

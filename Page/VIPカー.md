@@ -1,7 +1,7 @@
 > この記事は[VIPカー](https://ja.wikipedia.org/wiki/VIPカー)から翻訳されています。
 
 
-[Celprata.jpg](https://ja.wikipedia.org/wiki/File:Celprata.jpg "fig:Celprata.jpg")における例\]\] [サムネイルのVIPカー](https://ja.wikipedia.org/wiki/ファイル:Osaka_Auto_Messe_2016_\(673\)_-_Toyota_CROWN_\(S200\)_exhibited_by_VIP_STYLE.jpg "wikilink")\]\] **VIPカー**（ビップカー、ヴィップカー、VIP Car）とは、主に[セダン](../Page/セダン.md "wikilink")の[高級車](../Page/高級車.md "wikilink")に豪華な装飾を施した[改造車](../Page/改造車.md "wikilink")の総称、[俗称](https://ja.wikipedia.org/wiki/俗称 "wikilink")。あるいはその改造形態のことである。
+そもそもVIPとは、「Very Important Person」の頭文字を取ったもので、日本語では「要人、偉い人」にあたります。 要人、偉い人を乗せる車「VIP car」となります。 話は変わりますが車には純正でエアサス設定のある車があります。 その理由としては、乗り心地重視や乗降性を上げるものです。 要人、偉い人を乗せる為の設定と言ってもいい物です。 VIPカーとは、純正エアサス設定の有る車の事を言います。 いくら高級車でも、社外エアサスや車高調が付いていてもVIPカーとは言えません。 ただのカスタムカーです。
 
 ## 概要
 
@@ -55,7 +55,7 @@ VIPカーへの改造による、その車種に対する[イメージ](../Page/
 
 一般的には[トヨタ製大型高級](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")[セダン](../Page/セダン.md "wikilink")やY31系[セドリック](../Page/日産・セドリック.md "wikilink")／[グロリア以降の](../Page/日産・グロリア.md "wikilink")[日産製大型高級セダンが対象車種である](../Page/日産自動車.md "wikilink")。そのほか、海外の高級セダン（[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")・[BMW](../Page/BMW.md "wikilink")・[アウディ](https://ja.wikipedia.org/wiki/アウディ "wikilink")など）も含まれる。また、本来別ジャンルである[ラグジュアリーカー](../Page/ラグジュアリーカー.md "wikilink")や４ドアの[ハイソカー](../Page/ハイソカー.md "wikilink")も広義のVIPカーに含まれることがある。これは、主に両者のカスタム指向や車の形態などに類似性があることによる。
 
-主なベース車両として[センチュリー](../Page/トヨタ・センチュリー.md "wikilink")、[セルシオ](../Page/トヨタ・セルシオ.md "wikilink")、[クラウン](../Page/トヨタ・クラウン.md "wikilink")、[クラウンマジェスタ](../Page/トヨタ・クラウンマジェスタ.md "wikilink")、[マークII](../Page/トヨタ・マークII.md "wikilink")、[アリスト](../Page/トヨタ・アリスト.md "wikilink")、[プレジデント](../Page/日産・プレジデント.md "wikilink")、[インフィニティQ45](../Page/インフィニティ・Q45.md "wikilink")、 [シーマ](../Page/日産・シーマ.md "wikilink")、[セドリック](../Page/日産・セドリック.md "wikilink")/[グロリア](../Page/日産・グロリア.md "wikilink")、[レジェンド](../Page/ホンダ・レジェンド.md "wikilink")、[インスパイア](../Page/ホンダ・インスパイア.md "wikilink")、[センティア](../Page/マツダ・センティア.md "wikilink")、[ディアマンテなどがある](../Page/三菱・ディアマンテ.md "wikilink")。 最近では[レクサス](../Page/レクサス.md "wikilink")シリーズや先述の後継車種である[フーガや](https://ja.wikipedia.org/wiki/日産・フーガ "wikilink")[マークXもベースとなっている](../Page/トヨタ・マークX.md "wikilink")。
+主なベース車両として[センチュリー](../Page/トヨタ・センチュリー.md "wikilink")、[セルシオ](../Page/トヨタ・セルシオ.md "wikilink")、[クラウン](../Page/トヨタ・クラウン.md "wikilink")、[クラウンマジェスタ](../Page/トヨタ・クラウンマジェスタ.md "wikilink")、[アリスト](../Page/トヨタ・アリスト.md "wikilink")、[プレジデント](../Page/日産・プレジデント.md "wikilink")、[インフィニティQ45](../Page/インフィニティ・Q45.md "wikilink")、 [シーマ](../Page/日産・シーマ.md "wikilink")、[セドリック](../Page/日産・セドリック.md "wikilink")/[グロリア](../Page/日産・グロリア.md "wikilink")、[レジェンド](../Page/ホンダ・レジェンド.md "wikilink")、[インスパイア](../Page/ホンダ・インスパイア.md "wikilink")、[センティア](../Page/マツダ・センティア.md "wikilink")、[ディアマンテなどがある](../Page/三菱・ディアマンテ.md "wikilink")。 最近では[レクサス](../Page/レクサス.md "wikilink")シリーズや先述の後継車種である[フーガや](https://ja.wikipedia.org/wiki/日産・フーガ "wikilink")[マークXもベースとなっている](../Page/トヨタ・マークX.md "wikilink")。
 
 ## パーツのブランド
 

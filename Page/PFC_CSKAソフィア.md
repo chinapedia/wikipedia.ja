@@ -120,7 +120,7 @@
   - 1996-97 A PFG 1位
   - 1997-98 A PFG 3位
   - 1998-99 A PFG 5位
-  - 1999-00 A PFG 2位
+  - 1999-2000 A PFG 2位
   - 2000-01 A PFG 2位
 
 | シーズン                                                                | ディビジョン     | [カップ](https://ja.wikipedia.org/wiki/ブルガリア・カップ "wikilink") | [スーパーカップ](https://ja.wikipedia.org/wiki/ブルガリア・スーパーカップ "wikilink") | [欧州カップ](../Page/欧州サッカー連盟.md "wikilink") |
@@ -362,11 +362,9 @@
 
 ## 現所属メンバー
 
-**       ([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))       ([第2主将](../Page/主将.md "wikilink"))
+  - 2020年6月15日現在
 
-### ローン移籍
 
-  - out
 
 ## 歴代監督
 
@@ -535,6 +533,36 @@
 <td></td>
 <td><p>2019年5月3日</p></td>
 <td><p>2019年7月21日</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/リュプコ・ペトロヴィッチ" title="wikilink">リュプコ・ペトロヴィッチ</a></p></td>
+<td></td>
+<td><p>2019年7月21日</p></td>
+<td><p>2019年10月2日</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ドブロミル・ミトフ" title="wikilink">ドブロミル・ミトフ</a> (暫定)</p></td>
+<td></td>
+<td><p>2019年10月2日</p></td>
+<td><p>2019年10月7日</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ミロシュ・クルシュチッチ" title="wikilink">ミロシュ・クルシュチッチ</a></p></td>
+<td></td>
+<td><p>2019年10月7日</p></td>
+<td><p>2020年7月2日</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/スタメン・ベルチェフ" title="wikilink">スタメン・ベルチェフ</a></p></td>
+<td></td>
+<td><p>2020年7月2日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>

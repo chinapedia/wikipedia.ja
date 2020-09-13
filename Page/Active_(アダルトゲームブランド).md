@@ -49,7 +49,9 @@
 
 :\* [Angel Halo 〜エンジェル・ハイロウ〜](../Page/Angel_Halo.md "wikilink")（1996年10月17日）
 
-:\* [HEARTWORK Symphony of Destrucion](../Page/HEARTWORK.md "wikilink")（1997年12月19日）
+:\* みさとちゃんの夢日記（1997年4月11日）
+
+:\*[HEARTWORK Symphony of Destrucion](../Page/HEARTWORK.md "wikilink")（1997年12月19日）
 
 :\* 恋のフローティングマイン（1998年6月18日）
 
@@ -57,11 +59,11 @@
 
 :\* アクティブ恋愛方程式（1999年1月11日）
 
-:\* [Hello Again](../Page/Hello_Again_\(ゲーム\).md "wikilink")（2000年5月26日）
+:\*[Hello Again](../Page/Hello_Again_\(ゲーム\).md "wikilink")（2000年5月26日）
 
-:\* [Bible Black -La noche de walpurgis-](../Page/Bible_Black.md "wikilink")（2000年7月14日）
+:\*[Bible Black -La noche de walpurgis-](../Page/Bible_Black.md "wikilink")（2000年7月14日）
 
-:\* [ねがぽじ 〜お兄ちゃんと呼ばないでっ\!\!〜](../Page/ねがぽじ_〜お兄ちゃんと呼ばないでっ!!〜.md "wikilink")（2001年4月6日）
+:\*[ねがぽじ 〜お兄ちゃんと呼ばないでっ\!\!〜](../Page/ねがぽじ_〜お兄ちゃんと呼ばないでっ!!〜.md "wikilink")（2001年4月6日）
 
 :\*\* [ねがぽじファンディスク〜ひとつ屋根の下で〜](../Page/ねがぽじ_〜お兄ちゃんと呼ばないでっ!!〜.md "wikilink")（2002年1月25日）
 

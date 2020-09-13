@@ -64,6 +64,7 @@ IBM大和開発研究所 (Yamato Development Laboratory) 沿革\[4\]
   - [ホームページ・ビルダー](../Page/ホームページ・ビルダー.md "wikilink") - 1994
   - IBM 9101自動取引装置（ATM) -1995
   - IBM FormWave (ワークフローシステム) - 1995
+  - IBM金融機関営業店ソリューションNFWS(Networked Finance WorkStation) - 2004
 
 など
 

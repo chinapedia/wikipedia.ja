@@ -19,7 +19,7 @@
 
 『Cafe吉祥寺で』のメンバーは各[声優](../Page/声優.md "wikilink")やその生活環境などをモデルにしていたわけではなく、アイドルユニットでもない。R.W.Cで結成されている「Cafe吉祥寺で」のファンクラブが存在しており、お茶会やイベントも開かれることもある。なおファンクラブは第14会期をもって解散となる。そして2007年9月以降、メディア活動を一時休止していて、めどが付いておらず、今後のドラマCDの発売も不定期となっている。
 
-2008年9月29日より[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")にて実写ドラマ放映がされ、それに並行して『月刊ウィングス』2018年11月号から2009年8月号まで『Cafe吉祥寺で 二番煎じ』というタイトルでコミックが再連載された。
+2008年9月29日より[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")にて実写ドラマ放映がされ、それに並行して『月刊ウィングス』2008年11月号から2009年8月号まで『Cafe吉祥寺で 二番煎じ』というタイトルでコミックが再連載された。
 
 ### 声優の事情
 
@@ -338,7 +338,7 @@
 
   - [TVドラマ公式サイト](https://www.tv-tokyo.co.jp/cafe/)
 
-[Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink") [Category:漫画作品_か](https://ja.wikipedia.org/wiki/Category:漫画作品_か "wikilink") [Category:月刊ウィングス](https://ja.wikipedia.org/wiki/Category:月刊ウィングス "wikilink") [Category:吉祥寺を舞台とした作品](https://ja.wikipedia.org/wiki/Category:吉祥寺を舞台とした作品 "wikilink") [Category:喫茶店を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:喫茶店を舞台とした漫画作品 "wikilink") [Category:2008年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2008年のテレビドラマ "wikilink") [Category:Lドラ](https://ja.wikipedia.org/wiki/Category:Lドラ "wikilink") [Category:国際放映作品](https://ja.wikipedia.org/wiki/Category:国際放映作品 "wikilink") [Category:喫茶店を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:喫茶店を舞台としたテレビドラマ "wikilink") [Category:吉祥寺を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:吉祥寺を舞台としたテレビドラマ "wikilink")
+[Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink") [Category:漫画作品_か](https://ja.wikipedia.org/wiki/Category:漫画作品_か "wikilink") [Category:2000年の漫画](https://ja.wikipedia.org/wiki/Category:2000年の漫画 "wikilink") [Category:月刊ウィングス](https://ja.wikipedia.org/wiki/Category:月刊ウィングス "wikilink") [Category:吉祥寺を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:吉祥寺を舞台とした漫画作品 "wikilink") [Category:喫茶店を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:喫茶店を舞台とした漫画作品 "wikilink") [Category:2008年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2008年のテレビドラマ "wikilink") [Category:Lドラ](https://ja.wikipedia.org/wiki/Category:Lドラ "wikilink") [Category:国際放映作品](https://ja.wikipedia.org/wiki/Category:国際放映作品 "wikilink") [Category:喫茶店を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:喫茶店を舞台としたテレビドラマ "wikilink") [Category:吉祥寺を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:吉祥寺を舞台としたテレビドラマ "wikilink")
 
 1.
 2.

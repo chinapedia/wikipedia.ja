@@ -48,7 +48,7 @@
     本名：**谷 フジ子**（たに ふじこ）。地味な[カジノ](../Page/カジノ.md "wikilink")の[ディーラー](https://ja.wikipedia.org/wiki/ディーラー "wikilink")だが、グラマラスな謎の女に変身する。[光線銃](../Page/光線銃.md "wikilink")を武器とし、トリッキーな必殺技が多い。外国人だが日本語も得意。
   - KIRIKO（キリコ）
     声 - [藤咲かおり](../Page/藤咲かおり.md "wikilink")
-    本名：**霞 霧湖**（かすみ きりこ）。抜け[忍](https://ja.wikipedia.org/wiki/忍 "wikilink")で、富豪の家に匿われ[メイド](../Page/メイド.md "wikilink")として働いている。スピードが早く、二本の[クナイを使った強力な攻撃が持ち味](https://ja.wikipedia.org/wiki/くない "wikilink")。3D3Dキャラクターの一人。動物とも話せる心を持っている。
+    本名：**霞 霧湖**（かすみ きりこ）。抜け[忍で](../Page/忍者.md "wikilink")、富豪の家に匿われ[メイド](../Page/メイド.md "wikilink")として働いている。スピードが早く、二本の[クナイを使った強力な攻撃が持ち味](https://ja.wikipedia.org/wiki/くない "wikilink")。3D3Dキャラクターの一人。動物とも話せる心を持っている。
   - **HIGHWAY STAR**（ハイウェイスター）
     声 - [柏平佳代](https://ja.wikipedia.org/wiki/柏平佳代 "wikilink")
     本名：**星 道子**（ほし みちこ）。学校の教師だが、[バイクに乗るとスピード狂へと変貌する](../Page/オートバイ.md "wikilink")。長いリーチとオーソドックスな技をもつ。

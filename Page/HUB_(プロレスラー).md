@@ -161,22 +161,76 @@ HUB主催の自主興行「毒人」では[ビリーケン・キッド](../Page/
 
 ## タイトル歴
 
+  - [大阪プロレス](../Page/大阪プロレス.md "wikilink")
+
+<!-- end list -->
+
   - [大阪プロレス王座](../Page/大阪プロレス王座.md "wikilink")
   - [大阪プロレスタッグ王座](../Page/大阪プロレスタッグ王座.md "wikilink")
   - 天王山優勝
   - 大阪タッグフェスティバル優勝
   - 上方プロレス新人大賞優勝
+
+<!-- end list -->
+
+  - [沖縄プロレス](../Page/沖縄プロレス.md "wikilink")
+
+<!-- end list -->
+
   - [沖縄プロレス王座](https://ja.wikipedia.org/wiki/沖縄プロレス王座 "wikilink")
   - チューバートーナメント優勝
   - [MWF世界タッグ王座](https://ja.wikipedia.org/wiki/MWF世界タッグ王座 "wikilink")
+
+<!-- end list -->
+
+  - [プロレスリングZERO1](../Page/ZERO1.md "wikilink")
+
+<!-- end list -->
+
   - [インターナショナルジュニアヘビー級王座](https://ja.wikipedia.org/wiki/ZERO1_インターナショナルジュニアヘビー級王座 "wikilink")
   - [NWA世界ジュニアヘビー級王座](https://ja.wikipedia.org/wiki/ZERO1_インターナショナルジュニアヘビー級王座 "wikilink")
   - [NWAインターナショナルライトタッグ王座](https://ja.wikipedia.org/wiki/NWAインターナショナルライトタッグ王座 "wikilink")
   - [天下一Jr.](../Page/天下一Jr..md "wikilink")優勝
+
+<!-- end list -->
+
+  - [DRAGON GATE](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")
+
+<!-- end list -->
+
   - [オープン・ザ・トライアングルゲート王座](https://ja.wikipedia.org/wiki/オープン・ザ・トライアングルゲート王座 "wikilink")
+
+<!-- end list -->
+
+  - [東京愚連隊](../Page/東京愚連隊.md "wikilink")
+
+<!-- end list -->
+
   - 東京インターコンチネンタルタッグ王座
+
+<!-- end list -->
+
+  - [道頓堀プロレス](https://ja.wikipedia.org/wiki/道頓堀プロレス "wikilink")
+
+<!-- end list -->
+
   - [WDWタッグ王座](https://ja.wikipedia.org/wiki/WDWタッグ王座 "wikilink")
+
+<!-- end list -->
+
+  - [九州プロレス](https://ja.wikipedia.org/wiki/九州プロレス "wikilink")
+
+<!-- end list -->
+
   - 九州プロレスタッグ王座
+
+<!-- end list -->
+
+  - [VKF](https://ja.wikipedia.org/wiki/VKF "wikilink")プロレス
+
+<!-- end list -->
+
+  - [VKF KING of WRESTLE NANIWA王座](https://ja.wikipedia.org/wiki/VKF_KING_of_WRESTLE_NANIWA王座 "wikilink")
 
 ## 外部リンク
 

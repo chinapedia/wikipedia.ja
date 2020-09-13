@@ -71,7 +71,7 @@
 13. **[KAMEN feat.石井竜也](../Page/KAMEN_feat.石井竜也.md "wikilink")**
       -
         28thシングル。
-14. **[Someday](https://ja.wikipedia.org/wiki/Someday/Boys_Girls "wikilink")**
+14. **[Someday](https://ja.wikipedia.org/wiki/Someday/Boys♥Girls "wikilink")**
       -
         30thシングル。
 15. **A Whole New World** KODA KUMI feat. [Peabo Bryson](../Page/ピーボ・ブライソン.md "wikilink")(Bonus track)

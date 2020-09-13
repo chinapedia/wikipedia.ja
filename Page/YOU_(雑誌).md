@@ -41,7 +41,7 @@
       - 王朝モザイク（[木原敏江](../Page/木原敏江.md "wikilink")）：2018年5月号 -
   - 『[Cookie](../Page/Cookie_\(雑誌\).md "wikilink")』移籍\[8\]
       - [おそ松さん](https://ja.wikipedia.org/wiki/おそ松さん "wikilink")（[シタラマサコ](https://ja.wikipedia.org/wiki/シタラマサコ "wikilink")）：2016年2月号 -
-      - 日に流れて橋に行く（[日高ショーコ](https://ja.wikipedia.org/wiki/日高ショーコ "wikilink")）：2017年2月号 -
+      - [日に流れて橋に行く](../Page/日に流れて橋に行く.md "wikilink")（[日高ショーコ](https://ja.wikipedia.org/wiki/日高ショーコ "wikilink")）：2017年2月号 -
   - 『[マンガMee](https://ja.wikipedia.org/wiki/マンガMee "wikilink")』移籍\[9\]
       - 蘭と葵（[上田倫子](../Page/上田倫子.md "wikilink")）：2016年6月号 -
       - はるはなのみの（河井英槻）：2015年5月号 -
@@ -158,7 +158,7 @@
   - [月刊YOU Official Web Site](http://you.shueisha.co.jp/)
   - [集英社小史](https://www.shueisha.co.jp/history/)
 
-[Category:日本の漫画雑誌](https://ja.wikipedia.org/wiki/Category:日本の漫画雑誌 "wikilink") [Category:集英社の漫画雑誌](https://ja.wikipedia.org/wiki/Category:集英社の漫画雑誌 "wikilink") [Category:月2回刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:月2回刊漫画雑誌 "wikilink") [Category:女性漫画雑誌](https://ja.wikipedia.org/wiki/Category:女性漫画雑誌 "wikilink") [Category:1980年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1980年創刊の雑誌 "wikilink") [Category:セブンティーン_(雑誌)](https://ja.wikipedia.org/wiki/Category:セブンティーン_\(雑誌\) "wikilink") [Category:YOU](https://ja.wikipedia.org/wiki/Category:YOU "wikilink") [Category:休廃刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:休廃刊漫画雑誌 "wikilink") [Category:2018年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2018年休廃刊の雑誌 "wikilink")
+[Category:YOU](https://ja.wikipedia.org/wiki/Category:YOU "wikilink") [Category:日本の漫画雑誌](https://ja.wikipedia.org/wiki/Category:日本の漫画雑誌 "wikilink") [Category:集英社の漫画雑誌](https://ja.wikipedia.org/wiki/Category:集英社の漫画雑誌 "wikilink") [Category:月2回刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:月2回刊漫画雑誌 "wikilink") [Category:女性漫画雑誌](https://ja.wikipedia.org/wiki/Category:女性漫画雑誌 "wikilink") [Category:セブンティーン_(雑誌)](https://ja.wikipedia.org/wiki/Category:セブンティーン_\(雑誌\) "wikilink") [Category:休廃刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:休廃刊漫画雑誌 "wikilink") [Category:1980年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1980年創刊の雑誌 "wikilink") [Category:2018年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2018年休廃刊の雑誌 "wikilink") [Category:集英社の歴史](https://ja.wikipedia.org/wiki/Category:集英社の歴史 "wikilink")
 
 1.
 2.  2013年3月15日付

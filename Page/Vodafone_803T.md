@@ -13,7 +13,7 @@
 
 ## 特徴
 
-ミュージックプレイヤー用として、背面に[キー](../Page/キー.md "wikilink")と大きめのサブディスプレイがあり、音楽を携帯で聴くという**[音楽携帯](../Page/音楽携帯.md "wikilink")**を確立した機種である。[東芝](../Page/東芝.md "wikilink")製音楽携帯の源流ともいえ、後の[Play-T](https://ja.wikipedia.org/wiki/Play-T "wikilink")に繋がる。（2005年春モデルとして、）カメラ機能が226万[画素](https://ja.wikipedia.org/wiki/画素 "wikilink")であったりとミュージックケータイ以外のスペックも充実している。また、インカメラが付いていないので[テレビ電話](../Page/テレビ電話.md "wikilink")を利用したい人は注意が必要である。
+ミュージックプレイヤー用として、背面に[キーと大きめのサブディスプレイがあり](https://ja.wikipedia.org/wiki/押しボタン "wikilink")、音楽を携帯で聴くという**[音楽携帯](../Page/音楽携帯.md "wikilink")**を確立した機種である。[東芝](../Page/東芝.md "wikilink")製音楽携帯の源流ともいえ、後の[Play-T](https://ja.wikipedia.org/wiki/Play-T "wikilink")に繋がる。（2005年春モデルとして、）カメラ機能が226万[画素](https://ja.wikipedia.org/wiki/画素 "wikilink")であったりとミュージックケータイ以外のスペックも充実している。また、インカメラが付いていないので[テレビ電話](../Page/テレビ電話.md "wikilink")を利用したい人は注意が必要である。
 
 端末のサイズを小型化した後継機[Vodafone 705Tが発表されるが](../Page/Vodafone_705T.md "wikilink")、本端末は、Vodafone 705Tとともに[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")リモデル（SoftBank 803T）仕様でも発売されるなど比較的長い期間販売された機種である。
 

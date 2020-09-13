@@ -78,9 +78,12 @@
 ## 関係リンク
 
   - [KUBITSURI-TAPES作品アイテム・リスト(一部掲載)](http://www.discogs.com/label/Kubitsuri+Tapes)
+
   - [首つりTAPEイーター/ノイズ・ジャパン号、インタビュー掲載](http://www.eater.co.jp/backn/eater6.htm)
+
   - [DOLL/首つりテープ特集](http://www.doll-mag.co.jp/main.html)
-  - [首つりテープオフィシャルウェブサイト](http://www1.ocn.ne.jp/~kubizri/)
+
+  -
   - [首つりテープはてな](http://d.hatena.ne.jp/keywordmobile/Kubitsuri%20Tapes)
 
 [Category:日本のレコード・レーベル](https://ja.wikipedia.org/wiki/Category:日本のレコード・レーベル "wikilink")

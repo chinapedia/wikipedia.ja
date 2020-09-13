@@ -1,7 +1,7 @@
 > この記事は[SAFETY SHOES](https://ja.wikipedia.org/wiki/SAFETY_SHOES)から翻訳されています。
 
 
-**SAFETY SHOES**（セーフティ シューズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[2003年](../Page/2003年.md "wikilink")に結成、[2012年](../Page/2012年.md "wikilink")より現メンバー。
+**SAFETY SHOES**（セーフティ シューズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[2003年](../Page/2003年.md "wikilink")に結成、[2012年](../Page/2012年.md "wikilink")より現メンバー。[2019年](../Page/2019年.md "wikilink")活動終了\[1\]。
 
 ## 概要
 
@@ -57,9 +57,13 @@
 
 このほかゲスト出演は多数。
 
+## 脚注
+
 ## 外部リンク
 
   - [公式サイト](http://www.safetyshoes.jp/)
   - [YouTubeのSAFETY SHOESチャンネル](http://www.youtube.com/user/SAFETYsakuSHOES)
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink")
+
+1.  <https://www.sakuraitoshio.net/pages/3259642/biography>

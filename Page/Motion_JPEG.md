@@ -11,13 +11,13 @@
 
 そのような扱いやすさを備える汎用の規格であることに加え、当時のマシンパワーでも圧縮率と画質をそれなりに両立できたことから、少なくとも1997年ごろまでは「もっとも実用的な動画圧縮方式」と言われていた\[1\]。
 
-[コンテナ形式には](../Page/コンテナフォーマット.md "wikilink")[AVIと](../Page/Audio_Video_Interleave.md "wikilink")[MOVがあり統一されていない](../Page/QuickTime.md "wikilink")。[QuickTime Playerなどで再生可能なほか](../Page/QuickTime.md "wikilink")、Windowsでは[コーデック](../Page/コーデック.md "wikilink")をインストールすることで[メディアプレーヤーでも再生できた](../Page/Windows_Media_Player.md "wikilink")。
+[コンテナ形式には](../Page/コンテナフォーマット.md "wikilink")[AVIと](../Page/Audio_Video_Interleave.md "wikilink")[MOVがあり統一されていない](../Page/QuickTime.md "wikilink")。[QuickTime Playerなどで再生可能なほか](../Page/QuickTime.md "wikilink")、Windowsでは[コーデック](../Page/コーデック.md "wikilink")をインストールすることで[メディアプレーヤーでも再生できる](../Page/Windows_Media_Player.md "wikilink")。
 
 近年では、[Motion JPEG 2000や](../Page/JPEG_2000.md "wikilink")[Motion JPEG XRといった高性能な動画形式も開発されている](https://ja.wikipedia.org/wiki/JPEG_XR "wikilink")。
 
 ## 用途
 
-当時は特にビデオキャプチャーカードの出力形式として利用されることが多かったが、マシンパワーやハードウェアの進歩により、次第に[MPEG-4 AVCにその地位を明け渡した](../Page/H.264.md "wikilink")。そのためにパソコン上で記録するために用いられることは少なくなったが、JPEG変換処理能力が高い[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")や[デジタルフォトフレーム](../Page/デジタルフォトフレーム.md "wikilink")での録画、再生用として利用が続いた。
+当時は特にビデオキャプチャーカードの出力形式として利用されることが多かったが、マシンパワーやハードウェアの進歩により、次第に[MPEG-4 AVCにその地位を明け渡した](../Page/H.264.md "wikilink")。そのためにパソコン上で記録するために用いられることは少なくなったが、JPEG変換処理能力が高い[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")や[デジタルフォトフレーム](../Page/デジタルフォトフレーム.md "wikilink")での録画、再生用として利用が続いている。
 
 当時の家庭用テレビゲーム機の一部にも採用されており、動画再生機能を売りとした[PC-FX](../Page/PC-FX.md "wikilink")にMotion JPEGデコーダが搭載されたほか、初代[プレイステーションの動画再生形式としてもサポートされた](../Page/PlayStation_\(ゲーム機\).md "wikilink")。また、後年には[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")の[写真チャンネル](../Page/写真チャンネル.md "wikilink")の動画形式としてもMotion JPEGが採用されている。
 
@@ -27,7 +27,7 @@
 
   - [Motion JPEG 2000](../Page/JPEG_2000.md "wikilink")
   - [Motion JPEG XR](https://ja.wikipedia.org/wiki/JPEG_XR "wikilink")
-  - [GIFアニメーション](../Page/GIFアニメーション.md "wikilink")
+  - [VLCメディアプレーヤー](../Page/VLCメディアプレーヤー.md "wikilink")
   - [DV (ビデオ規格)](../Page/DV_\(ビデオ規格\).md "wikilink")
   - [デジタルカメラ](../Page/デジタルカメラ.md "wikilink")
   - [QuickTime](../Page/QuickTime.md "wikilink")
@@ -42,6 +42,6 @@
   - [Apple Quicktime Format, including specification for MJPEG-A & MJPEG-B](http://developer.apple.com/standards/qtff-2001.pdf), pp95., アップルコンピュータ(2001).
   - [RFC 2435 RTP Payload Format for JPEG-compressed Video](http://tools.ietf.org/html/rfc2435)
 
-[Category:動画ファイルフォーマット](https://ja.wikipedia.org/wiki/Category:動画ファイルフォーマット "wikilink") [Category:コーデック](https://ja.wikipedia.org/wiki/Category:コーデック "wikilink")
+[Category:動画ファイルフォーマット](https://ja.wikipedia.org/wiki/Category:動画ファイルフォーマット "wikilink") [Category:コーデック](https://ja.wikipedia.org/wiki/Category:コーデック "wikilink") [Category:デジタルカメラ](https://ja.wikipedia.org/wiki/Category:デジタルカメラ "wikilink")
 
 1.  [グラスバレー](../Page/グラスバレー_\(企業\).md "wikilink")（旧カノープス）が提供しているMotion JPEGコーデック\[[http://pro.grassvalley.jp/download/mjpgpbk.htm\]のREADME.TXTより](http://pro.grassvalley.jp/download/mjpgpbk.htm%5DのREADME.TXTより)。

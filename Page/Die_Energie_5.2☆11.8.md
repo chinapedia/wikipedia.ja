@@ -17,7 +17,7 @@
 
 東日本大震災以後に[アムネスティ日本](https://ja.wikipedia.org/wiki/アムネスティ日本 "wikilink")に掲載された本作の書評では、ミステリーとして一応の解決を見せるストーリーは付けたしに過ぎず、作中の議論にちりばめられた刺激的な言葉のインパクト、例えば[市民運動](https://ja.wikipedia.org/wiki/市民運動 "wikilink")に共感を覚える読者をえぐるような主人公の言葉が本質であろうと推測している。
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に発表された『[Xday](../Page/Xday.md "wikilink")』は本作の登場人物であるダドリーを主人公にした[スピンオフ作品](https://ja.wikipedia.org/wiki/スピンオフ作品 "wikilink")であり、物語の時系列は本作より未来の出来事になる。また、本作の主人公のルドルフ、隣人のロザリンも『Xday』に登場している。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に発表された『[X Day](../Page/X_Day.md "wikilink")』は本作の登場人物であるダドリーを主人公にした[スピンオフ作品](https://ja.wikipedia.org/wiki/スピンオフ作品 "wikilink")であり、物語の時系列は本作より未来の出来事になる。また、本作の主人公のルドルフ、隣人のロザリンも『X Day』に登場している。
 
 ## あらすじ
 

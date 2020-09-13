@@ -19,7 +19,7 @@
 
 彼女は航空機の後部付近にいたが、機体が空中分解したあとは残骸に閉じ込められそれが木の葉が舞い降りるように落ち、山の斜面にある木々をすべるように着地したため生存可能な衝撃ですんだと思われる。さらに墜落から45分後に救助隊に発見され、即座に輸血を受けたことで出血多量による死を免れた。
 
-彼女のこの奇跡は[パラシュート](../Page/パラシュート.md "wikilink")なしで最も高い高度から落下して生還した記録として[ギネスブックから認定された](https://ja.wikipedia.org/wiki/ギネス・ワールド・レコーズ "wikilink")\[1\]。彼女はその後一時的に下半身が[麻痺](../Page/麻痺.md "wikilink")するなど長期の[入院](https://ja.wikipedia.org/wiki/入院 "wikilink")生活を余儀なくされたが後に回復した。その後も[航空会社](../Page/航空会社.md "wikilink")で事務職として働き続けたが、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に、[スロボダン・ミロシェヴィッチ](../Page/スロボダン・ミロシェヴィッチ.md "wikilink")を批判したため解雇された。[2016年](../Page/2016年.md "wikilink")、[ベオグラード](../Page/ベオグラード.md "wikilink")のアパートで死亡しているのが発見された\[2\]。
+彼女のこの奇跡は[パラシュート](../Page/パラシュート.md "wikilink")なしで最も高い高度から落下して生還した記録として[ギネスブックから認定された](https://ja.wikipedia.org/wiki/ギネス・ワールド・レコーズ "wikilink")\[1\]。彼女はその後一時的に下半身が麻痺するなど長期の入院生活を余儀なくされたが後に回復した。その後も航空会社で事務職として働き続けたが、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に、[スロボダン・ミロシェヴィッチ](../Page/スロボダン・ミロシェヴィッチ.md "wikilink")を批判したため解雇された。[2016年](../Page/2016年.md "wikilink")、[ベオグラード](../Page/ベオグラード.md "wikilink")のアパートで死亡しているのが発見された\[2\]。
 
 ## 脚注
 
@@ -32,4 +32,4 @@
 [Category:航空機テロ](https://ja.wikipedia.org/wiki/Category:航空機テロ "wikilink") [Category:爆発](https://ja.wikipedia.org/wiki/Category:爆発 "wikilink") [Category:チェコスロバキアで発生した航空事故](https://ja.wikipedia.org/wiki/Category:チェコスロバキアで発生した航空事故 "wikilink") [Category:ユーゴスラビアで発生した航空事故](https://ja.wikipedia.org/wiki/Category:ユーゴスラビアで発生した航空事故 "wikilink") [Category:DC-9による航空事故](https://ja.wikipedia.org/wiki/Category:DC-9による航空事故 "wikilink") [Category:1972年の航空事故](https://ja.wikipedia.org/wiki/Category:1972年の航空事故 "wikilink") [Category:1972年のチェコスロバキア](https://ja.wikipedia.org/wiki/Category:1972年のチェコスロバキア "wikilink") [Category:ウースチー州](https://ja.wikipedia.org/wiki/Category:ウースチー州 "wikilink") [Category:ユーゴスラビアの事件](https://ja.wikipedia.org/wiki/Category:ユーゴスラビアの事件 "wikilink") [Category:チェコスロバキアの事件](https://ja.wikipedia.org/wiki/Category:チェコスロバキアの事件 "wikilink") [Category:1972年1月](https://ja.wikipedia.org/wiki/Category:1972年1月 "wikilink")
 
 1.  [ギネスワールドレコードのページ（英語）](http://www.guinnessworldrecords.com/content_pages/record.asp?recordid=43941)
-2.  [ベスナ・ブロビッチさん死去、旅客機爆破で奇跡的生還の元客室乗務員](http://www.afpbb.com/articles/-/3112380)
+2.

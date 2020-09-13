@@ -275,6 +275,8 @@
 
   - [バスティアン・シュヴァインシュタイガー](../Page/バスティアン・シュヴァインシュタイガー.md "wikilink") 2017-2019
 
+  - [アレクサンダル・カタイ](https://ja.wikipedia.org/wiki/アレクサンダル・カタイ "wikilink") 2018-2019
+
 ### FW
 
   - [ジュニオール・アゴゴ](https://ja.wikipedia.org/wiki/ジュニオール・アゴゴ "wikilink") 2000

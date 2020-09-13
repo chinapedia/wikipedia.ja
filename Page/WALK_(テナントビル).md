@@ -1,7 +1,7 @@
 > この記事は[WALK \(テナントビル\)](https://ja.wikipedia.org/wiki/WALK_\(テナントビル\))から翻訳されています。
 
 
-**WALK**（ウォーク）は、[セゾングループ](../Page/セゾングループ.md "wikilink")の[テナント](https://ja.wikipedia.org/wiki/テナント "wikilink")中心の[専門店](https://ja.wikipedia.org/wiki/専門店 "wikilink")[ビルを運営していた会社](../Page/建築物.md "wikilink")。及びその法人が運営していたビルの名称。かつての[月賦](https://ja.wikipedia.org/wiki/月賦 "wikilink")[百貨店](../Page/百貨店.md "wikilink")の[緑屋](../Page/緑屋.md "wikilink")（後の[クレディセゾン](../Page/クレディセゾン.md "wikilink")）を引き継いだ店舗が多かった。駅前などの市街地中心部に構え、同じセゾングループであった[パルコ](../Page/パルコ.md "wikilink")の小規模版だった。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、[西友](../Page/西友.md "wikilink")からパルコがWALKを継承するが\[1\]、不採算の為、[2001年](../Page/2001年.md "wikilink")2月法人は解散している\[2\]。
+**WALK**（ウォーク）は、[セゾングループ](../Page/セゾングループ.md "wikilink")の[テナント](https://ja.wikipedia.org/wiki/テナント "wikilink")中心の[専門店](../Page/専門店.md "wikilink")[ビルを運営していた会社](../Page/建築物.md "wikilink")。及びその法人が運営していたビルの名称。かつての[月賦](https://ja.wikipedia.org/wiki/月賦 "wikilink")[百貨店](../Page/百貨店.md "wikilink")の[緑屋](../Page/緑屋.md "wikilink")（後の[クレディセゾン](../Page/クレディセゾン.md "wikilink")）を引き継いだ店舗が多かった。駅前などの市街地中心部に構え、同じセゾングループであった[パルコ](../Page/パルコ.md "wikilink")の小規模版だった。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、[西友](../Page/西友.md "wikilink")からパルコがWALKを継承するが\[1\]、不採算の為、[2001年](../Page/2001年.md "wikilink")2月法人は解散している\[2\]。
 
 ## かつて存在していた店舗
 

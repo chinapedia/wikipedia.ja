@@ -1,7 +1,7 @@
 > この記事は[DIY](https://ja.wikipedia.org/wiki/DIY)から翻訳されています。
 
 
-[California-dome-house.jpg](https://ja.wikipedia.org/wiki/File:California-dome-house.jpg "fig:California-dome-house.jpg") [DIY_Lightbox.jpg](https://ja.wikipedia.org/wiki/File:DIY_Lightbox.jpg "fig:DIY_Lightbox.jpg")（撮影用の　影を防ぐ箱）\]\] **DIY**（ディー・アイ・ワイ）とは、しろうと（専門業者でない人）が、何かを自分で作ったり修繕したりすること\[1\]。英語の****（ドゥ イット ユアセルフ）の略語で、「自身でやる」の意。「D.I.Y.」とも。
+[California-dome-house.jpg](https://ja.wikipedia.org/wiki/File:California-dome-house.jpg "fig:California-dome-house.jpg") [DIY_Lightbox.jpg](https://ja.wikipedia.org/wiki/File:DIY_Lightbox.jpg "fig:DIY_Lightbox.jpg")（撮影用の　影を防ぐ箱）\]\] **DIY**（ディー・アイ・ワイ）とは、素人（専門業者でない人）が、何かを自分で作ったり修繕したりすること\[1\]。英語の****（ドゥ イット ユアセルフ）の略語で、「やってみよう」の意。「D.I.Y.」とも。
 
 ## 概説
 
@@ -70,6 +70,10 @@ DIYで、自分が使う[電子回路](../Page/電子回路.md "wikilink")を自
   - [自給自足](../Page/自給自足.md "wikilink")
   - [自学自習](https://ja.wikipedia.org/wiki/自学自習 "wikilink")。相互教育、[公民館](../Page/公民館.md "wikilink")
   - [DIYバイオ](https://ja.wikipedia.org/wiki/DIYバイオ "wikilink")（DIY生物学）
+
+<!-- end list -->
+
+  - [ハンディマン](../Page/ハンディマン.md "wikilink") - DIYを行う職業。DIYを行うには時間が足りない人や、自分の保有するスキルでは難しい作業などを依頼する。
 
 ## 外部リンク
 

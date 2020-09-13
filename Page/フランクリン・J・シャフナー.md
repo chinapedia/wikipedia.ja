@@ -3,6 +3,8 @@
 
 **フランクリン・ジェームス・シャフナー**（, , [1920年](../Page/1920年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink") - [1989年](../Page/1989年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")出身の[映画監督](../Page/映画監督.md "wikilink")、[演出家](../Page/演出家.md "wikilink")。
 
+## 人物
+
 [宣教師](../Page/宣教師.md "wikilink")の父親のもとで[東京](../Page/東京.md "wikilink")に生まれ、16歳まで日本で過ごす。父親の死後アメリカに戻り、[コロンビア大学](https://ja.wikipedia.org/wiki/コロンビア大学 "wikilink")で法律を学んでいたが[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の勃発に伴い、ヨーロッパ、北アフリカ、アジアで従軍。後には[OSSに所属していた](https://ja.wikipedia.org/wiki/Office_of_Strategic_Services "wikilink")。
 
 帰国後、テレビ業界に入り[CBS](../Page/CBS.md "wikilink")で[ディレクターとして活動する](https://ja.wikipedia.org/wiki/テレビディレクター "wikilink")。後に映画化されて有名となったオリジナル版の『[十二人の怒れる男](../Page/十二人の怒れる男.md "wikilink")』、[ハーマン・ウォーク](../Page/ハーマン・ウォーク.md "wikilink")原作小説の戯曲化作品をドラマ化した『ケイン号の叛乱 軍事法廷』、人気シリーズ『[弁護士プレストン](https://ja.wikipedia.org/wiki/弁護士プレストン "wikilink")』などのテレビドラマを演出。これらの作品により、合計4度も[エミー賞](../Page/エミー賞.md "wikilink")を受賞している。
@@ -22,7 +24,7 @@
   - [ニコライとアレクサンドラ](https://ja.wikipedia.org/wiki/ニコライとアレクサンドラ "wikilink") - *Nicholas and Alexandra*（1971年）※[アカデミー美術賞](../Page/アカデミー美術賞.md "wikilink")ほか2部門受賞
   - [パピヨン](../Page/パピヨン_\(1973年の映画\).md "wikilink") - *Papillon*（1973年）
   - [海流のなかの島々](../Page/海流のなかの島々.md "wikilink") - *Islands in the Stream*（1976年）
-  - [ブラジルから来た少年](../Page/ブラジルから来た少年.md "wikilink") - *The Boys from Brazil*（1978年）
+  - [ブラジルから来た少年](../Page/ブラジルから来た少年_\(映画\).md "wikilink") - *The Boys from Brazil*（1978年）
   - [スフィンクス](https://ja.wikipedia.org/wiki/スフィンクス_\(映画\) "wikilink") - *Sphinx*（1980年）
   - イエス・ジョルジョ - *Yes, Giorgio*（1982年）
   - ライオンハート - *Lionheart*（1987年）

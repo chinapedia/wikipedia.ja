@@ -40,6 +40,6 @@
 ## 外部リンク
 
   -
-  - [青春★ENERGY - フジテレビ](http://www.fujitv.co.jp/b_hp/energy/)
+  - [青春★ENERGY - フジテレビ](https://www.fujitv.co.jp/b_hp/energy/)
 
 [Category:青春★ENERGY](https://ja.wikipedia.org/wiki/Category:青春★ENERGY "wikilink") [Category:フジテレビのテレビドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビのテレビドラマ "wikilink")

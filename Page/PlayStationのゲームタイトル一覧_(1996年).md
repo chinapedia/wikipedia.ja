@@ -118,7 +118,7 @@
   - 4月19日 [オーバードライビンDX](https://ja.wikipedia.org/wiki/オーバードライビンDX "wikilink")（エレクトロニック・アーツ・ビクター）
   - 4月19日 [DOOM](../Page/DOOM.md "wikilink")（ソフトバンク）
   - 4月26日 [Jリーグバーチャルスタジアム](https://ja.wikipedia.org/wiki/Jリーグバーチャルスタジアム "wikilink")96（エレクトロニック・アーツ・ビクター）
-  - 4月26日 [太陽のしっぽ](https://ja.wikipedia.org/wiki/太陽のしっぽ "wikilink")（アートディンク）
+  - 4月26日 [太陽のしっぽ](../Page/太陽のしっぽ.md "wikilink")（アートディンク）
   - 4月26日 [ダブルドラゴン](../Page/ダブルドラゴンシリーズ.md "wikilink")（アーバンプラント）
   - 4月26日 [ギャラクシアン3](../Page/ギャラクシアン3.md "wikilink")（ナムコ）
   - 4月26日 [パチパチサーガ](https://ja.wikipedia.org/wiki/パチパチサーガ "wikilink")（ティー・イー・エヌ研究所）

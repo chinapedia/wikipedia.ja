@@ -1,10 +1,11 @@
 > この記事は[Blasterhead](https://ja.wikipedia.org/wiki/Blasterhead)から翻訳されています。
 
 
-**Blasterhead**（ブラスターヘッド）は[滋賀県](../Page/滋賀県.md "wikilink")出身の[作曲家](../Page/作曲家.md "wikilink")・[アレンジャー](https://ja.wikipedia.org/wiki/アレンジャー "wikilink")・[DJ](../Page/ディスクジョッキー.md "wikilink")。ゲーム音楽製作・開発会社Silverbox代表。[チップチューン](../Page/チップチューン.md "wikilink")や[ハードコア・テクノ](https://ja.wikipedia.org/wiki/ハードコア・テクノ "wikilink")のジャンルの曲を作る。
+**Blasterhead**（ブラスターヘッド、[1975年](../Page/1975年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink") - [2014年](../Page/2014年.md "wikilink") ）は[滋賀県](../Page/滋賀県.md "wikilink")出身の[作曲家](../Page/作曲家.md "wikilink")・[アレンジャー](https://ja.wikipedia.org/wiki/アレンジャー "wikilink")・[DJ](../Page/ディスクジョッキー.md "wikilink")。ゲーム音楽製作・開発会社Silverbox代表。[チップチューン](../Page/チップチューン.md "wikilink")や[ハードコア・テクノ](https://ja.wikipedia.org/wiki/ハードコア・テクノ "wikilink")のジャンルの曲を作る。
 
 ## 略歴・概要
 
+  - [近江兄弟社高等学校](https://ja.wikipedia.org/wiki/近江兄弟社中学校・高等学校 "wikilink")、[大阪芸術大学](../Page/大阪芸術大学.md "wikilink")卒。
   - [有限会社ケロキュウに入社し](../Page/ケロQ.md "wikilink")、同社製作のゲーム音楽を担当。
   - 退社後に自身でゲーム/音楽製作会社の有限会社シルバーボックスを設立、主に美少女ゲーム主題歌やBGMの製作・リミックスを手掛ける。
   - その傍らでDJとしても活動
@@ -58,6 +59,6 @@
   - [Silverbox Official Information](http://www.silverbox.jp/)
   - <http://www.compllege.com/coad/> C.O.A.D(Blasterheadに参加しているTaishiのHP)
 
-[Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:テクノミュージシャン](https://ja.wikipedia.org/wiki/Category:テクノミュージシャン "wikilink") [Category:ゲーム音楽の作曲家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽の作曲家 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のテクノミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のテクノミュージシャン "wikilink") [Category:ゲーム音楽の作曲家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽の作曲家 "wikilink") [Category:日本の男性作曲家](https://ja.wikipedia.org/wiki/Category:日本の男性作曲家 "wikilink") [Category:日本の編曲家](https://ja.wikipedia.org/wiki/Category:日本の編曲家 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:大阪芸術大学出身の人物](https://ja.wikipedia.org/wiki/Category:大阪芸術大学出身の人物 "wikilink") [Category:滋賀県出身の人物](https://ja.wikipedia.org/wiki/Category:滋賀県出身の人物 "wikilink")
 
 1.  [電撃萌王ブログ：24日金曜、秋葉原でイベント3連発！　ラバソ→キャララ→そしてBlasterhead](http://moeoh.dengeki.com/blog/2007/08/0825.html)

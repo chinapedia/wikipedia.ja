@@ -55,7 +55,7 @@
 #### 選考を巡って
 
   - 前回の出場歌手の中より今回不選出となった歌手は以下。
-      - 紅組:[アグネス・チャン](https://ja.wikipedia.org/wiki/アグネス・チャン "wikilink")\[1\]・[伊東ゆかり](https://ja.wikipedia.org/wiki/伊東ゆかり "wikilink")・[チェリッシュ](https://ja.wikipedia.org/wiki/チェリッシュ "wikilink")・[森山良子](../Page/森山良子.md "wikilink")
+      - 紅組:[アグネス・チャン](https://ja.wikipedia.org/wiki/アグネス・チャン "wikilink")\[1\]・[伊東ゆかり](https://ja.wikipedia.org/wiki/伊東ゆかり "wikilink")・[チェリッシュ](../Page/チェリッシュ_\(歌手グループ\).md "wikilink")・[森山良子](../Page/森山良子.md "wikilink")
       - 白組:[沢田研二](../Page/沢田研二.md "wikilink")\[2\]・[ずうとるび](../Page/ずうとるび.md "wikilink")・[ダウン・タウン・ブギウギ・バンド](../Page/ダウン・タウン・ブギウギ・バンド.md "wikilink")・[にしきのあきら](https://ja.wikipedia.org/wiki/にしきのあきら "wikilink")・[三善英史](../Page/三善英史.md "wikilink")
   - この年、「[およげ\!たいやきくん](../Page/およげ!たいやきくん.md "wikilink")」が[オリコン](../Page/オリコン.md "wikilink")史上最高の460万枚の売り上げを記録した[子門真人](../Page/子門真人.md "wikilink")が不出場。歌手発表の場で各メディアから「[フジテレビ発のヒットだから落としたのか](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")」（同曲はフジテレビ系列『[ひらけ\!ポンキッキ](../Page/ひらけ!ポンキッキ.md "wikilink")』内の楽曲）との質問に対し、NHK側はアンケートでの支持が低かったためである、と回答した（アンケートは歌手名での投票となるため、楽曲先行でブレイクした歌手の場合はアンケート支持が落ちる場合がある）。
   - この回の紅白では他にも、NHKのアンケート結果によって当落が左右されるケースが多かった。フォーク・ニューミュージック界からは[荒井由実](https://ja.wikipedia.org/wiki/荒井由実 "wikilink")、[イルカ](https://ja.wikipedia.org/wiki/イルカ_\(歌手\) "wikilink")、[田山雅充](https://ja.wikipedia.org/wiki/田山雅充 "wikilink")らが候補に上ったが、「都会の10代、20代の支持は高いが、30代以上の支持は皆無に等しい」との理由で選出されず、この年新人賞を争った[内藤やす子](../Page/内藤やす子.md "wikilink")と[新沼謙治](../Page/新沼謙治.md "wikilink")では、「楽曲の人気は内藤が上だが、特に地方の視聴者の間では新沼が根強い人気を誇る」との理由で新沼のみが選出された。歌手選考の最終過程である外部の「ご意見を伺う会」では、内藤を選出される意見が出たがNHKサイドが押し通した他、外部側は[中村雅俊](https://ja.wikipedia.org/wiki/中村雅俊 "wikilink")を推したが、既に加山雄三やあおい輝彦ら、本職俳優の歌手が選出されたことを理由に落とされた。また、「青江三奈は古すぎるのではないか」と意見されたが、「アンケートでは全国的に根強い支持がある」との理由でそのまま連続出場となった。
@@ -137,7 +137,7 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=27)
   - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1976年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1976年のテレビ番組_\(日本\) "wikilink") [Category:1976年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1976年のラジオ番組_\(日本\) "wikilink") [Category:1976年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1976年の日本の音楽 "wikilink") [Category:1976年12月](https://ja.wikipedia.org/wiki/Category:1976年12月 "wikilink")

@@ -7,7 +7,7 @@
 
 現実世界における[性別適合手術](../Page/性別適合手術.md "wikilink")から、肉体的にも実際の異性に成り変わる「[変身譚](https://ja.wikipedia.org/wiki/変身譚 "wikilink")」まで、作品によってジャンルに幅がある。異性となることによる服装（[異性装](../Page/異性装.md "wikilink")）、言葉遣い、心境の変化を通じて、社会における[性差](../Page/性差.md "wikilink")を浮き彫りにする効果を与えるものとして用いられることが多い。[古代ローマ](../Page/古代ローマ.md "wikilink")の『[転身物語](https://ja.wikipedia.org/wiki/転身物語 "wikilink")』において、女性から男性に変わった[イピス](https://ja.wikipedia.org/wiki/イピス "wikilink")や[カイネウス](../Page/カイネウス.md "wikilink")の伝説、男神[ユーピテル](../Page/ユーピテル.md "wikilink")が女神[ディアーナ](../Page/ディアーナ.md "wikilink")に変身、女性化して[ニュンペー](../Page/ニュンペー.md "wikilink")である[カリストー](../Page/カリストー.md "wikilink")と同性愛的に睦みあう伝説など、その歴史は古い。
 
-現代においても、小説、漫画、映画、ゲームなどにおいて幅広く使われるモチーフとなっている。特に、[アダルト](https://ja.wikipedia.org/wiki/アダルト "wikilink")系のフィクション（[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")、成人向け漫画・小説等）において広く見られる。
+現代においても、小説、漫画、映画、ゲームなどにおいて幅広く使われるモチーフとなっている。特に、[アダルト系のフィクション](https://ja.wikipedia.org/wiki/成人向け "wikilink")（[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")、成人向け漫画・小説等）において広く見られる。
 
 ## 手法による分類
 
@@ -180,6 +180,7 @@
 | あく | [AKUMAで少女](../Page/AKUMAで少女.md "wikilink")                                                              | 2007年 | 日本   | 入れ替わり | 小説   |                                                         |
 | あす | [アスカはいぶりっど](https://ja.wikipedia.org/wiki/アスカはいぶりっど "wikilink")                                         | 2009年 | 日本   | 変身    | コミック |                                                         |
 | あに | [ANIMAL X](https://ja.wikipedia.org/wiki/ANIMAL_X "wikilink")                                           |       | 日本   |       |      |                                                         |
+| あめ | [あめのちはれ](https://ja.wikipedia.org/wiki/あめのちはれ "wikilink")                                               |       | 日本   | 変身    | コミック |                                                         |
 | いち | [一年生になっちゃったら](../Page/一年生になっちゃったら.md "wikilink")                                                        | 2007年 | 日本   | 手術    | コミック |                                                         |
 | えす | [エスプガルーダ](../Page/エスプガルーダ.md "wikilink")                                                                |       | 日本   |       |      |                                                         |
 | えす | [エスプガルーダII](https://ja.wikipedia.org/wiki/エスプガルーダII "wikilink")                                         |       | 日本   |       |      |                                                         |
@@ -245,7 +246,9 @@
 | めぐ | [めぐみるく](https://ja.wikipedia.org/wiki/めぐみるく "wikilink")                                                 |       | 日本   |       |      |                                                         |
 | もも | [ももたま](https://ja.wikipedia.org/wiki/ももたま "wikilink")                                                   |       | 日本   |       |      |                                                         |
 | もん | [問題ないね\!?ヒデユキくん](../Page/問題ないね!?ヒデユキくん.md "wikilink")                                                   |       | 日本   |       |      |                                                         |
+| やま | [山田くんと7人の魔女](https://ja.wikipedia.org/wiki/山田くんと7人の魔女 "wikilink")                                       |       | 日本   | 入れ替わり | コミック |                                                         |
 | らん | [らんま1/2](https://ja.wikipedia.org/wiki/らんま1/2 "wikilink")                                               | 1987年 | 日本   | 変身    | コミック |                                                         |
+| らん | [ランジェリー・パブリシティ](https://ja.wikipedia.org/wiki/ランジェリー・パブリシティ "wikilink")                                 |       | 日本   | 変身    | コミック |                                                         |
 | りた | リターン                                                                                                    |       | 日本   |       |      |                                                         |
 | りぼ | [リボンの騎士](../Page/リボンの騎士.md "wikilink")                                                                  |       | 日本   |       |      |                                                         |
 | わが | [我が家のお稲荷さま。](../Page/我が家のお稲荷さま。.md "wikilink")                                                          |       | 日本   |       |      |                                                         |

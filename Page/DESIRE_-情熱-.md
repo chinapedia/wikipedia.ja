@@ -1,7 +1,7 @@
 > この記事は[DESIRE -情熱-](https://ja.wikipedia.org/wiki/DESIRE_-情熱-)から翻訳されています。
 
 
-「**DESIRE -情熱-**」（ディザイア じょうねつ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の楽曲。この楽曲は彼女の14枚目の[シングル](../Page/シングル.md "wikilink")として、[1986年](../Page/1986年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink")にワーナー・パイオニア（現：[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）よりリリースされた ([EP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): L-1750)。
+「**DESIRE -情熱-**」（ディザイア じょうねつ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の楽曲。この楽曲は彼女の14枚目の[シングル](../Page/シングル.md "wikilink")として、[1986年](../Page/1986年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink")にワーナー・パイオニア（現：[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）よりリリースされた ([EP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): L-1750)。通称は、「DESIRE」と呼ぶ。
 
 ## 背景
 
@@ -41,36 +41,39 @@
 
 ## 収録曲
 
+### 規格
+
+  - 1988年6月25日 - [8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink"): 10SL-144\[60\]
+  - 1988年12月21日 - [CT](../Page/コンパクトカセット.md "wikilink"): 10L5-4053\[61\]
+  - 1998年11月26日 - [12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): WPC6-8671\[62\]
+  - 2008年11月12日 - [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")\[63\]\[64\]
+  - 2014年6月18日 - 12cmCD, [Singles Box 1982-1991の一枚として](https://ja.wikipedia.org/wiki/Singles_Box_1982-1991 "wikilink")
+
+### 価格
+
+  - 発売当時の値段は700円
+
 ## クレジット
 
-「DESIRE」のライナー・ノーツより\[60\]
+「DESIRE」のライナー・ノーツより\[65\]
 
   - 撮影: 清水伸充
   - きもの着付: 村井佐千子
   - スタイリスト: 東野邦子
   - ヘアメイク: 関哲也
-  - ミキサー: 石崎信郎\[61\]
-
-## 価格
-
-  - 発売当時の値段は700円
-
-## 再発盤
-
-  - 1988年6月25日 - [8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink"): 10SL-144\[62\]
-  - 1988年12月21日 - [CT](../Page/コンパクトカセット.md "wikilink"): 10L5-4053\[63\]
-  - 1998年11月26日 - [12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): WPC6-8671\[64\]
-  - 2008年11月12日 - [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")\[65\]\[66\]
-  - 2014年6月18日 - 12cmCD, [Singles Box 1982-1991の一枚として](https://ja.wikipedia.org/wiki/Singles_Box_1982-1991 "wikilink")
+  - ミキサー: 石崎信郎\[66\]
 
 ## 収録作品
 
-  - 「DESIRE -情熱-」
-      - 『[CD'87](../Page/CD'87.md "wikilink")』\[67\]\[68\]
-      - 『[BEST II](../Page/BEST_II_\(中森明菜のアルバム\).md "wikilink")』\[69\]\[70\]
-  - 「LA BOHÈME」
-      - 『CD'87』\[71\]\[72\]
-      - 『[BEST III](../Page/BEST_III.md "wikilink")』\[73\]\[74\]
+**DESIRE -情熱-**
+
+  - 『[CD'87](../Page/CD'87.md "wikilink")』\[67\]\[68\]
+  - 『[BEST II](../Page/BEST_II_\(中森明菜のアルバム\).md "wikilink")』\[69\]\[70\]
+
+**LA BOHÈME**
+
+  - 『CD'87』\[71\]\[72\]
+  - 『[BEST III](../Page/BEST_III.md "wikilink")』\[73\]\[74\]
 
 ## カバー
 

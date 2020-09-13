@@ -49,7 +49,7 @@
 
   - 岡本章生とゲイスターズ（指揮 [岡本章生](https://ja.wikipedia.org/wiki/岡本章生 "wikilink")）-オーケストラ・ボックス
       - 第1部のみ：[三波春夫](../Page/三波春夫.md "wikilink")まで
-  - [三原綱木とザ・ニューブリード](https://ja.wikipedia.org/wiki/三原綱木とザ・ニューブリード "wikilink")・[東京放送管弦楽団](../Page/東京放送管弦楽団.md "wikilink")（指揮 [三原綱木](https://ja.wikipedia.org/wiki/三原綱木 "wikilink")）-ステージ
+  - [三原綱木](https://ja.wikipedia.org/wiki/三原綱木 "wikilink")とザ・ニューブリード・[東京放送管弦楽団](../Page/東京放送管弦楽団.md "wikilink")（指揮 [三原綱木](https://ja.wikipedia.org/wiki/三原綱木 "wikilink")）-ステージ
       - 第1部：[藤山一郎](../Page/藤山一郎.md "wikilink")-[都はるみ](../Page/都はるみ.md "wikilink")以降、エンディングまで
 
 ※岡本章生とゲイスターズの紅白担当は今回で最後となり、翌年の第41回以降は三原綱木とザ・ニューブリードに統一された。
@@ -64,7 +64,7 @@
   - [村崎芙蓉子](../Page/村崎芙蓉子.md "wikilink")（[医師](../Page/医師.md "wikilink")・作家）：2年前出版の著書『カイワレ族の偏差値日記』が話題となり「カイワレ族」なる言葉が流行語となる。
   - [西田敏行](../Page/西田敏行.md "wikilink")（俳優）：翌年の[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[翔ぶが如く](../Page/翔ぶが如く_\(NHK大河ドラマ\).md "wikilink")』の主人公・[西郷隆盛](../Page/西郷隆盛.md "wikilink")役。
   - [石岡瑛子](../Page/石岡瑛子.md "wikilink")（[アートプロデューサー](../Page/アートディレクター.md "wikilink")）：2年前の[第29回グラミー賞でベスト](https://ja.wikipedia.org/wiki/グラミー賞#日本人による受賞 "wikilink")・アルバム・パッケージ賞を受賞。
-  - [斎藤雅樹](../Page/斎藤雅樹.md "wikilink")（[東京読売巨人軍](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")[投手](../Page/投手.md "wikilink")）：投手として巨人軍を日本一に導き[セ・リーグ](https://ja.wikipedia.org/wiki/セントラル・リーグ "wikilink")[最多勝の個人タイトルも獲得](../Page/最多勝利.md "wikilink")。
+  - [斎藤雅樹](../Page/斎藤雅樹.md "wikilink")（[東京読売巨人軍](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")[投手](../Page/投手.md "wikilink")）：投手として巨人軍を日本一に導き[セ・リーグ](https://ja.wikipedia.org/wiki/セントラル・リーグ "wikilink")[最多勝](../Page/最多勝利.md "wikilink")、[沢村賞の個人タイトルも獲得](../Page/沢村栄治賞.md "wikilink")。
   - [渡辺梓](../Page/渡辺梓.md "wikilink")（女優）：この年下期の連続テレビ小説『[和っこの金メダル](../Page/和っこの金メダル.md "wikilink")』のヒロイン・秋津和子役。
   - 沖清司・NHK番組制作局長
   - ほか地方審査員のみなさん16名
@@ -80,13 +80,13 @@
 | 歌手                                                                                                      | 曲                                                                       |
 | 第1部                                                                                                     |                                                                         |
 | [織井茂子](../Page/織井茂子.md "wikilink")(6)                                                                   | [君の名は](../Page/君の名は.md "wikilink")                                      |
+| [美空ひばり](../Page/美空ひばり.md "wikilink")「[リンゴ追分](https://ja.wikipedia.org/wiki/リンゴ追分 "wikilink")」(映像)\[15\] |                                                                         |
 | [雪村いづみ](../Page/雪村いづみ.md "wikilink")(10)                                                                | [愛燦燦](https://ja.wikipedia.org/wiki/愛燦燦_\(美空ひばりの曲\) "wikilink")         |
 | [松山恵子](../Page/松山恵子.md "wikilink")(8)                                                                   | 未練の波止場                                                                  |
 | [ペギー葉山](../Page/ペギー葉山.md "wikilink")(14)                                                                | [南国土佐を後にして](https://ja.wikipedia.org/wiki/南国土佐を後にして "wikilink")         |
-| [ピンク・レディー](../Page/ピンク・レディー.md "wikilink")(2)                                                           | ヒット・メドレー\[15\]                                                          |
+| [ピンク・レディー](../Page/ピンク・レディー.md "wikilink")(2)                                                           | ヒット・メドレー\[16\]                                                          |
 | [松尾和子](../Page/松尾和子.md "wikilink")(4)、[和田弘とマヒナスターズ](../Page/和田弘とマヒナスターズ.md "wikilink")(10)              | [誰よりも君を愛す](https://ja.wikipedia.org/wiki/誰よりも君を愛す "wikilink")           |
 | [都はるみ](../Page/都はるみ.md "wikilink")(21)                                                                  | [アンコ椿は恋の花](https://ja.wikipedia.org/wiki/アンコ椿は恋の花 "wikilink")           |
-| [美空ひばり](../Page/美空ひばり.md "wikilink")「[リンゴ追分](https://ja.wikipedia.org/wiki/リンゴ追分 "wikilink")」(映像)\[16\] |                                                                         |
 | 第2部                                                                                                     |                                                                         |
 | [内藤やす子](../Page/内藤やす子.md "wikilink")(初)                                                                 | 六本木ララバイ'90                                                              |
 | [工藤静香](../Page/工藤静香.md "wikilink")(2)                                                                   | [恋一夜](../Page/恋一夜.md "wikilink")                                        |
@@ -176,7 +176,7 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=40)
   - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
   - [第４０回　ＮＨＫ紅白歌合戦 - NHK名作選(動画・静止画) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010359_00000)
 
@@ -197,8 +197,8 @@
 12. この以前でも『大河ドラマ』の主演経験者が司会の候補に挙がることはあった。
 13. 松平は[第38回でも](../Page/第38回NHK紅白歌合戦.md "wikilink")（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）総合司会の候補に挙がっていた。
 14. [合田道人](../Page/合田道人.md "wikilink")『紅白歌合戦の真実』、290頁。
-15. 「[ペッパー警部](../Page/ペッパー警部.md "wikilink")」「[UFO](../Page/UFO_\(ピンク・レディーの曲\).md "wikilink")」「[サウスポー](../Page/サウスポー_\(ピンク・レディーの曲\).md "wikilink")」のメドレー
-16. 曲紹介は[松平定知](../Page/松平定知.md "wikilink")(総合司会)が行った。
+15. 曲紹介は[松平定知](../Page/松平定知.md "wikilink")(総合司会)が行った。
+16. 「[ペッパー警部](../Page/ペッパー警部.md "wikilink")」「[UFO](../Page/UFO_\(ピンク・レディーの曲\).md "wikilink")」「[サウスポー](../Page/サウスポー_\(ピンク・レディーの曲\).md "wikilink")」のメドレー
 17. 当初、出場回数表記としては“由紀さおり(12)・安田祥子（初）”とされ、それぞれソロ歌手としてカウントされていた。しかしその後、今回に関しては“由紀さおり・安田祥子”名義で、2人のユニットとして「初出場」扱いに変更されている。
 18. [合田道人](../Page/合田道人.md "wikilink")『紅白歌合戦の舞台裏』、175頁。
 19. 合田『紅白歌合戦の舞台裏』、175頁。

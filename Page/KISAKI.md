@@ -398,8 +398,7 @@ KISAKIが代表を務めるインディーズレーベル。2003年3月設立。
 
 ## 外部リンク
 
-  - [KISAKI OFFICIAL SITE](http://kisaki-official.syncl.jp/)
-
+  -
   - [KISAKI OFFICIAL BLOG「L'AIR DU TEMPS」Powered by Ameba](https://ameblo.jp/kisaki-official/)
 
   -

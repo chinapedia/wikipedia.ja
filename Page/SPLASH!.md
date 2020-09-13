@@ -1,13 +1,18 @@
 > この記事は[SPLASH!](https://ja.wikipedia.org/wiki/SPLASH!)から翻訳されています。
 
 
-「**SPLASH\!**」(スプラッシュ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[2006年](../Page/2006年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")に[VERMILLION RECORDSより](../Page/VERMILLION_RECORDS.md "wikilink")42作目の[シングル](../Page/シングル.md "wikilink")として発売された。
+</ref>
+
+  - 2006年6月度月間2位（オリコン）
+  - 2006年度年間19位（オリコン）
+
+| Last single =  | This single =  | Next single =  | Misc = }} 「**SPLASH\!**」(スプラッシュ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。2006年6月7日に[VERMILLION RECORDSより](../Page/VERMILLION_RECORDS.md "wikilink")42作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 
 15thアルバム『[MONSTER](../Page/MONSTER_\(アルバム\).md "wikilink")』からの先行シングルで、2006年3枚目のシングル。なお、B'zが年に3枚以上シングルを出すのは2000年以来6年ぶり。
 
-本作は初回特典としてB'zとしては初のDVD付きシングル発売という形態を採用し、通常盤含む計4種で発売された。付属DVDには、[2005年](../Page/2005年.md "wikilink")のライブツアー『[B'z LIVE-GYM 2005 "CIRCLE OF ROCK"](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2005_-CIRCLE_OF_ROCK- "wikilink")』からそれぞれ「[愛のバクダン](../Page/愛のバクダン.md "wikilink")」、「[パルス](../Page/THE_CIRCLE.md "wikilink")」、「[Fever](../Page/愛のバクダン.md "wikilink")」のライブ映像が収録されている。それに伴い、ジャケットの色も4色用意された。通常盤はマキシシングルサイズのプラスチックケースで、DVD付きはトールケースのデジパック仕様となっている。
+本作は初回特典としてB'zとしては初のDVD付きシングル発売という形態を採用し、通常盤含む計4種で発売された。付属DVDには、2005年のライブツアー『[B'z LIVE-GYM 2005 "CIRCLE OF ROCK"](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2005_-CIRCLE_OF_ROCK- "wikilink")』からそれぞれ「[愛のバクダン](../Page/愛のバクダン.md "wikilink")」、「[パルス](../Page/THE_CIRCLE.md "wikilink")」、「[Fever](../Page/愛のバクダン.md "wikilink")」のライブ映像が収録されている。それに伴い、ジャケットの色も4色用意された。通常盤はマキシシングルサイズのプラスチックケースで、DVD付きはトールケースのデジパック仕様となっている。
 
   - レッド - 通常版
   - グリーン - 「愛のバクダン」
@@ -22,7 +27,7 @@
       -
         元々は、アルバムレコーディングの後半に「ダンサブルな曲が欲しい」ということで制作された。
         それまで長く続いて来た生音による[ロック路線の楽曲から離れ](../Page/ロック_\(音楽\).md "wikilink")、[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")音などが比較的多く使われている楽曲。ドラムも音の重さは抑えられている。また、シングル曲としては初めて、松本のギターソロパートがない。
-        歌詞は性行為や生殖、恋愛などといった『人間の生存現象』をテーマに描かれており、直接的な表現も少なからずある。
+        歌詞は性行為や生殖、恋愛などといった「人間の生存現象」をテーマに描かれており、直接的な表現も少なからずある。
         [コーラス部分の歌詞が公開されている](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。
         [PVの監督は](../Page/ミュージック・ビデオ.md "wikilink")、「[IT'S SHOWTIME\!\!](../Page/IT'S_SHOWTIME!!.md "wikilink")」以来となる[ライオネル・コールマン](https://ja.wikipedia.org/wiki/ライオネル・コールマン "wikilink")が担当しており、ストーリー性のある内容になっている\[1\]。
         本楽曲の英詞バージョンが製作されており、このバージョンの楽曲タイトルは「**Splash**」となる。2011年に行われた北米ライブツアー『B'z LIVE-GYM 2011 -long time no see-』にて演奏されたのがこの曲の初出しで、以降のライブでたびたび演奏された。その後、映像作品『[B'z LIVE-GYM 2011 -C'mon-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2011_-C'mon- "wikilink")』に、同名のライブでの演奏が収録された後、2012年リリースの配信限定アルバム『[B'z](https://ja.wikipedia.org/wiki/B'z_\(2012年のアルバム\) "wikilink")』に収録。現在では、オリジナルより英語バージョンのほうが演奏機会が多い。前述の北米ツアーでは他にも英語バージョンが披露されたが、このバージョンが「SPLASH\!」の英語バージョンというよりは別の曲のような印象を受けたという指摘に対して、稲葉は「そう、別物という感じになっているよね。」とコメントしている\[2\]。
@@ -31,7 +36,7 @@
         最初の[イントロの雑踏は](../Page/導入部.md "wikilink")、稲葉が曲の雰囲気に合うということで、自ら街の雑踏の音を録音したもの。
         [ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")や[ホーン](../Page/管楽器.md "wikilink")、街中の[SE](../Page/効果音.md "wikilink")、打ち込み音などがふんだんに使われている。「SPLASH\!」同様、こちらも松本のギターソロパートはない。
         メンバーによると、[ディスコティックを意識した曲らしい](https://ja.wikipedia.org/wiki/ディスコ_\(音楽\) "wikilink")。
-        15thオリジナル・アルバム『[MONSTER](../Page/MONSTER_\(アルバム\).md "wikilink")』には未収録となったものの、アルバムツアー『[B'z LIVE-GYM 2006 "MONSTER'S GARAGE"](../Page/B'z_LIVE-GYM_2006_"MONSTER'S_GARAGE".md "wikilink")』で演奏された。その際、「[Wonderful Opportunity](https://ja.wikipedia.org/wiki/IN_THE_LIFE_#収録曲 "wikilink")」や、「[恋心 (KOI-GOKORO)](https://ja.wikipedia.org/wiki/ZERO_\(B'zの曲\)_#収録曲 "wikilink")」と同様に、振り付けを交えての演奏となった。
+        15thオリジナル・アルバム『[MONSTER](../Page/MONSTER_\(アルバム\).md "wikilink")』には未収録となったものの、アルバムツアー『[B'z LIVE-GYM 2006 "MONSTER'S GARAGE"](../Page/B'z_LIVE-GYM_2006_"MONSTER'S_GARAGE".md "wikilink")』で演奏された。その際、「[Wonderful Opportunity](https://ja.wikipedia.org/wiki/IN_THE_LIFE#収録曲 "wikilink")」や、「[恋心(KOI-GOKORO)](https://ja.wikipedia.org/wiki/ZERO_\(B'zの曲\)#収録曲 "wikilink")」と同様に、振り付けを交えての演奏となった。
 
 ## タイアップ
 
@@ -91,5 +96,5 @@
 
 [Category:B'zの楽曲](https://ja.wikipedia.org/wiki/Category:B'zの楽曲 "wikilink") [Category:稲葉浩志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:稲葉浩志が制作した楽曲 "wikilink") [Category:松本孝弘が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘が制作した楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:2006年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2006年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink")
 
-1.  『[B'z The Best XXV 1999-2012](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1999-2012 "wikilink")』初回限定盤に付属しているMUSIC VIDEOの[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")にて。
-2.  be with\! vol.91 7Pより
+1.
+2.

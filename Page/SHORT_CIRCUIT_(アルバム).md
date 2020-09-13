@@ -61,7 +61,7 @@
       -
         歌：KOTOKO
         作詞：KOTOKO、作曲：高瀬一矢、編曲：中坪淳彦
-13. **[Short Circuit](../Page/Short_Circuit.md "wikilink")** \[4:15\]
+13. **[Short Circuit](https://ja.wikipedia.org/wiki/Short_Circuit_\(KOTOKOの曲\) "wikilink")** \[4:15\]
       -
         歌：KOTOKO
         作詞：KOTOKO、作曲・編曲：高瀬一矢

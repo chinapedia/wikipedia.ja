@@ -30,7 +30,7 @@
 <!-- end list -->
 
   -
-    Blanche(Ba)→PENICILLIN(Gt)→Deshabillz(Ba SHAISUKE)→BAISER(泰祐-SHAISUKE-)→Swallowtail(taisuke) 
+    Blanche(Ba)→[PENICILLIN](../Page/PENICILLIN.md "wikilink")(Gt)→[Deshabillz](https://ja.wikipedia.org/wiki/Deshabillz "wikilink")(Ba SHAISUKE)→BAISER(泰祐-SHAISUKE-)→Swallowtail(taisuke) 
     灰二脱退後に1997年に加入。前所属バンドはDeshabillz。解散後は桂と零と共にSwallowtailを結成するが、2001年7月に死去。
 
 <!-- end list -->
@@ -40,7 +40,7 @@
 <!-- end list -->
 
   -
-    SHAZNA→BAISER(桂) →Swallowtail(katsura) →Vinett(katsura)→Cannival Method(Katsura)
+    [SHAZNA](../Page/SHAZNA.md "wikilink")→BAISER(桂) →Swallowtail(katsura) →Vinett(katsura)→Cannival Method(Katsura)
     前メンバー俊美脱退後に泰祐と共に加入。解散後はSwallowtailを結成。いくつかのインディーズバンドを活動した後、音楽活動を引退。現在は結婚し子供もおり、野球をやっている。
 
 <!-- end list -->

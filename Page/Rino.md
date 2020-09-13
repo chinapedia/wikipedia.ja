@@ -287,7 +287,7 @@
 
 ## 外部リンク
 
-  - [CooRie Official Blog 『夢降ル夜に君想フ』](http://rinocoorie.exblog.jp/)
+  - [CooRie Official Blog 『夢降ル夜に君想フ』](https://rinocoorie.exblog.jp/)
 
   -
   -

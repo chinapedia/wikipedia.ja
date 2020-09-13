@@ -5,14 +5,14 @@
 
 ## 解説
 
-  - [三貴](../Page/三貴.md "wikilink")「銀座ジュエリーマキ エステートツインジュエリー」[TV・CFイメージソングに使用された](../Page/コマーシャルソング.md "wikilink")。
-  - 前作「[Hate tell a lie](../Page/Hate_tell_a_lie.md "wikilink")」の大ヒット中にリリースされ、[オリコン初登場](../Page/オリコンチャート.md "wikilink")1位を獲得した。
-  - 前作に続いての[ブルースハープ](../Page/ハーモニカ.md "wikilink")[演奏](../Page/演奏.md "wikilink")（イントロ部分）が話題になった。
-  - [PVは](../Page/ミュージック・ビデオ.md "wikilink")、スクリーンに映し出された[オーケストラ](../Page/オーケストラ.md "wikilink")をバックに、[マエストロ](https://ja.wikipedia.org/wiki/マエストロ "wikilink")に扮した華原が歌うというものだった。
-  - 最初は[ダンス・ミュージック](https://ja.wikipedia.org/wiki/ダンス・ミュージック "wikilink")のようなアップテンポの曲を作っていたが、ふとピアノを弾いている時に突然浮かんで出来上がった曲である\[1\]。
+  - [三貴](../Page/三貴.md "wikilink")「銀座ジュエリーマキ エステートツインジュエリー」[TV・CFイメージソング](../Page/コマーシャルソング.md "wikilink")。
+  - 前作「[Hate tell a lie](../Page/Hate_tell_a_lie.md "wikilink")」の大ヒット中にリリースされ、[オリコン初登場](../Page/オリコンチャート.md "wikilink")1位を獲得。
+  - 前作に続いての[ブルースハープ](../Page/ハーモニカ.md "wikilink")[演奏](../Page/演奏.md "wikilink")（イントロ部分）を使用・披露している。
+  - [PVは](../Page/ミュージック・ビデオ.md "wikilink")、スクリーンに映し出された[オーケストラ](../Page/オーケストラ.md "wikilink")をバックに、[マエストロ](https://ja.wikipedia.org/wiki/マエストロ "wikilink")に扮した華原が歌うというもので、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")も出演している。
+  - 小室曰く、最初は[ダンス・ミュージック](https://ja.wikipedia.org/wiki/ダンス・ミュージック "wikilink")のようなアップテンポの曲を作っていたが、ふとピアノを弾いている時に突然浮かんで出来上がった曲である\[1\]。
   - レコーディング前に[バリ島](../Page/バリ島.md "wikilink")で休暇を過ごした後に歌入れをした。そのために華原は「終始くつろいだ気持ちで歌えた」と言う。レコーディングは普通のスタジオではなく、バリ島の「普通の家」とも言える小室の所有する別荘のリビングにミキサー等の機材を持ち込み、声の反りを安定させ、共鳴を調整するために壁に吸音材を貼ったり、洋服を大量にかけたり等手作りの感覚で制作した。スタジオデザインはミキシングを担当した[キース・コーエン](https://ja.wikipedia.org/wiki/キース・コーエン "wikilink")が全てを取り仕切った。小室にとっても華原に提供した楽曲の中で、最も気に入った曲となった\[2\]\[3\]\[4\]。
-  - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")では[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")のピアノによるアコースティックバージョンを披露している。
-  - [小室哲哉 meets VOCALOIDに](https://ja.wikipedia.org/wiki/小室哲哉_meets_VOCALOID "wikilink")[初音ミク](../Page/初音ミク.md "wikilink")によるバージョンが収録されている。
+  - 発売時に[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")では[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")のピアノによるアコースティックバージョンを披露している。
+  - 2012年、[小室哲哉 meets VOCALOIDには](https://ja.wikipedia.org/wiki/小室哲哉_meets_VOCALOID "wikilink")[初音ミク](../Page/初音ミク.md "wikilink")によるバージョンが収録されている。
 
 ## 主な記録
 

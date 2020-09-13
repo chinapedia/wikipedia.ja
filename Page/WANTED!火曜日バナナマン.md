@@ -326,6 +326,6 @@ See you fuckin' again\!
 
   - [WANTED\!　ブログ](http://www.c-player.com/ac30506/message)
   - [バナナマン日村の夢ホームラン](https://ameblo.jp/hikanaide/)　日村勇紀公式ブログ
-  - [ホリプロコム　オフィシャルホームページ](http://com.horipro.co.jp/profile/02banana.html)
+  - [ホリプロコム　オフィシャルホームページ](http://com.horipro.co.jp/talent/bananaman/)
 
 [Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink") [Category:TOKYO_FMの深夜ラジオ番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの深夜ラジオ番組 "wikilink") [Category:JFNCの番組の歴史](https://ja.wikipedia.org/wiki/Category:JFNCの番組の歴史 "wikilink") [Category:バナナマン](https://ja.wikipedia.org/wiki/Category:バナナマン "wikilink")

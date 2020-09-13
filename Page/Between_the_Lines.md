@@ -39,4 +39,4 @@
 
 [Category:CHEMISTRYのアルバム](https://ja.wikipedia.org/wiki/Category:CHEMISTRYのアルバム "wikilink") [Category:2003年のリミックス・アルバム](https://ja.wikipedia.org/wiki/Category:2003年のリミックス・アルバム "wikilink") [Category:コンセプト・アルバム](https://ja.wikipedia.org/wiki/Category:コンセプト・アルバム "wikilink") [Category:オリコン月間アルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間アルバムチャート1位獲得作品 "wikilink") [Category:2003年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2003年のオリコンアルバムチャート1位獲得作品 "wikilink")
 
-1.  [CHEMISTRY新アルバムもミリオン到達](http://web.archive.org/web/20030811015823/http://www.sanspo.com/geino/top/gt200307/gt2003080102.html)、SANSPO.COM、2003年7月31日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+1.  [CHEMISTRY新アルバムもミリオン到達](https://web.archive.org/web/20030811015823/http://www.sanspo.com/geino/top/gt200307/gt2003080102.html)、SANSPO.COM、2003年7月31日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）

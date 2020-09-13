@@ -59,4 +59,4 @@
 
   - （Drum Pink Lionの個人ホームページ）
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:ソロプロジェクト](https://ja.wikipedia.org/wiki/Category:ソロプロジェクト "wikilink")

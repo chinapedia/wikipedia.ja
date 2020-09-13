@@ -49,13 +49,13 @@
 <li><strong>Only Truth～夢じゃないキス～</strong>[4:40]
 <dl>
 <dt></dt>
-<dd>作詞：RYOHEI／作曲：Blues T／編曲：見良津健雄
+<dd>作詞：RYOHEI／作曲：Blues T／編曲：<a href="../Page/見良津健雄.md" title="wikilink">見良津健雄</a>
 </dd>
 </dl></li>
 <li><strong>ミツケダセル</strong>[4:55]
 <dl>
 <dt></dt>
-<dd>作詞：岡村智砂子／作曲・編曲：Sonic Dove
+<dd>作詞：<a href="https://ja.wikipedia.org/wiki/岡村智砂子" title="wikilink">岡村智砂子</a>／作曲・編曲：Sonic Dove
 </dd>
 </dl></li>
 <li><strong>Only Truth～夢じゃないキス～(Rebel Phonic Remix)</strong>[5:23]</li>
@@ -97,7 +97,7 @@
 <li><strong>chimeless days</strong>[5:10]
 <dl>
 <dt></dt>
-<dd>作詞：麻生哲朗／作曲・編曲：藤本和則
+<dd>作詞：<a href="https://ja.wikipedia.org/wiki/麻生哲朗" title="wikilink">麻生哲朗</a>／作曲・編曲：<a href="../Page/藤本和則.md" title="wikilink">藤本和則</a>
 </dd>
 </dl></li>
 <li><strong>thank you ラララ</strong>[4:47]

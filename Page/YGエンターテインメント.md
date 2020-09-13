@@ -3,11 +3,11 @@
 
 **YGエンタテインメント**（、）は、[ヤン・ヒョンソク](https://ja.wikipedia.org/wiki/ヤン・ヒョンソク "wikilink")（梁玄錫）が設立した[韓国の](../Page/大韓民国.md "wikilink")[芸能事務所](../Page/芸能事務所.md "wikilink")。
 
-[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")の自主性を重んじる社風で、[2012年](../Page/2012年.md "wikilink")に[カンナムスタイル](https://ja.wikipedia.org/wiki/カンナムスタイル "wikilink")で世界的に有名となった[PSY](https://ja.wikipedia.org/wiki/PSY "wikilink")に代表されるように多くのアーティストが自ら[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")や[パフォーマンス](https://ja.wikipedia.org/wiki/パフォーマンス "wikilink")の[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")を行う。現在の他所属アーティストに日本市場での本格的成功を果たした[BIGBANG](https://ja.wikipedia.org/wiki/BIGBANG "wikilink")・[2NE1](https://ja.wikipedia.org/wiki/2NE1 "wikilink")・[WINNER](https://ja.wikipedia.org/wiki/WINNER_\(音楽グループ\) "wikilink")・[iKON](https://ja.wikipedia.org/wiki/iKON "wikilink")・[BLACKPINK](https://ja.wikipedia.org/wiki/BLACKPINK "wikilink")・[TREASURE](https://ja.wikipedia.org/wiki/TREASURE "wikilink")がいる。しかし、代表のヤンヒョンソク自ら不祥事を起こすなどの事件があった。
+[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")の自主性を重んじる社風で、[2012年](../Page/2012年.md "wikilink")に[江南スタイル](https://ja.wikipedia.org/wiki/江南スタイル "wikilink")で世界的に知られた[PSY](https://ja.wikipedia.org/wiki/PSY "wikilink")に代表されるように、多くのアーティストが[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")や[パフォーマンス](https://ja.wikipedia.org/wiki/パフォーマンス "wikilink")の[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")を自ら行う。代表的な所属アーティストとしては、日本市場での本格的成功を果たした[BIGBANG](https://ja.wikipedia.org/wiki/BIGBANG "wikilink")・[2NE1](https://ja.wikipedia.org/wiki/2NE1 "wikilink")・[WINNER](https://ja.wikipedia.org/wiki/WINNER_\(音楽グループ\) "wikilink")・[iKON](https://ja.wikipedia.org/wiki/iKON "wikilink")・[BLACKPINK](https://ja.wikipedia.org/wiki/BLACKPINK "wikilink")などが挙げられる。しかし、代表のヤンが不祥事を起こすなどの事件があった。
 
 ## 沿革
 
-1996年に[ソテジワアイドゥル](../Page/ソテジワアイドゥル.md "wikilink")を解散後、ヤン･ヒョンソクはプロデューサーに転進。同年「ヒョン企画」で出発したヤン･ヒョンソクは、[キープ・シックス](https://ja.wikipedia.org/wiki/キープ・シックス "wikilink")(KEEP SIX)という3人組グループをプロデュースしたが、失敗に終わった。その後、1997年に男性デュオ「JINUSEAN」（ジヌション、지누션）、4人組グループ「1TYM」、ヒップホップ歌手ペリーなどをデビューさせ正統黒人音楽で勝負をかけて成功した。
+1996年に[ソテジワアイドゥル](../Page/ソテジワアイドゥル.md "wikilink")を解散後、ヤン･ヒョンソクはプロデューサーに転進して「ヒョン企画」で出発し、[キープ・シックス](https://ja.wikipedia.org/wiki/キープ・シックス "wikilink") (KEEP SIX) という3人組グループをプロデュースしたが、失敗に終わった。その後、1997年に男性デュオ「JINUSEAN」（ジヌション、지누션）、4人組グループ「1TYM」、ヒップホップ歌手ペリーなどをデビューさせ、正統黒人音楽で勝負をかけて成功した。
 
 2003年に美少年イメージの歌手[SE7EN](../Page/SE7EN.md "wikilink")（セブン）をデビューさせ、それまでの10代少女歌手市場を攻略。
 
@@ -52,7 +52,7 @@ YG familyはYGエンタテインメントに所属しているアーティスト
   - [iKON](https://ja.wikipedia.org/wiki/iKON "wikilink") (아이콘)
   - [Sechs Kies](https://ja.wikipedia.org/wiki/Sechs_Kies "wikilink") (젝스키스)
   - [BLACKPINK](https://ja.wikipedia.org/wiki/BLACKPINK "wikilink") (블랙핑크)
-  - [TREASURE](https://ja.wikipedia.org/wiki/TREASURE "wikilink") (트레저)
+  - [TREASURE](https://ja.wikipedia.org/wiki/TREASURE_\(音楽グループ\) "wikilink") (트레저)
   - [チョン・ソミ](https://ja.wikipedia.org/wiki/チョン・ソミ "wikilink")（전소미)
 
 #### 活動休止アーティスト＆グループ
@@ -101,13 +101,6 @@ YG familyはYGエンタテインメントに所属しているアーティスト
   - [カル・ソウォン](https://ja.wikipedia.org/wiki/カル・ソウォン "wikilink") （갈소원）
   - [イ・ソンギョン](https://ja.wikipedia.org/wiki/イ・ソンギョン "wikilink") （이성경）
 
-### 俳優・女優（日本人）
-
-  - [大和孔太](https://ja.wikipedia.org/wiki/大和孔太 "wikilink")
-  - [勧修寺保都](https://ja.wikipedia.org/wiki/勧修寺保都 "wikilink")
-  - [飛葉大樹](https://ja.wikipedia.org/wiki/飛葉大樹 "wikilink")
-  - [渡邉蒼](https://ja.wikipedia.org/wiki/渡邉蒼 "wikilink")
-
 ### YG専属プロデューサー
 
   - [TEDDY](https://ja.wikipedia.org/wiki/パク・テディ "wikilink")
@@ -136,6 +129,7 @@ YG familyはYGエンタテインメントに所属しているアーティスト
   - [韓国公式サイト](http://www.ygfamily.com/)
   - [1tymthailand](http://www.1tymthailand.com)
   - [YG Thailand](http://www.ygthailand.com)
+  - [YGエンターテインメント オーディション情報【2020】](https://skatingcircle.com/yg-audition/)－ K-DREAM
 
 [Category:韓国の芸能事務所](https://ja.wikipedia.org/wiki/Category:韓国の芸能事務所 "wikilink") [Category:ソウル特別市の企業](https://ja.wikipedia.org/wiki/Category:ソウル特別市の企業 "wikilink") [Category:1996年設立の企業](https://ja.wikipedia.org/wiki/Category:1996年設立の企業 "wikilink") [Category:KOSDAQ上場企業](https://ja.wikipedia.org/wiki/Category:KOSDAQ上場企業 "wikilink")
 

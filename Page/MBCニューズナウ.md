@@ -119,7 +119,7 @@
 
 ## 外部リンク
 
-  - [MBCニューズナウ](http://www.mbc.co.jp/tv/news_now/)
+  - [MBCニューズナウ](https://www.mbc.co.jp/tv/news_now/)
 
 [Category:1990年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1990年のテレビ番組_\(日本\) "wikilink") [Category:南日本放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:南日本放送のテレビ番組 "wikilink") [Category:九州・沖縄地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビのニュース・報道番組 "wikilink") [Category:九州・沖縄地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビの帯番組 "wikilink") [Category:JNNニュースの森](https://ja.wikipedia.org/wiki/Category:JNNニュースの森 "wikilink") [Category:JNNイブニング・ニュース](https://ja.wikipedia.org/wiki/Category:JNNイブニング・ニュース "wikilink") [Category:総力報道\!THE_NEWS](https://ja.wikipedia.org/wiki/Category:総力報道!THE_NEWS "wikilink") [Category:イブニングワイド](https://ja.wikipedia.org/wiki/Category:イブニングワイド "wikilink") [Category:Nスタ](https://ja.wikipedia.org/wiki/Category:Nスタ "wikilink") [Category:ヤン坊マー坊天気予報](https://ja.wikipedia.org/wiki/Category:ヤン坊マー坊天気予報 "wikilink")
 

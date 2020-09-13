@@ -21,27 +21,27 @@
 
 ## 収録曲
 
+### 規格
+
+  - 1998年11月26日 - [12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): WPC6-8681\[37\]
+  - 2008年11月12日 - [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")\[38\]\[39\]
+  - 2014年6月18日 - 12cmCD, [Singles Box 1982-1991の一枚として](https://ja.wikipedia.org/wiki/Singles_Box_1982-1991 "wikilink")
+
 ## クレジット
 
-  - [Photo](../Page/撮影.md "wikilink") by [渡辺達生](../Page/渡辺達生.md "wikilink")\[37\]
-
-## 再発盤
-
-  - 1998年11月26日 - [12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): WPC6-8681\[38\]
-  - 2008年11月12日 - [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")\[39\]\[40\]
-  - 2014年6月18日 - 12cmCD, [Singles Box 1982-1991の一枚として](https://ja.wikipedia.org/wiki/Singles_Box_1982-1991 "wikilink")
+  - [Photo](../Page/撮影.md "wikilink") by [渡辺達生](../Page/渡辺達生.md "wikilink")\[40\]
 
 ## セルフカバー
 
 「Dear Friend」を作詞した伊東が1992年に発表した[アルバム](../Page/アルバム.md "wikilink")『美人声』 (CD: TECN-30156)で、本曲を[セルフカバー](../Page/セルフカバー.md "wikilink")している\[41\]\[42\]。
 
-## 参照
+## 脚注
 
 ## 外部リンク
 
   - [中森明菜 「Dear Friend」|Warner Music Japan](https://wmg.jp/akina/discography/5206/)
 
-[Category:中森明菜の楽曲](https://ja.wikipedia.org/wiki/Category:中森明菜の楽曲 "wikilink") [Category:1990年のシングル](https://ja.wikipedia.org/wiki/Category:1990年のシングル "wikilink") [Category:1990年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1990年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:ワーナーミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのシングル "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink")
+[Category:中森明菜の楽曲](https://ja.wikipedia.org/wiki/Category:中森明菜の楽曲 "wikilink") [Category:1990年のシングル](https://ja.wikipedia.org/wiki/Category:1990年のシングル "wikilink") [Category:1990年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1990年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:ワーナーミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのシングル "wikilink") [Category:友達を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:友達を題材とした楽曲 "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink")
 
 1.
 2.

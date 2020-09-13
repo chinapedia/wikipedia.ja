@@ -11,7 +11,7 @@
 
   -
     [東京都](../Page/東京都.md "wikilink")[東久留米市](../Page/東久留米市.md "wikilink")出身。
-    [血液型B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長166cm、体重57kg。
+    [血液型B型](../Page/ABO式血液型.md "wikilink")。身長166cm、体重57kg。
     [日本大学豊山高校](https://ja.wikipedia.org/wiki/日本大学豊山高校 "wikilink")卒、[日本大学法学部](https://ja.wikipedia.org/wiki/日本大学法学部 "wikilink")卒。
     あだ名は「山さん」、また「エディ」と呼ばれる事も多い。
     特技はものまね（特に[エディ・マーフィ](../Page/エディ・マーフィ.md "wikilink")等の外国人や、色々な国の言葉をそれらしく言う事など）。エディ・マーフィについては、小学生の時に彼の映画を見たことでお笑い芸人を目指すきっかけともなり、また誕生日が同じ4月3日ということで「運命を感じた」という\[1\]。
@@ -29,7 +29,7 @@
 <!-- end list -->
 
   -
-    [千葉県](../Page/千葉県.md "wikilink")[船橋市](https://ja.wikipedia.org/wiki/船橋市 "wikilink")出身。[血液型A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長170cm、体重57kg。[松戸国際高校](https://ja.wikipedia.org/wiki/松戸国際高校 "wikilink")を卒業後、一浪を経て日本大学法学部卒業。大学時代は[落語研究会](../Page/落語研究会_\(サークル活動\).md "wikilink")（[日本大学](https://ja.wikipedia.org/wiki/日本大学 "wikilink")経商法落語研究会）に所属していた。
+    [千葉県](../Page/千葉県.md "wikilink")[船橋市](https://ja.wikipedia.org/wiki/船橋市 "wikilink")出身。[血液型A型](../Page/ABO式血液型.md "wikilink")。身長170cm、体重57kg。[松戸国際高校](https://ja.wikipedia.org/wiki/松戸国際高校 "wikilink")を卒業後、一浪を経て日本大学法学部卒業。大学時代は[落語研究会](../Page/落語研究会_\(サークル活動\).md "wikilink")（[日本大学](https://ja.wikipedia.org/wiki/日本大学 "wikilink")経商法落語研究会）に所属していた。
     落研時代の仲間5人で結成した「セレクティッド5\!」の元メンバー。そのうちの2人は現在「[がっつきたいか](https://ja.wikipedia.org/wiki/がっつきたいか "wikilink")」として[SMA NEET Projectに所属](../Page/SMA_NEET_Project.md "wikilink")。
     あだ名は「ヤッシー」または「ヤシ君」と呼ばれている。
     父親は柔道の師範であり、本人も幼少時より柔道を始め、柔道2段。高校時代には千葉県大会の団体戦でベスト8入り、個人でもベスト16入りを果たす。
@@ -121,7 +121,7 @@
 ### ラジオ
 
   - [ナインティナインのオールナイトニッポン](../Page/ナインティナインのオールナイトニッポン.md "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")、2007年8月23日）
-  - [爆笑スクランブル](http://ameblo.jp/baku-s)
+  - [爆笑スクランブル](https://ameblo.jp/baku-s)
   - [関根麻里のKUSUKUSU](https://ja.wikipedia.org/wiki/関根麻里のKUSUKUSU "wikilink")（[bayfm](../Page/ベイエフエム.md "wikilink")、2010年8月14日・21日）
   - [ハイタッチ\!](https://ja.wikipedia.org/wiki/ハイタッチ!_\(ラジオ番組\) "wikilink")（[RKB毎日放送](../Page/RKBラジオ.md "wikilink")、2012年10月10日 - ）- 毎週水曜日-金曜日22:00-23:50 山口のみ、[森田美位子](https://ja.wikipedia.org/wiki/森田美位子 "wikilink")とともにMCを務める。
   - [たかちゃんの電リクじゃんけん](https://ja.wikipedia.org/wiki/たかちゃんの電リクじゃんけん "wikilink")（RKB毎日放送、2014年4月 - ） - 山口のみ、[山内孝徳](../Page/山内孝徳.md "wikilink")の後任。
@@ -165,7 +165,7 @@
   - [EE男 オフィシャルブログ「EE男のEE感じなブログ」 powered by Ameba](https://ameblo.jp/ee-otoko/)2010年1月から \<\!--
   - [EE男のEE感じなブログ](http://blog.watanabepro.co.jp/iiotoko/)2009年12月まで --\>
 
-[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:渡辺プロ系列所属者](https://ja.wikipedia.org/wiki/Category:渡辺プロ系列所属者 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink")
+[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:渡辺プロ系列所属者](https://ja.wikipedia.org/wiki/Category:渡辺プロ系列所属者 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:YATSUI_FESTIVAL\!出演者](https://ja.wikipedia.org/wiki/Category:YATSUI_FESTIVAL!出演者 "wikilink")
 
 1.  麻布台出版社「[お笑いポポロ](../Page/お笑いポポロ.md "wikilink")」2007年11月号 より。
 2.

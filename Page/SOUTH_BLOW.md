@@ -321,7 +321,7 @@ VICL-36237:通常盤</p></td>
 
   - [公式サイト](http://southblow.info)
 
-  - [Victor Entertainment](http://www.jvcmusic.co.jp/-/Artist/A019858.html)
+  - [Victor Entertainment](https://www.jvcmusic.co.jp/-/Artist/A019858.html)
 
   -
   -

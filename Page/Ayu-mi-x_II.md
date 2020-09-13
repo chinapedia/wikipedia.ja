@@ -9,9 +9,11 @@
 
 『**[ayu-mi-x](https://ja.wikipedia.org/wiki/ayu-mi-x "wikilink")**』シリーズの第2弾となる本作は、2ndアルバム『[LOVEppears](../Page/LOVEppears.md "wikilink")』収録曲を中心としたリミックスアルバムで、リミックスのジャンル別に全4タイトルが発売。[2000年](../Page/2000年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に「[Acoustic Orchestra](https://ja.wikipedia.org/wiki/#ayu-mi-x_II_version_Acoustic_Orchestra "wikilink")」「[JPN](https://ja.wikipedia.org/wiki/#ayu-mi-x_II_version_JPN "wikilink")」「[US+EU](https://ja.wikipedia.org/wiki/#ayu-mi-x_II_version_US+EU "wikilink")」の3タイトルが同時発売され、同年[3月29日](../Page/3月29日.md "wikilink")に「[Non-Stop Mega Mix](https://ja.wikipedia.org/wiki/#ayu-mi-x_II_version_Non-Stop_Mega_Mix "wikilink")」が発売された。
 
-全タイトル共通の初回盤特典として、特殊カラー仕様の裏ジャケット、[トレカ](https://ja.wikipedia.org/wiki/トレカ "wikilink")封入。
+全タイトル共通の初回盤特典として、特殊カラー仕様の裏ジャケット、[トレカ](https://ja.wikipedia.org/wiki/トレカ "wikilink")封入。特殊ラメケース
 
 更には、後にayu-mi-x II version US+EUに収録された楽曲のDub MixやExtended Mix等が、『[previously unreleased version](https://ja.wikipedia.org/wiki/previously_unreleased_version "wikilink")』（プレヴィアスリィ・アンリリースド・ヴァージョン）というリミックスEPシリーズとしてRhythm REPUBLICレーベルよりリリースされた。計4枚のCDがリリースされており、the other side ONE～the other side FOURの各シングル1枚につき、2名の編曲者がクローズアップされている。なお、編曲者1人につきインストゥルメンタルを含めてそれぞれ2～3バージョン分のリミックスが収録されていた。
+
+なお、シングル『[LOVE〜Destiny〜](https://ja.wikipedia.org/wiki/LOVE〜Destiny〜/LOVE〜since_1999〜 "wikilink")』のミックスは収録されていない
 
 ## ayu-mi-x II version Acoustic Orchestra
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-1973年10月、当時の[水曜劇場](../Page/水曜劇場_\(TBS\).md "wikilink")（『[時間ですよ](../Page/時間ですよ.md "wikilink")』などのシリーズが放送されていた）が放送時間を30分繰り上げて21時からのスタートとしたため、火曜日に放送されていた30分ドラマシリーズ『[木下恵介アワー](https://ja.wikipedia.org/wiki/木下恵介アワー "wikilink")』がこの時間帯に移動、その1年後に22:30のトーク番組『[仁鶴・きよしのただいま恋愛中](../Page/仁鶴・きよしのただいま恋愛中.md "wikilink")』（[朝日放送制作](../Page/朝日放送テレビ.md "wikilink")）が[関西ローカル](../Page/関西ローカル.md "wikilink")に降格されたのに伴いこの枠が誕生した。放送開始から半年間はTBS制作枠だったが、1975年4月の東阪[ネットチェンジ](../Page/ネットチェンジ.md "wikilink")（腸捻転解消）により、それまで[NET（現：テレビ朝日）火曜](../Page/テレビ朝日.md "wikilink")22時枠で放送された『[テレビスター劇場](https://ja.wikipedia.org/wiki/テレビスター劇場 "wikilink")』を引き継ぐ形でMBS制作枠に変更された。1984年9月に放送終了後、16年半後の2001年4月にTBS制作枠（TBS制作の連続ドラマ枠としては26年ぶり、腸捻転解消後は初）として復活したが、3年後の2004年3月に廃枠となった。
+1973年10月、当時の[水曜劇場](../Page/水曜劇場_\(TBS\).md "wikilink")（『[時間ですよ](../Page/時間ですよ.md "wikilink")』などのシリーズが放送されていた）が放送時間を30分繰り上げて21時からのスタートとしたため、火曜日に放送されていた30分ドラマシリーズ『[木下恵介アワー](https://ja.wikipedia.org/wiki/木下恵介アワー "wikilink")』がこの時間帯に移動、その1年後に22:30のトーク番組『[仁鶴・きよしのただいま恋愛中](../Page/仁鶴・きよしのただいま恋愛中.md "wikilink")』（[朝日放送制作](../Page/朝日放送テレビ.md "wikilink")）が[関西ローカル](../Page/関西ローカル.md "wikilink")に降格されたのに伴いこの枠が誕生した。放送開始から半年間はTBS制作枠だったが、1975年4月の東阪[ネットチェンジ](../Page/ネットチェンジ.md "wikilink")（腸捻転解消）により、それまで[NET（現：テレビ朝日）火曜](../Page/テレビ朝日.md "wikilink")22時枠で放送された『[テレビスター劇場](https://ja.wikipedia.org/wiki/テレビスター劇場 "wikilink")』を引き継ぐ形でMBS制作枠に変更された。1984年9月に放送終了後、17年後の2001年4月にTBS制作枠（TBS制作の連続ドラマ枠としては26年ぶり、腸捻転解消後は初）として復活したが、3年後の2004年3月に廃枠となった。
 
 その後、『[水曜プレミア](../Page/水曜プレミア.md "wikilink")』（第1期、2004年4月～2005年9月）を経て、2005年10月から21年ぶりに再びMBS制作枠（但し、ドラマ枠ではなくバラエティ枠）を経て、2012年4月より映画枠復活で『[水曜プレミアシネマ](https://ja.wikipedia.org/wiki/水曜プレミアシネマ "wikilink")』→『水曜プレミア』（第2期）となり、2014年4月23日からはTBS制作のバラエティ番組『[水曜日のダウンタウン](https://ja.wikipedia.org/wiki/水曜日のダウンタウン "wikilink")』となって現在に至る。
 
@@ -66,7 +66,7 @@
 
   - **[カムバック・ガール](https://ja.wikipedia.org/wiki/カムバック・ガール "wikilink")**（2月～3月）出演：[浅丘ルリ子](../Page/浅丘ルリ子.md "wikilink")、[原田芳雄](../Page/原田芳雄.md "wikilink")、[山城新伍](https://ja.wikipedia.org/wiki/山城新伍 "wikilink")
   - **[人情紙風船](../Page/人情紙風船_\(テレビドラマ\).md "wikilink")**（4月～5月）出演：[渡瀬恒彦](../Page/渡瀬恒彦.md "wikilink")、[関根恵子](../Page/高橋惠子.md "wikilink")、[芦屋雁之助](../Page/芦屋雁之助.md "wikilink")
-  - **[ガラスの知恵の輪](https://ja.wikipedia.org/wiki/ガラスの知恵の輪 "wikilink")**（5月～6月）出演：[萩原健一](https://ja.wikipedia.org/wiki/萩原健一 "wikilink")、[大竹しのぶ](https://ja.wikipedia.org/wiki/大竹しのぶ "wikilink")、[火野正平](../Page/火野正平.md "wikilink")
+  - **[ガラスの知恵の輪](../Page/ガラスの知恵の輪.md "wikilink")**（5月～6月）出演：[萩原健一](https://ja.wikipedia.org/wiki/萩原健一 "wikilink")、[大竹しのぶ](https://ja.wikipedia.org/wiki/大竹しのぶ "wikilink")、[火野正平](../Page/火野正平.md "wikilink")
   - **[男と女のあいだには](https://ja.wikipedia.org/wiki/男と女のあいだには "wikilink")**（7月～9月）出演：[中村敦夫](../Page/中村敦夫.md "wikilink")、[中原理恵](../Page/中原理恵.md "wikilink")、[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")
   - **[はじめまして・再婚](https://ja.wikipedia.org/wiki/はじめまして・再婚 "wikilink")**（10月～11月）出演：[三田佳子](../Page/三田佳子.md "wikilink")、[藤竜也](../Page/藤竜也.md "wikilink")、[加賀まりこ](../Page/加賀まりこ.md "wikilink")
 
@@ -131,14 +131,14 @@
 
   - [日本のテレビドラマ一覧](../Page/日本のテレビドラマ一覧.md "wikilink")
   - [TBSテレビ制作番組一覧](https://ja.wikipedia.org/wiki/TBSテレビ制作番組一覧 "wikilink")
-  - [高島屋バラ劇場](https://ja.wikipedia.org/wiki/高島屋バラ劇場 "wikilink")
+  - [髙島屋バラ劇場](https://ja.wikipedia.org/wiki/髙島屋バラ劇場 "wikilink")
   - [木下恵介アワー](https://ja.wikipedia.org/wiki/木下恵介アワー "wikilink")
   - [テレビスター劇場](https://ja.wikipedia.org/wiki/テレビスター劇場 "wikilink")（1975年以降のドラマの前身）
   - [水曜プレミア](../Page/水曜プレミア.md "wikilink")（後番組）
 
 ## 外部リンク
 
-  - [TBS「ドラマ」](http://www.tbs.co.jp/drama/)
+  - [TBS「ドラマ」](https://www.tbs.co.jp/drama/)
   - [TBS Drama Archive](http://www.tbs.co.jp/drama_archive/)
 
 ## 脚注

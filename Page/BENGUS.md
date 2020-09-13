@@ -148,7 +148,7 @@
   - [安田朗](../Page/安田朗.md "wikilink")
   - [西村キヌ](../Page/西村キヌ.md "wikilink")
 
-[Category:日本のイラストレーター](https://ja.wikipedia.org/wiki/Category:日本のイラストレーター "wikilink") [Category:ゲームクリエイター](https://ja.wikipedia.org/wiki/Category:ゲームクリエイター "wikilink") [Category:カプコンの人物](https://ja.wikipedia.org/wiki/Category:カプコンの人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のイラストレーター](https://ja.wikipedia.org/wiki/Category:日本のイラストレーター "wikilink") [Category:ゲームのグラフィッカー・原画家](https://ja.wikipedia.org/wiki/Category:ゲームのグラフィッカー・原画家 "wikilink") [Category:カプコンの人物](https://ja.wikipedia.org/wiki/Category:カプコンの人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  『ストリートファイター メモリアル・アーカイブ Beyond the World』2018年3月24日、[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")、176頁。
 2.  [カプコン伝説 第五回 妖魔のタイマン勝負格ゲー（前編）](http://www.capcom.co.jp/game/content/?p=5358)

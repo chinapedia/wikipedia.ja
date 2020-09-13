@@ -113,11 +113,86 @@ MC.202の前身である[M.C.200サエッタは開戦時のイタリア空軍主
 
 ## 現存する機体
 
-| 型名                | 番号         | 機体写真                                                                                                                                                                                                              | 所在地            | 所有者                                                                                                                                             | 公開状況 | 状態   | 備考                                                                                 |
-| ----------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ---- | ---------------------------------------------------------------------------------- |
-| MC.202 セリエVI / IX | MM9476     | [Macchi_C.202_Folgore_Serie_IX_at_the_Smithsonian.jpg](https://ja.wikipedia.org/wiki/File:Macchi_C.202_Folgore_Serie_IX_at_the_Smithsonian.jpg "fig:Macchi_C.202_Folgore_Serie_IX_at_the_Smithsonian.jpg") | アメリカ ワシントンD.C. | [国立航空宇宙博物館](../Page/国立航空宇宙博物館.md "wikilink")[1](https://airandspace.si.edu/)                                                                    | 公開   | 静態展示 | [2](https://airandspace.si.edu/collection-objects/aeronautica-macchi-c202-folgore) |
-| MC.202 セリエIX      | MM9667 366 | [Macchi_202.JPG](https://ja.wikipedia.org/wiki/File:Macchi_202.JPG "fig:Macchi_202.JPG")                                                                                                                         | イタリア ラツィオ州     | [ヴィーニャ・ディ・ヴァッレ空軍歴史博物館](../Page/ヴィーニャ・ディ・ヴァッレ空軍歴史博物館.md "wikilink")[3](http://www.aeronautica.difesa.it/storia/museostorico/Pagine/default.aspx) | 公開   | 静態展示 | [4](http://www.aeronautica.difesa.it/storia/museostorico/Pagine/MacchiMC202.aspx)  |
-|                   |            |                                                                                                                                                                                                                   |                |                                                                                                                                                 |      |      |                                                                                    |
+<table>
+<thead>
+<tr class="header">
+<th><p>型名　　　　</p></th>
+<th><p>番号　</p></th>
+<th><p>機体写真　　　　</p></th>
+<th><p>所在地</p></th>
+<th><p>所有者</p></th>
+<th><p>公開状況</p></th>
+<th><p>状態</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>MC.202 セリエVI / IX</p></td>
+<td><p>MM9476</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Macchi_C.202_Folgore_Serie_IX_at_the_Smithsonian.jpg" title="fig:Macchi_C.202_Folgore_Serie_IX_at_the_Smithsonian.jpg">Macchi_C.202_Folgore_Serie_IX_at_the_Smithsonian.jpg</a></p></td>
+<td><p>アメリカ ワシントンD.C.</p></td>
+<td><p><a href="../Page/国立航空宇宙博物館.md" title="wikilink">国立航空宇宙博物館</a><a href="https://airandspace.si.edu/">1</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="https://airandspace.si.edu/collection-objects/aeronautica-macchi-c202-folgore">2</a></p></td>
+</tr>
+<tr class="even">
+<td><p>MC.202 セリエX<br />
+MC.205V</p></td>
+<td><p>MM9546</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Macchi_MC205V_Veltro_MM9546_97-2_(6446470591).jpg" title="fig:Macchi_MC205V_Veltro_MM9546_97-2_(6446470591).jpg">Macchi_MC205V_Veltro_MM9546_97-2_(6446470591).jpg</a></p></td>
+<td><p>イタリア ローマ県</p></td>
+<td><p><a href="../Page/ヴィーニャ・ディ・ヴァッレ空軍歴史博物館.md" title="wikilink">ヴィーニャ・ディ・ヴァッレ空軍歴史博物館</a><a href="http://www.aeronautica.difesa.it/storia/museostorico/Pagine/default.aspx">3</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ブレーダ・メッカニカ・ブレシャーナ" title="wikilink">ブレーダ社で</a>1942年7月から9月の間にセリエXとして製造された100機のうちの1つ。1948年にMC.205Vに改修された。<a href="http://www.aeronautica.difesa.it/storia/museostorico/Pagine/MacchiMC205.aspx">4</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>MC.202 セリエIX<br />
+MC.202T-AS</p></td>
+<td><p>MM9667 366</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Macchi_202.JPG" title="fig:Macchi_202.JPG">Macchi_202.JPG</a></p></td>
+<td><p>イタリア ラツィオ州</p></td>
+<td><p>ヴィーニャ・ディ・ヴァッレ空軍歴史博物館</p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="http://www.aeronautica.difesa.it/storia/museostorico/Pagine/MacchiMC202.aspx">5</a></p></td>
+</tr>
+<tr class="even">
+<td><p>MC.202 セリエXII<br />
+MC.205V</p></td>
+<td><p>MM91818<br />
+6665</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Macchi_MC205_Veltro_01_Museo_scienza_e_tecnologia_Milano.jpg" title="fig:Macchi_MC205_Veltro_01_Museo_scienza_e_tecnologia_Milano.jpg">Macchi_MC205_Veltro_01_Museo_scienza_e_tecnologia_Milano.jpg</a></p></td>
+<td><p>イタリア ミラノ県</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Museo_Nazionale_Scienza_e_Tecnologia_Leonardo_da_Vinci" title="wikilink">レオナルド・ダ・ヴィンチ国立科学技術博物館</a><a href="https://www.museoscienza.org/en/">6</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p>ブレーダ社で1943年5月から8月の間にセリエXIIとして製造された150機のうちの1つ。MM9327号機という塗装がされている。<a href="https://www.museoscienza.org/en/offer/permanent-exhibitions/air-transport">7</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>MC.202レプリカ</p></td>
+<td><p>MM7431</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Macchi_Mc_202_folgore_di_Volandia.jpg" title="fig:Macchi_Mc_202_folgore_di_Volandia.jpg">Macchi_Mc_202_folgore_di_Volandia.jpg</a></p></td>
+<td><p>イタリア ヴァレーゼ県</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Volandia" title="wikilink">ヴォランディア公園・飛行博物館</a><a href="http://volandia.it/en/">8</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p>現在は屋外に展示されている。<a href="http://volandia.it/en/velivolo/c202-folgore/">9</a></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 登場作品
 

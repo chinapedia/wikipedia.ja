@@ -1,7 +1,7 @@
 > この記事は[A-team \(芸能プロダクション\)](https://ja.wikipedia.org/wiki/A-team_\(芸能プロダクション\))から翻訳されています。
 
 
-**株式会社エー・チーム**（英文社名；*A-Team Inc.*）は、[東京都](../Page/東京都.md "wikilink")[港区に本社を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[芸能プロダクション](../Page/芸能事務所.md "wikilink")。
+**株式会社エー・チーム**（英文社名；*A-Team Inc.*）は、[東京都](../Page/東京都.md "wikilink")[港区に本社を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[芸能プロダクション](../Page/芸能事務所.md "wikilink")。[バーニングプロダクション](https://ja.wikipedia.org/wiki/バーニングプロダクション "wikilink")グループの傘下である。
 
 ## 概要
 
@@ -16,7 +16,6 @@
   - [城戸裕次](../Page/城戸裕次.md "wikilink")
   - [浅香航大](../Page/浅香航大.md "wikilink")
   - [神尾楓珠](https://ja.wikipedia.org/wiki/神尾楓珠 "wikilink")
-  - [横山涼](https://ja.wikipedia.org/wiki/横山涼 "wikilink")
   - [秋山成勲](../Page/秋山成勲.md "wikilink")
   - [白井晃](../Page/白井晃.md "wikilink")
   - [滝田洋二郎](../Page/滝田洋二郎.md "wikilink")

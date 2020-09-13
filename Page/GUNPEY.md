@@ -66,8 +66,9 @@
 
 ## 外部リンク
 
-  - [グンペイホームページ](http://www.bandaigames.channel.or.jp/list/gunpey/)
+  -
   - [グンペイリバース（DS版、PSP版）](http://gunpey-rebirth.com)
+
   - [ぐんぺい 花のカーニバル公式](http://gunpey.bn-ent.net/)
 
 [Category:アクションパズル](https://ja.wikipedia.org/wiki/Category:アクションパズル "wikilink") [Category:バンダイのゲームソフト](https://ja.wikipedia.org/wiki/Category:バンダイのゲームソフト "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:PlayStation_Portable用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable用ソフト "wikilink") [Category:ワンダースワン用ソフト](https://ja.wikipedia.org/wiki/Category:ワンダースワン用ソフト "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:1999年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1999年のコンピュータゲーム "wikilink")

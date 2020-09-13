@@ -5,7 +5,7 @@
 
 ## メンバー
 
-  - [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Mucc_japanese_logo.svg "wikilink")**[逹瑯](https://ja.wikipedia.org/wiki/逹瑯 "wikilink")**（[1979年](../Page/1979年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink") - ） - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
+  - **[逹瑯](https://ja.wikipedia.org/wiki/逹瑯 "wikilink")**（[1979年](../Page/1979年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink") - ） - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - **[ミヤ](https://ja.wikipedia.org/wiki/ミヤ_\(MUCC\) "wikilink")**（1979年[7月26日](../Page/7月26日.md "wikilink") - ） - [ギター](../Page/ギター.md "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - **[YUKKE](https://ja.wikipedia.org/wiki/YUKKE "wikilink")**（1979年[11月5日](../Page/11月5日.md "wikilink") - ） - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")（1999年2月22日加入）
   - **[SATOち](https://ja.wikipedia.org/wiki/SATOち "wikilink")**（1979年[8月12日](../Page/8月12日.md "wikilink") - ） - [ドラムス](../Page/ドラムセット.md "wikilink")
@@ -520,10 +520,32 @@ MSHN-049 (通常盤)</p></td>
 <tr class="odd">
 <td><p>41st</p></td>
 <td><p>2019年11月5日</p></td>
-<td><p><strong>例えば僕が居なかったら</strong></p></td>
+<td><p><strong><a href="../Page/例えば僕が居なかったら.md" title="wikilink">例えば僕が居なかったら</a></strong></p></td>
 <td><p>MSHN-066</p></td>
 <td></td>
 <td><p>MUCC BIRTHDAY CIRCUIT 2019「40」2019年11月5日（火）＜YUKKE day＞～YUKKE限定 LASTGIGS -孤独の40歳児、今日だけは許して下さい-～ 会場限定販売シングル。</p></td>
+</tr>
+<tr class="even">
+<td><p>42nd</p></td>
+<td><p>2020年6月9日</p></td>
+<td><p>'''娼婦2020</p>
+<div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>全4曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li><bdi>娼婦 2020</bdi></li>
+<li><bdi>娼婦 2006</bdi></li>
+<li><bdi>娼婦 2000 Original Mix</bdi></li>
+<li><bdi>娼婦 1999 Demo</bdi></li>
+</ol>
+</div>
+</div>
+<p>'''</p></td>
+<td><p>MSHN-081</p></td>
+<td></td>
+<td><p>1st シングル「<a href="https://ja.wikipedia.org/wiki/娼婦/廃" title="wikilink">娼婦</a>」誕生20周年を記念した受注生産限定シングル</p></td>
 </tr>
 </tbody>
 </table>
@@ -667,11 +689,11 @@ MSHN-058:カセット</p></td>
 <tr class="odd">
 <td><p>15th</p></td>
 <td><p>2020年6月10日</p></td>
-<td><p><strong>惡</strong></p></td>
+<td><p><strong><a href="../Page/惡_(アルバム).md" title="wikilink">惡</a></strong></p></td>
 <td><p>MSHN-076:朱ゥノ吐VIP会員限定受注生産盤<br />
 MSHN-077～8:初回生産限定盤<br />
 MSHN-079:通常盤</p></td>
-<td></td>
+<td><p>オリコン週間アルバムチャート初登場6位</p></td>
 </tr>
 </tbody>
 </table>
@@ -1014,8 +1036,8 @@ UPCI-1064:通常盤</p></td>
 <li>Mr. Liar / <a href="https://ja.wikipedia.org/wiki/ヒステリックパニック" title="wikilink">ヒステリックパニック</a></li>
 <li>リブラ / <a href="../Page/矢野絢子.md" title="wikilink">矢野絢子</a></li>
 <li>家路 / <a href="../Page/MERRY.md" title="wikilink">MERRY</a></li>
-<li>アカ / DEZERT</li>
-<li>ハイデ / ROACH</li>
+<li>アカ / <a href="https://ja.wikipedia.org/wiki/DEZERT" title="wikilink">DEZERT</a></li>
+<li>ハイデ / <a href="../Page/ROACH.md" title="wikilink">ROACH</a></li>
 <li>フライト / <a href="https://ja.wikipedia.org/wiki/BREAKERZ" title="wikilink">BREAKERZ</a></li>
 <li>ニルヴァーナ / <a href="../Page/GRANRODEO.md" title="wikilink">GRANRODEO</a></li>
 <li>ブリリアント ワールド / <a href="https://ja.wikipedia.org/wiki/ゴールデンボンバー_(バンド)#鬼龍院_翔" title="wikilink">鬼龍院 翔</a></li>
@@ -1130,6 +1152,29 @@ DISC1、2ともに1曲ずつボーナストラックが収録された。<br />
 <td><p>DEZERMUCC名義。両バンドが互いに曲を提供する形のシングル。DEZERTとのツーマンツアー【Is This The “FACT”?】TOUR 2019会場限定販売CD。</p></td>
 </tr>
 <tr class="even">
+<td><p>2020年1月</p></td>
+<td><p><strong><bdi>Terrace / テディベア</bdi></strong></p></td>
+<td><p>TRS-001</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>全8曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li><bdi>Terrace</bdi></li>
+<li><bdi>テディベア</bdi></li>
+<li><bdi>Terrace (Original KARAOKE)</bdi></li>
+<li><bdi>壊れたピアノ 8Bit Ver.</bdi></li>
+<li><bdi>サイコ 8Bit Ver.</bdi></li>
+<li><bdi>百合と翼 8Bit Ver.</bdi></li>
+<li><bdi>積想 8Bit Ver.</bdi></li>
+<li><bdi>フライト 8Bit Ver.</bdi></li>
+</ol>
+</div>
+</div></td>
+<td><p>MUCC 2020 Lock on snipe Tour #10『関東型壊れたピアノとリビングデッド収監11days』会場限定販売 8cmCD</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -2046,7 +2091,8 @@ DISC3(CD)</p>
 </ol>
 </div>
 </div></td>
-<td></td>
+<td><p>オリコン週間DVDチャート初登場190位</p>
+<p>オリコン週間Blu-rayチャート初登場123位</p></td>
 </tr>
 </tbody>
 </table>
@@ -2175,6 +2221,15 @@ VIZL-1684</p></td>
 <td><p>かくれんぼ feat. DJ Santa Monica</p></td>
 </tr>
 <tr class="even">
+<td><p>2020年5月13日<br />
+2020年8月19日</p></td>
+<td><p><strong>GRANRODEO Tribute Album "RODEO FREAK"</strong></p></td>
+<td><p>配信限定<br />
+CD</p></td>
+<td><p>LACA-15824</p></td>
+<td><p>メズマライズ</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -2521,6 +2576,8 @@ VIZL-1684</p></td>
 
 ## 主なライブ
 
+### 結成—2007
+
   - 1999年 - 1st tour 『心霊体験バスツアーVol.1』
   - 1999年 - 2000年 - ツアー1999〜2000 『見せ物アンティーク』
   - 2000年 - MUCC全国ツアー2000夏『鬼畜の仕掛け細工』
@@ -2544,6 +2601,9 @@ VIZL-1684</p></td>
   - 2006年〜2007年 - ムック06-07ツアー『サイケデリックアナライシス』
   - 2007年 - MUCC WORLD TOUR 2007『MUCC in EURO 2007』
   - 2007年 - MUCC 10th Anniversary WEEKLY LIVE 『HISTORY OF MUCK』
+
+### 2008—2012
+
   - 2008年 - Taste of Chaos 2008 『NORTH AMERICAN TOUR』
   - 2008年 - ムック2008"REBORN"春のツアー Rainy Rave
   - 2008年 - ROCKSTAR Energy Drink Presents 『ROCKSTAR Taste of Chaos』in EURO
@@ -2557,83 +2617,108 @@ VIZL-1684</p></td>
   - 2010年12月29日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 10/11
   - 2011年 - "Chemical Parade" in EURO
   - 2011年 - "Chemical Parade" in Asia
-  - 2011年8月7日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2011
-  - 2012年2月25日 - DEVILOCK NIGHT THE FINAL～Thank you and Good bye～
-  - 2012年3月17日〜3月23日 - 東名阪「地下室」ツアー
+  - 2011年08月07日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2011
+  - 2012年02月25日 - DEVILOCK NIGHT THE FINAL～Thank you and Good bye～
+  - 2012年03月17日〜03月23日 - 東名阪「地下室」ツアー
   - 2012年06月09日 - 幕張メッセ国際展示場ホール1〜3『-MUCC 15th Anniversary year Live-「MUCC vs ムック vs MUCC」』
-  - 2012年8月4日 - ROCK IN JAPAN FESTIVAL 2012
+  - 2012年08月04日 - ROCK IN JAPAN FESTIVAL 2012
   - 2012年09月08日〜25日 - -MUCC 15th Anniversary year Live(s) - 「97-12」
   - 2012年12月01日〜09日 - MUCC Tour 2012 “Shangri-La”
   - 2012年12月21日・22日 - MUCC 15th Anniversary year- 「朱ゥノ吐」プレミアムイベント『聖なる渋谷で赤青えんぴ2Days』
+
+### 2013—2014
+
   - 2013年02月01日〜03月31日 - MUCC Tour 2013 “Shangri-La”
   - 2013年06月07日 - MUCC TOUR 2013 "Shangri-La" ウラファイナル
   - 2013年10月12日〜12月08日 - MUCC 2DAYS CIRCUIT 2013 "Hypnos & Thanatos"
   - 2013年12月22日 - MUCC 2DAYS CIRCUIT 2013 FINAL "Hypnos & Thanatos Z -神と神ドーンΣ(゜Д゜)-"
   - 2013年12月29日 - COUNTDOWN JAPAN 13/14
-  - 2014年1月26日 - DEADPOP FESTiVAL 2014
-  - 2014年3月8日 - ROTTENGRAFFTY “Walk” TOUR 2013-2014 FINAL SERIES
-  - 2014年3月6日〜30日 - SIX NINE WARS -ぼくらの七ヶ月間戦争- Episode 1. 「ムッP LIVES」
-  - 2014年4月4日〜29日 - SIX NINE WARS -ぼくらの七ヶ月間戦争- Episode 2. 「VS」
-  - 2014年5月1日〜25日 - SIX NINE WARS -ぼくらの七ヶ月間戦争- Episode 3. 「Thanatos & Thanatos」
-  - 2014年6月4日〜29日 - SIX NINE WARS -ぼくらの七ヶ月間戦争- Episode 4. 「TRIANGLE」
-  - 2014年7月6日〜29日 - SIX NINE WARS -ぼくらの七ヶ月間戦争- Episode 5. 「THE END OF THE WORLD」
-  - 2014年8月6日〜28日 - SIX NINE WARS -ぼくらの七ヶ月間戦争- Episode 6. 「ARMAGEDDON」
-  - 2014年9月23日 - SIX NINE WARS -ぼくらの七ヶ月間戦争- Episode Final Episode 「THE END」
+  - 2014年01月26日 - DEADPOP FESTiVAL 2014
+  - 2014年03月8日 - ROTTENGRAFFTY “Walk” TOUR 2013-2014 FINAL SERIES
+  - 2014年 - SIX NINE WARS -ぼくらの七ヶ月間戦争-
+      - 3月6日〜30日 - Episode 1. 「ムッP LIVES」
+      - 4月4日〜29日 - Episode 2. 「VS」
+      - 5月1日〜25日 - Episode 3. 「Thanatos & Thanatos」
+      - 6月4日〜29日 - Episode 4. 「TRIANGLE」
+      - 7月6日〜29日 - Episode 5. 「THE END OF THE WORLD」
+      - 8月6日〜28日 - Episode 6. 「ARMAGEDDON」
+      - 9月23日- Final Episode 「THE END」
   - 2014年10月25日 - HALLOWEEN PARTY 2014
   - 2014年11月06日 - THE END OF THE WORLD 【R】
   - 2014年11月18日 - FLOW THE PARTY 2014
   - 2014年11月24日 - SKULLSHIT presents SKULLMANIA vol.9
-  - 2014年12月6日 - Fear,and Loathing in Las Vegas「"PHASE 2" Release Tour FINAL SERIES」
+  - 2014年12月06日 - Fear,and Loathing in Las Vegas「"PHASE 2" Release Tour FINAL SERIES」
   - 2014年12月21日 - THE ROOT 80′s Japanese Metal 〜Visual Rock - Final Session
-  - 2015年01月25日 - ニッポン放送 LIVE EXPO TOKYO 2015 ミュ〜コミ+プラスプレゼンツ アニメ紅白歌合戦 Vol.4
-  - 2015年4月2日〜5月10日 - EUROPE TOUR 2015 "F\#CK THE PAST F\#CK THE FUTURE" in JAPAN
-  - 2015年6月5日 - GRANRODEO 10th ANNIVERSARY FES ROUND GR 2015
-  - 2015年6月09日・10日 - ムックの日とロットンの日
-  - 2015年6月28日 - [LUNATIC FEST.](https://ja.wikipedia.org/wiki/LUNATIC_FEST. "wikilink")
-  - 2015年7月18日 - TOUR 2015 "F\#CK THE PAST F\#CK THE FUTURE"Final【The Requiem, Endless Nightmare, Darkness YHWH,】
-  - 2015年7月18日 - MUCC「T.R.E.N.D.Y. -Paradise from 1997-」全曲再現SPECIAL FREE LIVE
-  - 2015年10月23日 - THE BACK HORN「KYO-MEI対バンツアー」～命を叫ぶ夜～
-  - 2015年12月30日 - COUNTDOWN JAPAN 15/16
-  - 2016年1月23日〜03月27日 - MAVERIC DC presents DOUBLE HEADLINE TOUR 2016「M.A.D」
-  - 2016年4月21日 - SiM「THE BEAUTiFUL PEOPLE TOUR 2016」
-  - 2016年5月1日 - Dappe Rock's
-  - 2016年6月25日〜09月03日 - MUCC TOUR 2016 GO TO 20TH ANNIVERSARY 孵化 -哀ア痛葬是朽鵬6極志球業シ終T-
-  - 2016年10月8日 - THE ORAL CIGARETTES「唇対バンTOUR 2016～キラーチューン祭り巡業行脚の巻～」
-  - 2016年10月16日 - VISUAL JAPAN SUMMIT 2016
-  - 2016年11月06日 - KNOTFEST JAPAN 2016
-  - 2016年11月12日 - MITO GROOVIN' 2016
-  - 2016年12月4日 - SKULLSHIT 20th ANNIVERSARY 骸骨祭り
-  - 2016年12月24日 - ポルノ超特急2016
-  - 2016年12月27日 - MAVERICK DC GROUP 35th Anniversary JACK IN THE BOX 2016
-  - 2017年2月4日〜4月15日 - MUCC 20TH ANNIVERSARY 97-17 羽化 -是朽鵬6極志球業シ終T脈殺-
-  - 2017年5月4日 - 家路〜Happy Birthday to MUCC〜
-  - 2017年5月31日 - THE BACK HORN「KYO-MEI対バンライブ in KAWASAKI Vol.3」
-  - 2017年6月20日 - MUCC 20TH-21ST ANNIVERSARY 飛翔への脈拍 〜そして伝説へ〜 第I章 97-06 哀ア痛葬是朽鵬6
-  - 2017年6月21日 - MUCC 20TH-21ST ANNIVERSARY 飛翔への脈拍 〜そして伝説へ〜 第II章 06-17 極志球業シ終T
-  - 2017年6月30日〜08月22日 - 哀愁とアンティークと痛みも葬るツアー
-  - 2017年7月2日 - DEAD POP FESTiVAL 2017
-  - 2017年8月11日 - ROCK IN JAPAN FESTIVAL 2017
-  - 2017年9月9日〜10月10日 - MUCC 20TH ANNIVERSARY 殺シノ調べ This is NOT Greatest Tour
-  - 2017年9月17日 - 氣志團万博2017　〜房総与太郎爆音マシマシ、ロックンロールチョモランマ〜
-  - 2017年9月30日 - フジソニック 2017
-  - 2017年10月29日 - HALLOWEEN PARTY 2017
-  - 2017年11月30日〜12月20日 - 『えん7』
-  - 2017年12月27日 - 20TH ANNIVERSARY MUCC祭「えん7 FINAL」 in 武道館
-  - 2017年12月29日 - COUNTDOWN JAPAN 17/18
-  - 2017年12月31日 - MUCC THE END OF 20TH COUNT DOWN FAMILY PARTY -逝く年 狂年 Lightの宴-
-  - 2018年3月31日 - Vans Warped Tour Japan 2018
-  - 2018年4月28日 - hide 20th memorial SUPER LIVE「SPIRITS」
-  - 2018年5月21日〜22日 - MUCC 2018 ～復活の夜～ The WALL-CRIMEorDESTROY-
-  - 2018年6月01日〜6月10日 - MUCC 2018 Lock on snipe Tour \#1「北海道型収監6days」
-  - 2018年6月14日〜6月15日 - ROTTENGRAFFTY PLAY ALL AROUND JAPAN TOUR 2018
-  - 2018年6月24日 - LUNATIC FEST. 2018
-  - 2018年7月25日〜11月05日 - MUCC 2018 Birthday Circuit
-  - 2018年8月5日 - ROCK IN JAPAN FESTIVAL 2018
-  - 2018年9月24日 - RESORT JAM 2018
-  - 2018年10月3日〜10月8日 - MUCC 2018 Lock on snipe Tour \#2「四国型収監4days」
-  - 2018年10月14日〜10月18日 - MUD FRIENDS 2000\~2018
-  - 2018年12月15日〜12月23日 - MUCC 2018 Lock on snipe Tour \#3「北陸型収監6days」
-  - 2018年12月29日 - COUNTDOWN JAPAN 18/19
+
+### 2015
+
+  - 01月25日 - ニッポン放送 LIVE EXPO TOKYO 2015 ミュ〜コミ+プラスプレゼンツ アニメ紅白歌合戦 Vol.4
+  - 04月02日 - 07月18日 - "F\#CK THE PAST F\#CK THE FUTURE"
+      - MUCC TOUR 2015 “F\#CK THE PAST F\#CK THE FUTURE” (04月02日～04月28日)
+      - MUCC EUROPE TOUR 2015 “F\#CK THE PAST F\#CK THE FUTURE” in JAPAN (05月10日)
+      - MUCC EUROPE TOUR 2015 “F\#CK THE PAST F\#CK THE FUTURE” (05月16日～05月26日)
+      - MUCC TOUR 2015 "F\#CK THE PAST F\#CK THE FUTURE"Final【The Requiem, Endless Nightmare, Darkness YHWH,】(07月18日)
+
+<!-- end list -->
+
+  - 06月05日 - GRANRODEO 10th ANNIVERSARY FES ROUND GR 2015
+  - 06月09日・10日 - ムックの日とロットンの日
+  - 06月28日 - [LUNATIC FEST.](https://ja.wikipedia.org/wiki/LUNATIC_FEST. "wikilink")
+  - 07月18日 - MUCC「T.R.E.N.D.Y. -Paradise from 1997-」全曲再現SPECIAL FREE LIVE
+  - 10月23日 - THE BACK HORN「KYO-MEI対バンツアー」～命を叫ぶ夜～
+  - 12月30日 - COUNTDOWN JAPAN 15/16
+
+### 2016
+
+  - 01月23日〜03月27日 - MAVERIC DC presents DOUBLE HEADLINE TOUR 2016「M.A.D」
+  - 04月21日 - SiM「THE BEAUTiFUL PEOPLE TOUR 2016」
+  - 05月01日 - Dappe Rock's
+  - 06月25日〜09月03日 - MUCC TOUR 2016 GO TO 20TH ANNIVERSARY 孵化 -哀ア痛葬是朽鵬6極志球業シ終T-
+  - 10月08日 - THE ORAL CIGARETTES「唇対バンTOUR 2016～キラーチューン祭り巡業行脚の巻～」
+  - 10月16日 - VISUAL JAPAN SUMMIT 2016
+  - 11月06日 - KNOTFEST JAPAN 2016
+  - 11月12日 - MITO GROOVIN' 2016
+  - 12月04日 - SKULLSHIT 20th ANNIVERSARY 骸骨祭り
+  - 12月24日 - ポルノ超特急2016
+  - 12月27日 - MAVERICK DC GROUP 35th Anniversary JACK IN THE BOX 2016
+
+### 2017
+
+  - 02月04日〜4月15日 - MUCC 20TH ANNIVERSARY 97-17 羽化 -是朽鵬6極志球業シ終T脈殺-
+
+<!-- end list -->
+
+  - 05月04日 - 家路〜Happy Birthday to MUCC〜
+  - 05月31日 - THE BACK HORN「KYO-MEI対バンライブ in KAWASAKI Vol.3」
+  - 06月20日 - MUCC 20TH-21ST ANNIVERSARY 飛翔への脈拍 〜そして伝説へ〜 第I章 97-06 哀ア痛葬是朽鵬6
+  - 06月21日 - MUCC 20TH-21ST ANNIVERSARY 飛翔への脈拍 〜そして伝説へ〜 第II章 06-17 極志球業シ終T
+  - 06月30日〜08月22日 - 哀愁とアンティークと痛みも葬るツアー
+  - 07月02日 - DEAD POP FESTiVAL 2017
+  - 08月11日 - ROCK IN JAPAN FESTIVAL 2017
+  - 09月09日〜10月10日 - MUCC 20TH ANNIVERSARY 殺シノ調べ This is NOT Greatest Tour
+  - 09月17日 - 氣志團万博2017　〜房総与太郎爆音マシマシ、ロックンロールチョモランマ〜
+  - 09月30日 - フジソニック 2017
+  - 10月29日 - HALLOWEEN PARTY 2017
+  - 11月30日〜12月20日 - 『えん7』
+  - 12月27日 - 20TH ANNIVERSARY MUCC祭「えん7 FINAL」 in 武道館
+  - 12月29日 - COUNTDOWN JAPAN 17/18
+  - 12月31日 - MUCC THE END OF 20TH COUNT DOWN FAMILY PARTY -逝く年 狂年 Lightの宴-
+
+### 2018
+
+  - 03月31日 - Vans Warped Tour Japan 2018
+  - 04月28日 - hide 20th memorial SUPER LIVE「SPIRITS」
+  - 05月21日・22日 - MUCC 2018 ～復活の夜～ The WALL-CRIMEorDESTROY-
+  - 06月01日〜6月10日 - MUCC 2018 Lock on snipe Tour \#1「北海道型収監6days」
+  - 06月14日〜6月15日 - ROTTENGRAFFTY PLAY ALL AROUND JAPAN TOUR 2018
+  - 06月24日 - LUNATIC FEST. 2018
+  - 07月25日〜11月05日 - MUCC 2018 Birthday Circuit
+  - 08月05日 - ROCK IN JAPAN FESTIVAL 2018
+  - 09月24日 - RESORT JAM 2018
+  - 10月03日〜10月08日 - MUCC 2018 Lock on snipe Tour \#2「四国型収監4days」
+  - 10月14日〜10月18日 - MUD FRIENDS 2000\~2018
+  - 12月15日〜12月23日 - MUCC 2018 Lock on snipe Tour \#3「北陸型収監6days」
+  - 12月29日 - COUNTDOWN JAPAN 18/19
 
 ## 出演
 

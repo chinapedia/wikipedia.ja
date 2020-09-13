@@ -3,7 +3,7 @@
 
 『**redEyes**』は[神堂潤](https://ja.wikipedia.org/wiki/神堂潤 "wikilink")による[少年漫画](../Page/少年漫画.md "wikilink")。『[マガジンGREAT](https://ja.wikipedia.org/wiki/マガジンGREAT "wikilink")』（[講談社](../Page/講談社.md "wikilink")）『マガジンイーノ』、『[月刊少年マガジン＋](https://ja.wikipedia.org/wiki/月刊少年マガジン＋ "wikilink")（プラス）』（講談社）にて連載していた。同誌休刊後は、単行本描き下ろしという形で継続中\[1\]。
 
-単行本は2018年11月現在23巻まで発刊。なお、単行本はヨーロッパで[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")版、[ドイツ語](../Page/ドイツ語.md "wikilink")版が8巻まで発刊されている。
+単行本は2019/11/15日現在で2４巻まで発刊。なお、単行本はヨーロッパで[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")版、[ドイツ語](../Page/ドイツ語.md "wikilink")版が8巻まで発刊されている。
 
 ## 概要
 

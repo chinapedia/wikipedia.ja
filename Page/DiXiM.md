@@ -23,4 +23,4 @@ DiXiM DMCは[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")
 
   -
   -
-[Category:ネットワークソフト](https://ja.wikipedia.org/wiki/Category:ネットワークソフト "wikilink") [Category:Androidのソフトウェア](https://ja.wikipedia.org/wiki/Category:Androidのソフトウェア "wikilink") [Category:iOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:iOSのソフトウェア "wikilink")
+[Category:ネットワークソフト](https://ja.wikipedia.org/wiki/Category:ネットワークソフト "wikilink") [Category:Androidのソフトウェア](https://ja.wikipedia.org/wiki/Category:Androidのソフトウェア "wikilink") [Category:iOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:iOSのソフトウェア "wikilink") [Category:メルコグループ](https://ja.wikipedia.org/wiki/Category:メルコグループ "wikilink")

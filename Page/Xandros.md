@@ -11,4 +11,4 @@
 
   - [Xandros](http://www.xandros.com/)
 
-[Category:Linuxディストリビューション](https://ja.wikipedia.org/wiki/Category:Linuxディストリビューション "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:Linux企業](https://ja.wikipedia.org/wiki/Category:Linux企業 "wikilink") [Category:カナダのソフトウェア会社](https://ja.wikipedia.org/wiki/Category:カナダのソフトウェア会社 "wikilink") [Category:オタワの企業](https://ja.wikipedia.org/wiki/Category:オタワの企業 "wikilink")
+[Category:Debian派生ディストリビューション](https://ja.wikipedia.org/wiki/Category:Debian派生ディストリビューション "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:Linux企業](https://ja.wikipedia.org/wiki/Category:Linux企業 "wikilink") [Category:カナダのソフトウェア会社](https://ja.wikipedia.org/wiki/Category:カナダのソフトウェア会社 "wikilink") [Category:オタワの企業](https://ja.wikipedia.org/wiki/Category:オタワの企業 "wikilink")

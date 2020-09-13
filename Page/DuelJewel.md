@@ -1978,18 +1978,81 @@ LineData =
 <td><p>CD</p></td>
 <td><p>MADN-1</p></td>
 </tr>
+<tr class="even">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/7月15日.md" title="wikilink">7月15日</a></p></td>
+<td><p>GITADORA Matixx Original Soundtrack</p></td>
+<td><p>ユグドラシルワークスShun with 砂唏</p></td>
+<td><p>桐一葉</p></td>
+<td><ul>
+<li><a href="../Page/2017年.md" title="wikilink">2017年</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/GITADORA" title="wikilink">GITADORA</a> Matixx</li>
+<li>作曲を担当</li>
+</ul></td>
+<td><p>CD</p></td>
+<td><p>GFCA-488</p></td>
+</tr>
+<tr class="odd">
+<td><p>GITADORA Matixx &amp; EXCHAIN Original Soundtrack</p></td>
+<td><p>CD+DVD</p></td>
+<td><p>LC2432-5KD</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>GITADORA Matixx Original Soundtrack</p></td>
+<td><p>ユグドラシルワークスShun with 夜凪</p></td>
+<td><p>Killing Bites</p></td>
+<td><ul>
+<li><a href="../Page/2018年.md" title="wikilink">2018年</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/GITADORA" title="wikilink">GITADORA</a> Matixx</li>
+<li>作曲を担当</li>
+</ul></td>
+<td><p>CD</p></td>
+<td><p>GFCA-488</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>GITADORA Matixx &amp; EXCHAIN Original Soundtrack</p></td>
+<td><p>CD+DVD</p></td>
+<td><p>LC2432-5KD</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>GITADORA EXCHAIN Original Soundtrack</p></td>
+<td><p>ユグドラシルワークスShun with 砂唏</p></td>
+<td><p>リドル</p></td>
+<td><ul>
+<li><a href="../Page/2019年.md" title="wikilink">2019年</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/GITADORA" title="wikilink">GITADORA</a> EXCHAIN</li>
+<li>作曲を担当</li>
+</ul></td>
+<td><p>CD</p></td>
+<td><p>GFCA-490</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>GITADORA Matixx &amp; EXCHAIN Original Soundtrack</p></td>
+<td><p>CD+DVD</p></td>
+<td><p>LC2432-5KD</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
-##### その他の活動
+##### Shun - その他の活動
 
-| 日付                                                                                                            | 内容                                                                    | アーティスト                 | タイトル          | 備考   |
-| ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ---------------------- | ------------- | ---- |
-| [2016年](../Page/2016年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink") - [5月1日](../Page/5月1日.md "wikilink") | REVO2016『SESSION 情熱と生活』 - [新国立劇場](../Page/新国立劇場.md "wikilink")小劇場     |                        |               | 楽曲提供 |
-| [2017年](../Page/2017年.md "wikilink")                                                                          | [オンラインゲーム](../Page/オンラインゲーム.md "wikilink")「イディオムガール」                  |                        |               | 楽曲提供 |
-| [2017年](../Page/2017年.md "wikilink")                                                                          | [GITADORA](https://ja.wikipedia.org/wiki/GITADORA "wikilink") Matixx  | ユグドラシルワークスShun with 砂唏 | 桐一葉           | 楽曲提供 |
-| [2018年](../Page/2018年.md "wikilink")                                                                          | [GITADORA](https://ja.wikipedia.org/wiki/GITADORA "wikilink") Matixx  | ユグドラシルワークスShun with 夜凪 | Killing Bites | 楽曲提供 |
-| [2019年](../Page/2019年.md "wikilink")                                                                          | [GITADORA](https://ja.wikipedia.org/wiki/GITADORA "wikilink") EXCHAIN | ユグドラシルワークスShun with 砂唏 | リドル           | 楽曲提供 |
+| 日付                                                                                                            | 内容                                                                | 備考   |
+| ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---- |
+| [2016年](../Page/2016年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink") - [5月1日](../Page/5月1日.md "wikilink") | REVO2016『SESSION 情熱と生活』 - [新国立劇場](../Page/新国立劇場.md "wikilink")小劇場 | 楽曲提供 |
+| [2017年](../Page/2017年.md "wikilink")                                                                          | [オンラインゲーム](../Page/オンラインゲーム.md "wikilink")「イディオムガール」              | 楽曲提供 |
 
 #### ユウヤヤバセ
 
@@ -2039,10 +2102,28 @@ LineData =
 </ul></td>
 <td><p>YYBS-002</p></td>
 </tr>
+<tr class="odd">
+<td><p>3rd Single</p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/2月2日.md" title="wikilink">2月2日</a></p></td>
+<td><p>BONDZ</p></td>
+<td><p>CD</p></td>
+<td><ol>
+<li>BONDZ</li>
+<li>マコトシヤカ</li>
+<li>Leash</li>
+<li>Crescendo Period</li>
+</ol></td>
+<td><ul>
+<li>「マコトシヤカ」は手鞠が楽曲提供</li>
+<li>「Leash」はNatsuki（DuelJewel）が楽曲提供</li>
+<li>「Crescendo Period」はSoanが楽曲提供</li>
+</ul></td>
+<td><p>YYBS-003</p></td>
+</tr>
 </tbody>
 </table>
 
-##### 映像作品（ユウヤヤバセ）
+##### ユウヤヤバセ - 映像作品
 
 <table>
 <thead>
@@ -2266,9 +2347,13 @@ LineData =
 
   - [DuelJewel OFFICIAL SITE](http://dueljewel.jp/)
 
+**公式YouTube**
+
   -
   - （旧チャンネル）
 
+  -
+  -
 **公式Twitter**
 
   -
@@ -2296,12 +2381,18 @@ LineData =
   -
   -
   -
+**公式ツイキャス**
+
+  - [DuelJewel (@DuelJewel_info)](https://ja.twitcasting.tv/dueljewel_info) - [TwitCasting](https://ja.wikipedia.org/wiki/TwitCasting "wikilink")
+  - [祐弥 (@chanyouduel)](https://ja.twitcasting.tv/chanyouduel) - [TwitCasting](https://ja.wikipedia.org/wiki/TwitCasting "wikilink")
+  - [Natsuki (@DuelNatsuki)](https://ja.twitcasting.tv/duelnatsuki) - [TwitCasting](https://ja.wikipedia.org/wiki/TwitCasting "wikilink")
+  - [ばる (@DuelJewel_val)](https://ja.twitcasting.tv/dueljewel_val) - [TwitCasting](https://ja.wikipedia.org/wiki/TwitCasting "wikilink")
+
 **ソロ活動**
 
   - [祐弥 - ユウヤヤバセ OFFICIAL SITE](https://www.yuyabase.com/)
-
-  -
   - [祐弥 - LINE@](https://line.me/R/ti/p/%40hyp6701z)
+  - [祐弥 - FOLLOW ME](https://followme.app/chanyou)
 
 [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のプログレッシブ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のプログレッシブ・ロック・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:1997年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に結成した音楽グループ "wikilink")
 

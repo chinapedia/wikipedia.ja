@@ -67,11 +67,11 @@
 
 ## 外部リンク
 
-  - [DreamParty公式サイト（インターネットアーカイブのキャッシュ）](http://web.archive.org/web/20150315030700/http://www.dreamparty.jp/)
+  - [DreamParty公式サイト（インターネットアーカイブのキャッシュ）](https://web.archive.org/web/20150315030700/http://www.dreamparty.jp/)
 
 [Category:コンピュータゲームの展示会](https://ja.wikipedia.org/wiki/Category:コンピュータゲームの展示会 "wikilink") [Category:アダルトゲーム](https://ja.wikipedia.org/wiki/Category:アダルトゲーム "wikilink") [Category:かつて存在した日本のイベント](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のイベント "wikilink") [Category:東京ビッグサイトの行事・イベント](https://ja.wikipedia.org/wiki/Category:東京ビッグサイトの行事・イベント "wikilink") [Category:2003年開始のイベント](https://ja.wikipedia.org/wiki/Category:2003年開始のイベント "wikilink") [Category:2013年終了のイベント](https://ja.wikipedia.org/wiki/Category:2013年終了のイベント "wikilink")
 
-1.  [『DreamParty東京2014春』開催中止のお知らせ（インターネットアーカイブのキャッシュ）](http://web.archive.org/web/20150607232941/http://www.shootingstar-jp.com/)
-2.  [DreamParty大阪についてのお知らせ（インターネットアーカイブのキャッシュ）](http://web.archive.org/web/20140306204222/http://www.dreamparty.jp/2013/01/583/)
+1.  [『DreamParty東京2014春』開催中止のお知らせ（インターネットアーカイブのキャッシュ）](https://web.archive.org/web/20150607232941/http://www.shootingstar-jp.com/)
+2.  [DreamParty大阪についてのお知らせ（インターネットアーカイブのキャッシュ）](https://web.archive.org/web/20140306204222/http://www.dreamparty.jp/2013/01/583/)
 3.
 4.

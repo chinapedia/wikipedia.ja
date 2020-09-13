@@ -1,34 +1,37 @@
 > この記事は[W型エンジン](https://ja.wikipedia.org/wiki/W型エンジン)から翻訳されています。
 
 
-[Napier_Lion_W12_@_Brooklands_Museum.JPG](https://ja.wikipedia.org/wiki/File:Napier_Lion_W12_@_Brooklands_Museum.JPG "fig:Napier_Lion_W12_@_Brooklands_Museum.JPG")エンジン\]\] [W-Engine_with_60_Degree_angle.gif](https://ja.wikipedia.org/wiki/File:W-Engine_with_60_Degree_angle.gif "fig:W-Engine_with_60_Degree_angle.gif") **W型エンジン**（ダブリューがたエンジン）とは、一本の[クランクシャフト](../Page/クランクシャフト.md "wikilink")に対し、3バンクまたは4バンクの[シリンダー](../Page/シリンダー.md "wikilink")をW字状（[扇状](../Page/扇子.md "wikilink")）に配置した[レシプロエンジン](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")。4列で放射状に配列したものは[X型エンジン](https://ja.wikipedia.org/wiki/X型エンジン "wikilink")、それ以上は[星型エンジン](../Page/星型エンジン.md "wikilink")となる。3バンクのものは 英国政府支給品のマークに似ているため**[ブロードアロー](https://ja.wikipedia.org/wiki/ブロードアロー "wikilink")**型とも呼ばれる。\[1\]\[2\]
+[Napier_Lion_W12_@_Brooklands_Museum.JPG](https://ja.wikipedia.org/wiki/File:Napier_Lion_W12_@_Brooklands_Museum.JPG "fig:Napier_Lion_W12_@_Brooklands_Museum.JPG")エンジン\]\] [W-Engine_with_60_Degree_angle.gif](https://ja.wikipedia.org/wiki/File:W-Engine_with_60_Degree_angle.gif "fig:W-Engine_with_60_Degree_angle.gif") **W型エンジン**（ダブリューがたエンジン）とは、一本の[クランクシャフト](../Page/クランクシャフト.md "wikilink")に対し、3バンクまたは4バンクの[シリンダー](../Page/シリンダー.md "wikilink")をW字状（[扇状](../Page/扇子.md "wikilink")）に配置した[レシプロエンジン](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")。4列で放射状に配列したものは[X型エンジン](https://ja.wikipedia.org/wiki/X型エンジン "wikilink")、それ以上はラジアルエンジン（放射状エンジン）の範疇であるが、隣り合うバンクの同じロウ（行と列の「行」）の[コネクティングロッド](../Page/コネクティングロッド.md "wikilink")が一つの[クランクピン](https://ja.wikipedia.org/wiki/クランクピン "wikilink")を共用する点は[V型エンジン](../Page/V型エンジン.md "wikilink")の発展型とも言えるもので、1つのクランクピンに1本のマスターロッドが嵌り、そのマスターロッドに他のシリンダーのサブロッドが連結している[星型エンジン](../Page/星型エンジン.md "wikilink")とは異なる。3バンクのものは英国政府支給品のマークに似ているため**[ブロードアロー](https://ja.wikipedia.org/wiki/ブロードアロー "wikilink")**型とも呼ばれる。\[1\]\[2\]
 
 ## 特徴
 
-[V型エンジン](../Page/V型エンジン.md "wikilink")などに比べ、同程度の気筒数ならばクランクシャフトを短くできる。横幅はV型エンジンより広くなるが、12気筒、16気筒などの多気筒エンジンでは、長さ短縮の効果が大きい。
+[V型エンジン](../Page/V型エンジン.md "wikilink")などに比べ、同程度の気筒数ならばクランクシャフトを短くできる。横幅はV型エンジンより広くなるが、12気筒、16気筒などの多気筒エンジンでは、長さ短縮の効果が大きい。ただし3本のコネクティングロッドが一つのクランクピンに繋がっているため、クランクピンやクランク[ジャーナルの直径を大きく](../Page/軸受.md "wikilink")（クランクシャフトを太く）する必要がある。
 
 ### 種類
 
-  - [W型3気筒](https://ja.wikipedia.org/wiki/W型3気筒 "wikilink")(W3)
-  - [W型8気筒](https://ja.wikipedia.org/wiki/W型8気筒 "wikilink")(W8/WR8)
-  - [W型12気筒](https://ja.wikipedia.org/wiki/W型12気筒 "wikilink")(W12/WR12)
-  - [W型16気筒](https://ja.wikipedia.org/wiki/W型16気筒 "wikilink")(W16/WR16)
-  - [W型18気筒](https://ja.wikipedia.org/wiki/W型18気筒 "wikilink")(W18)
-  - W型24気筒(W24)
+  - [W型3気筒](https://ja.wikipedia.org/wiki/W型3気筒 "wikilink")（W3）
+  - [W型8気筒](https://ja.wikipedia.org/wiki/W型8気筒 "wikilink")（W8/WR8）
+  - [W型12気筒](https://ja.wikipedia.org/wiki/W型12気筒 "wikilink")（W12/WR12）
+  - [W型16気筒](https://ja.wikipedia.org/wiki/W型16気筒 "wikilink")（W16/WR16）
+  - [W型18気筒](https://ja.wikipedia.org/wiki/W型18気筒 "wikilink")（W18）
+  - W型24気筒（W24）
+  - W型32気筒（W32/WR32）
+  - W型48気筒（W48）
+  - W型64気筒（W64/WR64）
 
 ## 3バンク型
 
 [Anzani,_Alessandro_W-3_1906.GIF](https://ja.wikipedia.org/wiki/File:Anzani,_Alessandro_W-3_1906.GIF "fig:Anzani,_Alessandro_W-3_1906.GIF")エンジンを搭載するオートバイ\]\] [NapierLion_VII_1.jpg](https://ja.wikipedia.org/wiki/File:NapierLion_VII_1.jpg "fig:NapierLion_VII_1.jpg") VII\]\] 古典的なW型エンジンは3つの[シリンダーバンク](https://ja.wikipedia.org/wiki/シリンダーバンク "wikilink")を持ち、1本の[クランクシャフト](../Page/クランクシャフト.md "wikilink")で全てのピストンを駆動する。
 
-この形式で最初に登場したのは[W型3気筒](https://ja.wikipedia.org/wiki/W型3気筒 "wikilink")であり、1906年に[:en:Anzani](https://ja.wikipedia.org/wiki/:en:Anzani "wikilink")が[オートバイ用エンジン](https://ja.wikipedia.org/wiki/オートバイ用エンジン "wikilink")として開発したものである。このエンジンは後に[ルイ・ブレリオ](../Page/ルイ・ブレリオ.md "wikilink")の飛行機「[ブレリオ_XI](../Page/ブレリオ_XI.md "wikilink")」に搭載され、1909年に[イギリス海峡](../Page/イギリス海峡.md "wikilink")横断飛行に成功した。後にAlessandro Anzaniはこのエンジンを更に改良し、各シリンダーを120度の角度にした[星型エンジン](../Page/星型エンジン.md "wikilink")の原型とも言える[Anzani-Y3エンジンを開発した](https://ja.wikipedia.org/wiki/:en:Anzani_3-cylinder "wikilink")。
+この形式で最初に登場したのは[W型3気筒](https://ja.wikipedia.org/wiki/W型3気筒 "wikilink")であり、[1906年](../Page/1906年.md "wikilink")にが[オートバイ用エンジン](https://ja.wikipedia.org/wiki/オートバイ用エンジン "wikilink")として開発したものである。このエンジンは後に[ルイ・ブレリオ](../Page/ルイ・ブレリオ.md "wikilink")の飛行機「[ブレリオ XI](../Page/ブレリオ_XI.md "wikilink")」に搭載され、[1909年](../Page/1909年.md "wikilink")に[イギリス海峡](../Page/イギリス海峡.md "wikilink")横断飛行に成功した。後にアレッサンドロ・アンザニはこのエンジンを更に改良し、各シリンダーを120度の角度にした[星型エンジン](../Page/星型エンジン.md "wikilink")の原型とも言える[Anzani-Y3エンジンを開発した](https://ja.wikipedia.org/wiki/:en:Anzani_3-cylinder "wikilink")。
 
-1917年に[ネイピア・アンド・サン](../Page/ネイピア・アンド・サン.md "wikilink")は最初の3バンク・W型12気筒エンジンである[ネイピア ライオンを開発](../Page/ネイピア_ライオン.md "wikilink")、[シュナイダー・トロフィー・レース](../Page/シュナイダー・トロフィー・レース.md "wikilink")で優勝した機にも使用された。 [Lorraineは](https://ja.wikipedia.org/wiki/:en:Lorraine_\(company\) "wikilink")1920年代に450馬力の「12Ed」エンジンと600馬力の「18Ka」エンジンを航空機向けに製作、同時期に[:en:Isotta-Fraschini](https://ja.wikipedia.org/wiki/:en:Isotta-Fraschini "wikilink")も[W型18気筒](https://ja.wikipedia.org/wiki/W型18気筒 "wikilink")で820馬力の「Asso 750」エンジンと1,100馬力の「Asso 1000」エンジンを開発した。 [W12_Engine.jpg](https://ja.wikipedia.org/wiki/File:W12_Engine.jpg "fig:W12_Engine.jpg") このような3バンクのW型エンジンは、多気筒化した場合に中央のバンクの吸排気系の取りまわしが困難となる冷却性の問題があり、多気筒化は放射状に気筒を配列した[星型エンジン](../Page/星型エンジン.md "wikilink")、もしくはそれの複列化、または、水冷V型エンジンが主流となった。[第二次世界大戦後](https://ja.wikipedia.org/wiki/第二次世界大戦後 "wikilink")もレース用や試作車での採用例はあるものの成功したと言えるものはなく、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")には[ライフが自製の](../Page/ライフ_\(F1\).md "wikilink")[W型12気筒](https://ja.wikipedia.org/wiki/W型12気筒 "wikilink")エンジンを使用して[フォーミュラ1](../Page/フォーミュラ1.md "wikilink")（F1）に出場したが、12戦全戦で[予備予選落ちしている](../Page/予備予選_\(F1\).md "wikilink")。その後、ライフは、シーズン途中に[レイトンハウス](../Page/レイトンハウス.md "wikilink")より譲渡された[ジャッドエンジン](https://ja.wikipedia.org/wiki/ジャッドエンジン "wikilink")に変更するも、最終戦を待たずしてF1から撤退した。
+[1917年](../Page/1917年.md "wikilink")に[ネイピア・アンド・サン](../Page/ネイピア・アンド・サン.md "wikilink")は最初の3バンク・W型12気筒エンジンである[ネイピア ライオンを開発](../Page/ネイピア_ライオン.md "wikilink")、[シュナイダー・トロフィー・レース](../Page/シュナイダー・トロフィー・レース.md "wikilink")で優勝した機にも使用された。 は1920年代に450馬力の「12Ed」エンジンと600馬力の「18Ka」エンジンを航空機向けに製作、同時期にも[W型18気筒](https://ja.wikipedia.org/wiki/W型18気筒 "wikilink")で820馬力の「Asso 750」エンジンと1,100馬力の「Asso 1000」エンジンを開発した。 [W12_Engine.jpg](https://ja.wikipedia.org/wiki/File:W12_Engine.jpg "fig:W12_Engine.jpg") このような3バンクのW型エンジンは、多気筒化した場合に中央バンクの吸排気系の取りまわしが困難となる冷却性の問題があり、多気筒化は放射状に気筒を配列した[星型エンジン](../Page/星型エンジン.md "wikilink")、もしくはそれの二重（複列）化、または、水冷V型エンジンが主流となった。[第二次世界大戦後](https://ja.wikipedia.org/wiki/第二次世界大戦後 "wikilink")もレース用や試作車での採用例はあるものの成功したと言えるものはなく、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")には[ライフが自製の](../Page/ライフ_\(F1\).md "wikilink")[W型12気筒](https://ja.wikipedia.org/wiki/W型12気筒 "wikilink")エンジンを使用して[フォーミュラ1](../Page/フォーミュラ1.md "wikilink")（F1）に出場したが、12戦全戦で[予備予選落ちしている](../Page/予備予選_\(F1\).md "wikilink")。その後、ライフは、シーズン途中に[レイトンハウス](../Page/レイトンハウス.md "wikilink")より譲渡された[ジャッドエンジン](https://ja.wikipedia.org/wiki/ジャッドエンジン "wikilink")に変更するも、最終戦を待たずしてF1から撤退した。
 
 その後は[アウディ](https://ja.wikipedia.org/wiki/アウディ "wikilink")が3バンクのW型12気筒エンジンを開発するも中途で断念。[フォルクスワーゲン](https://ja.wikipedia.org/wiki/フォルクスワーゲン "wikilink")も[ブガッティ](../Page/ブガッティ.md "wikilink")の試作車両向けに3バンクの[W型18気筒](https://ja.wikipedia.org/wiki/W型18気筒 "wikilink")エンジンを開発し、実際に[ブガッティ・EB 118と](https://ja.wikipedia.org/wiki/:en:Bugatti_EB_118 "wikilink")[ブガッティ・EB 218に搭載したが](https://ja.wikipedia.org/wiki/:en:Bugatti_EB_218 "wikilink")、構造が複雑すぎて信頼性に欠ける事が露見し、結局市販されないまま終わっている。
 
 ## 4バンク型"ダブルV"エンジン
 
-[Volkswagen_W16.jpg](https://ja.wikipedia.org/wiki/File:Volkswagen_W16.jpg "fig:Volkswagen_W16.jpg")の[W型16気筒](https://ja.wikipedia.org/wiki/W型16気筒 "wikilink")エンジン。8,000cc 64バルブ クアッドターボ構成で1,001馬力を発揮するモンスターエンジンである\]\] [フォルクスワーゲングループ](../Page/フォルクスワーゲングループ.md "wikilink")が開発したエンジンで[2001年](../Page/2001年.md "wikilink")にW12型が初めて発表された。現在は特許を持つVWのみで採用されている。同社の持つ[VR6型](../Page/フォルクスワーゲン・VR6型エンジン.md "wikilink")[狭角V型エンジン](../Page/狭角V型エンジン.md "wikilink")をふたつ組み合わせた「ダブルV」(**VV**)構成となっている。
+[Volkswagen_W16.jpg](https://ja.wikipedia.org/wiki/File:Volkswagen_W16.jpg "fig:Volkswagen_W16.jpg")の[W型16気筒](https://ja.wikipedia.org/wiki/W型16気筒 "wikilink")エンジン。8,000 cc 64バルブ クアッドターボ構成で1,001馬力を発揮するモンスターエンジンである\]\] [フォルクスワーゲングループ](../Page/フォルクスワーゲングループ.md "wikilink")が開発したエンジンで[2001年](../Page/2001年.md "wikilink")にW12型が初めて発表された。現在は特許を持つVWのみで採用されている。同社の持つ[VR6型](../Page/フォルクスワーゲン・VR6型エンジン.md "wikilink")[狭角V型エンジン](../Page/狭角V型エンジン.md "wikilink")をふたつ組み合わせた「ダブルV」(**VV**)構成となっている\[3\]。
 
 日本ではこのようなダブルV構成の旧来の3バンク形式のものも一律にW型エンジンとして扱われる事が多いが、英語圏では区別するために**WR型**やVV(ダブルブイ、ブイブイ）と呼ぶ事がある。また、4バンク形式の祖国である[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")ではダブルV型4バンク式のエンジンのみをW型エンジンと呼び、旧来の3バンク形式のものは**[Y型エンジン](https://ja.wikipedia.org/wiki/:de:Y-Motor "wikilink")**と呼んで明確に区分している。
 
@@ -77,10 +80,11 @@
 ## 関連項目
 
   - [ネイピア ライオン](../Page/ネイピア_ライオン.md "wikilink")（航空機用エンジン）
-  - [ロレーヌ_12E](https://ja.wikipedia.org/wiki/ロレーヌ_12E "wikilink")(航空機/魚雷艇)
-  - [11号型魚雷艇](https://ja.wikipedia.org/wiki/11号型魚雷艇 "wikilink") (24WZ-30MC 24WZ-31MCなどのw型エンジンを採用)
-  - [フォルクスワーゲン・W12ナルド](https://ja.wikipedia.org/wiki/フォルクスワーゲン・W12ナルド "wikilink")(最高速記録を持つ自動車 vv型のエンジンを利用)
-  - [アウディ・A8](../Page/アウディ・A8.md "wikilink") (一部車種にw型エンジンを採用。500psの量産車)
+  - [ロレーヌ 12E](https://ja.wikipedia.org/wiki/ロレーヌ_12E "wikilink")（航空機/魚雷艇）
+  - [11号型魚雷艇](https://ja.wikipedia.org/wiki/11号型魚雷艇 "wikilink") (24WZ-30MC 24WZ-31MCなどのW型24気筒エンジンを採用)
+  - [フォルクスワーゲン・W12ナルド](https://ja.wikipedia.org/wiki/フォルクスワーゲン・W12ナルド "wikilink")(最高速度記録を持つ自動車 vv型のエンジンを利用)
+  - [アウディ・A8](../Page/アウディ・A8.md "wikilink") (一部車種にW型エンジンを採用。500 psの量産車)
+  - [青函連絡船メモリアルシップ八甲田丸](../Page/青函連絡船メモリアルシップ八甲田丸.md "wikilink")（プロペラ1基ごとにV型16気筒エンジンを4台搭載し、W型64気筒エンジンとして動作）
 
 ## 外部リンク
 
@@ -92,3 +96,4 @@
 
 1.
 2.
+3.  フォルクスワーゲン以外のダブルV型エンジンは、文字通りV型エンジンを2基並べたもので、2本のクランクシャフトを[ローラーチェーン](../Page/ローラーチェーン.md "wikilink")や[ギアで連結して出力軸を](../Page/歯車.md "wikilink")1本とする構成である。[V-3420 (航空用エンジン)や](https://ja.wikipedia.org/wiki/V-3420_\(航空用エンジン\) "wikilink")[He 177 (航空機)\#エンジンを参照](https://ja.wikipedia.org/wiki/He_177_\(航空機\)#エンジン "wikilink")。

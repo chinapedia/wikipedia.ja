@@ -6,6 +6,7 @@
 ## メンバー
 
   - 牧野元（[1967年](../Page/1967年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink") - ) Vo\&G
+      - 「裸眼」名義では『Snaps』『裸眼2.0』の2枚のCD音源をリリース。
   - 小宮山聖（[1966年](../Page/1966年.md "wikilink")[12月28日](../Page/12月28日.md "wikilink") - ) G
   - 阿部耕作（[1966年](../Page/1966年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink") - ) Dr
   - 小島タケヒロ (Ba)

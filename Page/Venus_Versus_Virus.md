@@ -341,6 +341,6 @@
 
 ## 外部リンク
 
-  - [アニメ公式サイト](http://www.tbs.co.jp/anime/vvv/)
+  - [アニメ公式サイト](https://www.tbs.co.jp/anime/vvv/)
 
 [Category:漫画作品_う](https://ja.wikipedia.org/wiki/Category:漫画作品_う "wikilink") [Category:月刊電撃コミックガオ\!](https://ja.wikipedia.org/wiki/Category:月刊電撃コミックガオ! "wikilink") [Category:月刊コミック電撃大王の漫画作品](https://ja.wikipedia.org/wiki/Category:月刊コミック電撃大王の漫画作品 "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink") [Category:アニメ作品_う](https://ja.wikipedia.org/wiki/Category:アニメ作品_う "wikilink") [Category:2007年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2007年のテレビアニメ "wikilink") [Category:TBSの深夜アニメ](https://ja.wikipedia.org/wiki/Category:TBSの深夜アニメ "wikilink") [Category:スタジオ雲雀](https://ja.wikipedia.org/wiki/Category:スタジオ雲雀 "wikilink") [Category:ポニーキャニオンのアニメ作品](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアニメ作品 "wikilink") [Category:ランティスのアニメ作品](https://ja.wikipedia.org/wiki/Category:ランティスのアニメ作品 "wikilink") [Category:ムービックのアニメ作品](https://ja.wikipedia.org/wiki/Category:ムービックのアニメ作品 "wikilink") [Category:電撃コミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:電撃コミックスのアニメ作品 "wikilink") [Category:ファンタジーアニメ](https://ja.wikipedia.org/wiki/Category:ファンタジーアニメ "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink")

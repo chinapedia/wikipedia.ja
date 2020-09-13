@@ -157,7 +157,7 @@ IMAX最大級のスクリーンサイズ(22.86ｍ以上)に合わせ新開発さ
 <td><p>シネマコンプレックス開業時よりIMAXデジタルシアターに加え、12chサウンドシステムを導入。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/キュープラザ池袋" title="wikilink">グランドシネマサンシャイン</a>[6]</p></td>
+<td><p><a href="../Page/キュープラザ池袋.md" title="wikilink">グランドシネマサンシャイン</a>[6]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/豊島区" title="wikilink">豊島区</a></p></td>
 <td></td>
 <td><p>「IMAX®レーザー／GTテクノロジー」（旧名称：IMAX®次世代レーザー）・12chサウンドシステムを導入。<br />
@@ -400,7 +400,7 @@ IMAX最大級のスクリーンサイズ(22.86ｍ以上)に合わせ新開発さ
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/高島屋.md" title="wikilink">高島屋</a>東京IMAXシアター</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/髙島屋" title="wikilink">髙島屋</a>東京IMAXシアター</p></td>
 <td><p>3D 18m×25m</p></td>
 <td><p>1996年～2002年2月1日</p></td>
 <td><p><a href="../Page/タカシマヤタイムズスクエア.md" title="wikilink">高島屋新宿店内にて営業</a>。閉館後は、映画館<a href="../Page/東京テアトル.md" title="wikilink">テアトル</a><a href="../Page/タカシマヤタイムズスクエア.md" title="wikilink">タイムズスクエア</a>（2002年4月27日開館～2009年8月30日閉館）となっていた。</p></td>
@@ -790,11 +790,13 @@ IMAX最大級のスクリーンサイズ(22.86ｍ以上)に合わせ新開発さ
 
 | 作品名                                                                                                         | 公開日        | 3D | 2D | 備考     |
 | ----------------------------------------------------------------------------------------------------------- | ---------- | -- | -- | ------ |
-| **[フォードvsフェラーリ](https://ja.wikipedia.org/wiki/フォードvsフェラーリ "wikilink")**                                     | 2019年1月10日 |    | ○  |        |
-| **[キャッツ](https://ja.wikipedia.org/wiki/キャッツ_\(映画\) "wikilink")**                                            | 2019年1月24日 |    | ○  |        |
-| **[1917 命をかけた伝令](https://ja.wikipedia.org/wiki/1917_命をかけた伝令 "wikilink")**                                   | 2019年2月14日 |    | ○  |        |
-| **[地獄の黙示録 ファイナル・カット](../Page/地獄の黙示録.md "wikilink")**                                                        | 2019年2月28日 |    | ○  | 期間限定上映 |
-| **[ハーレイ・クインの華麗なる覚醒 BIRDS OF PREY](https://ja.wikipedia.org/wiki/ハーレイ・クインの華麗なる覚醒_BIRDS_OF_PREY "wikilink")** | 2019年3月20日 |    | ○  |        |
+| **[フォードvsフェラーリ](https://ja.wikipedia.org/wiki/フォードvsフェラーリ "wikilink")**                                     | 2020年1月10日 |    | ○  |        |
+| **[キャッツ](https://ja.wikipedia.org/wiki/キャッツ_\(映画\) "wikilink")**                                            | 2020年1月24日 |    | ○  |        |
+| **[1917 命をかけた伝令](https://ja.wikipedia.org/wiki/1917_命をかけた伝令 "wikilink")**                                   | 2020年2月14日 |    | ○  |        |
+| **[地獄の黙示録 ファイナル・カット](../Page/地獄の黙示録.md "wikilink")**                                                        | 2020年2月28日 |    | ○  | 期間限定上映 |
+| **[ハーレイ・クインの華麗なる覚醒 BIRDS OF PREY](https://ja.wikipedia.org/wiki/ハーレイ・クインの華麗なる覚醒_BIRDS_OF_PREY "wikilink")** | 2020年3月20日 |    | ○  |        |
+| **[パラサイト 半地下の家族](https://ja.wikipedia.org/wiki/パラサイト_半地下の家族 "wikilink")**                                   | 2020年6月12日 |    | ○  |        |
+| **[ドクター・ドリトル](https://ja.wikipedia.org/wiki/ドクター・ドリトル_\(2020年の映画\) "wikilink")**                            | 2020年6月19日 |    | ○  |        |
 
 ### 邦画
 

@@ -3,7 +3,7 @@
 
 [代替文=](https://ja.wikipedia.org/wiki/ファイル:PASGT_vest_and_helmet,_1991.jpg "wikilink") **PASGT**（Personnel Armor System for Ground Troops、パスゲット）は、[アメリカ軍](../Page/アメリカ軍.md "wikilink")で採用されていた[ボディアーマー](../Page/ボディアーマー.md "wikilink")と[戦闘用ヘルメット](https://ja.wikipedia.org/wiki/戦闘用ヘルメット "wikilink")の名称である。
 
-**PASGTヘルメット** (Personnel Armor System for Ground Troops Helmet、個人防護システム向け地上兵ヘルメット) と**PASGTベスト** (Personnel Armor System for Ground Troops Vest、個人防護システム向け地上兵ヴェスト) から構成されている。
+**PASGTヘルメット** (Personnel Armor System for Ground Troops Helmet、個人防護システム向け地上兵ヘルメット) と**PASGTベスト** (Personnel Armor System for Ground Troops Vest、個人防護システム向け地上兵ヴェスト) から構成されている。 __TOC__{{-}}
 
 ## PASGTヘルメット
 
@@ -11,7 +11,7 @@
 
 M1ヘルメットは金属製だったが、PASGTは[ケブラー](../Page/ケブラー.md "wikilink")製になっており、重量はエキストラスモールで3.1ポンド、エキストララージで4.2ポンド。[NIJ規格](../Page/NIJ規格.md "wikilink")レベルIIの防護性能を有しており、[9x19mmパラベラム弾](../Page/9x19mmパラベラム弾.md "wikilink")や[.357マグナム弾などの拳銃弾や砲弾の破片などを阻止することが出来るが](../Page/マグナム_\(実包\).md "wikilink")、[小銃](../Page/小銃.md "wikilink")弾を防ぐことは出来ない。ヘルメット前部にはAN/PVS-7や[AN/PVS-14](https://ja.wikipedia.org/wiki/AN/PVS-14 "wikilink")などの[ナイトビジョン](https://ja.wikipedia.org/wiki/ナイトビジョン "wikilink")を装着することが可能となっている。
 
-使い勝手に優れたそのデザインは[NATO加盟国や](../Page/北大西洋条約機構.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")など[西側諸国](../Page/西側諸国.md "wikilink")の軍隊や警察特殊部隊で広く採用され、[冷戦](../Page/冷戦.md "wikilink")終結後は[ロシア](../Page/ロシア.md "wikilink")や[中国などでもデザインが採用されている](../Page/中華人民共和国.md "wikilink")。
+使い勝手に優れたそのデザインは[NATO加盟国や](../Page/北大西洋条約機構.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")など[西側諸国](../Page/西側諸国.md "wikilink")の軍隊や警察[特殊部隊](../Page/特殊部隊.md "wikilink")で広く採用され、[冷戦](../Page/冷戦.md "wikilink")終結後は[ロシア](../Page/ロシア.md "wikilink")や[中国などでもデザインが採用されている](../Page/中華人民共和国.md "wikilink")。
 
 [北朝鮮では当初](../Page/朝鮮民主主義人民共和国.md "wikilink")、特殊部隊をはじめとする一部の精鋭部隊にのみ配備されていたが、[2013年](../Page/2013年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")の[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")休戦60周年記念の軍事パレードで、行進する一般[歩兵](../Page/歩兵.md "wikilink")部隊や軍用車両に搭乗している兵士のヘルメットが今までの旧[ソ連風の鉄製ヘルメットと異なり](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")、[中国人民解放軍](../Page/中国人民解放軍.md "wikilink")と同タイプのPASGTヘルメットや[QGF-02ヘルメット](https://ja.wikipedia.org/wiki/QGF-02ヘルメット "wikilink")に置き換わっていることが映像で確認できる。そのため徐々に普及しているものと思われる。
 
@@ -27,7 +27,7 @@ NIJ規格レベルIIIAの防護性能を有しており、[.44マグナム弾や
 
 旧式化が進んだため2000年代前半に[インターセプターボディアーマー](../Page/インターセプターボディアーマー.md "wikilink")に更新された。
 
-北朝鮮では中国人民解放軍と同タイプのPASGTベストが特殊部隊をはじめとする一部の精鋭部隊にのみ配備されている。{{-}}
+北朝鮮では[中国人民解放軍](../Page/中国人民解放軍.md "wikilink")と同タイプのPASGTベストが特殊部隊をはじめとする一部の精鋭部隊にのみ配備されている。{{-}}
 
 ## 関連項目
 

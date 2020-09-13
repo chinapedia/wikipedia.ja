@@ -111,7 +111,7 @@
   - コンバットフライトシミュレータ2 アドオンシリーズ（旧ペンギンワークス（現エアロシム））
       - 1 珊瑚海・雷撃隊
       - 2 海軍迎撃隊
-      - 3 太平洋機動部隊 パールハーバー・ミッドウェイ作​戦
+      - 3 太平洋機動部隊 パールハーバー・ミッドウェイ作戦
   - 闘いの翼（[アルファプロジェクト](https://ja.wikipedia.org/wiki/アルファプロジェクト "wikilink")） - [ダウンロード販売版「デジタルプラモデルシリーズ」](http://n.shop.vector.co.jp/service/list/maker/SA009262/index.html)は、パッケージ版で一括収録していた三機種（[飛燕](../Page/三式戦闘機.md "wikilink")、[雷電](../Page/雷電_\(航空機\).md "wikilink")、[彗星](https://ja.wikipedia.org/wiki/彗星_\(航空機\) "wikilink")）機体データがバラ売りとなっている（同じくパッケージ版に収録していたミッション・シナリオ収録有無は調査中）。[公式HP](http://www.apnet.co.jp/software/wings.html)
   - [MiG-21](https://ja.wikipedia.org/wiki/MiG-21 "wikilink") Interceptor（Just Flight）
   - [BATTLE of BRITAIN](../Page/バトル・オブ・ブリテン.md "wikilink") Memorial Flight（Just Flight）

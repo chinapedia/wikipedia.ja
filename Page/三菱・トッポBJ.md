@@ -1,9 +1,7 @@
 > この記事は[三菱・トッポBJ](https://ja.wikipedia.org/wiki/三菱・トッポBJ)から翻訳されています。
 
 
-**トッポBJ**（トッポ・ビージェイ、*Toppo BJ*）は、[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")がかつて製造・販売していた[軽トールワゴン](https://ja.wikipedia.org/wiki/軽トールワゴン "wikilink")である。「トッポ」を冠する車種として通算3代目。
-
-[2004年](../Page/2004年.md "wikilink")に一旦販売を終了したが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月17日](../Page/9月17日.md "wikilink")に2代目[eKスポーツの主要コンポーネンツを流用しながら各部に改良を加え](https://ja.wikipedia.org/wiki/三菱・eKスポーツ "wikilink")「[トッポ](https://ja.wikipedia.org/wiki/三菱・トッポ "wikilink")」として販売を開始し、事実上のブランド復活を果たしたが、2013年に販売終了した。
+**トッポBJ**（トッポ・ビージェイ、*Toppo BJ*）は、[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")がかつて製造・販売していた[軽トールワゴン](https://ja.wikipedia.org/wiki/軽トールワゴン "wikilink")である。「トッポ」を冠する車種としては通算3代目。
 
 ## 概要
 

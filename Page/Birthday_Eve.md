@@ -27,4 +27,4 @@
 
   - [公式サイト作品紹介ページ Birthday Eve](https://rhythmzone.net/koda/discography/detail.php?c=single&id=1004178)
 
-[Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:森元康介が制作した楽曲](https://ja.wikipedia.org/wiki/Category:森元康介が制作した楽曲 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")
+[Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:森元康介が制作した楽曲](https://ja.wikipedia.org/wiki/Category:森元康介が制作した楽曲 "wikilink") [Category:誕生日を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:誕生日を題材とした楽曲 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")

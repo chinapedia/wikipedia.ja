@@ -44,19 +44,23 @@
 
 ## 参加ミュージシャン
 
+  - 栗林誠一郎 - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[ギター](../Page/ギター.md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[バッキング・ボーカル](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - [青木智仁](../Page/青木智仁.md "wikilink") - ベース
   - [明石昌夫](../Page/明石昌夫.md "wikilink") - ベース、キーボード
   - [葉山たけし](../Page/葉山たけし.md "wikilink") - ギター
   - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink") - ギター
+  - Jun Sumida - ギター
+  - Haruo Togashi - キーボード
   - [小野塚晃](../Page/小野塚晃.md "wikilink") - キーボード
   - [増田隆宣](../Page/増田隆宣.md "wikilink") - キーボード
-  - [勝田一樹](../Page/勝田一樹.md "wikilink") - サックス
+  - [勝田一樹](../Page/勝田一樹.md "wikilink") - [サックス](../Page/サクソフォーン.md "wikilink")
   - [土岐英史](../Page/土岐英史.md "wikilink") - サックス
-  - [青山純](../Page/青山純.md "wikilink") - ドラム
+  - [青山純](../Page/青山純.md "wikilink") - [ドラム](../Page/ドラムセット.md "wikilink")
   - [江口信夫](https://ja.wikipedia.org/wiki/江口信夫 "wikilink") - ドラム
   - 渡嘉敷祐一 - ドラム
-  - 数原晋 - トランペット
-  - [斎藤ノブ](https://ja.wikipedia.org/wiki/斎藤ノブ "wikilink") - パーカッション
+  - 数原晋 - [トランペット](../Page/トランペット.md "wikilink")
+  - Keita Miyahara - [トロンボーン](../Page/トロンボーン.md "wikilink")
+  - [斎藤ノブ](https://ja.wikipedia.org/wiki/斎藤ノブ "wikilink") - [パーカッション](../Page/パーカッション.md "wikilink")
 
 ## 関連項目
 

@@ -84,4 +84,4 @@
   - [bounce.comのORANGENOISE SHORTCUT特集](http://www.bounce.com/interview/article.php/1777)bounce.com
   - [Softly\!](http://www.softly.jp/)所属レコード会社公式ウェブサイト
 
-[Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")
+[Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink")

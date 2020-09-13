@@ -57,7 +57,7 @@
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p>4月の雪<MOMO Version></p></td>
+<td><p>4月の雪 <MOMO VERSION></p></td>
 <td><p>テレビアニメ『<a href="../Page/魔法のプリンセス_ミンキーモモ.md" title="wikilink">魔法のプリンセス ミンキーモモ</a>』イメージソング</p></td>
 <td><p>MINKY MOMO “LOVE STAGE”</p></td>
 <td><p>1993年3月5日</p></td>
@@ -75,7 +75,7 @@
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p>ROCKで行こう<NEW VERSION></p></td>
+<td><p>ROCKで行こう <NEW VERSION></p></td>
 <td><p>OVA『万能文化猫娘』イメージソング</p></td>
 <td><p>万能文化猫娘 SOUND PHASE-0V（原曲）</p></td>
 <td><p>1993年6月23日</p></td>
@@ -84,7 +84,7 @@
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p>Only One<NEW VERSION></p></td>
+<td><p>Only One <NEW VERSION></p></td>
 <td><p>OVA『万能文化猫娘』イメージソング</p></td>
 <td><p>万能文化猫娘 SOUND PHASE-0IV（原曲）</p></td>
 <td><p>1993年4月21日</p></td>
@@ -120,7 +120,7 @@
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p>ララバイ☆あ・げ・た・い<NEW VERSION></p></td>
+<td><p>ララバイ☆あ・げ・た・い <NEW VERSION></p></td>
 <td><p>OVA『<a href="https://ja.wikipedia.org/wiki/NG騎士ラムネ&amp;40_DX_ワクワク時空_炎の大捜査戦" title="wikilink">NG騎士ラムネ&amp;40 DX ワクワク時空 炎の大捜査戦</a>』イメージソング</p></td>
 <td><p>NG騎士ラムネ＆40DX ワクワク時空 炎の海賊盤 III（原曲）</p></td>
 <td><p>1993年5月21日</p></td>
@@ -138,7 +138,7 @@
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
-<td><p>In The Fluffy MOON Nite<NEW VERSION></p></td>
+<td><p>In The Fluffy MOON Nite <NEW VERSION></p></td>
 <td><p>OVA『万能文化猫娘』イメージソング</p></td>
 <td><p>万能文化猫娘 SOUND PHASE-0I（原曲）</p></td>
 <td><p>1992年9月26日</p></td>
@@ -148,7 +148,7 @@
 </tr>
 <tr class="even">
 <td><p>14</p></td>
-<td><p>LOOKIN' FOR LOVE<NEW VERSION></p></td>
+<td><p>LOOKIN' FOR LOVE <NEW VERSION></p></td>
 <td><p>ラジオドラマ熱血電波倶楽部『影技 -SHADOW SKILL-』オープニングテーマ</p></td>
 <td><p>LOOKIN'FOR LOVE（原曲）</p></td>
 <td><p>1993年5月21日</p></td>

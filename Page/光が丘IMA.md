@@ -81,7 +81,7 @@
 
 <!-- end list -->
 
-  - ダイソー光が丘IMA店
+  - [ダイソー光が丘IMA店](https://ja.wikipedia.org/wiki/大創産業 "wikilink")
   - 光が丘サザン
 
 ## 駐車場
@@ -92,13 +92,19 @@
 
 ## 脚注
 
+## 関連項目
+
+  - [光が丘](https://ja.wikipedia.org/wiki/光が丘 "wikilink") / [光が丘駅](https://ja.wikipedia.org/wiki/光が丘駅 "wikilink")
+  - [リヴィン](../Page/リヴィン.md "wikilink") / [西友](../Page/西友.md "wikilink")
+  - [忠実屋](../Page/忠実屋.md "wikilink") / [過去に存在したダイエーの店舗](../Page/過去に存在したダイエーの店舗.md "wikilink")
+
 ## 外部リンク
 
   - [光が丘IMA](http://www.ima-hikarigaoka.jp/)
   - [IMAホール](http://www.ima-hikarigaoka.jp/imahall/)
   - [光が丘IMA（新都市ライフホールディングス公式サイト内の紹介ページ）](http://www.nul.co.jp/institutions/?p=1)
 
-[Category:練馬区の建築物](https://ja.wikipedia.org/wiki/Category:練馬区の建築物 "wikilink") [Category:イオングループの商業施設](https://ja.wikipedia.org/wiki/Category:イオングループの商業施設 "wikilink") [Category:ダイエーの歴史](https://ja.wikipedia.org/wiki/Category:ダイエーの歴史 "wikilink") [Category:東京都区部のショッピングセンター](https://ja.wikipedia.org/wiki/Category:東京都区部のショッピングセンター "wikilink") [Category:1987年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:1987年竣工の日本の建築物 "wikilink")
+[Category:練馬区の建築物](https://ja.wikipedia.org/wiki/Category:練馬区の建築物 "wikilink") [Category:西友](https://ja.wikipedia.org/wiki/Category:西友 "wikilink") [Category:イオングループの商業施設](https://ja.wikipedia.org/wiki/Category:イオングループの商業施設 "wikilink") [Category:ダイエーの歴史](https://ja.wikipedia.org/wiki/Category:ダイエーの歴史 "wikilink") [Category:東京都区部のショッピングセンター](https://ja.wikipedia.org/wiki/Category:東京都区部のショッピングセンター "wikilink") [Category:1987年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:1987年竣工の日本の建築物 "wikilink")
 
 1.
 2.

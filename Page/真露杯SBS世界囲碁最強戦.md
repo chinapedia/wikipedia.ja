@@ -41,7 +41,7 @@
 <td><p>韓国（6-4）</p></td>
 <td><p>日本（5-5）</p></td>
 <td><p>中国（3-5）</p></td>
-<td><p><a href="../Page/宮沢吾朗.md" title="wikilink">宮沢吾朗</a>（<a href="https://ja.wikipedia.org/wiki/邵煒剛" title="wikilink">邵煒剛</a>）<br />
+<td><p><a href="../Page/宮沢吾朗.md" title="wikilink">宮沢吾朗</a>（<a href="../Page/邵煒剛.md" title="wikilink">邵煒剛</a>）<br />
 <a href="../Page/劉昌赫.md" title="wikilink">劉昌赫</a>（宮沢、<a href="../Page/兪斌.md" title="wikilink">兪斌</a>）<br />
 <a href="../Page/依田紀基.md" title="wikilink">依田紀基</a>（劉）<br />
 <a href="../Page/曹大元.md" title="wikilink">曹大元</a>（依田、<a href="https://ja.wikipedia.org/wiki/張秀英" title="wikilink">張秀英</a>、<a href="../Page/淡路修三.md" title="wikilink">淡路修三</a>）<br />

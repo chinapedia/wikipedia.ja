@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に織田哲郎を中心に結成された。[1999年](../Page/1999年.md "wikilink")12月に活動休止。翌年、織田がソロ活動を再開した。織田曰く、「早くこのバンドを復活したい」とのこと。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に織田哲郎を中心に結成された。[1999年](../Page/1999年.md "wikilink")12月に活動休止。翌年、織田がソロ活動を再開した。織田曰く、「早くこのバンドを復活したい」とのこと。 現在、全ＣＤは廃盤となっており、配信等もされていないため、楽曲はＣＤのみでしか聴くことができない。
 
 ## メンバー
 
@@ -19,10 +19,18 @@
 ### シングル
 
   - [Don't Look Back](https://ja.wikipedia.org/wiki/Don't_Look_Back_\(DON'T_LOOK_BACKの曲\) "wikilink") (1998/04/29)
-  - [必要なのは君。](https://ja.wikipedia.org/wiki/必要なのは君。 "wikilink") (1999/04/07)
-  - [Baby Don't Cry](https://ja.wikipedia.org/wiki/Baby_Don't_Cry_\(DON'T_LOOK_BACKの曲\) "wikilink") (1999/06/23)[TBS系列](../Page/TBSテレビ.md "wikilink")[COUNT DOWN TVオープニングテーマ](../Page/COUNT_DOWN_TV.md "wikilink")
-  - [モンキー魂](https://ja.wikipedia.org/wiki/モンキー魂 "wikilink") (1999/09/08)
-  - [Party Goes On](https://ja.wikipedia.org/wiki/Party_Goes_On "wikilink") (1999/11/25)
+  - 必要なのは君。 (1999/04/07)
+      -
+        僕はミサイル
+  - Baby Don't Cry (1999/06/23)　※[TBS系列](../Page/TBSテレビ.md "wikilink")[COUNT DOWN TVオープニングテーマ](../Page/COUNT_DOWN_TV.md "wikilink")
+      -
+        Motor Man(Boostar mix)
+  - モンキー魂 (1999/09/08)
+      -
+        Melody of Love
+  - Party Goes On (1999/11/25) ※ミズノ「スーパースター」CMソング
+      -
+        Ru-ten -流転-　※武田薬品「アリナミンA」CMソング
 
 ### アルバム
 

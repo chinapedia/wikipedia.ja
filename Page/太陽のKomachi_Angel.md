@@ -1,7 +1,7 @@
 > この記事は[太陽のKomachi Angel](https://ja.wikipedia.org/wiki/太陽のKomachi_Angel)から翻訳されています。
 
 
-「**太陽のKomachi Angel**」(たいようのコマチエンジェル) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[6月13日](../Page/6月13日.md "wikilink")に[BMGルームスより](../Page/VERMILLION_RECORDS.md "wikilink")5作目の[シングル](../Page/シングル.md "wikilink")として発売された。
+「**太陽のKomachi Angel**」(たいようのコマチエンジェル) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。1990年6月13日に[BMGルームスより](../Page/VERMILLION_RECORDS.md "wikilink")5作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 

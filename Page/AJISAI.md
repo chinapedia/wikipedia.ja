@@ -572,4 +572,4 @@ DLCR-11012:通常盤</p></td>
 
   -   -
   -
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink") [Category:2014年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2014年に解散した音楽グループ "wikilink")
+[Category:日本のポップ・バンド](https://ja.wikipedia.org/wiki/Category:日本のポップ・バンド "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink") [Category:2014年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2014年に解散した音楽グループ "wikilink")

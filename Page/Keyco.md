@@ -1,7 +1,7 @@
 > この記事は[Keyco](https://ja.wikipedia.org/wiki/Keyco)から翻訳されています。
 
 
-**Keyco**（キイコ、[1974年](../Page/1974年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") - ）は[東京都](../Page/東京都.md "wikilink")出身の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")である。
+**Keyco**（キイコ、[1974年](../Page/1974年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") - ）は[東京都](../Page/東京都.md "wikilink")[昭島市](../Page/昭島市.md "wikilink")\[1\]出身の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")である。
 
 ## 概要
 
@@ -346,6 +346,8 @@
   - [やじうまワイド](../Page/やじうまワイド.md "wikilink")
   - [ライジング・サン・ロックフェスティバル](../Page/ライジング・サン・ロックフェスティバル.md "wikilink")
 
+## 脚注・出典
+
 ## 外部リンク
 
   - [公式サイト](http://www.keyco.jp/)
@@ -355,3 +357,5 @@
   - [keyco select子どもたちに聴かせたい、伝えたい10曲:MUSICSHELF](http://musicshelf.jp/?mode=static&html=special02/selector05)
 
 [Category:日本の女性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の女性シンガーソングライター "wikilink") [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:日本のレゲエ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のレゲエ・ミュージシャン "wikilink") [Category:1974年生](https://ja.wikipedia.org/wiki/Category:1974年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink")
+
+1.

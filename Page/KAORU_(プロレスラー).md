@@ -122,7 +122,7 @@
 
 <!-- end list -->
 
-  - 4月の[長与千種](../Page/長与千種.md "wikilink")プロデュース興行Marvelous Night Miracle Game KAORU復帰戦にて、[大日本プロレス](../Page/大日本プロレス.md "wikilink")の[関本大介](../Page/関本大介.md "wikilink")、[アブドーラ小林](../Page/アブドーラ小林.md "wikilink")と組み、KAORUの復帰戦のために一夜限りの復帰をした長与千種、大日本プロレスの[伊東竜二](../Page/伊東竜二.md "wikilink")、[佐々木貴](../Page/佐々木貴.md "wikilink")組を相手にハードコアマッチで復帰戦を行い、長与千種からエクスカリバーでピンフォール勝ちを収めた。以降は[尾崎魔弓](../Page/尾崎魔弓.md "wikilink")が主宰する『[OZアカデミー](../Page/OZアカデミー.md "wikilink")』を中心に活動している。
+  - 4月の[長与千種](../Page/長与千種.md "wikilink")プロデュース興行Marvelous Night Miracle Game KAORU復帰戦にて、[大日本プロレス](../Page/大日本プロレス.md "wikilink")の[関本大介](../Page/関本大介.md "wikilink")、[アブドーラ小林と組み](../Page/アブドーラ・小林.md "wikilink")、KAORUの復帰戦のために一夜限りの復帰をした長与千種、大日本プロレスの[伊東竜二](../Page/伊東竜二.md "wikilink")、[佐々木貴](../Page/佐々木貴.md "wikilink")組を相手にハードコアマッチで復帰戦を行い、長与千種からエクスカリバーでピンフォール勝ちを収めた。以降は[尾崎魔弓](../Page/尾崎魔弓.md "wikilink")が主宰する『[OZアカデミー](../Page/OZアカデミー.md "wikilink")』を中心に活動している。
 
 <!-- end list -->
 

@@ -17,7 +17,7 @@
 
 ## 連載作品
 
-※2020年5月号時点。作品名五十音順。
+※2020年8月号時点。作品名五十音順。
 
   - [アレンとドラン](https://ja.wikipedia.org/wiki/アレンとドラン "wikilink")（[麻生みこと](../Page/麻生みこと.md "wikilink")）：2016年5月号 -
   - [美しいこと](https://ja.wikipedia.org/wiki/美しいこと "wikilink")（原作：[木原音瀬](https://ja.wikipedia.org/wiki/木原音瀬 "wikilink")、漫画：[犬井ナオ](https://ja.wikipedia.org/wiki/犬井ナオ "wikilink")）：2020年5月号 -
@@ -38,7 +38,6 @@
   - [七つ屋 志のぶの宝石匣](https://ja.wikipedia.org/wiki/七つ屋_志のぶの宝石匣 "wikilink")（[二ノ宮知子](../Page/二ノ宮知子.md "wikilink")）：2014年1月号 -
   - [涙雨とセレナーデ](https://ja.wikipedia.org/wiki/涙雨とセレナーデ "wikilink")（[河内遙](https://ja.wikipedia.org/wiki/河内遙 "wikilink")）：2015年1月号 -
   - [パーフェクトワールド](https://ja.wikipedia.org/wiki/パーフェクトワールド_\(有賀リエの漫画\) "wikilink")（[有賀リエ](https://ja.wikipedia.org/wiki/有賀リエ "wikilink")）：2014年5月号 -
-  - [パルノグラフィティ](../Page/パルノグラフィティ.md "wikilink")（[板垣巴留](https://ja.wikipedia.org/wiki/板垣巴留 "wikilink")）：2019年11月号 -
   - [ホタルノヒカリ BABY](../Page/ホタルノヒカリ_\(漫画\).md "wikilink")（[ひうらさとる](../Page/ひうらさとる.md "wikilink")）：2017年12月号 -
   - [御手洗家、炎上する](https://ja.wikipedia.org/wiki/御手洗家、炎上する "wikilink")（[藤沢もやし](https://ja.wikipedia.org/wiki/藤沢もやし "wikilink")）：2017年5月号 -
   - [無能の鷹](https://ja.wikipedia.org/wiki/無能の鷹 "wikilink")（[はんざき朝未](https://ja.wikipedia.org/wiki/はんざき朝未 "wikilink")）：2019年8月号 -
@@ -147,6 +146,7 @@
   - [花咲舞が黙ってない](https://ja.wikipedia.org/wiki/花咲舞が黙ってない#漫画 "wikilink")（原作：[池井戸潤](../Page/池井戸潤.md "wikilink")、漫画：六多いくみ）
   - 花吐き乙女（[松田奈緒子](https://ja.wikipedia.org/wiki/松田奈緒子 "wikilink")）
   - [バラ色の聖戦](https://ja.wikipedia.org/wiki/バラ色の聖戦 "wikilink")（こやまゆかり）
+  - [パルノグラフィティ](../Page/パルノグラフィティ.md "wikilink")（[板垣巴留](https://ja.wikipedia.org/wiki/板垣巴留 "wikilink")）
   - ヒゲの妊婦 (43)（ひうらさとる）
   - [ひゃほ〜♪ウニファミリー](https://ja.wikipedia.org/wiki/ひゃほ〜♪ウニファミリー "wikilink")（鈴木由美子）
   - ブルーバードブルー（楠田夏子）

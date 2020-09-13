@@ -27,8 +27,9 @@
   - 桂三枝（後の[六代桂文枝](../Page/桂文枝_\(6代目\).md "wikilink")） - 『HOTめだま』への改題リニューアルとともに司会に昇格。
   - [景山民夫](../Page/景山民夫.md "wikilink")
   - [早坂茂三](../Page/早坂茂三.md "wikilink")
-  - 松本均
+  - [和田勉](../Page/和田勉.md "wikilink")
   - [木村晋介](../Page/木村晋介.md "wikilink")
+  - [松本均](../Page/松本均.md "wikilink")
   - ほか
 
 ### ナレーター

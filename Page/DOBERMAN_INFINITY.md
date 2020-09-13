@@ -142,6 +142,7 @@
 | 2014年8月27日 | INFINITY            |
 | 2015年2月27日 | Tomorrow Never Dies |
 | 2020年5月8日  | 2020                |
+| 2020年8月21日 | INFINITY ZOO        |
 
 ### コラボレーションシングル
 
@@ -271,21 +272,22 @@
 
 ### 参加作品（ソロ参加も含む）
 
-| 発売日                   | 曲名                                                     | 収録作品                                                                                                                                                                     |
-| --------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2014年8月27日            | 24WORLD                                                | [EXILE TRIBE](https://ja.wikipedia.org/wiki/EXILE_TRIBE "wikilink")『[EXILE TRIBE REVOLUTION](https://ja.wikipedia.org/wiki/EXILE_TRIBE_REVOLUTION "wikilink")』           |
-| WON'T BE LONG         |                                                        |                                                                                                                                                                          |
-| 2014年10月22日           | Loveholic (EXILE SHOKICHI feat.DOBERMAN INFINITY)      | [EXILE SHOKICHI](https://ja.wikipedia.org/wiki/SHOKICHI "wikilink")「[The One](https://ja.wikipedia.org/wiki/The_One_\(曲\) "wikilink")」                                   |
-| 2014年10月29日           | First Christmas                                        | [EXILE ATSUSHI](https://ja.wikipedia.org/wiki/ATSUSHI_\(歌手\) "wikilink")「[Precious Love](https://ja.wikipedia.org/wiki/Precious_Love_\(ATSUSHIの曲\) "wikilink")」          |
-| 2016年6月15日            | Do or Die                                              | V.A.『[HiGH\&LOW ORIGINAL BEST ALBUM](https://ja.wikipedia.org/wiki/HiGH&LOW_ORIGINAL_BEST_ALBUM "wikilink")』                                                             |
-| VOICE OF RED feat. GS |                                                        |                                                                                                                                                                          |
-| Hell On Earth         |                                                        |                                                                                                                                                                          |
-| 2017年2月1日             | PREMIUM TEQUILA feat. DOBERMAN INFINITY                | [DANCE EARTH PARTY](https://ja.wikipedia.org/wiki/DANCE_EARTH#DANCE_EARTH_PARTY "wikilink") 『[I](https://ja.wikipedia.org/wiki/I_\(DANCE_EARTH_PARTYのアルバム\) "wikilink")』 |
-| 2017年6月21日            | Takers feat. DOBERMAN INFINITY                         | [JAY'ED](../Page/JAY'ED.md "wikilink")『Here I Stand』                                                                                                                     |
-| 2017年8月2日             | UNITY feat. DOBERMAN INFINITY                          | [PKCZ](https://ja.wikipedia.org/wiki/PKCZ "wikilink")『[360° ChamberZ](https://ja.wikipedia.org/wiki/360°_ChamberZ "wikilink")』                                           |
-| 2018年7月11日            | RED SOUL BLUE DRAGON                                   | [RED DIAMOND DOGS](https://ja.wikipedia.org/wiki/RED_DIAMOND_DOGS "wikilink") feat. DOBERMAN INFINITY, JAY'ED, MABU「RED SOUL BLUE DRAGON」                                |
-| 2019年3月6日             | こんにちWhat's Up\! Remix feat. DOBERMAN INFINITY          | [スダンナユズユリー](https://ja.wikipedia.org/wiki/スダンナユズユリー "wikilink")『[SYY](https://ja.wikipedia.org/wiki/SYY_\(スダンナユズユリーのアルバム\) "wikilink")』                                  |
-| 2020年1月15日            | Can't Stop Won't Stop feat. DOBERMAN INFINITY & VERBAL | RUN THE FLOOR®『THE 4CE』                                                                                                                                                  |
+| 発売日                   | 曲名                                                     | 収録作品                                                                                                                                                                                                                |
+| --------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2014年8月27日            | 24WORLD                                                | [EXILE TRIBE](https://ja.wikipedia.org/wiki/EXILE_TRIBE "wikilink")『[EXILE TRIBE REVOLUTION](https://ja.wikipedia.org/wiki/EXILE_TRIBE_REVOLUTION "wikilink")』                                                      |
+| WON'T BE LONG         |                                                        |                                                                                                                                                                                                                     |
+| 2014年10月22日           | Loveholic (EXILE SHOKICHI feat.DOBERMAN INFINITY)      | [EXILE SHOKICHI](https://ja.wikipedia.org/wiki/SHOKICHI "wikilink")「[The One](https://ja.wikipedia.org/wiki/The_One_\(曲\) "wikilink")」                                                                              |
+| 2014年10月29日           | First Christmas                                        | [EXILE ATSUSHI](https://ja.wikipedia.org/wiki/ATSUSHI_\(歌手\) "wikilink")「[Precious Love](https://ja.wikipedia.org/wiki/Precious_Love_\(ATSUSHIの曲\) "wikilink")」                                                     |
+| 2016年6月15日            | Do or Die                                              | V.A.『[HiGH\&LOW ORIGINAL BEST ALBUM](https://ja.wikipedia.org/wiki/HiGH&LOW_ORIGINAL_BEST_ALBUM "wikilink")』                                                                                                        |
+| VOICE OF RED feat. GS |                                                        |                                                                                                                                                                                                                     |
+| Hell On Earth         |                                                        |                                                                                                                                                                                                                     |
+| 2017年2月1日             | PREMIUM TEQUILA feat. DOBERMAN INFINITY                | [DANCE EARTH PARTY](https://ja.wikipedia.org/wiki/DANCE_EARTH#DANCE_EARTH_PARTY "wikilink") 『[I](https://ja.wikipedia.org/wiki/I_\(DANCE_EARTH_PARTYのアルバム\) "wikilink")』                                            |
+| 2017年6月21日            | Takers feat. DOBERMAN INFINITY                         | [JAY'ED](../Page/JAY'ED.md "wikilink")『Here I Stand』                                                                                                                                                                |
+| 2017年8月2日             | UNITY feat. DOBERMAN INFINITY                          | [PKCZ](https://ja.wikipedia.org/wiki/PKCZ "wikilink")『[360° ChamberZ](https://ja.wikipedia.org/wiki/360°_ChamberZ "wikilink")』                                                                                      |
+| 2018年7月11日            | RED SOUL BLUE DRAGON                                   | [RED DIAMOND DOGS](https://ja.wikipedia.org/wiki/RED_DIAMOND_DOGS "wikilink") feat. DOBERMAN INFINITY, JAY'ED, MABU「[RED SOUL BLUE DRAGON](https://ja.wikipedia.org/wiki/Suddenly/RED_SOUL_BLUE_DRAGON "wikilink")」 |
+| 2019年3月6日             | こんにちWhat's Up\! Remix feat. DOBERMAN INFINITY          | [スダンナユズユリー](https://ja.wikipedia.org/wiki/スダンナユズユリー "wikilink")『[SYY](https://ja.wikipedia.org/wiki/SYY_\(スダンナユズユリーのアルバム\) "wikilink")』                                                                             |
+| 2020年1月15日            | Can't Stop Won't Stop feat. DOBERMAN INFINITY & VERBAL | RUN THE FLOOR®『THE 4CE』                                                                                                                                                                                             |
+| 2020年6月10日            | HOOD LOVE                                              | NATO a.k.a. Fresh Loc feat. KAZUKI(DOBERMAN INFINITY) & KJI 「HOOD LOVE」                                                                                                                                             |
 
 ### 書籍
 
@@ -491,7 +493,7 @@ DOBERMAN INFINITY LIVE TOUR 2020 We are the one\[29\]
 
 <div class="NavContent" style="text-align: left;">
 
-*新型ウイルスによる政府の自粛要請に従い中止*
+*新型コロナウイルスによる政府の自粛要請に従い中止*
 
   - <s>3月07日：新潟・[新潟テルサ](https://ja.wikipedia.org/wiki/新潟テルサ "wikilink")
   - 3月17日：愛知・愛知県芸術劇場 大ホール
@@ -502,13 +504,13 @@ DOBERMAN INFINITY LIVE TOUR 2020 We are the one\[29\]
   - 6月27日：岐阜・[長良川国際会議場](../Page/長良川国際会議場.md "wikilink")
   - 7月02日：愛知・愛知県芸術劇場 大ホール（振替公演）
   - 7月07日：千葉・市川市文化会館 大ホール
-  - 7月17日：神奈川・[神奈川県民ホール](https://ja.wikipedia.org/wiki/神奈川県民ホール "wikilink") 大ホール</s>
+  - 7月17日：神奈川・[神奈川県民ホール](https://ja.wikipedia.org/wiki/神奈川県民ホール "wikilink") 大ホール
   - 9月11日：福岡・福岡サンパレス
   - 10月18日：大阪・大阪国際会議場 グランキューブ大阪 メインホール
   - 11月04日：兵庫・神戸国際会館 こくさいホール
   - 11月20日：北海道・[カナモトホール](../Page/札幌市民ホール.md "wikilink")
   - 12月17日：埼玉・大宮ソニックシティ 大ホール
-  - 12月26日：静岡・アクトシティ浜松 大ホール
+  - 12月26日：静岡・アクトシティ浜松 大ホール</s>
 
 </div>
 
@@ -524,7 +526,7 @@ DOBERMAN INFINITY LIVE TOUR 2020 We are the one 〜PERFECT YEAH\!\!〜\[30\]
 
 <div class="NavContent" style="text-align: left;">
 
-*新型ウイルスによる政府の自粛要請に従い中止*
+*新型コロナウイルスによる政府の自粛要請に従い中止*
 
   - <s>3月28日：宮崎・宮崎WEATHER KING
   - 3月29日：鹿児島・鹿児島CAPARVO HALL
@@ -620,29 +622,34 @@ DOBERMAN INFINITY presents D.Island
       - DOGG YEAR 開幕（2018年1月18日）
       - アリーナツアーのUCHIAGE\!（2019年11月 - 12月）
 
+### 配信
+
+  - LIVE×ONLINE（2020年7月4日：ABEMA）\[32\]
+
 ## 出演
 
 ### ラジオ
 
-  - WE ALL CAN BE CONNECTED.（2015年10月 - 、[bayfm](../Page/ベイエフエム.md "wikilink")）\[32\]
+  - WE ALL CAN BE CONNECTED.（2015年10月 - 、[bayfm](../Page/ベイエフエム.md "wikilink")）\[33\]
 
 ### ネット配信
 
-  - 漢部 ～真ノ男道～\[33\]（其ノ二：2014年11月20日\[34\]、其ノ四：2015年1月20日\[35\]、[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")）
+  - 漢部 ～真ノ男道～\[34\]（其ノ二：2014年11月20日\[35\]、其ノ四：2015年1月20日\[36\]、[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")）
 
 ### ミュージックビデオ
 
-  - [EXILE THE SECOND](https://ja.wikipedia.org/wiki/EXILE_THE_SECOND "wikilink")「[YEAH\!\! YEAH\!\! YEAH\!\!](https://ja.wikipedia.org/wiki/YEAH!!_YEAH!!_YEAH!! "wikilink")」（2016年）\[36\]
+  - [EXILE THE SECOND](https://ja.wikipedia.org/wiki/EXILE_THE_SECOND "wikilink")「[YEAH\!\! YEAH\!\! YEAH\!\!](https://ja.wikipedia.org/wiki/YEAH!!_YEAH!!_YEAH!! "wikilink")」（2016年）\[37\]
 
 ### その他
 
-  - マリアナ観光大使（2019年）\[37\]
+  - マリアナ観光大使（2019年）\[38\]
+  - 日本の花火『エール』プロジェクト アンバサダー（2020年）\[39\]
 
 ## プロデュース
 
 ### アーティスト
 
-  - [BALLISTIK BOYZ from EXILE TRIBE](https://ja.wikipedia.org/wiki/BALLISTIK_BOYZ_from_EXILE_TRIBE "wikilink") （[EXILE HIROと共同プロデュース](../Page/五十嵐広行.md "wikilink")） \[38\]
+  - [BALLISTIK BOYZ from EXILE TRIBE](https://ja.wikipedia.org/wiki/BALLISTIK_BOYZ_from_EXILE_TRIBE "wikilink") （[EXILE HIROと共同プロデュース](../Page/五十嵐広行.md "wikilink")） \[40\]
 
 ## DOBERMAN INCの作品
 
@@ -792,10 +799,12 @@ DOBERMAN INFINITY presents D.Island
 29.
 30.
 31.
-32. [10/5mon. start\! WE ALL CAN BE CONNECTED.](http://bayfm78.net/ht/wacbc.htm)
-33.
+32.
+33. [10/5mon. start\! WE ALL CAN BE CONNECTED.](http://bayfm78.net/ht/wacbc.htm)
 34.
 35.
 36.
 37.
 38.
+39.
+40.

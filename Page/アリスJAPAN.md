@@ -46,11 +46,11 @@
 
 ### あ行
 
-  - [愛内希](https://ja.wikipedia.org/wiki/愛内希 "wikilink")（あいうち のぞみ、2012年4月27日 - 8月24日）
+  - 愛内希（あいうち のぞみ、2012年4月27日 - 8月24日）
   - [AIKA](https://ja.wikipedia.org/wiki/AIKA_\(AV女優\) "wikilink")（あいか、2011年9月23日）
-  - [愛花沙也](https://ja.wikipedia.org/wiki/愛花沙也 "wikilink")（あいか さや、2012年1月27日）
+  - 愛花沙也（あいか さや、2012年1月27日）
   - [愛川みう](https://ja.wikipedia.org/wiki/愛川みう "wikilink")（あいかわ みう、2009年9月 - 2010年2月）デビュー
-  - [あいかわゆら](../Page/あいかわゆら.md "wikilink")（2007年8月 - ）デビュー
+  - あいかわゆら（2007年8月 - ）デビュー
   - [愛澄玲花](https://ja.wikipedia.org/wiki/愛澄玲花 "wikilink")（あいずみ れいか、2010年9月24日EROTICAから「りょうこ」名義でデビュー - 2011年4月22日）
   - [相田すみれ](../Page/相田すみれ.md "wikilink")（あいだ すみれ、2004年1月 - ）デビュー
   - [愛音まひろ](https://ja.wikipedia.org/wiki/愛音まひろ "wikilink")（あいね まひろ、2010年4月23日 - 2011年6月24日）
@@ -68,13 +68,13 @@
   - [朝日奈あかり](https://ja.wikipedia.org/wiki/朝日奈あかり "wikilink")（あさひな あかり、2008年12月12日AVデビュー -2014年1月24日）
   - [麻美ゆま](../Page/麻美ゆま.md "wikilink")（あさみ ゆま、2005年10月28日 - 2013年5月24日）デビュー
   - [芦名未帆](https://ja.wikipedia.org/wiki/芦名未帆 "wikilink")（あしな まほ、2012年3月23日）
-  - [あづみ](https://ja.wikipedia.org/wiki/あづみ_\(AV女優\) "wikilink")（2010年4月23日 - 2012年8月24日）
+  - あづみ（2010年4月23日 - 2012年8月24日）
   - [雨宮琴音](https://ja.wikipedia.org/wiki/雨宮琴音 "wikilink")（あまみや ことね、2011年10月28日）
   - [天海麗](../Page/天海麗.md "wikilink")（あまみ れい、2005年10月21日 - 2007年1月26日）
   - [綾瀬美音](../Page/綾瀬美音.md "wikilink")（あやせ みおん、2007年6月 - ）デビュー
   - [綾瀬れん](https://ja.wikipedia.org/wiki/綾瀬れん "wikilink")（あやせ れん、2012年9月28日）
   - [彩名杏子](../Page/彩名杏子.md "wikilink")（あやな きょうこ、2001年8月 - ）デビュー
-  - [彩音さくら](https://ja.wikipedia.org/wiki/彩音さくら "wikilink")（あやね さくら、2011年1月28日 - 2012年8月24日）
+  - 彩音さくら（あやね さくら、2011年1月28日 - 2012年8月24日）
   - [綾乃](https://ja.wikipedia.org/wiki/綾乃 "wikilink")（あやの、1993年4月16日 - 6月11日）
   - [鮎川あみ](../Page/鮎川あみ.md "wikilink")（あゆかわ あみ、2001年4月20日 - 7月24日）
   - [有村千佳](https://ja.wikipedia.org/wiki/有村千佳 "wikilink")（ありむら ちか、2012年1月27日）
@@ -111,7 +111,7 @@
   - [金沢文子](../Page/金沢文子.md "wikilink")（かなざわ ぶんこ、1999年1月 - ）
   - [かなた美緒](https://ja.wikipedia.org/wiki/かなた美緒 "wikilink")（かなた みお、2010年12月24日）
   - [加納瑞穂](../Page/草凪純.md "wikilink")（かのう みずほ、1996年12月27日 - 1999年3月26日）
-  - **[川上奈々美](https://ja.wikipedia.org/wiki/川上奈々美 "wikilink")**（かわかみ ななみ、2012年1月13日AVデビュー - 最新作予定2015年5月22日）
+  - **[川上奈々美](https://ja.wikipedia.org/wiki/川上奈々美 "wikilink")**（かわかみ ななみ、2012年1月13日AVデビュー - ）
   - [川浜なつみ](../Page/川浜なつみ.md "wikilink")（かわはま なつみ、1996年9月25日 - 1998年9月25日）
   - [菅野さゆき](https://ja.wikipedia.org/wiki/菅野さゆき "wikilink")（かんの さゆき、2010年3月12日AVデビュー - 10月22日）
   - [管野しずか](https://ja.wikipedia.org/wiki/管野しずか "wikilink")（かんの しずか、2012年7月23日 - 10月26日）
@@ -191,7 +191,7 @@
   - [友田彩也香](https://ja.wikipedia.org/wiki/友田彩也香 "wikilink")（ともだ あやか、2011年7月22日 - 2012年8月24日）
   - [豊丸](https://ja.wikipedia.org/wiki/豊丸_\(AV女優\) "wikilink")（とよまる、1988年9月 - ）
   - [長澤あずさ](https://ja.wikipedia.org/wiki/長澤あずさ "wikilink")（ながさわ あずさ、2012年5月25日）
-  - **[長澤えりな](https://ja.wikipedia.org/wiki/長澤えりな "wikilink")**（ながさわ えりな、2013年11月8日AVデビュー - 最新作予定2015年5月8日）
+  - **[長澤えりな](https://ja.wikipedia.org/wiki/長澤えりな "wikilink")**（ながさわ えりな、2013年11月8日AVデビュー - ）
   - [永沢まおみ](https://ja.wikipedia.org/wiki/永沢まおみ "wikilink")（ながさわ まおみ、2011年12月23日）
   - [長瀬愛](../Page/長瀬愛.md "wikilink")（ながせ あい、1999年8月1日 - 2003年11月21日） 引退
   - [七海なな](../Page/七海なな.md "wikilink")（ななうみ なな、2007年10月12日AVデビュー - 2011年11月25日）引退
@@ -221,7 +221,7 @@
 
 ### ま行
 
-  - [眞木あずさ](https://ja.wikipedia.org/wiki/眞木あずさ "wikilink")（まき あずさ、2011年7月22日 - 2012年10月26日）
+  - 眞木あずさ（まき あずさ、2011年7月22日 - 2012年10月26日）
   - [松浦ひろみ](https://ja.wikipedia.org/wiki/松浦ひろみ "wikilink")（まつうら ひろみ、2010年2月 - ）
   - [松生彩](https://ja.wikipedia.org/wiki/松生彩 "wikilink")（まつき あや、2008年8月 - ）
   - [松下ひかり](https://ja.wikipedia.org/wiki/松下ひかり "wikilink")（まつした ひかり、2012年8月24日）
@@ -230,7 +230,7 @@
   - [黛ミキ](../Page/黛ミキ.md "wikilink")（まゆずみ みき、1993年5月 - ）
   - [まりか](https://ja.wikipedia.org/wiki/まりか "wikilink")（2010年7月23日 - 10月22日）
   - [茉莉花](https://ja.wikipedia.org/wiki/茉莉花 "wikilink")（まりか、2010年4月23日 - 2012年8月24日）
-  - [真梨邑ケイ](https://ja.wikipedia.org/wiki/真梨邑ケイ "wikilink")（まりむら けい、2009年9月25日AVデビュー - 最新作予定2012年10月26日）
+  - [真梨邑ケイ](https://ja.wikipedia.org/wiki/真梨邑ケイ "wikilink")（まりむら けい、2009年9月25日AVデビュー - ）
   - [三浦あいか](../Page/三浦あいか.md "wikilink")（みうら あいか、1997年10月17日 - 12月19日）
   - [美上セリ](../Page/美上セリ.md "wikilink")（みかみ せり、2006年11月 - ）デビュー
   - [美里有紗](https://ja.wikipedia.org/wiki/美里有紗 "wikilink")（みさと ありさ、2013-9-13日AVデビュー - 2014年12月26日）
@@ -251,7 +251,7 @@
   - [望月ちひろ](https://ja.wikipedia.org/wiki/望月ちひろ "wikilink")（もちづき ちひろ、2010年7月9日AVデビュー - 12月10日）
   - [百花エミリ](https://ja.wikipedia.org/wiki/百花エミリ "wikilink")（ももか えみり、2011年5月27日）
   - [百咲ひなの](../Page/百咲ひなの.md "wikilink")（ももさき ひなの、2007年7月 - ）デビュー
-  - [森川真羽](https://ja.wikipedia.org/wiki/森川真羽 "wikilink")（もりかわ まう、2012年9月28日）
+  - 森川真羽（もりかわ まう、2012年9月28日）
   - [森ななこ](../Page/森ななこ.md "wikilink")（もり ななこ、2011年7月22日）
 
 ### や・ら・わ行

@@ -15,9 +15,9 @@ BSデジタル放送の利点、ならびに当時の最新鋭機能を生かし
 
   - 『ハイビジョンナイター』の放送を取り止めて以降BSフジでのプロ野球中継は途絶えたが、代わりに[MLB中継がメインとなり](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")、プロ野球中継も自主制作はないものの僅かながら放送されていて、地上波フジテレビ系列で[オールスターゲーム](../Page/オールスターゲーム_\(日本プロ野球\).md "wikilink")・[日本シリーズを中継した年度には地上波との同時放送を行った](../Page/日本選手権シリーズ.md "wikilink")。しかしながら年間中継数は他の民放系BSデジタル放送局と比べて少なく\[1\]、後述の理由もあり有料放送のフジテレビONE・フジテレビTWOを優先せざるを得ない運営姿勢が露呈した格好になっている。さらにゴールデン・プライム枠では『[BSフジLIVE プライムニュース](https://ja.wikipedia.org/wiki/BSフジLIVE_プライムニュース "wikilink")』がスポンサーセールス面で増益に貢献するなど好調なため、\[2\]簡単に野球中継を編成できないという事情も重なっている。
   - 現在は神宮球場（地方球場開催試合も含む）のヤクルト対巨人戦や巨人戦以外のカードを年数試合を中継（何れもフジテレビ制作）し、対巨人戦では2015年からは[東海テレビ制作の](../Page/東海テレビ放送.md "wikilink")[中日戦](../Page/中日ドラゴンズ.md "wikilink")（地上波とは別制作）、[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")制作の[広島戦](../Page/広島東洋カープ.md "wikilink")（地上波同時放送\[3\]だが、2017年以降スコア表示\[4\]、2018年以降はテーマソング\[5\]をフジテレビ仕様に差し替え）も放送している。
-    2017年9月9日には[関西テレビ制作の](../Page/関西テレビ放送.md "wikilink")[阪神対横浜DeNA戦](../Page/阪神タイガース.md "wikilink")\[6\]を放送した。
+    2017年9月9日には[関西テレビ制作の](../Page/関西テレビ放送.md "wikilink")[阪神対横浜DeNA戦](../Page/阪神タイガース.md "wikilink")\[6\]を放送した。また、2020年9月4日には阪神対巨人戦を関西ローカルとの同時放送の形で初めて放送予定である。
   - [日本シリーズ](../Page/日本選手権シリーズ.md "wikilink")[放映権獲得を目的とした中継実績作りも兼ね](../Page/放映権_\(日本プロ野球\).md "wikilink")[パ・リーグ主催試合も](https://ja.wikipedia.org/wiki/パシフィック・リーグ "wikilink")、土曜デーゲームを中心に交流戦を含めて2013年から2015年までは地上波関東ローカルでの放送カードをリレー中継（ソフトバンク主催・日本ハム主催はフジテレビが地元局と別制作）で放送し、2016年からは関西テレビ制作の[オリックス戦](../Page/オリックス・バファローズ.md "wikilink")（地上波では対阪神戦は生中継かつ同時放送〈ナイター開催時は一部時間帯は裏送り〉\[7\]、それ以外は本番組を編集して深夜の録画中継）、2017年からは[テレビ西日本](../Page/テレビ西日本.md "wikilink")制作の[ソフトバンク戦](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")、[北海道文化放送](../Page/北海道文化放送.md "wikilink")制作の[日本ハム戦も地上波との同時ネットで中継している](../Page/北海道日本ハムファイターズ.md "wikilink")\[8\]。
-  - 2019年現在のBSフジにおける番組名は『**BSフジLIVE プロ野球（西暦)**』で放送。中継映像に対戦カード・テーマ曲に実況という形式で始まる。
+  - 2020年現在のBSフジにおける番組名は『**BSフジLIVE プロ野球（西暦)**』で放送。中継映像に対戦カード・テーマ曲に実況という形式で始まる。
 
 ## 脚注
 
@@ -50,7 +50,7 @@ BSデジタル放送の利点、ならびに当時の最新鋭機能を生かし
   - 『[S☆1 BASEBALL](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")』（[BS-TBS](../Page/BS-TBS.md "wikilink")、[TBS系列](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")）
   - 『[ALWAYS Baseball](../Page/ベースボールLive.md "wikilink")』（[BSテレビ東京](../Page/BSテレビ東京.md "wikilink")、[テレビ東京系列](../Page/TXNネットワーク.md "wikilink")）
   - 『[BS12 プロ野球中継](../Page/BS12_プロ野球中継.md "wikilink")』（[TwellV](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")）
-      - 北海道日本ハムファイターズを除くパ・リーグ主催試合を放送。
+      - パ・リーグ主催試合を放送（北海道日本ハムファイターズは2020年より）。
   - 『[J SPORTS STADIUM](../Page/J_SPORTS_STADIUM.md "wikilink")』（[J sports](https://ja.wikipedia.org/wiki/J_sports "wikilink")）
       - 中日ドラゴンズ・広島東洋カープ・オリックスバファローズ・東北楽天ゴールデンイーグルス主催全試合を放送。
   - 『[HAWKS BASEBALL PARK](https://ja.wikipedia.org/wiki/HAWKS_BASEBALL_PARK "wikilink")』（[FOXスポーツ&エンターテイメント](https://ja.wikipedia.org/wiki/FOXスポーツ&エンターテイメント "wikilink")）
@@ -62,12 +62,12 @@ BSデジタル放送の利点、ならびに当時の最新鋭機能を生かし
 
 [Category:BSフジのテレビ番組の歴史](https://ja.wikipedia.org/wiki/Category:BSフジのテレビ番組の歴史 "wikilink") [Category:BSフジのスポーツ番組](https://ja.wikipedia.org/wiki/Category:BSフジのスポーツ番組 "wikilink") [Category:野球番組_(テレビ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(テレビ\) "wikilink") [Category:2001年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のテレビ番組_\(日本\) "wikilink") [Category:2001年の日本プロ野球](https://ja.wikipedia.org/wiki/Category:2001年の日本プロ野球 "wikilink") [Category:東京ヤクルトスワローズの歴史](https://ja.wikipedia.org/wiki/Category:東京ヤクルトスワローズの歴史 "wikilink") [Category:横浜ベイスターズ](https://ja.wikipedia.org/wiki/Category:横浜ベイスターズ "wikilink")
 
-1.  2020年現在は[BS日テレ](../Page/BS日本.md "wikilink")、[BS-TBS](../Page/BS-TBS.md "wikilink")、[BS朝日](../Page/ビーエス朝日.md "wikilink")（トップ&リレー中継を含む）が多く中継している。それでも2013年以降は、中継本数が少ない[BSテレ東](../Page/BSテレビ東京.md "wikilink")（[テレビ東京系列](../Page/TXNネットワーク.md "wikilink")）よりは多くなっている。
+1.  2020年現在は[BS日テレ](../Page/BS日本.md "wikilink")、[BS-TBS](../Page/BS-TBS.md "wikilink")、[BS朝日](../Page/ビーエス朝日.md "wikilink")（トップ&リレー中継を含む）が多く中継している。それでもヤクルト戦中継を増加させ、中日・広島主催の巨人戦も段階的に放送するようになった2013年以降は、元々中継本数が少ない[BSテレ東](../Page/BSテレビ東京.md "wikilink")（[テレビ東京系列](../Page/TXNネットワーク.md "wikilink")）より中継総数は多くなっているが、その後パ・リーグのカードの中継に限れば、系列局制作分のみとなったことから、断続的に放送しているBSテレ東より減少している。
 2.  [平成27年3月期 決算短信](http://contents.xj-storage.jp/xcontents/46760/df361d39/fb41/4676/83a1/e487e421c8fd/140120150512471732.pdf)、3ページ、[フジ・メディア・ホールディングス](https://ja.wikipedia.org/wiki/フジ・メディア・ホールディングス "wikilink")
-3.  番組中の電話受付によるプレゼント企画はBSフジ・フジテレビONEの視聴者も応募可能なため、スコア表示を差し替える都合上、同一の受付電話番号をフジテレビ側で別途表示している。
+3.  番組中の電話受付によるプレゼント企画はBSフジ・フジテレビONEの視聴者も応募可能なため、スコア表示を差し替える都合上、同一の受付電話番号をフジテレビ側で別途表示していたが、2020年は表示がなかったため、広島県内地上波以外では、電話番号はテレビ新広島の中継予定ウェブサイトでの確認を要した。
 4.  地上波では後続番組などの番宣テロップもスコア表示と同じシステムで表示しているため。VTR切り替え時の「全力応援」ロゴはBSフジ・フジテレビONEでもそのまま表示されている。
 5.  2017年まではテレビ新広島のローカル放送でもフジテレビと同じ『JAGUAR'13』（春畑道哉）を使用していたが、2018年からは「TSS全力応援ソング」として『明日を鳴らせ』（ゆるふわリムーブ）を使用しているため。
-6.  本来は関西ローカルで中継する予定だったが『[FNS27時間テレビ にほんのれきし](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2017年\) "wikilink")』が編成されたため放送が不可能となったため。ただし、対巨人戦は2020年現在、関西テレビ制作・フジテレビ制作・[Tigers-ai](../Page/Tigers-ai.md "wikilink")制作ともに中継実績がない。
+6.  本来は関西ローカルで中継する予定だったが『[FNS27時間テレビ にほんのれきし](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2017年\) "wikilink")』が編成されたため放送が不可能となったため。
 7.  実況アナウンサーが連動データ放送の案内を行った際には、BSフジではデータ放送を実施していない旨の告知テロップが表示される。
 8.  但し、[楽天戦は](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")2020年現在、[仙台放送](../Page/仙台放送.md "wikilink")制作・フジテレビ制作・楽天球団制作ともに中継実績がない。
 9.  阪神タイガースについても日本シリーズの放映権を獲得した年があるが、早く決着して当該試合が非開催に終わったため、放送には至っていない。

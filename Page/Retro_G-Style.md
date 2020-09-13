@@ -1,18 +1,20 @@
 > この記事は[Retro G-Style](https://ja.wikipedia.org/wiki/Retro_G-Style)から翻訳されています。
 
 
-**Retro G-Style**（レトロジースタイル）は、日本の音楽グループ。[2000年](../Page/2000年.md "wikilink")2月インディーズデビュー、[2001年](../Page/2001年.md "wikilink")12月メジャーデビュー、[2004年](../Page/2004年.md "wikilink")9月に解散したが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")6月にMASAYAとIGOR二人での再結成を表明し、邦楽と洋楽の良い所を融合する音作りを目指して精力的に活動していたが、2011年9月21日、不慮の事故によりMASAYAが急死した。
+**Retro G-Style**（レトロジースタイル）は、かつて存在した日本の音楽グループ。
 
 ## メンバー
 
-  - MASAYA（まさや 本名：青木雅哉、[1977年](../Page/1977年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink") - [2011年](../Page/2011年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")) \[Vocal/Compose/Words/Arrange\]担当。北海道出身。2011年9月21日、不慮の事故により急死。
-  - IGOR（いごーる 本名：松下瑞樹バンダ・イゴール、[1976年](../Page/1976年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink") - ) \[Rap/Words\]担当。東京都出身。
+  - MASAYA（まさや 本名：青木雅哉、[1977年](../Page/1977年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink") - [2011年](../Page/2011年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")） \[Vocal/Compose/Words/Arrange\]担当。北海道出身。2011年9月21日、不慮の事故により死去。
+  - IGOR（いごーる 本名：松下瑞樹バンダ・イゴール、[1976年](../Page/1976年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink") - ） \[Rap/Words\]担当。東京都出身。[ハーフ](https://ja.wikipedia.org/wiki/ハーフ_\(混血\) "wikilink")。グループでの活動終了後は、ソロで音楽活動を行っている。
 
-※元メンバー
+※活動第1期のメンバー
 
   - DJ SEGA（DJせが 本名：瀬川達也、[1981年](../Page/1981年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink") - ） DJ。東京都出身。
 
-## 歴史
+## 経歴
+
+MASAYAとIGORの2人によって結成され、活動開始。
 
 2000年2月、インディーズ1stシングル「アイノコトバ \~words of love\~」でインディーズデビュー。6月には2ndシングル「Heaven」をリリース。
 
@@ -23,11 +25,11 @@
 [2003年](../Page/2003年.md "wikilink")、[マクドナルド](../Page/マクドナルド.md "wikilink")初のグローバルブランド戦略“[i'm lovin' it](https://ja.wikipedia.org/wiki/i'm_lovin'_it "wikilink")”日本版テレビCMソングのアーティストに選ばれる。
 
 2004年3月、2ndアルバム「P.O.P.」リリース後、5月から活動休止に至る。
-そして同9月、DJ SEGAが自分の音楽を追求するために脱退を希望したことをきっかけとして、解散することとなった。
+そして同年9月、DJ SEGAが自分の音楽を追求するためにグループからの脱退を希望した事がきっかけで、解散することとなった。解散後、3人はそれぞれ再デビューに向けて活動する。
 
-2010年6月、解散後、MASAYAとIGORはそれぞれ再デビューに向けて活動していたが、再び意気投合し、Retro G-Style再結成を正式に表明する。同8月4日に、約6年5ヶ月ぶりの新曲「キセキノヒト」を配信リリース。
+2010年6月、MASAYAとIGORが再び意気投合し、『Retro G-Style』再結成を正式に表明。同年8月4日に、約6年5ヶ月ぶりの新曲「キセキノヒト」を配信リリース。
 
-2011年9月21日、MASAYAが不慮の事故により急死。
+2011年9月21日、MASAYAが不慮の事故により死去。再結成された『Retro G-Style』は、程なくして活動終了となった。
 
 2018年4月11日、「ラストアルバム」と銘打った3rdアルバム「STEREO」を配信リリース。
 
@@ -210,7 +212,7 @@
         TBS・フジテレビのドラマ主題歌を集めた[オムニバス盤](https://ja.wikipedia.org/wiki/コンピレーション "wikilink")。「What's the answer?」収録。
 5.  **RZ the best of rhythm zone 2005**（2005/5/9）
       -
-        CD・DVDの2枚組。CDに「Pieces」、DVDには「STAR」の[PVが収録されている](../Page/ミュージック・ビデオ.md "wikilink")。レトロ唯一の映像作品。
+        CD・DVDの2枚組。CDに「Pieces」、DVDには「STAR」の[PVが収録されている](../Page/ミュージック・ビデオ.md "wikilink")。当グループ、唯一の映像作品。
 
 ## 関連事項
 
@@ -224,9 +226,9 @@
 
   - [Retro G-Style](http://avexnet.jp/id/retor/) avexによる公式サイト
 
-  - [LIFELIGHTS～音と僕の混ざり方～](https://ameblo.jp/19771025/)メンバーのMASAYAによるブログ。最後の記事に多数の追悼コメントが寄せられている。
+  - [LIFELIGHTS～音と僕の混ざり方～](https://ameblo.jp/19771025/)メンバーのMASAYAによるブログ。
 
   - [IGOR.G.S](https://lineblog.me/tomomigor0303/)IGORのブログ
 
   -
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink")
+[Category:日本のボーイ・バンド](https://ja.wikipedia.org/wiki/Category:日本のボーイ・バンド "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink")

@@ -26,6 +26,5 @@
 
 ## 外部リンク
 
-  - [日本テレビ公式サイト内 MOBI](http://www.ntv.co.jp/mobi/)
-
+  -
 [Category:2002年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のテレビ番組_\(日本\) "wikilink") [Category:日本テレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビの深夜番組の歴史 "wikilink") [Category:日本テレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:日本テレビのスポーツ番組 "wikilink") [Category:日本テレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:日本テレビの一社提供番組 "wikilink") [Category:日本のモータースポーツ番組](https://ja.wikipedia.org/wiki/Category:日本のモータースポーツ番組 "wikilink") [Category:本田技研工業一社提供番組](https://ja.wikipedia.org/wiki/Category:本田技研工業一社提供番組 "wikilink")

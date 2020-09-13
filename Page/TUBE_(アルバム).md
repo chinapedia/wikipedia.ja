@@ -8,6 +8,7 @@
   - ビデオクリップ集『[TUBE Clips + Fan's choice](https://ja.wikipedia.org/wiki/TUBE_Clips_+_Fan's_choice "wikilink")』と同時発売された。[沖縄の](../Page/沖縄県.md "wikilink")[石垣島](../Page/石垣島.md "wikilink")でCDアルバムのジャケットが撮影された。
   - アルバムのキャッチフレーズは『我ら生涯「夏」宣言！！』
   - 今作を引っ提げて恒例の野外ライブツアー「[TUBE LIVE AROUND SPECIAL 2005　Thank U for your Brightest Emotion](https://ja.wikipedia.org/wiki/TUBE#歴代コンサートツアー "wikilink")」が全国4か所で行われた。また、このライブの模様は[2006年](../Page/2006年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")に発売された映像作品『[20th Summer](https://ja.wikipedia.org/wiki/20th_Summer "wikilink")』で観ることができる。
+  - 『OASIS』よりKANONJIが共同プロデューサーとしてクレジットされていたが今作が最後となった。
 
 ## 収録曲
 

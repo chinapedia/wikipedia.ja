@@ -122,6 +122,6 @@
 
 ## 外部リンク
 
-  - [ぷろだくしょん★A組](http://www.aigumi.com/)
+  - [ぷろだくしょん★A組](https://www.aigumi.com/)
 
 [Category:ぷろだくしょん★A組](https://ja.wikipedia.org/wiki/Category:ぷろだくしょん★A組 "wikilink") [Category:声優プロダクション](https://ja.wikipedia.org/wiki/Category:声優プロダクション "wikilink") [Category:新宿区の企業](https://ja.wikipedia.org/wiki/Category:新宿区の企業 "wikilink") [Category:2000年設立の企業](https://ja.wikipedia.org/wiki/Category:2000年設立の企業 "wikilink")

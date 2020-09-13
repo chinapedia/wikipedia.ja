@@ -20,11 +20,11 @@ EXILE第二章以降に発売されたベストアルバム『[EXILE BALLAD BEST
         作詞：SHUN / 作曲：[中野雄太](../Page/中野雄太.md "wikilink") / 編曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
     <!-- end list -->
       - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『winners\!』エンディングテーマ
-2.  **[Kiss you](../Page/EX-STYLE_〜Kiss_you〜.md "wikilink") (Live Version)** \[4:45\]
-      - 6thシングルのライブバージョン
-3.  **[song for you](https://ja.wikipedia.org/wiki/song_for_you_\(EXILEの曲\) "wikilink") (Live Version)** \[5:44\]
+2.  **[Kiss you](../Page/EX-STYLE_〜Kiss_you〜.md "wikilink")**（Live Version）\[4:45\]
+      - 6thシングル「EX-STYLE 〜Kiss you〜」表題曲のライブバージョン
+3.  **[song for you](https://ja.wikipedia.org/wiki/song_for_you_\(EXILEの曲\) "wikilink")**（Live Version）\[5:44\]
       - 4thシングルのライブバージョン
-4.  We Will 〜あの場所で〜 (Instrumental)
+4.  We Will 〜あの場所で〜（Instrumental）
 
 ## 収録アルバム
 

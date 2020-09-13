@@ -74,6 +74,6 @@
 
 ## 外部リンク
 
-  - [UP-FRONT WORKSディスコグラフィ](http://www.up-front-works.jp/discography/zetima/29/a_10/)
+  - [UP-FRONT WORKSディスコグラフィ](http://www.up-front-works.jp/release/detail/EPCE-5206/)
 
 [Category:モーニング娘。のアルバム](https://ja.wikipedia.org/wiki/Category:モーニング娘。のアルバム "wikilink") [Category:2003年のアルバム](https://ja.wikipedia.org/wiki/Category:2003年のアルバム "wikilink") [Category:2003年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2003年のオリコンアルバムチャート1位獲得作品 "wikilink")

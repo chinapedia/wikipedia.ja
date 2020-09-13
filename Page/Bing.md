@@ -1,9 +1,9 @@
 > この記事は[Bing](https://ja.wikipedia.org/wiki/Bing)から翻訳されています。
 
 
-**Bing**（ビング）は、[Microsoftが提供する](../Page/マイクロソフト.md "wikilink")[検索エンジン](../Page/検索エンジン.md "wikilink")である。「意思決定エンジン」というコンセプトを掲げ、他の検索エンジンとの差別化を図っている。
+**Microsoft Bing**（マイクロソフト・ビング）は、[Microsoftが提供する](../Page/マイクロソフト.md "wikilink")[検索エンジン](../Page/検索エンジン.md "wikilink")である。「意思決定エンジン」というコンセプトを掲げ、他の検索エンジンとの差別化を図っている。
 
-旧名称は**MSN サーチ**、**Windows Live サーチ**、**Live サーチ**があり、Windows Live サーチは、[Windows Liveサービスの一つでもあった](../Page/Windows_Live.md "wikilink")。
+旧名称は **Bing**、**MSN サーチ**、**Windows Live サーチ**、**Live サーチ**があり、Windows Live サーチは、[Windows Liveサービスの一つでもあった](../Page/Windows_Live.md "wikilink")。
 
 ## 沿革
 
@@ -34,6 +34,8 @@
       - 7月 - 米[Yahoo\!](../Page/Yahoo!.md "wikilink") と提携。Yahoo\! がウェブ検索に**Bing**の検索エンジンを搭載することを発表\[2\]。12月に最終合意。
   - 2010年
       - 7月 - Bing日本語版の正式サービスが開始\[3\]。
+  - 2020年
+      - 8月 - Bingのホーム画面が「**Microsoft Bing**」に変更される。ロゴ等の変更はない。
 
 ## 提供されているサービス
 
@@ -57,7 +59,7 @@
 
 ### ニュース
 
-[ニュースサイト](../Page/ニュースサイト.md "wikilink")の記事に特化した検索を行える。検索結果は適合度順、日付順で並び替えられる。多言語には対応していない。
+[ニュースサイト](../Page/ニュースサイト.md "wikilink")の記事に特化した検索を行える。検索結果は適合度順、日付順で並べ替えられる。多言語には対応していない。
 
 ### ショッピング
 

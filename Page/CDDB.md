@@ -57,13 +57,14 @@ CDDBは[1993年](../Page/1993年.md "wikilink")にTi Kanによって開発され
       - [CD2WAV32](../Page/CD2WAV32.md "wikilink")
       - [ExactAudioCopy](https://ja.wikipedia.org/wiki/ExactAudioCopy "wikilink")
       - [foobar2000](https://ja.wikipedia.org/wiki/foobar2000 "wikilink")
+      - freedb 日本語\[2\]
       - [fre:ac](https://ja.wikipedia.org/wiki/fre:ac "wikilink")(free audio converter and CD ripper)
       - [MediaMonkey](https://ja.wikipedia.org/wiki/MediaMonkey "wikilink")
       - nero（バージョン8まで）
   - [allmusic](https://ja.wikipedia.org/wiki/allmusic "wikilink") ([AMG](https://ja.wikipedia.org/wiki/AMG_\(曖昧さ回避\) "wikilink"))
       - [プレイステーション3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")
       - [RealPlayer](../Page/RealPlayer.md "wikilink") （バージョン11以降）
-      - [Windows Media Player](../Page/Windows_Media_Player.md "wikilink") \[2\]
+      - [Windows Media Player](../Page/Windows_Media_Player.md "wikilink") \[3\]
   - [Discogs](https://ja.wikipedia.org/wiki/Discogs "wikilink")
   - [MusicBrainz](../Page/MusicBrainz.md "wikilink")
   - GD3
@@ -75,4 +76,5 @@ CDDBは[1993年](../Page/1993年.md "wikilink")にTi Kanによって開発され
 [Category:コンパクトディスク](https://ja.wikipedia.org/wiki/Category:コンパクトディスク "wikilink") [Category:オンライン音楽データベース](https://ja.wikipedia.org/wiki/Category:オンライン音楽データベース "wikilink")
 
 1.  ノート参照
-2.  ノート参照
+2.  <http://freedbtest.dyndns.org/>
+3.  ノート参照

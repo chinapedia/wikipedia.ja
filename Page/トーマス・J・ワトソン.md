@@ -23,7 +23,7 @@
 
 精肉店には新たに分割払いで購入した[NCR製](../Page/NCR_\(企業\).md "wikilink")[キャッシュレジスター](../Page/キャッシュレジスター.md "wikilink")があり、精肉店の新しいオーナーへの分割払いの引継ぎを手配する必要があった。そのためにNCRを訪れたとき、ジョン・J・レンジという人物に会い、仕事はないかと相談した。NCRに就職すると決意したワトソンは、レンジを何度も訪問し、ついに1896年11月、販売見習いとして雇われることになった\[11\]。
 
-率いるNCRは、当時の主要な販売組織の1つで、バッファロー支店長のジョン・J・レンジはワトソンの父親的人物となり、ワトソンは彼の販売と管理のスタイルを学んだ。1952年のインタビューでワトソンは、レンジから最も多くのことを学んだと述べている。レンジに導かれ、東部で一番のセールスマンといわれるようになり、週に100ドルを稼ぐようになった。
+[サムネイル](https://ja.wikipedia.org/wiki/ファイル:John_Henry_Patterson_NCR.jpg "wikilink") 率いるNCRは、当時の主要な販売組織の1つで、バッファロー支店長のジョン・J・レンジはワトソンの父親的人物となり、ワトソンは彼の販売と管理のスタイルを学んだ。1952年のインタビューでワトソンは、レンジから最も多くのことを学んだと述べている。レンジに導かれ、東部で一番のセールスマンといわれるようになり、週に100ドルを稼ぐようになった。
 
 数年後、ニューヨーク州[ロチェスターの苦戦しているNCR代理店を任された](../Page/ロチェスター_\(ニューヨーク州\).md "wikilink")。エージェントとして35%のコミッションを得るようになり、NCRのナンバーツーだったヒュー・チャルマーズに直接報告するようになった。主要な競合相手だった Hallwood を叩くため、時々 Hallwood 製の機械を使っている店にいって破壊工作するなどの手を使い、4年でロチェスターでのNCRの独占を築いた\[12\]。その手腕を買われ、[オハイオ州](../Page/オハイオ州.md "wikilink")[デイトンのNCR本社に配属となる](../Page/デイトン_\(オハイオ州\).md "wikilink")\[13\]。
 
@@ -39,7 +39,7 @@
 
 ## IBMのトップとして
 
-[1914年](../Page/1914年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")、[コンピューティング・タビュレーティング・レコーディング・コーポレーション](https://ja.wikipedia.org/wiki/C-T-R "wikilink") (Computing Tabulating-Recording Corporation、略称：[C-T-R](https://ja.wikipedia.org/wiki/C-T-R "wikilink")) の事業部長に就任。C-T-R社は[ハーマン・ホレリス](../Page/ハーマン・ホレリス.md "wikilink")のタビュレーティング・マシーンズ社などが母体となった企業で、当時1300人の従業員がいて、年間900万ドルの売り上げだった\[16\]。翌年には社長に選ばれている。[1924年](../Page/1924年.md "wikilink")、社名を [International Business Machines](../Page/IBM.md "wikilink") (IBM) に改称。ワトソンはこの会社を強力に育て上げ、1952年には連邦政府から[独占禁止法](../Page/独占禁止法.md "wikilink")違反で訴えられるまでになった。当時、IBMは全米の[タビュレーティングマシン](https://ja.wikipedia.org/wiki/タビュレーティングマシン "wikilink")の90%を所有して顧客にリースしていた。1956年に死去したとき、IBMの売り上げは年間8億9700万ドル、従業員数は72,500人にまで成長していた\[17\]。
+[サムネイル](https://ja.wikipedia.org/wiki/ファイル:CTR_Company_Logo.png "wikilink") [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Original_IBM_Logo.png "wikilink") [1914年](../Page/1914年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")、[コンピューティング・タビュレーティング・レコーディング・コーポレーション](https://ja.wikipedia.org/wiki/C-T-R "wikilink") (Computing Tabulating-Recording Corporation、略称：[C-T-R](https://ja.wikipedia.org/wiki/C-T-R "wikilink")) の事業部長に就任。C-T-R社は[ハーマン・ホレリス](../Page/ハーマン・ホレリス.md "wikilink")のタビュレーティング・マシーンズ社などが母体となった企業で、当時1300人の従業員がいて、年間900万ドルの売り上げだった\[16\]。翌年には社長に選ばれている。[1924年](../Page/1924年.md "wikilink")、社名を [International Business Machines](../Page/IBM.md "wikilink") (IBM) に改称。ワトソンはこの会社を強力に育て上げ、1952年には連邦政府から[独占禁止法](../Page/独占禁止法.md "wikilink")違反で訴えられるまでになった。当時、IBMは全米の[タビュレーティングマシン](https://ja.wikipedia.org/wiki/タビュレーティングマシン "wikilink")の90%を所有して顧客にリースしていた。1956年に死去したとき、IBMの売り上げは年間8億9700万ドル、従業員数は72,500人にまで成長していた\[17\]。
 
 ワトソンは、自身の職務の最重要部分は販売部門の動機付けと心得ていた。セールスマン養成学校の[IBMスクール](https://ja.wikipedia.org/wiki/IBMスクール "wikilink")を設立し、NCRの販売手法（ノルマ制、歩合制など）など彼の販売理論を教え込んだ。社では彼への[個人崇拝](../Page/個人崇拝.md "wikilink")が広まり、全社に彼の写真や「THINK」のモットーが掲げられた。[社歌](../Page/社歌.md "wikilink")ではワトソンへの賛美が歌われた。
 

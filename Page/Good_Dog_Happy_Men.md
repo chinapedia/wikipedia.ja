@@ -1,7 +1,7 @@
 > この記事は[Good Dog Happy Men](https://ja.wikipedia.org/wiki/Good_Dog_Happy_Men)から翻訳されています。
 
 
-**Good Dog Happy Men**（グッド ドッグ ハッピー メン）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。。
+**Good Dog Happy Men**（グッド ドッグ ハッピー メン）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。。メンバーは全員[自由の森学園高等学校](https://ja.wikipedia.org/wiki/自由の森学園高等学校 "wikilink")の出身である。
 
 ## メンバー
 

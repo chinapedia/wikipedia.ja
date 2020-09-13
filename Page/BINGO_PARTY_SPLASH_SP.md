@@ -41,6 +41,14 @@
   -
     前作同様、番号×倍率で配当が決まる。継続条件として、BOMBERか特定の色の番号が入ること。倍率や継続される番号の個数はベットの枚数により異なる。番号のボールが選ばれた場合その番号のみ継続条件から消えるが、BOMBERが選ばれると全ての番号が復活する。
 
+## 関連項目
+
+  - [BINGO PARTY](../Page/BINGO_PARTY.md "wikilink")
+  - [BINGO PARTY MULTICARD](https://ja.wikipedia.org/wiki/BINGO_PARTY_MULTICARD "wikilink")
+  - [BINGO PARTY PHOENIX](../Page/BINGO_PARTY_PHOENIX.md "wikilink")
+  - [BINGO PARTY SPLASH](../Page/BINGO_PARTY_SPLASH.md "wikilink")
+  - [BINGO PARTY PIRATES](../Page/BINGO_PARTY_PIRATES.md "wikilink")
+
 ## 外部リンク
 
   - [BINGO PARTY SPLASH SP](http://sega.jp/arcade/bingossp/)　公式サイト

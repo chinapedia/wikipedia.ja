@@ -3,7 +3,7 @@
 
 「**Tarako**」（タラコ）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の楽曲。自身の21作目の[シングル](../Page/シングル.md "wikilink")として、[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")から[7インチレコードで](https://ja.wikipedia.org/wiki/レコード#7インチシングル盤 "wikilink")[1984年](../Page/1984年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")に発売された。
 
-[1988年](../Page/1988年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に[CD化](https://ja.wikipedia.org/wiki/コンパクト・ディスク "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")にも8cmCDとして、[2005年](../Page/2005年.md "wikilink")6月25日には12cmCDで再発され、計3回再発売されている。
+[1988年](../Page/1988年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")と[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")に8cmCDとして、[2005年](../Page/2005年.md "wikilink")6月25日には12cmCDで再発売されている。また、[2014年](../Page/2014年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")からはダウンロード配信、[2019年](../Page/2019年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")からはストリーミング配信が開始されている\[1\]\[2\]。
 
 ## 制作
 
@@ -19,7 +19,7 @@
 
 ## チャート成績
 
-1984年11月5日付の[オリコン週間ランキングで最高](../Page/オリコンチャート.md "wikilink")11位を獲得した。累計売上は12.5万枚（オリコン調べ）を記録しており\[1\]、オリコンによる登場週数は21週である\[2\]。
+1984年11月5日付の[オリコン週間ランキングで最高](../Page/オリコンチャート.md "wikilink")11位を獲得した。累計売上は12.5万枚（オリコン調べ）を記録しており\[3\]、オリコンによる登場週数は21週である\[4\]。
 
 ## 収録曲
 
@@ -30,10 +30,10 @@
 1.  **Tarako** (4:08)
     （作詞:[Keisuke Kuwata](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink") & [Tony Haynes](https://ja.wikipedia.org/wiki/:en:Tony_Haynes "wikilink")　作曲:Keisuke Kuwata　編曲:SOUTHERN ALL STARS & [Paul Fox](https://ja.wikipedia.org/wiki/:en:Paul_Fox_\(musician\) "wikilink")）
       -
-        「Tarako」というタイトルはタイトル提出の締め切り直前になって合宿先のテーブルに置いてあった[リトル・トーキョー](../Page/リトル・トーキョー.md "wikilink")で購入した[たらこ](../Page/たらこ.md "wikilink")のふりかけを見て、「アナーキーな感じがあっていいかも知れないな」と思ってつけたのが所以であり、楽曲や歌詞との関係は一切ない\[3\]。
+        「Tarako」というタイトルはタイトル提出の締め切り直前になって合宿先のテーブルに置いてあった[リトル・トーキョー](../Page/リトル・トーキョー.md "wikilink")で購入した[たらこ](../Page/たらこ.md "wikilink")のふりかけを見て、「アナーキーな感じがあっていいかも知れないな」と思ってつけたのが所以であり、楽曲や歌詞との関係は一切ない\[5\]。
         途中の歌詞に「left me to do」というものがあるが、歌唱ではこのように歌われており公式サイトでも修正が施されたものの、歌詞カードでは「left to do」となっており、これは[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[2005年](../Page/2005年.md "wikilink")の再発盤でも修正されていない。
-        2015年に桑田は「この曲はあまり好きではない」と発言しており、その理由は英語の発音がメチャクチャだからと述べた\[4\]。
-        [シンガーソングライター](../Page/シンガーソングライター.md "wikilink")でサザンのファンである[平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")は、小学6年生の時に自分のお小遣いで初めて買ったCDとして挙げており、英語詞の曲を聴いたことがなく、かっこいいと思って買ったことを覚えているという\[5\]。
+        2015年に桑田は「この曲はあまり好きではない」と発言しており、その理由は英語の発音がメチャクチャだからと述べた\[6\]。
+        [シンガーソングライター](../Page/シンガーソングライター.md "wikilink")でサザンのファンである[平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")は、小学6年生の時に自分のお小遣いで初めて買ったCDとして挙げており、英語詞の曲を聴いたことがなく、かっこいいと思って買ったことを覚えているという\[7\]。
 2.  **Japaneggae (Sentimental)** (4:14)
     （作詞:Keisuke Kuwata & Tony Haynes　作曲:Keisuke Kuwata　編曲:SOUTHERN ALL STARS & Paul Fox）
       -
@@ -58,8 +58,10 @@
 
 [Category:サザンオールスターズの楽曲](https://ja.wikipedia.org/wiki/Category:サザンオールスターズの楽曲 "wikilink") [Category:桑田佳祐が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐が制作した楽曲 "wikilink") [Category:1984年のシングル](https://ja.wikipedia.org/wiki/Category:1984年のシングル "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")
 
-1.  [「栞のテーマ」「イエローマン」など、あんまりヒットしなかったサザンの曲特集](https://middle-edge.jp/articles/Efg6e) ミドルエッジ 2017年11月29日閲覧
-2.  [Tarako](https://www.oricon.co.jp/prof/72619/products/282021/1/) オリコン 2018年5月27日閲覧
-3.  [TOKYO FM](../Page/エフエム東京.md "wikilink")「桑田佳祐のやさしい夜遊び」2015年8月22日放送分より
-4.  サザンオールスターズ会報 代官山通信 vol.132 15ページより
-5.  [平井堅、サザンオールスターズへの愛を語る　「ぶっちゃけストーカーみたいなこともしていた」](http://realsound.jp/2017/06/post-80442_1.html) リアルサウンド 2017年6月24日閲覧
+1.  [サザン、全266曲を世界111ヶ国で配信](https://www.oricon.co.jp/news/2046030/full/) オリコン 2014年12月17日配信, 2020年6月4日閲覧
+2.  [サザン関連全972曲 サブスク一斉解禁 メンバーソロ曲も対象に](https://www.oricon.co.jp/news/2151435/full/) オリコン 2019年12月20日配信, 2019年12月20日閲覧
+3.  [「栞のテーマ」「イエローマン」など、あんまりヒットしなかったサザンの曲特集](https://middle-edge.jp/articles/Efg6e) ミドルエッジ 2017年11月29日閲覧
+4.  [Tarako](https://www.oricon.co.jp/prof/72619/products/282021/1/) オリコン 2018年5月27日閲覧
+5.  [TOKYO FM](../Page/エフエム東京.md "wikilink")「桑田佳祐のやさしい夜遊び」2015年8月22日放送分より
+6.  サザンオールスターズ会報 代官山通信 vol.132 15ページより
+7.  [平井堅、サザンオールスターズへの愛を語る　「ぶっちゃけストーカーみたいなこともしていた」](http://realsound.jp/2017/06/post-80442_1.html) リアルサウンド 2017年6月24日閲覧

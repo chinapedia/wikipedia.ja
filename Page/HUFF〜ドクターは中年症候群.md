@@ -79,4 +79,4 @@
   - [IMDB](http://www.imdb.com/title/tt0409570/)
 
   -
-[Category:アメリカ合衆国のテレビドラマ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビドラマ "wikilink") [Category:ショウタイム](https://ja.wikipedia.org/wiki/Category:ショウタイム "wikilink") [Category:ロサンゼルスを舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:ロサンゼルスを舞台としたテレビドラマ "wikilink")
+[Category:アメリカ合衆国のテレビドラマ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビドラマ "wikilink") [Category:Showtime](https://ja.wikipedia.org/wiki/Category:Showtime "wikilink") [Category:ロサンゼルスを舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:ロサンゼルスを舞台としたテレビドラマ "wikilink")

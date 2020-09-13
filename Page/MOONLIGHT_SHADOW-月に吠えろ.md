@@ -20,25 +20,30 @@
   - [Produced](../Page/プロデューサー.md "wikilink") by [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
   - [Mixed](../Page/ミキシング.md "wikilink") by JOHN VAN NEST
 
-## 収録作品
+## 収録アルバム
 
-  - 「MOONLIGHT SHADOW-月に吠えろ」
-      - 『[SHAKER+3](https://ja.wikipedia.org/wiki/SHAKER_\(中森明菜のアルバム\)#SHAKER+3 "wikilink")』\[22\]
-      - 『[歌姫伝説 〜90's BEST〜](../Page/歌姫伝説_〜90's_BEST〜.md "wikilink")』\[23\]\[24\]
-  - 「MOONLIGHT SHADOW-月に吠えろ club mix」
-      - 『歌姫伝説 〜90's BEST〜』\[25\]
+  - MOONLIGHT SHADOW-月に吠えろ
 
-## 参照
+<!-- end list -->
+
+  - 『[SHAKER+3](https://ja.wikipedia.org/wiki/SHAKER_\(中森明菜のアルバム\)#SHAKER+3 "wikilink")』\[22\]
+  - 『[歌姫伝説 〜90's BEST〜](../Page/歌姫伝説_〜90's_BEST〜.md "wikilink")』\[23\]\[24\]
+
+<!-- end list -->
+
+  - MOONLIGHT SHADOW-月に吠えろ club mix
+
+<!-- end list -->
+
+  - 『歌姫伝説 〜90's BEST〜』\[25\]
+
+## 脚注
 
 ## 関連項目
 
   - [小室哲哉提供楽曲一覧](https://ja.wikipedia.org/wiki/小室哲哉提供楽曲一覧 "wikilink")
   - [バーニングパブリッシャーズ](../Page/バーニングパブリッシャーズ.md "wikilink")
 
-## 外部リンク
-
-  -
-  -
 [Category:中森明菜の楽曲](https://ja.wikipedia.org/wiki/Category:中森明菜の楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:ユニバーサルミュージックジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのシングル "wikilink") [Category:高見沢俊彦が制作した楽曲](https://ja.wikipedia.org/wiki/Category:高見沢俊彦が制作した楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:月を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:月を題材とした楽曲 "wikilink") [Category:楽曲_む](https://ja.wikipedia.org/wiki/Category:楽曲_む "wikilink")
 
 1.

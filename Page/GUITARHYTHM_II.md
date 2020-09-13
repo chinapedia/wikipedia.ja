@@ -51,7 +51,7 @@
 
 布袋の実妹である狩野環がボーカルを務める[ガラパゴスが](../Page/ガラパゴス_\(バンド\).md "wikilink")[オープニングアクトとしてツアーに帯同した](https://ja.wikipedia.org/wiki/前座 "wikilink")。なお、前述の『GUITARHYTHM REPRISE』において、狩野はコーラスで参加している。
 
-『GUITARHYTHM REPRISE』でサポートを務めた[成田忍](https://ja.wikipedia.org/wiki/成田忍 "wikilink")、[浅田孟](https://ja.wikipedia.org/wiki/浅田孟 "wikilink")、[椎野恭一](https://ja.wikipedia.org/wiki/椎野恭一 "wikilink")、[小森茂生](https://ja.wikipedia.org/wiki/小森茂生 "wikilink")、[藤井丈司](https://ja.wikipedia.org/wiki/藤井丈司 "wikilink")は以後バンドメンバーとして固定され、[1994年](../Page/1994年.md "wikilink")の『GUITARHYTHM SERIOUS\! CLIMAX ARENA TOUR』まで同行していくことになる\[10\]。 余談だが、成田は布袋がBOØWY時代後期に使用したオリジナルギター「MV-95HT」の[アーム搭載モデルをツアーで使用した](../Page/アーミング.md "wikilink")。
+『GUITARHYTHM REPRISE』でサポートを務めた[成田忍](https://ja.wikipedia.org/wiki/成田忍 "wikilink")、[浅田孟](https://ja.wikipedia.org/wiki/浅田孟 "wikilink")、[椎野恭一](../Page/椎野恭一.md "wikilink")、[小森茂生](https://ja.wikipedia.org/wiki/小森茂生 "wikilink")、[藤井丈司](https://ja.wikipedia.org/wiki/藤井丈司 "wikilink")は以後バンドメンバーとして固定され、[1994年](../Page/1994年.md "wikilink")の『GUITARHYTHM SERIOUS\! CLIMAX ARENA TOUR』まで同行していくことになる\[10\]。 余談だが、成田は布袋がBOØWY時代後期に使用したオリジナルギター「MV-95HT」の[アーム搭載モデルをツアーで使用した](../Page/アーミング.md "wikilink")。
 
 前述の通り、ソロキャリア初の全国ツアーを経験したことが今後の作品に大きく反映されることとなる。
 
@@ -112,7 +112,7 @@
         ソロは自身初の[ボトルネックによるものであり](../Page/スライドギター.md "wikilink")、レコーディングでは何十回も録ったと語っている。\[25\]
 10. **ANGEL WALTZ**
       -
-        [BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")時代に作られた楽曲だが、バンドのイメージに合わないことから長年お蔵入りしていた。\[26\] BOØWYのアルバム『[JUST A HERO](../Page/JUST_A_HERO_\(BOOWYのアルバム\).md "wikilink")』用だった。
+        [BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")時代に作られた楽曲だが、バンドのイメージに合わないことから長年お蔵入りしていた。\[26\] BOØWYのアルバム『[JUST A HERO](https://ja.wikipedia.org/wiki/JUST_A_HERO_\(BOØWYのアルバム\) "wikilink")』用だった。
         作曲された当時は「マコトの[ワルツ](../Page/ワルツ.md "wikilink")」という仮タイトルで、[アヴァンギャルドなテイストだった](https://ja.wikipedia.org/wiki/前衛音楽 "wikilink")。\[27\]
 11. **[YOU](https://ja.wikipedia.org/wiki/YOU_\(布袋寅泰の曲\) "wikilink")**
       -
@@ -361,7 +361,7 @@
   - **ERIKO HIGUCHI** - スタイリスト　
   - **SHOKO KAWANO** - ヘアー、メイク
   - **[前田真宏](../Page/前田真宏_\(アニメ監督\).md "wikilink")** - イラストレーション
-  - **[草彅琢仁](../Page/草なぎ琢仁.md "wikilink")** - イラストレーション
+  - **[草彅琢仁](https://ja.wikipedia.org/wiki/草彅琢仁 "wikilink")** - イラストレーション
   - **菊地正典** - イラストレーション
   - **[武重洋二](https://ja.wikipedia.org/wiki/武重洋二 "wikilink")** - イラストレーション
 

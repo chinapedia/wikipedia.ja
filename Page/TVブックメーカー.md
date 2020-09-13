@@ -901,9 +901,9 @@
 </tr>
 <tr class="odd">
 <td><p>63</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>雑誌『<a href="../Page/GORO.md" title="wikilink">GORO</a>』最終号の表紙を飾るのは誰か?</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/宮沢りえ" title="wikilink">宮沢りえ</a></p></td>
+<td><p>4倍</p></td>
 <td><p>鴻上<br />
 -2→2</p></td>
 <td><p>青木<br />
@@ -1179,7 +1179,7 @@
 -4→6</p></td>
 </tr>
 <tr class="even">
-<td><p>82</p></td>
+<td><p>84</p></td>
 <td><p>3月15日[26]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/第15回日本アカデミー賞" title="wikilink">1992年度</a><a href="../Page/日本アカデミー賞.md" title="wikilink">日本アカデミー賞</a>最優秀作品賞は何か?</p></td>
 <td><p><a href="../Page/息子_(映画).md" title="wikilink">息子</a></p></td>
@@ -1191,7 +1191,7 @@
 →20940</p></td>
 </tr>
 <tr class="odd">
-<td><p>83</p></td>
+<td><p>85</p></td>
 <td><p>今年の<a href="https://ja.wikipedia.org/wiki/東京大学" title="wikilink">東京大学</a>合格者の中で最も多い苗字は何か?</p></td>
 <td><p>佐藤</p></td>
 <td><p>4倍</p></td>
@@ -1204,7 +1204,7 @@
 +15→154</p></td>
 </tr>
 <tr class="even">
-<td><p>84</p></td>
+<td><p>86</p></td>
 <td><p>3月22日</p></td>
 <td><p>今世紀で一番偉大な人物「パーソン・オブ・ザ・センチュリー」は誰になるか?</p></td>
 <td></td>
@@ -1265,6 +1265,7 @@
 
   - [ブックメーカー](../Page/ブックメーカー.md "wikilink")
   - [デリバティブTV](https://ja.wikipedia.org/wiki/デリバティブTV "wikilink") - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系で放送されたリメイク番組。なお、鴻上尚史はこの番組にも出演していた。
+  - [クイズ☆正解は一年後](https://ja.wikipedia.org/wiki/クイズ☆正解は一年後 "wikilink") - [TBS系列で放送されたクイズ番組](../Page/TBSテレビ.md "wikilink")。当番組同様、今後予定されている出来事に関するクイズを出題。
 
 [Category:1991年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1991年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビのクイズ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのクイズ番組の歴史 "wikilink") [Category:フジテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:フジテレビの情報・ワイドショー番組 "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:JOCX-TV2](https://ja.wikipedia.org/wiki/Category:JOCX-TV2 "wikilink") [Category:ホイチョイ・プロダクションズ](https://ja.wikipedia.org/wiki/Category:ホイチョイ・プロダクションズ "wikilink")
 

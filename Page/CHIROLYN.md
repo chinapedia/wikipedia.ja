@@ -1,9 +1,9 @@
 > この記事は[CHIROLYN](https://ja.wikipedia.org/wiki/CHIROLYN)から翻訳されています。
 
 
-**Chirolyn**（チロリン、[1965年](../Page/1965年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink") - ）は日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")（[ベーシスト](../Page/ベーシスト.md "wikilink")、[シンガー](../Page/歌手.md "wikilink")）である。本名は**渡邉 弘**（わたなべ ひろし）で、**HIROSHI**（ヒロシ）名義で活動することもある。モヒカン頭が特徴。
+**Chirolyn**（チロリン、[1965年](../Page/1965年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink") - ）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")（[ベーシスト](../Page/ベーシスト.md "wikilink")、[シンガー](../Page/歌手.md "wikilink")）である。本名は**渡邉 弘**（わたなべ ひろし）で、**HIROSHI**（ヒロシ）名義で活動することもある。モヒカン頭が特徴。
 
-[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")としてバンドスタイルまたは[弾き語り](../Page/弾き語り.md "wikilink")でステージ活動を行なうほか、ベーシストとして長年にわたり数多くのミュージシャンたちをサポートしている。
+[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")としてバンドスタイルまたは[弾き語り](../Page/弾き語り.md "wikilink")でステージ活動を行うほか、ベーシストとして長年にわたり数多くのミュージシャンたちをサポートしている。
 
 ## 略歴・概要
 
@@ -33,7 +33,7 @@
   - [2005年](../Page/2005年.md "wikilink") - MILKY (Vo) 、[真矢](../Page/真矢_\(ドラマー\).md "wikilink") (Dr) らとともに**POTBELLY**として活動。ミニアルバム『CRASH\! CRASH\! CRASH\!』をリリース。
   - [2005年](../Page/2005年.md "wikilink") - hide with Spread Beaver時代の盟友[KIYOSHI](../Page/KIYOSHI.md "wikilink")、[JOEとの](../Page/宮脇“JOE”知史.md "wikilink")3ピースバンド**[Madbeavers](https://ja.wikipedia.org/wiki/Mad_beavers "wikilink")**を再始動する。ベースだけでなくボーカルの片翼も担当。[2007年](../Page/2007年.md "wikilink")9月にCHIROLYN脱退。
   - [2007年](../Page/2007年.md "wikilink")8月以降 - HIROSHI名義で5年半ぶりにアコースティックにてソロ再始動。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - [DIE](../Page/D.I.E..md "wikilink") (Key) と**金角vs銀角**として翌2009年末までに数度のライブを行なう。サポートは[斉藤律](../Page/斉藤律.md "wikilink") (Gt) 、高畠俊男 (Dr) 。この縁で[Minimum Rocketsのセッションライヴにも参加した](https://ja.wikipedia.org/wiki/Minimum_Rockets "wikilink")。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - [DIE](../Page/D.I.E..md "wikilink") (Key) と**金角vs銀角**として翌2009年末までに数度のライブを行う。サポートは[斉藤律](../Page/斉藤律.md "wikilink") (Gt) 、高畠俊男 (Dr) 。この縁で[Minimum Rocketsのセッションライヴにも参加した](https://ja.wikipedia.org/wiki/Minimum_Rockets "wikilink")。
   - [2009年](../Page/2009年.md "wikilink")以降 - [GACKT](https://ja.wikipedia.org/wiki/GACKT "wikilink") JOBのメンバーとして、音楽番組出演時や『GACKT VISUALIVE ARENA TOUR 2009 Requiem et Réminiscence Ⅱ Final 〜鎮魂と再生〜』に参加。
   - 2009年12月18日 - ウルフルケイスケ presents『MAGICAL CHAIN TOUR Vol.1』に出演。
       -
@@ -97,12 +97,12 @@
 ## エピソード
 
   - "Chirolyn"という芸名は「幼い頃、*ヒロシ*と発音できず、自分のことを*チロシ*と言っていた」ことから。
-  - hideのライブ中『LEMONed I Scream』という楽曲では、ロザンナという女性キャラクターに扮して"hideとロザンナ"としてhideとデュエットをした（元ネタは[1968年](../Page/1968年.md "wikilink")にデビューして一世を風靡した[ヒデとロザンナ](../Page/ヒデとロザンナ.md "wikilink")）。また自作曲『KIMI WA KAWATTCHIMATTA』も披露したが、この時のベース演奏はhideであった。
+  - hideのライブ中『LEMONed I Scream』という楽曲では、ロザンナという女性キャラクターに扮して"hideとロザンナ"としてhideとデュエットをした（元ネタは[1968年](../Page/1968年.md "wikilink")にデビューして一世を風靡した[ヒデとロザンナ](../Page/ヒデとロザンナ.md "wikilink")）。また自作曲『KIMI WA KAWATTCHIMATTA』も披露したが、このときのベース演奏はhideであった。
   - 布袋寅泰『SPACE COWBOY TOUR』におけるクレジットは"SPACE GERONIMO (HIROSHI) "となっている。
 
 ## サポートしたアーティスト
 
-*特筆のない限りベース参加、詳細は各項目を参照。*（50音訓）
+*特筆のない限りベース参加、詳細は各項目を参照*（50音訓）。
 
   - [AcQuA-E.P.](../Page/AcQuA-E.P..md "wikilink")
   - [ウルフルズ](../Page/ウルフルズ.md "wikilink")

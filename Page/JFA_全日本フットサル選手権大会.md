@@ -198,7 +198,7 @@
 <tr class="odd">
 <td><p>16</p></td>
 <td><p>2020年</p></td>
-<td><p><a href="../Page/2019年コロナウイルス感染症による社会・経済的影響.md" title="wikilink">2019年新型コロナウイルス流行のため中止</a></p></td>
+<td><p><a href="../Page/2019年コロナウイルス感染症によるスポーツへの影響.md" title="wikilink">新型コロナウイルス流行のため中止</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -226,7 +226,7 @@
 
 2008年からは[テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")で録画放送される。
 
-2017年からは[ABEMA](https://ja.wikipedia.org/wiki/ABEMA "wikilink")でも決勝ラウンド全8試合が完全無料で生中継されている\[2\]。
+2017年からは[ABEMAでも決勝ラウンド全](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")8試合が完全無料で生中継されている\[2\]。
 
 ## 関連項目
 

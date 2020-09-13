@@ -70,8 +70,8 @@
   - 田中鈴之助
   - 森川涼
   - [西山宗佑](../Page/西山宗佑.md "wikilink")
-  - 栗山直人（[アームストロング](../Page/アームストロング_\(お笑いコンビ\).md "wikilink")）
-  - 安村昇剛（アームストロング）
+  - [栗山直人](https://ja.wikipedia.org/wiki/くり_\(タレント\) "wikilink")（[アームストロング](../Page/アームストロング_\(お笑いコンビ\).md "wikilink")）
+  - [安村昇剛](https://ja.wikipedia.org/wiki/とにかく明るい安村 "wikilink")（アームストロング）
   - [橘ユキコ](https://ja.wikipedia.org/wiki/橘ユキコ "wikilink")
   - 上原由恵
   - [鈴木一功](../Page/鈴木一功.md "wikilink")

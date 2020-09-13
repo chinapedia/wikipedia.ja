@@ -1,21 +1,21 @@
 > この記事は[卑弥呼 \(AV女優\)](https://ja.wikipedia.org/wiki/卑弥呼_\(AV女優\))から翻訳されています。
 
 
-**卑弥呼**（ひみこ、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV女優](../Page/AV女優.md "wikilink")である。[村西とおる](../Page/村西とおる.md "wikilink")が率いた[ダイヤモンド映像](../Page/ダイヤモンド映像.md "wikilink")を代表するAV女優の一人。
+**卑弥呼**（ひみこ、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV女優](../Page/AV女優.md "wikilink")である。[村西とおる](../Page/村西とおる.md "wikilink")が率いた[ダイヤモンド映像](../Page/ダイヤモンド映像.md "wikilink")を代表するAV女優の一人\[1\]。
 
 [東京都](../Page/東京都.md "wikilink")[豊島区](https://ja.wikipedia.org/wiki/豊島区 "wikilink")[池袋](../Page/池袋.md "wikilink")出身。 ボディサイズはT166/B90/W60/H87（デビュー時）→T166/B90/W60/H89（復帰時）。血液型AB型。[1990年代](../Page/1990年代.md "wikilink")前半に活動した。
 
 ## 経歴
 
-1990年度の「[ミス日本](../Page/ミス日本.md "wikilink")」の東京代表（グランプリではない）\[1\]に選ばれる。受賞の翌月、1本500万円の出演料\[2\]で『大和撫子タマの腰』で[AVデビュー](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")。日本版[トレイシー・ローズ](../Page/トレイシー・ローズ.md "wikilink")と呼ばれたボディスタイルと美貌、持ち前の明るいスケベっぷりで、ダイヤモンド映像専属女優の中でもトップクラスの人気を誇った。芸名は村西とおるの発案による。
+1990年度の「[ミス日本](../Page/ミス日本.md "wikilink")」の東京代表（グランプリではない）\[2\]に選ばれる。受賞の翌月、1本500万円の出演料\[3\]で『大和撫子タマの腰』で[AVデビュー](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")。日本版[トレイシー・ローズ](../Page/トレイシー・ローズ.md "wikilink")と呼ばれたボディスタイルと美貌、持ち前の明るいスケベっぷりで、ダイヤモンド映像専属女優の中でもトップクラスの人気を誇った。芸名は村西とおるの発案による。
 
-ダイヤモンド映像と関連会社では20本余りの作品に出演したが、活動期間がダイヤモンド映像が経営破綻していく時期と重なり、支払われたギャラのうち3,000万円を村西に貸したまま踏み倒されたと告白。[ワイドショー](../Page/ワイドショー.md "wikilink")や[週刊誌](../Page/週刊誌.md "wikilink")などが大きく取り上げるスキャンダルになった。\[3\]
+ダイヤモンド映像と関連会社では20本余りの作品に出演したが、活動期間がダイヤモンド映像が経営破綻していく時期と重なり、支払われたギャラのうち3,000万円を村西に貸したまま踏み倒されたと告白。[ワイドショー](../Page/ワイドショー.md "wikilink")や[週刊誌](../Page/週刊誌.md "wikilink")などが大きく取り上げるスキャンダルになった。\[4\]
 
-その後はグラビア活動を行っていたが、ダイヤモンド映像の監督だった[日比野正明](https://ja.wikipedia.org/wiki/日比野正明 "wikilink")の仲介により[1993年](../Page/1993年.md "wikilink")に[クリスタル映像](../Page/クリスタル映像.md "wikilink")でAVに復帰。6本のビデオに出演したのち、業界から完全に引退した。\[4\]\[5\]
+その後はグラビア活動を行っていたが、ダイヤモンド映像の監督だった[日比野正明](https://ja.wikipedia.org/wiki/日比野正明 "wikilink")の仲介により[1993年](../Page/1993年.md "wikilink")に[クリスタル映像](../Page/クリスタル映像.md "wikilink")でAVに復帰。6本のビデオに出演したのち、業界から完全に引退した。\[5\]\[6\]
 
 なおトレイシー沙貴という別名でビデオが発売されたという情報が散見されるが、[裏ビデオ](../Page/裏ビデオ.md "wikilink")でしか使われておらず、公式リリースは全て卑弥呼名義である。
 
-デビュー時のプロフィールは「[1970年](../Page/1970年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")生まれ、[長崎県](../Page/長崎県.md "wikilink")出身、血液型A型」 \[6\]で、他にも複数のプロフィールがあったが、その後本項冒頭の形となった。
+デビュー時のプロフィールは「[1970年](../Page/1970年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")生まれ、[長崎県](../Page/長崎県.md "wikilink")出身、血液型A型」 \[7\]で、他にも複数のプロフィールがあったが、その後本項冒頭の形となった。
 
 ## 作品
 
@@ -75,9 +75,10 @@
 
 [Category:日本のAV女優](https://ja.wikipedia.org/wiki/Category:日本のAV女優 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:1971年生](https://ja.wikipedia.org/wiki/Category:1971年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:ミス日本出場者](https://ja.wikipedia.org/wiki/Category:ミス日本出場者 "wikilink")
 
-1.  [本橋信宏](../Page/本橋信宏.md "wikilink")「村西とおるを奪い合ったAV女優たち」『[新潮45](../Page/新潮45.md "wikilink")』2006年6月号
-2.  『新潮45』2006年6月号
-3.  「ビデオ・ザ・ワールド」　1992年11月号　[白夜書房](../Page/白夜書房.md "wikilink")　pp.56-58。
-4.  「ビデオ・ザ・ワールド」　1993年9月号　白夜書房　pp.54-55。
-5.  [本橋信宏](../Page/本橋信宏.md "wikilink")　『エロ職人ヒビヤンの日々涙滴』　バジリコ、2004年、pp163-190、302-304。
-6.  「ビデオ・ザ・ワールド」　1990年8月号　白夜書房　pp.3-5。
+1.
+2.  [本橋信宏](../Page/本橋信宏.md "wikilink")「村西とおるを奪い合ったAV女優たち」『[新潮45](../Page/新潮45.md "wikilink")』2006年6月号
+3.  『新潮45』2006年6月号
+4.  「ビデオ・ザ・ワールド」　1992年11月号　[白夜書房](../Page/白夜書房.md "wikilink")　pp.56-58。
+5.  「ビデオ・ザ・ワールド」　1993年9月号　白夜書房　pp.54-55。
+6.  [本橋信宏](../Page/本橋信宏.md "wikilink")　『エロ職人ヒビヤンの日々涙滴』　バジリコ、2004年、pp163-190、302-304。
+7.  「ビデオ・ザ・ワールド」　1990年8月号　白夜書房　pp.3-5。

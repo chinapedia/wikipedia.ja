@@ -5,7 +5,7 @@
 
 ## 特徴
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Pistole_SIG_Sauer_P226_S.jpg "wikilink") [P220との違いは見た目ではわかりにくいが](../Page/SIG_SAUER_P220.md "wikilink")、ダブルカラム[マガジン化が最大の改良点である](../Page/弾倉.md "wikilink")。このため、装弾数が[9x19mmパラベラム弾](../Page/9x19mmパラベラム弾.md "wikilink")仕様で、9+1発から15+1発に増えている。[.40S\&W弾](https://ja.wikipedia.org/wiki/.40S&W弾 "wikilink")モデルと[.357SIG弾](https://ja.wikipedia.org/wiki/.357SIG弾 "wikilink")モデルの場合は12+1発になっている。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Pistole_SIG_Sauer_P226_S.jpg "wikilink") [P220との違いは見た目ではわかりにくいが](../Page/SIG_SAUER_P220.md "wikilink")、ダブルカラム[マガジン化が最大の改良点である](../Page/弾倉.md "wikilink")。このため、装弾数が[9x19 mmパラベラム弾仕様で](../Page/9x19mmパラベラム弾.md "wikilink")、9発から15発に増えている。[.40S\&W弾](https://ja.wikipedia.org/wiki/.40S&W弾 "wikilink")モデルと[.357SIG弾](https://ja.wikipedia.org/wiki/.357SIG弾 "wikilink")モデルの場合は12発になっている。
 
 P220と同様にマニュアル[セーフティーを持たない代わりに](../Page/安全装置.md "wikilink")、起こされたハンマーを安全にハーフコック位置まで落とすためのデコッキングレバーを有する。
 
@@ -17,19 +17,19 @@ P220と同様にマニュアル[セーフティーを持たない代わりに](.
 
 [トリガーアクション](https://ja.wikipedia.org/wiki/トリガー_\(銃\) "wikilink")、[バレル長](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")、フレーム素材、装弾数、アジャスタブルサイトの有無などの違いから「X-FIVE」や「XPRESS」など複数のモデルが存在する。最初期に製造されたモデルはスライドの左側面に「SIG SAUER」、右側面に「P226」の刻印が施されており、現在流通しているモデルと若干異なっている。
 
-近年のモデルでは20mmアンダーマウントレールが標準装備されている。現在はカタログが整理され、後述の「P226 E2」の名で売られていたものがP226のスタンダードモデルとなっている。
+近年のモデルでは20 mmアンダーマウントレールが標準装備されている。現在はカタログが整理され、後述の「P226 E2」の名で売られていたものがP226のスタンダードモデルとなっている。
 
   - P226
 
 :;P226 E2
 
-::一体型の新型グリップとストロークの短いトリガーを装備したモデル。[マガジンキャッチとデコッキングレバーも形状が変更されている](../Page/弾倉.md "wikilink")。E2は"Enhanced Ergonomics"の略。
+::一体型の新型グリップとストロークの短いトリガーを装備したモデル。[マガジンキャッチとデコッキングレバーも形状が変更されている](../Page/弾倉.md "wikilink")。E2は""の略。
 
 ::現在はE2の名が外されて、このモデルが現行型P226のスタンダードモデルである。
 
 :;P226 TB
 
-::[サプレッサー](../Page/サプレッサー.md "wikilink")を取り付けられるように[バレルにネジが切られたモデル](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")。TBは"Threaded Barrel"の略。
+::[サプレッサー](../Page/サプレッサー.md "wikilink")を取り付けられるように[バレルにネジが切られたモデル](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")。TBは""の略。
 
 :;P226 Two-Tone
 
@@ -55,7 +55,7 @@ P220と同様にマニュアル[セーフティーを持たない代わりに](.
   -
 
       -
-        P226 DAKのスライド、フレームに丸みを持たせ、衣服などへの引っかかりを抑えたモデル。スライドはシルバー、グリップは[木](https://ja.wikipedia.org/wiki/木 "wikilink")製に変更されている。SASは"SIG Anti-Snag"の略。
+        P226 DAKのスライド、フレームに丸みを持たせ、衣服などへの引っかかりを抑えたモデル。スライドはシルバー、グリップは[木](https://ja.wikipedia.org/wiki/木 "wikilink")製に変更されている。SASは""の略。
 
 :;P226 Elite
 
@@ -110,7 +110,7 @@ P220と同様にマニュアル[セーフティーを持たない代わりに](.
 
 :;P226 SCT
 
-::フロントセレーション、トリチウム夜間サイト、バンパー付きマガジンを備えたモデル。装弾数は[9x19mmパラベラム弾](../Page/9x19mmパラベラム弾.md "wikilink")で20発、[.40S\&W弾](https://ja.wikipedia.org/wiki/.40S&W弾 "wikilink")で14発。
+::フロントセレーション、トリチウム夜間サイト、バンパー付きマガジンを備えたモデル。装弾数は9x19 mmパラベラム弾で20発、.40S\&W弾で14発。
 
 ::;P226 Tac Ops
 
@@ -138,22 +138,22 @@ P220と同様にマニュアル[セーフティーを持たない代わりに](.
 
 :;P226 X-Five
 
-::木製グリップ、フルアジャスタブルトリガー、マグウェルを備えるモデル。カラーはシルバー。装弾数は9x19mm弾で19発、.40S\&W弾で14発。
+::木製グリップ、フルアジャスタブルトリガー、マグウェルを備えるモデル。カラーはシルバー。装弾数は9x19 mm弾で19発、.40S\&W弾で14発。
 
 ::;P226 X-Five Competition
 
-:::[ポリマー製グリップ](../Page/重合体.md "wikilink")、マグウェルを備えるモデル。カラーはシルバー。装弾数は9x19mm弾で19発、.40S\&W弾で14発。
+:::[ポリマー製グリップ](../Page/重合体.md "wikilink")、マグウェルを備えるモデル。カラーはシルバー。装弾数は9x19 mm弾で19発、.40S\&W弾で14発。
 
 ::;P226 X-Five Allround
 
-:::P226のようにシングル/ダブルアクションでデコッキングレバーを持つモデル。カラーはシルバーでポリマー製グリップを備える。装弾数は9x19mm弾で17発、.40S\&W弾で12発。
+:::P226のようにシングル/ダブルアクションでデコッキングレバーを持つモデル。カラーはシルバーでポリマー製グリップを備える。装弾数は9x19 mm弾で17発、.40S\&W弾で12発。
 
 ::;P226 X-Five Tactical
 
   -
 
       -
-        アンダーマウントレール、固定式サイト、ブラックカラーなど、実戦を意識したモデル。9x19mm弾、.40S\&W弾で、装弾数は前者が15発、後者が10発となっている。
+        アンダーマウントレール、固定式サイト、ブラックカラーなど、実戦を意識したモデル。9x19 mm弾、.40S\&W弾で、装弾数は前者が15発、後者が10発となっている。
 
 :;P226 X-Six
 
@@ -173,43 +173,43 @@ P220と同様にマニュアル[セーフティーを持たない代わりに](.
 
 P226を小型軽量化したモデルとして[1989年](../Page/1989年.md "wikilink")にリリースされたのが**P228**である。
 
-このP228は小型軽量化に伴いP226よりも安価になった。それに加え装弾数が13+1発と多めな事から、[アメリカ軍](../Page/アメリカ軍.md "wikilink")で「**M11**」の名称で制式採用されているほか、[DHS](../Page/アメリカ合衆国国土安全保障省.md "wikilink")、[FBI](../Page/連邦捜査局.md "wikilink")、[DEA](../Page/麻薬取締局.md "wikilink")、NCIS、アメリカ空軍特別捜査室（OSI）と言った捜査機関でも使用されている。また、[フランス国家憲兵隊の](../Page/国家憲兵隊_\(フランス\).md "wikilink")[特殊部隊](../Page/特殊部隊.md "wikilink")である[GIGN](../Page/国家憲兵隊治安介入部隊.md "wikilink")、[ドイツ警察の特殊部隊である](../Page/ドイツの警察.md "wikilink")[SEK](https://ja.wikipedia.org/wiki/ドイツ地方警察特別出動コマンド "wikilink")、[イスラエル陸軍](https://ja.wikipedia.org/wiki/イスラエル陸軍 "wikilink")、[日本警察の](../Page/日本の警察.md "wikilink")[SAT](../Page/特殊急襲部隊.md "wikilink")、[海上保安庁](../Page/海上保安庁.md "wikilink")の[SSTで採用されているのが確認されている](../Page/特殊警備隊.md "wikilink")。
+このP228は小型軽量化に伴いP226よりも安価になった。それに加え装弾数が13発と多めな事から、[アメリカ軍](../Page/アメリカ軍.md "wikilink")で「**M11**」の名称で制式採用されているほか、[DHS](../Page/アメリカ合衆国国土安全保障省.md "wikilink")、[FBI](../Page/連邦捜査局.md "wikilink")、[DEA](../Page/麻薬取締局.md "wikilink")、NCIS、アメリカ空軍特別捜査室 (OSI) と言った捜査機関でも使用されている。また、[フランス国家憲兵隊の](../Page/国家憲兵隊_\(フランス\).md "wikilink")[特殊部隊](../Page/特殊部隊.md "wikilink")である[GIGN](../Page/国家憲兵隊治安介入部隊.md "wikilink")、[ドイツ警察の特殊部隊である](../Page/ドイツの警察.md "wikilink")[SEK](https://ja.wikipedia.org/wiki/ドイツ地方警察特別出動コマンド "wikilink")、[イスラエル陸軍](https://ja.wikipedia.org/wiki/イスラエル陸軍 "wikilink")、[日本警察の](../Page/日本の警察.md "wikilink")[SAT](../Page/特殊急襲部隊.md "wikilink")、[海上保安庁](../Page/海上保安庁.md "wikilink")の[SSTで採用されているのが確認されている](../Page/特殊警備隊.md "wikilink")。
 
-一般的にP228は、P226のスライドを短くしただけのものと誤解されがちだが、装弾数を減少させることによってフレームがスリム化され、手の小さい人でも使用できるようになっている。また、P226のグリップとも若干異なり、親指が当たる部分がややへこんでいて、P226に比べても握りやすくなっている。P226とP228では、実際に握った感覚に大きな違いがある。
+一般的にP228は、P226のスライドを短くしただけのものと誤解されがちだが、装弾数を減少させることによってフレームがスリム化され、手の小さい人でも使用できるようになっている。また、P226のグリップとも若干異なり、親指が当たる部分がややへこんでいて、P226に比べても握りやすくなっている。
 
 後継の[P229が開発されたことで民間への販売は中止されたが](https://ja.wikipedia.org/wiki/#P229 "wikilink")、[2012年](../Page/2012年.md "wikilink")よりM11の民間用がM11-A1として販売されており、装弾数は15発に戻されている。 {{-}}
 
 ## P229
 
-P228を[強装弾](https://ja.wikipedia.org/wiki/強装弾 "wikilink")に対応できるように改良したモデルでP228の後継モデルとなる。
+P228をより強力な弾種に対応できるように改良したモデルでP228の後継モデルとなる。
 
 P229は、スライドが[削り出し](../Page/削り出し.md "wikilink")でつくられており、P228とは形状も異なる。[.40S\&W弾](https://ja.wikipedia.org/wiki/.40S&W弾 "wikilink")を使用するモデルと[.357SIG弾](https://ja.wikipedia.org/wiki/.357SIG弾 "wikilink")を使用するモデルが追加されている。
 
-装弾数は、[9x19mmパラベラム弾](../Page/9x19mmパラベラム弾.md "wikilink")モデルが15+1発（初期型は13+1発）、.40S\&W弾モデル、.357SIG弾モデルはともに12+1発。
+装弾数は、[9x19 mmパラベラム弾モデルが](../Page/9x19mmパラベラム弾.md "wikilink")15発（初期型は13発）、.40S\&W弾モデル、.357SIG弾モデルはともに12発。
 
 [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[シークレットサービスと](../Page/アメリカ合衆国シークレットサービス.md "wikilink")[連邦航空保安局](https://ja.wikipedia.org/wiki/連邦航空保安局 "wikilink")が.357SIG弾モデルを、[アメリカ沿岸警備隊](../Page/アメリカ沿岸警備隊.md "wikilink")が.40S\&W弾モデルを採用している。 {{-}}
 
 ## 登場作品
 
+## 脚注
+
+## 参考文献
+
+  -
 ## 関連項目
 
   - [シグ](../Page/シグ.md "wikilink")
   - [ザウエル&ゾーン](../Page/ザウエル&ゾーン.md "wikilink")
   - [SIG SAUER P220](../Page/SIG_SAUER_P220.md "wikilink")
-  - [SIG SAUER P230](../Page/SIG_SAUER_P230.md "wikilink")
   - [SIG SAUER P239](../Page/SIG_SAUER_P239.md "wikilink") - P229のコンパクトバージョン。
-  - [SIG SAUER P250](../Page/SIG_SAUER_P250.md "wikilink")
-  - [SIG SAUER P320](https://ja.wikipedia.org/wiki/SIG_SAUER_P320 "wikilink")
   - [SIG SAUER MOSQUITO](../Page/SIG_SAUER_MOSQUITO.md "wikilink")
-  - [時雨沢恵一](../Page/時雨沢恵一.md "wikilink") - 名前をシグザウアーから取っている。[アメリカ留学時](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、実際に本銃を所有していた。
-  - [中国兵器工業集団](../Page/中国兵器工業集団.md "wikilink") - NP22という名称でP226のデッドコピー品を製造販売している。
   - [Arex Rex Zero 1](https://ja.wikipedia.org/wiki/Arex_Rex_Zero_1 "wikilink") - P226を参考に開発された[スロベニア](../Page/スロベニア.md "wikilink")製拳銃。
 
 ## 外部リンク
 
   - [シグ公式サイト P226一覧](http://www.sigsauer.com/CatalogProductList/pistols-p226.aspx)
   - [シグ公式サイト P226 X-FIVE](http://www.sigsauer.com/CatalogProductDetails/p226-x-five.aspx)
-  - \[<http://www.sigsauer.com/CatalogProductDetails/p226-mk25.aspx>　シグ公式サイト P226 MK25\]
+  - [シグ公式サイト P226 MK25](http://www.sigsauer.com/CatalogProductDetails/p226-mk25.aspx)
   - [シグ公式サイト P227一覧](http://www.sigsauer.com/CatalogProductList/pistols-p227.aspx)
   - [シグ公式サイト P227 TACOPS](http://www.sigsauer.com/CatalogProductDetails/p227-tacops.aspx)
   - [シグ公式サイト P227 Carry Nitron](http://www.sigsauer.com/CatalogProductDetails/p227-carry-nitron.aspx)

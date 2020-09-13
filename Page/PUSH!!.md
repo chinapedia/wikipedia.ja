@@ -1,7 +1,7 @@
 > この記事は[PUSH!!](https://ja.wikipedia.org/wiki/PUSH!!)から翻訳されています。
 
 
-『**PUSH\!\!**』（プッシュ）とは、[マックスが発行していた](../Page/マックス_\(出版社\).md "wikilink")、月刊の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")雑誌である。毎号、[DVD-ROM](https://ja.wikipedia.org/wiki/DVD-ROM "wikilink")が付録になっているのが特徴である。2015年9月発売の11月号を以て休刊した。
+『**PUSH\!\!**』（プッシュ）とは、[マックスが発行していた](../Page/マックス_\(出版社\).md "wikilink")、月刊の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")雑誌である。毎号、[DVD-ROM](https://ja.wikipedia.org/wiki/DVD-ROM "wikilink")が付録になっているのが特徴である。2015年9月発売の11月号をもって休刊した。
 
 ## ファンタジェンヌ
 

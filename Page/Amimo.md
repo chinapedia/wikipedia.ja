@@ -16,10 +16,10 @@
 ## 外部リンク
 
   - [プロダクション・アイジー](http://www.production-ig.co.jp/)
-  - [clappa\!](http://web.archive.org/web/20080101104907/http://clappa.jp/) - 閉鎖。（2008年1月1日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
-  - [デコブログ](http://web.archive.org/web/20081103111945/http://decoblog.ne.jp/) - 閉鎖。（2008年11月3日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [clappa\!](https://web.archive.org/web/20080101104907/http://clappa.jp/) - 閉鎖。（2008年1月1日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [デコブログ](https://web.archive.org/web/20081103111945/http://decoblog.ne.jp/) - 閉鎖。（2008年11月3日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
 [Category:Production_I.G](https://ja.wikipedia.org/wiki/Category:Production_I.G "wikilink")
 
 1.
-2.  [ネット上のファンの集い場 「clappa\!」](http://web.archive.org/web/20081228170852/http://www.production-ig.co.jp/contents/community/)（2008年12月28日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+2.  [ネット上のファンの集い場 「clappa\!」](https://web.archive.org/web/20081228170852/http://www.production-ig.co.jp/contents/community/)（2008年12月28日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）

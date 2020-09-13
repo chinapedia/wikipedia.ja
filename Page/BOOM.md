@@ -3,10 +3,11 @@
 
 『**BOOM**』（ブーム）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")、[UNICORN](../Page/UNICORN.md "wikilink")の1枚目のアルバム。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")発売。発売元は[CBSソニー](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
 
-[サウンド・プロデューサー](https://ja.wikipedia.org/wiki/サウンド・プロデューサー "wikilink")として[FENCE OF DEFENSEの](../Page/FENCE_OF_DEFENSE.md "wikilink")[西村麻聡](../Page/西村麻聡.md "wikilink")が参加した。
+[サウンド・プロデューサー](https://ja.wikipedia.org/wiki/サウンド・プロデューサー "wikilink")として[笹路正徳](../Page/笹路正徳.md "wikilink")と[FENCE OF DEFENSEの](../Page/FENCE_OF_DEFENSE.md "wikilink")[西村麻聡](../Page/西村麻聡.md "wikilink")が参加。
 
 ## 解説
 
+  - ユニコーンのオリジナルアルバムで唯一[向井美音里](../Page/向井美音里.md "wikilink")が参加、かつ[奥田民生](../Page/奥田民生.md "wikilink")が全曲単独でリードボーカルを採っているアルバムである。また、後にメンバーとなる[阿部義晴](../Page/阿部義晴.md "wikilink")もマニピュレーターとして参加している。
   - 本作品の発売日、メンバーはオフであったという。
   - 発売日、メンバーのうち数人は、当時合宿生活をしていた[大塚](../Page/大塚.md "wikilink")の[駅前のレコード屋にレコードを買いに行ったところ入荷していなかったために相当がっかりし](https://ja.wikipedia.org/wiki/大塚駅_\(東京都\) "wikilink")、それ以降はチェックしに行くことはなかったというが、実はメンバーが買いに行った店は[演歌](../Page/演歌.md "wikilink")などを専門で扱っており、[ポップスや](../Page/ポピュラー音楽.md "wikilink")[ロックは置いていなかった](../Page/ロック_\(音楽\).md "wikilink")。その店の裏側には、若者が行くようなレコード屋があったが、メンバーは知らなかったようである。
   - 本作品は先行シングル、シングルカット共にシングル曲は発売されていない。シングル曲は2年後の[1989年](../Page/1989年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")発売の「[大迷惑](https://ja.wikipedia.org/wiki/大迷惑 "wikilink")」迄待つ事になる。

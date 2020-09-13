@@ -42,8 +42,8 @@
 ## 外部リンク
 
   - [Compiz Home](http://www.compiz.org/) - Compiz 公式サイト
-  - [Compiz - openSUSE](http://ja.opensuse.org/Compiz)
-  - [Compizソースコード](http://cgit.freedesktop.org/xorg/app/compiz/)
+  - [Compiz - openSUSE](https://ja.opensuse.org/Compiz)
+  - [Compizソースコード](https://cgit.freedesktop.org/xorg/app/compiz/)
   - [Compiz/Xglのデモムービー](http://people.freedesktop.org/~davidr/xgl-demo1.xvid.avi)
 
 [Category:Xウィンドウマネージャ](https://ja.wikipedia.org/wiki/Category:Xウィンドウマネージャ "wikilink") [Category:Freedesktop.org](https://ja.wikipedia.org/wiki/Category:Freedesktop.org "wikilink") [Category:2006年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2006年のソフトウェア "wikilink")

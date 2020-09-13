@@ -15,6 +15,6 @@
 
 ## 外部リンク
 
-  - [Chessソースコード (Apple.com)](http://www.opensource.apple.com/darwinsource/tarballs/other/)
+  - [Chessソースコード (Apple.com)](https://opensource.apple.com/source/Chess/)
 
 [Category:アップルのソフトウェア](https://ja.wikipedia.org/wiki/Category:アップルのソフトウェア "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:コンピュータチェス](https://ja.wikipedia.org/wiki/Category:コンピュータチェス "wikilink") [Category:Macintosh用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Macintosh用ゲームソフト "wikilink")

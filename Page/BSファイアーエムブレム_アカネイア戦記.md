@@ -154,7 +154,7 @@
 
   - （同上）
 
-[Category:ファイアーエムブレム_(アカネイア大陸)](https://ja.wikipedia.org/wiki/Category:ファイアーエムブレム_\(アカネイア大陸\) "wikilink") [Category:サテラビュー放送番組](https://ja.wikipedia.org/wiki/Category:サテラビュー放送番組 "wikilink") [Category:1997年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1997年のコンピュータゲーム "wikilink") [Category:ゲームのスピンオフ作品](https://ja.wikipedia.org/wiki/Category:ゲームのスピンオフ作品 "wikilink")
+[Category:ファイアーエムブレムのコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ファイアーエムブレムのコンピュータゲーム "wikilink") [Category:ファイアーエムブレム_(アカネイア大陸)](https://ja.wikipedia.org/wiki/Category:ファイアーエムブレム_\(アカネイア大陸\) "wikilink") [Category:サテラビュー放送番組](https://ja.wikipedia.org/wiki/Category:サテラビュー放送番組 "wikilink") [Category:1997年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1997年のコンピュータゲーム "wikilink") [Category:ゲームのスピンオフ作品](https://ja.wikipedia.org/wiki/Category:ゲームのスピンオフ作品 "wikilink") [Category:シミュレーションRPG](https://ja.wikipedia.org/wiki/Category:シミュレーションRPG "wikilink")
 
 1.  [ファイアーエムブレムサウンドミュージック](http://www.nintendo.co.jp/fe/sound_museum/monsho.html)　Windの項参照
 2.  Nintendo DREAM 2013年6月号 「[ファイアーエムブレム 覚醒発売一周年記念](https://ja.wikipedia.org/wiki/ファイアーエムブレム_覚醒 "wikilink") 開発者インタビュー」の課金コンテンツ参加のイラストレーターの選考から。

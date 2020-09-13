@@ -381,7 +381,7 @@ HONG SOON HO</p></td>
 
 ## 外部リンク
 
-  - [IZUMO -猛き剣の閃記- 公式サイト](http://web.archive.org/web/20080616191754/http://www.trinet-ent.com/izumo/) - 閉鎖。（2008年6月16日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [IZUMO -猛き剣の閃記- 公式サイト](https://web.archive.org/web/20080616191754/http://www.trinet-ent.com/izumo/) - 閉鎖。（2008年6月16日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
   - [IZUMO2 (Studio e.go\!)](http://www.studio-ego.jp/game/izumo2/index.html)
 
 [de:Izumo (Computerspiel)\#Izumo: Takeki Tsurugi no Senki](https://ja.wikipedia.org/wiki/de:Izumo_\(Computerspiel\)#Izumo:_Takeki_Tsurugi_no_Senki "wikilink")

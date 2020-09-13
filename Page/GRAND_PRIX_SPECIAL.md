@@ -32,6 +32,6 @@
 
   - [GRAND PRIX SPECIAL](http://www.grandprix-special.com/)
 
-[Category:日本の月刊誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:日本の月刊誌_\(休廃刊\) "wikilink") [Category:日本のスポーツ雑誌](https://ja.wikipedia.org/wiki/Category:日本のスポーツ雑誌 "wikilink") [Category:エムオン・エンタテインメント](https://ja.wikipedia.org/wiki/Category:エムオン・エンタテインメント "wikilink") [Category:フォーミュラ1](https://ja.wikipedia.org/wiki/Category:フォーミュラ1 "wikilink") [Category:1987年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1987年創刊の雑誌 "wikilink") [Category:2016年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2016年休廃刊の雑誌 "wikilink")
+[Category:日本の月刊誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:日本の月刊誌_\(休廃刊\) "wikilink") [Category:エムオン・エンタテインメント](https://ja.wikipedia.org/wiki/Category:エムオン・エンタテインメント "wikilink") [Category:フォーミュラ1](https://ja.wikipedia.org/wiki/Category:フォーミュラ1 "wikilink") [Category:1987年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1987年創刊の雑誌 "wikilink") [Category:2016年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2016年休廃刊の雑誌 "wikilink") [Category:日本のモータースポーツ雑誌](https://ja.wikipedia.org/wiki/Category:日本のモータースポーツ雑誌 "wikilink")
 
 1.

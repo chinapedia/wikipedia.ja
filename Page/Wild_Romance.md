@@ -6,7 +6,7 @@
 ## 内容
 
   - 1年2ヶ月ぶりのシングル。カップリングの「Shadow of your smile」と共に、作詞は[森雪之丞](../Page/森雪之丞.md "wikilink")が手がけた。
-  - [コピーコントロールCD仕様である](https://ja.wikipedia.org/wiki/CCCD "wikilink")。
+  - [コピーコントロールCD](../Page/コピーコントロールCD.md "wikilink")仕様である。
 
 ## 収録曲
 

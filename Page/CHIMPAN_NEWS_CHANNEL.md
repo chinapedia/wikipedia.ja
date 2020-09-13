@@ -1,7 +1,7 @@
 > この記事は[CHIMPAN NEWS CHANNEL](https://ja.wikipedia.org/wiki/CHIMPAN_NEWS_CHANNEL)から翻訳されています。
 
 
-『**CHIMPAN NEWS CHANNEL**』（チンパン ニュース チャンネル、略称**CNC**）は、[フジテレビ系列ほかで放送されていた](../Page/フジネットワーク.md "wikilink")[フジテレビ製作の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。製作局のフジテレビでは[2006年](../Page/2006年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")まで、毎週[月曜](../Page/月曜日.md "wikilink") - [木曜](../Page/木曜日.md "wikilink") 24:35 - 24:45に放送。
+『**CHIMPAN NEWS CHANNEL**』（チンパン ニュース チャンネル、略称**CNC**）は、[フジテレビ系列ほかで放送されていた](../Page/フジネットワーク.md "wikilink")[フジテレビ製作の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。製作局のフジテレビでは[2006年](../Page/2006年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")まで、毎週[月曜](../Page/月曜日.md "wikilink") - [木曜](../Page/木曜日.md "wikilink") 24:35 - 24:45に放送。[マツモトキヨシ](../Page/マツモトキヨシ.md "wikilink")の一社提供。
 
 ## 概要
 
@@ -54,14 +54,14 @@
 
 ### 放送時間・放送局
 
-| 放送対象地域                                              | 放送局                                                        | 系列                                        | 放送日時                    | 放送期間                    | 備考  |
-| --------------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------- | ----------------------- | ----------------------- | --- |
-| [関東広域圏](../Page/広域放送.md "wikilink")                 | [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink") | [フジテレビ系列](../Page/フジネットワーク.md "wikilink") | 月曜 - 木曜 24:35 - 24:45   | 2006年4月10日 - 2007年3月15日 | 製作局 |
-| [岩手県](../Page/岩手県.md "wikilink")                    | [岩手めんこいテレビ](../Page/岩手めんこいテレビ.md "wikilink")               | 同時ネット                                     |                         |                         |     |
-| [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink") | [仙台放送](../Page/仙台放送.md "wikilink")                         |                                           |                         |                         |     |
-| [愛媛県](../Page/愛媛県.md "wikilink")                    | [テレビ愛媛](../Page/テレビ愛媛.md "wikilink")                       |                                           | 2006年7月31日 - 2006年8月31日 |                         |     |
-| [静岡県](../Page/静岡県.md "wikilink")                    | [テレビ静岡](../Page/テレビ静岡.md "wikilink")                       | 月曜 - 木曜 24:35 - 24:45                     | 2006年10月2日 - 2007年3月15日 |                         |     |
-| [広島県](../Page/広島県.md "wikilink")                    | [テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")  |                                           |                         |                         |     |
+| 放送対象地域                                              | 放送局                                                        | 系列                                        | 放送日時                  | 放送期間                    | 備考  |
+| --------------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------- | --------------------- | ----------------------- | --- |
+| [関東広域圏](../Page/広域放送.md "wikilink")                 | [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink") | [フジテレビ系列](../Page/フジネットワーク.md "wikilink") | 月曜 - 木曜 24:35 - 24:45 | 2006年4月10日 - 2007年3月15日 | 製作局 |
+| [岩手県](../Page/岩手県.md "wikilink")                    | [岩手めんこいテレビ](../Page/岩手めんこいテレビ.md "wikilink")               | 同時ネット                                     |                       |                         |     |
+| [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink") | [仙台放送](../Page/仙台放送.md "wikilink")                         |                                           |                       |                         |     |
+| [愛媛県](../Page/愛媛県.md "wikilink")                    | [テレビ愛媛](../Page/テレビ愛媛.md "wikilink")                       | 2006年7月31日 - 2006年8月31日                   |                       |                         |     |
+| [静岡県](../Page/静岡県.md "wikilink")                    | [テレビ静岡](../Page/テレビ静岡.md "wikilink")                       | 2006年10月2日 - 2007年3月15日                   |                       |                         |     |
+| [広島県](../Page/広島県.md "wikilink")                    | [テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")  |                                           |                       |                         |     |
 
 ### スポンサー
 
@@ -115,7 +115,11 @@
 
 ### 2006年1月
 
-**放送時間** - 2006年1月2日 15:45-16:15
+#### 放送時間
+
+  - 2006年1月2日 15:45 - 16:15
+
+<!-- end list -->
 
   - 出演
 
@@ -423,12 +427,12 @@
 
 ## 外部リンク
 
-  - [CHIMPAN NEWS CHANNEL](http://web.archive.org/web/20100823013202/http://www.fujitv.co.jp/cnc/index2.html) - フジテレビ（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")保存データ）
+  - [CHIMPAN NEWS CHANNEL](https://web.archive.org/web/20100823013202/http://www.fujitv.co.jp/cnc/index2.html) - フジテレビ（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")保存データ）
   - [CHIMPAN NEWS CHANNEL](https://www.fujitv.co.jp/b_hp/chimpannews/) - フジテレビ（番組基本情報ページ）
 
 [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:フジテレビの情報・ワイドショー番組 "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:フジテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:フジテレビのミニ番組 "wikilink") [Category:フジテレビの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの帯番組の歴史 "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:テレビの動物番組](https://ja.wikipedia.org/wiki/Category:テレビの動物番組 "wikilink") [Category:サルを題材とした作品](https://ja.wikipedia.org/wiki/Category:サルを題材とした作品 "wikilink")
 
 1.  [チンパンジーテレビ出演「ノー」　「フジテレビ」に支援団体が抗議](http://news.infoseek.co.jp/article/20071012jcast2007212189) [J-CASTニュース](../Page/ジェイ・キャスト.md "wikilink")、2007年10月12日
-2.  [違法テレビ出演\!?チンパンジーキャスター](http://web.archive.org/web/20061121202737/http://www.nikkansports.com/general/p-gn-tp0-20060918-91678.html) [日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")、2006年9月18日のアーカイブ
+2.  [違法テレビ出演\!?チンパンジーキャスター](https://web.archive.org/web/20061121202737/http://www.nikkansports.com/general/p-gn-tp0-20060918-91678.html) [日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")、2006年9月18日のアーカイブ
 3.  [チンパンジーのＴＶバラエティ等における使用に関する緊急のアピール](http://www.saga-jp.org/request200710.html)
 4.  [チンパンジーの笑顔を知っていますか？](http://www.saga-jp.org/chimp_smile.html)

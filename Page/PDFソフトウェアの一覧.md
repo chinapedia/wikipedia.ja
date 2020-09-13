@@ -7,7 +7,11 @@
 
   - [Adobe Acrobat Reader](https://ja.wikipedia.org/wiki/Adobe_Acrobat_Reader "wikilink") - 無料。
 
+  - [Wondershare PDFelement（PDFエレメント）](https://pdf.wondershare.jp/)（日本語版） - PDFビューア、PDF作成。
+
   - [DK PDF](https://www.microsoft.com/store/apps/9NVQQ9KXS9NW) - 無料。 Viewer, 檢索, 倂合, 分割, 翻訳, UWP Version
+
+  - [ApowerPDF](../Page/ApowerPDF.md "wikilink") \[[https://www.apowersoft.jp/pdf-editor\]-](https://www.apowersoft.jp/pdf-editor%5D-) PDFの表示、作成、検索、変換、印刷、編集機能を搭載
 
   - [Brava Reader](http://www.bravaviewer.jp/products/reader/) - PDF、[TIFF](../Page/Tagged_Image_File_Format.md "wikilink")、[XPSおよびCSFファイルに対応したビューア](../Page/XML_Paper_Specification.md "wikilink")。
 
@@ -62,6 +66,8 @@
 ### アプリケーションソフト（製品）
 
   - [Adobe Acrobat](../Page/Adobe_Acrobat.md "wikilink")（[アドビシステムズ](../Page/アドビシステムズ.md "wikilink")）
+
+  - [Wondershare PDFelement（PDFエレメント）](https://pdf.wondershare.jp/) （日本語版）- PDFの作成・編集・変換・結合・圧縮・OCRなどこれ一本でOKです！
 
   - [Adobe Photoshop](../Page/Adobe_Photoshop.md "wikilink")（アドビシステムズ）
 
@@ -155,6 +161,10 @@
   - [Apache FOP](../Page/Apache_FOP.md "wikilink")（[Apache XML Graphicsプロジェクト](../Page/Apache_XML_Graphics.md "wikilink")）
 
 ## PDFファイルをワープロや表計算ファイルに変換するソフトウェア
+
+  - [Wondershare PDFelement（PDFエレメント）](https://pdf.wondershare.jp/) - PDFをワード、エクセル、パワーポイント、画像、epubに変換。
+
+  - [PDFから簡単変換！プロ](https://www.wondershare.jp/win/pdf-converter-pro.html) - PDF変換専用ソフト、OCR機能付き。
 
   - [JUST PDF［データ変換］](https://ja.wikipedia.org/wiki/JUST_PDF "wikilink")（[ジャストシステム](../Page/ジャストシステム.md "wikilink")） - クロスランゲージの[OEM](../Page/OEM.md "wikilink")。
 

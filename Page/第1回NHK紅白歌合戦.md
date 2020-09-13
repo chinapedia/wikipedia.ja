@@ -72,8 +72,8 @@
   - 後年の取材において、紅組司会の加藤は「第1回の司会をしたことをすっかり忘れていた」、白組司会の藤倉は「（白組司会の話を受けた際）正月位は休ませろとゴネた記憶がある」と語った\[7\]。
   - 上述の通り、当初は単発番組扱いであった紅白が[長寿番組化することを予想していたスタッフはいなかったという](../Page/長寿番組の一覧.md "wikilink")。一方で、当時NHKに入局したばかりだった[川口幹夫](../Page/川口幹夫.md "wikilink")は本紅白をラジオで聴き、紅白が将来大きくなることを予想したという。放送後、あまりの好評により、翌年（1952年）に[第2回を放送](../Page/第2回NHK紅白歌合戦.md "wikilink")、以降長らく続く長寿番組となり、川口は紅白を国民的番組に育て上げることになる。
   - 第2回では、白組司会は藤倉が続投したのに対し、紅組司会については今回担当者の加藤が「アドリブが利かない」と判断され[丹下キヨ子](../Page/丹下キヨ子.md "wikilink")に交代となった。
-  - [2011年](../Page/2011年.md "wikilink")[8月16日](../Page/8月16日.md "wikilink")に[二葉あき子](../Page/二葉あき子.md "wikilink")が死去して以降、[2019年](../Page/2019年.md "wikilink")（令和元年）現在まで第1回出演者の存命者はトップバッターの[菅原都々子](../Page/菅原都々子.md "wikilink")ただ1人となっている。
-  - [2009年](../Page/2009年.md "wikilink")（平成21年）[8月22日](../Page/8月22日.md "wikilink")放送の『第41回[思い出のメロディー](../Page/思い出のメロディー.md "wikilink")』で本紅白の再現コーナーが設けられ2006年末でプロ歌手を引退していた菅原が3年ぶりに出演し、一夜限りの特別出演で「[憧れの住む町](https://ja.wikipedia.org/wiki/憧れの住む町 "wikilink")」を披露した。
+  - [2011年](../Page/2011年.md "wikilink")[8月16日](../Page/8月16日.md "wikilink")に[二葉あき子](../Page/二葉あき子.md "wikilink")が死去して以降、[2019年](../Page/2019年.md "wikilink")（令和元年）現在まで第1回出演者のうち存命者はトップバッターの[菅原都々子](../Page/菅原都々子.md "wikilink")ただ1人となっている。
+  - [2009年](../Page/2009年.md "wikilink")（平成21年）[8月22日](../Page/8月22日.md "wikilink")放送の『第41回[思い出のメロディー](../Page/思い出のメロディー.md "wikilink")』で本紅白の再現コーナーが設けられ、2006年末でプロ歌手を引退していた菅原が3年ぶりに出演し、一夜限りの特別出演で「[憧れの住む町](https://ja.wikipedia.org/wiki/憧れの住む町 "wikilink")」を披露した。
 
 ## 脚注
 
@@ -87,8 +87,8 @@
   -
 ## 外部リンク
 
-  - [NHK紅白歌合戦 公式サイト](https://www.nhk.or.jp/kouhaku/)
-  - [第１回　紅白歌合戦　NHK名作選（動画・静止画） NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009060095_00000)
+  - [NHK紅白歌合戦 公式サイト](https://www.nhk.or.jp/kouhaku/history/history.html?count=1)
+  - [第1回　紅白歌合戦　NHK名作選（動画・静止画） NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009060095_00000)
 
 [fi:Kōhaku Uta Gassen](https://ja.wikipedia.org/wiki/fi:Kōhaku_Uta_Gassen "wikilink")
 

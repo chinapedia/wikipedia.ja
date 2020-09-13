@@ -75,7 +75,7 @@
 
 ## 外部リンク
 
-  - [テレビ朝日ホームページ](http://www.tv-asahi.co.jp/)
-  - [テレビ朝日・アニメ動画配信](http://www.tv-asahi.co.jp/anime/)
+  - [テレビ朝日ホームページ](https://www.tv-asahi.co.jp/)
+  - [テレビ朝日・アニメ動画配信](https://www.tv-asahi.co.jp/anime/)
 
 [Category:テレビ朝日系アニメの放送枠](https://ja.wikipedia.org/wiki/Category:テレビ朝日系アニメの放送枠 "wikilink") [Category:テレビ朝日のローカル番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日のローカル番組 "wikilink") [Category:再放送番組](https://ja.wikipedia.org/wiki/Category:再放送番組 "wikilink")

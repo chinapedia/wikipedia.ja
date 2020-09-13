@@ -1,27 +1,38 @@
 > この記事は[THE CIRCLE](https://ja.wikipedia.org/wiki/THE_CIRCLE)から翻訳されています。
 
 
-『**THE CIRCLE**』(ザ・サークル)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")が、[2005年](../Page/2005年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")にリリースした、14作目の[オリジナル・アルバムである](../Page/スタジオ・アルバム.md "wikilink")。
+| Length = 48分14秒 | Label = [VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink") | Producer = [松本孝弘](../Page/松本孝弘.md "wikilink") | Reviews = \*cdjournal.com [link](http://www.cdjournal.com/main/cd/disc.php?dno=4105030233) | Chart position = \*週間1位 ([オリコン](../Page/オリコンチャート.md "wikilink"))
+
+  - 2005年4月度月間1位 (オリコン)
+  - 2005年度年間15位 (オリコン)
+
+| Certification = \*ダブル・プラチナ ([日本レコード協会](../Page/日本レコード協会.md "wikilink"))
+
+  - 第20回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")ロック&ポップ・アルバム・オブ・ザ・イヤー\[1\]
+
+| Last album =  | This album =  | Next album =  | Misc =  }}
+
+『**THE CIRCLE**』(ザ・サークル)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")が、2005年4月6日にリリースした、14作目の[オリジナル・アルバムである](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 概要
 
 長期に渡るソロ活動を終えて発表されたオリジナル・アルバム。
 
-アルバム・タイトルの『**CIRCLE**』は「[輪廻](../Page/輪廻.md "wikilink")」という意味合いをもたせている。これは、[松本孝弘](../Page/松本孝弘.md "wikilink")と[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")の長いソロ活動の後に再集結し、作業を進める中で「バンドは破滅を繰り返しながらも再生していく」と輪廻を感じたことに由来している\[1\]。
+アルバム・タイトルの『**CIRCLE**』は「[輪廻](../Page/輪廻.md "wikilink")」という意味合いをもたせている。これは、[松本孝弘](../Page/松本孝弘.md "wikilink")と[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")の長いソロ活動の後に再集結し、作業を進める中で「バンドは破滅を繰り返しながらも再生していく」と輪廻を感じたことに由来している\[2\]。
 
-ジャケット写真は[石垣島](../Page/石垣島.md "wikilink")で撮影された。当初「夏の爽やかな一枚」を撮ることを予定していたが、台風が直撃したことにより、曇りの中での撮影となった\[2\]。なお、このジャケット写真は、[アップルの製品である初代](../Page/アップル_\(企業\).md "wikilink")[iPod nanoの公式ホームページやカタログなどの液晶画面に使われていた](https://ja.wikipedia.org/wiki/iPod_nano "wikilink")。
+ジャケット写真は[石垣島](../Page/石垣島.md "wikilink")で撮影された。当初「夏の爽やかな一枚」を撮ることを予定していたが、台風が直撃したことにより、曇りの中での撮影となった\[3\]。なお、このジャケット写真は、[アップルの製品である初代](../Page/アップル_\(企業\).md "wikilink")[iPod nanoの公式ホームページやカタログなどの液晶画面に使われていた](https://ja.wikipedia.org/wiki/iPod_nano "wikilink")。
 
-10thアルバム『[Brotherhood](../Page/Brotherhood_\(B'zのアルバム\).md "wikilink")』以来となるバンドメンバーを固定した、[ジャム・セッションのスタイルをとっている](../Page/ジャム_\(音楽\).md "wikilink")。これは、最初からテーマとして上げたのではなく、自然とそのようにスタートしたものだという\[3\]。B'zのアルバムの中でも極めてシンプルな音像の作品になっている。
+10thアルバム『[Brotherhood](../Page/Brotherhood_\(B'zのアルバム\).md "wikilink")』以来となるバンドメンバーを固定した、[ジャム・セッションのスタイルをとっている](../Page/ジャム_\(音楽\).md "wikilink")。これは、最初からテーマとして上げたのではなく、自然とそのようにスタートしたものだという\[4\]。B'zのアルバムの中でも極めてシンプルな音像の作品になっている。
 
 シングル曲は本作の先行シングル「[愛のバクダン](../Page/愛のバクダン.md "wikilink")」のみで、前年のシングル「[BANZAI](../Page/BANZAI_\(B'zの曲\).md "wikilink")」と「[ARIGATO](../Page/ARIGATO_\(B'zの曲\).md "wikilink")」は、本作には合わないということで未収録となった。また、「[なりふりかまわず抱きしめて](../Page/OCEAN_\(B'zの曲\).md "wikilink")」は、この時期のアウトテイクである。その一方で、3rdアルバム『[BREAK THROUGH](../Page/BREAK_THROUGH.md "wikilink")』以来15年ぶりに[2nd beatが収録されている](https://ja.wikipedia.org/wiki/B'z_#2nd_beat "wikilink")(後述)。
 
 同年に行われたアルバム・ツアー『[B'z LIVE-GYM 2005 "CIRCLE OF ROCK"](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2005_-CIRCLE_OF_ROCK- "wikilink")』ではアルバム・ツアータイトルにかけて、B'z史上初の360度円形センターステージで行われた。なお、ツアー・タイトルはアルバム・タイトル決定前にすでに決まっており、B'zとしてはかなり異例のことだったという。これは、「Pleasureシリーズ」が封印されたことで、「アルバムツアー」という概念も曖昧になってきていることが影響している。メンバーは、本作が近年のB'zを聴いていく上での「入門編」となるのではないか、と語った。
 
-[2018年](../Page/2018年.md "wikilink")に結成30周年記念として『[DINOSAUR](https://ja.wikipedia.org/wiki/DINOSAUR_\(B'zのアルバム\) "wikilink")』までのオリジナル・アルバムと共に[アナログレコード化された](../Page/レコード.md "wikilink")\[4\]。
+2018年に結成30周年記念として『[DINOSAUR](https://ja.wikipedia.org/wiki/DINOSAUR_\(B'zのアルバム\) "wikilink")』までのオリジナル・アルバムと共に[アナログレコード化された](../Page/レコード.md "wikilink")\[5\]。
 
 ## チャート記録
 
-オリコンアルバムチャートにおいて、19作連続での首位を獲得し、900作目の1位獲得作品ともなった\[5\]。また、本作で史上初のアルバム総売上4000万枚を突破した\[6\]。
+オリコンアルバムチャートにおいて、19作連続での首位を獲得し、900作目の1位獲得作品ともなった\[6\]。また、本作で史上初のアルバム総売上4000万枚を突破した\[7\]。
 
 ## 収録曲
 
@@ -41,7 +52,7 @@
       -
         この曲での「X」は[未知数](https://ja.wikipedia.org/wiki/未知数 "wikilink")を意味し、歌詞はアルバムのテーマでもある「破滅と再生」について書いたという。
         日本で[サビ](../Page/サビ.md "wikilink")だけを作り、それをロサンゼルスのスタジオでの[ジャム・セッションで完成させていった](../Page/ジャム_\(音楽\).md "wikilink")。
-        前曲「THE CIRCLE」のトラックの最後にこの曲のイントロが重ねられている\[7\]が、元々「THE CIRCLE」と続けて配置するつもりはなく、[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")も別々だった。しかし並べてみたところしっくりと来たのでこの並びになったという。
+        前曲「THE CIRCLE」のトラックの最後にこの曲のイントロが重ねられている\[8\]が、元々「THE CIRCLE」と続けて配置するつもりはなく、[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")も別々だった。しかし並べてみたところしっくりと来たのでこの並びになったという。
         アルバムツアーではドーム公演のみ披露された。
 3.  **パルス** (2:45)
       -
@@ -78,7 +89,7 @@
 9.  **[Fever](../Page/愛のバクダン.md "wikilink")** (4:17)
       -
         38thシングル『愛のバクダン』[2nd beat](https://ja.wikipedia.org/wiki/2nd_beat "wikilink")。
-        アルバムにシングルの2nd beatが収録されたのは、「[LOVE & CHAIN](https://ja.wikipedia.org/wiki/LADY-GO-ROUND_#収録曲 "wikilink")」以来15年ぶりとなった\[8\]。
+        アルバムにシングルの2nd beatが収録されたのは、「[LOVE & CHAIN](https://ja.wikipedia.org/wiki/LADY-GO-ROUND_#収録曲 "wikilink")」以来15年ぶりとなった\[9\]。
 10. **白い火花** (3:59)
       -
         B'zの楽曲では数少ない[ベース](../Page/ベース_\(弦楽器\).md "wikilink")[ソロが存在する](../Page/ソロ_\(音楽\).md "wikilink")。松本曰く、「少し普段のB'zとは趣を異にしている」楽曲。
@@ -104,7 +115,7 @@
         「愛のバクダン」より後に制作された曲で本来は収録予定はなかったが、急遽追加された。レコーディングは2月(つまりアルバム発売2ヶ月前)に行われた。
         歌詞は最初から英語で書こうと思い、「シェーンとかに協力してもらって、歌詞のフレージングと、歌になったときの英語の音の感じとかを試してみた」とのこと。そのため、メロディにあまり言葉を詰め込まずに緩やかに表情豊かに、[韻を踏むというよりもストーリーを重視したという](../Page/押韻.md "wikilink")。歌詞カードには日本語訳が記載されている。
         2007年に海外の[iTunes Storeで配信されたミニ](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")・アルバム『[B'z](../Page/B'z_\(2007年のアルバム\).md "wikilink")』にミックス違いのバージョンが収録されている。
-        アルバムツアーでは未演奏となったが、2006年9月1日に行われた、[ドワンゴ](../Page/ドワンゴ.md "wikilink")提供の完全招待制の『[B'z NETWORK LIVE in Japan](../Page/B'z_LIVE_in_なんば.md "wikilink")』にて初披露された。また、[2012年](../Page/2012年.md "wikilink")に行われた『PEPSI NEX presents B'z PREMIUM LIVE OSAKA/TOKYO』、『[B'z LIVE-GYM 2012 -Into Free-](https://ja.wikipedia.org/wiki/LIVE-GYM_#2009年〜2013年 "wikilink")』でも演奏され、主に国外向けのライブでの演奏が多い。
+        アルバムツアーでは未演奏となったが、2006年9月1日に行われた、[ドワンゴ](../Page/ドワンゴ.md "wikilink")提供の完全招待制の『[B'z NETWORK LIVE in Japan](../Page/B'z_LIVE_in_なんば.md "wikilink")』にて初披露された。また、2012年に行われた『PEPSI NEX presents B'z PREMIUM LIVE OSAKA/TOKYO』、『[B'z LIVE-GYM 2012 -Into Free-](https://ja.wikipedia.org/wiki/EPIC_DAY#DVD_（初回限定盤のみ） "wikilink")』でも演奏され、主に国外向けのライブでの演奏が多い。
 
 ## タイアップ
 
@@ -178,5 +189,6 @@
 4.
 5.
 6.
-7.  [iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")での配信の際には修正されている。
-8.  4thシングル『[BE THERE](../Page/BE_THERE.md "wikilink")』以降のシングルの2nd beatはオリジナル・アルバムには未収録となっていた。
+7.
+8.  [iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")での配信の際には修正されている。
+9.  4thシングル『[BE THERE](../Page/BE_THERE.md "wikilink")』以降のシングルの2nd beatはオリジナル・アルバムには未収録となっていた。

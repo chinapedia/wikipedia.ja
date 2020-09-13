@@ -187,7 +187,7 @@ Key設立から10年目の[2009年](../Page/2009年.md "wikilink")[2月28日](..
 
 Kanon、AIR、CLANNADの3作品の共通点としては、[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")制作のものと、[京都アニメーション](../Page/京都アニメーション.md "wikilink")制作のものと2つ作られたことである。前者はKanonのみ[フジテレビ系のテレビアニメとして制作](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、他2作品は劇場版として制作されている。後者はいずれも[TBSが制作に関与している](../Page/TBSテレビ.md "wikilink")。
 
-リトルバスターズ\!は[J.C.STAFF](../Page/ジェー・シー・スタッフ.md "wikilink")、Rewriteは[エイトビット](https://ja.wikipedia.org/wiki/エイトビット "wikilink")、planetarian 〜ちいさなほしのゆめ〜は[david productionで制作](https://ja.wikipedia.org/wiki/david_production "wikilink")。アニメオリジナル作品であるAngel Beats\!とCharlotteはいずれも[P.A.WORKS](https://ja.wikipedia.org/wiki/P.A.WORKS "wikilink")で制作された。
+リトルバスターズ\!は[J.C.STAFF](../Page/ジェー・シー・スタッフ.md "wikilink")、Rewriteは[エイトビット](https://ja.wikipedia.org/wiki/エイトビット "wikilink")、planetarian 〜ちいさなほしのゆめ〜は[david productionで制作](https://ja.wikipedia.org/wiki/david_production "wikilink")。アニメオリジナル作品であるAngel Beats\!、Charlotte、神様になった日はいずれも[P.A.WORKS](https://ja.wikipedia.org/wiki/P.A.WORKS "wikilink")で制作された。
 
 <table>
 <thead>

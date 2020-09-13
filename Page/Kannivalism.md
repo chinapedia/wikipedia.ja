@@ -41,7 +41,7 @@
 
 ### 第１期
 
-2001年初頭に怜、K、8342、桐の４人体制で活動を開始。メンバー全員が10代（最年少のKは16歳）という話題性や、当時新興ブランドであった[h.NAOTO](https://ja.wikipedia.org/wiki/h.NAOTO "wikilink")の広告モデルとしても活動を行い、のちに[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")シーンで「オサレ系」と呼ばれるバンドを多く生む怜の独自のファッション性などで急速に人気を得るが\[1\]、2001年6月20日、[目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink")でのワンマンライブをもって解散。シングル「逝ってキマス。」が唯一の音源として発表されている。
+2001年初頭に怜、K、8342、桐の４人体制で活動を開始。メンバー全員が10代（最年少のKは16歳）という話題性や、当時新興ブランドであった[h.NAOTO](https://ja.wikipedia.org/wiki/h.NAOTO "wikilink")の広告モデルとしても活動を行い、のちに[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")シーンで「オサレ系」と呼ばれるバンドを多く生む怜の独自のファッション性などで急速に人気を得るが\[1\]、2001年6月20日、[目黒鹿鳴館](../Page/目黒鹿鳴館.md "wikilink")でのワンマンライブをもって解散。シングル「逝ってキマス。」が唯一の音源として発表されている。
 
 その後、怜～れん～は怜、Kは圭へ名義を変更し、2001年夏[バロックへ加入](https://ja.wikipedia.org/wiki/baroque "wikilink")。8342はk@mikazeのメンバーとして活動し、k@mikaze脱退後はゆちのすけ等の名義で[雅-miyavi-のサポートベースなど各所で活動](../Page/MIYAVI.md "wikilink")。桐はポロリのメンバーとして活動後、2005年に[heidi.](https://ja.wikipedia.org/wiki/heidi. "wikilink")を結成、活動中。
 
@@ -92,7 +92,7 @@
 <li>トリップショートケーキ</li>
 <li><p>[8]</p></li>
 </ol></td>
-<td><p>会場限定盤は2001年6月20日<a href="https://ja.wikipedia.org/wiki/目黒鹿鳴館" title="wikilink">目黒鹿鳴館</a>ライブ限定。店頭販売盤は2000枚限定発売</p></td>
+<td><p>会場限定盤は2001年6月20日<a href="../Page/目黒鹿鳴館.md" title="wikilink">目黒鹿鳴館</a>ライブ限定。店頭販売盤は2000枚限定発売</p></td>
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
@@ -529,25 +529,25 @@ music.jp TVCFソング</p></td>
 
 ## 主なライブなど
 
-| 開催日                  | 公演名                                                            | 備考                                                                                     |
-| -------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| 2005年12月31日          |                                                                | HOLIDAY NAGOYA、HOLIDAY SHINJYUKUにてシークレット出演                                             |
-| 2006年3月5日            | independence-D 2006                                            | [新木場STUDIO COASTにて公式初ライブ](../Page/STUDIO_COAST.md "wikilink")                          |
-| 2006年5月27日           | 黒諧謔 ブラック・ユーモアリティ                                               | [CLUB CITTA'川崎での初ワンマンライブ](../Page/CLUB_CITTA'.md "wikilink")                           |
-| 2006年8月2日            | S'CUBER DIVE〜渋谷が大変〜                                            | [渋谷O-EAST](../Page/Shibuya_O-EAST.md "wikilink")                                       |
-| 2006年12月14日 - 12月27日 |                                                                | デビューシングル「リトリ」発売記念無料東名阪ライブ                                                              |
-| 2007年3月11日 - 5月13日   | TOUR2007 APPLE CHING★PO-PO                                     | ワンマンツアー                                                                                |
-| 2007年8月4日 - 9月17日    | TOUR07 APPLE CHING★PO-PO Episod II                             | ワンマンツアー                                                                                |
-| 2009年12月26日          | syncretism                                                     | [Zepp Tokyoでの復活ワンマンライブ](../Page/Zepp.md "wikilink")                                    |
-| 2010年3月30日           | she said,under the helios.                                     | [中野サンプラザ](../Page/中野サンプラザ.md "wikilink")でのワンマンライブ                                      |
-| 2010年4月1日            | concept live vol.1                                             | [目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink")での第１期kannivalismメンバーによるコンセプトライブ |
-| 2010年4月29日 - 5月5日    | EXTRA-TERRITORIAL                                              | 主催イベントツアー                                                                              |
-| 2010年8月23日           | the other side of the love                                     | [渋谷C.C.Lemonホールでのワンマンライブ](../Page/渋谷公会堂.md "wikilink")                                 |
-| 2010年12月9日 - 12月28日  | TOUR reincarnation of helios                                   | ワンマンツアー                                                                                |
-| 2010年12月29日          | [COUNTDOWN JAPAN 10/11](../Page/COUNTDOWN_JAPAN.md "wikilink") | [幕張メッセ](../Page/幕張メッセ.md "wikilink")国際展示場1～8ホール、イベントホール                                |
-| 2011年1月28日 - 01月30日  | ポルノ超特急                                                         |                                                                                        |
-| 2017年11月22日          | PARTY ZOO                                                      | [Zepp Tokyoでの](../Page/Zepp.md "wikilink")１日復活ライブ                                      |
-| 2019年1月14日           | Free-Will SLUM                                                 | [新木場STUDIO COASTでの](../Page/STUDIO_COAST.md "wikilink")１日復活ライブ                         |
+| 開催日                  | 公演名                                                            | 備考                                                                  |
+| -------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 2005年12月31日          |                                                                | HOLIDAY NAGOYA、HOLIDAY SHINJYUKUにてシークレット出演                          |
+| 2006年3月5日            | independence-D 2006                                            | [新木場STUDIO COASTにて公式初ライブ](../Page/STUDIO_COAST.md "wikilink")       |
+| 2006年5月27日           | 黒諧謔 ブラック・ユーモアリティ                                               | [CLUB CITTA'川崎での初ワンマンライブ](../Page/CLUB_CITTA'.md "wikilink")        |
+| 2006年8月2日            | S'CUBER DIVE〜渋谷が大変〜                                            | [渋谷O-EAST](../Page/Shibuya_O-EAST.md "wikilink")                    |
+| 2006年12月14日 - 12月27日 |                                                                | デビューシングル「リトリ」発売記念無料東名阪ライブ                                           |
+| 2007年3月11日 - 5月13日   | TOUR2007 APPLE CHING★PO-PO                                     | ワンマンツアー                                                             |
+| 2007年8月4日 - 9月17日    | TOUR07 APPLE CHING★PO-PO Episod II                             | ワンマンツアー                                                             |
+| 2009年12月26日          | syncretism                                                     | [Zepp Tokyoでの復活ワンマンライブ](../Page/Zepp.md "wikilink")                 |
+| 2010年3月30日           | she said,under the helios.                                     | [中野サンプラザ](../Page/中野サンプラザ.md "wikilink")でのワンマンライブ                   |
+| 2010年4月1日            | concept live vol.1                                             | [目黒鹿鳴館](../Page/目黒鹿鳴館.md "wikilink")での第１期kannivalismメンバーによるコンセプトライブ |
+| 2010年4月29日 - 5月5日    | EXTRA-TERRITORIAL                                              | 主催イベントツアー                                                           |
+| 2010年8月23日           | the other side of the love                                     | [渋谷C.C.Lemonホールでのワンマンライブ](../Page/渋谷公会堂.md "wikilink")              |
+| 2010年12月9日 - 12月28日  | TOUR reincarnation of helios                                   | ワンマンツアー                                                             |
+| 2010年12月29日          | [COUNTDOWN JAPAN 10/11](../Page/COUNTDOWN_JAPAN.md "wikilink") | [幕張メッセ](../Page/幕張メッセ.md "wikilink")国際展示場1～8ホール、イベントホール             |
+| 2011年1月28日 - 01月30日  | ポルノ超特急                                                         |                                                                     |
+| 2017年11月22日          | PARTY ZOO                                                      | [Zepp Tokyoでの](../Page/Zepp.md "wikilink")１日復活ライブ                   |
+| 2019年1月14日           | Free-Will SLUM                                                 | [新木場STUDIO COASTでの](../Page/STUDIO_COAST.md "wikilink")１日復活ライブ      |
 
 ## 脚注
 

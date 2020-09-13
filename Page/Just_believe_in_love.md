@@ -8,18 +8,33 @@
   - 6thアルバム『[forever you](https://ja.wikipedia.org/wiki/forever_you_\(アルバム\) "wikilink")』からの先行シングル。
   - 表題曲のタイアップ先のドラマのタイトルが、ZARDの楽曲・アルバムにある『揺れる想い』となっている。
   - 「[IN MY ARMS TONIGHT](../Page/IN_MY_ARMS_TONIGHT.md "wikilink")」以来の横型ジャケット。また横型ジャケットでは最後の作品である。
+  - 本作の歌詞の冒頭に出てくる”擦り切れるほど聴いたアルバム”とは坂井の実話であり、1999年にZARDとしてもカバーした「[CAN'T TAKE MY EYES OFF OF YOU](https://ja.wikipedia.org/wiki/CAN'T_TAKE_MY_EYES_OFF_OF_YOU "wikilink")」のことである。
 
 ## 収録曲
 
 1.  **Just believe in love**
       -
-        作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")　作曲：[春畑道哉](../Page/春畑道哉.md "wikilink")　編曲：[葉山たけし](../Page/葉山たけし.md "wikilink")
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")
+        作曲：[春畑道哉](../Page/春畑道哉.md "wikilink")
+        編曲：[葉山たけし](../Page/葉山たけし.md "wikilink")
+
+        </div>
     <!-- end list -->
       - [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[揺れる想い](../Page/揺れる想い_\(テレビドラマ\).md "wikilink")』主題歌。TVサイズのアレンジは歌い出しがサビになっているなど、シングルバージョンとは異なる。
       - 「[IN MY ARMS TONIGHT](../Page/IN_MY_ARMS_TONIGHT.md "wikilink")」以来の[TUBE](../Page/TUBE.md "wikilink")の春畑道哉作曲。また編曲もシングルでは「[負けないで](../Page/負けないで.md "wikilink")」以来の葉山たけし。
 2.  **Ready,Go\!**
       -
-        作詞：坂井泉水　作曲：[川島だりあ](../Page/川島だりあ.md "wikilink")　編曲：葉山たけし
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：坂井泉水
+        作曲：[川島だりあ](../Page/川島だりあ.md "wikilink")
+        編曲：葉山たけし
+
+        </div>
     <!-- end list -->
       - 川島だりあが提供した楽曲はこの曲が最後である。
       - 2001年発売のセレクションアルバム『[ZARD BLEND II 〜LEAF\&SNOW〜](https://ja.wikipedia.org/wiki/ZARD_BLEND_II_〜LEAF&SNOW〜 "wikilink")』にアルバム初収録となった。1999年の[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")『[ZARD BEST 〜Request Memorial〜](../Page/ZARD_BEST_〜Request_Memorial〜.md "wikilink")』には未収録であるが、リクエストではカップリングでは5位となった。2008年のベストアルバム『[ZARD Request Best 〜beautiful memory〜](../Page/ZARD_Request_Best_〜beautiful_memory〜.md "wikilink")』では総合22位で収録された。

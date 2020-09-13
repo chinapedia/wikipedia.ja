@@ -63,7 +63,7 @@ Misumiが2018年現在行っている事業としては以下のものがある\
 
   - [株式会社Misumi](http://kk-misumi.jp/)
 
-[Category:日本の卸売企業](https://ja.wikipedia.org/wiki/Category:日本の卸売企業 "wikilink") [Category:日本のエネルギー関連企業](https://ja.wikipedia.org/wiki/Category:日本のエネルギー関連企業 "wikilink") [Category:日本の食品産業](https://ja.wikipedia.org/wiki/Category:日本の食品産業 "wikilink") [Category:鹿児島市の企業](https://ja.wikipedia.org/wiki/Category:鹿児島市の企業 "wikilink") [Category:福証上場企業](https://ja.wikipedia.org/wiki/Category:福証上場企業 "wikilink") [Category:熊本県発祥の企業](https://ja.wikipedia.org/wiki/Category:熊本県発祥の企業 "wikilink") [Category:1959年設立の企業](https://ja.wikipedia.org/wiki/Category:1959年設立の企業 "wikilink") [Category:JXTGエネルギーの系列販売店](https://ja.wikipedia.org/wiki/Category:JXTGエネルギーの系列販売店 "wikilink") [Category:1995年上場の企業](https://ja.wikipedia.org/wiki/Category:1995年上場の企業 "wikilink")
+[Category:日本の卸売企業](https://ja.wikipedia.org/wiki/Category:日本の卸売企業 "wikilink") [Category:日本のエネルギー関連企業](https://ja.wikipedia.org/wiki/Category:日本のエネルギー関連企業 "wikilink") [Category:日本の食品産業](https://ja.wikipedia.org/wiki/Category:日本の食品産業 "wikilink") [Category:鹿児島市の企業](https://ja.wikipedia.org/wiki/Category:鹿児島市の企業 "wikilink") [Category:福証上場企業](https://ja.wikipedia.org/wiki/Category:福証上場企業 "wikilink") [Category:熊本県発祥の企業](https://ja.wikipedia.org/wiki/Category:熊本県発祥の企業 "wikilink") [Category:1959年設立の企業](https://ja.wikipedia.org/wiki/Category:1959年設立の企業 "wikilink") [Category:ENEOSの系列販売店](https://ja.wikipedia.org/wiki/Category:ENEOSの系列販売店 "wikilink") [Category:1995年上場の企業](https://ja.wikipedia.org/wiki/Category:1995年上場の企業 "wikilink")
 
 1.  [社是・経営方針](http://kk-misumi.jp/business01) - 株式会社Misumi 2011年12月10日閲覧。
 2.  [会社概要](http://kk-misumi.jp/business_index) - 株式会社Misumi 2013年08月29日閲覧。

@@ -116,9 +116,9 @@
   - 「カジュアル中華」　[竹原亨](https://ja.wikipedia.org/wiki/竹原亨 "wikilink")（「チャオリー」オーナーシェフ）
   - 「パスタ」　[塘永常貴](https://ja.wikipedia.org/wiki/塘永常貴 "wikilink")（「伊太利屋台」オーナーシェフ）
   - 「カレー」　[小林東子](https://ja.wikipedia.org/wiki/小林東子 "wikilink")（「イクイップメントフロア」オーナー）
-  - 「愛情弁当」　[西村直子](https://ja.wikipedia.org/wiki/西村直子（民謡歌手） "wikilink")（民謡歌手）
+  - 「愛情弁当」　[西村直子](https://ja.wikipedia.org/wiki/西村直子_\(民謡歌手\) "wikilink")（民謡歌手）
   - 「まごころおやつ」 [磯崎啓介](https://ja.wikipedia.org/wiki/磯崎啓介 "wikilink")（[お菓子の香梅](../Page/お菓子の香梅.md "wikilink")取締役技術部長・白山本店責任者）
-  - 「家庭ごはん」 [門田トモワ](https://ja.wikipedia.org/wiki/門田トモワ "wikilink")（[料理研究家](../Page/料理研究家.md "wikilink")）　
+  - 「家庭ごはん」 [門田トモワ](https://ja.wikipedia.org/wiki/門田トモワ "wikilink")（[料理研究家](../Page/料理研究家.md "wikilink")）
   - 「お手軽[洋食](../Page/洋食.md "wikilink")」 [小幡洋二](https://ja.wikipedia.org/wiki/小幡洋二 "wikilink")（「ア・マ・ファソン」オーナーシェフ）
 
 ### 夕方いちばんNEWS

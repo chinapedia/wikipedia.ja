@@ -7,7 +7,7 @@
 
 ## バンド名の由来
 
-「ONE OK ROCK」と書いて「ワン オク ロック」と読む。結成当時、練習スタジオに入るのが、深夜パックで料金が安くなる毎週末の午前1時（one o'clock）だったことから、o'clock部分をOKとROCKに置き換え、「ひとつの良いロック」にかけて名付けられた\[1\]。命名は初代ドラマー、You。他に候補として「タクシーズ」（Taka）、「ピストンズ」（Toru）、「ドタキャンしないんDES」などがあった。略称としては『ワンオク』『OOR』が用いられる。また数字では「10969」と表現される。なお、海外においてはRとLの発音の違いなどから「OKROCK (オーケーロック)」と書いて「o'clock (オクロック)」と読ませることは難しいので、「ワンオーケーロック(One Okay Rock)」と発音することで公式に統一している。
+「ONE OK ROCK」と書いて「ワン オク ロック」と読む。結成当時、練習スタジオに入るのが、深夜パックで料金が安くなる毎週末の午前1時（one o'clock）だったことから、o'clock部分をOKとROCKに置き換え、「ひとつの良いロック」にかけて名付けられた\[1\]。命名は初代ドラマー、You。他に候補として「タクシーズ」（Taka）、「ピストンズ」（Toru）、「ドタキャンしないんDES」、「アフリカンアボカド」などがあった。略称としては『ワンオク』『OOR』が用いられる。また数字では「10969」と表現される。なお、海外においてはRとLの発音の違いなどから「OKROCK (オーケーロック)」と書いて「o'clock (オクロック)」と読ませることは難しいので、「ワンオーケーロック(One Okay Rock)」と発音することで公式に統一している。
 
 ## メンバー
 
@@ -17,7 +17,7 @@
 
 ### Toru
 
-**Toru**（トオル、本名：**山下亨**（やました とおる）、[1988年](../Page/1988年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink") - ）[大阪府](../Page/大阪府.md "wikilink")出身。[Guitar](../Page/ギタリスト.md "wikilink")。
+**Toru**（トオル、本名：**山下亨**（やました とおる）、[1988年](../Page/1988年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink") - ）[大阪府](../Page/大阪府.md "wikilink")出身。[ギター](../Page/ギター.md "wikilink")を担当。
 
 バンドのリーダー。5人編成時代はサイドギター&ヴォーカルだったが、Alex脱退後に4人編成となったのを機にリードギターとなる。初期はラップも担当していた。作曲のほか、「努努-ゆめゆめ-」などでは作詞も行っている。
 
@@ -27,11 +27,13 @@
   - 所属事務所はアミューズで、小6の夏にはCDデビューも果たし、メディアにも登場していたが、事務所の勧めで中3で上京してまもなく、レコード会社に契約を打ち切られてしまう。
   - そんな時にマネージャーからロックを聴かされ、[RIZE](../Page/RIZE.md "wikilink")のライブなどに頻繁に出向くようになり、2005年（高2）の4月、Ryotaをベースに、同級生のYouをドラムに、上級生のAlexをリードギターに、自らはサイドギターとヴォーカルを担当しバンドを結成。同時期、友人を介してTakaのライブを見に行き、その声と歌唱力に圧倒されその場でメインヴォーカルに勧誘。強引に了解を取り付け、5人編成となって本格的にバンド活動を開始する。
   - 小学生のときに[Dragon Ashのライブを見る機会があり](../Page/Dragon_Ash.md "wikilink")、[Kjに](../Page/降谷建志.md "wikilink")「俺も大人になったらバンドやる」と話している\[2\]。後年、ONE OK ROCKのToruとして再会し、その時の小学生だと知ったKjを驚かせた。
+  - 2005年、連続テレビドラマ [Sh15uya](../Page/Sh15uya.md "wikilink")（2005年1月 - 3月、テレビ朝日）にリュウゴ 役で出演。
   - バンド結成当時は、Takaとともにライブハウスに売り込みに行っても以前の経歴による偏見などから断られることも多かった\[3\]が、バンドを急成長させるためできる限りライブの予定を入れ（結成から1年半の間に40本弱\[4\]）、前日にはメンバー一人一人に長文の熱いメールを送っていた。
   - [アヴリル・ラヴィーン](../Page/アヴリル・ラヴィーン.md "wikilink")の大ファンで、アヴリル来日時にバンドでの対談が実現した。
   - 公式サイトでダイアリーが連載されていた当時、Tomoyaに「兄さん」と書かれたことがあり、以降ファンの間での通称のひとつとなった。またTakaからは「Toruさん」と、さん付けで呼ばれることが多い。
   - メンバー4人中、唯一[タトゥー](https://ja.wikipedia.org/wiki/タトゥー "wikilink")を入れていない。
-  - 2019年、[milet](https://ja.wikipedia.org/wiki/milet "wikilink") 1st EP『inside you EP』の“inside you”でプロデュース・作曲に携わった。{{-}}
+  - 2019年、[milet](https://ja.wikipedia.org/wiki/milet "wikilink") 1st EP『inside you EP』の“inside you”でプロデュース・作曲に携わった。
+  - 2020年7月28日、[新型コロナウイルスに感染し入院したことを公表](../Page/2019新型コロナウイルス.md "wikilink")\[5\]。{{-}}
 
 #### 使用ギター
 
@@ -52,7 +54,7 @@
 
 ### Ryota
 
-**Ryota**（リョウタ、本名：**小浜良太**（こはま りょうた）、[1989年](../Page/1989年.md "wikilink")[9月4日](../Page/9月4日.md "wikilink") - ）大阪府出身。[Bass](../Page/ベーシスト.md "wikilink")。
+**Ryota**（リョウタ、本名：**小浜良太**（こはま りょうた）、[1989年](../Page/1989年.md "wikilink")[9月4日](../Page/9月4日.md "wikilink") - ）大阪府出身。[ベースを担当](../Page/ベース_\(弦楽器\).md "wikilink")。
 
 #### 人物
 
@@ -70,14 +72,14 @@
   - Takaのことは苗字からとって「森ちゃん」と、Tomoyaのことは「ともくん」と呼んでいる。
   - メンバーの中で一番運動神経が良く、バック転やバック宙など、アクロバットができる。
   - ライブでは頻繁に上半身裸になっている。
-  - Taka曰く、「超ピュアで人として何の汚れもない。尊敬できるところがたくさんある。彼を見てると、辛い事や嫌な事が軽くなる。僕にとって空気清浄機のような存在」\[5\]。
-  - 2017年2月19日、「ONE OK ROCK 2017 "Ambitions" JAPAN TOUR」の初日公演で、[アヴリル・ラヴィーン](../Page/アヴリル・ラヴィーン.md "wikilink")の実妹であるミシェルと結婚した事を発表\[6\]。
+  - Taka曰く、「超ピュアで人として何の汚れもない。尊敬できるところがたくさんある。彼を見てると、辛い事や嫌な事が軽くなる。僕にとって空気清浄機のような存在」\[6\]。
+  - 2017年2月19日、「ONE OK ROCK 2017 "Ambitions" JAPAN TOUR」の初日公演で、[アヴリル・ラヴィーン](../Page/アヴリル・ラヴィーン.md "wikilink")の実妹であるミシェルと結婚した事を発表\[7\]。
 
 {{-}}
 
 ### Tomoya
 
-**Tomoya**（トモヤ、本名：**神吉智也**（かんき ともや）、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[6月27日](../Page/6月27日.md "wikilink") - ）[兵庫県](../Page/兵庫県.md "wikilink")出身。[Drums](../Page/ドラマー.md "wikilink")。
+**Tomoya**（トモヤ、本名：**神吉智也**（かんき ともや）、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[6月27日](../Page/6月27日.md "wikilink") - ）[兵庫県](../Page/兵庫県.md "wikilink")[高砂市](../Page/高砂市.md "wikilink")荒井町出身。[ドラムスを担当](../Page/ドラムセット.md "wikilink")。
 
 #### 人物
 
@@ -86,10 +88,10 @@
   - [高砂市立荒井中学校](../Page/高砂市立荒井中学校.md "wikilink")時代は成績が良く、生徒会で書記もしていた。進学校の[兵庫県立加古川西高等学校](../Page/兵庫県立加古川西高等学校.md "wikilink")に進むが、中学時代の友人に誘われ、バンド「マリオネットキング」に加入、卒業後は上京して音楽の専門学校に行くと決め、そこからは全く勉強をしなくなった。
   - 入学した音楽の専門学校[ESPミュージカルアカデミー](https://ja.wikipedia.org/wiki/ESPミュージカルアカデミー "wikilink")で、バンドマンでもあった講師から「先日対バンしたバンドがドラマーを捜している。今凄く頑張ってるやつらだから一度会ってみてはどうか」と勧められ、サポート期間を経てメジャーデビューの1ヶ月前に正式に加入。
   - 緻密さと同時にダイナミックなグルーブ感も持ち合わせ、感情的で地音の大きなドラミングは評価が高く、Taka曰く「うちのドラマーは天才」。
-  - 日本で一番好きなドラマーは[Pay money To my PainのZAX](../Page/Pay_money_To_my_Pain.md "wikilink")。一打に命を賭け、魂を削って叩いている感じに感動した\[7\]。
+  - 日本で一番好きなドラマーは[Pay money To my PainのZAX](../Page/Pay_money_To_my_Pain.md "wikilink")。一打に命を賭け、魂を削って叩いている感じに感動した\[8\]。
   - [UNISON SQUARE GARDENの](https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink")[鈴木貴雄や](https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN#メンバー "wikilink")[凛として時雨](https://ja.wikipedia.org/wiki/凛として時雨 "wikilink")の[ピエール中野](https://ja.wikipedia.org/wiki/凛として時雨#メンバー "wikilink")、[RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")の[山口智史など](https://ja.wikipedia.org/wiki/RADWIMPS#山口智史 "wikilink")、様々なバンドのドラマーと仲が良い。
-  - 自他ともに認めるドMで、ドキュメンタリー映画『[FOOL COOL ROCK\! ONE OK ROCK DOCUMENTARY FILM](https://ja.wikipedia.org/wiki/FOOL_COOL_ROCK!_ONE_OK_ROCK_DOCUMENTARY_FILM "wikilink")』では自ら弄られに行ってる場面も。本人は「最年長だから弄られてあげてるだけ」と言っているが、実は空気を緩和する役割を買って出ている節もあることを、同映画の監督である中野裕之が証言している\[8\]。
-  - [卓球](../Page/卓球.md "wikilink")、[野球](../Page/野球.md "wikilink")、[テニス](../Page/テニス.md "wikilink")など球技全般が得意。また、2013年には42.195[kmの](https://ja.wikipedia.org/wiki/キロメーター "wikilink")[フルマラソン](https://ja.wikipedia.org/wiki/フルマラソン "wikilink")を4時間半で完走した\[9\]。
+  - 自他ともに認めるドMで、ドキュメンタリー映画『[FOOL COOL ROCK\! ONE OK ROCK DOCUMENTARY FILM](https://ja.wikipedia.org/wiki/FOOL_COOL_ROCK!_ONE_OK_ROCK_DOCUMENTARY_FILM "wikilink")』では自ら弄られに行ってる場面も。本人は「最年長だから弄られてあげてるだけ」と言っているが、実は空気を緩和する役割を買って出ている節もあることを、同映画の監督である中野裕之が証言している\[9\]。
+  - [卓球](../Page/卓球.md "wikilink")、[野球](../Page/野球.md "wikilink")、[テニス](../Page/テニス.md "wikilink")など球技全般が得意。また、2013年には42.195[kmの](https://ja.wikipedia.org/wiki/キロメーター "wikilink")[フルマラソン](https://ja.wikipedia.org/wiki/フルマラソン "wikilink")を4時間半で完走した\[10\]。
 
 ### 旧メンバー
 
@@ -102,12 +104,12 @@
 
 <!-- end list -->
 
-  - 4月 - Toru(Vo.\&G.)・Ryota(B.)・Alex(G.)・You(Dr.)の4人でバンドを結成\[10\]。
+  - 4月 - Toru(Vo.\&G.)・Ryota(B.)・Alex(G.)・You(Dr.)の4人でバンドを結成\[11\]。
   - 5月 - Taka(Vo.)がバンドに加入。
   - 7月29日 - 初ライブ前日のリハーサルでONE OK ROCKという名前が決定。
-  - 7月30日 - 渋谷eggmanにてNEW POWER GENERATION Vol.3に出演\[11\]。
+  - 7月30日 - 渋谷eggmanにてNEW POWER GENERATION Vol.3に出演\[12\]。
   - 12月 - 手売り用のCDを作るにあたり初めてのRECを行う。
-  - 12月21日 - 高円寺GEARにて自主制作盤デモCD「**Do you know a Christmas?**」を発売\[12\]。
+  - 12月21日 - 高円寺GEARにて自主制作盤デモCD「**Do you know a Christmas?**」を発売\[13\]。
 
 <!-- end list -->
 
@@ -153,8 +155,8 @@
 <!-- end list -->
 
   - 4月5日 - Alexが迷惑防止条例違反で逮捕される（後に不起訴となり示談成立）。これによりバンド活動は一時停止、全国ツアーも中断となった。
-  - 5月13日 - 本人とメンバーの話し合いの結果、AlexはONE OK ROCKを脱退。残されたメンバーは4人でバンドを継続することを発表\[13\]。
-  - 9月5日 - 5ヶ月間の活動休止の後に、ツアー再開をもってバンド活動を再始動する\[14\]。
+  - 5月13日 - 本人とメンバーの話し合いの結果、AlexはONE OK ROCKを脱退。残されたメンバーは4人でバンドを継続することを発表\[14\]。
+  - 9月5日 - 5ヶ月間の活動休止の後に、ツアー再開をもってバンド活動を再始動する\[15\]。
 
 <!-- end list -->
 
@@ -190,11 +192,11 @@
 <!-- end list -->
 
   - 3月6日 - 6thアルバム『**[人生×僕=](https://ja.wikipedia.org/wiki/人生×僕= "wikilink")**』を発売し、過去最大規模となる全国6カ所11公演の10万人を動員するアリーナツアーを開催。
-  - 3月15日 - 2011年にリリースされた[シンプル・プラン](https://ja.wikipedia.org/wiki/シンプル・プラン "wikilink")のシングル曲「**Summer Paradise (Feat. Taka From One Ok Rock)**」に、Takaが参加\[15\]\[16\]。
-  - 4月1日 - USTREAMで[フォール・アウト・ボーイ](../Page/フォール・アウト・ボーイ.md "wikilink")と対談が実現\[17\]。
-  - 5月5日 - Taka が MTVの『 ONE on ONE with Rolling Stone』番組企画で[トゥエンティ・ワン・パイロッツ](https://ja.wikipedia.org/wiki/トゥエンティ・ワン・パイロッツ "wikilink")の二人と対談\[18\]。
+  - 3月15日 - 2011年にリリースされた[シンプル・プラン](https://ja.wikipedia.org/wiki/シンプル・プラン "wikilink")のシングル曲「**Summer Paradise (Feat. Taka From One Ok Rock)**」に、Takaが参加\[16\]\[17\]。
+  - 4月1日 - USTREAMで[フォール・アウト・ボーイ](../Page/フォール・アウト・ボーイ.md "wikilink")と対談が実現\[18\]。
+  - 5月5日 - Taka が MTVの『 ONE on ONE with Rolling Stone』番組企画で[トゥエンティ・ワン・パイロッツ](https://ja.wikipedia.org/wiki/トゥエンティ・ワン・パイロッツ "wikilink")の二人と対談\[19\]。
   - 10月23日 - この日から、ヨーロッパ・アジア11カ国12ヶ所での単独公演『**["Who are you??Who are we??" TOUR](https://ja.wikipedia.org/wiki/FOOL_COOL_ROCK!_ONE_OK_ROCK_DOCUMENTARY_FILM#『“Who_are_you??Who_are_we??”_TOUR』 "wikilink")**』を開催。
-  - 12月9日.16日 - スペースシャワーTVの洋楽プログラム『INTERNATIONAL FLASH』にて[アヴリル・ラヴィーン](../Page/アヴリル・ラヴィーン.md "wikilink")との対談が2週にわたってオンエア\[19\]。
+  - 12月9日.16日 - スペースシャワーTVの洋楽プログラム『INTERNATIONAL FLASH』にて[アヴリル・ラヴィーン](../Page/アヴリル・ラヴィーン.md "wikilink")との対談が2週にわたってオンエア\[20\]。
 
 <!-- end list -->
 
@@ -207,8 +209,8 @@
   - 5月 - ドキュメンタリー映画『**[FOOL COOL ROCK\! ONE OK ROCK DOCUMENTARY FILM](https://ja.wikipedia.org/wiki/FOOL_COOL_ROCK!_ONE_OK_ROCK_DOCUMENTARY_FILM#映画 "wikilink")**』を公開。
   - 6月 - アメリカ最大級のサーキットフェスWarped Tourに参加。
   - 7月30日 - 9thシングル「**[Mighty Long Fall/Decision](https://ja.wikipedia.org/wiki/Mighty_Long_Fall/Decision "wikilink")**」をリリース。
-  - 9月13日・14日 - 『**[ONE OK ROCK 2014 "Mighty Long Fall at Yokohama Stadium"](https://ja.wikipedia.org/wiki/Mighty_Long_Fall/Decision#『ONE_OK_ROCK_2014_“Mighty_Long_Fall_at_Yokohama_Stadium” "wikilink")**』を開催、2日間で約6万人を動員する\[20\]。
-  - 10月29日 - 12月21日 - 『**ONE OK ROCK 2014 South America & Europe Tour**』開催。南米5カ国とヨーロッパ（10カ国、全20会場20公演）を遂行した\[21\]。
+  - 9月13日・14日 - 『**[ONE OK ROCK 2014 "Mighty Long Fall at Yokohama Stadium"](https://ja.wikipedia.org/wiki/Mighty_Long_Fall/Decision#『ONE_OK_ROCK_2014_“Mighty_Long_Fall_at_Yokohama_Stadium” "wikilink")**』を開催、2日間で約6万人を動員する\[21\]。
+  - 10月29日 - 12月21日 - 『**ONE OK ROCK 2014 South America & Europe Tour**』開催。南米5カ国とヨーロッパ（10カ国、全20会場20公演）を遂行した\[22\]。
 
 <!-- end list -->
 
@@ -227,12 +229,12 @@
 
 <!-- end list -->
 
-  - 1月12日 - 2015年年末からNTTドコモ iPhone6sのCMソングに起用された影響で、アルバム「**[Nicheシンドローム](https://ja.wikipedia.org/wiki/Nicheシンドローム "wikilink")**」に収録されている「**Wherever You Are**」が、発売後5年半目にして初めてiTunesトップソングランキングの1位を記録した\[22\]。
-  - 6月23日 - Takaが[アデル](https://ja.wikipedia.org/wiki/アデル_\(歌手\) "wikilink")「**Hello**」, 元[ワン・ダイレクション](https://ja.wikipedia.org/wiki/ワン・ダイレクション "wikilink")の[ゼイン・マリク](https://ja.wikipedia.org/wiki/ゼイン・マリク "wikilink")「**Pillowtalk**」のカバーVideoを公開\[23\]。
-  - 7月6日 - Takaが[Aimer](https://ja.wikipedia.org/wiki/Aimer "wikilink")のシングル「**[insane dream](https://ja.wikipedia.org/wiki/insane_dream/us "wikilink")**」で楽曲提供の他、初の外部プロデュース。\[24\]
-  - 9月10日・11日 - 静岡にて、2日間で11万人規模となる野外ライブ 「**ONE OK ROCK 2016 SPECIAL LIVE IN NAGISAEN**」を開催\[25\]。
-  - 9月10日 - 昨年契約したワーナー・ブラザース・レコードからその傘下の[フュエルド・バイ・ラーメン](../Page/フュエルド・バイ・ラーメン.md "wikilink")に移籍、9月16日に新曲「**Taking Off**」を世界同時デジタルリリース\[26\]。
-  - 9月22日 - [Sum 41のNewシングル](../Page/Sum_41.md "wikilink") のjapanese ver.「**War**」にTakaがゲスト参加\[27\]。
+  - 1月12日 - 2015年年末からNTTドコモ iPhone6sのCMソングに起用された影響で、アルバム「**[Nicheシンドローム](https://ja.wikipedia.org/wiki/Nicheシンドローム "wikilink")**」に収録されている「**Wherever You Are**」が、発売後5年半目にして初めてiTunesトップソングランキングの1位を記録した\[23\]。
+  - 6月23日 - Takaが[アデル](https://ja.wikipedia.org/wiki/アデル_\(歌手\) "wikilink")「**Hello**」, 元[ワン・ダイレクション](https://ja.wikipedia.org/wiki/ワン・ダイレクション "wikilink")の[ゼイン・マリク](https://ja.wikipedia.org/wiki/ゼイン・マリク "wikilink")「**Pillowtalk**」のカバーVideoを公開\[24\]。
+  - 7月6日 - Takaが[Aimer](https://ja.wikipedia.org/wiki/Aimer "wikilink")のシングル「**[insane dream](https://ja.wikipedia.org/wiki/insane_dream/us "wikilink")**」で楽曲提供の他、初の外部プロデュース。\[25\]
+  - 9月10日・11日 - 静岡にて、2日間で11万人規模となる野外ライブ 「**ONE OK ROCK 2016 SPECIAL LIVE IN NAGISAEN**」を開催\[26\]。
+  - 9月10日 - 昨年契約したワーナー・ブラザース・レコードからその傘下の[フュエルド・バイ・ラーメン](../Page/フュエルド・バイ・ラーメン.md "wikilink")に移籍、9月16日に新曲「**Taking Off**」を世界同時デジタルリリース\[27\]。
+  - 9月22日 - [Sum 41のNewシングル](../Page/Sum_41.md "wikilink") のjapanese ver.「**War**」にTakaがゲスト参加\[28\]。
   - 11月13日 - NHKが、ONE OK ROCKと1,000人の18歳世代（17 〜19歳）が一緒にひとつのステージを作り上げる「18祭（フェス）」を開催。反響が大きかったことから、翌年以降も影響力のあるアーティストを擁して継続される企画となった。
 
 [ONE_OK_ROCK_w_Polsce.jpg](https://ja.wikipedia.org/wiki/File:ONE_OK_ROCK_w_Polsce.jpg "fig:ONE_OK_ROCK_w_Polsce.jpg")
@@ -242,12 +244,12 @@
 <!-- end list -->
 
   - 1月9日 - NHK総合で先に収録された「ONE OK ROCK18祭（フェス）」が放映され、ONE OK ROCKとしては地上波TV初出演となった。
-  - 1月13日 - 海外版『**[Ambitions](https://ja.wikipedia.org/wiki/Ambitions "wikilink")**』が米国ビルボード・チャートのダウンロード含むセールスとストリーミングを合計したアルバム総合チャート『BILLBOARD 200』で106位。ダウンロード・アルバム・チャート『DIGITAL ALBUMS』では19位、『HARD ROCK ALBUMS』では2位を記録した\[28\]。また、日本でのランキングも、国内盤が1位、輸入盤が4位にランクインし、2作同時TOP5入り。同一アルバム作品の国内盤と輸入盤が同時にTOP5入りしたのは史上初となった\[29\]。
-  - 4月8日 - 千葉[幕張メッセ](../Page/幕張メッセ.md "wikilink")で行われていたコンサート中、観客の集中と将棋倒しにより50人が熱中症や過呼吸を訴え、21人が病院に救急搬送される事態となった。\[30\]\[31\]。
-  - 5月15日 - スペースシャワーTVで放送された[Linkin Parkの特別番組に](https://ja.wikipedia.org/wiki/Linkin_Park "wikilink")、Takaがゲスト出演、[チェスター・ベニントン](../Page/チェスター・ベニントン.md "wikilink")、[マイク・シノダ](../Page/マイク・シノダ.md "wikilink")と対談\[32\]。
+  - 1月13日 - 海外版『**[Ambitions](https://ja.wikipedia.org/wiki/Ambitions "wikilink")**』が米国ビルボード・チャートのダウンロード含むセールスとストリーミングを合計したアルバム総合チャート『BILLBOARD 200』で106位。ダウンロード・アルバム・チャート『DIGITAL ALBUMS』では19位、『HARD ROCK ALBUMS』では2位を記録した\[29\]。また、日本でのランキングも、国内盤が1位、輸入盤が4位にランクインし、2作同時TOP5入り。同一アルバム作品の国内盤と輸入盤が同時にTOP5入りしたのは史上初となった\[30\]。
+  - 4月8日 - 千葉[幕張メッセ](../Page/幕張メッセ.md "wikilink")で行われていたコンサート中、観客の集中と将棋倒しにより50人が熱中症や過呼吸を訴え、21人が病院に救急搬送される事態となった。\[31\]\[32\]。
+  - 5月15日 - スペースシャワーTVで放送された[Linkin Parkの特別番組に](https://ja.wikipedia.org/wiki/Linkin_Park "wikilink")、Takaがゲスト出演、[チェスター・ベニントン](../Page/チェスター・ベニントン.md "wikilink")、[マイク・シノダ](../Page/マイク・シノダ.md "wikilink")と対談\[33\]。
   - 7月20日 - [Linkin Parkのボーカル](https://ja.wikipedia.org/wiki/Linkin_Park "wikilink")・[チェスター・ベニントン](../Page/チェスター・ベニントン.md "wikilink")が急逝したことを受け、[Linkin Park北米ツアーのうち](https://ja.wikipedia.org/wiki/Linkin_Park "wikilink")、OAとして出演予定だった7月27日のマサチューセッツ州 Xfinity Centerから、8月5日のコネチカット州 Mohegan Sun Arenaまでの4公演、およびゲストとして出演予定だった11月2、4、5日の千葉・幕張メッセでの来日公演の全てが中止となった。
-  - 7月17日 - オハイオ州で開催される音楽誌『[Alternative Press](https://ja.wikipedia.org/wiki/Alternative_Press "wikilink")』主催のアワード「AP Music Awards 2017」の「Breakthrough Band」部門にノミネートされたほか、当日、ライブパフォーマーとして出演、「I Was king」を演奏した\[33\]。
-  - 10月27日-ロサンゼルスのハリウッド・ボウルで開催された「Linkin Park and Friends Celebrate Life in Honor of Chester Bennington」にTakaが出演、「[Somewhere I Belong](https://ja.wikipedia.org/wiki/Somewhere_I_Belong "wikilink")」を歌ってLinkin Parkの[チェスター・ベニントン](../Page/チェスター・ベニントン.md "wikilink")を追悼した\[34\]。
+  - 7月17日 - オハイオ州で開催される音楽誌『[Alternative Press](https://ja.wikipedia.org/wiki/Alternative_Press "wikilink")』主催のアワード「AP Music Awards 2017」の「Breakthrough Band」部門にノミネートされたほか、当日、ライブパフォーマーとして出演、「I Was king」を演奏した\[34\]。
+  - 10月27日-ロサンゼルスのハリウッド・ボウルで開催された「Linkin Park and Friends Celebrate Life in Honor of Chester Bennington」にTakaが出演、「[Somewhere I Belong](https://ja.wikipedia.org/wiki/Somewhere_I_Belong "wikilink")」を歌ってLinkin Parkの[チェスター・ベニントン](../Page/チェスター・ベニントン.md "wikilink")を追悼した\[35\]。
 
 <!-- end list -->
 
@@ -255,20 +257,20 @@
 
 <!-- end list -->
 
-  - 1月18日 - Spotify 2017年間ランキングでワンオクが日本国内で最も再生されたアーティストの1位、海外で最も再生された国内アーティスト1位に\[35\]。
+  - 1月18日 - Spotify 2017年間ランキングでワンオクが日本国内で最も再生されたアーティストの1位、海外で最も再生された国内アーティスト1位に\[36\]。
   - 4月22日 - 2017年１月の『**[Ambitions](https://ja.wikipedia.org/wiki/Ambitions "wikilink")**』発売から2018年４月まで、世界27カ国、全99公演を敢行したAmbitions Japan Tour,AMBITIONS WORLD TOUR,AMBITIONS JAPAN DOME TOURが無事成功。
 
 <!-- end list -->
 
-  - 5月15日 - ロスのフリーイベントIdentity LA 2018の[マイク・シノダ](../Page/マイク・シノダ.md "wikilink")のステージにtakaがゲストで登場\[36\]。[Fort Minor](https://ja.wikipedia.org/wiki/Fort_Minor "wikilink") "Where'd You Go" と [Linkin Park](https://ja.wikipedia.org/wiki/Linkin_Park "wikilink") "Waiting for the End" をマッシュアップしたパフォーマンスを披露した。
+  - 5月15日 - ロスのフリーイベントIdentity LA 2018の[マイク・シノダ](../Page/マイク・シノダ.md "wikilink")のステージにtakaがゲストで登場\[37\]。[Fort Minor](https://ja.wikipedia.org/wiki/Fort_Minor "wikilink") "Where'd You Go" と [Linkin Park](https://ja.wikipedia.org/wiki/Linkin_Park "wikilink") "Waiting for the End" をマッシュアップしたパフォーマンスを披露した。
 
 <!-- end list -->
 
-  - 5月16日発売の『ONE OK ROCK 2017 “Ambitions” JAPAN TOUR』で初のDVD・BDランキング同時首位を記録。合算売上としては3作連続、通算4度目の1位獲得\[37\]。
+  - 5月16日発売の『ONE OK ROCK 2017 “Ambitions” JAPAN TOUR』で初のDVD・BDランキング同時首位を記録。合算売上としては3作連続、通算4度目の1位獲得\[38\]。
 
 <!-- end list -->
 
-  - ８月 - バンド結成のきっかけである[RIZE](../Page/RIZE.md "wikilink")と並び、ONE OK ROCKおよびTakaに多大な影響を及ぼしたとされる\[38\][ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")の、１０年振りの活動再開に深く関わったとして\[39\]、３箇所で行われた全復活ライブにゲストアクトとして参加した\[40\]
+  - ８月 - バンド結成のきっかけである[RIZE](../Page/RIZE.md "wikilink")と並び、ONE OK ROCKおよびTakaに多大な影響を及ぼしたとされる\[39\][ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")の、１０年振りの活動再開に深く関わったとして\[40\]、３箇所で行われた全復活ライブにゲストアクトとして参加した\[41\]
   - 18日-大阪で行われたサマーソニックに参加し、[マイク・シノダ](../Page/マイク・シノダ.md "wikilink")と共演し、”one way ticket”を披露した。
   - 10月20日・21日-さいたまスーパーアリーナ、および、10月30日・31日-大阪城ホールにて初の試みとなる『ONE OK ROCK with Orchestra Japan Tour 2018』を開催。
   - AWAで2018年今年最も聴かれたアーティスト1位に ONE OK ROCK、最も再生された楽曲の 3位に「Wherever you are」が選ばれた[1](http://www.musicman-net.com/business/81778)。
@@ -281,7 +283,7 @@
 <!-- end list -->
 
   - 2月13日に7枚目となるフルアルバム『**[Eye of the Storm](https://ja.wikipedia.org/wiki/Eye_of_the_Storm "wikilink")**』をリリース。通算3作目のオリコンチャートでの首位獲得を果たした。
-  - ボーカルのTakaと交友の深いアーティスト、[エドシーランのワールドツアー](https://ja.wikipedia.org/wiki/エド・シーラン "wikilink")『[÷ Tour](https://ja.wikipedia.org/wiki/:en:÷_Tour "wikilink")』のオープニングアクトとして出演する為に、2019年4月3日から5月3日までの全10回のアジアツアー終了まで同行している\[41\]。
+  - ボーカルのTakaと交友の深いアーティスト、[エドシーランのワールドツアー](https://ja.wikipedia.org/wiki/エド・シーラン "wikilink")『[÷ Tour](https://ja.wikipedia.org/wiki/:en:÷_Tour "wikilink")』のオープニングアクトとして出演する為に、2019年4月3日から5月3日までの全10回のアジアツアー終了まで同行している\[42\]。
 
 ## 作品
 
@@ -787,14 +789,14 @@
 
 ### TSUTAYAレンタル限定
 
-  - 「**[じぶんROCK from Nicheシンドローム](https://ja.wikipedia.org/wiki/じぶんROCK_from_Nicheシンドローム "wikilink")**」（2010年4月28日）
+  - **[じぶんROCK from Nicheシンドローム](https://ja.wikipedia.org/wiki/じぶんROCK_from_Nicheシンドローム "wikilink")**（2010年4月28日）
 
 ### 発売中止になったCD
 
-  - 「**[Around ザ world 少年](https://ja.wikipedia.org/wiki/Around_ザ_world_少年 "wikilink")**」
+  - **[Around ザ world 少年](https://ja.wikipedia.org/wiki/Around_ザ_world_少年 "wikilink")**
     Alexの不祥事を受け、発売中止。連続ドラマ「[ゴッドハンド輝](../Page/ゴッドハンド輝.md "wikilink")」(TBS)の主題歌に起用される予定だったが、別の曲に差し替えられる。現在まで音源化されていない。
-  - 「**『』**」
-    「ONE OK ROCK 2009“Emotion Effect”TOUR」会場限定CDに収録されていたタイトルのつけられていない未発表ライブ音源。曲のタイトルは、CD購入者から候補を募り、決める予定だった\[42\]。ツアー中止を受け、販売中止。それに伴い、タイトル募集も打ち切られた。活動再開後、5枚目アルバム「**[残響リファレンス](https://ja.wikipedia.org/wiki/残響リファレンス "wikilink")**」に、スタジオレコーディングされた「**『』**」が「**キミシダイ列車**」として収録された。
+  - **「」**
+    「ONE OK ROCK 2009“Emotion Effect”TOUR」会場限定CDに収録されていたタイトルのつけられていない未発表ライブ音源。曲のタイトルは、CD購入者から候補を募り、決める予定だった\[43\]。ツアー中止を受け、販売中止。それに伴い、タイトル募集も打ち切られた。活動再開後、5枚目アルバム『[残響リファレンス](https://ja.wikipedia.org/wiki/残響リファレンス "wikilink")』に、スタジオレコーディングされ「キミシダイ列車」として収録された。
 
 ### 参加作品
 
@@ -811,8 +813,8 @@
 | 11月13日 | **[gene](https://ja.wikipedia.org/wiki/gene_\(Pay_money_To_my_Painのアルバム\) "wikilink")** | [Pay money To my Pain](../Page/Pay_money_To_my_Pain.md "wikilink")                  | [Kの遺作](https://ja.wikipedia.org/wiki/Pay_money_To_my_Pain#メンバー "wikilink")「**Voice**」にボーカルとしてTakaが参加、作詞も手がけた。                             |                                                                                |
 | 2014   | 8月20日                                                                                   | **First words**                                                                     | GROWN KIDS                                                                                                                                | 「**Bottle Rocket**」にボーカルとしてTakaが参加。                                            |
 | 2015   | 2月17日                                                                                   | **GRAVITY**                                                                         | [アゲインスト・ザ・カレント](https://ja.wikipedia.org/wiki/アゲインスト・ザ・カレント "wikilink")                                                                   | 「**Dreaming Alone**」にボーカルとしてTakaが参加。                                           |
-| 5月13日  | **5.....GO**                                                                            | [FTISLAND](https://ja.wikipedia.org/wiki/FTISLAND "wikilink")                       | 「**Primavera**」と「**My Birthday**」の2曲にTakaが共同作曲者として参加\[43\]。                                                                               |                                                                                |
-| 2016   | 4月28日                                                                                   | **バイ・マイ・サイ**                                                                        | [野田洋次郎](https://ja.wikipedia.org/wiki/野田洋次郎 "wikilink")（[RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")）/ Taka（ONE OK ROCK） | 平成28年熊本地震の被災地支援のため、野田の呼びかけに賛同し新録して配信\[44\]。                                    |
+| 5月13日  | **5.....GO**                                                                            | [FTISLAND](https://ja.wikipedia.org/wiki/FTISLAND "wikilink")                       | 「**Primavera**」と「**My Birthday**」の2曲にTakaが共同作曲者として参加\[44\]。                                                                               |                                                                                |
+| 2016   | 4月28日                                                                                   | **バイ・マイ・サイ**                                                                        | [野田洋次郎](https://ja.wikipedia.org/wiki/野田洋次郎 "wikilink")（[RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")）/ Taka（ONE OK ROCK） | 平成28年熊本地震の被災地支援のため、野田の呼びかけに賛同し新録して配信\[45\]。                                    |
 | 7月6日   | **[insane dream](https://ja.wikipedia.org/wiki/insane_dream/us "wikilink")**            | [Aimer](https://ja.wikipedia.org/wiki/Aimer "wikilink")                             | 楽曲提供・プロデュース、コーラスとしてTakaが参加（シングル）。                                                                                                         |                                                                                |
 | 9月21日  | **[daydream](https://ja.wikipedia.org/wiki/daydream_\(Aimerのアルバム\) "wikilink")**        | [Aimer](https://ja.wikipedia.org/wiki/Aimer "wikilink")                             | 先行発売された**「insane dream」**の他、**「closer」「Falling Alone」**の楽曲提供・プロデュース、**「Higher Ground」「Stars in the rain」**の楽曲提供としてTakaが参加。'''             |                                                                                |
 | 10月号   | ROCKSOUND presents **The Black Parade**                                                 | [マイ・ケミカル・ロマンス](../Page/マイ・ケミカル・ロマンス.md "wikilink")10周年記念トリビュートアルバム                  | 英ロックサウンド誌の付録企画にONE OK ROCKとして「**The End**.」のカバーで参加。                                                                                       |                                                                                |
@@ -820,7 +822,7 @@
 | 2017   | 3月29日                                                                                   | **Headspace (Japanese ver.)**                                                       | Issues                                                                                                                                    | 「**Yung & Dum (Japanese Version)feat. Taka from ONE OK ROCK**」にボーカルとしてTakaが参加。 |
 | 7月27日  | **Don't Let Me Go**                                                                     | [ゴールドフィンガー](../Page/ゴールドフィンガー_\(バンド\).md "wikilink")                                | [ジョン・フェルドマン](https://ja.wikipedia.org/wiki/ジョン・フェルドマン "wikilink")率いるパンクロックバンドGoldfingerの7枚目のアルバム「**The Knife**」にTakaがゲスト参加。               |                                                                                |
 | 2018   | 12月12日                                                                                  | **IKIJIBIKI feat.Taka**                                                             | [RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")                                                                             | 「**ANTI ANTI GENERATION**」にボーカルとしてTakaが参加。                                     |
-|        |                                                                                         |                                                                                     |                                                                                                                                           |                                                                                |
+| 2019   | 9月27日                                                                                   | '''Lights Down Low (feat.Taka from ONE OK ROCK) - Single                            | [MAX](https://ja.wikipedia.org/wiki/MAX "wikilink")                                                                                       | ボーカルとしてTakaが参加。                                                                |
 
 ### 楽曲以外の参加作品
 
@@ -879,9 +881,9 @@
 
 **2016年**
 
-  - [SPACE SHOWER](../Page/スペースシャワーTV.md "wikilink") MUSIC AWARDS・BEST ACTIVE OVERSEAS（もっとも海外で活躍したアーティストに授与される賞）\[45\]
-  - MTVヨーロッパ・ミュージック・アワード ベストジャパンアクト受賞\[46\]
-  - [クラシックロックアワード](https://ja.wikipedia.org/wiki/クラシック・ロック・ロール・オブ・オナーズ賞 "wikilink") 2016にてEASTERN BREAKTHROUGH BAND(アジアを代表し、将来クラシック・ロックになりうるバンドに贈られる賞)を受賞\[47\]
+  - [SPACE SHOWER](../Page/スペースシャワーTV.md "wikilink") MUSIC AWARDS・BEST ACTIVE OVERSEAS（もっとも海外で活躍したアーティストに授与される賞）\[46\]
+  - MTVヨーロッパ・ミュージック・アワード ベストジャパンアクト受賞\[47\]
+  - [クラシックロックアワード](https://ja.wikipedia.org/wiki/クラシック・ロック・ロール・オブ・オナーズ賞 "wikilink") 2016にてEASTERN BREAKTHROUGH BAND(アジアを代表し、将来クラシック・ロックになりうるバンドに贈られる賞)を受賞\[48\]
 
 **2017年**
 
@@ -921,7 +923,7 @@
 <td><p>12月18日</p></td>
 <td><p><strong>ONE OK ROCK新宿LOFT</strong></p></td>
 <td><p>1会場1公演</p></td>
-<td><p>初のワンマンライブ[48]</p></td>
+<td><p>初のワンマンライブ[49]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -935,7 +937,7 @@
 <td><p>6月12日</p></td>
 <td><p><strong>マージナルマン vol.0</strong></p></td>
 <td><p>1会場1公演</p></td>
-<td><p>イベント[49]</p></td>
+<td><p>イベント[50]</p></td>
 </tr>
 <tr class="even">
 <td><p>8月7日<br />
@@ -943,7 +945,7 @@
 8月29日</p></td>
 <td><p><strong>ONE OK ROCK【正夢のまた夢】ツアー '07</strong></p></td>
 <td><p>9会場9公演</p></td>
-<td><p>[50]</p></td>
+<td><p>[51]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -952,7 +954,7 @@
 12月28日</p></td>
 <td><p><strong>ONE OK ROCK 東名阪クアトロ“トロトロ”ツアー '07</strong></p></td>
 <td><p>3会場3公演</p></td>
-<td><p>[51]</p></td>
+<td><p>[52]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -962,7 +964,7 @@
 4月30日</p></td>
 <td><p><strong>ONE OK ROCK TOUR 2008 “WHAT TIME IS IT NOW?”</strong></p></td>
 <td><p>8会場8公演</p></td>
-<td><p>[52]</p></td>
+<td><p>[53]</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月5日<br />
@@ -1025,7 +1027,7 @@
 6月30日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/“Start_Walking_The_World”TOUR" title="wikilink">“Start Walking The World”TOUR</a></strong></p></td>
 <td><p>5会場7公演</p></td>
-<td><p>初の海外公演を含む[53]</p></td>
+<td><p>初の海外公演を含む[54]</p></td>
 </tr>
 <tr class="even">
 <td><p>9月4日<br />
@@ -1033,7 +1035,7 @@
 11月16日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/The_Beginning_(ONE_OK_ROCKの曲)#『“The_Beginning”_TOUR』" title="wikilink">“The Beginning”TOUR</a></strong></p></td>
 <td><p>18会場25公演</p></td>
-<td><p>海外公演を含む[54]</p></td>
+<td><p>海外公演を含む[55]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1058,7 +1060,7 @@
 12月7日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/FOOL_COOL_ROCK!_ONE_OK_ROCK_DOCUMENTARY_FILM#『“Who_are_you??Who_are_we??”_TOUR』" title="wikilink">“Who are you??Who are we??” TOUR</a></strong></p></td>
 <td><p>12会場12公演</p></td>
-<td><p>海外公演のみ[55]</p></td>
+<td><p>海外公演のみ[56]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1068,7 +1070,7 @@
 5月14・17日</p></td>
 <td><p><strong>ONE OK ROCK Live at Northern America 2014</strong></p></td>
 <td><p>4会場4公演</p></td>
-<td><p>初の<a href="https://ja.wikipedia.org/wiki/アメリカ" title="wikilink">アメリカ</a>公演[56]</p></td>
+<td><p>初の<a href="https://ja.wikipedia.org/wiki/アメリカ" title="wikilink">アメリカ</a>公演[57]</p></td>
 </tr>
 <tr class="odd">
 <td><p>9月13日<br />
@@ -1085,7 +1087,7 @@
 10月23日</p></td>
 <td><p><strong>2014 US Live</strong></p></td>
 <td><p>2会場2公演</p></td>
-<td><p>海外公演のみ[57]</p></td>
+<td><p>海外公演のみ[58]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1094,7 +1096,7 @@
 12月21日</p></td>
 <td><p><strong>2014 South America &amp; Europe Tour</strong></p></td>
 <td><p>20会場20公演</p></td>
-<td><p>海外公演のみ[58]</p></td>
+<td><p>海外公演のみ[59]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1112,7 +1114,7 @@
 9月13日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/35xxxv#ONE_OK_ROCK_2015_“35xxxv”_JAPAN_TOUR" title="wikilink">ONE OK ROCK 2015 “35xxxv” JAPAN TOUR</a></strong>追加公演</p></td>
 <td><p>1会場2公演</p></td>
-<td><p>千葉／幕張メッセ[59]</p></td>
+<td><p>千葉／幕張メッセ[60]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1140,7 +1142,7 @@
 1月23日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/35xxxv#ONE_OK_ROCK_2016_“35xxxv”_ASIA_TOUR" title="wikilink">ONE OK ROCK 2016 “35xxxv” ASIA TOUR</a></strong></p></td>
 <td><p>5会場6公演</p></td>
-<td><p>[60]</p></td>
+<td><p>[61]</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月31日<br />
@@ -1148,7 +1150,7 @@
 6月8日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/35xxxv#ONE_OK_ROCK_2016_“35xxxv”_Europe_Tour" title="wikilink">ONE OK ROCK 2016 “35xxxv”Europe TOUR</a></strong></p></td>
 <td><p>5会場5公演</p></td>
-<td><p>[61]</p></td>
+<td><p>[62]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1181,7 +1183,7 @@
 1月24日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Ambitions#『ONE_OK_ROCK_2017_NORTH_AMERICAN_TOUR』" title="wikilink">ONE OK ROCK 2017 NORTH AMERICAN TOUR</a></strong></p></td>
 <td><p>6会場6公演</p></td>
-<td><p>[62]</p></td>
+<td><p>[63]</p></td>
 </tr>
 <tr class="even">
 <td><p>2月18日<br />
@@ -1207,7 +1209,7 @@
 8月30日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Ambitions#『ONE_OK_ROCK_2017_“Ambitions”_WORLD_TOUR』" title="wikilink">ONE OK ROCK 2017 “Ambitions” WORLD TOUR</a></strong> <a href="https://ja.wikipedia.org/wiki/Russia" title="wikilink">Russia</a></p></td>
 <td><p>2会場2公演</p></td>
-<td><p>ロシア2都市[63]</p></td>
+<td><p>ロシア2都市[64]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1216,7 +1218,7 @@
 10月3日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Ambitions#『ONE_OK_ROCK_2017_“Ambitions”_WORLD_TOUR』" title="wikilink">ONE OK ROCK 2017 “Ambitions” WORLD TOUR</a></strong> South America</p></td>
 <td><p>4会場4公演</p></td>
-<td><p>南米4カ国[64]</p></td>
+<td><p>南米4カ国[65]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1225,7 +1227,7 @@
 10月8日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Ambitions#『ONE_OK_ROCK_2017_“Ambitions”_WORLD_TOUR』" title="wikilink">ONE OK ROCK 2017 “Ambitions” WORLD TOUR</a></strong> <a href="https://ja.wikipedia.org/wiki/Australia" title="wikilink">Australia</a></p></td>
 <td><p>3会場3公演</p></td>
-<td><p>オーストラリア3都市[65]</p></td>
+<td><p>オーストラリア3都市[66]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1234,7 +1236,7 @@
 12月22日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Ambitions#『ONE_OK_ROCK_2017_“Ambitions”_WORLD_TOUR』" title="wikilink">ONE OK ROCK 2017 “Ambitions” WORLD TOUR</a></strong> <a href="https://ja.wikipedia.org/wiki/Europe" title="wikilink">Europe</a></p></td>
 <td><p>16会場16公演</p></td>
-<td><p>ユーロ12カ国[66]</p></td>
+<td><p>ユーロ12カ国[67]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1244,7 +1246,7 @@
 2月02日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Ambitions#『ONE_OK_ROCK_AMBITIONS_ASIA_TOUR_2018』" title="wikilink">ONE OK ROCK AMBITIONS ASIA TOUR 2018</a></strong></p></td>
 <td><p>7会場7公演</p></td>
-<td><p>アジア７都市[67]</p></td>
+<td><p>アジア７都市[68]</p></td>
 </tr>
 <tr class="odd">
 <td><p>3月31日<br />
@@ -1270,7 +1272,7 @@
 12月12日</p></td>
 <td><p><strong>ONE OK ROCK EUROPEAN TOUR 2018</strong></p></td>
 <td><p>５会場５公演</p></td>
-<td><p>ユーロ４都市５会場[68]</p></td>
+<td><p>ユーロ４都市５会場[69]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1289,7 +1291,7 @@
 1月30日</p></td>
 <td><p><strong>ONE OK ROCK 2019-2020 EYE OF THE STORM JAPAN TOUR</strong></p></td>
 <td><p>17会場33公演</p></td>
-<td><p>11月13日の公演が中止となり、2020年3月31日と4月1日に振替公演を行う予定だったが、新型コロナウイルス(COVID-19)の影響により振替公演も中止となった。</p></td>
+<td><p>11月13日の公演が中止となり、2020年3月31日と4月1日に振替公演を行う予定だったが、<a href="../Page/新型コロナウイルス.md" title="wikilink">新型コロナウイルス</a>(COVID-19)の影響により振替公演も中止となった。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1313,7 +1315,7 @@
 
 <div class="NavContent" style="text-align: left;font-size:small;">
 
-  - 07.30 - 渋谷eggman NEW POWER GENERATION Vol.3\[69\]（初ライヴ）
+  - 07.30 - 渋谷eggman NEW POWER GENERATION Vol.3\[70\]（初ライヴ）
   - 08.24 吉祥寺WARP
   - 10.09 二子玉川pink noise
   - 11.26 二子玉川pink noise
@@ -1411,7 +1413,7 @@
   - 08.22 岡山CRAZYMAMA2ndRoom
   - 08.25 MONSTER baSH2007
   - 08.26 Zepp Fukuoka- “STRONG TIDES '07”（UVERworld/かりゆし58/豚骨ピストンズ ）
-  - 09.11 Zepp Fukuoka-“WHAT's IN? Presents LIVE for MUSIC PEOPLE WE LOVE MUSIC”（いきものがかり/シド/ROACH \[70\]）
+  - 09.11 Zepp Fukuoka-“WHAT's IN? Presents LIVE for MUSIC PEOPLE WE LOVE MUSIC”（いきものがかり/シド/ROACH \[71\]）
   - 09.13 Zepp Nagoya- “WHAT's IN? Presents LIVE for MUSIC PEOPLE WE LOVE MUSIC”（いきものがかり/シド/MEN☆SOUL ）
   - 09.14 Zepp Osaka- “WHAT's IN? Presents LIVE for MUSIC PEOPLE WE LOVE MUSIC”（いきものがかり/シド/J-Min）
   - 09.24 Zepp Tokyo- “WHAT's IN? Presents LIVE for MUSIC PEOPLE WE LOVE MUSIC”（いきものがかり/シド/風味堂）
@@ -1643,7 +1645,7 @@
 
 <div class="NavContent" style="text-align: left;font-size:small;">
 
-  - 01.25 - Zepp Nagoya \[Ten hundred Miles Tour 2015\]\[71\]
+  - 01.25 - Zepp Nagoya \[Ten hundred Miles Tour 2015\]\[72\]
   - 01.26 - なんばHatch \[Ten hundred Miles Tour 2015\]
   - 01.28・29 - Zepp DiverCity \[Ten hundred Miles Tour 2015\]
   - 02.01 - 沖縄音市場 SPACE SHOWER TV“LIVE with YOU” 〜ONE OK ROCK〜 supported by uP\!\!\!
@@ -1666,7 +1668,7 @@
 
 <div class="NavContent" style="text-align: left;font-size:small;">
 
-  - 01/30 - STUDIO COAST \[ONE THOUSAND MILES TOUR 2016\]\[72\]
+  - 01/30 - STUDIO COAST \[ONE THOUSAND MILES TOUR 2016\]\[73\]
   - 01/31 - STUDIO COAST \[ONE THOUSAND MILES TOUR 2016\]
   - 02/02 - Zepp Namba \[ONE THOUSAND MILES TOUR 2016\]
   - 02/03 - Zepp Nagoya \[ONE THOUSAND MILES TOUR 2016\]
@@ -1674,7 +1676,7 @@
   - 06.18 - MIYAKO ISLAND ROCK FESTIVAL 2016 宮古島
   - 08.12 - RISING SUN ROCK FESTIVAL 2016 in EZO
   - 08.14 - ROCK IN JAPAN FESTIVAL 2016
-  - 11.13 - ONE OK ROCK 18祭（フェス）\[73\]\[74\]\[75\]
+  - 11.13 - ONE OK ROCK 18祭（フェス）\[74\]\[75\]\[76\]
   - 12.23 - AIR JAM 2016
 
 </div>
@@ -1994,32 +1996,32 @@
   -
   - [アミューズFacebook](https://www.facebook.com/amuse.jp/)
 
-[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:ポップ・パンク・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・パンク・バンド "wikilink") [Category:アミューズ](https://ja.wikipedia.org/wiki/Category:アミューズ "wikilink") [Category:A-Sketchのアーティスト](https://ja.wikipedia.org/wiki/Category:A-Sketchのアーティスト "wikilink") [Category:ワーナー・ミュージック・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナー・ミュージック・グループのアーティスト "wikilink") [Category:2005年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に結成した音楽グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:CDショップ大賞受賞者](https://ja.wikipedia.org/wiki/Category:CDショップ大賞受賞者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
+[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:ポップ・パンク・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・パンク・バンド "wikilink") [Category:アミューズ](https://ja.wikipedia.org/wiki/Category:アミューズ "wikilink") [Category:A-Sketchのアーティスト](https://ja.wikipedia.org/wiki/Category:A-Sketchのアーティスト "wikilink") [Category:ワーナー・ミュージック・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナー・ミュージック・グループのアーティスト "wikilink") [Category:2005年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に結成した音楽グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:CDショップ大賞受賞者](https://ja.wikipedia.org/wiki/Category:CDショップ大賞受賞者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink")
 
 1.  [So-net Music: ONE OK ROCK インタビュー](http://archive.is/FKh9)
 2.  『ロッキング・オン・ジャパン』2013年7月号、Kjインタビュー
 3.  [ONE OK ROCKインタビュー](http://natalie.mu/music/pp/oneokrock/page/3) 音楽ナタリー
 4.  [ONE OK ROCK('06年12月号) | web Rooftop](http://rooftop.seesaa.net/article/28593118.html)
-5.  『MUSICA』2012年9月号
-6.
-7.  『MUSICA』2012年9月号、ONE OK ROCK p33-35
-8.  中野裕之と大谷ノブ彦のONE OK ROCK観http://natalie.mu/music/pp/foolcoolrock
-9.  FM802「SUPERFINE SUNDAY」 2015/02/08
-10.
+5.
+6.  『MUSICA』2012年9月号
+7.
+8.  『MUSICA』2012年9月号、ONE OK ROCK p33-35
+9.  中野裕之と大谷ノブ彦のONE OK ROCK観http://natalie.mu/music/pp/foolcoolrock
+10. FM802「SUPERFINE SUNDAY」 2015/02/08
 11.
-12. [ONE OK ROCK ｜ インディーズ音楽ならモノレコ(2012年5月30日時点でのアーカイブ)](https://web.archive.org/web/20120530015112/http://www.monoreco.com/database/m_o/ONEOKROCK.html)
-13.
-14. [ナタリー - ONE OK ROCK、秋の全国ツアーで本格活動再開](http://natalie.mu/music/news/17863)
-15. [シンプル・プランとONE OK ROCKのTakaがコラボ](http://www.mtvjapan.com/news/music/22321)
-16. [SIMPLE PLAN、ONE OK ROCKのTakaとのコラボ楽曲「Summer Paradise (feat. Taka from ONE OK ROCK)」のオフィシャル・ビデオを公開！](http://gekirock.com/news/2013/05/simple_plan_summer_paradise_feat_taka_from_one_ok_rock_official_video.php)
-17. [](https://www.youtube.com/watch?v=Xa1QQpcVxs4)
-18. [Taka (ONE OK ROCK) × トゥエンティ・ワン・パイロッツ](http://rollingstonejapan.com/articles/detail/18579)
-19.
+12.
+13. [ONE OK ROCK ｜ インディーズ音楽ならモノレコ(2012年5月30日時点でのアーカイブ)](https://web.archive.org/web/20120530015112/http://www.monoreco.com/database/m_o/ONEOKROCK.html)
+14.
+15. [ナタリー - ONE OK ROCK、秋の全国ツアーで本格活動再開](http://natalie.mu/music/news/17863)
+16. [シンプル・プランとONE OK ROCKのTakaがコラボ](http://www.mtvjapan.com/news/music/22321)
+17. [SIMPLE PLAN、ONE OK ROCKのTakaとのコラボ楽曲「Summer Paradise (feat. Taka from ONE OK ROCK)」のオフィシャル・ビデオを公開！](http://gekirock.com/news/2013/05/simple_plan_summer_paradise_feat_taka_from_one_ok_rock_official_video.php)
+18. [](https://www.youtube.com/watch?v=Xa1QQpcVxs4)
+19. [Taka (ONE OK ROCK) × トゥエンティ・ワン・パイロッツ](http://rollingstonejapan.com/articles/detail/18579)
 20.
 21.
 22.
-23. <http://altpress.jp/?p=43870>
-24.
+23.
+24. <http://altpress.jp/?p=43870>
 25.
 26.
 27.
@@ -2027,47 +2029,48 @@
 29.
 30.
 31.
-32. [スペシャ特番\&LINE LIVE配信も](https://www.oricon.co.jp/news/2089759/full/リンキン×ワンオクTakaが対談)oricon 2017年04月25日
-33.
-34. \[[https://www.barks.jp/news/?id=1000148387チェスター・ベニントン追悼公演、セットリストと出演者一覧\]barks](https://www.barks.jp/news/?id=1000148387チェスター・ベニントン追悼公演、セットリストと出演者一覧%5Dbarks) 2017年10月28日
-35.
+32.
+33. [スペシャ特番\&LINE LIVE配信も](https://www.oricon.co.jp/news/2089759/full/リンキン×ワンオクTakaが対談)oricon 2017年04月25日
+34.
+35. \[[https://www.barks.jp/news/?id=1000148387チェスター・ベニントン追悼公演、セットリストと出演者一覧\]barks](https://www.barks.jp/news/?id=1000148387チェスター・ベニントン追悼公演、セットリストと出演者一覧%5Dbarks) 2017年10月28日
 36.
 37.
-38. [細美武士（the HIATUS）とTaka（ONE OK ROCK）の対談が実現。ふたりがはじめてメディアの前で語りあったこととは？](https://rockinon.com/news/detail/73434)rockinon.com 2012年09月30日
-39. [JAPAN最新号、ELLEGARDEN復活特集より](https://rockinon.com/blog/yamazaki/180067)rockinon.com 2018年09月13日
-40. [ELLEGARDEN、ツアー3会場ゲストアクトはONE OK ROCK](https://rockinon.com/news/detail/177929) rockinon.com 2018年07月11日
-41.
-42. [ナタリー - ONE OK ROCK、タイトル未定の新曲をライブ会場で販売](http://natalie.mu/music/news/14255)
-43. [FTISLAND新作にワンオクTakaとの共作曲収録](http://natalie.mu/music/news/141717)音楽ナタリー 2015年3月23日
-44. [RADWIMPS野田洋次郎、Takaと歌う「バイ・マイ・サイ」で被災地支援](http://natalie.mu/music/news/185485) 音楽ナタリー 2016年4月28日
-45.
-46. <https://twitter.com/mtvasia/status/795282408698327040?lang=ja>
-47. <http://www.asahi.com/and_w/interest/entertainment/CORI2081313.html?iref=comtop_list_andw_f01>
-48. [新宿LOFT過去スケジュール](http://www.loft-prj.co.jp/LOFT/schedule/loft.cgi?form=&year=2006&mon=12)
-49.
+38.
+39. [細美武士（the HIATUS）とTaka（ONE OK ROCK）の対談が実現。ふたりがはじめてメディアの前で語りあったこととは？](https://rockinon.com/news/detail/73434)rockinon.com 2012年09月30日
+40. [JAPAN最新号、ELLEGARDEN復活特集より](https://rockinon.com/blog/yamazaki/180067)rockinon.com 2018年09月13日
+41. [ELLEGARDEN、ツアー3会場ゲストアクトはONE OK ROCK](https://rockinon.com/news/detail/177929) rockinon.com 2018年07月11日
+42.
+43. [ナタリー - ONE OK ROCK、タイトル未定の新曲をライブ会場で販売](http://natalie.mu/music/news/14255)
+44. [FTISLAND新作にワンオクTakaとの共作曲収録](http://natalie.mu/music/news/141717)音楽ナタリー 2015年3月23日
+45. [RADWIMPS野田洋次郎、Takaと歌う「バイ・マイ・サイ」で被災地支援](http://natalie.mu/music/news/185485) 音楽ナタリー 2016年4月28日
+46.
+47. <https://twitter.com/mtvasia/status/795282408698327040?lang=ja>
+48. <http://www.asahi.com/and_w/interest/entertainment/CORI2081313.html?iref=comtop_list_andw_f01>
+49. [新宿LOFT過去スケジュール](http://www.loft-prj.co.jp/LOFT/schedule/loft.cgi?form=&year=2006&mon=12)
 50.
-51. 「クアトロトロトロツアー'07」12.19 名古屋CLUB QUATTRO12.20 心斎橋CLUB QUATTRO12.28 渋谷CLUB QUATTRO
-52. \*04.01 仙台MACANA/04.03 福岡DRUM Be-1/04.04 広島ナミキジャンクション/04.06 高松DIME/04.11 大阪BIGCAT/04.12 名古屋BOTTOM LINE /04.18 札幌ベッシーホール 04.20/渋谷O-EAST
-53. [Taipei](https://ja.wikipedia.org/wiki/Taipei "wikilink")/台湾、[Seoul](https://ja.wikipedia.org/wiki/Seoul "wikilink")/韓国、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")
-54. [Taipei](https://ja.wikipedia.org/wiki/Taipei "wikilink") /台湾、1会場2公演
-55. [Paris](https://ja.wikipedia.org/wiki/Paris "wikilink")/フランス（2会場2公演）、[Bonn](https://ja.wikipedia.org/wiki/Bonn "wikilink")/ドイツ、[London](https://ja.wikipedia.org/wiki/London "wikilink")/イギリス、[Amsterdam](https://ja.wikipedia.org/wiki/Amsterdam "wikilink")/オランダ、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[Seoul](https://ja.wikipedia.org/wiki/Seoul "wikilink")/韓国、[Bangkok](https://ja.wikipedia.org/wiki/Bangkok "wikilink")/タイ、[Kuala Lumpur](https://ja.wikipedia.org/wiki/Kuala_Lumpur "wikilink")/マレーシア、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")、[Jakarta](https://ja.wikipedia.org/wiki/Jakarta "wikilink")/インドネシア、[Taipei](https://ja.wikipedia.org/wiki/Taipei "wikilink")/台湾
-56. [Los Angeles](https://ja.wikipedia.org/wiki/Los_Angeles "wikilink")/US,[New York](https://ja.wikipedia.org/wiki/New_York "wikilink")/US,[Toronto](https://ja.wikipedia.org/wiki/Toronto "wikilink")/Canada,[Philadelphia](https://ja.wikipedia.org/wiki/Philadelphia "wikilink")/US
-57. [Anaheim](https://ja.wikipedia.org/wiki/Anaheim "wikilink")、[San Diego](https://ja.wikipedia.org/wiki/San_Diego "wikilink")
-58. [サンチアゴ](https://ja.wikipedia.org/wiki/サンチアゴ "wikilink")、[ブエノスアイレス](../Page/ブエノスアイレス.md "wikilink")、[サンパウロ](../Page/サンパウロ.md "wikilink")、[リマ](../Page/リマ.md "wikilink")、[メキシコシティ](../Page/メキシコシティ.md "wikilink")、[フランクフルト](https://ja.wikipedia.org/wiki/フランクフルト "wikilink")、[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")、[チューリヒ](https://ja.wikipedia.org/wiki/チューリヒ "wikilink")、[ミラン](../Page/ミラン.md "wikilink")、[ミュンヘン](../Page/ミュンヘン.md "wikilink")、[ケルン](../Page/ケルン.md "wikilink")、[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")、[コペンハーゲン](../Page/コペンハーゲン.md "wikilink")、[ストックホルム](../Page/ストックホルム.md "wikilink")、[ハンブルク](../Page/ハンブルク.md "wikilink")、[アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink")、[アントワープ](https://ja.wikipedia.org/wiki/アントワープ "wikilink")、[ロンドン](../Page/ロンドン.md "wikilink")、[サンクトペテルブルク](../Page/サンクトペテルブルク.md "wikilink")、[モスクワ](../Page/モスクワ.md "wikilink")
-59. サポートゲストとして12日[Sleeping With Sirens](https://ja.wikipedia.org/wiki/スリーピング・ウィズ・サイレンス "wikilink") / Against the Current、 13日Sleeping With Sirens / ISSUES
-60. [香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")(2公演)、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")、[タイ](../Page/タイ王国.md "wikilink")、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")
-61. [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")(2都市)、[ポーランド](../Page/ポーランド.md "wikilink")、[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")、[ルクセンブルク](../Page/ルクセンブルク.md "wikilink")
-62. [ニューヨーク](../Page/ニューヨーク.md "wikilink")、[トロント](../Page/トロント.md "wikilink")、[シカゴ](../Page/シカゴ.md "wikilink")、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")、[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")、[シアトル](../Page/シアトル.md "wikilink")
-63. サンクトペテルブルク、モスクワ
-64. リマ、サンパウロ、ブエノスアイレス、サンチアゴ。なお09月25日に予定されていたメキシコは、地震の影響で中止になった。
-65. [ブリスベン](../Page/ブリスベン.md "wikilink")、[シドニー](../Page/シドニー.md "wikilink")、[メルボルン](../Page/メルボルン.md "wikilink")
-66. チューリヒ、[プラハ](../Page/プラハ.md "wikilink")、[ワルシャワ](../Page/ワルシャワ.md "wikilink")、[ヘルシンキ](../Page/ヘルシンキ.md "wikilink")、[ストックホルム](../Page/ストックホルム.md "wikilink")、[オスロ](../Page/オスロ.md "wikilink")、[コペンハーゲン](../Page/コペンハーゲン.md "wikilink"), [グラスゴー](../Page/グラスゴー.md "wikilink")、[マンチェスター](../Page/マンチェスター.md "wikilink")、ロンドン、ケルン、ミュンヘン、[ウィーン](https://ja.wikipedia.org/wiki/ウィーン "wikilink")、ベルリン、アムステルダム、パリ
-67. [バンコク](../Page/バンコク.md "wikilink")、シンガポール、[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")、[台北](https://ja.wikipedia.org/wiki/台北 "wikilink")、[マニラ](../Page/マニラ.md "wikilink")、香港、[ソウル](https://ja.wikipedia.org/wiki/ソウル "wikilink")
-68. ロンドン - Heaven、ケルン - Luxor、ハンブルク - headCRASH、ユトレヒト - TivoliVrendenburg Pandora、パリ - Bataclan
-69. 「[原田真二](../Page/原田真二.md "wikilink")プロデュース」のアーティストを発掘するとして始まったオーディションの第3弾。
-70. <http://natalie.mu/music/news/2926>
-71. [Yellowcard](https://ja.wikipedia.org/wiki/Yellowcard "wikilink")、[Tonight Alive](https://ja.wikipedia.org/wiki/Tonight_Alive "wikilink")、（東京のみ）との対バン形式のイベントツアー。
-72. [All Time Low](https://ja.wikipedia.org/wiki/All_Time_Low "wikilink")、、（東京のみ）との対バン形式のイベントツアー。
-73. [ONE OK ROCK 18祭（フェス）- ムズムズエイティーン](http://www.nhk.or.jp/mzmz18/18fes/) - NHKオンライン
-74. [NHKが全国の18歳に届ける1回限りの奇跡のステージ 「ONE OK ROCK 18祭（フェス）」参加者募集\!](http://www.oneokrock.com/jp/news/1490)  - ONE OK ROCK official website
-75. 事前選考を通過した1,000人の18歳世代とONE OK ROCKが一緒にひとつのステージを作り上げる、1回限り1曲限りのパフォーマンスを目指すもの。18歳世代とは、「18祭（フェス）」本番当日（2016年11月13日）時点で、満17 - 19歳（1996年11月14日 - 1999年11月13日生まれ）の者を指す。
+51.
+52. 「クアトロトロトロツアー'07」12.19 名古屋CLUB QUATTRO12.20 心斎橋CLUB QUATTRO12.28 渋谷CLUB QUATTRO
+53. \*04.01 仙台MACANA/04.03 福岡DRUM Be-1/04.04 広島ナミキジャンクション/04.06 高松DIME/04.11 大阪BIGCAT/04.12 名古屋BOTTOM LINE /04.18 札幌ベッシーホール 04.20/渋谷O-EAST
+54. [Taipei](https://ja.wikipedia.org/wiki/Taipei "wikilink")/台湾、[Seoul](https://ja.wikipedia.org/wiki/Seoul "wikilink")/韓国、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")
+55. [Taipei](https://ja.wikipedia.org/wiki/Taipei "wikilink") /台湾、1会場2公演
+56. [Paris](https://ja.wikipedia.org/wiki/Paris "wikilink")/フランス（2会場2公演）、[Bonn](https://ja.wikipedia.org/wiki/Bonn "wikilink")/ドイツ、[London](https://ja.wikipedia.org/wiki/London "wikilink")/イギリス、[Amsterdam](https://ja.wikipedia.org/wiki/Amsterdam "wikilink")/オランダ、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[Seoul](https://ja.wikipedia.org/wiki/Seoul "wikilink")/韓国、[Bangkok](https://ja.wikipedia.org/wiki/Bangkok "wikilink")/タイ、[Kuala Lumpur](https://ja.wikipedia.org/wiki/Kuala_Lumpur "wikilink")/マレーシア、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")、[Jakarta](https://ja.wikipedia.org/wiki/Jakarta "wikilink")/インドネシア、[Taipei](https://ja.wikipedia.org/wiki/Taipei "wikilink")/台湾
+57. [Los Angeles](https://ja.wikipedia.org/wiki/Los_Angeles "wikilink")/US,[New York](https://ja.wikipedia.org/wiki/New_York "wikilink")/US,[Toronto](https://ja.wikipedia.org/wiki/Toronto "wikilink")/Canada,[Philadelphia](https://ja.wikipedia.org/wiki/Philadelphia "wikilink")/US
+58. [Anaheim](https://ja.wikipedia.org/wiki/Anaheim "wikilink")、[San Diego](https://ja.wikipedia.org/wiki/San_Diego "wikilink")
+59. [サンチアゴ](https://ja.wikipedia.org/wiki/サンチアゴ "wikilink")、[ブエノスアイレス](../Page/ブエノスアイレス.md "wikilink")、[サンパウロ](../Page/サンパウロ.md "wikilink")、[リマ](../Page/リマ.md "wikilink")、[メキシコシティ](../Page/メキシコシティ.md "wikilink")、[フランクフルト](https://ja.wikipedia.org/wiki/フランクフルト "wikilink")、[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")、[チューリヒ](https://ja.wikipedia.org/wiki/チューリヒ "wikilink")、[ミラン](../Page/ミラン.md "wikilink")、[ミュンヘン](../Page/ミュンヘン.md "wikilink")、[ケルン](../Page/ケルン.md "wikilink")、[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")、[コペンハーゲン](../Page/コペンハーゲン.md "wikilink")、[ストックホルム](../Page/ストックホルム.md "wikilink")、[ハンブルク](../Page/ハンブルク.md "wikilink")、[アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink")、[アントワープ](https://ja.wikipedia.org/wiki/アントワープ "wikilink")、[ロンドン](../Page/ロンドン.md "wikilink")、[サンクトペテルブルク](../Page/サンクトペテルブルク.md "wikilink")、[モスクワ](../Page/モスクワ.md "wikilink")
+60. サポートゲストとして12日[Sleeping With Sirens](https://ja.wikipedia.org/wiki/スリーピング・ウィズ・サイレンス "wikilink") / Against the Current、 13日Sleeping With Sirens / ISSUES
+61. [香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")(2公演)、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")、[タイ](../Page/タイ王国.md "wikilink")、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")
+62. [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")(2都市)、[ポーランド](../Page/ポーランド.md "wikilink")、[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")、[ルクセンブルク](../Page/ルクセンブルク.md "wikilink")
+63. [ニューヨーク](../Page/ニューヨーク.md "wikilink")、[トロント](../Page/トロント.md "wikilink")、[シカゴ](../Page/シカゴ.md "wikilink")、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")、[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")、[シアトル](../Page/シアトル.md "wikilink")
+64. サンクトペテルブルク、モスクワ
+65. リマ、サンパウロ、ブエノスアイレス、サンチアゴ。なお09月25日に予定されていたメキシコは、地震の影響で中止になった。
+66. [ブリスベン](../Page/ブリスベン.md "wikilink")、[シドニー](../Page/シドニー.md "wikilink")、[メルボルン](../Page/メルボルン.md "wikilink")
+67. チューリヒ、[プラハ](../Page/プラハ.md "wikilink")、[ワルシャワ](../Page/ワルシャワ.md "wikilink")、[ヘルシンキ](../Page/ヘルシンキ.md "wikilink")、[ストックホルム](../Page/ストックホルム.md "wikilink")、[オスロ](../Page/オスロ.md "wikilink")、[コペンハーゲン](../Page/コペンハーゲン.md "wikilink"), [グラスゴー](../Page/グラスゴー.md "wikilink")、[マンチェスター](../Page/マンチェスター.md "wikilink")、ロンドン、ケルン、ミュンヘン、[ウィーン](https://ja.wikipedia.org/wiki/ウィーン "wikilink")、ベルリン、アムステルダム、パリ
+68. [バンコク](../Page/バンコク.md "wikilink")、シンガポール、[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")、[台北](https://ja.wikipedia.org/wiki/台北 "wikilink")、[マニラ](../Page/マニラ.md "wikilink")、香港、[ソウル](https://ja.wikipedia.org/wiki/ソウル "wikilink")
+69. ロンドン - Heaven、ケルン - Luxor、ハンブルク - headCRASH、ユトレヒト - TivoliVrendenburg Pandora、パリ - Bataclan
+70. 「[原田真二](../Page/原田真二.md "wikilink")プロデュース」のアーティストを発掘するとして始まったオーディションの第3弾。
+71. <http://natalie.mu/music/news/2926>
+72. [Yellowcard](https://ja.wikipedia.org/wiki/Yellowcard "wikilink")、[Tonight Alive](https://ja.wikipedia.org/wiki/Tonight_Alive "wikilink")、（東京のみ）との対バン形式のイベントツアー。
+73. [All Time Low](https://ja.wikipedia.org/wiki/All_Time_Low "wikilink")、、（東京のみ）との対バン形式のイベントツアー。
+74. [ONE OK ROCK 18祭（フェス）- ムズムズエイティーン](http://www.nhk.or.jp/mzmz18/18fes/) - NHKオンライン
+75. [NHKが全国の18歳に届ける1回限りの奇跡のステージ 「ONE OK ROCK 18祭（フェス）」参加者募集\!](http://www.oneokrock.com/jp/news/1490)  - ONE OK ROCK official website
+76. 事前選考を通過した1,000人の18歳世代とONE OK ROCKが一緒にひとつのステージを作り上げる、1回限り1曲限りのパフォーマンスを目指すもの。18歳世代とは、「18祭（フェス）」本番当日（2016年11月13日）時点で、満17 - 19歳（1996年11月14日 - 1999年11月13日生まれ）の者を指す。

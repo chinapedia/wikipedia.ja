@@ -219,6 +219,8 @@ SECL-862</p></td>
 ## 外部リンク
 
   -
+  - [Diggy-MO' YouTube Channel](https://www.youtube.com/channel/UC8pERFtp_UG9MiKaX2UHM2A/about)
+
 ## 関連項目
 
   - [SOUL'd OUT](../Page/SOUL'd_OUT.md "wikilink")

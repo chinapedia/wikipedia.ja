@@ -40,6 +40,6 @@
 
 ## 外部リンク
 
-  - [テレビ朝日｜Hi Hi PUFFY部](http://web.archive.org/web/20061013134938/http://www.tv-asahi.co.jp/puffy/)（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")保存データ）
+  - [テレビ朝日｜Hi Hi PUFFY部](https://web.archive.org/web/20061013134938/http://www.tv-asahi.co.jp/puffy/)（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")保存データ）
 
 [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:ネオバラエティ](https://ja.wikipedia.org/wiki/Category:ネオバラエティ "wikilink") [Category:PUFFY](https://ja.wikipedia.org/wiki/Category:PUFFY "wikilink")

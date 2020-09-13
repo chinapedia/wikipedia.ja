@@ -5,15 +5,15 @@
 
 ## 経歴
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")9月、[IWA・JAPAN](../Page/IWA・JAPAN.md "wikilink")秋田大会のバトルロイヤルでプレデビュー後、11月12日[後楽園ホール](../Page/後楽園ホール.md "wikilink")にて、平野勝美を相手に本名の志賀悟でデビュー。[1996年](../Page/1996年.md "wikilink")にはフリーとなる。この頃は、[中牧昭二](../Page/中牧昭二.md "wikilink")と行動を共にすることが多かった。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")9月、[IWA・JAPAN](../Page/IWA・JAPAN.md "wikilink")秋田大会のバトルロイヤルでプレデビュー後、11月12日の[後楽園ホール](../Page/後楽園ホール.md "wikilink")大会において、[平野勝美](https://ja.wikipedia.org/wiki/平野勝美 "wikilink")を相手に本名の**志賀悟**でデビュー。[1996年](../Page/1996年.md "wikilink")にはフリーとなる。この頃は、[中牧昭二](../Page/中牧昭二.md "wikilink")と行動を共にすることが多かった。
 
-[1999年](../Page/1999年.md "wikilink")から[大日本プロレス](../Page/大日本プロレス.md "wikilink")に所属する。[ミスター・ポーゴ](../Page/ミスター・ポーゴ.md "wikilink")の子分的存在となり、ポーゴの影武者=ポーゴシャドウ→シャドウWXと改名。ポーゴ離脱後は[デスマッチ](../Page/デスマッチ.md "wikilink")で徐々に独自の存在感を露にし、[本間朋晃](../Page/本間朋晃.md "wikilink")、[山川竜司](../Page/山川竜司.md "wikilink")と共に「デスマッチ新世代」を形成するなど、大日本プロレスのデスマッチの歴史において彼を外す事は出来ないと言われる程の実力派デスマッチファイターとまで評されるようになる。蛍光灯や有刺鉄線を始め、画鋲、ファイヤー、チェーンデスマッチ、そして棺桶デスマッチも経験しており、デスマッチにおけるキャリアは大日本トップクラスである。
+[1999年](../Page/1999年.md "wikilink")から[大日本プロレス](../Page/大日本プロレス.md "wikilink")に所属する。[ミスター・ポーゴ](../Page/ミスター・ポーゴ.md "wikilink")の子分的存在となり、ポーゴの影武者=**ポーゴシャドウ**→**シャドウWX**と改名。ポーゴ離脱後は[デスマッチ](../Page/デスマッチ.md "wikilink")で徐々に独自の存在感を露にし、[本間朋晃](../Page/本間朋晃.md "wikilink")、[山川竜司](../Page/山川竜司.md "wikilink")と共に「デスマッチ新世代」を形成するなど、大日本プロレスのデスマッチの歴史において彼を外す事は出来ないと言われる程の実力派デスマッチファイターとまで評されるようになる。蛍光灯や有刺鉄線を始め、画鋲、ファイヤー、チェーンデスマッチ、そして棺桶デスマッチも経験しており、デスマッチにおけるキャリアは大日本トップクラスである。
 
 [2004年](../Page/2004年.md "wikilink")の[新潟県中越地震](https://ja.wikipedia.org/wiki/新潟県中越地震 "wikilink")では、自ら率先して被災者救済の為の活動を行い、[みちのくプロレス](../Page/みちのくプロレス.md "wikilink")主催のチャリティ興行にも同伴している。
 
-[2005年](../Page/2005年.md "wikilink")、[アパッチプロレス軍](../Page/アパッチプロレス軍.md "wikilink")所属の[マンモス佐々木](../Page/マンモス佐々木.md "wikilink")と「**チームあんこ型**」を結成。
+[2005年](../Page/2005年.md "wikilink")、[アパッチプロレス軍](../Page/アパッチプロレス軍.md "wikilink")所属の[マンモス佐々木](../Page/マンモス佐々木.md "wikilink")と「チームあんこ型」を結成。
 
-[2006年](../Page/2006年.md "wikilink")1月[川崎市体育館](../Page/川崎市体育館.md "wikilink")大会にて、[BJW認定タッグ王座](../Page/BJW認定タッグ王座.md "wikilink")をマッスル＆ファットです。（[アブドーラ小林](../Page/アブドーラ小林.md "wikilink")＆[関本大介](../Page/関本大介.md "wikilink")）から奪取。同年12月3日[横浜文体で](../Page/横浜文化体育館.md "wikilink")、関本・[佐々木義人](../Page/佐々木義人.md "wikilink")組に敗れるまで、4回の防衛に成功。
+[2006年](../Page/2006年.md "wikilink")1月[川崎市体育館](../Page/川崎市体育館.md "wikilink")大会にて、[BJW認定タッグ王座](../Page/BJW認定タッグ王座.md "wikilink")をマッスル＆ファットです。（[アブドーラ小林](../Page/アブドーラ・小林.md "wikilink")＆[関本大介](../Page/関本大介.md "wikilink")）から奪取。同年12月3日[横浜文体で](../Page/横浜文化体育館.md "wikilink")、関本・[佐々木義人](../Page/佐々木義人.md "wikilink")組に敗れるまで、4回の防衛に成功。
 
 その後は[稲松三郎](../Page/稲松三郎.md "wikilink")ら若いデスマッチ世代の台頭を恐れ、マンモスとのタッグを休止し、再びデスマッチ主戦線に絡むようになり、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")5月4日・[桂スタジオ](../Page/桂スタジオ.md "wikilink")大会で、王者・[伊東竜二](../Page/伊東竜二.md "wikilink")を倒し、実に8年半ぶり4回目となる[BJW認定デスマッチヘビー級王座](../Page/BJW認定デスマッチヘビー級王座.md "wikilink")を獲得した。
 
@@ -25,9 +25,11 @@
 
 [2019年](../Page/2019年.md "wikilink")9月10日、久々に公の場に姿を現し記者会見を行い、12月に新団体「[メジャー・リーガーズ・レスリング](https://ja.wikipedia.org/wiki/メジャー・リーガーズ・レスリング "wikilink")」（MLW）\[1\]を旗揚げし約6年ぶりに現役復帰することを発表した。また欠場以後[甲状腺がん](https://ja.wikipedia.org/wiki/甲状腺がん "wikilink")や[脳梗塞](../Page/脳梗塞.md "wikilink")など複数の病気を患い、闘病生活を送っていたことも明らかにした\[2\]。
 
-[2020年](../Page/2020年.md "wikilink")4月10日、美奈子ファミリーTVにて、[ユーチューバーデビュー](https://ja.wikipedia.org/wiki/YouTuber "wikilink")。[ステーキハウスリベラ](https://ja.wikipedia.org/wiki/ステーキハウスリベラ "wikilink")でのステーキ大食い選手権に、佐々木夫婦と共にチャレンジャーとして出場した。
+12月13日、[新木場1stRING](../Page/新木場1stRING.md "wikilink")にてMLWの旗揚げ戦を開催。復帰戦の相手はかつての盟友である[ネクロ・ブッチャー](../Page/ネクロ・ブッチャー.md "wikilink")。
 
-## タイトル履歴
+[2020年](../Page/2020年.md "wikilink")4月10日、Youtubeチャンネル「美奈子ファミリーTV」にて、[ステーキハウスリベラ](https://ja.wikipedia.org/wiki/ステーキハウスリベラ "wikilink")でのステーキ大食い選手権に、佐々木義人・[美奈子](https://ja.wikipedia.org/wiki/美奈子 "wikilink")夫婦と共にチャレンジャーとして出場した。
+
+## タイトル歴
 
   - [BJW認定デスマッチヘビー級王座](../Page/BJW認定デスマッチヘビー級王座.md "wikilink")
   - [BJW認定タッグ王座](../Page/BJW認定タッグ王座.md "wikilink")

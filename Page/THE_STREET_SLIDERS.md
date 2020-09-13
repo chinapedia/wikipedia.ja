@@ -3,7 +3,7 @@
 
 **THE STREET SLIDERS**（ザ・ストリート・スライダーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックンロール](../Page/ロック_\(音楽\).md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。
 
-結成は1980年。[福生](https://ja.wikipedia.org/wiki/福生 "wikilink")のUZUをホームに[横田基地](https://ja.wikipedia.org/wiki/横田基地 "wikilink")のキャンプ等でライブを重ね、「リトル・ストーンズ」と称され人気を博す。1983年には[EPICソニーからデビュー](../Page/エピックレコードジャパン.md "wikilink")。[ブルース](../Page/ブルース.md "wikilink")を基調にした音楽性と、時代に媚びることのない姿勢は、2000年の解散までぶれることがなかった。なお、メンバーは20年間不動であった。
+結成は1980年。[福生のUZUをホームに](../Page/福生市.md "wikilink")[横田基地](https://ja.wikipedia.org/wiki/横田基地 "wikilink")のキャンプ等でライブを重ね、「リトル・ストーンズ」と称され人気を博す。1983年には[EPICソニーからデビュー](../Page/エピックレコードジャパン.md "wikilink")。[ブルース](../Page/ブルース.md "wikilink")を基調にした音楽性と、時代に媚びることのない姿勢は、2000年の解散までぶれることがなかった。なお、メンバーは20年間不動であった。
 
 ## メンバー
 
@@ -61,6 +61,8 @@
     HARRYの「30th Anniversary TOUR」（10月～12月）にJAMESとZUZUの参加が決定。バンド解散後、この3人が揃うのは初めてであった。
   - 2018年
     HARRY（バンド）のデビュー35周年記念ライブに、JAMES・ZUZUの旧メンバーが客演。かつてHARRYと蘭丸が組んだユニット「JOY-POPS」の復活を発表し、4月末からツアーを開始した\[1\]。
+    **2020年**
+    村越弘明と土屋公平のユニット*JOY-POPS、*2年ぶりの全国ツアー《*Tour 2020  NEXT DOOR*》が決定。3月から5月にかけて全国8公演を行う予定であったが、ツアー直前に新型コロナウイルスの世界的流行により公演自粛を余儀なくされ全ツアーが延期。ツアーが白紙になったことで新たに生まれた二人のミニ・アルバム《*Inner Sessions*》を7月に公式サイトの通販に限り限定発売。ストリート・スライダーズ が解散して以来、初めてスタジオに入りJOY-POPSの新曲4曲とスライダーズ 時代のナンバー2曲をセルフカバーしている。
 
 ## エピソード
 
@@ -716,7 +718,7 @@ Collections</p></td>
 <td><p>6th</p></td>
 <td><p>蘭丸</p></td>
 <td><p>蘭丸Onlyの写真集</p></td>
-<td><p>発行/<a href="../Page/音楽専科社.md" title="wikilink">音楽専科社</a>　撮影/おおくぼひさこ</p></td>
+<td><p>発行/<a href="../Page/音楽専科社.md" title="wikilink">音楽専科社</a>　撮影/<a href="../Page/おおくぼひさこ.md" title="wikilink">おおくぼひさこ</a></p></td>
 <td><p>'89.03.03</p></td>
 </tr>
 <tr class="even">

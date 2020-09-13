@@ -1,7 +1,7 @@
 > この記事は[GOLD \(B\'zの曲\)](https://ja.wikipedia.org/wiki/GOLD_\(B\'zの曲\))から翻訳されています。
 
 
-「**GOLD**」（ゴールド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[2001年](../Page/2001年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")に[Rooms RECORDSより](../Page/VERMILLION_RECORDS.md "wikilink")32作目の[シングル](../Page/シングル.md "wikilink")として発売された。
+「**GOLD**」（ゴールド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。2001年8月8日に[Rooms RECORDSより](../Page/VERMILLION_RECORDS.md "wikilink")32作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 

@@ -74,6 +74,9 @@ BTは2006年11月13日[ポッドキャスト](../Page/ポッドキャスト.md "
   - [If The Stars Are Eternal So Are You And I](https://ja.wikipedia.org/wiki/If_The_Stars_Are_Eternal_So_Are_You_And_I "wikilink") (2012)
   - [Nuovo Morceau Subrosa](https://ja.wikipedia.org/wiki/Nuovo_Morceau_Subrosa "wikilink") (2012)
   - [A Song Across Wires](https://ja.wikipedia.org/wiki/A_Song_Across_Wires "wikilink") (2013)
+  - _ (2016)
+  - [Between Here and You](https://ja.wikipedia.org/wiki/Between_Here_and_You "wikilink") (2019)
+  - [Everything You're Searching for Is on the Other Side of Fear](https://ja.wikipedia.org/wiki/Everything_You're_Searching_for_Is_on_the_Other_Side_of_Fear "wikilink") (2019)
 
 ### シングル
 
@@ -110,6 +113,17 @@ BTは2006年11月13日[ポッドキャスト](../Page/ポッドキャスト.md "
   - Must Be The Love (2012)
   - Skylarking (2013)
   - Surrounded (2013)
+  - Letting Go (2014)
+  - Paralyzed (2014)
+  - All These Wounds (2015)
+  - The Upside Down (2017)
+  - LSTM (2017)
+  - Four (2017)
+  - Yahweh (2017)
+  - The Noetic (2018)
+  - 1997 (2019)
+  - I Need Love (2019)
+  - Atan's Lantern (2020)
 
 ### コンピレーション
 

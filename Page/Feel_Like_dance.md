@@ -18,6 +18,7 @@
       -
         [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[木曜劇場](../Page/木曜劇場.md "wikilink")『[ひとりにしないで](https://ja.wikipedia.org/wiki/ひとりにしないで "wikilink")』主題歌。
         [TBS系](../Page/TBSテレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[学校へ行こう\!](../Page/学校へ行こう!_\(バラエティー番組\).md "wikilink")』にて、「B-RAPハイスクール」の[軟式globe](../Page/軟式globe.md "wikilink")が一時期この曲を使用していたことがある。
+        発売当時は本格的なPVは制作されておらず、CGなどのPVで代用されていた。しかし発売後にglobeとしての初のお披露目ライブとなった「[Avex dance Matrix '95 TK DANCE CAMP](../Page/Avex_dance_Matrix_'95_TK_DANCE_CAMP.md "wikilink")」にて「Feel Like dance」が披露された\[3\]後からはライブ映像に加工を施した上でPVの代用としており、後に正式なPVとなりPV集「NAKED screen」にフルサイズで収録され、avex公式YouTubeチャンネルでも2010年に公開された。
 2.  **Feel Like dance (CLUB MIX)**
 3.  **Feel Like dance (TV MIX)**
 
@@ -37,8 +38,8 @@
 
 <!-- end list -->
 
-  - [華原朋美](../Page/華原朋美.md "wikilink") - カバーアルバム『[MEMORIES 3 -Kahara Back to 1995-](https://ja.wikipedia.org/wiki/MEMORIES_3_-Kahara_Back_to_1995- "wikilink")』（2015年12月2日発売）に収録\[3\]。
-  - [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") - V.A.『[\#globe20th -SPECIAL COVER BEST-](https://ja.wikipedia.org/wiki/globe20th_-SPECIAL_COVER_BEST- "wikilink")』（2015年12月16日）に収録。歌唱ではなく、ピアノソロ演奏\[4\]。
+  - [華原朋美](../Page/華原朋美.md "wikilink") - カバーアルバム『[MEMORIES 3 -Kahara Back to 1995-](https://ja.wikipedia.org/wiki/MEMORIES_3_-Kahara_Back_to_1995- "wikilink")』（2015年12月2日発売）に収録\[4\]。
+  - [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") - V.A.『[\#globe20th -SPECIAL COVER BEST-](https://ja.wikipedia.org/wiki/globe20th_-SPECIAL_COVER_BEST- "wikilink")』（2015年12月16日）に収録。歌唱ではなく、ピアノソロ演奏\[5\]。
 
 ## 発売日一覧
 
@@ -81,7 +82,8 @@
 
 [Category:Globeの楽曲](https://ja.wikipedia.org/wiki/Category:Globeの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1995年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1995年のデビュー・シングル "wikilink") [Category:フジテレビ木曜10時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビ木曜10時枠の連続ドラマの主題歌 "wikilink") [Category:ダンスを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:ダンスを題材とした楽曲 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
 
-1.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊「[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")」1996年5月号87P-89Pより。
+1.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊「[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")」1996年5月号「globe The Completely Free Triangle」87P-89Pより。
 2.
 3.
 4.
+5.

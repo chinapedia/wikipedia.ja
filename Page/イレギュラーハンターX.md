@@ -5,6 +5,8 @@
 
 [2007年](../Page/2007年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")には[カプコレ](https://ja.wikipedia.org/wiki/カプコレ "wikilink")版（[廉価版](../Page/廉価版.md "wikilink")）が、[2009年](../Page/2009年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink")には『[ロックマンロックマン](../Page/ロックマンロックマン.md "wikilink")』とセットとなった『**イレギュラーハンターX / ロックマンロックマン バリューパック**』が発売された。[2009年](../Page/2009年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")には[PlayStation Storeにて配信されている](../Page/PlayStation_Store.md "wikilink")。
 
+ロックマンシリーズのゲームではあるが、このゲームのみタイトル名に「ロックマン」と書かれるのは日本国外のみであり、日本国内では唯一書かれてない。
+
 ## 概要
 
 シリーズ第1作『[ロックマンX](../Page/ロックマンX.md "wikilink")』（以下「オリジナル版」と表記）の[リメイク](../Page/リメイク.md "wikilink")作品。[グラフィック](../Page/グラフィック.md "wikilink")は全て[3DCGとなり](../Page/3次元コンピュータグラフィックス.md "wikilink")、カプセルなどの配置やボスの攻撃パターンなど、ゲーム内の要素もある程度変更されている。また、ボスキャラクターとの戦闘直前での会話やアニメーションなどが追加されており、演出面も向上している。アニメーションは[XEBEC](../Page/ジーベック_\(アニメ制作会社\).md "wikilink")（現・[Production I.G](../Page/プロダクション・アイジー.md "wikilink")）が制作している。

@@ -90,7 +90,7 @@ BVCR-8821（再発盤）</p></td>
 <tr class="odd">
 <td><p>2nd</p></td>
 <td><p>1995年2月22日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/黄昏&#39;95〜太陽の季節" title="wikilink">黄昏'95〜太陽の季節</a></strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/黄昏&#39;95_〜太陽の季節" title="wikilink">黄昏'95 〜太陽の季節</a></strong></p></td>
 <td><p>EDCR-12001</p></td>
 <td><ol>
 <li>黄昏'95 〜太陽の季節</li>
@@ -852,7 +852,7 @@ BVBK-11001:DVD</p></td>
       -
   - [スチャダラパー×TOKYO No.1 SOUL SET対談（2010年2月22日掲載）](http://www.cinra.net/interview/2010/02/22/000000.php) - CINRA.NET
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:渋谷系](https://ja.wikipedia.org/wiki/Category:渋谷系 "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:渋谷系](https://ja.wikipedia.org/wiki/Category:渋谷系 "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:1990年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1990年に結成した音楽グループ "wikilink") [Category:2000年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に解散した音楽グループ "wikilink") [Category:2005年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に再結成した音楽グループ "wikilink")
 
 1.
 2.

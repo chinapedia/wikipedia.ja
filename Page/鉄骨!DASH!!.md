@@ -11,7 +11,7 @@
 
 内容は本家『ザ\!鉄腕\!DASH\!\!』とほぼ同じだが規模が小さく、ロケ地はほぼ[千葉県](../Page/千葉県.md "wikilink")内で完結していた。
 
-スタジオでの進行役は当時フリーアナウンサーだった[今泉清保](../Page/今泉清保.md "wikilink")（元・[福岡放送](../Page/福岡放送.md "wikilink")アナウンサー、現・[青森テレビ](../Page/青森テレビ.md "wikilink")アナウンサー）が務め、番組内では[福澤朗](../Page/福澤朗.md "wikilink")アナ（当時日本テレビアナウンサー）の“**ジャストミート\!\!**”をもじって“**ジャストフィット今泉**”と名乗っていた。他に「ミス木更津」との肩書が付いた女性がおり、番組中は一言も声を発しなかったが、本家放送中のときに[木更津との中継で声を出した](https://ja.wikipedia.org/wiki/木更津市 "wikilink")\[1\]。
+スタジオでの進行役は当時フリーアナウンサーだった[今泉清保](../Page/今泉清保.md "wikilink")（元・[福岡放送](../Page/福岡放送.md "wikilink")アナウンサー、現・[青森テレビ](../Page/青森テレビ.md "wikilink")アナウンサー）が務め、番組内では[福澤朗](../Page/福澤朗.md "wikilink")アナ（当時日本テレビアナウンサー）の“**ジャストミート\!\!**”をもじって“**ジャストフィット今泉**”と名乗っていた。他に[研ナオコ](../Page/研ナオコ.md "wikilink")のポジションにあたる「ミス木更津」との肩書が付いた女性がおり、番組中は一言も声を発しなかったが、本家放送中のときに[木更津との中継で声を出した](https://ja.wikipedia.org/wiki/木更津市 "wikilink")\[1\]。
 
 1999年3月ごろから本家に噂が伝わり、検証が始まった\[2\]。しばらくはすれ違いを繰り返していたが、同年5月23日の放送にて日本テレビとケーブルテレビ局のスタジオを中継で結び、これまで謎の存在とされてきたTOKIQと『鉄骨\!DASH\!\!』を全国的に明らかにした\[3\]。のちにメンバーの一部が本家の企画にも顔を出すようになり、交流が盛んになった。
 
@@ -40,14 +40,14 @@ TOKIQの名は本家の方で[1998年](https://ja.wikipedia.org/wiki/1998年 "wi
 
 ## 外部リンク
 
-  - [ザ\!鉄腕\!DASH\!\!内の紹介ページ](http://www.ntv.co.jp/dash/tetsuwan_new/situmon/tekkotsu/index.htm)
+  - [ザ\!鉄腕\!DASH\!\!内の紹介ページ](https://www.ntv.co.jp/dash/tetsuwan_new/situmon/tekkotsu/index.htm)
 
 [Category:関東・甲信越地方のテレビ番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビ番組 "wikilink") [Category:関東・甲信越地方のバラエティ番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のバラエティ番組 "wikilink") [Category:J:COMチャンネルの番組](https://ja.wikipedia.org/wiki/Category:J:COMチャンネルの番組 "wikilink") [Category:パロディ](https://ja.wikipedia.org/wiki/Category:パロディ "wikilink")
 
-1.  [5月23日の放送内容](http://www.ntv.co.jp/dash/tetsuwan_new/past/1999/0523.html)（日本テレビ『ザ！鉄腕！DASH\!\!』公式サイト）
-2.  [3月14日の放送内容](http://www.ntv.co.jp/dash/tetsuwan_new/past/1999/0314.html)（日本テレビ『ザ！鉄腕！DASH\!\!』公式サイト）
+1.  [5月23日の放送内容](https://www.ntv.co.jp/dash/tetsuwan_new/past/1999/0523.html)（日本テレビ『ザ！鉄腕！DASH\!\!』公式サイト）
+2.  [3月14日の放送内容](https://www.ntv.co.jp/dash/tetsuwan_new/past/1999/0314.html)（日本テレビ『ザ！鉄腕！DASH\!\!』公式サイト）
 3.
-4.  [2月13日の放送内容](http://www.ntv.co.jp/dash/tetsuwan_new/past/2000/0213.html)（日本テレビ『ザ！鉄腕！DASH\!\!』公式サイト）
+4.  [2月13日の放送内容](https://www.ntv.co.jp/dash/tetsuwan_new/past/2000/0213.html)（日本テレビ『ザ！鉄腕！DASH\!\!』公式サイト）
 5.
 6.
 7.

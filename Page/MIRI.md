@@ -128,7 +128,7 @@
   -
   - [櫻井未莉(usa☆usa少女倶楽部)公式ブログ](http://gree.jp/sakurai_miri) - [GREE](https://ja.wikipedia.org/wiki/GREE "wikilink")
 
-[Category:日本のアイドル](https://ja.wikipedia.org/wiki/Category:日本のアイドル "wikilink") [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:静岡県出身の人物](https://ja.wikipedia.org/wiki/Category:静岡県出身の人物 "wikilink") [Category:1998年生](https://ja.wikipedia.org/wiki/Category:1998年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の女性アイドル](https://ja.wikipedia.org/wiki/Category:日本の女性アイドル "wikilink") [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:静岡県出身の人物](https://ja.wikipedia.org/wiki/Category:静岡県出身の人物 "wikilink") [Category:1998年生](https://ja.wikipedia.org/wiki/Category:1998年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.

@@ -1,7 +1,7 @@
 > この記事は[FCアウクスブルク](https://ja.wikipedia.org/wiki/FCアウクスブルク)から翻訳されています。
 
 
-**FCアウクスブルク**（）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[バイエルン州](https://ja.wikipedia.org/wiki/バイエルン州 "wikilink")の[アウクスブルク](../Page/アウクスブルク.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。
+**ブースバルクルプ・アウクスブルク1907 [e. V.](../Page/登録社団.md "wikilink")**（）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[バイエルン州](https://ja.wikipedia.org/wiki/バイエルン州 "wikilink")の[アウクスブルク](../Page/アウクスブルク.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
 ## 歴史
 
@@ -28,25 +28,26 @@
 
 | シーズン                                                                     | ディビジョン                                                                       | [DFBポカール](../Page/DFBポカール.md "wikilink") |
 | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------- | ---------------------------------------- |
-| リーグ                                                                      | 順位                                                                           | 試                                        |
-| 2002-03                                                                  | [レギオナルリーガ南部](../Page/レギオナルリーガ_\(ドイツサッカー\).md "wikilink")                     | '''3位                                    |
-| 2003-04                                                                  | レギオナルリーガ南部                                                                   | '''4位                                    |
-| 2004-05                                                                  | レギオナルリーガ南部                                                                   | '''4位                                    |
-| 2005-06                                                                  | レギオナルリーガ南部                                                                   | '''1位                                    |
-| 2006-07                                                                  | [ブンデスリーガ2部](https://ja.wikipedia.org/wiki/2._ブンデスリーガ_\(ドイツサッカー\) "wikilink") | '''7位                                    |
-| 2007-08                                                                  | ブンデスリーガ2部                                                                    | '''14位                                   |
-| 2008-09                                                                  | ブンデスリーガ2部                                                                    | '''11位                                   |
-| 2009-10                                                                  | ブンデスリーガ2部                                                                    | '''3位                                    |
-| 2010-11                                                                  | ブンデスリーガ2部                                                                    | '''2位                                    |
-| [2011-12](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2011-2012 "wikilink") | [ブンデスリーガ1部](../Page/サッカー・ブンデスリーガ_\(ドイツ\).md "wikilink")                      | '''14位                                   |
-| [2012-13](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2012-2013 "wikilink") | ブンデスリーガ1部                                                                    | '''15位                                   |
-| [2013-14](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2013-2014 "wikilink") | ブンデスリーガ1部                                                                    | '''8位                                    |
-| [2014-15](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2014-2015 "wikilink") | ブンデスリーガ1部                                                                    | '''5位                                    |
-| [2015-16](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2015-2016 "wikilink") | ブンデスリーガ1部                                                                    | '''12位                                   |
-| [2016-17](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2016-2017 "wikilink") | ブンデスリーガ1部                                                                    | '''13位                                   |
-| [2017-18](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2017-2018 "wikilink") | ブンデスリーガ1部                                                                    | '''12位                                   |
-| [2018-19](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2018-2019 "wikilink") | ブンデスリーガ1部                                                                    | '''15位                                   |
-| [2019-20](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2019-2020 "wikilink") | ブンデスリーガ1部                                                                    | '''位 '''                                 |
+| リーグ                                                                      | 試                                                                            | 勝                                        |
+| 2002-03                                                                  | [レギオナルリーガ南部](../Page/レギオナルリーガ_\(ドイツサッカー\).md "wikilink")                     | 36                                       |
+| 2003-04                                                                  | レギオナルリーガ南部                                                                   | 34                                       |
+| 2004-05                                                                  | レギオナルリーガ南部                                                                   | 34                                       |
+| 2005-06                                                                  | レギオナルリーガ南部                                                                   | 36                                       |
+| 2006-07                                                                  | [ブンデスリーガ2部](https://ja.wikipedia.org/wiki/2._ブンデスリーガ_\(ドイツサッカー\) "wikilink") | 34                                       |
+| 2007-08                                                                  | ブンデスリーガ2部                                                                    | 34                                       |
+| 2008-09                                                                  | ブンデスリーガ2部                                                                    | 34                                       |
+| 2009-10                                                                  | ブンデスリーガ2部                                                                    | 34                                       |
+| 2010-11                                                                  | ブンデスリーガ2部                                                                    | 34                                       |
+| [2011-12](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2011-2012 "wikilink") | [ブンデスリーガ1部](../Page/サッカー・ブンデスリーガ_\(ドイツ\).md "wikilink")                      | 34                                       |
+| [2012-13](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2012-2013 "wikilink") | ブンデスリーガ1部                                                                    | 34                                       |
+| [2013-14](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2013-2014 "wikilink") | ブンデスリーガ1部                                                                    | 34                                       |
+| [2014-15](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2014-2015 "wikilink") | ブンデスリーガ1部                                                                    | 34                                       |
+| [2015-16](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2015-2016 "wikilink") | ブンデスリーガ1部                                                                    | 34                                       |
+| [2016-17](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2016-2017 "wikilink") | ブンデスリーガ1部                                                                    | 34                                       |
+| [2017-18](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2017-2018 "wikilink") | ブンデスリーガ1部                                                                    | 34                                       |
+| [2018-19](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2018-2019 "wikilink") | ブンデスリーガ1部                                                                    | 34                                       |
+| [2019-20](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2019-2020 "wikilink") | ブンデスリーガ1部                                                                    | 34                                       |
+| [2020-21](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2020-2021 "wikilink") | ブンデスリーガ1部                                                                    | 34                                       |
 
 ## 欧州の成績
 
@@ -109,7 +110,7 @@
 
 ## 現所属メンバー
 
-  - 2018-19シーズン 基本フォーメーション
+  - 2019-20シーズン 基本フォーメーション
 
 <div style="position: relative">
 
@@ -117,9 +118,9 @@
 
 </div>
 
-  - [2020年](../Page/2020年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink")現在
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Tunisia.svg "wikilink")) ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Dominican_Republic.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Nigeria.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))   ★  ★   ★       ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_United_States.svg "wikilink"))   ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
+([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Tunisia.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Dominican_Republic.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Nigeria.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))   ★  ★  ★       ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))   ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 
   - [監督](../Page/監督.md "wikilink")
 
@@ -135,7 +136,7 @@
 
   - out
 
-### 2019-20シーズン移籍
+### 2020-21シーズン移籍
 
 ## 歴代監督
 
@@ -163,7 +164,7 @@
 
   - [マルヴィン・ヒッツ](https://ja.wikipedia.org/wiki/マルヴィン・ヒッツ "wikilink") 2013-
 
-  - [アンドレアス・ルーテ](https://ja.wikipedia.org/wiki/アンドレアス・ルーテ "wikilink") 2016-
+  - [アンドレアス・ルーテ](https://ja.wikipedia.org/wiki/アンドレアス・ルーテ "wikilink") 2016-2020
 
 ### DF
 

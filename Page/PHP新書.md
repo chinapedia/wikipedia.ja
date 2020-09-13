@@ -1,7 +1,7 @@
 > この記事は[PHP新書](https://ja.wikipedia.org/wiki/PHP新書)から翻訳されています。
 
 
-**PHP新書**（ピーエイチピーしんしょ、PHP SHINSHO）は、[PHP研究所](../Page/PHP研究所.md "wikilink")から刊行されている[新書](../Page/新書.md "wikilink")レーベル。同社創設50年を迎えた[1996年](../Page/1996年.md "wikilink")に創刊された。[2013年](../Page/2013年.md "wikilink")12月、通巻900点を突破した。執筆者には同社発行の「[Voice](../Page/Voice_\(雑誌\).md "wikilink")」の常連執筆者と重なる人が多い。
+**PHP新書**（ピーエイチピーしんしょ、PHP SHINSHO）は、[PHP研究所](../Page/PHP研究所.md "wikilink")から刊行されている[新書](../Page/新書.md "wikilink")レーベル。同社創設50年を迎えた[1996年](../Page/1996年.md "wikilink")に創刊された。[2013年](../Page/2013年.md "wikilink")12月、通巻900点を突破した。執筆者には同社発行の「[Voice](../Page/Voice_\(雑誌\).md "wikilink")」の常連執筆者と重なる人が多い。最初は[谷沢永一](../Page/谷沢永一.md "wikilink")の「人間通になる読書術」\[1\]。
 
 ## ベストセラー
 
@@ -74,8 +74,20 @@
 
 ### わ行
 
+## 関連項目
+
+  - [PHPビジネス新書](https://ja.wikipedia.org/wiki/PHPビジネス新書 "wikilink")（2006年創刊）\[2\]
+  - [PHPサイエンス・ワールド新書](https://ja.wikipedia.org/wiki/PHPサイエンス・ワールド新書 "wikilink")
+
+## 脚注
+
+<references />
+
 ## 外部リンク
 
   - [PHP研究所](http://www.php.co.jp/)
 
 [Category:PHP研究所](https://ja.wikipedia.org/wiki/Category:PHP研究所 "wikilink") [Category:新書レーベル](https://ja.wikipedia.org/wiki/Category:新書レーベル "wikilink") [Category:PHP新書](https://ja.wikipedia.org/wiki/Category:PHP新書 "wikilink") [Category:1996年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:1996年刊行開始の刊行物 "wikilink")
+
+1.  [amazon.co.jp](https://www.amazon.co.jp/人間通になる読書術-PHP新書-谷沢-永一-ebook/dp/B00878I9WI)
+2.  [人事コンサルタントの読書・映画備忘録](http://hurec.bz/mt/archives/2006/08/post_850.html)

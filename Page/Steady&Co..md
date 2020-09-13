@@ -9,6 +9,8 @@
 
 その後、Dragon Ashが開催していたイベント「TMC」(Total Music Communication)で親交を深めたSHIGEOとILMARIを誘い新たに始動した。
 
+アルバムには[wyolica](https://ja.wikipedia.org/wiki/wyolica "wikilink")の[azumi](https://ja.wikipedia.org/wiki/azumi "wikilink")がゲストボーカルとして参加している。
+
 ## メンバー
 
   - [降谷建志](../Page/降谷建志.md "wikilink")（[Dragon Ash](../Page/Dragon_Ash.md "wikilink")）MC
@@ -22,6 +24,7 @@
 
 1.  **[Stay Gold](https://ja.wikipedia.org/wiki/Stay_Gold_\(Steady&Co.の曲\) "wikilink")**（[2001年](../Page/2001年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink")）
 2.  **[春夏秋冬](https://ja.wikipedia.org/wiki/春夏秋冬_\(Steady&Co.の曲\) "wikilink")**（2001年[10月24日](../Page/10月24日.md "wikilink")）
+3.  **[Only Holy Story feat.azumi(wyolica)](https://ja.wikipedia.org/wiki/Only_Holy_Story_feat.azumi\(wyolica\)_\(Steady&Co.の曲\) "wikilink")**
 
 ### アルバム
 

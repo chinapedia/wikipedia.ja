@@ -1,7 +1,7 @@
 > この記事は[フラムFC](https://ja.wikipedia.org/wiki/フラムFC)から翻訳されています。
 
 
-**フラム・フットボール・クラブ**（*Fulham Football Club*, <small>[イギリス英語](../Page/イギリス英語.md "wikilink")発音</small>： ）は、[イングランド](../Page/イングランド.md "wikilink")の首都[ロンドン](../Page/ロンドン.md "wikilink")西部・[フラム](https://ja.wikipedia.org/wiki/フラム "wikilink")地区をホームタウンとする、イングランドプロサッカーリーグ（[フットボールリーグ・チャンピオンシップ](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")）に加盟するプロサッカークラブ。クラブカラーは[白](../Page/白.md "wikilink")。
+**フラム・フットボール・クラブ**（*Fulham Football Club*, <small>[イギリス英語](../Page/イギリス英語.md "wikilink")発音</small>： ）は、[イングランド](../Page/イングランド.md "wikilink")の首都[ロンドン](../Page/ロンドン.md "wikilink")西部・[フラム](https://ja.wikipedia.org/wiki/フラム "wikilink")地区をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。クラブカラーは[白](../Page/白.md "wikilink")。
 
 日本ではしばしば「フルハム」、「フルアム」と紹介されることが多いが、ここでは「フラム」で統一する。
 
@@ -27,11 +27,11 @@
 
 2013年7月に[NFL](../Page/NFL.md "wikilink")・[ジャクソンビル・ジャガーズ](../Page/ジャクソンビル・ジャガーズ.md "wikilink")のオーナーである[シャイド・カーン](https://ja.wikipedia.org/wiki/シャイド・カーン "wikilink")がフラムを買収。なおジャガーズは2013年シーズンから4年間ロンドンでホームゲームを行うことが決定しており、オーナーは買収と関連した動きであることを示唆している\[1\]。
 
-2013-14シーズンは開幕13試合で勝ち点10しか獲得できず、\[2\]2013年12月1日、マルティン・ヨル監督を解任し、[レネ・ミューレンスティーン](https://ja.wikipedia.org/wiki/レネ・ミューレンスティーン "wikilink")が就任したが、\[3\]\[4\]チームの調子は上向かず、シーズン3人目の監督として[フェリックス・マガト](../Page/フェリックス・マガト.md "wikilink")が就任した。\[5\]2014年5月3日にアウェーでのストーク戦に1-4で敗れ、最終的に19位となり、2000-01シーズン以来のチャンピオンシップへの降格が決まった。
+2013-14シーズンは開幕13試合で勝ち点10しか獲得できず、\[2\]、2013年12月1日、マルティン・ヨル監督を解任し、[レネ・ミューレンステーン](https://ja.wikipedia.org/wiki/レネ・ミューレンステーン "wikilink")が就任したが\[3\]\[4\]、チームの調子は上向かず、シーズン3人目の監督として[フェリックス・マガト](../Page/フェリックス・マガト.md "wikilink")が就任した\[5\]。2014年5月3日にアウェーでのストーク戦に1-4で敗れ、最終的に19位となり、2000-01シーズン以来のチャンピオンシップへの降格が決まった。
 
-2014-15シーズンは開幕7試合で勝ち点1しか獲得できず、2014年9月、マガト監督を解任し、[キット・サイモンズ](https://ja.wikipedia.org/wiki/キット・サイモンズ "wikilink")が就任した。\[6\]最終的に17位となり、2季連続降格の危機を免れた。
+2014-15シーズンは開幕7試合で勝ち点1しか獲得できず、2014年9月、マガト監督を解任し、[キット・サイモンズ](https://ja.wikipedia.org/wiki/キット・サイモンズ "wikilink")が就任した\[6\]。最終的に17位となり、2季連続降格の危機を免れた。
 
-2015-16シーズンは2015年11月7日にホームで[バーミンガム・シティに](../Page/バーミンガム・シティFC.md "wikilink")2-5で敗れ、\[7\]12位となった時点でキット・サイモンズ監督を解任し、\[8\]\[9\]12月27日にセルビア人の[スラヴィシャ・ヨカノヴィッチ](https://ja.wikipedia.org/wiki/スラヴィシャ・ヨカノヴィッチ "wikilink")が就任した。\[10\]しかし、昨シーズンより成績を下げて降格圏と勝ち点11差の20位で終えた。
+2015-16シーズンは2015年11月7日にホームで[バーミンガム・シティに](../Page/バーミンガム・シティFC.md "wikilink")2-5で敗れ\[7\]、12位となった時点でキット・サイモンズ監督を解任し、\[8\]\[9\]12月27日にセルビア人の[スラヴィシャ・ヨカノヴィッチ](https://ja.wikipedia.org/wiki/スラヴィシャ・ヨカノヴィッチ "wikilink")が就任した。\[10\]しかし、昨シーズンより成績を下げて降格圏と勝ち点11差の20位で終えた。
 
 ## スタジアム
 
@@ -81,7 +81,8 @@
 | [2016-17](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2016-2017 "wikilink") | チャンピオンシップ                                                                 | 46                                                                             | 22                                                              | 14                                                           | 10    |
 | [2017-18](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2017-2018 "wikilink") | チャンピオンシップ                                                                 | 46                                                                             | 25                                                              | 13                                                           | 8     |
 | [2018-19](https://ja.wikipedia.org/wiki/プレミアリーグ2018-2019 "wikilink")             | プレミアリーグ                                                                   | 38                                                                             | 7                                                               | 5                                                            | 26    |
-| [2019-20](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2019-2020 "wikilink") | チャンピオンシップ                                                                 | 46                                                                             |                                                                 |                                                              |       |
+| [2019-20](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2019-2020 "wikilink") | チャンピオンシップ                                                                 | 46                                                                             | 23                                                              | 12                                                           | 11    |
+| [2020-21](https://ja.wikipedia.org/wiki/プレミアリーグ2020-2021 "wikilink")             | プレミアリーグ                                                                   |                                                                                |                                                                 |                                                              |       |
 
 ## 記録
 
@@ -364,7 +365,7 @@
 
 </div>
 
-\[11\]     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))  ★  ★    ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))
+\[11\]     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))  ★  ★    ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Angola.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Benin.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Mauritania.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))
 
 ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 
@@ -569,7 +570,7 @@
 <td><p>2011.6 - 2013.12</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/レネ・メウレンステーン" title="wikilink">レネ・メウレンステーン</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/レネ・ミューレンステーン" title="wikilink">レネ・ミューレンステーン</a></p></td>
 <td></td>
 <td><p>2013.12 - 2014.2</p></td>
 </tr>

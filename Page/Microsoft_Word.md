@@ -1,7 +1,7 @@
 > この記事は[Microsoft Word](https://ja.wikipedia.org/wiki/Microsoft_Word)から翻訳されています。
 
 
-**Microsoft Word**（マイクロソフト・ワード）は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Android](../Page/Android.md "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")及び[iOS向けに販売している文書作成ソフトウェア](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")。
+**Microsoft Word**（マイクロソフト・ワード）は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")及び[iOS向けに販売している文書作成ソフトウェア](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")。
 
 [Microsoft Excelとともに](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")、同社の[オフィススイート](../Page/オフィススイート.md "wikilink")、[Microsoft Officeの中核をなす](../Page/Microsoft_Office.md "wikilink")[アプリケーションである](../Page/アプリケーションソフトウェア.md "wikilink")。一般的には**ワード**（*Word*または*MS-Word*とも）と呼ばれることが多いが、「ワード」と名称が付く商品名や商標名は他にもある。
 
@@ -23,7 +23,7 @@
 
 マイクロソフトは1991年にMicrosoft Wordを一から書き直すプロジェクト(コードネーム・ピラミッド)を立ち上げた。これによりMac版とWindows版のソースコードが共通化される予定だった。しかしながら再開発には多くの時間がかかるほか、今後どんどん追加される機能も追わなければならず、このプロジェクトは結局中止になった。その代わりWindows版とMac版のバージョン6.0はWindows版の2.0をベースとする形でコードの共有化が図られることになった。\[32\]
 
-マイクロソフトは1993年にWord 6.0を発売するときに再び各プラットフォームのバージョンナンバーを合わせ、DOS版、Mac版、Windows版がその対象となった。このDOS版6.0はDOS版の最終バージョンとなった。このバージョンではタイプミスを自動的に修復するAutoCorrect機能と、ドキュメントのフォーマットを一度に直せるAutoFormat機能が追加された。Windows版は米国のコンピューター誌(*InfoWorld*など\[33\])で高い評価を得たが、Mac版は評判が悪かった。遅くてダサくてメモリ消費量が多いと言われ、Word 5.1と操作性が大きく変わってしまったと批判された\[34\]。ユーザーからの要望を受け、マイクロソフトは既にサポートを終了したことになっていたWord 5のバージョンアップ版をリリースした\[35\]。これ以降マイクロソフトはWindows版との完全なコード共有をあきらめ、Windowsからのコード移植とMacネイティブのコードを混ぜて実装するようになった。
+マイクロソフトは1993年にWord 6.0を発売するときに再び各プラットフォームのバージョンナンバーを合わせ、DOS版、Mac版、Windows版がその対象となった。このDOS版6.0はDOS版の最終バージョンとなった。このバージョンではタイプミスを自動的に修復するAutoCorrect機能と、ドキュメントのフォーマットを一度に直せるAutoFormat機能が追加された。Windows版は米国のコンピューター誌(*InfoWorld*など\[33\])で高い評価を得たが、Mac版は評判が悪かった。遅く不安定でありメモリ消費量が多いと言われ、Word 5.1と操作性が大きく変わってしまったと批判された\[34\]。ユーザーからの要望を受け、マイクロソフトは既にサポートを終了したことになっていたWord 5のバージョンアップ版をリリースした\[35\]。これ以降マイクロソフトはWindows版との完全なコード共有をあきらめ、Windowsからのコード移植とMacネイティブのコードを混ぜて実装するようになった。
 
 ### Windows版
 
@@ -95,10 +95,6 @@ Word 2007以降の文書ファイルの標準フォーマットには[Office Ope
 なお、Wordは元々が英文用の文書作成機能に特化した製品であり、その目的から外れる機能については競合製品に劣る点が多いが、[Microsoft Officeには](../Page/Microsoft_Office.md "wikilink")[Excel](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")（表・グラフ）、[Visio](../Page/Microsoft_Visio.md "wikilink")（[ベクターグラフィックス](https://ja.wikipedia.org/wiki/ベクターグラフィックス "wikilink")）、[PowerPoint](../Page/Microsoft_PowerPoint.md "wikilink")（プレゼンテーション）、[Publisher](../Page/Microsoft_Publisher.md "wikilink")（ページレイアウト）といった、Wordでは不足する機能を補完するツールがそろっており、また[OLEを利用した相互連携機能も用意されているため](../Page/Object_Linking_and_Embedding.md "wikilink")、これらを併用したほうが効率的に仕事ができる場合が多い。
 
 その一方で、オートコレクト機能を利用して一般的な定型文書制作時に行われる挨拶文や起承転結部分のテンプレートを呼び出して入力を簡略化するツール等も追加されている。
-
-## 容量制限
-
-Microsoft Wordのページ数の限界は32768ページであり、これ以上増やそうとするとフリーズしてしまう。
 
 ## 数式エディタ
 
@@ -249,7 +245,7 @@ Windows版のみであるが閲覧用の単独アプリケーションとして*
 ## 外部リンク
 
   - [Microsoft Word](https://www.microsoft.com/ja-jp/microsoft-365/word)
-  - [Word のヘルプとラーニング - Office サポート](https://support.office.com/ja-jp/word)
+  - [Word のヘルプとラーニング - Microsoft サポート](https://support.microsoft.com/ja-jp/word)
 
 [Category:Microsoft_Office](https://ja.wikipedia.org/wiki/Category:Microsoft_Office "wikilink") [Category:文書作成ソフト](https://ja.wikipedia.org/wiki/Category:文書作成ソフト "wikilink") [Category:MacOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:MacOSのソフトウェア "wikilink") [Category:1983年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1983年のソフトウェア "wikilink")
 

@@ -54,7 +54,7 @@
 
   - [鉛筆](../Page/鉛筆.md "wikilink")の濃さを表す記号。
   - [重変ロ](https://ja.wikipedia.org/wiki/重変ロ "wikilink")の[ドイツ語](../Page/ドイツ語.md "wikilink")での[音名](https://ja.wikipedia.org/wiki/音名 "wikilink")。「ベーベー」もしくは「ドッペル・ベー」と読む。
-  - [ABO式血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")の[遺伝子型](../Page/遺伝子型.md "wikilink")の1つ。
+  - [ABO式血液型](../Page/ABO式血液型.md "wikilink")の[遺伝子型](../Page/遺伝子型.md "wikilink")の1つ。
 
 ## コード・形式名
 

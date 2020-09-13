@@ -61,7 +61,7 @@
 
 当初は、最近のヒットチャートにとらわれないミュージシャンを中心に採り上げてきたが、『僕らの音楽2』からはヒットチャートを賑わす人間が採り上げられることも多い。なお、番組はソニー提供時代からSME系の[レコードレーベル](../Page/レコードレーベル.md "wikilink")に所属するミュージシャンだけでなく、他社のミュージシャンもよく登場している。
 
-2007年4月から2013年3月まではキリングループがスポンサーになっていたため、同業他社の酒類・ソフトドリンクのCMに出演しているアーティストは原則としてない。逆に[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月11日](../Page/6月11日.md "wikilink")放送分では[サントリー](../Page/サントリー.md "wikilink")「[モルツ](../Page/モルツ.md "wikilink")」のCMに出演している[矢沢永吉](../Page/矢沢永吉.md "wikilink")がゲストだったこともあり、この日に限り番組内のCMだけでなく通常後続の『[ニュースJAPAN](https://ja.wikipedia.org/wiki/ニュースJAPAN "wikilink")』前に放送される30秒の[ヒッチハイクも含めて](https://ja.wikipedia.org/wiki/ヒッチハイク_\(放送\) "wikilink")[ACジャパン](../Page/ACジャパン.md "wikilink")の公共広告に差し替えられた（オープニング・エンディングの提供クレジットは通常通り読まれた）\[9\]。
+2007年4月から2013年3月まではキリングループがスポンサーになっていたため、同業他社の酒類・ソフトドリンクのCMに出演しているアーティストは原則としてない。逆に[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月11日](../Page/6月11日.md "wikilink")放送分では[サントリー](../Page/サントリー.md "wikilink")「[モルツ](../Page/モルツ.md "wikilink")」のCMに出演している[矢沢永吉](../Page/矢沢永吉.md "wikilink")\[9\]がゲストだったこともあり、この日に限り番組内のCMだけでなく通常後続の『[ニュースJAPAN](https://ja.wikipedia.org/wiki/ニュースJAPAN "wikilink")』前に放送される30秒の[カウキャッチャーも含めて](../Page/カウキャッチャー_\(放送\).md "wikilink")[ACジャパン](../Page/ACジャパン.md "wikilink")の公共広告に差し替えられた（オープニング・エンディングの提供クレジットは通常通り読まれた）\[10\]。
 
 なお、[2012年](../Page/2012年.md "wikilink")度の場合、[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")の選抜メンバーの多くが[アサヒ飲料](../Page/アサヒ飲料.md "wikilink")の缶コーヒー・ワンダに起用されているが、[6月8日](../Page/6月8日.md "wikilink")放送回では[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")の[松井珠理奈](https://ja.wikipedia.org/wiki/松井珠理奈 "wikilink")が、[9月28日](../Page/9月28日.md "wikilink")放送回ではプロデューサーで[作詞家](../Page/作詞家.md "wikilink")の[秋元康](../Page/秋元康.md "wikilink")（対談ゲストは[谷村新司](../Page/谷村新司.md "wikilink")）が出演した。AKBファミリーの直接出演は無かったが、秋元・SKE48同様、アサヒグループなど、キリングループ以外の同業他社とのCM契約がないために出演できたと見られる。
 
@@ -69,17 +69,17 @@
 
 ## スタッフ
 
-<div class="NavFrame" style="border:0">
+<div class="NavFrame" style="clear: both; border:0;">
 
-<div class="NavHead">
+<div class="NavHead" style="text-align: left;">
 
-僕らの音楽（地上波版）
+僕らの音楽 Our Music→僕らの音楽（地上波版）
 
 </div>
 
-<div class="NavContent" style="text-align:left">
+<div class="NavContent" style="text-align: left;">
 
-  - ナレーション：[窪田等](../Page/窪田等.md "wikilink")（第1期）、[草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")（[SMAP](../Page/SMAP.md "wikilink")、第2期以降）
+  - ナレーション：[窪田等](../Page/窪田等.md "wikilink")（第1期）、[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")（[SMAP](../Page/SMAP.md "wikilink")、第2期以降）
       - 『僕らの音楽2』はBSフジのみフジテレビアナウンサーの[川端健嗣](../Page/川端健嗣.md "wikilink")がナレーションを務めていた。
   - 司会（生放送や特別番組、クロストーク放送時に際して）：草彅剛
   - 進行（同上）：[高島彩](../Page/高島彩.md "wikilink")、高島ののちに[加藤綾子](https://ja.wikipedia.org/wiki/加藤綾子 "wikilink")
@@ -90,7 +90,7 @@
   - 照明デザイン：朝倉康之
   - PA：松田勝治
   - VE：大西幸二（フジテレビ）
-  - AUD：中村峰子
+  - AUD：中村峰子（フジテレビ）
   - 編集：財城敬
   - MA：木村亮允
   - タイムキーパー：槇加奈子
@@ -160,47 +160,47 @@
 
 </div>
 
-<div class="NavFrame" style="border:0">
+<div class="NavFrame" style="clear: both; border:0;">
 
-<div class="NavHead">
+<div class="NavHead" style="text-align: left;">
 
 僕らの音楽（CS版）
 
 </div>
 
-<div class="NavContent" style="text-align:left">
+<div class="NavContent" style="text-align: left;">
 
-  - 2019年1月現在
+  - 2020年8月現在
 
 <!-- end list -->
 
   - 音楽監督：武部聡志
-  - TD／CAM：上田容一郎（フジテレビ）
-  - SW：西川明音（フジテレビ）、中島佑馬
-  - 照明：松田和樹（フジテレビ）
-  - PA：松田勝治
+  - TD／CAM：中野誠也（フジテレビ）
+  - SW：西川明音・中島佑馬（フジテレビ）
+  - 照明：大野遙平（フジテレビ）、朝倉康之
+  - PA：本田一智
+  - AUD：唐渡健夫（フジテレビ）、斎藤由佳
   - VE：杉本雄亮（フジテレビ）
-  - AUD：唐渡健夫（フジテレビ）
-  - 編集：木村雅史
-  - MA：木村亮允
-  - 音響効果：中田圭三、野呂楓子
+  - 編集：酒井麻衣
+  - MA：長田浩幸
+  - 音響効果：中田圭三
   - セットデザイン：YUKIE WICKSON（越野幸栄）
   - 美術プロデューサー：楫野淳司
   - アートコーディネーター：鈴木真吾
   - 大道具：木村邦春
   - 電飾：斉藤誠二
   - アクリル装飾：永山淳
-  - メイク：久保田裕子
+  - メイク：薩广綾子
   - 楽器：島津哲也
   - WEB MASTER：鬼熊陽一郎
-  - 広報：加藤麻衣子、石田卓子、野口三和子、吉田奈央（以上フジテレビ）
-  - 編成：永竹里早、影矢隼壮（以上フジテレビ）
-  - 協力：ハーフトーンミュージック、IMAGICA、4-Legs、fmt、共同テレビジョン、サンフォニックス、田中電設、[フジアール](../Page/フジアール.md "wikilink")、インターナショナルクリエイティブ
+  - 広報：加藤麻衣子、野口三和子（以上フジテレビ）
+  - 編成：影矢隼壮（フジテレビ）
+  - 協力：ハーフトーンミュージック、[fmt](https://ja.wikipedia.org/wiki/フジ・メディア・テクノロジー "wikilink")、[共同テレビジョン](../Page/共同テレビジョン.md "wikilink")、サンフォニックス、[IMAGICA Lab.](../Page/IMAGICA_Lab..md "wikilink")、BANZAI、[4-Legs](../Page/4-Legs.md "wikilink")、田中電設、[フジアール](../Page/フジアール.md "wikilink")、インターナショナルクリエイティブ
   - 制作協力：クリーク・アンド・リバー社
-  - プロデューサー：福井倫子（クリーク・アンド・リバー社）
-  - プログラムディレクター：大野悟（クリーク・アンド・リバー社）
+  - プロデューサー／プログラムディレクター：福井倫子（クリーク・アンド・リバー社）
+  - ディレクター／プログラムディレクター：大野悟（クリーク・アンド・リバー社）
   - 構成／演出：きくちP（フジテレビ）
-  - 制作：フジテレビNEXT音組
+  - 制作：フジテレビ総合開発局メディア開発センターペイTV事業部／フジテレビNEXT音組
   - 制作著作：フジテレビ
 
 <!-- end list -->
@@ -209,9 +209,125 @@
 
 <!-- end list -->
 
+  - TD／CAM：上田容一郎（フジテレビ）
   - SW：先崎聡
-  - PA：本田一智
+  - 照明：松田和樹（フジテレビ）、森崎靖史
+  - PA：松田勝治
   - AUD：鹿又健一（フジテレビ）
+  - 編集：木村雅史
+  - MA：木村亮允
+  - 音響効果：野呂楓子
+  - メイク：久保田裕子
+  - 広報：石田卓子、吉田奈央（以上フジテレビ）
+  - 編成：永竹里早（フジテレビ）
+
+</div>
+
+</div>
+
+<div class="NavFrame" style="clear: both; border:0;">
+
+<div class="NavHead" style="text-align: left;">
+
+僕らの音楽〜羽ばたく君へ〜（2015年4月10日放送）
+
+</div>
+
+<div class="NavContent" style="text-align: left;">
+
+  - 作家：山内浩嗣
+  - 音楽監督：武部聡志
+  - TD／CAM：米山和孝（フジテレビ）
+  - SW：障子川雅則
+  - 照明デザイン：朝倉康之
+  - PA：松田勝治
+  - VE：大西幸二（フジテレビ）
+  - AUD：中村峰子（フジテレビ）
+  - 編集：粟嶋隆昌、坂本貴志
+  - MA：木村亮允
+  - タイムキーパー：髙木美紀
+  - 音響効果：坂本洋子
+  - 美術プロデューサー：三竹寛典（フジテレビ）
+  - セットデザイン：邨山直也（フジテレビ）
+  - 大道具：永富育浩
+  - 美術進行：鈴木真吾
+  - アクリル装飾：永山淳
+  - 電飾：斉藤誠二
+  - 植木装飾：後藤健
+  - 生花装飾：小柳幸絵
+  - 装飾：佐藤翔平
+  - 視覚効果：倉谷美奈絵
+  - オープニングCG：古畑資展
+  - 楽器：島津哲也
+  - CG：渡辺之雄
+  - メイク：水落万里子
+  - 編成：清水麻利子（フジテレビ）
+  - 広報：小中ももこ、福崎康裕（以上フジテレビ）
+  - 進行協力：矢野哲慈、森本涼（以上フジテレビ）
+  - 協力：ハーフトーンミュージック、fmt、共同テレビジョン、サンフォニックス、田中電設、SiS、[明光セレクト](https://ja.wikipedia.org/wiki/明光セレクト "wikilink")
+  - 監修：[石田弘](../Page/石田弘.md "wikilink")（フジテレビ）
+  - 協力プロデューサー：板谷栄司（フジテレビ）
+  - FD：大野和幸、益田洋平
+  - AP：後藤夏美、小関悠介（フジテレビ）
+  - ディレクター：小林正彦（フジテレビ）
+  - プロデューサー：土田芳美（[ビジュアルコミュニケーションズ](../Page/ビジュアルコミュニケーションズ.md "wikilink")）、宇賀神裕子（イースト・エンタテインメント）、河本晃典（フジテレビ）
+  - 演出：松永健太郎（アズバーズ）
+  - チーフプロデューサー：黒木彰一（フジテレビ）
+  - 制作：[港浩一](../Page/港浩一.md "wikilink")（フジテレビ）
+  - 制作著作：フジテレビ
+
+</div>
+
+</div>
+
+<div class="NavFrame" style="clear: both; border:0;">
+
+<div class="NavHead" style="text-align: left;">
+
+僕らの音楽〜ぼくらのビートルズ（2015年10月9日放送）
+
+</div>
+
+<div class="NavContent" style="text-align: left;">
+
+  - 作家：山内浩嗣
+  - ブレーン：住田ひろ志、冨田哲朗（フジテレビ）、喜多あおい、松永良平、大野ケイスケ、[長谷川優](https://ja.wikipedia.org/wiki/長谷川優 "wikilink")
+  - 広報：小中ももこ、福崎康裕（以上フジテレビ）
+  - OPCG：古畑資展
+  - CG：渡辺之雄
+  - TD／CAM：米山和孝（フジテレビ）
+  - SW：障子川雅則
+  - VE：大西幸二（フジテレビ）
+  - CAM：小川経一、横山大輔、上田容一郎（フジテレビ）、京田航、片野裕史
+  - 照明：植松晃一（フジテレビ）、宗像徹馬
+  - AUD：中村峰子（フジテレビ）
+  - PA：赤星裕子
+  - 美術プロデューサー：三竹寛典
+  - セットデザイン：越野幸栄
+  - 美術進行：鈴木真吾
+  - 大道具：永富育浩
+  - アクリル装飾：永山淳
+  - 電飾：今井歩
+  - 装飾：川合将吾
+  - 視覚効果：倉谷美奈絵
+  - 編集：坂本貴志、小山航平
+  - MA：高橋誠一郎
+  - 音響効果：松長芳樹
+  - TK：髙木美紀
+  - 楽器：島津哲也
+  - メイク：土井彩奈、荒川英亮
+  - スタイリスト：栗田泰臣
+  - 協力：fmt、共同テレビジョン、サンフォニックス、放映サービス、明光セレクト、Kurosawa Film Studio
+  - Tracks Japan：[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、野口由香、垣阪晋
+  - Special Thanks：Jonathan Clyde
+  - 協力P：板谷栄司、[春名剛生](https://ja.wikipedia.org/wiki/春名剛生 "wikilink")、[上野貴央](https://ja.wikipedia.org/wiki/上野貴央 "wikilink")
+  - AD：岩田浩介、新垣拓也
+  - 制作プロデューサー：後藤夏美
+  - ディレクター：井上融（アズバーズ）
+  - プロデューサー：宇賀神裕子（イースト・エンタテインメント）、河本晃典（フジテレビ）
+  - 演出：松永健太郎（アズバーズ）
+  - チーフプロデューサー：黒木彰一（フジテレビ）
+  - 制作著作：フジテレビ
 
 </div>
 
@@ -236,7 +352,7 @@
 | [秋田県](../Page/秋田県.md "wikilink")                                                     | [秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")（AKT）          |                                                         |                  |         |
 | [山形県](../Page/山形県.md "wikilink")                                                     | [さくらんぼテレビ](../Page/さくらんぼテレビジョン.md "wikilink")（SAY）                    |                                                         |                  |         |
 | [福島県](../Page/福島県.md "wikilink")                                                     | [福島テレビ](../Page/福島テレビ.md "wikilink")（FTV）                             |                                                         |                  |         |
-| [新潟県](../Page/新潟県.md "wikilink")                                                     | [新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")（NST）      |                                                         |                  |         |
+| [新潟県](../Page/新潟県.md "wikilink")                                                     | [新潟総合テレビ](../Page/NST新潟総合テレビ.md "wikilink")（NST）                      |                                                         |                  |         |
 | [長野県](../Page/長野県.md "wikilink")                                                     | [長野放送](../Page/長野放送.md "wikilink")（NBS）                               |                                                         |                  |         |
 | [静岡県](../Page/静岡県.md "wikilink")                                                     | [テレビ静岡](../Page/テレビ静岡.md "wikilink")（SUT）                             |                                                         |                  |         |
 | [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")                                  | [富山テレビ](../Page/富山テレビ放送.md "wikilink")（BBT）                           |                                                         |                  |         |
@@ -285,4 +401,5 @@
 6.  [フジテレビ『僕らの音楽』でザ・ビートルズ特集](http://www.barks.jp/news/?id=1000120347)、[BARKS](https://ja.wikipedia.org/wiki/BARKS "wikilink")、2015年10月5日、2015年10月10日閲覧
 7.  [ビートルズの映像世界初公開 『僕らの音楽』スペシャルで放送](http://www.oricon.co.jp/news/2060316/full/)、ORICON STYLE 2015年10月6日、2015年10月10日閲覧
 8.  [森高&渡部の新音楽番組『Love music』10・16スタート](http://www.oricon.co.jp/news/2060131/full/)、ORICON STYLE 2015年10月2日、2015年10月10日閲覧
-9.  [2011年](../Page/2011年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")放送分は[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の影響からキリングループがスポンサー自粛となったため、ACジャパンに差し替えるという措置もしていた。
+9.  なお、矢沢はかつて当番組の一社提供であったソニーのイメージキャラクターを務めていたことがある。
+10. [2011年](../Page/2011年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")放送分は[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の影響からキリングループがスポンサー自粛となったため、ACジャパンに差し替えるという措置もしていた。

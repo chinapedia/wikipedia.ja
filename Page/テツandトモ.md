@@ -12,7 +12,7 @@
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Tetsuandtomo-shimbashi-sept2018-tetsu.JPG "wikilink")
 
   - 本名、**中本 哲也**（なかもと てつや、 - ）
-  - [滋賀県](../Page/滋賀県.md "wikilink")[大津市](../Page/大津市.md "wikilink")（旧[滋賀郡](../Page/滋賀郡.md "wikilink")[志賀町](../Page/志賀町_\(滋賀県\).md "wikilink")）出身、[日本大学藝術学部](https://ja.wikipedia.org/wiki/日本大学藝術学部 "wikilink")演劇学科卒業。[血液型A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。主にボケ担当。赤いジャージを着て踊る。愛称は**テッちゃん**。
+  - [滋賀県](../Page/滋賀県.md "wikilink")[大津市](../Page/大津市.md "wikilink")（旧[滋賀郡](../Page/滋賀郡.md "wikilink")[志賀町](../Page/志賀町_\(滋賀県\).md "wikilink")）出身、[日本大学藝術学部](https://ja.wikipedia.org/wiki/日本大学藝術学部 "wikilink")演劇学科卒業。[血液型A型](../Page/ABO式血液型.md "wikilink")。主にボケ担当。赤いジャージを着て踊る。愛称は**テッちゃん**。
   - 大学進学の際、地元の[国立大学](../Page/国立大学.md "wikilink")である[滋賀大学](../Page/滋賀大学.md "wikilink")[教育学部](../Page/教育学部.md "wikilink")に合格していたが、演劇の道を志し、[日本大学藝術学部](https://ja.wikipedia.org/wiki/日本大学藝術学部 "wikilink")に進学した。
   - 20代は舞台役者として活動。[1991年](../Page/1991年.md "wikilink")、日本大学藝術学部在学生を中心に結成した「劇団BQMAP」の旗揚げに参加。旗揚げ公演はスタッフとしての参加だったが、徐々に看板役者としてメイン格の役を演じるようになり、後に声優となる[前田剛](../Page/前田剛.md "wikilink")、[竹内順子](../Page/竹内順子.md "wikilink")とも共演していた。トモとのコンビ結成でお笑いの道に進むため、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の公演を最後に脱退。
   - デビュー当時は出身高校の[石山高校のジャージを着ていた](../Page/滋賀県立石山高等学校.md "wikilink")。
@@ -23,14 +23,14 @@
   - 営業では椅子やギターなど、様々なものを顎の上に乗せてバランスを取る芸を披露している。
   - M-1グランプリ2002の決勝に出た際に、ダウンタウンの松本人志に「赤いジャージの子は友達としては100点」と絶賛された。
   - 母親は[日本舞踊](../Page/日本舞踊.md "wikilink")の[家元](../Page/家元.md "wikilink")で「あんたの動きは気持ち悪い」と言われた。
-  - [めちゃイケ](https://ja.wikipedia.org/wiki/めちゃイケ "wikilink")の[笑わず嫌い王決定戦](../Page/笑わず嫌い王決定戦.md "wikilink")に出演してから、[爆笑ヒットパレード](https://ja.wikipedia.org/wiki/爆笑ヒットパレード "wikilink")にてナインティナインの[岡村隆史](https://ja.wikipedia.org/wiki/岡村隆史 "wikilink")とコラボダンスをするのが恒例となっている。
+  - [めちゃイケ](https://ja.wikipedia.org/wiki/めちゃイケ "wikilink")の[笑わず嫌い王決定戦](../Page/笑わず嫌い王決定戦.md "wikilink")に出演してから、[初詣\!爆笑ヒットパレード](../Page/初詣!爆笑ヒットパレード.md "wikilink")にてナインティナインの[岡村隆史](https://ja.wikipedia.org/wiki/岡村隆史 "wikilink")とコラボダンスをするのが恒例となっている。
 
 ### トモ
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Tetsuandtomo-shimbashi-sept2018-tomo.JPG "wikilink")
 
   - 本名、**石澤 智幸**（いしざわ ともゆき、1970年[5月10日](../Page/5月10日.md "wikilink")（歳） - ）
-  - [山形県](../Page/山形県.md "wikilink")[山形市](../Page/山形市.md "wikilink")出身、[山形大学附属幼稚園](../Page/山形大学附属幼稚園.md "wikilink")卒園、[山形大学附属小学校](../Page/山形大学附属小学校.md "wikilink")卒業、[山形大学附属中学校](../Page/山形大学附属中学校.md "wikilink")卒業、[日本大学山形高等学校](../Page/日本大学山形高等学校.md "wikilink")\[1\]卒業、[日本大学藝術学部](https://ja.wikipedia.org/wiki/日本大学藝術学部 "wikilink")演劇学科卒業。血液型B型\[2\]。主にツッコミ担当。青いジャージを着て、本来はテツの持ち物であるギターを弾いている。ネタの作曲も行っている。
+  - [山形県](../Page/山形県.md "wikilink")[山形市](../Page/山形市.md "wikilink")出身、[山形大学附属幼稚園](../Page/山形大学附属幼稚園.md "wikilink")卒園、[山形大学附属小学校](../Page/山形大学附属小学校.md "wikilink")卒業、[山形大学附属中学校](../Page/山形大学附属中学校.md "wikilink")卒業、[日本大学山形高等学校](../Page/日本大学山形高等学校.md "wikilink")\[1\] 卒業、[日本大学藝術学部](https://ja.wikipedia.org/wiki/日本大学藝術学部 "wikilink")演劇学科卒業。血液型B型\[2\]。主にツッコミ担当。青いジャージを着て、本来はテツの持ち物であるギターを弾いている。ネタの作曲も行っている。
   - デビュー当初は、出身高校の[日本大学山形高等学校](../Page/日本大学山形高等学校.md "wikilink")のジャージを着ていたため、地元では英雄扱いだった。
   - 元[フジテレビアナウンサーの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[武田祐子](../Page/武田祐子.md "wikilink")は[幼稚園](../Page/幼稚園.md "wikilink")から[中学校](../Page/中学校.md "wikilink")までの同級生で、[演出家](../Page/演出家.md "wikilink")、[劇作家](../Page/劇作家.md "wikilink")、[俳優](../Page/俳優.md "wikilink")の[後藤ひろひと](../Page/後藤ひろひと.md "wikilink")は[小学校](../Page/小学校.md "wikilink")、[中学校](../Page/中学校.md "wikilink")の先輩。[俳優](../Page/俳優.md "wikilink")の[畠中洋](../Page/畠中洋.md "wikilink")は高校の先輩。
   - 結成前の[1991年](../Page/1991年.md "wikilink")ごろ、『[星期六我家的電視・三宅裕司の天下御免ね\!](../Page/星期六我家的電視・三宅裕司の天下御免ね!.md "wikilink")』内の素人パフォーマンスコーナー「岸谷五朗の日比谷公開堂」に、「チョビひげ次郎（トモ）」「モンキー・チャム」という2人組のグループ「モンチョビ2」としてしばしば登場していた。また、[1996年](../Page/1996年.md "wikilink")には『[NHKのど自慢](../Page/NHKのど自慢.md "wikilink")』の[東京都](../Page/東京都.md "wikilink")[中野区](https://ja.wikipedia.org/wiki/中野区 "wikilink")大会に出場し、チャンピオンになる。
@@ -75,7 +75,7 @@
 <!-- end list -->
 
   -
-    「○○が○○するのはなんでだろ〜♪」といった形式で普段は意識されにくい世の中の素朴な疑問を歌う。なお、現在出演しているNHK山形の「今夜はなまらナイト」では山形弁で「なすてだべ〜」に変わる。[番組ホームページ](http://www.nhk.or.jp/namara/)でその模様も収録した動画が公開されている。ありふれた日常の出来事が元となっていることから、[あるあるネタ](../Page/あるあるネタ.md "wikilink")の変形とも言える。嘉門達夫がアンサーソングとして疑問に答えるという曲を発表した。元々は本人たちも答えも一緒に歌っていた（例：トモ「テツの顎がこんなに長いのなんでだろう？」→テツ「遺伝だろう」など)が、「答えはあえて出さない方がおもしろいだろう」との考えで今の形となった）。
+    「○○が○○するのはなんでだろ〜♪」といった形式で普段は意識されにくい世の中の素朴な疑問を歌う。なお、現在出演しているNHK山形の「今夜はなまらナイト」では山形弁で「なすてだべ〜」に変わる。[番組ホームページ](http://www.nhk.or.jp/namara/) でその模様も収録した動画が公開されている。ありふれた日常の出来事が元となっていることから、[あるあるネタ](../Page/あるあるネタ.md "wikilink")の変形とも言える。嘉門達夫がアンサーソングとして疑問に答えるという曲を発表した。元々は本人たちも答えも一緒に歌っていた（例：トモ「テツの顎がこんなに長いのなんでだろう？」→テツ「遺伝だろう」など)が、「答えはあえて出さない方がおもしろいだろう」との考えで今の形となった）。
 
 <!-- end list -->
 
@@ -187,7 +187,7 @@
   - [おねぇさまのおせっかい代理店。 ファニーカンパニー\!](https://ja.wikipedia.org/wiki/おねぇさまのおせっかい代理店。_ファニーカンパニー! "wikilink")（[富山テレビ](../Page/富山テレビ放送.md "wikilink")）
   - バカヤロー\!1999 ニッポン人の怒り爆裂ストレス解消3連発（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）ストーリー内において、路上コントをするコンビとして登場。「なんでだろう〜」のネタを披露している。
   - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")（[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")）戦績20勝3敗 最高501KB ゴールドバトラー認定
-  - 番組放送2回目となる1999年4月4日放送回で初オンエア。以降も順調にオンエアを重ね、2003年7月11日放送回で20勝を達成。20回目のオンエアを果たすのは彼らが初となる。また、15回目のオンエアから20回目のオンエアまで彼らが最多勝利数を塗り替え続けている。\[3\]その後、紅白歌合戦に出場後の2004年2月20日放送回に出場し、その期待からオンエアは間違いないと思われたが、結果は345KBでオフエアだった。通常回ではこの回が最後の挑戦回となってしまい、番組を卒業する事となった。
+  - 番組放送2回目となる1999年4月4日放送回で初オンエア。以降も順調にオンエアを重ね、2003年7月11日放送回で20勝を達成。20回目のオンエアを果たすのは彼らが初となる。また、15回目のオンエアから20回目のオンエアまで彼らが最多勝利数を塗り替え続けている。\[3\] その後、紅白歌合戦に出場後の2004年2月20日放送回に出場し、その期待からオンエアは間違いないと思われたが、結果は345KBでオフエアだった。通常回ではこの回が最後の挑戦回となってしまい、番組を卒業する事となった。
   - 番組初期はネタの最後に顔芸を披露していたが、2000年7月30日放送回で初のオフエアを経験した事で顔芸を封印し、2001年3月11日放送の第3回チャンピオン大会のセミファイナルで久々に披露した。この回を最後に番組で顔芸を行わなくなった。
   - 下記の様に第1回から第5回まで5大会連続でチャンピオン大会に出場。第5回まで皆勤でチャンピオン大会に出場しているのは彼らのみである。\[4\]
       - 第1回チャンピオン大会 決勝2位
@@ -224,6 +224,7 @@
   - [すすめ\!キッチン戦隊クックルン](https://ja.wikipedia.org/wiki/すすめ!キッチン戦隊クックルン "wikilink")（NHK Eテレ、2015年1月6日、声の出演）
   - [おはスタ](../Page/おはスタ.md "wikilink")（テレビ東京、2015年1月30日）
   - [ニッポンど真ん中\!](../Page/ニッポンど真ん中!.md "wikilink")（[JNN中部](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")6局[ブロックネット](../Page/ブロックネット.md "wikilink")、2014年4月 - 2015年3月）
+  - [宝くじドカーンと8000万円スペシャル〜千葉版〜](https://ja.wikipedia.org/wiki/宝くじドカーンと8000万円スペシャル〜千葉版〜 "wikilink")（千葉テレビ、2017年8月31日）
   - [わらたまドッカ〜ン](https://ja.wikipedia.org/wiki/わらたまドッカ〜ン "wikilink")（NHK Eテレ、2017年9月4日、2018年1月8日）
   - [ワラッチャオ\!](https://ja.wikipedia.org/wiki/ワラッチャオ! "wikilink")（NHK BSプレミアム）あるある名人会
   - みんなの県民SONG！～大分うた旅情編～（2018年、[歌謡ポップスチャンネル](../Page/歌謡ポップスチャンネル.md "wikilink")）
@@ -735,7 +736,9 @@ VPBF-12260</p></td>
 
   - [デジタル放送推進協会 日本全国地デジで元気\!](http://www.dpa.or.jp/genki/)
 
-[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:地上デジタル放送推進大使](https://ja.wikipedia.org/wiki/Category:地上デジタル放送推進大使 "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink") [Category:2003年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に結成した音楽グループ "wikilink")
+## 脚注
+
+[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:2003年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に結成した音楽グループ "wikilink") [Category:日本の男性音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の男性音楽グループ "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:地上デジタル放送推進大使](https://ja.wikipedia.org/wiki/Category:地上デジタル放送推進大使 "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink")
 
 1.
 2.

@@ -23,7 +23,7 @@
 
 ### DESKPOWERシリーズの発展・多様化
 
-[Windows98が発売される頃までは](../Page/Microsoft_Windows_98.md "wikilink")、FMV-DESKPOWERとビジネス向けFMVとでハードウェアデザインは[筐体](../Page/筐体.md "wikilink")含めて共通化を行っていたが、[SONYの](../Page/ソニー.md "wikilink")[VAIO](../Page/VAIO.md "wikilink")シリーズによるPC/AT互換機市場への参戦等でユーザ嗜好の多様化や、PCのデザイン性が売上げへの重要なファクターとなり、次第にコンシューマ向けDESKPOWERは、独自の筐体・デザインとなりビジネス向けFMVと分離される。一方のビジネス向けのデスクトップPCブランドは「FMV-DESKTOP」といい、次第にコンパクト筐体がメインとなりながらも、他メーカーは既にやめてしまっているサービスコンセント付電源を採用し続けるなど、堅牢な企業向けPCとして現在もラインナップが展開されている。
+[Windows 98が発売される頃までは](../Page/Microsoft_Windows_98.md "wikilink")、FMV-DESKPOWERとビジネス向けFMVとでハードウェアデザインは[筐体](../Page/筐体.md "wikilink")含めて共通化を行っていたが、[SONYの](../Page/ソニー.md "wikilink")[VAIO](../Page/VAIO.md "wikilink")シリーズによるPC/AT互換機市場への参戦等でユーザ嗜好の多様化や、PCのデザイン性が売上げへの重要なファクターとなり、次第にコンシューマ向けDESKPOWERは、独自の筐体・デザインとなりビジネス向けFMVと分離される。一方のビジネス向けのデスクトップPCブランドは「FMV-DESKTOP」といい、次第にコンパクト筐体がメインとなりながらも、他メーカーは既にやめてしまっているサービスコンセント付電源を採用し続けるなど、堅牢な企業向けPCとして現在もラインナップが展開されている。
 
 販売形態としては、パソコン初心者向けを意識したために、[イメージキャラクター](https://ja.wikipedia.org/wiki/イメージキャラクター "wikilink")に[高倉健](../Page/高倉健.md "wikilink")や[木村拓哉](../Page/木村拓哉.md "wikilink")を起用したり、[ワープロソフト](../Page/ワードプロセッサ.md "wikilink")([Word](../Page/Microsoft_Word.md "wikilink"))や[表計算](https://ja.wikipedia.org/wiki/表計算 "wikilink")ソフト([Excel](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink"))など、多くの[アプリケーションソフト](https://ja.wikipedia.org/wiki/アプリケーションソフト "wikilink")をあらかじめ[インストール](../Page/インストール.md "wikilink")（[プリインストール](../Page/プリインストール.md "wikilink")）して販売される方式が取られ、その後の各社のパソコン販売形態の基本となった。
 

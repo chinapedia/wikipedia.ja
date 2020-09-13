@@ -1,11 +1,11 @@
 > この記事は[TEAM \(テレビドラマ\)](https://ja.wikipedia.org/wiki/TEAM_\(テレビドラマ\))から翻訳されています。
 
 
-『**TEAM**』（チーム）は、[1999年](../Page/1999年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")から[12月22日](../Page/12月22日.md "wikilink")まで毎週水曜日21:00 - 21:54に、[フジテレビ系の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[水曜劇場](../Page/水曜劇場_\(フジテレビ\).md "wikilink")」枠で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。その後、[2003年](../Page/2003年.md "wikilink")までスペシャルドラマが4回放送された。主演は[草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")。
+『**TEAM**』（チーム）は、[1999年](../Page/1999年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")から[12月22日](../Page/12月22日.md "wikilink")まで毎週水曜日21:00 - 21:54に、[フジテレビ系の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[水曜劇場](../Page/水曜劇場_\(フジテレビ\).md "wikilink")」枠で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。その後、[2003年](../Page/2003年.md "wikilink")までスペシャルドラマが4回放送された。主演は[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")。
 
 ## 概要
 
-[文部省](../Page/文部省.md "wikilink")（のちに省庁改組により[文部科学省](../Page/文部科学省.md "wikilink")）に所属する風見勇助（[草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")）と[警視庁](../Page/警視庁.md "wikilink")のたたき上げ[刑事](../Page/刑事.md "wikilink")・丹波肇（[西村雅彦](https://ja.wikipedia.org/wiki/西村雅彦 "wikilink")）がコンビで[少年事件](https://ja.wikipedia.org/wiki/少年事件 "wikilink")に挑むという内容。
+[文部省](../Page/文部省.md "wikilink")（のちに省庁改組により[文部科学省](../Page/文部科学省.md "wikilink")）に所属する風見勇助（[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")）と[警視庁](../Page/警視庁.md "wikilink")のたたき上げ[刑事](../Page/刑事.md "wikilink")・丹波肇（[西村雅彦](https://ja.wikipedia.org/wiki/西村雅彦 "wikilink")）がコンビで[少年事件](https://ja.wikipedia.org/wiki/少年事件 "wikilink")に挑むという内容。
 
 風見は加害少年性善説、丹波は加害少年性悪説に立ち、互いに意見をぶつけ合って事件の真相を探っていく、当時の[刑事ドラマ](../Page/刑事ドラマ.md "wikilink")としては異色の作品だった。
 
@@ -15,19 +15,11 @@
 
 第1話には[小泉純一郎](https://ja.wikipedia.org/wiki/小泉純一郎 "wikilink")元内閣総理大臣が文部大臣（のちの[文部科学大臣](../Page/文部科学大臣.md "wikilink")）役で出演した。
 
-### 放送日
-
-  - TEAM 連続ドラマ（[1999年](../Page/1999年.md "wikilink")10月13日 - 12月22日）
-  - TEAM スペシャル1（[2000年](../Page/2000年.md "wikilink")11月3日）
-  - TEAM スペシャル2（[2001年](../Page/2001年.md "wikilink")10月5日）
-  - TEAM スペシャル3（[2002年](../Page/2002年.md "wikilink")9月20日）
-  - TEAM スペシャル4（[2003年](../Page/2003年.md "wikilink")9月26日）
-
 ## キャスト
 
-### 主要キャスト
+### 主要人物
 
-  - 風見勇助 - [草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")（当時:[SMAP](../Page/SMAP.md "wikilink")）
+  - 風見勇助 - [草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")（当時:[SMAP](../Page/SMAP.md "wikilink")）
   - 丹波肇 - [西村雅彦](https://ja.wikipedia.org/wiki/西村雅彦 "wikilink")
   - 丹波綴 - [水野美紀](https://ja.wikipedia.org/wiki/水野美紀 "wikilink")
   - 神代一課長 - [大杉漣](../Page/大杉漣.md "wikilink")
@@ -199,7 +191,7 @@
 
 <!-- end list -->
 
-  - 吉村栄太 - [内博貴](../Page/内博貴.md "wikilink")（当時:[NEWS](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")・当時:[関ジャニ8](https://ja.wikipedia.org/wiki/関ジャニ8 "wikilink")）、小堀陽貴（小学生時代）
+  - 吉村栄太 - [内博貴](../Page/内博貴.md "wikilink")（当時:[NEWS](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")・当時:[関ジャニ8](https://ja.wikipedia.org/wiki/関ジャニ8 "wikilink")）、[小堀陽貴](../Page/小堀陽貴.md "wikilink")（小学生時代）
   - 吉村忠明 - [浅野和之](../Page/浅野和之.md "wikilink")
   - 吉村由美 - [山下容莉枝](../Page/山下容莉枝.md "wikilink")
   - 栄太の叔父 - [江良潤](../Page/江良潤.md "wikilink")

@@ -149,10 +149,7 @@ Windows 8では、iOSやAndroidといったライバルOSのUIを強く意識し
 
 ## 外部リンク
 
-  - マイクロソフト社
-      - [ ホーム](http://www.microsoft.com/japan/windowsxp/tabletpc/default.asp)
-      - [](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&FamilyID=080184dd-5e92-4464-b907-10762e9f918b)
-
+  -
 [Category:パーソナルコンピュータ](https://ja.wikipedia.org/wiki/Category:パーソナルコンピュータ "wikilink") [Category:コンピュータの形態](https://ja.wikipedia.org/wiki/Category:コンピュータの形態 "wikilink") [Category:タブレット型端末](https://ja.wikipedia.org/wiki/Category:タブレット型端末 "wikilink") [Category:携帯機器](https://ja.wikipedia.org/wiki/Category:携帯機器 "wikilink")
 
 1.  [タッチインターフェースとは 「タッチUI」（touch interface）： - IT用語辞典バイナリ](http://www.sophia-it.com/content/%E3%82%BF%E3%83%83%E3%83%81%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9)

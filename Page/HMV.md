@@ -1,7 +1,9 @@
 > この記事は[HMV](https://ja.wikipedia.org/wiki/HMV)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Hmv_Sendai_Ichibancho_Shop.jpg "wikilink") **HMV**（エイチエムブイ\[1\]、エッチエムブイ\[2\]）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の**HMVグループPLC**社が世界展開している[レコード](../Page/レコード.md "wikilink")販売店グループである。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Hmv_Sendai_Ichibancho_Shop.jpg "wikilink") [thumbに存在した店舗](https://ja.wikipedia.org/wiki/ファイル:HMV_Oxford_Street_by_Alex_Liivet.jpg "wikilink")
+（2013年10月〜2019年2月）
+ロゴのものとは別に[ニッパーの絵が掲げられていた](../Page/ニッパー_\(犬\).md "wikilink")\]\] **HMV**（エイチエムブイ\[1\]、エッチエムブイ\[2\]）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の**HMVグループPLC**社が世界展開している[レコード](../Page/レコード.md "wikilink")販売店グループである。
 
 もとは英[グラモフォン社](https://ja.wikipedia.org/wiki/ベルリーナ・グラモフォン "wikilink")（現 英[EMI](../Page/EMI.md "wikilink")）のブランドだった。「」の[アクロニム](https://ja.wikipedia.org/wiki/アクロニム "wikilink")であり、これは、グラモフォンの姉妹会社である[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ビクタートーキングマシン](../Page/ビクタートーキングマシン.md "wikilink")社（現 米[RCA](../Page/RCA.md "wikilink")）や、その子会社であった[日本ビクター](../Page/日本ビクター.md "wikilink")（現 [JVCケンウッド](https://ja.wikipedia.org/wiki/JVCケンウッド "wikilink")）のマスコット「[ニッパー](../Page/ニッパー_\(犬\).md "wikilink")」のキャッチコピーだった。
 

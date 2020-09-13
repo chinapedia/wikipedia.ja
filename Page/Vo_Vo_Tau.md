@@ -66,4 +66,4 @@
   - [Ring's Blog](http://blog.livedoor.jp/vovotau4u) - [livedoor Blog](https://ja.wikipedia.org/wiki/livedoor_Blog "wikilink")（2006年1月 - 2009年9月）
 
   -
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink")
+[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:2003年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に結成した音楽グループ "wikilink") [Category:2006年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2006年に解散した音楽グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink")

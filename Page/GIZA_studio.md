@@ -27,12 +27,12 @@
 
 1994年
 
-  - 11月23日 - 長戸大幸が[西心斎橋](https://ja.wikipedia.org/wiki/西心斎橋 "wikilink")（[アメリカ村](../Page/アメリカ村.md "wikilink")）のスパジオビルにクラブ「Grand Cafe」をオープンさせる。（2016年5月10日閉店）
+  - 11月23日 - 長戸大幸が[西心斎橋](https://ja.wikipedia.org/wiki/西心斎橋 "wikilink")（[アメリカ村](../Page/アメリカ村.md "wikilink")）のスパジオビルにクラブ「Grand Cafe」をオープンさせる（2016年5月10日閉店）。
 
 1995年
 
   - 1月15日 - クラブ「Grand Cafe」で第1回目のSUNDAY BLUES LIVE開催。主催はビーインググループのインディーズレーベルである**BLUE-Z Records**。\[2\]
-  - 春 - [B-Gram RECORDSが西心斎橋](../Page/B-Gram_RECORDS.md "wikilink")（アメリカ村）の御堂筋ダイヤモンドビルに関西地区の活動拠点「ビーグラム大阪」を置く。（後に、[株式会社アメムラオータウンレコードと株式会社ギザの源流となる](../Page/Amemura_O-town_Record.md "wikilink")。）\[3\]
+  - 春 - [B-Gram RECORDSが西心斎橋](../Page/B-Gram_RECORDS.md "wikilink")（アメリカ村）の御堂筋ダイヤモンドビルに関西地区の活動拠点「ビーグラム大阪」を置く（後に、[株式会社アメムラオータウンレコードと株式会社ギザの源流となる](../Page/Amemura_O-town_Record.md "wikilink")）\[3\]
   - 8月26日 - UJが**[Styling Records](https://ja.wikipedia.org/wiki/Styling_Records "wikilink")**の第1号アーティストとしてインディーズデビュー。
   - 10月1日 - 春名俊希\[4\]が**BLUE-Z Records**の第1号アーティストとしてインディーズデビュー。
 
@@ -43,7 +43,7 @@
 1997年
 
   - 春 - ZAIN RECORDSが関西専用のサブレーベル**Spoonful**設立。\[6\]\[7\]
-  - 4月23日 [小松未歩](../Page/小松未歩.md "wikilink")が楽曲提供デビュー。（[FIELD OF VIEW](../Page/FIELD_OF_VIEW.md "wikilink")「[この街で君と暮らしたい](../Page/この街で君と暮らしたい.md "wikilink")」）
+  - 4月23日 [小松未歩](../Page/小松未歩.md "wikilink")が楽曲提供デビュー（[FIELD OF VIEW](../Page/FIELD_OF_VIEW.md "wikilink")「[この街で君と暮らしたい](../Page/この街で君と暮らしたい.md "wikilink")」）。
   - 5月28日 - ZAIN RECORDSの関西専用のサブレーベルSpoonful\[8\]の第1号アーティストとして、小松未歩がシングル「[謎](../Page/謎_\(曲\).md "wikilink")」でメジャーデビュー。関西拠点のレーベルとして初めてオリコン・シングルチャートでTOP10入り（週間）を果たした。
   - 7月1日 - ZAIN RECORDSのサブレーベルSpoonful\[9\]が独立し、関西拠点最初のメジャーレコード会社である**[株式会社アメムラオータウンレコード](../Page/Amemura_O-town_Record.md "wikilink")** (*Amemura O-town Record Inc.*）設立。本社はビーグラム大阪と同じ、西心斎橋（アメリカ村）の御堂筋ダイヤモンドビル。\[10\]
   - 11月11日 - [YOKO Black. StoneがStyling](../Page/YOKO_Black._Stone.md "wikilink") Recordsよりインディーズデビュー。\[11\]
@@ -53,14 +53,14 @@
 1998年
 
   - 2月7日 - Rumble FishがSteel and Glassへ改名し、BLUE-Z Recordsから**g-moon records**の第1号アーティストとして移籍。\[13\]
-  - 6月10日 - [大野愛果](../Page/大野愛果.md "wikilink")が楽曲提供デビュー。（[WANDS](../Page/WANDS.md "wikilink")（第3期）「[明日もし君が壊れても](../Page/明日もし君が壊れても.md "wikilink")」）
+  - 6月10日 - [大野愛果](../Page/大野愛果.md "wikilink")が楽曲提供デビュー（[WANDS](../Page/WANDS.md "wikilink")（第3期）「[明日もし君が壊れても](../Page/明日もし君が壊れても.md "wikilink")」）。
   - 8月19日 - 小松未歩がAmemura O-town Recordよりシングル「[チャンス](../Page/チャンス_\(小松未歩の曲\).md "wikilink")」をリリース。関西拠点のレーベルとして初めてオリコン・シングルチャートでTOP3入り（週間）を果たした。
 
 ### 株式会社ギザ（*GIZA. Inc.*）設立後
 
 1998年
 
-  - 9月1日 - B-Gram RECORDSが関西専用のレコード会社として**株式会社ギザ**（*GIZA. Inc.*）設立。本社はビーグラム大阪およびAmemura O-town Recordと同じ、西心斎橋（アメリカ村）の御堂筋ダイヤモンドビル。（設立当初はインディーズレーベル\[14\]）
+  - 9月1日 - B-Gram RECORDSが関西専用のレコード会社として**株式会社ギザ**（*GIZA. Inc.*）設立。本社はビーグラム大阪およびAmemura O-town Recordと同じ、西心斎橋（アメリカ村）の御堂筋ダイヤモンドビル（設立当初はインディーズレーベル\[14\]）。
   - 10月20日 - インディーズレーベル**Garage Indies Zapping Association**の第1号アーティストとして[New Cinema蜥蜴がインディーズデビュー](https://ja.wikipedia.org/wiki/New_Cinema蜥蜴 "wikilink")。
   - 12月19日 - 小松未歩がAmemura O-town Recordよりアルバム『[小松未歩 2nd 〜未来〜](../Page/小松未歩_2nd_〜未来〜.md "wikilink")』をリリース。関西拠点のレーベルとして初めてオリコン・アルバムチャートでTOP3入り（週間）を果たした。
 
@@ -68,7 +68,7 @@
 
   - 1月30日 - [rumania montevideoがGarage](https://ja.wikipedia.org/wiki/rumania_montevideo "wikilink") Indies Zapping Associationよりインディーズデビュー。
   - 2月10日 - メジャーレーベル**GIZA studio**の第1号アーティストとして、New Cinema蜥蜴、[GRASS ARCADE](https://ja.wikipedia.org/wiki/GRASS_ARCADE "wikilink")、[sweet velvetの](https://ja.wikipedia.org/wiki/sweet_velvet "wikilink")3組が同時メジャーデビュー。
-  - 3月17日 - 後に[GARNET CROWのメンバーとなる](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")[AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink")が楽曲提供デビュー。（FIELD OF VIEW「[CRASH](../Page/CRASH_\(FIELD_OF_VIEWの曲\).md "wikilink")」）
+  - 3月17日 - 後に[GARNET CROWのメンバーとなる](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")[AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink")が楽曲提供デビュー（FIELD OF VIEW「[CRASH](../Page/CRASH_\(FIELD_OF_VIEWの曲\).md "wikilink")」）。
   - 4月 - Amemura O-town Recordに唯一所属していた小松未歩がGIZA studioに移籍。Amemura O-town Recordは所属アーティスト不在となり運営休止。\[15\]
   - 4月14日 - rumania montevideoがGIZA studioよりデビューシングル「[Still for your love](../Page/Still_for_your_love.md "wikilink")」をリリース。GIZA studioとして初めてオリコン・シングルチャートでTOP10入り（週間）を果たした。
   - 6月16日 - YOKO Black. StoneがGIZA studioGIZA studioのサブレーベル**[Styling Records](https://ja.wikipedia.org/wiki/Styling_Records "wikilink")**よりメジャーデビュー。\[16\]
@@ -110,7 +110,7 @@
 
 2005年
 
-  - 2月 - ベーカリーショップ「hillsパン工場」本町三休橋店が開店。（ベーカリーカフェ「hillsパン工場cafe」と異なり、テイクアウトのみの店舗）
+  - 2月 - ベーカリーショップ「hillsパン工場」本町三休橋店が開店（ベーカリーカフェ「hillsパン工場cafe」と異なり、テイクアウトのみの店舗）。
   - 5月 - hillsパン工場・ライブハウスにて毎週木曜日開催のTHURSDAY LIVEが、[NTT東日本](https://ja.wikipedia.org/wiki/NTT東日本 "wikilink")でも「フレッツ・スクウェア」によるライブ配信開始。
   - 5月25日 - TENT HOUSEの派生レーベル、かつ、[上木彩矢](https://ja.wikipedia.org/wiki/上木彩矢 "wikilink")のプライベートレーベルとして**WEED**を設立。
   - 11月9日 - インディーズレーベル**WEED**を**WEEDS**と改称。上木彩矢のプライベートレーベルではなくなったWEEDSより[OOMがインディーズデビュー](https://ja.wikipedia.org/wiki/OOM_\(バンド\) "wikilink")。\[24\]
@@ -196,11 +196,11 @@
 
 [2014年](../Page/2014年.md "wikilink")、[WAR-ED](https://ja.wikipedia.org/wiki/WAR-ED "wikilink")、[植田真梨恵](https://ja.wikipedia.org/wiki/植田真梨恵 "wikilink")がメジャーデビュー。
 
-[2018年](../Page/2018年.md "wikilink")には前年に結成した男性４人組バンド[dps](https://ja.wikipedia.org/wiki/dps "wikilink")がメジャーデビュー。
+[2018年](../Page/2018年.md "wikilink")には前年に結成した男性4人組バンド[dps](https://ja.wikipedia.org/wiki/dps "wikilink")がメジャーデビュー。
 
-[2019年](../Page/2019年.md "wikilink")には平均年齢20歳の女性４人組バンド[SARD UNDERGROUNDがメジャーデビュー](https://ja.wikipedia.org/wiki/SARD_UNDERGROUND "wikilink")。
+[2019年](../Page/2019年.md "wikilink")には平均年齢20歳の女性4人組バンド[SARD UNDERGROUNDがメジャーデビュー](https://ja.wikipedia.org/wiki/SARD_UNDERGROUND "wikilink")。
 
-ソロで活動し、かつ知名度がさほど高くないアーティストでは、ファンへの予告無しにレーベルのホームページよりアーティストの名前が削除され、突然活動を休止する等した事がある。以前、[岩田さゆり](../Page/岩田さゆり.md "wikilink")、[菅崎茜](../Page/菅崎茜.md "wikilink")、[岸本早未](https://ja.wikipedia.org/wiki/岸本早未 "wikilink")、[平田香織](https://ja.wikipedia.org/wiki/平田香織 "wikilink")らは、本人および所属会社からの説明なくレーベルホームページより名前が削除されていた。現在は、菅崎茜と上原あずみを除いて再び掲載されている。
+ソロで活動し、かつ知名度がさほど高くないアーティストは、ファンへの予告無しにレーベルのホームページよりアーティストの名前が削除され、突然活動を休止するなどしたことがある。以前、[岩田さゆり](../Page/岩田さゆり.md "wikilink")、[菅崎茜](../Page/菅崎茜.md "wikilink")、[岸本早未](https://ja.wikipedia.org/wiki/岸本早未 "wikilink")、[平田香織](https://ja.wikipedia.org/wiki/平田香織 "wikilink")らは、本人および所属会社からの説明なくレーベルホームページより名前が削除されていた。現在は、菅崎茜と上原あずみを除いて再び掲載されている。
 
 ## 販売体系
 
@@ -255,13 +255,13 @@ TENT HOUSE派生のインディーズレーベル。元々は<a href="https://ja
 <td><p><a href="https://ja.wikipedia.org/wiki/Styling_Records" title="wikilink">Styling</a></p></td>
 <td><p>GZCS</p></td>
 <td><p>終了<br />
-GIZA studio内に設置されていたメジャーレーベル。元々は当社設立前よりインディーズレーベルとして存在していたが、<a href="../Page/YOKO_Black._Stone.md" title="wikilink">YOKO Black. Stoneのメジャーデビューを機に</a>、GIZA studio内に設置されたサブレーベルとなった。（インディーズレーベル時代の規格品番はSTCL）</p></td>
+GIZA studio内に設置されていたメジャーレーベル。元々は当社設立前よりインディーズレーベルとして存在していたが、<a href="../Page/YOKO_Black._Stone.md" title="wikilink">YOKO Black. Stoneのメジャーデビューを機に</a>、GIZA studio内に設置されたサブレーベルとなった（インディーズレーベル時代の規格品番はSTCL）。</p></td>
 </tr>
 <tr class="odd">
 <td><p>BLUE-Z</p></td>
 <td><p>GZCB</p></td>
 <td><p>終了<br />
-当社設立前よりインディーズレーベルとして存在し、春名俊希[27]、Rumble Fish（1998年にg-moon recordsへ移籍）[28]、<a href="https://ja.wikipedia.org/wiki/明石昌夫#AKASHI_MASAO_GROUP" title="wikilink">AKASHI MASAO GROUP</a>、椎名祐海（1998年に<a href="../Page/Amemura_O-town_Record.md" title="wikilink">Amemura O-town Recordへ移籍</a>）などが在籍していた。（当社設立前の規格品番はBLCZ）<br />
+当社設立前よりインディーズレーベルとして存在し、春名俊希[27]、Rumble Fish（1998年にg-moon recordsへ移籍）[28]、<a href="https://ja.wikipedia.org/wiki/明石昌夫#AKASHI_MASAO_GROUP" title="wikilink">AKASHI MASAO GROUP</a>、椎名祐海（1998年に<a href="../Page/Amemura_O-town_Record.md" title="wikilink">Amemura O-town Recordへ移籍</a>）などが在籍していた（当社設立前の規格品番はBLCZ。）<br />
 現在はビーインググループの不動産会社となっている。</p></td>
 </tr>
 <tr class="even">
@@ -324,9 +324,8 @@ GIZA studio内に設置されていたメジャーレーベル。元々は当社
 #### D-GO
 
   - [Sensation](https://ja.wikipedia.org/wiki/Sensation "wikilink")
-  - [竹田NINJA京右](https://ja.wikipedia.org/wiki/竹田NINJA京右 "wikilink")
-  - [KYOTO RIMPA ROCKERS](https://ja.wikipedia.org/wiki/KYOTO_RIMPA_ROCKERS "wikilink")
   - [WANDS](../Page/WANDS.md "wikilink")
+  - [rumania montevideo](https://ja.wikipedia.org/wiki/rumania_montevideo "wikilink")
 
 #### O-TOWN Jazz
 
@@ -346,13 +345,13 @@ GIZA studio内に設置されていたメジャーレーベル。元々は当社
 | 名前                                                                                      | 備考                                                                                                                                                                                                                                                              |
 | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")                                   | 2010年9月音楽活動を一時引退\[29\]後に「垣内りか」名義で実業家として活動し、2015年に外部で同名義を使用して音楽活動を再開した。                                                                                                                                                                                          |
-| [岩田さゆり](../Page/岩田さゆり.md "wikilink")                                                    | 2008年6月活動中止。女優業は継続。                                                                                                                                                                                                                                             |
+| [岩田さゆり](../Page/岩田さゆり.md "wikilink")                                                    | 2008年6月歌手としての活動中止。モデル・女優業は継続していたが2016年に所属事務所との契約が終了し、それ以降は芸能活動を行なっていない。                                                                                                                                                                                         |
 | [OOM](https://ja.wikipedia.org/wiki/OOM_\(バンド\) "wikilink")                             | 2009年4月活動休止。                                                                                                                                                                                                                                                    |
 | [上原あずみ](https://ja.wikipedia.org/wiki/上原あずみ "wikilink")                                 | 2010年7月契約違反により解雇。\[30\]                                                                                                                                                                                                                                         |
 | [Gulliver Get](../Page/Gulliver_Get.md "wikilink")                                      | 2010年インディーズ転向、2011年2月26日解散。                                                                                                                                                                                                                                     |
 | [Caos Caos Caos](https://ja.wikipedia.org/wiki/Caos_Caos_Caos "wikilink")               | 2018年2月活動休止。                                                                                                                                                                                                                                                    |
-| [GARNET CROW](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")                     | 2013年6月9日解散。古井弘人、岡本仁志は作曲家および編曲家、AZUKI七は作詞家として活動している。                                                                                                                                                                                                            |
-| [岸本早未](https://ja.wikipedia.org/wiki/岸本早未 "wikilink")                                   | 2008年4月活動中止。                                                                                                                                                                                                                                                    |
+| [GARNET CROW](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")                     | 2013年6月9日解散。古井弘人、岡本仁志は作曲家および編曲家、AZUKI七は2013年までは作詞家として活動していたが現在は活動を行なっていない。                                                                                                                                                                                      |
+| [岸本早未](https://ja.wikipedia.org/wiki/岸本早未 "wikilink")                                   | 2008年4月活動中止。その後は服飾関係の職に就き、現在は服飾デザイナーとして自身のブランドを立ち上げ活動している。                                                                                                                                                                                                      |
 | [北原愛子](../Page/北原愛子.md "wikilink")                                                      | 2011年7月引退。                                                                                                                                                                                                                                                      |
 | [GRASS ARC.](../Page/GRASS_ARC..md "wikilink")                                          | 2000年活動中止。                                                                                                                                                                                                                                                      |
 | [grram](https://ja.wikipedia.org/wiki/grram "wikilink")                                 | 2015年活動終了。                                                                                                                                                                                                                                                      |
@@ -378,6 +377,7 @@ GIZA studio内に設置されていたメジャーレーベル。元々は当社
 | [New Cinema 蜥蜴](../Page/New_Cinema_蜥蜴.md "wikilink")                                    | 2002年8月解散。                                                                                                                                                                                                                                                      |
 | [長谷実果](https://ja.wikipedia.org/wiki/長谷実果 "wikilink")                                   | 2002年4月活動中止。                                                                                                                                                                                                                                                    |
 | [羽田裕美](https://ja.wikipedia.org/wiki/羽田裕美 "wikilink")                                   | 2011年活動休止。                                                                                                                                                                                                                                                      |
+| [Hachi/Hatch,](https://ja.wikipedia.org/wiki/Hachi/Hatch, "wikilink")                   | 2017年解散。ボーカルの[中村勝也](../Page/中村勝也.md "wikilink")はソロのアーティストとして活動中。                                                                                                                                                                                                |
 | [早川えみ](../Page/早川えみ.md "wikilink")                                                      | 2010年活動休止。                                                                                                                                                                                                                                                      |
 | [平田香織](https://ja.wikipedia.org/wiki/平田香織 "wikilink")                                   | 2009年活動休止。                                                                                                                                                                                                                                                      |
 | [PINC INC](https://ja.wikipedia.org/wiki/PINC_INC "wikilink")                           | 2009年12月解散。                                                                                                                                                                                                                                                     |
@@ -405,7 +405,7 @@ GIZA studio内に設置されていたメジャーレーベル。元々は当社
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/宇浦冴香" title="wikilink">宇浦冴香</a></p></td>
-<td><p>2009年度に契約終了。2011年5月に<a href="../Page/ユニバーサルミュージック_(日本).md" title="wikilink">ユニバーサルミュージックからCherie名義で再デビュー</a>、その後再移籍で宇浦名義に戻る</p></td>
+<td><p>2009年度に契約終了。2011年5月に<a href="../Page/ユニバーサルミュージック_(日本).md" title="wikilink">ユニバーサルミュージックからCherie名義で再デビュー</a>、その後再移籍で宇浦名義に戻るが2016年に事務所を退社し本名の浦彩恵子としてフリーランスで活動中。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/上木彩矢" title="wikilink">上木彩矢</a></p></td>
@@ -429,6 +429,10 @@ GIZA studio内に設置されていたメジャーレーベル。元々は当社
 <td><p>2002年活動中止。2013年3月、Con4Tunesに移籍し、活動再開。</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ZAMB" title="wikilink">ZAMB</a></p></td>
+<td><p>2020年、<a href="https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ" title="wikilink">ソニー・ミュージックレーベルズ</a>内のメジャーレーベル、<a href="https://ja.wikipedia.org/wiki/SACRA_MUSIC" title="wikilink">SACRA MUSICに移籍</a>。</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 </tr>
@@ -605,11 +609,11 @@ GIZA studio内に設置されていたメジャーレーベル。元々は当社
 [Category:ビーイング](https://ja.wikipedia.org/wiki/Category:ビーイング "wikilink") [Category:大阪市西区の企業](https://ja.wikipedia.org/wiki/Category:大阪市西区の企業 "wikilink") [Category:1998年設立の企業](https://ja.wikipedia.org/wiki/Category:1998年設立の企業 "wikilink") [Category:日本のレコード会社](https://ja.wikipedia.org/wiki/Category:日本のレコード会社 "wikilink")
 
 1.  かつて所属していた[小松未歩](../Page/小松未歩.md "wikilink")によるエッセイ集「小松未歩のヘンな物さし。2」の巻末のクレジットでは「ギザ・スタジオ」となっている。
-2.  2003年3月20日より[hillsパン工場・ライブハウスで行われているTHURSDAY](https://ja.wikipedia.org/wiki/hills_パン工場 "wikilink") LIVEのルーツは、1995年1月15日より1997年12月28日までクラブ「Grand Cafe」で行われていたSUNDAY BLUES LIVE。（斉田才、『THURSDAY LIVE -TRACKS OF THREE YEARS-』）
-3.  御堂筋ダイヤモンドビル内には、関連会社のソフト販売会社の[J-DISC BeingやRooms](../Page/J-DISC_Being.md "wikilink") RECORDS大阪(現：[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink"))、総務部門のザイム等も入居していた。
+2.  2003年3月20日より[hillsパン工場・ライブハウスで行われているTHURSDAY](https://ja.wikipedia.org/wiki/hills_パン工場 "wikilink") LIVEのルーツは、1995年1月15日より1997年12月28日までクラブ「Grand Cafe」で行われていたSUNDAY BLUES LIVE（斉田才、『THURSDAY LIVE -TRACKS OF THREE YEARS-』）。
+3.  。御堂筋ダイヤモンドビル内には、関連会社のソフト販売会社の[J-DISC BeingやRooms](../Page/J-DISC_Being.md "wikilink") RECORDS大阪(現：[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink"))、総務部門のザイム等も入居していた。
 4.  春名俊希は後に、蒼遥和、咲井一希と二度改名。現在は咲井一希名義で、プロダクション「ミスティー」、レーベル「イグニッションレーベル」、マネジメントオフィス「グランミスト」を主催。
-5.  ZAIN RECORDS大阪は、ミナミビル5Fに入居されてた。
-6.  1993年11月4日に設立された「株式会社スプーンフル」（）は、小松未歩のデビューからGIZA studio移籍までの間は、ZAIN RECORDSおよびAmemura O-town Recordのサブレーベル「Spoonful」の運営会社であった。その後、株式会社ギザの本社ビル「GIZA hills（現・HORIE HILLS）」内に2002年3月に開店したベーカリーカフェ「hillsパン工場cafe」の運営会社となったが、2013年9月29日に閉店、法人登記も2016年2月8日に閉鎖された。（地下2階の「hillsパン工場・ライブハウス」は株式会社ギザの直営。）
+5.  ZAIN RECORDS大阪は、ミナミビル5Fに入居していた。
+6.  1993年11月4日に設立された「株式会社スプーンフル」（）は、小松未歩のデビューからGIZA studio移籍までの間は、ZAIN RECORDSおよびAmemura O-town Recordのサブレーベル「Spoonful」の運営会社であった。その後、株式会社ギザの本社ビル「GIZA hills（現・HORIE HILLS）」内に2002年3月に開店したベーカリーカフェ「hillsパン工場cafe」の運営会社となったが、2013年9月29日に閉店、法人登記も2016年2月8日に閉鎖された（地下2階の「hillsパン工場・ライブハウス」は株式会社ギザの直営）。
 7.  GIZA studio所属アーティストの楽曲を管理する[音楽出版社](https://ja.wikipedia.org/wiki/音楽出版社 "wikilink")であるギザミュージックの前身は、スプーンフルミュージックである。
 8.
 9.

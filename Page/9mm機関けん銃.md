@@ -54,6 +54,8 @@
 
   - 『[亜人](https://ja.wikipedia.org/wiki/亜人_\(漫画\) "wikilink")』
     [入間基地](../Page/入間基地.md "wikilink")に侵入した佐藤に対処する[自衛官](../Page/自衛官.md "wikilink")が使用。味方への[誤射](https://ja.wikipedia.org/wiki/誤射 "wikilink")を躊躇せず攻撃するよう指示されていたため、味方が射線上に居ても本銃を[射撃](../Page/射撃.md "wikilink")しており、味方ごと佐藤に命中弾を与える。だが不死身である佐藤は無力化できず、最終的に基地は制圧されてしまう。また佐藤や佐藤の共犯者が[殉職](../Page/殉職.md "wikilink")した隊員から[鹵獲](../Page/鹵獲.md "wikilink")し使用する。
+  - 『[炎炎ノ消防隊](https://ja.wikipedia.org/wiki/炎炎ノ消防隊 "wikilink")』
+    第8特殊消防隊の武久火縄と東京皇国軍が使用。
   - 『[荒野に獣慟哭す](../Page/荒野に獣慟哭す.md "wikilink")』
     漫画版で、薬師丸法山をはじめゾンビストのメンバー数名が使用。
   - 『[続・戦国自衛隊](https://ja.wikipedia.org/wiki/戦国自衛隊_\(劇画\)#続・戦国自衛隊 "wikilink")』
@@ -68,7 +70,7 @@
   - 『[自衛隊三国志](https://ja.wikipedia.org/wiki/戦国自衛隊#外伝小説 "wikilink")』
     [三国時代へ](../Page/三国時代_\(中国\).md "wikilink")[タイムスリップした](https://ja.wikipedia.org/wiki/タイムトラベル "wikilink")[自衛隊](../Page/自衛隊.md "wikilink")[国際連合平和維持活動](../Page/国際連合平和維持活動.md "wikilink")（PKO）[部隊](../Page/部隊.md "wikilink")の装備として登場。走行中の[偵察用オートバイ](https://ja.wikipedia.org/wiki/偵察用オートバイ "wikilink")上にて片手だけで[射撃](../Page/射撃.md "wikilink")を行い、[曹操](../Page/曹操.md "wikilink")軍の[兵士](../Page/兵士.md "wikilink")たちを一掃する。
   - 『[図書館戦争](../Page/図書館戦争.md "wikilink")』
-    [図書特殊部隊](https://ja.wikipedia.org/wiki/図書館戦争#各組織 "wikilink")（ライブラリータスクフォース）が使用。
+    [図書特殊部隊](https://ja.wikipedia.org/wiki/図書館戦争#各組織 "wikilink")（ライブラリータスクフォース）や図書隊防衛部が使用。
   - 『日中尖閣戦争』
     特殊運搬艇に2丁搭載されているが、[中国海軍に補足されたため](../Page/中国人民解放軍海軍.md "wikilink")、民間船に装うために海中に投棄される。
   - 『[ルーントルーパーズ 自衛隊漂流戦記](https://ja.wikipedia.org/wiki/ルーントルーパーズ_自衛隊漂流戦記 "wikilink")』
@@ -102,7 +104,7 @@
 
 ## 外部リンク
 
-  - [陸上自衛隊](http://www.mod.go.jp/gsdf/) - [9mm機関拳銃](http://www.mod.go.jp/gsdf/equipment/index.html#/detail/0/0_26/)
+  - [陸上自衛隊](https://www.mod.go.jp/gsdf/) - [9mm機関拳銃](https://www.mod.go.jp/gsdf/equipment/index.html#/detail/0/0_26/)
 
   - [Minebea M-9 submachine gun (Japan)](http://world.guns.ru/smg/smg102-e.htm)
 
@@ -111,7 +113,7 @@
 
 [Category:短機関銃](https://ja.wikipedia.org/wiki/Category:短機関銃 "wikilink") [Category:陸上自衛隊の小火器](https://ja.wikipedia.org/wiki/Category:陸上自衛隊の小火器 "wikilink") [Category:海上自衛隊の装備品](https://ja.wikipedia.org/wiki/Category:海上自衛隊の装備品 "wikilink") [Category:航空自衛隊の装備品](https://ja.wikipedia.org/wiki/Category:航空自衛隊の装備品 "wikilink") [Category:9mmパラベラム弾使用銃](https://ja.wikipedia.org/wiki/Category:9mmパラベラム弾使用銃 "wikilink")
 
-1.  [『9mm機関拳銃』 陸上自衛隊装備紹介](http://www.mod.go.jp/gsdf/equipment/index.html#/detail/0/0_26/)
+1.  [『9mm機関拳銃』 陸上自衛隊装備紹介](https://www.mod.go.jp/gsdf/equipment/index.html#/detail/0/0_26/)
 2.  自衛隊の前身である[警察予備隊](../Page/警察予備隊.md "wikilink")では、サブマシンガンを「短機関銃」と呼称し、その後発足した自衛隊・[防衛庁](https://ja.wikipedia.org/wiki/防衛庁 "wikilink")（当時）もこれを継承した。なお、「拳」の字は[常用漢字](../Page/常用漢字.md "wikilink")ではなかったため、[『武器等製造法施行規則』（昭和28年9月1日通商産業省令第43号）](http://www.lawdata.org/law/htmldata/S28/S28F03801000043.html)や、[『法律第百十五号（平13・11・2）自衛隊法の一部を改正する法律』](http://www.shugiin.go.jp/itdb_housei.nsf/html/housei/15320011102115.htm)においては、「機関けん銃」と表記されている
 3.
 4.
@@ -123,7 +125,7 @@
 10.
 11. 新紀元社 大波篤司「図解ハンドウェポン」
 12.
-13. 防衛省・自衛隊 予算等の概要 [平成12年度](http://www.mod.go.jp/j/yosan/2000/y2000.pdf) [平成13年度](http://www.mod.go.jp/j/yosan/2001/shiryo.pdf) [平成14年度](http://www.mod.go.jp/j/yosan/2002/sankou.pdf) [平成15年度](http://www.mod.go.jp/j/yosan/2003/gaiyou.pdf)
+13. 防衛省・自衛隊 予算等の概要 [平成12年度](https://warp.da.ndl.go.jp/info:ndljp/pid/11488652/www.mod.go.jp/j/yosan/yosan_gaiyo/2000/y2000.pdf) [平成13年度](https://warp.da.ndl.go.jp/info:ndljp/pid/11488652/www.mod.go.jp/j/yosan/yosan_gaiyo/2001/shiryo.pdf) [平成14年度](https://warp.da.ndl.go.jp/info:ndljp/pid/11488652/www.mod.go.jp/j/yosan/yosan_gaiyo/2002/sankou.pdf) [平成15年度](https://warp.da.ndl.go.jp/info:ndljp/pid/11488652/www.mod.go.jp/j/yosan/yosan_gaiyo/2003/gaiyou.pdf)
 14.
 15. 配備された部隊の指揮官のコメントに拠れば、威力不足や命中精度の面から「従来の9mm拳銃や[折り曲げ銃床式の89式の方がはるかにマシ](https://ja.wikipedia.org/wiki/89式5.56mm小銃#派生型 "wikilink")」との意見があり、『ここが変だよ自衛隊』などの書籍に掲載されている
 16. [イカロス出版](../Page/イカロス出版.md "wikilink")Jground Vol.17

@@ -1,7 +1,7 @@
 > この記事は[SMBC日興証券](https://ja.wikipedia.org/wiki/SMBC日興証券)から翻訳されています。
 
 
-**SMBC日興証券株式会社**（エスエムビーシーにっこうしょうけん、[英称](../Page/英語.md "wikilink")：SMBC Nikko Securities Inc.）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")3大[証券会社](../Page/証券会社.md "wikilink")の一つである総合証券会社。[三井住友フィナンシャルグループ](../Page/三井住友フィナンシャルグループ.md "wikilink")の子会社である。
+**SMBC日興証券株式会社**（エスエムビーシーにっこうしょうけん、[英称](../Page/英語.md "wikilink")：SMBC Nikko Securities Inc.）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")3大[証券会社](../Page/証券会社.md "wikilink")の一つである総合証券会社。株式会社[三井住友フィナンシャルグループ](../Page/三井住友フィナンシャルグループ.md "wikilink")の子会社である。
 
 1918年川島屋商店として[遠山元一](../Page/遠山元一.md "wikilink")が創業。米国投資銀行シティグループの日本法人の親会社として投資銀行部門を拡大した後、2009年10月より三井住友フィナンシャルグループの一員となる。2011年4月に[商号](../Page/商号.md "wikilink")を**日興コーディアル証券株式会社**から変更\[1\]。
 
@@ -134,8 +134,13 @@
 ## 外部リンク
 
   - [SMBC日興証券株式会社](https://www.smbcnikko.co.jp/)
+
   - [日興証券(株)『五十年史. 資料編』(1970.09)](https://shashi.shibusawa.or.jp/details_nenpyo.php?sid=10210)
 
+  -
+  -
+  -
+  -
 [en:Nikko Cordial](https://ja.wikipedia.org/wiki/en:Nikko_Cordial "wikilink")
 
 [Category:日本の証券会社](https://ja.wikipedia.org/wiki/Category:日本の証券会社 "wikilink") [Category:東京都中央区の企業](https://ja.wikipedia.org/wiki/Category:東京都中央区の企業 "wikilink") [Category:2009年設立の企業](https://ja.wikipedia.org/wiki/Category:2009年設立の企業 "wikilink") [Category:三井住友フィナンシャルグループ](https://ja.wikipedia.org/wiki/Category:三井住友フィナンシャルグループ "wikilink") [Category:三井グループ](https://ja.wikipedia.org/wiki/Category:三井グループ "wikilink") [Category:住友グループ](https://ja.wikipedia.org/wiki/Category:住友グループ "wikilink") [Category:川崎フロンターレ](https://ja.wikipedia.org/wiki/Category:川崎フロンターレ "wikilink") [Category:投資銀行](https://ja.wikipedia.org/wiki/Category:投資銀行 "wikilink")

@@ -35,7 +35,7 @@
 
   - [イネ](../Page/インドネシア語.md "wikilink")：キー
 
-  - [エス](../Page/エスペラント.md "wikilink")：クーオ
+  - [エス](../Page/エスペラント.md "wikilink")：kuo (クーオ)
 
 ## 音価
 
@@ -67,11 +67,11 @@
 
 :\* [フィジー語](../Page/フィジー語.md "wikilink")では[前鼻音化](https://ja.wikipedia.org/wiki/前鼻音化 "wikilink")を起こし 。
 
-:\* [コイワ語](https://ja.wikipedia.org/wiki/コイワ語 "wikilink")では[声門音](https://ja.wikipedia.org/wiki/声門音 "wikilink")化した 。
+:\* [カイオワ語](https://ja.wikipedia.org/wiki/カイオワ語 "wikilink")では[声門音](https://ja.wikipedia.org/wiki/声門音 "wikilink")化した 。
 
   - 硬口蓋音
 
-:\* [中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")の[ピンイン](https://ja.wikipedia.org/wiki/ピンイン "wikilink")では、[無声歯茎硬口蓋破擦音](../Page/無声歯茎硬口蓋破擦音.md "wikilink")の[有気音](../Page/有気音.md "wikilink")  （日本語の「チ」を息を強く出した子音に近い）を表す。
+:\* [中国語](../Page/中国語.md "wikilink")の[ピンイン](https://ja.wikipedia.org/wiki/ピンイン "wikilink")では、[無声歯茎硬口蓋破擦音](../Page/無声歯茎硬口蓋破擦音.md "wikilink")の[有気音](../Page/有気音.md "wikilink")  （日本語の「チ」を息を強く出した子音に近い）を表す。
 
 :\* [アルバニア語](../Page/アルバニア語.md "wikilink")では[無声硬口蓋破裂音](https://ja.wikipedia.org/wiki/無声硬口蓋破裂音 "wikilink")  を表す。
 
@@ -87,74 +87,118 @@
 
 ## Qの使用例
 
-### 主に大文字
+### 海外諸語の単語の略
 
-  - 疑問・質問を示す。question の略。（例：Q&[A](https://ja.wikipedia.org/wiki/A "wikilink")）
-  - [Q符号](../Page/Q符号.md "wikilink")
-  - [Q熱](../Page/Q熱.md "wikilink")
-  - [Q資料](../Page/Q資料.md "wikilink")
-  - [物理量](../Page/物理量.md "wikilink")の[熱量](https://ja.wikipedia.org/wiki/熱量 "wikilink") (Q。Quantityの頭文字)。
-  - [Q値](../Page/Q値.md "wikilink")（機械振動・共振回路の性質を表す）
-  - Queen の略。
-      - [トランプ](../Page/トランプ.md "wikilink")でクイーン ([12](../Page/12.md "wikilink")) を表す。
-      - [チェス](../Page/チェス.md "wikilink")の棋譜などで[クイーンを表す](../Page/クイーン_\(チェス\).md "wikilink")。
-      - [ペンタックス](../Page/ペンタックス.md "wikilink")の[ノンレフレックスカメラ](https://ja.wikipedia.org/wiki/ミラーレス一眼カメラ "wikilink")「[PENTAX Q](https://ja.wikipedia.org/wiki/ペンタックスのデジタルカメラ製品一覧#Qマウント機 "wikilink")」の「Qマウント」は、Queen of DILC mount という意味。
-  - [写植](https://ja.wikipedia.org/wiki/写植 "wikilink")において、文字の大きさの単位である[級の略](https://ja.wikipedia.org/wiki/写真植字機#Q数制 "wikilink")。一辺の長さ1歯 (0.25 [mm](../Page/ミリメートル.md "wikilink")) につき1級である。
-  - 大文字太字の **Q** あるいは黒板太字の \(\mathbb{Q}\) は、数学において[有理数](https://ja.wikipedia.org/wiki/有理数 "wikilink")の全体を表す。
-  - Quran（[クルアーン](../Page/クルアーン.md "wikilink")：[イスラーム](https://ja.wikipedia.org/wiki/イスラーム "wikilink")の[聖典](../Page/聖典.md "wikilink")）の略。
-  - [非SI接頭辞](../Page/非SI接頭辞.md "wikilink")（ジム・ブロワーズ (Jim Blowers) の提案）でクエクサ (quexa)(10<sup>48</sup>)
-  - 古代ローマ人の個人名クィントゥス (Quintus) の略。
-  - スポーツなどで試合時間等を4分割した1つの単位クォーター (*quarter*) の略。会計年度の場合は四半期（3ヶ月間）を指す。いずれも1Q-4Qのように略記。
-  - スポーツなどで予選を通過する意味の*Qualify*の略。
-  - 松下電器産業（現・[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")）が発売した[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")の互換機『[Q](https://ja.wikipedia.org/wiki/ニンテンドーゲームキューブ#互換機「Q」 "wikilink")』。
-  - [ジェームズ・ボンド](https://ja.wikipedia.org/wiki/ジェームズ・ボンド "wikilink")を主人公とした小説及び映画作品に登場する[キャラクター](../Page/キャラクター.md "wikilink")で、[イギリス情報局秘密情報部](https://ja.wikipedia.org/wiki/イギリス情報局秘密情報部 "wikilink")（MI6）の架空の[研究開発](../Page/研究開発.md "wikilink")であるQ課の課長である。[Q](https://ja.wikipedia.org/wiki/Q_\(ジェームズ・ボンド\) "wikilink")。
-  - [スタートレック](../Page/スタートレック.md "wikilink")シリーズの[新スタートレック](../Page/新スタートレック.md "wikilink")以降に登場する知的生命体 [Q](../Page/Q_\(スタートレック\).md "wikilink")。
-  - 四[重奏](../Page/重奏.md "wikilink")団を表す[カルテット](../Page/カルテット.md "wikilink")（Quartet）、五重奏団を表す[クインテット](https://ja.wikipedia.org/wiki/クインテット "wikilink")（Quintet）の略。
-  - [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の9thアルバム『[Q](../Page/Q_\(アルバム\).md "wikilink")』。
-  - [avex所属の](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[AAA](../Page/AAA_\(音楽グループ\).md "wikilink")(トリプルA)のシングル ["Q"](../Page/"Q".md "wikilink")。
-  - ゲーム『[ストリートファイターIII](../Page/ストリートファイターIII.md "wikilink")』に登場するキャラクター、[Q](../Page/Q_\(ストリートファイター\).md "wikilink")。
-  - [ヱヴァンゲリヲン新劇場版](../Page/ヱヴァンゲリヲン新劇場版.md "wikilink")の3作目のサブタイトル。『[ヱヴァンゲリヲン新劇場版:Q](https://ja.wikipedia.org/wiki/ヱヴァンゲリヲン新劇場版:Q "wikilink")』
-  - [オバケのQ太郎](../Page/オバケのQ太郎.md "wikilink")
-      - [マラソン](../Page/マラソン.md "wikilink")選手[高橋尚子](https://ja.wikipedia.org/wiki/高橋尚子 "wikilink")の愛称Qちゃんは、オバケのQ太郎に由来する。
-  - [ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink")のメンバー[Q](https://ja.wikipedia.org/wiki/Q_\(ラッパー\) "wikilink")。
-  - [MS-DOS](../Page/MS-DOS.md "wikilink")や[Windowsなどで](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[CD-ROM](../Page/CD-ROM.md "wikilink")ドライブの[ドライブレター](../Page/ドライブレター.md "wikilink")にQがよく割り当てられる。
-  - フリーのPC[エミュレータ](../Page/エミュレータ.md "wikilink")[QEMU](../Page/QEMU.md "wikilink")の[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")向けポート。
-  - [シャ乱Q](../Page/シャ乱Q.md "wikilink")。6枚目のアルバムは『[GOLDEN Q](../Page/GOLDEN_Q.md "wikilink")』、公式ファンクラブはCLUB QUE（クラブキュー）。
-  - [天才・たけしの元気が出るテレビ\!\!](../Page/天才・たけしの元気が出るテレビ!!.md "wikilink")内の企画「高校生ダンス甲子園」において当イベントに参加した無名時代の[山本太郎](https://ja.wikipedia.org/wiki/山本太郎 "wikilink")（のちに俳優、現政治家）が名乗った名前は『メロリンQ』。
-  - [円谷プロが製作したテレビ特撮作品第一作は](../Page/円谷プロダクション.md "wikilink")『[ウルトラQ](../Page/ウルトラQ.md "wikilink")』。[ウルトラマンA](../Page/ウルトラマンA.md "wikilink")の第14話の必殺光線『スペースQ』や第48話の『Q歯科医院』、[ウルトラマンレオ](../Page/ウルトラマンレオ.md "wikilink")第43話の小型吸血円盤『デモスQ』や第47話の『テリナQ』、[マイティジャック](../Page/マイティジャック.md "wikilink")に登場する敵組織の名称『Q』など、円谷プロ作品においてQの文字はよく使用される。
-  - [デ・ハビランド・カナダ](../Page/デ・ハビランド・カナダ.md "wikilink")社が開発し、現在でも[ボンバルディア](../Page/ボンバルディア.md "wikilink")社が製造している「ボンバルディア Qシリーズ」。（例:[Q400](https://ja.wikipedia.org/wiki/Q400 "wikilink")など）
-  - [INFINITI](https://ja.wikipedia.org/wiki/INFINITI "wikilink")の車種、[Q](https://ja.wikipedia.org/wiki/インフィニティ・Q "wikilink")
-  - [1980年代](../Page/1980年代.md "wikilink")中ごろに[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")が発行していた関西圏向け情報誌『Q』。後に[ぴあ](../Page/ぴあ.md "wikilink")との提携で『ぴあQ』を経て『ぴあ関西版』となる。
-  - [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の音楽雑誌『[Q](https://ja.wikipedia.org/wiki/Q_\(雑誌\) "wikilink")』。日本ではQ誌として知られている。
-  - パソコン関係商品の通信販売サイトの名称は『パソQ』。
-  - [百貨店](../Page/百貨店.md "wikilink")[伊勢丹](../Page/伊勢丹.md "wikilink")の[デパ地下](../Page/デパ地下.md "wikilink")で人気の[惣菜](../Page/惣菜.md "wikilink")・[スイーツ](https://ja.wikipedia.org/wiki/スイーツ "wikilink")コーナー『クイーンズ伊勢丹』のオリジナルブランドの名称は『Green Q』。キャッチコピーは「おいしさを考える Green Q」。
-  - [スポーツ](../Page/スポーツ.md "wikilink")競技の場合、大文字「Q」は順位通過（順位通過）者、小文字「q」は記録通過（記録通過者）を表す。
+  - 疑問・質問
+
+:\* query - 不明である状況や疑念のニュアンスを含む。
+
+:\*\* [Q熱](../Page/Q熱.md "wikilink")
+
+:\* question - 解決すべき課題や、提案のニュアンスを含む。
+
+:\*\* [FAQ](../Page/FAQ.md "wikilink")（Q\&A）
+
+  - 自然科学の概念
+
+:\* quality - 質
+
+:\*\* [Q値](../Page/Q値.md "wikilink")（品質係数） - 振動の状態を表す[無次元量](../Page/無次元量.md "wikilink")の値。
+
+:\*\* [Q学習](../Page/Q学習.md "wikilink")
+
+:\* quantity - 量
+
+:\*\* Q - 物理量の[熱量](https://ja.wikipedia.org/wiki/熱量 "wikilink")の略記号。
+
+:\* quotient - 商（除法の解）
+
+:\*\* 大文字太字の **Q** あるいは黒板太字の \(\mathbb{Q}\) は、数学において[有理数](https://ja.wikipedia.org/wiki/有理数 "wikilink")の全体を表す。
+
+:\*\* Q理論（[トービンのq理論](../Page/トービンのq理論.md "wikilink")） - [ジェームズ・トービン](../Page/ジェームズ・トービン.md "wikilink")が提唱した経済理論。
+
+  - 特定の数量・割合
+
+:\* Q - 四[重奏](../Page/重奏.md "wikilink")団としての[カルテット](../Page/カルテット.md "wikilink")（quartet）の略表記。
+
+:\* quarter - [クォーター](https://ja.wikipedia.org/wiki/クォーター "wikilink")
+
+:\*\* Q - スポーツの試合時間等を4分割した単位「クォーター」の略表記。1Q-4Qのように略記。
+
+:\*\* Q - [会計年度](../Page/会計年度.md "wikilink")・[会計期間](../Page/会計期間.md "wikilink")の四半期（3ヶ月間）の略表記。1Q-4Qのように略記。
+
+:\* Q - 五重奏団としての[クインテット](https://ja.wikipedia.org/wiki/クインテット "wikilink")（quintet）の略表記。
+
+:\* q - [非SI接頭辞](../Page/非SI接頭辞.md "wikilink")のひとつ、クエクト（quekto）。10<sup>−48</sup>。
+
+:\* Q - 非SI接頭辞のひとつ、クエクサ（quexa）。10<sup>48</sup>。
+
+  - その他の単語
+
+:\* qualify - （資格などを）与える、選出、（予選などの）通過
+
+:\*\* Q・q - 競技[スポーツ](../Page/スポーツ.md "wikilink")などにおける予選通過記録（クオリファイ）の略。スコア表記の場合、大文字「Q」で順位通過・または順位通過選手、小文字「q」で記録通過・または記録通過選手を表す。
+
+:\* queen - クイーン・女王
+
+:\*\* Q - [トランプ](../Page/トランプ.md "wikilink")でクイーン ([12](../Page/12.md "wikilink")) を表す略記号。
+
+:\*\* Q - [チェス](../Page/チェス.md "wikilink")の棋譜などで[クイーンを表す略記号](../Page/クイーン_\(チェス\).md "wikilink")。
+
+:\* quelle - [ラテン語](../Page/ラテン語.md "wikilink")で「源泉」、転じて「出典」の意。英語のquarryに相当。
+
+:\*\* [Q資料](../Page/Q資料.md "wikilink")
+
+:\* Q - [クルアーン](../Page/クルアーン.md "wikilink")（Quran：[イスラーム](https://ja.wikipedia.org/wiki/イスラーム "wikilink")の[聖典](../Page/聖典.md "wikilink")）の略。
+
+:\* Q - 古代ローマ人の個人名[クィントゥス](https://ja.wikipedia.org/wiki/クィントゥス "wikilink") (Quintus) の略。
+
+### 日本語の「きゅう」の音
 
 [Fuji_Kyuko_Q_Logo.svg](https://ja.wikipedia.org/wiki/File:Fuji_Kyuko_Q_Logo.svg "fig:Fuji_Kyuko_Q_Logo.svg")
 
-  - Q「キュー」の音から…
-      - [九州](../Page/九州.md "wikilink")の俗称でQを使用するケースがある。九州の路線バス乗り放題乗車券「[SUNQパス](../Page/SUNQパス.md "wikilink")」など。
-      - [急行](https://ja.wikipedia.org/wiki/急行 "wikilink")の意味でQを使用することもある。KQ（[京浜急行電鉄](../Page/京浜急行電鉄.md "wikilink")の[パスネット](https://ja.wikipedia.org/wiki/パスネット "wikilink")印字）、[富士急行](../Page/富士急行.md "wikilink")（ロゴマークが富士山のシルエットに白抜きのQ）など。
-      - Q車（=[旧車](../Page/旧車.md "wikilink")）
-      - TOQ（=[東急](../Page/東急.md "wikilink")）
-  - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系列で放送されているクイズ系バラエティ番組「[クイズプレゼンバラエティー Qさま\!\!](../Page/クイズプレゼンバラエティー_Qさま!!.md "wikilink")」。
-  - [松岡圭祐](../Page/松岡圭祐.md "wikilink")の小説、[万能鑑定士Qの事件簿](https://ja.wikipedia.org/wiki/Qシリーズ_\(小説\) "wikilink")。
-  - QQ車 医師や看護師が[救急車](../Page/救急車.md "wikilink")の事を略して記録に残すことがある。
-  - [魯迅](../Page/魯迅.md "wikilink")の小説、[阿Q正伝](../Page/阿Q正伝.md "wikilink")。
-  - [タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")(現[タカラトミー](../Page/タカラトミー.md "wikilink")及び関連会社[トミーテック](../Page/トミーテック.md "wikilink"))の玩具、[チョロQ](../Page/チョロQ.md "wikilink")。
-  - [第45回衆議院議員総選挙](https://ja.wikipedia.org/wiki/第45回衆議院議員総選挙 "wikilink")において、[民主党に投票した層を揶揄する](../Page/民主党_\(日本_1998-2016\).md "wikilink")[インターネットスラング](../Page/インターネットスラング.md "wikilink")に「おQ」という言葉がある。「（[自民党に](../Page/自由民主党_\(日本\).md "wikilink")）お灸を据える層」の意。
-  - [台東区](../Page/台東区.md "wikilink")根岸に存在する「[下町](../Page/下町.md "wikilink")の味」で人気を博す[老舗](../Page/老舗.md "wikilink")[洋食](../Page/洋食.md "wikilink")店の名称は『レストランQ』。
-  - 芸能事務所[ロマネプロモーション](https://ja.wikipedia.org/wiki/ロマネプロモーション "wikilink")が[2013年](../Page/2013年.md "wikilink")に製作・発表した女性ヤンキーアクション映画の名称は『ローリングQ』。
-  - [ジャパネットたかた](../Page/ジャパネットたかた.md "wikilink")が販売するハンディスチーム[クリーナー](https://ja.wikipedia.org/wiki/クリーナー "wikilink")の名称は『スチームQ』。
-  - 電子掲示板に現れた匿名利用者名及び彼が唱えた[米国](https://ja.wikipedia.org/wiki/米国 "wikilink")発の[陰謀論](../Page/陰謀論.md "wikilink")。[Qアノン](https://ja.wikipedia.org/wiki/Qアノン "wikilink")を参照。
+  - Q - [写真植字](https://ja.wikipedia.org/wiki/写真植字 "wikilink")（写植）における文字の大きさの単位。[級の略](https://ja.wikipedia.org/wiki/写真植字機#Q数制 "wikilink")。一辺の長さ1歯 (0.25[ミリメートル](../Page/ミリメートル.md "wikilink")) につき1級である。
+  - Q - [九州](../Page/九州.md "wikilink")の俗表記。九州の路線バス乗り放題乗車券「[SUNQパス](../Page/SUNQパス.md "wikilink")」など。
+  - Q - 鉄道会社の社名略記における「急行」「急」の俗表記。
+      - KQ - [京浜急行電鉄](../Page/京浜急行電鉄.md "wikilink")の[パスネット](https://ja.wikipedia.org/wiki/パスネット "wikilink")印字
+      - TOQ - [東急電鉄](https://ja.wikipedia.org/wiki/東急電鉄 "wikilink")が一部のサービスに用いた名称。[TOQビジョン](../Page/TOQビジョン.md "wikilink")など。
+      - [富士急行](../Page/富士急行.md "wikilink")のロゴマークは、**富士山のシルエットに白抜きのQ**である。
+  - Q車 - [旧車](../Page/旧車.md "wikilink")の俗表記。
+  - QQ車 - [救急車](../Page/救急車.md "wikilink")の略表記。医師や看護師の業務記録にみられる。
+  - おQ・おQ層 - 日本の[インターネットスラング](../Page/インターネットスラング.md "wikilink")。[第45回衆議院議員総選挙](https://ja.wikipedia.org/wiki/第45回衆議院議員総選挙 "wikilink")に際して当時の最大野党・[民主党に投票した有権者層を揶揄する語](../Page/民主党_\(日本_1998-2016\).md "wikilink")。当時の与党・[自民党](../Page/自由民主党_\(日本\).md "wikilink")・[公明党](../Page/公明党.md "wikilink")に「お[灸](../Page/灸.md "wikilink")を据える意志を持って投票行動をとった」層の意。
 
-### 主に小文字
+### 団体・作品・商品等の名
 
-  - [物理量](../Page/物理量.md "wikilink")の[電荷](../Page/電荷.md "wikilink") (q)。
-  - [非SI接頭辞](../Page/非SI接頭辞.md "wikilink")（ジム・ブロワーズ (Jim Blowers) の提案）でクエクト (quekto)(10<sup>−48</sup>)
-  - [トービンのq理論](../Page/トービンのq理論.md "wikilink")は、[ジェームズ・トービン](../Page/ジェームズ・トービン.md "wikilink")が提唱した経済理論。
-  - [有限体](https://ja.wikipedia.org/wiki/有限体 "wikilink")の元の個数
-  - [q類似](https://ja.wikipedia.org/wiki/q類似 "wikilink")
+「Q」の文字は、「謎」や「疑問」、または「解決」のニュアンスを含む語として、グループ名や、フィクション作品のタイトル表記等に用いられる。
+
+  - [阿Q正伝](../Page/阿Q正伝.md "wikilink")
+  - [ウルトラQ](../Page/ウルトラQ.md "wikilink") - 日本のテレビ特撮ドラマ。[円谷プロ作品第一作](../Page/円谷プロダクション.md "wikilink")。
+      - のちに、円谷プロ作品においてQの文字はよく使用されるにいたった。『[マイティジャック](../Page/マイティジャック.md "wikilink")』に登場する敵組織「Q」、『[ウルトラマンA](../Page/ウルトラマンA.md "wikilink")』第14話の必殺光線「スペースQ」、同作第48話の「Q歯科医院」、『[ウルトラマンレオ](../Page/ウルトラマンレオ.md "wikilink")』第43話の小型吸血円盤「デモスQ」。同作第47話の「テリナQ」など。
+  - [ヱヴァンゲリヲン新劇場版:Q](https://ja.wikipedia.org/wiki/ヱヴァンゲリヲン新劇場版:Q "wikilink")
+  - [オバケのQ太郎](../Page/オバケのQ太郎.md "wikilink")
+  - [Qシリーズ (小説)](https://ja.wikipedia.org/wiki/Qシリーズ_\(小説\) "wikilink")
+  - Green Q - [クイーンズ伊勢丹](../Page/クイーンズ伊勢丹.md "wikilink")の[プライベートブランド](../Page/プライベートブランド.md "wikilink")。
+  - [シャ乱Q](../Page/シャ乱Q.md "wikilink") - 日本のロックバンド。6枚目のアルバムは『[GOLDEN Q](../Page/GOLDEN_Q.md "wikilink")』、公式ファンクラブはCLUB QUE（クラブキュー）。
+  - [チョロQ](../Page/チョロQ.md "wikilink")
+  - [バンデットQ](../Page/バンデットQ.md "wikilink") - 1981年製作のイギリス映画「*Time Bandits*」の邦題。
+  - メロリンQ - 無名時代の[山本太郎](https://ja.wikipedia.org/wiki/山本太郎 "wikilink")（のちに俳優、政治家）がテレビ番組『[天才・たけしの元気が出るテレビ\!\!](../Page/天才・たけしの元気が出るテレビ!!.md "wikilink")』内の企画イベント「高校生ダンス甲子園」において名乗った名前。
+  - クイズ番組等の名称
+      - [おサイフいっぱいクイズ\! QQQのQ](../Page/おサイフいっぱいクイズ!_QQQのQ.md "wikilink")
+      - [カルトQ](../Page/カルトQ.md "wikilink")
+      - [クイズプレゼンバラエティー Qさま\!\!](../Page/クイズプレゼンバラエティー_Qさま!!.md "wikilink")
+      - [ゲーム数字でQ](https://ja.wikipedia.org/wiki/ゲーム数字でQ "wikilink")
+      - [スーパーダイスQ](../Page/スーパーダイスQ.md "wikilink")
+      - [チャレンジQ](https://ja.wikipedia.org/wiki/チャレンジQ "wikilink")
+      - [どっきりQ](../Page/どっきりQ.md "wikilink")
+      - [なんでもQ](https://ja.wikipedia.org/wiki/なんでもQ "wikilink")
+      - [ベルトクイズQ\&Q](../Page/ベルトクイズQ&Q.md "wikilink")
+
+### その他の使用例
+
+  - [Q符号](../Page/Q符号.md "wikilink") - [無線通信](../Page/無線通信.md "wikilink")の略記号の一種。
+  - [MS-DOS](../Page/MS-DOS.md "wikilink")や[Windowsなどで](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[CD-ROM](../Page/CD-ROM.md "wikilink")ドライブの[ドライブレター](../Page/ドライブレター.md "wikilink")に「Q」がよく割り当てられる。
+      - Q - フリーのPC[エミュレータ](../Page/エミュレータ.md "wikilink")[QEMU](../Page/QEMU.md "wikilink")の[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")向けポート。
+  - [Qアノン](https://ja.wikipedia.org/wiki/Qアノン "wikilink") - [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[インターネット・ミーム](https://ja.wikipedia.org/wiki/インターネット・ミーム "wikilink")および[陰謀論](../Page/陰謀論.md "wikilink")。
 
 ## 符号位置
 

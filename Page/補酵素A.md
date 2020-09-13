@@ -1,7 +1,7 @@
 > この記事は[補酵素A](https://ja.wikipedia.org/wiki/補酵素A)から翻訳されています。
 
 
-**補酵素A**（ほこうそA、**コエンザイムA** あるいは **CoA**）は、生物にとって極めて重要な[補酵素](../Page/補酵素.md "wikilink")（助酵素）である。[パントテン酸](../Page/パントテン酸.md "wikilink")と[アデノシン二リン酸](../Page/アデノシン二リン酸.md "wikilink")、および [2-メルカプトエチルアミン](https://ja.wikipedia.org/wiki/2-メルカプトエチルアミン "wikilink")から構成されており、[化学式](../Page/化学式.md "wikilink")はC<sub>21</sub>H<sub>36</sub>P<sub>3</sub>N<sub>7</sub>O<sub>16</sub>S、分子量は767.5 g/molである。
+**補酵素A**（ほこうそA、**コエンザイムA** あるいは **CoA**）は、生物にとって極めて重要な[補酵素](../Page/補酵素.md "wikilink")（助酵素）である。[パントテン酸](../Page/パントテン酸.md "wikilink")と[アデノシン二リン酸](../Page/アデノシン二リン酸.md "wikilink")、および[システアミン](https://ja.wikipedia.org/wiki/システアミン "wikilink")から構成されており、[化学式](../Page/化学式.md "wikilink")はC<sub>21</sub>H<sub>36</sub>P<sub>3</sub>N<sub>7</sub>O<sub>16</sub>S、分子量は767.5 g/molである。
 
 末端にある[チオール基](https://ja.wikipedia.org/wiki/チオール基 "wikilink")に様々な化合物の[アシル基](../Page/アシル基.md "wikilink")が[チオエステル結合](https://ja.wikipedia.org/wiki/チオエステル結合 "wikilink")することによって[クエン酸回路](https://ja.wikipedia.org/wiki/クエン酸回路 "wikilink")や[β酸化](https://ja.wikipedia.org/wiki/β酸化 "wikilink")などの代謝反応に関わる。例えば[アセチル基](https://ja.wikipedia.org/wiki/アセチル基 "wikilink")が結合したものは[アセチルCoA](../Page/アセチルCoA.md "wikilink")である。その他にも多くの補酵素Aのチオエステル化合物がある。
 

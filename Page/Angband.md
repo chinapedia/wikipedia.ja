@@ -5,7 +5,7 @@
 
 ## 概要
 
-[Moria](https://ja.wikipedia.org/wiki/Moria "wikilink")の後継としてThe Pits of Angbandのタイトルで1991年にリリースされ、2016年の現在も更新は続いている。最新Verは4.0.5。[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")、[Mac OSの他](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")、[Android](../Page/Android.md "wikilink")にも対応している。
+[Moria](https://ja.wikipedia.org/wiki/Moria "wikilink")の後継としてThe Pits of Angbandのタイトルで1991年にリリースされ、2016年の現在も更新は続いている。最新Verは4.0.5。[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")、[Mac OSの他](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")、[Androidにも対応している](../Page/Android_\(オペレーティングシステム\).md "wikilink")。
 
 ## ゲームプレイ
 

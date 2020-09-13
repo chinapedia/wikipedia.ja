@@ -25,7 +25,9 @@
 
 [2013年](../Page/2013年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")、毎年恒例の全体公演の制作発表会が行われ、久本雅美と柴田理恵が出席したが、この中で、[4月18日](../Page/4月18日.md "wikilink")の仙台公演を皮切りに沖縄も含む19カ所、23公演が予定されている本公演での上演作品『ラスト』をもって、創立30周年にして最終公演とし、無期限の充電期間を置くことが発表された。久本は「（創立メンバーが）皆50代に突入し、みんな自分たちのやりたいこともあるだろう」と説明、今後は個人の活動を優先させていくとした。一方で「これがエンドではない」と“復活”も約束したが、「あと何年後かしたらみんなヨボヨボになっています」と続け、参加者を笑わせた\[2\]。
 
-評判が良かったことから「実は『ラスト』は3部作シリーズ」と銘打ち、[2016年](../Page/2016年.md "wikilink")に第2弾『ラスト2 NEW HOPE 新たなる希望』が全国ツアーで上演された。そして[2017年](../Page/2017年.md "wikilink")、第3弾にして完全終了の公演『ラスト3〜最終伝説〜』が全国ツアーで上演された。[5月24日](../Page/5月24日.md "wikilink")の[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")での初日公演では、初期メンバーの林家正蔵がスペシャルゲストで参加した。[8月26日](../Page/8月26日.md "wikilink")の[気仙沼市民会館](https://ja.wikipedia.org/wiki/気仙沼市民会館 "wikilink")で[千穐楽](https://ja.wikipedia.org/wiki/千穐楽 "wikilink")となった。
+評判が良かったことから「実は『ラスト』は3部作シリーズ」と銘打ち、[2016年](../Page/2016年.md "wikilink")に第2弾『ラスト2 NEW HOPE 新たなる希望』が全国ツアーで上演された。そして[2017年](../Page/2017年.md "wikilink")、第3弾にして完全終了の公演『ラスト3〜最終伝説〜』が全国ツアーで上演され、[8月26日](../Page/8月26日.md "wikilink")の[気仙沼市民会館](https://ja.wikipedia.org/wiki/気仙沼市民会館 "wikilink")で[千穐楽](https://ja.wikipedia.org/wiki/千穐楽 "wikilink")となった。[5月24日](../Page/5月24日.md "wikilink")の[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")での初日公演では、初期メンバーの林家正蔵がスペシャルゲストで参加した。
+
+しかしながら復活の要望が大きかったことから、[2019年](../Page/2019年.md "wikilink")4月、[2020年](../Page/2020年.md "wikilink")に再度全体公演を復活させることを発表した。そのプレイベントとして、2019年6月、過去の全体公演の演目の中からのよりぬきを再公演する「ベストオブ全体公演～ショー・マスト・ゴー・オン～」が上演された。そして2020年5月、復活全体公演3部作のパート1「王と花魁」が全国ツアーで上演される予定だったが、新型コロナウイルス騒動により2021年への延期が決定された。
 
 ## 所属タレント
 
@@ -140,7 +142,7 @@
   - [朝から晩までワハハ本舗。](http://wahahahompo.co.jp/)（公式サイト）
   - [演劇ライフ](http://engekilife.com/company/1478)
 
-[Category:日本の劇団](https://ja.wikipedia.org/wiki/Category:日本の劇団 "wikilink") [Category:芸能プロダクション](https://ja.wikipedia.org/wiki/Category:芸能プロダクション "wikilink") [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:WAHAHA本舗](https://ja.wikipedia.org/wiki/Category:WAHAHA本舗 "wikilink")
+[Category:日本の劇団](https://ja.wikipedia.org/wiki/Category:日本の劇団 "wikilink") [Category:芸能プロダクション](https://ja.wikipedia.org/wiki/Category:芸能プロダクション "wikilink") [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:WAHAHA本舗](https://ja.wikipedia.org/wiki/Category:WAHAHA本舗 "wikilink") [Category:東京ヴォードヴィルショー](https://ja.wikipedia.org/wiki/Category:東京ヴォードヴィルショー "wikilink")
 
 1.  [スポーツニッポン](../Page/スポーツニッポン.md "wikilink") 1994年1月4日付芸能面 他各紙記事より。
 2.  [ワハハ本舗３０周年で“ラスト”　久本雅美「しばらく休ませて」](https://www.sponichi.co.jp/entertainment/news/2013/01/30/kiji/K20130130005090390.html)

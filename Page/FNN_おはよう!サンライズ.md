@@ -35,7 +35,7 @@
 
   - 境と木幡は『[FNN World Uplink](../Page/FNN_World_Uplink.md "wikilink")』より続投。
   - 奥寺は『[笑っていいとも\!](https://ja.wikipedia.org/wiki/笑っていいとも! "wikilink")』の[テレフォンアナウンサーと兼務で](https://ja.wikipedia.org/wiki/テレフォンショッキング "wikilink")、『[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")』も続投。
-  - 三宅は2012年4月から『めざましテレビ』のメインキャスターを務めている。
+  - 三宅は2012年4月から『めざましテレビ』の総合司会を務めている。
 
 ## ネット状況
 

@@ -47,7 +47,7 @@ IPv4 PPPoEのほか、IPv6 PPPoEを全国で利用できる。
 
 #### OCN 光
 
-NTTコミュニケーションズが[光コラレーション(FVNO)事業者として従来フレッツの契約が必要であった回線部分も提供する](https://ja.wikipedia.org/wiki/FVNO "wikilink")。上記 「with フレッツ」とは異なり、利用者はNTTコミュニケーションズとのみ契約すればよい。前述の「with フレッツ」とは全く別物の商品である。
+NTTコミュニケーションズが[光コラボレーション(FVNO)事業者として従来フレッツの契約が必要であった回線部分も提供する](https://ja.wikipedia.org/wiki/FVNO "wikilink")。上記 「with フレッツ」とは異なり、利用者はNTTコミュニケーションズとのみ契約すればよい。前述の「with フレッツ」とは全く別物の商品である。
 
 物理的な回線や[NGN自体はフレッツのものを用いているためフレッツ光からの転用も可能で](https://ja.wikipedia.org/wiki/Next_Generation_Network "wikilink")、基本的に転用により通信速度が変化するなどということはない。
 

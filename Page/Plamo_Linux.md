@@ -50,7 +50,7 @@ githubにプロジェクト用の[リポジトリ](https://github.com/plamolinux
   - [Plamo Linux](http://plamolinux.org/)
   - [PlamoLinux wiki](http://plamo.linet.gr.jp/wiki/)
 
-[Category:Linuxディストリビューション](https://ja.wikipedia.org/wiki/Category:Linuxディストリビューション "wikilink") [Category:日本のLinux開発](https://ja.wikipedia.org/wiki/Category:日本のLinux開発 "wikilink") [Category:1998年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1998年のソフトウェア "wikilink")
+[Category:Slackware派生ディストリビューション](https://ja.wikipedia.org/wiki/Category:Slackware派生ディストリビューション "wikilink") [Category:日本のLinux開発](https://ja.wikipedia.org/wiki/Category:日本のLinux開発 "wikilink") [Category:1998年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1998年のソフトウェア "wikilink")
 
 1.  羽成稔/市村靖 編著『[改訂基礎から学ぶLinux](https://books.google.co.jp/books?id=qVLeaRSCJR0C&pg=PA270)』
 2.

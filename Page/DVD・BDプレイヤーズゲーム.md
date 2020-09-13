@@ -23,9 +23,9 @@
 
 [BD-J](../Page/BD-J.md "wikilink")（Blu-ray Disc Java）を使うことにより、DVDPGでは不可能だったPCゲームにより近い複雑な内容も実現可能である。ただし、BDプレーヤー/レコーダーの性能によっては動作が重くなることもある。
 
-アダルトゲームに関してはDVDPGが広く定着していたためもあって長らく開発されなかったが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")には[mintsより](../Page/ミルキーレーベル.md "wikilink")『[After... BDPG](../Page/After....md "wikilink")』と『[真章 幻夢館 BDPG](https://ja.wikipedia.org/wiki/真章_幻夢館 "wikilink")』がアダルトゲーム初のBDPGとして同時発売された。これらには、DVDPG版では不可能だったセーブ機能なども実装されている。
+アダルトゲームに関してはDVDPGが広く定着していたため長らく開発されなかったが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")には[mintsより](../Page/ミルキーレーベル.md "wikilink")『[After... BDPG](../Page/After....md "wikilink")』と『[真章 幻夢館 BDPG](https://ja.wikipedia.org/wiki/真章_幻夢館 "wikilink")』がアダルトゲーム初のBDPGとして同時発売された。これらには、DVDPG版では不可能だったセーブ機能なども実装されている。
 
-アダルトゲームメーカーの[ビジュアルアーツ](../Page/ビジュアルアーツ.md "wikilink")は、『あそべる\!BD-GAME』シリーズ第1弾として『[Kanon](../Page/Kanon_\(ゲーム\).md "wikilink")』など6タイトルを2011年12月16日に発売した。 あそBDの動作環境\[3\]にもあるように、PCでは[PowerDVD](../Page/PowerDVD.md "wikilink")11以降や[TotalMedia_Theatre](https://ja.wikipedia.org/wiki/TotalMedia_Theatre "wikilink")でプレイ可能である。 しかし、\[4\]を見る限りセーブデータを作成する為にBD-Live(ネット接続は不要)にソフトが対応しているのも必要と思われる。
+アダルトゲームメーカーの[ビジュアルアーツ](../Page/ビジュアルアーツ.md "wikilink")は、『あそべる\!BD-GAME』シリーズ第1弾として『[Kanon](../Page/Kanon_\(ゲーム\).md "wikilink")』など6タイトルを2011年12月16日に発売した。 あそBDの動作環境\[3\]にもあるように、PCでは[PowerDVD](../Page/PowerDVD.md "wikilink")11以降や[TotalMedia_Theatre](https://ja.wikipedia.org/wiki/TotalMedia_Theatre "wikilink")でもプレイ可能と表記されている。 しかし、\[4\]を見る限りセーブデータを作成する為にBD-Live(ネット接続は不要)にソフトが対応しているのも必要と思われる。
 
 ## 現状
 

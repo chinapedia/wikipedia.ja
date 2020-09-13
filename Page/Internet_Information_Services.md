@@ -77,6 +77,7 @@ IIS 6.0において[アーキテクチャを過去のIISに比べ大幅に変更
 ## 外部リンク
 
   -
+
   - [IIS 関連情報 | Technet](http://technet.microsoft.com/ja-jp/bb466129.aspx)
 
   - [IIS Lockdown Wizard 2.1 ツール (Microsoft Japan)](http://www.microsoft.com/japan/technet/security/tools/locktool.mspx)

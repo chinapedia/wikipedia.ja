@@ -41,6 +41,15 @@
 
 さらに2013年7月16日に、大証の現物市場が、東証に統合されたため、JASDAQも東証の管理下に置かれることになった（**東証JQ**）。これにより、<small>（東証自身によって開設された）</small>[マザーズ](../Page/マザーズ.md "wikilink")と合わせ、2つの新興企業向け市場を運営する形となる。
 
+### 新市場への移行
+
+東証は2020年2月21日と同年7月29日に、2022年4月1日に施行予定である新市場区分の概要を発表\[14\]。それによると、「グロース市場」の新規上場を2020年11月1日以降は停止し、以降の新規上場は「スタンダード市場」のみとなる予定\[15\]。また、新市場（プライム・スタンダード・グロース、いずれも仮称）への移行に関しては、市場選択制度を導入する予定（詳細は下表参照）。
+
+| 現在の上場市場区分    | プライムを選択      | スタンダードを選択 | グロースを選択       | 備考          |
+| ------------ | ------------ | --------- | ------------- | ----------- |
+| JASDAQスタンダード | 新規上場と同様の審査手続 | 市場選択に係る手続 | 新規上場と同様の審査手続  | 東証二部上場企業も同様 |
+| JASDAQグロース   | 新規上場と同様の審査手続 | 市場選択に係る手続 | 東証マザーズ上場企業も同様 |             |
+
 ## 売買方式
 
 他の[証券市場](../Page/証券市場.md "wikilink")と同様、[オークション](https://ja.wikipedia.org/wiki/オークション "wikilink")方式を採用している。
@@ -114,7 +123,7 @@
   - 1997年10月 - [信用取引](../Page/信用取引.md "wikilink")が導入される。
   - 1998年12月 - 商号を**株式会社ジャスダック・サービス**に改める。マーケットメイク制度を導入。
       - [証券業](https://ja.wikipedia.org/wiki/証券業 "wikilink")から撤退し店頭市場運営に業務を集約
-  - 1999年7月1日 - 日本証券業協会と[ブルームバーグ](https://ja.wikipedia.org/wiki/ブルームバーグ "wikilink")が[ジャスダック・ブルームバーグインデックス](../Page/株価指数.md "wikilink")（4種類）の公表を開始。
+  - 1999年7月1日 - 日本証券業協会と[ブルームバーグが](../Page/ブルームバーグ_\(企業\).md "wikilink")[ジャスダック・ブルームバーグインデックス](../Page/株価指数.md "wikilink")（4種類）の公表を開始。
       - 1999年1月4日にさかのぼって算出
   - 2000年3月 - マーケットメイクシステム稼働開始。
   - 2001年2月 - 商号を**株式会社ジャスダック**に改める。
@@ -135,7 +144,7 @@
   - 2007年1月19日 - [フジプレアム](../Page/フジプレアム.md "wikilink")株不正取引に関連して、[大和証券](../Page/大和証券.md "wikilink")に対し過怠金1200万円を科し、再発防止策の提出を求めた。
   - 2007年6月26日 - システムリスク管理態勢の不備を理由に、金融庁から業務改善命令を受ける。
   - 2007年8月13日 - 新興企業向け市場「[JASDAQ NEO](../Page/NEO_\(証券市場\).md "wikilink")（ジャスダック・ネオ）」を開設。
-  - 2008年2月28日 - 情報セキュリティマネジメントシステム\[14\]認証の国際規格である「ISO/IEC27001:2005」の認証を取得。
+  - 2008年2月28日 - 情報セキュリティマネジメントシステム\[16\]認証の国際規格である「ISO/IEC27001:2005」の認証を取得。
   - 2008年11月19日 - 株式会社[大阪証券取引所](https://ja.wikipedia.org/wiki/大阪証券取引所 "wikilink")が[株式公開買い付け](https://ja.wikipedia.org/wiki/株式公開買い付け "wikilink")（TOB）を開始。
   - 2008年12月25日 - TOB成立を受け、株式会社大阪証券取引所が76.1%の株式を取得し、[子会社](../Page/子会社.md "wikilink")化。
   - 2009年9月 - 大阪証券取引所の売買システムの利用開始に伴い、JASDAQシステムを終了。
@@ -147,7 +156,9 @@
 
 ### 株式会社東京証券取引所時代
 
-  - 2013年7月16日 - 大阪証券取引所との現物取引市場の統合により、JASDAQも東京証券取引所に機能を統合
+  - 2013年7月16日 - 大阪証券取引所との現物取引市場の統合により、JASDAQも東京証券取引所に機能を統合。
+  - 2020年11月1日 - JASDAQグロースへの新規上場を停止し、以降の新規上場はJASDAQスタンダードのみとなる予定。
+  - 2022年4月1日 - 新市場（プライム・スタンダード・グロース、いずれも仮称）への移行に伴い、JASDAQ上場企業は市場選択により新市場へ移行する予定。
 
 ## 新規上場会社
 
@@ -456,8 +467,8 @@
   - [アイディホーム](https://ja.wikipedia.org/wiki/アイディホーム "wikilink") ()
   - [アイ・アールジャパン](https://ja.wikipedia.org/wiki/アイ・アールジャパン "wikilink") ()
   - [ファインデックス](https://ja.wikipedia.org/wiki/ファインデックス "wikilink") ()
-  - [ラクオリア創薬](../Page/ラクオリア創薬.md "wikilink") () \[15\]
-  - [SEMITEC](https://ja.wikipedia.org/wiki/SEMITEC "wikilink") ()\[16\]
+  - [ラクオリア創薬](../Page/ラクオリア創薬.md "wikilink") () \[17\]
+  - [SEMITEC](https://ja.wikipedia.org/wiki/SEMITEC "wikilink") ()\[18\]
   - [ハウスコム](../Page/ハウスコム.md "wikilink") ()
   - [イートアンド](../Page/イートアンド.md "wikilink") ()
   - [ヒト・コミュニケーションズ](https://ja.wikipedia.org/wiki/ヒト・コミュニケーションズ "wikilink") ()
@@ -583,7 +594,7 @@
   - [ブロードバンドセキュリティ](https://ja.wikipedia.org/wiki/ブロードバンドセキュリティ "wikilink") ()
   - [極東産機](https://ja.wikipedia.org/wiki/極東産機 "wikilink") ()
   - [サン・ライフ](https://ja.wikipedia.org/wiki/サン・ライフ "wikilink")ホールディング ()
-  - [プリントネット](https://ja.wikipedia.org/wiki/プリントネット "wikilink") ()
+  - [プリントネット](../Page/プリントネット.md "wikilink") ()
   - [ディ・アイ・システム](https://ja.wikipedia.org/wiki/ディ・アイ・システム "wikilink") ()
   - [アクセスグループ・ホールディングス](https://ja.wikipedia.org/wiki/アクセスグループ・ホールディングス "wikilink") ()
   - [グッドライフカンパニー](https://ja.wikipedia.org/wiki/グッドライフカンパニー "wikilink") ()
@@ -631,15 +642,17 @@
 2.
 3.
 4.
-5.  [1](http://web.archive.org/web/20191226053424/https://www.jpx.co.jp/corporate/about-jpx/history/02-04.html)
+5.  [1](https://web.archive.org/web/20191226053424/https://www.jpx.co.jp/corporate/about-jpx/history/02-04.html)
 6.
-7.  [2](http://web.archive.org/web/20190301000000*/https://www.nikkei.com/article/DGKKZO43069330Z20C19A3EAC000/)
-8.  [3](http://web.archive.org/web/20190424124625/https://www.jpx.co.jp/corporate/about-jpx/history/tvdivq0000006v5t-att/22495_01.pdf)
+7.  [2](https://web.archive.org/web/20190301000000*/https://www.nikkei.com/article/DGKKZO43069330Z20C19A3EAC000/)
+8.  [3](https://web.archive.org/web/20190424124625/https://www.jpx.co.jp/corporate/about-jpx/history/tvdivq0000006v5t-att/22495_01.pdf)
 9.
 10. 2007年9月29日時事通信記事、野村資本市場研究所編より
 11.  大阪証券取引所[プレスリリース](../Page/プレスリリース.md "wikilink")・2008年12月28日
 12.  ジャスダック取引所のリリース
 13.
-14. <span dir="ltr" lang="en">ISMS: Information Security Management System</span>
-15. 上場申請の取り下げ。
-16. 2011年[3月9日](../Page/3月9日.md "wikilink")承認、[4月13日](../Page/4月13日.md "wikilink")IPO予定だったが、[3月23日](../Page/3月23日.md "wikilink")に[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")、為替市場及び株式市況等を総合的に勘案し募集株式発行及び株式売出しの中止、再承認。
+14. [新市場区分の概要等について](https://www.jpx.co.jp/corporate/news/news-releases/0060/nlsgeu000004ke6p-att/J_kouhyou.pdf)東京証券取引所 2020年2月21日
+15. [資本市場を通じた資金供給機能向上のための上場制度の見直しについて（市場区分の再編に係る第一次制度改正事項）](https://www.jpx.co.jp/rules-participants/public-comment/detail/d1/nlsgeu000004v3wv-att/nlsgeu000004v3yy.pdf)東京証券取引所 2020年7月29日
+16. <span dir="ltr" lang="en">ISMS: Information Security Management System</span>
+17. 上場申請の取り下げ。
+18. 2011年[3月9日](../Page/3月9日.md "wikilink")承認、[4月13日](../Page/4月13日.md "wikilink")IPO予定だったが、[3月23日](../Page/3月23日.md "wikilink")に[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")、為替市場及び株式市況等を総合的に勘案し募集株式発行及び株式売出しの中止、再承認。

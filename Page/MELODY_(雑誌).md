@@ -16,10 +16,13 @@
 
   - [大奥](../Page/大奥_\(漫画\).md "wikilink")（[よしながふみ](../Page/よしながふみ.md "wikilink")）
   - [かげきしょうじょ\!\!](https://ja.wikipedia.org/wiki/かげきしょうじょ!! "wikilink")（[斉木久美子](https://ja.wikipedia.org/wiki/斉木久美子 "wikilink")）
+  - [髪を切りに来ました。](https://ja.wikipedia.org/wiki/髪を切りに来ました。 "wikilink")（[高橋しん](../Page/高橋しん.md "wikilink")）
   - [31☆アイドリーム](https://ja.wikipedia.org/wiki/31☆アイドリーム "wikilink")（[種村有菜](../Page/種村有菜.md "wikilink")）
+  - [相撲女子初心者ですが。](https://ja.wikipedia.org/wiki/相撲女子初心者ですが。 "wikilink")（[はしのちづこ](https://ja.wikipedia.org/wiki/はしのちづこ "wikilink")）
   - [蜻蛉](https://ja.wikipedia.org/wiki/蜻蛉_\(河惣益巳の漫画\) "wikilink")（[河惣益巳](../Page/河惣益巳.md "wikilink")）
   - [花よりも花の如く](../Page/花よりも花の如く.md "wikilink")（[成田美名子](../Page/成田美名子.md "wikilink")）
   - [秘密 season0](https://ja.wikipedia.org/wiki/秘密_―トップ・シークレット― "wikilink")（[清水玲子](../Page/清水玲子.md "wikilink")）
+  - [ぶんぶんのーと](https://ja.wikipedia.org/wiki/ぶんぶんのーと "wikilink")（[立花晶](https://ja.wikipedia.org/wiki/立花晶 "wikilink")）
   - [ベランダ絵日記帖](https://ja.wikipedia.org/wiki/ベランダ絵日記帖 "wikilink")（[六本木綾](https://ja.wikipedia.org/wiki/六本木綾 "wikilink")）
   - [ぼくは地球と歌う](https://ja.wikipedia.org/wiki/ぼくは地球と歌う "wikilink")（[日渡早紀](../Page/日渡早紀.md "wikilink")）
   - [魔法にかかった新学期](https://ja.wikipedia.org/wiki/魔法にかかった新学期 "wikilink")（[ひかわきょうこ](../Page/ひかわきょうこ.md "wikilink")）

@@ -3,7 +3,7 @@
 
 **XUXU**（しゅしゅ）は、**ゆき** (*yuki*) 、**ゆみ** (*yumi*) 、**あすか** (*asuka*) の三人組ヴォイス・パフォーマンス・グループ。
 
-[ジャズ](../Page/ジャズ.md "wikilink")、[クラシック](../Page/クラシック音楽.md "wikilink")、[ポピュラー音楽](../Page/ポピュラー音楽.md "wikilink")、[歌謡曲](../Page/歌謡曲.md "wikilink")を素材として、世界各国の[民族音楽](../Page/民族音楽.md "wikilink")の発声や自分たちが「**しゅしゅ語**」と名付けたオリジナルのスキャットを駆使し、[楽器](../Page/楽器.md "wikilink")の音から、暮らしのなかで聞く生活音の真似までをも織り込み、自分たちのアレンジで音づくりをする[アカペラ](https://ja.wikipedia.org/wiki/アカペラ "wikilink")ユニットのカルテット（四重唱）。 曲目は『[スパイ大作戦](../Page/スパイ大作戦.md "wikilink")（のテーマ）』、クラシック、[穐吉敏子](../Page/穐吉敏子.md "wikilink")の『孤軍』からジャズのスタンダード、[ビートルズ](../Page/ビートルズ.md "wikilink")の曲まで多岐にわたる。
+[ジャズ](../Page/ジャズ.md "wikilink")、[クラシック](../Page/クラシック音楽.md "wikilink")、[ポピュラー音楽](../Page/ポピュラー音楽.md "wikilink")、[歌謡曲](../Page/歌謡曲.md "wikilink")を素材として、世界各国の[民族音楽](../Page/民族音楽.md "wikilink")の発声や自分たちが「**しゅしゅ語**」と名付けたオリジナルのスキャットを駆使し、[楽器](../Page/楽器.md "wikilink")の音から、暮らしのなかで聞く生活音の真似までをも織り込み、自分たちのアレンジで音づくりをする[アカペラ](https://ja.wikipedia.org/wiki/アカペラ "wikilink")ユニット（三重唱）。 曲目は『[スパイ大作戦](../Page/スパイ大作戦.md "wikilink")（のテーマ）』、クラシック、[穐吉敏子](../Page/穐吉敏子.md "wikilink")の『孤軍』からジャズのスタンダード、[ビートルズ](../Page/ビートルズ.md "wikilink")の曲まで多岐にわたる。
 
 ## プロフィール
 
@@ -17,7 +17,7 @@
 
 公式サイトの紹介によれば、音楽作りの大きなテーマは「和（わ）」の「間（ま）」と説明。 ジャズのインプロヴィゼーションやジャズ奏法を駆使した四名が独特なコーラスないしヴォイスパフォーマンスを繰り広げる。ジャズのみならず、日本の伝統音楽や[琉球](../Page/琉球.md "wikilink")音楽（[沖縄民謡](https://ja.wikipedia.org/wiki/沖縄民謡 "wikilink")など）をはじめ、世界各地の民族音楽（いわゆるワールドミュージック）の様式を駆使。 またジャズの世界でよく用いられるスキャット（スキャット - *[Scat singing](https://ja.wikipedia.org/wiki/:en:Scat_singing "wikilink")*、ヴォカリーズ - *[Vocalese](https://ja.wikipedia.org/wiki/:en:Vocalese "wikilink")*、ラップ - *[Rapping](https://ja.wikipedia.org/wiki/:en:Rapping "wikilink")*など）に日本語のセンスを組み込んでさらに発展させた「しゅしゅ語」を織り込んだ[ア・カペラ](../Page/ア・カペラ.md "wikilink")（*[A cappella](https://ja.wikipedia.org/wiki/:en:A_cappella "wikilink")*）で新しい音空間を創り出した。
 
-プロデューサーの伊藤は「XUXUジャンルという新しい音楽表現」による「これまでにない種類のアカペラであり音楽」であると述べている[1](http://web.archive.org/web/20040208071005/http://entertainment.msn.co.jp/331450.armx)。 また、スイングジャーナル刊『ジャズ読本2005』の「Jazz Vocal 2004 ジャズ・ボーカル新黄金時代」で馬場啓一は、米国ジャズ・ヴォーカル・グループと比較し、「これほど個性的なグループは、世界的規模で見ても、ない」、と述べている。またジャズ評論家の岡崎正通は「（スキャット唱法以上の）発展の可能性がほとんどないと思われていた“声”によるグループ表現に、鮮やかな突破口を開いた」と評し、「『世界にふたつとないユニークなアカペラ・コーラス・グループ』というキャッチ・コピーは、少しも大袈裟ではない」、と述べている（スイングジャーナル2005年2月号）。スイングジャーナル誌上では同誌が毎年行なっている人気投票のボーカルグループ部門で2004年から7年間連続して第1位となった。
+プロデューサーの伊藤は「XUXUジャンルという新しい音楽表現」による「これまでにない種類のアカペラであり音楽」であると述べている[1](https://web.archive.org/web/20040208071005/http://entertainment.msn.co.jp/331450.armx)。 また、スイングジャーナル刊『ジャズ読本2005』の「Jazz Vocal 2004 ジャズ・ボーカル新黄金時代」で馬場啓一は、米国ジャズ・ヴォーカル・グループと比較し、「これほど個性的なグループは、世界的規模で見ても、ない」、と述べている。またジャズ評論家の岡崎正通は「（スキャット唱法以上の）発展の可能性がほとんどないと思われていた“声”によるグループ表現に、鮮やかな突破口を開いた」と評し、「『世界にふたつとないユニークなアカペラ・コーラス・グループ』というキャッチ・コピーは、少しも大袈裟ではない」、と述べている（スイングジャーナル2005年2月号）。スイングジャーナル誌上では同誌が毎年行なっている人気投票のボーカルグループ部門で2004年から7年間連続して第1位となった。
 
 ## 年譜
 
@@ -141,10 +141,9 @@
 
 ## 外部リンク
 
-  - [A Cappella Quartet XUXU](http://www.xuxu442.com/)（公式サイト）
-  - [アカペラカルテット XUXU オフィシャルブログ](http://xuxu442.jugem.jp/)
+  - [アカペラユニット XUXU](http://www.xuxu442.com/)（公式サイト）
+  - [アカペラユニット XUXU オフィシャルブログ](http://xuxu442.jugem.jp/)
   - [pension 3361\*BLACK](http://3361black.com/pension/)（レーベルの連絡先: 住所、電話番号、FAX番号）
-  - [OOPS\! - アーティスト ： XUXU ( シュシュ )](http://oops-music.com/info/view.html?oid=15446&type=A)
   - [XUXU](http://www.jazzpage.net/xuxu/) @ JazzPage.net 【『[か・れ・は](http://www.jazzpage.net/rireki/cd/xuxu_kareha.html)』『[ピアニスツ](http://www.jazzpage.net/rireki/cd/xuxu_pianist.htm)』『[ねぇ、](http://www.jazzpage.net/rireki/cd/xuxu_ne.htm)』『[the B](http://www.jazzpage.net/rireki/cd/xuxu_b.html)』】
 
 <!-- end list -->

@@ -341,7 +341,6 @@ DJゲストにCOSIOが出演<br />
   - [S.S.T.BAND](../Page/S.S.T.BAND.md "wikilink") - セガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")並びに[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）の楽曲を演奏するバンド
   - [コナミ矩形波倶楽部](../Page/コナミ矩形波倶楽部.md "wikilink") - [コナミのサウンドチームおよびバンド](../Page/コナミホールディングス.md "wikilink")
   - [H.](https://ja.wikipedia.org/wiki/H. "wikilink") - [セガグループ](https://ja.wikipedia.org/wiki/セガホールディングス "wikilink")（セガゲームス、セガ・インタラクティブ）のサウンドチーム
-  - [C.S.T.BAND](../Page/C.S.T.BAND.md "wikilink") - [コンパイルのサウンドチームおよびバンド](../Page/コンパイル_\(企業\).md "wikilink")
   - [GAMADELIC](https://ja.wikipedia.org/wiki/ゲーマデリック "wikilink") - [データイースト](../Page/データイースト.md "wikilink")のサウンドチームおよびバンド
   - [ALFH LYRA](https://ja.wikipedia.org/wiki/ALFH_LYRA "wikilink")（旧名はアルフ・ライラ・ワ・ライラ） - [カプコン](../Page/カプコン.md "wikilink")の楽曲を演奏する[ガールズバンド](../Page/ガールズバンド.md "wikilink")
   - [J.D.K.BAND](../Page/J.D.K.BAND.md "wikilink") - [日本ファルコム](../Page/日本ファルコム.md "wikilink")の楽曲を演奏するバンド
@@ -359,7 +358,7 @@ DJゲストにCOSIOが出演<br />
   -
   - [Ustream配信サイト](http://www.ustream.tv/channel/zuntata)
 
-[Category:ゲームクリエイター](https://ja.wikipedia.org/wiki/Category:ゲームクリエイター "wikilink") [Category:ゲーム音楽グループ](https://ja.wikipedia.org/wiki/Category:ゲーム音楽グループ "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:タイトー](https://ja.wikipedia.org/wiki/Category:タイトー "wikilink") [Category:日本のレコード・レーベル](https://ja.wikipedia.org/wiki/Category:日本のレコード・レーベル "wikilink") [Category:ゲーム音楽レーベル](https://ja.wikipedia.org/wiki/Category:ゲーム音楽レーベル "wikilink")
+[Category:ゲーム音楽グループ](https://ja.wikipedia.org/wiki/Category:ゲーム音楽グループ "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:タイトー](https://ja.wikipedia.org/wiki/Category:タイトー "wikilink") [Category:日本のレコード・レーベル](https://ja.wikipedia.org/wiki/Category:日本のレコード・レーベル "wikilink") [Category:ゲーム音楽レーベル](https://ja.wikipedia.org/wiki/Category:ゲーム音楽レーベル "wikilink")
 
 1.
 2.

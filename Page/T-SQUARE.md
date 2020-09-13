@@ -5,7 +5,7 @@
 
 一般的には[ジャズ](../Page/ジャズ.md "wikilink")・[フュージョンのスタイルとして認知され](../Page/フュージョン_\(音楽\).md "wikilink")、メディアでもそのように取り扱われているが、当人らは自身を「ポップ・インストゥルメンタル・バンド」と称している。[サックスや](../Page/サクソフォーン.md "wikilink")[ウィンドシンセを前面に出した音楽が特徴](../Page/ウインドシンセサイザー.md "wikilink")。
 
-現在[T-SQUARE Music Entertainment Inc.所属](https://ja.wikipedia.org/wiki/T-SQUARE_Music_Entertainment "wikilink")。最新作は、2019年4月24日発売の『[HORIZON](https://ja.wikipedia.org/wiki/HORIZON_\(T-SQUAREのアルバム\) "wikilink")』。
+現在[T-SQUARE Music Entertainment Inc.所属](https://ja.wikipedia.org/wiki/T-SQUARE_Music_Entertainment "wikilink")。
 
 ## 歴史
 
@@ -33,7 +33,7 @@
 
 また、この時期はホールツアーやライブハウスツアーに加えて[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")におけるスペシャルライブ「野音であそぶ」の開催、タイアップに伴うシングル発売、海外レコーディングや、海外ミュージシャンや名門オーケストラをゲストに招いての企画盤の制作が毎年のように行われており、80年代のようなセールス的な盛り上がりはないものの非常にクリエイティブで充実した活動が行われていた時期でもあった。[1994年](../Page/1994年.md "wikilink")には[韓国でコンサートを実施](../Page/大韓民国.md "wikilink")。当時韓国政府により、日本の芸能文化の上演が厳しく規制された中、韓国政府の公認を得ての日本人コンサートの上演を行う。以後現在まで韓国ではコンスタントに公演を行っている。
 
-本田の在籍期間7年の中でメンバーチェンジは一度もなく、その間7枚のオリジナルアルバムを発表、スクェアの歴史の中で2番目に長く続いた体制となった（[2012年](../Page/2012年.md "wikilink")に、現在の安藤・伊東・河野・坂東の体制が一番長く続いている体制となった）。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にフロントを7年間務めた本田、そして16年の長きに渡ってバンドサウンドの中核を担った和泉の2人が同時に脱退。3人目のフロントマンとして[宮崎隆睦](../Page/宮崎隆睦.md "wikilink")、16年ぶりの新キーボーディストとして[難波正司](https://ja.wikipedia.org/wiki/難波正司 "wikilink")を迎える。この時も伊東脱退時と同じく「FAREWELL & WELCOME LIVE」が開催されている。
+本田の在籍期間7年の中でメンバーチェンジは一度もなく、その間7枚のオリジナルアルバムを発表、スクェアの歴史の中で2番目に長く続いた体制となった（[2012年](../Page/2012年.md "wikilink")に、安藤・伊東・河野・坂東の体制が一番長く続いた体制となった）。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にフロントを7年間務めた本田、そして16年の長きに渡ってバンドサウンドの中核を担った和泉の2人が同時に脱退。3人目のフロントマンとして[宮崎隆睦](../Page/宮崎隆睦.md "wikilink")、16年ぶりの新キーボーディストとして[難波正司](https://ja.wikipedia.org/wiki/難波正司 "wikilink")を迎える。この時も伊東脱退時と同じく「FAREWELL & WELCOME LIVE」が開催されている。
 
 ### 宮崎隆睦の加入 - ユニット化へ
 
@@ -65,9 +65,11 @@
 
 2014年、デビュー時よりバンドのマネジメントおよびプロデュースを務めてきた青木幹夫がソニー・ミュージック・アーティスツを定年退職となったことを期に、青木の設立した新事務所[T-SQUARE Music Entertainmentに移籍](https://ja.wikipedia.org/wiki/T-SQUARE_Music_Entertainment "wikilink")。それに伴い所属レーベルも事務所傘下のOrange Ladyへ移籍となり、翌2015年の41枚目のアルバム『[Paradise](https://ja.wikipedia.org/wiki/Paradise_\(T-SQUAREのアルバム\) "wikilink")』が新レーベルの作品第1弾となった。
 
-2017年からは、現行メンバーに旧メンバーを交える形（あるいは旧メンバーのみ）での「THE SQUARE Reunion」でのライブ活動も行っている。翌2018年の11月には仙波清彦、久米大作、和泉宏隆、田中豊雪、長谷部徹、則竹裕之、須藤満、宮崎隆睦の8人を迎えた「T-SQUARE & THE SQUARE Reunion」の名義で、デビュー40周年記念作となる45枚目のオリジナルアルバム『[It's a Wonderful Life\!](https://ja.wikipedia.org/wiki/It's_a_Wonderful_Life!_\(T-SQUAREのアルバム\) "wikilink")』を発表した。
+2017年からは、現行メンバーに旧メンバーを交える形（あるいは旧メンバーのみ）での「THE SQUARE Reunion」でのライブ活動も行っている。翌2018年の11月には仙波清彦、久米大作、和泉宏隆、田中豊雪、長谷部徹、則竹裕之、須藤満、宮崎隆睦の8人を迎えた「T-SQUARE & THE SQUARE Reunion」の名義で、デビュー40周年記念作となる45枚目のオリジナルアルバム『[It's a Wonderful Life\!](../Page/It's_a_Wonderful_Life!_\(T-SQUAREのアルバム\).md "wikilink")』を発表した。
 
 2019年2月には河野が[脳出血](../Page/脳出血.md "wikilink")で入院加療とリハビリを余儀なくされたため、ロサンゼルスで行われたアルバムのレコーディングには河野の代役として[フィリップ・セス](../Page/フィリップ・セス.md "wikilink")が参加し\[3\]、同年の3月から4月に開催されるライブには関しては、[白井アキト](https://ja.wikipedia.org/wiki/白井アキト "wikilink")や[佐藤雄大がサポートとしてキーボードを担当する](https://ja.wikipedia.org/wiki/佐藤雄大_\(キーボーディスト\) "wikilink")\[4\]。
+
+河野は2019年末の神戸チキンジョージの公演で復帰し翌年のアルバムにも参加したが、2020年8月27日、正式メンバーから退くことを公式サイトにて発表した。但し、河野は今後も音楽活動を続けていく意向であり、所属事務所も変わらない\[5\]。
 
 ## メンバーの変遷
 
@@ -234,18 +236,29 @@ GROOVE GLOBE</p></td>
 <td><p>伊東たけし</p></td>
 <td><p>（則竹裕之）</p></td>
 <td><p>（<a href="https://ja.wikipedia.org/wiki/河野啓三" title="wikilink">河野啓三</a>）</p></td>
-<td><p>（{{#tag:ref|ツアーサポートは、2000年は<a href="../Page/村上聖.md" title="wikilink">村上聖</a>、2001年は池田達也、2002年はコモブチキイチロウ、2003年は須藤、2004年は<a href="https://ja.wikipedia.org/wiki/森岡克司" title="wikilink">森岡克司</a>がそれぞれ参加。|group="注釈"}}）</p></td>
+<td><p>（{{#tag:ref|ツアーサポートは、2000年は<a href="../Page/村上聖.md" title="wikilink">村上聖</a>、2001年は<a href="https://ja.wikipedia.org/wiki/池田達也" title="wikilink">池田達也</a>、2002年は<a href="https://ja.wikipedia.org/wiki/コモブチキイチロウ" title="wikilink">コモブチキイチロウ</a>、2003年は須藤、2004年は<a href="https://ja.wikipedia.org/wiki/森岡克司" title="wikilink">森岡克司</a>がそれぞれ参加。|group="注釈"}}）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2005年 - 現在</p></td>
+<td><p>2005年 - 2019年</p></td>
 <td><p>PASSION FLOWER<br />
 ↓<br />
-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/坂東慧" title="wikilink">坂東慧</a>{{#tag:ref|2019年の韓国公演は坂東のスケジュールの都合で<a href="https://ja.wikipedia.org/wiki/山本真央樹" title="wikilink">山本真央樹</a>がサポートで参加した。|group="注釈"}}</p></td>
+HORIZON</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/坂東慧" title="wikilink">坂東慧</a>{{#tag:ref|坂東のスケジュールの都合で、2019年の韓国公演は<a href="https://ja.wikipedia.org/wiki/山本真央樹" title="wikilink">山本真央樹</a>が、2020年2月28日-3月1日に開催されたジャカルタ国際BNIジャワ・ジャズ・フェスティバルに出演した際は<a href="https://ja.wikipedia.org/wiki/川口千里_(ドラマー)" title="wikilink">川口千里が</a>、それぞれサポートで参加した。|group="注釈"}}</p></td>
 <td><p>河野啓三{{#tag:ref|2019年は河野が<a href="../Page/脳出血.md" title="wikilink">脳出血</a>での入院加療とリハビリによる休養のため、アルバム『HORIZON』のレコーディングは<a href="../Page/フィリップ・セス.md" title="wikilink">フィリップ・セス</a>が代役、ツアーは<a href="https://ja.wikipedia.org/wiki/白井アキト" title="wikilink">白井アキト</a>と<a href="https://ja.wikipedia.org/wiki/佐藤雄大_(キーボーディスト)" title="wikilink">佐藤雄大がサポートとして参加</a>。|group="注釈"}}</p></td>
-<td><p>（<a href="https://ja.wikipedia.org/wiki/田中晋吾" title="wikilink">田中晋吾</a>{{#tag:ref|2019年の韓国公演は田中のスケジュールの都合で須藤がサポートで参加した。|group="注釈"}}）</p></td>
+<td><p>（<a href="https://ja.wikipedia.org/wiki/田中晋吾" title="wikilink">田中晋吾</a> {{#tag:ref|2008年にデビュー30周年を記念して新旧メンバーで結成された「T-SQUARE SUPER BAND」には不参加。|group="注釈"}}）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020年</p></td>
+<td><p>AI Factory</p></td>
+<td><p>河野啓三{{#tag:ref|2019年末の神戸チキンジョージ公演で復帰したが、リハビリ中のため2020年のアルバム『AI Factory』と7月23日に開催された無観客生配信コンサートにのみサポートの白井と2人体制で参加した。|group="注釈"}}<br />
+（<a href="https://ja.wikipedia.org/wiki/白井アキト" title="wikilink">白井アキト</a>）</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -297,7 +310,7 @@ GROOVE GLOBE</p></td>
   - HEAVEN KNOWS（オーケストラヴァージョン、[フジテレビ系列ドラマ](../Page/フジネットワーク.md "wikilink")『[ヘルプ\!](../Page/ヘルプ!_\(テレビドラマ\).md "wikilink")』テーマ曲）
   - COPACABANA（TBSラジオ『岩男潤子のプクプクペンギンパーク』エンディングテーマ曲、[bayfm](../Page/ベイエフエム.md "wikilink")『[BAY SIDE FREEWAY](../Page/BAY_SIDE_FREEWAY.md "wikilink")』エンディングテーマ曲）
   - 夏の蜃気楼（[鹿児島読売テレビ](../Page/鹿児島讀賣テレビ.md "wikilink")『[KYTニュースプラス1](../Page/KYTニュースプラス1.md "wikilink")』テーマ曲）
-  - TRIUMPH（フジテレビ系列『[スーパー競馬](../Page/スーパー競馬.md "wikilink")』スタジオテーマ曲、北海道文化放送『ドラマチック競馬』1998年スタジオテーマ曲、TBSラジオ『[荒川強啓 デイ・キャッチ\!](../Page/荒川強啓_デイ・キャッチ!.md "wikilink")』内・[JRN](https://ja.wikipedia.org/wiki/JRN "wikilink")系列『[ネットワークTODAY](https://ja.wikipedia.org/wiki/ネットワークTODAY "wikilink")』の中にあるスポーツコーナー、「[ジョージア](../Page/ジョージア_\(缶コーヒー\).md "wikilink") “ほっと”インフォメーション」テーマ曲、日本テレビ系列『[ズームイン\!\!朝\!](../Page/ズームイン!!朝!.md "wikilink")』プロ野球いれコミ情報のBGM、FBS[福岡放送](../Page/福岡放送.md "wikilink")『[めんたいワイド](../Page/めんたいワイド.md "wikilink")』オープニング曲）
+  - TRIUMPH（フジテレビ系列『[スーパー競馬](../Page/スーパー競馬.md "wikilink")』スタジオテーマ曲、北海道文化放送『ドラマチック競馬』1998年スタジオテーマ曲、TBSラジオ『[荒川強啓 デイ・キャッチ\!](../Page/荒川強啓_デイ・キャッチ!.md "wikilink")』内・[JRN系列](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")『[ネットワークTODAY](https://ja.wikipedia.org/wiki/ネットワークTODAY "wikilink")』の中にあるスポーツコーナー、「[ジョージア](../Page/ジョージア_\(缶コーヒー\).md "wikilink") “ほっと”インフォメーション」テーマ曲、日本テレビ系列『[ズームイン\!\!朝\!](../Page/ズームイン!!朝!.md "wikilink")』プロ野球いれコミ情報のBGM、FBS[福岡放送](../Page/福岡放送.md "wikilink")『[めんたいワイド](../Page/めんたいワイド.md "wikilink")』オープニング曲）
   - SUNNYSIDE CRUISE（[ラジオ大阪](../Page/大阪放送.md "wikilink")『OBC イブニング6』テーマ曲）
   - SPLASH\!（[テレビ高知](../Page/テレビ高知.md "wikilink")『[KUTVニュース](../Page/KUTVニュース.md "wikilink")』テーマ曲、[ニッポン放送](../Page/ニッポン放送.md "wikilink")、[STVラジオ](../Page/STVラジオ.md "wikilink")、[TBCラジオ](../Page/東北放送.md "wikilink")、[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")、[RCCラジオ](../Page/中国放送.md "wikilink")、[KBCラジオ](../Page/KBCラジオ.md "wikilink")『[キリン一番搾りプレゼンツICHIBANプレーヤー\!](https://ja.wikipedia.org/wiki/ショウアップナイタープレイボール#麒麟麦酒コーナー "wikilink")』BGM）
   - PRIME TIME（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[Jリーグ中継](../Page/Jリーグ中継_\(NHK\).md "wikilink")』テーマ曲）
@@ -343,7 +356,7 @@ GROOVE GLOBE</p></td>
 
 ### スポーツ
 
-  - Moon Over The Castle（[コンサドーレ札幌ホームゲーム入場曲](https://ja.wikipedia.org/wiki/北海道コンサドーレ札幌 "wikilink")。演奏者：[ANDY'S](../Page/安藤正容.md "wikilink")、1997年 - ）\[5\]
+  - Moon Over The Castle（[コンサドーレ札幌ホームゲーム入場曲](https://ja.wikipedia.org/wiki/北海道コンサドーレ札幌 "wikilink")。演奏者：[ANDY'S](../Page/安藤正容.md "wikilink")、1997年 - ）\[6\]
 
 ### 他のアーティストにカヴァーされた曲
 
@@ -401,8 +414,9 @@ GROOVE GLOBE</p></td>
 | *[TREASURE HUNTER](https://ja.wikipedia.org/wiki/TREASURE_HUNTER "wikilink")*                                               | 2016.04.27 | OLCH-10003   |                                   |
 | *[REBIRTH](https://ja.wikipedia.org/wiki/REBIRTH_\(T-SQUAREのアルバム\) "wikilink")*                                             | 2017.04.26 | OLCH-10007   |                                   |
 | *[CITY COASTER](https://ja.wikipedia.org/wiki/CITY_COASTER "wikilink")*                                                     | 2018.04.25 | OLCH-10010   |                                   |
-| *[It's a Wonderful Life\!](https://ja.wikipedia.org/wiki/It's_a_Wonderful_Life!（T-SQUAREのアルバム） "wikilink")*                 | 2018.11.14 | OLCH10013-4  | 「T-SQUARE & THE SQUARE Reunion」名義 |
+| *[It's a Wonderful Life\!](../Page/It's_a_Wonderful_Life!_\(T-SQUAREのアルバム\).md "wikilink")*                                 | 2018.11.14 | OLCH10013-4  | 「T-SQUARE & THE SQUARE Reunion」名義 |
 | *[HORIZON](https://ja.wikipedia.org/wiki/HORIZON_\(T-SQUAREのアルバム\) "wikilink")*                                             | 2019.04.24 | OLCH10015-16 |                                   |
+| *[AI Factory](https://ja.wikipedia.org/wiki/AI_Factory "wikilink")*                                                         | 2020.06.10 | OLCH10017-18 |                                   |
 
 品番は[ヴィレッジ・ミュージック](https://ja.wikipedia.org/wiki/ヴィレッジ・ミュージック "wikilink")より発売されている現行のもの。
 
@@ -667,10 +681,11 @@ OLXL-70011[Blu-ray]</p></td>
   -
   -
   -
-[Category:日本のジャズ・バンド](https://ja.wikipedia.org/wiki/Category:日本のジャズ・バンド "wikilink") [Category:日本のフュージョン・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のフュージョン・ミュージシャン "wikilink") [Category:T-SQUAREのアルバム](https://ja.wikipedia.org/wiki/Category:T-SQUAREのアルバム "wikilink") [Category:ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアーティスツ "wikilink") [Category:1976年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1976年に結成した音楽グループ "wikilink")
+[Category:日本のジャズ・バンド](https://ja.wikipedia.org/wiki/Category:日本のジャズ・バンド "wikilink") [Category:日本のフュージョン・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のフュージョン・ミュージシャン "wikilink") [Category:T-SQUAREのアルバム](https://ja.wikipedia.org/wiki/Category:T-SQUAREのアルバム "wikilink") [Category:ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアーティスツ "wikilink") [Category:1976年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1976年に結成した音楽グループ "wikilink") [Category:インストゥルメンタルの音楽グループ](https://ja.wikipedia.org/wiki/Category:インストゥルメンタルの音楽グループ "wikilink")
 
 1.  共演自体は初めてではなく、CROSSOVER JAPANなどで度々共演し、一緒に演奏したこともある。
 2.  中村は現在[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")に在住しており、このライブのために一時帰国した。
 3.
 4.
-5.
+5.  \>
+6.

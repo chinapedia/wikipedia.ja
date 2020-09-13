@@ -125,7 +125,7 @@
 
 ## 脚注
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink") [Category:吉本興業ユニット](https://ja.wikipedia.org/wiki/Category:吉本興業ユニット "wikilink") [Category:2001年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に結成した音楽グループ "wikilink") [Category:2003年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に解散した音楽グループ "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink")
+[Category:日本のダンス・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のダンス・ミュージシャン "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink") [Category:吉本興業ユニット](https://ja.wikipedia.org/wiki/Category:吉本興業ユニット "wikilink") [Category:2001年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に結成した音楽グループ "wikilink") [Category:2003年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に解散した音楽グループ "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink")
 
 1.  [やすとものどこいこ！？](http://www.tv-osaka.co.jp/ip4/yasutomo_smp/housou/1247644_9093.html)
 2.  [たかいとしひこツイッター(2017年6月26日)](https://mobile.twitter.com/TakaiToshihiko/status/879129016988389376)

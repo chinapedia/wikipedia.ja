@@ -1,9 +1,7 @@
 > この記事は[JR藤森駅](https://ja.wikipedia.org/wiki/JR藤森駅)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Fujinomori2.JPG "wikilink") [JR-Fujinomori-Station-from-south.jpg](https://ja.wikipedia.org/wiki/File:JR-Fujinomori-Station-from-south.jpg "fig:JR-Fujinomori-Station-from-south.jpg")
-
-**JR藤森駅**（ジェイアールふじのもりえき）は、[京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")[伏見区](../Page/伏見区.md "wikilink")[深草](https://ja.wikipedia.org/wiki/深草 "wikilink")大亀谷大山町にある、[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）[奈良線](../Page/奈良線.md "wikilink")の[駅である](../Page/鉄道駅.md "wikilink")。駅番号は**JR-D04**。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Fujinomori2.JPG "wikilink") [JR-Fujinomori-Station-from-south.jpg](https://ja.wikipedia.org/wiki/File:JR-Fujinomori-Station-from-south.jpg "fig:JR-Fujinomori-Station-from-south.jpg") **JR藤森駅**（ジェイアールふじのもりえき）は、[京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")[伏見区](../Page/伏見区.md "wikilink")[深草](https://ja.wikipedia.org/wiki/深草 "wikilink")大亀谷大山町にある、[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）[奈良線](../Page/奈良線.md "wikilink")の[駅である](../Page/鉄道駅.md "wikilink")。駅番号は**JR-D04**。
 
 ## 概要
 
@@ -130,7 +128,7 @@
 
 ## 駅周辺
 
-JR藤森という駅名を名乗ってはいるが、京阪本線の藤森駅とは離れており、むしろ[墨染駅](https://ja.wikipedia.org/wiki/墨染駅 "wikilink")の方が近い。ただし住所表記としての、[京都市](../Page/京都市.md "wikilink")[伏見区](../Page/伏見区.md "wikilink")深草藤森町（[京都教育大学](https://ja.wikipedia.org/wiki/京都教育大学 "wikilink")の所在地）からは最も近い位置にある。
+JR藤森という駅名を名乗ってはいるが、京阪本線の藤森駅とは離れており、むしろ[墨染駅](https://ja.wikipedia.org/wiki/墨染駅 "wikilink")の方が近い。ただし住所表記としての[伏見区](../Page/伏見区.md "wikilink")深草藤森町（[京都教育大学](https://ja.wikipedia.org/wiki/京都教育大学 "wikilink")の所在地）からは最も近い位置にある。
 
   - [京都教育大学](https://ja.wikipedia.org/wiki/京都教育大学 "wikilink") - もともとは「京都教育大学前」の駅名を名乗る計画もあった。
   - [藤森神社](../Page/藤森神社.md "wikilink")
@@ -168,7 +166,7 @@ JR藤森という駅名を名乗ってはいるが、京阪本線の藤森駅と
   -
 [Category:伏見区の鉄道駅](https://ja.wikipedia.org/wiki/Category:伏見区の鉄道駅 "wikilink") [Category:日本の鉄道駅_し](https://ja.wikipedia.org/wiki/Category:日本の鉄道駅_し "wikilink") [Category:西日本旅客鉄道の鉄道駅](https://ja.wikipedia.org/wiki/Category:西日本旅客鉄道の鉄道駅 "wikilink") [Category:1997年開業の鉄道駅](https://ja.wikipedia.org/wiki/Category:1997年開業の鉄道駅 "wikilink") [Category:奈良線](https://ja.wikipedia.org/wiki/Category:奈良線 "wikilink")
 
-1.  [奈良線桃山・稲荷間新駅の開業について](http://web.archive.org/web/19980205234029/www.westjr.co.jp/new/1press/n970116b.html)（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")）- 西日本旅客鉄道プレスリリース 1997年1月16日
+1.  [奈良線桃山・稲荷間新駅の開業について](https://web.archive.org/web/19980205234029/www.westjr.co.jp/new/1press/n970116b.html)（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")）- 西日本旅客鉄道プレスリリース 1997年1月16日
 2.
-3.  [「ICOCA」いよいよデビュー\! 〜 平成15年11月1日（土）よりサービス開始いたします 〜](http://web.archive.org/web/20040803184954/www.westjr.co.jp/news/newslist/article/030820a.html)（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")） - 西日本旅客鉄道プレスリリース 2003年8月30日
+3.  [「ICOCA」いよいよデビュー\! 〜 平成15年11月1日（土）よりサービス開始いたします 〜](https://web.archive.org/web/20040803184954/www.westjr.co.jp/news/newslist/article/030820a.html)（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")） - 西日本旅客鉄道プレスリリース 2003年8月30日
 4.

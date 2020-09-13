@@ -32,6 +32,7 @@
       - [OK magazine](../Page/OK_magazine.md "wikilink") - [オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink") [MARTIJN Association](../Page/MARTIJN.md "wikilink") の[機関誌](https://ja.wikipedia.org/wiki/機関誌 "wikilink")
       - [オーサカキング](../Page/オーサカキング.md "wikilink") - [毎日放送](../Page/毎日放送.md "wikilink")主催のイベント
       - [o.k.](https://ja.wikipedia.org/wiki/o.k. "wikilink") () - 1970年のドイツ映画。『[カジュアリティーズ](../Page/カジュアリティーズ.md "wikilink")』（1989 米）としてリメイク。
+      - OK\! - [東京メトロ有楽町線](../Page/東京メトロ有楽町線.md "wikilink")[池袋駅](https://ja.wikipedia.org/wiki/池袋駅 "wikilink")4番線の[発車メロディ](../Page/発車メロディ.md "wikilink")。[塩塚博](https://ja.wikipedia.org/wiki/塩塚博 "wikilink")作曲。
   - [川崎車輌OK形台車](../Page/川崎車輌OK形台車.md "wikilink") - [川崎車輌の](../Page/川崎重工業車両カンパニー.md "wikilink")[台車の形式記号](../Page/鉄道車両の台車.md "wikilink")。
   - [オーケイ](../Page/オーケイ.md "wikilink") - [松竹芸能](../Page/松竹芸能.md "wikilink")所属の芸人
   - [OKディンギー](https://ja.wikipedia.org/wiki/OKディンギー "wikilink") () - [ディンギー](../Page/ディンギー.md "wikilink")の競技クラス

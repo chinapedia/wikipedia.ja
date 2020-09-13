@@ -12,6 +12,9 @@
   - 1945年（昭和20年）[8月13日](../Page/8月13日.md "wikilink") - 放送再開。
   - [1950年](../Page/1950年.md "wikilink")（昭和25年）[6月1日](../Page/6月1日.md "wikilink") - [放送法](../Page/放送法.md "wikilink")施行に伴い社団法人日本放送協会が解散。[特殊法人](../Page/特殊法人.md "wikilink")としての**日本放送協会**が設立され一切の権利義務を継承。
   - [1958年](../Page/1958年.md "wikilink")（昭和33年）12月22日 - 総合テレビジョン放送開始。
+  - [1964年](../Page/1964年.md "wikilink")（昭和39年）1月20日 - 教育テレビジョン（Eテレ）放送開始。
+      - 5月20日 - FM放送開始。
+  - [1968年](../Page/1968年.md "wikilink")（昭和43年）5月21日 - 新会館完成。
   - [2006年](../Page/2006年.md "wikilink")（平成18年）[12月1日](../Page/12月1日.md "wikilink") - 地上デジタル放送開始（[長崎市](../Page/長崎市.md "wikilink")[稲佐山](../Page/稲佐山.md "wikilink")から送信）。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）[1月24日](../Page/1月24日.md "wikilink") - [対馬市](../Page/対馬市.md "wikilink")内のアナログテレビ中継局のうち、[厳原中継局](https://ja.wikipedia.org/wiki/厳原中継局 "wikilink")を除く5局（南厳原（みなみいづはら）、佐須奈（さすな）、対馬伊奈（つしまいな）、志多留（したる）、比田勝（ひたかつ））が先行廃止（[長崎放送](../Page/長崎放送.md "wikilink")・[テレビ長崎](../Page/テレビ長崎.md "wikilink")も同様）。
   - 2011年（平成23年）[7月24日](../Page/7月24日.md "wikilink") - アナログ放送終了。
@@ -215,16 +218,16 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/高山真樹" title="wikilink">高山真樹</a></p></td>
-<td><p><a href="../Page/NHK放送センター.md" title="wikilink">ラジオセンター</a></p></td>
+<td><p><a href="../Page/池田耕一郎.md" title="wikilink">池田耕一郎</a></p></td>
+<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td><p>放送部副部長<br />
 長崎県のニュース</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/木花牧雄" title="wikilink">木花牧雄</a></p></td>
-<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イブニング長崎" title="wikilink">イブニング長崎</a><br />
 （キャスター）</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/黒氏康博.md" title="wikilink">黒氏康博</a></p></td>
@@ -247,41 +250,46 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/嶋田ココ.md" title="wikilink">嶋田ココ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/上田悠華子" title="wikilink">上田悠華子</a></p></td>
 <td></td>
 <td><p>イブニング長崎</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/辻原麻希" title="wikilink">辻原麻希</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/寺田美穂" title="wikilink">寺田美穂</a></p></td>
 <td><p><a href="../Page/NHK佐賀放送局.md" title="wikilink">佐賀</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/福光瞳" title="wikilink">福光瞳</a></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ながさきナビゲーター_ヒルミテ" title="wikilink">ながさきナビゲーター ヒルミテ</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/西牟田知佳" title="wikilink">西牟田知佳</a></p></td>
 <td><p>|</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/斎藤綾乃.md" title="wikilink">斎藤綾乃</a></p></td>
 <td><p><a href="../Page/NHK沖縄放送局.md" title="wikilink">沖縄</a></p></td>
 <td><p>イブニング長崎</p></td>

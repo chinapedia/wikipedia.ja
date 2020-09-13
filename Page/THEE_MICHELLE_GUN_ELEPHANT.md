@@ -9,7 +9,7 @@
 
 1990年代後半に巻き起こった日本の[オルタナティヴ・ロック](../Page/オルタナティヴ・ロック.md "wikilink")ブーム、[ロック・フェスティバル](../Page/ロック・フェスティバル.md "wikilink")の勃興の中で、無骨ながらも硬派な音楽性とビジュアルでロックファンのみならず一般大衆を巻き込み人気を博した。
 
-活動期間は決して長くないものの、解散した現在でも数多くのミュージシャンやロックファンに影響を与えており、1990年代の日本における伝説のロックバンドと称されることも多い。
+活動期間は決して長くないものの、解散した現在でも数多くのミュージシャンやロックファンに影響を与えている。
 
 ## メンバー
 
@@ -68,7 +68,7 @@
       -
         [1968年](../Page/1968年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")生まれ。[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")出身。脱退後は**THE WATTER**のギター担当として活動している。
 
-上記の他にも、結成時に在籍し、直後に脱退した旧メンバーが2名挙げられるが、氏名が公表されていないのでここでは割愛する。なお、シガケイイチはアルバム『MAXIMUM\! MAXIMUM\!\! MAXIMUM\!\!\!』に氏名が掲載されている。
+上記の他にも、結成時に在籍し、直後に脱退した旧メンバーが2名挙げられるが、氏名が公表されていない。なお、シガケイイチはアルバム『MAXIMUM\! MAXIMUM\!\! MAXIMUM\!\!\!』に氏名が掲載されている。
 
 ## バンドの特徴
 
@@ -150,7 +150,11 @@
 
 ### t.A.T.u事件
 
-[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")に初出演した際に、ロシアの女性デュオアーティスト「[t.A.T.u.](https://ja.wikipedia.org/wiki/t.A.T.u. "wikilink")」が、オープニングには出たものの楽屋から出てこず、ひな壇にも座らず、挙句には歌わずにボイコットし、逃亡。ミッシェルは先に歌っており、CMを挟みタモリがt.A.T.u.に呼びかけ、再びCMに入った。CM中に現場の空気は騒然とし、生放送なためほとんどのアーティストが生演奏を出来る状況ではなかった。その際にメンバーが「俺らもう一曲歌えたじゃん」と冗談を言ったところ、スタッフから「是非歌ってくれ！」と申し出があり、ミッシェルは最初から生演奏で歌っていたため、2曲目も対応が出来た。 t.A.T.u.が逃亡した事に対してメンバー全員が大爆笑しており、後日に「出たくねぇって、俺らは出たくて仕方ねぇっつうのによ！」と笑いにしていた。
+「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」に初出演した際に、ロシアの女性デュオアーティスト「[t.A.T.u.](https://ja.wikipedia.org/wiki/t.A.T.u. "wikilink")」が、オープニングには出たものの楽屋から出てこず、ひな壇にも座らず、挙句には歌わずにボイコット。ミッシェルは先に歌っており、CMを挟みタモリがt.A.T.u.に呼びかけ、再びCMに入った。CM中に現場の空気は騒然とし、生放送なためほとんどのアーティストが生演奏を出来る状況ではなかった。その際にメンバーが「俺らもう一曲歌えたじゃん」と冗談を言ったところ、スタッフから「是非歌ってくれ！」と申し出があり、ミッシェルは最初から生演奏で歌っていたため、2曲目も対応が出来た。
+
+この時歌唱したのは「ミッドナイト・クラクション・ベイビー」で、放送時間に合わせるためCDの音源よりも早いテンポで演奏が行われた。このことに関しては2020年8月21日放送回で番組ディレクターが証言した。
+
+t.A.T.u.が逃亡した事に対してメンバー全員が大爆笑しており、後日に「出たくねぇって、俺らは出たくて仕方ねぇっつうのによ！」と笑いにしていた。
 
 ### 交友関係
 
@@ -545,7 +549,7 @@ M-12「400円の一人旅」</p></td>
 「リリィ at 幕張メッセ」「水色の水〜「太陽をつかんでしまった」Limited EditionDVDより」</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Higuchinsky" title="wikilink">Higuchinsky</a></p></td>
+<td><p><a href="../Page/Higuchinsky.md" title="wikilink">Higuchinsky</a></p></td>
 <td><p>「<a href="https://www.youtube.com/watch?v=Ue8QB7VEzYU">BABY STARDUST</a>」「<a href="https://www.youtube.com/watch?v=O3f5oDn0OV8">BOOGIE</a>」「<a href="https://www.youtube.com/watch?v=f5s1VaeidAE">CISCO〜想い出のサンフランシスコ (She's gone)</a>」<br />
 「<a href="https://www.youtube.com/watch?v=Pa-K6J7mnx4">G.W.D</a>」「<a href="https://www.youtube.com/watch?v=6kPN76OJoM0">GOD JAZZ TIME〜World Rodeo Tandem Beat Specter Tour Final〜</a>」「<a href="https://www.youtube.com/watch?v=a7qMw0c-xpw">GT400</a>」<br />
 「<a href="https://www.youtube.com/watch?v=C0X4wtMXYvg">Get Up Lucy</a>」「<a href="https://www.youtube.com/watch?v=iH__4NYanUU">OUT BLUES</a>」「<a href="https://www.youtube.com/watch?v=AKJnR8JPX2Q">THE BIRDMEN</a>」<br />
@@ -647,7 +651,7 @@ M-12「400円の一人旅」</p></td>
 
 \[[https://www.wwdjapan.com/articles/788075\]WWD](https://www.wwdjapan.com/articles/788075%5DWWD) JAPANのインタビューより2019年2月5日</ref>
 
-  - ホリエアツシ（[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")）\[25\]
+  - ホリエアツシ、ナカヤマシンペイ （[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")）\[25\]
   - [マキシマムザ亮君](https://ja.wikipedia.org/wiki/マキシマムザホルモン "wikilink")\[26\]
   - 湯浅将平（[Base Ball Bear](../Page/Base_Ball_Bear.md "wikilink")）\[27\]
   - YONCE（[Suchmos](https://ja.wikipedia.org/wiki/Suchmos "wikilink")）
@@ -703,7 +707,7 @@ M-12「400円の一人旅」</p></td>
 
 ## 外部リンク
 
-  - [rockin'blues.com](https://rockin-blues.com/category/thee-michelle-gun-elephant/) - 公式ウェブサイト
+  - [THEE MICHELLE GUN ELEPHANT – rockin'blues](https://rockin-blues.com/thee-michelle-gun-elephant/) - 公式ウェブサイト
 
   -
   -
@@ -713,7 +717,7 @@ M-12「400円の一人旅」</p></td>
 
   - [THEE MICHELLE GUN ELEPHANT SEASON LIMITED WEB SITE](https://web.archive.org/web/20111005150845/http://www.thee.asia/)（アーカイヴ）
 
-[Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:ガレージロック・バンド](https://ja.wikipedia.org/wiki/Category:ガレージロック・バンド "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:パブロック・バンド](https://ja.wikipedia.org/wiki/Category:パブロック・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:ブルースロック・バンド](https://ja.wikipedia.org/wiki/Category:ブルースロック・バンド "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:日本コロムビアのアーティスト](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアーティスト "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:1991年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1991年に結成した音楽グループ "wikilink") [Category:2003年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に解散した音楽グループ "wikilink")
+[Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:ガレージロック・バンド](https://ja.wikipedia.org/wiki/Category:ガレージロック・バンド "wikilink") [Category:パブロック・バンド](https://ja.wikipedia.org/wiki/Category:パブロック・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:ブルースロック・バンド](https://ja.wikipedia.org/wiki/Category:ブルースロック・バンド "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:日本コロムビアのアーティスト](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアーティスト "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:1991年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1991年に結成した音楽グループ "wikilink") [Category:2003年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に解散した音楽グループ "wikilink")
 
 1.  1997年5月6日放送「[ミュージックスクエア (NHK-FM)](../Page/ミュージックスクエア_\(NHK-FM\).md "wikilink")」ゲスト出演時におけるウエノの発言より。
 2.

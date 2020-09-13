@@ -7,7 +7,7 @@
 
 トロンフォーラムが組込み総合技術展（主催:一般社団法人組込みシステム技術協会）で毎年実施している、「組込みシステムにおけるリアルタイムOSの利用動向に関するアンケート調査」によれば、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では長年組み込みOSのトップシェアを占めており、業界標準のOSとして採用されている。例えば2016年度の調査では、組み込み系において（ITORNやT-Kernelなどを含む）TRON系OSのシェアが全体の約6割を占めたが、（μITRONを含む）ITRON系OSのシェアだけで全体の43%に達し、TRONに続くシェア2位となった（POSIXを含む）UNIX系OSの20%を引き離している\[1\]。
 
-なお、海外では2010年代の時点では[Android](../Page/Android.md "wikilink")や[Ubuntu](../Page/Ubuntu.md "wikilink")などの[Linux](../Page/Linux.md "wikilink")系OSが組み込み用としては圧倒的で、ITRONやT-Kernelなどを含むTRON系OSは全く使われておらず、海外でも販売されている日本製家電製品やトヨタ自動車の車載用OSとして使われて来たという歴史的事実のみ知られている（[:en:Usage_share_of_operating_systems](https://ja.wikipedia.org/wiki/:en:Usage_share_of_operating_systems "wikilink")および[:en:ITRON projectを参照](https://ja.wikipedia.org/wiki/:en:ITRON_project "wikilink")）。
+なお、海外では2010年代の時点では[Androidや](../Page/Android_\(オペレーティングシステム\).md "wikilink")[Ubuntu](../Page/Ubuntu.md "wikilink")などの[Linux](../Page/Linux.md "wikilink")系OSが組み込み用としては圧倒的で、ITRONやT-Kernelなどを含むTRON系OSは全く使われておらず、海外でも販売されている日本製家電製品やトヨタ自動車の車載用OSとして使われて来たという歴史的事実のみ知られている（[:en:Usage_share_of_operating_systems](https://ja.wikipedia.org/wiki/:en:Usage_share_of_operating_systems "wikilink")および[:en:ITRON projectを参照](https://ja.wikipedia.org/wiki/:en:ITRON_project "wikilink")）。
 
 海外ではあまり知名度がないが、日本製家電に搭載されて世界に輸出されているため、OSのシェア自体は高い。2003年の時点でOSのシェアが世界1位とされた\[2\]。ライセンスが緩く、無料だったので、Linuxが普及する2000年代以前はアジアでもかなり使われていた。
 

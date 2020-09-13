@@ -17,7 +17,7 @@
 
 ### 新放送センター建替計画に伴う扱い
 
-スタジオパークが所在するNHK放送センターは、築年数の経過・施設の狭隘化に伴い、[2020年](../Page/2020年.md "wikilink")度から順次施設の建替が予定されている。スタジオパークは、建替後の新放送センターにおいても敷地北側に設けられる公開棟への設置が予定されているが、建替工事に伴い[2026年](../Page/2026年.md "wikilink")を以て現行施設での運営を終了し、長期休館となる予定だったのだが、当初よりも予定が大幅に早まり、東京オリンピック・東京パラリンピック終了後の[2020年](../Page/2020年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")を以て運営を終了し、長期休館となることになったものの、[新型コロナウイルス感染拡大とそれに伴う東京オリンピック](../Page/2019新型コロナウイルス.md "wikilink")・パラリンピック開催延期で、建替スケジュールの変更を余儀なくされたため、さらに閉館日を前倒しし、同年5月11日に閉館した。新放送センターでの再オープンは[2036年](../Page/2036年.md "wikilink")を予定しているが、その間の代替施設として渋谷駅前の[NHKプラスクロスSHIBUYA](../Page/NHKプラスクロスSHIBUYA.md "wikilink")や港区の[NHK放送博物館](../Page/NHK放送博物館.md "wikilink")、地域のNHKの放送局などを活用する予定、としている\[5\]。なお、土曜午後に当施設のスタジオから生放送されている『[土曜スタジオパーク](../Page/土曜スタジオパーク.md "wikilink")』については、6月末までは当施設内のスタジオから放送し、7月からは放送センター内の別のスタジオからの生放送に切り替えて継続するという。
+スタジオパークが所在するNHK放送センターは、築年数の経過・施設の狭隘化に伴い、[2020年](../Page/2020年.md "wikilink")度から順次施設の建替が予定されている。スタジオパークは、建替後の新放送センターにおいても敷地北側に設けられる公開棟への設置が予定されているが、建替工事に伴い[2026年](../Page/2026年.md "wikilink")を以て現行施設での運営を終了し、長期休館となる予定だったのだが、当初よりも予定が大幅に早まり、東京オリンピック・東京パラリンピック終了後の[2020年](../Page/2020年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")を以て運営を終了し、長期休館となることになったものの、[新型コロナウイルス感染拡大とそれに伴う](../Page/2019新型コロナウイルス.md "wikilink")[東京オリンピック](https://ja.wikipedia.org/wiki/2020年東京オリンピック "wikilink")・[パラリンピック開催延期で](https://ja.wikipedia.org/wiki/2020年東京パラリンピック "wikilink")、建替スケジュールの変更を余儀なくされたため、さらに閉館日を前倒しし、同年5月11日に閉館した。これをもって見学コースから54年半の歴史に幕を閉じた\[5\]\[6\]。新放送センターでの再オープンは[2036年](../Page/2036年.md "wikilink")を予定しているが、その間の代替施設として渋谷駅前の[NHKプラスクロスSHIBUYA](../Page/NHKプラスクロスSHIBUYA.md "wikilink")や港区の[NHK放送博物館](../Page/NHK放送博物館.md "wikilink")、地域のNHKの放送局などを活用する予定としている\[7\]。なお、土曜午後に当施設のスタジオから生放送されている『[土曜スタジオパーク](../Page/土曜スタジオパーク.md "wikilink")』については、6月27日までは当施設内のスタジオから放送し、7月4日からは放送センター内の別のスタジオからの生放送に切り替えて継続する\[8\]。
 
 ## 沿革
 
@@ -32,7 +32,7 @@
   - 2019年3月24日 - スタジオカフェが閉鎖。
   - 2019年3月31日 - スタジオショップとイベントホールが閉鎖。
   - 2019年6月 - 休館日を毎週火曜日に変更。
-  - 2020年5月11日 - [新型コロナ感染拡大で](https://ja.wikipedia.org/wiki/COVID-19 "wikilink")2月26日から臨時休館していたが、放送センター建て替え計画に伴う工期に支障が出たことで、再開する事なく前倒しで閉館した\[6\]。
+  - 2020年5月11日 - 新型コロナウイルス感染拡大で2月26日から臨時休館していたが、放送センター建て替え計画に伴う工期に支障が出たことで、再開する事なく前倒しで閉館した\[9\]。
 
 ## スタジオパークの施設
 
@@ -249,30 +249,26 @@
 <tbody>
 <tr class="odd">
 <td><p>スタパDEポコポッテイト</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポコポッテイト" title="wikilink">ムテ吉</a>、<a href="https://ja.wikipedia.org/wiki/ポコポッテイト" title="wikilink">ミーニャ</a>、<a href="https://ja.wikipedia.org/wiki/ポコポッテイト" title="wikilink">メーコブ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ポコポッテイト" title="wikilink">ムテ吉</a>、<a href="https://ja.wikipedia.org/wiki/ポコポッテイト" title="wikilink">ミーニャ</a>、<a href="https://ja.wikipedia.org/wiki/ポコポッテイト" title="wikilink">メーコブ</a> |-この年の3月で終了。</p></td>
 </tr>
 <tr class="even">
-<td><p>スタパDEワンワン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ワンワン_(いないいないばあっ!)" title="wikilink">ワンワン</a></p></td>
-</tr>
-<tr class="odd">
 <td><p>おとうさんといっしょ レオてつコンサート</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/安藤奈保子" title="wikilink">なお</a>、<a href="https://ja.wikipedia.org/wiki/元木聖也" title="wikilink">せいや</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>つくってあそぼショー</p></td>
 <td><p><a href="../Page/久保田雅人.md" title="wikilink">ワクワクさん</a>、<a href="../Page/つくってあそぼ.md" title="wikilink">ゴロリ</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>パッコロリン ミニステージショー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/パッコロリン" title="wikilink">パックン</a>、<a href="https://ja.wikipedia.org/wiki/パッコロリン" title="wikilink">リン</a>、<a href="https://ja.wikipedia.org/wiki/パッコロリン" title="wikilink">コロン</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>どーもくんショー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/どーもくん" title="wikilink">どーもくん</a>、<a href="https://ja.wikipedia.org/wiki/どーもくん" title="wikilink">うさじい</a>、<a href="https://ja.wikipedia.org/wiki/どーもくん" title="wikilink">たーちゃん</a><br />
 <a href="https://ja.wikipedia.org/wiki/太田めぐみ" title="wikilink">太田めぐみ</a>、<a href="https://ja.wikipedia.org/wiki/わたなべなたわ" title="wikilink">わたなべなたわ</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ワンワンとあそぼうショー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ワンワン_(いないいないばあっ!)" title="wikilink">ワンワン</a>、<a href="https://ja.wikipedia.org/wiki/太田めぐみ" title="wikilink">太田めぐみ</a></p></td>
 </tr>
@@ -606,5 +602,8 @@
 2.
 3.  尾野真千子、朝ドラな日々で「ちょい太った」スポーツ報知 2011年10月10日
 4.  [スタジオパーク リニューアル特番](http://cgi2.nhk.or.jp/navi/detail/index.cgi?id=11a3) NHK 秋の新番組・注目番組 秋ナビ、2011年10月（随時更新）
-5.  [放送センター建替 基本計画の概要 - NHK](https://www.nhk.or.jp/pr/keiei/otherpress/pdf/20160830.pdf)
+5.
 6.
+7.
+8.
+9.

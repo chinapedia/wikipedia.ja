@@ -66,7 +66,6 @@
 | [愛媛県](../Page/愛媛県.md "wikilink")                                  | [エフエム愛媛](../Page/エフエム愛媛.md "wikilink")（JOEU-FM）                              |                    |       |
 | [高知県](../Page/高知県.md "wikilink")                                  | [エフエム高知](../Page/エフエム高知.md "wikilink")（Hi-Six）                               |                    |       |
 | [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")               | [エフエム熊本](../Page/エフエム熊本.md "wikilink")（FMK）                                  |                    |       |
-| [宮崎県](../Page/宮崎県.md "wikilink")                                  | [エフエム宮崎](../Page/エフエム宮崎.md "wikilink")（JOY FM）                               |                    |       |
 | [岩手県](../Page/岩手県.md "wikilink")                                  | [エフエム岩手](../Page/エフエム岩手.md "wikilink")（FM IWATE）                             | 毎週土曜 26:00 - 27:00 |       |
 | [秋田県](../Page/秋田県.md "wikilink")                                  | [エフエム秋田](../Page/エフエム秋田.md "wikilink")（AFM）                                  |                    |       |
 | [静岡県](../Page/静岡県.md "wikilink")                                  | [静岡エフエム放送](../Page/静岡エフエム放送.md "wikilink")（K-MIX）                            |                    |       |
@@ -76,6 +75,7 @@
 | [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")               | [エフエム仙台](../Page/エフエム仙台.md "wikilink")（Date fm）                              | 毎週土曜 27:00 - 28:00 |       |
 | [群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")               | [エフエム群馬](../Page/エフエム群馬.md "wikilink")（FMぐんま）                                | 毎週日曜 24:00 - 25:00 |       |
 | [長野県](../Page/長野県.md "wikilink")                                  | [長野エフエム放送](../Page/長野エフエム放送.md "wikilink")（FM長野）                             |                    |       |
+| [宮崎県](../Page/宮崎県.md "wikilink")                                  | [エフエム宮崎](../Page/エフエム宮崎.md "wikilink")（JOY FM）                               | \[11\]             |       |
 | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")               | [エフエム北海道](../Page/エフエム北海道.md "wikilink")（AIR-G'）                             | 毎週日曜 25:00 - 26:00 |       |
 | [広島県](../Page/広島県.md "wikilink")                                  | [広島エフエム放送](../Page/広島エフエム放送.md "wikilink")（HFM）                              |                    |       |
 |                                                                   |                                                                              |                    |       |
@@ -174,7 +174,7 @@
 </tbody>
 </table>
 
-2011年4月2日・3日放送分をもってAMラジオ局（HBC・IBS・KBS京都・wbs・RSK）での放送を終了。北海道に関してはAIR-G'に移行された（同局においては新規ネット）。また、茨城・京都・滋賀の3地域ではネット移行局はなし。代わりにRADIO BERRYとレディオキューブ FM三重で7年ぶりのネットが再開された。結局ネット局数の増減はない（但し事実上JFN系列番組化）が、移行局のない地域では周辺局の受信可能な地域でしか聴取出来なくなる\[11\]。なお同年4月の改編により近畿地区における当番組の聴取は同地区に隣接するFMラジオ局（FM FUKUI、レディオキューブ FM三重、FM AICHI、V-air、FM OKAYAMA。地域によって受信可能な局は異なる）が受信可能な一部の地域を除き不可能となった\[12\]。
+2011年4月2日・3日放送分をもってAMラジオ局（HBC・IBS・KBS京都・wbs・RSK）での放送を終了。北海道に関してはAIR-G'に移行された（同局においては新規ネット）。また、茨城・京都・滋賀の3地域ではネット移行局はなし。代わりにRADIO BERRYとレディオキューブ FM三重で7年ぶりのネットが再開された。結局ネット局数の増減はない（但し事実上JFN系列番組化）が、移行局のない地域では周辺局の受信可能な地域でしか聴取出来なくなる\[12\]。なお同年4月の改編により近畿地区における当番組の聴取は同地区に隣接するFMラジオ局（FM FUKUI、レディオキューブ FM三重、FM AICHI、V-air、FM OKAYAMA。地域によって受信可能な局は異なる）が受信可能な一部の地域を除き不可能となった\[13\]。
 
 上記の聴取不可になった地域は、LISMO WAVE（[auの携帯電話](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")・Android対応のスマートフォンで聴取可能なサービス）やドコデモFM（[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")およびiPhoneで聴取可能なサービス）や[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")プレミアム（2014年4月サービス開始）で聴取可能になっている。ただし、ほとんどの放送局でプロテクトが掛かっていたため、実際に放送が聞けるのはFM-NIIGATAなどわずかであった。
 
@@ -204,6 +204,7 @@
 7.  2008年3月最終週で一旦ネットを終了し、同年7月第1週からネット再開。
 8.
 9.
-10. 長い間 28:00 - 29:00での放送だったが、2010年4月3日に現在の放送時間に変更。
-11. 茨城の場合はRADIO BERRY・ふくしまFM・FMぐんまが、京都・滋賀の場合はFM FUKUI・レディオキューブ FM三重・FM AICHIが受信可能な一部地域に限定される。
-12. 佐賀・大分の場合はfm fukuoka・FM Nagasaki・FMK・JOEU-FM・FMYで聴取可能。
+10. 長い間 28:00 - 29:00での放送だったが、2010年4月3日に放送時間に変更。
+11. 2013年3月までは 25:00 - 26:00での放送だったが、2013年4月7日からは再び放送時間に変更となった。
+12. 茨城の場合はRADIO BERRY・ふくしまFM・FMぐんまが、京都・滋賀の場合はFM FUKUI・レディオキューブ FM三重・FM AICHIが受信可能な一部地域に限定される。
+13. 佐賀・大分の場合はfm fukuoka・FM Nagasaki・FMK・JOEU-FM・FMYで聴取可能。

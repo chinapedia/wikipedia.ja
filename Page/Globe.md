@@ -9,6 +9,8 @@
 
 ## メンバー
 
+### 現メンバー
+
   - [TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
     小室哲哉（[東京都](../Page/東京都.md "wikilink")出身、[1958年](../Page/1958年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink") - ）[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")、[編曲](../Page/編曲.md "wikilink")、[シンセサイザー](../Page/シンセサイザー.md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[ギター](../Page/ギター.md "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - [MARC PANTHER](../Page/マーク・パンサー.md "wikilink")
@@ -17,6 +19,10 @@
     ケイコ（本名: 小室桂子/旧姓: 山田、[大分県](../Page/大分県.md "wikilink")[臼杵市](../Page/臼杵市.md "wikilink")出身、[1972年](../Page/1972年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink") - ）作詞、コーラス、ボーカル担当
 
 globeが特定のメンバーをフィーチャーするときはglobe featuring ○○という形式を取る。過去にglobe featuring KEIKO、globe featuring MARC、globe featuring TK名義で、それぞれCDを発売をしている。
+
+### 元メンバー
+
+  - [YOSHIKI](../Page/YOSHIKI.md "wikilink")
 
 ## 来歴
 
@@ -28,7 +34,7 @@ globeが特定のメンバーをフィーチャーするときはglobe featuring
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月9日](../Page/8月9日.md "wikilink")1stシングル「Feel Like dance」（[オリコン](../Page/オリコン.md "wikilink")初登場3位）でデビュー、いきなり95万枚の大ヒットに。続く2枚目の「[Joy to the love (globe)](../Page/Joy_to_the_love_\(globe\).md "wikilink")」で早くも[オリコン](../Page/オリコン.md "wikilink")初登場1位を記録し、3枚目の「SWEET PAIN」（[オリコン](../Page/オリコン.md "wikilink")初登場2位）も90万枚を突破し、デビュー間もなくして[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")寸前となるヒット作を連発。知名度が爆発的に上昇するに至って、globeはテレビや音楽番組への出演を解禁。同時に、「Feel Like dance」のPVをglobeの歌唱映像に変更するなど、次第に露出度を増やしていくことになった。
 
-[1996年](../Page/1996年.md "wikilink")JR東海のCMソングに起用された[1月1日](../Page/1月1日.md "wikilink")発売の4thシングル「[DEPARTURES](../Page/DEPARTURES.md "wikilink")」は売上230万枚の大ヒットとなる。同曲は[オリコン年間シングルチャート](../Page/オリコンチャート.md "wikilink")2位、[プラネット](https://ja.wikipedia.org/wiki/プラネット "wikilink")と[CDTVの年間シングルチャート](../Page/COUNT_DOWN_TV.md "wikilink")1位を記録した。さらにデビューから僅か7ヶ月にして[3月31日](../Page/3月31日.md "wikilink")発売の1stアルバム『[globe](https://ja.wikipedia.org/wiki/globe_\(アルバム\) "wikilink")』は売上400万枚以上のヒットとなった（翌年4月、出荷枚数455万枚の当時の日本記録を達成）。このアルバムは、同年の[第38回日本レコード大賞](https://ja.wikipedia.org/wiki/第38回日本レコード大賞 "wikilink")アルバム賞に選ばれた。その後、[GLAY](../Page/GLAY.md "wikilink")と[B'z](../Page/B'z.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")がこの記録を後を追うように更新するが、当時のavex依田会長は「オリジナルで超えてみろ」と発言したとされる。[8月28日](../Page/8月28日.md "wikilink")発売シングル「[Is this love](../Page/Is_this_love.md "wikilink")」のPVはアメリカ・[アリゾナ州](https://ja.wikipedia.org/wiki/アリゾナ州 "wikilink")で撮影され、当時としては総額1億円という破格の撮影費が投じられた。 9月『Private Tour house of globe』。ロードムービー撮影という名目のglobe初のツアーを敢行。「Is this love」のCD購入者から抽選で招待してコンサートが行われた。10月には「DEPARTURES」に続くJR東海のCMソングとして「[Can't Stop Fallin' in Love](../Page/Can't_Stop_Fallin'_in_Love.md "wikilink")」をリリースし130万枚のミリオンセラーを記録。同曲で年末の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")に初出場を果たした。
+[1996年](../Page/1996年.md "wikilink")、[JR東日本](https://ja.wikipedia.org/wiki/JR東日本 "wikilink")のCMソングに起用された[1月1日](../Page/1月1日.md "wikilink")発売の4thシングル「[DEPARTURES](../Page/DEPARTURES.md "wikilink")」は売上230万枚の大ヒットとなる。同曲は[オリコン年間シングルチャート](../Page/オリコンチャート.md "wikilink")2位、[プラネット](https://ja.wikipedia.org/wiki/プラネット "wikilink")と[CDTVの年間シングルチャート](../Page/COUNT_DOWN_TV.md "wikilink")1位を記録した。さらにデビューから僅か7ヶ月にして[3月31日](../Page/3月31日.md "wikilink")発売の1stアルバム『[globe](https://ja.wikipedia.org/wiki/globe_\(アルバム\) "wikilink")』は売上400万枚以上のヒットとなった（翌年4月、出荷枚数455万枚の当時の日本記録を達成）。このアルバムは、同年の[第38回日本レコード大賞](https://ja.wikipedia.org/wiki/第38回日本レコード大賞 "wikilink")アルバム賞に選ばれた。その後、[GLAY](../Page/GLAY.md "wikilink")と[B'z](../Page/B'z.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")がこの記録を後を追うように更新するが、当時のavex依田会長は「オリジナルで超えてみろ」と発言したとされる。[8月28日](../Page/8月28日.md "wikilink")発売シングル「[Is this love](../Page/Is_this_love.md "wikilink")」のPVはアメリカ・[アリゾナ州](https://ja.wikipedia.org/wiki/アリゾナ州 "wikilink")で撮影され、当時としては総額1億円という破格の撮影費が投じられた。 9月『Private Tour house of globe』。ロードムービー撮影という名目のglobe初のツアーを敢行。「Is this love」のCD購入者から抽選で招待してコンサートが行われた。10月には「DEPARTURES」に続くJR東海のCMソングとして「[Can't Stop Fallin' in Love](../Page/Can't_Stop_Fallin'_in_Love.md "wikilink")」をリリースし130万枚のミリオンセラーを記録。同曲で年末の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")に初出場を果たした。
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")発売の「[FACE](../Page/FACE_\(globeの曲\).md "wikilink")」も130枚を突破する自身3枚目のミリオンセラーとなり、[3月12日](../Page/3月12日.md "wikilink")には2ndアルバム『[FACES PLACES](../Page/FACES_PLACES_\(アルバム\).md "wikilink")』を発売。その後、前代未聞の[大阪](../Page/大阪ドーム.md "wikilink")、[福岡](../Page/福岡ドーム.md "wikilink")、[名古屋](../Page/ナゴヤドーム.md "wikilink")、[東京](../Page/東京ドーム.md "wikilink")4大ドームツアー「globe＠4_domes」を敢行。5月には、初の日本国外でのツアー「TK PAN-PACIFIC TOUR '97 IN TAIPEI」開催。[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")、[TRF](../Page/TRF.md "wikilink")とともに台湾・[台北](https://ja.wikipedia.org/wiki/台北 "wikilink")を訪れ、テレビ出演やライブを行った。
 
@@ -98,7 +104,7 @@ globeが特定のメンバーをフィーチャーするときはglobe featuring
 
 [2017年](../Page/2017年.md "wikilink")[8月15日](../Page/8月15日.md "wikilink")、小室自身の公式Instagramにて、療養中であるKEIKOの歌声を公開した\[15\]。動画には「2016〜2017 KEIKO」と文字が浮かんでおり、小室は「病気後に創って唄ってみたkeikoの声です。きっと今はもっと上手になってると思う」とコメントしている。なお、KEIKOが病気発症以降、本人の歌声が公開されたのは初めてとなる。
 
-[2018年](../Page/2018年.md "wikilink")1月、小室が芸能界引退を発表（これに伴い小室は事実上globeから脱退）。
+[2018年](../Page/2018年.md "wikilink")1月、小室が芸能界引退を発表したため、事実上脱退となっていたが、 [2020年](../Page/2020年.md "wikilink")7月、小室が芸能界復帰を発表（これに伴い小室は事実上globeに復帰)。
 
 ## globe extreme
 
@@ -810,12 +816,14 @@ CD</p></td>
   - 1996年 アルバム『[globe](https://ja.wikipedia.org/wiki/globe_\(アルバム\) "wikilink")』[第38回日本レコード大賞](https://ja.wikipedia.org/wiki/第38回日本レコード大賞 "wikilink")・アルバム大賞受賞
   - 1998年 シングル『[wanna Be A Dreammaker](https://ja.wikipedia.org/wiki/wanna_Be_A_Dreammaker "wikilink")』[第40回日本レコード大賞](https://ja.wikipedia.org/wiki/第40回日本レコード大賞 "wikilink")・大賞受賞
 
-## NHK紅白歌合戦
+## NHK紅白歌合戦出場歴
 
-  - [1996年](../Page/1996年.md "wikilink")「[Can't Stop Fallin' in Love](../Page/Can't_Stop_Fallin'_in_Love.md "wikilink")」/ [第47回NHK紅白歌合戦](../Page/第47回NHK紅白歌合戦.md "wikilink")
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")「[wanna Be A Dreammaker](https://ja.wikipedia.org/wiki/wanna_Be_A_Dreammaker "wikilink")」/ [第49回NHK紅白歌合戦](../Page/第49回NHK紅白歌合戦.md "wikilink")
-  - [1999年](../Page/1999年.md "wikilink")「[YOU ARE THE ONE](../Page/YOU_ARE_THE_ONE.md "wikilink")」/ [第50回NHK紅白歌合戦](../Page/第50回NHK紅白歌合戦.md "wikilink")
-      - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")1月1日に発売された「TK presents こねっと」の楽曲をglobe versionで披露。アルバム「Love again」「CRUISE RECORD 1995-2000」収録
+| 年度/放送回                                                  | 曲目                         | 対戦相手                                       | 備考                                                     |
+| ------------------------------------------------------- | -------------------------- | ------------------------------------------ | ------------------------------------------------------ |
+| 1996年（平成8年）/[第47回](../Page/第47回NHK紅白歌合戦.md "wikilink")  | Can't Stop Fallin' in Love | [米米CLUB](../Page/米米CLUB.md "wikilink")     |                                                        |
+| 1998年（平成10年）/[第49回](../Page/第49回NHK紅白歌合戦.md "wikilink") | wanna Be A Dreammaker      | [GLAY](../Page/GLAY.md "wikilink")         |                                                        |
+| 1999年（平成11年）/[第50回](../Page/第50回NHK紅白歌合戦.md "wikilink") | YOU ARE THE ONE            | [ソン・フィルトル](../Page/ソン・フィルトル.md "wikilink") | 1997年1月1日に発売された「TK presents こねっと」の楽曲をglobe versionで披露。 |
+|                                                         |                            |                                            |                                                        |
 
 ## 受賞歴
 
@@ -849,7 +857,7 @@ CD</p></td>
   - [globe decade Blog](https://blog.excite.co.jp/globedecade)
 
   -
-[Category:Globe](https://ja.wikipedia.org/wiki/Category:Globe "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:実験音楽のバンド](https://ja.wikipedia.org/wiki/Category:実験音楽のバンド "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:オリコン年間アルバムチャート1位獲得アーティスト](https://ja.wikipedia.org/wiki/Category:オリコン年間アルバムチャート1位獲得アーティスト "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:日本レコード大賞受賞者](https://ja.wikipedia.org/wiki/Category:日本レコード大賞受賞者 "wikilink") [Category:1995年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1995年に結成した音楽グループ "wikilink")
+[Category:Globe](https://ja.wikipedia.org/wiki/Category:Globe "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:実験音楽のバンド](https://ja.wikipedia.org/wiki/Category:実験音楽のバンド "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:オリコン年間アルバムチャート1位獲得アーティスト](https://ja.wikipedia.org/wiki/Category:オリコン年間アルバムチャート1位獲得アーティスト "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:日本レコード大賞受賞者](https://ja.wikipedia.org/wiki/Category:日本レコード大賞受賞者 "wikilink") [Category:1995年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1995年に結成した音楽グループ "wikilink")
 
 1.  正確には「GLOBE-GENERATION」としての活動
 2.  [ダイヤモンド社](../Page/ダイヤモンド社.md "wikilink")刊『[FM STATION](../Page/FM_STATION.md "wikilink")』1996年2月5日号29Pより。

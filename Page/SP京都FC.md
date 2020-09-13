@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1986年](../Page/1986年.md "wikilink")に[佐川印刷](https://ja.wikipedia.org/wiki/佐川印刷 "wikilink")のサッカー部として創部。[2000年](../Page/2000年.md "wikilink")に[関西サッカーリーグ](../Page/関西サッカーリーグ.md "wikilink")、[2003年](../Page/2003年.md "wikilink")に[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")（JFL）へそれぞれ昇格した\[1\]。また、[2014年](../Page/2014年.md "wikilink")より登録チーム名を「佐川印刷京都サッカークラブ」、呼称を「佐川印刷京都」へ変更\[2\]。さらに[2015年](../Page/2015年.md "wikilink")より「SP京都フットボールクラブ」（呼称：SP京都FC）に名称変更した\[3\]。
+[1986年](../Page/1986年.md "wikilink")に**[佐川印刷](https://ja.wikipedia.org/wiki/佐川印刷 "wikilink")**のサッカー部として創部。[2000年](../Page/2000年.md "wikilink")に[関西サッカーリーグ](../Page/関西サッカーリーグ.md "wikilink")、[2003年](../Page/2003年.md "wikilink")に[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")（JFL）へそれぞれ昇格した\[1\]。また、[2014年](../Page/2014年.md "wikilink")より登録チーム名を「**佐川印刷京都サッカークラブ**」、呼称を「佐川印刷京都」へ変更\[2\]。さらに[2015年](../Page/2015年.md "wikilink")より「**SP京都フットボールクラブ**」（呼称：SP京都FC）に名称変更した\[3\]。
 
 ## 歴史
 
@@ -37,25 +37,23 @@
 ## 成績・歴代監督
 
 <table>
-<thead>
-<tr class="header">
-<th><p>年度</p></th>
-<th><p>所属</p></th>
-<th><p>順位</p></th>
-<th><p>試合</p></th>
-<th><p>勝点</p></th>
-<th><p>勝利</p></th>
-<th><p>引分</p></th>
-<th><p>敗戦</p></th>
-<th><p>得点</p></th>
-<th><p>失点</p></th>
-<th><p>得失</p></th>
-<th><p><a href="../Page/天皇杯_JFA_全日本サッカー選手権大会.md" title="wikilink">天皇杯</a></p></th>
-<th><p>監督</p></th>
-</tr>
-</thead>
 <tbody>
 <tr class="odd">
+<td><p>年度</p></td>
+<td><p>所属</p></td>
+<td><p>順位</p></td>
+<td><p>試合</p></td>
+<td><p>勝点</p></td>
+<td><p>勝</p></td>
+<td><p>分</p></td>
+<td><p>敗</p></td>
+<td><p>得点</p></td>
+<td><p>失点</p></td>
+<td><p>得失差</p></td>
+<td><p><a href="../Page/天皇杯_JFA_全日本サッカー選手権大会.md" title="wikilink">{{font</a></p></td>
+<td><p>監督</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2000年の地域リーグ_(サッカー)" title="wikilink">2000</a></p></td>
 <td><p><a href="../Page/関西サッカーリーグ.md" title="wikilink">関西</a></p></td>
 <td><p>4位</p></td>
@@ -70,7 +68,7 @@
 <td><p>府予選敗退</p></td>
 <td><p>田中克季</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2001年の地域リーグ_(サッカー)" title="wikilink">2001</a></p></td>
 <td><p>2位</p></td>
 <td><p>18</p></td>
@@ -85,7 +83,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2002年の地域リーグ_(サッカー)" title="wikilink">2002</a></p></td>
 <td><p><strong>優勝</strong></p></td>
 <td><p>9</p></td>
@@ -100,7 +98,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/第5回日本フットボールリーグ.md" title="wikilink">2003</a></p></td>
 <td><p><a href="../Page/日本フットボールリーグ.md" title="wikilink">JFL</a></p></td>
 <td><p>15位</p></td>
@@ -115,7 +113,7 @@
 <td><p>府予選敗退</p></td>
 <td><p><a href="../Page/橋本雄二.md" title="wikilink">橋本雄二</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/第6回日本フットボールリーグ.md" title="wikilink">2004</a></p></td>
 <td><p>12位</p></td>
 <td><p>30</p></td>
@@ -130,7 +128,7 @@
 <td><p>田中克季</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/第7回日本フットボールリーグ.md" title="wikilink">2005</a></p></td>
 <td><p>11位</p></td>
 <td><p>30</p></td>
@@ -145,7 +143,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/第8回日本フットボールリーグ.md" title="wikilink">2006</a></p></td>
 <td><p>15位</p></td>
 <td><p>34</p></td>
@@ -161,7 +159,7 @@
  田中克季(9/3-)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/第9回日本フットボールリーグ.md" title="wikilink">2007</a></p></td>
 <td><p>12位</p></td>
 <td><p>34</p></td>
@@ -176,7 +174,7 @@
 <td><p>橋本雄二</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/第10回日本フットボールリーグ.md" title="wikilink">2008</a></p></td>
 <td><p>11位</p></td>
 <td><p>34</p></td>
@@ -191,7 +189,7 @@
 <td><p><a href="../Page/中森大介.md" title="wikilink">中森大介</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/第11回日本フットボールリーグ" title="wikilink">2009</a></p></td>
 <td><p>9位</p></td>
 <td><p>34</p></td>
@@ -206,7 +204,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/第12回日本フットボールリーグ" title="wikilink">2010</a></p></td>
 <td><p>6位</p></td>
 <td><p>34</p></td>
@@ -221,7 +219,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/第13回日本フットボールリーグ" title="wikilink">2011</a></p></td>
 <td><p>12位</p></td>
 <td><p>33</p></td>
@@ -236,7 +234,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/第14回日本フットボールリーグ" title="wikilink">2012</a></p></td>
 <td><p>7位</p></td>
 <td><p>32</p></td>
@@ -251,7 +249,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/第15回日本フットボールリーグ" title="wikilink">2013</a></p></td>
 <td><p>6位</p></td>
 <td><p>34</p></td>
@@ -266,7 +264,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/伊藤健一_(サッカー選手)" title="wikilink">伊藤健一</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/第16回日本フットボールリーグ" title="wikilink">2014</a></p></td>
 <td><p>2位</p></td>
 <td><p>26</p></td>
@@ -281,7 +279,7 @@
 <td><p><a href="../Page/辛島啓珠.md" title="wikilink">辛島啓珠</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/第17回日本フットボールリーグ" title="wikilink">2015</a></p></td>
 <td><p>6位</p></td>
 <td><p>30</p></td>
@@ -303,12 +301,12 @@
 
 ### クラブ
 
-  - [日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")
+  - **[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")**
       - 準優勝：1回（2014）
-  - [関西サッカーリーグ](../Page/関西サッカーリーグ.md "wikilink")
+  - **[関西サッカーリーグ](../Page/関西サッカーリーグ.md "wikilink")**
       - 優勝：1回（2002）
       - 準優勝：1回（2001）
-  - [京都FAカップ京都サッカー選手権大会](https://ja.wikipedia.org/wiki/京都FAカップ京都サッカー選手権大会 "wikilink")（兼[天皇杯全日本サッカー選手権大会京都府予選](../Page/天皇杯_JFA_全日本サッカー選手権大会.md "wikilink")）
+  - **[京都FAカップ京都サッカー選手権大会](https://ja.wikipedia.org/wiki/京都FAカップ京都サッカー選手権大会 "wikilink")（兼[天皇杯全日本サッカー選手権大会京都府予選](../Page/天皇杯_JFA_全日本サッカー選手権大会.md "wikilink")）**
       - 優勝：9回（2002, 2004, 2005, 2007, 2008, 2009, 2010, 2011, 2013）
       - 準優勝：5回（2001, 2006, 2012, 2014, 2015）
 
@@ -338,13 +336,50 @@
 
 ### ユニフォームスポンサー
 
-| 掲出箇所 | スポンサー名                                                | 表記   | 備考 |
-| ---- | ----------------------------------------------------- | ---- | -- |
-| 胸    | [佐川印刷](https://ja.wikipedia.org/wiki/佐川印刷 "wikilink") | 佐川印刷 |    |
-| 背中   | ジャパンニューペーパー                                           | JNP  |    |
-| 袖    | エスピーメディアテック                                           | SMT  |    |
-| パンツ  | エスピータック                                               | ST   |    |
-|      |                                                       |      |    |
+<table>
+<tbody>
+<tr class="odd">
+<td><p>掲出箇所</p></td>
+<td><p>スポンサー名</p></td>
+<td><p>表記</p></td>
+<td><p>備考</p></td>
+</tr>
+<tr class="even">
+<td><p>胸</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/佐川印刷" title="wikilink">佐川印刷</a></p></td>
+<td><p>佐川印刷<br />
+</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>背中</p></td>
+<td><p>ジャパンニューペーパー</p></td>
+<td><p>JNP<br />
+</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>袖</p></td>
+<td><p><a href="https://www.media-tec.jp/">エスピーメディアテック</a></p></td>
+<td><p>SMT<br />
+</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>パンツ</p></td>
+<td><p><a href="https://www.spcom.co.jp/sptack/">エスピータック</a></p></td>
+<td><p>ST<br />
+</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ※胸以外の3社は全て佐川印刷のグループ会社
 

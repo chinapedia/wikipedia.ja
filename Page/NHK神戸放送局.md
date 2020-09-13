@@ -110,6 +110,8 @@
 
 ## アナウンサー・キャスター
 
+  - 氏名の後の\*は過去に神戸放送局の勤務経験があるアナウンサー。
+
 <table>
 <thead>
 <tr class="header">
@@ -127,7 +129,8 @@
 <tr class="even">
 <td><p><a href="../Page/片山智彦.md" title="wikilink">片山智彦</a></p></td>
 <td><p><a href="../Page/NHK山形放送局.md" title="wikilink">山形</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Live_Love_ひょうご" title="wikilink">Live Love ひょうご</a>（キャスター）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Live_Love_ひょうご" title="wikilink">Live Love ひょうご</a><br />
+（キャスター）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/田中崇裕.md" title="wikilink">田中崇裕</a></p></td>
@@ -135,14 +138,13 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/広坂安伸.md" title="wikilink">広坂安伸</a></p></td>
-<td><p><a href="../Page/NHK大阪放送局.md" title="wikilink">大阪</a></p></td>
-<td><p><a href="../Page/兵庫ニュース845.md" title="wikilink">兵庫ニュース845</a><br />
-各種スポーツ中継</p></td>
+<td><p><a href="../Page/今城和久.md" title="wikilink">今城和久</a>*</p></td>
+<td><p><a href="../Page/NHK富山放送局.md" title="wikilink">富山</a></p></td>
+<td><p><a href="../Page/兵庫ニュース845.md" title="wikilink">兵庫ニュース845</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/北郷三穂子.md" title="wikilink">北郷三穂子</a></p></td>
-<td><p>兵庫ニュース845</p></td>
+<td><p><a href="../Page/北郷三穂子.md" title="wikilink">北郷三穂子</a>*</p></td>
+<td><p><a href="../Page/NHK大阪放送局.md" title="wikilink">大阪</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -164,7 +166,8 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/佐野純子" title="wikilink">佐野純子</a></p></td>
 <td></td>
-<td><p>Live Love ひょうご（キャスター）</p></td>
+<td><p>Live Love ひょうご<br />
+（キャスター）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/草壁愛" title="wikilink">草壁愛</a></p></td>
@@ -179,7 +182,8 @@
 <tr class="even">
 <td><p><a href="../Page/南利幸.md" title="wikilink">南利幸</a>[47]</p></td>
 <td></td>
-<td><p>Live Love ひょうご（気象キャスター）</p></td>
+<td><p>Live Love ひょうご<br />
+（気象キャスター）</p></td>
 </tr>
 </tbody>
 </table>

@@ -78,6 +78,7 @@ NHKは[2009年](../Page/2009年.md "wikilink")度から3年間の経営計画に
 
   - [宇都宮市](https://ja.wikipedia.org/wiki/宇都宮市 "wikilink")（放送局屋上）
   - [日光市](../Page/日光市.md "wikilink")
+  - [小山市](../Page/小山市.md "wikilink")（[小山駅](../Page/小山駅.md "wikilink")東口）
 
 ## 主な宇都宮局制作番組
 
@@ -126,8 +127,8 @@ NHKは[2009年](../Page/2009年.md "wikilink")度から3年間の経営計画に
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>草野茜</p></td>
-<td></td>
+<td><p>落合慶子</p></td>
+<td><p>前橋(契約キャスター)</p></td>
 <td><p>とちぎ640<br />
 ちょこトチ!<br />
 <a href="https://ja.wikipedia.org/wiki/ひるまえほっと" title="wikilink">ひるまえほっと</a></p></td>
@@ -138,7 +139,7 @@ NHKは[2009年](../Page/2009年.md "wikilink")度から3年間の経営計画に
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>亀谷渉子</p></td>
+<td><p>川島加奈代</p></td>
 <td></td>
 <td></td>
 </tr>

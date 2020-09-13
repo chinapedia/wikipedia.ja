@@ -173,9 +173,9 @@
 11. **[IN THE MOOD](https://ja.wikipedia.org/wiki/IN_THE_MOOD "wikilink") / [氷室京介](../Page/氷室京介.md "wikilink")**（2006年10月20日）
       -
         「SAY SOMETHING」にコーラスで参加。TAKURO、HISASHI、JIRO、Toshi Nagaiも演奏に参加。
-12. **[RED RIBBON Spiritual Song〜生まれ来る子供たちのために〜](https://ja.wikipedia.org/wiki/生まれ来る子供たちのために#RED_RIBBON_Spiritual_Song〜生まれ来る子供たちのために〜 "wikilink") / [AIDS チャリティ Project](https://ja.wikipedia.org/wiki/AIDS_チャリティ_Project "wikilink")**（2007年11月28日）
+12. **[RED RIBBON Spiritual Song 〜生まれ来る子供たちのために〜](https://ja.wikipedia.org/wiki/生まれ来る子供たちのために#RED_RIBBON_Spiritual_Song_〜生まれ来る子供たちのために〜 "wikilink") / [AIDS チャリティ Project](https://ja.wikipedia.org/wiki/AIDS_チャリティ_Project "wikilink")**（2007年11月28日）
       -
-        「RED RIBBON Spiritual Song〜生まれ来る子供たちのために〜」にボーカルで参加。TAKUROもギターで参加している。
+        「RED RIBBON Spiritual Song 〜生まれ来る子供たちのために〜」にボーカルで参加。TAKUROもギターで参加している。
 13. **SHU・HA・RI〜STILL LOVE〜 / [MCU](../Page/MCU_\(ラッパー\).md "wikilink")**（2009年3月11日）
       -
         「STILL LOVE」にボーカルで参加。

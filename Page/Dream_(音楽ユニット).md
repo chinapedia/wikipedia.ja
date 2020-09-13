@@ -3,7 +3,7 @@
 
 **Dream**（ドリーム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性ダンス＆ボーカルグループ。[LDH所属](../Page/LDH_\(芸能プロダクション\).md "wikilink")。レーベルは[rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
-[2000年](../Page/2000年.md "wikilink")、**dream**としてデビュー。[2007年](../Page/2007年.md "wikilink")、**DRM**（ディー・アール・エム）に改名。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、**Dream**に改名。[2017年](../Page/2017年.md "wikilink")、活動を終了。
+[2000年](../Page/2000年.md "wikilink")に**dream**としてデビュー。[2007年](../Page/2007年.md "wikilink")に**DRM**（ディー・アール・エム）と改名。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に**Dream**と改名。[2017年](../Page/2017年.md "wikilink")に活動を終了した。
 
 ## 略歴
 
@@ -144,13 +144,6 @@
 <td></td>
 <td><p>岡山県</p></td>
 <td><p>2016年12月31日脱退</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -846,7 +839,7 @@ AVCD-17579</p></td>
 
   - （2012年 - 2018年）
 
-[Category:Dream](https://ja.wikipedia.org/wiki/Category:Dream "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:LDH所属のアーティスト・歌手](https://ja.wikipedia.org/wiki/Category:LDH所属のアーティスト・歌手 "wikilink") [Category:2000年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に結成した音楽グループ "wikilink") [Category:2017年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2017年に解散した音楽グループ "wikilink")
+[Category:Dream](https://ja.wikipedia.org/wiki/Category:Dream "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:LDH所属のアーティスト・歌手](https://ja.wikipedia.org/wiki/Category:LDH所属のアーティスト・歌手 "wikilink") [Category:エイベックスのアイドル](https://ja.wikipedia.org/wiki/Category:エイベックスのアイドル "wikilink") [Category:2000年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に結成した音楽グループ "wikilink") [Category:2017年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2017年に解散した音楽グループ "wikilink")
 
 1.
 2.

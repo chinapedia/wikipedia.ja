@@ -473,7 +473,7 @@
   - [2015年](../Page/2015年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink") - 事案発生年月日（事案発生場所：ZTV本社）
   - [2016年](../Page/2016年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink") - 事案認知年月日
 
-業務において通信の秘密抵触行為を行っていたことがインターネット加入者からの指摘により発覚する。\[1\]\[2\]。
+業務において通信の秘密抵触行為を行っていたことが発覚する。\[1\]。
 
 ## 脚注
 
@@ -492,5 +492,4 @@
 
 [Category:三重県のケーブルテレビ局](https://ja.wikipedia.org/wiki/Category:三重県のケーブルテレビ局 "wikilink") [Category:滋賀県のケーブルテレビ局](https://ja.wikipedia.org/wiki/Category:滋賀県のケーブルテレビ局 "wikilink") [Category:津市の企業](https://ja.wikipedia.org/wiki/Category:津市の企業 "wikilink") [Category:和歌山県のケーブルテレビ局](https://ja.wikipedia.org/wiki/Category:和歌山県のケーブルテレビ局 "wikilink") [Category:1990年設立のテレビ局](https://ja.wikipedia.org/wiki/Category:1990年設立のテレビ局 "wikilink")
 
-1.  \[<http://tsushin-no-himitsu.hatenablog.com/>　通信の秘密の危機的状況～安心なインターネット社会のために\]
-2.  \[<https://cdn-ak.f.st-hatena.com/images/fotolife/y/yrccc51265/20170502/20170502235203.jpg>　通信の秘密の漏えいに関する報告書\]
+1.  \[<https://cdn-ak.f.st-hatena.com/images/fotolife/y/yrccc51265/20170502/20170502235203.jpg>　通信の秘密の漏えいに関する報告書（総務省への情報公開請求による開示資料）\]

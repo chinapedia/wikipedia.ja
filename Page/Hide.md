@@ -1,7 +1,7 @@
 > この記事は[Hide](https://ja.wikipedia.org/wiki/Hide)から翻訳されています。
 
 
-**hide**（ヒデ、本名：松本 秀人〈まつもと ひでと〉\[1\]、[1964年](../Page/1964年.md "wikilink")（昭和39年）[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")\[2\]\[3\] - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）[5月2日](../Page/5月2日.md "wikilink")）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[ギタリスト](../Page/ギタリスト.md "wikilink")、[歌手](../Page/歌手.md "wikilink")、[プロデューサー](../Page/音楽プロデューサー.md "wikilink")\[4\]。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横須賀市](../Page/横須賀市.md "wikilink")出身\[5\]。1987年から1997年まで[X JAPAN](../Page/X_JAPAN.md "wikilink")（旧名：X）のギタリストとして**HIDE**名義で活動\[6\]\[7\]。1989年にアルバム『[BLUE BLOOD](../Page/BLUE_BLOOD.md "wikilink")』でXのメンバーとして[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")\[8\]。 愛称は「**ヒデくん**」、「**ヒデちゃん**」。
+**hide**（ヒデ、本名：松本 秀人〈まつもと ひでと〉\[1\]、[1964年](../Page/1964年.md "wikilink")（昭和39年）[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")\[2\]\[3\] - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）[5月2日](../Page/5月2日.md "wikilink")）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[ギタリスト](../Page/ギタリスト.md "wikilink")、[歌手](../Page/歌手.md "wikilink")、[プロデューサー](../Page/音楽プロデューサー.md "wikilink")\[4\]。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横須賀市](../Page/横須賀市.md "wikilink")出身\[5\]。1987年から1997年まで[X JAPAN](../Page/X_JAPAN.md "wikilink")（旧名：X）のギタリストとして**HIDE**名義で活動\[6\]\[7\]。1989年にアルバム『[BLUE BLOOD](../Page/BLUE_BLOOD_\(Xのアルバム\).md "wikilink")』でXのメンバーとして[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")\[8\]。 愛称は「**ヒデくん**」、「**ヒデちゃん**」。
 
 1993年より、**hide**名義でソロ活動も開始し\[9\]、1996年には[レコードレーベル](../Page/レコードレーベル.md "wikilink")「LEMONed」（レモネード）を設立\[10\]。1997年のX JAPAN解散後は**hide with Spread Beaver**及び**zilch**での活動を開始するも、1998年5月2日に[急逝](../Page/突然死.md "wikilink")\[11\]\[12\]\[13\]。
 
@@ -17,17 +17,19 @@
 
 テレビやゲームが好きであり好んで視聴したり遊んだりしていた。またコンピュータに強い興味を示しており、90年代前半には、すでにライブでパソコンを使ったギミックを披露していた。1995年には自身で製作したホームページを開設している。テレビ番組の中では特にお笑い番組が好きで、当時人気を誇っていた「[ダウンタウンのごっつええ感じ](../Page/ダウンタウンのごっつええ感じ.md "wikilink")」などがお気に入りであり、[ダウンタウン](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")（特に[松本人志](../Page/松本人志.md "wikilink")）のファンでもあった。また、[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")ソフト『[スターフォックス](../Page/スターフォックス.md "wikilink")』にはまっていて、デビュー・シングルの『EYES LOVE YOU』の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は、そこから得たアイディアを取り入れている。
 
+また、子供好きでも有名で、弟でマネージャーを務めた裕士に子供が生まれたときには、とても喜んでおり 大きなぬいぐるみを買ってあげたりもしていた。また、1994年のソロツアーでは アンコールで観客の子供をステージに連れてきて、一緒に歌ったこともある。しかし、自身に子供が欲しいかを聞かれると「もし自分に子供が生まれたら、ツアーや仕事で何日も留守にするなんて 絶対に無理だと思うし、全ての情熱を子供に注いで 音楽は蔑ろになってしまうかもしれないから要らない。」「裕士に子供が生まれたから、俺は子供は要らないし、結婚もしない」と語っていた。また「世界一の親バカになる自信がある」と語ったことも。
+
 ## 音楽性と影響
 
-中学生の頃、初めて聴いた[キッス](../Page/キッス.md "wikilink")の[レコード](../Page/レコード.md "wikilink")に大きな衝撃を受け、[ロックに目覚める](../Page/ロック_\(音楽\).md "wikilink")。以後は様々なロックを聴き漁るようになり、その中でキッス（特に[エース・フレーリー](../Page/エース・フレーリー.md "wikilink")）、[ザ・クラッシュ](../Page/ザ・クラッシュ.md "wikilink")、[アイアン・メイデン](../Page/アイアン・メイデン.md "wikilink")、[ディープ・パープル](../Page/ディープ・パープル.md "wikilink")、[ヴァン・ヘイレン](../Page/ヴァン・ヘイレン.md "wikilink")、[ダムド](../Page/ダムド.md "wikilink")、[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")（[ジミー・ペイジ](../Page/ジミー・ペイジ.md "wikilink")）、[ジャパン](https://ja.wikipedia.org/wiki/ジャパン "wikilink")などに影響を受けた。[BOWWOW](../Page/BOWWOW.md "wikilink")の[山本恭司](../Page/山本恭司.md "wikilink")ファンではあるが、hideの代名詞となる「[モッキンバード](../Page/B.C.リッチ・モッキンバード.md "wikilink")」は、同じBOWWOWの[斉藤光浩](https://ja.wikipedia.org/wiki/斉藤光浩 "wikilink")が使用していたのが気になった事がきっかけであると語っている\[14\]。
+中学生の頃、初めて聴いた[キッス](../Page/キッス.md "wikilink")の[レコード](../Page/レコード.md "wikilink")に大きな衝撃を受け、[ロックに目覚める](../Page/ロック_\(音楽\).md "wikilink")。以後は様々なロックを聴き漁るようになり、その中でキッス（特に[エース・フレーリー](../Page/エース・フレーリー.md "wikilink")）、[ザ・クラッシュ](../Page/ザ・クラッシュ.md "wikilink")、[アイアン・メイデン](../Page/アイアン・メイデン.md "wikilink")、[ディープ・パープル](../Page/ディープ・パープル.md "wikilink")、[ヴァン・ヘイレン](../Page/ヴァン・ヘイレン.md "wikilink")、[ダムド](../Page/ダムド.md "wikilink")、[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")（[ジミー・ペイジ](../Page/ジミー・ペイジ.md "wikilink")）、[ジャパンなどに影響を受けた](../Page/ジャパン_\(バンド\).md "wikilink")。[BOWWOW](../Page/BOWWOW.md "wikilink")の[山本恭司](../Page/山本恭司.md "wikilink")ファンではあるが、hideの代名詞となる「[モッキンバード](../Page/B.C.リッチ・モッキンバード.md "wikilink")」は、同じBOWWOWの[斉藤光浩](https://ja.wikipedia.org/wiki/斉藤光浩 "wikilink")が使用していたのが気になった事がきっかけであると語っている\[14\]。
 
 Xの「PSYCHEDELIC VIOLENCE CRIME OF **VISUAL** SHOCK」というフレーズを考案した。これが[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")という言葉を生み出したのはhideと言われる所以になる。また、hideが音楽界に与えた視覚面や音楽面の影響は多大で、音楽ライターの[市川哲史](../Page/市川哲史.md "wikilink") からヴィジュアル系はhideから始まってhideで終わったとも言われている。
 
-のちに有名になる[マリリン・マンソン](../Page/マリリン・マンソン.md "wikilink")だが、まだ無名時代から[hide](https://ja.wikipedia.org/wiki/hide "wikilink")の大ファンだったという\[15\]。
+のちに有名になる[マリリン・マンソン](../Page/マリリン・マンソン.md "wikilink")だが、まだ無名時代から**hide**の大ファンだったという\[15\]。
 
 ## 略歴
 
-Xに加入しての初仕事は「[天才・たけしの元気が出るテレビ\!\!](../Page/天才・たけしの元気が出るテレビ!!.md "wikilink")」の企画で行われた「やしろ食堂」でのライブであった。1989年4月、Xのギタリストとしてアルバム『[BLUE BLOOD](../Page/BLUE_BLOOD.md "wikilink")』でメジャーデビュー。Xではギター以外にもバンドのビジュアル全般を担当し、メンバーの髪のセットなども行っていた\[16\]。主にYOSHIKIがXの作詞・作曲を行っていたが、HIDEも一部の曲で作詞・作曲を担当\[17\]。
+Xに加入しての初仕事は「[天才・たけしの元気が出るテレビ\!\!](../Page/天才・たけしの元気が出るテレビ!!.md "wikilink")」の企画で行われた「やしろ食堂」でのライブであった。1989年4月、Xのギタリストとしてアルバム『[BLUE BLOOD](../Page/BLUE_BLOOD_\(Xのアルバム\).md "wikilink")』でメジャーデビュー。Xではギター以外にもバンドのビジュアル全般を担当し、メンバーの髪のセットなども行っていた\[16\]。主にYOSHIKIがXの作詞・作曲を行っていたが、HIDEも一部の曲で作詞・作曲を担当\[17\]。
 
 Xでの活動と並行して1993年1月21日に[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")[Jと](../Page/J_\(ミュージシャン\).md "wikilink")[INORAN](../Page/INORAN.md "wikilink")と共に**MxAxSxS**名義でオムニバスアルバム『[DANCE 2 NOISE 004](https://ja.wikipedia.org/wiki/DANCE_2_NOISE_004 "wikilink")』に参加し、同年8月5日に2枚のシングル「[EYES LOVE YOU](../Page/EYES_LOVE_YOU.md "wikilink")」、「[50%&50%](../Page/50%&50%.md "wikilink")」を同時発売しソロデビュー\[18\]。9月29日にはZI:KILLのTUSKと、映像作品『Seth et Holth』を発表する\[19\]。
 
@@ -47,7 +49,7 @@ Xでの活動と並行して1993年1月21日に[LUNA SEAの](../Page/LUNA_SEA.md
 
 [5月2日](../Page/5月2日.md "wikilink")朝7時30分頃、hideは自宅マンション寝室のドアノブに掛けたタオルで首を吊った状態で発見された。その後、病院に搬送されたが午前8時52分に死亡が確認された。病院に着いた時は既に心肺停止状態だったという\[21\]。当日午後3時頃から、「元X JAPANのギタリストhideが死亡、警視庁は自殺と断定」と速報で報道された。
 
-「[HURRY GO ROUND](../Page/HURRY_GO_ROUND.md "wikilink")」の歌詞や、ラジオ番組「[オールナイトニッポンR](../Page/オールナイトニッポンR.md "wikilink")」での発言が意味深長で自殺に関連するのではないかという見方や、はたまた事故ではなく自殺だと断言している人間の存在までもあり、様々な見解がある。警察は雑誌取材などに「『牽引』にしては首の輪が小さく、むしろ死を意図するものであった。また、『バンドや音楽活動で悩み酒量が増えていた』と聞いており、突発的に死に踏み切ったのだと思われる」と答えている。「故意による自殺」か、「不慮の事故」かは不明であり、遺書や「死にたい」と自殺をほのめかす発言がない事や、ドアノブに柔らかいタオルで自殺する方法は珍しい事から、不慮の事故とする説がある。YOSHIKIは「彼は自殺するような人間ではない」と発言している。
+「[HURRY GO ROUND](../Page/HURRY_GO_ROUND.md "wikilink")」の歌詞や、ラジオ番組「[オールナイトニッポンR](../Page/オールナイトニッポンR.md "wikilink")」での発言が意味深長で自殺に関連するのではないかという見方や、はたまた事故ではなく自殺だと断言している人間の存在までもあり、様々な見解がある。警察は雑誌取材などに「『牽引』にしては首の輪が小さく、むしろ死を意図するものであった。また、『バンドや音楽活動で悩み酒量が増えていた』と聞いており、突発的に死に踏み切ったのだと思われる」と答えている。「故意による自殺」か、「不慮の事故」かは不明であり、[遺書](../Page/遺書.md "wikilink")や「死にたい」と自殺をほのめかす発言がない事や、ドアノブに柔らかいタオルで自殺する方法は珍しい事から、不慮の事故とする説がある。YOSHIKIは「彼は自殺するような人間ではない」と発言している。
 
 1998年10月24日 hide不在の中行われた hide with Spread Beaver TOUR appear\!\! "1998 TRIBAL Ja,Zoo" 公演前に行われた記者会見で、マネージャーの裕士は「hideは生前、ひどい肩こりと偏頭痛に悩まされており、整骨医が行う首の牽引によるストレッチをしていた。いつものように牽引していたが、帰国直後の時差ボケと、泥酔状態であったために起こった事故であり自殺ではない」ことを改めて発表している\[22\]。
 
@@ -61,13 +63,13 @@ Xでの活動と並行して1993年1月21日に[LUNA SEAの](../Page/LUNA_SEA.md
 
 翌5月4日、週が明け本格的にワイドショーなどで大々的に取り上げられる。築地本願寺にファンが集まり始め、その数は5万人規模となる。夕方にYOSHIKIが[寺の正面に姿を現し](../Page/寺院.md "wikilink")、報道陣を前にメッセージを発表した。
 
-5月5日には、関係者のみ300人を集め密葬がとり行われた。その間もファンは絶え間無く押し寄せ、その数は数千人にもふくれ上がった。また、疲労と心労が重なったファンが次々と倒れ、救急車で病院に搬送された。さらに、「hideが自殺」と報道されていたためにファンの[後追い自殺が築地本願寺境内をはじめ全国で相次いだ](../Page/ウェルテル効果.md "wikilink")。そのため、翌日には警視庁の要請でX JAPANのメンバーが記者会見を開き、自殺を思いとどまるように訴えた。
+5月5日には、遺族・親族・XJAPANのメンバーを始めとする音楽関係者など300人を集め密葬がとり行われた。その間もファンは絶え間無く押し寄せ、その数は数千人にもふくれ上がった。また、疲労と心労が重なったファンが次々と倒れ、[救急車](../Page/救急車.md "wikilink")で病院に搬送された。さらに、「hideが自殺」と報道されていたためにファンの[後追い自殺が築地本願寺境内をはじめ全国で相次いだ](../Page/ウェルテル効果.md "wikilink")。そのため、翌日には警視庁の要請でX JAPANのメンバーが記者会見を開き、自殺を思いとどまるように訴えた。
 
 5月6日の[通夜](../Page/通夜.md "wikilink")、5月7日の告別式の両日はファンの献花を受け付け、連日ファンが大挙して押し寄せた。中には単なる通行人や野次馬もいたとされるが、通夜、告別式に5万人近くが集まったとされ、[隅田川](../Page/隅田川.md "wikilink")沿いに2 - 3kmのファンの列が出来たことも報道されていた。「ファンは列に並ぶ際、パニックになるようなことも無く、むしろ近隣住民の迷惑にならないようにゴミ拾いまで進んで行う素行の良さであった」と葬儀翌日の[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")・[天声人語](https://ja.wikipedia.org/wiki/天声人語 "wikilink")に掲載されている他、本社が築地にあるという場所柄、「銀座の花屋が空になった」「地下鉄の車内は花の香りでむせかえるほどだった」等の記者の証言が数多く残されている。
 
-5月7日の告別式はテレビで生中継された。告別式には、脱退したTOSHI、TAIJIを含む元X JAPANメンバーをはじめ、親交のあった音楽仲間や業界関係者が列席した。築地本願寺開山以来初めてのグランドピアノ持ち込みによるYOSHIKIの伴奏で、TOSHIがX JAPANの「[Forever Love](../Page/Forever_Love_\(X_JAPANの曲\).md "wikilink")」を歌った。hideの「[GOOD BYE](https://ja.wikipedia.org/wiki/Hi-Ho/GOOD_BYE "wikilink")」が流される中、午後3時40分出棺。道路に交通規制が掛けられ一般車両を完全に止めた状態であったが、ファンが大挙して道路に広がり[霊柩車](../Page/霊柩車.md "wikilink")を追いかける者まで現れる非常事態となり、築地本願寺周辺がパニック状態になった。
+5月7日の告別式はテレビで生中継された。告別式には、脱退したTOSHI、TAIJIを含む元X JAPANメンバーをはじめ、親交のあった音楽仲間や業界関係者が列席した。築地本願寺開山以来初めてのグランドピアノ持ち込みによるYOSHIKIの伴奏で、TOSHIがX JAPANの「[Forever Love](../Page/Forever_Love_\(X_JAPANの曲\).md "wikilink")」を歌った。hideの「[GOOD BYE](https://ja.wikipedia.org/wiki/Hi-Ho/GOOD_BYE "wikilink")」が流される中、午後3時40分[出棺](https://ja.wikipedia.org/wiki/出棺 "wikilink")。道路に交通規制が掛けられ一般車両を完全に止めた状態であったが、ファンが大挙して道路に広がり[霊柩車](../Page/霊柩車.md "wikilink")を追いかける者まで現れる非常事態となり、築地本願寺周辺がパニック状態になった。
 
-その後、hideは[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")の[代々幡斎場](../Page/代々幡斎場.md "wikilink")で[荼毘に付された](../Page/火葬.md "wikilink")。代々幡斎場周辺も築地本願寺同様ファンが大挙して道路に広がり霊柩車が斎場に到着するシーンも追いかける者まで現れる非常事態となり、これもパニック状態になった。[法名](https://ja.wikipedia.org/wiki/法名_\(浄土真宗\) "wikilink")**秀徳院釋慈音**（しゅうとくいん しゃくじおん）。[遺骨](../Page/遺骨.md "wikilink")は[四十九日](https://ja.wikipedia.org/wiki/四十九日 "wikilink")[法要](https://ja.wikipedia.org/wiki/法要 "wikilink")をもって、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[三浦市](../Page/三浦市.md "wikilink")の三浦霊園に納骨され、一部はロサンゼルスの海に当時のzilchのメンバーや弟・裕士によって[散骨](../Page/散骨.md "wikilink")されている。 2013年3月に、何者かの手によってhideの墓石が刃物のような物で傷を付けられるという事態が発覚した。そのため、[器物損壊罪](../Page/器物損壊罪.md "wikilink")で調査を行うこととなった\[24\]。
+その後、hideは[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")の[代々幡斎場](../Page/代々幡斎場.md "wikilink")で[荼毘に付された](../Page/火葬.md "wikilink")。代々幡斎場周辺も築地本願寺同様ファンが大挙して道路に広がり霊柩車が斎場に到着するシーンも追いかける者まで現れる非常事態となり、これもパニック状態になった。[法名](https://ja.wikipedia.org/wiki/法名_\(浄土真宗\) "wikilink")**秀徳院釋慈音**（しゅうとくいん しゃくじおん）。[遺骨](../Page/遺骨.md "wikilink")は[四十九日](https://ja.wikipedia.org/wiki/四十九日 "wikilink")[法要](https://ja.wikipedia.org/wiki/法要 "wikilink")をもって、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[三浦市](../Page/三浦市.md "wikilink")の[三浦霊園](http://www.miura-reien.com/)に納骨され、一部はロサンゼルスの海に当時のzilchのメンバーや弟・裕士によって[散骨](../Page/散骨.md "wikilink")されている。 2013年3月に、何者かの手によってhideの墓石が刃物のような物で傷を付けられるという事態が発覚した。そのため、[器物損壊罪](../Page/器物損壊罪.md "wikilink")で調査を行うこととなった\[24\]。
 
 十三回忌にあたる2010年5月2日には、築地本願寺で[法要](https://ja.wikipedia.org/wiki/法要 "wikilink")が行われた。法要には約35000人の関係者やファンが参列した\[25\]。
 
@@ -89,7 +91,7 @@ Xでの活動と並行して1993年1月21日に[LUNA SEAの](../Page/LUNA_SEA.md
 
 2014年12月10日、生誕50周年アルバムとして、3rdアルバム『Ja,zoo』に収録される予定であった未発表曲を含むベストアルバム[子ギャル](https://ja.wikipedia.org/wiki/子ギャル "wikilink")が発売された。収録内容も、新曲の「子ギャル」に加え、2002年7月にリリースされたベストアルバム『hide SINGLES 〜Junk Story〜』に収録された15曲(16曲目に収録されたコメントは除く)を、Junk Storyから順番に歴史を遡るように収録している。なお、この15曲はボーナス・トラック扱いである。また、初回限定版には、「子ギャル」のデモ音源も収録され、怪人カードが初回限定版・通常版にも封入された。これにより、完全に幻の曲は「ZOMBIE'S ROCK」の1曲となった。この曲はタイトルしか判明しておらず、メロディー・歌詞ともに hideの頭の中にしか存在していないため、音源化は不可能である。
 
-2015年5月24日、生誕50周年記念ドキュメンタリー映画「hide 50th anniversary FILM 〜JUNK STORY〜」が全国の映画館で公開され、また世界各国でも公開された。
+2015年5月24日、生誕50周年記念[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")映画「hide 50th anniversary FILM 〜JUNK STORY〜」が全国の映画館で公開され、また世界各国でも公開された。
 
 2016年1月29日、日本人ロックアーティスト初として、約14万字に及ぶ膨大なヒストリー・未公開を含む、約100枚以上の貴重な写真、母子手帳、成績表、名刺、サイン色紙、イラスト、作品発売のポスター、ライブチケット、スケジュール表、日本レコード大賞 特別賞の賞状、hide MUSEUMオープンのポスター、hide MUSEUMのパンフレットなど、お宝アイテム約50点で構成された、豪華な大型本「hide Perfect Treasures」が発売された。
 
@@ -109,7 +111,7 @@ Xでの活動と並行して1993年1月21日に[LUNA SEAの](../Page/LUNA_SEA.md
 
 2019年5月2日CLUB CITTA'KAWASAKIにて『hide Memorial Day 2109～春に会いましょう～』献花式が開催された。
 
-2019年12月8日CLUB CITTA'KAWASAKIにてhide Birthday Partyが開催される。
+2019年12月8日CLUB CITTA'KAWASAKIにてhide Birthday Partyが開催された。
 
 ## 活動
 
@@ -135,7 +137,7 @@ zilch（ヂルチ）は、レイ・マクヴェイ (Ray McVeigh) （元プロフ
 
 ## 逸話
 
-  - 難病である[ライソゾーム病](../Page/ライソゾーム病.md "wikilink")を患ったファンである少女、貴志真由子の「hideに会いたい」という願いを、支援団体の[メイク・ア・ウィッシュ](../Page/メイク・ア・ウィッシュ.md "wikilink")を通じて受けたhideは[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")12月31日、Xの東京ドームライブで少女と会い、ライブの打ち上げにも招待して少女を友達だと紹介し、少女から不自由な手で2か月かけて編んだマフラーをhideにプレゼントされた（このマフラーはhideの死後、形見として少女の手に戻った）。その後も手紙を送ったり、お見舞いに訪れたりという交流を持ち、少女を励ますことになった。少女への手紙には「昔のこととか初めてのドームのこととか忘れていた色々な絵が見えてきて、かなり感動したんだ。おかげで、思い出さなきゃいけなかったいくつかのことが頭にやきついた」と感謝の言葉を残している。1996年3月28日に少女は治療のために[骨髄移植](../Page/骨髄移植.md "wikilink")手術を受けたが、手術後の1996年4月1日に[拒絶反応](../Page/拒絶反応.md "wikilink")のため心臓に水が溜まり危篤状態となり、彼女の母親から「hideさんの声だけでも良いから聞かせたい」と電話を受けた時にはその日の予定を全てキャンセルし、病院へ駆けつけて数時間の間励まし続けた。結果、その晩に危篤状態を抜け出し徐々に病状は良くなって数ヵ月後には退院することもできた。その後にhideは「できることをするだけ」とあくまで個人的に[骨髄バンク](../Page/骨髄バンク.md "wikilink")に登録をしたが、その際に所属事務所が独断で急遽記者会見をセッティングしてしまい、パーソナルマネージャーを務める弟・裕士は、そのことを一切知らなかったと後に出版した追憶本「兄弟」の中で明かしている。記者会見自体は行われたが、会見終了後にhideは「これじゃあ売名行為じゃねえか\!\!もしそんな風にマスコミに書かれてその娘が傷ついたらどうすんだ\!\!」と言って彼を殴り飛ばした（hide自身ももちろんそのことは知らなかった）。慈善活動をひけらかすような行動を嫌ってのことであったが、結果的にはこの報道が骨髄バンクの認知度向上に大きく貢献することとなり、以後もボランティア活動を続けていた。貴志真由子は、hideが他界した11年後の2009年9月30日に、和歌山市内の病院で、肺出血による呼吸困難により28歳で他界した\[30\]\[31\]。両親は現在和歌山市内で「レモネードカフェ」（hideが立ち上げたレーベル名にちなんで名づけられた）を営んでおり、2Fに設けられたライブスペースにはゆかりのミュージシャン等が度々訪れライブが行われている\[32\]。
+  - 難病である[ライソゾーム病](../Page/ライソゾーム病.md "wikilink")を患ったファンである少女、貴志真由子の「hideに会いたい」という願いを、支援団体の[メイク・ア・ウィッシュ](../Page/メイク・ア・ウィッシュ.md "wikilink")を通じて受けたhideは[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")12月31日、Xの東京ドームライブで少女と会い、ライブの打ち上げにも招待して少女を友達だと紹介し、少女から不自由な手で2か月かけて編んだマフラーをhideにプレゼントされた（このマフラーはhideの死後、形見として少女の手に戻った）。その後も手紙を送ったり、お見舞いに訪れたりという交流を持ち、少女を励ますことになった。少女への手紙には「昔のこととか初めてのドームのこととか忘れていた色々な絵が見えてきて、かなり感動したんだ。おかげで、思い出さなきゃいけなかったいくつかのことが頭にやきついた」と感謝の言葉を残している。1996年3月28日に少女は治療のために[骨髄移植](../Page/骨髄移植.md "wikilink")手術を受けたが、手術後の1996年4月1日に[拒絶反応](../Page/拒絶反応.md "wikilink")のため心臓に水が溜まり危篤状態となり、彼女の母親から「hideさんの声だけでも良いから聞かせたい」と電話を受けた時にはその日の予定を全てキャンセルし、病院へ駆けつけて数時間の間励まし続けた。結果、その晩に危篤状態を抜け出し徐々に病状は良くなって数ヵ月後には退院することもできた。その後にhideは「できることをするだけ」とあくまで個人的に[骨髄バンク](../Page/骨髄バンク.md "wikilink")に登録をしたが、その際に所属事務所が独断で急遽記者会見をセッティングしてしまい、パーソナルマネージャーを務める弟・裕士は、そのことを一切知らなかったと後に出版した追憶本「兄弟」の中で明かしている。記者会見自体は行われたが、会見終了後にhideは「これじゃあ売名行為じゃねえか\!\!もしそんな風にマスコミに書かれてその娘が傷ついたらどうすんだ\!\!」と言って彼を殴り飛ばした（hide自身ももちろんそのことは知らなかった）。慈善活動をひけらかすような行動を嫌ってのことであったが、結果的にはこの報道が骨髄バンクの認知度向上に大きく貢献することとなり、以後もボランティア活動を続けていた。貴志真由子は、hideが他界した11年後の2009年9月30日に、[和歌山市](../Page/和歌山市.md "wikilink")内の病院で、肺出血による呼吸困難により28歳で他界した\[30\]\[31\]。両親は現在和歌山市内で「レモネード[カフェ](../Page/カフェ.md "wikilink")」（hideが立ち上げたレーベル名にちなんで名づけられた）を営んでおり、2Fに設けられたライブスペースにはゆかりのミュージシャン等が度々訪れライブが行われている\[32\]。
   - ファン想いであることが有名で、大物になるほど回避しがちなTV出演について「地方でライヴに来られないファンの為にも出る」と積極的であったり、「チケット代も安くないのに、更に高いお金を遣わせるのはいけない」と、ソロ活動についての関連グッズは全て5,000円以下であったという。
   - hideが初めて手にしたギターは[新古品の](https://ja.wikipedia.org/wiki/古物#新古品 "wikilink")[ギブソンの](../Page/ギブソン_\(楽器メーカー\).md "wikilink")[レスポール](https://ja.wikipedia.org/wiki/レスポール "wikilink")（ナチュラルカラーのレスポールデラックスモデル）であった。祖母に無理だと思って頼んでおいたら、[在日米軍](https://ja.wikipedia.org/wiki/在日米軍 "wikilink")[横須賀基地内に出入りが出来たのでフリーマーケットで買ってきてくれたという](../Page/横須賀海軍施設.md "wikilink")。当時は現在以上に高級品でロック好きには憧れの的であったために、隣の学校や、「友達の友達」という人までが自宅にギターを見に来るという状況になった。だがそのギターは、PATA曰く「金がなかった頃に売っちゃたのかもしれない」とのこと。そのため、記念すべきhideの最初のギターの行方は誰にもわからない。
   - hideの勤めていた美容院（[ジャガーが経営](../Page/ジャガー_\(ローカルタレント\).md "wikilink")）の常連にヤクザの娘がいて、その常連が行方不明になったとき、その常連の日記の最後に「松本秀人 サーベルタイガー」と書いてあったため、その関連性を疑われ、車に乗せられる。[富士の樹海](https://ja.wikipedia.org/wiki/富士の樹海 "wikilink")まで連れて行かれ、自白するよう強要されたが、hideは「分からない。」と主張し続け、なんとか解放してもらう。
@@ -358,12 +360,12 @@ zilch（ヂルチ）は、レイ・マクヴェイ (Ray McVeigh) （元プロフ
 <li>LEMONed I Scream [Jazzy Soul MIX]by D.T.Construction</li>
 <li>ERASE [Valk MIX]by D.T.Construction</li>
 <li>FLAME [Reggae Ground Beat MIX]by D.T.Construction</li>
-<li>LEMONed I Scream [Groove That Soul MIX]by DJ TURBO From GTS</li>
-<li>BACTERIA [Bacteria MIX]by DJ YUTAKA &amp; MONCHI TANAKA</li>
+<li>LEMONed I Scream [Groove That Soul MIX]by DJ TURBO From <a href="../Page/GTS_(DJグループ).md" title="wikilink">GTS</a></li>
+<li>BACTERIA [Bacteria MIX]by <a href="../Page/DJ_YUTAKA.md" title="wikilink">DJ YUTAKA</a> &amp; MONCHI TANAKA</li>
 <li>LASSIE [Jazz Trance Spiritual Ecstasyboys MIX]by AMAMIYA Bros.</li>
 <li>LEMONed I Scream [Smooth Club MIX]by TEMPLE OF SOUL</li>
 <li>POSE [Caravan Jungle MIX]by TEMPLE OF SOUL</li>
-<li>POSE [Techno MIX]by FUMIYA TANAKA</li>
+<li>POSE [Techno MIX]by <a href="../Page/田中フミヤ.md" title="wikilink">FUMIYA TANAKA</a></li>
 <li>POSE [The Rubber Hose MIX]by T・H・E・M
 </div>
 </div></li>
@@ -409,7 +411,7 @@ zilch（ヂルチ）は、レイ・マクヴェイ (Ray McVeigh) （元プロフ
 <tbody>
 <tr class="odd">
 <td><p>2008年3月19日</p></td>
-<td><p><strong>PSYENCE A GO GO</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Psyence_a_Go_Go" title="wikilink">PSYENCE A GO GO</a></strong></p></td>
 <td><p>UPCH-1597</p></td>
 <td><p>セカンドツアー『PSYENCE A GO GO』より、代々木第一体育館での公演を収録した3枚組ライブアルバム。全曲リマスタリング。</p>
 <div class="NavFrame" style="clear:both;border:0;">
@@ -453,7 +455,7 @@ zilch（ヂルチ）は、レイ・マクヴェイ (Ray McVeigh) （元プロフ
 </tr>
 <tr class="even">
 <td><p>2008年4月23日</p></td>
-<td><p><strong>HIDE OUR PSYCHOMMUNITY</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Hide_Our_Psychommunity" title="wikilink">HIDE OUR PSYCHOMMUNITY</a></strong></p></td>
 <td><p>UPCH-1594</p></td>
 <td><p>ファーストツアー『HIDE OUR PSYCHOMMUNITY 〜hideの部屋へようこそ〜』より、横浜アリーナでの公演を完全収録した2枚組ライブアルバム。全曲リマスタリング。完全収録と謳われているが、アンコールで披露された<a href="../Page/T・レックス.md" title="wikilink">T・レックス</a>のカバー「<a href="https://ja.wikipedia.org/wiki/20センチュリー・ボーイ" title="wikilink">20センチュリー・ボーイ</a>」は、著作権の都合により収録されていない。</p>
 <div class="NavFrame" style="clear:both;border:0;">
@@ -515,7 +517,7 @@ zilch（ヂルチ）は、レイ・マクヴェイ (Ray McVeigh) （元プロフ
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>FLAKE（ZEPPET STORE）</li>
+<li>FLAKE（<a href="../Page/ZEPPET_STORE.md" title="wikilink">ZEPPET STORE</a>）</li>
 <li>BACTERIA（hide）</li>
 <li>BE（VINYL）</li>
 <li>one day for maria（trees of life）</li>
@@ -587,7 +589,7 @@ zilch（ヂルチ）は、レイ・マクヴェイ (Ray McVeigh) （元プロフ
 </tr>
 <tr class="even">
 <td><p>1999年3月3日</p></td>
-<td><p><strong>BasTardEYES</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Bastard_Eyes" title="wikilink">BasTardEYES</a></strong></p></td>
 <td><p>CTCR-17050（限定盤）</p></td>
 <td><p>zilchやhideと交流のあったアーティストらがリミックスしたzilchのアルバム。CDのほか、初回限定には、ビデオが付いていた。</p>
 <div class="NavFrame" style="clear:both;border:0;">
@@ -599,15 +601,15 @@ zilch（ヂルチ）は、レイ・マクヴェイ (Ray McVeigh) （元プロフ
 <ol>
 <li>ELECTRIC 兄弟仁義 CUCUMBER（<a href="../Page/J_(ミュージシャン).md" title="wikilink">J</a>）</li>
 <li>FUCTFUCTRACK#6（charlie clouser.n.I.n.）</li>
-<li>perverthound（PITCHSHIFTER）</li>
-<li>IMPOSE（praga kahn）</li>
-<li>SCRATCH YOUR NUMBER（d.j.swamp）</li>
-<li>HELLO HELLO HELLO GOODBYE（MINISTRY/Raven）</li>
-<li>REPSYCHLE（podboy a.k.a Tweaker）</li>
-<li>LISTEN IN LISTEN UP（Danny sabe /m.c.shabba d）</li>
+<li>perverthound（<a href="https://ja.wikipedia.org/wiki/:en:Pitchshifter" title="wikilink">PITCHSHIFTER</a>）</li>
+<li>IMPOSE（<a href="https://ja.wikipedia.org/wiki/:en:Praga_Khan" title="wikilink">praga kahn</a>）</li>
+<li>SCRATCH YOUR NUMBER（<a href="https://ja.wikipedia.org/wiki/:en:DJ_Swamp" title="wikilink">d.j.swamp</a>）</li>
+<li>HELLO HELLO HELLO GOODBYE（<a href="https://ja.wikipedia.org/wiki/ミニストリー_(バンド)" title="wikilink">MINISTRY</a>/<a href="https://ja.wikipedia.org/wiki/:en:Paul_Raven_(musician)" title="wikilink">Raven</a>）</li>
+<li>REPSYCHLE（podboy a.k.a <a href="https://ja.wikipedia.org/wiki/:en:Tweaker_(band)" title="wikilink">Tweaker</a>）</li>
+<li>LISTEN IN LISTEN UP（<a href="https://ja.wikipedia.org/wiki/:en:Danny_Saber" title="wikilink">Danny sabe</a> /m.c.shabba d）</li>
 <li>SOLD SAME ATTITUDE（<a href="../Page/I.N.A.md" title="wikilink">I.N.A</a>/<a href="../Page/D.I.E..md" title="wikilink">D.I.E.</a>/<a href="../Page/K.A.Z_(ギタリスト).md" title="wikilink">KAZ</a>）</li>
-<li>SUPERSCHAFTRACK（schaft）</li>
-<li>SLEASY JESUS（D.j.swamp/Mcveigh/Ryder）</li>
+<li>SUPERSCHAFTRACK（<a href="../Page/SCHAFT.md" title="wikilink">schaft</a>）</li>
+<li>SLEASY JESUS（D.j.swamp/Mcveigh/<a href="https://ja.wikipedia.org/wiki/:en:Shaun_Ryder" title="wikilink">Ryder</a>）</li>
 <li>Queasy Jesus（Mcveigh/Ryder）</li>
 </ol>
 <p><strong>VHS（限定盤のみ）</strong></p>
@@ -655,7 +657,7 @@ CHILDREN</strong></p></td>
 <li>CHARLIE'S CHILDREN</li>
 <li>MAKE THE MOTHERFUCKERS WAKE UP!</li>
 <li>ATOMIC PLAYBOYS &amp; TOP MIC PIRANHA</li>
-<li>CHARLIE'S CHILDREN(GAIJIN KARAOKE VERSION)</li>
+<li>CHARLIE'S CHILDREN(<a href="../Page/外人.md" title="wikilink">GAIJIN</a> <a href="../Page/カラオケ.md" title="wikilink">KARAOKE</a> VERSION)</li>
 </ol></td>
 </tr>
 <tr class="even">
@@ -718,18 +720,18 @@ CHILDREN</strong></p></td>
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>UNDER CODE PRODUCTION LAST COLLABORATION「D・N・A」 『Junk Story』</li>
-<li>GOTCHAROCKA 『OBLAAT』</li>
-<li>THE KIDDIE 『DAMAGE』</li>
-<li>Sadie 『ピンク スパイダー』</li>
-<li>CELL 『HURRY GO ROUND』</li>
-<li>DaizyStripper 『MISERY』</li>
-<li>defspiral 『ever free』</li>
+<li><a href="https://ja.wikipedia.org/wiki/Spiv_states" title="wikilink">GOTCHAROCKA</a> 『OBLAAT』</li>
+<li><a href="https://ja.wikipedia.org/wiki/THE_KIDDIE" title="wikilink">THE KIDDIE</a> 『DAMAGE』</li>
+<li><a href="../Page/Sadie_(バンド).md" title="wikilink">Sadie</a> 『ピンク スパイダー』</li>
+<li><a href="https://ja.wikipedia.org/wiki/:en:Cell_(Japanese_band)" title="wikilink">CELL</a> 『HURRY GO ROUND』</li>
+<li><a href="https://ja.wikipedia.org/wiki/DaizyStripper" title="wikilink">DaizyStripper</a> 『MISERY』</li>
+<li><a href="https://ja.wikipedia.org/wiki/defspiral" title="wikilink">defspiral</a> 『ever free』</li>
 <li>DOPPEL 『Beauty &amp; Stupid』</li>
-<li>heidi. 『TELL ME』</li>
-<li>柩 from NIGHTMARE 『D.O.D.[DRINK OR DIE]』</li>
+<li><a href="https://ja.wikipedia.org/wiki/heidi." title="wikilink">heidi.</a> 『TELL ME』</li>
+<li>柩 from <a href="../Page/ナイトメア_(バンド).md" title="wikilink">NIGHTMARE</a> 『D.O.D.[DRINK OR DIE]』</li>
 <li>machine 『DOUBT』</li>
-<li>摩天楼オペラ 『DICE』</li>
-<li>Mix Speaker’s,Inc. 『50% &amp; 50%』
+<li><a href="https://ja.wikipedia.org/wiki/摩天楼オペラ" title="wikilink">摩天楼オペラ</a> 『DICE』</li>
+<li><a href="https://ja.wikipedia.org/wiki/Mix_Speaker&#39;s,Inc." title="wikilink">Mix Speaker’s,Inc.</a> 『50% &amp; 50%』
 </div>
 </div></li>
 </ol></td>
@@ -744,18 +746,18 @@ CHILDREN</strong></p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>R指定 『ROCKET DIVE』</li>
+<li><a href="https://ja.wikipedia.org/wiki/R指定_(バンド)" title="wikilink">R指定</a> 『ROCKET DIVE』</li>
 <li>アヲイ 『BACTERIA』</li>
-<li>A 『EYES LOVE YOU』</li>
-<li>己龍 『ピンク スパイダー』</li>
+<li><a href="https://ja.wikipedia.org/wiki/A_(バンド)" title="wikilink">A</a> 『EYES LOVE YOU』</li>
+<li><a href="https://ja.wikipedia.org/wiki/己龍" title="wikilink">己龍</a> 『ピンク スパイダー』</li>
 <li>グリーヴァ 『限界破裂』</li>
-<li>SCREW 『DICE』</li>
-<li>ダウト 『DOUBT』</li>
-<li>DIAURA 『Beauty &amp; Stupid』</li>
-<li>DEZERT 『D.O.D.[DRINK OR DIE]』</li>
-<li>HERO 『HURRY GO ROUND』</li>
-<li>FEST VAINQUEUR 『In Motion』</li>
-<li>BORN 『ever free』
+<li><a href="https://ja.wikipedia.org/wiki/SCREW_(バンド)" title="wikilink">SCREW</a> 『DICE』</li>
+<li><a href="https://ja.wikipedia.org/wiki/ダウト_(バンド)" title="wikilink">ダウト</a> 『DOUBT』</li>
+<li><a href="https://ja.wikipedia.org/wiki/DIAURA" title="wikilink">DIAURA</a> 『Beauty &amp; Stupid』</li>
+<li><a href="https://ja.wikipedia.org/wiki/DEZERT" title="wikilink">DEZERT</a> 『D.O.D.[DRINK OR DIE]』</li>
+<li><a href="https://ja.wikipedia.org/wiki/HERO_(バンド)" title="wikilink">HERO</a> 『HURRY GO ROUND』</li>
+<li><a href="https://ja.wikipedia.org/wiki/FEST_VAINQUEUR" title="wikilink">FEST VAINQUEUR</a> 『In Motion』</li>
+<li><a href="https://ja.wikipedia.org/wiki/BORN_(バンド)" title="wikilink">BORN</a> 『ever free』
 </div>
 </div></li>
 </ol></td>
@@ -786,7 +788,7 @@ CHILDREN</strong></p></td>
 <li>ever free [ロック&amp;メロウ・ヴァイオリン ver.] / Sword of the Far East</li>
 <li>GOOD-BYE [テルミン ver.] / 佐藤沙恵</li>
 <li>Hi-Ho [電子鍵盤 ver.] / 阿邊葉月</li>
-<li>ピンク スパイダー [SPIRITS ver.] / 大澤誉志幸 with DIE
+<li>ピンク スパイダー [SPIRITS ver.] / <a href="../Page/大澤誉志幸.md" title="wikilink">大澤誉志幸</a> with DIE
 </div>
 </div></li>
 </ol></td>
@@ -836,16 +838,16 @@ CHILDREN</strong></p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>青山テルマ「TELL ME」</li>
-<li>AMIAYA「ROCKET DIVE」</li>
-<li>倖田來未「ピンク スパイダー」</li>
-<li>小柳ゆき「ever free」</li>
-<li>詩音「HURRY GO ROUND」</li>
-<li>JAMOSA 「GOOD BYE」</li>
-<li>chay「FLAME」</li>
-<li>mini 「In Motion」</li>
-<li>MAY'S 「MISERY」</li>
-<li>分島花音「Beauty &amp; Stupid」
+<li><a href="https://ja.wikipedia.org/wiki/青山テルマ" title="wikilink">青山テルマ</a>「TELL ME」</li>
+<li><a href="https://ja.wikipedia.org/wiki/AMIAYA" title="wikilink">AMIAYA</a>「ROCKET DIVE」</li>
+<li><a href="https://ja.wikipedia.org/wiki/倖田來未" title="wikilink">倖田來未</a>「ピンク スパイダー」</li>
+<li><a href="https://ja.wikipedia.org/wiki/小柳ゆき" title="wikilink">小柳ゆき</a>「ever free」</li>
+<li><a href="https://ja.wikipedia.org/wiki/詩音" title="wikilink">詩音</a>「HURRY GO ROUND」</li>
+<li><a href="https://ja.wikipedia.org/wiki/JAMOSA" title="wikilink">JAMOSA</a> 「GOOD BYE」</li>
+<li><a href="https://ja.wikipedia.org/wiki/chay" title="wikilink">chay</a>「FLAME」</li>
+<li><a href="https://ja.wikipedia.org/wiki/Mini_(モデル)" title="wikilink">mini</a> 「In Motion」</li>
+<li><a href="../Page/MAY&#39;S.md" title="wikilink">MAY'S</a> 「MISERY」</li>
+<li><a href="https://ja.wikipedia.org/wiki/分島花音" title="wikilink">分島花音</a>「Beauty &amp; Stupid」
 </div>
 </div></li>
 </ol></td>
@@ -860,17 +862,17 @@ CHILDREN</strong></p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>CUTT「POSE」</li>
-<li>氣志團「ROCKET DIVE」</li>
-<li>筋肉少女帯「DICE」</li>
-<li>GLAY「MISERY」Remixed by INA</li>
-<li>J「FLAME」</li>
-<li>ZEPPET STORE「GOOD BYE」</li>
-<li>THE CHERRY COKE$「D.O.D.[DRINK OR DIE]」</li>
-<li>D'ERLANGER「限界破裂」</li>
-<li>THE NOVEMBERS 「DOUBT」</li>
-<li>森雪之丞 with 今井寿（BUCK-TICK）「EYES LOVE YOU」</li>
-<li>THE PINK SPIDERS（Shame、PATA、CHIROLYN、JOE、I.N.A）「ピンク スパイダー」
+<li><a href="https://ja.wikipedia.org/wiki/CUTT" title="wikilink">CUTT</a>「POSE」</li>
+<li><a href="../Page/氣志團.md" title="wikilink">氣志團</a>「ROCKET DIVE」</li>
+<li><a href="../Page/筋肉少女帯.md" title="wikilink">筋肉少女帯</a>「DICE」</li>
+<li><a href="../Page/GLAY.md" title="wikilink">GLAY</a>「MISERY」Remixed by INA</li>
+<li><a href="../Page/J_(ミュージシャン).md" title="wikilink">J</a>「FLAME」</li>
+<li><a href="../Page/ZEPPET_STORE.md" title="wikilink">ZEPPET STORE</a>「GOOD BYE」</li>
+<li><a href="../Page/THE_CHERRY_COKE$.md" title="wikilink">THE CHERRY COKE$</a>「D.O.D.[DRINK OR DIE]」</li>
+<li><a href="../Page/D&#39;ERLANGER.md" title="wikilink">D'ERLANGER</a>「限界破裂」</li>
+<li><a href="https://ja.wikipedia.org/wiki/THE_NOVEMBERS" title="wikilink">THE NOVEMBERS</a> 「DOUBT」</li>
+<li><a href="../Page/森雪之丞.md" title="wikilink">森雪之丞</a> with 今井寿（BUCK-TICK）「EYES LOVE YOU」</li>
+<li>THE PINK SPIDERS（Shame、PATA、CHIROLYN、JOE、<a href="../Page/I.N.A.md" title="wikilink">I.N.A</a>）「ピンク スパイダー」
 </div>
 </div></li>
 </ol></td>
@@ -983,19 +985,19 @@ CHILDREN</strong></p></td>
 <p>12会場全17公演</p>
 </div>
 <div class="NavContent" style="text-align:left">
-<p>3月16日 川口リリアホール<br />
-3月19日、20日 名古屋市民会館<br />
-3月22日、23日 札幌市民会館<br />
-3月27日 新潟県民会館<br />
-3月30日 仙台サンプラザ<br />
+<p>3月16日 <a href="../Page/川口総合文化センター.md" title="wikilink">川口リリアホール</a><br />
+3月19日、20日 <a href="../Page/名古屋市民会館.md" title="wikilink">名古屋市民会館</a><br />
+3月22日、23日 <a href="../Page/札幌市民ホール.md" title="wikilink">札幌市民会館</a><br />
+3月27日 <a href="../Page/新潟県民会館.md" title="wikilink">新潟県民会館</a><br />
+3月30日 <a href="../Page/仙台サンプラザ.md" title="wikilink">仙台サンプラザ</a><br />
 4月2日、3日 大阪厚生年金会館<br />
-4月5日 広島厚生年金会館<br />
+4月5日 <a href="../Page/広島市文化交流会館.md" title="wikilink">広島厚生年金会館</a><br />
 4月7日 北九州厚生年金会館<br />
-4月9日、10日 横浜アリーナ<br />
+4月9日、10日 <a href="https://ja.wikipedia.org/wiki/横浜アリーナ" title="wikilink">横浜アリーナ</a><br />
 5月6日 名古屋市民会館<br />
 5月8日 大阪厚生年金会館<br />
 5月11日 <a href="https://ja.wikipedia.org/wiki/代々木第一体育館" title="wikilink">代々木第一体育館</a><br />
-5月13日 川崎CLUB CITTA'</p></td>
+5月13日 川崎<a href="../Page/CLUB_CITTA&#39;.md" title="wikilink">CLUB CITTA'</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1996年</p></td>
@@ -1011,17 +1013,17 @@ CHILDREN</strong></p></td>
 <p>13会場全19公演</p>
 </div>
 <div class="NavContent" style="text-align:left">
-<p>9月4日 よこすか芸術劇場<br />
-9月12日、13日 福岡サンパレス<br />
-9月15日 松山市民会館<br />
+<p>9月4日 <a href="../Page/横須賀芸術劇場.md" title="wikilink">よこすか芸術劇場</a><br />
+9月12日、13日 <a href="../Page/福岡サンパレス.md" title="wikilink">福岡サンパレス</a><br />
+9月15日 <a href="../Page/松山市民会館.md" title="wikilink">松山市民会館</a><br />
 9月17日 <a href="../Page/大阪城ホール.md" title="wikilink">大阪城ホール</a><br />
-9月21日、22日 名古屋センチュリーホール<br />
-9月24日 倉敷市民会館<br />
+9月21日、22日 <a href="../Page/名古屋国際会議場.md" title="wikilink">名古屋センチュリーホール</a><br />
+9月24日 <a href="../Page/倉敷市民会館.md" title="wikilink">倉敷市民会館</a><br />
 9月26日 広島厚生年金会館<br />
 9月28日 石川厚生年金会館<br />
 10月1日、2日 札幌市民会館<br />
 10月8日、9日 新潟県民会館<br />
-10月11日 静岡市民文化会館<br />
+10月11日 <a href="../Page/静岡市民文化会館.md" title="wikilink">静岡市民文化会館</a><br />
 10月13日、14日 仙台サンプラザ<br />
 10月19日、20日 代々木第一体育館</p></td>
 <td></td>
@@ -1109,8 +1111,6 @@ CHILDREN</strong></p></td>
 
 hideはX加入以前のアマチュア時代から長年[フェルナンデス](../Page/フェルナンデス_\(楽器メーカー\).md "wikilink")（[Burny](../Page/バーニー_\(楽器\).md "wikilink")）製の[モッキンバードモデルを愛用していた](../Page/B.C.リッチ・モッキンバード.md "wikilink")。様々な構造、材、カラーリングの物が存在するが、ここでは歴代のメインギター等、代表的なもののみを紹介する。本人使用モデルはアクリルボディ等一部の例外を除き全てスルーネック構造。ちなみにhideの使用するギターのレプリカモデル（値段にして8万円から45万円のもの）がフェルナンデス社から発売（一部を除き生産終了）されている。アーティストモデルとしては彼の生前、死後を問わず過去に例がないほどの驚異的な売れ行きを見せ、ここからもhideというギタリストの人気の高さと影響力を窺い知る事が出来る。
 
-
-
 #### FERNANDES FMG-175 アーミーパンサー
 
   - [東京](../Page/東京.md "wikilink")の[御茶ノ水](../Page/御茶ノ水.md "wikilink")の[楽器](../Page/楽器.md "wikilink")店で購入した最初のモッキンバードモデル。
@@ -1124,7 +1124,7 @@ hideはX加入以前のアマチュア時代から長年[フェルナンデス](
   - 上記の通り、ギターにペイントをする以前から使用する楽器のビジュアルにも拘って試行錯誤をしていたが、楽器としてのメンテナンスや手入れは当時それほど入念には行っていなかったようで、*Vanishing Visionのレコーディング時にフレットが音痴になってる。いくらチューニングしても音程が合わないという事態に陥り苦労したと言う。*
   - 既にこの時点でサスティナー登場の94年まで続く、リアにEMGのアクティブピックアップ、フロントにディマジオのパッシブピックアップを搭載するという組み合わせが完成している点はギタリストHIDEを語る上で特筆すべき点であると言える。
 
-
+<!-- end list -->
 
   - B.C. Rich モッキンバ－ド"アメーバ"
 
@@ -1201,8 +1201,6 @@ hideはX加入以前のアマチュア時代から長年[フェルナンデス](
   - またピックアップはイエローハート、グリーンハート、基盤のリアにはディマジオのスーパーディストーション、サイエンスのリアにはディマジオのエボリューションをマウント。
   - その他にもリアにセイモアダンカンのJBをマウントしたプロトタイプやセンターにシングルコイルを増設したプロトタイプ、ボディ材を変更したプロトタイプ等も存在し、常に理想の音を求めて試行錯誤していた様子が伺える。
 
-
-
 #### その他
 
   - [Gibson](../Page/ギブソン_\(楽器メーカー\).md "wikilink") Les Paul STANDARD
@@ -1261,12 +1259,10 @@ hideはX加入以前のアマチュア時代から長年[フェルナンデス](
 
 <!-- end list -->
 
-  - フェルナンデスHGS-1200(hideシグネチュアモデル・ゲージは009-046)、それ以前はアーニーボール・ハイブリッドスリンキー。
-  - 初期の頃、BLUE BLOODに代表されるような低音弦の速いオルタネイトのバッキングに重きを置き、そのサウンドにも拘り、一時6弦に052という極太の弦を使用していた事もあった。
-  - フェルナンデス・スキャナー(hideシグネチュアモデル)、ジムダンロップ・ナイロンスタンダード0.73mm、ジムダンロップ・トーテックススタンダード0.73mm
+  - フェルナンデスHGS-1200（hideシグネチュアモデル・ゲージは009-046）、それ以前はアーニーボール・ハイブリッドスリンキー。
+  - 初期の頃、『BLUE BLOOD』に代表されるような低音弦の速いオルタネイトのバッキングに重きを置き、そのサウンドにも拘り、一時6弦に052という極太の弦を使用していたこともあった。
+  - フェルナンデス・スキャナー（hideシグネチュアモデル）、ジムダンロップ・ナイロンスタンダード0.73mm、ジムダンロップ・トーテックススタンダード0.73mm
   - ピックはその日の腕のコンディションや気分によって使い分けていたという。
-
-
 
 ### 使用アンプ
 
@@ -1304,17 +1300,17 @@ hideはX加入以前のアマチュア時代から長年[フェルナンデス](
 
 ## 関連書籍
 
-  - 遠藤 允「hide「がんばんだぞ」 - 優しさと、愛と勇気をありがとう」小学館
+  - 遠藤 允「hide「がんばんだぞ」 - 優しさと、愛と勇気をありがとう」[小学館](../Page/小学館.md "wikilink")
   - 本郷 陽二 「音楽のヒーローたち hide伝説」
-  - 「限界破裂本」シンコーミュージック
-  - 「hideDAYS」宝島社
-  - 大島暁美「hide BIBLE - OFFICIAL BOOK hideを愛する全ての人へ贈ります」音楽専科社
-  - 松本裕士「兄弟 追憶のhide」講談社
-  - 「夢と自由」ニッポン放送プロジェクト
-  - 荒川正彦「Pink Cloudy Sky - 俺とhideと横須賀ロック・ストーリー」メディア・クライス
+  - 「限界破裂本」[シンコーミュージック](../Page/シンコーミュージック・エンタテイメント.md "wikilink")
+  - 「hideDAYS」[宝島社](../Page/宝島社.md "wikilink")
+  - 大島暁美「hide BIBLE - OFFICIAL BOOK hideを愛する全ての人へ贈ります」[音楽専科社](../Page/音楽専科社.md "wikilink")
+  - 松本裕士「兄弟 追憶のhide」[講談社](../Page/講談社.md "wikilink")
+  - 「夢と自由」[ニッポン放送プロジェクト](https://ja.wikipedia.org/wiki/ニッポン放送プロジェクト "wikilink")
+  - 荒川正彦「Pink Cloudy Sky - 俺とhideと横須賀ロック・ストーリー」[メディア・クライス](../Page/メディア・クライス.md "wikilink")
   - 「HIDE 無言激」音楽専科社
-  - 菅野秀夫「hide」扶桑社
-  - 「Pinky Promise hide Official Book」インデックス・コミュニケーションズ
+  - 菅野秀夫「hide」[扶桑社](../Page/扶桑社.md "wikilink")
+  - 「Pinky Promise hide Official Book」[インデックス・コミュニケーションズ](https://ja.wikipedia.org/wiki/インデックス・コミュニケーションズ "wikilink")
   - イエローZ「hide FOREVER FREE 松本秀人の大いなる遺産」[衆芸社](https://ja.wikipedia.org/wiki/衆芸社 "wikilink")
   - hide哀悼の会「hide ここにあり記」旭書房
   - 中条 剛「hide 真実のストーリー」ルー出版
@@ -1333,7 +1329,7 @@ hideはX加入以前のアマチュア時代から長年[フェルナンデス](
 
   - [zilch](http://www.avexnet.or.jp/zilch/contents.htm)  zilch公式サイト
 
-[Category:日本のロック・ギタリスト](https://ja.wikipedia.org/wiki/Category:日本のロック・ギタリスト "wikilink") [Category:日本のヘヴィメタル・ギタリスト](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル・ギタリスト "wikilink") [Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:日本の男性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ロック歌手 "wikilink") [Category:日本の男性ヘヴィメタル歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ヘヴィメタル歌手 "wikilink") [Category:日本のオルタナティヴ・ロック・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・ミュージシャン "wikilink") [Category:日本のヘヴィメタル・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル・ミュージシャン "wikilink") [Category:インダストリアル・ミュージシャン](https://ja.wikipedia.org/wiki/Category:インダストリアル・ミュージシャン "wikilink") [Category:リードギタリスト](https://ja.wikipedia.org/wiki/Category:リードギタリスト "wikilink") [Category:ヴィジュアル系ミュージシャン](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系ミュージシャン "wikilink") [Category:日本の作曲家](https://ja.wikipedia.org/wiki/Category:日本の作曲家 "wikilink") [Category:神奈川県出身の人物](https://ja.wikipedia.org/wiki/Category:神奈川県出身の人物 "wikilink") [Category:1964年生](https://ja.wikipedia.org/wiki/Category:1964年生 "wikilink") [Category:1998年没](https://ja.wikipedia.org/wiki/Category:1998年没 "wikilink") [Category:X_JAPANのメンバー](https://ja.wikipedia.org/wiki/Category:X_JAPANのメンバー "wikilink")
+[Category:日本のロック・ギタリスト](https://ja.wikipedia.org/wiki/Category:日本のロック・ギタリスト "wikilink") [Category:日本のヘヴィメタル・ギタリスト](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル・ギタリスト "wikilink") [Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:日本の男性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ロック歌手 "wikilink") [Category:日本の男性ヘヴィメタル歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ヘヴィメタル歌手 "wikilink") [Category:日本のオルタナティヴ・ロック・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・ミュージシャン "wikilink") [Category:日本のヘヴィメタル・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル・ミュージシャン "wikilink") [Category:インダストリアル・ミュージシャン](https://ja.wikipedia.org/wiki/Category:インダストリアル・ミュージシャン "wikilink") [Category:リードギタリスト](https://ja.wikipedia.org/wiki/Category:リードギタリスト "wikilink") [Category:ヴィジュアル系ミュージシャン](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系ミュージシャン "wikilink") [Category:X_JAPANのメンバー](https://ja.wikipedia.org/wiki/Category:X_JAPANのメンバー "wikilink") [Category:日本の作曲家](https://ja.wikipedia.org/wiki/Category:日本の作曲家 "wikilink") [Category:神奈川県出身の人物](https://ja.wikipedia.org/wiki/Category:神奈川県出身の人物 "wikilink") [Category:1964年生](https://ja.wikipedia.org/wiki/Category:1964年生 "wikilink") [Category:1998年没](https://ja.wikipedia.org/wiki/Category:1998年没 "wikilink")
 
 1.
 2.

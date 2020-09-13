@@ -23,5 +23,8 @@ FAQの語は[英語](../Page/英語.md "wikilink")の**Frequently Asked Question
   - [ナレッジコミュニティ](../Page/ナレッジコミュニティ.md "wikilink")
   - [マニュアル](../Page/マニュアル.md "wikilink")
   - [ウィキブックス](https://ja.wikipedia.org/wiki/b:メインページ "wikilink")
+  - [記者会見](../Page/記者会見.md "wikilink")
+  - [まとめサイト](../Page/まとめサイト.md "wikilink")
+  - [参考図書](https://ja.wikipedia.org/wiki/参考図書 "wikilink")
 
 [Category:コンピュータの文化](https://ja.wikipedia.org/wiki/Category:コンピュータの文化 "wikilink") [Category:テクニカル・コミュニケーション](https://ja.wikipedia.org/wiki/Category:テクニカル・コミュニケーション "wikilink") [Category:略語](https://ja.wikipedia.org/wiki/Category:略語 "wikilink") [Category:アクロニム](https://ja.wikipedia.org/wiki/Category:アクロニム "wikilink") [Category:英語の成句](https://ja.wikipedia.org/wiki/Category:英語の成句 "wikilink")

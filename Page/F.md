@@ -11,9 +11,13 @@
 ## 呼称
 
   - [拉](../Page/ラテン語.md "wikilink")・[独](../Page/ドイツ語.md "wikilink")・[仏](https://ja.wikipedia.org/wiki/フランス語 "wikilink")・[英](../Page/英語.md "wikilink")・[蘭](../Page/オランダ語.md "wikilink")・[洪](../Page/ハンガリー語.md "wikilink")・[葡](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")・[尼](../Page/インドネシア語.md "wikilink")：エフ
-  - [西](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")：エフェ
-  - [伊](../Page/イタリア語.md "wikilink")：エッフェ
+
+  - （エフェ）
+
+  - （エッフェ）
+
   - [ウェールズ語](../Page/ウェールズ語.md "wikilink")：エヴ
+
   - [エス](../Page/エスペラント.md "wikilink")：フォー
 
 ## 音素
@@ -30,7 +34,7 @@
 
 ## 歴史
 
-この字は、古代ギリシア語でかつて使われた、（ワウ/[ディガンマ](https://ja.wikipedia.org/wiki/ディガンマ "wikilink")）に由来し、本来は音を表していた（ギリシア語の標準のもとになったイオニア・アッティカ方言では早く音が消滅していたために、この文字も使われなくなった）。[エトルリア語](https://ja.wikipedia.org/wiki/エトルリア語 "wikilink")では当時のギリシア語になかったの音を表すために古く「FH」の2文字で表し、エトルリアから文字を伝えられたローマでは同じ音を単純に「F」1文字で表した。
+この字は、古代ギリシア語でかつて使われた、（ワウ/[ディガンマ](https://ja.wikipedia.org/wiki/ディガンマ "wikilink")）に由来し、本来は音を表していた（ギリシア語の標準のもとになった[イオニア](https://ja.wikipedia.org/wiki/ギリシア語イオニア方言 "wikilink")・[アッティカ方言では早く](../Page/古アテナイ方言.md "wikilink")音が消滅していたために、この文字も使われなくなった）。[エトルリア語](https://ja.wikipedia.org/wiki/エトルリア語 "wikilink")では当時のギリシア語になかったの音を表すために古く「FH」の2文字で表し、エトルリアから文字を伝えられたローマでは同じ音を単純に「F」1文字で表した。
 
 ## 合字
 

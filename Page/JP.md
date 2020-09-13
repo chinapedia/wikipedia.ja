@@ -9,8 +9,10 @@
   - [日本紙パルプ商事](../Page/日本紙パルプ商事.md "wikilink") (Japan Pulp and Paper Company Limited) - 日本の企業で、紙を取り扱う商社。
   - [ドットジェイピー (NPO)](https://ja.wikipedia.org/wiki/ドットジェイピー_\(NPO\) "wikilink")（.jp） - 日本のNPO法人。
   - [JPモルガン・チェース](../Page/JPモルガン・チェース.md "wikilink") - アメリカ合衆国の金融関連企業。
+  - [ジェーピー (企業)](../Page/ジェーピー_\(企業\).md "wikilink")
   - [正義党](https://ja.wikipedia.org/wiki/正義党_\(韓国\) "wikilink") (Justice Party) - 韓国の政党。
   - [日本調剤](../Page/日本調剤.md "wikilink") - 日本の[調剤薬局](https://ja.wikipedia.org/wiki/調剤薬局 "wikilink")。[ロゴマーク](https://ja.wikipedia.org/wiki/ロゴマーク "wikilink")にJPを用いている。
+  - JP - [ペッパーランチ](https://ja.wikipedia.org/wiki/ペッパーランチ "wikilink")を運営する企業。
 
 ## 記号
 
@@ -21,12 +23,27 @@
 
 ## 人名
 
-  - [ジェレミー・パウエル](../Page/ジェレミー・パウエル.md "wikilink")(1976 - ) - アメリカの野球選手（[投手](../Page/投手.md "wikilink")）。[オリックス時代に](../Page/オリックス・バファローズ.md "wikilink")「JP」として登録（2005年のみ）。[NPB](https://ja.wikipedia.org/wiki/NPB "wikilink")通算69勝。
-  - [J.P.アレンシビア](https://ja.wikipedia.org/wiki/J.P.アレンシビア "wikilink")(1986 - ) - アメリカの野球選手（[捕手](../Page/捕手.md "wikilink")）。通算333安打・80本塁打。
-  - [J.P.クロフォード](https://ja.wikipedia.org/wiki/J.P.クロフォード "wikilink")(1995 - ) - アメリカの野球選手（[遊撃手](../Page/遊撃手.md "wikilink")）。
-  - [J.P.ハウエル](../Page/J.P.ハウエル.md "wikilink")(1983 - ) - アメリカの野球選手（[投手](../Page/投手.md "wikilink")）。通算547試合登板。
-  - [J.P.リッチアーディ](https://ja.wikipedia.org/wiki/J.P.リッチアーディ "wikilink")(1959 - ) - アメリカの野球球団[GM](../Page/ゼネラルマネージャー.md "wikilink")。
-  - [JPピーターセン](https://ja.wikipedia.org/wiki/JP・ピーターセン "wikilink")(1986 - ) - 南アフリカ共和国のラグビー選手。
+  - [ジェレミー・パウエル](../Page/ジェレミー・パウエル.md "wikilink") (1976 - ) - アメリカの野球選手（[投手](../Page/投手.md "wikilink")）。[オリックス時代に](../Page/オリックス・バファローズ.md "wikilink")「JP」として登録（2005年のみ）。[NPB](https://ja.wikipedia.org/wiki/NPB "wikilink")通算69勝。
+
+  - [J.P.アレンシビア](https://ja.wikipedia.org/wiki/J.P.アレンシビア "wikilink") (1986 - ) - アメリカの野球選手（[捕手](../Page/捕手.md "wikilink")）。通算333安打・80本塁打。
+
+  - [J.P.クロフォード](https://ja.wikipedia.org/wiki/J.P.クロフォード "wikilink") (1995 - ) - アメリカの野球選手（[遊撃手](../Page/遊撃手.md "wikilink")）。
+
+  - [J・P・ダッタ](https://ja.wikipedia.org/wiki/J・P・ダッタ "wikilink") (1949 - ) - インドの映画監督
+
+  - [J・P・トコト](https://ja.wikipedia.org/wiki/J・P・トコト "wikilink") (1993 - ) - アメリカのバスケットボール選手 ([SG](https://ja.wikipedia.org/wiki/シューティングガード "wikilink"))
+
+  - [J.P.ハウエル](../Page/J.P.ハウエル.md "wikilink") (1983 - ) - アメリカの野球選手（[投手](../Page/投手.md "wikilink")）。通算547試合登板。
+
+  - [J・P・ホーガン](https://ja.wikipedia.org/wiki/J・P・ホーガン "wikilink") (1941 - 2010) - イギリスの作家
+
+  - [JPピーターセン](https://ja.wikipedia.org/wiki/JP・ピーターセン "wikilink") (1986 - ) - 南アフリカ共和国のラグビー選手。
+
+  - (1995 - ) - アメリカのバスケットボール ([SG](https://ja.wikipedia.org/wiki/シューティングガード "wikilink"))
+
+  - [J・P・モントーヤ](https://ja.wikipedia.org/wiki/J・P・モントーヤ "wikilink") (1975 - ) - コロンビアのレーシングドライバー
+
+  - [J.P.リッチアーディ](https://ja.wikipedia.org/wiki/J.P.リッチアーディ "wikilink") (1959 - ) - アメリカの野球球団[GM](../Page/ゼネラルマネージャー.md "wikilink")。
 
 ## その他
 
@@ -46,11 +63,23 @@
 
   - [JP (ものまねタレント)](https://ja.wikipedia.org/wiki/JP_\(ものまねタレント\) "wikilink") - [滋賀県](../Page/滋賀県.md "wikilink")出身のものまねタレント。
 
+  - [ジェイピィールーム](https://ja.wikipedia.org/wiki/ジェイピィールーム "wikilink") - 日本の芸能事務所
+
+  - [ジェイピー・グループ・サーキット](https://ja.wikipedia.org/wiki/ジェイピー・グループ・サーキット "wikilink") - インドのサーキット
+
   - [日本薬局方](https://ja.wikipedia.org/wiki/日本薬局方 "wikilink")()の略称。
 
   - [ジャックポット](https://ja.wikipedia.org/wiki/ジャックポット "wikilink")
 
 ## 関連項目
+
+  - [J\&P](https://ja.wikipedia.org/wiki/J&P "wikilink") (曖昧さ回避)
+
+  - [JP1](../Page/JP1.md "wikilink") - [日立製作所](../Page/日立製作所.md "wikilink")のソフトウェア (統合システム運用管理ツール)
+
+  - jp2 - [JPEG 2000の拡張子](../Page/JPEG_2000.md "wikilink")
+
+  - [PJ](https://ja.wikipedia.org/wiki/PJ "wikilink")
 
   -
   -

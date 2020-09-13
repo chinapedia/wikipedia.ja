@@ -182,7 +182,7 @@
 <td><p><a href="../Page/鳥取県.md" title="wikilink">鳥取県</a><br />
 <a href="../Page/島根県.md" title="wikilink">島根県</a></p></td>
 <td><p><a href="../Page/日本海テレビジョン放送.md" title="wikilink">日本海テレビ</a></p></td>
-<td><p>1989年9月までANNとのクロスネット局</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -199,7 +199,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a></p></td>
+<td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a></p></td>
 <td><p>○（平日のみ、1987年9月から）</p></td>
 <td></td>
 </tr>

@@ -7,7 +7,7 @@
 
 [エセックス](../Page/エセックス.md "wikilink")のブラックモア・エンドで生まれる。父親は[イングランド国教会](../Page/イングランド国教会.md "wikilink")（[聖公会](../Page/聖公会.md "wikilink")）の[牧師](../Page/牧師.md "wikilink")\[2\]。12人兄弟の2人目で、うち3人は幼児のころに亡くなっている。幼い子供の死は「失われた子供たちの谷」、「海馬」、「街はずれの家」など、ホジスンのいくつかの短編のテーマになっている。
 
-父親は頻繁に引越し、21年間で11の教区を担当した。このため一家は[アイルランド島](../Page/アイルランド島.md "wikilink")の[ゴールウェイ州](../Page/ゴールウェイ州.md "wikilink")にも住んだことがあり、その風景が後の『異次元を覗く家』の設定に使われた。
+父親は頻繁に引越し、21年間で11の教区を担当した。このため一家は[アイルランド島](../Page/アイルランド島.md "wikilink")の[ゴールウェイ県](https://ja.wikipedia.org/wiki/ゴールウェイ県 "wikilink")にも住んだことがあり、その風景が後の『異次元を覗く家』の設定に使われた。
 
 13歳のとき船員になるために全寮制学校から脱走した。つかまって家に戻されたが、父から船員見習いとなることを許され、1891年から4年間のキャビンボーイ見習い修行を始めた\[3\]。間もなく父親が咽喉癌で死に、一家は困窮することになった。ホジスンは家族とは離れて修行中だったが、一家は主に施しを受けて生きながらえた。1895年に見習い期間を終えると、ホジスンは[リヴァプール](../Page/リヴァプール.md "wikilink")で2年間学び、航海士の試験に合格。その後数年間は船員として働いた。
 
@@ -124,7 +124,7 @@
 
   - [A site dedicated to keeping Hodgson's vision alive with new fiction and artwork](http://www.thenightland.co.uk/)
 
-[Category:イングランドの小説家](https://ja.wikipedia.org/wiki/Category:イングランドの小説家 "wikilink") [Category:イギリスのファンタジー作家](https://ja.wikipedia.org/wiki/Category:イギリスのファンタジー作家 "wikilink") [Category:イギリスのSF作家](https://ja.wikipedia.org/wiki/Category:イギリスのSF作家 "wikilink") [Category:イギリスのホラー作家](https://ja.wikipedia.org/wiki/Category:イギリスのホラー作家 "wikilink") [Category:第一次世界大戦で戦死した人物](https://ja.wikipedia.org/wiki/Category:第一次世界大戦で戦死した人物 "wikilink") [Category:ブレインツリー_(ディストリクト)出身の人物](https://ja.wikipedia.org/wiki/Category:ブレインツリー_\(ディストリクト\)出身の人物 "wikilink") [Category:1877年生](https://ja.wikipedia.org/wiki/Category:1877年生 "wikilink") [Category:1918年没](https://ja.wikipedia.org/wiki/Category:1918年没 "wikilink")
+[Category:イングランドの小説家](https://ja.wikipedia.org/wiki/Category:イングランドの小説家 "wikilink") [Category:イギリスのファンタジー作家](https://ja.wikipedia.org/wiki/Category:イギリスのファンタジー作家 "wikilink") [Category:イギリスのSF作家](https://ja.wikipedia.org/wiki/Category:イギリスのSF作家 "wikilink") [Category:イギリスのホラー作家](https://ja.wikipedia.org/wiki/Category:イギリスのホラー作家 "wikilink") [Category:第一次世界大戦で戦死した人物](https://ja.wikipedia.org/wiki/Category:第一次世界大戦で戦死した人物 "wikilink") [Category:ブレインツリー・ディストリクト出身の人物](https://ja.wikipedia.org/wiki/Category:ブレインツリー・ディストリクト出身の人物 "wikilink") [Category:1877年生](https://ja.wikipedia.org/wiki/Category:1877年生 "wikilink") [Category:1918年没](https://ja.wikipedia.org/wiki/Category:1918年没 "wikilink")
 
 1.  『ナイトランド（下）』巻末解説（[荒俣宏](../Page/荒俣宏.md "wikilink")）
 2.

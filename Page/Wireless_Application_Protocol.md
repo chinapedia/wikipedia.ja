@@ -19,7 +19,7 @@ WAP技術の標準化・推進組織は[WAP Forumであったが](https://ja.wik
 
 WAP 2.0では、WAP 1.xの失敗を踏まえ、インターネットで標準的に使われている技術が大幅に採用された。コンテンツ記述言語としては従来までのWMLとならんで[XHTML MPと](../Page/XHTML_Mobile_Profile.md "wikilink")[cHTML](https://ja.wikipedia.org/wiki/cHTML "wikilink")が妥協の産物として併記され、トランスポートプロトコルとしては従来までのWTP/WSPとならんで[TCP/IPを採用した](../Page/インターネット・プロトコル・スイート.md "wikilink")。これにより一層のコンテンツ利用の拡大をはかることになった。現在、WAP1.x時代からの標準であった、WML、WTP、WSPはcHTMLとともに消えゆく存在となりつつある。
 
-過去、携帯電話によるブラウジングとメッセージングは、WAP Forumの後継団体であるOMAが制定したものが業界標準であり、それはWAP1.x/2.0をもとにしたものであった。国際的には、圧倒的多数の携帯電話はOMAの仕様をもとにした実装をしていた。しかしながら、通信速度の更なる向上と[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")や[Android](../Page/Android.md "wikilink")といったオープンプラットホームの存在は、OMA仕様自体の意味を完全に減殺し、WAPは過去のものとなった。
+過去、携帯電話によるブラウジングとメッセージングは、WAP Forumの後継団体であるOMAが制定したものが業界標準であり、それはWAP1.x/2.0をもとにしたものであった。国際的には、圧倒的多数の携帯電話はOMAの仕様をもとにした実装をしていた。しかしながら、通信速度の更なる向上と[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")や[Androidといったオープンプラットホームの存在は](../Page/Android_\(オペレーティングシステム\).md "wikilink")、OMA仕様自体の意味を完全に減殺し、WAPは過去のものとなった。
 
 [写メール](../Page/写メール.md "wikilink")や[iショット](https://ja.wikipedia.org/wiki/iショット "wikilink")などの日本発のピクチャーメール規格は、国際標準となることは出来なかった。業界標準のマルチメディア携帯メール規格はWAP Forumが採用した[マルチメディアメッセージングサービス](../Page/マルチメディアメッセージングサービス.md "wikilink") (MMS) である。
 

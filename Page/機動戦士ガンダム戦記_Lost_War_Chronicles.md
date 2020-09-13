@@ -77,9 +77,10 @@
     Noel Underson
     声：[那須めぐみ](../Page/那須めぐみ.md "wikilink")
     オペレーター。階級は伍長。17歳。
-    本来前線の部隊に配属する必要性が無かったものの、本人が前線の部隊に行くことを希望していた。一見すると普通の少女であるがMSの戦術論には光るものがあり、これがジョン・コーウェン准将の目に止まったことによりデルタチームに配属された。
+    本来前線の部隊に配属する必要性が無かったものの、本人が前線の部隊に行くことを希望していた。一見すると普通の少女であるがMSの戦術論には光るものがあり、これがジョン・コーウェン准将の目に止まったことによりデルタチームに配属された。父親のアンダーソン司令はルウム戦役時 サラミス級巡洋艦の艦長を務めており、赤い彗星ことシャア・アズナブルに艦を撃沈され戦死している。
     『機動戦士ガンダム0083 REBELLION』3巻収録の短編「SOLDIER's DAY I」。宇宙世紀0083年にはコーウェンの命令で放浪中のマットを探しており、オーストラリアで再会する。コーウェンからの協力要請を伝えるが、軍人という立場から離れて道を探るマットへの尊敬と、「立派な軍人になる」という自身の夢の板挟みに悩んでいた。
     『GUNDAM LEGACY』では、一年戦争終結後、昇進して少尉となり北米のオーガスタ基地に配属される。新人オペレーターの研修引率で来た [ミユ・タキザワと模擬訓練対決をするエピソードが描かれている](https://ja.wikipedia.org/wiki/機動戦士ガンダム外伝_宇宙、閃光の果てに…#ミユ・タキザワ "wikilink")。のちにフォルドやミユらと共にMS教官となった。
+    小説版では戦術的には優秀であるものの見方を駒のように考える指揮を執り、また父親の仇であるジオンを憎悪しており、その戦術理論を読んだマットは行間から滲み出る異常なジオンに対する憎悪と攻撃性から、著者は筋金入りのサディストだろうと考えるほどであった。レイチェルに憧れていたが、任務をこなすうちに彼女が自分たちを駒としか考えていない事に気付き、彼女への失望と、彼女と同様に見方を駒として捉えていた自分への自己嫌悪に悩む事になる。
 
 <!-- end list -->
 
@@ -103,7 +104,7 @@
     声：早川由佳子（現：[早瀬ゆか](https://ja.wikipedia.org/wiki/早瀬ゆか "wikilink")）
     ジョン・コーウェン准将の補佐役兼補給部隊指揮官。階級は中尉。28歳。
     レビル将軍の推薦でコーウェン准将の指揮下に入った才色兼備の補給官。『機動戦士ガンダム』のマチルダ・アジャンとは友人関係にある。
-    小説版では「M資金」の輸送責任者でもある。
+    小説版では「M資金」の輸送責任者でもある。外見と言葉遣いははおっとりしているが、実際は冷徹な思考をしており、実験部隊の面々を連邦軍勝利の為の駒としか捉えていない。後にマットやノエルもそれに気付いている。
     漫画『機動戦士ガンダム0083 REBELLION』では、コーウェン中将の伝令官としてラサ基地で[アルビオンに直命を伝える](../Page/アルビオン_\(ガンダムシリーズ\).md "wikilink")。
 
 <!-- end list -->
@@ -253,20 +254,20 @@
 <!-- end list -->
 
   - モビルスーツ
-      - [ザニー](../Page/ザニー.md "wikilink")（漫画版のみ）
-      - [ジム](../Page/ジム_\(ガンダムシリーズ\).md "wikilink")（ゲーム・漫画版のみ）
-      - [陸戦型ジム](../Page/陸戦型ジム.md "wikilink")
-      - [ジム寒冷地仕様](https://ja.wikipedia.org/wiki/ジム・コマンド#ジム寒冷地仕様 "wikilink")（ゲームのみ）
-      - [ジム・スナイパーII](https://ja.wikipedia.org/wiki/ジム・スナイパー#ジム・スナイパーII "wikilink")
-      - [ジム・ブルーディスティニー1号機](https://ja.wikipedia.org/wiki/陸戦型ガンダム#ブルーディスティニー1号機 "wikilink")（ゲームのみ）
-      - [陸戦型ガンダム](../Page/陸戦型ガンダム.md "wikilink")（ゲーム・漫画版のみ）
-      - [ガンダムEZ-8](https://ja.wikipedia.org/wiki/陸戦型ガンダム#ガンダムEz8 "wikilink")（ゲームのみ）
-      - [ガンタンク](../Page/ガンタンク.md "wikilink")（ゲーム・漫画版のみ）
-      - [ガンキャノン](../Page/ガンキャノン.md "wikilink")（ゲームのみ）
-      - [ガンダム](https://ja.wikipedia.org/wiki/ガンダム_\(架空の兵器\) "wikilink")（ゲームのみ）
-      - [ガンダムNT-1](../Page/ガンダムNT-1.md "wikilink")（ゲームのみ）
-      - [ガンダム6号機](https://ja.wikipedia.org/wiki/ガンダム_\(架空の兵器\)#ガンダム6号機（マドロック） "wikilink")（ゲームのみ）
-      - [ガンダム試作1号機](https://ja.wikipedia.org/wiki/ガンダム開発計画#ガンダム試作1号機（ゼフィランサス） "wikilink")（ゲームのみ）
+      - RRf-06 [ザニー](../Page/ザニー.md "wikilink")（漫画版のみ）
+      - RGM-79 [ジム](../Page/ジム_\(ガンダムシリーズ\).md "wikilink")（ゲーム・漫画版のみ）
+      - RGM-79\[G\] [陸戦型ジム](../Page/陸戦型ジム.md "wikilink")
+      - RGM-79D [ジム寒冷地仕様](https://ja.wikipedia.org/wiki/ジム・コマンド#ジム寒冷地仕様 "wikilink")（ゲームのみ）
+      - RGM-79G [ジム・スナイパーII](https://ja.wikipedia.org/wiki/ジム・スナイパー#ジム・スナイパーII "wikilink")
+      - RX-79BD-1 [ブルーディスティニー1号機](https://ja.wikipedia.org/wiki/陸戦型ガンダム#ブルーディスティニー1号機 "wikilink")（ゲームのみ）
+      - RX-79\[G\] [陸戦型ガンダム](../Page/陸戦型ガンダム.md "wikilink")（ゲーム・漫画版のみ）
+      - RX-79\[G\]Ez8 [ガンダムEZ-8](https://ja.wikipedia.org/wiki/陸戦型ガンダム#ガンダムEz8 "wikilink")（ゲームのみ）
+      - RX-75 [ガンタンク](../Page/ガンタンク.md "wikilink")（ゲーム・漫画版のみ）
+      - RX-77 [ガンキャノン](../Page/ガンキャノン.md "wikilink")（ゲームのみ）
+      - RX-78-2 [ガンダム](https://ja.wikipedia.org/wiki/ガンダム_\(架空の兵器\) "wikilink")（ゲームのみ）
+      - RX-78NT-1 [ガンダムNT-1](../Page/ガンダムNT-1.md "wikilink")（ゲームのみ）
+      - RX-78-6 [ガンダム6号機](https://ja.wikipedia.org/wiki/ガンダム_\(架空の兵器\)#ガンダム6号機（マドロック） "wikilink")（ゲームのみ）
+      - RX-78GP01 [ガンダム試作1号機](https://ja.wikipedia.org/wiki/ガンダム開発計画#ガンダム試作1号機（ゼフィランサス） "wikilink")（ゲームのみ）
   - 兵器
       - [ビッグ・トレー](https://ja.wikipedia.org/wiki/地球連邦軍の艦船及びその他の兵器#ビッグ・トレー "wikilink")
       - [フライ・マンタ](https://ja.wikipedia.org/wiki/地球連邦軍の艦船及びその他の兵器#フライ・マンタ "wikilink")
@@ -282,36 +283,36 @@
 <!-- end list -->
 
   - モビルスーツ
-      - [ザクI](../Page/ザクI.md "wikilink")（ゲームのみ）
-      - [ザクIIJ型](../Page/陸戦型ザクII.md "wikilink")
-      - [ガルマ専用ザクII](https://ja.wikipedia.org/wiki/ザクII#ザクII_FS型 "wikilink")（ゲームのみ）
-      - [シャア専用ザクII](https://ja.wikipedia.org/wiki/ザクII#指揮官用ザクII（ザクII_S型） "wikilink")（ゲームのみ）
-      - [ザクII改](https://ja.wikipedia.org/wiki/ザクII#ザクII最終生産型_（ザクII改、ザクII_FZ型） "wikilink")（ゲームのみ）
-      - [グフ](../Page/グフ.md "wikilink")
-      - [グフカスタム](https://ja.wikipedia.org/wiki/グフ#グフカスタム "wikilink")（ゲームのみ）
-      - [ドム](../Page/ドム.md "wikilink")
-      - [ドム・トローペン](https://ja.wikipedia.org/wiki/ドム#ドム・トローペン "wikilink")（ゲームのみ）
-      - [イフリート改](https://ja.wikipedia.org/wiki/イフリート_\(ガンダムシリーズ\)#イフリート改 "wikilink")（ゲームのみ）
-      - [陸戦型ゲルググ](https://ja.wikipedia.org/wiki/ゲルググ#陸戦型ゲルググ "wikilink")
-      - [ザメル](https://ja.wikipedia.org/wiki/ジオン公国の機動兵器#ザメル "wikilink")（ゲームのみ）
-      - [ケンプファー](../Page/ケンプファー.md "wikilink")（ゲームのみ）
-      - [ゴッグ](../Page/ゴッグ.md "wikilink")（ゲームのみ）
-      - [ハイゴッグ](https://ja.wikipedia.org/wiki/ゴッグ#ハイゴッグ "wikilink")（ゲーム・小説版のみ）
-      - [ズゴック](../Page/ズゴック.md "wikilink")（ゲームのみ）
-      - シャア専用ズゴック（ゲームのみ）
-      - [ズゴックE](https://ja.wikipedia.org/wiki/ズゴック#ズゴックE "wikilink")（ゲーム・小説版のみ）
-      - [ゾック](../Page/ゾック.md "wikilink")（ゲームのみ）
-      - [アッガイ](../Page/アッガイ.md "wikilink")（ゲームのみ）
+      - MS-05B [ザクI](../Page/ザクI.md "wikilink")（ゲームのみ）
+      - MS-06J [ザクIIJ型](../Page/陸戦型ザクII.md "wikilink")
+      - MS-06FS [ガルマ専用ザクII](https://ja.wikipedia.org/wiki/ザクII#ザクII_FS型 "wikilink")（ゲームのみ）
+      - MS-06S [シャア専用ザクII](https://ja.wikipedia.org/wiki/ザクII#指揮官用ザクII（ザクII_S型） "wikilink")（ゲームのみ）
+      - MS-06FZ [ザクII改](https://ja.wikipedia.org/wiki/ザクII#ザクII最終生産型_（ザクII改、ザクII_FZ型） "wikilink")（ゲームのみ）
+      - MS-07B [グフ](../Page/グフ.md "wikilink")
+      - MS-07B-3 [グフカスタム](https://ja.wikipedia.org/wiki/グフ#グフカスタム "wikilink")（ゲームのみ）
+      - MS-09 [ドム](../Page/ドム.md "wikilink")
+      - MS-09F/Trop [ドム・トローペン](https://ja.wikipedia.org/wiki/ドム#ドム・トローペン "wikilink")（ゲームのみ）
+      - MS-08TX\[EXAM\] [イフリート改](https://ja.wikipedia.org/wiki/イフリート_\(ガンダムシリーズ\)#イフリート改 "wikilink")（ゲームのみ）
+      - MS-14G [陸戦型ゲルググ](https://ja.wikipedia.org/wiki/ゲルググ#陸戦型ゲルググ "wikilink")
+      - YMS-16M [ザメル](https://ja.wikipedia.org/wiki/ジオン公国の機動兵器#ザメル "wikilink")（ゲームのみ）
+      - MS-18E [ケンプファー](../Page/ケンプファー.md "wikilink")（ゲームのみ）
+      - MSM-03 [ゴッグ](../Page/ゴッグ.md "wikilink")（ゲームのみ）
+      - MSM-03C [ハイゴッグ](https://ja.wikipedia.org/wiki/ゴッグ#ハイゴッグ "wikilink")（ゲーム・小説版のみ）
+      - MSM-07 [ズゴック](../Page/ズゴック.md "wikilink")（ゲームのみ）
+      - MSM-07S シャア専用ズゴック（ゲームのみ）
+      - MSM-07E [ズゴックE](https://ja.wikipedia.org/wiki/ズゴック#ズゴックE "wikilink")（ゲーム・小説版のみ）
+      - MSM-10 [ゾック](../Page/ゾック.md "wikilink")（ゲームのみ）
+      - MSM-04 [アッガイ](../Page/アッガイ.md "wikilink")（ゲームのみ）
   - 兵器
       - [ザンジバル](../Page/ザンジバル_\(ガンダムシリーズ\).md "wikilink")
-      - HLV
+      - [HLV](https://ja.wikipedia.org/wiki/ジオン公国の艦船及びその他の兵器#HLV "wikilink")
       - [ガウ](https://ja.wikipedia.org/wiki/ガウ_\(ガンダムシリーズ\) "wikilink")
       - [ギャロップ](../Page/ギャロップ_\(ガンダムシリーズ\).md "wikilink")
       - [ワッパ](https://ja.wikipedia.org/wiki/ワッパ_\(ガンダムシリーズ\) "wikilink")
       - [ドップ](../Page/ドップ.md "wikilink")
       - [マゼラアタック](../Page/マゼラアタック.md "wikilink")
       - ホバー・カーゴトラック
-      - [アッザム](../Page/アッザム.md "wikilink")
+      - MAX-03 [アッザム](../Page/アッザム.md "wikilink")
       - [アプサラス](../Page/アプサラス_\(ガンダムシリーズ\).md "wikilink")
 
 ## 関連商品

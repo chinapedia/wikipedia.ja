@@ -122,19 +122,23 @@ m &=& \frac{m_0}{\sqrt{1-\frac{v^2}{c^2}}}
 
   - [MOEDITOR](https://moeditor.js.org/) とMarkdown(簡単に見出しなどのレイアウトを変えられる機能)を融合したエディタ
 
-  - [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) とPythonをWeb上で使えるサービス
+  - [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) と[Python](../Page/Python.md "wikilink")をWeb上で使えるサービス
+
+  - [TeXLive2020をインストールしてLaTeXを始める](https://tm23forest.com/contents/texlive2020-install-latex-begin)
+
+  - [Installing TeX Live over the Internet](https://www.tug.org/texlive/acquire-netinstall.html)
 
 [Category:TeX](https://ja.wikipedia.org/wiki/Category:TeX "wikilink") [Category:数学に関する記事](https://ja.wikipedia.org/wiki/Category:数学に関する記事 "wikilink") [Category:1984年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1984年のソフトウェア "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink")
 
 1.  Leslie Lamport『文書処理システム 』・倉沢良一 監訳、大野俊治・小暮博道・藤浦はる美 訳、アスキー、1990年、5頁、ISBN 978-4-7561-0784-8.
 2.  日本の初等教育・中等教育での数式表記は [JIS Z 8201](https://ja.wikipedia.org/wiki/JIS_Z_8201 "wikilink") を基準にしている。[2006年](../Page/2006年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink")に確認が行われている JIS Z 8201-1981 (JIS Z 8201:1981) と国際標準である [ISO 31-11](https://ja.wikipedia.org/wiki/ISO_31-11 "wikilink"):1992 とでは、表記が一部異なっている。
 3.  日本の初等教育・中等教育での数式用に記号の形を調整するマクロとして、初等数学プリント作成マクロ [emath](https://ja.wikipedia.org/wiki/emath "wikilink") がある。
-4.  [](http://www.latex-project.org/lppl/)
+4.
 5.  ソースコードを DVI などの文書ファイル形式に変換すること。
-6.  [Microsoft Word](../Page/Microsoft_Word.md "wikilink") でしか開くことができなかった doc ファイルなどとは異なり、処理系に依存しないとされるファイル形式。
+6.  [Microsoft Word](../Page/Microsoft_Word.md "wikilink") でしか開くことができなかった旧型式の [doc ファイルなどとは異なり](https://ja.wikipedia.org/wiki/DOC_\(ファイル_フォーマット\) "wikilink")、処理系に依存しないとされるファイル形式。なお、新形式の [docx (Office Open XML Document)](../Page/Office_Open_XML.md "wikilink") は処理系に依存せず開くことができる。
 7.  処理系に依存しない標準規格。
 8.  他のソースコードの記述を自動的に読み込む仕組み。
-9.  [ で作られた本 — ](https://texwiki.texjp.org/?TeXで作られた本)
+9.
 10. 例えば[日本数学会](http://mathsoc.jp/meeting/texstyle/)や[電子情報通信学会](http://www.ieice.org/ftp/)
 11. [](https://ja.wikipedia.org/wiki/XyMTeX "wikilink") や [mhchem](https://ja.wikipedia.org/wiki/mhchem "wikilink") といったパッケージを利用すれば書ける。
-12. [ScienceSoft — LaTeX](http://sciencesoft.at/latex/index?lang=en)
+12.

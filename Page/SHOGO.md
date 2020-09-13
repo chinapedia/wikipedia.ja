@@ -17,7 +17,7 @@
   - また[ニッポン放送](../Page/ニッポン放送.md "wikilink")にて[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")、[SPACE SHOWER TVにて](../Page/スペースシャワーTV.md "wikilink")「BREAKTOWN MUSIC」という番組の司会も務めていた。
   - [尾崎豊](../Page/尾崎豊.md "wikilink")などの影響も受けてきたとされる。
   - [2005年](../Page/2005年.md "wikilink")より、作詞・作曲のクレジット名は「shogo. k」を使用している。
-  - [2006年](../Page/2006年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")には初の[ソロ](https://ja.wikipedia.org/wiki/ソロ "wikilink")名義で「AM（ありがとう みんな）1242」をリリース。
+  - [2006年](../Page/2006年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")には初の[ソロ](../Page/ソロ.md "wikilink")名義で「AM（ありがとう みんな）1242」をリリース。
   - 他にも[小久保淳平](../Page/小久保淳平.md "wikilink")とのアコギユニット「[THE無法松](https://ja.wikipedia.org/wiki/THE無法松 "wikilink")」、[西川貴教](../Page/西川貴教.md "wikilink")、[土屋礼央](https://ja.wikipedia.org/wiki/土屋礼央 "wikilink")、[グローバー義和とのユニット](../Page/グローバー_\(ミュージシャン\).md "wikilink")「[しぐれに](../Page/しぐれに.md "wikilink")」、元[JUDY AND MARYの](../Page/JUDY_AND_MARY.md "wikilink")[TAKUYA](../Page/TAKUYA.md "wikilink")とのユニット[MIND THE GAPなど](https://ja.wikipedia.org/wiki/MIND_THE_GAP "wikilink")、活動範囲も幅広い。
   - 自身がレーベルプロデューサーを務めるBUG ROCK RECORDSでは、[ジェット機](../Page/ジェット機_\(バンド\).md "wikilink")、[ニューロティカ](../Page/ニューロティカ.md "wikilink")などをプロデュース。
   - [2007年](../Page/2007年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink")には[爆風スランプ](../Page/爆風スランプ.md "wikilink")の1日限定の復活ライブにて175Rがオープニング・アクトを務めた際、[MC](../Page/MC.md "wikilink")で爆風スランプのファンクラブ、「骨まで愛して」の会員だったことを明かして観客を驚かせた。
@@ -65,8 +65,8 @@
 ### 楽曲提供
 
   - 作詞・作曲
-      - [ジェット機](../Page/ジェット機.md "wikilink") - 青すぎる空の下で（FIRST JET収録）
-      - [MCU](https://ja.wikipedia.org/wiki/MCU "wikilink") - B.A.M.O.R.A.（A Peacetime MCU収録）
+      - [ジェット機](../Page/ジェット機_\(バンド\).md "wikilink") - 青すぎる空の下で（FIRST JET収録）
+      - [MCU](../Page/MCU_\(ラッパー\).md "wikilink") - B.A.M.O.R.A.（A Peacetime MCU収録）
       - [高橋瞳](../Page/高橋瞳.md "wikilink") - PRIDE（[JET BOY JET GIRL収録](../Page/JET_BOY_JET_GIRL.md "wikilink")）
       - MADHAND - Carnival（BIRTHDAY収録）
   - 作曲
@@ -82,7 +82,7 @@
   - [MUSIC FREAKS](../Page/MUSIC_FREAKS.md "wikilink")（[FM802](../Page/FM802.md "wikilink") [日曜日](../Page/日曜日.md "wikilink")（隔週）、2002年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")-2003年[9月](../Page/9月.md "wikilink")）
   - SHOGOのallnightnippon-r（2002年10月1日-2003年9月23日）
   - SHOGOのオールナイトニッポンフライデー（2003年11月7日-2004年3月26日）
-  - SHOGOのオールナイトニッポン（2004年4月3日-2006年4月1日、土曜25:00-27:00）
+  - [SHOGOのオールナイトニッポン](../Page/SHOGOのオールナイトニッポン.md "wikilink")（2004年4月3日-2006年4月1日、土曜25:00-27:00）
 
 ### テレビ
 

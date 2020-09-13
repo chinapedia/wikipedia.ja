@@ -84,10 +84,13 @@
   - 高圧[ナトリウムランプ](../Page/ナトリウムランプ.md "wikilink")。で用いられる。
   - 単5形[乾電池](../Page/乾電池.md "wikilink")。単4形よりも径が太く高さが低い。日本では単5形と呼ばれる乾電池の種類。
   - [N値](https://ja.wikipedia.org/wiki/N値_\(ボーリング調査\) "wikilink") - 建築・土木工事を始めるにあたって、予め地盤の強度を調査するための[標準貫入試験](../Page/標準貫入試験.md "wikilink")に基づく指標。
+  - [携帯電話](../Page/携帯電話.md "wikilink")の型番につけられる略号で、[日本電気](../Page/日本電気.md "wikilink")（NEC）を指す。
 
 #### 交通
 
   - 自動車の[国際識別記号](../Page/国際識別記号.md "wikilink")では、[ノルウェー](../Page/ノルウェー.md "wikilink") ()。
+  - [自動車](../Page/自動車.md "wikilink")や[オートバイ](../Page/オートバイ.md "wikilink")の[ギアポジションのニュートラル](https://ja.wikipedia.org/wiki/変速機 "wikilink")。
+  - [ヒュンダイのハイパフォーマンスブランド](../Page/現代自動車.md "wikilink")。[ニュルブルクリンク](https://ja.wikipedia.org/wiki/ニュルブルクリンク "wikilink")と同社のR\&Dセンターが所在する[南陽(Namyang、華城市)の頭文字から](https://ja.wikipedia.org/wiki/華城市 "wikilink")。
   - [駅ナンバリング](../Page/駅ナンバリング.md "wikilink")での路線符号。
       - [東京メトロ南北線](../Page/東京メトロ南北線.md "wikilink") ()
       - [Osaka Metro長堀鶴見緑地線](../Page/Osaka_Metro長堀鶴見緑地線.md "wikilink") ()
@@ -101,8 +104,6 @@
   - [thumb](https://ja.wikipedia.org/wiki/ファイル:Compass_\(PSF\).png "wikilink") [北](../Page/北.md "wikilink") ()。[磁極](https://ja.wikipedia.org/wiki/磁極 "wikilink")の N 極も  による。対義語は[南](https://ja.wikipedia.org/wiki/南 "wikilink")を表す [S](../Page/S.md "wikilink")。
   - [否定](../Page/否定.md "wikilink") ()。[Y](../Page/Y.md "wikilink") の反対
   - [テレビ番組](../Page/テレビ番組.md "wikilink")表で[ニュース番組](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")。「<span style="border:thin solid rgb(0,0,0);">N</span>」で表す。
-  - [自動車](../Page/自動車.md "wikilink")や[オートバイ](../Page/オートバイ.md "wikilink")の[ギアポジションのニュートラル](https://ja.wikipedia.org/wiki/変速機 "wikilink")。
-  - [ヒュンダイのハイパフォーマンスブランド](../Page/現代自動車.md "wikilink")。[ニュルブルクリンク](https://ja.wikipedia.org/wiki/ニュルブルクリンク "wikilink")の頭文字から。
   - 新型・新形式 ()。従来形式と同一の名称が使用される場合に、区別のため接頭もしくは接尾に付されることがある。
   - [チェス](../Page/チェス.md "wikilink")の棋譜などで[ナイト](../Page/ナイト_\(チェス\).md "wikilink")（)（Kは[キング](../Page/キング_\(チェス\).md "wikilink")）。将棋でもナイトに相当する[桂馬](../Page/桂馬.md "wikilink")を表す。
 

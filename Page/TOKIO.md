@@ -48,7 +48,7 @@
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a></p></td>
 <td><p>O型</p></td>
-<td><p>ボーカル、ギター[10]</p></td>
+<td><p><a href="../Page/ギター.md" title="wikilink">ギター</a>、ボーカル</p></td>
 </tr>
 </tbody>
 </table>
@@ -74,16 +74,16 @@
 <td><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a></p></td>
 <td></td>
 <td><p>ボーカル、ギター</p></td>
-<td><p><a href="../Page/1994年.md" title="wikilink">1994年</a>[11]</p></td>
+<td><p><a href="../Page/1994年.md" title="wikilink">1994年</a>[10]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/山口達也.md" title="wikilink">山口達也</a>[12]<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/山口達也_(代表的なトピック)" title="wikilink">山口達也</a>[11]<br />
 （やまぐち たつや）</p></td>
 <td></td>
 <td><p><a href="../Page/埼玉県.md" title="wikilink">埼玉県</a></p></td>
 <td><p>O型</p></td>
 <td><p><a href="../Page/エレクトリックベース.md" title="wikilink">ベース</a>、ボーカル</p></td>
-<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a>[13]</p></td>
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a>[12]</p></td>
 </tr>
 </tbody>
 </table>
@@ -94,7 +94,7 @@
 
 [1989年](../Page/1989年.md "wikilink")、テレビ朝日の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[アイドル共和国](../Page/アイドル共和国.md "wikilink")』内で、「[平家派](https://ja.wikipedia.org/wiki/ジャニーズJr.解散グループ_\(1990年以前\)#平家派 "wikilink")」のメンバーだった城島と山口が「城島茂バンド（通称：ジョーバンド）」というユニットを結成（更に前身は「JURIA」というバンド）。 その後、社長の[ジャニー喜多川](../Page/ジャニー喜多川.md "wikilink")が「[TOKIO BAND](https://ja.wikipedia.org/wiki/ジャニーズ事務所_過去のバックバンド#TOKIO_BAND "wikilink")」というバンド名を与えた。このTOKIO BANDが、現在のTOKIOの直接の前身に当たる。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")4月、国分（城島、山口と同じく「平家派」の出身）と松岡が「[SMAP学園](https://ja.wikipedia.org/wiki/ジャニーズJr.解散グループ_\(1990年代\)#SMAP学園 "wikilink")」選抜メンバーとして城島と合流後、3名で最初のTOKIOを結成。 少し遅れて[小島啓](../Page/小島啓.md "wikilink")が加入し4人組となる。 しばらくこの4人での活動が続いたが、城島がジャニー喜多川に交渉した事により、山口がTOKIOメンバーに復帰した。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")4月、国分（城島、山口と同じく「平家派」の出身）と松岡が「[SMAP学園](https://ja.wikipedia.org/wiki/ジャニーズJr.解散グループ_\(1990年代\)#SMAP学園 "wikilink")」選抜メンバーとして城島（山口はいない）と合流後、3名で最初のTOKIOを結成。 少し遅れて[小島啓](../Page/小島啓.md "wikilink")が加入し4人組となる。 しばらくこの4人での活動が続いたが、城島がジャニー喜多川に交渉した事により、山口がTOKIOメンバーに復帰した。
 
 [1992年](../Page/1992年.md "wikilink")頃から、[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")の中で頭角を現していた長瀬が時折サポートとして加入するようになる。それ以降デビューまで、雑誌・ラジオ等では長瀬を除く5人編成、テレビやライブでは長瀬を含む6人編成といった変則的な構成であったり、ダンスチームとバンドチームの2グループ制でも活動していた。城島はバンド側のみ所属し、残りのメンバーは両側に所属。
 
@@ -163,7 +163,7 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
 
 2010年[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")、「[-遥か-](https://ja.wikipedia.org/wiki/-遥か- "wikilink")」をリリース。『ザ\!鉄腕\!DASH\!\!』の企画「DASH海岸」のテーマソングであり、[TUBE](../Page/TUBE.md "wikilink")の[前田亘輝](../Page/前田亘輝.md "wikilink")・[春畑道哉](../Page/春畑道哉.md "wikilink")から詞曲提供を受けた。「青春 SEISYuN」以来、2年7ヶ月振りの首位獲得となり、ジェイ・ストーム移籍後は初の首位獲得となった。また、初動のみで前作の累計売上を上回った。
 
-2010年7月、『ザ\!鉄腕\!DASH\!\!』の企画「DASH海岸」が[国土交通省](../Page/国土交通省.md "wikilink")から評価され、「海の日表彰（[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")整備局港湾空港関係功労者表彰）」を受けた\[14\]\[15\]。
+2010年7月、『ザ\!鉄腕\!DASH\!\!』の企画「DASH海岸」が[国土交通省](../Page/国土交通省.md "wikilink")から評価され、「海の日表彰（[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")整備局港湾空港関係功労者表彰）」を受けた\[13\]\[14\]。
 
 2010年8月28日・29日、『[24時間テレビ 「愛は地球を救う」 ありがとう〜今、あの人に伝えたい〜](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』において、3度目のパーソナリティを務めた。
 
@@ -183,7 +183,7 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
 
 2014年8月から11月にかけて20周年記念ライブ「JRA 60th presents TOKIO 20th Anniversary Live Tour HEART」を開催。
 
-2014年のバラエティ年間平均視聴率ランキングで、レギュラー番組の『[ザ\!鉄腕\!DASH\!\!](../Page/ザ!鉄腕!DASH!!.md "wikilink")』が平均視聴率18.4%で首位となった\[16\]。
+2014年のバラエティ年間平均視聴率ランキングで、レギュラー番組の『[ザ\!鉄腕\!DASH\!\!](../Page/ザ!鉄腕!DASH!!.md "wikilink")』が平均視聴率18.4%で首位となった\[15\]。
 
 2015年9月11日、国分が3歳年下の元TBS社員の一般女性と結婚したことを発表した。
 
@@ -197,15 +197,19 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
 
 #### 山口の不祥事、脱退
 
-2018年4月25日、同年2月12日に[山口が司会を務めていた番組で共演した](https://ja.wikipedia.org/wiki/Rの法則 "wikilink")[女子高生](../Page/女子高生.md "wikilink")に対して、飲酒させた上に[わいせつ](../Page/わいせつ.md "wikilink")な行為をしたとして、強制わいせつ容疑で[書類送検](../Page/書類送検.md "wikilink")されたことが報道された\[17\]。これを受け山口が翌日謝罪会見を開き、ジャニーズ事務所は芸能活動を無期限謹慎処分とすることを発表\[18\]。その後、5月2日に山口以外の4人は会見を開き、4月30日に山口がTOKIOに「辞表」を提出して脱退を申し出たことを城島が明かした。なお城島は山口の処遇について、その日のうちに結論が出ずに保留になったとしていた\[19\]が、ジャニーズ事務所の公式サイト上では同日までに山口のプロフィールや写真、レギュラー番組の情報などが削除された\[20\]。
+2018年4月25日、同年2月12日に[山口が司会を務めていた番組で共演した](https://ja.wikipedia.org/wiki/Rの法則 "wikilink")[女子高生](../Page/女子高生.md "wikilink")に対して、飲酒させた上に[わいせつ](../Page/わいせつ.md "wikilink")な行為をしたとして、強制わいせつ容疑で[書類送検](../Page/書類送検.md "wikilink")されたことが報道された\[16\]。これを受け山口が翌日謝罪会見を開き、ジャニーズ事務所は芸能活動を無期限謹慎処分とすることを発表\[17\]。その後、5月2日に山口以外の4人は会見を開き、4月30日に山口がTOKIOに「辞表」を提出して脱退を申し出たことを城島が明かした。なお城島は山口の処遇について、その日のうちに結論が出ずに保留になったとしていた\[18\]が、ジャニーズ事務所の公式サイト上では同日までに山口のプロフィールや写真、レギュラー番組の情報などが削除された\[19\]。
 
-同年5月6日、山口から提出された「辞表」についてジャニーズ事務所が正式に受理し、これにより山口はTOKIOから脱退すると共にジャニーズ事務所からも退所した。ジャニーズ事務所は、「本人の強い意思に基づき[ジャニー喜多川](../Page/ジャニー喜多川.md "wikilink")社長と城島茂リーダーの2人で協議を行った結果、契約を解除することとなりました」としている\[21\]\[22\]。
+同年5月6日、山口から提出された「辞表」についてジャニーズ事務所が正式に受理し、これにより山口はTOKIOから脱退すると共にジャニーズ事務所からも退所した。ジャニーズ事務所は、「本人の強い意思に基づき[ジャニー喜多川](../Page/ジャニー喜多川.md "wikilink")社長と城島茂リーダーの2人で協議を行った結果、契約を解除することとなりました」としている\[20\]\[21\]。
 
-この影響によりTOKIOは音楽活動を休止することとなり、夏や年末の大型音楽特番への出演も辞退する事となった。また、デビュー以来、毎年出場していたNHK紅白歌合戦にも選出されず、TOKIOの連続出場記録も歴代11位の24年で途切れてしまった\[23\]。
+この影響によりTOKIOは音楽活動を休止することとなり、夏や年末の大型音楽特番への出演も辞退する事となった。また、デビュー以来、毎年出場していたNHK紅白歌合戦にも選出されず、TOKIOの連続出場記録も歴代11位の24年で途切れてしまった\[22\]。
+
+#### 長瀬の脱退、株式会社TOKIO設立
+
+2020年7月22日、長瀬が翌2021年3月いっぱいでジャニーズ事務所を退所すること、残りの3人は来年4月1日付でジャニーズグループの関連会社となる「株式会社TOKIO」を設立し、グループとしての活動を継続することが発表された\[23\]。なお、2020年7月22日時点で法人登記されており、代表取締役に[藤島ジュリー景子](https://ja.wikipedia.org/wiki/藤島ジュリー景子 "wikilink")、取締役社長に城島、取締役副社長・企画担当に国分、取締役副社長・広報担当に松岡が就任した\[24\]\[25\]。
 
 ## エピソード
 
-  - 『ザ\!鉄腕\!DASH\!\!』の企画「[DASH村](../Page/DASH村.md "wikilink")」が[福島県](../Page/福島県.md "wikilink")[浪江町](https://ja.wikipedia.org/wiki/浪江町 "wikilink")にある縁から、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")で深刻な被害を被った福島県への恩返しを込めて、同県の農産物PRCMに2011年からノーギャラで出演している事が明かされている\[24\]。
+『ザ\!鉄腕\!DASH\!\!』の企画「[DASH村](../Page/DASH村.md "wikilink")」が[福島県](../Page/福島県.md "wikilink")[浪江町](https://ja.wikipedia.org/wiki/浪江町 "wikilink")にある縁から、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")で深刻な被害を被った福島県への恩返しを込めて、同県の農産物PRCMに2011年からノーギャラで出演している事が明かされている\[26\]。
 
 ## 作品
 
@@ -213,7 +217,7 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
 
 2000年の「恋に気づいた夜」までが8cmシングル、2001年の「どいつもこいつも」からマキシシングル。タイアップについては[ジャニーズ タイアップ一覧を参照](https://ja.wikipedia.org/wiki/ジャニーズ_タイアップ一覧#た行 "wikilink")。
 
-| ＃                                                           | 発売日         | タイトル                                                                                                     | カップリング                           | 最高順位\[25\] | 収録アルバム                                                                               |
+| ＃                                                           | 発売日         | タイトル                                                                                                     | カップリング                           | 最高順位\[27\] | 収録アルバム                                                                               |
 | ----------------------------------------------------------- | ----------- | -------------------------------------------------------------------------------------------------------- | -------------------------------- | ---------- | ------------------------------------------------------------------------------------ |
 | [ソニーレコード](https://ja.wikipedia.org/wiki/ソニーレコード "wikilink") |             |                                                                                                          |                                  |            |                                                                                      |
 | 1                                                           | 1994年9月21日  | *' [LOVE YOU ONLY](../Page/LOVE_YOU_ONLY.md "wikilink")*'                                                | 時代を（TOKIO）よろしく\!                 | 3位         | [TOKIO](../Page/TOKIO_\(TOKIOのアルバム\).md "wikilink")                                  |
@@ -511,7 +515,7 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
 <td><p>2012年</p></td>
 <td><p><strong>TOKIO STATION II 〜屋形船編〜</strong></p></td>
 <td><p>DVD</p></td>
-<td><p>アルバム『<a href="https://ja.wikipedia.org/wiki/17_(アルバム)" title="wikilink">17</a>』購入特典</p></td>
+<td><p>アルバム『<a href="https://ja.wikipedia.org/wiki/17_(TOKIOのアルバム)" title="wikilink">17</a>』購入特典</p></td>
 </tr>
 <tr class="even">
 <td><p>-</p></td>
@@ -629,7 +633,7 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
   - [ベネッセコーポレーション](https://ja.wikipedia.org/wiki/ベネッセコーポレーション "wikilink")進研ゼミ・中学生講座
   - [コンパック](../Page/コンパック.md "wikilink")・Presario
   - [麒麟麦酒](../Page/麒麟麦酒.md "wikilink")・キリンラガービール
-  - [ENEOS](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")（現在、『[ザ\!鉄腕\!DASH\!\!](../Page/ザ!鉄腕!DASH!!.md "wikilink")』([NNN](https://ja.wikipedia.org/wiki/NNN "wikilink")・[NNS](../Page/日本テレビネットワーク協議会.md "wikilink")([FNN](https://ja.wikipedia.org/wiki/FNN "wikilink")・[FNSと](../Page/フジネットワーク.md "wikilink")[ANN](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[クロスネット](https://ja.wikipedia.org/wiki/クロスネット "wikilink")局の[テレビ大分](../Page/テレビ大分.md "wikilink")・[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")でも放送）の[提供](https://ja.wikipedia.org/wiki/提供 "wikilink")を務めている
+  - [ENEOS](../Page/ENEOS.md "wikilink")　※『[ザ\!鉄腕\!DASH\!\!](../Page/ザ!鉄腕!DASH!!.md "wikilink")』[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")([FNN](https://ja.wikipedia.org/wiki/FNN "wikilink")・[FNSと](../Page/フジネットワーク.md "wikilink")[ANN](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[クロスネット](https://ja.wikipedia.org/wiki/クロスネット "wikilink")局の[テレビ大分](../Page/テレビ大分.md "wikilink")・[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")でも放送）での[提供](https://ja.wikipedia.org/wiki/提供 "wikilink")を務めている（2020年現在）
   - [ごはん食推進委員会](../Page/食糧庁.md "wikilink")（2000年）
   - [東海旅客鉄道](../Page/東海旅客鉄道.md "wikilink")・[AMBITIOUS JAPAN\!キャンペーン](../Page/AMBITIOUS_JAPAN!.md "wikilink")（2003年 - 2005年）
   - [マイクロソフト](../Page/マイクロソフト.md "wikilink")[Xbox 360](../Page/Xbox_360.md "wikilink")・「do\!do\!do\! しようぜ。」キャンペーン（2006年）
@@ -688,7 +692,7 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
 <tr class="even">
 <td><p>1995年/<a href="../Page/第46回NHK紅白歌合戦.md" title="wikilink">第46回</a></p></td>
 <td><p>2</p></td>
-<td><p>風になって（紅白バージョン）[26]</p></td>
+<td><p>風になって（紅白バージョン）[28]</p></td>
 <td><p>05/25</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/安室奈美恵" title="wikilink">安室奈美恵</a></p></td>
 <td></td>
@@ -862,7 +866,7 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
 <td><p>都庁から生中継</p></td>
 </tr>
 <tr class="even">
-<td><p>2017年/<a href="https://ja.wikipedia.org/wiki/第68回NHK紅白歌合戦" title="wikilink">第68回</a>[27]</p></td>
+<td><p>2017年/<a href="https://ja.wikipedia.org/wiki/第68回NHK紅白歌合戦" title="wikilink">第68回</a>[29]</p></td>
 <td><p>24</p></td>
 <td><p>AMBITIOUS JAPAN!(4回目)</p></td>
 <td><p>14/22</p></td>
@@ -1510,7 +1514,7 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
   - [ジェイ・ストームによる公式ページ](https://www.j-storm.co.jp/tokio)
   - [TOKIO - Sony Music](https://www.sonymusic.co.jp/Music/Arch/SR/Tokio/)
 
-[Category:TOKIO](https://ja.wikipedia.org/wiki/Category:TOKIO "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:1989年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1989年に結成した音楽グループ "wikilink")
+[Category:TOKIO](https://ja.wikipedia.org/wiki/Category:TOKIO "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ジャニーズのポップ・グループ](https://ja.wikipedia.org/wiki/Category:ジャニーズのポップ・グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:1989年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1989年に結成した音楽グループ "wikilink")
 
 1.
 2.
@@ -1523,11 +1527,11 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
 9.
 10.
 11.
-12.
-13. [【山口達也さん契約解除】ジャニーズ事務所が報道機関向けに文書　契約解除理由など説明　全文掲載](https://www.sankei.com/entertainments/news/180506/ent1805060013-n1.html) 産経新聞 2018年5月6日
+12. [【山口達也さん契約解除】ジャニーズ事務所が報道機関向けに文書　契約解除理由など説明　全文掲載](https://www.sankei.com/entertainments/news/180506/ent1805060013-n1.html) 産経新聞 2018年5月6日
+13.
 14.
-15.
-16. [日経エンタテインメント！](https://ja.wikipedia.org/wiki/日経エンタテインメント！ "wikilink")2015年1月号
+15. [日経エンタテインメント！](https://ja.wikipedia.org/wiki/日経エンタテインメント！ "wikilink")2015年1月号
+16.
 17.
 18.
 19.
@@ -1535,7 +1539,9 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
 21.
 22.
 23.
-24. [TOKIO、11年から福島県CMノーギャラだった](http://www.nikkansports.com/entertainment/news/1515486.html) [日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink") 2015年7月31日、同10月23日閲覧。
-25.
-26. 「風になって」「LOVE YOU ONLY」2回目「うわさのキッス」のメドレー
-27. 2018年4月に発生した山口達也(元メンバー)の騒動により、歌手としての活動は休止中
+24.
+25. [「株式会社TOKIO」登記簿が閲覧可能に　代表取締役は城島茂社長ではなかった](https://www.j-cast.com/2020/07/29391046.html?p=all)（[ジェイ・キャスト](../Page/ジェイ・キャスト.md "wikilink")、2020年7月29日）
+26. [TOKIO、11年から福島県CMノーギャラだった](http://www.nikkansports.com/entertainment/news/1515486.html) [日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink") 2015年7月31日、同10月23日閲覧。
+27.
+28. 「風になって」「LOVE YOU ONLY」(2回目)「うわさのキッス」のメドレー
+29. 2018年4月に発生した山口達也(元メンバー)の騒動により、歌手としての活動は休止中

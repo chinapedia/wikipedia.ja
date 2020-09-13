@@ -80,8 +80,8 @@ Independent JPEG Group によるフリーのライブラリ [libjpeg](https://ja
 
 ## 外部リンク
 
-  - [JPEG公式サイト](http://www.jpeg.org/jpeg/)（英語。）
-  - [W3C Overview of JPEG](http://www.w3.org/Graphics/JPEG/)（英語。JPEGおよびJFIFの仕様書あり）
+  - [JPEG公式サイト](http://www.jpeg.org/jpeg/)
+  - [W3C Overview of JPEG](http://www.w3.org/Graphics/JPEG/) （JPEGおよびJFIFの仕様書あり）
 
 [Category:データ圧縮規格](https://ja.wikipedia.org/wiki/Category:データ圧縮規格 "wikilink") [Category:ラスターグラフィックス・ファイルフォーマット](https://ja.wikipedia.org/wiki/Category:ラスターグラフィックス・ファイルフォーマット "wikilink") [Category:オープンフォーマット](https://ja.wikipedia.org/wiki/Category:オープンフォーマット "wikilink") [Category:ISO/IEC標準](https://ja.wikipedia.org/wiki/Category:ISO/IEC標準 "wikilink") [Category:ITU-T勧告](https://ja.wikipedia.org/wiki/Category:ITU-T勧告 "wikilink") [Category:アクロニム](https://ja.wikipedia.org/wiki/Category:アクロニム "wikilink") [Category:非可逆圧縮アルゴリズム](https://ja.wikipedia.org/wiki/Category:非可逆圧縮アルゴリズム "wikilink")
 

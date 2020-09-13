@@ -33,6 +33,7 @@
 
 ## lb
 
-  - [ポンド (質量)](../Page/ポンド_\(質量\).md "wikilink") (ラテン語 )
+  - [ポンド (質量)](../Page/ポンド_\(質量\).md "wikilink") - [ヤード・ポンド法](../Page/ヤード・ポンド法.md "wikilink")などにおける質量の単位。(ラテン語 )
+  - [重量ポンド](../Page/重量ポンド.md "wikilink") - [英国重力単位系](https://ja.wikipedia.org/wiki/英国重力単位系 "wikilink") (BG: British Gravitational Units)で用いられる力の単位。
   - [.lb](https://ja.wikipedia.org/wiki/.lb "wikilink") - レバノンの[国別ドメイン](https://ja.wikipedia.org/wiki/国別ドメイン "wikilink")
   - [ルクセンブルク語](../Page/ルクセンブルク語.md "wikilink")の[ISO 639-1言語コード](../Page/ISO_639.md "wikilink")

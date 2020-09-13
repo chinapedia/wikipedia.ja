@@ -344,6 +344,7 @@ BASICは依然として初心者向けの言語ではあるが、パソコンに
   - [QBasic](https://ja.wikipedia.org/wiki/QBasic "wikilink") （QuickBASICの簡易版、[Windows 95](../Page/Microsoft_Windows_95.md "wikilink") / [98の](../Page/Microsoft_Windows_98.md "wikilink")[CD-ROM](../Page/CD-ROM.md "wikilink")に英語版が付属）
   - [QuickBASIC](../Page/QuickBASIC.md "wikilink") （Visual Basicの原型となった構造化BASIC）
   - [Microsoft BASIC Professional Development System](https://ja.wikipedia.org/wiki/Microsoft_BASIC_Professional_Development_System "wikilink") （QuickBASICの進化形で、標準でISAMデータベースが構築でき、MS-MASM、MS-C、Quick C、MS-FORTRAN等とのミックスド・ランゲージ開発が可能な、プロユースの構造化BASIC）
+  - [Microsoft GW-BASIC](https://ja.wikipedia.org/wiki/Microsoft_GW-BASIC "wikilink") かつてMicrosoftが1983年頃出していたBASICで2020-05-21にオープンソース化された、実行環境やバイナリーは提供されていないので初心が使うのは無理で有る。 外部リンク(<https://github.com/microsoft/GW-BASIC>)
   - SONY BASIC（ソニー[SMC-70](https://ja.wikipedia.org/wiki/SMC-70 "wikilink")、[SMC-777](../Page/SMC-777.md "wikilink")/Cに搭載されたBASICインタープリタ、マイクロソフト系命令セットを備えているが、直接の関係はなく、ビー・ユー・ジー社（現[ビー・ユー・ジーDMG森精機](../Page/ビー・ユー・ジーDMG森精機.md "wikilink")株式会社）が開発した\[6\]。）
 
 <!-- end list -->

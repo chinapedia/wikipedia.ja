@@ -5,14 +5,6 @@
 
 **NASDAQ**（ナスダック、National Association of Securities Dealers Automated Quotations）は、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")に[全米証券業協会](https://ja.wikipedia.org/wiki/全米証券業協会 "wikilink")（NASD）の主催で開設された[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")にある世界最大の新興企業（[ベンチャー](../Page/ベンチャー.md "wikilink")）向け[株式市場](https://ja.wikipedia.org/wiki/株式市場 "wikilink")である。
 
-## 概要
-
-情報技術の普及・浸透により誕生した取引の一形態である。取引所とは異なり、距離の離れたマーケット事業者が[コンピュータネットワーク](../Page/コンピュータネットワーク.md "wikilink")を使用して売買気配値を提示する。
-
-近年は[インターネット](../Page/インターネット.md "wikilink")・[情報技術](../Page/情報技術.md "wikilink")関連企業がこぞって市場に参入するようになった。[2000年](../Page/2000年.md "wikilink")には[インターネット・バブル](https://ja.wikipedia.org/wiki/インターネット・バブル "wikilink")により、当市場にて算出される株価指数の[ナスダック総合指数](../Page/ナスダック総合指数.md "wikilink")が一時5000ポイントを超えた。[2015年](../Page/2015年.md "wikilink")、ナスダック総合指数は2000年のインターネットバブル時の5000ポイント台まで回復した。
-
-[ニューヨーク市](https://ja.wikipedia.org/wiki/ニューヨーク市 "wikilink")[マンハッタン](../Page/マンハッタン.md "wikilink")の[タイムズスクエア](../Page/タイムズスクエア.md "wikilink")の一角には上場企業の株価を100台以上の大型テレビで表示する[ナスダックマーケットサイト](https://ja.wikipedia.org/wiki/ナスダックマーケットサイト "wikilink")があり、テレビメディアがここから最新の動向を伝え、巨大テレビを利用して株価を表示したりする。また、ビルの外壁一面にLEDディスプレイが取り付けてあり、広告効果が高い。
-
 ## 歴史
 
 証券取引を開始した日時は[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[2月8日](../Page/2月8日.md "wikilink")。世界初の電子株式市場として、世界中の注目を集めた。
@@ -32,12 +24,6 @@
 取引時間はいずれも米国[東部標準時](../Page/東部標準時.md "wikilink")(EST)。
 
 立会時間は、東部時間9:30～16:00（日本時間23:30～6:00、夏時間の場合は22:30～5:00）の「一場制」であり、日本のような「前場」・「後場」といった区分は無いが、お昼時は相場の参加者が少なくなるため、取引量が少なくなり、立会時間の午前中に出来高が多い傾向にある。
-
-## 市場区分
-
-  - NASDAQ Capital Market (small cap)
-  - NASDAQ Global Market (mid cap)
-  - NASDAQ Global Select Market (NASDAQ-GS Large cap)
 
 ## NASDAQに上場する主な日本企業
 
@@ -60,13 +46,13 @@
 
 [韓国にも新興企業向け店頭株式市場として](../Page/大韓民国.md "wikilink")「[KOSDAQ](https://ja.wikipedia.org/wiki/KOSDAQ "wikilink")」（コスダック）が存在したが、[2005年](../Page/2005年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")に[韓国証券取引所](https://ja.wikipedia.org/wiki/韓国証券取引所 "wikilink")および[韓国先物取引所](https://ja.wikipedia.org/wiki/韓国先物取引所 "wikilink")と合併し、現在は「[韓国取引所](https://ja.wikipedia.org/wiki/韓国証券先物取引所 "wikilink")」（略称：KRX）となっている。
 
+## 脚注
+
 ## 関連項目
 
   - [ナスダック総合指数](../Page/ナスダック総合指数.md "wikilink")
   - [ナスダック100指数](https://ja.wikipedia.org/wiki/ナスダック100指数 "wikilink")
   - [バーナード・L・マドフ](https://ja.wikipedia.org/wiki/バーナード・L・マドフ "wikilink") （元NASDAQ社長にして、史上最大の金融詐欺事件の犯人）
-
-## 脚注
 
 ## 外部リンク
 

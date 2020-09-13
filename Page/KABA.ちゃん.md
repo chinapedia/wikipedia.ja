@@ -263,7 +263,7 @@ CONCERT TOUR 2000・2001・2002・2003 等</p></td>
 
 ### テレビドラマ
 
-  - 悪いオンナ「シャッフル」第3話（2000年3月15日、TBS系） - 土田信治 役
+  - [悪いオンナ「シャッフル」](https://ja.wikipedia.org/wiki/悪いオンナ#シャッフル "wikilink") 第3話（2000年3月15日、TBS系） - 土田信治 役
   - [OLヴィジュアル系](../Page/OLヴィジュアル系.md "wikilink")（2001年4 - 6月、テレビ朝日系[金曜ナイトドラマ](../Page/金曜ナイトドラマ.md "wikilink")） - 本人役（椛島永次名義）
   - 父娘探偵・金造&ミチル「ホストクラブ殺人事件」（2002年7月5日、フジテレビ系[金曜エンタテイメント](../Page/金曜エンタテイメント.md "wikilink")） - マモル 役
   - [乙女は何を夢見たか](https://netcinema.anpaca.tv/content/10/295)(2005年、[ネットシネマ](https://netcinema.anpaca.tv/)） - 脚本、本人役
@@ -272,12 +272,12 @@ CONCERT TOUR 2000・2001・2002・2003 等</p></td>
   - [刑事吉永誠一 涙の事件簿](../Page/刑事吉永誠一_涙の事件簿.md "wikilink")3 雨に殺せば（2005年11月16日、テレビ東京系[水曜ミステリー9](../Page/水曜ミステリー9.md "wikilink")）
   - [ガチバカ\!](../Page/ガチバカ!.md "wikilink")（2006年1 - 3月、TBS系[連続ドラマ](https://ja.wikipedia.org/wiki/連続ドラマ "wikilink")） - 五十嵐忍 役
   - [和田アキ子殺人事件](../Page/和田アキ子殺人事件.md "wikilink")（2007年2月12日、TBS系）
-  - [警視庁捜査一課9係 season2](https://ja.wikipedia.org/wiki/警視庁捜査一課9係 "wikilink")（2007年4 - 6月、テレビ朝日系連続ドラマ） - 鳥越輝明 役
+  - [警視庁捜査一課9係 season2](https://ja.wikipedia.org/wiki/警視庁捜査一課9係 "wikilink")（2007年4 - 6月、テレビ朝日系） - 鳥越輝明 役
   - わたしが子どもだったころ（2007年8月、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
-  - スペシャルドラマ [必殺仕事人2012](https://ja.wikipedia.org/wiki/必殺仕事人2012 "wikilink")（2012年2月19日、[朝日放送](../Page/朝日放送テレビ.md "wikilink")）
-  - [クレオパトラな女たち](https://ja.wikipedia.org/wiki/クレオパトラな女たち "wikilink") 第5話（2012年5月16日、日本テレビ系）
-  - [仮面ライダーウィザード](https://ja.wikipedia.org/wiki/仮面ライダーウィザード "wikilink")（2012年9月9日 - 2013年9月22日、テレビ朝日系連続ドラマ） - ドーナツ屋店長 役
-  - [女はそれを許さない](https://ja.wikipedia.org/wiki/女はそれを許さない "wikilink") 第8話（2014年12月9日、TBS系） - 小坂俊彦役
+  - スペシャルドラマ [必殺仕事人2012](https://ja.wikipedia.org/wiki/必殺仕事人2012 "wikilink")（2012年2月19日、[朝日放送](../Page/朝日放送テレビ.md "wikilink")・テレビ朝日系） - 女装の人足 役
+  - [クレオパトラな女たち](https://ja.wikipedia.org/wiki/クレオパトラな女たち "wikilink") 第5話（2012年5月16日、日本テレビ）
+  - [仮面ライダーウィザード](https://ja.wikipedia.org/wiki/仮面ライダーウィザード "wikilink")（2012年9月9日 - 2013年9月22日、テレビ朝日） - ドーナツ屋店長 役
+  - [女はそれを許さない](https://ja.wikipedia.org/wiki/女はそれを許さない "wikilink") 第8話（2014年12月9日、TBS） - 小坂俊彦 役
 
 ### テレビアニメ
 

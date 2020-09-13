@@ -1,7 +1,7 @@
 > この記事は[Ppm](https://ja.wikipedia.org/wiki/Ppm)から翻訳されています。
 
 
-**ppm**（パーツ・パー・ミリオン）や**百万分率**（ひゃくまんぶんりつ）は、100万分のいくらであるかという割合を示す[parts-per表記](https://ja.wikipedia.org/wiki/parts-per表記 "wikilink")による単位。「**p**arts **p**er **m**illion」の頭文字をとったもので、100万分の1の意。1ppm = 0.0001% であり 10,000ppm = 1% である。POP ups for your
+**ppm**（パーツ・パー・ミリオン）や**百万分率**（ひゃくまんぶんりつ）は、100万分のいくらであるかという割合を示す[parts-per表記](https://ja.wikipedia.org/wiki/parts-per表記 "wikilink")による単位。「**p**arts **p**er **m**illion」の頭文字をとったもので、100万分の1の意。1ppm = 0.0001% であり 10,000ppm = 1% である。
 
 ## 用途
 

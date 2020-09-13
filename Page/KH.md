@@ -27,6 +27,7 @@
   - [スルッとKANSAI](../Page/スルッとKANSAI.md "wikilink")では、[京阪電気鉄道](../Page/京阪電気鉄道.md "wikilink")を表す。
   - [日立製作所](../Page/日立製作所.md "wikilink")製の[台車の形式に冠される記号](../Page/鉄道車両の台車.md "wikilink")（例：KH-59）
   - [名古屋市営バス](../Page/名古屋市営バス.md "wikilink")で、[日野自動車](../Page/日野自動車.md "wikilink")製の[ツーステップ](https://ja.wikipedia.org/wiki/ツーステップバス "wikilink")の[基幹バスの車両](../Page/基幹バス_\(名古屋市\).md "wikilink")（**K**ikan **H**ino）を表す[管理番号の頭につく](https://ja.wikipedia.org/wiki/名古屋市営バス#管理番号 "wikilink")[ローマ字](../Page/ラテン文字.md "wikilink")
+  - [Kh (路面電車車両)](../Page/Kh_\(路面電車車両\).md "wikilink")
 
 ## 脚注
 

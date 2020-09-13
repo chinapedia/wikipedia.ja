@@ -46,6 +46,7 @@
 
   - [ルビジウム](../Page/ルビジウム.md "wikilink")(Rb)の元素記号。
   - [Rb遺伝子](https://ja.wikipedia.org/wiki/Rb遺伝子 "wikilink")（アールビー遺伝子）
+  - れいちごBot [Discord](https://ja.wikipedia.org/wiki/Discord "wikilink")のBotのことである。https://re15bot.zouri.jp/
 
 ## .rb
 

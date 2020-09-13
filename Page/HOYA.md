@@ -109,6 +109,10 @@
   - [2019年](../Page/2019年.md "wikilink")
       - 1月 眼科医療機器メーカー2社、Mid Labs社（米国本社）およびFritz Ruck社（ドイツ）を買収。
       - 2月 経済産業省・日本健康会議主催 健康経営優良法人～ホワイト500～に3年連続で認定。
+  - [2020年](../Page/2020年.md "wikilink")
+      - 1月 HOYA CANDEO OPTRONICS株式会社を吸収合併。
+      - 2月 経済産業・日本健康会議主催 健康経営優良法人～ホワイト500～に4年連続で認定。
+      - 5月 HOYA Surgical Optics、中国の白内障用眼内レンズ販売代理店GeMaxと合弁会社設立。
 
 ### ペンタックスとの経営統合
 
@@ -203,9 +207,9 @@
   - [HOYAグループ オプティクス事業部](http://www.hoya-opticalworld.com/)
   - [HOYAデジタルソリューションズ株式会社](https://www.hoyads.com/)
 
-[Category:ペンタックス](https://ja.wikipedia.org/wiki/Category:ペンタックス "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:1961年上場の企業](https://ja.wikipedia.org/wiki/Category:1961年上場の企業 "wikilink") [Category:日本の光学機器メーカー](https://ja.wikipedia.org/wiki/Category:日本の光学機器メーカー "wikilink") [Category:日本のガラス・土石製品産業](https://ja.wikipedia.org/wiki/Category:日本のガラス・土石製品産業 "wikilink") [Category:ガラスメーカー](https://ja.wikipedia.org/wiki/Category:ガラスメーカー "wikilink") [Category:コンタクトレンズメーカー](https://ja.wikipedia.org/wiki/Category:コンタクトレンズメーカー "wikilink") [Category:新宿区の企業](https://ja.wikipedia.org/wiki/Category:新宿区の企業 "wikilink") [Category:日本の多国籍企業](https://ja.wikipedia.org/wiki/Category:日本の多国籍企業 "wikilink") [Category:三和グループ](https://ja.wikipedia.org/wiki/Category:三和グループ "wikilink") [Category:第一勧銀グループ](https://ja.wikipedia.org/wiki/Category:第一勧銀グループ "wikilink") [Category:1941年設立の企業](https://ja.wikipedia.org/wiki/Category:1941年設立の企業 "wikilink") [Category:みどり会](https://ja.wikipedia.org/wiki/Category:みどり会 "wikilink") [Category:登録商標](https://ja.wikipedia.org/wiki/Category:登録商標 "wikilink")
+[Category:PENTAX](https://ja.wikipedia.org/wiki/Category:PENTAX "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:1961年上場の企業](https://ja.wikipedia.org/wiki/Category:1961年上場の企業 "wikilink") [Category:日本の光学機器メーカー](https://ja.wikipedia.org/wiki/Category:日本の光学機器メーカー "wikilink") [Category:日本のガラス・土石製品産業](https://ja.wikipedia.org/wiki/Category:日本のガラス・土石製品産業 "wikilink") [Category:ガラスメーカー](https://ja.wikipedia.org/wiki/Category:ガラスメーカー "wikilink") [Category:コンタクトレンズメーカー](https://ja.wikipedia.org/wiki/Category:コンタクトレンズメーカー "wikilink") [Category:新宿区の企業](https://ja.wikipedia.org/wiki/Category:新宿区の企業 "wikilink") [Category:日本の多国籍企業](https://ja.wikipedia.org/wiki/Category:日本の多国籍企業 "wikilink") [Category:三和グループ](https://ja.wikipedia.org/wiki/Category:三和グループ "wikilink") [Category:第一勧銀グループ](https://ja.wikipedia.org/wiki/Category:第一勧銀グループ "wikilink") [Category:1941年設立の企業](https://ja.wikipedia.org/wiki/Category:1941年設立の企業 "wikilink") [Category:みどり会](https://ja.wikipedia.org/wiki/Category:みどり会 "wikilink") [Category:登録商標](https://ja.wikipedia.org/wiki/Category:登録商標 "wikilink")
 
-1.  田中彰、「[六大企業集団の無機能化: ポストバブル期における企業間ネットワークのオーガナイジング](http://doi.org/10.14988/pa.2017.0000013201)」『同志社商学』 2013年 64巻 5号 p.330-351, 。
+1.  田中彰、「[六大企業集団の無機能化: ポストバブル期における企業間ネットワークのオーガナイジング](https://doi.org/10.14988/pa.2017.0000013201)」『同志社商学』 2013年 64巻 5号 p.330-351, 。
 2.  [メンバー会社一覧 - みどり会](http://www.midorikai.co.jp/member.html)
 3.  [日経ビジネス2007年5月28日号](http://business.nikkeibp.co.jp/article/topics/20070524/125459/)
 4.

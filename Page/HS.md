@@ -11,6 +11,7 @@
   - [ヘパラン硫酸](https://ja.wikipedia.org/wiki/ヘパラン硫酸 "wikilink") - Heparan sulfate
   - ヘッドショットの略。頭を打ち抜く行為。[FPS](https://ja.wikipedia.org/wiki/FPS "wikilink")などのゲームで多用される行為、またその行為の略称。
   - [ホームストレッチ](https://ja.wikipedia.org/wiki/ホームストレッチ "wikilink")（**H**omestretch） - [陸上競技場](../Page/陸上競技場.md "wikilink")・[競馬場](../Page/競馬場.md "wikilink")・[競輪場](../Page/競輪場.md "wikilink")などで、決勝線のある側の略。[H](../Page/H.md "wikilink")とも。
+  - キリスト教における「聖霊」(Holy Spirit)の略称。
   - [幸福の科学](../Page/幸福の科学.md "wikilink")の世界通称、[英語](../Page/英語.md "wikilink")名称、**H**appy **S**cience の略称。
   - ラジオ番組[林原めぐみのHeartful Station](../Page/林原めぐみのHeartful_Station.md "wikilink")（[ラジオ関西](../Page/ラジオ関西.md "wikilink")）の略称。
 

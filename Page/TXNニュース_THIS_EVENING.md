@@ -1,7 +1,7 @@
 > この記事は[TXNニュース THIS EVENING](https://ja.wikipedia.org/wiki/TXNニュース_THIS_EVENING)から翻訳されています。
 
 
-『**TXNニュース THIS EVENING**（ティーエックスエヌニュース ズィス・イブニング）』は、[1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）[4月1日](../Page/4月1日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）[9月28日](../Page/9月28日.md "wikilink")まで[テレビ東京系列局で放送された夕方の](https://ja.wikipedia.org/wiki/TXN "wikilink")[ニュース](../Page/ニュース.md "wikilink")ワイド[番組である](../Page/テレビ番組.md "wikilink")。
+『**TXNニュース THIS EVENING**（ティーエックスエヌニュース ズィス・イブニング）』は、[1989年](../Page/1989年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで[テレビ東京系列局で放送された夕方の](https://ja.wikipedia.org/wiki/TXN "wikilink")[ニュース](../Page/ニュース.md "wikilink")ワイド[番組である](../Page/テレビ番組.md "wikilink")。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 また、TXN系のニュースで初めて土日にも進出した（それまでは土日の夕方に、ニュースの放送自体が無かった）。90年代半ばごろから土日の放送には「**土曜特集**」「**日曜特集**」のサブタイトルが付けられており、その後放送された『[TXNニュースワイド 夕方いちばん](../Page/TXNニュースワイド_夕方いちばん.md "wikilink")』『[TXNニュースアイ](../Page/TXNニュースアイ.md "wikilink")』では「土日特集」としてタイトルが継続使用された。
 
-なお、日曜日で桂三枝（現・[六代桂文枝](../Page/桂文枝_\(6代目\).md "wikilink")）がキャスターをしていた時代（後述）にはタイトルに『**桂三枝の**』がついていた。
+なお、日曜日で桂三枝（現・[6代目桂文枝](../Page/桂文枝_\(6代目\).md "wikilink")）がキャスターをしていた時代（後述）にはタイトルに『**桂三枝の**』がついていた。
 
 ## 放送時間
 

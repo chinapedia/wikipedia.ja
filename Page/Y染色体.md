@@ -90,7 +90,7 @@ Y染色体が男性のみに1本単独で存在するため、突然変異など
 
   - バイオポータルサイト [Jabion](http://www.bioportal.jp/index.html) - コラム「[ヒトとチンパンジーで差の大きいＹ染色体、詳細に解析される！](http://www.bioportal.jp/columns/34/)」
 
-[Category:遺伝学](https://ja.wikipedia.org/wiki/Category:遺伝学 "wikilink") [Category:染色体](https://ja.wikipedia.org/wiki/Category:染色体 "wikilink") [Category:性決定システム](https://ja.wikipedia.org/wiki/Category:性決定システム "wikilink") [Category:生物学における性差](https://ja.wikipedia.org/wiki/Category:生物学における性差 "wikilink") [Category:男性病学](https://ja.wikipedia.org/wiki/Category:男性病学 "wikilink")
+[Category:遺伝学](https://ja.wikipedia.org/wiki/Category:遺伝学 "wikilink") [Category:染色体](https://ja.wikipedia.org/wiki/Category:染色体 "wikilink") [Category:性決定システム](https://ja.wikipedia.org/wiki/Category:性決定システム "wikilink") [Category:生物学における性差](https://ja.wikipedia.org/wiki/Category:生物学における性差 "wikilink") [Category:男性病学](https://ja.wikipedia.org/wiki/Category:男性病学 "wikilink") [Category:雄](https://ja.wikipedia.org/wiki/Category:雄 "wikilink")
 
 1.
 2.

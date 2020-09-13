@@ -27,9 +27,14 @@
 
 硝酸銀(I)は液体[アンモニア](../Page/アンモニア.md "wikilink")（液安）またはアンモニア水と反応して徐々に[雷銀](../Page/雷銀.md "wikilink")（Ag<sub>3</sub>N と AgNH<sub>2</sub> の混合物）と呼ばれる黒色の結晶を生成することがある。これは非常に敏感な化合物であり、水溶液中でも少しの摩擦・熱でも爆発する。また[ナトリウムイオン](https://ja.wikipedia.org/wiki/ナトリウムイオン "wikilink")の存在下でこの化合物の生成が促進されるので、これらの化合物を誤って作った場合、硝酸銀(I)と[アンモニア](../Page/アンモニア.md "wikilink")を混合した廃液、[銀鏡反応](../Page/銀鏡反応.md "wikilink")を行ったあとの廃液は食塩水（[塩化ナトリウム](../Page/塩化ナトリウム.md "wikilink")水溶液）または[塩酸](https://ja.wikipedia.org/wiki/塩酸 "wikilink")で分解してから処分する必要がある。
 
+## 利用
+
+硝酸銀は、[写真](../Page/写真.md "wikilink")材料、[鏡](../Page/鏡.md "wikilink")、[魔法瓶](../Page/魔法瓶.md "wikilink")の材料として利用されてきた。また、加工により起爆剤として利用されることもあり、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")、大阪府の魔法瓶製造会社から100kgもの硝酸銀が盗まれた際には、[過激派](../Page/過激派.md "wikilink")が爆弾闘争に用いる可能性を踏まえ、[大阪府警察](https://ja.wikipedia.org/wiki/大阪府警察 "wikilink")内に異例の捜査本部が設置されたことがある\[3\]。
+
 ## 参考文献
 
 [Category:硝酸塩](https://ja.wikipedia.org/wiki/Category:硝酸塩 "wikilink") [Category:銀の化合物](https://ja.wikipedia.org/wiki/Category:銀の化合物 "wikilink") [Category:劇物](https://ja.wikipedia.org/wiki/Category:劇物 "wikilink")
 
 1.  日本化学会編 『新実験化学講座 無機化合物の合成II』 丸善、1977年
 2.  『化学大辞典』 共立出版、1993年
+3.  「硝酸銀100キロ盗まれる 過激派の爆弾作戦か」『中國新聞』昭和46年10月14日 15面

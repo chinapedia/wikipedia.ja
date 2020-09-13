@@ -1,9 +1,7 @@
 > この記事は[HOTEL](https://ja.wikipedia.org/wiki/HOTEL)から翻訳されています。
 
 
-『**HOTEL**』（ホテル） は、紺間宏（[漫画原作者](../Page/漫画原作者.md "wikilink")[大石賢一](https://ja.wikipedia.org/wiki/大石賢一 "wikilink")の別名）[シナリオ](https://ja.wikipedia.org/wiki/シナリオ "wikilink")・[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")作画の[青年漫画](../Page/青年漫画.md "wikilink")である。
-
-1990年から2002年にかけて[TBS系で](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")化し、[高視聴率を記録する人気作となった](../Page/視聴率.md "wikilink")。
+『**HOTEL**』（ホテル） は、紺間宏（[漫画原作者](../Page/漫画原作者.md "wikilink")[大石賢一](https://ja.wikipedia.org/wiki/大石賢一 "wikilink")の別名）[シナリオ](https://ja.wikipedia.org/wiki/シナリオ "wikilink")・[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")作画の[青年漫画](../Page/青年漫画.md "wikilink")である。  1990年から2002年にかけて[TBS系で](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")化し、[高視聴率を記録する人気作となった](../Page/視聴率.md "wikilink")。
 
 ## 漫画
 

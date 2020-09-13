@@ -77,7 +77,8 @@
 <tbody>
 <tr class="odd">
 <td><p>総合<br />
-<a href="../Page/リモコンキーID.md" title="wikilink">ID</a>：3[6]</p></td>
+<a href="../Page/リモコンキーID.md" title="wikilink">ID</a>：3<br />
+[6]</p></td>
 <td><p>教育<br />
 ID：2</p></td>
 <td><p>空中線電力</p></td>
@@ -259,10 +260,10 @@ ID：2</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>藤重博貴</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/藤重博貴" title="wikilink">藤重博貴</a></p></td>
 <td><p><a href="../Page/NHK秋田放送局.md" title="wikilink">秋田</a></p></td>
 <td><p>|<a href="../Page/ニュース845北九州.md" title="wikilink">ニュース845北九州</a><br />
-きたきゅーラジオ</p></td>
+<a href="https://ja.wikipedia.org/wiki/きたきゅーラジオ" title="wikilink">きたきゅーラジオ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/廣瀬雄大" title="wikilink">廣瀬雄大</a></p></td>
@@ -282,12 +283,12 @@ ID：2</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>緒方直加</p></td>
-<td><p><a href="../Page/NHK大分放送局.md" title="wikilink">大分</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/緒方直加" title="wikilink">緒方直加</a></p></td>
+<td><p>大分</p></td>
 <td><p>ニュースブリッジ北九州</p></td>
 </tr>
 <tr class="odd">
-<td><p>赤塚安莉</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/赤塚安莉" title="wikilink">赤塚安莉</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -302,7 +303,7 @@ ID：2</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>森本まりあ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/森本まりあ" title="wikilink">森本まりあ</a></p></td>
 <td></td>
 <td><p>ニュースブリッジ北九州</p></td>
 </tr>
@@ -334,9 +335,15 @@ ID：2</p></td>
   - 朗読フェスティバル
     ※原則毎月第1土曜日に開催。2006年6月異動で東京へ戻った[迎康子](../Page/迎康子.md "wikilink")元アナが企画。もともとラジオ畑を歩んできた迎が、「日本語の美しい響きをもっと広めたい」という思いから立ち上げた。
     ※北九州局アナウンサーはもちろん、北九州市内や近郊の読み聞かせグループなどが出演し、朗読を行う形をとっていた。2008年4月5日の開催を最後に終了した。
-    ※[北九州市立文学館](../Page/北九州市立文学館.md "wikilink")開館後は、市立文学館と連携したイベントも展開していた。\[9\]
+    ※[北九州市立文学館](../Page/北九州市立文学館.md "wikilink")開館後は、市立文学館と連携したイベントも展開していた\[9\]。
 
 ## 脚注
+
+  - 注釈
+
+<!-- end list -->
+
+  - 出典
 
 ## 外部リンク
 

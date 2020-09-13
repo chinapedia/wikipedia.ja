@@ -3,7 +3,7 @@
 
 **HITOE**（ひとえ、[1981年](../Page/1981年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[ファッションデザイナー](../Page/ファッションデザイナー.md "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")、女性ボーカル&ダンスグループ・**[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")**の最年長メンバーである。出生名および旧芸名は**新垣 仁絵**（あらかき ひとえ）、現姓本名は夫が一般人であるため非公開。芸能事務所に所属しておらずフリー。
 
-[血液型AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[ヨガ](https://ja.wikipedia.org/wiki/ヨガ "wikilink")の[ライセンス](../Page/ライセンス.md "wikilink")を取得し、講師としても活動中。ニックネームは、「仁絵ちゃん」、「ヒッチー」である。 最年少メンバー[島袋寛子](../Page/島袋寛子.md "wikilink")と同じ誕生日で、ちょうど3歳差である。
+[血液型AB型](../Page/ABO式血液型.md "wikilink")。[ヨガ](https://ja.wikipedia.org/wiki/ヨガ "wikilink")の[ライセンス](../Page/ライセンス.md "wikilink")を取得し、講師としても活動中。ニックネームは、「仁絵ちゃん」、「ヒッチー」である。 最年少メンバー[島袋寛子](../Page/島袋寛子.md "wikilink")と同じ誕生日で、ちょうど3歳差である。
 
 ## 来歴
 

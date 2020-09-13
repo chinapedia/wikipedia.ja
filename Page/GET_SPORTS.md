@@ -9,7 +9,7 @@
 
 番組内容は週替わりの特集VTRが中心だが、スポーツ中継を行う場合もある\[1\]。開始当初、番組は「テレビ版『[Number](../Page/Sports_Graphic_Number.md "wikilink")』」を目指して制作されていた\[2\]。番組中で使われる音楽の一部はオリジナルで制作しており、これらの楽曲を集めたアルバムを、これまでに2枚発売している。
 
-当初は生放送だったが、放送期間中に南原が『[ヒルナンデス\!](https://ja.wikipedia.org/wiki/ヒルナンデス! "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）\[3\]、中西が『[クロノス](../Page/クロノス_\(ラジオ番組\).md "wikilink")』（[TOKYO FM](../Page/エフエム東京.md "wikilink")）\[4\]とメイン司会を務める帯の情報番組を抱えるようになり、本番組の数時間後に二人が同番組に出演するというスケジュール上の負担を軽減するため、生放送そのものが行われなくなり、現在は全編事前収録となっている。
+当初は生放送だったが、放送期間中に南原が『[ヒルナンデス\!](https://ja.wikipedia.org/wiki/ヒルナンデス! "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）\[3\]、中西が『[クロノス](../Page/クロノス_\(ラジオ番組\).md "wikilink")』（[TOKYO FM](../Page/エフエム東京.md "wikilink")）\[4\]とメイン司会を務める帯の情報番組を抱えるようになり、本番組の数時間後に二人が上記番組にそれぞれ出演するというスケジュール上の負担を軽減するため、生放送そのものが行われなくなり、現在は全編事前収録となっている。
 
 ### 放送
 
@@ -202,12 +202,12 @@
 
 ## 外部リンク
 
-  - [テレビ朝日｜Get Sports](http://www.tv-asahi.co.jp/getsports/)
-
-  - [「ゲット・スポーツ」を、ほぼ日はひいきします。](http://www.1101.com/get_sports/index.html) - 2000年1月から2004年7月まで『[ほぼ日刊イトイ新聞](../Page/ほぼ日刊イトイ新聞.md "wikilink")』に掲載されていた番組予告。番組スタッフが情報提供していた。
+  - [Get Sports](https://www.tv-asahi.co.jp/getsports/) - 番組公式サイト
 
   -
   -
+  - [「ゲット・スポーツ」を、ほぼ日はひいきします。](https://www.1101.com/get_sports/index.html) - 2000年1月から2004年7月まで『[ほぼ日刊イトイ新聞](../Page/ほぼ日刊イトイ新聞.md "wikilink")』に掲載されていた番組予告。番組スタッフが情報提供していた。
+
 [Category:1998年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のテレビ番組_\(日本\) "wikilink") [Category:テレビ朝日のスポーツ番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日のスポーツ番組 "wikilink") [Category:テレビ朝日のドキュメンタリー番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日のドキュメンタリー番組 "wikilink") [Category:テレビ朝日の深夜番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜番組 "wikilink") [Category:漫画作品_け](https://ja.wikipedia.org/wiki/Category:漫画作品_け "wikilink") [Category:2009年の漫画](https://ja.wikipedia.org/wiki/Category:2009年の漫画 "wikilink") [Category:週刊少年マガジンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年マガジンの漫画作品 "wikilink") [Category:スポーツ漫画](https://ja.wikipedia.org/wiki/Category:スポーツ漫画 "wikilink") [Category:伝記漫画](https://ja.wikipedia.org/wiki/Category:伝記漫画 "wikilink") [Category:南原清隆](https://ja.wikipedia.org/wiki/Category:南原清隆 "wikilink")
 
 1.  例として2012年より毎年[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")の[G1 CLIMAXの中継がGET](../Page/G1_CLIMAX.md "wikilink") SPORTS内で組まれている（当日録画）

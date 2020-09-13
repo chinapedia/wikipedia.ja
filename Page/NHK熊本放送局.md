@@ -121,87 +121,95 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/池田達郎.md" title="wikilink">池田達郎</a>*</p></td>
+<td><p><a href="../Page/NHK名古屋放送局.md" title="wikilink">名古屋</a></p></td>
+<td><p>放送部副部長<br />
+熊本県のニュース</p></td>
+<td><p>熊本県出身</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/稲塚貴一.md" title="wikilink">稲塚貴一</a></p></td>
 <td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クマロク!" title="wikilink">クマロク!</a><br />
 （キャスター）</p></td>
-<td><p>熊本県出身</p></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/上野速人.md" title="wikilink">上野速人</a>*</p></td>
 <td><p>熊本県のニュース<br />
 各種スポーツ中継</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>法性亮太</p></td>
 <td><p><a href="../Page/NHK金沢放送局.md" title="wikilink">金沢</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>米澤太郎</p></td>
 <td><p><strong>初任地</strong></p></td>
 <td><p>熊本県のニュース</p></td>
-<td><p>熊本県出身</p></td>
-</tr>
-<tr class="even">
-<td><p>池田達郎</p></td>
-<td><p>名古屋</p></td>
-<td><p>熊本県のニュース 放送部副部長</p></td>
-<td><p>熊本県出身</p></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/佐藤茉那.md" title="wikilink">佐藤茉那</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>金子紗也</p></td>
 <td><p><a href="../Page/NHK山口放送局.md" title="wikilink">山口</a></p></td>
 <td><p>クマロク!（キャスター）</p></td>
 <td><p>熊本県出身</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>辻田桃子</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>新島麻生</p></td>
 <td></td>
 <td><p>クマロク!（スポーツキャスター）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>猪崎那紗</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/テレメッセくまもと" title="wikilink">テレメッセくまもと</a>（キャスター）</p></td>
-<td></td>
+<td><p>熊本県出身<br />
+元ディレクター</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/村上史" title="wikilink">村上史</a></p></td>
 <td></td>
 <td><p>熊本県出身</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>松永貢</p></td>
 <td></td>
-<td><p>クマロク!（気象キャスター）<br />
+<td><p>クマロク!<br />
 マッスル天気</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

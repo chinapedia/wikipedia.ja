@@ -351,12 +351,12 @@
 <!-- end list -->
 
   - [おはよう石川](../Page/おはよう石川.md "wikilink")（平日 6:55 - 7:00、7:45 - 8:00）
-      - 前者は2018年4月より「[NHKニュースおはよう日本](../Page/NHKニュースおはよう日本.md "wikilink")」の内包扱い。\[7\]
   - [かがのとイブニング](https://ja.wikipedia.org/wiki/かがのとイブニング "wikilink")（平日 18:10 - 18:59）
   - [ニュースいしかわ845](https://ja.wikipedia.org/wiki/ニュースいしかわ845 "wikilink")（平日 20:45 - 21:00）
-      - 祝日は、20:55から「東海北陸のニュース・気象情報」を放送。
-  - [ニュースいしかわ645](https://ja.wikipedia.org/wiki/ニュースいしかわ645 "wikilink")（土日祝 18:45 - 18:59）
-  - いしかわ[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")プレミアム（金曜 19:30 - 19:57、不定期）
+  - いしかわ[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")プレミアム（不定期金曜 19:30 - 19:55、再放送：不定期土曜 9:30 - 9:55）
+  - いしかわの壺（土曜 11:15 - 11:20、祝日・年末年始を除く）
+      - 『かがのとイブニング』内の1コーナーを単独番組として放送。[金沢ケーブル](../Page/金沢ケーブル.md "wikilink")との共同制作。同局のコミュニティチャンネル「[北國新聞ニュース](../Page/北國新聞ニュース.md "wikilink")・プラス」でも放送される。
+  - [ニュースいしかわ645](https://ja.wikipedia.org/wiki/ニュースいしかわ645 "wikilink")（土曜・日曜・祝日 18:45 - 18:59）
 
 <!-- end list -->
 
@@ -401,13 +401,13 @@
 
 <!-- end list -->
 
-  - [NHK特集](../Page/NHKスペシャル.md "wikilink")　のぞみ5歳　～手探りの子育て日記～　- 1986年NHK金沢放送局制作のドキュメンタリー。金沢市に住む全盲の夫婦が手探りで子育てをする姿を5年間地道に取材。第２回文化庁芸術作品賞、第13回放送文化基金賞奨励賞ほか、多くの賞を受賞。\[8\]
+  - [NHK特集](../Page/NHKスペシャル.md "wikilink")　のぞみ5歳　～手探りの子育て日記～　- 1986年NHK金沢放送局制作のドキュメンタリー。金沢市に住む全盲の夫婦が手探りで子育てをする姿を5年間地道に取材。第２回文化庁芸術作品賞、第13回放送文化基金賞奨励賞ほか、多くの賞を受賞。\[7\]
   - [よせがき☆テレビ かいてみんけ↑](https://ja.wikipedia.org/wiki/よせがき☆テレビ_かいてみんけ↑ "wikilink")（2009年から2011年まで放送された特別番組）
+  - [真相回転\!どいね寿司](https://ja.wikipedia.org/wiki/真相回転!どいね寿司 "wikilink") (2011年から2013年まで放送された特別番組。上記の「よせがき☆テレビ」の後継番組)
   - [今・おも・ラジオ〜石川のラジオは今も面白い〜](https://ja.wikipedia.org/wiki/今・おも・ラジオ〜石川のラジオは今も面白い〜 "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月18日](../Page/12月18日.md "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")・[エフエム石川](../Page/エフエム石川.md "wikilink")との共同制作番組）
-      - この番組以降、石川県内の放送局との共同制作や共同企画は一切行われていない。なお、[NHK富山放送局](../Page/NHK富山放送局.md "wikilink")と[NHK福井放送局](../Page/NHK福井放送局.md "wikilink")では[2020年](../Page/2020年.md "wikilink")に[新型コロナウイルスへの共同キャンペーンを各県のほかの放送局とテレビ](../Page/2019新型コロナウイルス.md "wikilink")・ラジオで展開している。
   - 石川アーカイブス（開局80周年記念番組。2010年から2012年2月まで放送）
   - [FMジュークボックス](https://ja.wikipedia.org/wiki/FMジュークボックス "wikilink")
-  - いよっ\![弁慶](https://ja.wikipedia.org/wiki/弁慶 "wikilink")（[2018年](../Page/2018年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")、[BSプレミアムにおいて](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")「石川発[地域ドラマ](https://ja.wikipedia.org/wiki/地域発ドラマ "wikilink")」として放送）\[9\]\[10\]
+  - いよっ\![弁慶](https://ja.wikipedia.org/wiki/弁慶 "wikilink")（[2018年](../Page/2018年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")、[BSプレミアムにおいて](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")「石川発[地域ドラマ](https://ja.wikipedia.org/wiki/地域発ドラマ "wikilink")」として放送）\[8\]\[9\]
 
 ## アナウンサー・キャスター
 
@@ -457,56 +457,61 @@
 （キャスター）</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/守屋瞭" title="wikilink">守屋瞭</a></p></td>
+<td><p>石川県のニュース</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>シニアスタッフ</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/二見和男" title="wikilink">二見和男</a>[11]</p></td>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/二見和男" title="wikilink">二見和男</a>[10]</p></td>
 <td><p>元正職員アナウンサー</p></td>
 <td><p>|じわもんラジオ<br />
 石川県のニュース<br />
 （ラジオ）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>石井美江</p></td>
-<td></td>
+<td><p>元<a href="../Page/TBSラジオ.md" title="wikilink">TBSラジオ</a>キャスター</p></td>
 <td><p>かがのとイブニング<br />
 じわもんラジオ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>熊谷彩香</p></td>
 <td></td>
 <td><p>かがのとイブニング</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>高井桂奈</p></td>
 <td></td>
 <td><p>かがのとイブニング<br />
 じわもんラジオ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>前川夏生</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>池津勝教</p></td>
 <td></td>
 <td><p>かがのとイブニング<br />
 じわもんラジオ</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -516,7 +521,7 @@
 
 ## その他
 
-  - [衆議院議員総選挙](../Page/衆議院議員総選挙.md "wikilink")の[比例北陸信越ブロック](../Page/比例北陸信越ブロック.md "wikilink")の報道は金沢局が統括担当になる\[12\]。なお、比例北陸信越ブロックを構成する5県はNHKの地域ブロックにおいて、東京の本部直轄となる長野・新潟と、名古屋放送局管轄となる富山・石川・福井に分かれネットワーク回線も別々のため、これら5県のブロック放送を行うため[通信衛星](../Page/通信衛星.md "wikilink")を利用した放送が行われ、金沢局が送信元となる\[13\]。
+  - [衆議院議員総選挙](../Page/衆議院議員総選挙.md "wikilink")の[比例北陸信越ブロック](../Page/比例北陸信越ブロック.md "wikilink")の報道は金沢局が統括担当になる\[11\]。なお、比例北陸信越ブロックを構成する5県はNHKの地域ブロックにおいて、東京の本部直轄となる長野・新潟と、名古屋放送局管轄となる富山・石川・福井に分かれネットワーク回線も別々のため、これら5県のブロック放送を行うため[通信衛星](../Page/通信衛星.md "wikilink")を利用した放送が行われ、金沢局が送信元となる\[12\]。
   - 石川県の放送局では唯一、岐阜県の天気予報を伝えている（ただし、飛騨地方のみで、注意報・警報のアナウンスは行われない）。
 
 ## 脚注
@@ -525,7 +530,7 @@
 
   - [NHK金沢放送局](https://www.nhk.or.jp/kanazawa/)
 
-[Category:NHK金沢](https://ja.wikipedia.org/wiki/Category:NHK金沢 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:東海・北陸地方のテレビ局](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビ局 "wikilink") [Category:東海・北陸地方のラジオ局](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のラジオ局 "wikilink")
+[Category:NHK金沢](https://ja.wikipedia.org/wiki/Category:NHK金沢 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:石川県のマスメディア](https://ja.wikipedia.org/wiki/Category:石川県のマスメディア "wikilink") [Category:東海・北陸地方のテレビ局](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビ局 "wikilink") [Category:東海・北陸地方のラジオ局](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のラジオ局 "wikilink")
 
 1.  一時期、旧[石川県警察](../Page/石川県警察.md "wikilink")本部跡や旧石川県庁(現:[石川県政記念しいのき迎賓館](https://ja.wikipedia.org/wiki/石川県政記念しいのき迎賓館 "wikilink"))への移転も検討されたが、景観などの問題から白紙に戻された経緯がある。
 2.  [NHK金沢放送局 新放送会館オープン記念特設ページ 新会館情報](http://www.nhk.or.jp/kanazawa/special/station/)
@@ -533,10 +538,9 @@
 4.
 5.
 6.  [NHK金沢放送局 新放送会館オープン記念特設ページ](http://www.nhk.or.jp/kanazawa/special/)
-7.  2018年3月30日の放送まで6:55 - 7:00の[EPGには](../Page/電子番組ガイド.md "wikilink")「おはよう石川」の表記があった。
-8.  [NHK特集 のぞみ5歳 ～手探りの子育て日記～ - NHK名作選(動画・静止画) NHKアーカイブス](http://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010321_00000)
+7.  [NHK特集 のぞみ5歳 ～手探りの子育て日記～ - NHK名作選(動画・静止画) NHKアーカイブス](http://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010321_00000)
+8.
 9.
-10.
-11. 元正職員アナウンサー。金沢局では2012年10月より「二見キャスター」と紹介されている。
+10. 元正職員アナウンサー。1989年8月から1992年6月に一度目の金沢赴任。2006年6月より再び金沢局赴任。2008年からは嘱託職。2012年10月より「二見アナウンサー」から「二見キャスター」と紹介されている。
+11.
 12.
-13.

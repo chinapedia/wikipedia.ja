@@ -31,4 +31,4 @@ Fedora Legacy projectではRed Hat LinuxをRed Hat社の公式サポートが終
   - [Red Hat社による（英文）](http://www.redhat.com/mailman/listinfo/fedora-legacy-list)
   - [Red Hat社による（英文）](https://www.redhat.com/mailman/listinfo/fedora-legacy-announce)
 
-[Category:Linux](https://ja.wikipedia.org/wiki/Category:Linux "wikilink")
+[Category:レッドハット](https://ja.wikipedia.org/wiki/Category:レッドハット "wikilink") [Category:Fedora](https://ja.wikipedia.org/wiki/Category:Fedora "wikilink") [Category:Linux](https://ja.wikipedia.org/wiki/Category:Linux "wikilink")

@@ -450,20 +450,40 @@
 
 ### 総合テレビ
 
-  - NHKニュース おはよう沖縄（平日7:45 - 8:00\[12\]）
-  - 沖縄ちゅらTV（平日11:45 - 12:00）
-  - [おきなわHOTeye](https://ja.wikipedia.org/wiki/おきなわHOTeye "wikilink")（平日18:10 - 18:58:55）
-  - [ニュース845沖縄](https://ja.wikipedia.org/wiki/ニュース845沖縄 "wikilink")（平日20:45 - 21:00）
-  - [きんくる 〜沖縄金曜クルーズ〜](../Page/きんくる_〜沖縄金曜クルーズ〜.md "wikilink")（不定期金曜日19:30 - 19:55、内容により20時台まで）
+  - NHKニュース おはよう沖縄（平日 7:45 - 8:00\[12\]）
+  - 沖縄ちゅらTV（平日 11:45 - 12:00）
+  - [おきなわHOTeye](https://ja.wikipedia.org/wiki/おきなわHOTeye "wikilink")（平日 18:10 - 18:58:55）
+  - [ニュース845沖縄](https://ja.wikipedia.org/wiki/ニュース845沖縄 "wikilink")（平日 20:45 - 21:00）
+  - [きんくる 〜沖縄金曜クルーズ〜](../Page/きんくる_〜沖縄金曜クルーズ〜.md "wikilink")（不定期金曜日 19:30 - 19:55、内容により20時台まで）
   - 台風情報おきなわ（台風接近時に空き時間に随時放送）
-  - [沖縄の歌と踊り](../Page/沖縄の歌と踊り.md "wikilink")（現在はスペシャルとして月1回程度放送であるが、かつては毎週1回30分間放送していた）
+  - [沖縄の歌と踊り](../Page/沖縄の歌と踊り.md "wikilink")（不定期金曜日 19:30 - 19:55、再放送：土曜日 10:55 - 11:22）
+      - 現在はスペシャルとして月1回程度放送であるが、かつては毎週1回30分間の放送。再放送は『[いちおし\!九州沖縄](https://ja.wikipedia.org/wiki/いちおし!九州沖縄 "wikilink")』を差し替えして毎週放送。前身の[沖縄放送協会](../Page/沖縄放送協会.md "wikilink")時代から続いており、情報番組以外のNHKの地域ローカル番組としては数少ない老舗番組の一つ。夏の[旧盆特番では総合テレビが編成上の都合で放送できない場合](../Page/お盆.md "wikilink")、Eテレで放送することもある。
+
+### Eテレ
+
+  - [うちなーであそぼ](https://ja.wikipedia.org/wiki/うちなーであそぼ "wikilink")（月曜日 17:25 - 17:30、水曜日 17:35 - 17:40、金曜日 7:25 - 7:30）
 
 <!-- end list -->
 
   -
-    ※前身の[沖縄放送協会](../Page/沖縄放送協会.md "wikilink")時代から続いており、情報番組以外のNHKの地域ローカル番組としては数少ない老舗番組の一つ。夏の[旧盆特番では総合テレビが編成上の都合で放送できない場合](../Page/お盆.md "wikilink")、Eテレで放送することもある。
+    ※『[にほんごであそぼ](../Page/にほんごであそぼ.md "wikilink")』の沖縄県版で全国で唯一Eテレでの地域向け放送を実施している。総合テレビでも放送（金曜日 23:40 - 23:45）。
 
-  - 終了した番組
+### ラジオ第1
+
+  - [沖縄熱中倶楽部](../Page/沖縄熱中倶楽部.md "wikilink")（最終金曜日 17:05 - 17:55、『[にっぽん列島夕方ラジオ](https://ja.wikipedia.org/wiki/にっぽん列島夕方ラジオ "wikilink")』内）
+
+<!-- end list -->
+
+  -
+    ※2007年4月放送開始。沖縄局制作としては初のレギュラー全国放送番組。
+
+### FM放送
+
+  - [沖縄ミュージックジャーニー](https://ja.wikipedia.org/wiki/沖縄ミュージックジャーニー "wikilink")（第1金曜日 18:00 - 18:50、再放送：第1日曜日 11:00 - 11:50）
+
+### 過去の番組
+
+  - 総合テレビ
 
 <!-- end list -->
 
@@ -481,28 +501,13 @@
   - ドキュメント沖縄（2007・2008年度）
   - 復帰40年企画・NHKが映した沖縄（2012年度）
 
-### 教育テレビ
-
-  - [うちなーであそぼ](https://ja.wikipedia.org/wiki/うちなーであそぼ "wikilink")（月曜17:25 - 17:30、金曜7:25 - 7:30）
-
 <!-- end list -->
 
-  -
-    ※『[にほんごであそぼ](../Page/にほんごであそぼ.md "wikilink")』の沖縄県版。総合テレビでも放送。
-
-### ラジオ第1
-
-  - [沖縄熱中倶楽部](../Page/沖縄熱中倶楽部.md "wikilink")（最終金曜日17:05 - 17:55、[にっぽん列島夕方ラジオ](https://ja.wikipedia.org/wiki/にっぽん列島夕方ラジオ "wikilink")内）
+  - FM放送
 
 <!-- end list -->
-
-  -
-    ※2007年4月放送開始。沖縄局制作としては初のレギュラー全国放送番組。
-
-### FM放送
 
   - [うちなぁジョッキー](../Page/うちなぁジョッキー.md "wikilink")（2010年度以降特集化）
-  - [沖縄ミュージックジャーニー](https://ja.wikipedia.org/wiki/沖縄ミュージックジャーニー "wikilink")（第1金曜日18:00 - 18:50）
 
 ## アナウンサー・キャスター
 
@@ -523,16 +528,16 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/池間昌人" title="wikilink">池間昌人</a></p></td>
-<td><p><a href="../Page/NHK青森放送局.md" title="wikilink">青森</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/おきなわHOTeye" title="wikilink">おきなわHOTeye</a><br />
-（キャスター）</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/細田史雄.md" title="wikilink">細田史雄</a>*</p></td>
 <td><p><a href="../Page/NHK岡山放送局.md" title="wikilink">岡山</a></p></td>
 <td><p>沖縄県のニュース<br />
 放送部副部長</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/池間昌人" title="wikilink">池間昌人</a></p></td>
+<td><p><a href="../Page/NHK青森放送局.md" title="wikilink">青森</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/おきなわHOTeye" title="wikilink">おきなわHOTeye</a><br />
+（キャスター）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/黒住駿" title="wikilink">黒住駿</a></p></td>
@@ -547,67 +552,72 @@
 <a href="../Page/きんくる_〜沖縄金曜クルーズ〜.md" title="wikilink">きんくる 〜沖縄金曜クルーズ〜</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/荒木さくら" title="wikilink">荒木さくら</a></p></td>
+<td><p><a href="../Page/荒木さくら.md" title="wikilink">荒木さくら</a></p></td>
 <td><p>沖縄県のニュース</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/寺内皓大.md" title="wikilink">寺内皓大</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/堀越将伸" title="wikilink">堀越将伸</a></p></td>
 <td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/土橋大記.md" title="wikilink">土橋大記</a>*</p></td>
 <td><p><a href="../Page/NHK山形放送局.md" title="wikilink">山形</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>丹部あゆみ</p></td>
 <td></td>
 <td><p>沖縄ちゅらTV</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>仲本奈鶴季</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>内原早紀子</p></td>
 <td></td>
 <td><p>おきなわHOTeye<br />
 （キャスター）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/田中美音" title="wikilink">田中美音</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>上田詩織</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/渋谷遥華" title="wikilink">渋谷遥華</a></p></td>
 <td></td>
 <td><p>おはよう沖縄</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/結野亜希" title="wikilink">結野亜希</a></p></td>
 <td></td>
 <td><p>おきなわHOTeye</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

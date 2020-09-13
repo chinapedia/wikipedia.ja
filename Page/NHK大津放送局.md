@@ -65,6 +65,7 @@
 
 ### 現在
 
+  - 滋賀県の気象情報（平日 11:57 - 12:00、総合テレビ）
   - [おうみ発630](../Page/おうみ発630.md "wikilink")（平日 18:30 - 19:00、総合テレビ）
   - [おうみ845](https://ja.wikipedia.org/wiki/おうみ845 "wikilink")（平日 20:45 - 21:00、総合テレビ）
   - しが\!\!防災応援ラジオ（第3金曜 18:00 - 18:50、FM放送）
@@ -170,7 +171,7 @@
   - [NHK大津放送局](https://www.nhk.or.jp/otsu/)
 
   -
-[Category:NHK大津](https://ja.wikipedia.org/wiki/Category:NHK大津 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:近畿地方のテレビ局](https://ja.wikipedia.org/wiki/Category:近畿地方のテレビ局 "wikilink") [Category:近畿地方のラジオ局](https://ja.wikipedia.org/wiki/Category:近畿地方のラジオ局 "wikilink")
+[Category:NHK大津](https://ja.wikipedia.org/wiki/Category:NHK大津 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:滋賀県のマスメディア](https://ja.wikipedia.org/wiki/Category:滋賀県のマスメディア "wikilink") [Category:近畿地方のテレビ局](https://ja.wikipedia.org/wiki/Category:近畿地方のテレビ局 "wikilink") [Category:近畿地方のラジオ局](https://ja.wikipedia.org/wiki/Category:近畿地方のラジオ局 "wikilink")
 
 1.
 2.  [無線局免許状情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=E&DFCD=0000015557&DD=1&styleNumber=01)

@@ -35,7 +35,7 @@ IRCはデータの通信に関する[プロトコル](../Page/プロトコル.md
       - [KSirc](../Page/KSirc.md "wikilink")
       - [Loqui](https://ja.wikipedia.org/wiki/Loqui "wikilink")
       - [polari](https://ja.wikipedia.org/wiki/polari "wikilink")
-  - [Android](../Page/Android.md "wikilink")
+  - [Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")
       - AiCiA
   - [iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")
       - [LimeChat for iPhone](../Page/LimeChat.md "wikilink")

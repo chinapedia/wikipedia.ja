@@ -56,7 +56,7 @@
 
   - [Cloud LaTeX](https://cloudlatex.io) [株式会社アカリクが運営する](../Page/アカリク.md "wikilink")、Web 上で  をコンパイルできるサービス
 
-[Category:DTP](https://ja.wikipedia.org/wiki/Category:DTP "wikilink") [Category:TeX](https://ja.wikipedia.org/wiki/Category:TeX "wikilink") [Category:アスキー・メディアワークス](https://ja.wikipedia.org/wiki/Category:アスキー・メディアワークス "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink")
+[Category:DTP](https://ja.wikipedia.org/wiki/Category:DTP "wikilink") [Category:TeX](https://ja.wikipedia.org/wiki/Category:TeX "wikilink") [Category:アスキー](https://ja.wikipedia.org/wiki/Category:アスキー "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink")
 
 1.
 2.

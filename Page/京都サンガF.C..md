@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1922年](../Page/1922年.md "wikilink")に創設された[京都紫光クラブが前身となり](https://ja.wikipedia.org/wiki/京都紫光サッカークラブ "wikilink")\[1\]、[1994年](../Page/1994年.md "wikilink")に一般公募で**京都パープルサンガ**（きょうとパープルサンガ）\[2\] のクラブ名に変更し、1996年にJリーグへ加盟\[3\]。  [2007年](../Page/2007年.md "wikilink")に現在のクラブ名となる**京都サンガF.C.**へ改称した\[4\]。運営会社は株式会社京都パープルサンガである\[5\]。
+[1922年](../Page/1922年.md "wikilink")に創設された**[京都紫光クラブ](https://ja.wikipedia.org/wiki/京都紫光サッカークラブ "wikilink")**が前身となり\[1\]、[1994年](../Page/1994年.md "wikilink")に一般公募で**京都パープルサンガ**（きょうとパープルサンガ）\[2\] のクラブ名に変更し、1996年にJリーグへ加盟\[3\]。  [2007年](../Page/2007年.md "wikilink")に現在のクラブ名となる**京都サンガF.C.**へ改称した\[4\]。運営会社は**株式会社京都パープルサンガ**である\[5\]。
 
 旧クラブの由来は、京都**紫**光サッカークラブの『パープル』と、[サンスクリット](../Page/サンスクリット.md "wikilink")語で「仲間・群れ」を表す『[samgha](https://ja.wikipedia.org/wiki/僧伽 "wikilink")』と\[6\]、山紫水明の京都をイメージさせる「山河」の響きを掛け合わせた『サンガ』を合わせたもの。
 
@@ -286,23 +286,32 @@
 </tr>
 <tr class="odd">
 <td><p>J2</p></td>
+<td><p>4得点</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ピーター・ウタカ" title="wikilink">ピーター・ウタカ</a></p></td>
+<td><p>2020年8月8日（第10節）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/モンテディオ山形" title="wikilink">モンテディオ山形</a></p></td>
+<td><p><a href="../Page/山形県総合運動公園陸上競技場.md" title="wikilink">NDスタ</a></p></td>
+<td><p>{{goal|31</p></td>
+</tr>
+<tr class="even">
 <td><p>3得点</p></td>
 <td><p><a href="../Page/崔龍洙.md" title="wikilink">崔龍洙</a></p></td>
 <td><p>2004年8月21日（第29節）</p></td>
 <td><p>コンサドーレ札幌</p></td>
 <td><p>西京極</p></td>
 <td><p>{{goal|68</p></td>
+<td><p>81</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/パウロ・アントニオ・デ・オリベイラ.md" title="wikilink">パウリーニョ</a></p></td>
 <td><p>2005年10月1日（第34節）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モンテディオ山形" title="wikilink">モンテディオ山形</a></p></td>
-<td><p><a href="../Page/山形県総合運動公園陸上競技場.md" title="wikilink">山形県</a></p></td>
+<td><p>モンテディオ山形</p></td>
+<td><p>NDスタ</p></td>
 <td><p>{{goal|08</p></td>
 <td><p>78</p></td>
 <td><p>87}}</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/アンドレ・ピント・カンダカン.md" title="wikilink">アンドレ</a></p></td>
 <td><p>2007年5月13日（第15節）</p></td>
 <td><p><a href="../Page/アビスパ福岡.md" title="wikilink">アビスパ福岡</a></p></td>
@@ -311,7 +320,7 @@
 <td><p>54</p></td>
 <td><p>66}}</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>パウリーニョ</p></td>
 <td><p>2007年6月6日（第22節）</p></td>
 <td><p><a href="../Page/ベガルタ仙台.md" title="wikilink">ベガルタ仙台</a></p></td>
@@ -320,7 +329,7 @@
 <td><p>55</p></td>
 <td><p>76}}</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/久保裕也_(サッカー選手)" title="wikilink">久保裕也</a></p></td>
 <td><p>2013年6月9日（第18節）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロアッソ熊本" title="wikilink">ロアッソ熊本</a></p></td>
@@ -329,7 +338,7 @@
 <td><p>64</p></td>
 <td><p>72}}</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/大黒将志.md" title="wikilink">大黒将志</a></p></td>
 <td><p>2014年4月5日（第6節）</p></td>
 <td><p>大分トリニータ</p></td>
@@ -338,7 +347,7 @@
 <td><p>30</p></td>
 <td><p>81}}</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2014年6月21日（第19節）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロアッソ熊本" title="wikilink">ロアッソ熊本</a></p></td>
 <td><p><a href="../Page/熊本県民総合運動公園陸上競技場.md" title="wikilink">うまスタ</a></p></td>
@@ -347,7 +356,7 @@
 <td><p>65}}</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/田中マルクス闘莉王.md" title="wikilink">田中マルクス闘莉王</a></p></td>
 <td><p>2017年4月15日（第8節）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/愛媛FC" title="wikilink">愛媛FC</a></p></td>
@@ -356,7 +365,7 @@
 <td><p>72</p></td>
 <td><p>90+2}}</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>天皇杯</p></td>
 <td><p>3得点</p></td>
 <td><p><a href="../Page/宮吉拓実.md" title="wikilink">宮吉拓実</a></p></td>
@@ -501,7 +510,8 @@ Image:Sanga town01.jpg|京都サンガF.C.東城陽グラウンド
 <tr class="odd">
 <td><p>年度</p></td>
 <td><p>胸</p></td>
-<td><p>鎖骨</p></td>
+<td><p>鎖骨左</p></td>
+<td><p>鎖骨右</p></td>
 <td><p>背中上部</p></td>
 <td><p>背中下部</p></td>
 <td><p>袖</p></td>
@@ -517,10 +527,12 @@ Image:Sanga town01.jpg|京都サンガF.C.東城陽グラウンド
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p><a href="../Page/プーマ.md" title="wikilink">PUMA</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>1995</p></td>
 <td><p><a href="../Page/京セラ.md" title="wikilink">京セラ</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -538,6 +550,7 @@ Image:Sanga town01.jpg|京都サンガF.C.東城陽グラウンド
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>1997</p></td>
@@ -548,9 +561,11 @@ Image:Sanga town01.jpg|京都サンガF.C.東城陽グラウンド
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>1998</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -568,6 +583,7 @@ Image:Sanga town01.jpg|京都サンガF.C.東城陽グラウンド
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2000</p></td>
@@ -578,9 +594,11 @@ Image:Sanga town01.jpg|京都サンガF.C.東城陽グラウンド
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2001</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -599,6 +617,7 @@ Image:Sanga town01.jpg|京都サンガF.C.東城陽グラウンド
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2003</p></td>
@@ -609,9 +628,11 @@ Image:Sanga town01.jpg|京都サンガF.C.東城陽グラウンド
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2004</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -629,10 +650,12 @@ Image:Sanga town01.jpg|京都サンガF.C.東城陽グラウンド
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2006</p></td>
 <td><p><a href="../Page/大和証券.md" title="wikilink">大和証券</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -649,9 +672,11 @@ Image:Sanga town01.jpg|京都サンガF.C.東城陽グラウンド
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2008</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -669,9 +694,11 @@ Image:Sanga town01.jpg|京都サンガF.C.東城陽グラウンド
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2010</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -689,9 +716,11 @@ Image:Sanga town01.jpg|京都サンガF.C.東城陽グラウンド
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2012</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -709,9 +738,11 @@ Image:Sanga town01.jpg|京都サンガF.C.東城陽グラウンド
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2014</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -729,10 +760,12 @@ Image:Sanga town01.jpg|京都サンガF.C.東城陽グラウンド
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2016</p></td>
 <td><p>-</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -749,9 +782,11 @@ Image:Sanga town01.jpg|京都サンガF.C.東城陽グラウンド
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
+<td><p>-</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -769,11 +804,12 @@ Image:Sanga town01.jpg|京都サンガF.C.東城陽グラウンド
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2020</p></td>
-<td><p><a href="../Page/ワコール.md" title="wikilink">Wacoal</a> (右)<br />
-<a href="../Page/堀場製作所.md" title="wikilink">HORIBA</a> (左)</p></td>
+<td><p><a href="../Page/堀場製作所.md" title="wikilink">HORIBA</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>

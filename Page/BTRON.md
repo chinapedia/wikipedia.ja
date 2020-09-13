@@ -189,9 +189,9 @@ CECの選定取り消しについては、[大下英治](../Page/大下英治.md
   - [パーソナルメディア株式会社](http://www.personal-media.co.jp/)
       - [BTRONクラブ](http://www.btron-club.org/)
   - [坂村・越塚研究室](http://www.sakamura-lab.org/)
-  - [美崎薫(はてなキーワード)](http://d.hatena.ne.jp/keyword/%C8%FE%BA%EA%B7%B0)
-  - [Nortia Order](http://web.archive.org/web/20051107203004/http://www.nortia.or.jp/)(ウェブアーカイブ)
-      - [Unofficial TAD Guide Book(TADの全セグメントを完全解説)](http://web.archive.org/web/20050502170003/http://www.nortia.or.jp/tad-wg/tad-gb.html)(ウェブアーカイブ)
+  - [美崎薫(はてなキーワード)](https://d.hatena.ne.jp:443/keyword/%E7%BE%8E%E5%B4%8E%E8%96%AB)
+  - [Nortia Order](https://web.archive.org/web/20051107203004/http://www.nortia.or.jp/)(ウェブアーカイブ)
+      - [Unofficial TAD Guide Book(TADの全セグメントを完全解説)](https://web.archive.org/web/20050502170003/http://www.nortia.or.jp/tad-wg/tad-gb.html)(ウェブアーカイブ)
   - [オープンギャラリー:1B/V3の環境](http://www.os-museum.com/1bv3/1bv3.htm)
 
 [Category:TRONプロジェクト](https://ja.wikipedia.org/wiki/Category:TRONプロジェクト "wikilink") [Category:ハイパーテキスト](https://ja.wikipedia.org/wiki/Category:ハイパーテキスト "wikilink") [Category:OSのカーネル](https://ja.wikipedia.org/wiki/Category:OSのカーネル "wikilink")
@@ -209,13 +209,13 @@ CECの選定取り消しについては、[大下英治](../Page/大下英治.md
 11. 『BTRON2カーネル標準ハンドブック』
 12. TRONWARE Vol. 7
 13. TRONWARE Vol. 9
-14. <http://web.archive.org/web/20100811085732/http://www.assoc.tron.org/jpn/intro/enkaku.html>
+14. <https://web.archive.org/web/20100811085732/http://www.assoc.tron.org/jpn/intro/enkaku.html>
 15. [CEC沿革](http://www.cec.or.jp/CEC/gaiyou/enkaku.html)
 16. CECは2012年4月より一般財団法人コンピュータ教育推進センター
 17. [小林紀興](https://ja.wikipedia.org/wiki/小林紀興 "wikilink")『松下電器の果し状』1章
 18. 当時はLinuxやFreeBSDのようなAT\&Tの支配が及ばない、実用的Unix互換環境の登場など、誰も想像し得なかった。
-19. [ウェブアーカイブ、トロン協会ウェブサイト「通商問題経緯」](http://web.archive.org/web/20101016165257/http://www.assoc.tron.org/jpn/intro/s_301.html)
-20. [トロン協会「沿革」](http://web.archive.org/web/20100811085732/http://www.assoc.tron.org/jpn/intro/enkaku.html)
+19. [ウェブアーカイブ、トロン協会ウェブサイト「通商問題経緯」](https://web.archive.org/web/20101016165257/http://www.assoc.tron.org/jpn/intro/s_301.html)
+20. [トロン協会「沿革」](https://web.archive.org/web/20100811085732/http://www.assoc.tron.org/jpn/intro/enkaku.html)
 21. <https://xtech.nikkei.com/atcl/nxt/column/18/00215/060300034/>
 22.
 23. たとえば、[中村正三郎](../Page/中村正三郎_\(プログラマ\).md "wikilink")『電脳曼陀羅』（1995年版）収録「TRONのいま」の注25に「当時、反TRONだったのが、すでに地位を確立していたNECとMicrosoftだったのは周知の事実」とある

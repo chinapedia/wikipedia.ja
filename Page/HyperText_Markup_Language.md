@@ -178,8 +178,6 @@ HTML Living Standard\[22\] は [WHATWG](../Page/Web_Hypertext_Application_Techno
 
 ## 外部リンク
 
-  - [W3Cの最新のHTML仕様](https://www.w3.org/TR/html/)
-
   - [WHATWGの最新のHTML仕様](https://html.spec.whatwg.org/multipage/)
 
   - [W3C Markup Validation Service](https://validator.w3.org/index.html) - [W3C](https://ja.wikipedia.org/wiki/W3C "wikilink")による構文チェック

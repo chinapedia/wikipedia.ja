@@ -5,7 +5,7 @@
 
 ## 来歴・人物
 
-[大阪府](../Page/大阪府.md "wikilink")[南河内郡](../Page/南河内郡.md "wikilink")出身。学生時代から放送部に所属、学校の先生に勧められるような形でアナウンサーを目指すようになった。[生田教室](https://ja.wikipedia.org/wiki/生田教室 "wikilink")出身\[1\]\[2\]。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")[近畿放送](https://ja.wikipedia.org/wiki/近畿放送 "wikilink")入社。同期は[塩見祐子](https://ja.wikipedia.org/wiki/塩見祐子 "wikilink")、水野潤子。[血液型B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。既婚。主に報道・情報番組のキャスター、レポーターを担当してきた。 特に壮年を過ぎてから、ラジオに重心を置く事が多くなり、ラジオ番組への出演が多い。2009年2月でラジオ編成制作局長に異動\[3\]。166cm 。[かたせ梨乃](../Page/かたせ梨乃.md "wikilink")、若い頃の[佐藤しのぶ](https://ja.wikipedia.org/wiki/佐藤しのぶ "wikilink")に似ている。
+[大阪府](../Page/大阪府.md "wikilink")[南河内郡](../Page/南河内郡.md "wikilink")出身。学生時代から放送部に所属、学校の先生に勧められるような形でアナウンサーを目指すようになった。[生田教室](https://ja.wikipedia.org/wiki/生田教室 "wikilink")出身\[1\]\[2\]。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")[近畿放送](https://ja.wikipedia.org/wiki/近畿放送 "wikilink")入社。同期は[塩見祐子](https://ja.wikipedia.org/wiki/塩見祐子 "wikilink")、水野潤子。[血液型B型](../Page/ABO式血液型.md "wikilink")。既婚。主に報道・情報番組のキャスター、レポーターを担当してきた。 特に壮年を過ぎてから、ラジオに重心を置く事が多くなり、ラジオ番組への出演が多い。2009年2月でラジオ編成制作局長に異動\[3\]。166cm 。[かたせ梨乃](../Page/かたせ梨乃.md "wikilink")、若い頃の[佐藤しのぶ](https://ja.wikipedia.org/wiki/佐藤しのぶ "wikilink")に似ている。
 
 ## 出演番組
 
@@ -26,7 +26,7 @@
   - [桂朝丸のモーニングサークル](https://ja.wikipedia.org/wiki/桂朝丸のモーニングサークル "wikilink") -新人女子アナであった村上祐子が[桂都丸](https://ja.wikipedia.org/wiki/桂都丸 "wikilink")と一緒に番組リポーターを務めた
   - [桂都丸のサークルタウン](https://ja.wikipedia.org/wiki/桂都丸のサークルタウン "wikilink")　-初代アシスタント
   - 一石二鳥懐メロ大全集 -[上岡龍太郎](../Page/上岡龍太郎.md "wikilink")
-  - [桂べかこ](https://ja.wikipedia.org/wiki/桂べかこ "wikilink")の番組（日曜夕方）
+  - [桂べかこ](../Page/桂べかこ.md "wikilink")の番組（日曜夕方）
   - ゆうことゆうこのなんでもない夜（や）　-村上祐子＆[塩見祐子](https://ja.wikipedia.org/wiki/塩見祐子 "wikilink") 深夜のおしゃべり番組
   - [村上祐子の情報ラジオピア](https://ja.wikipedia.org/wiki/村上祐子の情報ラジオピア "wikilink")（1999年10月4日〜2003年3月29日）月曜日〜木曜日
   - [村上祐子のラジオかまい隊](https://ja.wikipedia.org/wiki/村上祐子のラジオかまい隊 "wikilink")（2003年4月2日〜2004年3月25日）月曜日〜木曜日

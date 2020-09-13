@@ -24,6 +24,6 @@
 
 ## 外部リンク
 
-[ガッシャブルムⅡ峰 追悼報告書](http://touhanclub.exblog.jp/24647369/)（1976年登攀倶楽部 カラコルム遠征隊）
+[ガッシャブルムⅡ峰 追悼報告書](https://touhanclub.exblog.jp/24647369/)（1976年登攀倶楽部 カラコルム遠征隊）
 
 [Category:パキスタンの山](https://ja.wikipedia.org/wiki/Category:パキスタンの山 "wikilink") [Category:新疆ウイグル自治区の山](https://ja.wikipedia.org/wiki/Category:新疆ウイグル自治区の山 "wikilink") [Category:8000メートル峰](https://ja.wikipedia.org/wiki/Category:8000メートル峰 "wikilink") [Category:アジアの国境上の山](https://ja.wikipedia.org/wiki/Category:アジアの国境上の山 "wikilink") [Category:中国＝パキスタン国境](https://ja.wikipedia.org/wiki/Category:中国＝パキスタン国境 "wikilink") [Category:ギルギット・バルティスタン州の山](https://ja.wikipedia.org/wiki/Category:ギルギット・バルティスタン州の山 "wikilink") [Category:カシュガル地区](https://ja.wikipedia.org/wiki/Category:カシュガル地区 "wikilink") [Category:カラコルム山脈](https://ja.wikipedia.org/wiki/Category:カラコルム山脈 "wikilink")

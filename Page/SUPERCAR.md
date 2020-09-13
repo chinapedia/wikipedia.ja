@@ -567,7 +567,9 @@ KSCL-817</p></td>
 
       - [いしわたり淳治 選曲:子どもたちに聴かせたい、伝えたい10曲 (MUSICSHELF)](http://musicshelf.jp/?mode=static&html=special_a07/index)
 
-  - [フルカワミキ公式サイト](https://www.furukawamiki.jp/)
+  - [フルカワミキ公式サイト](https://www.furukawamiki.jp/) ※更新停止
+
+  - [MIKI FURUKAWA Official Website](https://miiikiii.com/index.html)
 
   - [KODAI](http://eat.eplus2.jp/) - 田沢公大 公式ブログ
 

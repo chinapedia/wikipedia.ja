@@ -85,7 +85,7 @@ LinuxやFreeBSDや[NetBSD](../Page/NetBSD.md "wikilink")ではインテルによ
   - [公式Webページ](http://www.acpi.info/)
   - [ACPI-CA](http://www.acpica.org/)
 
-[Category:ファームウェア](https://ja.wikipedia.org/wiki/Category:ファームウェア "wikilink") [Category:API](https://ja.wikipedia.org/wiki/Category:API "wikilink") [Category:システム管理](https://ja.wikipedia.org/wiki/Category:システム管理 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")
+[Category:ファームウェア](https://ja.wikipedia.org/wiki/Category:ファームウェア "wikilink") [Category:API](https://ja.wikipedia.org/wiki/Category:API "wikilink") [Category:システム管理](https://ja.wikipedia.org/wiki/Category:システム管理 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink") [Category:BIOS](https://ja.wikipedia.org/wiki/Category:BIOS "wikilink")
 
 1.
 2.

@@ -238,7 +238,7 @@
 
   - [NHK佐賀放送局](https://www.nhk.or.jp/saga/)
 
-  - [地上デジタルテレビジョン放送局（中継局）の開局予定－平成23年5月に試験放送開始の中継局－](http://www.soumu.go.jp/soutsu/kyushu/press/110519-1-0.html) - 総務省九州総合通信局ホームページ（参考リンク）
+  - [地上デジタルテレビジョン放送局（中継局）の開局予定－平成23年5月に試験放送開始の中継局－](https://www.soumu.go.jp/soutsu/kyushu/press/110519-1-0.html) - 総務省九州総合通信局ホームページ（参考リンク）
 
   -
 [Category:NHK佐賀](https://ja.wikipedia.org/wiki/Category:NHK佐賀 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:NHKの放送送信施設](https://ja.wikipedia.org/wiki/Category:NHKの放送送信施設 "wikilink") [Category:佐賀県の放送送信所](https://ja.wikipedia.org/wiki/Category:佐賀県の放送送信所 "wikilink") [Category:九州・沖縄地方のテレビ局](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビ局 "wikilink") [Category:九州・沖縄地方のラジオ局](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のラジオ局 "wikilink") [Category:佐賀市の建築物](https://ja.wikipedia.org/wiki/Category:佐賀市の建築物 "wikilink")

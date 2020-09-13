@@ -5,7 +5,7 @@
 
 ## 概要
 
-1988年に[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[函館市](../Page/函館市.md "wikilink")で[TAKURO](../Page/TAKURO.md "wikilink")と[TERU](../Page/TERU.md "wikilink")を中心に[バンドを結成し](../Page/バンド_\(音楽\).md "wikilink")、後に現在のメンバーである[HISASHI](../Page/HISASHI.md "wikilink")と[JIRO](../Page/JIRO.md "wikilink")が加入した。1994年に[インディーズ](../Page/インディーズ.md "wikilink")の[エクスタシーレコード](../Page/エクスタシーレコード.md "wikilink")からアルバム『[灰とダイヤモンド](../Page/灰とダイヤモンド_\(GLAYのアルバム\).md "wikilink")』、[プラチナム・レコード](../Page/プラチナム・レコード.md "wikilink")からシングル「[RAIN](../Page/RAIN_\(GLAYの曲\).md "wikilink")」の同時発売でデビューした。1996年発売の2枚目のアルバム『[BEAT out\!](../Page/BEAT_out!.md "wikilink")』が初の[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位になると、同年発売の3枚目のアルバム『[BELOVED](../Page/BELOVED_\(GLAYのアルバム\).md "wikilink")』で[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成した。中でも、1997年に発売した初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[REVIEW-BEST OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")』はオリコン年間チャート1位を獲得。累計売上枚数は480万枚を超え、当時のアルバム売上日本記録を更新するなど、\[3\]爆発的な人気を得た。これまでにアルバム5作品がミリオンセラーとなっている（うち4作品はダブルミリオン）。シングルでは1997年発売の11枚目「[口唇](../Page/口唇_\(GLAYの曲\).md "wikilink")」が初のオリコンチャート1位となり、同年発売の12枚目「[HOWEVER](../Page/HOWEVER.md "wikilink")」でミリオンセラーを達成したほか、1998年発売の13枚目「[誘惑](../Page/誘惑_\(GLAYの曲\).md "wikilink")」がオリコン年間チャート1位になるなど、これまでにシングル6作品がミリオンセラーとなっている。また、「HOWEVER」は『[全日本有線放送大賞](../Page/全日本有線放送大賞.md "wikilink")』と『[日本有線大賞](../Page/日本有線大賞.md "wikilink")』\[4\]、「[Winter,again](../Page/Winter,again.md "wikilink")」は『日本有線大賞』と『[日本レコード大賞](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")』でそれぞれ大賞を受賞している\[5\]\[6\]。2019年現在、オリコンの集計によるCD総売上枚数は3800万枚を突破し\[7\]（日本歴代8位）、1996年リリースの「[グロリアス](../Page/グロリアス_\(GLAYの曲\).md "wikilink")」以来、2019年まで24年連続オリコン週間シングルチャートトップ10入りを果たしている（日本歴代2位）。また、シングル・アルバム共に1990年代・2000年代・2010年代と、3つの年代でオリコン1位獲得など根強い人気を誇る（アルバムは、2020年に1位を獲得しており、4年代で1位を達成）。平成で最もカラオケで歌われた歌手ランキングでは第4位。
+1988年に[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[函館市](../Page/函館市.md "wikilink")で[TAKURO](../Page/TAKURO.md "wikilink")と[TERU](../Page/TERU.md "wikilink")を中心に[バンドを結成し](../Page/バンド_\(音楽\).md "wikilink")、後に現在のメンバーである[HISASHI](../Page/HISASHI.md "wikilink")と[JIRO](../Page/JIRO.md "wikilink")が加入した。1994年に[インディーズ](../Page/インディーズ.md "wikilink")の[エクスタシーレコード](../Page/エクスタシーレコード.md "wikilink")からアルバム『[灰とダイヤモンド](../Page/灰とダイヤモンド_\(GLAYのアルバム\).md "wikilink")』、[プラチナム・レコード](../Page/プラチナム・レコード.md "wikilink")からシングル「[RAIN](../Page/RAIN_\(GLAYの曲\).md "wikilink")」の同時発売でデビューした。1996年発売の2枚目のアルバム『[BEAT out\!](../Page/BEAT_out!.md "wikilink")』が初の[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位になると、同年発売の3枚目のアルバム『[BELOVED](../Page/BELOVED_\(GLAYのアルバム\).md "wikilink")』で[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成した。中でも、1997年に発売した初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[REVIEW-BEST OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")』はオリコン年間チャート1位を獲得。累計売上枚数は480万枚を超え、当時のアルバム売上日本記録を更新するなど、\[3\]爆発的な人気を得た。これまでにアルバム5作品がミリオンセラーとなっている（うち4作品はダブルミリオン）。シングルでは1997年発売の11枚目「[口唇](../Page/口唇_\(GLAYの曲\).md "wikilink")」が初のオリコンチャート1位となり、同年発売の12枚目「[HOWEVER](../Page/HOWEVER.md "wikilink")」でミリオンセラーを達成したほか、1998年発売の13枚目「[誘惑](../Page/誘惑_\(GLAYの曲\).md "wikilink")」がオリコン年間チャート1位になるなど、これまでにシングル6作品がミリオンセラーとなっている。また、「HOWEVER」は『[全日本有線放送大賞](../Page/全日本有線放送大賞.md "wikilink")』と『[日本有線大賞](../Page/日本有線大賞.md "wikilink")』\[4\]、「[Winter,again](../Page/Winter,again.md "wikilink")」は『日本有線大賞』と『[日本レコード大賞](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")』でそれぞれ大賞を受賞している\[5\]\[6\]。2019年現在、オリコンの集計によるCD総売上枚数は3800万枚を突破し\[7\]（日本歴代8位）、1996年リリースの「[グロリアス](../Page/グロリアス_\(GLAYの曲\).md "wikilink")」以来、2020年まで25年連続オリコン週間シングルチャートトップ10入りを果たしている（日本歴代1位タイ）。また、シングル・アルバム共に1990年代・2000年代・2010年代と、3つの年代でオリコン1位獲得など根強い人気を誇る（アルバムは、2020年に1位を獲得しており、4年代で1位を達成）。平成で最もカラオケで歌われた歌手ランキングでは第4位。
 
 バンド結成時から行っているライブ活動は[メジャー・デビュー後も](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")[ライブハウス](../Page/ライブハウス.md "wikilink")や[スタジアム](../Page/スタジアム.md "wikilink")など様々な会場で開催しており、1999年に[幕張メッセ](../Page/幕張メッセ.md "wikilink")駐車場特設ステージで開催した『[GLAY EXPO '99 SURVIVAL](../Page/GLAY_EXPO.md "wikilink")』は単独アーティストよる有料ライブ（1公演当たり）の世界記録となる20万人を動員し、[社会現象](../Page/社会現象.md "wikilink")となった\[8\]。1999年の千葉・幕張でのライブ以降も「GLAY EXPO」と題し、[2001年](../Page/2001年.md "wikilink")には東京、2日間で10万人、北海道で10万人、福岡では8万人。[2004年](../Page/2004年.md "wikilink")には大阪で10万人。[2014年](../Page/2014年.md "wikilink")にも宮城で5万5000人を動員した（その動員数は北海道、東北、関西、九州の最多動員記録となっている）。また、日本国外でもライブを開催している。
 
@@ -13,7 +13,7 @@
 
 ### バンド名の由来
 
-バンド名「GLAY」は、[BOØWYの歌詞に由来しているなど諸説ある中](../Page/BOOWY.md "wikilink")\[10\]、白（[ポップス](../Page/ポップ・ミュージック.md "wikilink")）でも黒（[ロック](../Page/ロック_\(音楽\).md "wikilink")）でもない音楽ということでリーダーの[TAKURO](../Page/TAKURO.md "wikilink")が名づけた[造語](../Page/造語.md "wikilink")であると言われている\[11\]。また、[HISASHI](../Page/HISASHI.md "wikilink")によると高校時代にTAKUROと雑誌「[宝島](../Page/宝島_\(雑誌\).md "wikilink")」などから[サブカルチャー](../Page/サブカルチャー.md "wikilink")な[バンドについての情報交換をしており](../Page/バンド_\(音楽\).md "wikilink")、「[KENZI TRIPS](https://ja.wikipedia.org/wiki/KENZI "wikilink")\&THE」などのメンバーであったJun Gray\[12\]がバンド名由来の1つになっていると述べている\[13\]。
+バンド名「GLAY」は、[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の歌詞に由来しているなど諸説ある中\[10\]、白（[ポップス](../Page/ポップ・ミュージック.md "wikilink")）でも黒（[ロック](../Page/ロック_\(音楽\).md "wikilink")）でもない音楽ということでリーダーの[TAKURO](../Page/TAKURO.md "wikilink")が名づけた[造語](../Page/造語.md "wikilink")であると言われている\[11\]。また、[HISASHI](../Page/HISASHI.md "wikilink")によると高校時代にTAKUROと雑誌「[宝島](../Page/宝島_\(雑誌\).md "wikilink")」などから[サブカルチャー](../Page/サブカルチャー.md "wikilink")な[バンドについての情報交換をしており](../Page/バンド_\(音楽\).md "wikilink")、「[KENZI TRIPS](https://ja.wikipedia.org/wiki/KENZI "wikilink")\&THE」などのメンバーであったJun Gray\[12\]がバンド名由来の1つになっていると述べている\[13\]。
 
 ## メンバー
 
@@ -34,19 +34,19 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">ボーカル</a></p></td>
 </tr>
 <tr class="even">
+<td><p><strong><a href="../Page/JIRO.md" title="wikilink">JIRO</a></strong></p></td>
+<td></td>
+<td><p><a href="../Page/ベース_(弦楽器).md" title="wikilink">ベース</a></p></td>
+</tr>
+<tr class="odd">
 <td><p><strong><a href="../Page/TAKURO.md" title="wikilink">TAKURO</a></strong></p></td>
 <td></td>
 <td><p><a href="../Page/ギター.md" title="wikilink">ギター</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="../Page/HISASHI.md" title="wikilink">HISASHI</a></strong></p></td>
 <td></td>
 <td><p><a href="../Page/ギター.md" title="wikilink">ギター</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong><a href="../Page/JIRO.md" title="wikilink">JIRO</a></strong></p></td>
-<td></td>
-<td><p><a href="../Page/ベース_(弦楽器).md" title="wikilink">ベース</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -81,7 +81,7 @@ HISASHI以外全員、生まれも育ちも[北海道](https://ja.wikipedia.org/
 
 ## 音楽性
 
-GLAYのデビュー時は、いわゆる「[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")」と呼ばれる[バンドのイメージであった](../Page/バンド_\(音楽\).md "wikilink")。[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")の[佐久間正英](../Page/佐久間正英.md "wikilink")によると、GLAYを最初に聴いた時は、自身がプロデュースしていた[UP-BEAT](../Page/UP-BEAT.md "wikilink")や[BOØWYを混ぜた感じであり](../Page/BOOWY.md "wikilink")、特にBOØWYの影響を受けた世代のバンドであると述べている\[20\]。これまでに多くの曲をリーダーの[TAKURO](../Page/TAKURO.md "wikilink")が書いているが、[TERU](../Page/TERU.md "wikilink")はTAKUROが作詞作曲に関していろんなジャンルにルーツがあることが他のバンドとの違いを生んでいると述べており\[21\]、GLAYは「ヴィジュアル系」枠を越えた人気を獲得するようになった\[22\]。[HISASHI](../Page/HISASHI.md "wikilink")によると、GLAYに対して自分と[JIRO](../Page/JIRO.md "wikilink")がある種の負荷を加えることで反発力が出てくるので、実験的な試みをやってきているとしている\[23\]。
+GLAYのデビュー時は、いわゆる「[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")」と呼ばれる[バンドのイメージであった](../Page/バンド_\(音楽\).md "wikilink")。[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")の[佐久間正英](../Page/佐久間正英.md "wikilink")によると、GLAYを最初に聴いた時は、自身がプロデュースしていた[UP-BEAT](../Page/UP-BEAT.md "wikilink")や[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")を混ぜた感じであり、特にBOØWYの影響を受けた世代のバンドであると述べている\[20\]。これまでに多くの曲をリーダーの[TAKURO](../Page/TAKURO.md "wikilink")が書いているが、[TERU](../Page/TERU.md "wikilink")はTAKUROが作詞作曲に関していろんなジャンルにルーツがあることが他のバンドとの違いを生んでいると述べており\[21\]、GLAYは「ヴィジュアル系」枠を越えた人気を獲得するようになった\[22\]。[HISASHI](../Page/HISASHI.md "wikilink")によると、GLAYに対して自分と[JIRO](../Page/JIRO.md "wikilink")がある種の負荷を加えることで反発力が出てくるので、実験的な試みをやってきているとしている\[23\]。
 
 GLAYはメンバー全員が[ソングライター](../Page/ソングライター.md "wikilink")である。TAKUROによると、10thアルバム『[GLAY](https://ja.wikipedia.org/wiki/GLAY_\(アルバム\) "wikilink")』を制作した後から次は違う表現に挑戦したいと思うようになり\[24\]、43rdシングル「[G4・II -THE RED MOON-](https://ja.wikipedia.org/wiki/G4・II_-THE_RED_MOON- "wikilink")」以降の「G4シリーズ」では、各メンバーが作曲した曲を収録しているほか、HISASHIが46thシングル「\[\[JUSTICE_from_GUILTY|JUSTICE \[from\] GUILTY\]\]」、JIROが47thシングル「[運命論](https://ja.wikipedia.org/wiki/運命論_\(曲\) "wikilink")」、TERUが配信限定シングル「[Thank you for your love](https://ja.wikipedia.org/wiki/Thank_you_for_your_love "wikilink")」や50thシングル「[BLEEZE](https://ja.wikipedia.org/wiki/BLEEZE_〜G4・III〜 "wikilink")」などのタイトル曲を作曲するようになった。メンバーの曲についてJIROは、ポップであるのは共通しているが[ベクトル](../Page/ベクトル.md "wikilink")が違うとしている\[25\]。TAKUROはGLAYが持つ[ロックな面はJIROが担っているとしており](../Page/ロック_\(音楽\).md "wikilink")\[26\]</ref>、JIROもGLAYの中でストレートな[ロックンロール](../Page/ロックンロール.md "wikilink")をやるのは自分しかいないと述べている\[27\]。また、TAKUROはHISASHIが持つ[サブカルチャー](../Page/サブカルチャー.md "wikilink")的な要素や[ニッチな部分が脚光を浴びるようになっていると述べているほか](../Page/ニッチ市場.md "wikilink")\[28\]、どんな歌詞でも真っ直ぐに歌い上げるTERUを賞賛している\[29\]。
 
@@ -107,7 +107,7 @@ GLAY公式サイト「BIOGRAPHY」参照\[43\]
 
 [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[函館市](../Page/函館市.md "wikilink")において[1988年](../Page/1988年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")、当時高校生の[TAKURO](../Page/TAKURO.md "wikilink")と[TERU](../Page/TERU.md "wikilink")を中心に[バンド](../Page/バンド_\(音楽\).md "wikilink")「GLAY」を結成、オリジナル曲を披露するなどのライブ活動を始めた。TERUは当初[ドラマー](../Page/ドラマー.md "wikilink")として加入していたが、TERUの歌声が入った[デモテープ](https://ja.wikipedia.org/wiki/デモテープ "wikilink")を聴いたTAKUROに「氷室京介以来の衝撃を受けた」と言わしめ、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")に転向した\[44\]。後に[HISASHI](../Page/HISASHI.md "wikilink")が加入。1990年の高校卒業を機に3人は活動拠点を函館から東京に移した。チャンスを掴むため、いろんな[オーディション](../Page/オーディション.md "wikilink")に出場しており、その中には[TBS系で放送していた](../Page/TBSテレビ.md "wikilink")『[三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")』（イカ天）もあった\[45\]。
 
-その後、GLAYに函館の後輩バンドのメンバーであった[JIRO](../Page/JIRO.md "wikilink")が加入し、1993年に[YOSHIKI](../Page/YOSHIKI.md "wikilink")がライブに訪れると[インディーズ](../Page/インディーズ.md "wikilink")の[レコードレーベル](../Page/レコードレーベル.md "wikilink")「[エクスタシーレコード](../Page/エクスタシーレコード.md "wikilink")」との契約が決まり、アルバム制作がスタートした。1994年、初のワンマンライブを[目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink")で行った後、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")に渡りYOSHIKIプロデュースによる「[RAIN](../Page/RAIN_\(GLAYの曲\).md "wikilink")」をレコーディングした。
+その後、GLAYに函館の後輩バンドのメンバーであった[JIRO](../Page/JIRO.md "wikilink")が加入し、1993年に[YOSHIKI](../Page/YOSHIKI.md "wikilink")がライブに訪れると[インディーズ](../Page/インディーズ.md "wikilink")の[レコードレーベル](../Page/レコードレーベル.md "wikilink")「[エクスタシーレコード](../Page/エクスタシーレコード.md "wikilink")」との契約が決まり、アルバム制作がスタートした。1994年、初のワンマンライブを[目黒鹿鳴館](../Page/目黒鹿鳴館.md "wikilink")で行った後、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")に渡りYOSHIKIプロデュースによる「[RAIN](../Page/RAIN_\(GLAYの曲\).md "wikilink")」をレコーディングした。
 
 ### 1994年（メジャー・デビュー後） - 1999年
 
@@ -159,7 +159,7 @@ GLAY公式サイト「BIOGRAPHY」参照\[43\]
 
 札幌ではデビュー25周年を記念した企画展『GLAY DEMOCRACY展』を開催し\[114\]、翌年には東京・大阪で巡回展を開催\[115\]。10月には15thアルバム『[NO DEMOCRACY](https://ja.wikipedia.org/wiki/NO_DEMOCRACY "wikilink")』を発売し、グループによる「アルバムTOP10入り作品数」記録で[TUBE](../Page/TUBE.md "wikilink")、[B'z](../Page/B'z.md "wikilink")に次ぐ歴代単独3位（29作品）となった\[116\]。『[テレビ朝日ドリームフェスティバル](https://ja.wikipedia.org/wiki/テレビ朝日ドリームフェスティバル "wikilink")2019』などに出演後、アリーナツアー『GLAY ARENA TOUR 2019-2020 DEMOCRACY 25TH HOTEL GLAY THE SUITE ROOM』を開催した\[117\]。また、ツアーに合わせて日本国内の[ロフト](../Page/ロフト_\(雑貨店\).md "wikilink")9店舗で期間限定イベント『DEMOCRACY 25TH HOTEL GLAY -SWEET LOUNGE-』を開催した\[118\]。
 
-2020年、3月11日に各メンバーが収録曲を選んだ[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[REVIEW II -BEST OF GLAY-](../Page/REVIEW_II_-BEST_OF_GLAY-.md "wikilink")』を発売。オリコン1位を獲得し、GLAYにとっては令和初・通算15作目となる首位獲得。これによってシングル・アルバムの総売上が4000万枚を突破したほか、音楽グループとしてはサザンオールスターズ以来2組目となる、4年代連続での首位獲得(1990年～2020年)も果たした。\[119\]また、5月と12月にドームツアー『GLAY DOME TOUR 2020 DEMOCRACY 25TH "HOTEL GLAY GRAND FINALE"』を開催する\[120\]予定であったが、新型コロナウイルスの感染拡大や、来場者およびアーティスト、スタッフ、関係者などの健康と安全を最優先に考え、5月に開催予定であったナゴヤドーム・東京ドームでの公演は中止となった。なお、12月に開催予定の札幌ドームについては、今後の感染拡大の状況を鑑みて、政府および自治体の感染防止対策方針のもと、開催の可否が判断されるとのこと\[121\]。また、医療関係者へ1000万円を寄付する旨も、YouTubeの公式チャンネル内にアップロードした動画にて、TAKUROから伝えられたほか\[122\]\[123\]、4月7日にはマスク5000枚を医療機関へ寄付することも発表された\[124\]。
+2020年、3月11日に各メンバーが収録曲を選んだ[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[REVIEW II -BEST OF GLAY-](../Page/REVIEW_II_-BEST_OF_GLAY-.md "wikilink")』を発売。オリコン1位を獲得し、GLAYにとっては令和初・通算15作目となる首位獲得。これによってシングル・アルバムの総売上が4000万枚を突破したほか、音楽グループとしてはサザンオールスターズ以来2組目となる、4年代連続での首位獲得(1990年～2020年)も果たした。\[119\]また、5月と12月にドームツアー『GLAY DOME TOUR 2020 DEMOCRACY 25TH "HOTEL GLAY GRAND FINALE"』を開催する\[120\]予定であったが、新型コロナウイルスの感染拡大や、来場者およびアーティスト、スタッフ、関係者などの健康と安全を最優先に考え、5月に開催予定であったナゴヤドーム・東京ドームでの公演は中止となった。なお、12月に開催予定の札幌ドームについては、今後の感染拡大の状況を鑑みて、政府および自治体の感染防止対策方針のもと、開催の可否が判断されるとのこと\[121\]。また、医療関係者へ1000万円を寄付する旨も、YouTubeの公式チャンネル内にアップロードした動画にて、TAKUROから伝えられたほか\[122\]\[123\]、4月7日にはマスク5000枚を医療機関へ寄付することも発表された\[124\]。[5月22日](../Page/5月22日.md "wikilink")、中止になってしまったドーム公演の代わりに、GLAYとしては初となる無観客ライブ\[125\]「GLAY 25th Anniversary "LIVE DEMOCRACY" Powered by HOTEL GLAY」を開催\[126\]。この模様は[6月21日](../Page/6月21日.md "wikilink")に[WOWOW](../Page/WOWOW.md "wikilink")にてオンエアされた\[127\]。[8月12日](../Page/8月12日.md "wikilink")にはシングル「[G4・2020](../Page/G4・2020.md "wikilink")」の発売に合わせて収録曲である「ROCK ACADEMIA」のMV、そして[函館の](../Page/函館市.md "wikilink")[恵山で開催されたキャリア初となる](../Page/恵山_\(火山\).md "wikilink")「野外での無観客ライブ」の模様をYouTubeにて公開\[128\]\[129\]。
 
 ## 受賞歴
 
@@ -170,31 +170,31 @@ GLAY公式サイト「BIOGRAPHY」参照\[43\]
 
 **[日本有線大賞](../Page/日本有線大賞.md "wikilink")**
 
-  - 『第30回日本有線大賞』大賞・有線音楽優秀賞（ポップス）「HOWEVER」\[125\]
-  - 『第32回日本有線大賞』大賞「[Winter,again](../Page/Winter,again.md "wikilink")」\[126\]、最多リクエスト歌手賞\[127\]
+  - 『第30回日本有線大賞』大賞・有線音楽優秀賞（ポップス）「HOWEVER」\[130\]
+  - 『第32回日本有線大賞』大賞「[Winter,again](../Page/Winter,again.md "wikilink")」\[131\]、最多リクエスト歌手賞\[132\]
 
 **[日本レコード大賞](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")**
 
-  - 『[第39回日本レコード大賞](https://ja.wikipedia.org/wiki/第39回日本レコード大賞 "wikilink")』アルバム大賞・ベストアルバム賞『[BELOVED](../Page/BELOVED_\(GLAYのアルバム\).md "wikilink")』\[128\]、優秀作品賞「HOWEVER」\[129\]
-  - 『[第40回日本レコード大賞](https://ja.wikipedia.org/wiki/第40回日本レコード大賞 "wikilink")』ベストアルバム賞『[pure soul](https://ja.wikipedia.org/wiki/pure_soul "wikilink")』\[130\]
-  - 『[第41回日本レコード大賞](https://ja.wikipedia.org/wiki/第41回日本レコード大賞 "wikilink")』レコード大賞・優秀作品賞「Winter,again」\[131\]
+  - 『[第39回日本レコード大賞](https://ja.wikipedia.org/wiki/第39回日本レコード大賞 "wikilink")』アルバム大賞・ベストアルバム賞『[BELOVED](../Page/BELOVED_\(GLAYのアルバム\).md "wikilink")』\[133\]、優秀作品賞「HOWEVER」\[134\]
+  - 『[第40回日本レコード大賞](https://ja.wikipedia.org/wiki/第40回日本レコード大賞 "wikilink")』ベストアルバム賞『[pure soul](https://ja.wikipedia.org/wiki/pure_soul "wikilink")』\[135\]
+  - 『[第41回日本レコード大賞](https://ja.wikipedia.org/wiki/第41回日本レコード大賞 "wikilink")』レコード大賞・優秀作品賞「Winter,again」\[136\]
 
 **[JASRAC賞](https://ja.wikipedia.org/wiki/JASRAC賞 "wikilink")**
 
-  - 『第16回JASRAC賞』銅賞「HOWEVER」\[132\]
+  - 『第16回JASRAC賞』銅賞「HOWEVER」\[137\]
 
 **[ゴールデン・アロー賞](../Page/ゴールデン・アロー賞.md "wikilink")**
 
-  - 『第35回ゴールデン・アロー賞』音楽賞\[133\]
+  - 『第35回ゴールデン・アロー賞』音楽賞\[138\]
 
 **[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")**
 
-  - 『第12回日本ゴールドディスク大賞』アーティスト・オブ・ザ・イヤー\[134\]、ロック・アルバム・オブ・ザ・イヤー『[REVIEW-BEST OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")』\[135\]、ミュージック・ビデオ・オブ・ザ・イヤー『[HIT THE WORLD GLAY Arena Tour '97 at Yoyogidaiichitaiikukan](../Page/HIT_THE_WORLD_GLAY_Arena_Tour_'97_at_Yoyogidaiichitaiikukan.md "wikilink")』\[136\]
-  - 『第13回日本ゴールドディスク大賞』ロック・アルバム・オブ・ザ・イヤー『[pure soul](https://ja.wikipedia.org/wiki/pure_soul "wikilink")』\[137\]、ソング・オブ・ザ・イヤー「[誘惑](../Page/誘惑_\(GLAYの曲\).md "wikilink")」「[SOUL LOVE](../Page/SOUL_LOVE.md "wikilink")」「[BE WITH YOU](../Page/BE_WITH_YOU_\(GLAYの曲\).md "wikilink")」\[138\]、ミュージック・ビデオ・オブ・ザ・イヤー『[“pure soul”TOUR '98](../Page/“pure_soul”TOUR_'98.md "wikilink")』\[139\]
-  - 『第14回日本ゴールドディスク大賞』ソング・オブ・ザ・イヤー「Winter,again」「[ここではない、どこかへ](../Page/ここではない、どこかへ.md "wikilink")」\[140\]、ロック・アルバム・オブ・ザ・イヤー『[HEAVY GAUGE](https://ja.wikipedia.org/wiki/HEAVY_GAUGE "wikilink")』\[141\]、ミュージック・ビデオ・オブ・ザ・イヤー『[サバイバル](../Page/サバイバル_\(GLAYの曲\).md "wikilink")』\[142\]
-  - 『第15回日本ゴールドディスク大賞』ソング・オブ・ザ・イヤー「[とまどい/SPECIAL THANKS](https://ja.wikipedia.org/wiki/とまどい/SPECIAL_THANKS "wikilink")」\[143\]、ロック・アルバム・オブ・ザ・イヤー『[DRIVE-GLAY complete BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")』\[144\]
-  - 『第17回日本ゴールドディスク大賞』ソング・オブ・ザ・イヤー「[Way of Difference](../Page/Way_of_Difference.md "wikilink")」\[145\]
-  - 『第20回日本ゴールドディスク大賞』ソング・オブ・ザ・イヤー「[SCREAM](https://ja.wikipedia.org/wiki/SCREAM_\(GLAY×EXILEの曲\) "wikilink")」（[GLAY×EXILE](https://ja.wikipedia.org/wiki/GLAY×EXILE "wikilink")）\[146\]
+  - 『第12回日本ゴールドディスク大賞』アーティスト・オブ・ザ・イヤー\[139\]、ロック・アルバム・オブ・ザ・イヤー『[REVIEW-BEST OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")』\[140\]、ミュージック・ビデオ・オブ・ザ・イヤー『[HIT THE WORLD GLAY Arena Tour '97 at Yoyogidaiichitaiikukan](../Page/HIT_THE_WORLD_GLAY_Arena_Tour_'97_at_Yoyogidaiichitaiikukan.md "wikilink")』\[141\]
+  - 『第13回日本ゴールドディスク大賞』ロック・アルバム・オブ・ザ・イヤー『[pure soul](https://ja.wikipedia.org/wiki/pure_soul "wikilink")』\[142\]、ソング・オブ・ザ・イヤー「[誘惑](../Page/誘惑_\(GLAYの曲\).md "wikilink")」「[SOUL LOVE](../Page/SOUL_LOVE.md "wikilink")」「[BE WITH YOU](../Page/BE_WITH_YOU_\(GLAYの曲\).md "wikilink")」\[143\]、ミュージック・ビデオ・オブ・ザ・イヤー『[“pure soul”TOUR '98](../Page/“pure_soul”TOUR_'98.md "wikilink")』\[144\]
+  - 『第14回日本ゴールドディスク大賞』ソング・オブ・ザ・イヤー「Winter,again」「[ここではない、どこかへ](../Page/ここではない、どこかへ.md "wikilink")」\[145\]、ロック・アルバム・オブ・ザ・イヤー『[HEAVY GAUGE](https://ja.wikipedia.org/wiki/HEAVY_GAUGE "wikilink")』\[146\]、ミュージック・ビデオ・オブ・ザ・イヤー『[サバイバル](../Page/サバイバル_\(GLAYの曲\).md "wikilink")』\[147\]
+  - 『第15回日本ゴールドディスク大賞』ソング・オブ・ザ・イヤー「[とまどい/SPECIAL THANKS](https://ja.wikipedia.org/wiki/とまどい/SPECIAL_THANKS "wikilink")」\[148\]、ロック・アルバム・オブ・ザ・イヤー『[DRIVE-GLAY complete BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")』\[149\]
+  - 『第17回日本ゴールドディスク大賞』ソング・オブ・ザ・イヤー「[Way of Difference](../Page/Way_of_Difference.md "wikilink")」\[150\]
+  - 『第20回日本ゴールドディスク大賞』ソング・オブ・ザ・イヤー「[SCREAM](https://ja.wikipedia.org/wiki/SCREAM_\(GLAY×EXILEの曲\) "wikilink")」（[GLAY×EXILE](https://ja.wikipedia.org/wiki/GLAY×EXILE "wikilink")）\[151\]
 
 **歌手ナビ音楽祭**
 
@@ -202,24 +202,24 @@ GLAY公式サイト「BIOGRAPHY」参照\[43\]
 
 **[ショートショートフィルムフェスティバル](../Page/ショートショートフィルムフェスティバル.md "wikilink")**
 
-  - 『ショートショート フィルムフェスティバル&アジア 2009』【ミュージックShort部門】優秀賞『[SAY YOUR DREAM](https://ja.wikipedia.org/wiki/SAY_YOUR_DREAM "wikilink")』\[147\]\[148\]
-  - 『ショートショート フィルムフェスティバル&アジア 2015』【ミュージックShort部門】シネマチックアワード特別賞『[疾走れ\!ミライ](https://ja.wikipedia.org/wiki/百花繚乱/疾走れ!ミライ "wikilink")』\[149\]
+  - 『ショートショート フィルムフェスティバル&アジア 2009』【ミュージックShort部門】優秀賞『[SAY YOUR DREAM](https://ja.wikipedia.org/wiki/SAY_YOUR_DREAM "wikilink")』\[152\]\[153\]
+  - 『ショートショート フィルムフェスティバル&アジア 2015』【ミュージックShort部門】シネマチックアワード特別賞『[疾走れ\!ミライ](https://ja.wikipedia.org/wiki/百花繚乱/疾走れ!ミライ "wikilink")』\[154\]
 
 **[MTV Video Music Awards Japan](../Page/MTV_Video_Music_Awards_Japan.md "wikilink")**
 
-  - 『MTV VMAJ 2014』インスピレーション・アワード・ジャパン\[150\]
-  - 『MTV VMAJ 2019』「MTV Rock the World Award」\[151\]\[152\]
+  - 『MTV VMAJ 2014』インスピレーション・アワード・ジャパン\[155\]
+  - 『MTV VMAJ 2019』「MTV Rock the World Award」\[156\]\[157\]
 
 ### その他
 
-  - 函館市栄誉賞\[153\]
-  - [ギネス世界記録](../Page/ギネス世界記録.md "wikilink")「単独アーティストによる有料ライブにおける最多観客動員『GLAY EXPO '99 SURVIVAL』」\[154\]
+  - 函館市栄誉賞\[158\]
+  - [ギネス世界記録](../Page/ギネス世界記録.md "wikilink")「単独アーティストによる有料ライブにおける最多観客動員『GLAY EXPO '99 SURVIVAL』」\[159\]
 
 ## 作品
 
 ## NEVER MIND
 
-NEVER MIND（ネヴァー・マインド）は、GLAYのメンバーやサポートメンバーのTOSHIなどにより結成したバンド。GLAYとは同郷であり、[パンクスである](https://ja.wikipedia.org/wiki/パンク_\(サブカルチャー\) "wikilink")。1997年に大阪で行ったGLAYのシークレットライブに前座として突如登場し、[セックス・ピストルズ](../Page/セックス・ピストルズ.md "wikilink")（*Sex Pistols*）の「[アナーキー・イン・ザ・U.K.](https://ja.wikipedia.org/wiki/アナーキー・イン・ザ・U.K. "wikilink")」（*Anarchy in the U.K.*）を演奏した\[155\]。その後もごく稀にGLAYのライブに登場するスタイルをとっている。
+NEVER MIND（ネヴァー・マインド）は、GLAYのメンバーやサポートメンバーのTOSHIなどにより結成したバンド。GLAYとは同郷であり、[パンクスである](https://ja.wikipedia.org/wiki/パンク_\(サブカルチャー\) "wikilink")。1997年に大阪で行ったGLAYのシークレットライブに前座として突如登場し、[セックス・ピストルズ](../Page/セックス・ピストルズ.md "wikilink")（*Sex Pistols*）の「[アナーキー・イン・ザ・U.K.](https://ja.wikipedia.org/wiki/アナーキー・イン・ザ・U.K. "wikilink")」（*Anarchy in the U.K.*）を演奏した\[160\]。その後もごく稀にGLAYのライブに登場するスタイルをとっている。
 
 | 人名   | パート                                                   | 演じた人物                                    |
 | ---- | ----------------------------------------------------- | ---------------------------------------- |
@@ -318,7 +318,7 @@ NEVER MINDメンバー
 <tr class="odd">
 <td><p>1995年3月1日</p></td>
 <td><p>目黒鹿鳴館シークレットライブ</p></td>
-<td><p><strong>1公演</strong> - <a href="https://ja.wikipedia.org/wiki/目黒鹿鳴館" title="wikilink">目黒鹿鳴館</a></p></td>
+<td><p><strong>1公演</strong> - <a href="../Page/目黒鹿鳴館.md" title="wikilink">目黒鹿鳴館</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1995年4月2日</p></td>
@@ -432,7 +432,7 @@ NEVER MINDメンバー
 <div class="NavContent" style="text-align:left;">
 <p>10/10 <a href="https://ja.wikipedia.org/wiki/福島女子短期大学" title="wikilink">福島女子短期大学</a><br />
 10/26 <a href="../Page/常磐大学.md" title="wikilink">常磐大学</a><br />
-10/27 <a href="../Page/白鴎大学.md" title="wikilink">白鴎大学</a><br />
+10/27 <a href="https://ja.wikipedia.org/wiki/白鷗大学" title="wikilink">白鷗大学</a><br />
 11/03 <a href="../Page/立正大学.md" title="wikilink">立正大学</a><br />
 11/04 <a href="https://ja.wikipedia.org/wiki/上武大学" title="wikilink">上武大学</a></p>
 </div>
@@ -1427,7 +1427,7 @@ We are AX</p></td>
 <tr class="even">
 <td><p>2011年8月12日</p></td>
 <td><p>「宮崎・東北 共にがんばろう<nowiki></p></td>
-<td><p></nowiki>」チャリティーコンサート[156]</p></td>
+<td><p></nowiki>」チャリティーコンサート[161]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011年9月25日</p></td>
@@ -1559,8 +1559,8 @@ in Zepp Fukuoka</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <p>05/25 香港・<a href="https://ja.wikipedia.org/wiki/アジアワールド・エキスポ" title="wikilink">アジアワールド・エキスポ</a><br />
-<del>06/01 ソウル・オリンピック公園体操競技場</del>[157]<br />
-<del>06/15 バンコク・インパクト・アリーナ</del>[158]<br />
+<del>06/01 ソウル・オリンピック公園体操競技場</del>[162]<br />
+<del>06/15 バンコク・インパクト・アリーナ</del>[163]<br />
 07/06 台北・南港展覧館</p>
 </div>
 </div></td>
@@ -1750,7 +1750,7 @@ GLAY EXPO 2014 前夜祭 〜胸がざわめくZepp Tokyo〜</p></td>
 </tr>
 <tr class="even">
 <td><p>2015年7月1日</p></td>
-<td><p>チャットモンチーの求愛ツアー♡2015ファイナル[159]</p></td>
+<td><p>チャットモンチーの求愛ツアー♡2015ファイナル[164]</p></td>
 <td><p><strong>1公演</strong> - Zepp Tokyo</p></td>
 </tr>
 <tr class="odd">
@@ -2058,7 +2058,7 @@ MOTEL GLAY “THE ONE∞ ROOM”</p></td>
   - [bayfm](../Page/ベイエフエム.md "wikilink")『[Music Pulse on Tokyo Bay](../Page/MUSIC_PULSE.md "wikilink")』（1995年4月5日 – 1996年9月）
   - [TOKYO FM](../Page/エフエム東京.md "wikilink")『GLAY RADIO COMMUNICATION』（2001年10月7日 - 2003年9月28日）
   - [ニッポン放送](../Page/ニッポン放送.md "wikilink")『[@llnightnippon.com](../Page/@llnightnippon.com.md "wikilink") RADIO GLAY』『[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")スペシャル「RADIO GLAY」』（1999年5月10日、2000年8月21日、2000年11月1日、2001年5月5日、2003年10月24日、2004年3月26日）
-  - ニッポン放送『GLAYの[オールナイトニッポンGOLD](https://ja.wikipedia.org/wiki/オールナイトニッポンGOLD "wikilink")』（2013年12月6日）\[160\]
+  - ニッポン放送『GLAYの[オールナイトニッポンGOLD](https://ja.wikipedia.org/wiki/オールナイトニッポンGOLD "wikilink")』（2013年12月6日）\[165\]
 
 ### テレビ
 
@@ -2067,11 +2067,11 @@ MOTEL GLAY “THE ONE∞ ROOM”</p></td>
   - フジテレビ系『「ONE LOVE」GLAY密着30万人の夏〜そして未来へ〜 史上空前ライブはこうして生まれた』（2001年11月3日）
   - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『GLAY ONE LOVE in 北京 〜日中国交正常化三十周年特別記念コンサート』（2002年12月14日）
   - [WOWOW](../Page/WOWOW.md "wikilink")『GLAY SPECIAL 〜BEAUTIFUL DREAMER〜』（2003年11月4日）
-  - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『ZERO CULTURE スピンオフ「[NEWS ZERO特別版](https://ja.wikipedia.org/wiki/news_zero "wikilink") GLAY独占密着\!15年目のメッセージ」』（2009年9月11日）\[161\]
+  - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『ZERO CULTURE スピンオフ「[NEWS ZERO特別版](https://ja.wikipedia.org/wiki/news_zero "wikilink") GLAY独占密着\!15年目のメッセージ」』（2009年9月11日）\[166\]
   - WOWOW『GLAY スペシャル 〜20th Anniversary〜』（2015年3月1日）
-  - 民放各局『GLAY 20th Anniversary 〜20年の軌跡〜』（2015年6月15日から順次放送\[162\]、[dTVでも配信開始](https://ja.wikipedia.org/wiki/dTV_\(NTTドコモ\) "wikilink")\[163\]）
-  - 民放14局『GLAYの信念〜北の大地に捧げた音楽〜』（2016年2月1日から順次放送）\[164\]
-  - 民放6局『the other end of the globe〜10年後の夢に向かって〜』（2017年7月8日から順次放送）\[165\]
+  - 民放各局『GLAY 20th Anniversary 〜20年の軌跡〜』（2015年6月15日から順次放送\[167\]、[dTVでも配信開始](https://ja.wikipedia.org/wiki/dTV_\(NTTドコモ\) "wikilink")\[168\]）
+  - 民放14局『GLAYの信念〜北の大地に捧げた音楽〜』（2016年2月1日から順次放送）\[169\]
+  - 民放6局『the other end of the globe〜10年後の夢に向かって〜』（2017年7月8日から順次放送）\[170\]
   - [NHK BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")『GLAY 伝説の25年～やわらかな風の中で～』（2020年1月2日）
 
 ### NHK紅白歌合戦出場歴
@@ -2089,23 +2089,23 @@ MOTEL GLAY “THE ONE∞ ROOM”</p></td>
   - [明治製菓](../Page/明治製菓.md "wikilink")「Horn」（1998年 - 1999年）
   - TDK「ミニディスクXGシリーズ」（1999年）
   - 明治製菓「Fran」（1999年）
-  - M-UP「GLAYPHONE（[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink") by [KDDI](../Page/KDDI.md "wikilink")）」（2001年\[166\]）
+  - M-UP「GLAYPHONE（[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink") by [KDDI](../Page/KDDI.md "wikilink")）」（2001年\[171\]）
   - [ライフ](../Page/ライフカード.md "wikilink")「GLAY LIFE [MasterCard](../Page/マスターカード.md "wikilink")」（2001年）
   - [日本航空](../Page/日本航空.md "wikilink")「JAL NEW CHINA」（2002年）
-  - [WOWOW](../Page/WOWOW.md "wikilink")「連鎖〜すごいこと引き起こす篇」（2004年\[167\]）
+  - [WOWOW](../Page/WOWOW.md "wikilink")「連鎖〜すごいこと引き起こす篇」（2004年\[172\]）
   - [日清食品](https://ja.wikipedia.org/wiki/日清食品 "wikilink")「[カップヌードル](../Page/カップヌードル.md "wikilink")『この味は世界にひとつ』シリーズ」（2010年）
 
 ### インターネット放送・SNS
 
-  - [GyaO\!](../Page/GYAO!.md "wikilink")・[Ustream](https://ja.wikipedia.org/wiki/Ustream "wikilink")『GLAY トークライブ』（2010年9月9日\[168\]）
-  - [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")・[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")・Ustream『「My Private "Jealousy"」発売記念 〜GLAY DIRECT TALK〜』（2011年11月17日\[169\]\[170\]）
-  - YouTube・ニコニコ生放送・Ustream『「Hope and The Silver Sunrise」発売記念 〜GLAY DIRECT TALK vol.2〜』（2011年12月15日\[171\]）
-  - YouTube・ニコニコ生放送・Ustream『「Bible」発売記念 〜GLAY DIRECT TALK vol.3〜」』（2012年5月23日\[172\]）
-  - YouTube・ニコニコ生放送・Ustream『GLAY DIRECT TALK vol.4』（2013年1月21日\[173\]）
-  - ニコニコ生放送・Ustream『GLAY EXPOプレスカンファレンス』（2014年3月25日\[174\]）
-  - ニコニコ生放送・[ツイキャス](https://ja.wikipedia.org/wiki/TwitCasting "wikilink")『AIR-G'×GLAY 北海道新幹線開業記念「ニューシングル先行試聴会」』（2015年11月19日\[175\]\[176\]）
-  - [LINE LIVE](https://ja.wikipedia.org/wiki/LINE_LIVE "wikilink")『GLAY 14th ALBUM「SUMMERDELICS」トーク&先行試聴会@新宿バルト9』（2017年7月10日\[177\]\[178\]）
-  - YouTube・LINE LIVE・ニコニコ生放送『GLAY 25周年公約発表会』（2019年5月25日\[179\]）
+  - [GyaO\!](../Page/GYAO!.md "wikilink")・[Ustream](https://ja.wikipedia.org/wiki/Ustream "wikilink")『GLAY トークライブ』（2010年9月9日\[173\]）
+  - [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")・[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")・Ustream『「My Private "Jealousy"」発売記念 〜GLAY DIRECT TALK〜』（2011年11月17日\[174\]\[175\]）
+  - YouTube・ニコニコ生放送・Ustream『「Hope and The Silver Sunrise」発売記念 〜GLAY DIRECT TALK vol.2〜』（2011年12月15日\[176\]）
+  - YouTube・ニコニコ生放送・Ustream『「Bible」発売記念 〜GLAY DIRECT TALK vol.3〜」』（2012年5月23日\[177\]）
+  - YouTube・ニコニコ生放送・Ustream『GLAY DIRECT TALK vol.4』（2013年1月21日\[178\]）
+  - ニコニコ生放送・Ustream『GLAY EXPOプレスカンファレンス』（2014年3月25日\[179\]）
+  - ニコニコ生放送・[ツイキャス](https://ja.wikipedia.org/wiki/TwitCasting "wikilink")『AIR-G'×GLAY 北海道新幹線開業記念「ニューシングル先行試聴会」』（2015年11月19日\[180\]\[181\]）
+  - [LINE LIVE](https://ja.wikipedia.org/wiki/LINE_LIVE "wikilink")『GLAY 14th ALBUM「SUMMERDELICS」トーク&先行試聴会@新宿バルト9』（2017年7月10日\[182\]\[183\]）
+  - YouTube・LINE LIVE・ニコニコ生放送『GLAY 25周年公約発表会』（2019年5月25日\[184\]）
 
 ## タイアップ曲一覧
 
@@ -2178,62 +2178,63 @@ MOTEL GLAY “THE ONE∞ ROOM”</p></td>
 | [エムティーアイ](../Page/エムティーアイ.md "wikilink")「[music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink")」CMソング                                  |                                                                                                                                                                        |                                                                                                                                      |
 | [I LOVE YOUをさがしてる](https://ja.wikipedia.org/wiki/紅と黒のMATADORA/I_LOVE_YOUをさがしてる "wikilink")                                                    | テレビ朝日ドラマ『[打撃天使ルリ](../Page/打撃天使ルリ.md "wikilink")』主題歌                                                                                                                    |                                                                                                                                      |
 | [紅と黒のMATADORA](https://ja.wikipedia.org/wiki/紅と黒のMATADORA/I_LOVE_YOUをさがしてる "wikilink")                                                        | 韓国映画『宿命』主題歌                                                                                                                                                            |                                                                                                                                      |
-| 2009年                                                                                                                                         | [春までは](https://ja.wikipedia.org/wiki/SAY_YOUR_DREAM "wikilink")                                                                                                        | [TOYOTA](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")「[トヨタ・プリウス](https://ja.wikipedia.org/wiki/トヨタ・プリウス "wikilink")」CMソング\[180\] |
-| [I am xxx](https://ja.wikipedia.org/wiki/I_am_xxx "wikilink")                                                                                 | 映画『[ラスト・ブラッド](https://ja.wikipedia.org/wiki/BLOOD_THE_LAST_VAMPIRE "wikilink")』主題歌\[181\]                                                                              |                                                                                                                                      |
+| 2009年                                                                                                                                         | [春までは](https://ja.wikipedia.org/wiki/SAY_YOUR_DREAM "wikilink")                                                                                                        | [TOYOTA](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")「[トヨタ・プリウス](https://ja.wikipedia.org/wiki/トヨタ・プリウス "wikilink")」CMソング\[185\] |
+| [I am xxx](https://ja.wikipedia.org/wiki/I_am_xxx "wikilink")                                                                                 | 映画『[ラスト・ブラッド](https://ja.wikipedia.org/wiki/BLOOD_THE_LAST_VAMPIRE "wikilink")』主題歌\[186\]                                                                              |                                                                                                                                      |
 | [laotour 〜震える拳が掴むもの〜](https://ja.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.1_〜SUPER_BEST_OF_GLAY〜 "wikilink")                                 | 日本テレビ系『[ワールドプレミアムボクシング The REAL9](../Page/ワールドプレミアムボクシング.md "wikilink")』イメージソング                                                                                        |                                                                                                                                      |
 | [Synchronicity](https://ja.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.1_〜SUPER_BEST_OF_GLAY〜 "wikilink")                                       | [バンダイナムコゲームス](../Page/バンダイナムコエンターテインメント.md "wikilink")『[マグナカルタ2](https://ja.wikipedia.org/wiki/マグナカルタ2 "wikilink")』テーマソング                                              |                                                                                                                                      |
-| [LET ME BE](https://ja.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.2_〜SUPER_BEST_OF_GLAY〜 "wikilink")                                           | 映画『イサム・カタヤマ=アルチザナル・ライフ』主題歌\[182\]                                                                                                                                      |                                                                                                                                      |
+| [LET ME BE](https://ja.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.2_〜SUPER_BEST_OF_GLAY〜 "wikilink")                                           | 映画『イサム・カタヤマ=アルチザナル・ライフ』主題歌\[187\]                                                                                                                                      |                                                                                                                                      |
 | [FAME IS DEAD](https://ja.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.2_〜SUPER_BEST_OF_GLAY〜 "wikilink")                                        | [MTV JAPAN](../Page/MTVジャパン.md "wikilink")『MTV DAM WANNASING』11月度マンスリーアーティストCMソング                                                                                      |                                                                                                                                      |
-| 2010年                                                                                                                                         | HOWEVER（[替え歌](../Page/替え歌.md "wikilink")）                                                                                                                              | [日清食品](https://ja.wikipedia.org/wiki/日清食品 "wikilink")「[カップヌードル](../Page/カップヌードル.md "wikilink")」CMソング\[183\]                          |
+| 2010年                                                                                                                                         | HOWEVER（[替え歌](../Page/替え歌.md "wikilink")）                                                                                                                              | [日清食品](https://ja.wikipedia.org/wiki/日清食品 "wikilink")「[カップヌードル](../Page/カップヌードル.md "wikilink")」CMソング\[188\]                          |
 | [Precious](https://ja.wikipedia.org/wiki/Precious_\(GLAYの曲\) "wikilink")                                                                      | 日本テレビ系『\[\[スッキリ_(テレビ番組)|スッキリ                                                                                                                                          | \]\]』2010年9月度エンディングテーマ                                                                                                               |
 | [汚れなきSEASON](https://ja.wikipedia.org/wiki/GLAY_\(アルバム\) "wikilink")                                                                          | [イオン](../Page/イオン_\(企業\).md "wikilink")「ヒートファクト」CMソング                                                                                                                  |                                                                                                                                      |
 | 2013年                                                                                                                                         | [運命論](https://ja.wikipedia.org/wiki/運命論_\(曲\) "wikilink")                                                                                                              | 日本テレビ系『スッキリ                                                                                                                          |
-| 『うたパス×au Exclusive Live』企画テーマソング\[184\]                                                                                                       |                                                                                                                                                                        |                                                                                                                                      |
+| 『うたパス×au Exclusive Live』企画テーマソング\[189\]                                                                                                       |                                                                                                                                                                        |                                                                                                                                      |
 | [真昼の月の静けさに](https://ja.wikipedia.org/wiki/JUSTICE_\(GLAYのアルバム\) "wikilink")                                                                   | 東映映画『[草原の椅子](https://ja.wikipedia.org/wiki/草原の椅子 "wikilink")』主題歌<ref>\[<http://toei.typepad.jp/sougennoisu/2012/11/20121122glay-cfe8.html> 主題歌がGLAYに決定                 |                                                                                                                                      |
-| [DARK RIVER](https://ja.wikipedia.org/wiki/DARK_RIVER/Eternally/時計 "wikilink")                                                                | NHK総合テレビドラマ『[激流〜私を憶えていますか?〜](https://ja.wikipedia.org/wiki/激流_\(柴田よしき\) "wikilink")』主題歌\[185\]                                                                         |                                                                                                                                      |
-| [時計](https://ja.wikipedia.org/wiki/DARK_RIVER/Eternally/時計 "wikilink")                                                                        | NHK総合テレビドラマ『激流〜私を憶えていますか?〜』挿入歌\[186\]                                                                                                                                  |                                                                                                                                      |
-| [Eternally](https://ja.wikipedia.org/wiki/Eternally_\(GLAYの曲\) "wikilink")                                                                    | [メナード化粧品](../Page/日本メナード化粧品.md "wikilink")「イルネージュ」CMソング\[187\]                                                                                                         |                                                                                                                                      |
-| [虹のポケット](https://ja.wikipedia.org/wiki/DIAMOND_SKIN/虹のポケット/CRAZY_DANCE "wikilink")                                                            | [横浜ゴム](../Page/横浜ゴム.md "wikilink")「アイスガード ファイブ/iceGUARD 5」CMソング\[188\]                                                                                                 |                                                                                                                                      |
-| [DIAMOND SKIN](https://ja.wikipedia.org/wiki/DIAMOND_SKIN/虹のポケット/CRAZY_DANCE "wikilink")                                                      | [カプコン](../Page/カプコン.md "wikilink")ゲームアプリ『[CROSS×BEATS](https://ja.wikipedia.org/wiki/CROSS×BEATS "wikilink")』提供曲\[189\]                                                |                                                                                                                                      |
+| [DARK RIVER](https://ja.wikipedia.org/wiki/DARK_RIVER/Eternally/時計 "wikilink")                                                                | NHK総合テレビドラマ『[激流〜私を憶えていますか?〜](https://ja.wikipedia.org/wiki/激流_\(柴田よしき\) "wikilink")』主題歌\[190\]                                                                         |                                                                                                                                      |
+| [時計](https://ja.wikipedia.org/wiki/DARK_RIVER/Eternally/時計 "wikilink")                                                                        | NHK総合テレビドラマ『激流〜私を憶えていますか?〜』挿入歌\[191\]                                                                                                                                  |                                                                                                                                      |
+| [Eternally](https://ja.wikipedia.org/wiki/Eternally_\(GLAYの曲\) "wikilink")                                                                    | [メナード化粧品](../Page/日本メナード化粧品.md "wikilink")「イルネージュ」CMソング\[192\]                                                                                                         |                                                                                                                                      |
+| [虹のポケット](https://ja.wikipedia.org/wiki/DIAMOND_SKIN/虹のポケット/CRAZY_DANCE "wikilink")                                                            | [横浜ゴム](../Page/横浜ゴム.md "wikilink")「アイスガード ファイブ/iceGUARD 5」CMソング\[193\]                                                                                                 |                                                                                                                                      |
+| [DIAMOND SKIN](https://ja.wikipedia.org/wiki/DIAMOND_SKIN/虹のポケット/CRAZY_DANCE "wikilink")                                                      | [カプコン](../Page/カプコン.md "wikilink")ゲームアプリ『[CROSS×BEATS](https://ja.wikipedia.org/wiki/CROSS×BEATS "wikilink")』提供曲\[194\]                                                |                                                                                                                                      |
 | テレビ朝日系『[お願い\!ランキング](https://ja.wikipedia.org/wiki/お願い!ランキング "wikilink")』2013年12月度エンディングテーマ                                                    |                                                                                                                                                                        |                                                                                                                                      |
-| 2014年                                                                                                                                         | [BLEEZE](https://ja.wikipedia.org/wiki/BLEEZE_〜G4・III〜 "wikilink")                                                                                                     | [アイシティ](../Page/HOYA.md "wikilink")「夏をアイしてキャンペーン！」CMソング\[190\]                                                                       |
+| 2014年                                                                                                                                         | [BLEEZE](https://ja.wikipedia.org/wiki/BLEEZE_〜G4・III〜 "wikilink")                                                                                                     | [アイシティ](../Page/HOYA.md "wikilink")「夏をアイしてキャンペーン！」CMソング\[195\]                                                                       |
 | [YOU](https://ja.wikipedia.org/wiki/BLEEZE_〜G4・III〜 "wikilink")                                                                               | [Dlife](https://ja.wikipedia.org/wiki/Dlife "wikilink")『[よみがえり 〜レザレクション〜](https://ja.wikipedia.org/wiki/よみがえり_〜レザレクション〜 "wikilink")』エンディングテーマ                          |                                                                                                                                      |
-| [疾走れ！ミライ](https://ja.wikipedia.org/wiki/百花繚乱/疾走れ!ミライ "wikilink")                                                                              | テレビ東京系アニメ『[ダイヤのA](../Page/ダイヤのA.md "wikilink")』オープニングテーマ\[191\]                                                                                                        |                                                                                                                                      |
+| [疾走れ！ミライ](https://ja.wikipedia.org/wiki/百花繚乱/疾走れ!ミライ "wikilink")                                                                              | テレビ東京系アニメ『[ダイヤのA](../Page/ダイヤのA.md "wikilink")』オープニングテーマ\[196\]                                                                                                        |                                                                                                                                      |
 | [百花繚乱](https://ja.wikipedia.org/wiki/百花繚乱/疾走れ!ミライ "wikilink")                                                                                 | テレビ東京系『[ヨソで言わんとい亭〜ココだけの話が聞ける（秘）料亭〜](https://ja.wikipedia.org/wiki/ヨソで言わんとい亭〜ココだけの話が聞ける（秘）料亭〜 "wikilink")』エンディングテーマ                                                     |                                                                                                                                      |
 | [KBCテレビ](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")『V3』11月度オープニングテーマ                                                                    |                                                                                                                                                                        |                                                                                                                                      |
 | [MUSIC LIFE](https://ja.wikipedia.org/wiki/MUSIC_LIFE_\(GLAYのアルバム\) "wikilink")                                                               | [北海道テレビ](../Page/北海道テレビ放送.md "wikilink")『[ハナタレナックス](../Page/ハナタレナックス.md "wikilink")』オープニングテーマ                                                                          |                                                                                                                                      |
 | [さくらびと](https://ja.wikipedia.org/wiki/MUSIC_LIFE_\(GLAYのアルバム\) "wikilink")                                                                    | [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・日本テレビ系『[情報ライブ ミヤネ屋](../Page/情報ライブ_ミヤネ屋.md "wikilink")』エンディングテーマ                                                                 |                                                                                                                                      |
-| 2015年                                                                                                                                         | [HEROES](https://ja.wikipedia.org/wiki/HEROES/微熱\(A\)girlサマー/つづれ織り〜so_far_and_yet_so_close〜 "wikilink")                                                                | テレビ東京系アニメ『ダイヤのA』オープニングテーマ\[192\]                                                                                                     |
-| [テレビ神奈川](../Page/テレビ神奈川.md "wikilink")『[第97回全国高等学校野球選手権神奈川大会](../Page/全国高等学校野球選手権神奈川大会.md "wikilink")』中継テーマソング\[193\]                         |                                                                                                                                                                        |                                                                                                                                      |
-| [微熱Ⓐgirlサマー](https://ja.wikipedia.org/wiki/HEROES/微熱\(A\)girlサマー/つづれ織り〜so_far_and_yet_so_close〜 "wikilink")                                   | アイシティ「夏のキャンペーン」CMソング\[194\]                                                                                                                                            |                                                                                                                                      |
-| [空が青空であるために](https://ja.wikipedia.org/wiki/G4・IV "wikilink")                                                                                  | テレビ東京系アニメ『[ダイヤのA -SECOND SEASON-](../Page/ダイヤのA.md "wikilink")』オープニングテーマ\[195\]                                                                                        |                                                                                                                                      |
-| [Supernova Express 2016](https://ja.wikipedia.org/wiki/G4・IV "wikilink")                                                                      | [北海道新幹線](https://ja.wikipedia.org/wiki/北海道新幹線 "wikilink")開業イメージソング\[196\]                                                                                              |                                                                                                                                      |
+| 2015年                                                                                                                                         | [HEROES](https://ja.wikipedia.org/wiki/HEROES/微熱\(A\)girlサマー/つづれ織り〜so_far_and_yet_so_close〜 "wikilink")                                                                | テレビ東京系アニメ『ダイヤのA』オープニングテーマ\[197\]                                                                                                     |
+| [テレビ神奈川](../Page/テレビ神奈川.md "wikilink")『[第97回全国高等学校野球選手権神奈川大会](../Page/全国高等学校野球選手権神奈川大会.md "wikilink")』中継テーマソング\[198\]                         |                                                                                                                                                                        |                                                                                                                                      |
+| [微熱Ⓐgirlサマー](https://ja.wikipedia.org/wiki/HEROES/微熱\(A\)girlサマー/つづれ織り〜so_far_and_yet_so_close〜 "wikilink")                                   | アイシティ「夏のキャンペーン」CMソング\[199\]                                                                                                                                            |                                                                                                                                      |
+| [空が青空であるために](https://ja.wikipedia.org/wiki/G4・IV "wikilink")                                                                                  | テレビ東京系アニメ『[ダイヤのA -SECOND SEASON-](../Page/ダイヤのA.md "wikilink")』オープニングテーマ\[200\]                                                                                        |                                                                                                                                      |
+| [Supernova Express 2016](https://ja.wikipedia.org/wiki/G4・IV "wikilink")                                                                      | [北海道新幹線](https://ja.wikipedia.org/wiki/北海道新幹線 "wikilink")開業イメージソング\[201\]                                                                                              |                                                                                                                                      |
 | 2016年                                                                                                                                         |                                                                                                                                                                        |                                                                                                                                      |
-| [Scoop](https://ja.wikipedia.org/wiki/G4・IV "wikilink")                                                                                       | テレビ朝日系『お願い\!ランキング』1月度エンディングテーマ\[197\]                                                                                                                                  |                                                                                                                                      |
-| [彼女はゾンビ](https://ja.wikipedia.org/wiki/G4・IV "wikilink")                                                                                      | TBS系『[王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")』2月・3月度エンディングテーマ\[198\]                                                                                |                                                                                                                                      |
-| [デストピア](https://ja.wikipedia.org/wiki/［DEATHTOPIA］ "wikilink")                                                                                | テレビアニメ『[クロムクロ](https://ja.wikipedia.org/wiki/クロムクロ "wikilink")』オープニングテーマ\[199\]                                                                                        |                                                                                                                                      |
+| [Scoop](https://ja.wikipedia.org/wiki/G4・IV "wikilink")                                                                                       | テレビ朝日系『お願い\!ランキング』1月度エンディングテーマ\[202\]                                                                                                                                  |                                                                                                                                      |
+| [彼女はゾンビ](https://ja.wikipedia.org/wiki/G4・IV "wikilink")                                                                                      | TBS系『[王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")』2月・3月度エンディングテーマ\[203\]                                                                                |                                                                                                                                      |
+| [デストピア](https://ja.wikipedia.org/wiki/［DEATHTOPIA］ "wikilink")                                                                                | テレビアニメ『[クロムクロ](https://ja.wikipedia.org/wiki/クロムクロ "wikilink")』オープニングテーマ\[204\]                                                                                        |                                                                                                                                      |
 | [超音速デスティニー](https://ja.wikipedia.org/wiki/［DEATHTOPIA］ "wikilink")                                                                            | テレビアニメ『クロムクロ』オープニングテーマ                                                                                                                                                 |                                                                                                                                      |
 | [AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")『[AbemaPrime](https://ja.wikipedia.org/wiki/AbemaPrime "wikilink")』エンディングテーマ       |                                                                                                                                                                        |                                                                                                                                      |
-| 2017年                                                                                                                                         | [XYZ](https://ja.wikipedia.org/wiki/SUMMERDELICS "wikilink")                                                                                                           | 『[Red Bull Air Race Chiba 2017](https://ja.wikipedia.org/wiki/2017年レッドブル・エアレース・ワールドシリーズ_千葉 "wikilink")』テーマソング\[200\]                 |
-| [the other end of the globe](https://ja.wikipedia.org/wiki/SUMMERDELICS "wikilink")                                                           | [MBS](../Page/毎日放送.md "wikilink")・TBS系ドラマ『[ファイナルファンタジーXIV 光のお父さん](https://ja.wikipedia.org/wiki/ファイナルファンタジーXIV_光のお父さん "wikilink")』主題歌\[201\]                           |                                                                                                                                      |
-| [ロングラン](https://ja.wikipedia.org/wiki/SUMMERDELICS "wikilink")                                                                                | 『[北海道マラソン](../Page/北海道マラソン.md "wikilink")2017』オフィシャルソング\[202\]                                                                                                         |                                                                                                                                      |
-| [シン・ゾンビ](https://ja.wikipedia.org/wiki/SUMMERDELICS "wikilink")                                                                               | [バンダイナムコアミューズメント](../Page/バンダイナムコアミューズメント.md "wikilink")『[太鼓の達人](../Page/太鼓の達人.md "wikilink")』コラボレーションソング\[203\]                                                       |                                                                                                                                      |
+| 2017年                                                                                                                                         | [XYZ](https://ja.wikipedia.org/wiki/SUMMERDELICS "wikilink")                                                                                                           | 『[Red Bull Air Race Chiba 2017](https://ja.wikipedia.org/wiki/2017年レッドブル・エアレース・ワールドシリーズ_千葉 "wikilink")』テーマソング\[205\]                 |
+| [the other end of the globe](https://ja.wikipedia.org/wiki/SUMMERDELICS "wikilink")                                                           | [MBS](../Page/毎日放送.md "wikilink")・TBS系ドラマ『[ファイナルファンタジーXIV 光のお父さん](https://ja.wikipedia.org/wiki/ファイナルファンタジーXIV_光のお父さん "wikilink")』主題歌\[206\]                           |                                                                                                                                      |
+| [ロングラン](https://ja.wikipedia.org/wiki/SUMMERDELICS "wikilink")                                                                                | 『[北海道マラソン](../Page/北海道マラソン.md "wikilink")2017』オフィシャルソング\[207\]                                                                                                         |                                                                                                                                      |
+| [シン・ゾンビ](https://ja.wikipedia.org/wiki/SUMMERDELICS "wikilink")                                                                               | [バンダイナムコアミューズメント](../Page/バンダイナムコアミューズメント.md "wikilink")『[太鼓の達人](../Page/太鼓の達人.md "wikilink")』コラボレーションソング\[208\]                                                       |                                                                                                                                      |
 | [SUMMERDELICS](https://ja.wikipedia.org/wiki/SUMMERDELICS "wikilink")                                                                         | TBS系『王様のブランチ』2017年7月度エンディングテーマ                                                                                                                                         |                                                                                                                                      |
-| [聖者のいない町](https://ja.wikipedia.org/wiki/SUMMERDELICS "wikilink")                                                                              | Dlife『[MACGYVER/マクガイバー](https://ja.wikipedia.org/wiki/MACGYVER/マクガイバー "wikilink")』エンディングテーマ\[204\]                                                                     |                                                                                                                                      |
-| [あなたといきてゆく](https://ja.wikipedia.org/wiki/WINTERDELICS.EP〜あなたといきてゆく〜 "wikilink")                                                              | テレビ東京系ドラマ『[ユニバーサル広告社〜あなたの人生、売り込みます\!〜](https://ja.wikipedia.org/wiki/ユニバーサル広告社シリーズ#テレビドラマ "wikilink")』主題歌\[205\]                                                       |                                                                                                                                      |
-| 2018年                                                                                                                                         | 疾走れ！ミライ（スペシャルバージョン）                                                                                                                                                    | 「[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")誕生15thプロジェクト」オフィシャルテーマソング\[206\]                                                |
+| [聖者のいない町](https://ja.wikipedia.org/wiki/SUMMERDELICS "wikilink")                                                                              | Dlife『[MACGYVER/マクガイバー](https://ja.wikipedia.org/wiki/MACGYVER/マクガイバー "wikilink")』エンディングテーマ\[209\]                                                                     |                                                                                                                                      |
+| [あなたといきてゆく](https://ja.wikipedia.org/wiki/WINTERDELICS.EP〜あなたといきてゆく〜 "wikilink")                                                              | テレビ東京系ドラマ『[ユニバーサル広告社〜あなたの人生、売り込みます\!〜](https://ja.wikipedia.org/wiki/ユニバーサル広告社シリーズ#テレビドラマ "wikilink")』主題歌\[210\]                                                       |                                                                                                                                      |
+| 2018年                                                                                                                                         | 疾走れ！ミライ（スペシャルバージョン）                                                                                                                                                    | 「[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")誕生15thプロジェクト」オフィシャルテーマソング\[211\]                                                |
 | XYZ                                                                                                                                           | 『[Red Bull Air Race Chiba 2018](https://ja.wikipedia.org/wiki/2018年レッドブル・エアレース・ワールドシリーズ_千葉 "wikilink")』テーマソング                                                          |                                                                                                                                      |
 | ロングラン                                                                                                                                         | 『[北海道マラソン](../Page/北海道マラソン.md "wikilink")2018』オフィシャルソング                                                                                                                |                                                                                                                                      |
-| [YOUR SONG](https://ja.wikipedia.org/wiki/愁いのPrisoner/YOUR_SONG "wikilink")                                                                   | [スペシャルオリンピックス日本](https://ja.wikipedia.org/wiki/スペシャルオリンピックス日本 "wikilink")公式応援ソング\[207\]                                                                                |                                                                                                                                      |
-| [愁いのPrisoner](https://ja.wikipedia.org/wiki/愁いのPrisoner/YOUR_SONG "wikilink")                                                                 | [セブン-イレブン](../Page/セブン-イレブン.md "wikilink")タイアップソング\[208\]                                                                                                              |                                                                                                                                      |
-| 2019年                                                                                                                                         | [はじまりのうた](https://ja.wikipedia.org/wiki/G4・V-Democracy_2019- "wikilink")                                                                                               | テレビ東京系アニメ『[ダイヤのA actII](../Page/ダイヤのA.md "wikilink")』オープニングテーマ\[209\]                                                                |
-| [COLORS](https://ja.wikipedia.org/wiki/G4・V-Democracy_2019- "wikilink")                                                                       | [ギャガ](../Page/ギャガ.md "wikilink")映画『[劇場版 ファイナルファンタジーXIV 光のお父さん](https://ja.wikipedia.org/wiki/ファイナルファンタジーXIV_光のお父さん "wikilink")』主題歌\[210\]                              |                                                                                                                                      |
+| [YOUR SONG](https://ja.wikipedia.org/wiki/愁いのPrisoner/YOUR_SONG "wikilink")                                                                   | [スペシャルオリンピックス日本](https://ja.wikipedia.org/wiki/スペシャルオリンピックス日本 "wikilink")公式応援ソング\[212\]                                                                                |                                                                                                                                      |
+| [愁いのPrisoner](https://ja.wikipedia.org/wiki/愁いのPrisoner/YOUR_SONG "wikilink")                                                                 | [セブン-イレブン](../Page/セブン-イレブン.md "wikilink")タイアップソング\[213\]                                                                                                              |                                                                                                                                      |
+| 2019年                                                                                                                                         | [はじまりのうた](https://ja.wikipedia.org/wiki/G4・V-Democracy_2019- "wikilink")                                                                                               | テレビ東京系アニメ『[ダイヤのA actII](../Page/ダイヤのA.md "wikilink")』オープニングテーマ\[214\]                                                                |
+| [COLORS](https://ja.wikipedia.org/wiki/G4・V-Democracy_2019- "wikilink")                                                                       | [ギャガ](../Page/ギャガ.md "wikilink")映画『[劇場版 ファイナルファンタジーXIV 光のお父さん](https://ja.wikipedia.org/wiki/ファイナルファンタジーXIV_光のお父さん "wikilink")』主題歌\[215\]                              |                                                                                                                                      |
 | [YOUR SONG feat. MISIA](https://ja.wikipedia.org/wiki/G4・V-Democracy_2019- "wikilink")                                                        | スペシャルオリンピックス日本公式応援ソング                                                                                                                                                  |                                                                                                                                      |
-| [Into the Wild](../Page/REVIEW_II_-BEST_OF_GLAY-.md "wikilink")                                                                               | [SUBARU](../Page/SUBARU.md "wikilink")「[レヴォーグ](https://ja.wikipedia.org/wiki/スバル・レヴォーグ "wikilink")」CMソング\[211\]                                                        |                                                                                                                                      |
-| [JUST FINE](https://ja.wikipedia.org/wiki/G4・V-Democracy_2019- "wikilink")                                                                    | セブン-イレブンフェア タイアップソング\[212\]                                                                                                                                            |                                                                                                                                      |
-| [氷の翼](https://ja.wikipedia.org/wiki/NO_DEMOCRACY "wikilink")                                                                                  | 日中合作映画『[オーバー・エベレスト 陰謀の氷壁](https://ja.wikipedia.org/wiki/オーバー・エベレスト_陰謀の氷壁 "wikilink")』日本語吹替版主題歌\[213\]                                                                  |                                                                                                                                      |
-| 流星のHowl                                                                                                                                       | テレビ東京系アニメ『[ダイヤのA actII](../Page/ダイヤのA.md "wikilink")』オープニングテーマ\[214\]                                                                                                  |                                                                                                                                      |
+| [Into the Wild](../Page/REVIEW_II_-BEST_OF_GLAY-.md "wikilink")                                                                               | [SUBARU](../Page/SUBARU.md "wikilink")「[レヴォーグ](https://ja.wikipedia.org/wiki/スバル・レヴォーグ "wikilink")」CMソング\[216\]                                                        |                                                                                                                                      |
+| [JUST FINE](https://ja.wikipedia.org/wiki/G4・V-Democracy_2019- "wikilink")                                                                    | セブン-イレブンフェア タイアップソング\[217\]                                                                                                                                            |                                                                                                                                      |
+| [氷の翼](https://ja.wikipedia.org/wiki/NO_DEMOCRACY "wikilink")                                                                                  | 日中合作映画『[オーバー・エベレスト 陰謀の氷壁](https://ja.wikipedia.org/wiki/オーバー・エベレスト_陰謀の氷壁 "wikilink")』日本語吹替版主題歌\[218\]                                                                  |                                                                                                                                      |
+| [流星のHowl](../Page/G4・2020.md "wikilink")                                                                                                      | テレビ東京系アニメ『[ダイヤのA actII](../Page/ダイヤのA.md "wikilink")』オープニングテーマ\[219\]                                                                                                  |                                                                                                                                      |
 | 2020年                                                                                                                                         | Into the Wild                                                                                                                                                          | SUBARU「レヴォーグ」CMソング                                                                                                                   |
+| 流星のHowl                                                                                                                                       | [AIRDO](../Page/AIRDO.md "wikilink")×[石屋製菓](../Page/石屋製菓.md "wikilink")「BE ONE HOKKAIDO 心を一つに、北海道へ応援メッセージを」公式応援ソング\[220\]                                              |                                                                                                                                      |
 
 ## 脚注
 
@@ -2380,11 +2381,11 @@ MOTEL GLAY “THE ONE∞ ROOM”</p></td>
 122.
 123. [GLAYから大切なお知らせ](https://www.youtube.com/watch?v=MVgM0sDgzOQ&feature=emb_title)(YouTube)
 124.
-125.
+125. [TE_RUR_ET 2020年6月19日のツイート](https://twitter.com/TE_RUR_ET/status/1273848350509391872)
 126.
 127.
 128.
-129.
+129. 演奏曲は「カナリヤ」「とまどい」の2曲。
 130.
 131.
 132.
@@ -2439,12 +2440,12 @@ MOTEL GLAY “THE ONE∞ ROOM”</p></td>
 181.
 182.
 183.
-184.  - アルバム解説の欄に、タイアップ決定の説明が掲載
+184.
 185.
 186.
 187.
 188.
-189.
+189.  - アルバム解説の欄に、タイアップ決定の説明が掲載
 190.
 191.
 192.
@@ -2470,3 +2471,9 @@ MOTEL GLAY “THE ONE∞ ROOM”</p></td>
 212.
 213.
 214.
+215.
+216.
+217.
+218.
+219.
+220.

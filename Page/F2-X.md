@@ -108,7 +108,7 @@
   - 編集協力:[WELT](../Page/スタジオヴェルト.md "wikilink")
   - 制作協力:[FCC](../Page/フジクリエイティブコーポレーション.md "wikilink")、[共同テレビジョン](../Page/共同テレビジョン.md "wikilink")
   - ディレクター:大角肇、鈴木道正他
-  - PD：竹内康人　
+  - PD：竹内康人
   - プロデューサー:[門澤清太](https://ja.wikipedia.org/wiki/門澤清太 "wikilink")、珠光令子
   - チーフプロデューサー:[原田冬彦](https://ja.wikipedia.org/wiki/原田冬彦 "wikilink")
 

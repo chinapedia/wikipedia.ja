@@ -1,11 +1,11 @@
 > この記事は[MTSAT](https://ja.wikipedia.org/wiki/MTSAT)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:MTSAT-1.jpg "wikilink") **MTSAT**（**エムティーサット**）は、**運輸多目的衛星**（**M**ulti-functional **T**ransport **Sat**ellite）の英語略称で、[国土交通省](../Page/国土交通省.md "wikilink")[航空局](../Page/航空局.md "wikilink")(CAB/MLIT)及び[気象庁](../Page/気象庁.md "wikilink")(JMA)が共同開発し、[宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink")(NASDA)及び[宇宙航空研究開発機構](../Page/宇宙航空研究開発機構.md "wikilink")(JAXA)が打ち上げた大型の[静止衛星](../Page/静止衛星.md "wikilink")である。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:MTSAT-1.jpg "wikilink") **MTSAT**（エムティーサット）は、**運輸多目的衛星** (**M**ulti-functional **T**ransport **Sat**ellite) の英語略称で、[国土交通省](../Page/国土交通省.md "wikilink")[航空局](../Page/航空局.md "wikilink") (CAB/MLIT) 及び[気象庁](../Page/気象庁.md "wikilink") (JMA) が共同開発し、[宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink") (NASDA) 及び[宇宙航空研究開発機構](../Page/宇宙航空研究開発機構.md "wikilink") (JAXA) が打ち上げた大型の[静止衛星](../Page/静止衛星.md "wikilink")である。
 
 ## 運輸多目的衛星1号
 
-**運輸多目的衛星1号**（**MTSAT-1**）は、老朽化した[ひまわり5号](../Page/ひまわり5号.md "wikilink")・GMS-5の後継衛星としての気象観測機能以外に、衛星通信を利用した航空保安システムなどを搭載している。これは、気象庁が[気象衛星](../Page/気象衛星.md "wikilink")のための予算を単独で捻出するのが困難であったため、同じ[運輸省](../Page/運輸省.md "wikilink")（現国土交通省）の航空局が[空港整備特別会計](../Page/空港整備特別会計.md "wikilink")を使って計画していた[航空管制](https://ja.wikipedia.org/wiki/航空管制 "wikilink")衛星に相乗りしたものである。このため、かなり巨大な衛星となった。米スペースシステム・ロラール社に発注して製造、完成品が輸入された。
+**運輸多目的衛星1号**（**MTSAT-1**）は、老朽化した[ひまわり5号](../Page/ひまわり5号.md "wikilink")・GMS-5の後継衛星としての気象観測機能以外に、衛星通信を利用した航空保安システムなどを搭載している。これは、気象庁が[気象衛星](../Page/気象衛星.md "wikilink")のための予算を単独で捻出するのが困難であったため、同じ[運輸省](../Page/運輸省.md "wikilink")（現国土交通省）の航空局が[空港整備特別会計](../Page/空港整備特別会計.md "wikilink")を使って計画していた[航空管制](https://ja.wikipedia.org/wiki/航空管制 "wikilink")衛星に相乗りしたものである。このため、かなり巨大な衛星となった。米[スペースシステムズ/ロラール](https://ja.wikipedia.org/wiki/スペースシステムズ/ロラール "wikilink")社に発注して製造、完成品が輸入された。
 
 [1999年](../Page/1999年.md "wikilink")（平成11年）11月に[H-IIロケット8号機](../Page/H-IIロケット8号機.md "wikilink")で打上げたが、第1段エンジンに故障が発生したため、地上からの指令によりロケットは破壊され、その残骸と、ペイロードであった本機も海中に没した。公募により「**みらい**」と言う愛称が選ばれていたが、使用されずに終わった\[1\]。
 

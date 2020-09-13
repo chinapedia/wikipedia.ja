@@ -42,7 +42,7 @@
 <tr class="odd">
 <td><p><a href="../Page/NHK徳島放送局.md" title="wikilink">NHK総合(徳島)</a></p></td>
 <td><p>NHKEテレ(徳島)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a></p></td>
+<td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a></p></td>
 <td><p><a href="../Page/朝日放送テレビ.md" title="wikilink">朝日放送テレビ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/MBSテレビ" title="wikilink">毎日放送</a></p></td>
 <td><p><a href="../Page/テレビ大阪.md" title="wikilink">テレビ大阪</a></p></td>
@@ -65,7 +65,7 @@
 <tbody>
 <tr class="odd">
 <td><p>TV011</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a></p></td>
+<td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a></p></td>
 </tr>
 <tr class="even">
 <td><p>TV021</p></td>

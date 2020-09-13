@@ -43,5 +43,6 @@
   - [JR貨物ED500形電気機関車](../Page/JR貨物ED500形電気機関車.md "wikilink")
   - [JR貨物EF510形電気機関車](../Page/JR貨物EF510形電気機関車.md "wikilink")
   - [JR貨物EH500形電気機関車](../Page/JR貨物EH500形電気機関車.md "wikilink")
+  - [国鉄DE50形ディーゼル機関車](../Page/国鉄DE50形ディーゼル機関車.md "wikilink") - 本形式と同じく1両だけの製造に終わった。
 
 [Category:日本貨物鉄道の電気機関車](https://ja.wikipedia.org/wiki/Category:日本貨物鉄道の電気機関車 "wikilink") [Category:川崎重工業製の電気機関車](https://ja.wikipedia.org/wiki/Category:川崎重工業製の電気機関車 "wikilink") [Category:1990年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1990年製の鉄道車両 "wikilink") [Category:試作車_(鉄道)](https://ja.wikipedia.org/wiki/Category:試作車_\(鉄道\) "wikilink") [Category:中止](https://ja.wikipedia.org/wiki/Category:中止 "wikilink")

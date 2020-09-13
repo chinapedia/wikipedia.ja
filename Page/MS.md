@@ -20,20 +20,20 @@
 
   - [マイクロソフト](../Page/マイクロソフト.md "wikilink") (**M**icro**s**oft)
   - [ソニー](../Page/ソニー.md "wikilink")製記録媒体・[メモリースティック](../Page/メモリースティック.md "wikilink") (Memory Stick)
-  - ミリ[秒](../Page/秒.md "wikilink") (**ms**:10<sup>-3</sup>sec)
+  - [ミリ秒](https://ja.wikipedia.org/wiki/ミリ秒 "wikilink") (**ms**:10<sup>-3</sup>sec)
   - [ミズ](https://ja.wikipedia.org/wiki/ミズ_\(敬称\) "wikilink") (**Ms.**) - 女性の英語における敬称。未婚者（Miss）と既婚者（Mrs.）を区別しない場合に使われる。
-  - [掃海艇](../Page/掃海艇.md "wikilink")（英語:*Mine Sweeper*）
+  - [掃海艇](../Page/掃海艇.md "wikilink")（）
   - かつて[日本電気](../Page/日本電気.md "wikilink")(NEC)が製造していた[ミニコンピュータ](../Page/ミニコンピュータ.md "wikilink")のシリーズ名。MSシリーズ。
-  - [質量分析法](../Page/質量分析法.md "wikilink")（英語:*Mass Spectrometry*）
+  - [質量分析法](../Page/質量分析法.md "wikilink")（）
   - 病名
-      - [メタボリックシンドローム](../Page/メタボリックシンドローム.md "wikilink")
-      - [ミオクロニー発作](https://ja.wikipedia.org/wiki/ミオクロニー発作 "wikilink")(英語:*Myoclonic seizures*)
-      - [多発性硬化症](../Page/多発性硬化症.md "wikilink")(英語:*multiple sclerosis*)
-      - [僧帽弁狭窄症](../Page/心臓弁膜症.md "wikilink")（英語:*mitral stenosis*）
-  - [理学修士](https://ja.wikipedia.org/wiki/理学修士 "wikilink")（英語:*Master of science*）
+      - [メタボリックシンドローム](../Page/メタボリックシンドローム.md "wikilink")（）
+      - [ミオクロニー発作](https://ja.wikipedia.org/wiki/ミオクロニー発作 "wikilink")（）
+      - [多発性硬化症](../Page/多発性硬化症.md "wikilink")（）
+      - [僧帽弁狭窄症](../Page/心臓弁膜症.md "wikilink")（）
+  - [理学修士](https://ja.wikipedia.org/wiki/理学修士 "wikilink")（）
   - [モビルスーツ](../Page/モビルスーツ.md "wikilink") (MOBILE SUIT: MS) - [ガンダムシリーズ](https://ja.wikipedia.org/wiki/ガンダムシリーズ "wikilink")に登場する架空の機動兵器。
   - [ミステリーショッパー](https://ja.wikipedia.org/wiki/ミステリーショッパー "wikilink")。店舗の偵察モニターのこと。
-  - [モルガン・スタンレー](../Page/モルガン・スタンレー.md "wikilink")(Morgan Stanley)、または同社の[ティッカーシンボル](../Page/ティッカーシンボル.md "wikilink")([NYSE](../Page/ニューヨーク証券取引所.md "wikilink")：[MS](http://www.nyse.com/about/listed/lcddata.html?ticker=MS))。
+  - [モルガン・スタンレー](../Page/モルガン・スタンレー.md "wikilink") (Morgan Stanley)、または同社の[ティッカーシンボル](../Page/ティッカーシンボル.md "wikilink")([NYSE](../Page/ニューヨーク証券取引所.md "wikilink")：[MS](http://www.nyse.com/about/listed/lcddata.html?ticker=MS))。
   - [電磁開閉器](../Page/電磁開閉器.md "wikilink")（マグネット・スイッチ、英語ではElectromagnetic Switchと表記し頭文字は一致しない）
   - [マラ・サルバトルチャ](../Page/マラ・サルバトルチャ.md "wikilink") (Mara Salvatrucha)。中央アメリカの犯罪組織の略称。
   - マーケティング・スペシャリスト。医薬品卸売会社の営業担当者のこと。 (Marketing Specialist)

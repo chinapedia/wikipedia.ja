@@ -53,7 +53,7 @@ __NOTOC__
       - [ディスラプティブ技術](https://ja.wikipedia.org/wiki/ディスラプティブ技術 "wikilink")
       - [電子データ交換](../Page/電子データ交換.md "wikilink") ([EDI](https://ja.wikipedia.org/wiki/EDI "wikilink"))
       - [コンピュータセキュリティ](../Page/コンピュータセキュリティ.md "wikilink")
-          - [Secure Sockets Layer](https://ja.wikipedia.org/wiki/Secure_Sockets_Layer "wikilink") ([SSL](https://ja.wikipedia.org/wiki/SSL "wikilink"))
+          - [Secure Sockets Layer](https://ja.wikipedia.org/wiki/Secure_Sockets_Layer "wikilink") (SSL)
           - [公開鍵証明書](../Page/公開鍵証明書.md "wikilink")
       - [ウェブコンテンツ管理](../Page/コンテンツ管理システム.md "wikilink")
       - [w:E-Services](https://ja.wikipedia.org/wiki/w:E-Services "wikilink") [E-サービス](https://ja.wikipedia.org/wiki/E-サービス "wikilink")

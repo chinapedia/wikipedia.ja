@@ -20,7 +20,7 @@ ReO<sub>3</sub> は[酸化レニウム(VII)](https://ja.wikipedia.org/wiki/酸�
   -
     <chem>Re2O7 + CO -\> 2ReO3 + CO2</chem>
 
-## 出典
+## 脚注
 
 [Category:酸化物](https://ja.wikipedia.org/wiki/Category:酸化物 "wikilink") [Category:レニウムの化合物](https://ja.wikipedia.org/wiki/Category:レニウムの化合物 "wikilink")
 

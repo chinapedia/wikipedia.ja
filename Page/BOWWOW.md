@@ -3,7 +3,7 @@
 
 **BOWWOW**（バウワウ）は、日本の[ハードロック](../Page/ハードロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。また、英語表記での犬の鳴き声。以下解説はバンドに関する事項とする。
 
-1976年に上野義美が名付けた**BOW WOW**（バウワウ）の名前でデビュー。1983年にギター兼ヴォーカルの[斉藤光浩](https://ja.wikipedia.org/wiki/斉藤光浩 "wikilink")が脱退するまでオリジナルメンバー4人で活動を続けた。
+1976年に[上野義美](https://ja.wikipedia.org/wiki/上野義美 "wikilink")が名付けた**BOW WOW**（バウワウ）の名前でデビュー。1983年にギター兼ヴォーカルの[斉藤光浩](https://ja.wikipedia.org/wiki/斉藤光浩 "wikilink")が脱退するまでオリジナルメンバー4人で活動を続けた。
 
 新たにキーボードの[厚見玲衣](https://ja.wikipedia.org/wiki/厚見玲衣 "wikilink")とヴォーカルの[人見元基](../Page/人見元基.md "wikilink")を加えて5人編成となり、1984年にバンド名を**VOW WOW**（ヴァウワウ）に変えた。その後ベーシストの交代が二度あり[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に解散した。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")からBOW WOWとして再結成、現在は**BOWWOW**と名乗って活動している。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")にVOW WOWとしても再結成ライブが二夜限りで披露された。
 

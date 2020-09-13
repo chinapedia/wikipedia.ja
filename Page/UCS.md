@@ -35,7 +35,7 @@
 
   - 関東営業所（[横浜市](../Page/横浜市.md "wikilink")[神奈川区](https://ja.wikipedia.org/wiki/神奈川区 "wikilink")）
   - 静岡営業所・静岡保険センター（[静岡市](../Page/静岡市.md "wikilink")[駿河区](../Page/駿河区.md "wikilink")）
-  - 北陸営業所・北陸保険センター（[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")[金沢市](https://ja.wikipedia.org/wiki/金沢市 "wikilink")）
+  - 北陸営業所・北陸保険センター（[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")[白山市](../Page/白山市.md "wikilink")）
 
 ## UCSカードの主な特徴
 
@@ -46,8 +46,6 @@
 ## 脚注
 
 ### 注釈
-
-<references group="注"/>
 
 ### 出典
 

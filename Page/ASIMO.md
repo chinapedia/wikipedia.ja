@@ -3,7 +3,7 @@
 
 {{ infobox robot | name = Asimo Information | logo = Asimo logo.svg | logosize = 175px | image = ASIMO 2nd-gen model dancing.jpg |thumb | imsize = 175px | alt = | caption = ASIMO（2代目） | manufacturer = [本田技研工業](../Page/本田技研工業.md "wikilink") | year_of_creation = 2000年 - 2018年 | derived_from = | replaced_by = | website =  }} **ASIMO**（アシモ）は、[本田技研工業](../Page/本田技研工業.md "wikilink")株式会社が開発し、[ホンダエンジニアリング](../Page/ホンダエンジニアリング.md "wikilink")株式会社が製造していた世界初の本格的な[二足歩行ロボット](../Page/二足歩行ロボット.md "wikilink")\[1\]。予測運動制御によって[重心](../Page/重心.md "wikilink")や[ゼロモーメントポイント](../Page/ゼロモーメントポイント.md "wikilink")（ZMP）を制御して自在に歩くことができ、階段の上り下り、[旋回](https://ja.wikipedia.org/wiki/旋回 "wikilink")、[ダンス](../Page/ダンス.md "wikilink")なども可能。親しみやすさを考えたデザインを採用している。本田技研工業の説明によると、「ASIMO」という名称は「**A**dvanced **S**tep in **I**nnovative **Mo**bility（新しい時代へ進化した革新的移動性）」の略である。開発の動機に[手塚治虫](../Page/手塚治虫.md "wikilink")の[鉄腕アトム](../Page/鉄腕アトム.md "wikilink")があったとされている\[2\]。
 
-## 概要
+## 概説
 
 [Honda_ASIMO_Walking_Stairs.JPG](https://ja.wikipedia.org/wiki/File:Honda_ASIMO_Walking_Stairs.JPG "fig:Honda_ASIMO_Walking_Stairs.JPG") 最新型のASIMOの身長は130cm、質量は48kg\[3\]。ASIMOは人間の生活に合わせ作られていて、人の動きを感知し、自律的に行動が可能である。例えば人を追従して歩行、手を出すと握手する、障害物を回避する、音源認識、階段歩行などが行える。しかし、[HRP-2](../Page/HRP-2.md "wikilink")と違い、仰向けやうつ伏せに転倒した場合に起き上がることができない。なお、あらかじめ設定することにより[音声認識](../Page/音声認識.md "wikilink")と[発音](https://ja.wikipedia.org/wiki/発音 "wikilink")も可能である。2011年11月8日に発表された新型ASIMOは3人が同時に発する言葉を認識することができるようになり、予め設置された空間センサの情報を基に人の歩く方向を予測し、衝突を避けることが可能となった。また、身体能力の向上により片足けんけんや両足ジャンプなどが連続して実行することが可能となった\[4\]\[5\]。その他、水筒のふたを開けて紙コップに飲み物を注いだり、手話をこなすなど指先も器用になった。ホンダはアシモの技術を応用し、[福島第1原発内で活用する原子力災害ロボットを開発した](../Page/福島第一原子力発電所.md "wikilink")\[6\]。
 
@@ -417,7 +417,7 @@
 </tbody>
 </table>
 
-## 展示・実演
+## 展示、実演
 
   - [日本科学未来館](../Page/日本科学未来館.md "wikilink")で毎日4回、常設展内で「ASIMO（アシモ）実演」として公開実演が行われている\[75\]。
   - Honda ウエルカムプラザ青山でほぼ毎日3回程度、Honda Roboticsのデモンストレーションの一環として公開実演が行われている\[76\]。

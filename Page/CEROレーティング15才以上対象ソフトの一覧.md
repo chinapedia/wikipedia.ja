@@ -20,6 +20,7 @@
   - [LITTLE NIGHTMARES-リトルナイトメア- Deluxe Edition](https://ja.wikipedia.org/wiki/LITTLE_NIGHTMARES-リトルナイトメア- "wikilink")（コンテンツアイコン：「暴力、恐怖、犯罪」）
   - シャイニング・レゾナンス リフレイン（コンテンツアイコン：「???」）
   - 探偵 神宮寺三郎 PRISM OF EYES（コンテンツアイコン：「???」）
+  - [神獄塔 メアリスケルターFinale](https://ja.wikipedia.org/wiki/神獄塔_メアリスケルターFinale "wikilink")（コンテンツアイコン：「セクシャル」）(2020年10月8日発売予定)
 
 #### Nintendo Switch ダウンロードソフト
 
@@ -32,8 +33,6 @@
   - セクシー・ブルテイル（コンテンツアイコン：「暴力、犯罪」）
   - カイジ〜絶望の鉄骨渡り〜 for Nintendo Switch（コンテンツアイコン：「ギャンブル、犯罪」）
   - [Fortnite](https://ja.wikipedia.org/wiki/Fortnite "wikilink")（日本語訳 フォートナイト）（コンテンツアイコン：「暴力」）
-
-
 
 ### Wii U
 
@@ -56,10 +55,6 @@
   - LOST REAVERS（コンテンツアイコン：「暴力」）
 
 ### ニンテンドー3DS
-
-<div class="NavFrame" style="clear: both; border:0;">
-
-<div class="NavContent" style="text-align: left;">
 
   - [Island Days](https://ja.wikipedia.org/wiki/Island_Days "wikilink")（コンテンツアイコン：「セクシャル、犯罪」）
   - [ガールズRPG シンデレライフ](https://ja.wikipedia.org/wiki/ガールズRPG_シンデレライフ "wikilink")（コンテンツアイコン：「セクシャル」）
@@ -111,19 +106,7 @@
   - [ゾンビ パニック イン ワンダーランド DX](https://ja.wikipedia.org/wiki/ゾンビ_パニック_イン_ワンダーランド_DX "wikilink")（コンテンツアイコン：「暴力」）
   - [ゾンゲリパニック ナイトメア](https://ja.wikipedia.org/wiki/ゾンゲリパニック_ナイトメア "wikilink")（コンテンツアイコン：「暴力」）
 
-</div>
-
-</div>
-
-#### [バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")配信ソフト
-
-該当ソフト無し。
-
 ### Wii
-
-<div class="NavFrame" style="clear: both; border:0;">
-
-<div class="NavContent" style="text-align: left;">
 
 #### Wiiディスクソフト
 
@@ -166,10 +149,6 @@
   - [MADSECTA](https://ja.wikipedia.org/wiki/MADSECTA "wikilink")（コンテンツアイコン：「暴力」）
   - [ディシプリン＊帝国の誕生](https://ja.wikipedia.org/wiki/ディシプリン*帝国の誕生 "wikilink")（コンテンツアイコン：「セクシャル」）
 
-</div>
-
-</div>
-
 #### バーチャルコンソール 配信ソフト
 
 **[メガドライブ](../Page/メガドライブ.md "wikilink")**
@@ -182,10 +161,6 @@
   - [風の伝説ザナドゥ](../Page/風の伝説ザナドゥ.md "wikilink")（コンテンツアイコン：「セクシャル、飲酒・喫煙」）
 
 ### ニンテンドーDS
-
-<div class="NavFrame" style="clear: both; border:0;">
-
-<div class="NavContent" style="text-align: left;">
 
   - [アイドル雀士スーチーパイ](../Page/アイドル雀士スーチーパイ.md "wikilink")III Remix（コンテンツアイコン：「セクシャル」）
   - [アイドルマスター ディアリースターズ](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_Dearly_Stars "wikilink")（コンテンツアイコン：「セクシャル」）
@@ -248,10 +223,6 @@
   - [ギャングスター2: Kings of L.A.](https://ja.wikipedia.org/wiki/ギャングスター2:_Kings_of_L.A. "wikilink")（コンテンツアイコン：「犯罪」）
   - [探偵 神宮寺三郎 果断の一手&謎の事件簿](https://ja.wikipedia.org/wiki/探偵_神宮寺三郎シリーズ "wikilink")（コンテンツアイコン：「ギャンブル」）
   - [ヒーローオブスパルタ](https://ja.wikipedia.org/wiki/ヒーローオブスパルタ "wikilink")（コンテンツアイコン：「暴力」）
-
-</div>
-
-</div>
 
 ### ニンテンドーゲームキューブ
 
@@ -320,18 +291,9 @@
       - BLAZBLUE -CENTRALFICTION-
       - BLAZBLUE -CHRONOPHANTASMA EXTEND-
   - [ゆらぎ荘の幽奈さん 湯けむり迷宮](https://ja.wikipedia.org/wiki/ゆらぎ荘の幽奈さん "wikilink")
+  - [神獄塔 メアリスケルターFinale](https://ja.wikipedia.org/wiki/神獄塔_メアリスケルターFinale "wikilink")（コンテンツアイコン：「セクシャル」）(2020年10月8日発売予定)
 
 ### PlayStation Vita
-
-<div class="NavFrame" style="clear: both; border:0;">
-
-<div class="NavHead" style="text-align: left;">
-
-PlayStation Vita
-
-</div>
-
-<div class="NavContent" style="text-align: left;">
 
   - [蒼き革命のヴァルキュリア](https://ja.wikipedia.org/wiki/蒼き革命のヴァルキュリア "wikilink")（コンテンツアイコン：「犯罪」）
   - [ULTIMATE MARVEL VS. CAPCOM 3](https://ja.wikipedia.org/wiki/MARVEL_VS._CAPCOM_3_Fate_of_Two_Worlds "wikilink")（コンテンツアイコン：「セクシャル」）
@@ -381,15 +343,7 @@ PlayStation Vita
   - [RESISTANCE −アメリカ最後の抵抗−](https://ja.wikipedia.org/wiki/RESISTANCE_−アメリカ最後の抵抗− "wikilink")（コンテンツアイコン：「暴力、言葉・その他、犯罪」）
   - [ロード オブ アポカリプス](https://ja.wikipedia.org/wiki/ロード_オブ_アポカリプス "wikilink")（コンテンツアイコン：「暴力」）
 
-</div>
-
-</div>
-
 ### PlayStation 3
-
-<div class="NavFrame" style="clear: both; border:0;">
-
-<div class="NavContent" style="text-align: left;">
 
   - [THE IDOLM@STER 2](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_2 "wikilink") アニメもゲームもグラビアも！アイマス＠スペシャルBOX（通常版は12才以上対象）（コンテンツアイコン：「恋愛、セクシャル」）
   - アガレスト戦記シリーズ（コンテンツアイコン：「セクシャル」） <small>\*[アガレスト戦記ZERO](https://ja.wikipedia.org/wiki/アガレスト戦記ZERO "wikilink")は17才以上対象</small>
@@ -440,7 +394,7 @@ PlayStation Vita
   - [WWE Legends of WrestleMania](https://ja.wikipedia.org/wiki/WWE_Legends_of_WrestleMania "wikilink")（コンテンツアイコン：「暴力」）
   - [ティアーズ・トゥ・ティアラ外伝 -アヴァロンの謎-](https://ja.wikipedia.org/wiki/ティアーズ・トゥ・ティアラ外伝_-アヴァロンの謎- "wikilink")（コンテンツアイコン：「セクシャル」）
   - [テイルズ オブ エクシリア2](https://ja.wikipedia.org/wiki/テイルズ_オブ_エクシリア2 "wikilink")（コンテンツアイコン：「暴力」）
-  - [デビルメイクライシリーズ](../Page/デビルメイクライシリーズ.md "wikilink")
+  - [デビルメイクライシリーズ](../Page/デビルメイクライシリーズ.md "wikilink")（コンテンツアイコン：「???」）
       - [デビルメイクライ4](https://ja.wikipedia.org/wiki/デビルメイクライ4 "wikilink")（コンテンツアイコン：「暴力」）
       - デビルメイクライ HDコレクション（コンテンツアイコン：「暴力」）
   - [トゥームレイダー アンダーワールド](../Page/トゥームレイダー.md "wikilink")（コンテンツアイコン：「暴力」）
@@ -461,7 +415,7 @@ PlayStation Vita
   - ファイナルファンタジーシリーズ
       - [ファイナルファンタジーX](../Page/ファイナルファンタジーX.md "wikilink")/[X-2](https://ja.wikipedia.org/wiki/ファイナルファンタジーX-2 "wikilink") HD Remaster（コンテンツアイコン：「セクシャル、暴力」）
       - [ライトニング リターンズ ファイナルファンタジーXIII](https://ja.wikipedia.org/wiki/ライトニング_リターンズ_ファイナルファンタジーXIII "wikilink")
-  - [フェアリーフェンサー エフ](https://ja.wikipedia.org/wiki/フェアリーフェンサー_エフ "wikilink")
+  - [フェアリーフェンサー エフ](https://ja.wikipedia.org/wiki/フェアリーフェンサー_エフ "wikilink")（コンテンツアイコン：「???」）
   - [BLAZBLUE](../Page/BLAZBLUE.md "wikilink")（コンテンツアイコン：「セクシャル」）
       - BLAZBLUE -CHRONOPHANTASMA-
           - BLAZBLUE -CHRONOPHANTASMA EXTEND-
@@ -505,15 +459,7 @@ PlayStation Vita
   - [ララ・クロフト アンド ガーディアン オブ ライト](https://ja.wikipedia.org/wiki/ララ・クロフト_アンド_ガーディアン_オブ_ライト "wikilink")（コンテンツアイコン：「暴力」）
   - [Lead and Gold: Gangs of the Wild West](https://ja.wikipedia.org/wiki/Lead_and_Gold:_Gangs_of_the_Wild_West "wikilink")（コンテンツアイコン：「???」）
 
-</div>
-
-</div>
-
 ### PlayStation Portable
-
-<div class="NavFrame" style="clear: both; border:0;">
-
-<div class="NavContent" style="text-align: left;">
 
   - [アイドル雀士スーチーパイ](../Page/アイドル雀士スーチーパイ.md "wikilink")シリーズ（コンテンツアイコン：「セクシャル」）
       - アイドル雀士スーチーパイIII Remix
@@ -664,15 +610,7 @@ PlayStation Vita
   - [密室のサクリファイス](https://ja.wikipedia.org/wiki/密室のサクリファイス "wikilink") 〜イトカ：ある閉鎖施設からの脱出〜（コンテンツアイコン：「???」）
   - 密室のサクリファイス 〜ミキ：ハイテンションナイト〜（コンテンツアイコン：「???」）
 
-</div>
-
-</div>
-
 ### PlayStation 2
-
-<div class="NavFrame" style="clear: both; border:0;">
-
-<div class="NavContent" style="text-align: left;">
 
   - [I"s Pure](../Page/I"s.md "wikilink")（コンテンツアイコン：「セクシャル、犯罪」）
   - [アイドル雀士スーチーパイ](../Page/アイドル雀士スーチーパイ.md "wikilink")シリーズ（コンテンツアイコン：「セクシャル」）
@@ -1096,21 +1034,7 @@ PlayStation Vita
       - アカイイト（コンテンツアイコン：「セクシャル」）
       - Memories Off \#5 とぎれたフィルム（コンテンツアイコン：「セクシャル、犯罪」）
 
-</div>
-
-</div>
-
 ### PlayStation
-
-<div class="NavFrame" style="clear: both; border:0;">
-
-<div class="NavHead" style="text-align: left;">
-
-PlayStation
-
-</div>
-
-<div class="NavContent" style="text-align: left;">
 
   - [あすか120%](https://ja.wikipedia.org/wiki/あすか120% "wikilink")シリーズ（全て[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")）（コンテンツアイコン：「ギャンブル」） <small>\*あすか120%スペシャル BURNING Fest.は12才以上対象</small>
       - あすか120%エクセレント BURNING Fest. EXCELLENT
@@ -1162,10 +1086,6 @@ PlayStation
       - 夜想曲2
   - [リンダキューブ アゲイン](../Page/リンダキューブ.md "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「暴力」）
   - [Lunatic Dawn Odyssey](../Page/ルナティックドーン.md "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「犯罪」）
-
-</div>
-
-</div>
 
 ## マイクロソフト ハード
 

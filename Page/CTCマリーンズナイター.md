@@ -23,9 +23,11 @@
 
 2014年度は火 - 木曜日のみの放送で、前年度まで行われていた週末の放送は無くなった。
 
-2015年度は火 - 金曜日の放送で合計30試合中継する。
+2015年度は、火 - 金曜日の放送で合計30試合中継する。
 
-2017年度は火 - 土曜日の放送で合計30試合中継する。
+2017年度は、火 - 土曜日の放送で合計30試合中継する。
+
+2020年度は、火 - 金曜日の放送で合計30試合中継する。
 
 ## 放送時間
 
@@ -50,54 +52,55 @@
   - [里崎智也](https://ja.wikipedia.org/wiki/里崎智也 "wikilink")（2015年 - 、テレビ東京（[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")）・[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")・[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・ロッテ球団制作中継・[フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")・[ニッポン放送](../Page/ニッポン放送.md "wikilink")解説者兼）
   - [小林雅英](../Page/小林雅英.md "wikilink")（2019年 - ）
 
-## ゲスト解説者
+### ゲスト解説者
 
-  - [中畑清](../Page/中畑清.md "wikilink") - [2018年](../Page/2018年.md "wikilink")[6月14日](../Page/6月14日.md "wikilink")のロッテ対巨人との交流戦にて巨人OBとして出演。[日本テレビ](../Page/日本テレビ放送網.md "wikilink")・[TBSテレビ](../Page/TBSテレビ.md "wikilink")ゲスト・[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")ゲスト解説者兼任
+  - [中畑清](../Page/中畑清.md "wikilink") - [2018年](../Page/2018年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink")のロッテ対巨人との交流戦にて巨人OBとして出演。[日本テレビ](../Page/日本テレビ放送網.md "wikilink")・[TBSテレビ](../Page/TBSテレビ.md "wikilink")ゲスト・[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")ゲスト解説者兼任
+
+### 過去の解説者
+
+  - [小川邦和](../Page/小川邦和.md "wikilink")
+  - [大村巌](../Page/大村巌.md "wikilink")（2005年まで）
+  - [黒木知宏](../Page/黒木知宏.md "wikilink")（2012年まで）
 
 ## 実況アナウンサー・リポーター
 
 当番組では実況・リポーターとも[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")が担当している。これは現在、チバテレの正・契約社員に男性アナウンサーが在籍していないためである。なお、下記実況担当者のほとんどが[全国高等学校野球選手権千葉大会](../Page/全国高等学校野球選手権千葉大会.md "wikilink")（夏の高校野球）実況を担当しており、かつては『[速報\!今日の高校野球](https://ja.wikipedia.org/wiki/速報!今日の高校野球 "wikilink")』にも出演していた。『[高校野球ダイジェスト](https://ja.wikipedia.org/wiki/高校野球ダイジェスト_\(千葉テレビ放送\) "wikilink")』においても、2013年は瀬尾がMCを担当した。
 
-下記は2018年の実況アナウンサーである。
+下記は2020年の実況アナウンサーである。
 
-  - [小笠原聖](../Page/小笠原聖.md "wikilink")（元[秋田朝日放送](../Page/秋田朝日放送.md "wikilink")アナウンサー）
+  - [小笠原聖](../Page/小笠原聖.md "wikilink")（[エス・オー・プロモーション](https://ja.wikipedia.org/wiki/エス・オー・プロモーション "wikilink")所属→フリー・元[秋田朝日放送](../Page/秋田朝日放送.md "wikilink")）
   - [黒沢幸司](https://ja.wikipedia.org/wiki/黒沢幸司 "wikilink")（[シオノ事務所](https://ja.wikipedia.org/wiki/シオノ事務所 "wikilink")所属）
-  - [西達彦](https://ja.wikipedia.org/wiki/西達彦 "wikilink")
-  - [坂倉恒太](https://ja.wikipedia.org/wiki/坂倉恒太 "wikilink")（かつてはベンチリポート担当）2012年度は担当無し
-  - [梅中悠介](../Page/梅中悠介.md "wikilink")（[ジョイスタッフ](../Page/ジョイスタッフ.md "wikilink")所属）2013年度より
-  - [喜谷知純](../Page/喜谷知純.md "wikilink")（[ボイスワークス](../Page/ボイスワークス.md "wikilink")所属・元[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")アナウンサー）
-  - [笹川裕昭](https://ja.wikipedia.org/wiki/笹川裕昭 "wikilink")（[フットメディア](../Page/フットメディア.md "wikilink")所属・元[エフエム群馬](../Page/エフエム群馬.md "wikilink")アナウンサー）2018年度
+  - [西達彦](https://ja.wikipedia.org/wiki/西達彦 "wikilink") （[ボイスワークス](../Page/ボイスワークス.md "wikilink")所属）
+  - [喜谷知純](../Page/喜谷知純.md "wikilink")（[ボイスワークス](../Page/ボイスワークス.md "wikilink")所属・元[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")）
+  - [笹川裕昭](https://ja.wikipedia.org/wiki/笹川裕昭 "wikilink")（[フットメディア](../Page/フットメディア.md "wikilink")所属・元[エフエム群馬](../Page/エフエム群馬.md "wikilink")）2018年度より
+  - [酒井崇之](https://ja.wikipedia.org/wiki/酒井崇之 "wikilink")（[TCPアーティスト](https://ja.wikipedia.org/wiki/TCPアーティスト "wikilink")所属）
 
-他にセ・パ交流戦で同時ネットする対阪神戦にサンテレビのアナウンサーがリポーターで出演する
+この他、セ・パ交流戦の阪神との試合では同時ネットする[サンテレビ](https://ja.wikipedia.org/wiki/サンテレビ "wikilink")のアナウンサーがリポーターで出演する。
 
 ### 過去
 
 **実況**
 
-  - [石井力](../Page/石井力.md "wikilink")（元千葉テレビ放送アナウンサー）2009年度まで
-  - [新納泰一](https://ja.wikipedia.org/wiki/新納泰一 "wikilink")（同　千葉移転初期のころ数試合）
-  - [藤巻久也](https://ja.wikipedia.org/wiki/藤巻久也 "wikilink")（同　千葉移転初期のころ数試合）
-  - [川原恵輔](https://ja.wikipedia.org/wiki/川原恵輔 "wikilink")（千葉移転初期のころ数試合。この他日本ハムが東京ドームを本拠にしていた頃も主管試合担当）
-  - [松岡俊道](../Page/松岡俊道.md "wikilink")
-  - [関根信宏](https://ja.wikipedia.org/wiki/関根信宏 "wikilink")（[ジョイスタッフ](../Page/ジョイスタッフ.md "wikilink")所属・元[長崎放送](../Page/長崎放送.md "wikilink")アナウンサー）
-  - [河田浩兒](../Page/河田浩兒.md "wikilink")
-  - [中田秀作](../Page/中田秀作.md "wikilink")（元文化放送アナウンサー）
-  - [志生野温夫](../Page/志生野温夫.md "wikilink")
-  - [八塚浩](../Page/八塚浩.md "wikilink")（ごく数試合）
-  - [熊谷龍一](https://ja.wikipedia.org/wiki/熊谷龍一 "wikilink")（[ボイスワークス](../Page/ボイスワークス.md "wikilink")所属・元[鹿児島放送](../Page/鹿児島放送.md "wikilink")アナウンサー）2011年度まで
-  - [杉山俊輔](https://ja.wikipedia.org/wiki/杉山俊輔 "wikilink")（[エス・オープロモーション](https://ja.wikipedia.org/wiki/エス・オープロモーション "wikilink")所属）2011年度まで
-  - [廣瀬隼也](../Page/廣瀬隼也.md "wikilink")（出演時ボイスワークス所属・元[福井放送](../Page/福井放送.md "wikilink")アナウンサー）2012年度。現在[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")アナウンサー
-  - [瀬尾貴紀](https://ja.wikipedia.org/wiki/瀬尾貴紀 "wikilink")（ボイスワークス所属）2013年度
-  - [小林習之](https://ja.wikipedia.org/wiki/小林習之 "wikilink") 2014年度
-  - [菅野詩朗](../Page/菅野詩朗.md "wikilink")（元[文化放送](../Page/文化放送.md "wikilink")）
-  - [石黒新平](../Page/石黒新平.md "wikilink")（[圭三プロダクション](../Page/圭三プロダクション.md "wikilink")所属）
-  - [波多江良一](../Page/波多江良一.md "wikilink")（[圭三プロダクション](../Page/圭三プロダクション.md "wikilink")所属）2017年度
-
-**解説**
-
-  - [小川邦和](../Page/小川邦和.md "wikilink")
-  - [大村巌](../Page/大村巌.md "wikilink")（現ロッテ二軍打撃コーチ 2005年まで）
-  - [黒木知宏](../Page/黒木知宏.md "wikilink")（2012年まで）
+  - [石井力](../Page/石井力.md "wikilink")（元千葉テレビ）2009年度まで担当。
+  - [新納泰一](https://ja.wikipedia.org/wiki/新納泰一 "wikilink")（元千葉テレビ）千葉移転初期のころ数試合担当。
+  - [藤巻久也](https://ja.wikipedia.org/wiki/藤巻久也 "wikilink")（元千葉テレビ）千葉移転初期のころ数試合担当。
+  - [川原恵輔](https://ja.wikipedia.org/wiki/川原恵輔 "wikilink")（フリー・元[NHK](https://ja.wikipedia.org/wiki/NHK "wikilink")）千葉移転初期のころ数試合。この他、日本ハムの本拠地が東京ドームだった頃も主管試合担当。
+  - [松岡俊道](../Page/松岡俊道.md "wikilink")（フリー）
+  - [関根信宏](https://ja.wikipedia.org/wiki/関根信宏 "wikilink")（[ジョイスタッフ](../Page/ジョイスタッフ.md "wikilink")所属・元[長崎放送](../Page/長崎放送.md "wikilink")）
+  - [河田浩兒](../Page/河田浩兒.md "wikilink")（フリー）
+  - [中田秀作](../Page/中田秀作.md "wikilink")（フリー・元[文化放送](../Page/文化放送.md "wikilink")）
+  - [志生野温夫](../Page/志生野温夫.md "wikilink") （[シオノ事務所](https://ja.wikipedia.org/wiki/シオノ事務所 "wikilink")所属・元[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")）
+  - [八塚浩](../Page/八塚浩.md "wikilink")（[圭三プロダクション](../Page/圭三プロダクション.md "wikilink")所属・元[ラジオ福島](../Page/ラジオ福島.md "wikilink")）ごく数試合担当。
+  - [熊谷龍一](https://ja.wikipedia.org/wiki/熊谷龍一 "wikilink")（[ボイスワークス](../Page/ボイスワークス.md "wikilink")所属・元[鹿児島放送](../Page/鹿児島放送.md "wikilink")）2011年度まで担当。
+  - [杉山俊輔](https://ja.wikipedia.org/wiki/杉山俊輔 "wikilink")（[エス・オー・プロモーション](https://ja.wikipedia.org/wiki/エス・オー・プロモーション "wikilink")所属）2011年度まで担当。
+  - [廣瀬隼也](../Page/廣瀬隼也.md "wikilink")（出演時[ボイスワークス](../Page/ボイスワークス.md "wikilink")所属・元[福井放送](../Page/福井放送.md "wikilink")）2012年度担当。2013年[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")入社。
+  - [瀬尾貴紀](https://ja.wikipedia.org/wiki/瀬尾貴紀 "wikilink")（[ボイスワークス](../Page/ボイスワークス.md "wikilink")所属）2013年度担当。
+  - [小林習之](https://ja.wikipedia.org/wiki/小林習之 "wikilink")（フリー）2014年度担当。
+  - [菅野詩朗](../Page/菅野詩朗.md "wikilink")（[TCPアーティスト](https://ja.wikipedia.org/wiki/TCPアーティスト "wikilink")所属・元[文化放送](../Page/文化放送.md "wikilink")）
+  - [石黒新平](../Page/石黒新平.md "wikilink")（[圭三プロダクション](../Page/圭三プロダクション.md "wikilink")所属・元[東北放送](../Page/東北放送.md "wikilink")、元[ニッポン放送](../Page/ニッポン放送.md "wikilink")、元[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")）
+  - [波多江良一](../Page/波多江良一.md "wikilink")（[圭三プロダクション](../Page/圭三プロダクション.md "wikilink")所属・元[富山テレビ](https://ja.wikipedia.org/wiki/富山テレビ "wikilink")、元[群馬テレビ](../Page/群馬テレビ.md "wikilink")、元[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）2017年度担当。
+  - [坂倉恒太](https://ja.wikipedia.org/wiki/坂倉恒太 "wikilink")（フリー）
+  - [梅中悠介](../Page/梅中悠介.md "wikilink")（[ジョイスタッフ](../Page/ジョイスタッフ.md "wikilink")所属・元[新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")、元[大分朝日放送](../Page/大分朝日放送.md "wikilink")）2013年度より担当。
 
 **リポーター**
 
@@ -136,7 +139,7 @@
 2.  いずれもテロップを含め球団と千葉マリンスタジアムビジョン制作（技術面は東京フィルム・メートが担当）の公式映像をそのまま使用。スコアテロップは2012年度までは千葉マリンスタジアムビジョンの独自デザインだったが、2013年度 - 2014年度はFOX SPORTS ジャパンの、2015年度はTBSテレビのデザインに準拠した物を千葉マリンスタジアムビジョンが用意して、そのまま使っていた。2019年からはスコアボードとイメージを統一した独自デザインを使用）。一部チバテレの独自映像が挿入される。
 3.  千葉マリンスタジアムビジョン所有のカメラを使用するため、以前はプロ野球中継のみハイビジョンだった。同じ千葉マリンスタジアムで行われる[全国高等学校野球選手権千葉大会](../Page/全国高等学校野球選手権千葉大会.md "wikilink")中継は千葉テレビ放送所有の中継カメラを使用したため、2009年まではSD放送だったが2010年度から千葉マリンスタジアムの試合のみHD、2011年度から全試合HDとなった。HD化後は自社の機材か技術会社からのレンタル（中継車やカメラに一時的に千葉テレビのロゴステッカーを貼付）かは不明。
 4.  [日本シリーズ第5戦　地上波独占生中継決定！](http://www.chiba-tv.com/030edit/2010-1027-0955-7.html) - 千葉テレビ放送、2010年10月27日
-5.  独立県域局が最初に日本シリーズを放送したのは[1985年の日本シリーズ](../Page/1985年の日本シリーズ.md "wikilink")・阪神タイガース対西武ライオンズの第3・第5試合をサンテレビジョンで中継したもの。ただし、[大阪府](../Page/大阪府.md "wikilink")の民放準キー局（第3戦・[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")、第5戦・[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")）との並列であった。関東地方地上波独占中継で、かつ関東の独立UHF局による初の中継である。
+5.  独立県域局が最初に日本シリーズを放送したのは[1985年の日本シリーズ](../Page/1985年の日本シリーズ.md "wikilink")・阪神タイガース対西武ライオンズの第3・第5試合をサンテレビジョンで中継したもの。ただし、[大阪府](../Page/大阪府.md "wikilink")の民放準キー局（第3戦・[朝日放送](../Page/朝日放送テレビ.md "wikilink")、第5戦・[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")）との並列であった。関東地方地上波独占中継で、かつ関東の独立UHF局による初の中継である。
 6.  以前は千葉マリンスタジアムで開催の[ヤクルト主催ゲーム](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")（主に対横浜戦）をtvk主管制作で千葉テレビでも放送したことがある。
 7.  以前は千葉マリンスタジアムで開催の[ヤクルト対阪神戦をサンテレビ主管制作で千葉テレビでも放送したことがある](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")。
 8.  テレビ東京の制作協力による独自放送実績はなし。

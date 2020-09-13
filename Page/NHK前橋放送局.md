@@ -133,13 +133,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>落合慶子</p></td>
-<td></td>
+<td><p>伊崎都子</p></td>
+<td><p><a href="../Page/NHK鹿児島放送局.md" title="wikilink">鹿児島</a></p></td>
 <td><p>ほっとぐんま630<br />
 ひるまえほっと</p></td>
 </tr>
 <tr class="even">
-<td><p>毎熊千遥</p></td>
+<td><p>大森華子</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -154,23 +154,18 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>安川侑希</p></td>
+<td><p>増田一恵</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>吉川明穂</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>新村美里</p></td>
-<td></td>
+<td><p><a href="../Page/NHK佐賀放送局.md" title="wikilink">佐賀</a></p></td>
 <td><p>ほっとぐんま630</p></td>
 </tr>
 </tbody>

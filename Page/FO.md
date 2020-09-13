@@ -5,6 +5,7 @@
 
 ## FO
 
+  - [Fallout シリーズ](https://ja.wikipedia.org/wiki/Fallout_シリーズ "wikilink") ()
   - [フェロー諸島](../Page/フェロー諸島.md "wikilink") () の[ISO国名コード](https://ja.wikipedia.org/wiki/ISO国名コード "wikilink")
   - [FMOSAKAの略](https://ja.wikipedia.org/wiki/FM大阪 "wikilink")(FOという略称は、あまり知られていない)
   - [タスマニア航空](https://ja.wikipedia.org/wiki/タスマニア航空 "wikilink") () のIATA[航空会社コード](../Page/航空会社コード.md "wikilink")

@@ -15,9 +15,7 @@
 
 ターミナル数は9つで空港施設の規模としては全米一、面積は約20平方キロメートル（[成田国際空港](../Page/成田国際空港.md "wikilink")の約2倍）で、[マンハッタン](../Page/マンハッタン.md "wikilink")の[42丁目通り以南の面積に匹敵する](https://ja.wikipedia.org/wiki/42丁目_\(マンハッタン\) "wikilink")。なお、アメリカ以外の航空会社として[ブリティッシュエアウェイズ](https://ja.wikipedia.org/wiki/ブリティッシュエアウェイズ "wikilink")の専用ターミナルが存在していた。
 
-ジョン・F・ケネディ国際空港は[デルタ航空](../Page/デルタ航空.md "wikilink")と[ジェットブルー航空](../Page/ジェットブルー航空.md "wikilink")が[ハブ空港](../Page/ハブ空港.md "wikilink")にしているほか、[アメリカン航空](../Page/アメリカン航空.md "wikilink")も準ハブ空港の一つとしており、その混雑はますます進んでいる（かつては[イースタン航空](../Page/イースタン航空.md "wikilink")、[ナショナル航空](https://ja.wikipedia.org/wiki/ナショナル航空 "wikilink")、[パンアメリカン航空](../Page/パンアメリカン航空.md "wikilink")、タワーエアー、[トランスワールド航空](https://ja.wikipedia.org/wiki/トランスワールド航空 "wikilink")などもハブ空港としていた）。
-
-日本では通称「JFK」とされているが、現地ではJFK AirportもしくはKennedy Airportといわないと通じないことが多い（単にJFKではなく）。
+ジョン・F・ケネディ国際空港は[デルタ航空](../Page/デルタ航空.md "wikilink")と[ジェットブルー航空](../Page/ジェットブルー航空.md "wikilink")が[ハブ空港](../Page/ハブ空港.md "wikilink")にしているほか、[アメリカン航空](../Page/アメリカン航空.md "wikilink")も準ハブ空港の一つとしており、その混雑はますます進んでいる（かつては[イースタン航空](../Page/イースタン航空.md "wikilink")、[ナショナル航空](https://ja.wikipedia.org/wiki/ナショナル航空 "wikilink")、[パンアメリカン航空](../Page/パンアメリカン航空.md "wikilink")、タワーエアー、[トランス・ワールド航空](../Page/トランス・ワールド航空.md "wikilink")などもハブ空港としていた）。
 
 2020年4月28日から当面、新型コロナウィルス/COVID-19対策として、各ターミナル入館は空港施設職員、航空会社職員、および搭乗者のみに限定され、また、マスク着用が義務づけられている（館内での見送りや出迎え不可）。
 
@@ -48,13 +46,13 @@
 
 [トランス・ワールド航空](../Page/トランス・ワールド航空.md "wikilink")のメインである第5ターミナルも1962年に完成した。家具デザイナーとしても知られる[フィンランド](../Page/フィンランド.md "wikilink")生まれのアメリカ人[建築家](../Page/建築家.md "wikilink")[エーロ・サーリネン](https://ja.wikipedia.org/wiki/エーロ・サーリネン "wikilink")によって設計された。また第3ターミナル、第5ターミナルともに1970年代に改装されている。
 
-貨物の取り扱い量も多く、現在[中国国際貨運航空](../Page/中国国際貨運航空.md "wikilink")、[アメリカン航空](../Page/アメリカン航空.md "wikilink")、[アシアナ航空](../Page/アシアナ航空.md "wikilink")、[キャセイパシフィック航空](../Page/キャセイパシフィック航空.md "wikilink")、[エミレーツ・スカイカーゴ](https://ja.wikipedia.org/wiki/エミレーツ・スカイカーゴ "wikilink")、[ルフトハンザ・カーゴ](https://ja.wikipedia.org/wiki/ルフトハンザ・カーゴ "wikilink")、[大韓航空](../Page/大韓航空.md "wikilink")、[日本貨物航空](../Page/日本貨物航空.md "wikilink")、[ユナイテッド航空](https://ja.wikipedia.org/wiki/ユナイテッド航空 "wikilink")など、100社以上が貨物専用便を就航させており、敷地内には航空貨物を取り扱う施設も数多い。
+貨物の取り扱い量も多く、現在[アメリカン航空](../Page/アメリカン航空.md "wikilink")、[アシアナ航空](../Page/アシアナ航空.md "wikilink")、[キャセイパシフィック航空](../Page/キャセイパシフィック航空.md "wikilink")、[エミレーツ・スカイカーゴ](https://ja.wikipedia.org/wiki/エミレーツ・スカイカーゴ "wikilink")、[ルフトハンザ・カーゴ](https://ja.wikipedia.org/wiki/ルフトハンザ・カーゴ "wikilink")、[日本貨物航空](../Page/日本貨物航空.md "wikilink")、[ユナイテッド航空](https://ja.wikipedia.org/wiki/ユナイテッド航空 "wikilink")など、100社以上が貨物専用便を就航させており、敷地内には航空貨物を取り扱う施設も数多い。
 
 ## ターミナル
 
 ### 第1ターミナル
 
-[JFK_Terminal_1.jpg](https://ja.wikipedia.org/wiki/File:JFK_Terminal_1.jpg "fig:JFK_Terminal_1.jpg") 当初は[イースタン航空](../Page/イースタン航空.md "wikilink")（1991年運航停止）によって占められていた。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に、同空港に乗り入れる複数の[航空会社](../Page/航空会社.md "wikilink")（エールフランス、日本航空、大韓航空、ルフトハンザ）によって建て替えられた。ゲート数は11。
+[JFK_Terminal_1.jpg](https://ja.wikipedia.org/wiki/File:JFK_Terminal_1.jpg "fig:JFK_Terminal_1.jpg") 当初は[イースタン航空](../Page/イースタン航空.md "wikilink")（1991年運航停止）によって占められていた。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に、同空港に乗り入れる複数の[航空会社](../Page/航空会社.md "wikilink")（エールフランス、日本航空、ルフトハンザ）によって建て替えられた。ゲート数は11。
 
 ### 第2ターミナル
 
@@ -66,7 +64,7 @@
 
 ### 第5ターミナル
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Jfkairport.jpg "wikilink")  [エーロ・サーリネン](https://ja.wikipedia.org/wiki/エーロ・サーリネン "wikilink")の設計で1962年に完成し、[旧トランスワールド航空のターミナルとして使用されていた](https://ja.wikipedia.org/wiki/トランスワールド航空 "wikilink")。[TWAフライトセンター](../Page/TWAフライトセンター.md "wikilink")とも呼ばれる。「サーリネンのターミナルビル」としても知られる優美なデザインは、第3ターミナルとともにケネディ空港を代表する建築物となっている。また、歴史的建造物にも指定されている。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Jfkairport.jpg "wikilink")  [エーロ・サーリネン](https://ja.wikipedia.org/wiki/エーロ・サーリネン "wikilink")の設計で1962年に完成し、[旧トランスワールド航空のターミナルとして使用されていた](../Page/トランス・ワールド航空.md "wikilink")。[TWAフライトセンター](../Page/TWAフライトセンター.md "wikilink")とも呼ばれる。「サーリネンのターミナルビル」としても知られる優美なデザインは、第3ターミナルとともにケネディ空港を代表する建築物となっている。また、歴史的建造物にも指定されている。
 
 ### 第7ターミナル
 
@@ -190,8 +188,6 @@ JFK International Airport terminal 1.png|第1ターミナル JFK International A
 
   - [パリ/シャルル・ド・ゴール](https://ja.wikipedia.org/wiki/シャルル・ド・ゴール国際空港 "wikilink")、[ニース](../Page/コート・ダジュール空港.md "wikilink")
 
-<!-- end list -->
-
   - [ワルシャワ](../Page/ワルシャワ・ショパン空港.md "wikilink")、
 
   - [アテネ](../Page/アテネ国際空港.md "wikilink")
@@ -296,8 +292,6 @@ JFK International Airport terminal 1.png|第1ターミナル JFK International A
 
   - [ボゴタ](../Page/エルドラド国際空港.md "wikilink")、、
 
-<!-- end list -->
-
   - [キト](../Page/マリスカル・スクレ国際空港.md "wikilink")、[グアヤキル](https://ja.wikipedia.org/wiki/ホセ・ホアキン・デ・オルメード国際空港 "wikilink")
 
   - [ジョージタウン](https://ja.wikipedia.org/wiki/チェディ・ジェーガン国際空港 "wikilink")
@@ -316,7 +310,7 @@ JFK International Airport terminal 1.png|第1ターミナル JFK International A
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Airtrain_jfk.jpg "wikilink")
 
-1998年から高速軽軌道システム「エアトレイン」の[建設](../Page/建設.md "wikilink")が始まった。2001年の[9.11テロの影響で当初の計画を大幅に縮小し](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")、予定より1年遅れの2003年12月17日に開業した。ケネディ空港内の各ターミナルや、[駐車場](../Page/駐車場.md "wikilink")、[レンタカー](../Page/レンタカー.md "wikilink")[会社](../Page/会社.md "wikilink")のオフィスなどを結び、[地下鉄A線のハワードビーチ駅行き](https://ja.wikipedia.org/wiki/ニューヨーク市地下鉄A系統 "wikilink")、[地下鉄E,J,Z線の](https://ja.wikipedia.org/wiki/ニューヨーク市地下鉄E系統 "wikilink")[Sutphin Boulevard駅](https://ja.wikipedia.org/wiki/サットフィン・ブールバード-アーチャー・アベニュー-JFKエアポート駅 "wikilink")／[ロングアイランド鉄道](../Page/ロングアイランド鉄道.md "wikilink")の[ジャマイカ駅行き](https://ja.wikipedia.org/wiki/ジャマイカ駅_\(ニューヨーク\) "wikilink")（それぞれ、空港外→ターミナル1→2…7→8→空港外の運行）、そして空港内環状線（ターミナル１→8→7…2→1の順の一方運行）の三つの運行系統がある。ターミナル間の移動は無料、地下鉄接続駅（ジャマイカ駅およびハワードビーチ駅）利用の際は[運賃](../Page/運賃.md "wikilink")7.50ドル\[1\]がかかる。マンハッタンへはジャマイカ駅乗り換えで[地下鉄E線利用が便利](https://ja.wikipedia.org/wiki/ニューヨーク市地下鉄E系統 "wikilink")（本数が比較的多く、早朝深夜以外はマンハッタンまで快速運行）。
+1998年から高速軽軌道システム「エアトレイン」の[建設](../Page/建設.md "wikilink")が始まった。2001年の[9.11テロの影響で当初の計画を大幅に縮小し](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")、予定より1年遅れの2003年12月17日に開業した。ケネディ空港内の各ターミナルや、[駐車場](../Page/駐車場.md "wikilink")、[レンタカー](../Page/レンタカー.md "wikilink")[会社](../Page/会社.md "wikilink")のオフィスなどを結び、[地下鉄A線のハワードビーチ駅行き](https://ja.wikipedia.org/wiki/ニューヨーク市地下鉄A系統 "wikilink")、[地下鉄E,J,Z線の](https://ja.wikipedia.org/wiki/ニューヨーク市地下鉄E系統 "wikilink")[Sutphin Boulevard駅](https://ja.wikipedia.org/wiki/サットフィン・ブールバード-アーチャー・アベニュー-JFKエアポート駅 "wikilink")／[ロングアイランド鉄道](../Page/ロングアイランド鉄道.md "wikilink")の[ジャマイカ駅行き](https://ja.wikipedia.org/wiki/ジャマイカ駅_\(ニューヨーク\) "wikilink")（それぞれ、空港外→ターミナル1→2…7→8→空港外の運行）、そして空港内環状線（ターミナル１→8→7…2→1の順の一方運行）の三つの運行系統がある。ターミナル間の移動は無料、地下鉄接続駅（ジャマイカ駅およびハワードビーチ駅）利用の際は[運賃](../Page/運賃.md "wikilink")7.50ドル\[1\] がかかる。マンハッタンへはジャマイカ駅乗り換えで[地下鉄E線利用が便利](https://ja.wikipedia.org/wiki/ニューヨーク市地下鉄E系統 "wikilink")（本数が比較的多く、早朝深夜以外はマンハッタンまで快速運行）。
 
 エアトレインを計画建設したのは、ニューヨークの空港を管理運営するニューヨーク・ニュージャージー港湾公社だが、同公社は崩壊した[ワールドトレードセンターをはじめ](../Page/ワールドトレードセンター_\(ニューヨーク\).md "wikilink")、[テロ](https://ja.wikipedia.org/wiki/テロ "wikilink")被害により一部使用が不能になった[パストレイン](../Page/パストレイン.md "wikilink")や、被災現場に近いことから通行規制が1年近く続いた[ホランドトンネルなども運営しており](https://ja.wikipedia.org/wiki/ホランド・トンネル "wikilink")、これらの施設からの[賃貸](../Page/賃貸.md "wikilink")料、運賃、通行料などが途絶えたことや、観光客の激減で定期便のキャンセルが相次ぎ空港発着料をはじめとするさまざまな空港関連[収益](../Page/収益.md "wikilink")が減少したことで、深刻な[財政](../Page/財政.md "wikilink")難に直面することになった。そのため当初計画されていたジャマイカ駅から[ラガーディア空港](../Page/ラガーディア空港.md "wikilink")を経由してマンハッタンの三番街59丁目通りの新駅に至る2期[工事](https://ja.wikipedia.org/wiki/工事 "wikilink")は中止となってしまった。
 

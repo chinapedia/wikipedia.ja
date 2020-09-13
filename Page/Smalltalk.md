@@ -316,7 +316,7 @@
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p><a href="../Page/アクターモデル.md" title="wikilink">アクターモデル</a>による分散処理を導入した環境。<a href="http://ci.nii.ac.jp/naid/110003743373">1</a></p></td>
+<td><p><a href="../Page/アクターモデル.md" title="wikilink">アクターモデル</a>による分散処理を導入した環境。<a href="https://ci.nii.ac.jp/naid/110003743373">1</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

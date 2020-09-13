@@ -28,6 +28,7 @@
   - [ミリタリー・アーマーメント・コーポレーション](https://ja.wikipedia.org/wiki/ミリタリー・アーマーメント・コーポレーション "wikilink")（[Military Armament Corporation](https://ja.wikipedia.org/wiki/:en:Military_Armament_Corporation "wikilink")）はかつてあったアメリカの銃器メーカー。
   - Medical Academy Corporationは、[医師国家試験](../Page/医師国家試験.md "wikilink")[予備校](../Page/予備校.md "wikilink")の一つ。
   - ドラッグストア・マックは、[大屋](../Page/大屋.md "wikilink")が運営する[ドラッグストア](../Page/ドラッグストア.md "wikilink")のブランド。
+  - [Mack Trucks](../Page/マック・トラックス.md "wikilink") - アメリカの貨物自動車メーカー。
 
 ## その他の略語
 

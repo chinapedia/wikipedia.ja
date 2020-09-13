@@ -13,6 +13,7 @@
 
   - [19D形](../Page/JR貨物19D形コンテナ.md "wikilink")
   - [19G形](../Page/JR貨物19G形コンテナ.md "wikilink")
+  - [19H形](https://ja.wikipedia.org/wiki/JR貨物19H形コンテナ "wikilink")
   - [20B形](../Page/JR貨物20B形コンテナ.md "wikilink")
   - [20C形](../Page/JR貨物20C形コンテナ.md "wikilink")
   - [20D形](https://ja.wikipedia.org/wiki/JR貨物20D形コンテナ "wikilink")
@@ -109,7 +110,7 @@
 ##### 通風コンテナ
 
   - [UV18A形](https://ja.wikipedia.org/wiki/JR貨物UV18A形コンテナ "wikilink")
-  - [UV19A形](https://ja.wikipedia.org/wiki/JR貨物UV19A形コンテナ "wikilink")
+  - [UV19A形](../Page/JR貨物UV19A形コンテナ.md "wikilink")
 
 ##### 冷蔵コンテナ
 

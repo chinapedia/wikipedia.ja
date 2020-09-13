@@ -3,7 +3,7 @@
 
 **ユリオカ超特Q**（ユリオカ ちょうとっきゅう、[1968年](../Page/1968年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - ）は、日本の[お笑いタレント](../Page/お笑いタレント.md "wikilink")、[漫談家](https://ja.wikipedia.org/wiki/漫談家 "wikilink")。
 
-[兵庫県](../Page/兵庫県.md "wikilink")[城崎郡](../Page/城崎郡.md "wikilink")[日高町](../Page/日高町_\(兵庫県\).md "wikilink")（現在の[豊岡市](../Page/豊岡市.md "wikilink")）出身。[トップ・カラー](https://ja.wikipedia.org/wiki/トップ・カラー "wikilink")所属。[日高町立日高東中学校](../Page/豊岡市立日高東中学校.md "wikilink")、[兵庫県立豊岡高等学校](../Page/兵庫県立豊岡高等学校.md "wikilink")、[立命館大学](https://ja.wikipedia.org/wiki/立命館大学 "wikilink")[産業社会学部](https://ja.wikipedia.org/wiki/産業社会学部 "wikilink")卒業。2007年9月末まで[ASH\&Dコーポレーション](https://ja.wikipedia.org/wiki/ASH&Dコーポレーション "wikilink")、2009年3月末まで[オイコーポレーション](../Page/オイコーポレーション.md "wikilink")に在籍。[スクールJCA](https://ja.wikipedia.org/wiki/スクールJCA "wikilink")2期生、JCA時代はコンビで活動していた。
+[兵庫県](../Page/兵庫県.md "wikilink")[城崎郡](../Page/城崎郡.md "wikilink")[日高町](../Page/日高町_\(兵庫県\).md "wikilink")（現在の[豊岡市](../Page/豊岡市.md "wikilink")）出身。[トルバ](https://ja.wikipedia.org/wiki/トルバ "wikilink")所属。[日高町立日高東中学校](../Page/豊岡市立日高東中学校.md "wikilink")、[兵庫県立豊岡高等学校](../Page/兵庫県立豊岡高等学校.md "wikilink")、[立命館大学](https://ja.wikipedia.org/wiki/立命館大学 "wikilink")[産業社会学部](https://ja.wikipedia.org/wiki/産業社会学部 "wikilink")卒業。2007年9月末まで[ASH\&Dコーポレーション](https://ja.wikipedia.org/wiki/ASH&Dコーポレーション "wikilink")、2009年3月末まで[オイコーポレーション](../Page/オイコーポレーション.md "wikilink")に、2020年7月まで[トップ・カラー](https://ja.wikipedia.org/wiki/トップ・カラー "wikilink")に在籍。[スクールJCA](https://ja.wikipedia.org/wiki/スクールJCA "wikilink")2期生、JCA時代はコンビで活動していた。
 
 ## 来歴・人物
 
@@ -74,6 +74,7 @@
   - 2012年2月14日神取忍率いるLLPW-Xが道場からインターネット生放送（ワールドネットTV,ニコニコ生放送、同時生中継）をしたときに綾川ゆんまおと司会を務めた。
   - [ぶるぺん](https://ja.wikipedia.org/wiki/ぶるぺん〜今まさに世に出ようとしている「あったまった人々」が登場!〜 "wikilink")（2018年6月、[GYAO\!](../Page/GYAO!.md "wikilink")）\[5\]
   - 2020年5月「俺たちの！オンラインプロレストークナイト」で司会を務めた。（ゲスト：[ダゼー ・ファンクJr.](https://ja.wikipedia.org/wiki/ダゼー・ファンク_Jr. "wikilink")）
+  - 2020年7月「黒潮“イケメン”二郎とジャイアント馬場バルで飲み会」にゲスト出演（他ゲスト：[立花誠吾](https://ja.wikipedia.org/wiki/立花誠吾 "wikilink")、[元井美貴](https://ja.wikipedia.org/wiki/元井美貴 "wikilink")、[ダゼー ・ファンクJr.](https://ja.wikipedia.org/wiki/ダゼー・ファンク_Jr. "wikilink")）
 
 ### CM
 
@@ -100,7 +101,7 @@
 
 ## 外部リンク
 
-  - [ユリオカ超特Q](http://www.top-color.jp/?page_id=146) - 所属事務所によるプロフィール
+  - [ユリオカ超特Q](https://toruba.net/talent/yuriokachotokkyu/) - 所属事務所によるプロフィール
 
   - [ユリオカ超特Qオフィシャルブログ「新・らっしゃい！ブログ」](https://ameblo.jp/yuri-q/)
 

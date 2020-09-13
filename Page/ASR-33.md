@@ -3,7 +3,7 @@
 
 [ASR-33外観
 **\* 左端手前**：[紙テープ](../Page/紙テープ.md "wikilink")読取部
-**\*左端中と奥**：[紙テープ](../Page/紙テープ.md "wikilink")穿孔部と奥の穿孔前の[紙テープ](../Page/紙テープ.md "wikilink")[ロール](../Page/ロール.md "wikilink")
+**\*左端中と奥**：[紙テープ](../Page/紙テープ.md "wikilink")穿孔部と奥の穿孔前の[紙テープ](../Page/紙テープ.md "wikilink")ロール
 **\*奥中央**：[黄色](../Page/黄色.md "wikilink")のロール[印刷](../Page/印刷.md "wikilink")用紙
 **\*右端前後**：[電源](../Page/電源.md "wikilink")部を内蔵](https://ja.wikipedia.org/wiki/File:ASR-33_2.jpg "fig:ASR-33外観 * 左端手前：紙テープ読取部 *左端中と奥：紙テープ穿孔部と奥の穿孔前の紙テープロール *奥中央：黄色のロール印刷用紙 *右端前後：電源部を内蔵")
 

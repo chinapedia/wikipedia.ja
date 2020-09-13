@@ -285,7 +285,7 @@ Darwinは[フリーソフトウェア](../Page/フリーソフトウェア.md "w
 10. Siracusa, John (October 28, 2007). ["Mac OS X 10.5 Leopard: the Ars Technica review."](http://arstechnica.com/reviews/os/mac-os-x-10-5.ars) *[Ars Technica](https://ja.wikipedia.org/wiki/Ars_Technica "wikilink")*. Retrieved on 2008-05-30.
 11. Siracusa, John (August 31, 2009). ["Mac OS X 10.6 Snow Leopard: the Ars Technica review."](http://arstechnica.com/apple/reviews/2009/08/mac-os-x-10-6.ars) *[Ars Technica](https://ja.wikipedia.org/wiki/Ars_Technica "wikilink")*. Retrieved on 2009-11-29.
 12. Prabhakar, Ernie (November 9, 2001). ["Darwin Version - New Scheme in Software Update 1."](http://lists.apple.com/archives/darwin-development/2001/Nov/msg00189.html) Apple Mailing Lists. Retrieved on 2008-06-02.
-13. OpenDarwin Core Team and Administrators (July 25, 2006). ["OpenDarwin Shutting Down."](http://web.archive.org/web/20070409155747/http://www.opendarwin.org/en/news/shutdown.html) OpenDarwin Project. Retrieved on 2007-04-16.
+13. OpenDarwin Core Team and Administrators (July 25, 2006). ["OpenDarwin Shutting Down."](https://web.archive.org/web/20070409155747/http://www.opendarwin.org/en/news/shutdown.html) OpenDarwin Project. Retrieved on 2007-04-16.
 14. [PureDarwin Download Page](http://www.puredarwin.org/downloads).
 15.
 16.

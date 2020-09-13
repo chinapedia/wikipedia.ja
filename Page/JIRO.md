@@ -3,7 +3,7 @@
 
 **JIRO**（ジロウ、[1972年](../Page/1972年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")で、[GLAY](../Page/GLAY.md "wikilink")兼[THE PREDATORSの](../Page/THE_PREDATORS.md "wikilink")[ベーシスト](../Page/ベーシスト.md "wikilink")として知られる。本名、**和山 義仁**（わやま よしひと）。
 
-[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[函館市](../Page/函館市.md "wikilink")出身。[函館大谷高等学校](../Page/函館大谷高等学校.md "wikilink")卒業。身長170.3cm。既婚。
+[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[函館市](../Page/函館市.md "wikilink")出身。[函館大谷高等学校](../Page/函館大谷高等学校.md "wikilink")卒業。身長171.0cm。
 
 ## 人物
 
@@ -18,7 +18,7 @@
   - 趣味は[カメラ](../Page/カメラ.md "wikilink")と[スノーボード](../Page/スノーボード.md "wikilink")。特にカメラは、空や風景などを撮るのが好きで、GLAYの会報内でコーナーも設けられている。このコーナーでは、ファンからの投稿も採用し、その時々の季節感やテーマにそっている。また、シングル「[Precious](https://ja.wikipedia.org/wiki/Precious_\(GLAYの曲\) "wikilink")」では、JIROが撮影した写真がCDのジャケットに用いられている。
   - GLAYでも[THE PREDATORSでも](../Page/THE_PREDATORS.md "wikilink")、稀に作曲をする。自身が作曲したGLAYの楽曲「SHUTTER SPEEDSのテーマ」は、特にライブでも盛り上がる楽曲となっている。
   - GLAYでは[TERU](../Page/TERU.md "wikilink")に次いでメインボーカルを担当することがあり、「[SHUTTER SPEEDSのテーマ](https://ja.wikipedia.org/wiki/BELOVED_\(GLAYのアルバム\)#収録曲 "wikilink")」「[ストロベリーシェイク](https://ja.wikipedia.org/wiki/BE_WITH_YOU_\(GLAYの曲\)#収録曲 "wikilink")」「[THE BIRTHDAY GIRL](https://ja.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.1_〜SUPER_BEST_OF_GLAY〜#Disc_3 "wikilink")」などで自ら歌っている。なお、2005年からは、[THE PREDATORSのベーシストとしても活躍](../Page/THE_PREDATORS.md "wikilink")。
-  - HISASHIとは、なぜか2人きりになると気まずいムードになってしまうことが多いとのこと。ただ、決して仲が悪いわけではない。メジャーデビューから10年経ってようやく2人きりで飲みに行った、とのこと。
+  - HISASHIとは、なぜか2人きりになると気まずいムードになってしまうことが多いとのこと。ただ、決して仲が悪いわけではない。
   - インディーズ時代は「ハツリ屋」などのバイトをしていた。
   - TAKUROから新曲を聴かせられた際、TAKUROに対し「古いよ」と意見した事がある。TAKUROはこれまでにない自信作としてメンバーに新曲を聴かせたが、JIROだけが頭を抱えており、TAKUROが歩み寄り「この歌は俺自身なんだよね」と言いかける寸前に「TAKUROくん、こういうのって古いんだよね」と言われ、TAKUROは「俺は古いのか〜」とJIROに気付かされたとのこと。このエピソードは、TAKURO自身が「音楽活動をしていて一番辛かったこと」として語っている。
   - [レッド・ホット・チリ・ペッパーズ](../Page/レッド・ホット・チリ・ペッパーズ.md "wikilink")、[レディオヘッド](../Page/レディオヘッド.md "wikilink")、[ニルヴァーナ](../Page/ニルヴァーナ_\(アメリカ合衆国のバンド\).md "wikilink")、[チャットモンチー](../Page/チャットモンチー.md "wikilink")のファン。
@@ -118,7 +118,7 @@ GLAYのプロデューサー[佐久間正英](../Page/佐久間正英.md "wikili
 
 <!-- end list -->
 
-  - TopDog JRO-04-Silver PJ Type
+  - JRO-04-SilverTopDog PJ Type
   - TopDog RD Type
   - G\&L SB-2
   - G\&L L2000 (CUSTOM MODEL)
@@ -138,6 +138,15 @@ GLAYのプロデューサー[佐久間正英](../Page/佐久間正英.md "wikili
   -
     メジャーデビューシングル「[RAIN](../Page/RAIN_\(GLAYの曲\).md "wikilink")」のレコーディングで初めてロサンゼルスを訪れた際に購入したベース。'72年製。TopDogよりも前から所有しており、メジャー・デビュー時のメインベースだった。
     コントロール部の大きなツマミはバリトーン・スイッチで、音色を4つのモードに切り替えが可能。また、低音弦（4・3弦）の音が大きいということで、全弦のバランスを取るべく各ピックアップの高さは2・1弦側を高めに設定されている。
+
+<!-- end list -->
+
+  - [TEISCO](https://ja.wikipedia.org/wiki/テスコ_\(楽器メーカー\) "wikilink") SPECTRUM BASS
+
+<!-- end list -->
+
+  -
+    HEAVY GAUGEツアーで使用。ツアー中にバンドからの脱退を考えるほどの精神状態から立ち直り始めた頃、回復を実感できたことでテンションが上がりライブ中に思わず放り投げてしまい、「唯一ぶん投げたベース」として思い入れのある機材だという。
 
 <!-- end list -->
 

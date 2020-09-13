@@ -37,8 +37,8 @@
 **特急形**
 
   - [キハ185系](../Page/国鉄キハ185系気動車.md "wikilink")（[うずしお](../Page/うずしお_\(列車\).md "wikilink")・[剣山](../Page/剣山_\(列車\).md "wikilink")・[むろと](../Page/むろと_\(列車\).md "wikilink")）
-  - [2000系](../Page/JR四国2000系気動車.md "wikilink")（[南風](../Page/南風_\(列車\).md "wikilink")・[しまんと](../Page/しまんと_\(列車\).md "wikilink")・[あしずり](../Page/あしずり_\(列車\).md "wikilink")・[宇和海](../Page/宇和海_\(列車\).md "wikilink")・うずしお・[ミッドナイトEXP高松・モーニングEXP高松](../Page/いしづち_\(列車\).md "wikilink")）
-  - [2600系](https://ja.wikipedia.org/wiki/JR四国2600系気動車 "wikilink")（[うずしお](../Page/うずしお_\(列車\).md "wikilink")）
+  - [2000系](../Page/JR四国2000系気動車.md "wikilink")（[南風](../Page/南風_\(列車\).md "wikilink")・[しまんと](../Page/しまんと_\(列車\).md "wikilink")・[あしずり](../Page/あしずり_\(列車\).md "wikilink")・[宇和海](../Page/宇和海_\(列車\).md "wikilink")・[ミッドナイトEXP高松・モーニングEXP高松](../Page/いしづち_\(列車\).md "wikilink")）
+  - [2600系](https://ja.wikipedia.org/wiki/JR四国2600系気動車 "wikilink")（うずしお）
   - [2700系](https://ja.wikipedia.org/wiki/JR四国2700系気動車 "wikilink")（南風・うずしお・しまんと・あしずり）
 
 **一般形**

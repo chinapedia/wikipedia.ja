@@ -3,7 +3,7 @@
 
 <File:Synclavier1> JB.jpg|[シンクラヴィア](../Page/シンクラヴィア.md "wikilink")I (1975年) <File:YAMAHA> GS1 (inside, CCRMA).jpg|ヤマハ・GS1 (1980年) <File:YAMAHA_DX7.jpg>|[ヤマハ・DX7](../Page/ヤマハ・DXシリーズ.md "wikilink") (1983年)
 
-**FM音源**（エフエムおんげん）は、Frequency Modulation（[周波数変調](../Page/周波数変調.md "wikilink")）を応用する音色合成方式を用いた[音源](../Page/音源.md "wikilink")。を中心として[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")のCCRMA（Center for Computer Research in Music and Acoustics）で開発されたものを、[日本楽器製造（現・ヤマハ）がライセンスを受け実用化した](../Page/ヤマハ.md "wikilink")\[1\]。ヤマハによれば、実際にはPhase Modulation（[位相変調](../Page/位相変調.md "wikilink")）によって実装されている\[2\]。
+**FM音源**（エフエムおんげん）は、Frequency Modulation（[周波数変調](../Page/周波数変調.md "wikilink")）を応用する音色合成方式を用いた[音源](../Page/音源.md "wikilink")。[ジョン・チャウニング](../Page/ジョン・チャウニング.md "wikilink")を中心として[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")のCCRMA（Center for Computer Research in Music and Acoustics）で開発されたものを、[日本楽器製造（現・ヤマハ）がライセンスを受け実用化した](../Page/ヤマハ.md "wikilink")\[1\]。ヤマハによれば、実際にはPhase Modulation（[位相変調](../Page/位相変調.md "wikilink")）によって実装されている\[2\]。
 
 基本波形の発振・変調をおこなう合成器（オペレータと呼ばれる）を複数組み合わせて音色を合成する。数学的には発振機構が[二重振り子](../Page/二重振り子.md "wikilink")のような非線形演算に基づいているため、演奏に合わせて波形生成のパラメーターを変化させることにより倍音成分が大きく変化し、音色を劇的に変化させることが可能である。しかし、その挙動は[カオスであるため](../Page/カオス理論.md "wikilink")、パラメータの変動による倍音変化は予測し難い。
 
@@ -221,7 +221,7 @@ FM音源は長らく特許であったため、他社から採用機種が発売
 
 ## 関連書籍
 
-[ジョン・チョウニング](https://ja.wikipedia.org/wiki/ジョン・チョウニング "wikilink")著、[デビッド・ブリストウ](https://ja.wikipedia.org/wiki/デビッド・ブリストウ "wikilink")著、広野幸治訳『DXシンセサイザーで学ぶFM理論と応用』ヤマハ音楽振興会、1986年、ISBN 4636208358
+[ジョン・チャウニング](../Page/ジョン・チャウニング.md "wikilink")著、[デビッド・ブリストウ](https://ja.wikipedia.org/wiki/デビッド・ブリストウ "wikilink")著、広野幸治訳『DXシンセサイザーで学ぶFM理論と応用』ヤマハ音楽振興会、1986年、ISBN 4636208358
 
 ## 脚注
 
@@ -236,6 +236,7 @@ FM音源は長らく特許であったため、他社から採用機種が発売
   - [シンクラヴィア](../Page/シンクラヴィア.md "wikilink")
   - [AudioEngine](../Page/AudioEngine.md "wikilink")
   - [LA音源](../Page/LA音源.md "wikilink")
+  - [ジョン・チャウニング](../Page/ジョン・チャウニング.md "wikilink")
 
 [Category:シンセサイザー](https://ja.wikipedia.org/wiki/Category:シンセサイザー "wikilink") [Category:電子音源の合成方式](https://ja.wikipedia.org/wiki/Category:電子音源の合成方式 "wikilink") [Category:音源チップ](https://ja.wikipedia.org/wiki/Category:音源チップ "wikilink") [Category:ハードウェア](https://ja.wikipedia.org/wiki/Category:ハードウェア "wikilink")
 

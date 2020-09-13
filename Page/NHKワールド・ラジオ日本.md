@@ -20,7 +20,7 @@
 
 <!-- end list -->
 
-  - [1937年](../Page/1937年.md "wikilink")4月1日 - 海外放送で[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")の使用を開始（この年、4月2日 [ドイツ語](../Page/ドイツ語.md "wikilink")、8月3日 [スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")、8月23日 [中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")も放送開始）
+  - [1937年](../Page/1937年.md "wikilink")4月1日 - 海外放送で[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")の使用を開始（この年、4月2日 [ドイツ語](../Page/ドイツ語.md "wikilink")、8月3日 [スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")、8月23日 [中国語](../Page/中国語.md "wikilink")も放送開始）
 
 <!-- end list -->
 
@@ -198,7 +198,7 @@ NHKは基本的に[NHK受信料](https://ja.wikipedia.org/wiki/NHK受信料 "wik
 ### [アジア](../Page/アジア.md "wikilink")地域向け
 
   - [朝鮮語](../Page/朝鮮語.md "wikilink")
-  - [中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")
+  - [中国語](../Page/中国語.md "wikilink")
   - [ヒンディー語](../Page/ヒンディー語.md "wikilink")
   - [ミャンマー（ビルマ）語](../Page/ビルマ語.md "wikilink")
   - [ベンガル語](../Page/ベンガル語.md "wikilink")
@@ -272,7 +272,8 @@ NHKは基本的に[NHK受信料](https://ja.wikipedia.org/wiki/NHK受信料 "wik
 ## 外部リンク
 
   - [NHKワールド JAPAN](https://www3.nhk.or.jp/nhkworld/ja/)（ラジオを含むNHK国際放送に関する内容）
-      - [ラジオ日本オンライン](https://www3.nhk.or.jp/nhkworld/en/radio/)（日本語を含む18ヶ国語のニュースのライブストリーミング配信）
+      - [ラジオ日本オンライン](https://www3.nhk.or.jp/nhkworld/en/radio/)（日本語を含む18ヶ国語のニュースのライブストリーミング配信）　
+      - [海外放送はじまる | NHK放送史（動画・記事）](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009060033_00000)
       - [南極向け試験放送](http://radiofly.to/wiki/?%C6%EE%B6%CB%B8%FE%A4%B1%CA%FC%C1%F7)（radiofly放送博物誌）
   - [世界の放送局情報（NHK国際放送「ラジオ日本」）](http://www.wavehandbook.com/jp/dig-dig.html#RJPN)（放送時間帯と周波数）
   - [外務省 海外安全ホームページ｜重要なお知らせ 短波ラジオの重要性を見直してください](https://www.anzen.mofa.go.jp/c_info/oshirase_tanpa.html) - [外務省](../Page/外務省.md "wikilink")

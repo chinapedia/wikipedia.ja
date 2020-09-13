@@ -7,7 +7,7 @@
 
 本シングルは三つの[ピアノ曲](../Page/ピアノ曲.md "wikilink")で構成され、[坂本龍一](../Page/坂本龍一.md "wikilink")の[アルバム](../Page/アルバム.md "wikilink")『[BTTB](../Page/BTTB.md "wikilink")』に引き続いて発売された。タイトルの正式な表記は「B」の文字を左右反転の鏡文字にしている（[ABBA](../Page/ABBA.md "wikilink")の1文字目のBと同様）。
 
-[CM曲として使われたエナジー](../Page/コマーシャルソング.md "wikilink")・フロー(energy flow)の人気、当時注目された収録曲、そして坂本龍一の知名度を背景に、このシングルが大ヒット。[インストゥルメンタルのシングルとしては初めて](../Page/器楽曲.md "wikilink")、週間の[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位を記録\[1\]\[2\]\[3\]（それまでの記録は[1992年](../Page/1992年.md "wikilink")、[松本孝弘](../Page/松本孝弘.md "wikilink")『[\#1090 〜Thousand Dreams〜](../Page/1090_〜Thousand_Dreams〜.md "wikilink")』の2位）。その後も10週連続でトップ10入りし、累計155.0万枚（オリコン調べ）または累計180万枚（公称）\[4\]を記録した。
+[CM曲として使われたエナジー](../Page/コマーシャルソング.md "wikilink")・フロー(energy flow)の人気、当時注目された収録曲、そして坂本龍一の知名度を背景に、このシングルが大ヒット。[インストゥルメンタルのシングルとしては初めて](../Page/器楽曲.md "wikilink")、週間の[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位を記録\[1\]\[2\]\[3\]（それまでの記録は[1992年](../Page/1992年.md "wikilink")、[松本孝弘](../Page/松本孝弘.md "wikilink")『[\#1090 〜Thousand Dreams〜](../Page/＃1090_〜Thousand_Dreams〜.md "wikilink")』の2位）。その後も10週連続でトップ10入りし、累計155.0万枚（オリコン調べ）または累計180万枚（公称）\[4\]を記録した。
 
 直接的な繋がりはないが、翌年に同系統の楽曲を収録した[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")「[〜the most relaxing〜 feel](https://ja.wikipedia.org/wiki/〜the_most_relaxing〜_feel "wikilink")」、「[image](https://ja.wikipedia.org/wiki/image_\(コンピレーション・アルバム\) "wikilink")」も[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")となり本作並みの売上枚数であったことから、事実上本曲が[イージーリスニング](../Page/イージーリスニング.md "wikilink")音楽による「[癒し](../Page/癒し.md "wikilink")ブーム」の火付け役と認識されるようになっている。
 
@@ -35,7 +35,7 @@
 
 ## 脚注
 
-[Category:坂本龍一の楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一の楽曲 "wikilink") [Category:坂本龍一が作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一が作詞作曲した楽曲 "wikilink") [Category:1999年のトリプルA面シングル](https://ja.wikipedia.org/wiki/Category:1999年のトリプルA面シングル "wikilink") [Category:1999年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink")
+[Category:坂本龍一の楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一の楽曲 "wikilink") [Category:坂本龍一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一が制作した楽曲 "wikilink") [Category:1999年のトリプルA面シングル](https://ja.wikipedia.org/wiki/Category:1999年のトリプルA面シングル "wikilink") [Category:1999年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink")
 
 1.  「坂本龍一氏のピアノCD 詞のない曲で初の1位 オリコンのシングル部門」『[日本経済新聞](../Page/日本経済新聞.md "wikilink")』1999年6月27日付、7頁。
 2.  「SATURDAY “X” NIKKEI 急降下する『瞬間消費』」『日本経済新聞』1999年7月3日付、31頁。

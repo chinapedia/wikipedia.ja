@@ -49,7 +49,7 @@
               - 7000番台（V編成・8両）：[こだま](../Page/こだま_\(列車\).md "wikilink") - 山陽新幹線内専用
           - [700系](../Page/新幹線700系電車.md "wikilink")
               - 0番台（C編成・16両）：[ひかり](../Page/ひかり_\(列車\).md "wikilink")・こだま - [東海道新幹線](https://ja.wikipedia.org/wiki/東海道新幹線 "wikilink")直通用／JR東海からの譲受車／2017年2月10日全廃
-              - 3000番台（B編成・16両）：ひかり・こだま - 東海道新幹線直通用
+              - 3000番台（B編成・16両）：ひかり・こだま - 東海道新幹線直通用／波動用
               - 7000番台（E編成・8両）：[ひかりレールスター](../Page/ひかりレールスター.md "wikilink")・こだま - 山陽新幹線内専用
           - [N700系](../Page/新幹線N700系電車.md "wikilink")
               - 3000番台（N編成・16両）：[のぞみ](https://ja.wikipedia.org/wiki/のぞみ_\(列車\) "wikilink")・ひかり・こだま - 東海道新幹線直通用／全車5000番台K編成へ改造され廃区分
@@ -59,8 +59,7 @@
       - **[北陸新幹線](https://ja.wikipedia.org/wiki/北陸新幹線 "wikilink")用**
           - [W7系](https://ja.wikipedia.org/wiki/新幹線E7系・W7系電車 "wikilink")（W編成・12両）：[かがやき](https://ja.wikipedia.org/wiki/かがやき_\(新幹線\) "wikilink")・[はくたか](https://ja.wikipedia.org/wiki/はくたか_\(列車\) "wikilink")・[つるぎ](../Page/つるぎ_\(列車\).md "wikilink")・[あさま](https://ja.wikipedia.org/wiki/あさま "wikilink")
   - **事業用**
-      - [923形](../Page/新幹線923形電車.md "wikilink")（3000番台・T5編成） - 山陽新幹線用
-      - 形式未定（[フリーゲージトレイン](../Page/軌間可変電車.md "wikilink")） - 北陸新幹線用
+      - [923形](../Page/新幹線923形電車.md "wikilink")（3000番台・T5編成） - 山陽新幹線用・ドクターイエロー
 
 #### 在来線
 
@@ -333,6 +332,12 @@
   - **車掌車**
       - [ヨ8000形](../Page/国鉄ヨ8000形貨車.md "wikilink")（[東武鉄道](../Page/東武鉄道.md "wikilink")に譲渡）
 
+## 計画のみ
+
+### 新幹線
+
+[フリーゲージトレイン](../Page/軌間可変電車.md "wikilink") - 2012年に北陸新幹線用として計画されたが、2018年8月27日の不採用決定により立ち消えとなった。
+
 ## 脚注
 
 ## 関連項目
@@ -349,10 +354,10 @@
 
   - [車両案内](http://www.jr-odekake.net/train/) - JRおでかけネット
 
-[Category:西日本旅客鉄道の車両](https://ja.wikipedia.org/wiki/Category:西日本旅客鉄道の車両 "wikilink") [Category:形式](https://ja.wikipedia.org/wiki/Category:形式 "wikilink")
+[Category:西日本旅客鉄道の車両](https://ja.wikipedia.org/wiki/Category:西日本旅客鉄道の車両 "wikilink") [Category:鉄道車両の形式称号](https://ja.wikipedia.org/wiki/Category:鉄道車両の形式称号 "wikilink")
 
 1.  [データで見るJR西日本](http://www.westjr.co.jp/company/info/issue/data/) p.119では気動車についても「通勤形及び近郊形」と記しているが、2014年時点で通勤形や近郊形に分類される気動車は導入していない。
-2.  2019年現在、百位の数字が「1」「2」で十位の数字が「8」の特急型電車は計画のみを含め一位の数字をすべて使いきったため、2020年導入予定の271系で「7」の使用が開始された。
+2.  2019年現在、百位の数字が「1」「2」で十位の数字が「8」の特急型電車は計画のみを含め一位の数字をすべて使いきったため、2020年導入の271系で「7」の使用が開始された。
 3.  [データで見るJR西日本](http://www.westjr.co.jp/company/info/issue/data/) p.119
 4.  [データで見るJR西日本](http://www.westjr.co.jp/company/info/issue/data/) p.123
 5.

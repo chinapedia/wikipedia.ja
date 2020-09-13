@@ -275,7 +275,7 @@ NHK鹿児島放送局、MBCテレビ、<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/有田雅明.md" title="wikilink">有田雅明</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/岩元良介" title="wikilink">岩元良介</a></p></td>
 <td><p><a href="../Page/NHK福岡放送局.md" title="wikilink">福岡</a></p></td>
 <td><p>放送部副部長<br />
 鹿児島県のニュース</p></td>
@@ -287,8 +287,8 @@ NHK鹿児島放送局、MBCテレビ、<br />
 （キャスター）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/内美登志" title="wikilink">内美登志</a></p></td>
-<td><p><a href="../Page/NHK仙台放送局.md" title="wikilink">仙台</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/荒井匡" title="wikilink">荒井匡</a></p></td>
+<td><p><a href="../Page/NHK放送センター.md" title="wikilink">ラジオセンター</a></p></td>
 <td><p>鹿児島県のニュース</p></td>
 </tr>
 <tr class="odd">
@@ -302,7 +302,7 @@ NHK鹿児島放送局、MBCテレビ、<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/宮本真智" title="wikilink">宮本真智</a></p></td>
+<td><p><a href="../Page/宮本真智.md" title="wikilink">宮本真智</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -312,19 +312,19 @@ NHK鹿児島放送局、MBCテレビ、<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/伊﨑都子" title="wikilink">伊﨑都子</a></p></td>
-<td><p><a href="../Page/NHK長崎放送局.md" title="wikilink">長崎</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/當麻陽香" title="wikilink">當麻陽香</a></p></td>
+<td></td>
 <td><p><a href="../Page/ひるまえクルーズかごしま.md" title="wikilink">ひるまえクルーズかごしま</a><br />
 （キャスター）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/大橋舞子" title="wikilink">大橋舞子</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/宮田侑季" title="wikilink">宮田侑季</a></p></td>
 <td><p>|</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/久木山文女" title="wikilink">久木山文女</a></p></td>
-<td><p><a href="../Page/NHK宮崎放送局.md" title="wikilink">宮崎</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/宮島実結" title="wikilink">宮島実結</a></p></td>
+<td></td>
 <td><p>情報WAVEかごしま<br />
 （キャスター）</p></td>
 </tr>
@@ -339,7 +339,7 @@ NHK鹿児島放送局、MBCテレビ、<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/今村聡" title="wikilink">今村聡</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/神谷亜弓" title="wikilink">神谷亜弓</a></p></td>
 <td></td>
 <td><p>|情報WAVEかごしま</p></td>
 </tr>

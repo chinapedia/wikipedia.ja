@@ -42,7 +42,7 @@
 
 ### 「スポーツ Dash\!\!」担当
 
-  - [木内亮](https://ja.wikipedia.org/wiki/木内亮 "wikilink") - 湯浅と1週交替で出演。
+  - [木内亮](../Page/木内亮.md "wikilink") - 湯浅と1週交替で出演。
   - [湯浅明彦](../Page/湯浅明彦.md "wikilink") - 木内と1週交替で出演。
 
 ### 「防災1.17」担当

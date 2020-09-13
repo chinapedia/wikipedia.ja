@@ -33,7 +33,7 @@ NHKラジオ第1の17年ぶりの大改編により2008年3月をもって番組
   - [嶋津八生](https://ja.wikipedia.org/wiki/嶋津八生 "wikilink")
   - [田中和夫](https://ja.wikipedia.org/wiki/田中和夫 "wikilink")
   - [飯野奈津子](https://ja.wikipedia.org/wiki/飯野奈津子 "wikilink")
-  - [谷田部雅嗣](https://ja.wikipedia.org/wiki/谷田部雅嗣 "wikilink")
+  - [谷田部雅嗣](../Page/谷田部雅嗣.md "wikilink")
   - [五十嵐公利](https://ja.wikipedia.org/wiki/五十嵐公利 "wikilink")
   - [平石富男](https://ja.wikipedia.org/wiki/平石富男 "wikilink")
   - [山本浩](../Page/山本浩.md "wikilink")

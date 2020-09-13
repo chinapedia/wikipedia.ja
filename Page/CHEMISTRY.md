@@ -14,7 +14,7 @@
         [1979年](../Page/1979年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")生まれ。身長173cm、血液型: A型。立ち位置は向かって右。
   - **[堂珍嘉邦](../Page/堂珍嘉邦.md "wikilink")** (どうちん よしくに)
       -
-        [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[11月17日](../Page/11月17日.md "wikilink")生まれ。身長174cm、[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink"): O型。立ち位置は向かって左。
+        [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[11月17日](../Page/11月17日.md "wikilink")生まれ。身長174cm、[血液型](../Page/ABO式血液型.md "wikilink"): O型。立ち位置は向かって左。
 
 ## 来歴
 
@@ -1323,7 +1323,7 @@
 
 | 楽曲                                                                                                                                       | タイアップ                                                                                                                                                                            |             |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| PIECES OF A DREAM                                                                                                                        | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』 エンディングテーマ                                                    |             |
+| PIECES OF A DREAM                                                                                                                        | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』 エンディングテーマ ReLIFE11話ED                                        |             |
 | You Go Your Way                                                                                                                          | [サントリー](../Page/サントリー.md "wikilink")「[BOSS](../Page/BOSSコーヒー.md "wikilink")」CMソング                                                                                                | 本人出演        |
 | 君をさがしてた〜New Jersey United〜                                                                                                               | [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ウエディングプランナー SWEETデリバリー](https://ja.wikipedia.org/wiki/ウエディングプランナー_SWEETデリバリー "wikilink")』主題歌                     |             |
 | Let's Get Together Now                                                                                                                   | [2002 FIFAワールドカップ公式テーマ曲](../Page/2002_FIFAワールドカップ.md "wikilink")                                                                                                                 |             |

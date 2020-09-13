@@ -1,7 +1,7 @@
 > この記事は[Robocode](https://ja.wikipedia.org/wiki/Robocode)から翻訳されています。
 
 
-**Robocode**（ロボコード）は、[オープンソース](../Page/オープンソース.md "wikilink")の[教育](../Page/教育.md "wikilink")[ゲーム](../Page/ゲーム.md "wikilink")である。[Java](https://ja.wikipedia.org/wiki/Java "wikilink")やVer1.7.2以降の[.NET Framework](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink")（[C\#](https://ja.wikipedia.org/wiki/C# "wikilink")や[VB.NET](https://ja.wikipedia.org/wiki/VB.NET "wikilink")など）の熟達に役立つ。 単純なロボットはわずか数分で作成できるが、本格的に完成させる場合は数ヶ月かかることがある。
+『**Robocode**』（ロボコード）は、[オープンソース](../Page/オープンソース.md "wikilink")の[教育](../Page/教育.md "wikilink")[ゲーム](../Page/ゲーム.md "wikilink")である。[Java](https://ja.wikipedia.org/wiki/Java "wikilink")やVer1.7.2以降の[.NET Framework](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink")（[C\#](https://ja.wikipedia.org/wiki/C# "wikilink")や[VB.NET](https://ja.wikipedia.org/wiki/VB.NET "wikilink")など）の熟達に役立つ。 単純なロボットはわずか数分で作成できるが、本格的に完成させる場合は数ヶ月かかることがある。
 
 ## 内容
 

@@ -109,8 +109,8 @@ baseよしもととしては、11年の歴史を刻んできたが、[2010年](h
   - **[アイスクリーム](../Page/アイスクリーム_\(お笑いコンビ\).md "wikilink")**（元：勝山梶、卒業の後コンビ解散）
   - **[R藤本](https://ja.wikipedia.org/wiki/R藤本 "wikilink")**
   - **[2700](https://ja.wikipedia.org/wiki/2700_\(お笑いコンビ\) "wikilink")**
-  - **[トリプルエンジョイ](https://ja.wikipedia.org/wiki/トリプルエンジョイ "wikilink")**
-  - **[野球家族](https://ja.wikipedia.org/wiki/野球家族 "wikilink")**（元：TV BOYS）
+  - **[トリプルエンジョイ](https://ja.wikipedia.org/wiki/トリプルエンジョイ "wikilink")**（解散）
+  - **[野球家族](https://ja.wikipedia.org/wiki/野球家族 "wikilink")**（元：TV BOYS、解散）
   - **[たいよう](https://ja.wikipedia.org/wiki/たいよう_\(お笑いコンビ\) "wikilink")**（[グレープカンパニー](https://ja.wikipedia.org/wiki/グレープカンパニー "wikilink")に移籍後、2012年解散）
   - **[ゼミナールキッチン](https://ja.wikipedia.org/wiki/ゼミナールキッチン "wikilink")**（「クララ」に改名した後に解散）
 
@@ -118,9 +118,9 @@ baseよしもととしては、11年の歴史を刻んできたが、[2010年](h
 
 【ワラbメンバー】
 
-  - **[GAG少年楽団](../Page/GAG_\(お笑いトリオ\).md "wikilink")** 「笑劇のコントトリオ」
+  - **[GAG](../Page/GAG_\(お笑いトリオ\).md "wikilink")** （旧：GAG少年楽団） 「笑劇のコントトリオ」
   - **[天竺鼠](../Page/天竺鼠.md "wikilink")** 「薩摩発シュールコント」
-  - [プリマ旦那](https://ja.wikipedia.org/wiki/プリマ旦那 "wikilink")(現・令和喜多みな実)
+  - [令和喜多みな実](https://ja.wikipedia.org/wiki/令和喜多みな実 "wikilink")（旧：プリマ旦那）
   - [斉藤紳士](https://ja.wikipedia.org/wiki/斉藤紳士 "wikilink")
   - [スーパーマラドーナ](../Page/スーパーマラドーナ.md "wikilink") 「リアル弱肉強食関係」
   - '''[かまいたち](../Page/かまいたち_\(お笑いコンビ\).md "wikilink") ''' 「笑いと期待がふくらむ」
@@ -141,13 +141,13 @@ baseよしもととしては、11年の歴史を刻んできたが、[2010年](h
 
 【プチbメンバー】
 
-  - **[ポラロイドマガジン](https://ja.wikipedia.org/wiki/ポラロイドマガジン "wikilink")**
-  - [かりんとう](https://ja.wikipedia.org/wiki/かりんとう_\(お笑いコンビ\) "wikilink") 「爆笑和み系コント」
+  - **[ニュークレープ](https://ja.wikipedia.org/wiki/ニュークレープ "wikilink")**（旧：ポラロイドマガジン）
+  - [カリントウ](https://ja.wikipedia.org/wiki/カリントウ_\(お笑いコンビ\) "wikilink")（旧：かりんとう） 「爆笑和み系コント」
   - **[ウーマンラッシュアワー](https://ja.wikipedia.org/wiki/ウーマンラッシュアワー "wikilink")** 「女性の味方⁉」
   - ドレッドノート（解散）
   - [タナからイケダ](https://ja.wikipedia.org/wiki/タナからイケダ "wikilink")
-  - [天使と悪魔](https://ja.wikipedia.org/wiki/てんしとあくま "wikilink")
-  - **土佐駒**
+  - [てんしとあくま](https://ja.wikipedia.org/wiki/てんしとあくま "wikilink")（旧：天使と悪魔）
+  - **[ロングロング](https://ja.wikipedia.org/wiki/ロングロング "wikilink")**（旧：土佐駒）
   - 回転ハッスル
   - **[トット](https://ja.wikipedia.org/wiki/トット "wikilink")**
   - [ミルクボーイ](https://ja.wikipedia.org/wiki/ミルクボーイ "wikilink")
@@ -167,9 +167,9 @@ baseよしもととしては、11年の歴史を刻んできたが、[2010年](h
   - [ビタミンS](../Page/ビタミンS.md "wikilink")
   - [ハム](../Page/ハム_\(お笑いコンビ\).md "wikilink")（2011年解散）
   - [女と男](../Page/女と男.md "wikilink")
-  - [なんばよこやま](../Page/なんばよこやま.md "wikilink")（旧: 難波横山）
+  - [なんばよこやま](../Page/なんばよこやま.md "wikilink")（旧: 難波横山、2010年解散）
   - [ワタルwithオカン](../Page/ワタルwithオカン.md "wikilink")（解散）
-  - [丼](../Page/ハニートラップ_\(お笑い\).md "wikilink")
+  - [ハニートラップ](../Page/ハニートラップ_\(お笑い\).md "wikilink")（旧：丼）
   - [ザ・ツタンカーメンズ](https://ja.wikipedia.org/wiki/ザ・ツタンカーメンズ "wikilink")（解散）
   - [プルートボブ](https://ja.wikipedia.org/wiki/プルートボブ "wikilink")（解散）
   - [ビコーン\!](../Page/ビコーン!.md "wikilink")（旧: まいなすしこう）
@@ -180,7 +180,7 @@ baseよしもととしては、11年の歴史を刻んできたが、[2010年](h
   - **[バンビーノ](https://ja.wikipedia.org/wiki/バンビーノ_\(お笑い\) "wikilink")**
   - [ツートライブ](https://ja.wikipedia.org/wiki/ツートライブ "wikilink")
   - ゴールドハンマー
-  - パニーニ
+  - **[パニーニ](https://ja.wikipedia.org/wiki/パニーニ_\(お笑いコンビ\) "wikilink")**
   - [カバと爆ノ介](https://ja.wikipedia.org/wiki/カバと爆ノ介 "wikilink")(解散)
   - おにく
   - 握り拳（一度解散し再結成）
@@ -195,7 +195,7 @@ baseよしもととしては、11年の歴史を刻んできたが、[2010年](h
   - サイドエイト（解散後、水城はりょうへいとネギぽんず結成）
   - ショットガン
   - 山が動く（現在寺岡のみ活動中）
-  - バカンス食堂
+  - バカンス食堂（2013年解散）
   - [ラフ次元](https://ja.wikipedia.org/wiki/ラフ次元 "wikilink")
   - モスグリーン
   - すぴっぴ（解散後、福井はクレイジージェントルメンとなる）
@@ -204,7 +204,7 @@ baseよしもととしては、11年の歴史を刻んできたが、[2010年](h
   - セキハンチャーハン
   - ゆうきたけし（現在東京で活動中）
   - ところてん
-  - [コーンスターチ](https://ja.wikipedia.org/wiki/コーンスターチ_\(お笑いコンビ\) "wikilink")
+  - [コーンスターチ](https://ja.wikipedia.org/wiki/コーンスターチ_\(お笑いコンビ\) "wikilink")（2017年解散）
   - モンゴリアンパンプキンズ
   - マスタング
   - テンダーロイン
@@ -220,11 +220,11 @@ baseよしもととしては、11年の歴史を刻んできたが、[2010年](h
   - マッキンチョム
   - ツインゴリラ（解散後、萩原はワシントン（解散）門田はサンピン定食となる）
   - [らんちきハイツ](https://ja.wikipedia.org/wiki/らんちきハイツ "wikilink")
-  - 三輪小谷（みわこたに）
-  - アストロNエース
-  - シャイニングスターズ
+  - みわこたに（旧：三輪小谷　2013年解散）
+  - アストロNエース（2011年解散）
+  - シャイニングスターズ（2019年解散）
   - **[尼神インター](https://ja.wikipedia.org/wiki/尼神インター "wikilink")**
-  - [中張又張](https://ja.wikipedia.org/wiki/中張又張 "wikilink")
+  - [中張又張](https://ja.wikipedia.org/wiki/中張又張 "wikilink")（2013年解散）
   - ゲラゲラ
   - [セルライトスパ](https://ja.wikipedia.org/wiki/セルライトスパ "wikilink")
 
@@ -246,7 +246,7 @@ baseよしもととしては、11年の歴史を刻んできたが、[2010年](h
   - 安心のカマグチ
   - [中山女子短期大学](https://ja.wikipedia.org/wiki/中山女子短期大学 "wikilink")
   - メキシコの風
-  - **シオマリアッチ（現在違う事務所で活動中）**
+  - **[シオマリアッチ](https://ja.wikipedia.org/wiki/シオマリアッチ "wikilink")**（[グレープカンパニー](https://ja.wikipedia.org/wiki/グレープカンパニー "wikilink")へ移籍）
   - がっき～（稲垣昌秋）
   - 愛植男
   - 横山義篤
@@ -268,30 +268,30 @@ baseよしもととしては、11年の歴史を刻んできたが、[2010年](h
 主な組
 
   - [モストデンジャラスコンビ](../Page/モストデンジャラスコンビ.md "wikilink")（小林友治はピン芸人[ケンドーコバヤシ](../Page/ケンドーコバヤシ.md "wikilink")として活動中、[村越周司](../Page/村越周司.md "wikilink")はピン芸人として活動中）
-  - [満](https://ja.wikipedia.org/wiki/満 "wikilink")（溝上は元「エグザミア」の福田善計と藤原直樹、元ピン芸人の安富郁矢、元[デモしかし](https://ja.wikipedia.org/wiki/デモしかし "wikilink")の高山和也と共に「[超新塾](../Page/超新塾.md "wikilink")」を結成。諸岡は[トーキョーハイライト](https://ja.wikipedia.org/wiki/トーキョーハイライト "wikilink")を立ち上げ）
-  - [みのなが](https://ja.wikipedia.org/wiki/みのなが "wikilink")
-  - [シェイクダウン](https://ja.wikipedia.org/wiki/シェイクダウン_\(お笑い\) "wikilink")（[後藤秀樹](../Page/後藤秀樹.md "wikilink")と[お～い\!久馬](https://ja.wikipedia.org/wiki/お～い!久馬 "wikilink")（[ザ・プラン9](../Page/ザ・プラン9.md "wikilink")）の組んでいたコンビ）
+  - [満](https://ja.wikipedia.org/wiki/満 "wikilink")（溝上は元「エグザミア」の福田善計と藤原直樹、元ピン芸人の安富郁矢、元[デモしかし](https://ja.wikipedia.org/wiki/デモしかし "wikilink")の高山和也と共に「[超新塾](../Page/超新塾.md "wikilink")」を結成。諸岡は「[トーキョーハイライト](https://ja.wikipedia.org/wiki/トーキョーハイライト "wikilink")」を立ち上げ）
+  - [みのなが](../Page/みのなが.md "wikilink")
+  - [シェイクダウン](https://ja.wikipedia.org/wiki/シェイクダウン_\(お笑い\) "wikilink")（[後藤秀樹](../Page/後藤秀樹.md "wikilink")と[お～い\!久馬](https://ja.wikipedia.org/wiki/お～い!久馬 "wikilink")（「[ザ・プラン9](../Page/ザ・プラン9.md "wikilink")」）の組んでいたコンビ）
   - [スキヤキ](https://ja.wikipedia.org/wiki/スキヤキ_\(お笑いコンビ\) "wikilink")（[土肥ポン太](../Page/土肥ポン太.md "wikilink")が組んでいたコンビ）
-  - [シンドバット](https://ja.wikipedia.org/wiki/シンドバット_\(お笑い\) "wikilink")（元[ザ・プラン9](../Page/ザ・プラン9.md "wikilink")の[鈴木つかさ](../Page/鈴木つかさ.md "wikilink")が組んでいたコンビ）
+  - [シンドバット](https://ja.wikipedia.org/wiki/シンドバット_\(お笑い\) "wikilink")（元「ザ・プラン9」の[鈴木つかさ](../Page/鈴木つかさ.md "wikilink")が組んでいたコンビ）
   - [ビリジアン](../Page/ビリジアン_\(お笑いコンビ\).md "wikilink")（[吉本新喜劇](../Page/吉本新喜劇.md "wikilink")座長の[小籔千豊](../Page/小籔千豊.md "wikilink")が組んでいたコンビ）
   - [大脇里村ゼミナール](../Page/大脇里村ゼミナール.md "wikilink")（大脇はピン芸人として活動後、「[あしゅら](https://ja.wikipedia.org/wiki/あしゅら_\(お笑い\) "wikilink")」を結成したが解散。現在はピン芸人「グイグイ大脇」として活動）
   - [ジェットコースター](../Page/ジェットコースター_\(お笑いコンビ\).md "wikilink")（田中は「[ステーキハウス](https://ja.wikipedia.org/wiki/ステーキハウス_\(お笑い\) "wikilink")」を結成）
-  - つばめがえし（本谷は「[ステーキハウス](https://ja.wikipedia.org/wiki/ステーキハウス_\(お笑い\) "wikilink")」を結成）
+  - つばめがえし（本谷は「ステーキハウス」を結成）
   - [日刊ナンセンス](https://ja.wikipedia.org/wiki/日刊ナンセンス "wikilink")（ボケの工村友臣は現在ピンで活動中）
   - [にのうらご](../Page/にのうらご.md "wikilink")（荒牧周平が脱退、その後西森と大林は「[モンスターエンジン](../Page/モンスターエンジン.md "wikilink")」を結成）
   - [ブロンクス](../Page/ブロンクス_\(お笑い\).md "wikilink")
   - [フロントストーリー](../Page/フロントストーリー.md "wikilink")（それぞれピン芸人として再始動、清水けんじは吉本新喜劇に入団）
-  - [バルチック艦隊](../Page/バルチック艦隊_\(お笑い\).md "wikilink")
+  - [バルチック艦隊](../Page/バルチック艦隊_\(お笑い\).md "wikilink")（「[すゑひろがりず](https://ja.wikipedia.org/wiki/すゑひろがりず "wikilink")」の三島達也が以前組んでいたコンビ）
   - 西海岸's
   - イーストウエスト2002
-  - [けもの道](https://ja.wikipedia.org/wiki/けもの道_\(お笑いコンビ\) "wikilink")（中立は「[ザ・ワールド](https://ja.wikipedia.org/wiki/ザ・ワールド_\(お笑い\) "wikilink")」（元無駄無駄ラッシュ）を結成）
-  - [ロデオボックス](https://ja.wikipedia.org/wiki/ロデオボックス "wikilink")（田中は「ザ・ワールド」（元無駄無駄ラッシュ）を結成、高須は「[たいよう](https://ja.wikipedia.org/wiki/たいよう_\(お笑いコンビ\) "wikilink")」を結成）
+  - [けもの道](https://ja.wikipedia.org/wiki/けもの道_\(お笑いコンビ\) "wikilink")（中立は「[ザ・ワールド](https://ja.wikipedia.org/wiki/ザ・ワールド_\(お笑い\) "wikilink")」（元「無駄無駄ラッシュ」）を結成）
+  - [ロデオボックス](https://ja.wikipedia.org/wiki/ロデオボックス "wikilink")（田中は「ザ・ワールド」（元「無駄無駄ラッシュ」）を結成、高須は「[たいよう](https://ja.wikipedia.org/wiki/たいよう_\(お笑いコンビ\) "wikilink")」を結成）
   - 漫才ゲリラ・シャンピアス（まつもとは元「ロデオボックス」の高須と「たいよう」を結成）
-  - 君と僕（「[ザ・プラン9](../Page/ザ・プラン9.md "wikilink")」のヤナギブソンが以前組んでいたコンビ）
+  - 君と僕（「[ザ・プラン9](../Page/ザ・プラン9.md "wikilink")」の[ヤナギブソン](../Page/ヤナギブソン.md "wikilink")が以前組んでいたコンビ）
   - ルービック（中西は「[さかなDVD](https://ja.wikipedia.org/wiki/さかなDVD "wikilink")」を結成）
   - [金時](../Page/金時_\(お笑い\).md "wikilink")（三輪は「ビリケンビリー」、「プロペラーズ」、「ケムリダマ」での活動後、「みわこたに」を結成。秋山は「[ソーセージ](../Page/ソーセージ_\(お笑い\).md "wikilink")」を経て、藤本の脱退後メンバーの山名文和と「[アキナ](https://ja.wikipedia.org/wiki/アキナ_\(お笑いコンビ\) "wikilink")」を結成して活動中）
-  - ビンチョウタン（藤本はトリオ「ソーセージ」を結成したが、自身の不祥事により脱退。その後元「ガトリングガン」の井尻とジュリエッタを結成）
-  - 河井山名（山名はトリオ「ソーセージ」を経て、藤本の脱退後メンバーの秋山賢太と「アキナ」を結成して活動中。[河井ゆずる](https://ja.wikipedia.org/wiki/河井ゆずる "wikilink")はピン芸人の後「アインシュタイン」を結成して活動中）
+  - ビンチョウタン（藤本はトリオ「ソーセージ」を結成したが、自身の不祥事により脱退。その後元「ガトリングガン」の井尻と「ジュリエッタ」を結成）
+  - 河井山名（山名はトリオ「ソーセージ」を経て、藤本の脱退後メンバーの秋山賢太と「アキナ」を結成して活動中。[河井ゆずる](https://ja.wikipedia.org/wiki/河井ゆずる "wikilink")はピン芸人の後「[アインシュタイン](https://ja.wikipedia.org/wiki/アインシュタイン_\(お笑い\) "wikilink")」を結成して活動中）
   - 暁
   - [足軽エンペラー](https://ja.wikipedia.org/wiki/足軽エンペラー "wikilink")（「[南海キャンディーズ](../Page/南海キャンディーズ.md "wikilink")」の[山里亮太](../Page/山里亮太.md "wikilink")が以前組んでいたコンビ）
   - 西中サーキット・山崎二宮（「南海キャンディーズ」の[山崎静代](../Page/山崎静代.md "wikilink")が以前組んでいたコンビ）
@@ -345,7 +345,7 @@ baseよしもととしては、11年の歴史を刻んできたが、[2010年](h
   - キャバレーナイト（宮田・山本は「ベリー・ベリー」の河中と共に「シャングリラ」を結成）
   - [ボンクラーズ](https://ja.wikipedia.org/wiki/ボンクラーズ_\(お笑いコンビ\) "wikilink")
   - [キンデルダイク](https://ja.wikipedia.org/wiki/キンデルダイク_\(お笑い\) "wikilink")（牧戸は「マッキンチョム」を結成。渡部は「バカンス食堂」を結成）
-  - [うずまき](https://ja.wikipedia.org/wiki/うずまき_\(お笑いコンビ\) "wikilink")（南條は「ガンセキオープン」を結成）
+  - [うずまき](https://ja.wikipedia.org/wiki/うずまき_\(お笑いコンビ\) "wikilink")（「[すゑひろがりず](https://ja.wikipedia.org/wiki/すゑひろがりず "wikilink")」の南條庄助が以前組んでいたコンビ）
   - 宇宙遊泳
   - ハレンチトースト
   - プロペラーズ
@@ -354,14 +354,14 @@ baseよしもととしては、11年の歴史を刻んできたが、[2010年](h
   - [D・N・A](https://ja.wikipedia.org/wiki/D・N・A_\(お笑いコンビ\) "wikilink")（芝山は「アストロNエース」を結成）
   - スーパーZ
   - パステルモグラ
-  - バンパイア（解散後稲田はピン芸人「いなだなおき」、現在河井ゆずると「アインシュタイン」として活動中）
+  - バンパイア（解散後稲田はピン芸人「いなだなおき」、現在河井ゆずると「[アインシュタイン](https://ja.wikipedia.org/wiki/アインシュタイン_\(お笑い\) "wikilink")」として活動中）
   - ヒトガタドールズドール（緑川まりはピンで活動後、カミカミ・清水と「東京ロマンポルノ」で活動中）
   - ライフ（上田は元「ところてん」のますだひかると「あゆむひかる」を結成）
   - サタディサンディ（[高山和也](https://ja.wikipedia.org/wiki/高山和也 "wikilink")は元「満」の溝上洋次、元「エグザミア」の福田善計と藤原直樹、元ピン芸人の安富郁矢と共に「[超新塾](../Page/超新塾.md "wikilink")」を結成。[小門健太郎は元](https://ja.wikipedia.org/wiki/コカドケンタロウ "wikilink")「3児」の[中岡創一](https://ja.wikipedia.org/wiki/中岡創一 "wikilink")と共に「[ロッチ](../Page/ロッチ.md "wikilink")」を結成）
   - パラフィンキック（中川は村本大輔と「[ウーマンラッシュアワー](https://ja.wikipedia.org/wiki/ウーマンラッシュアワー "wikilink")」を結成）
   - Dandelion（小谷は元「金時」の三輪と「みわこたに」を結成）
   - ケムリダマ
-  - [はだか電球](https://ja.wikipedia.org/wiki/はだか電球 "wikilink")（後藤は「パプリカパレス」を結成）
+  - [はだか電球](https://ja.wikipedia.org/wiki/はだか電球_\(お笑いコンビ\) "wikilink")（後藤は「パプリカパレス」を結成）
   - ダイヤモンド
   - ランチ（風藤は元｢好色一代娘｣の松原と「[風藤松原](../Page/風藤松原.md "wikilink")｣を結成）
   - 好色一代娘（松原は元｢ランチ｣の風藤と「風藤松原｣を結成）
@@ -376,38 +376,17 @@ baseよしもととしては、11年の歴史を刻んできたが、[2010年](h
 開館から2004年9月までは、出演する芸人を「イチオシ組」「タレントプロデュース組」「ガブンチョライブ組」「プレステージ組」の4段階に分けていた。
 
   - プレステージ
-
-<!-- end list -->
-
-  -
-    素人でも参加できる、いわば[オーディション](../Page/オーディション.md "wikilink")。合格すると毎月一回行われる「プレステージ決勝」への出場資格を得ることができるが、決勝で上位5組に入らないと次の段階である“ガブメン”にはなれない。
-
-<!-- end list -->
-
+      -
+        素人でも参加できる、いわば[オーディション](../Page/オーディション.md "wikilink")。合格すると毎月一回行われる「プレステージ決勝」への出場資格を得ることができるが、決勝で上位5組に入らないと次の段階である“ガブメン”にはなれない。
   - ガブンチョライブ組
-
-<!-- end list -->
-
-  -
-    別名ガブンチョメンバー（略・ガブメン）。毎週開催されているライブ「ガブンチョライブ」への出演資格を得た10組。「プレステージ決勝」をパスすると出られるようになるが、毎月末に「プレステージ決勝」の上位5組との入れ替え戦「ガブンチョWAR」がある。かなりシビアなポジション。
-
-<!-- end list -->
-
+      -
+        別名ガブンチョメンバー（略・ガブメン）。毎週開催されているライブ「ガブンチョライブ」への出演資格を得た10組。「プレステージ決勝」をパスすると出られるようになるが、毎月末に「プレステージ決勝」の上位5組との入れ替え戦「ガブンチョWAR」がある。かなりシビアなポジション。
   - タレントプロデュース組
-
-<!-- end list -->
-
-  -
-    略・タレプロ組。ガブンチョから卒業するとこのポジションに。単独ライブが行えるようになるほか、定期的に行われていた「SUPER base LIVE」へ出演できるようになる。
-
-<!-- end list -->
-
+      -
+        略・タレプロ組。ガブンチョから卒業するとこのポジションに。単独ライブが行えるようになるほか、定期的に行われていた「SUPER base LIVE」へ出演できるようになる。
   - イチオシ組
-
-<!-- end list -->
-
-  -
-    ピラミッドの頂点に位置し、吉本興業が優先的にテレビ等に売り込むことを約束したポジション。2003年のリニューアルで廃止された。過去にイチオシ組だったのは[FUJIWARA](../Page/FUJIWARA.md "wikilink")・[2丁拳銃](../Page/2丁拳銃.md "wikilink")・[シャンプーハット](https://ja.wikipedia.org/wiki/シャンプーハット_\(お笑いコンビ\) "wikilink")・[陣内智則](../Page/陣内智則.md "wikilink")のみ。
+      -
+        ピラミッドの頂点に位置し、吉本興業が優先的にテレビ等に売り込むことを約束したポジション。2003年のリニューアルで廃止された。過去にイチオシ組だったのは[FUJIWARA](../Page/FUJIWARA.md "wikilink")・[2丁拳銃](../Page/2丁拳銃.md "wikilink")・[シャンプーハット](https://ja.wikipedia.org/wiki/シャンプーハット_\(お笑いコンビ\) "wikilink")・[陣内智則](../Page/陣内智則.md "wikilink")のみ。
 
 ### 2003年のリニューアル
 
@@ -422,7 +401,7 @@ baseよしもととしては、11年の歴史を刻んできたが、[2010年](h
 ### 2006年のリニューアル
 
   -
-    [2006年](../Page/2006年.md "wikilink")2月、ピラミッド構造の体制は崩さずに「ビーニ ビーコード」を廃止。そのため「ガンガンライブ」は2月度バトルで決定されたトップ組・ビーイチ組・ビーニ組の芸人が隔たりなく出演するイベントとなった。ビーサン組については、今まで通り「ビーサンバトル」を行うが1ヶ月毎のバトルで2回1位をとらない限り「ガンガンライブ」出演者と入れ替えバトルが行えないということになり、以前よりかなりシビアになった。入れ替えバトルは「ガンガンライブ」出演者の中からランダムに選ばれたメンバーとバトルをすることになった。
+    [2006年](../Page/2006年.md "wikilink")2月、ピラミッド構造の体制は崩さずに「ビーニ ビーコード」を廃止。そのため「ガンガンライブ」は2月度バトルで決定されたトップ組・ビーイチ組・ビーニ組の芸人が隔たりなく出演するイベントとなった。ビーサン組については、今まで通り「ビーサンバトル」を行うが1か月ごとのバトルで2回1位をとらない限り「ガンガンライブ」出演者と入れ替えバトルが行えないということになり、以前よりかなりシビアになった。入れ替えバトルは「ガンガンライブ」出演者の中からランダムに選ばれたメンバーとバトルをすることになった。
     [2006年](../Page/2006年.md "wikilink")6月、「[銀シャリ](../Page/銀シャリ_\(お笑い\).md "wikilink")」が2回目の1位をとり、初めての入れ替えバトルが行われた。銀シャリは敗れたものの、ガンガンライブ組の実力があると認められ、ガンガンライブ組に昇格した。同時にビーサン組だったミサイルマンとジャンクションもテレビ出演の実績などから、ビーサンバトルの結果を考慮せずにガンガンライブ組に昇格するなど、このシステムは完成されたものとは言えなかった。
     [2006年](../Page/2006年.md "wikilink")8月、プレステージ制が再開され、ビーサンライブがコンビ数削減の上「サライヴLIVE」に名称変更された。
 
@@ -464,7 +443,7 @@ NHKの「[爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "w
 
 一度こちらに降格した組もワラメン・プチメンと共にbase内で僅かな間ながらライブも行える。
 
-なお、ワラメンは3ヶ月に1度、プチメンは1ヶ月に1度入れ替えを行うライブを開催している。
+なお、ワラメンは3か月に1度、プチメンは1か月に1度入れ替えを行うライブを開催している。
 
 ## 観客動員記録
 
@@ -532,4 +511,4 @@ NHKの「[爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "w
 
   - [公式サイト](http://www.yoshimoto.co.jp/base/)
 
-[Category:吉本興業の劇場](https://ja.wikipedia.org/wiki/Category:吉本興業の劇場 "wikilink") [Category:演芸場](https://ja.wikipedia.org/wiki/Category:演芸場 "wikilink") [Category:かつて存在した大阪府の劇場](https://ja.wikipedia.org/wiki/Category:かつて存在した大阪府の劇場 "wikilink") [Category:吉本興業の歴史](https://ja.wikipedia.org/wiki/Category:吉本興業の歴史 "wikilink") [Category:大阪市中央区の建築物](https://ja.wikipedia.org/wiki/Category:大阪市中央区の建築物 "wikilink") [Category:大阪市中央区の歴史](https://ja.wikipedia.org/wiki/Category:大阪市中央区の歴史 "wikilink") [Category:1999年開業の施設](https://ja.wikipedia.org/wiki/Category:1999年開業の施設 "wikilink") [Category:2010年廃止の施設](https://ja.wikipedia.org/wiki/Category:2010年廃止の施設 "wikilink")
+[Category:かつて存在した吉本興業の劇場](https://ja.wikipedia.org/wiki/Category:かつて存在した吉本興業の劇場 "wikilink") [Category:かつて存在した演芸場](https://ja.wikipedia.org/wiki/Category:かつて存在した演芸場 "wikilink") [Category:かつて存在した大阪府の劇場](https://ja.wikipedia.org/wiki/Category:かつて存在した大阪府の劇場 "wikilink") [Category:大阪市中央区の建築物](https://ja.wikipedia.org/wiki/Category:大阪市中央区の建築物 "wikilink") [Category:大阪市中央区の歴史](https://ja.wikipedia.org/wiki/Category:大阪市中央区の歴史 "wikilink") [Category:1999年開業の施設](https://ja.wikipedia.org/wiki/Category:1999年開業の施設 "wikilink") [Category:2010年廃止の施設](https://ja.wikipedia.org/wiki/Category:2010年廃止の施設 "wikilink")

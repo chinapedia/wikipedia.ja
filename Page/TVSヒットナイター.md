@@ -36,11 +36,13 @@
 
 ### 現在のヒットナイター
 
-現在は、日本ハム戦はGAORA制作（TCN制作協力）、千葉ロッテマリーンズ主催の西武戦はチバテレ、[セ・パ交流戦](../Page/セ・パ交流戦.md "wikilink")の阪神タイガース主催の西武戦はサンテレビ、[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")主催の西武戦は[三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")（制作協力は[東海テレビ](../Page/東海テレビ放送.md "wikilink")）の制作した中継をそのままネットしている。
+日本ハム戦はGAORA制作（TCN制作協力）、千葉ロッテマリーンズ主催の西武戦はチバテレ、[セ・パ交流戦](../Page/セ・パ交流戦.md "wikilink")の阪神タイガース主催の西武戦はサンテレビ(放送日が火曜日の場合は[テレビ大阪](../Page/テレビ大阪.md "wikilink")の場合もある)、[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")主催の西武戦は[三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")（制作協力は[東海テレビ](../Page/東海テレビ放送.md "wikilink")）の制作した中継をそのままネットしている。
 
 なお、[西武鉄道](../Page/西武鉄道.md "wikilink")子会社の[近江鉄道](../Page/近江鉄道.md "wikilink")が大口出資している関係で[びわ湖放送](../Page/びわ湖放送.md "wikilink")でも西武戦に絡む試合を「BBCライオンズアワー」（こちらはテレ玉とは異なり、ビジターの試合でもライオンズアワーと名乗る）として放送する試合がある。
 
-2013年からは基準放送時間を19:00に変更したため、試合開始～19時までは[マルチチャンネル](../Page/マルチチャンネル.md "wikilink")編成の2ch（SV2　032ch）で中継を行う。
+2013年からは基準放送時間を19:00に変更したため、試合開始\[2\]～19時までは[マルチチャンネル](../Page/マルチチャンネル.md "wikilink")編成の2ch（SV2　032ch）で中継を行う。
+
+2020年度よりビジター中継でもライオンズアワーとして放送される。（提供ベースもライオンズアワーと共通だが制作著作の部分がチバテレなどそれぞれ変わる）
 
 ## 放送試合数
 
@@ -101,7 +103,7 @@
 </tr>
 <tr class="odd">
 <td><p>三重テレビ<br />
-（中日戦）[2]</p></td>
+（中日戦）[3]</p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
@@ -135,7 +137,7 @@
 </tr>
 <tr class="odd">
 <td><p>テレ玉 カラ出張<br />
-（ソフトバンク戦）[3]</p></td>
+（ソフトバンク戦）[4]</p></td>
 <td><p>2</p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
@@ -162,7 +164,7 @@
 <td><p>0</p></td>
 <td><p>0</p></td>
 <td><p>1</p></td>
-<td><p>1[4]</p></td>
+<td><p>1[5]</p></td>
 <td><p>0</p></td>
 <td></td>
 <td></td>
@@ -203,12 +205,12 @@
 </tr>
 <tr class="odd">
 <td><p>テレ玉 カラ出張<br />
-（日本ハム戦 クライマックス）[5]</p></td>
+（日本ハム戦 クライマックス）[6]</p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>1</p></td>
 <td><p>-</p></td>
-<td><p>1[6]</p></td>
+<td><p>1[7]</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>| -</p></td>
@@ -335,7 +337,7 @@
 ### 後楽園・東京ドーム時代の日本ハム主管試合実況
 
   - [斉藤政夫](https://ja.wikipedia.org/wiki/斉藤政夫 "wikilink")（当時TVSアナウンサー）
-  - [小川真人](https://ja.wikipedia.org/wiki/小川真人 "wikilink")（当時TVSアナウンサー　現・[熊本県民テレビ](../Page/熊本県民テレビ.md "wikilink")）
+  - [小川真人](../Page/小川真人.md "wikilink")（当時TVSアナウンサー　現・[熊本県民テレビ](../Page/熊本県民テレビ.md "wikilink")）
   - [榎本猛](https://ja.wikipedia.org/wiki/榎本猛 "wikilink")（元NHK・[日本教育テレビ](../Page/テレビ朝日.md "wikilink")）
   - 上野晃
   - [川原恵輔](https://ja.wikipedia.org/wiki/川原恵輔 "wikilink")（元NHK）
@@ -379,8 +381,9 @@
 [Category:ローカルテレビ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の野球番組 "wikilink") [Category:関東・甲信越地方のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのスポーツ番組 "wikilink") [Category:テレビ埼玉の番組](https://ja.wikipedia.org/wiki/Category:テレビ埼玉の番組 "wikilink") [Category:埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/Category:埼玉西武ライオンズ "wikilink")
 
 1.  この当時は放送用CSがまだ少なく、TCNのコミュニティーチャンネルを含む全国の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")向けに配信された物を使用した
-2.  委託製作（クレジット上は「製作協力」）・東海テレビ放送
-3.  映像提供・[J SPORTS](../Page/J_SPORTS.md "wikilink")（-2011年）、[日テレプラス](https://ja.wikipedia.org/wiki/日テレプラス "wikilink")（2012年）、[FOX SPORTS ジャパン](https://ja.wikipedia.org/wiki/FOX_SPORTS_ジャパン "wikilink")（2013年-）
-4.  5月10日中継。[テレ玉プロ野球中継スケジュール](http://www.teletama.jp/sports/baseball.html)には未掲載
-5.  映像提供・GAORA
-6.  対戦相手が西武だった為、西武寄りの中継。
+2.  2019年以降は、18時15分
+3.  委託製作（クレジット上は「製作協力」）・東海テレビ放送
+4.  映像提供・[J SPORTS](../Page/J_SPORTS.md "wikilink")（-2011年）、[日テレプラス](https://ja.wikipedia.org/wiki/日テレプラス "wikilink")（2012年）、[FOX SPORTS ジャパン](https://ja.wikipedia.org/wiki/FOX_SPORTS_ジャパン "wikilink")（2013年-）
+5.  5月10日中継。[テレ玉プロ野球中継スケジュール](http://www.teletama.jp/sports/baseball.html)には未掲載
+6.  映像提供・GAORA
+7.  対戦相手が西武だった為、西武寄りの中継。

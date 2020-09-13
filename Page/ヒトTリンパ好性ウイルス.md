@@ -88,7 +88,7 @@ HAB (HTLV-I associated bronchitis)などがある。
   - [NPO法人・日本からHTLVウイルスをなくす会（スマイルリボン）](http://www.minc.ne.jp/~nakusukai/)
   - [ATL－成人T細胞白血病－制圧へ](http://www.nishinippon.co.jp/nnp/feature/article4/)（西日本新聞の特集サイト）
 
-[Category:ヒトTリンパ好性ウイルス](https://ja.wikipedia.org/wiki/Category:ヒトTリンパ好性ウイルス "wikilink") [Category:レトロウイルス科](https://ja.wikipedia.org/wiki/Category:レトロウイルス科 "wikilink") [Category:腫瘍ウイルス](https://ja.wikipedia.org/wiki/Category:腫瘍ウイルス "wikilink") [Category:ウイルス感染症](https://ja.wikipedia.org/wiki/Category:ウイルス感染症 "wikilink") [Category:ウイルス学](https://ja.wikipedia.org/wiki/Category:ウイルス学 "wikilink") [Category:分子人類学](https://ja.wikipedia.org/wiki/Category:分子人類学 "wikilink")
+[Category:ヒトTリンパ好性ウイルス](https://ja.wikipedia.org/wiki/Category:ヒトTリンパ好性ウイルス "wikilink") [Category:レトロウイルス科](https://ja.wikipedia.org/wiki/Category:レトロウイルス科 "wikilink") [Category:腫瘍ウイルス](https://ja.wikipedia.org/wiki/Category:腫瘍ウイルス "wikilink") [Category:分子人類学](https://ja.wikipedia.org/wiki/Category:分子人類学 "wikilink")
 
 1.  [HTLV−1感染症とは](https://www.niid.go.jp/niid/ja/kansennohanashi/325-htlv-1-gintro.html)NIID
 2.  [HTLV－Ⅰ（human T-lymphtropic virus typeⅠ：ヒトTリンパ球向性ウイルスⅠ型）](https://www.bs.jrc.or.jp/ktks/tokyo/special/m6_02_01_08_09_detail29.html)日本赤十字社

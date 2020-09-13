@@ -51,7 +51,7 @@ IS-95 (Interim Standard 95, [TIA](https://ja.wikipedia.org/wiki/Telecommunicatio
       - P_REV =6
           - [CDMA2000](../Page/CDMA2000.md "wikilink")
 
-## 注
+## 脚注
 
 ## 関連項目
 

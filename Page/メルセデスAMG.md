@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:AMG_logo.svg "wikilink") [代替文=](https://ja.wikipedia.org/wiki/ファイル:Mercedes-AMG_GT_R_\(C190\)_front.jpg "wikilink") **メルセデスAMG**（*Mercedes-AMG* 、メルセデス・エーエムジー\[1\]）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカーである[ダイムラーが展開するスポーツ](../Page/ダイムラー_\(自動車メーカー\).md "wikilink")・レース系の[ブランド](../Page/ブランド.md "wikilink")である。「究極のハイパフォーマンスを追求するモデル」と位置付けられている。
 
-元は独立チューナーの**AMG**だったが、1999年にダイムラー・クライスラー（当時）に吸収され、さらに2014年からは「メルセデスAMG」として[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")のサブブランドとされている\[2\]。
+元は独立チューナーの**AMG**だったが、1999年にダイムラー・クライスラー（当時）に吸収され、さらに2014年からは「メルセデスAMG」としてダイムラーのスポーツカーブランドとして展開されている\[2\]。
 
 尚、本稿では、独立チューナー時代の「AMG」が関わった日本市場における三菱自動車への技術供与も記載する。
 
@@ -595,7 +595,7 @@ C43 4MATICクーペ</p></td>
 
 ### 三菱自動車への技術供与
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:1989_Mitsubishi_Galant_\(E-E33A\)_AMG_Sedan_\(13-10-2017\)_01.jpg "wikilink") 独立[チューナー](https://ja.wikipedia.org/wiki/チューナー "wikilink")時代には、[三菱自動車](https://ja.wikipedia.org/wiki/三菱自動車 "wikilink")と[業務提携](https://ja.wikipedia.org/wiki/業務提携 "wikilink")し、[カタログ](../Page/カタログ.md "wikilink")[モデル](https://ja.wikipedia.org/wiki/モデル "wikilink")としてAMG[グレード](https://ja.wikipedia.org/wiki/グレード "wikilink")を販売していた。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:1989_Mitsubishi_Galant_\(E-E33A\)_AMG_Sedan_\(13-10-2017\)_01.jpg "wikilink") 独立[チューナー](https://ja.wikipedia.org/wiki/チューナー "wikilink")時代には、[三菱自動車](https://ja.wikipedia.org/wiki/三菱自動車 "wikilink")と[業務提携](https://ja.wikipedia.org/wiki/業務提携 "wikilink")し、[カタログ](../Page/カタログ.md "wikilink")[モデル](../Page/モデル.md "wikilink")としてAMG[グレード](https://ja.wikipedia.org/wiki/グレード "wikilink")を販売していた。
 
   - [三菱・デボネアV](https://ja.wikipedia.org/wiki/三菱・デボネアV "wikilink") AMG ([1986年](../Page/1986年.md "wikilink")-[1992年](../Page/1992年.md "wikilink")) S10系　※主に内外装の[カスタマイズ](https://ja.wikipedia.org/wiki/カスタマイズ "wikilink")に留まる
   - [三菱・ギャラン](../Page/三菱・ギャラン.md "wikilink") AMG (1987年-1992年)　E30系　※全体的にAMGの手が入った[チューニング](https://ja.wikipedia.org/wiki/チューニング "wikilink")モデル(内外装、[エンジン](../Page/エンジン.md "wikilink")、[変速機](https://ja.wikipedia.org/wiki/変速機 "wikilink")等)

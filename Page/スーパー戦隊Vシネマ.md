@@ -154,7 +154,7 @@
 
   - [DVD スーパー戦隊Vシネマ特集](http://www.toei-video.co.jp/DVD/sp21/sentai-ov.html)（東映ビデオ内サイト）
   - スーパー戦隊VSシリーズ劇場
-      - [テレビ朝日内公式サイト](http://www.tv-asahi.co.jp/sentaivs/)
+      - [テレビ朝日内公式サイト](https://www.tv-asahi.co.jp/sentaivs/)
       - [東映内公式サイト](http://www.toei.co.jp/tv/sentaivs/)
 
 [Category:スーパー戦隊シリーズのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:スーパー戦隊シリーズのクロスオーバー作品 "wikilink") [Category:スーパー戦隊シリーズオリジナルビデオ作品](https://ja.wikipedia.org/wiki/Category:スーパー戦隊シリーズオリジナルビデオ作品 "wikilink") [Category:スーパー戦隊Vシネマ](https://ja.wikipedia.org/wiki/Category:スーパー戦隊Vシネマ "wikilink")

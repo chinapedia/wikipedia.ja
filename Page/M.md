@@ -130,9 +130,9 @@
 
   - 単位
       - [メートル](../Page/メートル.md "wikilink") ()。
-      - [ミリ](https://ja.wikipedia.org/wiki/ミリ "wikilink") ()。)。
+      - [ミリ](https://ja.wikipedia.org/wiki/ミリ "wikilink") ()。 (10<sup>-3</sup>)。
       - 時間の単位の[分](../Page/分.md "wikilink") ()。ただし正式な単位記号は 。
-  - *m* と *[n](https://ja.wikipedia.org/wiki/n "wikilink")*（[斜体](../Page/斜体.md "wikilink")）で、2つの[自然数](../Page/自然数.md "wikilink") () あるいは[整数](../Page/整数.md "wikilink")を表す。*n* の前の文字として選ばれたためで、*m* 自体の由来はない。
+  - *m* と *[n](https://ja.wikipedia.org/wiki/n "wikilink")*（[斜体](../Page/斜体.md "wikilink")）で、2つの[自然数](../Page/自然数.md "wikilink") () あるいは[整数](../Page/整数.md "wikilink")を表す。(*o*はゼロと紛らわしいので) *n* の前の文字として選ばれたためで、*m* 自体の由来はない。
   - [磁気モーメント](../Page/磁気モーメント.md "wikilink") ()。
   - m- で[メタ](../Page/化学接頭辞・接尾辞一覧.md "wikilink") () 位を表す。
   - 文法で[男性](../Page/性_\(文法\).md "wikilink") ()。

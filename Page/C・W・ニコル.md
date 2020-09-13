@@ -1,7 +1,7 @@
 > この記事は[C・W・ニコル](https://ja.wikipedia.org/wiki/C・W・ニコル)から翻訳されています。
 
 
-**クライヴ・ウィリアム・ニコル**（Clive William Nicol, [MBE](../Page/大英帝国勲章.md "wikilink")、[1940年](../Page/1940年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink") - [2020年](../Page/2020年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")\[1\]\[2\] ）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")生まれの[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[作家](../Page/作家.md "wikilink")、環境保護活動家。[キラメッセ室戸鯨館](https://ja.wikipedia.org/wiki/キラメッセ室戸鯨館 "wikilink")館長。[血液型](../Page/血液型.md "wikilink")[AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")\[3\]。
+**クライヴ・ウィリアム・ニコル**（Clive William Nicol, [MBE](../Page/大英帝国勲章.md "wikilink")、[1940年](../Page/1940年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink") - [2020年](../Page/2020年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")\[1\]\[2\] ）は、[ウェールズ](../Page/ウェールズ.md "wikilink")生まれの[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[作家](../Page/作家.md "wikilink")、環境保護活動家。[キラメッセ室戸鯨館](https://ja.wikipedia.org/wiki/キラメッセ室戸鯨館 "wikilink")館長。[血液型](../Page/血液型.md "wikilink")[AB型](../Page/ABO式血液型.md "wikilink")\[3\]。
 
 妻は、[作曲家](../Page/作曲家.md "wikilink")で[日本画家](../Page/日本画家.md "wikilink")の[ニコル麻莉子](https://ja.wikipedia.org/wiki/ニコル麻莉子 "wikilink")（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に結婚）。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に日本国籍を取得し、本人の言によれば「[ウェールズ系日本人](https://ja.wikipedia.org/wiki/ウェールズ人 "wikilink")」。日本における戸籍名は**ニコル シーダブリュー**\[4\]。
 
@@ -49,23 +49,25 @@
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に念願の日本への[帰化](../Page/帰化.md "wikilink")を果たし、同時に英国籍とカナダ籍から除籍されたという。小説『風を見た少年』（[講談社](../Page/講談社.md "wikilink")）は、[2000年](../Page/2000年.md "wikilink")に[大森一樹](../Page/大森一樹.md "wikilink")監督で[アニメ映画化された](../Page/アニメーション映画.md "wikilink")。2002年、一般財団法人「C.W.ニコル・アファンの森財団」を設立\[16\]。
 
-[2005年](../Page/2005年.md "wikilink")10月28日に[英国政府から日英関係発展に寄与した功績で](https://ja.wikipedia.org/wiki/イギリス "wikilink")、名誉[大英勲章](../Page/大英帝国勲章.md "wikilink")5位（MBE）を贈られた。[2007年](../Page/2007年.md "wikilink")2月には[大分県](../Page/大分県.md "wikilink")内で開催された[日本教職員組合](../Page/日本教職員組合.md "wikilink")の[教育研究全国集会](../Page/教育研究全国集会.md "wikilink")の全体集会で「森を育むもの」と題して講演を行った。
+[2005年](../Page/2005年.md "wikilink")10月28日に[英国政府から日英関係発展に寄与した功績で](https://ja.wikipedia.org/wiki/イギリス "wikilink")、名誉[大英勲章](../Page/大英帝国勲章.md "wikilink")5位（MBE）を贈られた。[2007年](../Page/2007年.md "wikilink")2月には[大分県](../Page/大分県.md "wikilink")内で開催された[日本教職員組合](../Page/日本教職員組合.md "wikilink")の[教育研究全国集会](../Page/教育研究全国集会.md "wikilink")の全体集会で「森を育むもの」と題して講演を行った。
 
-[2016年](../Page/2016年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")に、公務でアファンの森を訪れた[明仁天皇と](https://ja.wikipedia.org/wiki/上皇明仁 "wikilink")[美智子皇后の散策の案内役をつとめた](../Page/上皇后美智子.md "wikilink")。翌月に天皇が生前退位の意向を示すと、ニコルは「天皇陛下にかけていただいた言葉は一言も忘れない。自然に包まれた両陛下はお幸せそうだった。退位されて体を休め、お好きなことができるのなら、私も日本人としてうれしい。愛し、尊敬していきたい」と述べている\[17\]。同年末に[直腸がんを患って](https://ja.wikipedia.org/wiki/直腸癌 "wikilink")\[18\]、東京の病院で手術を受け、2ヶ月におよぶ入院生活を経て、[2017年](../Page/2017年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")に退院した 。
+2011年の[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の年に、宮城県東松島市の住人をアファンの森に招待したことがきっかけで、[東松島市立宮野森小学校](https://ja.wikipedia.org/wiki/東松島市立宮野森小学校 "wikilink")の創設を支援した\[17\]。
 
-[2020年](../Page/2020年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")に[長野市](../Page/長野市.md "wikilink")の病院で直腸がんにより死去\[19\]\[20\]。。
+[2016年](../Page/2016年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")に、公務でアファンの森を訪れた[明仁天皇と](https://ja.wikipedia.org/wiki/上皇明仁 "wikilink")[美智子皇后の散策の案内役をつとめた](../Page/上皇后美智子.md "wikilink")。翌月に天皇が生前退位の意向を示すと、ニコルは「天皇陛下にかけていただいた言葉は一言も忘れない。自然に包まれた両陛下はお幸せそうだった。退位されて体を休め、お好きなことができるのなら、私も日本人としてうれしい。愛し、尊敬していきたい」と述べている\[18\]。同年末に[直腸がんを患って](https://ja.wikipedia.org/wiki/直腸癌 "wikilink")\[19\]、東京の病院で手術を受け、2ヶ月におよぶ入院生活を経て、[2017年](../Page/2017年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")に退院した 。
+
+[2020年](../Page/2020年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")に[長野市](../Page/長野市.md "wikilink")の病院で直腸がんにより死去\[20\]\[21\]。。
 
 ## 人物
 
-ニコルは日本の捕鯨史を学んだ関係で、日本の食文化・漁業文化・生活文化を守る必要性から捕鯨推進論者であり、信頼できるデータが揃い、きちんとした形で行うならば、捕鯨もかまわないとしている。反捕鯨国で占められている[国際捕鯨委員会](../Page/国際捕鯨委員会.md "wikilink")や[グリーンピースや](../Page/グリーンピース_\(NGO\).md "wikilink")[シーシェパード](https://ja.wikipedia.org/wiki/シーシェパード "wikilink")の活動に対して苦言を呈している。同時に、捕鯨問題が人種問題であるという点に関しては否定している。ただし、現在ではグリーンピースとは和解しており、グリーンピース・ジャパンとは友好関係にあるという。また日本の沿岸捕鯨に関するデータが信憑性に欠けるため、現在「日本の捕鯨を全面的に支援する立場にはない」とも語っている\[21\]。
+ニコルは日本の捕鯨史を学んだ関係で、日本の食文化・漁業文化・生活文化を守る必要性から捕鯨推進論者であり、信頼できるデータが揃い、きちんとした形で行うならば、捕鯨もかまわないとしている。反捕鯨国で占められている[国際捕鯨委員会](../Page/国際捕鯨委員会.md "wikilink")や[グリーンピースや](../Page/グリーンピース_\(NGO\).md "wikilink")[シーシェパード](https://ja.wikipedia.org/wiki/シーシェパード "wikilink")の活動に対して苦言を呈している。同時に、捕鯨問題が人種問題であるという点に関しては否定している。ただし、現在ではグリーンピースとは和解しており、グリーンピース・ジャパンとは友好関係にあるという。また日本の沿岸捕鯨に関するデータが信憑性に欠けるため、現在「日本の捕鯨を全面的に支援する立場にはない」とも語っている\[22\]。
 
-ニコル本人も現在でも環境問題に取り組んでいるが、[政治](../Page/政治.md "wikilink")自体には興味がないと、エッセイで述べている\[22\]。その一方、[2005年東京都議会議員選挙](https://ja.wikipedia.org/wiki/2005年東京都議会議員選挙 "wikilink")では[鳩山邦夫](../Page/鳩山邦夫.md "wikilink")の息子、鳩山太郎を支援した\[23\]。
+ニコル本人も現在でも環境問題に取り組んでいるが、[政治](../Page/政治.md "wikilink")自体には興味がないと、エッセイで述べている\[23\]。その一方、[2005年東京都議会議員選挙](https://ja.wikipedia.org/wiki/2005年東京都議会議員選挙 "wikilink")では[鳩山邦夫](../Page/鳩山邦夫.md "wikilink")の息子、鳩山太郎を支援した\[24\]。
 
-[ネズミ](../Page/ネズミ.md "wikilink")嫌いとして有名でもある\[24\]。
+[ネズミ](../Page/ネズミ.md "wikilink")嫌いとして有名でもある\[25\]。
 
-「[ファッショナブル](../Page/ファッション.md "wikilink")」という言葉を好まない傾向にある\[25\]。
+「[ファッショナブル](../Page/ファッション.md "wikilink")」という言葉を好まない傾向にある\[26\]。
 
-ミュージシャンとしても活動しており、2枚のアルバムがあり、またNHK「[みんなのうた](../Page/みんなのうた.md "wikilink")」への楽曲提供もある\[26\]。
+ミュージシャンとしても活動しており、2枚のアルバムがあり、またNHK「[みんなのうた](../Page/みんなのうた.md "wikilink")」への楽曲提供もある\[27\]。
 
 ## 主要な委員就任経歴
 
@@ -79,21 +81,21 @@
   - 環境省 エコツーリズム推進会議委員（2003年 - ）
   - 東京都「花粉の少ない森つくり委員会」委員（2004年 - ）
   - 京都大学フィールド科学教育センター社会連携教授（2005年 - ）
-  - 国際森林年国内委員会委員（2010年）に任命される\[27\]。
+  - 国際森林年国内委員会委員（2010年）に任命される\[28\]。
   - 長野県森林大使（2011年 - ）
   - 林野庁・木材ポイント大使（2014年）
   - エチオピア・シミエン山岳国立公園（世界自然遺産）親善大使（2014年）
 
 ## 主要な著作
 
-  - たぬき（TANUKI、作・英語：C. W. Nicol、日本語：[定村忠士](https://ja.wikipedia.org/wiki/定村忠士 "wikilink")、音楽：[林光](../Page/林光.md "wikilink")、絵：[梶山俊夫](https://ja.wikipedia.org/wiki/梶山俊夫 "wikilink")、[ラボ教育センター](https://ja.wikipedia.org/wiki/ラボ教育センター "wikilink")、1970年）\[28\]
-  - すてきなワフ家（The Wonderful Wuffs、作・英語：C. W. Nicol、音楽：[嵐野英彦](../Page/嵐野英彦.md "wikilink")、絵：[永田竹丸](../Page/永田竹丸.md "wikilink")、[ラボ教育センター](https://ja.wikipedia.org/wiki/ラボ教育センター "wikilink")、1970年）\[29\]
-  - ゴロヒゲ平左衛門・ノミの仇討ち（The Unusual Revenge of GOROHIGE HEIZAEMON、作・英語：C.W.ニコル、日本語：定村忠士、音楽：[田中正史](https://ja.wikipedia.org/wiki/田中正史 "wikilink")／[斎藤恒夫](https://ja.wikipedia.org/wiki/斎藤恒夫 "wikilink")、絵：[井上洋介](../Page/井上洋介.md "wikilink")、[ラボ教育センター](https://ja.wikipedia.org/wiki/ラボ教育センター "wikilink")、1971年）\[30\]
-  - C.W.ニコルのフォークソング（There Were Singing Folk　作・構成: C. W. ニコル、[ラボ教育センター](https://ja.wikipedia.org/wiki/ラボ教育センター "wikilink")、1971年）\[31\]
-  - From the Roof of Africa (Knopf 1972年）\[32\]
-  - Moving Zen: One Mans Journey to the Heart of Karate （The Bodley Head Ltd　 1975）\[33\]
-  - ドゥリトル先生 海をゆく（The Voyages Of Doctor Dolittle　再話：C.W.ニコル、音楽：[佐藤允彦](../Page/佐藤允彦.md "wikilink")、絵：[靉嘔](https://ja.wikipedia.org/wiki/靉嘔 "wikilink")、[ラボ教育センター](https://ja.wikipedia.org/wiki/ラボ教育センター "wikilink")、1977年）\[34\]
-  - 国生み（The Birth of Land、英語: C.W.ニコル／再話:[らくだ・こぶに](../Page/谷川雁.md "wikilink")、音楽：[間宮芳生](../Page/間宮芳生.md "wikilink")、絵：[高松次郎](../Page/高松次郎.md "wikilink")、[ラボ教育センター](https://ja.wikipedia.org/wiki/ラボ教育センター "wikilink")、1979年）\[35\]
+  - たぬき（TANUKI、作・英語：C. W. Nicol、日本語：[定村忠士](https://ja.wikipedia.org/wiki/定村忠士 "wikilink")、音楽：[林光](../Page/林光.md "wikilink")、絵：[梶山俊夫](https://ja.wikipedia.org/wiki/梶山俊夫 "wikilink")、[ラボ教育センター](https://ja.wikipedia.org/wiki/ラボ教育センター "wikilink")、1970年）\[29\]
+  - すてきなワフ家（The Wonderful Wuffs、作・英語：C. W. Nicol、音楽：[嵐野英彦](../Page/嵐野英彦.md "wikilink")、絵：[永田竹丸](../Page/永田竹丸.md "wikilink")、[ラボ教育センター](https://ja.wikipedia.org/wiki/ラボ教育センター "wikilink")、1970年）\[30\]
+  - ゴロヒゲ平左衛門・ノミの仇討ち（The Unusual Revenge of GOROHIGE HEIZAEMON、作・英語：C.W.ニコル、日本語：定村忠士、音楽：[田中正史](https://ja.wikipedia.org/wiki/田中正史 "wikilink")／[斎藤恒夫](https://ja.wikipedia.org/wiki/斎藤恒夫 "wikilink")、絵：[井上洋介](../Page/井上洋介.md "wikilink")、[ラボ教育センター](https://ja.wikipedia.org/wiki/ラボ教育センター "wikilink")、1971年）\[31\]
+  - C.W.ニコルのフォークソング（There Were Singing Folk　作・構成: C. W. ニコル、[ラボ教育センター](https://ja.wikipedia.org/wiki/ラボ教育センター "wikilink")、1971年）\[32\]
+  - From the Roof of Africa (Knopf 1972年）\[33\]
+  - Moving Zen: One Mans Journey to the Heart of Karate （The Bodley Head Ltd　 1975）\[34\]
+  - ドゥリトル先生 海をゆく（The Voyages Of Doctor Dolittle　再話：C.W.ニコル、音楽：[佐藤允彦](../Page/佐藤允彦.md "wikilink")、絵：[靉嘔](https://ja.wikipedia.org/wiki/靉嘔 "wikilink")、[ラボ教育センター](https://ja.wikipedia.org/wiki/ラボ教育センター "wikilink")、1977年）\[35\]
+  - 国生み（The Birth of Land、英語: C.W.ニコル／再話:[らくだ・こぶに](../Page/谷川雁.md "wikilink")、音楽：[間宮芳生](../Page/間宮芳生.md "wikilink")、絵：[高松次郎](../Page/高松次郎.md "wikilink")、[ラボ教育センター](https://ja.wikipedia.org/wiki/ラボ教育センター "wikilink")、1979年）\[36\]
   - ティキシィ （[松田銑](https://ja.wikipedia.org/wiki/松田銑 "wikilink")、藁科れい訳 角川書店 1979年 のち文庫）
   - りんごの花さく湖 （[五木寛之](../Page/五木寛之.md "wikilink")訳 偕成社 1980年）
   - 冒険家の食卓 （松田銑訳 角川書店 1981年 のち文庫）
@@ -153,7 +155,7 @@
   - 誇り高き日本人でいたい （松田銑、鈴木扶佐子、千葉隆章訳 [アートデイズ](../Page/アートデイズ.md "wikilink") 2004年 ISBN 4-86119-030-4）
   - 特務艦隊 （村上博基訳 [文藝春秋](../Page/文藝春秋.md "wikilink") 2005年 のち文庫 ISBN 4-16-324000-4） 『勇魚』『盟約』『遭敵海域』『特務艦隊』は連作
   - ことばと自然 子どもの未来を拓く （[鈴木孝夫](../Page/鈴木孝夫.md "wikilink")共著 アートデイズ 2006年）
-  - はだかのダルシン（DURSHYN, THE NAKED PRINCE　英語：C.W.ニコル／鈴木小百合、日本語：[森洋子](https://ja.wikipedia.org/wiki/森洋子 "wikilink")／[三輪えり花](https://ja.wikipedia.org/wiki/三輪えり花 "wikilink")／ラボ教育センター、音楽：Adrian C. Duncan／C.W.ニコル／Cristopher L.Gordon／[間宮芳生](../Page/間宮芳生.md "wikilink")、 絵:Susan A. Point／Richard Villeneuve／[永山裕子](https://ja.wikipedia.org/wiki/永山裕子 "wikilink")、ラボ教育センター、2006年）\[36\]
+  - はだかのダルシン（DURSHYN, THE NAKED PRINCE　英語：C.W.ニコル／鈴木小百合、日本語：[森洋子](https://ja.wikipedia.org/wiki/森洋子 "wikilink")／[三輪えり花](https://ja.wikipedia.org/wiki/三輪えり花 "wikilink")／ラボ教育センター、音楽：Adrian C. Duncan／C.W.ニコル／Cristopher L.Gordon／[間宮芳生](../Page/間宮芳生.md "wikilink")、 絵:Susan A. Point／Richard Villeneuve／[永山裕子](https://ja.wikipedia.org/wiki/永山裕子 "wikilink")、ラボ教育センター、2006年）\[37\]
   - 鯨捕りよ、語れ\! （森洋子、栗原紀子訳 [アートデイズ](../Page/アートデイズ.md "wikilink") 2007年 ISBN 978-4-86119-089-6）
   - マザーツリー 母なる樹の物語（[静山社](../Page/静山社.md "wikilink") 2007年 ISBN 4-915512-62-2）
 
@@ -194,7 +196,7 @@
   - [中山正敏](../Page/中山正敏_\(空手家\).md "wikilink")
   - [畑正憲](../Page/畑正憲.md "wikilink")
   - [ディラン・トマス](../Page/ディラン・トマス.md "wikilink") - 『小さな反逆者』の｢トマスさん｣にエピソードを掲載。
-  - [ブライアン・ジョーンズ](../Page/ブライアン・ジョーンズ.md "wikilink") - ニコルのグラマースクールの後輩（『[C・W・ニコルと21人の男たち](https://ja.wikipedia.org/wiki/C・W・ニコルと21人の男たち "wikilink")』で[ブライアンのエピソードを掲載](https://ja.wikipedia.org/wiki/ブライアン・ジョーンズ#交友関係 "wikilink")）\[37\]。
+  - [ブライアン・ジョーンズ](../Page/ブライアン・ジョーンズ.md "wikilink") - ニコルのグラマースクールの後輩（『[C・W・ニコルと21人の男たち](https://ja.wikipedia.org/wiki/C・W・ニコルと21人の男たち "wikilink")』で[ブライアンのエピソードを掲載](https://ja.wikipedia.org/wiki/ブライアン・ジョーンズ#交友関係 "wikilink")）\[38\]。
 
 ## 脚注
 
@@ -247,24 +249,25 @@
 14.
 15.
 16. [財団の歩み](http://www.afan.or.jp/af-activities/activities.html)2018/11/4閲覧
-17.
-18. NHK『[東北発☆未来塾](https://ja.wikipedia.org/wiki/東北発☆未来塾 "wikilink")』[ニコル流 自然と生きるチカラ 「ヨウコソ\! イヤシノ モリヘ」](http://www.nhk.or.jp/ashita/miraijuku/archives/170206.html)2017年2月6日放送分。
-19.
+17. [宮野森小学校の新校舎が完成！](https://afan.or.jp/disaster-recovery/2284/)
+18.
+19. NHK『[東北発☆未来塾](https://ja.wikipedia.org/wiki/東北発☆未来塾 "wikilink")』[ニコル流 自然と生きるチカラ 「ヨウコソ\! イヤシノ モリヘ」](http://www.nhk.or.jp/ashita/miraijuku/archives/170206.html)2017年2月6日放送分。
 20.
-21. C. W.ニコル　『鯨捕りよ、語れ\!』　アートデイズ、2007年7月、p240。
-22. C.W.ニコル　『C.W.ニコルの黒姫通信』　講談社〈講談社文庫〉、1996年8月、p26。
-23. [雑感2005年6月](http://www2.odn.ne.jp/~cbg67260/Z200506.htm)
-24. C. W.ニコル　『C.W.ニコルの自然生活』　竹内和世訳、講談社〈講談社文庫〉、1992年3月、pp172-178。
-25. C. W.ニコル　『C.W.ニコルの野性記 生きることそれは冒険』　竹内和世訳、実業之日本社〈実日新書〉、1988年7月、pp141-145。
-26.
-27. [財団の歩み](http://www.afan.or.jp/af-activities/activities.html)2018/11/4閲覧
-28. \[<https://www.labo-party.jp/book/detail_SK4/>　Labo Library「たぬき」\]2018/11/4閲覧
-29. [Labo Library「すてきなワフ家」](https://www.labo-party.jp/book/detail_GT2/)2018/11/4閲覧
-30. [Labo Library「ゴロヒゲ平左衛門・ノミの仇討ち」](https://www.labo-party.jp/book/detail_GT3/)2018/11/4閲覧
-31. [Labo Library「C.W.ニコルのフォークソング](https://www.labo-party.jp/book/detail_GT6/)2018/11/4閲覧
-32. [Amazon.com・From the Roof of Africa](https://www.amazon.com/Roof-Africa-C-W-Nicol/dp/0394414594)2018/11/4閲覧
-33. \[<https://www.amazon.com/Moving-Zen-Karate-Gentleness-1975-08-21/dp/B01HC14E5Q/ref=sr_1_fkmr1_1?s=books&ie=UTF8&qid=1541310185&sr=1-1-fkmr1&keywords=Moving+Zen%3A+One+Mans+Journey+to+the+Heart+of+Karate+1975>　Amazon.com・Moving Zen\]2018/11/4閲覧
-34. [Labo Library「ドゥリトル先生 海をゆく」](https://www.labo-party.jp/book/detail_GT13/)2018/11/4閲覧
-35. [Labo Library「国生み」](https://www.labo-party.jp/book/detail_SK15/)2018/11/4閲覧
-36. [Labo Library「はだかのダルシン」](https://www.labo-party.jp/book/detail_GT22/)2018/11/4閲覧
-37.
+21.
+22. C. W.ニコル　『鯨捕りよ、語れ\!』　アートデイズ、2007年7月、p240。
+23. C.W.ニコル　『C.W.ニコルの黒姫通信』　講談社〈講談社文庫〉、1996年8月、p26。
+24. [雑感2005年6月](http://www2.odn.ne.jp/~cbg67260/Z200506.htm)
+25. C. W.ニコル　『C.W.ニコルの自然生活』　竹内和世訳、講談社〈講談社文庫〉、1992年3月、pp172-178。
+26. C. W.ニコル　『C.W.ニコルの野性記 生きることそれは冒険』　竹内和世訳、実業之日本社〈実日新書〉、1988年7月、pp141-145。
+27.
+28. [財団の歩み](http://www.afan.or.jp/af-activities/activities.html)2018/11/4閲覧
+29. \[<https://www.labo-party.jp/book/detail_SK4/>　Labo Library「たぬき」\]2018/11/4閲覧
+30. [Labo Library「すてきなワフ家」](https://www.labo-party.jp/book/detail_GT2/)2018/11/4閲覧
+31. [Labo Library「ゴロヒゲ平左衛門・ノミの仇討ち」](https://www.labo-party.jp/book/detail_GT3/)2018/11/4閲覧
+32. [Labo Library「C.W.ニコルのフォークソング](https://www.labo-party.jp/book/detail_GT6/)2018/11/4閲覧
+33. [Amazon.com・From the Roof of Africa](https://www.amazon.com/Roof-Africa-C-W-Nicol/dp/0394414594)2018/11/4閲覧
+34. \[<https://www.amazon.com/Moving-Zen-Karate-Gentleness-1975-08-21/dp/B01HC14E5Q/ref=sr_1_fkmr1_1?s=books&ie=UTF8&qid=1541310185&sr=1-1-fkmr1&keywords=Moving+Zen%3A+One+Mans+Journey+to+the+Heart+of+Karate+1975>　Amazon.com・Moving Zen\]2018/11/4閲覧
+35. [Labo Library「ドゥリトル先生 海をゆく」](https://www.labo-party.jp/book/detail_GT13/)2018/11/4閲覧
+36. [Labo Library「国生み」](https://www.labo-party.jp/book/detail_SK15/)2018/11/4閲覧
+37. [Labo Library「はだかのダルシン」](https://www.labo-party.jp/book/detail_GT22/)2018/11/4閲覧
+38.

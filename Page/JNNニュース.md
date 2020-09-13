@@ -107,7 +107,7 @@
 ## 担当キャスター
 
 <table>
-<caption>2020年4月現在の「JNN NEWS」担当キャスター一覧</caption>
+<caption>2020年8月第2週現在の「JNN NEWS」担当キャスター一覧</caption>
 <thead>
 <tr class="header">
 <th><p>放送時間</p></th>
@@ -126,7 +126,7 @@
 <td><p><a href="../Page/藤森祥平.md" title="wikilink">藤森祥平</a></p></td>
 <td><p><a href="../Page/駒田健吾.md" title="wikilink">駒田健吾</a><br />
 <a href="https://ja.wikipedia.org/wiki/田村真子" title="wikilink">田村真子</a><br />
-【<a href="https://ja.wikipedia.org/wiki/増田雅昭" title="wikilink">増田雅昭</a><sup>8</sup>】</p></td>
+【<a href="https://ja.wikipedia.org/wiki/増田雅昭" title="wikilink">増田雅昭</a><sup>1</sup>】</p></td>
 <td><p><a href="../Page/斎藤哲也.md" title="wikilink">斎藤哲也</a><br />
 【<a href="https://ja.wikipedia.org/wiki/岡田沙也加" title="wikilink">岡田沙也加</a>】</p></td>
 <td></td>
@@ -158,17 +158,17 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/TBSテレビ系列昼ニュース枠" title="wikilink">昼</a></p></td>
 <td><p><a href="../Page/蓮見孝之.md" title="wikilink">蓮見孝之</a></p></td>
 <td><p><a href="../Page/伊藤隆太.md" title="wikilink">伊藤隆太</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長岡杏子" title="wikilink">長岡杏子</a><sup>1</sup><br />
-【<a href="https://www.weathermap.co.jp/caster/sugiyama-mari/">杉山真理</a>】<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/長岡杏子" title="wikilink">長岡杏子</a><sup>3</sup><br />
+【國本未華】<br />
 </p></td>
-<td><p><a href="../Page/赤荻歩.md" title="wikilink">赤荻歩</a><sup>1・3</sup></p></td>
+<td><p><a href="../Page/赤荻歩.md" title="wikilink">赤荻歩</a><sup>3・4</sup></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/出水麻衣" title="wikilink">出水麻衣</a></p></td>
-<td><p>田村真子</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/宇賀神メグ" title="wikilink">宇賀神メグ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -177,19 +177,19 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>【<a href="https://ja.wikipedia.org/wiki/達淳一" title="wikilink">達淳一</a>】</p></td>
-<td><p>【<a href="https://ja.wikipedia.org/wiki/久保井朝美" title="wikilink">久保井朝美</a>】</p></td>
-<td><p>【<a href="https://www.weathermap.co.jp/caster/muraki-yusuke/">村木祐輔</a>】</p></td>
-<td><p>【<a href="https://ja.wikipedia.org/wiki/元井美貴" title="wikilink">元井美貴</a>】</p></td>
 <td><p>【<a href="../Page/森朗.md" title="wikilink">森朗</a>】</p></td>
+<td><p>【<a href="https://ja.wikipedia.org/wiki/久保井朝美" title="wikilink">久保井朝美</a>】</p></td>
+<td><p>【村木祐輔】</p></td>
+<td><p>【<a href="https://ja.wikipedia.org/wiki/國本未華" title="wikilink">國本未華</a>】</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>午後</p></td>
-<td><p>出水麻衣<sup>4</sup></p></td>
-<td><p>田村真子<sup>4</sup></p></td>
+<td><p>出水麻衣<sup>5</sup></p></td>
+<td><p>宇賀神メグ<sup>5</sup></p></td>
 <td><p>（放送なし）</p></td>
 <td></td>
 <td></td>
@@ -199,7 +199,7 @@
 <tr class="even">
 <td><p>夜</p></td>
 <td><p>（放送なし）</p></td>
-<td><p><a href="../Page/安住紳一郎.md" title="wikilink">安住紳一郎</a><sup>5</sup></p></td>
+<td><p><a href="../Page/安住紳一郎.md" title="wikilink">安住紳一郎</a><sup>6</sup></p></td>
 <td><p>（放送なし）</p></td>
 <td></td>
 <td></td>
@@ -208,8 +208,8 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/TBSテレビ系列深夜ニュース枠.md" title="wikilink">最終版</a></p></td>
-<td><p><a href="../Page/向井政生.md" title="wikilink">向井政生</a><sup>6・7</sup></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/古谷有美" title="wikilink">古谷有美</a><sup>9</sup></p></td>
+<td><p><a href="../Page/向井政生.md" title="wikilink">向井政生</a><sup>7</sup></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/宇内梨沙" title="wikilink">宇内梨沙</a><sup>8</sup></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -219,22 +219,21 @@
 <tr class="even">
 <td><ul>
 <li>平日朝・土曜朝の担当者は<a href="https://ja.wikipedia.org/wiki/TBSテレビ系列朝の情報番組枠" title="wikilink">朝の情報番組キャスターを兼務</a>。</li>
-<li><sup>1</sup> 『<a href="../Page/TBSニュース.md" title="wikilink">TBS NEWS</a>』を兼務。</li>
+<li><sup>1</sup> 『<a href="https://ja.wikipedia.org/wiki/まるっと!サタデー" title="wikilink">まるっと!サタデー</a>』・『<a href="https://ja.wikipedia.org/wiki/あさチャン!" title="wikilink">あさチャン!</a>』を兼務。</li>
 <li><sup>2</sup> 『<a href="https://ja.wikipedia.org/wiki/グッとラック!" title="wikilink">グッとラック!</a>』を兼務。</li>
-<li><sup>3</sup> 『<a href="https://ja.wikipedia.org/wiki/Nスタ" title="wikilink">Nスタ</a>』を兼務。</li>
-<li><sup>4</sup> ごく稀にお昼の男性キャスターが担当する場合もある。</li>
-<li><sup>5</sup> 『<a href="https://ja.wikipedia.org/wiki/情報7days_ニュースキャスター" title="wikilink">新・情報7days ニュースキャスター</a>』を兼務。</li>
-<li><sup>6</sup> 『<a href="../Page/JNNフラッシュニュース.md" title="wikilink">JNNフラッシュニュース</a>』を兼務。</li>
+<li><sup>3</sup> 『<a href="../Page/TBSニュース.md" title="wikilink">TBS NEWS</a>』を兼務。</li>
+<li><sup>4</sup> 『<a href="https://ja.wikipedia.org/wiki/Nスタ" title="wikilink">Nスタ</a>』を兼務。</li>
+<li><sup>5</sup> ごく稀にお昼の男性キャスターが担当する場合もある。</li>
+<li><sup>6</sup> 『<a href="https://ja.wikipedia.org/wiki/情報7days_ニュースキャスター" title="wikilink">新・情報7days ニュースキャスター</a>』メインキャスターを兼務。</li>
 <li><sup>7</sup> 『<a href="https://ja.wikipedia.org/wiki/報道特集_(TBS)" title="wikilink">報道特集</a>』ナレーションを兼務。</li>
-<li><sup>8</sup> 『<a href="https://ja.wikipedia.org/wiki/まるっと!サタデー" title="wikilink">まるっと!サタデー</a>』・『<a href="https://ja.wikipedia.org/wiki/あさチャン!" title="wikilink">あさチャン!</a>』を兼務。</li>
-<li><sup>9</sup> 『<a href="https://ja.wikipedia.org/wiki/サンデーニュース_Bizスクエア" title="wikilink">サンデーニュース Bizスクエア</a>』（<a href="../Page/BS-TBS.md" title="wikilink">BS-TBS</a>）のキャスターを兼務。</li>
+<li><sup>8</sup> 『<a href="https://ja.wikipedia.org/wiki/サンデーニュース_Bizスクエア" title="wikilink">サンデーニュース Bizスクエア</a>』（<a href="../Page/BS-TBS.md" title="wikilink">BS-TBS</a>）のキャスターを兼務。</li>
 </ul>
 <dl>
 <dt>備考</dt>
 
 </dl>
 <ul>
-<li>夏目は<a href="../Page/フリーアナウンサー.md" title="wikilink">フリーアナウンサー</a>。【 】は<a href="../Page/気象予報士.md" title="wikilink">気象予報士</a>。それ以外は<a href="https://ja.wikipedia.org/wiki/TBSテレビのアナウンサー一覧" title="wikilink">TBSテレビアナウンサー</a>。</li>
+<li>【 】は<a href="../Page/気象予報士.md" title="wikilink">気象予報士</a>。それ以外は<a href="https://ja.wikipedia.org/wiki/TBSテレビのアナウンサー一覧" title="wikilink">TBSテレビアナウンサー</a>。</li>
 <li>気象予報士について、平日昼の担当者は基本的にはローカル差し替え枠で放送の<a href="https://ja.wikipedia.org/wiki/関東地方あしたのお天気" title="wikilink">関東地方の天気のみ出演</a>（台風などの災害の際には全国ニュース枠にも出演する場合あり）、土日朝の担当者は全国の天気と関東地方の天気を担当。</li>
 </ul></td>
 <td></td>
@@ -352,7 +351,7 @@
 <tr class="odd">
 <td><p>2019.7</p></td>
 <td><p>現在</p></td>
-<td><p>6:45 - 7:00 (15分）</p></td>
+<td><p>6:45 - 6:59（14分）</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -370,7 +369,7 @@
 | 1996.4  | 2009.3 | 11:45 - 11:59（14分）                                                      |                    |
 | 2009.4  | 2010.3 | （[放送なし](https://ja.wikipedia.org/wiki/THE_NEWS_\(TBS・JNN\) "wikilink")） |                    |
 | 2010.4  | 2020.3 | 11:30 - 11:55（25分）                                                      | 11:45 - 11:59（14分） |
-| 2020.3  | 現在     | 11:30 - 11:45（15分）                                                      |                    |
+| 2020.4  | 現在     | 11:30 - 11:45（15分）                                                      |                    |
 
 ### 最終版
 
@@ -500,7 +499,7 @@
 <tr class="odd">
 <td><p>2019.10.14</p></td>
 <td><p>2020.3.29</p></td>
-<td><p><a href="../Page/赤荻歩.md" title="wikilink">赤荻歩</a></p></td>
+<td><p><a href="../Page/赤荻歩.md" title="wikilink">赤荻歩</a><sup>5・6</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>2020.3.30</p></td>
@@ -509,11 +508,13 @@
 </tr>
 <tr class="odd">
 <td><ul>
-<li>土曜日は2002年4月から2017年3月までは<a href="https://ja.wikipedia.org/wiki/TBSテレビ系列朝の情報番組枠" title="wikilink">朝の情報番組のサブキャスター</a>、2019年7月からはメインキャスターを兼務。</li>
+<li>土曜の担当者は2002年4月 - 2017年3月および2019年7月以降、<a href="https://ja.wikipedia.org/wiki/TBSテレビ系列朝の情報番組枠" title="wikilink">朝の情報番組を兼務</a>。</li>
 <li><sup>1</sup> 担当当時はTBSアナウンサーであったが、気象予報士として出演。</li>
 <li><sup>2</sup> この時期は、<a href="../Page/伊藤隆太.md" title="wikilink">伊藤隆太</a>、<a href="../Page/鈴木順.md" title="wikilink">鈴木順</a>、升田尚宏らが担当。</li>
 <li><sup>3</sup> いずれも山内の産休に伴う代役として担当。なお、田中は2012年4月より正式に山内の後任となる。</li>
 <li><sup>4</sup> 秋沢と同時にアナウンス室から異動となったが、1週早い6月23日放送分で降板。</li>
+<li><sup>5</sup> 昼の『JNN NEWS』を兼務（担当時期は下の表を参照）。</li>
+<li><sup>6</sup> 『<a href="https://ja.wikipedia.org/wiki/Nスタ" title="wikilink">Nスタ</a>』を兼務。</li>
 </ul></td>
 <td></td>
 <td></td>
@@ -665,8 +666,8 @@
 <tr class="odd">
 <td><p>2017.4.2</p></td>
 <td><p>2017.8.20</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小林由未子" title="wikilink">小林由未子</a><sup>9</sup><br />
-<a href="https://ja.wikipedia.org/wiki/林みなほ" title="wikilink">林みなほ</a><sup>9</sup></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/小林由未子" title="wikilink">小林由未子</a><sup>10</sup><br />
+<a href="https://ja.wikipedia.org/wiki/林みなほ" title="wikilink">林みなほ</a><sup>10</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>2017.8.21</p></td>
@@ -701,7 +702,7 @@
 <tr class="even">
 <td><p>2019.9.2</p></td>
 <td><p>2019.10.6</p></td>
-<td><p>（シフト勤務）<sup>11</sup></p></td>
+<td><p>（シフト勤務）<sup>12</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>2019.10.7</p></td>
@@ -711,16 +712,28 @@
 <tr class="even">
 <td><p>2019.10.21</p></td>
 <td><p>2020.3.29</p></td>
-<td><p>赤荻歩<sup>3</sup></p></td>
+<td><p>赤荻歩<sup>3・9</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>2020.3.30</p></td>
-<td><p>現在</p></td>
+<td><p>2020.7.3</p></td>
 <td><p>森朗</p></td>
 </tr>
 <tr class="even">
+<td><p>2020.7.9</p></td>
+<td><p>2020.8.5</p></td>
+<td><p>古谷有美<sup>11</sup></p></td>
+</tr>
+<tr class="odd">
+<td><p>2020.8.6</p></td>
+<td><p>現在</p></td>
+<td><p>宇賀神メグ<sup>13</sup></p></td>
+</tr>
+<tr class="even">
 <td><ul>
-<li><a href="../Page/スポットニュース.md" title="wikilink">スポットニュース</a>との兼務は注記を省略。</li>
+<li>土曜の担当者は同日の『<a href="../Page/TBSニュース.md" title="wikilink">TBS NEWS</a>』を兼務。</li>
+<li>土曜の担当者は2010年10月から2019年6月まで『<a href="https://ja.wikipedia.org/wiki/報道特集_(TBS)" title="wikilink">報道特集</a>』のナレーターを兼務。</li>
+<li>日曜の担当者は2017年4月以降、同日の『TBS NEWS』を兼務（2020年3月以降の赤荻は隔週）。</li>
 <li><sup>1</sup> 『<a href="../Page/JNNニュース1130.md" title="wikilink">JNNニュース1130</a>』も続投。</li>
 <li><sup>2</sup> <a href="../Page/松永邦久.md" title="wikilink">松永邦久</a>、<a href="../Page/青木靖雄.md" title="wikilink">青木靖雄</a>ほかが担当。</li>
 <li><sup>3</sup> 同日<a href="../Page/TBSテレビ系列夕方ニュース枠.md" title="wikilink">夕方のニュースを兼務</a>（詳細は各番組のページを参照）。</li>
@@ -729,9 +742,11 @@
 <li><sup>6</sup> 同時間帯のニュースを内包する<a href="https://ja.wikipedia.org/wiki/TBSテレビ系列平日昼の情報番組枠" title="wikilink">昼の情報番組を兼務</a>。</li>
 <li><sup>7</sup> 『<a href="https://ja.wikipedia.org/wiki/JNNニュースフロント" title="wikilink">ニュースフロント</a>』から続投。</li>
 <li><sup>8</sup> 2011年9月までトップクレジット扱い。</li>
-<li><sup>9</sup> おおむね隔週で担当。</li>
-<li><sup>10</sup> 産休のため途中降板。</li>
-<li><sup>11</sup> 伊藤隆太（7日）、長岡（14日）、小林由未子（21・28日）、田村（10月5日）が担当した。</li>
+<li><sup>9</sup> 朝の『JNN NEWS』を兼務（担当時期は上の表を参照）。</li>
+<li><sup>10</sup> おおむね隔週で担当。</li>
+<li><sup>11</sup> 産休のため途中降板。</li>
+<li><sup>12</sup> 伊藤隆太（7日）、長岡（14日）、小林由未子（21・28日）、田村（10月5日）が担当した。</li>
+<li><sup>13</sup> 『<a href="https://ja.wikipedia.org/wiki/あさチャン!" title="wikilink">あさチャン!</a>』水 - 金曜日のサブキャスターを兼務。</li>
 </ul></td>
 <td></td>
 <td></td>
@@ -1011,7 +1026,7 @@
   - 2012年3月26日 - 2017年10月1日 作曲：[羽岡佳](../Page/羽岡佳.md "wikilink")・編曲：[田尻光隆](https://ja.wikipedia.org/wiki/田尻光隆 "wikilink")「SPLASH\!\! JNNニュース バージョン」\[14\]
       - ヴァイオリンの音が印象的な曲であり、2012年3月26日から2013年3月31日まで使われていた『[Nスタ](https://ja.wikipedia.org/wiki/Nスタ "wikilink")』テーマ曲のアレンジ版でもある。
   - 2017年10月2日 - 現在 作曲：
-      - 電子音を基調としたシンプルな曲である。
+      - 電子音を基調としたシンプルな曲である。ただし土曜朝のみ[クランベリーズ](../Page/クランベリーズ.md "wikilink")「Dreams」。
 
 ### 項目テロップのデザイン
 
@@ -1020,7 +1035,7 @@
   - 1997年10月 - 2007年4月1日 ： 緑と黄のラインが入ったテロップを使用。（「JNNスポーツ&ニュース」でも使用）
   - 2007年4月2日 - 2009年3月29日 ： 水色を基調にしたデザイン。左下に「JNN」ロゴ、右下に「JAPAN NEWS NETWORK」と表記されている。
   - 2010年3月29日 - 2012年3月25日 ： 緑を基調としたデザイン。テロップの座布団部分には「JNN」のロゴマークが大きく記されている。2010年9月27日に黄緑の枠で縁取ったものにマイナーチェンジ。
-  - 2012年3月26日 - 2017年10月1日 ： 水色を基調としたデザイン。[Nスタ](https://ja.wikipedia.org/wiki/Nスタ "wikilink")テロップの色違い。2013年4月1日に橙色を基調としたデザインマイナーチェンジ。
+  - 2012年3月26日 - 2017年10月1日 ： 水色を基調としたデザイン。[Nスタ](https://ja.wikipedia.org/wiki/Nスタ "wikilink")テロップの色違い。2013年4月1日に橙色を基調としたデザインにマイナーチェンジ。
   - 2017年10月2日 - 現在：TBSの動画ニュースサイト『TBS NEWS』と統一を図るため、白・灰色を基調としたシンプルなものになっている。青はアニメーション効果と出演者の名前表記に使われる程度に留まる。2020年4月1日にマイナーチェンジが行われ、青が濃い目になっている。
 
 ### VTRに使用されるテロップ
@@ -1031,7 +1046,7 @@
   - 2007年4月2日 - 2009年3月29日：[ニューロダン](https://ja.wikipedia.org/wiki/ニューロダン "wikilink")、[スーラ](../Page/スーラ_\(書体\).md "wikilink") （[フォントワークス](../Page/フォントワークス.md "wikilink")製）
   - 2010年3月29日 - 2013年3月31日：ロダンNTLG ※「Nスタ」と共用
   - 2013年4月1日 - 2017年10月1日：ニューロダン
-  - 2017年10月2日 - 2020年3月31日：TBUDゴシック（タイプバンク製）
+  - 2017年10月2日 - 2020年3月31日：TBUDゴシック（モリサワ製）
   - 2020年4月1日 - : AXISフォント（タイププロジェクト製）
 
 ## その他
@@ -1074,7 +1089,7 @@
 1.  このロゴは2020年4月1日にマイナーチェンジが行われ、[TBSテレビ](../Page/TBSテレビ.md "wikilink")の新ブランドロゴに合わせたものに替えられた（「J」の終わりの部分が66.6°の斜め上に切られている）。
 2.  ただし、TBS公式サイトの番組表では『王様のブランチ』に[フロート扱いされている](../Page/フロート番組.md "wikilink")。2015年8月15日は通常放送であったが、後半に戦没者追悼式典を放送するも、『王様のブランチ・第2部』内で同パートのネット局および同パート非ネット局のうちのごく一部でのみ継続放送となり、12時10分頃までその続きを放送した（『ブランチ・第2部』開始の11時59分にテロップで「王様のブランチの時間ですが継続します」と表示された）。
 3.  『王様のブランチ』で放送されていたWEATHER BRUNCHから移行。そのため『王様のブランチ・第1部』のWEATHER BRUNCHは廃止された。
-4.  一部祝日で、ひるおび\!の第0部が「×」、午前が「△」となる日は、『ひるおび\! （JNNニュース）』と表示する日がある。
+4.  通常は10:25からネットするが、特別編成等でひるおび\!を11:30からネットする場合は当該枠を『ひるおび\! （JNNニュース）』と表示する日がある。
 5.  2012年3月30日でネットを打ち切り、10月より3曜日だけ復帰。2013年3月25日より、全曜日復帰
 6.  HBCでは各種新聞のテレビ欄でも別番組扱いとなっている。
 7.  はなまるマーケット内の「はなまるニュース」は、(単独枠で放送の)JNN NEWSのフォーマットを使用。

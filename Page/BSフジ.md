@@ -259,18 +259,21 @@
 
 ## チャンネルの内訳
 
-論理チャンネル枠番号\[10\]は「**18**」（テレビ：BS18\*ch、ラジオ：BS48\*ch、データ：BS78\*ch）。放送事業者名は「BSフジ」で、各チャンネル名は「BSフジ・\*\*\*」（\*\*\*には各チャンネルの論理チャンネル番号が入る）。
+放送事業者名は「BSフジ」で、各チャンネル名は「BSフジ・\*\*\*」（\*\*\*には各チャンネルの論理チャンネル番号が入る）。
 
   - テレビ放送
 
 <!-- end list -->
 
-  - BS181 - 183・188・189ch（[リモコンキーID](../Page/リモコンキーID.md "wikilink")「**8**」）
+  - 局番号\[10\]：**18**
+      - BS181 - 183ch（通常放送）
+      - BS188・189ch（臨時放送）
+  - [リモコンキーID](../Page/リモコンキーID.md "wikilink")：**8**
 
 <!-- end list -->
 
   -
-    181 - 183chは現在は[マルチ編成を行っていないため](../Page/マルチチャンネル.md "wikilink")、どのチャンネルを選局しても番組の内容は同じである（182・183chは[2007年](../Page/2007年.md "wikilink")12月1日より使用）。また、188・189chは臨時放送用として割り当てられているが、使用されたことはない。
+    181 - 183chは現在は[マルチ編成を行っていないため](../Page/マルチチャンネル.md "wikilink")、どのチャンネルを選局しても番組の内容は同じである（182・183chは[2007年](../Page/2007年.md "wikilink")12月1日より使用）。また、188・189chは臨時放送用として割り当てられ、2020年8月14日放送のプロ野球中継「[ソフトバンク対](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")[オリックス](../Page/オリックス・バファローズ.md "wikilink")」（[テレビ西日本](../Page/テレビ西日本.md "wikilink")制作）の17時以降の中継延長で188chが初めて使用された（標準画質）。
     [データ放送](../Page/データ放送.md "wikilink")も実施しており、ニュース・天気予報・番組情報などのコンテンツが利用できる。
     毎日4時55分を基点とする24時間放送を行っているが、日によっては3時台から4時台にかけて[放送休止](../Page/放送休止.md "wikilink")となる場合がある（試験電波発射中でもデータ放送は休止。この場合、dボタンを押しても画面下の半透明のブルーバックに「データ放送は休止」という旨のメッセージが表示されるのみである）。過去には、毎週日曜日の3時から翌朝4時55分を定期的に休止に宛てていた時期がある。
     [ウォーターマーク](../Page/ウォーターマーク.md "wikilink")は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月3日](../Page/5月3日.md "wikilink")より画面右上に表示している（CM、一部の[ミニ番組](../Page/ミニ番組.md "wikilink")を除く。当初は[通販番組と](../Page/テレビショッピング.md "wikilink")[提供クレジット](../Page/提供クレジット.md "wikilink")の表示中でも消去していたが、現在は表示されている）。当時のBSデジタル放送各局では最後発である。
@@ -279,19 +282,33 @@
 
   - 独立データ放送
 
-[2018年](../Page/2018年.md "wikilink")に放送を終了し、現在は使用されていない。
+<!-- end list -->
 
-  - BS780ch - ニュース・天気\[11\]
-  - BS781ch - 未使用
+  - 局番号\[11\]：**78**
+      - BS780・781ch
+
+<!-- end list -->
+
+  -
+    780chは、開局当初は使用されていなかったが、[2007年](../Page/2007年.md "wikilink")から双方向サービスの案内・登録チャンネルとして放送を開始した。双方向サービス終了後はニュース・天気のチャンネルとして使用されていたが、[2018年](../Page/2018年.md "wikilink")に放送を終了し、現在は使用されていない。
+    なお、781chは開局以来一度も使用されたことがない。
 
 <!-- end list -->
 
   - ラジオ放送
 
-[NRNの](../Page/全国ラジオネットワーク.md "wikilink")2つの[キー局](../Page/キー局.md "wikilink")が制作を担当。[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")をもって終了した。
+<!-- end list -->
 
-  - BS488ch - [LFX488](../Page/LFX488.md "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")制作）
-  - BS489ch - [BSQR489](../Page/BSQR489.md "wikilink")（[文化放送](../Page/文化放送.md "wikilink")制作）
+  - 局番号\[12\]：**48**
+      - BS488・489ch
+  - リモコンキーID（非公式）：**ラジオ9**・**ラジオ10**
+
+<!-- end list -->
+
+  -
+    [NRNの](../Page/全国ラジオネットワーク.md "wikilink")2つの[キー局](../Page/キー局.md "wikilink")が制作を担当。[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")をもって終了した。
+      - BS488ch（ID：ラジオ9） - [LFX488](../Page/LFX488.md "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")制作）
+      - BS489ch（ID：ラジオ10） - [BSQR489](../Page/BSQR489.md "wikilink")（[文化放送](../Page/文化放送.md "wikilink")制作）
 
 ### ステーションID
 
@@ -314,15 +331,16 @@
 <tbody>
 <tr class="odd">
 <td><p>BSフジ×ウェザーニュース</p></td>
-<td><p>日曜 - 土曜 5:00 - 5:30（実際には5:26まで）</p></td>
+<td><p>日曜 - 土曜 5:00 - 5:30（実際には5:26まで）<br />
+BSフジ4Kは月曜・日曜のみ放送[13]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウェザーニューズ" title="wikilink">ウェザーニューズ</a>制作。<br />
 同社<a href="https://ja.wikipedia.org/wiki/ウェザーニュースLiVE" title="wikilink">ウェザーニュースLiVE</a>の<a href="../Page/サイマル放送.md" title="wikilink">サイマル放送</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/BSフジNEWS" title="wikilink">BSフジNEWS</a></p></td>
 <td><p>月曜 - 金曜<br />
-8:53 - 8:55、10:58 - 11:00、<br />
-13:55 - 14:00、16:00 - 16:02<br />
+8:53 - 8:55、10:57 - 11:00、<br />
+13:58 - 14:00、16:00 - 16:02<br />
 土曜<br />
 13:55 - 14:00、18:55 - 19:00<br />
 日曜<br />
@@ -332,20 +350,26 @@
 <td><p><a href="../Page/フジニュースネットワーク.md" title="wikilink">FNN（フジニュースネットワーク）制作</a></p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/BSフジLIVE_プライムニュース" title="wikilink">プライムオンラインTODAY</a></p></td>
+<td><p>月曜 - 金曜 19:30 - 20:00</p></td>
+<td><p>2020年10月5日スタート予定 フジテレビ報道局制作</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/BSフジLIVE_プライムニュース" title="wikilink">BSフジLIVE<br />
 プライムニュース</a></p></td>
 <td><p>月曜 - 金曜 20:00 - 21:55</p></td>
 <td><p>フジテレビ報道局制作</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/BSフジLIVE_プライムニュース" title="wikilink">プライムニュース SUPER</a></p></td>
 <td><p>土曜 22:00 - 22:55</p></td>
-<td><p>フジテレビ報道局制作 2020年3月28日までは土曜 21:00 - 21:55で放送していた。</p></td>
+<td><p>フジテレビ報道局制作</p>
+<p>2020年3月28日までは土曜 21:00 - 21:55で放送していた。</p></td>
 </tr>
 </tbody>
 </table>
 
-### 映画・ドラマ
+### 映画・ドラマ・時代劇
 
 <table>
 <thead>
@@ -359,10 +383,10 @@
 <tbody>
 <tr class="odd">
 <td><p>映画</p></td>
-<td><p>（枠名なしの映画枠）</p></td>
-<td><p>土曜 14:00 - 15:55<br />
-日曜 12:00 - 13:55(不定期)</p></td>
-<td><p>映画以外の<a href="../Page/特別番組.md" title="wikilink">特別番組</a>や時代劇が編成される週もある</p></td>
+<td><p>（枠名なしの映画、ドラマ、時代劇枠）</p></td>
+<td><p>土曜 12:00 - 13:55、14:00 - 15:55<br />
+日曜 12:00 - 13:55</p></td>
+<td><p>他、<a href="../Page/特別番組.md" title="wikilink">特別番組</a>や通販番組が編成される週もある。</p></td>
 </tr>
 <tr class="even">
 <td><p>BSフジ4Kシアター</p></td>
@@ -379,47 +403,51 @@
 <tr class="even">
 <td><p>〈BSフジサスペンス劇場〉</p></td>
 <td><p>月曜 - 金曜 12:00 - 13:58</p></td>
-<td><p>※スポーツ中継などにより放送休止の場合もあり</p></td>
+<td><p>地上波フジテレビで放送された2時間ドラマを放送。 スポーツ中継などにより放送休止の場合もあり</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>〈午後の名作ドラマ劇場〉</p></td>
+<td><p>〈午後の名作ドラマ劇場〉<a href="https://ja.wikipedia.org/wiki/最高の離婚" title="wikilink">最高の離婚</a></p></td>
 <td><p>月曜 - 金曜 17:00 - 19:00</p></td>
-<td></td>
+<td><p>地上波フジテレビで放送された2時間ドラマを放送していたが、 2020年8月からは地上波フジテレビで放送された1時間ドラマを2話連続放送している。</p>
+<p>スポーツ中継などにより放送休止の場合もあり</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>〈フジテレビドラマ再放送〉好きな人がいること</p></td>
-<td><p>月曜 - 金曜 10:00 - 10:57</p></td>
-<td></td>
+<td><p>〈『このミス』大賞ドラマシリーズ〉<a href="https://ja.wikipedia.org/wiki/死亡フラグシリーズ#テレビドラマ" title="wikilink">死亡フラグが立ちました！</a></p></td>
+<td><p>土曜 24:30 - 25:00</p></td>
+<td><p>2020年7月25日スタート</p>
+<p>地上波ではカンテレで放送されていた。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>名もなき復讐者 ZEGEN</p></td>
-<td><p>土曜 24:30 - 25:00</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/時代劇.md" title="wikilink">時代劇</a></p></td>
-<td><p>〈時代劇名作選〉旗本退屈男</p></td>
+<td><p>〈時代劇名作選〉<a href="../Page/斬り捨て御免!.md" title="wikilink">斬り捨て御免！第2シリーズ</a></p></td>
 <td><p>月曜 - 金曜 8:55 - 10:00</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>〈時代劇〉</p></td>
-<td><p>月曜 - 金曜 19:00 - 19:55</p></td>
-<td><p>月曜:鬼平犯科帳シリーズ<br />
-火曜:座頭市シリーズ<br />
-水曜:御家人斬九郎シリーズ<br />
-木曜:剣客商売シリーズ<br />
-金曜:銭形平次シリーズ</p></td>
+<td><p>月曜 - 金曜 19:05 - 20:00</p></td>
+<td><p>曜日毎に下記シリーズを順に放送。</p>
+<p>月曜:<a href="https://ja.wikipedia.org/wiki/鬼平犯科帳_(中村吉右衛門)" title="wikilink">鬼平犯科帳シリーズ</a><br />
+火曜:<a href="https://ja.wikipedia.org/wiki/座頭市#テレビドラマ" title="wikilink">座頭市シリーズ</a><br />
+水曜:<a href="../Page/御家人斬九郎.md" title="wikilink">御家人斬九郎</a>シリーズ<br />
+木曜:<a href="https://ja.wikipedia.org/wiki/剣客商売_(テレビドラマ)#藤田まこと版" title="wikilink">剣客商売シリーズ</a><br />
+金曜:<a href="https://ja.wikipedia.org/wiki/銭形平次_(北大路欣也)" title="wikilink">銭形平次シリーズ</a></p>
+<p>2020年6月30日までは月曜 - 金曜 19:00 - 19:55で放送していた。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>海外ドラマ</p></td>
+<td><p>〈韓ドラ〉<a href="https://ja.wikipedia.org/wiki/星から来たあなた" title="wikilink">星から来たあなた</a></p></td>
+<td><p>月曜 - 金曜 10:00 - 10:57</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>韓国ドラマ</p></td>
 <td><p>〈韓ドラ〉秘密と嘘</p></td>
 <td><p>月曜 - 金曜 14:59 - 16:00</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -452,6 +480,12 @@
 <p>2020年4月05日より「BOAT RACEライブ 〜勝利へのターン〜」より改題し番組リニューアル。</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/BOAT_RACEライブ_〜勝利へのターン〜" title="wikilink">BOAT RACEプレミア</a></p></td>
+<td><p>不定期</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/野球.md" title="wikilink">野球</a></p></td>
 <td><p><a href="../Page/野球道_(フジテレビ系列).md" title="wikilink">BSフジLIVE プロ野球（西暦）</a></p></td>
 <td><p>（ナイター）<br />
@@ -462,168 +496,161 @@
 13:00 - 16:00<br />
 14:00 - 17:00<br />
 最大1時間延長（日曜日は延長なし）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ" title="wikilink">ヤクルト</a>・<a href="../Page/中日ドラゴンズ.md" title="wikilink">中日</a>（<a href="../Page/東海テレビ放送.md" title="wikilink">東海テレビ制作</a>）・<a href="../Page/広島東洋カープ.md" title="wikilink">広島</a>（<a href="https://ja.wikipedia.org/wiki/テレビ新広島" title="wikilink">テレビ新広島</a>制作）対<a href="https://ja.wikipedia.org/wiki/読売ジャイアンツ" title="wikilink">巨人戦</a>[12]、<a href="../Page/北海道日本ハムファイターズ.md" title="wikilink">日本ハム</a>（<a href="../Page/北海道文化放送.md" title="wikilink">北海道文化放送</a>制作）、<a href="../Page/オリックス・バファローズ.md" title="wikilink">オリックス</a>・<a href="../Page/阪神タイガース.md" title="wikilink">阪神</a>（<a href="../Page/関西テレビ放送.md" title="wikilink">関西テレビ制作</a>）、<a href="https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス" title="wikilink">ソフトバンク</a>（<a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a>制作）戦[13]を中継。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ" title="wikilink">ヤクルト</a>・<a href="../Page/中日ドラゴンズ.md" title="wikilink">中日</a>（<a href="../Page/東海テレビ放送.md" title="wikilink">東海テレビ制作</a>）・<a href="../Page/阪神タイガース.md" title="wikilink">阪神</a>（<a href="../Page/関西テレビ放送.md" title="wikilink">関西テレビ制作</a>）・<a href="../Page/広島東洋カープ.md" title="wikilink">広島</a>（<a href="https://ja.wikipedia.org/wiki/テレビ新広島" title="wikilink">テレビ新広島</a>制作）対<a href="https://ja.wikipedia.org/wiki/読売ジャイアンツ" title="wikilink">巨人戦</a>[14]、<a href="../Page/北海道日本ハムファイターズ.md" title="wikilink">日本ハム</a>（<a href="../Page/北海道文化放送.md" title="wikilink">北海道文化放送</a>制作）、<a href="../Page/オリックス・バファローズ.md" title="wikilink">オリックス</a>（関西テレビ制作）、<a href="https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス" title="wikilink">ソフトバンク</a>（<a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a>制作）戦[15]を中継。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/L!VE_MAJOR_LEAGUE_BASEBALL.md" title="wikilink">L!VE MAJOR LEAGUE BASEBALL</a><br />
 （<a href="https://ja.wikipedia.org/wiki/メジャーリーグ" title="wikilink">メジャーリーグ</a>中継）</p></td>
 <td><p>不定期</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/MLBダイジェスト" title="wikilink">MLBダイジェスト</a></p></td>
 <td><p>不定期</p></td>
 <td><p>出演 - <a href="../Page/福島良一.md" title="wikilink">福島良一</a>（MLB評論家）、<a href="https://ja.wikipedia.org/wiki/遠藤玲子" title="wikilink">遠藤玲子</a>ほか</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/大相撲" title="wikilink">相撲</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/感動!大相撲がっぷり総見" title="wikilink">感動!大相撲がっぷり総見</a></p></td>
 <td><p>不定期</p></td>
 <td><p>出演 - <a href="https://ja.wikipedia.org/wiki/唐橋ユミ" title="wikilink">唐橋ユミ</a>、<a href="../Page/琴錦功宗.md" title="wikilink">朝日山親方</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/バレーボール.md" title="wikilink">バレー<br />
 ボール</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Volleyball_Channel" title="wikilink">Volleyball Channel</a></p></td>
 <td><p>第3金曜 23:00 - 23:55<br />
-【再】第4日曜12:00- 12:55</p></td>
+【再】第4日曜 12:00- 12:55</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/ゴルフ.md" title="wikilink">ゴルフ</a></p></td>
 <td><p>激芯ゴルフ〜93期生への道〜</p></td>
-<td><p>月曜 23:00 - 23:30</p></td>
+<td><p>月曜 23:00 - 23:30 【再】日曜 9:00 - 9:30</p></td>
 <td><p>2020年3月30日スタート</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>attest ～WEEKLY GOLF NEWS～</p></td>
 <td><p>月曜 23:30 - 23:55</p></td>
 <td><p>2020年4月6日スタート</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ゴルフチャレンジアスリート</p></td>
 <td><p>土曜 9:30 - 10:01</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/フジサンケイクラシック.md" title="wikilink">フジサンケイクラシック</a></p></td>
 <td><p>毎年<a href="../Page/9月.md" title="wikilink">9月</a></p></td>
 <td><p>フジテレビ系列で中継される大会の模様を全て録画放送。<br />
 また地上波と同時放送、さらに地上波・CS放送とのリレー形式で放送を行う場合もある。</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/フジサンケイレディスクラシック.md" title="wikilink">フジサンケイレディスクラシック</a></p></td>
 <td><p>毎年<a href="https://ja.wikipedia.org/wiki/4月" title="wikilink">4月</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/宮里藍_サントリーレディスオープンゴルフトーナメント.md" title="wikilink">宮里藍 サントリーレディスオープンゴルフトーナメント</a></p></td>
 <td><p>毎年<a href="../Page/6月.md" title="wikilink">6月</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/NEC軽井沢72ゴルフトーナメント.md" title="wikilink">NEC軽井沢72ゴルフトーナメント</a></p></td>
 <td><p>毎年<a href="../Page/8月.md" title="wikilink">8月</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/アクサレディスゴルフトーナメント.md" title="wikilink">アクサレディスゴルフトーナメント in MIYAZAKI</a></p></td>
 <td><p>毎年<a href="https://ja.wikipedia.org/wiki/3月" title="wikilink">3月</a>（2013年より）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/北海道Meijiカップ.md" title="wikilink">北海道Meijiカップ</a></p></td>
 <td><p>毎年8月（2018年より）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東京マラソン" title="wikilink">東京マラソン</a></p></td>
 <td><p>3月第1日曜（当日録画）</p></td>
 <td><p>地上波フジテレビ系列で放送される年度に当日午前中の部（男子選考会の部）を録画放送。<br />
-<a href="https://ja.wikipedia.org/wiki/東京マラソン2018" title="wikilink">2018年は</a><a href="../Page/2月25日.md" title="wikilink">2月25日</a> 19:00 - 21:50に放送（地上波より10時間遅れ）[14]</p></td>
+<a href="https://ja.wikipedia.org/wiki/東京マラソン2018" title="wikilink">2018年は</a><a href="../Page/2月25日.md" title="wikilink">2月25日</a> 19:00 - 21:50に放送（地上波より10時間遅れ）[16]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/香川丸亀国際ハーフマラソン.md" title="wikilink">香川丸亀国際ハーフマラソン</a></p></td>
 <td><p>2月第1日曜 10:30 - 11:50</p></td>
 <td><p><a href="../Page/岡山放送.md" title="wikilink">岡山放送</a>制作。2012年から放送開始。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/延岡西日本マラソン.md" title="wikilink">延岡西日本マラソン</a></p></td>
 <td><p>2月第2日曜</p></td>
 <td><p><a href="../Page/テレビ宮崎.md" title="wikilink">テレビ宮崎</a>制作。2012年から放送開始。2012年・2013年は地上波と同時放送だったが、 2014年以降は23:00 - 翌0:30のダイジェスト放送となった。</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/春の高校伊那駅伝" title="wikilink">春の高校伊那駅伝</a></p></td>
 <td><p>3月第3日曜 12:00 - 14:30</p></td>
-<td><p><a href="../Page/長野放送.md" title="wikilink">長野放送</a>制作。同局 (<a href="../Page/長野県.md" title="wikilink">長野県</a>ローカル)と同時生放送。2017年から放送開始[15]。</p></td>
+<td><p><a href="../Page/長野放送.md" title="wikilink">長野放送</a>制作。同局 (<a href="../Page/長野県.md" title="wikilink">長野県</a>ローカル)と同時生放送。2017年から放送開始[17]。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/北海道マラソン.md" title="wikilink">北海道マラソン</a></p></td>
 <td><p>8月最終日曜 8:58 - 11:50</p></td>
 <td><p>北海道文化放送制作。2013年から放送開始。2011年までは地上波全国ネット放送だった。</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/モータースポーツ" title="wikilink">モーター<br />
 スポーツ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スーパーフォーミュラ" title="wikilink">スーパーフォーミュラ</a></p></td>
-<td><p>各レース決勝 14:00 - 15:55（基本）</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/スーパーフォーミュラ" title="wikilink">全日本スーパーフォーミュラ選手権大会</a></p></td>
+<td><p>各レース決勝 18:00 - 19:55（録画）</p></td>
+<td><p>2018年までは生放送で基本14:00 - 15:55で放送されていた。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>スーパーフォーミュラGOON！</p></td>
 <td><p>不定期</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>F1グランプリ</p></td>
 <td><p>毎年10月</p></td>
 <td><p>日本グランプリのみ放送</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>その他</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フィギュアスケートTV!" title="wikilink">フィギュアスケートTV!</a></p></td>
 <td><p>第1金曜 23:00 - 23:55</p></td>
 <td><p>出演：<a href="../Page/八木沼純子.md" title="wikilink">八木沼純子</a>、<a href="https://ja.wikipedia.org/wiki/松村未央" title="wikilink">松村未央</a>（フジテレビアナウンサー）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/JUDO" title="wikilink">JUDO</a></p></td>
 <td><p>土曜 17:30 - 17:55</p></td>
 <td><p>※隔週新作 2020年3月28日までは土曜 18:30 - 18:55で放送していた。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/お台場バドミントン学園" title="wikilink">お台場バドミントン学園</a></p></td>
 <td><p>最終日曜 13:00 - 14:00</p></td>
 <td><p>2019年5月26日スタート 出演：<a href="https://ja.wikipedia.org/wiki/潮田玲子" title="wikilink">潮田玲子</a>、<a href="https://ja.wikipedia.org/wiki/内田嶺衣奈" title="wikilink">内田嶺衣奈</a>（フジテレビアナウンサー）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/極真会館松井派" title="wikilink">極真空手全日本選手権</a></p></td>
 <td><p>毎年<a href="../Page/11月.md" title="wikilink">11月</a>（録画）</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>アキレアの橋 ～2020遥かなる東京へ～</p></td>
-<td><p>不定期<br />
-日曜 18:00 - 19:55</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -654,14 +681,14 @@
 <tr class="odd">
 <td><p><a href="../Page/わがまま!気まま!旅気分.md" title="wikilink">わがまま!気まま!旅気分</a></p></td>
 <td><p>土曜 6:00 - 6:55</p></td>
-<td><p>FNS各局制作 2020年3月28日を最後に放送中断中。</p></td>
+<td><p>FNS各局制作</p></td>
 </tr>
 <tr class="even">
 <td><p>完全生中継 <a href="https://ja.wikipedia.org/wiki/祇園祭#宵山・山鉾巡行" title="wikilink">祇園祭山鉾巡行</a></p></td>
 <td><p>毎年<a href="../Page/7月17日.md" title="wikilink">7月17日</a><br />
 8:30 - 10:55</p></td>
 <td><p>KBS京都制作<br />
-2008年までは<a href="../Page/関西テレビ☆京都チャンネル.md" title="wikilink">関西テレビ☆京都チャンネル</a>との共同制作。</p></td>
+2008年までは<a href="../Page/関西テレビ☆京都チャンネル.md" title="wikilink">関西テレビ☆京都チャンネル</a>との共同制作。 2020年は<a href="../Page/2019新型コロナウイルス.md" title="wikilink">新型コロナウィルスの影響で染拡大防止等の影響で祇園祭の山鉾巡行と神輿渡御</a>、関連行事や神事の中止や縮小の為、「祇園祭スペシャル 知ってるようで知らない祇園祭物語」を収録にて放送。</p></td>
 </tr>
 <tr class="odd">
 <td><p>祇園祭山鉾巡行・後祭</p></td>
@@ -741,44 +768,44 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 <td><p>2019年4月3日スタート</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/テリー伊藤の今夜も傾奇流" title="wikilink">テリー伊藤の今夜も傾奇流</a>!</p></td>
-<td><p>月1回水曜 24:30 - 25:00</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>橋本マナミの東京はいすぺ女子図鑑</p></td>
 <td><p>木曜 23:00 - 23:30</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/STU発⇒東京.md" title="wikilink">STU発⇒東京</a></p></td>
 <td><p>木曜 23:30 - 23:55</p></td>
 <td><p>2020年4月12日を最後に放送中断中。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>DJ OSSHY DISCO TV</p></td>
 <td><p>第3木曜 23:30 - 23:55</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/タイプライターズ〜物書きの世界〜" title="wikilink">タイプライターズ～物書きの世界～</a></p></td>
 <td><p>最終金曜 23:00 - 23:55</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><ジャパコンProject>二次元領域拡大通信</p></td>
 <td><p>第1金曜 24:00 - 24:30</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><ジャパコンProject>ギルドフレンズ～世界へ？本気です！～</p></td>
 <td><p>第3金曜 24:00 - 24:30</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/人生は三百六十五歩のマーチ" title="wikilink">人生は三百六十五歩のマーチ</a></p></td>
 <td><p>土曜 16:00 - 17:25</p></td>
 <td><p>※隔週新作</p></td>
+</tr>
+<tr class="even">
+<td><p>&lt;土曜+1&gt;リモートシェフ</p></td>
+<td><p>土曜 18:00 - 18:55</p></td>
+<td><p>土曜+1枠は月毎に番組が変わり、一部番組除き基本全2～3回の番組構成となる。（残りの週は再放送） 2020年3月28日までは土曜 22:00 - 22:55で放送していた。</p></td>
 </tr>
 <tr class="odd">
 <td><p><BSフジ歌の時間></p></td>
@@ -786,29 +813,19 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 <td></td>
 </tr>
 <tr class="even">
-<td><p>&lt;土曜+1&gt;旅する侍キュイジニエ</p></td>
-<td><p>土曜 18:00 - 18:55</p></td>
-<td><p>土曜+1枠は月毎に番組が変わり、一部番組除き基本全2～3回の番組構成となる。（残りの週は再放送） 2020年3月28日までは土曜 22:00 - 22:55で放送していた。</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/小山薫堂.md" title="wikilink">小山薫堂 東京会議</a></p></td>
 <td><p>土曜 23:00 - 23:30</p></td>
 <td><p>※隔週新作</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/所さんの世田谷ベース.md" title="wikilink">所さんの世田谷ベース</a></p></td>
 <td><p>土曜 23:30 - 24:25</p></td>
 <td><p>※隔週新作</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>＜MUSIC:S＞FUJI-YAMA MID-NIGHT-FISHING</p></td>
 <td><p>土曜 25:00 - 25:55</p></td>
 <td></td>
-</tr>
-<tr class="even">
-<td><p>荒野女子部Season2 ～ただいま交戦中～</p></td>
-<td><p>土曜 26:00 - 26:55</p></td>
-<td><p>※隔週新作</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/伊藤政則のロックTV!" title="wikilink">伊藤政則のロックTV!</a></p></td>
@@ -837,7 +854,7 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 
 海外で制作された作品（[カートゥーン](../Page/カートゥーン.md "wikilink")）やキッズアニメにおいては、全てのエピソードの放送完了後、すぐ翌週に第1話にさかのぼって再放送を繰り返し行う[ヘビーローテーション形式が採られることが多い](../Page/ヘヴィー・ローテーション.md "wikilink")。
 
-[深夜アニメ](../Page/深夜アニメ.md "wikilink")に関しては、開局から散発的に放送が続いていた（フジ地上波系の深夜アニメについては後述）。[2014年](../Page/2014年.md "wikilink")1月期、地上波独立局系アニメ（[UHFアニメ](../Page/UHFアニメ.md "wikilink")）『[スペース☆ダンディ](https://ja.wikipedia.org/wiki/スペース☆ダンディ "wikilink")』で初めて製作委員会に参加したのを皮切りに、深夜アニメの放送や製作委員会への参加にも積極的な姿勢を取るようになる。[2017年](../Page/2017年.md "wikilink")4月からは平日に『[アニメギルド](https://ja.wikipedia.org/wiki/アニメギルド "wikilink")』というアニメ放送枠を新設\[16\]。以後、現在に至るまで枠の曜日・数を毎期ごとに微妙に変えながら放送中（現在は月・木・金 0:00 - 0:30、火・水 0:00 - 1:00\[17\]）。
+[深夜アニメ](../Page/深夜アニメ.md "wikilink")に関しては、開局から散発的に放送が続いていた（フジ地上波系の深夜アニメについては後述）。[2014年](../Page/2014年.md "wikilink")1月期、地上波独立局系アニメ（[UHFアニメ](../Page/UHFアニメ.md "wikilink")）『[スペース☆ダンディ](https://ja.wikipedia.org/wiki/スペース☆ダンディ "wikilink")』で初めて製作委員会に参加したのを皮切りに、深夜アニメの放送や製作委員会への参加にも積極的な姿勢を取るようになる。[2017年](../Page/2017年.md "wikilink")4月からは平日に『[アニメギルド](https://ja.wikipedia.org/wiki/アニメギルド "wikilink")』というアニメ放送枠を新設\[18\]。以後、現在に至るまで枠の曜日・数を毎期ごとに微妙に変えながら放送中（現在は月・木・金 0:00 - 0:30、火・水 0:00 - 1:00\[19\]）。
 
 なお、かつてはフジ地上波系列を主軸として展開している深夜アニメ枠『[ノイタミナ](../Page/ノイタミナ.md "wikilink")』枠も放送していたが、2013年1月期を最後に放送休止（現在は新作や旧作を不定期で放送）。約5年後となる2018年10月期からはフジ地上波系列において新設された深夜アニメ枠『[+Ultra](https://ja.wikipedia.org/wiki/+Ultra "wikilink")』を、アニメギルド枠扱いで同時期放送開始。
 
@@ -852,12 +869,11 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 
 ### キッズ
 
-| 番組名                                                                                      | 放送日時           | 備考            |
-| ---------------------------------------------------------------------------------------- | -------------- | ------------- |
-| [GO\!GO\!チャギントンスペシャル](https://ja.wikipedia.org/wiki/チャギントン "wikilink")                   | 日曜 8:00 - 8:30 |               |
-| [ガチャムク](https://ja.wikipedia.org/wiki/ガチャムク "wikilink")                                  | 日曜 8:30 - 9:00 | 2018年7月8日放送開始 |
-| [サンリオキャラクターズ ポンポンジャンプ\!](https://ja.wikipedia.org/wiki/サンリオキャラクターズ_ポンポンジャンプ! "wikilink") | 日曜 9:00 - 9:30 |               |
-|                                                                                          |                |               |
+| 番組名                                                                    | 放送日時           | 備考            |
+| ---------------------------------------------------------------------- | -------------- | ------------- |
+| [GO\!GO\!チャギントンスペシャル](https://ja.wikipedia.org/wiki/チャギントン "wikilink") | 日曜 8:00 - 8:30 |               |
+| [ガチャムク](https://ja.wikipedia.org/wiki/ガチャムク "wikilink")                | 日曜 8:30 - 9:00 | 2018年7月8日放送開始 |
+|                                                                        |                |               |
 
 ### ドキュメンタリー・情報
 
@@ -889,7 +905,7 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 <tr class="even">
 <td><p>ハル常住のゴルフトランスポーター</p></td>
 <td><p>月曜 21:55 - 22:00</p></td>
-<td><p>2017年4月3日スタート[18]</p></td>
+<td><p>2017年4月3日スタート[20]</p></td>
 </tr>
 <tr class="odd">
 <td><p>コミックBAR Renta!</p></td>
@@ -926,16 +942,6 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 <td><p>保科有里「夢に向かって」</p></td>
 <td><p>木曜 23:55 - 24:00<br />
 【再】土曜 4:55 - 5:00</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>ヒロシとDr.天野の健康サロン</p></td>
-<td><p>金曜 21:55 - 22:00</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>採れたてキッチン～育てて食べようユニーク野菜～</p></td>
-<td><p>土曜 20:55 - 21:00</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1082,7 +1088,7 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
   - [世界空手道選手権大会](https://ja.wikipedia.org/wiki/世界空手道選手権大会 "wikilink")
   - [ジャパンカップサイクルロードレース](../Page/ジャパンカップサイクルロードレース.md "wikilink") ※2007 - 2009年。2010年は[BSジャパン](../Page/BSテレビ東京.md "wikilink")、2011年は[BS日テレで放送](../Page/BS日本.md "wikilink")
   - 自転車専科〜Cyclish style〜
-  - [ナビスコカップ](../Page/Jリーグカップ.md "wikilink")（決勝戦のみ\[19\]、2002年 - 2010年は地上波フジテレビ系列と同時放送、2011年は当日録画放送、2012年は放送なし）
+  - [ナビスコカップ](../Page/Jリーグカップ.md "wikilink")（決勝戦のみ\[21\]、2002年 - 2010年は地上波フジテレビ系列と同時放送、2011年は当日録画放送、2012年は放送なし）
   - [2010 スーパーGT](https://ja.wikipedia.org/wiki/SUPER_GT#過去の放送 "wikilink")
   - [FUN\!FUN\!RUN\!ランナーズTV](https://ja.wikipedia.org/wiki/FUN!FUN!RUN!ランナーズTV "wikilink")
   - [フォーミュラ・ニッポン](../Page/フォーミュラ・ニッポン.md "wikilink")
@@ -1097,7 +1103,7 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
   - 日清オイリオ Presents『アスリートのチカラ〜one secret piece〜』
   - [First RIDE 〜Surf\&Sup](https://ja.wikipedia.org/wiki/First_RIDE_〜Surf&Sup "wikilink")
   - [INAC TV](https://ja.wikipedia.org/wiki/INAC_TV "wikilink")
-  - [全米プロゴルフ選手権](../Page/全米プロゴルフ選手権.md "wikilink")（2017年 - 2018年。予選ラウンド2日間の模様を生中継。また大会期間中は夕方にダイジェストを放送）\[20\]\[21\]
+  - [全米プロゴルフ選手権](../Page/全米プロゴルフ選手権.md "wikilink")（2017年 - 2018年。予選ラウンド2日間の模様を生中継。また大会期間中は夕方にダイジェストを放送）\[22\]\[23\]
 
 ### ドキュメンタリー・紀行（過去）
 
@@ -1203,10 +1209,11 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
   - モジーズ\&YOU
   - [GP LEAGUE プログラミングコロシアム](https://ja.wikipedia.org/wiki/GP_LEAGUE_プログラミングコロシアム "wikilink")
   - [じゃじゃじゃじゃ〜ン\!](https://ja.wikipedia.org/wiki/じゃじゃじゃじゃ〜ン! "wikilink")※フジテレビ地上波では現在も放送中。
+  - [サンリオキャラクターズ ポンポンジャンプ\!](https://ja.wikipedia.org/wiki/サンリオキャラクターズ_ポンポンジャンプ! "wikilink")
 
 ### アニメ（過去）
 
-  - フジテレビ制作の作品\[22\]
+  - フジテレビ制作の作品\[24\]
       - [Dr.スランプ アラレちゃん](../Page/Dr.スランプ_アラレちゃん.md "wikilink")
       - [空想科学世界ガリバーボーイ](../Page/空想科学世界ガリバーボーイ.md "wikilink")
       - [銀河鉄道999](https://ja.wikipedia.org/wiki/銀河鉄道999_\(アニメ\) "wikilink")
@@ -1237,7 +1244,7 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
   - [体育倉庫〜ジムくんとゆかいな仲間たち〜](https://ja.wikipedia.org/wiki/体育倉庫〜ジムくんとゆかいな仲間たち〜 "wikilink") ※フジテレビ地上波で2009年7月〜8月に放送
   - [天体戦士サンレッド](../Page/天体戦士サンレッド.md "wikilink")
   - [世界名作劇場](../Page/世界名作劇場.md "wikilink")
-      - [レ・ミゼラブル 少女コゼット](../Page/レ・ミゼラブル_少女コゼット.md "wikilink")\[23\]
+      - [レ・ミゼラブル 少女コゼット](../Page/レ・ミゼラブル_少女コゼット.md "wikilink")\[25\]
       - [ポルフィの長い旅](../Page/ポルフィの長い旅.md "wikilink")
       - [こんにちは アン 〜Before Green Gables](https://ja.wikipedia.org/wiki/こんにちは_アン_〜Before_Green_Gables "wikilink")
       - [母をたずねて三千里](../Page/母をたずねて三千里.md "wikilink")
@@ -1350,7 +1357,7 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
   - [可奈子の週末レシピ〜女子力アップの秘訣〜](https://ja.wikipedia.org/wiki/可奈子の週末レシピ〜女子力アップの秘訣〜 "wikilink")
   - 水辺の散歩道
   - 糀美人
-  - [3D☆3D](https://ja.wikipedia.org/wiki/3D☆3D "wikilink")\[24\]
+  - [3D☆3D](https://ja.wikipedia.org/wiki/3D☆3D "wikilink")\[26\]
   - [TV☆Lab](../Page/TV☆Lab.md "wikilink")
   - [エビ中++](https://ja.wikipedia.org/wiki/エビ中++ "wikilink")
       - [スター☆ベガス](https://ja.wikipedia.org/wiki/スター☆ベガス "wikilink")
@@ -1361,6 +1368,9 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
       - DAI安☆BSフジNAVI（前身番組）
   - [堺でございます](https://ja.wikipedia.org/wiki/堺でございます "wikilink")
   - [大杉漣の漣ぽっ](https://ja.wikipedia.org/wiki/大杉漣の漣ぽっ "wikilink")
+  - [テリー伊藤の今夜も傾奇流](https://ja.wikipedia.org/wiki/テリー伊藤の今夜も傾奇流 "wikilink")\!
+  - 荒野行動女子部 〜初代女子戦隊集結〜
+      - 荒野女子部Season2 ～ただいま交戦中～
 
 ### 開局10周年記念番組
 
@@ -1484,7 +1494,7 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 
 ## 不祥事
 
-  - ミニ番組『風の見た自然たち』2013年10月23日放送回で、高知県[四万十市](../Page/四万十市.md "wikilink")で撮影したとされていた[カワセミ](../Page/カワセミ.md "wikilink")の映像の一部が、実際は東京都[葛飾区](https://ja.wikipedia.org/wiki/葛飾区 "wikilink")の[都立水元公園で撮影されていたことが](../Page/水元公園.md "wikilink")、放送翌日視聴者からの指摘で発覚した。翌週10月30日の番組内と公式サイトで謝罪し、番組は10月30日の放送を以って打ち切りとなった\[25\]。
+  - ミニ番組『風の見た自然たち』2013年10月23日放送回で、高知県[四万十市](../Page/四万十市.md "wikilink")で撮影したとされていた[カワセミ](../Page/カワセミ.md "wikilink")の映像の一部が、実際は東京都[葛飾区](https://ja.wikipedia.org/wiki/葛飾区 "wikilink")の[都立水元公園で撮影されていたことが](../Page/水元公園.md "wikilink")、放送翌日視聴者からの指摘で発覚した。翌週10月30日の番組内と公式サイトで謝罪し、番組は10月30日の放送を以って打ち切りとなった\[27\]。
 
 ## 脚注
 
@@ -1510,19 +1520,21 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 7.
 8.
 9.
-10. 1事業者に1つずつ割り当てられた枠の番号で、「0」から「39」まである。論理チャンネルの上2桁が、テレビ放送は「枠番号」、ラジオ放送は「枠番号＋30」、データ放送は「枠番号＋60」となる。ただし、枠番号「30」以降はデータ放送（90\*ch - 99\*ch）のみ。
-11. かつては双方向サービスの案内・登録チャンネルであった。
-12. ヤクルト戦は[フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")（2016年からは巨人戦以外の試合も中継）、中日・広島戦はフジテレビONEまたは[フジテレビTWO](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")（ONEまたはTWOで放送不可能な場合は[フジテレビNEXT](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")で放送）と[同時放送](../Page/サイマル放送.md "wikilink")（中日戦は地上波とは別制作、広島戦は地上波同時放送だが、スコア表示とテーマ曲を差し替え）。
-13. 日本ハム・ソフトバンク戦は地上波同時放送、オリックス戦は対阪神戦は生中継かつ地上波同時放送〈ナイター開催時は一部時間帯は裏送り〉、対阪神戦以外の試合は裏送り（自社では深夜の録画中継）で放送。
-14.
-15.
-16. [国内最大規模イベント「Anime Japan2017」でBSフジが初出展！](https://animeguild.jp/2017/03/23/news-104) - 2017年3月23日付公式サイトより。
-17. 公式サイト上での表記は日・水・木 24:00 - 24:30、月・火 24:00 - 25:00
-18.
-19. 初期の頃は準決勝以下も放送していた。
+10. 論理チャンネルの上2桁で、放送事業者とサービスを表す番号。
+11.
+12.
+13. 火曜 - 土曜は「BSフジLIVE プライムニュース」の前日再放送のため放送されず。
+14. ヤクルト戦は[フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")（2016年からは巨人戦以外の試合も中継）、中日・広島戦はフジテレビONEまたは[フジテレビTWO](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")（ONEまたはTWOで放送不可能な場合は[フジテレビNEXT](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")で放送）と[同時放送](../Page/サイマル放送.md "wikilink")（中日戦は地上波とは別制作、広島戦は地上波同時放送だが、スコア表示とテーマ曲を差し替え）。
+15. 日本ハム・ソフトバンク戦は地上波同時放送、オリックス戦は対阪神戦は生中継かつ地上波同時放送〈ナイター開催時は一部時間帯は裏送り〉、対阪神戦以外の試合は裏送り（自社では深夜の録画中継）で放送。
+16.
+17.
+18. [国内最大規模イベント「Anime Japan2017」でBSフジが初出展！](https://animeguild.jp/2017/03/23/news-104) - 2017年3月23日付公式サイトより。
+19. 公式サイト上での表記は日・水・木 24:00 - 24:30、月・火 24:00 - 25:00
 20.
-21.
-22. 一部の作品は、[フジテレビワンツーネクスト](../Page/フジテレビワンツーネクスト.md "wikilink")（主に[フジテレビTWO](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")）や[アニマックス](../Page/アニマックス.md "wikilink")などでも放送された。
-23. フジテレビなどの地上波で放送されていないが、フジテレビが制作局としてクレジットされている。
-24. [3D放送](../Page/立体テレビ放送.md "wikilink")（[サイド・バイ・サイド方式](https://ja.wikipedia.org/wiki/立体テレビ放送#放送方式 "wikilink")）、[ソニー](../Page/ソニー.md "wikilink")の[一社提供](../Page/一社提供.md "wikilink")、レギュラー放送に先立ち、[2011年](../Page/2011年.md "wikilink")1月2日 - 4日にかけて3回に渡り、3D放送によるプロローグ特番が放送された。
-25.
+21. 初期の頃は準決勝以下も放送していた。
+22.
+23.
+24. 一部の作品は、[フジテレビワンツーネクスト](../Page/フジテレビワンツーネクスト.md "wikilink")（主に[フジテレビTWO](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")）や[アニマックス](../Page/アニマックス.md "wikilink")などでも放送された。
+25. フジテレビなどの地上波で放送されていないが、フジテレビが制作局としてクレジットされている。
+26. [3D放送](../Page/立体テレビ放送.md "wikilink")（[サイド・バイ・サイド方式](https://ja.wikipedia.org/wiki/立体テレビ放送#放送方式 "wikilink")）、[ソニー](../Page/ソニー.md "wikilink")の[一社提供](../Page/一社提供.md "wikilink")、レギュラー放送に先立ち、[2011年](../Page/2011年.md "wikilink")1月2日 - 4日にかけて3回に渡り、3D放送によるプロローグ特番が放送された。
+27.

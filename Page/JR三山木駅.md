@@ -1,7 +1,7 @@
 > この記事は[JR三山木駅](https://ja.wikipedia.org/wiki/JR三山木駅)から翻訳されています。
 
 
-[230px](https://ja.wikipedia.org/wiki/ファイル:JR_Miyamaki_sta_003.jpg "wikilink") [230px](https://ja.wikipedia.org/wiki/ファイル:JR_Miyamaki_sta_002.jpg "wikilink") **JR三山木駅**（ジェイアールみやまきえき）は、[京都府](../Page/京都府.md "wikilink")[京田辺市](https://ja.wikipedia.org/wiki/京田辺市 "wikilink")三山木高飛にある、[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）[片町線](https://ja.wikipedia.org/wiki/片町線 "wikilink")（学研都市線）の[駅](../Page/鉄道駅.md "wikilink")。駅番号は**JR-H22**。
+[230px](https://ja.wikipedia.org/wiki/ファイル:JR_Miyamaki_sta_003.jpg "wikilink") [230px](https://ja.wikipedia.org/wiki/ファイル:JR_Miyamaki_sta_002.jpg "wikilink") **JR三山木駅**（ジェイアールみやまきえき）は、[京都府](../Page/京都府.md "wikilink")[京田辺市](../Page/京田辺市.md "wikilink")三山木高飛にある、[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）[片町線](https://ja.wikipedia.org/wiki/片町線 "wikilink")（学研都市線）の[駅](../Page/鉄道駅.md "wikilink")。駅番号は**JR-H22**。
 
 ## 歴史
 
@@ -18,7 +18,7 @@
 
 ## 駅構造
 
-[島式ホーム](https://ja.wikipedia.org/wiki/島式ホーム "wikilink")1面2線を持つ[高架駅](../Page/高架駅.md "wikilink")。[2002年](../Page/2002年.md "wikilink")（[平成](../Page/平成.md "wikilink")14年）[3月16日](../Page/3月16日.md "wikilink")の高架化完成時、ホームは4両編成分の長さだったが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[3月13日](../Page/3月13日.md "wikilink")の改正に伴う京田辺駅 - 木津駅間7両編成化で、7両編成分相当の長さまで拡張工事が行われた。高架駅化後、[エレベーター](../Page/エレベーター.md "wikilink")・[エスカレーター](../Page/エスカレーター.md "wikilink")は設置されなかったが、2010年（平成22年）[12月1日](../Page/12月1日.md "wikilink")から使用可能となった。トイレは駅構内に未整備だが、駅前に公衆トイレがある。学研都市線の単線区間では、唯一の高架駅である。
+[島式ホーム](https://ja.wikipedia.org/wiki/島式ホーム "wikilink")1面2線を持つ[高架駅](../Page/高架駅.md "wikilink")。[2002年](../Page/2002年.md "wikilink")（[平成](../Page/平成.md "wikilink")14年）[3月16日](../Page/3月16日.md "wikilink")の高架化完成時、ホームは4両編成分の長さだったが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[3月13日](../Page/3月13日.md "wikilink")の改正に伴う京田辺駅 - 木津駅間7両編成化で、7両編成分相当の長さまで拡張工事が行われた。高架駅化後、[エレベーター](../Page/エレベーター.md "wikilink")・[エスカレーター](../Page/エスカレーター.md "wikilink")は設置されなかったが、2010年（平成22年）[12月1日](../Page/12月1日.md "wikilink")から使用可能となった。トイレは駅構内に未整備である。駅前の公衆トイレは撤去済み。学研都市線の単線区間では、唯一の高架駅である。
 
 [長尾駅管理の](https://ja.wikipedia.org/wiki/長尾駅_\(大阪府\) "wikilink")[無人駅](../Page/無人駅.md "wikilink")。[ICOCA](../Page/ICOCA.md "wikilink")利用可能駅（相互利用可能[ICカード](../Page/ICカード.md "wikilink")はICOCAの項を参照）で、[自動券売機](../Page/自動券売機.md "wikilink")および簡易式の[自動改札機](../Page/自動改札機.md "wikilink")が設置されている。
 

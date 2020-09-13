@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[Adobe Systems](../Page/アドビシステムズ.md "wikilink")・[IBM](../Page/IBM.md "wikilink")・[ネットスケープコミュニケーションズ](../Page/ネットスケープコミュニケーションズ.md "wikilink")の3社によって提案された(Precision Graphics Markup Language)\[1\]と、[Autodesk](../Page/オートデスク.md "wikilink")・[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")・[Macromedia](../Page/マクロメディア.md "wikilink")・[マイクロソフト](../Page/マイクロソフト.md "wikilink")・[Visio](https://ja.wikipedia.org/wiki/Visio "wikilink") の5社によって提案された [VML](../Page/Vector_Markup_Language.md "wikilink") (Vector Markup Language)\[2\]をもとにして、W3C SVG ワーキンググループにより開発された\[3\]。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[Adobe Systems](../Page/アドビシステムズ.md "wikilink")・[IBM](../Page/IBM.md "wikilink")・[ネットスケープコミュニケーションズ](../Page/ネットスケープコミュニケーションズ.md "wikilink")の3社によって提案された(Precision Graphics Markup Language)\[1\]と、[Autodesk](../Page/オートデスク.md "wikilink")・[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")・[Macromedia](../Page/マクロメディア.md "wikilink")・[マイクロソフト](../Page/マイクロソフト.md "wikilink")・ の5社によって提案された [VML](../Page/Vector_Markup_Language.md "wikilink") (Vector Markup Language)\[2\]をもとにして、W3C SVG ワーキンググループにより開発された\[3\]。
 
 ## 沿革
 

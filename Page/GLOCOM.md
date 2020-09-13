@@ -56,10 +56,11 @@
   - [山根信二](https://ja.wikipedia.org/wiki/山根信二 "wikilink") 在籍：2005年～2006年
   - [山田肇](https://ja.wikipedia.org/wiki/山田肇_\(経済学者\) "wikilink")
   - [出口弘](https://ja.wikipedia.org/wiki/出口弘 "wikilink")
+  - [豊福晋平](../Page/豊福晋平.md "wikilink")
   - [湯川鶴章](https://ja.wikipedia.org/wiki/湯川鶴章 "wikilink")
-  - [中西 崇文](https://ja.wikipedia.org/wiki/中西_崇文 "wikilink")
-  - [小林奈穂](https://ja.wikipedia.org/wiki/小林奈穂 "wikilink")
-  - [山口真一](https://ja.wikipedia.org/wiki/山口真一 "wikilink")
+  - [中西崇文](https://ja.wikipedia.org/wiki/中西崇文 "wikilink")
+  - [小林奈穂](../Page/小林奈穂.md "wikilink")
+  - [山口真一](../Page/山口真一.md "wikilink")
   - [渡邊智暁](../Page/渡邊智暁.md "wikilink") 在籍：2008年～
 
 ## 主な（元）フェロー・客員
@@ -117,7 +118,7 @@
 
   - [情報社会学会](http://www.infosocio.org/) - 元GLOCOM代表の公文俊平が会長。
 
-[Category:日本の研究所](https://ja.wikipedia.org/wiki/Category:日本の研究所 "wikilink") [Category:日本のシンクタンク](https://ja.wikipedia.org/wiki/Category:日本のシンクタンク "wikilink")
+[Category:東京都の研究所](https://ja.wikipedia.org/wiki/Category:東京都の研究所 "wikilink") [Category:日本のシンクタンク](https://ja.wikipedia.org/wiki/Category:日本のシンクタンク "wikilink")
 
 1.  <http://www.glocom.ac.jp/news/812>
 2.  <http://www.h-yamaguchi.net/>

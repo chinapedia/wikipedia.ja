@@ -56,7 +56,7 @@
   - gooニュース - 政治経済、社会、スポーツ、芸能等のニュースの提供。当初、[動画](../Page/動画.md "wikilink")などの[ストリーミング](../Page/ストリーミング.md "wikilink")配信には対応していなかったが、2019年7月から[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")など一部の配信メディアにおいて対応している。
   - 日経goo - gooニュースとは別に[日本経済新聞](../Page/日本経済新聞.md "wikilink")との提携による、日経新聞及び日経4紙のサイトの閲覧。有料の紙面においてはgooポイントが利用できる。
   - goo天気 - [日本気象協会](../Page/日本気象協会.md "wikilink")提供の[天気予報](../Page/天気予報.md "wikilink")。季節ごとの名所やレジャースポットなどの、ピンポイント天気予報も利用が可能となっている。[アメダス](../Page/アメダス.md "wikilink")、衛星画像、波情報、[天気図](../Page/天気図.md "wikilink")などが表示される。
-  - [goo地図](https://ja.wikipedia.org/wiki/goo地図 "wikilink") - [ゼンリンデータコム](../Page/ゼンリンデータコム.md "wikilink")提供の地図検索サービスが利用できる。日本[測地系](../Page/測地系.md "wikilink")を採用している。携帯電話のサイトでも提供しており、携帯電話のGPSと連携した乗り換え案内なども提供される。\[4\]またjavaScript対応のNTTドコモの携帯電話ではブラウザ上でスクロールも可能となる。2010年4月からは[Xperiaなどの](https://ja.wikipedia.org/wiki/SO-01B "wikilink")[android](https://ja.wikipedia.org/wiki/android "wikilink")機種でも利用が可能となった。
+  - [goo地図](https://ja.wikipedia.org/wiki/goo地図 "wikilink") - [ゼンリンデータコム](../Page/ゼンリンデータコム.md "wikilink")提供の地図検索サービスが利用できる。日本[測地系](../Page/測地系.md "wikilink")を採用している。携帯電話のサイトでも提供しており、携帯電話のGPSと連携した乗り換え案内なども提供される。\[4\]またjavaScript対応のNTTドコモの携帯電話ではブラウザ上でスクロールも可能となる。2010年4月からは[Xperiaなどの](https://ja.wikipedia.org/wiki/SO-01B "wikilink")[android機種でも利用が可能となった](../Page/Android_\(オペレーティングシステム\).md "wikilink")。
   - goo[乗換案内](../Page/乗換案内.md "wikilink") - [ジョルダン](https://ja.wikipedia.org/wiki/ジョルダン "wikilink")の乗換案内を利用できる。またまたgooホームで登録した[住所](../Page/住所.md "wikilink")近郊の[鉄道](../Page/鉄道.md "wikilink")運行状況がトップ画面に表示される。
   - goo[タウンページ](../Page/タウンページ.md "wikilink") - 1100万件の電話番号検索ができる
   - [goo辞書](https://ja.wikipedia.org/wiki/goo辞書 "wikilink") - 国語、英和、和英他の辞書サービス。

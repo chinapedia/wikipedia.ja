@@ -19,11 +19,9 @@ Windows 9x系は[Windows NT系への統合が計画されていたものの](../
 
 しかしWindows Meは、Windows 95/98/98SE程ではないがWindows XP以降の後継のOSよりも要求されるマシンスペックが低いこと、発売当時以前のソフトウェアを中心に対応ソフトウェアがまだ十分に実用性を保っているものも多く、9x系として唯一標準でUSBの大容量記憶装置をサポートしている（USB1.0/1.1に限りドライバのインストールが不要）ことなどから、実使用においてWindows 95/98/98SEに比較して 幾分使い勝手がよく、中古パソコンや[ジャンクパソコンの有効活用](../Page/ジャンク品_\(パーソナルコンピュータ\).md "wikilink")、[Virtual PCや](https://ja.wikipedia.org/wiki/Microsoft_Virtual_PC "wikilink")[VMware](../Page/VMware.md "wikilink")などの[ハイパーバイザ（仮想マシン）上でのゲストOSとしての需要もある等](../Page/仮想機械.md "wikilink")、現在でも一部で利用されているが、独立行政法人[情報処理推進機構](../Page/情報処理推進機構.md "wikilink")は、「（仮想マシン上であっても）サポートが終了した[OSの利用は非常に危険な行為である](https://ja.wikipedia.org/wiki/オペレーションシステム "wikilink")」とアナウンスしており、使用する場合はネットに接続しない単独の専用システム（[スタンドアローン](../Page/スタンドアローン.md "wikilink")）にしたうえ、**なるべく[USBメモリ](https://ja.wikipedia.org/wiki/USBメモリ "wikilink")や[FD](../Page/フロッピーディスク.md "wikilink")、[MO](../Page/光磁気ディスク.md "wikilink")、外付け[HDD等の外部](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")[補助記憶装置](../Page/補助記憶装置.md "wikilink")でデータ交換しない**ことを呼びかけている\[8\]。
 
-2016年8月現在、Meを含む9x系Windowsではすでに[Windows Updateを利用できなくなっている](../Page/Microsoft_Update.md "wikilink")\[9\]ため、既出の修正ファイルの自動導入を行えない状況にある。ただし、修正ファイルの提供自体は続いているため、個別にダウンロードして手動で適用することは可能である。
-
 ## 互換性
 
-Windows 9x系のOSであるため、Windows 95やWindows 98、Windows 98SEに対応するアプリケーションやドライバなどはほとんどそのまま動作する。しかし、ネイティブDOSサポートが削除されたため「[MS-DOS](../Page/MS-DOS.md "wikilink") モードで再起動する」コマンドが削除された。\[10\]また、「MS-DOS プロンプト」におけるDOSプログラムの互換性もWindows 95やWindows 98、Windows 98SEと比べると低下している。
+Windows 9x系のOSであるため、Windows 95やWindows 98、Windows 98SEに対応するアプリケーションやドライバなどはほとんどそのまま動作する。しかし、ネイティブDOSサポートが削除されたため「[MS-DOS](../Page/MS-DOS.md "wikilink") モードで再起動する」コマンドが削除された。\[9\]また、「MS-DOS プロンプト」におけるDOSプログラムの互換性もWindows 95やWindows 98、Windows 98SEと比べると低下している。
 
 なお、[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")については利用率の減少を理由に対応していない。
 
@@ -36,12 +34,12 @@ Windows 9x系のOSであるため、Windows 95やWindows 98、Windows 98SEに対
   - インターネットゲーム
   - システムファイル保護
   - ヘルプシステムの改良による初心者への配慮
-  - 圧縮ファイル（[ZIPファイル](../Page/ZIP_\(ファイルフォーマット\).md "wikilink")）操作
+  - 圧縮フォルダ（[ZIPファイル](../Page/ZIP_\(ファイルフォーマット\).md "wikilink")）操作
   - [自動アップデート](../Page/Microsoft_Update.md "wikilink")
 
 ## 出荷・販売本数の推移
 
-  - 日本語版、初日に16.3万本を販売（BCN総研調べ）\[11\]
+  - 日本語版、初日に16.3万本を販売（BCN総研調べ）\[10\]
 
 ## システム要件
 
@@ -114,6 +112,5 @@ Windows Meからは[Windows 2000 Professional](../Page/Microsoft_Windows_2000.md
 6.  余談であるが、歴代Windowsで最も販売期間が短かったのは[Windows NT 3.51の日本語版](../Page/Microsoft_Windows_NT.md "wikilink")（販売期間はおよそ11か月）である。また、個人向けに限定した場合では[Windows 8（8.1除く）が最も販売期間が短い](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink")（販売期間はおよそ1年）。
 7.
 8.  [コンピュータウイルス・不正アクセスの届出状況\[4月分\]について](http://www.ipa.go.jp/security/txt/2007/05outline.html)（情報処理推進機構）
-9.  [Internet Explorer 6でアクセスした場合](https://ja.wikipedia.org/wiki/Internet_Explorer_6 "wikilink")、Internet Explorer 6はWindows Updateの内容を表示できないままWindows Update内の特定ページ間を転送され続けるといった、[無限ループ](../Page/無限ループ.md "wikilink")状態に陥る。
-10. 以前はこのコマンドを利用して高速な再起動ができた。(DOS画面に移行した後「exit」と入力するだけである)
-11. "[日経産業新聞](../Page/日経産業新聞.md "wikilink")" 2000年10月2日付
+9.  以前はこのコマンドを利用して高速な再起動ができた。(DOS画面に移行した後「exit」と入力するだけである)
+10. "[日経産業新聞](../Page/日経産業新聞.md "wikilink")" 2000年10月2日付

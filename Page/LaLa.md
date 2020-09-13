@@ -18,39 +18,43 @@
 ## 現在の掲載作品
 
   - [赤髪の白雪姫](../Page/赤髪の白雪姫.md "wikilink")（[あきづき空太](../Page/あきづき空太.md "wikilink")）
-  - [うそカノ](https://ja.wikipedia.org/wiki/うそカノ "wikilink")（[林みかせ](../Page/林みかせ.md "wikilink")）
-  - [ウラカタ\!\!](https://ja.wikipedia.org/wiki/ウラカタ!! "wikilink")（[葉鳥ビスコ](../Page/葉鳥ビスコ.md "wikilink")）
-  - [狼陛下の花嫁](https://ja.wikipedia.org/wiki/狼陛下の花嫁 "wikilink")（[可歌まと](https://ja.wikipedia.org/wiki/可歌まと "wikilink")）
   - [学園ベビーシッターズ](https://ja.wikipedia.org/wiki/学園ベビーシッターズ "wikilink")（[時計野はり](../Page/時計野はり.md "wikilink")）
-  - [君のコトなど絶対に](https://ja.wikipedia.org/wiki/君のコトなど絶対に "wikilink")（[田中メカ](../Page/田中メカ.md "wikilink")）
-  - [斎王寺兄弟に困らされるのも悪くない](https://ja.wikipedia.org/wiki/斎王寺兄弟に困らされるのも悪くない "wikilink")（[晴海ひつじ](https://ja.wikipedia.org/wiki/晴海ひつじ "wikilink")）
-  - [砂漠のハレム](https://ja.wikipedia.org/wiki/砂漠のハレム "wikilink")（[夢木みつる](https://ja.wikipedia.org/wiki/夢木みつる "wikilink")）
-  - [アイドルDTI](https://ja.wikipedia.org/wiki/アイドルDTI "wikilink")（[冬夏アキハル](https://ja.wikipedia.org/wiki/冬夏アキハル "wikilink")）
-  - [図書館戦争 LOVE\&WAR 別冊編](../Page/図書館戦争.md "wikilink")（[弓きいろ](https://ja.wikipedia.org/wiki/弓きいろ "wikilink")、原作：[有川浩](https://ja.wikipedia.org/wiki/有川浩 "wikilink")）
+  - [可愛いたぬきも楽じゃない](https://ja.wikipedia.org/wiki/可愛いたぬきも楽じゃない "wikilink")（[河口けい](https://ja.wikipedia.org/wiki/河口けい "wikilink")）
+  - [君は春に目を醒ます](https://ja.wikipedia.org/wiki/君は春に目を醒ます "wikilink")（[縞あさと](https://ja.wikipedia.org/wiki/縞あさと "wikilink")）
+  - [この凶愛は天災です](https://ja.wikipedia.org/wiki/この凶愛は天災です "wikilink")（[夢木みつる](https://ja.wikipedia.org/wiki/夢木みつる "wikilink")）
+  - [執事と主は結ばれません](https://ja.wikipedia.org/wiki/執事と主は結ばれません "wikilink")（[角野ユウ](https://ja.wikipedia.org/wiki/角野ユウ "wikilink")）
+  - [スイートバニラビーンズ](https://ja.wikipedia.org/wiki/スイートバニラビーンズ "wikilink")（[八神星子](https://ja.wikipedia.org/wiki/八神星子 "wikilink")）
+  - [末永くよろしくお願いします](https://ja.wikipedia.org/wiki/末永くよろしくお願いします "wikilink")（[池ジュン子](https://ja.wikipedia.org/wiki/池ジュン子 "wikilink")）　
+  - [転生悪女の黒歴史](https://ja.wikipedia.org/wiki/転生悪女の黒歴史 "wikilink")（[冬夏アキハル](https://ja.wikipedia.org/wiki/冬夏アキハル "wikilink")）
+  - [天堂家物語](https://ja.wikipedia.org/wiki/天堂家物語 "wikilink")（[斎藤けん](../Page/斎藤けん.md "wikilink")）←『[LaLa DX](../Page/LaLa_DX.md "wikilink")』
   - [夏目友人帳](https://ja.wikipedia.org/wiki/夏目友人帳 "wikilink")（[緑川ゆき](../Page/緑川ゆき.md "wikilink")）
-  - [水玉ハニーボーイ](https://ja.wikipedia.org/wiki/水玉ハニーボーイ "wikilink")（[池ジュン子](https://ja.wikipedia.org/wiki/池ジュン子 "wikilink")）
-  - [劉備徳子は静かに暮らしたい](https://ja.wikipedia.org/wiki/劉備徳子は静かに暮らしたい "wikilink")（[仲野えみこ](https://ja.wikipedia.org/wiki/仲野えみこ "wikilink")）
+  - [鳩子さんは時々魔法少女](https://ja.wikipedia.org/wiki/鳩子さんは時々魔法少女 "wikilink")（[可歌まと](https://ja.wikipedia.org/wiki/可歌まと "wikilink")）
+  - [マリッジパープル](https://ja.wikipedia.org/wiki/マリッジパープル "wikilink")（[林みかせ](../Page/林みかせ.md "wikilink")）
   - [4ジゲン](../Page/4ジゲン.md "wikilink")（[にざかな](../Page/にざかな.md "wikilink")）
-  - [嫁姑教室](https://ja.wikipedia.org/wiki/嫁姑教室 "wikilink")（[柏屋キクゾー](https://ja.wikipedia.org/wiki/柏屋キクゾー "wikilink")）
+  - [リバース×リバース](https://ja.wikipedia.org/wiki/リバース×リバース "wikilink")（[天乃忍](https://ja.wikipedia.org/wiki/天乃忍 "wikilink")）
 
 ## 過去の掲載作品
 
 ### あ行
 
   - [あぁ愛しの番長さま](https://ja.wikipedia.org/wiki/あぁ愛しの番長さま "wikilink")（[藤方まゆ](https://ja.wikipedia.org/wiki/藤方まゆ "wikilink")）
-  - [あかく咲く声](https://ja.wikipedia.org/wiki/あかく咲く声 "wikilink")（緑川ゆき）
-  - [アルトの声の少女](https://ja.wikipedia.org/wiki/アルトの声の少女 "wikilink")（篠有紀子）
+  - [アイドルDTI](https://ja.wikipedia.org/wiki/アイドルDTI "wikilink")（[冬夏アキハル](https://ja.wikipedia.org/wiki/冬夏アキハル "wikilink")）
+  - [あかく咲く声](https://ja.wikipedia.org/wiki/あかく咲く声 "wikilink")（[緑川ゆき](../Page/緑川ゆき.md "wikilink")）
+  - [アルトの声の少女](https://ja.wikipedia.org/wiki/アルトの声の少女 "wikilink")（[篠有紀子](https://ja.wikipedia.org/wiki/篠有紀子 "wikilink")）
   - [一清&千沙姫シリーズ](../Page/一清&千沙姫シリーズ.md "wikilink")（[柳原望](https://ja.wikipedia.org/wiki/柳原望 "wikilink")）
   - [一万十秒シリーズ](https://ja.wikipedia.org/wiki/一万十秒シリーズ "wikilink")（[倉多江美](../Page/倉多江美.md "wikilink")）
   - [インナーカルテット](../Page/インナーカルテット.md "wikilink")（[かわみなみ](https://ja.wikipedia.org/wiki/かわみなみ "wikilink")）
   - [with\!\!](https://ja.wikipedia.org/wiki/with!! "wikilink")（[斎藤けん](../Page/斎藤けん.md "wikilink")）
   - [うえぽん](https://ja.wikipedia.org/wiki/うえぽん "wikilink")（[いしかわじゅん](../Page/いしかわじゅん.md "wikilink")）
+  - [うそカノ](https://ja.wikipedia.org/wiki/うそカノ "wikilink")（[林みかせ](../Page/林みかせ.md "wikilink")）
+  - [ウラカタ\!\!](https://ja.wikipedia.org/wiki/ウラカタ!! "wikilink")（[葉鳥ビスコ](../Page/葉鳥ビスコ.md "wikilink")）
   - [英会話スクールウォーズ](../Page/英会話スクールウォーズ.md "wikilink")（[マツモトトモ](../Page/マツモトトモ.md "wikilink")）
   - [エイリアン通り](../Page/エイリアン通り.md "wikilink")（[成田美名子](../Page/成田美名子.md "wikilink")）
   - [eensy-weensy モンスター](https://ja.wikipedia.org/wiki/eensy-weensy_モンスター "wikilink")（[津田雅美](../Page/津田雅美.md "wikilink")）
   - [お池にはまってプリンセス](https://ja.wikipedia.org/wiki/お池にはまってプリンセス "wikilink")（[木村晃子](https://ja.wikipedia.org/wiki/木村晃子 "wikilink")）
   - [王様ゲーム](https://ja.wikipedia.org/wiki/王様ゲーム_\(水野十子\) "wikilink")（[水野十子](../Page/水野十子.md "wikilink")）
   - [桜蘭高校ホスト部](../Page/桜蘭高校ホスト部.md "wikilink")（[葉鳥ビスコ](../Page/葉鳥ビスコ.md "wikilink")）
+  - [狼陛下の花嫁](https://ja.wikipedia.org/wiki/狼陛下の花嫁 "wikilink")（[可歌まと](https://ja.wikipedia.org/wiki/可歌まと "wikilink")）
   - [オガッツ\!](https://ja.wikipedia.org/wiki/オガッツ! "wikilink")（[平井摩利](https://ja.wikipedia.org/wiki/平井摩利 "wikilink")）
   - [OZ](../Page/OZ_\(樹なつみの漫画\).md "wikilink")（[樹なつみ](../Page/樹なつみ.md "wikilink")）
   - [お兄ちゃんと一緒](../Page/お兄ちゃんと一緒.md "wikilink")（[時計野はり](../Page/時計野はり.md "wikilink")）
@@ -59,79 +63,86 @@
 
 ### か行
 
+  - [ガートルードのレシピ](../Page/ガートルードのレシピ.md "wikilink")（[草川為](../Page/草川為.md "wikilink")）
   - [会長はメイド様\!](../Page/会長はメイド様!.md "wikilink")（[藤原ヒロ](../Page/藤原ヒロ.md "wikilink")）
   - [彼方から](../Page/彼方から.md "wikilink")（[ひかわきょうこ](../Page/ひかわきょうこ.md "wikilink")）
   - [かたつむり前線](https://ja.wikipedia.org/wiki/かたつむり前線 "wikilink")（[藤川佳世](https://ja.wikipedia.org/wiki/藤川佳世 "wikilink")）
   - [彼氏彼女の事情](../Page/彼氏彼女の事情.md "wikilink")（[津田雅美](../Page/津田雅美.md "wikilink")）
   - [輝夜姫](../Page/輝夜姫.md "wikilink")（[清水玲子](../Page/清水玲子.md "wikilink")）
-  - [火宵の月](../Page/火宵の月.md "wikilink")（平井摩利）
-  - [ガートルードのレシピ](../Page/ガートルードのレシピ.md "wikilink")（[草川為](../Page/草川為.md "wikilink")）
-  - [キス](https://ja.wikipedia.org/wiki/キス_\(漫画\) "wikilink")（マツモトトモ）
+  - [火宵の月](../Page/火宵の月.md "wikilink")（[平井摩利](https://ja.wikipedia.org/wiki/平井摩利 "wikilink")）
+  - [機械じかけのマリー](https://ja.wikipedia.org/wiki/機械じかけのマリー "wikilink")（[あきもと明希](https://ja.wikipedia.org/wiki/あきもと明希 "wikilink")）
+  - [キス](https://ja.wikipedia.org/wiki/キス_\(漫画\) "wikilink")（[マツモトトモ](../Page/マツモトトモ.md "wikilink")）
+  - [君のコトなど絶対に](https://ja.wikipedia.org/wiki/君のコトなど絶対に "wikilink")（[田中メカ](../Page/田中メカ.md "wikilink")）
   - [今日もみんな元気です](https://ja.wikipedia.org/wiki/今日もみんな元気です "wikilink")（[猫山宮緒](https://ja.wikipedia.org/wiki/猫山宮緒 "wikilink")）
   - [金色のコルダ](../Page/金色のコルダ.md "wikilink")（[呉由姫](../Page/呉由姫.md "wikilink")、原案：[ルビー・パーティー](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）
   - [銀の勇者](../Page/銀の勇者.md "wikilink")（[渡辺祥智](../Page/渡辺祥智.md "wikilink")）
   - [グレイテストな私達](../Page/グレイテストな私達.md "wikilink")（[わかつきめぐみ](../Page/わかつきめぐみ.md "wikilink")）
   - [黒のもんもん組](https://ja.wikipedia.org/wiki/黒のもんもん組 "wikilink")（[猫十字社](../Page/猫十字社.md "wikilink")）
   - [幻影奇譚](https://ja.wikipedia.org/wiki/幻影奇譚 "wikilink")（[いなだ詩穂](../Page/いなだ詩穂.md "wikilink")）
-  - [ご近所の博物誌](https://ja.wikipedia.org/wiki/ご近所の博物誌 "wikilink")（わかつきめぐみ）
+  - [ご近所の博物誌](https://ja.wikipedia.org/wiki/ご近所の博物誌 "wikilink")（[わかつきめぐみ](../Page/わかつきめぐみ.md "wikilink")）
   - [小山荘のきらわれ者](https://ja.wikipedia.org/wiki/小山荘のきらわれ者 "wikilink")（[なかじ有紀](../Page/なかじ有紀.md "wikilink")）
 
 ### さ行
 
-  - [CIPHER](../Page/CIPHER.md "wikilink")（成田美名子）
+  - [斎王寺兄弟に困らされるのも悪くない](https://ja.wikipedia.org/wiki/斎王寺兄弟に困らされるのも悪くない "wikilink")（[晴海ひつじ](https://ja.wikipedia.org/wiki/晴海ひつじ "wikilink")）
+  - [CIPHER](../Page/CIPHER.md "wikilink")（[成田美名子](../Page/成田美名子.md "wikilink")）
   - [櫻の園](../Page/櫻の園_\(漫画\).md "wikilink")（[吉田秋生](../Page/吉田秋生.md "wikilink")）
+  - [砂漠のハレム](https://ja.wikipedia.org/wiki/砂漠のハレム "wikilink")（[夢木みつる](https://ja.wikipedia.org/wiki/夢木みつる "wikilink")）
   - [ZIG☆ZAG](https://ja.wikipedia.org/wiki/ZIG☆ZAG "wikilink")（[なかじ有紀](../Page/なかじ有紀.md "wikilink")）
   - [シニカル・ヒステリー・アワー](../Page/シニカル・ヒステリー・アワー.md "wikilink")（[玖保キリコ](../Page/玖保キリコ.md "wikilink")）
   - [シャンペン・シャワー](https://ja.wikipedia.org/wiki/シャンペン・シャワー "wikilink")（[かわみなみ](https://ja.wikipedia.org/wiki/かわみなみ "wikilink")）
-  - [獣王星](../Page/獣王星.md "wikilink")（樹なつみ）
-  - [知らない国の物語](https://ja.wikipedia.org/wiki/知らない国の物語 "wikilink")（川瀬夏菜）
+  - [獣王星](../Page/獣王星.md "wikilink")（[樹なつみ](../Page/樹なつみ.md "wikilink")）
+  - [知らない国の物語](https://ja.wikipedia.org/wiki/知らない国の物語 "wikilink")（[川瀬夏菜](../Page/川瀬夏菜.md "wikilink")）
   - [ストロベリ－・エッセイ](https://ja.wikipedia.org/wiki/ストロベリ－・エッセイ "wikilink")（[篠有紀子](https://ja.wikipedia.org/wiki/篠有紀子 "wikilink")）
-  - [セーラー服にお願い\!](https://ja.wikipedia.org/wiki/セーラー服にお願い! "wikilink")（田中メカ）
-  - [千年の雪](https://ja.wikipedia.org/wiki/千年の雪 "wikilink")（葉鳥ビスコ）
-  - [So What?](../Page/So_What?.md "wikilink")（わかつきめぐみ）
+  - [セーラー服にお願い\!](https://ja.wikipedia.org/wiki/セーラー服にお願い! "wikilink")（[田中メカ](../Page/田中メカ.md "wikilink")）
+  - [千年の雪](https://ja.wikipedia.org/wiki/千年の雪 "wikilink")（[葉鳥ビスコ](../Page/葉鳥ビスコ.md "wikilink")）
+  - [So What?](../Page/So_What?.md "wikilink")（[わかつきめぐみ](../Page/わかつきめぐみ.md "wikilink")）
 
 ### た行
 
   - [黄昏シティグラフィティ](https://ja.wikipedia.org/wiki/黄昏シティグラフィティ "wikilink")（[星崎真紀](../Page/星崎真紀.md "wikilink")）
+  - [ダンキラ\!\!\! アドレナリンバースト](https://ja.wikipedia.org/wiki/ダンキラ!!!_アドレナリンバースト "wikilink")（[樫八重子](https://ja.wikipedia.org/wiki/樫八重子 "wikilink")、原作：[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")）
   - [ちょっと江戸まで](https://ja.wikipedia.org/wiki/ちょっと江戸まで "wikilink")（[津田雅美](../Page/津田雅美.md "wikilink")）
   - [Z－ツェット－](https://ja.wikipedia.org/wiki/Z－ツェット－ "wikilink")（[青池保子](../Page/青池保子.md "wikilink")）
-  - [月の子](https://ja.wikipedia.org/wiki/月の子 "wikilink")（清水玲子）
-  - [月は東に日は西に](../Page/月は東に日は西に.md "wikilink")（わかつきめぐみ）
+  - [月の子](https://ja.wikipedia.org/wiki/月の子 "wikilink")（[清水玲子](../Page/清水玲子.md "wikilink")）
+  - [月は東に日は西に](../Page/月は東に日は西に.md "wikilink")（[わかつきめぐみ](../Page/わかつきめぐみ.md "wikilink")）
   - [っポイ\!](../Page/っポイ!.md "wikilink")（[やまざき貴子](../Page/やまざき貴子.md "wikilink")）
-  - [デーモン聖典](https://ja.wikipedia.org/wiki/デーモン聖典 "wikilink")（樹なつみ）
-  - [天然パールピンク](https://ja.wikipedia.org/wiki/天然パールピンク "wikilink")（田中メカ）
-  - [朱鷺色三角](https://ja.wikipedia.org/wiki/朱鷺色三角 "wikilink")（樹なつみ）
+  - [デーモン聖典](https://ja.wikipedia.org/wiki/デーモン聖典 "wikilink")（[樹なつみ](../Page/樹なつみ.md "wikilink")）
+  - [天然パールピンク](https://ja.wikipedia.org/wiki/天然パールピンク "wikilink")（[田中メカ](../Page/田中メカ.md "wikilink")）
+  - [朱鷺色三角](https://ja.wikipedia.org/wiki/朱鷺色三角 "wikilink")（[樹なつみ](../Page/樹なつみ.md "wikilink")）
+  - [図書館戦争 LOVE\&WAR 別冊編](../Page/図書館戦争.md "wikilink")（[弓きいろ](https://ja.wikipedia.org/wiki/弓きいろ "wikilink")、原作：[有川浩](https://ja.wikipedia.org/wiki/有川浩 "wikilink")）
   - [隣のDOUBLE](https://ja.wikipedia.org/wiki/隣のDOUBLE "wikilink")（[なかじ有紀](../Page/なかじ有紀.md "wikilink")）
   - [隣はSCRAMBLE](https://ja.wikipedia.org/wiki/隣はSCRAMBLE "wikilink")（[なかじ有紀](../Page/なかじ有紀.md "wikilink")）
-  - [とらわれの身の上](https://ja.wikipedia.org/wiki/とらわれの身の上 "wikilink")（樋野まつり）
+  - [とらわれの身の上](https://ja.wikipedia.org/wiki/とらわれの身の上 "wikilink")（[樋野まつり](../Page/樋野まつり.md "wikilink")）
   - [トロピカル半次郎](https://ja.wikipedia.org/wiki/トロピカル半次郎 "wikilink")（[高口里純](../Page/高口里純.md "wikilink")）
 
 ### な行
 
   - [南京路に花吹雪](https://ja.wikipedia.org/wiki/南京路に花吹雪 "wikilink")（[森川久美](../Page/森川久美.md "wikilink")）
-  - [NATURAL](../Page/NATURAL_\(漫画\).md "wikilink")（成田美名子）
+  - [NATURAL](../Page/NATURAL_\(漫画\).md "wikilink")（[成田美名子](../Page/成田美名子.md "wikilink")）
 
 ### は行
 
   - [ハイスクール・オーラバスター](../Page/ハイスクール・オーラバスター.md "wikilink")（[杜真琴](https://ja.wikipedia.org/wiki/杜真琴 "wikilink")、原作：[若木未生](../Page/若木未生.md "wikilink")）
-  - [伯爵と呼ばれた男](https://ja.wikipedia.org/wiki/伯爵と呼ばれた男 "wikilink")（高口里純）
+  - [伯爵と呼ばれた男](https://ja.wikipedia.org/wiki/伯爵と呼ばれた男 "wikilink")（[高口里純](../Page/高口里純.md "wikilink")）
   - [バジル氏の優雅な生活](https://ja.wikipedia.org/wiki/バジル氏の優雅な生活 "wikilink")（[坂田靖子](../Page/坂田靖子.md "wikilink")）
-  - [遙かなる時空の中で](../Page/遙かなる時空の中で.md "wikilink")（水野十子）
+  - [遙かなる時空の中で](../Page/遙かなる時空の中で.md "wikilink")（[水野十子](../Page/水野十子.md "wikilink")）
   - [八葉さんが行く\!](https://ja.wikipedia.org/wiki/八葉さんが行く! "wikilink")（[カネチクヂュンコ](https://ja.wikipedia.org/wiki/カネチクヂュンコ "wikilink")）
-  - [美女が野獣](https://ja.wikipedia.org/wiki/美女が野獣 "wikilink")（マツモトトモ）
+  - [美女が野獣](https://ja.wikipedia.org/wiki/美女が野獣 "wikilink")（[マツモトトモ](../Page/マツモトトモ.md "wikilink")）
   - [ハッスルで行こう](https://ja.wikipedia.org/wiki/ハッスルで行こう "wikilink")（[なかじ有紀](../Page/なかじ有紀.md "wikilink")）
-  - [パッション・パレード](https://ja.wikipedia.org/wiki/パッション・パレード "wikilink")（樹なつみ）
-  - [花咲ける青少年](../Page/花咲ける青少年.md "wikilink")（樹なつみ）
+  - [パッション・パレード](https://ja.wikipedia.org/wiki/パッション・パレード "wikilink")（[樹なつみ](../Page/樹なつみ.md "wikilink")）
+  - [花咲ける青少年](../Page/花咲ける青少年.md "wikilink")（[樹なつみ](../Page/樹なつみ.md "wikilink")）
   - [ハルマゲドンシリーズ](https://ja.wikipedia.org/wiki/ハルマゲドンシリーズ "wikilink")（[山田ミネコ](../Page/山田ミネコ.md "wikilink")）
+  - [ヴァンパイア騎士](../Page/ヴァンパイア騎士.md "wikilink")（[樋野まつり](../Page/樋野まつり.md "wikilink")）
+  - [ビーナスは片思い](https://ja.wikipedia.org/wiki/ビーナスは片思い "wikilink")（[なかじ有紀](../Page/なかじ有紀.md "wikilink")）
+  - [B.B.Joker](../Page/B.B.Joker.md "wikilink")（[にざかな](../Page/にざかな.md "wikilink")）
   - [ピエロ](../Page/ピエロ.md "wikilink")（[赤座ひではる](../Page/赤座ひではる.md "wikilink")）
   - [日出処の天子](../Page/日出処の天子.md "wikilink")（[山岸凉子](../Page/山岸凉子.md "wikilink")）
-  - [ビーナスは片思い](https://ja.wikipedia.org/wiki/ビーナスは片思い "wikilink")（[なかじ有紀](../Page/なかじ有紀.md "wikilink")）
-  - [B.B.Joker](../Page/B.B.Joker.md "wikilink")（にざかな）
-  - [ヴァンパイア騎士](../Page/ヴァンパイア騎士.md "wikilink")（[樋野まつり](../Page/樋野まつり.md "wikilink")）
-  - [ビューティー ハニー](../Page/ビューティー_ハニー.md "wikilink")（マツモトトモ）
-  - [funfun工房](https://ja.wikipedia.org/wiki/funfun工房 "wikilink")（渡辺祥智）
+  - [姫君は騎士団長](https://ja.wikipedia.org/wiki/姫君は騎士団長 "wikilink")（[屋丸やす子](https://ja.wikipedia.org/wiki/屋丸やす子 "wikilink")）
+  - [ビューティー ハニー](../Page/ビューティー_ハニー.md "wikilink")（[マツモトトモ](../Page/マツモトトモ.md "wikilink")）
+  - [funfun工房](https://ja.wikipedia.org/wiki/funfun工房 "wikilink")（[渡辺祥智](../Page/渡辺祥智.md "wikilink")）
   - [フェアリー・マスター](https://ja.wikipedia.org/wiki/フェアリー・マスター "wikilink")（[橘裕](../Page/橘裕.md "wikilink")）
-  - [不協和音ラプソディ](../Page/不協和音ラプソディ.md "wikilink")（わかつきめぐみ）
+  - [不協和音ラプソディ](../Page/不協和音ラプソディ.md "wikilink")（[わかつきめぐみ](../Page/わかつきめぐみ.md "wikilink")）
   - [BRAN-NEW](https://ja.wikipedia.org/wiki/BRAN-NEW "wikilink")（[なかじ有紀](../Page/なかじ有紀.md "wikilink")）
   - [フレッシュグリーンの季節](https://ja.wikipedia.org/wiki/フレッシュグリーンの季節 "wikilink")（[篠有紀子](https://ja.wikipedia.org/wiki/篠有紀子 "wikilink")）
   - [ペンギン革命](https://ja.wikipedia.org/wiki/ペンギン革命 "wikilink")（[筑波さくら](../Page/筑波さくら.md "wikilink")）
@@ -143,22 +154,26 @@
   - [魔術使いシド&リドシリーズ](https://ja.wikipedia.org/wiki/魔術使いシド&リドシリーズ "wikilink")（[木々](https://ja.wikipedia.org/wiki/木々 "wikilink")）
   - [まり子闘争](https://ja.wikipedia.org/wiki/まり子闘争 "wikilink")（[かわみなみ](https://ja.wikipedia.org/wiki/かわみなみ "wikilink")）
   - [摩利と新吾](../Page/摩利と新吾.md "wikilink")（[木原敏江](../Page/木原敏江.md "wikilink")）
+  - [マリはハッピーエンドでお願いします](https://ja.wikipedia.org/wiki/マリはハッピーエンドでお願いします "wikilink")（[晴海ひつじ](https://ja.wikipedia.org/wiki/晴海ひつじ "wikilink")）
   - [みかん絵日記](../Page/みかん絵日記.md "wikilink")（[安孫子三和](../Page/安孫子三和.md "wikilink")）
-  - [みき&ユーティ](../Page/みき&ユーティ.md "wikilink")（成田美名子）
-  - [目隠しの国](../Page/目隠しの国.md "wikilink")（筑波さくら）
-  - [めるぷり メルヘン☆プリンス](https://ja.wikipedia.org/wiki/めるぷり_メルヘン☆プリンス "wikilink")（樋野まつり）
-  - [もしかしてヴァンプ](../Page/もしかしてヴァンプ.md "wikilink")（橘裕）
+  - [水玉ハニーボーイ](https://ja.wikipedia.org/wiki/水玉ハニーボーイ "wikilink")（[池ジュン子](https://ja.wikipedia.org/wiki/池ジュン子 "wikilink")）
+  - [みき&ユーティ](../Page/みき&ユーティ.md "wikilink")（[成田美名子](../Page/成田美名子.md "wikilink")）
+  - [目隠しの国](../Page/目隠しの国.md "wikilink")（[筑波さくら](../Page/筑波さくら.md "wikilink")）
+  - [めるぷり メルヘン☆プリンス](https://ja.wikipedia.org/wiki/めるぷり_メルヘン☆プリンス "wikilink")（[樋野まつり](../Page/樋野まつり.md "wikilink")）
+  - [もしかしてヴァンプ](../Page/もしかしてヴァンプ.md "wikilink")（[橘裕](../Page/橘裕.md "wikilink")）
 
 ### や行
 
   - [八雲立つ](https://ja.wikipedia.org/wiki/八雲立つ "wikilink")（樹なつみ）
   - [ユキは地獄に堕ちるのか](https://ja.wikipedia.org/wiki/ユキは地獄に堕ちるのか "wikilink") ([藤原ヒロ](../Page/藤原ヒロ.md "wikilink"))
+  - [嫁姑教室](https://ja.wikipedia.org/wiki/嫁姑教室 "wikilink")（[柏屋キクゾー](https://ja.wikipedia.org/wiki/柏屋キクゾー "wikilink")）
 
 ### ら行
 
   - [らぶ・ちょっぷ\!](https://ja.wikipedia.org/wiki/らぶ・ちょっぷ! "wikilink")（森生まさみ）
   - [ラブラブミッチー](https://ja.wikipedia.org/wiki/ラブラブミッチー "wikilink")（[高野まさこ](https://ja.wikipedia.org/wiki/高野まさこ "wikilink")）
   - [龍の花わずらい](../Page/龍の花わずらい.md "wikilink")（[草川為](../Page/草川為.md "wikilink")）
+  - [劉備徳子は静かに暮らしたい](https://ja.wikipedia.org/wiki/劉備徳子は静かに暮らしたい "wikilink")（[仲野えみこ](https://ja.wikipedia.org/wiki/仲野えみこ "wikilink")）
   - [菩提樹寮のアリア─金色のコルダシリーズ─](https://ja.wikipedia.org/wiki/金色のコルダ3 "wikilink")（[呉由姫](../Page/呉由姫.md "wikilink")、原案：[ルビー・パーティー](../Page/コーエー.md "wikilink")）
   - [ルーとソロモン](../Page/ルーとソロモン.md "wikilink")（[三原順](../Page/三原順.md "wikilink")）
 

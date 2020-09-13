@@ -5,19 +5,19 @@
 
 ## 日本における概要
 
-日本では1991年にC-QUAM方式（[振幅変調\#モトローラ方式](https://ja.wikipedia.org/wiki/振幅変調#モトローラ方式 "wikilink")を参照）を標準に採用しての実施が決定され、1992年3月15日に[東京放送](../Page/TBSラジオ.md "wikilink")(TBS)、[文化放送](../Page/文化放送.md "wikilink")(QR、[ニッポン放送](../Page/ニッポン放送.md "wikilink")(LF)、[毎日放送](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")(MBS)、[朝日放送](../Page/朝日放送ラジオ.md "wikilink")(ABC)の民放5局で開始した。[ラジオ大阪](../Page/大阪放送.md "wikilink")(OBC)は新社屋完成を待って1993年から開始した。これらの当初実施局に続き、10局前後の地方民法局がステレオ化した。
+日本では1991年にC-QUAM方式（[振幅変調\#モトローラ方式](https://ja.wikipedia.org/wiki/振幅変調#モトローラ方式 "wikilink")を参照）を標準に採用しての実施が決定され、1992年3月15日に[東京放送](../Page/TBSラジオ.md "wikilink")（TBS）、[文化放送](../Page/文化放送.md "wikilink")（QR）、[ニッポン放送](../Page/ニッポン放送.md "wikilink")（LF）、[毎日放送](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")（MBS）、[朝日放送](../Page/朝日放送ラジオ.md "wikilink")（ABC）の民放5局で開始した。[ラジオ大阪](../Page/大阪放送.md "wikilink")（OBC）は新社屋完成を待って1993年から開始した。これらの当初実施局に続き、10局前後の地方民法局がステレオ化した。
 
 当初は「AMラジオの最初で最後の進化」「AMラジオのFM化」と言われプロ野球中継にて臨場感を高めたことや音楽番組のステレオ放送目的、トーク番組などで流れる音楽が開始前と比べて多くなった。AMステレオ放送に関する放送局の設備は送信機・ステレオエキサイタ・AMステレオモニターなどで構成され、電波の送出においてモノラルとステレオをスイッチで切り替えることが可能な設備もある\[1\]。
 
-しかし当初の盛り上がりの後、継続的な普及に入ることは無く、結果的に導入したのは大都市中波局と実施当時民放FM局がなかった[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")（[山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")）や和歌山県（[和歌山放送](../Page/和歌山放送.md "wikilink")）など計16局に留まり、[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")（STVラジオ）が1996年10月7日に開始したのが最後の新規採用事例となった。その後、音楽番組の聴取率不振やNHKが導入を見送った影響で多くの民放局で実施に至らずすでにAMステレオを実施している民放局でも一部の局を除いて親局のみでしか行われていない\[2\]。
+しかし当初の盛り上がりの後、継続的な普及に入ることは無く、結果的に導入したのは大都市中波局と実施当時民放FM局がなかった[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")（[山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")）や和歌山県（[和歌山放送](../Page/和歌山放送.md "wikilink")）など計16局に留まり、[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")（[STVラジオ](../Page/STVラジオ.md "wikilink")）が1996年10月7日に開始したのが最後の新規採用事例となった。その後、音楽番組の聴取率不振やNHKが導入を見送った影響で多くの民放局で実施に至らずすでにAMステレオを実施している民放局でも一部の局を除いて親局のみでしか行われていない\[2\]。
 
-2000年代後半以降、モトローラ社がAMステレオ放送維持に必要な送信機（ラジオマスター）等を2000年代半ばまでに打ち切った事や、放送事業者の経営合理化、放送局の送信機更新の際にAMステレオ放送維持のための装置が2000年代半ばまでに生産終了になったこと、AMステレオ受信機は割高であったため普及しなかった\[3\]などの理由にてモノラル放送に戻す事例も続いており[九州朝日放送が](../Page/KBCラジオ.md "wikilink")[2007年](../Page/2007年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に終了\[4\]、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")が[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")に終了、[毎日放送と](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")[北海道放送が](../Page/HBCラジオ.md "wikilink")[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月28日](../Page/2月28日.md "wikilink")に終了\[5\]、[朝日放送が](../Page/朝日放送ラジオ.md "wikilink")2010年[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")に終了、[STVラジオ](../Page/STVラジオ.md "wikilink")が2010年[3月28日](../Page/3月28日.md "wikilink")に終了、[RKB毎日放送が](../Page/RKBラジオ.md "wikilink")2010年[5月30日](../Page/5月30日.md "wikilink")に終了、TBSラジオが[2011年](../Page/2011年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")に終了\[6\]、[中国放送](../Page/中国放送.md "wikilink")が2011年[3月13日](../Page/3月13日.md "wikilink")に終了、[山陽放送が](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")2011年[3月27日](../Page/3月27日.md "wikilink")に終了、文化放送が[2012年](../Page/2012年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")に終了\[7\]、[東海ラジオが](../Page/東海ラジオ放送.md "wikilink")2012年[5月13日](../Page/5月13日.md "wikilink")にラジオマスター更新に際してAMステレオ放送を終了\[8\]しモノラル放送に戻した。2014年10月末時点におけるAMステレオ放送実施局は[ニッポン放送](../Page/ニッポン放送.md "wikilink")・[CBCラジオ](../Page/CBCラジオ.md "wikilink")・和歌山放送・[ラジオ大阪など漸減傾向にある](../Page/大阪放送.md "wikilink")。
+2000年代後半以降、モトローラ社がAMステレオ放送維持に必要な送信機（ラジオマスター）等を2000年代半ばまでに打ち切った事や、放送事業者の経営合理化、放送局の送信機更新の際にAMステレオ放送維持のための装置が2000年代半ばまでに生産終了になったこと、AMステレオ受信機は割高であったため普及しなかった\[3\]などの理由にてモノラル放送に戻す事例も続いており[九州朝日放送が](../Page/KBCラジオ.md "wikilink")[2007年](../Page/2007年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に終了\[4\]、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")が[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")に終了、毎日放送と[北海道放送が](../Page/HBCラジオ.md "wikilink")[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月28日](../Page/2月28日.md "wikilink")に終了\[5\]、朝日放送が2010年[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")に終了、STVラジオが2010年[3月28日](../Page/3月28日.md "wikilink")に終了、[RKB毎日放送が](../Page/RKBラジオ.md "wikilink")2010年[5月30日](../Page/5月30日.md "wikilink")に終了、TBSラジオが[2011年](../Page/2011年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")に終了\[6\]、[中国放送](../Page/中国放送.md "wikilink")が2011年[3月13日](../Page/3月13日.md "wikilink")に終了、[山陽放送が](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")2011年[3月27日](../Page/3月27日.md "wikilink")に終了、文化放送が[2012年](../Page/2012年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")に終了\[7\]、[東海ラジオが](../Page/東海ラジオ放送.md "wikilink")2012年[5月13日](../Page/5月13日.md "wikilink")にラジオマスター更新に際してAMステレオ放送を終了\[8\]しモノラル放送に戻した。2014年10月末時点におけるAMステレオ放送実施局はニッポン放送・[CBCラジオ](../Page/CBCラジオ.md "wikilink")・和歌山放送・ラジオ大阪など漸減傾向にある。
 
 日本では放送開始より前の1991年10月に[アイワ](https://ja.wikipedia.org/wiki/アイワ "wikilink")が初の対応機を出し[ソニー](../Page/ソニー.md "wikilink")がそれに続いた。その他のメーカーからも対応機は出たが、数年後にはアイワ以外からの新製品はほとんど無くなった。アイワはその後も継続していたが、2002年1月にソニーに吸収合併された後は対応した新機種は無くなった。2013年を以て既存対応機種も全て生産を終了し、同年末までに販売終了になった。
 
 日本で普及・定着しなかった原因として、次の理由が挙げられている。
 
-  - [日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")(NHK)がこの放送方式の導入を見送ったこと。
+  - [日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）がこの放送方式の導入を見送ったこと。
       - [放送法](../Page/放送法.md "wikilink")においてNHKは「日本全国に均一な[放送](../Page/放送.md "wikilink")をする」義務が定められており、全国47[都道府県](../Page/都道府県.md "wikilink")全てにAMステレオ放送を導入すると莫大な経費がかかる（特にステレオ放送対応の[送信機](../Page/送信機.md "wikilink")が高額とされている。中継回線使用料は仮に実施した場合でもほとんど影響しなかった\[9\]）とされたため\[10\]。
       - 既に[超短波放送](../Page/超短波放送.md "wikilink")（FM放送）でステレオ放送を行っておりNHK中波放送の[聴取者は高齢層が多かったためにAMステレオ放送を生かせる番組が少ないとされ](../Page/リスナー.md "wikilink")\[11\]、中波でのステレオ放送は不要と判断したため\[12\]。
   - 全ての中継局をステレオ化すると回線使用料が割高になること\[13\]。
@@ -96,9 +96,9 @@
 
 1波によるAMステレオ放送の開発に関する歴史は古く1926年11月、アメリカ電信電話会社（現在の[AT\&T](../Page/AT&T.md "wikilink")）の[P.K.Potter](https://ja.wikipedia.org/wiki/P.K.Potter "wikilink")が直交変調方式（QUAM方式、後のモトローラ方式の基礎となるもの）を発明し[特許](../Page/特許.md "wikilink")を取得したことが最初である。
 
-1958年、ステレオ・レコードの発売の同じ年に米でAM放送のステレオ化の提案が行われ、その後WABC、WCBS、WNBC、KDKAの計4局が実験放送を行った。しかし米では同時に[FMステレオ放送の標準方式の検討が行われた時期でありAM放送全盛の中で本格的にFM放送の振興を図ろうとする](https://ja.wikipedia.org/wiki/FM放送 "wikilink")[連邦通信委員会](../Page/連邦通信委員会.md "wikilink")(FCC)の思惑があり[1960年](../Page/1960年.md "wikilink")頃、同委員会はAMステレオ放送の申請を却下した（日本でも1962年から2年間、TBSラジオがAM-FM方式によるステレオ放送の実験を放送終了後に行っていた）。
+1958年、ステレオ・レコードの発売の同じ年に米でAM放送のステレオ化の提案が行われ、その後WABC、WCBS、WNBC、KDKAの計4局が実験放送を行った。しかし米では同時に[FMステレオ放送の標準方式の検討が行われた時期でありAM放送全盛の中で本格的にFM放送の振興を図ろうとする](https://ja.wikipedia.org/wiki/FM放送 "wikilink")[連邦通信委員会](../Page/連邦通信委員会.md "wikilink")（FCC）の思惑があり[1960年](../Page/1960年.md "wikilink")頃、同委員会はAMステレオ放送の申請を却下した（日本でも1962年から2年間、TBSラジオがAM-FM方式によるステレオ放送の実験を放送終了後に行っていた）。
 
-その後1970年に入り、[アメリカでは高音質のFMステレオ放送が人気をよんだこともありFM放送のリスナー数がAM放送のそれよりも上回るケースが出てきた](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。これを機に再度、AMのステレオ化が全米のAM各局から叫ばれてそれを実施したいAM局が集まり1975年9月、全米AMステレオラジオ委員会(NAMSRC)が設立された。
+その後1970年に入り、[アメリカでは高音質のFMステレオ放送が人気をよんだこともありFM放送のリスナー数がAM放送のそれよりも上回るケースが出てきた](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。これを機に再度、AMのステレオ化が全米のAM各局から叫ばれてそれを実施したいAM局が集まり1975年9月、全米AMステレオラジオ委員会（NAMSRC）が設立された。
 
 AMステレオ方式の標準方式を決めるべく実験放送等を行って検討し、1977年12月に報告書をFCCに提出した。1978年、FCCはこれを受けAMステレオの標準方式を決めるためにカーン方式（ISB方式）、モトローラ方式（C-QUAM方式）、マグナボックス方式（AM-PM方式）、ベラー方式（AM-FM方式）、ハリス方式（VCPM方式）の計5方式を選定。
 
@@ -302,10 +302,10 @@ NHKの中波放送がステレオ放送を実施しなかった事やAMステレ
 
 [en:AM stereo](https://ja.wikipedia.org/wiki/en:AM_stereo "wikilink")
 
-[Category:ラジオ](https://ja.wikipedia.org/wiki/Category:ラジオ "wikilink") [Category:放送](https://ja.wikipedia.org/wiki/Category:放送 "wikilink") [Category:無線工学](https://ja.wikipedia.org/wiki/Category:無線工学 "wikilink") [Category:ステレオ](https://ja.wikipedia.org/wiki/Category:ステレオ "wikilink") [Category:日本の放送](https://ja.wikipedia.org/wiki/Category:日本の放送 "wikilink")
+[Category:ラジオ](https://ja.wikipedia.org/wiki/Category:ラジオ "wikilink") [Category:放送](https://ja.wikipedia.org/wiki/Category:放送 "wikilink") [Category:無線工学](https://ja.wikipedia.org/wiki/Category:無線工学 "wikilink") [Category:ステレオ](https://ja.wikipedia.org/wiki/Category:ステレオ "wikilink") [Category:日本のラジオ放送](https://ja.wikipedia.org/wiki/Category:日本のラジオ放送 "wikilink")
 
 1.
-2.  現在親局以外のラジオ送信所（中継局）でAMステレオ放送を実施しているのは[ラジオ大阪の](../Page/大阪放送.md "wikilink")[京都中継局のみ](../Page/在阪民放ラジオ局京都中継局.md "wikilink")。
+2.  現在親局以外のラジオ送信所（中継局）でAMステレオ放送を実施しているのはラジオ大阪の[京都中継局のみ](../Page/在阪民放ラジオ局京都中継局.md "wikilink")。
 3.  [AMステレオ放送を終了へ…受信機割高で普及せず](http://www.zakzak.co.jp/gei/2006_11/g2006111612.html) ZAKZAK（産経デジタル） [2006年](../Page/2006年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")
 4.
 5.  [毎日放送ラジオからのお知らせ「AMステレオ放送終了のお知らせ」](http://www.mbs1179.com/rinfo/index.shtml) MBSラジオ公式サイト
@@ -325,7 +325,7 @@ NHKの中波放送がステレオ放送を実施しなかった事やAMステレ
 19. [大手民放ラジオ13社、ネット同時放送解禁へ](http://business.nikkeibp.co.jp/article/topics/20100210/212732/?P=1) [日経ビジネス](../Page/日経ビジネス.md "wikilink")ONLINE 2010年2月12日
 20. 2019年10月現在、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")のみ実施
 21. 実用化試験放送として[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")から2011年3月31日までTBSラジオ、文化放送、ニッポン放送が深夜の一部時間帯を除きAMラジオの[サイマル放送](../Page/サイマル放送.md "wikilink")を行っていた。かつてはBSデジタルラジオでもAMラジオの一部サイマル放送を文化放送（[BSQR489](../Page/BSQR489.md "wikilink")）と[アール・エフ・ラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")（BS日テレラジオ445）で行なっていた事例がある。
-22. 稲富抱一, 「[AMステレオ放送](https://doi.org/10.20697/jasj.38.6_370)」『日本音響学会誌』 38巻 6号 1982年 p.370-374, 日本音響学会, 。
+22. 稲富抱一、「[AMステレオ放送](https://doi.org/10.20697/jasj.38.6_370)」『日本音響学会誌』 38巻 6号 1982年 p.370-374、日本音響学会、。
 23.
 24.
 25.

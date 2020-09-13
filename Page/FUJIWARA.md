@@ -10,7 +10,7 @@
 <!-- end list -->
 
   -
-    [大阪府](../Page/大阪府.md "wikilink")[寝屋川市](https://ja.wikipedia.org/wiki/寝屋川市 "wikilink")出身。[AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[ツッコミ担当](https://ja.wikipedia.org/wiki/漫才#ボケとツッコミ "wikilink")。通称「フジモン」など。
+    [大阪府](../Page/大阪府.md "wikilink")[寝屋川市](https://ja.wikipedia.org/wiki/寝屋川市 "wikilink")出身。[AB型](../Page/ABO式血液型.md "wikilink")。[ツッコミ担当](https://ja.wikipedia.org/wiki/漫才#ボケとツッコミ "wikilink")。通称「フジモン」など。
 
 <!-- end list -->
 
@@ -19,14 +19,14 @@
 <!-- end list -->
 
   -
-    大阪府寝屋川市出身。[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[ボケ担当](https://ja.wikipedia.org/wiki/漫才#ボケとツッコミ "wikilink")。通称「ラリーゴ」「はらにっちゃん」など。
+    大阪府寝屋川市出身。[A型](../Page/ABO式血液型.md "wikilink")。[ボケ担当](https://ja.wikipedia.org/wiki/漫才#ボケとツッコミ "wikilink")。通称「ラリーゴ」「はらにっちゃん」など。
 
 ## 概要
 
   - [コンビ](https://ja.wikipedia.org/wiki/コンビ "wikilink")名の由来は、藤本の「藤」と原西の「原」を合わせたものだが、[コンビ](https://ja.wikipedia.org/wiki/コンビ "wikilink")を組んだ当初は漢字表記で「藤原」であった。[1991年](../Page/1991年.md "wikilink")の第11回[ABCお笑い新人グランプリ](../Page/ABCお笑い新人グランプリ.md "wikilink")に出場した際には**「FuJi-WaRa」**と表記されていた。ちなみに名付け親は吉本興業執行役員の[中井秀範](../Page/中井秀範.md "wikilink")である。
   - コンビのネタ書きは藤本が担当。一方で原西が個人で行うギャグは自分で考えており、ネタに盛り込まれることもある。コントでは歌やリズムの要素を取り入れたものが多い。
   - [1991年](../Page/1991年.md "wikilink")9月、[ナインティナイン](https://ja.wikipedia.org/wiki/ナインティナイン "wikilink")や[雨上がり決死隊](../Page/雨上がり決死隊.md "wikilink")などが所属していた若手ユニット「[吉本印天然素材](../Page/吉本印天然素材.md "wikilink")」に結成とともに参加。
-  - [MBSヤングタウン](../Page/MBSヤングタウン.md "wikilink")で競演していた事から[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")と交流があり、1994年にはつんく♂が初めてプロデュースした曲「明日が来る前に」でCDデビューも果たしている。
+  - [MBSヤングタウン](../Page/MBSヤングタウン.md "wikilink")で共演していた事から[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")と交流があり、1994年にはつんく♂が初めてプロデュースした曲「明日が来る前に」でCDデビューも果たしている。
   - 天素メンバーとして最初の東京進出を果たすものの、天然素材の活動停止後は仕事は低迷していた。2人とも解散、及び芸能界引退も考えていた矢先にABCのプロデューサーから、｢出ないか?｣と言われて出演した『[すんげー\!Best10](../Page/すんげー!Best10.md "wikilink")』で関西でブレイクのきっかけを掴む。当時は司会が同期の千原兄弟で、また、後輩からは白い目で見られていたという。その後後述するテレビ大阪からオファーが来て、冠番組の開始を承諾し、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[関西ローカル](../Page/関西ローカル.md "wikilink")のバラエティ番組『[吉本超合金](../Page/吉本超合金.md "wikilink")』（[テレビ大阪](../Page/テレビ大阪.md "wikilink")）にレギュラー出演し関西を中心に本格的にブレイク。
   - 出戻り後は[心斎橋筋2丁目劇場](../Page/心斎橋筋2丁目劇場.md "wikilink")のレギュラー出演者に復帰することはなかったが、[1999年](../Page/1999年.md "wikilink")9月[baseよしもと](https://ja.wikipedia.org/wiki/baseよしもと "wikilink")が開場。[陣内智則](../Page/陣内智則.md "wikilink")・[シャンプーハットとともに若手のまとめ役に成長した](https://ja.wikipedia.org/wiki/シャンプーハット_\(お笑いコンビ\) "wikilink")。
   - [関西テレビのローカル番組](../Page/関西テレビ放送.md "wikilink")『[すぽーつアミーゴ\!](https://ja.wikipedia.org/wiki/すぽーつアミーゴ! "wikilink")』の企画で、[ホノルルマラソン](../Page/ホノルルマラソン.md "wikilink")を一定時間内に走りきれなかった罰として2002年12月30日-2003年3月7日までの限定で「**NISHIMOTO**（にしもと）」というコンビ名で活動した（他局にも同コンビ名で出演）。
@@ -74,20 +74,11 @@
 
   - [キニナル金曜日](https://ja.wikipedia.org/wiki/キニナル金曜日 "wikilink")（2017年4月7日 -[TBSテレビ](../Page/TBSテレビ.md "wikilink")系列） **藤本 - MC、原西 - キニナルコメンテーター**
   - [特盛\!よしもと 今田・八光のおしゃべりジャングル](https://ja.wikipedia.org/wiki/特盛!よしもと_今田・八光のおしゃべりジャングル "wikilink")（読売テレビ） - **不定期出演**
-  - [秘密のケンミンSHOW](https://ja.wikipedia.org/wiki/秘密のケンミンSHOW "wikilink")（[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")） - **不定期出演**
-  - [さんまのお笑い向上委員会](https://ja.wikipedia.org/wiki/さんまのお笑い向上委員会 "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系列） - **不定期出演**
-  - [雨上がり決死隊のトーク番組アメトーーク\!](../Page/雨上がり決死隊のトーク番組アメトーーク!.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列） - **不定期出演**
   - [オールスター感謝祭](https://ja.wikipedia.org/wiki/オールスター感謝祭 "wikilink")（[TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")系列） - **解答者として出演**
-  - オールスター後夜祭（TBS）- 解答者として出演（居残り芸人で名札は印刷。）
-  - [ニンゲン観察バラエティ モニタリング](https://ja.wikipedia.org/wiki/ニンゲン観察バラエティ_モニタリング "wikilink")（[TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")系列） - **不定期出演**
-  - [芸能人格付けチェック](https://ja.wikipedia.org/wiki/芸能人格付けチェック "wikilink")（[朝日放送](../Page/朝日放送テレビ.md "wikilink")・[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列） - **大予選会に10回出演。**
-      - 2013年は決勝敗退。
-      - 2015年の大予選会では優勝し、本戦ではとなったが、ここ4年は予選落ちしている。
   - [東大王](https://ja.wikipedia.org/wiki/東大王 "wikilink")（TBS）- **不定期出演**
   - [上沼・高田のクギズケ\!](https://ja.wikipedia.org/wiki/上沼・高田のクギズケ! "wikilink")（読売テレビ）- **不定期出演**
-  - [快傑えみちゃんねる](../Page/快傑えみちゃんねる.md "wikilink")（関西テレビ）- **不定期出演**
   - [水曜日のダウンタウン](https://ja.wikipedia.org/wiki/水曜日のダウンタウン "wikilink")（TBS系列）- **不定期出演**
-  - [ダウンタウンのガキの使いやあらへんで\!](../Page/ダウンタウンのガキの使いやあらへんで!.md "wikilink")（日本テレビ系列）- **不定期出演**
+  - [秘密のケンミンSHOW](https://ja.wikipedia.org/wiki/秘密のケンミンSHOW "wikilink")（読売テレビ）- **不定期出演**
   - [クイズ☆正解は一年後](https://ja.wikipedia.org/wiki/クイズ☆正解は一年後 "wikilink")（TBS系列）- **毎年出演**
 
 ※個人での出演はそれぞれ個人の記事参照。コンビでの出演のみ記載。
@@ -162,6 +153,7 @@
   - FUJIWARAの技ありキッチン（[東京MXTV](../Page/東京メトロポリタンテレビジョン.md "wikilink")）
   - FUJIWARAの歩き方 ～世界が認めたニッポン～（2019年9月28日、[岡山放送](../Page/岡山放送.md "wikilink")）
   - [メッセンジャーの○○は大丈夫なのか?](https://ja.wikipedia.org/wiki/メッセンジャーの○○は大丈夫なのか? "wikilink")（毎日放送）- **不定期出演**
+  - [芸能人格付けチェック](https://ja.wikipedia.org/wiki/芸能人格付けチェック "wikilink")（[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")）- 大予選会10回出演
 
 ### ラジオ番組
 

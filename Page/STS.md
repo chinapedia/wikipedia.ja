@@ -20,7 +20,7 @@
   - [昭和パックス](https://ja.wikipedia.org/wiki/昭和パックス "wikilink")トレーサビリティシステムの略
   - [STS地震計](https://ja.wikipedia.org/wiki/STS地震計 "wikilink")。広帯域[地震計](../Page/地震計.md "wikilink")のひとつ。1990年代以降の日本の地震観測の主力
   - [台風](../Page/台風.md "wikilink")の国際的な強さの階級のひとつ、severe tropical stormの略
-  - [Android](../Page/Android.md "wikilink")向け[Twitter](../Page/Twitter.md "wikilink")[クライアント](../Page/クライアント_\(コンピュータ\).md "wikilink")、ShootingStarの略称
+  - [Android向け](../Page/Android_\(オペレーティングシステム\).md "wikilink")[Twitter](../Page/Twitter.md "wikilink")[クライアント](../Page/クライアント_\(コンピュータ\).md "wikilink")、ShootingStarの略称
   - [署名タイムスタンプ](https://ja.wikipedia.org/wiki/署名タイムスタンプ "wikilink")
   - [チオ硫酸銀](https://ja.wikipedia.org/wiki/チオ硫酸銀 "wikilink")(Silver Thiosulfate) - [銀](../Page/銀.md "wikilink")の[チオ硫酸塩](https://ja.wikipedia.org/wiki/チオ硫酸塩 "wikilink")
   - 企業名

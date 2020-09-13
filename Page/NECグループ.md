@@ -39,7 +39,6 @@
   - [KIS](https://ja.wikipedia.org/wiki/KIS_\(企業\) "wikilink")
   - [航空システムサービス](https://ja.wikipedia.org/wiki/航空システムサービス "wikilink")
   - [国際社会経済研究所](https://ja.wikipedia.org/wiki/国際社会経済研究所 "wikilink")
-  - [埼玉日本電気](https://ja.wikipedia.org/wiki/埼玉日本電気 "wikilink")【NEC埼玉】
   - [三和コンピュータ](https://ja.wikipedia.org/wiki/三和コンピュータ "wikilink")
   - [シーイーエヌソリューションズ](https://ja.wikipedia.org/wiki/シーイーエヌソリューションズ "wikilink")
   - [シー・キューブド・アイ・システムズ](https://ja.wikipedia.org/wiki/シー・キューブド・アイ・システムズ "wikilink")
@@ -144,7 +143,7 @@
   - NECマシナリー - キヤノンがTOBをかけて子会社の[キヤノンマシナリー](../Page/キヤノンマシナリー.md "wikilink")となる。
   - NECモバイリング - グループ離脱時点で東京証券取引所第一部上場企業だった。2013年6月、[丸紅](../Page/丸紅.md "wikilink")の完全子会社であるMXホールディングスが行った[株式公開買付け](../Page/株式公開買付け.md "wikilink")に応募し、全株式売却\[28\]。2013年8月15日に[MXモバイリング](https://ja.wikipedia.org/wiki/MXモバイリング "wikilink")に商号変更\[29\]。2013年9月に丸紅の完全子会社（孫会社）となり上場廃止。
   - NECライティング - 旧NECホームエレクトロニクスから独立した蛍光灯などの照明機器事業会社。2019年4月に日本みらいキャピタルが出資する[ホタルクス](https://ja.wikipedia.org/wiki/ホタルクス "wikilink")（日本みらいキャピタル95%、NEC5%）に事業譲渡後、2020年3月3日清算結了。
-  - [NLTテクノロジー](https://ja.wikipedia.org/wiki/NLTテクノロジー "wikilink") - 旧NEC液晶テクノロジー。2011年に深セン中航光電子に保有株式の70%を売却、その時点では持分法適用会社であったが、2012年度中に持分法適用対象外となり、グループより外れる\[30\]。
+  - [NLTテクノロジー](https://ja.wikipedia.org/wiki/NLTテクノロジー "wikilink") - 旧NEC液晶テクノロジー。2011年に深圳中航光電子に保有株式の70%を売却、その時点では持分法適用会社であったが、2012年度中に持分法適用対象外となり、グループより外れる\[30\]。
   - [エルピーダメモリ](https://ja.wikipedia.org/wiki/マイクロンメモリジャパン "wikilink") - [日立製作所](../Page/日立製作所.md "wikilink")と合弁で作られたメモリ専業メーカー。2005年9月にNECと日立が保有株式の一部を売却し、同社の連結決算上の持分法対象外となった。その後、[会社更生法](../Page/会社更生法.md "wikilink")適用を受けてアメリカの[マイクロン・テクノロジ](../Page/マイクロン・テクノロジ.md "wikilink")傘下となり、2014年2月28日に[マイクロンメモリジャパン](https://ja.wikipedia.org/wiki/マイクロンメモリジャパン "wikilink")に改称。
   - オートモーティブエナジーサプライ - [日産自動車](../Page/日産自動車.md "wikilink")と共同出資で設立した自動車用電池事業会社。2019年1月末に両社の保有株式を中国のエンビジョングループに売却して離脱\[31\]。
   - [昭和オプトロニクス](https://ja.wikipedia.org/wiki/昭和オプトロニクス "wikilink") - [京セラ](../Page/京セラ.md "wikilink")が、NECが保有する93.53％分の株式全てを譲り受ける。

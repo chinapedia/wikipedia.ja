@@ -6,10 +6,10 @@
 ## メンバー
 
   - しゅく
-    本名: 宿輪 竜一（しゅくわ りゅういち）、 [1976年](../Page/1976年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink") - 、[血液型B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+    本名: 宿輪 竜一（しゅくわ りゅういち）、 [1976年](../Page/1976年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink") - 、[血液型B型](../Page/ABO式血液型.md "wikilink")。
     解散後は[関根勤](../Page/関根勤.md "wikilink")から「**[しゅく造め](https://ja.wikipedia.org/wiki/しゅく造め "wikilink")**」と命名されてピン芸人として活動。
   - 中島 ゆたか
-    本名:中嶋 裕（なかじま ゆたか）、 - 、[血液型O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+    本名:中嶋 裕（なかじま ゆたか）、 - 、[血液型O型](../Page/ABO式血液型.md "wikilink")。
     解散後は芸人を引退。2017年現在では[みやぞん](https://ja.wikipedia.org/wiki/みやぞん "wikilink")のマネージャーを担当\[1\]。
 
 ## 来歴

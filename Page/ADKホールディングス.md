@@ -266,7 +266,7 @@
       - [ミラーマン](../Page/ミラーマン.md "wikilink")
       - [恐竜探険隊ボーンフリー](../Page/恐竜探険隊ボーンフリー.md "wikilink")
   - **東映**
-      - [メタルヒーローシリーズ](../Page/メタルヒーローシリーズ.md "wikilink")（『[宇宙刑事ギャバン](https://ja.wikipedia.org/wiki/宇宙刑事ギャバン "wikilink")』から『[世界忍者戦ジライヤ](../Page/世界忍者戦ジライヤ.md "wikilink")』までは**旭通信社**表記、『[機動刑事ジバン](../Page/機動刑事ジバン.md "wikilink")』から『[テツワン探偵ロボタック](../Page/テツワン探偵ロボタック.md "wikilink")』41話までは**ASATSU**表記だった）
+      - [メタルヒーローシリーズ](../Page/メタルヒーローシリーズ.md "wikilink")（『[宇宙刑事ギャバン](../Page/宇宙刑事ギャバン.md "wikilink")』から『[世界忍者戦ジライヤ](../Page/世界忍者戦ジライヤ.md "wikilink")』までは**旭通信社**表記、『[機動刑事ジバン](../Page/機動刑事ジバン.md "wikilink")』から『[テツワン探偵ロボタック](../Page/テツワン探偵ロボタック.md "wikilink")』41話までは**ASATSU**表記だった）
 
 ### 旧第一企画の実写作品
 
@@ -299,10 +299,13 @@
   - [ホノルル・センチュリーライド](../Page/ホノルル・センチュリーライド.md "wikilink")（日本事務局を担当）
   - [2020年東京オリンピック招致活動](https://ja.wikipedia.org/wiki/2020年東京オリンピック構想 "wikilink")（電通などと共同）
   - [2020年東京オリンピック](https://ja.wikipedia.org/wiki/2020年東京オリンピック "wikilink")（電通などと共同）
+  - クールジャパン関連事業
   - ジャンプミュージックフェスタ
   - S2O JAPAN SONGKRAN MUSIC FESTIVAL
   - FISE HIROSHIMA
   - MONSTER JAM IN JAPAN
+  - SHIBUYA FASHION FESTIVAL(アッシュ・ペー・フランス株式会社と共同)
+  - LIVING on demand(株式会社イープラス、株式会社キョードーアジアと共同)
   - ネット上の原子力安全に関わる不正確情報のモニタリング事業 - [経済産業省](../Page/経済産業省.md "wikilink")[資源エネルギー庁](../Page/資源エネルギー庁.md "wikilink")が行う「原子力安全規制情報広聴・広報事業（不正確情報対応）」\[22\]の2011年度分に事業内容を踏まえて応札し、約7000万円で落札・契約した。[Twitter](../Page/Twitter.md "wikilink")や[ブログ](../Page/ブログ.md "wikilink")などのインターネット情報をモニタリングする\[23\]。ADKは「[福島第一原発事故](https://ja.wikipedia.org/wiki/福島第一原発事故 "wikilink")の風評被害防止になる事業だと判断した。事業内容については委託された立場なので、同庁の出した事業を進めるだけ」としている\[24\]\[25\]。
 
 ## 主な子会社、関連企業
@@ -383,7 +386,7 @@
   - 佐藤達郎（コピーライター・多摩美術大学）\[27\]
   - [高橋てつや](../Page/高橋てつや.md "wikilink")（漫画家・イラストレーター・同人作家）
   - [多氣田力](https://ja.wikipedia.org/wiki/多氣田力 "wikilink")（ADK元社長）
-  - [立川仮面女子](https://ja.wikipedia.org/wiki/立川仮面女子 "wikilink")（[立川こしら](../Page/立川こしら.md "wikilink")に師事する落語家。落語家名をオークションで販売、アイドルグループの[仮面女子](https://ja.wikipedia.org/wiki/仮面女子 "wikilink")が落札した）
+  - [立川かしめ](../Page/立川かしめ.md "wikilink")（[落語家](../Page/落語家.md "wikilink")、[落語立川流](../Page/落語立川流.md "wikilink")・[立川こしら](../Page/立川こしら.md "wikilink")門下）
   - [戸練直木](https://ja.wikipedia.org/wiki/戸練直木 "wikilink")（アカウントプランナー。kazepro代表）
   - [長沼孝一郎](../Page/長沼孝一郎.md "wikilink")（元ADK取締役会議長）
   - 藤本勝也（1-10 Imagine常務取締役）（ADK在籍）
@@ -395,7 +398,7 @@
   - [水野仁輔](../Page/水野仁輔.md "wikilink")（カレー研究家）
   - [三井明子](https://ja.wikipedia.org/wiki/三井明子 "wikilink")（コピーライター）（ADK在籍）
   - 三寺雅人（クリエイティブディレクター。ビーコンコミュニケーションズ、ジオメトリーを経て2018年ADKに移籍）
-  - [山崎立士](https://ja.wikipedia.org/wiki/山崎立士 "wikilink")（テレビアニメプロデューサー、アニメーション監督、脚本家）（ADK、日本アドシステムズ在籍）
+  - [山崎立士](https://ja.wikipedia.org/wiki/山崎立士 "wikilink")（テレビアニメプロデューサー、アニメーション監督、脚本家）（ADK、日本アドシステムズ出身）
   - [横山隆治](https://ja.wikipedia.org/wiki/横山隆治 "wikilink")（デジタル・アドバタイジング・コンソーシアム元副社長、ADKインタラクティブ元社長）
   - [ロブ・シャーロック](https://ja.wikipedia.org/wiki/ロブ・シャーロック "wikilink")（ワールドワイド・エグゼクティブ・クリエイティブ・ディレクター）（ADK在籍）
 

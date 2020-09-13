@@ -11,7 +11,7 @@
 
 乗員2人。前席に射撃手、後席に[操縦士が縦一列に搭乗する](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")、[タンデム](https://ja.wikipedia.org/wiki/タンデム "wikilink")式[コックピットを採用し](../Page/軍用機のコックピット.md "wikilink")、機首下に[機関砲](../Page/機関砲.md "wikilink")を搭載する。これは後に各国で開発されることになる戦闘・攻撃ヘリコプターでも、広く採用されることになる。
 
-[20mm機関砲や](https://ja.wikipedia.org/wiki/M197機関砲 "wikilink")[TOW](../Page/TOW_\(ミサイル\).md "wikilink")[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")などを主武装とし、[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")や[湾岸戦争](../Page/湾岸戦争.md "wikilink")などの多くの戦闘に投入された。
+[20mm機関砲や](https://ja.wikipedia.org/wiki/M197機関砲 "wikilink")[TOW 対戦車ミサイルなどを主武装とし](../Page/TOW_\(ミサイル\).md "wikilink")、[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")や[湾岸戦争](../Page/湾岸戦争.md "wikilink")などの多くの戦闘に投入された。
 
 [アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")では後継機種である[AH-64 アパッチの採用により全機が退役しているが](../Page/AH-64_アパッチ.md "wikilink")、改良型である[AH-1Zが](https://ja.wikipedia.org/wiki/AH-1Z_ヴァイパー "wikilink")[アメリカ海兵隊](../Page/アメリカ海兵隊.md "wikilink")で運用されている他、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")を初めとする諸外国でも現役で使用されている。日本ではAH-1Sを国内で[ライセンス生産](../Page/ライセンス生産.md "wikilink")しており、平均調達価格は約25億円で米国の約3倍、特に末期に調達数が減り、単価は48億円、6倍にまで高騰した。
 
@@ -57,7 +57,7 @@
 
 ### 機体
 
-[AH-1_Cobra_(6052331695).jpg](https://ja.wikipedia.org/wiki/File:AH-1_Cobra_\(6052331695\).jpg "fig:AH-1_Cobra_(6052331695).jpg") 最大の特徴は、幅99cmという非常にスリムな胴体と、搭乗員を[タンデム](https://ja.wikipedia.org/wiki/タンデム "wikilink")に配置した事である。これによって前面面積は[UH-1の約三割にまで減少され](../Page/UH-1_\(航空機\).md "wikilink")、速度の大幅な増大と低視認性がもたらされた。初の量産型であるAH-1Gの[エンジン](../Page/エンジン.md "wikilink")は1400hpの[T53-L-13が搭載され](https://ja.wikipedia.org/wiki/ライカミング_T53 "wikilink")、最高速度は時速278kmに達し、同じエンジンを積むUH-1Hの205kmを大きく上回る\[4\]。[コックピットは](../Page/軍用機のコックピット.md "wikilink")、前席が射手兼副操縦席、1段高い後席が操縦席となっている。
+[AH-1_Cobra_(6052331695).jpg](https://ja.wikipedia.org/wiki/File:AH-1_Cobra_\(6052331695\).jpg "fig:AH-1_Cobra_(6052331695).jpg") 最大の特徴は、幅99cmという非常にスリムな胴体と、搭乗員を[タンデム](https://ja.wikipedia.org/wiki/タンデム "wikilink")に配置した事である。これによって前面面積は[UH-1の約三割にまで減少され](../Page/UH-1_\(航空機\).md "wikilink")、速度の大幅な増大と低い被視認性がもたらされた。初の量産型であるAH-1Gの[エンジン](../Page/エンジン.md "wikilink")は1400hpの[T53-L-13が搭載され](https://ja.wikipedia.org/wiki/ライカミング_T53 "wikilink")、最高速度は時速278kmに達し、同じエンジンを積むUH-1Hの205kmを大きく上回る\[4\]。[コックピットは](../Page/軍用機のコックピット.md "wikilink")、前席が射手兼副操縦席、1段高い後席が操縦席となっている。
 
 基本はモデル209と大差ないが、AH-1Gとの相違点は速度向上を図って採用された引き込み式スキッドの装備にある。これは重量増加に対し、それほど効果がないと判断されたため、G型以降の量産機では固定式に変更された。
 
@@ -70,13 +70,13 @@ Image:Huey1.jpg|ベースとなったUH-1
 
 [P1000767.JPG](https://ja.wikipedia.org/wiki/File:P1000767.JPG "fig:P1000767.JPG") 機首下面の[ターレット](https://ja.wikipedia.org/wiki/ターレット "wikilink")には、[M134 7.62mm ミニガンと毎分](../Page/M134_\(機関銃\).md "wikilink")400発の射撃が可能なM129[グレネードランチャー](https://ja.wikipedia.org/wiki/グレネードランチャー "wikilink")の搭載が可能である（混載、若しくは2基ずつの搭載も可能）\[6\]。なお、AH-1Sアップガン型以降の機体ではユニバーサルターレットに換装され、発射速度毎分680-750発（切り替え可能）の20mm [M197三砲身ガトリング砲を搭載する様になった](https://ja.wikipedia.org/wiki/M197機関砲 "wikilink")（[M230](https://ja.wikipedia.org/wiki/M230機関砲 "wikilink") 30mm[チェーンガン](../Page/チェーンガン.md "wikilink")の搭載も可能）。
 
-胴体中央部の[スタブウイングには](https://ja.wikipedia.org/wiki/小翼 "wikilink")4ヶ所の[パイロン](https://ja.wikipedia.org/wiki/パイロン "wikilink")があり、ミニガンポッド・[ロケット弾](../Page/ロケット弾.md "wikilink")ポッド・[BGM-71 TOW](../Page/TOW_\(ミサイル\).md "wikilink")[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")などの兵装を、最大で700kgまで装備することが可能である。
+胴体中央部の[スタブウイングには](https://ja.wikipedia.org/wiki/小翼 "wikilink")4ヶ所の[パイロン](https://ja.wikipedia.org/wiki/パイロン "wikilink")があり、ミニガンポッド・[ロケット弾](../Page/ロケット弾.md "wikilink")ポッド・[BGM-71 TOW 対戦車ミサイルなどの兵装を](../Page/TOW_\(ミサイル\).md "wikilink")、最大で700kgまで装備することが可能である。
 
 Image:XM28 Schmatic.jpg|7.62mmミニガンと40mmグレネードの給弾装置 Image:Bell AH-1F Cobra US Army 69-16416 (7159063640).jpg|ロケット弾ポッドとTOW対戦車ミサイル発射機
 
 ### 改良
 
-[対戦車ヘリコプター_(8465505054).jpg](https://ja.wikipedia.org/wiki/File:対戦車ヘリコプター_\(8465505054\).jpg "fig:対戦車ヘリコプター_(8465505054).jpg") [ベトナム戦争](../Page/ベトナム戦争.md "wikilink")終結後には、**AH-1G**に[BGM-71 TOW](https://ja.wikipedia.org/wiki/BGM-71_TOW "wikilink")[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")運用能力付与がなされた。TOW運用能力を付与された機体は**AH-1Q**と呼ばれ、機首部に光学望遠鏡方式の[照準装置を装備しているのが特徴である](../Page/照準器.md "wikilink")。
+[対戦車ヘリコプター_(8465505054).jpg](https://ja.wikipedia.org/wiki/File:対戦車ヘリコプター_\(8465505054\).jpg "fig:対戦車ヘリコプター_(8465505054).jpg") [ベトナム戦争](../Page/ベトナム戦争.md "wikilink")終結後には、**AH-1G**に[BGM-71 TOW 対戦車ミサイル運用能力付与がなされた](https://ja.wikipedia.org/wiki/BGM-71_TOW_対戦車ミサイル "wikilink")。TOW運用能力を付与された機体は**AH-1Q**と呼ばれ、機首部に光学望遠鏡方式の[照準装置を装備しているのが特徴である](../Page/照準器.md "wikilink")。
 
 [米陸軍では](../Page/アメリカ陸軍.md "wikilink")、重量増加による[エンジン](../Page/エンジン.md "wikilink")の出力不足が問題視されたため、ICAM（発展型コブラ俊敏性及び機動性）計画が立案され、エンジンを熱出力1,800shp（軸出力1,485shp）のT53-L-703に換装、トランスミッション、機体各部の強化が施された**AH-1S**が登場する。
 
@@ -120,7 +120,7 @@ Image:XM28 Schmatic.jpg|7.62mmミニガンと40mmグレネードの給弾装置 
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")以降、イスラエル空軍はAH-1よりも新しく重装甲の[AH-64 アパッチの導入を始めたが](../Page/AH-64_アパッチ.md "wikilink")\[14\]AH-1の運用も継続され、独自の改修としてセンサー類の追加、チャフ・フレアディスペンサーの追加が行われているほか、国産の[スパイク対戦車ミサイルの運用能力も付加されている](https://ja.wikipedia.org/wiki/スパイク_\(ミサイル\) "wikilink")\[15\]。
 
-[2005年](../Page/2005年.md "wikilink")には第161飛行隊が解散となったが、同時期に[アグレッサー部隊](../Page/アグレッサー部隊.md "wikilink")として再編された[第115飛行隊に](https://ja.wikipedia.org/wiki/第115飛行隊_\(イスラエル空軍\) "wikilink")[F-16](https://ja.wikipedia.org/wiki/F-16 "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")と共にAH-1Fが配備された。尚、この年にイスラエル空軍は[AH-64D アパッチ・ロングボウの部隊配備を開始している](https://ja.wikipedia.org/wiki/AH-64D_アパッチ・ロングボウ "wikilink")。
+[2005年](../Page/2005年.md "wikilink")には第161飛行隊が解散となったが、同時期に[アグレッサー部隊](../Page/アグレッサー部隊.md "wikilink")として再編された[第115飛行隊に](https://ja.wikipedia.org/wiki/第115飛行隊_\(イスラエル空軍\) "wikilink")[F-16 戦闘機と共にAH](../Page/F-16_\(戦闘機\).md "wikilink")-1Fが配備された。尚、この年にイスラエル空軍は[AH-64D アパッチ・ロングボウの部隊配備を開始している](https://ja.wikipedia.org/wiki/AH-64D_アパッチ・ロングボウ "wikilink")。
 
 [2013年](../Page/2013年.md "wikilink")末に軍事予算の関係で、イスラエル空軍からAH-1が退役していたことが翌年報道された\[16\]\[17\]。2015年には退役したうちの16機がヨルダン軍に供与された。これは[ISIL](https://ja.wikipedia.org/wiki/ISIL "wikilink")と戦うヨルダンを支援する活動の一環として行われた。
 
@@ -138,7 +138,7 @@ Image:XM28 Schmatic.jpg|7.62mmミニガンと40mmグレネードの給弾装置 
 
 ### 日本
 
-[Washington_National_Guard_escorts_Japan_Self-Defense_Forces_140826-Z-OY821-173.jpg](https://ja.wikipedia.org/wiki/File:Washington_National_Guard_escorts_Japan_Self-Defense_Forces_140826-Z-OY821-173.jpg "fig:Washington_National_Guard_escorts_Japan_Self-Defense_Forces_140826-Z-OY821-173.jpg") [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Japan_Defense_Force_members_maintain_cannon_140904-A-BX700-230.jpg "wikilink") [陸上自衛隊](../Page/陸上自衛隊.md "wikilink")が昭和52年度予算と昭和53年度予算で研究用として1機ずつ購入し、昭和54年度と昭和55年度にそれぞれ配備された。昭和57年度予算からは本格的な調達が開始され、7機目から[富士重工業](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")（[エンジン](../Page/エンジン.md "wikilink")は[川崎重工業](../Page/川崎重工業.md "wikilink")）によって[ライセンス生産](../Page/ライセンス生産.md "wikilink")も始まり、[2000年](../Page/2000年.md "wikilink")（平成12年）[12月14日](../Page/12月14日.md "wikilink")までに90機が生産された。陸上自衛隊は[2019年](../Page/2019年.md "wikilink")3月末時点でAH-1Sを55機保有している\[18\]。
+[Washington_National_Guard_escorts_Japan_Self-Defense_Forces_140826-Z-OY821-173.jpg](https://ja.wikipedia.org/wiki/File:Washington_National_Guard_escorts_Japan_Self-Defense_Forces_140826-Z-OY821-173.jpg "fig:Washington_National_Guard_escorts_Japan_Self-Defense_Forces_140826-Z-OY821-173.jpg") [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Japan_Defense_Force_members_maintain_cannon_140904-A-BX700-230.jpg "wikilink") [陸上自衛隊](../Page/陸上自衛隊.md "wikilink")が昭和52年度予算と昭和53年度予算で研究用として1機ずつ購入し、昭和54年度と昭和55年度にそれぞれ配備された。昭和57年度予算からは本格的な調達が開始され、7機目から[富士重工業](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")（[エンジン](../Page/エンジン.md "wikilink")は[川崎重工業](../Page/川崎重工業.md "wikilink")）によって[ライセンス生産](../Page/ライセンス生産.md "wikilink")も始まり、[2000年](../Page/2000年.md "wikilink")（平成12年）[12月14日](../Page/12月14日.md "wikilink")までに90機が生産された。陸上自衛隊は[2020年](../Page/2020年.md "wikilink")3月末時点でAH-1Sを52機保有している\[18\]。
 
 なお、陸上自衛隊で使用されている「**AH-1S**」は、最初に輸入された2機が能力向上型の「**AH-1E**」に、富士重工業でライセンス生産された機体は発達型LAATの「**AH-1F**」に相当するもの\[19\]である。74号機以降は"C-NITE"と呼ばれる夜間作戦能力向上形となり、73号機以前の機体も少数が改造されている。
 
@@ -207,6 +207,10 @@ Image:XM28 Schmatic.jpg|7.62mmミニガンと40mmグレネードの給弾装置 
 
 [スペイン海軍](../Page/スペイン海軍.md "wikilink")航空隊が8機のAH-1Gを運用していたが、現在は全機が退役している。
 
+### フィリピン
+
+2018年にヨルダンからフィリピン空軍へ4機の中古のAH-1Sの譲渡が提案されたが、諸般の事情から2機に減少した。2019年に2機のAH-1Sがチャーターされた[An-124](https://ja.wikipedia.org/wiki/An-124 "wikilink")でヨルダンから[フィリピン空軍](../Page/フィリピン空軍.md "wikilink")の[クラーク空軍基地](../Page/クラーク空軍基地.md "wikilink")に輸送された。同空軍のAH-1Sはライトグレーで塗装されていると見られる。
+
 ### 軍以外での運用
 
 アメリカの[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")は陸軍を退役した複数のAH-1をベル209として1999年から登録を始め、消火バケットを備えた消防ヘリコプター「ファイアスネーク（FireSnake）」として運用した（2012年抹消）\[23\]\[24\]。 [ワシントン州](../Page/ワシントン州.md "wikilink")は退役陸軍機複数をAH-1として2003年から登録を始め、同じく消防ヘリコプターとして運用した（2011年抹消）\[25\]\[26\]。 [合衆国森林局](https://ja.wikipedia.org/wiki/合衆国森林局 "wikilink")は退役陸軍機2機をベル209として2003年と2004年に登録し、[赤外線](../Page/赤外線.md "wikilink")モニターなど高度な情報収集能力を備えた火災監視ヘリコプター「ファイアウォッチ（FireWatch）」として運用している\[27\]\[28\]。
@@ -240,7 +244,7 @@ Bell_209_Cobra_FDOF_LSideFront_SNF_Setup_FLAirMuse_27March2010_(14443636750).jpg
 [AH-1_Cobra_DF-ST-84-05726.JPEG](https://ja.wikipedia.org/wiki/File:AH-1_Cobra_DF-ST-84-05726.JPEG "fig:AH-1_Cobra_DF-ST-84-05726.JPEG")
 
   -
-    AH-1Gの改良型で[BGM-71 TOW](https://ja.wikipedia.org/wiki/BGM-71_TOW "wikilink")[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")の運用能力を有し、[機関砲](../Page/機関砲.md "wikilink")を[ターレット](https://ja.wikipedia.org/wiki/ターレット "wikilink")状に変更している。M65望遠鏡ユニット（TSU）とM73 Reflexサイトを装備。
+    AH-1Gの改良型で[BGM-71 TOW 対戦車ミサイルの運用能力を有し](https://ja.wikipedia.org/wiki/BGM-71_TOW_対戦車ミサイル "wikilink")、[機関砲](../Page/機関砲.md "wikilink")を[ターレット](https://ja.wikipedia.org/wiki/ターレット "wikilink")状に変更している。M65望遠鏡ユニット（TSU）とM73 Reflexサイトを装備。
       - YAH-1Q
         AH-1GをベースとしてTOWミサイル運用能力を有し、XM26望遠鏡サイトユニット（TSU）を装備した試作機。
   - AH-1S
@@ -270,6 +274,7 @@ Bell_209_Cobra_FDOF_LSideFront_SNF_Setup_FLAirMuse_27March2010_(14443636750).jpg
   -
   -
   -
+  -
 ## 性能・主要諸元
 
 ### AH-1G
@@ -282,7 +287,7 @@ Bell_209_Cobra_FDOF_LSideFront_SNF_Setup_FLAirMuse_27March2010_(14443636750).jpg
   - 全高：4.1m
   - 自重：2,754kg
   - 最大離陸重量：4,309kg
-  - 発動機：[ライカミング](https://ja.wikipedia.org/wiki/ライカミング・エンジンズ "wikilink")[T53-L-13](https://ja.wikipedia.org/wiki/ライカミング_T53 "wikilink")（最大:1.400shp、連続:1,100shp）×1
+  - 発動機：[ライカミング T53-L-13](https://ja.wikipedia.org/wiki/ライカミング_T53 "wikilink")（最大:1.400shp、連続:1,100shp）×1
   - 超過禁止速度：219mph（352km/h）=M0.29
   - 実用上昇限度：3,475m
   - 武装
@@ -305,8 +310,8 @@ Bell_209_Cobra_FDOF_LSideFront_SNF_Setup_FLAirMuse_27March2010_(14443636750).jpg
   - 実用上昇限度：3,960m
   - 航続距離：456km
   - 武装
-      - 20mm [M197](https://ja.wikipedia.org/wiki/M197機関砲 "wikilink")[ガトリング砲](../Page/ガトリング砲.md "wikilink")×1（固定武装）
-      - [BGM-71 TOW](../Page/TOW_\(ミサイル\).md "wikilink")[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")×最大8発
+      - 20mm [M197 ガトリング砲](https://ja.wikipedia.org/wiki/M197機関砲 "wikilink")×1（固定武装）
+      - [BGM-71 TOW 対戦車ミサイル](../Page/TOW_\(ミサイル\).md "wikilink")×最大8発
       - JM261[ハイドラ70ロケット弾](../Page/ハイドラ70ロケット弾.md "wikilink")ポッド（[ロケット弾](../Page/ロケット弾.md "wikilink")19発入り）×2
 
 ## 登場作品
@@ -330,7 +335,7 @@ Bell_209_Cobra_FDOF_LSideFront_SNF_Setup_FLAirMuse_27March2010_(14443636750).jpg
 
 ## 外部リンク
 
-  - [陸上自衛隊：航空機 AH-1S](http://www.mod.go.jp/gsdf/equipment/air/index.html) - [陸上自衛隊](../Page/陸上自衛隊.md "wikilink")
+  - [陸上自衛隊：航空機 AH-1S](https://www.mod.go.jp/gsdf/equipment/air/index.html) - [陸上自衛隊](../Page/陸上自衛隊.md "wikilink")
   - [三井物産エアロスペース株式会社 / 取扱商品 / 防衛航空機](http://aerospace.mitsui.co.jp/products/aircraft/index.html)
 
 [Category:アメリカ合衆国のヘリコプター](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のヘリコプター "wikilink") [Category:攻撃ヘリコプター](https://ja.wikipedia.org/wiki/Category:攻撃ヘリコプター "wikilink") [Category:艦載ヘリコプター](https://ja.wikipedia.org/wiki/Category:艦載ヘリコプター "wikilink") [Category:アメリカ合衆国の軍用機](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の軍用機 "wikilink") [Category:アメリカ合衆国海兵隊の装備](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国海兵隊の装備 "wikilink") [Category:ベトナム戦争](https://ja.wikipedia.org/wiki/Category:ベトナム戦争 "wikilink") [Category:ベルの航空機](https://ja.wikipedia.org/wiki/Category:ベルの航空機 "wikilink") [Category:軍用ヘリコプター](https://ja.wikipedia.org/wiki/Category:軍用ヘリコプター "wikilink") [Category:陸上自衛隊の装備品](https://ja.wikipedia.org/wiki/Category:陸上自衛隊の装備品 "wikilink")
@@ -352,11 +357,11 @@ Bell_209_Cobra_FDOF_LSideFront_SNF_Setup_FLAirMuse_27March2010_(14443636750).jpg
 15.
 16. <http://flyteam.jp/news/article/36004>
 17.
-18. [令和元年度防衛白書 資料9 主要航空機の保有数・性能諸元](https://www.mod.go.jp/j/publication/wp/wp2019/html/ns009000.html)
+18. [令和2年度防衛白書 p.494 資料5 主要航空機の保有数・性能諸元](https://www.mod.go.jp/j/publication/wp/wp2020/pdf/R02shiryo.pdf)
 19. ただし、レーザーエアボーントラッカとチャフフレアディスペンサーは省かれた
 20. [JapanDefense.com](http://www.japandefense.com/)
 21. [防衛白書の検索](http://www.clearing.mod.go.jp/hakusho_web/)
-22. [防衛省 予算などの概要](http://www.mod.go.jp/j/yosan/yosan.html)
+22. [防衛省・自衛隊：予算等の概要](https://www.mod.go.jp/j/yosan/yosan_gaiyo/)
 23. [N130FC](http://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=130fc), [N131FC](http://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=131fc), [N132FC](http://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=132fc) [連邦航空局](../Page/連邦航空局.md "wikilink")登録情報
 24. [Wildfire safety brochures for educators](https://www.volusia.org/core/fileparse.php/4615/urlt/FDFWildfireSafetyTab.pdf) [フロリダ州ボルーシャ郡](https://ja.wikipedia.org/wiki/ボルーシャ郡_\(フロリダ州\) "wikilink")
 25. [N345WN](http://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=345wn), [N346WN](http://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=346wn), [N347WN](http://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=347wn) 連邦航空局登録情報

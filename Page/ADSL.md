@@ -1,7 +1,11 @@
 > この記事は[ADSL](https://ja.wikipedia.org/wiki/ADSL)から翻訳されています。
 
 
-**ADSL**（エーディーエスエル、**A**symmetric **D**igital **S**ubscriber **L**ine：非対称[デジタル加入者線](../Page/デジタル加入者線.md "wikilink")）とは[デジタル加入者線](../Page/デジタル加入者線.md "wikilink")（DSL）の1つであり、[ツイストペアケーブル](../Page/ツイストペアケーブル.md "wikilink")[通信線路](../Page/通信線路.md "wikilink")（一般のアナログ電話回線）を使用する上り（アップリンク・受信）と下り（ダウンリンク・送信）の速度が非対称（Asymmetric）な、高速[デジタル](../Page/デジタル.md "wikilink")[有線通信](https://ja.wikipedia.org/wiki/有線通信 "wikilink")[技術](../Page/技術.md "wikilink")、ならびに[電気通信役務](https://ja.wikipedia.org/wiki/電気通信役務 "wikilink")のこと。
+**ADSL**（エーディーエスエル、**A**symmetric **D**igital **S**ubscriber **L**ine：非対称[デジタル加入者線](../Page/デジタル加入者線.md "wikilink")）とは、[デジタル加入者線](../Page/デジタル加入者線.md "wikilink")（DSL）の一種である。
+
+[一般のアナログ電話回線](../Page/電話網.md "wikilink")（[ツイストペアケーブル](../Page/ツイストペアケーブル.md "wikilink")[通信線路](../Page/通信線路.md "wikilink")）を流用して[ブロードバンドインターネット接続](https://ja.wikipedia.org/wiki/ブロードバンドインターネット接続 "wikilink")サービスを提供することができる高速[デジタル](../Page/デジタル.md "wikilink")[データ通信](../Page/データ通信.md "wikilink")技術、もしくは[電気通信役務](https://ja.wikipedia.org/wiki/電気通信役務 "wikilink")であり、日本では2000年代前半に急速に普及した。
+
+非対称（Asymmetric）とは、アップロードとダウンロードの理論上の通信速度が異なることを意味する。
 
 ## 技術
 

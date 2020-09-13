@@ -24,7 +24,7 @@
   - [モーショングラフィックス](https://ja.wikipedia.org/wiki/モーショングラフィックス "wikilink") () - 映像技法
   - [左手](https://ja.wikipedia.org/wiki/左手 "wikilink")で演奏 () を意味する[音楽記号](https://ja.wikipedia.org/wiki/音楽記号 "wikilink")
   - [少将](../Page/少将.md "wikilink") ()
-  - 部活動などの[マネージャー](../Page/マネージャー.md "wikilink")（manager）の[略表記](../Page/略語.md "wikilink")
+  - 部活動などの[マネージャー](../Page/マネージャー.md "wikilink") (manager)の[略表記](../Page/略語.md "wikilink")
 
 ### 固有名詞
 
@@ -39,14 +39,14 @@
   - [メカゴジラ](../Page/メカゴジラ.md "wikilink") ()
   - [ブッカー・T&ザ・MG's](https://ja.wikipedia.org/wiki/ブッカー・T&ザ・MG's "wikilink") - アメリカの音楽グループ
   - [1963年](../Page/1963年.md "wikilink")の[中央競馬](../Page/中央競馬.md "wikilink")[クラシックの中心となった](../Page/クラシック_\(競馬\).md "wikilink")[メイズイ](../Page/メイズイ.md "wikilink")・[グレートヨルカ](../Page/グレートヨルカ.md "wikilink")を合わせて呼んだ略称。
-  - [マスターグレード](../Page/マスターグレード.md "wikilink")：主に1/100[ガンプラ](../Page/ガンプラ.md "wikilink")。
+  - [マスターグレード](../Page/マスターグレード.md "wikilink"): 主に1/100[ガンプラ](../Page/ガンプラ.md "wikilink")。
 
 ## コード・形式名
 
-  - [国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")の[国名コード](../Page/国名コード.md "wikilink")（[ISO 3166-1](../Page/ISO_3166-1.md "wikilink") alpha-2）で、**[マダガスカル](../Page/マダガスカル.md "wikilink")** () を示す。
-  - [国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")の行政区画コード（[ISO 3166-2](../Page/ISO_3166-2.md "wikilink")）などのコードで、以下の各国の行政区画を示す。
+  - [国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")の[国名コード](../Page/国名コード.md "wikilink") ([ISO 3166-1](../Page/ISO_3166-1.md "wikilink") alpha-2)で、**[マダガスカル](../Page/マダガスカル.md "wikilink")** () を示す。
+  - [国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")の行政区画コード ([ISO 3166-2](../Page/ISO_3166-2.md "wikilink"))などのコードで、以下の各国の行政区画を示す。
       - ブラジルの**[ミナスジェライス州](../Page/ミナスジェライス州.md "wikilink")** () - [ISO 3166-2:BR](https://ja.wikipedia.org/wiki/ISO_3166-2:BR "wikilink")
-  - 国際標準化機構の[言語コード](../Page/ISO_639.md "wikilink")（ISO 639-1）で、**[マダガスカル語](../Page/マダガスカル語.md "wikilink")** () を示す。
+  - 国際標準化機構の[言語コード](../Page/ISO_639.md "wikilink") (ISO 639-1)で、**[マダガスカル語](../Page/マダガスカル語.md "wikilink")** () を示す。
   - [宮を表す](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[日本の海外ナンバーの符号](../Page/国際ナンバー.md "wikilink")
   - [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")を表す[漁船](../Page/漁船.md "wikilink")登録識別標（漁船法施行規則13条・付録第二）
   - [マスターグレード](../Page/マスターグレード.md "wikilink") - [ガンプラ](../Page/ガンプラ.md "wikilink")のグレード
@@ -57,7 +57,7 @@
 
 ## 他の記号等を付して用いるもの
 
-  - **[.mg](https://ja.wikipedia.org/wiki/.mg "wikilink")** - [マダガスカル](../Page/マダガスカル.md "wikilink")の[国別コードトップレベルドメイン](../Page/国別コードトップレベルドメイン.md "wikilink")（ccTLD）
+  - **[.mg](https://ja.wikipedia.org/wiki/.mg "wikilink")** - [マダガスカル](../Page/マダガスカル.md "wikilink")の[国別コードトップレベルドメイン](../Page/国別コードトップレベルドメイン.md "wikilink") (ccTLD)
 
 ## 関連項目
 

@@ -28,7 +28,7 @@
 
   - **A×K** - 日本の女優、[藍原みほ](https://ja.wikipedia.org/wiki/藍原みほ "wikilink")と[若月さら](https://ja.wikipedia.org/wiki/若月さら "wikilink")によるユニット。
   - **A♥K** - 日本の歌手、[AYUSE KOZUEのアルバム名](https://ja.wikipedia.org/wiki/AYUSE_KOZUE "wikilink")。⇒ **[A・K](../Page/A・K.md "wikilink")**
-  - [AK砲](../Page/AK砲.md "wikilink") - かつての[西武ライオンズ](https://ja.wikipedia.org/wiki/西武ライオンズ "wikilink")の主力打者のコンビ（[秋山幸二](../Page/秋山幸二.md "wikilink")、[清原和博](../Page/清原和博.md "wikilink")）。
+  - [AK砲](../Page/AK砲.md "wikilink") - かつての[西武ライオンズの主力打者のコンビ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")（[秋山幸二](../Page/秋山幸二.md "wikilink")、[清原和博](../Page/清原和博.md "wikilink")）。
       - [広島東洋カープ](../Page/広島東洋カープ.md "wikilink")の[新井貴浩](https://ja.wikipedia.org/wiki/新井貴浩 "wikilink")＆[栗原健太](https://ja.wikipedia.org/wiki/栗原健太 "wikilink")のコンビや[阪神タイガース](../Page/阪神タイガース.md "wikilink")の新井貴浩＆[金本知憲](https://ja.wikipedia.org/wiki/金本知憲 "wikilink")のコンビもこう呼ぶ。
   - [AK LIVE](https://ja.wikipedia.org/wiki/AK_LIVE "wikilink") - [DJ ARCHEと](https://ja.wikipedia.org/wiki/DJ_ARCHE "wikilink")[KOUSAKU](../Page/KOUSAKU.md "wikilink")からなる[DJユニット](../Page/ディスクジョッキー.md "wikilink")。
 

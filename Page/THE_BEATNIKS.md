@@ -576,7 +576,7 @@ CDはオリジナル・アルバム三枚のリマスター。</p></td>
 
   -
   -
-[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink")
+[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")
 
 1.  [脱原発ライブ「NO NUKES」トリはアジカン＆岡村靖幸](http://natalie.mu/music/news/85824) ナタリー (2013年3月1日)
 2.  [＜RISING SUN ROCK FESTIVAL＞第五弾でコーネリアス、THE BEATNIKS、チャランポら](https://www.barks.jp/news/?id=1000143547) BARKS (2017年6月21日)

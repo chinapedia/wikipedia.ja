@@ -32,7 +32,7 @@
     変身後のスタイルは赤いチャイナ服にルーズソックスで、後半にパワーアップした後は白いコスチュームになった。アニメではパワーアップの経緯が異なるため最終盤でのみこの衣装になる。
     原作では闇の王との戦いの後、巫女の力が消えて風水ができなくなったため、Dr.リンのHPも廃業した。
     アニメでは、闇の鬼の復活のため、闇の王に捕らわれ海雲タワーの頂上に連れて行かれてしまう。その後魔方陣に捕縛され復活の儀式は完了してしまう。飛鳥とリンリンが助けにやってくるも、飛鳥が闇の王に瀕死の傷を負わされたのを目の当たりにして自ら魔方陣の呪縛を解き、飛鳥の元に駆け寄ろうとするも死んだかと思われたアズサに復讐のために敵討ちされかける。アズサの元を離れようとするも、闇の王がアズサを攻撃しようとしたのを庇い自身も瀕死の傷を負ってしまう。最期の力を振り絞って飛鳥とともにお互い這いずりながらも手をとり、愛の告白をしそのままお互いに死亡してしまう。その後覚醒したリンリンにより復活し、改心したアズサとともに闇の王の浄化に成功する。
-    [10月13日](../Page/10月13日.md "wikilink")生まれ。[星座](../Page/星座.md "wikilink")：[天秤座](https://ja.wikipedia.org/wiki/天秤座 "wikilink")、[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：B型、[身長](../Page/身長.md "wikilink")：156cm。
+    [10月13日](../Page/10月13日.md "wikilink")生まれ。[星座](../Page/星座.md "wikilink")：[天秤座](https://ja.wikipedia.org/wiki/天秤座 "wikilink")、[血液型](../Page/ABO式血液型.md "wikilink")：B型、[身長](../Page/身長.md "wikilink")：156cm。
     趣味・特技：料理、好きな科目：[国語](../Page/国語.md "wikilink")・[家庭科](https://ja.wikipedia.org/wiki/家庭科 "wikilink")、好きな食べ物：[ケーキ](../Page/ケーキ.md "wikilink")・お菓子など甘い物、苦手な物：[幽霊](../Page/幽霊.md "wikilink")・[爬虫類](../Page/爬虫類.md "wikilink")。
       - 天津（てんしん）
         明鈴のペット。明鈴の部屋で一緒に暮らしており、飼い主のお菓子のつまみ食い常習犯。
@@ -756,7 +756,7 @@
 
 ## 外部リンク
 
-  - [スタジオコメット内作品紹介ページ](http://web.archive.org/web/20071010222907/http://st-comet.com/works/drrin.html)（2007年10月10日時点のアーカイブ）
+  - [スタジオコメット内作品紹介ページ](https://web.archive.org/web/20071010222907/http://st-comet.com/works/drrin.html)（2007年10月10日時点のアーカイブ）
 
 [Category:漫画作品_と](https://ja.wikipedia.org/wiki/Category:漫画作品_と "wikilink") [Category:1999年の漫画](https://ja.wikipedia.org/wiki/Category:1999年の漫画 "wikilink") [Category:ちゃおの漫画作品](https://ja.wikipedia.org/wiki/Category:ちゃおの漫画作品 "wikilink") [Category:魔法少女](https://ja.wikipedia.org/wiki/Category:魔法少女 "wikilink") [Category:変身ヒロイン](https://ja.wikipedia.org/wiki/Category:変身ヒロイン "wikilink") [Category:風水を題材とした作品](https://ja.wikipedia.org/wiki/Category:風水を題材とした作品 "wikilink") [Category:中学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:中学校を舞台とした漫画作品 "wikilink") [Category:四神を題材にした作品](https://ja.wikipedia.org/wiki/Category:四神を題材にした作品 "wikilink") [Category:転生を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:転生を題材とした漫画作品 "wikilink") [Category:女装漫画](https://ja.wikipedia.org/wiki/Category:女装漫画 "wikilink") [Category:アニメ作品_と](https://ja.wikipedia.org/wiki/Category:アニメ作品_と "wikilink") [Category:2001年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2001年のテレビアニメ "wikilink") [Category:テレビ東京系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京系アニメ "wikilink") [Category:スタジオコメット](https://ja.wikipedia.org/wiki/Category:スタジオコメット "wikilink") [Category:日本アドシステムズのアニメ作品](https://ja.wikipedia.org/wiki/Category:日本アドシステムズのアニメ作品 "wikilink") [Category:ちゃおコミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:ちゃおコミックスのアニメ作品 "wikilink") [Category:魔法少女アニメ](https://ja.wikipedia.org/wiki/Category:魔法少女アニメ "wikilink") [Category:変身ヒロインアニメ](https://ja.wikipedia.org/wiki/Category:変身ヒロインアニメ "wikilink") [Category:転生を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:転生を題材としたアニメ作品 "wikilink") [Category:女装アニメ](https://ja.wikipedia.org/wiki/Category:女装アニメ "wikilink") [Category:めばえ](https://ja.wikipedia.org/wiki/Category:めばえ "wikilink") [Category:幼稚園_(雑誌)](https://ja.wikipedia.org/wiki/Category:幼稚園_\(雑誌\) "wikilink") [Category:いたずら・ぶっく](https://ja.wikipedia.org/wiki/Category:いたずら・ぶっく "wikilink") [Category:ルルル文庫](https://ja.wikipedia.org/wiki/Category:ルルル文庫 "wikilink")
 

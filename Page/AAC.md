@@ -3,11 +3,11 @@
 
 **Advanced Audio Coding**（略称: **AAC**、先進的音響符号化）は、不可逆のデジタル[音声圧縮](../Page/音声圧縮.md "wikilink")を行う音声符号化規格のひとつである。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[ISO/IEC JTC 1の](https://ja.wikipedia.org/wiki/ISO/IEC_JTC_1 "wikilink")[Moving Picture Experts Group](../Page/Moving_Picture_Experts_Group.md "wikilink") (MPEG) において規格化された。[MP3](../Page/MP3.md "wikilink")の後継フォーマットとして策定され、一般的にAACは同程度のビットレートであればMP3より高い音声品質を実現している。
 
-AACはISOとIECにより、MPEG-2およびMPEG-4仕様の一部として標準化された。MPEG-4 Audio内のHE-AAC(High Efficiency Advanced Audio Coding)として知られるAACの一部は、DAB+やDigital Radio Mondiale、モバイルテレビジョン規格のDVB-やATSC-M/Hのようなデジタル無線規格においても採用されている。
+AACは[ISOと](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")[IECにより](../Page/国際電気標準会議.md "wikilink")、[MPEG-2](../Page/MPEG-2.md "wikilink")および[MPEG-4](../Page/MPEG-4.md "wikilink")仕様の一部として標準化された。MPEG-4 Audio内の[HE-AAC](../Page/HE-AAC.md "wikilink")として知られるAACの一部は、[DAB](../Page/DAB.md "wikilink")+や[Digital Radio Mondiale](../Page/デジタル・ラジオ・モンディエール.md "wikilink")、モバイルテレビジョン規格の[DVB](../Page/デジタルビデオブロードキャスティング.md "wikilink")-や[ATSC-M/Hのようなデジタル無線規格においても採用されている](https://ja.wikipedia.org/wiki/ATSC#ATSC-M/H "wikilink")。
 
-AACは一つのストリームに、48の全帯域幅(最大96kHz)音声チャンネルを持たせることができ、さらに、16の低周波効果音(LFE、120Hzまで)チャンネルと16の対話チャンネル、および16のデータストリームも含めることができる。ステレオの音質は96kbpsのジョイントステレオモードで適度な要件を満たすことができるが、Hi-Fi透明性（低雑音性）のためには、少なくとも128kbpsのデータレート(VBR)が必要である。MPEG-4 Audioによる検証では、AACが128kbpsのステレオおよび320kbpsの5.1チャンネルオーディオにおいてITUが「透明的」として規定している要件を満たしていることが示されている。
+AACは一つのストリームに、48の全帯域幅（最大96kHz）音声チャンネルを持たせることができ、さらに、16の低周波効果音（LFE、120Hzまで）チャンネルと16の対話チャンネル、および16のデータストリームも含めることができる。ステレオの音質は96kbpsのジョイントステレオモードで適度な要件を満たすことができるが、[Hi-Fi](../Page/Hi-Fi.md "wikilink")透明性（低雑音性）のためには、少なくとも128kbpsのデータレート([VBR](https://ja.wikipedia.org/wiki/VBR "wikilink"))が必要である。MPEG-4 Audioによる検証では、AACが128kbpsのステレオおよび320kbpsの5.1チャンネルオーディオにおいて[ITUが](../Page/国際電気通信連合.md "wikilink")「透明的」として規定している要件を満たしていることが示されている。
 
-AACはYouTube、iPhone、iPod、iPad、Nintendo DSi、Nintendo 3DS、iTunes、DivX Plus Web Player、PlayStation 3、ノキアのSeries 40携帯電話における既定もしくは標準の音声フォーマットである。PlayStation Vita、Wii、 ソニーのウォークマンMP3シリーズとその後継機種でもサポートされている。AACはインダッシュの車載オーディオシステムのメーカによってもサポートされている。
+AACは[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")、[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")、[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")、[Nintendo DSi](https://ja.wikipedia.org/wiki/Nintendo_DSi "wikilink")、[Nintendo 3DS](https://ja.wikipedia.org/wiki/Nintendo_3DS "wikilink")、[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")、[DivX](https://ja.wikipedia.org/wiki/DivX "wikilink") Plus Web Player、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[ノキア](../Page/ノキア.md "wikilink")のSeries 40携帯電話における既定もしくは標準の音声フォーマットである。[PlayStation Vita](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、 [ソニー](../Page/ソニー.md "wikilink")の[ウォークマン](../Page/ウォークマン.md "wikilink")MP3シリーズとその後継機種でもサポートされている。AACはインダッシュの車載オーディオシステムのメーカによってもサポートされている。
 
 ## 概要
 
@@ -62,9 +62,9 @@ MPEG-4 AAC v3においては、[SBR](https://ja.wikipedia.org/wiki/Spectral_Band
 
 ## 利用状況
 
-MPEG-2 AACは主に日本の[BSデジタル放送と](../Page/衛星放送.md "wikilink")[地上デジタル波放送の](../Page/デジタル放送の一覧.md "wikilink")[ISDB](../Page/ISDB.md "wikilink")規格や[SD-Audio](../Page/SD-Audio.md "wikilink")のAACフォーマット、ヨーロッパ圏の[DVD](../Page/DVD.md "wikilink")などで利用できる。北米や日本のDVDでは、AACではなく[AC-3や](../Page/ドルビーデジタル.md "wikilink")[DTSが採用されている](https://ja.wikipedia.org/wiki/デジタル・シアター・システムズ "wikilink")。
+MPEG-2 AACは主に日本の[BS/110度CS 2Kデジタル放送と](../Page/衛星放送.md "wikilink")[地上デジタル波放送の](../Page/デジタル放送の一覧.md "wikilink")[ISDB](../Page/ISDB.md "wikilink")規格や[SD-Audio](../Page/SD-Audio.md "wikilink")のAACフォーマット、ヨーロッパ圏の[DVD](../Page/DVD.md "wikilink")などで利用できる。北米や日本のDVDでは、AACではなく[AC-3や](../Page/ドルビーデジタル.md "wikilink")[DTSが採用されている](https://ja.wikipedia.org/wiki/デジタル・シアター・システムズ "wikilink")。
 
-MPEG-4 AACはiPodなどの[デジタルオーディオプレーヤー](../Page/デジタルオーディオプレーヤー.md "wikilink")、[PlayStation Portableや](../Page/PlayStation_Portable.md "wikilink")[DSiなどのゲーム機](https://ja.wikipedia.org/wiki/ニンテンドーDSi "wikilink")、[携帯電話](../Page/携帯電話.md "wikilink")等、多くの機器やソフトウェアがサポートしている。また、第三世代携帯電話用の動画フォーマットである[3GPP](../Page/3GPP.md "wikilink")や[3GPP2](../Page/3GPP2.md "wikilink")の[音声圧縮](../Page/音声圧縮.md "wikilink")方式としても採用されている。
+MPEG-4 AACはiPodなどの[デジタルオーディオプレーヤー](../Page/デジタルオーディオプレーヤー.md "wikilink")、[PlayStation Portableや](../Page/PlayStation_Portable.md "wikilink")[DSiなどのゲーム機](https://ja.wikipedia.org/wiki/ニンテンドーDSi "wikilink")、日本のBS/110度CS 4K/8Kデジタル放送、[携帯電話](../Page/携帯電話.md "wikilink")等、多くの機器やソフトウェアがサポートしている。また、第三世代携帯電話用の動画フォーマットである[3GPP](../Page/3GPP.md "wikilink")や[3GPP2](../Page/3GPP2.md "wikilink")の[音声圧縮](../Page/音声圧縮.md "wikilink")方式としても採用されている。
 
 音楽配信サービスでは、パソコン、iPod向けの**[iTunes Store](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")**や携帯電話向けの**[着うた](../Page/着うた.md "wikilink")**でAACが採用されている。ただし、これらのファイルの一部には[DRMが導入され](../Page/デジタル著作権管理.md "wikilink")、同じAACであるが互換性がないものがある\[1\]。デジタルオーディオプレーヤーの代表格であるiPodおよびiTunes（標準でAACを使用する）がAACに対応していることもあり、以前はAACに対応していなかったソニーや[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")、[ケンウッド](../Page/ケンウッド.md "wikilink")（現・[JVCケンウッド](https://ja.wikipedia.org/wiki/JVCケンウッド "wikilink")）などのデジタルオーディオプレーヤーも現在ではAACに対応している。
 

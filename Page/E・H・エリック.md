@@ -1,11 +1,11 @@
 > この記事は[E・H・エリック](https://ja.wikipedia.org/wiki/E・H・エリック)から翻訳されています。
 
 
-**E・H・エリック**（**E. H. Erick**, [1929年](../Page/1929年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink") - [2000年](../Page/2000年.md "wikilink")[8月17日](../Page/8月17日.md "wikilink")）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で活躍した男性[タレント](../Page/タレント.md "wikilink")、[俳優](../Page/俳優.md "wikilink")。本名、岡田 泰美（おかだ たいび）。日本人の父とデンマーク人の母をもつ、[ハーフタレント](https://ja.wikipedia.org/wiki/ハーフタレント "wikilink")。弟は俳優・タレントの[岡田眞澄](../Page/岡田眞澄.md "wikilink")。次女はタレントの[岡田美里](../Page/岡田美里.md "wikilink")、長女・三女はいずれも一般人。
+**E・H・エリック**（E. H. Erick、本名：**岡田 泰美**（おかだ たいび）、[1929年](../Page/1929年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink") - [2000年](../Page/2000年.md "wikilink")[8月17日](../Page/8月17日.md "wikilink")）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で活躍した男性[タレント](../Page/タレント.md "wikilink")、[俳優](../Page/俳優.md "wikilink")。日本人の父と[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")人の母をもつ、[ハーフタレント](https://ja.wikipedia.org/wiki/ハーフタレント "wikilink")。弟は俳優・タレントの[岡田眞澄](../Page/岡田眞澄.md "wikilink")。次女はタレントの[岡田美里](../Page/岡田美里.md "wikilink")、長女・三女はいずれも一般人。
 
 ## 芸風
 
-日劇でコメディアンとしてデビューし、コントから芝居まで何でもこなす[マルチタレント](../Page/マルチタレント.md "wikilink")、ハーフタレントの草分けでもある。日本語、英語、フランス語が堪能なことから、海外タレントの来日公演にも携わり、芸能史に名を残した司会者として知られる。劇場公演、映画、番組、コマーシャル出演など、ハーフタレントとして成功を極めた。外国出身の日本のタレントとして著名な[ロイ・ジェームス](../Page/ロイ・ジェームス.md "wikilink")も芸能界に紹介したのはエリックであり、外人タレントとして知られた[イーデス・ハンソン](../Page/イーデス・ハンソン.md "wikilink")とも頻繁に共演をしていた。
+日劇でコメディアンとしてデビューし、コントから芝居まで何でもこなす[マルチタレント](../Page/マルチタレント.md "wikilink")、ハーフタレントの草分けでもある。日本語、英語、フランス語が堪能なことから、ビートルズ来日公演の司会やインタビューを始め海外タレントの来日公演にも多く携わり、芸能史に名を残した司会者として知られる。劇場公演、映画、番組、コマーシャル出演など、ハーフタレントとして成功を極めた。外国出身の日本のタレントとして著名な[ロイ・ジェームス](../Page/ロイ・ジェームス.md "wikilink")も芸能界に紹介したのはエリックであり、外人タレントとして知られた[イーデス・ハンソン](../Page/イーデス・ハンソン.md "wikilink")とも頻繁に共演をしていた。
 
 ## 来歴
 
@@ -28,7 +28,7 @@
   - 孫娘はタレントの[栗原菊乃](https://ja.wikipedia.org/wiki/岡田美里#長女 "wikilink")・[小春姉妹](https://ja.wikipedia.org/wiki/栗原小春 "wikilink")（いずれも次女美里と美里の元夫[堺正章](../Page/堺正章.md "wikilink")の間に出生）。
   - 長甥は俳優・[DJの](../Page/ディスクジョッキー.md "wikilink")[岡田眞善](../Page/岡田眞善.md "wikilink")（弟の真澄と真澄の元妻[女優の](../Page/俳優.md "wikilink")[藤田みどり](../Page/藤田みどり.md "wikilink")の間に出生）。
   - 元義妹は藤田みどりと[パントマイマーの](../Page/パントマイム.md "wikilink")[ヨネヤマ・ママコ](https://ja.wikipedia.org/wiki/ヨネヤマ・ママコ "wikilink")（両者 は岡田眞澄の元妻）。
-  - [コペンハーゲン](../Page/コペンハーゲン.md "wikilink")の[人魚姫の像](https://ja.wikipedia.org/wiki/人魚姫の像 "wikilink")の[モデルとなったエリーネ](https://ja.wikipedia.org/wiki/美術モデル "wikilink")・エリクセンは伯母にあたる。
+  - [コペンハーゲン](../Page/コペンハーゲン.md "wikilink")の[人魚姫の像](https://ja.wikipedia.org/wiki/人魚姫の像 "wikilink")の[モデルとなった](https://ja.wikipedia.org/wiki/美術モデル "wikilink")[エリーネ・エリクセンは伯母にあたる](https://ja.wikipedia.org/wiki/エドヴァルド・エリクセン "wikilink")。
   - 長女は米国ハワイ州マウイ島で撮影コーディネーター、長女の夫はプロウィンドサーファー、長女の娘はモデル。
   - 三女はヘアメイクアーティスト、料理家。
   - 姪は2019年[ミス・インターナショナル](../Page/ミス・インターナショナル.md "wikilink")日本代表の[岡田朋峰](https://ja.wikipedia.org/wiki/岡田朋峰 "wikilink")。
@@ -83,14 +83,15 @@
   - 走れ\!コウタロー 喜劇・男だから泣くサ（1971年） - 亜太郎 役
   - 喜劇 男の顔は人生よ（1971年） - 空軍将校 役
   - 夜のならず者（1972年） - 外人パーサー役
-  - [ルパン三世 念力珍作戦](../Page/ルパン三世_念力珍作戦.md "wikilink")（1974年） - 東宝） - モッキンパット師役
-  - [人間の証明](../Page/人間の証明.md "wikilink")（1977年） - 角川春樹事務所） - 司会者役
+  - [ルパン三世 念力珍作戦](../Page/ルパン三世_念力珍作戦.md "wikilink")（1974年、東宝） - モッキンパット師役
+  - [人間の証明](../Page/人間の証明.md "wikilink")（1977年、角川春樹事務所） - 司会者役
 
 ### テレビ・ラジオ
 
   - 午後のおしゃべり（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
   - [夢で逢いましょう](../Page/夢で逢いましょう.md "wikilink")（1961年〜1966年、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、[黒柳徹子](https://ja.wikipedia.org/wiki/黒柳徹子 "wikilink")・[渥美清](../Page/渥美清.md "wikilink")と共演）
   - [歌のグランプリショー](https://ja.wikipedia.org/wiki/歌のグランプリショー "wikilink")（1962年〜、日本テレビ、初代司会者）
+  - [お昼のゴールデンショー](../Page/お昼のゴールデンショー.md "wikilink")（1969年、フジテレビ、月曜放送分の司会を[倍賞美津子](../Page/倍賞美津子.md "wikilink")と担当）
   - おばかさん（主演、日本テレビ、遠藤周作原作）
   - [NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")（1960年白組応援団）
   - ダイエットのすすめ（フジテレビ）
@@ -127,9 +128,7 @@
 
   - [パトリック・ハーラン](../Page/パトリック・ハーラン.md "wikilink") - 2016年[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")「[トットてれび](https://ja.wikipedia.org/wiki/トットてれび "wikilink")」
 
-## 脚注
-
 ## 外部リンク
 
   -
-[Category:日本のタレント](https://ja.wikipedia.org/wiki/Category:日本のタレント "wikilink") [Category:岡田穀家](https://ja.wikipedia.org/wiki/Category:岡田穀家 "wikilink") [Category:デンマーク系日本人](https://ja.wikipedia.org/wiki/Category:デンマーク系日本人 "wikilink") [Category:ニース出身の人物](https://ja.wikipedia.org/wiki/Category:ニース出身の人物 "wikilink") [Category:1929年生](https://ja.wikipedia.org/wiki/Category:1929年生 "wikilink") [Category:2000年没](https://ja.wikipedia.org/wiki/Category:2000年没 "wikilink")
+[Category:日本のタレント](https://ja.wikipedia.org/wiki/Category:日本のタレント "wikilink") [Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:日本の司会者](https://ja.wikipedia.org/wiki/Category:日本の司会者 "wikilink") [Category:岡田穀家](https://ja.wikipedia.org/wiki/Category:岡田穀家 "wikilink") [Category:デンマーク系日本人](https://ja.wikipedia.org/wiki/Category:デンマーク系日本人 "wikilink") [Category:ニース出身の人物](https://ja.wikipedia.org/wiki/Category:ニース出身の人物 "wikilink") [Category:1929年生](https://ja.wikipedia.org/wiki/Category:1929年生 "wikilink") [Category:2000年没](https://ja.wikipedia.org/wiki/Category:2000年没 "wikilink")

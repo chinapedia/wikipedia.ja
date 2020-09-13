@@ -5,7 +5,7 @@
 
 ## 概要
 
-1953年創部の栃木教員サッカークラブが前身\[2\]。2007年に[Jリーグ準加盟クラブ](../Page/Jリーグ準加盟クラブ.md "wikilink")として承認され\[3\]、2009年よりJリーグへ加盟している\[4\]。Jリーグ加盟以前より、主に商標登録の兼ね合いからチーム名の変更が検討され、新名称の公募も行われたが、Jリーグ加盟にあたり、チーム名を変更せず、「栃木SC」のままで活動を継続している。2013年2月、栃木SCのシニアアドバイザーに就任した[松本育夫](../Page/松本育夫.md "wikilink")は、（宇都宮名物の[雷](../Page/雷.md "wikilink")にちなんだ）「栃木サンダーズ」など地域を連想しやすい愛称を取り入れることを、私案として考えているとコメントした\[5\]。ホームスタジアムは[栃木県グリーンスタジアム](https://ja.wikipedia.org/wiki/栃木県グリーンスタジアム "wikilink")\[6\]、練習場は河内総合運動公園である\[7\]（詳細は[\#スタジアム・練習場](https://ja.wikipedia.org/wiki/#スタジアム・練習場 "wikilink")を参照）。運営会社は**株式会社栃木サッカークラブ**\[8\]、マスコットは[サル](../Page/サル.md "wikilink")をモチーフとして、[2011年](../Page/2011年.md "wikilink")に誕生した[トッキーである](https://ja.wikipedia.org/wiki/トッキー_\(栃木SC\) "wikilink")\[9\]。
+1953年創部の**栃木教員サッカークラブ**が前身\[2\]。2007年に[Jリーグ準加盟クラブ](../Page/Jリーグ準加盟クラブ.md "wikilink")として承認され\[3\]、2009年よりJリーグへ加盟している\[4\]。Jリーグ加盟以前より、主に商標登録の兼ね合いからチーム名の変更が検討され、新名称の公募も行われたが、Jリーグ加盟にあたり、チーム名を変更せず、「栃木SC」のままで活動を継続している。2013年2月、栃木SCのシニアアドバイザーに就任した[松本育夫](../Page/松本育夫.md "wikilink")は、（宇都宮名物の[雷](../Page/雷.md "wikilink")にちなんだ）「栃木サンダーズ」など地域を連想しやすい愛称を取り入れることを、私案として考えているとコメントした\[5\]。ホームスタジアムは[栃木県グリーンスタジアム](https://ja.wikipedia.org/wiki/栃木県グリーンスタジアム "wikilink")\[6\]、練習場は河内総合運動公園である\[7\]（詳細は[\#スタジアム・練習場](https://ja.wikipedia.org/wiki/#スタジアム・練習場 "wikilink")を参照）。運営会社は**株式会社栃木サッカークラブ**\[8\]、マスコットは[サル](../Page/サル.md "wikilink")をモチーフとして、[2011年](../Page/2011年.md "wikilink")に誕生した[トッキーである](https://ja.wikipedia.org/wiki/トッキー_\(栃木SC\) "wikilink")\[9\]。
 
 ## 歴史
 
@@ -110,7 +110,7 @@
 
     ヘッドコーチの[阪倉裕二](../Page/阪倉裕二.md "wikilink")が監督に就任。クラブの中心戦力であった[パウリーニョが期限付き移籍](https://ja.wikipedia.org/wiki/パウロ・ロベルト・ゴンサガ "wikilink")、チーム得点王の[サビアと](https://ja.wikipedia.org/wiki/ビルマール・ダ・クーニャ・ロドリゲス "wikilink")[クリスティアーノ](https://ja.wikipedia.org/wiki/クリスティアーノ・ダ・シウヴァ "wikilink")、[當間建文](../Page/當間建文.md "wikilink")、[高木和正](../Page/高木和正.md "wikilink")、[菊岡拓朗](https://ja.wikipedia.org/wiki/菊岡拓朗 "wikilink")、[三都主アレサンドロ](../Page/三都主アレサンドロ.md "wikilink")らが退団した。
 
-    新戦力は[宇都宮市](https://ja.wikipedia.org/wiki/宇都宮市 "wikilink")出身の[中美慶哉](https://ja.wikipedia.org/wiki/中美慶哉 "wikilink")と[坂田良太](https://ja.wikipedia.org/wiki/坂田良太 "wikilink")の大卒2人、[大分トリニータ](https://ja.wikipedia.org/wiki/大分トリニータ "wikilink")から[永芳卓磨](https://ja.wikipedia.org/wiki/永芳卓磨 "wikilink")、[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")から[重松健太郎](https://ja.wikipedia.org/wiki/重松健太郎 "wikilink")が移籍加入。[清水エスパルス](../Page/清水エスパルス.md "wikilink")から[岡根直哉](https://ja.wikipedia.org/wiki/岡根直哉 "wikilink")、[イ・ミンス](https://ja.wikipedia.org/wiki/李ミン洙 "wikilink")、[瀬沼優司](https://ja.wikipedia.org/wiki/瀬沼優司 "wikilink")の3人、[横浜FC](../Page/横浜FC.md "wikilink")から[大久保哲哉](../Page/大久保哲哉.md "wikilink")、[鹿島アントラーズ](../Page/鹿島アントラーズ.md "wikilink")から[鈴木隆雅](https://ja.wikipedia.org/wiki/鈴木隆雅 "wikilink")、[CAメトロポリターノ](https://ja.wikipedia.org/wiki/CAメトロポリターノ "wikilink")から[ドゥドゥが期限付き移籍で加入し](https://ja.wikipedia.org/wiki/カルロス・エドゥアルド・ベンディニ・ジュスティ "wikilink")、総勢25人でシーズンに臨むこととなった\[33\]。クラブは債務超過の問題もあり方針を「育成型クラブ」に転換を図った\[34\]。
+    新戦力は[宇都宮市](https://ja.wikipedia.org/wiki/宇都宮市 "wikilink")出身の[中美慶哉](https://ja.wikipedia.org/wiki/中美慶哉 "wikilink")と[坂田良太](https://ja.wikipedia.org/wiki/坂田良太 "wikilink")の大卒2人、[大分トリニータ](https://ja.wikipedia.org/wiki/大分トリニータ "wikilink")から[永芳卓磨](https://ja.wikipedia.org/wiki/永芳卓磨 "wikilink")、[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")から[重松健太郎](https://ja.wikipedia.org/wiki/重松健太郎 "wikilink")が移籍加入。[清水エスパルス](../Page/清水エスパルス.md "wikilink")から[岡根直哉](https://ja.wikipedia.org/wiki/岡根直哉 "wikilink")、[イ・ミンス](https://ja.wikipedia.org/wiki/李珉洙 "wikilink")、[瀬沼優司](https://ja.wikipedia.org/wiki/瀬沼優司 "wikilink")の3人、[横浜FC](../Page/横浜FC.md "wikilink")から[大久保哲哉](../Page/大久保哲哉.md "wikilink")、[鹿島アントラーズ](../Page/鹿島アントラーズ.md "wikilink")から[鈴木隆雅](https://ja.wikipedia.org/wiki/鈴木隆雅 "wikilink")、[CAメトロポリターノ](https://ja.wikipedia.org/wiki/CAメトロポリターノ "wikilink")から[ドゥドゥが期限付き移籍で加入し](https://ja.wikipedia.org/wiki/カルロス・エドゥアルド・ベンディニ・ジュスティ "wikilink")、総勢25人でシーズンに臨むこととなった\[33\]。クラブは債務超過の問題もあり方針を「育成型クラブ」に転換を図った\[34\]。
 
     リーグ前半戦は好成績を上げてPO圏内手前をキープしていたが、第22節の千葉戦から第27節の湘南戦で6連敗を喫して最終順位は12位。天皇杯は2回戦で群馬に敗北。経営問題は改善され、新スポンサーの獲得や県民からの募金などで債務超過を解消。シーズン終了後、松本が取締役を辞任した。
 
@@ -121,7 +121,7 @@
       -
         チームスローガン ： **熱誠-すべては栃木のために-**
 
-    阪倉体制2年目。[重松健太郎](https://ja.wikipedia.org/wiki/重松健太郎 "wikilink")が[町田](https://ja.wikipedia.org/wiki/FC町田ゼルビア "wikilink")、[榎本達也](../Page/榎本達也.md "wikilink")が[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")、[鈴木智幸](https://ja.wikipedia.org/wiki/鈴木智幸 "wikilink")が[松本](../Page/松本山雅FC.md "wikilink")、[チャ・ヨンファンが](https://ja.wikipedia.org/wiki/車永煥 "wikilink")[金沢](https://ja.wikipedia.org/wiki/ツエーゲン金沢 "wikilink")、[近藤祐介](../Page/近藤祐介.md "wikilink")が[北九州にそれぞれ移籍](../Page/ギラヴァンツ北九州.md "wikilink")。また[パウリーニョは期限付き移籍先の](https://ja.wikipedia.org/wiki/パウロ・ロベルト・ゴンサガ "wikilink")[川崎から復帰した後](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")、[千葉に完全移籍し](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")、[鈴木隆雅](https://ja.wikipedia.org/wiki/鈴木隆雅 "wikilink")、[大久保哲哉](../Page/大久保哲哉.md "wikilink")、[岡根直哉](https://ja.wikipedia.org/wiki/岡根直哉 "wikilink")、[イ・ミンスが期限付き移籍満了で退団](https://ja.wikipedia.org/wiki/李ミン洙 "wikilink")。[柴崎邦博](../Page/柴崎邦博.md "wikilink")が現役を引退した。
+    阪倉体制2年目。[重松健太郎](https://ja.wikipedia.org/wiki/重松健太郎 "wikilink")が[町田](https://ja.wikipedia.org/wiki/FC町田ゼルビア "wikilink")、[榎本達也](../Page/榎本達也.md "wikilink")が[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")、[鈴木智幸](https://ja.wikipedia.org/wiki/鈴木智幸 "wikilink")が[松本](../Page/松本山雅FC.md "wikilink")、[チャ・ヨンファンが](https://ja.wikipedia.org/wiki/車永煥 "wikilink")[金沢](https://ja.wikipedia.org/wiki/ツエーゲン金沢 "wikilink")、[近藤祐介](../Page/近藤祐介.md "wikilink")が[北九州にそれぞれ移籍](../Page/ギラヴァンツ北九州.md "wikilink")。また[パウリーニョは期限付き移籍先の](https://ja.wikipedia.org/wiki/パウロ・ロベルト・ゴンサガ "wikilink")[川崎から復帰した後](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")、[千葉に完全移籍し](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")、[鈴木隆雅](https://ja.wikipedia.org/wiki/鈴木隆雅 "wikilink")、[大久保哲哉](../Page/大久保哲哉.md "wikilink")、[岡根直哉](https://ja.wikipedia.org/wiki/岡根直哉 "wikilink")、[イ・ミンスが期限付き移籍満了で退団](https://ja.wikipedia.org/wiki/李珉洙 "wikilink")。[柴崎邦博](../Page/柴崎邦博.md "wikilink")が現役を引退した。
 
     新加入選手は、[愛媛から](https://ja.wikipedia.org/wiki/愛媛FC "wikilink")[ハン・ヒフン](https://ja.wikipedia.org/wiki/韓熙訓 "wikilink")、[広島から](https://ja.wikipedia.org/wiki/サンフレッチェ広島F.C "wikilink")[イ・デホン](https://ja.wikipedia.org/wiki/李大憲 "wikilink")、[仙台から](../Page/ベガルタ仙台.md "wikilink")[桜井繁](../Page/桜井繁.md "wikilink")、[水戸から](../Page/水戸ホーリーホック.md "wikilink")[尾本敬](../Page/尾本敬.md "wikilink")、[磐田から](../Page/ジュビロ磐田.md "wikilink")[竹重安希彦](https://ja.wikipedia.org/wiki/竹重安希彦 "wikilink")、[鹿屋体育大学から](https://ja.wikipedia.org/wiki/鹿屋体育大学体育会サッカー部 "wikilink")[吉満大介](https://ja.wikipedia.org/wiki/吉満大介 "wikilink")。また仙台から[フェリペ](https://ja.wikipedia.org/wiki/フェリペ・ボルトルッチ・ピレシュ "wikilink")、広島から[パク・ヒョンジン](https://ja.wikipedia.org/wiki/朴亨鎮 "wikilink")、[甲府から](https://ja.wikipedia.org/wiki/ヴァンフォーレ甲府 "wikilink")[河本明人](https://ja.wikipedia.org/wiki/河本明人 "wikilink")、[浦和から](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")[阪野豊史](https://ja.wikipedia.org/wiki/阪野豊史 "wikilink")、[神戸から](../Page/ヴィッセル神戸.md "wikilink")[松村亮](https://ja.wikipedia.org/wiki/松村亮 "wikilink")が期限付き加入した。
 
@@ -189,6 +189,21 @@
 
     夏以降もチーム状態は上がらずシーズン後半はほとんどをJ3降格圏で過ごすことになるが、33節の[鹿児島戦においてスタメン起用を大幅に入れ替えたことが功を奏し](https://ja.wikipedia.org/wiki/鹿児島ユナイテッドFC "wikilink")、徐々にチーム状態が上向いてゆく。特に11月は4戦を3勝1分の成績を残し、最終節の[千葉戦に勝利したことにより](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")41節終了時点20位であった鹿児島を同一勝ち点ながら得失点差で逆転しついにJ3降格圏を脱出。最終順位20位でJ2残留が決定した。天皇杯は2回戦で[山形に勝利するも](https://ja.wikipedia.org/wiki/モンテディオ山形 "wikilink")、3回戦で[鹿島に敗退](../Page/鹿島アントラーズ.md "wikilink")。
 
+<!-- end list -->
+
+  - 2020年
+
+      -
+        チームフィロソフィー ：**KEEP MOVING FORWARD↑ -常に前に進み続ける-**
+
+    田坂体制2年目。[大宮から](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")[塩田仁史](../Page/塩田仁史.md "wikilink")、[新潟から](../Page/アルビレックス新潟.md "wikilink")[矢野貴章](../Page/矢野貴章.md "wikilink")、[愛媛から](https://ja.wikipedia.org/wiki/愛媛FC "wikilink")[禹相皓](https://ja.wikipedia.org/wiki/禹相皓 "wikilink")、[京都から](../Page/京都サンガF.C..md "wikilink")[エスクデロ競飛王](../Page/エスクデロ競飛王.md "wikilink")、[群馬から](https://ja.wikipedia.org/wiki/ザスパクサツ群馬 "wikilink")[佐藤祥](https://ja.wikipedia.org/wiki/佐藤祥 "wikilink")、[長崎から](https://ja.wikipedia.org/wiki/V・ファーレン長崎 "wikilink")[髙杉亮太が完全移籍で加入し](../Page/高杉亮太.md "wikilink")、[新潟から](../Page/アルビレックス新潟.md "wikilink")[柳育崇](https://ja.wikipedia.org/wiki/柳育崇 "wikilink")、[千葉から](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")[溝渕雄志](https://ja.wikipedia.org/wiki/溝渕雄志 "wikilink")および[大野哲煥](https://ja.wikipedia.org/wiki/大野哲煥 "wikilink")、[松本から](../Page/松本山雅FC.md "wikilink")[韓勇太](https://ja.wikipedia.org/wiki/韓勇太 "wikilink")が期限付き移籍で加入し、[鹿島から](../Page/鹿島アントラーズ.md "wikilink")[有馬幸太郎](https://ja.wikipedia.org/wiki/有馬幸太郎 "wikilink")が育成型期限付移籍で加入。[アルテリーヴォ和歌山](../Page/アルテリーヴォ和歌山.md "wikilink")に期限付き移籍していた[山本廉が復帰し](https://ja.wikipedia.org/wiki/山本廉_\(サッカー選手\) "wikilink")、青山学院から[池庭諒耶](../Page/池庭諒耶.md "wikilink")、かつて栃木ユースに所属していた[森俊貴](../Page/森俊貴.md "wikilink")、[明本考浩](../Page/明本考浩.md "wikilink")がそれぞれ法政大学、国士舘大学より新加入した。一方で、[西谷和希](https://ja.wikipedia.org/wiki/西谷和希 "wikilink")および[浜下瑛](https://ja.wikipedia.org/wiki/浜下瑛 "wikilink")が[徳島へ](../Page/徳島ヴォルティス.md "wikilink")、[久富良輔](https://ja.wikipedia.org/wiki/久富良輔 "wikilink")が[藤枝へ](https://ja.wikipedia.org/wiki/藤枝MYFC "wikilink")、[ヘニキが](https://ja.wikipedia.org/wiki/ヘニキ・ルイス・ジ・アンドラージ "wikilink")[山口へ完全移籍](../Page/レノファ山口FC.md "wikilink")。[イ・レジュン](https://ja.wikipedia.org/wiki/李來俊 "wikilink")（[安山グリナースFC](../Page/安山グリナースFC.md "wikilink")(韓国)へ移籍）、[ユ・ヒョン](https://ja.wikipedia.org/wiki/劉鉉 "wikilink")（[水原FC](https://ja.wikipedia.org/wiki/水原FC "wikilink")(韓国)へ移籍）、[福田健介](../Page/福田健介.md "wikilink")（[おこしやす京都AC](../Page/おこしやす京都AC.md "wikilink")へ移籍）、[寺田紳一](../Page/寺田紳一.md "wikilink")（[おこしやす京都AC](../Page/おこしやす京都AC.md "wikilink")へ移籍）、[古波津辰希](https://ja.wikipedia.org/wiki/古波津辰希 "wikilink")（[栃木シティFCへ移籍](../Page/栃木シティフットボールクラブ.md "wikilink")）、[枝村匠馬](../Page/枝村匠馬.md "wikilink")（[藤枝へ移籍](https://ja.wikipedia.org/wiki/藤枝MYFC "wikilink")）が契約満了で、また[川上盛司](https://ja.wikipedia.org/wiki/川上盛司 "wikilink")、[三宅海斗](https://ja.wikipedia.org/wiki/三宅海斗 "wikilink")（[鹿児島へ移籍](https://ja.wikipedia.org/wiki/鹿児島ユナイテッドFC "wikilink")）が契約解除で、[ユウリ](https://ja.wikipedia.org/wiki/ユウリ・リマ・ララ "wikilink")（[ECバイーア](../Page/ECバイーア.md "wikilink")(ブラジル)に復帰）、[乾大知](https://ja.wikipedia.org/wiki/乾大知 "wikilink")（[松本へ移籍](../Page/松本山雅FC.md "wikilink")）、[森下怜哉](https://ja.wikipedia.org/wiki/森下怜哉 "wikilink")（[C大阪に復帰後](../Page/セレッソ大阪.md "wikilink")[松本へ育成型期限付き移籍](../Page/松本山雅FC.md "wikilink")）、[浅沼優瑠](https://ja.wikipedia.org/wiki/浅沼優瑠 "wikilink")（[相模原に復帰](../Page/SC相模原.md "wikilink")）、[川田拳登](https://ja.wikipedia.org/wiki/川田拳登 "wikilink")（[大宮に復帰後](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")[長野へ育成型期限付き移籍](../Page/AC長野パルセイロ.md "wikilink")）、[キム・ヒョン](https://ja.wikipedia.org/wiki/金玄 "wikilink")（[済州ユナイテッドFC](../Page/済州ユナイテッドFC.md "wikilink")(韓国)に復帰）が期限付き移籍期間満了で退団した。また、[本庄竜大](https://ja.wikipedia.org/wiki/本庄竜大 "wikilink")が[コバルト―レ女川へ](../Page/Cobaltore女川.md "wikilink")、[藤原広太朗](https://ja.wikipedia.org/wiki/藤原広太朗 "wikilink")が[鹿児島へ期限付き移籍した](https://ja.wikipedia.org/wiki/鹿児島ユナイテッドFC "wikilink")。[坂田良太](https://ja.wikipedia.org/wiki/坂田良太 "wikilink")、[廣瀬浩二](../Page/廣瀬浩二.md "wikilink")が現役を引退した。
+
+    シーズン序盤は開幕戦で[長崎戦に](https://ja.wikipedia.org/wiki/V・ファーレン長崎 "wikilink")0-1で敗戦後、[新型コロナウイルス](../Page/新型コロナウイルス.md "wikilink")の影響により中断期間に入る。中断中に[柏レイソル](https://ja.wikipedia.org/wiki/柏レイソル "wikilink")から[井出敬大](../Page/井出敬大.md "wikilink")が新加入した。
+
+    4ヶ月以上の中断を経て、再開後初戦の第2節[山形戦は](https://ja.wikipedia.org/wiki/モンテディオ山形 "wikilink")0-1で破れたものの、第4節[千葉戦を](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")1-0で勝利しシーズン初勝利を挙げた。その後、2連敗を喫したが、ハードワークを主体として第8節から第12節までの5戦を3勝2分と好調をキープした。
+
+    シーズン途中には[横浜FMから](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")[オビ・パウエル・オビンナ](https://ja.wikipedia.org/wiki/オビ・パウエル・オビンナ "wikilink")が育成型期限付き移籍加入した。
+
 ## 成績
 
 ## タイトル
@@ -230,21 +245,23 @@
 
 一方で、栃木県グリーンスタジアムは、現状でもスタジアムの屋根とトイレの数が[Jリーグの求めるクラブライセンスにおけるスタジアム基準を満たしていない](https://ja.wikipedia.org/wiki/Jリーグクラブライセンス制度 "wikilink")。
 
-栃木SCは、栃木県が宇都宮市西川田地区（[東武宇都宮線](https://ja.wikipedia.org/wiki/東武宇都宮線 "wikilink")[西川田駅](../Page/西川田駅.md "wikilink")近く、[宇都宮競馬場](../Page/宇都宮競馬場.md "wikilink")跡地周辺）に建設された[カンセキスタジアムとちぎ](../Page/カンセキスタジアムとちぎ.md "wikilink")へのスタジアム移転の可能性もにらみながら、今後の改修の方向性について検討を行うこととしている\[40\]。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Kanseki_stadium_tochigi_inside_2.jpg "wikilink") 栃木SCは、栃木県が宇都宮市西川田地区（[東武宇都宮線](https://ja.wikipedia.org/wiki/東武宇都宮線 "wikilink")[西川田駅](../Page/西川田駅.md "wikilink")近く、[宇都宮競馬場](../Page/宇都宮競馬場.md "wikilink")跡地周辺）に建設された[カンセキスタジアムとちぎ](../Page/カンセキスタジアムとちぎ.md "wikilink")へのスタジアム移転の可能性もにらみながら、今後の改修の方向性について検討を行うこととしている\[40\]。
+
+[2020年のJ2リーグ](https://ja.wikipedia.org/wiki/2020年のJ2リーグ "wikilink")においては栃木SCが主催する21試合のホームゲームのうち、5月6日の[大宮アルディージャ](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")戦をこけら落としとして5試合\[41\]をカンセキスタジアムで開催することを決定していた\[42\]が、[新型コロナウィルス](https://ja.wikipedia.org/wiki/新型コロナウィルス "wikilink")の感染拡大でJリーグ主催公式戦が長期中断となったことや、カンセキスタジアムのこけら落としそのものも延期\[43\]され、開場めどが立っていないため、6月に改訂された新たな日程（第2－15節の確定会場入り）\[44\]では、カンセキスタジアムでの主催開催は一度消滅し、すべての試合をグリスタで行うことが発表された。
 
 ### 練習場
 
-練習場は河内総合運動公園以外に、[栃木SC宇都宮フィールド](../Page/宇都宮市サッカー場.md "wikilink")、[栃木県総合運動公園](https://ja.wikipedia.org/wiki/栃木県総合運動公園 "wikilink")や[栃木市総合運動公園陸上競技場](../Page/栃木市総合運動公園陸上競技場.md "wikilink")、[市貝町城見ヶ丘運動公園](https://ja.wikipedia.org/wiki/市貝町城見ヶ丘運動公園 "wikilink")、さくら市鬼怒川運動公園なども使用している\[41\]。
+練習場は河内総合運動公園以外に、[栃木SC宇都宮フィールド](../Page/宇都宮市サッカー場.md "wikilink")、[栃木県総合運動公園](https://ja.wikipedia.org/wiki/栃木県総合運動公園 "wikilink")や[栃木市総合運動公園陸上競技場](../Page/栃木市総合運動公園陸上競技場.md "wikilink")、[市貝町城見ヶ丘運動公園](https://ja.wikipedia.org/wiki/市貝町城見ヶ丘運動公園 "wikilink")、さくら市鬼怒川運動公園なども使用している\[45\]。
 
-2015年4月24日にクラブは記者会見を行い、河内総合運動公園に隣接する、宇都宮市が所有する土地にクラブハウスを建設する計画があることを発表。6月に着工するクラブハウスは総工費約8,000万円を見込み、宇都宮市からの1500万円の補助金のほか、「クラブハウス建設協力の会」による募金活動などにより資金を調達する方向で計画を進めていた\[42\]。
+2015年4月24日にクラブは記者会見を行い、河内総合運動公園に隣接する、宇都宮市が所有する土地にクラブハウスを建設する計画があることを発表。6月に着工するクラブハウスは総工費約8,000万円を見込み、宇都宮市からの1500万円の補助金のほか、「クラブハウス建設協力の会」による募金活動などにより資金を調達する方向で計画を進めていた\[46\]。
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Tochigi-SC_Club_house.JPG "wikilink") その後、およそ半年をかけてクラブハウスが完成。総工費は約8,000万円で、敷地面積は756,35平方メートル、延べ床面積390,02平方メートル。トレーニングルームやロッカールーム、シャワールーム、メディカルルーム備えられている。また、健康教室、介護予防事業、テーピング教室、栄養教室など、地域の方々とのコミュニケーションを図りながら、サッカーの楽しさ、スポーツの楽しさを伝えていくホームタウン活動の拠点として使用する多目的ルームも完備している\[43\]\[44\]。 {{-}}
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Tochigi-SC_Club_house.JPG "wikilink") その後、およそ半年をかけてクラブハウスが完成。総工費は約8,000万円で、敷地面積は756,35平方メートル、延べ床面積390,02平方メートル。トレーニングルームやロッカールーム、シャワールーム、メディカルルーム備えられている。また、健康教室、介護予防事業、テーピング教室、栄養教室など、地域の方々とのコミュニケーションを図りながら、サッカーの楽しさ、スポーツの楽しさを伝えていくホームタウン活動の拠点として使用する多目的ルームも完備している\[47\]\[48\]。 {{-}}
 
 ### 足利劇場
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Ashikagarikujo2.JPG "wikilink")\]\] 過去に[足利市総合運動場陸上競技場](../Page/足利市総合運動場陸上競技場.md "wikilink")で行われた試合は劇的な展開をすることが多かったため、「足利劇場」と呼ばれた\[45\]。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Ashikagarikujo2.JPG "wikilink")\]\] 過去に[足利市総合運動場陸上競技場](../Page/足利市総合運動場陸上競技場.md "wikilink")で行われた試合は劇的な展開をすることが多かったため、「足利劇場」と呼ばれた\[49\]。
 
-  - 2004年JFL前期第12節（[6月6日](../Page/6月6日.md "wikilink")）、[ザスパ草津戦](https://ja.wikipedia.org/wiki/ザスパクサツ群馬 "wikilink") △3-3\[46\]
+  - 2004年JFL前期第12節（[6月6日](../Page/6月6日.md "wikilink")）、[ザスパ草津戦](https://ja.wikipedia.org/wiki/ザスパクサツ群馬 "wikilink") △3-3\[50\]
 
 <!-- end list -->
 
@@ -253,7 +270,7 @@
 
 <!-- end list -->
 
-  - 2005年JFL前期第8節（[5月8日](../Page/5月8日.md "wikilink")）、[愛媛FC](https://ja.wikipedia.org/wiki/愛媛FC "wikilink")戦 ○3-2\[47\]
+  - 2005年JFL前期第8節（[5月8日](../Page/5月8日.md "wikilink")）、[愛媛FC](https://ja.wikipedia.org/wiki/愛媛FC "wikilink")戦 ○3-2\[51\]
 
 <!-- end list -->
 
@@ -262,7 +279,7 @@
 
 <!-- end list -->
 
-  - 2005年JFL前期第7節（[10月2日](../Page/10月2日.md "wikilink")）、[流通経済大学サッカー部](https://ja.wikipedia.org/wiki/流通経済大学サッカー部 "wikilink")戦 ○2-1\[48\]
+  - 2005年JFL前期第7節（[10月2日](../Page/10月2日.md "wikilink")）、[流通経済大学サッカー部](https://ja.wikipedia.org/wiki/流通経済大学サッカー部 "wikilink")戦 ○2-1\[52\]
 
 <!-- end list -->
 
@@ -276,7 +293,7 @@
 <!-- end list -->
 
   -
-    Jリーグ加盟後初めて、かつ現状最後となる足利陸でのホームゲーム。「足利劇場」をテーマにイベントが行われた\[49\]。
+    Jリーグ加盟後初めて、かつ現状最後となる足利陸でのホームゲーム。「足利劇場」をテーマにイベントが行われた\[53\]。
 
 {{-}}
 
@@ -288,7 +305,7 @@
 
 ### チームカラー
 
-  - 黄\[50\]
+  - 黄\[54\]
 
 ### ユニフォームスポンサー
 
@@ -581,11 +598,11 @@
 
 ## 経営問題
 
-  - 2013年9月、ユニフォームスポンサーの[コジマ](../Page/コジマ.md "wikilink")が2013年シーズンをもって栃木SCを含む県内の4つのプロスポーツクラブのスポンサーより撤退することが[下野新聞](../Page/下野新聞.md "wikilink")により報じられた。なお、コジマによる4つのクラブへのスポンサー料は年間数千万円とされ、栃木SCの経営面にも影響を及ぼす恐れがあるとしている\[51\]。
-  - 2013年9月30日、2014年度[Jリーグライセンスについて](https://ja.wikipedia.org/wiki/Jリーグクラブライセンス制度 "wikilink")、J1ライセンスの交付が決定したものの、新たに債務超過となったことで、2013年度ライセンス交付時に出された「個別通知」より悪い「是正通達」が出され、債務超過の解消に向け、（1）今期損益見通し詳細を報告し、Jリーグの指導を受けること（2）2014年度予算編成に際し、Jリーグの事前指導を受けることの2点が挙げられた\[52\]。クラブライセンスマネジャーの[大河正明](https://ja.wikipedia.org/wiki/大河正明 "wikilink")Jリーグ理事は「栃木は昨季、J1に上がりたいが故に身の丈以上の投資をして戦力補強したが、昇格を逃して債務超過に陥った。Jリーグとしても良くないケースとしている。栃木が新しく債務超過に陥ったのは、すごく心配している」とコメント、債務面で「要注意」とされた\[53\]。
-  - 2013年11月5日、運営会社の株式会社栃木サッカークラブが記者会見を行い、2013年度決算で約9,000万円の赤字が見込まれ、同年度末に約1億5,000万円の[債務超過](https://ja.wikipedia.org/wiki/債務超過 "wikilink")に陥る見通しとなることを発表。2014年度に債務超過を解消できないとJリーグライセンスを剥奪される恐れがあるため、人件費削減などの経費圧縮および収入増に結びつく観客数の増加を図るとした\[54\]。
-  - 2014年9月12日、平成26年度中間決算報告の記者会見を行い、経費圧縮や広告収入増などにより営業利益が黒字に転じたことから、債務超過が解消されJリーグライセンス剥奪は無いとの見通しを報告\[55\]\[56\]。9月29日、2015年シーズンのJ1ライセンスが交付された\[57\]。
-  - 2015年4月2日に行われた記者会見によると、2014年度決算は売上高約9億4100万円、経常損益は約1億5000万円の黒字となり、債務超過も解消された。主な改善要素は**募金**（約4300万円）及び外国人選手放出による人件費の削減（前年度比-1億2000万円）と移籍金収入（約3800万円）\[58\]。
+  - 2013年9月、ユニフォームスポンサーの[コジマ](../Page/コジマ.md "wikilink")が2013年シーズンをもって栃木SCを含む県内の4つのプロスポーツクラブのスポンサーより撤退することが[下野新聞](../Page/下野新聞.md "wikilink")により報じられた。なお、コジマによる4つのクラブへのスポンサー料は年間数千万円とされ、栃木SCの経営面にも影響を及ぼす恐れがあるとしている\[55\]。
+  - 2013年9月30日、2014年度[Jリーグライセンスについて](https://ja.wikipedia.org/wiki/Jリーグクラブライセンス制度 "wikilink")、J1ライセンスの交付が決定したものの、新たに債務超過となったことで、2013年度ライセンス交付時に出された「個別通知」より悪い「是正通達」が出され、債務超過の解消に向け、（1）今期損益見通し詳細を報告し、Jリーグの指導を受けること（2）2014年度予算編成に際し、Jリーグの事前指導を受けることの2点が挙げられた\[56\]。クラブライセンスマネジャーの[大河正明](https://ja.wikipedia.org/wiki/大河正明 "wikilink")Jリーグ理事は「栃木は昨季、J1に上がりたいが故に身の丈以上の投資をして戦力補強したが、昇格を逃して債務超過に陥った。Jリーグとしても良くないケースとしている。栃木が新しく債務超過に陥ったのは、すごく心配している」とコメント、債務面で「要注意」とされた\[57\]。
+  - 2013年11月5日、運営会社の株式会社栃木サッカークラブが記者会見を行い、2013年度決算で約9,000万円の赤字が見込まれ、同年度末に約1億5,000万円の[債務超過](https://ja.wikipedia.org/wiki/債務超過 "wikilink")に陥る見通しとなることを発表。2014年度に債務超過を解消できないとJリーグライセンスを剥奪される恐れがあるため、人件費削減などの経費圧縮および収入増に結びつく観客数の増加を図るとした\[58\]。
+  - 2014年9月12日、平成26年度中間決算報告の記者会見を行い、経費圧縮や広告収入増などにより営業利益が黒字に転じたことから、債務超過が解消されJリーグライセンス剥奪は無いとの見通しを報告\[59\]\[60\]。9月29日、2015年シーズンのJ1ライセンスが交付された\[61\]。
+  - 2015年4月2日に行われた記者会見によると、2014年度決算は売上高約9億4100万円、経常損益は約1億5000万円の黒字となり、債務超過も解消された。主な改善要素は**募金**（約4300万円）及び外国人選手放出による人件費の削減（前年度比-1億2000万円）と移籍金収入（約3800万円）\[62\]。
 
 ## 応援スタイル
 
@@ -633,7 +650,7 @@
 <!-- end list -->
 
   -
-    [日本サッカー協会](../Page/日本サッカー協会.md "wikilink")の「DREAM～夢があるから強くなる」というスローガンの下に、栃木SCのスタッフ及び選手が県内の小中学校を訪問し、講話や実技を行って子供の心身の健全な発達に対し積極的に関与・貢献していくプロジェクト。2008年4月1日に概要が発表され\[59\]、2008年5月12日に第1回が開催された\[60\]。
+    [日本サッカー協会](../Page/日本サッカー協会.md "wikilink")の「DREAM～夢があるから強くなる」というスローガンの下に、栃木SCのスタッフ及び選手が県内の小中学校を訪問し、講話や実技を行って子供の心身の健全な発達に対し積極的に関与・貢献していくプロジェクト。2008年4月1日に概要が発表され\[63\]、2008年5月12日に第1回が開催された\[64\]。
 
 <!-- end list -->
 
@@ -642,7 +659,7 @@
 <!-- end list -->
 
   -
-    栃木SCアカデミーセンターのスタッフが幼稚園や保育園を訪問し、「サッカーを通して子供たちに身体を動かすこと（スポーツ）の楽しさを伝えること」を目的としたサッカー教室を開催している\[61\]。2009年6月8日に第一回が開催された\[62\]。
+    栃木SCアカデミーセンターのスタッフが幼稚園や保育園を訪問し、「サッカーを通して子供たちに身体を動かすこと（スポーツ）の楽しさを伝えること」を目的としたサッカー教室を開催している\[65\]。2009年6月8日に第一回が開催された\[66\]。
 
 <!-- end list -->
 
@@ -651,7 +668,7 @@
 <!-- end list -->
 
   -
-    [宇都宮市](https://ja.wikipedia.org/wiki/宇都宮市 "wikilink")からの受託事業として、高齢者を対象に栃木SCの監督や選手、スタッフと共に簡単な運動を行い、健康の維持増進や介護予防を目的するイベントを開催している。2011年6月24日に第一回が開催された\[63\]。
+    [宇都宮市](https://ja.wikipedia.org/wiki/宇都宮市 "wikilink")からの受託事業として、高齢者を対象に栃木SCの監督や選手、スタッフと共に簡単な運動を行い、健康の維持増進や介護予防を目的するイベントを開催している。2011年6月24日に第一回が開催された\[67\]。
 
 <!-- end list -->
 
@@ -660,9 +677,9 @@
 <!-- end list -->
 
   -
-    2011年3月の[福島第一原子力発電所事故](https://ja.wikipedia.org/wiki/福島第一原子力発電所事故 "wikilink")による栃木県産農産物への[風評被害](../Page/風評被害.md "wikilink")を払拭するため、栃木県農政部農政課と共同で農産物のPRや生産者を励ます活動を行っており、その模様を栃木SCオフィシャルサイトにて発表している。2011年8月5日に第一回目のリポートが掲載された\[64\]。
+    2011年3月の[福島第一原子力発電所事故](https://ja.wikipedia.org/wiki/福島第一原子力発電所事故 "wikilink")による栃木県産農産物への[風評被害](../Page/風評被害.md "wikilink")を払拭するため、栃木県農政部農政課と共同で農産物のPRや生産者を励ます活動を行っており、その模様を栃木SCオフィシャルサイトにて発表している。2011年8月5日に第一回目のリポートが掲載された\[68\]。
 
-そのほか県サッカー協会主催のサッカークリニックへの参加、高齢者を対象とした「栃木SC健康教室」や「栃木SC介護予防教室」の開催、中学校での「総合的な学習の時間」講演、栃木県中学校体育連盟と協力してのサッカー部の指導、栃木県サッカー協会と協力しての小学校訪問事業、企業経営者を対象とした監督による講演会、清掃活動や緑化活動への参加などを行っている\[65\]。
+そのほか県サッカー協会主催のサッカークリニックへの参加、高齢者を対象とした「栃木SC健康教室」や「栃木SC介護予防教室」の開催、中学校での「総合的な学習の時間」講演、栃木県中学校体育連盟と協力してのサッカー部の指導、栃木県サッカー協会と協力しての小学校訪問事業、企業経営者を対象とした監督による講演会、清掃活動や緑化活動への参加などを行っている\[69\]。
 
 ## 注釈
 
@@ -726,11 +743,11 @@
 39.
 40.
 41.
-42. [栃木ＳＣ、クラブハウス建設へ支援金募集 後援会中心に「協力の会」](http://www.shimotsuke.co.jp/news/tochigi/top/news/20150425/1939665) 下野新聞「SOON」2015年4月30日閲覧
+42.
 43.
 44.
 45.
-46.
+46. [栃木ＳＣ、クラブハウス建設へ支援金募集 後援会中心に「協力の会」](http://www.shimotsuke.co.jp/news/tochigi/top/news/20150425/1939665) 下野新聞「SOON」2015年4月30日閲覧
 47.
 48.
 49.
@@ -742,11 +759,15 @@
 55.
 56.
 57.
-58. [栃木ＳＣ、４期ぶり黒字 経常利益は１億５０００万円](http://www.shimotsuke.co.jp/news/tochigi/top/news/20150403/1918810) 下野新聞「SOON」2015年4月30日閲覧
-59. [ゆめプロジェクト](http://www.tochigisc.jp/news/02/00000083.html) 栃木SC公式サイト
-60. [【フォトリポート】5月12日（月）「ゆめプロジェクト」に選手が参加しました。](http://www.tochigisc.com/info/entry/post_62.php) 栃木SC公式サイト
-61. [スマイルキャラバンのご案内](http://www.tochigisc.jp/school/caravan.html) 栃木SC公式サイト
-62. [＜フォトリポート＞キッズスマイルキャラバン始動！！（東浦保育園）](http://www.tochigisc.jp/news/article/00000785.html) 栃木SC公式サイト
-63. [【フォトレポート】宇都宮市受託事業「いきいき健康サッカー教室」。](http://www.tochigisc.jp/news/08/00002518.html) 栃木SC公式サイト
-64. [【フォトリポート】第1回 佐藤悠介栃木SCドリームアンバサダー 栃木県農産物リポート](http://www.tochigisc.jp/news/08/00002653.html) 栃木SC公式サイト
-65. [ニュース ＆ トピックス HOME TOWN](http://www.tochigisc.jp/news/08/) 栃木SC公式サイト
+58.
+59.
+60.
+61.
+62. [栃木ＳＣ、４期ぶり黒字 経常利益は１億５０００万円](http://www.shimotsuke.co.jp/news/tochigi/top/news/20150403/1918810) 下野新聞「SOON」2015年4月30日閲覧
+63. [ゆめプロジェクト](http://www.tochigisc.jp/news/02/00000083.html) 栃木SC公式サイト
+64. [【フォトリポート】5月12日（月）「ゆめプロジェクト」に選手が参加しました。](http://www.tochigisc.com/info/entry/post_62.php) 栃木SC公式サイト
+65. [スマイルキャラバンのご案内](http://www.tochigisc.jp/school/caravan.html) 栃木SC公式サイト
+66. [＜フォトリポート＞キッズスマイルキャラバン始動！！（東浦保育園）](http://www.tochigisc.jp/news/article/00000785.html) 栃木SC公式サイト
+67. [【フォトレポート】宇都宮市受託事業「いきいき健康サッカー教室」。](http://www.tochigisc.jp/news/08/00002518.html) 栃木SC公式サイト
+68. [【フォトリポート】第1回 佐藤悠介栃木SCドリームアンバサダー 栃木県農産物リポート](http://www.tochigisc.jp/news/08/00002653.html) 栃木SC公式サイト
+69. [ニュース ＆ トピックス HOME TOWN](http://www.tochigisc.jp/news/08/) 栃木SC公式サイト

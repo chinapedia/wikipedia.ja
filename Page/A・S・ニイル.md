@@ -1,9 +1,13 @@
 > この記事は[A・S・ニイル](https://ja.wikipedia.org/wiki/A・S・ニイル)から翻訳されています。
 
 
-[right](https://ja.wikipedia.org/wiki/ファイル:Neill_birthday.jpg "wikilink") **アレクサンダー・サザーランド・ニイル**（**ニール**、Alexander Sutherland Neill、[1883年](../Page/1883年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink") - [1973年](../Page/1973年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[新教育運動](../Page/新教育運動.md "wikilink")の教育家。[エディンバラ大学](../Page/エディンバラ大学.md "wikilink")に学び、[1912年](../Page/1912年.md "wikilink")、修士号を取得。[1914年](../Page/1914年.md "wikilink")、[スコットランド](../Page/スコットランド.md "wikilink")のグレトナ・グリーンスクールの校長になる。
+[right](https://ja.wikipedia.org/wiki/ファイル:Neill_birthday.jpg "wikilink") **アレクサンダー・サザーランド・ニイル**（**ニール**、Alexander Sutherland Neill、[1883年](../Page/1883年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink") - [1973年](../Page/1973年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[新教育](../Page/新教育.md "wikilink")運動の教育家。[エディンバラ大学](../Page/エディンバラ大学.md "wikilink")に学び、[1912年](../Page/1912年.md "wikilink")、修士号を取得。[1914年](../Page/1914年.md "wikilink")、[スコットランド](../Page/スコットランド.md "wikilink")のグレトナ・グリーンスクールの校長になる。
 
 [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[改革教育運動](https://ja.wikipedia.org/wiki/改革教育運動 "wikilink")の影響を強く受け、[1921年](../Page/1921年.md "wikilink") ドイツ [ドレスデン](../Page/ドレスデン.md "wikilink")郊外のヘレナウで新しい学校を創立。この学校はのちに彼の妻になるノイシュタッターと共に[オーストリア](../Page/オーストリア.md "wikilink")に移り、その後、[1923年](../Page/1923年.md "wikilink") 南[イングランド](../Page/イングランド.md "wikilink")のライム・レギスに移り、そこで本格的に教育活動が始まる。[サマーヒル・スクール](../Page/サマーヒル・スクール.md "wikilink")という名でこの学校は、「世界で一番自由な学校」として知られている。ニイルの「子どもを学校に合わすのではなく、学校を子どもに合わせる」という言葉は有名。彼の著作集は邦訳がある。邦訳者の[堀真一郎](https://ja.wikipedia.org/wiki/堀真一郎 "wikilink")も、[大阪市立大学](https://ja.wikipedia.org/wiki/大阪市立大学 "wikilink")の教授のポストを捨てて、自ら、きのくに子どもの村小学校（現在・[きのくに子どもの村学園](https://ja.wikipedia.org/wiki/きのくに子どもの村学園 "wikilink")）を創立している。
+
+## 生涯
+
+1883年10月17日、スコットランドのフォーファーでジョージ・ニールと妻メアリーの子どもとして生まれる。家族には13人の子が生まれたが、1人は死産、4人は幼くして亡くなり、生き残ったのは8人だった。彼は厳格なカルヴァン派の信仰の中で育てられたが、大人になってからはその信仰を捨てている。父親はキングスミアの小学校の校長(village domonie、ドミニエ)で母親も結婚前は教師だった。
 
 ## 教育思想
 

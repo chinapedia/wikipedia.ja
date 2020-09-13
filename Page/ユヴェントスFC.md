@@ -1,7 +1,7 @@
 > この記事は[ユヴェントスFC](https://ja.wikipedia.org/wiki/ユヴェントスFC)から翻訳されています。
 
 
-**ユヴェントス・フットボール・クラブ**（Juventus Football Club s.p.a）は、[イタリア](../Page/イタリア.md "wikilink")の[トリノ](../Page/トリノ.md "wikilink")をホームタウンとするイタリアプロサッカーリーグ（[レガ・カルチョ](../Page/レガ・カルチョ.md "wikilink")）に加盟するプロサッカークラブ。[1923年](../Page/1923年.md "wikilink")以来、多数の[実業家](../Page/実業家.md "wikilink")を輩出する[イタリア](../Page/イタリア.md "wikilink")の名門一族[アニェッリ家](https://ja.wikipedia.org/wiki/アニェッリ家 "wikilink")がオーナーとなっており、2018年8月現在アニェッリ家の投資会社「[エクソール](https://ja.wikipedia.org/wiki/エクソール "wikilink")」がクラブの株式の63.77パーセントを所有している。
+**ユヴェントス・フットボール・クラブ**（Juventus Football Club）は、[イタリア](../Page/イタリア.md "wikilink")の[トリノ](../Page/トリノ.md "wikilink")をホームタウンとするイタリアプロサッカーリーグ（[レガ・カルチョ](../Page/レガ・カルチョ.md "wikilink")）に加盟するプロサッカークラブ。[1923年](../Page/1923年.md "wikilink")以来、多数の[実業家](../Page/実業家.md "wikilink")を輩出する[イタリア](../Page/イタリア.md "wikilink")の名門一族[アニェッリ家](https://ja.wikipedia.org/wiki/アニェッリ家 "wikilink")がオーナーとなっており、2018年8月現在アニェッリ家の投資会社「[エクソール](https://ja.wikipedia.org/wiki/エクソール "wikilink")」がクラブの株式の63.77パーセントを所有している。
 
 ## 概要
 
@@ -15,7 +15,7 @@
 
 ホームタウンという概念が確立しているヨーロッパには珍しく、全国的な人気を持つクラブである。
 
-[2014年](../Page/2014年.md "wikilink")1月、世界最大の[会計事務所である](https://ja.wikipedia.org/wiki/4大会計事務所 "wikilink")『[デロイト](../Page/デロイト_トウシュ_トーマツ.md "wikilink")』が公表した[デロイト・フットボール・マネー・リーグ](https://ja.wikipedia.org/wiki/デロイト・フットボール・マネー・リーグ "wikilink")によると、2012-13シーズンのクラブ収入は2億7240万ユーロであり、世界9位、イタリアでは1位である\[1\]。2011-12シーズンには9季ぶり28度目のスクデットを獲得し、それ以来現在までセリエA前人未到の8連覇を達成している。
+[2014年](../Page/2014年.md "wikilink")1月、世界最大の[会計事務所である](https://ja.wikipedia.org/wiki/4大会計事務所 "wikilink")『[デロイト](../Page/デロイト_トウシュ_トーマツ.md "wikilink")』が公表した[デロイト・フットボール・マネー・リーグ](https://ja.wikipedia.org/wiki/デロイト・フットボール・マネー・リーグ "wikilink")によると、2012-13シーズンのクラブ収入は2億7240万ユーロであり、世界9位、イタリアでは1位である\[1\]。2011-12シーズンには9季ぶり28度目のスクデットを獲得し、それ以来現在までセリエA前人未到の9連覇を達成している。
 
 ## 歴史
 
@@ -82,7 +82,7 @@
 
 しかし、2008-09シーズンは無冠が決定し、シーズン途中で[クラウディオ・ラニエリ](../Page/クラウディオ・ラニエリ.md "wikilink")は解任され、かつてユヴェントスのDFとして活躍した[チロ・フェラーラ](../Page/チロ・フェラーラ.md "wikilink")がシーズン終了まで指揮を執ることとなった。
 
-2008-09シーズンが無冠で終わったことから、2009年夏の移籍市場では活発に動き、市場開幕前に[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")よりフリートランスファーで、かつて所属した[ファビオ・カンナヴァーロ](https://ja.wikipedia.org/wiki/ファビオ・カンナヴァーロ "wikilink")を、また、[ヴェルダー・ブレーメン](../Page/ヴェルダー・ブレーメン.md "wikilink")より2450万ユーロで[ジエゴを](../Page/ジエゴ・リバス・ダ・クーニャ.md "wikilink")、更に移籍金2050万ユーロ（約27億円）に加え、[イタリア代表経験のあるMF](../Page/サッカーイタリア代表.md "wikilink")[マルコ・マルキオンニ](../Page/マルコ・マルキオンニ.md "wikilink")と引き換えに[フィオレンティーナからブラジル代表の](../Page/ACFフィオレンティーナ.md "wikilink")[フェリペ・メロ](https://ja.wikipedia.org/wiki/フェリペ・メロ "wikilink")を獲得した。
+2008-09シーズンが無冠で終わったことから、2009年夏の移籍市場では活発に動き、市場開幕前に[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")よりフリートランスファーで、かつて所属した[ファビオ・カンナヴァーロ](https://ja.wikipedia.org/wiki/ファビオ・カンナヴァーロ "wikilink")を、また、[ヴェルダー・ブレーメン](../Page/ヴェルダー・ブレーメン.md "wikilink")より2450万ユーロで[ジエゴを](../Page/ジエゴ・リバス・ダ・クーニャ.md "wikilink")、更に移籍金2050万ユーロに加え、[イタリア代表経験のあるMF](../Page/サッカーイタリア代表.md "wikilink")[マルコ・マルキオンニ](../Page/マルコ・マルキオンニ.md "wikilink")と引き換えに[フィオレンティーナからブラジル代表の](../Page/ACFフィオレンティーナ.md "wikilink")[フェリペ・メロ](https://ja.wikipedia.org/wiki/フェリペ・メロ "wikilink")を獲得した。
 
 2009-10シーズンは昨季途中から引き続きフェラーラの指揮の下、開幕当初は勝ち星を重ねることができたものの、徐々に成績を落としていき、チャンピオンズリーグはグループリーグで敗退、21節を終えた時点で首位と勝ち点16差を付けられるなどチームは低迷する。コッパ・イタリアも敗退が決まるとクラブはフェラーラを解任。後任として[アルベルト・ザッケローニ](https://ja.wikipedia.org/wiki/アルベルト・ザッケローニ "wikilink")の監督就任が発表された。36節[カターニア戦で引き分け](../Page/カルチョ・カターニア.md "wikilink")、来季のチャンピオンズリーグ出場権が消滅してしまった。このシーズン結局7位に終わる。
 
@@ -90,7 +90,7 @@
 
 アレッシオ・セッコSD（スポーツディレクター）らフロント陣の改造が行われ、会長にアンドレア・アニェッリが就任し、GD（ゼネラルディレクター）に[ジュゼッペ・マロッタ](https://ja.wikipedia.org/wiki/ジュゼッペ・マロッタ "wikilink")を招聘。監督には[ルイジ・デルネーリ](../Page/ルイジ・デルネーリ.md "wikilink")が就任。
 
-[2011年](../Page/2011年.md "wikilink")、セリエAのチームとしては珍しい[チアリーディングチーム](https://ja.wikipedia.org/wiki/チアリーダー "wikilink")（[メンバー写真](http://a323.yahoofs.com/ymg/ept_sports_sow_experts__16/ept_sports_sow_experts-516571547-1295291842.jpg?ymCniaED5TneuwfN)）が結成され、[フロムワン](../Page/フロムワン.md "wikilink")の雑誌「[CALCIO2002](https://ja.wikipedia.org/wiki/CALCIO2002 "wikilink")」（2011年3月号）に紹介された。チアリーダーの面々はホームスタジアムでの入場セレモニーやスタンドの応援だけにとどまらず、トリノの街角で選手と同じユニフォームとチームカラーの黒と白の大きい[ポンポン](../Page/ポンポン.md "wikilink")を振りかざしてのゲリラ的パフォーマンスを繰り広げるなどしている。セリエAのクラブではチアリーダーはこれまで登場したことがないことから、注目された。
+2011年、セリエAのチームとしては珍しい[チアリーディングチームが結成され](https://ja.wikipedia.org/wiki/チアリーダー "wikilink")、[フロムワン](../Page/フロムワン.md "wikilink")の雑誌「[CALCIO2002](https://ja.wikipedia.org/wiki/CALCIO2002 "wikilink")」（2011年3月号）に紹介された。チアリーダーの面々はホームスタジアムでの入場セレモニーやスタンドの応援だけにとどまらず、トリノの街角で選手と同じユニフォームとチームカラーの黒と白の大きい[ポンポン](../Page/ポンポン.md "wikilink")を振りかざしてのゲリラ的パフォーマンスを繰り広げるなどしている。セリエAのクラブではチアリーダーはこれまで登場したことがないことから、注目された。
 
 2010-11シーズン中盤以降の失速により、最終的に前年度と同じ7位となった。また、[ヨーロッパリーグではグループリーグ敗退](../Page/UEFAヨーロッパリーグ.md "wikilink")。デルネーリを解任し、クラブOBで[ACシエーナをセリエA昇格へ導いた](../Page/SSローブル・シエーナ.md "wikilink")[アントニオ・コンテ](../Page/アントニオ・コンテ.md "wikilink")を監督に招聘。
 
@@ -102,9 +102,9 @@
 
 2013-14シーズンは、2013年1月に獲得が内定していた[フェルナンド・ジョレンテ](../Page/フェルナンド・ジョレンテ.md "wikilink")や、デル・ピエロが着用していた｢10番｣を継ぐ[カルロス・テベス](../Page/カルロス・テベス.md "wikilink")、同じ街の[トリノFC](../Page/トリノFC.md "wikilink")生え抜きの[アンジェロ・オグボンナ](https://ja.wikipedia.org/wiki/アンジェロ・オグボンナ "wikilink")を獲得。3節にインテルとのイタリアダービーに引き分け、8節のフィオレンティーナ戦でも2-0から逆転負けし、当時首位で開幕10連勝のセリエA新記録を更新したローマとの勝ち点差が4となる。しかしローマがその後の4戦を続け様にドローで終えると間隙を縫って勝ちを積み重ね13節から再び首位に浮上。まだシーズンの3分の1しか消化していない時点でローマこそ勝ち点差が1だったが、ナポリに6、インテルに8、フィオレンティーナに10の勝ち点差をつけ、敗れたフィオレンティーナ戦以降12連勝。その中には2014年1月5日に行われた新年最初のセリエAにあたるローマとの頂上決戦も含まれ（3-0で快勝）、ホーム戦全勝でリーグ3連覇を達成し、公式に30回目の優勝を果たした。また、このシーズンにチームが積み上げた勝ち点「102」は、欧州主要リーグの最多勝ち点記録を更新した。その一方で[チャンピオンズリーグは](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2013-14 "wikilink")、勝ちを計算出来た筈の[FCコペンハーゲン](../Page/FCコペンハーゲン.md "wikilink")と[ガラタサライに引き分け](https://ja.wikipedia.org/wiki/ガラタサライSK_\(サッカー\) "wikilink")、アンチェロッティが就任したレアル・マドリードの敵地で敗れ3連敗とヨーロッパ戦線では躓き、FCコペンハーゲンのホームでやっと初勝利を挙げ、最終戦にあたる敵地の[ガラタサライホームでの悪天候による再試合といったハプニングもあり](https://ja.wikipedia.org/wiki/トルコ・テレコム・アリーナ "wikilink")、翌日に再開された試合では引き分けてもベスト16に入れた状況だった為当時勝ち点4でグループ3位、このままではグループリーグ3位となって[ヨーロッパリーグに回る為](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2013-14 "wikilink")、勝たなければならない状況で諦めない姿勢を見せたトルコの[ガラタサライの抵抗に遭い](https://ja.wikipedia.org/wiki/ガラタサライSK_\(サッカー\) "wikilink")、勝利への執念を見せなかったツケが[ヴェスレイ・スナイデル](../Page/ヴェスレイ・スナイデル.md "wikilink")の一発で1-0と沈む形で回り、グループリーグ3位で敗退。引き分け狙いの油断が招いた悲劇がイタリアでは記録的な強さを見せたシーズンの汚点を残す羽目になった。3位で敗退した事で回ってきた[ヨーロッパリーグは](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2013-14 "wikilink")、ベスト32からのスタート。[トラブゾンスポルには](../Page/トラブゾンスポル・クラブ_\(サッカー\).md "wikilink")2戦合計4-0と快勝し、ベスト16では同じイタリアのフィオレンティーナから失点が目立つようになり、フィオレンティーナ戦は2戦合計2-1、かつてリーグ7連覇を果たした[オリンピック・リヨン](https://ja.wikipedia.org/wiki/オリンピック・リヨン "wikilink")との準々決勝でも3-1で勝ち上がり、決勝がホームグラウンドのユヴェントス・スタジアムであった為、地元開催の決勝進出が後半戦の目標だったが準決勝で国内3冠を果たしポルトガルを牛耳った[ベンフィカと対戦し初戦の](../Page/SLベンフィカ.md "wikilink")2-1で敗れた試合を取り戻せず、ホームでスコアレスドローを演じてしまいベスト4で敗退となった。
 
-2014-15シーズンの夏の移籍市場においては、[アルバロ・モラタ](https://ja.wikipedia.org/wiki/アルバロ・モラタ "wikilink")や[パトリス・エブラ](https://ja.wikipedia.org/wiki/パトリス・エブラ "wikilink")、[ロベルト・ペレイラ](https://ja.wikipedia.org/wiki/ロベルト・ペレイラ "wikilink")らを獲得。しかし開幕前のプレシーズンキャンプ中、7月15日に監督のコンテが突然辞任。翌日、元ミラン監督である[マッシミリアーノ・アッレグリ](https://ja.wikipedia.org/wiki/マッシミリアーノ・アッレグリ "wikilink")の監督就任が決定した。このシーズンは4試合を残してリーグ戦4連覇を達成、[コッパ・イタリア](../Page/コッパ・イタリア.md "wikilink")では[ラツィオを延長戦の末](../Page/SSラツィオ.md "wikilink")2-1で下し、20年ぶりの10回目となるコッパ・イタリア制覇を果たした。[チャンピオンズリーグでは](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2014-15 "wikilink")、準決勝で前回チャンピオンの[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")を二試合合計3-2で下し12年ぶりの決勝進出を果たした。決勝では同じく2冠を達成したバルサとお互いに3冠を賭けて対戦したが、試合開始早々に失点し、追いつくも再び勝ち越され、結果的に3-1で敗れた。これにより歴代最多となる6度目の準優勝に終わった。
+2014-15シーズンの夏の移籍市場においては、[アルバロ・モラタ](https://ja.wikipedia.org/wiki/アルバロ・モラタ "wikilink")や[パトリス・エブラ](https://ja.wikipedia.org/wiki/パトリス・エブラ "wikilink")、[ロベルト・ペレイラ](https://ja.wikipedia.org/wiki/ロベルト・ペレイラ "wikilink")らを獲得。しかし開幕前のプレシーズンキャンプ中、7月15日に監督のコンテが突然辞任。翌日、元ミラン監督である[マッシミリアーノ・アッレグリ](https://ja.wikipedia.org/wiki/マッシミリアーノ・アッレグリ "wikilink")の監督就任が決定した。このシーズンは4試合を残してリーグ戦4連覇を達成、[コッパ・イタリア](../Page/コッパ・イタリア.md "wikilink")では[ラツィオを延長戦の末](../Page/SSラツィオ.md "wikilink")2-1で下し、20年ぶりの10回目となるコッパ・イタリア制覇を果たした。[チャンピオンズリーグでは](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2014-15 "wikilink")、準決勝で前回チャンピオンの[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")を2戦合計3-2で下し12年ぶりの決勝進出を果たした。決勝では同じく2冠を達成したバルサとお互いに3冠を賭けて対戦したが、試合開始早々に失点し、追いつくも再び勝ち越され、結果的に3-1で敗れた。これにより歴代最多となる6度目の準優勝に終わった。
 
-2015-16シーズン前にはテベス、ピルロ、ビダルといった主力に加え、ジョレンテやオグボンナを放出する一方、[パウロ・ディバラ](https://ja.wikipedia.org/wiki/パウロ・ディバラ "wikilink")、[マリオ・マンジュキッチ](https://ja.wikipedia.org/wiki/マリオ・マンジュキッチ "wikilink")、[サミ・ケディラ](https://ja.wikipedia.org/wiki/サミ・ケディラ "wikilink")、[アレックス・サンドロ](https://ja.wikipedia.org/wiki/アレックス・サンドロ・ロボ・シウバ "wikilink")、[フアン・クアドラード](https://ja.wikipedia.org/wiki/フアン・クアドラード "wikilink")、[シモーネ・ザザ](https://ja.wikipedia.org/wiki/シモーネ・ザザ "wikilink")、[ダニエレ・ルガーニ](https://ja.wikipedia.org/wiki/ダニエレ・ルガーニ "wikilink")、[エルナネスといった新戦力を獲得した](https://ja.wikipedia.org/wiki/アンデルソン・エルナネス・デ・カルヴァーリョ・アンドラーデ・リマ "wikilink")。[SSラツィオ](../Page/SSラツィオ.md "wikilink")との[スーペルコッパ・イタリアーナ](../Page/スーペルコッパ・イタリアーナ.md "wikilink")は制覇したものの、クラブ史上初の開幕からの2連敗や開幕からの10試合で3勝3分4敗という不振ぶりであった、2015年10月31日のトリノFCとの[トリノダービーからのクラブ新記録の](https://ja.wikipedia.org/wiki/デルビー・デッラ・モーレ "wikilink")15連勝で首位に浮上。その後1度の引き分けを挟むと9連勝。3試合を残して4月25日に優勝を決め、セリエA史上4チーム目となる5連覇を達成した。コッパ・イタリアでは決勝に勝ち進み、5月21日のACミランとの決勝では0-0で延長戦に入るも延長戦後半に途中出場のモラタがゴールを挙げ、1-0で勝利し連覇を達成した。これで2年連続の国内二冠を達成。またスーペルコッパ・イタリアーナを含めて史上初のイタリア国内三冠を達成した。 また、キャプテン・ブッフォンが2016年3月20日のトリノとのトリノダービーで1993-94シーズンに元イタリア代表GK[セバスティアーノ・ロッシ](https://ja.wikipedia.org/wiki/セバスティアーノ・ロッシ "wikilink")が記録した929分のセリエAにおける無失点記録を更新する「974分」の無失点記録を達成した。[UEFAチャンピオンズリーグでは](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2015-16 "wikilink")、ベスト16でバイエルンと対戦。ホームアウェー共に2-2、180分で合計4-4のスコアとなり延長戦にもつれこんだ。しかし、延長戦で2点を決められ敗退した。
+2015-16シーズン前にはテベス、ピルロ、ビダルといった主力に加え、ジョレンテやオグボンナを放出する一方、[パウロ・ディバラ](https://ja.wikipedia.org/wiki/パウロ・ディバラ "wikilink")、[マリオ・マンジュキッチ](https://ja.wikipedia.org/wiki/マリオ・マンジュキッチ "wikilink")、[サミ・ケディラ](https://ja.wikipedia.org/wiki/サミ・ケディラ "wikilink")、[アレックス・サンドロ](https://ja.wikipedia.org/wiki/アレックス・サンドロ・ロボ・シウバ "wikilink")、[フアン・クアドラード](https://ja.wikipedia.org/wiki/フアン・クアドラード "wikilink")、[シモーネ・ザザ](https://ja.wikipedia.org/wiki/シモーネ・ザザ "wikilink")、[ダニエレ・ルガーニ](https://ja.wikipedia.org/wiki/ダニエレ・ルガーニ "wikilink")、[エルナネスといった新戦力を獲得した](https://ja.wikipedia.org/wiki/アンデルソン・エルナネス・デ・カルヴァーリョ・アンドラーデ・リマ "wikilink")。[SSラツィオ](../Page/SSラツィオ.md "wikilink")との[スーペルコッパ・イタリアーナ](../Page/スーペルコッパ・イタリアーナ.md "wikilink")は制覇したものの、クラブ史上初の開幕からの2連敗や開幕からの10試合で3勝3分4敗という不振ぶりであった、2015年10月31日のトリノFCとの[トリノダービーからのクラブ新記録の](https://ja.wikipedia.org/wiki/デルビー・デッラ・モーレ "wikilink")15連勝で首位に浮上。その後1度の引き分けを挟むと9連勝。3試合を残して4月25日に優勝を決め、セリエA史上4チーム目となる5連覇を達成した。コッパ・イタリアでは決勝に勝ち進み、5月21日のACミランとの決勝では0-0で延長戦に入るも延長戦後半に途中出場のモラタがゴールを挙げ、1-0で勝利し連覇を達成した。これで2年連続の国内二冠を達成。またスーペルコッパ・イタリアーナを含めて史上初のイタリア国内三冠を達成した。また、キャプテン・ブッフォンが2016年3月20日のトリノとのトリノダービーで1993-94シーズンに元イタリア代表GK[セバスティアーノ・ロッシ](https://ja.wikipedia.org/wiki/セバスティアーノ・ロッシ "wikilink")が記録した929分のセリエAにおける無失点記録を更新する「974分」の無失点記録を達成した。[UEFAチャンピオンズリーグでは](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2015-16 "wikilink")、ベスト16でバイエルンと対戦。ホームアウェー共に2-2、180分で合計4-4のスコアとなり延長戦にもつれこんだ。しかし、延長戦で2点を決められ敗退した。
 
 2016-17シーズン前にはポグバを当時サッカー界史上最高額の移籍金である1億500万ユーロで[マンチェスター・ユナイテッド](https://ja.wikipedia.org/wiki/マンチェスター・ユナイテッド "wikilink")に売却し、モラタを古巣であるレアル・マドリードに買戻しされた一方、[ダニエウ・アウベス](https://ja.wikipedia.org/wiki/ダニエウ・アウベス "wikilink")をフリー、[メディ・ベナティア](https://ja.wikipedia.org/wiki/メディ・ベナティア "wikilink")をレンタルで獲得し、移籍市場閉鎖直前にクアドラードをレンタルの形で再獲得。さらにナポリから昨シーズンの得点王である[ゴンサロ・イグアイン](../Page/ゴンサロ・イグアイン.md "wikilink")をセリエA史上最高額の9000万ユーロで、[ASローマ](../Page/ASローマ.md "wikilink")から[ミラレム・ピャニッチ](https://ja.wikipedia.org/wiki/ミラレム・ピャニッチ "wikilink")を3200万ユーロで獲得。また夏には[マルコ・ピアツァ](https://ja.wikipedia.org/wiki/マルコ・ピアツァ "wikilink")を、冬にはリカルド・オルソリーニ、[マッティア・カルダーラを獲得した](https://ja.wikipedia.org/wiki/マッティア・カルダラ "wikilink")。2017年5月21日、セリエA史上初となるリーグ6連覇を達成。コッパ・イタリアでは準決勝でナポリとの第2戦を落としただけで決勝に勝ち進み、2017年5月17日のラツィオ戦で2-0の勝利。史上初となるコッパ・イタリア3連覇と3年連続の国内2冠を達成した。しかし最重要課題だった[UEFAチャンピオンズリーグ 2016-17 決勝ではスペイン王者でもあるレアル](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2016-17_決勝 "wikilink")・マドリードとの対戦になった。1-4で大敗しCL決勝では5連敗、通算7度目の準優勝となった。
 
@@ -112,7 +112,7 @@
 
 2018-19シーズン開幕前に、[ジャンルイジ・ブッフォン](../Page/ジャンルイジ・ブッフォン.md "wikilink")をはじめ、[ステファン・リヒトシュタイナー](https://ja.wikipedia.org/wiki/ステファン・リヒトシュタイナー "wikilink")、[クワドォー・アサモア](https://ja.wikipedia.org/wiki/クワドォー・アサモア "wikilink")、さらに[クラウディオ・マルキジオ](https://ja.wikipedia.org/wiki/クラウディオ・マルキジオ "wikilink")、[ゴンサロ・イグアイン](../Page/ゴンサロ・イグアイン.md "wikilink")といったユヴェントスのセリエA7連覇に貢献してきた選手が退団。一方、補強では7月11日に1億ユーロで2017年のバロンドーラーである[クリスティアーノ・ロナウド](../Page/クリスティアーノ・ロナウド.md "wikilink")を[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")から獲得し、世界を驚かせた。さらに、[マッティア・カルダーラとの実質トレードの形で](https://ja.wikipedia.org/wiki/マッティア・カルダラ "wikilink")[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")から[レオナルド・ボヌッチ](https://ja.wikipedia.org/wiki/レオナルド・ボヌッチ "wikilink")を出戻りの形で獲得。その他に[ジョアン・カンセロ](https://ja.wikipedia.org/wiki/ジョアン・カンセロ "wikilink")や[マッティア・ペリン](https://ja.wikipedia.org/wiki/マッティア・ペリン "wikilink")、[エムレ・ジャン](https://ja.wikipedia.org/wiki/エムレ・ジャン "wikilink")を獲得。リーグ戦では、開幕8連勝を記録し、第28節のジェノア戦で敗れるまで無敗を維持した。第33節のフィオレンティーナ戦に勝利し、セリエA優勝を決め、8連覇を達成した。[チャンピオンズリーグでは](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2018-19 "wikilink")、マンチェスター・ユナイテッド、バレンシア、ヤング・ボーイズと同組となったグループリーグを首位で突破した。決勝トーナメント・ラウンド16のアトレティコ・マドリード戦では、アウェーでの1stレグを0-2で落としたが、ホームでの2ndレグでロナウドがハットトリックを達成し3-0で勝利し、逆転で突破を果たした。しかし、アヤックスとの準々決勝は2戦合計2-3で敗退した。コッパ・イタリアは準々決勝でアタランタに敗れて5連覇を逃した。シーズン終了後、アッレグリ監督が退任した。
 
-2019-20シーズン開幕前に、前チェルシー監督の[マウリツィオ・サッリ](https://ja.wikipedia.org/wiki/マウリツィオ・サッリ "wikilink")が監督に就任した。夏の移籍市場では、クラブのレジェンドとも言えるブッフォンが[パリ・サンジェルマンFC](https://ja.wikipedia.org/wiki/パリ・サンジェルマンFC "wikilink")から電撃復帰した他、[アーロン・ラムジー](../Page/アーロン・ラムジー.md "wikilink")、[アドリアン・ラビオ](https://ja.wikipedia.org/wiki/アドリアン・ラビオ "wikilink")をいずれもフリーで獲得。また昨シーズンCLベスト4進出と大躍進した[アヤックスから](../Page/アヤックス・アムステルダム.md "wikilink")[マタイス・デ・リフト](https://ja.wikipedia.org/wiki/マタイス・デ・リフト "wikilink")を、[サッスオーロからも](../Page/USサッスオーロ・カルチョ.md "wikilink")[メリフ・デミラル](https://ja.wikipedia.org/wiki/メリフ・デミラル "wikilink")を獲得してDF陣の若返りに成功。さらにジョアン・カンセロとのトレードでマンチェスター・シティから[ダニーロを獲得した他](https://ja.wikipedia.org/wiki/ダニーロ・ルイス・ダ・シウバ "wikilink")、買取オプションが行使されなかったゴンザロ・イグアインも復帰した。ところが、イタリアで猛威を振るう[COVID-19](https://ja.wikipedia.org/wiki/COVID-19 "wikilink")の世界的大流行はセリエAでも直撃し、[ダニエレ・ルガーニ](https://ja.wikipedia.org/wiki/ダニエレ・ルガーニ "wikilink")が感染したことを発表。活動中止を余儀なくされた。
+2019-20シーズン開幕前に、前チェルシー監督の[マウリツィオ・サッリ](https://ja.wikipedia.org/wiki/マウリツィオ・サッリ "wikilink")が監督に就任した。夏の移籍市場では、クラブのレジェンドとも言えるブッフォンが[パリ・サンジェルマンFC](https://ja.wikipedia.org/wiki/パリ・サンジェルマンFC "wikilink")から電撃復帰した他、[アーロン・ラムジー](../Page/アーロン・ラムジー.md "wikilink")、[アドリアン・ラビオ](https://ja.wikipedia.org/wiki/アドリアン・ラビオ "wikilink")をいずれもフリーで獲得。また昨シーズンCLベスト4進出と大躍進した[アヤックスから](../Page/アヤックス・アムステルダム.md "wikilink")[マタイス・デ・リフト](https://ja.wikipedia.org/wiki/マタイス・デ・リフト "wikilink")を、[サッスオーロからも](../Page/USサッスオーロ・カルチョ.md "wikilink")[メリフ・デミラル](https://ja.wikipedia.org/wiki/メリフ・デミラル "wikilink")を獲得してDF陣の若返りに成功。さらにジョアン・カンセロとのトレードでマンチェスター・シティから[ダニーロを獲得した他](https://ja.wikipedia.org/wiki/ダニーロ・ルイス・ダ・シウバ "wikilink")、買取オプションが行使されなかったゴンザロ・イグアインも復帰した。ところが、イタリアで猛威を振るう[COVID-19](https://ja.wikipedia.org/wiki/COVID-19 "wikilink")の世界的大流行はセリエAでも直撃し、[ダニエレ・ルガーニ](https://ja.wikipedia.org/wiki/ダニエレ・ルガーニ "wikilink")が感染したことを発表。活動中止を余儀なくされた。セリエAでは優勝を果たし、9連覇を達成したものの、コッパ・イタリアでは、決勝でナポリに敗れて準優勝となり、[UEFAチャンピオンズリーグでも決勝トーナメントには進出したが](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2019-20 "wikilink")、ラウンド16でオリンピック・リヨンに敗れて敗退した\[6\]。シーズン終了後、サッリ監督を解任した\[7\]。
 
 ## タイトル
 
@@ -120,8 +120,8 @@
 
 ### 国内タイトル
 
-  - **[セリエA](../Page/セリエA_\(サッカー\).md "wikilink")：35回** [Star\*.svg](https://ja.wikipedia.org/wiki/File:Star*.svg "fig:Star*.svg")[Star\*.svg](https://ja.wikipedia.org/wiki/File:Star*.svg "fig:Star*.svg")[Star\*.svg](https://ja.wikipedia.org/wiki/File:Star*.svg "fig:Star*.svg")[Scudetto.svg](https://ja.wikipedia.org/wiki/File:Scudetto.svg "fig:Scudetto.svg")[Scudetto.svg](https://ja.wikipedia.org/wiki/File:Scudetto.svg "fig:Scudetto.svg")[Scudetto.svg](https://ja.wikipedia.org/wiki/File:Scudetto.svg "fig:Scudetto.svg")[Scudetto.svg](https://ja.wikipedia.org/wiki/File:Scudetto.svg "fig:Scudetto.svg")
-      - [1905](https://ja.wikipedia.org/wiki/:it:Prima_Categoria_1905 "wikilink"), [1925-26](https://ja.wikipedia.org/wiki/:it:Prima_Divisione_1925-1926 "wikilink"), [1930-31](https://ja.wikipedia.org/wiki/:it:Serie_A_1930-1931 "wikilink"), [1931-32](https://ja.wikipedia.org/wiki/:it:Serie_A_1931-32 "wikilink"), [1932-33](https://ja.wikipedia.org/wiki/:it:Serie_A_1932-33 "wikilink"), [1933-34](https://ja.wikipedia.org/wiki/:it:Serie_A_1933-34 "wikilink"), [1934-35](https://ja.wikipedia.org/wiki/:it:Serie_A_1934-35 "wikilink"), [1949-50](https://ja.wikipedia.org/wiki/:it:Serie_A_1949-50 "wikilink"), [1951-52](https://ja.wikipedia.org/wiki/:it:Serie_A_1951-52 "wikilink"), [1957-58](https://ja.wikipedia.org/wiki/:it:Serie_A_1957-58 "wikilink"), [1959-60](https://ja.wikipedia.org/wiki/:it:Serie_A_1959-60 "wikilink"), [1960-61](https://ja.wikipedia.org/wiki/:it:Serie_A_1960-61 "wikilink"), [1966-67](https://ja.wikipedia.org/wiki/:it:Serie_A_1966-67 "wikilink"), [1971-72](https://ja.wikipedia.org/wiki/:it:Serie_A_1971-72 "wikilink"), [1972-73](https://ja.wikipedia.org/wiki/:it:Serie_A_1972-73 "wikilink"), [1974-75](https://ja.wikipedia.org/wiki/:it:Serie_A_1974-75 "wikilink"), [1976-77](https://ja.wikipedia.org/wiki/:it:Serie_A_1976-77 "wikilink"), [1977-78](https://ja.wikipedia.org/wiki/:it:Serie_A_1977-78 "wikilink"), [1980-81](https://ja.wikipedia.org/wiki/:it:Serie_A_1980-81 "wikilink"), [1981-82](https://ja.wikipedia.org/wiki/:it:Serie_A_1981-82 "wikilink"), [1983-84](https://ja.wikipedia.org/wiki/:it:Serie_A_1983-84 "wikilink"), [1985-86](https://ja.wikipedia.org/wiki/:it:Serie_A_1985-86 "wikilink"), [1994-95](https://ja.wikipedia.org/wiki/:it:Serie_A_1994-95 "wikilink"), [1996-97](https://ja.wikipedia.org/wiki/:it:Serie_A_1996-97 "wikilink"), [1997-98](https://ja.wikipedia.org/wiki/:it:Serie_A_1997-98 "wikilink"), [2001-02](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2001-2002 "wikilink"), [2002-03](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2002-2003 "wikilink"), [2011-12](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2011-2012 "wikilink"), [2012-13](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2012-2013 "wikilink"), [2013-14](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2013-2014 "wikilink"), [2014-15](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2014-2015 "wikilink"), [2015-16](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2015-2016 "wikilink"), [2016-17](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2016-2017 "wikilink"), [2017-18](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2017-2018 "wikilink"), [2018-19](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2018-2019 "wikilink")（[カルチョ・スキャンダル](../Page/カルチョ・スキャンダル.md "wikilink")により[2004-05](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2004-2005 "wikilink"), [2005-06のスクデット剥奪](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2005-2006 "wikilink")）
+  - **[セリエA](../Page/セリエA_\(サッカー\).md "wikilink")：36回** [Star\*.svg](https://ja.wikipedia.org/wiki/File:Star*.svg "fig:Star*.svg")[Star\*.svg](https://ja.wikipedia.org/wiki/File:Star*.svg "fig:Star*.svg")[Star\*.svg](https://ja.wikipedia.org/wiki/File:Star*.svg "fig:Star*.svg")[Scudetto.svg](https://ja.wikipedia.org/wiki/File:Scudetto.svg "fig:Scudetto.svg")[Scudetto.svg](https://ja.wikipedia.org/wiki/File:Scudetto.svg "fig:Scudetto.svg")[Scudetto.svg](https://ja.wikipedia.org/wiki/File:Scudetto.svg "fig:Scudetto.svg")[Scudetto.svg](https://ja.wikipedia.org/wiki/File:Scudetto.svg "fig:Scudetto.svg")[Scudetto.svg](https://ja.wikipedia.org/wiki/File:Scudetto.svg "fig:Scudetto.svg")[Scudetto.svg](https://ja.wikipedia.org/wiki/File:Scudetto.svg "fig:Scudetto.svg")
+      - [1905](https://ja.wikipedia.org/wiki/:it:Prima_Categoria_1905 "wikilink"), [1925-26](https://ja.wikipedia.org/wiki/:it:Prima_Divisione_1925-1926 "wikilink"), [1930-31](https://ja.wikipedia.org/wiki/:it:Serie_A_1930-1931 "wikilink"), [1931-32](https://ja.wikipedia.org/wiki/:it:Serie_A_1931-32 "wikilink"), [1932-33](https://ja.wikipedia.org/wiki/:it:Serie_A_1932-33 "wikilink"), [1933-34](https://ja.wikipedia.org/wiki/:it:Serie_A_1933-34 "wikilink"), [1934-35](https://ja.wikipedia.org/wiki/:it:Serie_A_1934-35 "wikilink"), [1949-50](https://ja.wikipedia.org/wiki/:it:Serie_A_1949-50 "wikilink"), [1951-52](https://ja.wikipedia.org/wiki/:it:Serie_A_1951-52 "wikilink"), [1957-58](https://ja.wikipedia.org/wiki/:it:Serie_A_1957-58 "wikilink"), [1959-60](https://ja.wikipedia.org/wiki/:it:Serie_A_1959-60 "wikilink"), [1960-61](https://ja.wikipedia.org/wiki/:it:Serie_A_1960-61 "wikilink"), [1966-67](https://ja.wikipedia.org/wiki/:it:Serie_A_1966-67 "wikilink"), [1971-72](https://ja.wikipedia.org/wiki/:it:Serie_A_1971-72 "wikilink"), [1972-73](https://ja.wikipedia.org/wiki/:it:Serie_A_1972-73 "wikilink"), [1974-75](https://ja.wikipedia.org/wiki/:it:Serie_A_1974-75 "wikilink"), [1976-77](https://ja.wikipedia.org/wiki/:it:Serie_A_1976-77 "wikilink"), [1977-78](https://ja.wikipedia.org/wiki/:it:Serie_A_1977-78 "wikilink"), [1980-81](https://ja.wikipedia.org/wiki/:it:Serie_A_1980-81 "wikilink"), [1981-82](https://ja.wikipedia.org/wiki/:it:Serie_A_1981-82 "wikilink"), [1983-84](https://ja.wikipedia.org/wiki/:it:Serie_A_1983-84 "wikilink"), [1985-86](https://ja.wikipedia.org/wiki/:it:Serie_A_1985-86 "wikilink"), [1994-95](https://ja.wikipedia.org/wiki/:it:Serie_A_1994-95 "wikilink"), [1996-97](https://ja.wikipedia.org/wiki/:it:Serie_A_1996-97 "wikilink"), [1997-98](https://ja.wikipedia.org/wiki/:it:Serie_A_1997-98 "wikilink"), [2001-02](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2001-2002 "wikilink"), [2002-03](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2002-2003 "wikilink"), [2011-12](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2011-2012 "wikilink"), [2012-13](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2012-2013 "wikilink"), [2013-14](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2013-2014 "wikilink"), [2014-15](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2014-2015 "wikilink"), [2015-16](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2015-2016 "wikilink"), [2016-17](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2016-2017 "wikilink"), [2017-18](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2017-2018 "wikilink"), [2018-19](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2018-2019 "wikilink"), [2019-20](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2019-2020 "wikilink")（[カルチョ・スキャンダル](../Page/カルチョ・スキャンダル.md "wikilink")により[2004-05](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2004-2005 "wikilink"), [2005-06のスクデット剥奪](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2005-2006 "wikilink")）
 
 <!-- end list -->
 
@@ -130,7 +130,7 @@
 
 <!-- end list -->
 
-  - **[コッパ・イタリア](../Page/コッパ・イタリア.md "wikilink")：13回** [Star_empty.svg](https://ja.wikipedia.org/wiki/File:Star_empty.svg "fig:Star_empty.svg")[Coccarda_Coppa_Italia.svg](https://ja.wikipedia.org/wiki/File:Coccarda_Coppa_Italia.svg "fig:Coccarda_Coppa_Italia.svg")[Coccarda_Coppa_Italia.svg](https://ja.wikipedia.org/wiki/File:Coccarda_Coppa_Italia.svg "fig:Coccarda_Coppa_Italia.svg")
+  - **[コッパ・イタリア](../Page/コッパ・イタリア.md "wikilink")：13回** [Star_empty.svg](https://ja.wikipedia.org/wiki/File:Star_empty.svg "fig:Star_empty.svg")[Coccarda_Coppa_Italia.svg](https://ja.wikipedia.org/wiki/File:Coccarda_Coppa_Italia.svg "fig:Coccarda_Coppa_Italia.svg")[Coccarda_Coppa_Italia.svg](https://ja.wikipedia.org/wiki/File:Coccarda_Coppa_Italia.svg "fig:Coccarda_Coppa_Italia.svg")[Coccarda_Coppa_Italia.svg](https://ja.wikipedia.org/wiki/File:Coccarda_Coppa_Italia.svg "fig:Coccarda_Coppa_Italia.svg")
       - [1937-38](https://ja.wikipedia.org/wiki/:it:Coppa_Italia_1937-1938 "wikilink"), [1941-42](https://ja.wikipedia.org/wiki/:it:Coppa_Italia_1941-1942 "wikilink"), [1958-59](https://ja.wikipedia.org/wiki/:it:Coppa_Italia_1958-1959 "wikilink"), [1959-60](https://ja.wikipedia.org/wiki/:it:Coppa_Italia_1959-1960 "wikilink"), [1964-65](https://ja.wikipedia.org/wiki/:it:Coppa_Italia_1964-1965 "wikilink"), [1978-79](https://ja.wikipedia.org/wiki/:it:Coppa_Italia_1978-1979 "wikilink"), [1982-83](https://ja.wikipedia.org/wiki/:it:Coppa_Italia_1982-1983 "wikilink"), [1989-90](https://ja.wikipedia.org/wiki/:it:Coppa_Italia_1989-1990 "wikilink"), [1994-95](https://ja.wikipedia.org/wiki/:it:Coppa_Italia_1994-1995 "wikilink"), [2014-15](https://ja.wikipedia.org/wiki/:it:Coppa_Italia_2014-2015 "wikilink"), [2015-16](https://ja.wikipedia.org/wiki/:it:Coppa_Italia_2015-2016 "wikilink"), [2016-17](https://ja.wikipedia.org/wiki/:it:Coppa_Italia_2016-17 "wikilink"), [2017-18](https://ja.wikipedia.org/wiki/:it:Coppa_Italia_2017-18 "wikilink")
 
 <!-- end list -->
@@ -175,14 +175,14 @@
 <tr class="header">
 <th><p>シーズン</p></th>
 <th><p>カテゴリ</p></th>
-<th><p>順位</p></th>
-<th><p>勝点</p></th>
-<th><p>試合</p></th>
+<th><p>試</p></th>
 <th><p>勝</p></th>
 <th><p>分</p></th>
 <th><p>負</p></th>
 <th><p>得</p></th>
 <th><p>失</p></th>
+<th><p>点</p></th>
+<th><p>順位</p></th>
 <th><p><a href="../Page/コッパ・イタリア.md" title="wikilink">コッパ・イタリア</a></p></th>
 <th><p><a href="../Page/UEFAチャンピオンズリーグ.md" title="wikilink">UEFACL</a></p></th>
 <th><p><a href="../Page/UEFAヨーロッパリーグ.md" title="wikilink">UEFAEL</a></p></th>
@@ -191,726 +191,726 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2019-2020" title="wikilink">2019-20</a></p></td>
-<td><p>セリエA</p></td>
-<td><p>bgcolor=""|<strong>-</strong></p></td>
-<td><p>63</p></td>
-<td><p>26</p></td>
-<td><p>20</p></td>
-<td><p>3</p></td>
-<td><p>3</p></td>
+<td><p>1976-77</p></td>
+<td><p><a href="../Page/セリエA_(サッカー).md" title="wikilink">セリエA</a></p></td>
+<td><p>30</p></td>
+<td><p>23</p></td>
+<td><p>5</p></td>
+<td><p>2</p></td>
 <td><p>50</p></td>
-<td><p>24</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マウリツィオ・サッリ" title="wikilink">マウリツィオ・サッリ</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2018-2019" title="wikilink">2018-19</a></p></td>
-<td><p><strong>優勝</strong></p></td>
-<td><p>90</p></td>
-<td><p>38</p></td>
-<td><p>28</p></td>
-<td><p>6</p></td>
-<td><p>4</p></td>
-<td><p>70</p></td>
-<td><p>30</p></td>
-<td><p>準々決勝敗退</p></td>
-<td><p>ベスト8</p></td>
-<td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マッシミリアーノ・アッレグリ" title="wikilink">マッシミリアーノ・アッレグリ</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2017-2018" title="wikilink">2017-18</a></p></td>
-<td><p><strong>優勝</strong></p></td>
-<td><p>95</p></td>
-<td><p>38</p></td>
-<td><p>30</p></td>
-<td><p>5</p></td>
-<td><p>3</p></td>
-<td><p>86</p></td>
-<td><p>24</p></td>
-<td><p><strong>優勝</strong></p></td>
-<td><p>ベスト8</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2016-2017" title="wikilink">2016-17</a></p></td>
-<td><p><strong>優勝</strong></p></td>
-<td><p>91</p></td>
-<td><p>38</p></td>
-<td><p>29</p></td>
-<td><p>4</p></td>
-<td><p>5</p></td>
-<td><p>77</p></td>
-<td><p>27</p></td>
-<td><p><strong>優勝</strong></p></td>
-<td><p>準優勝</p></td>
-<td><p>|</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2015-2016" title="wikilink">2015-16</a></p></td>
-<td><p><strong>優勝</strong></p></td>
-<td><p>91</p></td>
-<td><p>38</p></td>
-<td><p>29</p></td>
-<td><p>4</p></td>
-<td><p>5</p></td>
-<td><p>75</p></td>
 <td><p>20</p></td>
-<td><p><strong>優勝</strong></p></td>
-<td><p>ベスト16</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2014-2015" title="wikilink">2014-15</a></p></td>
-<td><p><strong>優勝</strong></p></td>
-<td><p>87</p></td>
-<td><p>38</p></td>
-<td><p>26</p></td>
-<td><p>9</p></td>
-<td><p>3</p></td>
-<td><p>72</p></td>
-<td><p>24</p></td>
-<td><p><strong>優勝</strong></p></td>
-<td><p>準優勝</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2013-2014" title="wikilink">2013-14</a></p></td>
-<td><p><strong>優勝</strong></p></td>
-<td><p>102</p></td>
-<td><p>38</p></td>
-<td><p>33</p></td>
-<td><p>3</p></td>
-<td><p>2</p></td>
-<td><p>80</p></td>
-<td><p>23</p></td>
-<td><p>準々決勝敗退</p></td>
-<td><p>グループリーグ敗退</p></td>
-<td><p>ベスト4</p></td>
-<td><p><a href="../Page/アントニオ・コンテ.md" title="wikilink">アントニオ・コンテ</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2012-2013" title="wikilink">2012-13</a></p></td>
-<td><p><strong>優勝</strong></p></td>
-<td><p>87</p></td>
-<td><p>38</p></td>
-<td><p>27</p></td>
-<td><p>6</p></td>
-<td><p>5</p></td>
-<td><p>71</p></td>
-<td><p>24</p></td>
-<td><p>準決勝敗退</p></td>
-<td><p>ベスト8</p></td>
-<td><p>|</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2011-2012" title="wikilink">2011-12</a></p></td>
-<td><p><strong>優勝</strong></p></td>
-<td><p>84</p></td>
-<td><p>38</p></td>
-<td><p>23</p></td>
-<td><p>15</p></td>
-<td><p>0</p></td>
-<td><p>68</p></td>
-<td><p>20</p></td>
-<td><p>準優勝</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2010-2011" title="wikilink">2010-11</a></p></td>
-<td><p>|7位</p></td>
-<td><p>58</p></td>
-<td><p>38</p></td>
-<td><p>15</p></td>
-<td><p>13</p></td>
-<td><p>10</p></td>
-<td><p>57</p></td>
-<td><p>47</p></td>
-<td><p>準々決勝敗退</p></td>
-<td></td>
-<td><p>グループリーグ敗退</p></td>
-<td><p><a href="../Page/ルイジ・デルネーリ.md" title="wikilink">ルイジ・デルネーリ</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2009-2010" title="wikilink">2009-10</a></p></td>
-<td><p>|7位</p></td>
-<td><p>55</p></td>
-<td><p>38</p></td>
-<td><p>16</p></td>
-<td><p>7</p></td>
-<td><p>15</p></td>
-<td><p>55</p></td>
-<td><p>56</p></td>
-<td><p>準々決勝敗退</p></td>
-<td><p>グループリーグ敗退</p></td>
-<td><p>ベスト16</p></td>
-<td><p>チロ・フェラーラ<br />
-→<a href="https://ja.wikipedia.org/wiki/アルベルト・ザッケローニ" title="wikilink">アルベルト・ザッケローニ</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2008-2009" title="wikilink">2008-09</a></p></td>
-<td><p>2位</p></td>
-<td><p>74</p></td>
-<td><p>38</p></td>
-<td><p>21</p></td>
-<td><p>11</p></td>
-<td><p>6</p></td>
-<td><p>69</p></td>
-<td><p>37</p></td>
-<td><p>準決勝敗退</p></td>
-<td><p>ベスト16</p></td>
-<td></td>
-<td><p>クラウディオ・ラニエリ<br />
-→<a href="../Page/チロ・フェラーラ.md" title="wikilink">チロ・フェラーラ</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2007-2008" title="wikilink">2007-08</a></p></td>
-<td><p>3位</p></td>
-<td><p>72</p></td>
-<td><p>38</p></td>
-<td><p>20</p></td>
-<td><p>12</p></td>
-<td><p>6</p></td>
-<td><p>72</p></td>
-<td><p>37</p></td>
-<td><p>準々決勝敗退</p></td>
-<td></td>
-<td></td>
-<td><p><a href="../Page/クラウディオ・ラニエリ.md" title="wikilink">クラウディオ・ラニエリ</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2006-07</p></td>
-<td><p>セリエB</p></td>
-<td><p>1位</p></td>
-<td><p>85</p></td>
-<td><p>42</p></td>
-<td><p>28</p></td>
-<td><p>10</p></td>
-<td><p>4</p></td>
-<td><p>83</p></td>
-<td><p>30</p></td>
-<td><p>3回戦敗退</p></td>
-<td></td>
-<td></td>
-<td><p><a href="../Page/ディディエ・デシャン.md" title="wikilink">ディディエ・デシャン</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2005-2006" title="wikilink">2005-06</a></p></td>
-<td><p>セリエA</p></td>
-<td><p><del>優勝</del>→20位[6]</p></td>
-<td><p>0</p></td>
-<td><p>38</p></td>
-<td><p>27</p></td>
-<td><p>10</p></td>
-<td><p>1</p></td>
-<td><p>71</p></td>
-<td><p>24</p></td>
-<td><p>準々決勝敗退</p></td>
-<td><p>ベスト8</p></td>
-<td></td>
-<td><p><a href="../Page/ファビオ・カペッロ.md" title="wikilink">ファビオ・カペッロ</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2004-2005" title="wikilink">2004-05</a></p></td>
-<td><p><del>優勝</del>[7]</p></td>
-<td><p>86</p></td>
-<td><p>38</p></td>
-<td><p>26</p></td>
-<td><p>8</p></td>
-<td><p>4</p></td>
-<td><p>67</p></td>
-<td><p>27</p></td>
-<td><p>ベスト16</p></td>
-<td><p>ベスト8</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2003-2004" title="wikilink">2003-04</a></p></td>
-<td><p>3位</p></td>
-<td><p>69</p></td>
-<td><p>34</p></td>
-<td><p>21</p></td>
-<td><p>6</p></td>
-<td><p>7</p></td>
-<td><p>67</p></td>
-<td><p>42</p></td>
-<td><p>準優勝</p></td>
-<td><p>ベスト16</p></td>
-<td></td>
-<td><p>マルチェロ・リッピ</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2002-2003" title="wikilink">2002-03</a></p></td>
-<td><p><strong>優勝</strong></p></td>
-<td><p>72</p></td>
-<td><p>34</p></td>
-<td><p>21</p></td>
-<td><p>9</p></td>
-<td><p>4</p></td>
-<td><p>64</p></td>
-<td><p>29</p></td>
-<td><p>準々決勝敗退</p></td>
-<td><p>準優勝</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2001-2002" title="wikilink">2001-02</a></p></td>
-<td><p><strong>優勝</strong></p></td>
-<td><p>71</p></td>
-<td><p>34</p></td>
-<td><p>20</p></td>
-<td><p>11</p></td>
-<td><p>3</p></td>
-<td><p>64</p></td>
-<td><p>23</p></td>
-<td><p>準優勝</p></td>
-<td><p>2次リーグ敗退</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2000-2001" title="wikilink">2000-01</a></p></td>
-<td><p>2位</p></td>
-<td><p>73</p></td>
-<td><p>34</p></td>
-<td><p>21</p></td>
-<td><p>11</p></td>
-<td><p>3</p></td>
-<td><p>61</p></td>
-<td><p>27</p></td>
-<td><p>ベスト16</p></td>
-<td><p>1次リーグ敗退</p></td>
-<td></td>
-<td><p><a href="../Page/カルロ・アンチェロッティ.md" title="wikilink">カルロ・アンチェロッティ</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_1999-2000" title="wikilink">1999-00</a></p></td>
-<td><p>2位</p></td>
-<td><p>71</p></td>
-<td><p>34</p></td>
-<td><p>21</p></td>
-<td><p>8</p></td>
-<td><p>5</p></td>
-<td><p>46</p></td>
-<td><p>20</p></td>
-<td><p>準々決勝敗退</p></td>
-<td></td>
-<td><p>ベスト16</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_1998-1999" title="wikilink">1998-99</a></p></td>
-<td><p>6位</p></td>
-<td><p>54</p></td>
-<td><p>34</p></td>
-<td><p>15</p></td>
-<td><p>9</p></td>
-<td><p>10</p></td>
-<td><p>42</p></td>
-<td><p>36</p></td>
-<td><p>準々決勝敗退</p></td>
-<td><p>ベスト4</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1997-98</p></td>
-<td><p><strong>優勝</strong></p></td>
-<td><p>74</p></td>
-<td><p>34</p></td>
-<td><p>21</p></td>
-<td><p>11</p></td>
-<td><p>2</p></td>
-<td><p>67</p></td>
-<td><p>28</p></td>
-<td><p>準決勝敗退</p></td>
-<td><p>準優勝</p></td>
-<td></td>
-<td><p><a href="../Page/マルチェロ・リッピ.md" title="wikilink">マルチェロ・リッピ</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1996-97</p></td>
-<td><p><strong>優勝</strong></p></td>
-<td><p>65</p></td>
-<td><p>34</p></td>
-<td><p>17</p></td>
-<td><p>14</p></td>
-<td><p>3</p></td>
 <td><p>51</p></td>
-<td><p>24</p></td>
-<td><p>準々決勝敗退</p></td>
-<td><p>準優勝</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1995-96</p></td>
-<td><p>2位</p></td>
-<td><p>65</p></td>
-<td><p>34</p></td>
-<td><p>19</p></td>
-<td><p>8</p></td>
-<td><p>7</p></td>
-<td><p>58</p></td>
-<td><p>35</p></td>
-<td><p>ベスト16</p></td>
-<td><p><strong>優勝</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1994-95</p></td>
-<td><p><strong>優勝</strong></p></td>
-<td><p>73</p></td>
-<td><p>34</p></td>
-<td><p>23</p></td>
-<td><p>4</p></td>
-<td><p>7</p></td>
-<td><p>59</p></td>
-<td><p>32</p></td>
-<td><p><strong>優勝</strong></p></td>
-<td></td>
-<td><p>準優勝</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1993-94</p></td>
-<td><p>2位</p></td>
-<td><p>47</p></td>
-<td><p>34</p></td>
-<td><p>17</p></td>
-<td><p>13</p></td>
-<td><p>4</p></td>
-<td><p>58</p></td>
-<td><p>25</p></td>
+<td><p><strong>1位</strong></p></td>
 <td><p>2回戦敗退</p></td>
 <td></td>
-<td><p>ベスト8</p></td>
-<td><p>ジョバンニ・トラパットーニ</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1992-93</p></td>
-<td><p>4位</p></td>
-<td><p>39</p></td>
-<td><p>34</p></td>
-<td><p>15</p></td>
-<td><p>9</p></td>
-<td><p>10</p></td>
-<td><p>59</p></td>
-<td><p>47</p></td>
-<td><p>準決勝敗退</p></td>
-<td></td>
 <td><p><strong>優勝</strong></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1991-92</p></td>
-<td><p>2位</p></td>
-<td><p>48</p></td>
-<td><p>34</p></td>
-<td><p>18</p></td>
-<td><p>12</p></td>
-<td><p>4</p></td>
-<td><p>45</p></td>
-<td><p>22</p></td>
-<td><p>準優勝</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1990-91</p></td>
-<td><p>7位</p></td>
-<td><p>37</p></td>
-<td><p>34</p></td>
-<td><p>13</p></td>
-<td><p>11</p></td>
-<td><p>10</p></td>
-<td><p>45</p></td>
-<td><p>32</p></td>
-<td><p>準々決勝敗退</p></td>
-<td></td>
-<td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルイジ・マイフレディ" title="wikilink">ルイジ・マイフレディ</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1989-90</p></td>
-<td><p>4位</p></td>
-<td><p>44</p></td>
-<td><p>34</p></td>
-<td><p>15</p></td>
-<td><p>14</p></td>
-<td><p>5</p></td>
-<td><p>56</p></td>
-<td><p>36</p></td>
-<td><p><strong>優勝</strong></p></td>
-<td></td>
-<td><p><strong>優勝</strong></p></td>
-<td><p><a href="../Page/ディノ・ゾフ.md" title="wikilink">ディノ・ゾフ</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1988-89</p></td>
-<td><p>4位</p></td>
-<td><p>43</p></td>
-<td><p>34</p></td>
-<td><p>15</p></td>
-<td><p>13</p></td>
-<td><p>6</p></td>
-<td><p>51</p></td>
-<td><p>36</p></td>
-<td><p>2回戦敗退</p></td>
-<td></td>
-<td><p>ベスト8</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1987-88</p></td>
-<td><p>6位</p></td>
-<td><p>31</p></td>
-<td><p>30</p></td>
-<td><p>11</p></td>
-<td><p>9</p></td>
-<td><p>10</p></td>
-<td><p>35</p></td>
-<td><p>30</p></td>
-<td><p>準決勝敗退</p></td>
-<td></td>
-<td><p>ベスト32</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リノ・マルケージ" title="wikilink">リノ・マルケージ</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1986-87</p></td>
-<td><p>2位</p></td>
-<td><p>39</p></td>
-<td><p>30</p></td>
-<td><p>14</p></td>
-<td><p>11</p></td>
-<td><p>5</p></td>
-<td><p>42</p></td>
-<td><p>27</p></td>
-<td><p>準々決勝敗退</p></td>
-<td><p>ベスト16</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1985-86</p></td>
-<td><p><strong>優勝</strong></p></td>
-<td><p>45</p></td>
-<td><p>30</p></td>
-<td><p>18</p></td>
-<td><p>9</p></td>
-<td><p>3</p></td>
-<td><p>43</p></td>
-<td><p>17</p></td>
-<td><p>ベスト16</p></td>
-<td><p>ベスト8</p></td>
-<td></td>
 <td><p><a href="../Page/ジョバンニ・トラパットーニ.md" title="wikilink">ジョバンニ・トラパットーニ</a></p></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p>1984-85</p></td>
-<td><p>5位</p></td>
-<td><p>36</p></td>
-<td><p>30</p></td>
-<td><p>11</p></td>
-<td><p>14</p></td>
-<td><p>5</p></td>
-<td><p>48</p></td>
-<td><p>33</p></td>
-<td><p>準々決勝敗退</p></td>
-<td><p><strong>優勝</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1983-84</p></td>
-<td><p><strong>優勝</strong></p></td>
-<td><p>43</p></td>
-<td><p>30</p></td>
-<td><p>17</p></td>
-<td><p>9</p></td>
-<td><p>4</p></td>
-<td><p>57</p></td>
-<td><p>29</p></td>
-<td><p>ベスト16</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1982-83</p></td>
-<td><p>2位</p></td>
-<td><p>39</p></td>
+<td><p>1977-78</p></td>
+<td><p>セリエA</p></td>
 <td><p>30</p></td>
 <td><p>15</p></td>
-<td><p>9</p></td>
-<td><p>6</p></td>
-<td><p>49</p></td>
-<td><p>26</p></td>
-<td><p><strong>優勝</strong></p></td>
-<td><p>準優勝</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1981-82</p></td>
-<td><p><strong>優勝</strong></p></td>
-<td><p>46</p></td>
-<td><p>30</p></td>
-<td><p>19</p></td>
-<td><p>8</p></td>
-<td><p>3</p></td>
-<td><p>48</p></td>
 <td><p>14</p></td>
-<td><p>1回戦敗退</p></td>
-<td><p>ベスト16</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1980-81</p></td>
-<td><p><strong>優勝</strong></p></td>
+<td><p>1</p></td>
+<td><p>46</p></td>
+<td><p>17</p></td>
 <td><p>44</p></td>
-<td><p>30</p></td>
-<td><p>17</p></td>
-<td><p>10</p></td>
-<td><p>3</p></td>
-<td><p>46</p></td>
-<td><p>15</p></td>
-<td><p>準決勝敗退</p></td>
-<td></td>
+<td><p><strong>1位</strong></p></td>
 <td><p>2回戦敗退</p></td>
+<td><p>ベスト4</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>1979-80</p></td>
-<td><p>2位</p></td>
-<td><p>38</p></td>
-<td><p>30</p></td>
-<td><p>16</p></td>
-<td><p>6</p></td>
-<td><p>8</p></td>
-<td><p>42</p></td>
-<td><p>25</p></td>
-<td><p>準決勝敗退</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>1978-79</p></td>
-<td><p>3位</p></td>
-<td><p>37</p></td>
+<td><p>セリエA</p></td>
 <td><p>30</p></td>
 <td><p>12</p></td>
 <td><p>13</p></td>
 <td><p>5</p></td>
 <td><p>40</p></td>
 <td><p>23</p></td>
+<td><p>37</p></td>
+<td><p>3位</p></td>
 <td><p><strong>優勝</strong></p></td>
 <td><p>2回戦敗退</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1977-78</p></td>
-<td><p><strong>優勝</strong></p></td>
-<td><p>44</p></td>
-<td><p>30</p></td>
-<td><p>15</p></td>
-<td><p>14</p></td>
-<td><p>1</p></td>
-<td><p>46</p></td>
-<td><p>17</p></td>
-<td><p>2回戦敗退</p></td>
-<td><p>ベスト4</p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>1976-77</p></td>
-<td><p><strong>優勝</strong></p></td>
-<td><p>51</p></td>
+<td><p>1979-80</p></td>
+<td><p>セリエA</p></td>
 <td><p>30</p></td>
-<td><p>23</p></td>
-<td><p>5</p></td>
-<td><p>2</p></td>
-<td><p>50</p></td>
-<td><p>20</p></td>
+<td><p>16</p></td>
+<td><p>6</p></td>
+<td><p>8</p></td>
+<td><p>42</p></td>
+<td><p>25</p></td>
+<td><p>38</p></td>
+<td><p>2位</p></td>
+<td><p>準決勝敗退</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1980-81</p></td>
+<td><p>セリエA</p></td>
+<td><p>30</p></td>
+<td><p>17</p></td>
+<td><p>10</p></td>
+<td><p>3</p></td>
+<td><p>46</p></td>
+<td><p>15</p></td>
+<td><p>44</p></td>
+<td><p><strong>1位</strong></p></td>
+<td><p>準決勝敗退</p></td>
+<td></td>
 <td><p>2回戦敗退</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>1981-82</p></td>
+<td><p>セリエA</p></td>
+<td><p>30</p></td>
+<td><p>19</p></td>
+<td><p>8</p></td>
+<td><p>3</p></td>
+<td><p>48</p></td>
+<td><p>14</p></td>
+<td><p>46</p></td>
+<td><p><strong>1位</strong></p></td>
+<td><p>1回戦敗退</p></td>
+<td><p>ベスト16</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1982-83</p></td>
+<td><p>セリエA</p></td>
+<td><p>30</p></td>
+<td><p>15</p></td>
+<td><p>9</p></td>
+<td><p>6</p></td>
+<td><p>49</p></td>
+<td><p>26</p></td>
+<td><p>39</p></td>
+<td><p>2位</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p>準優勝</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1983-84</p></td>
+<td><p>セリエA</p></td>
+<td><p>30</p></td>
+<td><p>17</p></td>
+<td><p>9</p></td>
+<td><p>4</p></td>
+<td><p>57</p></td>
+<td><p>29</p></td>
+<td><p>43</p></td>
+<td><p><strong>1位</strong></p></td>
+<td><p>ベスト16</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1984-85</p></td>
+<td><p>セリエA</p></td>
+<td><p>30</p></td>
+<td><p>11</p></td>
+<td><p>14</p></td>
+<td><p>5</p></td>
+<td><p>48</p></td>
+<td><p>33</p></td>
+<td><p>36</p></td>
+<td><p>5位</p></td>
+<td><p>準々決勝敗退</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1985-86</p></td>
+<td><p>セリエA</p></td>
+<td><p>30</p></td>
+<td><p>18</p></td>
+<td><p>9</p></td>
+<td><p>3</p></td>
+<td><p>43</p></td>
+<td><p>17</p></td>
+<td><p>45</p></td>
+<td><p><strong>1位</strong></p></td>
+<td><p>ベスト16</p></td>
+<td><p>ベスト8</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1986-87</p></td>
+<td><p>セリエA</p></td>
+<td><p>30</p></td>
+<td><p>14</p></td>
+<td><p>11</p></td>
+<td><p>5</p></td>
+<td><p>42</p></td>
+<td><p>27</p></td>
+<td><p>39</p></td>
+<td><p>2位</p></td>
+<td><p>準々決勝敗退</p></td>
+<td><p>ベスト16</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/リノ・マルケージ" title="wikilink">リノ・マルケージ</a></p></td>
+</tr>
+<tr class="even">
+<td><p>1987-88</p></td>
+<td><p>セリエA</p></td>
+<td><p>30</p></td>
+<td><p>11</p></td>
+<td><p>9</p></td>
+<td><p>10</p></td>
+<td><p>35</p></td>
+<td><p>30</p></td>
+<td><p>31</p></td>
+<td><p>6位</p></td>
+<td><p>準決勝敗退</p></td>
+<td></td>
+<td><p>ベスト32</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1988-89</p></td>
+<td><p>セリエA</p></td>
+<td><p>34</p></td>
+<td><p>15</p></td>
+<td><p>13</p></td>
+<td><p>6</p></td>
+<td><p>51</p></td>
+<td><p>36</p></td>
+<td><p>43</p></td>
+<td><p>4位</p></td>
+<td><p>2回戦敗退</p></td>
+<td></td>
+<td><p>ベスト8</p></td>
+<td><p><a href="../Page/ディノ・ゾフ.md" title="wikilink">ディノ・ゾフ</a></p></td>
+</tr>
+<tr class="even">
+<td><p>1989-90</p></td>
+<td><p>セリエA</p></td>
+<td><p>34</p></td>
+<td><p>15</p></td>
+<td><p>14</p></td>
+<td><p>5</p></td>
+<td><p>56</p></td>
+<td><p>36</p></td>
+<td><p>44</p></td>
+<td><p>4位</p></td>
+<td><p><strong>優勝</strong></p></td>
+<td></td>
+<td><p><strong>優勝</strong></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1990-91</p></td>
+<td><p>セリエA</p></td>
+<td><p>34</p></td>
+<td><p>13</p></td>
+<td><p>11</p></td>
+<td><p>10</p></td>
+<td><p>45</p></td>
+<td><p>32</p></td>
+<td><p>37</p></td>
+<td><p>7位</p></td>
+<td><p>準々決勝敗退</p></td>
+<td></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ルイジ・マイフレディ" title="wikilink">ルイジ・マイフレディ</a></p></td>
+</tr>
+<tr class="even">
+<td><p>1991-92</p></td>
+<td><p>セリエA</p></td>
+<td><p>34</p></td>
+<td><p>18</p></td>
+<td><p>12</p></td>
+<td><p>4</p></td>
+<td><p>45</p></td>
+<td><p>22</p></td>
+<td><p>48</p></td>
+<td><p>2位</p></td>
+<td><p>準優勝</p></td>
+<td></td>
+<td></td>
+<td><p>ジョバンニ・トラパットーニ</p></td>
+</tr>
+<tr class="odd">
+<td><p>1992-93</p></td>
+<td><p>セリエA</p></td>
+<td><p>34</p></td>
+<td><p>15</p></td>
+<td><p>9</p></td>
+<td><p>10</p></td>
+<td><p>59</p></td>
+<td><p>47</p></td>
+<td><p>39</p></td>
+<td><p>4位</p></td>
+<td><p>準決勝敗退</p></td>
+<td></td>
+<td><p><strong>優勝</strong></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1993-94</p></td>
+<td><p>セリエA</p></td>
+<td><p>34</p></td>
+<td><p>17</p></td>
+<td><p>13</p></td>
+<td><p>4</p></td>
+<td><p>58</p></td>
+<td><p>25</p></td>
+<td><p>47</p></td>
+<td><p>2位</p></td>
+<td><p>2回戦敗退</p></td>
+<td></td>
+<td><p>ベスト8</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1994-95</p></td>
+<td><p>セリエA</p></td>
+<td><p>34</p></td>
+<td><p>23</p></td>
+<td><p>4</p></td>
+<td><p>7</p></td>
+<td><p>59</p></td>
+<td><p>32</p></td>
+<td><p>73</p></td>
+<td><p><strong>1位</strong></p></td>
+<td><p><strong>優勝</strong></p></td>
+<td></td>
+<td><p>準優勝</p></td>
+<td><p><a href="../Page/マルチェロ・リッピ.md" title="wikilink">マルチェロ・リッピ</a></p></td>
+</tr>
+<tr class="even">
+<td><p>1995-96</p></td>
+<td><p>セリエA</p></td>
+<td><p>34</p></td>
+<td><p>19</p></td>
+<td><p>8</p></td>
+<td><p>7</p></td>
+<td><p>58</p></td>
+<td><p>35</p></td>
+<td><p>65</p></td>
+<td><p>2位</p></td>
+<td><p>ベスト16</p></td>
 <td><p><strong>優勝</strong></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>1996-97</p></td>
+<td><p>セリエA</p></td>
+<td><p>34</p></td>
+<td><p>17</p></td>
+<td><p>14</p></td>
+<td><p>3</p></td>
+<td><p>51</p></td>
+<td><p>24</p></td>
+<td><p>65</p></td>
+<td><p><strong>1位</strong></p></td>
+<td><p>準々決勝敗退</p></td>
+<td><p>準優勝</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1997-98</p></td>
+<td><p>セリエA</p></td>
+<td><p>34</p></td>
+<td><p>21</p></td>
+<td><p>11</p></td>
+<td><p>2</p></td>
+<td><p>67</p></td>
+<td><p>28</p></td>
+<td><p>74</p></td>
+<td><p><strong>1位</strong></p></td>
+<td><p>準決勝敗退</p></td>
+<td><p>準優勝</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_1998-1999" title="wikilink">1998-99</a></p></td>
+<td><p>セリエA</p></td>
+<td><p>34</p></td>
+<td><p>15</p></td>
+<td><p>9</p></td>
+<td><p>10</p></td>
+<td><p>42</p></td>
+<td><p>36</p></td>
+<td><p>54</p></td>
+<td><p>6位</p></td>
+<td><p>準々決勝敗退</p></td>
+<td><p>ベスト4</p></td>
+<td></td>
+<td><p><a href="../Page/カルロ・アンチェロッティ.md" title="wikilink">カルロ・アンチェロッティ</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_1999-2000" title="wikilink">1999-00</a></p></td>
+<td><p>セリエA</p></td>
+<td><p>34</p></td>
+<td><p>21</p></td>
+<td><p>8</p></td>
+<td><p>5</p></td>
+<td><p>46</p></td>
+<td><p>20</p></td>
+<td><p>71</p></td>
+<td><p>2位</p></td>
+<td><p>準々決勝敗退</p></td>
+<td></td>
+<td><p>ベスト16</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2000-2001" title="wikilink">2000-01</a></p></td>
+<td><p>セリエA</p></td>
+<td><p>34</p></td>
+<td><p>21</p></td>
+<td><p>11</p></td>
+<td><p>3</p></td>
+<td><p>61</p></td>
+<td><p>27</p></td>
+<td><p>73</p></td>
+<td><p>2位</p></td>
+<td><p>ベスト16</p></td>
+<td><p>1次リーグ敗退</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2001-2002" title="wikilink">2001-02</a></p></td>
+<td><p>セリエA</p></td>
+<td><p>34</p></td>
+<td><p>20</p></td>
+<td><p>11</p></td>
+<td><p>3</p></td>
+<td><p>64</p></td>
+<td><p>23</p></td>
+<td><p>71</p></td>
+<td><p><strong>1位</strong></p></td>
+<td><p>準優勝</p></td>
+<td><p>2次リーグ敗退</p></td>
+<td></td>
+<td><p>マルチェロ・リッピ</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2002-2003" title="wikilink">2002-03</a></p></td>
+<td><p>セリエA</p></td>
+<td><p>34</p></td>
+<td><p>21</p></td>
+<td><p>9</p></td>
+<td><p>4</p></td>
+<td><p>64</p></td>
+<td><p>29</p></td>
+<td><p>72</p></td>
+<td><p><strong>1位</strong></p></td>
+<td><p>準々決勝敗退</p></td>
+<td><p>準優勝</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2003-2004" title="wikilink">2003-04</a></p></td>
+<td><p>セリエA</p></td>
+<td><p>34</p></td>
+<td><p>21</p></td>
+<td><p>6</p></td>
+<td><p>7</p></td>
+<td><p>67</p></td>
+<td><p>42</p></td>
+<td><p>69</p></td>
+<td><p>3位</p></td>
+<td><p>準優勝</p></td>
+<td><p>ベスト16</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2004-2005" title="wikilink">2004-05</a></p></td>
+<td><p>セリエA</p></td>
+<td><p>38</p></td>
+<td><p>26</p></td>
+<td><p>8</p></td>
+<td><p>4</p></td>
+<td><p>67</p></td>
+<td><p>27</p></td>
+<td><p>86</p></td>
+<td><p><del>1位</del>[8]</p></td>
+<td><p>ベスト16</p></td>
+<td><p>ベスト8</p></td>
+<td></td>
+<td><p><a href="../Page/ファビオ・カペッロ.md" title="wikilink">ファビオ・カペッロ</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2005-2006" title="wikilink">2005-06</a></p></td>
+<td><p>セリエA</p></td>
+<td><p>38</p></td>
+<td><p>27</p></td>
+<td><p>10</p></td>
+<td><p>1</p></td>
+<td><p>71</p></td>
+<td><p>24</p></td>
+<td><p>0</p></td>
+<td><p><del>1位</del>→20位[9]</p></td>
+<td><p>準々決勝敗退</p></td>
+<td><p>ベスト8</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2006-07</p></td>
+<td><p><a href="../Page/セリエB_(サッカー).md" title="wikilink">セリエB</a></p></td>
+<td><p>42</p></td>
+<td><p>28</p></td>
+<td><p>10</p></td>
+<td><p>4</p></td>
+<td><p>83</p></td>
+<td><p>30</p></td>
+<td><p>85</p></td>
+<td><p>1位</p></td>
+<td><p>3回戦敗退</p></td>
+<td></td>
+<td></td>
+<td><p><a href="../Page/ディディエ・デシャン.md" title="wikilink">ディディエ・デシャン</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2007-2008" title="wikilink">2007-08</a></p></td>
+<td><p>セリエA</p></td>
+<td><p>38</p></td>
+<td><p>20</p></td>
+<td><p>12</p></td>
+<td><p>6</p></td>
+<td><p>72</p></td>
+<td><p>37</p></td>
+<td><p>72</p></td>
+<td><p>3位</p></td>
+<td><p>準々決勝敗退</p></td>
+<td></td>
+<td></td>
+<td><p><a href="../Page/クラウディオ・ラニエリ.md" title="wikilink">クラウディオ・ラニエリ</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2008-2009" title="wikilink">2008-09</a></p></td>
+<td><p>セリエA</p></td>
+<td><p>38</p></td>
+<td><p>21</p></td>
+<td><p>11</p></td>
+<td><p>6</p></td>
+<td><p>69</p></td>
+<td><p>37</p></td>
+<td><p>74</p></td>
+<td><p>2位</p></td>
+<td><p>準決勝敗退</p></td>
+<td><p>ベスト16</p></td>
+<td></td>
+<td><p>クラウディオ・ラニエリ<br />
+→<a href="../Page/チロ・フェラーラ.md" title="wikilink">チロ・フェラーラ</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2009-2010" title="wikilink">2009-10</a></p></td>
+<td><p>セリエA</p></td>
+<td><p>38</p></td>
+<td><p>16</p></td>
+<td><p>7</p></td>
+<td><p>15</p></td>
+<td><p>55</p></td>
+<td><p>56</p></td>
+<td><p>55</p></td>
+<td><p>|7位</p></td>
+<td><p>準々決勝敗退</p></td>
+<td><p>グループリーグ敗退</p></td>
+<td><p>ベスト16</p></td>
+<td><p>チロ・フェラーラ<br />
+→<a href="https://ja.wikipedia.org/wiki/アルベルト・ザッケローニ" title="wikilink">アルベルト・ザッケローニ</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2010-2011" title="wikilink">2010-11</a></p></td>
+<td><p>セリエA</p></td>
+<td><p>38</p></td>
+<td><p>15</p></td>
+<td><p>13</p></td>
+<td><p>10</p></td>
+<td><p>57</p></td>
+<td><p>47</p></td>
+<td><p>58</p></td>
+<td><p>|7位</p></td>
+<td><p>準々決勝敗退</p></td>
+<td></td>
+<td><p>グループリーグ敗退</p></td>
+<td><p><a href="../Page/ルイジ・デルネーリ.md" title="wikilink">ルイジ・デルネーリ</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2011-2012" title="wikilink">2011-12</a></p></td>
+<td><p>セリエA</p></td>
+<td><p>38</p></td>
+<td><p>23</p></td>
+<td><p>15</p></td>
+<td><p>0</p></td>
+<td><p>68</p></td>
+<td><p>20</p></td>
+<td><p>84</p></td>
+<td><p><strong>1位</strong></p></td>
+<td><p>準優勝</p></td>
+<td></td>
+<td></td>
+<td><p><a href="../Page/アントニオ・コンテ.md" title="wikilink">アントニオ・コンテ</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2012-2013" title="wikilink">2012-13</a></p></td>
+<td><p>セリエA</p></td>
+<td><p>38</p></td>
+<td><p>27</p></td>
+<td><p>6</p></td>
+<td><p>5</p></td>
+<td><p>71</p></td>
+<td><p>24</p></td>
+<td><p>87</p></td>
+<td><p><strong>1位</strong></p></td>
+<td><p>準決勝敗退</p></td>
+<td><p>ベスト8</p></td>
+<td><p>|</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2013-2014" title="wikilink">2013-14</a></p></td>
+<td><p>セリエA</p></td>
+<td><p>38</p></td>
+<td><p>33</p></td>
+<td><p>3</p></td>
+<td><p>2</p></td>
+<td><p>80</p></td>
+<td><p>23</p></td>
+<td><p>102</p></td>
+<td><p><strong>1位</strong></p></td>
+<td><p>準々決勝敗退</p></td>
+<td><p>グループリーグ敗退</p></td>
+<td><p>ベスト4</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2014-2015" title="wikilink">2014-15</a></p></td>
+<td><p>セリエA</p></td>
+<td><p>38</p></td>
+<td><p>26</p></td>
+<td><p>9</p></td>
+<td><p>3</p></td>
+<td><p>72</p></td>
+<td><p>24</p></td>
+<td><p>87</p></td>
+<td><p><strong>1位</strong></p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p>準優勝</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/マッシミリアーノ・アッレグリ" title="wikilink">マッシミリアーノ・アッレグリ</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2015-2016" title="wikilink">2015-16</a></p></td>
+<td><p>セリエA</p></td>
+<td><p>38</p></td>
+<td><p>29</p></td>
+<td><p>4</p></td>
+<td><p>5</p></td>
+<td><p>75</p></td>
+<td><p>20</p></td>
+<td><p>91</p></td>
+<td><p><strong>1位</strong></p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p>ベスト16</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2016-2017" title="wikilink">2016-17</a></p></td>
+<td><p>セリエA</p></td>
+<td><p>38</p></td>
+<td><p>29</p></td>
+<td><p>4</p></td>
+<td><p>5</p></td>
+<td><p>77</p></td>
+<td><p>27</p></td>
+<td><p>91</p></td>
+<td><p><strong>1位</strong></p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p>準優勝</p></td>
+<td><p>|</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2017-2018" title="wikilink">2017-18</a></p></td>
+<td><p>セリエA</p></td>
+<td><p>38</p></td>
+<td><p>30</p></td>
+<td><p>5</p></td>
+<td><p>3</p></td>
+<td><p>86</p></td>
+<td><p>24</p></td>
+<td><p>95</p></td>
+<td><p><strong>1位</strong></p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p>ベスト8</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2018-2019" title="wikilink">2018-19</a></p></td>
+<td><p>セリエA</p></td>
+<td><p>38</p></td>
+<td><p>28</p></td>
+<td><p>6</p></td>
+<td><p>4</p></td>
+<td><p>70</p></td>
+<td><p>30</p></td>
+<td><p>90</p></td>
+<td><p><strong>1位</strong></p></td>
+<td><p>準々決勝敗退</p></td>
+<td><p>ベスト8</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2019-2020" title="wikilink">2019-20</a></p></td>
+<td><p>セリエA</p></td>
+<td><p>38</p></td>
+<td><p>26</p></td>
+<td><p>5</p></td>
+<td><p>7</p></td>
+<td><p>76</p></td>
+<td><p>43</p></td>
+<td><p>83</p></td>
+<td><p><strong>1位</strong></p></td>
+<td><p>準優勝</p></td>
+<td><p>ベスト16</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/マウリツィオ・サッリ" title="wikilink">マウリツィオ・サッリ</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/セリエA_(サッカー)_2020-2021" title="wikilink">2020-21</a></p></td>
+<td><p>セリエA</p></td>
+<td><p>38</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td><p><strong>位</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>|<a href="../Page/アンドレア・ピルロ.md" title="wikilink">アンドレア・ピルロ</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -925,15 +925,15 @@
 
 </div>
 
-  - 2020年1月31日現在
+  - 2020年8月３０日現在
 
- ([15px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Luxembourg.svg "wikilink")) ([15px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Tunisia.svg "wikilink"))   ([15px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))([15px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Poland.svg "wikilink")) ★ ★ ★  ([15px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Angola.svg "wikilink")) ★ ([副将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink")) ([15px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))    ★
+  ([15px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Tunisia.svg "wikilink"))   ★ ([15px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))([15px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Poland.svg "wikilink")) ★ ★ ★ ★ ([副将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink")) ([15px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))     ★     ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_North_Macedonia.svg "wikilink"))   ★    ★
 
   - [監督](../Page/監督.md "wikilink")
 
 <!-- end list -->
 
-  - [マウリツィオ・サッリ](https://ja.wikipedia.org/wiki/マウリツィオ・サッリ "wikilink")
+  - [アンドレア・ピルロ](../Page/アンドレア・ピルロ.md "wikilink")
 
 ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 
@@ -956,7 +956,7 @@
 | 位  | 名前                                                                    | 出場試合数 | 期間                   |
 | -- | --------------------------------------------------------------------- | ----- | -------------------- |
 | 1  | [アレッサンドロ・デル・ピエロ](../Page/アレッサンドロ・デル・ピエロ.md "wikilink")                | 705   | 1993-2012            |
-| 2  | [ジャンルイジ・ブッフォン](../Page/ジャンルイジ・ブッフォン.md "wikilink") (\#)               | 655   | 2001-2018,2019-      |
+| 2  | [ジャンルイジ・ブッフォン](../Page/ジャンルイジ・ブッフォン.md "wikilink") (\#)               | 655   | 2001-2018, 2019-     |
 | 3  | [ガエターノ・シレア](../Page/ガエターノ・シレア.md "wikilink")                          | 552   | 1974-1988            |
 | 4  | [ジュゼッペ・フリーノ](https://ja.wikipedia.org/wiki/ジュゼッペ・フリーノ "wikilink")     | 528   | 1965-1966, 1969-1984 |
 | 5  | [ロベルト・ベッテガ](../Page/ロベルト・ベッテガ.md "wikilink")                          | 482   | 1966-1969, 1970-1983 |
@@ -1107,7 +1107,12 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/マウリツィオ・サッリ" title="wikilink">マウリツィオ・サッリ</a></p></td>
-<td><p>2019-</p></td>
+<td><p>2019-2020</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/アンドレア・ピルロ.md" title="wikilink">アンドレア・ピルロ</a></p></td>
+<td><p>2020-</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1163,5 +1168,7 @@
 3.
 4.  [バッジョの再来\!?　英雄の軌跡をたどるベルナルデスキ、約52億円でユーヴェ移籍合意](https://www.theworldmagazine.jp/20170722/01world/italy/172494) the WORLD (2017年7月22日)
 5.  <http://www.skysports.com/football/news/11095/11375820/gianluigi-buffon-to-leave-juventus-after-17-years-at-the-club>
-6.  カルチョ・スキャンダルによって優勝を剥奪され、セリエB降格処分となった。
-7.  カルチョ・スキャンダルによって優勝を剥奪された。
+6.
+7.
+8.  カルチョ・スキャンダルによって優勝を剥奪された。
+9.  カルチョ・スキャンダルによって優勝を剥奪され、セリエB降格処分となった。

@@ -88,7 +88,7 @@ Vine Linuxのリリース履歴
   - [VineLinux-FAQ - 2ch-Linux-Beginners](http://www12.atwiki.jp/linux2ch/pages/34.html) (日本語FAQ集)
   - [DistroWatch.com: Vine Linux](http://distrowatch.com/table.php?distribution=vine)
 
-[Category:Linuxディストリビューション](https://ja.wikipedia.org/wiki/Category:Linuxディストリビューション "wikilink") [Category:日本のLinux開発](https://ja.wikipedia.org/wiki/Category:日本のLinux開発 "wikilink") [Category:1999年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1999年のソフトウェア "wikilink")
+[Category:Red_Hat派生ディストリビューション](https://ja.wikipedia.org/wiki/Category:Red_Hat派生ディストリビューション "wikilink") [Category:日本のLinux開発](https://ja.wikipedia.org/wiki/Category:日本のLinux開発 "wikilink") [Category:1999年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1999年のソフトウェア "wikilink")
 
 1.  [Vine Linux 3.0の特徴 (その1) (1/2)](http://www.itmedia.co.jp/enterprise/articles/0409/10/news052.html)
 2.  ただし、名称になったのは2.0以降。1.0と1.1は産地から採られている。

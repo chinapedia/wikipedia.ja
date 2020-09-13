@@ -66,7 +66,9 @@
 
 ## 脚注
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:フジテレビの番組発のグループ](https://ja.wikipedia.org/wiki/Category:フジテレビの番組発のグループ "wikilink") [Category:山田邦子](https://ja.wikipedia.org/wiki/Category:山田邦子 "wikilink")
+[カテゴリ:2人組の音楽グループ](https://ja.wikipedia.org/wiki/カテゴリ:2人組の音楽グループ "wikilink")
+
+[Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:フジテレビの番組発のグループ](https://ja.wikipedia.org/wiki/Category:フジテレビの番組発のグループ "wikilink") [Category:山田邦子](https://ja.wikipedia.org/wiki/Category:山田邦子 "wikilink")
 
 1.  相棒の[鈴木早智子](../Page/鈴木早智子.md "wikilink")を探しさまよったり、早智子の人形と振りつきでデュエットしたりする内容だった。
 2.  なお横山は、やまかつレギュラー時代にもソロ曲を2曲発表している（[こちらを参照](https://ja.wikipedia.org/wiki/横山知枝#ディスコグラフィー "wikilink")）。

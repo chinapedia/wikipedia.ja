@@ -1,17 +1,13 @@
 > この記事は[NTTコミュニケーションズ](https://ja.wikipedia.org/wiki/NTTコミュニケーションズ)から翻訳されています。
 
 
-[`thumb`](https://ja.wikipedia.org/wiki/ファイル:Shiodome_Building2.JPG "wikilink")`]]`
-
-[`thumb`](https://ja.wikipedia.org/wiki/ファイル:NTT_Communications_\(headquarters\).jpg "wikilink")`]]`
-
-[thumb](https://ja.wikipedia.org/wiki/ファイル:NTTCOMootemachi.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:NTT_Com_Fujisawa.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:NTT_Com_Karagasaki.JPG "wikilink")
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Shiodome_Building2.JPG "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:NTT_Communications_\(headquarters\).jpg "wikilink")）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:NTTCOMootemachi.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:NTT_Com_Fujisawa.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:NTT_Com_Karagasaki.JPG "wikilink")
 
 **エヌ・ティ・ティ・コミュニケーションズ株式会社**（NTTコミュニケーションズ、）は、世界最大規模の通信事業者のひとつである[日本電信電話](../Page/日本電信電話.md "wikilink")（NTT）の長距離・国際通信事業を担う完全子会社（直接の親会社は[中間持株会社](https://ja.wikipedia.org/wiki/中間持株会社 "wikilink")のNTT株式会社）であり、[NTTグループ](../Page/NTTグループ.md "wikilink")の主要企業の一つである。
 
 世界40カ国／地域以上、110都市以上の拠点に約22,000名のスタッフを配し、クラウド、ネットワーク、セキュリティ、コンサルティングを提供を通し、顧客企業のグローバルビジネスをサポートしている。
 
-コーポレートスローガンは「**Transform. Transcend.**」。
+コーポレートスローガンは「**Go the Distance.**」。
 
 ## 概要
 

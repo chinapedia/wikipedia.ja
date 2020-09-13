@@ -646,14 +646,14 @@ Power9 22C, Mellanox dual-rail EDR InfiniBand</p></td>
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/Berkeley_Open_Infrastructure_for_Network_Computing.md" title="wikilink">BOINC</a></p></td>
-<td><p>2,958.992TFLOPS</p></td>
+<td><p>2.958PFLOPS</p></td>
 <td><p>2009年12月6日</p></td>
 <td></td>
 <td></td>
 <td><p>[35]</p></td>
 </tr>
 <tr class="even">
-<td><p>8,563.365TFLOPS</p></td>
+<td><p>8.563PFLOPS</p></td>
 <td><p>2013年12月26日</p></td>
 <td><p>986,613台</p></td>
 <td><p>8.51%</p></td>
@@ -661,7 +661,7 @@ Power9 22C, Mellanox dual-rail EDR InfiniBand</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>161,081.587TFLOPS</p></td>
+<td><p>161.081PFLOPS</p></td>
 <td><p>2015年2月3日</p></td>
 <td><p>376,688台</p></td>
 <td><p>3.54%</p></td>
@@ -669,7 +669,7 @@ Power9 22C, Mellanox dual-rail EDR InfiniBand</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>160,760.027TFLOPS</p></td>
+<td><p>160.76PFLOPS</p></td>
 <td><p>2017年3月14日</p></td>
 <td><p>739,507台</p></td>
 <td><p>4.79%</p></td>
@@ -702,8 +702,8 @@ Power9 22C, Mellanox dual-rail EDR InfiniBand</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Folding@Home" title="wikilink">Folding@Home</a></p></td>
-<td><p>約4,273TFLOPS</p></td>
+<td><p><a href="../Page/Folding@home.md" title="wikilink">Folding@home</a></p></td>
+<td><p>4.273PFLOPS</p></td>
 <td><p>2008年11月22日</p></td>
 <td><p>Active 353,966 CPU<br />
 (参加約355万台)</p></td>
@@ -719,7 +719,7 @@ Power9 22C, Mellanox dual-rail EDR InfiniBand</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>約2.4EFLOPS</p></td>
+<td><p>2.4EFLOPS</p></td>
 <td><p>2020年4月14日</p></td>
 <td></td>
 <td></td>

@@ -36,7 +36,7 @@
 ### SEED DESTINY MSV
 
   - ZGMF-X999A [ザク量産試作型](https://ja.wikipedia.org/wiki/ザクウォーリア#ザク量産試作型 "wikilink")
-  - ZGMF-1000/AAL [ザクウォーリア強襲揚陸型ノクティルーカ](https://ja.wikipedia.org/wiki/ザクウォーリア#ウィザードシステム "wikilink")
+  - ZGMF-1000/AAL [ザクウォーリア強襲揚陸型ノクティルーカ](https://ja.wikipedia.org/wiki/ザクウォーリア#ノクティルーカウィザード "wikilink")
   - XMF-P192P [プロトカオス](https://ja.wikipedia.org/wiki/カオスガンダム#プロトカオス "wikilink")
   - GAT-X399/Q [ワイルドダガー](https://ja.wikipedia.org/wiki/ストライクダガー#ワイルドダガー "wikilink")
   - ZGM-1000/R4 [コマンドザクCCI](https://ja.wikipedia.org/wiki/ザクウォーリア#コマンドザクCCI "wikilink")

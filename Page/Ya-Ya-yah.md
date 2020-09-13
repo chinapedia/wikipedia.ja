@@ -1,19 +1,19 @@
 > この記事は[Ya-Ya-yah](https://ja.wikipedia.org/wiki/Ya-Ya-yah)から翻訳されています。
 
 
-**Ya-Ya-yah**（ヤーヤーヤー）は、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")に所属していた[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")内の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")。グループ名は、ビートルズの曲『A Hard Day's Night』（旧日本語題：[ビートルズがやって来るヤァ\!ヤァ\!ヤァ\!](../Page/ビートルズがやって来るヤァ!ヤァ!ヤァ!_\(曲\).md "wikilink")）にちなんでつけられた\[1\]\[2\]。
+**Ya-Ya-yah**（ヤーヤーヤー）は、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")に所属していた[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")内の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")。グループ名は、ビートルズの曲「[A Hard Day's Night](../Page/ア・ハード・デイズ・ナイト_\(曲\).md "wikilink")」（旧日本語題：ビートルズがやって来るヤァ\!ヤァ\!ヤァ\!）にちなんでつけられた\[1\]\[2\]。
 
 ## メンバー
 
-  - [薮宏太](../Page/薮宏太.md "wikilink")（やぶ こうた、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[1月31日](../Page/1月31日.md "wikilink") - ） - 神奈川県出身。
-  - [八乙女光](../Page/八乙女光.md "wikilink")（やおとめ ひかる、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[12月2日](../Page/12月2日.md "wikilink") - ） - 宮城県出身。[2003年](../Page/2003年.md "wikilink")に加入\[3\]。
-  - [鮎川太陽](../Page/鮎川太陽.md "wikilink")（あゆかわ たいよう、[1991年](../Page/1991年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink") - ） - 東京都出身。2007年ジャニーズ事務所を退所。
-  - [山下翔央](../Page/山下翔央.md "wikilink")（やました しょおん、[1988年](../Page/1988年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink") - ） - 東京都出身。2010年ジャニーズ事務所を退所。
+  - **[薮宏太](../Page/薮宏太.md "wikilink")**（やぶ こうた、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[1月31日](../Page/1月31日.md "wikilink") - ） - 神奈川県出身。
+  - **[八乙女光](../Page/八乙女光.md "wikilink")**（やおとめ ひかる、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[12月2日](../Page/12月2日.md "wikilink") - ） - 宮城県出身。[2003年](../Page/2003年.md "wikilink")に加入\[3\]。
+  - **[鮎川太陽](../Page/鮎川太陽.md "wikilink")**（あゆかわ たいよう、[1991年](../Page/1991年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink") - ） - 東京都出身。2007年ジャニーズ事務所を退所。
+  - **[山下翔央](../Page/山下翔央.md "wikilink")**（やました しょおん、[1988年](../Page/1988年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink") - ） - 東京都出身。2010年ジャニーズ事務所を退所。
 
 ### 旧メンバー
 
-  - [赤間直哉](../Page/赤間直哉.md "wikilink")（あかま なおや、[1991年](../Page/1991年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink") - ） - 東京都出身。
-  - 星野正樹（ほしの まさき、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月10日](../Page/10月10日.md "wikilink") - ） - 東京都出身。
+  - **[赤間直哉](../Page/赤間直哉.md "wikilink")**（あかま なおや、[1991年](../Page/1991年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink") - ） - 東京都出身。
+  - **星野正樹**（ほしの まさき、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月10日](../Page/10月10日.md "wikilink") - ） - 東京都出身。
 
 ## 来歴
 
@@ -212,7 +212,7 @@
 
 ### 出典
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:Ya-Ya-yah](https://ja.wikipedia.org/wiki/Category:Ya-Ya-yah "wikilink") [Category:Hey\!_Say\!_JUMP](https://ja.wikipedia.org/wiki/Category:Hey!_Say!_JUMP "wikilink") [Category:2001年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に結成した音楽グループ "wikilink")
+[Category:ジャニーズのポップ・グループ](https://ja.wikipedia.org/wiki/Category:ジャニーズのポップ・グループ "wikilink") [Category:Ya-Ya-yah](https://ja.wikipedia.org/wiki/Category:Ya-Ya-yah "wikilink") [Category:Hey\!_Say\!_JUMP](https://ja.wikipedia.org/wiki/Category:Hey!_Say!_JUMP "wikilink") [Category:2001年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に結成した音楽グループ "wikilink")
 
 1.
 2.

@@ -51,6 +51,8 @@ MS-Windows版であるN88-BASIC(WN)インタプリタも発売されたが、極
 
   - EPSON DISK BASIC
     PC-9800[互換機](../Page/互換機.md "wikilink")であった[EPSON製PCで](../Page/EPSON_PCシリーズ.md "wikilink")、N88-BASIC[ソフトウェア](../Page/ソフトウェア.md "wikilink")資産を利用できるよう開発された処理系。
+    EPSON製PCは互換性維持のためROMにBASICが焼かれていたが、起動できない上、EPSON DISK BASICは、[ROM-BASIC](../Page/ROM-BASIC.md "wikilink")を拡張する形になっていないため、フルでメモリにロードされる点が98と異なる。
+    98では、[ROM-BASIC](../Page/ROM-BASIC.md "wikilink")を拡張する形となっているため、メモリのフリーエリアの量が異なる。
   - BASIC/98
     有限会社 電脳組が販売するWindowsベースのインタプリタ。互換性はかなり高い。
   - 99Basic

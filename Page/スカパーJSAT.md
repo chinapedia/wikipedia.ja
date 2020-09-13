@@ -1,7 +1,7 @@
 > この記事は[スカパーJSAT](https://ja.wikipedia.org/wiki/スカパーJSAT)から翻訳されています。
 
 
-**スカパーJSAT株式会社**（スカパージェイサット、）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[通信衛星](../Page/通信衛星.md "wikilink")事業者、[衛星放送プラットフォーム事業者](../Page/日本における衛星放送.md "wikilink")（[有料放送管理事業者](../Page/有料放送管理事業者.md "wikilink")）および[有線一般放送事業者である](https://ja.wikipedia.org/wiki/一般放送事業者 "wikilink")。
+**スカパーJSAT株式会社**（スカパージェイサット、）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[通信衛星](../Page/通信衛星.md "wikilink")事業者、[衛星放送プラットフォーム事業者](../Page/日本における衛星放送.md "wikilink")（[有料放送管理事業者](../Page/有料放送管理事業者.md "wikilink")）および[有線一般放送事業者](https://ja.wikipedia.org/wiki/一般放送事業者 "wikilink")。
 
 法人格としては、現商号の「スカパー」に該当する**株式会社スカイパーフェクト・コミュニケーションズ**（）の後身にあたる。本項では、その前身である同社についても併せて記述する。
 
@@ -244,8 +244,8 @@ JCSAT-110R</p></td>
   - 群馬衛星管制所（Gumma Satellite Control Station (GSCS)）：[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[北群馬郡](../Page/北群馬郡.md "wikilink")[榛東村](../Page/榛東村.md "wikilink")大字新井3590-1 - JCSAT・SUPERBIRDの副管制局
   - スーパーバード茨城ネットワーク管制センター（Superbird Platform East (SPE)） ：[茨城県](../Page/茨城県.md "wikilink")[常陸大宮市](../Page/常陸大宮市.md "wikilink")工業団地60）\[3\] - 旧宇宙通信のSUPERBIRD主管制局
   - スーパーバード山口ネットワーク管制センター（Superbird Platform West (SPW)） ：[山口県](../Page/山口県.md "wikilink")[山口市](../Page/山口市.md "wikilink")荻町3-1\[4\] - 旧宇宙通信のSUPERBIRD副管制局
-  - スカパー東京メディアセンター：東京都[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[新砂](../Page/新砂.md "wikilink")1-1-2\[5\] - 放送センター。目黒メディアセンター（旧パーフェクTV！）・青海放送センター（東京都江東区、旧[JスカイB](../Page/JスカイB.md "wikilink")）・小山台送出センター（東京都品川区、旧[プラット・ワン](../Page/プラット・ワン.md "wikilink")）の各設備を統合したもの。
-  - 目黒メディアセンター：東京都[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink") - 旧パーフェクTV\!の放送センター
+  - スカパー東京メディアセンター：東京都[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[新砂](../Page/新砂.md "wikilink")1-1-2\[5\] - 放送センター。目黒メディアセンター（旧パーフェクTV！）・青海放送センター（旧[JスカイB](../Page/JスカイB.md "wikilink")本社、東京都江東区[青海](../Page/青海.md "wikilink")2丁目43 青海フロンティアビル）・小山台送出センター（旧[プラット・ワン](../Page/プラット・ワン.md "wikilink") 小山台ゲートウェイ、東京都[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")[小山台](../Page/小山台.md "wikilink")1丁目31-9）の各設備を統合したもの。
+  - 目黒メディアセンター：東京都[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")[上大崎](../Page/上大崎.md "wikilink")4丁目5-37 本多電機ビル - 旧パーフェクTV\!の放送センター
   - 香港支店：[中国](../Page/中華人民共和国.md "wikilink")[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")行政特別区
   - ジャカルタ駐在所：[インドネシア](../Page/インドネシア.md "wikilink")共和国[ジャカルタ](../Page/ジャカルタ.md "wikilink")首都特別州
 
@@ -353,9 +353,9 @@ JCSAT-110R</p></td>
 ## 外部リンク
 
   - [スカパーJSATグループ](https://www.skyperfectjsat.space/)
-  - [衛星放送のスカパー\!](https://www.skyperfectv.co.jp)
-      - [プレミアムサービス](https://www.skyperfectv.co.jp/premium/)
-      - [プレミアムサービス光](https://www.skyperfectv.co.jp/hikari)
+  - [スカパー！](https://www.skyperfectv.co.jp/)
+      - [プレミアムサービス](https://www.skyperfectv.co.jp/premium/guide/)
+      - [プレミアムサービス光](https://www.skyperfectv.co.jp/hikari/guide/)
   - [スカパーJSAT㈱の概要と事業環境について](https://www8.cao.go.jp/space/comittee/sangyou-dai1/siryou6-5-1.pdf) 2013年4月11日 宇宙政策委員会説明資料
 
 [Category:スカパーJSATグループの衛星放送](https://ja.wikipedia.org/wiki/Category:スカパーJSATグループの衛星放送 "wikilink") [Category:日本の航空宇宙企業](https://ja.wikipedia.org/wiki/Category:日本の航空宇宙企業 "wikilink") [Category:日本の電気通信事業者](https://ja.wikipedia.org/wiki/Category:日本の電気通信事業者 "wikilink") [Category:日本のケーブルテレビ](https://ja.wikipedia.org/wiki/Category:日本のケーブルテレビ "wikilink") [Category:日本のプラットフォーム事業者](https://ja.wikipedia.org/wiki/Category:日本のプラットフォーム事業者 "wikilink") [Category:受託放送事業者](https://ja.wikipedia.org/wiki/Category:受託放送事業者 "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:1994年設立の企業](https://ja.wikipedia.org/wiki/Category:1994年設立の企業 "wikilink")

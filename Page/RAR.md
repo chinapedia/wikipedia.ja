@@ -7,7 +7,7 @@
 
 [ZIP](../Page/ZIP_\(ファイルフォーマット\).md "wikilink") に比べ高い圧縮率であり、他の圧縮形式にはあまり見られない特色としてリカバリレコードが挙げられる。リカバリレコードとは、一種の[ハミング符号](../Page/ハミング符号.md "wikilink")を付加することで圧縮ファイルの破損をある程度まで修復可能とするものである。また、一定のサイズごとに分割して圧縮することができる。
 
-[WinRAR](../Page/WinRAR.md "wikilink") や [MacRAR](https://ja.wikipedia.org/wiki/MacRAR "wikilink") などの[ソフトウェア](../Page/ソフトウェア.md "wikilink")で処理を行うことができる。
+[WinRAR](../Page/WinRAR.md "wikilink") や [MacRAR](https://ja.wikipedia.org/wiki/MacRAR "wikilink") などの[ソフトウェア](../Page/ソフトウェア.md "wikilink")で処理を行うことができる。ただし、このフォーマットを扱えるフリーソフトウェアは存在しない。展開専用のソフトウェアunrarは無料で利用できるが、これもフリーソフトウェアではない。
 
 [2013年](../Page/2013年.md "wikilink")にリリースされたWinRAR5より新フォーマットRAR5が登場した。拡張子は.rarと同じであるが、古いバージョンのソフトウェアでは扱うことができない。
 

@@ -408,11 +408,11 @@
 
 第20回（[1991年](../Page/1991年.md "wikilink")）から『FNS歌謡祭』のタイトルをそのまま踏襲したものの、その年を象徴する歌手代表曲を披露するのみとなるコンサート形式に変更された。初年度は歴代の最優秀グランプリ受賞者が招かれ、それぞれの代表曲を披露した。
 
-番組構成は、当初はアーティストが順番に数曲ずつ披露してゆく形式であったが、[第34回](https://ja.wikipedia.org/wiki/2005_FNS歌謡祭 "wikilink")（2005年）からアーティスト同士の[コラボレーション](../Page/コラボレーション.md "wikilink")（共演）が増え、一組のアーティストが入れ替わり立ち代わり何度もステージに立つ形式が定着する。これにより他局の同様の音楽特番との差別化に成功し、20%前後の高視聴率をキープした。また、同年から『[僕らの音楽](https://ja.wikipedia.org/wiki/僕らの音楽_-OUR_MUSIC- "wikilink")』司会の[草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）をメイン司会に起用し、一部の年を除いてSMAPがトップバッターと大トリの双方を担当した。
+番組構成は、当初はアーティストが順番に数曲ずつ披露してゆく形式であったが、[第34回](https://ja.wikipedia.org/wiki/2005_FNS歌謡祭 "wikilink")（2005年）からアーティスト同士の[コラボレーション](../Page/コラボレーション.md "wikilink")（共演）が増え、一組のアーティストが入れ替わり立ち代わり何度もステージに立つ形式が定着する。これにより他局の同様の音楽特番との差別化に成功し、20%前後の高視聴率をキープした。また、同年から『[僕らの音楽](https://ja.wikipedia.org/wiki/僕らの音楽_-OUR_MUSIC- "wikilink")』司会の[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）をメイン司会に起用し、一部の年を除いてSMAPがトップバッターと大トリの双方を担当した。
 
 放送時間は、第26回（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）からは『火WSP』および『サザエさん』（再放送）枠の廃止に伴い、放送日が[木曜日](../Page/木曜日.md "wikilink")に変更になった。第32回（[2003年](../Page/2003年.md "wikilink")）は[東アジアサッカー選手権放送の都合上一日繰り上げて水曜日に放送され](../Page/東アジアサッカー選手権2003.md "wikilink")、以降定着する。また放送時間もさらに延びて23時台まで、4時間超の放送となる。第39回（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）は、当時水曜日にレギュラー放送されていた『[クイズ\!ヘキサゴンII](https://ja.wikipedia.org/wiki/クイズ!ヘキサゴンII "wikilink")』（19時台）、『[はねるのトびら](../Page/はねるのトびら.md "wikilink")』（20時台）、『[ホンマでっか\!?TV](https://ja.wikipedia.org/wiki/ホンマでっか!?TV "wikilink")』（21時台）、『[ザ・ベストハウス123](../Page/ザ・ベストハウス123.md "wikilink")』（22時台）などの人気番組の放送休止を避けるため、この年のみ[土曜日](../Page/土曜日.md "wikilink")に放送された。
 
-派生番組として、2012年からは、毎年[夏](../Page/夏.md "wikilink")（[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")[下旬](https://ja.wikipedia.org/wiki/下旬 "wikilink")<small>又は</small>[8月](../Page/8月.md "wikilink")[上旬](https://ja.wikipedia.org/wiki/上旬 "wikilink")）に当番組のスタッフが制作する『**[FNSうたの夏まつり](https://ja.wikipedia.org/wiki/FNSうたの夏まつり "wikilink")**』が放送開始した。メイン司会者やスタッフ、演出が当番組と共通するなど、当番組を意識した姉妹番組である。さらに、2016年と2017年は、毎年[春](../Page/春.md "wikilink")（[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")下旬）に『**[FNSうたの春まつり](https://ja.wikipedia.org/wiki/FNSうたの春まつり "wikilink")**』が放送された。これらに伴い、フジテレビ系列では2019年現在、毎年2番組の大型音楽番組が放送されている。
+派生番組として、2012年からは、毎年[夏](../Page/夏.md "wikilink")（[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")[下旬](https://ja.wikipedia.org/wiki/下旬 "wikilink")<small>又は</small>[8月](../Page/8月.md "wikilink")[上旬](https://ja.wikipedia.org/wiki/上旬 "wikilink")）に当番組のスタッフが制作する『**[FNSうたの夏まつり](https://ja.wikipedia.org/wiki/FNSうたの夏まつり "wikilink")**』（2020年より『**FNS歌謡祭 夏**』に名称変更）が放送開始した。メイン司会者やスタッフ、演出が当番組と共通するなど、当番組を意識した姉妹番組である。さらに、2016年と2017年は、毎年[春](../Page/春.md "wikilink")（[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")下旬）に『**[FNSうたの春まつり](https://ja.wikipedia.org/wiki/FNSうたの春まつり "wikilink")**』が放送された。これらに伴い、フジテレビ系列では2019年現在、毎年2番組の大型音楽番組が放送されている。
 
 第44回（2015年）からは、前年の『僕らの音楽』放送終了\<ref group="注\>ただし、第43回の放送時にはすでに終了していた。</ref>に伴い草彅が司会を降板し、同年から始まった『[水曜歌謡祭](https://ja.wikipedia.org/wiki/Love_music "wikilink")』MCの[森高千里](../Page/森高千里.md "wikilink")と[渡部建](https://ja.wikipedia.org/wiki/渡部建 "wikilink")（[アンジャッシュ](../Page/アンジャッシュ.md "wikilink")）が抜擢された。更に、同年から**2DAYS**方式を採用し、例年通りの演出での放送の1週間後に、スタジオライブ方式の「第2夜」が放送されるようになった。
 
@@ -445,7 +445,7 @@
 | 1999年（第28回）                                                                                                                                                                                                  | [嵐](../Page/嵐_\(グループ\).md "wikilink")                                                                                                                                | [A・RA・SHI](../Page/A・RA・SHI.md "wikilink")                                                                |
 | 2000年（第29回）                                                                                                                                                                                                  | [感謝カンゲキ雨嵐](../Page/感謝カンゲキ雨嵐.md "wikilink")                                                                                                                           |                                                                                                           |
 | 2001年（第30回）                                                                                                                                                                                                  | [君のために僕がいる](../Page/君のために僕がいる.md "wikilink")                                                                                                                         |                                                                                                           |
-| 2002年（第31回）                                                                                                                                                                                                  | [松浦亜弥](../Page/松浦亜弥.md "wikilink")                                                                                                                                   | [♡桃色片想い♡](../Page/桃色片想い.md "wikilink")                                                                    |
+| 2002年（第31回）                                                                                                                                                                                                  | [松浦亜弥](../Page/松浦亜弥.md "wikilink")                                                                                                                                   | [♡桃色片想い♡](https://ja.wikipedia.org/wiki/♡桃色片想い♡ "wikilink")                                               |
 | 2003年（第32回）                                                                                                                                                                                                  | [NEWS](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")                                                                                                       | [NEWSニッポン](../Page/NEWSニッポン.md "wikilink")                                                                |
 | 2004年（第33回）                                                                                                                                                                                                  | [大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")                                                                                                                  | [さくらんぼ](../Page/さくらんぼ_\(曲\).md "wikilink")                                                                |
 | 2005年（第34回）                                                                                                                                                                                                  | [SMAP](../Page/SMAP.md "wikilink")                                                                                                                                   | [BANG\! BANG\! バカンス\!](../Page/BANG!_BANG!_バカンス!.md "wikilink")                                           |
@@ -1070,7 +1070,7 @@
 <td><p>第34回</p></td>
 <td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>12月7日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2005_FNS歌謡祭" title="wikilink">2005 FNS歌謡祭</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/草なぎ剛" title="wikilink">草彅剛</a>[25]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/草彅剛" title="wikilink">草彅剛</a>[25]</p></td>
 <td><p><a href="../Page/黒木瞳.md" title="wikilink">黒木瞳</a></p></td>
 <td><p>◎川端健嗣</p></td>
 <td><p>20.1%</p></td>
@@ -1365,7 +1365,7 @@
   - ドラムス：[河村カースケ智康](https://ja.wikipedia.org/wiki/河村カースケ智康 "wikilink")
   - ベース：浜崎賢太
   - パーカッション：朝倉真司
-  - コーラス：[今井マサキ](https://ja.wikipedia.org/wiki/今井マサキ "wikilink")、[加藤いづみ](https://ja.wikipedia.org/wiki/加藤いづみ "wikilink")、[亜美](http://ameblo.jp/amispace)
+  - コーラス：[今井マサキ](https://ja.wikipedia.org/wiki/今井マサキ "wikilink")、[加藤いづみ](https://ja.wikipedia.org/wiki/加藤いづみ "wikilink")、[亜美](https://ameblo.jp/amispace)
   - ストリングス：今野均ストリングス
   - ホーンズ：竹上良成ホーンズ
 
@@ -1384,7 +1384,7 @@
   - [美空ひばり](../Page/美空ひばり.md "wikilink")は芸能生活30周年を迎えた[1976年](../Page/1976年.md "wikilink")に特別賞を受賞し、1度だけ出演したことがあり、「[雑草の歌](https://ja.wikipedia.org/wiki/雑草の歌 "wikilink")」を歌唱した。[1989年](../Page/1989年.md "wikilink")、ひばりの死去に伴って特別賞が授与された（死後追贈）。
   - 日本国外から[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")（1984年）、[ケニー・ロギンス](../Page/ケニー・ロギンス.md "wikilink")（1984年）、[フィンツィ・コンティーニー](https://ja.wikipedia.org/wiki/フィンツィ・コンティーニー "wikilink")（1986年）、[a-ha](https://ja.wikipedia.org/wiki/a-ha "wikilink")（1987年）、[マライア・キャリー](https://ja.wikipedia.org/wiki/マライア・キャリー "wikilink")（1994年。[ニューヨーク](../Page/ニューヨーク.md "wikilink")からの衛星中継\[40\]）、[スティング](../Page/スティング_\(ミュージシャン\).md "wikilink")（2001年）、[デスティニーズ・チャイルド](../Page/デスティニーズ・チャイルド.md "wikilink")（2004年）、[ダニエル・パウター](../Page/ダニエル・パウター.md "wikilink")（2006年）、[シェネル](https://ja.wikipedia.org/wiki/シェネル "wikilink")（2012年）などが出演している。
   - コンサート形式に変更されてからの数年間は、「ベストヒットセレクション」として1990年代のみの形式変更後の曲しか放送されていなかった。
-  - 2001年は「2001 FNS歌謡祭・放送10周年記念」と題して行ったが、これはコンテスト時代の年数を勘定に含まない形で「10周年」としていたためであった。2004年は第1回（1974年）から通算した年数により「30周年記念・2004FNS歌謡祭」と題して行った。
+  - 2001年は「2001 FNS歌謡祭・放送10周年記念」と題して行ったが、これはコンテスト時代の年数を勘定に含まない形で「10周年」としていたためであった。2004年は第1回（1974年）から通算した年数により「30周年記念・2004FNS歌謡祭」と題して行った。なおコンテスト形式時代には、1984年7月19日に『FNS歌謡祭10周年記念特別企画 栄光のビッグスター 想い出のシーン 涙の感動編』が『[木曜おもしろバラエティ](../Page/おもしろバラエティ.md "wikilink")』で放送された事があった\[41\]。
   - 「秘蔵VTR感動の名曲集」（第1回からの名場面[ピックアップ](https://ja.wikipedia.org/wiki/ピックアップ "wikilink")映像集）は、2002年に初めて放送された。
   - 2005年では男性司会者の草彅がSMAPとしても出演しトップバッターと大トリで歌唱し、女性司会者の黒木も歌手としても出演（芸能生活25周年記念）し、「[すみれの花咲く頃](https://ja.wikipedia.org/wiki/再び白いライラックが咲いたら_\(曲\) "wikilink")」、「[運命〜ぐうぜん〜](https://ja.wikipedia.org/wiki/運命〜ぐうぜん〜 "wikilink")」の2曲を歌唱したため、司会が双方とも歌手としても出演する初の形となった。以降、草彅が司会の常連になる（2014年まで。2008年を除く）と同時にSMAPがトップバッター（2014年まで。2011年を除く）と大トリで歌唱するのが恒例となっている。2007年には黒木と彼女がかつて在籍していた[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")のメンバーで『すみれの花咲く頃』を歌唱した。
   - 客席にフジテレビの若手女性アナウンサーが映ることがしばしばあるが、これは港曰く「見切れてもいいAD」なのだそうで 、彼女達は出演者誘導などの裏方仕事に従事している。
@@ -1393,10 +1393,10 @@
   - 2011年3月27日には「[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）復興支援」を目的とした本番組の特別編『**[FNS音楽特別番組 上を向いて歩こう 〜うたでひとつになろう日本〜](https://ja.wikipedia.org/wiki/FNS音楽特別番組_上を向いて歩こう_〜うたでひとつになろう日本〜 "wikilink")**』が19:00 - 21:54（[JST](../Page/日本標準時.md "wikilink")）にて放送され、司会は草彅剛と高島彩が担当した。また、同番組はAMラジオ局[ニッポン放送](../Page/ニッポン放送.md "wikilink")・[茨城放送](../Page/茨城放送.md "wikilink")で同時生放送、[東北放送](../Page/東北放送.md "wikilink")・[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")・[ラジオ福島](../Page/ラジオ福島.md "wikilink")で翌日未明（同日深夜）に録音放送された。そして8月6日（テレビ大分は8月14日）には同年2度目の本番組特別編『[FNS歌謡祭 うたの夏まつり2011](https://ja.wikipedia.org/wiki/FNS歌謡祭_うたの夏まつり2011 "wikilink")』が放送された。それ以降も『[FNSうたの夏まつり](https://ja.wikipedia.org/wiki/FNSうたの夏まつり "wikilink")』のタイトルで毎年7月下旬から8月上旬の[プライムタイム](../Page/プライムタイム.md "wikilink")で放送が行われている（前述の通り2016年からは春に『FNSうたの夏まつり』の春版として、新たに『[FNSうたの春まつり](https://ja.wikipedia.org/wiki/FNSうたの春まつり "wikilink")』も放送されるようになる）。
   - 2011年7月24日放送の『[FNS27時間テレビ めちゃ<sup>2</sup>デジッてるッ\! 笑顔になれなきゃテレビじゃないじゃ〜ん\!\!](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2011年\) "wikilink")』では、本番組のメインステージに似せたセットを使用し「[FNS歌へた祭](https://ja.wikipedia.org/wiki/お笑い芸人歌がへたな王座決定戦スペシャル "wikilink")」という[パロディ](../Page/パロディ.md "wikilink")コーナーが行われた。
   - 第40回からは番組の放送中に[インターネット](../Page/インターネット.md "wikilink")の連動で、番組公式の[Twitter](../Page/Twitter.md "wikilink")で出番前や出番後のアーティストや番組の裏側を紹介するツイートが投稿されている。以降、毎年行われている。
-  - 系列局でも、[テレビ大分](../Page/テレビ大分.md "wikilink")では[クロスネットの都合で](../Page/クロスネット局.md "wikilink")、放送日時を差し替えることがある。また、[テレビ山口](../Page/テレビ山口.md "wikilink")は、1987年9月30日限りでフジテレビ系列から脱退（[TBS系列のニュース・番組の関係で](https://ja.wikipedia.org/wiki/JNN排他協定 "wikilink")[クロスネット局](../Page/クロスネット局.md "wikilink")であった[TBS系列に](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[フルネット完全移行](../Page/ネットチェンジ.md "wikilink")）したため、遡っての1986年度限りでの放送終了を余儀なくされた。[広島テレビ](../Page/広島テレビ放送.md "wikilink")（[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")）では、[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")開局まで放送されていたが、木曜に放送の第1回から3回までの本選は、21:00からの日本テレビ番組の関係で20:55まで同時ネット・20:55以降の内容を同日深夜の『[11PM](../Page/11PM.md "wikilink")』放送後に録画時差ネット、となる場合があった。[新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")では、[テレビ新潟開局まで](../Page/テレビ新潟放送網.md "wikilink")[NST土曜スペシャル](../Page/NST土曜スペシャル.md "wikilink")内で放送されたことがある。山形県では当初から1992年までは[山形テレビ](../Page/山形テレビ.md "wikilink")で放送されたが、1993年4月の[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列へのネットチェンジの影響でしばらく放送されなかった\[41\]が、1997年4月に[さくらんぼテレビが開局したため](../Page/さくらんぼテレビジョン.md "wikilink")、4年ぶりに山形県での放送が復活した。
+  - 系列局でも、[テレビ大分](../Page/テレビ大分.md "wikilink")では[クロスネットの都合で](../Page/クロスネット局.md "wikilink")、放送日時を差し替えることがある。また、[テレビ山口](../Page/テレビ山口.md "wikilink")は、1987年9月30日限りでフジテレビ系列から脱退（[TBS系列のニュース・番組の関係で](https://ja.wikipedia.org/wiki/JNN排他協定 "wikilink")[クロスネット局](../Page/クロスネット局.md "wikilink")であった[TBS系列に](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")[フルネット完全移行](../Page/ネットチェンジ.md "wikilink")）したため、遡っての1986年度限りでの放送終了を余儀なくされた。[広島テレビ](../Page/広島テレビ放送.md "wikilink")（[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")）では、[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")開局まで放送されていたが、木曜に放送の第1回から3回までの本選は、21:00からの日本テレビ番組の関係で20:55まで同時ネット・20:55以降の内容を同日深夜の『[11PM](../Page/11PM.md "wikilink")』放送後に録画時差ネット、となる場合があった。[新潟総合テレビでは](../Page/NST新潟総合テレビ.md "wikilink")、[テレビ新潟開局まで](../Page/テレビ新潟放送網.md "wikilink")[NST土曜スペシャル](../Page/NST土曜スペシャル.md "wikilink")内で放送されたことがある。山形県では当初から1992年までは[山形テレビ](../Page/山形テレビ.md "wikilink")で放送されたが、1993年4月の[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列へのネットチェンジの影響でしばらく放送されなかった](../Page/オールニッポン・ニュースネットワーク.md "wikilink")\[42\]が、1997年4月に[さくらんぼテレビが開局したため](../Page/さくらんぼテレビジョン.md "wikilink")、4年ぶりに山形県での放送が復活した。
   - 2012年12月5日と2013年6月19日には、『[森田一義アワー 笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")』において、[タカ](https://ja.wikipedia.org/wiki/タカ_\(お笑い芸人\) "wikilink")（[タカアンドトシ](../Page/タカアンドトシ.md "wikilink")）と当日担当のテレフォンアナウンサー（2012年12月は[本田朋子](https://ja.wikipedia.org/wiki/本田朋子 "wikilink")、2013年6月は[生田竜聖](https://ja.wikipedia.org/wiki/生田竜聖 "wikilink")（いずれも放送時点のフジテレビアナウンサー））のMCで「（年号）FNSタ歌謡祭」という企画が行われた。2012年12月放送回は「2012FNS歌謡祭」放送当日に行われ1980 - 1990年代前半にヒットした曲を歌手が生歌唱する内容。2013年6月放送回は当日の「テレフォンショッキング」ゲストの[田原俊彦](../Page/田原俊彦.md "wikilink")が代表曲を歌唱する内容だった。なおCM前後のジングルなどのは本家のものがそのまま使用された。
   - 2015年7月26日放送の『[FNS27時間テレビ めちゃ<sup>2</sup>ピンチってるッ\! 1億2500万人の本気になれなきゃテレビじゃないじゃ〜ん\!\!](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2015年\) "wikilink")』では、本番組のメインステージに似せたセットを使用し「FNSドリームカバー歌謡祭」というパロディコーナーが行われた。
-  - 2020年3月21日には[新型コロナウイルスの感染拡大によって](../Page/2019新型コロナウイルス.md "wikilink")『[2020年世界フィギュアスケート選手権](https://ja.wikipedia.org/wiki/2020年世界フィギュアスケート選手権 "wikilink")』の開催が延期になったことに伴い、開いた放送枠を利用して本番組の特別編『**[緊急生放送\! FNS音楽特別番組 春は必ず来る](../Page/緊急生放送!_FNS音楽特別番組_春は必ず来る.md "wikilink")**』が19:00 - 22:00（[JST](../Page/日本標準時.md "wikilink")）\[42\]にて放送され、司会は[榎並大二郎](https://ja.wikipedia.org/wiki/榎並大二郎 "wikilink")と[永島優美](https://ja.wikipedia.org/wiki/永島優美 "wikilink")（どちらもフジテレビアナウンサー）が担当した。\[43\]
+  - 2020年3月21日には[新型コロナウイルスの感染拡大により](../Page/2019新型コロナウイルス.md "wikilink")『[2020年世界フィギュアスケート選手権](https://ja.wikipedia.org/wiki/2020年世界フィギュアスケート選手権 "wikilink")』の開催が延期\[43\]になったことに伴い、空いた放送枠のうちの1日分を利用して本番組の特別編『**[緊急生放送\! FNS音楽特別番組 春は必ず来る](../Page/緊急生放送!_FNS音楽特別番組_春は必ず来る.md "wikilink")**』が19:00 - 22:00（[JST](../Page/日本標準時.md "wikilink")）\[44\]にて放送され、司会は[榎並大二郎](https://ja.wikipedia.org/wiki/榎並大二郎 "wikilink")と[永島優美](https://ja.wikipedia.org/wiki/永島優美 "wikilink")（どちらもフジテレビアナウンサー）が担当した\[45\]。
 
 ## ネット局
 
@@ -1519,7 +1519,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/島根県.md" title="wikilink">島根県</a>・<a href="../Page/鳥取県.md" title="wikilink">鳥取県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送" title="wikilink">山陰中央テレビ</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送" title="wikilink">さんいん中央テレビ</a><br />
 （TSK）</p></td>
 <td></td>
 <td></td>
@@ -1713,8 +1713,6 @@
 
 ### 注釈
 
-<references group="注" />
-
 ### 出典
 
 ## 関連項目
@@ -1725,13 +1723,13 @@
 
 ## 派生番組
 
-  - [FNSうたの夏まつり](https://ja.wikipedia.org/wiki/FNSうたの夏まつり "wikilink") - 同局で当番組の派生番組として、2012年から毎年[夏](../Page/夏.md "wikilink")に放送されている大型音楽番組。両番組共、出演アーティスト同士の[コラボレーション](../Page/コラボレーション.md "wikilink")（共演）がメインとなっている。司会は[森高千里](../Page/森高千里.md "wikilink")、[渡部建](https://ja.wikipedia.org/wiki/渡部建 "wikilink")、[加藤綾子](https://ja.wikipedia.org/wiki/加藤綾子 "wikilink")（2018年現在）。2012年8月8日から放送開始。
+  - [FNSうたの夏まつり 夏](https://ja.wikipedia.org/wiki/FNSうたの夏まつり "wikilink")→FNS歌謡祭 - 同局で当番組の派生番組として、2012年から毎年[夏](../Page/夏.md "wikilink")に放送されている大型音楽番組。両番組共、出演アーティスト同士の[コラボレーション](../Page/コラボレーション.md "wikilink")（共演）がメインとなっている。司会は[相葉雅紀](https://ja.wikipedia.org/wiki/相葉雅紀 "wikilink")、[永島優美](https://ja.wikipedia.org/wiki/永島優美 "wikilink")（2020年現在）。2012年8月8日から放送開始。
   - [FNSうたの春まつり](https://ja.wikipedia.org/wiki/FNSうたの春まつり "wikilink") - 同局で当番組の派生番組として、2016年から2017年まで毎年[春](../Page/春.md "wikilink")に放送されていた大型音楽番組。司会は森高千里、渡部建、加藤綾子（2017年現在）。2016年3月28日から放送開始。
 
 ## 関連番組
 
   - [MUSIC FAIR](../Page/ミュージックフェア.md "wikilink") - 同局で毎週土曜日18:00 - 18:30にレギュラー放送されている音楽番組。同番組で誕生したコラボレーションが、当番組で披露される場合がある。司会は[仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")、[軽部真一](../Page/軽部真一.md "wikilink")。1964年8月31日から放送開始。
-  - [僕らの音楽](../Page/僕らの音楽_Our_Music.md "wikilink") - 同局でレギュラー放送されていた音楽番組。同番組で誕生したコラボレーションが、当番組で披露される場合があった。司会は[草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")。2004年4月3日放送開始。2014年9月19日放送終了。
+  - [僕らの音楽](../Page/僕らの音楽_Our_Music.md "wikilink") - 同局でレギュラー放送されていた音楽番組。同番組で誕生したコラボレーションが、当番組で披露される場合があった。司会は[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")。2004年4月3日放送開始。2014年9月19日放送終了。
   - [水曜歌謡祭](https://ja.wikipedia.org/wiki/Love_music "wikilink") - 同局でレギュラー放送されていた音楽番組。当番組のスタッフが制作を担当。司会は森高千里、渡部建。2015年4月15日放送開始。同年9月2日放送終了。
   - [Love music](https://ja.wikipedia.org/wiki/Love_music "wikilink") - 2015年10月16日から同局で毎週金曜日23:30 - 23:58にレギュラー放送される音楽番組で『水曜歌謡祭』の後継番組。『水曜-』司会の森高、渡部はそのまま続投となる。2017年4月17日より毎週月曜日0:30 - 1:25に移動・拡大。
   - [FNS27時間テレビ](../Page/FNSの日.md "wikilink") - 同局で、毎年9月上旬に放送されている[長時間特別番組](../Page/日本の長時間特別番組一覧.md "wikilink")。当番組同様の年1回放送のスペシャル番組。[2011年](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2011年\) "wikilink")・[2015年の同番組では](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2015年\) "wikilink")、当番組のパロディコーナーも行われた。
@@ -1793,9 +1791,9 @@
 
   -
   -
-[Category:FNS歌謡祭](https://ja.wikipedia.org/wiki/Category:FNS歌謡祭 "wikilink") [Category:データ放送連動番組](https://ja.wikipedia.org/wiki/Category:データ放送連動番組 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink") [Category:フジテレビの音楽番組](https://ja.wikipedia.org/wiki/Category:フジテレビの音楽番組 "wikilink") [Category:フジテレビの年末年始特番](https://ja.wikipedia.org/wiki/Category:フジテレビの年末年始特番 "wikilink") [Category:かつて存在した日本の音楽賞](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の音楽賞 "wikilink") [Category:音組](https://ja.wikipedia.org/wiki/Category:音組 "wikilink") [Category:年1回放送の特別番組](https://ja.wikipedia.org/wiki/Category:年1回放送の特別番組 "wikilink") [Category:火曜ワイドスペシャル](https://ja.wikipedia.org/wiki/Category:火曜ワイドスペシャル "wikilink") [Category:土曜プレミアム](https://ja.wikipedia.org/wiki/Category:土曜プレミアム "wikilink") [Category:FNSの日](https://ja.wikipedia.org/wiki/Category:FNSの日 "wikilink")
+[Category:FNS歌謡祭](https://ja.wikipedia.org/wiki/Category:FNS歌謡祭 "wikilink") [Category:データ放送連動番組](https://ja.wikipedia.org/wiki/Category:データ放送連動番組 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink") [Category:フジテレビの音楽番組](https://ja.wikipedia.org/wiki/Category:フジテレビの音楽番組 "wikilink") [Category:フジテレビの年末年始特番](https://ja.wikipedia.org/wiki/Category:フジテレビの年末年始特番 "wikilink") [Category:かつて存在した日本の音楽賞](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の音楽賞 "wikilink") [Category:音組](https://ja.wikipedia.org/wiki/Category:音組 "wikilink") [Category:年1回放送の特別番組](https://ja.wikipedia.org/wiki/Category:年1回放送の特別番組 "wikilink") [Category:火曜ワイドスペシャル](https://ja.wikipedia.org/wiki/Category:火曜ワイドスペシャル "wikilink") [Category:おもしろバラエティ](https://ja.wikipedia.org/wiki/Category:おもしろバラエティ "wikilink") [Category:土曜プレミアム](https://ja.wikipedia.org/wiki/Category:土曜プレミアム "wikilink") [Category:FNSの日](https://ja.wikipedia.org/wiki/Category:FNSの日 "wikilink")
 
-1.  2015年以降は12月[中旬](https://ja.wikipedia.org/wiki/中旬 "wikilink")にも放送。
+1.  2015年以降は12月[中旬](https://ja.wikipedia.org/wiki/中旬 "wikilink")にも放送。また、2020年は『FNS歌謡祭 夏』として[夏](../Page/夏.md "wikilink")にも放送。
 2.  本来は[フジネットワーク](../Page/フジネットワーク.md "wikilink")の略称で、同組織を指す言葉であるため意味としては正しい使い方ではないが、近年は『うたの夏祭り』と共に音楽特番を指す言葉として使われている。
 3.  ただし番組自体は『火WSP』番組扱いはされない。
 4.  横浜アリーナで開催された1996年と1997年、2DAYS方式となった2015年以降を除く。
@@ -1819,22 +1817,24 @@
 22. 元テレビ朝日アナウンサー。
 23. 元日本テレビアナウンサー。
 24. 2006年までは新高輪プリンスホテル。
-25. SMAPのメンバー。
+25. [SMAP](../Page/SMAP.md "wikilink")のメンバー（放送当時）。
 26. 2010年まではフジテレビアナウンサーでそれ以降はフリーアナウンサー。
 27.
 28. 2014年当時はフジテレビアナウンサー、2016年よりフリーアナウンサー。
-29. アンジャッシュのツッコミ担当。
+29. [アンジャッシュ](../Page/アンジャッシュ.md "wikilink")のメンバー。
 30.
 31.
-32. 嵐のメンバー。
+32. [嵐のメンバー](../Page/嵐_\(グループ\).md "wikilink")。
 33. 第1部（18:30 - 19:00）
 34. 第2部（19:00 - 23:00）
 35. 第3部（23:00 - 23:28）
 36. 第1部（19:00 - 23:00）
 37. 第2部（23:00 - 23:28）
 38. [2008/01/23『FNS歌謡祭』フジテレビ社長賞受賞！](http://otogumi.fujitv.co.jp/lovekp/E20080123001.html) 2008年1月23日
-39. [番組公式サイトより](http://www.fujitv.co.jp/FNS/index.html)
+39. [番組公式サイト](http://www.fujitv.co.jp/FNS/index.html)
 40. 『[産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink")』1994年11月24日付東京夕刊。
-41. ただし、近隣のフジテレビ系列局を[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")などで（仙台放送・秋田テレビ・福島テレビ・新潟総合テレビ）受信できた場合は引き続き視聴可能だった。
-42. 一部地域では21:54（[JST](../Page/日本標準時.md "wikilink")）飛び降り
-43.
+41.
+42. ただし、近隣のフジテレビ系列局を[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")などで（仙台放送・秋田テレビ・福島テレビ・新潟総合テレビ）受信できた場合は引き続き視聴可能だった。
+43. その後、正式に中止が決定。
+44. 一部地域では21:54（[JST](../Page/日本標準時.md "wikilink")）飛び降り
+45.

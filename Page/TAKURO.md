@@ -3,7 +3,7 @@
 
 **TAKURO**（タクロウ、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[5月26日](../Page/5月26日.md "wikilink") - ）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[函館市](../Page/函館市.md "wikilink")出身の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[GLAY](../Page/GLAY.md "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")、[キーボーディスト](../Page/キーボーディスト.md "wikilink")。同バンドのリーダーを務めている。[loversoul music & associates代表取締役](../Page/フォーライフミュージックエンタテイメント.md "wikilink")\[1\]。
 
-本名は久保 琢郎（くぼ たくろう）。[北海道函館稜北高等学校](../Page/北海道函館稜北高等学校.md "wikilink")卒業。身長182cm。[血液型はO型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。妻はモデルの[岩堀せり](../Page/岩堀せり.md "wikilink")。2児の父。
+本名は久保 琢郎（くぼ たくろう）。[北海道函館稜北高等学校](../Page/北海道函館稜北高等学校.md "wikilink")卒業。身長182cm。[血液型はO型](../Page/ABO式血液型.md "wikilink")。妻はモデルの[岩堀せり](../Page/岩堀せり.md "wikilink")。2児の父。
 
 ## 経歴
 
@@ -31,6 +31,7 @@
   - 2013年[10月27日](../Page/10月27日.md "wikilink") - [VAMPS](https://ja.wikipedia.org/wiki/VAMPS "wikilink")主催のライブイベント「HALLOWEEN PARTY 2013」に、TERUと共に出演\[3\]。
   - 2013年[11月13日](../Page/11月13日.md "wikilink") - [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")のロックバンド[Mayday](../Page/メイデイ_\(台湾のバンド\).md "wikilink")(五月天)のベストアルバム「Mayday×五月天 the Best of 1999‐2013」のリード曲「Dancin' Dancin' feat. TERU (GLAY)」に、TERUと共に参加\[4\]。
   - [2016年](../Page/2016年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink") - 1stソロ・アルバム「[Journey without a map](https://ja.wikipedia.org/wiki/Journey_without_a_map "wikilink")」を発表。
+  - [2020年](../Page/2020年.md "wikilink")[6月3日](../Page/6月3日.md "wikilink")、[SUGIZO](../Page/SUGIZO.md "wikilink")との対談集「CONVERSATION PIECE ロックン･ロールを巡る10の対話」を、2020年9月下旬ごろに発売することを発表\[5\]。
 
 ## 人物
 
@@ -44,7 +45,7 @@
   - ブレイクしてから忙しさのあまりに売れている実感はなかったが、テレビで共演した[渡辺徹に](https://ja.wikipedia.org/wiki/渡辺徹_\(俳優\) "wikilink")「CD買ったよ」と言われ、「売れているんだ」と実感したという。
   - [1994年](../Page/1994年.md "wikilink") - [1999年](../Page/1999年.md "wikilink")に『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』で連載された『[Harlem Beat](../Page/Harlem_Beat.md "wikilink")』の中に登場したキャラクター「甲斐万丈」のデザインモデルにもなっている。
   - TERU曰く、「これほどGLAYを好きな人は他にいない」とのこと。
-  - GLAYのオフィシャルショップ「G-DIRECT」の企画を立てた際、他のGLAYのメンバーに「G-DIRECT」についての自らの考えをメールで送ったが、TERUとHISASHIはメールを読まずにTAKUROの考えを支持する旨を返信した。HISASHI曰く、「そこまでTAKUROが考えたことならきっといいことなんだろうと思った」とのこと\[5\]。
+  - GLAYのオフィシャルショップ「G-DIRECT」の企画を立てた際、他のGLAYのメンバーに「G-DIRECT」についての自らの考えをメールで送ったが、TERUとHISASHIはメールを読まずにTAKUROの考えを支持する旨を返信した。HISASHI曰く、「そこまでTAKUROが考えたことならきっといいことなんだろうと思った」とのこと\[6\]。
   - [Twitter](../Page/Twitter.md "wikilink")に関しては、「他者と接している時に、目の前の相手をないがしろにしてTwitterをやること」に苦言を呈したり、「自分でTwitterをやる時間があるなら、その時間を他の『やるべきこと』のために費やす」といった旨の発言をしている。
   - JIROと同じ幼稚園に通っており、小学校もTAKUROが転校するまでは一緒だった。転校先の小学校にはTERUが在籍しており、自宅が近くだったのでよく一緒に遊んでいたという。
   - 曲作りは、[英和辞典](https://ja.wikipedia.org/wiki/英和辞典 "wikilink")と[烏龍茶](../Page/烏龍茶.md "wikilink")を必ず用意してから行う（現在、その方法で作曲しているかは不明）。これは、ライブのMCでも公言しており、ファンの間では有名なエピソードとなっている。
@@ -60,17 +61,7 @@
   - [C4の](https://ja.wikipedia.org/wiki/C4_\(ロックバンド\) "wikilink")[TOKI](https://ja.wikipedia.org/wiki/TOKI "wikilink")を親友として挙げている。
   - [YUKIはGLAYのJIROと同郷で高校時代からの知り合い](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")。TAKUROら他のGLAYのメンバーとも高校時代から交流がある。YUKIはアブノーマルという女子だけのバンドを組んでGLAYの主催するライブに参加し、「かまって」と「モノクロームの思い出」という曲を作った。TAKUROの右腕に彫られた「yes」というタトゥーがきっかけとなって制作された楽曲『[yes](https://ja.wikipedia.org/wiki/フラッグを立てろ "wikilink")』がある。
   - [the pillowsの](https://ja.wikipedia.org/wiki/the_pillows "wikilink")[山中さわお](../Page/山中さわお.md "wikilink")とは、一緒に呑んだりライブを観に行ったりする。女優の[中山美穂](../Page/中山美穂.md "wikilink")、歌手の[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")、[松山千春](../Page/松山千春.md "wikilink")、[氷室京介](../Page/氷室京介.md "wikilink")や漫画家の[小林よしのり](../Page/小林よしのり.md "wikilink")、[東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")の[谷中敦](https://ja.wikipedia.org/wiki/谷中敦 "wikilink")、[伊藤英明](../Page/伊藤英明.md "wikilink")、[及川光博](../Page/及川光博.md "wikilink")、[平岡祐太](../Page/平岡祐太.md "wikilink")、[上川隆也](../Page/上川隆也.md "wikilink")、[唐沢寿明](../Page/唐沢寿明.md "wikilink")、[堺正章](../Page/堺正章.md "wikilink")、[flumpool](https://ja.wikipedia.org/wiki/flumpool "wikilink")、[シド](../Page/シド_\(バンド\).md "wikilink")、[EXILE HIROとも交流がある](https://ja.wikipedia.org/wiki/EXILE_HIRO "wikilink")。
-
-## 作品
-
-※[GLAY](../Page/GLAY.md "wikilink")としての作品は*[GLAYの作品](https://ja.wikipedia.org/wiki/GLAYの作品 "wikilink")*を参照のこと。
-
-|          | 発売日                                                                        | タイトル                                                                                               | 規格      | 品番         | 備考            |
-| -------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------- | ---------- | ------------- |
-| 1st      | [2016年](../Page/2016年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink") | '''[Journey without a map](https://ja.wikipedia.org/wiki/Journey_without_a_map "wikilink") '''     | CD+DVD盤 | PCCN-00025 | オリコン週間チャート10位 |
-| CD only盤 | PCCN-00026                                                                 |                                                                                                    |         |            |               |
-| 2nd      | [2019年](../Page/2019年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")   | '''[Journey without a map Ⅱ](https://ja.wikipedia.org/wiki/Journey_without_a_map_Ⅱ "wikilink") ''' | CD+DVD盤 | PCCN-00033 | オリコン週間チャート28位 |
-| CD only盤 | PCCN-00034                                                                 |                                                                                                    |         |            |               |
+  - スポーツ界では[青木宣親](../Page/青木宣親.md "wikilink")と親交があり、青木は[メジャーリーグから日本への復帰についてTAKUROに相談したと語っている](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")。青木が[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")に復帰した際、本人からの依頼を受けて登場曲を作曲した。
 
 ## 使用ギター
 
@@ -408,7 +399,18 @@ GLAYのプロデューサー、[佐久間正英](../Page/佐久間正英.md "wik
   -
     毎週月曜〜水曜 25:33分頃〜（2005年3月 番組終了）は現在休止中
 
-## 楽曲提供／参加作品
+## 作品
+
+※[GLAY](../Page/GLAY.md "wikilink")としての作品は*[GLAYの作品](https://ja.wikipedia.org/wiki/GLAYの作品 "wikilink")*を参照のこと。
+
+|          | 発売日                                                                        | タイトル                                                                                               | 規格      | 品番         | 備考            |
+| -------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------- | ---------- | ------------- |
+| 1st      | [2016年](../Page/2016年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink") | '''[Journey without a map](https://ja.wikipedia.org/wiki/Journey_without_a_map "wikilink") '''     | CD+DVD盤 | PCCN-00025 | オリコン週間チャート10位 |
+| CD only盤 | PCCN-00026                                                                 |                                                                                                    |         |            |               |
+| 2nd      | [2019年](../Page/2019年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")   | '''[Journey without a map Ⅱ](https://ja.wikipedia.org/wiki/Journey_without_a_map_Ⅱ "wikilink") ''' | CD+DVD盤 | PCCN-00033 | オリコン週間チャート28位 |
+| CD only盤 | PCCN-00034                                                                 |                                                                                                    |         |            |               |
+
+### 楽曲提供／参加作品
 
 1.  **SPEED BALL / [D.I.E.](../Page/D.I.E..md "wikilink")** (1996年3月15日)
       -
@@ -493,9 +495,9 @@ GLAYのプロデューサー、[佐久間正英](../Page/佐久間正英.md "wik
 26. **[THE END](../Page/THE_END_\(NANA_starring_MIKA_NAKASHIMAのアルバム\).md "wikilink") / NANA starring MIKA NAKASHIMA** (2006年12月23日)
       -
         「一色 (ALTAnative)」の作曲・ベースを担当。編曲を佐久間正英と担当。
-27. **[RED RIBBON Spiritual Song〜生まれ来る子供たちのために〜](https://ja.wikipedia.org/wiki/生まれ来る子供たちのために "wikilink") / [AIDS チャリティ Project](https://ja.wikipedia.org/wiki/AIDS_チャリティ_Project "wikilink")** (2007年11月28日)
+27. **[RED RIBBON Spiritual Song 〜生まれ来る子供たちのために〜](https://ja.wikipedia.org/wiki/生まれ来る子供たちのために#RED_RIBBON_Spiritual_Song_〜生まれ来る子供たちのために〜 "wikilink") / [AIDS チャリティ Project](https://ja.wikipedia.org/wiki/AIDS_チャリティ_Project "wikilink")** (2007年11月28日)
       -
-        「RED RIBBON Spiritual Song〜生まれ来る子供たちのために〜」にギターで参加。TERUもボーカルで参加している。
+        「RED RIBBON Spiritual Song 〜生まれ来る子供たちのために〜」にギターで参加。TERUもボーカルで参加している。
 28. **GO AHEAD\!\! / [及川光博](../Page/及川光博.md "wikilink")** (2008年10月8日)
       -
         「GO AHEAD\!\!」の作曲を担当。
@@ -516,7 +518,7 @@ GLAYのプロデューサー、[佐久間正英](../Page/佐久間正英.md "wik
         作詞・作曲を担当。
 34. **[Mayday × 五月天 the Best of 1999-2013](https://ja.wikipedia.org/wiki/Mayday_×_五月天_the_Best_of_1999-2013 "wikilink") / [Mayday](../Page/メイデイ_\(台湾のバンド\).md "wikilink")** (2013年11月13日)
       -
-        「Dancin' Dancin' feat. TERU (GLAY)」にギターで参加\[6\]。
+        「Dancin' Dancin' feat. TERU (GLAY)」にギターで参加\[7\]。
 35. **X -CrossII- / [石川さゆり](../Page/石川さゆり.md "wikilink")** (2014年4月23日)
       -
         「Ra.n.se」「千年逃亡」の作詞・作曲を担当。
@@ -568,5 +570,6 @@ GLAYのプロデューサー、[佐久間正英](../Page/佐久間正英.md "wik
 2.  [NACK5スペシャル TAKURO-NO-WAR.jp　反戦の声は届いたか（全文書き起こし）](http://xxbgxx.jugem.cc/?eid=19) ブログ「beautiful garbage」2004年12月23日
 3.
 4.
-5.  「『My Private "Jealousy"』発売記念 〜GLAY DIRECT TALK〜」でのTAKURO、TERU、HISASHIの発言より (2011.11.17 YouTube、ニコニコ生放送、U-STREAMにて同時生放送)。なお、JIROはこの時即答したともメールを読んで返したとも語られていない。
-6.
+5.
+6.  「『My Private "Jealousy"』発売記念 〜GLAY DIRECT TALK〜」でのTAKURO、TERU、HISASHIの発言より (2011.11.17 YouTube、ニコニコ生放送、U-STREAMにて同時生放送)。なお、JIROはこの時即答したともメールを読んで返したとも語られていない。
+7.

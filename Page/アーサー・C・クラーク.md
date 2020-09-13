@@ -95,7 +95,7 @@
 
 「前哨」(1948) で初めて宗教的テーマが導入され、『都市と星』などの作品でそれがさらに追究されている。「前哨」には、知的種族が進化すると神に近いものになるというもう1つのテーマがあった。これをさらに深めたのが1953年の『[幼年期の終り](../Page/幼年期の終り.md "wikilink")』である。この考え方は『地球帝国』にも若干現れている。この進化による超越という考え方は[オラフ・ステープルドン](../Page/オラフ・ステープルドン.md "wikilink")の追究したテーマに近い。クラークはステープルドンの『最後にして最初の人類』(1930) について「この本ほど私の生涯に影響を与えた作品はない（中略）そしてそれに続く『スターメイカー』(1937) と共に（ステープルドンの）最高傑作に挙げられる」と述べている。
 
-クラークは海洋（特に深海）にも大きな興味を持っており、「ビッグ・ゲーム・ハント」、「海底牧場」、「きらめく生きもの」、『イルカの島』といった作品にそれが表れている。
+クラークは海洋（特に深海）にも大きな興味を持っており、「ビッグ・ゲーム・ハント」、「海底牧場」、「きらめく生きもの」、『[イルカの島](../Page/イルカの島.md "wikilink")』といった作品にそれが表れている。
 
 多くの科学者や宇宙飛行士らと親交があり、何人かは小説に登場している。他にもしばしば作中で現実とのクロスオーバーを行っており、『[2010年宇宙の旅](../Page/2010年宇宙の旅.md "wikilink")』では登場人物が遺棄宇宙船の中で[ある有名SFホラー映画を話題にする](../Page/エイリアン_\(映画\).md "wikilink")、[チュニジアの砂漠に残された有名SF映画の小道具が異星人のものと間違えられる](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード4/新たなる希望 "wikilink")、などのエピソードがあり、『[2061年宇宙の旅](../Page/2061年宇宙の旅.md "wikilink")』では『[スター・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード4/新たなる希望 "wikilink")』が、『[3001年終局への旅](../Page/3001年終局への旅.md "wikilink")』では『[ジュラシック・パーク](../Page/ジュラシック・パーク.md "wikilink")』が、そして『楽園の泉』では『[2001年宇宙の旅](../Page/2001年宇宙の旅.md "wikilink")』が言及されている。
 
@@ -154,14 +154,14 @@
 
   - 『宇宙への序曲』 *Prelude to Space* （[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")） ISBN 4150109656
   - 『火星の砂』 *Sands of Mars* （1951年） ISBN 4150103011
-  - 『宇宙島へ行く少年』 *Islands in the Sky* （1952年） ISBN 4150106827
+  - 『[宇宙島へ行く少年](../Page/宇宙島へ行く少年.md "wikilink")』 *Islands in the Sky* （1952年） ISBN 4150106827
   - 『[幼年期の終り](../Page/幼年期の終り.md "wikilink")』 *Childhood's End* （[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")） ISBN 4488611028 ISBN 4150103410
   - 『銀河帝国の崩壊』 *Against the Fall of Night* （1953年） ISBN 448861101X
   - 『地球光』 *Earthlight* （1955年） ISBN 4150103089
   - 『都市と星』 *The City and the Stars* （1956年） ISBN 4150102716
   - 『海底牧場』 *The Deep Range* （1957年） ISBN 4150102252
   - 『[渇きの海](../Page/渇きの海.md "wikilink")』 *A Fall of Moondust* （[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")） ISBN 415010235X
-  - 『イルカの島』 *Dolphin Island* （1963年） ISBN 4488611036
+  - 『[イルカの島](../Page/イルカの島.md "wikilink")』 *Dolphin Island* （1963年） ISBN 4488611036
   - 『地球帝国』 *Imperial Earth* （[1975年](../Page/1975年.md "wikilink")） ISBN 4152020032 ISBN 4150106037
   - 『楽園の泉』 *The Fountains of Paradise* （1979年） ISBN 4152020318 ISBN 4150107319 - [ヒューゴー賞](../Page/ヒューゴー賞.md "wikilink")\[122\]、[ネビュラ賞](../Page/ネビュラ賞.md "wikilink")\[123\]受賞
   - 『遥かなる地球の歌』 *The Songs of Distant Earth* （1986年） ISBN 4152020598 ISBN 4150111359
@@ -193,12 +193,12 @@
 
 ### 短篇集
 
-  - 『前哨』 *Expedition to Earth* （1953年） ISBN 415010607X
-  - 『明日にとどく』 *Reach for Tomorrow* （1956年） ISBN 4150106606
-  - 『白鹿亭綺譚』 *Tales from the White Hart* （1957年） ISBN 4150104042
-  - 『天の向こう側』 *The Other Side of the Sky* （1958年） ISBN 415010560X
-  - 『10の世界の物語』 *Tales of Ten Worlds* （1962年） ISBN 4150106177
-  - 『』 *The Wind from the Sun* （1972年） ISBN 4150102929
+  - 『[前哨](https://ja.wikipedia.org/wiki/前哨 "wikilink")』 *Expedition to Earth* （1953年） ISBN 415010607X
+  - 『[明日にとどく](../Page/明日にとどく.md "wikilink")』 *Reach for Tomorrow* （1956年） ISBN 4150106606
+  - 『[白鹿亭綺譚](../Page/白鹿亭綺譚.md "wikilink")』 *Tales from the White Hart* （1957年） ISBN 4150104042
+  - 『[天の向こう側](../Page/天の向こう側.md "wikilink")』 *The Other Side of the Sky* （1958年） ISBN 415010560X
+  - 『[10の世界の物語](../Page/10の世界の物語.md "wikilink")』 *Tales of Ten Worlds* （1962年） ISBN 4150106177
+  - 『[太陽からの風](../Page/太陽からの風.md "wikilink")』 *The Wind from the Sun* （1972年） ISBN 4150102929
   - *The Science Fiction Hall of Fame* （1981年、George W. Proctorと共編） - アンソロジー
   - 『太陽系オデッセイ』 （自選短篇集） *The Sentinel* （1983年） ISBN 4102235019
   - *Tales from Planet Earth* （1989年）

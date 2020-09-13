@@ -45,7 +45,7 @@ ASPは[Active Scriptingのホストであるため](https://ja.wikipedia.org/wik
 
 ## Apache::ASPについて
 
-ASPは基本的にMicrosoftのhttpサーバ以外では使えないが、[Apache::ASP](http://www.apache-asp.org/)を使うと、限定的ではあるが[Apache上でPerlを用いたASPを扱えるようになる](../Page/Apache_HTTP_Server.md "wikilink")（Perl以外のスクリプトはサポートしない）。
+ASPは基本的にMicrosoftのhttpサーバ以外では使えないが、[Apache::ASP](http://www.apache-asp.org/)を使うと、限定的ではあるが[Apache上で](../Page/Apache_HTTP_Server.md "wikilink")[Perl](../Page/Perl.md "wikilink")を用いたASPを扱えるようになる（Perl以外のスクリプトはサポートしない）。
 
 ## 関連項目
 

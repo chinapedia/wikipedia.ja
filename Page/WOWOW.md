@@ -91,7 +91,7 @@
       - [12月1日](../Page/12月1日.md "wikilink") - ネット同時配信本サービス開始\[16\]。
   - [2019年](../Page/2019年.md "wikilink")（令和元年）
       - [10月25日](../Page/10月25日.md "wikilink") - 直販と並行して、[スカパー\!を介してのWOWOWの契約](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")・販売を開始。放送チャンネルは直販と同じBS191-193ch。またスカパー\!を通した契約の場合、スカパー\!の基本料（390円（税込429円）/月）が必要となる。
-  - [2020年](../Page/2020年.md "wikilink")（令和2年）[12月1日](../Page/12月1日.md "wikilink") - 2018年同日の一斉開局\[17\]から2年遅れて、[新4K8K衛星放送](https://ja.wikipedia.org/wiki/4K_8Kテレビ放送 "wikilink")「**WOWOW**」開局予定。なお2Kサービスと同じ「9」のリモコンキーIDは他局の4K放送開始時点で予約済み。
+  - [2021年](../Page/2021年.md "wikilink")（令和3年）[3月1日](../Page/3月1日.md "wikilink") - 2018年12月1日の一斉開局\[17\]から2年3ヶ月遅れて、[新4K8K衛星放送](https://ja.wikipedia.org/wiki/4K_8Kテレビ放送 "wikilink")「**WOWOW**」開局予定。当初は2020年（令和2年）12月1日での開局をアナウンスしていたが、[新型コロナウイルス感染症（COVID-19）の流行拡大の影響で](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink")、延期されることとなった。なお2Kサービスと同じ「9」のリモコンキーIDは他局の4K放送開始時点で予約済み。
 
 ## 放送の仕組み
 
@@ -117,7 +117,7 @@ BSデジタル放送が開始された2000年12月1日よりBSアナログ放送
 
 #### BSデジタル放送
 
-論理チャンネル枠番号\[19\]は「**19**」（テレビ：Ch.19\*、ラジオ：Ch.49\*、データ：Ch.79\*）。テレビ放送の[リモコンキーID](../Page/リモコンキーID.md "wikilink")は「**9**」。
+局番号\[19\]はテレビ放送が「**19**」、データ放送が「**79**」、ラジオ放送（終了）が「**49**」。[リモコンキーID](../Page/リモコンキーID.md "wikilink")はテレビ放送が「**9**」、ラジオ放送が「**ラジオ11**」（ただしラジオのIDは非公式）。
 
 テレビ放送は、Ch.191 - Ch.193が使用されている。Ch.191は原則としてBSアナログ5chと[サイマル放送](../Page/サイマル放送.md "wikilink")を行っていた（ただし、[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")はアナログWOWOWでは別番組に差し替えられた）。
 
@@ -388,7 +388,7 @@ WOWOWの[新聞](../Page/新聞.md "wikilink")における[番組表](https://ja
 
 [年](../Page/年.md "wikilink")に数回、WOWOW非契約者のうち衛星放送受信機器を所有している視聴者、またはWOWOWを再送信している[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局に加入している視聴者に対し新規加入を促進する目的で、一定の時間帯だけ連続してノンスクランブル放送を行うことがある\[29\]。1回の時期に1日のみの場合と[土曜日](../Page/土曜日.md "wikilink")・[日曜日](../Page/日曜日.md "wikilink")など2日連続実施の場合がある。
 
-また、[連続ドラマWや](../Page/ドラマW.md "wikilink")[アニメプレミア](../Page/WOWOWアニメ.md "wikilink")\[30\]、一部海外ドラマの連続シリーズ物、[テニス](../Page/テニス.md "wikilink")の世界4大メジャートーナメントや[LPGA（アメリカ女子ゴルフ）でも](../Page/全米女子プロゴルフ協会.md "wikilink")、近年通常放送の第1回目（テニス・ゴルフは初日生中継）に限って無料放送にする作品もある（[無料放送一覧](http://www.wowow.co.jp/muryo/index.html)参照）。
+また、[連続ドラマWや](../Page/ドラマW.md "wikilink")[アニメプレミア](../Page/WOWOWアニメ.md "wikilink")\[30\]、一部海外ドラマの連続シリーズ物、[テニス](../Page/テニス.md "wikilink")の世界4大メジャートーナメントや[LPGA（アメリカ女子ゴルフ）でも](../Page/全米女子プロゴルフ協会.md "wikilink")、近年通常放送の第1回目（テニス・ゴルフは初日生中継）に限って無料放送にする作品もある（[無料放送一覧](https://www.wowow.co.jp/extra/muryo/)参照）。
 
 通常、無料放送を行うのは毎週火曜日24:00から26:00頃まで(日によっては28:00頃まで)の「無料でWOWOW！」と[ステーションブレイク](https://ja.wikipedia.org/wiki/ステーションブレイク "wikilink")（主に番組宣伝）、MUSIC BREAK、映画工房などのミニ番組、WEATHER CLIP（天気予報）のみである。なお開局初期のころは、平日（祝日と年末年始など特定期間を除く）の午前7-12時までの5時間を無料放送として、情報番組や連続ドラマなどを放送していた。\[31\]
 
@@ -444,7 +444,7 @@ WOWOWの[新聞](../Page/新聞.md "wikilink")における[番組表](https://ja
   - [中野知美](../Page/中野知美.md "wikilink")（元[テレビユー福島](../Page/テレビユー福島.md "wikilink")・[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")・[JNNニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")、WOWOWでは契約アナウンサー）
   - [水本早苗](https://ja.wikipedia.org/wiki/水本早苗 "wikilink")（元[山形放送](../Page/山形放送.md "wikilink")）
   - [安江真由美](https://ja.wikipedia.org/wiki/安江真由美 "wikilink")
-  - [安田敬一郎](https://ja.wikipedia.org/wiki/安田敬一郎 "wikilink")（元[山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")）
+  - [安田敬一郎](https://ja.wikipedia.org/wiki/安田敬一郎 "wikilink")（元[山陽放送](../Page/RSK山陽放送.md "wikilink")）
   - [吉年愛梨](https://ja.wikipedia.org/wiki/吉年愛梨 "wikilink")（元[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")）
 
 ## 脚注
@@ -489,19 +489,19 @@ WOWOWの[新聞](../Page/新聞.md "wikilink")における[番組表](https://ja
 11. ステーションブレイク中も含めて終日表示されている。
 12.
 13.
-14. [WOWOWがアクトビラとIMAGICA TVを子会社化。映像配信やコンテンツ制作強化](https://av.watch.impress.co.jp/docs/news/1046223.html),AV Watch,2017年2月27日
+14. [WOWOWがアクトビラとIMAGICA TVを子会社化。映像配信やコンテンツ制作強化](https://av.watch.impress.co.jp/docs/news/1046223.html)、AV Watch、2017年2月27日
 15.
 16. [WOWOWの3チャンネルがネット同時配信。月額2,300円で放送も](https://av.watch.impress.co.jp/docs/news/1141779.html) - AT Watch、2018年9月6日（2018年10月6日閲覧）
-17. [BS日テレ](../Page/BS日本.md "wikilink")（2019年12月1日開局予定だったが、3ヶ月前倒しして同年9月1日の開局に踏み切った）を除く。
+17. [BS日テレ](../Page/BS日本.md "wikilink")（2019年9月1日開局）を除く。
 18. [スター・チャンネル](../Page/スター・チャンネル.md "wikilink")、[BSスカパー\!](https://ja.wikipedia.org/wiki/BSスカパー! "wikilink")なども同様（BSスカパー\!についてはケーブルテレビの一部で、データ放送も利用できない場合がある）
-19. 1事業者に1つずつ割り当てられた枠の番号で、「0」から「39」まである。論理チャンネルの上2桁が、テレビ放送は「枠番号」、ラジオ放送は「枠番号＋30」、データ放送は「枠番号＋60」となる。ただし、枠番号「30」以降はデータ放送（Ch.90\* - Ch.99\*）のみ。
+19. 論理チャンネルの上2桁で、放送事業者とサービスを表す。
 20.
 21. NHKもBS1の20スロット＋BSプレミアムの18スロット＝38スロット、4波運用の[J SPORTSでも各](../Page/J_SPORTS.md "wikilink")16スロット×4ch＝64スロット。
 22.
 23.
 24.
 25.
-26. [スタジオ紹介｜WOWOW渋谷ステーション｜WOWOWオンライン](http://www.wowow.co.jp/shibusta/studio/)
+26. [スタジオ紹介｜WOWOW渋谷ステーション｜WOWOWオンライン](https://www.wowow.co.jp/shibusta/studio/)
 27. 「[ザ・プライムショー](https://ja.wikipedia.org/wiki/ザ・プライムショー "wikilink")」、[2013年](../Page/2013年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")放送、WOWOW制作
 28.
 29. 一部のケーブルテレビ局では[セットトップボックス](../Page/セットトップボックス.md "wikilink")など受信チューナーのシステム上の都合で無料放送中でも視聴できない場合がある。

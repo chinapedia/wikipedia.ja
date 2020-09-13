@@ -1,7 +1,7 @@
 > この記事は[J・D・サリンジャー](https://ja.wikipedia.org/wiki/J・D・サリンジャー)から翻訳されています。
 
 
-**ジェローム・デイヴィッド・サリンジャー**（Jerome David Salinger、[1919年](../Page/1919年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月27日](../Page/1月27日.md "wikilink")\[1\]）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[小説家](../Page/小説家.md "wikilink")。『[ライ麦畑でつかまえて](../Page/ライ麦畑でつかまえて.md "wikilink")』などで知られる。晩年は一切作品を発表せず、公にも姿を見せない隠遁生活を送った。
+**ジェローム・デイヴィッド・サリンジャー**（Jerome David Salinger、[1919年](../Page/1919年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月27日](../Page/1月27日.md "wikilink")\[1\]）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[小説家](../Page/小説家.md "wikilink")。『[ライ麦畑でつかまえて](../Page/ライ麦畑でつかまえて.md "wikilink")』などで知られる。
 
 ## 生涯
 
@@ -27,7 +27,7 @@
 
 ### その後
 
-[1955年](../Page/1955年.md "wikilink")に[ラドクリフ大学](https://ja.wikipedia.org/wiki/ラドクリフ大学 "wikilink")に在学中のクレア・ダグラスと結婚。一男一女を儲けるが、次第に発表する作品数を減らしていく。[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")、いわゆる「[グラース家](../Page/グラース家.md "wikilink")」シリーズの第1作『[バナナフィッシュにうってつけの日](https://ja.wikipedia.org/wiki/バナナフィッシュにうってつけの日 "wikilink")』をはじめとする短編集『ナイン・ストーリーズ』を発表する。[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")に『フラニーとズーイ』、[1963年](../Page/1963年.md "wikilink")に『大工よ、屋根の梁を高く上げよ／シーモア―序章―』を発表し、その後も同シリーズの刊行が続くものと思われたが、[1965年](../Page/1965年.md "wikilink")6月に『[ニューヨーカー](https://ja.wikipedia.org/wiki/ニューヨーカー "wikilink")』に掲載した『ハプワース16、1924年』を最後に完全に沈黙、作家業から事実上引退した。[1967年](../Page/1967年.md "wikilink")にクレアと離婚、[1972年](../Page/1972年.md "wikilink")に当時18歳だったジョイス・メイナードと短期間同棲。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")頃からは約50歳年下の[看護婦と結婚生活を送っていたという](https://ja.wikipedia.org/wiki/看護師 "wikilink")。
+[1955年](../Page/1955年.md "wikilink")に[ラドクリフ大学](https://ja.wikipedia.org/wiki/ラドクリフ大学 "wikilink")に在学中のクレア・ダグラスと結婚。一男一女を儲けるが、次第に発表する作品数を減らしていく。[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")、いわゆる「[グラース家](../Page/グラース家.md "wikilink")」シリーズの第1作『[バナナフィッシュにうってつけの日](https://ja.wikipedia.org/wiki/バナナフィッシュにうってつけの日 "wikilink")』をはじめとする短編集『ナイン・ストーリーズ』を発表する。[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")に『フラニーとズーイ』、[1963年](../Page/1963年.md "wikilink")に『大工よ、屋根の梁を高く上げよ／シーモア―序章―』を発表し、その後も同シリーズの刊行が続くものと思われたが、[1965年](../Page/1965年.md "wikilink")6月に『[ニューヨーカー](https://ja.wikipedia.org/wiki/ニューヨーカー "wikilink")』に掲載した『[ハプワース16、一九二四](https://ja.wikipedia.org/wiki/ハプワース16、一九二四 "wikilink")』を最後に作品の発表を止め、作家業から事実上引退した。[1967年](../Page/1967年.md "wikilink")にクレアと離婚、[1972年](../Page/1972年.md "wikilink")に当時18歳だったジョイス・メイナードと短期間同棲。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")頃からは約50歳年下の[看護婦と結婚生活を送っていたという](https://ja.wikipedia.org/wiki/看護師 "wikilink")。
 
 晩年のサリンジャーは人前に出ることもなく、2メートルの塀で囲まれた屋敷の中で生活をしていたとされる。彼には世捨て人のイメージがつきまとうようになり、一度小説を書き始めると何時間も仕事に没頭し続けており、何冊もの作品を書き上げている、など様々な噂がなされた。ただ、実際にはサリンジャーは、町で「ジェリー」と呼ばれて親しまれ、子供たちとも話をし、毎週土曜に教会の夕食会に参加するなど、地域に溶け込んで暮らしていたという。住民の間では彼の私生活を口外しないことが暗黙の了解だった\[2\]。
 
@@ -37,7 +37,7 @@
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月27日](../Page/1月27日.md "wikilink")、[ニューハンプシャー州](../Page/ニューハンプシャー州.md "wikilink")[コーニッシュにある自宅にて老衰のため死去](https://ja.wikipedia.org/wiki/コーニッシュ_\(ニューハンプシャー州\) "wikilink")\[4\]\[5\]。
 
-遺族が未発表原稿を所有しており、[2019年](../Page/2019年.md "wikilink")現在、出版に向けた準備が進められている\[6\]。
+遺族がサリンジャーの未発表原稿を所有しており、[2019年](../Page/2019年.md "wikilink")現在、出版に向けた準備が進められているとされる\[6\]。
 
 ## 作品リスト
 

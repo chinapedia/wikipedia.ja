@@ -64,7 +64,7 @@
   - 非ラテン文字圏の言語をローマ字表記する場合でも、一般的にやその近似音に使われる。eやi,yが後続する場合であってもgのままで、guとはしないことが多い。有声無声の区別が無いが有気無気の区別がある言語の場合、方式によっては無気音の方に割り当てられ、その場合無声でと発音されることもある。
       - [日本語](../Page/日本語.md "wikilink")のローマ字表記では、[訓令式](https://ja.wikipedia.org/wiki/訓令式 "wikilink")、[ヘボン式](https://ja.wikipedia.org/wiki/ヘボン式 "wikilink")共に[ガ行](https://ja.wikipedia.org/wiki/ガ行 "wikilink")の子音  に用いる。したがって、発音は軟口蓋破裂音  だけではなく、[鼻濁音](../Page/鼻濁音.md "wikilink")の子音である語中の[軟口蓋鼻音](https://ja.wikipedia.org/wiki/軟口蓋鼻音 "wikilink")  も表す。
       - [朝鮮語](../Page/朝鮮語.md "wikilink")のローマ字表記では、[文化観光部2000年式](../Page/文化観光部2000年式.md "wikilink")の場合、[有声](https://ja.wikipedia.org/wiki/有声音 "wikilink")、[無声にかかわらず初声の](../Page/無声音.md "wikilink")（母音が後続する場合）に用いられる。[マッキューン＝ライシャワー式](../Page/マッキューン＝ライシャワー式.md "wikilink")では有声で発音される場合のみ初声に用いる。
-      - [中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")やその[方言](../Page/方言.md "wikilink")の[ピンインでは](../Page/ピン音.md "wikilink")[無気](../Page/有気音.md "wikilink")[無声軟口蓋破裂音](../Page/無声軟口蓋破裂音.md "wikilink")  を表す。ただし、[ウェード式](../Page/ウェード式.md "wikilink")では  である。
+      - [中国語](../Page/中国語.md "wikilink")やその[方言](../Page/方言.md "wikilink")の[ピンインでは](../Page/ピン音.md "wikilink")[無気](../Page/有気音.md "wikilink")[無声軟口蓋破裂音](../Page/無声軟口蓋破裂音.md "wikilink")  を表す。ただし、[ウェード式](../Page/ウェード式.md "wikilink")では  である。
       - [中国南方の方言では](../Page/中華人民共和国.md "wikilink")、広東省教育部門式の[広東語](../Page/広東語.md "wikilink")ローマ字のように[音節](../Page/音節.md "wikilink")頭では無気無声軟口蓋破裂音の  を表すが、音節末では[軟口蓋](../Page/軟口蓋音.md "wikilink")[内破音](../Page/内破音.md "wikilink")  を表す例もある。
   - [チワン語](https://ja.wikipedia.org/wiki/チワン語 "wikilink")でも音節頭では中国語と同様に[無気](../Page/有気音.md "wikilink")[無声軟口蓋破裂音](../Page/無声軟口蓋破裂音.md "wikilink")  を表すが、音節末では[中促調を持つ軟口蓋](../Page/声調.md "wikilink")[内破音](../Page/内破音.md "wikilink")  を表す。
   - [マレー語](../Page/マレー語.md "wikilink")では[音節](../Page/音節.md "wikilink")頭では[有声軟口蓋破裂音](../Page/有声軟口蓋破裂音.md "wikilink")の  を表すが、音節末での実際の発音は軟口蓋[内破音](../Page/内破音.md "wikilink")  である。
@@ -140,6 +140,7 @@
   - [フリーメイソン](https://ja.wikipedia.org/wiki/フリーメイソン "wikilink")のシンボル [Square_compasses.svg](https://ja.wikipedia.org/wiki/File:Square_compasses.svg "fig:Square_compasses.svg") に描かれた文字。God（神）またはGeometry（幾何学）の意味とされる。
   - [グッドデザイン賞](https://ja.wikipedia.org/wiki/グッドデザイン賞 "wikilink")受賞を表すGマーク。
   - [ゴースティング](https://ja.wikipedia.org/wiki/ゴースティング "wikilink")。ゲームの[実況プレイ](https://ja.wikipedia.org/wiki/実況プレイ "wikilink")において、YouTube等での生放送を見ながら同じゲームに参加し、配信者を倒しに行く違反行為。英語圏ではストリームスナイピング (stream sniping) とも呼ばれる。
+  - 大沢誉志幸の楽曲。アルバムSerious Barbarian IIに収録。先行シングルでもある。
 
 #### 商品名
 

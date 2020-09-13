@@ -13,7 +13,7 @@
 
 ## 解説
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:CCD_Bayer_layout.png "wikilink") 多くのデジタルカメラで採用されている単板式カラー[CCD](../Page/CCDイメージセンサ.md "wikilink")・[CMOS](../Page/CMOSイメージセンサ.md "wikilink")[イメージセンサ](https://ja.wikipedia.org/wiki/イメージセンサ "wikilink")では各画素が単色の色情報しか持たない。このためデジタルカメラは撮影時に各画素に対してその周辺画素から足りない色情報を集め与えることで色情報を補完し、フルカラー画像を作り出す「**デモザイク**」（de-mosaic）処理を行っている。多くのデジタルカメラではデモザイクに並行して色や明るさのトーン等を自動レタッチする画像処理を行い、完成した画像を[JPEG](../Page/JPEG.md "wikilink")や[TIFFなどの汎用画像フォーマットで保存する](../Page/Tagged_Image_File_Format.md "wikilink")。
+RAW画像は原則的にカメラの撮像素子から得られた無加工のセンサデータを保持する。撮像素子のピクセルは一般的な画像フォーマットのピクセルとは異なる配列になっている。例えば、下記のベイヤ配列が典型的である。 [thumb](https://ja.wikipedia.org/wiki/ファイル:CCD_Bayer_layout.png "wikilink") 多くのデジタルカメラで採用されている単板式カラー[CCD](../Page/CCDイメージセンサ.md "wikilink")・[CMOS](../Page/CMOSイメージセンサ.md "wikilink")[イメージセンサ](https://ja.wikipedia.org/wiki/イメージセンサ "wikilink")では各画素が単色の色情報しか持たない。従って、デジタルカメラは撮影時に各画素に対してその周辺画素から足りない色情報を集め与えることで色情報を補完し、フルカラー画像を作り出す「**デモザイク**」（de-mosaic）処理を行っている。多くのデジタルカメラではデモザイクに並行して色や明るさのトーン等を自動レタッチする画像処理を行い、完成した画像を[JPEG](../Page/JPEG.md "wikilink")や[TIFFなどの汎用画像フォーマットで保存する](../Page/Tagged_Image_File_Format.md "wikilink")。
 
 しかし、デモザイクや自動レタッチ処理の精度は完成画像の画質に大きな影響を及ぼすほか、現像後(後述)は[ホワイトバランス](../Page/ホワイトバランス.md "wikilink")（[色温度](https://ja.wikipedia.org/wiki/色温度 "wikilink")）などが固定されてしまうため容易に修正ができない。また、最終保存に使われるJPEGフォーマットは通常[非可逆圧縮](../Page/非可逆圧縮.md "wikilink")であり、水平方向の色情報の間引きも行っているため元データと比較すると原理的に画質劣化が避けられない。さらに、これらフォーマットの[色深度](../Page/色深度.md "wikilink")は通常各色8ビット（合計24ビット）しかないため、通常12ビット～14ビットの精度があるイメージセンサから受け取った情報を大幅に切り捨てるほかなく、撮影後の[露出](../Page/露出_\(写真\).md "wikilink")（画像の明暗や輝度）調整が困難になる。
 

@@ -1,7 +1,7 @@
 > この記事は[EAFF E-1サッカー選手権](https://ja.wikipedia.org/wiki/EAFF_E-1サッカー選手権)から翻訳されています。
 
 
-**EAFF E-1サッカー選手権**\[1\]\[2\]（）は、[東アジアサッカー連盟](../Page/東アジアサッカー連盟.md "wikilink")（EAFF）が主催する、[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の国際大会である。旧大会名は**東アジアサッカー選手権**、**EAFF東アジアカップ**。前身は、1990年から1998年まで開かれた[ダイナスティカップ](../Page/ダイナスティカップ.md "wikilink")。
+**EAFF E-1サッカー選手権**\[1\]\[2\]（）は、[東アジアサッカー連盟](../Page/東アジアサッカー連盟.md "wikilink")（EAFF）が主催する、[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の国際大会である。日本のテレビ等では「**東アジア E-1サッカー選手権**」とも表記される。旧大会名は**東アジアサッカー選手権**、**EAFF東アジアカップ**。前身は、1990年から1998年まで開かれた[ダイナスティカップ](../Page/ダイナスティカップ.md "wikilink")。
 
 ## 概要
 
@@ -487,7 +487,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/EAFF_E-1サッカー選手権2017" title="wikilink">2017</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/李在成" title="wikilink">李在成</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金信旭" title="wikilink">金信旭</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/金信煜" title="wikilink">金信煜</a></p></td>
 <td><p>3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/趙賢祐" title="wikilink">趙賢祐</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/張賢秀" title="wikilink">張賢秀</a></p></td>

@@ -40,7 +40,7 @@
 ### Osaka Shion Wind Orchestra
 
   - [2015年](../Page/2015年.md "wikilink") 楽団名を「Osaka Shion Wind Orchestra」（オオサカ・シオン・ウインド・オーケストラ）に改称。「大阪市音楽団」の名称は運営法人が引き継ぐ。
-  - [2017年](../Page/2017年.md "wikilink") [西村友](../Page/西村友.md "wikilink")が正指揮者に就任。
+  - [2017年](../Page/2017年.md "wikilink") [西村友](../Page/西村友.md "wikilink")が正指揮者に就任（2020年まで）。
   - [2018年](../Page/2018年.md "wikilink") 運営法人が[公益社団法人](https://ja.wikipedia.org/wiki/公益社団法人 "wikilink")に移行。
 
 ## 隊長・団長
@@ -78,7 +78,7 @@
 
   - [宮川彬良](../Page/宮川彬良.md "wikilink")（アーティスティック・ディレクター：2010年 - 2013年／音楽監督：2014年 - ）
 
-  - [西村友](../Page/西村友.md "wikilink")（正指揮者：2017年 - ）
+  - [西村友](../Page/西村友.md "wikilink")（正指揮者：2017年 - 2020年）
 
 ### 宮川彬良と大阪市音楽団
 

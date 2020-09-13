@@ -13,7 +13,7 @@ VGAが発表される少し前に、ジェノア・システムズ (*Genoa Syste
 
 ## 設計
 
-EGAは最大640x350ピクセルの[画面解像度](../Page/画面解像度.md "wikilink")で64色のパレットから16色を選択して同時に表示する。EGAカードは追加のグラフィック機能をサポートするシステム[BIOSの拡張のために](https://ja.wikipedia.org/wiki/Basic_Input/Output_System "wikilink")16KBの[ROMを搭載し](https://ja.wikipedia.org/wiki/Read_Only_Memory "wikilink")、また、旧来のグラフィックコントローラー（MDA、CGA）でビデオタイミング信号を生成するのに使われていた[モトローラMC6845チップと後方互換のモードを持つカスタム](../Page/CRTC_\(LSI\).md "wikilink")[CRTCを搭載していた](../Page/CRTC_\(LSI\).md "wikilink")。\[5\]
+EGAは最大640x350ピクセルの[画面解像度](../Page/画面解像度.md "wikilink")で64色のパレットから16色を選択して同時に表示する。EGAカードは追加のグラフィック機能をサポートするシステム[BIOSの拡張のために](https://ja.wikipedia.org/wiki/Basic_Input/Output_System "wikilink")16KBの[ROMを搭載し](https://ja.wikipedia.org/wiki/Read_Only_Memory "wikilink")、また、旧来のグラフィックコントローラー（[MDA](../Page/Monochrome_Display_Adapter.md "wikilink")、[CGA](../Page/Color_Graphics_Adapter.md "wikilink")）でビデオタイミング信号を生成するのに使われていた[モトローラMC6845チップと後方互換のモードを持つカスタム](../Page/CRTC_\(LSI\).md "wikilink")[CRTCを搭載していた](../Page/CRTC_\(LSI\).md "wikilink")。\[5\]
 
 640x350高解像度モードではピクセルあたり赤、緑、青の各2ビットずつ、それぞれの原色に4階調の輝度を設定でき、それらを組み合わせ可能なパレット（計64色）から16色を選択できた。EGAはCGAの640x200および320x200グラフィックモードのうち16色バージョンを搭載していた。EGA 4ビット（16色）グラフィックモードは[CPU](../Page/CPU.md "wikilink")の[ビット演算](../Page/ビット演算.md "wikilink")による\[6\]ビットプレーンとマスクレジスタ\[7\]の複雑な使用方法としても知られ、VGAや多くの互換ハードウェアに継承されることになる、早期の[グラフィックアクセラレータ](../Page/グラフィックアクセラレータ.md "wikilink")を構成するものであった。
 

@@ -16,4 +16,4 @@
   - [パートナーシップ](../Page/パートナーシップ.md "wikilink")
   - [有限責任](../Page/有限責任.md "wikilink")
 
-[Category:企業の種類](https://ja.wikipedia.org/wiki/Category:企業の種類 "wikilink") [Category:アメリカ合衆国の企業法](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の企業法 "wikilink") [Category:イングランドおよびウェールズの私法](https://ja.wikipedia.org/wiki/Category:イングランドおよびウェールズの私法 "wikilink") [Category:スコットランドの法](https://ja.wikipedia.org/wiki/Category:スコットランドの法 "wikilink") [Category:北アイルランドの法](https://ja.wikipedia.org/wiki/Category:北アイルランドの法 "wikilink") [Category:イギリスの企業法](https://ja.wikipedia.org/wiki/Category:イギリスの企業法 "wikilink")
+[Category:企業形態](https://ja.wikipedia.org/wiki/Category:企業形態 "wikilink") [Category:アメリカ合衆国の企業法](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の企業法 "wikilink") [Category:イングランドおよびウェールズの私法](https://ja.wikipedia.org/wiki/Category:イングランドおよびウェールズの私法 "wikilink") [Category:スコットランドの法](https://ja.wikipedia.org/wiki/Category:スコットランドの法 "wikilink") [Category:北アイルランドの法](https://ja.wikipedia.org/wiki/Category:北アイルランドの法 "wikilink") [Category:イギリスの企業法](https://ja.wikipedia.org/wiki/Category:イギリスの企業法 "wikilink")

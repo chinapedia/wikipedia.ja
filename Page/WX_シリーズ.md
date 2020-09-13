@@ -29,7 +29,7 @@
 
   - [MS-DOS](../Page/MS-DOS.md "wikilink")（[9801版](../Page/PC-9800シリーズ.md "wikilink")・[J-3100版](https://ja.wikipedia.org/wiki/ダイナブック_\(東芝\) "wikilink")）、[DOS/V](https://ja.wikipedia.org/wiki/DOS/V "wikilink")
   - [Windows 3.0 / 3.1](../Page/Microsoft_Windows_3.x.md "wikilink") / [95](../Page/Microsoft_Windows_95.md "wikilink") /[98](../Page/Microsoft_Windows_98.md "wikilink")/98SE/[NT](../Page/Microsoft_Windows_NT.md "wikilink")
-  - [漢字Talk](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")7.1、[Mac OS](https://ja.wikipedia.org/wiki/Mac_OS "wikilink") 8/9
+  - [漢字Talk 7.x](../Page/漢字Talk.md "wikilink")、[Mac OS 8.x, 9.x](../Page/Classic_Mac_OS.md "wikilink")
   - [OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink")
 
 [Windows 2000](../Page/Microsoft_Windows_2000.md "wikilink") / [Me](../Page/Microsoft_Windows_Millennium_Edition.md "wikilink") / [XPや](../Page/Microsoft_Windows_XP.md "wikilink") [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")に正式対応した製品の発表はされていない。（しかし、WXGをWindows 2000やXP、32ビット版のWindows VistaやWindows 7で使うことはできる）

@@ -118,7 +118,6 @@
       - 中上和英（なかがみ かずひで）
       - 松岡純也（まつおか じゅんや）
       - 石川真也（いしかわ しんや DOZA）
-      - 衣笠道雄（きぬがさ みちお）
       - 日下隆之介
   - 原画
       - [カワタヒサシ](../Page/カワタヒサシ.md "wikilink")（河田正人、親父油、ら〜・YOU、河田優）
@@ -195,7 +194,7 @@
       - [さくら小春（ぴめこ）](../Page/QP:flapper.md "wikilink")
       - Karen（かれん） - [アリスソフト](../Page/アリスソフト.md "wikilink")
   - 音楽
-      - [豆田将](../Page/豆田将.md "wikilink")（まめた すすむ）
+      - 林茂樹 - [スティング](../Page/スティング_\(ゲーム会社\).md "wikilink")
   - 背景
       - [草薙](https://ja.wikipedia.org/wiki/草薙_\(アニメ制作会社\) "wikilink")
 
@@ -234,6 +233,7 @@
   - 音楽
       - [折戸伸治](../Page/折戸伸治.md "wikilink") - 伊丹開発室、[Tactics](../Page/Tactics_\(ブランド\).md "wikilink")、Key
       - [米村高広](https://ja.wikipedia.org/wiki/米村高広 "wikilink")（よねむら たかひろ、CHEMOOL（けむーる）） - 大阪開発室、[TGL](../Page/TGL.md "wikilink")
+      - [衣笠道雄](../Page/豆田将.md "wikilink")（きぬがさ みちお、豆田将（まめだ すすむ）） - 大阪開発室。故人
 
 ## 脚注
 

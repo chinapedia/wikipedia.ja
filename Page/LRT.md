@@ -44,3 +44,7 @@
 ## 放送
 
   - [リトアニア](../Page/リトアニア.md "wikilink")国営放送（[リトアニア語](https://ja.wikipedia.org/wiki/リトアニア語 "wikilink")：**L**ietuvos Nacionalinis **R**adijas ir **T**elevizija、[英語](../Page/英語.md "wikilink")：**L**ithuanian **R**adio and **T**elevision）
+
+## 学習評価理論
+
+  - [潜在ランク理論](../Page/潜在ランク理論.md "wikilink")（**L**atent **R**ank **T**heory)

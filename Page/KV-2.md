@@ -86,8 +86,6 @@
   - [重戦車](../Page/重戦車.md "wikilink")
   - [KV-1](../Page/KV-1.md "wikilink")
 
-[en:KV-2](https://ja.wikipedia.org/wiki/en:KV-2 "wikilink")
-
 [Category:ソ連の戦車](https://ja.wikipedia.org/wiki/Category:ソ連の戦車 "wikilink") [Category:重戦車](https://ja.wikipedia.org/wiki/Category:重戦車 "wikilink")
 
 1.  『GROUND POWER AUGUST.2000(No75) ソ連軍重戦車(1)』、p.89

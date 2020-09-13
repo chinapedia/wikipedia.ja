@@ -381,7 +381,8 @@ end
 
   - [Hiki](https://ja.wikipedia.org/wiki/Hiki "wikilink")
 
-  -
+  - [Chef](../Page/Chef_\(ソフトウェア\).md "wikilink")
+
   - [Vagrant](https://ja.wikipedia.org/wiki/Vagrant_\(ソフトウェア\) "wikilink")
 
   - [Ruby on Rails](../Page/Ruby_on_Rails.md "wikilink")

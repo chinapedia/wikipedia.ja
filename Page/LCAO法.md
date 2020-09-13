@@ -35,7 +35,7 @@ LCAO法による定性的議論は、[分子の対称性と結合に関与する
 
 [MO_Diagram.svg](https://ja.wikipedia.org/wiki/File:MO_Diagram.svg "fig:MO_Diagram.svg")
 
-定量的理論としては[ヒュッケル法](../Page/ヒュッケル法.md "wikilink")や[拡張ヒュッケル法](https://ja.wikipedia.org/wiki/拡張ヒュッケル法 "wikilink")、がある。
+定量的理論としては[ヒュッケル法](../Page/ヒュッケル法.md "wikilink")や[拡張ヒュッケル法](https://ja.wikipedia.org/wiki/拡張ヒュッケル法 "wikilink")、[パリサー・パー・ポープル法](../Page/パリサー・パー・ポープル法.md "wikilink")がある。
 
 ## 脚注
 

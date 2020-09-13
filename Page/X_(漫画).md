@@ -98,7 +98,7 @@
     タロットは[悪魔](../Page/悪魔_\(タロット\).md "wikilink") (15)。
   - 八頭司颯姫（やとうじ さつき）
     声 - [三石琴乃](../Page/三石琴乃.md "wikilink") / [桑島法子](../Page/桑島法子.md "wikilink")
-    「地の龍」の一人。天才[ハッカー](../Page/ハッカー.md "wikilink")。都庁の地下にある彼女が設計・製作したスーパーコンピュータ・獣（ビースト）とケーブルに全身を絡ませる形で一体化して情報を収集する。過去に[フリーメーソン](https://ja.wikipedia.org/wiki/フリーメーソン "wikilink")で[セフィロト](https://ja.wikipedia.org/wiki/セフィロト "wikilink")の研究をしていた。コンピューターからは非常に愛されている。ビーストを経由して電線等を暴れさせるよう指示する攻撃方法をとり、破壊場所には直接赴かない。当初は誰に対しても感情を持っていなかったが、無自覚ながら遊人を慕う。
+    「地の龍」の一人。天才[ハッカー](../Page/ハッカー.md "wikilink")。都庁の地下にある彼女が設計・製作したスーパーコンピュータ・獣（ビースト）とケーブルに全身を絡ませる形で一体化して情報を収集する。過去に[フリーメイソン](https://ja.wikipedia.org/wiki/フリーメイソン "wikilink")で[セフィロト](https://ja.wikipedia.org/wiki/セフィロト "wikilink")の研究をしていた。コンピューターからは非常に愛されている。ビーストを経由して電線等を暴れさせるよう指示する攻撃方法をとり、破壊場所には直接赴かない。当初は誰に対しても感情を持っていなかったが、無自覚ながら遊人を慕う。
     劇場版、テレビアニメ版共に、彼女の遊人への思いに気づいていたビーストの嫉妬から、ビースト自体に殺されている。
     タロットは[隠者](https://ja.wikipedia.org/wiki/隠者 "wikilink") (9)。
   - 志勇草薙（しゆう くさなぎ）
@@ -500,7 +500,7 @@
 
 ## 外部リンク
 
-  - [CLAMP-NET.COM](http://www.clamp-net.com/)
-  - [TV animation エックス「X〜運命の選択〜」](http://www.bandaigames.channel.or.jp/list/x/)
+  - [CLAMP-NET.COM](https://clamp-net.com/)
 
+  -
 [Category:漫画作品_え](https://ja.wikipedia.org/wiki/Category:漫画作品_え "wikilink") [Category:CLAMPの作品](https://ja.wikipedia.org/wiki/Category:CLAMPの作品 "wikilink") [Category:CLAMP原作のアニメ作品](https://ja.wikipedia.org/wiki/Category:CLAMP原作のアニメ作品 "wikilink") [Category:月刊Asukaの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊Asukaの漫画作品 "wikilink") [Category:1992年の漫画](https://ja.wikipedia.org/wiki/Category:1992年の漫画 "wikilink") [Category:漫画のクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:漫画のクロスオーバー作品 "wikilink") [Category:東京を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:東京を舞台とした漫画作品 "wikilink") [Category:アニメ作品_え](https://ja.wikipedia.org/wiki/Category:アニメ作品_え "wikilink") [Category:日本のアニメ映画](https://ja.wikipedia.org/wiki/Category:日本のアニメ映画 "wikilink") [Category:1996年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1996年のアニメ映画 "wikilink") [Category:りんたろうの監督映画](https://ja.wikipedia.org/wiki/Category:りんたろうの監督映画 "wikilink") [Category:漫画を原作とするアニメ映画](https://ja.wikipedia.org/wiki/Category:漫画を原作とするアニメ映画 "wikilink") [Category:東京を舞台としたアニメ映画](https://ja.wikipedia.org/wiki/Category:東京を舞台としたアニメ映画 "wikilink") [Category:2001年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2001年のテレビアニメ "wikilink") [Category:WOWOWアニメ](https://ja.wikipedia.org/wiki/Category:WOWOWアニメ "wikilink") [Category:マッドハウス](https://ja.wikipedia.org/wiki/Category:マッドハウス "wikilink") [Category:角川コミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:角川コミックスのアニメ作品 "wikilink") [Category:セガグループのアニメ作品](https://ja.wikipedia.org/wiki/Category:セガグループのアニメ作品 "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:ビクターエンタテインメントのアニメ作品](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアニメ作品 "wikilink") [Category:ムービックのアニメ映画](https://ja.wikipedia.org/wiki/Category:ムービックのアニメ映画 "wikilink") [Category:キャラアニのアニメ作品](https://ja.wikipedia.org/wiki/Category:キャラアニのアニメ作品 "wikilink") [Category:ディーライツのアニメ作品](https://ja.wikipedia.org/wiki/Category:ディーライツのアニメ作品 "wikilink") [Category:東京を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:東京を舞台としたアニメ作品 "wikilink") [Category:タロットを題材にした作品](https://ja.wikipedia.org/wiki/Category:タロットを題材にした作品 "wikilink") [Category:世界の終末が描かれた作品](https://ja.wikipedia.org/wiki/Category:世界の終末が描かれた作品 "wikilink") [Category:TBSラジオのドラマ](https://ja.wikipedia.org/wiki/Category:TBSラジオのドラマ "wikilink") [Category:未完の漫画作品](https://ja.wikipedia.org/wiki/Category:未完の漫画作品 "wikilink")

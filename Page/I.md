@@ -5,11 +5,11 @@
 
 ## 字形
 
-[大文字](../Page/大文字.md "wikilink")は、一本の縦棒である。しかし、それでは[L](../Page/L.md "wikilink")の小文字「 l 」や数字の [1](https://ja.wikipedia.org/wiki/1 "wikilink") など混同し易い（[ホモグリフ](../Page/ホモグリフ.md "wikilink")）せいもあって、手書き文字（[ブロック体](https://ja.wikipedia.org/wiki/ブロック体 "wikilink")）であっても通常は[セリフを上下に付けて区別する](../Page/セリフ_\(文字\).md "wikilink")。
+[大文字](../Page/大文字.md "wikilink")は、一本の縦棒である。しかし、それでは[L](../Page/L.md "wikilink")の小文字や数字の [1](https://ja.wikipedia.org/wiki/1 "wikilink") など混同し易い（[ホモグリフ](../Page/ホモグリフ.md "wikilink")）せいもあって、手書き文字（[ブロック体](https://ja.wikipedia.org/wiki/ブロック体 "wikilink")）であっても通常は[セリフを上下に付けて区別する](../Page/セリフ_\(文字\).md "wikilink")。
 
 この場合、数字の 1 は飾りを上だけにする、数字の [7](../Page/7.md "wikilink") は鉤を付ける、小文字の L は筆記体で ℓ と書く、というように区別する。
 
-筆記体では、本体は下部が左に流れるが、[ベースラインを超えない](https://ja.wikipedia.org/wiki/書体#欧文書体の種類 "wikilink")。また、右下から左に弧を描いて文字の頂点までの飾りを付ける。[フラクトゥール](../Page/フラクトゥール.md "wikilink")は\(\mathfrak{I}\)で、書体によっては \(\mathfrak{J}\)([J](../Page/J.md "wikilink")) と区別が付かない（あるいは、もともと異体字であったIとJの区別を設けていない）。また、[T](../Page/T.md "wikilink") の筆記体と紛らわしいがフラクトゥールでTは\(\mathfrak{T}\)のようであり、区別が付く。
+筆記体では、本体は下部が左に流れるが、[ベースラインを超えない](https://ja.wikipedia.org/wiki/書体#欧文書体の種類 "wikilink")。また、右下から左に弧を描いて文字の頂点までの飾りを付ける。[フラクトゥール](../Page/フラクトゥール.md "wikilink")は\(\mathfrak{I}\)で、書体によっては\(\mathfrak{J}\)([J](../Page/J.md "wikilink")) と区別が付かない（あるいは、もともと異体字であったIとJの区別を設けていない）。このため、記号としては\(\mathfrak{J}\)(J) を抜かすことがある（\(\mathfrak{I}\)(I) の次の記号に\(\mathfrak{K}\)(K) を使う）。また、[T](../Page/T.md "wikilink") の筆記体と紛らわしいが、フラクトゥールでTは\(\mathfrak{T}\)のようであり、区別が付く。
 
 小文字は、縦棒の上に（トルコ語とアゼルバイジャン語を除き）点を付ける。縦棒はしばしば下部が右に曲がり、折り返すこともある。筆記体で前の文字から続くときは、下部左から、右上に向かって後で書かれる本体に合流する。[フラクトゥール](../Page/フラクトゥール.md "wikilink")は\(\mathfrak{i}\)。文字の上部に付ける[ダイアクリティカルマーク](../Page/ダイアクリティカルマーク.md "wikilink")が付く場合、普通は点を取った上で付ける。
 
@@ -36,7 +36,7 @@
   - トルコ語、アゼルバイジャン語では唇を丸めず「イ」のようにして「ウ」と発音する音（[非円唇後舌狭母音](https://ja.wikipedia.org/wiki/非円唇後舌狭母音 "wikilink")）である。
   - [日本語](../Page/日本語.md "wikilink")の[ローマ字](https://ja.wikipedia.org/wiki/ローマ字 "wikilink")表記では、[イ段](https://ja.wikipedia.org/wiki/イ段 "wikilink")の母音に使われる。
   - [朝鮮語](../Page/朝鮮語.md "wikilink")のローマ字表記では、母音ㅣを示す。また、ㅟ、ㅢもw**i**,u**i**とiを含む綴りとなる。
-  - [中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")の[漢語拼音](https://ja.wikipedia.org/wiki/漢語拼音 "wikilink")では、介音 /i/ を含む韻母の表記に使われる。ただし、声母（頭子音）が付かない場合は、yになる。「一」「伊」など主母音、尾音無しで介音 /i/ のみの場合、発音は /i/ であり、半母音 /j/ が発音されるわけではないが、yi と表記する。そのためiで始まることは無い。
+  - [中国語](../Page/中国語.md "wikilink")の[漢語拼音](https://ja.wikipedia.org/wiki/漢語拼音 "wikilink")では、介音 /i/ を含む韻母の表記に使われる。ただし、声母（頭子音）が付かない場合は、yになる。「一」「伊」など主母音、尾音無しで介音 /i/ のみの場合、発音は /i/ であり、半母音 /j/ が発音されるわけではないが、yi と表記する。そのためiで始まることは無い。
       - また、「四」(si)、「子」(zi)等z,c,s,zh,ch,sh,rに続く場合などは、子音のそのままの舌の構えで出される母音を示す。これはイ段よりもウ段に近い音なので注意を要する。
 
 音声記号としては、 は「[非円唇前舌狭母音](https://ja.wikipedia.org/wiki/非円唇前舌狭母音 "wikilink")」、小型大文字  は「[非円唇前舌広め狭母音](https://ja.wikipedia.org/wiki/非円唇前舌広め狭母音 "wikilink")」を表す。

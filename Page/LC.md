@@ -27,7 +27,7 @@
       - [ルシファー](../Page/ルシファー.md "wikilink")（Lucifer）を意味する隠語。
   - 商品名
       - [三洋電機](../Page/三洋電機.md "wikilink")製の[ICの型番](../Page/集積回路.md "wikilink")。
-      - [AQUOS](https://ja.wikipedia.org/wiki/AQUOS "wikilink")の型番 - [シャープ](../Page/シャープ.md "wikilink")の液晶テレビ。
+      - [AQUOSの型番](../Page/アクオス.md "wikilink") - [シャープ](../Page/シャープ.md "wikilink")の液晶テレビ。
       - [シャープ](../Page/シャープ.md "wikilink")の[フォント](../Page/フォント.md "wikilink")。
       - 2代目[ヒュンダイ・アクセント](../Page/ヒュンダイ・アクセント.md "wikilink")の形式名。
       - [INAX](../Page/INAX.md "wikilink")の洗面化粧台（L.C.）。[INAXの商品](../Page/INAXの商品.md "wikilink")参照。

@@ -10,7 +10,7 @@
 [コールサイン](https://ja.wikipedia.org/wiki/識別信号 "wikilink") **JOLP-FM**
 
   - [さいたま](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")（親局） [周波数](../Page/周波数.md "wikilink")85.1MHz ・[空中線電力](../Page/空中線電力.md "wikilink")5kW（最大[実効輻射電力](https://ja.wikipedia.org/wiki/実効輻射電力 "wikilink")41kW）
-      - さいたま送信所（[平野原送信所](../Page/平野原送信所.md "wikilink")）は、さいたま市[桜区](https://ja.wikipedia.org/wiki/桜区 "wikilink")道場にあり、[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")のテレビ送信所としても使用されている。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）6月までは[NACK5も使用していた](../Page/エフエムナックファイブ.md "wikilink")（現在は廃止されている）。
+      - さいたま送信所（[平野原送信所](../Page/平野原送信所.md "wikilink")）は、さいたま市[桜区](https://ja.wikipedia.org/wiki/桜区 "wikilink")道場にあり、[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")のテレビ送信所としても使用されている。
   - [秩父](../Page/秩父市.md "wikilink") 周波数83.5MHz・空中線電力50W（最大実効輻射電力59W）
 
 ### テレビジョン放送
@@ -111,7 +111,7 @@
   - [大宮](https://ja.wikipedia.org/wiki/大宮区 "wikilink")（HD）
   - [所沢](../Page/所沢市.md "wikilink")（[所沢市](../Page/所沢市.md "wikilink")役所SD）
   - [川口](https://ja.wikipedia.org/wiki/川口市 "wikilink")（SD）
-  - [熊谷](https://ja.wikipedia.org/wiki/熊谷市 "wikilink")（SD）
+  - [熊谷](https://ja.wikipedia.org/wiki/熊谷市 "wikilink")（HD）
   - [関越自動車道](../Page/関越自動車道.md "wikilink")[新座料金所](../Page/新座料金所.md "wikilink")（HD）
 
 <!-- end list -->
@@ -149,7 +149,7 @@
 <!-- end list -->
 
   -
-    ※新番組発足に合わせ、「[浦和レッズ](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")」・「[大宮アルディージャ](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")」戦を中心に不定期で放送\[4\]。
+    ※新番組発足に合わせ、「[浦和レッズ](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")」・「[大宮アルディージャ](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")」戦を中心に不定期で放送。
 
 <!-- end list -->
 
@@ -227,6 +227,12 @@
 
 ## 脚注
 
+  - 注釈
+
+<!-- end list -->
+
+  - 出典
+
 ## 外部リンク
 
   - [NHKさいたま放送局](https://www.nhk.or.jp/saitama/)
@@ -236,4 +242,3 @@
 1.  [Dpa放送エリアのめやす（埼玉県）](http://dpa-tv-area.jp/sp/map/11)
 2.
 3.
-4.  尚、総合テレビおよびBS1でも全国放送される。

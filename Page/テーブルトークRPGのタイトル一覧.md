@@ -3,7 +3,7 @@
 
 **テーブルトークRPGのタイトル一覧**（テーブルトークアールピージーのタイトルいちらん）は、[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")の一覧。
 
-基本的に商業ベースで出版・発売されたシステムのみを記載し、それぞれの[サプリメントやソースブック](https://ja.wikipedia.org/wiki/サプリメント_\(TRPG\) "wikilink")、[リプレイは載せていない](../Page/リプレイ_\(TRPG\).md "wikilink")。 作品名には各出版元が権利を有する商標や登録商標などが含まれる。
+基本的に商業ベースで出版・発売されたシステムのみを記載し、それぞれの[サプリメントやソースブック](../Page/サプリメント_\(TRPG\).md "wikilink")、[リプレイは載せていない](../Page/リプレイ_\(TRPG\).md "wikilink")。 作品名には各出版元が権利を有する商標や登録商標などが含まれる。
 
 ## 西洋 / 異世界ファンタジー
 
@@ -297,6 +297,7 @@
   - [機動戦士ガンダムRPG](https://ja.wikipedia.org/wiki/機動戦士ガンダムRPG "wikilink")
       - 機動戦士ガンダムRPG ADVANCED EDITION
   - [ガンダムセンチネルRPG](../Page/ガンダム・センチネル.md "wikilink")
+      - ガンダム：0079RPG
   - [巨神戦記ギガントマキア](https://ja.wikipedia.org/wiki/巨神戦記ギガントマキア "wikilink")
   - [クラッシャージョウ](https://ja.wikipedia.org/wiki/クラッシャージョウ_\(TRPG\) "wikilink")
   - [クレギオン](https://ja.wikipedia.org/wiki/クレギオン "wikilink")
@@ -388,7 +389,7 @@
           - [ガープス・リボーンリバース](https://ja.wikipedia.org/wiki/ガープス・リボーンリバース "wikilink")
           - [ガープス・ソーサルカンパニー](https://ja.wikipedia.org/wiki/ガープス・ソーサルカンパニー "wikilink")
   - [サイコロ・フィクション](https://ja.wikipedia.org/wiki/サイコロ・フィクション "wikilink")
-      - [ご近所メルヒェンRPG ピーカーブー](https://ja.wikipedia.org/wiki/ピーカーブー "wikilink")
+      - [ご近所メルヒェンRPG ピーカーブー](https://ja.wikipedia.org/wiki/ご近所メルヒェンRPG_ピーカーブー "wikilink")
       - [現代忍術バトルRPG シノビガミ -忍神-](https://ja.wikipedia.org/wiki/シノビガミ "wikilink")
       - [ホラーアクションRPG ハンターズ・ムーン](https://ja.wikipedia.org/wiki/ハンターズ・ムーン "wikilink")
       - [魔道書大戦RPG マギカロギア](https://ja.wikipedia.org/wiki/マギカロギア "wikilink")
@@ -437,6 +438,7 @@
           - [比叡山炎上](https://ja.wikipedia.org/wiki/比叡山炎上 "wikilink")
       - [ストームブリンガー](../Page/ストームブリンガー_\(TRPG\).md "wikilink") (Stormbringer)
           - エルリック\! (ELRIC\!)
+  - Savage Worlds
 
 ## オムニバス
 

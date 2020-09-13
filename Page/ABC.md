@@ -78,7 +78,7 @@
 
   - [ABC@home](https://ja.wikipedia.org/wiki/ABC@home "wikilink") - 分散コンピューティング プロジェクト。
 
-  - [Android Bazaar and Conference](https://ja.wikipedia.org/wiki/Android_Bazaar_and_Conference "wikilink") - [日本Androidの会](https://ja.wikipedia.org/wiki/日本Androidの会 "wikilink")が主催する日本最大の[Android](../Page/Android.md "wikilink")関連イベント。
+  - [Android Bazaar and Conference](https://ja.wikipedia.org/wiki/Android_Bazaar_and_Conference "wikilink") - [日本Androidの会](https://ja.wikipedia.org/wiki/日本Androidの会 "wikilink")が主催する日本最大の[Android関連イベント](../Page/Android_\(オペレーティングシステム\).md "wikilink")。
 
   - [暗号利用モード](../Page/暗号利用モード.md "wikilink")の一つ。Accumulated Block Chaining。
 
@@ -102,6 +102,7 @@
 ## 総称
 
   - 自動車の[アクセル](https://ja.wikipedia.org/wiki/アクセルペダル "wikilink") (Accelerator/gas pedal)、[ブレーキ](../Page/ブレーキペダル.md "wikilink")(Brake pedal)、[クラッチ](../Page/クラッチペダル.md "wikilink") (Clutch pedal) 3ペダルの総称。
+  - 登山時計などに搭載される[高度計](https://ja.wikipedia.org/wiki/高度計 "wikilink") (Altimeter)、[気圧計](../Page/気圧計.md "wikilink") (Barometer)、[方位磁針](../Page/方位磁針.md "wikilink") (Compass)の総称。
   - ABC兵器 - [大量破壊兵器](../Page/大量破壊兵器.md "wikilink")であることから[規制の対象または規制が討議されている](../Page/規制が議論されている兵器.md "wikilink")、[核兵器](https://ja.wikipedia.org/wiki/核兵器 "wikilink") (Atomic weapon)、[生物兵器](../Page/生物兵器.md "wikilink") (Biological weapon)、[化学兵器](../Page/化学兵器.md "wikilink") (Chemical weapon) 3兵器のかつての総称。ただし現在はNBC兵器という。
   - ABC消火器 - [消防法](../Page/消防法.md "wikilink")に定められた火災区分のうち A（普通火災）、B（油火災）、C（電気火災）のいずれにも対応した[消火器](../Page/消火器.md "wikilink")であることを示す名称。
   - 平成ABCトリオ - 平成初期に発売された二人乗りの軽自動車[マツダ・AZ-1](../Page/マツダ・オートザムAZ-1.md "wikilink")、[ホンダ・ビート](https://ja.wikipedia.org/wiki/ホンダ・ビート_\(自動車\) "wikilink")、[スズキ・カプチーノ](https://ja.wikipedia.org/wiki/スズキ・カプチーノ "wikilink")の3車種の総称（俗称）。
@@ -123,3 +124,4 @@
 
   -
   -
+[Category:同名の作品](https://ja.wikipedia.org/wiki/Category:同名の作品 "wikilink")

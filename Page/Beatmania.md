@@ -186,7 +186,7 @@
     廃止要素：通常ゲージ型EXPERTモード、フリーゾーン
     新曲と家庭用APPEND YebisuMIXの収録曲から3曲、2ndMIXからの引継ぎ8曲で構成された第3作。コマンド入力で出現する隠し曲を含め全24曲を収録。日本語歌詞の曲など、ポップス寄りのアプローチの曲も収録。
     コンボシステムやプレイオプションの強化などにより、競技性をより強化。また本作で初めて隠し高難度譜面（いわゆるアナザー譜面。本作では曲ごとに特別な副題が与えられ、「アナザー譜面」の呼称が公式に用いられたのは次回作のcomplete MIX以降）が収録され、以後シリーズの恒例となった。
-    この頃に『[BEMANI](../Page/BEMANIシリーズ.md "wikilink")』のブランド名が誕生している。また、画面やターンテーブルなどを小さくした省スペース型筐体も発売が開始された[1](http://www.konami.jp/am/bm/mini.html)。
+    この頃に『[BEMANI](../Page/BEMANIシリーズ.md "wikilink")』のブランド名が誕生している。また、画面やターンテーブルなどを小さくした省スペース型筐体も発売が開始された [1](http://www.konami.jp/am/bm/mini.html)。
     今作のサウンドトラックには隠し曲は収録されておらず、なおかつ「Bossa Groove」が本来の3rd収録曲ではなく、PS版ビートマニアの「papayapa bossa」が収録されている。
   - beatmania complete MIX（[1999年](../Page/1999年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink")稼動開始）
     新規要素：インターネットランキング、JUST GREAT、EXスコア制
@@ -320,7 +320,7 @@ PlayStation版は単体で起動する「キーディスク」と、起動にキ
     スーパーゲームボーイでプレイする場合2種類のフレームが用意されており一つは裏路地をイメージしたもの、もう一つはビートマニア筐体を再現したものがある。
     プレイデモではAC・PS版にあった、DJ KONAMIのレクチャーがプレイヤーは操作ができないものの再現されている。
   - beatmania GB2 ガッチャミックス（1999年[11月25日](../Page/11月25日.md "wikilink")発売）
-    「beatmania GB」と同じくゲームボーイカラー対応。APPEND GOTTAMIXからの5曲と、[歌謡曲](../Page/歌謡曲.md "wikilink")・[アニソン](https://ja.wikipedia.org/wiki/アニソン "wikilink")などの幅広いジャンルの人気楽曲20曲で構成。以下の2作を含め、開発はPS版と同じ[コナミコンピュータエンタテインメントジャパン](../Page/コナミコンピュータエンタテインメントジャパン.md "wikilink")が担当した。
+    「beatmania GB」と同じくゲームボーイカラー対応。APPEND GOTTAMIXからの5曲と、[歌謡曲](../Page/歌謡曲.md "wikilink")・[アニソンなどの幅広いジャンルの人気楽曲](https://ja.wikipedia.org/wiki/アニメソング "wikilink")20曲で構成。以下の2作を含め、開発はPS版と同じ[コナミコンピュータエンタテインメントジャパン](../Page/コナミコンピュータエンタテインメントジャパン.md "wikilink")が担当した。
     今作の場合、それぞれジャンル別に曲追加パスワードが出るのだが異なるジャンルの隠し楽曲をフリーで出現させるにはそれぞれのジャンルのパスワードを一々入力しなければいけない（隠しである全曲解禁パスワードを使うと1回で済む）。
     前作同様、ビートマニア筐体のフレームが用意されている。
   - beatmania GB ガッチャミックス2（2000年[9月28日](../Page/9月28日.md "wikilink")発売）
@@ -406,7 +406,7 @@ PlayStation版は単体で起動する「キーディスク」と、起動にキ
 
 ## 関連グッズ
 
-「beatmania」のロゴを冠したポータブルCDプレイヤー\[7\]やCDキャリングケース等が発売された。
+「beatmania」のロゴを冠したポータブルCDプレイヤー\[7\] やCDキャリングケース等が発売された。
 
 ## その他
 
@@ -437,7 +437,7 @@ PlayStation版は単体で起動する「キーディスク」と、起動にキ
 
 [Category:BEMANIシリーズ](https://ja.wikipedia.org/wiki/Category:BEMANIシリーズ "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:ゲームボーイ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイ用ソフト "wikilink") [Category:ワンダースワン用ソフト](https://ja.wikipedia.org/wiki/Category:ワンダースワン用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Macintosh用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Macintosh用ゲームソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:1997年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1997年のアーケードゲーム "wikilink") [Category:1998年のファミ通クロスレビュープラチナ殿堂入りソフト](https://ja.wikipedia.org/wiki/Category:1998年のファミ通クロスレビュープラチナ殿堂入りソフト "wikilink")
 
-1.  [FINALのデモ動画](http://www.youtube.com/watch?v=IZZErbraJPg)の1分59秒参照
+1.  [FINALのデモ動画](http://www.youtube.com/watch?v=IZZErbraJPg) の1分59秒参照
 2.  [FROM STAFF](http://www.konami.jp/am/bm3/ap_7th/staff.html)（beatmania 7th MIX公式サイト）
 3.  [GEIMIN.NET／国内歴代ミリオン出荷タイトル一覧](https://web.archive.org/web/20161101133440/http://geimin.net/da/db/m_domestic/index.php)、GEIMIN.NET、（2016年11月1日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 4.  M.B.MOOK『懐かしゲームボーイパーフェクトガイド』 (ISBN 9784866400259)、90ページ

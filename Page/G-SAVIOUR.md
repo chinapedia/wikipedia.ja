@@ -7,13 +7,15 @@
 
 アニメーションで制作されるのが主であるガンダムシリーズの中で唯一の、[コンピュータグラフィックス](../Page/コンピュータグラフィックス.md "wikilink")と実写を組み合わせた映像作品である。
 
-[JAL](../Page/日本航空.md "wikilink")[羽田](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink") - [ホノルル線での特別版上映やイベントでのショート版公開](https://ja.wikipedia.org/wiki/ホノルル国際空港 "wikilink")、1999年6月18日の[沖縄アメリカンショートフィルム映画祭オープニングプレミアでの本編上映](../Page/ショートショートフィルムフェスティバル.md "wikilink")\[1\]を経て、『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』放映20年を記念して2000年12月29日に『**ガンダム誕生20周年スペシャルG-SAVIOUR**』と題して[名古屋テレビをキー局に](../Page/名古屋テレビ放送.md "wikilink")[ANN系で放映された](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")。なお、それに先駆けて同年12月24日には、メイキング番組『ガンダム誕生20周年スペシャルドキュメントGセイバー』が、[名古屋テレビ](https://ja.wikipedia.org/wiki/名古屋テレビ "wikilink")をはじめ、[東日本放送](../Page/東日本放送.md "wikilink")、[熊本朝日放送](../Page/熊本朝日放送.md "wikilink")、[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")、[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")で放映された。
+[JAL](../Page/日本航空.md "wikilink")[羽田](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink") - [ホノルル線での特別版上映やイベントでのショート版公開](https://ja.wikipedia.org/wiki/ホノルル国際空港 "wikilink")、1999年6月18日の[沖縄アメリカンショートフィルム映画祭オープニングプレミアでの本編上映](../Page/ショートショートフィルムフェスティバル.md "wikilink")\[1\]を経て、『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』放映20年を記念して2000年12月29日に『**ガンダム誕生20周年スペシャルG-SAVIOUR**』と題して[名古屋テレビ](https://ja.wikipedia.org/wiki/名古屋テレビ "wikilink")をキー局に[ANN系](https://ja.wikipedia.org/wiki/ANN系 "wikilink")で放映された。なお、それに先駆けて同年12月24日には、メイキング番組『ガンダム誕生20周年スペシャルドキュメントGセイバー』が、[名古屋テレビ](https://ja.wikipedia.org/wiki/名古屋テレビ "wikilink")をはじめ、[東日本放送](../Page/東日本放送.md "wikilink")、[熊本朝日放送](../Page/熊本朝日放送.md "wikilink")、[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")、[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")で放映された。
 
 プロモーショントレーラー版までに2億、テレビ放映版までに8億、合わせて10億という制作費用がかかっているが、これはアメリカのテレビドラマのスペシャル番組としては標準的な金額であり、映画としては安い部類に入る。[SFX](../Page/SFX.md "wikilink")製作はデジタル・ミューズ社が担当した。
 
 ガンダムシリーズにおいて、宇宙世紀223年\[2\]という、[宇宙世紀](../Page/宇宙世紀.md "wikilink")作品の中で最も未来を描いた物語である。小説上巻カバーの説明文では宇宙暦223年となっているが、小説文中では年号がU.C.（ユニバーサルセンチュリー）で統一されている。PS2用ゲーム『G-SAVIOUR』のオープニングムービーのみ「Space Century- year 224」となっているが、ゲーム本編中では年号はユニバーサル・センチュリー(字幕では宇宙世紀223年表記)と語られている。
 
 なお、日本語吹き替え版（テレビ放送・DVD版）では全編にわたって独自の脚色が加えられており、特別版とテレビ放送・DVD版では声優のキャスティングも異なっている。
+
+映像作品放映当時は、ガンダム関連の書籍でもシリーズ扱いとして紹介されていたが、近年では理由は不明ながらシリーズの一覧から除外されている\[3\]。
 
 ## 物語の背景設定
 
@@ -27,7 +29,7 @@
 
 紛争終結後、サイドの独立を認めざるを得なかった地球連邦は分裂、サイドは地球と国際法上同等の権利を持つ存在となり遂に宇宙移民者達の悲願が達成された。これを機にサイドを構成する**コロニー**（[植民地](../Page/植民地.md "wikilink")）という差別的な名称は**セツルメント**（Settlement, 入植地）と改められた。
 
-総会に議席を持ち連邦を構成していた地球上の国家はそのまま一つの政体に留まったままであり、それが地球政府だった。地球政府は親地球派サイドの[サイド2](https://ja.wikipedia.org/wiki/サイド_\(ガンダムシリーズ\)#サイド2（ハッテ） "wikilink")、[サイド3](https://ja.wikipedia.org/wiki/サイド_\(ガンダムシリーズ\)#サイド3（ムンゾ） "wikilink")、[サイド5](https://ja.wikipedia.org/wiki/サイド_\(ガンダムシリーズ\)#サイド6（リーア）→新サイド5 "wikilink")、[サイド7を取り込み](https://ja.wikipedia.org/wiki/サイド_\(ガンダムシリーズ\)#サイド7（ノア→グリーン・オアシス） "wikilink")、新たに連邦制国家**[セツルメント国家議会](https://ja.wikipedia.org/wiki/セツルメント国家議会 "wikilink")**を打ち立てた。一方、これに属さない[サイド1](https://ja.wikipedia.org/wiki/サイド_\(ガンダムシリーズ\)#サイド1（ザーン） "wikilink")、[サイド4は月と手を組み](https://ja.wikipedia.org/wiki/サイド_\(ガンダムシリーズ\)#サイド5（ルウム）→新サイド4（フロンティア） "wikilink")**セツルメント自由同盟**を結成した。こうして人類社会は新たな時代を迎えた。しかし現在の政治状況はひどく脆弱かつ不安定なものであり、その秩序維持に予断は許されない。今回のサイド8独立はポリティカル・パワー・バランスに大きな影響を及ぼすことも懸念されていた。
+総会に議席を持ち連邦を構成していた地球上の国家はそのまま一つの政体に留まったままであり、それが地球政府だった。地球政府は親地球派サイドの[サイド2](https://ja.wikipedia.org/wiki/サイド2 "wikilink")、[サイド3](https://ja.wikipedia.org/wiki/サイド3 "wikilink")、[サイド5](https://ja.wikipedia.org/wiki/サイド5 "wikilink")、[サイド7](https://ja.wikipedia.org/wiki/サイド7 "wikilink")を取り込み、新たに連邦制国家**[セツルメント国家議会](https://ja.wikipedia.org/wiki/セツルメント国家議会 "wikilink")**を打ち立てた。一方、これに属さない[サイド1](https://ja.wikipedia.org/wiki/サイド1 "wikilink")、[サイド4](https://ja.wikipedia.org/wiki/サイド4 "wikilink")は月と手を組み**セツルメント自由同盟**を結成した。こうして人類社会は新たな時代を迎えた。しかし現在の政治状況はひどく脆弱かつ不安定なものであり、その秩序維持に予断は許されない。今回のサイド8独立はポリティカル・パワー・バランスに大きな影響を及ぼすことも懸念されていた。
 
 ### 食料危機時代の到来
 
@@ -201,7 +203,7 @@
     天才的なモビルスーツ開発者のジョン・セイバーを中心に、彼らは集っている。
     この時代、名機と謳われるMS開発の陰には必ずと言って良いほど、このチームの名が刻まれている。
     セイバーチームは常に謎の存在であり、一体どこに属する集団なのか、構成メンバーにはどんな人材がいるのか、拠点はどこにあるのか誰にも解らなかった。
-    本作において制作に携わった井上幸一は模型誌記事「G-SAVIOUR通信」において、実在のアメリカ軍において[SR-71 ブラックバードの開発に携わった](../Page/SR-71_\(航空機\).md "wikilink")[スカンクワークス](../Page/スカンクワークス.md "wikilink")をモデルに設定を行ったと語っている。また、井上によれば、セイバーチームとは各研究所や企業に点在するエンジニアたちの集まりで、各々の技術情報ネットワークやそれによる膨大なデータベースを有しており、MSのコントロールシステムを独自開発することも可能だとしている。
+    本作において制作に携わった井上幸一は模型誌記事「G-SAVIOUR通信」において、実在のアメリカ軍において[SR-71 ブラックバードの開発に携わった](https://ja.wikipedia.org/wiki/SR-71_ブラックバード "wikilink")[スカンクワークス](../Page/スカンクワークス.md "wikilink")をモデルに設定を行ったと語っている。また、井上によれば、セイバーチームとは各研究所や企業に点在するエンジニアたちの集まりで、各々の技術情報ネットワークやそれによる膨大なデータベースを有しており、MSのコントロールシステムを独自開発することも可能だとしている。
   - 大西洋深海農業研究所
     北アメリカ大陸、大西洋フィラデルフィア沖遥か、「ソーム深海平原」を睨む大陸棚の海中に設営された研究所 。通称「リグ」。
     セツルメント国家議会軍を退役したマーク・カランが、新たな仕事場として選び出した場所である。
@@ -219,8 +221,8 @@
 ## スタッフ
 
   - 原作・特別監修：[富野由悠季](../Page/富野由悠季.md "wikilink")
-  - エグゼクティブプロデューサー（製作総指揮）：吉井孝幸、[植田益朗](https://ja.wikipedia.org/wiki/植田益朗 "wikilink")、アンソニー・スカラ、フィリップ・デイヴィッド・セガール
-  - プロデューサー：[井上幸一](https://ja.wikipedia.org/wiki/井上幸一 "wikilink")、ミミ・メイナード、カタリーナ・コンティ、クリス・ダブス
+  - エグゼクティブプロデューサー（製作総指揮）：吉井孝幸、[植田益朗](https://ja.wikipedia.org/wiki/植田益朗 "wikilink")、アンソニー・スカラ、
+  - プロデューサー：[井上幸一](https://ja.wikipedia.org/wiki/井上幸一_\(アニメ\) "wikilink")、ミミ・メイナード、カタリーナ・コンティ、クリス・ダブス
   - 副プロデューサー：バディー・マリーニ
   - ビジュアルエフェクトスーパーバイザー：ジョン・パレントゥ
   - ストーリー：ステファニー・ペナ＝シー
@@ -249,10 +251,10 @@
   - オープニング音楽：[池頼広](../Page/池頼広.md "wikilink")
   - 音響プロデューサー：[中野徹](../Page/なかのとおる.md "wikilink")（HALF H・P STUDIO）
   - アソシエイトプロデューサー：陶山明美（オメガピクチャーズ）、出射均（オメガピクチャーズ）
-  - プロデューサー：原口淳（名古屋テレビ）、[井上幸一](https://ja.wikipedia.org/wiki/井上幸一 "wikilink")（サンライズ）
+  - プロデューサー：原口淳（名古屋テレビ）、[井上幸一](https://ja.wikipedia.org/wiki/井上幸一_\(アニメ\) "wikilink")（サンライズ）
   - 音響制作：HALF H・P STUDIO
   - 日本語版制作：オメガピクチャーズ
-  - 制作：[名古屋テレビ](../Page/名古屋テレビ放送.md "wikilink")、[サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")
+  - 制作：[名古屋テレビ](https://ja.wikipedia.org/wiki/名古屋テレビ "wikilink")、[サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")
 
 ## プロモーショントレーラー
 
@@ -403,7 +405,7 @@
     声 - [デニス・フォルト](https://ja.wikipedia.org/wiki/デニス・フォルト "wikilink")
     グレムリーシープ隊長で、階級は中佐。絶大なる自信と誇りの持ち主で、その言動にはどこか狂気じみている。リードの名前を挙げ、レイスと似た戦闘を行うことからリードはレイスと関わりがあるとみるが、本人はあくまで知らないと言い張る。その正体は、レイスの戦闘データを基に造られたモビルウェポンの戦闘AIであるため、最終決戦時にリードおよびレイスとしての記憶をバグとして消去した。搭乗機はプロジェクトレイブンの中核である[レイブン](https://ja.wikipedia.org/wiki/G-SAVIOURの登場兵器#レイブン "wikilink")。
   -
-    声 - [カーミット・カーベル](https://ja.wikipedia.org/wiki/カーミット・カーベル "wikilink")
+    声 - カーミット・カーベル
     グレムリーシープ副隊長で、階級は少佐。野心家で、ライシスが持つポストを虎視眈々と狙っている。そのため、G3セイバーとの[一騎討ち](../Page/一騎討ち.md "wikilink")を挑んだ。最期はG3セイバーに敗れて機体が大破する寸前、自分にはライシスと渡り合うだけの力量を持ち合わせていないことを悟り、自嘲した。搭乗機は[リチャード・ライト専用ブグ2](https://ja.wikipedia.org/wiki/G-SAVIOURの登場兵器#リチャード・ライト専用ブグ2 "wikilink")。
   -
     グレムリーシープ隊員。かつて軍事兵器の研究・開発が行われていた[キリマンジャロ](../Page/キリマンジャロ.md "wikilink")基地の防衛にあたっていた。搭乗機は拠点防衛用の[スピアヘッドBタイプ](https://ja.wikipedia.org/wiki/G-SAVIOURの登場兵器#スピアヘッド "wikilink")。
@@ -411,7 +413,7 @@
 ## 関連商品
 
   - DVD/VHS
-    [バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")より、日本でのテレビ放映時より本編が20分長い93分のDVD『Gセイバー フルバージョン』が発売されている（品番：BCBF-0807、バーコード：4934569608079、税抜定価6,000円、字幕スーパー版と、テレビ放映時の吹替版を収録、画面は横4:縦3のスタンダードサイズ\[3\]）。VHSでは、字幕スーパー版と日本語吹替版が各々発売されている。
+    [バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")より、日本でのテレビ放映時より本編が20分長い93分のDVD『Gセイバー フルバージョン』が発売されている（品番：BCBF-0807、バーコード：4934569608079、税抜定価6,000円、字幕スーパー版と、テレビ放映時の吹替版を収録、画面は横4:縦3のスタンダードサイズ\[4\]）。VHSでは、字幕スーパー版と日本語吹替版が各々発売されている。
 
   - 小説
     2000年12月に[集英社](../Page/集英社.md "wikilink")[スーパーダッシュ文庫](../Page/スーパーダッシュ文庫.md "wikilink")から全2巻で発売された。著者は[河原よしえ](../Page/河原よしえ.md "wikilink")で、挿絵は[鈴木雅久](../Page/鈴木雅久.md "wikilink")が担当した。明確に従来のガンダムシリーズと直結した宇宙世紀の物語として描かれており、[コロニー落とし](../Page/コロニー落とし.md "wikilink")による地球への被害などが細かく描かれている。
@@ -440,7 +442,7 @@
 
 :; Orb（歌：Emily）
 
-:: 日本放映版のエンディング主題歌として、サウンドトラックCDにも収録されている。作詞・作曲は[川口進](https://ja.wikipedia.org/wiki/川口進 "wikilink")、編曲は[十川知司](../Page/十川ともじ.md "wikilink")（ビクターエンタテインメントより2001年[1月1日](../Page/1月1日.md "wikilink")発売）。
+:: 日本放映版のエンディング主題歌として、サウンドトラックCDにも収録されている。作詞・作曲は[川口進](https://ja.wikipedia.org/wiki/川口進 "wikilink")、編曲は[十川知司](https://ja.wikipedia.org/wiki/十川知司 "wikilink")（ビクターエンタテインメントより2001年[1月1日](../Page/1月1日.md "wikilink")発売）。
 
 :; Dear Mother（歌：Lovable）
 
@@ -472,8 +474,9 @@
   - [バンダイビジュアルサイト](https://www.bandaivisual.co.jp/gundamdvd/movie_gsav.php)
 
   -
-[Category:ガンダムシリーズ](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズ "wikilink") [Category:巨大ロボットを題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたテレビドラマ "wikilink") [Category:SFテレビドラマ](https://ja.wikipedia.org/wiki/Category:SFテレビドラマ "wikilink") [Category:スペースオペラ](https://ja.wikipedia.org/wiki/Category:スペースオペラ "wikilink") [Category:特撮テレビ番組](https://ja.wikipedia.org/wiki/Category:特撮テレビ番組 "wikilink") [Category:テレビ朝日のテレビドラマ](https://ja.wikipedia.org/wiki/Category:テレビ朝日のテレビドラマ "wikilink") [Category:テレビ朝日のスペシャルドラマ](https://ja.wikipedia.org/wiki/Category:テレビ朝日のスペシャルドラマ "wikilink") [Category:バンクーバーで製作されたテレビ番組](https://ja.wikipedia.org/wiki/Category:バンクーバーで製作されたテレビ番組 "wikilink") [Category:バンクーバーで製作された映画作品](https://ja.wikipedia.org/wiki/Category:バンクーバーで製作された映画作品 "wikilink") [Category:2000年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2000年のテレビドラマ "wikilink") [Category:宇宙世紀](https://ja.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:スーパーダッシュ文庫](https://ja.wikipedia.org/wiki/Category:スーパーダッシュ文庫 "wikilink") [Category:シューティングゲーム](https://ja.wikipedia.org/wiki/Category:シューティングゲーム "wikilink") [Category:ガンダムシリーズゲーム作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズゲーム作品 "wikilink") [Category:2000年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2000年のコンピュータゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:サンライズインタラクティブのゲームソフト](https://ja.wikipedia.org/wiki/Category:サンライズインタラクティブのゲームソフト "wikilink")
+[Category:ガンダムシリーズ](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズ "wikilink") [Category:巨大ロボットを題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたテレビドラマ "wikilink") [Category:SFテレビドラマ](https://ja.wikipedia.org/wiki/Category:SFテレビドラマ "wikilink") [Category:スペースオペラ](https://ja.wikipedia.org/wiki/Category:スペースオペラ "wikilink") [Category:特撮テレビ番組](https://ja.wikipedia.org/wiki/Category:特撮テレビ番組 "wikilink") [Category:テレビ朝日のテレビドラマ](https://ja.wikipedia.org/wiki/Category:テレビ朝日のテレビドラマ "wikilink") [Category:テレビ朝日のスペシャルドラマ](https://ja.wikipedia.org/wiki/Category:テレビ朝日のスペシャルドラマ "wikilink") [Category:バンクーバーで製作されたテレビ番組](https://ja.wikipedia.org/wiki/Category:バンクーバーで製作されたテレビ番組 "wikilink") [Category:バンクーバーで製作された映画作品](https://ja.wikipedia.org/wiki/Category:バンクーバーで製作された映画作品 "wikilink") [Category:2000年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2000年のテレビドラマ "wikilink") [Category:宇宙世紀](https://ja.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:スーパーダッシュ文庫](https://ja.wikipedia.org/wiki/Category:スーパーダッシュ文庫 "wikilink") [Category:シューティングゲーム](https://ja.wikipedia.org/wiki/Category:シューティングゲーム "wikilink") [Category:ガンダムシリーズゲーム作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズゲーム作品 "wikilink") [Category:2000年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2000年のコンピュータゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:サンライズインタラクティブのゲームソフト](https://ja.wikipedia.org/wiki/Category:サンライズインタラクティブのゲームソフト "wikilink") [Category:日本と海外の合作作品](https://ja.wikipedia.org/wiki/Category:日本と海外の合作作品 "wikilink")
 
 1.  [festival info](http://www.shortshorts.org/1999/htm/fi-j.htm)
 2.  DVD版『G-SAVIOUR』パッケージの説明文より。
-3.  [G-SAVIOUR　ﾌﾙﾊﾞｰｼﾞｮﾝ](https://www.bandaivisual.co.jp/cont/item/BCBF-0807/)バンダイビジュアル公式サイト
+3.  「機動戦士ガンダム展　THE ART OF GUNDAM」会場配布のパンフレット（2013年）、『機動戦士ガンダム40周年記念オフィシャルブック』（2019年）など。
+4.  [G-SAVIOUR　ﾌﾙﾊﾞｰｼﾞｮﾝ](https://www.bandaivisual.co.jp/cont/item/BCBF-0807/)バンダイビジュアル公式サイト

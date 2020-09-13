@@ -9,7 +9,7 @@
 
   - [プレクストーク PTP1](../Page/プレクストーク.md "wikilink")・ポケット
   - [スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink"), [タブレット](../Page/タブレット_\(コンピュータ\).md "wikilink")
-      - [Android](../Page/Android.md "wikilink") - Android 3.1 から対応、ただし、Android 2.3.4 にもバックポートして対応している。[Samsung Galaxy](https://ja.wikipedia.org/wiki/Samsung_Galaxy "wikilink") シリーズ ([GALAXY S II](https://ja.wikipedia.org/wiki/SC-02C "wikilink"), [Galaxy Note](https://ja.wikipedia.org/wiki/Galaxy_Note "wikilink") など)、[Xperia](https://ja.wikipedia.org/wiki/Xperia "wikilink") シリーズ、[REGZA Phone](https://ja.wikipedia.org/wiki/REGZA_Phone "wikilink") シリーズ ([IS04](https://ja.wikipedia.org/wiki/IS04 "wikilink")など)、[ARROWS X LTE F-05D](https://ja.wikipedia.org/wiki/F-05D "wikilink") 、Google [Nexus 7など](https://ja.wikipedia.org/wiki/Nexus_7 "wikilink")。
+      - [Android](../Page/Android_\(オペレーティングシステム\).md "wikilink") - Android 3.1 から対応、ただし、Android 2.3.4 にもバックポートして対応している。[Samsung Galaxy](https://ja.wikipedia.org/wiki/Samsung_Galaxy "wikilink") シリーズ ([GALAXY S II](https://ja.wikipedia.org/wiki/SC-02C "wikilink"), [Galaxy Note](https://ja.wikipedia.org/wiki/Galaxy_Note "wikilink") など)、[Xperia](https://ja.wikipedia.org/wiki/Xperia "wikilink") シリーズ、[REGZA Phone](https://ja.wikipedia.org/wiki/REGZA_Phone "wikilink") シリーズ ([IS04](https://ja.wikipedia.org/wiki/IS04 "wikilink")など)、[ARROWS X LTE F-05D](https://ja.wikipedia.org/wiki/F-05D "wikilink") 、Google [Nexus 7など](https://ja.wikipedia.org/wiki/Nexus_7 "wikilink")。
       - [iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink") - iPad Camera Connection Kit など
       - Windows Mobile - [WS007SH](../Page/WS007SH.md "wikilink"), [WS011SH](../Page/WS011SH.md "wikilink") など
   - [デジタルカメラ](../Page/デジタルカメラ.md "wikilink")
@@ -25,11 +25,9 @@
 
 ## 外部リンク
 
-  - [USB On-The-Go](http://www.usb.org/developers/onthego/)
+  - [USB On-The-Go](https://usb.org/usb-on-the-go)
 
-[de:Universal Serial Bus\#USB On-the-go](https://ja.wikipedia.org/wiki/de:Universal_Serial_Bus#USB_On-the-go "wikilink")
-
-[Category:インタフェース規格](https://ja.wikipedia.org/wiki/Category:インタフェース規格 "wikilink")
+[Category:USB](https://ja.wikipedia.org/wiki/Category:USB "wikilink")
 
 1.  [USB On-The-Go 2.0 Rev. 1.0](http://www.usb.org/developers/onthego/otg1_0.pdf)
 2.  [USB On-The-Go 2.0 Rev. 2.0](http://www.usb.org/developers/onthego/USB_OTG_and_EH_2-0.pdf)

@@ -21,7 +21,7 @@
 
 ## その他
 
-[2015年](../Page/2015年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")に新たに公表された[グーグル](https://ja.wikipedia.org/wiki/グーグル "wikilink")の画期的な[人工知能](../Page/人工知能.md "wikilink")が「[DQN](https://ja.wikipedia.org/wiki/DQN_\(コンピュータ\) "wikilink")」と命名され、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では話題を呼んだ\[16\]。
+[2015年](../Page/2015年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")に新たに公表された[グーグル](https://ja.wikipedia.org/wiki/グーグル "wikilink")の画期的な[人工知能](../Page/人工知能.md "wikilink")が「[DQN](https://ja.wikipedia.org/wiki/DQN_\(コンピュータ\) "wikilink")」と命名され、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では話題を呼んだ\[16\]。なお、人工知能「DQN」の開発者の一人である[デミス・ハサビス](https://ja.wikipedia.org/wiki/デミス・ハサビス "wikilink")は日本で使われる「DQN」という語を知っている模様\[17\]。
 
 ## 脚注
 
@@ -37,7 +37,7 @@
   - [中二病](../Page/中二病.md "wikilink")
   - [厨房 (ネット用語)](../Page/厨房_\(ネット用語\).md "wikilink")
   - [レッテル](https://ja.wikipedia.org/wiki/レッテル "wikilink")
-  - [不良行為少年](../Page/不良行為少年.md "wikilink") - [ヤンキー (不良少年)](../Page/ヤンキー_\(不良少年\).md "wikilink") - [ならず者](../Page/ならず者.md "wikilink")
+  - [不良行為少年](../Page/不良行為少年.md "wikilink") - [ヤンキー (不良少年)](../Page/ヤンキー_\(不良少年\).md "wikilink") - [ならず者](../Page/ならず者.md "wikilink") - [暴力団](https://ja.wikipedia.org/wiki/暴力団 "wikilink")・[半グレ](https://ja.wikipedia.org/wiki/半グレ "wikilink")
   - [体育会系](../Page/体育会系.md "wikilink") - [愚連隊](../Page/愚連隊.md "wikilink") - [暴走族](../Page/暴走族.md "wikilink")
   - [マイルドヤンキー](https://ja.wikipedia.org/wiki/マイルドヤンキー "wikilink")
   - [キラキラネーム](https://ja.wikipedia.org/wiki/キラキラネーム "wikilink")
@@ -52,7 +52,7 @@
 4.  [プロバイダ責任制限法対応事業者協議会](http://www.telesa.or.jp/consortium/provider/)
 5.  [「プロバイダ責任制限法発信者情報開示関係ガイドライン」](http://www.telesa.or.jp/consortium/provider/pdf/provider_hguideline_20110921_1.pdf) 、プロバイダ責任制限法ガイドライン等検討協議会、初版：2007年2月 第2版：2011年9月、p.14
 6.  判決文では、「「DQN」が侮辱的表現であることは」、証拠「より明らかである。」と判示されている
-7.  [「DQN」は名誉毀損 2ちゃん語が危ない (J-CAST)](http://www.j-cast.com/2007/02/28005842.html?p=all) や[「DQN」で実名開示も？悪質書き込み対策で業界ガイドライン (cache)](http://web.archive.org/web/20070228094835/http://it.nikkei.co.jp/internet/news/index.aspx%3Fn%3DMMITba002026022007) など。
+7.  [「DQN」は名誉毀損 2ちゃん語が危ない (J-CAST)](http://www.j-cast.com/2007/02/28005842.html?p=all) や[「DQN」で実名開示も？悪質書き込み対策で業界ガイドライン (cache)](https://web.archive.org/web/20070228094835/http://it.nikkei.co.jp/internet/news/index.aspx%3Fn%3DMMITba002026022007) など。
 8.
 9.
 10.
@@ -61,4 +61,5 @@
 13.
 14.
 15.
-16. [Yahoo！ニュース グーグル開発の人工知能、その名も「DQN」ネットでは「命名事故？」「奇跡的」](http://headlines.yahoo.co.jp/hl?a=20150226-00000001-withnews-sci)
+16.
+17. [羽生善治](../Page/羽生善治.md "wikilink")、NHKスペシャル取材班『人工知能の核心』[NHK出版](../Page/NHK出版.md "wikilink")、2017年、51頁。ISBN 978-4-14-088511-6。

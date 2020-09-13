@@ -161,7 +161,7 @@
 ## 外部リンク
 
   -
-[Category:グループSNE](https://ja.wikipedia.org/wiki/Category:グループSNE "wikilink") [Category:神戸市中央区の企業](https://ja.wikipedia.org/wiki/Category:神戸市中央区の企業 "wikilink") [Category:テーブルトークRPG](https://ja.wikipedia.org/wiki/Category:テーブルトークRPG "wikilink") [Category:ボードゲーム](https://ja.wikipedia.org/wiki/Category:ボードゲーム "wikilink") [Category:トレーディングカードゲーム](https://ja.wikipedia.org/wiki/Category:トレーディングカードゲーム "wikilink") [Category:クリエイター集団](https://ja.wikipedia.org/wiki/Category:クリエイター集団 "wikilink")
+[Category:グループSNE](https://ja.wikipedia.org/wiki/Category:グループSNE "wikilink") [Category:神戸市中央区の企業](https://ja.wikipedia.org/wiki/Category:神戸市中央区の企業 "wikilink") [Category:テーブルトークRPGに関係する企業](https://ja.wikipedia.org/wiki/Category:テーブルトークRPGに関係する企業 "wikilink") [Category:クリエイター集団](https://ja.wikipedia.org/wiki/Category:クリエイター集団 "wikilink") [Category:1987年設立の企業](https://ja.wikipedia.org/wiki/Category:1987年設立の企業 "wikilink")
 
 1.  [YouTube『ロードス島戦記オンライン』 安田均インタヴュー](https://www.youtube.com/watch?v=751FnRLR0BM)
 2.  [山本弘](https://ja.wikipedia.org/wiki/山本弘 "wikilink")『宇宙はくりまんじゅうで滅びるか?』*pp. 88-90* 2007, [河出書房新社](../Page/河出書房新社.md "wikilink") ISBN 4309018297

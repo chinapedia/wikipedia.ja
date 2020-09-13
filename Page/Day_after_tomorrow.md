@@ -13,7 +13,7 @@
 
 「day after tomorrow」は、直訳すると明後日。明後日は明日よりも何が起こるか分からない、「day after tomorrow」も何が起こるか分からないユニットにしたかった。また、明日では近すぎて未来では遠すぎるという意味が込められている。
 
-[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")表記では近未來であり明後日ではない。また、ユニット名は全て[小文字](../Page/小文字.md "wikilink")であり、「Day after tomorrow」や「Day After Tomorrow」、「DAY AFTER TOMORROW」といった表記は誤りである。
+[中国語](../Page/中国語.md "wikilink")表記では近未來であり明後日ではない。また、ユニット名は全て[小文字](../Page/小文字.md "wikilink")であり、「Day after tomorrow」や「Day After Tomorrow」、「DAY AFTER TOMORROW」といった表記は誤りである。
 
 ## メンバー
 
@@ -186,8 +186,8 @@
 ## 外部リンク
 
   -
-[Category:Day_after_tomorrow](https://ja.wikipedia.org/wiki/Category:Day_after_tomorrow "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:2001年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に結成した音楽グループ "wikilink") [Category:2005年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に解散した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
+[Category:Day_after_tomorrow](https://ja.wikipedia.org/wiki/Category:Day_after_tomorrow "wikilink") [Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:2001年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に結成した音楽グループ "wikilink") [Category:2005年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に解散した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
 
 1.  [アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")及び[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")。
-2.  [白鴎大学](../Page/白鴎大学.md "wikilink")（10月25日）、[金城大学](../Page/金城大学.md "wikilink")（11月1日）、[大東文化大学](https://ja.wikipedia.org/wiki/大東文化大学 "wikilink")（11月2日）、[関西外国語大学](../Page/関西外国語大学.md "wikilink")（11月3日）、[神奈川工科大学](../Page/神奈川工科大学.md "wikilink")（11月16日）の5校
+2.  [白鷗大学](https://ja.wikipedia.org/wiki/白鷗大学 "wikilink")（10月25日）、[金城大学](../Page/金城大学.md "wikilink")（11月1日）、[大東文化大学](https://ja.wikipedia.org/wiki/大東文化大学 "wikilink")（11月2日）、[関西外国語大学](../Page/関西外国語大学.md "wikilink")（11月3日）、[神奈川工科大学](../Page/神奈川工科大学.md "wikilink")（11月16日）の5校
 3.  [公式サイトでの発表](http://dat-net.jp/jp/contact/050524.html)

@@ -5,7 +5,7 @@
 
 ## 学術的な記号・単位
 
-  - **AA** - [ABO式血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")の[遺伝子型](../Page/遺伝子型.md "wikilink")の1つ。
+  - **AA** - [ABO式血液型](../Page/ABO式血液型.md "wikilink")の[遺伝子型](../Page/遺伝子型.md "wikilink")の1つ。
   - **a. a.** - [数学](../Page/数学.md "wikilink")における慣用表現「ほとんど全ての」 (almost all) の略記。「[ほとんど (数学)](https://ja.wikipedia.org/wiki/ほとんど_\(数学\) "wikilink")」を参照。
 
 ## 規格・階級

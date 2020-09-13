@@ -66,7 +66,7 @@
 
 ## ライブ映像作品
 
-### innocent world
+**innocent world**
 
 | 作品名                                                                                                                                                           | 備考                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
@@ -82,9 +82,9 @@
 | [MR.CHILDREN TOUR POPSAURUS 2012](https://ja.wikipedia.org/wiki/MR.CHILDREN_TOUR_POPSAURUS_2012 "wikilink")                                                   |                                                                            |
 | [Mr.Children［(an imitation) blood orange］Tour](https://ja.wikipedia.org/wiki/Mr.Children［\(an_imitation\)_blood_orange］Tour "wikilink")                       |                                                                            |
 | [Mr.Children Stadium Tour 2015 未完](https://ja.wikipedia.org/wiki/Mr.Children_Stadium_Tour_2015_未完 "wikilink")                                                 |                                                                            |
-| [Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")         | 半音下げて演奏された                                                                 |
-| [Mr.Children Tour 2018-19 重力と呼吸](https://ja.wikipedia.org/wiki/Mr.Children_Tour_2018-19_重力と呼吸 "wikilink")                                                     | 特典映像、一部のみ収録されている 半音下げて演奏された                                                |
-| [Mr.Children Dome Tour 2019 Against All GRAVITY](../Page/Mr.Children_Dome_Tour_2019_Against_All_GRAVITY.md "wikilink")                                        | 半音下げて演奏された                                                                 |
+| [Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")         | キーを下げて演奏された                                                                |
+| [Mr.Children Tour 2018-19 重力と呼吸](https://ja.wikipedia.org/wiki/Mr.Children_Tour_2018-19_重力と呼吸 "wikilink")                                                     | 特典映像、一部のみ収録されている キーを下げて演奏された                                               |
+| [Mr.Children Dome Tour 2019 Against All GRAVITY](../Page/Mr.Children_Dome_Tour_2019_Against_All_GRAVITY.md "wikilink")                                        | キーを下げて演奏された                                                                |
 
 ## 収録アルバム
 

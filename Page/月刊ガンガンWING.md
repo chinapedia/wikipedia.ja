@@ -58,7 +58,7 @@
   - [セツリ SINNER'S AMBITION](https://ja.wikipedia.org/wiki/セツリ_SINNER'S_AMBITION "wikilink")（[浅井蓮次](https://ja.wikipedia.org/wiki/浅井蓮次 "wikilink")）
   - [そらのひとひら](https://ja.wikipedia.org/wiki/そらのひとひら "wikilink")（[野々原ちき](../Page/野々原ちき.md "wikilink")） ※2005年1月号より休載、未完
   - [タクティクスオウガ](../Page/タクティクスオウガ.md "wikilink")（[松葉博](../Page/松葉博.md "wikilink")）★
-  - [TWIN SIGNAL外伝](../Page/TWIN_SIGNAL.md "wikilink") 呪われし電脳神（[大清水さち](https://ja.wikipedia.org/wiki/大清水さち "wikilink")）
+  - [TWIN SIGNAL外伝](../Page/TWIN_SIGNAL.md "wikilink") 呪われし電脳神（[大清水さち](../Page/大清水さち.md "wikilink")）
   - [dear](https://ja.wikipedia.org/wiki/dear_\(漫画\) "wikilink")（[藤原ここあ](../Page/藤原ここあ.md "wikilink")）
   - [D線上のアリス](https://ja.wikipedia.org/wiki/D線上のアリス "wikilink")（[伊原士郎](https://ja.wikipedia.org/wiki/伊原士郎 "wikilink")）
   - [テイルズ オブ エターニア](https://ja.wikipedia.org/wiki/テイルズ_オブ_エターニア "wikilink")（[小池陽子](https://ja.wikipedia.org/wiki/小池陽子 "wikilink")）

@@ -18,7 +18,7 @@
 <!-- end list -->
 
   -
-    [三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")出身。[血液型B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。作詞、作曲も担当。「[With-you](https://ja.wikipedia.org/wiki/With-you "wikilink")」等を作曲。
+    [三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")出身。[血液型B型](../Page/ABO式血液型.md "wikilink")。作詞、作曲も担当。「[With-you](https://ja.wikipedia.org/wiki/With-you "wikilink")」等を作曲。
 
 <!-- end list -->
 
@@ -36,7 +36,7 @@
 <!-- end list -->
 
   -
-    [大阪府](../Page/大阪府.md "wikilink")出身。血液型A型。作曲も担当。「[未来航路](https://ja.wikipedia.org/wiki/未来航路 "wikilink")」等を作曲。[2005年](../Page/2005年.md "wikilink")に脱退し、[2009年](../Page/2009年.md "wikilink")の再結成時に再加入。現在は主に[ALvino](../Page/ALvino.md "wikilink")のメンバーとして活動。
+    [大阪府](../Page/大阪府.md "wikilink")出身。血液型A型。作曲も担当。「[未来航路](https://ja.wikipedia.org/wiki/未来航路 "wikilink")」等を作曲。[2005年](../Page/2005年.md "wikilink")に脱退し、[2009年](../Page/2009年.md "wikilink")の再結成時に再加入。現在は主にユニットALICE IN MENSWEARとして活動。
 
 <!-- end list -->
 
@@ -54,7 +54,7 @@
 <!-- end list -->
 
   -
-    大阪府出身。血液型B型。現在は[ALvino](../Page/ALvino.md "wikilink")や[石月努](../Page/石月努.md "wikilink")等のサポートドラマーとして活動。
+    大阪府出身。血液型B型。現在は[石月努](../Page/石月努.md "wikilink")等のサポートドラマーとして活動。
 
 ## 音楽性と影響
 
@@ -558,7 +558,7 @@
       -
   - [LEVI LIMIT](https://ameblo.jp/levilimit) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
       -
-[Category:La'cryma_Christi](https://ja.wikipedia.org/wiki/Category:La'cryma_Christi "wikilink") [Category:日本のプログレッシブ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のプログレッシブ・ロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:ポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・ロック・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:1991年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1991年に結成した音楽グループ "wikilink") [Category:2007年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2007年に解散した音楽グループ "wikilink") [Category:2009年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2009年に再結成した音楽グループ "wikilink") [Category:2012年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2012年に再結成した音楽グループ "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink")
+[Category:La'cryma_Christi](https://ja.wikipedia.org/wiki/Category:La'cryma_Christi "wikilink") [Category:日本のプログレッシブ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のプログレッシブ・ロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:日本のポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のポップ・ロック・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:1991年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1991年に結成した音楽グループ "wikilink") [Category:2007年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2007年に解散した音楽グループ "wikilink") [Category:2009年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2009年に再結成した音楽グループ "wikilink") [Category:2012年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2012年に再結成した音楽グループ "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink")
 
 1.  [【V系】ヴィジュアル系はもう「終わり」?「2012年のV系を振り返る」第3回(ゲスト:NoGoD 団長) - Ameba News アメーバニュース](http://news.ameba.jp/20121231-104/)
 2.

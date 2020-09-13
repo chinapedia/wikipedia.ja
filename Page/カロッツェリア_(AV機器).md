@@ -138,7 +138,7 @@
 <!-- end list -->
 
   -
-    [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")と共同で[Android](../Page/Android.md "wikilink")用アプリケーション「[ドコモ ドライブネット](https://ja.wikipedia.org/wiki/ドコモ_ドライブネット "wikilink") powered by カロッツェリア」を[ドコモ スマートフォン向けに提供開始](https://ja.wikipedia.org/wiki/ドコモ_スマートフォン "wikilink")。
+    [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")と共同で[Android用アプリケーション](../Page/Android_\(オペレーティングシステム\).md "wikilink")「[ドコモ ドライブネット](https://ja.wikipedia.org/wiki/ドコモ_ドライブネット "wikilink") powered by カロッツェリア」を[ドコモ スマートフォン向けに提供開始](https://ja.wikipedia.org/wiki/ドコモ_スマートフォン "wikilink")。
     同時に「スマートループ」も使用できる専用クレードル「SPX-SC01」も発売開始。
 
 <!-- end list -->

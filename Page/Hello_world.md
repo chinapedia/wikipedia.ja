@@ -7,7 +7,7 @@
 
 ## 利用目的
 
-ハロー・ワールドは伝統的にプログラミング言語をプログラム初心者に紹介するために使われる。また、ハロー・ワールドはプログラミング言語が正しくインストールされていること、およびプログラミング言語の使用方法を理解するための健全性テスト（[Sanity Test](https://ja.wikipedia.org/wiki/:en:Sanity_check "wikilink")）にも使用される。
+ハロー・ワールドは伝統的にプログラミング言語をプログラム初心者に紹介するために使われる。また、ハロー・ワールドはプログラミング言語が正しくインストールされていること、およびプログラミング言語の使用方法を理解するための健全性テスト ([Sanity Test](https://ja.wikipedia.org/wiki/:en:Sanity_check "wikilink"))にも使用される。
 
 『[プログラミング言語C](https://ja.wikipedia.org/wiki/プログラミング言語C "wikilink")』（第2版）では、初めに「新しいプログラミング言語を学ぶ唯一の道は、それでプログラムを書いてみることである」との考えが示され、プログラムを入力して実行し、出力を確認することを習得すれば、言語の他の要素を学ぶことは容易だと訓示される。そして、「hello,world という単語を印字せよ」との例題が示される。この例題について、まずプログラムのソースコードが示され、次にUNIXにおける典型的なコンパイル・実行方法が例示される。そして、このプログラムの詳細が解説される\[1\]。
 
@@ -47,9 +47,9 @@ c 'orld';
 
 ## 種類
 
-[PSP-Homebrew.jpeg](https://ja.wikipedia.org/wiki/File:PSP-Homebrew.jpeg "fig:PSP-Homebrew.jpeg")の[実証実験のためのハロー](../Page/概念実証.md "wikilink")・ワールド\]\] この文言は句読点や頭文字の異なる多数の種類が存在している。その種類はコンマ「,」や感嘆符「\!」の有無、頭文字の「H」および「W」が大文字かどうかを含む。いくつかの大文字のみサポートするシステム上の言語では「HELLO WORLD」のように異なる形式の実装を強制し、[難解プログラミング言語](https://ja.wikipedia.org/wiki/難解プログラミング言語 "wikilink")でのハロー・ワールドはわずかに修正された文字列を出力する。「」以外の文言でも良いので、同様の意味で「」が用いられることもあり、[日本語プログラミング言語](https://ja.wikipedia.org/wiki/日本語プログラミング言語 "wikilink")では「Hello World」を直訳した「こんにちは世界」が用いられることもある。
+[PSP-Homebrew.jpeg](https://ja.wikipedia.org/wiki/File:PSP-Homebrew.jpeg "fig:PSP-Homebrew.jpeg")の[実証実験のためのハロー](../Page/概念実証.md "wikilink")・ワールド\]\] この文言は[句読点や](../Page/約物.md "wikilink")[頭文字](https://ja.wikipedia.org/wiki/頭文字 "wikilink")の異なる多数の種類が存在している。その種類は[コンマ](../Page/コンマ.md "wikilink")「,」や[感嘆符](../Page/感嘆符.md "wikilink")「\!」の有無、頭文字の「H」および「W」が大文字かどうかを含む。いくつかの大文字のみサポートするシステム上の言語では「HELLO WORLD」のように異なる形式の実装を強制し、[難解プログラミング言語](https://ja.wikipedia.org/wiki/難解プログラミング言語 "wikilink")でのハロー・ワールドはわずかに修正された文字列を出力する。「」以外の文言でも良いので、同様の意味で「」が用いられることもあり、[日本語プログラミング言語](https://ja.wikipedia.org/wiki/日本語プログラミング言語 "wikilink")では「Hello World」を直訳した「こんにちは世界」が用いられることもある。
 
-利用目的にも異なる種類がある。[Lisp](https://ja.wikipedia.org/wiki/Lisp "wikilink")、[ML](../Page/ML.md "wikilink")、[Haskell](../Page/Haskell.md "wikilink")のような[関数型プログラミング言語](https://ja.wikipedia.org/wiki/関数型プログラミング言語 "wikilink")では、[再起手法を強調する関数型プログラミングの実例として利用されることがある](https://ja.wikipedia.org/wiki/再帰#再帰呼び出し "wikilink")。一方で、オリジナルの例は副作用を伴った[純粋関数型言語に違反した入出力の例として見られる](../Page/関数型言語.md "wikilink")。[アセンブリ言語](../Page/アセンブリ言語.md "wikilink")、[C言語](../Page/C言語.md "wikilink")、[VHDL](../Page/VHDL.md "wikilink")のような組み込みで使われる言語では、文言を出力することが追加のコンポーネントや他機器との連携なしでは難しい、もしくは、その手法が存在しないことの例として用いられる。[マイコン](../Page/マイクロコンピュータ.md "wikilink")、[FPGA](../Page/FPGA.md "wikilink")、[CPLD](../Page/CPLD.md "wikilink")などの機器では、制御間隔と機器連携を実験するLEDの発光が文言出力の代わりに利用される。
+利用目的にも異なる種類がある。[Lisp](https://ja.wikipedia.org/wiki/Lisp "wikilink")・[ML](../Page/ML.md "wikilink")・[Haskell](../Page/Haskell.md "wikilink")のような[関数型プログラミング言語](https://ja.wikipedia.org/wiki/関数型プログラミング言語 "wikilink")では、[再起手法を強調する関数型プログラミングの実例として利用されることがある](https://ja.wikipedia.org/wiki/再帰#再帰呼び出し "wikilink")。一方で、オリジナルの例は副作用を伴った[純粋関数型言語に違反した入出力の例として見られる](../Page/関数型言語.md "wikilink")。[アセンブリ言語](../Page/アセンブリ言語.md "wikilink")・[C言語](../Page/C言語.md "wikilink")・[VHDL](../Page/VHDL.md "wikilink")のような組み込みで使われる言語では、文言を出力することが追加のコンポーネントや他機器との連携なしでは難しい、もしくは、その手法が存在しないことの例として用いられる。[マイクロコンピュータ](../Page/マイクロコンピュータ.md "wikilink") (マイコン)・[FPGA](../Page/FPGA.md "wikilink")・[CPLD](../Page/CPLD.md "wikilink")などの機器では、制御間隔と機器連携を実験するLEDの発光（[Lチカ](https://ja.wikipedia.org/wiki/Lチカ "wikilink")）が文言出力の代わりに利用される。
 
 [Debian](../Page/Debian.md "wikilink")と[Ubuntu](../Page/Ubuntu.md "wikilink")は[apt](https://ja.wikipedia.org/wiki/apt "wikilink")パッケージシステムでハロー・ワールドプログラムを提供している。利用者は`apt-get install hello`と入力すると依存ソフトウェアと一緒に同プログラムがインストールされる。それ自身には意味はないが、そのプログラムが[健全性テスト](https://ja.wikipedia.org/wiki/健全性テスト "wikilink")を提供すると同時に、初心者にパッケージのインストール方法を伝えるシンプルな例となる。しかし、開発者にとってはより重要な利便性があり、手作業だったりdebhelperを使っての[debパッケージの作り方の良い例であり](https://ja.wikipedia.org/wiki/deb_\(ファイルフォーマット\) "wikilink")、[GNU Helloを使ったバージョンは](https://ja.wikipedia.org/wiki/GNU_Hello "wikilink")[GNU](../Page/GNU.md "wikilink")プログラムの書き方の例となる。
 

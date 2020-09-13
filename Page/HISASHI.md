@@ -1,7 +1,7 @@
 > この記事は[HISASHI](https://ja.wikipedia.org/wiki/HISASHI)から翻訳されています。
 
 
-**HISASHI**（ヒサシ、[1972年](../Page/1972年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[GLAY](../Page/GLAY.md "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")。本名、**外村 尚**（とのむら ひさし）。愛称は、**トノ**。[血液型はO型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長168cm。既婚。
+**HISASHI**（ヒサシ、[1972年](../Page/1972年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[GLAY](../Page/GLAY.md "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")。本名、**外村 尚**（とのむら ひさし）。愛称は、**トノ**。[血液型はO型](../Page/ABO式血液型.md "wikilink")。身長168cm。既婚。
 
 [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[弘前市](../Page/弘前市.md "wikilink")出身で、[1981年](../Page/1981年.md "wikilink")以降は[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[函館市](../Page/函館市.md "wikilink")で育つ。函館市立北日吉小学校、函館市立北中学校、[北海道函館稜北高等学校](../Page/北海道函館稜北高等学校.md "wikilink")卒業。[Radio Carolineの](../Page/Radio_Caroline.md "wikilink")[ウエノコウジ](../Page/ウエノコウジ.md "wikilink")、[THE MAD CAPSULE MARKETSの](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")[MOTOKATSU](../Page/宮上元克.md "wikilink")、[TERU](../Page/TERU.md "wikilink")と組んだバンド「**[rally](https://ja.wikipedia.org/wiki/rally_\(バンド\) "wikilink")**」のギターとリーダーも務める。
 
@@ -25,7 +25,7 @@
 
 積極的にメンバーを集め、「蟻」という[パンクバンドを組んだが](../Page/パンク・ロック.md "wikilink")1年で解散。 高校2年生の頃に、同じ高校に通っていたGLAYの[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")である[TAKURO](../Page/TAKURO.md "wikilink")と出会い、ツインギターの相棒を探している事を知る。そのツインギターに興味を持ち、GLAYに加入。卒業後は、家族と共に上京した。
 
-実は、当時の先生から「バンドは無理だ」と言われたらしいが、本人は受け入れず続けた。ちなみに、TAKURO曰く「高校3年間でノートを1冊しか使わなかった」という\[1\]\[2\]。
+実は、当時の先生から「バンドは無理だ」と言われたらしいが、本人は受け入れず続けた。ちなみに、TAKURO曰く「高校3年間でノートを1冊しか使わなかった」という\[1\]\[2\]。不良生徒ではあったが体格が小柄であったため、TAKUROは「何かあっても勝てる」と踏んでHISASHIに接触したとのこと。
 
   - 上京〜[インディーズ](../Page/インディーズ.md "wikilink")時代 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")4月〜[1994年](../Page/1994年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")
 
@@ -668,13 +668,20 @@ JUST MOVIN' ON 〜ALL THE-S-HIT〜</a></strong></p></td>
 <td><p>DVD</p></td>
 </tr>
 <tr class="even">
+<td><p>2018年6月6日</p></td>
+<td><p><strong>hide TRIBUTE IMPULSE</strong></p></td>
+<td><p>オムニバス</p></td>
+<td><p>HISASHI × YOW-ROWとして「DOUBT」で参加。</p></td>
+<td><p>CD</p></td>
+</tr>
+<tr class="odd">
 <td><p>2018年6月27日</p></td>
 <td><p><strong>tone.</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/三森すずこ" title="wikilink">三森すずこ</a></p></td>
 <td><p>「比翼の鳥」を作詞·作曲。</p></td>
 <td><p>CD</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2020年5月8日</p></td>
 <td><p><strong>僕たちはまだ世界を知らない</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/燦鳥ノム" title="wikilink">燦鳥ノム</a></p></td>

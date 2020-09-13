@@ -3,7 +3,9 @@
 
 **株式会社InterFM897**（インター・エフエム・はちきゅうなな、）は、[関東広域圏内の外国語放送実施地域](../Page/広域放送.md "wikilink")（[東京都区部](../Page/東京都区部.md "wikilink")、[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")、[千葉市](../Page/千葉市.md "wikilink")、[横浜市](../Page/横浜市.md "wikilink")、[川崎市](../Page/川崎市.md "wikilink")、[成田国際空港](../Page/成田国際空港.md "wikilink")）を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[超短波放送](../Page/超短波放送.md "wikilink")（FM放送）の[特定地上基幹放送事業者](https://ja.wikipedia.org/wiki/特定地上基幹放送事業者 "wikilink")である。
 
-[外国語放送](../Page/外国語放送.md "wikilink")の全国ネットワークである「メガロポリス・レディオ・ネットワーク（愛称：[MegaNet](https://ja.wikipedia.org/wiki/MegaNet "wikilink")（メガネット）」の[キー局](../Page/キー局.md "wikilink")。旧商号は**エフエムインターウェーブ株式会社**（FM Inter-Wave Inc.）。[キャッチコピー](../Page/キャッチコピー.md "wikilink")は「**The Real Music Station**」。[コールサインはJODW](https://ja.wikipedia.org/wiki/識別信号#識別信号 "wikilink")-FM。
+[外国語放送](../Page/外国語放送.md "wikilink")の全国ネットワークである「メガロポリス・レディオ・ネットワーク（愛称：[MegaNet](https://ja.wikipedia.org/wiki/MegaNet "wikilink")（メガネット）」の[キー局](../Page/キー局.md "wikilink")。また[全国FM放送協議会](../Page/全国FM放送協議会.md "wikilink")（JFN）の特別加盟局である\[1\]。
+
+旧商号は**エフエムインターウェーブ株式会社**（FM Inter-Wave Inc.）。[キャッチコピー](../Page/キャッチコピー.md "wikilink")は「**The Real Music Station**」。[コールサインはJODW](https://ja.wikipedia.org/wiki/識別信号#識別信号 "wikilink")-FM。
 
 本記事では、主に法人としての株式会社InterFM897、および関東広域圏の[放送局](../Page/放送局.md "wikilink")としての「**InterFM897**」（インター・エフエム・はちきゅうなな）について記述する。[2014年](../Page/2014年.md "wikilink")（[平成](../Page/平成.md "wikilink")26年）[4月1日](../Page/4月1日.md "wikilink")開局し、[2016年](../Page/2016年.md "wikilink")（平成28年）11月まで同社で運営していた[中京広域圏の放送局としての](../Page/広域放送.md "wikilink")[「InterFM NAGOYA」→「**Radio NEO**」については当該記事を参照](https://ja.wikipedia.org/wiki/Radio_NEO "wikilink")。
 
@@ -15,15 +17,15 @@
 
 局舎を港区芝浦の「ジャパンタイムズ・ニフコビル」に置き、愛称は「InterFM」、コンセプトを「Tokyo's No.1 Music Station」と、平常時は[音楽](../Page/音楽.md "wikilink")中心の[放送局](../Page/放送局.md "wikilink")と定めた。しかし、開局以降、首都圏での聴取率調査は万年最下位と振るわない。さらに、バブル経済崩壊による長期不況の中での開局であったため、売り上げが思い通りに上げられなかった。関東では最後に開局したラジオ局である事、東京タワーの送信アンテナの位置が低い為に[広域放送](../Page/広域放送.md "wikilink")でありながら他局に比べて受信範囲が狭い、と不利な要素を持つ。開局から10年目に当たる[2006年](../Page/2006年.md "wikilink")（平成18年）辺りから、機器の更新やスタジオ移転を行い、音質が改善されている。
 
-不況の影響が続き、経営が好転しない中、2006年（平成18年）にニフコ並びにジャパンタイムズが[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")の関連会社である[テレビ東京ブロードバンド](https://ja.wikipedia.org/wiki/テレビ東京ブロードバンド "wikilink")に[株式](../Page/株式.md "wikilink")を売却、[筆頭株主となり代わりにニフコ](../Page/株主.md "wikilink")・ジャパンタイムズは経営から撤退する。2006年（平成18年）から徐々に「ジャパンタイムズ・ニフコビル」からテレビ東京に程近い港区虎ノ門に機能を移転。[2009年](../Page/2009年.md "wikilink")（平成21年）2月には、テレビ東京ブロードバンドがニフコから残る持株すべてを譲受、連結子会社化していたが、同年3月には保有する全株式をテレビ東京に譲渡、InterFMはテレビ東京の連結子会社となった\[1\]。さらに同年6月にはテレビ東京が[大和証券グループ本社](../Page/大和証券グループ本社.md "wikilink")、[エフエム東京](../Page/エフエム東京.md "wikilink")など、残りの株主からも保有する全株式を追加取得すると共に、InterFMが行う[第三者割当増資にも応じる事を発表](../Page/募集株式.md "wikilink")\[2\]。同年7月にテレビ東京が株式の追加取得と第三者割当増資に成功し、テレビ東京の完全子会社になった事を発表\[3\]。同年[9月14日](../Page/9月14日.md "wikilink")、[テレビ東京天王洲スタジオ](../Page/テレビ東京天王洲スタジオ.md "wikilink")7階に本社機能を移転した。
+不況の影響が続き、経営が好転しない中、2006年（平成18年）にニフコ並びにジャパンタイムズが[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")の関連会社である[テレビ東京ブロードバンド](https://ja.wikipedia.org/wiki/テレビ東京ブロードバンド "wikilink")に[株式](../Page/株式.md "wikilink")を売却、[筆頭株主となり代わりにニフコ](../Page/株主.md "wikilink")・ジャパンタイムズは経営から撤退する。2006年（平成18年）から徐々に「ジャパンタイムズ・ニフコビル」からテレビ東京に程近い港区虎ノ門に機能を移転。[2009年](../Page/2009年.md "wikilink")（平成21年）2月には、テレビ東京ブロードバンドがニフコから残る持株すべてを譲受、連結子会社化していたが、同年3月には保有する全株式をテレビ東京に譲渡、InterFMはテレビ東京の連結子会社となった\[2\]。さらに同年6月にはテレビ東京が[大和証券グループ本社](../Page/大和証券グループ本社.md "wikilink")、[エフエム東京](../Page/エフエム東京.md "wikilink")など、残りの株主からも保有する全株式を追加取得すると共に、InterFMが行う[第三者割当増資にも応じる事を発表](../Page/募集株式.md "wikilink")\[3\]。同年7月にテレビ東京が株式の追加取得と第三者割当増資に成功し、テレビ東京の完全子会社になった事を発表\[4\]。同年[9月14日](../Page/9月14日.md "wikilink")、[テレビ東京天王洲スタジオ](../Page/テレビ東京天王洲スタジオ.md "wikilink")7階に本社機能を移転した。
 
-[2012年](../Page/2012年.md "wikilink")（平成24年）[6月20日](../Page/6月20日.md "wikilink")に当時の完全親会社であったテレビ東京が、テレビ放送事業への経営資源集中を目的に株式の90%を譲渡し、InterFMは[木下工務店](https://ja.wikipedia.org/wiki/木下工務店 "wikilink")完全子会社のキノシタ・マネージメントの子会社になった\[4\]\[5\]。後に[2013年](../Page/2013年.md "wikilink")（平成25年）[10月25日](../Page/10月25日.md "wikilink")の総務省の公表により、木下ホールディングスが全株式を追加取得し、完全子会社化していることが判明\[6\]。
+[2012年](../Page/2012年.md "wikilink")（平成24年）[6月20日](../Page/6月20日.md "wikilink")に当時の完全親会社であったテレビ東京が、テレビ放送事業への経営資源集中を目的に株式の90%を譲渡し、InterFMは[木下工務店](https://ja.wikipedia.org/wiki/木下工務店 "wikilink")完全子会社のキノシタ・マネージメントの子会社になった\[5\]\[6\]。後に[2013年](../Page/2013年.md "wikilink")（平成25年）[10月25日](../Page/10月25日.md "wikilink")の総務省の公表により、木下ホールディングスが全株式を追加取得し、完全子会社化していることが判明\[7\]。
 
 InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")をもって名古屋地区開局の予備免許を与えることとし、総務大臣から無線局予備免許通知書の交付を公表した。
 
 ### 外国語放送局として
 
-[外国人](../Page/外国人.md "wikilink")向けの「外国語放送局」として開局した経緯から、トークを含めて放送の大部分が英語で、日本語は[CM程度であった](../Page/コマーシャルメッセージ.md "wikilink")（当時は[ヨドバシカメラ](../Page/ヨドバシカメラ.md "wikilink")の英語CMも放送されていた）。外国語放送局の特徴としてPSA（Public Service Announcement。地方自治体の広報など）を放送し、[朝鮮語](../Page/朝鮮語.md "wikilink")、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")、[タガログ語](../Page/タガログ語.md "wikilink")、[タイ語](../Page/タイ語.md "wikilink")、[インドネシア語](../Page/インドネシア語.md "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")、[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")計10ヶ国語に対応する他、英語による[港区広報](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")、中国語を使った東京情報番組『（東京達人）』の放送も行なう。
+[外国人](../Page/外国人.md "wikilink")向けの「外国語放送局」として開局した経緯から、トークを含めて放送の大部分が英語で、日本語は[CM程度であった](../Page/コマーシャルメッセージ.md "wikilink")（当時は[ヨドバシカメラ](../Page/ヨドバシカメラ.md "wikilink")の英語CMも放送されていた）。外国語放送局の特徴としてPSA（Public Service Announcement。地方自治体の広報など）を放送し、[朝鮮語](../Page/朝鮮語.md "wikilink")、[中国語](../Page/中国語.md "wikilink")、[タガログ語](../Page/タガログ語.md "wikilink")、[タイ語](../Page/タイ語.md "wikilink")、[インドネシア語](../Page/インドネシア語.md "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")、[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")計10ヶ国語に対応する他、英語による[港区広報](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")、中国語を使った東京情報番組『（東京達人）』の放送も行なう。
 
 放送する音楽は原則として洋楽のみで構成していたが、[2014年](../Page/2014年.md "wikilink")（平成26年）11月より邦楽も放送されるようになった。一日全体の選曲をサウンド・ディレクターが選んでその日に合うようにディレクションする。夜間や週末にはヒップホップやクラブミュージック、ハワイアン、ワールドミュージック、[K-POP](https://ja.wikipedia.org/wiki/K-POP "wikilink")などに特化した番組がある。[DJは椅子に座らず曲のセットからミキシングまで一人で行う](../Page/ディスクジョッキー.md "wikilink")「[ワンマン](https://ja.wikipedia.org/wiki/ワンマン "wikilink")[DJスタイル](../Page/ディスクジョッキー.md "wikilink")」等、日本では実例の少ない放送スタイルを導入した。[2002年](../Page/2002年.md "wikilink")（平成14年）の改編では海外を倣って平日日中の3番組は番組名を設けず、「番組名=DJ」を採用（海外では番組名を設けない事はよくある）。
 
@@ -31,53 +33,59 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 
 [グラミー賞](../Page/グラミー賞.md "wikilink")の生中継に加え、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）からは[フジロック・フェスティバル](https://ja.wikipedia.org/wiki/フジロック・フェスティバル "wikilink")などの放送権を所有。毎年7月下旬に苗場スキー場にて行われる[フジロック・フェスティバル](https://ja.wikipedia.org/wiki/フジロック・フェスティバル "wikilink")のオフィシャルメディアであり、毎年会場からライヴ音源を生中継している。また、フジロック・フェスティバル開催後も頻繁に音源を放送。
 
-時報は正時2秒前からピッ・ピッ・ポーン\[7\]。[2013年](../Page/2013年.md "wikilink")（平成25年）3月までのタイムシグナルは音楽に乗せ「*Seventy-six point one J・O・D・W Tokyo InterFM at the tone InterFM time is ○○ o'clock*」、歌“*tokyo's No.1 music station*”、「*No.1 Seventy-six point one InterFM*」という音声が流れ時報があける。なお土曜日は別バージョンが流れた。また、平日17時は[ブリヂストン](../Page/ブリヂストン.md "wikilink")の時報CMがあり、平日7時と19時には親会社である[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")の時報CMが流れた（これらは、すべて通常のタイムシグナルではなく、オリジナルバージョン）。[ニュース](../Page/ニュース.md "wikilink")（InterFM Headline News）は主に[時報](../Page/時報.md "wikilink")明けに放送する。[英語](../Page/英語.md "wikilink")及び[日本語](../Page/日本語.md "wikilink")で行われる。現在のニュースは[共同通信](https://ja.wikipedia.org/wiki/共同通信 "wikilink")より配信されている。2013年（平成25年）4月、タイムシグナルのジングル、ニュース・ウェザー・トラフィックのBGMがすべて変更となり、「*InterFM The Real Music Station*」という音声が入るようになった。ニュースのBGMは[アイ・アム・ロボット・アンド・プラウド](https://ja.wikipedia.org/wiki/アイ・アム・ロボット・アンド・プラウド "wikilink")の「Her Version」。2014年（平成26年）10月以降、時報および、時報明けのニュースはなくなった。また[交通情報](../Page/交通情報.md "wikilink")のコーナーは在日外国人向けという特性もあり、従来から存在しない。（ただし周波数76.1時代にラップ調英語アナウンスによる首都高速道情報は存在した。）
+時報は正時2秒前からピッ・ピッ・ポーン\[8\]。[2013年](../Page/2013年.md "wikilink")（平成25年）3月までのタイムシグナルは音楽に乗せ「*Seventy-six point one J・O・D・W Tokyo InterFM at the tone InterFM time is ○○ o'clock*」、歌“*tokyo's No.1 music station*”、「*No.1 Seventy-six point one InterFM*」という音声が流れ時報があける。なお土曜日は別バージョンが流れた。また、平日17時は[ブリヂストン](../Page/ブリヂストン.md "wikilink")の時報CMがあり、平日7時と19時には親会社である[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")の時報CMが流れた（これらは、すべて通常のタイムシグナルではなく、オリジナルバージョン）。[ニュース](../Page/ニュース.md "wikilink")（InterFM Headline News）は主に[時報](../Page/時報.md "wikilink")明けに放送する。[英語](../Page/英語.md "wikilink")及び[日本語](../Page/日本語.md "wikilink")で行われる。現在のニュースは[共同通信](https://ja.wikipedia.org/wiki/共同通信 "wikilink")より配信されている。2013年（平成25年）4月、タイムシグナルのジングル、ニュース・ウェザー・トラフィックのBGMがすべて変更となり、「*InterFM The Real Music Station*」という音声が入るようになった。ニュースのBGMは[アイ・アム・ロボット・アンド・プラウド](https://ja.wikipedia.org/wiki/アイ・アム・ロボット・アンド・プラウド "wikilink")の「Her Version」。2014年（平成26年）10月以降、時報および、時報明けのニュースはなくなった。また[交通情報](../Page/交通情報.md "wikilink")のコーナーは在日外国人向けという特性もあり、従来から存在しない。（ただし周波数76.1時代にラップ調英語アナウンスによる首都高速道情報は存在した。）
 
 ### 提携と試行錯誤
 
 [2005年](../Page/2005年.md "wikilink")（平成17年）頃からそれまでの編成・コンセプトに変化が生じ、番組が頻繁に入れ替わるようになった。ラジオでは4月と10月に大改編、1月と7月に小改編が多く行われるが、InterFMの場合は毎月が改編の対象となり、「周知出来ないで唐突に『今回が最終回です』と発表する場合」もあれば「[ラテ欄に新番組](https://ja.wikipedia.org/wiki/番組表 "wikilink")・最終回の表記がない」場合もある。2006年（平成18年）4月末に終了した『[BARAKAN BEAT](https://ja.wikipedia.org/wiki/BARAKAN_BEAT "wikilink")』は開局から続く長寿番組であったが、突然最終回を迎えた（その後、2012年に再開）。また、英語ニュースを除いて日本語の番組が中心になり、[J-POP](../Page/J-POP.md "wikilink")の選曲も増えた。
 
-[2004年](../Page/2004年.md "wikilink")（平成16年）から[2007年](../Page/2007年.md "wikilink")（平成19年）にかけてはタイム広告が減少し、タイアップによる[一社提供](../Page/一社提供.md "wikilink")番組が増え、同時に番組の共同制作や委託を始めるなど、試行錯誤が始まる。[ブルームバーグ](https://ja.wikipedia.org/wiki/ブルームバーグ "wikilink")・[日刊工業新聞](../Page/日刊工業新聞.md "wikilink")・[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")・[MOOCS](../Page/MOOCS.md "wikilink")など、その業種は様々で、音楽雑誌やレコード会社とのタイアップ、ミニ番組の制作などを手がける。実績としては1年以上の継続は難しい。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）度は[TBSグループのクラシック専門インターネットラジオ](../Page/東京放送ホールディングス.md "wikilink")・[OTTAVA](../Page/OTTAVA.md "wikilink")の録音放送（いわゆる遅れネット）も実施。
+[2004年](../Page/2004年.md "wikilink")（平成16年）から[2007年](../Page/2007年.md "wikilink")（平成19年）にかけてはタイム広告が減少し、タイアップによる[一社提供](../Page/一社提供.md "wikilink")番組が増え、同時に番組の共同制作や委託を始めるなど、試行錯誤が始まる。[ブルームバーグ](../Page/ブルームバーグ_\(企業\).md "wikilink")・[日刊工業新聞](../Page/日刊工業新聞.md "wikilink")・[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")・[MOOCS](../Page/MOOCS.md "wikilink")など、その業種は様々で、音楽雑誌やレコード会社とのタイアップ、ミニ番組の制作などを手がける。実績としては1年以上の継続は難しい。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）度は[TBSグループのクラシック専門インターネットラジオ](../Page/東京放送ホールディングス.md "wikilink")・[OTTAVA](../Page/OTTAVA.md "wikilink")の録音放送（いわゆる遅れネット）も実施。
 
 アーティストDJ番組も増加。それまでとは、違って海外の音楽や文化への造詣の有無を問わなくなり、結果として邦楽の選曲が増えることになった。
 
-2007年（平成19年）10月には平日夜間の大規模改編があり、フリーマガジン「music UP's」とタイアップ、[アップフロントワークス](../Page/アップフロントワークス.md "wikilink")・テレビ東京[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")・[エス・オー・プロモーション](https://ja.wikipedia.org/wiki/エス・オー・プロモーション "wikilink")\[8\]所属のDJが出演する番組がそれぞれスタート。
+2007年（平成19年）10月には平日夜間の大規模改編があり、フリーマガジン「music UP's」とタイアップ、[アップフロントワークス](../Page/アップフロントワークス.md "wikilink")・テレビ東京[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")・[エス・オー・プロモーション](https://ja.wikipedia.org/wiki/エス・オー・プロモーション "wikilink")\[9\]所属のDJが出演する番組がそれぞれスタート。
 
-[地上デジタルラジオの実用化試験放送には参加しなかったが](../Page/地上デジタル音声放送.md "wikilink")、参入への意欲はあった\[9\]。
+[地上デジタルラジオの実用化試験放送には参加しなかったが](../Page/地上デジタル音声放送.md "wikilink")、参入への意欲はあった\[10\]。
 
 海外ラジオ番組の放送にも取り組み、2005年（平成17年）、1995年（平成7年）に亡くなった伝説の名DJ、[ウルフマン・ジャック](../Page/ウルフマン・ジャック.md "wikilink")の番組を再編集して復活（〜2006年（平成18年）3月。第2期が2009年（平成21年）10月より放送中）させる。2008年（平成20年）から1年3ヶ月間、アメリカの『[American Top 40](../Page/American_Top_40.md "wikilink")』を放送開始する。2009年（平成21年）4月、配給会社ウエストウッドワンから海外のラジオ番組を購入して4番組を開始したが、『Out of Order』と『Absolute Live』が終了して10月は土曜昼の『The Beatle Years』のみとなる。
 
 2009年（平成21年）には[堀内尚子](https://ja.wikipedia.org/wiki/堀内尚子 "wikilink")と[ピーター・バラカン](../Page/ピーター・バラカン.md "wikilink")が復帰し、ガイ・ペリマンは再び日中番組を担当。当時のテレビ東京、InterFMの双方の親子関係を示すように、テレビ東京でInterFMの局のCM、InterFMでテレビ東京の番組のCM（[日経スペシャル](../Page/日経スペシャル.md "wikilink")）が流れるようになった。さらに、テレビ東京以外の一部の全国ネットの番組でも、提供クレジットを出さない[PTで流されることもあった](../Page/パーティシペーション.md "wikilink")。
 
-2012年（平成24年）9月、看板DJのピーター・バラカンが執行役員に選任され\[10\]\[11\]、2014年（平成26年）6月まで在任した\[12\]。
+2012年（平成24年）9月、看板DJのピーター・バラカンが執行役員に選任され\[11\]\[12\]、2014年（平成26年）6月まで在任した\[13\]。
 
 ### 周波数の変更
 
-[2015年](../Page/2015年.md "wikilink")（平成27年）6月30日、周波数を開局当初から使用していた76.1MHzから89.7MHz\[13\]\[14\]に変更。10月31日までは76.1MHzとの並列放送を実施し11月1日より正式に89.7MHzに一本化した\[15\]。これは、ビル・マンションの高層化や家電製品の影響による「都市型難聴取対策」と、[2011年](../Page/2011年.md "wikilink")（平成23年）のアナログテレビ放送終了により、これまでアナログテレビVHF1ch～3ch\[16\]の影響により、電波干渉（混信）の観点から「ガードバンド」とされた86.0MHz～90.0MHzの領域の使用解禁が認められたことを受けて、従来より送信塔の位置を高くし、かつ周波数を変更して受信改善に努めることを目的としている\[17\]。
+[2015年](../Page/2015年.md "wikilink")（平成27年）6月30日、周波数を開局当初から使用していた76.1MHzから89.7MHz\[14\]\[15\]に変更。10月31日までは76.1MHzとの並列放送を実施し11月1日より正式に89.7MHzに一本化した\[16\]。これは、ビル・マンションの高層化や家電製品の影響による「都市型難聴取対策」と、[2011年](../Page/2011年.md "wikilink")（平成23年）のアナログテレビ放送終了により、これまでアナログテレビVHF1ch～3ch\[17\]の影響により、電波干渉（混信）の観点から「ガードバンド」とされた86.0MHz～90.0MHzの領域の使用解禁が認められたことを受けて、従来より送信塔の位置を高くし、かつ周波数を変更して受信改善に努めることを目的としている\[18\]。
 
-旧周波数（76.1MHz）は、北関東地域の県域局やコミュニティFM局の混信問題が起きていた\[18\]。また、日本と外国ではFMの周波数割当が異なり\[19\]、持ち込まれたラジオ受信機では受信できないという問題もあった\[20\]。
+旧周波数（76.1MHz）は、北関東地域の県域局やコミュニティFM局の混信問題が起きていた\[19\]。また、日本と外国ではFMの周波数割当が異なり\[20\]、持ち込まれたラジオ受信機では受信できないという問題もあった\[21\]。
 
-そこで国は一連の周波数再編過程で、InterFMに技術試験を行わせた上で、[2015年](../Page/2015年.md "wikilink")（平成27年）[1月22日](../Page/1月22日.md "wikilink")に[基幹放送用周波数使用計画](https://ja.wikipedia.org/wiki/基幹放送用周波数使用計画 "wikilink")を見直す案を発表、意見を募った\[21\]。寄せられた意見などを踏まえた結果、周波数の変更は許可され\[22\]、同年[6月26日](../Page/6月26日.md "wikilink")より新しい周波数（89.7MHz）の運用を開始\[23\]、6月30日18時より本放送を開始した\[24\]。
+そこで国は一連の周波数再編過程で、InterFMに技術試験を行わせた上で、[2015年](../Page/2015年.md "wikilink")（平成27年）[1月22日](../Page/1月22日.md "wikilink")に[基幹放送用周波数使用計画](https://ja.wikipedia.org/wiki/基幹放送用周波数使用計画 "wikilink")を見直す案を発表、意見を募った\[22\]。寄せられた意見などを踏まえた結果、周波数の変更は許可され\[23\]、同年[6月26日](../Page/6月26日.md "wikilink")より新しい周波数（89.7MHz）の運用を開始\[24\]、6月30日18時より本放送を開始した\[25\]。
 
 ### 名古屋エリアへの外国語放送局再建へ
 
-[InterFM_Nagoya_Branch_20131209.JPG](https://ja.wikipedia.org/wiki/File:InterFM_Nagoya_Branch_20131209.JPG "fig:InterFM_Nagoya_Branch_20131209.JPG") 2012年（平成24年）[10月30日](../Page/10月30日.md "wikilink")、名古屋エリアに2014年（平成26年）春に[MegaNet](https://ja.wikipedia.org/wiki/MegaNet "wikilink")の新局を立ち上げる構想を発表した。MegaNet（外国語放送局の全国ネット）の活性化を狙うとしている\[25\]。
+[InterFM_Nagoya_Branch_20131209.JPG](https://ja.wikipedia.org/wiki/File:InterFM_Nagoya_Branch_20131209.JPG "fig:InterFM_Nagoya_Branch_20131209.JPG") 2012年（平成24年）[10月30日](../Page/10月30日.md "wikilink")、名古屋エリアに2014年（平成26年）春に[MegaNet](https://ja.wikipedia.org/wiki/MegaNet "wikilink")の新局を立ち上げる構想を発表した。MegaNet（外国語放送局の全国ネット）の活性化を狙うとしている\[26\]。
 
-2013年（平成25年）[8月6日](../Page/8月6日.md "wikilink")に[総務省](../Page/総務省.md "wikilink")はInterFMが免許を申請したことを公表\[26\]、[10月25日](../Page/10月25日.md "wikilink")には11月1日付で予備免許を与える予定であることを発表した\[27\]。呼出名称は**エフエムインターウェーブなごや**、ステーション名は**InterFM NAGOYA**\[28\]\[29\]、コールサインは**JOCW-FM**で、周波数は**79.5MHz**、出力は**5kW**（[ERP](https://ja.wikipedia.org/wiki/実効放射電力 "wikilink") 18kW）で、周波数は既に閉局した同一目的の放送局[RADIO-i](../Page/愛知国際放送.md "wikilink")（愛知国際放送）と同じである。送信所は[名古屋市](../Page/名古屋市.md "wikilink")[昭和区](../Page/昭和区.md "wikilink")\[30\]。また演奏所は同じ市内の[瑞穂区](../Page/瑞穂区.md "wikilink")に設置された同社の名古屋支社に置かれる。放送区域は愛知県[名古屋市](../Page/名古屋市.md "wikilink")・[瀬戸市](../Page/瀬戸市.md "wikilink")・[常滑市](../Page/常滑市.md "wikilink")・[豊田市](https://ja.wikipedia.org/wiki/豊田市 "wikilink")・[岡崎市](../Page/岡崎市.md "wikilink")・[豊橋市](../Page/豊橋市.md "wikilink")を含む[中京圏](../Page/中京圏.md "wikilink")地域\[31\]\[32\]となっており、RADIO-iでは放送区域であった[浜松市](https://ja.wikipedia.org/wiki/浜松市 "wikilink")は含まれていない。放送形態は東京本局との同時放送と名古屋支局独自放送の混成を予定している。
+2013年（平成25年）[8月6日](../Page/8月6日.md "wikilink")に[総務省](../Page/総務省.md "wikilink")はInterFMが免許を申請したことを公表\[27\]、[10月25日](../Page/10月25日.md "wikilink")には11月1日付で予備免許を与える予定であることを発表した\[28\]。呼出名称は**エフエムインターウェーブなごや**、ステーション名は**InterFM NAGOYA**\[29\]\[30\]、コールサインは**JOCW-FM**で、周波数は**79.5MHz**、出力は**5kW**（[ERP](https://ja.wikipedia.org/wiki/実効放射電力 "wikilink") 18kW）で、周波数は既に閉局した同一目的の放送局[RADIO-i](../Page/愛知国際放送.md "wikilink")（愛知国際放送）と同じである。送信所は[名古屋市](../Page/名古屋市.md "wikilink")[昭和区](../Page/昭和区.md "wikilink")\[31\]。また演奏所は同じ市内の[瑞穂区](../Page/瑞穂区.md "wikilink")に設置された同社の名古屋支社に置かれる。放送区域は愛知県[名古屋市](../Page/名古屋市.md "wikilink")・[瀬戸市](../Page/瀬戸市.md "wikilink")・[常滑市](../Page/常滑市.md "wikilink")・[豊田市](https://ja.wikipedia.org/wiki/豊田市 "wikilink")・[岡崎市](../Page/岡崎市.md "wikilink")・[豊橋市](../Page/豊橋市.md "wikilink")を含む[中京圏](../Page/中京圏.md "wikilink")地域\[32\]\[33\]となっており、RADIO-iでは放送区域であった[浜松市](https://ja.wikipedia.org/wiki/浜松市 "wikilink")は含まれていない。放送形態は東京本局との同時放送と名古屋支局独自放送の混成を予定している。
 
-[試験放送](../Page/試験放送.md "wikilink")は[3月3日](../Page/3月3日.md "wikilink")より電波発射を開始され、[3月20日](../Page/3月20日.md "wikilink")に総務省から名古屋地区における外国語超短波放送の免許が付与されたことに伴い[サービス放送](../Page/サービス放送.md "wikilink")を翌3月21日7時に開始。[4月1日](../Page/4月1日.md "wikilink")7時に開局。なお、現時点で東三河地区（豊橋）などの送信所設置については発表されていないが、「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink").jp」への対応については、2015年7月30日から愛知県・岐阜県・三重県を配信対象地域として開始するとともに、「radiko.jpプレミアム（エリアフリー聴取）」で日本全国に有料配信されている\[33\]。
+[試験放送](../Page/試験放送.md "wikilink")は[3月3日](../Page/3月3日.md "wikilink")より電波発射を開始され、[3月20日](../Page/3月20日.md "wikilink")に総務省から名古屋地区における外国語超短波放送の免許が付与されたことに伴い[サービス放送](../Page/サービス放送.md "wikilink")を翌3月21日7時に開始。[4月1日](../Page/4月1日.md "wikilink")7時に開局。なお、現時点で東三河地区（豊橋）などの送信所設置については発表されていないが、「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink").jp」への対応については、2015年7月30日から愛知県・岐阜県・三重県を配信対象地域として開始するとともに、「radiko.jpプレミアム（エリアフリー聴取）」で日本全国に有料配信されている\[34\]。
 
 かつて名古屋周辺のMegaNet加盟局としては、RADIO-i（愛知国際放送：[2000年](../Page/2000年.md "wikilink")（平成12年）4月1日開局、2010年（平成22年）[9月30日](../Page/9月30日.md "wikilink")放送終了）があり、外国語放送局としては4年ぶりの復活となる。民放FMラジオ局では、今回のように1事業者による1局2波体制は[FM802](../Page/FM802.md "wikilink")（FM802・[FM COCOLO](../Page/FM_COCOLO.md "wikilink")）以来2例目となる。ただし、1例目が同一エリアで既存免許の承継によるものに対し、今回のように異なるエリアにおいて新規で放送免許を申請しての事例は初である。
 
-その後、InterFM NAGOYAは[2015年](../Page/2015年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")、地域に根付いた放送局として生まれ変わるための改編に合わせ、ステーション名を「**Radio NEO**」に変更。更に[2016年](../Page/2016年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")には、[特定地上基幹放送局の免許人の地位が](https://ja.wikipedia.org/wiki/地上基幹放送局#特定地上基幹放送局 "wikilink")、株式会社InterFMから木下グループの**株式会社Radio NEO**に承継された\[34\]。
+その後、InterFM NAGOYAは[2015年](../Page/2015年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")、地域に根付いた放送局として生まれ変わるための改編に合わせ、ステーション名を「**Radio NEO**」に変更。更に[2016年](../Page/2016年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")には、[特定地上基幹放送局の免許人の地位が](https://ja.wikipedia.org/wiki/地上基幹放送局#特定地上基幹放送局 "wikilink")、株式会社InterFMから木下グループの**株式会社Radio NEO**に承継された\[35\]。
 
 独立後もRadio NEOとの関係は続いており、特別番組の同時ネット・タイミングを合わせた改編など、両局の関係がしっかりある事を伺える。それと同時にInterFM897側が強い主導権を持っている事も伺え、2017年以降に行われている大型改編では、Radio NEO側が実際に視聴率が好調であった番組を縮小するという対応を取らされるなど、別の意味で影響が出ている姿が見受けられる。
 
-しかし、Radio NEOは開局から6年あまり経過した2020年6月30日をもって閉局することとなり\[35\]、再度名古屋エリアから外国語放送局が消滅する事となる。
+しかし、Radio NEOは開局から6年あまり経過した2020年6月30日をもって閉局することとなり\[36\]、再度名古屋エリアから外国語放送局が消滅する事となる。
 
 ## 資本構成
 
-企業・団体は当時の名称。出典：\[36\]\[37\]
+企業・団体は当時の名称。出典：\[37\]\[38\]\[39\]
+
+### 2020年9月1日以降
+
+| 株主                                                                               | 株式数      | 比率   |
+| -------------------------------------------------------------------------------- | -------- | ---- |
+| [ジャパンエフエムネットワーク](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink") | 350,000株 | 100% |
 
 ### 2016年7月1日以降
 
@@ -158,7 +166,7 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 
 ## 沿革
 
-  - [1996年](../Page/1996年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - 民放FMでは全国47番目、東京で3番目に開局。放送周波数は76.1MHzであった\[38\]。
+  - [1996年](../Page/1996年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - 民放FMでは全国47番目、東京で3番目に開局。放送周波数は76.1MHzであった\[40\]。
   - [2006年](../Page/2006年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") - ニフコ保有の普通株式約38%、ジャパンタイムズの保有株全てをテレビ東京ブロードバンドに譲渡、テレビ東京ブロードバンドの持分法適用関連会社となる。
   - [2009年](../Page/2009年.md "wikilink")
       - [2月18日](../Page/2月18日.md "wikilink") - ニフコ保有の普通株式・優先株式全てをテレビ東京ブロードバンドに譲渡。優先株式を普通株式に転換し、テレビ東京ブロードバンドの連結子会社となる。
@@ -170,28 +178,33 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
       - [12月1日](../Page/12月1日.md "wikilink") - ほかの在京ラジオ6局と共同でインターネットでのサイマル放送「radiko」の本放送を開始（試験期間中は南関東限定であったが、リニューアルに伴い、新たに北関東でも利用可能に）。放送局記号は「INT」。
   - [2011年](../Page/2011年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink") - [東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）。首都圏に存在する在日外国人対象局であるためこの日から関連情報を外国語で流し続けている（Nonstop music program and disaster relief information）。
   - [2012年](../Page/2012年.md "wikilink")
-      - [5月30日](../Page/5月30日.md "wikilink") - 同年[6月20日](../Page/6月20日.md "wikilink")付でテレビ東京が保有する株式90%をキノシタ・マネージメントに譲渡すると発表\[39\]\[40\]。
+      - [5月30日](../Page/5月30日.md "wikilink") - 同年[6月20日](../Page/6月20日.md "wikilink")付でテレビ東京が保有する株式90%をキノシタ・マネージメントに譲渡すると発表\[41\]\[42\]。
       - [10月30日](../Page/10月30日.md "wikilink") - 名古屋エリアへの新局立ち上げを発表。
   - [2013年](../Page/2013年.md "wikilink")
       - 4月1日 - キャッチコピーを「Tokyo's No.1 Music Station」から「The Real Music Station」に改める。
       - [8月6日](../Page/8月6日.md "wikilink") - 総務省に名古屋エリアへの免許申請。
       - [10月25日](../Page/10月25日.md "wikilink") - 総務省が[11月1日](../Page/11月1日.md "wikilink")に名古屋エリアへの予備免許交付を公表。同時にInterFMが木下ホールディングスの完全子会社になっていることが明らかになる。
   - [2014年](../Page/2014年.md "wikilink")
-      - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - [エフエムインターウェーブなごやが試験電波を発射開始](https://ja.wikipedia.org/wiki/Radio_NEO "wikilink")\[41\]。
-      - [3月20日](../Page/3月20日.md "wikilink") - 総務省がエフエムインターウェーブに名古屋エリアへの免許を付与\[42\]。
-      - [4月1日](../Page/4月1日.md "wikilink") - 商号を株式会社InterFMに変更\[43\]。InterFM NAGOYA開局。それに伴い、番組ジングル以外でのDJによる周波数アナウンスを取りやめ（東京と名古屋でサイマル放送するため。東京と名古屋では周波数が異なる）。
-      - [4月19日](../Page/4月19日.md "wikilink") - InterFM史上初の24時間生放送特番「InterFM 24 HOUR LIVE RADIO」を放送（19:00 - 翌20日19:00）。放送中はCMなし・CDの使用禁止（曲紹介をしたい場合は、出演者の生演奏によるもの・CD化されていない生音源・過去InterFM内で収録された生演奏のいずれかの中からのみ可能）で行われた\[44\]。
+      - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - [エフエムインターウェーブなごやが試験電波を発射開始](https://ja.wikipedia.org/wiki/Radio_NEO "wikilink")\[43\]。
+      - [3月20日](../Page/3月20日.md "wikilink") - 総務省がエフエムインターウェーブに名古屋エリアへの免許を付与\[44\]。
+      - [4月1日](../Page/4月1日.md "wikilink") - 商号を株式会社InterFMに変更\[45\]。InterFM NAGOYA開局。それに伴い、番組ジングル以外でのDJによる周波数アナウンスを取りやめ（東京と名古屋でサイマル放送するため。東京と名古屋では周波数が異なる）。
+      - [4月19日](../Page/4月19日.md "wikilink") - InterFM史上初の24時間生放送特番「InterFM 24 HOUR LIVE RADIO」を放送（19:00 - 翌20日19:00）。放送中はCMなし・CDの使用禁止（曲紹介をしたい場合は、出演者の生演奏によるもの・CD化されていない生音源・過去InterFM内で収録された生演奏のいずれかの中からのみ可能）で行われた\[46\]。
   - [2015年](../Page/2015年.md "wikilink")
-      - [6月24日](../Page/6月24日.md "wikilink") - 東京局の周波数変更が認可される\[45\]\[46\]。
-      - [6月26日](../Page/6月26日.md "wikilink") - 東京局が新周波数89.7MHzでの試験放送を開始\[47\]。
-      - [6月30日](../Page/6月30日.md "wikilink") - 18時の『THE DAVE FROMM SHOW』から、東京局が新周波数89.7MHzで本放送を開始\[48\]。
-      - [7月30日](../Page/7月30日.md "wikilink") - 名古屋局のradikoによるインターネットサイマル配信（東海三県を対象とした通常サービス及びradiko.jpプレミアムによるエリアフリー配信）を開始\[49\]。
-      - [10月1日](../Page/10月1日.md "wikilink") - 東京局のステーション名を「**InterFM897**（インターエフエム・ハチ・キュウ・ナナ）」に\[50\]、名古屋局のステーション名を「**Radio NEO**（レディオ・ネオ）」にそれぞれ変更\[51\]。
-      - [10月31日](../Page/10月31日.md "wikilink") - 東京局の旧周波数76.1MHzでの運用終了\[52\]。
+      - [6月24日](../Page/6月24日.md "wikilink") - 東京局の周波数変更が認可される\[47\]\[48\]。
+      - [6月26日](../Page/6月26日.md "wikilink") - 東京局が新周波数89.7MHzでの試験放送を開始\[49\]。
+      - [6月30日](../Page/6月30日.md "wikilink") - 18時の『THE DAVE FROMM SHOW』から、東京局が新周波数89.7MHzで本放送を開始\[50\]。
+      - [7月30日](../Page/7月30日.md "wikilink") - 名古屋局のradikoによるインターネットサイマル配信（東海三県を対象とした通常サービス及びradiko.jpプレミアムによるエリアフリー配信）を開始\[51\]。
+      - [10月1日](../Page/10月1日.md "wikilink") - 東京局のステーション名を「**InterFM897**（インターエフエム・ハチ・キュウ・ナナ）」に\[52\]、名古屋局のステーション名を「**Radio NEO**（レディオ・ネオ）」にそれぞれ変更\[53\]。
+      - [10月31日](../Page/10月31日.md "wikilink") - 東京局の旧周波数76.1MHzでの運用終了\[54\]。
   - [2016年](../Page/2016年.md "wikilink")
-      - [12月1日](../Page/12月1日.md "wikilink") - Radio NEOの特定地上基幹放送局の免許人の地位を、株式会社InterFMから木下グループの**株式会社Radio NEO**に承継\[53\]。
+      - [12月1日](../Page/12月1日.md "wikilink") - Radio NEOの特定地上基幹放送局の免許人の地位を、株式会社InterFMから木下グループの**株式会社Radio NEO**に承継\[55\]。
   - [2017年](../Page/2017年.md "wikilink")
-      - [4月1日](../Page/4月1日.md "wikilink") - **株式会社InterFM897**に商号変更\[54\]。
+      - [4月1日](../Page/4月1日.md "wikilink") - **株式会社InterFM897**に商号変更\[56\]。
+
+<!-- end list -->
+
+  - [2020年](../Page/2020年.md "wikilink")
+      - [9月1日](../Page/9月1日.md "wikilink") - 木下グループが保有するInterFM897の発行済み株式の全てを[ジャパンエフエムネットワークが取得](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")。これに伴い、全国FM放送協議会（JFN）に特別加盟局として加盟\[57\]。
 
 ## 放送局データ
 
@@ -210,9 +223,9 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/東京タワー" title="wikilink">東京</a></p></td>
-<td><p>89.7MHz[55]</p></td>
+<td><p>89.7MHz[58]</p></td>
 <td><p>10kW</p></td>
-<td><p>13kW[56][57]</p></td>
+<td><p>13kW[59][60]</p></td>
 <td><ul>
 <li>送信柱 - 日本電波塔（東京タワー）。<br />
 旧送信空中線は地上高165mに位置していた<br />
@@ -258,7 +271,7 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 </table>
 
   - 放送時間 - 5:00を1日の基点とした24時間放送。なお、毎週日曜の深夜 - 月曜未明に関しては2:00 - 5:00を休止時間としているが、放送終了時（2:00）のクロージングアナウンス（60"）のあと[停波](../Page/停波.md "wikilink")（場合によっては試験電波の発射）。その後4:50から再び電波を発射する。4:58.40からはオープニングアナウンス（60"）。4:59.40からは時報。『Mother Earth Radio』（日曜深夜=月曜未明 2:00 - 3:00）がスタートする前までは、2:00にクロージングがあった。『AKATUKI-J9』（日曜深夜=月曜未明 2:00 - 4:00）のあった時は、毎週日曜深夜=月曜未明 4:00 - 5:00の間に放送終了後、試験電波を発射。ない時は2:00 - 5:00の間、放送機器のメンテナンスのため休止。
-  - [TOKYO FM](../Page/エフエム東京.md "wikilink")、[放送大学](https://ja.wikipedia.org/wiki/放送大学 "wikilink")同様[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")から同じ出力で送信しているが、後発局であることと放送対象地域の違いにより送信[アンテナ](../Page/アンテナ.md "wikilink")の高さが他の2局に比べて低い上、ERPも放送大学の約3分の1である。そのため東京タワー単独では受信範囲が狭く、放送対象地域の横浜市に中継局を設置している。
+  - [東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")から[TOKYO FMと同一出力で送信しているが](../Page/エフエム東京.md "wikilink")、後発局であることと放送対象地域の違いにより送信[アンテナ](../Page/アンテナ.md "wikilink")の高さがTOKYO FMより低い上、ERPもTOKYO FMの約10分の1である。そのため東京タワー単独では受信範囲が狭く、放送対象地域の横浜市に中継局を設置している。
 
 ## 主な番組
 
@@ -309,7 +322,8 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 ▽10:30 Causette.Joli presents Radio Beauté（第２月曜）<br />
 ▽10:51 - 11:00 New Fire</p></td>
 <td><p>- 石倉ノア<br />
-▽11:42 BUY NOW（火）<br />
+▽11:42 [O] サッチの太鼓判！健康ショッピング - 有阪幸代、<a href="../Page/佐藤健一_(ラジオパーソナリティー).md" title="wikilink">佐藤健一</a>（月）<br />
+▽11:42 [O] BUY NOW - <a href="../Page/竹内都子.md" title="wikilink">竹内都子</a>、<a href="https://ja.wikipedia.org/wiki/ねづっち" title="wikilink">ねづっち</a>（火）<br />
 ▽11:56 InterFM897 LLLLIVE</p></td>
 <td><p>- Ali Morizumi</p></td>
 <td><p>7:00 <strong>THE GUY PERRYMAN SHOW</strong> - Guy Perryman<br />
@@ -341,8 +355,9 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p>11:00 <strong>Power of Music ～今こそ聴きたい音楽～</strong></p></td>
-<td></td>
+<td><p>11:00 <strong>Power of Music ～今こそ聴きたい音楽～</strong><br />
+▽11:56 InterFM897 LLLLIVE</p></td>
+<td><p>- Ali Morizumi</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -374,9 +389,11 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
-<td><p>15:00 <strong>TOKYO TRACKS ～今、聴きたい東京のオト～</strong></p></td>
-<td></td>
-<td></td>
+<td><p>15:00 <strong>Power of Music ～今こそ聴きたい音楽～ with MC RYU</strong> - MC RYU<br />
+▽15:49 InterFM897 LLLLIVE</p></td>
+<td><p>- Ali Morizumi<br />
+▽15:51 New Fire</p></td>
+<td><p>- 石倉ノア</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -386,7 +403,7 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 ▽16:30 嘉衛門 presents The Road~Take The One Less Traveled~（金）<br />
 ▽17:40 - 17:56 BEAMS TOKYO CULTURE STORY - 土井地博（<a href="https://ja.wikipedia.org/wiki/BEAMS" title="wikilink">BEAMS</a>）<br />
 ▽17:56 - 18:00 MINATO VOICE<br />
-▽18:36 - 18:51 World Flower Carpet 2020 presents ANOTHER SENSE - 藤川靖彦（金）<br />
+▽18:36 - 18:51 HANAE JAPAN presentsFlower's YELL - 藤川靖彦（金）<br />
 ▽18:51 New Fire</p></td>
 <td><p>- 石倉ノア</p></td>
 <td></td>
@@ -411,9 +428,9 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 </tr>
 <tr class="odd">
 <td><p>19</p></td>
-<td><p>19:00 <strong>TOKYO TRACKS ～今、聴きたい東京のオト～</strong> ～ Musicians Playlist Night Shift ～</p>
-<p>ミュージシャンがキュレートするプレイリスト</p></td>
-<td><p>19:00 <strong>TOKYO TRACKS Night Shift</strong> ～今、聴きたい東京のオト～</p></td>
+<td><p>19:00 <strong>Power of Music ～今こそ聴きたい音楽～</strong><br />
+▽19:56 InterFM897 LLLLIVE</p></td>
+<td><p>- Ali Morizumi（金）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -805,7 +822,7 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
   - Between The Lines - [尾崎裕哉](https://ja.wikipedia.org/wiki/尾崎裕哉 "wikilink")
   - Good To Go\! - [桑田佑宜](https://ja.wikipedia.org/wiki/桑田佑宜 "wikilink")（[READ ALOUD](https://ja.wikipedia.org/wiki/READ_ALOUD "wikilink")）
   - Everyday Music - [高橋幸宏](../Page/高橋幸宏.md "wikilink")
-  - The Fields〜寝れない人への処方箋〜 - 野崎良太（[Jazztronik](../Page/Jazztronik.md "wikilink")）
+  - The Fields〜眠れない人への処方箋〜 - 野崎良太（[Jazztronik](../Page/Jazztronik.md "wikilink")）
   - Sould Out - [後藤恵一郎](https://ja.wikipedia.org/wiki/後藤恵一郎 "wikilink")
   - 桑原茂一のPirate Radio - [桑原茂一](../Page/桑原茂一.md "wikilink")
   - atelier 429 - [滴草由実](../Page/滴草由実.md "wikilink")
@@ -882,62 +899,66 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
   -
   -
   -
-[Category:InterFM](https://ja.wikipedia.org/wiki/Category:InterFM "wikilink") [Category:日本民間放送連盟会員](https://ja.wikipedia.org/wiki/Category:日本民間放送連盟会員 "wikilink") [Category:日本ラジオ広告推進機構加盟局](https://ja.wikipedia.org/wiki/Category:日本ラジオ広告推進機構加盟局 "wikilink") [Category:品川区の企業](https://ja.wikipedia.org/wiki/Category:品川区の企業 "wikilink") [Category:1995年設立の企業](https://ja.wikipedia.org/wiki/Category:1995年設立の企業 "wikilink") [Category:日本のFMラジオ局](https://ja.wikipedia.org/wiki/Category:日本のFMラジオ局 "wikilink") [Category:関東地方のラジオ局](https://ja.wikipedia.org/wiki/Category:関東地方のラジオ局 "wikilink") [Category:東京都のマスメディア](https://ja.wikipedia.org/wiki/Category:東京都のマスメディア "wikilink") [Category:テレビ東京の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の歴史 "wikilink")
+  -
+[Category:InterFM](https://ja.wikipedia.org/wiki/Category:InterFM "wikilink") [Category:MegaNet](https://ja.wikipedia.org/wiki/Category:MegaNet "wikilink") [Category:日本民間放送連盟会員](https://ja.wikipedia.org/wiki/Category:日本民間放送連盟会員 "wikilink") [Category:日本ラジオ広告推進機構加盟局](https://ja.wikipedia.org/wiki/Category:日本ラジオ広告推進機構加盟局 "wikilink") [Category:品川区の企業](https://ja.wikipedia.org/wiki/Category:品川区の企業 "wikilink") [Category:1995年設立の企業](https://ja.wikipedia.org/wiki/Category:1995年設立の企業 "wikilink") [Category:日本のFMラジオ局](https://ja.wikipedia.org/wiki/Category:日本のFMラジオ局 "wikilink") [Category:関東地方のラジオ局](https://ja.wikipedia.org/wiki/Category:関東地方のラジオ局 "wikilink") [Category:東京都のマスメディア](https://ja.wikipedia.org/wiki/Category:東京都のマスメディア "wikilink") [Category:テレビ東京の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の歴史 "wikilink")
 
-1.
-2.  [『連結子会社の株式の追加取得および第三者割当増資引受に関するお知らせ』](http://eir.eol.co.jp/EIR/View.aspx?cat=tdnet&sid=720337) - [株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink") [2009年](../Page/2009年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")
-3.  [『連結子会社の株式の追加取得および第三者割当増資引受の完了に関するお知らせ』](http://eir.eol.co.jp/EIR/View.aspx?cat=tdnet&sid=727811) - 株式会社テレビ東京 2009年[7月30日](../Page/7月30日.md "wikilink")
-4.  [連結子会社（孫会社）の株式の譲渡および特別利益の発生に関するお知らせ](http://v4.eir-parts.net/v4Contents/View.aspx?cat=tdnet&sid=981540) - 株式会社テレビ東京ホールディングス [2012年](../Page/2012年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")
-5.  [エフエムインターウェーブ株式会社の株式譲受に関する契約締結のお知らせ](http://www.kinoshita-group.co.jp/news_all/2012/05/30_122815.html) - 株式会社キノシタ・マネージメント 2012年5月30日
-6.  [総務省｜名古屋地区における外国語超短波放送局の予備免許](http://www.soumu.go.jp/soutsu/tokai/kohosiryo/25/1025-2.html)より。
-7.  InterFM NAGOYA（現在のRadio NEO）でも使用されていた。
-8.  [押阪忍](../Page/押阪忍.md "wikilink")が会長を務める芸能事務所。所属DJのマーヴィン・デンジャーフィールドなどが番組DJを務め、同局と結びつきが強い。
-9.
-10. [【InterFM】「インターFM 執行役員にピーター・バラカンが就任」](http://www.interfm.co.jp/announcements/)
-11.
-12. [ピーター・バラカン公式Facebook 2014年7月6日付](https://www.facebook.com/permalink.php?story_fbid=653075358109178&id=120983034651749)
-13.
+1.  [全国FM放送協議会(JFN)加盟者一覧](http://www.japanfmnetwork.com/map.html)
+2.
+3.  [『連結子会社の株式の追加取得および第三者割当増資引受に関するお知らせ』](http://eir.eol.co.jp/EIR/View.aspx?cat=tdnet&sid=720337) - [株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink") [2009年](../Page/2009年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")
+4.  [『連結子会社の株式の追加取得および第三者割当増資引受の完了に関するお知らせ』](http://eir.eol.co.jp/EIR/View.aspx?cat=tdnet&sid=727811) - 株式会社テレビ東京 2009年[7月30日](../Page/7月30日.md "wikilink")
+5.  [連結子会社（孫会社）の株式の譲渡および特別利益の発生に関するお知らせ](http://v4.eir-parts.net/v4Contents/View.aspx?cat=tdnet&sid=981540) - 株式会社テレビ東京ホールディングス [2012年](../Page/2012年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")
+6.  [エフエムインターウェーブ株式会社の株式譲受に関する契約締結のお知らせ](http://www.kinoshita-group.co.jp/news_all/2012/05/30_122815.html) - 株式会社キノシタ・マネージメント 2012年5月30日
+7.  [総務省｜名古屋地区における外国語超短波放送局の予備免許](https://www.soumu.go.jp/soutsu/tokai/kohosiryo/25/1025-2.html)より。
+8.  InterFM NAGOYA（現在のRadio NEO）でも使用されていた。
+9.  [押阪忍](../Page/押阪忍.md "wikilink")が会長を務める芸能事務所。所属DJのマーヴィン・デンジャーフィールドなどが番組DJを務め、同局と結びつきが強い。
+10.
+11. [【InterFM】「インターFM 執行役員にピーター・バラカンが就任」](http://www.interfm.co.jp/announcements/)
+12.
+13. [ピーター・バラカン公式Facebook 2014年7月6日付](https://www.facebook.com/permalink.php?story_fbid=653075358109178&id=120983034651749)
 14.
 15.
-16. 1chに[NHK放送センター](../Page/NHK放送センター.md "wikilink")[総合テレビが割り当てられていた](../Page/NHK総合テレビジョン.md "wikilink")。
-17. [InterFM、6月下旬から89.7MHzに変更。アンテナを高くして受信改善へ](http://av.watch.impress.co.jp/docs/news/20150625_708884.html) AV Watch 2015年[6月25日](../Page/6月25日.md "wikilink")
-18.
-19. 外国では主に88MHzから108MHz。85MHz以下を放送に割り当てているのは世界でも日本のみで、逆に91MHz以上はアナログテレビ放送の音声周波数として使用されていた
-20.
+16.
+17. 1chに[NHK放送センター](../Page/NHK放送センター.md "wikilink")[総合テレビが割り当てられていた](../Page/NHK総合テレビジョン.md "wikilink")。
+18. [InterFM、6月下旬から89.7MHzに変更。アンテナを高くして受信改善へ](http://av.watch.impress.co.jp/docs/news/20150625_708884.html) AV Watch 2015年[6月25日](../Page/6月25日.md "wikilink")
+19.
+20. 外国では主に88MHzから108MHz。85MHz以下を放送に割り当てているのは世界でも日本のみで、逆に91MHz以上はアナログテレビ放送の音声周波数として使用されていた
 21.
 22.
 23.
 24.
-25. [InterFM、名古屋に放送局開局へ](http://hochi.yomiuri.co.jp/entertainment/news/20121030-OHT1T00229.htm) [スポーツ報知](../Page/スポーツ報知.md "wikilink")より。
-26. [総務省｜地上基幹放送局の免許の有効期間満了に伴う再免許申請及び新たな免許申請の受付結果](http://www.soumu.go.jp/menu_news/s-news/01ryutsu09_02000070.html)より。
-27. [総務省｜名古屋地区における外国語超短波放送局の予備免許](http://www.soumu.go.jp/soutsu/tokai/kohosiryo/25/1025-2.html)
-28. [2014年4月 InterFM NAGOYA開局\!\!](http://www.interfm.co.jp/news/detail.php?id=445) - InterFM公式サイトのNews（Category:Topics）より。
-29. [名古屋地区における外国語超短波放送の予備免許取得に関するお知らせ](http://www.kinoshita-group.co.jp/news_all/2013/10/25_093928.html) - [2013年](../Page/2013年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")付[木下グループ](https://ja.wikipedia.org/wiki/木下グループ "wikilink")ウェブページのニュースリリース当時のステーション名は**InterFM（NAGOYA）**。
-30. 名古屋市昭和区には[中京テレビが設置した送信用鉄塔](../Page/中京テレビ放送.md "wikilink")「[東山タワー](../Page/東山タワー.md "wikilink")」がある。
-31. [基幹放送普及計画](https://ja.wikipedia.org/wiki/基幹放送普及計画 "wikilink")に定められた[中京広域圏とは異なる](../Page/広域放送.md "wikilink")、出典のニュースリリース独自の表現である。
-32.
+25.
+26. [InterFM、名古屋に放送局開局へ](http://hochi.yomiuri.co.jp/entertainment/news/20121030-OHT1T00229.htm) [スポーツ報知](../Page/スポーツ報知.md "wikilink")より。
+27. [総務省｜地上基幹放送局の免許の有効期間満了に伴う再免許申請及び新たな免許申請の受付結果](http://www.soumu.go.jp/menu_news/s-news/01ryutsu09_02000070.html)より。
+28. [総務省｜名古屋地区における外国語超短波放送局の予備免許](http://www.soumu.go.jp/soutsu/tokai/kohosiryo/25/1025-2.html)
+29. [2014年4月 InterFM NAGOYA開局\!\!](http://www.interfm.co.jp/news/detail.php?id=445) - InterFM公式サイトのNews（Category:Topics）より。
+30. [名古屋地区における外国語超短波放送の予備免許取得に関するお知らせ](http://www.kinoshita-group.co.jp/news_all/2013/10/25_093928.html) - [2013年](../Page/2013年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")付[木下グループ](https://ja.wikipedia.org/wiki/木下グループ "wikilink")ウェブページのニュースリリース当時のステーション名は**InterFM（NAGOYA）**。
+31. 名古屋市昭和区には[中京テレビが設置した送信用鉄塔](../Page/中京テレビ放送.md "wikilink")「[東山タワー](../Page/東山タワー.md "wikilink")」がある。
+32. [基幹放送普及計画](https://ja.wikipedia.org/wiki/基幹放送普及計画 "wikilink")に定められた[中京広域圏とは異なる](../Page/広域放送.md "wikilink")、出典のニュースリリース独自の表現である。
 33.
-34. [株式会社Radio NEO放送事業開始のお知らせ](http://radio-neo.com/news/101)
-35. [Radio NEO閉局のお知らせ](https://radio-neo.com/news/300)
-36.
+34.
+35. [株式会社Radio NEO放送事業開始のお知らせ](http://radio-neo.com/news/101)
+36. [Radio NEO閉局のお知らせ](https://radio-neo.com/news/300)
 37.
 38.
 39.
 40.
-41. [inter FM NAGOYAが試験電波を発射](http://www.interfm.co.jp/news/detail.php?id=465)より。
+41.
 42.
-43.
-44. [特番公式サイト](http://www.interfm.co.jp/24hour/)
-45. [株式会社Inter FMの受信環境改善のための周波数変更](http://www.soumu.go.jp/soutsu/kanto/press/27/0624ho.html) - [総務省](../Page/総務省.md "wikilink")[関東総合通信局](../Page/関東総合通信局.md "wikilink") [2015年](../Page/2015年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")
-46. [InterFM、周波数「76.1」から「89.7」に](http://www.asahi.com/articles/ASH6S6797H6SULFA031.html) - 朝日新聞 2015年6月24日
-47. [2015年6月26日より周波数89.7MHzの試験電波発射いたします。](http://www.interfm.co.jp/news/detail.php?id=1055)
-48. ["InterFM897"開局](http://www.interfm.co.jp/news/detail.php?id=1054)
-49.
-50.
-51. [「RADIO NEO」10月誕生\!](http://www.interfm.co.jp/news/detail.php?id=1056)
+43. [inter FM NAGOYAが試験電波を発射](http://www.interfm.co.jp/news/detail.php?id=465)より。
+44.
+45.
+46. [特番公式サイト](http://www.interfm.co.jp/24hour/)
+47. [株式会社Inter FMの受信環境改善のための周波数変更](http://www.soumu.go.jp/soutsu/kanto/press/27/0624ho.html) - [総務省](../Page/総務省.md "wikilink")[関東総合通信局](../Page/関東総合通信局.md "wikilink") [2015年](../Page/2015年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")
+48. [InterFM、周波数「76.1」から「89.7」に](http://www.asahi.com/articles/ASH6S6797H6SULFA031.html) - 朝日新聞 2015年6月24日
+49. [2015年6月26日より周波数89.7MHzの試験電波発射いたします。](http://www.interfm.co.jp/news/detail.php?id=1055)
+50. ["InterFM897"開局](http://www.interfm.co.jp/news/detail.php?id=1054)
+51.
 52.
-53.
+53. [「RADIO NEO」10月誕生\!](http://www.interfm.co.jp/news/detail.php?id=1056)
 54.
-55. 2015年10月31日までは76.1MHzであった。
-56. [総務省 電波利用ホームページ 無線局免許状等情報](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0000036896&DD=1&styleNumber=01)
-57. 2015年10月31日までは11.5kWであった。
+55.
+56.
+57.
+58. 2015年10月31日までは76.1MHzであった。
+59. [総務省 電波利用ホームページ 無線局免許状等情報](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0000036896&DD=1&styleNumber=01)
+60. 2015年10月31日までは11.5kWであった。

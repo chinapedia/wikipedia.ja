@@ -10,19 +10,19 @@
 
 ### 法人
 
-[常滑の](../Page/常滑市.md "wikilink")[陶工](https://ja.wikipedia.org/wiki/陶工 "wikilink")であった伊奈初之丞が、[1887年](../Page/1887年.md "wikilink")（[明治](../Page/明治.md "wikilink")20年）頃から陶管の製造を開始する。[1921年](../Page/1921年.md "wikilink")（[大正](../Page/大正.md "wikilink")10年）、[大倉和親](https://ja.wikipedia.org/wiki/大倉和親 "wikilink")（[大倉陶園](../Page/大倉陶園.md "wikilink")創業者）の支援により**[匿名組合](../Page/匿名組合.md "wikilink")伊奈製陶所**を創業し、陶管（[土管](../Page/土管.md "wikilink")）や[タイル](../Page/タイル.md "wikilink")等の建設用陶器を製造をする。[1924年](../Page/1924年.md "wikilink")（大正13年）2月、法人化され[森村グループ](../Page/森村グループ.md "wikilink")のタイルメーカーとして**伊奈製陶株式会社**が設立される。[1945年](../Page/1945年.md "wikilink")、衛生陶器の製造を開始して同じ森村グループの東洋陶器株式会社（後の[TOTO株式会社](../Page/TOTO_\(企業\).md "wikilink")）とライバル関係になる。会社設立時、初之丞長男の[伊奈長三郎](https://ja.wikipedia.org/wiki/伊奈長三郎 "wikilink")が[常務](https://ja.wikipedia.org/wiki/常務 "wikilink")に就任して以後も伊奈家が経営に関わってきた。
+[常滑焼](../Page/常滑焼.md "wikilink")の産地である[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[知多郡](../Page/知多郡.md "wikilink")[常滑町において](../Page/常滑市.md "wikilink")、1887年（[明治](../Page/明治.md "wikilink")20年）頃から[陶工](https://ja.wikipedia.org/wiki/陶工 "wikilink")の[伊奈初之丞](../Page/伊奈初之丞.md "wikilink")が陶管の製造を開始した。1921年（[大正](../Page/大正.md "wikilink")10年）、伊奈初之丞は[大倉陶園](../Page/大倉陶園.md "wikilink")創業者である[大倉和親](https://ja.wikipedia.org/wiki/大倉和親 "wikilink")の支援を受けて**[匿名組合](../Page/匿名組合.md "wikilink")伊奈製陶所**を創業し、陶管（[土管](../Page/土管.md "wikilink")）や[タイル](../Page/タイル.md "wikilink")等の建設用陶器を製造した。1924年（大正13年）2月には伊奈初之丞の長男である[伊奈長三郎](https://ja.wikipedia.org/wiki/伊奈長三郎 "wikilink")が法人化を行い、[森村グループ](../Page/森村グループ.md "wikilink")のタイルメーカーとして**伊奈製陶株式会社**が設立された。伊奈長三郎は[常務](https://ja.wikipedia.org/wiki/常務 "wikilink")に就任し、以後も伊奈家が経営に関わってきた。1945年（昭和20年）には衛生陶器の製造を開始して、同じ森村グループの東洋陶器株式会社（後の[TOTO株式会社](../Page/TOTO_\(企業\).md "wikilink")）とライバル関係になった。
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（[昭和](../Page/昭和.md "wikilink")60年）[4月21日](../Page/4月21日.md "wikilink")、伊奈製陶株式会社は[コーポレートアイデンティティ](../Page/コーポレートアイデンティティ.md "wikilink")（CI）を実施して**株式会社イナックス**に商号変更する。英字社名の**INAX**の社名はそれまでの**ina**に未知数などを示す**X**をつけたものである。同時に企業理念「INAX5」を制定し[ロゴマーク](https://ja.wikipedia.org/wiki/ロゴマーク "wikilink")も一新する。（当時は[10月20日](../Page/10月20日.md "wikilink")が決算期日だった）ロゴは[2004年](../Page/2004年.md "wikilink")（[平成](../Page/平成.md "wikilink")16年）に小変更されている（社名左側の図形部分が横長から縦横同じ幅になった）。
+1985年（[昭和](../Page/昭和.md "wikilink")60年）4月21日、伊奈製陶株式会社は[コーポレートアイデンティティ](../Page/コーポレートアイデンティティ.md "wikilink")（CI）を実施して**株式会社イナックス**に商号変更した。英字社名の**INAX**の社名は、それまでの「ina」に未知数などを示す「X」をつけたものである。同時に企業理念「INAX5」を制定し、[ロゴマーク](https://ja.wikipedia.org/wiki/ロゴマーク "wikilink")も一新した。2004年（[平成](../Page/平成.md "wikilink")16年）にはロゴマークが微修正され、社名左側の図形部分が横長から縦横同幅になった。
 
-[2001年](../Page/2001年.md "wikilink")（[平成](../Page/平成.md "wikilink")13年）、[アルミ](https://ja.wikipedia.org/wiki/アルミ "wikilink")[サッシ](../Page/サッシ.md "wikilink")などを手掛ける建材メーカー大手の[トステム](../Page/トステム.md "wikilink")との経営統合により、純粋持株会社・株式会社INAXトステムホールディングス（[2004年](../Page/2004年.md "wikilink")に**株式会社[住生活グループ](../Page/LIXILグループ.md "wikilink")**に改称）傘下の事業会社になり、トステムとは住宅設備機器の企画や展開において協業関係になる。[2006年](../Page/2006年.md "wikilink")（平成18年）[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、トステムとの共同ショールームを[岐阜市](../Page/岐阜市.md "wikilink")にオープンする。
+2001年（[平成](../Page/平成.md "wikilink")13年）、[アルミ](https://ja.wikipedia.org/wiki/アルミ "wikilink")[サッシ](../Page/サッシ.md "wikilink")などを手掛ける建材メーカー大手の[トステム](../Page/トステム.md "wikilink")との経営統合により、純粋持株会社・株式会社INAXトステムホールディングス（2004年に**株式会社[住生活グループ](../Page/LIXILグループ.md "wikilink")**に改称）傘下の事業会社になり、トステムとは住宅設備機器の企画や展開において協業関係になった。2006年（平成18年）1月、トステムとの共同ショールームを[岐阜市](../Page/岐阜市.md "wikilink")にオープンさせた。
 
-[2011年](../Page/2011年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")、同じ住生活グループの[トステム](../Page/トステム.md "wikilink")、[新日軽](../Page/新日軽.md "wikilink")、[東洋エクステリア](https://ja.wikipedia.org/wiki/東洋エクステリア "wikilink")（TOEX）、LIXIL（統合後と同じ名称ながら、グループ内での営業戦略の立案を行っていた別法人）と合併、[サンウエーブ工業](../Page/サンウエーブ工業.md "wikilink")の開発・管理業務を統合して新会社「**株式会社[LIXIL](https://ja.wikipedia.org/wiki/LIXIL "wikilink")**」（リクシル）となり、INAXは同社における製品ブランド名の一つとなる。川本隆一社長は合併時にLIXILの[社内カンパニー](../Page/社内カンパニー.md "wikilink")「金属・建材カンパニー」社長に就任する。
+2011年（平成23年）4月1日、同じ住生活グループのトステム、[新日軽](../Page/新日軽.md "wikilink")、[東洋エクステリア](https://ja.wikipedia.org/wiki/東洋エクステリア "wikilink")（TOEX）、LIXIL（統合後と同じ名称ながら、グループ内での営業戦略の立案を行っていた別法人）と合併、[サンウエーブ工業](../Page/サンウエーブ工業.md "wikilink")の開発・管理業務を統合して新会社**株式会社[LIXIL](https://ja.wikipedia.org/wiki/LIXIL "wikilink")**（リクシル）となり、INAXは同社における製品ブランド名の一つとなった。川本隆一社長は合併時にLIXILの[社内カンパニー](../Page/社内カンパニー.md "wikilink")「金属・建材カンパニー」社長に就任している。
 
 ### 商品
 
-トイレ、洗面器などの衛生陶器では、TOTOと同社で日本国内シェアの9割程度を押さえる。ただし、シェア比率においてはTOTOに大きく水を空けられているのが現状である。一方、[タイル](../Page/タイル.md "wikilink")については世界最大のメーカーであり、内装用建材「エコカラット」などの独自商品も発売している。衛生陶器全製品を「ハイパーキラミック」と称する抗菌仕様に変更した。なお、抗菌については[2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）に[ISO](https://ja.wikipedia.org/wiki/ISO "wikilink")規格となり、INAXでも商品展開で強調している。さらに防汚性能を上げるために、「プロガード」と呼ばれるコーティングも導入され、住宅用[便器](../Page/便器.md "wikilink")や洗面器を中心に採用を広げている。プロガードは、他社製の物を含め既存便器（他社防汚技術商品を除く）・洗面器などにも加工が可能である。
+トイレや洗面器などの衛生陶器では、TOTOと同社で日本国内シェアの9割程度を押さえる。便器のシェアはTOTOが約60%でINAXが約30%、温水便座のシェアはTOTOが約55%でINAXが約25%である。[タイル](../Page/タイル.md "wikilink")については世界最大のメーカーであり、内装用建材「エコカラット」などの独自商品も発売している。衛生陶器全製品を「ハイパーキラミック」と称する抗菌仕様に変更した。なお、抗菌については2007年（[平成](../Page/平成.md "wikilink")19年）に[ISO](https://ja.wikipedia.org/wiki/ISO "wikilink")規格となり、INAXでも商品展開で強調している。さらに防汚性能を上げるために、「プロガード」と呼ばれるコーティングも導入され、住宅用[便器](../Page/便器.md "wikilink")や洗面器を中心に採用を広げている。プロガードは、他社製の物を含め既存便器（他社防汚技術商品を除く）・洗面器などにも加工が可能である。
 
-[2006年](../Page/2006年.md "wikilink")（[平成](../Page/平成.md "wikilink")18年）[4月1日](../Page/4月1日.md "wikilink")には、住宅用洋風便器に大洗浄6リットルの「ECO6トイレ」を発売\[1\]。大洗浄8リットルタイプが主力としていたライバルのTOTOに一歩先行していたが、TOTOも2006年（平成18年）8月に「ネオレスト」をモデルチェンジし、6リットル洗浄を実現した。その後、2009年（平成21年）4月1日にINAXが「サティス」で大洗浄5リットル・小洗浄4リットルの「ECO5」を発売すると、TOTOは2010年（平成22年）4月に大洗浄4.8リットルの「GREEN MAX 4.8」シリーズを発売。対するINAXは2011年（平成23年）4月に大洗浄4リットル・小洗浄3.3リットルの「ECO4」を「サティス」で実現したが、TOTOのGREENMAX3.8が登場し、結果的に競争に負けてしまった。
+2006年（[平成](../Page/平成.md "wikilink")18年）4月1日には、住宅用洋風便器に大洗浄6リットルの「ECO6トイレ」を発売\[1\]。大洗浄8リットルタイプが主力としていたライバルのTOTOに一歩先行していたが、TOTOも2006年（平成18年）8月に「ネオレスト」をモデルチェンジし、6リットル洗浄を実現した。その後、2009年（平成21年）4月1日にINAXが「サティス」で大洗浄5リットル・小洗浄4リットルの「ECO5」を発売すると、TOTOは2010年（平成22年）4月に大洗浄4.8リットルの「GREEN MAX 4.8」シリーズを発売。対するINAXは2011年（平成23年）4月に大洗浄4リットル・小洗浄3.3リットルの「ECO4」を「サティス」で実現したが、TOTOはGREENMAX3.8を登場させている。
 
 ## 沿革
 
@@ -43,7 +43,7 @@
   - [1976年](../Page/1976年.md "wikilink") - シャワートイレシートタイプを発売開始。
   - [1977年](../Page/1977年.md "wikilink") - 簡易水洗便器「トイレーナ」発売開始。
   - [1984年](../Page/1984年.md "wikilink") - システムトイレを発売。
-  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[4月21日](../Page/4月21日.md "wikilink") - **株式会社イナックス**に商号変更。
+  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")4月21日 - **株式会社イナックス**に商号変更。
   - [1986年](../Page/1986年.md "wikilink") - 六本木・アークヒルズ内に「XSITE」をオープン。
   - [1988年](../Page/1988年.md "wikilink") - 常滑トイレパークを開園。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - 世界初の自己発電型自動水栓「オートマージュ」を発売。
@@ -52,16 +52,16 @@
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - 住宅用内装タイル「エコカラット」を発売。
   - [1999年](../Page/1999年.md "wikilink") - 防汚技術「プロガード」加工商品を発売開始。
   - [2001年](../Page/2001年.md "wikilink") - タンクレストイレ「サティス」を発売、グッドデザイン金賞など受賞多数。トステムとの経営統合による持ち株会社・INAXトステムホールディングスを設立し、同社傘下に。
-  - [2002年](../Page/2002年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink") - 商号を**株式会社INAX**に更正。（ローマ字商号の解禁に伴い）
+  - [2002年](../Page/2002年.md "wikilink")11月1日 - 商号を**株式会社INAX**に更正。（ローマ字商号の解禁に伴い）
   - [2004年](../Page/2004年.md "wikilink") - 創立80周年。「サティス」をモデルチェンジ、「サティスアステオ」を追加、「SUITEWALL」を発売。INAXトステムホールディングスは住生活グループに商号変更。ロゴマークを小変更（横幅が短くなった）。
   - [2006年](../Page/2006年.md "wikilink") - 住宅用便器に「超節水ECO6（エコシックス）トイレ」を発売。
   - [2009年](../Page/2009年.md "wikilink") - アメリカンスタンダードの[アジア](../Page/アジア.md "wikilink")部門を買収。
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月1日](../Page/10月1日.md "wikilink") - 株式会社INAXCOMを合併。
-  - [2011年](../Page/2011年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink") - 株式会社ジャクソンエス・ピー・アイを合併。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")10月1日 - 株式会社INAXCOMを合併。
+  - [2011年](../Page/2011年.md "wikilink")3月1日 - 株式会社ジャクソンエス・ピー・アイを合併。
 
 ### LIXIL時代
 
-  - [2011年](../Page/2011年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - [住生活グループ内の再編により](../Page/LIXILグループ.md "wikilink")、株式会社INAXは[トステム](../Page/トステム.md "wikilink")に吸収合併され、解散。[トステム](../Page/トステム.md "wikilink")が、（2代目）**株式会社[LIXIL](https://ja.wikipedia.org/wiki/LIXIL "wikilink")**に商号変更。常滑市のINAX本社は「LIXIL常滑本社」（LIXILのメインの本社・本店は東京）となる。
+  - [2011年](../Page/2011年.md "wikilink")4月1日 - [住生活グループ内の再編により](../Page/LIXILグループ.md "wikilink")、株式会社INAXは[トステム](../Page/トステム.md "wikilink")に吸収合併され、解散。[トステム](../Page/トステム.md "wikilink")が、（2代目）**株式会社[LIXIL](https://ja.wikipedia.org/wiki/LIXIL "wikilink")**に商号変更。常滑市のINAX本社は「LIXIL常滑本社」（LIXILのメインの本社・本店は東京）となる。
 
 ## 主な商品
 
@@ -71,7 +71,7 @@
   - インテリアタイル・外壁
   - 各種水栓
 
-※ システムキッチンについては[2011年](../Page/2011年.md "wikilink")3月末をもって取り扱いを終了し、[サンウエーブブランドに移行となった](../Page/サンウエーブ工業.md "wikilink")。「レノ」については同年4月以降もサンウエーブブランドの製品として引き続き取り扱う（なお、トステムブランドにおいてもシステムキッチンの取り扱いを終了しており、システムキッチンに関してはサンウエーブブランドに集約された）。
+※ システムキッチンについては2011年3月末をもって取り扱いを終了し、[サンウエーブブランドに移行となった](../Page/サンウエーブ工業.md "wikilink")。「レノ」については同年4月以降もサンウエーブブランドの製品として引き続き取り扱う（なお、トステムブランドにおいてもシステムキッチンの取り扱いを終了しており、システムキッチンに関してはサンウエーブブランドに集約された）。
 
 ## 事業所
 
@@ -123,7 +123,7 @@
   - [祖父江工業](https://ja.wikipedia.org/wiki/祖父江工業 "wikilink")（愛知県[名古屋市](../Page/名古屋市.md "wikilink")[中川区](../Page/中川区.md "wikilink")） - 住宅設備機器販売
   - テムズ（東京都[台東区](../Page/台東区.md "wikilink")） - 建材・住宅設備機器販売
   - ダイナワン（DINAONE、東京都中央区） - 商業施設向けタイル・石材の輸入・販売、タイル販売特約店2社との共同出資。海外の個性的なタイルを多数仕入れている
-  - INAXCOM - 建材販売・[モザイクタイル](https://ja.wikipedia.org/wiki/モザイクタイル "wikilink")中心
+  - INAXCOM - 建材販売・[モザイクタイル](../Page/モザイクタイル.md "wikilink")中心
   - ジャクソン エス.ピー.アイ（[JAXSON](https://ja.wikipedia.org/wiki/JAXSON "wikilink")、東京都港区） - 高級浴槽及び浴槽回り品を製造・販売・輸出入
 
 経営統合以前は、INAX出版が書籍出版事業として存在していた（下記に[後述](https://ja.wikipedia.org/wiki/INAX#その他 "wikilink")）。
@@ -165,7 +165,7 @@
 
 ## 外部リンク
 
-  - [INAX公式サイト｜LIXILのトイレ・浴室・洗面化粧台・タイル・外壁の製品ブランド](https://inax.lixil.co.jp/)
+  - [INAXのトイレ・洗面化粧台・水栓金具・タイル建材](https://inax.lixil.co.jp/)
 
   -
 [Category:日本のブランド](https://ja.wikipedia.org/wiki/Category:日本のブランド "wikilink") [Category:LIXILグループ](https://ja.wikipedia.org/wiki/Category:LIXILグループ "wikilink") [Category:日本のガラス・土石製品産業](https://ja.wikipedia.org/wiki/Category:日本のガラス・土石製品産業 "wikilink") [Category:住宅関連企業](https://ja.wikipedia.org/wiki/Category:住宅関連企業 "wikilink") [Category:常滑市の企業](https://ja.wikipedia.org/wiki/Category:常滑市の企業 "wikilink") [Category:日本の多国籍企業](https://ja.wikipedia.org/wiki/Category:日本の多国籍企業 "wikilink") [Category:森村グループ](https://ja.wikipedia.org/wiki/Category:森村グループ "wikilink") [Category:かつて存在した愛知県の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した愛知県の企業 "wikilink") [Category:1924年設立の企業](https://ja.wikipedia.org/wiki/Category:1924年設立の企業 "wikilink")

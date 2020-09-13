@@ -12,7 +12,7 @@
 ## その他の事項
 
   - 日本では、[奥村晴彦](../Page/奥村晴彦.md "wikilink")の著書「美文書作成入門」シリーズ（改訂第4版まで）において、紹介されたことで、ある程度知られるようになった。
-  - ver 3.0 の段階で、表示言語を[英語](../Page/英語.md "wikilink")、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")、[ドイツ語](../Page/ドイツ語.md "wikilink")、[イタリア語](../Page/イタリア語.md "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")、カタルーニャ語、[チェコ語](../Page/チェコ語.md "wikilink")、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")、[ハンガリー語](../Page/ハンガリー語.md "wikilink")、[ポーランド語](../Page/ポーランド語.md "wikilink")、[スウェーデン語](../Page/スウェーデン語.md "wikilink")、[日本語](../Page/日本語.md "wikilink")の12言語に切り替えられる、[多言語](../Page/多言語.md "wikilink")対応ソフトである。また、ユーザ自身で設定ファイルを編集し、他の言語による表示を行うことも可能である。
+  - ver 3.0 の段階で、表示言語を[英語](../Page/英語.md "wikilink")、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")、[ドイツ語](../Page/ドイツ語.md "wikilink")、[イタリア語](../Page/イタリア語.md "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")、カタルーニャ語、[チェコ語](../Page/チェコ語.md "wikilink")、[中国語](../Page/中国語.md "wikilink")、[ハンガリー語](../Page/ハンガリー語.md "wikilink")、[ポーランド語](../Page/ポーランド語.md "wikilink")、[スウェーデン語](../Page/スウェーデン語.md "wikilink")、[日本語](../Page/日本語.md "wikilink")の12言語に切り替えられる、[多言語](../Page/多言語.md "wikilink")対応ソフトである。また、ユーザ自身で設定ファイルを編集し、他の言語による表示を行うことも可能である。
 
 ## 関連項目
 

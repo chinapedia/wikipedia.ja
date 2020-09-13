@@ -5,7 +5,7 @@
 
 ## SF
 
-## 一般名称
+### 一般名称
 
   - [サイエンス・フィクション](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")（science fiction, Sci-Fi） - 科学小説、もしくはその近傍のジャンル。
       - [スペキュレイティブ・フィクション](https://ja.wikipedia.org/wiki/スペキュレイティブ・フィクション "wikilink")（speculative fiction） - 「科学」に限定されないSFの再定義。
@@ -41,7 +41,7 @@
   - [SourceForge](../Page/SourceForge.net.md "wikilink") - ソフトウェア共同開発プラットフォーム。
   - [SFメトロカード](https://ja.wikipedia.org/wiki/メトロカード_\(東京\)#SFメトロカード "wikilink") - ストアードフェアシステムを使用した[営団地下鉄](../Page/帝都高速度交通営団.md "wikilink")・[東京メトロの磁気式乗車カード](https://ja.wikipedia.org/wiki/東京地下鉄 "wikilink")。
   - [スーパーファミコン](../Page/スーパーファミコン.md "wikilink")（Super Famicom） - [任天堂](../Page/任天堂.md "wikilink")の[ゲーム機](../Page/ゲーム機.md "wikilink")
-      - 　[SFメモリカセット](https://ja.wikipedia.org/wiki/ニンテンドウパワー#SFメモリカセットとGBメモリカートリッジ "wikilink") - 任天堂のゲーム書き換えサービス「[ニンテンドウパワー](../Page/ニンテンドウパワー.md "wikilink")」のスーパーファミコン用ゲームカセット。
+      - [SFメモリカセット](https://ja.wikipedia.org/wiki/ニンテンドウパワー#SFメモリカセットとGBメモリカートリッジ "wikilink") - 任天堂のゲーム書き換えサービス「[ニンテンドウパワー](../Page/ニンテンドウパワー.md "wikilink")」のスーパーファミコン用ゲームカセット。
 
 ### 作品など
 

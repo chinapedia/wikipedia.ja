@@ -28,7 +28,7 @@
   - *Cosmic Engineers* (1950) 大宇宙の守護者（別題：スペース・ウォーズ - 宇宙十字軍）
   - *Time and Again* （別題：*First He Died*） (1951) 再生の時（別題：アンドロイドの反乱）
   - *City* (1952) 都市
-  - *Way Station* (1963) 中継ステーション
+  - *Way Station* (1963) [中継ステーション](../Page/中継ステーション.md "wikilink")
       - 2019年9月、[Netflix](../Page/Netflix.md "wikilink")が本作に基づいた映画の製作を発表した\[7\]。
   - *Why Call them Back from Heaven?* (1967) なぜ天国から呼び戻すのか?
   - *The Werewolf Principle* (1967) 人狼原理

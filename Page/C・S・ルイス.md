@@ -86,7 +86,7 @@
 
 ## 外部リンク
 
-  - [緑の部屋 - C.S.ルイス著作リスト](http://www13.ocn.ne.jp/~m-room/lewis-works.html)
+  -
   - [C.S.Lewis Society of California](http://www.lewissociety.org/)
 
 [Category:C・S・ルイス](https://ja.wikipedia.org/wiki/Category:C・S・ルイス "wikilink") [Category:19世紀北アイルランドの著作家](https://ja.wikipedia.org/wiki/Category:19世紀北アイルランドの著作家 "wikilink") [Category:20世紀北アイルランドの著作家](https://ja.wikipedia.org/wiki/Category:20世紀北アイルランドの著作家 "wikilink") [Category:19世紀イギリスの小説家](https://ja.wikipedia.org/wiki/Category:19世紀イギリスの小説家 "wikilink") [Category:19世紀北アイルランドの小説家](https://ja.wikipedia.org/wiki/Category:19世紀北アイルランドの小説家 "wikilink") [Category:20世紀北アイルランドの小説家](https://ja.wikipedia.org/wiki/Category:20世紀北アイルランドの小説家 "wikilink") [Category:イギリスのファンタジー作家](https://ja.wikipedia.org/wiki/Category:イギリスのファンタジー作家 "wikilink") [Category:イギリスのSF作家](https://ja.wikipedia.org/wiki/Category:イギリスのSF作家 "wikilink") [Category:イギリスの神学者](https://ja.wikipedia.org/wiki/Category:イギリスの神学者 "wikilink") [Category:聖公会の神学者](https://ja.wikipedia.org/wiki/Category:聖公会の神学者 "wikilink") [Category:信徒伝道者](https://ja.wikipedia.org/wiki/Category:信徒伝道者 "wikilink") [Category:キリスト教弁証家](https://ja.wikipedia.org/wiki/Category:キリスト教弁証家 "wikilink") [Category:ベルファスト出身の人物](https://ja.wikipedia.org/wiki/Category:ベルファスト出身の人物 "wikilink") [Category:1898年生](https://ja.wikipedia.org/wiki/Category:1898年生 "wikilink") [Category:1963年没](https://ja.wikipedia.org/wiki/Category:1963年没 "wikilink")

@@ -35,7 +35,7 @@ URIスキームは[IANAによって登録されたものが公式なものとさ
   - RFC 2396 - Uniform Resource Identifiers (URI): Generic Syntax (旧)
       - [TS X 0097:2004](http://www.y-adagio.com/public/standards/tr_uri_2396/rfc2396-toc.htm) - 統一資源識別子(URI) 共通構文 標準仕様書(TS)
   - RFC 3986 - Uniform Resource Identifier (URI): Generic Syntax
-  - RFC 7320 - URI Design and Ownership
+  - RFC 8820 - URI Design and Ownership
   - [URL Standard](https://url.spec.whatwg.org/)
       - [URL Standard 日本語訳](https://triple-underscore.github.io/URL-ja.html)
       - [URL W3C Working Group Note](https://www.w3.org/TR/url/)

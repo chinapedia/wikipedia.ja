@@ -9,7 +9,7 @@
 
 チーム席は赤色、青色にそれぞれ分かれ、出場チームは主に当時放送されていたドラマ、バラエティ番組、報道・情報系番組が中心だった（例：『[やじうまワイド](../Page/やじうまワイド.md "wikilink")』対『[CNNヘッドライン](https://ja.wikipedia.org/wiki/CNNヘッドライン "wikilink")』など）。
 
-番組冒頭に[当時のテレビ朝日キャンペーンキャッチコピー](https://ja.wikipedia.org/wiki/#当時のテレビ朝日キャンペーンキャッチコピー "wikilink")「ITSUMO（いつも。）」（末期には「On.TV Asahi」）のCM映像が流れた後にオープニングに入り、[パンダ](../Page/パンダ.md "wikilink")のキャラクターが登場して[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")と[日本語](../Page/日本語.md "wikilink")を混ぜたようなナレーションを経て、司会の[保坂正紀](../Page/保坂正紀.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")（当時）と[鈴木淑子](https://ja.wikipedia.org/wiki/鈴木淑子 "wikilink")が登場して挨拶し、チーム紹介とルール説明などをしていた。
+番組冒頭に[当時のテレビ朝日キャンペーンキャッチコピー](https://ja.wikipedia.org/wiki/#当時のテレビ朝日キャンペーンキャッチコピー "wikilink")「ITSUMO（いつも。）」（末期には「On.TV Asahi」）のCM映像が流れた後にオープニングに入り、[パンダ](../Page/パンダ.md "wikilink")のキャラクターが登場して[中国語](../Page/中国語.md "wikilink")と[日本語](../Page/日本語.md "wikilink")を混ぜたようなナレーションを経て、司会の[保坂正紀](../Page/保坂正紀.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")（当時）と[鈴木淑子](https://ja.wikipedia.org/wiki/鈴木淑子 "wikilink")が登場して挨拶し、チーム紹介とルール説明などをしていた。
 
 番組は当初から1992年度の1年間の放送予定であったため、1993年度の番組改編とそれに伴う[キャンペーン変更ゆえ](https://ja.wikipedia.org/wiki/#当時のテレビ朝日キャンペーンキャッチコピー "wikilink")、[1993年](../Page/1993年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")をもって1年間の放送を終了した。同年4月2日より、同枠で情報番組『[気分はOn](https://ja.wikipedia.org/wiki/気分はOn "wikilink")』（司会：[生島ヒロシ](../Page/生島ヒロシ.md "wikilink")、[篠田潤子](../Page/篠田潤子.md "wikilink")）が開始され、1994年3月まで放送された。
 

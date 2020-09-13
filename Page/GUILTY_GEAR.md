@@ -27,14 +27,86 @@
 ## 登場キャラクター
 
   - [ソル＝バッドガイ](../Page/ソル・バッドガイ.md "wikilink")
+
+<!-- end list -->
+
+  -
+    元賞金稼ぎ。その腕を買われて聖騎士団に入るが、規律正しい団員生活に嫌気がさし、宝剣「封炎剣」を持ち出し逃走。カイとはライバル。
+
+<!-- end list -->
+
   - [カイ＝キスク](../Page/カイ・キスク.md "wikilink")
+
+<!-- end list -->
+
+  -
+    第1次聖騎士団後期のリーダー。その功績により、宝剣「封雷剣」を授かった。ソルとはライバル。今回の大会の趣旨に疑問を感じている。
+
+<!-- end list -->
+
   - [メイ](../Page/メイ_\(GUILTY_GEAR\).md "wikilink")
+
+<!-- end list -->
+
+  -
+    快賊のジョニーに拾われた孤児。彼の元で盗賊生活を送っていたところ、ある日ジョニーが逮捕される。彼を救うため、大会に参加。
+
+<!-- end list -->
+
   - [ミリア＝レイジ](../Page/ミリア・レイジ.md "wikilink")
+
+<!-- end list -->
+
+  -
+    組織を抜けた元暗殺者。逃亡生活に嫌気がさしていたところ、大会に組織のボスが参加することを知り、彼を倒して自由になるため出場。
+
+<!-- end list -->
+
   - [ザトー＝ONE](../Page/ザトー＝ONE.md "wikilink")
+
+<!-- end list -->
+
+  -
+    暗殺者組織のボス。ミリアの裏切りにより逮捕され、獄中生活を送っていたところ、謎の人物の誘いを受け、大会参加を決意する。
+
+<!-- end list -->
+
   - [ポチョムキン](../Page/ポチョムキン_\(GUILTY_GEAR\).md "wikilink")
+
+<!-- end list -->
+
+  -
+    武装国家「ツェップ」の心優しい奴隷兵士。ロシアの領土を強奪するという国家の命令により、自らの意に反して大会に参加した。
+
+<!-- end list -->
+
   - [チップ＝ザナフ](../Page/チップ・ザナフ.md "wikilink")
+
+<!-- end list -->
+
+  -
+    元マフィアのバイヤー。組織に始末されそうになったところを忍者に救われ、その元で修行を積む。組織に殺された忍者の敵討ちが目的。
+
+<!-- end list -->
+
   - [Dr.ボルドヘッド](../Page/Dr.ボルドヘッド.md "wikilink")
+
+<!-- end list -->
+
+  -
+    手術中、自分のミスで患者を死なせてしまったために気がふれ、殺人鬼と化した元天才医師。謎の人物の誘いを受け、大会に参加。
+
+<!-- end list -->
+
   - [アクセル＝ロウ](../Page/アクセル・ロウ.md "wikilink")
+
+<!-- end list -->
+
+  -
+    元は20世紀の、平和を愛するギャングのボス。突如タイムスリップしてしまった彼は、元の世界に戻る方法を探して大会に参加する。\[1\]
+
+<!-- end list -->
+
   - [クリフ＝アンダーソン](../Page/クリフ・アンダーソン.md "wikilink")
   - [テスタメント](../Page/テスタメント_\(GUILTY_GEAR\).md "wikilink")
   - [ジャスティス](../Page/ジャスティス_\(GUILTY_GEAR\).md "wikilink")
@@ -49,3 +121,5 @@
   - [GuiltyGearx.com（公式Webサイト）](http://www.guiltygearx.com/)
 
 [Category:GUILTY_GEAR](https://ja.wikipedia.org/wiki/Category:GUILTY_GEAR "wikilink") [Category:1998年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1998年のコンピュータゲーム "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink")
+
+1.

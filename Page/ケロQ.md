@@ -20,6 +20,7 @@
   - [2004年](../Page/2004年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink") - モエカす
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") - [素晴らしき日々 〜不連続存在〜](https://ja.wikipedia.org/wiki/素晴らしき日々_〜不連続存在〜 "wikilink")
   - [2018年](../Page/2018年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink") - [素晴らしき日々 〜不連続存在〜 フルボイスHD版](https://ja.wikipedia.org/wiki/素晴らしき日々_〜不連続存在〜 "wikilink")
+  - [2020年](../Page/2020年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink") - [素晴らしき日々～不連続存在～ 10th Anniversary特別仕様版](https://ja.wikipedia.org/wiki/素晴らしき日々_〜不連続存在〜 "wikilink")\[1\]
   - 凍結 - [陰と影 〜那月綺談〜](https://ja.wikipedia.org/wiki/陰と影_〜那月綺談〜 "wikilink")
 
 ### 枕
@@ -29,7 +30,8 @@
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月26日](../Page/9月26日.md "wikilink") - [しゅぷれ〜むキャンディ 〜王道には王道たる理由があるんです\!〜](https://ja.wikipedia.org/wiki/しゅぷれ〜むキャンディ_〜王道には王道たる理由があるんです!〜 "wikilink")
   - [2011年](../Page/2011年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink") - [いきなりあなたに恋している](https://ja.wikipedia.org/wiki/いきなりあなたに恋している "wikilink")
   - [2013年](../Page/2013年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink") - [向日葵の教会と長い夏休み](https://ja.wikipedia.org/wiki/向日葵の教会と長い夏休み "wikilink")
-  - [2015年](../Page/2015年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")\[1\] - [サクラノ詩 -櫻の森の上を舞う-](../Page/サクラノ詩.md "wikilink")
+  - [2015年](../Page/2015年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")\[2\] - [サクラノ詩 -櫻の森の上を舞う-](../Page/サクラノ詩.md "wikilink")
+  - 発売日未定 - [サクラノ刻 -櫻の森の下を歩む-](https://ja.wikipedia.org/wiki/サクラノ詩_-櫻の森の上を舞う- "wikilink")\[3\]
 
 ### プチケロQ
 
@@ -58,4 +60,6 @@
   -
 [Category:ケロQ](https://ja.wikipedia.org/wiki/Category:ケロQ "wikilink") [Category:日本のコンピュータゲームメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:日本のコンピュータゲームメーカー・ブランド "wikilink") [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink") [Category:1998年設立の企業](https://ja.wikipedia.org/wiki/Category:1998年設立の企業 "wikilink")
 
-1.  ※18禁
+1.
+2.  ※18禁
+3.

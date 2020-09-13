@@ -1,7 +1,7 @@
 > この記事は[Guilty \(ゲームブランド\)](https://ja.wikipedia.org/wiki/Guilty_\(ゲームブランド\))から翻訳されています。
 
 
-**Guilty**（ギルティ）は、株式会社[ウィルの](../Page/ウィルプラス.md "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランドである。
+**Guilty**（ギルティ）は、株式会社[ウィルプラス](../Page/ウィルプラス.md "wikilink")の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランドである。
 
 ## 特徴
 
@@ -150,10 +150,6 @@
 
 ## 脚注
 
-## 関連項目
-
-  - [ウィルプラス](../Page/ウィルプラス.md "wikilink")
-
 ## 外部リンク
 
   - [Guilty & Guilty+](http://www.guilty-soft.com)（<span style="color:red">18禁</span>：年齢確認あり）
@@ -162,4 +158,4 @@
 
 [Category:ウィルプラス](https://ja.wikipedia.org/wiki/Category:ウィルプラス "wikilink")
 
-1.  [Bi_List](http://web.archive.org/web/20080105104557/http://sowhat.magical.gr.jp/bilist/) - 美少女ゲームの20世紀（2008年1月5日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+1.  [Bi_List](https://web.archive.org/web/20080105104557/http://sowhat.magical.gr.jp/bilist/) - 美少女ゲームの20世紀（2008年1月5日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）

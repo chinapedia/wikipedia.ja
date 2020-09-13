@@ -64,7 +64,7 @@
 なお、アナログ放送の時代においても名古屋テレビ塔から送信される親局は**3ch**が割り当てられており、この地方では「NHK＝3チャンネル」が定着していた。なお、全国的には「**1**」を割り当てられる場合が多いが、この地方においては「1チャンネル」は[東海テレビ](../Page/東海テレビ放送.md "wikilink")（[フジテレビ系列](../Page/フジネットワーク.md "wikilink")）として定着していたため、東海テレビに「**1**」が割り当てられている。
 
   - EテレのリモコンキーIDは全国共通で**「2」**。
-      - なお、アナログ放送時代の教育テレビのリモコンキーは「**9**」であった。
+      - なお、アナログ放送時代の教育テレビのチャンネル番号は「**9**」であった。
   - 総合テレビは県域局であるが、名古屋局の送信出力はEテレ・民放局（県域局のテレビ愛知以外）と同じ。
 
 <!-- end list -->
@@ -247,7 +247,7 @@
   - [ウイークエンド中部](../Page/ウイークエンド中部.md "wikilink")（土曜日 7:30 - 8:00）
   - [Uta-Tube](https://ja.wikipedia.org/wiki/Uta-Tube "wikilink")（土曜日 10:55 - 11:15、再放送：水曜日 23:45 - 木曜日 0:05）
       - 不定期で[BSプレミアムで放送される場合あり](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")。
-  - デデデデザインて何\!?（土曜日 11:15 - 11:20ほか）
+  - デデデデザインて何\!?（土曜日 11:15 - 11:20、石川県を除く）
 
 <!-- end list -->
 
@@ -484,14 +484,14 @@
 <td><p>知多市出身</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/内山俊哉.md" title="wikilink">内山俊哉</a>*</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHKグローバルメディアサービス" title="wikilink">G-Media出向</a></p></td>
+<td><p><a href="../Page/広坂安伸.md" title="wikilink">広坂安伸</a>*</p></td>
+<td><p><a href="../Page/NHK神戸放送局.md" title="wikilink">神戸</a></p></td>
 <td><p>各種スポーツ中継</p></td>
-<td></td>
+<td><p>東海市出身</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/大坂敏久.md" title="wikilink">大坂敏久</a></p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/NHKグローバルメディアサービス" title="wikilink">G-Media出向</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -502,21 +502,21 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/神戸和貴" title="wikilink">神戸和貴</a></p></td>
+<td><p><a href="../Page/NHK高知放送局.md" title="wikilink">高知</a></p></td>
+<td><p>|豊川市出身</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/酒匂飛翔" title="wikilink">酒匂飛翔</a></p></td>
 <td><p>東京アナウンス室</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/熊倉悟.md" title="wikilink">熊倉悟</a></p></td>
 <td><p>東海北陸のニュース</p></td>
 <td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/神戸和貴" title="wikilink">神戸和貴</a></p></td>
-<td><p><a href="../Page/NHK高知放送局.md" title="wikilink">高知</a></p></td>
-<td><p>|豊川市出身</p></td>
 <td></td>
 </tr>
 <tr class="even">

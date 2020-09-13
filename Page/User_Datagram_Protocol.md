@@ -1,7 +1,9 @@
 > この記事は[User Datagram Protocol](https://ja.wikipedia.org/wiki/User_Datagram_Protocol)から翻訳されています。
 
 
-**User Datagram Protocol**（ユーザ データグラム プロトコル、**UDP**（ユーディーピー））は、主に[インターネット](../Page/インターネット.md "wikilink")で使用される[インターネット・プロトコル・スイート](../Page/インターネット・プロトコル・スイート.md "wikilink")の中核[プロトコル](../Page/プロトコル.md "wikilink")の一つ。
+**User Datagram Protocol**（ユーザ データグラム プロトコル、**UDP**（ユーディーピー））は、[インターネット](../Page/インターネット.md "wikilink")などで使用される[通信プロトコル](../Page/通信プロトコル.md "wikilink")であり、[インターネット・プロトコル・スイート](../Page/インターネット・プロトコル・スイート.md "wikilink")のうち、[トランスポート層](../Page/トランスポート層.md "wikilink")のプロトコルの一つ。
+
+同じくトランスポート層のプロトコルである[TCPとは異なり](../Page/Transmission_Control_Protocol.md "wikilink")、UDPはコネクションレス型であり、通信相手の応答を待つことなくデータを送り続けるプロトコルである。そのため、通話などの低[レイテンシ](../Page/レイテンシ.md "wikilink")が要求されるサービスに適しているが、先方が正常にデータを受信していなくてもパケットを送信し続けるため、別途、適切な[輻輳制御](https://ja.wikipedia.org/wiki/輻輳制御 "wikilink")などが行われない場合、ネットワークが輻輳する原因となる可能性がある。
 
 ## 概要
 
@@ -11,9 +13,9 @@
 
 UDPは内部状態を持たない「[ステートレス](https://ja.wikipedia.org/wiki/ステートレス・プロトコル "wikilink")」であり、多数のクライアントからの簡単な問い合わせに応えるサーバなどの用途に有効である。[TCPとは異なり](../Page/Transmission_Control_Protocol.md "wikilink")、[ブロードキャスト](../Page/ブロードキャスト.md "wikilink")（ローカル・ネットワーク上の全ホストへの送信）と[マルチキャスト](../Page/マルチキャスト.md "wikilink")（購読者全員への送信）をサポートしている\[2\]。
 
-UDPを使っている主なネットワーク・アプリケーションとしては、途中でデータが抜け落ちても問題が少ない音声や画像の[ストリーム](https://ja.wikipedia.org/wiki/ストリーム "wikilink")形式での配信（[VoIP](../Page/VoIP.md "wikilink")、[MPEG-TS](../Page/MPEG-2システム.md "wikilink")、[Realストリーミング](https://ja.wikipedia.org/wiki/Realストリーミング "wikilink")、[QuickTime](../Page/QuickTime.md "wikilink")ストリーミング、[IP放送](../Page/IP放送.md "wikilink")など）、小さなデータをリアルタイムで大量に転送する[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")などがある。
+UDPを使っている主なネットワーク・アプリケーションとしては、途中でデータが抜け落ちても問題が少ない音声や画像の[ストリーム](https://ja.wikipedia.org/wiki/ストリーム "wikilink")形式での配信（[VoIP](../Page/VoIP.md "wikilink")、[MPEG-TS](../Page/MPEG-2システム.md "wikilink")、[IP放送](../Page/IP放送.md "wikilink")など）、小さなデータをリアルタイムで大量に転送する[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")などがある。
 
-その他、[SNMP](../Page/Simple_Network_Management_Protocol.md "wikilink")、[TFTP](../Page/Trivial_File_Transfer_Protocol.md "wikilink")、[DNS](../Page/Domain_Name_System.md "wikilink")、[DHCPなどの各種上位プロトコルがある](https://ja.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol "wikilink")。
+その他、[SNMP](../Page/Simple_Network_Management_Protocol.md "wikilink")、[TFTP](../Page/Trivial_File_Transfer_Protocol.md "wikilink")、[DNS](../Page/Domain_Name_System.md "wikilink")、[DHCP](https://ja.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol "wikilink")、[RTPなどの各種上位プロトコルがある](../Page/Real-time_Transport_Protocol.md "wikilink")。
 
 IPヘッダにおける[プロトコル番号](https://ja.wikipedia.org/wiki/プロトコル番号 "wikilink")は17である。
 

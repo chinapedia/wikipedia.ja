@@ -63,6 +63,6 @@
 
   - [UP-FRONT WORKS](http://www.up-front-works.jp/release/detail/EPCE-5230/)
 
-[Category:2003年の日本の音楽](https://ja.wikipedia.org/wiki/Category:2003年の日本の音楽 "wikilink") [Category:ハロー\!プロジェクトのユニット](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクトのユニット "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink")
+[Category:2003年の日本の音楽](https://ja.wikipedia.org/wiki/Category:2003年の日本の音楽 "wikilink") [Category:ハロー\!プロジェクトのユニット](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクトのユニット "wikilink") [Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:ハロー\!プロジェクトのポップ・グループ](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクトのポップ・グループ "wikilink")
 
 1.  "[つんく♂オフィシャルウェブサイト＜ROMANS（ロマンス）デビューについて＞2003/08/20](http://www.tsunku.net/officialcommentdetail.php?@DB_ID@=9)"2011年4月20日閲覧

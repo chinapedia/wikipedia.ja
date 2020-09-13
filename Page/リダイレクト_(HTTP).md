@@ -7,7 +7,7 @@
 
 ## HTTPリダイレクト
 
-HTTPヘッダにある[HTTPステータスコード](../Page/HTTPステータスコード.md "wikilink")にてリダイレクトの種類を伝え、Location:ヘッダで移動先を伝える。種類には301 Moved Permanently（恒久的な移転）や302 Found（発見）などがある。[Webサーバ](../Page/Webサーバ.md "wikilink")の設定ファイル（[Apacheの場合](../Page/Apache_HTTP_Server.md "wikilink")、httpd.confファイルや[.htaccess](../Page/.htaccess.md "wikilink")ファイル）や、[CGI](../Page/Common_Gateway_Interface.md "wikilink")（[non-parsed headerスクリプト](https://ja.wikipedia.org/wiki/non-parsed_header "wikilink")）などで指定できる。
+HTTPヘッダにある[HTTPステータスコード](../Page/HTTPステータスコード.md "wikilink")にてリダイレクトの種類を伝え、Location:ヘッダで移動先を伝える。種類には301 Moved Permanently（恒久的な移転）や302 Found（発見）などがある。[Webサーバ](../Page/Webサーバ.md "wikilink")の設定ファイル（[Apacheの場合](../Page/Apache_HTTP_Server.md "wikilink")、httpd.confファイルや[.htaccess](../Page/.htaccess.md "wikilink")ファイル）や、[CGIなどで指定できる](../Page/Common_Gateway_Interface.md "wikilink")。
 
 ## metaタグによるリダイレクト
 

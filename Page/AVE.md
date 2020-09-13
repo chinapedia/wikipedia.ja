@@ -1,7 +1,7 @@
 > この記事は[AVE](https://ja.wikipedia.org/wiki/AVE)から翻訳されています。
 
 
-[RENFE_Class_103_Vinaixa_edit.jpg](https://ja.wikipedia.org/wiki/File:RENFE_Class_103_Vinaixa_edit.jpg "fig:RENFE_Class_103_Vinaixa_edit.jpg") **AVE**（アベ）は、[スペイン国鉄](../Page/レンフェ.md "wikilink")（RENFE）が運行する[高速鉄道](../Page/高速鉄道.md "wikilink")システムの名称である。
+**AVE**（アベ）は、[スペイン国鉄](../Page/レンフェ.md "wikilink")（RENFE）が運行する[高速鉄道](../Page/高速鉄道.md "wikilink")システムの名称である。
 
 ## 概要
 

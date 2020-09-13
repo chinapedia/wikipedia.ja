@@ -94,7 +94,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新潟総合テレビ" title="wikilink">新潟総合テレビ</a></p></td>
+<td><p><a href="../Page/NST新潟総合テレビ.md" title="wikilink">新潟総合テレビ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -214,4 +214,4 @@
 
 [Category:1991年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1991年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビの音楽番組](https://ja.wikipedia.org/wiki/Category:フジテレビの音楽番組 "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:徳光和夫](https://ja.wikipedia.org/wiki/Category:徳光和夫 "wikilink") [Category:堺正章](https://ja.wikipedia.org/wiki/Category:堺正章 "wikilink") [Category:田代まさし](https://ja.wikipedia.org/wiki/Category:田代まさし "wikilink")
 
-1.  放送当時はフジテレビ系列で、その後1993年4月から[テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")。
+1.  放送当時はフジテレビ系列で、その後1993年4月から[テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink")。

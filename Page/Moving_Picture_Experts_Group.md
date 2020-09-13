@@ -7,7 +7,7 @@
 
 ## 主なMPEG規格
 
-MPEGは以下のような圧縮フォーマットおよび付随的な基準を標準化した。
+MPEGは以下のような圧縮フォーマットおよび付随的な基準を標準化した。ヒトの視覚は目に入る左上頂点から認識する特性があることから、それを原理的に取り入れ、各種な圧縮展開方策が取られている。
 
   - [MPEG-1](../Page/MPEG-1.md "wikilink") - 最初のビデオ・オーディオ[圧縮](https://ja.wikipedia.org/wiki/圧縮 "wikilink")基準。その後、[ビデオCD](../Page/ビデオCD.md "wikilink")用基準として使用。著名な[MP3](../Page/MP3.md "wikilink")（Layer 3）オーディオ圧縮フォーマットを含んでいる。
   - [MPEG-2](../Page/MPEG-2.md "wikilink") - テレビジョン放送向けの伝送に使用するビデオおよびオーディオ基準。[ATSC](../Page/ATSC.md "wikilink")・[DVBおよび](../Page/デジタルビデオブロードキャスティング.md "wikilink")[ISDB](../Page/ISDB.md "wikilink")といった放送されている[デジタルテレビ放送](../Page/デジタルテレビ放送.md "wikilink")の規格、[ディッシュ・ネットワーク](../Page/ディッシュ・ネットワーク.md "wikilink")のようなデジタル[衛星放送](../Page/衛星放送.md "wikilink")、デジタル[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")の信号に利用されている。そして少し修正されて[DVD](../Page/DVD.md "wikilink")ビデオディスクにも使用されている。

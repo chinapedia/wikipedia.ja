@@ -18,6 +18,7 @@
   - [ブチレングリコール](https://ja.wikipedia.org/wiki/ブチレングリコール "wikilink")
   - [准将](../Page/准将.md "wikilink")（Brigadier General）
   - [ブリティッシュガス](https://ja.wikipedia.org/wiki/ブリティッシュガス "wikilink")
+  - ボディーガード
 
 ### 固有名詞
 

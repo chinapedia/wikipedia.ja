@@ -33,10 +33,7 @@
   - [ドイツ語](../Page/ドイツ語.md "wikilink")では語末や無声子音の前で無声化する。そのため、母音の前であってもこの（[無声歯茎破裂音](../Page/無声歯茎破裂音.md "wikilink")）を表す事がある (例:zweitausendeins)。
   - [フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")では語末の d を黙字とする（一部例外あり）。ただし、後続の単語が母音で始まっていれば、[リエゾン](../Page/リエゾン.md "wikilink")してとなる（とはならない）。
   - 英語では、規則動詞の過去形の語尾-edは、その前の音により、、などと変化する。
-
-<!-- end list -->
-
-  - [中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")やその[方言](../Page/方言.md "wikilink")の[ピンイン](https://ja.wikipedia.org/wiki/ピンイン "wikilink")では[無気の](../Page/有気音.md "wikilink")（[無声歯茎破裂音](../Page/無声歯茎破裂音.md "wikilink")）を表す。
+  - [中国語](../Page/中国語.md "wikilink")やその[方言](../Page/方言.md "wikilink")の[ピンイン](https://ja.wikipedia.org/wiki/ピンイン "wikilink")では[無気の](../Page/有気音.md "wikilink")（[無声歯茎破裂音](../Page/無声歯茎破裂音.md "wikilink")）を表す。
   - [中国南方の方言では](../Page/中華人民共和国.md "wikilink")、広東省教育部門式の広東語ローマ字のように[歯茎](https://ja.wikipedia.org/wiki/歯茎音 "wikilink")[内破音](../Page/内破音.md "wikilink")を表す例もある。
   - [ベトナム語](../Page/ベトナム語.md "wikilink")では[有声歯茎摩擦音](https://ja.wikipedia.org/wiki/有声歯茎摩擦音 "wikilink")のを表す。ただし、南部方言では[硬口蓋接近音](https://ja.wikipedia.org/wiki/硬口蓋接近音 "wikilink")ので発音される。「Đ」や「đ」が[声門閉鎖を伴う](../Page/声門破裂音.md "wikilink")[有声歯茎破裂音](https://ja.wikipedia.org/wiki/有声歯茎破裂音 "wikilink")のまたは[歯茎入破音](https://ja.wikipedia.org/wiki/歯茎入破音 "wikilink")を表す。
   - [日本語](../Page/日本語.md "wikilink")のローマ字表記では訓令式、ヘボン式共にダ行（[タ行](https://ja.wikipedia.org/wiki/タ行 "wikilink")濁音）の子音に用いられる。ただし、「ぢ」「づ」は「じ」「ず」と同じ発音のため、JまたはZとなる。日本式やIMEにおけるローマ字入力では、「ぢ」「づ」も含めた全てのダ行に用いられる。
@@ -82,7 +79,7 @@
   - Dで、[ドイッチュ番号](../Page/ドイッチュ番号.md "wikilink")（[シューベルトの作品に付せられる](../Page/フランツ・シューベルト.md "wikilink")）
   - [Rh血液型における](../Page/血液型.md "wikilink")[抗原](../Page/抗原.md "wikilink")の一つ。これにより、+と−とが判定される。
   - 電磁気学の分野では[電束密度](../Page/電束密度.md "wikilink")を表す。
-  - [ケッペンの気候区分](https://ja.wikipedia.org/wiki/ケッペンの気候区分 "wikilink")の[冷帯](https://ja.wikipedia.org/wiki/冷帯 "wikilink")（[亜寒帯](../Page/亜寒帯.md "wikilink")）を表すD。
+  - [ケッペンの気候区分](https://ja.wikipedia.org/wiki/ケッペンの気候区分 "wikilink")の[冷帯](../Page/亜寒帯.md "wikilink")（[亜寒帯](../Page/亜寒帯.md "wikilink")）を表すD。
   - [化学](../Page/化学.md "wikilink")で、[キラリティー](../Page/キラリティー.md "wikilink")のある分子を識別する記号 (**d**extro)。
       - 分子全体が[右旋性であることを示す](https://ja.wikipedia.org/wiki/旋光性 "wikilink")（小文字）。
       - d-[グリセルアルデヒド](https://ja.wikipedia.org/wiki/グリセルアルデヒド "wikilink")と同じ立体配置を持つものを示す（大文字）。→[DL表記法](../Page/DL表記法.md "wikilink")

@@ -7,7 +7,7 @@
 
 ## 総論
 
-[日本電気](../Page/日本電気.md "wikilink")（NEC）は、[NEAC](../Page/NEAC.md "wikilink")、続いて[ACOS](https://ja.wikipedia.org/wiki/ACOS "wikilink")と、大型コンピュータを開発してきたメーカであり、またトランジスタ、続いて[集積回路](../Page/集積回路.md "wikilink")を開発・製造してきた半導体メーカでもあった。NECの[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")は半導体部門から始まっているが、NECは世界で最初期にマイクロプロセッサを開発した企業のひとつである。世界最初のマイクロプロセッサのひとつであるμPD707・708に続き、NECは1970年代には[μCOMシリーズ](https://ja.wikipedia.org/wiki/μCOMシリーズ "wikilink")を開発・展開した。μCOMシリーズには、オリジナル仕様のもの、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")系を主とした（[ザイログ](../Page/ザイログ.md "wikilink")の[Z80](../Page/Z80.md "wikilink")も含む）の互換製品や類似仕様のもの、などがあった。
+[日本電気](../Page/日本電気.md "wikilink")（NEC）は、[NEAC](../Page/NEAC.md "wikilink")、続いて[ACOSと](../Page/Advanced_Comprehensive_Operating_System.md "wikilink")、大型コンピュータを開発してきたメーカであり、またトランジスタ、続いて[集積回路](../Page/集積回路.md "wikilink")を開発・製造してきた半導体メーカでもあった。NECの[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")は半導体部門から始まっているが、NECは世界で最初期にマイクロプロセッサを開発した企業のひとつである。世界最初のマイクロプロセッサのひとつであるμPD707・708に続き、NECは1970年代には[μCOMシリーズ](https://ja.wikipedia.org/wiki/μCOMシリーズ "wikilink")を開発・展開した。μCOMシリーズには、オリジナル仕様のもの、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")系を主とした（[ザイログ](../Page/ザイログ.md "wikilink")の[Z80](../Page/Z80.md "wikilink")も含む）の互換製品や類似仕様のもの、などがあった。
 
 1980年代に入ると、NECはVシリーズを開発・展開した。まず、1980年代前半より開発・販売していた[8088](../Page/Intel_8088.md "wikilink")・[8086互換モデルを](../Page/Intel_8086.md "wikilink")[CMOS](../Page/CMOS.md "wikilink")化するとともに、内部バスの本数を増やして能力を向上させた**V20・V30**を開発した\[2\]。また、これらのCPUをコアとして周辺回路を集積した**V40・V50**や、より高性能化を図った**V33**等へと展開した。しかし、V30は提訴により、充分な商機を得ることができなかった。海外では、8088コンパチで[IBM PC互換機](../Page/IBM_PC.md "wikilink")・[PC/XT互換機に採用されたV](https://ja.wikipedia.org/wiki/PC/AT#PC_XT "wikilink")20の方が、V30よりもメジャーである。
 

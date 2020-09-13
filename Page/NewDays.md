@@ -1,11 +1,11 @@
 > この記事は[NewDays](https://ja.wikipedia.org/wiki/NewDays)から翻訳されています。
 
 
-[thumbのNEWDAYS](https://ja.wikipedia.org/wiki/ファイル:NEWDAYS-01.JPG "wikilink")（改装工事前。現在は別の場所に移転している）\]\] [thumb店](https://ja.wikipedia.org/wiki/ファイル:NEWDAYS.JPG "wikilink")。現在は閉店\]\] [thumbに存在したNEWDAYS](https://ja.wikipedia.org/wiki/ファイル:NEWDAYS_Suzumenomiya_Shop.jpg "wikilink")。出入口ドア上以外の電光看板は旧JC時代のもの\]\] [thumbの旧駅舎](https://ja.wikipedia.org/wiki/ファイル:KitaNaganoStation1992.jpg "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:JC_KitaNagano_seisenichiba.jpg "wikilink") [thumbのNewDays](https://ja.wikipedia.org/wiki/ファイル:NEWDAYS_in_Sendai_Station_20141225.JPG "wikilink")\]\] **NewDays**もしくは**NEWDAYS**（ニューデイズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")。主に[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）の[鉄道駅](../Page/鉄道駅.md "wikilink")に出店している\[1\]。
+[thumbのNewDays](https://ja.wikipedia.org/wiki/ファイル:NEWDAYS_in_Sendai_Station_20141225.JPG "wikilink")\]\] [thumbのNEWDAYS](https://ja.wikipedia.org/wiki/ファイル:NEWDAYS-01.JPG "wikilink")（改装工事前。現在は別の場所に移転している）\]\] [thumb店](https://ja.wikipedia.org/wiki/ファイル:NEWDAYS.JPG "wikilink")。現在は閉店\]\] [thumbに存在したNEWDAYS](https://ja.wikipedia.org/wiki/ファイル:NEWDAYS_Suzumenomiya_Shop.jpg "wikilink")。出入口ドア上以外の電光看板は旧JC時代のもの\]\] [thumbの旧駅舎](https://ja.wikipedia.org/wiki/ファイル:KitaNaganoStation1992.jpg "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:JC_KitaNagano_seisenichiba.jpg "wikilink") **NewDays**（ニューデイズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")。主に[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）の[鉄道駅](../Page/鉄道駅.md "wikilink")に出店している\[1\]。2014年12月の新デザイン導入前までは**NEWDAYS**とすべて大文字表記であった。
 
 [JR東日本グループの株式会社](https://ja.wikipedia.org/wiki/東日本旅客鉄道#関係会社 "wikilink")[JR東日本リテールネット](../Page/JR東日本リテールネット.md "wikilink")（J-リテール）が運営する。
 
-大別すると、「**NewDays**」と「**NewDays ミニ**」の二種がある。\[2\]
+大別すると、「**NewDays**」と「**NewDays ミニ**」、さらに[キオスクとの融合店舗](../Page/キヨスク.md "wikilink")（[後述](https://ja.wikipedia.org/wiki/#キオスクとの融合店舗 "wikilink")）である「**NewDays KIOSK**」の三種がある。\[2\]
 
 ## 概要
 
@@ -27,9 +27,9 @@
 
 ### キオスクとの融合店舗
 
-2015年3月14日より、[キオスクの一部店舗が順次新業態](../Page/キヨスク.md "wikilink")『NewDays KIOSK』に転換されている。これは、キオスクをNewDaysのマイクロショップという位置付けで、キオスクのコンパクトでスピーディな点とコンビニの鮮度が高く幅広い商品を買いやすい点と双方の利点を生かした店舗としたもの\[6\]。“キオスクのマイクロコンビニ化”の扱いであり、NewDaysの公式サイトではなく、キオスクの公式サイトで店舗が扱われている。また、既存のキオスクのままでNewDaysのおにぎりやパンを取扱う店舗も増えている。
+2015年3月14日より、[キオスクの一部店舗が順次新業態](../Page/キヨスク.md "wikilink")『NewDays KIOSK』に転換されている（内部的な略称はNDK）。これは、キオスクをNewDaysのマイクロショップという位置付けで、キオスクのコンパクトでスピーディな点とコンビニの鮮度が高く幅広い商品を買いやすい点と双方の利点を生かした店舗としたもの\[6\]。“キオスクのマイクロコンビニ化”の扱いであり、NewDaysの公式サイトではなく、キオスクの公式サイトで店舗が扱われている。また、既存のキオスクのままでNewDaysのおにぎりやパンを取扱う店舗も増えている。
 
-なお、2010年10月付で、NewDaysとキオスクの営業部隊は「コンビニエンス営業部」として統合済みで、融合化は必然的な流れと言える。
+なお、2010年10月付で、NewDaysとキオスクの営業部隊は「コンビニエンス営業部」として統合済みで、融合化は必然的な流れと言える（その段階で一部のキオスクがNEWDAYS（当時）に転換された店舗もあり、そのうちのさらに一部が本業態に再転換されたものもある）。
 
 ### フランチャイズ
 
@@ -65,7 +65,7 @@
   - [えきねっと](../Page/えきねっと.md "wikilink")の@stationによる商品受け渡しが可能（一部店舗を除く）。
   - 一部の店舗では、下記のいずれかの[ATMを設置している](../Page/現金自動預け払い機.md "wikilink")。
       - [イーネット](../Page/イーネット.md "wikilink")
-      - みずほMMK⇒現在はMMKの機能を除いたカード式（通帳利用不可）ATM（現金自動預払機）に入替済。管轄店も最寄りの支店となっている。例：平塚駅⇒平塚支店（なお10万円を限度として現金振込が可能で、みずほ銀行の店舗検索にも設置店舗としてちゃんと出る）
+      - みずほMMK⇒現在はMMKの機能を除いたカード式（通帳利用不可）ATM（現金自動預払機）に入替済。管轄店も最寄りの支店となっている。例：平塚駅⇒平塚支店（なお10万円を限度として現金振込が可能で、みずほ銀行の店舗検索にも設置店舗として表示される）
 
 <!-- end list -->
 
@@ -119,7 +119,7 @@
 4.  [なぜ小さなコンビニが、セブンより下でローソンより上なのか (1/7)](http://bizmakoto.jp/makoto/articles/1506/03/news027.html)
 5.  [駅の売店は、このまま「コンビニ化」するのか？ 先行ファミマ、追うローソン・セブン](http://j-town.net/tokyo/shop/shopnews/209960.html?p=all)
 6.  [3/14(土)KIOSKの新型ショップ「NewDays KIOSK」がJR上野駅園通路にオープン｜エキナカポータル](http://www.j-retail.jp/info/detail.html?id=1908)
-7.  [JR東日本 流通事業](http://web.archive.org/web/19980127032816/http://www.jreast.co.jp/kanren/ryutsu_.htm)
+7.  [JR東日本 流通事業](https://web.archive.org/web/19980127032816/http://www.jreast.co.jp/kanren/ryutsu_.htm)
 8.
 9.
 10.

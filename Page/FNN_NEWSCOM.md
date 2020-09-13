@@ -7,13 +7,13 @@
 
 フジテレビの開局30周年（[1989年](../Page/1989年.md "wikilink")）を機に当時の[鹿内宏明](../Page/鹿内宏明.md "wikilink")会長が深夜報道番組の大幅刷新を断行し、『**[FNN DATE LINE](../Page/FNN_DATE_LINE.md "wikilink")**』に変わってスタートしたのがこの番組である\[1\]。前番組の流れから[木村太郎がメインキャスター](https://ja.wikipedia.org/wiki/木村太郎_\(ジャーナリスト\) "wikilink")（アンカーマン）を務めた。しかし視聴率は振るわず、幾度も修正が加えられデザインや内容が目まぐるしく変わった。
 
-30分程度のニュース番組ながらビジュアルやサウンドが非常に洗練されており、演出面の個性的なパッケージが注目された。スタジオセットは[ジョルジェット・ジウジアーロ](../Page/ジョルジェット・ジウジアーロ.md "wikilink")率いる[イタルデザイン](https://ja.wikipedia.org/wiki/イタルデザイン "wikilink")が、テーマ音楽は[関口敏行](https://ja.wikipedia.org/wiki/関口敏行 "wikilink")である（[1991年](../Page/1991年.md "wikilink")以降はそのアレンジ版が使われた）。英字タイトル、FM放送を思わせるような効果音、モダンジャズに洋楽、洗練されたイメージのスタジオ等、都会的で欧米志向・スタイリッシュ・アップテンポといった、[この時代に好まれたキーワードが反映された](../Page/バブル時代.md "wikilink")。
+30分程度のニュース番組ながらビジュアルやサウンドが非常に洗練されており、演出面の個性的なパッケージが注目された。スタジオセットは[ジョルジェット・ジウジアーロ](../Page/ジョルジェット・ジウジアーロ.md "wikilink")率いる[イタルデザイン](https://ja.wikipedia.org/wiki/イタルデザイン "wikilink")が、テーマ音楽は[関口敏行](https://ja.wikipedia.org/wiki/関口敏行 "wikilink")が担当した（[1991年](../Page/1991年.md "wikilink")以降はそのアレンジ版が使われた）。英字タイトル、FM放送を思わせるような効果音、モダンジャズに洋楽、洗練されたイメージのスタジオ等、都会的で欧米志向・スタイリッシュ・アップテンポといった、[この時代に好まれたキーワードが反映された](../Page/バブル時代.md "wikilink")。
 
-できる限りコンパクトでシンプルにというコンセプトで特集コーナー等は基本的に排除し、当初は天気予報すらなかった。放送開始時からエンディングの木村の[駄洒落](../Page/駄洒落.md "wikilink")が話題を呼んだ。
+できる限りコンパクトでシンプルにというコンセプトで特集コーナー等は基本的に排除し、当初は天気予報すらなかった。
 
-[1993年](../Page/1993年.md "wikilink")に放送時間は延長し、それに伴い天気予報が新設。翌年の[1994年](../Page/1994年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")からダジャレは廃止となり、[裏番組](../Page/裏番組.md "wikilink")であった[TBSの](../Page/TBSテレビ.md "wikilink")『[筑紫哲也 NEWS23](../Page/筑紫哲也_NEWS23.md "wikilink")』内の「[多事争論](https://ja.wikipedia.org/wiki/筑紫哲也_NEWS23#多事争論 "wikilink")」に対抗する「**太郎のCOらM**」がスタートした。
+放送開始時からエンディングでは、木村が海外の三面記事ニュースを取り上げ、話題に引っ掛けた[ダジャレで締めるのが恒例だった](../Page/駄洒落.md "wikilink")。[1993年](../Page/1993年.md "wikilink")に放送時間を拡張し天気予報コーナーを新設。翌年の[1994年](../Page/1994年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")からは木村のダジャレに代わり、[裏番組](../Page/裏番組.md "wikilink")であった[TBSの](../Page/TBSテレビ.md "wikilink")『[筑紫哲也 NEWS23](../Page/筑紫哲也_NEWS23.md "wikilink")』内の「[多事争論](https://ja.wikipedia.org/wiki/筑紫哲也_NEWS23#多事争論 "wikilink")」に対抗する「**太郎のCOらM**」がスタートした。
 
-番組は、1994年3月31日で終了し、翌日の同年[4月1日](../Page/4月1日.md "wikilink")の放送から『[プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")』を吸収した『**[ニュースJAPAN](https://ja.wikipedia.org/wiki/ニュースJAPAN "wikilink")**』がスタートした（週末は『**[スポーツWAVE](../Page/スポーツWAVE.md "wikilink")**』）。
+番組は、1994年3月31日で終了し、翌日の同年[4月1日](../Page/4月1日.md "wikilink")の放送からは、前番組と同様に『[プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")』を内包する新報道番組『**[ニュースJAPAN](https://ja.wikipedia.org/wiki/ニュースJAPAN "wikilink")**』がスタートした。週末放送分は、『ニュースJAPAN』、『プロ野球ニュース』の両番組を内包する『**[スポーツWAVE](../Page/スポーツWAVE.md "wikilink")**』が後番組として立ち上がっている。
 
 ## 放送時間の変遷
 

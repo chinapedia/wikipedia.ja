@@ -291,6 +291,13 @@ Perlには標準で利用できるモジュールが数多く存在する。
 <li>Unicode 12.1をサポート。</li>
 </ul></td>
 </tr>
+<tr class="even">
+<td><p>5.32.0</p></td>
+<td><p>2020年6月20日</p></td>
+<td><ul>
+<li>演算子 isa をサポート。</li>
+</ul></td>
+</tr>
 </tbody>
 </table>
 

@@ -5,7 +5,7 @@
 
 ## 来歴
 
-音楽事務所[ビーイング](../Page/ビーイング.md "wikilink")に所属し、スタジオミュージシャンであった[ベーシスト](../Page/ベーシスト.md "wikilink")：[西村麻聡](../Page/西村麻聡.md "wikilink")、[ギタリスト](../Page/ギタリスト.md "wikilink")：[北島健二](../Page/北島健二.md "wikilink")、[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")：[山田わたる](https://ja.wikipedia.org/wiki/山田わたる "wikilink")の3人により[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")6月に結成。以後、曲作り、リハーサルを重ね、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")、[EPICソニーからアルバム](../Page/エピックレコードジャパン.md "wikilink")『[FENCE OF DEFENSE](../Page/FENCE_OF_DEFENSE_\(アルバム\).md "wikilink")』、シングル『[フェイシア](https://ja.wikipedia.org/wiki/フェイシア "wikilink")』でデビュー。ライブは常に即ソールドアウトになり、[1989年](../Page/1989年.md "wikilink")には[日本武道館](../Page/日本武道館.md "wikilink")公演も成功。テレビアニメの主題歌に起用された楽曲「SARA」、「時の河」、「DON'T LOOK BACK」がスマッシュヒット。[1996年](../Page/1996年.md "wikilink")に[マーキュリー・ミュージックエンタテインメント](../Page/マーキュリー・レコード.md "wikilink")→[ポリドール](../Page/ポリドール・レコード.md "wikilink")／[Primitive Records](https://ja.wikipedia.org/wiki/パブリック・イメージ "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")には[イーストウエスト・ジャパンへの移籍を経て](../Page/ワーナーミュージック・ジャパン.md "wikilink")、[1999年](../Page/1999年.md "wikilink")に一旦活動休止。その後、個々のソロ活動、別ユニットでの活動、所属事務所からの独立を経て、[2003年](../Page/2003年.md "wikilink")4年ぶりに活動を再開、オリジナルアルバムをリリース。個々のソロ活動の傍ら、ライブ、楽曲制作、イベント等に精力的に活動中。[2012年](../Page/2012年.md "wikilink")にはデビュー25周年を迎える。
+音楽事務所[ビーイング](../Page/ビーイング.md "wikilink")に所属し、スタジオミュージシャンであった[ベーシスト](../Page/ベーシスト.md "wikilink")：[西村麻聡](../Page/西村麻聡.md "wikilink")、[ギタリスト](../Page/ギタリスト.md "wikilink")：[北島健二](../Page/北島健二.md "wikilink")、[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")：[山田わたる](https://ja.wikipedia.org/wiki/山田わたる "wikilink")の3人により[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")6月に結成。以後、曲作り、リハーサルを重ね、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")、[EPICソニーからアルバム](../Page/エピックレコードジャパン.md "wikilink")『[FENCE OF DEFENSE](../Page/FENCE_OF_DEFENSE_\(アルバム\).md "wikilink")』、シングル『[フェイシア](https://ja.wikipedia.org/wiki/フェイシア "wikilink")』でデビュー。ライブは常に即ソールドアウトになり、[1989年](../Page/1989年.md "wikilink")には[日本武道館](../Page/日本武道館.md "wikilink")公演も成功。テレビアニメの主題歌に起用された楽曲「SARA」、「時の河」、「DON'T LOOK BACK」がスマッシュヒット。[1996年](../Page/1996年.md "wikilink")に[マーキュリー・ミュージックエンタテインメント](../Page/マーキュリー・レコード.md "wikilink")→[ポリドール](../Page/ポリドール・レコード.md "wikilink")／[Primitiveレーベル](https://ja.wikipedia.org/wiki/パブリック・イメージ "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")には[イーストウエスト・ジャパンへの移籍を経て](../Page/ワーナーミュージック・ジャパン.md "wikilink")、[1999年](../Page/1999年.md "wikilink")に一旦活動休止。その後、個々のソロ活動、別ユニットでの活動、所属事務所からの独立を経て、[2003年](../Page/2003年.md "wikilink")4年ぶりに活動を再開、オリジナルアルバムをリリース。個々のソロ活動の傍ら、ライブ、楽曲制作、イベント等に精力的に活動中。[2012年](../Page/2012年.md "wikilink")にはデビュー25周年を迎える。
 
 現在、バンドのマネジメントは山田わたるが役員を務める[チーム・アクティブ](https://ja.wikipedia.org/wiki/チーム・アクティブ "wikilink")（当時の芸能事務所ハートランドの[ローディー](../Page/ローディー.md "wikilink")部門が独立した会社[1](http://www.team-active.com/about/about.php)）が担当している（西村、北島は別の所属事務所に在籍）。
 
@@ -32,7 +32,7 @@
   - [hot dogs](https://ja.wikipedia.org/wiki/hot_dogs "wikilink")（1994年5月21日）☆
   - [BEST](../Page/BEST_\(FENCE_OF_DEFENSEのアルバム\).md "wikilink")（1995年4月21日）
 
-#### ポリドール/Primitive Records
+#### ポリドール/Primitive
 
   - [XXX](../Page/XXX_\(FENCE_OF_DEFENSEのアルバム\).md "wikilink")（1997年6月25日）☆
 
@@ -103,7 +103,7 @@
 
   - [君のあるがままを](https://ja.wikipedia.org/wiki/君のあるがままを "wikilink") (c/w 逆転（アルバム未収録）)（1996年2月25日）（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[リングの魂](../Page/リングの魂.md "wikilink")』ED曲）
 
-#### ポリドール/Primitive Records
+#### ポリドール/Primitive
 
   - [遥か〜SAILING FOR MY DREAM〜](https://ja.wikipedia.org/wiki/遥か〜SAILING_FOR_MY_DREAM〜 "wikilink") (c/w RIGHT NOW（アルバム未収録）)（1996年5月27日 ）（[TBS系アニメ](../Page/TBSテレビ.md "wikilink")『[ビートX](https://ja.wikipedia.org/wiki/ビートX "wikilink")』OP曲）
   - スクランブル・キッズ／愛してても、愛せない（1996年11月4日）（TBS系『[浜田雅功のシングルGOLF](https://ja.wikipedia.org/wiki/浜田雅功のシングルGOLF "wikilink")』ED曲/プレイステーションソフト『それいけ×ココロジー』テーマ曲→当初は愛してても、愛せないが1曲目の扱いだった）

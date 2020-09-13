@@ -9,7 +9,7 @@
 
 旅行業本体は日本国内や欧米諸国が中心で、近年は海外新興市場（[BRICS](https://ja.wikipedia.org/wiki/BRICS "wikilink")、[ASEAN諸国](../Page/東南アジア諸国連合.md "wikilink")）において、新中間所得層向けに旅行需要の発掘と旅行販売を始めている（2011年には、[中華人民共和国](../Page/中華人民共和国.md "wikilink")でJTB現地法人が外資系旅行会社として初めて海外旅行販売の許可を得た）。また、現地の法人向けに日本国内と同様の会議・イベント等の[コンサルタント](../Page/コンサルタント.md "wikilink")等も行っている。
 
-日本国内では、パッケージツアー「ルックJTB」（海外旅行）、「エースJTB」（国内旅行）、「旅物語」（メディア型直販商品、海外旅行・国内旅行）に代表される[旅行業](https://ja.wikipedia.org/wiki/旅行業 "wikilink")のほか、[時刻表](../Page/時刻表.md "wikilink")（『JTB時刻表』など）や旅行雑誌「[るるぶ](../Page/るるぶ.md "wikilink")」などの[出版](../Page/出版.md "wikilink")業（現在は[JTBパブリッシング](../Page/JTBパブリッシング.md "wikilink")に分社）をはじめ、[旅行業](https://ja.wikipedia.org/wiki/旅行業 "wikilink")以外にも、[ホテル](../Page/ホテル.md "wikilink")、[不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")、[金融](../Page/金融.md "wikilink")、情報サービスなど様々な事業を統括している。
+日本国内では、パッケージツアー「ルックJTB」（海外旅行）、「エースJTB」（国内旅行）、「旅物語」（メディア型直販商品、海外旅行・国内旅行）に代表される[旅行業](https://ja.wikipedia.org/wiki/旅行業 "wikilink")のほか、[時刻表](../Page/時刻表.md "wikilink")（『JTB時刻表』など）や旅行雑誌「[るるぶ](../Page/るるぶ.md "wikilink")」などの[出版](../Page/出版.md "wikilink")業（現在は[JTBパブリッシング](../Page/JTBパブリッシング.md "wikilink")に分社）をはじめ、[旅行業](https://ja.wikipedia.org/wiki/旅行業 "wikilink")以外にも、[ホテル](../Page/ホテル.md "wikilink")、[不動産](../Page/不動産.md "wikilink")、[金融](../Page/金融.md "wikilink")、情報サービスなど様々な事業を統括している。
 
 近年は旅行業で培ったノウハウによる地域活性化事業、ふるさと納税事業\[1\]、法人向けソリューション事業、ソーシャルビジネス、グローバル事業などを手がけ、業界の枠をこえたM\&Aや事業投資も積極的に行うなど、全体の事業ドメインを旧来の総合旅行業から交流文化事業に転換している。なお、持株会社となった後も旅行業登録（観光庁長官登録旅行業第64号）はされており、[JR](../Page/JR.md "wikilink")の乗車券類委託発売指定はJTB本社が受けている。
 
@@ -118,11 +118,11 @@
 
   - [ジェイアイ傷害火災保険](../Page/ジェイアイ傷害火災保険.md "wikilink")株式会社 ([AIG](https://ja.wikipedia.org/wiki/AIG "wikilink")との合弁会社)
   - JTB旅連事業株式会社
-  - 株式会社J\&J事業創造
-  - 株式会社JCBトラベル
-  - 株式会社J\&Jギフト
-  - 株式会社J\&Jヒューマンソリューションズ
-  - 株式会社J\&J Tax Free
+  - 株式会社J\&J事業創造（[ジェーシービー](../Page/ジェーシービー.md "wikilink")との合弁会社）
+      - 株式会社JCBトラベル
+      - 株式会社J\&Jギフト
+      - 株式会社J\&Jヒューマンソリューションズ
+      - 株式会社J\&J Tax Free
   - 一般財団法人日本健康開発財団
   - [学校法人 国際文化アカデミー](https://ja.wikipedia.org/wiki/JTBトラベル&ホテルカレッジ "wikilink")
   - 株式会社Fun Japan Communications
@@ -288,7 +288,7 @@
   - [大東敏治](../Page/大東敏治.md "wikilink") - [バンカーズパートナー](https://ja.wikipedia.org/wiki/バンカーズパートナー "wikilink")（後の[トラベルバンク](https://ja.wikipedia.org/wiki/トラベルバンク "wikilink")）創業者。
   - [折原一](../Page/折原一.md "wikilink") - 小説家。社員時代には出版関係の仕事を担当。
   - [吉野美奈子](https://ja.wikipedia.org/wiki/吉野美奈子 "wikilink") - 在職中[ローマ](../Page/ローマ.md "wikilink")出張時に[ミケランジェロに感銘](../Page/ミケランジェロ・ブオナローティ.md "wikilink")、美大に通い、退職後渡米し彫刻家になる。
-  - **[梅村みずほ](../Page/梅村みずほ.md "wikilink") - [政治家](../Page/政治家.md "wikilink")。元[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")・[タレント](../Page/タレント.md "wikilink")。[日本維新の会所属の](https://ja.wikipedia.org/wiki/日本維新の会_\(2016-\) "wikilink")[参議院](https://ja.wikipedia.org/wiki/参議院 "wikilink")議員。**
+  - [梅村みずほ](../Page/梅村みずほ.md "wikilink") - [政治家](../Page/政治家.md "wikilink")。元[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")・[タレント](../Page/タレント.md "wikilink")。[日本維新の会所属の](https://ja.wikipedia.org/wiki/日本維新の会_\(2016-\) "wikilink")[参議院](https://ja.wikipedia.org/wiki/参議院 "wikilink")議員。
 
 ## 不祥事
 

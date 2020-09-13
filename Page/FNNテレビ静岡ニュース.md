@@ -60,7 +60,7 @@
 
 ## 昼のニュース
 
-『[FNNスピーク](../Page/FNNスピーク.md "wikilink")』→『[FNNプライムニュース デイズ](https://ja.wikipedia.org/wiki/FNNプライムニュース_デイズ "wikilink")』（月 - 金曜 11:30 - 11:55、土曜・日曜 11:50 - 12:00）番組後半で静岡県内のローカルニュースを放送。
+『[FNNスピーク](../Page/FNNスピーク.md "wikilink")』→『[FNNプライムニュース デイズ](https://ja.wikipedia.org/wiki/FNNプライムニュース_デイズ "wikilink")』→『[FNN Live news days](https://ja.wikipedia.org/wiki/FNN_Live_News_days "wikilink")』（月 - 金曜 11:30 - 11:55、土曜・日曜 11:50 - 12:00）番組後半で静岡県内のローカルニュースを放送。
 
 ## 脚注
 

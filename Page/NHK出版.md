@@ -207,8 +207,8 @@
 
 ### 1980年代
 
-  - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink"):NHKブックス『東亰時代－江戸と東京の間で』（[小木新造](https://ja.wikipedia.org/wiki/小木新造 "wikilink")著）が1980年度毎日出版文化賞を受賞。
-  - 1980年:『東京庶民生活史研究』（[小木新造](https://ja.wikipedia.org/wiki/小木新造 "wikilink")著）が第2回[角川源義賞](https://ja.wikipedia.org/wiki/角川源義賞 "wikilink")を受賞。\[6\]
+  - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink"):NHKブックス『東亰時代－江戸と東京の間で』（[小木新造](../Page/小木新造.md "wikilink")著）が1980年度毎日出版文化賞を受賞。
+  - 1980年:『東京庶民生活史研究』（[小木新造](../Page/小木新造.md "wikilink")著）が第2回[角川源義賞](https://ja.wikipedia.org/wiki/角川源義賞 "wikilink")を受賞。\[6\]
   - 1980年:NHK『[シルクロード 絲綢之路](../Page/NHK特集_シルクロード.md "wikilink")』（NHK取材班他著）が第15回[書店新風会](https://ja.wikipedia.org/wiki/書店新風会 "wikilink")賞を受賞。\[7\]
   - [1981年](../Page/1981年.md "wikilink"):NHKブックス『鉄を生みだした帝国』（[大村幸弘](../Page/大村幸弘.md "wikilink")著）が第2回[講談社ノンフィクション賞](../Page/講談社ノンフィクション賞.md "wikilink")を受賞。\[8\]
   - [1982年](../Page/1982年.md "wikilink"):NHKブックス『イラン人の心』（[岡田恵美子](../Page/岡田恵美子.md "wikilink")著）が第30回日本エッセイスト・クラブ賞を受賞。\[9\]
@@ -249,9 +249,6 @@
   - 2013年:テキスト『[100分de名著](https://ja.wikipedia.org/wiki/100分de名著 "wikilink")』が第5回雑誌大賞特別賞を受賞。
   - 2013年:NHKブックス『詩歌と戦争 白秋と民衆，総力戦への「道」』（[中野敏男](https://ja.wikipedia.org/wiki/中野敏男 "wikilink")著）が第13回[日本詩人クラブ](https://ja.wikipedia.org/wiki/日本詩人クラブ "wikilink")詩界賞を受賞。\[31\]
   - [2014年](../Page/2014年.md "wikilink"):『天、共に在り－アフガニスタン三十年の闘い』（[中村哲](https://ja.wikipedia.org/wiki/中村哲 "wikilink")著）が第1回[城山三郎賞](https://ja.wikipedia.org/wiki/城山三郎賞 "wikilink")および、第4回[梅棹忠夫](../Page/梅棹忠夫.md "wikilink")・山と探検文学賞を受賞。\[32\]\[33\]
-
-<!-- end list -->
-
   - [2015年](../Page/2015年.md "wikilink"):『ゼロ・トゥ・ワン』（[ピーター・ティール](https://ja.wikipedia.org/wiki/ピーター・ティール "wikilink")著）が2015年[ビジネス書大賞](https://ja.wikipedia.org/wiki/ビジネス書大賞 "wikilink")を受賞。\[34\]
   - 2015年:NHKブックス『納豆の起源』（[横山智](https://ja.wikipedia.org/wiki/横山智 "wikilink")著）が第5回[地域研究コンソーシアム賞](https://ja.wikipedia.org/wiki/地域研究コンソーシアム賞 "wikilink")研究作品賞を受賞。。\[35\]
   - [2016年](../Page/2016年.md "wikilink"):NHKブックス『江戸日本の転換点－水田の激増は何をもたらしたか』（[武井弘一](https://ja.wikipedia.org/wiki/武井弘一 "wikilink")著）が第4回[河合隼雄](../Page/河合隼雄.md "wikilink")学芸賞を受賞。\[36\]
@@ -265,14 +262,17 @@
   - [2018年](../Page/2018年.md "wikilink"):テキスト『NHKコンピューター講座』資料一式が2017年度[情報処理技術遺産](https://ja.wikipedia.org/wiki/情報処理技術遺産 "wikilink")に認定。\[44\]
   - [2019年](../Page/2019年.md "wikilink"):NHKブックス『「古今和歌集」の創造力』（鈴木宏子著）が第7回[古代歴史文化賞](https://ja.wikipedia.org/wiki/古代歴史文化賞 "wikilink")大賞を受賞。\[45\]
 
+### 2020年代
+
+  - [2020年](../Page/2020年.md "wikilink"):NHK100分de名著テキスト『[小松左京](../Page/小松左京.md "wikilink")スペシャル』（[宮崎哲弥](https://ja.wikipedia.org/wiki/宮崎哲弥 "wikilink")著）が第51回星雲賞ノンフィクション部門賞を受賞。<ref>[/ 第51回星雲賞発表 長編部門は小川一水『天冥の標』メディア部門に『彼方のアストラ』【受賞者コメント/受賞作リスト掲載】VG+](https://virtualgorillaplus.com/topic/51st-seiun-awards-result/)
+
+</ref>
+
 ## 脚注
 
 ## 関連項目
 
   - [NHKブックス](https://ja.wikipedia.org/wiki/NHKブックス "wikilink")
-
-## 関連人物
-
   - [大矢鞆音](https://ja.wikipedia.org/wiki/大矢鞆音 "wikilink")（美術評論家、元同社取締役美術部長）
   - [河西三省](../Page/河西三省.md "wikilink")（[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")、元同社社長）
 

@@ -695,4 +695,4 @@
   - [菊地成孔の第三インターネット](https://www.kikuchinaruyoshi.net/)
   - [レーベルサイト](https://www.universal-music.co.jp/dcprg/)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:ビッグ・バンド](https://ja.wikipedia.org/wiki/Category:ビッグ・バンド "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:1999年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に結成した音楽グループ "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:ビッグ・バンド](https://ja.wikipedia.org/wiki/Category:ビッグ・バンド "wikilink") [Category:10人組以上の音楽グループ](https://ja.wikipedia.org/wiki/Category:10人組以上の音楽グループ "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:1999年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に結成した音楽グループ "wikilink")

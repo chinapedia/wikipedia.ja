@@ -91,7 +91,7 @@
   - 7月1日 - この日をもって増田ジゴロウとペパーが出演終了（これについては[増田ジゴロウ\#『saku saku』降板問題を参照](https://ja.wikipedia.org/wiki/増田ジゴロウ#『saku_saku』降板問題 "wikilink")）。
   - 7月4日 - アパートの新管理人「**白井ヴィンセント**」が登場。また、あかぎあい時代・木村カエラ時代初期に出演していた「イチノセさん」と「ケンタロウ」も再び登場することになった。そして、[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")（BSN）でも放送開始。
   - 8月9日 - ご意見番こと金田真人ディレクターが急逝。これにより生前に収録済みだった8月19日放送分をもってご意見番の出演終了。同時にご意見番が声を担当していた「イチノセさん」と「ケンタロウ」も出演終了した\[2\]。
-  - 10月 - [福島テレビ](../Page/福島テレビ.md "wikilink")（FTV）、[山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")（RSK）、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（RKK）で放送が開始されたが、北海道テレビ放送及び名古屋テレビ放送での放送が打ち切られた。
+  - 10月 - [福島テレビ](../Page/福島テレビ.md "wikilink")（FTV）、[山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")（RSK）、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（RKK）で放送が開始されたが、北海道テレビ放送及び名古屋テレビ放送での放送が打ち切られた。
   - 12月16日 - 「人事異動」のためカーリー田中の「出演（?）終了」という形で卒業。最初で最後の画面への登場（後姿のみ）を果たした。
 
 <!-- end list -->
@@ -594,7 +594,7 @@
   - WAKU<sup>2</sup> DOKI<sup>2</sup> 回れっ\!ルーレット\!ぐるぐる回れっ\!（月曜2および水曜2・一度だけ金曜2に行われたこともある・2005年10月より月曜2のみ）
     視聴者や出演者が用意した3つのトークテーマのうち、ルーレットを顔に持つ男によって選ばれた1つを基にトークを行う。2007年4月30日に、ヴィンセントによって終了宣言がなされ、この週にて打ち切りとなる（国際手配中の「ルーレットを顔に持つ男」が手配から逃れるため降板という設定になっている）。
   - クイズアムステルDAM（水曜2または3）
-    クイズの人が登場。メロDAMの着メロを利用した4択クイズコーナー。不正解だと[ノニ](https://ja.wikipedia.org/wiki/ノニ "wikilink")ジュースや[アロエ](https://ja.wikipedia.org/wiki/アロエ "wikilink")ジュースなどの原液（体に良いがとても不味い）を飲まされるが、全員正解の場合はクイズの人が自ら飲まなくてはならない。タイトルコールはゲッシーが担当。回答者はヴィンセントと中村優。ゲストを迎えている週はゲストも回答者に加えて行われることが多かった。[第一興商](../Page/第一興商.md "wikilink")スポンサー降板に伴い、2007年7月4日に終了。ちなみに終了以降はクイズの人の番組登場回数が極端に減り、数ヶ月番組に一切登場しなくなった。
+    クイズの人が登場。メロDAMの着メロを利用した4択クイズコーナー。不正解だと[ノニ](https://ja.wikipedia.org/wiki/ノニ "wikilink")ジュースや[アロエ](../Page/アロエ.md "wikilink")ジュースなどの原液（体に良いがとても不味い）を飲まされるが、全員正解の場合はクイズの人が自ら飲まなくてはならない。タイトルコールはゲッシーが担当。回答者はヴィンセントと中村優。ゲストを迎えている週はゲストも回答者に加えて行われることが多かった。[第一興商](../Page/第一興商.md "wikilink")スポンサー降板に伴い、2007年7月4日に終了。ちなみに終了以降はクイズの人の番組登場回数が極端に減り、数ヶ月番組に一切登場しなくなった。
 
 <!-- end list -->
 
@@ -1420,16 +1420,16 @@
 
 2015年10月現在、レギュラー（毎週）放送中の局は以下の通りである。
 
-| 放送対象地域                                                | 放送局                                                             | 放送曜日と時間                    | 系列                                                    | 開始日           | 備考  |
-| ----------------------------------------------------- | --------------------------------------------------------------- | -------------------------- | ----------------------------------------------------- | ------------- | --- |
-| [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | [テレビ神奈川](../Page/テレビ神奈川.md "wikilink") (tvk)                    | 月 - 金曜 7:00 - 7:30         | [JAITS](../Page/全国独立放送協議会.md "wikilink")              | 2000年10月 -    | 本放送 |
-| 月 - 金曜 23:30 - 翌0:00                                  | 当日分の再放送                                                         |                            |                                                       |               |     |
-| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")   | [札幌テレビ](../Page/札幌テレビ放送.md "wikilink") (STV)                    | 水曜 2:04 - 2:34（火曜深夜）       | [日本テレビ系列](../Page/日本テレビネットワーク協議会.md "wikilink")       | 2009年10月      |     |
-| [埼玉県](../Page/埼玉県.md "wikilink")                      | [テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink") (TVS)   | 火曜 2:30 - 3:00（月曜深夜）\[35\] | JAITS                                                 | 2009年4月       |     |
-| [千葉県](../Page/千葉県.md "wikilink")                      | [千葉テレビ](../Page/千葉テレビ放送.md "wikilink") (CTC)                    | 火曜 1:30 - 2:00（月曜深夜）       | 2009年10月\[36\]                                        | 3日遅れ          |     |
-| [三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")   | [三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink") (MTV) | 土曜 0:50 - 1:20（金曜深夜）       | 2010年4月\[37\]                                         |               |     |
-| [兵庫県](../Page/兵庫県.md "wikilink")                      | [サンテレビ](../Page/サンテレビジョン.md "wikilink") (SUN)                   | 金曜 18:30 - 19:00\[38\]     | 2009年10月\[39\]                                        |               |     |
-| [広島県](../Page/広島県.md "wikilink")                      | [中国放送](../Page/中国放送.md "wikilink") (RCC)                        | 水曜 1:58 - 2:28（火曜深夜）\[40\] | [TBS系列](https://ja.wikipedia.org/wiki/JNN "wikilink") | 2012年4月\[41\] |     |
+| 放送対象地域                                                | 放送局                                                             | 放送曜日と時間                    | 系列                                              | 開始日           | 備考  |
+| ----------------------------------------------------- | --------------------------------------------------------------- | -------------------------- | ----------------------------------------------- | ------------- | --- |
+| [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | [テレビ神奈川](../Page/テレビ神奈川.md "wikilink") (tvk)                    | 月 - 金曜 7:00 - 7:30         | [JAITS](../Page/全国独立放送協議会.md "wikilink")        | 2000年10月 -    | 本放送 |
+| 月 - 金曜 23:30 - 翌0:00                                  | 当日分の再放送                                                         |                            |                                                 |               |     |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")   | [札幌テレビ](../Page/札幌テレビ放送.md "wikilink") (STV)                    | 水曜 2:04 - 2:34（火曜深夜）       | [日本テレビ系列](../Page/日本テレビネットワーク協議会.md "wikilink") | 2009年10月      |     |
+| [埼玉県](../Page/埼玉県.md "wikilink")                      | [テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink") (TVS)   | 火曜 2:30 - 3:00（月曜深夜）\[35\] | JAITS                                           | 2009年4月       |     |
+| [千葉県](../Page/千葉県.md "wikilink")                      | [千葉テレビ](../Page/千葉テレビ放送.md "wikilink") (CTC)                    | 火曜 1:30 - 2:00（月曜深夜）       | 2009年10月\[36\]                                  | 3日遅れ          |     |
+| [三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")   | [三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink") (MTV) | 土曜 0:50 - 1:20（金曜深夜）       | 2010年4月\[37\]                                   |               |     |
+| [兵庫県](../Page/兵庫県.md "wikilink")                      | [サンテレビ](../Page/サンテレビジョン.md "wikilink") (SUN)                   | 金曜 18:30 - 19:00\[38\]     | 2009年10月\[39\]                                  |               |     |
+| [広島県](../Page/広島県.md "wikilink")                      | [中国放送](../Page/中国放送.md "wikilink") (RCC)                        | 水曜 1:58 - 2:28（火曜深夜）\[40\] | [TBS系列](../Page/ジャパン・ニュース・ネットワーク.md "wikilink") | 2012年4月\[41\] |     |
 
 tvkでの再放送は、2004年3月最終週までは17:00から、2007年3月最終週までは0:05から、2009年3月最終週までは23:30から、2010年3月最終週までは0:00からだった。2010年春の番組改編で、2010年4月5日から再放送が30分繰り上がり現在の23:30 - 翌0:00の放送になっている。
 
@@ -1441,24 +1441,132 @@ tvk以外の局では[金曜日](../Page/金曜日.md "wikilink")放送分をネ
 
 ### 過去のネット局
 
-| 地域                                                  | 放送局                                                           | 放送曜日と時間                           | 系列                                                      | 放送期間                  |
-| --------------------------------------------------- | ------------------------------------------------------------- | --------------------------------- | ------------------------------------------------------- | --------------------- |
-| 北海道                                                 | [北海道テレビ](../Page/北海道テレビ放送.md "wikilink") (HTB)                | 金曜 1:45 - 2:15（木曜深夜）              | [テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink")     | 2003年1月 - 2005年9月     |
-| [中京広域圏](../Page/広域放送.md "wikilink")                 | [メ〜テレ](../Page/名古屋テレビ放送.md "wikilink") (NBN)                  | 土曜 2:20 - 2:50（金曜深夜）              | 2004年4月 - 2005年9月                                       |                       |
-| [山形県](../Page/山形県.md "wikilink")                    | [山形テレビ](../Page/山形テレビ.md "wikilink") (YTS)                    | 水曜 1:15 - 1:45（火曜深夜）              | 2009年10月 - 2010年12月                                     |                       |
-| [新潟県](../Page/新潟県.md "wikilink")                    | [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink") (BSN)   | 土曜 1:25 - 1:55（金曜深夜）              | TBS系列                                                   | 2005年7月 - 2006年3月     |
-| [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink") | [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink") (MRO)   |                                   | 2006年10月 - 2007年9月                                      |                       |
-| [鹿児島県](../Page/鹿児島県.md "wikilink")                  | [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink") (MBC) | 金曜 1:00 - 1:30（木曜深夜）              | 2007年4月 - 2007年12月                                      |                       |
-| [岩手県](../Page/岩手県.md "wikilink")                    | [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")                      | 日曜 1:40 - 2:10（土曜深夜）              | 2006年1月 - 2008年3月                                       |                       |
-| [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink") | [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink") (RKK)   | 火曜 1:25 - 1:55（月曜深夜）              | 2005年10月 - 2008年8月                                      |                       |
-| [京都府](../Page/京都府.md "wikilink")                    | [KBS京都](../Page/京都放送.md "wikilink") (KBS)                     | 水曜 23:30 - 翌0:00                  | JAITS                                                   | 2006年10月 - 2008年9月    |
-| [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink") | [とちぎテレビ](../Page/とちぎテレビ.md "wikilink") (GYT)                  | 金曜 22:30 - 23:00                  | 2005年6月 - 2008年10月                                      |                       |
-| [岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink")         | [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink") (RSK)   | 土曜 1:45 - 2:15（金曜深夜）              | TBS系列                                                   | 2005年10月 - 2009年3月    |
-| [福島県](../Page/福島県.md "wikilink")                    | [福島テレビ](../Page/福島テレビ.md "wikilink") (FTV)                    | 水曜 0:50 - 1:20（火曜深夜）              | [フジテレビ系列](../Page/フジネットワーク.md "wikilink")               | 2005年10月 - 2010年3月    |
-| 日本全域                                                | [日テレプラス](https://ja.wikipedia.org/wiki/日テレプラス "wikilink")     | 水曜 1:30 - 1:55（火曜深夜）              | [スカパー\!](../Page/スカパー!プレミアムサービス.md "wikilink")          | 2008年10月 - 2010年10月   |
-| [岐阜県](../Page/岐阜県.md "wikilink")                    | [岐阜放送](../Page/岐阜放送.md "wikilink") (GBS)                      | 金曜 1:45 - 2:15（木曜深夜）              | JAITS                                                   | 2007年4月 - 2011年3月     |
-| [秋田県](../Page/秋田県.md "wikilink")                    | [秋田朝日放送](../Page/秋田朝日放送.md "wikilink") (AAB)                  | 火曜 1:45 - 2:15（月曜深夜）\[44\]        | テレビ朝日系列                                                 | 2009年4月 - 2011年10月11日 |
-| [福岡県](../Page/福岡県.md "wikilink")                    | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                      | 月曜 0:35 - 1:05（日曜深夜） \[45\]\[46\] | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink") | 2003年4月 - 2016年12月    |
+<table>
+<thead>
+<tr class="header">
+<th><p>地域</p></th>
+<th><p>放送局</p></th>
+<th><p>放送曜日と時間</p></th>
+<th><p>系列</p></th>
+<th><p>放送期間</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>北海道</p></td>
+<td><p><a href="../Page/北海道テレビ放送.md" title="wikilink">北海道テレビ</a> (HTB)</p></td>
+<td><p>金曜 1:45 - 2:15（木曜深夜）</p></td>
+<td><p><a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">テレビ朝日系列</a></p></td>
+<td><p>2003年1月 - 2005年9月</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/広域放送.md" title="wikilink">中京広域圏</a></p></td>
+<td><p><a href="../Page/名古屋テレビ放送.md" title="wikilink">メ〜テレ</a> (NBN)</p></td>
+<td><p>土曜 2:20 - 2:50（金曜深夜）</p></td>
+<td><p>2004年4月 - 2005年9月</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形テレビ.md" title="wikilink">山形テレビ</a> (YTS)</p></td>
+<td><p>水曜 1:15 - 1:45（火曜深夜）</p></td>
+<td><p>2009年10月 - 2010年12月</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/新潟放送" title="wikilink">新潟放送</a> (BSN)</p></td>
+<td><p>土曜 1:25 - 1:55（金曜深夜）</p></td>
+<td><p>TBS系列</p></td>
+<td><p>2005年7月 - 2006年3月</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/北陸放送" title="wikilink">北陸放送</a> (MRO)</p></td>
+<td></td>
+<td><p>2006年10月 - 2007年9月</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/南日本放送" title="wikilink">南日本放送</a> (MBC)</p></td>
+<td><p>金曜 1:00 - 1:30（木曜深夜）</p></td>
+<td><p>2007年4月 - 2007年12月</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
+<td><p><a href="../Page/IBC岩手放送.md" title="wikilink">IBC岩手放送</a></p></td>
+<td><p>日曜 1:40 - 2:10（土曜深夜）</p></td>
+<td><p>2006年1月 - 2008年3月</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a> (RKK)</p></td>
+<td><p>火曜 1:25 - 1:55（月曜深夜）</p></td>
+<td><p>2005年10月 - 2008年8月</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/京都府.md" title="wikilink">京都府</a></p></td>
+<td><p><a href="../Page/京都放送.md" title="wikilink">KBS京都</a> (KBS)</p></td>
+<td><p>水曜 23:30 - 翌0:00</p></td>
+<td><p>JAITS</p></td>
+<td><p>2006年10月 - 2008年9月</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/栃木県" title="wikilink">栃木県</a></p></td>
+<td><p><a href="../Page/とちぎテレビ.md" title="wikilink">とちぎテレビ</a> (GYT)</p></td>
+<td><p>金曜 22:30 - 23:00</p></td>
+<td><p>2005年6月 - 2008年10月</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">岡山県・香川県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/RSKテレビ" title="wikilink">山陽放送</a> (RSK)</p></td>
+<td><p>土曜 1:45 - 2:15（金曜深夜）</p></td>
+<td><p>TBS系列</p></td>
+<td><p>2005年10月 - 2009年3月</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>
+<td><p><a href="../Page/福島テレビ.md" title="wikilink">福島テレビ</a> (FTV)</p></td>
+<td><p>水曜 0:50 - 1:20（火曜深夜）</p></td>
+<td><p><a href="../Page/フジネットワーク.md" title="wikilink">フジテレビ系列</a></p></td>
+<td><p>2005年10月 - 2010年3月</p></td>
+</tr>
+<tr class="odd">
+<td><p>日本全域</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/日テレプラス" title="wikilink">日テレプラス</a></p></td>
+<td><p>水曜 1:30 - 1:55（火曜深夜）</p></td>
+<td><p><a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">日本テレビ系列</a><br />
+CS放送</p></td>
+<td><p>2008年10月 - 2010年10月</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/岐阜県.md" title="wikilink">岐阜県</a></p></td>
+<td><p><a href="../Page/岐阜放送.md" title="wikilink">岐阜放送</a> (GBS)</p></td>
+<td><p>金曜 1:45 - 2:15（木曜深夜）</p></td>
+<td><p>JAITS</p></td>
+<td><p>2007年4月 - 2011年3月</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
+<td><p><a href="../Page/秋田朝日放送.md" title="wikilink">秋田朝日放送</a> (AAB)</p></td>
+<td><p>火曜 1:45 - 2:15（月曜深夜）[44]</p></td>
+<td><p>テレビ朝日系列</p></td>
+<td><p>2009年4月 - 2011年10月11日</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
+<td><p>月曜 0:35 - 1:05（日曜深夜） [45][46]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/TXN" title="wikilink">テレビ東京系列</a></p></td>
+<td><p>2003年4月 - 2016年12月</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 関連商品
 

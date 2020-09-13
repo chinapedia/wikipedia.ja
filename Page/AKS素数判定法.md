@@ -119,6 +119,5 @@ AKSアルゴリズムの時間的計算量は高々 \(\tilde{O}(\log(n)^{7.5})\)
 
 <!-- end list -->
 
-  - [原著論文の日本語による解説のサイト](http://www.h4.dion.ne.jp/~a00/ms_project_jp.html)
-
+  -
 [Category:数学に関する記事](https://ja.wikipedia.org/wiki/Category:数学に関する記事 "wikilink") [Category:数論アルゴリズム](https://ja.wikipedia.org/wiki/Category:数論アルゴリズム "wikilink") [Category:素数](https://ja.wikipedia.org/wiki/Category:素数 "wikilink") [Category:有限体](https://ja.wikipedia.org/wiki/Category:有限体 "wikilink")

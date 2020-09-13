@@ -1,9 +1,7 @@
 > この記事は[木幡駅 \(JR西日本\)](https://ja.wikipedia.org/wiki/木幡駅_\(JR西日本\))から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:NEC_0112.jpg "wikilink")
-
-**木幡駅**（こはたえき）は、[京都府](../Page/京都府.md "wikilink")[宇治市](../Page/宇治市.md "wikilink")木幡大瀬戸にある、[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）[奈良線](../Page/奈良線.md "wikilink")の[駅である](../Page/鉄道駅.md "wikilink")。駅番号は**JR-D07**。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:NEC_0112.jpg "wikilink") **木幡駅**（こはたえき）は、[京都府](../Page/京都府.md "wikilink")[宇治市](../Page/宇治市.md "wikilink")木幡大瀬戸にある、[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）[奈良線](../Page/奈良線.md "wikilink")の[駅である](../Page/鉄道駅.md "wikilink")。駅番号は**JR-D07**。
 
 JRの駅名は「こ**は**た」であるが、近隣にある[京阪](../Page/京阪電気鉄道.md "wikilink")[宇治線の](../Page/京阪宇治線.md "wikilink")[木幡駅は](../Page/木幡駅_\(京阪\).md "wikilink")「こ**わ**た」と、それぞれ読み方が異なる。また、駅周辺の一部地名には「こ**ば**た」と読むものもある。
 

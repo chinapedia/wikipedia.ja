@@ -7,15 +7,15 @@
 
 ## 概要
 
-日本では、[トイレ](https://ja.wikipedia.org/wiki/トイレ "wikilink")、[洗面器](../Page/洗面器.md "wikilink")などの衛生陶器で約6割のシェアがあり第1位である。[ユニットバス](../Page/ユニットバス.md "wikilink")はTOTOが最初に発売したものである。
+[thumbにバリアフリー化推進功労者内閣総理大臣表彰を受賞](https://ja.wikipedia.org/wiki/ファイル:Products_of_Toyo_Toki_Co_Ltd_200601_2.jpg "wikilink")\]\] 日本では、[トイレ](https://ja.wikipedia.org/wiki/トイレ "wikilink")、[洗面器](../Page/洗面器.md "wikilink")などの衛生陶器で約6割のシェアがあり第1位である。[ユニットバス](../Page/ユニットバス.md "wikilink")はTOTOが最初に発売したものである。
 
-技術面では、[ウォシュレット](../Page/ウォシュレット.md "wikilink")（[温水洗浄便座](../Page/温水洗浄便座.md "wikilink")）のほかにも、便器の汚れを効果的に落とす「トルネード洗浄」、防汚技術の「セフィオンテクト」、お湯がさめにくい「魔法びん浴槽」など意欲的に取り組み、各賞受賞商品も数多い。
+技術面では、[ウォシュレット](../Page/ウォシュレット.md "wikilink")（[温水洗浄便座](../Page/温水洗浄便座.md "wikilink")）のほかにも、便器の汚れを効果的に落とす「トルネード洗浄」、防汚技術の「[セフィオンテクト](https://ja.wikipedia.org/wiki/セフィオンテクト "wikilink")」、お湯がさめにくい「魔法びん浴槽」など意欲的に取り組み、各賞受賞商品も数多い。
 
 [バリアフリー](../Page/バリアフリー.md "wikilink")や[ユニバーサルデザイン](../Page/ユニバーサルデザイン.md "wikilink")についての意識は国内企業の中でも高く\[1\]、様々な商品を投入するとともに、ウェブサイト上でも広く展開をしている。また、[障害者](../Page/障害者.md "wikilink")雇用のために、北九州市などと共同で[第三セクター](../Page/第三セクター.md "wikilink")の子会社（[特例子会社](../Page/特例子会社.md "wikilink")）サンアクアトートーを設立して、社会進出の手助けも行っている。
 
 [リモデル](https://ja.wikipedia.org/wiki/リモデル "wikilink")事業にも取り組み、この分野では[大建工業](../Page/大建工業.md "wikilink")、[YKK APの両社と提携しており](../Page/YKK_AP.md "wikilink")、3社共同のショールームもある。ライバルである[INAX](../Page/INAX.md "wikilink")が[トステム](../Page/トステム.md "wikilink")と経営統合して住生活グループとなったこと（現在は[LIXILグループ](../Page/LIXILグループ.md "wikilink")および[LIXIL](https://ja.wikipedia.org/wiki/LIXIL "wikilink")、INAXはその1ブランドとなった）に対抗したものである。
 
-主な市場は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")。そして[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[中国](../Page/中華人民共和国.md "wikilink")。日本は[官製不況](https://ja.wikipedia.org/wiki/官製不況 "wikilink")（2007年後期の[建築基準法](../Page/建築基準法.md "wikilink")改正に端を発した、[住宅](https://ja.wikipedia.org/wiki/住宅 "wikilink")・[マンション](https://ja.wikipedia.org/wiki/マンション "wikilink")の着工件数の激減と、[年金記録問題](../Page/年金記録問題.md "wikilink")により老後への不安が増加したことによる[リフォーム](../Page/リフォーム.md "wikilink")件数の減少）により販売状況が思わしくないことから、[アジア](../Page/アジア.md "wikilink")、[欧州への販売を強化している](../Page/ヨーロッパ.md "wikilink")\[2\]。
+主な市場は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")。そして[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[中国](../Page/中華人民共和国.md "wikilink")。日本は[建基法不況](../Page/建基法不況.md "wikilink")（2007年後期の[建築基準法](../Page/建築基準法.md "wikilink")改正に端を発した、[住宅](https://ja.wikipedia.org/wiki/住宅 "wikilink")・[マンション](https://ja.wikipedia.org/wiki/マンション "wikilink")の着工件数の激減と、[年金記録問題](../Page/年金記録問題.md "wikilink")により老後への不安が増加したことによる[リフォーム](../Page/リフォーム.md "wikilink")件数の減少）により販売状況が思わしくないことから、[アジア](../Page/アジア.md "wikilink")、[欧州への販売を強化している](../Page/ヨーロッパ.md "wikilink")\[2\]。
 
 ショールームは全国に104箇所（2012年12月現在）ある。出版部門も持っており、建築関連の書籍を多数発行する（INAXも同様の事業を（現在のLIXIL出版にて）行っている。）他、少数だが水回りのネタを扱った漫画も発行していた（内容は現場作業者向けのマニュアルに近い）。東京・[青山には](../Page/青山_\(東京都港区\).md "wikilink")「ギャラリー・間」、東京・大阪・福岡にはTOTOテクニカルセンターがある（予約制）。
 
@@ -26,9 +26,7 @@
 
 ## 沿革
 
-[Toyotoki_C63A.jpg](https://ja.wikipedia.org/wiki/File:Toyotoki_C63A.jpg "fig:Toyotoki_C63A.jpg")
-
-日本陶器合名会社（現:[ノリタケカンパニーリミテド](../Page/ノリタケカンパニーリミテド.md "wikilink")）の製陶研究所が母体となり、[1917年](../Page/1917年.md "wikilink")に**東洋陶器株式会社**として設立され、[森村財閥](https://ja.wikipedia.org/wiki/森村財閥 "wikilink")の一角を担った。豊富な[石炭](../Page/石炭.md "wikilink")を産出する[筑豊炭田](../Page/筑豊炭田.md "wikilink")に近いなど原料の調達に有利な[福岡県](../Page/福岡県.md "wikilink")[企救郡](../Page/企救郡.md "wikilink")（現：[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")）に本拠地を置き、現在に至る。初めて水洗便器の本格的国産化を実現したのも同社である。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Toyotoki_C63A.jpg "wikilink") 日本陶器合名会社（現:[ノリタケカンパニーリミテド](../Page/ノリタケカンパニーリミテド.md "wikilink")）の製陶研究所が母体となり、[1917年](../Page/1917年.md "wikilink")に**東洋陶器株式会社**として設立され、[森村財閥](https://ja.wikipedia.org/wiki/森村財閥 "wikilink")の一角を担った。豊富な[石炭](../Page/石炭.md "wikilink")を産出する[筑豊炭田](../Page/筑豊炭田.md "wikilink")に近いなど原料の調達に有利な[福岡県](../Page/福岡県.md "wikilink")[企救郡](../Page/企救郡.md "wikilink")（現：[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")）に本拠地を置き、現在に至る。初めて水洗便器の本格的国産化を実現したのも同社である。
 
 なお、創業から[1960年代](../Page/1960年代.md "wikilink")までは[食器](../Page/食器.md "wikilink")も製造していた。特に[瑠璃色](../Page/瑠璃色.md "wikilink")の色付け技術を得意としていた。現在のロゴマークの色はこの瑠璃色を採用している。
 
@@ -58,9 +56,7 @@
 
 ### 昭和・平成期の東洋陶器、東陶機器・TOTOへの商号変更
 
-[C75+Calmic.jpg](https://ja.wikipedia.org/wiki/File:C75+Calmic.jpg "fig:C75+Calmic.jpg")給水用[和式便器](../Page/便器.md "wikilink")\]\]
-
-[1962年](../Page/1962年.md "wikilink")、商品部門の集約のため、それまで商品ごとに分別されていたロゴを食器用と同じ[筆記体](../Page/筆記体.md "wikilink")の「Toyotoki」ロゴに統一。
+[thumb給水用](https://ja.wikipedia.org/wiki/ファイル:C75+Calmic.jpg "wikilink")[和式便器](../Page/便器.md "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Products_of_Toyo_Toki_Co_Ltd_200601_1.jpg "wikilink") [1962年](../Page/1962年.md "wikilink")、商品部門の集約のため、それまで商品ごとに分別されていたロゴを食器用と同じ[筆記体](../Page/筆記体.md "wikilink")の「Toyotoki」ロゴに統一。
 
 [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")、住宅の近代化などにより“本業”の衛生陶器・水栓等で十分に稼げるようになったことで、食器生産を終了。また、略称の「東陶」が浸透したことなどから、現在の**TOTO**ロゴの使用を開始。翌[1970年](../Page/1970年.md "wikilink")、食器事業から完全に撤退し、“本業”に事業集約することを明確にするため、**東陶機器株式会社**へ商号を変更した（略称の**「TOTO」**は社名呼称として使用）。福岡県は全国的に見ても渇水の常襲地帯の一つとして知られ、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に発生した[福岡大渇水を契機として](../Page/昭和53-54年福岡市渇水.md "wikilink")、[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")が節水条例を制定したことに対応し、節水型トイレを開発。以後、改良を重ねており、現在は節水型トイレが標準商品となっている。
 
@@ -88,7 +84,7 @@ TOTOの創立100周年にあたる[2017年](../Page/2017年.md "wikilink")まで
 
 ## 主な商品
 
-[Calmic-3.jpg](https://ja.wikipedia.org/wiki/File:Calmic-3.jpg "fig:Calmic-3.jpg")一体型便器　『ネオレスト』\]\] [TOTO_C755U.jpg](https://ja.wikipedia.org/wiki/File:TOTO_C755U.jpg "fig:TOTO_C755U.jpg") C755U\]\]
+[thumb一体型便器](https://ja.wikipedia.org/wiki/ファイル:Calmic-3.jpg "wikilink")　『ネオレスト』\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:TOTO_C755U.jpg "wikilink") C755U\]\]
 
   - [トイレ](../Page/便所.md "wikilink")
       - [ウォシュレット](../Page/ウォシュレット.md "wikilink")一体型便器
@@ -103,59 +99,32 @@ TOTOの創立100周年にあたる[2017年](../Page/2017年.md "wikilink")まで
 
 ## グループ会社
 
-  - [TOTOウォシュレットテクノ](https://ja.wikipedia.org/wiki/TOTOウォシュレットテクノ "wikilink") 　ウォシュレット等の製造
-  - [TOTOマテリア](https://ja.wikipedia.org/wiki/TOTOマテリア "wikilink")　タイル製品の製造・販売
-  - [サンアクアTOTO](https://ja.wikipedia.org/wiki/サンアクアTOTO "wikilink")　水栓金具等の製造・販売
-  - [TOTOファインセラミックス](https://ja.wikipedia.org/wiki/TOTOファインセラミックス "wikilink")　ニューセラミックス商品の製造
-  - [TOTOプラテック](https://ja.wikipedia.org/wiki/TOTOプラテック "wikilink")　マーブライトカウンター、プラスチック浴槽の製造
-  - [TOTOアクアエンジ](https://ja.wikipedia.org/wiki/TOTOハイリビング "wikilink")　システムキッチン・ユニットバスルームの製造・販売、オフィス等のトイレリニューアル
-  - [TOTOオキツモコーティングス](https://ja.wikipedia.org/wiki/TOTOオキツモコーティングス "wikilink")　塗料及び有機・無機・金属材料に塗布するコート材の製造
-  - [TOTOサニテクノ](https://ja.wikipedia.org/wiki/TOTOサニテクノ "wikilink")　衛生陶器の製造・販売
-  - TOTOハイリビング　システムキッチン、洗面化粧台の製造
-  - [TOTOプラテクノ](http://tpt.toto-group.jp/)　便座、プラスチックゴム成形部品の製造・販売
+  - [TOTOウォシュレットテクノ](https://ja.wikipedia.org/wiki/TOTOウォシュレットテクノ "wikilink") - ウォシュレット等の製造
+  - [TOTOマテリア](https://ja.wikipedia.org/wiki/TOTOマテリア "wikilink") - タイル製品の製造・販売
+  - [サンアクアTOTO](https://ja.wikipedia.org/wiki/サンアクアTOTO "wikilink") - 水栓金具等の製造・販売
+  - [TOTOファインセラミックス](https://ja.wikipedia.org/wiki/TOTOファインセラミックス "wikilink") - ニューセラミックス商品の製造
+  - [TOTOプラテック](https://ja.wikipedia.org/wiki/TOTOプラテック "wikilink") - マーブライトカウンター、プラスチック浴槽の製造
+  - [TOTOアクアエンジ](https://ja.wikipedia.org/wiki/TOTOハイリビング "wikilink") - システムキッチン・ユニットバスルームの製造・販売、オフィス等のトイレリニューアル
+  - [TOTOオキツモコーティングス](https://ja.wikipedia.org/wiki/TOTOオキツモコーティングス "wikilink") - 塗料及び有機・無機・金属材料に塗布するコート材の製造
+  - [TOTOサニテクノ](https://ja.wikipedia.org/wiki/TOTOサニテクノ "wikilink") - 衛生陶器の製造・販売
+  - TOTOハイリビング - システムキッチン、洗面化粧台の製造
+  - [TOTOプラテクノ](http://tpt.toto-group.jp/) - 便座、プラスチックゴム成形部品の製造・販売
 
 ## TOTO歴史資料館
 
-[C75_(1).jpg](https://ja.wikipedia.org/wiki/File:C75_\(1\).jpg "fig:C75_(1).jpg")給水用[和式便器](../Page/便器.md "wikilink")\]\] [2007年](../Page/2007年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")、古い製品・カタログなどの資料の保存および、それらを一般公開するための施設として、本社敷地内に**TOTO歴史資料館**をオープンした。 [2015年](../Page/2015年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink")、TOTOミュージアムとしてオープン。（現在のTOTO歴史資料館および北九州ショールーム、研修センター、ホールなどを集約。ショールームの展示スペースは現在の約1.4倍、またTOTOミュージアム（旧歴史資料館）の展示スペースは、現在の約4倍に。TOTOミュージアム（旧歴史資料館）には今回新たに1964年、 ホテルニューオータニに納入した日本初となるユニットバスルームの展示も予定。）
+[thumb給水用](https://ja.wikipedia.org/wiki/ファイル:C75_\(1\).jpg "wikilink")[和式便器](../Page/便器.md "wikilink")\]\] [2007年](../Page/2007年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")、古い製品・カタログなどの資料の保存および、それらを一般公開するための施設として、本社敷地内に**TOTO歴史資料館**をオープンした。 [2015年](../Page/2015年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink")、TOTOミュージアムとしてオープン。（現在のTOTO歴史資料館および北九州ショールーム、研修センター、ホールなどを集約。ショールームの展示スペースは現在の約1.4倍、またTOTOミュージアム（旧歴史資料館）の展示スペースは、現在の約4倍に。TOTOミュージアム（旧歴史資料館）には今回新たに1964年、 ホテルニューオータニに納入した日本初となるユニットバスルームの展示も予定。）
 
   - 所在地
-
-<!-- end list -->
-
-  - 福岡県北九州市小倉北区中島町2-1-1（本社敷地内）
-
-<!-- end list -->
-
+    福岡県北九州市小倉北区中島町2-1-1（本社敷地内）
   - 開館時間
-
-<!-- end list -->
-
-  - 10:00-17:00（入館は16:30まで）
-
-<!-- end list -->
-
+    10:00-17:00（入館は16:30まで）
   - 入館料
-
-<!-- end list -->
-
-  - 無料
-
-<!-- end list -->
-
+    無料
   - 休館日
-
-<!-- end list -->
-
-  - 月曜日、年末年始、夏期休暇
-
-<!-- end list -->
-
+    月曜日、年末年始、夏期休暇
   - 施設内容
-
-<!-- end list -->
-
-  - 1階展示フロア:大正-昭和初期の衛生陶器や初代ウォシュレット、著名物件で実際に使用された器具を展示。
-  - 2階展示フロア:[1918年](../Page/1918年.md "wikilink")（大正7年）から[1970年](../Page/1970年.md "wikilink")（昭和45年）まで製造・販売された東洋陶器製の食器や花瓶、灰皿等などを展示。
+    1階展示フロア：[大正](../Page/大正.md "wikilink")から[昭和](../Page/昭和.md "wikilink")初期の衛生陶器や初代ウォシュレット、著名物件で実際に使用された器具を展示。
+    2階展示フロア：1918年（大正7年）から1970年（昭和45年）まで製造・販売された東洋陶器製の食器や花瓶、灰皿等などを展示。
 
 ## 文化・スポーツ
 
@@ -165,13 +134,13 @@ TOTOの創立100周年にあたる[2017年](../Page/2017年.md "wikilink")まで
 
 また社内には[1986年](../Page/1986年.md "wikilink")に[陸上競技](../Page/陸上競技.md "wikilink")部を創部、現在[2014年アジア競技大会](../Page/2014年アジア競技大会.md "wikilink")女子[マラソン](../Page/マラソン.md "wikilink")日本代表の[早川英里](https://ja.wikipedia.org/wiki/早川英里 "wikilink")等が所属している。さらに地元で行われる、[選抜女子駅伝北九州大会](https://ja.wikipedia.org/wiki/選抜女子駅伝北九州大会 "wikilink")のメインスポンサーも務めている。他種目では、日本プロサッカーリーグ所属[ギラヴァンツ北九州](../Page/ギラヴァンツ北九州.md "wikilink")のユニフォームスポンサーである。
 
-2007年、創立90周年を記念し、[松任谷由実](../Page/松任谷由実.md "wikilink")ライブツアー「シャングリラ」に特別協賛した。正式タイトルは「TOTO 90th anniversary　ユーミンスペクタクル　シャングリラIII」。
+2007年、創立90周年を記念し、[松任谷由実](../Page/松任谷由実.md "wikilink")ライブツアー「シャングリラ」に特別協賛した。正式タイトルは「TOTO 90th anniversary ユーミンスペクタクル シャングリラIII」。
 
-「ととべんきのうた」という作者不明の楽曲がある。これは、屋外の活動で[うんちに行くのを恥ずかしがったり](https://ja.wikipedia.org/wiki/大便 "wikilink")、体調を崩したりする子ども達のために長年歌い継がれてきたものである。また、TOTO工場内にも歌詞が書かれた窓ガラスがある\[6\]。[2002年](../Page/2002年.md "wikilink")に「TOTO きっず」というウェブサイトを立ち上げた際記念として、同社の社員による歌唱で自主制作しCDをプレゼントしたところ反響が大きかった。そして後に[エイベックスが共感を持ち](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")、[ダイキン工業](../Page/ダイキン工業.md "wikilink")のキャラクター「[ぴちょんくん](../Page/ぴちょんくん.md "wikilink")」のプロデュースで知られる西秀一郎をプロデューサー、[坂田おさむ](../Page/坂田おさむ.md "wikilink")を歌い手として[2004年](../Page/2004年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")に[CDが発売された](../Page/コンパクトディスク.md "wikilink")。現在でもウェブサイト上で楽曲を聴くことができる\[7\]。
+「ととべんきのうた」という作者不明の楽曲がある。これは、屋外の活動で[うんちに行くのを恥ずかしがったり](https://ja.wikipedia.org/wiki/大便 "wikilink")、体調を崩したりする子ども達のために長年歌い継がれてきたものである。また、TOTO工場内にも歌詞が書かれた窓ガラスがある\[6\]。2002年に「TOTO きっず」というウェブサイトを立ち上げた際記念として、同社の社員による歌唱で自主制作しCDをプレゼントしたところ反響が大きかった。そして後に[エイベックスが共感を持ち](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")、[ダイキン工業](../Page/ダイキン工業.md "wikilink")のキャラクター「[ぴちょんくん](../Page/ぴちょんくん.md "wikilink")」のプロデュースで知られる西秀一郎をプロデューサー、[坂田おさむ](../Page/坂田おさむ.md "wikilink")を歌い手として2004年4月7日に[CDが発売された](../Page/コンパクトディスク.md "wikilink")。現在でもウェブサイト上で楽曲を聴くことができる\[7\]。
 
 「グリーン（緑）を増やし、日本を元気にしたい。」をテーマに[スポーツ振興くじ](../Page/スポーツ振興くじ.md "wikilink")（toto）と連携した「[トートートトト（TOTO×toto）](http://tototototo.to/)」を展開している。\[8\]\[9\]。このプロモーション映像には元[サッカー日本代表](../Page/サッカー日本代表.md "wikilink")の[久保竜彦](../Page/久保竜彦.md "wikilink")が出演している。
 
-[2015年](../Page/2015年.md "wikilink")からは、『LPGAジャパンクラシック』の主催を[ミズノ](../Page/ミズノ.md "wikilink")に代わり当社が務めることになり、また、大会名も『[TOTOジャパンクラシック](../Page/TOTOジャパンクラシック.md "wikilink")』として開催されている。
+2015年からは、『LPGAジャパンクラシック』の主催を[ミズノ](../Page/ミズノ.md "wikilink")に代わり当社が務めることになり、また大会名も『[TOTOジャパンクラシック](../Page/TOTOジャパンクラシック.md "wikilink")』として開催されている。
 
 ## CMキャラクター
 
@@ -202,12 +171,10 @@ TOTOの創立100周年にあたる[2017年](../Page/2017年.md "wikilink")まで
 **過去**
 
   - [JNNニュースデスク](https://ja.wikipedia.org/wiki/JNNニュースデスク "wikilink")（TBS）
+  - お昼のワイドショー（日本テレビ）提供名はトーヨー流し台
   - [FNNニュースレポート23:00](../Page/FNNニュースレポート23:00.md "wikilink")（フジテレビ）
   - [はちみつキッチン](https://ja.wikipedia.org/wiki/はちみつキッチン "wikilink")（TBS。[一社提供](../Page/一社提供.md "wikilink")[ミニ番組](../Page/ミニ番組.md "wikilink")）
   - [FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")→[FNNニュース555 ザ・ヒューマン](../Page/FNNニュース555_ザ・ヒューマン.md "wikilink")→[FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")（フジテレビ）
-
-<!-- end list -->
-
   - [奇跡体験\!アンビリバボー](../Page/奇跡体験!アンビリバボー.md "wikilink")（フジテレビ）
   - [金曜プレステージ](../Page/金曜プレステージ.md "wikilink")（フジテレビ）
   - [ぐっさん家](../Page/ぐっさん家〜THE_GOODSUN_HOUSE〜.md "wikilink")（東海テレビ）
@@ -222,7 +189,7 @@ TOTOの創立100周年にあたる[2017年](../Page/2017年.md "wikilink")まで
   - [ギラヴァンツ北九州](../Page/ギラヴァンツ北九州.md "wikilink")
   - [天才バカボン](../Page/天才バカボン.md "wikilink") - [バカボンのパパ](../Page/バカボンのパパ.md "wikilink")の後輩にその名も「東洋陶器」というキャラクターが存在する。便器のようなアゴで目が「TOTO」になっている\[10\]。
   - [早川英里](https://ja.wikipedia.org/wiki/早川英里 "wikilink") - TOTO[陸上競技](../Page/陸上競技.md "wikilink")部に5年間（2012年4月～2017年3月）所属した、女子[長距離走](../Page/長距離走.md "wikilink")・[マラソン](../Page/マラソン.md "wikilink")元[選手](https://ja.wikipedia.org/wiki/選手 "wikilink")。[2014年仁川アジア大会](../Page/2014年アジア競技大会.md "wikilink")・女子マラソン日本代表
-  - [ラグビーワールドカップ](../Page/ラグビーワールドカップ.md "wikilink") - [2019年](../Page/2019年.md "wikilink")にで開催される第9回大会のオフィシャルスポンサーを担当する。　
+  - [ラグビーワールドカップ](../Page/ラグビーワールドカップ.md "wikilink") - [2019年](../Page/2019年.md "wikilink")にで開催される第9回大会のオフィシャルスポンサーを担当する。
   - [ヒカシュー](../Page/ヒカシュー.md "wikilink") - 戸川純出演前のウォシュレットのCMでCMソングを担当
   - [幼児用便器](../Page/幼児用便器.md "wikilink")
 

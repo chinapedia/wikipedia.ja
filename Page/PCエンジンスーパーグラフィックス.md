@@ -56,14 +56,178 @@ CPUおよび音源などのスペックはPCエンジンと同一の物である
 
 ## 周辺機器
 
-| 型番        | 名称                   | 発売日         | 備考                                                         |
-| --------- | -------------------- | ----------- | ---------------------------------------------------------- |
-| PI-PD06   | ターボパッド               | 1987年10月30日 | 連射機能を搭載したPCエンジン用のコントローラ。                                   |
-| PI-AN2    | AVケーブル               | 1989年11月22日 | テレビに接続する、映像/音声一体型のケーブル。本体に同梱。                              |
-| PAD-113   | ACアダプタ               | 1989年12月8日  | 市販はされず、修理のみ対応。後に同人ハードとして同等品を購入できるようになった\[3\]。              |
-| RAU-30    | ROM<sup>2</sup>アダプター | 1990年4月8日   | PCエンジンスーパーグラフィックスをCD-ROM<sup>2</sup>と接続する際に必須になるアダプタ\[4\]。 |
-| NAPD-1001 | アベニューパッド3            | 1991年1月31日  | 配色をスーパーグラフィックスに合わせた3ボタンコントローラ\[5\]                         |
-|           |                      |             |                                                            |
+<table>
+<thead>
+<tr class="header">
+<th><p>型番</p></th>
+<th><p>名称</p></th>
+<th><p>発売日</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>PAD-113</p></td>
+<td><p>ACアダプタ</p></td>
+<td></td>
+<td><p>市販はされず、修理のみ対応。後に同人ハードとして同等品を購入できるようになった[3]。</p></td>
+</tr>
+<tr class="even">
+<td><p>PI-PD002<br />
+PI-PD06<br />
+PI-PD8</p></td>
+<td><p>ターボパッド</p></td>
+<td><p>1987年10月30日</p></td>
+<td><p>連射機能を搭載したPCエンジン用のコントローラ。</p></td>
+</tr>
+<tr class="odd">
+<td><p>PI-PD003</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/マルチタップ_(コンピュータゲーム)" title="wikilink">マルチタップ</a></p></td>
+<td><p>パッドを5つまで接続できる純正機器。本体のみではパッドを1つしか接続できなかった弱点が逆に普及を促し、ファミコン以上に多人数同時プレイソフトを登場させることとなった。2人用や4人用のサードパーティ製のものもあった。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>PI-PD5</p></td>
+<td><p>ターボパッドII</p></td>
+<td><p>1989年11月22日</p></td>
+<td><p>PCエンジンシャトルの形状に合わせたターボパッド。</p></td>
+</tr>
+<tr class="odd">
+<td><p>PI-AN2</p></td>
+<td><p>AVケーブル</p></td>
+<td><p>テレビに接続する、映像/音声一体型のケーブル。本体に同梱。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>PI-AN3</p></td>
+<td><p>RFユニット</p></td>
+<td><p><a href="../Page/コンポジット映像信号.md" title="wikilink">コンポジット映像信号</a>出力のマシンに使用し、RF信号を出力するための機器。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>PI-AD8</p></td>
+<td><p>バックアップブースターII</p></td>
+<td><p>1989年12月8日</p></td>
+<td><p>バックアップ用電源がキャパシタ（<a href="../Page/コンデンサ.md" title="wikilink">コンデンサ</a>）に変更され、本体使用中に充電されるようになった。同時発売のコアグラフィックスでの使用が前提でAVブースター機能を削除し価格も下げられた。</p></td>
+</tr>
+<tr class="even">
+<td><p>CDR-30</p></td>
+<td><p><a href="../Page/CD-ROM2.md" title="wikilink">CD-ROM<sup>2</sup></a></p></td>
+<td><p>1988年12月4日</p></td>
+<td><p>PCエンジンのCD-ROMドライブ。</p></td>
+</tr>
+<tr class="odd">
+<td><p>IFU-30</p></td>
+<td><p>インターフェースユニット</p></td>
+<td><p>CD-ROM<sup>2</sup>本体を構成するハードの内の一つ。<br />
+PCエンジンとCD-ROMドライブを繋ぐために使用され、AV出力端子およびCD-ROM<sup>2</sup>ソフトのセーブデータを保有する機能（容量は2KB、電源はコンデンサ）を持つ。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>PAD-123</p></td>
+<td><p>ACアダプタ</p></td>
+<td><p>CD-ROM2用ACアダプタ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>システムカード ver 1.0</p></td>
+<td></td>
+<td><p>タイトル画面でI+II+右上+SELECT押下でバイナリエディタが立ち上がり、バックアップメモリを直接編集できる。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>システムカード ver 2.0</p></td>
+<td></td>
+<td><p>エディタによるデバッグ機能は削除され、CD-G機能が追加されている。</p></td>
+</tr>
+<tr class="odd">
+<td><p>RAU-30</p></td>
+<td><p>ROM<sup>2</sup>アダプター</p></td>
+<td><p>1990年4月8日</p></td>
+<td><p>PCエンジンスーパーグラフィックスをCD-ROM<sup>2</sup>と接続する際に必須になるアダプタ[4]。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>システムカード ver 2.1</p></td>
+<td><p>1990年7月6日</p></td>
+<td><p>スーパーシステムカード以降の物を除けば唯一別売りされたシステムカード。</p></td>
+</tr>
+<tr class="odd">
+<td><p>NAPD-1001</p></td>
+<td><p>アベニューパッド3</p></td>
+<td><p>1991年1月31日</p></td>
+<td><p>配色をスーパーグラフィックスに合わせた3ボタンコントローラ[5]</p></td>
+</tr>
+<tr class="even">
+<td><p>PI-CD1</p></td>
+<td><p><a href="../Page/SUPER_CD-ROM2.md" title="wikilink">SUPER CD-ROM<sup>2</sup></a></p></td>
+<td><p>1991年12月13日</p></td>
+<td><p>上位規格のCD-ROM<sup>2</sup>システム。</p></td>
+</tr>
+<tr class="odd">
+<td><p>PAD-125</p></td>
+<td><p>ACアダプタ</p></td>
+<td><p>SUPER CD-ROM<sup>2</sup>用のACアダプタ。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>PI-SC1</p></td>
+<td><p>スーパーシステムカード ver 3.0</p></td>
+<td><p>1991年10月26日</p></td>
+<td><p>CD-ROM<sup>2</sup>専用。<a href="../Page/HuCARD.md" title="wikilink">HuCARD</a>スロットに挿入することでSUPER CD-ROM<sup>2</sup>へアップグレードされる。SUPER CD-ROM<sup>2</sup>システム対応のソフトを遊ぶためには必須となる。</p></td>
+</tr>
+<tr class="odd">
+<td><p>PI-PD11</p></td>
+<td><p>コードレスマルチタップセット</p></td>
+<td><p>1992年12月18日</p></td>
+<td><p>PCエンジンDuoに合わせたデザインの純正品。パット信号を<a href="../Page/赤外線.md" title="wikilink">赤外線</a>で伝達することでコントローラのコードレス化を実現。コードレスマルチタップ自体はPCエンジン本体のパッド端子に接続する。コードレスパットを5本揃えれば5人同時プレイ可能である。受信可能距離は約3mまで。</p></td>
+</tr>
+<tr class="even">
+<td><p>PI-PD12</p></td>
+<td><p>コードレスパッド</p></td>
+<td><p>コードレスマルチタップ用のパッド。単四乾電池4本必要。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>PI-AD19</p></td>
+<td><p>メモリーベース128</p></td>
+<td><p>1993年3月</p></td>
+<td><p>パッド端子に接続して使用するセーブ用外部メモリ。後期ソフトのセーブデータの肥大化に対応し容量は128KBと非常に大きいが、対応ソフト以外は使用不可能。<a href="../Page/コーエー.md" title="wikilink">コーエー</a>発売の同機能の周辺機器「セーブくん」もある（『<a href="../Page/信長の野望・武将風雲録.md" title="wikilink">信長の野望・武将風雲録</a>』・『<a href="../Page/三國志III.md" title="wikilink">三國志III</a>』などの一部に同梱）。<br />
+対応ソフトのうち、『<a href="../Page/エメラルドドラゴン.md" title="wikilink">エメラルドドラゴン</a>』・『<a href="../Page/リンダキューブ.md" title="wikilink">リンダキューブ</a>』・『<a href="../Page/プライベート・アイ・ドル.md" title="wikilink">プライベート・アイ・ドル</a>』・『<a href="../Page/ぽっぷるメイル.md" title="wikilink">ぽっぷるメイル</a>』の4本には本体のバックアップメモリとの間でセーブデータをコピーするなどの操作が出来る管理ユーティリティを内蔵。『エメラルドドラゴン』・『リンダキューブ』は共通のツールでデータの互換性があるが、『プライベート・アイ・ドル』と『ぽっぷるメイル』は両者との互換性はない。</p></td>
+</tr>
+<tr class="even">
+<td><p>NAPD-1002</p></td>
+<td><p>アベニューパッド6</p></td>
+<td><p>1993年5月28日</p></td>
+<td><p>6ボタンパッド。<a href="../Page/ストリートファイターII.md" title="wikilink">ストリートファイターII</a>の移植に対応する形で登場。</p></td>
+</tr>
+<tr class="odd">
+<td><p>PCE-AC2</p></td>
+<td><p><a href="../Page/アーケードカード.md" title="wikilink">アーケードカード</a>PRO</p></td>
+<td><p>1994年3月12日</p></td>
+<td><p>CD-ROM<sup>2</sup>専用のアーケードカード。DRAMが内蔵されていること以外はスーパーシステムカードと同機能であり、スーパーシステムカードと同様に下部にT字状の補強カバーがある。</p></td>
+</tr>
+<tr class="even">
+<td><p>PCE-AC1</p></td>
+<td><p><a href="../Page/アーケードカード.md" title="wikilink">アーケードカード</a>DUO</p></td>
+<td><p>PCエンジンDuo系の機種やSUPER CD-ROM<sup>2</sup>用のアーケードカード。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>PCE-TP1</p></td>
+<td><p>アーケードパッド6</p></td>
+<td><p>1994年6月25日</p></td>
+<td><p>6ボタンパッド。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
   - パワーコンソール（未発売）
 

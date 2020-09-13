@@ -7,13 +7,13 @@
 
 ## 概要
 
-前身は、[1981年](../Page/1981年.md "wikilink")に[パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")が[レーザーディスク](../Page/レーザーディスク.md "wikilink")（LD）の製作を目的として設立された**レーザーディスク株式会社**。しかし、パイオニアが[ワーナー・パイオニアから資本を引き上げて](../Page/ワーナーミュージック・ジャパン.md "wikilink")（同社との販売元としての契約はその後も継続）自前で音楽製作にも乗り出す方針に転換したことから、[1989年](../Page/1989年.md "wikilink")に**パイオニア エル・ディー・シー株式会社**（パイオニアLDC）に商号変更し、音楽事業や映画配給事業、アニメ作品の製作も手がけるようになる。
+前身は、[1981年](../Page/1981年.md "wikilink")に[パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")が[レーザーディスク](../Page/レーザーディスク.md "wikilink")（LD）の製作を目的として設立された**レーザーディスク株式会社**。しかし、パイオニアがワーナー・パイオニア（現：[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）から資本を引き上げて（同社との販売元としての契約はその後も継続）自前で音楽製作にも乗り出す方針に転換したことから、[1989年](../Page/1989年.md "wikilink")に**パイオニア エル・ディー・シー株式会社**（パイオニアLDC）に商号変更し、音楽事業や映画配給事業、アニメ作品の製作も手がけるようになる。
 
 その後、親会社パイオニアは[プラズマディスプレイ](../Page/プラズマディスプレイ.md "wikilink")事業に社運を賭ける方針に傾いたことにより \[1\]、[2003年](../Page/2003年.md "wikilink")10月に子会社パイオニアLDCの全株式を[電通](../Page/電通.md "wikilink")に譲渡し、**ジェネオン エンタテインメント株式会社**（ジェネオン）に商号変更した。本レーベル名での初陣の作品が『[ナースウィッチ小麦ちゃんマジカルて](../Page/ナースウィッチ小麦ちゃんマジカルて.md "wikilink")』であり、『ジェネオン』の商号は公式サイト『小麦っ子くらぶ』中の[インターネットラジオ内で初公開されている](../Page/中原小麦のまじかるナースステーション.md "wikilink")。
 
 その当時の商号の「ジェネオン」は、"**gen**erate"（創造）と"**eon**"（永遠）を組み合わせた造語。
 
-次世代ディスクについては[ブルーレイディスクと](../Page/Blu-ray_Disc.md "wikilink")[HD DVDの両方に参入し](../Page/HD_DVD.md "wikilink")、[ワーナー・ホーム・ビデオ向けに先行供給していた](https://ja.wikipedia.org/wiki/ワーナー_ブラザース_ジャパン "wikilink")。ブルーレイ3Dもワーナー向けから先行供給を開始されており、[シャープ](../Page/シャープ.md "wikilink")の液晶テレビ「[AQUOS](https://ja.wikipedia.org/wiki/AQUOS "wikilink")クアトロン3D」やブルーレイ3D再生対応の「AQUOSブルーレイ」の購入者限定キャンペーンとして「[タイタンの戦い3D](https://ja.wikipedia.org/wiki/タイタンの戦い_\(2010年の映画\) "wikilink")」も含まれる。
+次世代ディスクについては[ブルーレイディスクと](../Page/Blu-ray_Disc.md "wikilink")[HD DVDの両方に参入し](../Page/HD_DVD.md "wikilink")、[ワーナー・ホーム・ビデオ向けに先行供給していた](https://ja.wikipedia.org/wiki/ワーナー_ブラザース_ジャパン "wikilink")。ブルーレイ3Dもワーナー向けから先行供給を開始されており、[シャープ](../Page/シャープ.md "wikilink")の液晶テレビ「[AQUOSクアトロン3D](../Page/アクオス.md "wikilink")」やブルーレイ3D再生対応の「AQUOSブルーレイ」の購入者限定キャンペーンとして「[タイタンの戦い3D](https://ja.wikipedia.org/wiki/タイタンの戦い_\(2010年の映画\) "wikilink")」も含まれる。
 
 同社の[米国本社が](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")「次世代ディスクについて、今後はブルーレイのみの供給とする」と発表されたため、ワーナー向けのHD DVDの供給はストップされた。なお、自社向けについては両規格とも供給する予定があったものの、[東芝](../Page/東芝.md "wikilink")によるHD DVD事業の終息に伴いブルーレイのみの供給となった。
 
@@ -138,7 +138,7 @@
   - [高橋直純](../Page/高橋直純.md "wikilink") (2006年)
   - [高橋洋子](../Page/高橋洋子_\(歌手\).md "wikilink") (2004年 - 200?年)（[スターチャイルド](../Page/スターチャイルド.md "wikilink")に移籍\[8\]）
   - [田中理恵](../Page/田中理恵_\(声優\).md "wikilink") (2010年)
-  - [たま](../Page/たま_\(バンド\).md "wikilink") (1996年 - 1997年)（立ち上げていたプライベート[インディーズレーベル](https://ja.wikipedia.org/wiki/インディーズレーベル "wikilink")の[地球レコード](../Page/地球レコード.md "wikilink")に再び戻った後、2003年解散）
+  - [たま](../Page/たま_\(バンド\).md "wikilink") (1996年 - 1997年)（立ち上げていたプライベート[インディーズレーベル](https://ja.wikipedia.org/wiki/インディーズレーベル "wikilink")の地球レコードに再び戻った後、2003年解散）
   - [田村直美](../Page/田村直美.md "wikilink") (2002年)（[アップフロント/ゼティマを経て](../Page/アップフロントワークス.md "wikilink")[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")および[Faith（フェイス）の両社合弁によるインディーズレーベルへ移籍](../Page/フェイス_\(企業\).md "wikilink")）
   - [鶴田加茂](https://ja.wikipedia.org/wiki/鶴田加茂 "wikilink") (2012年 - 2013年)
   - [照屋実穂](https://ja.wikipedia.org/wiki/照屋実穂 "wikilink") (2006年 - 2007年)
@@ -259,10 +259,9 @@
 
 ## 主なスタッフ
 
-  - 高木ジム（Managing Director/最高経営責任者兼社長）
+  - 堂山昌司（最高経営責任者兼社長）
   - 林裕之（ローカルアクイジション&プロダクション本部・副本部長 兼クロスメディア制作部/映像制作部・制作部長）
   - [上田耕行](https://ja.wikipedia.org/wiki/上田耕行 "wikilink")（ローカルアクイジション&プロダクション本部・クロスメディア制作部・シニアマネージャー/プロデューサー）
-  - 小倉充俊（制作本部第2制作部・プロデューサー）
   - 服部健太郎（制作本部第2制作部・プロデューサー）
 
 ### 過去
@@ -278,6 +277,7 @@
   - 大森啓幸 - 元制作本部第2制作部・プロデューサー。ワーナー エンターテイメント ジャパンに移籍。
   - 飯田尚史 - 元制作本部宣伝グループ・チーフプロモーター。ワーナー エンターテイメント ジャパンに移籍。
   - 松田章男 - 元制作本部第2制作部・プロデューサー。ワーナー エンターテイメント ジャパンに移籍。
+  - 小倉充俊 - 元制作本部第2制作部・プロデューサー。[グッドスマイルフィルムに移籍](https://ja.wikipedia.org/wiki/グッドスマイルカンパニー#グッドスマイルフィルム "wikilink")。
 
 ## 販売協力提携会社
 
@@ -346,16 +346,21 @@
 
 ## 外部リンク
 
-  - [NBCUniversal Entertainment Japan](https://www.nbcuni.co.jp/)
+  - [NBCユニバーサル・エンターテイメントジャパン](https://www.nbcuni.co.jp/)
 
   - [Universal Pictures Japan](https://www.universalpictures.jp/)
 
-  - [NBCユニバーサル ANIME 公式サイト](https://www.nbcuni.co.jp/anime/index.html)
+  - [NBCユニバーサル ANIME 公式サイト](https://www.nbcuni.co.jp/anime/)
 
   - [NBCユニバーサル ANIME×MUSIC 公式サイト](https://nbcuni-music.com/)
 
+  - [Universal TVドラマ公式サイト](http://www.universal-tv.jp/)
+
   - [あにばーさる NBCユニバーサル公式オンラインショップ](https://store.nbcuni.co.jp/s/nbcu/?ima=5928)
 
+  -
+  -
+  -
   -
   -
   -

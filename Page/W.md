@@ -28,7 +28,7 @@ Vを横に2つ連ねた形であり、大文字、小文字同形である。し
 
       - （カクソイス・ヴェー）
 
-      - [エス](../Page/エスペラント.md "wikilink")：ドゥオブラ・ヴォ／ヂェルマーナ・ヴォ（ゲルマン人のV）
+      - [エス](../Page/エスペラント.md "wikilink")：,  （ドゥオブラ・ヴォ／ヂェルマーナ・ヴォ（ゲルマン人のV））
   - 二重のU
       - （ダブリュー；ダブル・ユー） **
   - 音素名称
@@ -50,7 +50,7 @@ Vを横に2つ連ねた形であり、大文字、小文字同形である。し
   - [イタリア語](../Page/イタリア語.md "wikilink")、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")、[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")などでは外来語にのみ使い、起源によって  または  （スペイン語では ）で発音する。またこれらの言語において  は一般に、母音音素  の異音として解釈できるものである。
   - [オランダ語](../Page/オランダ語.md "wikilink")では[唇歯接近音](https://ja.wikipedia.org/wiki/唇歯接近音 "wikilink")  （上の歯を下唇に接近させた ）を表す。
   - [エスペラント](../Page/エスペラント.md "wikilink")では外来語にのみ使い、ドイツ語、ポーランド語、オランダ語の場合は v の発音し、それ以外は w で発音することが推奨されている。
-  - [中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")の[ピンイン](https://ja.wikipedia.org/wiki/ピンイン "wikilink")では、[介音](../Page/介音.md "wikilink")   が[頭子音](https://ja.wikipedia.org/wiki/頭子音 "wikilink")をともなわない（音節頭に来る）場合に用いる。頭子音をともなう場合は u を用い、書き分けを行っている。なお、「五」「烏」など主母音,尾音無しで介音のみの場合、あくまで発音はであり半母音が（たとえば英単語のwoodやwolfなどのようには）発音されるわけではないが、子音（半母音）があるかのようにwuと表記する。
+  - [中国語](../Page/中国語.md "wikilink")の[ピンイン](https://ja.wikipedia.org/wiki/ピンイン "wikilink")では、[介音](../Page/介音.md "wikilink")   が[頭子音](https://ja.wikipedia.org/wiki/頭子音 "wikilink")をともなわない（音節頭に来る）場合に用いる。頭子音をともなう場合は u を用い、書き分けを行っている。なお、「五」「烏」など主母音,尾音無しで介音のみの場合、あくまで発音はであり半母音が（たとえば英単語のwoodやwolfなどのようには）発音されるわけではないが、子音（半母音）があるかのようにwuと表記する。
   - [日本語](../Page/日本語.md "wikilink")の[ローマ字](https://ja.wikipedia.org/wiki/ローマ字 "wikilink")ではワ行の音写に用いる。ワ行の子音  は  に似るが、母音の と同様に円唇性が弱い。方言差や話者個人によっても変わるが、実際には後舌と軟口蓋を接近させない[両唇接近音](https://ja.wikipedia.org/wiki/両唇接近音 "wikilink")として発音されることが多い。  の標準的な音価を  と記すような場合には、これを  と記述することがある。なお、訓令式およびヘボン式では「ゐ」「ゑ」「を」は「い」「え」「お」と同じ発音のため、子音無しのi、e、oとなり、実際にwが使われるのは「わ」のwaのみである。日本式では「ゐ」「ゑ」「を」もwi、we、woと表す。IMEにおけるローマ字入力では「を」は通常woになるが、「ゐ」「ゑ」はwyi、wyeと入力する場合や、直接入力出来ないがwi、weと入力して表れる「うぃ」「うぇ」、もしくはi、eと入力して表れる「い」「え」を変換すると候補に出てくるなど、IMEによってまちまちである。
   - [朝鮮語](../Page/朝鮮語.md "wikilink")のローマ字表記では、母音字母の内、発音にを含む[ㅘ](https://ja.wikipedia.org/wiki/ㅘ "wikilink")、[ㅙ](https://ja.wikipedia.org/wiki/ㅙ "wikilink")、[ㅝ](https://ja.wikipedia.org/wiki/ㅝ "wikilink")、[ㅞ](https://ja.wikipedia.org/wiki/ㅞ "wikilink")、[ㅟ](https://ja.wikipedia.org/wiki/ㅟ "wikilink")はwa、wae、wo、we、wiとなりwを含む。なお、[ㅚ](https://ja.wikipedia.org/wiki/ㅚ "wikilink")もを含む発音だがoeとなりwを含まない。
 
@@ -67,6 +67,7 @@ Vを横に2つ連ねた形であり、大文字、小文字同形である。し
   - [西](https://ja.wikipedia.org/wiki/西 "wikilink") (**w**est)。
       - [ヒップホップ](../Page/ヒップホップ.md "wikilink")において[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")西海岸（[ウエスト・サイド](https://ja.wikipedia.org/wiki/ウエスト・サイド "wikilink")）。
       - [西日本](../Page/西日本.md "wikilink")向け商品に示される記号（[日清食品](https://ja.wikipedia.org/wiki/日清食品 "wikilink")「[どん兵衛](../Page/どん兵衛.md "wikilink")」\[4\]など）。
+      - [新幹線W7系電車](https://ja.wikipedia.org/wiki/新幹線E7系・W7系電車 "wikilink")（[E7系の](https://ja.wikipedia.org/wiki/新幹線E7系・W7系電車 "wikilink")[JR西日本仕様](../Page/西日本旅客鉄道.md "wikilink")）
   - [幅](https://ja.wikipedia.org/wiki/幅 "wikilink") (**w**idth)。
   - [ウエスト](../Page/腰.md "wikilink") (**w**aist)。人体のサイズを表示するときに、B（バスト）やH（ヒップ）とともによく使われる。
   - [ウェイト](https://ja.wikipedia.org/wiki/ウェイト "wikilink") (**w**eight)（[体重](../Page/体重.md "wikilink")）。医療略語。

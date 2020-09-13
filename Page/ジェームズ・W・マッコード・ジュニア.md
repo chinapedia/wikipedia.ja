@@ -13,6 +13,13 @@
 
 1974年に圧力の下大統領再選委員会を辞職し、マッコードは[ミシガン大学](../Page/ミシガン大学.md "wikilink")の運動部の後援者になったが、不法な賭博に関係しプレーヤーに金銭を与え問題になった。彼はミシガン州立大学のポイントガード、マテーン・クリーヴスに現金800,000ドル以上を与えた。
 
+### 死去
+
+2017年6月15日、[ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")の自宅で[膵癌](../Page/膵癌.md "wikilink")により93歳で死去。 彼の死は2019年まで報道されなかった\[1\]\[2\]。
+
 ## 出典
 
-[Category:アメリカ中央情報局の人物](https://ja.wikipedia.org/wiki/Category:アメリカ中央情報局の人物 "wikilink") [Category:ウォーターゲート事件の人物](https://ja.wikipedia.org/wiki/Category:ウォーターゲート事件の人物 "wikilink") [Category:ジョージ・ワシントン大学出身の人物](https://ja.wikipedia.org/wiki/Category:ジョージ・ワシントン大学出身の人物 "wikilink") [Category:1924年生](https://ja.wikipedia.org/wiki/Category:1924年生 "wikilink")
+[Category:アメリカ中央情報局の人物](https://ja.wikipedia.org/wiki/Category:アメリカ中央情報局の人物 "wikilink") [Category:ウォーターゲート事件の人物](https://ja.wikipedia.org/wiki/Category:ウォーターゲート事件の人物 "wikilink") [Category:ジョージ・ワシントン大学出身の人物](https://ja.wikipedia.org/wiki/Category:ジョージ・ワシントン大学出身の人物 "wikilink") [Category:膵癌で亡くなった人物](https://ja.wikipedia.org/wiki/Category:膵癌で亡くなった人物 "wikilink") [Category:1924年生](https://ja.wikipedia.org/wiki/Category:1924年生 "wikilink") [Category:2017年没](https://ja.wikipedia.org/wiki/Category:2017年没 "wikilink")
+
+1.
+2.

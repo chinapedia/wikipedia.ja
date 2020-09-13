@@ -35,7 +35,7 @@
 <!-- end list -->
 
   -
-    （[アクチニウム](../Page/アクチニウム.md "wikilink") (Ac)）、（[ローレンシウム](../Page/ローレンシウム.md "wikilink") (Lr)） 、[ラザホージウム](../Page/ラザホージウム.md "wikilink") (Rf) 、[ドブニウム](../Page/ドブニウム.md "wikilink") (Db) 、[シーボーギウム](../Page/シーボーギウム.md "wikilink") (Sg) 、[ボーリウム](https://ja.wikipedia.org/wiki/ボーリウム "wikilink") (Bh) 、[ハッシウム](../Page/ハッシウム.md "wikilink") (Hs) 、[マイトネリウム](../Page/マイトネリウム.md "wikilink") (Mt) 、[ダームスタチウム](../Page/ダームスタチウム.md "wikilink") (Ds) 、[レントゲニウム](../Page/レントゲニウム.md "wikilink") (Rg) 、[コペルニシウム](../Page/コペルニシウム.md "wikilink") (Cn)
+    （[アクチニウム](../Page/アクチニウム.md "wikilink") (Ac)）、（[ローレンシウム](../Page/ローレンシウム.md "wikilink") (Lr)） 、[ラザホージウム](../Page/ラザホージウム.md "wikilink") (Rf) 、[ドブニウム](../Page/ドブニウム.md "wikilink") (Db) 、[シーボーギウム](../Page/シーボーギウム.md "wikilink") (Sg) 、[ボーリウム](../Page/ボーリウム.md "wikilink") (Bh) 、[ハッシウム](../Page/ハッシウム.md "wikilink") (Hs) 、[マイトネリウム](../Page/マイトネリウム.md "wikilink") (Mt) 、[ダームスタチウム](../Page/ダームスタチウム.md "wikilink") (Ds) 、[レントゲニウム](../Page/レントゲニウム.md "wikilink") (Rg) 、[コペルニシウム](../Page/コペルニシウム.md "wikilink") (Cn)
 
 ランタン、ルテチウム、アクチニウム、ローレンシウムのうちいくつかは[Fブロック元素](https://ja.wikipedia.org/wiki/Fブロック元素 "wikilink")とされる場合もある。
 

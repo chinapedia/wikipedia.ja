@@ -3,6 +3,8 @@
 
 **Turbolinux**（ターボリナックス）は、日本に本社がある[ターボリナックス](https://ja.wikipedia.org/wiki/ターボリナックス "wikilink")社によって開発が行われていた[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")である。Client 2008からは[Mandriva](https://ja.wikipedia.org/wiki/Mandriva "wikilink")と共同開発したManbo CoreのLinux Kernel、gcc及びbinutilsが基となっていた。
 
+開発元であったターボリナックス社の解散により、現在の開発元は中国TurboLinux 北京拓林思软件有限公司である。
+
 ## 概要
 
 米Pacific HiTech(その後の米Turbo Linux)で開発が始まり、1997年から日本のパシフィックハイテックによって日本国内におけるパッケージ販売が行われた。その後、ターボリナックス ジャパン(後の[ターボリナックス](https://ja.wikipedia.org/wiki/ターボリナックス "wikilink"))が事業を買い取り\[1\]、開発・販売が続けられた。
@@ -15,9 +17,15 @@
 
 2008年の8月には、多くのユーザーへの体験を目的として有償のフォントやソフトウェアを除いた無償のTurbolinux Client 2008 Live Editionが公開された。ダウンロードや雑誌への添付などを含めて累計出荷本数は15万本を超えた\[3\]。
 
-日本国内ではTurbolinux Client 12.5以降新たな発表がないが、中国国内ではTurbolinux13の中国版にあたるGreatTurbo Enterprise Server 13を2014年12月1日に発売しており、その後の2016年には13.2へのアップデートを提供している。Turbolinux13まではGreatOpenSourceによって開発が行われていた。
+日本国内ではLinuxディストリビューションのあり方の大きな変遷にTurbolinux FUJI以降の開発者、ユーザ間の対立や相次いだ提携企業の失態が重なり、Turbolinux Client 12.5以降新たな発表は無くなくった。まもなく純国産ディストリビューションとしてのTurbolinuxは開発終了となった。
 
-その後はHUAWEIと共同で開発を継続、2020年にOpen Eulerとコアを共通化したTurbolinux EnterpriseServer 15を発売している。中国 拓林思のホームページはページ内の至る箇所に「建設中」と称してループリンクを設置しており、「立即下载」のボタンを押しても同OSのダウンロードは不可能となっているが、Turbolinux15のプロモーションビデオを確認する事が出来る。また、同ビデオはHUAWEIのページにも存在する。
+中国国内ではTurbolinux13の中国版にあたるGreatTurbo Enterprise Server 13を2014年12月1日に発売しており、その後の2016年には13.2へのアップデートを提供している。Turbolinux13はGreatOpenSourceによって開発が行われていた。
+
+現在はHUAWEIと共同で開発を継続、2020年にopenEulerとコアを共通化したTurbolinux EnterpriseServer 15を発売している。中国 拓林思のホームページは長らくページ内の至る箇所に「建設中」と称してループリンクを設置しており、「立即下载」のボタンを押しても同OSのダウンロードは不可能となっていたが、同年6月8日よりフリーダウンロードが可能となった。7月3日に更新されたビルド共々公開されている。
+
+Turbolinux 15は中国製とは言え標準状態で日本語の表示・入力変換にも対応している。インストーラに最新版のAnacondaを、パッケージ管理にRPM（dnf及びyum）を使用しているなど、国産時代の資産を継承する点も多いが、一方でマイクロソフトとのライセンスによる高い互換性「Windowsability」や、ATOK等の商用パッケージ、（既に置換えられてコマンドだけになっていたとは言え）特徴であった独自設定ツールのTurbotoolsに関しては一切を有しないなど切捨てられた機能も見受けられる。
+
+なお、現在ダウンロードできるEverything-Release版は、yumリポジトリをセットアップCD-ROM内のみしか記述してない為、インターネットからのyumによるパッケージの取得は出来ないが、ユーザ自身で追記すればRed Hat系のリポジトリを流用できる場合がある。
 
 ## 歴史
 
@@ -49,6 +57,7 @@
   - 2015年8月25日 - Turbolinux Client 12.5のメンテナンスを終了
   - 2017年11月29日 - Turbolinux 11 Serverのメンテナンスを終了\[5\]
   - 2019年12月31日 - ターボリナックス社解散。ソフトウェア流通事業を[コネクト](http://www.konekto.jp/)株式会社、Turbolinux関連を[ターボシステムズ社](http://www.turbosystems.co.jp/)に各々移管した。
+  - 2020年6月8日 - Turbolinux Enterprise Server 15のフリーダウンロードを公開
 
 ## 関連項目
 
@@ -63,12 +72,13 @@
 ## 外部リンク
 
   - [ターボリナックス](http://www.turbolinux.co.jp/)
+  - [北京拓林思软件有限公司](http://www.turbolinux.com.cn/)
   - [Turbolinux Client 2008 アプリケーションガイド](http://www.turbolinux.co.jp/products/tlc2008/application_guide/)
   - [DistroWatch.com: Turbolinux](http://distrowatch.com/table.php?distribution=turbolinux)
   - [北京万里开源软件有限公司](http://www.greatopensource.com/)
   - <https://developer.huaweicloud.com/exhibition/TurboLinux.html>
 
-[Category:Linuxディストリビューション](https://ja.wikipedia.org/wiki/Category:Linuxディストリビューション "wikilink") [Category:日本のLinux開発](https://ja.wikipedia.org/wiki/Category:日本のLinux開発 "wikilink")
+[Category:Red_Hat派生ディストリビューション](https://ja.wikipedia.org/wiki/Category:Red_Hat派生ディストリビューション "wikilink") [Category:日本のLinux開発](https://ja.wikipedia.org/wiki/Category:日本のLinux開発 "wikilink")
 
 1.  [News：Turbolinuxは日本に事業を集約](http://www.itmedia.co.jp/news/0208/20/nj00_sra_turbo.html)
 2.  [Turbolinux GUI インストーラ Mongoose (マングース：コードネーム)](http://web-old.turbolinux.co.jp/press_room/material/mongoose/)

@@ -58,6 +58,7 @@
 ## 関連項目
 
   - [アメリカ合衆国大統領](../Page/アメリカ合衆国大統領.md "wikilink")：歴史的にWASPの男性が多い
+      - [ドナルド・トランプ](https://ja.wikipedia.org/wiki/ドナルド・トランプ "wikilink")
   - [白人至上主義](../Page/白人至上主義.md "wikilink")
   - [クー・クラックス・クラン](../Page/クー・クラックス・クラン.md "wikilink")
   - [スプロール現象](../Page/スプロール現象.md "wikilink")

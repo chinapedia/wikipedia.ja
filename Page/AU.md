@@ -3,10 +3,6 @@
 
 **AU**, **Au**, **au**
 
-## ブランド
-
-  - [au (通信)](https://ja.wikipedia.org/wiki/au_\(通信\) "wikilink") - 通信事業を中核としたブランド。
-
 ## 記号・単位
 
   - **Au** - **[金](../Page/金.md "wikilink")**の[元素記号](../Page/元素記号.md "wikilink")。
@@ -17,7 +13,7 @@
 
 ## 正式名称
 
-  - AU-1 - チャンス・ヴォート社が開発したアメリカ海軍の攻撃機（[F4U コルセア戦闘機の攻撃機型の名称](../Page/F4U_\(航空機\).md "wikilink")）。
+  - **au** - 通信事業のブランド。 ⇒ **[au (通信)](https://ja.wikipedia.org/wiki/au_\(通信\) "wikilink")**
 
 ## 略語・略称
 
@@ -54,6 +50,7 @@
 
   - [国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")の[国名コード](../Page/国名コード.md "wikilink")（[ISO 3166-1](../Page/ISO_3166-1.md "wikilink") alpha-2）で、**[オーストラリア](../Page/オーストラリア.md "wikilink")**を示す。
   - [国鉄](../Page/日本国有鉄道.md "wikilink")・[JR](../Page/JR.md "wikilink")の[空調装置](https://ja.wikipedia.org/wiki/空調装置 "wikilink")に付けられる形式（例：AU13）。
+  - AU-1 - チャンス・ヴォート社が開発したアメリカ海軍の攻撃機（[F4U コルセア戦闘機の攻撃機型の名称](../Page/F4U_\(航空機\).md "wikilink")）。
 
 ## 他の記号等を付して用いるもの
 

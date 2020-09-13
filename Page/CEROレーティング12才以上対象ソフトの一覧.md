@@ -7,10 +7,6 @@
 
 ### Nintendo Switch
 
-<div class="NavFrame" style="clear: both; border:0;">
-
-<div class="NavContent" style="text-align: left;">
-
   - [蒼き雷霆ガンヴォルト ストライカーパック](https://ja.wikipedia.org/wiki/蒼き雷霆_ガンヴォルト_爪 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [いけにえと雪のセツナ](https://ja.wikipedia.org/wiki/いけにえと雪のセツナ "wikilink")（コンテンツアイコン：「犯罪」）
   - ウルトラストリートファイターII ザ・ファイナルチャレンジャーズ（コンテンツアイコン：「セクシャル、暴力」）
@@ -30,6 +26,7 @@
   - ドラゴンクエストヒーローズI・II for Nintendo Switch（コンテンツアイコン：「セクシャル、暴力」）
   - [CaveStory+](../Page/洞窟物語.md "wikilink")（コンテンツアイコン：「暴力」）
   - [ドラゴンボール ゼノバース2 for Nintendo Switch](https://ja.wikipedia.org/wiki/ドラゴンボール_ゼノバース2 "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
+  - [ナムコットコレクション](../Page/ナムコットコレクション.md "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
   - [ファイアーエムブレム 風花雪月](https://ja.wikipedia.org/wiki/ファイアーエムブレム_風花雪月 "wikilink")（コンテンツアイコン：「恋愛、セクシャル、暴力、犯罪」）
   - [魔界戦記ディスガイア5](https://ja.wikipedia.org/wiki/魔界戦記ディスガイア5 "wikilink")（コンテンツアイコン：「セクシャル、暴力、犯罪、言葉・その他」）
 
@@ -64,14 +61,13 @@
   - Muse Dash（コンテンツアイコン：「???」）
   - Mr. Shifty（コンテンツアイコン：「暴力」）
   - メゾン・ド・魔王（コンテンツアイコン：「セクシャル」）
-  - [モンスターファーム](../Page/モンスターファーム_\(プレイステーション\).md "wikilink")（コンテンツアイコン：「セクシャル」）
+  - [モンスターファームシリーズ](../Page/モンスターファームシリーズ.md "wikilink")（コンテンツアイコン：「セクシャル」）
+      - [モンスターファーム](../Page/モンスターファーム_\(プレイステーション\).md "wikilink")
+      - [モンスターファーム2](../Page/モンスターファーム2.md "wikilink")
+  - [妖怪ウォッチJam 妖怪学園Y～ワイワイ学園生活～](https://ja.wikipedia.org/wiki/妖怪学園Y_〜Nとの遭遇〜 "wikilink")（コンテンツアイコン：「犯罪」）
   - [リトルインフェルノ](https://ja.wikipedia.org/wiki/Little_Inferno "wikilink")（コンテンツアイコン：「暴力」）
   - リーグ オブ イーブル（コンテンツアイコン：「暴力」）
   - ルディミカル♪ 魔神少女音楽外伝（コンテンツアイコン：「セクシャル」）
-
-</div>
-
-</div>
 
 ### Wii U
 
@@ -115,10 +111,6 @@
   - THE SWAPPER（コンテンツアイコン：「言葉・その他」）
 
 ### ニンテンドー3DS
-
-<div class="NavFrame" style="clear: both; border:0;">
-
-<div class="NavContent" style="text-align: left;">
 
   - [蒼き雷霆ガンヴォルト ストライカーパック](https://ja.wikipedia.org/wiki/蒼き雷霆_ガンヴォルト_爪 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [ASPHALT 3D:NITRO RACING](https://ja.wikipedia.org/wiki/ASPHALT_3D:NITRO_RACING "wikilink")（コンテンツアイコン：「犯罪」）
@@ -184,10 +176,6 @@
   - [ロロナのアトリエ 〜アーランドの錬金術士〜](https://ja.wikipedia.org/wiki/ロロナのアトリエ_〜アーランドの錬金術士〜 "wikilink")（コンテンツアイコン：「セクシャル」）
   - [ONE PIECE アンリミテッドワールド レッド](https://ja.wikipedia.org/wiki/ONE_PIECE_アンリミテッドワールド_レッド "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
 
-</div>
-
-</div>
-
 #### ニンテンドー3DS ダウンロードソフト
 
   - ARC STYLE 三国志Pinball（コンテンツアイコン：「暴力」）
@@ -235,10 +223,6 @@
   - [IN THE WAKE OF VAMPIRE](https://ja.wikipedia.org/wiki/IN_THE_WAKE_OF_VAMPIRE "wikilink")（コンテンツアイコン：「暴力」）
 
 ### Wii
-
-<div class="NavFrame" style="clear: both; border:0;">
-
-<div class="NavContent" style="text-align: left;">
 
 #### Wiiディスクソフト
 
@@ -324,10 +308,6 @@
   - [ドラキュラ伝説 ReBirth](https://ja.wikipedia.org/wiki/ドラキュラ伝説_ReBirth "wikilink")（コンテンツアイコン：「暴力」）
   - [ワイルドウエストガンズ](https://ja.wikipedia.org/wiki/ワイルドウエストガンズ "wikilink")（コンテンツアイコン：「暴力」）
 
-</div>
-
-</div>
-
 #### [バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")配信ソフト
 
   - [MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")
@@ -337,10 +317,6 @@
   - [メタルギア2 ソリッドスネーク](../Page/メタルギア2_ソリッドスネーク.md "wikilink")（コンテンツアイコン：「???」）
 
 ### ニンテンドーDS
-
-<div class="NavFrame" style="clear: both; border:0;">
-
-<div class="NavContent" style="text-align: left;">
 
   - [相棒](https://ja.wikipedia.org/wiki/相棒 "wikilink")DS（コンテンツアイコン：「セクシャル、暴力、言葉・その他」）
   - 赤い糸 DS（コンテンツアイコン：「恋愛、犯罪」）
@@ -505,10 +481,6 @@
   - [マイアミ★ナイツ 〜セレブ編〜](https://ja.wikipedia.org/wiki/マイアミ★ナイツ_〜セレブ編〜 "wikilink")（コンテンツアイコン：「セクシャル、犯罪」）
   - [恋愛偏差値★ナビ](https://ja.wikipedia.org/wiki/恋愛偏差値★ナビ "wikilink")（コンテンツアイコン：「恋愛、セクシャル、言葉・その他」）
 
-</div>
-
-</div>
-
 ### ニンテンドーゲームキューブ
 
   - R:RACING EVOLUTION（コンテンツアイコン：「不明」）
@@ -590,6 +562,7 @@
   - [オペレーションウルフ](../Page/オペレーションウルフ.md "wikilink")（コンテンツアイコン：「暴力」）
   - [がんばれゴエモン外伝2〜天下の財宝〜](../Page/がんばれゴエモン外伝2〜天下の財宝〜.md "wikilink")（コンテンツアイコン：「セクシャル」）
   - [シャドウゲイト](../Page/シャドウゲイト.md "wikilink")（コンテンツアイコン：「暴力」）
+  - [スプラッターハウス わんぱくグラフィティ](../Page/スプラッターハウス_わんぱくグラフィティ.md "wikilink")（コンテンツアイコン：「暴力」）
   - [たけしの挑戦状](../Page/たけしの挑戦状.md "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [ダブルドラゴンシリーズ](../Page/ダブルドラゴンシリーズ.md "wikilink")（コンテンツアイコン：「暴力」）
       - ダブルドラゴン
@@ -605,10 +578,6 @@
 ## ソニー・インタラクティブエンタテインメント ハード
 
 ### PlayStation 4
-
-<div class="NavFrame" style="clear: both; border:0;">
-
-<div class="NavContent" style="text-align: left;">
 
   - [アトリエシリーズ](../Page/アトリエシリーズ.md "wikilink")（コンテンツアイコン：「セクシャル」）
       - アーランドシリーズ
@@ -645,6 +614,7 @@
   - [ニード・フォー・スピード ライバルズ](https://ja.wikipedia.org/wiki/ニード・フォー・スピード_ライバルズ "wikilink")（コンテンツアイコン：「犯罪」）
   - [初音ミク -Project DIVA- X HD](https://ja.wikipedia.org/wiki/初音ミク_-Project_DIVA- "wikilink")（コンテンツアイコン：「セクシャル」）
   - ブラッククローバー カルテットナイツ（コンテンツアイコン：「セクシャル、暴力、言葉・その他」）
+  - [妖怪ウォッチJam 妖怪学園Y～ワイワイ学園生活](https://ja.wikipedia.org/wiki/妖怪学園Y_〜Nとの遭遇〜 "wikilink")～
   - [ロックマンX アニバーサリー コレクション1+2](https://ja.wikipedia.org/wiki/ロックマンX_アニバーサリー_コレクション "wikilink")
       - ロックマンX アニバーサリー コレクション（コンテンツアイコン：「セクシャル、暴力」）
       - ロックマンX アニバーサリー コレクション2（コンテンツアイコン：「セクシャル」）
@@ -658,15 +628,7 @@
   - [ファントムブレイカー オーバードライブ](https://ja.wikipedia.org/wiki/ファントムブレイカー "wikilink")：バトルグラウンド（コンテンツアイコン：「暴力」）
   - [メタルスラッグ](../Page/メタルスラッグ.md "wikilink")3（コンテンツアイコン：「暴力」）
 
-</div>
-
-</div>
-
 ### PlayStation Vita
-
-<div class="NavFrame" style="clear: both; border:0;">
-
-<div class="NavContent" style="text-align: left;">
 
   - [アスファルト : インジェクション](https://ja.wikipedia.org/wiki/アスファルト_:_インジェクション "wikilink")（コンテンツアイコン：「犯罪」）
   - [@field](https://ja.wikipedia.org/wiki/@field "wikilink")（コンテンツアイコン：「セクシャル」）
@@ -731,15 +693,7 @@
   - [Miku Miku Hockey 2.0](https://ja.wikipedia.org/wiki/Miku_Miku_Hockey_2.0 "wikilink")（コンテンツアイコン：「セクシャル」）
   - メタルスラッグ3（コンテンツアイコン：「暴力」）
 
-</div>
-
-</div>
-
 ### PlayStation 3
-
-<div class="NavFrame" style="clear: both; border:0;">
-
-<div class="NavContent" style="text-align: left;">
 
   - [レゴ](../Page/レゴ.md "wikilink")シリーズ
       - LEGO スター・ウォーズ/フォースの覚醒（コンテンツアイコン：「暴力、犯罪」）
@@ -897,15 +851,7 @@
   - メタルスラッグ3（コンテンツアイコン：「暴力」）
   - ラチェット&クランク INTO THE NEXUS（コンテンツアイコン：「暴力」）
 
-</div>
-
-</div>
-
 ### PlayStation Portable
-
-<div class="NavFrame" style="clear: both; border:0;">
-
-<div class="NavContent" style="text-align: left;">
 
   - [サモンナイトシリーズ](../Page/サモンナイトシリーズ.md "wikilink")
       - [サモンナイト3](../Page/サモンナイト3.md "wikilink")（コンテンツアイコン：「犯罪」）
@@ -1203,15 +1149,7 @@
   - [魔法少女リリカルなのはA's PORTABLE DLマガジン デジタルなのは](https://ja.wikipedia.org/wiki/魔法少女リリカルなのはA's_PORTABLE_-THE_BATTLE_OF_ACES- "wikilink")（コンテンツアイコン：「セクシャル」）
   - [ノゾミカナエタマエ 〜Daydream Reconstruct〜](https://ja.wikipedia.org/wiki/ノゾミカナエタマエ_〜Daydream_Reconstruct〜 "wikilink")（コンテンツアイコン：「セクシャル、恋愛」）
 
-</div>
-
-</div>
-
 ### PlayStation 2
-
-<div class="NavFrame" style="clear: both; border:0;">
-
-<div class="NavContent" style="text-align: left;">
 
   - 真・爆走デコトラ伝説　～天下統一頂上決戦～（コンテンツアイコン：「犯罪」）
   - [トラック狂走曲](../Page/トラック狂走曲.md "wikilink")（コンテンツアイコン：「犯罪」）
@@ -1646,15 +1584,7 @@
       - [Memories Off Duet](../Page/Memories_Off_Duet.md "wikilink")（コンテンツアイコン：「恋愛、セクシャル」）
       - [The 逃走ハイウェイ 名古屋〜東京](https://ja.wikipedia.org/wiki/The_逃走ハイウェイ_名古屋〜東京 "wikilink")（コンテンツアイコン：「犯罪」）
 
-</div>
-
-</div>
-
 ### PlayStation
-
-<div class="NavFrame" style="clear: both; border:0;">
-
-<div class="NavContent" style="text-align: left;">
 
   - [悪魔城ドラキュラX 月下の夜想曲](../Page/悪魔城ドラキュラX_月下の夜想曲.md "wikilink")（[PS one books](https://ja.wikipedia.org/wiki/PS_one_books "wikilink")、[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")）（コンテンツアイコン：「不明」（PS one books）、「暴力」（ゲームアーカイブス））
   - アーケードヒッツ [水滸演武](https://ja.wikipedia.org/wiki/水滸演武 "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「暴力」）
@@ -1666,6 +1596,7 @@
   - [ウィザーズハーモニー2](https://ja.wikipedia.org/wiki/ウィザーズハーモニー2 "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「犯罪」） <small>\*[ウィザーズハーモニー](../Page/ウィザーズハーモニー.md "wikilink")、ウィザーズハーモニーRは全年齢対象</small>
   - [ウェルトオブ・イストリア](https://ja.wikipedia.org/wiki/ウェルトオブ・イストリア "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「暴力、犯罪」）
   - [エアガイツ](../Page/エアガイツ.md "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「暴力」）
+  - EXECTOR（ゲームアーカイブス）　（コンテンツアイコン：「暴力、恐怖」）
   - [エコーナイト](../Page/エコーナイト.md "wikilink")シリーズ（全てゲームアーカイブス）（コンテンツアイコン：「暴力」）
       - エコーナイト
       - エコーナイト\#2 眠りの支配者
@@ -1682,7 +1613,7 @@
       - [リアルバウト餓狼伝説](../Page/リアルバウト餓狼伝説.md "wikilink")（コンテンツアイコン：「暴力」）
       - リアルバウト餓狼伝説スペシャル DOMINATED MIND（コンテンツアイコン：「セクシャル、暴力」）
       - [餓狼伝説 WILD AMBITION](../Page/餓狼伝説_WILD_AMBITION.md "wikilink")（コンテンツアイコン：「暴力」）
-  - [ガンパレード・マーチ](https://ja.wikipedia.org/wiki/ガンパレード・マーチ "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「暴力、犯罪」）
+  - [ガンパレード・マーチ](../Page/高機動幻想ガンパレード・マーチ.md "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「暴力、犯罪」）
   - [ギャラクシーファイト_ユニバーサル・ウォーリアーズ](../Page/ギャラクシーファイト_ユニバーサル・ウォーリアーズ.md "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「セクシャル」）
   - [球転界](https://ja.wikipedia.org/wiki/球転界 "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「セクシャル」）
   - [キラーバス](https://ja.wikipedia.org/wiki/キラーバス "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「暴力、恐怖」）
@@ -1840,10 +1771,6 @@
   - [ロードモナーク 〜新・ガイア王国記〜](../Page/ロードモナーク.md "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「暴力」）
   - [惑星攻機隊りとるキャッツ](https://ja.wikipedia.org/wiki/惑星攻機隊りとるキャッツ "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「セクシャル、犯罪」）
 
-</div>
-
-</div>
-
 ## マイクロソフト ハード
 
 ### Xbox One
@@ -1851,10 +1778,6 @@
   - [ドラゴンボール ゼノバース](https://ja.wikipedia.org/wiki/ドラゴンボール_ゼノバース "wikilink")（コンテンツアイコン：「セクシャル」）
 
 ### Xbox 360
-
-<div class="NavFrame" style="clear: both; border:0;">
-
-<div class="NavContent" style="text-align: left;">
 
   - [THE IDOLM@STER LIVE FOR YOU\!](../Page/THE_IDOLM@STER_LIVE_FOR_YOU!.md "wikilink")（コンテンツアイコン：「セクシャル」） <small>※2009年3月発売の『アイドルマスターツインズ』は『[THE IDOLM@STER](../Page/THE_IDOLM@STER_\(Xbox_360\).md "wikilink")』が15才以上対象のため、全体では15才以上対象。</small>
   - [THE IDOLM@STER 2](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_2 "wikilink")（コンテンツアイコン：「恋愛、セクシャル」）
@@ -2049,13 +1972,9 @@
   - [メタルスラッグ](../Page/メタルスラッグ.md "wikilink")シリーズ（コンテンツアイコン：「暴力」）
       - メタルスラッグ3
       - メタルスラッグXX
-  - [レイディアントシルバーガン](../Page/レイディアントシルバーガン.md "wikilink")（コンテンツアイコン：「???」）
+  - [レイディアントシルバーガン](../Page/レイディアントシルバーガン.md "wikilink")（コンテンツアイコン：「セクシャル」）
   - Prince of Persia
   - Rush'n Attack
-
-</div>
-
-</div>
 
 ### Xbox
 

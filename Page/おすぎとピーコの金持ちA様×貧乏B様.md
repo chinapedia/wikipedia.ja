@@ -176,6 +176,5 @@
 
 ## 外部リンク
 
-  - [日本テレビ公式サイト内 おすぎとピーコの金持ちA様×貧乏B様](http://www.ntv.co.jp/a-sama/a-sama/)
-
+  -
 [Category:2002年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のテレビ番組_\(日本\) "wikilink") [Category:プラチナイト](https://ja.wikipedia.org/wiki/Category:プラチナイト "wikilink")

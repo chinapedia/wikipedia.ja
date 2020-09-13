@@ -5,9 +5,9 @@
 
 ## 概要
 
-1992年、フジテレビが『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")SUPER』以来1年半ぶりにプライム枠に歌謡番組を投入した。司会には、金曜23:00台で放送の音楽番組『[G-STAGE](../Page/G-STAGE.md "wikilink")』で司会を務めていた[徳光和夫](../Page/徳光和夫.md "wikilink")\[1\]、[堺正章](../Page/堺正章.md "wikilink")、[田代まさし](https://ja.wikipedia.org/wiki/田代まさし "wikilink")の3人を引き続き起用した。
+1992年、フジテレビが『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")SUPER』以来1年半ぶりにプライム枠に歌謡番組を投入した。司会には、金曜23:00台で放送の音楽番組『[G-STAGE](../Page/G-STAGE.md "wikilink")』で司会を務めていた[徳光和夫](../Page/徳光和夫.md "wikilink")、[堺正章](../Page/堺正章.md "wikilink")、[田代まさし](https://ja.wikipedia.org/wiki/田代まさし "wikilink")の3人を引き続き起用した。
 
-1時間の生放送で、毎週6 - 9組の豪華アーティストが出演。[TBSの](../Page/TBSテレビ.md "wikilink")『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』と同様に、スタジオ以外にも各地からの中継も結ぶ方式を採用していた。目玉として「THE SPECIAL」のコーナーがあり、大物アーティストによる競演が見物だった。
+1時間の生放送で、毎週6 - 9組のアーティストが出演。[TBSの](../Page/TBSテレビ.md "wikilink")『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』と同様に、スタジオ以外にも各地からの中継も結ぶ方式を採用していた。目玉として「THE SPECIAL」のコーナーがあり、大物アーティストによる競演が見物だった。
 
 当番組終了後、後継番組として『[MJ -MUSIC JOURNAL-](../Page/MJ_-MUSIC_JOURNAL-.md "wikilink")』が放送された。
 
@@ -20,7 +20,37 @@
   - [田代まさし](https://ja.wikipedia.org/wiki/田代まさし "wikilink") - [ラッツ&スター](../Page/ラッツ&スター.md "wikilink")の一員。1992年7月15日の放送では同グループ名義で出演。「[エピソード](https://ja.wikipedia.org/wiki/#エピソード "wikilink")」の節を参照。
       - 徳光と堺は、この番組以前に[日本テレビの](../Page/日本テレビ放送網.md "wikilink")『[NTV紅白歌のベストテン](../Page/NTV紅白歌のベストテン.md "wikilink")』と『[ザ・トップテン](../Page/ザ・トップテン.md "wikilink")』（初期）で共演経験している。
 
-## 放送日・内容
+## 番組コーナー
+
+  - **THE SPECIAL**（ザ・スペシャル）
+
+<!-- end list -->
+
+  -
+    この番組の目玉企画。毎回テーマを設け、大物アーティスト2〜3組が懐かしの名曲・ヒット曲を歌うコーナー。放送回によりコーナー進行は徳光&堺、堺&田代、徳光単独など異なっていた。
+
+<!-- end list -->
+
+  - **視聴者プレゼント**
+
+<!-- end list -->
+
+  -
+    番組の最後に行なわれた。かつて『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")』で行っていた「ラッキー・テレフォン・プレゼント」に似ているが、プレゼント内容と選出方式が若干異なる。『夜のヒットスタジオ』では1976年以降、4桁の[電話番号](../Page/電話番号.md "wikilink")の該当者のみ応募で5桁の[スロットマシン](../Page/スロットマシン.md "wikilink")の数字分の[現金](../Page/現金.md "wikilink")をプレゼントしたが、本番組では、北海道から九州まで地区ごとの[ルーレット](../Page/ルーレット.md "wikilink")で当選者を決定し、国内または海外旅行をプレゼントした。
+
+## エピソード
+
+※ いずれも1992年
+
+  - 4月29日放送分の冒頭で、3日前に急逝した[尾崎豊](../Page/尾崎豊.md "wikilink")の追悼企画を急遽放送。『[夜のヒットスタジオDELUXE](https://ja.wikipedia.org/wiki/夜のヒットスタジオ#夜のヒットスタジオDELUXE "wikilink")』出演時の「[太陽の破片](../Page/太陽の破片.md "wikilink")」（1988年6月22日放送）をノーカット映像のほか、「[I Love You](../Page/I_LOVE_YOU_\(尾崎豊の曲\).md "wikilink")」のライブ映像も放送した。本来なら、当時発売された遺作となったアルバム『[放熱への証](../Page/放熱への証.md "wikilink")』からの曲を披露するために番組に生出演の予定であったことが、放送当日に徳光らから明らかにされている。
+  - 5月13日放送分にて、当時の人気アイドルグループ、[CoCoが重大発表としてメンバーの](../Page/CoCo_\(アイドルグループ\).md "wikilink")[瀬能あづさ](https://ja.wikipedia.org/wiki/瀬能あづさ "wikilink")が4日後の日本武道館でのライブをもってグループを脱退することを発表。「[だから涙と呼ばないで](https://ja.wikipedia.org/wiki/だから涙と呼ばないで "wikilink")」を涙ながらに歌った。CoCoの5人でのテレビ出演は、この日の本番組が最後になった。
+  - 同放送分で、当時ほとんどテレビに出演しなかった[佐野元春](../Page/佐野元春.md "wikilink")が出演した。
+  - 7月15日放送分にて、[鈴木雅之率いる](../Page/鈴木雅之_\(歌手\).md "wikilink")[ラッツ&スター](../Page/ラッツ&スター.md "wikilink")が5年ぶりに音楽番組に登場し、「[め組のひと](https://ja.wikipedia.org/wiki/め組のひと "wikilink")」などのヒット曲をメドレーで披露。この時に[志村けん](../Page/志村けん.md "wikilink")がスタジオ見物に来ていた。
+  - 9月9日放送分にて、後にメディア露出が極端に少なくなる[ZARD](../Page/ZARD.md "wikilink")が出演し、「[眠れない夜を抱いて](../Page/眠れない夜を抱いて.md "wikilink")」を披露した。同[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")が司会の堺らとトークをする場面もあった。なお、この映像は2008年12月3日放送の『[2008 FNS歌謡祭](https://ja.wikipedia.org/wiki/2008_FNS歌謡祭 "wikilink")』にて坂井が2007年5月に逝去した後に改めて放送された。
+  - 9月23日放送の最終回2時間スペシャルにて、[老人性痴呆症](https://ja.wikipedia.org/wiki/老人性痴呆症 "wikilink")の[アルツハイマーを笑いものにしたような発言があったらしく](https://ja.wikipedia.org/wiki/アルツハイマー型痴呆 "wikilink")、視聴者から苦情が殺到している\[1\]。
+  - プロ野球期間中は番組放送前に[プロ野球中継があったり](../Page/野球道_\(フジテレビ系列\).md "wikilink")、夜9時前に[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")が勝利すると、徳光が生放送を使ってジャイアンツの勝利を報告する場面があった。
+
+## 各回の放送日・番組内容
 
 | 放送回  | 放送日        | 新聞紙のテレビ番組表における内容記載                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ---- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -51,36 +81,6 @@
 |      |            |                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 ※『読売新聞』テレビ番組表による。
-
-## 番組コーナー
-
-  - **THE SPECIAL**（ザ・スペシャル）
-
-<!-- end list -->
-
-  -
-    この番組の目玉企画。毎回テーマを設け、大物アーティスト2〜3組が懐かしの名曲・ヒット曲を歌うコーナー。放送回によりコーナー進行は徳光&堺、堺&田代、徳光単独など異なっていた。
-
-<!-- end list -->
-
-  - **視聴者プレゼント**
-
-<!-- end list -->
-
-  -
-    番組の最後に行なわれた。かつて『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")』で行っていた「ラッキー・テレフォン・プレゼント」によく似ているが、プレゼント内容と選出方式が若干異なる。『夜のヒットスタジオ』では1976年以降、4桁の[電話番号](../Page/電話番号.md "wikilink")の該当者のみ応募で5桁の[スロットマシン](../Page/スロットマシン.md "wikilink")の数字分の[現金](../Page/現金.md "wikilink")をプレゼントしたが、本番組では、北海道から九州まで地区ごとの[ルーレット](../Page/ルーレット.md "wikilink")で当選者を決定し、国内または海外旅行をプレゼントした。
-
-## エピソード
-
-（いずれも1992年）
-
-  - 4月29日放送分の冒頭で、3日前に急逝した[尾崎豊](../Page/尾崎豊.md "wikilink")の追悼企画を急遽放送。『[夜のヒットスタジオDELUXE](https://ja.wikipedia.org/wiki/夜のヒットスタジオ#夜のヒットスタジオDELUXE "wikilink")』出演時の「[太陽の破片](../Page/太陽の破片.md "wikilink")」（1988年6月22日放送）をノーカット映像\[26\]のほか、「[I Love You](../Page/I_LOVE_YOU_\(尾崎豊の曲\).md "wikilink")」のライブ映像も放送した。本来なら、当時発売された遺作となったアルバム『[放熱への証](../Page/放熱への証.md "wikilink")』からの曲を披露するために番組に生出演の予定であったことが、放送当日に徳光らから明らかにされている。
-  - 5月13日放送にて、当時の人気アイドルグループ、[CoCoが重大発表としてメンバーの](../Page/CoCo_\(アイドルグループ\).md "wikilink")[瀬能あづさ](https://ja.wikipedia.org/wiki/瀬能あづさ "wikilink")が4日後の日本武道館でのライブをもってグループを脱退することを発表。「[だから涙と呼ばないで](https://ja.wikipedia.org/wiki/だから涙と呼ばないで "wikilink")」を涙ながらに歌った。CoCoの5人でのテレビ出演は、この日の本番組が最後になった。
-  - 同放送分で、当時ほとんどテレビに出演しなかった[佐野元春](../Page/佐野元春.md "wikilink")が出演した。
-  - 7月15日放送にて、[鈴木雅之率いる](../Page/鈴木雅之_\(歌手\).md "wikilink")[ラッツ&スター](../Page/ラッツ&スター.md "wikilink")が5年ぶりに音楽番組に登場し、「[め組のひと](https://ja.wikipedia.org/wiki/め組のひと "wikilink")」などのヒット曲をメドレーで披露。この時に[志村けん](../Page/志村けん.md "wikilink")がスタジオ見物に来ていた\[27\]。
-  - 9月9日放送にて、後にメディア露出が極端に少なくなる[ZARD](../Page/ZARD.md "wikilink")が出演し、「[眠れない夜を抱いて](../Page/眠れない夜を抱いて.md "wikilink")」を披露した。同[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")が司会の堺らとトークをする場面もあった。なお、この映像は2008年12月3日放送の『[2008 FNS歌謡祭](https://ja.wikipedia.org/wiki/2008_FNS歌謡祭 "wikilink")』にて坂井が2007年5月に逝去した後に改めて放送された。
-  - 9月23日放送の最終回2時間スペシャルにて、[老人性痴呆症](https://ja.wikipedia.org/wiki/老人性痴呆症 "wikilink")の[アルツハイマーを笑いものにしたような発言があったらしく](https://ja.wikipedia.org/wiki/アルツハイマー型痴呆 "wikilink")、視聴者から苦情が殺到している\[28\]。
-  - プロ野球期間中は番組放送前に[プロ野球中継があったり](../Page/野球道_\(フジテレビ系列\).md "wikilink")、夜9時前に[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")が勝利すると、徳光が生放送を使ってジャイアンツの勝利を報告する場面があった\[29\]。
 
 ## スタッフ
 
@@ -134,7 +134,7 @@
 <tr class="even">
 <td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形テレビ.md" title="wikilink">山形テレビ</a></p></td>
-<td><p><a href="../Page/1993年.md" title="wikilink">1993年</a>4月1日より<a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列</a></p></td>
+<td><p><a href="../Page/1993年.md" title="wikilink">1993年</a>4月1日より<a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">テレビ朝日系列</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -145,7 +145,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新潟総合テレビ" title="wikilink">新潟総合テレビ</a></p></td>
+<td><p><a href="../Page/NST新潟総合テレビ.md" title="wikilink">新潟総合テレビ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -243,8 +243,8 @@
 <td><p><a href="../Page/宮崎県.md" title="wikilink">宮崎県</a></p></td>
 <td><p><a href="../Page/テレビ宮崎.md" title="wikilink">テレビ宮崎</a></p></td>
 <td><p>フジテレビ系列<br />
-<a href="https://ja.wikipedia.org/wiki/Nippon_News_Network" title="wikilink">日本テレビ系列</a><br />
-<a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列</a></p></td>
+<a href="../Page/日本ニュースネットワーク.md" title="wikilink">日本テレビ系列</a><br />
+<a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">テレビ朝日系列</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -258,6 +258,10 @@
 
 ## 脚注
 
+### 注釈
+
+### 出典
+
 ## 関連項目
 
   - [FNS歌謡祭](../Page/FNS歌謡祭.md "wikilink")
@@ -269,7 +273,7 @@
 
 [Category:1992年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1992年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビの音楽番組](https://ja.wikipedia.org/wiki/Category:フジテレビの音楽番組 "wikilink") [Category:フジテレビの番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの番組の歴史 "wikilink") [Category:徳光和夫](https://ja.wikipedia.org/wiki/Category:徳光和夫 "wikilink") [Category:堺正章](https://ja.wikipedia.org/wiki/Category:堺正章 "wikilink") [Category:田代まさし](https://ja.wikipedia.org/wiki/Category:田代まさし "wikilink")
 
-1.  水曜21時台の音楽番組の司会は[徳光和夫の名曲にっぽん 昭和歌謡人](https://ja.wikipedia.org/wiki/徳光和夫の名曲にっぽん_昭和歌謡人 "wikilink")（[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")）まで20年6ヶ月待たなければいけなかった。
+1.  1992年10月『[週刊フジテレビ批評](../Page/週刊フジテレビ批評.md "wikilink")』で紹介された、9月にフジテレビに電話・手紙で寄せられた意見。
 2.  『[読売新聞](../Page/読売新聞.md "wikilink")』1992年4月15日朝刊第32面（『読売新聞[縮刷版](../Page/新聞縮刷版.md "wikilink")』1992年4月号p.736）および夕刊第20面（同前p.758）テレビ番組表。
 3.  『読売新聞』1992年4月22日朝刊第32面（『読売新聞縮刷版』1992年4月号p.1104）および夕刊第24面（同前p.1132）テレビ番組表。
 4.  『読売新聞』1992年4月29日朝刊第32面（『読売新聞縮刷版』1992年4月号p.1448）テレビ番組表。
@@ -294,7 +298,3 @@
 23. 『読売新聞』1992年9月9日朝刊第32面（『読売新聞縮刷版』1992年9月号p.438）および夕刊第24面（同前p.462）テレビ番組表。
 24. 『読売新聞』1992年9月16日朝刊第20面（『読売新聞縮刷版』1992年9月号p.792）および夕刊第28面（同前p.770）テレビ番組表。
 25. 『読売新聞』1992年9月23日朝刊第14面（『読売新聞縮刷版』1992年9月号p.1102）テレビ番組表。
-26. 後年発売された尾崎のライブCD『[LIVE CORE LIMITED VERSION YUTAKA OZAKI IN TOKYO DOME 1988/9/12](https://ja.wikipedia.org/wiki/LIVE_CORE_LIMITED_VERSION_YUTAKA_OZAKI_IN_TOKYO_DOME_1988/9/12 "wikilink")』の付属DVDにこの映像が収録されたが、映像の一部分が差替えられている。
-27. これは当時放送されていた志村の番組（『[志村けんのバカ殿様](../Page/志村けんのバカ殿様.md "wikilink")』『[志村けんのだいじょうぶだぁ](../Page/志村けんのだいじょうぶだぁ.md "wikilink")』）で田代と[桑野信義](../Page/桑野信義.md "wikilink")が共演していたことも縁である。
-28. 1992年10月『[週刊フジテレビ批評](../Page/週刊フジテレビ批評.md "wikilink")』で紹介された、9月にフジテレビに電話・手紙で寄せられた意見より。
-29. 徳光は大のジャイアンツファンである。

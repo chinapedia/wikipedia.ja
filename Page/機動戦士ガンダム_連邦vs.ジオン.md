@@ -8,7 +8,7 @@
 
 </div>
 
-『**機動戦士ガンダム 連邦vs.ジオン**』（きどうせんしガンダム れんぽうバーサスジオン）は、[2001年](../Page/2001年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")に発売された[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。開発・[カプコン](../Page/カプコン.md "wikilink")、販売[バンプレスト](../Page/バンプレスト.md "wikilink")。略称は「連ジ」。以後、『[機動戦士ガンダム vs.シリーズ](../Page/機動戦士ガンダム_vs.シリーズ.md "wikilink")』としてシリーズ化された。
+『**機動戦士ガンダム 連邦vs.ジオン**』（きどうせんしガンダム れんぽうバーサスジオン）は、[2001年](../Page/2001年.md "wikilink")3月に発売された[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。開発・[カプコン](../Page/カプコン.md "wikilink")、販売[バンプレスト](../Page/バンプレスト.md "wikilink")。略称は「連ジ」。以後、『[機動戦士ガンダム vs.シリーズ](../Page/機動戦士ガンダム_vs.シリーズ.md "wikilink")』としてシリーズ化された。
 
 本項では、シリーズ第2作として登場した、アッパーバージョン『**機動戦士ガンダム 連邦vs.ジオンDX**』（きどうせんしガンダム れんぽうバーサスジオン デラックス）についても解説する。
 
@@ -116,22 +116,25 @@
 出撃時に特定のパイロット名を入力することにより、原作に登場したパイロットを使うことができる。
 
   - 連邦軍
-      - [アムロ・レイ](../Page/アムロ・レイ.md "wikilink")
-      - [ハヤト・コバヤシ](../Page/ハヤト・コバヤシ.md "wikilink")
-      - [カイ・シデン](../Page/カイ・シデン.md "wikilink")
-      - [リュウ・ホセイ](../Page/リュウ・ホセイ.md "wikilink")
-      - [セイラ・マス](../Page/セイラ・マス.md "wikilink")（「アルテイシア」と入力してもセイラとして扱われる）
-      - [スレッガー・ロウ](../Page/スレッガー・ロウ.md "wikilink")
+      - [アムロ・レイ](../Page/アムロ・レイ.md "wikilink")（声 - [古谷徹](../Page/古谷徹.md "wikilink")）
+      - [ハヤト・コバヤシ](../Page/ハヤト・コバヤシ.md "wikilink")（声 - [鈴木清信](../Page/鈴木清信.md "wikilink")）
+      - [カイ・シデン](../Page/カイ・シデン.md "wikilink")（声 - [古川登志夫](../Page/古川登志夫.md "wikilink")）
+      - [リュウ・ホセイ](../Page/リュウ・ホセイ.md "wikilink")（声 - [飯塚昭三](../Page/飯塚昭三.md "wikilink")）
+      - [セイラ・マス](../Page/セイラ・マス.md "wikilink")（「アルテイシア」と入力してもセイラとして扱われる）（声 - [井上瑤](../Page/井上瑤.md "wikilink")）
+      - [スレッガー・ロウ](../Page/スレッガー・ロウ.md "wikilink")（声 - [井上真樹夫](../Page/井上真樹夫.md "wikilink")）
   - ジオン公国軍
-      - [赤い彗星のシャア](../Page/シャア・アズナブル.md "wikilink")（「キャスバル」と入力してもシャアとして扱われる。専用BGM[シャアが来る](https://ja.wikipedia.org/wiki/シャアが来る "wikilink")が用意されている。）
-      - [ガルマ・ザビ](https://ja.wikipedia.org/wiki/ザビ家#ガルマ・ザビ "wikilink")
-      - [ランバ・ラル](../Page/ランバ・ラル.md "wikilink")
-      - [マ・クベ](../Page/マ・クベ.md "wikilink")
-      - [ガイア](https://ja.wikipedia.org/wiki/黒い三連星#ガイア "wikilink")
-      - [マッシュ](https://ja.wikipedia.org/wiki/黒い三連星#マッシュ "wikilink")
-      - [オルテガ](https://ja.wikipedia.org/wiki/黒い三連星#オルテガ "wikilink")
-      - [ララァ・スン](../Page/ララァ・スン.md "wikilink")
-      - [ドズル・ザビ](https://ja.wikipedia.org/wiki/ザビ家#ドズル・ザビ "wikilink")
+      - [赤い彗星のシャア](../Page/シャア・アズナブル.md "wikilink")（「キャスバル」と入力してもシャアとして扱われる。専用BGM・シャアが来るが用意されている）（声 - [池田秀一](../Page/池田秀一.md "wikilink")）
+      - [ガルマ・ザビ](https://ja.wikipedia.org/wiki/ザビ家#ガルマ・ザビ "wikilink")（声 - [森功至](../Page/森功至.md "wikilink")）
+      - [ランバ・ラル](../Page/ランバ・ラル.md "wikilink")（声 - [広瀬正志](../Page/広瀬正志.md "wikilink")）
+      - [マ・クベ](../Page/マ・クベ.md "wikilink")（声 - [田中正彦](../Page/田中正彦.md "wikilink")）
+      - [ガイア](https://ja.wikipedia.org/wiki/黒い三連星#ガイア "wikilink")（声 - [徳丸完](../Page/徳丸完.md "wikilink")）
+      - [マッシュ](https://ja.wikipedia.org/wiki/黒い三連星#マッシュ "wikilink")（声 - [永井一郎](../Page/永井一郎.md "wikilink")）
+      - [オルテガ](https://ja.wikipedia.org/wiki/黒い三連星#オルテガ "wikilink")（声 - [二又一成](../Page/二又一成.md "wikilink")）
+      - [ララァ・スン](../Page/ララァ・スン.md "wikilink")（声 - [潘恵子](../Page/潘恵子.md "wikilink")）
+      - [ドズル・ザビ](https://ja.wikipedia.org/wiki/ザビ家#ドズル・ザビ "wikilink")（声 - [玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink")）
+  - オペレーター・パイロット以下
+      - [ブライト・ノア](../Page/ブライト・ノア.md "wikilink")（声 - [鈴置洋孝](https://ja.wikipedia.org/wiki/鈴置洋孝 "wikilink")）
+      - [フラウ・ボゥ](../Page/フラウ・ボゥ.md "wikilink")（声 - [鵜飼るみ子](../Page/鵜飼るみ子.md "wikilink")）
 
 ## ゲーム特有の用語
 

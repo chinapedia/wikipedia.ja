@@ -5,7 +5,7 @@
 
 [1872年](../Page/1872年.md "wikilink")に[クリストファー・レイサム・ショールズ](../Page/クリストファー・レイサム・ショールズ.md "wikilink")によって配列の原型が提案され、[1882年](../Page/1882年.md "wikilink")に下記の配列が登場した\[1\]。
 
-[QWERTY配列](https://ja.wikipedia.org/wiki/ファイル:qwerty.png "wikilink")
+[QWERTY配列](https://ja.wikipedia.org/wiki/File:qwerty.png "fig:QWERTY配列")
 
 ## QWERTY配列が完成するまでの過程
 

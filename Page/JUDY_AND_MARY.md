@@ -1,7 +1,7 @@
 > この記事は[JUDY AND MARY](https://ja.wikipedia.org/wiki/JUDY_AND_MARY)から翻訳されています。
 
 
-**JUDY AND MARY** （ジュディ・アンド・マリー、略称：**ジュディマリ**、**JAM**） は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[1992年](../Page/1992年.md "wikilink")結成。[1993年](../Page/1993年.md "wikilink")にメジャーデビュー。[2001年](../Page/2001年.md "wikilink")解散。
+| 活動期間 = 1992年 - 2001年 | レーベル =  | 事務所 = | 共同作業者 = [佐久間正英](../Page/佐久間正英.md "wikilink") | 公式サイト = | 旧メンバー =  }} **JUDY AND MARY** （ジュディ・アンド・マリー、略称：**ジュディマリ**、**JAM**） は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[1992年](../Page/1992年.md "wikilink")結成。[1993年](../Page/1993年.md "wikilink")にメジャーデビュー。[2001年](../Page/2001年.md "wikilink")解散。
 
 ## 略歴
 
@@ -526,13 +526,12 @@
 
 ## 外部リンク
 
-  - [ソニーミュージックによる公式ページ](https://www.sonymusic.co.jp/artist/JudyAndMary/)
-
-[Category:JUDY_AND_MARY](https://ja.wikipedia.org/wiki/Category:JUDY_AND_MARY "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:1992年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1992年に結成した音楽グループ "wikilink") [Category:2001年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に解散した音楽グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink")
+  -
+[Category:JUDY_AND_MARY](https://ja.wikipedia.org/wiki/Category:JUDY_AND_MARY "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:日本のポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のポップ・ロック・バンド "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:1992年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1992年に結成した音楽グループ "wikilink") [Category:2001年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に解散した音楽グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink")
 
 1.  『JAM BOOK』参考。
 2.
-3.  J-ROCK MAGAZINE[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[6月](../Page/6月.md "wikilink")号 [恩田のインタビュー](http://web.archive.org/web/20071214022315/http://www.j-rock.com/back_intime/97_6/9761/9761.html) より（※元サイトリンク切れのためwebキャッシュにリンク）
+3.  J-ROCK MAGAZINE[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[6月](../Page/6月.md "wikilink")号 [恩田のインタビュー](https://web.archive.org/web/20071214022315/http://www.j-rock.com/back_intime/97_6/9761/9761.html) より（※元サイトリンク切れのためwebキャッシュにリンク）
 4.
 5.
 6.  「JAM」と「JUMP」を合わせた造語。

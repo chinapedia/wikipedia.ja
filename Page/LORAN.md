@@ -1,7 +1,7 @@
 > この記事は[LORAN](https://ja.wikipedia.org/wiki/LORAN)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:LORAN_Station_Malone-Outside-Large.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:JRC_LORAN_Receiver_JNA-757.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Loran_pulse.svg "wikilink") **LORAN**（ロラン、\[1\]）は、地上系[電波航法](https://ja.wikipedia.org/wiki/電波航法 "wikilink")システム\[2\]の一種である。[船舶](https://ja.wikipedia.org/wiki/船舶 "wikilink")や[航空機](../Page/航空機.md "wikilink")で利用されてきたが、より高精度な衛星系電波航法システムである[GPSへの移行が進み](../Page/グローバル・ポジショニング・システム.md "wikilink")、多くの国では終息している。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:LORAN_Station_Malone-Outside-Large.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:JRC_LORAN_Receiver_JNA-757.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Loran_pulse.svg "wikilink") **LORAN**（ロラン、\[1\]）は、地上系[電波航法](https://ja.wikipedia.org/wiki/電波航法 "wikilink")システム\[2\]の一種である。[船舶](https://ja.wikipedia.org/wiki/船舶 "wikilink")や[航空機](../Page/航空機.md "wikilink")で利用されてきたが、より高精度な衛星系電波航法システムである[GPSへの移行が進み](../Page/グローバル・ポジショニング・システム.md "wikilink")、多くの国では運用が終了している。
 
 ## 概説
 

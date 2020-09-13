@@ -251,7 +251,7 @@
   - 7月10日：[清水愛](../Page/清水愛.md "wikilink")
   - 7月17日：[中原麻衣](https://ja.wikipedia.org/wiki/中原麻衣 "wikilink")
   - 7月24日：[石田彰](../Page/石田彰.md "wikilink")
-  - 7月31日：[日高のり子](../Page/日高のり子.md "wikilink")
+  - 7月31日：[日髙のり子](../Page/日髙のり子.md "wikilink")
 
 ## 放送局
 

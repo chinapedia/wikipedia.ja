@@ -85,7 +85,7 @@ FEN当時は「」のアナウンス後に“ポーン”の音で[時報](../Pa
 
 ### AFN 360 Internet Radio
 
-[2013年](../Page/2013年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")より、先行していたAFN Europeに続き、日本と韓国のAFN局から放送されるラジオ番組と衛星より配信される音声番組を、アメリカ軍駐留国に限った[インターネット](../Page/インターネット.md "wikilink")配信サービス[AFN 360 Internet Radio](http://www.afnpacific.net/afn360.aspx)での配信放送が始まる。これらサービスは[Android](../Page/Android.md "wikilink")や[iOSの端末でも楽しむことができる](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")。
+[2013年](../Page/2013年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")より、先行していたAFN Europeに続き、日本と韓国のAFN局から放送されるラジオ番組と衛星より配信される音声番組を、アメリカ軍駐留国に限った[インターネット](../Page/インターネット.md "wikilink")配信サービス[AFN 360 Internet Radio](http://www.afnpacific.net/afn360.aspx)での配信放送が始まる。これらサービスは[Androidや](../Page/Android_\(オペレーティングシステム\).md "wikilink")[iOSの端末でも楽しむことができる](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")。
 
 AFN 360 Internet Radioで聞くことができるAFN局
 

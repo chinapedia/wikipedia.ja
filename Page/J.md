@@ -5,7 +5,7 @@
 
 ## 字形
 
-大文字は、縦棒の下が左に曲がった形である。しばしば折り返す。[フラクトゥール](../Page/フラクトゥール.md "wikilink")は\(\mathfrak{J}\)で、書体によっては\(\mathfrak{I}\)([I](../Page/I.md "wikilink")) と区別が付かない。このため、記号としては\(\mathfrak{J}\)(J) を抜かすことがある（\(\mathfrak{I}\)(I) の次の記号に\(\mathfrak{K}\)(K) を使う）。また、[T](../Page/T.md "wikilink") の筆記体と紛らわしいが、フラクトゥールで T は\(\mathfrak{T}\)のようであり、区別が付く。
+大文字は、縦棒の下が左に曲がった形である。しばしば折り返す。[フラクトゥール](../Page/フラクトゥール.md "wikilink")は\(\mathfrak{J}\)で、書体によっては\(\mathfrak{I}\)([I](../Page/I.md "wikilink")) と区別が付かない（あるいは、もともと異体字であったIとJの区別を設けていない）。このため、記号としては\(\mathfrak{J}\)(J) を抜かすことがある（\(\mathfrak{I}\)(I) の次の記号に\(\mathfrak{K}\)(K) を使う）。また、[T](../Page/T.md "wikilink") の筆記体と紛らわしいが、フラクトゥールで T は\(\mathfrak{T}\)のようであり、区別が付く。
 
 小文字は[ミーンラインより下に書かれるが](https://ja.wikipedia.org/wiki/書体#欧文書体の種類 "wikilink")、[ベースラインを越えて下に突き出す](https://ja.wikipedia.org/wiki/書体#欧文書体の種類 "wikilink")。このため、実質的な大きさはこれだけでも大文字と同等である。さらに、[i](https://ja.wikipedia.org/wiki/i "wikilink")同様、上に点を付ける。[フラクトゥール](../Page/フラクトゥール.md "wikilink")は\(\mathfrak{j}\)。文字の上部に付ける[ダイアクリティカルマーク](../Page/ダイアクリティカルマーク.md "wikilink")が付く場合、普通は点を付けないで、ダイアクリティカルマークのみを付ける。
 
@@ -19,25 +19,29 @@
 
 日本では「ジェー」「ジェイ」と呼ぶことが多い。[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）では、Jの発音・表記として「ジェー」を優先し、「ジェイ」を発音の幅として認められるとする。国語辞典でも「ジェー」で項目を立てるものがほとんどである\[1\]。
 
-  - （ヂェイ）
-
   - （ヨット）
 
   - （イルンガ＝長い I）
 
   - [オランダ語](../Page/オランダ語.md "wikilink")・[ハンガリー語](../Page/ハンガリー語.md "wikilink")：イェー
 
+  - [スウェーデン語](../Page/スウェーデン語.md "wikilink")・[フィンランド語](../Page/フィンランド語.md "wikilink")：イィー
+
+  - [デンマーク語](../Page/デンマーク語.md "wikilink")・[ノルウェー語](../Page/ノルウェー語.md "wikilink")：ヨッド
+
+  - [エスペラント](../Page/エスペラント.md "wikilink")：ヨー
+
+  - （ヂェイ）
+
   - [フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")：ジ
+
+  - [トルコ語](../Page/トルコ語.md "wikilink")・[ルーマニア語](../Page/ルーマニア語.md "wikilink")：ジェ
 
   - （ホタ）
 
   - （ジョッタ）
 
-  - [エスペラント](../Page/エスペラント.md "wikilink")：ヨー
-
   - [インドネシア語](../Page/インドネシア語.md "wikilink")：ジェー
-
-  - [トルコ語](../Page/トルコ語.md "wikilink")：ジェ
 
 ## 音価
 
@@ -45,13 +49,13 @@
 
   - [有声後部歯茎摩擦音](https://ja.wikipedia.org/wiki/有声後部歯茎摩擦音 "wikilink")  - フランス語、ポルトガル語、トルコ語
   - [有声後部歯茎破擦音](https://ja.wikipedia.org/wiki/有声後部歯茎破擦音 "wikilink")  - 英語
-  - [無声軟口蓋摩擦音](../Page/無声軟口蓋摩擦音.md "wikilink")  - スペイン語、フィジー語
+  - [無声軟口蓋摩擦音](../Page/無声軟口蓋摩擦音.md "wikilink")  - スペイン語
 
 東アジアの諸言語をラテン文字で[転写する際には](../Page/転写_\(言語学\).md "wikilink")、 の近似音を J で表すことが多い。[有声音](https://ja.wikipedia.org/wiki/有声音 "wikilink")と[無声音](../Page/無声音.md "wikilink")の区別がなく[有気音](../Page/有気音.md "wikilink")と[無気音](https://ja.wikipedia.org/wiki/無気音 "wikilink")を区別する言語では、無気音のほうに J が当てられる。その場合、J は無声音をも表すことになる。日本語の[ヤ行](https://ja.wikipedia.org/wiki/ヤ行 "wikilink")の子音等の近似音は代わりに[Y](../Page/Y.md "wikilink")で表すことが多い。
 
   - [朝鮮語](../Page/朝鮮語.md "wikilink")では、に近い有声音で発音される（[{{IPA](../Page/有声歯茎硬口蓋破擦音.md "wikilink")）に J が当てられている。大韓民国の[文化観光部2000年式](../Page/文化観光部2000年式.md "wikilink")では無声音でと発音される場合でも母音が後続するなら J を用いる。は常に無声音で発音されるが jj となる。
-  - [中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")の[漢語拼音](https://ja.wikipedia.org/wiki/漢語拼音 "wikilink")では、J は[無声歯茎硬口蓋破擦音](../Page/無声歯茎硬口蓋破擦音.md "wikilink")の無気音を表す。
-  - [日本語](../Page/日本語.md "wikilink")の[ヘボン式ローマ字](../Page/ヘボン式ローマ字.md "wikilink")表記では、に近い「ジャ」「ジ」「ジュ」「ジェ」「ジョ」の子音に J が当てられている。jy と表記されることもあるが、基本的には正しくない。訓令式では使用しない。
+  - [中国語](../Page/中国語.md "wikilink")の[漢語拼音](https://ja.wikipedia.org/wiki/漢語拼音 "wikilink")では、J は[無声歯茎硬口蓋破擦音](../Page/無声歯茎硬口蓋破擦音.md "wikilink")の無気音を表す。
+  - [日本語](../Page/日本語.md "wikilink")の[ヘボン式ローマ字](../Page/ヘボン式ローマ字.md "wikilink")表記では、に近い「ジ」および「ジャ」行の子音に J が当てられている。ジャ行の表記において jy と表記されることもあるが、基本的には正しくない。なお訓令式では使用しない。
 
 ## J の意味
 
@@ -65,7 +69,7 @@
   - [二十進法](../Page/二十進法.md "wikilink")において、[十九](https://ja.wikipedia.org/wiki/19 "wikilink")（[十進法](../Page/十進法.md "wikilink")の**19**）を一桁で表すのに用いる。ただし、アルファベットの [I](../Page/I.md "wikilink") と数字の [1](https://ja.wikipedia.org/wiki/1 "wikilink") が混同し易いために、アルファベットの I を用いない（この場合、J が[十八を意味する](../Page/18.md "wikilink")）例もある。
   - [APL](../Page/APL.md "wikilink")の後継にあたる[プログラミング言語](../Page/プログラミング言語.md "wikilink") - [J (プログラミング言語)](../Page/J_\(プログラミング言語\).md "wikilink")
   - [医学](../Page/医学.md "wikilink")や[歯学](../Page/歯学.md "wikilink")領域で消毒剤としての[ポビドンヨード](https://ja.wikipedia.org/wiki/ポビドンヨード "wikilink")や、[ヨウ素](https://ja.wikipedia.org/wiki/ヨウ素 "wikilink")を慣例的にJと略す。J綿球（ポビドンヨード綿球）や、JGパスタ(ヨードグリセリンパスタ製剤）など。[ドイツ語](../Page/ドイツ語.md "wikilink")のjodから。
-  - [素粒子物理学](https://ja.wikipedia.org/wiki/素粒子物理学 "wikilink")で[内量子数](https://ja.wikipedia.org/wiki/内量子数 "wikilink")（大文字・小文字）
+  - [素粒子物理学](../Page/素粒子物理学.md "wikilink")で[内量子数](https://ja.wikipedia.org/wiki/内量子数 "wikilink")（大文字・小文字）
   - [量子力学](https://ja.wikipedia.org/wiki/量子力学 "wikilink")で、交換積分を表す文字。[交換相互作用](../Page/交換相互作用.md "wikilink")を参照のこと。
   - [J/Ψ粒子](https://ja.wikipedia.org/wiki/J/Ψ粒子 "wikilink")の旧称、J粒子。
   - [数学](../Page/数学.md "wikilink")や[コンピュータ・プログラミング](https://ja.wikipedia.org/wiki/コンピュータ・プログラミング "wikilink")で、i, j, [k](https://ja.wikipedia.org/wiki/k "wikilink") は[イテレータ](../Page/イテレータ.md "wikilink")、[インデックス](https://ja.wikipedia.org/wiki/添数 "wikilink")、整数の値をとる変数名としてよく使われる。
@@ -75,7 +79,7 @@
   - **J**apan（[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")）の略としてよく用いられる（例：[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")、[JA](../Page/農業協同組合.md "wikilink")、[JT](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")、[J-POP](../Page/J-POP.md "wikilink")、[JAL](../Page/日本航空.md "wikilink")、[JR](../Page/JR.md "wikilink")、[JRA](../Page/日本中央競馬会.md "wikilink")、[J-PHONE](../Page/SoftBank_\(携帯電話\).md "wikilink")、[J文学](https://ja.wikipedia.org/wiki/J文学 "wikilink")など）。
       - 日本の自動車[国際識別記号](../Page/国際識別記号.md "wikilink")。
       - なお、[ISO 3166-1など](../Page/ISO_3166-1.md "wikilink")、日本国の国名コードには、[JP](../Page/JP.md "wikilink")、[JPN](https://ja.wikipedia.org/wiki/JPN "wikilink")がよく使われる。過去には[Japが使われたが](../Page/ジャップ.md "wikilink")、英語で日本の蔑称にも使われたため、最近は避けられる。また、[ISO 639など](../Page/ISO_639.md "wikilink")、[日本語](../Page/日本語.md "wikilink")の言語名コードには[JA](https://ja.wikipedia.org/wiki/JA "wikilink")がよく使われる。
-      - かつての[国際電気通信連合](../Page/国際電気通信連合.md "wikilink")条約の[呼出符号](https://ja.wikipedia.org/wiki/呼出符号 "wikilink")では、[大日本帝国](https://ja.wikipedia.org/wiki/大日本帝国 "wikilink")時に「J」単独での使用が認められたが、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")で敗戦したため「J」1文字の[コールサインは取り上げられた](../Page/世界のコールサイン割り当て一覧.md "wikilink")。
+      - かつての[国際電気通信連合](../Page/国際電気通信連合.md "wikilink")条約の[呼出符号](https://ja.wikipedia.org/wiki/呼出符号 "wikilink")では、[大日本帝国](https://ja.wikipedia.org/wiki/大日本帝国 "wikilink")時に「J」単独での使用が認められたが、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")で[敗戦したため](../Page/日本の降伏.md "wikilink")「J」1文字の[コールサインは取り上げられた](../Page/世界のコールサイン割り当て一覧.md "wikilink")。
       - [サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")・[Jリーグ](https://ja.wikipedia.org/wiki/Jリーグ "wikilink")の略称。[1993年](../Page/1993年.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")頃のJリーグブーム時には、商品名（「Jビーフ」「Jポーク」等）や作品名（『[勇者警察ジェイデッカー](../Page/勇者警察ジェイデッカー.md "wikilink")』『[キャプテン翼J](https://ja.wikipedia.org/wiki/キャプテン翼_\(アニメ\) "wikilink")』『[仮面ライダーJ](../Page/仮面ライダーJ.md "wikilink")』等）にJを冠する事が流行した。
   - [トランプ](../Page/トランプ.md "wikilink")などでジャック ([11](../Page/11.md "wikilink")) を表す。
   - [不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")、[建築](../Page/建築.md "wikilink")において面積を表す[畳 (単位)](https://ja.wikipedia.org/wiki/畳_\(単位\) "wikilink")（帖）の代わりとしてJと表記することがある。
@@ -101,6 +105,7 @@
       - ソルダード・J - アニメ『[勇者王ガオガイガー](../Page/勇者王ガオガイガー.md "wikilink")』の登場人物。
       - アニメ『[バトルスピリッツ 少年突破バシン](https://ja.wikipedia.org/wiki/バトルスピリッツ_少年突破バシン "wikilink")』の登場人物。
       - アニメ『[ポケットモンスター ダイヤモンド&パール](../Page/ポケットモンスター_ダイヤモンド&パール.md "wikilink")』の登場人物。⇒[アニメ版ポケットモンスターの登場人物\#J](https://ja.wikipedia.org/wiki/アニメ版ポケットモンスターの登場人物#J "wikilink")
+      - [自衛隊](../Page/自衛隊.md "wikilink")を意味する[隠語](../Page/隠語.md "wikilink")。J隊（自衛隊）、J官（[自衛官](../Page/自衛官.md "wikilink")）など\[2\]\[3\]。
 
 ## 符号位置
 
@@ -126,3 +131,5 @@
 [Category:ラテン文字](https://ja.wikipedia.org/wiki/Category:ラテン文字 "wikilink")
 
 1.
+2.
+3.

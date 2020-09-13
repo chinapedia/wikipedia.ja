@@ -23,7 +23,7 @@
 
 ### 短篇集
 
-  - *Nine Hundred Grandmothers* ([1970年](../Page/1970年.md "wikilink")) 邦訳『九百人のお祖母さん』[浅倉久志](../Page/浅倉久志.md "wikilink")訳、[早川書房](../Page/早川書房.md "wikilink")、[1981年](../Page/1981年.md "wikilink")、「スナッフルズ」など収録。のちハヤカワ文庫
+  - *Nine Hundred Grandmothers* ([1970年](../Page/1970年.md "wikilink")) 邦訳『九百人のお祖母さん』[浅倉久志](../Page/浅倉久志.md "wikilink")訳、[早川書房](../Page/早川書房.md "wikilink")、[1981年](../Page/1981年.md "wikilink")、のちハヤカワ文庫
       - 「九百人のお祖母さん」*Nine Hundred Grandmothers*
       - 「巨馬の国」*Land of the Great Horses*
       - 「日の当たるジニー」*Ginny Wrapped in the Sun*
@@ -45,11 +45,60 @@
       - 「他人の目」*through Other Eyes*
       - 「一期一宴」*One at a Time*
       - 「千客万来」*Guesting Time*
-  - *Strange Doings* ([1972年](../Page/1972年.md "wikilink")) 邦訳『つぎの岩につづく』[伊藤典夫](../Page/伊藤典夫.md "wikilink")/浅倉久志訳、早川書房（ハヤカワ文庫）[1996年](../Page/1996年.md "wikilink")　「[みにくい海](https://ja.wikipedia.org/wiki/みにくい海 "wikilink")」など収録。
+  - *Strange Doings* ([1972年](../Page/1972年.md "wikilink")) 邦訳『つぎの岩につづく』[伊藤典夫](../Page/伊藤典夫.md "wikilink")/浅倉久志訳、早川書房（ハヤカワ文庫）[1996年](../Page/1996年.md "wikilink")
+      - 「レインバード」*Rainbird*
+      - 「クロコダイルとアリゲーターよ、クレム」*Camels and Dromedaries, Clem*
+      - 「つぎの岩につづく」 *Continued on Next Rock*
+      - 「むかしアラネアで」 *Once on Aranea*
+      - 「テキサス州ソドムとゴモラ」 *Sodom and Gomorrah, Texas*
+      - 「金の斑入りの目をもつ男」 *The Man with the Speckled Eyes*
+      - 「問答無量」*All But the Words*
+      - 「超絶の虎」*The Transcendent Tigers*
+      - 「豊穣世界」*World Abounding*
+      - 「夢」*Dream*
+      - 「ブリキ缶に乗って」*Ride a Tin Can*
+      - 「アロイス」*Aloys*
+      - 「完全無欠な貴橄欖石」*Entire and Perfect Chrysolite*
+      - 「太古の殻にくるまれて」*Incased in Ancient Rind*
+      - 「[みにくい海](https://ja.wikipedia.org/wiki/みにくい海 "wikilink")」*The Ugly Sea*
+      - 「断崖が笑った」*Cliffs That Laughed*
   - 『子供たちの午後』([1982年](../Page/1982年.md "wikilink")) *Among the Hairly Earthmen* 井上央編訳、青心社、日本オリジナル
   - 『どろぼう熊の惑星』([1993年](../Page/1993年.md "wikilink")) *A Lafferty Reader* 浅倉久志編訳、早川書房（ハヤカワ文庫）、日本オリジナル
+      - 「このすばらしい死骸」*This Grand Carcass Yet*
+      - 「秘密の鰐について」*About a Secret Crocodile*
+      - 「寿限無、寿限無」*Been a Long Long Time*
+      - 「コンディヤックの石像」*Condillac's Statue*
+      - 「とどろき平」*Boomer Flats*
+      - 「また、石灰岩の島々も」*Nor Limestone Islands*
+      - 「世界の蝶番はうめく」*Groaning Hinges of the World*
+      - 「処女の季節」*Parthen*
+      - 「意志と壁紙としての世界」*The World as Will and Wallpaper*
+      - 「草の日々、藁の日々」*Days of Grass, Days of Straw*
+      - 「ダマスカスの川」*Rivers of Damascus*
+      - 「床の水たまり」*Puddle on the Floor*
+      - 「どろぼう熊の惑星」*Thieving Bear Planet*
+      - 「イフリート」*Ifrit*
+      - 「公明にして正大」*Square and Above Board*
+      - 「泉が干あがったとき」*Oh Whatta You Do When the Well Runs Dry?*
+      - 「豊かで不思議なもの」*Something Rich and Strange*
   - 『翼の贈りもの』([2011年](../Page/2011年.md "wikilink")) 井上央編訳、青心社、日本オリジナル
   - 『昔には帰れない』([2012年](../Page/2012年.md "wikilink")) 伊藤典夫/浅倉久志訳、早川書房（ハヤカワ文庫）、日本オリジナル
+      - 素顔のユリーマ
+      - 月の裏側
+      - 楽園にて
+      - パイン・キャッスル
+      - ぴかぴかコインの湧きでる泉
+      - 崖を登る
+      - 小石はどこから
+      - 昔には帰れない
+      - 忘れた偽足
+      - ゴールデン・トラバント
+      - そして、わが名は
+      - 大河の千の岸辺
+      - すべての陸地ふたたび溢れいづるとき
+      - 廃品置き場の裏面史
+      - 行間からはみだすものを読め
+      - 一八七三年のテレビドラマ
 
 他に短篇多数。
 

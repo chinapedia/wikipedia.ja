@@ -90,7 +90,11 @@
   - 六日市 1323kHz 出力：100W
   - 益田 1341kHz 出力：100W
   - 津和野 999kHz 出力：100W
-  - 隠岐 FM79.4MHz 出力：100W（隠岐の島町　2014年11月5日予備免許\[1\]）
+  - 隠岐 FM79.4MHz 出力：100W（隠岐の島町）
+  - 赤名 FM87.5MHz 出力：3W
+  - 来島 FM89.2MHz 出力：10W
+  - 頓原 FM88.0MHz 出力：3W
+  - 日原 FM80.3MHz 出力：30W
 
 #### ラジオ第2放送
 
@@ -152,7 +156,7 @@
 <!-- end list -->
 
   -
-    ※2018年改編で週末・祝日・年末年始のニュース・気象情報は災害時等を除き、広島放送局から終日**中国地方向け放送**となり、島根県向け放送は平日（おはよう島根〈7:45 - 7:51〉・ひるまえ直送便〈火曜11:50 - 11:54〉・正午のニュース〈12:15 - 12:20〉・しまねっとNEWS610〈18:10 - 19:00〉・しまねっと845〈20:45 - 21:00〉）のみに縮小する。2018年は『[ニュースちゅうごく645](https://ja.wikipedia.org/wiki/ひろしまニュース645 "wikilink")』内の全国の気象情報放送後に島根県の気象情報を放送していたが、2019年からは広島から中国地方の気象情報の同時ネットに切り替えた。
+    ※2018年改編で土日祝・年末年始のニュース・気象情報は原則として選挙･災害時等を除き、広島からの終日**中国地方向け放送**に移行し\[1\]、さらに2020年改編で『ひるまえ直送便』の島根県向け枠（2020年3月までは11:52 - 12:00）が火曜11:50 - 11:54に縮小され、月曜及び水曜 -金曜全編及び火曜11:30 - 11:50､11:54 - 12:00が広島からの**中国地方向け放送**となり、島根県向け放送は平日の『おはよう島根』（7:45 - 7:51）・正午のニュース（12:15 - 12:20）・『しまねっとNEWS610』（18:10 - 19:00）・『しまねっと845』（20:45 - 21:00）のみに縮小された\[2\]。
 
 <!-- end list -->
 
@@ -184,8 +188,8 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/福田光男.md" title="wikilink">福田光男</a></p></td>
-<td><p><a href="../Page/NHK広島放送局.md" title="wikilink">広島</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大槻隆行" title="wikilink">大槻隆行</a></p></td>
+<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td><p>放送部副部長<br />
 島根県のニュース</p></td>
 </tr>
@@ -276,4 +280,5 @@
   -
 [Category:NHK松江](https://ja.wikipedia.org/wiki/Category:NHK松江 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:島根県のマスメディア](https://ja.wikipedia.org/wiki/Category:島根県のマスメディア "wikilink") [Category:中国地方のテレビ局](https://ja.wikipedia.org/wiki/Category:中国地方のテレビ局 "wikilink") [Category:中国地方のラジオ局](https://ja.wikipedia.org/wiki/Category:中国地方のラジオ局 "wikilink") [Category:松江市の建築物](https://ja.wikipedia.org/wiki/Category:松江市の建築物 "wikilink")
 
-1.
+1.  2018年は『[ニュースちゅうごく645](https://ja.wikipedia.org/wiki/ニュースちゅうごく645 "wikilink")』内の全国の気象情報放送後に島根県の気象情報を放送していたが、2019年以降は広島から中国地方の気象情報の同時ネットに切り替えた。
+2.

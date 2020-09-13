@@ -17,13 +17,13 @@ Windows 98は[Windows 9x系のOSでWindows](../Page/Windows_9x系.md "wikilink")
 
 また、本OSの後継にあたる[Windows Meや別系統](../Page/Microsoft_Windows_Millennium_Edition.md "wikilink")（NT系カーネル）の[Windows 2000や](../Page/Microsoft_Windows_2000.md "wikilink")[Windows XPなど後継のOSよりも要求されるPCのスペックが低いこと](../Page/Microsoft_Windows_XP.md "wikilink")、古いソフトが動作することなどから、マイクロソフトによるサポートが終了（後述）した後においても一部（主として[組み込みシステム](../Page/組み込みシステム.md "wikilink")）で利用された。中古PCや[ジャンクPCの有効活用](../Page/ジャンク品_\(パーソナルコンピュータ\).md "wikilink")\[4\]、[Virtual PCや](https://ja.wikipedia.org/wiki/Microsoft_Virtual_PC "wikilink")[VMware](../Page/VMware.md "wikilink")、[VirtualBox](../Page/VirtualBox.md "wikilink")などの[仮想マシン](https://ja.wikipedia.org/wiki/仮想マシン "wikilink")上でのゲストOSとしての利用、後継OSでは動作しないゲームソフトのためなどの場面が考えられる。特に法人用途については98SEが家庭・法人兼用OSである（したがってダウングレード権の対象にもなる）のに対し、Meは家庭向けエディションのみで法人向けエディションが存在しないという事情もあった。このためNT系 (2000/XP) では動作しない9x系ソフト資産に対する法人需要に対してはMeではなく98SE機を提供することになり、一部の法人ユーザー向けのPC製品には2003年ごろまで Windows 98 SEが[プリインストール](../Page/プリインストール.md "wikilink")された機種が販売されていた。
 
-2019年現在、マイクロソフトの各種サポートが打ち切られていることからWindows 98に正式に対応する製品はほぼ姿を消している。マイクロソフトのサポート終了後、Windows XP以降のNT系統への移行が加速したことが窺える。また、Windows 98に対応することは 、NEC PC-9800シリーズでの動作をもサポートしなければならないことを意味するため、当時からPC-9800シリーズをサポートしないなどと明言する製品も少なくなかったのだが、XP以降を対象とすることでその制限が完全に解消された形になった。
+2020年現在、マイクロソフトの各種サポートが打ち切られていることからWindows 98に正式に対応する製品は完全に姿を消している。マイクロソフトのサポート終了後、Windows XP以降のNT系統への移行が加速したことが窺える。また、Windows 98に対応することは 、NEC PC-9800シリーズでの動作をもサポートしなければならないことを意味するため、当時からPC-9800シリーズをサポートしないなどと明言する製品も少なくなかったのだが、XP以降を対象とすることでその制限が完全に解消された形になった。
 
-1999年以前に登場したWindows 98及びWindows 98 SEは、[ブロードバンドインターネット接続](https://ja.wikipedia.org/wiki/ブロードバンドインターネット接続 "wikilink")の普及が本格化する前に発売されたために[MTU値などの設定が電話回線](../Page/Maximum_Transmission_Unit.md "wikilink")（[ダイヤルアップ接続](../Page/ダイヤルアップ接続.md "wikilink")）に最適化されており、[ADSL](../Page/ADSL.md "wikilink")や[FTTH](../Page/FTTH.md "wikilink")といった大容量・高速回線で回線本来の性能を発揮できない（ただし、[レジストリ](../Page/レジストリ.md "wikilink")でMTU値などの設定をブロードバンド回線向けに最適化できる）。
+1999年以前に登場したWindows 98及びWindows 98 SEは、[ブロードバンドインターネット接続](https://ja.wikipedia.org/wiki/ブロードバンドインターネット接続 "wikilink")の普及が本格化する前に発売されたために[MTU値などの設定が電話回線](../Page/Maximum_Transmission_Unit.md "wikilink")（[ダイヤルアップ接続](../Page/ダイヤルアップ接続.md "wikilink")）や[ISDN](../Page/ISDN.md "wikilink")といった低速回線に最適化されており、その一方で[ADSL](../Page/ADSL.md "wikilink")や[FTTH](../Page/FTTH.md "wikilink")といった大容量・高速回線で回線本来の性能を発揮できない（ただし、[レジストリ](../Page/レジストリ.md "wikilink")でMTU値などの設定をブロードバンド回線向けに最適化できる）。
 
 Windows 98とWindows 98 SE（および後継のWindows Me）は、2006年7月11日限りで[セキュリティホール](../Page/セキュリティホール.md "wikilink")対策モジュール提供などのサポートが打ち切られた\[5\]\[6\]。2007年5月2日、独立行政法人[情報処理推進機構](../Page/情報処理推進機構.md "wikilink")は、「サポートが終了したOSの利用は**非常に危険な行為**である」と表明しており、使用する場合はネットに接続しない単独の専用システム（[スタンドアローン](../Page/スタンドアローン.md "wikilink")）にしたうえ、**なるべく[USBメモリ](https://ja.wikipedia.org/wiki/USBメモリ "wikilink")や[FD](../Page/フロッピーディスク.md "wikilink")、[MO](../Page/光磁気ディスク.md "wikilink")、外付け[HDD等の外部](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")[補助記憶装置](../Page/補助記憶装置.md "wikilink")でデータ交換しない**ことを呼びかけている\[7\]。
 
-2014年現在、Windows 9x系ではすでにWindows Updateを利用できなくなっているため\[8\]、既出の修正ファイルの自動導入を行えない状況にある。ただし、修正ファイルの提供自体は続いているため、個別にダウンロードして手動で適用することは可能。
+2020年現在、Windows 9x系ではすでにWindows Updateを利用できなくなっているため\[8\]、既出の修正ファイルの自動導入を行えない状況にある。ただし、修正ファイルの提供自体は続いているため、個別にダウンロードして手動で適用することは可能。
 
 ## システム要件
 

@@ -22,6 +22,7 @@
   - [AF軌道回路](https://ja.wikipedia.org/wiki/AF軌道回路 "wikilink") - [鉄道](../Page/鉄道.md "wikilink")の信号回路の一種
   - [アングロフレンチ](https://ja.wikipedia.org/wiki/アングロフレンチ "wikilink") (Anglo-French) - イギリスで使われた[ノルマン語](../Page/ノルマン語.md "wikilink")。
   - [アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink") (American Football)
+  - [エニタイムフィットネス](https://ja.wikipedia.org/wiki/エニタイムフィットネス "wikilink")（ANYTIME FITNESS）
 
 ### 固有名詞
 

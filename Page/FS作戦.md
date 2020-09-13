@@ -1,7 +1,7 @@
 > この記事は[FS作戦](https://ja.wikipedia.org/wiki/FS作戦)から翻訳されています。
 
 
-**FS作戦**（FSさくせん）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")（[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")）中に計画された[日本軍](../Page/日本軍.md "wikilink")の作戦である。陸海軍中央協定で定められた作戦名称は「[F作戦](https://ja.wikipedia.org/wiki/F作戦 "wikilink")」\[1\]。F作戦は、ニューカレドニヤ作戦（ニ号作戦またはNK作戦）、フィジー作戦（フ号作戦またはFI作戦）、サモア作戦（サ号作戦またはSA作戦）の総号呼称\[2\]。米豪分断のために[フィジー](../Page/フィジー.md "wikilink")、[サモア](../Page/サモア.md "wikilink")方面への[進攻](https://ja.wikipedia.org/wiki/進攻 "wikilink")を計画したが、使用予定の空母を[MI作戦](https://ja.wikipedia.org/wiki/MI作戦 "wikilink")で失ったため、基地航空部隊を使用する案に変更されて延期し、後に中止された。
+**FS作戦**（FSさくせん）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")（[大東亜戦争](../Page/大東亜戦争.md "wikilink")）中に計画された[日本軍](../Page/日本軍.md "wikilink")の作戦である。陸海軍中央協定で定められた作戦名称は「[F作戦](https://ja.wikipedia.org/wiki/F作戦 "wikilink")」\[1\]。F作戦は、ニューカレドニヤ作戦（ニ号作戦またはNK作戦）、フィジー作戦（フ号作戦またはFI作戦）、サモア作戦（サ号作戦またはSA作戦）の総号呼称\[2\]。米豪分断のために[フィジー](../Page/フィジー.md "wikilink")、[サモア](../Page/サモア.md "wikilink")方面への[進攻](https://ja.wikipedia.org/wiki/進攻 "wikilink")を計画したが、使用予定の空母を[MI作戦](https://ja.wikipedia.org/wiki/MI作戦 "wikilink")で失ったため、基地航空部隊を使用する案に変更されて延期し、後に中止された。
 
 ## 計画
 

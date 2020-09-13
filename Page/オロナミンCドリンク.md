@@ -9,17 +9,21 @@
 
 [1965年](../Page/1965年.md "wikilink")2月に販売が開始された。[ガラス](https://ja.wikipedia.org/wiki/ガラス "wikilink")製の瓶入りで当時は[王冠型のキャップが使用され](https://ja.wikipedia.org/wiki/王冠_\(栓\) "wikilink")、内容量は120ミリ[リットル](../Page/リットル.md "wikilink")で基準価格は120円であった。[イソロイシン](https://ja.wikipedia.org/wiki/イソロイシン "wikilink")などの[必須アミノ酸](../Page/必須アミノ酸.md "wikilink")、[ビタミンB2](https://ja.wikipedia.org/wiki/ビタミンB2 "wikilink")。[ビタミンB6](../Page/ビタミンB6.md "wikilink")、および[ビタミンC](../Page/ビタミンC.md "wikilink")を含む。ビタミンB2が含まれていることから紫外線を吸収し、可視光線としてはき出すため[ブラックライト](../Page/ブラックライト.md "wikilink")に当てると光る。[スーパーマーケット](../Page/スーパーマーケット.md "wikilink")や[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")などの店頭、および大塚製薬の[自動販売機](../Page/自動販売機.md "wikilink")で販売されている。日本での累計販売本数は1985年に100億本、1995年に200億本、2011年5月に300億本となっている。
 
-発売当初に、[炭酸](../Page/炭酸.md "wikilink")を含んでいるという理由により、当時の[厚生省](../Page/厚生省.md "wikilink")に医薬品としては認められないと判断された。法律の定めにより、本商品は健康の保持や増進に関わる効能や効果を表示したり、広告することはできない\[4\]\[5\]。その代わりに発売時から薬品店以外での販売が可能となった点は、オロナミンCが普及する要因の一つとなった。
+発売当初に、[炭酸](../Page/炭酸.md "wikilink")を含んでいるという理由により、当時の[厚生省](../Page/厚生省.md "wikilink")に医薬品としては認められないと判断された。法律の定めにより、本商品は健康の保持や増進に関わる効能や効果を表示したり、広告することはできない\[4\]\[5\]。その代わりに[清涼飲料水](../Page/清涼飲料水.md "wikilink")という扱いになっていることから、発売時から薬品店以外での販売が可能となった点は、オロナミンCが普及する要因の一つとなった\[6\]。また、2019年10月からの[消費増税と同時に導入された](../Page/消費税.md "wikilink")[軽減税率](https://ja.wikipedia.org/wiki/軽減税率 "wikilink")制度でも飲食料品の扱いとなり、同制度が適用されている\[7\]。
 
-発売当初、CMキャラクターに[大村崑](../Page/大村崑.md "wikilink")を起用したモノクロの[テレビCMが製作された](../Page/コマーシャルメッセージ.md "wikilink")\[6\]。
+発売当初、CMキャラクターに[大村崑](../Page/大村崑.md "wikilink")を起用したモノクロの[テレビCMが製作された](../Page/コマーシャルメッセージ.md "wikilink")\[8\]。
 
-[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")に[王冠式のキャップから](https://ja.wikipedia.org/wiki/王冠_\(栓\) "wikilink")「スクリューキャップ」\[7\] になったが、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に毒物が混入される事件（[パラコート連続毒殺事件](../Page/パラコート連続毒殺事件.md "wikilink")）が各地で起きたのを受け、[1986年](../Page/1986年.md "wikilink")、「[マキシキャップ](https://ja.wikipedia.org/wiki/マキシキャップ "wikilink")」\[8\] に変更された。少年の薬物汚染撲滅に取り組む「夜回り先生」こと[水谷修](https://ja.wikipedia.org/wiki/水谷修 "wikilink")の著書によれば、空き瓶の中に[シンナー](../Page/シンナー.md "wikilink")を入れる人がいたため現在の方式に変わったという。
+[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")に[王冠式のキャップから](https://ja.wikipedia.org/wiki/王冠_\(栓\) "wikilink")「スクリューキャップ」になったが、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に毒物が混入される事件（[パラコート連続毒殺事件](../Page/パラコート連続毒殺事件.md "wikilink")）が各地で起きたのを受け、[1986年](../Page/1986年.md "wikilink")、「[マキシキャップ](https://ja.wikipedia.org/wiki/マキシキャップ "wikilink")」に変更された\[9\]。少年の薬物汚染撲滅に取り組む「夜回り先生」こと[水谷修](https://ja.wikipedia.org/wiki/水谷修 "wikilink")の著書によれば、空き瓶の中に[シンナー](../Page/シンナー.md "wikilink")を入れる人がいたため現在の方式に変わったという。
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")には姉妹品の「オロナミンC ロイヤルポリス」が発売された\[9\]\[10\]。これは[ローヤルゼリー](../Page/ローヤルゼリー.md "wikilink")と[プロポリス](../Page/プロポリス.md "wikilink")の抽出物、ハチミツを成分に含む。
+[2000年](../Page/2000年.md "wikilink")には姉妹品の「オロナミンC ロイヤルポリス」が発売された\[10\]。これは[ローヤルゼリー](../Page/ローヤルゼリー.md "wikilink")と[プロポリス](../Page/プロポリス.md "wikilink")の抽出物、ハチミツを成分に含む\[11\]。
 
-[2015年](../Page/2015年.md "wikilink")2月2日に[韓国での製造](../Page/大韓民国.md "wikilink")・発売が開始された（韓国語表記：）。製造は[ポカリスエット](../Page/ポカリスエット.md "wikilink")同様にグループ会社の [東亜大塚](http://www.donga-otsuka.co.kr/brand/brand.asp)が担当している\[11\]\[12\]。
+[2015年](../Page/2015年.md "wikilink")2月2日に[韓国での製造](../Page/大韓民国.md "wikilink")・発売が開始された（韓国語表記：）。製造は[ポカリスエット](../Page/ポカリスエット.md "wikilink")同様にグループ会社の [東亜大塚](http://www.donga-otsuka.co.kr/brand/brand.asp)が担当している\[12\]\[13\]。
 
 <File:Otsuka> Oronamin C Drink Korea 01.jpg|韓国向けパッケージ
+
+## 利用
+
+オロナミンCと、同じ大塚製薬から出されている[ポカリスエット](../Page/ポカリスエット.md "wikilink")を混ぜた、通称「オロポ」と言う飲み物が[スーパー銭湯](../Page/スーパー銭湯.md "wikilink")や[健康ランド](../Page/健康ランド.md "wikilink")で出されている。主に[サウナ](../Page/サウナ.md "wikilink")利用の前後の他、自分で作って、[運動](https://ja.wikipedia.org/wiki/運動 "wikilink")の前後に飲まれる。
 
 ## 宣伝・広告
 
@@ -31,7 +35,7 @@
 
 ### テレビCM
 
-初代テレビCM出演者は[大村崑](../Page/大村崑.md "wikilink")。「うれしいとねぇ、めがねが落ちるんですよ！」というセリフが使われた。1970年の[日本万国博覧会](../Page/日本万国博覧会.md "wikilink")開催時には、上空で気球に乗った大村が「オロナミンCを飲んで万国博へ行こう！」と言うCMがあり、万博会場にある180店の全売店の内105店で販売した\[13\]。大村は発売当初から約10年間CMに出演した。昭和40年代にはテレビCMのほか、大塚グループの他の製品と同様、[ホーロー看板](../Page/ホーロー看板.md "wikilink")を各地に設置する広告手法も併用された。ホーロー看板には大塚製薬がスポンサーとなっていた番組である『[黄金バット](../Page/黄金バット.md "wikilink")』『[巨人の星](https://ja.wikipedia.org/wiki/巨人の星_\(アニメ\) "wikilink")』『[天才バカボン](https://ja.wikipedia.org/wiki/天才バカボン_\(アニメ\) "wikilink")』（いずれも[よみうりテレビ制作](../Page/讀賣テレビ放送.md "wikilink")）や『[アタックNo.1](../Page/アタックNo.1.md "wikilink")』『[ミラーマン](../Page/ミラーマン.md "wikilink")』（いずれも[フジテレビ制作](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）のキャラクターが左端下に載せられている。大村を起用したホーロー看板は映画やテレビ番組で使用されることがある。
+初代テレビCM出演者は[大村崑](../Page/大村崑.md "wikilink")。「うれしいとねぇ、めがねが落ちるんですよ！」というセリフが使われた。1970年の[日本万国博覧会](../Page/日本万国博覧会.md "wikilink")開催時には、上空で気球に乗った大村が「オロナミンCを飲んで万国博へ行こう！」と言うCMがあり、万博会場にある180店の全売店の内105店で販売した\[14\]。大村は発売当初から約10年間CMに出演した。昭和40年代にはテレビCMのほか、大塚グループの他の製品と同様、[ホーロー看板](../Page/ホーロー看板.md "wikilink")を各地に設置する広告手法も併用された。ホーロー看板には大塚製薬がスポンサーとなっていた番組である『[黄金バット](../Page/黄金バット.md "wikilink")』『[巨人の星](https://ja.wikipedia.org/wiki/巨人の星_\(アニメ\) "wikilink")』『[天才バカボン](https://ja.wikipedia.org/wiki/天才バカボン_\(アニメ\) "wikilink")』（いずれも[よみうりテレビ制作](../Page/讀賣テレビ放送.md "wikilink")）や『[アタックNo.1](../Page/アタックNo.1.md "wikilink")』『[ミラーマン](../Page/ミラーマン.md "wikilink")』（いずれも[フジテレビ制作](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）のキャラクターが左端下に載せられている。大村を起用したホーロー看板は映画やテレビ番組で使用されることがある。
 
 1976年から2001年まで、前述『巨人の星』の協賛への縁から、[プロ野球の](../Page/日本プロ野球.md "wikilink")[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")（巨人）の[選手を起用した](../Page/プロ野球選手.md "wikilink")。CMの最後には「オロナミンCは小さな巨人です！」というフレーズが用いられた。1983年ごろまでは大村が叫んでいたが、それ以降は巨人軍の選手が叫ぶようになった。また「CパワーがGパワーになる」というキャッチフレーズも使われた。姉妹品『オロナミンC ロイヤルポリス』のCMでは、当時読売ジャイアンツに在籍していた[松井秀喜](https://ja.wikipedia.org/wiki/松井秀喜 "wikilink")が出演した。読売ジャイアンツの本拠地[東京ドーム](../Page/東京ドーム.md "wikilink")の観客席の後ろに設置されている看板は、[ホームランの打球を当てれば賞金](../Page/本塁打.md "wikilink")100万円がもらえる「東京ドーム・ビッグボードスポンサー賞」の対象となっている。[日本テレビ系の](../Page/日本テレビ放送網.md "wikilink")『[全日本プロレス中継](../Page/全日本プロレス中継.md "wikilink")』のスポンサーであった時代には、同じ[系列会社の](../Page/大塚食品.md "wikilink")[ボンカレー](../Page/ボンカレー.md "wikilink")とともにリング下や会場の壁に垂れ幕が掛かっていた。女子プロレス団体の[JWP女子プロレス](../Page/JWP女子プロレス.md "wikilink")でも一時期スポンサーとなり、会場で垂れ幕を掛けていた。
 
@@ -71,11 +75,11 @@ CMにおいて上戸彩と共演した主な人物は下記の通り。肩書は
 
 1991年、[カプコン](../Page/カプコン.md "wikilink")の[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")の[ブロックくずし](../Page/ブロックくずし.md "wikilink")「ブロックブロック」には、エリアクリア時にオロナミンCの広告が登場する。BGMはCMソングのアレンジである。
 
-2004年からは、スポンサーとなったヒーロー番組『[仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ "wikilink")』と[タイアップ](../Page/タイアップ.md "wikilink")を行っている。同シリーズの『[剣](https://ja.wikipedia.org/wiki/仮面ライダー剣 "wikilink")』などに主演している役者（[椿隆之](../Page/椿隆之.md "wikilink")など）が、番組の放送時間内にのみ放送されるCMに出演している。なお2009年の『[ディケイド](https://ja.wikipedia.org/wiki/仮面ライダーディケイド "wikilink")』バージョンはディケイドのみの出演で、主演の[井上正大](https://ja.wikipedia.org/wiki/井上正大 "wikilink")は声のみの登場となった。また、同年のみ『[フレッシュプリキュア\!](https://ja.wikipedia.org/wiki/フレッシュプリキュア! "wikilink")』も加わった。9月より放送開始された『[仮面ライダーW](https://ja.wikipedia.org/wiki/仮面ライダーW "wikilink")』以降はこのタイアップが解消されていたが、2016年の『[仮面ライダーゴースト](https://ja.wikipedia.org/wiki/仮面ライダーゴースト "wikilink")』で再開されている。
+2004年からは、スポンサーとなったヒーロー番組『[仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ "wikilink")』と[タイアップ](../Page/タイアップ.md "wikilink")を行っている。同シリーズの『[剣](https://ja.wikipedia.org/wiki/仮面ライダー剣 "wikilink")』などに主演している役者（[椿隆之](../Page/椿隆之.md "wikilink")など）が、番組の放送時間内にのみ放送されるCMに出演している。なお2009年の『[ディケイド](https://ja.wikipedia.org/wiki/仮面ライダーディケイド "wikilink")』バージョンはディケイドのみの出演で、主演の[井上正大](https://ja.wikipedia.org/wiki/井上正大 "wikilink")は声のみの登場となった。また、同年のみ『[フレッシュプリキュア\!](https://ja.wikipedia.org/wiki/フレッシュプリキュア! "wikilink")』も加わった。9月より放送開始された『[仮面ライダーW](https://ja.wikipedia.org/wiki/仮面ライダーW "wikilink")』から『[仮面ライダードライブ](https://ja.wikipedia.org/wiki/仮面ライダードライブ "wikilink")』まではスポンサー降板によりこのタイアップが解消されていたが、2016年の『[仮面ライダーゴースト](https://ja.wikipedia.org/wiki/仮面ライダーゴースト "wikilink")』で再開されている。
 
 2005年および2006年には、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")所属の16組の若手[お笑いタレント](../Page/お笑いタレント.md "wikilink")による「元気ハツラツぅ？CMバトル」が行われた。 この企画は若手お笑いタレント達が自分達が考案し出演するCMを作り、トーナメント方式で争うというものである。 優勝すると、賞金8,202[ペソ](../Page/ペソ.md "wikilink")（約37万円）、また優勝者の出身地でのCM放映権を獲得できた。2007年には「キモチスイッチCMバトル」と名称が変更された。
 
-2010年には大村崑に変身するコンテストが行われた\[14\]。
+2010年には大村崑に変身するコンテストが行われた\[15\]。
 
 2011年からは「元気の現場」をテーマにしたCMが放映され、[嵐の](../Page/嵐_\(グループ\).md "wikilink")[櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")がCMキャラクターに起用されている（[謎解きはディナーのあとでが出演者枠](https://ja.wikipedia.org/wiki/謎解きはディナーのあとで#テレビドラマ "wikilink")）。
 
@@ -92,7 +96,7 @@ CMにおいて上戸彩と共演した主な人物は下記の通り。肩書は
 
 ## 「おいしいレシピ」
 
-70年代初頭に放送されたCM「ホーム・[パーティー](https://ja.wikipedia.org/wiki/パーティー "wikilink")編」には大村崑が家族と共に出演、本製品を材料に使った飲み物を紹介している\[15\]。CMでは次男が牛乳で割った「オロナミン・ミルク」、長男は卵で割った「オロナミン・セーキ」を飲んでいる（これらは、公式ウェブサイトで「[元気のレシピ](http://www.otsuka.co.jp/orc/recipe/)」として紹介されている）。また父（大村）はウイスキー、その後輩役（[古川ロック](../Page/古川ロック.md "wikilink")）はジンで割り、手軽なカクテルとして提案している。
+70年代初頭に放送されたCM「ホーム・[パーティー](https://ja.wikipedia.org/wiki/パーティー "wikilink")編」には大村崑が家族と共に出演、本製品を材料に使った飲み物を紹介している\[16\]。CMでは次男が牛乳で割った「オロナミン・ミルク」、長男は卵で割った「オロナミン・セーキ」を飲んでいる（これらは、公式ウェブサイトで「[元気のレシピ](http://www.otsuka.co.jp/orc/recipe/)」として紹介されている）。また父（大村）はウイスキー、その後輩役（[古川ロック](../Page/古川ロック.md "wikilink")）はジンで割り、手軽なカクテルとして提案している。
 
 これらは、[2004年](../Page/2004年.md "wikilink")の[冨永愛](https://ja.wikipedia.org/wiki/冨永愛 "wikilink")と[泉谷しげる](../Page/泉谷しげる.md "wikilink")が出演したCMで再び紹介された。
 
@@ -135,8 +139,9 @@ CMにおいて上戸彩と共演した主な人物は下記の通り。肩書は
 8.
 9.
 10.
-11. <http://www.oronaminc.co.kr/>
-12. [大塚製薬「オロナミンCドリンク」海外展開を拡大　新たに韓国で製造販売開始](https://www.otsuka.co.jp/company/release/2015/0202_01.html)大塚製薬　ニュースリリース　2015年2月2日（2016年9月19日　閲覧）
-13.
+11.
+12. <http://www.oronaminc.co.kr/>
+13. [大塚製薬「オロナミンCドリンク」海外展開を拡大　新たに韓国で製造販売開始](https://www.otsuka.co.jp/company/release/2015/0202_01.html)大塚製薬　ニュースリリース　2015年2月2日（2016年9月19日　閲覧）
 14.
 15.
+16.

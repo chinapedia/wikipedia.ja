@@ -339,7 +339,7 @@
 <td><p>ʐ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-z&#39;.png" title="wikilink">20x20px</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/有声そり舌摩擦音" title="wikilink">有声そり舌摩擦音</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中国語" title="wikilink">中国語</a><a href="../Page/普通話.md" title="wikilink">普通話</a>: <strong>日</strong>(Ri) [<code>z`i`</code>]</p></td>
+<td><p><a href="../Page/中国語.md" title="wikilink">中国語</a><a href="../Page/普通話.md" title="wikilink">普通話</a>: <strong>日</strong>(Ri) [<code>z`i`</code>]</p></td>
 </tr>
 <tr class="even">
 <td><p>z\</p></td>
@@ -776,7 +776,7 @@
 <td><p>5</p></td>
 <td><p>ɫ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-l_eor5.png" title="wikilink">20x20px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/軟口蓋歯茎側面接近音" title="wikilink">軟口蓋歯茎側面接近音</a> (dark L); <code>_e</code>も見よ</p></td>
+<td><p><a href="../Page/軟口蓋歯茎側面接近音.md" title="wikilink">軟口蓋歯茎側面接近音</a> (dark L); <code>_e</code>も見よ</p></td>
 <td><p>英語: <span lang="en">mi<strong>l</strong>k</span> [<code>mI5k</code>]</p></td>
 </tr>
 <tr class="odd">

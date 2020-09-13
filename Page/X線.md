@@ -91,6 +91,7 @@ K.RothkammとM.Lobrichは、ヒト細胞において、高線量のX線照射に
   - [X線小角散乱](../Page/X線小角散乱.md "wikilink")
   - [診療エックス線技師](../Page/診療エックス線技師.md "wikilink") - [診療放射線技師](../Page/診療放射線技師.md "wikilink")に一本化された。
   - [エックス線作業主任者](../Page/エックス線作業主任者.md "wikilink")
+  - [レントゲン](https://ja.wikipedia.org/wiki/レントゲン "wikilink")
 
 ### 関連人物
 

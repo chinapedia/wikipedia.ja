@@ -37,7 +37,7 @@
   - [アメリカ英語](../Page/アメリカ英語.md "wikilink")では母音字の後ろにあるrを発音するが、[イギリス英語](../Page/イギリス英語.md "wikilink")では発音しないか[黙字](../Page/黙字.md "wikilink")（スコットランドやイングランドの3分の1くらいの地域では発音されている）となっている。
   - ドイツ語の多くの無強勢音節末のr, 複[音節](../Page/音節.md "wikilink")語における語末の er は、ゆっくり発音するような特別な場合をのぞき  となる。
   - フランス語では語尾が -er で終わる単語の大半で語末の r を黙字とする。ただし、後続の単語が母音で始まっていれば、[リエゾン](../Page/リエゾン.md "wikilink")が起こり発音する。
-  - [中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")の[ピンイン](https://ja.wikipedia.org/wiki/ピンイン "wikilink")では、音節頭位では[有声そり舌摩擦音](https://ja.wikipedia.org/wiki/有声そり舌摩擦音 "wikilink")（声母"日"）である。これは日本人には「リ」とも「ジ」とも聞こえるような音で、[ウェード式](../Page/ウェード式.md "wikilink")では"j"と書かれる。また、"er"（韻母"児"）と書かれたときはそり舌の曖昧母音で、声調によっては主母音はアに近くなる。また"児"が接尾辞として用いられたときは、[児化](https://ja.wikipedia.org/wiki/児化 "wikilink")を起こす。
+  - [中国語](../Page/中国語.md "wikilink")の[ピンイン](https://ja.wikipedia.org/wiki/ピンイン "wikilink")では、音節頭位では[有声そり舌摩擦音](https://ja.wikipedia.org/wiki/有声そり舌摩擦音 "wikilink")（声母"日"）である。これは日本人には「リ」とも「ジ」とも聞こえるような音で、[ウェード式](../Page/ウェード式.md "wikilink")では"j"と書かれる。また、"er"（韻母"児"）と書かれたときはそり舌の曖昧母音で、声調によっては主母音はアに近くなる。また"児"が接尾辞として用いられたときは、[児化](https://ja.wikipedia.org/wiki/児化 "wikilink")を起こす。
   - [歯茎ふるえ音](../Page/歯茎ふるえ音.md "wikilink")
   - イギリス英語：[歯茎接近音](https://ja.wikipedia.org/wiki/歯茎接近音 "wikilink")
   - アメリカ英語、中国語：[そり舌接近音](https://ja.wikipedia.org/wiki/そり舌接近音 "wikilink")
@@ -104,6 +104,8 @@
       - Rは、[インド](../Page/インド.md "wikilink")、[スリランカ](../Page/スリランカ.md "wikilink")、[セーシェル](../Page/セーシェル.md "wikilink")、[ネパール](../Page/ネパール.md "wikilink")、[パキスタン](../Page/パキスタン.md "wikilink")、[モーリシャス](../Page/モーリシャス.md "wikilink")の通貨単位 [ルピー](../Page/ルピー.md "wikilink") (rupee)、Reとも
   - [道路](../Page/道路.md "wikilink")・[鉄道](../Page/鉄道.md "wikilink")用語で、軌道の[曲率半径](https://ja.wikipedia.org/wiki/曲率半径 "wikilink")。
   - [自動車](../Page/自動車.md "wikilink")の[トランスミッション](../Page/トランスミッション.md "wikilink")の後退 (**R**everse) 位置。
+  - 自動車のグレード名で、レーシング (**R**acing) などを意味する語として用いられる。
+      - 代表的なもので[日産自動車](../Page/日産自動車.md "wikilink")の[GT-R](../Page/日産・GT-R.md "wikilink")、[本田技研工業](../Page/本田技研工業.md "wikilink")の[タイプR](../Page/タイプR.md "wikilink")など
   - [国道](../Page/国道.md "wikilink")の略字。国道1号線ならば、 R1。(**R**oute)
   - [名古屋高速都心環状線](https://ja.wikipedia.org/wiki/名古屋高速都心環状線 "wikilink")を表す記号。(**R**ing)
   - レギュラーサイズの略字。(**R**egular)
@@ -126,6 +128,7 @@
   - 盤名
       - [白石涼子](https://ja.wikipedia.org/wiki/白石涼子 "wikilink")のデビューミニアルバム『R』。
       - [BAJI-R](https://ja.wikipedia.org/wiki/BAJI-R "wikilink")のアルバム『R』。
+  - [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の携帯電話の型番で、[日本無線](../Page/日本無線.md "wikilink")製の端末を表す略号。（J**R**C）
 
 ### 主に小文字
 
@@ -146,6 +149,16 @@
 | --- | ---------------------------------------- | ---------------------------------------------- | ---------------------------------- | --- | ------- | ---------- | ---- | ---------------- | --------------- | -------------------------- | ----------------- | --------------------------- | ----------- | -------------------------------- | ----------- | -------------------------------------------------------------- | -------------- | ----------------------------------------------------- |
 
 ## 他の表現法
+
+## その他
+
+大文字**R**には、以下のような特徴があるため、上下逆・左右逆・反転の有無が容易に識別できる。このため、[プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")や[コピー機](https://ja.wikipedia.org/wiki/コピー機 "wikilink")などの給紙方法の例示としてよく使われている\[1\]。
+
+  - [線対称](../Page/線対称.md "wikilink")ではない
+  - [点対称](../Page/点対称.md "wikilink")ではない
+  - 四隅が空白ではない、かつ、すべて形が異なる
+
+## 脚注
 
 ## 関連項目
 
@@ -171,3 +184,5 @@
   - [昭和軽薄体](../Page/昭和軽薄体.md "wikilink")
 
 [Category:ラテン文字](https://ja.wikipedia.org/wiki/Category:ラテン文字 "wikilink")
+
+1.

@@ -512,7 +512,7 @@
 
 <!-- end list -->
 
-  - [高師氏](https://ja.wikipedia.org/wiki/高師氏 "wikilink")：[江原真二郎](../Page/江原真二郎.md "wikilink")
+  - [高師氏](../Page/高師氏.md "wikilink")：[江原真二郎](../Page/江原真二郎.md "wikilink")
 
 <!-- end list -->
 

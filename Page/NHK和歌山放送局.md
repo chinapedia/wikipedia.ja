@@ -46,7 +46,7 @@
 
 ### 送信所
 
-  - 木ノ本送信所（[和歌山市](../Page/和歌山市.md "wikilink")）
+  - [木ノ本送信所](../Page/和歌山テレビ送信所・中継局.md "wikilink")（[和歌山市](../Page/和歌山市.md "wikilink")）
       - 総合テレビジョン 23ch / 100W（物理=以下同文。[リモコンキーID](../Page/リモコンキーID.md "wikilink")は大半の都府県で共通の**「1」**） JORP-DTV [放送区域内世帯数約](https://ja.wikipedia.org/wiki/放送#放送区域 "wikilink")16万世帯。
       - Eテレ（教育テレビジョン） 13ch / 3W（リモコンキーIDは全国共通の**「2」**） 放送区域内世帯数約12万世帯。
     <!-- end list -->
@@ -58,7 +58,7 @@
 
 <!-- end list -->
 
-  - 岩屋山送信所（[海南市](../Page/海南市.md "wikilink")）
+  - [岩屋山送信所](../Page/海南テレビ中継局・和歌山FM送信所.md "wikilink")（[海南市](../Page/海南市.md "wikilink")）
       - FM放送 84.7MHz JORP-FM / 500W
       - 総合テレビジョン 23ch / 3W
       - Eテレ 13ch / 3W

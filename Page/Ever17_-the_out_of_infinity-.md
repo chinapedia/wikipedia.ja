@@ -12,7 +12,7 @@
     2003年[11月27日](../Page/11月27日.md "wikilink")、DC版（全年齢対象）およびPS2版（[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")15歳以上対象）が発売。
     [2004年](../Page/2004年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")、[サクセスより](../Page/サクセス_\(ゲーム会社\).md "wikilink")[SuperLite2000シリーズでPS](../Page/SuperLiteシリーズ.md "wikilink")2版が発売。
     [2005年](../Page/2005年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")、PC版 (DVD-ROM) が発売。
-    2005年[8月12日](../Page/8月12日.md "wikilink")、ポータルサイト・[goo](https://ja.wikipedia.org/wiki/goo "wikilink")内でオンデマンドゲームとして供給開始。[2007年](../Page/2007年.md "wikilink")8月17日をもって終了。
+    2005年[8月12日](../Page/8月12日.md "wikilink")、ポータルサイト・[goo](https://ja.wikipedia.org/wiki/goo "wikilink")内でオンデマンドゲームとして供給開始（[2007年](../Page/2007年.md "wikilink")8月17日をもって終了）。
   - Ever17 -out of infinity-（北米版）
     2005年[12月20日](../Page/12月20日.md "wikilink")、[北米](https://ja.wikipedia.org/wiki/北米 "wikilink")向けに[ヒラメキインターナショナル](https://ja.wikipedia.org/wiki/ヒラメキインターナショナル "wikilink")よりPC版（CD-ROM、13歳以上対象）が発売。文章は英語で音声は日本語のままである。
     北米で発売された数少ない恋愛アドベンチャーゲームであり、当初から非常に高い評価を受けた\[1\]。

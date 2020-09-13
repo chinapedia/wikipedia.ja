@@ -235,7 +235,7 @@
 
   - （どう おんせい、Tong Enzheng）
 
-  - （よう えいれつ、Ye Yonglie）
+  - [葉永烈](../Page/葉永烈.md "wikilink")（よう えいれつ、Ye Yonglie）
 
   - [劉慈欣](https://ja.wikipedia.org/wiki/劉慈欣 "wikilink")（りゅう じきん、Liu Cixin）
 
@@ -335,7 +335,7 @@
   - [ブルース・スターリング](../Page/ブルース・スターリング.md "wikilink") (Bruce Sterling)
   - [ブライアン・ステイブルフォード](https://ja.wikipedia.org/wiki/ブライアン・ステイブルフォード "wikilink")（Brian Stableford)
   - [ニール・スティーヴンスン](../Page/ニール・スティーヴンスン.md "wikilink") (Neal Stephenson)
-  - [アレン・スティール](https://ja.wikipedia.org/wiki/アレン・スティール "wikilink") (Allen Mulherin Steele, Jr.)
+  - [アレン・スティール](../Page/アレン・スティール.md "wikilink") (Allen Mulherin Steele, Jr.)
   - [チャールズ・ストロス](../Page/チャールズ・ストロス.md "wikilink") (Charles Stross)
   - [ノーマン・スピンラッド](../Page/ノーマン・スピンラッド.md "wikilink") (Norman Richard Spinrad)
   - [ウェン・スペンサー](../Page/ウェン・スペンサー.md "wikilink")（Wen Spencer）
@@ -431,7 +431,7 @@
 #### マ行
 
   - [サム・マーウィン・ジュニア](../Page/サム・マーウィン・ジュニア.md "wikilink") (Sam Merwin, Jr.)
-  - [アン・マキャフリイ](https://ja.wikipedia.org/wiki/アン・マキャフリイ "wikilink") (Anne MacCaffrey)
+  - [アン・マキャフリイ](https://ja.wikipedia.org/wiki/アン・マキャフリイ "wikilink") (Anne McCaffrey)
   - [ジョン・D・マクドナルド](../Page/ジョン・D・マクドナルド.md "wikilink") (John D.MacDonald）
   - [G・R・R・マーティン](https://ja.wikipedia.org/wiki/G・R・R・マーティン "wikilink")(George R. R. Martin)
   - [バリイ・N・マルツバーグ](../Page/バリイ・N・マルツバーグ.md "wikilink") (Barry Nathaniel Malzberg)

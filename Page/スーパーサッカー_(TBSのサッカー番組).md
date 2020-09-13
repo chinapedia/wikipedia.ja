@@ -70,13 +70,13 @@
 <td><p><a href="../Page/生島ヒロシ.md" title="wikilink">生島ヒロシ</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>1994.01</p></td>
-<td><p>1994.03</p></td>
+<td><p>1994.1</p></td>
+<td><p>1994.3</p></td>
 <td><p>（不在）</p></td>
 </tr>
 <tr class="even">
-<td><p>1994.04</p></td>
-<td><p>1994.09</p></td>
+<td><p>1994.4</p></td>
+<td><p>1994.9</p></td>
 <td><p>（不在）[9]</p></td>
 </tr>
 <tr class="odd">
@@ -95,85 +95,85 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/白石美帆" title="wikilink">白石美帆</a><sup>2</sup></p></td>
 </tr>
 <tr class="even">
-<td><p>2001.01</p></td>
-<td><p>2001.05</p></td>
+<td><p>2001.1</p></td>
+<td><p>2001.5</p></td>
 <td><p><a href="../Page/徳永英明.md" title="wikilink">徳永英明</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>2001.06</p></td>
-<td><p>2001.09</p></td>
+<td><p>2001.6</p></td>
+<td><p>2001.9</p></td>
 <td><p>（不在）[10]</p></td>
 </tr>
 <tr class="even">
 <td><p>2001.10</p></td>
-<td><p>2002.03</p></td>
+<td><p>2002.3</p></td>
 <td><p><a href="../Page/加藤浩次.md" title="wikilink">加藤浩次</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>2002.04</p></td>
-<td><p>2003.03</p></td>
+<td><p>2002.4</p></td>
+<td><p>2003.3</p></td>
 <td><p>土井敏之、<a href="../Page/初田啓介.md" title="wikilink">初田啓介</a><sup>4</sup></p></td>
 </tr>
 <tr class="even">
-<td><p>2003.04</p></td>
-<td><p>2004.03</p></td>
+<td><p>2003.4</p></td>
+<td><p>2004.3</p></td>
 <td><p><a href="../Page/佐藤文康.md" title="wikilink">佐藤文康</a>、<a href="../Page/有馬隼人.md" title="wikilink">有馬隼人</a><sup>3・4</sup></p></td>
 </tr>
 <tr class="odd">
-<td><p>2004.04</p></td>
-<td><p>2006.01</p></td>
+<td><p>2004.4</p></td>
+<td><p>2006.1</p></td>
 <td><p>佐藤文康</p></td>
 </tr>
 <tr class="even">
-<td><p>2006.01</p></td>
+<td><p>2006.1</p></td>
 <td><p><a href="../Page/福田正博.md" title="wikilink">福田正博</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2006.02</p></td>
-<td><p>2006.03</p></td>
+<td><p>2006.2</p></td>
+<td><p>2006.3</p></td>
 <td><p>福田正博、<a href="../Page/相馬直樹.md" title="wikilink">相馬直樹</a><br />
 <a href="../Page/小島伸幸.md" title="wikilink">小島伸幸</a>、<a href="../Page/小倉隆史.md" title="wikilink">小倉隆史</a></p></td>
 </tr>
 <tr class="even">
-<td><p>2006.04</p></td>
+<td><p>2006.4</p></td>
 <td><p>2006.12</p></td>
 <td><p>小倉隆史</p></td>
 </tr>
 <tr class="odd">
-<td><p>2007.01</p></td>
-<td><p>2009.03</p></td>
+<td><p>2007.1</p></td>
+<td><p>2009.3</p></td>
 <td><p><a href="../Page/加藤未央.md" title="wikilink">加藤未央</a></p></td>
 </tr>
 <tr class="even">
-<td><p>2009.04</p></td>
-<td><p>2010.03</p></td>
+<td><p>2009.4</p></td>
+<td><p>2010.3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/枡田絵理奈" title="wikilink">枡田絵理奈</a><sup>5</sup></p></td>
 </tr>
 <tr class="odd">
-<td><p>2010.04</p></td>
-<td><p>2011.01</p></td>
+<td><p>2010.4</p></td>
+<td><p>2011.1</p></td>
 <td><p>枡田絵理奈<br />
 <a href="https://ja.wikipedia.org/wiki/木下優樹菜" title="wikilink">木下優樹菜</a></p></td>
 </tr>
 <tr class="even">
-<td><p>2011.02</p></td>
-<td><p>2015.03</p></td>
+<td><p>2011.2</p></td>
+<td><p>2015.3</p></td>
 <td><p>枡田絵理奈</p></td>
 </tr>
 <tr class="odd">
-<td><p>2015.04</p></td>
-<td><p>2015.06</p></td>
+<td><p>2015.4</p></td>
+<td><p>2015.6</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/宇垣美里" title="wikilink">宇垣美里</a></p></td>
 </tr>
 <tr class="even">
-<td><p>2015.07</p></td>
-<td><p>2017.04</p></td>
+<td><p>2015.7</p></td>
+<td><p>2017.4</p></td>
 <td><p>ローテーション制<sup>6</sup></p></td>
 </tr>
 <tr class="odd">
-<td><p>2017.04</p></td>
-<td><p>2019.09</p></td>
+<td><p>2017.4</p></td>
+<td><p>2019.9</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/上村彩子_(アナウンサー)" title="wikilink">上村彩子</a><sup>8</sup></p></td>
 </tr>
 <tr class="even">
@@ -257,60 +257,60 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>1993.10.03</p></td>
-<td><p>2002.03.31</p></td>
+<td><p>1993.10.3</p></td>
+<td><p>2002.3.31</p></td>
 <td><p>日曜日<br />
 （土曜日深夜）</p></td>
 <td><p><small>0:00 - 0:30（30分）</small></p></td>
 </tr>
 <tr class="even">
-<td><p>2002.04.07</p></td>
-<td><p>2009.03.29</p></td>
+<td><p>2002.4.7</p></td>
+<td><p>2009.3.29</p></td>
 <td><p><small>0:00 - 0:45（45分）</small></p></td>
 <td><p>『J-SPORTS スーパーサッカーPLUS』として放送。</p></td>
 </tr>
 <tr class="odd">
-<td><p>2009.04.05</p></td>
-<td><p>2010.03.28</p></td>
-<td><p><small>0:30 - 0:58（30分）</small></p></td>
+<td><p>2009.4.5</p></td>
+<td><p>2010.3.28</p></td>
+<td><p><small>0:30 - 0:58（28分）</small></p></td>
 <td><p>『S☆1スパサカ』として放送。</p></td>
 </tr>
 <tr class="even">
-<td><p>2010.04.03</p></td>
-<td><p>2011.03.26</p></td>
+<td><p>2010.4.3</p></td>
+<td><p>2011.3.26</p></td>
 <td><p>土曜日<br />
 （金曜日深夜）</p></td>
 <td><p><small>0:55 - 1:25（30分）</small></p></td>
 </tr>
 <tr class="odd">
-<td><p>2011.03.29</p></td>
-<td><p>2012.04.03</p></td>
+<td><p>2011.3.29</p></td>
+<td><p>2012.4.3</p></td>
 <td><p>火曜日<br />
 （月曜日深夜）</p></td>
 <td><p><small>1:25 - 1:55（30分）</small></p></td>
 </tr>
 <tr class="even">
-<td><p>2012.04.17</p></td>
-<td><p>2015.03.24</p></td>
+<td><p>2012.4.17</p></td>
+<td><p>2015.3.24</p></td>
 <td><p><small>1:34 - 2:04（30分）</small></p></td>
 <td><p>TBS・テレビ山梨（のちに水曜日未明〈火曜日深夜〉に時差ネット）・静岡放送の3局ネット。</p></td>
 </tr>
 <tr class="odd">
-<td><p>2015.04.04</p></td>
-<td><p>2017.04.01</p></td>
+<td><p>2015.4.4</p></td>
+<td><p>2017.4.1</p></td>
 <td><p>土曜日<br />
 （金曜日深夜）</p></td>
 <td><p><small>1:25 - 1:55（30分）</small></p></td>
 </tr>
 <tr class="even">
-<td><p>2017.04.03</p></td>
-<td><p>09.25</p></td>
+<td><p>2017.4.3</p></td>
+<td><p>9.25</p></td>
 <td><p>月曜日<br />
 （日曜日深夜）</p></td>
 <td><p><small>1:20 - 1:50（30分）</small></p></td>
 </tr>
 <tr class="odd">
-<td><p>2017.10.02</p></td>
+<td><p>2017.10.2</p></td>
 <td></td>
 <td><p>月曜日<br />
 （日曜日深夜）</p></td>
@@ -359,7 +359,7 @@
   - 2004年4月　水沼とのローテーション（月1・2回程度）で高木が参加。
   - 2003年[10月5日](../Page/10月5日.md "wikilink")　放送開始10周年。この頃から水沼の[S級ライセンス](https://ja.wikipedia.org/wiki/S級ライセンス "wikilink")取得に密着取材したコーナーがスタート（S級ライセンス取得後に伴い終了するが、後に監督に就任した際に一時的に復活した）。
   - 2004年[7月25日](../Page/7月25日.md "wikilink")　メインキャスターである加藤浩次が[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[27時間テレビ](../Page/FNS27時間テレビ_\(2004年\).md "wikilink")』で27時間マラソンに挑戦中だったが出演（同行していた介助犬バリーも出演）。ただし、そのためもあって時間内にゴールできなかった。
-  - 2004年[10月24日](../Page/10月24日.md "wikilink")　前日夜に発生した[新潟県中越地震](https://ja.wikipedia.org/wiki/新潟県中越地震 "wikilink")の報道特別番組を放送するため、放送中止。
+  - 2004年[10月24日](../Page/10月24日.md "wikilink")　前日夜に発生した[新潟県中越地震](https://ja.wikipedia.org/wiki/新潟県中越地震 "wikilink")の報道特別番組を放送するため、放送休止。
   - [2005年](../Page/2005年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink")　通算600回。
   - [2006年](../Page/2006年.md "wikilink")1月8日　水沼が[横浜F・マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")コーチ、高木が[横浜FC](../Page/横浜FC.md "wikilink")コーチ（その後、ともに監督に就任）に就任するため卒業。これで、番組初期からのレギュラー出演者が全て卒業。
   - 2006年1月15日　福田がコメンテーターに就任。
@@ -374,7 +374,7 @@
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月28日　『S☆1スパサカ』としての放送を終了（1993年の番組開始から第823回、『S☆1』は継続）。
   - 2010年[4月3日](../Page/4月3日.md "wikilink")　土曜日未明（金曜日深夜）に移動し、単独番組として復活。『**スーパーサッカーJ**』として再スタート。番組開始当初の原点に立ち返って、Jリーグと参加各クラブの全面監修・協力のもと、週末のJリーグ観戦に役立つ情報や選手のプレー技術解説、また選手の素顔の一面を披露するコーナーを設けた\[13\]。
   - [2011年](../Page/2011年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")　前年4月以来「Jリーグ特命PR部長」として出演していた木下が卒業。
-  - 2011年[3月12日](../Page/3月12日.md "wikilink") 前日午後に発生した[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）の報道特別番組を放送のため、放送中止。
+  - 2011年[3月12日](../Page/3月12日.md "wikilink") 前日午後に発生した[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）の報道特別番組を放送のため、放送休止。
   - 2011年3月29日 火曜未明（月曜深夜）に枠移動・『**スーパーサッカー**』に再改題。一部地域では同年[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")を以ってネット打ち切り。
   - 2015年3月24日 6年間出演してきた枡田がTBS退社に向けた準備のため卒業\[14\]。
   - 2015年4月4日 放送日を土曜未明（金曜深夜）に再移動。地上波放送の前日深夜23時に『**スーパーサッカー J+**』としてBS-TBSでの先行放送開始（実質5年ぶりの全国放送再開）。新たに国山、宇垣がレギュラー出演。
@@ -585,10 +585,10 @@
   - スチール：FOOTARTIST JUN
   - CG：赤坂グラフィックスアート
   - 写真：ゲッティ、アフロ
-  - TM：榎芳栄
+  - TM：森哲郎
   - TD：坂口司、山根卓也(以前は、CAM)、中野真悟、荒井隆之
   - VE：宇都宮勝、大場貴文、木野内洋、姫野雅美、青柳陽子
-  - CAM：柿崎祐人、藤田栄治、吉田洸、寺尾昭彦、高島一宗、菅沼雄介
+  - CAM：柿崎祐人、藤田栄治、吉田洸、寺尾昭彦、高島一宗、菅沼雄介、山口航
   - 音声：石鍋邦広、清宮拓、宇野仁美、朝日拓郎、渡邉学
   - 照明：永田泰二、中田学
   - スタジオデザイン：岡嶋(島)正浩
@@ -597,8 +597,8 @@
   - TK：岸田純子
   - 音効：ブライトンミュージック
   - MA：園田智明(園田→一時離脱→復帰)、井田須美子、渡辺和也
-  - 編集：高田垣人、七條健司(七條→一時離脱→復帰)、小峰一輝
-  - 編成：濱田英理子、佐藤賢志郎（BS）／白石徹太郎、造田雅之、高橋秀光、宮崎陽央（地上波）
+  - 編集：高田垣人、七條健司(七條→一時離脱→復帰)、小峰一輝、松葉みな未
+  - 編成：濱田英理子、佐藤賢志郎（BS）／白石徹太郎、造田雅之、高橋秀光、宮崎陽央、横山英士、竹内敦史(竹内→一時離脱→復帰)（地上波）
   - 宣伝：小山陽介
   - AD：大淵亜弓、吉田剛、中原隼、田村晃斗、石黒真志
   - AP：青木恭子
@@ -613,7 +613,7 @@
   - 構成：安田拓矢、河合秀仁、吉村幹彦
   - タイトル：加藤幸男(ユキオ)
   - オープニングテーマ：「Fantasista」Sensation
-  - TM：京屋知行、長谷川晃司(長谷川→一時離脱→復帰)
+  - TM：京屋知行、長谷川晃司(長谷川→一時離脱→復帰)、榎芳栄
   - TD：斉(齊)藤哲也(以前は、CAM)、伊東修
   - VE：橋ヶ谷美帆、平子勝隆、野上正樹、姫野雅美
   - CAM：笹原健吾、清水陽平、荒井隆之
@@ -621,7 +621,7 @@
   - 照明：佐藤友泰
   - 音効：[ZACK](../Page/フリーダム・オブ・ザック.md "wikilink")
   - MA：津田のぞみ、松元裕二、山下諒
-  - 編成：菅原興二、金沢景敏、佐々木威憲、長尾昇、竹内敦史
+  - 編成：菅原興二、金沢景敏、佐々木威憲、長尾昇
   - 制作デスク：竹林桂子、薄井透江
   - AD：中田元貴、大島和也、小林慧佑
   - ディレクター：岡光真吾、金森泰宏、古川祥平、川上崇文、七澤徹、園田永吉、堀江陽介/秦野宙、和栗宏紀、藤岡勇士、長生俊(長生→以前は、AD)、泰野宙

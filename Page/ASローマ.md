@@ -65,35 +65,37 @@
 
 2016-17シーズンは[ミラレム・ピャニッチ](https://ja.wikipedia.org/wiki/ミラレム・ピャニッチ "wikilink")がライバルである[ユベントス](https://ja.wikipedia.org/wiki/ユベントス "wikilink")に移籍し他にも[アントニオ・サナブリア](https://ja.wikipedia.org/wiki/アントニオ・サナブリア "wikilink")やリャイッチ、ファルケらも売却した。一方でエル・シャーラウィ、リュディガー、サラーを完全移籍で獲得し、[トーマス・フェルマーレン](https://ja.wikipedia.org/wiki/トーマス・フェルマーレン "wikilink")、[フアン](https://ja.wikipedia.org/wiki/フアン・ギリェルメ・ヌネス・ジェズス "wikilink")、[ブルーノ・ペレス](https://ja.wikipedia.org/wiki/ブルーノ・ペレス "wikilink")、[フェデリコ・ファシオ](https://ja.wikipedia.org/wiki/フェデリコ・ファシオ "wikilink")らも獲得し、冬にも[クレマン・グルニエ](https://ja.wikipedia.org/wiki/クレマン・グルニエ "wikilink")を獲得。チャンピオンズリーグではプレーオフで[FCポルト](../Page/FCポルト.md "wikilink")に敗れ、ヨーロッパリーグでは[オリンピック・リヨン](https://ja.wikipedia.org/wiki/オリンピック・リヨン "wikilink")に敗れた。リーグ戦では、優勝したユヴェントスFCと勝ち点差4の勝ち点87で2位となり、クラブ史上最高の勝ち点を記録した。シーズン終了後、ルチアーノ・スパレッティ監督が退任した。さらに、クラブのキャプテンを長年務めてきたフランチェスコ・トッティが現役引退した。
 
-[エウゼビオ・ディ・フランチェスコ](https://ja.wikipedia.org/wiki/エウゼビオ・ディ・フランチェスコ "wikilink")が新監督に就任した2017-18シーズンは[FFPの規制もあり](https://ja.wikipedia.org/wiki/UEFAのファイナンシャル・フェアプレー規則 "wikilink")、資金捻出のためリュディガーを[チェルシーFC](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")に、サラーを[リヴァプールFC](../Page/リヴァプールFC.md "wikilink")に、[レアンドロ・パレデス](https://ja.wikipedia.org/wiki/レアンドロ・パレデス "wikilink")を[ゼニト・サンクトペテルブルク](https://ja.wikipedia.org/wiki/ゼニト・サンクトペテルブルク "wikilink")に売却した。一方で[フェイエノールトから](https://ja.wikipedia.org/wiki/フェイエノールト・ロッテルダム "wikilink")[リック・カルスドルプ](https://ja.wikipedia.org/wiki/リック・カルスドルプ "wikilink")、[USサッスオーロ・カルチョ](../Page/USサッスオーロ・カルチョ.md "wikilink")からロレンツォ・ペレグリーニと[グレゴワール・デフレル](https://ja.wikipedia.org/wiki/グレゴワール・デフレル "wikilink")を、[PSVアイントホーフェン](../Page/PSVアイントホーフェン.md "wikilink")から[エクトル・モレノ](https://ja.wikipedia.org/wiki/エクトル・モレノ "wikilink")を、[オリンピック・リヨン](https://ja.wikipedia.org/wiki/オリンピック・リヨン "wikilink")から[マキシム・ゴナロン](https://ja.wikipedia.org/wiki/マキシム・ゴナロン "wikilink")、[マンチェスター・シティ](https://ja.wikipedia.org/wiki/マンチェスター・シティ "wikilink")から[アレクサンダル・コラロヴ](https://ja.wikipedia.org/wiki/アレクサンダル・コラロヴ "wikilink")、[イスタンブール・バシャクシェヒルFK](https://ja.wikipedia.org/wiki/イスタンブール・バシャクシェヒルFK "wikilink")から[ジェンギズ・ウンデル](https://ja.wikipedia.org/wiki/ジェンギズ・ウンデル "wikilink")らを獲得した。2018年4月23日、[カタール航空](https://ja.wikipedia.org/wiki/カタール航空 "wikilink")とメインスポンサー契約を締結した\[5\]\[6\]。リーグ戦では、インテルやラツィオとの激しい3位争いを制し、来期のチャンピオンズリーグ出場権を獲得した。チャンピオンズリーグでは、[チェルシーFC](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")や[アトレティコ・マドリード](https://ja.wikipedia.org/wiki/アトレティコ・マドリード "wikilink")と同じグループとなったが、グループ首位で突破した。[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")との準々決勝では、1stレグは2つのオウンゴールを献上し1-4で敗れたが、ホームでの2ndレグでは3-0で勝利し、逆転で突破し34年ぶりに準決勝進出した。この逆転劇はオリンピコの奇跡と呼ばれている。
+[エウゼビオ・ディ・フランチェスコ](https://ja.wikipedia.org/wiki/エウゼビオ・ディ・フランチェスコ "wikilink")が新監督に就任した2017-18シーズンは[FFPの規制もあり](https://ja.wikipedia.org/wiki/UEFAのファイナンシャル・フェアプレー規則 "wikilink")、資金捻出のためリュディガーを[チェルシーFC](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")に、サラーを[リヴァプールFC](../Page/リヴァプールFC.md "wikilink")に、[レアンドロ・パレデス](https://ja.wikipedia.org/wiki/レアンドロ・パレデス "wikilink")を[ゼニト・サンクトペテルブルク](https://ja.wikipedia.org/wiki/ゼニト・サンクトペテルブルク "wikilink")に売却した。一方で[フェイエノールトから](https://ja.wikipedia.org/wiki/フェイエノールト・ロッテルダム "wikilink")[リック・カルスドルプ](https://ja.wikipedia.org/wiki/リック・カルスドルプ "wikilink")、[USサッスオーロ・カルチョ](../Page/USサッスオーロ・カルチョ.md "wikilink")からロレンツォ・ペレグリーニと[グレゴワール・デフレル](https://ja.wikipedia.org/wiki/グレゴワール・デフレル "wikilink")を、[PSVアイントホーフェン](../Page/PSVアイントホーフェン.md "wikilink")から[エクトル・モレノ](https://ja.wikipedia.org/wiki/エクトル・モレノ "wikilink")を、[オリンピック・リヨン](https://ja.wikipedia.org/wiki/オリンピック・リヨン "wikilink")から[マキシム・ゴナロン](https://ja.wikipedia.org/wiki/マキシム・ゴナロン "wikilink")、[マンチェスター・シティ](https://ja.wikipedia.org/wiki/マンチェスター・シティ "wikilink")から[アレクサンダル・コラロヴ](https://ja.wikipedia.org/wiki/アレクサンダル・コラロヴ "wikilink")、[イスタンブール・バシャクシェヒルFK](https://ja.wikipedia.org/wiki/イスタンブール・バシャクシェヒルFK "wikilink")から[ジェンギズ・ウンデル](https://ja.wikipedia.org/wiki/ジェンギズ・ウンデル "wikilink")らを獲得した。2018年4月23日、[カタール航空](https://ja.wikipedia.org/wiki/カタール航空 "wikilink")とメインスポンサー契約を締結した\[5\]\[6\]。リーグ戦では、インテルやラツィオとの激しい3位争いを制し、来季のチャンピオンズリーグ出場権を獲得した。チャンピオンズリーグでは、[チェルシーFC](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")や[アトレティコ・マドリード](https://ja.wikipedia.org/wiki/アトレティコ・マドリード "wikilink")と同じグループとなったが、グループ首位で突破した。[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")との準々決勝では、1stレグは2つのオウンゴールを献上し1-4で敗れたが、ホームでの2ndレグでは3-0で勝利し、逆転で突破し34年ぶりに準決勝進出した。この逆転劇はオリンピコの奇跡と呼ばれている。
 
-2018-19シーズンは、[アリソン・ベッカー](https://ja.wikipedia.org/wiki/アリソン・ベッカー "wikilink")をゴールキーパーとしては史上最高額(当時)で[リヴァプールFC](../Page/リヴァプールFC.md "wikilink")に売却したほか、[ラジャ・ナインゴラン](https://ja.wikipedia.org/wiki/ラジャ・ナインゴラン "wikilink")を[インテル・ミラノに](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")、[ケヴィン・ストロートマン](https://ja.wikipedia.org/wiki/ケヴィン・ストロートマン "wikilink")を[オリンピック・マルセイユ](../Page/オリンピック・マルセイユ.md "wikilink")に売却した。一方で[パリ・サンジェルマンFC](https://ja.wikipedia.org/wiki/パリ・サンジェルマンFC "wikilink")から[ハビエル・パストーレ](https://ja.wikipedia.org/wiki/ハビエル・パストーレ "wikilink")、[セビージャFC](../Page/セビージャFC.md "wikilink")から[スティーヴン・エンゾンジ](https://ja.wikipedia.org/wiki/スティーヴン・エンゾンジ "wikilink")、[アヤックス・アムステルダム](../Page/アヤックス・アムステルダム.md "wikilink")から[ジャスティン・クライファート](https://ja.wikipedia.org/wiki/ジャスティン・クライファート "wikilink")、[アタランタBC](../Page/アタランタBC.md "wikilink")から[ブライアン・クリスタンテ](https://ja.wikipedia.org/wiki/ブライアン・クリスタンテ "wikilink")、[FCコペンハーゲン](../Page/FCコペンハーゲン.md "wikilink")から[ロビン・オルセン](https://ja.wikipedia.org/wiki/ロビン・オルセン "wikilink")、[インテル・ミラノから](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")[ニコロ・ザニオーロ](https://ja.wikipedia.org/wiki/ニコロ・ザニオーロ "wikilink")らを獲得した。主力選手が退団し、新加入の選手も期待に応えられず、不安定なシーズンとなり、3月7日にディ・フランチェスコ監督が解任され、同時に[モンチ](https://ja.wikipedia.org/wiki/モンチ "wikilink")SDとも契約を解除した。[クラウディオ・ラニエリ](../Page/クラウディオ・ラニエリ.md "wikilink")が後任の監督としてシーズン終了まで指揮を執った。リーグ戦では6位となり、来期のチャンピオンズリーグ出場権を逃した。シーズン終了後、ラニエリが退任し、[FCシャフタール・ドネツク](../Page/FCシャフタール・ドネツク.md "wikilink")より[パウロ・フォンセカ](https://ja.wikipedia.org/wiki/パウロ・フォンセカ "wikilink")を招聘した。また、ローマで18年間プレーしてきた[ダニエレ・デ・ロッシ](../Page/ダニエレ・デ・ロッシ.md "wikilink")が退団した。
+2018-19シーズンは、[アリソン・ベッカー](https://ja.wikipedia.org/wiki/アリソン・ベッカー "wikilink")をゴールキーパーとしては史上最高額(当時)で[リヴァプールFC](../Page/リヴァプールFC.md "wikilink")に売却したほか、[ラジャ・ナインゴラン](https://ja.wikipedia.org/wiki/ラジャ・ナインゴラン "wikilink")を[インテル・ミラノに](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")、[ケヴィン・ストロートマン](https://ja.wikipedia.org/wiki/ケヴィン・ストロートマン "wikilink")を[オリンピック・マルセイユ](../Page/オリンピック・マルセイユ.md "wikilink")に売却した。一方で[パリ・サンジェルマンFC](https://ja.wikipedia.org/wiki/パリ・サンジェルマンFC "wikilink")から[ハビエル・パストーレ](https://ja.wikipedia.org/wiki/ハビエル・パストーレ "wikilink")、[セビージャFC](../Page/セビージャFC.md "wikilink")から[スティーヴン・エンゾンジ](https://ja.wikipedia.org/wiki/スティーヴン・エンゾンジ "wikilink")、[アヤックス・アムステルダム](../Page/アヤックス・アムステルダム.md "wikilink")から[ジャスティン・クライファート](https://ja.wikipedia.org/wiki/ジャスティン・クライファート "wikilink")、[アタランタBC](../Page/アタランタBC.md "wikilink")から[ブライアン・クリスタンテ](https://ja.wikipedia.org/wiki/ブライアン・クリスタンテ "wikilink")、[FCコペンハーゲン](../Page/FCコペンハーゲン.md "wikilink")から[ロビン・オルセン](https://ja.wikipedia.org/wiki/ロビン・オルセン "wikilink")、[インテル・ミラノから](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")[ニコロ・ザニオーロ](https://ja.wikipedia.org/wiki/ニコロ・ザニオーロ "wikilink")らを獲得した。主力選手が退団し、新加入の選手も期待に応えられず、不安定なシーズンとなり、3月7日にディ・フランチェスコ監督が解任され、同時に[モンチ](https://ja.wikipedia.org/wiki/モンチ "wikilink")SDとも契約を解除した。[クラウディオ・ラニエリ](../Page/クラウディオ・ラニエリ.md "wikilink")が後任の監督としてシーズン終了まで指揮を執った。リーグ戦では6位となり、来季のチャンピオンズリーグ出場権を逃した。シーズン終了後、ラニエリが退任し、[FCシャフタール・ドネツク](../Page/FCシャフタール・ドネツク.md "wikilink")より[パウロ・フォンセカ](https://ja.wikipedia.org/wiki/パウロ・フォンセカ "wikilink")を招聘した。また、ローマで18年間プレーしてきた[ダニエレ・デ・ロッシ](../Page/ダニエレ・デ・ロッシ.md "wikilink")が退団した。
 
-2019-20シーズンは、[コスタス・マノラス](https://ja.wikipedia.org/wiki/コスタス・マノラス "wikilink")を[SSCナポリ](https://ja.wikipedia.org/wiki/SSCナポリ "wikilink")に、[エル・シャーラウィを](https://ja.wikipedia.org/wiki/ステファン・エル・シャーラウィ "wikilink")[上海申花に](../Page/上海緑地申花足球倶楽部.md "wikilink")、[ルカ・ペッレグリーニ](https://ja.wikipedia.org/wiki/ルカ・ペッレグリーニ "wikilink")を[ユヴェントスに](../Page/ユヴェントスFC.md "wikilink")、[パトリック・シック](https://ja.wikipedia.org/wiki/パトリック・シック "wikilink")を[RBライプツィヒ](https://ja.wikipedia.org/wiki/RBライプツィヒ "wikilink")に、[スティーヴン・エンゾンジ](https://ja.wikipedia.org/wiki/スティーヴン・エンゾンジ "wikilink")を[ガラタサライに](https://ja.wikipedia.org/wiki/ガラタサライSK_\(サッカー\) "wikilink")、[ロビン・オルセン](https://ja.wikipedia.org/wiki/ロビン・オルセン "wikilink")を[カリアリに放出した](../Page/カリアリ・カルチョ.md "wikilink")。一方で、SSCナポリから[アマドゥ・ディアワラ](https://ja.wikipedia.org/wiki/アマドゥ・ディアワラ "wikilink")、ユヴェントスから[レオナルド・スピナッツォーラ](https://ja.wikipedia.org/wiki/レオナルド・スピナッツォーラ "wikilink")、レアル・ベティスから[パウ・ロペス](https://ja.wikipedia.org/wiki/パウ・ロペス "wikilink")、アタランタBCから[ジャンルカ・マンチーニ](https://ja.wikipedia.org/wiki/ジャンルカ・マンチーニ "wikilink")、[フィオレンティーナから](../Page/ACFフィオレンティーナ.md "wikilink")[ジョルダン・ヴェレトゥ](https://ja.wikipedia.org/wiki/ジョルダン・ヴェレトゥ "wikilink")、[マンチェスター・ユナイテッドから](../Page/マンチェスター・ユナイテッドFC.md "wikilink")[クリス・スモーリング](https://ja.wikipedia.org/wiki/クリス・スモーリング "wikilink")、[アーセナルから](../Page/アーセナルFC.md "wikilink")[ヘンリク・ムヒタリアン](https://ja.wikipedia.org/wiki/ヘンリク・ムヒタリアン "wikilink")らを獲得した。
+2019-20シーズンは、[コスタス・マノラス](https://ja.wikipedia.org/wiki/コスタス・マノラス "wikilink")を[SSCナポリ](https://ja.wikipedia.org/wiki/SSCナポリ "wikilink")に、[エル・シャーラウィを](https://ja.wikipedia.org/wiki/ステファン・エル・シャーラウィ "wikilink")[上海申花に](../Page/上海緑地申花足球倶楽部.md "wikilink")、[ルカ・ペッレグリーニ](https://ja.wikipedia.org/wiki/ルカ・ペッレグリーニ "wikilink")を[ユヴェントスに](../Page/ユヴェントスFC.md "wikilink")、[パトリック・シック](https://ja.wikipedia.org/wiki/パトリック・シック "wikilink")を[RBライプツィヒ](https://ja.wikipedia.org/wiki/RBライプツィヒ "wikilink")に、[スティーヴン・エンゾンジ](https://ja.wikipedia.org/wiki/スティーヴン・エンゾンジ "wikilink")を[ガラタサライに](https://ja.wikipedia.org/wiki/ガラタサライSK_\(サッカー\) "wikilink")、[ロビン・オルセン](https://ja.wikipedia.org/wiki/ロビン・オルセン "wikilink")を[カリアリに放出した](../Page/カリアリ・カルチョ.md "wikilink")。一方で、SSCナポリから[アマドゥ・ディアワラ](https://ja.wikipedia.org/wiki/アマドゥ・ディアワラ "wikilink")、ユヴェントスから[レオナルド・スピナッツォーラ](https://ja.wikipedia.org/wiki/レオナルド・スピナッツォーラ "wikilink")、レアル・ベティスから[パウ・ロペス](https://ja.wikipedia.org/wiki/パウ・ロペス "wikilink")、アタランタBCから[ジャンルカ・マンチーニ](https://ja.wikipedia.org/wiki/ジャンルカ・マンチーニ "wikilink")、[フィオレンティーナから](../Page/ACFフィオレンティーナ.md "wikilink")[ジョルダン・ヴェレトゥ](https://ja.wikipedia.org/wiki/ジョルダン・ヴェレトゥ "wikilink")、[マンチェスター・ユナイテッドから](../Page/マンチェスター・ユナイテッドFC.md "wikilink")[クリス・スモーリング](https://ja.wikipedia.org/wiki/クリス・スモーリング "wikilink")、[アーセナルから](../Page/アーセナルFC.md "wikilink")[ヘンリク・ムヒタリアン](https://ja.wikipedia.org/wiki/ヘンリク・ムヒタリアン "wikilink")らを獲得した。リーグ戦は5位で、チャンピオンズリーグの出場権を逃したものの、ヨーロッパリーグの出場権は獲得した。コッパ・イタリアでは準々決勝でユヴェントスに敗れた。UEFAヨーロッパリーグでは、グループステージを突破し決勝トーナメントに進出。ラウンド32で[KAAヘント](https://ja.wikipedia.org/wiki/KAAヘント "wikilink")を2戦合計2-1で破ったが、新型コロナウイルスの影響で一発勝負となったラウンド16の[セビージャFC](../Page/セビージャFC.md "wikilink")戦に敗れて敗退した。
+
+2019年秋ごろから、アメリカで[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の販売代理店を経営するダン・フリードキン氏へのクラブの売却交渉が行われ\[7\]\[8\]、セリエA史上最高額となる7億8000万ユーロでの売却されるとも報じられたが\[9\]、2020年に入り新型コロナウイルスの世界的流行もあり、交渉は難航した\[10\]。しかし、8月6日に総額5億9000万ユーロで売却され、2020年8月末までに取引が完了することが発表された\[11\]。
 
 ## サポーターとライバル関係
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:ASRomaOlimpico.jpg "wikilink")
 
-ローマは[ユヴェントス](../Page/ユヴェントスFC.md "wikilink")、[インテル](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")、[ミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")、[ナポリに次いでイタリアで](https://ja.wikipedia.org/wiki/SSCナポリ "wikilink")5番目にファンの多いサッカークラブであり、イタリアのサッカーファンの約7%がローマを応援している（2006年4月の調査）\[7\]。歴史的に、ローマ市のローマサポーターの大部分は[インナーシティ](../Page/インナーシティ.md "wikilink")、特に[テスタッチョ](https://ja.wikipedia.org/wiki/テスタッチョ "wikilink")から来ている\[8\]。
+ローマは[ユヴェントス](../Page/ユヴェントスFC.md "wikilink")、[インテル](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")、[ミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")、[ナポリに次いでイタリアで](https://ja.wikipedia.org/wiki/SSCナポリ "wikilink")5番目にファンの多いサッカークラブであり、イタリアのサッカーファンの約7%がローマを応援している（2006年4月の調査）\[12\]。歴史的に、ローマ市のローマサポーターの大部分は[インナーシティ](../Page/インナーシティ.md "wikilink")、特に[テスタッチョ](https://ja.wikipedia.org/wiki/テスタッチョ "wikilink")から来ている\[13\]。
 
-クラブの伝統的な[ウルトラス](https://ja.wikipedia.org/wiki/ウルトラス "wikilink")集団は*Commando Ultrà Curva Sud*（CUCSの略称で知られる）\[9\]であった。CUCSは多くの小さなグループの合併によって設立され、欧州サッカーの歴史において最も歴史あるグループの一つであると見なされていた\[10\]。しかしながら、1990年代中頃までに、CUCSはライバル派閥に取って代わられ、最後には解散した。この時以来、[スタディオ・オリンピコの](../Page/スタディオ・オリンピコ・ディ・ローマ.md "wikilink")[クルヴァ](https://ja.wikipedia.org/wiki/クルヴァ "wikilink")・スッド（南スタンド）はより右翼的な集団\[11\]であるASローマ・ウルトラスやボーイズ、ジョヴィネッツァなどによって管理されている。しかしながら、最も古いグループである*Fedayn*は[政治に無関心であり](../Page/政治的無関心.md "wikilink")、政治はローマの主要なアイデンティティではなく、全体のアイデンティティの単なる一部分である。
+クラブの伝統的な[ウルトラス](https://ja.wikipedia.org/wiki/ウルトラス "wikilink")集団は*Commando Ultrà Curva Sud*（CUCSの略称で知られる）\[14\]であった。CUCSは多くの小さなグループの合併によって設立され、欧州サッカーの歴史において最も歴史あるグループの一つであると見なされていた\[15\]。しかしながら、1990年代中頃までに、CUCSはライバル派閥に取って代わられ、最後には解散した。この時以来、[スタディオ・オリンピコの](../Page/スタディオ・オリンピコ・ディ・ローマ.md "wikilink")[クルヴァ](https://ja.wikipedia.org/wiki/クルヴァ "wikilink")・スッド（南スタンド）はより右翼的な集団\[16\]であるASローマ・ウルトラスやボーイズ、ジョヴィネッツァなどによって管理されている。しかしながら、最も古いグループである*Fedayn*は[政治に無関心であり](../Page/政治的無関心.md "wikilink")、政治はローマの主要なアイデンティティではなく、全体のアイデンティティの単なる一部分である。
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:OlimpicoRoma.JPG "wikilink")
 
-最も知られているクラブ[アンセム](../Page/アンセム.md "wikilink")は、[アントネッロ・ベンディッティ](https://ja.wikipedia.org/wiki/アントネッロ・ベンディッティ "wikilink")が歌った「Roma (non si discute, si ama)」（*Roma Roma*としても知られている）である\[12\]\[13\]。曲の題名は「ローマは議論の余地は無く、愛されるべき」といった意味であり、毎試合前に歌われる。同じ歌手による「*Grazie Roma*」はホームゲームで勝利した後に流れる。最近は、[ザ・ホワイト・ストライプス](../Page/ザ・ホワイト・ストライプス.md "wikilink")の楽曲「[セヴン・ネイション・アーミー](https://ja.wikipedia.org/wiki/セヴン・ネイション・アーミー "wikilink")」のリフも試合で広く親しまれるようになってきている\[14\]。
+最も知られているクラブ[アンセム](../Page/アンセム.md "wikilink")は、[アントネッロ・ベンディッティ](https://ja.wikipedia.org/wiki/アントネッロ・ベンディッティ "wikilink")が歌った「Roma (non si discute, si ama)」（*Roma Roma*としても知られている）である\[17\]\[18\]。曲の題名は「ローマは議論の余地は無く、愛されるべき」といった意味であり、毎試合前に歌われる。同じ歌手による「*Grazie Roma*」はホームゲームで勝利した後に流れる。最近は、[ザ・ホワイト・ストライプス](../Page/ザ・ホワイト・ストライプス.md "wikilink")の楽曲「[セヴン・ネイション・アーミー](https://ja.wikipedia.org/wiki/セヴン・ネイション・アーミー "wikilink")」のリフも試合で広く親しまれるようになってきている\[19\]。
 
 ### ライバル関係
 
-イタリアサッカーにおいて、ローマには多くのライバルがいる。最初のライバルは、共にスタディオ・オリンピコを本拠地とする[ラツィオである](../Page/SSラツィオ.md "wikilink")。この2チームの[ダービーマッチ](../Page/ダービーマッチ.md "wikilink")は「[デルビー・デッラ・カピターレ](https://ja.wikipedia.org/wiki/デルビー・デッラ・カピターレ "wikilink")」（首都ダービー）呼ばれる。過去には、1979-80シーズンの試合においてクルヴァ・スッドから発射された[緊急照明弾が原因で起こったラツィオファンVincenzo](https://ja.wikipedia.org/wiki/信号拳銃 "wikilink") Paparelliの死亡事故\[15\]や、死亡者が出たという根拠のないうわさに端を発したスタジアム外での暴力を受けて試合放棄となった2004年3月の事例\[16\]など、時折暴力沙汰が起こっている。
+イタリアサッカーにおいて、ローマには多くのライバルがいる。最初のライバルは、共にスタディオ・オリンピコを本拠地とする[ラツィオである](../Page/SSラツィオ.md "wikilink")。この2チームの[ダービーマッチ](../Page/ダービーマッチ.md "wikilink")は「[デルビー・デッラ・カピターレ](https://ja.wikipedia.org/wiki/デルビー・デッラ・カピターレ "wikilink")」（首都ダービー）呼ばれる。過去には、1979-80シーズンの試合においてクルヴァ・スッドから発射された[緊急照明弾が原因で起こったラツィオファンVincenzo](https://ja.wikipedia.org/wiki/信号拳銃 "wikilink") Paparelliの死亡事故\[20\]や、死亡者が出たという根拠のないうわさに端を発したスタジアム外での暴力を受けて試合放棄となった2004年3月の事例\[21\]など、時折暴力沙汰が起こっている。
 
-近年では、ローマファンは[ユヴェントス](../Page/ユヴェントスFC.md "wikilink")（1980年代にライバル関係が生まれた）や[ミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")、[インテル](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")（近年上昇している）といったセリエAの強豪も（リーグタイトルを争うことから）ライバルと考えている\[17\]。
+近年では、ローマファンは[ユヴェントス](../Page/ユヴェントスFC.md "wikilink")（1980年代にライバル関係が生まれた）や[ミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")、[インテル](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")（近年上昇している）といったセリエAの強豪も（リーグタイトルを争うことから）ライバルと考えている\[22\]。
 
-[SSCナポリ](https://ja.wikipedia.org/wiki/SSCナポリ "wikilink")とも、「[デルビー・デル・ソーレ](https://ja.wikipedia.org/wiki/デルビー・デル・ソーレ "wikilink")」（太陽のダービー）を闘うライバル関係にある\[18\]。
+[SSCナポリ](https://ja.wikipedia.org/wiki/SSCナポリ "wikilink")とも、「[デルビー・デル・ソーレ](https://ja.wikipedia.org/wiki/デルビー・デル・ソーレ "wikilink")」（太陽のダービー）を闘うライバル関係にある\[23\]。
 
-近年一部のローマサポーターとイングランドのクラブのファンとの間で数多くの衝突事例やその後のスタジアム外での暴力が起こっており\[19\]、多くのリヴァプールファンが刺される事件も起こった（[ヘイゼルの悲劇](../Page/ヘイゼルの悲劇.md "wikilink")も参照）。
+近年一部のローマサポーターとイングランドのクラブのファンとの間で数多くの衝突事例やその後のスタジアム外での暴力が起こっており\[24\]、多くのリヴァプールファンが刺される事件も起こった（[ヘイゼルの悲劇](../Page/ヘイゼルの悲劇.md "wikilink")も参照）。
 
-それ以来、一部のイングランド人サポーターがローマにおいて暴力を受けたり刺される事件がさらに起こっている。2001年にリヴァプールがローマを訪れた際や、2006年のミドルスブラファンとの衝突、2007年のマンチェスターユナイテッドファンとの衝突などである。2009年3月、アーセナルサポーターを乗せた長距離バスがスタディオ・オリンピコのすぐ外でローマの「ウルトラス」の集団によって攻撃された。バスの窓ガラスは割られ、少なくとも一人が車両に乗り込み、火を放ち、サポーターの膝を刺した\[20\]。
+それ以来、一部のイングランド人サポーターがローマにおいて暴力を受けたり刺される事件がさらに起こっている。2001年にリヴァプールがローマを訪れた際や、2006年のミドルスブラファンとの衝突、2007年のマンチェスターユナイテッドファンとの衝突などである。2009年3月、アーセナルサポーターを乗せた長距離バスがスタディオ・オリンピコのすぐ外でローマの「ウルトラス」の集団によって攻撃された。バスの窓ガラスは割られ、少なくとも一人が車両に乗り込み、火を放ち、サポーターの膝を刺した\[25\]。
 
 ## タイトル
 
@@ -168,7 +170,8 @@
 | [2016-17](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2016-2017 "wikilink") | セリエA                                        | 38 | 28 | 3  | 7  | 90 | 38 | 87 | '''2位  | 準決勝敗退                                      |
 | [2017-18](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2017-2018 "wikilink") | セリエA                                        | 38 | 23 | 8  | 7  | 61 | 28 | 77 | '''3位  | ベスト16                                      |
 | [2018-19](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2018-2019 "wikilink") | セリエA                                        | 38 | 18 | 12 | 8  | 66 | 48 | 66 | '''6位  | 準々決勝敗退                                     |
-| [2019-20](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2019-2020 "wikilink") | セリエA                                        | 38 |    |    |    |    |    |    | '''位   | 準々決勝敗退                                     |
+| [2019-20](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2019-2020 "wikilink") | セリエA                                        | 38 | 21 | 7  | 10 | 77 | 51 | 70 | '''5位  | 準々決勝敗退                                     |
+| [2020-21](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2020-2021 "wikilink") | セリエA                                        | 38 |    |    |    |    |    |    | '''位   |                                            |
 
 ## 記録
 
@@ -1625,9 +1628,39 @@
 <tr class="even">
 <td><p>ラウンド16</p></td>
 <td><p><a href="../Page/セビージャFC.md" title="wikilink">セビージャ</a></p></td>
+<td><p>'''0-2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
-<td><p>'''</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2020-21</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2020-21" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
+<td><p>グループ</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>'''位</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1866,7 +1899,7 @@
 
 ### 欧州での記録
 
-  - 2020年2月27日現在
+  - 2020年8月6日現在
 
 | 大会                                                                          | 試 | 勝 | 分 | 敗 | 得 | 失 | 差 | 勝率 |
 | --------------------------------------------------------------------------- | - | - | - | - | - | - | - | -- |
@@ -1887,7 +1920,7 @@
 
   - [2020年](../Page/2020年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")現在
 
-★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink")) ★ ★   ★ ★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Uruguay.svg "wikilink")) ★ ★ ★ ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))
+★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink")) ★ ★   ★ ★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Uruguay.svg "wikilink")) ★ ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink")) ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))
 
 括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 
@@ -2098,3 +2131,8 @@
 18.
 19.
 20.
+21.
+22.
+23.
+24.
+25.

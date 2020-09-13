@@ -7,23 +7,21 @@
 
 ## 特徴
 
-[ワークステーション](../Page/ワークステーション.md "wikilink")が必要でライセンス料も高価なプロフェッショナル向けの3DCGソフトウェアと比較し、市販の[パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")で動作し無償で利用出来ることから、アマチュアを中心に普及が進んでいる\[1\]。
+プロフェッショナル向けの3DCGソフトウェアと比較すると軽量でライセンス料が無料なことから、アマチュアを中心に普及が進んでいる\[1\]。プレビュー表示でGPU機能を多用する関係もあり、例えば[nVidia](https://ja.wikipedia.org/wiki/nVidia "wikilink")のグラフィックカードであればGeForce 200やそれ以降の製品が必須となる\[2\]が、プロ向けのソフトウェアに比べると条件は緩い。
 
-プロ向けは[Maya](../Page/Maya.md "wikilink")、[3ds Max](../Page/3ds_Max.md "wikilink")、[Softimage](../Page/Softimage.md "wikilink")が標準となっているが\[2\]、近年では機能が強化されたことで利用する動きもある\[3\]。[カラーとその子会社であるプロジェクトスタジオQは従来使用してきた](../Page/カラー_\(アニメ制作会社\).md "wikilink")[3ds MaxからBlenderへの移行を進めており](../Page/3ds_Max.md "wikilink")、制作中の『[シン・エヴァンゲリオン劇場版<nowiki>](https://ja.wikipedia.org/wiki/シン・エヴァンゲリオン劇場版 "wikilink"):』においてもBlenderの「実地検証」を実施している\[4\]。また、両社はBlender財団への賛同と開発資金の提供を発表した\[5\]\[6\]。
+プロ向けは[Maya](../Page/Maya.md "wikilink")、[3ds Max](../Page/3ds_Max.md "wikilink") が標準となっているが\[3\]、近年では機能が強化されたことで利用する動きもある\[4\]。[カラーとその子会社であるプロジェクトスタジオQは従来使用してきた](../Page/カラー_\(アニメ制作会社\).md "wikilink")[3ds MaxからBlenderへの移行を進めており](../Page/3ds_Max.md "wikilink")、制作中の『[シン・エヴァンゲリオン劇場版<nowiki>](https://ja.wikipedia.org/wiki/シン・エヴァンゲリオン劇場版 "wikilink"):』においてもBlenderの「実地検証」を実施している\[5\]。また、両社はBlender財団への賛同と開発資金の提供を発表した\[6\]\[7\]。
 
-画面描画の[バックエンド](https://ja.wikipedia.org/wiki/バックエンド "wikilink")に[OpenGL](../Page/OpenGL.md "wikilink") 3.3以降を採用している\[7\]。
+操作体系面では、バージョン2.7x系までは「オブジェクト(個々の3Dモデル)は右クリックで選択」が基本という、他の大半のソフトウェアと異なる点が特徴の一つ(選択に用いる際のマウスボタンクリックの右と左を入れ替える事は、バージョンを問わずユーザー設定にて可能)であったが、バージョン2.8x以降は「左クリックで選択・右クリックでサブメニュー」という、一般的なソフトウェアの操作に倣っている。[FreeCAD](https://ja.wikipedia.org/wiki/FreeCAD "wikilink")などマウスの操作体系をBlenderと同じ仕様に変更できるCADソフトもある。
 
-操作体系面では、バージョン2.7x系までは「オブジェクト(個々の3Dモデル)は右クリックで選択」が基本という、他の大半のソフトウェアと異なる点が特徴の一つ(選択に用いる際のマウスボタンクリックの右と左を入れ替える事は、バージョンを問わずユーザー設定にて可能)であったが、バージョン2.8x以降は「左クリックで選択・右クリックでサブメニュー」という、一般的なソフトウェアの操作に倣っている。その他、プレビュー表示でGPU機能を多用する関係もあり、例えば[nVidia](https://ja.wikipedia.org/wiki/nVidia "wikilink")のグラフィックカードであればGeForce 200やそれ以降の製品が必須となる→[Supported GPUs in Blender 2.80](https://code.blender.org/2019/04/supported-gpus-in-blender-2-80/)。
+### 下書き、ストーリーボード及び手描きアニメーション
 
-### Grease Pencil
-
-3Dベクターペイント機能。3Dモデリングのための下書き、ストーリーボード\[8\]\[9\]、手描きアニメーションなどに使うことが出来る。またストロークのリギング機能があり、カットアウトアニメーションを作ることも可能となっている\[10\]。
+3Dベクターペイント機能のGrease Pencilが搭載されており、3Dモデリングのための下書き、ストーリーボード\[8\]\[9\]、手描きアニメーションなどに使うことが出来る。またストロークのリギング機能があり、カットアウトアニメーションを作ることも可能となっている\[10\]。
 
 2Dアニメーションに向けて2D Animationテンプレートが付属している。
 
 ### モデリング
 
-ツール毎に独自の操作ウィジェットを持つポリゴンモデリング機能、非破壊モデリングのためのモディファイア機能、高度なスカルプトモデリング機能などを備えている。スカルプトモデリングの専用テンプレートが搭載されている。
+ツール毎に独自の操作ウィジェットを持つポリゴンモデリング機能、非破壊モデリングのためのモディファイア機能、高度なスカルプトモデリング機能などを備えている。スカルプトモデリング用のテンプレートも搭載されている。バージョン2.83ではCloth物理演算を直感的に行うことができるSculpt Cloth機能が追加された。
 
 またモデリング用として様々なアドオンが存在する。
 
@@ -37,25 +35,35 @@
 
 シミュレーションにはBulletベースの剛体シミュレーション\[13\]、独自の布・軟体・ヘアシミュレーション、Mantaflowベースの流体シミュレーション (液体・気体)\[14\]などが搭載されている。
 
-### レンダリング
+### プレビュー及びレンダリング
 
-現行の内蔵レンダラーにはWorkbench、Eevee、Cyclesが存在する。Workbenchはビューポート向けの作業用レンダラーであり、Eeveeは高度なリアルタイムレンダラーとなっている。CyclesはGPU/対応のパストレーシングレンダラーであり、オフラインレンダリング向けとなっている。レンダリング手法が異なることもあり、CyclesとEeveeの間にはマテリアルなどの非互換性が多少存在する\[15\]。
+現行の内蔵レンダラーにはWorkbench、Eevee、Cyclesが存在する。Workbenchはビューポート向けの作業用レンダラーであり、Eeveeは高度なリアルタイムレンダラーとなっている。CyclesはGPU/対応のパストレーシングレンダラーであり、オフラインレンダリング向けとなっている。レンダリング手法が異なることもあり、CyclesとEeveeの間にはマテリアルなどの非互換性が多少存在する\[15\]。これらレンダラーはビューポート上のプレビュー表示でも使うことが出来る。
 
-また、過去のレンダラーには[スキャンライン](https://ja.wikipedia.org/wiki/3次元コンピュータグラフィックス#スキャンライン "wikilink")/[レイトレーシング](../Page/レイトレーシング.md "wikilink")ハイブリッドレンダラーのBlender Internalが存在した。Blender Internalはバージョン2.8で削除された。
+また、2.83以降にはVR表示に対応するVR Scene Inspectionアドオンが搭載されている。この機能には[OpenXR](https://ja.wikipedia.org/wiki/OpenXR "wikilink")対応の[ヘッドマウントディスプレイ](../Page/ヘッドマウントディスプレイ.md "wikilink") (HMD) デバイス ([OpenXR\#対応ハードウェア](https://ja.wikipedia.org/wiki/OpenXR#対応ハードウェア "wikilink")参照) が必要となる\[16\]。
 
-### コンポジティング
+なお、過去のレンダラーには[スキャンライン](https://ja.wikipedia.org/wiki/3次元コンピュータグラフィックス#スキャンライン "wikilink")/[レイトレーシング](../Page/レイトレーシング.md "wikilink")ハイブリッドレンダラーのBlender Internalが存在した。Blender Internalはバージョン2.8で削除された。
 
-ノードベースのコンポジット機能を搭載しており、様々な画像処理が可能となっている。OpenCLによるGPU処理に対応している。ディープコンポジティングには対応していない。
+### ポストエフェクト及びコンポジティング
+
+ノードベースのコンポジット機能を搭載しており、様々な画像処理が可能となっている。OpenCLによるGPU処理に対応している。ディープコンポジティングには対応していないが、Cryptomatteには対応している。
+
+また、2D/3Dモーショントラッキング、ロトスコープなどのVFXに必要となる機能及びVFXテンプレートも搭載されている。
 
 ### 動画編集
 
-動画編集用の Video Sequence Editor (VSE) 機能が搭載されている。動画のサムネイルは表示されない 。プロキシ編集に対応している。
+動画編集用の Video Sequence Editor (VSE) 機能およびVideo Editingテンプレートが搭載されている。動画のサムネイルは表示されない 。プロキシ編集に対応している。
+
+動画編集を強化するアドオンのBlender Power Sequencerも付属している。
 
 ### ゲームエンジン
 
 2.7xまではゲームエンジン機能を内蔵しており、ロジックノードや[Python](../Page/Python.md "wikilink")[スクリプト](../Page/スクリプト.md "wikilink")を利用することでインタラクティブな[コンテンツ](../Page/コンテンツ.md "wikilink")を制作することが可能であった。2.8ではゲームエンジン機能が一旦削除されたものの、今後インタラクティブモードが再度追加される予定となっている。
 
 なお、2.8xで旧来のゲームエンジンが使用できる派生版のUPBGEも存在する。
+
+### 3D印刷
+
+3D印刷に向けて編集モードのMesh Analysisオーバーレイ\[17\]や3D-Print Toolboxアドオン\[18\]などのメッシュ解析・クリーンアップ機能が搭載されている。ただし直接3D印刷を行うことは出来ない。
 
 ## バージョン履歴
 
@@ -75,7 +83,7 @@ Blenderの前身である**Traces**は、オランダの[CG](https://ja.wikipedi
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、トン・ローセンダールはインハウス・ツールとして使用されてきたBlenderの開発・外販を行う為に社を設立した。Windows版も用意され、[ラジオシティ](../Page/ラジオシティ.md "wikilink")機能などを実装した有料版と無料版の二種を展開した。
 
-2001年、NaN社は、Web3Dに向けて、Blender Webプラグインのベータ版をリリースした\[16\]が、セキュリティの問題から頓挫した。[2002年](../Page/2002年.md "wikilink")、[インターネット・バブル](https://ja.wikipedia.org/wiki/インターネット・バブル "wikilink")の崩壊と共にNaN社は[倒産](../Page/倒産.md "wikilink")し、Blenderの[ソースコード](../Page/ソースコード.md "wikilink")は債権者の手に渡ってしまう。しかし開発途上にあったBlenderを手放すことができなかったトン・ローセンダールはを設立するため、"ソースコード解放"を合言葉に大々的な[募金](https://ja.wikipedia.org/wiki/募金 "wikilink")キャンペーンを行い半年で10万[ユーロ](../Page/ユーロ.md "wikilink")を世界中から集結させ、ソースコードを再びその手に取り戻した。
+2001年、NaN社は、Web3Dに向けて、Blender Webプラグインのベータ版をリリースした\[19\]が、セキュリティの問題から頓挫した。[2002年](../Page/2002年.md "wikilink")、[インターネット・バブル](https://ja.wikipedia.org/wiki/インターネット・バブル "wikilink")の崩壊と共にNaN社は[倒産](../Page/倒産.md "wikilink")し、Blenderの[ソースコード](../Page/ソースコード.md "wikilink")は債権者の手に渡ってしまう。しかし開発途上にあったBlenderを手放すことができなかったトン・ローセンダールはを設立するため、"ソースコード解放"を合言葉に大々的な[募金](https://ja.wikipedia.org/wiki/募金 "wikilink")キャンペーンを行い半年で10万[ユーロ](../Page/ユーロ.md "wikilink")を世界中から集結させ、ソースコードを再びその手に取り戻した。
 
 そして現在までBlenderは、GPLの下にオープンソースウェアとして開発・無償配布されている。ソースコードのコメントが[オランダ語](../Page/オランダ語.md "wikilink")で書かれている上に、プログラム自体が定石から外れた組み方をしているため、開発を引き次いだ有志は他[OSへの移植などで苦戦したという](../Page/オペレーティングシステム.md "wikilink")。
 
@@ -119,12 +127,12 @@ Blenderの前身である**Traces**は、オランダの[CG](https://ja.wikipedi
 [Category:Windowsのソフトウェア](https://ja.wikipedia.org/wiki/Category:Windowsのソフトウェア "wikilink") [Category:MacOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:MacOSのソフトウェア "wikilink") [Category:1995年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1995年のソフトウェア "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:クロスプラットフォームのソフトウェア](https://ja.wikipedia.org/wiki/Category:クロスプラットフォームのソフトウェア "wikilink") [Category:映像編集・合成ソフト](https://ja.wikipedia.org/wiki/Category:映像編集・合成ソフト "wikilink") [Category:3DCGソフトウェア](https://ja.wikipedia.org/wiki/Category:3DCGソフトウェア "wikilink") [Category:視覚効果ソフトウェア](https://ja.wikipedia.org/wiki/Category:視覚効果ソフトウェア "wikilink") [Category:Blender_Foundation](https://ja.wikipedia.org/wiki/Category:Blender_Foundation "wikilink")
 
 1.  [初めての3DCGから本格ゲーム開発まで予算10万円台"Blender"向けPCを MUGENUPが検証\!](https://cgworld.jp/interview/201812-unitcom.html) - CGWORLD.jp
-2.
-3.  [User Stories — blender.org](https://www.blender.org/features/user-stories/)
-4.
+2.  [Supported GPUs in Blender 2.80](https://code.blender.org/2019/04/supported-gpus-in-blender-2-80/)
+3.
+4.  [User Stories — blender.org](https://www.blender.org/features/user-stories/)
 5.
 6.
-7.  [Requirements — blender.org](https://www.blender.org/download/requirements/)
+7.
 8.  [Blender 2.73 – A New Storyboard Workflow](https://gooseberry.blender.org/blender-2-73-a-new-storyboard-workflow/) The Gooseberry Open Movie Project 2015年1月15日
 9.  [Storyboarding with Grease Pencil](http://www.blendernation.com/2016/08/17/storyboarding-grease-pencil/) BlenderNation 2016年8月17日
 10. [Grease Pencil » Grease Pencil Weight Paint Mode » Introduction](https://docs.blender.org/manual/en/2.83/grease_pencil/modes/weight_paint/introduction.html) Blender Foundation
@@ -133,4 +141,7 @@ Blenderの前身である**Traces**は、オランダの[CG](https://ja.wikipedi
 13. [Blender 2.66 adds Bullet physics, Dynamic Topology](http://www.cgchannel.com/2013/02/blender-2-66-adds-bullet-physics-dynamic-topology/) CG Channel 2013年2月22日
 14. [Blender Foundation releases Blender 2.82](http://www.cgchannel.com/2020/02/blender-foundation-releases-blender-2-82/) CG Channel 2020年2月14日
 15. [Rendering » Eevee » Limitations](https://docs.blender.org/manual/en/latest/render/eevee/limitations.html) Blender Foundation
-16. [Blender - news - Web Plug-in](http://download.blender.org/documentation/oldsite/oldsite.blender3d.org/202_Blender%20news%20Web%20Plug-in.html) NaN 2001年8月16日
+16. [Blender Foundation releases Blender 2.83 LTS](http://www.cgchannel.com/2020/06/blender-foundation-releases-blender-2-83-lts/) CG Channel 2020年6月4日
+17. [Mesh Analysis](https://docs.blender.org/manual/en/latest/modeling/meshes/mesh_analysis.html) Blender Foundation
+18. [3D Print Toolbox](https://docs.blender.org/manual/en/dev/addons/mesh/3d_print_toolbox.html) Blender Foundation
+19. [Blender - news - Web Plug-in](http://download.blender.org/documentation/oldsite/oldsite.blender3d.org/202_Blender%20news%20Web%20Plug-in.html) NaN 2001年8月16日

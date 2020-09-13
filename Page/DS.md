@@ -86,7 +86,7 @@
 
 **Ｄ・Ｓ**
 
-  - [バスタード](https://ja.wikipedia.org/wiki/バスタード "wikilink")の[主人公](../Page/主人公.md "wikilink")、[ダーク・シュナイダー](../Page/ダーク・シュナイダー.md "wikilink")の略称。
+  - [BASTARD\!\! -暗黒の破壊神-の](../Page/BASTARD!!_-暗黒の破壊神-.md "wikilink")[主人公](../Page/主人公.md "wikilink")、[ダーク・シュナイダー](../Page/ダーク・シュナイダー.md "wikilink")の略称。
 
 **ds**
 

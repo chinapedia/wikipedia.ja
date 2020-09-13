@@ -272,7 +272,7 @@
 
   - 緒川薫『QUIZ/完全版』[角川書店](../Page/角川書店.md "wikilink")、2000年　ISBN 9784048732369
   - [浅田寅ヲ](../Page/浅田寅ヲ.md "wikilink")『QUIZ』（上・下）角川書店〈[角川コミックス・エース](https://ja.wikipedia.org/wiki/角川グループパブリッシングの漫画レーベル#カドカワコミックス・エース "wikilink")〉、2000年　ISBN 9784047133525（上巻）、9784047133532（下巻）
-      - [コミカライズ](https://ja.wikipedia.org/wiki/コミカライズ "wikilink")。プロットがドラマとは一部異なる。
+      - [コミカライズ](../Page/コミカライズ.md "wikilink")。プロットがドラマとは一部異なる。
   - 唐津薫、山下雅民『QUIZ 2010』光進社、2000年　ISBN 9784877610463
   - [J・G・バラード](../Page/J・G・バラード.md "wikilink")『殺す (原題：*[Running Wild](https://ja.wikipedia.org/wiki/:en:Running_Wild_\(novella\) "wikilink")* )』[東京創元社](../Page/東京創元社.md "wikilink")、1998年　ISBN 9784488016203
 
@@ -281,8 +281,11 @@
 ## 外部リンク
 
   - [TBSドラマアーカイブ「QUIZ」](http://www.tbs.co.jp/drama_archive/quiz2000/index-j.html)
-  - [TBSオンデマンド](http://tod.tbs.co.jp/item/1448/)（動画配信）
+
+  - （動画配信）
+
   - [テレビドラマデータベース「QUIZ」](http://www.tvdrama-db.com/drama_info/p/id-34253)
+
   - [ドラマロケ地案内「QUIZ」](http://location.la.coocan.jp/quiz2000.html)
 
 [Category:TBS金曜ドラマ](https://ja.wikipedia.org/wiki/Category:TBS金曜ドラマ "wikilink") [Category:2000年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2000年のテレビドラマ "wikilink") [Category:TBSの刑事ドラマ](https://ja.wikipedia.org/wiki/Category:TBSの刑事ドラマ "wikilink") [Category:警視庁を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:警視庁を舞台としたテレビドラマ "wikilink") [Category:誘拐を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:誘拐を題材としたテレビドラマ "wikilink") [Category:漫画作品_く](https://ja.wikipedia.org/wiki/Category:漫画作品_く "wikilink") [Category:誘拐を題材とした漫画](https://ja.wikipedia.org/wiki/Category:誘拐を題材とした漫画 "wikilink")

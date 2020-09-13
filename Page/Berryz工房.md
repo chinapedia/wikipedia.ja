@@ -24,7 +24,7 @@
 <td><p><a href="../Page/清水佐紀.md" title="wikilink">清水佐紀</a><br />
 <small>（しみず さき）</small></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ABO式血液型" title="wikilink">O型</a></p></td>
+<td><p><a href="../Page/ABO式血液型.md" title="wikilink">O型</a></p></td>
 <td><p>152.9cm</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a></p></td>
 <td><p>style="white-space:nowrap; background:#ff3; color:#000; | イエロー</p></td>
@@ -1072,7 +1072,7 @@ Buono!メンバー<br />
   - インタビュー
       - [SAPPORO MUSIC NAKED インタビュー](http://www.sapporo-mn.com/m/naked/naked.php?naked_id=275_1)
 
-[Category:Berryz工房](https://ja.wikipedia.org/wiki/Category:Berryz工房 "wikilink") [Category:ハロー\!プロジェクトのユニット](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクトのユニット "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:7人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:7人組の音楽グループ "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink") [Category:2015年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2015年に解散した音楽グループ "wikilink")
+[Category:Berryz工房](https://ja.wikipedia.org/wiki/Category:Berryz工房 "wikilink") [Category:ハロー\!プロジェクトのユニット](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクトのユニット "wikilink") [Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:ハロー\!プロジェクトのポップ・グループ](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクトのポップ・グループ "wikilink") [Category:7人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:7人組の音楽グループ "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink") [Category:2015年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2015年に解散した音楽グループ "wikilink")
 
 1.
 2.

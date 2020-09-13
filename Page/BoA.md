@@ -1,7 +1,7 @@
 > この記事は[BoA](https://ja.wikipedia.org/wiki/BoA)から翻訳されています。
 
 
-**BoA**（ボア、本名、權珤雅（クォン・ボア） 、[1986年](../Page/1986年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")\[1\] - ）は、[大韓民国](../Page/大韓民国.md "wikilink")[京畿道](../Page/京畿道.md "wikilink")出身の[歌手](../Page/歌手.md "wikilink")、[女優](https://ja.wikipedia.org/wiki/女優 "wikilink")で、[大韓民国](../Page/大韓民国.md "wikilink")・[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")・[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")を中心に活動している。[2000年](../Page/2000年.md "wikilink")に韓国でデビューをし、翌[2001年](../Page/2001年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")に日本デビュー\[2\]。血液型は[AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")\[3\]。「A」が大文字なのは、韓国名の[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")表記の慣習による。
+**BoA**（ボア、本名、權珤雅（クォン・ボア） 、[1986年](../Page/1986年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")\[1\] - ）は、[大韓民国](../Page/大韓民国.md "wikilink")[京畿道](../Page/京畿道.md "wikilink")出身の[歌手](../Page/歌手.md "wikilink")、[女優](https://ja.wikipedia.org/wiki/女優 "wikilink")で、[大韓民国](../Page/大韓民国.md "wikilink")・[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")・[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")を中心に活動している。[2000年](../Page/2000年.md "wikilink")に韓国でデビューをし、翌[2001年](../Page/2001年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")に日本デビュー\[2\]。血液型は[AB型](../Page/ABO式血液型.md "wikilink")\[3\]。「A」が大文字なのは、韓国名の[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")表記の慣習による。
 
 ## 来歴
 
@@ -205,6 +205,14 @@
   - [2018年](../Page/2018年.md "wikilink")
 
       - 3～4月、「BoA THE LIVE 2018 ～Unchained～」をZeppツアー（4会場6公演）と福岡国際会議場 メインホールで開催。公演チケットにはミニアルバム「Unchained」CDが付属\[14\]。
+      - 12月20～21日7年ぶりとなるBoAのクリスマスライブ「BoA THE LIVE 2018 "X'mas"」を舞浜アンフィシアターで開催。当公演にて新曲である「AMOR」を初披露。
+
+<!-- end list -->
+
+  - 2019年
+      - [4月3日](../Page/2月27日.md "wikilink")：40thシングル「[スキだよ -MY LOVE-/AMOR](https://ja.wikipedia.org/wiki/スキだよ_-MY_LOVE-/AMOR "wikilink")」をリリース。
+      - 9～10月、「BoA LIVE TOUR 2019 - \#mood-」（6か所7公演）を開催。公演にて新曲「Wising Well」を披露。
+      - 10月23日「BoA LIVE TOUR 2019 - \#mood-」で披露した新曲「Wising Well」を日本限定配信。
 
 ### アメリカ合衆国での活動
 
@@ -247,7 +255,7 @@
 
 ## 音楽性
 
-主なジャンルは[ヒップホップ](../Page/ヒップホップ.md "wikilink")、[R\&B](https://ja.wikipedia.org/wiki/R&B "wikilink")、[ダンスポップ](https://ja.wikipedia.org/wiki/ダンスポップ "wikilink")である。またBoAは、通常のピンク、アヴリル・ラヴィーンの曲を聴きながらロックのジャンルの音楽をしてみたいと語っていた。日本ではバラード曲である。
+主なジャンルは[ヒップホップ](../Page/ヒップホップ.md "wikilink")、[R\&B](https://ja.wikipedia.org/wiki/R&B "wikilink")、[ダンスポップ](https://ja.wikipedia.org/wiki/ダンスポップ "wikilink")である。またBoAは、通常のピンク、[アヴリル・ラヴィーン](../Page/アヴリル・ラヴィーン.md "wikilink")の曲を聴きながらロックのジャンルの音楽をしてみたいと語っていた。日本ではバラード曲である。
 
 [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")、[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")等の多くの歌手と比較された。
 
@@ -277,6 +285,7 @@
 ### オーディション番組
 
   - [PRODUCE 101 season2](https://ja.wikipedia.org/wiki/PRODUCE_101_\(Season_2\) "wikilink")（[Mnet](../Page/Mnet.md "wikilink")）：2017年4月〜6月
+  - VOICE KOREA 2020（[Mnet](../Page/Mnet.md "wikilink")）：2020年5月〜
 
 ## 脚注
 

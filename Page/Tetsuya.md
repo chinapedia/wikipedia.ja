@@ -13,17 +13,17 @@
 
 その後、空中分解しかけていたByston-Wellの当時のギタリストとともに[大阪](../Page/大阪.md "wikilink")に出て一人暮らしを始めることとなった。ちなみに、「バンドで食べていけるわけがない」と思っていたtetsuyaは、当時プロ志向が全くなかっため、この時期に大阪で一人暮らしを始めることは自分の意志ではなかった\[4\]。プロ志向だったギタリストが、プロを目指し大阪に出るために物件を探していると話を受けたtetsuyaが、「ついでに大阪の家賃相場を調べてくれないか」と依頼したところ、ギタリストが勝手に二人分の部屋の内金を入れてしまったことが一人暮らしを始めた理由だった\[5\]。tetsuyaは当時を振り返り「勝手に部屋を決めてきちゃったっていうアクシデントがなければ、僕は今ここにいないと思います\[6\]」「だから、そいつには感謝したい\[7\]」と述べている。
 
-大阪に出た後、有名レコード店でバイトをするようになり、キャンペーンに来たミュージシャンと出会う機会が増え、当時大阪の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")シーンで有名だったバンドBILLY & THE SLUTSのボーカルSAMMYとも知り合っている。その後SAMMYから「いいギターがいる」と、hiroを紹介されている\[8\]。ちなみに、[DEAD ENDのメンバーも店に出入りしていたことから](../Page/DEAD_END_\(バンド\).md "wikilink")、当時DEAD ENDの[ローディー](../Page/ローディー.md "wikilink")をやっていた[sakuraとは](../Page/Sakura_\(ドラマー\).md "wikilink")、直接知り合ってはいないが同じ空間に居合わせていた\[9\]。
+大阪に出た後、有名レコード店でバイトをするようになり、キャンペーンに来たミュージシャンと出会う機会が増え、当時大阪のシーンで有名だったバンドBILLY & THE SLUTSのボーカルSAMMYとも知り合っている。その後SAMMYから「いいギターがいる」と、hiroを紹介されている\[8\]。ちなみに、[DEAD ENDのメンバーも店に出入りしていたことから](../Page/DEAD_END_\(バンド\).md "wikilink")、当時DEAD ENDの[ローディー](../Page/ローディー.md "wikilink")をやっていた[sakuraとは](../Page/Sakura_\(ドラマー\).md "wikilink")、直接知り合ってはいないが同じ空間に居合わせていた\[9\]。
 
-hiroと意気投合したtetsuyaは新たなバンドを結成すべくメンバーを探すため、ライヴハウスに通い詰めるようになる。そこで知り合ったギタリストに誘われ、大阪で行われたとあるセッションに参加した際に、[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")とperoに出会う\[10\]。ちなみに、当時ギタリストと出会ったライブハウスでライヴを行っていたのが[ZI:KILL](../Page/ZI:KILL.md "wikilink")で、当時[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")がドラマーとして在籍していた\[11\]。
+hiroと意気投合したtetsuyaは新たなバンドを結成すべくメンバーを探すため、ライヴハウスに通い詰めるようになる。そこで知り合ったギタリストに誘われ、大阪で行われたとあるセッションに参加した際に、[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")とperoに出会う\[10\]。ちなみに、当時ギタリストと出会ったライヴハウスでライヴを行っていたのが[ZI:KILL](../Page/ZI:KILL.md "wikilink")で、当時[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")がドラマーとして在籍していた\[11\]。
 
 セッションで知り合ったhydeとperoに自分とバンドを組むように説得するが、hydeは[Jelsarem's Rod結成直後であることを理由に断念した](../Page/Jelsarem's_Rod.md "wikilink")。しかし、tetsuyaは諦めず、Jelsarem's Rodの全てのライヴに足繁く通い、hydeを口説いた。その後、Jelsarem's Rodの活動に見切りを付けたhydeがtetsuyaとのバンド結成を決意し、tetsuyaとhyde、hiro、peroの4人で[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")を結成することとなった（その後の活動は**[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")**を参照）。
 
 L'Arc〜en〜Cielを結成する前、メンバー探しをしている段階で、大阪で同じくバンド活動をしていた[西川貴教](../Page/西川貴教.md "wikilink")（[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")、[abingdon boys school](https://ja.wikipedia.org/wiki/abingdon_boys_school "wikilink")）を「いいメンバーがいるから」と知人を通じて紹介されており、この時互いにバンドをしようと約束を交わしている。2人が出会った当時、西川は[Luis-Mary](../Page/Luis-Mary.md "wikilink")というバンドで大阪では絶大な人気を誇っており、tetsuyaは「この人と組めるのか\!」と、相当楽しみにしていたという。しかし、その時は連絡先も交換せず挨拶程度だけであり、おまけに知人とも連絡が付かなくなってしまったため、結局tetsuyaはその後ラルクを結成し活動していくこととなった\[12\]。数年後、2人はとあるテレビ番組で再会し、プライベートなどでも交友を深める仲になった\[13\]。その後、西川が企画したイベント「[イナズマロックフェス 2009](https://ja.wikipedia.org/wiki/イナズマロックフェス#2009年 "wikilink")」に参加し、「イナズマロックフェス 2010」、サプライズゲストとして「イナズマロックフェス 2012」にも参加している\[14\]\[15\]\[16\]。
 
-L'Arc〜en〜Cielではベーシストであり、メインコンポーザーの一人でもある。自身が作曲した楽曲が多くシングル表題曲となっており、tetsuyaが手掛けたシングル作品では「[snow drop](https://ja.wikipedia.org/wiki/snow_drop_\(L'Arc〜en〜Cielの曲\) "wikilink")」が[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録している。他にも「[Driver's High](../Page/Driver's_High.md "wikilink")」、「[STAY AWAY](../Page/STAY_AWAY.md "wikilink")」、「[READY STEADY GO](../Page/READY_STEADY_GO_\(L'Arc〜en〜Cielの曲\).md "wikilink")」、「[自由への招待](../Page/自由への招待.md "wikilink")」、「[GOOD LUCK MY WAY](https://ja.wikipedia.org/wiki/GOOD_LUCK_MY_WAY "wikilink")」などの疾走感のある楽曲や、「[DIVE TO BLUE](../Page/DIVE_TO_BLUE.md "wikilink")」、「[Link](../Page/Link_\(L'Arc〜en〜Cielの曲\).md "wikilink")」といった多くの[ポップ・チューンを手掛けている](../Page/ポップ・ミュージック.md "wikilink")。バンドのプロデューサーを務める[岡野ハジメ](../Page/岡野ハジメ.md "wikilink")は、こうした明るい楽曲を「テツポップ\[17\]」と表現している。
+L'Arc〜en〜Cielではベーシストであり、メインコンポーザーの一人でもある。自身が作曲した楽曲が多くシングル表題曲となっており、tetsuyaが手掛けたシングル作品では「[snow drop](https://ja.wikipedia.org/wiki/snow_drop_\(L'Arc〜en〜Cielの曲\) "wikilink")」が[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録している。他にも「[Driver's High](../Page/Driver's_High.md "wikilink")」、「[STAY AWAY](../Page/STAY_AWAY.md "wikilink")」、「[READY STEADY GO](../Page/READY_STEADY_GO_\(L'Arc〜en〜Cielの曲\).md "wikilink")」、「[自由への招待](../Page/自由への招待.md "wikilink")」、「[GOOD LUCK MY WAY](https://ja.wikipedia.org/wiki/GOOD_LUCK_MY_WAY "wikilink")」などの疾走感のある楽曲や、「[DIVE TO BLUE](../Page/DIVE_TO_BLUE.md "wikilink")」、「[Link](../Page/Link_\(L'Arc〜en〜Cielの曲\).md "wikilink")」といった多くの[ポップ・チューンを手掛けている](../Page/ポップ・ミュージック.md "wikilink")。バンドのプロデューサーを務める[岡野ハジメ](../Page/岡野ハジメ.md "wikilink")は、こうした明るい楽曲を「テツポップ\[17\]」と表現しており、「ある程度成功していったバンドは、とかくマニアックな方面にズブズブと行ってしまう場合が多いんですけど、特にtetsuyaの曲とかはポップチューンをきちんと抑えている\[18\]」と評している。
 
-2005年12月には、[MORRIE](../Page/MORRIE.md "wikilink")（DEAD END）のソロプロジェクト、[Creature Creatureのサポートとしてライブに参加している](https://ja.wikipedia.org/wiki/Creature_Creature "wikilink")。翌年リリースされたアルバム『[Light & Lust](https://ja.wikipedia.org/wiki/Light_&_Lust_\(アルバム\) "wikilink")』のレコーディングにベーシストとして参加する他、シングル「[風の塔](../Page/風の塔.md "wikilink")」「[パラダイス](https://ja.wikipedia.org/wiki/パラダイス_\(Creature_Creatureの曲\) "wikilink")」の作曲を担当した。
+2005年12月には、[MORRIE](../Page/MORRIE.md "wikilink")（DEAD END）のソロプロジェクト、[Creature Creatureのサポートとしてライヴに参加している](https://ja.wikipedia.org/wiki/Creature_Creature "wikilink")。翌年リリースされたアルバム『[Light & Lust](https://ja.wikipedia.org/wiki/Light_&_Lust_\(アルバム\) "wikilink")』のレコーディングにベーシストとして参加する他、シングル「[風の塔](../Page/風の塔.md "wikilink")」「[パラダイス](https://ja.wikipedia.org/wiki/パラダイス_\(Creature_Creatureの曲\) "wikilink")」の作曲を担当した。
 
 音楽活動以外では、[ルコックスポルティフ](../Page/ルコックスポルティフ.md "wikilink")や[ディーワンミラノとのコラボレーショングッズを手掛けている](https://ja.wikipedia.org/wiki/:en:D1_Milano "wikilink")。また、[2019年](../Page/2019年.md "wikilink")からファッションブランド「STEALTH STELL'A」のクリエイティブディレクターを務めており、ソロ並びにバンドのコンサートにおいてコラボレーショングッズを販売している。
 
@@ -37,11 +37,11 @@ L'Arc〜en〜Cielではベーシストであり、メインコンポーザーの
 
 ## TETSU69
 
-**TETSU69**（テツシックスティーナイン）は、2001年から2006年までtetsuyaが用いていた[ソロ](https://ja.wikipedia.org/wiki/ソロ "wikilink")活動時の名義。「[69](../Page/69.md "wikilink")」とは自身の生まれた年である「1969年」を意味するほか、「[ロック](../Page/ロック_\(音楽\).md "wikilink")」などの多くの意味を含んでいる。2006年からはL'Arc〜en〜Cielと同じく、**tetsu**の名義を用いてソロ活動を行っていた。また、2009年12月の改名に伴い大文字表記の**TETSUYA**で現在までソロでの活動を行っている\[18\]。
+**TETSU69**（テツシックスティーナイン）は、2001年から2006年までtetsuyaが用いていた[ソロ](../Page/ソロ.md "wikilink")活動時の名義。「[69](../Page/69.md "wikilink")」とは自身の生まれた年である「1969年」を意味するほか、「[ロック](../Page/ロック_\(音楽\).md "wikilink")」などの多くの意味を含んでいる。2006年からはL'Arc〜en〜Cielと同じく、**tetsu**の名義を用いてソロ活動を行っていた。また、2009年12月の改名に伴い大文字表記の**TETSUYA**で現在までソロでの活動を行っている\[19\]。
 
 このソロプロジェクトでは自身がメイン[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")を務め、レコーディングにおいては[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[ギター](../Page/ギター.md "wikilink")も担当している。2001年の活動開始以後、L'Arc〜en〜Cielの活動と並行して活動しており、現在までにシングル11作（EP盤1作）とアルバム2作をリリースしている。
 
-ライヴは、バックバンド**The Juicy-Bananas**（ジューシー・バナナズ）による6人編成のバンドスタイルを基本としながら\[19\]、ディナーショーやアコースティックライヴでは編成を変えて行っている\[20\]。また、TETSU69の頃はバックバンドを**MAGNETS**（マグネッツ）と呼んでおり\[21\]、様々なミュージシャンが流動的に参加していた。
+ライヴは、バックバンド**The Juicy-Bananas**（ジューシー・バナナズ）による6人編成のバンドスタイルを基本としながら\[20\]、ディナーショーやアコースティックライヴでは編成を変えて行っている\[21\]。また、TETSU69の頃はバックバンドを**MAGNETS**（マグネッツ）と呼んでおり\[22\]、様々なミュージシャンが流動的に参加していた。
 
 レコーディングは、[K.A.Z](../Page/K.A.Z_\(ギタリスト\).md "wikilink")（[Oblivion Dust](https://ja.wikipedia.org/wiki/Oblivion_Dust "wikilink")）、[亀田誠治](../Page/亀田誠治.md "wikilink")（ex.[東京事変](../Page/東京事変.md "wikilink")）、[ホッピー神山](../Page/ホッピー神山.md "wikilink")（ex.[PINK](../Page/PINK_\(バンド\).md "wikilink")）、[tasuku](https://ja.wikipedia.org/wiki/tasuku "wikilink")といった多くのアレンジャーとの共同アレンジを行っていたが、2005年以降は[室姫深](https://ja.wikipedia.org/wiki/室姫深 "wikilink")（ex.[THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")、ex.[DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")）とほとんどの楽曲を共同アレンジしている。また、2002年以後の全シングルのカップリングには、前作の表題曲のリミックスバージョンが収録されており、これまでに下記ミュージシャンがリミックスを担当している。
 
@@ -61,11 +61,11 @@ L'Arc〜en〜Cielではベーシストであり、メインコンポーザーの
 
 ### SPROUSE（スプラウズ）
 
-2001年にTETSU69主宰で[Ki/oon Records内に立ち上げられたレーベル](../Page/キューンミュージック.md "wikilink")。レーベル名は、英語で「新芽」「突如として現れる」「急に伸びる」を意味する『sprout』と、「目覚める」「奮起する」を意味する『rouse』を組み合わせた造語\[22\]。2002年にレーベルごと[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")内のDREAM MACHINEに移ったが、2003年にレーベルを解散した。自身は2007年にKi/oon Recordsに再度移籍していた。
+2001年にTETSU69主宰で[Ki/oon Records内に立ち上げられたレーベル](../Page/キューンミュージック.md "wikilink")。レーベル名は、英語で「新芽」「突如として現れる」「急に伸びる」を意味する『sprout』と、「目覚める」「奮起する」を意味する『rouse』を組み合わせた造語\[23\]。2002年にレーベルごと[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")内のDREAM MACHINEに移ったが、2003年にレーベルを解散した。自身は2007年にKi/oon Recordsに再度移籍していた。
 
-2015年9月24日の[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")朝刊にて、[ブラザー工業](https://ja.wikipedia.org/wiki/ブラザー工業 "wikilink")と[エクシング](../Page/エクシング.md "wikilink")（[JOYSOUND](../Page/JOYSOUND.md "wikilink")）とタッグを組みレーベルを再始動することを発表した。しかし、2016年3月29日に「互いの理念の違いを埋められなかった」という理由から、協力体制を解消することとなった\[23\]。これによりシングル「[Make a Wish](https://ja.wikipedia.org/wiki/Make_a_Wish "wikilink")」、「[Time goes on 〜泡のように〜](https://ja.wikipedia.org/wiki/Time_goes_on_〜泡のように〜 "wikilink")」のテイチクエンタテインメントからのリリースを中止することを決定した。
+2015年9月24日の[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")朝刊にて、[ブラザー工業](https://ja.wikipedia.org/wiki/ブラザー工業 "wikilink")と[エクシング](../Page/エクシング.md "wikilink")（[JOYSOUND](../Page/JOYSOUND.md "wikilink")）とタッグを組みレーベルを再始動することを発表した。しかし、2016年3月29日に「互いの理念の違いを埋められなかった」という理由から、協力体制を解消することとなった\[24\]。これによりシングル「[Make a Wish](https://ja.wikipedia.org/wiki/Make_a_Wish "wikilink")」、「[Time goes on 〜泡のように〜](https://ja.wikipedia.org/wiki/Time_goes_on_〜泡のように〜 "wikilink")」のテイチクエンタテインメントからのリリースを中止することを決定した。
 
-2016年6月には、[ユニバーサルミュージック内のEMI](../Page/ユニバーサルミュージック_\(日本\).md "wikilink") Recordsと契約したことを発表\[24\]。発売中止となっていたシングル2作を同時リリースすることが発表された。
+2016年6月には、[ユニバーサルミュージック内のEMI](../Page/ユニバーサルミュージック_\(日本\).md "wikilink") Recordsと契約したことを発表\[25\]。発売中止となっていたシングル2作を同時リリースすることが発表された。
 
 ## サポートミュージシャン
 
@@ -83,31 +83,31 @@ L'Arc〜en〜Cielではベーシストであり、メインコンポーザーの
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/室姫深" title="wikilink">室姫深</a></strong>（ムロヒメ シン）<br />
 <small>（ex.<a href="../Page/THE_MAD_CAPSULE_MARKETS.md" title="wikilink">THE MAD CAPSULE MARKETS</a>、ex.<a href="../Page/DIE_IN_CRIES.md" title="wikilink">DIE IN CRIES</a>、BLOODY IMITATION SOCIETY、<a href="../Page/BUG_(バンド).md" title="wikilink">BUG</a>、<a href="https://ja.wikipedia.org/wiki/Creature_Creature" title="wikilink">Creature Creature</a>）</small></p></td>
-<td><p><a href="../Page/ギター.md" title="wikilink">ギター</a>[25]</p></td>
+<td><p><a href="../Page/ギター.md" title="wikilink">ギター</a>[26]</p></td>
 <td><p>2005年〜</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>中村佳嗣</strong>（ナカムラ ヨシツグ）<br />
 <small>（<a href="../Page/Eins:Vier.md" title="wikilink">Eins:Vier</a>）</small></p></td>
-<td><p>ギター[26]</p></td>
+<td><p>ギター[27]</p></td>
 <td><p>2003年〜</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/Ikuo.md" title="wikilink">IKUO</a></strong>（イクオ）<br />
 <small>（<a href="https://ja.wikipedia.org/wiki/Lapis_Lazuli_(バンド)" title="wikilink">Lapis Lazuli</a>、<a href="https://ja.wikipedia.org/wiki/Cube-ray" title="wikilink">Cube-ray</a>、<a href="../Page/BULL_ZEICHEN_88.md" title="wikilink">BULL ZEICHEN 88</a>、<a href="https://ja.wikipedia.org/wiki/Rayflower" title="wikilink">Rayflower</a>、<a href="../Page/T.M.Revolution.md" title="wikilink">T.M.Revolution</a>サポート・<a href="https://ja.wikipedia.org/wiki/abingdon_boys_school" title="wikilink">abingdon boys schoolサポート</a>）</small></p></td>
-<td><p><a href="../Page/ベース_(弦楽器).md" title="wikilink">ベース</a>[27]</p></td>
+<td><p><a href="../Page/ベース_(弦楽器).md" title="wikilink">ベース</a>[28]</p></td>
 <td><p>2003年〜</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/山崎慶" title="wikilink">山崎慶</a></strong>（ヤマザキ ケイ）<br />
 <small>（<a href="https://ja.wikipedia.org/wiki/Venomstrip" title="wikilink">Venomstrip</a>、<a href="https://ja.wikipedia.org/wiki/DEAD_END" title="wikilink">DEAD ENDサポート</a>）</small></p></td>
-<td><p><a href="../Page/ドラムセット.md" title="wikilink">ドラム</a>[28]</p></td>
+<td><p><a href="../Page/ドラムセット.md" title="wikilink">ドラム</a>[29]</p></td>
 <td><p>2010年〜</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/岸利至.md" title="wikilink">岸利至</a></strong>（キシ トシユキ）<br />
 <small>（<a href="https://ja.wikipedia.org/wiki/abingdon_boys_school" title="wikilink">abingdon boys school</a>、<a href="../Page/T.M.Revolution.md" title="wikilink">T.M.Revolution</a>サポート）</small></p></td>
-<td><p><a href="../Page/キーボード_(楽器).md" title="wikilink">キーボード</a>[29]</p></td>
+<td><p><a href="../Page/キーボード_(楽器).md" title="wikilink">キーボード</a>[30]</p></td>
 <td><p>2003年〜</p></td>
 </tr>
 </tbody>
@@ -213,7 +213,7 @@ L'Arc〜en〜Cielではベーシストであり、メインコンポーザーの
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/LEVIN" title="wikilink">LEVIN</a></strong>（レビン）<br />
 <small>（<a href="../Page/La&#39;cryma_Christi.md" title="wikilink">La'cryma Christi</a>、<a href="https://ja.wikipedia.org/wiki/THE_HUSKY" title="wikilink">THE HUSKY</a>）</small></p></td>
-<td><p>シングル表題曲「LOOKING FOR LIGHT」のテレビ演奏のみに参加[30]</p></td>
+<td><p>シングル表題曲「LOOKING FOR LIGHT」のテレビ演奏のみに参加[31]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/山木秀夫.md" title="wikilink">山木秀夫</a></strong>（ヤマキ ヒデオ）<br />
@@ -347,25 +347,25 @@ L'Arc〜en〜Cielではベーシストであり、メインコンポーザーの
 
 **2014年**
 
-  - 10月3日、ライヴ「TETSUYA LIVE 2014 "THANK YOU"」を赤坂BLITZで開催\[31\]。
+  - 10月3日、ライヴ「TETSUYA LIVE 2014 "THANK YOU"」を赤坂BLITZで開催\[32\]。
 
 **2015年**
 
-  - 6月20日、初となるオフィシャルファンクラブ「CÉLUXE」（セリュックス）発足\[32\]。
-  - 7月23日、FC発足記念ライヴ「CÉLUXE NIGHT」開催\[33\]。同公演にてイヤホンプラグ型ガジェット『PlugAir』を無料配布。未音源化楽曲「THANK YOU」のデモ音源を配信\[34\]。また、L'Arc〜en〜Cielの元メンバーであるhiroとperoと共演し「I'm in Pain」「DUNE」の2曲を披露。
-  - 7月24日、ファンミーティング「CELUXE BRANCH MEETING」を[ホテルニューオータニ大阪](../Page/ホテルニューオータニ大阪.md "wikilink")て開催\[35\]。
-  - 9月24日、主宰レーベルSPROUSEを再始動することを発表\[36\]。
-  - 10月4日、ライヴ「TETSUYA LIVE 2015 "THANK YOU"」をZepp DiverCity TOKYOで開催\[37\]。
-  - 12月23日、ディナーショー「TETSUYA Christmas Dinner Show 2015」を[グランドプリンスホテル新高輪](../Page/グランドプリンスホテル新高輪.md "wikilink")で開催\[38\]。
+  - 6月20日、初となるオフィシャルファンクラブ「CÉLUXE」（セリュックス）発足\[33\]。
+  - 7月23日、FC発足記念ライヴ「CÉLUXE NIGHT」開催\[34\]。同公演にてイヤホンプラグ型ガジェット『PlugAir』を無料配布。未音源化楽曲「THANK YOU」のデモ音源を配信\[35\]。また、L'Arc〜en〜Cielの元メンバーであるhiroとperoと共演し「I'm in Pain」「DUNE」の2曲を披露。
+  - 7月24日、ファンミーティング「CELUXE BRANCH MEETING」を[ホテルニューオータニ大阪](../Page/ホテルニューオータニ大阪.md "wikilink")て開催\[36\]。
+  - 9月24日、主宰レーベルSPROUSEを再始動することを発表\[37\]。
+  - 10月4日、ライヴ「TETSUYA LIVE 2015 "THANK YOU"」をZepp DiverCity TOKYOで開催\[38\]。
+  - 12月23日、ディナーショー「TETSUYA Christmas Dinner Show 2015」を[グランドプリンスホテル新高輪](../Page/グランドプリンスホテル新高輪.md "wikilink")で開催\[39\]。
   - 12月29日、ライブイベント「rockin'on presents COUNTDOWN JAPAN 15/16 supported by Windows 10」に出演。
 
 **2016年**
 
-  - 3月29日、主宰レーベルSPROUSEにおいて、ブラザー、エクシング（[ジョイサウンド](https://ja.wikipedia.org/wiki/ジョイサウンド "wikilink")）とテイチクエンタテインメントの協力体制を解消\[39\]。
+  - 3月29日、主宰レーベルSPROUSEにおいて、ブラザー、エクシング（[ジョイサウンド](https://ja.wikipedia.org/wiki/ジョイサウンド "wikilink")）とテイチクエンタテインメントの協力体制を解消\[40\]。
   - 4月15日、FC限定ライブ「CÉLUXE NIGHT VOL.1.5」をBillboard Live Tokyoで開催。
   - 4月29日、FC限定ライブ「CÉLUXE NIGHT VOL.2」をEBISU The Garden Hallで開催。
   - 6月22日 - 6月26日、「TETSUYA POP☆SECRET VOL.2」開催。
-  - 6月9日、[ユニバーサルミュージックとレコード契約を発表](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")\[40\]。
+  - 6月9日、[ユニバーサルミュージックとレコード契約を発表](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")\[41\]。
   - 7月23日、ファンミーティング「CELUXE BRANCH MEETING VOL.2」を箱根オーベルジュオーミラドーて開催。
   - 9月7日、ユニバーサルミュージックの社内レーベル、[EMI Records Japanより](https://ja.wikipedia.org/wiki/EMI_Records_Japan "wikilink")、9thシングル「[Make a Wish](https://ja.wikipedia.org/wiki/Make_a_Wish "wikilink")」、10thシングル「[Time goes on 〜泡のように〜](https://ja.wikipedia.org/wiki/Time_goes_on_〜泡のように〜 "wikilink")」の2作同時発売。
   - 10月1日 - 10月10日、[よみうりランド](../Page/よみうりランド.md "wikilink")とのコラボレーションイベント「TETSUYA 15th Anniversary 「MUKIMPO LAND」」を開催。
@@ -395,7 +395,8 @@ L'Arc〜en〜Cielではベーシストであり、メインコンポーザーの
 
 **2020年**
 
-  - 7月19日、配信ライヴ「TETSUYA "LIVE 2020 SPRING"」を開催予定。当初同年3月1日に[横浜ベイホール](https://ja.wikipedia.org/wiki/横浜ベイホール "wikilink")にて開催される予定だったが、[新型コロナウイルス感染症の拡大に絡み](../Page/2019新型コロナウイルス.md "wikilink")、2月26日に公演延期が発表された。しかし、同年5月29日に前述の感染症の収束の見通しが立っていない状況を受け、振替公演の中止を発表。代替として、公演予定日に合わせ配信ライヴを実施することがアナウンスされた。 また、ツアータイトルは当初のまま変更せず、「季節の"春"を意味する"SPRING"」から「"[ばね](../Page/ばね.md "wikilink")"を意味する"SPRING"」に意味が変更され、ツアーロゴやグッズもそれに合わせ制作される予定。
+  - 7月19日、配信ライヴ「TETSUYA "LIVE STREAMING 2020"」を開催予定。当初同年3月1日に[横浜ベイホール](https://ja.wikipedia.org/wiki/横浜ベイホール "wikilink")にて「TETSUYA "LIVE 2020 SPRING"」と題しライブを開催する予定だったが、[新型コロナウイルス感染症の拡大に絡み](../Page/2019新型コロナウイルス.md "wikilink")、2月26日に公演延期が発表された。しかし、同年5月29日に前述の感染症の収束の見通しが立っていない状況を受け、振替公演の中止を発表。代替として、公演予定日に合わせ配信ライヴを実施することがアナウンスされた。
+  - 8月19日、映像作品『[TETSUYA LIVE 2019 THANK YOU 4950](../Page/TETSUYA_LIVE_2019_THANK_YOU_4950.md "wikilink")』発売。
 
 ## 作品
 
@@ -530,8 +531,7 @@ UPCH-80436</p></td>
 <td><center>
 <p>24位</p>
 </center></td>
-<td><center>
-</center></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>10th</p></td>
@@ -654,31 +654,31 @@ UPCH-89381</p></td>
 <tr class="odd">
 <td><p><strong><a href="../Page/LOVE_for_NANA_〜Only_1_Tribute〜.md" title="wikilink">REVERSE</a></strong></p></td>
 <td><p>2005年3月16日発売のトリビュートアルバム『<a href="../Page/LOVE_for_NANA_〜Only_1_Tribute〜.md" title="wikilink">LOVE for NANA 〜Only 1 Tribute〜</a>』に収録。<br />
-本楽曲のレコーディングには<a href="../Page/L&#39;Arc〜en〜Ciel.md" title="wikilink">L'Arc〜en〜Ciel</a>の元ドラマー<a href="../Page/Sakura_(ドラマー).md" title="wikilink">Sakuraが参加している</a>[41]。<br />
+本楽曲のレコーディングには<a href="../Page/L&#39;Arc〜en〜Ciel.md" title="wikilink">L'Arc〜en〜Ciel</a>の元ドラマー<a href="../Page/Sakura_(ドラマー).md" title="wikilink">Sakuraが参加している</a>[42]。<br />
 5thシングル「Can't stop believing」のカップリングに本楽曲のリミックスバージョン「REVERSE DISCO TWINS REMIX」が収録されている。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/COME_ON!_(TETSUYAのアルバム)" title="wikilink">流れ星［配信限定Rhythmless Ver.］</a></strong></p></td>
 <td><p>2011年1月5日発売の2ndアルバム『<a href="https://ja.wikipedia.org/wiki/COME_ON!_(TETSUYAのアルバム)" title="wikilink">COME ON!</a>』収録曲「流れ星」のリアレンジバージョン。<br />
-2011年2月2日に配信限定でリリースされた[42]。<br />
+2011年2月2日に配信限定でリリースされた[43]。<br />
 同日にアルバム全収録曲のインストゥルメンタル・バージョンが配信されている。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>THANK YOU</strong></p></td>
 <td><p>未音源化楽曲。<br />
-2012年10月2日・3日に開催されたライヴ「TETSUYA LIVE 2012 "THANK YOU"」で初披露された楽曲[43]。<br />
-2015年7月23日に開催されたFC発足記念ライヴ「CÉLUXE NIGHT」で無料配布されたイヤホンプラグ型ガジェット『PlugAir』にデモ音源を配信[44]。</p></td>
+2012年10月2日・3日に開催されたライヴ「TETSUYA LIVE 2012 "THANK YOU"」で初披露された楽曲[44]。<br />
+2015年7月23日に開催されたFC発足記念ライヴ「CÉLUXE NIGHT」で無料配布されたイヤホンプラグ型ガジェット『PlugAir』にデモ音源を配信[45]。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>何があっても</strong></p></td>
 <td><p>未音源化楽曲。<br />
-2015年7月23日に開催されたFC発足記念ライブ「CÉLUXE NIGHT」で初披露された楽曲[45]。<br />
+2015年7月23日に開催されたFC発足記念ライブ「CÉLUXE NIGHT」で初披露された楽曲[46]。<br />
 2017年8月25日・26日に<a href="../Page/昭和女子大学人見記念講堂.md" title="wikilink">昭和女子大学人見記念講堂</a>で開催されたライヴ「TETSUYA 15th ANNIVERSARY LIVE」においても披露され、本公演の模様を収録したライヴビデオ『<a href="https://ja.wikipedia.org/wiki/15th_ANNIVERSARY_LIVE" title="wikilink">15th ANNIVERSARY LIVE</a>』に本楽曲のライヴ映像が初収録された。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>白いチューリップ</strong></p></td>
 <td><p>未音源化楽曲。<br />
-2019年10月2日・3日に開催されたライブ「TETSUYA LIVE 2019 "THANK YOU" 4950」で初披露された楽曲[46]。</p></td>
+2019年10月2日・3日に開催されたライブ「TETSUYA LIVE 2019 "THANK YOU" 4950」で初披露された楽曲[47]。</p></td>
 </tr>
 </tbody>
 </table>
@@ -722,12 +722,21 @@ UPBH-20190/1</p></td>
 <tr class="even">
 <td><p>4th</p></td>
 <td><p>2018年4月25日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/15th_ANNIVERSARY_LIVE" title="wikilink">15th ANNIVERSARY LIVE</a></strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/15th_ANNIVERSARY_LIVE_(TETSUYAの映像作品)" title="wikilink">15th ANNIVERSARY LIVE</a></strong></p></td>
 <td><p><a href="../Page/Blu-ray_Disc.md" title="wikilink">Blu-ray</a><br />
 DVD</p></td>
 <td><p>PDXN-1004<br />
 UPXH-20063<br />
 UPBH-20205</p></td>
+</tr>
+<tr class="odd">
+<td><p>5th</p></td>
+<td><p>2020年8月19日</p></td>
+<td><p><strong><a href="../Page/TETSUYA_LIVE_2019_THANK_YOU_4950.md" title="wikilink">TETSUYA LIVE 2019 THANK YOU 4950</a></strong></p></td>
+<td><p><a href="../Page/Blu-ray_Disc.md" title="wikilink">Blu-ray</a><br />
+DVD</p></td>
+<td><p>XNLD-10065<br />
+XNLD-10066/67</p></td>
 </tr>
 </tbody>
 </table>
@@ -1018,15 +1027,26 @@ Zepp Nagoya<br />
 <p><a href="https://ja.wikipedia.org/wiki/舞浜アンフィシアター" title="wikilink">舞浜アンフィシアター</a></p></td>
 </tr>
 <tr class="even">
-<td><p>2020年7月19日</p></td>
-<td><p>単発配信ライヴ</p></td>
+<td><p>2020年7月19日（中止）</p></td>
+<td><p>単発ライヴ</p></td>
 <td><p>TETSUYA "LIVE 2020 SPRING"</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
 <p>全1公演</p>
 </div>
 <div class="NavContent" style="text-align:center;">
-<p><a href="https://ja.wikipedia.org/wiki/横浜ベイホール" title="wikilink">横浜ベイホール</a></p></td>
+<p><a href="https://ja.wikipedia.org/wiki/横浜ベイホール" title="wikilink">横浜ベイホール</a>（中止）</p></td>
+</tr>
+<tr class="odd">
+<td><p>2020年7月19日</p></td>
+<td><p>単発配信ライヴ</p></td>
+<td><p>TETSUYA "LIVE STREAMING 2020"</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全1公演</p>
+</div>
+<div class="NavContent" style="text-align:center;">
+<p>―</p></td>
 </tr>
 </tbody>
 </table>
@@ -1358,11 +1378,11 @@ tae</p></td>
 
 ## ベーシストとして
 
-ベースのフレージングは、[対旋律やハーモニーを多用したフレーズを前に出した独特なもので](../Page/対位法.md "wikilink")、「歌うベース」などと評価されることもある。また、本人は過去のインタビューで、歌メロとの絡みを意識している旨を語っている。また、「初期の頃は[ザ・キュアー](../Page/ザ・キュアー.md "wikilink")の影響を受けていたと思うんですよ\[47\]」「ザ・キュアーは当時、これはギターだろと思っていたフレーズが実は6弦ベースの高音だったりして、その影響は大きいんじゃないですかね\[48\]」とも述べている。
+ベースのフレージングは、[対旋律やハーモニーを多用したフレーズを前に出した独特なもので](../Page/対位法.md "wikilink")、『歌うベース』などと評価されることもある。本人は過去のインタビューで、歌メロとの絡みを意識している旨を語っている。また、自身のプレイに[ザ・キュアー](../Page/ザ・キュアー.md "wikilink")の影響が大きくあるといい、「L'Arc〜en〜Cielの＜ギターがアルペジオを弾いてベースが動く＞という作りはキュアーの影響を受けていると思います、特に初期は\[48\]」「キュアーは当時、"これはギターだろ"と思っていたフレーズが実は6弦ベースの高音だったりして、その影響は大きいんじゃないですかね\[49\]」と述べている。バンドのプロデューサーでベーシストである[岡野ハジメ](../Page/岡野ハジメ.md "wikilink")は「"メロディラインを支えつつ低域のメロディを歌いまくる"という彼のベース・スタイルが、その後のベーシストに与えた影響は計り知れないと思います\[50\]」と述べている。
 
-演奏する際は、ピック奏法が主である。また、ピック奏法でもほとんどの楽曲をオルタネイトピッキングではなく、ダウンピッキングで弾き切っており、特にBPMが174の「[自由への招待](../Page/自由への招待.md "wikilink")」も全てダウンピッキングであることが[ミュージックビデオ](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")でも確認出来る。その他、「[叙情詩](../Page/叙情詩_\(曲\).md "wikilink")」、「[winter fall](https://ja.wikipedia.org/wiki/winter_fall "wikilink")」等の楽曲ではフィンガー・ピッキングを用いている。
+演奏する際は、ピック奏法が主である。また、ピック奏法でもほとんどの楽曲をオルタネイトピッキングではなく、ダウンピッキングで弾き切っており、BPMが174ある「[自由への招待](../Page/自由への招待.md "wikilink")」も全てダウンピッキングであることが[ミュージックビデオ](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")でも確認出来る。「[叙情詩](../Page/叙情詩_\(曲\).md "wikilink")」や「[winter fall](https://ja.wikipedia.org/wiki/winter_fall "wikilink")」などの楽曲では[フィンガー・ピッキング](../Page/フィンガー・ピッキング.md "wikilink")、「[THE NEPENTHES](../Page/REAL_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")」や「[twinkle, twinkle](../Page/AWAKE_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")」では1曲全編を[スラップで演奏している](../Page/スラップ奏法.md "wikilink")。他にも、「[NEO UNIVERSE](https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale "wikilink")」では曲中全体を通して[6弦ベース](../Page/6弦ベース.md "wikilink")をオブリ的に弾いていたり、「[Time goes on](../Page/SMILE_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")」ではギターソロも弾いている。
 
-「多弦ベースの元の4弦の音が好きじゃない」という理由で、レコーディングではデビュー以来、主に4弦ベースを使用していたが、2006年の[Creature Creatureへの参加を機に](https://ja.wikipedia.org/wiki/Creature_Creature "wikilink")、5弦ベースをメインに使用するようになり、ライヴでは過去の曲も5弦ベースを使用している。楽曲によっては6弦ベースやフレットレス、ライヴでの「[TRUST](../Page/AWAKE_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")」ではギターとベースのダブルネック、「Perfect Blue」では6弦の亜種と言えるバリトン・ギターを用い、「[NEO UNIVERSE](https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale "wikilink")」では曲中全体を通して6弦ベースをオブリ的に弾いていたり、「[THE NEPENTHES](../Page/REAL_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")」や「[twinkle, twinkle](../Page/AWAKE_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")」では1曲全編をスラップで演奏したり、「[Time goes on](../Page/SMILE_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")」ではギターソロも弾いている。
+「多弦ベースの元の4弦の音が好きじゃない」という理由で、レコーディングではデビュー以来、主に4弦ベースを使用していたが、2006年に[Creature Creatureへベーシストとして参加したことを機に](https://ja.wikipedia.org/wiki/Creature_Creature "wikilink")、5弦ベースをメインに使用するようになり、ライヴでは過去の曲も5弦ベースを使用している。楽曲によっては6弦ベースや[フレットレスベース](../Page/フレットレスベース.md "wikilink")を使用している。他にも、「[TRUST](../Page/AWAKE_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")」をライヴで披露する際はギターとベースのダブルネック、「自由への招待」のサビの裏メロや「[Perfect Blue](https://ja.wikipedia.org/wiki/ark_\(アルバム\) "wikilink")」では6弦の亜種と言える[バリトン・ギター](https://ja.wikipedia.org/wiki/フェンダー・ベースVI "wikilink")、「[未来世界](https://ja.wikipedia.org/wiki/BUTTERFLY_\(L'Arc〜en〜Cielのアルバム\) "wikilink")」では[アップライト・ベースを用いている](../Page/エレクトリック・アップライト・ベース.md "wikilink")。
 
 ライヴにおけるベースプレイについて、本人は「常に80点90点をキープし続けるのが僕の理想です。あんまりロックンローラーじゃないですよ（笑）。きっちり仕事をこなす職人タイプですね」と発言している。
 
@@ -1376,7 +1396,9 @@ tae</p></td>
 
 ちなみにBardic、BUZZ BASS、BUGSY（本人所有のみ）、Bandit（4弦、6弦共に）、BASS IV（本人所有のみ）、ELT-I、百式、JUGGLER BASS、FLYING Y、Thunderbird Typeに採用されている「ESP」の筆記体ロゴは、[メタリカ](https://ja.wikipedia.org/wiki/メタリカ "wikilink")のギタリストである[カーク・ハメット](../Page/カーク・ハメット.md "wikilink")とtetsuyaしか使えない特別なロゴである。
 
-2011年10月、以前からレコーディングでメインとして使用してきたベースメーカーであるZONとエンドースメント契約を結ぶ\[49\]。テレビ出演の際はESP、ステージにおいてはESP、LAKLAND、ZONを曲によって使い分けている。また、2015年6月にはアメリカのハイエンド弦メーカーDR Strings日本総代理店とエンドースメント契約を結んでいる。
+2011年10月、以前からレコーディングでメインとして使用してきたベースメーカーであるZONとエンドースメント契約を結ぶ\[51\]。また、2015年6月にはアメリカのハイエンド弦メーカーDR Strings日本総代理店とエンドースメント契約を結んでいる。
+
+ESP、LAKLAND、ZONの3社とエンドースメント契約を結んでいるため、テレビ出演の際はESP、ステージにおいてはESP、LAKLAND、ZONを曲によって使い分けている。[ミュージックビデオ](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")では、自身がコレクションしているギターやベースを使用することが多い。「[finale](https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale "wikilink")」や「[蜃気楼](../Page/蜃気楼_\(TETSU69の曲\).md "wikilink")」では透明なアクリルネックのベースのBORN TO ROCK F4b 1993、「[叙情詩](../Page/叙情詩_\(曲\).md "wikilink")」では[ヘフナー社の](../Page/カール・ヘフナー.md "wikilink")[ヴァイオリンベース](../Page/ヴァイオリンベース.md "wikilink")[Hofner G500/1](../Page/ヘフナー・500-1.md "wikilink")、「[15 1/2 フィフティーンハーフ](https://ja.wikipedia.org/wiki/15_1/2_フィフティーンハーフ "wikilink")」などでは[グレッチ](../Page/グレッチ.md "wikilink")ギターのシルバージェット、「[LOOKING FOR LIGHT](https://ja.wikipedia.org/wiki/LOOKING_FOR_LIGHT "wikilink")」や「[I WANNA BE WITH YOU](https://ja.wikipedia.org/wiki/I_WANNA_BE_WITH_YOU "wikilink")」では[エドワード・ヴァン・ヘイレン](../Page/エドワード・ヴァン・ヘイレン.md "wikilink")が使用していたギターであるフランケンシュタインを使用している。
 
 <table>
 <thead>
@@ -1505,6 +1527,8 @@ tae</p></td>
 <li>GRETSCH White Falcon #6137</li>
 <li>NUMBER (N)INE Mickey Mouse Guitar</li>
 <li>GMW Randy Rhoads Polka Dot V</li>
+<li>David Thomas McNaught Guitars V5</li>
+<li>EVH Frankenstein Replica Masterbuilt by Fender Custom Shop Edward Van Halen</li>
 </ul>
 </div>
 </div></td>
@@ -1594,27 +1618,31 @@ tae</p></td>
 
 ### 趣味・嗜好
 
-  - [デペッシュ・モード](../Page/デペッシュ・モード.md "wikilink")\[50\]や[ザ・キュアー](../Page/ザ・キュアー.md "wikilink")\[51\]といったUKロックや、[リンキン・パーク](https://ja.wikipedia.org/wiki/リンキン・パーク "wikilink")\[52\]といったアメリカの[ハードロック](../Page/ハードロック.md "wikilink")を好きなジャンルとして挙げている。
-      - ハードロックを聴き始める前は、[ビリー・ジョエル](../Page/ビリー・ジョエル.md "wikilink")\[53\]、[デュラン・デュラン](../Page/デュラン・デュラン.md "wikilink")\[54\]、[カルチャー・クラブ](../Page/カルチャー・クラブ.md "wikilink")\[55\]をよく聴いていたと語っている。
-      - 他にも[ミューズ](../Page/ミューズ_\(バンド\).md "wikilink")\[56\]、[ガービッジ](../Page/ガービッジ.md "wikilink")\[57\]、[カーヴ](https://ja.wikipedia.org/wiki/カーヴ_\(バンド\) "wikilink")\[58\]、[メスト](../Page/メスト.md "wikilink")\[59\]、[ノー・ダウト](../Page/ノー・ダウト.md "wikilink")\[60\]、[リパブリカ](https://ja.wikipedia.org/wiki/:en:Republica "wikilink")\[61\]、[アタリス](https://ja.wikipedia.org/wiki/アタリス "wikilink")\[62\]などを聴いており、過去には自身が出演するラジオ番組\[63\]において自身が好む海外ミュージシャンの楽曲を紹介していた。
-      - 邦楽では[DEAD END](../Page/DEAD_END_\(バンド\).md "wikilink")、[KATZE](../Page/KATZE.md "wikilink")、[ラウドネス](../Page/LOUDNESS.md "wikilink")、[イエロー・マジック・オーケストラ](../Page/イエロー・マジック・オーケストラ.md "wikilink")、[一風堂をよく聴いていたと語っている](../Page/一風堂_\(バンド\).md "wikilink")\[64\]。
-  - [ギター](../Page/ギター.md "wikilink")や[ベースのコレクターとしても知られており](../Page/ベース_\(弦楽器\).md "wikilink")、そのコレクションはベースを中心に120本にものぼる。他にもアンプやエフェクター等の機材も多く収集しており、自身を機材好きであると語っている。
-  - [サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")ファンとしても知られている。[Jリーグでは](../Page/日本プロサッカーリーグ.md "wikilink")[浦和レッズのファンであり](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")、休日には[埼玉スタジアムで試合観戦などもしている](../Page/埼玉スタジアム2002.md "wikilink")\[65\]。また自分の衣装ケースやベースの[アンプにも浦和レッズのステッカーなどを貼っている](../Page/アンプ_\(楽器用\).md "wikilink")\[66\]。
-  - 自身を[ビル](https://ja.wikipedia.org/wiki/ビルディング "wikilink")[フェチ](../Page/フェチ.md "wikilink")だと語っており、音楽番組で「ビルを見るために[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")に行った」と告白している。ソロシングル「[Can't stop believing](../Page/Can't_stop_believing.md "wikilink")」の表裏両ジャケットにも、ビルが写っている。また、実際に訪れた[クライスラー・ビルディング](../Page/クライスラー・ビルディング.md "wikilink")や[マリーナベイ・サンズ](https://ja.wikipedia.org/wiki/マリーナベイ・サンズ "wikilink")がお気に入りだと語っている\[67\]。
-  - 家にも強い拘りがあり、不動産マニアを自認している。自身の所有する物件のみならず、L'Arc〜en〜Cielのメンバーや周囲の人間にも物件を勧めるほど。他にも、壁紙などのカタログを熟読したりペンキ塗装の講習会に出るなど、[内装](https://ja.wikipedia.org/wiki/内装 "wikilink")にも拘っている\[68\]。L'Arc〜en〜Cielの企画展開催を記念し、[観音崎京急ホテル](https://ja.wikipedia.org/wiki/観音崎京急ホテル "wikilink")の一室の内装をプロデュースしたこともある\[69\]。
-  - [インテリア](../Page/インテリア.md "wikilink")にも拘りがあり、ヴィンテージ家具を愛し収集している。特に1950年代のフランス作家の作品を好んでおり、好きなデザイナーとして[ジャン・プルーヴェ](../Page/ジャン・プルーヴェ.md "wikilink")、[シャルロット・ペリアン](../Page/シャルロット・ペリアン.md "wikilink")、他にもマシュー・マテゴ、[ピエール・ジャンヌレ](../Page/ピエール・ジャンヌレ.md "wikilink")など挙げている\[70\]。他にも現代アートも愛しており、[アンディ・ウォーホル](../Page/アンディ・ウォーホル.md "wikilink")、[ロイ・リキテンスタイン](../Page/ロイ・リキテンスタイン.md "wikilink")、[バスキア](../Page/バスキア.md "wikilink")、[バンクシー](../Page/バンクシー.md "wikilink")などの作品を収集している\[71\]。[2019年](../Page/2019年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")には[東京ドームシティ](../Page/東京ドームシティ.md "wikilink")で開催された「テーブルウェア・フェスティバル2019 ～暮らしを彩る器展～」に参加し、"宇宙"をテーマとしたテーブルセッティングが展示された。
-  - アニメ『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』に登場する[シャア・アズナブル](../Page/シャア・アズナブル.md "wikilink")が好きで、シャアの乗った機体のカラーリングにちなみ赤い機材ケースを使用していた。また、ゲーム『[激突トマラルク TOMARUNNER VS L'Arc〜en〜Ciel](https://ja.wikipedia.org/wiki/激突トマラルク "wikilink")』ではシャアの名台詞を喋っている。2000年には自身がプロデュースした[アクションフィギュア](../Page/アクションフィギュア.md "wikilink")「[MOBILE SUIT IN ACTION\!\! tetsu TOYS](../Page/MOBILE_SUIT_IN_ACTION!!.md "wikilink")」（ガンダム、シャア専用ザク、量産型ザクの3種）が発売されている。
-      - また、L'Arc〜en〜Cielの元ドラマーsakuraの逮捕に伴う活動休止の期間中、家に籠ってアニメ『[新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")』をよく見ていたと述べている\[72\]。「（当時の）僕の気持ちと"シンクロ"したから\[73\]」と同アニメに嵌った理由を語っており、「"逃げちゃダメだ、逃げちゃダメだ"っていう[シンジ君のセリフを自分で言ってましたね](../Page/碇シンジ.md "wikilink")\[74\]」と述懐している。
-  - 普通二輪免許を取得しているが、所属事務所の規定で禁止されていることもあり、プライベートではほとんど乗ったことがないという。
+  - [デペッシュ・モード](../Page/デペッシュ・モード.md "wikilink")\[52\]や[ザ・キュアー](../Page/ザ・キュアー.md "wikilink")\[53\]といったUKロックや、[リンキン・パーク](https://ja.wikipedia.org/wiki/リンキン・パーク "wikilink")\[54\]といったアメリカの[ハードロック](../Page/ハードロック.md "wikilink")を好きなジャンルとして挙げている。
+      - ハードロックを聴き始める前は、[ビリー・ジョエル](../Page/ビリー・ジョエル.md "wikilink")\[55\]、[デュラン・デュラン](../Page/デュラン・デュラン.md "wikilink")\[56\]、[カルチャー・クラブ](../Page/カルチャー・クラブ.md "wikilink")\[57\]をよく聴いていたと語っている。
+      - 他にも[ミューズ](../Page/ミューズ_\(バンド\).md "wikilink")\[58\]、[ガービッジ](../Page/ガービッジ.md "wikilink")\[59\]、[カーヴ](https://ja.wikipedia.org/wiki/カーヴ_\(バンド\) "wikilink")\[60\]、[メスト](../Page/メスト.md "wikilink")\[61\]、[ノー・ダウト](../Page/ノー・ダウト.md "wikilink")\[62\]、[リパブリカ](https://ja.wikipedia.org/wiki/:en:Republica "wikilink")\[63\]、[アタリス](https://ja.wikipedia.org/wiki/アタリス "wikilink")\[64\]などを聴いており、過去には自身が出演するラジオ番組『[FLYING〜L'Arc〜ATTACK](../Page/FLYING〜L'Arc〜ATTACK.md "wikilink")』内のコーナー「Wonderful Selection\!」において自身が好む海外ミュージシャンの楽曲を紹介していた。
+      - 邦楽では[DEAD END](../Page/DEAD_END_\(バンド\).md "wikilink")、[KATZE](../Page/KATZE.md "wikilink")、[ラウドネス](../Page/LOUDNESS.md "wikilink")、[イエロー・マジック・オーケストラ](../Page/イエロー・マジック・オーケストラ.md "wikilink")、[一風堂をよく聴いていたと語っている](../Page/一風堂_\(バンド\).md "wikilink")\[65\]。
+  - 歌うことが好きで、L'Arc〜en〜Cielのレコーディングでもhydeの歌録りが終わった後、自分の歌声のバージョンを録音していたといい、「レコーディングの時間が余ったりするとラルクの曲を歌ったりしてたんですよ。個人的にその音源が欲しくて（笑）\[66\]」と述べている。L'Arc〜en〜Cielの共同プロデューサーの[岡野ハジメ](../Page/岡野ハジメ.md "wikilink")は「tetsuyaはベースを弾いてる時よりも他の楽器を演奏しているときのほうがイキイキしてる。あと歌いたがり。すごい歌うのが好きで、自分の歌の仮歌を録るときとかは凄くワクワク、イキイキしてる\[67\]」と述べている。
+      - 「[NEO UNIVERSE](https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale "wikilink")」や「[STAY AWAY](../Page/STAY_AWAY.md "wikilink")」の[コーラスワークなどから判るように](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、声の音域はかなり高い。4thアルバム『[True](https://ja.wikipedia.org/wiki/True "wikilink")』に収録されている「[Dearest Love](https://ja.wikipedia.org/wiki/True_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink")」では、高音の[ファルセット](../Page/ファルセット.md "wikilink")コーラスを聴くことが出来る（最高音はhihiA）。L'Arc〜en〜Cielのレコーディングでtetsuyaのコーラスが使い始められたのは、[1996年](../Page/1996年.md "wikilink")発売のシングル「[風にきえないで](../Page/風にきえないで.md "wikilink")」以降で、それ以前は、[CD](../Page/コンパクトディスク.md "wikilink")[音源](../Page/音源.md "wikilink")のコーラスはhydeが担当していた。
+      - 歌うことに反しベースを弾いているときは、岡野ハジメ曰く「ある種真面目タイプというか、"いい加減に弾いてはダメなはずである"と思っている\[68\]」「良いベーシストだと思うんだけど、"ちゃちゃいっと弾いて出来てるはずがない"と思い込んでるんですよね。だから、"なんでそんなに自信無いの、上手いじゃない"っていつも励まさなきゃいけない（笑）\[69\]」という。tetsuya自身も「自分ではあまりベーシストだとは思ってないっていうか...まだまだ未熟者なんで、もっと練習して上手くなりたいなって思ってます\[70\]」と述べている。
+  - [ギター](../Page/ギター.md "wikilink")や[ベースのコレクターとしても知られており](../Page/ベース_\(弦楽器\).md "wikilink")、そのコレクションはベースを中心に120本にものぼる。他にもアンプやエフェクター等の機材も多く収集しており、自身を機材好きであると語っている。このコレクションは、[2020年](../Page/2020年.md "wikilink")に「TETSUYA MUSEUM」と題し展覧会を開いた際に披露された他\[71\]、[ミュージックビデオ](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")の撮影の際に時折用いられることがある。
+      - バンドがブレイクした1998年頃から、ネットオークションや、[ミュージックビデオ](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")の撮影などで海外に訪れた際に、機材を購入することが多くなり、徐々にコレクションが増え始めたという。tetsuyaは「毎週1本以上買ってました。この時期は忙しくて、ほとんど休みもなく買い物にも出られなかったんで、ストレス発散的な感じです\[72\]」と述べている。
+      - ミュージシャン本人が実際に使用していた機材も多々輸入しており、[ニッキー・シックス](../Page/ニッキー・シックス.md "wikilink")が使っていたBASSON製のキャビネットや、[ニール・ショーン](https://ja.wikipedia.org/wiki/ニール・ショーン "wikilink")のギターなどを保有している\[73\]。ちなみに、歌番組に出演する際は、機材の持ち運びを少なくするため、ライブで使用している[トリコロール](https://ja.wikipedia.org/wiki/トリコロール "wikilink")の3台のBASSONスピーカーでなく前述のキャビネットを使用することが多い。
+  - 物件や[インテリア](../Page/インテリア.md "wikilink")に強い拘りがあり、不動産マニアを自認している。自身の所有する物件のみならず、L'Arc〜en〜Cielのメンバーや周囲の人間にも物件を勧めていたことがあるほど。他にも、壁紙などのカタログを熟読したりペンキ塗装の講習会に出るなど、[内装](https://ja.wikipedia.org/wiki/内装 "wikilink")にも拘っている\[74\]。2012年にはL'Arc〜en〜Cielの企画展開催を記念し、[観音崎京急ホテル](https://ja.wikipedia.org/wiki/観音崎京急ホテル "wikilink")の一室の内装をtetsuyaがプロデュースしたこともある\[75\]。[2019年](../Page/2019年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")には[東京ドームシティ](../Page/東京ドームシティ.md "wikilink")で開催された「テーブルウェア・フェスティバル2019 ～暮らしを彩る器展～」に参加し、"宇宙"をテーマとしたテーブルセッティングが展示された。
+      - 自身を[ビル](https://ja.wikipedia.org/wiki/ビルディング "wikilink")[フェチ](../Page/フェチ.md "wikilink")だと語っており、音楽番組で「ビルを見るために[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")に行った」と告白している。ソロシングル「[Can't stop believing](../Page/Can't_stop_believing.md "wikilink")」の表裏両ジャケットにも、ビルが写っている。また、実際に訪れた[クライスラー・ビルディング](../Page/クライスラー・ビルディング.md "wikilink")や[マリーナベイ・サンズ](https://ja.wikipedia.org/wiki/マリーナベイ・サンズ "wikilink")がお気に入りだと語っている\[76\]。
+      - インテリアではヴィンテージ家具を愛し収集している。特に1950年代のフランス作家の作品を好んでおり、好きなデザイナーとして[ジャン・プルーヴェ](../Page/ジャン・プルーヴェ.md "wikilink")、[シャルロット・ペリアン](../Page/シャルロット・ペリアン.md "wikilink")、他にもマシュー・マテゴ、[ピエール・ジャンヌレ](../Page/ピエール・ジャンヌレ.md "wikilink")など挙げている\[77\]。他にも現代アートも愛しており、[アンディ・ウォーホル](../Page/アンディ・ウォーホル.md "wikilink")、[ロイ・リキテンスタイン](../Page/ロイ・リキテンスタイン.md "wikilink")、[バスキア](../Page/バスキア.md "wikilink")、[バンクシー](../Page/バンクシー.md "wikilink")などの作品を収集している\[78\]。
+  - [サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")ファンとしても知られている。[Jリーグでは](../Page/日本プロサッカーリーグ.md "wikilink")[浦和レッズのファンであり](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")、休日には[埼玉スタジアムで試合観戦などもしている](../Page/埼玉スタジアム2002.md "wikilink")\[79\]。また自分の衣装ケースやベースの[アンプにも浦和レッズのステッカーなどを貼っている](../Page/アンプ_\(楽器用\).md "wikilink")\[80\]。
+  - アニメ『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』に登場する[シャア・アズナブル](../Page/シャア・アズナブル.md "wikilink")が好きで、シャアの乗った機体のカラーリングにちなみ赤い機材ケースを使用していた時期があった。また、ゲーム『[激突トマラルク TOMARUNNER VS L'Arc〜en〜Ciel](https://ja.wikipedia.org/wiki/激突トマラルク "wikilink")』内ではシャアの名台詞を喋っている。2000年には自身がプロデュースした[アクションフィギュア](../Page/アクションフィギュア.md "wikilink")「[MOBILE SUIT IN ACTION\!\! tetsu TOYS](../Page/MOBILE_SUIT_IN_ACTION!!.md "wikilink")」（ガンダム、シャア専用ザク、量産型ザクの3種）が発売されている。
+      - また、L'Arc〜en〜Cielの元ドラマーsakuraの逮捕に伴う活動休止の期間中、家に籠ってアニメ『[新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")』をよく見ていたと述べている\[81\]。「（当時の）僕の気持ちと"シンクロ"したから\[82\]」と同アニメに嵌った理由を語っており、「"逃げちゃダメだ、逃げちゃダメだ"っていう[シンジ君のセリフを自分で言ってましたね](../Page/碇シンジ.md "wikilink")\[83\]」と述懐している。
   - 非喫煙者（2019年現在、L'Arc〜en〜Cielのメンバーで喫煙者はkenのみ）。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に発売された写真集で、他のメンバーは[葉巻](https://ja.wikipedia.org/wiki/葉巻 "wikilink")や[パイプを持っているのに対し](../Page/パイプ_\(たばこ\).md "wikilink")、tetsuyaだけ[ピストル](../Page/ピストル.md "wikilink")を持って写っている。
 
 ### エピソード
 
-  - 中学時代は帰宅部だった。理由は所謂、体育会系のノリ（年功序列、汗かいた時に水を飲んではダメ等）が嫌だったため。逆に、昔に比べると緩くなった現在のような状態の方が好きだと語っている\[75\]。そのため当時は家に帰り、夕方のドラマの[再放送](../Page/再放送.md "wikilink")をよく見ていたと述べている。
-  - 事務所に所属する前のアマチュアの頃は、自宅のワンルームに電話回線を別に引き[私書箱](../Page/私書箱.md "wikilink")を借り、「L'Arc〜en〜Ciel コンタクト」という名でバンドのマネジメントを自身の手で行っていた\[76\]。tetsuya本人がスタッフのふりをして電話応対し、ライブのブッキング等を行っていた\[77\]。後に所属することとなるデンジャークルー（現：[マーヴェリック・ディー・シー・グループ](../Page/マーヴェリック・ディー・シー・グループ.md "wikilink")）とのやり取りもtetsuya自身が行っており、事務所代表の大石征裕は「その頃から"バンドを自分たちで運営する"という体制作りのことをちゃんと考えていたのだと思う\[78\]」と述べている。また、[ブランディング](https://ja.wikipedia.org/wiki/ブランディング "wikilink")の観点から、自作したライブのチラシやフライヤーをバンドのメンバーが直接配布することは避けていたという\[79\]。
-  - 「[NEO UNIVERSE](https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale "wikilink")」や「[STAY AWAY](../Page/STAY_AWAY.md "wikilink")」の[コーラスワークなどから判るように](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、音域はかなり高い。4thアルバム『[True](https://ja.wikipedia.org/wiki/True "wikilink")』に収録されている「[Dearest Love](https://ja.wikipedia.org/wiki/True_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink")」では、高音の[ファルセット](../Page/ファルセット.md "wikilink")コーラスを聴くことが出来る（最高音はhihiA）。L'Arc〜en〜Cielのレコーディングでtetsuyaのコーラスが使い始められたのは、[1996年](../Page/1996年.md "wikilink")発売のシングル「[風にきえないで](../Page/風にきえないで.md "wikilink")」以降で、それ以前は、[CD](../Page/コンパクトディスク.md "wikilink")[音源](../Page/音源.md "wikilink")のコーラスはhydeが担当していた。
+  - 中学時代は帰宅部だった。理由は所謂、体育会系のノリ（年功序列、汗かいた時に水を飲んではダメ等）が嫌だったため。逆に、昔に比べると緩くなった現在のような状態の方が好きだと語っている\[84\]。そのため当時は家に帰り、夕方のドラマの[再放送](../Page/再放送.md "wikilink")をよく見ていたと述べている。
+  - 事務所に所属する前のアマチュアの頃は、自宅のワンルームに電話回線を別に引き[私書箱](../Page/私書箱.md "wikilink")を借り、「L'Arc〜en〜Ciel コンタクト」という名でバンドのマネジメントを自身の手で行っていた\[85\]。tetsuya本人がスタッフのふりをして電話応対し、ライブのブッキング等を行っていた\[86\]。後に所属することとなるデンジャークルー（現：[マーヴェリック・ディー・シー・グループ](../Page/マーヴェリック・ディー・シー・グループ.md "wikilink")）とのやり取りもtetsuya自身が行っており、事務所代表の大石征裕は「その頃から"バンドを自分たちで運営する"という体制作りのことをちゃんと考えていたのだと思う\[87\]」と述べている。また、[ブランディング](https://ja.wikipedia.org/wiki/ブランディング "wikilink")の観点から、自作したライブのチラシやフライヤーをバンドのメンバーが直接配布することは避けていたという\[88\]。
   - L'Arc〜en〜Cielの[ライヴ](https://ja.wikipedia.org/wiki/ライヴ "wikilink")のMCでは「俺のバナナが食べたいかー\!」と言って[バナナ](https://ja.wikipedia.org/wiki/バナナ "wikilink")を客席に投げるパフォーマンスが恒例になっている。投げられるバナナには、tetsuya考案のオリジナルキャラクター「MUKIMPO（読み：ムキンポ）」の[ステッカーが貼られており](../Page/シール.md "wikilink")、キャラクターグッズもライブグッズとして販売されている。バナナ以外では[マンゴー](../Page/マンゴー.md "wikilink")、[ズッキーニ](../Page/ズッキーニ.md "wikilink")、[茄子](../Page/ナス.md "wikilink")、[ニンジン](../Page/ニンジン.md "wikilink")、[エリンギ](../Page/エリンギ.md "wikilink")、時には[スイカ](https://ja.wikipedia.org/wiki/スイカ "wikilink")型の[ビーチボール](https://ja.wikipedia.org/wiki/ビーチボール "wikilink")を投げたこともある。
-  - 漫画家の[矢沢あい](../Page/矢沢あい.md "wikilink")と親交があり、『[LOVE for NANA 〜Only 1 Tribute〜](../Page/LOVE_for_NANA_〜Only_1_Tribute〜.md "wikilink")』への参加の他に、漫画『[NANA](../Page/NANA.md "wikilink")』にも名前だけではあるが登場する。また、シングル「[lonely girl](https://ja.wikipedia.org/wiki/lonely_girl_\(TETSUYAの曲\) "wikilink")」では矢沢が作詞を担当している。
+  - 漫画家の[矢沢あい](../Page/矢沢あい.md "wikilink")と親交があり、『[LOVE for NANA 〜Only 1 Tribute〜](../Page/LOVE_for_NANA_〜Only_1_Tribute〜.md "wikilink")』への参加の他に、漫画『[NANA](../Page/NANA.md "wikilink")』にも名前だけではあるが登場する。また、ソロシングル「[lonely girl](https://ja.wikipedia.org/wiki/lonely_girl_\(TETSUYAの曲\) "wikilink")」では矢沢が作詞を担当している。
+  - 普通二輪免許を取得しているが、所属事務所の規定で禁止されていることもあり、プライベートではほとんど乗ったことがないという。
   - 私生活では2007年末に[酒井彩名](../Page/酒井彩名.md "wikilink")と結婚。酒井との間には2014年に長男、2016年に長女が誕生している。また、2歳ずつ年の離れた妹が2人いる。
 
 ## 参考文献
@@ -1645,41 +1673,39 @@ tae</p></td>
 
   -
   -
-  - [TETSUYA Official YouTube Channel（UNIVERSAL MUSIC JAPAN）](https://www.youtube.com/channel/UCVxQ5KMi8t1gxTIsezag3DA) - 2019年開設
+  -
+  - （2019年開設）
 
-  - [TETSUYA Official YouTube Channel（Sony Music）](https://www.youtube.com/user/tetsuyaSMEJ) - 2012年開設\[80\]
+  - （2012年開設\[89\]）
 
-  - [TETSUYA Official VEVO Channel](https://www.youtube.com/user/TetsuyaVEVO)
-
-  - [TETSUYA Official Facebook](https://www.facebook.com/TETSUYA.UK.OFFICIAL)
-
+  -
+  -
   - [TETSUYA 公式ブログ Powered by LINE](https://lineblog.me/tetsuya/)
 
   -
+  -
+  -
+<!-- end list -->
+
   - [GRAVIS](http://gravist.com/)
-
-  - [L'Arc〜en〜Ciel Official Web Site](https://www.larc-en-ciel.com/)
-
-  - [L'Arc〜en〜Ciel/LArcom.net](https://www.larcom.net/)
-
+  - [STEALTH STELL'A](https://stealthstella.com/)
+  - [L'Arc-en-Ciel Official Web Site](https://www.larc-en-ciel.com/)
+  - [L'Arc-en-Ciel/LArcom.net](https://www.larcom.net/)
   - [Electric Sound Products](https://espguitars.co.jp/)
-
   - [LAKLAND](https://www.lakland.com/)
-
   - [ZON Guitars](http://www.zonguitars.com/)
-
-  - [DR Strings](http://www.kikutani.co.jp/DR/)
+  - [DR Strings](https://www.kikutani.co.jp/DR/)
 
 ## 脚注
 
 [Category:L'Arc〜en〜Cielのメンバー](https://ja.wikipedia.org/wiki/Category:L'Arc〜en〜Cielのメンバー "wikilink") [Category:日本のベーシスト](https://ja.wikipedia.org/wiki/Category:日本のベーシスト "wikilink") [Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:日本の男性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ロック歌手 "wikilink") [Category:日本のロック・ギタリスト](https://ja.wikipedia.org/wiki/Category:日本のロック・ギタリスト "wikilink") [Category:日本のオルタナティヴ・ロック・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・ミュージシャン "wikilink") [Category:日本のロック・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のロック・ミュージシャン "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:日本の作詞家](https://ja.wikipedia.org/wiki/Category:日本の作詞家 "wikilink") [Category:日本の作曲家](https://ja.wikipedia.org/wiki/Category:日本の作曲家 "wikilink") [Category:滋賀県出身の人物](https://ja.wikipedia.org/wiki/Category:滋賀県出身の人物 "wikilink") [Category:1969年生](https://ja.wikipedia.org/wiki/Category:1969年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
-1.  リットーミュージック社『BASS MAGAZINE SPECIAL FEATURE SERIES/tetsuya L'Arc〜en〜Ciel』」2010年
-2.
-3.  リットーミュージック社『BASS MAGAZINE SPECIAL FEATURE SERIES/tetsuya L'Arc〜en〜Ciel』」2010年
+1.  リットーミュージック社『BASS MAGAZINE SPECIAL FEATURE SERIES/tetsuya L'Arc〜en〜Ciel』」、p.8、2010年
+2.  リットーミュージック社『BASS MAGAZINE SPECIAL FEATURE SERIES/tetsuya L'Arc〜en〜Ciel』」、p.10、2010年
+3.
 4.  [ニコニコチャンネル](https://ja.wikipedia.org/wiki/ニコニコチャンネル "wikilink")『てっちゃんねる』【TETSUYA SATURDAY KING RADIO】[2019年](../Page/2019年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink")放送
 5.
-6.
+6.  リットーミュージック社『BASS MAGAZINE SPECIAL FEATURE SERIES/tetsuya L'Arc〜en〜Ciel』」、p.11、2010年
 7.
 8.
 9.
@@ -1691,66 +1717,75 @@ tae</p></td>
 15. [「イナズマロックフェス」にTETSUYA、植村花菜出演](http://natalie.mu/music/news/35191) - ナタリー
 16. [T.M.Revolution西川貴教、故郷・滋賀への恩返し＜イナズマロック フェス 2012＞過去最多の2日間で3万5000人動員](http://www.barks.jp/news/?id=1000083227) - BARKS
 17. 『ray 15th Anniversary Expanded Edition』特典DVD、2006年
-18. [ラルク アン シエルのtetsuがtetsuyaに改名](http://www.oricon.co.jp/news/71201/full/) - オリコン
-19. [【ライヴレポート】TETSUYA、バンド編成の夜に「もうすぐ１周年です、ありがとう」](https://www.barks.jp/news/?id=1000126740) - BARKS
-20. [TETSUYA、Xmasディナーショーで“ファンツアー”開催発表](https://www.barks.jp/news/?id=1000122743) - BARKS
-21. [TOKYO FM](../Page/エフエム東京.md "wikilink")「[LOWSON COUNTDOWN JAPAN](../Page/JA全農_COUNTDOWN_JAPAN.md "wikilink")」2001年7月14日
-22. [TETSUYA、「SPROUSE」レーベル再始動 プロデューサー活動予告も](http://www.oricon.co.jp/news/2059716/full/) - oricon
-23.
-24. [TETSUYAがユニバーサルミュージックへ移籍、東名阪ツアーも決定](http://natalie.mu/music/news/190235) - ナタリー
-25. [TETSUYAバースデーツアー東京公演で「これからも共に歳をとりましょう」](http://natalie.mu/music/news/204634) - ナタリー
-26.
+18.
+19. [ラルク アン シエルのtetsuがtetsuyaに改名](http://www.oricon.co.jp/news/71201/full/) - オリコン
+20. [【ライヴレポート】TETSUYA、バンド編成の夜に「もうすぐ１周年です、ありがとう」](https://www.barks.jp/news/?id=1000126740) - BARKS
+21. [TETSUYA、Xmasディナーショーで“ファンツアー”開催発表](https://www.barks.jp/news/?id=1000122743) - BARKS
+22. [TOKYO FM](../Page/エフエム東京.md "wikilink")「[LOWSON COUNTDOWN JAPAN](../Page/JA全農_COUNTDOWN_JAPAN.md "wikilink")」2001年7月14日
+23. [TETSUYA、「SPROUSE」レーベル再始動 プロデューサー活動予告も](http://www.oricon.co.jp/news/2059716/full/) - oricon
+24.
+25. [TETSUYAがユニバーサルミュージックへ移籍、東名阪ツアーも決定](http://natalie.mu/music/news/190235) - ナタリー
+26. [TETSUYAバースデーツアー東京公演で「これからも共に歳をとりましょう」](http://natalie.mu/music/news/204634) - ナタリー
 27.
 28.
 29.
-30. [NHK総合テレビ音楽番組](../Page/NHK総合テレビジョン.md "wikilink")『[MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")』2010年8月22日放送
-31. [TETSUYA、誕生日にBLITZで2年ぶりライブ](http://natalie.mu/music/news/122884) - ナタリー
-32. [TETSUYAファンクラブ始動、7月に大阪でライブ＆ファンミ](http://natalie.mu/music/news/147583) - ナタリー
-33.
-34. [TETSUYA(L’Arc\~en\~Ciel)史上初、FC限定ライヴで未発表デモ音源無料配布](https://www.barks.jp/news/?id=1000115883) - BARKS
-35.
-36. [TETSUYA、ジョイサウンドとタッグを組みレーベル再始動](http://www.musicman-net.com/artist/50206.html) - Musicman-NET
-37. [TETSUYAバースデーライブ「THANK YOU」今年はDiverCityで](http://natalie.mu/music/news/150518) - ナタリー
-38. [TETSUYA、FC発足ライブでラルク初期メンバーと共演](http://natalie.mu/music/news/154860) - ナタリー
-39.
-40. [TETSUYAがユニバーサルミュージックへ移籍、東名阪ツアーも決定](http://natalie.mu/music/news/190235)-ナタリー
-41. クレジットはDrum Sounds Adviced by Sakura
-42. [流れ星 ](http://recochoku.jp/song/S21016456/) - レコチョク
-43. [TETSUYA渋公バースデー「みんなにサンキューです！」](http://natalie.mu/music/news/77723) - ナタリー
-44.
-45. [TETSUYA「CÉLUXE NIGHT」で新曲を披露。初代ラルクメンバー、hiroとperoも登場し、特別な夜に](https://lineblog.me/official/archives/1036605114.html) - V.I.P Press
-46. [【レポート】TETSUYA (L'Arc-en-Ciel)、バースデーライヴ＜4950＞で「50になると思ってなかった」](https://www.barks.jp/news/?id=1000172601) - BARKS
-47.
-48.
-49. [ラルクtetsuya、米国楽器メーカーとエンドースメント契約](http://natalie.mu/music/news/58495) - ナタリー
-50. [良い曲を作るのにコツはない、TETSUYA　音楽への趣向とこだわり](http://www.musicvoice.jp/news/20160907046646/) MusicVoice
-51. ラジオ番組『[FLYING〜L'Arc〜ATTACK](../Page/FLYING〜L'Arc〜ATTACK.md "wikilink")』2001年10月31日放送分
-52.
-53.
-54.
+30.
+31. [NHK総合テレビ音楽番組](../Page/NHK総合テレビジョン.md "wikilink")『[MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")』2010年8月22日放送
+32. [TETSUYA、誕生日にBLITZで2年ぶりライブ](http://natalie.mu/music/news/122884) - ナタリー
+33. [TETSUYAファンクラブ始動、7月に大阪でライブ＆ファンミ](http://natalie.mu/music/news/147583) - ナタリー
+34.
+35. [TETSUYA(L’Arc\~en\~Ciel)史上初、FC限定ライヴで未発表デモ音源無料配布](https://www.barks.jp/news/?id=1000115883) - BARKS
+36.
+37. [TETSUYA、ジョイサウンドとタッグを組みレーベル再始動](http://www.musicman-net.com/artist/50206.html) - Musicman-NET
+38. [TETSUYAバースデーライブ「THANK YOU」今年はDiverCityで](http://natalie.mu/music/news/150518) - ナタリー
+39. [TETSUYA、FC発足ライブでラルク初期メンバーと共演](http://natalie.mu/music/news/154860) - ナタリー
+40.
+41. [TETSUYAがユニバーサルミュージックへ移籍、東名阪ツアーも決定](http://natalie.mu/music/news/190235)-ナタリー
+42. クレジットはDrum Sounds Adviced by Sakura
+43. [流れ星 ](http://recochoku.jp/song/S21016456/) - レコチョク
+44. [TETSUYA渋公バースデー「みんなにサンキューです！」](http://natalie.mu/music/news/77723) - ナタリー
+45.
+46. [TETSUYA「CÉLUXE NIGHT」で新曲を披露。初代ラルクメンバー、hiroとperoも登場し、特別な夜に](https://lineblog.me/official/archives/1036605114.html) - V.I.P Press
+47. [【レポート】TETSUYA (L'Arc-en-Ciel)、バースデーライヴ＜4950＞で「50になると思ってなかった」](https://www.barks.jp/news/?id=1000172601) - BARKS
+48. リットーミュージック社『BASS MAGAZINE SPECIAL FEATURE SERIES/tetsuya L'Arc〜en〜Ciel』」、p.16、2010年
+49.
+50. 『音楽プロデューサー 岡野ハジメ エンサイクロペディア CATHARSIS OF MUSIC』、p.152、シンコーミュージック・エンタテイメント、2019年
+51. [ラルクtetsuya、米国楽器メーカーとエンドースメント契約](http://natalie.mu/music/news/58495) - ナタリー
+52. [良い曲を作るのにコツはない、TETSUYA　音楽への趣向とこだわり](http://www.musicvoice.jp/news/20160907046646/) MusicVoice
+53. ラジオ番組『[FLYING〜L'Arc〜ATTACK](../Page/FLYING〜L'Arc〜ATTACK.md "wikilink")』2001年10月31日放送分
+54. リットーミュージック社『BASS MAGAZINE SPECIAL FEATURE SERIES/tetsuya L'Arc〜en〜Ciel』」、p.80-p.81、2010年
 55.
 56.
 57.
-58. ラジオ番組『FLYING〜L'Arc〜ATTACK』2002年3月5日放送分
-59. ラジオ番組『FLYING〜L'Arc〜ATTACK』2002年2月20日放送分
-60.
-61.
+58.
+59.
+60. ラジオ番組『FLYING〜L'Arc〜ATTACK』2002年3月5日放送分
+61. ラジオ番組『FLYING〜L'Arc〜ATTACK』2002年2月20日放送分
 62.
-63. 『FLYING〜L'Arc〜ATTACK』内のコーナー「Wonderful Selection！」
-64. [TETSUYA 【CÉLUXE NIGHT】インタビュー](http://www.billboard-japan.com/special/detail/1533) BillboardJAPAN
-65. [TETSUYA公式ブログ2015年6月30日](http://lineblog.me/tetsuya/archives/1032839092.html)
-66. [TETSUYA公式ブログ2015年9月22日](http://lineblog.me/tetsuya/archives/1040776905.html)
-67. [建築物マニアのラルクTETSUYAが選ぶ、世界の近代建築11選](http://rollingstonejapan.com/articles/detail/26575/1/1/1) RollingStone
-68. フジテレビ系番組『[アウト×デラックス](https://ja.wikipedia.org/wiki/アウト×デラックス "wikilink")』2018年8月2日放送分
-69. [人気バンド「ラルク展」、京急が記念乗車券－ホテル宿泊プランも](https://yokosuka.keizai.biz/headline/808/) 横須賀経済新聞
-70. [L'Arc～en～Ciel・TETSUYAの知られざる素顔「黒ずくめの服が好きじゃない」](http://www.jprime.jp/articles/-/8230?page=2) 週間女性PRIME
-71. 日本テレビ系番組『[行列のできる法律相談所](../Page/行列のできる法律相談所.md "wikilink")』2019年3月3日放送分
-72.
-73.
-74.
-75. [NHK総合](https://ja.wikipedia.org/wiki/NHK総合 "wikilink")『[POP JAM](https://ja.wikipedia.org/wiki/POP_JAM "wikilink")』2005年5月20日放送回より
-76.
-77.
-78. 『大石征裕 自伝 夢の船』、p.76-p.77、シンコーミュージック・エンタテイメント、2020年
-79. [L'Arc〜en〜Ciel バンド結成20年の歴史を振り返るメンバー4人ソロインタビュー](http://natalie.mu/music/pp/larcenciel/page/8) ナタリー
-80. [TETSUYA DVD発売を記念して、You Tube Official Channnel開設！](https://news.utamap.com/music/123632/)
+63.
+64.
+65. [TETSUYA 【CÉLUXE NIGHT】インタビュー](http://www.billboard-japan.com/special/detail/1533) BillboardJAPAN
+66. リットーミュージック社『BASS MAGAZINE SPECIAL FEATURE SERIES/tetsuya L'Arc〜en〜Ciel』」、p.21、2010年
+67. 『ark 15th Anniversary Expanded Edition』特典DVD、2006年
+68.
+69.
+70.
+71. [ESP MUSEUM「tetsuya Museum MMXX」開催](https://espguitars.co.jp/museum/1381/) - ESP
+72. リットーミュージック社『BASS MAGAZINE SPECIAL FEATURE SERIES/tetsuya L'Arc〜en〜Ciel』」、p.18、2010年
+73. [ニコニコチャンネル](https://ja.wikipedia.org/wiki/ニコニコチャンネル "wikilink")『てっちゃんねる』【TETSUYA SATURDAY KING RADIO】[2020年](../Page/2020年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")放送
+74. フジテレビ系番組『[アウト×デラックス](https://ja.wikipedia.org/wiki/アウト×デラックス "wikilink")』2018年8月2日放送分
+75. [人気バンド「ラルク展」、京急が記念乗車券－ホテル宿泊プランも](https://yokosuka.keizai.biz/headline/808/) 横須賀経済新聞
+76. [建築物マニアのラルクTETSUYAが選ぶ、世界の近代建築11選](http://rollingstonejapan.com/articles/detail/26575/1/1/1) RollingStone
+77. [L'Arc～en～Ciel・TETSUYAの知られざる素顔「黒ずくめの服が好きじゃない」](http://www.jprime.jp/articles/-/8230?page=2) 週間女性PRIME
+78. 日本テレビ系番組『[行列のできる法律相談所](../Page/行列のできる法律相談所.md "wikilink")』2019年3月3日放送分
+79. [TETSUYA公式ブログ2015年6月30日](http://lineblog.me/tetsuya/archives/1032839092.html)
+80. [TETSUYA公式ブログ2015年9月22日](http://lineblog.me/tetsuya/archives/1040776905.html)
+81. リットーミュージック社『BASS MAGAZINE SPECIAL FEATURE SERIES/tetsuya L'Arc〜en〜Ciel』」、p.17、2010年
+82.
+83.
+84. [NHK総合](https://ja.wikipedia.org/wiki/NHK総合 "wikilink")『[POP JAM](https://ja.wikipedia.org/wiki/POP_JAM "wikilink")』2005年5月20日放送回より
+85.
+86.
+87. 『大石征裕 自伝 夢の船』、p.76-p.77、シンコーミュージック・エンタテイメント、2020年
+88. [L'Arc〜en〜Ciel バンド結成20年の歴史を振り返るメンバー4人ソロインタビュー](http://natalie.mu/music/pp/larcenciel/page/8) ナタリー
+89. [TETSUYA DVD発売を記念して、You Tube Official Channnel開設！](https://news.utamap.com/music/123632/)

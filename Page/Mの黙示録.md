@@ -18,7 +18,8 @@
 
 ## 外部リンク
 
-  - [Mの黙示録](http://www.tv-asahi.co.jp/mokushiroku/)
-  - [富澤一誠 音楽評論](http://web.archive.org/web/20030423143108/http://www.japanesedream.net/issei/index.html)（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")保存データ）
+  -
+
+  - [富澤一誠 音楽評論](https://web.archive.org/web/20030423143108/http://www.japanesedream.net/issei/index.html)（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")保存データ）
 
 [Category:2000年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のテレビ番組_\(日本\) "wikilink") [Category:テレビ朝日の音楽番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の音楽番組 "wikilink") [Category:テレビ朝日の深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜番組の歴史 "wikilink") [Category:テレビ朝日のローカル番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日のローカル番組 "wikilink")

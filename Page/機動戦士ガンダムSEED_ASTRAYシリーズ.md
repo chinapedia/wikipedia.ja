@@ -299,6 +299,18 @@
 3.  ISBN 978-4041071458
 4.  ISBN 978-4041078907
 
+## ゲーム
+
+  - [SDガンダム GGENERATIONシリーズ](../Page/SDガンダム_GGENERATION.md "wikilink")
+      - SDガンダム GGENERATION SEED（2004年2月19日、[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")） - 無印
+      - SDガンダム GGENERATION WORLD（2011年2月24日、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink") / [Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")） - 無印・『X』
+      - SDガンダム GGENERATION OVER WORLD（2012年9月27日、PlayStation Portable） - 無印・『X』
+      - SDガンダム GGENERATION CROSSRAYS（2019年11月28日、[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink") / [Nintendo Switch](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")） - 無印・『R』・『B』・『X』・『DESTINY』・『Δ』・『FRAME』・『VS』・『DESTINY R』・『DESTINY B』・『天空の皇女』
+  - [スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")
+      - [スーパーロボット大戦W](../Page/スーパーロボット大戦W.md "wikilink")（2007年3月1日、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")） - 無印・『X』
+      - [スパロボ学園](https://ja.wikipedia.org/wiki/スパロボ学園 "wikilink")（2009年8月27日、ニンテンドーDS） - 無印・『X』
+      - [スーパーロボット大戦X-Ω](https://ja.wikipedia.org/wiki/スーパーロボット大戦X-Ω "wikilink")（2017年7月9日、[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink") / [Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")） - 無印 / 2017年7月期間限定、2019年2月より恒常参戦
+
 ## 脚注
 
 <references/>

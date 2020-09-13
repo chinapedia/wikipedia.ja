@@ -98,7 +98,7 @@ FOMA2008年秋冬モデル（X-0XA）のうち、iWdgt([iウィジェット](htt
 
 ドコモにより無料で提供されているDoJa[エミュレータ](../Page/エミュレータ.md "wikilink")を使用して[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")上で開発し、携帯電話にダウンロードさせて実行するという[クロスプラットフォーム](../Page/クロスプラットフォーム.md "wikilink")での開発形態である。DoJaエミュレータは Forte (Sun ONE Studio)などとの連動機能や、[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")を使用し、[Eclipseとの連携を行うことができる](../Page/Eclipse_\(統合開発環境\).md "wikilink")。
 
-## 参照
+## 脚注
 
 <references />
 

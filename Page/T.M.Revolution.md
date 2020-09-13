@@ -47,7 +47,7 @@
       - 6月24日、8thシングル「HOT LIMIT」をリリース。2作目のオリコンシングルチャート1位を獲得。
       - 10月7日、9thシングル「THUNDERBIRD」をリリース。
       - 10月28日、10thシングル「Burnin' X'mas」をリリース。
-      - 12月31日、「THUNDERBIRD」で[紅白歌合戦に](../Page/第49回NHK紅白歌合戦.md "wikilink")2年連続で出場した。
+      - 12月31日、「THUNDERBIRD」で[NHK紅白歌合戦に](../Page/第49回NHK紅白歌合戦.md "wikilink")2年連続で出場した。
   - [1999年](../Page/1999年.md "wikilink")
       - 2月3日、11thシングル「WILD RUSH」をリリース。
       - 3月10日、4thアルバム『THE FORCE』をリリース。
@@ -1169,7 +1169,9 @@ TVアニメ「機動戦士ガンダムSEED DESTINY」挿入歌</p></td>
   - [T.M.Revolution デビュー15周年特設サイト](http://www.tmr15.com/)
 
   -
-[Category:T.M.Revolution](https://ja.wikipedia.org/wiki/Category:T.M.Revolution "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink")
+  - （スタッフアカウント）
+
+[Category:T.M.Revolution](https://ja.wikipedia.org/wiki/Category:T.M.Revolution "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink")
 
 1.  [T.M.Revolution、15周年記念イベントに5千人が集結](http://rn.oricon.co.jp/news/rankingnews/87694/full/)（[オリコン](../Page/オリコン.md "wikilink")、2011年5月14日）
 2.

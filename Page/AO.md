@@ -41,6 +41,6 @@
 
   - Ao - 日本のバンド・[androp](https://ja.wikipedia.org/wiki/androp "wikilink")の楽曲。→[Joker (andropの曲)](https://ja.wikipedia.org/wiki/Joker_\(andropの曲\) "wikilink")
 
-  - AO - [ABO式血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")の[遺伝子型](../Page/遺伝子型.md "wikilink")の1つ。
+  - AO - [ABO式血液型](../Page/ABO式血液型.md "wikilink")の[遺伝子型](../Page/遺伝子型.md "wikilink")の1つ。
 
   - [エウレカセブンAO](https://ja.wikipedia.org/wiki/エウレカセブンAO "wikilink") - 日本のテレビアニメ。

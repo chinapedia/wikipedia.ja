@@ -43,7 +43,7 @@ Bugzillaを利用するにあたって必要なソフトウェアは、以下の
 
 ## 外部リンク
 
-  - [bugzilla.org](https://www.bugzilla.org/)
+  -
 
   -
 

@@ -1,7 +1,7 @@
 > この記事は[イブニングネットワーク \(NHK総合\)](https://ja.wikipedia.org/wiki/イブニングネットワーク_\(NHK総合\))から翻訳されています。
 
 
-『**イブニングネットワーク**』は、[1988年](../Page/1988年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[NHK総合テレビで放送されたローカル](../Page/NHK総合テレビジョン.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。裏番組であったＣＸ系「ＦＮＮスーパータイム」のＮＨＫ総合テレビ版とも考えられている。
+『**イブニングネットワーク**』は、[1988年](../Page/1988年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[NHK総合テレビで放送されたローカル](../Page/NHK総合テレビジョン.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。
 
 ## 概要
 
@@ -115,163 +115,167 @@ BS2でも[1989年](../Page/1989年.md "wikilink")[6月2日](../Page/6月2日.md 
 <td><p>イブニングネットワーク北見</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/NHK函館放送局.md" title="wikilink">函館</a></p></td>
+<td><p>イブニングネットワーク函館</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/NHK青森放送局.md" title="wikilink">青森</a></p></td>
 <td><p>イブニングネットワークあおもり<br />
 あおもり630</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/NHK秋田放送局.md" title="wikilink">秋田</a></p></td>
 <td><p>イブニングネットワークあきた<br />
 あきたTODAY</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/NHK盛岡放送局.md" title="wikilink">盛岡</a></p></td>
 <td><p>イブニングネットワークいわて</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/NHK山形放送局.md" title="wikilink">山形</a></p></td>
 <td><p>イブニングネットワークやまがた</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/NHK仙台放送局.md" title="wikilink">仙台</a></p></td>
 <td><p>イブニングネットワークみやぎ</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/NHK福島放送局.md" title="wikilink">福島</a></p></td>
 <td><p>イブニングネットワーク福島</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/NHK放送センター#放送総局_首都圏放送センター" title="wikilink">首都圏</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イブニングネットワーク首都圏" title="wikilink">イブニングネットワーク首都圏</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/NHK新潟放送局.md" title="wikilink">新潟</a></p></td>
 <td><p>1988年4月 - 1995年3月：イブニングネットワークにいがた<br />
 1995年4月 - 1997年3月：にいがたニュース街道</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/NHK長野放送局.md" title="wikilink">長野</a></p></td>
 <td><p>イブニングネットワーク信州</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/NHK甲府放送局.md" title="wikilink">甲府</a></p></td>
 <td><p>イブニングネットワークやまなし<br />
 ニュースセンターやまなし630</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/NHK静岡放送局.md" title="wikilink">静岡</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イブニングネットワークしずおか" title="wikilink">イブニングネットワークしずおか</a><br />
 ニュースいちばん静岡</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/NHK名古屋放送局.md" title="wikilink">名古屋</a></p></td>
 <td><p>1988年4月 - 1991年7月：<a href="https://ja.wikipedia.org/wiki/イブニングネットワーク東海" title="wikilink">イブニングネットワーク東海</a><br />
 1991年8月 - 1998年3月：<a href="../Page/ニュースウェーブNHK東海.md" title="wikilink">ニュースウェーブNHK東海</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/NHK富山放送局.md" title="wikilink">富山</a></p></td>
 <td><p>イブニングネットワークとやま</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/NHK金沢放送局.md" title="wikilink">金沢</a></p></td>
 <td><p>イブニングネットワーク金沢<br />
 JKニュース1</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/NHK福井放送局.md" title="wikilink">福井</a></p></td>
 <td><p>イブニングネットワークふくい</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/NHK大阪放送局.md" title="wikilink">大阪</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イブニングネットワークきんき" title="wikilink">イブニングネットワークきんき</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/NHK和歌山放送局.md" title="wikilink">和歌山</a></p></td>
 <td><p>1991年5月:イブニングネットワークわかやま[1]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/NHK鳥取放送局.md" title="wikilink">鳥取</a></p></td>
 <td><p>イブニングネットワークとっとり<br />
 ニュースネットワークとっとり</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/NHK松江放送局.md" title="wikilink">松江</a></p></td>
 <td><p>イブニングネットワークしまね</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/NHK岡山放送局.md" title="wikilink">岡山</a></p></td>
 <td><p>1988年4月 - 1992年3月：イブニングネットワークおかやま<br />
-1992年4月 - フレッシュおかやま630<br />
-おかやまToday630</p></td>
+1992年4月 - 1995年3月：フレッシュおかやま630<br />
+1995年4月 - 1997年3月：おかやまToday630</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/NHK広島放送局.md" title="wikilink">広島</a></p></td>
 <td><p>1988年4月 - 1992年3月：イブニングネットワークひろしま<br />
 1992年4月 - 1997年3月：ニュースポートひろしま</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/NHK山口放送局.md" title="wikilink">山口</a></p></td>
 <td><p>イブニングネットワーク山口<br />
 ニュース図鑑やまぐち<br />
 イブニングネットワークやまぐち</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/NHK松山放送局.md" title="wikilink">松山</a></p></td>
 <td><p>イブニングネットワークえひめ<br />
 えひめイブニングニュース</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/NHK高松放送局" title="wikilink">高松</a></p></td>
 <td><p>1988年4月 - 1996年3月：イブニングネットワークかがわ<br />
 1996年4月 - <a href="../Page/630かがわ.md" title="wikilink">630かがわ</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/NHK徳島放送局.md" title="wikilink">徳島</a></p></td>
 <td><p>イブニングネットワークとくしま</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/NHK高知放送局.md" title="wikilink">高知</a></p></td>
 <td><p>1988年4月 - 1995年3月：イブニングネットワークこうち<br />
 1995年4月 -：ニュースタイムこうち</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/NHK北九州放送局.md" title="wikilink">北九州</a></p></td>
 <td><p>1988年4月 - 1996年3月：イブニングネットワーク北九州<br />
 1996年4月 - ：6時半です!ニュースセンター北九州</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/NHK福岡放送局.md" title="wikilink">福岡</a></p></td>
 <td><p>1988年4月 - 1996年3月：イブニングネットワークふくおか<br />
 1996年4月 -：6時半です!ニュースセンター福岡</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/NHK佐賀放送局.md" title="wikilink">佐賀</a></p></td>
 <td><p>イブニングネットワーク佐賀<br />
 ニュース630佐賀</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/NHK長崎放送局.md" title="wikilink">長崎</a></p></td>
 <td><p>イブニングネットワークながさき</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/NHK熊本放送局.md" title="wikilink">熊本</a></p></td>
 <td><p>イブニングネットワークくまもと</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/NHK大分放送局.md" title="wikilink">大分</a></p></td>
 <td><p>イブニングネットワークおおいた</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/NHK宮崎放送局.md" title="wikilink">宮崎</a></p></td>
 <td><p>イブニングネットワークみやざき<br />
 6時半です!ニュース宮崎</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/NHK鹿児島放送局.md" title="wikilink">鹿児島</a></p></td>
 <td><p>イブニングネットワークかごしま<br />
 ニュースネット630かごしま</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/NHK沖縄放送局.md" title="wikilink">沖縄</a></p></td>
 <td><p>イブニングネットワークおきなわ<br />
 630沖縄</p></td>
@@ -288,7 +292,7 @@ JKニュース1</p></td>
 
 ## 外部リンク
 
-  - [イブニングネットワーク - NHK名作選(動画・静止画) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009040251_00000)
+  - [イブニングネットワーク | NHK放送史（動画・記事）](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009040251_00000)
 
 [Category:1988年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1988年のテレビ番組_\(日本\) "wikilink") [Category:NHK総合テレビジョン平日18時台の地域ニュース](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョン平日18時台の地域ニュース "wikilink") [Category:池上彰](https://ja.wikipedia.org/wiki/Category:池上彰 "wikilink") [Category:NHK総合テレビジョンの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの帯番組の歴史 "wikilink")
 

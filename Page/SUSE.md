@@ -1,7 +1,7 @@
 > この記事は[SUSE](https://ja.wikipedia.org/wiki/SUSE)から翻訳されています。
 
 
-[Suse_Linux_GmbH.jpg](https://ja.wikipedia.org/wiki/File:Suse_Linux_GmbH.jpg "fig:Suse_Linux_GmbH.jpg") **SUSE** ( )\[1\]は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")を拠点とし、ビジネス顧客向けの[Linux](../Page/Linux.md "wikilink")製品を開発・販売する、[オープンソースソフトウェア](../Page/オープンソースソフトウェア.md "wikilink")[多国籍企業](../Page/多国籍企業.md "wikilink")である。1992年に創設され、企業向けに商用Linuxを販売した初の会社となった。SUSEはコミュニティ支援で[openSUSE](https://ja.wikipedia.org/wiki/openSUSE "wikilink")を開発しているの主要なスポンサーである。
+[Suse_Linux_GmbH.jpg](https://ja.wikipedia.org/wiki/File:Suse_Linux_GmbH.jpg "fig:Suse_Linux_GmbH.jpg") **SUSE** ( )\[1\]は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")を拠点とし、ビジネス顧客向けの[Linux](../Page/Linux.md "wikilink")製品を開発・販売する、[オープンソースソフトウェア](../Page/オープンソースソフトウェア.md "wikilink")[多国籍企業](../Page/多国籍企業.md "wikilink")である。1992年に創設され、企業向けに商用Linuxを販売した初の会社となった。SUSEはコミュニティ支援で[openSUSE](https://ja.wikipedia.org/wiki/openSUSE "wikilink")を開発している[openSUSEプロジェクト](https://ja.wikipedia.org/wiki/openSUSEプロジェクト "wikilink")の主要なスポンサーである。
 
 ## 歴史
 
@@ -83,7 +83,11 @@ SUSEの最初の技術買収は2016年で、[ドイツ](https://ja.wikipedia.org
   -
   - [SUSE Studio](http://susestudio.com)
 
-[Category:Linux企業](https://ja.wikipedia.org/wiki/Category:Linux企業 "wikilink") [Category:1992年設立の企業](https://ja.wikipedia.org/wiki/Category:1992年設立の企業 "wikilink")
+## 関連項目
+
+  - [United Linux](https://ja.wikipedia.org/wiki/United_Linux "wikilink")
+
+[Category:SUSE](https://ja.wikipedia.org/wiki/Category:SUSE "wikilink") [Category:Linux企業](https://ja.wikipedia.org/wiki/Category:Linux企業 "wikilink") [Category:1992年設立の企業](https://ja.wikipedia.org/wiki/Category:1992年設立の企業 "wikilink")
 
 1.
 2.

@@ -1,7 +1,7 @@
 > この記事は[Uシート](https://ja.wikipedia.org/wiki/Uシート)から翻訳されています。
 
 
-[thumbのuシート車内装](https://ja.wikipedia.org/wiki/ファイル:JRHokkaidoSeries785-uSeat.JPG "wikilink")\]\] [thumbのuシート車内装](https://ja.wikipedia.org/wiki/ファイル:New789_02.jpg "wikilink")\]\] **uシート**（ユーシート）とは、[北海道旅客鉄道](../Page/北海道旅客鉄道.md "wikilink")（JR北海道）が[電車](../Page/電車.md "wikilink")によって運行する一部の[特別急行列車](https://ja.wikipedia.org/wiki/特別急行列車 "wikilink")および[快速](../Page/快速列車.md "wikilink")「[エアポート](../Page/エアポート_\(列車\).md "wikilink")」に設定されている[普通車](../Page/普通車_\(鉄道車両\).md "wikilink")[座席指定席](../Page/座席指定席.md "wikilink")の愛称である。
+[thumbのuシート車内装](https://ja.wikipedia.org/wiki/ファイル:JRHokkaidoSeries785-uSeat.JPG "wikilink")\]\] [thumbのuシート車内装](https://ja.wikipedia.org/wiki/ファイル:New789_02.jpg "wikilink")\]\] **uシート**（ユーシート）は、[北海道旅客鉄道](../Page/北海道旅客鉄道.md "wikilink")（JR北海道）が[電車](../Page/電車.md "wikilink")によって運行する一部の[特別急行列車](https://ja.wikipedia.org/wiki/特別急行列車 "wikilink")および[快速](../Page/快速列車.md "wikilink")「[エアポート](../Page/エアポート_\(列車\).md "wikilink")」に設定されている[普通車](../Page/普通車_\(鉄道車両\).md "wikilink")[座席指定席](../Page/座席指定席.md "wikilink")の愛称である。
 
 ## 概要
 

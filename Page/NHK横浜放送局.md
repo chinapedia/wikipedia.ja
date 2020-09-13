@@ -463,7 +463,7 @@
 
 ### 制作参加
 
-  - [ひるまえ ほっと](https://ja.wikipedia.org/wiki/ひるまえ_ほっと "wikilink")（総合テレビ、火曜日担当）
+  - [ひるまえほっと〜関東〜](https://ja.wikipedia.org/wiki/ひるまえ_ほっと "wikilink")（総合テレビ、月・火曜日担当）
   - [首都圏ネットワーク](../Page/首都圏ネットワーク.md "wikilink")（総合テレビ）
 
 ### 過去の主な制作番組

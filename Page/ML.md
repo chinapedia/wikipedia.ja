@@ -21,7 +21,7 @@
   - [悪性リンパ腫](../Page/悪性リンパ腫.md "wikilink") ()
   - [マークアップ言語](../Page/マークアップ言語.md "wikilink") ()
   - [最尤法](https://ja.wikipedia.org/wiki/最尤法 "wikilink") ()
-  - [マルクス・レーニン主義](../Page/マルクス・レーニン主義.md "wikilink") ()。ML主義、ML派など。
+  - [マルクス・レーニン主義](../Page/マルクス・レーニン主義.md "wikilink") ()。ML主義、[ML派など](../Page/共産主義者同盟マルクス・レーニン主義派.md "wikilink")。
   - [中世ラテン語](https://ja.wikipedia.org/wiki/中世ラテン語 "wikilink") ()
   - [メンズラブ](https://ja.wikipedia.org/wiki/メンズラブ "wikilink") ()
   - [機雷敷設艦](../Page/機雷敷設艦.md "wikilink") ()

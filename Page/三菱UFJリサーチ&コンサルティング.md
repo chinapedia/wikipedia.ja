@@ -78,7 +78,7 @@
   - [水上貴央](https://ja.wikipedia.org/wiki/水上貴央 "wikilink") - 元・三和総合研究所、現：[弁護士](../Page/弁護士.md "wikilink")、再エネ事業を支援する法律実務の会理事長
   - [水谷研治](https://ja.wikipedia.org/wiki/水谷研治 "wikilink") - 元・東海総合研究所社長・会長・理事長、現：[中京大学](../Page/中京大学.md "wikilink")名誉教授
   - [森永卓郎](../Page/森永卓郎.md "wikilink") - 元・経済・社会政策部長、現：[獨協大学](https://ja.wikipedia.org/wiki/獨協大学 "wikilink")経済学部教授
-  - [矢部謙介](https://ja.wikipedia.org/wiki/矢部謙介 "wikilink") - 元・三和総合研究所、現：[中京大学](../Page/中京大学.md "wikilink")経営学部教授
+  - [矢部謙介](https://ja.wikipedia.org/wiki/矢部謙介 "wikilink") - 元・三和総合研究所、現：[中京大学](../Page/中京大学.md "wikilink")国際学部教授
   - [渡辺秀和](https://ja.wikipedia.org/wiki/渡辺秀和 "wikilink") - 元・三和総合研究所、現：[コンコードエグゼクティブグループ](https://ja.wikipedia.org/wiki/コンコードエグゼクティブグループ "wikilink")設立者・社長
 
 ## 脚注

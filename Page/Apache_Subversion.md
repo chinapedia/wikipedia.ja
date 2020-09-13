@@ -51,10 +51,10 @@ Subversionの使い方は[CVSによく似ている](../Page/Concurrent_Versions_
   - [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") - [TortoiseSVN](https://ja.wikipedia.org/wiki/TortoiseSVN "wikilink")(エクスプローラ拡張)
   - [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink") - [SvnX](http://www.lachoseinteractive.net/en/community/subversion/svnx/), [Versions](http://www.versionsapp.com/) なお、LeopardからSubversionは標準インストールされており、Subversionサーバも自動起動している。
   - [Linux](../Page/Linux.md "wikilink") - [RabbitVCS](http://rabbitvcs.org/)
-  - [KDE](../Page/KDE.md "wikilink") - [KDESvn](../Page/KDESvn.md "wikilink"), [KSvn](http://web.archive.org/web/20070928103218/http://apps.intra-links.com/)
+  - [KDE](../Page/KDE.md "wikilink") - [KDESvn](../Page/KDESvn.md "wikilink"), [KSvn](https://web.archive.org/web/20070928103218/http://apps.intra-links.com/)
   - [GNOME](../Page/GNOME.md "wikilink")
   - クロスプラットフォーム - [RapidSVN](http://www.rapidsvn.org/), [pysvn WorkBench](http://pysvn.tigris.org/), [eSvn](http://zoneit.free.fr/esvn/), [SmartSVN](http://www.syntevo.com/smartsvn/), [QSvn](http://anrichter.github.io/qsvn/)
-  - Webアプリ - [FlexySvn](http://web.archive.org/web/20110101182059/http://www.subversionary.org/node/48), [Trac](../Page/Trac.md "wikilink"), [ViewVC](http://www.viewvc.org/)
+  - Webアプリ - [FlexySvn](https://web.archive.org/web/20110101182059/http://www.subversionary.org/node/48), [Trac](../Page/Trac.md "wikilink"), [ViewVC](http://www.viewvc.org/)
   - [Java](https://ja.wikipedia.org/wiki/Java "wikilink") - [SVNKit](http://svnkit.com/), [NetBeans](../Page/NetBeans.md "wikilink"), [sventon](http://www.sventon.org/)
   - [Eclipse](../Page/Eclipse_\(統合開発環境\).md "wikilink") - [Subclipse](http://subclipse.tigris.org/), [Subversive](http://eclipse.org/subversive/)
   - [Visual Studio](https://ja.wikipedia.org/wiki/Visual_Studio "wikilink") - [AnkhSVN](http://ankhsvn.net/), [VisualSVN](http://www.visualsvn.com/)
@@ -98,6 +98,8 @@ foo を bar に移動
 コミット
 
 `$ svn commit`
+
+## 脚注
 
 ## 関連項目
 

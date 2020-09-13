@@ -3,7 +3,7 @@
 
 **Linuxカーネル**は、[Unix系](../Page/Unix系.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")である[Linux](../Page/Linux.md "wikilink")の[カーネル](../Page/カーネル.md "wikilink")。[リーナス・トーバルズ](../Page/リーナス・トーバルズ.md "wikilink")によって開発が開始された。ライセンスに[GPL](../Page/GNU_General_Public_License.md "wikilink")（バージョン2）を採用する[自由なソフトウェアである](../Page/フリーソフトウェア.md "wikilink")。
 
-通常、Linuxカーネルと言えばリーナスが公開している公式版のカーネルを指すが、[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")で使用されているカーネルは、公式版カーネルにベンダーが独自の改造を施してあることが多い。例えば、[Android](../Page/Android.md "wikilink")で使用されているカーネルもそのひとつである。このような非公式のカーネルは、ベンダーが対応すべきとしているため、Linux Kernel Mailing List などでは基本的に対応対象外となっている。
+通常、Linuxカーネルと言えばリーナスが管理・公開している公式版（メインライン・カーネル）を指すが、[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")で使用されているカーネルは、バージョンが古かったり、ベンダーが独自の改造を施してあることが多い。例えば、[Androidで使用されているカーネルもそのひとつである](../Page/Android_\(オペレーティングシステム\).md "wikilink")。このような非公式のカーネルは、ベンダー側が対応すべきとしているため、Linux Kernel Mailing Listなどでは基本的に対応対象外となっている。
 
 開発の初期には、[MINIX](../Page/MINIX.md "wikilink")を参考としており、影響を受けてもいるが、MINIXのコードは使用せず、ゼロから書かれた（[IBM PCを](../Page/IBM_PC.md "wikilink")[端末エミュレータ](../Page/端末エミュレータ.md "wikilink")として動かすためのコードから成長させたものと言われている）。
 

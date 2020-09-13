@@ -9,7 +9,7 @@
 
 人気が出れば後にテレビ放送や劇場公開されたり、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")の続編がOVAで制作される場合もある。また、[深夜アニメ](../Page/深夜アニメ.md "wikilink")の定着に伴い、[衛星放送や](../Page/日本における衛星放送.md "wikilink")[独立局などで先行放送される場合も増えている](../Page/全国独立放送協議会.md "wikilink")。黎明期には「OAV」（オリジナル・アニメビデオ）という呼称もよく用いられたが、「AV」の部分が「[アダルトビデオ](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")」や「[オーディオ・ビジュアル](../Page/オーディオ・ビジュアル.md "wikilink")」の略称と間違えられやすいため、徐々に用いられなくなっていった。[2014年](../Page/2014年.md "wikilink")時点では、[学習研究社の](../Page/学研ホールディングス.md "wikilink")『[アニメディア](../Page/アニメディア.md "wikilink")』や[エイ・ワン・シー](https://ja.wikipedia.org/wiki/エイ・ワン・シー "wikilink")の[アダルトアニメ](../Page/アダルトアニメ.md "wikilink")で用いられる程度であり、かつてほどではない。また、黎明期にOVAという表記を初めて用いたのは[角川書店](../Page/角川書店.md "wikilink")の『[ニュータイプ](../Page/月刊ニュータイプ.md "wikilink")』のみであり、他誌ではOAVという表記であった。ちなみに、ニュータイプは誌内の1コーナーにおいてOVAを「オヴァ」と読むことを推奨していたが、当時はOAVの方が一般的であった。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")前後の時点で、既に[DVD](../Page/DVD.md "wikilink")や[BDなどの](../Page/Blu-ray_Disc.md "wikilink")[ディスクメディア](../Page/ディスクメディア.md "wikilink")が[VHS](../Page/VHS.md "wikilink")などのテープメディアに取って代わる存在となっていたことに起因し、「OAD」という名称が用いられる場合がある。これは、主に同時期の[講談社](../Page/講談社.md "wikilink")が自社の単行本の初回限定版の付録とした場合に用いられる名称であったが、それ以降は出版社を問わず単行本付録のアニメDVD/BDの名称として一般化しつつある\[1\]。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")前後の時点で、既に[DVD](../Page/DVD.md "wikilink")や[BDなどの](../Page/Blu-ray_Disc.md "wikilink")[ディスクメディア](../Page/ディスクメディア.md "wikilink")が[VHS](../Page/VHS.md "wikilink")などのテープメディアに取って代わる存在となっていたことに起因し、「OAD」という名称が用いられる場合がある。これは、主に同時期の[講談社](../Page/講談社.md "wikilink")が自社の単行本の初回限定版の付録とした場合に用いられる名称であったが、それ以降は出版社を問わず単行本付録のアニメDVD/BDの名称として一般化しつつある\[1\]\[2\]。
 
 ## 歴史
 
@@ -41,4 +41,5 @@
 
 [Category:OVA](https://ja.wikipedia.org/wiki/Category:OVA "wikilink") [Category:和製英語](https://ja.wikipedia.org/wiki/Category:和製英語 "wikilink")
 
-1.  [コミックナタリー - 「藤田和日郎魂」付録にOAD「からくりの君」決定](http://natalie.mu/comic/news/18232)（[コミックナタリー](https://ja.wikipedia.org/wiki/ナタリー_\(ニュースサイト\) "wikilink")）、[アニメ化決定の『今日、恋をはじめます』よりキャストインタビュー - ニュース - アニメイトTV -](http://www.animate.tv/news/details.php?id=1273560070)
+1.
+2.

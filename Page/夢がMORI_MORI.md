@@ -64,7 +64,7 @@
       - [木村拓哉](../Page/木村拓哉.md "wikilink")
       - [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")
       - [森且行](../Page/森且行.md "wikilink")
-      - [草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")
+      - [草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")
       - [香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")
   - [赤坂泰彦](../Page/赤坂泰彦.md "wikilink") - 初期には顔出しせず、中期から番組進行役として顔出し出演するようになった。
   - [森川美穂](../Page/森川美穂.md "wikilink") - 1993年11月から1994年6月まで出演。

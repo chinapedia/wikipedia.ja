@@ -21,37 +21,162 @@
 
 ## キャスト
 
-| 役名                                    | 俳優                                                            | 日本語吹替                                   |
-| ------------------------------------- | ------------------------------------------------------------- | --------------------------------------- |
-| [テレビ朝日](../Page/テレビ朝日.md "wikilink")版 | [WOWOW](../Page/WOWOW.md "wikilink")版                         |                                         |
-| ドラゴン                                  | [ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")                  | [石丸博也](../Page/石丸博也.md "wikilink")      |
-| フェイ                                   | [サモ・ハン・キンポー](../Page/サモ・ハン・キンポー.md "wikilink")                | [水島裕](../Page/水島裕_\(声優\).md "wikilink") |
-| ジャガー                                  | [ユン・ピョウ](../Page/ユン・ピョウ.md "wikilink")                        | [野島昭生](../Page/野島昭生.md "wikilink")      |
-| サン                                    | [ディック・ウェイ](https://ja.wikipedia.org/wiki/ディック・ウェイ "wikilink") | [石田弦太郎](../Page/石田太郎.md "wikilink")     |
-| パール                                   | [イザベラ・ウォン](https://ja.wikipedia.org/wiki/イザベラ・ウォン "wikilink") | [戸田恵子](../Page/戸田恵子.md "wikilink")      |
-| 海上警察司令官                               | [ラウ・ハクスン](https://ja.wikipedia.org/wiki/ラウ・ハクスン "wikilink")   | [上田敏也](../Page/上田敏也.md "wikilink")      |
-| チー総監                                  | [クワン・ホイサン](https://ja.wikipedia.org/wiki/クワン・ホイサン "wikilink") | [及川ヒロオ](../Page/及川ヒロオ.md "wikilink")    |
-| ひょうきん                                 | [タイ・ポー](https://ja.wikipedia.org/wiki/タイ・ポー "wikilink")       | [三ツ矢雄二](../Page/三ツ矢雄二.md "wikilink")    |
-| 大口                                    | [マース](https://ja.wikipedia.org/wiki/マース_\(俳優\) "wikilink")    | [村山明](../Page/村山明_\(声優\).md "wikilink") |
-| チョウ                                   | [ウォン・ウェイ](https://ja.wikipedia.org/wiki/ウォン・ウェイ "wikilink")   | [千田光男](../Page/千田光男.md "wikilink")      |
-| リー                                    | [リー・ホイサン](https://ja.wikipedia.org/wiki/リー・ホイサン "wikilink")   | [田中康郎](../Page/田中康郎.md "wikilink")      |
-| 総督                                    | 役者名不明                                                         | [大平透](../Page/大平透.md "wikilink")        |
-| クラブの店員                                | [ジョン・チャン](https://ja.wikipedia.org/wiki/ジョン・チャン "wikilink")   |                                         |
-| チョウ                                   | [ウォン・ウェイ](https://ja.wikipedia.org/wiki/ウォン・ウェイ "wikilink")   |                                         |
-|                                       | [ワン・ファト](https://ja.wikipedia.org/wiki/ワン・ファト "wikilink")     |                                         |
-|                                       | [クワン・ユイムン](https://ja.wikipedia.org/wiki/クワン・ユイムン "wikilink") |                                         |
-|                                       | [リー・ホイサン](https://ja.wikipedia.org/wiki/リー・ホイサン "wikilink")   |                                         |
-| 支配人                                   | [アルバート・ロー](https://ja.wikipedia.org/wiki/アルバート・ロー "wikilink") |                                         |
-|                                       | [ウー・マー](https://ja.wikipedia.org/wiki/午馬 "wikilink")          |                                         |
-| チャン                                   | [ハン・イーサン](https://ja.wikipedia.org/wiki/ハン・イーサン "wikilink")   |                                         |
-|                                       | [ユン・キンチョウ](https://ja.wikipedia.org/wiki/ユン・キンチョウ "wikilink") |                                         |
-| 陸上警察隊員                                | [ポール・ウォン](https://ja.wikipedia.org/wiki/ポール・ウォン "wikilink")   |                                         |
-|                                       | [トン・インチャン](https://ja.wikipedia.org/wiki/トン・インチャン "wikilink") |                                         |
-| 海上警察隊員                                | [ベニー・ライ](https://ja.wikipedia.org/wiki/ベニー・ライ "wikilink")     |                                         |
-|                                       | [マン・キーワン](https://ja.wikipedia.org/wiki/マン・キーワン "wikilink")   |                                         |
-| 酒場の給仕                                 | [トー・シウミン](https://ja.wikipedia.org/wiki/トー・シウミン "wikilink")   |                                         |
-| 陸上警察隊員                                | [ユー・タウワン](https://ja.wikipedia.org/wiki/ユー・タウワン "wikilink")   |                                         |
-|                                       |                                                               |                                         |
+<table>
+<thead>
+<tr class="header">
+<th><p>役名</p></th>
+<th><p>俳優</p></th>
+<th><p>日本語吹替</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>版</p></td>
+<td><p><a href="../Page/WOWOW.md" title="wikilink">WOWOW</a>版</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>ドラゴン</p></td>
+<td><p><a href="../Page/ジャッキー・チェン.md" title="wikilink">ジャッキー・チェン</a></p></td>
+<td><p><a href="../Page/石丸博也.md" title="wikilink">石丸博也</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>フェイ</p></td>
+<td><p><a href="../Page/サモ・ハン・キンポー.md" title="wikilink">サモ・ハン・キンポー</a></p></td>
+<td><p><a href="../Page/水島裕_(声優).md" title="wikilink">水島裕</a></p></td>
+</tr>
+<tr class="even">
+<td><p>ジャガー</p></td>
+<td><p><a href="../Page/ユン・ピョウ.md" title="wikilink">ユン・ピョウ</a></p></td>
+<td><p><a href="../Page/野島昭生.md" title="wikilink">野島昭生</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>サン</p></td>
+<td></td>
+<td><p><a href="../Page/石田太郎.md" title="wikilink">石田弦太郎</a></p></td>
+</tr>
+<tr class="even">
+<td><p>パール</p></td>
+<td></td>
+<td><p><a href="../Page/戸田恵子.md" title="wikilink">戸田恵子</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>海上警察司令官</p></td>
+<td></td>
+<td><p><a href="../Page/上田敏也.md" title="wikilink">上田敏也</a></p></td>
+</tr>
+<tr class="even">
+<td><p>チー総監</p></td>
+<td></td>
+<td><p><a href="../Page/及川ヒロオ.md" title="wikilink">及川ヒロオ</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>ひょうきん</p></td>
+<td></td>
+<td><p><a href="../Page/三ツ矢雄二.md" title="wikilink">三ツ矢雄二</a></p></td>
+</tr>
+<tr class="even">
+<td><p>大口</p></td>
+<td></td>
+<td><p><a href="../Page/村山明_(声優).md" title="wikilink">村山明</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>チョウ</p></td>
+<td></td>
+<td><p><a href="../Page/千田光男.md" title="wikilink">千田光男</a></p></td>
+</tr>
+<tr class="even">
+<td><p>リー</p></td>
+<td></td>
+<td><p><a href="../Page/田中康郎.md" title="wikilink">田中康郎</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>総督</p></td>
+<td><p>役者名不明</p></td>
+<td><p><a href="../Page/大平透.md" title="wikilink">大平透</a></p></td>
+</tr>
+<tr class="even">
+<td><p>クラブの店員</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジョン・チャン" title="wikilink">ジョン・チャン</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>チョウ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ウォン・ウェイ" title="wikilink">ウォン・ウェイ</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ワン・ファト" title="wikilink">ワン・ファト</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/クワン・ユイムン" title="wikilink">クワン・ユイムン</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/リー・ホイサン" title="wikilink">リー・ホイサン</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>支配人</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/午馬" title="wikilink">ウー・マー</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>チャン</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ユン・キンチョウ" title="wikilink">ユン・キンチョウ</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>陸上警察隊員</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ポール・ウォン" title="wikilink">ポール・ウォン</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/トン・インチャン" title="wikilink">トン・インチャン</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>海上警察隊員</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ベニー・ライ" title="wikilink">ベニー・ライ</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/マン・キーワン" title="wikilink">マン・キーワン</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>酒場の給仕</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/トー・シウミン" title="wikilink">トー・シウミン</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>陸上警察隊員</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ユー・タウワン" title="wikilink">ユー・タウワン</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
   - 両バージョンともにパラマウント版Blu-rayに収録
 
@@ -84,7 +209,7 @@
 </tr>
 <tr class="even">
 <td><p>演出</p></td>
-<td><p>春日正伸</p></td>
+<td><p><a href="../Page/春日正伸.md" title="wikilink">春日正伸</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>翻訳</p></td>
@@ -150,9 +275,9 @@
 
 ### 時計台落下シーン
 
-[thumbによる](https://ja.wikipedia.org/wiki/image:Safetylast-1.jpg "wikilink")『要心無用』での危険なスタント\]\] ジャッキーを代表するスタントが、本作の「時計台落下シーン」である\[3\]。基本的にスタントマンを使わないジャッキーにとっても25mの時計台から地面に落下するアクションはまさに命懸けスタントであった。ジャッキー本人によると、撮影を決心するまでに1週間悩んだという。なお、この時計台落下シーンは喜劇王[ハロルド・ロイド](../Page/ハロルド・ロイド.md "wikilink")の代表作『[要心無用](../Page/要心無用.md "wikilink")』における有名な時計台のシーンからヒントを得ている\[4\]。
+[thumbによる](https://ja.wikipedia.org/wiki/image:Safetylast-1.jpg "wikilink")『要心無用』での危険なスタント\]\] ジャッキー映画、アクションを語る上で特筆すべきスタントが、本作の「時計台落下シーン」である\[3\]。基本的にスタントマンを使わないジャッキーにとっても、高さ20メートル近い時計台から垂直落下しシェードを突き破り地面に叩きつけられるこのアクションは命懸けであった。ジャッキー本人によると、撮影を決心するまでに1週間悩んだという。なお、このシーンは喜劇王[ハロルド・ロイド](../Page/ハロルド・ロイド.md "wikilink")の代表作『[要心無用](../Page/要心無用.md "wikilink")』における有名な時計台のシーンからヒントを得ている\[4\]。
 
-このシーンは1回のアクションを、別アングル3方向から撮ったものではなく、ジャッキーはこのシーンのために6日間、塔の上に上って時計の針に数分間ぶら下がることを繰り返し、3回時計台から地面まで落下した。全てのカットを本作で見ることができる。なお、本編に使われたのは2つで、落下の仕方が異なっている。残る1つは落下失敗で屋根が破れずにNGとなり、これはエンドクレジットのNGシーンで採用された。大けがを負ったのは最初のテイクで、頭から地面に落ちたこのカットは非常に衝撃的で有名なものとなった。ジャッキー映画、アクションを語る上で特筆すべきシーンでもある\[5\]\[6\]。
+このシーンは1回の落下を別アングル3方向から撮影したものではなく、ジャッキーが時計台の針に数分間ぶら下がることを6日間に渡って繰り返し、地面落下は合計3[テイク実行された](../Page/カチンコ.md "wikilink")。全3回の落下映像はいずれも本作内で見ることができる。本編映像に採用されたのは2回分で、落下の仕方に違いがみられる。残る1回は落下位置がずれてシェードが破れず、これはエンドクレジットでのNG集で採用された。頭から地面に落ちたこのカットは非常に衝撃的で有名なものとなり、実際にジャッキーは1回目の落下で[頸椎](../Page/頸椎.md "wikilink")損傷の大怪我を負っている\[5\]。なおジャッキーの大怪我後、本編用のアングルを追加撮影する必要が生じたため、ジャッキーの親友スタントマンであるが1テイクだけ[スタント](../Page/スタント.md "wikilink")した\[6\]。
 
 ### 削除されたシーン
 

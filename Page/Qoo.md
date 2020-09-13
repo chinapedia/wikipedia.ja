@@ -5,9 +5,11 @@
 
 ## 概要
 
-Qooのキャラクターデザインは「[でこぼこフレンズ](../Page/でこぼこフレンズ.md "wikilink")」や「[ルミネのルミ姉](https://ja.wikipedia.org/wiki/ルミネ#ルミ姉 "wikilink")」でも知られる[丸山もも子](https://ja.wikipedia.org/wiki/丸山もも子 "wikilink")。アニメーションは[小原秀一](https://ja.wikipedia.org/wiki/小原秀一 "wikilink")。 [1999年](../Page/1999年.md "wikilink")に、かつて出されていた果物風味の清涼飲料水、[HI-C](../Page/HI-C.md "wikilink")の後継商品として[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で誕生し（HI-Cは飲食店向け200ml瓶入りのオレンジのみ継続）、現在では[東アジア](../Page/東アジア.md "wikilink")・[東南アジア](../Page/東南アジア.md "wikilink")の各地、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")でも[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")で販売されている。名称の由来は、大人がビールを飲み干して発する感嘆詞「クーッ」からであり、子どもも飲んで発してみたくなるような飲み物というコンセプト。 [2009年](../Page/2009年.md "wikilink")に、Qooは誕生10周年を迎えた。[2012年](../Page/2012年.md "wikilink")9月のリニューアル時に同社が展開する果実飲料ブランド「[ミニッツメイド](../Page/ミニッツメイド.md "wikilink")」の傘下に入り（サブブランド化）、「**ミニッツメイド Qoo**」となったが、[2017年](../Page/2017年.md "wikilink")9月のリニューアル時より「ミニッツメイド」ブランドから独立し、単独ブランドに戻った。
+[1999年](../Page/1999年.md "wikilink")に、かつて出されていた果物風味の清涼飲料水、[HI-C](../Page/HI-C.md "wikilink")の後継商品として[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で誕生し（HI-Cは飲食店向け200ml瓶入りのオレンジのみ継続）、現在では[東アジア](../Page/東アジア.md "wikilink")・[東南アジア](../Page/東南アジア.md "wikilink")の各地、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")でも[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")で販売されている。名称の由来は、大人がビールを飲み干して発する感嘆詞「クーッ」からであり、子どもも飲んで発してみたくなるような飲み物というコンセプト。 [2009年](../Page/2009年.md "wikilink")に、Qooは誕生10周年を迎えた。[2012年](../Page/2012年.md "wikilink")9月のリニューアル時に同社が展開する果実飲料ブランド「[ミニッツメイド](../Page/ミニッツメイド.md "wikilink")」の傘下に入り（サブブランド化）、「**ミニッツメイド Qoo**」となったが、[2017年](../Page/2017年.md "wikilink")9月のリニューアル時より「ミニッツメイド」ブランドから独立し、単独ブランドに戻った。
 
 ## キャラクター
+
+Qooのキャラクターデザインは「[でこぼこフレンズ](../Page/でこぼこフレンズ.md "wikilink")」や「[ルミネのルミ姉](https://ja.wikipedia.org/wiki/ルミネ#ルミ姉 "wikilink")」でも知られる[丸山もも子](https://ja.wikipedia.org/wiki/丸山もも子 "wikilink")。アニメーションは[小原秀一](https://ja.wikipedia.org/wiki/小原秀一 "wikilink")。
 
 ### クー(Qoo)
 

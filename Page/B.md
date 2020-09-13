@@ -40,7 +40,7 @@
   - [フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")では語尾の b を[黙字](../Page/黙字.md "wikilink")とする。
   - [英語](../Page/英語.md "wikilink")でも語尾 mb のように b が黙字となる例がある (bom**b**など)。
   - [スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")の音素  は、語頭では  であるが、語頭以外では弱化して[有声両唇摩擦音](https://ja.wikipedia.org/wiki/有声両唇摩擦音 "wikilink")  で発音される。
-  - [中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")やその[方言](../Page/方言.md "wikilink")の[ピンインでは](../Page/ピン音.md "wikilink")[無気](../Page/有気音.md "wikilink")[無声両唇破裂音](../Page/無声両唇破裂音.md "wikilink")の  を表す。
+  - [中国語](../Page/中国語.md "wikilink")やその[方言](../Page/方言.md "wikilink")の[ピンインでは](../Page/ピン音.md "wikilink")[無気](../Page/有気音.md "wikilink")[無声両唇破裂音](../Page/無声両唇破裂音.md "wikilink")の  を表す。
   - [中国南方の方言では](../Page/中華人民共和国.md "wikilink")、広東省教育部門式の広東語ローマ字のように[音節](../Page/音節.md "wikilink")頭では無気無声両唇閉鎖音の  を表すが、音節末では[両唇](../Page/両唇音.md "wikilink")[内破音](../Page/内破音.md "wikilink")  を表す例もある。
   - [マレー語](../Page/マレー語.md "wikilink")では[音節](../Page/音節.md "wikilink")頭では[有声両唇閉鎖音](https://ja.wikipedia.org/wiki/有声両唇閉鎖音 "wikilink")の  を表すが、音節末での実際の発音は両唇内破音  である\[2\]。
   - [ベトナム語](../Page/ベトナム語.md "wikilink")では[入破音](../Page/入破音.md "wikilink")の  または[声門閉鎖音と](../Page/声門破裂音.md "wikilink")[有声両唇閉鎖音](https://ja.wikipedia.org/wiki/有声両唇閉鎖音 "wikilink")を同時に発音する  を表す。
@@ -62,7 +62,7 @@
 
   - [十一を意味する数字](../Page/11.md "wikilink")。[十二進法](../Page/十二進法.md "wikilink")や[二十進法](../Page/二十進法.md "wikilink")など、底が[十を超える](../Page/10.md "wikilink")[N進法において](https://ja.wikipedia.org/wiki/位取り記数法 "wikilink")、十一（[十進法](../Page/十進法.md "wikilink")の**11**）を一[桁](https://ja.wikipedia.org/wiki/桁 "wikilink")で表すために用いられる。ただし、[8](https://ja.wikipedia.org/wiki/8 "wikilink") と紛らわしいために使用しない（特に十二進法で B を使用しない場合、十一を [E](https://ja.wikipedia.org/wiki/E "wikilink") と表記して、十を [T](../Page/T.md "wikilink") または [X](../Page/X.md "wikilink") と表記する）例もある。
 
-  - [ABO式血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")の一つ。B型。
+  - [ABO式血液型](../Page/ABO式血液型.md "wikilink")の一つ。B型。
 
   - [数学](../Page/数学.md "wikilink")では一般に既知の数、集合、行列等を示す、[A](https://ja.wikipedia.org/wiki/A "wikilink")に次ぐ文字として用いられる。
 

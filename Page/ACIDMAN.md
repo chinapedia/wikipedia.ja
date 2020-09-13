@@ -1,7 +1,7 @@
 > この記事は[ACIDMAN](https://ja.wikipedia.org/wiki/ACIDMAN)から翻訳されています。
 
 
-**ACIDMAN**（アシッドマン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の3人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[Virgin MusicとFREE](../Page/Virgin_Music.md "wikilink") STARに所属している。キャッチコピーは『音の力。詩の力。』『深淵・迷走・創造・騒々』など。
+**ACIDMAN**（アシッドマン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の3人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[Virgin MusicとFREE](../Page/Virgin_Music.md "wikilink") STARに所属している。キャッチコピーは『音の力。詩の力。』『深淵・迷走・創造・騒々』一部のファンの間でなど。
 
 ## メンバー
 
@@ -129,7 +129,7 @@
 
   - TRIPLE SIDE-A SINGLE『[Slow View](../Page/Slow_View.md "wikilink")』DVD CLIP集『[Scene of 創](../Page/Scene_of_創.md "wikilink")』同時発売。ACIDMAN主催「Cinema vol.1」開催。
   - 第17回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")ニュー・アーティスト・オブ・ザ・イヤーを獲得。
-  - DVDフライヤー付き SINGLE『リピート』発売。2ndアルバム『[Loop](https://ja.wikipedia.org/wiki/Loop "wikilink")』発売。オリコンアルバムチャート初登場6位獲得。
+  - DVDフライヤー付き SINGLE『リピート』発売。2ndアルバム『[Loop](../Page/Loop_\(アルバム\).md "wikilink")』発売。オリコンアルバムチャート初登場6位獲得。
   - SECOND DVD CLIP集『[Scene of Loop](../Page/Scene_of_Loop.md "wikilink")』発売。ACIDMAN LIVE TOUR「Loop」敢行。
   - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")、[COUNTDOWN JAPAN等の大型ロックフェスティバルに初出演](../Page/COUNTDOWN_JAPAN.md "wikilink")。
 
@@ -325,13 +325,13 @@
 #### シングル
 
   - [赤橙](../Page/赤橙_\(曲\).md "wikilink")
-      - [2000年](../Page/2000年.md "wikilink")[11月24日](../Page/11月24日.md "wikilink")発売 / NMCD-0006
-      - [2001年](../Page/2001年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")再発売 / ATL-0001
+      - 2000年11月24日発売 / NMCD-0006
+      - 2001年12月再発売 / ATL-0001
 
 #### アルバム
 
   - [酸化空](../Page/酸化空.md "wikilink")
-      - [2002年](../Page/2002年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")発売 / ATL-0002
+      - 2002年3月6日発売 / ATL-0002
 
 ### メジャー
 
@@ -350,189 +350,189 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/7月31日.md" title="wikilink">7月31日</a></p></td>
+<td><p>2002年7月31日</p></td>
 <td><p><strong><a href="../Page/造花が笑う.md" title="wikilink">造花が笑う [Limited Edition</a>]</strong></p></td>
 <td><p>TOCT-4441</p></td>
 <td><p>50位</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p>2002年<a href="../Page/9月4日.md" title="wikilink">9月4日</a></p></td>
+<td><p>2002年9月4日</p></td>
 <td><p><strong><a href="../Page/アレグロ_(ACIDMANの曲).md" title="wikilink">アレグロ [Limited Edition</a>]</strong></p></td>
 <td><p>TOCT-4442</p></td>
 <td><p>49位</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p>2002年<a href="../Page/10月9日.md" title="wikilink">10月9日</a></p></td>
+<td><p>2002年10月9日</p></td>
 <td><p><strong><a href="../Page/赤橙_(曲).md" title="wikilink">赤橙 [Limited Edition</a>]</strong></p></td>
 <td><p>TOCT-4443</p></td>
 <td><p>13位</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/3月12日.md" title="wikilink">3月12日</a></p></td>
+<td><p>2003年3月12日</p></td>
 <td><p><strong><a href="../Page/Slow_View.md" title="wikilink">Slow View</a></strong></p></td>
 <td><p>TOCT-4466</p></td>
 <td><p>16位</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
-<td><p>2003年<a href="../Page/7月9日.md" title="wikilink">7月9日</a></p></td>
+<td><p>2003年7月9日</p></td>
 <td><p><strong><a href="../Page/リピート_(ACIDMANの曲).md" title="wikilink">リピート</a></strong></p></td>
 <td><p>TOCT-4522</p></td>
 <td><p>17位</p></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
-<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/3月3日.md" title="wikilink">3月3日</a></p></td>
+<td><p>2004年3月3日</p></td>
 <td><p><strong><a href="../Page/水写.md" title="wikilink">水写</a></strong></p></td>
 <td><p>TOCT-4704</p></td>
 <td><p>19位</p></td>
 </tr>
 <tr class="odd">
 <td><p>7th</p></td>
-<td><p>2004年<a href="../Page/8月25日.md" title="wikilink">8月25日</a></p></td>
+<td><p>2004年8月25日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/equal_e.p." title="wikilink">equal e.p.</a></strong></p></td>
 <td><p>TOCT-4754</p></td>
 <td><p>36位</p></td>
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
-<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/5月18日.md" title="wikilink">5月18日</a></p></td>
+<td><p>2005年5月18日</p></td>
 <td><p><strong><a href="../Page/ある証明.md" title="wikilink">ある証明</a></strong></p></td>
 <td><p>TOCT-4866</p></td>
 <td><p>22位</p></td>
 </tr>
 <tr class="odd">
 <td><p>9th</p></td>
-<td><p>2005年<a href="../Page/10月19日.md" title="wikilink">10月19日</a></p></td>
+<td><p>2005年10月19日</p></td>
 <td><p><strong><a href="../Page/季節の灯.md" title="wikilink">季節の灯</a></strong></p></td>
 <td><p>TOCT-4928</p></td>
 <td><p>15位</p></td>
 </tr>
 <tr class="even">
 <td><p>10th</p></td>
-<td><p>2005年<a href="../Page/11月9日.md" title="wikilink">11月9日</a></p></td>
+<td><p>2005年11月9日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/world_symphony" title="wikilink">world symphony</a></strong></p></td>
 <td><p>TOCT-4933</p></td>
 <td><p>20位</p></td>
 </tr>
 <tr class="odd">
 <td><p>11th</p></td>
-<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/9月6日.md" title="wikilink">9月6日</a></p></td>
+<td><p>2006年9月6日</p></td>
 <td><p><strong><a href="../Page/スロウレイン.md" title="wikilink">スロウレイン</a></strong></p></td>
 <td><p>TOCT-40033</p></td>
 <td><p>16位</p></td>
 </tr>
 <tr class="even">
 <td><p>12th</p></td>
-<td><p>2006年<a href="../Page/11月15日.md" title="wikilink">11月15日</a></p></td>
+<td><p>2006年11月15日</p></td>
 <td><p><strong><a href="../Page/プリズムの夜.md" title="wikilink">プリズムの夜</a></strong></p></td>
 <td><p>TOCT-40058</p></td>
 <td><p>17位</p></td>
 </tr>
 <tr class="odd">
 <td><p>13th</p></td>
-<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/7月18日.md" title="wikilink">7月18日</a></p></td>
+<td><p>2007年7月18日</p></td>
 <td><p><strong><a href="../Page/REMIND.md" title="wikilink">REMIND</a></strong></p></td>
 <td><p>TOCT-40122</p></td>
 <td><p>23位</p></td>
 </tr>
 <tr class="even">
 <td><p>14th</p></td>
-<td><p>2007年<a href="../Page/11月28日.md" title="wikilink">11月28日</a></p></td>
+<td><p>2007年11月28日</p></td>
 <td><p><strong><a href="../Page/UNFOLD.md" title="wikilink">UNFOLD</a></strong></p></td>
 <td><p>TOCT-40167</p></td>
 <td><p>20位</p></td>
 </tr>
 <tr class="odd">
 <td><p>15th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/2月20日.md" title="wikilink">2月20日</a></p></td>
+<td><p>2008年2月20日</p></td>
 <td><p><strong><a href="../Page/式日_(曲).md" title="wikilink">式日</a></strong></p></td>
 <td><p>TOCT-40186</p></td>
 <td><p>21位</p></td>
 </tr>
 <tr class="even">
 <td><p>16th</p></td>
-<td><p>2008年<a href="../Page/11月12日.md" title="wikilink">11月12日</a></p></td>
+<td><p>2008年11月12日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/I_stand_free" title="wikilink">I stand free</a></strong></p></td>
 <td><p>TOCT-40235</p></td>
 <td><p>22位</p></td>
 </tr>
 <tr class="odd">
 <td><p>17th</p></td>
-<td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/2月25日.md" title="wikilink">2月25日</a></p></td>
+<td><p>2009年2月25日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/CARVE_WITH_THE_SENSE" title="wikilink">CARVE WITH THE SENSE</a></strong></p></td>
 <td><p>TOCT-40246</p></td>
 <td><p>20位</p></td>
 </tr>
 <tr class="even">
 <td><p>18th</p></td>
-<td><p>2009年<a href="../Page/5月27日.md" title="wikilink">5月27日</a></p></td>
+<td><p>2009年5月27日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Under_the_rain" title="wikilink">Under the rain</a></strong></p></td>
 <td><p>TOCT-40253</p></td>
 <td><p>29位</p></td>
 </tr>
 <tr class="odd">
 <td><p>19th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/7月21日.md" title="wikilink">7月21日</a></p></td>
+<td><p>2010年7月21日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/DEAR_FREEDOM" title="wikilink">DEAR FREEDOM</a></strong></p></td>
 <td><p>TOCT-45028</p></td>
 <td><p>19位</p></td>
 </tr>
 <tr class="even">
 <td><p>20th</p></td>
-<td><p>2010年<a href="../Page/9月22日.md" title="wikilink">9月22日</a></p></td>
+<td><p>2010年9月22日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ALMA_(ACIDMANの曲)" title="wikilink">ALMA</a></strong></p></td>
 <td><p>TOCT-45036</p></td>
 <td><p>18位</p></td>
 </tr>
 <tr class="odd">
 <td><p>21st</p></td>
-<td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/9月19日.md" title="wikilink">9月19日</a></p></td>
+<td><p>2012年9月19日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/アルケミスト_(ACIDMANの曲)" title="wikilink">アルケミスト</a></strong></p></td>
 <td><p>TOCT-45053</p></td>
 <td><p>15位</p></td>
 </tr>
 <tr class="even">
 <td><p>22nd</p></td>
-<td><p>2012年<a href="https://ja.wikipedia.org/wiki/12月19日" title="wikilink">12月19日</a></p></td>
+<td><p>2012年12月19日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/新世界_(ACIDMANの曲)" title="wikilink">新世界</a></strong></p></td>
 <td><p>TOCT-45059</p></td>
 <td><p>16位</p></td>
 </tr>
 <tr class="odd">
 <td><p>23rd</p></td>
-<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/4月16日.md" title="wikilink">4月16日</a></p></td>
+<td><p>2014年4月16日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/EVERLIGHT" title="wikilink">EVERLIGHT</a></strong></p></td>
 <td><p>TYCT-39022</p></td>
 <td><p>21位</p></td>
 </tr>
 <tr class="even">
 <td><p>24th</p></td>
-<td><p>2014年<a href="../Page/7月16日.md" title="wikilink">7月16日</a></p></td>
+<td><p>2014年7月16日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Stay_in_my_hand" title="wikilink">Stay in my hand</a></strong></p></td>
 <td><p>TYCT-39026</p></td>
 <td><p>27位</p></td>
 </tr>
 <tr class="odd">
 <td><p>25th</p></td>
-<td><p>2014年<a href="../Page/9月24日.md" title="wikilink">9月24日</a></p></td>
+<td><p>2014年9月24日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/世界が終わる夜" title="wikilink">世界が終わる夜</a></strong></p></td>
 <td><p>TYCT-39029</p></td>
 <td><p>20位</p></td>
 </tr>
 <tr class="even">
 <td><p>26th</p></td>
-<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a><a href="../Page/10月26日.md" title="wikilink">10月26日</a></p></td>
+<td><p>2016年10月26日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/最後の星" title="wikilink">最後の星</a></strong></p></td>
 <td><p>TYCT-39048</p></td>
 <td><p>39位</p></td>
 </tr>
 <tr class="odd">
 <td><p>27th</p></td>
-<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/2月8日.md" title="wikilink">2月8日</a></p></td>
+<td><p>2017年2月8日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/愛を両手に" title="wikilink">愛を両手に</a></strong></p></td>
 <td><p>TYCT-39049<br />
 TYCT-30063</p></td>
@@ -540,18 +540,18 @@ TYCT-30063</p></td>
 </tr>
 <tr class="even">
 <td><p>28th</p></td>
-<td><p>2017年<a href="../Page/7月26日.md" title="wikilink">7月26日</a></p></td>
+<td><p>2017年7月26日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ミレニアム_(ACIDMANの曲)" title="wikilink">ミレニアム</a></strong></p></td>
 <td><p>TYCT-39059</p></td>
 <td><p>32位</p></td>
 </tr>
 <tr class="odd">
 <td><p>28th</p></td>
-<td><p>2020年<a href="../Page/6月3日.md" title="wikilink">6月3日</a></p></td>
+<td><p>2020年6月3日</p></td>
 <td><p><strong><a href="../Page/灰色の街.md" title="wikilink">灰色の街</a></strong></p></td>
 <td><p>TYCT-39133<br />
 TYCT-30111/2</p></td>
-<td></td>
+<td><p>8位</p></td>
 </tr>
 </tbody>
 </table>
@@ -571,8 +571,8 @@ TYCT-30111/2</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/10月30日.md" title="wikilink">10月30日</a><br />
-<a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/4月16日.md" title="wikilink">4月16日</a></p></td>
+<td><p>2002年10月30日<br />
+2008年4月16日</p></td>
 <td><p><strong><a href="../Page/創_(アルバム).md" title="wikilink">創</a></strong></p></td>
 <td><p>TOCT-24830 (<a href="../Page/コピーコントロールCD.md" title="wikilink">CCCD</a>)<br />
 TOCT-26536 (<a href="../Page/CD-DA.md" title="wikilink">CD-DA</a>)</p></td>
@@ -580,7 +580,7 @@ TOCT-26536 (<a href="../Page/CD-DA.md" title="wikilink">CD-DA</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/8月6日.md" title="wikilink">8月6日</a><br />
+<td><p>2003年8月6日<br />
 2008年4月16日</p></td>
 <td><p><strong><a href="../Page/Loop_(アルバム).md" title="wikilink">Loop</a></strong></p></td>
 <td><p>TOCT-25084 (CCCD)<br />
@@ -589,7 +589,7 @@ TOCT-26537 (CD-DA)</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/9月15日.md" title="wikilink">9月15日</a><br />
+<td><p>2004年9月15日<br />
 2008年4月16日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/equal_(アルバム)" title="wikilink">equal</a></strong></p></td>
 <td><p>TOCT-25454 (CCCD)<br />
@@ -598,7 +598,7 @@ TOCT-26538 (CD-DA)</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/12月7日.md" title="wikilink">12月7日</a></p></td>
+<td><p>2005年12月7日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/and_world" title="wikilink">and world</a></strong></p></td>
 <td><p>TOCT-25866 (初回限定盤)<br />
 TOCT-25867 (通常盤)</p></td>
@@ -606,7 +606,7 @@ TOCT-25867 (通常盤)</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
-<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/2月7日.md" title="wikilink">2月7日</a></p></td>
+<td><p>2007年2月7日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/green_chord" title="wikilink">green chord</a></strong></p></td>
 <td><p>TOCT-26183 (初回限定盤)<br />
 TOCT-26184 (通常盤)</p></td>
@@ -614,7 +614,7 @@ TOCT-26184 (通常盤)</p></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/4月16日.md" title="wikilink">4月16日</a></p></td>
+<td><p>2008年4月16日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/LIFE_(ACIDMANのアルバム)" title="wikilink">LIFE</a></strong></p></td>
 <td><p>TOCT-26534 (初回限定盤)<br />
 TOCT-26535 (通常盤)</p></td>
@@ -622,21 +622,21 @@ TOCT-26535 (通常盤)</p></td>
 </tr>
 <tr class="odd">
 <td><p>7th</p></td>
-<td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/7月29日.md" title="wikilink">7月29日</a></p></td>
+<td><p>2009年7月29日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/A_beautiful_greed" title="wikilink">A beautiful greed</a></strong></p></td>
 <td><p>TOCT-26841</p></td>
 <td><p>4位</p></td>
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/12月1日.md" title="wikilink">12月1日</a></p></td>
+<td><p>2010年12月1日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ALMA_(アルバム)" title="wikilink">ALMA</a></strong></p></td>
 <td><p>TOCT-27005</p></td>
 <td><p>12位</p></td>
 </tr>
 <tr class="odd">
 <td><p>9th</p></td>
-<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/2月27日.md" title="wikilink">2月27日</a></p></td>
+<td><p>2013年2月27日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/新世界_(ACIDMANのアルバム)" title="wikilink">新世界</a></strong></p></td>
 <td><p>TOCT-29117 (初回限定版)<br />
 TOCT-29118 (通常盤)</p></td>
@@ -644,7 +644,7 @@ TOCT-29118 (通常盤)</p></td>
 </tr>
 <tr class="even">
 <td><p>10th</p></td>
-<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/11月19日.md" title="wikilink">11月19日</a></p></td>
+<td><p>2014年11月19日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/有と無" title="wikilink">有と無</a></strong></p></td>
 <td><p>TYCT-69075 (初回限定版)<br />
 TYCT-69076 (通常盤)</p></td>
@@ -652,7 +652,7 @@ TYCT-69076 (通常盤)</p></td>
 </tr>
 <tr class="odd">
 <td><p>11th</p></td>
-<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="https://ja.wikipedia.org/wiki/12月13日" title="wikilink">12月13日</a></p></td>
+<td><p>2017年12月13日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Λ_(アルバム)" title="wikilink">Λ</a></strong></p></td>
 <td><p>TYCT-69126 (初回限定版)<br />
 TYCT-60112 (通常盤)</p></td>
@@ -672,18 +672,18 @@ TYCT-60112 (通常盤)</p></td>
 
 |         | 発売日                                                                                       | タイトル                                                                                                                                                                            | 規格品番         | 順位  |
 | ------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --- |
-| 1st     | [2011年](../Page/2011年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")                  | **[Second line & Acoustic collection](https://ja.wikipedia.org/wiki/Second_line_&_Acoustic_collection "wikilink")**                                                             | TOCT-27093   | 6位  |
-| 2nd     | [2012年](../Page/2012年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")                    | **[ACIDMAN THE BEST](https://ja.wikipedia.org/wiki/ACIDMAN_THE_BEST "wikilink")**                                                                                               | TOCT-28085   | 12位 |
+| 1st     | 2011年9月28日                                                                                | **[Second line & Acoustic collection](https://ja.wikipedia.org/wiki/Second_line_&_Acoustic_collection "wikilink")**                                                             | TOCT-27093   | 6位  |
+| 2nd     | 2012年2月8日                                                                                 | **[ACIDMAN THE BEST](https://ja.wikipedia.org/wiki/ACIDMAN_THE_BEST "wikilink")**                                                                                               | TOCT-28085   | 12位 |
 | 3rd     | **[THIS IS INSTRUMENTAL](https://ja.wikipedia.org/wiki/THIS_IS_INSTRUMENTAL "wikilink")** | TOCT-28087                                                                                                                                                                      | 87位          |     |
-| 4th     | [2015年](../Page/2015年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")                | **[Second line & Acoustic collection II](https://ja.wikipedia.org/wiki/Second_line_&_Acoustic_collection_II "wikilink")**                                                       | TYCT-69089   | 19位 |
-| **5th** | [2016年](../Page/2016年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")                | **[ACIDMAN 20th Anniversary Fans' Best Selection Album "Your Song"](https://ja.wikipedia.org/wiki/ACIDMAN_20th_Anniversary_Fans'_Best_Selection_Album_"Your_Song" "wikilink")** | TYCT-69106/7 | 18位 |
+| 4th     | 2015年11月18日                                                                               | **[Second line & Acoustic collection II](https://ja.wikipedia.org/wiki/Second_line_&_Acoustic_collection_II "wikilink")**                                                       | TYCT-69089   | 19位 |
+| **5th** | 2016年10月26日                                                                               | **[ACIDMAN 20th Anniversary Fans' Best Selection Album "Your Song"](https://ja.wikipedia.org/wiki/ACIDMAN_20th_Anniversary_Fans'_Best_Selection_Album_"Your_Song" "wikilink")** | TYCT-69106/7 | 18位 |
 
 #### ライブアルバム
 
-|     | 発売日                                                                    | タイトル                                                                                                                                      | 規格品番       | 順位  |
-| --- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --- |
-| 1st | [2012年](../Page/2012年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink") | **[Second line & Acoustic live at 渋谷公会堂20111013](https://ja.wikipedia.org/wiki/Second_line_&_Acoustic_live_at_渋谷公会堂20111013 "wikilink")** | TOCT-28089 | 70位 |
-|     |                                                                        |                                                                                                                                           |            |     |
+|     | 発売日       | タイトル                                                                                                                                      | 規格品番       | 順位  |
+| --- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --- |
+| 1st | 2012年2月8日 | **[Second line & Acoustic live at 渋谷公会堂20111013](https://ja.wikipedia.org/wiki/Second_line_&_Acoustic_live_at_渋谷公会堂20111013 "wikilink")** | TOCT-28089 | 70位 |
+|     |           |                                                                                                                                           |            |     |
 
 #### 参加作品
 
@@ -698,80 +698,80 @@ TYCT-60112 (通常盤)</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/4月23日.md" title="wikilink">4月23日</a></p></td>
+<td><p>2003年4月23日</p></td>
 <td><p><strong>31HITS 〜THE GOLD DISC AWARD 2003〜</strong></p></td>
 <td><p>赤橙</p></td>
 <td><p>AVCD-17297</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a>4月23日</p></td>
+<td><p>2004年4月23日</p></td>
 <td><p><strong>OUR LAST DAY</strong></p></td>
 <td><p>水写</p></td>
 <td><p>TOCT-25301〜2</p></td>
 </tr>
 <tr class="odd">
-<td><p>2004年<a href="../Page/7月28日.md" title="wikilink">7月28日</a></p></td>
+<td><p>2004年7月28日</p></td>
 <td><p><strong><a href="../Page/MOSH_PIT_ON_DISNEY.md" title="wikilink">MOSH PIT ON DISNEY</a></strong></p></td>
 <td><p>colors of the wind</p></td>
 <td><p>AVCW-12387</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/9月27日" title="wikilink">9月27日</a></p></td>
+<td><p>2006年9月27日</p></td>
 <td><p><strong>Swirl of lights</strong> / <a href="https://ja.wikipedia.org/wiki/endive" title="wikilink">endive</a></p></td>
 <td><p>Somewhat like the senses feat. O-ki from ACIDMAN[7]</p></td>
 <td><p>VICL-62094</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/1月28日.md" title="wikilink">1月28日</a></p></td>
+<td><p>2009年1月28日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ROCK_THE_MIX" title="wikilink">ROCK THE MIX</a></strong></p></td>
 <td><p>FREE STAR</p></td>
 <td><p>VICL-63220</p></td>
 </tr>
 <tr class="even">
-<td><p>2009年<a href="../Page/4月8日.md" title="wikilink">4月8日</a></p></td>
+<td><p>2009年4月8日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/AGGRESSIVE_DOGS_a.k.a_UZI-ONE" title="wikilink">AGGRESSIVE DOGS</a> TRIBUTE ALBUM 〜真我〜</strong></p></td>
 <td><p>紫電一閃</p></td>
 <td><p>DFCL-1560</p></td>
 </tr>
 <tr class="odd">
-<td><p>2009年<a href="../Page/10月7日.md" title="wikilink">10月7日</a></p></td>
+<td><p>2009年10月7日</p></td>
 <td><p><strong>HELLO! <a href="https://ja.wikipedia.org/wiki/LOW_IQ_01" title="wikilink">LOW IQ 01</a></strong></p></td>
 <td><p>Distance</p></td>
 <td><p>CTCR-14646</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a>7月28日</p></td>
+<td><p>2010年7月28日</p></td>
 <td><p><strong>ROCK STITCH</strong></p></td>
 <td><p>Can't Help Falling In Love</p></td>
 <td><p>AVCW-12789</p></td>
 </tr>
 <tr class="odd">
-<td><p>2010年<a href="../Page/8月4日.md" title="wikilink">8月4日</a></p></td>
+<td><p>2010年8月4日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/VERSUS._&quot;JAPANESE_ROCK_VS_FPM&quot;" title="wikilink">VERSUS. "JAPANESE ROCK VS FPM"</a></strong></p></td>
 <td><p>赤橙</p></td>
 <td><p>AVCD-38079</p></td>
 </tr>
 <tr class="even">
-<td><p>2010年<a href="../Page/11月10日.md" title="wikilink">11月10日</a></p></td>
+<td><p>2010年11月10日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/EMI_(曲)" title="wikilink">EMI</a></strong> / 寺子屋[8]</p></td>
 <td><p>EMI</p></td>
 <td><p><a href="../Page/音楽配信.md" title="wikilink">配信限定</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/11月30日.md" title="wikilink">11月30日</a></p></td>
+<td><p>2011年11月30日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/SPECIAL_OTHERS_(アルバム)" title="wikilink">SPECIAL OTHERS</a></strong> / <a href="../Page/SPECIAL_OTHERS.md" title="wikilink">SPECIAL OTHERS</a></p></td>
 <td><p>あの国まで[9]</p></td>
 <td><p>VIZL-440<br />
 VICL-63795</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/5月23日.md" title="wikilink">5月23日</a></p></td>
+<td><p>2012年5月23日</p></td>
 <td><p><strong>ROCK ON ROCK</strong></p></td>
 <td><p>world symphony</p></td>
 <td><p>TOCT-28098</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/3月22日.md" title="wikilink">3月22日</a></p></td>
+<td><p>2013年3月22日</p></td>
 <td><p><strong>immortality</strong></p></td>
 <td><p>ストロマトライト (DEVILOCK NIGHT THE FINAL live version)</p></td>
 <td><p>TRCP-110<br />
@@ -780,25 +780,25 @@ TRCP-112<br />
 TRCP-113</p></td>
 </tr>
 <tr class="even">
-<td><p>2013年<a href="../Page/7月31日.md" title="wikilink">7月31日</a></p></td>
+<td><p>2013年7月31日</p></td>
 <td><p><strong>ROCK ON PARADE</strong></p></td>
 <td><p>CARVE WITH THE SENSE</p></td>
 <td><p>TOCT-29183</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/1月29日.md" title="wikilink">1月29日</a></p></td>
+<td><p>2014年1月29日</p></td>
 <td><p><strong>Yes, We Love butchers 〜Tribute to <a href="https://ja.wikipedia.org/wiki/bloodthirsty_butchers" title="wikilink">bloodthirsty butchers</a>〜 Abandoned Puppy</strong></p></td>
 <td><p>襟がゆれてる。</p></td>
 <td><p>CRCP-40357</p></td>
 </tr>
 <tr class="even">
-<td><p>2014年<a href="../Page/6月11日.md" title="wikilink">6月11日</a></p></td>
+<td><p>2014年6月11日</p></td>
 <td><p><strong>The Broccasion -music inspired by <a href="../Page/BACK_DROP_BOMB.md" title="wikilink">BACK DROP BOMB</a>-</strong></p></td>
 <td><p>NEVER SEEM TO LAST</p></td>
 <td><p>CTCR-14827</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/7月29日.md" title="wikilink">7月29日</a></p></td>
+<td><p>2015年7月29日</p></td>
 <td><p><strong>ROCK IN DISNEY</strong></p></td>
 <td><p>Can't Help Falling In Love</p></td>
 <td><p>AVCW-63080</p></td>
@@ -816,20 +816,20 @@ TRCP-113</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/10月18日.md" title="wikilink">10月18日</a></p></td>
+<td><p>2017年10月18日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/PAUSE_〜STRAIGHTENER_Tribute_Album〜" title="wikilink">PAUSE 〜STRAIGHTENER Tribute Album〜</a></strong></p></td>
 <td><p>SIX DAY WONDER</p></td>
 <td><p>TYCT-69121<br />
 TYCT-60109</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/3月13日.md" title="wikilink">3月13日</a></p></td>
+<td><p>2019年3月13日</p></td>
 <td><p><strong><a href="../Page/東京スカパラダイスオーケストラ.md" title="wikilink">東京スカパラダイスオーケストラ</a>トリビュート集 楽園十三景</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/追憶のライラック" title="wikilink">追憶のライラック</a></p></td>
 <td><p>CTCR-14956</p></td>
 </tr>
 <tr class="even">
-<td><p>2019年<a href="../Page/11月27日.md" title="wikilink">11月27日</a></p></td>
+<td><p>2019年11月27日</p></td>
 <td><p><strong><a href="../Page/井上陽水トリビュート.md" title="wikilink">井上陽水トリビュート</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/傘がない" title="wikilink">傘がない</a></p></td>
 <td><p>UPCH-2198</p></td>
@@ -1050,6 +1050,7 @@ TYXT-19008/9 (BD版)</p></td>
 | DEAR FREEDOM   | ソニー・エリクソン・モバイルコミュニケーション「XPERIA」CMソング                                            |
 | ±0             | 「カウンターストライクオンライン」CMソング                                                          |
 | 世界が終わる夜        | TBSテレビ系「スーパーサッカー」エンディングテーマ                                                      |
+| Rebirth        | テレビアニメ『[あひるの空](../Page/あひるの空.md "wikilink")』オープニングテーマ                           |
 
 ## Cinema
 
@@ -1878,7 +1879,7 @@ TYXT-19008/9 (BD版)</p></td>
 **浦山一悟**
 
   -
-[Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:ミクスチャー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ミクスチャー・ロック・バンド "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:パワー・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:パワー・ポップ・バンド "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:1997年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に結成した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:明治薬科大学出身の人物](https://ja.wikipedia.org/wiki/Category:明治薬科大学出身の人物 "wikilink") [Category:駒澤大学出身の人物](https://ja.wikipedia.org/wiki/Category:駒澤大学出身の人物 "wikilink") [Category:東京海洋大学出身の人物](https://ja.wikipedia.org/wiki/Category:東京海洋大学出身の人物 "wikilink") [Category:埼玉県出身の人物](https://ja.wikipedia.org/wiki/Category:埼玉県出身の人物 "wikilink")
+[Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:ミクスチャー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ミクスチャー・ロック・バンド "wikilink") [Category:日本のポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のポップ・ロック・バンド "wikilink") [Category:パワー・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:パワー・ポップ・バンド "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:1997年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に結成した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:明治薬科大学出身の人物](https://ja.wikipedia.org/wiki/Category:明治薬科大学出身の人物 "wikilink") [Category:駒澤大学出身の人物](https://ja.wikipedia.org/wiki/Category:駒澤大学出身の人物 "wikilink") [Category:東京海洋大学出身の人物](https://ja.wikipedia.org/wiki/Category:東京海洋大学出身の人物 "wikilink") [Category:埼玉県出身の人物](https://ja.wikipedia.org/wiki/Category:埼玉県出身の人物 "wikilink")
 
 1.  「ROCKIN'ON JAPAN」2003年9月号
 2.  [Yahoo\!ミュージック](http://music.yahoo.co.jp/shop/c/10/toct26184)

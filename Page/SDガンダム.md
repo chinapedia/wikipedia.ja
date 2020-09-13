@@ -197,7 +197,7 @@ SD誕生において、横井は漫画家　成井紀郎、江口寿史、鳥山
   - 「[新武者ガンダム 七人の超将軍](../Page/新SD戦国伝_七人の超将軍編.md "wikilink")」 神田正宏 全2巻
   - 「[新武者ガンダム 超機動大将軍](../Page/新SD戦国伝_超機動大将軍.md "wikilink")」 神田正宏 全3巻
   - 「[超武者ガンダム 武神輝羅鋼](../Page/超SD戦国伝_武神輝羅鋼.md "wikilink")」 神田正宏 全2巻
-  - 「[超武者ガンダム 刕覇大将軍](../Page/超SD戦国伝_刀覇大将軍.md "wikilink")」 神田正宏 全2巻
+  - 「[超武者ガンダム 刕覇大将軍](../Page/超SD戦国伝_刕覇大将軍.md "wikilink")」 神田正宏 全2巻
       - 「[大時空SD戦国伝](https://ja.wikipedia.org/wiki/大時空SD戦国伝 "wikilink")」やまと虹一
   - 「[新武者頑駄無 天星七人衆](https://ja.wikipedia.org/wiki/新武者頑駄無_天星七人衆 "wikilink")」 神田正宏 全2巻
   - 「[新武者ガンダム ムシャ戦記 光の変幻編](https://ja.wikipedia.org/wiki/新武者ガンダム_ムシャ戦記_光の変幻編 "wikilink")」 神田正宏 全2巻

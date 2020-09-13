@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2001年](../Page/2001年.md "wikilink")にJリーグ加盟\[1\]。運営会社は株式会社横浜フリエスポーツクラブ\[2\]、ホームスタジアムは[ニッパツ三ツ沢球技場](../Page/三ツ沢公園球技場.md "wikilink")\[3\]、練習場は[横浜FC LEOCトレーニングセンターである](../Page/横浜FC_LEOCトレーニングセンター.md "wikilink")\[4\]（詳細は[\#スタジアム・練習場他](https://ja.wikipedia.org/wiki/#スタジアム・練習場他 "wikilink")を参照）。
+[2001年](../Page/2001年.md "wikilink")にJリーグ加盟\[1\]。運営会社は**株式会社横浜フリエスポーツクラブ**\[2\]、ホームスタジアムは[ニッパツ三ツ沢球技場](../Page/三ツ沢公園球技場.md "wikilink")\[3\]、練習場は[横浜FC LEOCトレーニングセンターである](../Page/横浜FC_LEOCトレーニングセンター.md "wikilink")\[4\]（詳細は[\#スタジアム・練習場他](https://ja.wikipedia.org/wiki/#スタジアム・練習場他 "wikilink")を参照）。
 
 クラブマスコットは「[宇宙人](../Page/宇宙人.md "wikilink")」をモチーフとした**[フリ丸](https://ja.wikipedia.org/wiki/フリ丸 "wikilink")**\[5\] で、創設10周年に当る[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")12月に名称を公募し\[6\]、2009年1月の新体制発表記者会見で名前が発表された。
 
@@ -15,7 +15,7 @@
 
   - 1999年
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")シーズンを以て[横浜フリューゲルス](../Page/横浜フリューゲルス.md "wikilink")（横浜F）が[横浜マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")（横浜M）に吸収合併されることが決定したことを受けて、横浜フリューゲルスのサポーター有志によって横浜FCの運営会社となる株式会社横浜フリエスポーツクラブ（横浜フリエSC）が12月25日に設立された\[7\]。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")シーズンを以て[横浜フリューゲルス](../Page/横浜フリューゲルス.md "wikilink")（横浜F）が[横浜マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")（横浜M）に吸収合併されることが決定したことを受けて、横浜フリューゲルスのサポーター有志によって横浜FCの運営会社となる**株式会社横浜フリエスポーツクラブ**（横浜フリエSC）が12月25日に設立された\[7\]。
 
 1999年3月、[日本サッカー協会](../Page/日本サッカー協会.md "wikilink")により[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")（JFL）に準会員での加盟が承認された\[8\]
 
@@ -82,7 +82,7 @@
 
 J1開幕戦は[浦和に](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")1-2で敗北。第2節で横浜FMに1-0で勝利し、J1初勝利および[横浜ダービー](../Page/横浜ダービー.md "wikilink")の初対戦初勝利を挙げたが、その後は低迷。[平本一樹](../Page/平本一樹.md "wikilink")、[山田卓也](../Page/山田卓也.md "wikilink")などをシーズン途中に獲得するが、前半戦は最下位。
 
-後半戦初戦の第19節（8月11日）の横浜FM戦で1-8で大敗。8月27日に高木が解任され、[ジュリオ・レアルが監督に就任したが](../Page/ジュリオ・セザール・レアル・ジュニオール.md "wikilink")、10月20日の神戸戦に敗れ、J2降格が決定した。最終節で浦和の優勝を阻止したが、最終順位は最下位。ナビスコカップはグループリーグ敗退、天皇杯は5回戦で愛媛に敗北した。シーズン終了後にジュリオ・レアルが監督を退任した。
+後半戦初戦の第19節（8月11日）の横浜ダービーで1-8で大敗。8月27日に高木が解任され、[ジュリオ・レアルが監督に就任したが](../Page/ジュリオ・セザール・レアル・ジュニオール.md "wikilink")、10月20日の神戸戦に敗れ、J2降格が決定した。最終節で浦和の優勝を阻止したが、最終順位は最下位。[ナビスコカップはグループリーグ敗退](../Page/2007年のJリーグカップ.md "wikilink")、[天皇杯は](https://ja.wikipedia.org/wiki/天皇杯全日本サッカー選手権大会 "wikilink")5回戦で[愛媛に敗北した](https://ja.wikipedia.org/wiki/愛媛FC "wikilink")。シーズン終了後にジュリオ・レアルが監督を退任した。
 
 ### 2008年 - 2019年（J2）
 
@@ -96,7 +96,7 @@ J1開幕戦は[浦和に](https://ja.wikipedia.org/wiki/浦和レッドダイヤ
   - 2009年
     キャッチフレーズ：「**これからのサッカーが、ここにある**」
 
-[山形や](https://ja.wikipedia.org/wiki/モンテディオ山形 "wikilink")[大宮で監督を務めた](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")[樋口靖洋](../Page/樋口靖洋.md "wikilink")が2年契約で監督に就任。前年度チーム得点王の16ゴールを挙げたアンデルソン、[山田卓也](../Page/山田卓也.md "wikilink")、[滝澤邦彦](../Page/滝澤邦彦.md "wikilink")、[チョ・ヨンチョル](https://ja.wikipedia.org/wiki/曹永哲 "wikilink")、[太田宏介](https://ja.wikipedia.org/wiki/太田宏介 "wikilink")、昨年大宮にレンタル移籍していた[内田智也](../Page/内田智也.md "wikilink")らが完全移籍で退団した一方、[千葉に期限付き移籍していた](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")[早川知伸](../Page/早川知伸.md "wikilink")が復帰、韓国から[劉孝眞](https://ja.wikipedia.org/wiki/劉孝眞 "wikilink")、[名古屋から](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink")[片山奨典](../Page/片山奨典.md "wikilink")、大宮から[田中輝和](../Page/田中輝和.md "wikilink")が加入し、またレンタル移籍だった[戸川健太](../Page/戸川健太.md "wikilink")・[須藤右介](../Page/須藤右介.md "wikilink")は完全移籍となり、難波宏明と並びチーム2位の7得点を決めた[池元友樹](../Page/池元友樹.md "wikilink")もレンタル移籍期間延長となった。さらに4月には2006年から2007年7月まで在籍していた[鄭容臺](../Page/鄭容臺.md "wikilink")が約2年ぶりに復帰した。
+[山形や](https://ja.wikipedia.org/wiki/モンテディオ山形 "wikilink")[大宮で監督を務めた](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")[樋口靖洋](../Page/樋口靖洋.md "wikilink")が2年契約で監督に就任。前年度チーム得点王の16ゴールを挙げたアンデルソン、[山田卓也](../Page/山田卓也.md "wikilink")、[滝澤邦彦](../Page/滝澤邦彦.md "wikilink")、[チョ・ヨンチョル](https://ja.wikipedia.org/wiki/曺永哲 "wikilink")、[太田宏介](https://ja.wikipedia.org/wiki/太田宏介 "wikilink")、昨年大宮にレンタル移籍していた[内田智也](../Page/内田智也.md "wikilink")らが完全移籍で退団した一方、[千葉に期限付き移籍していた](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")[早川知伸](../Page/早川知伸.md "wikilink")が復帰、韓国から[劉孝眞](https://ja.wikipedia.org/wiki/劉孝眞 "wikilink")、[名古屋から](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink")[片山奨典](../Page/片山奨典.md "wikilink")、大宮から[田中輝和](../Page/田中輝和.md "wikilink")が加入し、またレンタル移籍だった[戸川健太](../Page/戸川健太.md "wikilink")・[須藤右介](../Page/須藤右介.md "wikilink")は完全移籍となり、難波宏明と並びチーム2位の7得点を決めた[池元友樹](../Page/池元友樹.md "wikilink")もレンタル移籍期間延長となった。さらに4月には2006年から2007年7月まで在籍していた[鄭容臺](../Page/鄭容臺.md "wikilink")が約2年ぶりに復帰した。
 
 リーグ戦は開幕から8試合勝利なし（3分5敗）。第9節（水戸戦）で初勝利したが、第10節から8試合勝ちなし（1分7敗）。結局、リーグ戦は16位に終わった。天皇杯は3回戦で敗退。なお、シーズン終了後に個人の都合\[11\] により樋口との2年契約を1年で打切った\[12\]。
 
@@ -135,7 +135,7 @@ J1開幕戦は[浦和に](https://ja.wikipedia.org/wiki/浦和レッドダイヤ
 
 山口体制3年目。ユースから[高丘陽平](https://ja.wikipedia.org/wiki/高丘陽平 "wikilink")と[石井圭太](https://ja.wikipedia.org/wiki/石井圭太 "wikilink")が昇格。[熊本から](https://ja.wikipedia.org/wiki/ロアッソ熊本 "wikilink")[南雄太](../Page/南雄太.md "wikilink")、東京Vから[小池純輝](../Page/小池純輝.md "wikilink")と[飯尾一慶](../Page/飯尾一慶.md "wikilink")を獲得。[ホナウドをジョインヴィレから](https://ja.wikipedia.org/wiki/ホナウド・エンリケ・シウヴァ "wikilink")、[ドウグラスをフィゲイエンセから完全移籍で獲得した](https://ja.wikipedia.org/wiki/ドウグラス・マルケス・ドス・サントス "wikilink")。また、[フェリペも完全移籍で獲得](https://ja.wikipedia.org/wiki/フェリペ・デ・オリヴェイラ・バロス "wikilink")。[永田拓也](https://ja.wikipedia.org/wiki/永田拓也 "wikilink")を[浦和](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")、[松下年宏](../Page/松下年宏.md "wikilink")を仙台からそれぞれ完全移籍で獲得した。[安英学](../Page/安英学.md "wikilink")を自由契約から獲得し、[野村直輝](https://ja.wikipedia.org/wiki/野村直輝 "wikilink")を日本経済大学から新加入した。また、[朴成鎬](https://ja.wikipedia.org/wiki/朴成鎬 "wikilink")も[浦項から完全移籍で獲得した](https://ja.wikipedia.org/wiki/浦項スティーラーズ "wikilink")。
 
-一方、放出選手は、[森本良](https://ja.wikipedia.org/wiki/森本良 "wikilink")を[相模原](../Page/SC相模原.md "wikilink")、[井手口正昭](https://ja.wikipedia.org/wiki/井手口正昭 "wikilink")を[横浜FC香港](https://ja.wikipedia.org/wiki/夢想駿其足球會 "wikilink")、[中里崇宏](https://ja.wikipedia.org/wiki/中里崇宏 "wikilink")を水戸、[大久保哲哉](../Page/大久保哲哉.md "wikilink")が栃木SCへ、[青木翔大](https://ja.wikipedia.org/wiki/青木翔大 "wikilink")が[琉球へそれぞれレンタル移籍した](../Page/FC琉球.md "wikilink")。その他、[永井雄一郎](../Page/永井雄一郎.md "wikilink")が契約満了で退団し、[柴崎貴広](../Page/柴崎貴広.md "wikilink")が東京V、パトリックがパルメイラスでそれぞれレンタル期間終了で退団。また、[森下俊](../Page/森下俊.md "wikilink")は、レンタル期間終了後、所属元の[川崎から](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")[磐田へ移籍](../Page/ジュビロ磐田.md "wikilink")。その他、完全移籍組は、[シュナイダー潤之介](../Page/シュナイダー潤之介.md "wikilink")を[奈良クラブ](https://ja.wikipedia.org/wiki/奈良クラブ "wikilink")、[ペ・スンジン](https://ja.wikipedia.org/wiki/ペ・スンジン "wikilink")を韓国の[仁川](https://ja.wikipedia.org/wiki/仁川ユナイテッド "wikilink")、[高地系治](../Page/高地系治.md "wikilink")を岐阜、[武岡優斗](https://ja.wikipedia.org/wiki/武岡優斗 "wikilink")を川崎、[田原豊](../Page/田原豊.md "wikilink")がタイの[サムットソンクラームFC](https://ja.wikipedia.org/wiki/サムットソンクラームFC "wikilink")へ移籍した。
+一方、放出選手は、[森本良](https://ja.wikipedia.org/wiki/森本良 "wikilink")を[相模原](../Page/SC相模原.md "wikilink")、[井手口正昭](https://ja.wikipedia.org/wiki/井手口正昭 "wikilink")を[横浜FC香港](https://ja.wikipedia.org/wiki/夢想駿其足球會 "wikilink")、[中里崇宏](https://ja.wikipedia.org/wiki/中里崇宏 "wikilink")を水戸、[大久保哲哉](../Page/大久保哲哉.md "wikilink")が栃木SCへ、[青木翔大](https://ja.wikipedia.org/wiki/青木翔大 "wikilink")が[琉球へそれぞれレンタル移籍した](../Page/FC琉球.md "wikilink")。その他、[永井雄一郎](../Page/永井雄一郎.md "wikilink")が契約満了で退団し、[柴崎貴広](../Page/柴崎貴広.md "wikilink")が東京V、パトリックがパルメイラスでそれぞれレンタル期間終了で退団。また、[森下俊](../Page/森下俊.md "wikilink")は、レンタル期間終了後、所属元の[川崎から](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")[磐田へ移籍](../Page/ジュビロ磐田.md "wikilink")。その他、完全移籍組は、[シュナイダー潤之介](../Page/シュナイダー潤之介.md "wikilink")を[奈良クラブ](https://ja.wikipedia.org/wiki/奈良クラブ "wikilink")、ペ・スンジンを韓国の[仁川](https://ja.wikipedia.org/wiki/仁川ユナイテッド "wikilink")、[高地系治](../Page/高地系治.md "wikilink")を岐阜、[武岡優斗](https://ja.wikipedia.org/wiki/武岡優斗 "wikilink")を川崎、[田原豊](../Page/田原豊.md "wikilink")がタイの[サムットソンクラームFC](https://ja.wikipedia.org/wiki/サムットソンクラームFC "wikilink")へ移籍した。
 
 開幕から4試合連続無敗で4位に浮上するものの、その後は5試合連続未勝利で18位まで順位を下げた。5試合連続未勝利の直後の第10節のアウェーの[讃岐に勝利した後](../Page/カマタマーレ讃岐.md "wikilink")、第11節から再び5試合連続未勝利（4連敗と1分）で15節終了後には20位へ転落した。その後巻き返して、第18節から15試合連続負けなしで8位に上昇し、第4節以来およそ17節ぶりに1桁順位となった。しかし、その直後の第32節の長崎に敗れ、そこから、再び5試合連続未勝利。13位へ後退した。第40節の[岡山との対戦で](../Page/ファジアーノ岡山FC.md "wikilink")0-2で敗れて、プレーオフ進出の可能性が消滅（7位以下が確定）。最終順位は昨年(2013年)と同じく11位で終了。シーズン終了後、山口が契約満了で2015年の契約を更新しないこととなった。11月27日にスタッフの鄭容臺、芝田貴臣、中村亮太、12月1日には[西嶋弘之](../Page/西嶋弘之.md "wikilink")の契約満了を発表した。天皇杯では初戦で[富山に敗れた](../Page/カターレ富山.md "wikilink")。
 
@@ -161,26 +161,35 @@ J1開幕戦は[浦和に](https://ja.wikipedia.org/wiki/浦和レッドダイヤ
 10月、37節の時点でJ1自動昇格圏外の順位に低迷していることを理由に中田を解任。スポーツダイレクターを務める[奥寺康彦](../Page/奥寺康彦.md "wikilink")が代行監督を務めた後、同月24日に[ハイチ代表などを務めた](../Page/サッカーハイチ代表.md "wikilink")[エジソン・アラウージョ・タヴァレス](https://ja.wikipedia.org/wiki/エジソン・アラウージョ・タヴァレス "wikilink")が監督に就任した。シーズン終盤までJ1昇格プレーオフ進出の可能性があったが、41節[岡山に引き分けたことによりに](../Page/ファジアーノ岡山FC.md "wikilink")6位の可能性が消滅しプレーオフ進出は無くなった。最終順位は10位、天皇杯は[金沢に敗れ](https://ja.wikipedia.org/wiki/ツエーゲン金沢 "wikilink")2回戦敗退。
 
   - 2018年
+    キャッチフレーズ：「**BE BRAVE-勇敢たれ**」
 
-11月4日（日）の大分トリニータ戦で、Jリーグ初となる保護犬猫の譲渡会を開催。\[16\]。
+タヴァレス体制2年目。[小宮山尊信](../Page/小宮山尊信.md "wikilink")が現役を引退した他、大久保哲哉、津田知宏、野崎陽介、寺田紳一らが退団。西河翔悟、前嶋洋太が期限付き移籍し、神戸から期限付き移籍加入していた[増山朝陽](https://ja.wikipedia.org/wiki/増山朝陽 "wikilink")は移籍期間満了により復帰した。一方で元日本代表の[松井大輔](../Page/松井大輔.md "wikilink")、2013年ぶり3度目の加入となる[ぺ・スンジンを始めに](../Page/裴乗振.md "wikilink")[北爪健吾](https://ja.wikipedia.org/wiki/北爪健吾 "wikilink")、[渡邊一仁](https://ja.wikipedia.org/wiki/渡邊一仁 "wikilink")、[武田英二郎](https://ja.wikipedia.org/wiki/武田英二郎 "wikilink")らが新たに完全移籍で加入し、新人として[立花歩夢](https://ja.wikipedia.org/wiki/立花歩夢 "wikilink")が加入した。
 
-**2019年**
+シーズン途中にはナ・ソンスを完全移籍で、[高丘陽平](https://ja.wikipedia.org/wiki/高丘陽平 "wikilink")ら4選手を期限付き移籍で放出し、[瀬沼優司](https://ja.wikipedia.org/wiki/瀬沼優司 "wikilink")が完全移籍で、[ブルーノ・メネゲウ](https://ja.wikipedia.org/wiki/ブルーノ・レボリ・メネゲウ "wikilink")、[田代真一](../Page/田代真一.md "wikilink")、[辻周吾](https://ja.wikipedia.org/wiki/辻周吾 "wikilink")が期限付き移籍で加入した。
 
-キャッチフレーズ：「**FOREVER EVOLVING ～全ては勝利のために～」**
+前半戦を[J1参入プレーオフ](https://ja.wikipedia.org/wiki/J1参入プレーオフ "wikilink")圏内の6位で折り返すと、その後も昇格争いを繰り広げた。J2優勝の可能性も残して迎えた最終節では甲府相手に勝利を収めるも、他会場の結果により2位・[大分とは勝ち点差無しの](https://ja.wikipedia.org/wiki/大分トリニータ "wikilink")3位に終わった。
 
-タヴァレス体制2年目。[ジュビロ磐田](../Page/ジュビロ磐田.md "wikilink")から[松浦拓弥](../Page/松浦拓弥.md "wikilink")、[V・ファーレン長崎](https://ja.wikipedia.org/wiki/V・ファーレン長崎 "wikilink")から[乾大知](https://ja.wikipedia.org/wiki/乾大知 "wikilink")、[栃木SC](../Page/栃木SC.md "wikilink")から[竹重安希彦](https://ja.wikipedia.org/wiki/竹重安希彦 "wikilink")、[ヴィッセル神戸](../Page/ヴィッセル神戸.md "wikilink")から[伊野波雅彦](../Page/伊野波雅彦.md "wikilink")を獲得。ルーキーとしては、[阪南大から](https://ja.wikipedia.org/wiki/阪南大学サッカー部 "wikilink")[草野侑己](https://ja.wikipedia.org/wiki/草野侑己 "wikilink")、[明治大から](../Page/明治大学.md "wikilink")[袴田裕太郎](https://ja.wikipedia.org/wiki/袴田裕太郎 "wikilink")、[専修大から](../Page/専修大学.md "wikilink")[中山克広](https://ja.wikipedia.org/wiki/中山克広 "wikilink")が、横浜FCユースから[安永玲央](https://ja.wikipedia.org/wiki/安永玲央 "wikilink")、[大内一生](https://ja.wikipedia.org/wiki/大内一生 "wikilink")が加入した。また、2018シーズン期限付きで移籍していた選手については、V・ファーレン長崎から[田代真一](../Page/田代真一.md "wikilink")を、サガン鳥栖から[辻周吾](https://ja.wikipedia.org/wiki/辻周吾 "wikilink")を完全移籍で獲得した。
+2回戦からの出場となった参入プレーオフでは6位の[東京Vと対戦](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink")。レギュレーション上引き分けでも決定戦突破となる中で試合終盤までスコアレスで迎えたが、後半アディショナルタイムに失点。2回戦敗退となりJ1昇格は果たせなかった。
 
-一方で、ジェフユナイテッド千葉から加入していた[山本海人](../Page/山本海人.md "wikilink")、アルビレックス新潟から加入していた[ブルーノ・メネゲウはレンタル満了となった](https://ja.wikipedia.org/wiki/ブルーノ・レボリ・メネゲウ "wikilink")。
+  - 2019年
+    キャッチフレーズ：「**FOREVER EVOLVING ～全ては勝利のために～**」
 
-レンタル中の高丘陽平(鳥栖)、西河翔吾([琉球](../Page/FC琉球.md "wikilink"))、中山雄希(沼津)、[鄭充根](https://ja.wikipedia.org/wiki/鄭充根 "wikilink")([町田](https://ja.wikipedia.org/wiki/FC町田ゼルビア "wikilink"))が完全移籍。渡邉将基([FELDAユナイテッドFC](https://ja.wikipedia.org/wiki/FELDAユナイテッドFC "wikilink")・マレーシア)、野村直輝(徳島)、[裵乗振](../Page/裴乗振.md "wikilink")([慶南FC](../Page/慶南FC.md "wikilink")・大韓民国)、新井純平(琉球)、永田拓也(東京ヴェルディ)、石井圭太(盛岡)がそれぞれ完全移籍した。
+タヴァレス体制3年目。[松浦拓弥](../Page/松浦拓弥.md "wikilink")、[乾大知](https://ja.wikipedia.org/wiki/乾大知 "wikilink")、[竹重安希彦](https://ja.wikipedia.org/wiki/竹重安希彦 "wikilink")、[伊野波雅彦](../Page/伊野波雅彦.md "wikilink")らが移籍加入した他、[草野侑己](https://ja.wikipedia.org/wiki/草野侑己 "wikilink")、[袴田裕太郎](https://ja.wikipedia.org/wiki/袴田裕太郎 "wikilink")、[中山克広](https://ja.wikipedia.org/wiki/中山克広 "wikilink")が新人として加入、横浜FCユースから[安永玲央](https://ja.wikipedia.org/wiki/安永玲央 "wikilink")、[大内一生](https://ja.wikipedia.org/wiki/大内一生 "wikilink")が昇格した。また、前年に期限付き移籍で加入していた田代真一、辻周吾が完全移籍となった。一方で[山本海人](../Page/山本海人.md "wikilink")、ブルーノ・メネゲウは移籍期間満了となり退団した。
 
-また、柏レイソルから[下平隆宏](../Page/下平隆宏.md "wikilink")をヘッドコーチとして招聘した。
+期限付き移籍中の高丘陽平(鳥栖)、西河翔吾([琉球](../Page/FC琉球.md "wikilink"))、中山雄希(沼津)、[鄭充根](https://ja.wikipedia.org/wiki/鄭充根 "wikilink")([町田](https://ja.wikipedia.org/wiki/FC町田ゼルビア "wikilink"))が完全移籍。渡邉将基([FELDAユナイテッドFC](https://ja.wikipedia.org/wiki/FELDAユナイテッドFC "wikilink")・マレーシア)、野村直輝(徳島)、[裵乗振](../Page/裴乗振.md "wikilink")([慶南FC](../Page/慶南FC.md "wikilink")・大韓民国)、新井純平(琉球)、永田拓也(東京V)、石井圭太(岩手)がそれぞれ完全移籍した。また、元柏監督の[下平隆宏](../Page/下平隆宏.md "wikilink")をヘッドコーチとして招聘した。
 
-5月12日の第13節、ホーム町田戦を引き分けると、2日後の5月14日、成績不振を理由にタヴァレスを解任、後任として下平隆宏がヘッドコーチから監督に昇格。
+J1自動昇格を目標に掲げて臨んだシーズンであったが、第13節時点で14位と低迷。5月14日に成績不振を理由にタヴァレスを解任\[16\]、後任には下平が監督に昇格した。シーズン途中の補強では元日本代表の[中村俊輔](https://ja.wikipedia.org/wiki/中村俊輔 "wikilink")が完全移籍加入した。
 
-第19節から第36節まで、7連勝を含む18試合負けなし(12勝6分け)でクラブ記録を更新した。
+下平体制移行後も最初の5試合は5分の成績だったこともあり、前半戦はプレーオフ圏外の12位で折り返したが、その後は第19節から第36節まで7連勝を含む18試合負けなし（12勝6分け）とクラブ記録を更新するなどチーム状況が好転。第30節には同シーズン初めてJ1自動昇格圏内となる2位に浮上し、何度か順位を落とすも第40節で再び2位浮上した後は最後まで自動昇格圏をキープした。
 
-ホーム最終戦となる第42節・愛媛戦で2-0で勝利したことにより、自力での13年ぶりJ1復帰を決めた。
+最終節・愛媛戦で勝利したことによりシーズン2位が確定。13年ぶりのJ1復帰が決定した。
+
+### 2020年 - （J1）
+
+  - 2020年
+    キャッチフレーズ：「**RECORD THE BLUE**」
+
+下平体制2年目。[田所諒](https://ja.wikipedia.org/wiki/田所諒 "wikilink")が現役を引退し、[北爪健吾](https://ja.wikipedia.org/wiki/北爪健吾 "wikilink")、[渡邊一仁](https://ja.wikipedia.org/wiki/渡邊一仁 "wikilink")、[辻周吾](https://ja.wikipedia.org/wiki/辻周吾 "wikilink")、[乾大知](https://ja.wikipedia.org/wiki/乾大知 "wikilink")などが退団。また、[戸島章](https://ja.wikipedia.org/wiki/戸島章 "wikilink")ら3選手が他クラブに期限付き移籍した。シーズン開始直後には[立花歩夢](https://ja.wikipedia.org/wiki/立花歩夢 "wikilink")、[藤井悠太](https://ja.wikipedia.org/wiki/藤井悠太 "wikilink")が完全移籍で退団した。一方で補強は[一美和成](https://ja.wikipedia.org/wiki/一美和成 "wikilink")、[マギーニョ](https://ja.wikipedia.org/wiki/マグノ・ジョゼ・ダ・シルバ "wikilink")、[六反勇治](../Page/六反勇治.md "wikilink")など期限付き移籍で5人が加入した他、[志知孝明](https://ja.wikipedia.org/wiki/志知孝明 "wikilink")、[熊川翔](../Page/熊川翔.md "wikilink")が完全移籍で加入。新人として[瀬古樹](../Page/瀬古樹.md "wikilink")、[星キョーワァン](../Page/星キョーワァン.md "wikilink")ら4選手が入団。そして昨季他クラブに期限付き移籍していた[市川暉記](https://ja.wikipedia.org/wiki/市川暉記 "wikilink")、[安永玲央](https://ja.wikipedia.org/wiki/安永玲央 "wikilink")が復帰した。
 
 ## 現所属選手
 
@@ -713,9 +722,9 @@ CREATION</a></p></td>
 
 ## アカデミー
 
-横浜FCは、アカデミー（育成組織）として、次の3カテゴリをもっている\[28\]。
+横浜FCは、アカデミー（育成組織）として、次の3カテゴリーを所有している\[28\]。
 
-### 下部組織
+**`下部組織`**` `
 
   - ユース（U-18）
   - ジュニアユース（U-15）
@@ -766,9 +775,11 @@ CREATION</a></p></td>
 
 その間、横浜フリエSCが「ソシオの名称は横浜フリエSCに[商標登録](https://ja.wikipedia.org/wiki/商標登録 "wikilink")がある。このまま使用を続けるのなら法的な処置も辞さない」とソシオに通告を行い、2003年にソシオは「ソシオ・フリエスタ」から「ソシオ横浜」に名称を変更した。2003年9月、ソシオと横浜フリエSCは[和解](../Page/和解.md "wikilink")合意書に調印し、2年以上に及んだ横浜フリエSCとソシオの対立は区切りを迎えた。なお、[ソシオ横浜の公式サイト](http://www.socioyokohama.org) は2008年1月を最後に更新が止まっている。
 
-## 注釈
+## 脚注
 
-## 出典
+### 注釈
+
+### 出典
 
 ## 関連項目
 
@@ -810,7 +821,7 @@ CREATION</a></p></td>
 13.
 14.
 15. [高丘陽平](https://ja.wikipedia.org/wiki/高丘陽平 "wikilink")の右膝外側半月板断裂に伴い、登録ウインドーの適用例外規定（自チームに既に登録されている他のGKが、怪我等により試合に出場することができない特別な事情により、なおかつ所属しているリーグが認めた場合、登録ウインドー期間にかかわらず、新たなGKを登録できる）を利用し獲得した。
-16. [【Jリーグ初！】11/4大分戦で保護犬猫の譲渡会を開催 「横浜FC×OMUSUBI ～保護犬猫ふれあい会～」](https://www.yokohamafc.com/2018/10/31/63061), 横浜FC、2018年10月31日
+16.
 17.
 18.
 19.

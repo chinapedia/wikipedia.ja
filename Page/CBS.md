@@ -3,9 +3,9 @@
 
 [Cbs-building.jpg](https://ja.wikipedia.org/wiki/File:Cbs-building.jpg "fig:Cbs-building.jpg")設計）\]\] **CBS放送**（CBS Broadcasting, Inc.）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")最大の[テレビ](../Page/テレビ.md "wikilink")・[ラジオ](../Page/ラジオ.md "wikilink")・[ネットワークを有する放送局](../Page/ネットワーク_\(放送\).md "wikilink")。[NBC](../Page/NBC.md "wikilink")、[ABCと並ぶ](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")**3大ネットワーク**（Big Three Television Network）のひとつ。最も早くラジオネットワークを築き上げたパイオニアでもある。1927年創立。本社は[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")[ニューヨーク](../Page/ニューヨーク.md "wikilink")市[マンハッタン](../Page/マンハッタン.md "wikilink")の西57丁目。[会長](../Page/会長.md "wikilink")・[代表取締役](../Page/代表取締役.md "wikilink")は[ナショナル・アミューズメント](https://ja.wikipedia.org/wiki/ナショナル・アミューズメント "wikilink")社の[サムナー・レッドストーン](https://ja.wikipedia.org/wiki/サムナー・レッドストーン "wikilink")。[CEOは](../Page/最高経営責任者.md "wikilink")[バイアコム](../Page/バイアコム.md "wikilink")（Viacom）のCEOだったレス・ムーンヴェス。
 
-1997年までは正式名称**Columbia Broadcasting System**（コロムビア放送）、略称CBSであったが現在の正式名称は上に同じ。愛称は「目・瞳」を表したロゴから「**EYE(NETWORK)**」と呼ばれる。以前は[視聴者](../Page/視聴者.md "wikilink")層を選ぶ製作気質を持っていたこと、1950年まで[ニューヨーク市](https://ja.wikipedia.org/wiki/ニューヨーク市 "wikilink")の[ティファニー](../Page/ティファニー.md "wikilink")本社前に本社があったことなどから、時として「**The Tiffany Network**」とも呼ばれる。
+1997年までは正式名称**Columbia Broadcasting System**（コロムビア放送）、略称CBSであったが改名して現在の正式名称となる。愛称は「目・瞳」を表したロゴから「**EYE(NETWORK)**」と呼ばれる。以前は[視聴者](../Page/視聴者.md "wikilink")層を選ぶ製作気質を持っていたこと、1950年まで[ニューヨーク市](https://ja.wikipedia.org/wiki/ニューヨーク市 "wikilink")の[ティファニー](../Page/ティファニー.md "wikilink")本社前に本社があったことなどから、時として「**The Tiffany Network**」とも呼ばれる。
 
-現在のCBS放送のオーナーはCBSエンターテイメント・グループ（[バイアコムCBS](../Page/バイアコムCBS.md "wikilink")）、アメリカだけでなく[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[メキシコ](../Page/メキシコ.md "wikilink")でも放送網を持つ。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[東京放送ホールディングス](../Page/東京放送ホールディングス.md "wikilink")（TBS）が業務提携しており、TBSの局名および略称はCBSに倣ったものである。
+現在のCBS放送のオーナーはCBSエンターテイメント・グループ（[バイアコムCBS](../Page/バイアコムCBS.md "wikilink")）、アメリカだけでなく[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[メキシコ](../Page/メキシコ.md "wikilink")でも放送網を持つ。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[東京放送ホールディングス](../Page/東京放送ホールディングス.md "wikilink")（TBSHD）が業務提携しており、[TBSテレビ](../Page/TBSテレビ.md "wikilink")（Tokyo Broadcasting System Television, Inc.）の局名および略称はCBSに倣ったものである。
 
 報道においては、[中道寄りである](../Page/中道政治.md "wikilink")。
 
@@ -98,6 +98,10 @@
 [right](https://ja.wikipedia.org/wiki/ファイル:CBS-Viacom-CBS_Corp.png "wikilink")
 
   - **1965年:**CBSは新たな投資の基盤として多角経営に乗り出した。[レオ・フェンダー](../Page/レオ・フェンダー.md "wikilink")のフェンダーギター社を買収。フェンダーも健康上の理由から自身が同社を経営していくことが困難であったため買収に同意。しかし、65年から1985年の間にかけて同社の[ギター](../Page/ギター.md "wikilink")や[アンプの質があからさまに低下し](../Page/アンプ_\(楽器用\).md "wikilink")、怒ったフェンダーギターのファン達は1985年に[FMIC](../Page/フェンダー_\(楽器メーカー\).md "wikilink")(Fender Music Instrument Company)を設立した。他の多角経営の試みとしては球団[ニューヨーク・ヤンキース](../Page/ニューヨーク・ヤンキース.md "wikilink")の買収が一番大きなもので、出版社、地図製作会社、おもちゃ工場など。また、映画制作会社Cinema Center Filmsの設立で映画業界にも進出を試みるも1972年には倒産し計画は頓挫した。同映画会社は現在は[パラマウント・ピクチャーズ](https://ja.wikipedia.org/wiki/パラマウント・ピクチャーズ "wikilink")の一部になっており家庭用[DVD](../Page/DVD.md "wikilink")の発売やCBSの[テレビ映画](../Page/テレビ映画.md "wikilink")の製作などを行っている。
+
+<!-- end list -->
+
+  - **1971年:**[Memorex社との合弁事業で世界初の](https://ja.wikipedia.org/wiki/:en:Memorex "wikilink")[ノンリニア編集](../Page/ノンリニア編集.md "wikilink")機**CMX-600**を開発するも先進的過ぎたその性能や当時の値段で250,000ドルという値段から6台しか製造されなかった。[PDP-11](../Page/PDP-11.md "wikilink")[ミニコンピュータ](../Page/ミニコンピュータ.md "wikilink")がベースになっており、[RAM](https://ja.wikipedia.org/wiki/RAM "wikilink")を内蔵することによってランダムアクセス性を確保しノンリニア編集を可能としていた。[NTSC](../Page/NTSC.md "wikilink")と[PAL](../Page/PAL.md "wikilink")の両方に対応可であった。
 
 <!-- end list -->
 

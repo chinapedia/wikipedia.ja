@@ -24,7 +24,7 @@ JR西日本では、[関西本線](../Page/関西本線.md "wikilink")（[大和
   - 保安装置：[ATS-P](https://ja.wikipedia.org/wiki/自動列車停止装置#ATS-P形（デジタル伝送パターン形） "wikilink")（全線P\[7\]）
   - 最高速度：90km/h
   - [運転指令所](../Page/運転指令所.md "wikilink")：[大阪総合指令所](https://ja.wikipedia.org/wiki/大阪総合指令所 "wikilink")
-  - [列車運行管理システム](../Page/列車運行管理システム.md "wikilink")：[JR宝塚・JR東西・学研都市線運行管理システム](../Page/アーバンネットワーク運行管理システム.md "wikilink") (SUNTRAS)
+  - [列車運行管理システム](../Page/列車運行管理システム.md "wikilink")：[JR宝塚・JR東西・学研都市線運行管理システム](../Page/運行管理システム_\(JR西日本\).md "wikilink") (SUNTRAS)
 
 全区間をJR西日本[近畿統括本部が管轄している](https://ja.wikipedia.org/wiki/西日本旅客鉄道近畿統括本部 "wikilink")。尼崎側の関西高速鉄道・JR西日本の施設上の境界は下神崎川橋梁の京橋方（東海道本線との並走区間に入る地点）に設置されている。
 
@@ -228,7 +228,7 @@ JR西日本単独での建設は困難なため、[1988年](../Page/1988年.md "
 <td><p><a href="https://ja.wikipedia.org/wiki/京橋駅_(大阪府)" title="wikilink">京橋駅</a></p></td>
 <td><p>-</p></td>
 <td><p>0.0</p></td>
-<td><p><a href="../Page/西日本旅客鉄道.md" title="wikilink">西日本旅客鉄道</a>：<a href="https://ja.wikipedia.org/wiki/片町線" title="wikilink">片町線</a>（ 学研都市線）（最長<a href="../Page/関西本線.md" title="wikilink">関西本線</a><a href="https://ja.wikipedia.org/wiki/奈良駅" title="wikilink">奈良駅</a>まで直通運転）・ <a href="../Page/大阪環状線.md" title="wikilink">大阪環状線</a> (JR-O08)<br />
+<td><p><a href="../Page/西日本旅客鉄道.md" title="wikilink">西日本旅客鉄道</a>：<a href="https://ja.wikipedia.org/wiki/片町線" title="wikilink">片町線</a>（ 学研都市線）（最長<a href="../Page/関西本線.md" title="wikilink">関西本線</a>（ <a href="../Page/大和路線.md" title="wikilink">大和路線</a>）<a href="https://ja.wikipedia.org/wiki/奈良駅" title="wikilink">奈良駅</a>まで直通運転）・ <a href="../Page/大阪環状線.md" title="wikilink">大阪環状線</a> (JR-O08)<br />
 <a href="../Page/京阪電気鉄道.md" title="wikilink">京阪電気鉄道</a>：<a href="https://ja.wikipedia.org/wiki/File:Number_prefix_Keihan_lines.png" title="fig:Number_prefix_Keihan_lines.png">Number_prefix_Keihan_lines.png</a> <a href="../Page/京阪本線.md" title="wikilink">京阪本線</a> (KH04)<br />
 <a href="https://ja.wikipedia.org/wiki/大阪市高速電気軌道" title="wikilink">大阪市高速電気軌道</a>：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Nagahori_Tsurumi-ryokuchi_line_symbol.svg" title="fig:Osaka_Metro_Nagahori_Tsurumi-ryokuchi_line_symbol.svg">Osaka_Metro_Nagahori_Tsurumi-ryokuchi_line_symbol.svg</a> <a href="../Page/Osaka_Metro長堀鶴見緑地線.md" title="wikilink">長堀鶴見緑地線</a> (N22)</p></td>
 <td><p>-</p></td>

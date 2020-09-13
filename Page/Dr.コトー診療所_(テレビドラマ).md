@@ -1,7 +1,7 @@
 > この記事は[Dr.コトー診療所 \(テレビドラマ\)](https://ja.wikipedia.org/wiki/Dr.コトー診療所_\(テレビドラマ\))から翻訳されています。
 
 
-『**Dr.コトー診療所**』（ドクターコトーしんりょうじょ）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で放送されていた日本の](../Page/フジネットワーク.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[吉岡秀隆](../Page/吉岡秀隆.md "wikilink")。[山田貴敏](../Page/山田貴敏.md "wikilink")による[同名の漫画を原作とする](../Page/Dr.コトー診療所.md "wikilink")。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Yonagunijima-Ranch-South-road.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Yonagunijima-6-tatami-mat-size-beach.jpg "wikilink") 『**Dr.コトー診療所**』（ドクターコトーしんりょうじょ）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で放送されていた日本の](../Page/フジネットワーク.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[吉岡秀隆](../Page/吉岡秀隆.md "wikilink")。[山田貴敏](../Page/山田貴敏.md "wikilink")による[同名の漫画を原作とする](../Page/Dr.コトー診療所.md "wikilink")。
 
 第1期は、[2003年](../Page/2003年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")より[9月11日](../Page/9月11日.md "wikilink")まで毎週木曜日22:00 - 22:54に、「[木曜劇場](../Page/木曜劇場.md "wikilink")」枠で放送。
 
@@ -18,16 +18,17 @@
   - 特別編
     [2004年](../Page/2004年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")、[1月10日](../Page/1月10日.md "wikilink")の2夜連続でフジテレビ系列の新春ドラマスペシャルとして放送された。
     志木那島での新撮場面にはコトーと和田、島の少年たちの他にはレギュラー出演者は登場しないが、Dr.コトー診療所2004、2006年第2期に繋がる貴重な新録内容となっている。
-    この作品はDVD化はされておらず地上波での再放送もされていない。[フジテレビオンデマンド](https://ja.wikipedia.org/wiki/フジテレビオンデマンド "wikilink")で配信されている。
+    この作品はDVD化はされておらず地上波での再放送もされていないが、[フジテレビオンデマンド](https://ja.wikipedia.org/wiki/フジテレビオンデマンド "wikilink")で配信されている。
   - Dr.コトー診療所2004
     2004年[11月12日](../Page/11月12日.md "wikilink")、[11月13日](../Page/11月13日.md "wikilink")に2夜連続のドラマスペシャルとして放送された。2003年第1期の続編として完全新撮されたもので、コトーの身近な人たちを襲う悲劇や苦渋の選択をする姿が描かれている。尚、当初の放送予定は10月であったが、相次ぐ[台風](../Page/台風.md "wikilink")のため収録に手間取り、放送が遅れる経緯があった。
+    この作品も長らく地上波での再放送がされていなかったが、[2020年](../Page/2020年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")より[7月9日](../Page/7月9日.md "wikilink")まで『特別編』として毎週木曜日22:00 - 22:54に、「[木曜劇場](../Page/木曜劇場.md "wikilink")」枠で再放送された\[3\]。
   - 第2期
-    『Dr.コトー診療所2004』の続編。また近年では珍しく、前期と同じ主題歌、同じタイトルバック（1話のみ映像の上にタイトル）、同じエンドバックが使用されていた。なお、前シリーズでは、夏のシーンが夏に放送されただけだったが、このシリーズではドラマ中で、春から冬（12月）までの四季の移り変わりが描かれていた。
+    『Dr.コトー診療所2004』の続編。また近年では珍しく、同じタイトルバック（1話のみ映像の上にタイトル）、同じエンドバックが使用されていた。なお、前シリーズでは、夏のシーンが夏に放送されただけだったが、このシリーズではドラマ中で、春から冬（12月）までの四季の移り変わりが描かれていた。
 
 ## あらすじ
 
   - 第1期
-    東京の[大学病院](../Page/大学病院.md "wikilink")で外科医をしていた五島健助が星野正一とともに[漁船](../Page/漁船.md "wikilink")に乗り込み、[本土](../Page/本土.md "wikilink")（[沖縄本島](../Page/沖縄本島.md "wikilink")）から6時間かかる志木那島をめざして洋上を行くところからドラマは始まる。それは島の[診療所](../Page/診療所.md "wikilink")に常駐してくれる医師を長年さがし続けている、志木那村役場の民生課長星野\[3\]の要請だった。星野の娘で[看護師](https://ja.wikipedia.org/wiki/看護師 "wikilink")の彩佳や役場の職員で診療所事務長の和田\[4\]をスタッフとして張り切る五島だったが、それまでの経緯から島の医師を信用しない島民らは全く診療所に寄りつかない。最初の患者となった島の少年から感謝のしるしとして贈られた診療所の旗に「**ドクターコトー診療所**」と記されていたため、以来五島は島民からコトーと呼ばれることになる。コトーの医師としての技量の確かさと誠実な人がらはしだいに島民らに受け入れられ、交流を深めていった。そんななかコトーが大学病院を辞めるきっかけとなった医療事故の関係者[巽謙司が来島し](https://ja.wikipedia.org/wiki/Dr.コトー診療所#その他 "wikilink")、最終話に向けて島民を巻きこむ大波乱となる。
+    東京の[大学病院](../Page/大学病院.md "wikilink")で外科医をしていた五島健助が星野正一とともに[漁船](../Page/漁船.md "wikilink")に乗り込み、[本土](../Page/本土.md "wikilink")（[沖縄本島](../Page/沖縄本島.md "wikilink")）から6時間かかる志木那島をめざして洋上を行くところからドラマは始まる。それは島の[診療所](../Page/診療所.md "wikilink")に常駐してくれる医師を長年さがし続けている、志木那村役場の民生課長星野\[4\]の要請だった。星野の娘で[看護師](https://ja.wikipedia.org/wiki/看護師 "wikilink")の彩佳や役場の職員で診療所事務長の和田\[5\]をスタッフとして張り切る五島だったが、それまでの経緯から島の医師を信用しない島民らは全く診療所に寄りつかない。最初の患者となった島の少年から感謝のしるしとして贈られた診療所の旗に「**ドクターコトー診療所**」と記されていたため、以来五島は島民からコトーと呼ばれることになる。コトーの医師としての技量の確かさと誠実な人がらはしだいに島民らに受け入れられ、交流を深めていった。そんななかコトーが大学病院を辞めるきっかけとなった医療事故の関係者[巽謙司が来島し](https://ja.wikipedia.org/wiki/Dr.コトー診療所#その他 "wikilink")、最終話に向けて島民を巻きこむ大波乱となる。
   - 特別編
     志木那島で新年を迎えたコトーのもとに三上医師からの手紙が届く。大学病院を辞した三上はコトーと同じように僻地医療を担うべく、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")にある礼別島（れべつとう：架空の島）診療所に赴任していた。島の医師は自分1人という責任の重さと、島民に信頼されない焦りとの苦悩をつづった文面から、コトーは自分が初めて志木那島に赴任して来た頃を思い出していた。ここから2003年第1期の主要エピソードを再編集した内容が回想される。東京へ研修中の彩佳からお土産を貰う。それは「週刊アクセス」という[雑誌](../Page/雑誌.md "wikilink")。離島医療に携わるコトーと島の現状が掲載されている。もちろんこの記事は巽謙司が書いたものである。そしてコトーは三上に励ましの手紙を書く。三上は患者となった1人暮らしの老女との交流を通して島の医師としての手応えを掴んで行く。
   - Dr.コトー診療所2004
@@ -53,7 +54,7 @@
 
 :\* 原剛利（漁師） - [時任三郎](https://ja.wikipedia.org/wiki/時任三郎 "wikilink")
 
-:\* 原剛洋\[5\]（息子） - [富岡涼](../Page/富岡涼.md "wikilink")
+:\* 原剛洋\[6\]（息子） - [富岡涼](../Page/富岡涼.md "wikilink")
 
   -
 
@@ -61,7 +62,7 @@
 
 :\* 星野正一（村役場の民生課課長） - [小林薫](../Page/小林薫.md "wikilink")
 
-:\* 星野昌代\[6\]（正一の妻） - [朝加真由美](../Page/朝加真由美.md "wikilink")
+:\* 星野昌代\[7\]（正一の妻） - [朝加真由美](../Page/朝加真由美.md "wikilink")
 
   -
 
@@ -73,7 +74,7 @@
 
 :\* 山下道子（一夫の妻） - [森上千絵](../Page/森上千絵.md "wikilink")
 
-:\* 山下邦夫\[7\]（一夫の息子） - [春山幹介](../Page/春山幹介.md "wikilink")
+:\* 山下邦夫\[8\]（一夫の息子） - [春山幹介](../Page/春山幹介.md "wikilink")
 
   -
 
@@ -115,17 +116,17 @@
 
 :\* 小沢小百合 - [神野三鈴](https://ja.wikipedia.org/wiki/神野三鈴 "wikilink")（2004、第2期）
 
-:\* 小沢ひな - [尾崎千瑛](../Page/尾崎千瑛.md "wikilink")（2004、第2期）
+:\* 小沢ひな - [尾崎千瑛](../Page/尾崎千瑛.md "wikilink")（現:[尾崎由香](https://ja.wikipedia.org/wiki/尾崎由香 "wikilink")）（2004、第2期）
 
   -
 
   - その他
 
-:\* 西山茉莉子\[8\]（スナック経営） - [大塚寧々](https://ja.wikipedia.org/wiki/大塚寧々 "wikilink")
+:\* 西山茉莉子\[9\]（スナック経営） - [大塚寧々](https://ja.wikipedia.org/wiki/大塚寧々 "wikilink")
 
 :\* 中村三郎（志木那村村長） - [坂本長利](../Page/坂本長利.md "wikilink")
 
-:\* 中村愁子（剛洋の同級生） - [大後寿々花](../Page/大後寿々花.md "wikilink")（第1期）
+:\* 中村悠子（剛洋の同級生） - [大後寿々花](../Page/大後寿々花.md "wikilink")
 
 :\* 川畑夏美（剛洋の同級生） - [大畑稚菜](https://ja.wikipedia.org/wiki/大畑稚菜 "wikilink")（第1期）
 
@@ -155,7 +156,7 @@
 
 :\* 鳴海慧（医師） - [堺雅人](../Page/堺雅人.md "wikilink")（第2期）
 
-:\* 安藤重雄\[9\]（漁業協同組合漁労長） - [泉谷しげる](../Page/泉谷しげる.md "wikilink")
+:\* 安藤重雄\[10\]（漁業協同組合漁労長） - [泉谷しげる](../Page/泉谷しげる.md "wikilink")
 
 ### ゲスト
 
@@ -175,11 +176,9 @@
 
   - 第3話 「赤ちゃんを助けて」
 
-:\* 坂野ゆかり（妊婦・孝の妻） - [桜井幸子](../Page/桜井幸子.md "wikilink")
+:\* 坂野達郎（孝の父） - [高橋征郎](https://ja.wikipedia.org/wiki/高橋征郎 "wikilink")
 
-:\* 坂野達郎（ゆかりの義父） - [高橋征郎](https://ja.wikipedia.org/wiki/高橋征郎 "wikilink")
-
-:\* 坂野和枝（ゆかりの義母） - [田畑ゆり](https://ja.wikipedia.org/wiki/田畑ゆり "wikilink")
+:\* 坂野和枝（孝の母） - [田畑ゆり](https://ja.wikipedia.org/wiki/田畑ゆり "wikilink")
 
 :\* 高村 - [中根徹](../Page/中根徹.md "wikilink")
 
@@ -195,7 +194,7 @@
 
 :\* 安部広子（安部純一の母） - [白川和子](../Page/白川和子.md "wikilink")（第5話も）
 
-:\* 杉本竜一（東京に住む西山茉莉子の息子） - [神木隆之介](https://ja.wikipedia.org/wiki/神木隆之介 "wikilink")（第5・6・7話も）
+:\* 杉本竜一（西山茉莉子の東京に住む息子） - [神木隆之介](https://ja.wikipedia.org/wiki/神木隆之介 "wikilink")（第5・6・7話も）
 
   -
 
@@ -207,7 +206,7 @@
 
   - 第7話 「巣立ち」
 
-:\* 安藤リカ（東京に住む安藤重雄の娘） - [伊藤歩](https://ja.wikipedia.org/wiki/伊藤歩 "wikilink")
+:\* 安藤リカ（安藤重雄の東京に住む娘） - [伊藤歩](https://ja.wikipedia.org/wiki/伊藤歩 "wikilink")
 
 :\* 古川徹 - [柏原収史](../Page/柏原収史.md "wikilink")
 
@@ -301,6 +300,7 @@
   - 原案協力 - 上阪泰幸、宇都宮紀子、山川恵一（小学館「週刊ヤングサンデー」編集部）
   - 取材協力 - [鹿児島県](../Page/鹿児島県.md "wikilink")下甑村立（現：[薩摩川内市](../Page/薩摩川内市.md "wikilink")）手打診療所
   - 協力 - [沖縄県](../Page/沖縄県.md "wikilink")、[与那国町](../Page/与那国町.md "wikilink")、[日本航空](../Page/日本航空.md "wikilink")、[日本トランスオーシャン航空](../Page/日本トランスオーシャン航空.md "wikilink")、[沖縄テレビ放送](../Page/沖縄テレビ放送.md "wikilink")、[渋谷ビデオスタジオ](../Page/渋谷ビデオスタジオ.md "wikilink")ほか
+  - 撮影 - 星谷健司
   - 美術プロデュース - 関口保幸（第1期）、木村達昭
   - 演出補
       - 第1期 - 高木健太郎、松山博昭、西坂瑞城、[並木道子](https://ja.wikipedia.org/wiki/並木道子 "wikilink")、[宮木正悟](https://ja.wikipedia.org/wiki/宮木正悟 "wikilink")
@@ -605,14 +605,15 @@
       - [Dr.コトー診療所2004](https://fod.fujitv.co.jp/s/genre/drama/ser4244/)
       - [Dr.コトー診療所2006](https://fod.fujitv.co.jp/s/genre/drama/ser4245/)
 
-[Category:フジテレビ木曜10時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビ木曜10時枠の連続ドラマ "wikilink") [Category:フジテレビのスペシャルドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビのスペシャルドラマ "wikilink") [Category:医療ドラマ](https://ja.wikipedia.org/wiki/Category:医療ドラマ "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:2003年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2003年のテレビドラマ "wikilink") [Category:2004年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2004年のテレビドラマ "wikilink") [Category:2006年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2006年のテレビドラマ "wikilink") [Category:島を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:島を舞台としたテレビドラマ "wikilink") [Category:沖縄県を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:沖縄県を舞台としたテレビドラマ "wikilink")
+[Category:フジテレビ木曜10時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビ木曜10時枠の連続ドラマ "wikilink") [Category:フジテレビのスペシャルドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビのスペシャルドラマ "wikilink") [Category:医療ドラマ](https://ja.wikipedia.org/wiki/Category:医療ドラマ "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:2003年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2003年のテレビドラマ "wikilink") [Category:2004年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2004年のテレビドラマ "wikilink") [Category:2006年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2006年のテレビドラマ "wikilink") [Category:島を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:島を舞台としたテレビドラマ "wikilink") [Category:沖縄県を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:沖縄県を舞台としたテレビドラマ "wikilink") [Category:医師を主人公としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:医師を主人公としたテレビドラマ "wikilink")
 
 1.
 2.
-3.  原作では役場の課長は別人で、彩佳の父は出奔している。
-4.  原作では診療所の事務職員はおらず、和田は小学校の校務職員。
-5.  原作では"健裕"。
-6.  星野彩佳の母親。原作では病気で亡くなっている。
-7.  原作では"宮澤"邦夫。
-8.  原作には西山茉莉子は登場しない。
-9.  原作では安藤重"男"。
+3.
+4.  原作では役場の課長は別人で、彩佳の父は出奔している。
+5.  原作では診療所の事務職員はおらず、和田は小学校の校務職員。
+6.  原作では"健裕"。
+7.  星野彩佳の母親。原作では病気で亡くなっている。
+8.  原作では"宮澤"邦夫。
+9.  原作には西山茉莉子は登場しない。
+10. 原作では安藤重"男"。

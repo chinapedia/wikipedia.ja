@@ -8,7 +8,7 @@
   - [渡瀬マキ](../Page/渡瀬マキ.md "wikilink")
     （わたせ まき、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[2月22日](../Page/2月22日.md "wikilink") - ）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
       - 出身：[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[鳥羽市](../Page/鳥羽市.md "wikilink")
-      - [血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：O型
+      - [血液型](../Page/ABO式血液型.md "wikilink")：O型
       - [ニックネーム](../Page/愛称.md "wikilink")：チャンマキ
 
 <!-- end list -->
@@ -80,7 +80,7 @@
 
 ### 解散
 
-[2002年](../Page/2002年.md "wikilink")に、“FINAL FLIGHTツアー”を最後に解散することを発表。同年[8月24日](../Page/8月24日.md "wikilink")に[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")で行われた[ライブにて](../Page/演奏会.md "wikilink")、また、その4日後の[8月28日](../Page/8月28日.md "wikilink")には、[ファンクラブ](../Page/ファンクラブ.md "wikilink")限定ライブをリンドバーグの出発の地、[渋谷TAKE OFF 7で行い](https://ja.wikipedia.org/wiki/渋谷TAKE_OFF_7 "wikilink")、14年間のバンド活動に[終止符](../Page/終止符.md "wikilink")を打った。
+[2002年](../Page/2002年.md "wikilink")、“FINAL FLIGHTツアー”を最後に解散することを発表。FINAL FLIGHTツアー最終日の[8月24日](../Page/8月24日.md "wikilink")に[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")で[ライブを開催](../Page/演奏会.md "wikilink")、そして4日後の[8月28日](../Page/8月28日.md "wikilink")には、[ファンクラブ](../Page/ファンクラブ.md "wikilink")限定のラストライブをリンドバーグの出発の地、[渋谷TAKE OFF 7で開催し解散](https://ja.wikipedia.org/wiki/渋谷TAKE_OFF_7 "wikilink")。14年間のバンド活動に[終止符](../Page/終止符.md "wikilink")を打った。
 
 ### 2009年再結成
 

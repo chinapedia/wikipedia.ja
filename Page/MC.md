@@ -33,7 +33,7 @@
   - 大学院[修士課程](https://ja.wikipedia.org/wiki/修士課程 "wikilink") (master's course)
   - [Mozilla Corporation](../Page/Mozilla_Corporation.md "wikilink")-Mozilla Foundationの完全子会社
   - マーケティング・コミュニケーション (marketing communication)\[英語フォリオ-ビジネス用語　参照\]
-  - [マジックキャッスル (オンラインゲーム)](https://ja.wikipedia.org/wiki/マジックキャッスル_\(オンラインゲーム\) "wikilink") - [ディズニー](https://ja.wikipedia.org/wiki/ディズニー "wikilink")が日本で提供していた[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")と同名を関した[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")用ゲームソフトや[Android](../Page/Android.md "wikilink")、[iOS](https://ja.wikipedia.org/wiki/iOS "wikilink")向け[ゲームアプリ](https://ja.wikipedia.org/wiki/スマートフォンゲーム "wikilink")、[トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")、[児童向け小説として展開されているその派生作品群](../Page/児童文学.md "wikilink")。
+  - [マジックキャッスル (オンラインゲーム)](https://ja.wikipedia.org/wiki/マジックキャッスル_\(オンラインゲーム\) "wikilink") - [ディズニー](https://ja.wikipedia.org/wiki/ディズニー "wikilink")が日本で提供していた[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")と同名を関した[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")用ゲームソフトや[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")、[iOS](https://ja.wikipedia.org/wiki/iOS "wikilink")向け[ゲームアプリ](https://ja.wikipedia.org/wiki/スマートフォンゲーム "wikilink")、[トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")、[児童向け小説として展開されているその派生作品群](../Page/児童文学.md "wikilink")。
 
 ## 地名
 

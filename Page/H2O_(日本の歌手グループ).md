@@ -55,28 +55,28 @@
 
 ### シングル
 
-|                                                            | 発売日                                            | タイトル                                                                                                    | c/w                                                                        | 規格品番      |
-| ---------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | --------- |
-| [Kitty Records](../Page/ユニバーサルミュージック_\(日本\).md "wikilink") |                                                |                                                                                                         |                                                                            |           |
-| **1st**                                                    | 1980年6月21日                                     | **[ローレライ](https://ja.wikipedia.org/wiki/ローレライ_\(H2Oの曲\) "wikilink")**                                   | SPANISH CLASS                                                              | DKQ-1085  |
-| **2nd**                                                    | 1980年11月4日                                     | **[僕等のダイアリー](https://ja.wikipedia.org/wiki/僕等のダイアリー "wikilink")**                                       | ジョバンニ                                                                      | 7DK-7003  |
-| **3rd**                                                    | 1981年8月21日                                     | **[グッタイミングですべりこみ](https://ja.wikipedia.org/wiki/グッタイミングですべりこみ "wikilink")**                             | ブルーベリーの頃                                                                   | 7DK-7014  |
-| **4th**                                                    | 1982年7月25日                                     | **[HELLO VIBRATION](https://ja.wikipedia.org/wiki/HELLO_VIBRATION "wikilink")**                         | LONELY                                                                     | 7DS-0013  |
-| **5th**                                                    | 1983年3月25日                                     | **[想い出がいっぱい](../Page/想い出がいっぱい.md "wikilink")**                                                          | [10%の雨予報](../Page/想い出がいっぱい.md "wikilink")                                  | 7DS-0036  |
-| 1996年7月25日                                                 | [10%の雨予報](../Page/想い出がいっぱい.md "wikilink")      | KTDR-2164                                                                                               |                                                                            |           |
-| 1996年1月25日                                                 | **[想い出がいっぱい](../Page/想い出がいっぱい.md "wikilink")** | [Good-byeシーズン](../Page/想い出がいっぱい.md "wikilink")                                                          | KTDR-2149                                                                  |           |
-| **6th**                                                    | 1983年10月1日                                     | **[Good-byeシーズン](https://ja.wikipedia.org/wiki/Good-byeシーズン "wikilink")**                               | [振り向けばBroken Heart](https://ja.wikipedia.org/wiki/Good-byeシーズン "wikilink") | 7DS-0058  |
-| **7th**                                                    | 1984年6月25日                                     | **[風のロマンス](https://ja.wikipedia.org/wiki/風のロマンス "wikilink")**                                           | [虹のルージュ](https://ja.wikipedia.org/wiki/風のロマンス "wikilink")                  | 7DS-0071  |
-| **8th**                                                    | 1984年11月1日                                     | **[So Long 想 Long](https://ja.wikipedia.org/wiki/So_Long_想_Long "wikilink")**                           | サマードリーム                                                                    | 7DS-0084  |
-| [ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")  |                                                |                                                                                                         |                                                                            |           |
-| **9th**                                                    | 2003年10月29日                                    | **[想い出がいっぱい 〜the 21st century〜](https://ja.wikipedia.org/wiki/想い出がいっぱい_〜the_21st_century〜 "wikilink")** | 想い出がいっぱい（オリジナルバージョン）                                                       | UMCK-5109 |
+|                                                            | 発売日          | タイトル                                                                                                    | c/w                                                   | 規格品番      |
+| ---------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------- |
+| [Kitty Records](../Page/ユニバーサルミュージック_\(日本\).md "wikilink") |              |                                                                                                         |                                                       |           |
+| 1st                                                        | 1980年6月21日   | **[ローレライ](https://ja.wikipedia.org/wiki/ローレライ_\(H2Oの曲\) "wikilink")**                                   | SPANISH CLASS                                         | DKQ-1085  |
+| 2nd                                                        | 1980年11月4日   | **[僕等のダイアリー](https://ja.wikipedia.org/wiki/僕等のダイアリー "wikilink")**                                       | ジョバンニ                                                 | 7DK-7003  |
+| 3rd                                                        | 1981年8月21日   | **[グッタイミングですべりこみ](https://ja.wikipedia.org/wiki/グッタイミングですべりこみ "wikilink")**                             | ブルーベリーの頃                                              | 7DK-7014  |
+| 4th                                                        | 1982年7月25日   | **[HELLO VIBRATION](https://ja.wikipedia.org/wiki/HELLO_VIBRATION "wikilink")**                         | LONELY                                                | 7DS-0013  |
+| 5th                                                        | 1983年3月25日   | **[想い出がいっぱい](../Page/想い出がいっぱい.md "wikilink")**                                                          | <ruby>1<rt>テ</rt></ruby><ruby>0<rt>ン</rt></ruby>%の雨予報 | 7DS-0036  |
+| 1996年7月25日                                                 | KTDR-2164    |                                                                                                         |                                                       |           |
+| 1996年1月25日                                                 | Good-byeシーズン | KTDR-2149                                                                                               |                                                       |           |
+| 6th                                                        | 1983年10月1日   | **[Good-byeシーズン](https://ja.wikipedia.org/wiki/Good-byeシーズン "wikilink")**                               | 振り向けばBroken Heart                                     | 7DS-0058  |
+| 7th                                                        | 1984年6月25日   | **[風のロマンス](https://ja.wikipedia.org/wiki/風のロマンス "wikilink")**                                           | 虹のルージュ                                                | 7DS-0071  |
+| 8th                                                        | 1984年11月1日   | **[So Long 想 Long](https://ja.wikipedia.org/wiki/So_Long_想_Long "wikilink")**                           | サマードリーム                                               | 7DS-0084  |
+| [ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")  |              |                                                                                                         |                                                       |           |
+| 9th                                                        | 2003年10月29日  | **[想い出がいっぱい 〜the 21st century〜](https://ja.wikipedia.org/wiki/想い出がいっぱい_〜the_21st_century〜 "wikilink")** | 想い出がいっぱい（オリジナルバージョン）                                  | UMCK-5109 |
 
 ### スプリットシングル
 
 |                                                               | 発売日        | タイトル                                                            | c/w          | 規格品番 |
 | ------------------------------------------------------------- | ---------- | --------------------------------------------------------------- | ------------ | ---- |
 | [ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink") |            |                                                                 |              |      |
-| **1st**                                                       | 1999年7月28日 | **[ここにおいでよ](https://ja.wikipedia.org/wiki/ここにおいでよ "wikilink")** | 瑠璃色の街（諏訪ひろみ） |      |
+| 1st                                                           | 1999年7月28日 | **[ここにおいでよ](https://ja.wikipedia.org/wiki/ここにおいでよ "wikilink")** | 瑠璃色の街（諏訪ひろみ） |      |
 
 ### アルバム
 
@@ -85,13 +85,13 @@
 |                                                            | 発売日        | タイトル              | 発売元           | 規格品番      |
 | ---------------------------------------------------------- | ---------- | ----------------- | ------------- | --------- |
 | [Kitty Records](../Page/ユニバーサルミュージック_\(日本\).md "wikilink") |            |                   |               |           |
-| **1st**                                                    | 1981年5月21日 | **WATER LAND**    | Kitty Records | 28MK-0013 |
+| 1st                                                        | 1981年5月21日 | **WATER LAND**    | Kitty Records | 28MK-0013 |
 | 1995年5月25日                                                 | KTCR-1531  |                   |               |           |
-| **2nd**                                                    | 1982年2月25日 | **Wait a second** | Kitty Records | 28MK-0026 |
+| 2nd                                                        | 1982年2月25日 | **Wait a second** | Kitty Records | 28MK-0026 |
 | 1995年5月25日                                                 | KTCR-1532  |                   |               |           |
-| **3rd**                                                    | 1983年4月25日 | **EMOTION**       | Kitty Records | 28MS-0032 |
+| 3rd                                                        | 1983年4月25日 | **EMOTION**       | Kitty Records | 28MS-0032 |
 | 1995年5月25日                                                 | KTCR-1533  |                   |               |           |
-| **4th**                                                    | 1985年2月25日 | **NEXT CORNER**   | Kitty Records | 28MS-0071 |
+| 4th                                                        | 1985年2月25日 | **NEXT CORNER**   | Kitty Records | 28MS-0071 |
 | 1995年5月25日                                                 | KTCR-1534  |                   |               |           |
 
 ### ベスト・アルバム
@@ -99,20 +99,20 @@
 |                                                            | 発売日         | タイトル                                     | 発売元           | 規格品番      |
 | ---------------------------------------------------------- | ----------- | ---------------------------------------- | ------------- | --------- |
 | [Kitty Records](../Page/ユニバーサルミュージック_\(日本\).md "wikilink") |             |                                          |               |           |
-| **1st**                                                    | 1983年10月25日 | **POOL**                                 | Kitty Records | 28MS-0043 |
+| 1st                                                        | 1983年10月25日 | **POOL**                                 | Kitty Records | 28MS-0043 |
 | 1989年12月25日                                                | H00K-20168  |                                          |               |           |
-| **2nd**                                                    | 1995年11月25日 | **Biography**                            | Kitty Records | KTCR-1355 |
-| **3rd**                                                    | 1996年8月25日  | **Splash\!**                             | Kitty Records | KTCR-1386 |
-| **4th**                                                    | 1996年11月21日 | **H<sub>2</sub>O**                       | Kitty Records | KTCR-9037 |
+| 2nd                                                        | 1995年11月25日 | **Biography**                            | Kitty Records | KTCR-1355 |
+| 3rd                                                        | 1996年8月25日  | **Splash\!**                             | Kitty Records | KTCR-1386 |
+| 4th                                                        | 1996年11月21日 | **H<sub>2</sub>O**                       | Kitty Records | KTCR-9037 |
 | キティMME                                                     |             |                                          |               |           |
-| **5th**                                                    | 2001年6月21日  | **夏色の雫 〜H<sub>2</sub>O BEST SELECTION〜** | キティMME        | UMCK-1036 |
-| **6th**                                                    | 2001年12月19日 | **スーパー・バリュー**                            | キティMME        | UMCK-8008 |
+| 5th                                                        | 2001年6月21日  | **夏色の雫 〜H<sub>2</sub>O BEST SELECTION〜** | キティMME        | UMCK-1036 |
+| 6th                                                        | 2001年12月19日 | **スーパー・バリュー**                            | キティMME        | UMCK-8008 |
 | [ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")  |             |                                          |               |           |
-| **7th**                                                    | 2003年11月26日 | **想い出がいっぱい 〜the best collection〜**       | ユニバーサルミュージック  | UMCK-1175 |
-| **8th**                                                    | 2004年9月8日   | **ゴールデン☆ベスト H<sub>2</sub>O**             | ユニバーサルミュージック  | UICZ-6049 |
+| 7th                                                        | 2003年11月26日 | **想い出がいっぱい 〜the best collection〜**       | ユニバーサルミュージック  | UMCK-1175 |
+| 8th                                                        | 2004年9月8日   | **ゴールデン☆ベスト H<sub>2</sub>O**             | ユニバーサルミュージック  | UICZ-6049 |
 | 2012年12月5日                                                 | UPCY-9293   |                                          |               |           |
-| **9th**                                                    | 2005年11月9日  | **H<sub>2</sub>O Best10**                | ユニバーサルミュージック  | UPCY-9026 |
-| **10th**                                                   | 2007年12月19日 | **エッセンシャル・ベスト H<sub>2</sub>O**           | ユニバーサルミュージック  | UPCY-9144 |
+| 9th                                                        | 2005年11月9日  | **H<sub>2</sub>O Best10**                | ユニバーサルミュージック  | UPCY-9026 |
+| 10th                                                       | 2007年12月19日 | **エッセンシャル・ベスト H<sub>2</sub>O**           | ユニバーサルミュージック  | UPCY-9144 |
 
 ### タイアップ一覧
 
@@ -190,6 +190,10 @@
 
 ## 脚注
 
+## 関連項目
+
+  - [1980年の音楽\#デビュー](https://ja.wikipedia.org/wiki/1980年の音楽#デビュー "wikilink") - 同じ年にデビューした歌手
+
 ## 外部リンク
 
   - [H<sub>2</sub>O](https://www.universal-music.co.jp/h2o/) （ [ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）
@@ -197,7 +201,7 @@
   - [なかざわけんじ official web site](https://kenji-nakazawa.com/)
   - [MUTOWN RECORDS web site](http://do-t.jp/)
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:過去のアミューズ所属者](https://ja.wikipedia.org/wiki/Category:過去のアミューズ所属者 "wikilink") [Category:1976年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1976年に結成した音楽グループ "wikilink") [Category:1985年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1985年に解散した音楽グループ "wikilink") [Category:1999年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に再結成した音楽グループ "wikilink") [Category:2001年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に解散した音楽グループ "wikilink")
+[Category:日本の男性歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の男性歌手グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:過去のアミューズ所属者](https://ja.wikipedia.org/wiki/Category:過去のアミューズ所属者 "wikilink") [Category:1976年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1976年に結成した音楽グループ "wikilink") [Category:1985年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1985年に解散した音楽グループ "wikilink") [Category:1999年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に再結成した音楽グループ "wikilink") [Category:2001年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に解散した音楽グループ "wikilink")
 
 1.  『昭和40年男』2017年8月号（クレタパブリッシング）p.108 - 111ページ
 2.

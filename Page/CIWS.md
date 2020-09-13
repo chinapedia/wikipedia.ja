@@ -7,7 +7,9 @@
 
 近代的な[海軍](../Page/海軍.md "wikilink")では、航空脅威に対する[軍用艦艇の自己防空は](../Page/軍艦.md "wikilink")[艦隊](../Page/艦隊.md "wikilink")レベルのものから個艦レベルのものまで装備されている。特に性能向上が著しい[対艦ミサイル](../Page/対艦ミサイル.md "wikilink")に対しては、[艦載機](https://ja.wikipedia.org/wiki/艦載機 "wikilink")や[対空兵装の充実した](../Page/対空兵器.md "wikilink")[艦船によって広い範囲での防空網の構築が行われ](https://ja.wikipedia.org/wiki/船 "wikilink")、長射程や短射程の[艦対空ミサイル](../Page/艦対空ミサイル.md "wikilink")という射程の異なる複数の対空兵器によって多層的な防御が行われている。典型的な多層防御では、長射程の[艦隊防空ミサイル](https://ja.wikipedia.org/wiki/艦対空ミサイル#艦隊防空ミサイル "wikilink")（[スタンダードミサイル](../Page/スタンダードミサイル.md "wikilink")など）により迎撃が行われ、次に[個艦防空ミサイル](https://ja.wikipedia.org/wiki/艦対空ミサイル#個艦防空ミサイル "wikilink")（[シースパロー](../Page/シースパロー_\(ミサイル\).md "wikilink")・[ESSM](../Page/ESSM.md "wikilink")など）および [76mm](../Page/オート・メラーラ_76_mm_砲.md "wikilink")、[127mm砲などの](https://ja.wikipedia.org/wiki/オート・メラーラ_127_mm_砲 "wikilink")[火砲により迎撃が行われ](../Page/艦砲.md "wikilink")、CIWSが最も内側での防御を担当する。同時に、[チャフ](../Page/チャフ.md "wikilink")や[フレア](../Page/フレア_\(兵器\).md "wikilink")、[ECMなどの非破壊的な対抗手段](https://ja.wikipedia.org/wiki/電子攻撃#電子対抗手段_\(ECM\) "wikilink")（ソフトキル）により攻撃の無力化が図られる。
 
-CIWSの運用にあたっては、実際の[弾道](../Page/弾道.md "wikilink")と[コンピュータ](../Page/コンピュータ.md "wikilink")の弾道計算との比較試験を定期的に行い（これをPAC射撃：PRE-ACTION AIM CALIBRATION：較正射撃という意味）、射撃精度を常時維持しておく必要がある。 　またそれに加え、実際の使用時もCIWSのレーダーは自分自身が発射した弾も追尾して発射角を修正する機能がある。
+CIWSの運用にあたっては、実際の[弾道](../Page/弾道.md "wikilink")と[コンピュータ](../Page/コンピュータ.md "wikilink")の弾道計算との比較試験を定期的に行い（これをPAC射撃：PRE-ACTION AIM CALIBRATION：較正射撃という意味）、射撃精度を常時維持しておく必要がある。
+
+またそれに加え、実際の使用時もCIWSのレーダーは自分自身が発射した弾も追尾して発射角を修正する機能がある。
 
 一般的にCIWSの有効射程は数km程度であり、対処可能時間が数秒-十数秒ほどと短時間のため、目標捕捉から初弾発射まで短時間に対応できる即応性と、高い命中精度および目標を確実に[撃墜](../Page/撃墜.md "wikilink")できる高威力が求められる。高速で接近する大型の対艦ミサイルに対しては、小さな[砲弾](../Page/砲弾.md "wikilink")が数発程度命中しても、[弾頭](../Page/弾頭.md "wikilink")部の[炸薬](https://ja.wikipedia.org/wiki/炸薬 "wikilink")を起爆するなど十分に空中で破砕できなければ、高速運動体である[ミサイル](../Page/ミサイル.md "wikilink")の残骸が推進剤や弾頭部の炸薬と共にそのまま艦へ突入してくる可能性がある。
 

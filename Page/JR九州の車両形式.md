@@ -262,6 +262,6 @@
 
   - [JR九州の列車たち ～JR九州　観光列車【D＆S列車】・新幹線～　極上の列車旅](https://www.jrkyushu.co.jp/trains/)
 
-[Category:九州旅客鉄道の車両](https://ja.wikipedia.org/wiki/Category:九州旅客鉄道の車両 "wikilink") [Category:形式](https://ja.wikipedia.org/wiki/Category:形式 "wikilink")
+[Category:九州旅客鉄道の車両](https://ja.wikipedia.org/wiki/Category:九州旅客鉄道の車両 "wikilink") [Category:鉄道車両の形式称号](https://ja.wikipedia.org/wiki/Category:鉄道車両の形式称号 "wikilink")
 
 1.

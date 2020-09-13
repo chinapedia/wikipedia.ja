@@ -3,7 +3,7 @@
 
 『**Seventeen**』（セブンティーン、略称：**ST**）は[集英社](../Page/集英社.md "wikilink")が発売している女性向け[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")、[情報誌](https://ja.wikipedia.org/wiki/情報誌 "wikilink")。
 
-毎月1日発売（日祝日、年末年始などの場合は1 - 3日前倒しされる）。
+毎月1日発売。日祝日、年末年始などの場合は1 - 3日前倒しされる。
 
 ## 概要
 
@@ -110,7 +110,7 @@
 <td><p>2001年7月25日(歳)</p></td>
 <td><p>0</p></td>
 <td><p><a href="../Page/スターダストプロモーション.md" title="wikilink">スターダストプロモーション</a></p></td>
-<td><p><small><a href="https://ja.wikipedia.org/wiki/ときめき♡宣伝部" title="wikilink">ときめき♡宣伝部</a>のメンバー</small></p></td>
+<td><p><small><a href="https://ja.wikipedia.org/wiki/ときめき♡宣伝部" title="wikilink">超ときめき♡宣伝部のメンバー</a></small></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -149,7 +149,7 @@
 <td><p>くまだ りんか</p></td>
 <td><p>2001年2月23日(歳)</p></td>
 <td><p>2017年9月号</p></td>
-<td><p>６</p></td>
+<td><p>7</p></td>
 <td><p><a href="../Page/レプロエンタテインメント.md" title="wikilink">レプロエンタテインメント</a></p></td>
 <td><p>プロダクション組</p></td>
 <td><p><small>『<a href="https://ja.wikipedia.org/wiki/ニコラ_(雑誌)" title="wikilink">ニコラ</a>』（専属）より移籍</small></p></td>
@@ -160,7 +160,7 @@
 <td><p>2001年7月14日(歳)</p></td>
 <td><p>0</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/乃木坂46#乃木坂46合同会社" title="wikilink">乃木坂46合同会社</a></p></td>
-<td><p><small><a href="https://ja.wikipedia.org/wiki/乃木坂46" title="wikilink">乃木坂46</a>のメンバー</small></p></td>
+<td><p><small><a href="https://ja.wikipedia.org/wiki/乃木坂46" title="wikilink">乃木坂46</a>のメンバー（3期生）</small></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -209,7 +209,7 @@
 <td><p>こさか なお</p></td>
 <td><p>2002年9月7日(歳)</p></td>
 <td><p>2018年7月号</p></td>
-<td><p>1</p></td>
+<td><p>2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Seed_&amp;_Flower" title="wikilink">Seed &amp; Flower</a></p></td>
 <td><p><small><a href="https://ja.wikipedia.org/wiki/日向坂46" title="wikilink">日向坂46</a>のメンバー（2期生）</small></p></td>
 <td></td>
@@ -219,7 +219,7 @@
 <td><p>きよはら かや</p></td>
 <td><p>2002年1月30日(歳)</p></td>
 <td><p>2018年9月号</p></td>
-<td><p>8</p></td>
+<td><p>9</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アミューズ" title="wikilink">アミューズ</a></p></td>
 <td><p><small>『<a href="https://ja.wikipedia.org/wiki/ニコラ_(雑誌)" title="wikilink">ニコラ</a>』（専属） より移籍</small></p></td>
 <td></td>
@@ -240,7 +240,7 @@
 <td><p>2002年8月6日(歳)</p></td>
 <td><p>０</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Showtitle" title="wikilink">Showtitle</a></p></td>
-<td><p><small><a href="https://ja.wikipedia.org/wiki/NMB48" title="wikilink">NMB48</a>チームBIIのメンバー </small></p></td>
+<td><p><small><a href="https://ja.wikipedia.org/wiki/NMB48" title="wikilink">NMB48</a>チームBIIのメンバー（5期生）</small></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -289,7 +289,7 @@
 <td><p>あきた しおり</p></td>
 <td><p>2003年3月19日(歳)</p></td>
 <td><p>2019年9月号</p></td>
-<td><p>1</p></td>
+<td><p>2</p></td>
 <td><p><a href="../Page/スターダストプロモーション.md" title="wikilink">スターダストプロモーション</a></p></td>
 <td><p>プロダクション組</p></td>
 <td><p><small> 『<a href="https://ja.wikipedia.org/wiki/ニコラ_(雑誌)" title="wikilink">ニコラ</a>』 （専属） より移籍</small></p></td>
@@ -299,7 +299,7 @@
 <td><p>さいが さくら</p></td>
 <td><p>2005年3月31日(歳)</p></td>
 <td><p>2019年10月号</p></td>
-<td><p>0</p></td>
+<td><p>1</p></td>
 <td><p><a href="../Page/レプロエンタテインメント.md" title="wikilink">レプロエンタテインメント</a></p></td>
 <td><p>ミスST2019</p></td>
 <td></td>
@@ -799,7 +799,7 @@
 
 [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")大会は[坂口良子](../Page/坂口良子.md "wikilink")がグランプリ、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")大会では[松田聖子](../Page/松田聖子.md "wikilink")が地区大会でスカウトされた。中でも[1984年](../Page/1984年.md "wikilink")大会は非常に水準の高い大会となり（応募総数歴代最大18万325人）、[松本典子](../Page/松本典子.md "wikilink")や[網浜直子](https://ja.wikipedia.org/wiki/網浜直子 "wikilink")らがグランプリを受賞し、入賞者の全てが歌手ないしは女優としてデビューしている。[国生さゆり](../Page/国生さゆり.md "wikilink")、[渡辺美里](../Page/渡辺美里.md "wikilink")、[工藤静香](../Page/工藤静香.md "wikilink")、[渡辺満里奈](../Page/渡辺満里奈.md "wikilink")、[清原亜希](https://ja.wikipedia.org/wiki/清原亜希 "wikilink")などが出場していた。
 
-[1986年](../Page/1986年.md "wikilink")の大会では、[おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")を生み出した[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[夕やけニャンニャン](../Page/夕やけニャンニャン.md "wikilink")』との合同オーディションを開催した（出場者の中から7名がおニャン子クラブのメンバー、及び、おニャン子クラブB組に選出された）。募集要項に記されていたグランプリ獲得者への優勝特典“ソロデビュー”と、“おニャン子クラブ内の[新ユニットへの参加](../Page/うしろ髪ひかれ隊.md "wikilink")”は実現されなかった。
+[1986年](../Page/1986年.md "wikilink")の大会では、[おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")を生み出した[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[夕やけニャンニャン](../Page/夕やけニャンニャン.md "wikilink")』との合同オーディションを開催した\[6\]。募集要項に記されていたグランプリ獲得者への優勝特典“ソロデビュー”と、“おニャン子クラブ内の[新ユニットへの参加](../Page/うしろ髪ひかれ隊.md "wikilink")”は実現されなかった。
 
 #### コンテスト受賞者
 
@@ -841,7 +841,7 @@
 
 4月号にモデルの応募方法が記載され、8月号で最終選考で残った候補者による読者投票で決定する。
 
-毎年夏に専属モデルが総出演する[ファッションショー](../Page/ファッションショー.md "wikilink")「夏の学園祭」を開催して受賞者を披露\[6\] する。
+毎年夏に専属モデルが総出演する[ファッションショー](../Page/ファッションショー.md "wikilink")「夏の学園祭」を開催して受賞者を披露\[7\] する。
 
 10月号の紙面で全国の読者に披露する。
 
@@ -851,7 +851,7 @@
 
 ## Seventeenモデビュ
 
-[集英社](../Page/集英社.md "wikilink")と株式会社スナウトが共同で2011年から[Mobage](../Page/Mobage.md "wikilink")で配信している[ソーシャルゲーム](https://ja.wikipedia.org/wiki/ソーシャルゲーム "wikilink")\[7\]。「STモデル」が全員ゲーム内に登場するだけでなく、『Seventeen』監修のアバターやアイテムも用意され、人気[ブランド](../Page/ブランド.md "wikilink")との[コラボ](https://ja.wikipedia.org/wiki/コラボ "wikilink")アイテムも登場している。プレイヤーは、『Seventeen』の[専属モデル](https://ja.wikipedia.org/wiki/専属モデル "wikilink")「STモ」になるための様々なミッションをこなしたり、モデルの仕事をこなしたりして、自分磨きを行っていく[モデルを職業として体験するゲーム](../Page/モデル_\(職業\).md "wikilink")。[フィーチャーフォン](https://ja.wikipedia.org/wiki/フィーチャーフォン "wikilink")用に公開。
+[集英社](../Page/集英社.md "wikilink")と株式会社スナウトが共同で2011年から[Mobage](../Page/Mobage.md "wikilink")で配信している[ソーシャルゲーム](https://ja.wikipedia.org/wiki/ソーシャルゲーム "wikilink")\[8\]。「STモデル」が全員ゲーム内に登場するだけでなく、『Seventeen』監修のアバターやアイテムも用意され、人気[ブランド](../Page/ブランド.md "wikilink")との[コラボ](https://ja.wikipedia.org/wiki/コラボ "wikilink")アイテムも登場している。プレイヤーは、『Seventeen』の[専属モデル](https://ja.wikipedia.org/wiki/専属モデル "wikilink")「STモ」になるための様々なミッションをこなしたり、モデルの仕事をこなしたりして、自分磨きを行っていく[モデルを職業として体験するゲーム](../Page/モデル_\(職業\).md "wikilink")。[フィーチャーフォン](https://ja.wikipedia.org/wiki/フィーチャーフォン "wikilink")用に公開。
 
 ## その他
 
@@ -877,5 +877,6 @@
 3.
 4.  [中条あやみ、「CanCam」専属モデルに決定！【本人メッセージ】](https://cancam.jp/archives/488235?from=slide_home1) *CanCam.jp（キャンキャン） | 【公式】* (2017年9月15日) 2017年9月15日閲覧
 5.  [樫本琳花twitter](https://twitter.com/rinka_kashimoto/status/946661156927574016)
-6.  [榮倉奈々、セブンティーンモデルを卒業 - 「セブンティーン 夏の学園祭」](https://news.mynavi.jp/news/2009/08/19/009/index.html) 『[マイコミジャーナル](https://ja.wikipedia.org/wiki/マイコミジャーナル "wikilink")』2009年8月19日付配信
-7.  [集英社、「Mobage」で『Seventeenモデビュ』題材のソーシャルゲームを提供](http://gamebiz.jp/?p=17344) 『SocialGameインフォ』2011年7月4日付配信
+6.  出場者の中から7名がおニャン子クラブのメンバー、及び、おニャン子クラブB組に選出された。
+7.  [榮倉奈々、セブンティーンモデルを卒業 - 「セブンティーン 夏の学園祭」](https://news.mynavi.jp/news/2009/08/19/009/index.html) 『[マイコミジャーナル](https://ja.wikipedia.org/wiki/マイコミジャーナル "wikilink")』2009年8月19日付配信
+8.  [集英社、「Mobage」で『Seventeenモデビュ』題材のソーシャルゲームを提供](http://gamebiz.jp/?p=17344) 『SocialGameインフォ』2011年7月4日付配信

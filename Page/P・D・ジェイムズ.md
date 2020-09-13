@@ -3,11 +3,11 @@
 
 **ホランド・パークのジェイムズ女男爵、フィリス・ドロシー・ジェイムズ**（**Phyllis Dorothy James, Baroness James of Holland Park,**, [1920年](../Page/1920年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink") - [2014年](../Page/2014年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の女流[推理作家](../Page/推理作家.md "wikilink")である。
 
-沈鬱な場面設定と緻密な描写、病院や官僚制に舞台を取る込み入った人間関係を描くことで知られる。多くの作品で警視庁のアダム・ダルグリッシュが主人公として登場するが、『皮膚の下の頭蓋骨』などの[コーデリア・グレイ](../Page/コーデリア・グレイ.md "wikilink")を主人公に据えた作品でも有名。ほかに映画化された『人類の子供たち』などがある。
+[国民保健サービス](https://ja.wikipedia.org/wiki/国民保健サービス "wikilink")や[内務省など公共機関で勤務した経験から](https://ja.wikipedia.org/wiki/内務省_\(イギリス\) "wikilink")\[1\]、沈鬱な場面設定と緻密な描写、病院や官僚制に舞台を取る込み入った人間関係を描くことで知られる。多くの作品で警視庁のアダム・ダルグリッシュが主人公として登場するが、『皮膚の下の頭蓋骨』などの[コーデリア・グレイ](../Page/コーデリア・グレイ.md "wikilink")を主人公に据えた作品でも有名。ほかに映画化された『人類の子供たち』などがある。
 
 『ナイチンゲールの屍衣』『黒い塔』『死の味』で3度[CWA賞](../Page/CWA賞.md "wikilink")（[英国推理作家協会](https://ja.wikipedia.org/wiki/英国推理作家協会 "wikilink")）[シルバーダガー賞を受賞](https://ja.wikipedia.org/wiki/ゴールド・ダガー賞 "wikilink")。1987年には作家としての功績を称える [CWA賞](../Page/CWA賞.md "wikilink") [ダイヤモンド・ダガー賞](https://ja.wikipedia.org/wiki/ダイヤモンド・ダガー賞 "wikilink")を受賞した。さらに1999年にはアメリカの[MWA賞](https://ja.wikipedia.org/wiki/アメリカ探偵作家クラブ#名誉賞・功労賞等 "wikilink")（アメリカ探偵作家クラブ）でも巨匠賞を受賞した。
 
-[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")にDBE（[大英帝国勲章](../Page/大英帝国勲章.md "wikilink")中等勲爵士）に叙され、[1991年](../Page/1991年.md "wikilink")に[一代貴族](https://ja.wikipedia.org/wiki/一代貴族 "wikilink")の「ホランド・パークのジェイムズ女男爵」に叙される。2014年11月に死去\[1\]。
+[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")にDBE（[大英帝国勲章](../Page/大英帝国勲章.md "wikilink")中等勲爵士）に叙され、[1991年](../Page/1991年.md "wikilink")に[一代貴族](https://ja.wikipedia.org/wiki/一代貴族 "wikilink")の「ホランド・パークのジェイムズ女男爵」に叙される。2014年11月に死去\[2\]。
 
 ## 作品
 
@@ -65,4 +65,5 @@
 
 [Category:20世紀イギリスの女性著作家](https://ja.wikipedia.org/wiki/Category:20世紀イギリスの女性著作家 "wikilink") [Category:21世紀イギリスの女性著作家](https://ja.wikipedia.org/wiki/Category:21世紀イギリスの女性著作家 "wikilink") [Category:イギリスの女性小説家](https://ja.wikipedia.org/wiki/Category:イギリスの女性小説家 "wikilink") [Category:イングランドの小説家](https://ja.wikipedia.org/wiki/Category:イングランドの小説家 "wikilink") [Category:イギリスの推理作家](https://ja.wikipedia.org/wiki/Category:イギリスの推理作家 "wikilink") [Category:SFとファンタジーの女性著作家](https://ja.wikipedia.org/wiki/Category:SFとファンタジーの女性著作家 "wikilink") [Category:一代貴族](https://ja.wikipedia.org/wiki/Category:一代貴族 "wikilink") [Category:大英帝国勲章受章者](https://ja.wikipedia.org/wiki/Category:大英帝国勲章受章者 "wikilink") [Category:1920年生](https://ja.wikipedia.org/wiki/Category:1920年生 "wikilink") [Category:2014年没](https://ja.wikipedia.org/wiki/Category:2014年没 "wikilink")
 
-1.  [英推理作家Ｐ．Ｄ．ジェイムズさん死去](http://www.asahi.com/articles/ASGCX01X6GCWUHBI02J.html) 朝日新聞 2014-11-28
+1.  [英推理作家P・D・ジェイムズさん死去、94歳](https://www.afpbb.com/articles/-/3032931) - [AFPBB](https://ja.wikipedia.org/wiki/AFPBB "wikilink")
+2.  [英推理作家Ｐ．Ｄ．ジェイムズさん死去](http://www.asahi.com/articles/ASGCX01X6GCWUHBI02J.html) 朝日新聞 2014-11-28

@@ -5,7 +5,7 @@
 
 ## 概要
 
-静岡県熱海市の高台にある美術館。[世界救世教](../Page/世界救世教.md "wikilink")教祖・[岡田茂吉](../Page/岡田茂吉.md "wikilink")（おかだもきち、1882年 - 1955年）が創立者で、彼のコレクションを基盤に、[国宝](../Page/国宝.md "wikilink")3件、[重要文化財](../Page/重要文化財.md "wikilink")67件（2019年現在）\[2\]、[重要美術品](../Page/重要美術品.md "wikilink")46件を含む約3500件を所蔵している。その内容は、絵画・書跡・工芸・彫刻等、日本・中国をはじめ東洋美術の各分野にわたり、美術的にも、研究的にも大きな魅力と価値のある作品によって構成されている。
+静岡県熱海市の高台にある美術館。[世界救世教](../Page/世界救世教.md "wikilink")教祖・[岡田茂吉](../Page/岡田茂吉.md "wikilink")（おかだもきち、1882年 - 1955年）が創立者で、彼のコレクションを基盤に、[国宝](../Page/国宝.md "wikilink")3件、[重要文化財](../Page/重要文化財.md "wikilink")67件（2019年現在）\[2\]、[重要美術品](../Page/重要美術品.md "wikilink")46件を含む約3500件を所蔵している。その内容は、絵画・書籍・工芸・彫刻等、日本・中国をはじめ東洋美術の各分野にわたり、美術的にも、研究的にも大きな魅力と価値のある作品によって構成されている。
 
 メインロビーからは、初島や伊豆大島、房総半島から三浦半島、伊豆半島まで180度の大パノラマを眺望できる。
 
@@ -62,7 +62,7 @@
   - 童子経曼荼羅図 絹本著色 1幅（東寺旧蔵）
   - 八字文殊菩薩及八大童子像 絹本著色 1幅
   - 不動明王二童子像 絹本著色 1幅
-  - 愛染明王像 絹本著色 1幅（京都・[愛染院](../Page/愛染院.md "wikilink")旧蔵） 一説に[文観](../Page/文観.md "wikilink")房弘真監修もしくは画 pp. 121–131, 315。</ref>。}}
+  - 愛染明王像 絹本著色 1幅（京都・愛染院旧蔵） 一説に[文観](../Page/文観.md "wikilink")房弘真監修もしくは画 pp. 121–131, 315。</ref>。}}
   - 釈迦八相図 絹本著色 4幅
   - 九曜星図像 紙本墨画 1巻（東寺旧蔵）
   - 星曼荼羅図残欠 紙本白描 1冊（東寺旧蔵）[天永](../Page/天永.md "wikilink")四年（[1113年](../Page/1113年.md "wikilink")）有覚の奥書がある
@@ -109,7 +109,7 @@
 
   - 木造十一面観音立像（[法隆寺](https://ja.wikipedia.org/wiki/法隆寺 "wikilink")北室院伝来）\[10\]
   - 木造聖観音菩薩立像 1躯
-  - 木造阿弥陀如来及両脇侍坐像 3躯（[奈良市](https://ja.wikipedia.org/wiki/奈良市 "wikilink")・[安養寺](../Page/安養寺.md "wikilink")旧蔵）
+  - 木造阿弥陀如来及両脇侍坐像 3躯（[奈良市](https://ja.wikipedia.org/wiki/奈良市 "wikilink")・安養寺旧蔵）
   - 木造阿弥陀如来立像 1躯\[11\]
   - 木造多聞天眷属立像〔木造北方天眷属立像〕 康円 1躯
   - 銅造観音菩薩立像 1躯 [隋](../Page/隋.md "wikilink")時代
@@ -222,7 +222,7 @@
   -
 [Category:浮世絵の美術館・博物館](https://ja.wikipedia.org/wiki/Category:浮世絵の美術館・博物館 "wikilink") [Category:静岡県の美術館](https://ja.wikipedia.org/wiki/Category:静岡県の美術館 "wikilink") [Category:熱海市の教育](https://ja.wikipedia.org/wiki/Category:熱海市の教育 "wikilink") [Category:熱海市の建築物](https://ja.wikipedia.org/wiki/Category:熱海市の建築物 "wikilink") [Category:日本美術の美術館とギャラリー](https://ja.wikipedia.org/wiki/Category:日本美術の美術館とギャラリー "wikilink") [Category:日本の国宝_(絵画)](https://ja.wikipedia.org/wiki/Category:日本の国宝_\(絵画\) "wikilink") [Category:日本の国宝_(工芸品)](https://ja.wikipedia.org/wiki/Category:日本の国宝_\(工芸品\) "wikilink") [Category:日本の国宝_(書跡・典籍・古文書)](https://ja.wikipedia.org/wiki/Category:日本の国宝_\(書跡・典籍・古文書\) "wikilink") [Category:静岡県の重要文化財](https://ja.wikipedia.org/wiki/Category:静岡県の重要文化財 "wikilink") [Category:第24回BCS賞](https://ja.wikipedia.org/wiki/Category:第24回BCS賞 "wikilink") [Category:1982年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:1982年竣工の日本の建築物 "wikilink") [Category:1982年開設の博物館](https://ja.wikipedia.org/wiki/Category:1982年開設の博物館 "wikilink")
 
-1.  館名読みは[美術館公式ツイッター](https://twitter.com/moa_museum?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)による。
+1.  館名読みは[熱海市観光協会公式サイト](https://www.ataminews.gr.jp/spot/112/)（2020年6月25日閲覧）による。
 2.  姉妹館の箱根美術館保管の埴輪1件を含む。
 3.  [美術館について - 公益財団法人岡田茂吉美術文化財団](http://okada-foundation.or.jp/art.html)
 4.  [活動 ＭＯＡ美術館・箱根美術館](http://www.izunome.jp/action/art/moa/) 世界救世教いづのめ教団

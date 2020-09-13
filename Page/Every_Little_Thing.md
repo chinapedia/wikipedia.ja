@@ -1,27 +1,25 @@
 > この記事は[Every Little Thing](https://ja.wikipedia.org/wiki/Every_Little_Thing)から翻訳されています。
 
 
-**Every Little Thing**（エヴリ・リトル・シング、略称：**ELT**）は、日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[1996年](../Page/1996年.md "wikilink")8月7日にデビュー。[エイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink")所属。ヒット曲に「[Time goes by](../Page/Time_goes_by.md "wikilink")」「[Fragile](https://ja.wikipedia.org/wiki/Fragile/JIRENMA "wikilink")」など多数。
+**Every Little Thing**（エヴリ・リトル・シング、略称：**ELT**）は、日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[1996年](../Page/1996年.md "wikilink")8月7日にデビュー。[エイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink")所属。ヒット曲に「[Time goes by](../Page/Time_goes_by.md "wikilink")」「[fragile](https://ja.wikipedia.org/wiki/Fragile/JIRENMA "wikilink")」など多数。
 
 表記の仕方に関しては作品によって異なる事もあり、**EVERY LITTLE THING**（[Graceful Worldなど](../Page/Graceful_World.md "wikilink")）、**every little thing**（[恋文/good nightなど](https://ja.wikipedia.org/wiki/恋文/good_night "wikilink")）、**エヴリ リトル シング**（[また あしたなど](../Page/また_あした.md "wikilink")）とする場合もある。
 
-## 概要
+## 概要・沿革
 
-[1995年にヴォーカルの持田香織がtrfに憧れて所属するエイベックスの扉を叩き](../Page/1996年.md "wikilink")、プロデューサーの修行中だった五十嵐充と出会う。持田の声質に惹かれた五十嵐は早速ヴォーカルレッスンを始め、社内評判も良くこの2人のユニットでのデビュー話がトントン拍子で進むことになる。しかし、イメージするユーロビート系のサウンドにはアクセントが足りないと思った五十嵐はギターの必要性を訴え、五十嵐の大学バンド仲間であった伊藤一朗を誘い、3人体制によるELTが誕生。
+[1995年に元アイドルであったヴォーカルの持田香織が](../Page/1996年.md "wikilink")[TRF](../Page/TRF.md "wikilink")に憧れて所属するエイベックスの扉を叩き、プロデューサーの修行中だった五十嵐充と出会う。持田の声質に惹かれた五十嵐は早速ヴォーカルレッスンを始め、社内評判も良くこの2人のユニットでのデビュー話がトントン拍子で進むことになる。しかし、イメージするユーロビート系のサウンドにはアクセントが足りないと思った五十嵐はギターの必要性を訴え、五十嵐の大学バンド仲間であった伊藤一朗を誘い、当時の専務であったエイベックスの現・会長である[松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")の提案により、3人体制によるELTが誕生。
 
-[1996年](../Page/1996年.md "wikilink")[8月](../Page/8月.md "wikilink")にヴォーカル・作詞担当の[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink")、[ギター](../Page/ギター.md "wikilink")・作曲・編曲担当の[伊藤一朗](../Page/伊藤一朗.md "wikilink")、[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")・サウンドプロデュース・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")・作詞・作曲・編曲担当の[五十嵐充](../Page/五十嵐充.md "wikilink")の3人で、1stシングル「[Feel My Heart](../Page/Feel_My_Heart.md "wikilink")」で[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")（[エイベックス・ディー・ディー](../Page/エイベックス・エンタテインメント.md "wikilink")）からCDデビューした。同シングルは[オリコンで最高位](../Page/オリコンチャート.md "wikilink")24位を記録し、約10万枚を売り上げた。
+[1996年](../Page/1996年.md "wikilink")[8月](../Page/8月.md "wikilink")にヴォーカル・作詞担当の[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink")、[ギター](../Page/ギター.md "wikilink")・作曲・編曲担当の[伊藤一朗](../Page/伊藤一朗.md "wikilink")、[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")・サウンドプロデュース・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")・作詞・作曲・編曲担当の[五十嵐充](../Page/五十嵐充.md "wikilink")の**3人体制**で、1stシングル「[Feel My Heart](../Page/Feel_My_Heart.md "wikilink")」で[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")（[エイベックス・ディー・ディー](../Page/エイベックス・エンタテインメント.md "wikilink")）からCDデビュー。同シングルは[オリコン最高位](../Page/オリコンチャート.md "wikilink")24位、約10万枚を記録。90年代[ビーイング](../Page/ビーイング.md "wikilink")で圧倒的人気を博した[ZARD](../Page/ZARD.md "wikilink")や当時のavexを牽引する[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")率いる[globe](https://ja.wikipedia.org/wiki/globe "wikilink")などの大成功手法を取り入れ、人気に火がつく。
 
-90年代ビーイングで圧倒的人気を博していた[ZARD](../Page/ZARD.md "wikilink")や当時のエイベックスを牽引していた[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")が在籍する[Globe](../Page/Globe.md "wikilink")の大成功手法を取り入れ、人気に火がつく。
+翌[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")発売の3rdシングル「[Dear My Friend](../Page/Dear_My_Friend_\(Every_Little_Thingの曲\).md "wikilink")」で初のトップ10入り、49万枚のロングヒットを記録。4月発売の1stアルバム『[everlasting](../Page/Everlasting_\(Every_Little_Thingのアルバム\).md "wikilink")』は初の1位獲得かつ初の[ミリオンとなる](../Page/ミリオンセラー.md "wikilink")192万枚を記録し、大ブレイクを果たす。6月発売の4thシングル「[For the moment](../Page/For_the_moment.md "wikilink")」でシングルでも初登場1位を獲得し、同年末6thシングル「[Shapes Of Love](https://ja.wikipedia.org/wiki/Shapes_Of_Love/Never_Stop! "wikilink")」にて[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")に初出場。
 
-翌[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")発売の3rdシングル「[Dear My Friend](../Page/Dear_My_Friend_\(Every_Little_Thingの曲\).md "wikilink")」で初のトップ10入り、約50万枚のロングヒットを記録。4月発売の1stアルバム『[Everlasting](../Page/Everlasting_\(Every_Little_Thingのアルバム\).md "wikilink")』では初の1位・初のミリオンセラーを記録し、大ブレイクを果たす。6月発売の4thシングル「[For the moment](../Page/For_the_moment.md "wikilink")」でシングルでも初登場1位を獲得し、同年末6thシングル「[Shapes Of Love](https://ja.wikipedia.org/wiki/Shapes_Of_Love/Never_Stop! "wikilink")」にて[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")に初出場。
+翌[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")には2月に発売した8thシングル「[Time goes by](../Page/Time_goes_by.md "wikilink")」がシングルで初めてミリオンヒットし、4月に発売した2ndアルバム『[Time to Destination](../Page/Time_to_Destination.md "wikilink")』が352万枚というELT最大のヒットを記録した\[1\]。 五十嵐の楽曲の世界観や[シンセサイザー](../Page/シンセサイザー.md "wikilink")を駆使したサウンドと持田の愛らしいルックスと歌声、ファッションが10代・20代を中心に支持を受けるようになり、1990年代後半を代表するグループに成長していった。
 
-翌[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")には2月に発売した8thシングル「[Time goes by](../Page/Time_goes_by.md "wikilink")」がシングルで初めてミリオンヒットし、4月に発売した2ndアルバム『[Time to Destination](../Page/Time_to_Destination.md "wikilink")』が350万枚を超えるELT最大のヒットを記録した\[1\]。 五十嵐の楽曲の世界観、[シンセサイザー](../Page/シンセサイザー.md "wikilink")を駆使したサウンドと持田の歌声、ファッションが10代・20代を中心に支持を受けるようになり、1990年代後半を代表するグループに成長していった。
+翌[1999年](../Page/1999年.md "wikilink")3月発売の初のベストアルバム『[Every Best Single +3](../Page/Every_Best_Single_+3.md "wikilink")』がダブルミリオン(225万枚)を記録するも、リーダーの五十嵐のプロデュースのための十分な時間を確保したいという思いで、本作リリース後はリリースやツアーのない期間を過ごした。
 
-翌[1999年](../Page/1999年.md "wikilink")3月発売の初のベストアルバム『[Every Best Single +3](../Page/Every_Best_Single_+3.md "wikilink")』がダブルミリオンを記録するも、リーダーの五十嵐のプロデュースのための十分な時間を確保したいという思いで、本作リリース後はリリースやツアーのない期間を過ごした。
+翌[2000年](../Page/2000年.md "wikilink")1月に13thシングル「[Pray/Get Into A Groove](https://ja.wikipedia.org/wiki/Pray/Get_Into_A_Groove "wikilink")」、2月に14thシングル「[sure](https://ja.wikipedia.org/wiki/sure_\(Every_Little_Thingの曲\) "wikilink")」と3月に3rdアルバム『[eternity](https://ja.wikipedia.org/wiki/eternity_\(Every_Little_Thingのアルバム\) "wikilink")』のリリース後、3月をもって五十嵐がプロデュース活動に専念するために脱退し、4月から持田と伊藤の2人になる。「五十嵐はフロントメンバーから脱退し、サウンドプロデューサーになる」と発表されたことから、テレビやライブ出演はせずに楽曲提供を続けるものと思われたが、6月にシングルカットされた15thシングル「[Rescue me (Single Mix)](https://ja.wikipedia.org/wiki/Rescue_me/Smile_Again "wikilink")」で携わっただけで、ELTの楽曲に直接的に五十嵐の関与はなくなる。10月には五十嵐脱退後の初の新曲16thシングル「[愛のカケラ](../Page/愛のカケラ_\(Every_Little_Thingの曲\).md "wikilink")」をリリースし正式に**2人体制での活動**がスタートする。
 
-翌[2000年](../Page/2000年.md "wikilink")1月に13thシングル「[Pray/Get Into A Groove](https://ja.wikipedia.org/wiki/Pray/Get_Into_A_Groove "wikilink")」、3月に14thシングル「[sure](https://ja.wikipedia.org/wiki/sure_\(Every_Little_Thingの曲\) "wikilink")」と3rdアルバム『[eternity](https://ja.wikipedia.org/wiki/eternity_\(Every_Little_Thingのアルバム\) "wikilink")』のリリース後、3月をもって五十嵐がプロデュース活動に専念するために脱退し、メンバーは持田と伊藤の2人になる。「五十嵐はフロントメンバーから脱退し、サウンドプロデューサーになる」と発表されたことから、テレビやライブ出演はせずに楽曲提供を続けるものと思われたが、6月にシングルカットされた15thシングル「[Rescue me (Single Mix)](https://ja.wikipedia.org/wiki/Rescue_me/Smile_Again "wikilink")」で携わっただけで、ELTの楽曲に直接的に五十嵐の関与はなくなる。10月には五十嵐脱退後の初の新曲16thシングル「[愛のカケラ](../Page/愛のカケラ_\(Every_Little_Thingの曲\).md "wikilink")」をリリースし正式に2人体制での活動がスタートする。
-
-[2001年](../Page/2001年.md "wikilink")1月発売の17thシングル「[fragile](https://ja.wikipedia.org/wiki/fragile/JIRENMA "wikilink")」は人気番組[あいのり](../Page/あいのり.md "wikilink")主題歌に起用され久々の1位獲得し、シングルでは2番目のヒットを記録。同年オリコン年間カラオケチャートで1位を獲得し、3年連続年間TOP10入りを果たした。その後も、2002年「[UNTITLED 4 ballads](../Page/UNTITLED_4_ballads.md "wikilink")」、2003年「[また あした](../Page/また_あした.md "wikilink")」、2004年「[恋文/good night](https://ja.wikipedia.org/wiki/恋文/good_night "wikilink")」など安定したヒット作を飛ばし、[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")には過去8回連続出場している（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - [2004年](../Page/2004年.md "wikilink")）。また、音楽番組のみならずバラエティー番組の出演も多く、ラジオの出演も多い。
+[2001年](../Page/2001年.md "wikilink")1月発売の17thシングル「[fragile](https://ja.wikipedia.org/wiki/fragile/JIRENMA "wikilink")」は人気番組[あいのり](../Page/あいのり.md "wikilink")主題歌に起用され久々の1位獲得、83万枚というシングルでは自身2番目のヒットを記録。同年オリコン年間カラオケチャートで1位を獲得し、3年連続年間TOP10入りを果たした。その後も、2002年「[UNTITLED 4 ballads](../Page/UNTITLED_4_ballads.md "wikilink")」、2003年「[また あした](../Page/また_あした.md "wikilink")」、2004年「[恋文/good night](https://ja.wikipedia.org/wiki/恋文/good_night "wikilink")」など安定したヒット作を飛ばし、[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")には過去8回連続出場している（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - [2004年](../Page/2004年.md "wikilink")）。また、音楽番組のみならずバラエティー番組の出演も多く、ラジオの出演も多い。
 
 [2009年](../Page/2009年.md "wikilink")9月発売の36thシングル「[DREAM GOES ON](https://ja.wikipedia.org/wiki/DREAM_GOES_ON "wikilink")」で脱退以来9年ぶりとなる五十嵐が楽曲を提供、同年11月発売の37thシングル「[冷たい雨](https://ja.wikipedia.org/wiki/冷たい雨_\(Every_Little_Thingの曲\) "wikilink")」、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")2月発売の10thアルバム『[CHANGE](https://ja.wikipedia.org/wiki/CHANGE_\(Every_Little_Thingのアルバム\) "wikilink")』でも上記3作品以外の収録曲で五十嵐が作詞・作曲・編曲を担当した。
 
@@ -40,9 +38,9 @@
 ### 現メンバー
 
   - [持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink")（もちだ かおり）
-    [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")生まれ。[東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")出身。[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、作詞、作曲担当。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。愛称はもっちー。幼い頃から芸能活動をしていた。イラストが得意。
+    [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")生まれ。[東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")出身。[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、作詞、作曲担当。[血液型はA型](../Page/ABO式血液型.md "wikilink")。愛称はもっちー。幼い頃から芸能活動をしていた。イラストが得意。
   - [伊藤一朗](../Page/伊藤一朗.md "wikilink")（いとう いちろう）
-    [1967年](../Page/1967年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")生まれ。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横須賀市](../Page/横須賀市.md "wikilink")出身。リーダー、[ギター](../Page/ギター.md "wikilink")、作曲、編曲担当。血液型はA型。愛称はいっくん。
+    [1967年](../Page/1967年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")生まれ。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横須賀市](../Page/横須賀市.md "wikilink")出身。リーダー、[ギター](../Page/ギター.md "wikilink")、作曲、編曲担当。血液型はA型。愛称はいっくん。持田からは一朗さんと呼ばれる。
 
 ### 元メンバー
 
@@ -619,6 +617,7 @@ AVCD-83390</p></td>
         持田香織本人も参加する事が発表されている「JALホノルルマラソン2014」オフィシャルテーマソング。
         [e-onkyo music](../Page/オンキヨー.md "wikilink")、[mora](https://ja.wikipedia.org/wiki/mora "wikilink")では自身初となる48kHz/24bitの[ハイレゾ音源](https://ja.wikipedia.org/wiki/ハイレゾ音源 "wikilink")で配信もされている。
         企画アルバム『[Every Cheering Songs](https://ja.wikipedia.org/wiki/Every_Cheering_Songs "wikilink")』でCD音源化。
+        ベストアルバム『[Every Best Single 2 \~MORE COMPLETE\~](https://ja.wikipedia.org/wiki/Tabitabi+Every_Best_Single_2_〜MORE_COMPLETE〜 "wikilink")』にも収録。
   - [ELT Hi-res ballad selection](https://ja.wikipedia.org/wiki/ELT_Hi-res_ballad_selection "wikilink")（2015年09月23日配信）
       -
         『さよなら』、『Time goes by』、『fragile(Acoustic Version)』の3曲を収録したハイレゾ音源化したもの。
@@ -1220,7 +1219,7 @@ MCはゆったりとほのぼのとした、心地のよいELTワールドをつ
 
 ### コンサートの流れ
 
-前半はMCを挟みつつロウテンポの楽曲を中心に進む。持田がいったん退場すると伊藤のソロコーナーがあり、高度なギターテクニックが披露される（ソロコーナーでは、サポートメンバーの各自担当の演奏の見せ所でもある）。ここで観客のボルテージは最高潮に達し、そこに持田が衣装替えをして再登場し、激しいアップテンポの曲で会場を盛り上げる。歌い終わると持田が「アホになる気はあんのか、お前ら」「愛を謳う気はあるのか」「イエイ\!イエイ\!イエイ\!」と客席を煽り（伊藤が前振りで行うこともある）、その後アップテンポの楽曲を持田と観客が1〜2フレーズずつ掛け合いながら歌っていく。本編最後はバラードで締めくくられるのがほとんどである（アルバムの新曲か、愛の歐などが多い）。
+前半はMCを挟みつつロウテンポの楽曲を中心に進む。持田がいったん退場すると伊藤のソロコーナーがあり、高度なギターテクニックが披露される（ソロコーナーでは、サポートメンバーの各自担当の演奏の見せ所でもある）。ここで観客のボルテージは最高潮に達し、そこに持田が衣装替えをして再登場し、激しいアップテンポの曲で会場を盛り上げる。歌い終わると持田が「アホになる気はあんのか、お前ら」「愛を謳う気はあるのか」「イエイ\!イエイ\!イエイ\!」と客席を煽り（伊藤が前振りで行うこともある）、その後アップテンポの楽曲を持田と観客が1〜2フレーズずつ掛け合いながら歌っていく。本編最後はバラードで締めくくられるのがほとんどである（アルバムの新曲か、愛の謳などが多い）。
 
 アンコールがある場合、ツアーの表題曲や新曲を披露したあと、再びアップテンポの楽曲を観客と合唱する。挨拶の後、最後はバラードでしっとりと締めくくられる。エンドロールは、セットリストに組み込まれていなければ、「Over and Over」のインストとなる。
 
@@ -2071,7 +2070,7 @@ TOYOTA「HILUX SURF SSR-V」CFソング<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>fragile</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Fragile/JIRENMA" title="wikilink">fragile</a></p></td>
 <td><p>フジテレビ系列「<a href="../Page/あいのり.md" title="wikilink">あいのり</a>」主題歌（2000年10月 - 2001年9月）</p></td>
 </tr>
 <tr class="even">
@@ -2410,7 +2409,7 @@ TBS系「恋愛Master 7メモリーズ」テーマソング</p></td>
 </tbody>
 </table>
 
-## NHK紅白歌合戦
+## NHK紅白歌合戦出場歴
 
 | 年/放送回                                                                      | 回 | 曲目                                                                                      | 対戦相手                                                                                                           |
 | -------------------------------------------------------------------------- | - | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -2443,7 +2442,7 @@ TBS系「恋愛Master 7メモリーズ」テーマソング</p></td>
   -
   - [ciao](https://elt.fc.avex.jp/) - Every Little Thing公式ファンクラブ
 
-[Category:Every_Little_Thing](https://ja.wikipedia.org/wiki/Category:Every_Little_Thing "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:1995年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1995年に結成した音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")
+[Category:Every_Little_Thing](https://ja.wikipedia.org/wiki/Category:Every_Little_Thing "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:1995年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1995年に結成した音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")
 
 1.  [ELT・伊藤一朗、「あいのり」主題歌ヒットで首の皮一枚つながった…](https://news.walkerplus.com/article/76407/)
 2.  [Every Little Thing - TOWER RECORDS](http://tower.jp/artist/239241/Every-Little-Thing)

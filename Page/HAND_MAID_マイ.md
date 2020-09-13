@@ -84,6 +84,6 @@
 
 [Category:アニメ作品_は](https://ja.wikipedia.org/wiki/Category:アニメ作品_は "wikilink") [Category:ワンダーファーム](https://ja.wikipedia.org/wiki/Category:ワンダーファーム "wikilink") [Category:東京キッズ](https://ja.wikipedia.org/wiki/Category:東京キッズ "wikilink") [Category:2003年のOVA](https://ja.wikipedia.org/wiki/Category:2003年のOVA "wikilink") [Category:ロボットを主人公にした作品](https://ja.wikipedia.org/wiki/Category:ロボットを主人公にした作品 "wikilink") [Category:メイドを題材とした作品](https://ja.wikipedia.org/wiki/Category:メイドを題材とした作品 "wikilink")
 
-1.  [H.M.メイのひみつ　1](http://web.archive.org/web/20030626195805/diary2.cgiboy.com/1/hirata/index.cgi?y=2003&m=5)、2003年5月10日、『ヒラタのひとりごと』のInternet Archiveキャッシュより
+1.  [H.M.メイのひみつ　1](https://web.archive.org/web/20030626195805/diary2.cgiboy.com/1/hirata/index.cgi?y=2003&m=5)、2003年5月10日、『ヒラタのひとりごと』のInternet Archiveキャッシュより
 2.  [ファンのみなさんにお知らせ](http://www.wonderfarm.co.jp/handmaid/contents/news.html)、2003年7月9日、公式NEWSより
 3.  第1話の小津日出生の台詞によって明かされている

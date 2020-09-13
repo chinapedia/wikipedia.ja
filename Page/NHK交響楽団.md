@@ -7,7 +7,7 @@
 
 [公益財団法人](https://ja.wikipedia.org/wiki/公益財団法人 "wikilink")（2010(平成22)年4月1日より）であり、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）からの出向者が歴代の理事長を務めている。2016年4月26日現在の理事長は森茂雄。NHKから受信料を財源に14億円（2013(平成25)年度）の[交付金](https://ja.wikipedia.org/wiki/交付金 "wikilink")（国内放送費に計上）を受け、楽団側は演奏の放送などで事業に協力している\[2\]。その他に民間各社からも支援を受けている。この助成金は、旧[放送法](../Page/放送法.md "wikilink")、9条2項1号（1988(昭和63)年改正前）「放送番組編集上必要な劇団、音楽団を維持し、養成し、又は助成すること」を根拠に支出されている。この考え方は、現放送法20条（業務）2項6号「前項の業務に附帯する業務を行うこと」に引き継がれている\[3\]。
 
-NHKは別途、[東京放送管弦楽団](../Page/東京放送管弦楽団.md "wikilink")など放送用専属[オーケストラ](../Page/オーケストラ.md "wikilink")を主要放送局ごとに持っており、[紅白歌合戦](https://ja.wikipedia.org/wiki/紅白歌合戦 "wikilink")などの[歌番組](https://ja.wikipedia.org/wiki/歌番組 "wikilink")や[娯楽番組](https://ja.wikipedia.org/wiki/娯楽番組 "wikilink")でNHK交響楽団が演奏することはない。
+NHKは別途、[東京放送管弦楽団](../Page/東京放送管弦楽団.md "wikilink")など放送用専属[オーケストラ](../Page/オーケストラ.md "wikilink")を主要放送局ごとに持っており、[紅白歌合戦](https://ja.wikipedia.org/wiki/紅白歌合戦 "wikilink")などの[歌番組](https://ja.wikipedia.org/wiki/歌番組 "wikilink")や[娯楽番組](../Page/娯楽番組.md "wikilink")でNHK交響楽団が演奏することはない。
 
 ## コンサート
 

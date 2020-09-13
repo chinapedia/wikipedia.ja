@@ -33,10 +33,16 @@
 ### 固有名詞
 
   - [みんなのたあ坊](../Page/みんなのたあ坊.md "wikilink") - [サンリオ](../Page/サンリオ.md "wikilink")の[キャラクター](../Page/キャラクター.md "wikilink")
+
   - [戸田恵梨香](https://ja.wikipedia.org/wiki/戸田恵梨香 "wikilink")の愛称 - [SCHOOL OF LOCK\!の](../Page/SCHOOL_OF_LOCK!.md "wikilink")[GIRLS LOCKS\!で命名](../Page/GIRLS_LOCKS!.md "wikilink")。
+
   - テーマ活動（*theme actibity*） - 外国語教育団体[ラボ・パーティ](https://ja.wikipedia.org/wiki/ラボ・パーティ "wikilink")の中心活動
+
   - [標準時配信局](https://ja.wikipedia.org/wiki/標準時配信局 "wikilink") (Time Authority)
+
   - [THE IDOLM@STER THE@TER ACTIVITIES](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_THE@TER_ACTIVITIES "wikilink") - ゲーム『[アイドルマスター ミリオンライブ\!](https://ja.wikipedia.org/wiki/アイドルマスター_ミリオンライブ! "wikilink")』のCDシリーズ。略称として「TA」が使用される。
+
+  - 。
 
 ### フィクションの略語・略称
 

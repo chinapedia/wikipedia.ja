@@ -21,6 +21,7 @@
               - （Kenya Broadcasting Corporation） - [ケニア](../Page/ケニア.md "wikilink")の公営放送局。
       - その他企業
           - [神戸屋](../Page/神戸屋.md "wikilink")（Kobeya Baking Co., Ltd.） - [大阪市](../Page/大阪市.md "wikilink")に本社を置くパン製造・レストラン運営会社。
+          - [京阪神ビルディング](../Page/京阪神ビルディング.md "wikilink")（Keihanshin Building Co., Ltd）- 大阪市に本社を置き、オフィスビル並びにウインズの建物を建設・管理する会社。
           - [川中島バス](../Page/川中島バス.md "wikilink")（Kawanakajima Bus Company） - [長野県](../Page/長野県.md "wikilink")のバス事業者。
           - キッズベースキャンプ - [東急グループ](https://ja.wikipedia.org/wiki/東急グループ "wikilink")で[学童保育](../Page/学童保育.md "wikilink")を手掛ける企業。[東急グループ\#サービス事業関連](https://ja.wikipedia.org/wiki/東急グループ#サービス事業関連 "wikilink")参照。
           - KBC - [ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")の企業、[キンバックシティグループ](https://ja.wikipedia.org/wiki/キンバックシティグループ "wikilink")の[ホーチミン証券取引所](https://ja.wikipedia.org/wiki/ホーチミン証券取引所 "wikilink")でのコード
@@ -28,7 +29,7 @@
 ## その他の団体
 
   - 正式名称
-      - KBC学園グループ - [沖縄県](../Page/沖縄県.md "wikilink")にある学校法人\[1\]。下記の[専修学校](https://ja.wikipedia.org/wiki/専修学校 "wikilink")などを運営。
+      - 学校法人KBC学園グループ - 1983年6月創立、[沖縄県](../Page/沖縄県.md "wikilink")最大の専門学校\[1\]。下記の[専修学校](https://ja.wikipedia.org/wiki/専修学校 "wikilink")などを運営。
   - 略称
       - 関西ブックシティ（Kansai Book City） - [大阪屋](../Page/大阪屋.md "wikilink")の出版流通センター。
       - [国際電子ビジネス専門学校](https://ja.wikipedia.org/wiki/国際電子ビジネス専門学校 "wikilink") - 沖縄県[那覇市](../Page/那覇市.md "wikilink")にある専修学校。

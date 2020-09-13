@@ -54,7 +54,7 @@
       - "Winterfair Gifts", 2002 (Miles in Loveに収録)-『冬の市の贈り物』, 『任務外作戦(下)』に収録, 2013, 創元SF文庫（小木曽絢子訳）, ISBN 978-4-488-69817-1
       - Cryoburn, 2010 - 『マイルズの旅路』,2017,創元SF文庫(小木曽絢子訳)、ISBN 978-4-488-69821-8
       - Captain Vorpatril's Alliance, 2012 - 『大尉の盟約（上・下）』, 2015,創元SF文庫（小木曽絢子訳）、ISBN 978-4-488-69819-5 /ISBN 978-4-488-69820-1
-      - Gentleman Jole and the Red Queen, 2016 - 『女総督コーデリア』、2020、創元SF文庫
+      - Gentleman Jole and the Red Queen, 2016 - 『女総督コーデリア』,2020,創元SF文庫（小木曽絢子訳）、ISBN 978-4-488-69822-5
       - The Flowers of Vashnoi, 2018
 
 ### ファンタジー作品

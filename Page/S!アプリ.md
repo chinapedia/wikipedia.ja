@@ -1,14 +1,14 @@
 > この記事は[S!アプリ](https://ja.wikipedia.org/wiki/S!アプリ)から翻訳されています。
 
 
-**S\!アプリ**（エス\!アプリ）は[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")が提供する、[Yahoo\!ケータイ](../Page/Yahoo!ケータイ.md "wikilink")対応[携帯電話](../Page/携帯電話.md "wikilink")の一部で実行できる[Javaアプリケーション](https://ja.wikipedia.org/wiki/Javaアプリケーション "wikilink")およびサービスである。 主に[ゲームなどに利用されている](../Page/携帯型ゲーム.md "wikilink")。ボーダフォン時代の旧称は**Vアプリ**、その前のJ-フォン時代は**Java™アプリ**という呼称が使われていた。
+**S\!アプリ**（エス アプリ）は[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")が提供する、[Yahoo\!ケータイ](../Page/Yahoo!ケータイ.md "wikilink")対応[携帯電話](../Page/携帯電話.md "wikilink")の一部で実行できる[Javaアプリケーション](https://ja.wikipedia.org/wiki/Javaアプリケーション "wikilink")およびサービスである。 主に[ゲームなどに利用されている](../Page/携帯型ゲーム.md "wikilink")。ボーダフォン時代の旧称は**Vアプリ**、その前のJ-フォン時代は**Java™アプリ**という呼称が使われていた。
 
 ## 概要
 
   - S\!アプリの実体は[EZアプリ (Java)と同様に](../Page/EZアプリ_\(Java\).md "wikilink")[MIDP](https://ja.wikipedia.org/wiki/MIDP "wikilink")(Mobile Information Device Profile)にしたがって作成されたJavaアプリケーションである。
   - 50kアプリ（[SoftBank 403SH及びV](https://ja.wikipedia.org/wiki/SoftBank_403SH "wikilink")3.V4.J-0xシリーズ対応\*注1）・100kアプリ（V5.V6.V8.J-5xシリーズ対応）・256kアプリ/256ver2アプリ（[SoftBank 502T及びV](https://ja.wikipedia.org/wiki/SoftBank_502T "wikilink")5.V6シリーズ\*注2）・メガアプリ（1M、[SoftBank 3G](../Page/SoftBank_3G.md "wikilink")\*注3）の5種類があり、容量が多いアプリ対応機は容量が少ないアプリにも対応しているが、SoftBank 3Gではアプリの実行環境が変わり、一部の下位アプリは利用できなくなっている。
   - 一部のシャープ製端末はモーションコントロールセンサーに対応している。
-  - EZアプリ (Java)と比較すると、ゲーム関連の機能を早くから充実していたことなどの理由から、ゲームアプリが充実している。
+  - EZアプリ (Java)と比較すると、ゲーム関連の機能を早くから実装していたことなどの理由から、ゲームアプリが充実している。
       - 注1:V3シリーズはシャープ製のみ対応、V401SAは非対応、J-0xはJ-SH07以降の一部機種を除き対応。
       - 注2:V601NやJ-5x（J-SH53を除く）などは非対応。J-SH53、V601SH及び[V601T](../Page/V601T.md "wikilink")、[V602T](../Page/V602T.md "wikilink")ではアプリによっては非対応もしくは仕様変更となっている（一例:[アークザラッド](../Page/アークザラッド.md "wikilink")）。
       - 注3:708SC、730SC、930SC、V8シリーズ、[SoftBank X シリーズは非対応](../Page/SoftBank_X.md "wikilink")。また、702NK、702NK II、702MO、702sMO、802SCはQVGAに対応していない。
@@ -38,7 +38,7 @@
   - [2003年](../Page/2003年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink") - ボーダフォンになり「Vアプリ」に名称変更\[4\]
   - [2006年](../Page/2006年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink") - ボーダフォンがソフトバンクモバイルに社名変更されたことから、名称が「Vアプリ」から「S\!アプリ」に変更された。
   - [2015年](../Page/2015年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") - ボーダフォン時代に発売された機種、ならびに2007年夏モデルまでのサムスン電子製機種での提供終了\[5\]。
-  - [2020年](../Page/2020年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink") - 全アプリケーションの配信を終了予定\[6\]。
+  - [2020年](../Page/2020年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink") - 全アプリケーションの配信を終了\[6\]。
 
 ## 特徴
 
@@ -48,7 +48,7 @@
 
 ## 互換性
 
-EZアプリ(Java)もMIDPを採用しているが、KDDI、ソフトバンクモバイルともに独自拡張したAPIを含んでいるため移植時にはソースの修正が必要となる。ただし、プロファイルが異なるDoJaプロファイルよりは比較的修正点が少なくなる。
+EZアプリ(Java)もMIDPを採用しているが、KDDI、ソフトバンクモバイルともに独自拡張したAPIを含んでいるため移植時にはソースの修正が必要となる。ただし、プロファイルが異なるDoJaプロファイルよりは比較的修正点が少ない。
 
 ## 脚注
 

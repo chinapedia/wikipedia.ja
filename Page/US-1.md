@@ -25,7 +25,7 @@
 
 ## 運用
 
-[JMSDF_Seaplane_Exercise_130108-M-YH418-011.jpg](https://ja.wikipedia.org/wiki/File:JMSDF_Seaplane_Exercise_130108-M-YH418-011.jpg "fig:JMSDF_Seaplane_Exercise_130108-M-YH418-011.jpg") [JMSDF_Seaplane_Exercise_130108-M-YH418-002.jpg](https://ja.wikipedia.org/wiki/File:JMSDF_Seaplane_Exercise_130108-M-YH418-002.jpg "fig:JMSDF_Seaplane_Exercise_130108-M-YH418-002.jpg") [海上自衛隊](../Page/海上自衛隊.md "wikilink")[岩国航空基地所属の第](../Page/岩国飛行場.md "wikilink")31航空群第71航空隊に7機が配備され、そのうち1機を[厚木基地に分遣隊として派遣していたが](https://ja.wikipedia.org/wiki/厚木飛行場 "wikilink")、現在は後継機の**[US-2](https://ja.wikipedia.org/wiki/US-2_\(航空機\) "wikilink")**の配備により徐々に運用機数を減らしている。乗員には[機上救護員](https://ja.wikipedia.org/wiki/機上救護員 "wikilink")などの救助要員も含むために、12名と多くなっている。
+[JMSDF_Seaplane_Exercise_130108-M-YH418-011.jpg](https://ja.wikipedia.org/wiki/File:JMSDF_Seaplane_Exercise_130108-M-YH418-011.jpg "fig:JMSDF_Seaplane_Exercise_130108-M-YH418-011.jpg") [JMSDF_Seaplane_Exercise_130108-M-YH418-002.jpg](https://ja.wikipedia.org/wiki/File:JMSDF_Seaplane_Exercise_130108-M-YH418-002.jpg "fig:JMSDF_Seaplane_Exercise_130108-M-YH418-002.jpg") [海上自衛隊](../Page/海上自衛隊.md "wikilink")[岩国航空基地所属の第](../Page/岩国飛行場.md "wikilink")31航空群第71航空隊に7機が配備され、そのうち1機を[厚木基地に分遣隊として派遣していたが](https://ja.wikipedia.org/wiki/厚木飛行場 "wikilink")、現在は後継機の**[US-2](https://ja.wikipedia.org/wiki/US-2_\(航空機\) "wikilink")**の配備により徐々に運用機数を減らしている。乗員には[機上救護員](../Page/機上救護員.md "wikilink")などの救助要員も含むために、12名と多くなっている。
 
 飛行艇の有利な点として、洋上での発着が可能なことから、飛行場の無い離島へもアクセスできること、[ヘリコプター](../Page/ヘリコプター.md "wikilink")より長い航続距離と、ヘリコプターや船舶よりもはるかに高速であることがある。US-1はこれらの利点を最大限に活用した機体である。
 
@@ -95,14 +95,14 @@
   - [新明和工業](../Page/新明和工業.md "wikilink") - [航空機メーカーの一覧](../Page/航空機メーカーの一覧.md "wikilink")
   - [航空機](../Page/航空機.md "wikilink") - [飛行機](../Page/飛行機.md "wikilink") - [飛行艇](../Page/飛行艇.md "wikilink") - [日本製航空機の一覧](../Page/日本製航空機の一覧.md "wikilink")
   - [海上自衛隊](../Page/海上自衛隊.md "wikilink")
-  - [機上救護員](https://ja.wikipedia.org/wiki/機上救護員 "wikilink")
+  - [機上救護員](../Page/機上救護員.md "wikilink")
 
 ## 外部リンク
 
-  - [ＵＳ-１Ａ 固定翼機](http://www.mod.go.jp/msdf/formal/gallery/aircraft/kyunan/details/us-1a.html) - 海上自衛隊
+  - [ＵＳ-１Ａ 固定翼機](https://www.mod.go.jp/msdf/formal/gallery/aircraft/kyunan/details/us-1a.html) - 海上自衛隊
   - [US-1/US-1A 水陸両用の飛行艇（開発機体名称 PS-1改）](https://www.shinmaywa.co.jp/aircraft/us2/us2_history04.html) - [新明和工業](../Page/新明和工業.md "wikilink")
 
-[Category:飛行艇](https://ja.wikipedia.org/wiki/Category:飛行艇 "wikilink") [Category:日本の航空機](https://ja.wikipedia.org/wiki/Category:日本の航空機 "wikilink") [Category:海上自衛隊の装備品](https://ja.wikipedia.org/wiki/Category:海上自衛隊の装備品 "wikilink") [Category:新明和の航空機](https://ja.wikipedia.org/wiki/Category:新明和の航空機 "wikilink")
+[Category:日本の飛行艇](https://ja.wikipedia.org/wiki/Category:日本の飛行艇 "wikilink") [Category:日本の軍用機](https://ja.wikipedia.org/wiki/Category:日本の軍用機 "wikilink") [Category:海上自衛隊の装備品](https://ja.wikipedia.org/wiki/Category:海上自衛隊の装備品 "wikilink") [Category:新明和の航空機](https://ja.wikipedia.org/wiki/Category:新明和の航空機 "wikilink")
 
 1.  前身のPS-1も車輪を備えているが、これは地上走行、あるいは水面との行き来に用いる「ビーチング・ギア」であり、離着陸用としては使用できない。
 2.  『世界の傑作機 No.140 新明和US-1』p.32
@@ -112,6 +112,6 @@
 6.
 7.  『世界の傑作機 No.140 新明和US-1』p.34
 8.  [在日米軍司令官が命の恩人と再会 \> Marine Corps Air Station Iwakuni-Japanese \> News Article Display](https://www.mcasiwakunijp.marines.mil/News/News-Article-Display/Article/621310/)
-9.  [第７１航空隊 ＵＳ－１Ａ　９０号除籍記念式典](http://www.mod.go.jp/msdf/iwakuni/about/gallery/gallery291213.html)
+9.  [第７１航空隊 ＵＳ－１Ａ　９０号除籍記念式典](https://web.archive.org/20180802163027/http://www.mod.go.jp/msdf/iwakuni/about/gallery/gallery291213.html)
 10. [海自が韓国兵を急患搬送　宮城・金華山沖、災害派遣で初](https://web.archive.org/web/20100817233653/https://www.47news.jp/CN/201008/CN2010081201000839.html) 47NEWS 2010年8月12日
 11. [世界最高水準の性能 海自救難飛行艇「ＵＳー１Ａ」が退役](https://web.archive.org/web/20171218120518/https://www3.nhk.or.jp/news/html/20171213/k10011257531000.html)

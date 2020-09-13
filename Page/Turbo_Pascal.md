@@ -15,7 +15,7 @@ Turbo Pascal の開発者である[アンダース・ヘルスバーグ](../Page
 
 個人で買えるほどの安い価格、[アセンブラで記述され](../Page/アセンブリ言語.md "wikilink")、全ての動作をRAM内で行う高速なコンパイラ、[フルスクリーンエディタを含む使いやすい統合開発環境は大きな衝撃を与えた](../Page/テキストエディタ.md "wikilink")。当時のメジャーなフルスクリーンエディタであった[WordStar](../Page/WordStar.md "wikilink")の編集操作用キーボードショートカットをそのまま利用できたのも魅力であった。
 
-バージョン4からは、[Modula-2](https://ja.wikipedia.org/wiki/Modula-2 "wikilink")で実現された特徴のいくつかをPascalに取り込み、ソフトウェアパーツのユニット化（分割コンパイル）や[インラインアセンブラ](https://ja.wikipedia.org/wiki/インラインアセンブラ "wikilink")の利用、ハードウェアへの低レベルアクセス（[メモリ](../Page/主記憶装置.md "wikilink")、[I/Oポート](https://ja.wikipedia.org/wiki/I/Oポート "wikilink")直接アクセス、[割り込み処理の実装](../Page/割り込み_\(コンピュータ\).md "wikilink")）を可能にし、通常のPascalは守備範囲としていないハードウェア制御やグラフィック等を含むより実践的なソフトウェア開発が可能になった点などをあげることができる。バージョン5.5から[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")機能を持つまでに拡張された。
+バージョン4からは、[Modula-2](https://ja.wikipedia.org/wiki/Modula-2 "wikilink")で実現された特徴のいくつかをPascalに取り込み、ソフトウェアパーツの化（）や[インラインアセンブラ](https://ja.wikipedia.org/wiki/インラインアセンブラ "wikilink")の利用、ハードウェアへの低レベルアクセス（[メモリ](../Page/主記憶装置.md "wikilink")、[I/Oポート](https://ja.wikipedia.org/wiki/I/Oポート "wikilink")直接アクセス、[割り込み処理の実装](../Page/割り込み_\(コンピュータ\).md "wikilink")）を可能にし、通常のPascalは守備範囲としていないハードウェア制御やグラフィック等を含むより実践的なソフトウェア開発が可能になった点などをあげることができる。バージョン5.5から[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")機能を持つまでに拡張された。
 
 ## バージョン履歴
 

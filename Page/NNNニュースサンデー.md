@@ -1,11 +1,11 @@
 > この記事は[NNNニュースサンデー](https://ja.wikipedia.org/wiki/NNNニュースサンデー)から翻訳されています。
 
 
-『**NNNニュースサンデー**』（エヌエヌエヌ ニュースサンデー）とは、[1996年](../Page/1996年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")（[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")）で放送されている[ニュース番組](../Page/報道番組.md "wikilink")（[手話ニュース](../Page/手話ニュース.md "wikilink")）である。放送時間は毎週日曜日 6:15 - 6:30 （[JST](../Page/日本標準時.md "wikilink")）。民放の全国ニュースとしては、[2019年](../Page/2019年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")放送分まで唯一の手話ニュース番組となっていた（[2019年](../Page/2019年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から土日朝の「[JNNニュース](../Page/JNNニュース.md "wikilink")」においても手話通訳が導入された為、現在は2番組となっている（土曜朝の手話通訳はJNNのみ））。
+『**NNNニュースサンデー**』（エヌエヌエヌ ニュースサンデー）とは、[1996年](../Page/1996年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")（[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")）で放送されている[ニュース番組](../Page/報道番組.md "wikilink")（[手話ニュース](../Page/手話ニュース.md "wikilink")）である。放送時間は毎週日曜日 6:15 - 6:30 （[JST](../Page/日本標準時.md "wikilink")）。民放の全国ニュースとしては、[2019年](../Page/2019年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")放送分まで唯一の手話ニュース番組となっていた（[2019年](../Page/2019年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から土日朝の「[JNNニュース](../Page/JNNニュース.md "wikilink")」を、[2020年](../Page/2020年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")から土曜朝の「[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")」においても手話通訳が導入された為、現在は3番組となっている（土曜朝の手話通訳はJNNとANNのみ））。
 
 ## 概要
 
-長年放送された『**[NNN朝のニュース](../Page/NNN朝のニュース.md "wikilink")**』からタイトルを変更した番組である。『[日本テレビ小鳩文化事業団](../Page/日本テレビ小鳩文化事業団.md "wikilink")』の協力による同時[手話通訳](../Page/手話通訳.md "wikilink")放送が行われており、6:28（2014年9月28日までは6:58）までCMは一切放送されない。最初は[明治生命](https://ja.wikipedia.org/wiki/明治安田生命 "wikilink")（当時、現：明治安田生命）がスポンサーに付いていた（ただしCMは流れていなかった）。2003年9月に明治生命（提供読みは**「明るい社会づくりに奉仕する明治生命」**のちの**「ゆたかな明日へ 明治生命」**だった）がスポンサーから撤退したが、現在でも手話通訳は続いている。[報道特別番組](../Page/報道特別番組.md "wikilink")と重なった場合は番組休止と共に手話通訳も休止になる。
+『[NNN NEWS ZIP\!](https://ja.wikipedia.org/wiki/NNN_NEWS_ZIP! "wikilink")』の日曜版に相当する。長年放送された『**[NNN朝のニュース](../Page/NNN朝のニュース.md "wikilink")**』からタイトルを変更した番組である。『[日本テレビ小鳩文化事業団](../Page/日本テレビ小鳩文化事業団.md "wikilink")』（2012年3月までは『日本テレビ系列愛の小鳩事業団』）の協力による同時[手話通訳](../Page/手話通訳.md "wikilink")放送が行われており、6:28（2014年9月28日までは6:58）までCMは一切放送されない。最初は[明治生命](https://ja.wikipedia.org/wiki/明治安田生命 "wikilink")（当時、現：明治安田生命）がスポンサーに付いていた（ただしCMは流れていなかった）。2003年9月に明治生命（提供読みは**「明るい社会づくりに奉仕する明治生命」**のちの**「ゆたかな明日へ 明治生命」**だった）がスポンサーから撤退したが、現在でも手話通訳は続いている。[報道特別番組](../Page/報道特別番組.md "wikilink")と重なった場合は番組休止と共に手話通訳も休止になる。
 
 『[24時間テレビ 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』放送時においては、2004年以前には途中でイベント放送を打ち切り、6:45にはニューススタジオに移っていた（武道館アナウンサーが「（途中ですが、）ここでニュースです」とアナウンスを入れる。ただし、武道館ではイベントを続行させる）。この時のBGMは、ニュースサンデー（朝のニュース時代から）のオープニングの後、「手話通訳同時放送」のコメント（後述）をする際にバックでかかっていた曲である。しかし、2005年からはアナウンスの後に「NNNニュースサンデー」のロゴを挿入するようになった（ただし、枠が10分間であるためローカル枠は6:53頃（通常より3、4分早い）から）。2011年放送分のタイムテーブルでは6:45 - 6:57までとなっている。
 
@@ -20,6 +20,8 @@
 画面右下に手話通訳を流すため、画面下部の字幕スーパーは左詰めで表示される。また地方局発のニュース映像では、生中継の場合を除き基本的には日テレ側で字幕を挿入するが、ニュース読みは当番組の担当キャスターが生で読む場合と地方局のアナウンサーが収録で読む場合のいずれかに分かれている。
 
 2019年7月7日放送分より、関東地区並びに一部地域では番組開始以来初めて天気ループの表示を開始した。
+
+[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")はフジテレビ([FNN](https://ja.wikipedia.org/wiki/Fuji_News_Network "wikilink"))の「[産経テレニュースFNN](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")」→「[FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース "wikilink")」をネット受けしているため未ネット。
 
 ## タイトルロゴ・テーマ曲
 
@@ -137,10 +139,15 @@
 </tr>
 <tr class="even">
 <td><p>2015.10.4</p></td>
-<td><p>現在</p></td>
+<td></td>
 <td><p>（シフト勤務）</p></td>
 </tr>
 <tr class="odd">
+<td><p>!現在</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/伊藤大海" title="wikilink">伊藤大海</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><small></p>
 <ul>
 <li><sup>1</sup> <a href="https://ja.wikipedia.org/wiki/日本テレビ系列昼ニュース枠" title="wikilink">同日昼のニュースを兼務</a>（担当期間は同番組のページを参照）。</li>
@@ -389,7 +396,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a>（JRT）</p></td>
+<td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a>（JRT）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -456,6 +463,8 @@
   - [RAB耳の新聞](../Page/RAB耳の新聞.md "wikilink") - 2014年9月まで、放送時間がほぼ重複していた青森放送ラジオで放送される視覚障害者向けの番組。
   - [京都新聞ニュース](../Page/京都新聞ニュース.md "wikilink")（[京都放送](../Page/京都放送.md "wikilink")） - 民放ローカルニュースでの手話通訳実施番組。
   - [KKBスーパーJチャンネル](https://ja.wikipedia.org/wiki/KKBスーパーJチャンネル "wikilink")（[鹿児島放送](../Page/鹿児島放送.md "wikilink")） - 民放ローカルニュースでの手話通訳実施番組。手話通訳は2011年終了。
+  - [NNNニュースサタデー](../Page/NNNニュースサタデー.md "wikilink")
+  - [NNNニュースZIP\!](https://ja.wikipedia.org/wiki/NNNニュースZIP! "wikilink")
 
 [Category:1996年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1996年のテレビ番組_\(日本\) "wikilink") [Category:NNN番組](https://ja.wikipedia.org/wiki/Category:NNN番組 "wikilink") [Category:手話番組](https://ja.wikipedia.org/wiki/Category:手話番組 "wikilink") [Category:日本テレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:日本テレビの一社提供番組 "wikilink") [Category:三菱グループ単独提供番組](https://ja.wikipedia.org/wiki/Category:三菱グループ単独提供番組 "wikilink") [Category:明治安田生命保険](https://ja.wikipedia.org/wiki/Category:明治安田生命保険 "wikilink") [Category:24時間テレビ](https://ja.wikipedia.org/wiki/Category:24時間テレビ "wikilink")
 

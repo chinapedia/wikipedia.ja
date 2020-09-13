@@ -11,7 +11,7 @@
 
 なお、[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")では「[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")」が、正式名になったあとも、[2005年](../Page/2005年.md "wikilink")9月末頃までは、番組の最後に5秒間ほど青色背景に「ANNニュースフレッシュ 終」の表示があり、バックミュージックは[ニュースステーション](../Page/ニュースステーション.md "wikilink")初代テーマ曲であった1985-90年バージョンものが流れていた。これもそれ以降はやはり青色背景で『ANNニュース』と画面右下に表示されるものに変更（バックミュージック無し）し、2009年現在はテレ朝出しのニュースVTRを背景に、画面右上に「ANN NEWS END」の自局出し白テロップが挿入される形となっている（バックミュージックはテレ朝と同じ）。
 
-[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")と[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")は、当番組開始まで『[おはよう\!CNN](../Page/おはよう!CNN.md "wikilink")』をネットしていた関係で、ANN非加盟ながら番販扱いで放送していた（後述）。
+[四国放送](../Page/四国放送.md "wikilink")と[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")は、当番組開始まで『[おはよう\!CNN](../Page/おはよう!CNN.md "wikilink")』をネットしていた関係で、ANN非加盟ながら番販扱いで放送していた（後述）。
 
 ### 放送時間の変遷
 
@@ -168,7 +168,7 @@
 | [近畿広域圏](https://ja.wikipedia.org/wiki/近畿地方 "wikilink") | [朝日放送](../Page/朝日放送テレビ.md "wikilink")                       | 現：朝日放送テレビ                                       |                          |
 | [広島県](../Page/広島県.md "wikilink")                       | [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")                  |                                                 |                          |
 | [山口県](../Page/山口県.md "wikilink")                       | [山口朝日放送](../Page/山口朝日放送.md "wikilink")                      | 1993年10月開局から                                    |                          |
-| [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")    | [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")       | NNN                                             | ○1995年3月31日打ち切り\[3\]     |
+| [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")    | [四国放送](../Page/四国放送.md "wikilink")                          | NNN                                             | ○1995年3月31日打ち切り\[3\]     |
 | [香川県・岡山県](../Page/岡山県・香川県の放送.md "wikilink")            | [瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")                      | ANN                                             |                          |
 | [愛媛県](../Page/愛媛県.md "wikilink")                       | [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")       | NNN                                             | ○1995年3月31日まで\[4\]       |
 | [愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink")               | ANN                                                         | 1995年4月1日開局から                                   |                          |

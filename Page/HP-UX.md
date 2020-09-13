@@ -13,7 +13,7 @@
 
 大規模システムでは大容量かつ大量のデータを扱うため、高いレベルでの入出力データ処理能力や[高可用性](../Page/高可用性.md "wikilink")を要求される。システムが確保可能なディスク領域は、[論理ボリュームマネージャ](../Page/論理ボリュームマネージャ.md "wikilink")（LVM、[VxVM](https://ja.wikipedia.org/wiki/VxVM "wikilink")）によって管理され、データエリアの柔軟な管理や障害発生時の代替処理に対応する。一方で、[ジャーナル・ファイル・システム](../Page/ジャーナリングファイルシステム.md "wikilink")([VxFS](https://ja.wikipedia.org/wiki/VxFS "wikilink"))によって、大容量データの入出力や更新処理を効率よく行えるように最適化されている。また、障害発生時にもファイル構造の復旧を速やかに行えるようになっている。VxVMやVxFSは、かつて存在した[VERITAS](../Page/VERITAS.md "wikilink")社の商用パッケージを採用したものである。
 
-日本のベンダである[NEC](../Page/日本電気.md "wikilink")・[日立製作所](../Page/日立製作所.md "wikilink")・[沖電気工業](../Page/沖電気工業.md "wikilink")・[三菱電機](../Page/三菱電機.md "wikilink")などがOEM販売を、さらにNEC・日立製作所が自社開発による互換サーバを販売している。NECは[NX7700iシリーズ](http://jpn.nec.com/nx7700i/)やシグマグリッドを、日立は[BladeSymphony](http://www.hitachi.co.jp/products/bladesymphony/index.html)の1000シリーズのうちIPFブレードを製造している。
+日本のベンダである[NEC](../Page/日本電気.md "wikilink")・[日立製作所](../Page/日立製作所.md "wikilink")・[沖電気工業](../Page/沖電気工業.md "wikilink")・[三菱電機](../Page/三菱電機.md "wikilink")などがOEM販売を、さらにNEC・日立製作所が自社開発による互換サーバを販売している。NECは[NX7700iシリーズ](http://jpn.nec.com/nx7700i/)やシグマグリッドを、日立は[BladeSymphony](http://www.hitachi.co.jp/products/bladesymphony/index.html)の1000シリーズのうちIPFブレードを製造していた。。
 
 ## 歴史
 

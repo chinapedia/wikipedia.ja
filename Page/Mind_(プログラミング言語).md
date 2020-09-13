@@ -7,7 +7,7 @@ Forthのワードに相当する「単語」の他、全ての識別子に、日
 
 設計者は現在スクリプツ・ラボの片桐明で、[MS-DOS](../Page/MS-DOS.md "wikilink")時代には同社の前身のリギーコーポレーションからの販売であった。MS-DOS版は今はフリーウェア扱いになっている。2013年現在、[Windows版](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")（商用。評価版ダウンロードあり）と[UNIX](../Page/UNIX.md "wikilink")版（[GPL](../Page/GNU_General_Public_License.md "wikilink")）があり、スクリプツ・ラボが販売・提供している。他に、第三者によりUNIX版をB-right/V（[超漢字](../Page/超漢字.md "wikilink")）で動くようにしたものがある。
 
-また、2012年4月から、2013年現在、[Android](../Page/Android.md "wikilink")版の実験が進められている\[1\]。
+また、2012年4月から、2013年現在、[Android版の実験が進められている](../Page/Android_\(オペレーティングシステム\).md "wikilink")\[1\]。
 
 ## プログラムの例
 

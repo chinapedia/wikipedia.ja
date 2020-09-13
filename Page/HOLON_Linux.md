@@ -25,10 +25,10 @@ HOLON Linux4 for PCとHOLON Linux4 for Macintoshの二種類があった。
 
 ## 外部リンク
 
-  - [旧ホロン公式HP（Internet Archive 保管版）](http://web.archive.org/web/20080113192954/http://www.holonlinux.com/index.html)
-      - [旧HOLON Linux 公式HP](http://web.archive.org/web/20071211174315/http://www.holonlinux.com/products/linux/4forpc/index.html)
-      - [旧HOLON Linux サポート情報](http://web.archive.org/web/20041217121702/http://www.holonlinux.com/support/)
-      - [旧XonWindows3 公式HP](http://web.archive.org/web/20071219191621/http://www.holonlinux.com/products/xon/xon3/index.html)
-      - [旧LinuxDrive for Windows 公式HP](http://web.archive.org/web/20071216064716/http://www.holonlinux.com/products/linuxdrive/linuxdrive/index.html)
+  - [旧ホロン公式HP（Internet Archive 保管版）](https://web.archive.org/web/20080113192954/http://www.holonlinux.com/index.html)
+      - [旧HOLON Linux 公式HP](https://web.archive.org/web/20071211174315/http://www.holonlinux.com/products/linux/4forpc/index.html)
+      - [旧HOLON Linux サポート情報](https://web.archive.org/web/20041217121702/http://www.holonlinux.com/support/)
+      - [旧XonWindows3 公式HP](https://web.archive.org/web/20071219191621/http://www.holonlinux.com/products/xon/xon3/index.html)
+      - [旧LinuxDrive for Windows 公式HP](https://web.archive.org/web/20071216064716/http://www.holonlinux.com/products/linuxdrive/linuxdrive/index.html)
 
-[Category:Linuxディストリビューション](https://ja.wikipedia.org/wiki/Category:Linuxディストリビューション "wikilink") [Category:日本のLinux開発](https://ja.wikipedia.org/wiki/Category:日本のLinux開発 "wikilink")
+[Category:Red_Hat派生ディストリビューション](https://ja.wikipedia.org/wiki/Category:Red_Hat派生ディストリビューション "wikilink") [Category:日本のLinux開発](https://ja.wikipedia.org/wiki/Category:日本のLinux開発 "wikilink")

@@ -52,7 +52,7 @@
 
 </div>
 
-[Category:1983年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1983年のテレビ番組_\(日本\) "wikilink") [Category:TBSの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSの帯番組の歴史 "wikilink") [Category:TBSの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSの深夜番組の歴史 "wikilink") [Category:TBSの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:TBSの情報・ワイドショー番組 "wikilink") [Category:TBSのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:TBSのニュース・報道番組 "wikilink")
+[Category:1983年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1983年のテレビ番組_\(日本\) "wikilink") [Category:TBSの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSの帯番組の歴史 "wikilink") [Category:TBSの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSの深夜番組の歴史 "wikilink") [Category:TBSの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:TBSの情報・ワイドショー番組 "wikilink") [Category:TBSのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSのニュース・報道番組の歴史 "wikilink")
 
 1.  このコーナーでは、各ニュース冒頭にニュースバリューを一言で表すテロップがついたが、すべてダジャレになっていた。
 2.  『筑紫哲也NEWS23』時代の[1989年](../Page/1989年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月](../Page/9月.md "wikilink")までは毎日。その後[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から（筑紫の冠が外れた）[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月](../Page/9月.md "wikilink")までの金曜と、[2004年](../Page/2004年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から2008年9月までの月曜日、及び[2016年](../Page/2016年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2017年](../Page/2017年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までの月-木曜日。

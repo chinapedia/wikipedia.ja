@@ -140,7 +140,7 @@ D1は、機能的には成熟したとされ、メンテナンスモードに移
 
   - [D Wiki](https://wiki.dlang.org/) - 公式Wiki
   - [わかったつもりになるD言語](http://www.kmonos.net/alang/wnd/)（通称わなD。D memoの2007年版）
-  - [C/C++に疲れた人のD言語2.0](http://rayerd.plala.jp/pukiwiki/ingwiki/index.php?C%2FC%2B%2B%E3%81%AB%E7%96%B2%E3%82%8C%E3%81%9F%E4%BA%BA%E3%81%AED%E8%A8%80%E8%AA%9E2.0)
+  - <s>C/C++に疲れた人のD言語2.0</s> (リンク切れ)
   - [D言語の四方山話](http://hp.vector.co.jp/authors/VA028375/d/)
   - [D言語入門](http://wisdom.sakura.ne.jp/programming/d/index.html)
   - [D language site](http://shinh.skr.jp/d/)

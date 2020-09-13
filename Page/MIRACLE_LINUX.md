@@ -25,7 +25,7 @@ Oracle Databaseはインストールする際に[ネットワークや](../Page/
 
   - [ミラクル・リナックス公式サイト](http://www.miraclelinux.com/)
 
-[Category:Linuxディストリビューション](https://ja.wikipedia.org/wiki/Category:Linuxディストリビューション "wikilink") [Category:日本のLinux開発](https://ja.wikipedia.org/wiki/Category:日本のLinux開発 "wikilink") [Category:ソフトバンクグループ](https://ja.wikipedia.org/wiki/Category:ソフトバンクグループ "wikilink") [Category:日本の情報・通信業](https://ja.wikipedia.org/wiki/Category:日本の情報・通信業 "wikilink") [Category:新宿区の企業](https://ja.wikipedia.org/wiki/Category:新宿区の企業 "wikilink") [Category:2000年設立の企業](https://ja.wikipedia.org/wiki/Category:2000年設立の企業 "wikilink")
+[Category:Red_Hat派生ディストリビューション](https://ja.wikipedia.org/wiki/Category:Red_Hat派生ディストリビューション "wikilink") [Category:日本のLinux開発](https://ja.wikipedia.org/wiki/Category:日本のLinux開発 "wikilink") [Category:ソフトバンクグループ](https://ja.wikipedia.org/wiki/Category:ソフトバンクグループ "wikilink") [Category:日本の情報・通信業](https://ja.wikipedia.org/wiki/Category:日本の情報・通信業 "wikilink") [Category:新宿区の企業](https://ja.wikipedia.org/wiki/Category:新宿区の企業 "wikilink") [Category:2000年設立の企業](https://ja.wikipedia.org/wiki/Category:2000年設立の企業 "wikilink")
 
 1.  [ミラクル・リナックスは終わってしまったのか](http://www.itmedia.co.jp/enterprise/articles/0910/23/news017.html) ITmedia 2009年10月23日
 2.  [日本オラクル、Linux事業会社を設立](http://www.oracle.co.jp/news/ml/)

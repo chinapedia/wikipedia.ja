@@ -1,7 +1,7 @@
 > この記事は[APFSDS](https://ja.wikipedia.org/wiki/APFSDS)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Obus_501556_fh000022.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:125mm_Bm15_APFSDS.JPG "wikilink") **APFSDS**（Armor-Piercing Fin-Stabilized Discarding Sabot）は、[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")の[主砲](../Page/主砲.md "wikilink")などに使用される[砲弾](../Page/砲弾.md "wikilink")で、[装甲](../Page/装甲.md "wikilink")を貫くのに特化した砲弾である。[日本語](../Page/日本語.md "wikilink")では**装弾筒付翼安定徹甲弾**（そうだんとうつきよくあんていてっこうだん）などといわれる。開発当初は[APDS](../Page/APDS.md "wikilink")との対比としてAPDS-FSと呼ばれていた。この呼称も一部の国で使われている。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Obus-flèche_français_OFL_120_F1.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:125mm_Bm15_APFSDS.JPG "wikilink") **APFSDS**（Armor-Piercing Fin-Stabilized Discarding Sabot）は、[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")の[主砲](../Page/主砲.md "wikilink")などに使用される[砲弾](../Page/砲弾.md "wikilink")で、[装甲](../Page/装甲.md "wikilink")を貫くのに特化した砲弾である。[日本語](../Page/日本語.md "wikilink")では**装弾筒付翼安定徹甲弾**（そうだんとうつきよくあんていてっこうだん）などといわれる。開発当初は[APDS](../Page/APDS.md "wikilink")との対比としてAPDS-FSと呼ばれていた。この呼称も一部の国で使われている。
 
 ## 侵徹の物理
 
@@ -193,6 +193,16 @@ APFSDSは、従来の[徹甲弾](../Page/徹甲弾.md "wikilink")とは全く異
 <td></td>
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>
 </tr>
+<tr class="odd">
+<td><p>3BM69</p></td>
+<td><p>125</p></td>
+<td><p>n/a</p></td>
+<td><p>劣化ウラン</p></td>
+<td><p>2,050</p></td>
+<td><p>1,000 (2A82砲)</p></td>
+<td></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
+</tr>
 </tbody>
 </table>
 
@@ -215,12 +225,12 @@ APFSDSは、従来の[徹甲弾](../Page/徹甲弾.md "wikilink")とは全く異
 
 1977年にDM13が運用開始された。DM13はL/D比約12であった。 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")頃にはDM33が運用開始された。これもイスラエルがM-111の後継として開発したM-413をNATOで採用した物で、L/D比約20で460mm（距離2,000m）の侵徹力を備えていた。 [2004年](../Page/2004年.md "wikilink")頃にDM53が運用開始された。DM53はL/D比約30で610mm（距離2,000m）の侵徹力を備えていた。
 
-[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でもM735が導入され、[1984年](../Page/1984年.md "wikilink")からは国内の[ダイキン工業](../Page/ダイキン工業.md "wikilink")で[ライセンス生産](../Page/ライセンス生産.md "wikilink")が行なわれた。[1991年](../Page/1991年.md "wikilink")からは同社でラインメタル社製DM33 120mm弾のライセンス生産を行ない、**JM33**と命名して[90式戦車](../Page/90式戦車.md "wikilink")の[主砲](../Page/主砲.md "wikilink")弾とした。[1994年](../Page/1994年.md "wikilink")からは同じくダイキンで105mm APFSDS弾の独自開発による量産が行なわれている。[10式戦車](../Page/10式戦車.md "wikilink")用の120mm APFSDS弾の国内開発も行なわれ\[6\]、**10式120mm装弾筒付翼安定徹甲弾**として配備が進められている。この[弾丸](../Page/弾丸.md "wikilink")のL/D比は約30とDM53に匹敵する値を示している[1](http://www.mod.go.jp/j/approach/others/service/kanshi_koritsu/pdf/05/01.pdf)。
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でもM735が導入され、[1984年](../Page/1984年.md "wikilink")からは国内の[ダイキン工業](../Page/ダイキン工業.md "wikilink")で[ライセンス生産](../Page/ライセンス生産.md "wikilink")が行なわれた。[1991年](../Page/1991年.md "wikilink")からは同社でラインメタル社製DM33 120mm弾のライセンス生産を行ない、**JM33**と命名して[90式戦車](../Page/90式戦車.md "wikilink")の[主砲](../Page/主砲.md "wikilink")弾とした。[1994年](../Page/1994年.md "wikilink")からは同じくダイキンで105mm APFSDS弾の独自開発による量産が行なわれている。[10式戦車](../Page/10式戦車.md "wikilink")用の120mm APFSDS弾の国内開発も行なわれ\[6\]、**10式120mm装弾筒付翼安定徹甲弾**として配備が進められている。この[弾丸](../Page/弾丸.md "wikilink")のL/D比は約30とDM53に匹敵する値を示している[1](https://www.mod.go.jp/j/approach/agenda/meeting/materials/kanshi-koritsu/sonota/pdf/05/01.pdf)。
 
 ## 価格比較
 
 <table>
-<caption>APDSFSの価格比較[7]</caption>
+<caption>APFSDSの価格比較[7]</caption>
 <thead>
 <tr class="header">
 <th><p>弾薬名</p></th>

@@ -28,6 +28,8 @@
           - [UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink") - 日産ディーゼルの貨物自動車。
           - ネクストダッシュ () - ゲーム『[機動戦士ガンダム ガンダムVS.ガンダム NEXT](https://ja.wikipedia.org/wiki/機動戦士ガンダム_ガンダムVS.ガンダム_NEXT "wikilink")』の操作システム
           - 4代目[マツダ・ロードスター](../Page/マツダ・ロードスター.md "wikilink")の型式
+      - Twitter上での略称
+          - [灘中学校・灘高等学校](../Page/灘中学校・高等学校.md "wikilink")
 
 ## Nd
 

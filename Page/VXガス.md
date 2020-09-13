@@ -34,7 +34,7 @@
 
 VXガスは[エステル交換反応](https://ja.wikipedia.org/wiki/エステル交換反応 "wikilink")を通して得られる。
 
-[三塩化リン](../Page/三塩化リン.md "wikilink")をメチル化することでメチル亜ホスホン酸二塩化物とし、これに[エタノール](https://ja.wikipedia.org/wiki/エタノール "wikilink")を作用させメチル亜ホスホン酸ジエチルとする。*N*,*N*-ジイソプロピルアミノエタノールを作用させることで[エステル交換反応](https://ja.wikipedia.org/wiki/エステル交換反応 "wikilink")により[イソプロピルアミノエチルメチル亜ホスホン酸エステル](https://ja.wikipedia.org/wiki/イソプロピルアミノエチルメチル亜ホスホン酸エステル "wikilink")（[QL](https://ja.wikipedia.org/wiki/QL "wikilink")）とする。最後に、この[前駆体](https://ja.wikipedia.org/wiki/前駆体 "wikilink")を[硫黄](../Page/硫黄.md "wikilink")と反応させて70 ℃以上で加熱すると、チオホスホン酸から[異性化](../Page/異性化.md "wikilink")が起きVXガスが得られる。
+[三塩化リン](../Page/三塩化リン.md "wikilink")をメチル化することでメチル亜ホスホン酸二塩化物とし、これに[エタノール](../Page/エタノール.md "wikilink")を作用させメチル亜ホスホン酸ジエチルとする。*N*,*N*-ジイソプロピルアミノエタノールを作用させることで[エステル交換反応](https://ja.wikipedia.org/wiki/エステル交換反応 "wikilink")により[イソプロピルアミノエチルメチル亜ホスホン酸エステル](https://ja.wikipedia.org/wiki/イソプロピルアミノエチルメチル亜ホスホン酸エステル "wikilink")（[QL](https://ja.wikipedia.org/wiki/QL "wikilink")）とする。最後に、この[前駆体](https://ja.wikipedia.org/wiki/前駆体 "wikilink")を[硫黄](../Page/硫黄.md "wikilink")と反応させて70 ℃以上で加熱すると、チオホスホン酸から[異性化](../Page/異性化.md "wikilink")が起きVXガスが得られる。
 
 [600px](https://ja.wikipedia.org/wiki/file:VX_TransesterProcess.svg "wikilink")
 
@@ -90,7 +90,7 @@ P-O結合が切れて2つの化合物に分解されるが、<br />
   - [M23化学兵器地雷](https://ja.wikipedia.org/wiki/M23化学兵器地雷 "wikilink")
   - [ノビチョク](https://ja.wikipedia.org/wiki/ノビチョク "wikilink") - VXガスよりさらに毒性が強いともいわれる。
 
-[Category:神経ガス](https://ja.wikipedia.org/wiki/Category:神経ガス "wikilink") [Category:有機リン化合物](https://ja.wikipedia.org/wiki/Category:有機リン化合物 "wikilink") [Category:有機硫黄化合物](https://ja.wikipedia.org/wiki/Category:有機硫黄化合物 "wikilink") [Category:コリンエステラーゼ阻害薬](https://ja.wikipedia.org/wiki/Category:コリンエステラーゼ阻害薬 "wikilink")
+[Category:化学兵器](https://ja.wikipedia.org/wiki/Category:化学兵器 "wikilink") [Category:神経ガス](https://ja.wikipedia.org/wiki/Category:神経ガス "wikilink") [Category:有機リン化合物](https://ja.wikipedia.org/wiki/Category:有機リン化合物 "wikilink") [Category:有機硫黄化合物](https://ja.wikipedia.org/wiki/Category:有機硫黄化合物 "wikilink") [Category:コリンエステラーゼ阻害薬](https://ja.wikipedia.org/wiki/Category:コリンエステラーゼ阻害薬 "wikilink") [Category:V剤](https://ja.wikipedia.org/wiki/Category:V剤 "wikilink")
 
 1.  降幡賢一『オウム法廷2上』p.143
 2.

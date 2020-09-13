@@ -87,7 +87,7 @@
 <td><p>TATSUJIN</p></td>
 <td></td>
 <td><p><a href="../Page/PCエンジン.md" title="wikilink">PCエンジン</a></p></td>
-<td><p>東亜プラン</p></td>
+<td><p><a href="../Page/スティング_(ゲーム会社).md" title="wikilink">スティング</a></p></td>
 <td><p>タイトー</p></td>
 <td><p>4メガビット<a href="../Page/HuCARD.md" title="wikilink">HuCARD</a><ref name="pcfan83">{{Cite journal |和書</p></td>
 <td><p>author =</p></td>
@@ -98,7 +98,7 @@
 <td><p>3</p></td>
 <td><p>TATSUJIN classic</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a> / <a href="../Page/Android.md" title="wikilink">Android</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a> / <a href="../Page/Android_(オペレーティングシステム).md" title="wikilink">Android</a></p></td>
 <td></td>
 <td><p>Mobirix</p></td>
 <td><p>ダウンロード</p></td>

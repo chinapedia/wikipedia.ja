@@ -1,9 +1,11 @@
 > この記事は[学校法人NHK学園](https://ja.wikipedia.org/wiki/学校法人NHK学園)から翻訳されています。
 
 
-**学校法人NHK学園**（がっこうほうじんえぬえいちけいがくえん）は、[特殊法人](../Page/特殊法人.md "wikilink")である[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）によって、[1962年](../Page/1962年.md "wikilink")（昭和37年）に創設された[学校法人](../Page/学校法人.md "wikilink")である。
+**学校法人NHK学園**（がっこうほうじんえぬえいちけいがくえん）は、[特殊法人](../Page/特殊法人.md "wikilink")である[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）によって、[1962年](../Page/1962年.md "wikilink")（昭和37年）に創設された[学校法人](../Page/学校法人.md "wikilink")。
 
-[NHKラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")・[NHK教育テレビジョン](../Page/NHK教育テレビジョン.md "wikilink")(NHK Eテレ)を利用して[通信教育](../Page/通信教育.md "wikilink")を実施している。旧名称は**学校法人日本放送協会学園**である。[通信制課程を主体とする](../Page/高等学校通信教育.md "wikilink")[NHK学園高等学校](../Page/NHK学園高等学校.md "wikilink")を設置しているほかに、各種の教育事業を展開している。
+## 概要
+
+[NHKラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")・[NHK教育テレビジョン](../Page/NHK教育テレビジョン.md "wikilink")(NHK Eテレ)を利用して[通信教育](../Page/通信教育.md "wikilink")を実施している。旧名称は**学校法人日本放送協会学園**である。[通信制課程の](../Page/高等学校通信教育.md "wikilink")[NHK学園高等学校](../Page/NHK学園高等学校.md "wikilink")を設置しているほかに、各種の教育事業を展開している。
 
 ## 事業
 

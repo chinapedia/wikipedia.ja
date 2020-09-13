@@ -36,7 +36,7 @@ Q符号を制定したのは[英国](https://ja.wikipedia.org/wiki/英国 "wikil
 
 ## 無線局運用規則
 
-この節の引用部の読点、促音、拗音の表記は**原文ママ**である。また、「サイクル」・「kc」・「Mc」・「ミリバール」は当規則の公布時に使用されていた単位で、現在の[国際単位系](https://ja.wikipedia.org/wiki/国際単位系 "wikilink")ではそれぞれ[ヘルツ](../Page/ヘルツ.md "wikilink")、[キロヘルツ](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")、[メガヘルツ](https://ja.wikipedia.org/wiki/メガヘルツ "wikilink")、[ヘクトパスカル](../Page/ヘクトパスカル.md "wikilink")に相当する。[フランは貨幣単位でフランス](../Page/フラン_\(通貨\).md "wikilink")のこと 。
+この節の引用部の読点、促音、拗音の表記は**原文ママ**である。また、「サイクル」・「kc」・「Mc」・「ミリバール」は当規則の公布時に使用されていた単位で、現在の[国際単位系](https://ja.wikipedia.org/wiki/国際単位系 "wikilink")ではそれぞれ[ヘルツ](../Page/ヘルツ.md "wikilink")、[キロヘルツ](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")、[メガヘルツ](https://ja.wikipedia.org/wiki/メガヘルツ "wikilink")、[ヘクトパスカル](../Page/ヘクトパスカル.md "wikilink")に相当する。[フランは貨幣単位で](../Page/フラン_\(通貨\).md "wikilink")[金フラン](../Page/金フラン.md "wikilink")のこと。
 
 別表第2号「無線電信通信の略符号（第13条関係）」の「1 Q符号」を掲げる。
 
@@ -587,7 +587,7 @@ Q符号を制定したのは[英国](https://ja.wikipedia.org/wiki/英国 "wikil
 ### 変遷
 
   - 昭和25年（1950年）　無線局運用規則制定時に「Q略語」としてQRA〜QUXが定義された。
-      - 「1 アルファベット順の略語表」以外に「2 問い、答え、又は通知別の略語表」と種類別に並び替えた略語表があった。
+      - 「1 アルファベット順の略語表」以外に「2 問い、答え、又は通知別の略語表」と種類別に並べ替えた略語表があった。
   - 昭和28年（1953年）
       - 別表第2号1が「一般用Q略語」と改称されQRE、QRO、QRP、QTF、QTJ、QTK、QTL、QUH、QUK、QUL、QUM、QUV、QUU、QUV、QUXに航空関係の注などが追加された。
       - 「2 航空用Q略語」が追加され、QAB〜QNYが定義された。

@@ -13,7 +13,7 @@ Windows XPの発売以前、Windowsは一般家庭向けで[Windows 3.1由来の
 
 永きに渡って販売されていたが、[ネットブック](https://ja.wikipedia.org/wiki/ネットブック "wikilink")など超低価格機向けなどの一部の用途を除き、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月30日](../Page/6月30日.md "wikilink")をもってマイクロソフトからの出荷は終了した\[4\]。2008年7月以降の入手方法は、流通在庫品のほかに後継製品となる[Windows VistaのBusinessかUltimateエディション](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")\[5\]、[Windows 7のProfessionalかUltimateエディションからのダウングレード権](../Page/Microsoft_Windows_7.md "wikilink")\[6\]\[7\]を利用する形のみになった。一部の直販（[BTO](../Page/BTO.md "wikilink")）メーカーでは、この仕組みを利用して業務用向けオプションとして引き続きWindows XP Professionalを[プリインストール](../Page/プリインストール.md "wikilink")したPCが出荷されていたが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月22日](../Page/10月22日.md "wikilink")に販売が終了した。また、米MicrosoftのDSP版も[2009年](../Page/2009年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")に販売終了となり、店舗在庫限りとなった\[8\]。
 
-米国の調査会社Net Applicationsによると、[2018年](../Page/2018年.md "wikilink")12月における世界のOSシェアはWindows XPが4.54%であり、首位の座を[Windows 10](https://ja.wikipedia.org/wiki/Microsoft_Windows_10 "wikilink") (39.22%) に明け渡しているものの、XPが要求するハードウェア要件がWindows 2000ほどではないが、低スペックであるため（[後述参照](https://ja.wikipedia.org/wiki/Microsoft_Windows_XP#システム要件 "wikilink")）や、アプリケーションソフトによっては後継のWindowsに対応していないなどの理由から、依然として根強いシェアがあり、一部のインターネットオークションや中古販売においてWindows XPリテールパッケージ版（特にクリーンインストール版のProfessional）は後発のWindows Vista、およびWindows 7、[Windows 8](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink")、[Windows 8.1](https://ja.wikipedia.org/wiki/Microsoft_Windows_8.1 "wikilink")、そして2019年1月現在、最新のWindowsであるWindows 10（現時点での最新版はバージョン1809・RS5）より高額で取引されることも決して少なくない。
+米国の調査会社Net Applicationsによると、[2018年](../Page/2018年.md "wikilink")12月時点における世界のOSシェアはWindows XPが4.54%であり、首位の座を[Windows 10](https://ja.wikipedia.org/wiki/Microsoft_Windows_10 "wikilink") (39.22%) に明け渡しているものの、XPが要求するハードウェア要件がWindows 2000ほどではないが、低スペックであるため（[後述参照](https://ja.wikipedia.org/wiki/Microsoft_Windows_XP#システム要件 "wikilink")）や、アプリケーションソフトによっては後継のWindowsに対応していないなどの理由から、依然として根強いシェアがあり、一部のインターネットオークションや中古販売においてWindows XPリテールパッケージ版（特にクリーンインストール版のProfessional）は後発のWindows Vista、およびWindows 7、[Windows 8](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink")、[Windows 8.1](https://ja.wikipedia.org/wiki/Microsoft_Windows_8.1 "wikilink")、そして2020年7月現在、最新のWindowsであるWindows 10（現時点での最新安定版はバージョン2004・20H1）より高額で取引されることも決して少なくない。
 
 | 本数       | 日付                                                                                |
 | -------- | --------------------------------------------------------------------------------- |
@@ -77,7 +77,7 @@ Windows XPの発売以前、Windowsは一般家庭向けで[Windows 3.1由来の
     [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月3日](../Page/4月3日.md "wikilink")にマイクロソフトが[ULCPC](https://ja.wikipedia.org/wiki/ULCPC "wikilink")用としてメーカー向け販売を開始すると発表したもの\[13\]。なおマイクロソフトで言うところのULCPCは一般において[ネットブックやネットトップと呼ばれる超](https://ja.wikipedia.org/wiki/Netbook "wikilink")[廉価版](../Page/廉価版.md "wikilink")PCに合致しており、これらの市場向け製品に利用されている。
   - Windows Fundamentals for Legacy PCs
     コードネーム"Eiger"と呼ばれたもので、[2006年](../Page/2006年.md "wikilink")7月に[シンクライアント](../Page/シンクライアント.md "wikilink")版としてソフトウェア アシュアランス契約者向けに登場した\[14\]。
-  - [Windows XP Embedded](https://ja.wikipedia.org/wiki/Windows_Embedded "wikilink")
+  - [Windows XP Embedded](https://ja.wikipedia.org/wiki/Windows_Embedded#Windows_Embedded_Standard "wikilink")
     Windows XPベースの[組み込みシステム](../Page/組み込みシステム.md "wikilink")向け[OS](../Page/組み込みオペレーティングシステム.md "wikilink")。専用の構築ツールを使用してOSの機能をカスタマイズし、搭載製品の構成や用途に応じたOSパッケージを作成することができる。[POSシステム](https://ja.wikipedia.org/wiki/POSシステム "wikilink")、[ATM](../Page/現金自動預け払い機.md "wikilink")、[カーナビゲーション](../Page/カーナビゲーション.md "wikilink")、[アーケードゲーム基板](../Page/アーケードゲーム基板.md "wikilink")、シンクライアントなどに使われているほか、大手メーカー製PCでTV視聴録画専用モードのOSとして採用されている例もある。
   - Windows Embedded Standard 2009
     Windows XPベースの[組み込みシステム](../Page/組み込みシステム.md "wikilink")向け[OS](../Page/組み込みオペレーティングシステム.md "wikilink")。Windows XP Embeddedの後継にあたる。
@@ -99,8 +99,7 @@ Windows XPの発売以前、Windowsは一般家庭向けで[Windows 3.1由来の
     これまでのWindowsはログオンしているユーザーを変える場合、必ずファイルを保存させてログオフする必要があったが、この機能によりログオフすることなくユーザーを切り替えられるようになった。この時、切り替える前のユーザーによって実行を開始したプロセスはバックグラウンドで動作したままの状態となる。これはサーバOSで培われた[ターミナル サービスの技術を利用したものである](https://ja.wikipedia.org/wiki/リモート_デスクトップ_サービス "wikilink")。ただし、Windows Serverドメインに参加しているコンピュータはこの機能を使用することができない。
   - [システムの復元](../Page/システムの復元.md "wikilink")
     システムの環境をある時点の状態へ戻すことが可能となった。もともとは Windows Meから含まれた機能で、Windows XPは市販されたNTベースのOSで初めて含まれた。
-
-開発中止になった[Windows Neptuneには搭載された](../Page/Microsoft_Windows_Neptune.md "wikilink")。
+    開発中止になった[Windows Neptuneには搭載された](../Page/Microsoft_Windows_Neptune.md "wikilink")。
 
 ### ハードウェアとデバイスドライバ
 

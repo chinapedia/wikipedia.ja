@@ -92,13 +92,13 @@
   - KNB [北日本放送](../Page/北日本放送.md "wikilink") - [KNBチャンネル1](https://ja.wikipedia.org/wiki/チャンネル1 "wikilink")
   - FBC [福井放送](../Page/福井放送.md "wikilink") - [TODAYふくい](https://ja.wikipedia.org/wiki/TODAYふくい "wikilink")
   - YTV [よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink") - [NNNニュースワイドTODAY](../Page/ニュースワイド_TODAY.md "wikilink")
-  - NKT [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink") - [ワイドニュース日本海](https://ja.wikipedia.org/wiki/ワイドニュース日本海 "wikilink")
+  - NKT [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink") - [NNNワイドニュース日本海](https://ja.wikipedia.org/wiki/ワイドニュース日本海 "wikilink")
   - HTV [広島テレビ](../Page/広島テレビ放送.md "wikilink") - [NNNひろしまTODAY](../Page/NNNひろしまTODAY.md "wikilink")
   - KRY [山口放送](../Page/山口放送.md "wikilink") - [KRYテレビ夕刊](../Page/KRY_テレビ夕刊.md "wikilink")
-  - JRT [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") - [フォーカス徳島](../Page/フォーカス徳島.md "wikilink")（｢フォーカス徳島｣自体は現在も放送中）
+  - JRT [四国放送](../Page/四国放送.md "wikilink") - [フォーカス徳島](../Page/フォーカス徳島.md "wikilink")（｢フォーカス徳島｣自体は現在も放送中）
   - RNC [西日本放送](https://ja.wikipedia.org/wiki/西日本放送テレビ "wikilink") - [RNC6:00](../Page/RNC6:00.md "wikilink")
   - RNB [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink") - [なんかいNEWS5-30](../Page/なんかいNEWS5-30.md "wikilink")（17:30開始）
-  - RKC [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink") - [NNNこうちToday](https://ja.wikipedia.org/wiki/NNNこうちToday "wikilink")
+  - RKC [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink") - [NNNこうちToday](https://ja.wikipedia.org/wiki/こうちToday "wikilink")
   - FBS [福岡放送](../Page/福岡放送.md "wikilink") - [FBSきょうのニュース](https://ja.wikipedia.org/wiki/FBSきょうのニュース "wikilink")
   - KKT [熊本県民テレビ](../Page/熊本県民テレビ.md "wikilink") - [NNNくまもとNOW](https://ja.wikipedia.org/wiki/NNNくまもとNOW "wikilink")
 

@@ -468,10 +468,10 @@
 
 ### 2020年代
 
-  - [2020年](../Page/2020年.md "wikilink")
+  - [2021年](../Page/2020年.md "wikilink")
       - 開催地：[福島県](../Page/福島県.md "wikilink")
-      - 愛称：FUCCON
-      - 開催日：2020年8月22日〜23日
+      - 愛称：F-CON
+      - 開催日：2021年3月13日〜14日
       - 開催場所：[郡山市](https://ja.wikipedia.org/wiki/郡山市 "wikilink") ホテル華の湯
 
 ## 脚注

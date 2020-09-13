@@ -417,7 +417,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a>（JRT）</p></td>
+<td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a>（JRT）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -495,7 +495,7 @@
   - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送テレビ "wikilink") - [RNCニュース](../Page/RNCニュース.md "wikilink")（ただし、RNCのホームページのタイムテーブルには「NNNニュースD」と表記）
   - [広島テレビ](../Page/広島テレビ放送.md "wikilink") - NNNニュースダッシュひろしま→広島テレビニュース（ただし、広テレのホームページのタイムテーブルや実際の番組では「NNNニュースD」と表記。）
   - [山口放送](../Page/山口放送.md "wikilink") - [KRYニュース](../Page/KRYニュース.md "wikilink")
-  - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") - [徳島新聞ニュース](../Page/徳島新聞ニュース.md "wikilink")
+  - [四国放送](../Page/四国放送.md "wikilink") - [徳島新聞ニュース](../Page/徳島新聞ニュース.md "wikilink")
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink") - [なんかいNEWS](../Page/なんかいNEWS.md "wikilink")（週末）
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink") - [RKCニュース](../Page/RKCニュース.md "wikilink")（日曜日）
   - [くまもと県民テレビ](../Page/熊本県民テレビ.md "wikilink") - KKTニュースダッシュ（平日）（ただし、KKTのホームページのタイムテーブルには「NNN・KKTニュースD」と記載）
@@ -513,9 +513,8 @@
 
 ## 外部リンク
 
-  - [NEWS DASH](http://www.ntv.co.jp/news-dash/)
-  - [NEWS DASH（2005年9月以前）](http://www.ntv.co.jp/news-dash/old/index.html)
-
+  -
+  -
 [Category:NNNニュースダッシュ](https://ja.wikipedia.org/wiki/Category:NNNニュースダッシュ "wikilink") [Category:日テレNEWS24](https://ja.wikipedia.org/wiki/Category:日テレNEWS24 "wikilink") [Category:BS日テレの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:BS日テレの帯番組の歴史 "wikilink") [Category:BS日テレのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:BS日テレのニュース・報道番組の歴史 "wikilink")
 
 1.  元々NNN単独加盟局であった、NNN主体のクロスネット局である福井放送も含む。

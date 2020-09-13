@@ -3,11 +3,11 @@
 
 『**ビートたけしのTVタックル**』（ビートたけしのテレビタックル、ジングルではティーヴィータックルともいう）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列にて](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[1989年](../Page/1989年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")から放送されている、[政治](../Page/政治.md "wikilink")を題材にした[討論](../Page/討論番組.md "wikilink")[バラエティ](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")[番組である](../Page/テレビ番組.md "wikilink")。[ビートたけし](../Page/ビートたけし.md "wikilink")が[司会](../Page/司会.md "wikilink")を務める[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")。通称は『**TVタックル**』。
 
-[新聞](../Page/新聞.md "wikilink")や[雑誌](../Page/雑誌.md "wikilink")の[ラテ欄に文字数の制限上](https://ja.wikipedia.org/wiki/番組表 "wikilink")『**たけしのTVタックル**』と表記されることがある。[ステレオ放送](../Page/ステレオ放送.md "wikilink")（[2014年](../Page/2014年.md "wikilink")3月31日放送分より）、[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")（[2012年](../Page/2012年.md "wikilink")4月2日放送分より）、[ハイビジョン制作を実施している](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")。
+[新聞](../Page/新聞.md "wikilink")や[雑誌](../Page/雑誌.md "wikilink")の[ラテ欄に文字数の制限上](https://ja.wikipedia.org/wiki/番組表 "wikilink")『**たけしのTVタックル**』と表記されることがある。[ステレオ放送](../Page/ステレオ放送.md "wikilink")（[2014年](../Page/2014年.md "wikilink")3月31日放送分より）、[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")（[2012年](../Page/2012年.md "wikilink")4月2日放送分より）を実施している。
 
 ## 概説
 
-1989年（平成元年）7月3日に『**どーする?\!TVタックル**』のタイトル、[関口宏](../Page/関口宏.md "wikilink")とビートたけしの司会でスタート。関口出演時代はテーマが毎回『日本人と○○』だった。
+1989年（[平成](../Page/平成.md "wikilink")元年）7月3日に『**どーする?\!TVタックル**』のタイトル、[関口宏](../Page/関口宏.md "wikilink")とビートたけしの司会でスタート。関口出演時代はテーマが毎回『日本人と○○』だった。
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）3月26日放送分で関口が番組を降板、[1991年](../Page/1991年.md "wikilink")（平成3年）4月1日から『**ビートたけしのTVタックル**』と番組名を変更、ビートたけしの[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")となり様々な時事問題をテーマとして各界の著名人などのパネリストによる論争を繰り広げる内容になった。
 
@@ -41,7 +41,7 @@
 
 2019年7月7日、放送開始30周年を迎えた。
 
-2019年10月6日からは、放送時間が再度12:00 - 12:55に変更。
+2019年10月6日からは、放送時間が再度12:00 - 12:55に変更された。なお、『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』からステプレレスで11:59にフライングスタートしている。
 
 ## 出演者
 
@@ -91,18 +91,18 @@
   - [吉村作治](../Page/吉村作治.md "wikilink")（早稲田大学名誉教授、工学博士、考古学者） - 超常現象スペシャルの際に出演。
   - [小池政行](../Page/小池政行.md "wikilink")（[日本赤十字看護大学](../Page/日本赤十字看護大学.md "wikilink")[教授](../Page/教授.md "wikilink")、元[外交官](../Page/外交官.md "wikilink")） - 外交問題の際に出演。
   - [志方俊之](../Page/志方俊之.md "wikilink")（[帝京大学](../Page/帝京大学.md "wikilink")教授、元陸上自衛官、工学博士） - 防衛・外交問題の際に出演。
-  - [田嶋陽子](../Page/田嶋陽子.md "wikilink")（元[法政大学](https://ja.wikipedia.org/wiki/法政大学 "wikilink")教授、女性学者、[フェミニスト](../Page/フェミニズム.md "wikilink")、元[参議院](https://ja.wikipedia.org/wiki/参議院 "wikilink")議員）
-  - [福岡政行](../Page/福岡政行.md "wikilink")（[白鴎大学](../Page/白鴎大学.md "wikilink")教授、[東北福祉大学](../Page/東北福祉大学.md "wikilink")特任教授）
+  - [田嶋陽子](../Page/田嶋陽子.md "wikilink")（元[法政大学](https://ja.wikipedia.org/wiki/法政大学 "wikilink")教授、女性学者、[フェミニスト](../Page/フェミニズム.md "wikilink")、元[参議院議員](https://ja.wikipedia.org/wiki/日本の国会議員#参議院議員 "wikilink")）
+  - [福岡政行](../Page/福岡政行.md "wikilink")（[白鷗大学](https://ja.wikipedia.org/wiki/白鷗大学 "wikilink")教授、[東北福祉大学](../Page/東北福祉大学.md "wikilink")特任教授）
   - [森永卓郎](../Page/森永卓郎.md "wikilink")（[獨協大学](https://ja.wikipedia.org/wiki/獨協大学 "wikilink")教授、[経済評論家](../Page/経済評論家.md "wikilink")）
   - [八木秀次](../Page/八木秀次_\(法学者\).md "wikilink")（[高崎経済大学](../Page/高崎経済大学.md "wikilink")教授、憲法学者） - 皇室典範問題の際に出演。
-  - [米田建三](../Page/米田建三.md "wikilink")（元[帝京平成大学](../Page/帝京平成大学.md "wikilink")教授、[日本航空学園理事](../Page/学校法人日本航空学園.md "wikilink")、元[衆議院](https://ja.wikipedia.org/wiki/衆議院 "wikilink")議員）
-  - [金慶珠](../Page/金慶珠.md "wikilink")（[東海大学](../Page/東海大学.md "wikilink")[准教授](../Page/准教授.md "wikilink")） - 2007年[12月17日](../Page/12月17日.md "wikilink")、重村と白熱した議論を展開する。
+  - [米田建三](../Page/米田建三.md "wikilink")（元[帝京平成大学](../Page/帝京平成大学.md "wikilink")教授、[日本航空学園理事](../Page/学校法人日本航空学園.md "wikilink")、元[衆議院議員](https://ja.wikipedia.org/wiki/日本の国会議員#衆議院議員 "wikilink")）
+  - [金慶珠](../Page/金慶珠.md "wikilink")（[東海大学](../Page/東海大学.md "wikilink")[教養学部](../Page/教養学部.md "wikilink")[国際学科](https://ja.wikipedia.org/wiki/国際学科 "wikilink")[准教授](../Page/准教授.md "wikilink")） - 2007年[12月17日](../Page/12月17日.md "wikilink")、重村と白熱した議論を展開する。
   - [重村智計](../Page/重村智計.md "wikilink")（早稲田大学教授） - 北朝鮮問題の際に出演。
   - [田勢康弘](../Page/田勢康弘.md "wikilink")（元早稲田大学[大学院](https://ja.wikipedia.org/wiki/大学院 "wikilink")[客員教授](https://ja.wikipedia.org/wiki/客員教授 "wikilink")、[日本経済新聞](../Page/日本経済新聞.md "wikilink")コラムニスト）
   - [萩谷順](../Page/萩谷順.md "wikilink")（法政大学教授、元朝日新聞解説委員）
   - [寺脇研](../Page/寺脇研.md "wikilink")（[京都造形芸術大学](../Page/京都造形芸術大学.md "wikilink")教授、元[文部](../Page/文部科学省.md "wikilink")[官僚](../Page/官僚.md "wikilink")、映画評論家、落語評論家）
   - [勝間和代](../Page/勝間和代.md "wikilink")（[中央大学](../Page/中央大学.md "wikilink")大学院客員教授、経済評論家、公認会計士） - 2009年1月26日放送分に初登場
-  - [岸博幸](https://ja.wikipedia.org/wiki/岸博幸 "wikilink")（[慶応義塾大学](https://ja.wikipedia.org/wiki/慶応義塾大学 "wikilink")大学院教授、元[経産官僚](../Page/経済産業省.md "wikilink")）
+  - [岸博幸](https://ja.wikipedia.org/wiki/岸博幸 "wikilink")（[慶応義塾大学大学院教授](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")、元[経産官僚](../Page/経済産業省.md "wikilink")）
   - [高橋洋一](../Page/高橋洋一_\(経済学者\).md "wikilink")（[嘉悦大学](../Page/嘉悦大学.md "wikilink")教授、元[財務官僚](../Page/財務省_\(日本\).md "wikilink")）
   - [武田邦彦](../Page/武田邦彦.md "wikilink")（[中部大学](../Page/中部大学.md "wikilink")教授、元[原子力安全委員会](../Page/原子力安全委員会.md "wikilink")委員） - [福島第一原子力発電所事故](https://ja.wikipedia.org/wiki/福島第一原子力発電所事故 "wikilink")以降、放射能汚染の対策や原子力政策の評論を度々行う
   - [飯島勲](../Page/飯島勲.md "wikilink") （[松本歯科大学](../Page/松本歯科大学.md "wikilink")[歯学部](../Page/歯学部.md "wikilink")特任教授、[小泉純一郎](https://ja.wikipedia.org/wiki/小泉純一郎 "wikilink")元総理秘書官）
@@ -153,7 +153,7 @@
   - [高市早苗](../Page/高市早苗.md "wikilink")（衆議院議員、[総務大臣](../Page/総務大臣.md "wikilink")、元[党政務調査会長](https://ja.wikipedia.org/wiki/自由民主党政務調査会 "wikilink")、元内閣府特命担当大臣、元[経済産業副大臣](https://ja.wikipedia.org/wiki/経済産業副大臣 "wikilink")）
   - [世耕弘成](../Page/世耕弘成.md "wikilink")（参議院議員、元[経済産業大臣](../Page/経済産業大臣.md "wikilink")、元首相補佐官（広報担当）、元[官房副長官](../Page/内閣官房副長官.md "wikilink")）
   - [小野寺五典](../Page/小野寺五典.md "wikilink")（衆議院議員、元[防衛大臣](../Page/防衛大臣.md "wikilink")）
-  - [河野太郎](../Page/河野太郎.md "wikilink")（衆議院議員、[防衛大臣](../Page/防衛大臣.md "wikilink")、元[外務大臣](../Page/外務大臣_\(日本\).md "wikilink")、元[法務副大臣](https://ja.wikipedia.org/wiki/法務副大臣 "wikilink")）
+  - [河野太郎](../Page/河野太郎.md "wikilink")（衆議院議員、[防衛大臣](../Page/防衛大臣.md "wikilink")、前[外務大臣](../Page/外務大臣_\(日本\).md "wikilink")、元[国務大臣](../Page/国務大臣.md "wikilink")、元[法務副大臣](https://ja.wikipedia.org/wiki/法務副大臣 "wikilink")）
   - [鴻池祥肇](https://ja.wikipedia.org/wiki/鴻池祥肇 "wikilink")（参議院議員、元官房副長官）
   - [安倍晋三](../Page/安倍晋三.md "wikilink")（衆議院議員、[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")、元[内閣官房長官](../Page/内閣官房長官.md "wikilink")、元[党幹事長](../Page/自由民主党幹事長.md "wikilink")）
   - [秋葉賢也](../Page/秋葉賢也.md "wikilink")（衆議院議員、元[厚生労働副大臣](https://ja.wikipedia.org/wiki/厚生労働副大臣 "wikilink")、元[復興副大臣](https://ja.wikipedia.org/wiki/復興副大臣 "wikilink")）
@@ -164,13 +164,13 @@
   - [衛藤晟一](../Page/衛藤晟一.md "wikilink")（参議院議員、[内閣府特命担当大臣](https://ja.wikipedia.org/wiki/内閣府特命担当大臣 "wikilink")、元首相補佐官、元厚生労働副大臣）
   - [松浪健太](../Page/松浪健太.md "wikilink")（衆議院議員、元[内閣府大臣政務官](https://ja.wikipedia.org/wiki/内閣府大臣政務官 "wikilink")、元[厚生労働大臣政務官](https://ja.wikipedia.org/wiki/厚生労働大臣政務官 "wikilink")）
   - [丸山和也](../Page/丸山和也.md "wikilink")（参議院議員）
-  - [古川俊治](../Page/古川俊治.md "wikilink")（参議院議員）
+  - [古川俊治](../Page/古川俊治.md "wikilink")（参議院議員、参議院[財政金融委員長](../Page/財政金融委員会.md "wikilink")）
   - [麻生太郎](https://ja.wikipedia.org/wiki/麻生太郎 "wikilink")（衆議院議員、[副総理](../Page/副総理.md "wikilink")兼財務・金融担当大臣、元内閣総理大臣、元党幹事長、元外務大臣、元[総務大臣](../Page/総務大臣.md "wikilink")、元経済財政担当大臣）
   - [佐藤ゆかり](../Page/佐藤ゆかり.md "wikilink")（参議院議員）
-  - [片山さつき](../Page/片山さつき.md "wikilink")（参議院議員）
+  - [片山さつき](../Page/片山さつき.md "wikilink")（参議院議員、前[地方創生担当大臣兼](https://ja.wikipedia.org/wiki/内閣府特命担当大臣（地方創生担当） "wikilink")[女性活躍担当大臣](https://ja.wikipedia.org/wiki/女性活躍推進#女性活躍担当大臣 "wikilink")）
   - [猪口邦子](../Page/猪口邦子.md "wikilink")（参議院議員、元内閣府特命担当大臣）
   - [小坂憲次](../Page/小坂憲次.md "wikilink")（参議院議員、元[文部科学大臣](../Page/文部科学大臣.md "wikilink")、自民党参議院幹事長）
-  - [塩崎恭久](../Page/塩崎恭久.md "wikilink")（衆議院議員、元[厚生労働大臣](../Page/厚生労働大臣.md "wikilink")、元内閣官房長官）
+  - [塩崎恭久](../Page/塩崎恭久.md "wikilink")（衆議院議員、[党行政改革推進本部長](https://ja.wikipedia.org/wiki/自由民主党行政改革推進本部 "wikilink")、元[厚生労働大臣](../Page/厚生労働大臣.md "wikilink")、元内閣官房長官）
   - [佐藤正久](../Page/佐藤正久.md "wikilink")（参議院議員、[外務副大臣](https://ja.wikipedia.org/wiki/外務副大臣 "wikilink")）
   - [城内実](../Page/城内実.md "wikilink")（衆議院議員）
   - [武見敬三](../Page/武見敬三.md "wikilink")（参議院議員、元厚生労働副大臣）
@@ -187,7 +187,7 @@
   - [白眞勲](../Page/白眞勲.md "wikilink")（参議院議員）
   - [辻元清美](../Page/辻元清美.md "wikilink")（衆議院議員、元[国土交通副大臣](https://ja.wikipedia.org/wiki/国土交通副大臣 "wikilink")）
   - [阿部知子](../Page/阿部知子.md "wikilink")（衆議院議員）
-  - [海江田万里](../Page/海江田万里.md "wikilink")（衆議院議員、[立憲民主党最高顧問](https://ja.wikipedia.org/wiki/立憲民主党_\(日本\) "wikilink")、元[経済産業大臣](../Page/経済産業大臣.md "wikilink")、元経済財政担当大臣）
+  - [海江田万里](../Page/海江田万里.md "wikilink")（衆議院議員、[立憲民主党最高顧問](https://ja.wikipedia.org/wiki/立憲民主党_\(日本\) "wikilink")、元衆議院[決算行政監視委員長](../Page/決算行政監視委員会.md "wikilink")、元[民主党代表](../Page/国民民主党代表.md "wikilink")、元衆議院[財務金融委員長](../Page/財務金融委員会.md "wikilink")、元[経済産業大臣](../Page/経済産業大臣.md "wikilink")、元経済財政担当大臣）
   - [亀井亜紀子](../Page/亀井亜紀子_\(政治家\).md "wikilink")（衆議院議員）
   - [末松義規](../Page/末松義規.md "wikilink")（衆議院議員、[内閣府副大臣](https://ja.wikipedia.org/wiki/内閣府副大臣 "wikilink")）
   - [逢坂誠二](../Page/逢坂誠二.md "wikilink")（衆議院議員、元[総務大臣政務官](https://ja.wikipedia.org/wiki/総務大臣政務官 "wikilink")、元[ニセコ町](../Page/ニセコ町.md "wikilink")長）
@@ -220,7 +220,7 @@
 
 ##### 日本維新の会
 
-  - [片山虎之助](../Page/片山虎之助.md "wikilink")（参議院議員、元[総務大臣](../Page/総務大臣.md "wikilink")）
+  - [片山虎之助](../Page/片山虎之助.md "wikilink")（参議院議員、初代[総務大臣](../Page/総務大臣.md "wikilink")、元[消防庁](../Page/消防庁.md "wikilink")[次長](../Page/次長.md "wikilink")）
   - [渡辺喜美](../Page/渡辺喜美.md "wikilink")（参議院議員、元[行政改革担当大臣](https://ja.wikipedia.org/wiki/内閣府特命担当大臣（行政刷新担当） "wikilink")）
 
 ##### 自由党
@@ -233,7 +233,7 @@
 
 ##### 無所属・元議員・都道府県知事
 
-  - [上田清司](../Page/上田清司.md "wikilink")（元[埼玉県](../Page/埼玉県.md "wikilink")知事、参議院議員）
+  - [上田清司](../Page/上田清司.md "wikilink")（元[埼玉県知事](../Page/埼玉県知事一覧.md "wikilink")、参議院議員）
   - [片山善博](../Page/片山善博.md "wikilink")（元[鳥取県](../Page/鳥取県.md "wikilink")知事、元総務大臣）
   - [平野貞夫](../Page/平野貞夫.md "wikilink")（元参議院議員）
   - [古川康](../Page/古川康.md "wikilink")（元[佐賀県](../Page/佐賀県.md "wikilink")知事、衆議院議員）
@@ -244,7 +244,7 @@
   - [松浪健四郎](../Page/松浪健四郎.md "wikilink")（元衆議院議員、元文部科学副大臣）
   - [笹川堯](../Page/笹川堯.md "wikilink")（元衆議院議員、元[科学技術政策担当大臣](https://ja.wikipedia.org/wiki/内閣府特命担当大臣（科学技術政策担当） "wikilink")）
   - [亀井善太郎](../Page/亀井善太郎.md "wikilink")（元衆議院議員、元農林水産大臣）
-  - [松岡利勝](../Page/松岡利勝.md "wikilink")（元衆議院議員、元農林水産大臣） - 2007年5月28日、現憲法下初現役閣僚による自殺。
+  - [松岡利勝](../Page/松岡利勝.md "wikilink")（元衆議院議員、元農林水産大臣、初代[農林水産副大臣](https://ja.wikipedia.org/wiki/農林水産副大臣 "wikilink")） - 2007年5月28日、現憲法下初現役閣僚による自殺。
   - [福島豊](../Page/福島豊.md "wikilink")（元衆議院議員、元厚生総括政務次官）
   - [亀井久興](../Page/亀井久興.md "wikilink")（元衆議院議員、元国土庁長官）
   - [保坂展人](../Page/保坂展人.md "wikilink")（[世田谷区](../Page/世田谷区.md "wikilink")長、元衆議院議員）
@@ -253,9 +253,9 @@
   - [浜四津敏子](../Page/浜四津敏子.md "wikilink")（元参議院議員、元環境庁長官）
   - [簗瀬進](../Page/簗瀬進.md "wikilink")（元参議院議員）
   - [鈴木宗男](https://ja.wikipedia.org/wiki/鈴木宗男 "wikilink")（参議院議員、元衆議院議員、元[北海道開発庁長官](https://ja.wikipedia.org/wiki/北海道開発庁#歴代の北海道開発庁長官等 "wikilink")、元[沖縄開発庁長官](https://ja.wikipedia.org/wiki/沖縄振興局#歴代の沖縄開発庁長官等 "wikilink")）
-  - [大村秀章](../Page/大村秀章.md "wikilink")（[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")知事、元衆議院議員、元内閣府副大臣、元[厚生労働副大臣](https://ja.wikipedia.org/wiki/厚生労働副大臣 "wikilink")）
+  - [大村秀章](../Page/大村秀章.md "wikilink")（[愛知県知事](../Page/愛知県知事一覧.md "wikilink")、元衆議院議員、元内閣府副大臣、元[厚生労働副大臣](https://ja.wikipedia.org/wiki/厚生労働副大臣 "wikilink")）
   - [横粂勝仁](https://ja.wikipedia.org/wiki/横粂勝仁 "wikilink")（前衆議院議員）
-  - [亀井静香](../Page/亀井静香.md "wikilink")（前衆議院議員、元[金融](../Page/内閣府特命担当大臣（金融担当）.md "wikilink")・[郵政改革担当大臣](../Page/郵政民営化担当大臣.md "wikilink")、元[建設大臣](../Page/建設大臣.md "wikilink")）
+  - [亀井静香](../Page/亀井静香.md "wikilink")（前衆議院議員、元[金融](../Page/内閣府特命担当大臣（金融担当）.md "wikilink")・[郵政改革担当大臣](../Page/郵政民営化担当大臣.md "wikilink")、元[建設大臣](../Page/建設大臣.md "wikilink")、元[運輸大臣](../Page/運輸大臣.md "wikilink")兼[新東京国際空港担当大臣](../Page/成田国際空港.md "wikilink")、元[警察庁長官官房](../Page/警察庁長官官房.md "wikilink")調査官）
   - [自見庄三郎](../Page/自見庄三郎.md "wikilink")（前参議院議員、元金融・郵政改革担当大臣、元[郵政大臣](../Page/郵政大臣.md "wikilink")）
   - [姫井由美子](../Page/姫井由美子.md "wikilink")（前参議院議員）
   - [三宅雪子](https://ja.wikipedia.org/wiki/三宅雪子 "wikilink")（前衆議院議員）
@@ -280,16 +280,16 @@
   - [安住淳](../Page/安住淳.md "wikilink")（衆議院議員、元[財務大臣](https://ja.wikipedia.org/wiki/財務大臣#日本 "wikilink")、元[防衛副大臣](https://ja.wikipedia.org/wiki/防衛副大臣 "wikilink")）
   - [長島昭久](../Page/長島昭久.md "wikilink")（衆議院議員、元[内閣総理大臣補佐官](../Page/内閣総理大臣補佐官.md "wikilink")（外交及び安全保障担当）、元[防衛大臣政務官](https://ja.wikipedia.org/wiki/防衛大臣政務官 "wikilink")）
   - [細野豪志](../Page/細野豪志.md "wikilink")（衆議院議員、幹事長、元[環境大臣](../Page/環境大臣.md "wikilink")兼[原子力防災担当大臣](https://ja.wikipedia.org/wiki/内閣府特命担当大臣（原子力防災担当） "wikilink")）
-  - [松原仁](../Page/松原仁.md "wikilink")（衆議院議員、元[国家公安委員会委員長](../Page/国家公安委員会委員長.md "wikilink")兼[消費者担当大臣兼](https://ja.wikipedia.org/wiki/内閣府特命担当大臣（消費者及び食品安全担当） "wikilink")[拉致問題担当大臣](../Page/拉致問題対策本部.md "wikilink")、元[国土交通副大臣](https://ja.wikipedia.org/wiki/国土交通副大臣 "wikilink")兼拉致問題担当副大臣）
+  - [松原仁](../Page/松原仁.md "wikilink")（衆議院議員、元[国家公安委員会委員長](../Page/国家公安委員会委員長.md "wikilink")兼[拉致問題担当大臣兼](https://ja.wikipedia.org/wiki/拉致問題対策本部#拉致問題担当大臣 "wikilink")[消費者担当大臣](https://ja.wikipedia.org/wiki/内閣府特命担当大臣（消費者及び食品安全担当） "wikilink")、元[国土交通副大臣](https://ja.wikipedia.org/wiki/国土交通副大臣 "wikilink")兼拉致問題担当副大臣）
   - [野田佳彦](../Page/野田佳彦.md "wikilink")（衆議院議員、前内閣総理大臣、元[財務大臣](../Page/日本の大蔵大臣・財務大臣一覧.md "wikilink")、元財務副大臣）
   - [近藤洋介](../Page/近藤洋介_\(政治家\).md "wikilink")（元衆議院議員、元[経済産業大臣政務官](https://ja.wikipedia.org/wiki/経済産業大臣政務官 "wikilink")）
   - [松木謙公](https://ja.wikipedia.org/wiki/松木謙公 "wikilink")（元衆議院議員、元[農林水産大臣政務官](https://ja.wikipedia.org/wiki/農林水産大臣政務官 "wikilink")）
   - [尾立源幸](../Page/尾立源幸.md "wikilink")（元参議院議員、元[財務大臣政務官](https://ja.wikipedia.org/wiki/財務大臣政務官 "wikilink")）
   - [柿沢未途](https://ja.wikipedia.org/wiki/柿沢未途 "wikilink")（衆議院議員）
+  - [山本一太](../Page/山本一太.md "wikilink")（[群馬県知事](../Page/群馬県知事一覧.md "wikilink")、前参議院議員、元[外務副大臣](https://ja.wikipedia.org/wiki/外務副大臣 "wikilink")、元[沖縄･北方担当大臣](https://ja.wikipedia.org/wiki/内閣府特命担当大臣（沖縄及び北方対策担当） "wikilink")）
+  - [豊田真由子](https://ja.wikipedia.org/wiki/豊田真由子 "wikilink")（前衆議院議員）
 
-たけし（総裁）、阿川（副総裁）、大竹、浜田（幸）（後者2人党員）の4人は番組内での架空政党「悪党党\[8\]」を結成していたが、浜田が降板してからは「悪党党」の表現をしなくなった。（浜田は降板後2012年に逝去）
-
-  - [山本一太](../Page/山本一太.md "wikilink")（[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")知事、前参議院議員、元[外務副大臣](https://ja.wikipedia.org/wiki/外務副大臣 "wikilink")、元[沖縄･北方担当大臣](https://ja.wikipedia.org/wiki/内閣府特命担当大臣（沖縄及び北方対策担当） "wikilink")）
+たけし（総裁）、阿川（副総裁）、浜田（幹事長）、大竹（党員）の4人は番組内での架空政党「悪党党\[8\]」を結成していたが、浜田が降板してからは「悪党党」の表現をしなくなった。（浜田は降板後2012年に逝去）
 
 ## 過去の出演者
 
@@ -353,6 +353,15 @@
     2012年にテレビ出演など評論活動からの引退を表明し、同4月2日放送分をもって降板し、「引退3時間スペシャル」として放送された。
     2012年11月15日に他界。翌日[衆議院](https://ja.wikipedia.org/wiki/衆議院 "wikilink")が解散となったために11月19日放送分が生放送となり、その中で追悼メッセージが放送された。
 
+<!-- end list -->
+
+  - [勝谷誠彦](../Page/勝谷誠彦.md "wikilink")（[コラムニスト](https://ja.wikipedia.org/wiki/コラムニスト "wikilink")）
+
+<!-- end list -->
+
+  -
+    月1回 - 2回のペースで定期的に登場していたが、2012年から出演頻度が減少し、2018年11月28日に他界\[9\]。
+
 ### 主なゲスト
 
   - [大島渚](../Page/大島渚.md "wikilink")（[映画監督](../Page/映画監督.md "wikilink")）
@@ -369,7 +378,6 @@
   - [嵐山光三郎](../Page/嵐山光三郎.md "wikilink")（作家）
   - [金子哲雄](https://ja.wikipedia.org/wiki/金子哲雄 "wikilink")（ジャーナリスト）
   - [三反園訓](../Page/三反園訓.md "wikilink")（当時テレビ朝日コメンテーター、現・[鹿児島県](../Page/鹿児島県.md "wikilink")知事）
-  - [勝谷誠彦](../Page/勝谷誠彦.md "wikilink")（[コラムニスト](https://ja.wikipedia.org/wiki/コラムニスト "wikilink")） - 月1回 - 2回のペースで定期的に登場していたが、2012年から出演頻度が減少し、2018年11月28日に他界\[9\]。
   - [田母神俊雄](../Page/田母神俊雄.md "wikilink")（軍事評論家、第29代[航空幕僚長](../Page/航空幕僚長.md "wikilink")）
 
 ### たけしバイク事故時の代役司会
@@ -603,7 +611,7 @@
 
 ### 2010年代
 
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）1月17日、『どーする?\!TVタックル』時代より、長年当番組の[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")を務めた[郷里大輔](../Page/郷里大輔.md "wikilink")が急逝。翌日・[1月18日](../Page/1月18日.md "wikilink")の放送分のナレーションは収録済みだったため、普段通り放送された（[ジャンクション](https://ja.wikipedia.org/wiki/ジャンクション "wikilink")と一部のナレーションを郷里が担当）。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）1月17日、『どーする?\!TVタックル』時代より、長年当番組の[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")を務めた[郷里大輔](../Page/郷里大輔.md "wikilink")が急逝。翌日・[1月18日](../Page/1月18日.md "wikilink")の放送分のナレーションは収録済みだったため、普段通り放送された（[ジャンクションと一部のナレーションを郷里が担当](https://ja.wikipedia.org/wiki/クロスプログラム "wikilink")）。
       - 1月25日放送分から郷里が担当していた部分のナレーションを、二代目の[今村直樹](../Page/今村直樹.md "wikilink")が引き継いだ（ただし1月25日放送分の予告編は郷里が担当）。同放送のEDでは、郷里の死去に対するお悔やみの言葉を、江口のナレーションを添えて放送した（番組タイトルロゴをぼかした画面を背景に、追悼テロップを表示）。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（[平成](../Page/平成.md "wikilink")22年）7月5日放送分からアナログ放送では、[2011年](../Page/2011年.md "wikilink")（[平成](../Page/平成.md "wikilink")23年）[7月24日](../Page/7月24日.md "wikilink")[正午](../Page/正午.md "wikilink")の地上デジタル放送への完全移行を前提に、[16:9レターボックス放送に移行した](../Page/レターボックス_\(映像技術\).md "wikilink")。
 
@@ -675,21 +683,21 @@
 
 ### 現在
 
-  - [ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")：[銀河万丈](../Page/銀河万丈.md "wikilink")（郷里大輔の後任、一時離脱→復帰）、[津野まさい](https://ja.wikipedia.org/wiki/津野まさい "wikilink")（2015年9月28日 - 2016年3月?、同年5月15日、6月12日、8月7日、2017年1月22日、2月19日、4月16日、4月30日、5月14日、6月25日、7月9日、9月3日、2018年2月4日、12月23日、2019年8月11日、8月25日、9月22日、10月6日、10月20日、11月10日、11月24日、12月15日、2020年1月19日、1月26日、2月9日、2月23日、3月8日、4月5日、4月19日、5月3日、5月17日、5月31日）、[橋詰知久](https://ja.wikipedia.org/wiki/橋詰知久 "wikilink")（2016年5月29日、10月16日、2017年10月8日、2018年4月29日、6月10日、2019年5月5日、5月19日、8月4日、8月18日、9月29日、11月17日）、[平井啓二](../Page/平井啓二.md "wikilink")（2017年6月18日）、[野田圭一](../Page/野田圭一.md "wikilink")（2018年11月18日）
+  - [ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")：[銀河万丈](../Page/銀河万丈.md "wikilink")（郷里大輔の後任、一時離脱→復帰）、[津野まさい](https://ja.wikipedia.org/wiki/津野まさい "wikilink")（2015年9月28日 - 2016年3月?、同年5月15日、6月12日、8月7日、2017年1月22日、2月19日、4月16日、4月30日、5月14日、6月25日、7月9日、9月3日、2018年2月4日、12月23日、2019年8月11日、8月25日、9月22日、10月6日、10月20日、11月10日、11月24日、12月15日、2020年1月19日、1月26日、2月9日、2月23日、3月8日、4月5日、4月19日、5月3日、5月17日、5月31日、6月14日、6月28日、7月12日、7月26日、8月9日、8月23日）、[橋詰知久](https://ja.wikipedia.org/wiki/橋詰知久 "wikilink")（2016年5月29日、10月16日、2017年10月8日、2018年4月29日、6月10日、2019年5月5日、5月19日、8月4日、8月18日、9月29日、11月17日、2020年7月12日、8月30日）、[平井啓二](../Page/平井啓二.md "wikilink")（2017年6月18日）、[野田圭一](../Page/野田圭一.md "wikilink")（2018年11月18日）
   - 構成：安田聡太、河合秀仁（河合→一時離脱→復帰）、[岡伸晃](https://ja.wikipedia.org/wiki/岡伸晃 "wikilink")
-  - TM：久保田春記（テレビ朝日）
+  - TM：宮内大翼（テレビ朝日）
   - TD／SW：平野友章（以前は技術→SW→TD／SW、一時離脱→復帰、CAMの回あり）、時田将光（時田→以前はCAM→TD／SW、CAMの回あり）（週替り）
-  - CAM：古橋稔、高橋広（高橋・石井→共にTDの回あり）、渡邉良平、石井豪、住田清志、桝田茂雄、渡辺晃一、千ヶ崎裕介、西村佳晃（週替り）
+  - CAM：古橋稔、高橋広（高橋・石井→共にTDの回あり）、渡邉良平、石井豪、住田清志（住田・西村→共にSWの回あり、住田→一時離脱→復帰）、桝田茂雄、渡辺晃一、千ヶ崎裕介、西村佳晃、蝦名岳文、石黒康一（週替り）
   - VE：山田由香、齋(斎)藤弘幸、木村朋宏（齋藤・木村→共に以前はVTR）（週替り）
   - 音声：志村剛、藤本樹恒、林田群士（週替り）
-  - VTR：橋口司、佐藤淳太、小林孝太郎、斉藤美和子、本田親良、小川博、澤田翔平、中田啓介、樋口優介、菅野明弘、菅原将、田邊斉、青木和敬、岡村亮、平田壮之介、斉藤竜也、服部正邦、駒井譲（駒井→VEの回あり）、三好由莉子、柳澤満、細谷公助（柳澤・細谷→共に以前はVE）、鈴木太作、小林恭大、東那美、赤坂大輔、伊藤洋人、伊藤和博、田辺帆風、小林祐輝、北本崇、仁藤諭、渡部彪、喜多浩介、二宮紗耶、中村優介、山﨑香歩、苫米地要二、元木三衣奈、飯島峻太、月原佑基（週替り）
+  - VTR：橋口司、佐藤淳太、小林孝太郎、斉藤美和子、本田親良、小川博、澤田翔平、中田啓介、樋口優介、菅野明弘、菅原将、田邊斉、青木和敬、岡村亮、平田壮之介、斉藤竜也、服部正邦、駒井譲（駒井→VEの回あり）、三好由莉子、柳澤満、細谷公助（柳澤・細谷→共に以前はVE）、鈴木太作、小林恭大、東那美、赤坂大輔、伊藤洋人、伊藤和博、田辺帆風、小林祐輝、北本崇、仁藤諭、渡部彪、喜多浩介、二宮紗耶、中村優介、山﨑香歩、苫米地要二、元木三衣奈、飯島峻太、月原佑基、橋本潤、瀬尾将太（週替り）
   - 照明：宮内貴生、井場琢哉（[共立](../Page/共立_\(照明\).md "wikilink")）（週替り）
   - 美術：井磧伸介（テレビ朝日）
   - デザイン：前田香織
   - 美術進行：野口香織
   - 大道具：松岡美都司
-  - 小道具：髙﨑香織、南本怜那（週替り）
-  - 電飾：三木貴司、柴山潤（週替り）
+  - 小道具：南本怜那
+  - 電飾：柴山潤
   - 花装飾：松井達彦
   - ヘアメイク：川口カツラ店
   - 美術協力：[テレビ朝日クリエイト](../Page/テレビ朝日クリエイト.md "wikilink")
@@ -697,12 +705,12 @@
   - MA：田中陽一郎、豊田紗佑里、石橋侑也、谷澤宗明、前田悠貴（週替り）
   - 選曲効果：竹科俊至
   - TK：西岡八生子（ニケデス）
-  - 編成：田中真由子（テレビ朝日）
+  - 編成：小谷知輝（テレビ朝日）
   - 宣伝：堀場綾技子（テレビ朝日）
   - デスク：原利加子（テレビ朝日、一時離脱→復帰）
   - 協力：株式会社インターオフィス、[TSP](../Page/東京サウンドプロダクション.md "wikilink")（TSP→2016年4月3日 - ）、東京オフラインセンター
   - リサーチ：ワンバイワンプラス
-  - AD：田中淳也、大西千香、板橋周平、松永力、青野悠菜、浅野紘也、関谷俊宏、大坪(平)理佳、的場翔太、山井拓也、新崎康快、山城圭、今津悠太、横川大夢、須田梨紗子、村上聖宜、大澤耕也、村岡美子、石山詔一、吉田拓実、村上友萌、古川裕一郎、長内拓、溝口昇平、金杉ゆかり、川名洋平、長島有希、横山美希、三宅拓也、井上裕介、岡本喜郎、一色凌、柳千晶、佐藤良信、藤田綾、佐々木宏之、井上浩好、石井美幸、金城万利郎、外山隼、福野紗也（週替り）
+  - AD：田中淳也、大西千香、板橋周平、松永力、青野悠菜、浅野紘也、関谷俊宏、大坪(平)理佳、的場翔太、山井拓也、新崎康快、山城圭、今津悠太、横川大夢、須田梨紗子、村上聖宜、大澤耕也、村岡美子、石山詔一、吉田拓実、村上友萌、古川裕一郎、長内拓、溝口昇平、金杉ゆかり、川名洋平、長島有希、横山美希、三宅拓也、井上裕介、岡本喜郎、一色凌、柳千晶、佐藤良信、藤田綾、佐々木宏之、井上浩好、石井美幸、金城万利郎、外山隼、福野紗也、那須愛美、小川渚、高野(橋)光（週替り）
   - AP：勝部愛（テレビ朝日）、宮崎浩子（宮崎→以前は制作進行）、佐々木千秋、岡野暁（佐々木・岡野 → 共に隔週、岡野 → 一時離脱→復帰）、斎藤康平、久秋伸雄（週替り）
   - ディレクター：椛山陽、衣笠敦、久保寛臣、髙橋政光、小林美鳥、中谷和之、佐瀬智春、福永和哉、真鍋晋作、小関絢也、蛭間鉄平、小谷幸生、三間康秀、安川雅裕、鹿山正浩、堀武史、大池典和、佐々木良、藤倉健太郎、柴田徹郎、赤石貴弘、瀧田誠、茂木孝太、山川泰一、由利仁、江田亮斗(人)、大岡慎介、横関剛、宮部智泰、近藤貴浩、十川利春、白井法子、髙根伸寿（髙根→以前はAD）、須藤隆之、遠間善一、根本教彦、[樋本淳](https://ja.wikipedia.org/wiki/樋本淳 "wikilink")、丸山耕弥、小林賢一、栗﨑圭悟、南川尚人、松下浩二、中山和樹、松田誠、武井秀人、田㟢健祐、林浩平、清水悠介、佐藤航平、西野昇三、大熊義紹、小松聡（週替り）／堀脇慎志郎（堀脇 → 毎週）
   - 演出：奥田隆英、幅田啓之（奥田・幅田→共に以前はチーフディレクター → ディレクター）
@@ -728,15 +736,15 @@
   - 制作進行：西村瑞穂
   - キャスティング：鈴木美江子
   - リサーチ：CUBE、T2ファージ、[ビスポ](../Page/ビスポ.md "wikilink")
-  - 編成：金澤美保・遠藤華子・林雄一郎・宮田奈苗・吉見尚子・西山隆一・澤井尚子・森大貴・吉村周・高橋正輝・池田佐和子・島川博篤・西岡佐知子・須藤なぎさ・高橋陣（テレビ朝日）
+  - 編成：金澤美保・遠藤華子・林雄一郎・宮田奈苗・吉見尚子・西山隆一・澤井尚子・森大貴・吉村周・高橋正輝・池田佐和子・島川博篤・西岡佐知子・須藤なぎさ・高橋陣・田中真由子（テレビ朝日）
   - 広報：森田兆基・小林直紀・小泉善太郎・太田正彦・[保坂正紀](../Page/保坂正紀.md "wikilink")・村上弓・望野智美（テレビ朝日）
   - 宣伝：椿本晶子・吉原智美（テレビ朝日）
   - WEB：荒木美住・織田笑里（テレビ朝日）
   - デスク：小林裕美子・由利倫梨子（テレビ朝日）
   - 技術：[テイクシステムズ](../Page/テイクシステムズ.md "wikilink")
-  - TM：大島秀一、太田憲治、福元昭彦（テレビ朝日）
+  - TM：大島秀一、太田憲治、福元昭彦、久保田春記（テレビ朝日）
   - SW：本郷勝利
-  - カメラ：中司武史、住田清志、栗林克夫
+  - カメラ：中司武史、栗林克夫
   - VE：勝又章浩、勝屋一朗、宮越直幸、小松淳
   - 音声：中村政夫、中本清
   - 照明：田中晴夫・江口義信・中野照規（共立）
@@ -745,9 +753,9 @@
   - セットデザイン：[宇家譲二](https://ja.wikipedia.org/wiki/宇家譲二 "wikilink")、濱野恭平、加藤由紀子、小林千映（テレビ朝日）/ 小川由紀夫〔SPのみ〕
   - 美術進行：亀井直子、髙木由樹
   - 大道具：尾和敏明、粟津歳、真次智樹、高子昌樹、小塚信人、松本寿久、森田亘、中沢誠、木村朔也、橋本海
-  - 小道具：東条綾乃、白鳥泰司、塚谷将朗、宮本恵美子、加藤美佑、斉藤佳穂
+  - 小道具：東条綾乃、白鳥泰司、塚谷将朗、宮本恵美子、加藤美佑、斉藤佳穂、髙﨑香織
   - メカニック：八木澤市朗（[テルミック](https://ja.wikipedia.org/wiki/テルミック "wikilink")）
-  - 電飾：青羽亮、ワンダーライト
+  - 電飾：青羽亮、ワンダーライト、三木貴司
   - メイク：北森久光、重原純子、杉山和子、甲斐女衣花
   - モニター：村松裕章、下園拓也
   - マルチモニター：奥山航
@@ -766,7 +774,7 @@
 
 <!-- end list -->
 
-  - 2016年4月3日からはローカルセールス枠のため、通常時同時ネット局でも臨時非ネットまたは後日振替放送に変更する場合があり、当日遅れネット局でも臨時同時ネットまたは後日振替放送あるいは非ネットまたは通常より数時間繰り上げでの放送（当該時間帯にゴルフ中継などの特別番組がある場合）にそれぞれ変更する場合がある。また、スポーツ中継などの特別編成で番組自体が休止となった際には、遅れネット局では別番組の単発放送などで穴埋めする。
+  - 2016年4月3日からは**全編ローカルセールス枠**のため、通常時同時ネット局でも臨時非ネットまたは後日振替放送に変更する場合があり、当日遅れネット局でも臨時同時ネットまたは後日振替放送あるいは非ネットまたは通常より数時間繰り上げでの放送（当該時間帯にゴルフ中継などの特別番組がある場合）にそれぞれ変更する場合がある。
 
 <table>
 <thead>
@@ -940,8 +948,6 @@
 （KAB）</p></td>
 <td><ul>
 <li>2016年3月28日までは同時ネット、4月3日からは九州朝日放送制作『前川清の笑顔まんてんタビ好キ』を同時ネットに伴い、全編時差ネットに変更[31]。</li>
-</ul>
-<ul>
 <li>2018年4月から9月までは毎週土曜日 15:30 - 16:27に、2018年10月から2019年4月20日までは毎週土曜日 12:00 - 12:56に放送。2019年4月27日から『<a href="https://ja.wikipedia.org/wiki/中居正広のニュースな会" title="wikilink">中居正広のニュースな会</a>』放送開始に伴い、現在の時間に変更。</li>
 </ul></td>
 <td></td>
@@ -1026,7 +1032,7 @@
   - 石川県：[石川テレビ](../Page/石川テレビ放送.md "wikilink")（ITC）（フジテレビ系列。北陸朝日放送開局まで、未明帯に遅れ放送）
   - [福井県](../Page/福井県.md "wikilink")：[福井放送](../Page/福井放送.md "wikilink")（FBC）（日本テレビ系列\[41\]）
   - [鳥取県](../Page/鳥取県.md "wikilink")・[島根県](../Page/島根県.md "wikilink")：[山陰中央テレビ](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")（TSK）（フジテレビ系列）
-  - [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")：[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")（JRT）（日本テレビ系列）
+  - [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")：[四国放送](../Page/四国放送.md "wikilink")（JRT）（日本テレビ系列）
   - [宮崎県](../Page/宮崎県.md "wikilink")：[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（MRT）（TBS系列）
 
 ### 放送時間の変遷
@@ -1126,7 +1132,7 @@
 
   - 1999.01 - 1999.03：[Say a Little Prayer](../Page/Say_a_Little_Prayer.md "wikilink")「[Yes No](https://ja.wikipedia.org/wiki/Yes_No "wikilink")」
   - 1999.04 - 1999.06：[原本玲子](https://ja.wikipedia.org/wiki/原本玲子 "wikilink")「[The Last Game](https://ja.wikipedia.org/wiki/The_Last_Game "wikilink")」
-  - 1999.07 - 1999.09：[LUCA](https://ja.wikipedia.org/wiki/LUCA "wikilink")「[edge](https://ja.wikipedia.org/wiki/edge "wikilink")」
+  - 1999.07 - 1999.09：LUCA「edge」
   - 1999.10 - 1999.12：[Janne Da Arc](../Page/Janne_Da_Arc.md "wikilink")「[Lunatic Gate](https://ja.wikipedia.org/wiki/Lunatic_Gate "wikilink")」
 
 #### 2000年
@@ -1296,7 +1302,7 @@
 
 ## 外部リンク
 
-  - [ビートたけしのTVタックル（テレビ朝日）](http://www.tv-asahi.co.jp/tvtackle/index.html)
+  - [ビートたけしのTVタックル](https://www.tv-asahi.co.jp/tvtackle/)
 
 [Category:1991年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1991年のテレビ番組_\(日本\) "wikilink") [Category:テレビ朝日のバラエティ番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日のバラエティ番組 "wikilink") [Category:テレビ朝日の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の情報・ワイドショー番組 "wikilink") [Category:テレビの討論番組](https://ja.wikipedia.org/wiki/Category:テレビの討論番組 "wikilink") [Category:オフィス・トゥー・ワン](https://ja.wikipedia.org/wiki/Category:オフィス・トゥー・ワン "wikilink") [Category:ビートたけし](https://ja.wikipedia.org/wiki/Category:ビートたけし "wikilink") [Category:ネオバラエティ](https://ja.wikipedia.org/wiki/Category:ネオバラエティ "wikilink") [Category:日曜エンターテインメント](https://ja.wikipedia.org/wiki/Category:日曜エンターテインメント "wikilink") [Category:日曜プライム](https://ja.wikipedia.org/wiki/Category:日曜プライム "wikilink") [Category:浜田幸一](https://ja.wikipedia.org/wiki/Category:浜田幸一 "wikilink") [Category:ヒロミ](https://ja.wikipedia.org/wiki/Category:ヒロミ "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 

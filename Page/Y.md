@@ -28,7 +28,7 @@
 
       - （イプスィロン）
 
-      -
+      - （イプスィローノ）
   - ギリシア語の「イ」
       - （イグリエガ）
 
@@ -39,8 +39,6 @@
       - , （イグレク／グリークセ・エイ）\[1\]
 
       - （イグレク）
-
-日本語では「ワイ」、「ワーイ」と呼ばれることが多い。
 
 ## 音素
 
@@ -61,7 +59,7 @@
   - [エスペラント](../Page/エスペラント.md "wikilink")では外来語のみに使い、読み方が不明なときは文末なら  、それ以外は  と発音することが推奨されている。
   - [日本語](../Page/日本語.md "wikilink")の[ローマ字](https://ja.wikipedia.org/wiki/ローマ字 "wikilink")綴りでは[や行](../Page/や行.md "wikilink")および[開拗音](https://ja.wikipedia.org/wiki/開拗音 "wikilink")の表記に使用する。
   - [朝鮮語](../Page/朝鮮語.md "wikilink")のローマ字綴りでは、母音の内j系の二重母音である[ㅑ](https://ja.wikipedia.org/wiki/ㅑ "wikilink")、[ㅒ](https://ja.wikipedia.org/wiki/ㅒ "wikilink")、[ㅕ](../Page/ㅕ.md "wikilink")、[ㅖ](https://ja.wikipedia.org/wiki/ㅖ "wikilink")、[ㅛ](https://ja.wikipedia.org/wiki/ㅛ "wikilink")、[ㅠ](https://ja.wikipedia.org/wiki/ㅠ "wikilink")は ya,yae,yeo,ye,yo,yu と y を含む綴りとなる。
-  - [中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")の[漢語拼音](https://ja.wikipedia.org/wiki/漢語拼音 "wikilink")では、介音 /i/ を含む韻母の表記に使われる。ただし、声母（頭子音）が付く場合、y は i に変わる。「一」「伊」など主母音、尾音無しで介音 /i/ のみの場合、発音は  であり、半母音  が発音されるわけではないが、yi と表記する。
+  - [中国語](../Page/中国語.md "wikilink")の[漢語拼音](https://ja.wikipedia.org/wiki/漢語拼音 "wikilink")では、介音 /i/ を含む韻母の表記に使われる。ただし、声母（頭子音）が付く場合、y は i に変わる。「一」「伊」など主母音、尾音無しで介音 /i/ のみの場合、発音は  であり、半母音  が発音されるわけではないが、yi と表記する。
 
 ## 歴史
 

@@ -74,7 +74,7 @@ OpenOffice.org は[クロスプラットフォーム](../Page/クロスプラッ
 
 ### 多国語対応
 
-[国際化](https://ja.wikipedia.org/wiki/国際化 "wikilink")、[地域化](https://ja.wikipedia.org/wiki/地域化 "wikilink")に力を入れていたため、世界中で同一のソフトを利用することができた。内部は[Unicode](../Page/Unicode.md "wikilink")で処理されているため、OpenOffice.org日本語版でも、欧米の言語のみならず他地域の言語を扱うことができた。なお、開発に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")国内の技術者が大きく関与しているため、[英語](../Page/英語.md "wikilink")と並んで[ドイツ語](../Page/ドイツ語.md "wikilink")関係の機能も充実していた。アジア諸言語としては、[日本語](../Page/日本語.md "wikilink")のほか、[韓国語](../Page/朝鮮語.md "wikilink")、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")に対応していた。[複合文字言語](../Page/複雑なテキスト配置.md "wikilink")（CTL）では、[アラビア語](../Page/アラビア語.md "wikilink")、[タイ語](../Page/タイ語.md "wikilink")、[ヒンディ語](../Page/ヒンディー語.md "wikilink")、[ヘブライ語](../Page/ヘブライ語.md "wikilink")などに対応していた。
+[国際化](https://ja.wikipedia.org/wiki/国際化 "wikilink")、[地域化](https://ja.wikipedia.org/wiki/地域化 "wikilink")に力を入れていたため、世界中で同一のソフトを利用することができた。内部は[Unicode](../Page/Unicode.md "wikilink")で処理されているため、OpenOffice.org日本語版でも、欧米の言語のみならず他地域の言語を扱うことができた。なお、開発に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")国内の技術者が大きく関与しているため、[英語](../Page/英語.md "wikilink")と並んで[ドイツ語](../Page/ドイツ語.md "wikilink")関係の機能も充実していた。アジア諸言語としては、[日本語](../Page/日本語.md "wikilink")のほか、[韓国語](../Page/朝鮮語.md "wikilink")、[中国語](../Page/中国語.md "wikilink")に対応していた。[複合文字言語](../Page/複雑なテキスト配置.md "wikilink")（CTL）では、[アラビア語](../Page/アラビア語.md "wikilink")、[タイ語](../Page/タイ語.md "wikilink")、[ヒンディ語](../Page/ヒンディー語.md "wikilink")、[ヘブライ語](../Page/ヘブライ語.md "wikilink")などに対応していた。
 
 ## 各機能
 
@@ -136,7 +136,7 @@ OpenOffice.orgにはスタイルと呼ばれる機能があった。多くのオ
 
 <!-- end list -->
 
-  - [中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")対応（中国語の変換）
+  - [中国語](../Page/中国語.md "wikilink")対応（中国語の変換）
 
 <!-- end list -->
 

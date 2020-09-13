@@ -10,7 +10,7 @@
 
 ## 特徴
 
-ユニット名の由来は「[双子じゃないのに双子みたい](../Page/双生児.md "wikilink")」という発想から、「[W](../Page/W.md "wikilink")」の語源「DOUBLE U」にヒントを得て「YOU\&YOU」、すなわち「あなたとあなた」である。\[1\]「リーダーの辻希美と、サブリーダーの加護亜依、2人合わせてダブル・ユーでーす\!」と言う自己紹介テンプレートがあった。[モーニング娘。](../Page/モーニング娘。.md "wikilink")からの[卒業自体を同時に行ったのはこの](../Page/卒業_\(曖昧さ回避\).md "wikilink")2人が初めてのケースである。
+ユニット名の由来は「[双子じゃないのに双子みたい](../Page/双生児.md "wikilink")」という発想から、「[W](../Page/W.md "wikilink")」の語源「DOUBLE U」にヒントを得て「YOU\&YOU」、すなわち「あなたとあなた」である\[1\]。「リーダーの辻希美と、サブリーダーの加護亜依、2人合わせてダブル・ユーでーす\!」と言う自己紹介テンプレートがあった。[モーニング娘。](../Page/モーニング娘。.md "wikilink")からの[卒業自体を同時に行ったのはこの](../Page/卒業_\(曖昧さ回避\).md "wikilink")2人が初めてのケースである。
 
 キャラクターの性質上、[コスプレ](../Page/コスプレ.md "wikilink")のような格好のことも多かった。2005年以降は個々の活動が目立つようになっていった。また、W単独でのコンサートツアーは行われなかった。
 
@@ -97,23 +97,20 @@
 </tbody>
 </table>
 
-
-\===アルバム===
+### アルバム
 
 |   | 発売日       | タイトル                                                       | **規格品番**  |
 | - | --------- | ---------------------------------------------------------- | --------- |
 | 1 | 2004年6月2日 | [デュオU\&U](https://ja.wikipedia.org/wiki/デュオU&U "wikilink") | EPCE-5289 |
 | 2 | 2005年3月2日 | [2nd W](https://ja.wikipedia.org/wiki/2nd_W "wikilink")    | EPCE-5355 |
 
-
-\===配信アルバム===
+### 配信アルバム
 
 |   | 発売日        | タイトル                                                        | **規格品番**  |
 | - | ---------- | ----------------------------------------------------------- | --------- |
 | 1 | 2019年3月30日 | [ちょい悪デビル](https://ja.wikipedia.org/wiki/ちょい悪デビル "wikilink") | UFDL-1425 |
 
-
-\===DVD（シングル）===
+### DVD（シングル）
 
 1.  恋のバカンス （EPBE-5130 2004年6月23日）
 2.  ロボキッス （EPBE-5163 2004年11月17日）
@@ -236,7 +233,7 @@
   - [UP-FRONT WORKSディスコグラフィ](http://www.up-front-works.jp/discography/zetima/16/list.html)
   - [つんく♂オフィシャルウェブサイトのコメント](http://www.tsunku.net/producework.php?Music_ArtistID=21)
 
-[Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:ハロー\!プロジェクトのユニット](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクトのユニット "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink")
+[Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:ハロー\!プロジェクトのユニット](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクトのユニット "wikilink") [Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:ハロー\!プロジェクトのポップ・グループ](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクトのポップ・グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink")
 
 1.  "[つんく♂オフィシャルウェブサイト＜辻希美＆加護亜依の新ユニットに関してのお知らせ＞2004/03/06](http://www.tsunku.net/officialcommentdetail.php?@DB_ID@=16)"2011年4月20日閲覧
 2.  "[つんく♂オフィシャルウェブサイト ＜ハロー！プロジェクト及びモーニング娘。に関して＞2004/01/03](http://www.tsunku.net/officialcommentdetail.php?@DB_ID@=12)"2011年4月20日閲覧

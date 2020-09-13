@@ -174,7 +174,7 @@
 （<a href="../Page/水樹奈々.md" title="wikilink">水樹奈々</a>）</p></td>
 <td><p><a href="../Page/ヘミソフィア.md" title="wikilink">ヘミソフィア</a><br />
 （坂本真綾）</p></td>
-<td><p><a href="../Page/Love_parade.md" title="wikilink">Love parade</a><br />
+<td><p><a href="../Page/Love♡parade.md" title="wikilink">Love♡parade</a><br />
 （<a href="https://ja.wikipedia.org/wiki/田村ゆかり" title="wikilink">田村ゆかり</a>）</p></td>
 <td><p><a href="../Page/Northern_lights.md" title="wikilink">Northern lights</a><br />
 （林原めぐみ）</p></td>
@@ -193,7 +193,7 @@
 
   - \- 過去のランキングが掲載されていた。最終回では番組歴代ランキングが掲載された。
 
-[Category:文化放送A\&Gゾーン](https://ja.wikipedia.org/wiki/Category:文化放送A&Gゾーン "wikilink") [Category:文化放送の深夜ラジオ番組](https://ja.wikipedia.org/wiki/Category:文化放送の深夜ラジオ番組 "wikilink") [Category:文化放送の音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:文化放送の音楽番組の歴史 "wikilink") [Category:アニメソングのラジオ番組](https://ja.wikipedia.org/wiki/Category:アニメソングのラジオ番組 "wikilink") [Category:音楽ランキング番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:音楽ランキング番組_\(ラジオ\) "wikilink") [Category:1995年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1995年のラジオ番組_\(日本\) "wikilink") [Category:マルチメディア](https://ja.wikipedia.org/wiki/Category:マルチメディア "wikilink")
+[Category:文化放送A\&Gゾーン](https://ja.wikipedia.org/wiki/Category:文化放送A&Gゾーン "wikilink") [Category:文化放送の深夜ラジオ番組](https://ja.wikipedia.org/wiki/Category:文化放送の深夜ラジオ番組 "wikilink") [Category:文化放送の音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:文化放送の音楽番組の歴史 "wikilink") [Category:アニメソングのラジオ番組](https://ja.wikipedia.org/wiki/Category:アニメソングのラジオ番組 "wikilink") [Category:音楽ランキング番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:音楽ランキング番組_\(ラジオ\) "wikilink") [Category:1995年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1995年のラジオ番組_\(日本\) "wikilink") [Category:マルチメディア](https://ja.wikipedia.org/wiki/Category:マルチメディア "wikilink") [Category:リクエスト番組](https://ja.wikipedia.org/wiki/Category:リクエスト番組 "wikilink")
 
 1.
 2.  年間ランキング発表時はほとんどの年で2週に亘る特別放送になり、1週目で50位から11位、2週目で10位から1位の発表を行っていた。2週目の10位から1位はフルコーラスでのオンエアであった。

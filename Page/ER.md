@@ -41,7 +41,7 @@
 
   - [ASTERエアカーゴ](https://ja.wikipedia.org/wiki/ASTERエアカーゴ "wikilink") () の[IATA航空会社コード](https://ja.wikipedia.org/wiki/IATA航空会社コード "wikilink")
 
-  - エドワード王 () - [イギリス王](https://ja.wikipedia.org/wiki/イギリス君主一覧 "wikilink")[エドワード1世](../Page/エドワード1世_\(イングランド王\).md "wikilink")～[7世のこと](../Page/エドワード7世_\(イギリス王\).md "wikilink")
+  - エドワード王 () - [イギリス王](../Page/イギリス君主一覧.md "wikilink")[エドワード1世](../Page/エドワード1世_\(イングランド王\).md "wikilink")～[7世のこと](../Page/エドワード7世_\(イギリス王\).md "wikilink")
 
   - エリザベス女王 () - [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")女王[エリザベス2世](https://ja.wikipedia.org/wiki/エリザベス2世 "wikilink")のこと
 
@@ -61,4 +61,4 @@
           - さらにここから派生した日本語のスラングとして、「グループ・バンド・人名の一部または全部+er」でグループ・バンド・人の熱狂的なファンという意味を表すようになった。 例：**eighter**（エイター、[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")の熱狂的なファン）、**wimper**（ウィンパー、[RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")の熱狂的なファン）
   - [ドイツ語](../Page/ドイツ語.md "wikilink")の[三人称](../Page/三人称.md "wikilink")[単数](../Page/数_\(文法\).md "wikilink")[一格（主格）](../Page/主格.md "wikilink")[代名詞](../Page/代名詞.md "wikilink")。「彼は」。[erも参照](https://ja.wikipedia.org/wiki/wikt:er "wikilink")。
   - [フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")における「第1」の[序数標識](https://ja.wikipedia.org/wiki/序数標識 "wikilink")。1 = 。
-  - [中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")の接尾辞「ㄦ」。[児化](https://ja.wikipedia.org/wiki/児化 "wikilink")を参照。
+  - [中国語](../Page/中国語.md "wikilink")の接尾辞「ㄦ」。[児化](https://ja.wikipedia.org/wiki/児化 "wikilink")を参照。

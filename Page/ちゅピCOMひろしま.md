@@ -46,90 +46,90 @@
 
 ### テレビ局
 
-| アナログ | デジタル    | 放送局                                                                                                |
-| ---- | ------- | -------------------------------------------------------------------------------------------------- |
-| 本局   | 安佐南     |                                                                                                    |
-| 3    | D011(1) | [NHK広島](../Page/NHK広島放送局.md "wikilink")[総合](../Page/NHK総合テレビジョン.md "wikilink")                     |
-| 7    | D021(2) | NHK広島[教育](../Page/NHK教育テレビジョン.md "wikilink")                                                       |
-| 4    | D031(3) | [中国放送](../Page/中国放送.md "wikilink")                                                                 |
-| 12   | D041(4) | [広島テレビ](../Page/広島テレビ放送.md "wikilink")                                                             |
-| 10   | 9       | D051(5)                                                                                            |
-| 1    | 10      | D081(8)                                                                                            |
-| 2    | 11      | D111(11)                                                                                           |
-| 60   | 50      | BS101                                                                                              |
-| 64   | 58      | BS103                                                                                              |
-| 65   | 53      | BS141-143                                                                                          |
-| 66   | 56      | BS151-153                                                                                          |
-| 67   | 54      | BS161-163                                                                                          |
-| 68   | 57      | BS171-173                                                                                          |
-| 69   | 55      | BS181-183                                                                                          |
-| 62   | 60      | BS191-193                                                                                          |
-|      | BS200   | [スター・チャンネル](../Page/スター・チャンネル.md "wikilink") ハイビジョン                                                |
-|      | BS211   | [BS11デジタル](../Page/日本BS放送.md "wikilink")                                                           |
-|      | BS222   | [TwellV](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")                                                  |
-| 15   |         |                                                                                                    |
-| 34   | 48      | JC701                                                                                              |
-|      | JC709   | [放送大学テレビ](../Page/放送大学学園.md "wikilink")                                                            |
-| 17   | 5       | JC710                                                                                              |
-| 14   | 2       | JC711                                                                                              |
-| 33   | JC712   | [ウェザーニューズ](https://ja.wikipedia.org/wiki/ウェザーニューズ "wikilink")                                      |
-|      | JC721   | [フジテレビTWO](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")                                      |
-|      | JC722   | [旅チャンネル](../Page/旅チャンネル.md "wikilink")/[MONDO21](https://ja.wikipedia.org/wiki/MONDO21 "wikilink") |
-|      | JC723   | [大人の趣味と生活向上◆アクトオンTV](../Page/大人の趣味と生活向上◆アクトオンTV.md "wikilink")                                     |
-|      | JC724   | [囲碁・将棋チャンネル](../Page/囲碁・将棋チャンネル.md "wikilink")                                                     |
-| 28   | 49      | JC725                                                                                              |
-| 18   | 26      | JC726                                                                                              |
-|      | JC727   | [トゥーン・ディズニー](../Page/トゥーン・ディズニー.md "wikilink")                                                     |
-|      | JC730   | [J sports ESPN](../Page/J_SPORTS.md "wikilink")                                                    |
-| 38   | JC731   | [J sports 1](../Page/J_SPORTS.md "wikilink")                                                       |
-| 39   | JC732   | [J sports 2](../Page/J_SPORTS.md "wikilink")                                                       |
-|      | JC733   | [J sports Plus](../Page/J_SPORTS.md "wikilink")                                                    |
-| 43   | JC734   | [スカイ・A sports+](../Page/スカイ・エー.md "wikilink")                                                      |
-| 40   | JC735   | [GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")                                            |
-| 35   | JC737   | [ゴルフネットワーク](../Page/ゴルフネットワーク.md "wikilink")                                                       |
-|      | JC738   | [ザ・ゴルフ・チャンネル](../Page/ザ・ゴルフ・チャンネル.md "wikilink")                                                   |
-|      | JC739   | [フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")                                      |
-|      | JC740   | [FIGHTING TV サムライ](../Page/FIGHTING_TV_サムライ.md "wikilink")                                         |
-|      | JC741   | [釣りビジョン](../Page/釣りビジョン.md "wikilink")                                                             |
-|      | JC749   | [アジアドラマチックTV★So-net](https://ja.wikipedia.org/wiki/アジアドラマチックTV★So-net "wikilink")                  |
-| 23   | JC750   | [チャンネルNECO](../Page/チャンネルNECO.md "wikilink")                                                       |
-|      | JC751   | [ファミリー劇場](../Page/ファミリー劇場.md "wikilink")                                                           |
-|      | JC752   | [日本映画専門チャンネル](../Page/日本映画専門チャンネル.md "wikilink")                                                   |
-| 27   | 28      | JC753                                                                                              |
-| 21   | JC755   | [スーパー\!ドラマTV](../Page/スーパー!ドラマTV.md "wikilink")                                                    |
-| 22   | JC756   | [ムービープラス](../Page/ムービープラス.md "wikilink")                                                           |
-|      | JC757   | [AXN](../Page/AXN.md "wikilink")                                                                   |
-|      | JC758   | [ミステリチャンネル](../Page/ミステリチャンネル.md "wikilink")                                                       |
-| 20   | JC760   | [スター・チャンネル](../Page/スター・チャンネル.md "wikilink")                                                       |
-|      | JC761   | [スター・チャンネル](../Page/スター・チャンネル.md "wikilink") プラス                                                   |
-|      | JC762   | [スター・チャンネル](../Page/スター・チャンネル.md "wikilink") クラシック                                                 |
-| 25   | JC763   | [衛星劇場](../Page/衛星劇場.md "wikilink")                                                                 |
-|      | JC764   | [東映チャンネル](../Page/東映チャンネル.md "wikilink")                                                           |
-|      | JC765   | [TBSチャンネル](../Page/TBSチャンネル.md "wikilink")                                                         |
-|      | JC766   | [テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")                                                         |
-|      | JC769   | [V☆パラダイス](https://ja.wikipedia.org/wiki/V☆パラダイス "wikilink")                                        |
-| 42   | JC770   | [スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")                                                     |
-| 44   | JC772   | [MTV](../Page/MTVジャパン.md "wikilink")                                                               |
-| 45   |         | JC774                                                                                              |
-| 24   | JC781   | [キッズステーション](../Page/キッズステーション.md "wikilink")                                                       |
-| 26   | 27      | JC782                                                                                              |
-| 31   | JC790   | [日経CNBC](https://ja.wikipedia.org/wiki/日経CNBC "wikilink")                                          |
-|      | JC791   | [BBCワールドニュース](../Page/BBCワールドニュース.md "wikilink")                                                   |
-| 30   | JC792   | [CNNj](../Page/CNNj.md "wikilink")                                                                 |
-| 32   |         | (JC793)                                                                                            |
-|      | 36      | JC795                                                                                              |
-| 36   | 37      | JC796                                                                                              |
-| 37   |         | JC797                                                                                              |
-|      | JC798   | [ヒストリーチャンネル](../Page/ヒストリーチャンネル.md "wikilink")                                                     |
-| 47   | JC810   | [グリーンチャンネル](../Page/グリーンチャンネル.md "wikilink")                                                       |
-|      | JC811   | [グリーンチャンネル](../Page/グリーンチャンネル.md "wikilink")2                                                      |
-|      | 46      | JC812                                                                                              |
-|      | JC950   | [プレイボーイチャンネル](../Page/プレイボーイチャンネル.md "wikilink")                                                   |
-|      | JC951   | [レインボーチャンネル](../Page/レインボーチャンネル.md "wikilink")                                                     |
-|      | JC952   | [ミッドナイトブルー](https://ja.wikipedia.org/wiki/ミッドナイトブルー "wikilink")                                    |
-|      | JC953   | [パラダイステレビ](../Page/パラダイステレビ.md "wikilink")                                                         |
-|      | JC954   | [ピンクチェリー](https://ja.wikipedia.org/wiki/ピンクチェリー "wikilink")                                        |
-|      | 45      |                                                                                                    |
+| アナログ | デジタル      | 放送局                                                                                                |
+| ---- | --------- | -------------------------------------------------------------------------------------------------- |
+| 本局   | 安佐南       |                                                                                                    |
+| 3    | D011(1)   | [NHK広島](../Page/NHK広島放送局.md "wikilink")[総合](../Page/NHK総合テレビジョン.md "wikilink")                     |
+| 7    | D021(2)   | NHK広島[教育](../Page/NHK教育テレビジョン.md "wikilink")                                                       |
+| 4    | D031(3)   | [中国放送](../Page/中国放送.md "wikilink")                                                                 |
+| 12   | D041(4)   | [広島テレビ](../Page/広島テレビ放送.md "wikilink")                                                             |
+| 10   | 9         | D051(5)                                                                                            |
+| 1    | 10        | D081(8)                                                                                            |
+| 2    | 11        | D111(11)                                                                                           |
+| 60   | 50        | BS101                                                                                              |
+| 64   | 58        | BS103                                                                                              |
+| 65   | 53        | BS141-143                                                                                          |
+| 66   | 56        | BS151-153                                                                                          |
+| 67   | 54        | BS161-163                                                                                          |
+| 68   | 57        | BS171-173                                                                                          |
+| 69   | 55        | BS181-183                                                                                          |
+| 62   | 60        | BS191-193                                                                                          |
+|      | BS200     | [スター・チャンネル](../Page/スター・チャンネル.md "wikilink") ハイビジョン                                                |
+|      | BS211     | [BS11デジタル](../Page/日本BS放送.md "wikilink")                                                           |
+|      | BS222     | [TwellV](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")                                                  |
+| 15   |           |                                                                                                    |
+| 34   | 48        | JC701                                                                                              |
+|      | JC709     | [放送大学テレビ](../Page/放送大学学園.md "wikilink")                                                            |
+| 17   | 5         | JC710                                                                                              |
+| 14   | 2         | JC711                                                                                              |
+| 33   | JC712     | [ウェザーニューズ](https://ja.wikipedia.org/wiki/ウェザーニューズ "wikilink")                                      |
+|      | JC721     | [フジテレビTWO](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")                                      |
+|      | JC722     | [旅チャンネル](../Page/旅チャンネル.md "wikilink")/[MONDO21](https://ja.wikipedia.org/wiki/MONDO21 "wikilink") |
+|      | ~~JC723~~ | ~~大人の趣味と生活向上◆アクトオンTV~~                                                                             |
+|      | JC724     | [囲碁・将棋チャンネル](../Page/囲碁・将棋チャンネル.md "wikilink")                                                     |
+| 28   | 49        | JC725                                                                                              |
+| 18   | 26        | JC726                                                                                              |
+|      | JC727     | [トゥーン・ディズニー](../Page/トゥーン・ディズニー.md "wikilink")                                                     |
+|      | JC730     | [J sports ESPN](../Page/J_SPORTS.md "wikilink")                                                    |
+| 38   | JC731     | [J sports 1](../Page/J_SPORTS.md "wikilink")                                                       |
+| 39   | JC732     | [J sports 2](../Page/J_SPORTS.md "wikilink")                                                       |
+|      | JC733     | [J sports Plus](../Page/J_SPORTS.md "wikilink")                                                    |
+| 43   | JC734     | [スカイ・A sports+](../Page/スカイ・エー.md "wikilink")                                                      |
+| 40   | JC735     | [GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")                                            |
+| 35   | JC737     | [ゴルフネットワーク](../Page/ゴルフネットワーク.md "wikilink")                                                       |
+|      | JC738     | [ザ・ゴルフ・チャンネル](../Page/ザ・ゴルフ・チャンネル.md "wikilink")                                                   |
+|      | JC739     | [フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")                                      |
+|      | JC740     | [FIGHTING TV サムライ](../Page/FIGHTING_TV_サムライ.md "wikilink")                                         |
+|      | JC741     | [釣りビジョン](../Page/釣りビジョン.md "wikilink")                                                             |
+|      | JC749     | [アジアドラマチックTV★So-net](https://ja.wikipedia.org/wiki/アジアドラマチックTV★So-net "wikilink")                  |
+| 23   | JC750     | [チャンネルNECO](../Page/チャンネルNECO.md "wikilink")                                                       |
+|      | JC751     | [ファミリー劇場](../Page/ファミリー劇場.md "wikilink")                                                           |
+|      | JC752     | [日本映画専門チャンネル](../Page/日本映画専門チャンネル.md "wikilink")                                                   |
+| 27   | 28        | JC753                                                                                              |
+| 21   | JC755     | [スーパー\!ドラマTV](../Page/スーパー!ドラマTV.md "wikilink")                                                    |
+| 22   | JC756     | [ムービープラス](../Page/ムービープラス.md "wikilink")                                                           |
+|      | JC757     | [AXN](../Page/AXN.md "wikilink")                                                                   |
+|      | JC758     | [ミステリチャンネル](../Page/ミステリチャンネル.md "wikilink")                                                       |
+| 20   | JC760     | [スター・チャンネル](../Page/スター・チャンネル.md "wikilink")                                                       |
+|      | JC761     | [スター・チャンネル](../Page/スター・チャンネル.md "wikilink") プラス                                                   |
+|      | JC762     | [スター・チャンネル](../Page/スター・チャンネル.md "wikilink") クラシック                                                 |
+| 25   | JC763     | [衛星劇場](../Page/衛星劇場.md "wikilink")                                                                 |
+|      | JC764     | [東映チャンネル](../Page/東映チャンネル.md "wikilink")                                                           |
+|      | JC765     | [TBSチャンネル](../Page/TBSチャンネル.md "wikilink")                                                         |
+|      | JC766     | [テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")                                                         |
+|      | JC769     | [V☆パラダイス](https://ja.wikipedia.org/wiki/V☆パラダイス "wikilink")                                        |
+| 42   | JC770     | [スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")                                                     |
+| 44   | JC772     | [MTV](../Page/MTVジャパン.md "wikilink")                                                               |
+| 45   |           | JC774                                                                                              |
+| 24   | JC781     | [キッズステーション](../Page/キッズステーション.md "wikilink")                                                       |
+| 26   | 27        | JC782                                                                                              |
+| 31   | JC790     | [日経CNBC](https://ja.wikipedia.org/wiki/日経CNBC "wikilink")                                          |
+|      | JC791     | [BBCワールドニュース](../Page/BBCワールドニュース.md "wikilink")                                                   |
+| 30   | JC792     | [CNNj](../Page/CNNj.md "wikilink")                                                                 |
+| 32   |           | (JC793)                                                                                            |
+|      | 36        | JC795                                                                                              |
+| 36   | 37        | JC796                                                                                              |
+| 37   |           | JC797                                                                                              |
+|      | JC798     | [ヒストリーチャンネル](../Page/ヒストリーチャンネル.md "wikilink")                                                     |
+| 47   | JC810     | [グリーンチャンネル](../Page/グリーンチャンネル.md "wikilink")                                                       |
+|      | JC811     | [グリーンチャンネル](../Page/グリーンチャンネル.md "wikilink")2                                                      |
+|      | 46        | JC812                                                                                              |
+|      | JC950     | [プレイボーイチャンネル](../Page/プレイボーイチャンネル.md "wikilink")                                                   |
+|      | JC951     | [レインボーチャンネル](../Page/レインボーチャンネル.md "wikilink")                                                     |
+|      | JC952     | [ミッドナイトブルー](https://ja.wikipedia.org/wiki/ミッドナイトブルー "wikilink")                                    |
+|      | JC953     | [パラダイステレビ](../Page/パラダイステレビ.md "wikilink")                                                         |
+|      | JC954     | [ピンクチェリー](https://ja.wikipedia.org/wiki/ピンクチェリー "wikilink")                                        |
+|      | 45        |                                                                                                    |
 
   - デジタル放送は[JC-HITSを使用](https://ja.wikipedia.org/wiki/ジャパン_ケーブルキャスト "wikilink")
   - テレビ東京系列、FMラジオ放送の再送信は行っていない。
@@ -161,6 +161,12 @@
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に[エネルギア・コミュニケーションズ](../Page/エネルギア・コミュニケーションズ.md "wikilink")と業務提携を結んでおり、「MEGA EGG」のサービスを提供している。
 
 ## 脚注
+
+  - 注釈
+
+<!-- end list -->
+
+  - 出典
 
 ## 関連項目
 

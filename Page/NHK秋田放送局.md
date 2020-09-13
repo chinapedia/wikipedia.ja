@@ -286,6 +286,7 @@
 <!-- end list -->
 
   - [おはよう秋田](../Page/おはよう秋田.md "wikilink")（平日7:45 - 8:00、7:50 - 7:58は東北ブロック放送）
+      - 2018年から8月の旧盆期間中は、番組休止となり、仙台から『おはよう東北』として、全編東北ブロック放送となる。
   - [ニュースこまち](https://ja.wikipedia.org/wiki/ニュースこまち "wikilink")（平日18:10 - 18:59）
 
 <!-- end list -->
@@ -295,7 +296,7 @@
 
 <!-- end list -->
 
-  - [秋田駅前 喫茶こまち](https://ja.wikipedia.org/wiki/秋田駅前_喫茶こまち "wikilink")（ラジオ第1の金曜12:30 - 13:00、FMの水曜12:55 - 13:00）
+  - 放課後ラジオ よりみちこまちまち（ラジオ第1の毎月最終金曜予定 金曜17:05 - 18:00）
   - ニュースこまち845（平日20:45 - 21:00）
   - きんよる秋田（毎月2回金曜19:30 - 19:57）
 
@@ -342,6 +343,7 @@
 
   - らじおっこ秋田（ラジオ第一 月曜日～金曜日17:05 - 18:00）
   - [きく・こまち](https://ja.wikipedia.org/wiki/きく・こまち "wikilink")（ラジオ第一の水曜19：45 - 20：00、[NHKきょうのニュース](../Page/NHKきょうのニュース.md "wikilink")のローカル枠。ナイターインの月曜・火曜、ナイターオフの月火木金は仙台からの[東北ワイドニュース](https://ja.wikipedia.org/wiki/東北ワイドニュース "wikilink")）
+  - [秋田駅前 喫茶こまち](https://ja.wikipedia.org/wiki/秋田駅前_喫茶こまち "wikilink")（ラジオ第1の金曜12:30 - 13:00、FMの水曜12:55 - 13:00）
   - コトノハ（水曜22:45 - 22:50）
   - [ふるさと競演](https://ja.wikipedia.org/wiki/ふるさと競演 "wikilink")（随時19:30 - 20:43 金曜以外に放送の場合あり）
 
@@ -413,68 +415,62 @@
 （キャスター）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/増田卓.md" title="wikilink">増田卓</a></p></td>
-<td><p><a href="../Page/NHK松山放送局.md" title="wikilink">松山</a></p></td>
-<td><p>各種スポーツ中継<br />
-秋田県のニュース</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/秋野由美子.md" title="wikilink">秋野由美子</a></p></td>
 <td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td><p>|秋田県のニュース</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>倉沢宏希</p></td>
 <td><p><strong>初任地</strong></p></td>
 <td><p>秋田県のニュース<br />
 放課後ラジオ よりみちこまち</p></td>
 </tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/浅田春奈" title="wikilink">浅田春奈</a></p></td>
+<tr class="even">
+<td><p><a href="../Page/浅田春奈.md" title="wikilink">浅田春奈</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>江口実玖</p></td>
 <td></td>
 <td><p>ニュースこまち</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>亀田瑛莉子</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>高野栞</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>武田実紗</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>宮地由季</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>渡辺早紀</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>加藤直樹</p></td>
 <td></td>
 <td><p>ニュースこまち</p></td>

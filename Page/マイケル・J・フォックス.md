@@ -1,7 +1,7 @@
 > この記事は[マイケル・J・フォックス](https://ja.wikipedia.org/wiki/マイケル・J・フォックス)から翻訳されています。
 
 
-**マイケル・J・フォックス**, [OC](../Page/カナダ勲章.md "wikilink")（**Michael J. Fox**, [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[6月9日](../Page/6月9日.md "wikilink") - ）は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[アルバータ州](../Page/アルバータ州.md "wikilink")[エドモントン](../Page/エドモントン.md "wikilink")生まれの[俳優](../Page/俳優.md "wikilink")、[プロデューサー](../Page/プロデューサー.md "wikilink")、[作家](../Page/作家.md "wikilink")。本名はマイケル・アンドリュー・フォックス。俳優になる際に同名俳優が既にいたことから、尊敬する[マイケル・J・ポラード](https://ja.wikipedia.org/wiki/マイケル・J・ポラード "wikilink")にちなみ「J」の字をつけた。
+**マイケル・J・フォックス**, [OC](../Page/カナダ勲章.md "wikilink")（**Michael J. Fox**, [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[6月9日](../Page/6月9日.md "wikilink") - ）は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")生まれの[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[俳優](../Page/俳優.md "wikilink")、[プロデューサー](../Page/プロデューサー.md "wikilink")、[作家](../Page/作家.md "wikilink")。本名はマイケル・アンドリュー・フォックス。俳優になる際に同名俳優が既にいたことから、尊敬する[マイケル・J・ポラード](https://ja.wikipedia.org/wiki/マイケル・J・ポラード "wikilink")にちなみ「J」の字をつけた。
 
 ## 来歴
 
@@ -31,9 +31,9 @@
 
 ### パーキンソン病との闘い
 
-[Michael_J._Fox_(cropped).jpg](https://ja.wikipedia.org/wiki/File:Michael_J._Fox_\(cropped\).jpg "fig:Michael_J._Fox_(cropped).jpg") 30歳の時、[パーキンソン病](../Page/パーキンソン病.md "wikilink")を発症。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")頃から発症の兆候が見られ、病を隠しながらも、自らプロデュースに参加し主演もつとめたテレビドラマシリーズ『スピン・シティ』などに出演を続けるが、1998年に病気を公表。2000年には『スピン・シティ』を降板し俳優活動から退いた。専門医の中には早くからマイケルの音声や動作に示される特徴からその兆候を認識していたものもいた\[5\]。
+[Michael_J._Fox_(cropped).jpg](https://ja.wikipedia.org/wiki/File:Michael_J._Fox_\(cropped\).jpg "fig:Michael_J._Fox_(cropped).jpg") [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")頃、ちょうど『バック・トゥ・ザ・フューチャー PART3』の撮影中から身体の不調が見られるようになり、30歳の時、[パーキンソン病](../Page/パーキンソン病.md "wikilink")と診断された。その後も病を隠しながら、自らプロデュースに参加し主演も務めたテレビドラマシリーズ『[スピン・シティ](../Page/スピン・シティ.md "wikilink")』などに出演を続けるが、1998年に病気を公表。2000年には『スピン・シティ』を降板、俳優活動から一時退いた。専門医の中には、早くからマイケルの音声や動作に示される特徴からその兆候を認識していたものもいた\[5\]。
 
-その後、パーキンソン病の研究助成活動を始め「マイケル・J・フォックス パーキンソン病リサーチ財団」を設立。また自らの生い立ちやパーキンソン病との格闘を綴った自伝『ラッキー・マン』（Lucky Man） を発売し、国際的にベストセラーとなった\[6\]。
+その後、パーキンソン病の研究助成活動を始め「マイケル・J・フォックス パーキンソン病リサーチ財団」を設立。また自らの生い立ちやパーキンソン病との格闘を綴った自伝『ラッキー・マン（Lucky Man）』を発売し、国際的にベストセラーとなった。売上は全て同財団に寄付された。
 
 ### 近年
 
@@ -41,17 +41,19 @@
 
 日本では2006年4月28日放送の[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「金曜エンターテイメント」の『人体再生ロマンSPもう一度抱きしめたい』の番組内で、自伝『ラッキー・マン』を題材にした再現ドラマが放送された。
 
-2006年10月20日に、翌月に投票を控えた[アメリカ合衆国2006年中間選挙に際し](https://ja.wikipedia.org/wiki/中間選挙#2006年中間選挙 "wikilink")、難病治療のためのES細胞研究の支持を表明していた[ミズーリ州](../Page/ミズーリ州.md "wikilink")選挙区の[民主党上院議員候補](../Page/民主党_\(アメリカ\).md "wikilink")[クレア・マカスクル](https://ja.wikipedia.org/wiki/クレア・マカスクル "wikilink")の応援CMに出演し久しぶりに公の場に姿を現した。ところがこのCMやこれに合わせて出演した番組のインタビュー映像などで、体を大きく揺らすなど非常に激しい挙動をとったため「パーキンソン病を誇大に宣伝するための演技ではないか」と一部で疑いがもたれた 。中でも著名ラジオパーソナリティとして知られる[ラッシュ・リンボー](../Page/ラッシュ・リンボー.md "wikilink")は自身の番組で「彼はCM中、終始所狭しと動き震えていた。彼は自分の病気を誇張している。本当に恥知らずだ。恐らくこれは演技か、敢えて薬を飲まずに撮影したのだろう」と発言\[7\]。この非難に対しフォックスは各種ニュース番組に生出演。「あれはパーキンソンのありのままの姿。普段プルプル震えてたり、顔面が硬直しているのは必死に挙動を抑えているからなんだ」と反論し\[8\]、直後にリンボーは自身の発言を取り下げフォックスに対して全面謝罪した\[9\]\[10\]。
+2006年10月20日に、翌月に投票を控えた[アメリカ合衆国2006年中間選挙に際し](https://ja.wikipedia.org/wiki/中間選挙#2006年中間選挙 "wikilink")、難病治療のためのES細胞研究の支持を表明していた[ミズーリ州](../Page/ミズーリ州.md "wikilink")選挙区の[民主党上院議員候補](../Page/民主党_\(アメリカ\).md "wikilink")[クレア・マカスクル](https://ja.wikipedia.org/wiki/クレア・マカスクル "wikilink")の応援CMに出演し久しぶりに公の場に姿を現した。ところがこのCMやこれに合わせて出演した番組のインタビュー映像などで、体を大きく揺らすなど非常に激しい挙動をとったため「パーキンソン病を誇大に宣伝するための演技ではないか」と一部で疑いがもたれた 。中でも著名ラジオパーソナリティとして知られる[ラッシュ・リンボー](../Page/ラッシュ・リンボー.md "wikilink")は自身の番組で「彼はCM中、終始所狭しと動き震えていた。彼は自分の病気を誇張している。本当に恥知らずだ。恐らくこれは演技か、敢えて薬を飲まずに撮影したのだろう」と発言\[6\]。この非難に対しフォックスは各種ニュース番組に生出演。「あれはパーキンソンのありのままの姿。普段プルプル震えてたり、顔面が硬直しているのは必死に挙動を抑えているからなんだ」と反論し\[7\]、直後にリンボーは自身の発言を取り下げフォックスに対して全面謝罪した\[8\]\[9\]。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月28日](../Page/2月28日.md "wikilink")、カナダ出身ということで、[バンクーバーオリンピック](https://ja.wikipedia.org/wiki/バンクーバーオリンピック "wikilink")の閉会式で元気な姿を見せ、順調な回復をアピールした。
 
-また、2010年からは弁護士のドラマ『[グッド・ワイフ](https://ja.wikipedia.org/wiki/グッド・ワイフ "wikilink")』の第2シーズンより準レギュラーで出演している\[11\]。ケニングと言う神経疾患で運動機能の障害を持った弁護士の役で、フォックス自身のパーキンソン病が役の上に投影されている。
+また、2010年からは弁護士のドラマ『[グッド・ワイフ](https://ja.wikipedia.org/wiki/グッド・ワイフ "wikilink")』の第2シーズンより準レギュラーで出演している\[10\]。ケニングと言う神経疾患で運動機能の障害を持った弁護士の役で、フォックス自身のパーキンソン病が役の上に投影されている。
 
-2013年9月より約13年ぶりの主演テレビドラマ『[マイケル・J・フォックス・ショウ](https://ja.wikipedia.org/wiki/マイケル・J・フォックス・ショウ "wikilink")』の放送が開始された\[12\]。
+2013年9月より約13年ぶりの主演テレビドラマ『[マイケル・J・フォックス・ショウ](https://ja.wikipedia.org/wiki/マイケル・J・フォックス・ショウ "wikilink")』の放送が開始された\[11\]。
 
 ## 家族
 
-[Michael_J_Fox_Tracy_Pollan2.jpeg](https://ja.wikipedia.org/wiki/File:Michael_J_Fox_Tracy_Pollan2.jpeg "fig:Michael_J_Fox_Tracy_Pollan2.jpeg")（1988年の[エミー賞](../Page/エミー賞.md "wikilink")にて）</small>\]\] 妻は女優の[トレイシー・ポラン](https://ja.wikipedia.org/wiki/トレイシー・ポラン "wikilink")、子供は長男のサム、双子の娘スカイラー・フランシス、アクイナ・キャスリーン、三女のエズメ・アナベラの1男3女。またフォックスは2006年にアメリカ国籍を取得したが\[13\]、母国のカナダ・アメリカ共に[二重国籍](https://ja.wikipedia.org/wiki/二重国籍 "wikilink")を容認しているため国籍を放棄せず二重国籍となっている。
+[Michael_J_Fox_Tracy_Pollan2.jpeg](https://ja.wikipedia.org/wiki/File:Michael_J_Fox_Tracy_Pollan2.jpeg "fig:Michael_J_Fox_Tracy_Pollan2.jpeg")（1988年の[エミー賞](../Page/エミー賞.md "wikilink")にて）</small>\]\] 女優の[トレイシー・ポラン](https://ja.wikipedia.org/wiki/トレイシー・ポラン "wikilink")と1988年に結婚。子供は長男のサム、双子の娘スカイラー・フランシス、アクイナ・キャスリーン、三女のエズメ・アナベラの1男3女。
+
+また、フォックスは2006年にアメリカ国籍を取得したが\[12\]、母国のカナダ・アメリカ共に[二重国籍](https://ja.wikipedia.org/wiki/二重国籍 "wikilink")を容認しているため、国籍を放棄せず二重国籍となっている。
 
 ## 慈善活動
 
@@ -62,6 +64,8 @@
 [Michael_J_Fox_Star_on_Canada's_Walk_of_Fame.jpg](https://ja.wikipedia.org/wiki/File:Michael_J_Fox_Star_on_Canada's_Walk_of_Fame.jpg "fig:Michael_J_Fox_Star_on_Canada's_Walk_of_Fame.jpg")"\]\]
 
 ### 映画
+
+日本語吹き替えは主に[三ツ矢雄二](../Page/三ツ矢雄二.md "wikilink")、[山寺宏一](https://ja.wikipedia.org/wiki/山寺宏一 "wikilink")、[宮川一朗太](../Page/宮川一朗太.md "wikilink")が担当している。
 
 <table>
 <thead>
@@ -461,7 +465,7 @@
   -
   -
   -
-  - [The Michael J. Fox Foundation for Parkinson's Research](http://www.michaeljfox.org/)
+  - [The Michael J. Fox Foundation for Parkinson's Research](https://www.michaeljfox.org/)
 
 [Category:カナダの男優](https://ja.wikipedia.org/wiki/Category:カナダの男優 "wikilink") [Category:アメリカ合衆国の男優](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の男優 "wikilink") [Category:アメリカ合衆国の男性声優](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の男性声優 "wikilink") [Category:アメリカ合衆国帰化市民](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国帰化市民 "wikilink") [Category:カナダ系アメリカ人](https://ja.wikipedia.org/wiki/Category:カナダ系アメリカ人 "wikilink") [Category:エドモントン出身の人物](https://ja.wikipedia.org/wiki/Category:エドモントン出身の人物 "wikilink") [Category:パーキンソン病の人物](https://ja.wikipedia.org/wiki/Category:パーキンソン病の人物 "wikilink") [Category:ハリウッド・ウォーク・オブ・フェーム](https://ja.wikipedia.org/wiki/Category:ハリウッド・ウォーク・オブ・フェーム "wikilink") [Category:クリエイティヴ・アーティスツ・エージェンシー](https://ja.wikipedia.org/wiki/Category:クリエイティヴ・アーティスツ・エージェンシー "wikilink") [Category:エミー賞受賞者](https://ja.wikipedia.org/wiki/Category:エミー賞受賞者 "wikilink") [Category:1961年生](https://ja.wikipedia.org/wiki/Category:1961年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
@@ -470,11 +474,10 @@
 3.
 4.
 5.  Baker, Stephen 2009 "The numerati"
-6.  売上は全て同財団に寄付されるという
+6.
 7.
 8.
 9.
 10.
-11.
-12. [Ｍ・Ｊ・フォックスが13年ぶり主演、闘病生活基にしたコメディー](https://jp.reuters.com/article/l4n0fy03v-michael-j-fox-idJPTYE96R01D20130728)（[ロイター](../Page/ロイター.md "wikilink")、2013年7月29日）
-13.
+11. [Ｍ・Ｊ・フォックスが13年ぶり主演、闘病生活基にしたコメディー](https://jp.reuters.com/article/l4n0fy03v-michael-j-fox-idJPTYE96R01D20130728)（[ロイター](../Page/ロイター.md "wikilink")、2013年7月29日）
+12.

@@ -213,7 +213,7 @@
 
   - [杉作J太郎・童貞インタビュー](http://www.doutei.com/article/121953487.html)：WEB人生 2004年のインタビュー
 
-  - [硬派人生秘録 杉作J太郎の男の恋愛墓場 魂転がす、男慕情レボリューション](http://www.ocn.ne.jp/game/og/10-rennai/express.html)：OG EXPRESS 2007年のインタビュー
+  - ：OG EXPRESS 2007年のインタビュー
 
   - [杉作Ｊ太郎のすべて幻](http://www.houyhnhnm.jp/blog/sugisaku/)：フイナムブログ
 

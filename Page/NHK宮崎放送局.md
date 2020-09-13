@@ -161,22 +161,33 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/古賀一.md" title="wikilink">古賀一</a>*</p></td>
+<td><p><a href="../Page/NHK横浜放送局.md" title="wikilink">横浜</a></p></td>
+<td><p>放送部副部長<br />
+宮崎県のニュース</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/滑川和男.md" title="wikilink">滑川和男</a>*</p></td>
 <td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/NHKニュース_イブニング宮崎" title="wikilink">NHKニュース イブニング宮崎</a>（キャスター）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/中沢圭吾" title="wikilink">中沢圭吾</a></p></td>
 <td><p><a href="../Page/NHK松山放送局.md" title="wikilink">松山</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/神谷一鷹" title="wikilink">神谷一鷹</a></p></td>
 <td><p><strong>初任地</strong></p></td>
-<td><p>宮崎県のニュース</p></td>
+<td><p>宮崎県のニュース・中継・リポート</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/松井大_(アナウンサー)" title="wikilink">松井大</a></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/松井大_(アナウンサー)" title="wikilink">松井大</a></p></td>
+<td><p><a href="../Page/道上美璃.md" title="wikilink">道上美璃</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -186,47 +197,41 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/古賀一.md" title="wikilink">古賀一</a>*</p></td>
-<td><p><a href="../Page/NHK横浜放送局.md" title="wikilink">横浜</a></p></td>
-<td><p>放送部副部長<br />
-宮崎県のニュース</p></td>
-</tr>
-<tr class="even">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/宮崎香子" title="wikilink">宮崎香子</a></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/NHKニュース_イブニング宮崎" title="wikilink">NHKニュース イブニング宮崎</a>（キャスター）</p></td>
 </tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/中嶋空" title="wikilink">中嶋空</a></p></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/横山真里奈" title="wikilink">横山真里奈</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/昼前ほっとみやざき" title="wikilink">昼前ほっとみやざき</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/矢野真由華" title="wikilink">矢野真由華</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/佐々木桃子" title="wikilink">佐々木桃子</a></p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/昼前ほっとみやざき" title="wikilink">昼前ほっとみやざき</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/須賀桃子" title="wikilink">須賀桃子</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/夏田理央" title="wikilink">夏田理央</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/黒田奈々" title="wikilink">黒田奈々</a></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/NHKニュース_イブニング宮崎" title="wikilink">NHKニュース イブニング宮崎</a></p></td>

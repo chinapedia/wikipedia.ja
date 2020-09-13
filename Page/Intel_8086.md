@@ -64,6 +64,10 @@
 
 また、PC-9800シリーズでも、[PCカード](../Page/PCカード.md "wikilink")のモデムなど、IBM PCシリーズ用に開発された8ビットの周辺機器をサポートする際に、バス・サイジングの必要性が生じた。
 
+## 記念品
+
+のちの[2018年](../Page/2018年.md "wikilink")には、8086発売40周年を記念して、当時最新の[Coffee Lakeマイクロアーキテクチャに基づく](https://ja.wikipedia.org/wiki/Coffee_Lakeマイクロアーキテクチャ "wikilink")[Core i7-**8086**Kを](https://ja.wikipedia.org/wiki/Intel_Core_i7 "wikilink")、限定品として発売している。Core i7-8086Kの最大周波数はインテルのCPUとしては初めて5GHzに達し\[6\]、8086のちょうど1000倍となっている\[7\]。
+
 ## 脚注
 
 <references />
@@ -84,3 +88,5 @@
 3.  参考までに、初代IBM PCはRAM 64KB(16KBモデルもあったが売れず)、初代NEC PC-9801はRAM 128KBだった。
 4.  ティム ジャクソン著 翔泳社刊 「インサイド インテル」より。
 5.  [沖電気製MSM](../Page/沖電気工業.md "wikilink")80C86A-10(10MHz版)は1:1になっているなど、セカンドソースのメーカやクロック周波数によっては異なる場合もある。なお、インテルのi8086-1(10MHz版)では1:2である。
+6.  [インテル「8086」発売40周年、限定版CPU「Core i7-8086K」を発表](https://japan.cnet.com/article/35120352/) CNET Japan、2018年6月6日（2020年6月14日閲覧）。
+7.  [Core i7-8086K Limited Editionは50年のIntel史上最強のゲーミングCPU\!?](https://akiba-pc.watch.impress.co.jp/docs/sp/1126327.html) AKIBA PC Hotline\!、2018年6月8日（2020年6月14日閲覧）。

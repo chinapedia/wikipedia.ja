@@ -17,6 +17,7 @@
   - **be**（ビィー） - [朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")の土曜版・日曜版。 ⇒ **[be (朝日新聞)](https://ja.wikipedia.org/wiki/be_\(朝日新聞\) "wikilink")**
   - **be**（ビー） - [2ちゃんねる](../Page/2ちゃんねる.md "wikilink")の掲示板。 ⇒ **[be (2ちゃんねるカテゴリ)](https://ja.wikipedia.org/wiki/be_\(2ちゃんねるカテゴリ\) "wikilink")**
   - **Be**（ビー） - [アサヒビール](../Page/アサヒビール.md "wikilink")のビール系飲料。 ⇒ **[アサヒビール\#過去に発売した商品](https://ja.wikipedia.org/wiki/アサヒビール#過去に発売した商品 "wikilink")**
+  - **Be** - [ソニーミュージックが](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")[2020年](../Page/2020年.md "wikilink")に立ち上げたクリエイターによる[レーベル](https://ja.wikipedia.org/wiki/レーベル_\(音楽\) "wikilink")
 
 ### 人物
 

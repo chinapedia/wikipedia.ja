@@ -13,7 +13,7 @@
 
 [1982年](../Page/1982年.md "wikilink")（魔暦紀元前16年）12月末に結成。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（魔暦紀元前15年）[3月23日](../Page/3月23日.md "wikilink")に初黒ミサ（コンサート）を行う。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（魔暦紀元前13年）に大教典（アルバム）『[聖飢魔II〜悪魔が来たりてヘヴィメタる](../Page/聖飢魔II〜悪魔が来たりてヘヴィメタる.md "wikilink")』で[CBSソニー](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")（[FITZBEAT](https://ja.wikipedia.org/wiki/FITZBEAT "wikilink")レーベル）から地球デビューし、翌年に発売した小教典（シングル）「**[蝋人形の館](../Page/蝋人形の館_\(曲\).md "wikilink")**」の大ヒットで一躍有名になる。デビュー時の公約では1999年（魔暦元年）7月\[2\]で活動を終えるはずだったが、事情を知らない[侍従](../Page/侍従.md "wikilink")（[マネージャー](../Page/マネージャー.md "wikilink")）がその後の予定を入れてしまったために解散を延期。[1999年](../Page/1999年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")23時59分59秒、「**地球征服を完了した**」として解散し、光の中に消えていった。
 
-デビュー当初は、バンドのコンセプトに沿った奇異な外見や、[デーモン閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")らによる独特のパフォーマンスや説法（いわゆるMC)で世間の話題を集めた。赤色や金色に染めて逆立てたヘアスタイル・歌舞伎の隈取り風の顔の模様（本魔たちによれば、それが**素顔**であり、メイクではない）や、文字通り悪魔的な世界観に則った歌詞、ヘヴィでラウドな演奏などである。黒ミサでは、[キッス](../Page/キッス.md "wikilink")ばりの火吹きや血吐き（血を模したものを口から吐き出す）、逆の血飲みも披露した。同じソニー系列のレコード会社に所属していた[米米CLUB](../Page/米米CLUB.md "wikilink")、[爆風スランプ](../Page/爆風スランプ.md "wikilink")と合わせて「ソニー三大色物バンド」と呼ばれていた時期もある。
+デビュー当初は、バンドのコンセプトに沿った奇異な外見や、[デーモン閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")らによる独特のパフォーマンスや説法（いわゆるMC)で世間の話題を集めた。赤色や金色に染めて逆立てたヘアスタイル・[歌舞伎の隈取り風の顔の模様](https://ja.wikipedia.org/wiki/コープス・ペイント "wikilink")（本魔たちによれば、それが**素顔**であり、メイクではない）や、文字通り悪魔的な世界観に則った歌詞、ヘヴィでラウドな演奏などである。黒ミサでは、[キッス](../Page/キッス.md "wikilink")ばりの火吹きや血吐き（血を模したものを口から吐き出す）、逆の血飲みも披露した。同じソニー系列のレコード会社に所属していた[米米CLUB](../Page/米米CLUB.md "wikilink")、[爆風スランプ](../Page/爆風スランプ.md "wikilink")と合わせて「ソニー三大色物バンド」と呼ばれていた時期もある。
 
 #### 聖飢魔IIの地獄
 
@@ -89,7 +89,7 @@
 
 ### 原点回帰〜サタン・オール・スターズ
 
-この時期、聖飢魔IIの活動の合間を縫って全員がソロ活動を行い、それぞれCDも発表している（これらの活動に関しては[デーモン小暮閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")、[ACE](../Page/ACE_\(ミュージシャン\).md "wikilink")、[ルーク篁](../Page/ルーク篁.md "wikilink")、[RXを参照](../Page/RX_\(バンド\).md "wikilink")）。[1992年](../Page/1992年.md "wikilink")、[アニメ](../Page/アニメ.md "wikilink")ビデオ『[HUMANE SOCIETY 〜人類愛に満ちた社会〜](https://ja.wikipedia.org/wiki/HUMANE_SOCIETY_〜人類愛に満ちた社会〜 "wikilink")』とそのテーマ曲「[正義のために](https://ja.wikipedia.org/wiki/正義のために "wikilink")」を発布。また、悪魔的な世界観に回帰し、12曲中10曲で人が死ぬ大教典『[恐怖のレストラン](../Page/恐怖のレストラン.md "wikilink")』を発布。「殺人教典」とも呼ばれ、あまりにも過激な内容のため、[NHKから出演禁止処分を受けてしまう](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")。ただし、これはアルバムの内容上、折り込み済みだったらしい。同年夏には[ブラバム](https://ja.wikipedia.org/wiki/ブラバム "wikilink")[F1チームのスポンサーになった](../Page/フォーミュラ1.md "wikilink")。これは同年途中より、同チームのドライバーに、閣下と同じ名前の[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")人ドライバーの[デーモン・ヒルが起用されたことが縁でスポンサーになったものである](../Page/デイモン・ヒル.md "wikilink")。しかし援助も空しく、ブラバムは資金難のため年度途中で撤退。マシンの開発資金も乏しく、予選突破も困難な体制で、閣下の絵が描かれたマシンが決勝レースを走ったのはわずか2レースだった。なお、**デーモン**・ヒルはその後[ウィリアムズ・ルノーに移籍し](https://ja.wikipedia.org/wiki/ウィリアムズF1 "wikilink")[1996年](../Page/1996年.md "wikilink")には見事、F1世界征服（チャンピオン）を果たした。ただし、ヒルのファースト・ネームのスペルはDamon（デイモンが近い）であり、悪魔を意味する閣下のDemon（ディーモンが近い）とは実際には意味も発音も異なる。両者とも日本語発音ではデーモンに変換されてしまう日本ならではのコラボレーションといえる。 1993年には『ロックオペラ ハムレット』に出演。そのエンディングでは出演者一同、聖飢魔IIの「[世界一のくちづけを](https://ja.wikipedia.org/wiki/世界一のくちづけを "wikilink")」を演奏した。さらに、デーモン閣下のCM（[フジカラー](../Page/富士フイルム.md "wikilink")[写ルンです](../Page/写ルンです.md "wikilink")や[ローソン](../Page/ローソン.md "wikilink")など）も好評を博した。[1994年](../Page/1994年.md "wikilink")夏、ロンドンの[アビー・ロード・スタジオ](../Page/アビー・ロード・スタジオ.md "wikilink")でレコーディングされた大教典『[PONK\!\!](../Page/PONK!!.md "wikilink")』を発布。プロデュースにはルーク参謀も加わっている。[ポルカ](../Page/ポルカ.md "wikilink")や[フォークソング](../Page/フォークソング.md "wikilink")など、それまでの聖飢魔IIにはない楽曲が収録されていた。このアルバム制作当時はディレクターの交代、デーモン閣下のスキャンダル報道など、バンドとしては非常に混沌とした時期だった。ソニーからのオリジナルアルバムのリリースは今作が最後となった。 1995年には地球デビュー10周年記念として、過去の構成員であるダミアン浜田殿下、ジード飯島大将、ゾッド星島親分、ジェイル大橋代官が復活しミサツアー『[THE SATAN ALL STARS](../Page/THE_SATAN_ALL_STARS.md "wikilink")』が行われた。この模様は活動絵巻教典『オール悪魔総進撃\! THE SATAN ALL STARS』に収録されている。また、この頃に公式ウェブサイトを立ち上げており、デーモン閣下によると、日本で最初に公式ウェブサイトを立ち上げたアーティストが聖飢魔IIだという。
+この時期、聖飢魔IIの活動の合間を縫って全員がソロ活動を行い、それぞれCDも発表している（これらの活動に関しては[デーモン小暮閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")、[ACE](../Page/ACE_\(ミュージシャン\).md "wikilink")、[ルーク篁](../Page/ルーク篁.md "wikilink")、[RXを参照](../Page/RX_\(バンド\).md "wikilink")）。[1992年](../Page/1992年.md "wikilink")、[アニメ](../Page/アニメ.md "wikilink")ビデオ『[HUMANE SOCIETY 〜人類愛に満ちた社会〜](https://ja.wikipedia.org/wiki/HUMANE_SOCIETY_〜人類愛に満ちた社会〜 "wikilink")』とそのテーマ曲「[正義のために](https://ja.wikipedia.org/wiki/正義のために "wikilink")」を発布。また、悪魔的な世界観に回帰し、12曲中10曲で人が死ぬ大教典『[恐怖のレストラン](../Page/恐怖のレストラン.md "wikilink")』を発布。「殺人教典」とも呼ばれ、あまりにも過激な内容のため、[NHKから出演禁止処分を受けてしまう](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")。ただし、これはアルバムの内容上、折り込み済みだったらしい。同年夏には[ブラバム](https://ja.wikipedia.org/wiki/ブラバム "wikilink")[F1チームのスポンサーになった](../Page/フォーミュラ1.md "wikilink")。これは同年途中より、同チームのドライバーに、閣下と同じ名前の[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")人ドライバーの[デーモン・ヒルが起用されたことが縁でスポンサーになったものである](../Page/デイモン・ヒル.md "wikilink")。しかし援助も空しく、ブラバムは資金難のため年度途中で撤退。マシンの開発資金も乏しく、予選突破も困難な体制で、閣下の絵が描かれたマシンが決勝レースを走ったのはわずか2レースだった。なお、**デーモン**・ヒルはその後[ウィリアムズ・ルノーに移籍し](https://ja.wikipedia.org/wiki/ウィリアムズF1 "wikilink")[1996年](../Page/1996年.md "wikilink")には見事、F1世界征服（チャンピオン）を果たした。ただし、ヒルのファースト・ネームのスペルはDamon（デイモンが近い）であり、悪魔を意味する閣下のDemon（ディーモンが近い）とは実際には意味も発音も異なる。両者とも日本語発音ではデーモンに変換されてしまう日本ならではのコラボレーションといえる。 1993年には『ロックオペラ ハムレット』に出演。そのエンディングでは出演者一同、聖飢魔IIの「[世界一のくちづけを](https://ja.wikipedia.org/wiki/世界一のくちづけを "wikilink")」を演奏した。さらに、デーモン閣下のCM（[フジカラー](../Page/富士フイルム.md "wikilink")[写ルンです](../Page/写ルンです.md "wikilink")や[ローソン](../Page/ローソン.md "wikilink")など）も好評を博した。[1994年](../Page/1994年.md "wikilink")夏、ロンドンの[アビー・ロード・スタジオ](../Page/アビー・ロード・スタジオ.md "wikilink")でレコーディングされた大教典『[PONK\!\!](../Page/PONK!!.md "wikilink")』を発布。プロデュースにはルーク参謀も加わっている。[ポルカ](../Page/ポルカ.md "wikilink")や[フォークソング](../Page/フォークソング.md "wikilink")など、それまでの聖飢魔IIにはない楽曲が収録されていた。このアルバム制作当時はディレクターの交代、デーモン閣下のスキャンダル報道\[25\]など、バンドとしては非常に混沌とした時期だった。ソニーからのオリジナルアルバムのリリースは今作が最後となった。 1995年には地球デビュー10周年記念として、過去の構成員であるダミアン浜田殿下、ジード飯島大将、ゾッド星島親分、ジェイル大橋代官が復活しミサツアー『[THE SATAN ALL STARS](../Page/THE_SATAN_ALL_STARS.md "wikilink")』が行われた。この模様は活動絵巻教典『オール悪魔総進撃\! THE SATAN ALL STARS』に収録されている。また、この頃に公式ウェブサイトを立ち上げており、デーモン閣下によると、日本で最初に公式ウェブサイトを立ち上げたアーティストが聖飢魔IIだという。
 
 ### BMGへの移籍
 
@@ -99,7 +99,9 @@
 
 ### 解散
 
-[1999年](../Page/1999年.md "wikilink")4月、地球デビュー当時からの予定通りに解散することを改めて発表した\[25\]。4月にリメイク曲「[蝋人形の館 '99](../Page/蝋人形の館_\(曲\).md "wikilink")」、5月に新録・新曲を含む本家極悪集大成盤『[1999 BLACK LIST](../Page/1999_BLACK_LIST.md "wikilink")』、7月に新録を含む元祖極悪集大成盤『[1999 BLOOD LIST](../Page/1999_BLOOD_LIST.md "wikilink")』、11月にソロ活動のベスト盤『聖飢魔II 個悪魔活動大選抜』といった[コンピレーション](https://ja.wikipedia.org/wiki/コンピレーション "wikilink")作品を多くリリースした。 10月には最終大教典『[LIVING LEGEND](../Page/LIVING_LEGEND.md "wikilink")』をリリースし、最後のツアー「THE FINAL BLACKMASS TOUR LIVING LEGEND」を行った。また、最初で最後の[ディナーショー](../Page/ディナーショー.md "wikilink")、『ONE NIGHT SPECIALバラードナイト地獄の晩餐』も行なった。 1999年12月29日から31日の3日間、[東京ベイNKホール](../Page/東京ベイNKホール.md "wikilink")（[千葉県](../Page/千葉県.md "wikilink") [浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")）にてラストライブである究極の黒ミサ『**[THE ULTIMATE BLACK MASS](../Page/THE_ULTIMATE_BLACK_MASS.md "wikilink")**』が開かれた。3日間メニューが異なり、全部で68曲が演奏された（ちなみにダブリ曲は2曲である）。 初日は演出に趣向を凝らし聖飢魔IIの歴史をシアトリカルに物語られる「**THEATRICAL DAY**」として[日本舞踊](../Page/日本舞踊.md "wikilink")家[花柳鳴介](https://ja.wikipedia.org/wiki/花柳鳴介 "wikilink")と[劇団☆新感線](../Page/劇団☆新感線.md "wikilink")をゲストに迎えて行われた。 二日目は「**[THE SATAN ALL STARS' DAY](https://ja.wikipedia.org/wiki/THE_SATAN_ALL_STARS#1999年12月30日_THE_SATAN_ALL_STARS'_DAY "wikilink")**」として過去の構成員のうち2名を除く新旧構成員全13名でミサを行った（その2名はビデオメッセージで登場）。最終日は「**THE DOOMS DAY**」として、二幕構成による聖飢魔II史上最も多くの曲を演奏するミサが行われた。 このミサの最後を飾った曲「**[EL. DORADO](../Page/EL._DORADO.md "wikilink")**」を演奏し終わった後、1999年12月31日23時59分59秒、聖飢魔IIは光の中へ姿を消しデビューから約14年4か月の歴史にピリオドを打った。
+[1999年](../Page/1999年.md "wikilink")4月、地球デビュー当時からの予定通りに解散することを改めて発表した\[26\]。4月にリメイク曲「[蝋人形の館 '99](../Page/蝋人形の館_\(曲\).md "wikilink")」、5月に新録・新曲を含む本家極悪集大成盤『[1999 BLACK LIST](../Page/1999_BLACK_LIST.md "wikilink")』、7月に新録を含む元祖極悪集大成盤『[1999 BLOOD LIST](../Page/1999_BLOOD_LIST.md "wikilink")』、11月にソロ活動のベスト盤『聖飢魔II 個悪魔活動大選抜』といった[コンピレーション](https://ja.wikipedia.org/wiki/コンピレーション "wikilink")作品を多くリリースした。 10月には最終大教典『[LIVING LEGEND](../Page/LIVING_LEGEND.md "wikilink")』をリリースし、最後のツアー「THE FINAL BLACKMASS TOUR LIVING LEGEND」を行った。また、最初で最後の[ディナーショー](../Page/ディナーショー.md "wikilink")、『ONE NIGHT SPECIALバラードナイト地獄の晩餐』も行なった。
+
+1999年12月29日から31日の3日間、[東京ベイNKホール](../Page/東京ベイNKホール.md "wikilink")（[千葉県](../Page/千葉県.md "wikilink") [浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")）にてラストライブである究極の黒ミサ『**[THE ULTIMATE BLACK MASS](../Page/THE_ULTIMATE_BLACK_MASS.md "wikilink")**』が開かれた。3日間メニューが異なり、全部で68曲が演奏された（ちなみにダブリ曲は2曲である）。 初日は演出に趣向を凝らし聖飢魔IIの歴史をシアトリカルに物語られる「**THEATRICAL DAY**」として[日本舞踊](../Page/日本舞踊.md "wikilink")家[花柳鳴介](https://ja.wikipedia.org/wiki/花柳鳴介 "wikilink")と[劇団☆新感線](../Page/劇団☆新感線.md "wikilink")をゲストに迎えて行われた。 二日目は「**[THE SATAN ALL STARS' DAY](https://ja.wikipedia.org/wiki/THE_SATAN_ALL_STARS#1999年12月30日_THE_SATAN_ALL_STARS'_DAY "wikilink")**」として過去の構成員のうち2名を除く新旧構成員全13名でミサを行った（その2名はビデオメッセージで登場）。最終日は「**THE DOOMS DAY**」として、二幕構成による聖飢魔II史上最も多くの曲を演奏するミサが行われた。 このミサの最後を飾った曲「**[EL. DORADO](../Page/EL._DORADO.md "wikilink")**」を演奏し終わった後、1999年12月31日23時59分59秒、聖飢魔IIは光の中へ姿を消しデビューから約14年4か月の歴史にピリオドを打った。
 
 ### 期間限定再集結（2005年）
 
@@ -115,7 +117,7 @@
 
 ### セルフカバーアルバムの配信発布
 
-再集結終了後は再び個々の活動に戻っていたが、地球征服10周年にあたる、2009年7月17日、聖飢魔II公式ウェブサイトにて、英語でのセルフカバーアルバム『[AKUMA NATIVITY "SONGS OF THE SWORD"](https://ja.wikipedia.org/wiki/AKUMA_NATIVITY_"SONGS_OF_THE_SWORD" "wikilink")』が世界21カ国の[iTunes Storeで](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")7月15日より配信発布されることと、日本では9月16日にCDで発布されることが発表された。これは、世界的に活躍する[静野孔文](../Page/静野孔文.md "wikilink")監督から欧米での発表を前提とするアニメーションでのコラボレーションの誘いを受けたのを機に制作されたもので、初回版にはその映像、通常版には新曲が収録されている。なお、エース清水（ACE）はface to aceの活動に集中するために聖飢魔IIの活動には参加しないことを自身のブログにて発表し、それ以降の期間限定再集結には一切参加していない\[26\]。
+再集結終了後は再び個々の活動に戻っていたが、地球征服10周年にあたる、2009年7月17日、聖飢魔II公式ウェブサイトにて、英語でのセルフカバーアルバム『[AKUMA NATIVITY "SONGS OF THE SWORD"](https://ja.wikipedia.org/wiki/AKUMA_NATIVITY_"SONGS_OF_THE_SWORD" "wikilink")』が世界21カ国の[iTunes Storeで](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")7月15日より配信発布されることと、日本では9月16日にCDで発布されることが発表された。これは、世界的に活躍する[静野孔文](../Page/静野孔文.md "wikilink")監督から欧米での発表を前提とするアニメーションでのコラボレーションの誘いを受けたのを機に制作されたもので、初回版にはその映像、通常版には新曲が収録されている。なお、エース清水（ACE）はface to aceの活動に集中するために聖飢魔IIの活動には参加しないことを自身のブログにて発表し、それ以降の期間限定再集結には一切参加していない\[27\]。
 
 ### 期間限定再集結（2010年）
 
@@ -133,11 +135,13 @@
 
 ### 期間限定再集結（2015年）
 
-[2015年](../Page/2015年.md "wikilink")8月から[2016年](../Page/2016年.md "wikilink")1月にかけて、夏フェスへの参加と2種類の大黒ミサツアーを開催。また、30年間の活動を網羅した極悪集大成盤『[XXX -THE ULTIMATE WORST-](https://ja.wikipedia.org/wiki/XXX_-THE_ULTIMATE_WORST- "wikilink")』と、BMG時代のオリジナル大教典4タイトルのリマスター版を[Blu-spec CD2仕様で](https://ja.wikipedia.org/wiki/Blu-spec_CD "wikilink")、更に[12月29日](../Page/12月29日.md "wikilink")には、長らく入手困難な状態であった活動絵巻経典『THE ULTIMATE BLACK MASS (COMPLETE)』を、[Blu-ray仕様で再発布](../Page/Blu-ray_Disc.md "wikilink")\[27\]。2016年[2月20日](../Page/2月20日.md "wikilink")、[日本武道館](../Page/日本武道館.md "wikilink")で行われたデビュー30周年記念ツアーの千秋楽公演をもって、前年8月からの期間限定再集結を締めくくった\[28\]。
+[2015年](../Page/2015年.md "wikilink")8月から[2016年](../Page/2016年.md "wikilink")1月にかけて、夏フェスへの参加と2種類の大黒ミサツアーを開催。また、30年間の活動を網羅した極悪集大成盤『[XXX -THE ULTIMATE WORST-](https://ja.wikipedia.org/wiki/XXX_-THE_ULTIMATE_WORST- "wikilink")』と、BMG時代のオリジナル大教典4タイトルのリマスター版を[Blu-spec CD2仕様で](https://ja.wikipedia.org/wiki/Blu-spec_CD "wikilink")、更に[12月29日](../Page/12月29日.md "wikilink")には、長らく入手困難な状態であった活動絵巻経典『THE ULTIMATE BLACK MASS (COMPLETE)』を、[Blu-ray仕様で再発布](../Page/Blu-ray_Disc.md "wikilink")\[28\]。2016年[2月20日](../Page/2月20日.md "wikilink")、[日本武道館](../Page/日本武道館.md "wikilink")で行われたデビュー30周年記念ツアーの千秋楽公演をもって、前年8月からの期間限定再集結を締めくくった\[29\]。
 
 ### 期間限定再集結（2020年）
 
-魔暦21年([2019年](../Page/2019年.md "wikilink"))[12月31日](../Page/12月31日.md "wikilink")にZepp Tokyoにて行われた「聖飢魔II 地球征服20周年記念 伝説の解散大黒ミサ3days『THE ULTIMATE BLACK MASS』ヴィデオ黒ミサ」内で、魔暦22年([2020年](../Page/2020年.md "wikilink"))、地球デビュー35周年を記念して再集結することが発表された\[29\]。
+魔暦21年([2019年](../Page/2019年.md "wikilink"))[12月31日](../Page/12月31日.md "wikilink")にZepp Tokyoにて行われた「聖飢魔II 地球征服20周年記念 伝説の解散大黒ミサ3days『THE ULTIMATE BLACK MASS』ヴィデオ黒ミサ」内で、魔暦22年([2020年](../Page/2020年.md "wikilink"))、地球デビュー35周年を記念して再集結することが発表された\[30\]。
+
+当初はホール・ツアーとアリーナ・ツアー含む全国15の大黒ミサ公演を予定していたが、[COVID-19の影響によりヴィデオ黒ミサ](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink")＆生トークツアー『特別給付悪魔』に変更された\[31\]\[32\]。なお、魔暦23(2021)年の公演開催については協議中。
 
 ## 影響
 
@@ -165,7 +169,7 @@
 
 ### 与えた影響
 
-[冠徹弥](https://ja.wikipedia.org/wiki/冠徹弥 "wikilink")、[GO](https://ja.wikipedia.org/wiki/GO_\(SUNS_OWL\) "wikilink")、[小林信一](https://ja.wikipedia.org/wiki/小林信一_\(ギタリスト\) "wikilink")、[JOE](../Page/JOE_\(ドラマー\).md "wikilink")、[SHOW-YA](../Page/SHOW-YA.md "wikilink")、[Syu](https://ja.wikipedia.org/wiki/Syu_\(ギタリスト\) "wikilink")、[SHUSE](../Page/La'cryma_Christi.md "wikilink")、[白鳥松竹梅](../Page/氣志團.md "wikilink")、[NOV](https://ja.wikipedia.org/wiki/NOV_\(ボーカリスト\) "wikilink")、[PANTHER](../Page/PANTHER_\(ギタリスト\).md "wikilink")、[miko](https://ja.wikipedia.org/wiki/exist†trace "wikilink")、[村井研次郎](../Page/村井研次郎.md "wikilink")、[LEVIN](../Page/La'cryma_Christi.md "wikilink")、[MCU](../Page/MCU_\(ラッパー\).md "wikilink")、[はたけ](../Page/はたけ.md "wikilink")らが信者であることを公言している。また、元[Laputa](../Page/Laputa.md "wikilink")のドラマーであるTomoiは高校時代に聖飢魔IIのコピーをしていたと述べている\[30\]。
+[冠徹弥](https://ja.wikipedia.org/wiki/冠徹弥 "wikilink")、[GO](https://ja.wikipedia.org/wiki/GO_\(SUNS_OWL\) "wikilink")、[小林信一](https://ja.wikipedia.org/wiki/小林信一_\(ギタリスト\) "wikilink")、[JOE](../Page/JOE_\(ドラマー\).md "wikilink")、[SHOW-YA](../Page/SHOW-YA.md "wikilink")、[Syu](https://ja.wikipedia.org/wiki/Syu_\(ギタリスト\) "wikilink")、[SHUSE](../Page/La'cryma_Christi.md "wikilink")、[白鳥松竹梅](../Page/氣志團.md "wikilink")、[NOV](https://ja.wikipedia.org/wiki/NOV_\(ボーカリスト\) "wikilink")、[PANTHER](../Page/PANTHER_\(ギタリスト\).md "wikilink")、[miko](https://ja.wikipedia.org/wiki/exist†trace "wikilink")、[村井研次郎](../Page/村井研次郎.md "wikilink")、[LEVIN](../Page/La'cryma_Christi.md "wikilink")、[MCU](../Page/MCU_\(ラッパー\).md "wikilink")、[はたけ](../Page/はたけ.md "wikilink")らが信者であることを公言している。また、元[Laputa](../Page/Laputa.md "wikilink")のドラマーであるTomoiは高校時代に聖飢魔IIのコピーをしていたと述べている\[33\]。
 
 ## 構成員
 
@@ -228,7 +232,7 @@
   - デーモン閣下以外で唯一リードボーカルをとることがあった。
       - 「Angel Smile」、「精神の黒幕〜Libido〜」、「悪魔のブルース」などでリードヴォーカルを担当（「精神の黒幕〜Libido〜」は閣下とツインリード）
       - [face to aceにて](https://ja.wikipedia.org/wiki/face_to_ace "wikilink")、ACEとして活動
-      - 上記バンド専念のため、20周年ミサ以降の再集結には参加していない（正式な脱退ではなく、現在も正式構成員には含まれる）。
+      - 25周年再集結以降も正式構成員扱いだが、上記バンド専念のため参加していない。
 
 上記の内、「魔界〜」という肩書きは2009年以降のもので、それ以前は「地獄〜」となっていた。エース長官のみ旧来通り「地獄〜」のままになっている。
 
@@ -260,8 +264,8 @@
 <!-- end list -->
 
   - ドラムス 1983年9月 - 1985年4月
-      - 「当時地獄の皇太子だったダミアン殿下の衛兵として将来を嘱望されていたが、殿下が実父にして当時の大魔王サタン44世陛下危篤の知らせを受けて地獄に帰還する際、金で買収されて神の側に寝返ったため地上に追放された」とされる\[31\]。追放後は、世を忍ぶ仮の姿で証券会社に就職したらしい\[32\]。銀色の顔に赤いモヒカンヘアという容姿が特徴で、この容姿は後に[ライデン湯沢に一時的に受け継がれた](../Page/雷電湯澤.md "wikilink")（初期のライデンはジードに似た銀色の顔に赤いモヒカンヘアという容姿だった）。
-      - 聖飢魔IIが地球デビューする前、[エース清水が初代ドラマーを退任して](../Page/ACE_\(ミュージシャン\).md "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")として聖飢魔IIに復職するまでの期間にドラマーを担当していたが、彼はすべての曲を同じ速度で叩いていたと言われている\[33\]。[B.D.](../Page/魔暦.md "wikilink")4年（1995年）に発布された聖飢魔IIの[ミサビデオ作品](../Page/聖飢魔IIの悪魔用語一覧.md "wikilink")『オール悪魔総進撃！ The Satan All Stars』内のダミアン浜田殿下と[デーモン閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")の対談では、ダミアン浜田殿下が「魔界と地上では重力だとか、空気の密度だとか、その辺が違うんで、例えばドラマーにせよ、ついスピードが速くなってしまったりだとか……」とコメント、デーモン閣下はそれに伴い、「吾輩の記憶によると、（中略）あの段階（地球デビュー前）でもジード飯島は重力の違いを克服していなかったように吾輩は思うのであるけれども……今、10年前のビデオを繰り返し見ると、やはり彼のドラムは全ての曲が同じテンポで……ねえ?」と発言。ダミアン浜田殿下が苦笑しながら「そのとおり」といった内容を語っていた。
+      - 「当時地獄の皇太子だったダミアン殿下の衛兵として将来を嘱望されていたが、殿下が実父にして当時の大魔王サタン44世陛下危篤の知らせを受けて地獄に帰還する際、金で買収されて神の側に寝返ったため地上に追放された」とされる\[34\]。追放後は、世を忍ぶ仮の姿で証券会社に就職したらしい\[35\]。銀色の顔に赤いモヒカンヘアという容姿が特徴で、この容姿は後に[ライデン湯沢に一時的に受け継がれた](../Page/雷電湯澤.md "wikilink")（初期のライデンはジードに似た銀色の顔に赤いモヒカンヘアという容姿だった）。
+      - 聖飢魔IIが地球デビューする前、[エース清水が初代ドラマーを退任して](../Page/ACE_\(ミュージシャン\).md "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")として聖飢魔IIに復職するまでの期間にドラマーを担当していたが、彼はすべての曲を同じ速度で叩いていたと言われている\[36\]。[B.D.](../Page/魔暦.md "wikilink")4年（1995年）に発布された聖飢魔IIの[ミサビデオ作品](../Page/聖飢魔IIの悪魔用語一覧.md "wikilink")『オール悪魔総進撃！ The Satan All Stars』内のダミアン浜田殿下と[デーモン閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")の対談では、ダミアン浜田殿下が「魔界と地上では重力だとか、空気の密度だとか、その辺が違うんで、例えばドラマーにせよ、ついスピードが速くなってしまったりだとか……」とコメント、デーモン閣下はそれに伴い、「吾輩の記憶によると、（中略）あの段階（地球デビュー前）でもジード飯島は重力の違いを克服していなかったように吾輩は思うのであるけれども……今、10年前のビデオを繰り返し見ると、やはり彼のドラムは全ての曲が同じテンポで……ねえ?」と発言。ダミアン浜田殿下が苦笑しながら「そのとおり」といった内容を語っていた。
       - そんなジード飯島も、「[オール悪魔総進撃\! The Satan All Stars](../Page/THE_SATAN_ALL_STARS.md "wikilink")」地球デビュー10周年記念大黒ミサと、「[The Ultimate Black Mass Final Three Nights](../Page/THE_ULTIMATE_BLACK_MASS.md "wikilink")」解散ミサ2日目「Satan All Stars' Day」ではプロのミュージシャンである現役聖飢魔IIに混ざって登場し、地上のスタジオを借りて特訓した成果が出たのか、その頃は大分「魔界と地上との空間の違い」は克服できていたようである。特に、解散ミサ2日目での登場直後に「魔王凱旋」後半部を演奏した際は、聖飢魔II名パワーヒッター[ライデン湯沢と入れ替わって演奏する位置づけだった事も意識したのか](../Page/雷電湯澤.md "wikilink")、非常にパワフルなドラミングを見ることができる。
       - 現在は「かまし連発」にてドラムを担当している。
 
@@ -281,7 +285,7 @@
 <!-- end list -->
 
   - ドラムス 1985年3月 - 6月
-      - [早稲田大学](../Page/早稲田大学.md "wikilink")3年生の時、音楽サークルの先輩であった[デーモン閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")に誘われて**聖飢魔II**に[ドラマー](../Page/ドラマー.md "wikilink")として加入。大学4年の10月に脱退したが\[34\]、ドラムは趣味として続けていた\[35\]。聖飢魔IIの解散時に行われた[THE ULTIMATE BLACK MASSの](../Page/THE_ULTIMATE_BLACK_MASS.md "wikilink")2日目「[THE SATAN ALL STARS](../Page/THE_SATAN_ALL_STARS.md "wikilink")」に参加。「悪魔の讃美歌」演奏の際に、直前までドラムを務めていた[ジード飯島](https://ja.wikipedia.org/wiki/ジード飯島 "wikilink")と入れ替わりで登場し、その次の曲「ファラオのように」では「聖飢魔IIを1度も正面から見たことがない」と語った聖飢魔II現役ドラマー[ライデン湯沢](https://ja.wikipedia.org/wiki/ライデン湯沢 "wikilink")に代わってドラムを演奏した。「JACK THE RIPPER」では　前半は通常通りのドラムを担当し、中盤のオールギタリスト&キーボーディスト入れ替わりソロでジードと交代。以降は[カウベル](../Page/カウベル.md "wikilink")を持って地味に演奏をしていたが、気を利かせてくれたデーモン閣下に隣に招かれ、閣下のマイクで音を拾ってもらえていた。基本的にミサ中は無口で、返事は[クラッシュシンバル](https://ja.wikipedia.org/wiki/クラッシュシンバル "wikilink")で行っていた。
+      - [早稲田大学](../Page/早稲田大学.md "wikilink")3年生の時、音楽サークルの先輩であった[デーモン閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")に誘われて**聖飢魔II**に[ドラマー](../Page/ドラマー.md "wikilink")として加入。大学4年の10月に脱退したが\[37\]、ドラムは趣味として続けていた\[38\]。聖飢魔IIの解散時に行われた[THE ULTIMATE BLACK MASSの](../Page/THE_ULTIMATE_BLACK_MASS.md "wikilink")2日目「[THE SATAN ALL STARS](../Page/THE_SATAN_ALL_STARS.md "wikilink")」に参加。「悪魔の讃美歌」演奏の際に、直前までドラムを務めていた[ジード飯島](https://ja.wikipedia.org/wiki/ジード飯島 "wikilink")と入れ替わりで登場し、その次の曲「ファラオのように」では「聖飢魔IIを1度も正面から見たことがない」と語った聖飢魔II現役ドラマー[ライデン湯沢](https://ja.wikipedia.org/wiki/ライデン湯沢 "wikilink")に代わってドラムを演奏した。「JACK THE RIPPER」では　前半は通常通りのドラムを担当し、中盤のオールギタリスト&キーボーディスト入れ替わりソロでジードと交代。以降は[カウベル](../Page/カウベル.md "wikilink")を持って地味に演奏をしていたが、気を利かせてくれたデーモン閣下に隣に招かれ、閣下のマイクで音を拾ってもらえていた。基本的にミサ中は無口で、返事は[クラッシュシンバル](https://ja.wikipedia.org/wiki/クラッシュシンバル "wikilink")で行っていた。
       - デーモン閣下らのような白地の顔で、額と口元に銀色のV字のような模様があった（地球デビュー前に在籍していた時は銀色の顔に緑色の逆三角形の模様という容貌だったらしい）。戦闘服は非常に軽装備で、基本的に上は半袖かタンクトップ、下はタイツにブーツというスタイルが多かった。他のドラム担当構成員との決定的な違いは、パワータイプのドラマーでは無いということである。
       - 外資系保険会社勤務を経て[保険マンモス](https://ja.wikipedia.org/wiki/保険マンモス "wikilink")を起業。代表を務める。
 
@@ -508,13 +512,14 @@
   - [SEIKIMA-II.COM](http://www.seikima-ii.com/) 公式サイト
 
   -
+  -
   - [聖飢魔II : Sony Music](https://www.sonymusic.co.jp/artist/SeikimaII/)
 
   - [聖飢魔II : SonyMusic特設サイト](http://www.110107.com/s/OTONANO/page/seikima2_best)
 
   - [聖飢魔II : 公式ブログ Powered by LINE](https://lineblog.me/seikima_ii/)
 
-  - [聖飢魔II : 秘密結社 魔人倶楽部](https://magineclub35th.com/)
+  - [聖飢魔II : 秘密結社 魔人倶楽部35th](https://magineclub35th.com/)
 
   - \[<http://www.powerplay.co.jp/>　POWER PLAY MUSIC\]
 
@@ -544,14 +549,17 @@
 22. 悪魔の世界についてデーモンが語る『悪魔ちゃん教えて』、悪魔教の信者であるにもかかわらず善行を行った者が懺悔する『可愛い悪魔』などのコーナー司会を務めた。
 23. [ロッキンf](https://ja.wikipedia.org/wiki/ロッキンf "wikilink")（立東社）1987年5月号 p63
 24.
-25. 当初は[ミシェル・ノストラダムス師の予言集](../Page/ミシェル・ノストラダムス師の予言集.md "wikilink")に記載された、1999年7月に来ると言われていた[恐怖の大王](../Page/恐怖の大王.md "wikilink")に因み、7月末をもって解散する予定であったが、誤解したマネージャーが年末までのスケジュールを決めてしまっていたため、活動期間が同年年末まで延長された。
-26. 但し、聖飢魔II以外の活動において、各構成員との共演をする機会は複数ある。2018年に行われた大橋のライブで、13年ぶりにデーモンとの共演が実現し、大橋、石川らとともに『Fire After Fire』が演奏された。[1](https://rooftop.cc/news/2018/09/03133806.php)
-27. DVD版でボーナスディスクとして付属していた『BACK STAGE OF 聖飢魔II〜ウラビデオ〜』を除いた、本編のみを4枚組に収めての再発布。
-28.
+25.
+26. 当初は[ミシェル・ノストラダムス師の予言集](../Page/ミシェル・ノストラダムス師の予言集.md "wikilink")に記載された、1999年7月に来ると言われていた[恐怖の大王](../Page/恐怖の大王.md "wikilink")に因み、7月末をもって解散する予定であったが、誤解したマネージャーが年末までのスケジュールを決めてしまっていたため、活動期間が同年年末まで延長された。
+27. 但し、聖飢魔II以外の活動において、各構成員との共演をする機会は複数ある。2018年に行われた大橋のライブで、13年ぶりにデーモンとの共演が実現し、大橋、石川らとともに『Fire After Fire』が演奏された。[1](https://rooftop.cc/news/2018/09/03133806.php) また、2020年にはエース清水長官の名義でルークと共にラジオ番組にも出演している。[2](https://spice.eplus.jp/articles/269835)
+28. DVD版でボーナスディスクとして付属していた『BACK STAGE OF 聖飢魔II〜ウラビデオ〜』を除いた、本編のみを4枚組に収めての再発布。
 29.
 30.
-31. 聖飢魔IIのデビュー当時の閣下のインタビューによれば「ゼウスに寝返って、神の下で働こうなどとしたために、我々が追放し、**殺してしまった**。」と述べている（[ロッキンf](https://ja.wikipedia.org/wiki/ロッキンf "wikilink") 1985年10月号 172P）
-32. デーモン閣下の著書「我は求め訴えたり」より
-33. これについては聖飢魔II内の設定で「魔界と地球では重力が違うためすべての曲を同じテンポで叩いているように聞こえた」と語られている
-34. [なぜ聖飢魔IIの元ドラマーが保険のトップセールスマンになったのか?（前編）](http://diamond.jp/articles/-/41755) - ザイ・オンライン編集部 [2013年](../Page/2013年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")
-35. [賢者.tv](http://www.kenja.tv/index.php?c=detail&m=index&kaiinid=1650)
+31.
+32.
+33.
+34. 聖飢魔IIのデビュー当時の閣下のインタビューによれば「ゼウスに寝返って、神の下で働こうなどとしたために、我々が追放し、**殺してしまった**。」と述べている（[ロッキンf](https://ja.wikipedia.org/wiki/ロッキンf "wikilink") 1985年10月号 172P）
+35. デーモン閣下の著書「我は求め訴えたり」より
+36. これについては聖飢魔II内の設定で「魔界と地球では重力が違うためすべての曲を同じテンポで叩いているように聞こえた」と語られている
+37. [なぜ聖飢魔IIの元ドラマーが保険のトップセールスマンになったのか?（前編）](http://diamond.jp/articles/-/41755) - ザイ・オンライン編集部 [2013年](../Page/2013年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")
+38. [賢者.tv](http://www.kenja.tv/index.php?c=detail&m=index&kaiinid=1650)

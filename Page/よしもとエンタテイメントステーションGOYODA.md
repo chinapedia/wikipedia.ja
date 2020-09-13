@@ -115,4 +115,4 @@
 
   - [よしもとエンタテイメントステーションGOYŌDA](https://web.archive.org/web/20051018024220/http://www.obc1314.co.jp/bangumi/goyoda/)
 
-[Category:2003年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のラジオ番組_\(日本\) "wikilink") [Category:ラジオ大阪の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:ラジオ大阪の帯番組の歴史 "wikilink") [Category:日本のコミュニティ放送局の番組](https://ja.wikipedia.org/wiki/Category:日本のコミュニティ放送局の番組 "wikilink") [Category:吉本興業の番組](https://ja.wikipedia.org/wiki/Category:吉本興業の番組 "wikilink") [Category:ローカルラジオ局のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のバラエティ番組 "wikilink")
+[Category:2003年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のラジオ番組_\(日本\) "wikilink") [Category:ラジオ大阪の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:ラジオ大阪の帯番組の歴史 "wikilink") [Category:日本のコミュニティ放送局の番組](https://ja.wikipedia.org/wiki/Category:日本のコミュニティ放送局の番組 "wikilink") [Category:吉本興業の番組](https://ja.wikipedia.org/wiki/Category:吉本興業の番組 "wikilink") [Category:ローカルラジオ局のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のバラエティ番組 "wikilink") [Category:お笑い芸人のラジオ番組](https://ja.wikipedia.org/wiki/Category:お笑い芸人のラジオ番組 "wikilink")

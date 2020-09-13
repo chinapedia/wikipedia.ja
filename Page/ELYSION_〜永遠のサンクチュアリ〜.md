@@ -116,7 +116,7 @@
 
 ## 外部リンク
 
-  - [テリオス公式ホームページ](http://web.archive.org/web/20130114230000/http://www.terios.net/) - 閉鎖。（2013年1月14日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")） ※18歳未満閲覧禁止
+  - [テリオス公式ホームページ](https://web.archive.org/web/20130114230000/http://www.terios.net/) - 閉鎖。（2013年1月14日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")） ※18歳未満閲覧禁止
   - [ガンホーゲームズ内紹介ページ](http://www.gungho.jp/cgame/game/elysion/)
 
 [Category:2000年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2000年のアダルトゲーム "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:ドリームキャスト用ソフト](https://ja.wikipedia.org/wiki/Category:ドリームキャスト用ソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:インターチャネルのゲームソフト](https://ja.wikipedia.org/wiki/Category:インターチャネルのゲームソフト "wikilink") [Category:メイドを題材とした作品](https://ja.wikipedia.org/wiki/Category:メイドを題材とした作品 "wikilink") [Category:豪邸を舞台とした作品](https://ja.wikipedia.org/wiki/Category:豪邸を舞台とした作品 "wikilink") [Category:島を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:島を舞台としたコンピュータゲーム "wikilink")

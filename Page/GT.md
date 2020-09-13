@@ -35,19 +35,19 @@
 
 ### 組織
 
-  - [GTバイシクルズ](../Page/GTバイシクルズ.md "wikilink") - [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の自転車メーカー・ブランド
+  - [GTバイシクルズ](../Page/GTバイシクルズ.md "wikilink") - [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の自転車メーカー・ブランド。
   - [後藤総合車両所](../Page/後藤総合車両所.md "wikilink") () - JR西日本の車両基地、車両工場。
   - [桂林航空](https://ja.wikipedia.org/wiki/桂林航空 "wikilink")
   - [mihimaru GT](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink") - 男女2人組音楽ユニット。GTの由来は上記のグランドツアーから。
-  - [GIRL'S TALK](https://ja.wikipedia.org/wiki/GIRL'S_TALK "wikilink") - 女性コミュニティWebサービス <http://www.ca-girlstalk.jp/>
+  - [GIRL'S TALK](https://ja.wikipedia.org/wiki/GIRL'S_TALK "wikilink") - 女性コミュニティWebサービス <http://www.ca-girlstalk.jp/>。
   - [グラントソントン](https://ja.wikipedia.org/wiki/グラントソントン・インターナショナル "wikilink") (Grant Thornton)
 
 ### 商品名・ブランド
 
-  - [PCエンジンGT](../Page/PCエンジンGT.md "wikilink") - 携帯ゲーム機(Game and TV)
+  - [PCエンジンGT](../Page/PCエンジンGT.md "wikilink") - 携帯ゲーム機(Game and TV)。
   - [富士フイルム](../Page/富士フイルム.md "wikilink")がかつてFUJI、[AXIA](https://ja.wikipedia.org/wiki/AXIA "wikilink")ブランドで発売した[カーステレオ用](../Page/カーオーディオ.md "wikilink")[オーディオカセットテープ](../Page/コンパクトカセット.md "wikilink")。
   - [サトーカメラ Presents GT](https://ja.wikipedia.org/wiki/サトーカメラ_Presents_GT "wikilink") - [エフエム栃木](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")のラジオ番組。
-  - [GT書体](../Page/GT書体.md "wikilink")、およびこれを中心とするプロジェクト
+  - [GT書体](../Page/GT書体.md "wikilink")、およびこれを中心とするプロジェクト。
   - GT管 - [真空管](../Page/真空管.md "wikilink")の一種。グラスチューブの略。
   - GeForce GT NVIDIAのGPUのシリーズの一種。
 
@@ -65,9 +65,7 @@
 ## Gt
 
   - [ギター](../Page/ギター.md "wikilink") ()、[ギタリスト](../Page/ギタリスト.md "wikilink") ()
-  - [ギガトン](https://ja.wikipedia.org/wiki/TNTトン "wikilink") ()
-
-グランドツーリスモ
+  - [ギガトン](../Page/TNT換算.md "wikilink") ()
 
 ## G.T.
 
@@ -76,4 +74,4 @@
 
 ## gt
 
-  - [.gt](https://ja.wikipedia.org/wiki/.gt "wikilink") - グアテマラの[国別ドメイン](../Page/国別コードトップレベルドメイン.md "wikilink")
+  - [.gt](https://ja.wikipedia.org/wiki/.gt "wikilink") - グアテマラの[国別ドメイン](../Page/国別コードトップレベルドメイン.md "wikilink")。

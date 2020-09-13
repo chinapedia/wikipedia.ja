@@ -7,7 +7,7 @@
 
 開局は[1933年](../Page/1933年.md "wikilink")。徳島放送局から送出する中波放送は第1放送のみで、第2放送は大半の地域で[大阪放送局](../Page/NHK大阪放送局.md "wikilink")（828kHz）を受信する。これは、1970年代初期の第1次中波再編で大阪放送局が300kWに増力された余波で、徳島第2放送局が[1973年](../Page/1973年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")をもって廃止されたことによるものである\[1\]。唯一の中継局である[三好市](../Page/三好市.md "wikilink")の[池田中継局](../Page/池田中継局.md "wikilink")は、かつては大阪放送局から送出していたが、その後回線のデジタル化により現在は[松山放送局から送出している](../Page/NHK松山放送局.md "wikilink")\[2\]。イメージキャラクターは、徳島県が舞台となった連続テレビ小説『[ウェルかめ](https://ja.wikipedia.org/wiki/ウェルかめ "wikilink")』のキャラクターだった**「かめっ太」**。以前は**「あわまるくん」**で、徳島県の特産品である[すだち](https://ja.wikipedia.org/wiki/すだち "wikilink")と、[阿波踊り](../Page/阿波踊り.md "wikilink")、そして[鳴門の渦潮](../Page/鳴門の渦潮.md "wikilink")をイメージしたものだったが、『ウェルかめ』終了とともに交代した。
 
-局舎は開局以来、徳島市[南前川町](../Page/南前川町.md "wikilink")二丁目4番地に所在していた\<が、[JR](../Page/四国旅客鉄道.md "wikilink")[徳島駅](https://ja.wikipedia.org/wiki/徳島駅 "wikilink")東側の新局舎へ移転し、2006年9月4日より本放送を開始した。
+局舎は開局以来、徳島市[南前川町](../Page/南前川町.md "wikilink")二丁目4番地に所在していたが、[JR](../Page/四国旅客鉄道.md "wikilink")[徳島駅](https://ja.wikipedia.org/wiki/徳島駅 "wikilink")東側の新局舎へ移転し、2006年9月4日より本放送を開始した。
 
 阿波踊りの時期には、職員有志が**「NHK徳島連」**を結成して参加している。揃いの浴衣が『[徳島から生放送\!真夏の夜もさだまさし](../Page/今夜も生でさだまさし.md "wikilink")』（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月27日](../Page/7月27日.md "wikilink")未明放送）において紹介されたが、男性アナウンサーが着用していたものが旧ロゴモデルであったことから、その歴史はとても古い。放送局移転後は、局舎内に演舞場を設けている。
 
@@ -42,7 +42,7 @@
 ### テレビ
 
   - 局所規模が大規模及び重要となっている場所のみを抜粋。
-  - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")テレビが「1」を希望したため、総合テレビは「3」を使用している。
+  - [四国放送](../Page/四国放送.md "wikilink")テレビが「1」を希望したため、総合テレビは「3」を使用している。
 
 <!-- end list -->
 
@@ -173,7 +173,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/栗田勇人" title="wikilink">栗田勇人</a></p></td>
+<td><p><a href="../Page/吉岡大輔_(アナウンサー).md" title="wikilink">吉岡大輔</a></p></td>
 <td><p><a href="../Page/NHKラジオセンター.md" title="wikilink">ラジオセンター</a></p></td>
 <td><p>放送部副部長<br />
 徳島県のニュース</p></td>
@@ -205,37 +205,42 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/坂本聡" title="wikilink">坂本聡</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/廣由梨" title="wikilink">廣由梨</a></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/とく6徳島" title="wikilink">とく6徳島</a>（キャスター）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/越田穂香" title="wikilink">越田穂香</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/及川凛華" title="wikilink">及川凛華</a></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/四国_おひるのクローバー" title="wikilink">四国 おひるのクローバー</a>（キャスター）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/太田晶子" title="wikilink">太田晶子</a></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/四国_おひるのクローバー" title="wikilink">四国 おひるのクローバー</a>（キャスター）<br />
 <a href="https://ja.wikipedia.org/wiki/とく6徳島" title="wikilink">とく6徳島</a>（リポーター）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/佐竹綾" title="wikilink">佐竹綾</a></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/とく6徳島" title="wikilink">とく6徳島</a></p></td>

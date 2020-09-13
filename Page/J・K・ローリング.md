@@ -3,7 +3,7 @@
 
 **ジョアン・ローリング**, [CH](https://ja.wikipedia.org/wiki/:en:Order_of_the_Companions_of_Honour "wikilink") [OBE](../Page/大英帝国勲章.md "wikilink") （ 、[1965年](../Page/1965年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink") -）、ペンネーム: **J・K・ローリング**  または**ロバート・ガルブレイス**  は、イギリスの小説家兼脚本家。
 
-『[ハリーポッターシリーズ](https://ja.wikipedia.org/wiki/ハリーポッターシリーズ "wikilink")』の作者であり、この本は世界中で反響を呼び幾多の賞を獲得し4億部以上出版\[1\]。これは[史上最も売れたシリーズ作品であり](../Page/ベストセラー本の一覧.md "wikilink")\[2\]、また[劇場版シリーズは](https://ja.wikipedia.org/wiki/ハリー・ポッター_\(映画シリーズ\) "wikilink")[世界歴代12位の興行収入](../Page/世界歴代興行収入上位の映画一覧.md "wikilink")(2019年10月25日現在)をあげた\[3\]又、ファンタスティックビーストと魔法使いの旅で脚本家デビュー。
+『[ハリー・ポッター](../Page/ハリー・ポッターシリーズ.md "wikilink")』シリーズの作者として知られる。このシリーズは世界中で反響を呼び幾多の賞を獲得した他4億部以上出版されている\[1\]。これは[史上最も売れたシリーズ作品であり](../Page/ベストセラー本の一覧.md "wikilink")\[2\]、また[劇場版シリーズは](https://ja.wikipedia.org/wiki/ハリー・ポッター_\(映画シリーズ\) "wikilink")[世界歴代12位の興行収入](../Page/世界歴代興行収入上位の映画一覧.md "wikilink")(2019年10月25日現在)をあげた\[3\]。また、ハリーポッターシリーズの外伝である「[ファンタスティック・ビーストと魔法使いの旅](https://ja.wikipedia.org/wiki/ファンタスティック・ビーストと魔法使いの旅 "wikilink")」で脚本家としてデビューした。
 
 [大英帝国勲章](../Page/大英帝国勲章.md "wikilink")、[ローカス賞](https://ja.wikipedia.org/wiki/ローカス賞_ファンタジイ長篇部門 "wikilink")、[ヒューゴー賞](../Page/ヒューゴー賞_長編小説部門.md "wikilink")、[アストゥリアス皇太子賞](https://ja.wikipedia.org/wiki/アストゥリアス皇太子賞 "wikilink")、[アンデルセン文学賞](https://ja.wikipedia.org/wiki/アンデルセン文学賞 "wikilink")、[英国アカデミー賞](../Page/英国アカデミー賞.md "wikilink")受賞。
 

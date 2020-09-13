@@ -29,71 +29,79 @@
 
 ### テレビ局
 
-| デジタル  | 放送局                                                                                                                 |
-| ----- | ------------------------------------------------------------------------------------------------------------------- |
-| D011  | [NHK松山](../Page/NHK松山放送局.md "wikilink")[総合](../Page/NHK総合テレビジョン.md "wikilink")                                      |
-| D021  | NHK松山[Eテレ](../Page/NHK教育テレビジョン.md "wikilink")                                                                       |
-| D041  | [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")                                                               |
-| D051  | [愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink")                                                                            |
-| D061  | [あいテレビ](../Page/あいテレビ.md "wikilink")                                                                                |
-| D081  | [テレビ愛媛](../Page/テレビ愛媛.md "wikilink")                                                                                |
-| D111  | コミュニティチャンネル                                                                                                         |
-| BS101 | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[BS1](https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン "wikilink") |
-| BS103 | NHK[BSプレミアム](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")                                                                 |
-| BS141 | [BS日テレ](../Page/BS日本.md "wikilink")                                                                                 |
-| BS151 | [BS朝日](../Page/ビーエス朝日.md "wikilink")                                                                                |
-| BS161 | [BS-TBS](../Page/BS-TBS.md "wikilink")                                                                              |
-| BS171 | [BSテレ東](https://ja.wikipedia.org/wiki/BSテレ東 "wikilink")                                                             |
-| BS181 | [BSフジ](../Page/BSフジ.md "wikilink")                                                                                  |
-| BS191 | [WOWOW](../Page/WOWOW.md "wikilink")プライム                                                                            |
-| BS192 | [WOWOW](../Page/WOWOW.md "wikilink")ライブ                                                                             |
-| BS193 | [WOWOW](../Page/WOWOW.md "wikilink")シネマ                                                                             |
-| BS200 | [スターチャンネル](https://ja.wikipedia.org/wiki/スターチャンネル "wikilink")1                                                      |
-| BS201 | [スターチャンネル](https://ja.wikipedia.org/wiki/スターチャンネル "wikilink")2                                                      |
-| BS202 | [スターチャンネル](https://ja.wikipedia.org/wiki/スターチャンネル "wikilink")3                                                      |
-| BS211 | [BS11](../Page/日本BS放送.md "wikilink")                                                                                |
-| BS222 | [BS12 トゥエルビ](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")                                                               |
-| 222   | [映画・チャンネルNECO](../Page/チャンネルNECO.md "wikilink")                                                                     |
-| 245   | [テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")1 ドラマ・バラエティ・アニメ                                                           |
-| 251   | [日経CNBC](https://ja.wikipedia.org/wiki/日経CNBC "wikilink")                                                           |
-| 252   | [日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")                                                     |
-| 264   | [歌謡ポップスチャンネル](../Page/歌謡ポップスチャンネル.md "wikilink")                                                                    |
-| 270   | [囲碁・将棋チャンネル](../Page/囲碁・将棋チャンネル.md "wikilink")                                                                      |
-| 271   | [ショップチャンネル](../Page/ショップチャンネル.md "wikilink")                                                                        |
-| 272   | [QVC](../Page/QVC.md "wikilink")                                                                                    |
-| 277   | [旅チャンネル](../Page/旅チャンネル.md "wikilink")                                                                              |
-| 278   | [食と旅のフーディーズTV](../Page/食と旅のフーディーズTV.md "wikilink")                                                                  |
-| 280   | [MONDO TV](../Page/MONDO_TV.md "wikilink")                                                                          |
-| 284   | [日テレプラス](https://ja.wikipedia.org/wiki/日テレプラス "wikilink")                                                           |
-| 288   | [SPEEDチャンネル](../Page/SPEEDチャンネル.md "wikilink")                                                                      |
-| 310   | [お天気チャンネル](https://ja.wikipedia.org/wiki/お天気チャンネル "wikilink")                                                       |
-| 313   | ウィットチャンネル                                                                                                           |
-| 511   | [スカイ・A sports+](../Page/スカイ・エー.md "wikilink") HD                                                                    |
-| 512   | [GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink") HD                                                          |
-| 517   | [ゴルフネットワーク](../Page/ゴルフネットワーク.md "wikilink") HD                                                                     |
-| 518   | [日テレジータス](https://ja.wikipedia.org/wiki/日テレG+ "wikilink") HD                                                        |
-| 521   | [日本映画専門チャンネル](../Page/日本映画専門チャンネル.md "wikilink") HD                                                                 |
-| 530   | [ファミリー劇場](../Page/ファミリー劇場.md "wikilink") HD                                                                         |
-| 531   | [スーパー\!ドラマTV](../Page/スーパー!ドラマTV.md "wikilink") HD                                                                  |
-| 534   | [時代劇専門チャンネル](../Page/時代劇専門チャンネル.md "wikilink") HD                                                                   |
-| 535   | [女性チャンネル♪LaLa TV](../Page/LaLa_TV.md "wikilink") HD                                                                 |
-| 541   | [アニマックス](../Page/アニマックス.md "wikilink") HD                                                                           |
-| 542   | [キッズステーション](../Page/キッズステーション.md "wikilink") HD                                                                     |
-| 555   | [ヒストリーチャンネル](../Page/ヒストリーチャンネル.md "wikilink") HD                                                                   |
-| 576   | [釣りビジョン](../Page/釣りビジョン.md "wikilink") HD                                                                           |
-| 581   | [フジテレビTWO ドラマ・アニメ](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink") HD                                            |
-| 582   | [フジテレビONE スポーツ・バラエティ](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink") HD                                         |
-| 244   | [アニメシアターX (AT-X)](../Page/アニメシアターX.md "wikilink")                                                                   |
-| 225   | [東映チャンネル](../Page/東映チャンネル.md "wikilink")                                                                            |
-| 526   | [衛星劇場](../Page/衛星劇場.md "wikilink") HD                                                                               |
-| 285   | [グリーンチャンネル](../Page/グリーンチャンネル.md "wikilink")                                                                        |
-| 286   | グリーンチャンネル2                                                                                                          |
-| 290   | [プレイボーイチャンネル](../Page/プレイボーイチャンネル.md "wikilink")                                                                    |
-| 291   | [レッドチェリー](https://ja.wikipedia.org/wiki/チャンネル・ルビー "wikilink")                                                       |
-| 292   | [レインボーチャンネル](../Page/レインボーチャンネル.md "wikilink")                                                                      |
-| 293   | [ミッドナイトブルー](https://ja.wikipedia.org/wiki/ミッドナイトブルー "wikilink")                                                     |
-| 294   | [チェリーボム](https://ja.wikipedia.org/wiki/チェリーボム "wikilink")                                                           |
-| 295   | [パラダイスTV](https://ja.wikipedia.org/wiki/パラダイスTV "wikilink")                                                         |
+| デジタル   | 放送局                                                                                                                 |
+| ------ | ------------------------------------------------------------------------------------------------------------------- |
+| D011   | [NHK松山](../Page/NHK松山放送局.md "wikilink")[総合](../Page/NHK総合テレビジョン.md "wikilink")                                      |
+| D021   | NHK松山[Eテレ](../Page/NHK教育テレビジョン.md "wikilink")                                                                       |
+| D041   | [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")                                                               |
+| D051   | [愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink")                                                                            |
+| D061   | [あいテレビ](../Page/あいテレビ.md "wikilink")                                                                                |
+| D081   | [テレビ愛媛](../Page/テレビ愛媛.md "wikilink")                                                                                |
+| D111   | コミュニティチャンネル                                                                                                         |
+| BS101  | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[BS1](https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン "wikilink") |
+| BS103  | NHK[BSプレミアム](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")                                                                 |
+| BS141  | [BS日テレ](../Page/BS日本.md "wikilink")                                                                                 |
+| BS151  | [BS朝日](../Page/ビーエス朝日.md "wikilink")                                                                                |
+| BS161  | [BS-TBS](../Page/BS-TBS.md "wikilink")                                                                              |
+| BS171  | [BSテレ東](https://ja.wikipedia.org/wiki/BSテレ東 "wikilink")                                                             |
+| BS181  | [BSフジ](../Page/BSフジ.md "wikilink")                                                                                  |
+| BS191  | [WOWOW](../Page/WOWOW.md "wikilink")プライム                                                                            |
+| BS192  | [WOWOW](../Page/WOWOW.md "wikilink")ライブ                                                                             |
+| BS193  | [WOWOW](../Page/WOWOW.md "wikilink")シネマ                                                                             |
+| BS200  | [スターチャンネル](https://ja.wikipedia.org/wiki/スターチャンネル "wikilink")1                                                      |
+| BS201  | [スターチャンネル](https://ja.wikipedia.org/wiki/スターチャンネル "wikilink")2                                                      |
+| BS202  | [スターチャンネル](https://ja.wikipedia.org/wiki/スターチャンネル "wikilink")3                                                      |
+| BS211  | [BS11](../Page/日本BS放送.md "wikilink")                                                                                |
+| BS222  | [BS12 トゥエルビ](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")                                                               |
+| BS231  | [BSキャンパスex](../Page/放送大学学園.md "wikilink")                                                                           |
+| 4K 101 | [NHK BS4K](https://ja.wikipedia.org/wiki/NHK_BS4K "wikilink") 4K                                                    |
+| 4K 141 | [BS日テレ](../Page/BS日本.md "wikilink") 4K                                                                              |
+| 4K 151 | [BS朝日](../Page/ビーエス朝日.md "wikilink") 4K                                                                             |
+| 4K 161 | [BS-TBS](../Page/BS-TBS.md "wikilink") 4K                                                                           |
+| 4K 171 | [BSテレ東](../Page/BSテレビ東京.md "wikilink") 4K                                                                           |
+| 4K 181 | [BSフジ](../Page/BSフジ.md "wikilink") 4K                                                                               |
+| 8K 102 | [NHK BS8K](https://ja.wikipedia.org/wiki/NHK_BS8K "wikilink")                                                       |
+| 264    | [歌謡ポップスチャンネル](../Page/歌謡ポップスチャンネル.md "wikilink")                                                                    |
+| 277    | [旅チャンネル](../Page/旅チャンネル.md "wikilink")                                                                              |
+| 280    | [MONDO TV](../Page/MONDO_TV.md "wikilink")                                                                          |
+| 288    | [SPEEDチャンネル](../Page/SPEEDチャンネル.md "wikilink")                                                                      |
+| 310    | [お天気チャンネル](https://ja.wikipedia.org/wiki/お天気チャンネル "wikilink")                                                       |
+| 313    | ウィットチャンネル                                                                                                           |
+| 511    | [スカイ・A sports+](../Page/スカイ・エー.md "wikilink") HD                                                                    |
+| 512    | [GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink") HD                                                          |
+| 517    | [ゴルフネットワーク](../Page/ゴルフネットワーク.md "wikilink") HD                                                                     |
+| 518    | [日テレジータス](https://ja.wikipedia.org/wiki/日テレG+ "wikilink") HD                                                        |
+| 521    | [日本映画専門チャンネル](../Page/日本映画専門チャンネル.md "wikilink") HD                                                                 |
+| 522    | [映画・チャンネルNECO](../Page/チャンネルNECO.md "wikilink")                                                                     |
+| 530    | [ファミリー劇場](../Page/ファミリー劇場.md "wikilink") HD                                                                         |
+| 531    | [スーパー\!ドラマTV](../Page/スーパー!ドラマTV.md "wikilink") HD                                                                  |
+| 534    | [時代劇専門チャンネル](../Page/時代劇専門チャンネル.md "wikilink") HD                                                                   |
+| 535    | [女性チャンネル♪LaLa TV](../Page/LaLa_TV.md "wikilink") HD                                                                 |
+| 541    | [アニマックス](../Page/アニマックス.md "wikilink") HD                                                                           |
+| 542    | [キッズステーション](../Page/キッズステーション.md "wikilink") HD                                                                     |
+| 545    | [テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")1 ドラマ・バラエティ・アニメ HD                                                        |
+| 551    | [日経CNBC](https://ja.wikipedia.org/wiki/日経CNBC "wikilink")                                                           |
+| 552    | [日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")                                                     |
+| 555    | [ヒストリーチャンネル](../Page/ヒストリーチャンネル.md "wikilink") HD                                                                   |
+| 570    | [囲碁・将棋チャンネル](../Page/囲碁・将棋チャンネル.md "wikilink") HD                                                                   |
+| 571    | [ショップチャンネル](../Page/ショップチャンネル.md "wikilink") HD                                                                     |
+| 572    | [QVC](../Page/QVC.md "wikilink") HD                                                                                 |
+| 576    | [釣りビジョン](../Page/釣りビジョン.md "wikilink") HD                                                                           |
+| 581    | [フジテレビTWO ドラマ・アニメ](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink") HD                                            |
+| 582    | [フジテレビONE スポーツ・バラエティ](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink") HD                                         |
+| 583    | [ザ・シネマ](../Page/ザ・シネマ.md "wikilink") HD                                                                             |
+| 584    | [日テレプラス](https://ja.wikipedia.org/wiki/日テレプラス "wikilink") HD                                                        |
+| 244    | [アニメシアターX (AT-X)](../Page/アニメシアターX.md "wikilink")                                                                   |
+| 225    | [東映チャンネル](../Page/東映チャンネル.md "wikilink")                                                                            |
+| 526    | [衛星劇場](../Page/衛星劇場.md "wikilink") HD                                                                               |
+| 285    | [グリーンチャンネル](../Page/グリーンチャンネル.md "wikilink")                                                                        |
+| 286    | グリーンチャンネル2                                                                                                          |
+| 290    | [プレイボーイチャンネル](../Page/プレイボーイチャンネル.md "wikilink")                                                                    |
+| 291    | [レッドチェリー](https://ja.wikipedia.org/wiki/チャンネル・ルビー "wikilink")                                                       |
+| 292    | [レインボーチャンネル](../Page/レインボーチャンネル.md "wikilink")                                                                      |
+| 293    | [ミッドナイトブルー](https://ja.wikipedia.org/wiki/ミッドナイトブルー "wikilink")                                                     |
+| 294    | [チェリーボム](https://ja.wikipedia.org/wiki/チェリーボム "wikilink")                                                           |
+| 295    | [パラダイスTV](https://ja.wikipedia.org/wiki/パラダイスTV "wikilink")                                                         |
 
   - 2007年10月から地上デジタル放送開始。
   - 2015年3月31日デジアナ変換サービス終了。

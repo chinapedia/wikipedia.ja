@@ -61,6 +61,7 @@
       - [一般構造用圧延鋼材](https://ja.wikipedia.org/wiki/一般構造用圧延鋼材 "wikilink") (steel structure)
       - [風浪階級](https://ja.wikipedia.org/wiki/風浪階級 "wikilink") (sea state) - [海況](https://ja.wikipedia.org/wiki/海況 "wikilink")を表す尺度の一つ。[WMO](https://ja.wikipedia.org/wiki/WMO "wikilink") 3700にて規定
       - [剰余金計算書](https://ja.wikipedia.org/wiki/剰余金計算書 "wikilink") (surplus statement)
+      - [株主資本等変動計算書](https://ja.wikipedia.org/wiki/株主資本等変動計算書 "wikilink") (Statements of Shareholders' Equity)
       - 浮遊物質 (suspended solid) または懸濁物質 (suspended substance) → [浮遊物質](https://ja.wikipedia.org/wiki/浮遊物質 "wikilink")
       - [蒸気船](../Page/蒸気船.md "wikilink") (steam ship) - 船名の前に[艦船接頭辞](https://ja.wikipedia.org/wiki/艦船接頭辞 "wikilink")SSをつける
       - [社会科](../Page/社会_\(教科\).md "wikilink") (social studies)
@@ -100,6 +101,10 @@
   -
 
   - 商品・製品
+
+:\* [川崎・SS](https://ja.wikipedia.org/wiki/川崎・SS "wikilink") - [川崎重工業](../Page/川崎重工業.md "wikilink")（[カワサキ](https://ja.wikipedia.org/wiki/カワサキ "wikilink")）が、[1968年](../Page/1968年.md "wikilink")から[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")にかけて北米及び欧州市場向けに製造･販売した[空冷](https://ja.wikipedia.org/wiki/空冷 "wikilink")[2サイクル](https://ja.wikipedia.org/wiki/2サイクル "wikilink")3気筒[エンジン](../Page/エンジン.md "wikilink")を搭載した[オートバイ](../Page/オートバイ.md "wikilink")(輸出名「MACH」シリーズ)の日本国内向けの商標名称。
+
+:\* [川崎・ニンジャSS](https://ja.wikipedia.org/wiki/川崎・ニンジャSS "wikilink") - 川崎重工業の子会社（[インドネシア](../Page/インドネシア.md "wikilink")カワサキ）が、[2012年](../Page/2012年.md "wikilink")から[2015年](../Page/2015年.md "wikilink")にかけてインドネシア市場向けに製造･販売した[水冷](../Page/水冷.md "wikilink")[2サイクル](https://ja.wikipedia.org/wiki/2サイクル "wikilink")単気筒[エンジン](../Page/エンジン.md "wikilink")を搭載した[オートバイ](../Page/オートバイ.md "wikilink")(150cc)の商標名称。
 
 :\* [セガサターン](../Page/セガサターン.md "wikilink") (Sega Saturn)
 

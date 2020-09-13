@@ -1,11 +1,13 @@
 > この記事は[PUFFY](https://ja.wikipedia.org/wiki/PUFFY)から翻訳されています。
 
 
-**PUFFY**（パフィー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[ボーカルデュオ](../Page/二人組.md "wikilink")\[1\]、[ユニット](../Page/音楽ユニット.md "wikilink")\[2\]。メンバーは[大貫亜美](https://ja.wikipedia.org/wiki/大貫亜美 "wikilink")と[吉村由美](https://ja.wikipedia.org/wiki/吉村由美 "wikilink")\[3\]。[1996年](../Page/1996年.md "wikilink")に[奥田民生](../Page/奥田民生.md "wikilink")プロデュースのシングル「[アジアの純真](../Page/アジアの純真.md "wikilink")」でデビュー\[4\]。力の抜けた自然体のスタイル\[5\]、親しみやすいキャラクター\[6\]、ハイクオリティな楽曲が特徴\[7\]。2000年に[SXSWに出演](https://ja.wikipedia.org/wiki/サウス・バイ・サウスウエスト "wikilink")\[8\]、2002年に**Puffy AmiYumi**名義で[北米ツアーを行い](../Page/北アメリカ.md "wikilink")、2004年にはPUFFYをモデルにしたアニメ『[ハイ\!ハイ\! パフィー・アミユミ](../Page/ハイ!ハイ!_パフィー・アミユミ.md "wikilink")』が全米でブレイクし、世界110カ国以上で放送される\[9\]。2016年にデビュー20周年を迎える\[10\]。
+| 活動期間 = [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - | レーベル =  | 事務所 = [ソニー・ミュージックアーティスツ](../Page/ソニー・ミュージックアーティスツ.md "wikilink") | 共同作業者 =  | 公式サイト = [PUFFY Official Website](https://puffy.jp/) | メンバー =  | 旧メンバー = }}
+
+**PUFFY**（パフィー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[ボーカルデュオ](../Page/二人組.md "wikilink")\[1\]、[ユニット](../Page/音楽ユニット.md "wikilink")\[2\]。メンバーは[大貫亜美](https://ja.wikipedia.org/wiki/大貫亜美 "wikilink")と[吉村由美](https://ja.wikipedia.org/wiki/吉村由美 "wikilink")\[3\]。[1996年](../Page/1996年.md "wikilink")に[奥田民生](../Page/奥田民生.md "wikilink")プロデュースのシングル『[アジアの純真](../Page/アジアの純真.md "wikilink")』でデビュー\[4\]。力の抜けた自然体のスタイル\[5\]、親しみやすいキャラクター\[6\]、ハイクオリティな楽曲が特徴\[7\]。2000年に[SXSWに出演](https://ja.wikipedia.org/wiki/サウス・バイ・サウスウエスト "wikilink")\[8\]、2002年に**Puffy AmiYumi**名義で[北米ツアーを行い](../Page/北アメリカ.md "wikilink")、2004年にはPUFFYをモデルにしたアニメ『[ハイ\!ハイ\! パフィー・アミユミ](../Page/ハイ!ハイ!_パフィー・アミユミ.md "wikilink")』が全米でブレイクし、世界110カ国以上で放送される\[9\]。2016年にデビュー20周年を迎える\[10\]。
 
 ## 略歴
 
-1994年、[SMAに所属する](../Page/ソニー・ミュージックアーティスツ.md "wikilink")[大貫亜美](https://ja.wikipedia.org/wiki/大貫亜美 "wikilink")と[吉村由美](https://ja.wikipedia.org/wiki/吉村由美 "wikilink")が出会い、1995年にユニットを結成。同事務所の[奥田民生](../Page/奥田民生.md "wikilink")プロデュースの下、1996年5月にCDデビュー。デビューから4連続でミリオンヒットを記録した。また、同年の新人アーティストで最高の売上を記録。日本国外でも、[アジア](../Page/アジア.md "wikilink")各国でも人気を得て、2002年には[北米でもCDデビューしツアーを行う](../Page/北アメリカ.md "wikilink")。2004年、二人をモデルにしたアニメーション番組『[Hi Hi Puffy AmiYumi](https://ja.wikipedia.org/wiki/Hi_Hi_Puffy_AmiYumi "wikilink")』が全米でスタートし、現在まで、世界110カ国以上で放映されている。しかし活動拠点はあくまで日本であり、毎年全国ツアーを行い、国内外問わず多くのイベントやフェスに参加するなど、積極的なライブ活動を行っている。
+1994年、[SMAに所属する](../Page/ソニー・ミュージックアーティスツ.md "wikilink")[大貫亜美](https://ja.wikipedia.org/wiki/大貫亜美 "wikilink")と[吉村由美](https://ja.wikipedia.org/wiki/吉村由美 "wikilink")が出会い、1995年にユニットを結成。同事務所の[奥田民生](../Page/奥田民生.md "wikilink")サウンドプロデュースの下、1996年5月にCDデビュー。デビューから4連続でミリオンヒットを記録した。また、同年の新人アーティストで最高の売上を記録。尚、デビューから数年間[エグゼクティブ・プロデューサー](../Page/エグゼクティブ・プロデューサー.md "wikilink")を務めたのは、[佐野元春](../Page/佐野元春.md "wikilink")・[大澤誉志幸](../Page/大澤誉志幸.md "wikilink")・[大江千里](../Page/大江千里_\(アーティスト\).md "wikilink")・[岡村靖幸](../Page/岡村靖幸.md "wikilink")・[TM NETWORK](../Page/TM_NETWORK.md "wikilink")・[渡辺美里](../Page/渡辺美里.md "wikilink")を手掛けた[小坂洋二](../Page/小坂洋二.md "wikilink")である。日本国外でも、[アジア](../Page/アジア.md "wikilink")各国でも人気を得て、2002年には[北米でもCDデビューしツアーを行う](../Page/北アメリカ.md "wikilink")。2004年、二人をモデルにしたアニメーション番組『[Hi Hi Puffy AmiYumi](https://ja.wikipedia.org/wiki/Hi_Hi_Puffy_AmiYumi "wikilink")』が全米でスタートし、現在まで、世界110カ国以上で放映されている。しかし活動拠点はあくまで日本であり、毎年全国ツアーを行い、国内外問わず多くのイベントやフェスに参加するなど、積極的なライブ活動を行っている。
 
 ### デビュー前 (1994年 - 1995年)
 
@@ -15,12 +17,11 @@
 
 1994年、事務所で初めて対面した亜美と由美は、双方の内気な性格から当初は打ち解けず、由美が年長の亜美に敬語で対応する関係がしばらく続いた。しかし、思いもよらぬ芸能界入りという同じような境遇にあった二人は、徐々に友情を深め、由美が亜美の実家に出入りするまでに親密な関係となった。ソロデビューに不安を抱えていた亜美は事務所に由美との[デュオを提案し](../Page/二人組.md "wikilink")、すでに亜美のソロ音源\[11\]が録音されていたにも関わらず、すんなり受け入れられた。そこで、亜美のアルバム製作に携わっていた同じ事務所に所属する[奥田民生](../Page/奥田民生.md "wikilink")が[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")業に関心を示していたことから、二人は彼に託されることになった。
 
-  -
-    その頃、来日公演を行っていた米国のロックバンド、[ジェリーフィッシュのドラマーである](../Page/ジェリーフィッシュ_\(バンド\).md "wikilink")[アンディ・スターマー](https://ja.wikipedia.org/wiki/アンディ・スターマー "wikilink")は、才能を認め合う関係である奥田を通じてSMAと関係があった。SMAのマネージャーにグループ名の案を求められたスターマーは、"The Puffy" を提案し、これが採られた（後にTheは削られた）。その後彼はPUFFYから「ゴッドファザー」と呼ばれる。
+その頃、来日公演を行っていた米国のロックバンド、[ジェリーフィッシュのドラマーである](../Page/ジェリーフィッシュ_\(バンド\).md "wikilink")[アンディ・スターマー](https://ja.wikipedia.org/wiki/アンディ・スターマー "wikilink")は、才能を認め合う関係である奥田を通じてSMAと関係があった。SMAのマネージャーにグループ名の案を求められたスターマーは、"The Puffy" を提案し、これが採られた（後にTheは削られた）。その後彼はPUFFYから「ゴッドファザー」と呼ばれる。
 
 ### デビュー直後 (1996年 - 1997年)
 
-結成翌年の[1996年](../Page/1996年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink")、[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")と作曲を奥田、作詞を[井上陽水](../Page/井上陽水.md "wikilink")が担当したシングル「[アジアの純真](../Page/アジアの純真.md "wikilink")」で[メジャーデビューした](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。デビュー後にはPV撮影の為に渡米し、アメリカ大陸を2週間かけて横断した(この模様は『[これが私の生きる道](../Page/これが私の生きる道.md "wikilink")』のPVおよびビデオ・フォトブック『RUN\!PUFFY\!RUN\!』に収められている)。その後もアルバム『[amiyumi](https://ja.wikipedia.org/wiki/amiyumi "wikilink")』、2ndシングル『[これが私の生きる道](../Page/これが私の生きる道.md "wikilink")』 と相次いで奥田プロデュースの作品を発表し、この曲は翌春の[選抜高等学校野球大会](https://ja.wikipedia.org/wiki/選抜高等学校野球大会 "wikilink")の入場曲に使用された。その年の音楽新人賞を総なめにした。
+結成翌年の[1996年](../Page/1996年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink")、[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")と作曲を奥田、作詞を[井上陽水](../Page/井上陽水.md "wikilink")が担当したシングル『[アジアの純真](../Page/アジアの純真.md "wikilink")』で[メジャーデビューした](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。デビュー後にはPV撮影の為に渡米し、アメリカ大陸を2週間かけて横断した(この模様は『[これが私の生きる道](../Page/これが私の生きる道.md "wikilink")』のPVおよびビデオ・フォトブック『RUN\!PUFFY\!RUN\!』に収められている)。その後もアルバム『[amiyumi](https://ja.wikipedia.org/wiki/amiyumi "wikilink")』、2ndシングル『[これが私の生きる道](../Page/これが私の生きる道.md "wikilink")』 と相次いで奥田プロデュースの作品を発表し、この曲は翌春の[選抜高等学校野球大会](https://ja.wikipedia.org/wiki/選抜高等学校野球大会 "wikilink")の入場曲に使用された。その年の音楽新人賞を総なめにした。
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")10月に初の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")であるバラエティ番組『[パパパパパフィー](../Page/パパパパパフィー.md "wikilink")』がテレビ朝日系列で放送開始され、2002年3月31日まで放送された。この番組は、デビュー直後に出演したフジテレビ系の音楽番組『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』（1996年10月28日放送）において、司会の[松本人志](../Page/松本人志.md "wikilink")が二人の性格に対して「その様なことでは、もし冠番組を持ったときにどうするのか」として、司会の予行演習を行わせようとした際に提案した架空のテレビ番組の名をそのまま採用して生まれたものであった。
 
@@ -50,7 +51,7 @@
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")元日、初のオフィシャルファンクラブ期間限定結成が発表された\[22\]。6月からファンクラブ旗揚げ公演と称して全国ツアーを敢行、香港で11年ぶり、台湾で12年ぶりの公演も果たし、チケットは完売、衰えない人気を示した。また、NYでのイベント出演に合わせて、『[honeycreeper](https://ja.wikipedia.org/wiki/honeycreeper "wikilink")』『[Bring it\!](https://ja.wikipedia.org/wiki/Bring_it! "wikilink")』を全米配信リリース。[2011年](../Page/2011年.md "wikilink")にはデビュー15周年を迎え、アルバム『[Thank You\!](https://ja.wikipedia.org/wiki/Thank_You!_\(PUFFYのアルバム\) "wikilink")』の発売と4月からの全国ツアーが発表された。アニバーサリーイヤーをプロモーションすべく、例年より多くのメディア出演をこなす。
 
-2015年11月18日、シングル「[パフィピポ山](https://ja.wikipedia.org/wiki/パフィピポ山 "wikilink")」を発売。サウンドプロデュースを[もふくちゃん](https://ja.wikipedia.org/wiki/福嶋麻衣子 "wikilink")、作詞を[前山田健一](https://ja.wikipedia.org/wiki/前山田健一 "wikilink")、作曲を[PandaBoY](https://ja.wikipedia.org/wiki/PandaBoY "wikilink")、編曲を[浅野尚志](https://ja.wikipedia.org/wiki/浅野尚志 "wikilink")、ミュージックビデオを「スミネム（[スミス](https://ja.wikipedia.org/wiki/スミス_\(映像作家\) "wikilink")・[夢眠ねむ](https://ja.wikipedia.org/wiki/夢眠ねむ "wikilink")）」が手がけた\[23\]。
+2015年11月18日、シングル『[パフィピポ山](https://ja.wikipedia.org/wiki/パフィピポ山 "wikilink")』を発売。サウンドプロデュースを[もふくちゃん](https://ja.wikipedia.org/wiki/福嶋麻衣子 "wikilink")、作詞を[前山田健一](https://ja.wikipedia.org/wiki/前山田健一 "wikilink")、作曲を[PandaBoY](https://ja.wikipedia.org/wiki/PandaBoY "wikilink")、編曲を[浅野尚志](https://ja.wikipedia.org/wiki/浅野尚志 "wikilink")、ミュージックビデオを「スミネム（[スミス](https://ja.wikipedia.org/wiki/スミス_\(映像作家\) "wikilink")・[夢眠ねむ](https://ja.wikipedia.org/wiki/夢眠ねむ "wikilink")）」が手がけた\[23\]。
 
 ### デビュー20周年 (2016年 - )
 
@@ -69,26 +70,6 @@
 『[Splurge](../Page/Splurge.md "wikilink")』以降は、かつての様に複数の作曲者から作品の提供を受け、個々にプロデュースを依頼するといった傾向が続いている。曲の提供は、しばしば奥田やアンディも手掛けるが、アルバムには国内外問わず二人が好きな[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")にリクエストし、[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")や[斉藤和義](../Page/斉藤和義.md "wikilink")、[チバユウスケ](../Page/チバユウスケ.md "wikilink")、[LOW IQ 01](https://ja.wikipedia.org/wiki/LOW_IQ_01 "wikilink")、[山中さわお](../Page/山中さわお.md "wikilink")などは複数の楽曲を提供している。
 
 作詞面では、初期より二人あるいは個人での作詞も行っており、シングルとしては「[たららん/パフィーのツアーメン](https://ja.wikipedia.org/wiki/たららん/パフィーのツアーメン "wikilink")」（1998年）で初めて**PUFFY**としてクレジットされた。[2006年](../Page/2006年.md "wikilink")に発表した9thアルバム『[Splurge](../Page/Splurge.md "wikilink")』では、[ロッキング・オン](../Page/ロッキング・オン.md "wikilink")編集者である兵庫慎司の全曲解説\[28\]が寄せられ、二人の作詞家ぶりを絶賛している。しかし本人達としては、作詞へのこだわりは一切無い。また、全編英語詞のシングルも数曲リリースしている。
-
-## エピソード
-
-  - デビュー前からCM撮影やラジオ番組、[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")出演（同事務所の先輩である[真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink")の「[サマーヌード](https://ja.wikipedia.org/wiki/サマーヌード_\(曲\) "wikilink")」）、アルバム制作を行うなど\[29\]で多忙であったため、デビューしても実感がなかったと語っているほか、デビュー後3年間は多忙のため記憶が薄いとも語っている。
-
-<!-- end list -->
-
-  - デビュー年、[NHKから](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[第47回NHK紅白歌合戦](../Page/第47回NHK紅白歌合戦.md "wikilink")』への出演オファーがあったが、[TVKテレビ](../Page/テレビ神奈川.md "wikilink")『ゆく年くる年LIVE DI:GA SPECIAL』への出演が先に決定していたため、辞退した。ローカル局のために紅白の出演を蹴ったことで「天下のNHKが地方テレビ局に負けた」と報道された。なお、この時は由美が出演直前に自転車事故で左[脛骨](../Page/脛骨.md "wikilink")骨頭剥離骨折による全治6週間の怪我を負ってしまったため、テレビへの出演は不可能となり、番組には亜美のみが出演。
-
-<!-- end list -->
-
-  - 2002年7月にPUFFYが北米ツアーを行った際、コンサートに足を運んだ、映画監督の[ラジャ・ゴズネル](../Page/ラジャ・ゴズネル.md "wikilink")がほれ込み、彼の次回作の出演を依頼。ところが、当時亜美が妊娠中だったため出演は実現せず、歌での参加となった。63カ国で公開。
-
-<!-- end list -->
-
-  - [カートゥーン ネットワークのプロデューサーである](../Page/カートゥーン_ネットワーク.md "wikilink")は、2000年の「[ブギウギ No.5](../Page/ブギウギ_No.5.md "wikilink")」のPVを見て目が釘付けになり、その後NYでカーラジオから同曲が流れてきた際にPUFFYという言葉を聞き取ってソニーに連絡を取り、アニメ主題歌やアニメ化の打診を行ったと語った\[30\]。
-
-<!-- end list -->
-
-  - 二人は今まで喧嘩をしたことがないが、初めて会った時の印象をお互いに「感じが悪かった」「合わないと思った」と言い合い、もっと若い頃に出会っていれば、これほど仲良くなることはなかっただろうと語っている\[31\]。仲良くなったきっかけは「しゃぶしゃぶ事件」\[32\]と「毒舌」であり、二人をよく知る[はしのえみ](../Page/はしのえみ.md "wikilink")は、「猛毒の持ち主」と表現した\[33\]。また、抜群の相性を持つ二人が組んだことを含め、二人の持つ運や才能、出会いを[南流石](../Page/南流石.md "wikilink")は「奇跡のテンコ盛り」と称えた\[34\]。
 
 ## サポートメンバー
 
@@ -222,30 +203,30 @@
 1.  [solosolo](https://ja.wikipedia.org/wiki/solosolo "wikilink")（**大貫亜美吉村由美**名義、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[8月6日](../Page/8月6日.md "wikilink")）
 2.  リミックスアルバム『PRMX』（[1999年](../Page/1999年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")、アナログ盤も発売）
 3.  リミックスアルバム『PRMX TURBO』（[2003年](../Page/2003年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")）
-4.  トリビュートアルバム『MARCHING PUFFY\[35\]』（[2003年](../Page/2003年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")）
+4.  トリビュートアルバム『MARCHING PUFFY\[29\]』（[2003年](../Page/2003年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")）
 5.  サウンドトラック『Hi Hi Puffy AmiYumi Music From The Series』（[2004年](../Page/2004年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")、全米メジャーデビューアルバム）
 
 ### カバー作品
 
-  - [鈴木雅之トリビュートアルバム](../Page/鈴木雅之_\(歌手\).md "wikilink")「SUZUKI MANIA」（[2004年](../Page/2004年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")発売）
+  - [鈴木雅之トリビュートアルバム](../Page/鈴木雅之_\(歌手\).md "wikilink")『SUZUKI MANIA』（[2004年](../Page/2004年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")発売）
       - M-10「ハリケーン」で参加
-  - [ニューロティカ](../Page/ニューロティカ.md "wikilink")トリビュートアルバム「A.I カンパニー」（[2004年](../Page/2004年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")発売）
+  - [ニューロティカ](../Page/ニューロティカ.md "wikilink")トリビュートアルバム『A.I カンパニー』（[2004年](../Page/2004年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")発売）
       - DISC-2,M-8「東京花火」で参加
-  - [山口百恵](../Page/山口百恵.md "wikilink")トリビュートアルバム「Thank you」（[2004年](../Page/2004年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink")発売）
+  - [山口百恵](../Page/山口百恵.md "wikilink")トリビュートアルバム『Thank you』（[2004年](../Page/2004年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink")発売）
       - M-6「[ひと夏の経験](../Page/ひと夏の経験.md "wikilink")」で参加
-  - [ギターウルフ](../Page/ギターウルフ.md "wikilink")トリビュートアルバム「I LOVE GUITAR WOLF very much」（[2004年](../Page/2004年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")発売）
+  - [ギターウルフ](../Page/ギターウルフ.md "wikilink")トリビュートアルバム『I LOVE GUITAR WOLF very much』（[2004年](../Page/2004年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")発売）
       - M-12「CAN-NANA FEVER」で参加
-  - [真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink")トリビュートアルバム「[真心COVERS](../Page/真心COVERS.md "wikilink")」（[2004年](../Page/2004年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")発売）
+  - [真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink")トリビュートアルバム『[真心COVERS](../Page/真心COVERS.md "wikilink")』（[2004年](../Page/2004年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")発売）
       - M-5「人間はもう終わりだ」で参加
-  - [ジョン・レノン](../Page/ジョン・レノン.md "wikilink")トリビュートアルバム「[HAPPY BIRTHDAY,JOHN](../Page/HAPPY_BIRTHDAY,JOHN.md "wikilink")」（[2005年](../Page/2005年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")発売）
+  - [ジョン・レノン](../Page/ジョン・レノン.md "wikilink")トリビュートアルバム『[HAPPY BIRTHDAY,JOHN](../Page/HAPPY_BIRTHDAY,JOHN.md "wikilink")』（[2005年](../Page/2005年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")発売）
       - M-7「[Lucy In The Sky With Diamonds](../Page/ルーシー・イン・ザ・スカイ・ウィズ・ダイアモンズ.md "wikilink")」で参加
-  - [松田聖子](../Page/松田聖子.md "wikilink")トリビュートアルバム「Jewel Songs」（[2006年](../Page/2006年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")発売）
+  - [松田聖子](../Page/松田聖子.md "wikilink")トリビュートアルバム『Jewel Songs』（[2006年](../Page/2006年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")発売）
       - M-4「[天使のウィンク](../Page/天使のウィンク.md "wikilink")」参加
-  - 「[ユニコーントリビュート](https://ja.wikipedia.org/wiki/ユニコーントリビュート "wikilink")」／「[奥田民生・カバーズ](../Page/奥田民生・カバーズ.md "wikilink")」（[2007年](../Page/2007年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")発売）
+  - 『[ユニコーントリビュート](https://ja.wikipedia.org/wiki/ユニコーントリビュート "wikilink")』／『[奥田民生・カバーズ](../Page/奥田民生・カバーズ.md "wikilink")』（[2007年](../Page/2007年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")発売）
       - DISC-2,M-7「[働く男](../Page/働く男.md "wikilink")」／DISC-2,M-2[健康](../Page/健康.md "wikilink")で参加
-  - [シンディ・ローパー](../Page/シンディ・ローパー.md "wikilink")トリビュートアルバム「We Love Cyndi -Tribute To Cyndi Lauper-」（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月23日](../Page/7月23日.md "wikilink")発売）
+  - [シンディ・ローパー](../Page/シンディ・ローパー.md "wikilink")トリビュートアルバム『We Love Cyndi -Tribute To Cyndi Lauper-』（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月23日](../Page/7月23日.md "wikilink")発売）
       - M-1「Girls Just Want To Have Fun」で参加
-  - [SNUFF](https://ja.wikipedia.org/wiki/SNUFF "wikilink")トリビュートアルバム「Yowavinalaaaafincha? -A Tribute To Snuff-」（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月24日](../Page/9月24日.md "wikilink")発売）
+  - [SNUFF](https://ja.wikipedia.org/wiki/SNUFF "wikilink")トリビュートアルバム『Yowavinalaaaafincha? -A Tribute To Snuff-』（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月24日](../Page/9月24日.md "wikilink")発売）
       - M-12「Not Listening」で参加
   - [JUDY AND MARY 15th Anniversary Tribute Album](https://ja.wikipedia.org/wiki/JUDY_AND_MARY_15th_Anniversary_Tribute_Album "wikilink")（[2009年](../Page/2009年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")発売）
       - M-2「[mottö](https://ja.wikipedia.org/wiki/mottö "wikilink")」で参加
@@ -269,27 +250,28 @@
 
 ### 出演
 
-#### テレビ番組
+#### バラエティ番組
 
   - [竹山先生。](https://ja.wikipedia.org/wiki/竹山先生。 "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）- ミニコーナーの声の出演
   - [VIDEO JAM](../Page/VIDEO_JAM.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
   - [saku saku morning call](https://ja.wikipedia.org/wiki/saku_saku_morning_call "wikilink")（初代MC、[tvk](../Page/テレビ神奈川.md "wikilink")、1997年）
   - [イチバン\!](../Page/イチバン!.md "wikilink")（[TBSテレビ](../Page/TBSテレビ.md "wikilink")、1997年[8月7日](../Page/8月7日.md "wikilink")）
-  - [クレヨンしんちゃん](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_\(アニメ\) "wikilink")（テレビ朝日、1997年10月10日） - 本人役（声の出演）
   - [パパパパパフィー](../Page/パパパパパフィー.md "wikilink")（テレビ朝日、1997年10月1日 - 2002年3月30日）
-  - [イブ](../Page/イヴ_\(テレビドラマ\).md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、1997年9月 - 12月）
   - ワイルドで行こう（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")、1997年9月）　
   - スイス縦断\!? これがPuffyのおさんぽ旅行 〜ハイジになりた〜い\!\!〜（テレビ朝日、2000年9月3日）
-  - [ジミー・キンメル・ライブ\!](../Page/ジミー・キンメル・ライブ!.md "wikilink")（[ABC](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")、2005年4月28日）
   - [Hi Hi PUFFY部](../Page/Hi_Hi_PUFFY部.md "wikilink")（テレビ朝日、2006年7月5日 - 9月）
-  - [働きマン](../Page/働きマン.md "wikilink")（フジテレビ、2006年、第7話）- 本人役（声の出演）
-  - [英語でしゃべらナイト](../Page/英語でしゃべらナイト.md "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、2005年3月6日）
-  - [ポケモン☆サンデー](../Page/ポケモン☆サンデー.md "wikilink")（テレビ東京、2005年7月10日）
-  - [おはスタ](../Page/おはスタ.md "wikilink")・[Hi Hi Puffy AmiYumi](https://ja.wikipedia.org/wiki/Hi_Hi_Puffy_AmiYumi "wikilink")（テレビ東京）
-  - [ミュージックステーションスペシャル スーパーライブ](../Page/ミュージックステーションスーパーライブ.md "wikilink")（テレビ朝日、1997年 - 2000年）
   - [がむしゃら](https://ja.wikipedia.org/wiki/がむしゃら_\(毎日放送\) "wikilink")（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")、木曜 - 日曜、2010年4月 - 7月） - ナレーター
+
+#### テレビドラマ
+
+  - [イブ](../Page/イヴ_\(テレビドラマ\).md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、1997年9月 - 12月）
+  - [働きマン](../Page/働きマン.md "wikilink") 第7話（フジテレビ、2006年）- 本人役（声の出演）
+
+#### テレビアニメ
+
+  - [クレヨンしんちゃん](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_\(アニメ\) "wikilink")（テレビ朝日、1997年10月10日） - 本人役（声の出演）
   - [うさぎドロップ](https://ja.wikipedia.org/wiki/うさぎドロップ#テレビアニメ "wikilink")（フジテレビ、2011年、第9話）- 本人役（声の声優）
-  - [ちびまる子ちゃん](https://ja.wikipedia.org/wiki/ちびまる子ちゃん#アニメ "wikilink")（フジテレビ、2018年12月23日）- 大貫が大村あみ役、吉村が大村ゆみ役（声の出演）\[36\]
+  - [ちびまる子ちゃん](https://ja.wikipedia.org/wiki/ちびまる子ちゃん#アニメ "wikilink")（フジテレビ、2018年12月23日）- 大貫が大村あみ役、吉村が大村ゆみ役（声の出演）\[30\]
 
 #### ラジオ番組
 
@@ -333,7 +315,7 @@
   - [森永乳業](../Page/森永乳業.md "wikilink") [エスキモーMOW](https://ja.wikipedia.org/wiki/エスキモーMOW "wikilink")、[ビヒダスヨーグルト](https://ja.wikipedia.org/wiki/ビヒダスヨーグルト "wikilink")（2008年 - ）
   - [トイ・ストーリー3](https://ja.wikipedia.org/wiki/トイ・ストーリー3 "wikilink")DVD、Blu-ray（2010年）
   - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink") [カローラフィールダーハイブリッド](../Page/トヨタ・カローラフィールダー.md "wikilink") 「[丘を越えて](../Page/丘を越えて.md "wikilink") Aパターン篇」（2015年） - [木村拓哉](../Page/木村拓哉.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）、[OKAMOTO'S](https://ja.wikipedia.org/wiki/OKAMOTO'S "wikilink")、[清水翔太](../Page/清水翔太.md "wikilink")、[矢野顕子](../Page/矢野顕子.md "wikilink")らと共演
-  - [キリンビール](../Page/麒麟麦酒.md "wikilink")「のどごし<生>」（2016年）\[37\]
+  - [キリンビール](../Page/麒麟麦酒.md "wikilink")「のどごし<生>」（2016年）\[31\]
 
 ### コンサート・イベント
 
@@ -502,7 +484,7 @@
 
 | | 年度/放送回                                                                   | | 回 | | 曲目                    | | 出演順 | | 対戦相手                                                  | | 備考        |
 | -------------------------------------------------------------------------- | --- | ----------------------- | ----- | ------------------------------------------------------- | ----------- |
-| 2016年（平成28年）/[第67回](https://ja.wikipedia.org/wiki/第67回NHK紅白歌合戦 "wikilink") | 初   | PUFFY 20周年紅白スペシャル\[38\] | 1/23  | [関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink") | 紅組先行トップバッター |
+| 2016年（平成28年）/[第67回](https://ja.wikipedia.org/wiki/第67回NHK紅白歌合戦 "wikilink") | 初   | PUFFY 20周年紅白スペシャル\[32\] | 1/23  | [関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink") | 紅組先行トップバッター |
 |                                                                            |     |                         |       |                                                         |             |
 
 |-| style="background: \#ccf;"
@@ -529,7 +511,7 @@
 
 #### CD-ROM
 
-  - 「ROM\!PUFFY\!ROM\!」[3](http://www.sonymusic.co.jp/multimedia/puffy/adult.html)
+  - 「ROM\!PUFFY\!ROM\!」[2](http://www.sonymusic.co.jp/multimedia/puffy/adult.html)
       -
         （缶入りTシャツ＋CD-ROM、1997年）
 
@@ -541,9 +523,7 @@
 
 ## 関連項目
 
-  - 曲提供（国内）：[井上陽水](../Page/井上陽水.md "wikilink")、[奥居香](https://ja.wikipedia.org/wiki/奥居香 "wikilink")、[奥田民生](../Page/奥田民生.md "wikilink")、[ギターウルフ](../Page/ギターウルフ.md "wikilink")、[グループ魂](../Page/グループ魂.md "wikilink")、[草野マサムネ](../Page/草野マサムネ.md "wikilink")、[甲本ヒロト](../Page/甲本ヒロト.md "wikilink")、[小西康陽](../Page/小西康陽.md "wikilink")、[斉藤和義](../Page/斉藤和義.md "wikilink")、[サエキけんぞう](../Page/サエキけんぞう.md "wikilink")、[桜井鉄太郎](../Page/COSA_NOSTRA.md "wikilink")、[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")、[志村正彦](https://ja.wikipedia.org/wiki/志村正彦 "wikilink")、[鈴木祥子](../Page/鈴木祥子.md "wikilink")、[SPARKS GO GO](../Page/SPARKS_GO_GO.md "wikilink")、[チバユウスケ](../Page/チバユウスケ.md "wikilink")、[トータス松本](../Page/トータス松本.md "wikilink")、[古田たかし](https://ja.wikipedia.org/wiki/古田たかし "wikilink")、[細美武士](../Page/細美武士.md "wikilink")、[真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink")、[真島昌利](../Page/真島昌利.md "wikilink")、[山中さわお](../Page/山中さわお.md "wikilink")、[横山健](../Page/横山健.md "wikilink")、[吉井和哉](../Page/吉井和哉.md "wikilink")など
-  - 曲提供（海外）：[アンディ・スターマー](https://ja.wikipedia.org/wiki/アンディ・スターマー "wikilink")、[アヴリル・ラヴィーン](../Page/アヴリル・ラヴィーン.md "wikilink")、[ブッチ・ウォーカー](../Page/ブッチ・ウォーカー.md "wikilink")、[デクスター・ホーランド](../Page/デクスター・ホーランド.md "wikilink")など
-  - 番組共演：[相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")、[雨上がり決死隊](../Page/雨上がり決死隊.md "wikilink")、[及川光博](../Page/及川光博.md "wikilink")、[大泉洋](../Page/大泉洋.md "wikilink")、[加藤晴彦](../Page/加藤晴彦.md "wikilink")、[ガレッジセール](../Page/ガレッジセール.md "wikilink")、[菅野美穂](https://ja.wikipedia.org/wiki/菅野美穂 "wikilink")、[篠原ともえ](../Page/篠原ともえ.md "wikilink")、[鈴木紗理奈](../Page/鈴木紗理奈.md "wikilink")、[ピエール瀧](https://ja.wikipedia.org/wiki/ピエール瀧 "wikilink")、[広瀬光治](../Page/広瀬光治.md "wikilink")、[藤井隆](../Page/藤井隆.md "wikilink")、[PENICILLIN](../Page/PENICILLIN.md "wikilink")、[MAX](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")、[ユースケ・サンタマリア](../Page/ユースケ・サンタマリア.md "wikilink")、[YUKIなど](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")
+  - [ポピュラー音楽の音楽家一覧 (日本・グループ)](../Page/ポピュラー音楽の音楽家一覧_\(日本・グループ\).md "wikilink")
 
 ## 外部リンク
 
@@ -557,7 +537,7 @@
   - [PUFFY](https://wmg.jp/puffy/) - [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")
 
   -
-[Category:PUFFY](https://ja.wikipedia.org/wiki/Category:PUFFY "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアーティスツ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:1995年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1995年に結成した音楽グループ "wikilink")
+[Category:PUFFY](https://ja.wikipedia.org/wiki/Category:PUFFY "wikilink") [Category:日本のポップ・アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・アイドルグループ "wikilink") [Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアーティスツ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:1995年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1995年に結成した音楽グループ "wikilink")
 
 1.
 2.
@@ -587,13 +567,7 @@
 26. 2007年10月4日 [日経新聞](https://ja.wikipedia.org/wiki/日経新聞 "wikilink")
 27. [渋谷陽一](../Page/渋谷陽一.md "wikilink")ライナーノーツより
 28. [PUFFY『Splurge』全曲解説(兵庫慎司)](http://www.sonymusic.co.jp/Music/Info/PUFFY/special/liner.html)
-29. [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『MUSIC CLAMP』内の『FACTORY』のコーナーMCの予定もあった[2](http://otogumi.fujitv.co.jp/lovekp/E20070721001.html)
-30. 『[英語でしゃべらナイト](../Page/英語でしゃべらナイト.md "wikilink")』(2006年)
-31. 『[浜ちゃんと\!](../Page/浜ちゃんと!.md "wikilink")』（2004年）吉村由美の出演時
-32. 『[魁\!音楽番付](../Page/魁!音楽番付.md "wikilink")』（2010年）など。
-33. 『[Music Lovers](../Page/Music_Lovers.md "wikilink")』(2007年)出演時
-34. 『[A-Studio](https://ja.wikipedia.org/wiki/A-Studio "wikilink")』(2010年）
-35. スペイン語版Wikipedia「[:es:Marching_Puffy](https://ja.wikipedia.org/wiki/:es:Marching_Puffy "wikilink")」
-36.
-37.
-38. 「アジアの純真」「渚にまつわるエトセトラ」の2曲を披露。
+29. スペイン語版Wikipedia「[:es:Marching_Puffy](https://ja.wikipedia.org/wiki/:es:Marching_Puffy "wikilink")」
+30.
+31.
+32. 「アジアの純真」「渚にまつわるエトセトラ」の2曲を披露。

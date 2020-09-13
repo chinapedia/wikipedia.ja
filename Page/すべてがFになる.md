@@ -431,7 +431,7 @@
 ### キャスト（アニメ）
 
   - 犀川 創平 - [加瀬康之](../Page/加瀬康之.md "wikilink")
-  - 西之園 萌絵 - [種﨑敦美](https://ja.wikipedia.org/wiki/種崎敦美 "wikilink")
+  - 西之園 萌絵 - [種﨑敦美](https://ja.wikipedia.org/wiki/種﨑敦美 "wikilink")
   - 真賀田 四季 - [木戸衣吹](https://ja.wikipedia.org/wiki/木戸衣吹 "wikilink")
   - 新藤 清二 - [咲野俊介](../Page/咲野俊介.md "wikilink")
   - 新藤 裕見子 - [小林さやか](../Page/小林さやか.md "wikilink")

@@ -65,7 +65,7 @@
 <li><a href="../Page/東海林良.md" title="wikilink">東海林良</a>[3]</li>
 <li><a href="../Page/山上万恵美.md" title="wikilink">山上万恵美</a></li>
 <li><a href="../Page/秋尾沙戸子.md" title="wikilink">秋尾沙戸子</a></li>
-<li>中里雅子</li>
+<li><a href="../Page/中里雅子.md" title="wikilink">中里雅子</a></li>
 </ul></td>
 </tr>
 </tbody>

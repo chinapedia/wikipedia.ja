@@ -17,7 +17,7 @@
 
 [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")\[3\]、[サバンナ](../Page/マツダ・サバンナ.md "wikilink")（輸出名RX-3）の後継機として、初代サバンナRX-7となる**SA22C**型サバンナRX-7が発表された。開発コードはX605。
 
-[プラットフォームには](../Page/プラットフォーム_\(自動車\).md "wikilink")[マツダ・SAプラットフォームが用いられ](https://ja.wikipedia.org/wiki/マツダ・Fプラットフォーム#FB "wikilink")、エンジンは[12A型水冷](https://ja.wikipedia.org/wiki/マツダ・12A型エンジン "wikilink")2ローターエンジンの[自然吸気](../Page/自然吸気.md "wikilink")（NA）仕様を搭載していた。性能面では、130ps/7,000rpm、最大トルク16.5kg・m/4,000rpm、パワーウェイトレシオ7.6～7.8kg/psであった。[オイルショック](../Page/オイルショック.md "wikilink")の影響を受け、REAPSと呼ばれる排気ガスを再燃焼させる[サーマルリアクター方式を採用し](https://ja.wikipedia.org/wiki/二次空気導入装置#サーマルリアクター "wikilink")、従来に比べて40%の[燃費](../Page/燃費.md "wikilink")アップを達成した。1979年には希薄燃焼型の12A型エンジンを搭載、サーマルリアクターは触媒に変更され、翌年に外観のマイナーチェンジでテールランプとフロントスカートのデザインを変更しcd値0.34を達成した。[1982年](../Page/1982年.md "wikilink")には6piエンジンに変更を受け、10モード燃費は10.2km/lを達成した。
+[プラットフォームには](../Page/プラットフォーム_\(自動車\).md "wikilink")[マツダ・SAプラットフォームが用いられ](https://ja.wikipedia.org/wiki/マツダ・Fプラットフォーム#FB "wikilink")、エンジンは[12A型水冷](https://ja.wikipedia.org/wiki/マツダ・12A型エンジン "wikilink")2ローターエンジンの[自然吸気](../Page/自然吸気.md "wikilink")（NA）仕様を搭載していた。性能面では、130ps/7,000rpm、最大トルク16.5kg・m/4,000rpm、パワーウェイトレシオ7.6～7.8kg/psであった。[オイルショック](../Page/オイルショック.md "wikilink")の影響を受け、REAPSと呼ばれる排気ガスを再燃焼させる[サーマルリアクター方式を採用し](https://ja.wikipedia.org/wiki/二次空気導入装置#サーマルリアクター "wikilink")、従来に比べて40%の[燃費](../Page/燃費.md "wikilink")アップを達成した。1979年には希薄燃焼型の12A型エンジンを搭載、サーマルリアクターは触媒に変更され、翌年に外観のマイナーチェンジでテールランプとフロントスカートのデザインを変更しcd値0.34を達成した。[1982年](../Page/1982年.md "wikilink")には6PIエンジンに変更を受け、10モード燃費は10.2km/lを達成した。
 
 [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")のマイナーチェンジの際に、日本仕様のみ12A型[ターボエンジンが追加された](../Page/ターボチャージャー.md "wikilink")。ロータリーターボエンジンの搭載は、世界初だった[ルーチェ](../Page/マツダ・ルーチェ.md "wikilink")/[コスモから](../Page/マツダ・コスモ.md "wikilink")1年後となる。日本以外では、[1984年](../Page/1984年.md "wikilink") - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に、[13B型](https://ja.wikipedia.org/wiki/マツダ・13B型エンジン "wikilink") [EGI](../Page/燃料噴射装置.md "wikilink") NA仕様搭載車が販売されている。このマイナーチェンジでは、[ホイール](https://ja.wikipedia.org/wiki/ホイール "wikilink")[ハブ](https://ja.wikipedia.org/wiki/ハブ "wikilink")のボルトピッチ([PCD](https://ja.wikipedia.org/wiki/PCD "wikilink"))が、同業他社の後輪駆動車と同様に改められ、4穴PCD110mmの特殊形状から一般的な4穴PCD114.3mmに変更された。北米モデルでは、新たにVINコードの型式名を採用した為、FB3Sの呼称を用いる様になった。
 
@@ -169,7 +169,7 @@
 [MAZDA_RX-7_MONTE-CARLO_RALLY_00.jpg](https://ja.wikipedia.org/wiki/File:MAZDA_RX-7_MONTE-CARLO_RALLY_00.jpg "fig:MAZDA_RX-7_MONTE-CARLO_RALLY_00.jpg")参戦車（1979年）\]\]
 
   - [1979年](../Page/1979年.md "wikilink")
-      - 2月、[デイトナ24時間レース](../Page/デイトナ24時間レース.md "wikilink")・GTUクラスに参戦し、クラス優勝（[片山義美](../Page/片山義美.md "wikilink")、[寺田陽次郎](../Page/寺田陽次郎.md "wikilink")、[従野孝司](https://ja.wikipedia.org/wiki/従野孝司 "wikilink")）とクラス2位を獲得、総合で5位、6位に入賞\[18\]\[19\]。
+      - 2月、[デイトナ24時間レース](../Page/デイトナ24時間レース.md "wikilink")・GTUクラスに参戦し、クラス優勝（[片山義美](../Page/片山義美.md "wikilink")、[寺田陽次郎](../Page/寺田陽次郎.md "wikilink")、[従野孝司](../Page/従野孝司.md "wikilink")）とクラス2位を獲得、総合で5位、6位に入賞\[18\]\[19\]。
       - 6月、[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")に13Bエンジンを搭載したRX-7・252iで出場するが、予選不通過\[20\]。
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")、[IMSA](../Page/国際モータースポーツ協会.md "wikilink")・GTUクラスでマニュファクチャラーズタイトルを獲得。
   - [1981年](../Page/1981年.md "wikilink")
@@ -211,7 +211,7 @@
 
 ## 車名の由来
 
-「R」が「[ロータリーエンジン](../Page/ロータリーエンジン.md "wikilink")」、「X」が「未来を象徴する記号」を表し、「ロータリー・スペシャリティ」とも表現される。「7」は「マツダ内での車格番号」を意味する。 RXの車名を採用した車種は[2](../Page/マツダ・カペラ.md "wikilink")、[3](../Page/マツダ・サバンナ.md "wikilink")、[4](https://ja.wikipedia.org/wiki/マツダ・RX-4 "wikilink")、[5](../Page/マツダ・コスモ.md "wikilink")（コスモAPの輸出仕様）が存在したが、日本国内向け車種でRXを使用したのは当車が初めてであり、後継の[8も同様となった](../Page/マツダ・RX-8.md "wikilink")。
+「R」が「[ロータリーエンジン](../Page/ロータリーエンジン.md "wikilink")」、「X」が「未来を象徴する記号」を表し、「ロータリー・スペシャリティ」とも表現される。「7」は「マツダ内での車格番号」を意味する。 RXの車名を採用した車種は[2](../Page/マツダ・カペラ.md "wikilink")、[3](../Page/マツダ・サバンナ.md "wikilink")、[4](https://ja.wikipedia.org/wiki/マツダ・RX-4 "wikilink")、[5が存在したが](../Page/マツダ・コスモ.md "wikilink")、日本国内向け車種でRXを使用したのは当車が初めてであり、後継の[8も同様となった](../Page/マツダ・RX-8.md "wikilink")。
 
 ## 脚注
 
@@ -247,7 +247,7 @@
 3.
 4.
 5.
-6.  [初代マツダ「RX-7」オリジナル、持ち主求めて気づけば20年](https://www.esquire.com/jp/car/car-news/a26151586/1979-mazda-rx-7-for-sale-190207/)エクスファイア編集部
+6.  [初代マツダ「RX-7」オリジナル、持ち主求めて気づけば20年](https://www.esquire.com/jp/car/car-news/a26151586/1979-mazda-rx-7-for-sale-190207/)エスクァイア編集部
 7.  [初代マツダ RX-7、希少なグループBラリーカーがオークションに](https://response.jp/article/2017/08/11/298555.html) Response（2017年8月11日）2017年8月16日閲覧
 8.  <http://www.autoexe.co.jp/kijima/column2.html>
 9.

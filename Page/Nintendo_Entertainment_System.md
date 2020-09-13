@@ -31,7 +31,7 @@ NESは豪華版の**Deluxe Set**と廉価版の**Action Set**が発売された\
 
 生産終了後の数年で[レンタルビデオ](../Page/レンタルビデオ.md "wikilink")店や[ガレージセール](https://ja.wikipedia.org/wiki/ガレージセール "wikilink")、[フリーマーケット](https://ja.wikipedia.org/wiki/フリーマーケット "wikilink")周辺に確立したコレクター市場でゲーム愛好家はNESを再評価した。[エミュレーション](https://ja.wikipedia.org/wiki/エミュレーション "wikilink")の発達と併せて1990年代後半はNESにとって第二の黄金時代ともいうべきものだった。2000年以降は中古市場も枯渇し始め、ROMファイルを見つけることももはや難しくなくなった。エミュレーションへの興味の高まりと並行してNESのハードウェア改造ブームも勃興した。 マニアたちはNESを完全に別の筐体に移し変えたり、部品取りや単に面白半分で解剖したりした。コントローラは改造の格好の対象で、[パソコンと](../Page/パーソナルコンピュータ.md "wikilink")[パラレルポート](../Page/パラレルポート.md "wikilink")や[USBを介して接続できるように改造された](../Page/ユニバーサル・シリアル・バス.md "wikilink")。乾電池と液晶画面を 加えて[携帯ゲーム機](https://ja.wikipedia.org/wiki/携帯ゲーム機 "wikilink")に改造する者もいた。
 
-2014年1月27日には任天堂が1990年のアメリカのゲーム大会用に116本のみ作った「**[Nintendo World Championships](https://ja.wikipedia.org/wiki/:en:Nintendo_World_Championships "wikilink")**」というソフトのカートリッジが[eBay](https://ja.wikipedia.org/wiki/eBay "wikilink")に出品され、ラベルが破れていてシリアル番号が見えない状態にも拘らず300件を超える入札の末9万9902ドルで落札された\[8\]。
+2014年1月27日には任天堂が1990年のアメリカのゲーム大会用に116本のみ作った「**[Nintendo World Championships](https://ja.wikipedia.org/wiki/:en:Nintendo_World_Championships "wikilink")**」というソフトのカートリッジが[eBay](https://ja.wikipedia.org/wiki/eBay "wikilink")に出品され、ラベルが破れていてシリアル番号が見えない状態にも拘らず300件を超える入札の末に99,902ドルで落札された\[8\]。
 
 ## ファミコンとの違い
 

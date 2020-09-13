@@ -100,7 +100,8 @@
 
 ## 出典
 
-  -
+  - かつて存在した「CS★日テレ」とは？ <http://home-aki.la.coocan.jp/csntv.htm>
+
 ## 関連項目
 
   - [シーエス日本](https://ja.wikipedia.org/wiki/シーエス日本 "wikilink")

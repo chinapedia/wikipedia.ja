@@ -1,7 +1,7 @@
 > この記事は[ABCお笑い新人グランプリ](https://ja.wikipedia.org/wiki/ABCお笑い新人グランプリ)から翻訳されています。
 
 
-**ABCお笑い新人グランプリ**（エービーシーおわらいしんじんグランプリ）とは、毎年1月に[朝日放送主催で行われていた](../Page/朝日放送テレビ.md "wikilink")、関西の若手[芸人](../Page/芸人.md "wikilink")の登竜門的コンクールの名称。後継番組は、[ABCお笑いグランプリ](https://ja.wikipedia.org/wiki/ABCお笑いグランプリ "wikilink")。
+**ABCお笑い新人グランプリ**（エービーシーおわらいしんじんグランプリ）は、毎年1月に[朝日放送主催で行われていた](../Page/朝日放送テレビ.md "wikilink")、関西の若手[芸人](../Page/芸人.md "wikilink")の登竜門的コンクールの名称。後継番組は、[ABCお笑いグランプリ](https://ja.wikipedia.org/wiki/ABCお笑いグランプリ "wikilink")。
 
 ## 概要と歴史
 
@@ -66,7 +66,7 @@
 | 15\[14\] | [1994年](../Page/1994年.md "wikilink")                    | [ますだおかだ](../Page/ますだおかだ.md "wikilink")                              | [千原兄弟](../Page/千原兄弟.md "wikilink")                                     | [ダックスープ](https://ja.wikipedia.org/wiki/ダックスープ_\(お笑い\) "wikilink")        |
 | 回        | 年                                                       | 最優秀新人賞                                                              | 優秀新人賞                                                                  | 審査員特別賞                                                                   |
 | 16\[15\] | [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") | [海原やすよ・ともこ](../Page/海原やすよ・ともこ.md "wikilink")                        | [ゆんぼー](https://ja.wikipedia.org/wiki/ゆんぼー "wikilink")                  | [誉](../Page/誉_\(お笑いコンビ\).md "wikilink")                                  |
-| 17\[16\] | [1996年](../Page/1996年.md "wikilink")                    | [中川家](../Page/中川家.md "wikilink")                                    | [プラスチックゴーゴー](https://ja.wikipedia.org/wiki/プラスチックゴーゴー "wikilink")      | [美濃・長岡](https://ja.wikipedia.org/wiki/みのなが "wikilink")                   |
+| 17\[16\] | [1996年](../Page/1996年.md "wikilink")                    | [中川家](../Page/中川家.md "wikilink")                                    | [プラスチックゴーゴー](https://ja.wikipedia.org/wiki/プラスチックゴーゴー "wikilink")      | [美濃・長岡](../Page/みのなが.md "wikilink")                                      |
 | 回        | 年                                                       | 最優秀新人賞                                                              | 優秀新人賞                                                                  | 審査員特別賞                                                                   |
 | 18\[17\] | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") | [ハリガネロック](../Page/ハリガネロック.md "wikilink")                            | [2丁拳銃](../Page/2丁拳銃.md "wikilink")                                     | [サバンナ](../Page/サバンナ_\(お笑いコンビ\).md "wikilink")                            |
 | 19\[18\] | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") | [COWCOW](../Page/COWCOW.md "wikilink")                              | [陣内智則](../Page/陣内智則.md "wikilink")                                     | [シャンプーハット](https://ja.wikipedia.org/wiki/シャンプーハット_\(お笑いコンビ\) "wikilink") |
@@ -101,6 +101,7 @@
 | 38 | [2017年](../Page/2017年.md "wikilink") | [霜降り明星](https://ja.wikipedia.org/wiki/霜降り明星 "wikilink")         |
 | 39 | [2018年](../Page/2018年.md "wikilink") | [ファイヤーサンダー](https://ja.wikipedia.org/wiki/ファイヤーサンダー "wikilink") |
 | 40 | [2019年](../Page/2019年.md "wikilink") | [エンペラー](https://ja.wikipedia.org/wiki/エンペラー_\(お笑い\) "wikilink") |
+| 41 | [2020年](../Page/2020年.md "wikilink") | [コウテイ](https://ja.wikipedia.org/wiki/コウテイ "wikilink")           |
 
 ## 過去のおもな審査員
 
@@ -170,7 +171,7 @@
 ## 外部リンク
 
   - [吉本興業](http://www.yoshimoto.co.jp/src/jusyou_abc.html) - ABCお笑い新人グランプリ受賞者一覧
-  - [1](http://web.archive.org/web/20090130061336/http://www.yoshimoto.co.jp/src/jusyou_abc.html)
+  - [1](https://web.archive.org/web/20090130061336/http://www.yoshimoto.co.jp/src/jusyou_abc.html)
 
 [Category:お笑いのコンテスト](https://ja.wikipedia.org/wiki/Category:お笑いのコンテスト "wikilink") [Category:かつて存在した日本の賞](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の賞 "wikilink") [Category:演芸の賞](https://ja.wikipedia.org/wiki/Category:演芸の賞 "wikilink") [Category:朝日放送の歴史](https://ja.wikipedia.org/wiki/Category:朝日放送の歴史 "wikilink") [Category:かつて存在した日本のイベント](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のイベント "wikilink") [Category:日本の放送事業者によるイベント](https://ja.wikipedia.org/wiki/Category:日本の放送事業者によるイベント "wikilink") [Category:朝日放送テレビの特別番組](https://ja.wikipedia.org/wiki/Category:朝日放送テレビの特別番組 "wikilink") [Category:朝日放送のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:朝日放送のバラエティ番組の歴史 "wikilink") [Category:かつて存在したローカルテレビ局の年末年始特番](https://ja.wikipedia.org/wiki/Category:かつて存在したローカルテレビ局の年末年始特番 "wikilink") [Category:1980年開始のイベント](https://ja.wikipedia.org/wiki/Category:1980年開始のイベント "wikilink") [Category:2011年終了のイベント](https://ja.wikipedia.org/wiki/Category:2011年終了のイベント "wikilink") [Category:テレビの演芸番組](https://ja.wikipedia.org/wiki/Category:テレビの演芸番組 "wikilink")
 
@@ -198,7 +199,7 @@
 22. ノミネート：レギュラー、ブラックマヨネーズ、麒麟、西中サーキット、[シュガーライフ](https://ja.wikipedia.org/wiki/シュガーライフ "wikilink")、[せんたくばさみ](../Page/ビーグル38.md "wikilink")、[友近](../Page/友近.md "wikilink")、[NON STYLE](../Page/NON_STYLE.md "wikilink")、[ランチ](https://ja.wikipedia.org/wiki/ランチ "wikilink")、[ババリア](https://ja.wikipedia.org/wiki/ババリア "wikilink")。
 23. ノミネート：チョップリン、せんたくばさみ、笑い飯、なかやまきんに君、[浅越ゴエ](../Page/浅越ゴエ.md "wikilink")、[ダイアン](../Page/ダイアン.md "wikilink")、[千鳥](../Page/千鳥_\(お笑いコンビ\).md "wikilink")。[友近](../Page/友近.md "wikilink")、[天津](https://ja.wikipedia.org/wiki/天津 "wikilink")、[ママ・レンジ](https://ja.wikipedia.org/wiki/ママ・レンジ "wikilink")、[ババリア](https://ja.wikipedia.org/wiki/ババリア "wikilink")。
 24. ノミネート：千鳥、南海キャンディーズ、友近、安田大サーカス、[アジアン](../Page/アジアン.md "wikilink")、[ダイアン](../Page/ダイアン.md "wikilink")、[天然もろこし](https://ja.wikipedia.org/wiki/天然もろこし "wikilink")。[とろサーモン](https://ja.wikipedia.org/wiki/とろサーモン_\(お笑い\) "wikilink")、[NON STYLE](../Page/NON_STYLE.md "wikilink")、[ヘッドライト](https://ja.wikipedia.org/wiki/ヘッドライト "wikilink")。
-25. ノミネート：アジアン、なすなかにし、イシバシハザマ、NON STYLE、[エージェント](../Page/エージェント.md "wikilink")、[スーパーZ](https://ja.wikipedia.org/wiki/スーパーZ "wikilink")、[タカオカナ\!](https://ja.wikipedia.org/wiki/タカオカナ! "wikilink")、[にのうらご](../Page/にのうらご.md "wikilink")、[ネゴシックス](../Page/ネゴシックス.md "wikilink")、[はだか電球](https://ja.wikipedia.org/wiki/はだか電球 "wikilink")。
+25. ノミネート：アジアン、なすなかにし、イシバシハザマ、NON STYLE、[エージェント](../Page/エージェント.md "wikilink")、[スーパーZ](https://ja.wikipedia.org/wiki/スーパーZ "wikilink")、[タカオカナ\!](https://ja.wikipedia.org/wiki/タカオカナ! "wikilink")、[にのうらご](../Page/にのうらご.md "wikilink")、[ネゴシックス](../Page/ネゴシックス.md "wikilink")、[はだか電球](https://ja.wikipedia.org/wiki/はだか電球_\(お笑いコンビ\) "wikilink")。
 26. ノミネート：とろサーモン、にのうらご、天然もろこし、ネゴシックス、[いがわゆり蚊](../Page/いがわゆり蚊.md "wikilink")、[スーパーZ](https://ja.wikipedia.org/wiki/スーパーZ "wikilink")、[田中上阪](https://ja.wikipedia.org/wiki/田中上阪 "wikilink")、[日刊ナンセンス](https://ja.wikipedia.org/wiki/日刊ナンセンス "wikilink")、[ビタミンS](../Page/ビタミンS.md "wikilink")、[ベリー・ベリー](../Page/ベリー・ベリー.md "wikilink")。
 27. ノミネート：鎌鼬、プラスマイナス、いがわゆり蚊、恋愛小説家、[ギャロップ](../Page/ギャロップ_\(お笑い\).md "wikilink")、[銀シャリ](../Page/銀シャリ_\(お笑い\).md "wikilink")、[スマイル](../Page/スマイル_\(お笑いコンビ\).md "wikilink")、[田中上阪](https://ja.wikipedia.org/wiki/田中上阪 "wikilink")、[天竺鼠](../Page/天竺鼠.md "wikilink")、[藤崎マーケット](../Page/藤崎マーケット.md "wikilink")。
 28. ノミネート：ギャロップ、ジャルジャル、銀シャリ、スマイル、[CUB\&MUSI](https://ja.wikipedia.org/wiki/CUB&MUSI "wikilink")、[勝山梶](https://ja.wikipedia.org/wiki/勝山梶 "wikilink")、[天竺鼠](../Page/天竺鼠.md "wikilink")、[のろし](https://ja.wikipedia.org/wiki/のろし "wikilink")、[ヒカリゴケ](../Page/ヒカリゴケ.md "wikilink")、[モンスターエンジン](../Page/モンスターエンジン.md "wikilink")。

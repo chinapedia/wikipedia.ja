@@ -238,9 +238,9 @@ Philip K. Dick Society はディックの作品を管理する団体で、友人
   - ガニメデ支配 *Ganymede Takeover* （1967年）（[レイ・ネルソン](https://ja.wikipedia.org/wiki/レイ・ネルソン "wikilink")との共作）
   - [アンドロイドは電気羊の夢を見るか?](../Page/アンドロイドは電気羊の夢を見るか?.md "wikilink") *Do Androids Dream of Electric Sheep?* （1968年）
   - 銀河の壺なおし（銀河の壺直し） *Galactic Pot-Healer* （1969年）
-  - ユービック *Ubik* （1969年）
+  - [ユービック](../Page/ユービック_\(小説\).md "wikilink") *Ubik* （1969年）
   - 死の迷路（死の迷宮） *A Maze of Death* （1970年）
-  - フロリクス8から来た友人 *Our Friend from Frolix 8* （1970年）
+  - [フロリクス8から来た友人](../Page/フロリクス8から来た友人.md "wikilink") *Our Friends from Frolix 8* （1970年）
   - あなたをつくります（あなたを合成します） *We Can Build You* （1972年）
   - 流れよわが涙、と警官は言った（[流れよ我が涙、と警官は言った](https://ja.wikipedia.org/wiki/流れよ我が涙、と警官は言った "wikilink")） *Flow my Tears, the Policeman Said* （1974年）
   - 怒りの神 *Deus Irae* （1976年）（[ロジャー・ゼラズニイ](../Page/ロジャー・ゼラズニイ.md "wikilink")との共作）

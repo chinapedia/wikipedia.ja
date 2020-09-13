@@ -58,8 +58,8 @@ ITビジョンではテレビ番組との連動の有無、データの受信方
 
   - 吉本一夫、広井幹也、堀川将幸「[インターテキスト方式の双方向テレビシステムのユーザインタフェースとサービス](http://www.toshiba.co.jp/tech/review/1996/10/f01/index_j.htm)」　『[東芝レビュー](http://www.toshiba.co.jp/tech/review/1996/10/index_j.htm)』　VOL.51、東芝、1996年。
   - 「[東芝ITビジョンモジネットチューナー　TT-X3(生産終了製品)](http://www.toshiba.co.jp/digital/webcata/av/tt_x3.htm)」 東芝。
-  - Internet Archive Wayback Machine「[Searched for <http://www.mserve.co.jp>](http://web.archive.org/web/*/http://www.mserve.co.jp)（メディアサーブ）」 [インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")。
-  - Internet Archive Wayback Machine「[Searched for <http://www.itvision.gr.jp>](http://web.archive.org/web/*/http://www.itvision.gr.jp) （アイティービジョン推進協議会）」インターネット・アーカイブ。
+  - Internet Archive Wayback Machine「[Searched for <http://www.mserve.co.jp>](https://web.archive.org/web/*/http://www.mserve.co.jp)（メディアサーブ）」 [インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")。
+  - Internet Archive Wayback Machine「[Searched for <http://www.itvision.gr.jp>](https://web.archive.org/web/*/http://www.itvision.gr.jp) （アイティービジョン推進協議会）」インターネット・アーカイブ。
 
 ## 関連項目
 

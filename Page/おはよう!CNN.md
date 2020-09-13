@@ -22,7 +22,7 @@
   - 1984年4月2日 - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[9月25日](../Page/9月25日.md "wikilink") 6:30 - 7:00
   - 1987年[9月28日](../Page/9月28日.md "wikilink") - 1989年9月29日 6:45 - 7:00
 
-6:30開始時代は[秋田放送](../Page/秋田放送.md "wikilink")や[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")、[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")でもネットされていた。これらは[NNNのみに加盟していたため](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")、6:45からの「[NNN朝のニュース](../Page/NNN朝のニュース.md "wikilink")」に配慮した飛び降りポイントが、6:43に用意されていた。なお南海放送・四国放送は「ニュースフレッシュ」開始後はそのままニュースフレッシュを番販扱いでネット受けした。
+6:30開始時代は[秋田放送](../Page/秋田放送.md "wikilink")や[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")、[四国放送](../Page/四国放送.md "wikilink")でもネットされていた。これらは[NNNのみに加盟していたため](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")、6:45からの「[NNN朝のニュース](../Page/NNN朝のニュース.md "wikilink")」に配慮した飛び降りポイントが、6:43に用意されていた。なお南海放送・四国放送は「ニュースフレッシュ」開始後はそのままニュースフレッシュを番販扱いでネット受けした。
 
 ## 主なキャスター
 

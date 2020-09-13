@@ -1,19 +1,21 @@
 > この記事は[シャ乱Q](https://ja.wikipedia.org/wiki/シャ乱Q)から翻訳されています。
 
 
-**シャ乱Q**（シャらんキュー）は、[大阪出身の](../Page/大阪府.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。
+**シャ乱Q**（しゃらんキュー）は、[大阪出身の](../Page/大阪府.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。
 
-[所属事務所は](../Page/芸能事務所.md "wikilink")[アップフロントプロモーション](../Page/アップフロントプロモーション.md "wikilink")（旧:アップフロントエージェンシー）だったが、現在シャ乱Qとしては、アップフロントプロモーションの親会社[アップフロントグループ](../Page/アップフロントグループ.md "wikilink")の[社内カンパニー](../Page/社内カンパニー.md "wikilink")アップフロントエージェンシー社（アップフロントプロモーションとは別会社を前身とする）に、また各メンバーはそれぞれ別の系列事務所に所属している。レコード会社は、活動休止前までの所属は[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")（旧:BMGビクター、現:[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")）だったが、現在はアップフロントグループの[機能子会社](https://ja.wikipedia.org/wiki/機能子会社 "wikilink")である[アップフロントワークス](../Page/アップフロントワークス.md "wikilink")の[zetimaレーベルに所属している](https://ja.wikipedia.org/wiki/アップフロントワークス#zetima "wikilink")。
+[所属事務所は](../Page/芸能事務所.md "wikilink")[アップフロントプロモーション](../Page/アップフロントプロモーション.md "wikilink")（旧:アップフロントエージェンシー）だったが、現在シャ乱Qとしては、アップフロントプロモーションの親会社[アップフロントグループ](../Page/アップフロントグループ.md "wikilink")の[社内カンパニー](../Page/社内カンパニー.md "wikilink")アップフロントエージェンシー社（アップフロントプロモーションとは別会社を前身とする）に、また各メンバーはそれぞれ別の系列事務所に所属している。
+
+レコード会社は、活動休止前までの所属は[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")（旧:BMGビクター、現:[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")/ソニー・ミュージックレーベルズ）だったが、活動再開後はアップフロントグループの[機能子会社](https://ja.wikipedia.org/wiki/機能子会社 "wikilink")である[アップフロントワークス](../Page/アップフロントワークス.md "wikilink")の[zetimaレーベルに所属している](https://ja.wikipedia.org/wiki/アップフロントワークス#zetima "wikilink")。
 
 ## メンバー
 
-  - **[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")（[1968年](../Page/1968年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink") - ）<small>（歳）</small>**
+  - **[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")（旧名・つんく、[1968年](../Page/1968年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink") - ）<small>（歳）</small>**
       - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")、[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")担当。
   - **[はたけ](../Page/はたけ.md "wikilink")（[1968年](../Page/1968年.md "wikilink")[8月17日](../Page/8月17日.md "wikilink") - ）<small>（歳）</small>**
       - [ギター](../Page/ギター.md "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、作曲担当。[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")。
   - **[まこと](../Page/まこと_\(ミュージシャン\).md "wikilink")（[1968年](../Page/1968年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink") - ）<small>（歳）</small>**
       - [ドラムス](../Page/ドラムセット.md "wikilink")、作詞担当。
-  - **[たいせい](../Page/たいせい.md "wikilink")（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[11月29日](../Page/11月29日.md "wikilink") - ）<small>（歳）</small>**
+  - **[たいせい](../Page/たいせい.md "wikilink")（旧名・たいせー、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[11月29日](../Page/11月29日.md "wikilink") - ）<small>（歳）</small>**
       - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")、作曲担当。
 
 ### 旧メンバー
@@ -24,7 +26,7 @@
 ## 来歴
 
   - [1988年](../Page/1988年.md "wikilink")
-    12月、[近畿大学](https://ja.wikipedia.org/wiki/近畿大学 "wikilink")の学生を中心とした5人で結成\[1\]。「シャ乱Q」の名前は、メンバーが所属していた[アマチュアバンド](https://ja.wikipedia.org/wiki/アマチュアバンド "wikilink")の名前「**シャッターズ**」（しゅう、まことが所属）「**RAM（乱）**」（つんく、しゅう、たいせーが所属）「**QP（キューピー）**」（はたけが所属）を寄せ集めたもの\[2\]。当初は「シャ乱P」という名前にする予定だったが、当時活躍していた女性お笑いコンビ・[おきゃんぴー](../Page/おきゃんぴー.md "wikilink")を連想させる、として最終的に「シャ乱Q」となった。
+    12月、[近畿大学](https://ja.wikipedia.org/wiki/近畿大学 "wikilink")の学生を中心とした5人で結成\[1\]。「シャ乱Q」の名前は、メンバーが所属していた[アマチュアバンド](https://ja.wikipedia.org/wiki/アマチュアバンド "wikilink")の名前「**シャッターズ**」（しゅう、まことが所属）「**RAM（乱）**」（つんく、しゅう、たいせーが所属）「**QP（キューピー）**」（はたけが所属）を寄せ集めたもの\[2\]。当初は「シャ乱P」という名前にする予定だったが、当時活躍していた女性お笑いコンビ・[おきゃんぴー](../Page/おきゃんぴー.md "wikilink")を連想させるとして「シャ乱Q」となった。
 
 <!-- end list -->
 
@@ -39,24 +41,27 @@
 <!-- end list -->
 
   - [1992年](../Page/1992年.md "wikilink")
-    7月、メジャーデビュー。このとき所属事務所を巡って多くの[芸能事務所](../Page/芸能事務所.md "wikilink")が争奪戦を繰り広げたが、最終的にアップフロントエージェンシー（現・アップフロントプロモーション）が選ばれた。後につんくが語ったところによると、この選択の際には「**[KAN](../Page/KAN.md "wikilink")（1991年の[第33回日本レコード大賞](https://ja.wikipedia.org/wiki/第33回日本レコード大賞 "wikilink")受賞者）が所属している**」ことが決め手となったという。しかし、デビュー後長らく低迷期が続いた。
+    7月にメジャーデビュー。所属事務所を巡って多くの[芸能事務所](../Page/芸能事務所.md "wikilink")が争奪戦を繰り広げたが、最終的にアップフロントエージェンシーが選ばれた。後につんくが語ったところによると、アップフロント入りには「[KAN](../Page/KAN.md "wikilink")（1991年の[第33回日本レコード大賞](https://ja.wikipedia.org/wiki/第33回日本レコード大賞 "wikilink")受賞者）が所属している」ことが決め手となったという。しかし、デビュー後長らく低迷期が続いた。
 
 <!-- end list -->
 
   - [1994年](../Page/1994年.md "wikilink")
-    「これが売れなければ最後」と意気込んだ「[上・京・物・語](../Page/上・京・物・語.md "wikilink")」は、ラジオへの必死の売り込みが功を奏し、スマッシュヒット。同年の「[シングルベッド](../Page/シングルベッド.md "wikilink")」がロングセラーとなりミリオンセールスを記録。ただ地元・関西の[ABCラジオ](https://ja.wikipedia.org/wiki/ABCラジオ "wikilink")、[OBCの番組では](../Page/大阪放送.md "wikilink")「シングルベッド」以前の楽曲は一切オンエアされなかった。これはつんくが「[MBSヤングタウン](../Page/MBSヤングタウン.md "wikilink")」でパーソナリティーを務めていたためで、また[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")でパーソナリティーをやっているアーティストの楽曲はABC、OBCでは排除されるという暗黙の了解があったためである。一方関西圏のFM局では（後にシャ乱Qの楽曲をオンエアしなくなる[FM802](../Page/FM802.md "wikilink")を含めて）オンエアされていた。
+    「これが売れなければ最後」と意気込んだ「[上・京・物・語](../Page/上・京・物・語.md "wikilink")」が、ラジオへの必死の売り込みが功を奏し、スマッシュヒット。同年の「[シングルベッド](../Page/シングルベッド.md "wikilink")」がロングセラーとなりミリオンセールスを記録。地元・関西の[ABCラジオ](https://ja.wikipedia.org/wiki/ABCラジオ "wikilink")、[OBCの番組では](../Page/大阪放送.md "wikilink")「シングルベッド」以前の楽曲は一切オンエアされなかったが、これはつんくが「[MBSヤングタウン](../Page/MBSヤングタウン.md "wikilink")」でパーソナリティーを務めていたためで、また[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")でパーソナリティーをやっているアーティストの楽曲はABC、OBCでは排除されるという暗黙の了解があったためである。一方関西圏のFM局では（後にシャ乱Qの楽曲をオンエアしなくなる[FM802](../Page/FM802.md "wikilink")を含めて）オンエアされていた。
 
 <!-- end list -->
 
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")
-    ミリオン作「[ズルい女](../Page/ズルい女.md "wikilink")」で大ブレイク。関西発バンドの第一人者となった。「[My Babe 君が眠るまで](../Page/My_Babe_君が眠るまで.md "wikilink")」、アルバム「[勝負師](../Page/勝負師.md "wikilink")(ギャンブラー)」もミリオンを記録（シャ乱Qの[アルバム](../Page/アルバム.md "wikilink")としては、初のミリオンヒット）。[第46回NHK紅白歌合戦](../Page/第46回NHK紅白歌合戦.md "wikilink")にトップバッターとして初出場。ライブや音楽番組への出演を精力的に行い、軽妙なトークも受けた。例えば、[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")」では、つんくが「**[浜田雅功](../Page/浜田雅功.md "wikilink")に頭をどつかれると売れる法則**」を提唱した。また、ややアイドル的な振る舞いもすることがあり、つんくが当時からアイドルに高い関心を示していたことを伺わせる\[3\]。）
+    ミリオン作「[ズルい女](../Page/ズルい女.md "wikilink")」で大ブレイク。関西発バンドの第一人者となった。「[My Babe 君が眠るまで](../Page/My_Babe_君が眠るまで.md "wikilink")」、アルバム「[勝負師](../Page/勝負師.md "wikilink")(ギャンブラー)」もミリオンを記録（シャ乱Qの[アルバム](../Page/アルバム.md "wikilink")としては、初のミリオンヒット）。[第46回NHK紅白歌合戦](../Page/第46回NHK紅白歌合戦.md "wikilink")にトップバッターとして初出場。ライブや音楽番組への出演を精力的に行い、軽妙なトークが受け、[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")」では、つんくが「**[浜田雅功](../Page/浜田雅功.md "wikilink")に頭をどつかれると売れる法則**」を提唱した。また、ややアイドル的な振る舞いもすることがあり、つんくが当時からアイドルに高い関心を示していたことを伺わせる\[3\]）。「[全日本有線放送大賞](../Page/全日本有線放送大賞.md "wikilink")」グランプリを受賞。
+
+<!-- end list -->
+
   - [1996年](../Page/1996年.md "wikilink")
-    「[いいわけ](../Page/いいわけ.md "wikilink")」がミリオンヒット。アルバム「[シングルベスト10 おまけつき](https://ja.wikipedia.org/wiki/シングルベスト10★おまけつき★ "wikilink")」もミリオンヒットを記録。シングル「[涙の影](../Page/涙の影.md "wikilink")」、アルバム「[GOLDEN Q](../Page/GOLDEN_Q.md "wikilink")」で[オリコン週間](../Page/オリコンチャート.md "wikilink")1位を獲得。8月にライブツアー'96夏の乱「桃色頂上作戦」を開催。（内[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")2日連続、[日本武道館](../Page/日本武道館.md "wikilink")5日公演）※他のライブツアー含めると年間通して8日間の[日本武道館](../Page/日本武道館.md "wikilink")公演を開催。10月には、話題となっていた派手なステージ衣装（約2500万円）の盗難にあう。12月、「[有線大賞](../Page/全日本有線放送大賞.md "wikilink")」を受賞し、「[第47回NHK紅白歌合戦](../Page/第47回NHK紅白歌合戦.md "wikilink")」に2回目の出場を果たした。なお、この頃、毎春5月に行なわれた[日本武道館](../Page/日本武道館.md "wikilink")でのライブは充実しており特筆に値する。（一部はビデオ発売されている）
+    「[いいわけ](../Page/いいわけ.md "wikilink")」がミリオンヒット。アルバム「[シングルベスト10 おまけつき](https://ja.wikipedia.org/wiki/シングルベスト10★おまけつき★ "wikilink")」もミリオンヒットを記録。シングル「[涙の影](../Page/涙の影.md "wikilink")」、アルバム「[GOLDEN Q](../Page/GOLDEN_Q.md "wikilink")」で[オリコン週間](../Page/オリコンチャート.md "wikilink")1位を獲得。8月にライブツアー'96夏の乱「桃色頂上作戦」を開催。他のライブツアー含めると年間通して8日間の日本武道館公演を開催した。10月には話題となっていた派手なステージ衣装（約2,500万円）が盗難にあう。2年連続で「全日本有線放送大賞」グランプリを受賞し、「[第47回NHK紅白歌合戦](../Page/第47回NHK紅白歌合戦.md "wikilink")」に2年連続出場。
 
 <!-- end list -->
 
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")
-    3月に[大阪ドーム](../Page/大阪ドーム.md "wikilink")(現京セラドーム大阪)にて、[大阪ドーム](../Page/大阪ドーム.md "wikilink")完成記念の「シャ乱Q凱旋コンサート」を開催した。メンバーのしゅう、たいせー、まことによるユニット「[スーパー\!?テンションズ](../Page/スーパー!?テンションズ.md "wikilink")」の結成。主演映画「[シャ乱Qの演歌の花道](../Page/シャ乱Qの演歌の花道.md "wikilink")」の公開。「[紅白歌合戦](../Page/第46回NHK紅白歌合戦.md "wikilink")」に3回目の出場（「[パワーソング](../Page/パワーソング.md "wikilink")」）。また、オーディション番組[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")にてプロデュース活動を開始した。
+    3月に[大阪ドーム](../Page/大阪ドーム.md "wikilink")完成記念「シャ乱Q凱旋コンサート」を開催した。メンバーのしゅう、たいせー、まことがユニット「[スーパー\!?テンションズ](../Page/スーパー!?テンションズ.md "wikilink")」を結成し、CDリリースやテレビ出演などの展開を行った。主演映画「[シャ乱Qの演歌の花道](../Page/シャ乱Qの演歌の花道.md "wikilink")」が公開され、「[紅白歌合戦](../Page/第46回NHK紅白歌合戦.md "wikilink")」に3回目の出場（「[パワーソング](../Page/パワーソング.md "wikilink")」）。また、オーディション番組[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")にてプロデュース活動を開始した。
 
 <!-- end list -->
 
@@ -66,27 +71,27 @@
 <!-- end list -->
 
   - [1999年](../Page/1999年.md "wikilink")
-    しゅうの事件を受け、「[君は魔術士?](../Page/君は魔術士?.md "wikilink")」のリリースと10周年記念ライブの後、活動を自粛。活動休止期間中、メンバーは主にソロ活動を行った。つんくはソロ歌手として活動。はたけは[HOUND DOGの](../Page/HOUND_DOG.md "wikilink")[鮫島秀樹](../Page/鮫島秀樹.md "wikilink")らとともにRose of Roseを結成。たいせーとまことは、ボーカルに[大西さちこ](https://ja.wikipedia.org/wiki/大西さちこ "wikilink")を迎え、[east cloudを結成](https://ja.wikipedia.org/wiki/east_cloud "wikilink")。
+    しゅうの事件を受け、「[君は魔術士?](../Page/君は魔術士?.md "wikilink")」のリリースと10周年記念ライブ後に活動を自粛し、メンバーは主にソロ活動を行った。つんくはソロ歌手として活動。はたけは[HOUND DOGの](../Page/HOUND_DOG.md "wikilink")[鮫島秀樹](../Page/鮫島秀樹.md "wikilink")らとともにRose of Roseを結成。たいせーとまことは、ボーカルに[大西さちこ](https://ja.wikipedia.org/wiki/大西さちこ "wikilink")を迎え、[east cloudを結成](https://ja.wikipedia.org/wiki/east_cloud "wikilink")。
 
 <!-- end list -->
 
   - [2000年](../Page/2000年.md "wikilink")
-    3月、「ラーメン大好き小池さんの唄」のリメイクである「[新・ラーメン大好き小池さんの唄](../Page/新・ラーメン大好き小池さんの唄.md "wikilink")」をリリースし活動再開。8月にはライブも開催した。しかし、アルバム制作中に音楽の方向性に違いが生じ、12月、NHKの音楽番組に生出演した際に「休憩」と称した活動無期限休止を発表した。それ以来、活動再開後を含んで[TVガイド](https://ja.wikipedia.org/wiki/TVガイド "wikilink")タレント名鑑は[少年隊](../Page/少年隊.md "wikilink")同様、グループとしてではなく、個々で表記している。
+    3月、「ラーメン大好き小池さんの唄」のリメイクである「[新・ラーメン大好き小池さんの唄](../Page/新・ラーメン大好き小池さんの唄.md "wikilink")」をリリースし活動再開し、8月にはライブも開催した。しかし、アルバム制作中に音楽の方向性に違いが生じ、12月に「休憩」と称した活動無期限休止を発表した。それ以来、活動再開後を含んで[TVガイド](https://ja.wikipedia.org/wiki/TVガイド "wikilink")タレント名鑑は[少年隊](../Page/少年隊.md "wikilink")同様、グループとしてではなく、個々で表記している。
 
 <!-- end list -->
 
   - [2001年](../Page/2001年.md "wikilink") - [2004年](../Page/2004年.md "wikilink")
-    つんく♂は[ハロー\!プロジェクトのプロデュース活動や](https://ja.wikipedia.org/wiki/ハロプロ "wikilink")、[THE つんくビ♂トを結成したり](../Page/THE_つんくビ♂ト.md "wikilink")、セルフカバー曲を中心としたソロ活動を展開した。はたけはギタリストおよび音楽会社の社長として活動し、まことはハロプロのコンサートの司会、たいせーはタレントとして、それぞれソロ活動を行った。
+    つんくは[ハロー\!プロジェクトのプロデュース活動や](https://ja.wikipedia.org/wiki/ハロプロ "wikilink")、[THE つんくビ♂トを結成したり](../Page/THE_つんくビ♂ト.md "wikilink")、セルフカバー曲を中心としたソロ活動を展開した（2001年に芸能活動の際のクレジットを「つんく♂」に改名）。はたけはギタリストやプロデュース業を継続し、まことはドラマー活動と並行してハロプロのコンサートの司会などの活動、たいせーはタレントとして、それぞれソロ活動を行った。
 
 <!-- end list -->
 
   - [2005年](../Page/2005年.md "wikilink")
-    12月、つんく♂主催のクリスマスディナーショーにて、つんくから「来年 秋頃に再始動」と活動再開が発表された。事務所の先輩である[堀内孝雄](../Page/堀内孝雄.md "wikilink")から促され、メンバーや関係者との話し合いで決意したという。
+    12月、つんく♂のクリスマスディナーショーにて、つんくから「来年秋頃に再始動」と活動再開が発表された。事務所の先輩である[堀内孝雄](../Page/堀内孝雄.md "wikilink")から促され、メンバーや関係者との話し合いで決意したという。
 
 <!-- end list -->
 
   - [2006年](../Page/2006年.md "wikilink")
-    4月2日、[エプソン 品川アクアスタジアムにて行われたイルカショーにて](https://ja.wikipedia.org/wiki/エプソン_アクアパーク品川 "wikilink")、同施設の1周年の祝賀イベントにメンバー全員が集結した。記者会見を開き、シャ乱Qの活動再開の発表に加えて、たいせーが『たいせい』に改名することを発表し、他のメンバーを驚かせた。同月放送の「HEY\!HEY\!HEY\! MUSIC CHAMP」にて、活動休止後初のテレビ出演を果たした。9月には[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")（[ABC放送](https://ja.wikipedia.org/wiki/ABC放送 "wikilink")）「[探偵\!ナイトスクープ](../Page/探偵!ナイトスクープ.md "wikilink")」や「[めちゃイケ](https://ja.wikipedia.org/wiki/めちゃイケ "wikilink")」、ネットでブレイクした[養老の星☆幸ちゃん](../Page/養老の星☆幸ちゃん.md "wikilink")と共演した。10月には約6年ぶりとなるライブを敢行し、11月にはモーニング娘。のカバー曲を活動再開後初のシングルとして発表。12月にはディナーショーを行った。
+    4月2日、[エプソン 品川アクアスタジアムにて行われたイルカショーにて](https://ja.wikipedia.org/wiki/エプソン_アクアパーク品川 "wikilink")、同施設の1周年の祝賀イベントにメンバー全員が集結した。記者会見を開き、シャ乱Qの活動再開の発表に加えて、たいせーが「たいせい」に改名することを発表した。同月放送の「HEY\!HEY\!HEY\! MUSIC CHAMP」にて活動休止後初のテレビ出演。10月には約6年ぶりとなるライブを敢行し、11月にはモーニング娘。のカバー曲を活動再開後初のシングルとして発表。12月にはディナーショーを行った。
 
 <!-- end list -->
 
@@ -96,12 +101,12 @@
 <!-- end list -->
 
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
-    8月にディナーショーを開催。同年12月、DVDつきベストアルバムを発表し、[日本武道館](../Page/日本武道館.md "wikilink")にて約6時間にもおよぶ「シャ乱Q結成20周年記念フェスティバル」を開催した。KAN、[黒澤健一](https://ja.wikipedia.org/wiki/黒澤健一 "wikilink")、[森高千里](../Page/森高千里.md "wikilink")、[五木ひろし](../Page/五木ひろし.md "wikilink")、[ハロプロ](https://ja.wikipedia.org/wiki/ハロプロ "wikilink")などつんくやシャ乱Qゆかりのゲスト総勢25組59人が応援に駆けつけ、ライブをもりあげた。また、音源化未定の新曲「愛するということ」を発表した。
+    8月にディナーショーを開催。同年12月、DVDつきベストアルバムを発表し、日本武道館にて約6時間にもおよぶ「シャ乱Q結成20周年記念フェスティバル」を開催した。KAN、[黒澤健一](https://ja.wikipedia.org/wiki/黒澤健一 "wikilink")、[森高千里](../Page/森高千里.md "wikilink")、[五木ひろし](../Page/五木ひろし.md "wikilink")、[ハロプロ](https://ja.wikipedia.org/wiki/ハロプロ "wikilink")などゆかりのゲスト総勢25組59人が応援に駆けつけた。また、音源化未定の新曲「愛するということ」を発表した。
 
 <!-- end list -->
 
   - [2009年](../Page/2009年.md "wikilink")
-    結成20周年目。前年のライブMCで、つんく♂が本年の活動活発化をにおわせていた。しかし、3月に公式ファンクラブ「CLUB QUE」が、つんく♂独自のファンクラブ「天然音泉」の立ち上げに伴い解散した。12月、[庄司智春](../Page/庄司智春.md "wikilink")と[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")の結婚式にてメンバー全員が久々に顔を合わせた。
+    結成20周年。前年のライブMCで、つんく♂が本年の活動活発化をにおわせていたが、3月に公式ファンクラブ「CLUB QUE」が、つんく♂独自のファンクラブ「天然音泉」の立ち上げに伴い解散した。12月、[庄司智春](../Page/庄司智春.md "wikilink")と[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")の結婚式にてメンバー全員が久々に顔を合わせた。
 
 <!-- end list -->
 
@@ -111,7 +116,7 @@
 <!-- end list -->
 
   - [2011年](../Page/2011年.md "wikilink")
-    [東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")が起きたことを受けて、久しぶりにメンバー4人が集結し、当バンド含む所属事務所タレントによるプロジェクトでKANの「[愛は勝つ](../Page/愛は勝つ.md "wikilink")」を歌った。この曲は配信限定楽曲でメンバー全員が参加したものであり、はたけのみ、ボーカルではなくギターを演奏している。
+    [東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")が起きたことを受けて、久しぶりにメンバー4人が集結し、当バンド含むアップフロントグループ所属タレントによるプロジェクトでKANの「[愛は勝つ](../Page/愛は勝つ.md "wikilink")」を歌った。この曲は配信限定楽曲でメンバー全員が参加したものであり、はたけのみボーカルではなくギターを演奏している。
 
 <!-- end list -->
 
@@ -211,7 +216,7 @@
 <td><p>1993年<a href="../Page/5月8日.md" title="wikilink">5月8日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/友達はいますか" title="wikilink">友達はいますか</a></strong></p></td>
 <td><p>Hey! MR.おぼっちゃん(バブル崩壊編)</p></td>
-<td><p>テレビ東京系「<a href="../Page/スーパーマリオクラブ_(テレビ番組).md" title="wikilink">スーパーマリオクラブ</a>」オープニングテーマ</p></td>
+<td><p>テレビ東京系「<a href="../Page/スーパーマリオクラブ_(テレビ番組).md" title="wikilink">スーパーマリオクラブ</a>」後期オープニングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>

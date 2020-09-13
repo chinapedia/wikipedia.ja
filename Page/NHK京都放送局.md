@@ -30,7 +30,7 @@
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）3月27日 - FM放送開始。大阪放送局の大電力化に伴い、ラジオ第1放送と第2放送の廃止が計画されていたため、府域FM放送用に新しい呼出符号（近畿圏の他局のパターンにそろえたJOTP-FM）が割り当てられ放送を開始した\[4\]が、計画変更によりラジオ第1放送の存続が決まったため、1972年（昭和47年）、[沖縄復帰により呼出符号の変更を余儀なくされた](../Page/沖縄返還.md "wikilink")[前橋放送局に](../Page/NHK前橋放送局.md "wikilink")「[JOTP](https://ja.wikipedia.org/wiki/日本の放送局所の呼出符号#JO＊P "wikilink")」を譲り、現在のJOOK-FMとなった\[5\]。
   - [1972年](../Page/1972年.md "wikilink")（昭和47年）3月13日 - 総合テレビ（[アナログ](https://ja.wikipedia.org/wiki/NTSC#日本における実装_\(NTSC-J\) "wikilink")）のローカル放送（呼出符号:JOOK-TV、[UHF波](../Page/極超短波.md "wikilink")）開始\[6\]。
   - [1973年](../Page/1973年.md "wikilink")（昭和48年）3月20日 - ラジオ第2放送廃止\[7\]。
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）8月 - [京田辺市](https://ja.wikipedia.org/wiki/京田辺市 "wikilink")に学研都市報道室を開設。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）8月 - [京田辺市](../Page/京田辺市.md "wikilink")に学研都市報道室を開設。
   - [2004年](../Page/2004年.md "wikilink")（平成16年）7月 - [舞鶴市](../Page/舞鶴市.md "wikilink")に丹後舞鶴報道室を開設。
   - [2005年](../Page/2005年.md "wikilink")（平成17年）4月1日 - デジタル総合テレビ（呼出符号：JOOK-DTV）開始\[8\]。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）7月24日 - アナログ放送終了。
@@ -171,7 +171,7 @@
 ## 支局
 
   - 学研都市
-      - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）開設。[京田辺市](https://ja.wikipedia.org/wiki/京田辺市 "wikilink")に所在。なお、同報道室からリポートなどを中継で伝えることから、スタジオの設備があるものと思われる。
+      - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）開設。[京田辺市](../Page/京田辺市.md "wikilink")に所在。なお、同報道室からリポートなどを中継で伝えることから、スタジオの設備があるものと思われる。
   - 丹後舞鶴
       - [2004年](../Page/2004年.md "wikilink")（平成16年）7月開設。[舞鶴市](../Page/舞鶴市.md "wikilink")に所在。同市ほか府北部の取材拠点として利用されている\[18\]。
   - 福知山
@@ -181,7 +181,7 @@
   - [京都駅](https://ja.wikipedia.org/wiki/京都駅 "wikilink")（[京都コンピュータ学院](../Page/京都コンピュータ学院.md "wikilink") 京都駅前校）
       - SD（ハイビジョン非対応）
   - [四条大橋](../Page/四条大橋.md "wikilink")付近
-  - 京都市[右京区](../Page/右京区.md "wikilink")
+  - [嵐山](../Page/嵐山.md "wikilink")[（](../Page/右京区.md "wikilink")[嵯峨美術大学](../Page/嵯峨美術大学.md "wikilink") 本部キャンパス）
 
 <!-- end list -->
 
@@ -340,7 +340,7 @@
 
   -
   -
-[Category:NHK京都](https://ja.wikipedia.org/wiki/Category:NHK京都 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:京都府の放送送信所](https://ja.wikipedia.org/wiki/Category:京都府の放送送信所 "wikilink") [Category:NHKの放送送信施設](https://ja.wikipedia.org/wiki/Category:NHKの放送送信施設 "wikilink") [Category:近畿地方のテレビ局](https://ja.wikipedia.org/wiki/Category:近畿地方のテレビ局 "wikilink") [Category:近畿地方のラジオ局](https://ja.wikipedia.org/wiki/Category:近畿地方のラジオ局 "wikilink") [Category:中京区の建築物](https://ja.wikipedia.org/wiki/Category:中京区の建築物 "wikilink") [Category:上京区の建築物](https://ja.wikipedia.org/wiki/Category:上京区の建築物 "wikilink") [Category:上京区の歴史](https://ja.wikipedia.org/wiki/Category:上京区の歴史 "wikilink")
+[Category:NHK京都](https://ja.wikipedia.org/wiki/Category:NHK京都 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:京都府のマスメディア](https://ja.wikipedia.org/wiki/Category:京都府のマスメディア "wikilink") [Category:京都府の放送送信所](https://ja.wikipedia.org/wiki/Category:京都府の放送送信所 "wikilink") [Category:NHKの放送送信施設](https://ja.wikipedia.org/wiki/Category:NHKの放送送信施設 "wikilink") [Category:近畿地方のテレビ局](https://ja.wikipedia.org/wiki/Category:近畿地方のテレビ局 "wikilink") [Category:近畿地方のラジオ局](https://ja.wikipedia.org/wiki/Category:近畿地方のラジオ局 "wikilink") [Category:中京区の建築物](https://ja.wikipedia.org/wiki/Category:中京区の建築物 "wikilink") [Category:上京区の建築物](https://ja.wikipedia.org/wiki/Category:上京区の建築物 "wikilink") [Category:上京区の歴史](https://ja.wikipedia.org/wiki/Category:上京区の歴史 "wikilink")
 
 1.  [新会館建設について](http://www.nhk.or.jp/kyoto/station_info/newhall/info100624.html) - NHK京都放送局（2010年6月24日付、2011年2月10日閲覧）
 2.  [ＮＨＫの旧京都放送会館は大京に売却、マンションに建て替え](https://www.constnews.com/?p=25513) 建設ニュース 2016年10月25日、2017年10月20日閲覧。

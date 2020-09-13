@@ -14,6 +14,7 @@
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月1日 - スカパー\!e2（現・スカパー\!）にて「**[日テレG+](../Page/日テレジータス.md "wikilink")**」をハイビジョン化し、チャンネル名称を「**日テレG+ HD**」に変更。
   - [2011年](../Page/2011年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink") - [ひかりTV](https://ja.wikipedia.org/wiki/ひかりTV "wikilink")にて「**日テレプラスHD**」のハイビジョン配信を開始。
   - [2012年](../Page/2012年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink") - 日本テレビ放送網の[認定放送持株会社](https://ja.wikipedia.org/wiki/認定放送持株会社 "wikilink")化（現・[日本テレビホールディングス](https://ja.wikipedia.org/wiki/日本テレビホールディングス "wikilink")）に先立ち、[株式交換](../Page/株式交換.md "wikilink")により同社の子会社となる。
+  - [2015年](../Page/2015年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink") - 本社を[日本テレビ放送網麹町分室](../Page/日本テレビ放送網麹町分室.md "wikilink")から[日本テレビタワー](../Page/日本テレビタワー.md "wikilink")に移転
   - [2015年](../Page/2015年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink") - 株式会社CS日本に商号変更\[1\]。
   - [2017年](../Page/2017年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink") - [シーエス映画放送](../Page/シーエス映画放送.md "wikilink")から基幹放送事業を譲受\[2\]。
 

@@ -27,4 +27,4 @@ LFS 7.8 に含まれたソフトウェアのリスト
 
   - [LFSブック日本語版 (lfsbookja)](http://lfsbookja.osdn.jp/) OSDN LFSブックの日本語訳
 
-[Category:Linux](https://ja.wikipedia.org/wiki/Category:Linux "wikilink")
+[Category:Linux](https://ja.wikipedia.org/wiki/Category:Linux "wikilink") [Category:Linuxディストリビューション](https://ja.wikipedia.org/wiki/Category:Linuxディストリビューション "wikilink")

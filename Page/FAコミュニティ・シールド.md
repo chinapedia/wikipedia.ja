@@ -1,7 +1,7 @@
 > この記事は[FAコミュニティ・シールド](https://ja.wikipedia.org/wiki/FAコミュニティ・シールド)から翻訳されています。
 
 
-**FAコミュニティ・シールド** (**FA Community Shield**) は、[イングランドサッカー協会](https://ja.wikipedia.org/wiki/イングランドサッカー協会 "wikilink")(FA)が主催する[スーパーカップ](../Page/スーパーカップ.md "wikilink")。[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")の優勝クラブと[FAカップ](../Page/FAカップ.md "wikilink")の優勝クラブによって、シーズン開幕一週間前の週末に行われる。同一クラブが2冠を達成した場合、そのクラブはプレミアリーグの2位クラブと対戦する。1908年に開始され、かつては**チャリティ・シールド**(Charity Shield)と呼ばれていたが、2002年に現在の名称に改められた。
+**FAコミュニティ・シールド** (**The FA Community Shield**) は、[イングランドサッカー協会](https://ja.wikipedia.org/wiki/イングランドサッカー協会 "wikilink")(FA)が主催する[スーパーカップ](../Page/スーパーカップ.md "wikilink")。[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")の優勝クラブと[FAカップ](../Page/FAカップ.md "wikilink")の優勝クラブによって、シーズン開幕一週間前の週末に行われる。同一クラブが2冠を達成した場合、そのクラブはプレミアリーグの2位クラブと対戦する。1908年に開始され、かつては**チャリティ・シールド**(Charity Shield)と呼ばれていたが、2002年に現在の名称に改められた。
 
 ## 歴史
 
@@ -111,6 +111,7 @@
 | 2017      | **[アーセナル](../Page/アーセナルFC.md "wikilink")**                         | 1-1 (PK4-1)  | [チェルシー](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")                 | [ウェンブリー・スタジアム](../Page/ウェンブリー・スタジアム.md "wikilink")                       |
 | 2018      | **[マンチェスター・C](../Page/マンチェスター・シティFC.md "wikilink")**               | 2-0          | [チェルシー](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")                 | [ウェンブリー・スタジアム](../Page/ウェンブリー・スタジアム.md "wikilink")                       |
 | 2019      | **[マンチェスター・C](../Page/マンチェスター・シティFC.md "wikilink")**               | 1-1 (PK5-4)  | [リヴァプール](../Page/リヴァプールFC.md "wikilink")                                  | [ウェンブリー・スタジアム](../Page/ウェンブリー・スタジアム.md "wikilink")                       |
+| 2020      | **[アーセナル](../Page/アーセナルFC.md "wikilink")**                         | 1-1 (PK5-4)  | [リヴァプール](../Page/リヴァプールFC.md "wikilink")                                  | [ウェンブリー・スタジアム](../Page/ウェンブリー・スタジアム.md "wikilink")                       |
 
 ## 優勝回数
 
@@ -135,14 +136,14 @@
 <td><p>1908, 1911, 1952, 1956, 1957, 1965<strong>*</strong>, 1967<strong>*</strong>, 1977<strong>*</strong>, 1983, 1990<strong>*</strong>, 1993, 1994, 1996, 1997, 2003, 2007, 2008, 2010, 2011, 2013, 2016</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/アーセナルFC.md" title="wikilink">アーセナル</a></p></td>
+<td><p>16 (15/1)</p></td>
+<td><p>1930, 1931, 1933, 1934, 1938, 1948, 1953, 1991<strong>*</strong>, 1998, 1999, 2002, 2004, 2014, 2015, 2017, 2020</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/リヴァプールFC.md" title="wikilink">リヴァプール</a></p></td>
 <td><p>15 (10/5)</p></td>
 <td><p>1964<strong>*</strong>, 1965<strong>*</strong>, 1966, 1974, 1976, 1977<strong>*</strong>, 1979, 1980, 1982, 1986<strong>*</strong>, 1988, 1989, 1990*, 2001, 2006</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/アーセナルFC.md" title="wikilink">アーセナル</a></p></td>
-<td><p>15 (14/1)</p></td>
-<td><p>1930, 1931, 1933, 1934, 1938, 1948, 1953, 1991<strong>*</strong>, 1998, 1999, 2002, 2004, 2014, 2015, 2017</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/エヴァートンFC.md" title="wikilink">エヴァートン</a></p></td>

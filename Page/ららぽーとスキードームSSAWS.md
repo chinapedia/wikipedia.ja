@@ -62,13 +62,11 @@
 
 なお、[ホイチョイ・プロダクションズ](../Page/ホイチョイ・プロダクションズ.md "wikilink")による"東京いい店やれる店"では、この施設について「娯楽施設としては興味深いが、ここのレストランはデートには不向き。」といった形での評価がされていた。
 
-1998年に音楽グループのSPEEDがベストアルバム「MOMENT
-
-歌詞カードと一体された19Pフォトブックレット撮影で遊びに来た
+具体的な時期は不明ながら、[マツコ・デラックス](../Page/マツコ・デラックス.md "wikilink")が一時アルバイトをしていたという\[3\]。
 
 ## 解体後
 
-[2003年](../Page/2003年.md "wikilink")から[2004年](../Page/2004年.md "wikilink")にかけて解体された。跡地の再開発では[2006年](../Page/2006年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")に[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の大型家具店[イケア](../Page/イケア.md "wikilink")が開業し、[2007年](../Page/2007年.md "wikilink")1月には[不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")会社4社による総戸数1211戸の大型マンション*ワンダーベイシティSAZAN*が完成、続いて[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月には総戸数684戸の*グランドホライゾン・トーキョーベイ*が完成した。
+[2003年](../Page/2003年.md "wikilink")から[2004年](../Page/2004年.md "wikilink")にかけて解体された。跡地の再開発では[2006年](../Page/2006年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")に[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の大型家具店[イケア](../Page/イケア.md "wikilink")が開業し、[2007年](../Page/2007年.md "wikilink")1月には[不動産](../Page/不動産.md "wikilink")会社4社による総戸数1211戸の大型マンション*ワンダーベイシティSAZAN*が完成、続いて[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月には総戸数684戸の*グランドホライゾン・トーキョーベイ*が完成した。
 
 ## 脚注
 
@@ -84,3 +82,4 @@
 
 1.  [事業用土地の再評価の実施（土地再評価法の適用）株式交換による三井不動産販売株式会社の完全子会社化（100％子会社化）および「ららぽーとスキードームSSAWS（ザウス）」の閉館について](http://www.mitsuifudosan.co.jp/corporate/news/2002/0301/index.html) 平成14年3月1日 三井不動産株式会社
 2.  2009年現在、営業中の屋内スキー場で世界最大のものは[スキー・ドバイ](https://ja.wikipedia.org/wiki/スキー・ドバイ "wikilink")である
+3.  [マツコ・デラックスが意外なバイト歴を告白「ザウスって覚えてる？」](https://news.livedoor.com/article/detail/10088664/) - livedoor NEWS・2015年5月8日

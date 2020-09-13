@@ -42,7 +42,7 @@
   - [日本興亜損害保険](../Page/日本興亜損害保険.md "wikilink")（現・[損害保険ジャパン日本興亜](https://ja.wikipedia.org/wiki/損害保険ジャパン日本興亜 "wikilink")）＊
   - [雄洋海運](https://ja.wikipedia.org/wiki/雄洋海運 "wikilink")＊
   - [京セラ](../Page/京セラ.md "wikilink")＊
-  - [高島屋](../Page/高島屋.md "wikilink")＊
+  - [髙島屋](../Page/髙島屋.md "wikilink")＊
   - [ぺんてる](../Page/ぺんてる.md "wikilink")
   - [エイベックス](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")
   - [錢高組](../Page/錢高組.md "wikilink")
@@ -126,7 +126,7 @@
 
 三和グループの結束を強めるための経営者（社長級）交流会が、下記22社をメンバーとして[1967年](../Page/1967年.md "wikilink")2月23日に発足した。名称は毎月第三週の水曜日に会合を開くことに由来する。以降、この三水会の下部組織として**クローバー会**（副社長、専務級の交流会、加盟会社数44社）、[みどり会](../Page/みどり会.md "wikilink")（加盟会社数147社）が発足した\[2\]。後にみどり会は[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")化し現在に至る。
 
-  - [三和銀行](../Page/三和銀行.md "wikilink")（現・三菱UFJ銀行）、[宇部興産](../Page/宇部興産.md "wikilink")、[帝人](../Page/帝人.md "wikilink")、[日立造船](../Page/日立造船.md "wikilink")、[日本生命](https://ja.wikipedia.org/wiki/日本生命保険 "wikilink")、[日立製作所](../Page/日立製作所.md "wikilink")、[東洋信託銀行](../Page/東洋信託銀行.md "wikilink")（現・三菱UFJ信託銀行）、[日商](https://ja.wikipedia.org/wiki/日商 "wikilink")（現・双日）、[丸善石油](https://ja.wikipedia.org/wiki/丸善石油 "wikilink")（現・コスモ石油）、[神戸製鋼所](../Page/神戸製鋼所.md "wikilink")、[ユニチカ](../Page/ユニチカ.md "wikilink")、[徳山曹達](https://ja.wikipedia.org/wiki/徳山曹達 "wikilink")（現・トクヤマ）、[大阪セメント](https://ja.wikipedia.org/wiki/大阪セメント "wikilink")（現・住友大阪セメント）、[大林組](../Page/大林組.md "wikilink")、[中山製鋼所](../Page/中山製鋼所.md "wikilink")、[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")、[東洋ゴム](https://ja.wikipedia.org/wiki/東洋ゴム "wikilink")、[関西ペイント](../Page/関西ペイント.md "wikilink")、[日本通運](https://ja.wikipedia.org/wiki/日本通運 "wikilink")、京阪神急行（現・[阪急電鉄](../Page/阪急電鉄.md "wikilink")）、[山下新日本汽船](https://ja.wikipedia.org/wiki/山下新日本汽船 "wikilink")（現・商船三井）、[高島屋](../Page/高島屋.md "wikilink")
+  - [三和銀行](../Page/三和銀行.md "wikilink")（現・三菱UFJ銀行）、[宇部興産](../Page/宇部興産.md "wikilink")、[帝人](../Page/帝人.md "wikilink")、[日立造船](../Page/日立造船.md "wikilink")、[日本生命](https://ja.wikipedia.org/wiki/日本生命保険 "wikilink")、[日立製作所](../Page/日立製作所.md "wikilink")、[東洋信託銀行](../Page/東洋信託銀行.md "wikilink")（現・三菱UFJ信託銀行）、[日商](https://ja.wikipedia.org/wiki/日商 "wikilink")（現・双日）、[丸善石油](https://ja.wikipedia.org/wiki/丸善石油 "wikilink")（現・コスモ石油）、[神戸製鋼所](../Page/神戸製鋼所.md "wikilink")、[ユニチカ](../Page/ユニチカ.md "wikilink")、[徳山曹達](https://ja.wikipedia.org/wiki/徳山曹達 "wikilink")（現・トクヤマ）、[大阪セメント](https://ja.wikipedia.org/wiki/大阪セメント "wikilink")（現・住友大阪セメント）、[大林組](../Page/大林組.md "wikilink")、[中山製鋼所](../Page/中山製鋼所.md "wikilink")、[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")、[東洋ゴム](https://ja.wikipedia.org/wiki/東洋ゴム "wikilink")、[関西ペイント](../Page/関西ペイント.md "wikilink")、[日本通運](https://ja.wikipedia.org/wiki/日本通運 "wikilink")、京阪神急行（現・[阪急電鉄](../Page/阪急電鉄.md "wikilink")）、[山下新日本汽船](https://ja.wikipedia.org/wiki/山下新日本汽船 "wikilink")（現・商船三井）、[髙島屋](../Page/髙島屋.md "wikilink")
 
 ## 関連項目
 

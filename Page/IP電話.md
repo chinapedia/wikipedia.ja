@@ -9,7 +9,7 @@
 
 この項では、狭い意味でのIP電話サービスに関して述べる。その他については[関連項目を参照](https://ja.wikipedia.org/wiki/#関連項目 "wikilink")。
 
-なお正式名称は、「インターネットプロトコル ([Internet Protocol](../Page/Internet_Protocol.md "wikilink")) 電話」だが、本項では一般的な呼称である「IP電話」で記述する。
+なおが、本項では一般的な呼称である「IP電話」で記述する。
 
 ## 固定電話との比較
 

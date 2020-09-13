@@ -21,6 +21,7 @@
       - [イソプロピルアンチピリン](https://ja.wikipedia.org/wiki/イソプロピルアンチピリン "wikilink") ()。
   - [インディア・ペールエール](https://ja.wikipedia.org/wiki/インディア・ペールエール "wikilink") () - ビールのスタイル。
   - [IPA (ファイルフォーマット)](https://ja.wikipedia.org/wiki/IPA_\(ファイルフォーマット\) "wikilink") - [iOSアプリケーション用のアーカイブファイル](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")。
+  - [IPAフォント](../Page/IPAフォント.md "wikilink") - [独立行政法人](../Page/独立行政法人.md "wikilink")[情報処理推進機構](../Page/情報処理推進機構.md "wikilink")によって配布されている[フォント](../Page/フォント.md "wikilink")。
 
 ## IPa
 

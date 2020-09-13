@@ -113,7 +113,7 @@
 
 2017年度制作 ラジオ
 
-  - [美村里江](../Page/美村里江.md "wikilink")
+  - [美村里江](../Page/美村里江.md "wikilink")\[1\]
   - [春名風花](https://ja.wikipedia.org/wiki/春名風花 "wikilink")
   - ナレーション [細谷佳正](../Page/細谷佳正.md "wikilink")
 
@@ -122,7 +122,7 @@
 2017年度制作（あらためまして）
 
   - [滝沢カレン](../Page/滝沢カレン.md "wikilink")
-  - 土屋伸之（[ナイツ](../Page/ナイツ_\(お笑いコンビ\).md "wikilink")）\[1\]
+  - 土屋伸之（[ナイツ](../Page/ナイツ_\(お笑いコンビ\).md "wikilink")）\[2\]
   - ナレーション [小林ゆう](https://ja.wikipedia.org/wiki/小林ゆう "wikilink")
 
 ### 現代文
@@ -136,11 +136,12 @@
 
 ### 世界史
 
-2020年度制作
+2020年度制作\[3\]
 
   - [政井マヤ](https://ja.wikipedia.org/wiki/政井マヤ "wikilink")
   - 富田早紀
   - 野呂汰雅
+  - ナレーション [小幡研二](../Page/小幡研二.md "wikilink")
 
 ### 日本史
 
@@ -149,6 +150,7 @@
   - [小日向えり](https://ja.wikipedia.org/wiki/小日向えり_\(タレント\) "wikilink")
   - 市瀬悠也
   - 平野詩乃
+  - ナレーション [岩井証夫](../Page/岩井証夫.md "wikilink")
 
 ### 地理
 
@@ -172,11 +174,11 @@
 
 ### ベーシック数学
 
-2015年度制作（お悩み解決\!）
+2020年度制作\[4\]
 
-  - [けみお](https://ja.wikipedia.org/wiki/けみお "wikilink")
-  - [石丸佐知](https://ja.wikipedia.org/wiki/石丸佐知 "wikilink")
-  - [小野真弓](https://ja.wikipedia.org/wiki/小野真弓 "wikilink")
+  - さくら
+  - [三浦玄](https://ja.wikipedia.org/wiki/三浦玄 "wikilink")
+  - ナレーション [グローバー](../Page/グローバー_\(ミュージシャン\).md "wikilink")
 
 ### 科学と人間生活
 
@@ -220,6 +222,7 @@
 
   - [佐藤藍子](https://ja.wikipedia.org/wiki/佐藤藍子 "wikilink")
   - [仁村紗和](https://ja.wikipedia.org/wiki/仁村紗和 "wikilink")
+  - ナレーション [橋詰知久](https://ja.wikipedia.org/wiki/橋詰知久 "wikilink")
 
 ### ベーシックサイエンス
 
@@ -234,7 +237,7 @@
 2016年度制作
 
   - [シシド・カフカ](https://ja.wikipedia.org/wiki/シシド・カフカ "wikilink")
-  - [山口智充](../Page/山口智充.md "wikilink")\[2\]
+  - [山口智充](../Page/山口智充.md "wikilink")\[5\]
   - ナレーション 平野史子
 
 ### 書道I
@@ -291,7 +294,7 @@
 
 ### 家庭総合
 
-2020年度制作
+2020年度制作\[6\]
 
   - [りゅうちぇる](https://ja.wikipedia.org/wiki/りゅうちぇる "wikilink")
   - 稲村絢音
@@ -300,15 +303,16 @@
   - 小林ジュリアン
   - 高沢英
   - 太哉
+  - ナレーション [奥谷楓](https://ja.wikipedia.org/wiki/奥谷楓 "wikilink")
 
 ### 社会と情報
 
 2019年度制作
 
   - [緑川光](../Page/緑川光.md "wikilink")
-  - 柿崎芽実（[日向坂46](https://ja.wikipedia.org/wiki/日向坂46 "wikilink")）\[3\]
+  - 柿崎芽実（[日向坂46](https://ja.wikipedia.org/wiki/日向坂46 "wikilink")）\[7\]
   - [松田好花](https://ja.wikipedia.org/wiki/松田好花 "wikilink")（日向坂46）
-  - ナレーション [戸谷公人](../Page/戸谷公人.md "wikilink")
+  - ナレーション [戸谷公人](../Page/戸谷公人.md "wikilink")\[8\]
 
 ### ビジネス基礎
 
@@ -316,15 +320,16 @@
 
   - [前野朋哉](https://ja.wikipedia.org/wiki/前野朋哉 "wikilink")
   - [濵尾咲綺](../Page/濵尾咲綺.md "wikilink")
+  - ナレーション [新井里美](../Page/新井里美.md "wikilink")
 
 ### 簿記
 
 2016年度制作
 
-  - [酒井瞳](https://ja.wikipedia.org/wiki/酒井瞳 "wikilink") - MC\[4\]
+  - [酒井瞳](https://ja.wikipedia.org/wiki/酒井瞳 "wikilink") - MC\[9\]
   - 石井祥伍
   - 松田莉奈
-  - わたび〜（渡部崇文） - [公認会計士](../Page/公認会計士.md "wikilink")\[5\]
+  - わたび〜（渡部崇文） - [公認会計士](../Page/公認会計士.md "wikilink")\[10\]
   - ナレーション おまたかな
 
 ### 体を動かすTV
@@ -333,7 +338,7 @@
 
   - [中岡創一](https://ja.wikipedia.org/wiki/中岡創一 "wikilink")（[ロッチ](../Page/ロッチ.md "wikilink")）
   - [敦士](https://ja.wikipedia.org/wiki/敦士_\(ファッションモデル\) "wikilink")
-  - [生田衣梨奈](https://ja.wikipedia.org/wiki/生田衣梨奈 "wikilink")（[モーニング娘。](../Page/モーニング娘。.md "wikilink")'15）※当時\[6\]
+  - [生田衣梨奈](https://ja.wikipedia.org/wiki/生田衣梨奈 "wikilink")（[モーニング娘。](../Page/モーニング娘。.md "wikilink")'15）※当時\[11\]
   - ナレーション [勝沼紀義](../Page/勝沼紀義.md "wikilink")
   - ナレーション [小林美奈](https://ja.wikipedia.org/wiki/小林美奈 "wikilink")
 
@@ -349,9 +354,11 @@
 
   - ナレーション [島袋美由利](https://ja.wikipedia.org/wiki/島袋美由利 "wikilink")
 
+※登場するのは講師と生徒のみで、ドキュメンタリー形式の内容となっている。
+
 ### 仕事の現場real
 
-2020年度制作\[7\] ラジオ
+2020年度制作\[12\] ラジオ
 
   - [井本彩花](https://ja.wikipedia.org/wiki/井本彩花 "wikilink")
   - [米野真織](https://ja.wikipedia.org/wiki/米野真織 "wikilink")
@@ -503,6 +510,12 @@
   - [蒼あんな](https://ja.wikipedia.org/wiki/蒼あんな・れいな "wikilink")
   - [蒼れいな](https://ja.wikipedia.org/wiki/蒼あんな・れいな "wikilink")
   - ナレーション [倖月美和](../Page/倖月美和.md "wikilink")
+
+2015年度 - 2019年度（お悩み解決\!）
+
+  - [けみお](https://ja.wikipedia.org/wiki/けみお "wikilink")
+  - [石丸佐知](https://ja.wikipedia.org/wiki/石丸佐知 "wikilink")
+  - [小野真弓](https://ja.wikipedia.org/wiki/小野真弓 "wikilink")
 
 ### 理科総合A・B
 
@@ -1157,7 +1170,7 @@
 
 2000年10月から「NHK高校講座ライブラリー」として、各年度の放送を10月スタート（半年遅れ）で再放送している。これは秋季に入学・進学する生徒が多い通信制や定時制の高校生へ向けての対策として行われている。
 
-放送機器のメンテナンス（保守）期間（通常は9-10月と2-3月のそれぞれ特定の2週間）があるときは休止。また放送ストックの調整の関係で、年末年始の特別編成期間\[8\]、および教育テレビでは3月一杯と7月下旬から8月中旬、ラジオ第2では8月中旬からメンテナンス期間である10月上旬の一定期間も放送休止となり、この間の1日の放送終了も早まる。（この期間中、教育テレビでは24時間放送が実施されていたころは代わりに[映像散歩](../Page/映像散歩.md "wikilink")が放送されたが、後に放送休止枠（[テストパターンなど](../Page/テストパターン_\(放送\).md "wikilink")）になっている。）
+放送機器のメンテナンス（保守）期間（通常は9-10月と2-3月のそれぞれ特定の2週間）があるときは休止。また放送ストックの調整の関係で、年末年始の特別編成期間\[13\]、および教育テレビでは3月一杯と7月下旬から8月中旬、ラジオ第2では8月中旬からメンテナンス期間である10月上旬の一定期間も放送休止となり、この間の1日の放送終了も早まる。（この期間中、教育テレビでは24時間放送が実施されていたころは代わりに[映像散歩](../Page/映像散歩.md "wikilink")が放送されたが、後に放送休止枠（[テストパターンなど](../Page/テストパターン_\(放送\).md "wikilink")）になっている。）
 
 2012年4月からは、テレビ放送のみ、本放送と同時間帯での[マルチ編成](https://ja.wikipedia.org/wiki/マルチ編成 "wikilink")とし**Eテレ3**（023ch、教育テレビのサブチャンネル3）にて放送されるようになった（これによりEテレの通常の放送時間も原則として1:25までに終了する形となった）。ラジオ放送は従来通り深夜帯である。
 
@@ -1184,7 +1197,7 @@
 
     その後2007年10月-2009年3月までは火曜-金曜が3本分、土曜-次週月曜までが2本分、2009年4月以後は水曜・木曜が2本分、他の曜日が3本分（1週間全体では19枠）という体裁となった。2010年4月からは定時放送の終了時間繰り上がりのため、最初の番組は日付変更20分前の23:40開始となったが、[2017年](../Page/2017年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")より再び深夜1:00終了に戻ったため、日付が変わった0:00-1:00に放送時間が戻った。（従前どおり日曜日付けは除く）
 
-    2013年10月から実施するライブラリーの放送では、日曜日\[9\]の放送が廃止され、その分水曜・木曜の放送も3本分の編成（1週間全体では18枠で1枠削減）に変更した。
+    2013年10月から実施するライブラリーの放送では、日曜日\[14\]の放送が廃止され、その分水曜・木曜の放送も3本分の編成（1週間全体では18枠で1枠削減）に変更した。
 
   - 2013年9月まで（2012年度放送分まで）
 
@@ -1433,7 +1446,7 @@
 
 3月26日・4月5日
 
-  - 出演:[佐藤藍子](https://ja.wikipedia.org/wiki/佐藤藍子 "wikilink")（地学基礎）・[緑川光](../Page/緑川光.md "wikilink")\[10\]（社会と情報）
+  - 出演:[佐藤藍子](https://ja.wikipedia.org/wiki/佐藤藍子 "wikilink")（地学基礎）・[緑川光](../Page/緑川光.md "wikilink")\[15\]（社会と情報）
 
 ##### NHK高校講座学び方ガイド「NHK高校講座のウワサに迫る\!\!」
 
@@ -1481,13 +1494,18 @@
 
 [Category:NHK高校講座](https://ja.wikipedia.org/wiki/Category:NHK高校講座 "wikilink") [Category:NHK教育テレビジョンの帯番組](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの帯番組 "wikilink") [Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink") [Category:サンドウィッチマン](https://ja.wikipedia.org/wiki/Category:サンドウィッチマン "wikilink") [Category:NHKラジオ第2の帯番組](https://ja.wikipedia.org/wiki/Category:NHKラジオ第2の帯番組 "wikilink") [Category:2003年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のラジオ番組_\(日本\) "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
-1.
-2.  [声のみの出演。](../Page/声優.md "wikilink")
-3.  2019年8月11日に日向坂46を[卒業し](../Page/卒業_\(曖昧さ回避\).md "wikilink")、番組も降板。番組内では柿崎の卒業・降板に関して触れなかった。
-4.  [「NHK高校講座」で簿記の講座がスタート](https://www.kentei.ne.jp/11998) - 日本商工会議所
-5.  [世界一わかりやすい簿記講座をつくる](https://www.kentei.ne.jp/interview/13637) - 日本商工会議所
-6.  翌年度以降も表記を変更せずに再放送。
-7.  一部の回は2016年度制作分の再放送。
-8.  但し、ラジオ第2放送については2012年12月24日-2013年1月6日まで、新学習指導要領のカリキュラムによる「数学II」の年末年始集中講義（第1-56回分を連日23:40-25:40。12月31日-1月3日は休止、1月5・6日については5日は23:55-25:15、6日は23:40-25:00）を行う[詳細ページ](http://www.nhk.or.jp/kokokoza/2012_kikan_suugaku2.pdf)。
-9.  [英会話タイムトライアル](https://ja.wikipedia.org/wiki/英会話タイムトライアル "wikilink")の再放送がこれまでの20分から50分に拡大になったため（2013年4-9月までは「対話カラオケ編」＜木・金曜分＞のみだったが、2013年10月以後は「SPR編」＜月-水曜分＞も含めた5日分全部再放送されることになった）。
-10. ナレーションも兼務。
+1.  出演当時は「ミムラ」名義。
+2.
+3.  1学期の一部の回では、改正・[新型インフルエンザ等対策特別措置法](https://ja.wikipedia.org/wiki/新型インフルエンザ等対策特別措置法 "wikilink")に基づく[新型コロナウイルス緊急事態宣言の発令に伴う局の方針により](https://ja.wikipedia.org/wiki/重症急性呼吸器症候群コロナウイルス2型 "wikilink")、出演者がスタジオ外の別々の場所に分かれてのリモート収録による対応となった。
+4.
+5.  [声のみの出演。](../Page/声優.md "wikilink")
+6.
+7.  2019年8月11日に日向坂46を[卒業し](../Page/卒業_\(曖昧さ回避\).md "wikilink")、番組も降板。番組内では柿崎の卒業・降板に関して触れなかった。
+8.  稀にリポーターとして顔出し出演することもあった。
+9.  [「NHK高校講座」で簿記の講座がスタート](https://www.kentei.ne.jp/11998) - 日本商工会議所
+10. [世界一わかりやすい簿記講座をつくる](https://www.kentei.ne.jp/interview/13637) - 日本商工会議所
+11. 翌年度以降も表記を変更せずに再放送。
+12. 一部の回は2016年度制作分の再放送。
+13. 但し、ラジオ第2放送については2012年12月24日-2013年1月6日まで、新学習指導要領のカリキュラムによる「数学II」の年末年始集中講義（第1-56回分を連日23:40-25:40。12月31日-1月3日は休止、1月5・6日については5日は23:55-25:15、6日は23:40-25:00）を行う[詳細ページ](http://www.nhk.or.jp/kokokoza/2012_kikan_suugaku2.pdf)。
+14. [英会話タイムトライアル](https://ja.wikipedia.org/wiki/英会話タイムトライアル "wikilink")の再放送がこれまでの20分から50分に拡大になったため（2013年4-9月までは「対話カラオケ編」＜木・金曜分＞のみだったが、2013年10月以後は「SPR編」＜月-水曜分＞も含めた5日分全部再放送されることになった）。
+15. ナレーションも兼務。

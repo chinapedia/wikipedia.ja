@@ -190,6 +190,8 @@
   - [広島市農業協同組合](../Page/広島市農業協同組合.md "wikilink")（JA広島市）
   - [エディオン](../Page/エディオン.md "wikilink") - 前身の[デオデオ](../Page/デオデオ.md "wikilink")は[2009年](../Page/2009年.md "wikilink")（平成21年）10月にエディオンWESTに商号変更、翌[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）10月にエディオンに吸収合併。
 
+## 脚注
+
 ## 関連項目
 
   - [ケーブルテレビ局の一覧](../Page/ケーブルテレビ局の一覧.md "wikilink")

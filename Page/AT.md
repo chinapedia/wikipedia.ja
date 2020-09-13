@@ -41,6 +41,7 @@
       - [アールネ・トンプソンのタイプ・インデックス](../Page/アールネ・トンプソンのタイプ・インデックス.md "wikilink")（AT番号・AT分類）の略。
   - [原子時](https://ja.wikipedia.org/wiki/原子時 "wikilink") (atomic time)
   - [姶良Tn火山灰](../Page/姶良Tn火山灰.md "wikilink")の地質学における略号。
+  - [対戦車兵器](../Page/対戦車兵器.md "wikilink")（Anti-tank ）。対空のAA（Anti-aircraft）と使い分ける。
 
 ### 固有名詞
 

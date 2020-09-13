@@ -5,11 +5,18 @@
 
 ## 概要
 
-[1979年](../Page/1979年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")、前身バンド「[MANDRAKE](https://ja.wikipedia.org/wiki/マンドレイク_\(バンド\) "wikilink")」が解散、即日**P-MODEL**が結成される。同年7月メジャーデビュー。
+[1979年](../Page/1979年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")、前身バンド「[MANDRAKE](https://ja.wikipedia.org/wiki/マンドレイク_\(バンド\) "wikilink")」が解散。即日**P-MODEL**が結成され、同年7月にメジャーデビュー。
 
-[1988年](../Page/1988年.md "wikilink")に「凍結」と称して活動を休止。[1991年](../Page/1991年.md "wikilink")「解凍」と称して活動を再開するも、[1993年](../Page/1993年.md "wikilink")に「待機」と称し再び活動休止。翌[1994年](../Page/1994年.md "wikilink")「改訂」と称して3回目の活動を開始するが、[2000年](../Page/2000年.md "wikilink")より「培養」と称して活動を休止している。
+[YMOを始めとする](../Page/イエロー・マジック・オーケストラ.md "wikilink")[テクノポップ](../Page/テクノポップ.md "wikilink")ブームの一翼を担い、[プラスチックス](../Page/プラスチックス.md "wikilink")・[ヒカシュー](../Page/ヒカシュー.md "wikilink")と共に「テクノ御三家」の一つとして取り上げられるようになるが、[1981年](../Page/1981年.md "wikilink")に発売された3rdアルバム『[Potpourri](https://ja.wikipedia.org/wiki/POTPOURRI "wikilink")』で「脱・テクノ」を宣言。以降はメンバーや音楽性が激しく変遷し、紆余曲折を経て[1988年](../Page/1988年.md "wikilink")12月にP-MODELの「凍結」(活動休止)を宣言。
 
-[2004年](../Page/2004年.md "wikilink")より、中心メンバーの平沢進が1人で**核P-MODEL**として活動している。\[1\]
+[1991年](../Page/1991年.md "wikilink")、P-MODELの「解凍」を宣言し、同年9月に[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")にて行われたライブイベント『ERROR OF UNIVERSE』にて活動再開。再びテクノポップを全面に打ち出した。
+
+[1993年](../Page/1993年.md "wikilink")、メンバーチェンジに伴う「改訂」作業に入る事を発表。同年10月に日比谷野外音楽堂にて行われたライブイベント「ERROR OF INFORMATION "待機"」を以て、一時的に活動「待機」(活動休止)となる。
+
+[1994年](../Page/1994年.md "wikilink")12月、メンバーの「改訂」を終え再び活動を再開。当時黎明期だった[インターネット](../Page/インターネット.md "wikilink")をキーワードとして様々な活動を行った後、[2000年](../Page/2000年.md "wikilink")12月にP-MODELの解体を発表し、「培養」期間に入ることを宣言\[1\]。
+
+
+[2004年](../Page/2004年.md "wikilink")からは中心メンバーの平沢進が1人で**核P-MODEL**として不定期に活動している\[2\]。
 
 ## メンバー
 
@@ -43,7 +50,8 @@
 <a href="../Page/東京都.md" title="wikilink">東京都</a><a href="../Page/足立区.md" title="wikilink">足立区</a></p></td>
 <td><p><a href="../Page/1979年.md" title="wikilink">1979年</a>1月 - <a href="../Page/2000年.md" title="wikilink">2000年</a>12月<br />
 <a href="../Page/2004年.md" title="wikilink">2004年</a>10月 - （核P-MODEL）</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/旬_(音楽ユニット)" title="wikilink">旬</a><br />
+<a href="https://ja.wikipedia.org/wiki/不幸のプロジェクト" title="wikilink">不幸のプロジェクト</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>元メンバー（P-MODEL）</p></td>
@@ -289,7 +297,7 @@ System-1</p></td>
 <a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
 <td><p><a href="../Page/1994年.md" title="wikilink">1994年</a>11月 - <a href="../Page/2000年.md" title="wikilink">2000年</a>12月</p></td>
 <td><p><a href="../Page/ヤプーズ.md" title="wikilink">YAPOOS</a><br />
-<a href="https://ja.wikipedia.org/wiki/エレキバター" title="wikilink">エレキバター</a><br />
+ケラ＆ザ・シンセサイザーズ<br />
 Soyuz Project（ソロ活動）</p></td>
 </tr>
 <tr class="even">
@@ -302,9 +310,27 @@ System-2<br />
 大阪府</p></td>
 <td><p>1994年11月 - 2000年12月</p></td>
 <td><p>4-D mode1<br />
-<a href="https://ja.wikipedia.org/wiki/縁側.jp" title="wikilink">縁側.jp</a></p></td>
+<a href="https://ja.wikipedia.org/wiki/不幸のプロジェクト" title="wikilink">不幸のプロジェクト</a></p></td>
 </tr>
 <tr class="odd">
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align: left;">
+<p>備考</p>
+</div>
+<div class="NavContent" style="text-align: left;">
+<ul>
+<li>平沢とはP-MODEL結成初期の頃からの友人。作詞・曲に関わった楽曲数も田中に次いで多い。</li>
+<li>ライブ時は専ら「スキンヘッド＋眼鏡（もしくはサングラス）」という出で立ちだったため、ファンからの愛称は『<strong>和尚</strong>』だった。</li>
+<li>現在は主な活動拠点を<a href="https://ja.wikipedia.org/wiki/ドイツ" title="wikilink">ドイツ</a>・<a href="https://ja.wikipedia.org/wiki/ライプツィヒ" title="wikilink">ライプチヒに移しており</a>、日本には「空心庵」という拠点を構えている。</li>
+</ul>
+</div>
+</div></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><strong><a href="../Page/上領亘.md" title="wikilink">上領 亘</a></strong><br />
 （かみりょう わたる）</p></td>
 <td><p>ドラムス<br />
@@ -316,7 +342,7 @@ Algorhythm</p></td>
 <a href="../Page/グラスバレー.md" title="wikilink">GRASS VALLEY</a><br />
 CROW</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -631,9 +657,9 @@ TAKA</p></td>
 
     1月3日 - 初の自主ツアー「P-TRICK PLAN Vol.1」開催（ - 1月11日、全7公演）。
 
-    3月28日 - 自主ツアー「P-TRICK PLAN Vol.2」開催（ - 4月13日、全11公演）。
+    3月28日 - 自主ツアー「P-TRICK PLAN Vol.2」開催（ - 4月13日、全9公演）。
 
-      - 29日の京都公演をたまたま来日していた[デビッド・ボウイが観ており](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")、平沢は終演後楽屋を訪れたデビッドにサインを貰っている。\[2\]\[3\]
+      - 29日の京都公演をたまたま来日していた[デビッド・ボウイが観ており](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")、平沢は終演後楽屋を訪れたデビッドにサインを貰っている。\[3\]\[4\]
 
     4月7日 - [中野サンプラザ](../Page/中野サンプラザ.md "wikilink")ホールにて[ヒカシュー](../Page/ヒカシュー.md "wikilink")との対バンライブを開催。
 
@@ -679,7 +705,7 @@ TAKA</p></td>
 
     3月1日 - レーベルを[ジャパンレコードに移籍](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")。同日、4thアルバム『**[Perspective](https://ja.wikipedia.org/wiki/Perspective_\(P-MODELのアルバム\) "wikilink")**』及びカセットテープ『[Perspective II](https://ja.wikipedia.org/wiki/Perspective_\(P-MODELのアルバム\)#PerspectiveIIの収録曲 "wikilink")』をリリース。
 
-    3月26日 - 恵比寿・日仏会館にて自主企画「突拍子のためのLesson.1」を開催。平沢の自作楽器「ヘブナイザー」\[4\]の初お披露目となる。
+    3月26日 - 恵比寿・日仏会館にて自主企画「突拍子のためのLesson.1」を開催。平沢の自作楽器「ヘブナイザー」\[5\]の初お披露目となる。
 
     6月21日 - [The Jamの来日公演のフロントアクトを務める](../Page/ザ・ジャム.md "wikilink")。
 
@@ -699,7 +725,7 @@ TAKA</p></td>
 
     3月27日 - 千葉ダンシングマザースのライブよりサポートメンバーとして**三浦俊一**（Key）が加入。翌年2月のアルバムリリース後より正式メンバーとなる。
 
-    10月24日 - 全国23ヶ所をまわるツアー「ANOTHER GAME TOUR」スタート（ - 12月27日）。
+    10月24日 - 全国22ヶ所をまわるツアー「ANOTHER GAME TOUR」スタート（ - 12月27日、全23公演）。
 
       - このツアーより、平沢は自身のトレードマークとなるギター「[TALBO](../Page/東海楽器・Talbo.md "wikilink")」を使用し始めている。
 
@@ -786,7 +812,7 @@ TAKA</p></td>
 
     3月14日 - 自主企画「進化の軌跡 ～ガラパゴス島の待ち伏せ男～」開催。この公演を以て荒木が脱退し、初代ドラマーの田井中が「Part2」と称してメンバーに復帰。
 
-      - 荒木の脱退理由は「どうしてもガラパゴス島に残りたかったから」というものだった。\[5\]\[6\]
+      - 荒木の脱退理由は「どうしてもガラパゴス島に残りたかったから」というものだった。\[6\]\[7\]
 
     5月1日 - [KERA](../Page/ケラリーノ・サンドロヴィッチ.md "wikilink")（[有頂天](../Page/有頂天_\(バンド\).md "wikilink")）の主導により、初期P-MODELのコピーバンド「此岸のパラダイス亀有永遠のワンパターンバンド」結成。[渋谷La.mama](https://ja.wikipedia.org/wiki/渋谷La.mama "wikilink")で初ライブを行う。
 
@@ -842,7 +868,7 @@ TAKA</p></td>
 
   -
 
-    1月1日 - ファンクラブ会員限定で映像作品『平沢進のCG年賀状』を配布。平沢がP-MODEL凍結に至った経緯や今後の活動について語るという内容だった。
+    1月1日 - ファンクラブ会員限定で映像作品『平沢進のCG年賀状』を配布。平沢がP-MODEL凍結に至った経緯\[8\]や今後の活動について語るという内容だった。
 
     3月1日 - 所属事務所「MODEL HOUSE」が「オクターブ」に改称。
 
@@ -893,7 +919,7 @@ TAKA</p></td>
 
     6月27日 - [日清パワーステーション](../Page/日清パワーステーション.md "wikilink")でのイベント「サタデイ・ナイトR＆Rショウ」に出演。藤井がスケジュールの都合で出席できず、ドラムレス編成の「P-MODEL Lo-Res」として出演した。
 
-      - この公演では平沢のギターアンプが故障し共演していたバンドの物を借りることになったが、思っていた様な音が出せず、終演後TALBOを床に叩き付けて破損させている。\[7\]
+      - この公演では平沢のギターアンプが故障し共演していたバンドの物を借りることになったが、思っていた様な音が出せず、終演後TALBOを床に叩き付けて破損させている。\[9\]
 
     9月2日 - 映像作品2作目『**BITMAP 1979-1992**』リリース。今作では「P-MODEL TOUR'92」の模様を中心に、結成～解凍までのライブダイジェスト、平沢がAmigaで作成したPVが収録されている。
 
@@ -963,7 +989,7 @@ TAKA</p></td>
 
     9月30日 - 日比谷野外音楽堂にて自主企画「ENDING ERROR」を開催。同日、リミックスアルバム『**[Corrective Errors](https://ja.wikipedia.org/wiki/Corrective_Errors〜remix_of_舟 "wikilink")**』発売。
 
-      - このアルバムは後の10thアルバムの収録曲をリミックスしたもの。オリジナルアルバムよりリミックスアルバムが先行発売される事に対し、公式サイトによると「前代未聞」としている\[8\]。
+      - このアルバムは後の10thアルバムの収録曲をリミックスしたもの。オリジナルアルバムよりリミックスアルバムが先行発売される事に対し、公式サイトによると「前代未聞」としている\[10\]。
 
     10月1日 - レーベルを[日本コロムビア](../Page/日本コロムビア.md "wikilink")に移籍。
 
@@ -991,8 +1017,8 @@ TAKA</p></td>
 
     11月15日 - 歌舞伎町・[LIQUIDROOM](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")で「Unfix\#3 コミュノ・ハイブリディア」開催。メンバー4人が一時集結しそれぞれ自身で組んだユニットで出演する、というものだった。
 
-      - 平沢は体調不良\[9\]により出演をキャンセルし、他の3人（とそれぞれのユニット）のみが出演する事になった。
-      - 数日後、平沢は出演をキャンセルした事について「私は風邪如きで休むような人間ではない。休んだ本当の理由は言えないが」との発言を公式サイト上で行っている。\[10\]
+      - 平沢は体調不良\[11\]により出演をキャンセルし、他の3人（とそれぞれのユニット）のみが出演する事になった。
+      - 数日後、平沢は出演をキャンセルした事について「私は風邪如きで休むような人間ではない。休んだ本当の理由は言えないが」との発言を公式サイト上で行っている。\[12\]
 
     12月24日 - 六本木・ラフォーレミュージアムにおいて「Unfix\#5　Another Green Nerves」が開催予定だったが、平沢の体調不良により中止。
 
@@ -1040,7 +1066,7 @@ TAKA</p></td>
 
     5月29日 - 結成20周年記念プロジェクトとして「音楽産業廃棄物～P-MODEL OR DIE」がスタート。特設サイト「P-PLANT」が設置される。また同日日本コロムビアを離脱。
 
-      - これ以降、平沢及びP-MODELの作品は所属事務所であるCHAOS UNIONから直接、MP3によってリリースされることになる。\[11\]
+      - これ以降、平沢及びP-MODELの作品は所属事務所であるCHAOS UNIONから直接、MP3によってリリースされることになる。\[13\]
 
     6月29日 - [渋谷O-Eastで開催された](../Page/Shibuya_O-EAST.md "wikilink")「Future Screen of Tokyo New Wave」に出演。解凍期以降半封印状態だった1stアルバムの曲が披露された。
 
@@ -1076,8 +1102,8 @@ TAKA</p></td>
 
     12月20日 - ファンクラブ会報にて「培養期」と呼ばれる活動休止期間に入る事と、現メンバー編成の解体が発表される。
 
-      - これ以降、P-MODELとしての活動は行われていない。何人かのメンバーは再結成に意欲を見せているが、平沢は再結成に対して非常に後ろ向きであり事実上の解散とみられている。\[12\]
-      - ただし、平沢は「私以外の歴代メンバー集まってP-MODEL名乗るの許可します」とも発言している。\[13\]
+      - これ以降、P-MODELとしての活動は行われていない。何人かのメンバーは再結成に意欲を見せているが、平沢は再結成に対して非常に後ろ向きであり事実上の解散とみられている。\[14\]
+      - ただし、平沢は「私以外の歴代メンバー集まってP-MODEL名乗るの許可します」とも発言している。\[15\]
 
 <!-- end list -->
 
@@ -1199,7 +1225,7 @@ TAKA</p></td>
 
   -
 
-    4月3日 - [今敏](../Page/今敏.md "wikilink")の漫画を原作とした映画「OPUS」のテーマ曲を核P-MODEL名義で制作する事が発表される。\[14\]
+    4月3日 - [今敏](../Page/今敏.md "wikilink")の漫画を原作とした映画「OPUS」のテーマ曲を核P-MODEL名義で制作する事が発表される。\[16\]
 
     9月5日 - 3rdアルバム『**[回＝回](https://ja.wikipedia.org/wiki/回=回 "wikilink")**』リリース。
 
@@ -1243,9 +1269,9 @@ TAKA</p></td>
 
 <div class="NavContent" style="text-align:left;">
 
-  - マンドレイク後期のパンク、[ニューウェーブ的手法を発展させた](../Page/ニュー・ウェイヴ_\(音楽\).md "wikilink")、リズムボックスや[シンセサイザー](../Page/シンセサイザー.md "wikilink")をラジカルに使ったサウンドで、[ヒカシュー](../Page/ヒカシュー.md "wikilink")、[プラスチックス](../Page/プラスチックス.md "wikilink")と共に「テクノ御三家」と俗称され、日本の[テクノポップ](../Page/テクノポップ.md "wikilink")／ニューウェーブ・ムーブメントの一翼を担った\[15\]。平沢によるとメンバーが影響を受けたバンドは、[999や](https://ja.wikipedia.org/wiki/:en:999_\(band\) "wikilink")[セックス・ピストルズ](../Page/セックス・ピストルズ.md "wikilink")、[Métal Urbain](https://ja.wikipedia.org/wiki/:fr:Métal_urbain "wikilink")、[ジョルジオ・モロダー](../Page/ジョルジオ・モロダー.md "wikilink")などであり、テクノポップで有名な[KRAFTWERKや](../Page/クラフトワーク.md "wikilink")[XTC](https://ja.wikipedia.org/wiki/XTC "wikilink")ではないと言う\[16\]。[小室等](../Page/小室等.md "wikilink")司会の番組「[パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")・ステレオ音楽館」（[東京12チャンネル](https://ja.wikipedia.org/wiki/東京12チャンネル "wikilink")）に出演したときは、平沢は小室にテクノポップについて聞かれると「[イエローでマジックな人たちにでも聞けばいいんじゃないですか](../Page/イエロー・マジック・オーケストラ.md "wikilink")？」と投げやりに答えるなど、枠にはめられることに拒否感を持つような態度をとっていた。平沢は後年、[YMOについては](../Page/イエロー・マジック・オーケストラ.md "wikilink")「フュージョンだと思っていた」とも語っている\[17\]。ライブでは[こまわり君の動きを採り入れ](../Page/がきデカ.md "wikilink")、跳びはねるなどの[パンク・ロック](../Page/パンク・ロック.md "wikilink")寄りのコミカルなパフォーマンスを行う。音楽は工業製品でしかないという意味を込めて「I AM A COKE」や「YOURYO JIDOU」と書かれたプレートを服に着けて演奏を行った。
+  - MANDRAKE後期のパンク、[ニューウェーブ的手法を発展させた](../Page/ニュー・ウェイヴ_\(音楽\).md "wikilink")、リズムボックスや[シンセサイザー](../Page/シンセサイザー.md "wikilink")をラジカルに使ったサウンドで、[ヒカシュー](../Page/ヒカシュー.md "wikilink")、[プラスチックス](../Page/プラスチックス.md "wikilink")と共に「テクノ御三家」と俗称され、日本の[テクノポップ](../Page/テクノポップ.md "wikilink")／ニューウェーブ・ムーブメントの一翼を担った\[17\]。平沢によるとメンバーが影響を受けたバンドは、[999や](https://ja.wikipedia.org/wiki/:en:999_\(band\) "wikilink")[セックス・ピストルズ](../Page/セックス・ピストルズ.md "wikilink")、[Métal Urbain](https://ja.wikipedia.org/wiki/:fr:Métal_urbain "wikilink")、[ジョルジオ・モロダー](../Page/ジョルジオ・モロダー.md "wikilink")などであり、テクノポップで有名な[KRAFTWERKや](../Page/クラフトワーク.md "wikilink")[XTC](https://ja.wikipedia.org/wiki/XTC "wikilink")ではないと言う\[18\]。[小室等](../Page/小室等.md "wikilink")司会の番組「[パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")・ステレオ音楽館」（[東京12チャンネル](https://ja.wikipedia.org/wiki/東京12チャンネル "wikilink")）に出演したときは、平沢は小室にテクノポップについて聞かれると「[イエローでマジックな人たちにでも聞けばいいんじゃないですか](../Page/イエロー・マジック・オーケストラ.md "wikilink")？」と投げやりに答えるなど、枠にはめられることに拒否感を持つような態度をとっていた。平沢は後年、[YMOについては](../Page/イエロー・マジック・オーケストラ.md "wikilink")「フュージョンだと思っていた」とも語っている\[19\]。ライブでは[こまわり君の動きを採り入れ](../Page/がきデカ.md "wikilink")、跳びはねるなどの[パンク・ロック](../Page/パンク・ロック.md "wikilink")寄りのコミカルなパフォーマンスを行う。音楽は工業製品でしかないという意味を込めて「I AM A COKE」や「YOURYO JIDOU（優良児童）」と書かれたプレートを服に着けて演奏を行った。
   - 基本的に平沢・田中が作詞作曲を務めていたが、1st『[IN A MODEL ROOM](https://ja.wikipedia.org/wiki/IN_A_MODEL_ROOM "wikilink")』には平沢の実兄である平沢裕一が作詞に参加し、『[LANDSALE](https://ja.wikipedia.org/wiki/LANDSALE "wikilink")』には秋山が楽曲を提供している。また、裕一は凍結までアルバムジャケットやライブフライヤーのデザイン、ライブでの映像演出を担当していた。
-  - デビュー直後の急激な人気にメンバーは困惑し、ライブハウスには黄色い歓声が飛び交い、町中には「ピンクは血の色」と車に書かれた暴走族が現れるなど、マンドレイク時代から比べ、「機材をピンクに塗っただけでこのザマかと」シニカルな態度を取っていた\[18\]。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に入ると、演奏中に突然ヤマトノリを絞り出す、ライブイベント出演時には持ち時間の半分を2ndアルバム『[LANDSALE](https://ja.wikipedia.org/wiki/LANDSALE "wikilink")』を流すだけなど、テクノポップやパンクロック寄りのパフォーマンスを離れ始め、同年11月には秋山が脱退となる\[19\]。
+  - デビュー直後の急激な人気にメンバーは困惑し、ライブハウスには黄色い歓声が飛び交い、町中には「ピンクは血の色」と車に書かれた暴走族が現れるなど、マンドレイク時代から比べ、「機材をピンクに塗っただけでこのザマかと」シニカルな態度を取っていた\[20\]。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に入ると、演奏中に突然ヤマトノリを絞り出す、ライブイベント出演時には2ndアルバム『LANDSALE』を流すだけで観客が騒然とするまで演奏を始めないなど、デビュー当時のようなパフォーマンスから離れ始める\[21\]。
 
 </div>
 
@@ -1261,10 +1287,11 @@ TAKA</p></td>
 
 <div class="NavContent" style="text-align: left;">
 
-  - 過熱するテクノポップブームへの危機感から攻撃的、批評的な歌詞やテクノ的な音作りを捨て、奥行きを持たせた音の空間や、独自のリズム解釈、そして意味と音のバランスを作為的に崩した言葉の組み立てによる歌詞など実験的なアプローチへとバンドは大幅な路線変更を打ち出した。
-  - 『[Perspective](https://ja.wikipedia.org/wiki/Perspective_\(P-MODELのアルバム\) "wikilink")』発売前に新宿ロフトにて行われた2部制シリーズライブ「カナリアの籠展開図ぐるりと回る360度期待は記憶気のどくだねオゾノコブラノスキー」では、第一部に前作を踏襲する未発表曲を数曲演奏。田井中が唯一作曲した表題曲や「LUCKY TIME」などが演奏されたが、P-MODELの音源として発売されることは無かった\[20\]。
-  - ライブでは「ヘブナイザー」などの自作楽器を用いてフレーズ・サンプリングの多用、ドラムサウンドのホワイトノイズ加工が行われた。また、ステージ上から客席に鳥の餌を撒くなどのパフォーマンスで個性的なステージングを展開した。この頃から平沢は現在でも続く直立不動で演奏を行うようになる。
-  - 1983年の田中脱退後はメンバー、音楽性の変遷を繰り返し、その中で他バンドの経験者や[ローディー](../Page/ローディー.md "wikilink")だった者がメンバーとして採用されるにつれて、次第に平沢のワンマン・バンドとしての要素が強くなっていく。後に平沢はこのことが活動休止の遠因であったと述べている\[21\]。
+  - 過熱するテクノポップブームへの危機感から攻撃的、批評的な歌詞やテクノ的な音作りを捨て、奥行きを持たせた音の空間や、独自のリズム解釈、そして意味と音のバランスを作為的に崩した言葉の組み立てによる歌詞など実験的なアプローチへとバンドは大幅な路線変更を打ち出した。[1981年](../Page/1981年.md "wikilink")の『[Perspective](https://ja.wikipedia.org/wiki/Perspective_\(P-MODELのアルバム\) "wikilink")』発売前に新宿ロフトにて行われた2部制シリーズライブ「カナリアの籠展開図ぐるりと回る360度期待は記憶気のどくだねオゾノコブラノスキー」では、第一部に前作を踏襲する未発表曲を数曲演奏。田井中が唯一作曲した表題曲や「LUCKY TIME」などが演奏されたが、P-MODELの音源として発売されることは無かった\[22\]。
+  - 田中はこの時期を「次にどういうふうにやっていくか、模索してた時代」「（楽曲制作において）僕としては非常に閉塞状況を感じてて、ちょっと続けにくかった」と回顧しており、平沢は当時の田中について「（Perspective製作時に）自信が無かったというか、スランプだったかもしれません」と語る\[23\]。その後、「アイデアの枯渇」を理由に[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に田中が脱退。以降はメンバー、音楽性の変遷を繰り返し、その中で他バンドの経験者や[ローディー](../Page/ローディー.md "wikilink")だった者がメンバーとして採用されるにつれて、次第に平沢のワンマン・バンドとしての要素が強くなっていく。後に平沢はこのことが活動休止の遠因であったと述べている\[24\]。
+  - 田中の脱退やレコード会社との対立で平沢は徐々に精神が不安定となっていく。[シルバ・マインド・コントロール](https://ja.wikipedia.org/wiki/シルバメソッド "wikilink")(以下SMC)のレクチャーを受けたことがきっかけとなり、SMCの方法論を取り入れた『[ANOTHER GAME](https://ja.wikipedia.org/wiki/ANOTHER_GAME "wikilink")』、[ユング心理学を参考にした](../Page/分析心理学.md "wikilink")『[SCUBA](https://ja.wikipedia.org/wiki/SCUBA_\(P-MODELのアルバム\) "wikilink")』といった作品が発表されていった\[25\]。
+  - ライブでは「ヘヴナイザー」などの自作楽器を用いてフレーズ・サンプリングの多用、ドラムサウンドのホワイトノイズ加工が行われた。また、ステージ上から客席に鳥の餌を撒くなどのパフォーマンスで個性的なステージングを展開した。この頃から平沢は現在でも続く直立不動で演奏を行うようになる。
+  - [1984年](../Page/1984年.md "wikilink")の横川加入後は、平沢曰く「黄金期の感覚を取り戻そうと」殺気立ったパフォーマンスを展開。P-MODEL史上最もファンキーとも称されたが、バンド内の衝突も激しく平沢は「（横川と）傍から見ると険悪に見える事もあるくらいにやりあってた」と語り、後年平沢は横川がバンドから来るストレスで脱退したことを明かしている\[26\]。三浦は後年「もうP-MODELに興味が持てなくなっていた」と回顧しており\[27\]、この時期の活動に疑問を感じた三浦と横川が1985年末を以って脱退する事となる。ただし、両者とも平沢と仲が悪くなった訳では無く脱退後も交流は続いている。
 
 </div>
 
@@ -1280,9 +1307,11 @@ TAKA</p></td>
 
 <div class="NavContent" style="text-align: left;">
 
-  - 再びテクノポップ期の楽曲が演奏されるようになり、中野、高橋加入後にはMIDIギターやシンセサイザー、シーケンサーを導入した。封印していたテクノポップへ接近しているが、シーケンサー類が普及し画期的でも無くなった事により再び取り入れる事になった。
-  - 高橋はシーケンサーやカセットデッキも担当する為、「Systems」とクレジットされた。ただし、ライブではシーケンサーは使用されず、同期を不得手としていた田井中に対する配慮のために全て手弾きしていた。また、ライブでは曲と曲との境界が無くなり、ほぼメドレー形式で演奏を行うようになる。ビジュアルの面ではメンバーの衣装が統一されるようになり、ツアー毎にテーマに沿った衣装でライブを行う様になる。メンバーの衣装統一に関しては解凍後にも受け継がれた。
-  - メンバーである中野と高橋\[22\]が楽曲を提供するようになり、ワンマンバンド色は幾分かは薄くなっていった。
+  - 7thアルバム『[ONE PATTERN](https://ja.wikipedia.org/wiki/ONE_PATTERN "wikilink")』において、封印していたテクノポップへ接近しているが、シーケンサー類が普及し画期的でも無くなった事により再び取り入れる事になった。
+  - 高橋はシーケンサーやカセットデッキも担当する為、「Systems」とクレジットされた。ただし、ライブではシーケンサーは使用されず、同期を不得手としていた田井中に対する配慮のために全て手弾きしていた。平沢はMIDIギターも導入したが、不調になる事が多く、演奏が中断する事も多かった。
+  - ライブパフォーマンスにおいては曲と曲との境界が無くなり、ほぼメドレー形式で演奏を行うようになる。
+  - 1987年に発売される予定だったアルバム「モンスター」には中野と高橋の制作した楽曲が収録される予定となり、ワンマンバンド色は幾分かは薄くなっていった。高橋の制作した楽曲は脱退の為にお蔵入りとなったが、高橋の脱退ライブで一部が演奏された。「モンスター」収録予定だった一部の楽曲は平沢ソロアルバム「[時空の水](https://ja.wikipedia.org/wiki/時空の水 "wikilink")」、中野ソロアルバム「USER UNKNOWN」にてセルフカバーがされている。ボックスセット「[太陽系亞種音](../Page/太陽系亞種音.md "wikilink")」、ライブDVD「三界の人体地図」には当時のライブ音源・映像が収録されている。
+  - ビジュアルの面ではメンバーの衣装が統一されるようになり、ツアー毎にテーマに沿った衣装でライブを行う様になる。メンバーの衣装統一に関しては解凍後にも受け継がれた。
 
 </div>
 
@@ -1300,8 +1329,7 @@ TAKA</p></td>
 
   - 凍結前は意図的に避けていた「テクノポップ」を宣言し、よりサイバー感を高めたサウンドや、科学技術、特にコンピューター等をテーマにした歌詞、を展開している。また平沢ソロで培った、メロディやコンピュータのなかにプリミティヴな精神世界を見出す姿勢が貫かれている。
   - メンバー選出に対し平沢は、「打ち込みができる人（＝ことぶき）、楽器を弾けてルックスがいい人（＝藤井）、そして秋山。」と語っている。藤井以外は元P-MODELメンバー兼平沢ソロバンド参加者であった。同じく平沢ソロバンドに参加していた[砂原良徳](../Page/砂原良徳.md "wikilink")にもオファーをしていたが、[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")加入の話が先となりこの話は流れた。
-  - この時代の楽曲は殆どがことぶき光が編曲を担当し、ライブのオープニングSE（出囃子）や凍結前の楽曲のライブアレンジはことぶきがプログラムを打ち込んでいた。
-  - ライブでは、ことぶき光のキーボードセットは「砦」と呼ばれ、パソコンのキーボード、「魂」と呼ばれる球体などが飾られており、キーボードやシーケンサーが縦に立て掛けられたまま演奏した\[23\]。秋山はキーボード兼ダンス担当だったため、半裸でステージを縦横無尽に駆け巡る、常にマラカスを振りながら踊る、キーボードを蹴飛ばすなどのパフォーマンスを行った。
+  - ライブでは、ことぶき光のキーボードセットは「砦」と呼ばれ、パソコンのキーボード、「魂」と呼ばれる球体などが飾られており、キーボードやシーケンサーが縦に立て掛けられたまま演奏した\[28\]。秋山はキーボード兼ダンス担当だったため、半裸でステージを縦横無尽に駆け巡る、常にマラカスを振りながら踊る、キーボードを蹴飛ばすなどのパフォーマンスを行った。
 
 </div>
 
@@ -1337,10 +1365,10 @@ TAKA</p></td>
 <div class="NavContent" style="text-align: left;">
 
   - 改訂期と同じくコンセプト・アルバムが中心。2002年に発売されたボックスセット『太陽系亞種音』で「今までのP-MODELの活動はアシュオンと呼ばれる物体の大規模な実験のためだった」という内容が綴られ、『[ビストロン](https://ja.wikipedia.org/wiki/ビストロン "wikilink")』ではその物語の続編として位置付けられた。ライブでは「亜種音培養炉」と呼ばれる巨大なセットが鎮座している。この「培養炉」は2011年に起きた[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")により破損し、そこから2ndアルバム『[гипноза](https://ja.wikipedia.org/wiki/гипноза "wikilink")』の物語が始まる。その後アシュオンにまつわる話はライブ「パラレルコザック」、「HYBRID PHONON」を経て、平沢がプロデュースしたバンドPEVOのライブ「NEOZIC」で完結し、平沢ソロライブ「WORLD CELL 2015」へ繋がっていった。
-  - 当初は改訂期の平沢ソロ的手法は幾分抑えられ、解凍期や初期の頃の様なテクノポップサウンドとなっていたが、「回＝回」では中期～改訂期の手法を踏襲した上で、作風をソロに寄せたと明言している。\[24\]
+  - 当初は改訂期の平沢ソロ的手法は幾分抑えられ、解凍期や初期の頃の様なテクノポップサウンドとなっていたが、「回＝回」では中期～改訂期の手法を踏襲した上で、作風をソロに寄せたと明言している。\[29\]
   - 当初は平沢のソロプロジェクトであったが、2ndアルバムでは田中靖美とPEVO1号がゲストで参加した。2014年に行われた全てのライブではPEVO1号がサポートメンバーとして、「パラレル・コザック」では謎の毛糸帽の男（福間創）がゲストで登場した。2018年のライブ『回＝回』ではペストマスクを被った正体不明の「白会人」であるSSHOとTAZZがサポートメンバーになっている。
   - ライブではP-MODEL時代の曲も演奏され、「トーキョービストロン」と「回＝回」で披露されたアレンジは音源化されている。
-  - 2013年時点でシンセサイザー音源は専ら[Synth1を使用しており](https://ja.wikipedia.org/wiki/:en:Synth1 "wikilink")、核P-MODELの曲でもメインの音源として多用されている。\[25\]
+  - 2013年時点でシンセサイザー音源は専ら[Synth1を使用しており](https://ja.wikipedia.org/wiki/:en:Synth1 "wikilink")、核P-MODELの曲でもメインの音源として多用されている。\[30\]
 
 </div>
 
@@ -1349,259 +1377,19 @@ TAKA</p></td>
 ## その他エピソード
 
   - MANDRAKE結成時からの「パート不問」の伝統を受け継いでいる。
-      - この為、元々キーボーディストだった秋山が田中の意向で未経験のベースを担当することになった。秋山脱退後の「[Potpourri](https://ja.wikipedia.org/wiki/POTPOURRI "wikilink")」レコーディング時にはベーシストが不在\[26\]だったため、平沢と田中がベースを弾いている。
+      - この為、元々キーボーディストだった秋山が田中の意向で未経験のベースを担当することになった。秋山脱退後の「[Potpourri](https://ja.wikipedia.org/wiki/POTPOURRI "wikilink")」レコーディング時にはベーシストが不在\[31\]だったため、平沢と田中がベースを弾いている。
       - 中野が加入した際には空席となっていたベースとキーボードのどちらか選択させられ、高橋は元々ベーシストだったがキーボード担当になった。
       - また、横川がバイオリンを弾く際には平沢がベース、三浦がギターを弾く変則構成がとられた。ベース不在の解凍期以降も曲によっては秋山や小西がベースを弾いている。
-  - メジャーデビューシングル「美術館で会った人だろ」の歌詞に“*美術館に 火をつけるよ*”というフレーズがある為、平沢は「消防士の父を持つにも関わらず放火予告でレコード会社と契約した」と後年ネタにしている。\[27\]
+  - メジャーデビューシングル「美術館で会った人だろ」の歌詞に“*美術館に 火をつけるよ*”というフレーズがある為、平沢は「消防士の父を持つにも関わらず放火予告でレコード会社と契約した」と後年ネタにしている。\[32\]
   - 活動再開こそ絶望視されているものの元メンバー同士の関係は現在でも良好である。2000年代以降は楽曲制作やライブ共にほぼ一人で行っていた平沢も2010年代から、かつて平沢がプロデュースしたShampoo、PEVOのメンバーも交えて共演、共作など盛んに交流が行われている。
-  - [かきふらい](https://ja.wikipedia.org/wiki/かきふらい "wikilink")による漫画「[けいおん！](https://ja.wikipedia.org/wiki/けいおん! "wikilink")」の主要登場人物の氏名はP-MODELのメンバーに由来するのではないかと双方のファンから指摘されており\[28\]\[29\]、これに対して「由来」となったメンバーもそれぞれ反応している。
-      - 平沢はTwitterを開設直後の[2009年](../Page/2009年.md "wikilink")10月に「間違えてないか？私は平沢進だぞ。平沢唯じゃない。」とのツイートを行った\[30\]。この発言によりフォロワー数が一気に増加したが、狙って言ったものではなく「本心」であるとしている\[31\]。なお、その後もTwitterで度々平沢唯に言及している。
+  - [かきふらい](https://ja.wikipedia.org/wiki/かきふらい "wikilink")による漫画「[けいおん！](https://ja.wikipedia.org/wiki/けいおん! "wikilink")」の主要登場人物の氏名はP-MODELのメンバーに由来するのではないかと双方のファンから指摘されており\[33\]\[34\]、これに対して「由来」となったメンバーもそれぞれ反応している。
+      - 平沢はTwitterを開設直後の[2009年](../Page/2009年.md "wikilink")10月に「間違えてないか？私は平沢進だぞ。平沢唯じゃない。」とのツイートを行った\[35\]。この発言によりフォロワー数が一気に増加したが、狙って言ったものではなく「本心」であるとしている\[36\]。なお、その後もTwitterで度々平沢唯に言及している。
       - 秋山は田井中律モデルのドラムスティックを購入したことをブログで公表しており、ソロ活動やCROSSで使用している。
       - 中野は[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")7月、実弟から中野梓フィギュアを差し入れされている。
 
-## ライブ・データ
-
-### ツアーライブ
-
-  - **P-TRICK PLAN vol.1** (1980年1月3日～1月26日)
-  - **P-TRICK PLAN vol.2** (1980年3月28日～4月13日)
-  - **万物三つこぶらくだの旅**（1981年6月5日～6月9日）
-  - **BAND in Perspective** (1982年3月8日～3月20日)
-  - **ANOTHER GAME TOUR** (1983年10月24日～12月27日)
-  - **ANOTHER GAME TOUR 2nd** (1984年3月16日～3月25日）
-  - **SCUBA TOUR** (1984年8月28日～11月3日)
-  - **SCUBA TOUR(II)** (1984年12月16日～12月23日)
-      - 12月21日「因果律ランダムパーティ LAST part1」、12月22日「part2」、12月23日「アトミック・カフェ・ミュージック・フェスティバル《冬の陣》」とサブタイトルが追加された。
-  - **P-MODEL TOUR** (1985年10月26日～12月27日)
-      - 最終公演では「“KARKADOR LIVE LAST”P-MODEL 2DAYS」として、2days公演となった。
-  - **“ONE PATTERN”TOUR** (1986年7月19日～9月28日)
-  - **“ONE PATTERN”TOUR 2nd** (1986年10月19日～10月25日)
-  - **Model House Presents tour** (1987年5月8日～5月29日)
-  - **TOUR SENSONICS** (1987年7月1日～7月26日)
-  - **P-MODEL TOUR'92** (1992年3月10日、3月18日)
-  - **TOUR ON GRID** (1992年5月11日～5月19日、7月14日（振替公演）)
-  - **能率の予感** (1992年12月7日～12月11日)
-  - **BIG BODY TOUR** (1993年5月26日～6月21日)
-  - **電子舟訪日行脚** (1996年3月9日～4月26日)
-  - **LIVE 電子悲劇** (1998年1月21日～2月7日)
-      - それぞれサブタイトルが『COLOR-7～0』と変更された。
-  - **音楽産業廃棄物～P-MODEL OR DIE** (1999年10月24日～10月28日、11月6日)
-      - 追加公演は「音楽産業廃棄物 取扱技能者労働組合 総決起集会」に改題された。
-
-### ライブイベント
-
-  - **カナリアの籠展開図ぐるりと回る360度期待は記憶気のどくだねオゾノコブラノスキー** (1981年10月18日「part1(Perspective)、10月31日「part2(Story)」、11月8日「part3(Canary)」)
-  - **突拍子のためのLesson.1 BAND in Perspective** （1982年3月26日）
-  - **MODEL HOUSE & office GIN-BAN presents VIDEO MUSIC** （1982年11月21日「vol.1」、12月26日「vol.2 COOL INDEX」、1984年4月22日「vol.3」）
-  - **モデルハウス プレゼンツ 夏休み特別企画 NO GAMES NIGHT** （1983年8月6日「vol.1」、8月7日「vol.2」）
-  - **SPECIALDAY\&NIGHT** （1984年4月15日）
-  - **“10MILES HIGH”P-MODEL 3DAYS** (1985年5月26日～5月28日)
-  - **埼玉県動説 重力過密地帯** (1986年4月28日)
-  - **MODEL HOUSE Presents Vol.1** (1986年5月9日)
-  - **ゼブラの日** (1986年11月26日)
-  - **進化の軌跡 ガラパゴス島の待ち伏せ男** (1987年3月14日)
-      - 「ガラパゴス島の待ち伏せ男」とはパーソネルに復帰した田井中のことを指す。
-  - **アトミック・カフェ** （1987年4月24日）
-  - **売上税黄金狂時代** （1987年4月25日）
-  - **Shoot the Monster** (1987年6月20日)
-  - **此岸のパラダイス亀有永遠のワンパターンバンド解散記念ライブ** （1987年9月5日）
-  - **埼玉県動説 II** （1987年9月12日）
-  - **グレーテルの一撃？** (1987年9月27日)
-  - **逆さパラダイス恐竜図鑑のたくらみ** (1987年11月1日)
-  - **北から来たオルガン弾き** (1987年12月4日)
-  - **関西3DAYS“天国のANAGRAM”** (1988年3月3日～5日)
-      - それぞれサブタイトルが「ビーナスの知能指数」「ようこそ雛鳥王殿」「BAND IN PERSPECTIVE II」と変更された。
-      - 最終公演「BAND IN PERSPECTIVE II」はバンド名を「Heaven」にしたシークレットライブ。
-      - サブタイトルは最終公演以外アナグラムになっている。
-  - **DAY'S BRAVO\!・NIGHT'S BRAVO\!** (1988年6月10日～6月11日)
-      - 2daysとして開催。
-  - **FEAR'S BRAVO\!** （1988年7月29日）
-  - **凍結ライブ** （1988年12月28日）
-  - **ERROR FORCE** (1990年9月23日)
-      - 本来は平沢のソロライブであり、P-MODELとしてはシャレでのライブである。
-      - この年より1996年までP-MODELと平沢ソロ含め、毎年日比谷野外音楽堂でライブイベントが行われるのが恒例となっていた。
-  - **ERROR OF UNIVERSE** (1991年9月23日)
-  - **PLANET ERROR** （1992年10月25日）
-  - **ERROR OF INFORMATION 待機** (1993年10月11日)
-  - **ENDING ERROR** (1995年9月30日)
-  - **Branch-O** (1996年10月5日)
-  - **Communo Hybridia** (1996年11月15日)
-  - **非局所性LIVE** (1997年10月21日、10月22日)
-  - **ASIA FOR THAILAND** (1997年12月6日)
-  - 核P-MODEL LIVE **トーキョー・ビストロン** (2004年11月8日～11月13日)
-  - 核P-MODEL LIVE **パラレル・コザック** (2014年1月11日～1月14日)
-  - 平沢進×核P-MODEL **HYBRID PHONON** (2014年10月11日～10月13日)
-  - 核P-MODEL LIVE **回=回** (2018年9月14日、15日、11月16日、17日、2019年1月14日(追加公演))
-      - P-MODEL時代含めおよそ20年ぶりに追加公演が行われた。
-
 ## 作品
 
-### シングル・ソノシート
-
-  - **美術館で会った人だろ**（1979年7月25日）
-  - **KAMEARI POP**（1979年12月25日）
-  - **ミサイル**（1980年5月25日）
-  - **ジャングルベッドII**（1981年3月25日）
-  - **P-0** (1983年8月25日)（非売品）
-      -
-        ブックレット「ANOTHER PAPERS」付属ソノシート。
-  - **SOLID AIR DANCE VERSION** (1983年10月25日)（非売品）
-      -
-        ライブ会場限定で配布されたソノシート。
-  - **[IKARI/NO PERSPECTIVE](https://ja.wikipedia.org/wiki/IKARI/NO_PERSPECTIVE "wikilink")** (1984年2月)
-  - **RE;**（1985年5月)
-  - **PROT DRUM/D-SIDE**（1985年5月）
-  - **アナザー デイ**（1986年5月）（非売品）
-      -
-        プロモーション用シングル。
-  - **P-MODEL OPENING SE 1992** (1992年2月26日)（非売品）
-  - **P-MODEL demo** (1994年5月25日)（非売品）
-  - **SAKSIT North Passage MIX** (1996年2月29日)（非売品）
-  - **[Rocket Shoot](https://ja.wikipedia.org/wiki/RocketShoot "wikilink")**（1996年10月19日）
-  - **ASHURA CLOCK**（1997年8月1日）
-  - **LAYER-GREEN**（1997年8月30日）
-
-### アルバム
-
-  - **[IN A MODEL ROOM](https://ja.wikipedia.org/wiki/IN_A_MODEL_ROOM "wikilink")**（イン・ア・モデル・ルーム、1979年8月25日）
-  - **[LANDSALE](https://ja.wikipedia.org/wiki/LANDSALE "wikilink")**（ランドセル、1980年4月25日）
-  - **[POTPOURRI](https://ja.wikipedia.org/wiki/POTPOURRI "wikilink")**（ポプリ、1981年3月25日）
-  - **[Perspective](https://ja.wikipedia.org/wiki/Perspective_\(P-MODELのアルバム\) "wikilink")**（パースペクティブ、1982年3月1日）
-  - **[ANOTHER GAME](https://ja.wikipedia.org/wiki/ANOTHER_GAME "wikilink")**（アナザー・ゲーム1984年2月25日）
-  - **[KARKADOR](https://ja.wikipedia.org/wiki/KARKADOR "wikilink")**（カルカドル、1985年10月25日）
-  - **[ONE PATTERN](https://ja.wikipedia.org/wiki/ONE_PATTERN "wikilink")**（ワン・パターン、1986年6月25日）
-  - **[P-MODEL](https://ja.wikipedia.org/wiki/P-MODEL_\(アルバム\) "wikilink")**（ピー・モデル、1992年2月26日）
-  - **[big body](https://ja.wikipedia.org/wiki/big_body "wikilink")**（ビッグ・ボディ、1993年3月25日）
-  - **[舟](https://ja.wikipedia.org/wiki/舟_\(P-MODELのアルバム\) "wikilink")**（ふね、1995年12月9日）
-  - **[電子悲劇/〜ENOLA](https://ja.wikipedia.org/wiki/電子悲劇/〜ENOLA "wikilink")**（でんしひげき/エノラ、1997年11月29日）
-  - **[音楽産業廃棄物〜P-MODEL OR DIE](https://ja.wikipedia.org/wiki/音楽産業廃棄物〜P-MODEL_OR_DIE "wikilink")**（おんがくさんぎょうはいきぶつピー・モデル・オア・ダイ、1999年9月1日）
-
-<!-- end list -->
-
-  - **モンスター**（未発表アルバム）
-      -
-        収録予定だった一部の楽曲は平沢ソロ作品「[時空の水](https://ja.wikipedia.org/wiki/時空の水 "wikilink")」、ボックスセット「太陽系亞種音」、ライブDVD「三界の人体地図」に収録されている。
-        「MONSTER A GOGO」
-          -
-            『太陽系亞種音』には1987年当時のデモトラックと2002年当時の平沢によるスタジオレコーディングを混ぜたものが収録されている。
-        「コヨーテ」「仕事場(仮題)」「げん(仮題)」
-          -
-            平沢ソロ作品『時空の水』でセルフカバーをしている。「仕事場」は「仕事場はタブー」、「げん」は「デューン」と改題された。
-        「MONSTERS A GOGO」
-          -
-            凍結後に中野が参加したバンド[LONG VACATIONが歌詞を変えて](https://ja.wikipedia.org/wiki/LONG_VACATION "wikilink")「LONG LONG VACATION」としてカバーしている。
-        「CALL UP HERE」
-          -
-            LONG VACATIONがカバー、中野ソロ作品『USER UNKNOWN』にてセルフカバーをしている。
-
-### ライブアルバム
-
-  - **[PAUSE](https://ja.wikipedia.org/wiki/PAUSE "wikilink")**（1994年5月25日）
-  - **[VIRTUAL LIVE1 Live at Roppongi S-KEN Studio 1979](https://ja.wikipedia.org/wiki/VIRTUAL_LIVE "wikilink")**（1999年7月6日）
-  - **[VIRTUAL LIVE2 Live at Shibuya Nyron100% 1980](https://ja.wikipedia.org/wiki/VIRTUAL_LIVE "wikilink")**（1999年10月25日）
-  - **[VIRTUAL LIVE3 Live at 京大西部講堂 1982](https://ja.wikipedia.org/wiki/VIRTUAL_LIVE "wikilink")**（1999年11月25日）
-      -
-        VIRTUAL LIVEシリーズは架空のライブ音源。
-
-### その他のアルバム
-
-  - **[PERSPECTIVE II](https://ja.wikipedia.org/wiki/Perspective_\(P-MODELのアルバム\) "wikilink")**（カセット版：1982年3月1日）(CD版：1991年8月25日）(再発：2007年4月25日)
-      -
-        アルバム『PERSPECTIVE』別テイク集。[カセットテープのみでの発売](../Page/コンパクトカセット.md "wikilink")。あとにCD化。
-  - **[不許可曲集](https://ja.wikipedia.org/wiki/不許可曲集 "wikilink")**（オリジナル：1983年3月25日）(再編集版：1988年春）(再再編集版：1998年10月21日)
-      -
-        平沢進の自宅録音・ボツ曲集。事務所直販のカセット。
-  - **[SCUBA](https://ja.wikipedia.org/wiki/SCUBA_\(P-MODELのアルバム\) "wikilink")**（1984年10月10日）
-      -
-        「[宝島](../Page/宝島社.md "wikilink")」発行の[カセットブック](https://ja.wikipedia.org/wiki/カセットブック "wikilink")。平沢進と三浦俊一の2人だけで録音されたアルバム。89年に再発されたCDとはミックスが異なる。
-  - **モアレ・カセット**（1985年5月～1988年12月まで配布）
-      -
-        当時のファンクラブ会員限定で定期的に配布されたカセットテープ。田井中と平沢の対談やデモ音源、ライブ音源、平沢・中野が作曲したジングル集などがある。
-  - **[LIVEの方法](https://ja.wikipedia.org/wiki/LIVEの方法 "wikilink")**（1994年7月23日）
-      -
-        ことぶき光が凍結前の楽曲を解凍後のライブ用にアレンジしたスタジオ録音集。
-  - **[Corrective Errors〜remix of 舟](https://ja.wikipedia.org/wiki/Corrective_Errors〜remix_of_舟 "wikilink")**（1995年9月30日）
-      -
-        小西健司と福間創によるリミックス。
-  - **[SCUBA RECYCLE](https://ja.wikipedia.org/wiki/SCUBA_\(P-MODELのアルバム\) "wikilink")**（1995年11月30日）
-      -
-        『SCUBA』のリ・アレンジ集CD。ブックレットも変更されている。
-  - **[P-PLANT CD Vol.1](https://ja.wikipedia.org/wiki/P-PLANT_CD_Vol.1 "wikilink")**（2000年6月1日）
-      -
-        1999年に配信されたサンプル集などがすべて収録。
-  - **[太陽系亞種音](../Page/太陽系亞種音.md "wikilink")**（オリジナル版:2002年5月10日　再発売版:2014年7月4日）
-      -
-        クロニクル・アルバム集ボックス（バインダー）セット。オリジナル・アルバム12枚をはじめ、過去発表されたP-MODELの音源のほぼ全てを収録した「P-MODEL全集」とも言えるボックスセット。2010年にバインダー版の販売を終了し、装丁を変更して2014年7月に再発売された。
-
-### 核P-MODEL名義でのアルバム・シングル
-
-  - **[ビストロン](https://ja.wikipedia.org/wiki/ビストロン "wikilink")**（2004年10月7日）
-  - **アンチ・ビストロン\[MecanoVersion\]**（2005年6月30日） - （ショップメカノ限定販売）
-  - **BigBrother-可逆的分離態様**（2008年5月20日） - （ショップメカノ限定販売）
-  - **[Гипноза](https://ja.wikipedia.org/wiki/Гипноза "wikilink")**（2013年11月6日）
-  - **[導入のマジック](https://ja.wikipedia.org/wiki/導入のマジック "wikilink")**（2014年5月21日） - （平沢進/核P-MODEL)
-  - **[回=回](https://ja.wikipedia.org/wiki/回=回 "wikilink")** (2018年9月5日)
-
-### ダウンロードコンテンツ
-
-  - **不法投棄** (1999年)
-      -
-        音楽産業廃棄物とVIRTUAL LIVEのサンプル集
-  - **VIRTUAL LIVE SAMPLE** (1999年)
-      -
-        VIRTUAL LIVEのサンプル集。すべての曲が転調、歌詞の改変がされておりJASRACへの対策が施されている。
-  - **VIRTUAL LIVE1 Live at Roppongi S-KEN Studio 1979**（1999年)
-  - **VIRTUAL LIVE2 Live at Shibuya Nyron100% 1980**（1999年)
-  - **VIRTUAL LIVE3 Live at 京大西部講堂 1982**（1999年)
-  - **音楽産業廃棄物～P-MODEL OR DIE** (1999年9月)
-  - **核P-MODELライブ達成記念** (**核P-MODEL**、2005年2月)
-  - **LIVE回=回 追加公演決定御礼無料配信**(**核P-MODEL**、2018年9月22日)
-      -
-        LIVE回＝回で使用された音源を再編集したものとして「TRAVELATOR_PATYF」が配信された。「PATYF」は「Pay Attention To Your Feet」の意\[32\]。
-  - **LIVE回=回 大阪公演メモリアル・パッケージカード** (**核P-MODEL**、2018年11月7日)
-      -
-        音源は「回INΓ◎ΓΞIII\~ZEBRA2018」「遮眼大師_回＝回大阪ver.」「ECHO-233_回＝回大阪ver.」、その他にライブショットと、アルバムやライブの世界観を補完する映像「拝啓 HUMAN-LE殿」が同梱されている。
-  - **LIVE回=回 東京公演メモリアル・パッケージカード** (**核P-MODEL**、2019年1月9日)
-      -
-        音源は「遡及発信 ～ いまわし電話」「無頭騎士の伝言 回＝回 東京ver.」「PLANET-HOME 回＝回 東京ver.」、その他にライブショットと、アルバムやライブの世界観を補完する映像「禁断の会人図」が同梱されている。
-  - **LIVE回=回 豊洲公演メモリアル・パッケージカード** (**核P-MODEL**、2019年3月29日)
-      -
-        音源は「Grid Sea ～ 回収船」「幽霊飛行機 回=回 豊洲ver.」「HUMAN-LE 回=回 豊洲ver.」、その他にライブショットと、アルバムやライブの世界観を補完する映像「浮かぶ会人、沈む会人」が同梱されている。
-
-### ビデオ・DVD
-
-  - **MOIRE VISION**（1988年2月10日発売）ファンクラブ会員限定発売
-      -
-        1987年に行われた「Shoot the Monster」「北から来たオルガン弾き」が収録されている。
-  - **三界の人体地図**（VHS版：1988年7月1日、再発：1996年12月10日）(DVD版：2005年4月1日)
-      -
-        1988年に行われた「FUJI AV LIVE」が収録されている。未発売となってしまった「モンスター」収録曲も演奏されている。
-        再発版・DVD版は「偉大なる頭脳」「ATOM-SIBERIA」が追加されている。DVD版では初期ロットに不具合があり、問い合わせれば修正版と交換できる。
-  - **BITMAP 1979-1992**（VHS・LD版：1992年9月2日 再発：2000年12月 DVD版：2014年12月）再発版はFC会員限定発売
-      -
-        1992年に行われた「P-MODEL TOUR'92」を中心に、過去のライブとプロモーションビデオを収録している。
-        2014年には平沢ソロデビュー25周年を期してDVD版として再発売された。
-  - **ENDING ERROR**（VHS版：1996年1月）(DVD版：2009年9月15日)どちらもFC会員限定発売
-      -
-        1994年に行われた同名のライブが収録されているが、当日演奏された「Solid Air」のみカットされている。ラストにはメンバーのメッセージが入っている。
-  - **非局所性LIVEビデオ**(1997年12月)
-      -
-        1997年に行われた「非局所性LIVE」が収録されている。
-        当時の事務所が行っていたサービス、平沢定期便に加入または当時販売されていたP-MODEL特製PHSを購入すれば無料で配布されていたが、画像が荒く加工されており、カラーでフルなのは最初の一曲のみ、後はモノクロで全て曲のだいたい半分で終了する。（いわゆるブートレグに近い。）
-  - **LIVE VIDEO 音楽産業廃棄物〜P-MODEL OR DIE**（VHS版：2000年4月4日）(DVD版：2011年3月15日)
-      -
-        1999年に行われた同名のライブとプロモーションビデオ「論理空軍」の模様が収録されている。DVD版では「論理空軍」のディレクターズ・カット版も収録されている。
-  - **LIVE VISTORON**（**核P-MODEL**、2005年4月1日）
-      -
-        2005年に行われた核P-MODELライブ「トーキョービストロン」の模様が収録されている。ボーナストラックとして初日、2日目にしか演奏されなかった曲も収録されている。
-  - **LIVE パラレル・コザック**(**核P-MODEL**、2014年)
-      -
-        2014年に行われた核P-MODELライブ「パラレル・コザック」の模様が収録されている。
-  - **Hybrid Phonon**(**平沢進**、**核P-MODEL**、2014年)
-      -
-        2014年に行われた平沢進×核P-MODELの結合ライブ「Hybrid Phonon」の模様が収録されている。公演3日目の曲目を中心に、ボーナストラックとして日替わりで演奏されたすべての曲を含む全30曲が収録されている。
-
-### プロモーションビデオ
+## ミュージックビデオ
 
 <table>
 <tbody>
@@ -1614,7 +1402,7 @@ TAKA</p></td>
 <td><p>不明</p></td>
 <td><p>偉大なる頭脳（1979年）<br />
 ASHURA CLOCK(discomuniactor)（1997年）</p></td>
-<td><p>「偉大なる頭脳」は21stセンチュリーワンダーランド制作。[33]</p></td>
+<td><p>「偉大なる頭脳」は21stセンチュリーワンダーランド制作。[37]</p></td>
 </tr>
 <tr class="odd">
 <td><p>平沢裕一</p></td>
@@ -1641,7 +1429,7 @@ HARM HARMONIZER(1984年)</p></td>
 <tr class="odd">
 <td><p>神尾明朗</p></td>
 <td><p>Another Day（1986年）</p></td>
-<td><p>ACユニット制作。[34]このPVに納得が出来なかった平沢はAmigaを導入し、自分で制作するようになる。[35]</p></td>
+<td><p>ACユニット制作。[38]このPVに納得が出来なかった平沢はAmigaを導入し、自分で制作するようになる。[39]</p></td>
 </tr>
 <tr class="even">
 <td><p>平沢進</p></td>
@@ -1669,24 +1457,1638 @@ http (1996年)</p></td>
 </tbody>
 </table>
 
-## 書籍
+## ライブ・データ
 
-  - **P-model LANDSALE P-model RECORD COPY FULL SCORE**（1980年）
-  - **ANOTHER PAPERS**（1983年）
-  - **三界の人体地図**（1988年）
-  - **P-MODEL**（1992年）
-  - **音楽産業廃棄物 OPEN SOURCE/卓上のウロボロス**（1999年12月）
-      -
-        P-MODEL結成20周年、平沢進ソロ・デビュー10周年記念公式単行本。
-  - **改訂復刻版 音楽産業廃棄物**（2005年6月）
-      -
-        2005年までのデータを収録した改訂復刻版。
+  - 正式なライブタイトルがあるもののみ記載。
 
-### 電子書籍
+### ライブ・ツアー
 
-  - **改訂DIGITAL復刻版音楽産業廃棄物**（2010年）
-      -
-        改訂復刻版のpdfファイルも付属。
+  - 中止になった公演は取消線、振替公演は<span style="color:#0000FF">青色</span>、追加公演は<span style="color:#FF0000">赤色</span>で表記
+
+<table>
+<thead>
+<tr class="header">
+<th><p>日程</p></th>
+<th><p>タイトル</p></th>
+<th><p>公演スケジュール</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/1979年.md" title="wikilink">1979年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/9月3日" title="wikilink">9月3日</a> - <a href="../Page/9月13日.md" title="wikilink">9月13日</a></p></td>
+<td><p><strong><a href="../Page/ヴァン・ヘイレン.md" title="wikilink">VAN HALEN来日ツアー</a></strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>6ヶ所7公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>09／03　京都 <a href="../Page/ロームシアター京都.md" title="wikilink">京都会館</a>
+</dd>
+<dd>09／05　福岡 <a href="../Page/福岡市九電記念体育館.md" title="wikilink">九電記念体育館</a>
+</dd>
+<dd>09／07　名古屋 <a href="../Page/名古屋市公会堂.md" title="wikilink">公会堂</a>
+</dd>
+<dd>09／08　倉敷 市立体育館
+</dd>
+<dd>09／10　大阪 <a href="../Page/大阪府立体育会館.md" title="wikilink">府立体育会館</a>
+</dd>
+<dd>09／11　大阪 府立体育会館
+</dd>
+<dd>09／13　千代田 <a href="../Page/日本武道館.md" title="wikilink">日本武道館</a>
+</dd>
+</dl>
+</div>
+</div></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/1980年" title="wikilink">1980年</a></p></td>
+<td><p><a href="../Page/1月3日.md" title="wikilink">1月3日</a> - <a href="../Page/1月11日.md" title="wikilink">1月11日</a></p></td>
+<td><p><strong>P-TRICK PLAN Vol.1</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>7ヶ所7公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>01／03　京都 共和村
+</dd>
+<dd>01／04　岐阜 キャスパー
+</dd>
+<dd>01／05　名古屋 芸音劇場
+</dd>
+<dd>01／06　浜松 キッドハウス
+</dd>
+<dd>01／08　大阪 バーボンハウス
+</dd>
+<dd>01／09　京都 サーカス・サーカス
+</dd>
+<dd>01／11　渋谷 <a href="https://ja.wikipedia.org/wiki/屋根裏_(ライブハウス)" title="wikilink">屋根裏</a>
+</dd>
+</dl>
+</div>
+</div></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/3月28日.md" title="wikilink">3月28日</a> - <a href="../Page/4月13日.md" title="wikilink">4月13日</a></p></td>
+<td><p><strong>P-TRICK PLAN Vol.2</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>9ヶ所9公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>03／28　神戸 児童文化会館
+</dd>
+<dd>03／29　京都 サーカス・サーカス
+</dd>
+<dd>04／01　鳥取 ブギランド
+</dd>
+<dd>04／02　金沢 ジャクソン
+</dd>
+<dd>04／03　京都 Club MODERN
+</dd>
+<dd>04／04　名古屋 <a href="https://ja.wikipedia.org/wiki/DIAMOND_HALL" title="wikilink">雲龍ホール</a>
+</dd>
+<dd>04／11　盛岡 岩手教育会館
+</dd>
+<dd>04／12　北上 GIG
+</dd>
+<dd>04／13　仙台 ジャム
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/6月15日.md" title="wikilink">6月15日</a></p></td>
+<td><p><strong>POP THE HERO</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>06／15　駒込 <a href="../Page/三百人劇場.md" title="wikilink">三百人劇場</a>
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/11月21日.md" title="wikilink">11月21日</a></p></td>
+<td><p>'''P-MODEL in a “M” room concert</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>11／21　<a href="https://ja.wikipedia.org/wiki/慶應義塾大学" title="wikilink">慶應義塾大学</a>三田キャンパス
+</dd>
+</dl>
+</div>
+</div></td>
+<td><p>菊池加入後初のライブ</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/1981年.md" title="wikilink">1981年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/6月5日" title="wikilink">6月5日</a> - <a href="../Page/6月9日.md" title="wikilink">6月9日</a></p></td>
+<td><p><strong>万物三つこぶらくだの旅</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>5ヶ所5公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>06／05　大阪 スタジオあひる
+</dd>
+<dd>06／06　枚方 ブロウダウン
+</dd>
+<dd>06／07　京都 サーカス・サーカス
+</dd>
+<dd>06／08　大阪 バーボンハウス
+</dd>
+<dd>06／09　神戸 ヤマハホール
+</dd>
+</dl>
+</div>
+</div></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/10月18日.md" title="wikilink">10月18日</a> - <a href="../Page/11月8日.md" title="wikilink">11月8日</a></p></td>
+<td><p><strong>カナリアの籠展開図ぐるりと回る360度<br />
+期待は記憶気のどくだねオゾノコブラノスキー</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>3ヶ所3公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>10／18　渋谷 <a href="https://ja.wikipedia.org/wiki/屋根裏_(ライブハウス)" title="wikilink">屋根裏</a>
+</dd>
+<dd>10／31　目黒 <a href="../Page/目黒鹿鳴館.md" title="wikilink">鹿鳴館</a>
+</dd>
+<dd>11／08　新宿 <a href="../Page/ロフト_(ライブハウス).md" title="wikilink">LOFT</a>
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/1982年.md" title="wikilink">1982年</a></p></td>
+<td><p><a href="../Page/3月8日.md" title="wikilink">3月8日</a> - <a href="../Page/3月20日.md" title="wikilink">3月20日</a></p></td>
+<td><p><strong>BAND in Perspective</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>7ヶ所7公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>03／08　横浜 シェルガーデン
+</dd>
+<dd>03／13　京都 サーカス・サーカス
+</dd>
+<dd>03／14　大阪 バラード
+</dd>
+<dd>03／15　神戸 <a href="../Page/チキンジョージ.md" title="wikilink">チキンジョージ</a>
+</dd>
+<dd>03／16　京都 磔磔
+</dd>
+<dd>03／19　津 備前
+</dd>
+<dd>03／20　名古屋 芸音劇場
+</dd>
+</dl>
+</div>
+</div></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/3月26日" title="wikilink">3月26日</a></p></td>
+<td><p><strong>突拍子のためのLesson.1</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>03／26　恵比寿 日仏会館
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/8月22日.md" title="wikilink">8月22日</a></p></td>
+<td><p><strong>突拍子のためのLesson.2</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>08／22　原宿 HAIR PEOPLE
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/1983年" title="wikilink">1983年</a></p></td>
+<td><p><a href="../Page/10月2日.md" title="wikilink">10月2日</a></p></td>
+<td><p><strong>LOOPING OPPOSITION</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>10／02　新宿 <a href="../Page/ロフト_(ライブハウス).md" title="wikilink">LOFT</a>
+</dd>
+</dl>
+</div>
+</div></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/10月24日.md" title="wikilink">10月24日</a> - <a href="../Page/12月27日.md" title="wikilink">12月27日</a></p></td>
+<td><p><strong>ANOTHER GAME TOUR</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>22ヶ所23公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>10／24　静岡 サーカスタウン
+</dd>
+<dd>10／25　京都 ビッグバン
+</dd>
+<dd>10／26　大阪 ポップコーン
+</dd>
+<dd>10／27　神戸 ヤマハホール
+</dd>
+<dd>10／28　名古屋 <a href="https://ja.wikipedia.org/wiki/Electric_Lady_Land" title="wikilink">E.L.L</a>
+</dd>
+<dd>11／02　仙台 ヤマハホール
+</dd>
+<dd>11／05　弘前 萬燈籠
+</dd>
+<dd>11／07　新潟 ヤマハホール
+</dd>
+<dd>11／09　高岡 もみの木ハウス
+</dd>
+<dd>11／13　横浜 <a href="../Page/横浜国立大学.md" title="wikilink">横浜国大常盤台キャンパス</a>
+</dd>
+<dd>11／14　恵比寿 日仏会館
+</dd>
+<dd>11／19　枚方 ブロウダウン
+</dd>
+<dd>11／21　小倉 IN＆OUT
+</dd>
+<dd>11／22　博多 <a href="https://ja.wikipedia.org/wiki/天神ビブレ" title="wikilink">ビブレホール</a>
+</dd>
+<dd>11／23　熊本 シティクラブ
+</dd>
+<dd>11／26　津 備前
+</dd>
+<dd>11／27　京都 磔磔
+</dd>
+<dd>11／28　名古屋 E.L.L
+</dd>
+<dd>12／03　千葉 ダンシングマザーズ
+</dd>
+<dd>12／10　前橋 Garcia
+</dd>
+<dd>12／11　横浜 シェルガーデン
+</dd>
+<dd>12／17　甲府 ハッピー愛ランド
+</dd>
+<dd>12／27　浜松 ホットレッグス
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/1984年.md" title="wikilink">1984年</a></p></td>
+<td><p><a href="../Page/3月16日.md" title="wikilink">3月16日</a> - <a href="https://ja.wikipedia.org/wiki/3月25日" title="wikilink">3月25日</a></p></td>
+<td><p><strong>ANOTHER GAME TOUR 2nd</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>8ヶ所8公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>03／16　豊橋 かごやはうす
+</dd>
+<dd>03／17　大阪 キャンディホール
+</dd>
+<dd>03／18　枚方 ブロウダウン
+</dd>
+<dd>03／19　広島 ウッディストリート
+</dd>
+<dd>03／22　京都 ビッグバン
+</dd>
+<dd>03／23　名古屋 <a href="https://ja.wikipedia.org/wiki/Electric_Lady_Land" title="wikilink">E.L.L</a>
+</dd>
+<dd>03／24　清水 BOWIE
+</dd>
+<dd>03／25　横浜 シェルガーデン
+</dd>
+</dl>
+</div>
+</div></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/4月15日.md" title="wikilink">4月15日</a></p></td>
+<td><p><strong>SPECIAL DAY＆NIGHT</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>04／15　新宿 <a href="../Page/ロフト_(ライブハウス).md" title="wikilink">LOFT</a>
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/6月24日.md" title="wikilink">6月24日</a> - <a href="../Page/8月5日.md" title="wikilink">8月5日</a></p></td>
+<td><p><strong>因果律ランダムパーティ</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所3公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>06／24　新宿 <a href="../Page/ロフト_(ライブハウス).md" title="wikilink">LOFT</a>
+</dd>
+<dd>08／04　新宿 LOFT
+</dd>
+<dd>08／05　新宿 LOFT
+</dd>
+</dl>
+</div>
+</div></td>
+<td><p>8月の2公演は「スペシャル公演」として開催</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/8月28日.md" title="wikilink">8月28日</a> - <a href="https://ja.wikipedia.org/wiki/11月3日" title="wikilink">11月3日</a></p></td>
+<td><p><strong>SCUBA TOUR</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>16ヶ所16公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>08／28　弘前 萬燈籠
+</dd>
+<dd>08／29　仙台 ヤマハホール
+</dd>
+<dd>09／02　京都 <a href="../Page/京都大学西部講堂.md" title="wikilink">京大西部講堂</a>
+</dd>
+<dd>09／15　横浜 シェルガーデン
+</dd>
+<dd>09／19　名古屋 <a href="https://ja.wikipedia.org/wiki/Electric_Lady_Land" title="wikilink">E.L.L</a>
+</dd>
+<dd>09／20　神戸 <a href="../Page/チキンジョージ.md" title="wikilink">チキンジョージ</a>
+</dd>
+<dd>09／22　小倉 IN＆OUT
+</dd>
+<dd>09／23　佐賀 GEILS
+</dd>
+<dd>09／24　博多 <a href="https://ja.wikipedia.org/wiki/天神ビブレ" title="wikilink">ビブレホール</a>
+</dd>
+<dd>09／26　広島 ウッディストリート
+</dd>
+<dd>09／27　松山 夢工場
+</dd>
+<dd>09／30　日比谷 <a href="../Page/日比谷野外音楽堂.md" title="wikilink">野外大音楽堂</a>
+</dd>
+<dd>10／12　大阪 キャンディホール
+</dd>
+<dd>10／24　渋谷 LIVE INN
+</dd>
+<dd>10／28　札幌 大谷会館
+</dd>
+<dd>11／03　新宿 <a href="https://ja.wikipedia.org/wiki/早稲田大学早稲田キャンパス" title="wikilink">早稲田大学本部キャンパス</a>
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/12月16日.md" title="wikilink">12月16日</a> - <a href="../Page/12月23日.md" title="wikilink">12月23日</a></p></td>
+<td><p><strong>SCUBA TOUR（Ⅱ）</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>4ヶ所5公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>12／16　静岡 モッキンバード
+</dd>
+<dd>12／17　渋谷 LIVE INN
+</dd>
+<dd>12／21　新宿 <a href="../Page/ロフト_(ライブハウス).md" title="wikilink">LOFT</a>
+</dd>
+<dd>12／22　新宿 LOFT
+</dd>
+<dd>12／23　文京 <a href="../Page/後楽園ホール.md" title="wikilink">後楽園ホール</a>
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/1985年" title="wikilink">1985年</a></p></td>
+<td><p><a href="../Page/5月26日.md" title="wikilink">5月26日</a> - <a href="../Page/5月28日.md" title="wikilink">5月28日</a></p></td>
+<td><p><strong>10MILES HIGH</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所3公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>05／26　新宿 <a href="../Page/ロフト_(ライブハウス).md" title="wikilink">LOFT</a>
+</dd>
+<dd>05／27　新宿 LOFT
+</dd>
+<dd>05／28　新宿 LOFT
+</dd>
+</dl>
+</div>
+</div></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/10月26日.md" title="wikilink">10月26日</a> - <a href="../Page/12月27日.md" title="wikilink">12月27日</a></p></td>
+<td><p><strong>KARKADOR TOUR</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>13ヶ所15公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>10／26　浦和 <a href="../Page/NHKさいたま放送局.md" title="wikilink">NHK-FM浦和</a>（公録）
+</dd>
+<dd>11／04　札幌 <a href="https://ja.wikipedia.org/wiki/PENNY_LANE_24" title="wikilink">ペニーレーン</a>
+</dd>
+<dd>11／06　仙台 ヤマハホール
+</dd>
+<dd>11／13　京都 ビッグバン
+</dd>
+<dd>11／15　博多 大博多ホール
+</dd>
+<dd>11／16　小倉 IN＆OUT
+</dd>
+<dd>11／17　熊本 ブルージャム
+</dd>
+<dd>11／18　広島 ウッディストリート
+</dd>
+<dd>11／20　名古屋 <a href="https://ja.wikipedia.org/wiki/Electric_Lady_Land" title="wikilink">E.L.L</a>
+</dd>
+<dd>11／21　名古屋 E.L.L
+</dd>
+<dd>11／26　渋谷 LIVE INN
+</dd>
+<dd>12／07　つくば 29BAR
+</dd>
+<dd>12／14　横浜 <a href="https://ja.wikipedia.org/wiki/横浜ビブレ" title="wikilink">ビブレ21</a>
+</dd>
+<dd>12／26　新宿 <a href="../Page/ロフト_(ライブハウス).md" title="wikilink">LOFT</a>
+</dd>
+<dd>12／27　新宿 LOFT
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/4月28日.md" title="wikilink">4月28日</a></p></td>
+<td><p><strong>埼玉県動説 重力過密地帯</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>04／28　浦和 <a href="https://ja.wikipedia.org/wiki/埼玉会館" title="wikilink">埼玉会館</a>小ホール
+</dd>
+</dl>
+</div>
+</div></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/7月19日.md" title="wikilink">7月19日</a> - <a href="../Page/9月28日.md" title="wikilink">9月28日</a></p></td>
+<td><p><strong>ONE PATTERN TOUR</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>9ヶ所9公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>07／19　神戸 <a href="../Page/チキンジョージ.md" title="wikilink">チキンジョージ</a>
+</dd>
+<dd>07／21　博多 JAJA
+</dd>
+<dd>07／22　小倉 <a href="../Page/アルモニーサンク.md" title="wikilink">九州厚生年金会館</a>
+</dd>
+<dd>07／24　京都 ビッグバン
+</dd>
+<dd>07／25　名古屋 <a href="https://ja.wikipedia.org/wiki/Electric_Lady_Land" title="wikilink">E.L.L</a>
+</dd>
+<dd>07／26　藤沢 BOW
+</dd>
+<dd>09／15　大宮 フリークス
+</dd>
+<dd>09／23　横浜 <a href="https://ja.wikipedia.org/wiki/横浜ビブレ" title="wikilink">ビブレ21</a>
+</dd>
+<dd>09／28　新宿 <a href="../Page/ロフト_(ライブハウス).md" title="wikilink">LOFT</a>
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/10月19日.md" title="wikilink">10月19日</a> - <a href="../Page/10月25日.md" title="wikilink">10月25日</a></p></td>
+<td><p><strong>ONE PATTERN TOUR 2nd</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>5ヶ所5公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>10／19　名古屋 <a href="https://ja.wikipedia.org/wiki/Electric_Lady_Land" title="wikilink">E.L.L</a>
+</dd>
+<dd>10／21　大阪 キャンディホール
+</dd>
+<dd>10／23　広島 ウッディストリート
+</dd>
+<dd>10／24　小倉 IN＆OUT
+</dd>
+<dd>10／25　博多 <a href="https://ja.wikipedia.org/wiki/天神ビブレ" title="wikilink">ビブレホール</a>
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/11月26日" title="wikilink">11月26日</a></p></td>
+<td><p><strong>ゼブラの日</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>11／26　水道橋 RNホール
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/1987年" title="wikilink">1987年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/3月14日" title="wikilink">3月14日</a></p></td>
+<td><p><strong>進化の軌跡 ガラパゴス島の待ち伏せ男</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>03／14　中野 <a href="../Page/もみじ山文化センター.md" title="wikilink">文化センターホール</a>
+</dd>
+</dl>
+</div>
+</div></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/4月25日.md" title="wikilink">4月25日</a></p></td>
+<td><p><strong>売上税黄金狂時代</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>04／25　豊島 <a href="../Page/豊島公会堂.md" title="wikilink">公会堂</a>
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/5月8日.md" title="wikilink">5月8日</a> - <a href="../Page/5月29日.md" title="wikilink">5月29日</a></p></td>
+<td><p><strong>MODEL HOUSE Presents Tour</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>10ヶ所10公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>05／08　つくば 29BAR
+</dd>
+<dd>05／09　前橋 ラタン
+</dd>
+<dd>05／12　新宿 <a href="../Page/ロフト_(ライブハウス).md" title="wikilink">LOFT</a>
+</dd>
+<dd>05／15　横浜 <a href="https://ja.wikipedia.org/wiki/横浜ビブレ" title="wikilink">ビブレ21</a>
+</dd>
+<dd>05／17　大宮 フリークス
+</dd>
+<dd>05／22　大阪 ミューズホール
+</dd>
+<dd>05／23　名古屋 <a href="https://ja.wikipedia.org/wiki/Electric_Lady_Land" title="wikilink">E.L.L</a>
+</dd>
+<dd>05／25　豊橋 かごやはうす
+</dd>
+<dd>05／26　静岡 モッキンバード
+</dd>
+<dd>05／29　仙台 CADホール
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/6月20日.md" title="wikilink">6月20日</a></p></td>
+<td><p><strong>Shoot the Monster</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>06／20　千代田 <a href="../Page/読売会館.md" title="wikilink">よみうりホール</a>
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/7月1日.md" title="wikilink">7月1日</a> - <a href="../Page/7月26日.md" title="wikilink">7月26日</a></p></td>
+<td><p><strong>TOUR SENSONICS</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>10ヶ所10公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>07／01　京都 ビッグバン
+</dd>
+<dd>07／02　大阪 ミューズホール
+</dd>
+<dd>07／04　松山 ラフォーレ
+</dd>
+<dd>07／05　小倉 IN＆OUT
+</dd>
+<dd>07／06　博多 <a href="https://ja.wikipedia.org/wiki/天神ビブレ" title="wikilink">ビブレホール</a>
+</dd>
+<dd>07／08　熊本 イエロー
+</dd>
+<dd>07／10　広島 ウッディストリート
+</dd>
+<dd>07／11　神戸 <a href="../Page/チキンジョージ.md" title="wikilink">チキンジョージ</a>
+</dd>
+<dd>07／12　名古屋 <a href="https://ja.wikipedia.org/wiki/Electric_Lady_Land" title="wikilink">E.L.L</a>
+</dd>
+<dd>07／26　渋谷 LIVE INN
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/9月12日.md" title="wikilink">9月12日</a></p></td>
+<td><p><strong>埼玉県動説Ⅱ</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>09／12　浦和 <a href="https://ja.wikipedia.org/wiki/埼玉会館" title="wikilink">埼玉会館</a>小ホール
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/9月27日" title="wikilink">9月27日</a></p></td>
+<td><p><strong>グレーテルの一撃？</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>09／27　横浜 <a href="https://ja.wikipedia.org/wiki/横浜市教育会館" title="wikilink">教育会館</a>
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/11月1日.md" title="wikilink">11月1日</a></p></td>
+<td><p><strong>逆さパラダイス 恐竜図鑑のたくらみ</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>11／01　練馬 <a href="https://ja.wikipedia.org/wiki/武蔵大学" title="wikilink">武蔵大学</a>江古田キャンパス
+</dd>
+</dl>
+</div>
+</div></td>
+<td><p>羊羹ゑるゑる（ことぶき）加入後初の公演</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/12月4日.md" title="wikilink">12月4日</a></p></td>
+<td><p><strong>北から来たオルガン弾き</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>12／04　渋谷 LIVE INN
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/1988年.md" title="wikilink">1988年</a></p></td>
+<td><p><a href="../Page/3月3日.md" title="wikilink">3月3日</a> - <a href="../Page/3月5日.md" title="wikilink">3月5日</a></p></td>
+<td><p><strong>天国のANAGRAM</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>2ヶ所3公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>03／03　京都 ビッグバン
+</dd>
+<dd>03／04　大阪 ミューズホール
+</dd>
+<dd>03／05　大阪 ミューズホール
+</dd>
+</dl>
+</div>
+</div></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/3月12日.md" title="wikilink">3月12日</a></p></td>
+<td><p><strong>BAND in PerspectiveⅡ</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>03／12　新宿 <a href="../Page/ロフト_(ライブハウス).md" title="wikilink">LOFT</a>
+</dd>
+</dl>
+</div>
+</div></td>
+<td><p>バンド名を「Heaven」としたシークレットライブ</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/6月10日.md" title="wikilink">6月10日</a></p></td>
+<td><p><strong>DAY'S BRAVO！</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>06／10　新宿 <a href="../Page/ロフト_(ライブハウス).md" title="wikilink">LOFT</a>
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/6月11日.md" title="wikilink">6月11日</a></p></td>
+<td><p><strong>NIGHT'S BRAVO！</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>06／11　新宿 <a href="../Page/ロフト_(ライブハウス).md" title="wikilink">LOFT</a>
+</dd>
+</dl>
+</div>
+</div></td>
+<td><p>このライブで初めて<a href="https://ja.wikipedia.org/wiki/AMIGA" title="wikilink">AMIGA</a>を導入</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/7月29日.md" title="wikilink">7月29日</a></p></td>
+<td><p><strong>FEAR'S BRAVO！</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>07／29　千代田 <a href="../Page/読売会館.md" title="wikilink">よみうりホール</a>
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/12月28日.md" title="wikilink">12月28日</a></p></td>
+<td><p><strong>凍結ライブ</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>12／28　渋谷 <a href="https://ja.wikipedia.org/wiki/CLUB_QUATTRO#渋谷CLUB_QUATTRO" title="wikilink">CLUB QUATTRO</a>
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/1990年" title="wikilink">1990年</a></p></td>
+<td><p><a href="../Page/9月23日.md" title="wikilink">9月23日</a></p></td>
+<td><p><strong>ERROR FORCE</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>09／23　日比谷 <a href="../Page/日比谷野外音楽堂.md" title="wikilink">野外大音楽堂</a>
+</dd>
+</dl>
+</div>
+</div></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/1991年.md" title="wikilink">1991年</a></p></td>
+<td><p><a href="../Page/9月23日.md" title="wikilink">9月23日</a></p></td>
+<td><p><strong>ERROR OF UNIVERSE</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>09／23　日比谷 <a href="../Page/日比谷野外音楽堂.md" title="wikilink">野外大音楽堂</a>
+</dd>
+</dl>
+</div>
+</div></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/1992年.md" title="wikilink">1992年</a></p></td>
+<td><p><a href="../Page/3月10日.md" title="wikilink">3月10日</a>・<a href="../Page/3月18日.md" title="wikilink">3月18日</a></p></td>
+<td><p><strong>P-MODEL TOUR '92</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>2ヶ所2公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>03／10　大阪 メルパルクホール
+</dd>
+<dd>03／18　渋谷 <a href="../Page/渋谷公会堂.md" title="wikilink">公会堂</a>
+</dd>
+</dl>
+</div>
+</div></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/5月11日.md" title="wikilink">5月11日</a> - <a href="../Page/7月14日.md" title="wikilink">7月14日</a></p></td>
+<td><p><strong>TOUR ON GRID</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>4ヶ所6公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>05／11　名古屋 <a href="https://ja.wikipedia.org/wiki/CLUB_QUATTRO#名古屋CLUB_QUATTRO" title="wikilink">CLUB QUATTRO</a>
+</dd>
+<dd>05／12　心斎橋 <a href="https://ja.wikipedia.org/wiki/CLUB_QUATTRO#心斎橋CLUB_QUATTRO" title="wikilink">CLUB QUATTRO</a>
+</dd>
+<dd><del>05／13　心斎橋 CLUB QUATTRO</del>
+</dd>
+<dd>05／15　渋谷 <a href="https://ja.wikipedia.org/wiki/CLUB_QUATTRO#渋谷CLUB_QUATTRO" title="wikilink">CLUB QUATTRO</a>
+</dd>
+<dd>05／17　渋谷 CLUB QUATTRO
+</dd>
+<dd><span style="color:#FF0000">05／19　港 インクスティック鈴江ファクトリー</span>
+</dd>
+<dd><span style="color:#0000FF">07／14　心斎橋 CLUB QUATTRO</span>
+</dd>
+</dl>
+</div>
+</div></td>
+<td><p>初の追加公演を含むツアー<br />
+5月13日の心斎橋公演は機材トラブルにより中止</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/10月25日.md" title="wikilink">10月25日</a></p></td>
+<td><p><strong>PLANET ERROR</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>10／25　日比谷 <a href="../Page/日比谷野外音楽堂.md" title="wikilink">野外大音楽堂</a>
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/12月7日.md" title="wikilink">12月7日</a> - <a href="../Page/12月11日.md" title="wikilink">12月11日</a></p></td>
+<td><p><strong>能率の予感</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>2ヶ所3公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>12／07　渋谷 <a href="https://ja.wikipedia.org/wiki/CLUB_QUATTRO#渋谷CLUB_QUATTRO" title="wikilink">CLUB QUATTRO</a>
+</dd>
+<dd>12／08　渋谷 CLUB QUATTRO
+</dd>
+<dd>12／11　心斎橋 <a href="https://ja.wikipedia.org/wiki/CLUB_QUATTRO#心斎橋CLUB_QUATTRO" title="wikilink">CLUB QUATTRO</a>
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/1993年.md" title="wikilink">1993年</a></p></td>
+<td><p><a href="../Page/5月26日.md" title="wikilink">5月26日</a> - <a href="../Page/6月21日.md" title="wikilink">6月21日</a></p></td>
+<td><p><strong>BIG BODY TOUR</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>3ヶ所3公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>05／26　大阪 メルパルクホール
+</dd>
+<dd>05／27　名古屋 <a href="https://ja.wikipedia.org/wiki/CLUB_QUATTRO#名古屋CLUB_QUATTRO" title="wikilink">CLUB QUATTRO</a>
+</dd>
+<dd>06／21　渋谷 <a href="../Page/渋谷公会堂.md" title="wikilink">公会堂</a>
+</dd>
+</dl>
+</div>
+</div></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/10月11日.md" title="wikilink">10月11日</a></p></td>
+<td><p><strong>ERROR OF INFORMATION “待機”</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>10／11　日比谷 <a href="../Page/日比谷野外音楽堂.md" title="wikilink">野外大音楽堂</a>
+</dd>
+</dl>
+</div>
+</div></td>
+<td><p>解凍期のラストライブ</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a></p></td>
+<td><p><a href="../Page/9月30日.md" title="wikilink">9月30日</a></p></td>
+<td><p><strong>ENDING ERROR</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>09／30　日比谷 <a href="../Page/日比谷野外音楽堂.md" title="wikilink">野外大音楽堂</a>
+</dd>
+</dl>
+</div>
+</div></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/1996年.md" title="wikilink">1996年</a></p></td>
+<td><p><a href="../Page/3月9日.md" title="wikilink">3月9日</a> - <a href="../Page/4月6日.md" title="wikilink">4月6日</a></p></td>
+<td><p><strong>電子舟訪日行脚</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>5ヶ所8公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>03／09　札幌 <a href="https://ja.wikipedia.org/wiki/PENNY_LANE_24" title="wikilink">ペニーレーン24</a>
+</dd>
+<dd>03／13　心斎橋 <a href="https://ja.wikipedia.org/wiki/CLUB_QUATTRO#心斎橋CLUB_QUATTRO" title="wikilink">CLUB QUATTRO</a>
+</dd>
+<dd>03／14　心斎橋 CLUB QUATTRO
+</dd>
+<dd>03／15　名古屋 <a href="https://ja.wikipedia.org/wiki/CLUB_QUATTRO#名古屋CLUB_QUATTRO#CLUB_QUATTRO" title="wikilink">CLUB QUATTRO#名古屋CLUB QUATTRO#CLUB QUATTRO</a>
+</dd>
+<dd>03／23　博多 <a href="https://ja.wikipedia.org/wiki/天神ビブレ" title="wikilink">ビブレホール</a>
+</dd>
+<dd>04／04　渋谷 <a href="https://ja.wikipedia.org/wiki/CLUB_QUATTRO#渋谷CLUB_QUATTRO" title="wikilink">CLUB QUATTRO#渋谷CLUB QUATTRO</a>
+</dd>
+<dd>04／05　渋谷 CLUB QUATTRO
+</dd>
+<dd>04／06　渋谷 CLUB QUATTRO
+</dd>
+</dl>
+</div>
+</div></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/10月5日.md" title="wikilink">10月5日</a></p></td>
+<td><p><strong>Unfix #0 “Branch-O”</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>10／05　日比谷 <a href="../Page/日比谷野外音楽堂.md" title="wikilink">野外大音楽堂</a>
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/11月15日.md" title="wikilink">11月15日</a></p></td>
+<td><p>'''Unfix #3 “コミュノ・ハイブリディア”</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>11／15　新宿 <a href="https://ja.wikipedia.org/wiki/LIQUIDROOM" title="wikilink">LIQUIDROOM</a>
+</dd>
+</dl>
+</div>
+</div></td>
+<td><p>平沢は体調不良のため欠席</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/12月24日.md" title="wikilink">12月24日</a></p></td>
+<td><p>'''Unfix #5<br />
+“Another Green Nerves「ススムとケンジ」”</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd><del>12／24　原宿 ラフォーレミュージアム</del>
+</dd>
+</dl>
+</div>
+</div></td>
+<td><p>平沢の体調不良のため中止</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a></p></td>
+<td><p><a href="../Page/10月21日.md" title="wikilink">10月21日</a>・<a href="../Page/10月22日.md" title="wikilink">10月22日</a></p></td>
+<td><p><strong>非局所性LIVE</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>2ヶ所2公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>10／21　赤坂 <a href="../Page/赤坂BLITZ.md" title="wikilink">BLITZ</a>
+</dd>
+<dd>10／22　大阪 HEAT BEAT
+</dd>
+</dl>
+</div>
+</div></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a></p></td>
+<td><p><a href="../Page/1月21日.md" title="wikilink">1月21日</a> - <a href="../Page/2月7日.md" title="wikilink">2月7日</a></p></td>
+<td><p><strong>LIVE 電子悲劇</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>7ヶ所8公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>01／21　渋谷 <a href="https://ja.wikipedia.org/wiki/CLUB_QUATTRO#渋谷CLUB_QUATTRO" title="wikilink">CLUB QUATTRO</a>
+</dd>
+<dd>01／22　渋谷 CLUB QUATTRO
+</dd>
+<dd>01／27　仙台 <a href="../Page/仙台MACANA.md" title="wikilink">MACANA</a>
+</dd>
+<dd>01／29　札幌 <a href="https://ja.wikipedia.org/wiki/PENNY_LANE_24" title="wikilink">ペニーレーン24</a>
+</dd>
+<dd>02／01　名古屋 <a href="https://ja.wikipedia.org/wiki/CLUB_QUATTRO#名古屋CLUB_QUATTRO" title="wikilink">CLUB QUATTRO</a>
+</dd>
+<dd>02／02　大阪 HEAT BEAT
+</dd>
+<dd>02／04　福岡 DRUM Be-1
+</dd>
+<dd>02／07　赤坂 <a href="../Page/赤坂BLITZ.md" title="wikilink">BLITZ</a>
+</dd>
+</dl>
+</div>
+</div></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/10月4日" title="wikilink">10月4日</a> - <a href="https://ja.wikipedia.org/wiki/10月28日" title="wikilink">10月28日</a></p></td>
+<td><p><strong>音楽産業廃棄物～P-MODEL OR DIE</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>5ヶ所6公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>10／04　渋谷 <a href="../Page/Shibuya_O-WEST.md" title="wikilink">ON AIR WEST</a>
+</dd>
+<dd>10／05　渋谷 ON AIR WEST
+</dd>
+<dd>10／12　名古屋 <a href="https://ja.wikipedia.org/wiki/CLUB_QUATTRO#名古屋CLUB_QUATTRO" title="wikilink">CLUB QUATTRO</a>
+</dd>
+<dd>10／14　札幌 ベッシーホール
+</dd>
+<dd>10／26　博多 <a href="https://ja.wikipedia.org/wiki/天神ビブレ" title="wikilink">ビブレホール</a>
+</dd>
+<dd>10／28　大阪 <a href="https://ja.wikipedia.org/wiki/BIGCAT" title="wikilink">BIG CAT</a>
+</dd>
+</dl>
+</div>
+</div></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/11月6日.md" title="wikilink">11月6日</a></p></td>
+<td><p><strong>音楽産業廃棄物 取扱技能者総決起集会</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>11／06　渋谷 <a href="../Page/Shibuya_O-EAST.md" title="wikilink">ON AIR EAST</a>
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>
+<td><p><a href="../Page/11月8日.md" title="wikilink">11月8日</a> - <a href="../Page/11月13日.md" title="wikilink">11月13日</a></p></td>
+<td><p><strong>LIVE トーキョー・ビストロン</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所4公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>11／08　新宿 <a href="https://ja.wikipedia.org/wiki/スペース・ゼロ" title="wikilink">全労災ホール</a>
+</dd>
+<dd>11／09　新宿 全労済ホール
+</dd>
+<dd>11／12　新宿 全労済ホール
+</dd>
+<dd>11／13　新宿 全労済ホール
+</dd>
+</dl>
+</div>
+</div></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
+<td><p><a href="../Page/1月11日.md" title="wikilink">1月11日</a> - <a href="../Page/1月14日.md" title="wikilink">1月14日</a></p></td>
+<td><p><strong>LIVE パラレル・コザック</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所4公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>01／11　赤坂 <a href="../Page/赤坂BLITZ.md" title="wikilink">BLITZ</a>
+</dd>
+<dd>01／12　赤坂 BLITZ
+</dd>
+<dd>01／13　赤坂 BLITZ
+</dd>
+<dd>01／14　赤坂 BLITZ
+</dd>
+</dl>
+</div>
+</div></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/10月11日.md" title="wikilink">10月11日</a> - <a href="../Page/10月13日.md" title="wikilink">10月13日</a></p></td>
+<td><p><strong>HYBRID PHONON</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>1ヶ所3公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>10／11　品川 ステラボール
+</dd>
+<dd>10／12　品川 ステラボール
+</dd>
+<dd>10／13　品川 ステラボール
+</dd>
+</dl>
+</div>
+</div></td>
+<td><p>「平沢進×核P-MODEL」名義でのライブ</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a></p></td>
+<td><p><a href="../Page/9月14日.md" title="wikilink">9月14日</a> - <a href="../Page/1月14日.md" title="wikilink">1月14日</a></p></td>
+<td><p><strong>LIVE 回＝回</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>3ヶ所5公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<dl>
+<dt></dt>
+<dd>09／14　大阪 <a href="https://ja.wikipedia.org/wiki/Zepp#現在営業中の施設" title="wikilink">Zepp Namba</a>
+</dd>
+<dd>09／15　大阪 Zepp Namba
+</dd>
+<dd>11／16　江東 <a href="https://ja.wikipedia.org/wiki/Zepp#現在営業中の施設" title="wikilink">Zepp Tokyo</a>
+</dd>
+<dd>11／17　江東 Zepp Tokyo
+</dd>
+<dd><span style="color:#FF0000">10／14　豊洲 PIT</span>
+</dd>
+</dl>
+</div>
+</div></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 参加イベント
+
+<div class="NavFrame" style="clear:both;border:0;">
+
+<div class="NavHead" style="text-align:left;">
+
+クリックで表示
+
+</div>
+
+<div class="NavContent" style="text-align:left;font-size:smaller;">
+
+  - **[1979年](../Page/1979年.md "wikilink")**
+
+<!-- end list -->
+
+  -
+
+    3月16日 - 東京ロッカーズ
+
+    6月30日 - 新宿ウィークエンドナイト
+
+    7月12日 - スーパー・ロック・フェス Vol.2
+
+    7月27日 - NYLON100％DAY
+
+    9月1日 - Drive To '80 5days New Wave Explosion
+
+    11月2日 - [埼玉大学](../Page/埼玉大学.md "wikilink")祭
+
+    11月17日 - [神奈川大学](https://ja.wikipedia.org/wiki/神奈川大学 "wikilink")祭 “ELECTRIC CIRCUIT for 80s”
+
+    11月24日 - [同志社大学](../Page/同志社大学.md "wikilink")祭
+
+    12月16日 - [Rockin'on](../Page/ロッキング・オン.md "wikilink") presents THE OTHER LIVES Vol.2
+
+    12月23日 - 哀愁の東京クリスマス
+
+    12月31日 - ニューイヤーロックフェス
+
+    12月31日 - HELLO '80 All Night Rockin Party
+
+<!-- end list -->
+
+  - **[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")**
+
+<!-- end list -->
+
+  -
+
+    4月7日 - Power '80
+
+    5月5日 - ヤポネシア'80
+
+    5月25日 - [YUYA UCHIDA](../Page/内田裕也.md "wikilink") presents POP COLLECTION
+
+    7月26日 - ロッキンラフォーレ Vol.3
+
+    10月30日 - [岩手大学](https://ja.wikipedia.org/wiki/岩手大学 "wikilink")祭
+
+    11月2日 - [千葉大学](https://ja.wikipedia.org/wiki/千葉大学 "wikilink")祭
+
+    11月2日 - FLASH BACK '70～'80
+
+    11月3日 - [文化服装学院](../Page/文化服装学院.md "wikilink")祭
+
+    11月29日 - [一橋大学](../Page/一橋大学.md "wikilink")学園祭
+
+    12月31日 - ニューイヤーロックフェス
+
+<!-- end list -->
+
+  - **[1981年](../Page/1981年.md "wikilink")**
+
+<!-- end list -->
+
+  -
+
+    5月15日 - COMPASS BOX
+
+<!-- end list -->
+
+  - **[1982年](../Page/1982年.md "wikilink")**
+
+<!-- end list -->
+
+  -
+
+    8月13日 - OUT OF THE WAY
+
+    10月30日 - [関西学院大学](../Page/関西学院大学.md "wikilink")学園祭
+
+    11月3日 - [一関高専学祭](../Page/一関工業高等専門学校.md "wikilink")
+
+    11月22日 - [京都芸術大学学園祭](../Page/京都造形芸術大学.md "wikilink")
+
+<!-- end list -->
+
+  - **[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")**
+
+<!-- end list -->
+
+  -
+
+    1月16日 - REBEL STREET ROCKERS 1983
+
+    5月2日 - フェアライトフェスティバル
+
+    12月31日 - 恒例LOFT SPECIAL 83-85
+
+<!-- end list -->
+
+  - **[1984年](../Page/1984年.md "wikilink")**
+
+<!-- end list -->
+
+  -
+
+    6月3日 - [横浜国立大学](../Page/横浜国立大学.md "wikilink")『'84清陵祭 CONCERT ESSENCE』
+
+<!-- end list -->
+
+  - **[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")**
+
+<!-- end list -->
+
+  -
+
+    8月27日 - 元気的文化創造祭 “ALTERNATIVE LIVE”
+
+    12月4日 - EDGE FES 2DAYS
+
+    12月5日 - EDGE FES 2DAYS
+
+<!-- end list -->
+
+  - **[1986年](../Page/1986年.md "wikilink")**
+
+<!-- end list -->
+
+  -
+
+    6月14日 - Knock On THE WAVE
+
+    8月31日 - 田島ヶ原野外フリーコンサート
+
+    11月9日 - バトルロイヤルパーティ1986
+
+    11月29日 - 早すぎたロッカー達
+
+    12月31日 - 第3回ナゴム総決起集会
+
+<!-- end list -->
+
+  - **[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")**
+
+<!-- end list -->
+
+  -
+
+    2月13日 - 子どもたちのCity
+
+    3月12日 - [E.L.L](https://ja.wikipedia.org/wiki/Electric_Lady_Land "wikilink") 10th Years
+
+    4月24日 - ATOMIC CAFE
+
+    7月25日 - SOUND ON WAVE 1987
+
+<!-- end list -->
+
+  - **[1988年](../Page/1988年.md "wikilink")**
+
+<!-- end list -->
+
+  -
+
+    4月27日 - FUJI AV LIVE Vol.27
+
+    11月3日 - [明治大学](../Page/明治大学.md "wikilink")駿台祭 “Speaking of Pictures”
+
+    11月19日 - 明治大学生田祭 “Hyperdelic Heaven part3 - Perspicacious Canvas”
+
+<!-- end list -->
+
+  - **[1991年](../Page/1991年.md "wikilink")**
+
+<!-- end list -->
+
+  -
+    12月3日 - I3DAYS '93
+
+<!-- end list -->
+
+  - **[1992年](../Page/1992年.md "wikilink")**
+
+<!-- end list -->
+
+  -
+
+    6月27日 - サタデイ・ナイトR＆Rショウ
+
+    11月3日 - '92 NAGOYA CHAMPS ELYSEES FÊTE
+
+<!-- end list -->
+
+  - **[1994年](../Page/1994年.md "wikilink")**
+
+<!-- end list -->
+
+  -
+    12月1日 - I3DAYS '94 OSAKA
+    12月12日 - I3DAYS '94 TOKYO
+
+<!-- end list -->
+
+  - **[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")**
+
+<!-- end list -->
+
+  -
+    12月19日 - I3DAYS '95 OSAKA
+    12月22日 - I3DAYS '95 TOKYO
+
+<!-- end list -->
+
+  - **[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")**
+
+<!-- end list -->
+
+  -
+    12月6日 - ASIA FOR THAILAND
+
+<!-- end list -->
+
+  - **[1999年](../Page/1999年.md "wikilink")**
+
+<!-- end list -->
+
+  -
+
+    6月29日 - Future Screen of Tokyo New Wave
+
+    6月30日 - Future Screen of Tokyo New Wave
+
+</div>
+
+</div>
 
 ## 脚注
 
@@ -1701,38 +3103,42 @@ http (1996年)</p></td>
   -
 [Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:ポストパンク・バンド](https://ja.wikipedia.org/wiki/Category:ポストパンク・バンド "wikilink") [Category:テクノポップ](https://ja.wikipedia.org/wiki/Category:テクノポップ "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:日本コロムビアのアーティスト](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアーティスト "wikilink") [Category:徳間ジャパンコミュニケーションズのアーティスト](https://ja.wikipedia.org/wiki/Category:徳間ジャパンコミュニケーションズのアーティスト "wikilink")
 
-1.  P-MODELとは明確に異なるものと定義されている。
-2.  [平沢進のツイート](https://twitter.com/hirasawa/status/686527748869771265)（2016年1月11日）2019年11月5日閲覧。
-3.  [平沢進のツイート](https://twitter.com/hirasawa/status/686532596428177408)（2016年1月11日）2019年11月5日閲覧。
-4.  テープエコーマシーンとキーボードを用いて[サンプラー](../Page/サンプラー.md "wikilink")に似たシステムを構築したもの。当時のサンプラーは「1戸建ての家が買える」と言われた程高価であり、その後の音楽業界に「平沢進が[宝くじ](https://ja.wikipedia.org/wiki/宝くじ "wikilink")を当てた（＝当選金でサンプラーを導入した）らしい」との噂がしばらく立つ事になった。
-5.  ボックスセット『[太陽系亞種音](../Page/太陽系亞種音.md "wikilink")』ファンクラブ会員限定特典「田井中貞利伝説」より。
-6.  実際は一身上の都合で止む無く脱退となったもの。この後荒木は一時音楽活動を休止し、コンピュータプログラマーとして活動することになる。
-7.  このイベントの模様は後にテレビ放映されたが、TALBOを叩き付けるシーンはカットされている。
-8.  [P-MODELディスコグラフィー・Corrective Errors](https://susumuhirasawa.com/discography/p-model/others/06_corrective-errors.html)平沢進公式サイト 2019年11月9日閲覧。
-9.  公式サイトからは「風邪のため」と発表された。
-10. 実際は「殺人的スケジュール」によって[パニック障害](../Page/パニック障害.md "wikilink")を患っていたものと、後に新事務所設立時のコメントおよびTwitterで語っている。
-11. 但し、ネット接続のないリスナーの為にインディーズレーベル「MAGNET」からCDでのリリースも行われた。
-12. 高橋はオファーがあれば参加したい旨を述べている。小西も平沢が「（小西自身が）好きなだけドイツにいてもいい」と認めることを前提条件として述べているが再結成には前向きである。しかし平沢はインタビューやTwitterで再結成を否定している。
-13. [平沢進のツイート](https://twitter.com/hirasawa/status/393728140914077697)（2013年10月25日）2020年3月26日閲覧。
-14. [平沢進のツイート](https://twitter.com/hirasawa/status/981141473289650177)（2018年4月3日）2019年11月9日閲覧。
-15. 『音楽産業廃棄物』内のインタビューにて、『メンバー全員「打倒・[ピンクレディー](../Page/ピンク・レディー.md "wikilink")」で行こうとしていた』と語っている。
-16. [NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")「80年代ニューウェーブ特集　P-MODEL」、2001年11月28日
-17.
-18.
+1.
+2.  P-MODELとは明確に異なるものと定義されている。
+3.  [平沢進のツイート](https://twitter.com/hirasawa/status/686527748869771265)（2016年1月11日）2019年11月5日閲覧。
+4.  [平沢進のツイート](https://twitter.com/hirasawa/status/686532596428177408)（2016年1月11日）2019年11月5日閲覧。
+5.  テープエコーマシーンとキーボードを用いて[サンプラー](../Page/サンプラー.md "wikilink")に似たシステムを構築したもの。当時のサンプラーは「1戸建ての家が買える」と言われた程高価であり、その後の音楽業界に「平沢進が[宝くじ](https://ja.wikipedia.org/wiki/宝くじ "wikilink")を当てた（＝当選金でサンプラーを導入した）らしい」との噂がしばらく立つ事になった。
+6.  ボックスセット『[太陽系亞種音](../Page/太陽系亞種音.md "wikilink")』ファンクラブ会員限定特典「田井中貞利伝説」より。
+7.  実際は一身上の都合で止む無く脱退となったもの。この後荒木は一時音楽活動を休止し、コンピュータプログラマーとして活動することになる。
+8.  P-MODELを凍結させた理由として、あくまでバンドという形で音楽活動を続けていきたかった平沢であるが、片腕的存在だった田中の脱退により、最終的にバンドが平沢のワンマン状態になってしまった事が主な要因であると語られている。
+9.  このイベントの模様は後にテレビ放映されたが、TALBOを叩き付けるシーンはカットされている。
+10. [P-MODELディスコグラフィー・Corrective Errors](https://susumuhirasawa.com/discography/p-model/others/06_corrective-errors.html)平沢進公式サイト 2019年11月9日閲覧。
+11. 公式サイトからは「風邪のため」と発表された。
+12. 実際は「殺人的スケジュール」によって[パニック障害](../Page/パニック障害.md "wikilink")を患っていたものと、後に新事務所設立時のコメントおよびTwitterで語っている。
+13. 但し、ネット接続のないリスナーの為にインディーズレーベル「MAGNET」からCDでのリリースも行われた。
+14. 高橋はオファーがあれば参加したい旨を述べている。小西も平沢が「（小西自身が）好きなだけドイツにいてもいい」と認めることを前提条件として述べているが再結成には前向きである。しかし平沢はインタビューやTwitterで再結成を否定している。
+15. [平沢進のツイート](https://twitter.com/hirasawa/status/393728140914077697)（2013年10月25日）2020年3月26日閲覧。
+16. [平沢進のツイート](https://twitter.com/hirasawa/status/981141473289650177)（2018年4月3日）2019年11月9日閲覧。
+17. 『音楽産業廃棄物』内のインタビューにて、『メンバー全員「打倒・[ピンクレディー](../Page/ピンク・レディー.md "wikilink")」で行こうとしていた』と語っている。
+18. [NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")「80年代ニューウェーブ特集　P-MODEL」、2001年11月28日
 19.
-20. 「LUCKY TIME」は後にIKARI名義で、ソノシートに収録された。「[IKARI/NO PERSPECTIVE](https://ja.wikipedia.org/wiki/IKARI/NO_PERSPECTIVE "wikilink")」を参照。
-21. VHS『CG年賀状』（1989年）
-22. 高橋に関しては脱退によりお蔵入りとなった。
-23. 『音楽産業廃棄物』のインタビューにて、ことぶきはトリガーを押しているだけで大半がパフォーマンスだったと語っている。
-24. [平沢進のツイート](https://twitter.com/hirasawa/status/985493130391699456)（2018年4月15日）2019年11月10日閲覧。
-25. [HIRASAWA SUSUMU　激烈インタビュー](https://www.ikebe-gakki.com/web-ikebe/gj_hirasawa-susumu-interview/)（2013年11月13日）2019年11月10日閲覧。
-26. 秋山の後任である菊池は当時まだサポートメンバー扱いだったため不参加。
-27. [平沢進のツイート](https://twitter.com/hirasawa/status/1150377401710342144)（2019年7月14日）2019年10月24日閲覧。
-28.
-29. ただし、原作者のかきふらいから名前の由来に関する公式なアナウンスはなされていない。
-30.
-31.
-32.
-33. 「P-MODEL BOX」目録（1987年）
-34.
-35. 『来なかった近未来』（2012年）
+20.
+21.
+22. 「LUCKY TIME」は後にIKARI名義で、ソノシートに収録された。「[IKARI/NO PERSPECTIVE](https://ja.wikipedia.org/wiki/IKARI/NO_PERSPECTIVE "wikilink")」を参照。
+23.
+24. VHS『CG年賀状』（1989年）
+25.
+26.
+27.
+28. 『音楽産業廃棄物』のインタビューにて、ことぶきはトリガーを押しているだけで大半がパフォーマンスだったと語っている。
+29. [平沢進のツイート](https://twitter.com/hirasawa/status/985493130391699456)（2018年4月15日）2019年11月10日閲覧。
+30. [HIRASAWA SUSUMU　激烈インタビュー](https://www.ikebe-gakki.com/web-ikebe/gj_hirasawa-susumu-interview/)（2013年11月13日）2019年11月10日閲覧。
+31. 秋山の後任である菊池は当時まだサポートメンバー扱いだったため不参加。
+32. [平沢進のツイート](https://twitter.com/hirasawa/status/1150377401710342144)（2019年7月14日）2019年10月24日閲覧。
+33.
+34. ただし、原作者のかきふらいから名前の由来に関する公式なアナウンスはなされていない。
+35.
+36.
+37. 「P-MODEL BOX」目録（1987年）
+38.
+39. 『来なかった近未来』（2012年）

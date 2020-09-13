@@ -15,7 +15,7 @@
 
 ## 派生レンダラー
 
-  - [MegaPOV](https://ja.wikipedia.org/wiki/MegaPOV "wikilink")
+  - MegaPOV
     POV-Ray 3.6系の非公式拡張であり、多くのパッチは既にPOV-Ray 3.7に取り込まれている\[3\]\[4\]。
   - UberPOV
     POV-Ray 3.7系の非公式拡張であり、MegaPOVの後継\[5\]\[6\]。
@@ -27,11 +27,8 @@
 ### 開発停止中
 
   - Moray - 古くから存在するPOV-Ray用[モデラー](../Page/モデラー.md "wikilink")。2007年、POV-Rayの開発元が買収した\[7\]。開発停止中。
-
-  - \- KDEベースのPOV-Ray用モデラー。オープンソース。開発停止中。
-
+  - KPovModeler - KDEベースのPOV-Ray用モデラー。オープンソース。開発停止中。
   - Bishop3D - Windows専用のPOV-Ray用モデラー。アニメーションにも対応。シーン記述言語のインポートも可能。オープンソース化された。parametricサーフィス及びisosurface未対応\[8\]。
-
   - [Structure Synth](https://ja.wikipedia.org/wiki/Structure_Synth "wikilink") - 独自のルール記述によって3D生成を行うソフトウェア。POV-Ray形式でのエクスポートが可能。
 
 ## 機能

@@ -21,7 +21,7 @@
 
 [2015年](../Page/2015年.md "wikilink")、第68回[ロカルノ国際映画祭](../Page/ロカルノ国際映画祭.md "wikilink")で「ライモンド・レッツォニコ賞」（ベスト・インディペンデント・プロデューサー賞）を受賞\[1\]。同賞は「リスクを負って映画作家をサポートしてきた勇気を讃えることを目的とする」インディペンデントな活動を称える賞である。
 
-[2018年](../Page/2018年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")、ビートたけしが同年3月末で事務所を退社する事が発表された\[2\]。
+[2018年](../Page/2018年.md "wikilink")3月、ビートたけしが自分の事務所[T.Nゴン](https://ja.wikipedia.org/wiki/T.Nゴン "wikilink")を別に立ち上げて退社\[2\]。
 
 同年5月18日、[つまみ枝豆](../Page/つまみ枝豆.md "wikilink")（青木隆彦）と[ダンカン](https://ja.wikipedia.org/wiki/ダンカン_\(お笑い芸人\) "wikilink")（飯塚実）が取締役に就任、但し、退任した森前社長や、たけしは取締役として名前を残している\[3\]。同年11月、枝豆が新社長に、ダンカンが専務取締役に就任した\[4\]。
 
@@ -39,11 +39,9 @@
   - [グレート義太夫](../Page/グレート義太夫.md "wikilink")
   - [井手らっきょ](../Page/井手らっきょ.md "wikilink")
   - [水道橋博士](../Page/水道橋博士.md "wikilink")（[浅草キッド](../Page/浅草キッド.md "wikilink")）
-  - [ほたるゲンジ](../Page/ほたるゲンジ.md "wikilink")（[無法松](../Page/無法松_\(お笑い芸人\).md "wikilink")、[桐畑トール](../Page/桐畑トール.md "wikilink")）
   - [ガンビーノ小林](../Page/ガンビーノ小林.md "wikilink")
   - [三又又三](../Page/三又又三.md "wikilink")
   - [赤P-MAN](https://ja.wikipedia.org/wiki/赤P-MAN "wikilink")
-  - [まっく赤坂見附](https://ja.wikipedia.org/wiki/鳩山来留夫 "wikilink")
   - [銀座ポップ](https://ja.wikipedia.org/wiki/銀座ポップ "wikilink")
   - [シルキーライン](https://ja.wikipedia.org/wiki/シルキーライン "wikilink")（広田康人、服部拓也）
   - [熊川シュウワ](https://ja.wikipedia.org/wiki/熊川シュウワ "wikilink")
@@ -74,9 +72,7 @@
   - 奥山ツンヂ
   - ムラタ
   - イガラシソウル
-  - 幽玄亭（沖勇輝、幽玄亭一貴）
   - 江藤小吾
-  - でこぼこ～ず（宮本賢治、聖徳）
   - [ガラパゴス](https://ja.wikipedia.org/wiki/ガラパゴス "wikilink")（船見誠、長谷川海茉）
   - [タッピーおか](https://ja.wikipedia.org/wiki/タッピーおか "wikilink")
 
@@ -88,7 +84,7 @@
 
   - [石丸幸人](../Page/石丸幸人.md "wikilink") - 業務提携
   - [大富士](../Page/大富士.md "wikilink") （在籍中に死去）
-  - [片岡篤史](../Page/片岡篤史.md "wikilink")
+  - [片岡篤史](../Page/片岡篤史.md "wikilink") - [阪神タイガース](../Page/阪神タイガース.md "wikilink")1軍打撃コーチ復帰時に解消
   - [ケンタエリザベス3世](https://ja.wikipedia.org/wiki/ケンタエリザベス3世 "wikilink")（元[ヤチョウの会](https://ja.wikipedia.org/wiki/ヤチョウの会 "wikilink")）
   - [こばやしあきこ](../Page/こばやしあきこ.md "wikilink") - 現在は[アティチュード所属](https://ja.wikipedia.org/wiki/アティチュード_\(芸能プロダクション\) "wikilink")
   - [近藤奈保妃](https://ja.wikipedia.org/wiki/近藤奈保妃 "wikilink")
@@ -105,7 +101,6 @@
   - [大和悠河](../Page/大和悠河.md "wikilink") - 業務提携
   - [山本モナ](../Page/山本モナ.md "wikilink") - 現在は[ARIES](https://ja.wikipedia.org/wiki/ARIES "wikilink")所属
   - [横山ひとし](../Page/横山ひとし.md "wikilink")
-  - [玉袋筋太郎](../Page/玉袋筋太郎.md "wikilink")（[浅草キッド](../Page/浅草キッド.md "wikilink")）
 
 <!-- end list -->
 
@@ -121,6 +116,7 @@
   - [アル北郷](https://ja.wikipedia.org/wiki/アル北郷 "wikilink") - 現在はT.Nゴン所属
   - [石塚康介](https://ja.wikipedia.org/wiki/石塚康介 "wikilink")
   - [お宮の松](../Page/お宮の松_\(お笑い芸人\).md "wikilink")
+  - [玉袋筋太郎](../Page/玉袋筋太郎.md "wikilink")（[浅草キッド](../Page/浅草キッド.md "wikilink")） - 現在はフリー
   - [がじゅまる](https://ja.wikipedia.org/wiki/がじゅまる "wikilink")（スーミーマン、小林すっとこどっこい） - 現在は[浅井企画](../Page/浅井企画.md "wikilink")所属
   - [川本マース](https://ja.wikipedia.org/wiki/川本マース "wikilink") - 在籍中の芸名は「シェパード太郎」
   - [元祖いちごちゃん](https://ja.wikipedia.org/wiki/元祖いちごちゃん "wikilink")（植村侑史、ハイパーペロちゃん） - 現在は浅井企画所属
@@ -136,10 +132,10 @@
   - [セクシーJ](https://ja.wikipedia.org/wiki/セクシーJ "wikilink") - 現在はラフィーネプロモーション所属
   - [ゾマホン](../Page/ゾマホン・ルフィン.md "wikilink") - 駐日本国ベナン共和国特命全権大使就任に伴い一旦退社したが、同大使退任後に復帰
   - [ダースレイダー](https://ja.wikipedia.org/wiki/ダースレイダー "wikilink") - 現在は[吉田正樹事務所](https://ja.wikipedia.org/wiki/吉田正樹事務所 "wikilink")所属
-  - [太陽の小町](https://ja.wikipedia.org/wiki/太陽の小町 "wikilink")（つる、安田一平） - 現在はラフィーネプロモーション所属
+  - [太陽の小町](../Page/太陽の小町.md "wikilink")（つる、安田一平） - 現在はラフィーネプロモーション所属
   - [高尾悠希](https://ja.wikipedia.org/wiki/高尾悠希 "wikilink") - 現在は[パイプライン所属](https://ja.wikipedia.org/wiki/パイプライン_\(芸能プロダクション\) "wikilink")
   - [髙橋洋](../Page/高橋洋_\(俳優\).md "wikilink") - 現在は[ケイファクトリー](../Page/ケイファクトリー.md "wikilink")所属
-  - [橘美緒](../Page/橘美緒.md "wikilink") - 現在はBESPOKE JAMと業務提携
+  - [橘美緒](../Page/橘美緒.md "wikilink") - 現在は[オフィスノアール](https://ja.wikipedia.org/wiki/オフィスノアール "wikilink")所属、BESPOKE JAMと業務提携
   - [寺島進](https://ja.wikipedia.org/wiki/寺島進 "wikilink") - 現在は[ジャパン・ミュージックエンターテインメント](../Page/ジャパン・ミュージックエンターテインメント.md "wikilink")所属
   - [中嶋美和子](../Page/中嶋美和子.md "wikilink")
   - [なべやかん](../Page/なべやかん.md "wikilink") - 現在は[ワイエムエヌ](https://ja.wikipedia.org/wiki/ワイエムエヌ "wikilink")所属
@@ -168,6 +164,8 @@
   - [涼香](https://ja.wikipedia.org/wiki/涼香_\(俳優\) "wikilink")
   - [ルサンチマン浅川](https://ja.wikipedia.org/wiki/ルサンチマン_\(お笑いコンビ\) "wikilink")
   - [やくみつゆ](../Page/やくみつゆ.md "wikilink")
+  - [ほたるゲンジ](../Page/ほたるゲンジ.md "wikilink")（[無法松](../Page/無法松_\(お笑い芸人\).md "wikilink")、[桐畑トール](../Page/桐畑トール.md "wikilink")）- 現在はフリー
+  - [まっく赤坂見附](https://ja.wikipedia.org/wiki/鳩山来留夫 "wikilink")
 
 ## 製作映画
 
@@ -186,7 +184,7 @@
   - [七人の弔](../Page/七人の弔.md "wikilink")（2005年、製作・配給）
   - [BIG RIVER](https://ja.wikipedia.org/wiki/BIG_RIVER "wikilink")（2005年、製作・配給）
   - [監督・ばんざい\!](../Page/監督・ばんざい!.md "wikilink")（2007年、製作・配給）
-  - [アキレスと亀](https://ja.wikipedia.org/wiki/アキレスと亀 "wikilink")（2008年、製作・配給）
+  - [アキレスと亀](../Page/アキレスと亀_\(映画\).md "wikilink")（2008年、製作・配給）
   - [アウトレイジ](https://ja.wikipedia.org/wiki/アウトレイジ_\(2010年の映画\) "wikilink")（2010年、製作・配給）
   - [アウトレイジ ビヨンド](https://ja.wikipedia.org/wiki/アウトレイジ_ビヨンド "wikilink")（2012年、製作・配給）
   - [龍三と七人の子分たち](https://ja.wikipedia.org/wiki/龍三と七人の子分たち "wikilink")（2015年、製作・配給）

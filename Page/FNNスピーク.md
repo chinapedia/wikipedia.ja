@@ -272,7 +272,7 @@
 
 ### 天気予報キャスター
 
-原則女性メインキャスターが兼務していたが、キャスター以外のアナウンサーが担当することがあった。当番組前後の帯番組を担当する[天達武史](../Page/天達武史.md "wikilink")、[寺川奈津美](https://ja.wikipedia.org/wiki/寺川奈津美 "wikilink")など外部の気象予報士は起用されない（「バイキング」についても同様）。
+原則女性メインキャスターが兼務していたが、キャスター以外のアナウンサーが担当することがあった。当番組前後の帯番組を担当する[天達武史](../Page/天達武史.md "wikilink")、[寺川奈津美](https://ja.wikipedia.org/wiki/寺川奈津美 "wikilink")など外部の気象予報士は起用されない（当枠の後継番組および「バイキング」についても同様）。
 
   - [永尾亜子](https://ja.wikipedia.org/wiki/永尾亜子 "wikilink") - 2016年の[お台場夢大陸](https://ja.wikipedia.org/wiki/お台場夢大陸 "wikilink")の中継紹介も兼ねた。
 
@@ -766,7 +766,7 @@
 
 ## 外部リンク
 
-  - [FNNスピーク](http://www.fujitv.co.jp/b_hp/fnnspeak/)
+  - [FNNスピーク](https://www.fujitv.co.jp/fnnspeak/index.html)
 
   -
 [Category:1987年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1987年のテレビ番組_\(日本\) "wikilink") [Category:FNNスピーク](https://ja.wikipedia.org/wiki/Category:FNNスピーク "wikilink")

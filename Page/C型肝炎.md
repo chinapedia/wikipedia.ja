@@ -190,7 +190,7 @@ HCVは[血液](../Page/血液.md "wikilink")が主な感染経路で、かつて
   - [C型肝炎とは（2013年06月19日改訂）](https://www.niid.go.jp/niid/ja/kansennohanashi/322-hepatitis-c-intro.html) - NIID 国立感染症研究所
   - [C型肝炎について（ファクトシート）](https://www.forth.go.jp/moreinfo/topics/2017/12081116.html) - 厚生労働省検疫所 FORTH、2017年10月
 
-[Category:ウイルス感染症](https://ja.wikipedia.org/wiki/Category:ウイルス感染症 "wikilink") [Category:ウイルス性肝炎](https://ja.wikipedia.org/wiki/Category:ウイルス性肝炎 "wikilink") [Category:C型肝炎](https://ja.wikipedia.org/wiki/Category:C型肝炎 "wikilink")
+[Category:C型肝炎](https://ja.wikipedia.org/wiki/Category:C型肝炎 "wikilink")
 
 1.  下遠野邦忠、[C型肝炎の克服に向けて](https://doi.org/10.2222/jsv.53.87) ウイルス 53巻 (2003) 1号 p.87-91,
 2.

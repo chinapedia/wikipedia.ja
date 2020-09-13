@@ -50,8 +50,8 @@ GIFは、データ圧縮アルゴリズムとして、[1984年](../Page/1984年.
 
 ## 外部リンク
 
-  - [GIF89a仕様書](http://www.w3.org/Graphics/GIF/spec-gif89a.txt)（英語、[W3CWebサイト内](../Page/World_Wide_Web_Consortium.md "wikilink")）
-  - [GIF87a仕様書](https://www.w3.org/Graphics/GIF/spec-gif87.txt)（英語、[W3CWebサイト内](../Page/World_Wide_Web_Consortium.md "wikilink")）
+  - [GIF89a仕様書](http://www.w3.org/Graphics/GIF/spec-gif89a.txt) （[W3CWebサイト内](../Page/World_Wide_Web_Consortium.md "wikilink")）
+  - [GIF87a仕様書](https://www.w3.org/Graphics/GIF/spec-gif87.txt) （[W3CWebサイト内](../Page/World_Wide_Web_Consortium.md "wikilink")）
   - [GIF 検索/コミュニティー](http://slinky.asia) - 日本語のみ。
 
 [Category:ラスターグラフィックス・ファイルフォーマット](https://ja.wikipedia.org/wiki/Category:ラスターグラフィックス・ファイルフォーマット "wikilink") [Category:オープンフォーマット](https://ja.wikipedia.org/wiki/Category:オープンフォーマット "wikilink")

@@ -32,7 +32,7 @@
   - ドイツ語の[tschは](https://ja.wikipedia.org/wiki/四重音字 "wikilink")/tʃ/である。\[1\]
   - [日本語](../Page/日本語.md "wikilink")のローマ字表記では[タ行](https://ja.wikipedia.org/wiki/タ行 "wikilink")の子音に用いられる。ただし、[ヘボン式](https://ja.wikipedia.org/wiki/ヘボン式 "wikilink")では「[ち](../Page/ち.md "wikilink")」は別の子音（ch）となり、「[つ](../Page/つ.md "wikilink")」は[破擦音](../Page/破擦音.md "wikilink")であるためsを加えtsとなる。
   - [朝鮮語](../Page/朝鮮語.md "wikilink")のローマ字表記である[文化観光部2000年式](../Page/文化観光部2000年式.md "wikilink")ではおよび終声の（母音が後続しない場合）に用いられる。[マッキューン＝ライシャワー式](../Page/マッキューン＝ライシャワー式.md "wikilink")では語頭などの無声で発音される[初声](https://ja.wikipedia.org/wiki/初声 "wikilink")のにもtを用いる。初声のはどちらの方式も2つ重ねて tt となる。
-  - [中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")の[漢語拼音](https://ja.wikipedia.org/wiki/漢語拼音 "wikilink")では有気歯茎破裂音に用いられる。
+  - [中国語](../Page/中国語.md "wikilink")の[漢語拼音](https://ja.wikipedia.org/wiki/漢語拼音 "wikilink")では有気歯茎破裂音に用いられる。
 
 ## T の意味
 
@@ -105,7 +105,7 @@
 ### 企業・ブランド
 
   - 電気業界で[東芝](../Page/東芝.md "wikilink")を表す符丁
-      - [携帯電話](../Page/携帯電話.md "wikilink")の業界では、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")は[mova](https://ja.wikipedia.org/wiki/mova "wikilink")のみ「TS」を用いた。[FOMA](../Page/FOMA.md "wikilink")（現在[T2101V](../Page/T2101V.md "wikilink")のみ）および他社（[au](../Page/Au_\(携帯電話\).md "wikilink")・[ツーカー](../Page/ツーカー.md "wikilink")・[SoftBank](../Page/SoftBank_\(携帯電話\).md "wikilink")）は「T」を使っている。
+      - [携帯電話](../Page/携帯電話.md "wikilink")の業界では、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")は[mova](https://ja.wikipedia.org/wiki/mova "wikilink")のみ「TS」を用いた。[FOMA](../Page/FOMA.md "wikilink")（[T2101V](../Page/T2101V.md "wikilink")、[T-01A](https://ja.wikipedia.org/wiki/T-01A "wikilink")など）および他社（[au](../Page/Au_\(携帯電話\).md "wikilink")・[ツーカー](../Page/ツーカー.md "wikilink")・[SoftBank](../Page/SoftBank_\(携帯電話\).md "wikilink")）は「T」を使っている。
   - [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")最大手の通信会社[AT\&T](../Page/AT&T.md "wikilink")の[ニューヨーク証券取引所](../Page/ニューヨーク証券取引所.md "wikilink")[証券コード](../Page/証券コード.md "wikilink")（[ティッカーシンボル](../Page/ティッカーシンボル.md "wikilink")）
   - [Tポイント及び](https://ja.wikipedia.org/wiki/ティーポイント "wikilink")[Tカードは](https://ja.wikipedia.org/wiki/ティーポイント "wikilink")、[ファミリーマート](../Page/ファミリーマート.md "wikilink")や[ENEOS](../Page/ENEOS.md "wikilink")や[TSUTAYA](https://ja.wikipedia.org/wiki/TSUTAYA "wikilink")で利用できる[カルチュア・コンビニエンス・クラブ](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink")の提供するサービス。
   - [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロ野球球団](../Page/日本プロ野球.md "wikilink")[阪神タイガース](../Page/阪神タイガース.md "wikilink") (Tigers)、[富山GRNサンダーバーズ](../Page/富山GRNサンダーバーズ.md "wikilink") (Thunderbirds) の略号。

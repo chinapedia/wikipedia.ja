@@ -180,7 +180,7 @@ T-ボズの鎌型赤血球症やレフト・アイの死もあって、事実上
 
   - [TLC｜Sony Music](https://www.sonymusic.co.jp/artist/TLC/)
 
-[Category:アメリカ合衆国のR\&Bグループ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のR&Bグループ "wikilink") [Category:グラミー賞受賞者](https://ja.wikipedia.org/wiki/Category:グラミー賞受賞者 "wikilink") [Category:アメリカ合衆国のガール・グループ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のガール・グループ "wikilink") [Category:RCAレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:RCAレコードのアーティスト "wikilink") [Category:1990年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1990年に結成した音楽グループ "wikilink")
+[Category:アメリカ合衆国のR\&Bグループ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のR&Bグループ "wikilink") [Category:アメリカ合衆国のガール・グループ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のガール・グループ "wikilink") [Category:グラミー賞受賞者](https://ja.wikipedia.org/wiki/Category:グラミー賞受賞者 "wikilink") [Category:ブリット・アワード受賞者](https://ja.wikipedia.org/wiki/Category:ブリット・アワード受賞者 "wikilink") [Category:RCAレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:RCAレコードのアーティスト "wikilink") [Category:1990年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1990年に結成した音楽グループ "wikilink")
 
 1.
 2.

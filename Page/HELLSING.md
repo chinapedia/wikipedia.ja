@@ -79,7 +79,7 @@
     第二次ゼーレヴェ作戦ではベルナドットと共にヘルシング機関の防衛任務を負い、ゾーリンの部隊を迎え撃つ。ゾーリンとの戦いでは左腕を斬り落とされ、目を潰されるなどの瀕死の重傷を負うが、ベルナドットの遺言に従って彼の血を吸い、アーカードの眷属に相応しい吸血鬼として覚醒。ゾーリンを難なく倒しアンデルセンも感嘆するほどの存在となる。また切られた腕は不定形の黒い霧のような物に変えられるようになり（最終回では「影」と呼ばれている）、翼に変形して空を飛ぶなどの能力も得る。そして、インテグラと共に旗艦デウス・エクス・マキナに乗り込み、自分の中のベルナドットと協力しながら大尉を倒した。
     2030年には不在のアーカードに代わって、かつての彼の様な位置にいる。切り落とされた腕は再生していないが、通常の腕と同じ状態を保てるようで不自由ではなさそうである。また、その影をヘルシング本部に張り巡らし、訪問中のイスカリオテのメンバーを監視していた。
   - ウォルター・C（クム）・ドルネーズ
-    声 - [清川元夢](../Page/清川元夢.md "wikilink")（青年時：[浪川大輔](../Page/浪川大輔.md "wikilink") / 少年時：[朴璐美](https://ja.wikipedia.org/wiki/朴璐美 "wikilink")）
+    声 - [清川元夢](../Page/清川元夢.md "wikilink")（青年時：[浪川大輔](../Page/浪川大輔.md "wikilink") / 少年時：[朴璐美](../Page/朴璐美.md "wikilink")）
     69歳。先代ヘルシング卿の頃よりヘルシング家に仕える老執事。現在でこそ老成しているが、若い頃は口が悪く凶暴で、他人の煙草を奪って吸うなど、俗に言う「悪ガキ」であった。
     「死神」の異名を持ち、かつてはヘルシングの先兵として吸血鬼狩りを行っていた。得物は極細の鋼線であり、これを自在に操ることであらゆる物を切断し、時には編みこむことで銃撃すら防ぐ[盾](../Page/盾.md "wikilink")としても活用する。55年前の若き日にはアーカードとともにナチスの吸血鬼研究機関を壊滅させており、その際に現在のミレニアムの原型となる少佐の部隊と交戦している。
     ヴァレンタイン兄弟がヘルシング機関本部を強襲した際は、セラスとともにヤン率いる武装したグールの集団を一掃する活躍を見せる。
@@ -365,6 +365,7 @@
 以下、主な相違点を挙げる。
 
   - ヘルシング機関が公の機関として認知されており、警察と対立関係にある。また円卓会議やその他機関とも確執が目立つ。
+  - インテグラがヘルシング機関とヴァチカンとの共闘を蹴る。これにより以後アンデルセンらヴァチカン関係者は登場しなくなった。平野は「野沢那智の無駄遣い」と不満を述べた。
   - ナチス関連の描写は一切ないためミレニアムに関わる人物などが登場しない。これに伴いウォルターの所属は最後までヘルシング機関のままである。代わりに、ピーター・ファーガソン（声：[石塚運昇](../Page/石塚運昇.md "wikilink")）やギャリス（声：[志村知幸](../Page/志村知幸.md "wikilink")）といったヘルシング機関の戦闘要員、吸血鬼の少女ヘレナ（声：[平松晶子](../Page/平松晶子.md "wikilink")）、謎の怪人インコグニート（声：[山崎たくみ](../Page/山崎たくみ.md "wikilink")）など、アニメオリジナルキャラクターが出る。
   - ギャグシーンが本編中に存在しない。次回予告はほぼギャグシーンである。
   - 最初は戸惑っていたものの、セラスが輸血用の血液を飲む。
@@ -891,7 +892,7 @@ HELLSING VI-X Blu-ray BOXの特典ディスク
 
   - [アニメ公式サイト](http://www.nbcuni.co.jp/rondorobe/anime/hellsing/)
 
-[Category:平野耕太](https://ja.wikipedia.org/wiki/Category:平野耕太 "wikilink") [Category:漫画作品_へ](https://ja.wikipedia.org/wiki/Category:漫画作品_へ "wikilink") [Category:ヤングキングアワーズ](https://ja.wikipedia.org/wiki/Category:ヤングキングアワーズ "wikilink") [Category:吸血鬼漫画](https://ja.wikipedia.org/wiki/Category:吸血鬼漫画 "wikilink") [Category:吸血鬼を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:吸血鬼を題材としたアニメ作品 "wikilink") [Category:吸血鬼ドラキュラをベースとしたフィクション作品](https://ja.wikipedia.org/wiki/Category:吸血鬼ドラキュラをベースとしたフィクション作品 "wikilink") [Category:吸血鬼ハンターを題材としたフィクション作品](https://ja.wikipedia.org/wiki/Category:吸血鬼ハンターを題材としたフィクション作品 "wikilink") [Category:ロンドンを舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:ロンドンを舞台とした漫画作品 "wikilink") [Category:アニメ作品_へ](https://ja.wikipedia.org/wiki/Category:アニメ作品_へ "wikilink") [Category:フジテレビの深夜アニメ](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜アニメ "wikilink") [Category:2001年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2001年のテレビアニメ "wikilink") [Category:2006年のOVA](https://ja.wikipedia.org/wiki/Category:2006年のOVA "wikilink") [Category:ゴンゾ](https://ja.wikipedia.org/wiki/Category:ゴンゾ "wikilink") [Category:サテライト](https://ja.wikipedia.org/wiki/Category:サテライト "wikilink") [Category:マッドハウス](https://ja.wikipedia.org/wiki/Category:マッドハウス "wikilink") [Category:メモリーテックのアニメ作品](https://ja.wikipedia.org/wiki/Category:メモリーテックのアニメ作品 "wikilink") [Category:NBCユニバーサル・ジャパンのアニメ作品](https://ja.wikipedia.org/wiki/Category:NBCユニバーサル・ジャパンのアニメ作品 "wikilink") [Category:少年画報社のアニメ作品](https://ja.wikipedia.org/wiki/Category:少年画報社のアニメ作品 "wikilink")
+[Category:平野耕太](https://ja.wikipedia.org/wiki/Category:平野耕太 "wikilink") [Category:漫画作品_へ](https://ja.wikipedia.org/wiki/Category:漫画作品_へ "wikilink") [Category:ヤングキングアワーズ](https://ja.wikipedia.org/wiki/Category:ヤングキングアワーズ "wikilink") [Category:吸血鬼漫画](https://ja.wikipedia.org/wiki/Category:吸血鬼漫画 "wikilink") [Category:吸血鬼を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:吸血鬼を題材としたアニメ作品 "wikilink") [Category:吸血鬼ドラキュラをベースとしたフィクション作品](https://ja.wikipedia.org/wiki/Category:吸血鬼ドラキュラをベースとしたフィクション作品 "wikilink") [Category:吸血鬼ハンターを題材としたフィクション作品](https://ja.wikipedia.org/wiki/Category:吸血鬼ハンターを題材としたフィクション作品 "wikilink") [Category:ダーク・ファンタジー](https://ja.wikipedia.org/wiki/Category:ダーク・ファンタジー "wikilink") [Category:ロンドンを舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:ロンドンを舞台とした漫画作品 "wikilink") [Category:アニメ作品_へ](https://ja.wikipedia.org/wiki/Category:アニメ作品_へ "wikilink") [Category:フジテレビの深夜アニメ](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜アニメ "wikilink") [Category:2001年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2001年のテレビアニメ "wikilink") [Category:2006年のOVA](https://ja.wikipedia.org/wiki/Category:2006年のOVA "wikilink") [Category:ゴンゾ](https://ja.wikipedia.org/wiki/Category:ゴンゾ "wikilink") [Category:サテライト](https://ja.wikipedia.org/wiki/Category:サテライト "wikilink") [Category:マッドハウス](https://ja.wikipedia.org/wiki/Category:マッドハウス "wikilink") [Category:メモリーテックのアニメ作品](https://ja.wikipedia.org/wiki/Category:メモリーテックのアニメ作品 "wikilink") [Category:NBCユニバーサル・ジャパンのアニメ作品](https://ja.wikipedia.org/wiki/Category:NBCユニバーサル・ジャパンのアニメ作品 "wikilink") [Category:少年画報社のアニメ作品](https://ja.wikipedia.org/wiki/Category:少年画報社のアニメ作品 "wikilink")
 
 1.  アーカードとセラスは吸血鬼でありながら吸血鬼狩りを生業としている。
 2.  [MARS16 on the web](http://www.mars16.com/single/mars16single050e/mars16single050e.html)

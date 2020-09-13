@@ -1,7 +1,7 @@
 > この記事は[相補的DNA](https://ja.wikipedia.org/wiki/相補的DNA)から翻訳されています。
 
 
-**相補的DNA**（そうほてきDNA、complementary DNA）は、[mRNA](../Page/伝令RNA.md "wikilink") から[逆転写酵素](../Page/逆転写酵素.md "wikilink")を用いた逆転写反応によって合成された二本鎖 [DNA](../Page/デオキシリボ核酸.md "wikilink")。一般には「相補的」を意味する英語、complementary の頭文字をとって、**cDNA** と省略される。遺伝子の上でタンパク質に翻訳される領域の配列が開始コドンから終止コドンまで一続きに含まれているため、タンパク質の一次構造（アミノ酸配列）を解明する出発点として、また人工的にタンパク質を発現させる目的でも単離される。
+**相補的DNA**（そうほてきDNA、complementary DNA）は、[mRNA](../Page/伝令RNA.md "wikilink") から[逆転写酵素](../Page/逆転写酵素.md "wikilink")を用いた逆転写反応によって合成された二本鎖 [DNA](../Page/デオキシリボ核酸.md "wikilink")。一般には「[相補的](../Page/相補性_\(分子生物学\).md "wikilink")」を意味する英語、complementary の頭文字をとって、**cDNA** と省略される。遺伝子の上でタンパク質に翻訳される領域の配列が開始コドンから終止コドンまで一続きに含まれているため、タンパク質の一次構造（アミノ酸配列）を解明する出発点として、また人工的にタンパク質を発現させる目的でも単離される。
 
 ヒトを始めとする[真核生物](../Page/真核生物.md "wikilink")では、[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")は[ゲノム](../Page/ゲノム.md "wikilink")上にコードされているものの、多くはそこから[転写](https://ja.wikipedia.org/wiki/転写 "wikilink")された [mRNA前駆体](https://ja.wikipedia.org/wiki/mRNA前駆体 "wikilink")が[スプライシング](https://ja.wikipedia.org/wiki/スプライシング "wikilink")を受けて[イントロン](../Page/イントロン.md "wikilink")が除去されるまでは[蛋白質](https://ja.wikipedia.org/wiki/蛋白質 "wikilink")に翻訳されない情報も含んでいる。 そこで、スプライシング済みの成熟[mRNA](https://ja.wikipedia.org/wiki/mRNA "wikilink") から cDNA を合成すればイントロンを含まない状態の遺伝子（塩基配列）を知ることができることから、遺伝子の[クローニング](../Page/クローニング.md "wikilink")に広く利用されている。
 

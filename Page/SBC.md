@@ -35,7 +35,7 @@
 
   - [シングルボードコンピュータ](https://ja.wikipedia.org/wiki/シングルボードコンピュータ "wikilink") - 高性能・高機能なワンボードマイコンとしての利用
 
-  - \- [Bluetooth](../Page/Bluetooth.md "wikilink")におけるA2DPの標準コーデック
+  - \- [Bluetooth](../Page/Bluetooth.md "wikilink")における[A2DPの標準コーデック](https://ja.wikipedia.org/wiki/Advanced_Audio_Distribution_Profile "wikilink")
 
   - [まちづくりエージェント SIDE BEACH CITY.](https://ja.wikipedia.org/wiki/まちづくりエージェント_SIDE_BEACH_CITY. "wikilink") - 横浜市に法人登記されている[特定非営利活動法人](../Page/特定非営利活動法人.md "wikilink")
 
@@ -61,6 +61,6 @@
 
   - [少年ビッグコミック](../Page/少年ビッグコミック.md "wikilink")ス - [小学館](../Page/小学館.md "wikilink")の『[少年ビッグコミック](../Page/少年ビッグコミック.md "wikilink")』及び関連雑誌掲載作品の[単行本レーベル](../Page/小学館の漫画レーベル.md "wikilink")
 
-  - [西海放送](https://ja.wikipedia.org/wiki/西海放送 "wikilink") - 1980年まで韓国・群山市に存在した民間ラジオ放送会社の略称。
+  - [西海放送](../Page/西海放送.md "wikilink") - 1980年まで韓国・群山市に存在した民間ラジオ放送会社の略称。
 
   - （Session Border Controller: SBC） - [IP電話](../Page/IP電話.md "wikilink")網の境界の[ゲートウェイ](../Page/ゲートウェイ.md "wikilink")装置。

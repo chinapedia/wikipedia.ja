@@ -9,7 +9,7 @@
 
 ## 普及状態の推移
 
-DVDオーディオ普及推進のため[2002年](../Page/2002年.md "wikilink")にDVDオーディオプロモーション協議会を発足。[Hi-Fi](../Page/Hi-Fi.md "wikilink")オーディオ向けの媒体として、また従来の[CD-DA](../Page/CD-DA.md "wikilink")では不可能であった5.1ch[サラウンド](../Page/サラウンド.md "wikilink")といったマルチチャンネルオーディオの媒体として期待された\[1\]が、結果的にはほとんど普及しなかった。次世代のオーディオ媒体としては、同時期に登場した、CD-DAと互換性を持つハイブリッドディスクを制作可能な[Super Audio CD](../Page/Super_Audio_CD.md "wikilink")（SACD）に市場を譲る形となったことや、[2007年](../Page/2007年.md "wikilink")は、時期的に[次世代DVDである](../Page/第3世代光ディスク.md "wikilink")[Blu-ray Discへの移行期だったこともあり](../Page/Blu-ray_Disc.md "wikilink")、DVDオーディオプロモーション協議会は同年に解散した\[2\]\[3\]\[4\]。
+[Hi-Fi](../Page/Hi-Fi.md "wikilink")オーディオ向けの媒体として、また従来の[CD-DA](../Page/CD-DA.md "wikilink")では不可能であった5.1ch[サラウンド](../Page/サラウンド.md "wikilink")といったマルチチャンネルオーディオの媒体として期待された\[1\]が、結果的にはほとんど普及しなかった。次世代のオーディオ媒体としては、同時期に登場した、CD-DAと互換性を持つハイブリッドディスクを制作可能な[Super Audio CD](../Page/Super_Audio_CD.md "wikilink")（SACD）に市場を譲る形となり、普及推進のため2002年に発足したDVDオーディオプロモーション協議会も2007年には解散した\[2\]\[3\]\[4\]。
 
 ## 著作権保護
 

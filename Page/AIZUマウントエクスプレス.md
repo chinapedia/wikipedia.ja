@@ -7,7 +7,7 @@
 
 ## 沿革
 
-  - 元々[特急「北アルプス」として使用されていた](../Page/名鉄特急.md "wikilink")[キハ8500系気動車を使用し](../Page/名鉄キハ8500系気動車.md "wikilink")、[2002年](../Page/2002年.md "wikilink")（平成14年）[3月23日](../Page/3月23日.md "wikilink")のダイヤ改正で快速「AIZUマウントエクスプレス」が会津若松駅 - 会津田島駅間で運行開始\[1\]。運行開始当初は、全列車会津線内全区間にて快速運転を行っていた。
+  - [2002年](../Page/2002年.md "wikilink")（平成14年）[3月23日](../Page/3月23日.md "wikilink") - 快速「AIZUマウントエクスプレス」が会津若松駅 - 会津田島駅間で運行開始\[1\]。元々[特急「北アルプス」として使用されていた](../Page/名鉄特急.md "wikilink")[キハ8500系気動車を使用し](../Page/名鉄キハ8500系気動車.md "wikilink")、当初は全列車が会津線内全区間にて快速運転を行っていた。
   - [2003年](../Page/2003年.md "wikilink")（平成15年）[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") - 土休日の喜多方駅への延長運転を開始\[2\]。
   - [2005年](../Page/2005年.md "wikilink")（平成17年）
       - [3月1日](../Page/3月1日.md "wikilink") - ダイヤ改正で浅草駅 - 会津田島駅間で運行されていた東武鉄道[急行列車](../Page/急行列車.md "wikilink")「[南会津](../Page/きりふり_\(列車\).md "wikilink")」が廃止（東武線内運行の「ゆのさと」に変更）。「AIZUマウントエクスプレス」が東武鬼怒川線鬼怒川温泉駅への乗り入れを開始した\[3\]。この時点で1日2往復が運転されていた\[4\]。
@@ -178,117 +178,68 @@ Aizu-railway-Kiha 8500.jpg|キハ8500系 Aizu Railway AT-700 series DMU 001.JPG|
 </tr>
 <tr class="even">
 <td></td>
-<td><p>↓</p></td>
-<td><p>↓</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong><a href="../Page/会津下郷駅.md" title="wikilink">会津下郷駅</a></strong></p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-</tr>
-<tr class="even">
-<td><p><strong><a href="../Page/弥五島駅.md" title="wikilink">弥五島駅</a></strong></p></td>
-<td><p>↓</p></td>
-<td><p>↓</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong><a href="../Page/塔のへつり駅.md" title="wikilink">塔のへつり駅</a></strong></p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-</tr>
-<tr class="even">
-<td><p><strong><a href="../Page/湯野上温泉駅.md" title="wikilink">湯野上温泉駅</a></strong></p></td>
 <td><p>●</p></td>
 <td><p>●</p></td>
 <td><p>●</p></td>
 <td><p>●</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td><p>↓</p></td>
-<td><p>↓</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-</tr>
-<tr class="even">
-<td><p><strong><a href="../Page/芦ノ牧温泉駅.md" title="wikilink">芦ノ牧温泉駅</a></strong></p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p>↓</p></td>
-<td><p>↓</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-</tr>
-<tr class="even">
 <td><p><strong><a href="../Page/西若松駅.md" title="wikilink">西若松駅</a></strong></p></td>
 <td><p>●</p></td>
 <td><p>●</p></td>
 <td><p>●</p></td>
 <td><p>●</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="../Page/七日町駅.md" title="wikilink">七日町駅</a></strong></p></td>
 <td><p>●</p></td>
 <td><p>●</p></td>
 <td><p>●</p></td>
 <td><p>●</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="../Page/会津若松駅.md" title="wikilink">会津若松駅</a></strong></p></td>
 <td><p>●</p></td>
 <td><p>●</p></td>
 <td><p>●</p></td>
 <td><p>●</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>↓</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="../Page/塩川駅.md" title="wikilink">塩川駅</a></strong></p></td>
 <td><p>○</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>↓</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="../Page/喜多方駅.md" title="wikilink">喜多方駅</a></strong></p></td>
 <td><p>○</p></td>
 <td></td>
@@ -304,7 +255,7 @@ Aizu-railway-Kiha 8500.jpg|キハ8500系 Aizu Railway AT-700 series DMU 001.JPG|
 
   - 5号…鬼怒川温泉駅始発。会津高原尾瀬口駅 - 会津田島駅間の途中駅はすべて通過。
   - 4号…西若松駅 ‐ 会津田島駅間の停車駅が以下のとおりであった。
-      - 西若松駅 - 南若松駅 - 芦ノ牧温泉駅 - 湯野上温泉駅 - 塔のへつり駅 - 会津下郷駅 - 会津田島駅
+      - 西若松駅 - [南若松駅](../Page/南若松駅.md "wikilink") - [芦ノ牧温泉駅](../Page/芦ノ牧温泉駅.md "wikilink") - [湯野上温泉駅](../Page/湯野上温泉駅.md "wikilink") - [塔のへつり駅](../Page/塔のへつり駅.md "wikilink") - [会津下郷駅](../Page/会津下郷駅.md "wikilink") - 会津田島駅
   - 6号…鬼怒川温泉駅止り。西若松駅 ‐ 会津田島駅間の停車駅が以下のとおりであった。
       - 西若松駅 - 芦ノ牧温泉駅 - 湯野上温泉駅 - 塔のへつり駅 - 会津下郷駅 - 会津田島駅
 

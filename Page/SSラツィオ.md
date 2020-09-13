@@ -138,6 +138,7 @@
 | [2017-18](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2017-2018 "wikilink") | セリエA                                        | 38                                         |
 | [2018-19](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2018-2019 "wikilink") | セリエA                                        | 38                                         |
 | [2019-20](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2019-2020 "wikilink") | セリエA                                        | 38                                         |
+| [2020-21](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2020-2020 "wikilink") | セリエA                                        | 38                                         |
 
 ※2005-06シーズンはシーズン終了後勝ち点-30のペナルティ（6位→16位）、2006-07シーズンは勝ち点-3でシーズン開始
 
@@ -1203,6 +1204,36 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2020-21</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_20" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
+<td><p>グループ</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>'''位</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -1214,7 +1245,7 @@
 
 [350px](https://ja.wikipedia.org/wiki/ファイル:Soccer_Field_Transparant.svg "wikilink")
 
-  - [2020年](../Page/2020年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink")現在
 
 ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_the_Democratic_Republic_of_the_Congo.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Switzerland.svg "wikilink"))★([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))    (副主将)  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Brazil.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Nigeria.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Serbia.svg "wikilink"))★  ★
 

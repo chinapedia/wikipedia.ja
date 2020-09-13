@@ -17,10 +17,10 @@
 ### 一部の楽曲で出演している人物
 
   - [出川哲朗](../Page/出川哲朗.md "wikilink")
-  - [有田哲平](../Page/有田哲平.md "wikilink") （[くりぃむしちゅー](../Page/くりぃむしちゅー.md "wikilink")）
+  - [有田哲平](../Page/有田哲平.md "wikilink")（[くりぃむしちゅー](../Page/くりぃむしちゅー.md "wikilink")）
   - [有吉弘行](../Page/有吉弘行.md "wikilink")
   - [バナナマン](../Page/バナナマン.md "wikilink")
-  - [品川庄司](../Page/品川庄司.md "wikilink")※キャンペーンボーイ
+  - [品川庄司](../Page/品川庄司.md "wikilink") ※キャンペーンボーイ
 
 ## 活動概要
 
@@ -220,7 +220,7 @@
 
 ## 外部リンク
 
-  - [『内村プロデュース公式HP 情報』](http://www.tv-asahi.co.jp/uchimura/contents/noplan/index.html)（テレビ朝日）
+  - [『内村プロデュース公式HP 情報』](https://www.tv-asahi.co.jp/uchimura/contents/noplan/index.html)（テレビ朝日）
   - [](http://www.sonymusic.co.jp/Music/Info/NOPLAN/)（ソニー・ミュージック）
   - [](https://www.sonymusic.co.jp/artist/NOPLAN/)（ソニー・ミュージック）
 

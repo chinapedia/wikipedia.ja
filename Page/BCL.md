@@ -5,9 +5,11 @@
 
 ## 概要
 
-BCLとは、広義では「[放送](../Page/放送.md "wikilink")を聴取して楽しむ[趣味](https://ja.wikipedia.org/wiki/趣味 "wikilink")のこと」を意味している。狭義では「主に短波を使って行われる国外からの放送を受信すること」を意味するが、[欧米](../Page/欧米.md "wikilink")では「SWL（[Shortwave Listening](https://ja.wikipedia.org/wiki/:en:Shortwave_Listening "wikilink") / Listener：短波無線通信の聴取 / 聴取者）」 や、「[DXing](https://ja.wikipedia.org/wiki/:en:DXing "wikilink")」などとも称される。日本で「SWL」というと、「主に趣味として、[アマチュア無線](../Page/アマチュア無線.md "wikilink")や業務用の通信局の無線通信を受信\[1\]して、[QSLカード](../Page/QSLカード.md "wikilink")（正しくは**受信確認証**）を発行してもらう事（または、者）」を意味することがあり、他に「[DX](https://ja.wikipedia.org/wiki/アマチュア無線#遠距離通信での_\(DX\) "wikilink")（Distant X: Long Distance =遠距離の意：[アマチュア無線](../Page/アマチュア無線.md "wikilink")、BCLにおける遠距離通信の受信）」を指すこともある。
+BCLとは、広義では「放送を聴取して楽しむ趣味自体」を、狭義では「主に**短波**を使って行われる**国外からの**放送を受信すること」を意味する。
 
-受信者が、受信した放送局名、受信年月日、受信時間と時刻、受信した周波数、受信状態（[SINPOコード](../Page/SINPOコード.md "wikilink")によることが多い）、受信に使用した[受信機](../Page/受信機.md "wikilink")や[アンテナ](../Page/アンテナ.md "wikilink")の状況、受信を確認できる放送[番組内容の概略と](../Page/ラジオ番組.md "wikilink")、その感想などを記述した[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikilink")を[放送局](../Page/放送局.md "wikilink")に送ると、受信したことを証明する**受信確認証**（[ベリカード](../Page/ベリカード.md "wikilink")：Verification Cardの日本式省略）が発行されることもあり、それを収集することを趣味とする人も居る。
+BCLを対象に、放送局が[ベリカード](../Page/ベリカード.md "wikilink")（受信確認証）を発行している例が多い。この場合、受信者が[放送局](../Page/放送局.md "wikilink")に、受信した放送局名、受信年月日、受信時間と時刻、受信した周波数、受信状態評価（[SINPOコード](../Page/SINPOコード.md "wikilink")によることが多い）、受信に使用した[受信機](../Page/受信機.md "wikilink")や[アンテナ](../Page/アンテナ.md "wikilink")の状況、受信を確認できる[放送番組内容の概略および感想](../Page/ラジオ番組.md "wikilink")、といった内容を記述した受信報告書を送ると、放送局はベリカードを返送する。ベリカード収集を趣味とする人もいる。
+
+[欧米](../Page/欧米.md "wikilink")では「SWL（[Shortwave listening](https://ja.wikipedia.org/wiki/:en:Shortwave_listening "wikilink")）」あるいは「DX」「DXing」（Distant X＝[遠距離無線通信](https://ja.wikipedia.org/wiki/遠距離無線通信 "wikilink")の意）と称される趣味が該当する。日本では「SWL」は主に、趣味として[アマチュア無線](../Page/アマチュア無線.md "wikilink")や[業務無線](../Page/業務無線.md "wikilink")の通信を受信することおよび人\[1\]を、「DX」「DXing」は主にアマチュア無線での遠距離通信をそれぞれ指す場合がある。なお、アマチュア無線家が発行する受信確認証を[QSLカード](../Page/QSLカード.md "wikilink")と呼ぶ。
 
 ## 日本での経緯
 
@@ -145,7 +147,7 @@ BCLラジオの収集（[コレクション](../Page/コレクション.md "wiki
 
 [Category:ラジオ](https://ja.wikipedia.org/wiki/Category:ラジオ "wikilink") [Category:放送](https://ja.wikipedia.org/wiki/Category:放送 "wikilink")
 
-1.  [電波法](../Page/電波法.md "wikilink")第五十九条でいう「**[傍受](https://ja.wikipedia.org/wiki/傍受 "wikilink")**」とみなされることがある。
+1.  [電波法](../Page/電波法.md "wikilink")第59条でいう[傍受](https://ja.wikipedia.org/wiki/傍受 "wikilink")とみなされることがある。
 2.  中波、FM、NSBが含まれる3.9～12MHzの他に13MHzを超える周波数も受信出来たのでこの名で呼ばれる
 3.  [三才ブックス・ラジオ・BCL](http://www.sansaibooks.co.jp/category/radio-bcl)
 4.  「BBC 日本語放送を来年3月廃止」『[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")』1990年8月24日付東京夕刊、3頁。

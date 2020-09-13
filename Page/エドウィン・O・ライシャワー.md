@@ -19,7 +19,7 @@
 
 アメリカンスクール・イン・ジャパン在学時には、現在まで残る校内新聞「ランタン」の創刊にも関わったほか、スポーツにも熱心に打ち込んだ。
 
-父親の知人、使用人、[軽井沢](../Page/軽井沢.md "wikilink")別荘滞在者などの日本人子弟と交流し、[1923年](../Page/1923年.md "wikilink")（[大正](../Page/大正.md "wikilink")12年）の[関東大震災](../Page/関東大震災.md "wikilink")時には軽井沢を訪れていたため被害を免れ、軽井沢に[疎開](../Page/疎開.md "wikilink")で訪れる被災者を家族や知人らと[軽井沢駅](../Page/軽井沢駅.md "wikilink")で支援している。[スパイ](../Page/スパイ.md "wikilink")で知られる[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")人[外交官](../Page/外交官.md "wikilink")[エドガートン・ハーバート・ノーマン](../Page/エドガートン・ハーバート・ノーマン.md "wikilink")は、当時軽井沢でテニスを交えた知人である。
+父親の知人、使用人、[軽井沢](../Page/軽井沢.md "wikilink")別荘滞在者などの日本人子弟と交流し、[1923年](../Page/1923年.md "wikilink")（[大正](../Page/大正.md "wikilink")12年）の[関東大震災](../Page/関東大震災.md "wikilink")時には軽井沢を訪れていたため被害を免れ、軽井沢に[疎開](../Page/疎開.md "wikilink")で訪れる被災者を家族や知人らと[軽井沢駅](../Page/軽井沢駅.md "wikilink")で支援している。後に[共産主義者](https://ja.wikipedia.org/wiki/共産主義者 "wikilink")で[スパイ](../Page/スパイ.md "wikilink")で知られる[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")人[外交官](../Page/外交官.md "wikilink")[エドガートン・ハーバート・ノーマン](../Page/エドガートン・ハーバート・ノーマン.md "wikilink")は、当時軽井沢でテニスを交えた知人である。
 
 ### アメリカへ
 
@@ -27,7 +27,7 @@
 
 ### ハーバード大学講師
 
-[Harvard-Yenching_Institute,_Harvard_University.jpg](https://ja.wikipedia.org/wiki/File:Harvard-Yenching_Institute,_Harvard_University.jpg "fig:Harvard-Yenching_Institute,_Harvard_University.jpg") [1933年](../Page/1933年.md "wikilink")（昭和8年）には、[ハーバード燕京研究所](https://ja.wikipedia.org/wiki/ハーバード燕京研究所 "wikilink")所長で当時数少ない日本文学者であった[セルゲイ・エリセーエフ](../Page/セルゲイ・エリセーエフ.md "wikilink")より、[フランスと日本](../Page/フランス第三共和政.md "wikilink")・[中国で研修を行った後](../Page/中華民国.md "wikilink")、エリセーエフが設立を計画している極東言語学部において日本語の講師として教鞭を取ることを依頼される。同年[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")にある国立現代東洋語学校へ向かい、[日本語](../Page/日本語.md "wikilink")と[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")を学んだ。
+[Harvard-Yenching_Institute,_Harvard_University.jpg](https://ja.wikipedia.org/wiki/File:Harvard-Yenching_Institute,_Harvard_University.jpg "fig:Harvard-Yenching_Institute,_Harvard_University.jpg") [1933年](../Page/1933年.md "wikilink")（昭和8年）には、[ハーバード燕京研究所](https://ja.wikipedia.org/wiki/ハーバード燕京研究所 "wikilink")所長で当時数少ない日本文学者であった[セルゲイ・エリセーエフ](../Page/セルゲイ・エリセーエフ.md "wikilink")より、[フランスと日本](../Page/フランス第三共和政.md "wikilink")・[中国で研修を行った後](../Page/中華民国.md "wikilink")、エリセーエフが設立を計画している極東言語学部において日本語の講師として教鞭を取ることを依頼される。同年[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")にある国立現代東洋語学校へ向かい、[日本語](../Page/日本語.md "wikilink")と[中国語](../Page/中国語.md "wikilink")を学んだ。
 
 ヨーロッパ留学中に、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")や[オーストリア](../Page/第一共和国_\(オーストリア\).md "wikilink")、[ドイツ](../Page/ヴァイマル共和政.md "wikilink")、[チェコスロヴァキア](https://ja.wikipedia.org/wiki/チェコスロヴァキア "wikilink")等を旅し、ドイツでは、[レーム事件](https://ja.wikipedia.org/wiki/レーム事件 "wikilink")の現場に居合わせている。このヨーロッパ旅行中、オーストリアの[ザルツブルク](../Page/ザルツブルク.md "wikilink")を訪れた際に、丘の上の古城から見たザルツブルクの風景が、日本の[城下町](../Page/城下町.md "wikilink")に似ている事に気付き、日本とヨーロッパの歴史の類似性、及び、日本の近代化における[封建時代](https://ja.wikipedia.org/wiki/封建時代 "wikilink")の重要性に気がついたと、後年、回想している。（NHK『日本への自叙伝』）[1935年](../Page/1935年.md "wikilink")（昭和10年）には日本へと移る。
 
@@ -35,7 +35,7 @@
 
 日本への帰国後は[東京帝国大学文学部の初の外国人特別研究生となり](https://ja.wikipedia.org/wiki/東京大学 "wikilink")、同年7月には[パリ大学](../Page/パリ大学.md "wikilink")の学生だったアドリエン (Adrienne Darnton) と東京で結婚した。その後[京都帝国大学文学部国史学科の特別研究生となり](../Page/京都大学.md "wikilink")、[円仁](../Page/円仁.md "wikilink")の日記の翻訳などを手がけた。[1938年](../Page/1938年.md "wikilink")（昭和13年）には[京城に](../Page/京城府.md "wikilink")3ヶ月滞在し、[ジョージ・M・マッキューン](https://ja.wikipedia.org/wiki/ジョージ・M・マッキューン "wikilink")とともに[朝鮮語](../Page/朝鮮語.md "wikilink")ローマ字の表記として有名になる「[マッキューン＝ライシャワー式](../Page/マッキューン＝ライシャワー式.md "wikilink")」を考案した。
 
-その後[日中戦争](../Page/日中戦争.md "wikilink")最中の[1937年](../Page/1937年.md "wikilink")（昭和12年）11月に[北京](https://ja.wikipedia.org/wiki/北京 "wikilink")へ向かい、[燕京大学](https://ja.wikipedia.org/wiki/燕京大学 "wikilink")で研究活動を行う傍ら中国文化院で[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")を学んだ。これに先立つ8月には、研修のため日本と中国を訪れた、実兄で[プリンストン大学](https://ja.wikipedia.org/wiki/プリンストン大学 "wikilink")教授の[ロバート・カール・ライシャワー](https://ja.wikipedia.org/wiki/ロバート・カール・ライシャワー "wikilink")博士 (Dr. [Robert Karl Reischauer](https://ja.wikipedia.org/wiki/Robert_Karl_Reischauer "wikilink"), 1907年-1937年) が、訪問先の[上海で](../Page/上海市.md "wikilink")[中華民国国軍](../Page/中華民国国軍.md "wikilink")機の[誤爆](../Page/誤爆.md "wikilink")を受け死亡した（[国民党軍機による上海空爆](https://ja.wikipedia.org/wiki/第二次上海事変#国民党軍機による上海空爆 "wikilink")）。[1938年](../Page/1938年.md "wikilink")（昭和13年）にはハーバード大学に戻り、日本語と中国語の講師となり、[1939年](../Page/1939年.md "wikilink")（昭和14年）には『[入唐求法巡礼行記](../Page/入唐求法巡礼行記.md "wikilink")』の研究で[博士号](https://ja.wikipedia.org/wiki/博士号 "wikilink")を授与された。
+その後[日中戦争](../Page/日中戦争.md "wikilink")最中の[1937年](../Page/1937年.md "wikilink")（昭和12年）11月に[北京](https://ja.wikipedia.org/wiki/北京 "wikilink")へ向かい、[燕京大学](https://ja.wikipedia.org/wiki/燕京大学 "wikilink")で研究活動を行う傍ら中国文化院で[中国語](../Page/中国語.md "wikilink")を学んだ。これに先立つ8月には、研修のため日本と中国を訪れた、実兄で[プリンストン大学](https://ja.wikipedia.org/wiki/プリンストン大学 "wikilink")教授の[ロバート・カール・ライシャワー](https://ja.wikipedia.org/wiki/ロバート・カール・ライシャワー "wikilink")博士 (Dr. [Robert Karl Reischauer](https://ja.wikipedia.org/wiki/Robert_Karl_Reischauer "wikilink"), 1907年-1937年) が、訪問先の[上海で](../Page/上海市.md "wikilink")[中華民国国軍](../Page/中華民国国軍.md "wikilink")機の[誤爆](../Page/誤爆.md "wikilink")を受け死亡した（[国民党軍機による上海空爆](https://ja.wikipedia.org/wiki/第二次上海事変#国民党軍機による上海空爆 "wikilink")）。[1938年](../Page/1938年.md "wikilink")（昭和13年）にはハーバード大学に戻り、日本語と中国語の講師となり、[1939年](../Page/1939年.md "wikilink")（昭和14年）には『[入唐求法巡礼行記](../Page/入唐求法巡礼行記.md "wikilink")』の研究で[博士号](https://ja.wikipedia.org/wiki/博士号 "wikilink")を授与された。
 
 ### 第二次世界大戦前後
 
@@ -53,7 +53,7 @@
 
 ### 松方ハルと再婚
 
-[Edwin_Oldfather_Reischauer_and_his_wife.jpg](https://ja.wikipedia.org/wiki/File:Edwin_Oldfather_Reischauer_and_his_wife.jpg "fig:Edwin_Oldfather_Reischauer_and_his_wife.jpg") [1955年](../Page/1955年.md "wikilink")（昭和30年）にアドリエンが3人の子供を残し急逝し、[1956年](../Page/1956年.md "wikilink")（昭和31年）には、[明治](../Page/明治.md "wikilink")時代の[元勲](../Page/元勲.md "wikilink")の[松方正義](../Page/松方正義.md "wikilink")と、生糸貿易の先駆者で元横浜生糸会社会長の[新井領一郎](../Page/新井領一郎.md "wikilink")の孫、さらに[アメリカンスクール・イン・ジャパン](../Page/アメリカンスクール・イン・ジャパン.md "wikilink")の後輩である[松方ハル](https://ja.wikipedia.org/wiki/ハル・松方・ライシャワー "wikilink")（[1915年](../Page/1915年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink") - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月23日](../Page/9月23日.md "wikilink")）と日本において再婚する。披露のパーティーは父母が創設に尽力し、そのキャンパスに住んだ東京女子大学で行われた。
+[Edwin_Oldfather_Reischauer_and_his_wife.jpg](https://ja.wikipedia.org/wiki/File:Edwin_Oldfather_Reischauer_and_his_wife.jpg "fig:Edwin_Oldfather_Reischauer_and_his_wife.jpg") [1955年](../Page/1955年.md "wikilink")（昭和30年）にアドリエンが3人の子供を残し急逝し、[1956年](../Page/1956年.md "wikilink")（昭和31年）には、さらに[アメリカンスクール・イン・ジャパン](../Page/アメリカンスクール・イン・ジャパン.md "wikilink")の後輩である[松方ハル](https://ja.wikipedia.org/wiki/ハル・松方・ライシャワー "wikilink")（[1915年](../Page/1915年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink") - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月23日](../Page/9月23日.md "wikilink")）と日本において再婚する。披露のパーティーは父母が創設に尽力し、そのキャンパスに住んだ東京女子大学で行われた。松方ハルの周囲の人間は外国人男性との結婚に猛反対したという。
 
 この年にハーバード燕京研究所所長となった（1963年まで）\[3\]。1958年には[ノーベル文学賞](../Page/ノーベル文学賞.md "wikilink")候補として[谷崎潤一郎](../Page/谷崎潤一郎.md "wikilink")を推薦していたことが、2009年にノーベル財団への資料公開請求をおこなった朝日新聞の報道により明らかにされている\[4\]。
 
@@ -65,7 +65,7 @@
 
 この論文が当時就任して間もない[ジョン・F・ケネディ](../Page/ジョン・F・ケネディ.md "wikilink")政権の国務次官である[チェスター・ボールズ](https://ja.wikipedia.org/wiki/チェスター・ボールズ "wikilink")の補佐官のジェームス・C・トムソン・ジュニアの目にとまり、駐日[特命全権大使](../Page/特命全権大使.md "wikilink")への就任要請につながったと言われる。
 
-ジョン・F・ケネディ大統領からの大使就任要請を受諾したライシャワーは、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年）4月には駐日アメリカ特命全権大使として東京に赴任し、「日本生まれのアメリカ大使」として日本人の妻とともに日本国民から人気を博す。
+ジョン・F・ケネディ大統領からの大使就任要請を受諾したライシャワーは、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年）4月には駐日アメリカ特命全権大使として東京に赴任したが、反米感情も相まってライシャワーや日本人の妻は国民から反感を買う事になる。
 
 #### 日米パートナーシップ
 
@@ -73,15 +73,13 @@
 
 また、[冷戦](../Page/冷戦.md "wikilink")下においてこれまで大使館とは微妙な関係を保っていた[在日アメリカ軍](https://ja.wikipedia.org/wiki/在日アメリカ軍 "wikilink")との関係改善にも臨み、在日アメリカ軍司令官や太平洋軍司令官、そして[沖縄の](../Page/沖縄県.md "wikilink")[琉球列島高等弁務官](../Page/琉球列島高等弁務官.md "wikilink")などとも緊密な関係を取り続けた。さらに、日本を訪問した[アヴェレル・ハリマン](https://ja.wikipedia.org/wiki/アヴェレル・ハリマン "wikilink")や[リチャード・ニクソン](../Page/リチャード・ニクソン.md "wikilink")、[ロバート・ケネディ](../Page/ロバート・ケネディ.md "wikilink")などの政界関係者と日本の政財界人との間をつなぐだけでなく、彼らに対して同盟国の日本との関係の重要性を理解させるように努めた。
 
-なお、ライシャワーは駐日大使在任中にほぼすべての都道府県を訪問した他、妻のハルも女性団体やその他各種団体などとの会合に積極的に出席するなど、市民との接触も積極的に行い、その活動は数多くのマスコミで大きく報道された。
-
 しかし、[1963年](../Page/1963年.md "wikilink")（昭和38年）11月のケネディの暗殺後に[リンドン・B・ジョンソン政権に代わった頃以降には](../Page/リンドン・ジョンソン.md "wikilink")、皮肉にも自らを抜擢したケネディ政権が始めたアメリカの[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")政策を起因とする、日本人の反米感情の高まりへの対処に苦慮することとなる。
 
 #### 「ライシャワー事件」
 
-[1964年](../Page/1964年.md "wikilink")（昭和39年）3月に[アメリカ大使館門前で当時](../Page/駐日アメリカ合衆国大使館.md "wikilink")19歳の[統合失調症](https://ja.wikipedia.org/wiki/統合失調症 "wikilink")患者にナイフで大腿を刺され重傷を負った。この時に[輸血](../Page/輸血.md "wikilink")を受け「これで私の体の中に日本人の血が流れることになりました」と発言し多くの日本人から賞賛を浴びたが、この輸血が元で[肝炎](../Page/肝炎.md "wikilink")に罹る\[5\]。その後、これがきっかけになり[売血](../Page/売血.md "wikilink")問題がクローズアップされ、その後日本において輸血用血液は[献血](../Page/献血.md "wikilink")により調達されることになる。この事件は「ライシャワー事件」と呼ばれ、[精神衛生法（当時の名称）改正や輸血用血液の](../Page/精神保健及び精神障害者福祉に関する法律.md "wikilink")[売血](../Page/売血.md "wikilink")廃止など、日本の[医療制度](https://ja.wikipedia.org/wiki/医療制度 "wikilink")に大きな影響を与えた。
+[1964年](../Page/1964年.md "wikilink")（昭和39年）3月に[アメリカ大使館門前で当時](../Page/駐日アメリカ合衆国大使館.md "wikilink")19歳の愛国者を名乗る少年にナイフで大腿を刺され重傷を負った。この時に[輸血](../Page/輸血.md "wikilink")を受け「これで私の体の中に日本人の血が流れることになりました」と発言し多くの日本人から賞賛を浴びたが、この輸血が元で[輸血後肝炎](../Page/輸血後肝炎.md "wikilink")に罹る\[5\]。その後、これがきっかけになり[売血](../Page/売血.md "wikilink")問題がクローズアップされ、その後日本において輸血用血液は[献血](../Page/献血.md "wikilink")により調達されることになる。この事件は「ライシャワー事件」と呼ばれ、[精神衛生法（当時の名称）改正や輸血用血液の](../Page/精神保健及び精神障害者福祉に関する法律.md "wikilink")[売血](../Page/売血.md "wikilink")廃止など、日本の[医療制度](https://ja.wikipedia.org/wiki/医療制度 "wikilink")に大きな影響を与えた。
 
-その後3ヶ月の入院を経て回復し退院し（その後[ハワイ州](../Page/ハワイ州.md "wikilink")[ホノルル](../Page/ホノルル.md "wikilink")の[海軍](../Page/海軍.md "wikilink")の[病院](../Page/病院.md "wikilink")に検査のために再入院した）一時は辞任を考えたものの、「今退任し帰国すれば日本人は事件の責任を感じてしまうだろう」と考え留任することを決め、その後も駐日大使として活躍した。
+その後3ヶ月の入院を経て回復し退院し（その後[ハワイ州](../Page/ハワイ州.md "wikilink")[ホノルル](../Page/ホノルル.md "wikilink")の[海軍の](../Page/アメリカ海軍.md "wikilink")[病院](../Page/病院.md "wikilink")に検査のために再入院した）一時は辞任を考えたものの、「今退任し帰国すれば日本人は事件の責任を感じてしまうだろう」と考え留任することを決め、その後も駐日大使として活躍した。
 
 #### 辞任
 
@@ -95,11 +93,15 @@
 
 なお、[1973年](../Page/1973年.md "wikilink")（昭和48年）にハーバード大学日本研究所所長に就任した他、同大学の東アジア研究評議会理事、[OECD理事やアジア基金理事など数多くの役職を務め](../Page/経済協力開発機構.md "wikilink")、日本及び[アジア](../Page/アジア.md "wikilink")研究者として日米間を緊密に往復しつつ活躍した。
 
+### 脳卒中と脳内出血
+
+1964年（昭和39年）には上記の襲撃事件により肝炎に罹患、大使退任後も度々の発症に悩まされていた上に、大使退任後の[1975年](../Page/1975年.md "wikilink")（昭和50年）2月には[脳卒中](../Page/脳卒中.md "wikilink")に見舞われたほか、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）には[脳内出血](../Page/脳内出血.md "wikilink")にも見舞われた。
+
+[Edwin_O._Reischauer_Memorial_House_(Kodansha)_-_Belmont,_MA.JPG](https://ja.wikipedia.org/wiki/File:Edwin_O._Reischauer_Memorial_House_\(Kodansha\)_-_Belmont,_MA.JPG "fig:Edwin_O._Reischauer_Memorial_House_(Kodansha)_-_Belmont,_MA.JPG")の自宅\]\] しかしその後回復を見せるも、脳卒中や脳内出血の後遺症に特有の言語能力の低下、特に幼少から覚えたはずの日本語能力は、多数語話者の患者に多く見られるように以前のように回復しなかった。
+
 ### 晩年
 
-[Edwin_O._Reischauer_Memorial_House_(Kodansha)_-_Belmont,_MA.JPG](https://ja.wikipedia.org/wiki/File:Edwin_O._Reischauer_Memorial_House_\(Kodansha\)_-_Belmont,_MA.JPG "fig:Edwin_O._Reischauer_Memorial_House_(Kodansha)_-_Belmont,_MA.JPG")の自宅\]\] 1964年（昭和39年）には上記の襲撃事件により肝炎に罹患、大使退任後も度々の発症に悩まされていた上に、大使退任後の[1975年](../Page/1975年.md "wikilink")（昭和50年）2月には[脳卒中](../Page/脳卒中.md "wikilink")に見舞われたほか、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）には[脳内出血](../Page/脳内出血.md "wikilink")にも見舞われた。
-
-しかしその後回復を見せるも、脳卒中や脳内出血の後遺症に特有の言語能力の低下、特に幼少から覚えたはずの日本語は脳卒中以前のように回復しなかった。その為にいくつかの名誉職を退いたものの、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")（昭和55年）10月に定年で退職するまでハーバード大学日本研究所などで研究活動を続けるなど活躍したほか、その後も多数の著書を出し続けた。
+その為にかつては会議などを日本語でこなせたものの、脳卒中や脳内出血以降はそれはかなわず、その為にいくつかの名誉職を退いたものの、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")（昭和55年）10月に定年で退職するまでハーバード大学日本研究所などで研究活動を続けるなど活躍したほか、その後も多数の著書を出し続けた。
 
 なお、ハーバード大学日本研究所は、ライシャワー退職後の[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）にライシャワーの業績をたたえて「[ハーバード大学ライシャワー日本研究所](https://ja.wikipedia.org/wiki/エドウィン・O・ライシャワー日本研究所 "wikilink") (RIJS)」と改称された。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）冬に、公式訪米中の皇太子[明仁親王と](https://ja.wikipedia.org/wiki/上皇明仁 "wikilink")[美智子がライシャワー邸に滞在した](../Page/上皇后美智子.md "wikilink")。
 

@@ -24,7 +24,7 @@
   - [IATA](../Page/国際航空運送協会.md "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink")で、**[アリタリア-イタリア航空](../Page/アリタリア-イタリア航空.md "wikilink")**を示す
   - [トヨタ・AZエンジン](../Page/トヨタ・AZエンジン.md "wikilink")
   - [マツダ](../Page/マツダ.md "wikilink")がかつて展開していたブランド、「[オートザム](../Page/オートザム.md "wikilink")」の略称。同ブランドの車種の中にはこれを冠した[AZ-ワゴン](https://ja.wikipedia.org/wiki/AZ-ワゴン "wikilink")、[AZ-1](https://ja.wikipedia.org/wiki/AZ-1 "wikilink")といったものも存在する。
-  - [Dynabook AZ](https://ja.wikipedia.org/wiki/Dynabook_AZ "wikilink") - 東芝の[ダイナブック (東芝)シリーズで](https://ja.wikipedia.org/wiki/ダイナブック_\(東芝\) "wikilink")[Android](../Page/Android.md "wikilink")OS搭載の[クラウドブック](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")
+  - [Dynabook AZ](https://ja.wikipedia.org/wiki/Dynabook_AZ "wikilink") - 東芝の[ダイナブック (東芝)シリーズで](https://ja.wikipedia.org/wiki/ダイナブック_\(東芝\) "wikilink")[AndroidOS搭載の](../Page/Android_\(オペレーティングシステム\).md "wikilink")[クラウドブック](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")
   - [東京実用化試験局](../Page/デジタルラジオ推進協会.md "wikilink") (JOAZ-FM) - デジタルラジオ局
 
 ## フィクションのことがら

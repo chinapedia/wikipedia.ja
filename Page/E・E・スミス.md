@@ -203,7 +203,7 @@ E・E・スミスの構想を元に[ゴードン・エクランド](https://ja.w
 
 ## 参考文献
 
-  - [テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")のシステム[ガープス](../Page/ガープス.md "wikilink")の[サプリメント](https://ja.wikipedia.org/wiki/サプリメント_\(TRPG\) "wikilink")。簡単な伝記的記述が p.4 にあり、[スティーブ・ジャクソン・ゲームズ](../Page/スティーブ・ジャクソン・ゲームズ.md "wikilink") に2002年の第2版の [抜粋](http://www.sjgames.com/gurps/books/Lensman/img/lensman.pdf) がある。
+  - [テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")のシステム[ガープス](../Page/ガープス.md "wikilink")の[サプリメント](../Page/サプリメント_\(TRPG\).md "wikilink")。簡単な伝記的記述が p.4 にあり、[スティーブ・ジャクソン・ゲームズ](../Page/スティーブ・ジャクソン・ゲームズ.md "wikilink") に2002年の第2版の [抜粋](http://www.sjgames.com/gurps/books/Lensman/img/lensman.pdf) がある。
 
   -
   - Ethan Fleischer [Selectively Annotated English Primary Source Bibliography](http://www.ethanfleischer.com/lensman/smithbiblio.txt).

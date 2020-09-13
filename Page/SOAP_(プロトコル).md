@@ -35,7 +35,7 @@ SOAP はウェブサービスのための「Web services protocol stack」にお
 SOAPには三つの大きな特徴がある:
 
 1.  *拡張性* (セキュリティや[WS-Addressing](../Page/WS-Addressing.md "wikilink")などは開発中の拡張機能である)
-2.  *中立性* (SOAPは[HTTP](https://ja.wikipedia.org/wiki/HTTP "wikilink"), [SMTP](https://ja.wikipedia.org/wiki/SMTP "wikilink"), [TCP](../Page/Transmission_Control_Protocol.md "wikilink"), [UDP](https://ja.wikipedia.org/wiki/SOAP-over-UDP "wikilink"),[JMSなどのいかなるプロトコル上でも運用できる](../Page/Java_Message_Service.md "wikilink"))
+2.  *中立性* (SOAPは[HTTP](https://ja.wikipedia.org/wiki/HTTP "wikilink"), [SMTP](https://ja.wikipedia.org/wiki/SMTP "wikilink"), [TCP](../Page/Transmission_Control_Protocol.md "wikilink"), , [JMSなどのいかなるプロトコル上でも運用できる](../Page/Java_Message_Service.md "wikilink"))
 3.  *独立性* (SOAPはいかなる[プログラミングモデル](https://ja.wikipedia.org/wiki/プログラミングモデル "wikilink")でも使える)
 
 SOAPで出来ることの一例を挙げると、たとえば或るアプリケーションが、ウェブサービス（例えば不動産価格データベース）を利用可能なサーバに、検索条件パラメータを入れたSOAPリクエストを送ったとする。すると、そのサーバーはSOAPレスポンス（価格、場所、特徴などの検索結果データを書き込んだXML形式文書）を返してくる。返ってきたデータは標準化された機械処理可能な書式で来るので、それを受け取ったアプリケーションはそのデータを直接処理できる。

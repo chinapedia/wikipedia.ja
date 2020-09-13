@@ -20,7 +20,7 @@
 <!-- end list -->
 
   -
-    [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")、ボーカル担当。
+    [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")、ボーカル担当。愛称は「サッシー」。
     [四国大学](../Page/四国大学.md "wikilink")卒業。趣味は釣り。釣り番組『[大ちゃんの釣りに行こう\!](../Page/大ちゃんの釣りに行こう!.md "wikilink")』にゲスト出演したことがある。
     2016年より、[四国大学短期大学部](../Page/四国大学短期大学部.md "wikilink")音楽科特任教授。
 

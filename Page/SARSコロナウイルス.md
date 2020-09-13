@@ -1,7 +1,7 @@
 > この記事は[SARSコロナウイルス](https://ja.wikipedia.org/wiki/SARSコロナウイルス)から翻訳されています。
 
 
-**SARSコロナウイルス**（サーズコロナウイルス、）は、[一本鎖プラス鎖RNAウイルス](https://ja.wikipedia.org/wiki/一本鎖プラス鎖RNAウイルス "wikilink")で、[SARS関連コロナウイルス](../Page/SARS関連コロナウイルス.md "wikilink") (SARSr-CoV) に属する[コロナウイルス](../Page/コロナウイルス.md "wikilink")である。[2003年](../Page/2003年.md "wikilink")に流行した[重症急性呼吸器症候群](../Page/重症急性呼吸器症候群.md "wikilink") (Severe acute respiratory syndrome = **SARS**) の[病原体](https://ja.wikipedia.org/wiki/病原体 "wikilink")として同定された。通称 **SARSウイルス**。[飛沫感染により広がるとみられている](https://ja.wikipedia.org/wiki/感染経路#飛沫感染 "wikilink")。
+**SARSコロナウイルス**（サーズコロナウイルス、）は、[一本鎖プラス鎖RNAウイルス](https://ja.wikipedia.org/wiki/一本鎖プラス鎖RNAウイルス "wikilink")で、[SARS関連コロナウイルス](../Page/SARS関連コロナウイルス.md "wikilink") (SARSr-CoV) に属する[コロナウイルス](../Page/コロナウイルス.md "wikilink")である。[2003年](../Page/2003年.md "wikilink")に流行した[重症急性呼吸器症候群](../Page/重症急性呼吸器症候群.md "wikilink") (Severe acute respiratory syndrome = **SARS**) の[病原体](../Page/病原体.md "wikilink")として同定された。通称 **SARSウイルス**。[飛沫感染により広がるとみられている](https://ja.wikipedia.org/wiki/感染経路#飛沫感染 "wikilink")。
 
 ## 状況推移
 
@@ -26,7 +26,7 @@
 
 <!-- end list -->
 
-  - 1月から5月にかけ散発的な発生があったが、その後の発生は確認されていない。なお、[2019年](../Page/2019年.md "wikilink")11月頃に中国[湖北省](../Page/湖北省.md "wikilink")[武漢市](../Page/武漢市.md "wikilink")を起点として[アウトブレイク](../Page/アウトブレイク.md "wikilink")を引き起こしている、[SARSコロナウイルス-2](../Page/2019新型コロナウイルス.md "wikilink")（**SARS-CoV-2**）\[2\]は、SARSコロナウイルスの直接の子孫では無いものの姉妹関係にあり\[3\]、同じウイルス種とされている\[4\]\[5\]。このウイルスとSARSコロナウイルスのウイルスゲノムの相同性は80%程度である\[6\]。
+  - 1月から5月にかけ散発的な発生があったが、その後の発生は確認されていない。なお、[2019年](../Page/2019年.md "wikilink")11月頃に中国[湖北省](../Page/湖北省.md "wikilink")[武漢市](../Page/武漢市.md "wikilink")を起点として[アウトブレイク](../Page/アウトブレイク.md "wikilink")を引き起こしている、[SARSコロナウイルス2](../Page/SARSコロナウイルス2.md "wikilink")（**SARS-CoV-2**）\[2\]は、SARSコロナウイルスの直接の子孫では無いものの姉妹関係にあり\[3\]、同じウイルス種とされている\[4\]\[5\]。このウイルスとSARSコロナウイルスのウイルスゲノムの相同性は80%程度である\[6\]。
 
 ## 脚注
 
@@ -35,16 +35,6 @@
 ## 関連資料
 
   - 田中文広 「」、『ウイルス』 日本ウイルス学会、2003年12月、第53巻第2号、pp.201-209。
-
-## 関連項目
-
-  - [重症急性呼吸器症候群](../Page/重症急性呼吸器症候群.md "wikilink") (SARS)
-  - [SARS関連コロナウイルス](../Page/SARS関連コロナウイルス.md "wikilink") (SARSr-CoV)
-      - [2019新型コロナウイルス](../Page/2019新型コロナウイルス.md "wikilink") (SARS-CoV-2)
-  - [MERSコロナウイルス](https://ja.wikipedia.org/wiki/MERSコロナウイルス "wikilink") (MERS-CoV)
-  - [キクガシラコウモリ](https://ja.wikipedia.org/wiki/キクガシラコウモリ "wikilink")
-  - [コウモリ由来のウイルス](https://ja.wikipedia.org/wiki/コウモリ由来のウイルス "wikilink")
-  - [感染症の歴史](https://ja.wikipedia.org/wiki/感染症の歴史 "wikilink")
 
 [Category:コロナウイルス](https://ja.wikipedia.org/wiki/Category:コロナウイルス "wikilink") [Category:RNAウイルス](https://ja.wikipedia.org/wiki/Category:RNAウイルス "wikilink") [Category:重症急性呼吸器症候群](https://ja.wikipedia.org/wiki/Category:重症急性呼吸器症候群 "wikilink") [Category:病原体](https://ja.wikipedia.org/wiki/Category:病原体 "wikilink") [Category:コウモリ由来のウイルス](https://ja.wikipedia.org/wiki/Category:コウモリ由来のウイルス "wikilink")
 

@@ -46,13 +46,13 @@
   - **事業用**
       - [E926形](../Page/新幹線E926形電車.md "wikilink")（電気・軌道総合試験車"East i"）
   - **高速運転試験車両**
-      - [E956形](https://ja.wikipedia.org/wiki/新幹線E956形電車 "wikilink")(ALFA-X)
+      - [E956形](https://ja.wikipedia.org/wiki/新幹線E956形電車 "wikilink")（ALFA-X）
 
 #### 在来線
 
   - **特急形**
       - **直流用**
-          - [157系](../Page/国鉄157系電車.md "wikilink")（貴賓車のみ）
+          - [157系](../Page/国鉄157系電車.md "wikilink")（貴賓車のみ残存）
           - [185系](https://ja.wikipedia.org/wiki/国鉄185系電車 "wikilink")（[踊り子](https://ja.wikipedia.org/wiki/踊り子_\(列車\) "wikilink")）
           - [253系](../Page/JR東日本253系電車.md "wikilink")（[日光・きぬがわ](../Page/日光_\(列車\).md "wikilink")）
           - [255系](../Page/JR東日本255系電車.md "wikilink")（[しおさい](../Page/しおさい_\(列車\).md "wikilink")・[わかしお](../Page/わかしお_\(列車\).md "wikilink")）
@@ -60,16 +60,13 @@
           - [E259系](../Page/JR東日本E259系電車.md "wikilink")（[成田エクスプレス](https://ja.wikipedia.org/wiki/成田エクスプレス "wikilink")）
           - [E261系](https://ja.wikipedia.org/wiki/JR東日本E261系電車 "wikilink")（[サフィール踊り子](https://ja.wikipedia.org/wiki/踊り子_\(列車\) "wikilink")）
           - [E353系](https://ja.wikipedia.org/wiki/JR東日本E353系電車 "wikilink")（[あずさ](../Page/あずさ_\(列車\).md "wikilink")・[かいじ](../Page/かいじ_\(列車\).md "wikilink")・[富士回遊](../Page/富士回遊.md "wikilink")・[はちおうじ](../Page/はちおうじ・おうめ.md "wikilink")・[おうめ](../Page/はちおうじ・おうめ.md "wikilink")）
-          - [651系1000番台](../Page/JR東日本651系電車.md "wikilink")（[草津](../Page/草津_\(列車\).md "wikilink")・[あかぎ・スワローあかぎ](https://ja.wikipedia.org/wiki/あかぎ_\(列車\) "wikilink")）
       - **交直両用**
           - [485系](../Page/国鉄485系電車.md "wikilink")
-          - [583系](../Page/国鉄583系電車.md "wikilink")(クハネ583-17のみ)
-          - [651系0番台](../Page/JR東日本651系電車.md "wikilink")
+          - [583系](../Page/国鉄583系電車.md "wikilink")（クハネ583-17のみ残存）
+          - [651系](../Page/JR東日本651系電車.md "wikilink")（直流化改造を受けた1000番台のみ残存、[草津](../Page/草津_\(列車\).md "wikilink")・[あかぎ・スワローあかぎ](https://ja.wikipedia.org/wiki/あかぎ_\(列車\) "wikilink")）
           - [E653系](../Page/JR東日本E653系電車.md "wikilink")（[いなほ](../Page/いなほ_\(列車\).md "wikilink")・[しらゆき](../Page/しらゆき_\(列車\).md "wikilink")）
           - [E655系](../Page/JR東日本E655系電車.md "wikilink")（ハイグレード車両+特別車両）
           - [E657系](https://ja.wikipedia.org/wiki/JR東日本E657系電車 "wikilink")（[ひたち・ときわ](../Page/ひたち_\(列車\).md "wikilink")）
-      - **交直両用（非電化対応形）**
-          - [E001形](https://ja.wikipedia.org/wiki/TRAIN_SUITE_四季島 "wikilink") ([TRAIN SUITE 四季島](https://ja.wikipedia.org/wiki/TRAIN_SUITE_四季島 "wikilink"))
       - **交流用**
           - [E751系](../Page/JR東日本E751系電車.md "wikilink")（[つがる](../Page/つがる_\(列車\).md "wikilink")）
   - **近郊形**
@@ -82,7 +79,7 @@
           - [719系](../Page/JR東日本719系電車.md "wikilink")
   - **通勤形**
       - **直流用**
-          - [201系](https://ja.wikipedia.org/wiki/国鉄201系電車 "wikilink")（保留車が1両残存）
+          - [201系](https://ja.wikipedia.org/wiki/国鉄201系電車 "wikilink")（クハ201-1のみ残存）
           - [205系](../Page/国鉄205系電車.md "wikilink")
           - [209系](../Page/JR東日本209系電車.md "wikilink")
           - [E127系](../Page/JR東日本E127系電車.md "wikilink")
@@ -112,14 +109,14 @@
 
   - **旧形**
       - **直流用**
-          - [クモハ12形](../Page/国鉄31系電車.md "wikilink")（保留車が1両残存）
+          - [クモハ12形](../Page/国鉄31系電車.md "wikilink")（クモハ12052のみ残存）
   - **事業用**
       - **直流用**
           - [クモヤ143形](https://ja.wikipedia.org/wiki/国鉄143系電車#クモヤ143形 "wikilink")
           - [クモヤ145形](https://ja.wikipedia.org/wiki/国鉄145系電車#クモヤ145形 "wikilink")
           - 209系（[MUE-Train](https://ja.wikipedia.org/wiki/MUE-Train "wikilink")）
       - **交直両用**
-          - [E491系](../Page/JR東日本E491系電車.md "wikilink")（電気・軌道総合試験車"[East i-E](https://ja.wikipedia.org/wiki/East_i-E "wikilink")"）
+          - [E491系](../Page/JR東日本E491系電車.md "wikilink")（電気・軌道総合試験車"East i-E"）
 
 ### 気動車
 
@@ -130,13 +127,17 @@
       - [キハ141系](../Page/JR北海道キハ141系気動車.md "wikilink")
       - [キハE120形](https://ja.wikipedia.org/wiki/JR東日本キハE120形気動車 "wikilink")
       - [キハE130系](../Page/JR東日本キハE130系気動車.md "wikilink")
-      - [キハE200形](../Page/JR東日本キハE200形気動車.md "wikilink")（ハイブリッド気動車）
+      - [キハE200形](../Page/JR東日本キハE200形気動車.md "wikilink")（[ハイブリッド気動車](https://ja.wikipedia.org/wiki/鉄道車両におけるハイブリッド "wikilink")）
       - [HB-E210系](https://ja.wikipedia.org/wiki/JR東日本HB-E210系気動車 "wikilink")（ハイブリッド気動車）
       - [HB-E300系](https://ja.wikipedia.org/wiki/JR東日本HB-E300系気動車 "wikilink")（ハイブリッド気動車）
-      - [GV-E400系](https://ja.wikipedia.org/wiki/JR東日本GV-E400系気動車 "wikilink")（電気式気動車）
+      - [GV-E400系](https://ja.wikipedia.org/wiki/JR東日本GV-E400系気動車 "wikilink")（[電気式気動車](../Page/日本の電気式気動車.md "wikilink")）
   - **事業用**
-      - [キヤE193系](../Page/JR東日本キヤE193系気動車.md "wikilink")（電気・軌道総合試験車"[East i-D](https://ja.wikipedia.org/wiki/East_i-D "wikilink")"）
+      - [キヤE193系](../Page/JR東日本キヤE193系気動車.md "wikilink")（電気・軌道総合試験車"East i-D"）
       - [キヤE195系](https://ja.wikipedia.org/wiki/JR東海キヤ97系気動車#キヤE195系気動車 "wikilink")（レール輸送用）
+
+### [電気・ディーゼル両用車両](https://ja.wikipedia.org/wiki/電気・ディーゼル両用車両 "wikilink")
+
+  - [E001形](https://ja.wikipedia.org/wiki/TRAIN_SUITE_四季島 "wikilink")（[TRAIN SUITE 四季島](https://ja.wikipedia.org/wiki/TRAIN_SUITE_四季島 "wikilink")）
 
 ### 客車
 
@@ -157,7 +158,7 @@
       - [マニ50形](../Page/国鉄50系客車.md "wikilink")
       - [スユニ50形](https://ja.wikipedia.org/wiki/国鉄50系客車#50系 "wikilink")
       - [マヤ50形](https://ja.wikipedia.org/wiki/国鉄50系客車#50系 "wikilink")（建築限界測定車）
-      - [オヤ12形](https://ja.wikipedia.org/wiki/国鉄12系客車#12系 "wikilink")（高崎車両センター所属SL控車）
+      - [オヤ12形](https://ja.wikipedia.org/wiki/国鉄12系客車#12系 "wikilink")（SL控車）
 
 ### 貨車
 
@@ -174,23 +175,23 @@
 ## 導入予定車両
 
   - **新幹線車両**
-      - [E8系](https://ja.wikipedia.org/wiki/新幹線E8系電車 "wikilink")<span id="E8"></span>
+      - E8系
           -
             2024年春から[山形新幹線](../Page/山形新幹線.md "wikilink")向けに導入予定の新幹線車両。2020年3月3日に発表された\[6\]。[奥山清行](../Page/奥山清行.md "wikilink")が代表を務める KEN OKUYAMA DESIGN の監修のもと、[川崎重工業がデザインを担当する](../Page/川崎重工業車両カンパニー.md "wikilink")。
             先頭形状を秋田新幹線向け[E6系同様の](https://ja.wikipedia.org/wiki/新幹線E6系電車 "wikilink")「アローライン」としつつ、先頭部の長さを現行の[E3系](https://ja.wikipedia.org/wiki/新幹線E3系電車 "wikilink")（6m）とE6系（13m）の中間となる9mとすることにより、E6系同様の7両編成（5M2T）としつつ、編成あたりの定員をE6系より多い355名とする。
             そのほか、大型荷物置場の全車両への設置、電源コンセントの全席配置、車椅子スペースの増設など、設備を充実させたものとする予定。
             東北新幹線区間で[E5系との併結により](https://ja.wikipedia.org/wiki/新幹線E5系・H5系電車 "wikilink")300km/h運転が可能となる予定で、17編成119両を投入予定。
   - **一般形車両（試験車両）**
-      - [FV-991系](https://ja.wikipedia.org/wiki/JR東日本FV-E991系電車 "wikilink")<span id="FV-E991"></span>
+      - FV-E991系
           -
             [水素](../Page/水素.md "wikilink")をエネルギー源とする[燃料電池](../Page/燃料電池.md "wikilink")と蓄電池を電源とするハイブリッド車両（試験車両）\[7\]。[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")との間で水素を活用した包括的な業務連携を締結しており、トヨタの協力により燃料電池技術が導入される。世界で初めて70MPaの高圧水素を利用し、最大140キロメートルの走行が可能となるという\[8\]。
-            1M1Tの2両編成で、建設費は開発費・試験費込みで40億円。2021年度に登場予定で、落成後は[鶴見線](https://ja.wikipedia.org/wiki/鶴見線 "wikilink")・[南武線](https://ja.wikipedia.org/wiki/南武線 "wikilink")（本線[尻手駅](https://ja.wikipedia.org/wiki/尻手駅 "wikilink") - [武蔵中原駅](https://ja.wikipedia.org/wiki/武蔵中原駅 "wikilink")間及び浜川崎支線）で実証試験が行われる予定。
+            1M1Tの2両編成で、建設費は開発費・試験費込みで40億円。2021年度に登場予定で、落成後は[鶴見線](https://ja.wikipedia.org/wiki/鶴見線 "wikilink")・[南武線](https://ja.wikipedia.org/wiki/南武線 "wikilink")（本線[尻手駅](https://ja.wikipedia.org/wiki/尻手駅 "wikilink") - [武蔵中原駅](https://ja.wikipedia.org/wiki/武蔵中原駅 "wikilink")間および浜川崎支線）で実証試験が行われる予定。
   - **一般形車両（鉄道車両）**
-      - [E131系](https://ja.wikipedia.org/wiki/JR東日本E131系電車 "wikilink") <span id="E131"></span>
+      - E131系[サムネイル](https://ja.wikipedia.org/wiki/ファイル:JR_East_E131_Series_at_Niitsu_Station.jpg "wikilink")
           -
             2020年5月12日に、房総地区の末端区間である[内房線](https://ja.wikipedia.org/wiki/内房線 "wikilink") [木更津駅](https://ja.wikipedia.org/wiki/木更津駅 "wikilink") - [安房鴨川駅](https://ja.wikipedia.org/wiki/安房鴨川駅 "wikilink")間、[外房線](https://ja.wikipedia.org/wiki/外房線 "wikilink") [上総一ノ宮駅](https://ja.wikipedia.org/wiki/上総一ノ宮駅 "wikilink") - 安房鴨川駅間、[鹿島線](https://ja.wikipedia.org/wiki/鹿島線 "wikilink") [佐原駅](https://ja.wikipedia.org/wiki/佐原駅 "wikilink") - [鹿島神宮駅](https://ja.wikipedia.org/wiki/鹿島神宮駅 "wikilink")間への投入が発表された、ワンマン運転対応の一般型直流電車\[9\]。同区間で運用されている[209系2000・2100番台がワンマン運転に対応していないことから投入されるもので](https://ja.wikipedia.org/wiki/JR東日本209系電車#2000番台・2100番台 "wikilink")、直流電化区間のワンマン対応車両の標準タイプとして開発したと報じられている\[10\]。
             ユニット方式を採用した209系の2M2Tに対し、1M方式を採用して2両1ユニットを組み\[11\]、運転席から乗降を確認するカメラなど、ワンマン運転対応機器を備える\[12\]。ステンレス製の幅広車体を採用し、SiC素子を採用して消費電力の抑制につなげる。
-            2021年春以降、2両編成12本・合計24両を製造し、運用を開始する予定。
+            2020年7月に2編成4両が[総合車両製作所新津事業所](../Page/総合車両製作所新津事業所.md "wikilink")から出場し、本線試運転が行われた\[13\]。2021年春以降、2両編成12本・合計24両を製造し、運用を開始する予定。
 
 ## 廃止車両
 
@@ -206,7 +207,7 @@
       - [EF62形](../Page/国鉄EF62形電気機関車.md "wikilink")
       - [EF63形](../Page/国鉄EF63形電気機関車.md "wikilink")
   - **交流直流両用**
-      - [EF510形](../Page/JR貨物EF510形電気機関車.md "wikilink")（500番台。[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）に譲渡）
+      - [EF510形](../Page/JR貨物EF510形電気機関車.md "wikilink")（500番台・[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")〈JR貨物〉に譲渡）
   - **交流用**
       - [ED77形](../Page/国鉄ED77形電気機関車.md "wikilink")
       - [ED78形](../Page/国鉄ED78形電気機関車.md "wikilink")
@@ -215,7 +216,7 @@
 ### ディーゼル機関車
 
   - [DD15形](../Page/国鉄DD15形ディーゼル機関車.md "wikilink")（除雪用）
-  - [DD17形](https://ja.wikipedia.org/wiki/JR東日本DD19形ディーゼル機関車#DD17形 "wikilink")（除雪用。DD19形への改造により消滅）
+  - [DD17形](https://ja.wikipedia.org/wiki/JR東日本DD19形ディーゼル機関車#DD17形 "wikilink")（除雪用・DD19形への改造により消滅）
   - [DD18形](../Page/JR東日本DD18形ディーゼル機関車.md "wikilink")（除雪用・標準軌）
   - [DD19形](../Page/JR東日本DD19形ディーゼル機関車.md "wikilink")（除雪用・標準軌）
   - [DD53形](../Page/国鉄DD53形ディーゼル機関車.md "wikilink")（除雪用）
@@ -275,7 +276,7 @@
           - [203系](../Page/国鉄203系電車.md "wikilink")
           - [207系900番台](../Page/国鉄207系電車.md "wikilink")
           - [301系](../Page/国鉄301系電車.md "wikilink")
-          - [901系](../Page/JR東日本209系電車.md "wikilink")（209系900番台等に改称）
+          - [901系](../Page/JR東日本209系電車.md "wikilink")（209系900番台などに改称）
   - **一般形**
       - **直流用**
           - [E331系](../Page/JR東日本E331系電車.md "wikilink")
@@ -297,7 +298,7 @@
           - [クモヤ740形](https://ja.wikipedia.org/wiki/国鉄72系電車#クモヤ740形 "wikilink")
           - [クモヤ743形](../Page/JR東日本クモヤ743形電車.md "wikilink")
       - **直流用蓄電池式**
-          - [E995系](https://ja.wikipedia.org/wiki/JR東日本E995系電車 "wikilink") (NE Train スマート電池くん)
+          - [E995系](https://ja.wikipedia.org/wiki/JR東日本E995系電車 "wikilink")（NE Train スマート電池くん）
 
 ### 気動車
 
@@ -312,7 +313,7 @@
       - [キハ45系](../Page/国鉄キハ45系気動車.md "wikilink")
   - **事業用**
       - [キヤ191系](../Page/国鉄キヤ191系気動車.md "wikilink")
-      - [キヤE991系](https://ja.wikipedia.org/wiki/日本の電気式気動車#電気式の将来（ハイブリッド気動車） "wikilink")（ハイブリッド気動車・NEトレイン。現在はE995系）
+      - [キヤE991形](https://ja.wikipedia.org/wiki/JR東日本キヤE991形気動車 "wikilink")（ハイブリッド気動車NEトレイン・E995系に改造）
 
 ### 客車
 
@@ -374,7 +375,7 @@
 
   - [列車：JR東日本](https://www.jreast.co.jp/railway/train/)
 
-[Category:東日本旅客鉄道の車両](https://ja.wikipedia.org/wiki/Category:東日本旅客鉄道の車両 "wikilink") [Category:形式](https://ja.wikipedia.org/wiki/Category:形式 "wikilink")
+[Category:東日本旅客鉄道の車両](https://ja.wikipedia.org/wiki/Category:東日本旅客鉄道の車両 "wikilink") [Category:鉄道車両の形式称号](https://ja.wikipedia.org/wiki/Category:鉄道車両の形式称号 "wikilink")
 
 1.   - 東日本旅客鉄道
 2.  ネコ・パブリッシング「レイル・マガジン」No.282 p.50：JR東日本運輸車両部（車両開発）在来線車両グループの畑弘敏が「一般形直流電車」と記載。
@@ -388,3 +389,4 @@
 10.
 11.
 12.
+13.

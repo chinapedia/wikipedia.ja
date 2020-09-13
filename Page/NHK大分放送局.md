@@ -219,7 +219,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/飯尾香帆" title="wikilink">飯尾香帆</a></p></td>
+<td><p><a href="../Page/飯尾夏帆.md" title="wikilink">飯尾夏帆</a></p></td>
 <td><p><strong>初任地</strong></p></td>
 <td></td>
 </tr>

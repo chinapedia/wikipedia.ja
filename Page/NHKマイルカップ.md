@@ -122,7 +122,7 @@
   - 2009年
       - [国際競走](../Page/国際競走.md "wikilink")に変更され、外国調教馬が9頭まで出走可能となる\[26\]。
       - 格付表記をGI（国際格付）に変更\[27\]。
-  - 2020年 - 新型コロナウイルス感染症（[COVID-19](../Page/2019新型コロナウイルスによる急性呼吸器疾患.md "wikilink")）の流行及び改正・[新型インフルエンザ等対策特別措置法](https://ja.wikipedia.org/wiki/新型インフルエンザ等対策特別措置法 "wikilink")32条に基づいて[日本国政府](https://ja.wikipedia.org/wiki/日本国政府 "wikilink")から発令された新型コロナウイルス緊急事態宣言により、客を入れない「[無観客競馬](https://ja.wikipedia.org/wiki/無観客試合#競馬 "wikilink")」として開催。
+  - 2020年 - 新型コロナウイルス感染症（[COVID-19](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink")）の流行及び改正・[新型インフルエンザ等対策特別措置法](https://ja.wikipedia.org/wiki/新型インフルエンザ等対策特別措置法 "wikilink")32条に基づいて[日本国政府](https://ja.wikipedia.org/wiki/日本国政府 "wikilink")から発令された新型コロナウイルス緊急事態宣言により、客を入れない「[無観客競馬](https://ja.wikipedia.org/wiki/無観客試合#競馬 "wikilink")」として開催。
 
 ### 歴代優勝馬
 

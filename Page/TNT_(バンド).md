@@ -7,21 +7,21 @@
 
 ## 歴史
 
-結成から1st[アルバム](../Page/アルバム.md "wikilink")『[TNT](https://ja.wikipedia.org/wiki/TNT_\(TNTのアルバム\) "wikilink")』までの彼らの音楽は、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")のダグ・インゲブリクトセンの個性もあって、その後のそれとは大きく違うものであった。また、このアルバムはノルウェー語で製作された。
+結成からファースト・アルバム『[TNT](https://ja.wikipedia.org/wiki/TNT_\(TNTのアルバム\) "wikilink")』までの彼らの音楽は、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")のダグ・インゲブリクトセンの個性もあって、その後のそれとは大きく違うものであった。また、このアルバムはノルウェー語で製作された。
 
-アメリカ人ボーカルのトニー・ハーネルがこのバンドに参加したのは、2ndアルバムである『[Knights of The New Thunder](https://ja.wikipedia.org/wiki/ナイツ・オブ・ザ・ニュー・サンダー "wikilink")』の[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")直前である。
+アメリカ人ボーカルのトニー・ハーネルがこのバンドに参加したのは、セカンド・アルバムである『[ナイツ・オブ・ザ・ニュー・サンダー](https://ja.wikipedia.org/wiki/ナイツ・オブ・ザ・ニュー・サンダー "wikilink")』の[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")直前である。
 
-TNTが日本での知名度を上げたのは3rdアルバム『[Tell No Tales](https://ja.wikipedia.org/wiki/テル・ノー・テイルズ "wikilink")』([1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")発表)と、続く4thアルバム『[Intuition](https://ja.wikipedia.org/wiki/インテュイション_\(TNTのアルバム\) "wikilink")』([1989年](../Page/1989年.md "wikilink")発表)の頃である。3rd、4thの二作はプロダクション面でもさらに洗練された内容となったにもかかわらずレコード会社の十分なサポートが得られずライブもままならなかったという。結果としてアメリカ市場では[ヨーロッパや](../Page/ヨーロッパ_\(バンド\).md "wikilink")[スコーピオンズ](../Page/スコーピオンズ.md "wikilink")といった他の欧州出身のバンドのような大きな商業的成功を収めることは出来ず、3rdの『テル・ノー・テイルズ』は全米100位、4thの『インテュイション』は全米115位と満足のいく結果とはならなかった。
+TNTが日本での知名度を上げたのはサード・アルバム『[テル・ノー・テイルズ](https://ja.wikipedia.org/wiki/テル・ノー・テイルズ "wikilink")』([1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")発表)と、続く4thアルバム『[インテュイション](https://ja.wikipedia.org/wiki/インテュイション_\(TNTのアルバム\) "wikilink")』([1989年](../Page/1989年.md "wikilink")発表)の頃である。この2作はプロダクション面でもさらに洗練された内容となったにもかかわらずレコード会社の十分なサポートが得られずライブもままならなかったという。結果としてアメリカ市場では[ヨーロッパや](../Page/ヨーロッパ_\(バンド\).md "wikilink")[スコーピオンズ](../Page/スコーピオンズ.md "wikilink")といった他の欧州出身のバンドのような大きな商業的成功を収めることはできず、『テル・ノー・テイルズ』は全米100位、『インテュイション』は全米115位と満足のいく結果とはならなかった。
 
-[1988年](../Page/1988年.md "wikilink")にはバンド最初期からドラムを担当してきた[ディーゼル・ダール](https://ja.wikipedia.org/wiki/ディーゼル・ダール "wikilink")が脱退し、後任として[モーティ・ブラック](https://ja.wikipedia.org/wiki/モーティ・ブラック "wikilink")（ベース）の旧友であった[ケネス・オディイン](https://ja.wikipedia.org/wiki/ケネス・オディイン "wikilink")が加入した。[1989年](../Page/1989年.md "wikilink")の来日公演も成功させたが、オディインが自身の都合からツアー後にまもなく脱退する。さらにはそれまで所属していたポリグラム・レコードとの契約も失うが、その一週間後には[アトランティック・レコード](../Page/アトランティック・レコード.md "wikilink")との契約を成立させ、新たなアメリカ人ドラマー、ジョニー・マック（ジョン・マカルーソ）を加入させる。
+[1988年](../Page/1988年.md "wikilink")にはバンド最初期からドラムを担当してきたディーゼル・ダールが脱退し、後任としてモーティ・ブラック（ベース）の旧友であったケネス・オディインが加入した。[1989年](../Page/1989年.md "wikilink")の来日公演も成功させたが、オディインが自身の都合からツアー後にまもなく脱退する。さらにはそれまで所属していたポリグラム・レコードとの契約も失うが、その一週間後には[アトランティック・レコード](../Page/アトランティック・レコード.md "wikilink")との契約を成立させ、新たなアメリカ人ドラマー、ジョニー・マック（ジョン・マカルーソ）を加入させる。
 
-レコード会社の移籍と5thアルバム『[Realized Fantasies](https://ja.wikipedia.org/wiki/リアライズド・ファンタジーズ "wikilink")』の発表を挟んだ二度の来日公演の後、メンバー間の確執などを理由に1992年8月の来日公演を最後にバンドは一時解散する。この解散期間中であった1996年には日本国内でのみ、ベスト・アルバム『Till Next Time』が発売されている。
+レコード会社の移籍と5thアルバム『[リアライズド・ファンタジーズ](https://ja.wikipedia.org/wiki/リアライズド・ファンタジーズ "wikilink")』の発表を挟んだ二度の来日公演の後、メンバー間の確執などを理由に1992年8月の来日公演を最後にバンドは一時解散する。この解散期間中であった1996年には日本国内でのみ、ベスト・アルバム『ティル・ネクスト・タイム〜ベスト・オブ・TNT』が発売されている。
 
-[1996年](../Page/1996年.md "wikilink")にバンドは再結成し、6thアルバム『Firefly』、再来日公演、7thアルバム『[Transistor](https://ja.wikipedia.org/wiki/トランジスター_\(TNTのアルバム\) "wikilink")』などを経て、再び（公式の発表はないものの事実上の）解散状態となる。その後TNTは[2003年](../Page/2003年.md "wikilink")にミニアルバム『Taste』をリリースして活動を再開、『My Religion』、『All The Way to The Sun』などを経て現在に至る。
+[1996年](../Page/1996年.md "wikilink")にロニー、トニー、モーティの3人(ドラムスは元ヴァガボンドのスタイナー・クロックシュタッドだがサポートメンバー扱い)でバンドは再結成し、6thアルバム『ファイアフライ』、再来日公演、7thアルバム『[トランジスター](https://ja.wikipedia.org/wiki/トランジスター_\(TNTのアルバム\) "wikilink")』などを経て、再び（公式の発表はないものの事実上の）解散状態となる。その後TNTは[2003年](../Page/2003年.md "wikilink")にミニアルバム『テイスト』をリリースして活動を再開、『マイ・レリジョン』『オール・ザ・ウェイ・トゥ・ザ・サン』などのアルバムを経て現在に至る。
 
-[2006年](../Page/2006年.md "wikilink")にボーカリストのハーネルが脱退を表明。後任として元[SHY](../Page/シャイ_\(バンド\).md "wikilink")、SIAMのトニー・ミルズを迎える。2013年8月、ミルズがソロ活動のため脱退。同年10月、ハーネルがTNTに復帰する。
+[2006年](../Page/2006年.md "wikilink")にボーカリストのハーネルが脱退を表明。後任として元[シャイ](../Page/シャイ_\(バンド\).md "wikilink")、SIAMのトニー・ミルズを迎える。2013年8月、ミルズがソロ活動のため脱退。同年10月、ハーネルがTNTに復帰する。
 
-[2014年](../Page/2014年.md "wikilink")、4thアルバム『Intuition』の発売25周年を記念した日本公演を17年ぶりに開催\[2\]。
+[2014年](../Page/2014年.md "wikilink")、4thアルバム『インテュイション』の発売25周年を記念した日本公演を17年ぶりに開催\[2\]。
 
 [2015年](../Page/2015年.md "wikilink")1月に活動方針の違いを理由にハーネルは再脱退し\[3\]、その後は[スキッド・ロウに加入するも同年](../Page/スキッド・ロウ_\(バンド\).md "wikilink")12月末に脱退。そして[2016年](../Page/2016年.md "wikilink")5月、TNTに再度復帰した。また、夏に新曲の制作のためスタジオ入りすることを公式サイトで発表\[4\]。
 
@@ -31,10 +31,10 @@ TNTが日本での知名度を上げたのは3rdアルバム『[Tell No Tales](h
 
 ### 現ラインナップ
 
-  - バオール・バルドー・バルサラ　Baol Bardot Bulsara - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink") (2017– )
-  - ロニー・ル・テクロ　Ronni Le Tekrø - [ギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink") (1982–1992, 1996– )
-  - オヴェ・ヒューズモーエン　Ove Husemoen - [ベース](../Page/エレクトリックベース.md "wikilink") (2016– )
-  - ディーゼル・ダール　Diesel Dahl - [ドラムス](../Page/ドラムセット.md "wikilink") (1982–1988, 2000– )
+  - バオール・バルドー・バルサラ (Baol Bardot Bulsara) - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink") (2017年– )
+  - ロニー・ル・テクロ (Ronni Le Tekrø) - [ギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink") (1982年–1992年、1996年– )
+  - オヴェ・ヒューズモーエン (Ove Husemoen) - [ベース](../Page/エレクトリックベース.md "wikilink") (2016年– )
+  - ディーゼル・ダール (Diesel Dahl) - [ドラムス](../Page/ドラムセット.md "wikilink") (1982年–1988年、2000年– )
 
 \<gallery float:left" widths="180px" heights="120px"\> <File:Baol> Bardot Bulsara.jpg|バオール・バルドー・バルサラ(Vo) 2017年 <File:TNT> Veritasparken 20120619-04.JPG|ロニー・ル・テクロ(G) 2012年 <File:Diesel> Dahl.jpg|ディーゼル・ダール(Ds) 2012年
 
@@ -42,34 +42,52 @@ TNTが日本での知名度を上げたのは3rdアルバム『[Tell No Tales](h
 
 ### 旧メンバー
 
-  - ダグ・インゲブリクトセン　Dag Ingebrigtsen - ボーカル/ギター (1982–1984, 2008, 2012)
-  - スタイナー・エイクム　Steinar Eikum - ベース (1982–1983, 2008, 2012)
-  - モーティ・ブラック　Morty Black - ベース (1983–1992, 1996–2004)
-  - トニー・ハーネル　Tony Harnell - ボーカル (1984–1992, 1996–2006, 2012, 2013–2015, 2016-2017)
-  - ケネス・オディイン　Kenneth Odiin - ドラムス (1988–1989)
-  - ジョン・マカルーソ　John Macaluso - ドラムス (1990–1992)
-  - シド・リングスビー　Sid Ringsby - ベース (2004–2005, 2013)
-  - トニー・ミルズ　Tony Mills - ボーカル (2006–2013)
-  - ヴィクター・ボルグ　Victor Borge - ベース (2005–2012, 2013–2016)
+  - ダグ・インゲブリクトセン (Dag Ingebrigtsen) - ボーカル、ギター (1982年–1984年、2008年、2012年)
+  - スタイナー・エイクム (Steinar Eikum) - ベース (1982年–1983年、2008年、2012年)
+  - モーティ・ブラック (Morty Black) - ベース (1983年–1992年、1996年–2004年)
+  - トニー・ハーネル (Tony Harnell) - ボーカル (1984年–1992年、1996年–2006年、2012年、2013年–2015年、2016年-2017年)
+  - ケネス・オディイン (Kenneth Odiin) - ドラムス (1988年–1989年)
+  - ジョン・マカルーソ (John Macaluso) - ドラムス (1990年–1992年)
+  - シド・リングスビー (Sid Ringsby) - ベース (2004年–2005年、2013年)
+  - トニー・ミルズ (Tony Mills) - ボーカル (2006年–2013年)
+  - ヴィクター・ボルグ (Victor Borge) - ベース (2005年–2012年、2013年–2016年)
 
-## 作品
+## ディスコグラフィ
 
-1.  [TNT](https://ja.wikipedia.org/wiki/TNT_\(TNTのアルバム\) "wikilink") - TNT (1983)
-2.  [ナイツ・オブ・ザ・ニュー・サンダー](https://ja.wikipedia.org/wiki/ナイツ・オブ・ザ・ニュー・サンダー "wikilink") - Knights of the New Thunder (1984)
-3.  [テル・ノー・テイルズ](https://ja.wikipedia.org/wiki/テル・ノー・テイルズ "wikilink") - Tell No Tales (1987)
-4.  [インテュイション](https://ja.wikipedia.org/wiki/インテュイション_\(TNTのアルバム\) "wikilink") - Intuition (1989)
-5.  [リアライズド・ファンタジーズ](https://ja.wikipedia.org/wiki/リアライズド・ファンタジーズ "wikilink") - Realized Fantasies (1992)
-6.  スリー・ナイツ・イン・トーキョー - Three Nights in Tokyo (1992、ライヴ・アルバム)
-7.  ティル・ネクスト・タイム〜ベスト・オブ・TNT - Till Next Time (1996、日本編集のベスト・アルバム)
-8.  ファイアフライ - Firefly (1997)
-9.  [トランジスター](https://ja.wikipedia.org/wiki/トランジスター_\(TNTのアルバム\) "wikilink") - Transistor (1999)
-10. テイスト - Taste (2003、ミニ・アルバム)
-11. マイ・レリジョン - My Religion (2004)
-12. オール・ザ・ウェイ・トゥ・ザ・サン - All the Way to the Sun (2005)
-13. ザ・ニュー・テリトリー - The New Territory (2007)
-14. アトランティス - Atlantis (2008)
-15. フェアウェル・トゥ・アームズ - A Farewell To Arms (2010)
-16. サーティーン - XIII (2018)
+### スタジオ・アルバム
+
+  - 『[TNT](https://ja.wikipedia.org/wiki/TNT_\(TNTのアルバム\) "wikilink")』 - *TNT* (1983年)
+  - 『[ナイツ・オブ・ザ・ニュー・サンダー](https://ja.wikipedia.org/wiki/ナイツ・オブ・ザ・ニュー・サンダー "wikilink")』 - *Knights of the New Thunder* (1984年)
+  - 『[テル・ノー・テイルズ](https://ja.wikipedia.org/wiki/テル・ノー・テイルズ "wikilink")』 - *Tell No Tales* (1987年)
+  - 『[インテュイション](https://ja.wikipedia.org/wiki/インテュイション_\(TNTのアルバム\) "wikilink")』 - *Intuition* (1989年)
+  - 『[リアライズド・ファンタジーズ](https://ja.wikipedia.org/wiki/リアライズド・ファンタジーズ "wikilink")』 - *Realized Fantasies* (1992年)
+  - 『ファイアフライ』 - *Firefly* (1997年)
+  - 『[トランジスター](https://ja.wikipedia.org/wiki/トランジスター_\(TNTのアルバム\) "wikilink")』 - *Transistor* (1999年)
+  - 『マイ・レリジョン』 - *My Religion* (2004年)
+  - 『オール・ザ・ウェイ・トゥ・ザ・サン』 - *All the Way to the Sun* (2005年)
+  - 『ザ・ニュー・テリトリー』 - *The New Territory* (2007年)
+  - 『アトランティス』 - *Atlantis* (2008年)
+  - 『フェアウェル・トゥ・アームズ』 - *A Farewell To Arms* (2010年)
+  - 『サーティーン』 - *XIII* (2018年)
+
+### ライブ・アルバム
+
+  - 『スリー・ナイツ・イン・トーキョー』 - *Three Nights in Tokyo* (1992年)
+  - *Live in Madrid* (2006年)
+  - *30th Anniversary 1982–2012 Live In Concert* (2014年)
+  - 『アンコール - ライヴ・イン・ミラノ』 - *Encore: Live In Milano* (2019年)
+
+### コンピレーション・アルバム
+
+  - 『ティル・ネクスト・タイム〜ベスト・オブ・TNT』 - *Till Next Time – The Best of TNT* (1996年)
+  - *Firefly and Live\!* (1997年)
+  - *The Big Bang – The Essential Collection* (2003年)
+
+### EP
+
+  - *TNT* (1984年)
+  - *Give Me a Sign* (2003年)
+  - 『テイスト』 - *Taste* (2003年)
 
 ## 出典
 

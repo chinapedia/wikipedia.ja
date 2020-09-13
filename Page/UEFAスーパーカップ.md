@@ -413,7 +413,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/エスタディオ・ド・ドラゴン.md" title="wikilink">エスタディオ・ドラゴン</a>（<a href="../Page/ポルト.md" title="wikilink">ポルト</a>）</p></td>
+<td><p><a href="../Page/プスカシュ・アレーナ.md" title="wikilink">プスカシュ・アレーナ</a>（<a href="../Page/ブダペスト.md" title="wikilink">ブダペスト</a>）</p></td>
 </tr>
 <tr class="even">
 <td></td>

@@ -319,7 +319,7 @@ PDF 1.7 (ISO 32000-1) が制定された2006年以降にアドビが定義した
 <td><ul>
 <li>256-bit AES 暗号化</li>
 <li>PDF/A-2 向けXFA データセットの取り込み</li>
-<li><p>アプリ (<a href="https://ja.wikipedia.org/wiki/SWF" title="wikilink">SWF</a>)、ビデオ（H.264 形式を含む）の再生、音声その他マルチメディア埋め込みの改良。Flash playerとの双方向スクリプティングの実装により、ナビゲーターSWFファイルはAdobe Flex2 モジュールから普通のSWFとして認識されるようになった。</p></li>
+<li><p>アプリ (<a href="../Page/SWF.md" title="wikilink">SWF</a>)、ビデオ（H.264 形式を含む）の再生、音声その他マルチメディア埋め込みの改良。Flash playerとの双方向スクリプティングの実装により、ナビゲーターSWFファイルはAdobe Flex2 モジュールから普通のSWFとして認識されるようになった。</p></li>
 <li>XFA 2.5および 2.6[39] によるリッチテキスト対応, XFA 2.7 および 2.8対応[40]（XFA 2.7および2.8は以下のような分野向けに定義されている:Webサービスの認証ポリシー設定、WSDL/SOAP経由での投稿、タイプフェースの各国<a href="https://ja.wikipedia.org/wiki/ロケール" title="wikilink">ロケール</a>対応等）</li>
 </ul></td>
 <td><p>9</p></td>
@@ -812,7 +812,7 @@ PDFは画面で見るには、[ユーザビリティ](../Page/ユーザビリテ
 
 ## 外部リンク
 
-  - 仕様書 [PDF Reference and Adobe Extensions to the PDF Specification](https://www.adobe.com/devnet/pdf/pdf_reference.html) - Adobe Developer Connection
+  - [ดูหนังออนไลน์](https://037moviefree.com/) 仕様書 [PDF Reference and Adobe Extensions to the PDF Specification](https://www.adobe.com/devnet/pdf/pdf_reference.html) - Adobe Developer Connection
   - 過去の仕様書アーカイブ [Adobe PDF Reference Archives](https://www.adobe.com/devnet/pdf/pdf_reference_archive.html) - Adobe Developer Connection
   - [Adobe PDFとは？](https://acrobat.adobe.com/jp/ja/acrobat/about-adobe-pdf.html) - [アドビシステムズ](../Page/アドビシステムズ.md "wikilink")
   - [Adobe Sign、電子サイン、旧EchoSign](https://acrobat.adobe.com/jp/ja/sign.html)（PDF署名） -

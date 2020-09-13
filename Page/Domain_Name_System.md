@@ -1,13 +1,13 @@
 > この記事は[Domain Name System](https://ja.wikipedia.org/wiki/Domain_Name_System)から翻訳されています。
 
 
-**Domain Name System**（ドメイン・ネーム・システム、**DNS**）とは、[インターネット](../Page/インターネット.md "wikilink")を使った階層的な分散型[データベース](../Page/データベース.md "wikilink")システムである。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に[Information Sciences Institute](https://ja.wikipedia.org/wiki/Information_Sciences_Institute "wikilink")（ISI）の[ポール・モカペトリス](../Page/ポール・モカペトリス.md "wikilink")と[ジョン・ポステル](../Page/ジョン・ポステル.md "wikilink")により開発された。
+**Domain Name System**（ドメイン・ネーム・システム、**DNS**）とは、インターネット上の[ホスト名](../Page/ホスト名.md "wikilink")や[電子メール](../Page/電子メール.md "wikilink")のアドレスに使われる[ドメイン名](../Page/ドメイン名.md "wikilink")と、[IPアドレス](../Page/IPアドレス.md "wikilink")との対応づけ（[正引き](https://ja.wikipedia.org/wiki/正引き "wikilink")、[逆引き](../Page/逆引き.md "wikilink")）を管理するために使用されているシステムである。
 
-現在では、主にインターネット上の[ホスト名](../Page/ホスト名.md "wikilink")や[電子メール](../Page/電子メール.md "wikilink")に使われる[ドメイン名](../Page/ドメイン名.md "wikilink")と、[IPアドレス](../Page/IPアドレス.md "wikilink")との対応づけ（[正引き](https://ja.wikipedia.org/wiki/正引き "wikilink")、[逆引き](../Page/逆引き.md "wikilink")）を管理するために使用されている。
+[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に、[インターネット](../Page/インターネット.md "wikilink")を使った階層的な分散型[データベース](../Page/データベース.md "wikilink")システムとして、[Information Sciences Institute](https://ja.wikipedia.org/wiki/Information_Sciences_Institute "wikilink")（ISI）の[ポール・モカペトリス](../Page/ポール・モカペトリス.md "wikilink")と[ジョン・ポステル](../Page/ジョン・ポステル.md "wikilink")により開発された。
 
 ## 概要
 
-インターネットに接続されているすべてのコンピュータは、固有の[IPアドレス](../Page/IPアドレス.md "wikilink")を持っている。たとえば、ウィキペディア日本語版の[webサーバ](https://ja.wikipedia.org/wiki/webサーバ "wikilink")の持つIPアドレスは、2012年10月現在では`208.80.154.225`である。インターネット上のどのコンピュータにアクセスする際にも最終的にはそのコンピュータの IPアドレスを知る必要がある。しかし、IPアドレスは0から255までの数値を4つ組み合わせ（IPv4の場合）表現されるため、人間には記憶しにくい。そのため、IPアドレスを人間が覚えやすい名前で扱うことができるような機構として、[インターネットドメイン名が考案された](../Page/ドメイン名.md "wikilink")。このような、ドメイン名からIPアドレスを引き出す機能（[正引き](https://ja.wikipedia.org/wiki/正引き "wikilink")）が、DNSの代表的な機能である。このほか、ドメイン名に関連するメールサーバ情報なども取り扱っている。
+インターネットに接続されているすべてのコンピュータは、固有の[IPアドレス](../Page/IPアドレス.md "wikilink")を持っている。たとえば、ウィキペディア日本語版の[webサーバ](https://ja.wikipedia.org/wiki/webサーバ "wikilink")の持つIPアドレスは、2012年10月現在では`208.80.154.225`である。インターネット上のコンピュータにアクセスするためには、そのコンピュータの IPアドレスを知る必要がある。しかし、IPアドレスは0から255までの数値を4つ組み合わせ（IPv4の場合）で表現されるため、人間には記憶しにくい。そのため、IPアドレスを文字列で扱うことができるような機構として、[インターネットドメイン名が考案された](../Page/ドメイン名.md "wikilink")。そして、ドメイン名からIPアドレスを引き出す機能（[正引き](https://ja.wikipedia.org/wiki/正引き "wikilink")）が、DNSの代表的な機能である。このほか、ドメイン名に関連するメールサーバ情報なども取り扱っている。
 
 ## 動作
 

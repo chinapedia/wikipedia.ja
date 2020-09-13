@@ -1,49 +1,22 @@
 > この記事は[TBS系列](https://ja.wikipedia.org/wiki/TBS系列)から翻訳されています。
 
 
-**TBS系列**（ティービィーエスけいれつ）とは、[TBSテレビ](../Page/TBSテレビ.md "wikilink")及び[TBSラジオ](../Page/TBSラジオ.md "wikilink")を[キー局](../Page/キー局.md "wikilink")とする[放送事業者](../Page/放送事業者.md "wikilink")の[ネットワークである](../Page/ネットワーク_\(放送\).md "wikilink")。
+**TBS系列**（ティービィーエスけいれつ）とは、[TBSテレビ](../Page/TBSテレビ.md "wikilink")及び[TBSラジオ](../Page/TBSラジオ.md "wikilink")を[キー局](../Page/キー局.md "wikilink")とする[放送事業者](../Page/放送事業者.md "wikilink")の[ネットワークの総称である](../Page/ネットワーク_\(放送\).md "wikilink")。
 
 ## 概要
 
-TBSテレビの略称が「TBS」\[1\]、TBSラジオの略称が「TBS R」\[2\] であるため、「TBS系列」とはテレビネットワークを指すが、2001年10月1日以前は東京放送（現・[東京放送ホールディングス](../Page/東京放送ホールディングス.md "wikilink")）が[AMラジオ放送免許保有人](../Page/中波放送.md "wikilink")（2001年9月30日までは[ラテ兼営局](https://ja.wikipedia.org/wiki/ラテ兼営#日本 "wikilink")）であったため[JRNを指して](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")「TBS系列」という場合もある。
+TBSテレビの略称が「TBS」\[1\]、TBSラジオの略称が「TBS R」\[2\]であるため、「TBS系列」とは[JNNとそれに付帯する](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")「TBSネットワーク」を指すが、2001年10月1日以前は東京放送（現・[東京放送ホールディングス](../Page/東京放送ホールディングス.md "wikilink")）が[AMラジオ放送免許保有人](../Page/中波放送.md "wikilink")（2001年9月30日までは[ラテ兼営](../Page/ラテ兼営.md "wikilink")局）であったため[JRNを指して](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")「TBS系列」という場合もある。そしてTBSテレビでも若干「TBS TV」の略記も用いられている。
 
 ## TBS系列の一覧
 
-[北海道放送](../Page/北海道放送.md "wikilink")(HBC)
-[青森テレビ](../Page/青森テレビ.md "wikilink")(ATV)
-[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")(IBC)
-[東北放送](../Page/東北放送.md "wikilink")(TBC)
-[テレビユー山形](../Page/テレビユー山形.md "wikilink")(TUY)
-[テレビユー福島](../Page/テレビユー福島.md "wikilink")(TUF)
-[東京放送(TBS)](../Page/TBSテレビ.md "wikilink")
-[テレビ山梨](../Page/テレビ山梨.md "wikilink")(UTY)
-[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")(BSN)
-[信越放送](../Page/信越放送.md "wikilink")(SBC)
-[中部日本放送(CBC)](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")
-[チューリップテレビ](../Page/チューリップテレビ.md "wikilink")(TUT)
-[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")(SBS)
-[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")(MRO)
-[毎日放送(MBS)](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")
-[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")(BSS)
-[山陽放送(RSK)](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")
-[中国放送](../Page/中国放送.md "wikilink")(RCC)
-[テレビ山口](../Page/テレビ山口.md "wikilink")(TYS)
-[あいテレビ](../Page/あいテレビ.md "wikilink")(ITV)
-[テレビ高知](../Page/テレビ高知.md "wikilink")(KU-TV)
-[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")(RKB)
-[長崎放送](../Page/長崎放送.md "wikilink")(NBC)
-[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")(RKK)
-[大分放送](../Page/大分放送.md "wikilink")(OBS)
-[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")(MRT)
-[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")(MBC)
-[琉球放送](../Page/琉球放送.md "wikilink")(RBC)
+### テレビ
 
 ### ラジオ
 
 ### 衛星放送
 
   - [BS-TBS](../Page/BS-TBS.md "wikilink")（旧・BS-i）
-  - [TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")（旧・JNNニュースバード。地上波[JNN](https://ja.wikipedia.org/wiki/JNN "wikilink")系列局及びBS-TBSでも一部時間帯に同時放送。[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")での放送も行っており、同時放送する地上波JNN局とBS-TBSも16:9HD画面）
+  - [TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")（旧・JNNニュースバード。地上波[JNN系列局及びBS](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")-TBSでも一部時間帯に同時放送。[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")での放送も行っており、同時放送する地上波JNN局とBS-TBSも16:9HD画面）
   - [TBSチャンネル](../Page/TBSチャンネル.md "wikilink")
   - [C-TBSウェルカムチャンネル](../Page/シー・ティ・ビー・エス.md "wikilink")
   - [GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")
@@ -89,10 +62,10 @@ TBSテレビの略称が「TBS」\[1\]、TBSラジオの略称が「TBS R」\[2\
 
 ## 外部リンク
 
-  - [JNN web](http://www.tbs.co.jp/jnn/)
-  - [JRN](http://www.tbs.co.jp/radio/jrn/)
+  - [JNN web](https://www.tbs.co.jp/jnn/)
+  - [JRN](https://www.tbsradio.jp/jrn/)
 
 [Category:TBSグループ](https://ja.wikipedia.org/wiki/Category:TBSグループ "wikilink") [Category:TBSテレビ](https://ja.wikipedia.org/wiki/Category:TBSテレビ "wikilink") [Category:TBSラジオ](https://ja.wikipedia.org/wiki/Category:TBSラジオ "wikilink")
 
 1.  [TBSテレビ会社概要](http://www.tbs.co.jp/company/information/index-j.html)
-2.  [TBSラジオ会社概要](http://www.tbs.co.jp/radio/company/outline/index-j.html)
+2.  [TBSラジオ会社概要](https://www.tbs.co.jp/radio/company/outline/index-j.html)

@@ -1,7 +1,11 @@
 > この記事は[NTSC](https://ja.wikipedia.org/wiki/NTSC)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:PAL-NTSC-SECAM.svg "wikilink") **NTSC**とは**National Television System Committee**（全米[テレビジョン](https://ja.wikipedia.org/wiki/テレビジョン "wikilink")[システム](../Page/システム.md "wikilink")[委員会](../Page/委員会.md "wikilink")）の略であるが、もっぱら同委員会が策定した[コンポジット映像信号](../Page/コンポジット映像信号.md "wikilink")（特に1953年に定められた[カラーテレビ](../Page/カラーテレビ.md "wikilink")）とその[テレビ](../Page/テレビ.md "wikilink")ジョン放送方式の仕様及び標準規格を指して使われることが多い。正確には標準規格としては、RS-170 (A) やSMPTE-170Mといった名称により規格票となったものがあるのだが、その名称を見ることは専門書等以外ではまずない。日本のアナログテレビシステムも、NTSCを採用していた。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:PAL-NTSC-SECAM.svg "wikilink") **NTSC**は、[コンポジット映像信号](../Page/コンポジット映像信号.md "wikilink")および、それを用いた[テレビジョン放送](../Page/テレビジョン放送.md "wikilink")方式の仕様および標準規格「RS-170 (A) 」「SMPTE-170M」などの通称。
+
+NTSCとは規格を策定した**National Television System Committee**（全米テレビジョンシステム委員会）の略。特に1953年に定められた[カラーテレビ](../Page/カラーテレビ.md "wikilink")放送規格を指す。開発国の[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")などとともに、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のアナログテレビ放送システムが採用していた規格である。
+
+前述の正式名称（規格票）は専門書等以外ではほとんどみられない。
 
 ## 歴史的経緯
 

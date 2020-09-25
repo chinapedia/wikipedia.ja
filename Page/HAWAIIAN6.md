@@ -440,6 +440,43 @@ XQDB-4001(LP)</p></td>
 </tbody>
 </table>
 
+### 配信限定
+
+<table>
+<thead>
+<tr class="header">
+<th><p> </p></th>
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>規格品番</p></th>
+<th><p>　　　　　　　収録曲　　　　　　　</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>2009年10月14日</p></td>
+<td><p><strong>BONDS EP</strong></p></td>
+<td><p>　 -</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全4曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>Song of Hate</li>
+<li>Fire</li>
+<li>Blackout</li>
+<li>Sundance
+</div>
+</div></li>
+</ol></td>
+<td><p>iTunes Store限定（配信終了）</p></td>
+</tr>
+</tbody>
+</table>
+
 ### DVD
 
 <table>
@@ -507,10 +544,10 @@ XQDB-4001(LP)</p></td>
 <ol>
 <li>Egoist</li>
 <li>Abyss</li>
-<li>Goodbye Yesterday</li>
+<li>Goodbey Yesterday</li>
 <li>Miracles</li>
 <li>The Misery</li>
-<li>A Praise Of Human</li>
+<li>A Praise of Human</li>
 <li>Blackout</li>
 <li>Without A Sound</li>
 <li>Your Song</li>
@@ -519,60 +556,64 @@ XQDB-4001(LP)</p></td>
 <li>I Believe</li>
 <li>Fantasy</li>
 <li>Star Falls On Our Hands Tonight</li>
-</ol>
-<ol>
 <li>Sundance</li>
 <li>On This Holy Night</li>
 <li>Song Of Hate</li>
 <li>Revolutions</li>
-<li>Color Of Love</li>
+<li>Color Of Lova</li>
 <li>Brand New Dawn</li>
 <li>Ever Green</li>
 <li>A Love Song</li>
-<li>Rainbow,Rainbow</li>
-<li>Eternal Wish,Twinkle Star
+<li>Rainbow, Rainbow</li>
+<li>Eternal Wish, Twinkle Star</li>
+</ol>
 </div>
-</div></li>
-</ol></td>
+</div></td>
 <td><p>オリコン最高15位、登場回数3回</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a>10月4日</p></td>
 <td><p><strong>20YEARS</strong></p></td>
-<td><p>DB-2003Q</p></td>
-<td><p><strong>全29曲</strong></p>
+<td><p>XQDB-2003</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全29曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
 <ol>
-<li>A LOVE SONG</li>
-<li>A PIECE OF STARDAST</li>
-<li>THE BLACK CROWS LULLABY</li>
-<li>BLACKOUT</li>
-<li>BLUE</li>
-<li>BRAND NEW DAWN</li>
-<li>BURN</li>
-<li>EGOIST</li>
-<li>ETERNAL WISH,TWINKLE STAR</li>
-<li>EVER GREEN</li>
-<li>FANTASY</li>
-<li>FOREVER YOUNG</li>
-<li>I BELIEVE</li>
-<li>IN THE DEEP FOREST</li>
-<li>LIGHT AND SHADOW</li>
-<li>MAGIC</li>
-<li>METROPOLIS</li>
-<li>MY NAME IS LONELINESS</li>
-<li>PRIDE</li>
-<li>PROMISE</li>
-<li>RAINBOW,RAINBOW</li>
-<li>REVOLUTIONS</li>
-<li>SONG OF HATE</li>
-<li>STAR FALLS ON OUR HANDS TONIGHT</li>
-<li>TINY SOUL</li>
-<li>WISDOM TREE</li>
-<li>WONDER</li>
-<li>WORLD</li>
-<li>YOUR SONG</li>
-</ol></td>
+<li>A Love Song</li>
+<li>A Piece of Stardust</li>
+<li>The Black Crows Lullaby</li>
+<li>Blackout</li>
+<li>Blue</li>
+<li>Brand New Dawn</li>
+<li>Burn</li>
+<li>Egoist</li>
+<li>Eternal Wish, Twinkle Star</li>
+<li>Ever Green</li>
+<li>Fantasy</li>
+<li>Forever Young</li>
+<li>I Believe</li>
+<li>In The Deep Forest</li>
+<li>Light and Shadow</li>
+<li>Magic</li>
+<li>Metropolis</li>
+<li>My Name Is Loneliness</li>
+<li>Pride</li>
+<li>Promise</li>
+<li>Rainbow, Rainbow</li>
+<li>Revolutions</li>
+<li>Song of Hate</li>
+<li>Star Falls On Our Hands Tonight</li>
+<li>Tiny Soul</li>
+<li>Wisdom Tree</li>
+<li>Wonder</li>
+<li>World</li>
+<li>Your Song</li>
+</ol>
+</div>
+</div></td>
 <td><p>オリコン最高8位、登場回数4回</p></td>
 </tr>
 <tr class="even">
@@ -619,7 +660,7 @@ XQDB-4001(LP)</p></td>
 <li>YOU KNOW WHAT I MEAN / <a href="../Page/GUYS.md" title="wikilink">GUYS</a></li>
 <li>DA NA NA / <a href="https://ja.wikipedia.org/wiki/IMPOTENCE" title="wikilink">IMPOTENCE</a></li>
 <li>SONG ABOUT A GREEN AGE / <a href="../Page/NICOTINE.md" title="wikilink">NICOTINE</a></li>
-<li><strong>FEEL THE WIND,FEEL THE SUMMER / HAWAIIAN6</strong></li>
+<li><strong>FEEL THE WIND, FEEL THE SUMMER / HAWAIIAN6</strong></li>
 <li>IF YOU'RE EXPOSED TO HARD RAIN / <a href="https://ja.wikipedia.org/wiki/SYMBIONESE" title="wikilink">SYMBIONESE</a></li>
 <li>TOMORROW / <a href="https://ja.wikipedia.org/wiki/SCHROEDER" title="wikilink">SCHROEDER</a></li>
 <li>L.S.D / <a href="../Page/NICOTINE.md" title="wikilink">NICOTINE</a></li>
@@ -635,6 +676,29 @@ XQDB-4001(LP)</p></td>
 <td><p>STEP UP RECORDS</p></td>
 </tr>
 <tr class="even">
+<td><p>1999年03月14日</p></td>
+<td><p>Shibu CORE</p></td>
+<td><p>ONSEN-12</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全8曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>GOD IT'S POP / BRANCH.SxSx</li>
+<li>THREE CHOISES / BRANCH.SxSx</li>
+<li>A TEENAGE REVOLT / BRANCH.SxSx</li>
+<li>FALL (the rejection of a person) / BRANCH.SxSx</li>
+<li><strong>TO THE END / HAWAIIAN6</strong></li>
+<li><strong>FIRE WORKS / HAWAIIAN6</strong></li>
+<li><strong>AROUND THE PARK / HAWAIIAN6</strong></li>
+<li><strong>METAL X / HAWAIIAN6</strong></li>
+</ol>
+</div>
+</div></td>
+<td><p>BRANCH.SxSxとのスプリットアルバム</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/10月14日.md" title="wikilink">10月14日</a></p></td>
 <td><p><strong>Word</strong></p></td>
 <td><p>SURCD-004</p></td>
@@ -654,7 +718,7 @@ XQDB-4001(LP)</p></td>
 </ol></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/BRANCH" title="wikilink">BRANCH</a>とのスプリットアルバム</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/8月18日.md" title="wikilink">8月18日</a></p></td>
 <td><p><strong>GARLIC BOYS Tribute</strong></p></td>
 <td><p>PCD-4338</p></td>
@@ -681,7 +745,7 @@ XQDB-4001(LP)</p></td>
 </ol></td>
 <td><p>P-VINE RECORDS</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/9月6日.md" title="wikilink">9月6日</a></p></td>
 <td><p><strong>Have A Slice Of Death</strong></p></td>
 <td><p>PZCA-31</p></td>
@@ -706,7 +770,7 @@ XQDB-4001(LP)</p></td>
 </div></li>
 </ol></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/9月6日.md" title="wikilink">9月6日</a></p></td>
 <td><p><strong>The Very Best of PIZZA OF DEATH</strong></p></td>
 <td><p>PZCA-30</p></td>
@@ -736,7 +800,7 @@ XQDB-4001(LP)</p></td>
 </ol></td>
 <td><p>オリコン最高9位、登場回数8回</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/4月15日.md" title="wikilink">4月15日</a></p></td>
 <td><p><strong>...OUT OF THIS WORLD 4</strong></p></td>
 <td><p>SURCD-008</p></td>
@@ -814,7 +878,7 @@ XQDB-4001(LP)</p></td>
 </ol></td>
 <td><p>オリコン初登場68位、登場回数3回</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/5月8日.md" title="wikilink">5月8日</a></p></td>
 <td><p><strong>hope</strong></p></td>
 <td><p>SURCD-0311</p></td>
@@ -843,7 +907,7 @@ XQDB-4001(LP)</p></td>
 </ol></td>
 <td><p>STEP UP RECORDS</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="https://ja.wikipedia.org/wiki/6月5日" title="wikilink">6月5日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/locofrank" title="wikilink">locofrank</a>/HAWAIIAN6/<a href="https://ja.wikipedia.org/wiki/dustbox" title="wikilink">dustbox</a>『THE ANTHEMS』</strong></p></td>
 <td><p>XQDB-1007</p></td>
@@ -870,7 +934,7 @@ XQDB-4001(LP)</p></td>
 </ol></td>
 <td><p>オリコン初登場11位、登場回数8回</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

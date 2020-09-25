@@ -25,7 +25,7 @@
 
 ## プロレス活動
 
-2014年8月17日、[DDTプロレスリング](../Page/DDTプロレスリング.md "wikilink")の開催する[両国ピーターパン2014〜人生変えちゃう夏かもね\!〜](https://ja.wikipedia.org/wiki/両国ピーターパン2014〜人生変えちゃう夏かもね!〜 "wikilink")にて行われた「[アイアンマンヘビーメタル級選手権バトルロイヤルに特別リングアナとして参加](https://ja.wikipedia.org/wiki/アイアンマンヘビーメタル級王座 "wikilink")。試合後、バトルロイヤルを勝ち抜きアイアンマンベルトを保持していた[ゴージャス松野](https://ja.wikipedia.org/wiki/ゴージャス松野 "wikilink")がダウンしていたところをフォールし3カウント、同王座の第1009代王者となる\[13\]。
+2014年8月17日、[DDTプロレスリング](../Page/DDTプロレスリング.md "wikilink")の開催する[両国ピーターパン2014〜人生変えちゃう夏かもね\!〜](https://ja.wikipedia.org/wiki/両国ピーターパン2014〜人生変えちゃう夏かもね!〜 "wikilink")にて行われた「[アイアンマンヘビーメタル級選手権バトルロイヤルに特別リングアナとして参加](https://ja.wikipedia.org/wiki/アイアンマンヘビーメタル級王座 "wikilink")。試合後、バトルロイヤルを勝ち抜きアイアンマンベルトを保持していた[ゴージャス松野](../Page/ゴージャス松野.md "wikilink")がダウンしていたところをフォールし3カウント、同王座の第1009代王者となる\[13\]。
 
 以降、ボディーガードとして[ベルナール・アッカ](../Page/ベルナール・アッカ.md "wikilink")を連れ防衛を重ねるが、12月23日のDDT後楽園大会にて[ヨシヒコ](https://ja.wikipedia.org/wiki/ヨシヒコ "wikilink")に敗北。同王座から陥落。
 
@@ -261,7 +261,7 @@
   - [コラム：LiLiCoのHappy eiga ダイニング](https://eiga.com/extra/lilico/)
   - [LiLiCoセレクトショップ「LiLiCoCo（リリココ）」](https://lilicoco.jp/)
 
-[Category:日本の女性タレント](https://ja.wikipedia.org/wiki/Category:日本の女性タレント "wikilink") [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:日本の女優](https://ja.wikipedia.org/wiki/Category:日本の女優 "wikilink") [Category:日本の女性声優](https://ja.wikipedia.org/wiki/Category:日本の女性声優 "wikilink") [Category:日本の司会者](https://ja.wikipedia.org/wiki/Category:日本の司会者 "wikilink") [Category:日本の女子プロレスラー](https://ja.wikipedia.org/wiki/Category:日本の女子プロレスラー "wikilink") [Category:DDTにレギュラー参戦するプロレスラー](https://ja.wikipedia.org/wiki/Category:DDTにレギュラー参戦するプロレスラー "wikilink") [Category:日系スウェーデン人](https://ja.wikipedia.org/wiki/Category:日系スウェーデン人 "wikilink") [Category:ストックホルム出身の人物](https://ja.wikipedia.org/wiki/Category:ストックホルム出身の人物 "wikilink") [Category:1970年生](https://ja.wikipedia.org/wiki/Category:1970年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:水曜プレミア](https://ja.wikipedia.org/wiki/Category:水曜プレミア "wikilink")
+[Category:日本の女性タレント](https://ja.wikipedia.org/wiki/Category:日本の女性タレント "wikilink") [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:日本の女優](https://ja.wikipedia.org/wiki/Category:日本の女優 "wikilink") [Category:日本の司会者](https://ja.wikipedia.org/wiki/Category:日本の司会者 "wikilink") [Category:日本の女子プロレスラー](https://ja.wikipedia.org/wiki/Category:日本の女子プロレスラー "wikilink") [Category:DDTにレギュラー参戦するプロレスラー](https://ja.wikipedia.org/wiki/Category:DDTにレギュラー参戦するプロレスラー "wikilink") [Category:日系スウェーデン人](https://ja.wikipedia.org/wiki/Category:日系スウェーデン人 "wikilink") [Category:ストックホルム出身の人物](https://ja.wikipedia.org/wiki/Category:ストックホルム出身の人物 "wikilink") [Category:1970年生](https://ja.wikipedia.org/wiki/Category:1970年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:水曜プレミア](https://ja.wikipedia.org/wiki/Category:水曜プレミア "wikilink")
 
 1.
 2.

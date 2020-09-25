@@ -11,7 +11,7 @@
 
 そして2011年9月には、これらUGSF関連作品を整理し年表化したサイト「UGSFシリーズ公式サイト」（[\#外部リンク](https://ja.wikipedia.org/wiki/#外部リンク "wikilink")参照）が公開され、UGSFシリーズとしてオフィシャル化した。
 
-なお現在最新のUGSFシリーズは、2014年9月にリリースされた[iOS用](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")[アプリ](https://ja.wikipedia.org/wiki/アプリ "wikilink")『[しんぐんデストロ〜イ\!](https://ja.wikipedia.org/wiki/しんぐんデストロ〜イ! "wikilink")』（2015年3月[Android](../Page/Android.md "wikilink")版リリース）だが、こちらは2016年3月にサービスが終了した。
+なお現在最新のUGSFシリーズは、2014年9月にリリースされた[iOS用](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")[アプリ](https://ja.wikipedia.org/wiki/アプリ "wikilink")『[しんぐんデストロ〜イ\!](https://ja.wikipedia.org/wiki/しんぐんデストロ〜イ! "wikilink")』（2015年3月[Android版リリース](../Page/Android_\(オペレーティングシステム\).md "wikilink")）だが、こちらは2016年3月にサービスが終了した。
 
 2019年現在、[エースコンバットシリーズ](../Page/エースコンバットシリーズ.md "wikilink")の『[エースコンバット2](../Page/エースコンバット2.md "wikilink")』から『[エースコンバット7 スカイズ・アンノウン](https://ja.wikipedia.org/wiki/エースコンバット7_スカイズ・アンノウン "wikilink")』までの作品の世界はUGSFシリーズと繋がりがある『[エースコンバット3 エレクトロスフィア](../Page/エースコンバット3_エレクトロスフィア.md "wikilink")』と同じ時間軸と世界にあることが[4Gamer.net](../Page/4Gamer.net.md "wikilink")の[2019年1月26日付けの特集記事](https://megalodon.jp/2019-1120-1907-53/https://www.4gamer.net:443/games/326/G032682/20190111100/index_2.html)や[エースコンバット7公式サイト](https://ace7.acecombat.jp/world/)ページ下部の年表で明言されている。
 

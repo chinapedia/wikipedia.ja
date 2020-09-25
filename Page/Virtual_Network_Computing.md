@@ -164,7 +164,7 @@ VNCを使った、商用・非商用のサービス。
   -
     ソフトウェアはWindows向けとMacOSX向け、[Linux](../Page/Linux.md "wikilink")向けがあり、無料版、有料版で機能が違う。
 
-    [iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")/[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")向けアプリや[Android](../Page/Android.md "wikilink")向けアプリもあり、リモート操作する側として機能する。
+    [iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")/[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")向けアプリや[Android向けアプリもあり](../Page/Android_\(オペレーティングシステム\).md "wikilink")、リモート操作する側として機能する。
 
   - [LogMeIn](https://secure.logmein.com/JP/home.aspx)
     ブラウザ経由でリモート操作を行えるサービス。常駐するクライアントアプリさえインストールしておけば、サーバー側のIP変更などに影響されず遠隔操作を簡単に行える。ソフトウェアはWindows、MacOSX向けが無料配布されている。また、ファイル送信などに対応した有料版もある。そして、Android向けなどのスマートフォン用クライアントも販売されている。なお2014年1月をもってlogmein freeによる無償接続サービスは終了し、全てが有料化した。

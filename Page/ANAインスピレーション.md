@@ -5,11 +5,13 @@
 
 ## 概要
 
-[1972年](../Page/1972年.md "wikilink")、同国の歌手である[ダイナ・ショア](https://ja.wikipedia.org/wiki/ダイナ・ショア "wikilink")の企画により歯磨きメーカーであるコルゲート社とのタイアップによるトーナメント「コルゲート・ダイナ・ショア・ウィナーズ・サークル」として発足した。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に全米女子メジャーに昇格する。その後スポンサーの変更等により、トーナメント名も変更されたが「[ダイナ・ショア](https://ja.wikipedia.org/wiki/ダイナ・ショア "wikilink")」の名前は彼女の死（[1994年](../Page/1994年.md "wikilink")2月）の後も[1999年](../Page/1999年.md "wikilink")まで残された。第1回から[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")ランチョ・ミラージュの「ミッションヒルズ・カントリークラブ」を会場としており毎年3月下旬に行われ、そのシーズンのメジャーの初戦として熱戦を繰り広げている。
+[1972年](../Page/1972年.md "wikilink")、同国の歌手である[ダイナ・ショア](https://ja.wikipedia.org/wiki/ダイナ・ショア "wikilink")の企画により歯磨きメーカーであるコルゲート社とのタイアップによるトーナメント「コルゲート・ダイナ・ショア・ウィナーズ・サークル」として発足した。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に全米女子メジャーに昇格する。その後スポンサーの変更等により、トーナメント名も変更されたが「[ダイナ・ショア](https://ja.wikipedia.org/wiki/ダイナ・ショア "wikilink")」の名前は彼女の死（[1994年](../Page/1994年.md "wikilink")2月）の後も[1999年](../Page/1999年.md "wikilink")まで残された。
 
-しかし[クラフトと](https://ja.wikipedia.org/wiki/クラフトフーズ "wikilink")[ナビスコ](../Page/ナビスコ.md "wikilink")社は2014年の大会を最後に降板。同年の[CMEグループ・ツアー選手権開催直前に](../Page/CMEグループ・タイトルホルダーズ.md "wikilink")2015年から日本の航空会社であるANAがタイトルスポンサーとなった\[1\]。
+第1回から[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")ランチョ・ミラージュの「ミッションヒルズ・カントリークラブ」を会場としており、毎年3月下旬に行われ、4月第1日曜日に最終日を設定している。そのシーズンのメジャーの初戦として熱戦を繰り広げている。
 
-この大会の優勝者にはチャンピオンローブと**ダイナ・ショア・トロフィー**が手渡され、2015年以降優勝者に着用されるチャンピオンローブは愛媛県[今治タオル](https://ja.wikipedia.org/wiki/今治タオル "wikilink")を使用している。
+[1982年](../Page/1982年.md "wikilink")から[ナビスコ](../Page/ナビスコ.md "wikilink")がスポンサーとなり、[2002年](../Page/2002年.md "wikilink")から[クラフトがスポンサーに加わった](https://ja.wikipedia.org/wiki/クラフトフーズ "wikilink")。しかし、[2014年](../Page/2014年.md "wikilink")の大会を最後に降板。同年の[CMEグループ・ツアー選手権開催直前に](../Page/CMEグループ・タイトルホルダーズ.md "wikilink")2015年から日本の航空会社であるANAがタイトルスポンサーとなり\[1\]、大会名も変更となった。
+
+この大会の優勝者にはチャンピオンローブと**ダイナ・ショア・トロフィー**が手渡され、[2015年](../Page/2015年.md "wikilink")以降優勝者に着用されるチャンピオンローブは愛媛県[今治タオル](https://ja.wikipedia.org/wiki/今治タオル "wikilink")を使用している。
 
 ## トーナメント名の変遷
 
@@ -59,12 +61,12 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2020_ANA_Inspiration" title="wikilink">2020</a></p></td>
 <td><p>9月10–13</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/イ・ミリム" title="wikilink">イ・ミリム</a></p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>70-65-71-67</p></td>
+<td><p>273</p></td>
+<td><p>−15</p></td>
+<td><p>Playoff</p></td>
 <td><p>3,100,000</p></td>
 </tr>
 <tr class="even">

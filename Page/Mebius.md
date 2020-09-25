@@ -155,5 +155,5 @@ QWERTYキーボード</p></td>
 
 [Category:シャープのパーソナルコンピュータ](https://ja.wikipedia.org/wiki/Category:シャープのパーソナルコンピュータ "wikilink")
 
-1.  [シャープ、パソコンの生産中止](http://web.archive.org/web/20101107043459/http://sankei.jp.msn.com/economy/business/101021/biz1010211846022-n1.htm) - 2010年10月21日 MSN産経
+1.  [シャープ、パソコンの生産中止](https://web.archive.org/web/20101107043459/http://sankei.jp.msn.com/economy/business/101021/biz1010211846022-n1.htm) - 2010年10月21日 MSN産経
 2.  <http://www.jiji.com/jc/c?g=eco_30&k=2013093000671> - 2013年9月30日 時事ドットコム

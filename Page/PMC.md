@@ -35,3 +35,4 @@
   - [エル・テプアル空港](https://ja.wikipedia.org/wiki/エル・テプアル空港 "wikilink") () - チリ プエルトモント市の空港。
   - [PMC (アーカイブ)](https://ja.wikipedia.org/wiki/PMC_\(アーカイブ\) "wikilink") - アメリカのオンライン医学論文アーカイブ。旧称 PubMed Central。
   - [ペルシアンミュージックチャンネル](https://ja.wikipedia.org/wiki/ペルシアンミュージックチャンネル "wikilink") () - UAEの衛星TVチャンネル。
+  - Performance Manufacturing Center - 北米オハイオ州メアリーズビルにある本田技研工業の専門技術工場。

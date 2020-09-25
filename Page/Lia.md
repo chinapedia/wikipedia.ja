@@ -44,156 +44,6 @@ LiaのCDやDVDの多くを発売しているqueens labelは[I've](../Page/I've.m
 
 #### シングル
 
-<table>
-<thead>
-<tr class="header">
-<th></th>
-<th><p>発売日</p></th>
-<th><p>タイトル</p></th>
-<th><p>規格品番</p></th>
-<th><p>最高位</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>1st</p></td>
-<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/12月29日.md" title="wikilink">12月29日</a></p></td>
-<td><p>SHIFT〜世代の向こう〜</p></td>
-<td><p>IVCD-0001</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2nd</p></td>
-<td><p>2001年<a href="../Page/12月24日.md" title="wikilink">12月24日</a></p></td>
-<td><p>Natukage／nostalgia</p></td>
-<td><p>KSLA-0002[12]</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3rd</p></td>
-<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/6月25日.md" title="wikilink">6月25日</a></p></td>
-<td><p>Birthday Song,Requiem</p></td>
-<td><p>KSLA-0007[13]</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>4th</p></td>
-<td><p>2004年<a href="../Page/6月25日.md" title="wikilink">6月25日</a></p></td>
-<td><p>Spica／Hanabi／Moon</p></td>
-<td><p>KSLA-0008[14]</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>5th</p></td>
-<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/3月24日.md" title="wikilink">3月24日</a></p></td>
-<td><p>君の余韻 〜遠い空の下で〜</p></td>
-<td><p>KICM-1130</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>6th</p></td>
-<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/6月21日.md" title="wikilink">6月21日</a></p></td>
-<td><p>PRIDE 〜try to fight〜</p></td>
-<td><p>MJCD-23020</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>7th</p></td>
-<td><p>2006年<a href="https://ja.wikipedia.org/wiki/11月22日" title="wikilink">11月22日</a></p></td>
-<td><p>Over the Future</p></td>
-<td><p>MJCD-23027</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>8th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/1月30日.md" title="wikilink">1月30日</a></p></td>
-<td><p>doll／human</p></td>
-<td><p>MJCD-230387</p></td>
-<td><p>54位</p></td>
-</tr>
-<tr class="odd">
-<td><p>9th</p></td>
-<td><p>2008年<a href="../Page/11月14日.md" title="wikilink">11月14日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/時を刻む唄/TORCH" title="wikilink">時を刻む唄／TORCH</a></p></td>
-<td><p>KSLA-0044</p></td>
-<td><p>13位</p></td>
-</tr>
-<tr class="even">
-<td><p>10th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/5月26日.md" title="wikilink">5月26日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/My_Soul,Your_Beats!/Brave_Song" title="wikilink">My Soul,Your Beats!</a></p></td>
-<td><p>KSLA-0053</p></td>
-<td><p>3位</p></td>
-</tr>
-<tr class="odd">
-<td><p>11th</p></td>
-<td><p>2010年<a href="../Page/7月21日.md" title="wikilink">7月21日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/あした天気になぁれ" title="wikilink">あした天気になぁれ</a></p></td>
-<td><p>NECM-12165</p></td>
-<td><p>189位</p></td>
-</tr>
-<tr class="even">
-<td><p>12th</p></td>
-<td><p>2010年<a href="../Page/10月27日.md" title="wikilink">10月27日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/絆-kizunairo-色" title="wikilink">絆-kizunairo-色</a></p></td>
-<td><p>AMG-7018（初回盤）<br />
-AMG-7019（通常盤）</p></td>
-<td><p>6位</p></td>
-</tr>
-<tr class="odd">
-<td><p>13th</p></td>
-<td><p>2010年<a href="../Page/12月15日.md" title="wikilink">12月15日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/心に届く詩" title="wikilink">心に届く詩</a></p></td>
-<td><p>PCCG-90058</p></td>
-<td><p>46位</p></td>
-</tr>
-<tr class="even">
-<td><p>※</p></td>
-<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/5月18日.md" title="wikilink">5月18日</a></p></td>
-<td><p>A Whole New World God Only Knows</p></td>
-<td><p>GNCA-0192</p></td>
-<td><p>19位</p></td>
-</tr>
-<tr class="odd">
-<td><p>14th</p></td>
-<td><p>2011年<a href="../Page/7月27日.md" title="wikilink">7月27日</a>（amazon限定盤）<br />
-2011年<a href="../Page/8月17日.md" title="wikilink">8月17日</a>（通常盤）</p></td>
-<td><p>きみはひとりなんかじゃないよ／Song of Life</p></td>
-<td><p>MJMCD-03（amazon限定盤）<br />
-MJMCD-04（通常盤）</p></td>
-<td><p>177位</p></td>
-</tr>
-<tr class="even">
-<td><p>15th</p></td>
-<td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/11月21日.md" title="wikilink">11月21日</a></p></td>
-<td><p>ローレライの詩</p></td>
-<td><p>PCCG-90087</p></td>
-<td><p>56位</p></td>
-</tr>
-<tr class="odd">
-<td><p>16th</p></td>
-<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/3月5日.md" title="wikilink">3月5日</a></p></td>
-<td><p>JUSTITIA</p></td>
-<td><p>PCCG-70209</p></td>
-<td><p>29位</p></td>
-</tr>
-<tr class="even">
-<td><p>17th</p></td>
-<td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/4月1日.md" title="wikilink">4月1日</a></p></td>
-<td><p>Heartily Song</p></td>
-<td><p>KSLM-99</p></td>
-<td><p>17位</p></td>
-</tr>
-<tr class="odd">
-<td><p>18th</p></td>
-<td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/8月26日.md" title="wikilink">8月26日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Bravely_You/灼け落ちない翼" title="wikilink">Bravely You/灼け落ちない翼</a></p></td>
-<td><p>KSLA-0104</p></td>
-<td><p>4位</p></td>
-</tr>
-</tbody>
-</table>
-
 #### アルバム
 
 ##### オリジナルアルバム
@@ -213,6 +63,7 @@ MJMCD-04（通常盤）</p></td>
 | --- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --- |
 | 1st | 2008年[9月2日](../Page/9月2日.md "wikilink")   | [Lia & LIA COLLECTION ALBUM -Special Limited BOX-](https://ja.wikipedia.org/wiki/Lia_&_LIA_COLLECTION_ALBUM_-Special_Limited_BOX- "wikilink") | QLCD-0008/9 | 53位 |
 | 2nd | 2011年[6月24日](../Page/6月24日.md "wikilink") | [key+Lia Best 2001-2010](https://ja.wikipedia.org/wiki/key+Lia_Best_2001-2010 "wikilink")                                                     | KSLA-0071   | 11位 |
+| 3rd | 2020年11月25日                               | Lia 20th BEST                                                                                                                                 | LIAM-1003   |     |
 
 ##### コレクションアルバム
 
@@ -227,6 +78,14 @@ MJMCD-04（通常盤）</p></td>
 | --- | -------------------------------------------------------------------------- | -------------------------------------------- | --------- | --- |
 | 1st | [2018年](../Page/2018年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")   | REVIVES -Lia Sings beautiful anime songs-    | LIAM-0001 | 94位 |
 | 2nd | [2019年](../Page/2019年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink") | REVIVES II -Lia Sings beautiful anime songs- | LIAM-1002 | 位   |
+
+**映像作品**
+
+|     | 発売日         | タイトル                                                                                                                                                  | 規格品番       | 最高位 |
+| --- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --- |
+| 1st | 2005年6月24日  | Lia 1st Concert Lia’s Cafe “Prologue”at [Shibuya O-East](../Page/Shibuya_O-EAST.md "wikilink") 2005.1.28                                              | QLVD-0002  |     |
+| 2nd | 2008年6月17日  | Lia COLLECTION LIVE “THE LIMITED”at [Zepp Tokyo](../Page/Zepp.md "wikilink") 2007.9.17                                                                | PCBE-52380 |     |
+| 3rd | 2020年11月25日 | Lia 20th Anniversary Special Live 2019 at [豊洲PIT](https://ja.wikipedia.org/wiki/チームスマイル "wikilink") \[[Blu-ray](../Page/Blu-ray_Disc.md "wikilink")\] | LIAM-2001  |     |
 
 #### アナログ盤
 
@@ -289,7 +148,7 @@ QLVD0001</p></td>
 <tr class="odd">
 <td><p>enigmatic LIA4 -Anthemnia L's core-</p></td>
 <td><p>QLC-00002</p></td>
-<td><p>80位</p></td>
+<td><p>53 位</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -621,16 +480,29 @@ QLVD0001</p></td>
 
 ## 出演
 
-### ライブ
+### ワンマンライブ
 
   - Lia 1st Concert Lia's Cafe Prologue”at Shibuya O-East（[2005年](../Page/2005年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink") [Shibuya O-East](https://ja.wikipedia.org/wiki/Shibuya_O-East "wikilink")）
-  - Lia Winter Live 2006 Lia's Cafe （[2006年](../Page/2006年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink") [D'sBar](https://ja.wikipedia.org/wiki/D'sBar "wikilink")）
   - Lia COLLECTION LIVE "THE LIMITED"（[2007年](../Page/2007年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink") [Zepp Tokyo](https://ja.wikipedia.org/wiki/Zepp_Tokyo "wikilink")）
-  - ラパス presents Lia's Cafe Live at OTODAMA 逗子（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月22日](../Page/8月22日.md "wikilink") [音霊 OTODAMA SEA STUDIO](https://ja.wikipedia.org/wiki/音霊_OTODAMA_SEA_STUDIO "wikilink")）
   - Lia Autumn Live & Veil 1st Live at duo MUSIC EXCHANGE（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月18日](../Page/9月18日.md "wikilink") [duo MUSIC EXCHANGE](../Page/Shibuya_O-EAST.md "wikilink")）
-  - Lia LIVE@Otakuthon 2018（[2018年](../Page/2018年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink") The Palais des congres de Montreal / [カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[モントリオール](../Page/モントリオール.md "wikilink")）
+  - Lia LIVE 2018 REVIVES（2018年12月18日〜19日 [Mt.RAINIER HALL SHIBUYA PLEASURE PLEASURE](https://ja.wikipedia.org/wiki/Mt.RAINIER_HALL_SHIBUYA_PLEASURE_PLEASURE "wikilink")）
+  - Lia LIVE TOUR 2019 REVIVES大阪（2019年5月1日 [Billboard Live OSAKA](https://ja.wikipedia.org/wiki/Billboard_JAPAN "wikilink")）
+  - Lia LIVE TOUR 2019 REVIVES名古屋（2019年5月2日 [NAGOYA Blue Note](../Page/ブルーノート_\(ジャズ・クラブ\).md "wikilink")）
+  - Lia LIVE TOUR 2019 REVIVES横浜（2019年5月4日 横浜Motion Blue YOKOHAMA）
+  - Lia LIVE TOUR 2019 REVIVES仙台（2019年5月18日 仙台darwin）
+  - Lia 1st LIVE in TAIWAN ～Symphony of Life～（2019年6月9日 [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[台北THE](../Page/台北市.md "wikilink") WALL）
+  - Lia collaboration Artist THAI ORCHESTRA（2019年9月14日 [タイ](../Page/タイ王国.md "wikilink")・[バンコク](../Page/バンコク.md "wikilink")SIAM PIC GANESHA）
+  - Lia 20th Anniversary Special Live 2019大阪（2019年10月13日 [ESAKA MUSE](https://ja.wikipedia.org/wiki/ESAKA_MUSE "wikilink")）
+  - Lia 20th Anniversary Special Live 2019福岡（ 2019年11月2日 BEAT STATION）
+  - Lia China TOUR in 広州（2019年11月23日 [中国](../Page/中国.md "wikilink")・[広州MAO](../Page/広州市.md "wikilink")）
+  - Lia China TOUR in 上海（2019年11月24日 [中国](../Page/中国.md "wikilink")・[上海MAO](../Page/上海市.md "wikilink")）
+  - Lia 20th Anniversary Special Live 2019（2019年12月20日 [チームスマイル](https://ja.wikipedia.org/wiki/チームスマイル "wikilink")豊洲PIT）
+  - Lia 20th Anniversary Special Live 2019名古屋（2020年2月10日 SPADE BOX）※振替公演
+  - Lia 20th BEST Special LIVE 2020（2020年12月5日 [Zepp DiverCity](../Page/Zepp.md "wikilink")）
+  - Lia 20th BEST Special LIVE 2020（2020年12月6日 [Zepp DiverCity](../Page/Zepp.md "wikilink")）
+  - Lia ORCHESTRA CONCERT -20th Anniversary Special（2021年5月5日 [サントリーホール](../Page/サントリーホール.md "wikilink") 大ホール）※振替公演
 
-### イベント
+### 出演イベント
 
   - [I've in BUDOKAN 2005 〜Open the Birth Gate〜](../Page/I've_in_BUDOKAN_2005_〜Open_the_Birth_Gate〜.md "wikilink")（[2005年](../Page/2005年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink") [日本武道館](../Page/日本武道館.md "wikilink")）
   - KSL Live World 2008 〜way to the LittleBusters\! EX〜（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月10日](../Page/5月10日.md "wikilink") [新木場STUDIO COAST](https://ja.wikipedia.org/wiki/新木場STUDIO_COAST "wikilink")／[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月17日](../Page/5月17日.md "wikilink") [大阪](../Page/大阪.md "wikilink")[Namba Hatch](https://ja.wikipedia.org/wiki/Namba_Hatch "wikilink")）
@@ -638,6 +510,7 @@ QLVD0001</p></td>
   - [Animelo Summer Live](https://ja.wikipedia.org/wiki/Animelo_Summer_Live "wikilink") 2008 -CHALLENGE-（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月30日](../Page/7月30日.md "wikilink") [さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")）
   - Animelo Summer Live 2010 -evolution-（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月29日](../Page/8月29日.md "wikilink") さいたまスーパーアリーナ）
   - Animelo Summer Live 2016 刻-TOKI- （[2016年](../Page/2016年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink") さいたまスーパーアリーナ）
+  - Lia LIVE@Otakuthon 2018（[2018年](../Page/2018年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink") The Palais des congres de Montreal / [カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[モントリオール](../Page/モントリオール.md "wikilink")）
   - Liberty City Anime Con 2018（[2018年](../Page/2018年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink") [Marriott Marquis Times Square](../Page/タイムズスクエア.md "wikilink") / [アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ニューヨーク](../Page/ニューヨーク.md "wikilink")）
 
 ### ラジオ
@@ -650,11 +523,9 @@ QLVD0001</p></td>
 
 ## 外部リンク
 
-  - [オフィシャルサイト](http://1stplace.co.jp/artist/lia/)
+  - [オフィシャルサイト](https://lia-music.jp)
 
   - [queens label official site](http://queenslabel.product.co.jp/)
-
-  - [Liaオフィシャルブログ](https://ameblo.jp/liaholic/) - Ameba Blog（2012年8月2日 - ）
 
   -
   -
@@ -670,7 +541,4 @@ QLVD0001</p></td>
 8.  [ニューヨーク・イベント情報紙　よみタイム 2015年10月2日号 Vol.263](https://www.yomitime.com/100215/music.html)
 9.  2019年8月17日開催のスペシャルライブでの壇上トーク
 10. [ゲームラボ](../Page/ゲームラボ.md "wikilink")2001年8月号特集『「青空」はなぜ泣けるのか』[三才ブックス](https://ja.wikipedia.org/wiki/三才ブックス "wikilink")
-11. [Gyaoトレンド『Lia独占インタビュー』](http://web.archive.org/web/20080919084259/http://trend.gyao.jp/entertainment/entry-3427.html)（2008年9月19日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
-12. 2001年8月10日コミックマーケットにて先行発売
-13. 2002年12月28日コミックマーケットにて先行発売
-14. 2003年8月15日コミックマーケットにて先行発売
+11. [Gyaoトレンド『Lia独占インタビュー』](https://web.archive.org/web/20080919084259/http://trend.gyao.jp/entertainment/entry-3427.html)（2008年9月19日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）

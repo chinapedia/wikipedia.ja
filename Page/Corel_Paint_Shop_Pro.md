@@ -232,26 +232,31 @@ Paintshopの標準のブラシツールはpspbrush形式であるが、Adobe Pho
     SmartCloneツール、選択範囲の極細ブラシ（毛のような細かいオブジェクトの選択）、写真ワークスペース、レイヤースタイルの強化（レイヤースタイルのみのコピー&ペーストなど）がおこなわれた。
     またUltimate版では、GRFX Studio Corel Edition、Parallels Toolbox、[PhotoMirage Express](https://ja.wikipedia.org/wiki/PhotoMirage "wikilink")、[Painter Essentials](https://ja.wikipedia.org/wiki/Painter_Essentials "wikilink")6（本格的イラスト作成ソフト）、[AfterShot](https://ja.wikipedia.org/wiki/AfterShot_Pro "wikilink") 3（RAW現像ソフト）、ブラシやテクスチャの Creative Collection、100 種類の新しい背景素材などのボーナスコレクションが付属。
 
+<!-- end list -->
+
+  - PaintShop Pro 2021
+    2020年9月3日発売\[41\]。
+
 ## [廉価版](../Page/廉価版.md "wikilink")
 
   - Paint Shop Pro Lite
-    2001年7月25日、[デジキューブ](../Page/デジキューブ.md "wikilink")より発売\[41\]。コンビニで2980円で販売された。内容はPaint Shop Pro 5J相当の製品。
+    2001年7月25日、[デジキューブ](../Page/デジキューブ.md "wikilink")より発売\[42\]。コンビニで2980円で販売された。内容はPaint Shop Pro 5J相当の製品。
 
 <!-- end list -->
 
   - Paint Shop Proパーソナル
-    2006年7月21日、[ソースネクスト](../Page/ソースネクスト.md "wikilink")より発売\[42\]。Paint Shop Pro 9を改題したもの。
+    2006年7月21日、[ソースネクスト](../Page/ソースネクスト.md "wikilink")より発売\[43\]。Paint Shop Pro 9を改題したもの。
 
 <!-- end list -->
 
   - PaintShop Photo Express 2010
     2009年10月9日、[Digital Studio](https://ja.wikipedia.org/wiki/Digital_Studio "wikilink") 2010に含まれているアプリケーションのひとつとしてリリース。ダウンロード版としてのみ単体でも販売。
-    画像や動画の整理とバックアップが基本で、傾き補正ツール、トリミングツール、自動修正、ピクチャーチューブ、メークオーバーツールなどが搭載されている。[Windows タッチ](https://ja.wikipedia.org/wiki/Microsoft_Windows_7#シェルとユーザインタフェース "wikilink") \[43\]に対応しており、整理時の拡大縮小、傾き補正時の傾きなどで体験できる。
+    画像や動画の整理とバックアップが基本で、傾き補正ツール、トリミングツール、自動修正、ピクチャーチューブ、メークオーバーツールなどが搭載されている。[Windows タッチ](https://ja.wikipedia.org/wiki/Microsoft_Windows_7#シェルとユーザインタフェース "wikilink") \[44\]に対応しており、整理時の拡大縮小、傾き補正時の傾きなどで体験できる。
 
 <!-- end list -->
 
   - PaintShop Pro 2018 Essentials
-    単体でパッケージ製品としては販売されていないが、2019年3月から5月に[I-O DATAから発売されたSD](https://ja.wikipedia.org/wiki/I-O_DATA "wikilink")/microSDカード「SDH-TRシリーズ/SDU1-Rシリーズ/MSDU1-Rシリーズ/SDMCH-WRシリーズ/SDH-WRシリーズ/SDU3-Rシリーズ/SDH-UTRシリーズ」に付属する形で提供された機能限定版\[44\]\[45\]。
+    単体でパッケージ製品としては販売されていないが、2019年3月から5月に[I-O DATAから発売されたSD](https://ja.wikipedia.org/wiki/I-O_DATA "wikilink")/microSDカード「SDH-TRシリーズ/SDU1-Rシリーズ/MSDU1-Rシリーズ/SDMCH-WRシリーズ/SDH-WRシリーズ/SDU3-Rシリーズ/SDH-UTRシリーズ」に付属する形で提供された機能限定版\[45\]\[46\]。
 
 ## 脚注
 
@@ -313,3 +318,4 @@ Paintshopの標準のブラシツールはpspbrush形式であるが、Adobe Pho
 43.
 44.
 45.
+46.

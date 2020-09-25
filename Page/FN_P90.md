@@ -25,13 +25,13 @@
 
 ### 弾薬
 
-[right](https://ja.wikipedia.org/wiki/ファイル:57lineup.jpg "wikilink") 本銃は既存の[短機関銃](../Page/短機関銃.md "wikilink")のような[拳銃](../Page/拳銃.md "wikilink")弾ではなく、新規開発された[5.7x28mm弾](../Page/5.7x28mm弾.md "wikilink")を使用する。これは、[弾頭](../Page/弾頭.md "wikilink")先端の尖ったボトルネック構造で、[小銃](../Page/小銃.md "wikilink")用[実包](../Page/実包.md "wikilink")をそのまま縮小したような形状となっている\[6\]。同じ[弾薬](../Page/弾薬.md "wikilink")を使用する拳銃として、[FN Five-seveNが製造されている](../Page/FN_Five-seveN.md "wikilink")\[7\]。一方ライバルの[H\&K　MP7のサイドアームとして作られたH](../Page/H&K_MP7.md "wikilink")\&K　P46は十分な性能を得られないという理由で白紙になっている。
+[right](https://ja.wikipedia.org/wiki/ファイル:57lineup.jpg "wikilink") 本銃は既存の[短機関銃](../Page/短機関銃.md "wikilink")のような[拳銃](../Page/拳銃.md "wikilink")弾ではなく、新規開発された[5.7x28mm弾](../Page/5.7x28mm弾.md "wikilink")を使用する。これは、[弾頭](../Page/弾頭.md "wikilink")先端の尖ったボトルネック構造で、[小銃](../Page/小銃.md "wikilink")用[実包](../Page/実包.md "wikilink")をそのまま縮小したような形状となっている\[6\]。同じ[弾薬](../Page/弾薬.md "wikilink")を使用する拳銃として、[FN Five-seveNが製造されている](../Page/FN_Five-seveN.md "wikilink")\[7\]。一方ライバルの[H\&K MP7のサイドアームとして作られたH](../Page/H&K_MP7.md "wikilink")\&K P46は十分な性能を得られないという理由で白紙になっている。
 
 5.7x28mm弾は[小口径で](../Page/口径.md "wikilink")、弾体も軽量で破壊力そのものはライフル用弾薬に劣るが、初速が高く[運動エネルギー](../Page/運動エネルギー.md "wikilink")を狭い範囲に集中させることから、剛体に対してはライフル弾並みの貫通力を発揮し、150メートル先の[ボディアーマー](../Page/ボディアーマー.md "wikilink")（[NIJ規格](../Page/NIJ規格.md "wikilink")レベルIIIA以下のもの）を貫通する。
 
 [弾丸](../Page/弾丸.md "wikilink")の構造と比重から、人体などの軟体に着弾した場合、内部で弾頭が乱回転して運動エネルギーを対象内に放出し、貫通せずに周辺の組織を大きく破壊するため、[ストッピングパワー](../Page/ストッピングパワー.md "wikilink")に優れるとされ\[8\]、また、目標内で弾丸が停止することにより、跳弾や貫通弾による[人質](../Page/人質.md "wikilink")や周囲の物品への二次被害防止に繋がっている。
 
-弾薬の[火薬](../Page/火薬.md "wikilink")量は拳銃並みであり、弾頭重量の軽さから反動は少なく、[FN社は](../Page/FNハースタル.md "wikilink")[9x19mmパラベラム弾](../Page/9x19mmパラベラム弾.md "wikilink")弾薬の60%程度まで反動を軽減したとしている。月刊Gun誌のレポートでは[22LRを僅かに上回る程度と評している](https://ja.wikipedia.org/wiki/.22ロングライフル弾 "wikilink")\[9\]。
+弾薬の[火薬](../Page/火薬.md "wikilink")量は拳銃並みであり、弾頭重量の軽さから反動は少なく、[FN社は](../Page/FNハースタル.md "wikilink")[9x19mmパラベラム弾](../Page/9x19mmパラベラム弾.md "wikilink")弾薬の60%程度まで反動を軽減したとしている。『月刊Gun』誌のレポートでは[.22LR弾を僅かに上回る程度と評している](https://ja.wikipedia.org/wiki/.22ロングライフル弾 "wikilink")\[9\]。
 
 ### 実績
 

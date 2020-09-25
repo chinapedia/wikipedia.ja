@@ -114,7 +114,7 @@
 ### スタッフ
 
   - プロデューサー…岡部紳二（テレビ東京）　山鹿達也（テレビ東京）　大久保智己
-  - 脚本…山浦雅大
+  - 脚本…[山浦雅大](../Page/山浦雅大.md "wikilink")
   - 監督…池澤辰也　村上牧人
   - 音楽…五十嵐由美
   - 撮影…布川潤一
@@ -138,6 +138,6 @@
 
 ## 外部リンク
 
-  - [Xenos クセノス](http://www.tv-tokyo.co.jp/xenos) - ドラマ公式サイト
+  - [Xenos クセノス](https://www.tv-tokyo.co.jp/xenos/) - ドラマ公式サイト
 
 [Category:漫画作品_く](https://ja.wikipedia.org/wiki/Category:漫画作品_く "wikilink") [Category:ヤングチャンピオン](https://ja.wikipedia.org/wiki/Category:ヤングチャンピオン "wikilink") [Category:2007年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2007年のテレビドラマ "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:テレパックのテレビドラマ](https://ja.wikipedia.org/wiki/Category:テレパックのテレビドラマ "wikilink") [Category:ドラマ24](https://ja.wikipedia.org/wiki/Category:ドラマ24 "wikilink")

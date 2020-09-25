@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[浙江省](../Page/浙江省.md "wikilink")[寧波市](../Page/寧波市.md "wikilink")出身で[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[テキサス・インスツルメンツ](../Page/テキサス・インスツルメンツ.md "wikilink")の上級副社長だった（モリス・チャン）が[孫運セン](../Page/孫運セン.md "wikilink")に招かれた[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")で創業し\[2\]\[3\]、[2002年](../Page/2002年.md "wikilink")には半導体生産トップ10、[2014年](../Page/2014年.md "wikilink")には半導体売り上げ3位に入り、初めて全世界のファウンドリチップ製造量の半分を超え\[4\]、世界最大の半導体製造ファウンドリとなった。2017年のファウンドリ市場シェアは55.9%\[5\]。[台湾証券取引所](../Page/台湾証券取引所.md "wikilink")、[ニューヨーク証券取引所](../Page/ニューヨーク証券取引所.md "wikilink")に上場している。
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[浙江省](../Page/浙江省.md "wikilink")[寧波市](../Page/寧波市.md "wikilink")出身で[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[テキサス・インスツルメンツ](../Page/テキサス・インスツルメンツ.md "wikilink")の上級副社長だった（モリス・チャン）が[孫運璿](../Page/孫運璿.md "wikilink")に招かれた[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")で創業し\[2\]\[3\]、[2002年](../Page/2002年.md "wikilink")には半導体生産トップ10、[2014年](../Page/2014年.md "wikilink")には半導体売り上げ3位に入り、初めて全世界のファウンドリチップ製造量の半分を超え\[4\]、世界最大の半導体製造ファウンドリとなった。2017年のファウンドリ市場シェアは55.9%\[5\]。[台湾証券取引所](../Page/台湾証券取引所.md "wikilink")、[ニューヨーク証券取引所](../Page/ニューヨーク証券取引所.md "wikilink")に上場している。
 
 顧客企業は[クアルコム](../Page/クアルコム.md "wikilink")、[AMD](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")、[NVIDIA](../Page/NVIDIA.md "wikilink")、[アップル](../Page/アップル_\(企業\).md "wikilink")、[ファーウェイ](../Page/ファーウェイ.md "wikilink")などで、製造ラインを持たない企業（[ファブレス](../Page/ファブレス.md "wikilink")）が多く、数百社に上る。
 
@@ -20,7 +20,7 @@
   - 中国事業
       - TSMC中国、東中国事務所（[上海](../Page/上海市.md "wikilink")）
       - 北中国事務所（[北京](../Page/北京市.md "wikilink")）
-      - 南中国事務所（[深圳](../Page/深セン市.md "wikilink")）
+      - 南中国事務所（[深圳](../Page/深圳市.md "wikilink")）
   - TSMC韓国（[ソウル](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")）
   - TSMCインド連絡事務所（[バンガロール](https://ja.wikipedia.org/wiki/バンガロール "wikilink")）
   - TSMCデザインテクノロジーカナダ（[オタワ](../Page/オタワ.md "wikilink")）

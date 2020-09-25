@@ -1,7 +1,7 @@
 > この記事は[Almost in love](https://ja.wikipedia.org/wiki/Almost_in_love)から翻訳されています。
 
 
-「**almost in love**」（オールモスト・イン・ラヴ）は、[2005年](../Page/2005年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")に発売された[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")の通算16枚目のシングル。 発売元は、[デフスターレコーズ](../Page/デフスターレコーズ.md "wikilink")。
+「**almost in love**」（オールモスト・イン・ラヴ）は、[2005年](../Page/2005年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")に発売された[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")の16枚目のシングル。発売元は、[デフスターレコーズ](../Page/デフスターレコーズ.md "wikilink")。
 
 ## 解説
 

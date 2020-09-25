@@ -74,4 +74,4 @@
   - レンジ星
     サクナと荻窪の母星。詳細は不明だが、少なくとも地球より技術は進んでいる模様。若くてエロカッコイイ人がモテるらしい。
 
-[Category:漫画作品_れ](https://ja.wikipedia.org/wiki/Category:漫画作品_れ "wikilink") [Category:週刊少年サンデーの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年サンデーの漫画作品 "wikilink")
+[Category:漫画作品_れ](https://ja.wikipedia.org/wiki/Category:漫画作品_れ "wikilink") [Category:週刊少年サンデーの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年サンデーの漫画作品 "wikilink") [Category:2006年の漫画](https://ja.wikipedia.org/wiki/Category:2006年の漫画 "wikilink") [Category:スーパーヒーローを題材とした漫画](https://ja.wikipedia.org/wiki/Category:スーパーヒーローを題材とした漫画 "wikilink")

@@ -10,7 +10,7 @@
 ## 出演
 
   - 暗雷…[玉木宏](https://ja.wikipedia.org/wiki/玉木宏 "wikilink")
-  - 遊女…[水川あさみ](https://ja.wikipedia.org/wiki/水川あさみ "wikilink")
+  - 月音(遊女)…[水川あさみ](https://ja.wikipedia.org/wiki/水川あさみ "wikilink")
   - ピストル愛次郎…[陣内孝則](../Page/陣内孝則.md "wikilink")
   - 虎走六…[虎牙光揮](../Page/虎牙光揮.md "wikilink")
   - 皮舌雨舌…[篠井英介](../Page/篠井英介.md "wikilink")

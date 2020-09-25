@@ -5,7 +5,7 @@
 
 ## 概要
 
-[新宿区役所](https://ja.wikipedia.org/wiki/新宿区役所 "wikilink")の裏手にある[ビル](https://ja.wikipedia.org/wiki/ビルディング "wikilink")\[5\]の2階で営業していた\[6\]。新宿には2015年時点で合計3つのストリップ劇場（[新宿ニューアート](https://ja.wikipedia.org/wiki/新宿ニューアート "wikilink")、[DX歌舞伎町](https://ja.wikipedia.org/wiki/DX歌舞伎町 "wikilink")および当劇場）が存在していたが、その中では当劇場が最も古かった\[7\] 。
+[新宿区役所](https://ja.wikipedia.org/wiki/新宿区役所 "wikilink")の裏手にある[ビル](https://ja.wikipedia.org/wiki/ビルディング "wikilink")\[5\]の2階で営業していた\[6\]。新宿には2015年時点で合計3つのストリップ劇場（[新宿ニューアート](https://ja.wikipedia.org/wiki/新宿ニューアート "wikilink")、[DX歌舞伎町](../Page/DX歌舞伎町.md "wikilink")および当劇場）が存在していたが、その中では当劇場が最も古かった\[7\] 。
 
 1日あたり6-8名のストリッパーが出演していた\[8\]。[ステージ](https://ja.wikipedia.org/wiki/ステージ "wikilink")の構造は、[池袋ミカド劇場](../Page/池袋ミカド劇場.md "wikilink")に類似した[長方形](../Page/長方形.md "wikilink")のデベソ（盆）だが、中央部に[ポール](../Page/ポール.md "wikilink")が設けられていた。
 
@@ -21,9 +21,9 @@
 
 ## 関連項目
 
-  - [シアター上野](../Page/シアター上野.md "wikilink")（姉妹系列の劇場）
-  - [DX歌舞伎町](https://ja.wikipedia.org/wiki/DX歌舞伎町 "wikilink")（同じ歌舞伎町内に存在する劇場）
-  - [新宿ニューアート](https://ja.wikipedia.org/wiki/ロック座#系列店 "wikilink")（同じ歌舞伎町内に存在する劇場）
+  - [シアター上野](../Page/シアター上野.md "wikilink") - 姉妹系列の劇場
+  - [DX歌舞伎町](../Page/DX歌舞伎町.md "wikilink") - 同じ歌舞伎町内に存在した劇場、2019年閉館
+  - [新宿ニューアート](https://ja.wikipedia.org/wiki/ロック座#系列店 "wikilink") - 同じ歌舞伎町内に存在する劇場
 
 ## 外部リンク
 

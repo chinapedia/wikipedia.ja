@@ -187,9 +187,9 @@
 <tr class="odd">
 <td><p>22</p></td>
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a>8月28日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/かけぬけ★青春スパーキング!" title="wikilink">かけぬけ★青春スパーキング!</a></strong>[5]</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/かけぬけ★青春スパーキング!" title="wikilink">かけぬけ★青春スパーキング!</a></strong>[5]<ref>{{Cite web|url=<a href="https://www.tgsmart.jp/article.aspx?a=28512%7Ctitle=【TG">https://www.tgsmart.jp/article.aspx?a=28512|title=【TG</a> Leaks】TG10月号8/21（金）発売！　SAGA PLANETS最新作『かけぬけ★青春スパーキング！』を表紙＆スタッフインタビューで大特集</p></td>
+<td><p>|accessdate=2020-08-19|website=|publisher=<a href="../Page/TECH_GIAN.md" title="wikilink">TECH GIAN</a>|language=ja}}</ref></p></td>
 <td><p>ほんたにかなえ、とらのすけ、有末つかさ、ぴこぴこぐらむ (SD)</p></td>
-<td><p>瀬尾順、砥石大樹、保住圭、にっし～、モーリー</p></td>
 </tr>
 </tbody>
 </table>

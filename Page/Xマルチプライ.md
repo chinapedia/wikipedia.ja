@@ -1,7 +1,7 @@
 > この記事は[Xマルチプライ](https://ja.wikipedia.org/wiki/Xマルチプライ)から翻訳されています。
 
 
-『**X MULTIPLY**』（エックスマルチプライ）は、[1989年](../Page/1989年.md "wikilink")に[アイレムから稼働された](https://ja.wikipedia.org/wiki/アイレムソフトウェアエンジニアリング "wikilink")[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")専用オリジナルメカ[横スクロールシューティングゲームである](../Page/シューティングゲーム.md "wikilink")。タイトル画面では「**X∞**」とも表記されている。
+『**X MULTIPLY**』（エックスマルチプライ）は、[1989年](../Page/1989年.md "wikilink")に[アイレムから稼働された](https://ja.wikipedia.org/wiki/アイレムソフトウェアエンジニアリング "wikilink")[アーケード用](../Page/アーケードゲーム.md "wikilink")[横スクロールシューティングゲームである](../Page/シューティングゲーム.md "wikilink")。タイトル画面では「**X∞**」とも表記されている。
 
 同社のヒット作である『[R-TYPE](../Page/R-TYPE.md "wikilink")』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）及び『[R-TYPE II](../Page/R-TYPE_II.md "wikilink")』（[1989年](../Page/1989年.md "wikilink")）の実質的続編として製作されたと言われる。『R-TYPE』の[フォースに代わるバリエーションとして自機から](https://ja.wikipedia.org/wiki/R-TYPE#フォース "wikilink")2本の[触手](../Page/触手.md "wikilink")を生やし、それを自機の移動によって操ると言うアイデアが盛り込まれている。
 
@@ -155,8 +155,7 @@
 
   - [ハムスターアーケードアーカイブス公式サイト Xマルチプライ（Nintendo Switch版）](http://www.hamster.co.jp/arcadearchives/switch/x_multiply.htm)
 
-  - （英語）
-
+  -
 [Category:1989年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1989年のアーケードゲーム "wikilink") [Category:SFコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:SFコンピュータゲーム "wikilink") [Category:アイレムのゲームソフト](https://ja.wikipedia.org/wiki/Category:アイレムのゲームソフト "wikilink") [Category:エクシングのゲームソフト](https://ja.wikipedia.org/wiki/Category:エクシングのゲームソフト "wikilink") [Category:アーケードアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:アーケードアーカイブス対応ソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:人間の巨大化・縮小化を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:人間の巨大化・縮小化を題材としたコンピュータゲーム "wikilink") [Category:人間の体内を舞台とした作品](https://ja.wikipedia.org/wiki/Category:人間の体内を舞台とした作品 "wikilink") [Category:ホラーゲーム](https://ja.wikipedia.org/wiki/Category:ホラーゲーム "wikilink") [Category:横スクロールシューティングゲーム](https://ja.wikipedia.org/wiki/Category:横スクロールシューティングゲーム "wikilink")
 
 1.

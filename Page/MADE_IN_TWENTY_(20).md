@@ -18,40 +18,63 @@
 ### CD
 
 1.  **Lady Galaxy**
+      -
+        作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")／作曲：[田中直](https://ja.wikipedia.org/wiki/田中直 "wikilink")
 2.  **[七色の明日 〜brand new beat〜](https://ja.wikipedia.org/wiki/七色の明日_〜brand_new_beat〜/Your_Color "wikilink")**
       -
+        作詞：BoA・MIZUE、作曲：[野井洋児](https://ja.wikipedia.org/wiki/野井洋児 "wikilink")、編曲：今井大介・[Chikara "Ricky" Hazama](https://ja.wikipedia.org/wiki/RICKY "wikilink")
         20thシングル。
         [コーセー](../Page/コーセー.md "wikilink")「Fasio」CMソング
 3.  **[Winter Love](../Page/Winter_Love.md "wikilink")**
+      - 作詞：[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")／作曲・編曲：[ats-](https://ja.wikipedia.org/wiki/ats- "wikilink")
+    <!-- end list -->
       -
         22ndシングル。
         [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[全国ネット](https://ja.wikipedia.org/wiki/全国ネット "wikilink")「[恋愛部活](../Page/恋愛部活.md "wikilink")」エンディングテーマ／[エムティーアイ](../Page/エムティーアイ.md "wikilink")「[music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink")」TV-CFソング／[HOT FANTASY ODAIBA 2006-2007イメージソング](https://ja.wikipedia.org/wiki/HOT☆FANTASY_ODAIBA "wikilink")
 4.  **STILL.**
+      -
+        作詞：Satomi／作曲：velvetronica
 5.  **SO REAL**
       -
+        作詞：Grass HOPPER／作曲：Masaki Asada
         [東芝](../Page/東芝.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")「[W52T](../Page/W52T.md "wikilink")([au](../Page/Au_\(携帯電話\).md "wikilink"))」TVCMタイアップソング
 6.  **[KEY OF HEART](https://ja.wikipedia.org/wiki/KEY_OF_HEART/DOTCH "wikilink")**
+      - 作詞：[Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink")／作曲・編曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
+    <!-- end list -->
       -
         21stシングル。
         [映画](../Page/映画.md "wikilink")「[森のリトル・ギャング](../Page/森のリトル・ギャング.md "wikilink")」日本語版[主題歌](../Page/主題歌.md "wikilink")／エムティーアイ「music.jp」TV-CFソング
 7.  **OUR LOVE 〜to my parents〜**
       -
+        作詞：BoA／作曲：Taishi Fukuyama
         本来は前作「OUTGROW」に収録予定だったBoA作詞の曲。
 8.  **no more make me sick**
       -
+        作詞：BoA・MIZUE／作曲：BoA・AKIRA
         今作の中で唯一、BoAが作詞・作曲両方に加わっている曲である。
 9.  **Revolution-CODE:1986-1105 Feat.RAH-D**
+      -
+        作詞：Kenn Kato／作曲：今井大介
 10. **[Your Color](https://ja.wikipedia.org/wiki/七色の明日_〜brand_new_beat〜/Your_Color "wikilink")**
       -
+        作詞：[Satomi](../Page/Satomi.md "wikilink")、作曲：[山口寛雄](https://ja.wikipedia.org/wiki/山口寛雄 "wikilink")、編曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
         20thシングル。
         「NINETY-NINE NIGHTS」テーマソング
 11. **Prayer**
+      -
+        作詞：[Ryoji Sonoda](https://ja.wikipedia.org/wiki/Ryoji_Sonoda "wikilink")／作曲：Takuya Harada・JUNKOO
 12. **[Candle Lights](../Page/Winter_Love.md "wikilink")**
+      - 作詞：Emi K. Lynn／作曲：JUNKOO、原田卓也／編曲：原田卓也
+    <!-- end list -->
       -
         22ndシングルのカップリング曲。
         映画「[百万長者の初恋](https://ja.wikipedia.org/wiki/百万長者の初恋 "wikilink")」日本版エンディング曲
 13. **Gracious Days**
+      -
+        作詞：Ryoji Sonoda／作曲：[Kazuhiro Hara](../Page/原一博.md "wikilink")
 14. **[LAST CHRISTMAS](../Page/ラスト・クリスマス_\(ワム!の曲\).md "wikilink")**（Bonus track）
+      - 作詞・作曲：[George Michael](../Page/ジョージ・マイケル.md "wikilink")／編曲：[安部潤](../Page/安部潤.md "wikilink")
+    <!-- end list -->
       -
         22ndシングルの初回盤ボーナストラックとしても収録された[ワム\!](../Page/ワム!.md "wikilink")の[カバー](../Page/カバー.md "wikilink")。
 15. **Winter Love (Live Ver.)**（Bonus track）

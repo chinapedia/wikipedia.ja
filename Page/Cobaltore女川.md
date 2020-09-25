@@ -5,23 +5,23 @@
 
 ## 概要
 
-2006年4月、スポーツを通じた町作りを目指す「女川スポーツコミュニティー構想」に基づいて創設された。クラブ名の**Cobaltore**（コバルトーレ）は、「女川の青い海」（「コバルトブルー」）と、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")で森を意味する「フォーレ」より取られた造語である\[1\]。
+2006年4月、スポーツを通じた町作りを目指す「**女川スポーツコミュニティー構想**」に基づいて創設された。クラブ名の**Cobaltore**（コバルトーレ）は、「女川の青い海」（「コバルトブルー」）と、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")で森を意味する「フォーレ」より取られた造語である\[1\]。
 
 ホームスタジアムは[女川町総合運動公園](../Page/女川町総合運動公園.md "wikilink")陸上競技場であったが、2012年以降[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")に伴う災害公営住宅建設予定地に充当されたことから、2014年からは同じ女川町総合運動公園の町民第2多目的運動場（同年人工芝に改修\[2\]）を使用している。なお、2018年のJFLでは第2運動場が人工芝でありJFLでは使用できないため、[石巻フットボール場](../Page/石巻フットボール場.md "wikilink")、[みやぎ生協めぐみ野サッカー場の](../Page/宮城県サッカー場.md "wikilink")2か所をメインとして、[ひとめぼれスタジアム宮城](../Page/宮城スタジアム.md "wikilink")、[角田市陸上競技場](https://ja.wikipedia.org/wiki/角田市陸上競技場 "wikilink")を使用した。
 
-女川町では将来のJ3昇格を念頭に置いた天然芝の球技専用スタジアム建設の計画があり、上記の女川町総合運動公園に近い清水地区の住宅地跡に5000人（うち座席1000人、残りは芝生席）程度収容規模のスタンドを設置したスタジアムで、2020年春に完成する予定である\[3\]。
+女川町では将来のJ3昇格を念頭に置いた天然芝の球技専用スタジアム建設の計画があり、上記の女川町総合運動公園に近い清水地区の住宅地跡に5000人（うち座席1000人、残りは芝生席）程度収容規模のスタンドを設置したスタジアムで、2020年春に完成する予定であった\[3\]が計画は遅れ、2020年3月28日の時点では更地のままとなっていた\[4\]。同年4月に着工、2021年3月に完成する予定\[5\]。
 
 ## 歴史
 
 [2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に創設され、初代監督に元日本代表主将の[藤島信雄](../Page/藤島信雄.md "wikilink")が就任。[2007年](../Page/2007年.md "wikilink")に[宮城県社会人サッカーリーグ](https://ja.wikipedia.org/wiki/宮城県社会人サッカーリーグ "wikilink")へ、2008年に[東北社会人サッカーリーグ](../Page/東北社会人サッカーリーグ.md "wikilink")2部南へ昇格。[2009年](../Page/2009年.md "wikilink")は東北リーグ2部南で初優勝し、2部リーグ優勝決定戦でも総合優勝して、2010年より東北1部に昇格したが最下位となり1年で降格。
 
-[2011年](../Page/2011年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")に発生した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")により女川町は大きな被害に遭った。選手全員の無事は確認されたが\[4\]、クラブハウスと選手寮として使用していた建物が損壊し、チームは活動を1年間休止し地域貢献活動に取り組んだ\[5\]\[6\]。
+[2011年](../Page/2011年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")に発生した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")により女川町は大きな被害に遭った。選手全員の無事は確認されたが\[6\]、クラブハウスと選手寮として使用していた建物が損壊し、チームは活動を1年間休止し地域貢献活動に取り組んだ\[7\]\[8\]。
 
 [2012年](../Page/2012年.md "wikilink")[東北社会人サッカーリーグ](../Page/東北社会人サッカーリーグ.md "wikilink")2部南に復帰して2位の成績。東北2部北2位の[ヴァンラーレ八戸](../Page/ヴァンラーレ八戸.md "wikilink")との昇格戦に敗れたが、東北1部1位の[福島ユナイテッドFC](../Page/福島ユナイテッドFC.md "wikilink")が[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")（JFL）に昇格した為、東北1部に昇格した。
 
-[2016年](../Page/2016年.md "wikilink")は東北リーグ1部で初優勝。[全国地域サッカーチャンピオンズリーグ2016](https://ja.wikipedia.org/wiki/全国地域サッカーチャンピオンズリーグ2016 "wikilink")に初出場したがグループリーグで敗退。2017年も東北リーグ1部で2年連続優勝。[全国地域サッカーチャンピオンズリーグ2017](https://ja.wikipedia.org/wiki/全国地域サッカーチャンピオンズリーグ2017 "wikilink")はグループCで2位。ワイルドカード（各組2位の最上位成績）で決勝リーグに進み、3戦全勝（内、PK勝ち2試合）で優勝した\[7\]。12月6日の[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")（JFL）理事会で[2018年度からのJFL入会が承認された](https://ja.wikipedia.org/wiki/第20回日本フットボールリーグ "wikilink")\[8\]。
+[2016年](../Page/2016年.md "wikilink")は東北リーグ1部で初優勝。[全国地域サッカーチャンピオンズリーグ2016](https://ja.wikipedia.org/wiki/全国地域サッカーチャンピオンズリーグ2016 "wikilink")に初出場したがグループリーグで敗退。2017年も東北リーグ1部で2年連続優勝。[全国地域サッカーチャンピオンズリーグ2017](https://ja.wikipedia.org/wiki/全国地域サッカーチャンピオンズリーグ2017 "wikilink")はグループCで2位。ワイルドカード（各組2位の最上位成績）で決勝リーグに進み、3戦全勝（内、PK勝ち2試合）で優勝した\[9\]。12月6日の[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")（JFL）理事会で[2018年度からのJFL入会が承認された](https://ja.wikipedia.org/wiki/第20回日本フットボールリーグ "wikilink")\[10\]。
 
-2018年、1stステージは13位。2ndステージは2分13敗で最下位。通年でもJFL最下位に終わった。12月6日、JFL理事会で2019年度からの東北リーグ降格が承認された\[9\]。
+2018年、1stステージは13位。2ndステージは2分13敗で最下位。通年でもJFL最下位に終わった。12月6日、JFL理事会で2019年度からの東北リーグ降格が承認された\[11\]。
 
 ## ホームスタジアム
 
@@ -55,6 +55,12 @@
 <td><p>3</p></td>
 <td><p>2</p></td>
 </tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -77,17 +83,24 @@
 | [2017](https://ja.wikipedia.org/wiki/2017年の地域リーグ_\(サッカー\)#東北 "wikilink") | **優勝**                                                                               | 49                                                    | 18 | 16 | 1  | 1 | 73 | 10  | 63 |                                                       |                                                                |                                    |
 | [2018](https://ja.wikipedia.org/wiki/第20回日本フットボールリーグ "wikilink")         | [JFL](../Page/日本フットボールリーグ.md "wikilink")                                             | 16位                                                   | 17 | 30 | 4  | 5 | 21 | 19  | 68 | \-49                                                  | [村田達哉](../Page/村田達哉.md "wikilink")                             |                                    |
 | [2019](https://ja.wikipedia.org/wiki/2019年の地域リーグ_\(サッカー\)#東北 "wikilink") | 東北1部                                                                                 | 3位                                                    | 40 | 18 | 12 | 4 | 2  | 52  | 15 | 37                                                    | [阿部裕二](https://ja.wikipedia.org/wiki/阿部裕二 "wikilink")          |                                    |
-| [2020](https://ja.wikipedia.org/wiki/2020年の地域リーグ_\(サッカー\) "wikilink")    | 位                                                                                    |                                                       | 18 |    |    |   |    |     |    |                                                       |                                                                |                                    |
+| [2020](../Page/2020年の地域リーグ_\(サッカー\).md "wikilink")                       | 位                                                                                    |                                                       | 9  |    |    |   |    |     |    |                                                       |                                                                |                                    |
 |                                                                          |                                                                                      |                                                       |    |    |    |   |    |     |    |                                                       |                                                                |                                    |
+
+  - 注釈
 
 ## タイトル
 
-  - **[全国地域サッカーチャンピオンズリーグ](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")**
-      - 1回：[2017](https://ja.wikipedia.org/wiki/全国地域サッカーチャンピオンズリーグ2017 "wikilink")
+### リーグ戦
+
   - **[東北社会人サッカーリーグ](../Page/東北社会人サッカーリーグ.md "wikilink")1部**
       - 2回：2016, 2017
   - **東北社会人サッカーリーグ2部南**
       - 1回：2009
+
+### カップ戦
+
+  - **[全国地域サッカーチャンピオンズリーグ](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")**
+      - 1回：[2017](https://ja.wikipedia.org/wiki/全国地域サッカーチャンピオンズリーグ2017 "wikilink")
 
 ## アカデミー
 
@@ -171,31 +184,31 @@
 <td><p><strong>GK</strong></p></td>
 <td><p><strong>1</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/木村憩輔" title="wikilink">木村憩輔</a></p></td>
-<td><p>歳</p></td>
+<td></td>
 <td><p><a href="../Page/FCガンジュ岩手.md" title="wikilink">FCガンジュ岩手</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>21</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/石塚亮" title="wikilink">石塚亮</a></p></td>
-<td><p>歳</p></td>
+<td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士大学サッカー部" title="wikilink">富士大学</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>41</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/野坂浩亮" title="wikilink">野坂浩亮</a></p></td>
-<td><p>歳</p></td>
-<td><p><a href="../Page/ラインメール青森.md" title="wikilink">ラインメール青森</a>FC</p></td>
+<td><p><strong>31</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/加藤聖士" title="wikilink">加藤聖士</a></p></td>
+<td></td>
+<td><p><a href="../Page/酪農学園大学附属とわの森三愛高等学校.md" title="wikilink">酪農大附とわの森三愛高校</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>--</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/加藤聖士" title="wikilink">加藤聖士</a></p></td>
-<td><p>歳</p></td>
-<td><p><a href="../Page/酪農学園大学附属とわの森三愛高等学校.md" title="wikilink">酪農学園大学附属とわの森三愛高校</a></p></td>
+<td><p><strong>41</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/野坂浩亮" title="wikilink">野坂浩亮</a></p></td>
+<td></td>
+<td><p><a href="../Page/ラインメール青森.md" title="wikilink">ラインメール青森</a>FC</p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
@@ -209,66 +222,66 @@
 </tr>
 <tr class="odd">
 <td><p><strong>DF</strong></p></td>
-<td><p><strong>4</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宮坂瑠" title="wikilink">宮坂瑠</a> <a href="https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg" title="wikilink">18px</a></p></td>
-<td><p>歳</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/駒澤大学体育会サッカー部" title="wikilink">駒澤大学</a></p></td>
+<td><p><strong>3</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高橋海斗" title="wikilink">高橋海斗</a></p></td>
 <td></td>
+<td><p><a href="../Page/国士舘大学サッカー部.md" title="wikilink">国士舘大学</a></p></td>
+<td><p>新加入</p></td>
 </tr>
 <tr class="even">
+<td><p><strong>4</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/宮坂瑠" title="wikilink">宮坂瑠</a> <a href="https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg" title="wikilink">18px</a></p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/駒澤大学体育会サッカー部" title="wikilink">駒澤大学</a></p></td>
+<td><p>キャプテン</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><strong>5</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/舛沢樹" title="wikilink">舛沢樹</a></p></td>
-<td><p>歳</p></td>
+<td></td>
 <td><p><a href="../Page/ヴァンラーレ八戸.md" title="wikilink">ヴァンラーレ八戸</a>FC</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>6</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山内晴貴" title="wikilink">山内晴貴</a></p></td>
-<td><p>歳</p></td>
+<td></td>
 <td><p><a href="../Page/JAPANサッカーカレッジ.md" title="wikilink">JAPANサッカーカレッジ</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>15</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/菊地佑太" title="wikilink">菊地佑太</a></p></td>
-<td><p>歳</p></td>
+<td></td>
 <td><p><a href="../Page/ソルティーロ・アンコールFC.md" title="wikilink">ソルティーロ・アンコールFC</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>17</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/崔希正" title="wikilink">崔希正</a></p></td>
-<td><p>歳</p></td>
+<td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FC_KOREA" title="wikilink">FC KOREA</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>19</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/中村彦聖" title="wikilink">中村彦聖</a></p></td>
-<td><p>歳</p></td>
+<td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ハミルトン・ワンダラーズAFC" title="wikilink">ハミルトン・ワンダラーズAFC</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>24</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/橋本光晟" title="wikilink">橋本光晟</a></p></td>
-<td><p>歳</p></td>
+<td></td>
 <td><p>ヴァンラーレ八戸FC</p></td>
 <td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>--</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高橋海斗" title="wikilink">高橋海斗</a></p></td>
-<td><p>歳</p></td>
-<td><p><a href="../Page/国士舘大学サッカー部.md" title="wikilink">国士舘大学</a></p></td>
-<td><p>新加入</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -283,14 +296,14 @@
 <td><p><strong>MF</strong></p></td>
 <td><p><strong>7</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小川和也_(サッカー選手)" title="wikilink">小川和也</a></p></td>
-<td><p>歳</p></td>
-<td><p><a href="../Page/JAPANサッカーカレッジ.md" title="wikilink">JAPANサッカーカレッジ</a></p></td>
+<td></td>
+<td><p>JAPANサッカーカレッジ</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>8</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/嶺岸祐介" title="wikilink">嶺岸祐介</a></p></td>
-<td><p>歳</p></td>
+<td></td>
 <td><p><a href="../Page/アイン食品サッカー部.md" title="wikilink">アイン食品サッカー部</a></p></td>
 <td></td>
 <td></td>
@@ -298,7 +311,7 @@
 <tr class="even">
 <td><p><strong>10</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/池田幸樹" title="wikilink">池田幸樹</a></p></td>
-<td><p>歳</p></td>
+<td></td>
 <td><p>JAPANサッカーカレッジ</p></td>
 <td></td>
 <td></td>
@@ -306,7 +319,7 @@
 <tr class="odd">
 <td><p><strong>16</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山元佑哉" title="wikilink">山元佑哉</a></p></td>
-<td><p>歳</p></td>
+<td></td>
 <td><p>FCガンジュ岩手</p></td>
 <td><p>新加入</p></td>
 <td></td>
@@ -314,7 +327,7 @@
 <tr class="even">
 <td><p><strong>18</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/船木省吾" title="wikilink">船木省吾</a></p></td>
-<td><p>歳</p></td>
+<td></td>
 <td><p>JAPANサッカーカレッジ</p></td>
 <td><p>新加入</p></td>
 <td></td>
@@ -322,7 +335,7 @@
 <tr class="odd">
 <td><p><strong>20</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/遠藤一耀" title="wikilink">遠藤一耀</a></p></td>
-<td><p>歳</p></td>
+<td></td>
 <td><p><a href="../Page/東北生活文化大学高等学校.md" title="wikilink">東北生文大高校</a></p></td>
 <td></td>
 <td></td>
@@ -330,7 +343,7 @@
 <tr class="even">
 <td><p><strong>22</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/高橋晃司" title="wikilink">高橋晃司</a></p></td>
-<td><p>歳</p></td>
+<td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/仙台大学サッカー部" title="wikilink">仙台大学</a></p></td>
 <td></td>
 <td></td>
@@ -338,7 +351,7 @@
 <tr class="odd">
 <td><p><strong>23</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/吉田樹" title="wikilink">吉田樹</a></p></td>
-<td><p>歳</p></td>
+<td></td>
 <td><p></p></td>
 <td><p>新加入</p></td>
 <td></td>
@@ -346,92 +359,68 @@
 <tr class="even">
 <td><p><strong>25</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/武田晃平" title="wikilink">武田晃平</a></p></td>
-<td><p>歳</p></td>
+<td></td>
 <td><p>仙台大学</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><strong>26</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/黒田涼太" title="wikilink">黒田涼太</a></p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/FC刈谷.md" title="wikilink">FC刈谷</a></p></td>
+<td><p>再加入</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><strong>FW</strong></p></td>
 <td><p><strong>2</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/桑田大幹" title="wikilink">桑田大幹</a></p></td>
-<td><p>歳</p></td>
+<td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/福井ユナイテッドFC" title="wikilink">福井ユナイテッドFC</a></p></td>
 <td><p>新加入</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>9</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/千葉洸星" title="wikilink">千葉洸星</a></p></td>
-<td><p>歳</p></td>
+<td></td>
 <td><p>Cobaltore女川U-18</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p><strong>14</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉田圭_(サッカー選手)" title="wikilink">吉田圭</a></p></td>
-<td><p>歳</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/いずみクラブ" title="wikilink">いずみクラブ</a></p></td>
+<tr class="odd">
+<td><p><strong>11</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/野口龍也" title="wikilink">野口龍也</a></p></td>
 <td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ブリオベッカ浦安" title="wikilink">ブリオベッカ浦安</a></p></td>
+<td><p>再加入</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p><strong>--</strong></p></td>
+<tr class="even">
+<td><p><strong>13</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/竹田そら" title="wikilink">竹田そら</a></p></td>
-<td><p>歳</p></td>
+<td></td>
 <td><p><a href="../Page/同志社大学.md" title="wikilink">同志社大学</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p><strong>--</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/本庄竜大" title="wikilink">本庄竜大</a></p></td>
-<td><p>歳</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京ユナイテッドFC" title="wikilink">東京ユナイテッドFC</a></p></td>
-<td><p>新加入<br />
-<a href="../Page/期限付き移籍.md" title="wikilink">育成型期限付き移籍</a></p></td>
-<td></td>
-</tr>
 <tr class="odd">
+<td><p><strong>14</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/吉田圭_(サッカー選手)" title="wikilink">吉田圭</a></p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/いずみクラブ" title="wikilink">いずみクラブ</a></p></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### 期限付き移籍加入の選手
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>Pos</p></td>
-<td><p>選手名</p></td>
-<td><p>生年月日</p></td>
-<td><p>移籍元</p></td>
-<td><p>移籍期間</p></td>
-<td><p>備考</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>FW</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/本庄竜大" title="wikilink">本庄竜大</a></p></td>
-<td></td>
-<td><p><a href="../Page/栃木SC.md" title="wikilink">栃木SC</a></p></td>
-<td><p>2020年2月27日 - 2021年1月31日</p></td>
-<td><p>育成型期限付き移籍</p></td>
-</tr>
-<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -463,60 +452,68 @@
 |      |                                                                     |                                                         |                                                       |                                                       |                                                       |                                                       |                                                       |                                                       |                                                       |
 | ---- | ------------------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
 | |1   | 2                                                                   | 3                                                       | 4                                                     | 5                                                     | 6                                                     | 7                                                     | 8                                                     | 9                                                     | 10                                                    |
-| 2019 | [木村憩輔](https://ja.wikipedia.org/wiki/木村憩輔 "wikilink")               | [小田切啓](https://ja.wikipedia.org/wiki/小田切啓 "wikilink")   | [及川陸](https://ja.wikipedia.org/wiki/及川陸 "wikilink")   | [宮坂瑠](https://ja.wikipedia.org/wiki/宮坂瑠 "wikilink")   | [舛沢樹](https://ja.wikipedia.org/wiki/舛沢樹 "wikilink")   | [山内晴貴](https://ja.wikipedia.org/wiki/山内晴貴 "wikilink") | [小川和也](https://ja.wikipedia.org/wiki/小川和也 "wikilink") | [嶺岸祐介](https://ja.wikipedia.org/wiki/嶺岸祐介 "wikilink") | [千葉洸星](https://ja.wikipedia.org/wiki/千葉洸星 "wikilink") |
+| 2020 | [木村憩輔](https://ja.wikipedia.org/wiki/木村憩輔 "wikilink")               | [桑田大幹](https://ja.wikipedia.org/wiki/桑田大幹 "wikilink")   | [高橋海斗](https://ja.wikipedia.org/wiki/高橋海斗 "wikilink") | [宮坂瑠](https://ja.wikipedia.org/wiki/宮坂瑠 "wikilink")   | [舛沢樹](https://ja.wikipedia.org/wiki/舛沢樹 "wikilink")   | [山内晴貴](https://ja.wikipedia.org/wiki/山内晴貴 "wikilink") | [小川和也](https://ja.wikipedia.org/wiki/小川和也 "wikilink") | [嶺岸祐介](https://ja.wikipedia.org/wiki/嶺岸祐介 "wikilink") | [千葉洸星](https://ja.wikipedia.org/wiki/千葉洸星 "wikilink") |
+| 2019 | [小田切啓](https://ja.wikipedia.org/wiki/小田切啓 "wikilink")               | [及川陸](https://ja.wikipedia.org/wiki/及川陸 "wikilink")     |                                                       |                                                       |                                                       |                                                       |                                                       |                                                       |                                                       |
 | 2018 | [石井龍誠](https://ja.wikipedia.org/wiki/石井龍誠 "wikilink")               | [黒田涼太](https://ja.wikipedia.org/wiki/黒田涼太 "wikilink")   |                                                       |                                                       |                                                       |                                                       |                                                       |                                                       |                                                       |
 | 2017 | \-                                                                  | [木内瑛](https://ja.wikipedia.org/wiki/木内瑛 "wikilink")     | [照井謙吾](https://ja.wikipedia.org/wiki/照井謙吾 "wikilink") |                                                       |                                                       |                                                       |                                                       |                                                       |                                                       |
 | 2016 | [小笠原隼人](https://ja.wikipedia.org/wiki/小笠原隼人 "wikilink")             | [和田篤](https://ja.wikipedia.org/wiki/和田篤 "wikilink")     |                                                       |                                                       |                                                       |                                                       |                                                       |                                                       |                                                       |
-| 2015 | [横山雅哲](https://ja.wikipedia.org/wiki/横山雅哲 "wikilink")               | [千葉真史](https://ja.wikipedia.org/wiki/千葉真史 "wikilink")   |                                                       |                                                       |                                                       |                                                       |                                                       |                                                       |                                                       |
+| 2015 | [横山雅哲](https://ja.wikipedia.org/wiki/佐々木瑞穂 "wikilink")              | [千葉真史](https://ja.wikipedia.org/wiki/千葉真史 "wikilink")   |                                                       |                                                       |                                                       |                                                       |                                                       |                                                       |                                                       |
 | 2014 | [三浦宏太](https://ja.wikipedia.org/wiki/三浦宏太 "wikilink")               |                                                         |                                                       |                                                       |                                                       |                                                       |                                                       |                                                       |                                                       |
 | 2013 | \-                                                                  | [柏崎光次郎](https://ja.wikipedia.org/wiki/柏崎光次郎 "wikilink") | [滝沢陽介](https://ja.wikipedia.org/wiki/滝沢陽介 "wikilink") |                                                       |                                                       |                                                       |                                                       |                                                       |                                                       |
-| 2012 | [グスタヴォ・デ・マルコ](https://ja.wikipedia.org/wiki/グスタヴォ・デ・マルコ "wikilink") | [佐々木瑞穂](https://ja.wikipedia.org/wiki/佐々木瑞穂 "wikilink") | [矢野洸祐](https://ja.wikipedia.org/wiki/矢野洸祐 "wikilink") | [檜垣篤典](https://ja.wikipedia.org/wiki/檜垣篤典 "wikilink") | [成田星矢](https://ja.wikipedia.org/wiki/成田星矢 "wikilink") |                                                       |                                                       |                                                       |                                                       |
+| 2012 | [グスタヴォ・デ・マルコ](https://ja.wikipedia.org/wiki/グスタヴォ・デ・マルコ "wikilink") | [佐々木瑞穂](https://ja.wikipedia.org/wiki/横山雅哲 "wikilink")  | [矢野洸祐](https://ja.wikipedia.org/wiki/矢野洸祐 "wikilink") | [檜垣篤典](https://ja.wikipedia.org/wiki/檜垣篤典 "wikilink") | [成田星矢](https://ja.wikipedia.org/wiki/成田星矢 "wikilink") |                                                       |                                                       |                                                       |                                                       |
 | |1   | 2                                                                   | 3                                                       | 4                                                     | 5                                                     | 6                                                     | 7                                                     | 8                                                     | 9                                                     | 10                                                    |
 
 #### 11-20
 
-|      |                                                       |                                                         |                                                                    |                                                       |                                                       |    |                                                       |                                                       |                                                       |
-| ---- | ----------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------- | ----------------------------------------------------- | -- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
-| |11  | 12                                                    | 13                                                      | 14                                                                 | 15                                                    | 16                                                    | 17 | 18                                                    | 19                                                    | 20                                                    |
-| 2019 | [鳥山祥之](https://ja.wikipedia.org/wiki/鳥山祥之 "wikilink") | サポーターナンバー                                               | \-                                                                 | [吉田圭](../Page/吉田圭.md "wikilink")                      | [南口駿](https://ja.wikipedia.org/wiki/南口駿 "wikilink")   | \- | [畑中秀斗](https://ja.wikipedia.org/wiki/畑中秀斗 "wikilink") | [森蔭冬威](https://ja.wikipedia.org/wiki/森蔭冬威 "wikilink") | [中村彦聖](https://ja.wikipedia.org/wiki/中村彦聖 "wikilink") |
-| 2018 | [成田星矢](https://ja.wikipedia.org/wiki/成田星矢 "wikilink") | [鵜飼亮多](https://ja.wikipedia.org/wiki/鵜飼亮多 "wikilink")   | [佐々木将人](https://ja.wikipedia.org/wiki/佐々木将人_\(サッカー選手\) "wikilink") | [土遠修平](https://ja.wikipedia.org/wiki/土遠修平 "wikilink") | [佐藤明生](https://ja.wikipedia.org/wiki/佐藤明生 "wikilink") |    |                                                       |                                                       |                                                       |
-| 2017 | [熊谷紋司](https://ja.wikipedia.org/wiki/熊谷紋司 "wikilink") | [青柳健汰](https://ja.wikipedia.org/wiki/青柳健汰 "wikilink")   | [阿部航太](https://ja.wikipedia.org/wiki/阿部航太 "wikilink")              | \-                                                    |                                                       |    |                                                       |                                                       |                                                       |
-| 2016 | [平野正頼](https://ja.wikipedia.org/wiki/平野正頼 "wikilink") | [金田理央](https://ja.wikipedia.org/wiki/金田理央 "wikilink")   |                                                                    |                                                       |                                                       |    |                                                       |                                                       |                                                       |
-| 2015 | \-                                                    | [小野寺健人](https://ja.wikipedia.org/wiki/小野寺健人 "wikilink") |                                                                    |                                                       |                                                       |    |                                                       |                                                       |                                                       |
-| 2014 | [大熊良汰](https://ja.wikipedia.org/wiki/大熊良汰 "wikilink") | [木村智寛](https://ja.wikipedia.org/wiki/木村智寛 "wikilink")   | [上野敦也](https://ja.wikipedia.org/wiki/上野敦也 "wikilink")              | [中島礼司](https://ja.wikipedia.org/wiki/中島礼司 "wikilink") | [成田星矢](https://ja.wikipedia.org/wiki/成田星矢 "wikilink") |    |                                                       |                                                       |                                                       |
-| 2013 | [井田大地](https://ja.wikipedia.org/wiki/井田大地 "wikilink") | [高橋健斗](https://ja.wikipedia.org/wiki/高橋健斗 "wikilink")   | [李鎭鉉](https://ja.wikipedia.org/wiki/李鎭鉉 "wikilink")                | [留畑巧磨](https://ja.wikipedia.org/wiki/留畑巧磨 "wikilink") |                                                       |    |                                                       |                                                       |                                                       |
-| 2012 | \-                                                    | \-                                                      | [小川和也](https://ja.wikipedia.org/wiki/小川和也 "wikilink")              |                                                       |                                                       |    |                                                       |                                                       |                                                       |
-| |11  | 12                                                    | 13                                                      | 14                                                                 | 15                                                    | 16                                                    | 17 | 18                                                    | 19                                                    | 20                                                    |
+|      |                                                       |                                                         |                                                                    |                                                       |                                                       |                                                       |                                                     |                                                       |                                                       |
+| ---- | ----------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
+| |11  | 12                                                    | 13                                                      | 14                                                                 | 15                                                    | 16                                                    | 17                                                    | 18                                                  | 19                                                    | 20                                                    |
+| 2020 | [野口龍也](https://ja.wikipedia.org/wiki/野口龍也 "wikilink") | サポーターナンバー                                               | [竹田そら](https://ja.wikipedia.org/wiki/竹田そら "wikilink")              | [吉田圭](../Page/吉田圭.md "wikilink")                      | [菊地佑太](https://ja.wikipedia.org/wiki/菊地佑太 "wikilink") | [山元佑哉](https://ja.wikipedia.org/wiki/山元佑哉 "wikilink") | [崔希正](https://ja.wikipedia.org/wiki/崔希正 "wikilink") | [船木省吾](https://ja.wikipedia.org/wiki/船木省吾 "wikilink") | [中村彦聖](https://ja.wikipedia.org/wiki/中村彦聖 "wikilink") |
+| 2019 | [鳥山祥之](https://ja.wikipedia.org/wiki/鳥山祥之 "wikilink") | \-                                                      | [南口駿](https://ja.wikipedia.org/wiki/南口駿 "wikilink")                | \-                                                    | [畑中秀斗](https://ja.wikipedia.org/wiki/畑中秀斗 "wikilink") | [森蔭冬威](https://ja.wikipedia.org/wiki/森蔭冬威 "wikilink") |                                                     |                                                       |                                                       |
+| 2018 | [成田星矢](https://ja.wikipedia.org/wiki/成田星矢 "wikilink") | [鵜飼亮多](https://ja.wikipedia.org/wiki/鵜飼亮多 "wikilink")   | [佐々木将人](https://ja.wikipedia.org/wiki/佐々木将人_\(サッカー選手\) "wikilink") | [土遠修平](https://ja.wikipedia.org/wiki/土遠修平 "wikilink") | [佐藤明生](https://ja.wikipedia.org/wiki/佐藤明生 "wikilink") |                                                       |                                                     |                                                       |                                                       |
+| 2017 | [熊谷紋司](https://ja.wikipedia.org/wiki/熊谷紋司 "wikilink") | [青柳健汰](https://ja.wikipedia.org/wiki/青柳健汰 "wikilink")   | [阿部航太](https://ja.wikipedia.org/wiki/阿部航太 "wikilink")              | \-                                                    |                                                       |                                                       |                                                     |                                                       |                                                       |
+| 2016 | [平野正頼](https://ja.wikipedia.org/wiki/平野正頼 "wikilink") | [金田理央](https://ja.wikipedia.org/wiki/金田理央 "wikilink")   |                                                                    |                                                       |                                                       |                                                       |                                                     |                                                       |                                                       |
+| 2015 | \-                                                    | [小野寺健人](https://ja.wikipedia.org/wiki/小野寺健人 "wikilink") |                                                                    |                                                       |                                                       |                                                       |                                                     |                                                       |                                                       |
+| 2014 | [大熊良汰](https://ja.wikipedia.org/wiki/大熊良汰 "wikilink") | [木村智寛](https://ja.wikipedia.org/wiki/木村智寛 "wikilink")   | [上野敦也](https://ja.wikipedia.org/wiki/上野敦也 "wikilink")              | [中島礼司](https://ja.wikipedia.org/wiki/中島礼司 "wikilink") | [成田星矢](https://ja.wikipedia.org/wiki/成田星矢 "wikilink") |                                                       |                                                     |                                                       |                                                       |
+| 2013 | [井田大地](https://ja.wikipedia.org/wiki/井田大地 "wikilink") | [高橋健斗](https://ja.wikipedia.org/wiki/高橋健斗 "wikilink")   | [李鎭鉉](https://ja.wikipedia.org/wiki/李鎭鉉 "wikilink")                | [留畑巧磨](https://ja.wikipedia.org/wiki/留畑巧磨 "wikilink") |                                                       |                                                       |                                                     |                                                       |                                                       |
+| 2012 | \-                                                    | \-                                                      | [小川和也](https://ja.wikipedia.org/wiki/小川和也 "wikilink")              |                                                       |                                                       |                                                       |                                                     |                                                       |                                                       |
+| |11  | 12                                                    | 13                                                      | 14                                                                 | 15                                                    | 16                                                    | 17                                                    | 18                                                  | 19                                                    | 20                                                    |
 
 #### 21-30
 
-|      |                                                         |                                                         |                                                       |                                                       |                                                       |                                                       |    |                                                       |                                                         |
-| ---- | ------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | -- | ----------------------------------------------------- | ------------------------------------------------------- |
-| |21  | 22                                                      | 23                                                      | 24                                                    | 25                                                    | 26                                                    | 27                                                    | 28 | 29                                                    | 30                                                      |
-| 2019 | [速水佑一郎](https://ja.wikipedia.org/wiki/速水佑一郎 "wikilink") | [高橋晃司](https://ja.wikipedia.org/wiki/高橋晃司 "wikilink")   | \-                                                    | [橋本光晟](https://ja.wikipedia.org/wiki/橋本光晟 "wikilink") | [武田晃平](https://ja.wikipedia.org/wiki/武田晃平 "wikilink") | \-                                                    | \- | [野口龍也](https://ja.wikipedia.org/wiki/野口龍也 "wikilink") | [千葉銀次郎](https://ja.wikipedia.org/wiki/千葉銀次郎 "wikilink") |
-| 2018 | [近嵐大地](https://ja.wikipedia.org/wiki/近嵐大地 "wikilink")   | [湯浅秀紀](https://ja.wikipedia.org/wiki/湯浅秀紀 "wikilink")   | [井上丈](https://ja.wikipedia.org/wiki/井上丈 "wikilink")   | [國分俊樹](https://ja.wikipedia.org/wiki/國分俊樹 "wikilink") | [緑川光希](https://ja.wikipedia.org/wiki/緑川光希 "wikilink") |                                                       |    |                                                       |                                                         |
-| 2017 | [木戸優次](https://ja.wikipedia.org/wiki/木戸優次 "wikilink")   | [本郷裕人](https://ja.wikipedia.org/wiki/本郷裕人 "wikilink")   | \-                                                    | \-                                                    |                                                       |                                                       |    |                                                       |                                                         |
-| 2016 | [柳村翔太](https://ja.wikipedia.org/wiki/柳村翔太 "wikilink")   | [中津川翔太](https://ja.wikipedia.org/wiki/中津川翔太 "wikilink") | [及川陸](https://ja.wikipedia.org/wiki/及川陸 "wikilink")   | \-                                                    | [石井龍誠](https://ja.wikipedia.org/wiki/石井龍誠 "wikilink") |                                                       |    |                                                       |                                                         |
-| 2015 | [泉田圭太](https://ja.wikipedia.org/wiki/泉田圭太 "wikilink")   | [成田一茂](https://ja.wikipedia.org/wiki/成田一茂 "wikilink")   | [木戸優次](https://ja.wikipedia.org/wiki/木戸優次 "wikilink") | [大賀優将](https://ja.wikipedia.org/wiki/大賀優将 "wikilink") | [前田竜一](https://ja.wikipedia.org/wiki/前田竜一 "wikilink") | [近嵐大地](https://ja.wikipedia.org/wiki/近嵐大地 "wikilink") |    |                                                       |                                                         |
-| 2014 | [神田優樹](https://ja.wikipedia.org/wiki/神田優樹 "wikilink")   | [岩渕大輔](https://ja.wikipedia.org/wiki/岩渕大輔 "wikilink")   | [千葉洸星](https://ja.wikipedia.org/wiki/千葉洸星 "wikilink") | [平野正頼](https://ja.wikipedia.org/wiki/平野正頼 "wikilink") | [山内瞭](https://ja.wikipedia.org/wiki/山内瞭 "wikilink")   | \-                                                    |    |                                                       |                                                         |
-| 2013 | [矢野洸祐](https://ja.wikipedia.org/wiki/矢野洸祐 "wikilink")   | [畑中秀斗](https://ja.wikipedia.org/wiki/畑中秀斗 "wikilink")   | [菅原廉](https://ja.wikipedia.org/wiki/菅原廉 "wikilink")   |                                                       |                                                       |                                                       |    |                                                       |                                                         |
-| 2012 | \-                                                      | \-                                                      | \-                                                    | \-                                                    | \-                                                    | \-                                                    |    |                                                       |                                                         |
-| |21  | 22                                                      | 23                                                      | 24                                                    | 25                                                    | 26                                                    | 27                                                    | 28 | 29                                                    | 30                                                      |
+|      |                                                         |                                                         |                                                       |                                                       |                                                         |                                                       |    |    |    |
+| ---- | ------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------- | -- | -- | -- |
+| |21  | 22                                                      | 23                                                      | 24                                                    | 25                                                    | 26                                                      | 27                                                    | 28 | 29 | 30 |
+| 2020 | [石塚亮](https://ja.wikipedia.org/wiki/石塚亮 "wikilink")     | [高橋晃司](https://ja.wikipedia.org/wiki/高橋晃司 "wikilink")   | |[吉田樹](https://ja.wikipedia.org/wiki/吉田樹 "wikilink")  | [橋本光晟](https://ja.wikipedia.org/wiki/橋本光晟 "wikilink") | [武田晃平](https://ja.wikipedia.org/wiki/武田晃平 "wikilink")   | [黒田涼太](https://ja.wikipedia.org/wiki/黒田涼太 "wikilink") | \- | \- | \- |
+| 2019 | [速水佑一郎](https://ja.wikipedia.org/wiki/速水佑一郎 "wikilink") | \-                                                      | \-                                                    | [野口龍也](https://ja.wikipedia.org/wiki/野口龍也 "wikilink") | [千葉銀次郎](https://ja.wikipedia.org/wiki/千葉銀次郎 "wikilink") |                                                       |    |    |    |
+| 2018 | [近嵐大地](https://ja.wikipedia.org/wiki/近嵐大地 "wikilink")   | [湯浅秀紀](https://ja.wikipedia.org/wiki/湯浅秀紀 "wikilink")   | [井上丈](https://ja.wikipedia.org/wiki/井上丈 "wikilink")   | [國分俊樹](https://ja.wikipedia.org/wiki/國分俊樹 "wikilink") | [緑川光希](https://ja.wikipedia.org/wiki/緑川光希 "wikilink")   |                                                       |    |    |    |
+| 2017 | [木戸優次](https://ja.wikipedia.org/wiki/木戸優次 "wikilink")   | [本郷裕人](https://ja.wikipedia.org/wiki/本郷裕人 "wikilink")   | \-                                                    | \-                                                    |                                                         |                                                       |    |    |    |
+| 2016 | [柳村翔太](https://ja.wikipedia.org/wiki/柳村翔太 "wikilink")   | [中津川翔太](https://ja.wikipedia.org/wiki/中津川翔太 "wikilink") | [及川陸](https://ja.wikipedia.org/wiki/及川陸 "wikilink")   | \-                                                    | [石井龍誠](https://ja.wikipedia.org/wiki/石井龍誠 "wikilink")   |                                                       |    |    |    |
+| 2015 | [泉田圭太](https://ja.wikipedia.org/wiki/泉田圭太 "wikilink")   | [成田一茂](https://ja.wikipedia.org/wiki/成田一茂 "wikilink")   | [木戸優次](https://ja.wikipedia.org/wiki/木戸優次 "wikilink") | [大賀優将](https://ja.wikipedia.org/wiki/大賀優将 "wikilink") | [前田竜一](https://ja.wikipedia.org/wiki/前田竜一 "wikilink")   | [近嵐大地](https://ja.wikipedia.org/wiki/近嵐大地 "wikilink") |    |    |    |
+| 2014 | [神田優樹](https://ja.wikipedia.org/wiki/神田優樹 "wikilink")   | [岩渕大輔](https://ja.wikipedia.org/wiki/岩渕大輔 "wikilink")   | [千葉洸星](https://ja.wikipedia.org/wiki/千葉洸星 "wikilink") | [平野正頼](https://ja.wikipedia.org/wiki/平野正頼 "wikilink") | [山内瞭](https://ja.wikipedia.org/wiki/山内瞭 "wikilink")     | \-                                                    |    |    |    |
+| 2013 | [矢野洸祐](https://ja.wikipedia.org/wiki/矢野洸祐 "wikilink")   | [畑中秀斗](https://ja.wikipedia.org/wiki/畑中秀斗 "wikilink")   | [菅原廉](https://ja.wikipedia.org/wiki/菅原廉 "wikilink")   |                                                       |                                                         |                                                       |    |    |    |
+| 2012 | \-                                                      | \-                                                      | \-                                                    | \-                                                    | \-                                                      | \-                                                    |    |    |    |
+| |21  | 22                                                      | 23                                                      | 24                                                    | 25                                                    | 26                                                      | 27                                                    | 28 | 29 | 30 |
 
 #### 31-
 
-|      |
-| ---- |
-| |31  |
-| 2019 |
-| 2018 |
-| 2017 |
-| 2016 |
-| 2015 |
-| 2014 |
-| 2013 |
-| 2012 |
-| |31  |
+|      |                                                       |    |
+| ---- | ----------------------------------------------------- | -- |
+| |31  | 32-40                                                 | 41 |
+| 2020 | [加藤聖士](https://ja.wikipedia.org/wiki/加藤聖士 "wikilink") | \- |
+| 2019 | \-                                                    | \- |
+| 2018 | [冨澤雅文](https://ja.wikipedia.org/wiki/冨澤雅文 "wikilink") |    |
+| 2017 |                                                       |    |
+| 2016 |                                                       |    |
+| 2015 |                                                       |    |
+| 2014 |                                                       |    |
+| 2013 |                                                       |    |
+| 2012 |                                                       |    |
+| |31  | 32-40                                                 | 41 |
+
+### その他
+
+  - [本庄竜大](https://ja.wikipedia.org/wiki/本庄竜大 "wikilink") - 背番号決定前に契約解除
 
 ## ユニフォーム
 
@@ -553,7 +550,7 @@
 </tr>
 <tr class="even">
 <td><p>背中上部</p></td>
-<td><p><a href="../Page/アミノ_(企業).md" title="wikilink">アミノ</a>[10]</p></td>
+<td><p><a href="../Page/アミノ_(企業).md" title="wikilink">アミノ</a>[12]</p></td>
 <td><p>うまい鮨勘</p></td>
 <td><p>2018年 -</p></td>
 <td></td>
@@ -807,4 +804,6 @@ Japón-Hasekura</a></p></td>
 7.
 8.
 9.
-10. [コバルトーレ女川　「鮨勘」アミノがスポンサー 地域貢献に共感](https://hibishinbun.com/news/?a=8676)
+10.
+11.
+12. [コバルトーレ女川　「鮨勘」アミノがスポンサー 地域貢献に共感](https://hibishinbun.com/news/?a=8676)

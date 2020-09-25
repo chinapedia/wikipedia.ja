@@ -21,7 +21,7 @@
 
   - [京都府](../Page/京都府.md "wikilink")全域（※[西京区](../Page/西京区.md "wikilink")大原野出灰([市外局番](../Page/市外局番.md "wikilink")072-6)及び[八幡市](../Page/八幡市.md "wikilink")岩田大谷飛地([市外局番](../Page/市外局番.md "wikilink")072-8)を除く）
   - [滋賀県](../Page/滋賀県.md "wikilink")全域
-  - [奈良県](../Page/奈良県.md "wikilink")の大半（※[宇陀郡](../Page/宇陀郡.md "wikilink")[御杖村](https://ja.wikipedia.org/wiki/御杖村 "wikilink")神末の一部(市外局番059-2)、[御所市](../Page/御所市.md "wikilink")[金剛山](../Page/金剛山_\(金剛山地\).md "wikilink")(市外局番0721)及び[吉野郡](../Page/吉野郡.md "wikilink")[十津川村](../Page/十津川村.md "wikilink")[竹筒](https://ja.wikipedia.org/wiki/竹筒_\(十津川村\) "wikilink")(たけとう)・[七色](https://ja.wikipedia.org/wiki/七色_\(十津川村\) "wikilink")(市外局番0735)を除く）
+  - [奈良県](../Page/奈良県.md "wikilink")の大半（※[宇陀郡](../Page/宇陀郡.md "wikilink")[御杖村](../Page/御杖村.md "wikilink")神末の一部(市外局番059-2)、[御所市](../Page/御所市.md "wikilink")[金剛山](../Page/金剛山_\(金剛山地\).md "wikilink")(市外局番0721)及び[吉野郡](../Page/吉野郡.md "wikilink")[十津川村](../Page/十津川村.md "wikilink")[竹筒](https://ja.wikipedia.org/wiki/竹筒_\(十津川村\) "wikilink")(たけとう)・[七色](https://ja.wikipedia.org/wiki/七色_\(十津川村\) "wikilink")(市外局番0735)を除く）
 
 <!-- end list -->
 

@@ -23,7 +23,7 @@
 
   - [三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")全域（[桑名郡](../Page/桑名郡.md "wikilink")[木曽岬町](../Page/木曽岬町.md "wikilink")及び[南牟婁郡](../Page/南牟婁郡.md "wikilink")[紀宝町](../Page/紀宝町.md "wikilink")を除く）
   - 例外
-      - [奈良県](../Page/奈良県.md "wikilink")[宇陀郡](../Page/宇陀郡.md "wikilink")[御杖村](https://ja.wikipedia.org/wiki/御杖村 "wikilink")神末の一部
+      - [奈良県](../Page/奈良県.md "wikilink")[宇陀郡](../Page/宇陀郡.md "wikilink")[御杖村](../Page/御杖村.md "wikilink")神末の一部
 
 ## 広報活動
 
@@ -43,7 +43,7 @@
 
 ## 外部リンク
 
-  - [NTT西日本-三重](http://web.archive.org/web/*/http://www.ntt-west-mie.co.jp/)（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")による保存）
+  - [NTT西日本-三重](https://web.archive.org/web/*/http://www.ntt-west-mie.co.jp/)（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")による保存）
 
 [Category:かつて存在した三重県の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した三重県の企業 "wikilink") [Category:西日本電信電話](https://ja.wikipedia.org/wiki/Category:西日本電信電話 "wikilink") [Category:津市の歴史](https://ja.wikipedia.org/wiki/Category:津市の歴史 "wikilink") [Category:2006年設立の企業](https://ja.wikipedia.org/wiki/Category:2006年設立の企業 "wikilink") [Category:2008年廃止の企業](https://ja.wikipedia.org/wiki/Category:2008年廃止の企業 "wikilink")
 

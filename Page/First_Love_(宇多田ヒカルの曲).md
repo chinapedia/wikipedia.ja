@@ -113,6 +113,7 @@
   - 2013年、[May J.](https://ja.wikipedia.org/wiki/May_J. "wikilink")（アルバム『[Summer Ballad Covers](https://ja.wikipedia.org/wiki/Summer_Ballad_Covers "wikilink")』、『[May J. W BEST -Original & Covers-](https://ja.wikipedia.org/wiki/May_J._W_BEST_-Original_&_Covers- "wikilink")』に収録）
   - 2014年、[クリス・ハート](https://ja.wikipedia.org/wiki/クリス・ハート "wikilink")（アルバム『Heart Song Ⅱ』に収録）
   - 2016年、[渋谷すばる](https://ja.wikipedia.org/wiki/渋谷すばる "wikilink")（アルバム『[歌](https://ja.wikipedia.org/wiki/歌_\(渋谷すばるのアルバム\) "wikilink")』に収録）
+  - 2016年、[たなかりか](https://ja.wikipedia.org/wiki/たなかりか "wikilink")（カバーアルバム『Japanese Songbook 2』に収録）
   - 2018年、[島津亜矢](../Page/島津亜矢.md "wikilink")（アルバム『SINGER5』に収録）
   - 2019年、[富士葵](https://ja.wikipedia.org/wiki/富士葵 "wikilink")（カバーアルバム『[声 〜Cover ch.〜](https://ja.wikipedia.org/wiki/声_〜Cover_ch.〜 "wikilink")』に収録）
   - 2019年、[ジェジュン](../Page/ジェジュン.md "wikilink")（カバーアルバム『[Love Covers](https://ja.wikipedia.org/wiki/Love_Covers "wikilink")』に収録）
@@ -121,4 +122,4 @@
 
 [Category:宇多田ヒカルの楽曲](https://ja.wikipedia.org/wiki/Category:宇多田ヒカルの楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:TBS木曜10時枠の連続ドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBS木曜10時枠の連続ドラマ主題歌 "wikilink") [Category:選抜高等学校野球大会入場行進曲](https://ja.wikipedia.org/wiki/Category:選抜高等学校野球大会入場行進曲 "wikilink") [Category:R\&B・バラード](https://ja.wikipedia.org/wiki/Category:R&B・バラード "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:失恋を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:失恋を題材とした楽曲 "wikilink") [Category:接吻を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:接吻を題材とした楽曲 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
 
-1.  [ヒッキー17歳長者「税金高いなー」](http://web.archive.org/web/20010305224632/http://www.sanspo.com/enter/music/m0005/top2000051702.html)、SANSPO.COM、2000年5月16日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+1.  [ヒッキー17歳長者「税金高いなー」](https://web.archive.org/web/20010305224632/http://www.sanspo.com/enter/music/m0005/top2000051702.html)、SANSPO.COM、2000年5月16日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）

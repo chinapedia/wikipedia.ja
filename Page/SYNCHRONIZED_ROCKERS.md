@@ -20,8 +20,8 @@
     <!-- end list -->
       -
         7thアルバム『[RUNNERS HIGH](../Page/RUNNERS_HIGH.md "wikilink")』収録曲。
-2.  **Funny Bunny** / [ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink") \[3:15\]
-      - 編曲：ELLEGARDEN
+2.  **[Funny Bunny](../Page/Funny_Bunny.md "wikilink")** / [ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink") \[3:15\]
+      - 編曲：ELLEGARDEN / サウンドプロデュース：ホリエアキラ / プロデュース：shu-1 MATSUMOTO
     <!-- end list -->
       -
         8thアルバム『[HAPPY BIVOUAC](../Page/HAPPY_BIVOUAC.md "wikilink")』収録曲。
@@ -31,42 +31,42 @@
       -
         2ndミニアルバム『[90'S MY LIFE](https://ja.wikipedia.org/wiki/90'S_MY_LIFE "wikilink")』収録曲。
 4.  **Vain dog (in rain drop)** / [noodles](https://ja.wikipedia.org/wiki/noodles "wikilink") \[3:40\]
-      - 編曲：noodles
+      - 編曲：noodles / プロデュース：[吉田仁](https://ja.wikipedia.org/wiki/吉田仁 "wikilink")
     <!-- end list -->
       -
         9thアルバム『[Smile](../Page/Smile_\(the_pillowsのアルバム\).md "wikilink")』収録曲。
 5.  **この世の果てまで** / [YO-KING](../Page/YO-KING.md "wikilink") \[4:23\]
-      - 編曲：YO-KING
+      - 編曲・プロデュース：YO-KING
     <!-- end list -->
       -
         9thアルバム『Smile』収録曲。
 6.  **カーニバル** / [佐藤竹善](../Page/佐藤竹善.md "wikilink") \[3:54\]
-      - 編曲：佐藤竹善
+      - 編曲・プロデュース：佐藤竹善
     <!-- end list -->
       -
         15thシングル。
 7.  **LITTLE BUSTERS** / [GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink") \[5:21\]
-      - 編曲：GOING UNDER GROUND・[上田ケンジ](../Page/上田ケンジ.md "wikilink")
+      - 編曲・プロデュース：GOING UNDER GROUND・[上田ケンジ](../Page/上田ケンジ.md "wikilink")
     <!-- end list -->
       -
         6thアルバム『[LITTLE BUSTERS](../Page/LITTLE_BUSTERS.md "wikilink")』収録曲。
 8.  **Our love and peace** / [SALON MUSIC](https://ja.wikipedia.org/wiki/SALON_MUSIC "wikilink") \[4:15\]
-      - 編曲：SALON MUSIC
+      - 編曲・プロデュース：SALON MUSIC
     <!-- end list -->
       -
         8thアルバム『HAPPY BIVOUAC』収録曲。
 9.  **[ハイブリッド レインボウ](https://ja.wikipedia.org/wiki/ハイブリッド_レインボウ "wikilink")** / [BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink") \[4:10\]
-      - 編曲：BUMP OF CHICKEN
+      - 編曲：BUMP OF CHICKEN / プロデュース：BUMP OF CHICKEN & MOR
     <!-- end list -->
       -
         11thシングル。
 10. **[ストレンジ カメレオン](../Page/ストレンジ_カメレオン.md "wikilink")** / [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink") \[6:36\]
-      - 編曲：[小林武史](../Page/小林武史.md "wikilink") & Mr.Children
+      - 編曲・プロデュース：[小林武史](../Page/小林武史.md "wikilink") & Mr.Children
     <!-- end list -->
       -
         6thシングル。
 11. **Sad Sad Kiddie** / [YUTA](https://ja.wikipedia.org/wiki/斎藤有太 "wikilink").[TOSHI](../Page/永井利光.md "wikilink").[CHIHO](../Page/MOTOCOMPO.md "wikilink") and [JIRO](../Page/JIRO.md "wikilink")'S SESSION (from [GLAY](../Page/GLAY.md "wikilink") JIRO) \[3:40\]
-      - 編曲：[斎藤有太](https://ja.wikipedia.org/wiki/斎藤有太 "wikilink")
+      - 編曲・サウンドプロデュース：[斎藤有太](https://ja.wikipedia.org/wiki/斎藤有太 "wikilink") / プロデュース：JIRO (GLAY)
     <!-- end list -->
       -
         7thアルバム『RUNNERS HIGH』収録曲。

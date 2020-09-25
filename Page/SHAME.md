@@ -80,7 +80,10 @@
 
   - [2015年](../Page/2015年.md "wikilink")10月11日「ありがとう！mayuko 7th memorial」
   - [2015年](../Page/2015年.md "wikilink")10月25日「[Gargoyle](../Page/Gargoyle.md "wikilink") KIBA生誕祭"不韋不逞"」
-  - [2019年](../Page/2019年.md "wikilink")9月23日 デビュー20周年記念ライブ“A Piece of Cake”
+  - [2019年](../Page/2019年.md "wikilink")9月23日 デビュー20周年記念ライブ“A Piece of Cake”(東京)
+  - [2020年](../Page/2020年.md "wikilink")1月11日 デビュー20周年記念ライブ“A Piece of Cake”(大阪)
+  - [2020年](../Page/2020年.md "wikilink")1月12日 デビュー20周年記念ライブ“A Piece of Cake”(名古屋)
+  - [2020年](../Page/2020年.md "wikilink")4月26日 Time capsules中止に伴い[TwitCasting](https://ja.wikipedia.org/wiki/TwitCasting "wikilink")にてプレミア配信を行う\[1\]
 
 ## ディスコグラフィー
 
@@ -439,7 +442,8 @@
   - **INSIDE**（1996年）
   - **祈り / reset**（1997年）
   - **leave / Good-bye**（1997年）
-  - **Shame Starter Kit**（1997年）未公開/オーディション応募用/このテープが巡り巡って[hide](https://ja.wikipedia.org/wiki/hide "wikilink")の耳に止まる
+  - **Shame Starter Kit**（1997年）reset/GOOD-BYE/Aries
+      - 未公開/オーディション応募用/このテープが巡り巡って[hide](https://ja.wikipedia.org/wiki/hide "wikilink")の耳に止まる
   - **Good-Bye / reset / floating**（1998年）[ZEPPET STOREワンマンO](../Page/ZEPPET_STORE.md "wikilink").A.時に配布
   - **ZERO and INFINITE / Salvation / for**（1999年）上京後初ワンマン"Trial"時に配布
 
@@ -488,9 +492,13 @@
   - 2015年10月11日 - ありがとう\!mayuko7th Memorial
   - 2015年10月25日 - KIBA50祭～不偉不逞～
 
+## 脚注
+
 ## 外部リンク
 
   - [公式サイト](http://shame.soundscape.jp/)
 
   -
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:1994年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1994年に結成した音楽グループ "wikilink")
+
+1.  <https://twitcasting.tv/cuttjapan/shopcart/3549>

@@ -23,5 +23,5 @@ MSDN AAの利点は、参加した学部などがWindows OS ([Windows Vista Busi
 
 1.  [MSDN アカデミック アライアンス](http://msdn.microsoft.com/ja-jp/academic/)
 2.  [MSDN AA 高等学校版 メンバシップ プログラムの概要](http://www.microsoft.com/education/facultyconnection/jp/articles/articledetails.aspx?cid=1243)、2008年3月13日
-3.  [公式サイトのアーカイブ (2011年6月16日時点)](http://web.archive.org/web/20110616090316/http://msdn.microsoft.com/ja-jp/academic/)
+3.  [公式サイトのアーカイブ (2011年6月16日時点)](https://web.archive.org/web/20110616090316/http://msdn.microsoft.com/ja-jp/academic/)
 4.  「[プログラムの特長](http://msdn.microsoft.com/ja-jp/academic/cc987607)」MSDN アカデミック アライアンス、2010年12月1日

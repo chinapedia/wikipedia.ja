@@ -35,9 +35,12 @@
 ## 外部リンク
 
   - [仲野茂のブログ](http://sgrnkn.jugem.jp/) - 主に現在活動中のバンド・[SDR（セドロ）](https://ja.wikipedia.org/wiki/SDR（セドロ） "wikilink")の事について
+
   - [旧ブログ](http://sdrsgr.blog49.fc2.com/)
-  - [野島健太郎のブログ](http://blog.livedoor.jp/nojiken/)
+
+  -
   - [日本晴レコード](http://www.nihonbare.com/)
+
   - [goo音楽「仲野茂BAND」](http://music.goo.ne.jp/artist/ARTLISD1106105/index.html)
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink")

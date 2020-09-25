@@ -226,7 +226,7 @@
 
 ## 外部リンク
 
-  - [SBSロジコム株式会社](http://www.sbs-logicom.co.jp/)
+  - [SBSロジコム株式会社](https://www.sbs-logicom.co.jp/)
 
 
 

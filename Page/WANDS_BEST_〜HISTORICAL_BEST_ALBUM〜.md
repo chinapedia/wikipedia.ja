@@ -13,7 +13,7 @@ WANDSのボーカルであった上杉は「**『[SINGLES COLLECTION+6](../Page/
 
 ## リミックス
 
-「[寂しさは秋の色](../Page/寂しさは秋の色.md "wikilink")」「[もっと強く抱きしめたなら](../Page/もっと強く抱きしめたなら.md "wikilink")」「[時の扉](../Page/時の扉_\(WANDSの曲\).md "wikilink")」「[愛を語るより口づけをかわそう](../Page/愛を語るより口づけをかわそう.md "wikilink")」「[Same Side](../Page/Same_Side.md "wikilink")」「[WORST CRIME〜About a rock star who was a swindler〜](../Page/WORST_CRIME〜About_a_rock_star_who_was_a_swindler〜.md "wikilink")」は、[B'z](../Page/B'z.md "wikilink")らを手がけるエンジニアの[野村昌之](https://ja.wikipedia.org/wiki/野村昌之 "wikilink")によって[リミックス](../Page/リミックス.md "wikilink")が施されている（詳細は収録曲を参照）。本作以降に発売されたベスト・アルバムでは、元のミックスに忠実な[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")が施された音源で収録されている。
+「[寂しさは秋の色](../Page/寂しさは秋の色.md "wikilink")」「[もっと強く抱きしめたなら](../Page/もっと強く抱きしめたなら.md "wikilink")」「[時の扉](../Page/時の扉_\(WANDSの曲\).md "wikilink")」「[愛を語るより口づけをかわそう](../Page/愛を語るより口づけをかわそう.md "wikilink")」「[Same Side](../Page/Same_Side.md "wikilink")」「[WORST CRIME〜About a rock star who was a swindler〜](https://ja.wikipedia.org/wiki/WORST_CRIME〜About_a_rock_star_who_was_a_swindler〜/Blind_To_My_Heart "wikilink")」は、[B'z](../Page/B'z.md "wikilink")らを手がけるエンジニアの[野村昌之](https://ja.wikipedia.org/wiki/野村昌之 "wikilink")によって[リミックス](../Page/リミックス.md "wikilink")が施されている（詳細は収録曲を参照）。本作以降に発売されたベスト・アルバムでは、元のミックスに忠実な[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")が施された音源で収録されている。
 
 ## 批評
 
@@ -49,7 +49,7 @@ CDジャーナルは、「メンバー・チェンジのたびに、サウンド
       - 第2期。
 10. **[Same Side](../Page/Same_Side.md "wikilink")**
       - 第2期。リミックスバージョンで、演奏が激しい箇所の音量が抑えられている。
-11. **[WORST CRIME〜About a rock star who was a swindler〜](../Page/WORST_CRIME〜About_a_rock_star_who_was_a_swindler〜.md "wikilink")**
+11. **[WORST CRIME〜About a rock star who was a swindler〜](https://ja.wikipedia.org/wiki/WORST_CRIME〜About_a_rock_star_who_was_a_swindler〜/Blind_To_My_Heart "wikilink")**
       - 第2期。リミックスバージョンで、演奏が右チャンネルと左チャンネルで分けられている。
 12. **[錆びついたマシンガンで今を撃ち抜こう](../Page/錆びついたマシンガンで今を撃ち抜こう.md "wikilink")**
       - 第3期の1stシングル。

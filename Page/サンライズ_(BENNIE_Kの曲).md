@@ -6,7 +6,7 @@
 ## 解説
 
   - BENNIE K初の[オリコンシングルチャートランクインにして初のトップ](../Page/オリコンチャート.md "wikilink")10入りを果たした曲。2004年[11月4日](../Page/11月4日.md "wikilink")に同曲を収録した[アルバム](../Page/アルバム.md "wikilink")『[Synchronicity](../Page/Synchronicity_\(BENNIE_Kのアルバム\).md "wikilink")』をリリースし、こちらも自身初のオリコンアルバムチャートトップ10入りを果たしている。
-  - [福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")の[川﨑宗則選手の入場テーマ](../Page/川崎宗則.md "wikilink")（[2006年](../Page/2006年.md "wikilink")度[6月](../Page/6月.md "wikilink")～[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")頃）として打席に立つ時に使われていた。
+  - [福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")の[川﨑宗則](../Page/川﨑宗則.md "wikilink")選手の入場テーマ（[2006年](../Page/2006年.md "wikilink")度[6月](../Page/6月.md "wikilink")～[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")頃）として打席に立つ時に使われていた。
   - 全曲が3rdアルバム『Synchronicity』に収録。
 
 ## 収録曲

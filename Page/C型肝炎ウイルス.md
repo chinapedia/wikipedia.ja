@@ -73,7 +73,7 @@ C型肝炎ウイルスに感染すると[慢性肝炎](https://ja.wikipedia.org/
   - [牛ウイルス性下痢ウイルス](../Page/牛ウイルス性下痢ウイルス.md "wikilink")
   - [フラビウイルス科](../Page/フラビウイルス科.md "wikilink")
 
-[Category:C型肝炎](https://ja.wikipedia.org/wiki/Category:C型肝炎 "wikilink") [Category:RNAウイルス](https://ja.wikipedia.org/wiki/Category:RNAウイルス "wikilink") [Category:腫瘍ウイルス](https://ja.wikipedia.org/wiki/Category:腫瘍ウイルス "wikilink") [Category:ウイルス性肝炎](https://ja.wikipedia.org/wiki/Category:ウイルス性肝炎 "wikilink") [Category:フラビウイルス科](https://ja.wikipedia.org/wiki/Category:フラビウイルス科 "wikilink")
+[Category:C型肝炎](https://ja.wikipedia.org/wiki/Category:C型肝炎 "wikilink") [Category:RNAウイルス](https://ja.wikipedia.org/wiki/Category:RNAウイルス "wikilink") [Category:腫瘍ウイルス](https://ja.wikipedia.org/wiki/Category:腫瘍ウイルス "wikilink") [Category:フラビウイルス科](https://ja.wikipedia.org/wiki/Category:フラビウイルス科 "wikilink")
 
 1.  矢田豊、[ウイルス肝炎の最新治療と今後の展望 〜超音波検査に必要な最新情報〜](https://doi.org/10.11272/jss.41.32) 超音波検査技術 Vol.41 (2016) No. 1 p.32-42,
 2.

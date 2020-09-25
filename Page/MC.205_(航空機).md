@@ -15,13 +15,13 @@
 
 [MC.200 サエッタの](../Page/MC.200_\(航空機\).md "wikilink")[エンジン](../Page/エンジン.md "wikilink")を[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ダイムラー・ベンツ](../Page/ダイムラー・ベンツ.md "wikilink")製[DB 601に換装した](https://ja.wikipedia.org/wiki/DB_601 "wikilink")[MC.202 フォルゴーレは成功を収め](../Page/MC.202_\(航空機\).md "wikilink")、イタリア空軍主力戦闘機として活躍した。軍はこの優秀な機体に更に高出力の[DB 605エンジン](../Page/ダイムラー・ベンツ_DB_605.md "wikilink")（1,475馬力）を搭載することで更なる性能アップを目指した。
 
-計画は、機体にも大幅な改造を施した本命の205Nと、最小限の改造で済ませた暫定の205Vの2本立てで進行した。オリジナルのDB605を搭載した原型機は、共に1942年に初飛行したが、大幅な改良を施したわりには、205Nの性能は205Vとほとんど変わらず、むしろ速度では205Vより劣り、実用化の価値なしとして、205Nは早々に廃案となった。
+計画は、機体にも大幅な改造を施した本命の205Nと、最小限の改造で済ませた暫定の205Vの2本立てで進行した。オリジナルのDB 605を搭載した原型機は、共に1942年に初飛行したが、大幅な改良を施したわりには、205Nの性能は205Vとほとんど変わらず、むしろ速度では205Vより劣り、実用化の価値なしとして、205Nは早々に廃案となった。
 
-ヴェルトロの量産化に当たり、フォルゴーレの場合と同じくDBエンジンがドイツ本国向けの生産に追われている状況で入手困難であることは予想がついていた。故に、軍はDB601と同じくDB605に関してライセンス契約を結び、[フィアット](../Page/フィアット.md "wikilink")社に於いてR.A.1050 RC.58 ティフォーネ（Tifone、[台風](../Page/台風.md "wikilink")の意）の名で[ライセンス生産](../Page/ライセンス生産.md "wikilink")の計画を同時進行させた。ただ、このエンジンの生産に手間取ったため、ヴェルトロの実戦投入はイタリア降伏の直前になってしまった。
+ヴェルトロの量産化に当たり、フォルゴーレの場合と同じくDBエンジンがドイツ本国向けの生産に追われている状況で入手困難であることは予想がついていた。故に、軍はDB 601と同じくDB 605に関してライセンス契約を結び、[フィアット](../Page/フィアット.md "wikilink")社に於いてR.A.1050 RC.58 ティフォーネ（Tifone、[台風](../Page/台風.md "wikilink")の意）の名で[ライセンス生産](../Page/ライセンス生産.md "wikilink")の計画を同時進行させた。ただ、このエンジンの生産に手間取ったため、ヴェルトロの実戦投入はイタリア降伏の直前になってしまった。
 
 ヴェルトロの武装はMC.205Vの初期生産型で12.7mm[機銃](../Page/機関銃.md "wikilink")×2（機首、プロペラ同調）、7.7mm機銃×2（主翼）というもので、これはフォルゴーレと同じであった。ただ、同じ武装のフォルゴーレが戦局の悪化に伴いイタリア本土に飛来してくるようになった連合軍の大型爆撃機に対し火力不足であるのを見て、後期生産型では機首の12.7mm機銃×2は同じだが、主翼の7.7mm機銃×2を[MG151](https://ja.wikipedia.org/wiki/MG151 "wikilink")/20（ドイツ製20mm機関砲）×2へと換え、より重武装になっている。
 
-ヴェルトロは[1943年](../Page/1943年.md "wikilink")6月、[シチリア島](https://ja.wikipedia.org/wiki/シチリア島 "wikilink")沖に展開する連合軍艦船へ攻撃を行った[爆撃機](../Page/爆撃機.md "wikilink")の護衛任務でデビューした。 その後イタリア降伏までの約2ヶ月に渡り、ヴェルトロは連合国の戦闘機と戦い、それらより優れていることを証明した。一例を挙げると、8月2日にベルトロ6機は[P-38](../Page/P-38_\(航空機\).md "wikilink")、[P-40合わせて](../Page/P-40_\(航空機\).md "wikilink")20機の敵機に遭遇したが、数にして3倍もの敵機を相手に6機を撃墜（被撃墜1機）するという戦果を挙げている。
+ヴェルトロは[1943年](../Page/1943年.md "wikilink")6月、[シチリア島](https://ja.wikipedia.org/wiki/シチリア島 "wikilink")沖に展開する連合軍艦船へ攻撃を行った[爆撃機](../Page/爆撃機.md "wikilink")の護衛任務でデビューした。 その後イタリア降伏までの約2ヶ月に渡り、ヴェルトロは連合国の戦闘機と戦い、それらより優れていることを証明した。一例を挙げると、8月2日にヴェルトロ6機は[P-38](../Page/P-38_\(航空機\).md "wikilink")、[P-40合わせて](../Page/P-40_\(航空機\).md "wikilink")20機の敵機に遭遇したが、数にして3倍もの敵機を相手に6機を撃墜（被撃墜1機）するという戦果を挙げている。
 
 MC.200、MC.202と続いたマリオ・カストルディ技師の設計による一連の戦闘機はMC.205ヴェルトロに至って完成した。そしてそれは第二次世界大戦においてイタリアが生み出した最優秀戦闘機でもあった。
 
@@ -63,6 +63,78 @@ Video <http://www.youtube.com/watch?v=y_rP5Hg6Bp0>
   - [border](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy_\(1861-1946\).svg "wikilink") [イタリア](../Page/イタリア空軍.md "wikilink")
   - [border](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Egypt_1922.svg "wikilink") [エジプト](https://ja.wikipedia.org/wiki/エジプト空軍 "wikilink")
   - [border](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany_1933.svg "wikilink") [ドイツ](../Page/ドイツ空軍.md "wikilink")
+
+## 現存する機体
+
+<table>
+<thead>
+<tr class="header">
+<th><p>型名　　　　　　　</p></th>
+<th><p>番号　</p></th>
+<th><p>機体写真　　　　</p></th>
+<th><p>所在地</p></th>
+<th><p>所有者</p></th>
+<th><p>公開状況</p></th>
+<th><p>状態</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>MC.202 セリエX<br />
+MC.205V</p></td>
+<td><p>MM9546</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Macchi_MC205V_Veltro_MM9546_97-2_(6446470591).jpg" title="fig:Macchi_MC205V_Veltro_MM9546_97-2_(6446470591).jpg">Macchi_MC205V_Veltro_MM9546_97-2_(6446470591).jpg</a></p></td>
+<td><p>イタリア ローマ県</p></td>
+<td><p><a href="../Page/ヴィーニャ・ディ・ヴァッレ空軍歴史博物館.md" title="wikilink">ヴィーニャ・ディ・ヴァッレ空軍歴史博物館</a><a href="http://www.aeronautica.difesa.it/storia/museostorico/Pagine/default.aspx">1</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ブレーダ・メッカニカ・ブレシャーナ" title="wikilink">ブレーダ社で</a>1942年7月から9月の間にセリエXとして製造された100機のうちの1つ。1948年にMC.205Vに改修された。<a href="http://www.aeronautica.difesa.it/storia/museostorico/Pagine/MacchiMC205.aspx">2</a></p></td>
+</tr>
+<tr class="even">
+<td><p>MC.202 セリエXII<br />
+MC.205V</p></td>
+<td><p>MM91818<br />
+6665</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Macchi_MC205_Veltro_01_Museo_scienza_e_tecnologia_Milano.jpg" title="fig:Macchi_MC205_Veltro_01_Museo_scienza_e_tecnologia_Milano.jpg">Macchi_MC205_Veltro_01_Museo_scienza_e_tecnologia_Milano.jpg</a></p></td>
+<td><p>イタリア ミラノ県</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Museo_Nazionale_Scienza_e_Tecnologia_Leonardo_da_Vinci" title="wikilink">レオナルド・ダ・ヴィンチ国立科学技術博物館</a><a href="https://www.museoscienza.org/en/">3</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p>ブレーダ社で1943年5月から8月の間にセリエXIIとして製造された150機のうちの1つ。MM9327号機という塗装がされている。<a href="https://www.museoscienza.org/en/offer/permanent-exhibitions/air-transport">4</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>MC.205V セリエIII</p></td>
+<td><p>MM92166</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Macchi_MC-205V_Veltro,_Italy_-_Air_Force_JP6942435.jpg" title="fig:Macchi_MC-205V_Veltro,_Italy_-_Air_Force_JP6942435.jpg">Macchi_MC-205V_Veltro,_Italy_-_Air_Force_JP6942435.jpg</a></p></td>
+<td><p>イタリア ヴァレーゼ県</p></td>
+<td><p><a href="../Page/アレーニア・アエルマッキ.md" title="wikilink">アレーニア・アエルマッキ</a>社ヴェネゴーノ・スペリオーレ工場</p></td>
+<td><p>非公開</p></td>
+<td><p>静態展示</p></td>
+<td><p>エジプト空軍向けに製造された、10機のオリジナルMC.205とMC.202から再生された10機のセリエIIIのうちオリジナルの1機。現在はヴァレーゼ＝ヴェネゴーノ飛行場の西に隣接する<a href="https://www.flickr.com/photos/13722921@N06/8579976426/">レオナルド・エアクラフト部門工場の建物内に展示されている</a>ため、見学には事前予約が必要である。</p></td>
+</tr>
+<tr class="even">
+<td><p>MC.205V</p></td>
+<td><p>レプリカ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Macchi_MC.205_(B).JPG" title="fig:Macchi_MC.205_(B).JPG">Macchi_MC.205_(B).JPG</a></p></td>
+<td><p>イタリア ヴァレーゼ県</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Volandia" title="wikilink">ヴォランディア公園・飛行博物館</a><a href="http://volandia.it/en/">5</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p>現在は屋外に展示されている。<a href="http://volandia.it/en/velivolo/c-205v/">6</a></p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 登場作品
 

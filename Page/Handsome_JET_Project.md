@@ -7,7 +7,7 @@
 
   - Handsome JET
     本名などの詳しいプロフィールは不明。2008年5月14日死去\[1\]\[2\]。
-    担当は作詞、ボーカル、ブラスハープ、アコースティックギター（使用ギターは[ギブソン](https://ja.wikipedia.org/wiki/ギブソン社 "wikilink")[J-45](https://ja.wikipedia.org/wiki/J-45 "wikilink")）演奏など。
+    担当は作詞、ボーカル、ブルースハープ、アコースティックギター（使用ギターは[ギブソン](https://ja.wikipedia.org/wiki/ギブソン社 "wikilink")[J-45](https://ja.wikipedia.org/wiki/J-45 "wikilink")）演奏など。
   - [植松斎永](../Page/植松斎永.md "wikilink")
     [9月5日](../Page/9月5日.md "wikilink")生まれ。A型。
     担当は作・編曲、メインギター演奏など。

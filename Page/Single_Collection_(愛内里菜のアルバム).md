@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - 今まで出した[シングル](../Page/シングル.md "wikilink")を集めたものだが、3rdシングル｢[Ohh\! Paradise Taste\!\!](../Page/Ohh!_Paradise_Taste!!.md "wikilink")｣、5thシングル｢[FAITH](../Page/FAITH_\(愛内里菜の曲\).md "wikilink")｣、14thシングル｢[Over Shine](../Page/Over_Shine.md "wikilink")｣は、未収録である。
+  - 今まで出した[シングル](../Page/シングル.md "wikilink")を集めたものだが、3rdシングル『[Ohh\! Paradise Taste\!\!](../Page/Ohh!_Paradise_Taste!!.md "wikilink")』、5thシングル『[FAITH](../Page/FAITH_\(愛内里菜の曲\).md "wikilink")』、14thシングル『[Over Shine](../Page/Over_Shine.md "wikilink")』は、未収録である。
   - 収録シングルのジャケット写真などを収めた[写真集](../Page/写真集.md "wikilink")付きである。
 
 ## 収録曲
@@ -13,7 +13,7 @@
 1.  **[FULL JUMP](../Page/FULL_JUMP.md "wikilink")**
       -
         13thシングル
-2.  **[I can't stop my love for you♥](../Page/I_can't_stop_my_love_for_you.md "wikilink")**
+2.  **[I can't stop my love for you♥](../Page/I_can't_stop_my_love_for_you♥.md "wikilink")**
       -
         9thシングル
 3.  **[恋はスリル、ショック、サスペンス](../Page/恋はスリル、ショック、サスペンス.md "wikilink")**
@@ -21,7 +21,7 @@
         4thシングル
 4.  **[Sincerely Yours](https://ja.wikipedia.org/wiki/Sincerely_Yours/Can_you_feel_the_POWER_OF_WORDS? "wikilink")**
       -
-        10thシングル「Sincerely Yours／Can you feel the POWER OF WORDS?」の1曲目。
+        10thシングル『Sincerely Yours／Can you feel the POWER OF WORDS?』の1曲目。
 5.  **[Forever You 〜永遠に君と〜](../Page/Forever_You_〜永遠に君と〜.md "wikilink")**
       -
         8thシングル

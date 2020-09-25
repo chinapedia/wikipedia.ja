@@ -140,4 +140,4 @@
   - [風間ヤスヒロ オフィシャルウェブサイト](https://kazama-yasuhiro.com/) アルバム『ベクトル』プロデューサー
   - [Jebski MySpace公式サイト](http://www.myspace.com/padjebski) アルバム『peoproots』プロデューサー
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:ソロプロジェクト](https://ja.wikipedia.org/wiki/Category:ソロプロジェクト "wikilink")

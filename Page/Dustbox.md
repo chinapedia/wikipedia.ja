@@ -7,7 +7,7 @@
 
   - **SUGA**（[1979年](../Page/1979年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink") - ）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")
 
-本名・須賀真太郎。既婚者。二児の父。ESPミュージカルアカデミー卒。ライブのMCでよく噛む。[しけもくロッカーズ](https://ja.wikipedia.org/wiki/しけもくロッカーズ "wikilink")のギター・ボーカルを務めている。
+本名・須賀真太郎。既婚者。二児の父。[埼玉県立草加南高等学校](../Page/埼玉県立草加南高等学校.md "wikilink")出身。ESPミュージカルアカデミー卒。ライブのMCでよく噛む。[しけもくロッカーズ](https://ja.wikipedia.org/wiki/しけもくロッカーズ "wikilink")のギター・ボーカルを務めている。
 
   - **JOJI**（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[4月4日](../Page/4月4日.md "wikilink") - ）[ベース](../Page/ベース_\(弦楽器\).md "wikilink")・[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
 
@@ -21,7 +21,7 @@
 
   - **REIJI**（[1976年](../Page/1976年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink") - ）[ドラム](../Page/ドラムセット.md "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
 
-[i GO](https://ja.wikipedia.org/wiki/i_GO "wikilink")(現VSMYBLUES)初代ドラム。2015年3月23日に[LIQUIDROOM](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")で行われたワンマンライブを持って脱退。 現在はFAKE ISLANDのドラマーとして活動中。
+[i GO](https://ja.wikipedia.org/wiki/i_GO "wikilink")(現VSMYBLUES)初代ドラム。2015年3月23日に[LIQUIDROOM](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")で行われたワンマンライブを持って脱退。脱退後はFAKE ISLANDのドラマーを経て、UPPERに加入。
 
 ## 来歴
 

@@ -3,7 +3,7 @@
 
 **山口 まゆ**（やまぐち -、[1984年](../Page/1984年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink") -）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")、元[ストリッパー](../Page/ストリッパー一覧.md "wikilink")。別名、**姫咲 ゆき**（ひめさき ゆき）。
 
-[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身。[身長](../Page/身長.md "wikilink")164cm、[スリーサイズ](../Page/スリーサイズ.md "wikilink") は[B](../Page/バスト.md "wikilink")86cm（Eカップ）・[W](../Page/ウエスト.md "wikilink")54cm・[H](../Page/尻.md "wikilink")83cm。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身。[身長](../Page/身長.md "wikilink")164cm、[スリーサイズ](../Page/スリーサイズ.md "wikilink") は[B](../Page/バスト.md "wikilink")86cm（Eカップ）・[W](../Page/ウエスト.md "wikilink")54cm・[H](../Page/尻.md "wikilink")83cm。[血液型はA型](../Page/ABO式血液型.md "wikilink")。
 
 ## 略歴・人物
 

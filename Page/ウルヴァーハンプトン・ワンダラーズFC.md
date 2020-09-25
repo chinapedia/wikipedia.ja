@@ -391,9 +391,9 @@
 
 </div>
 
-  - 2020年8月30日現在
+  - 2020年9月19日現在
 
-★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ivory_Coast.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Mali.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))  ★    ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ivory_Coast.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))       ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Mali.svg "wikilink"))
 
 ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 

@@ -34,6 +34,15 @@
   -
     [KISSの](../Page/キッス.md "wikilink")[ジーン・シモンズに強い影響をうけて](../Page/ジーン・シモンズ_\(ミュージシャン\).md "wikilink")、本格的にベースを始める。GASTUNK解散後は[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")に滞在、その中で[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")に目覚める。帰国後の1993年にレゲエバンド The Highest Regionを結成、現在も活動している。GASTUNK以外では"HIRO"名義で活動することも。なお、シングル「VANISHING SIGNS」では"BABE"、ライブビデオ「SMASH THE WALL」では"J.HEROKAWA"（[DOOMのドラマーであった広川錠一の名前をもじったものと思われる](../Page/Doom_\(日本のバンド\).md "wikilink")）とクレジットされている。2018年にDUB MACHINE-GUNS RECORDSを発足させRAS BABYHIRO名義でボーカル曲をリリースしている。
 
+<!-- end list -->
+
+  - **KEI**（ドラム） ex.The Jacks 、The Deadrocks
+
+<!-- end list -->
+
+  -
+    2020年2月に名古屋クラブクアトロでサポート・ドラムを務め、2020年08月21日に公式サイトにて正式加入したことを発表される。
+
 ### 過去に在籍していたメンバー
 
   - **PAZZ（Shigeru♥K）**（[ドラム](../Page/ドラムセット.md "wikilink")） ex.[Z.O.A](https://ja.wikipedia.org/wiki/Z.O.A "wikilink")、[DOOM](../Page/Doom_\(日本のバンド\).md "wikilink")、クオーターゲート、[Shell Shock](http://www.revontuletrecords.com/shellshock/)
@@ -226,6 +235,7 @@
   - DOUBLE GIGS （2008年8月6日）
   - GIG DVD 1988 （2010年4月21日）
   - ARISE AGAIN TOUR_2010 （2010年11月17日）
+  - GASTUNK THE RUNNING MAD BLOOD IN A DEAD INDIAN'S DREAM \! 2DVD+1CD BOX（初回限定プレス）（2020年3月4日）
 
 ### その他ビデオ
 

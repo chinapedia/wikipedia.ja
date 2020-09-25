@@ -45,7 +45,7 @@
 
 本作の音楽性は[X JAPANや](../Page/X_JAPAN.md "wikilink")[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")、[B'z](../Page/B'z.md "wikilink")、[UNICORN](../Page/UNICORN.md "wikilink")、[THE BLUE HEARTSなどがブレイクし](../Page/THE_BLUE_HEARTS.md "wikilink")、[第二次バンドブームが発生した事による影響があった他](https://ja.wikipedia.org/wiki/バンドブーム#第二次バンドブーム "wikilink")、元々小室は[ガンズ・アンド・ローゼズ](https://ja.wikipedia.org/wiki/ガンズ・アンド・ローゼズ "wikilink")や[モトリー・クルー](../Page/モトリー・クルー.md "wikilink")などのハードロックを愛聴していた事もあり、TMNへのリニューアルと共にハードなロックサウンドのアルバムを製作する事となった\[15\]。本作に関して小室は「吉と出るか凶と出るかというギャンブル性はあった」と述べている\[16\]。
 
-2曲目「69/99」ではイントロで[フェラーリ](../Page/フェラーリ.md "wikilink")のエンジン音をサンプリングしており、録音し終えた後に100万円程の高価なマイクが故障した\[17\]。3曲目「RHYTHM RED BEAT BLACK」はハードロックに寄りすぎた内容のため、売り上げ不振に対する恐怖感からダンスミュージックを入れるために製作された\[18\]。また、同曲が本作で一番最後にレコーディングされた曲となった\[19\]。4曲目「GOOD MORNING YESTERDAY」はハードディスクレコーディングだからこそ完成した曲であるという\[20\]。5曲目「SECRET RHYTHM」はモトリー・クルーと[TOTOからの影響で製作された曲であるが](../Page/TOTO_\(バンド\).md "wikilink")、同時期に[ケミカル・ブラザーズ](../Page/ケミカル・ブラザーズ.md "wikilink")も似たようなアプローチの曲を発表していた小室は述べている\[21\]。7曲目「BURNIN' STREET」はライブにおいてダンス用のナンバーとして使用された\[22\]。9曲目「TENDER IS THE NIGHT」は坂元の詞に強く影響されて製作した曲であるという\[23\]。11曲目「THE POINT OF LOVERS' NIGHT」はマクセルのコマーシャルソングとして製作された曲であり、歌詞中においてカセットテープと関連付けるために「電話ボックス」という言葉が使用された\[24\]。小室は同曲に関して「弾きながら、自分のなかで、はじめてコード進行が面白いなと思った曲」、「特にBメロとかの作り方は面白かったですね」と述べている\[25\]。
+2曲目「69/99」ではイントロで[フェラーリ](../Page/フェラーリ.md "wikilink")のエンジン音をサンプリングしており、録音し終えた後に100万円程の高価なマイクが故障した\[17\]。3曲目「RHYTHM RED BEAT BLACK」はハードロックに寄りすぎた内容のため、売り上げ不振に対する恐怖感からダンスミュージックを入れるために製作された\[18\]。また、同曲が本作で最後にレコーディングされた曲となった\[19\]。4曲目「GOOD MORNING YESTERDAY」はハードディスクレコーディングだからこそ完成した曲であるという\[20\]。5曲目「SECRET RHYTHM」はモトリー・クルーと[TOTOからの影響で製作された曲であるが](../Page/TOTO_\(バンド\).md "wikilink")、同時期に[ケミカル・ブラザーズ](../Page/ケミカル・ブラザーズ.md "wikilink")も似たようなアプローチの曲を発表していた小室は述べている\[21\]。7曲目「BURNIN' STREET」はライブにおいてダンス用のナンバーとして使用された\[22\]。9曲目「TENDER IS THE NIGHT」は坂元の詞に強く影響されて製作した曲であるという\[23\]。11曲目「THE POINT OF LOVERS' NIGHT」はマクセルのコマーシャルソングとして製作された曲であり、歌詞中においてカセットテープと関連付けるために「電話ボックス」という言葉が使用された\[24\]。小室は同曲に関して「弾きながら、自分のなかで、はじめてコード進行が面白いなと思った曲」、「特にBメロとかの作り方は面白かったですね」と述べている\[25\]。
 
 ## リリース
 
@@ -270,10 +270,10 @@ CDジャケットは初回版は箱型の紙ジャケットで表面には「**R
 6.
 7.
 8.  [藤本健のDigital Audio Laboratory 『**第196回:WMAロスレスの音楽配信サイト「@MUSIC HD Sound」 ～ 小室氏とavexが提唱するHDサウンドとは? ～**』](http://av.watch.impress.co.jp/docs/20050628/dal196.htm)より。
-9.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』 1990年10月号23Pより。
+9.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』 1990年10月号「世紀末へのNEW PROJECTが遂にスタート TM NETWORK TMN宣言 RENEWALの真相を探る」23Pより。
 10. [ダイヤモンド社](../Page/ダイヤモンド社.md "wikilink")刊『[FM STATION](../Page/FM_STATION.md "wikilink")』1990年12月23日号13P-15Pより。
 11. 立東社刊『KB special』1990年11月号19Pより。
-12. [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[ギターブック](https://ja.wikipedia.org/wiki/ギターブック "wikilink")』 1990年12月号10P-14Pより。
+12. [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[ギターブック](https://ja.wikipedia.org/wiki/ギターブック "wikilink")』 1990年12月号「TMN RHYTHM RED」10P-14Pより。
 13. 『[TM NETWORK TOUR MAJOR TURN-ROUND Supported by ROJAM.COM](../Page/TM_NETWORK_TOUR_MAJOR_TURN-ROUND_Supported_by_ROJAM.COM.md "wikilink")』パンフレットより。
 14.
 15.

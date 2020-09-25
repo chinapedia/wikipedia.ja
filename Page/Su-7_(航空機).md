@@ -52,9 +52,9 @@ Su-7の長所は超低空における高速力であり、[第四次中東戦争
 
 ## 運用国
 
-  - [ソ連](../Page/ソ連空軍.md "wikilink"):各型
+  - [ソ連](../Page/ソ連空軍.md "wikilink")：各型
 
-  - [ロシア](../Page/ロシア航空宇宙軍.md "wikilink"):Su-7BM/BKL/UM
+  - [ロシア](../Page/ロシア航空宇宙軍.md "wikilink")：Su-7BM/BKL/UM
 
   - [ウクライナ](../Page/ウクライナ空軍.md "wikilink")：Su-7BM
 
@@ -75,6 +75,545 @@ Su-7の長所は超低空における高速力であり、[第四次中東戦争
   - [アルジェリア](https://ja.wikipedia.org/wiki/アルジェリア空軍 "wikilink")：Su-7BMK/UMK
 
   - [イラク](../Page/イラク空軍.md "wikilink")：Su-7BMK/UMK
+
+## 現存する機体
+
+  - まとめられた文献がないため、[ロシア語版や画像の説明欄](https://ja.wikipedia.org/wiki/:ru:Су-7#Авиапамятники_и_экспонаты_музеев "wikilink")、グーグルマップなどを参考とした。
+  - 現存する数も不明なうえ、博物館などの保存施設より街頭展示の数が多いと見られるため、すべての機体を網羅できているものではない。
+  - 側面の番号が誤りまたは無いものがあるため、型の次に製造番号に従って並べている。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>型名　　　　</p></th>
+<th><p>番号　</p></th>
+<th><p>機体写真　　　　</p></th>
+<th><p>所在地</p></th>
+<th><p>所有者</p></th>
+<th><p>公開状況</p></th>
+<th><p>状態</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Su-7</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Гарнизон_Воздвиженский._Памятник_фронтовикам.jpg" title="fig:Гарнизон_Воздвиженский._Памятник_фронтовикам.jpg">Гарнизон_Воздвиженский._Памятник_фронтовикам.jpg</a></p></td>
+<td><p>ロシア 沿海地方</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Vozdvizhenka_(air_base)" title="wikilink">ヴァズドヴィージェンカ村</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p>空軍基地の西側公園に展示されている。グーグルマップでは「サモリョト・ス-7」と表記されている。</p></td>
+</tr>
+<tr class="even">
+<td><p>Su-7</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Su-7_Oratov.jpg" title="fig:Su-7_Oratov.jpg">Su-7_Oratov.jpg</a></p></td>
+<td><p>ウクライナ ヴィーンヌィツャ州</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Orativ" title="wikilink">オーラティフ市</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Su-7B</p></td>
+<td><p>赤69<br />
+1608</p></td>
+<td></td>
+<td><p>ロシア クルガン州</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:ru:Курганский_авиационный_музей" title="wikilink">クルガン航空博物館</a><a href="http://airkurgan.ru/%D0%BE%D0%B1-%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D0%B5/%D0%B0%D0%B2%D0%B8%D0%B0%D0%BC%D1%83%D0%B7%D0%B5%D0%B9.html">1</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Su-7B</p></td>
+<td><p>赤65<br />
+1701</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Sukhoi_Su-7B_’65_red’_(24036380927).jpg" title="fig:Sukhoi_Su-7B_’65_red’_(24036380927).jpg">Sukhoi_Su-7B_’65_red’_(24036380927).jpg</a></p></td>
+<td><p>ロシア モスクワ州</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/モニノ空軍博物館" title="wikilink">連邦文化芸術研究所中央空軍博物館</a><a href="https://www.cmvvs.ru/">2</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="https://www.cmvvs.ru/aviaczionnaya-tehnika-poslevoennogo-perioda-sovremennye-letatelnye-apparaty-otkrytaya-stoyanka/">3</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Su-7B</p></td>
+<td><p>赤25<br />
+1707</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Sukhoi_Su-7_’25_red’_(38688468364).jpg" title="fig:Sukhoi_Su-7_’25_red’_(38688468364).jpg">Sukhoi_Su-7_’25_red’_(38688468364).jpg</a></p></td>
+<td><p>ロシア モスクワ州</p></td>
+<td><p>連邦文化芸術研究所中央空軍博物館</p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="https://www.cmvvs.ru/aviaczionnaya-tehnika-poslevoennogo-perioda-sovremennye-letatelnye-apparaty-otkrytaya-stoyanka/">4</a></p></td>
+</tr>
+<tr class="even">
+<td><p>Su-7B<br />
+S-26</p></td>
+<td><p>赤17<br />
+3610</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Sukhoi_S-26_’17_red’_(38669279364).jpg" title="fig:Sukhoi_S-26_’17_red’_(38669279364).jpg">Sukhoi_S-26_’17_red’_(38669279364).jpg</a></p></td>
+<td><p>ロシア モスクワ州</p></td>
+<td><p>連邦文化芸術研究所中央空軍博物館</p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="https://www.cmvvs.ru/aviaczionnaya-tehnika-poslevoennogo-perioda-sovremennye-letatelnye-apparaty-otkrytaya-stoyanka/">5</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Su-7B</p></td>
+<td><p>赤77</p></td>
+<td></td>
+<td><p>ロシア ロストフ州</p></td>
+<td><p><a href="../Page/タガンログ.md" title="wikilink">タガンローク市</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p>グーグルマップでは「Monument Su-7B」と表記されている。</p></td>
+</tr>
+<tr class="even">
+<td><p>Su-7BM</p></td>
+<td><p>01<br />
+5301</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Sukhoi_Su-7BM_‘01’_(faded)_(16809670635).jpg" title="fig:Sukhoi_Su-7BM_‘01’_(faded)_(16809670635).jpg">Sukhoi_Su-7BM_‘01’_(faded)_(16809670635).jpg</a></p></td>
+<td><p>ポーランド マウォポルスカ県</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Polish_Aviation_Museum" title="wikilink">クラクフ・ポーランド航空博物館</a><a href="http://muzeumlotnictwa.pl/muzeum/en/">6</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="http://muzeumlotnictwa.pl/zbiory_sz.php?ido=66&amp;w=a">7</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Su-7BM</p></td>
+<td><p>赤03<br />
+5303</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Sukhoi_Su-7BM_&#39;03&#39;_(13297624243).jpg" title="fig:Sukhoi_Su-7BM_&#39;03&#39;_(13297624243).jpg">Sukhoi_Su-7BM_'03'_(13297624243).jpg</a></p></td>
+<td><p>ポーランド ルブリン県</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:pl:Muzeum_Sił_Powietrznych_w_Dęblinie" title="wikilink">デンブリン空軍博物館</a><a href="https://muzeumsp.pl/">8</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Su-7BM</p></td>
+<td><p>赤06<br />
+5306</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Sukhoi_Su-7BM_‘06’_(16647311628).jpg" title="fig:Sukhoi_Su-7BM_‘06’_(16647311628).jpg">Sukhoi_Su-7BM_‘06’_(16647311628).jpg</a></p></td>
+<td><p>ポーランド マウォポルスカ県</p></td>
+<td><p>クラクフ・ポーランド航空博物館</p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="http://muzeumlotnictwa.pl/zbiory_sz.php?ido=66&amp;w=a">9</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Su-7BM</p></td>
+<td><p>赤09<br />
+5309</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Sukhoi_Su-7B_(29967097638).jpg" title="fig:Sukhoi_Su-7B_(29967097638).jpg">Sukhoi_Su-7B_(29967097638).jpg</a></p></td>
+<td><p>ドイツ ラインラント＝プファルツ州</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Flugausstellung_Peter_Junior" title="wikilink">ピーター・ユニォア航空機展示場</a><a href="https://www.flugausstellung.de/">10</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="https://www.flugausstellung.de/">11</a></p></td>
+</tr>
+<tr class="even">
+<td><p>Su-7BM</p></td>
+<td><p>黒5320<br />
+5320</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Sukhoi_Su-7BM_Fitter_5320_(8126999472).jpg" title="fig:Sukhoi_Su-7BM_Fitter_5320_(8126999472).jpg">Sukhoi_Su-7BM_Fitter_5320_(8126999472).jpg</a></p></td>
+<td><p>チェコ プラハ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Kbely_Aviation_Museum" title="wikilink">クベリ航空博物館</a><a href="http://www.vhu.cz/muzea/zakladni-informace-o-lm-kbely/">12</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Su-7BM</p></td>
+<td><p>赤21<br />
+5521</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Sukhoi_Su-7BM_Fitter-A_21_(really_5521)_(8155445037).jpg" title="fig:Sukhoi_Su-7BM_Fitter-A_21_(really_5521)_(8155445037).jpg">Sukhoi_Su-7BM_Fitter-A_21_(really_5521)_(8155445037).jpg</a></p></td>
+<td><p>チェコ 南モラヴィア州</p></td>
+<td><p>航空機・地上技術博物館<a href="https://lhs-vyskov.cz/">13</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="https://lhs-vyskov.cz/muzeum/letecke-exponaty/">14</a></p></td>
+</tr>
+<tr class="even">
+<td><p>Su-7BM</p></td>
+<td><p>黒5616<br />
+5616</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Suchoj_Su-7BM_Fitter_A_Czech_air_force_5616.JPG" title="fig:Suchoj_Su-7BM_Fitter_A_Czech_air_force_5616.JPG">Suchoj_Su-7BM_Fitter_A_Czech_air_force_5616.JPG</a></p></td>
+<td><p>チェコ プラハ</p></td>
+<td><p>クベリ航空博物館</p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Su-7BM</p></td>
+<td><p>黒547<br />
+7643 (<a href="https://ja.wikipedia.org/wiki/エジプト空軍" title="wikilink">EAF</a>)<br />
+18475</p></td>
+<td><p><a href="https://live.staticflickr.com/7443/14012073910_71f77995e9_3k.jpg">写真</a></p></td>
+<td><p>アメリカ ネヴァダ州</p></td>
+<td><p><a href="../Page/ネリス空軍基地.md" title="wikilink">ネリス空軍基地</a>脅威訓練施設</p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p>基地敷地内の施設前に展示されている。イラク空軍の塗装がされている。</p></td>
+</tr>
+<tr class="even">
+<td><p>Su-7BM</p></td>
+<td><p>赤01</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Самолет-памятник_в_Хабаровске.JPG" title="fig:Самолет-памятник_в_Хабаровске.JPG">Самолет-памятник_в_Хабаровске.JPG</a></p></td>
+<td><p>ロシア ハバロフスク地方</p></td>
+<td><p><a href="../Page/ハバロフスク.md" title="wikilink">ハバロフスク</a>市</p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p>ハバロフスク駅前通を東に行った交差点東側の地点にある。グーグルマップでは「パーミャトニク - サモリョト・ス-7」と表記されている。</p></td>
+</tr>
+<tr class="odd">
+<td><p>Su-7BM</p></td>
+<td><p>赤06</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Су-7БМ_в_киевском_музее_авиации.jpg" title="fig:Су-7БМ_в_киевском_музее_авиации.jpg">Су-7БМ_в_киевском_музее_авиации.jpg</a></p></td>
+<td><p>ウクライナ キエフ特別市</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Ukraine_State_Aviation_Museum" title="wikilink">オレーク・アントーノフ国立航空博物館</a><a href="http://aviamuseum.com.ua/en">15</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="http://aviamuseum.com.ua/en/exposition/exposition/kb-suhogo/165-su-7bm">16</a></p></td>
+</tr>
+<tr class="even">
+<td><p>Su-7BM</p></td>
+<td><p>青06</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:CategoryMonument_to_pilots_fighters_in_Krasnograd_(2).jpg" title="fig:CategoryMonument_to_pilots_fighters_in_Krasnograd_(2).jpg">CategoryMonument_to_pilots_fighters_in_Krasnograd_(2).jpg</a></p></td>
+<td><p>ウクライナ ハルキウ州</p></td>
+<td><p>クラスノグラード市</p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p>「Atb」というスーパーマーケットの道を挟んで向かい側にある。</p></td>
+</tr>
+<tr class="odd">
+<td><p>Su-7BM</p></td>
+<td><p>青21</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Вид_на_памятник_Су_-7_Б,_на_дальнем_плане_въезд_А_Чкаловского_аэродрома.jpg" title="fig:Вид_на_памятник_Су_-7_Б,_на_дальнем_плане_въезд_А_Чкаловского_аэродрома.jpg">Вид_на_памятник_Су_-7_Б,_на_дальнем_плане_въезд_А_Чкаловского_аэродрома.jpg</a></p></td>
+<td><p>ロシア モスクワ州</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/シチョルコヴォ" title="wikilink">シチョルコヴォ</a>市</p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p>チカロフスキー空港に至る道とA-103道路との交差点にある。グーグルマップでは「Samolet Su-7B, Pamyatnik "Slava Sovetskim Pokoritelyam Neba"」と表記されている。</p></td>
+</tr>
+<tr class="even">
+<td><p>Su-7BM</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Su-7_Bogdanovka.jpg" title="fig:Su-7_Bogdanovka.jpg">Su-7_Bogdanovka.jpg</a></p></td>
+<td><p>ウクライナ ドニプロペトロウシク州</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:ru:Богдановка_(Васильковский_район)" title="wikilink">ボグダーノフカ村</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Su-7BM</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Military_aircraft_in_Lutsk.jpg" title="fig:Military_aircraft_in_Lutsk.jpg">Military_aircraft_in_Lutsk.jpg</a></p></td>
+<td><p>ウクライナ ヴォルィーニ州</p></td>
+<td><p>ヴォルィーン地域ウクライナ軍・軍事装備博物館<a href="https://ua.igotoworld.com/en/poi_object/66303_volyinskiy-regionalnyiy-muzey-ukrainskogo-voyska-i-voennoy-tehniki.htm">17</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Su-7BKL</p></td>
+<td><p>赤07<br />
+5616?<br />
+5816?</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Sukhoi_Su-7BKL_’07_red’_(36655523710).jpg" title="fig:Sukhoi_Su-7BKL_’07_red’_(36655523710).jpg">Sukhoi_Su-7BKL_’07_red’_(36655523710).jpg</a></p></td>
+<td><p>ロシア モスクワ州</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Kubinka_(air_base)" title="wikilink">クビンカ空軍基地</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p>基地横の展示スペースにある。基地自体も比較的近くまで接近でき、内部の撮影も可能であるようだ。</p></td>
+</tr>
+<tr class="odd">
+<td><p>Su-7BKL</p></td>
+<td><p>白27<br />
+5710</p></td>
+<td></td>
+<td><p>ラトヴィア リーガ市</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Riga_Aviation_Museum" title="wikilink">リーガ航空博物館</a><a href="http://en.airmuseum.lv/home/">18</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="http://en.airmuseum.lv/blog/sukhoi-su-7bkl/">19</a></p></td>
+</tr>
+<tr class="even">
+<td><p>Su-7BKL</p></td>
+<td><p>赤07<br />
+5717</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Sukhoi_Su-7BKL_Fitter_07_red_(8478780374).jpg" title="fig:Sukhoi_Su-7BKL_Fitter_07_red_(8478780374).jpg">Sukhoi_Su-7BKL_Fitter_07_red_(8478780374).jpg</a></p></td>
+<td><p>ロシア モスクワ州</p></td>
+<td><p>連邦文化芸術研究所中央空軍博物館</p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="https://www.cmvvs.ru/aviaczionnaya-tehnika-poslevoennogo-perioda-sovremennye-letatelnye-apparaty-otkrytaya-stoyanka/">20</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Su-7BKL</p></td>
+<td><p>赤15<br />
+5733</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Sukhoi_Su-7BKL_’15_red’_(38669276954).jpg" title="fig:Sukhoi_Su-7BKL_’15_red’_(38669276954).jpg">Sukhoi_Su-7BKL_’15_red’_(38669276954).jpg</a></p></td>
+<td><p>ロシア モスクワ州</p></td>
+<td><p>連邦文化芸術研究所中央空軍博物館</p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="https://www.cmvvs.ru/aviaczionnaya-tehnika-poslevoennogo-perioda-sovremennye-letatelnye-apparaty-otkrytaya-stoyanka/">21</a></p></td>
+</tr>
+<tr class="even">
+<td><p>Su-7BKL</p></td>
+<td><p>赤12<br />
+6012</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Sukhoi_Su-7BKL_&#39;12&#39;_(13297848074).jpg" title="fig:Sukhoi_Su-7BKL_&#39;12&#39;_(13297848074).jpg">Sukhoi_Su-7BKL_'12'_(13297848074).jpg</a></p></td>
+<td><p>ポーランド ルブリン県</p></td>
+<td><p>デンブリン空軍博物館</p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Su-7BKL</p></td>
+<td><p>赤13<br />
+6013</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Sukhoi_Su-7BKL_Fitter-A_&#39;13&#39;_(11105827575).jpg" title="fig:Sukhoi_Su-7BKL_Fitter-A_&#39;13&#39;_(11105827575).jpg">Sukhoi_Su-7BKL_Fitter-A_'13'_(11105827575).jpg</a></p></td>
+<td><p>ポーランド マゾフシェ県</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Museum_of_Polish_Military_Technology" title="wikilink">ポーランド軍事技術博物館</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Su-7BKL</p></td>
+<td><p>赤17<br />
+6017</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Sukhoi_Su-7BKL_Fitter-A_&#39;17&#39;_(11105871006).jpg" title="fig:Sukhoi_Su-7BKL_Fitter-A_&#39;17&#39;_(11105871006).jpg">Sukhoi_Su-7BKL_Fitter-A_'17'_(11105871006).jpg</a></p></td>
+<td><p>ポーランド マゾフシェ県</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Museum_of_Polish_Military_Technology" title="wikilink">ポーランド軍事技術博物館</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Su-7BKL</p></td>
+<td><p>黒6427<br />
+6427</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Sukhoi_Su-7BKL_Fitter-A_6427_(8155452037).jpg" title="fig:Sukhoi_Su-7BKL_Fitter-A_6427_(8155452037).jpg">Sukhoi_Su-7BKL_Fitter-A_6427_(8155452037).jpg</a></p></td>
+<td><p>チェコ 南モラヴィア州</p></td>
+<td><p>航空機・地上技術博物館</p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="https://lhs-vyskov.cz/muzeum/letecke-exponaty/">22</a></p></td>
+</tr>
+<tr class="even">
+<td><p>Su-7BKL</p></td>
+<td><p>黒6511<br />
+6511</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Sukhoi_Su-7BKL_Fitter-A_6511_(8155448259).jpg" title="fig:Sukhoi_Su-7BKL_Fitter-A_6511_(8155448259).jpg">Sukhoi_Su-7BKL_Fitter-A_6511_(8155448259).jpg</a></p></td>
+<td><p>チェコ 南モラヴィア州</p></td>
+<td><p>航空機・地上技術博物館</p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="https://lhs-vyskov.cz/muzeum/letecke-exponaty/">23</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Su-7BKL</p></td>
+<td><p>黒6513<br />
+6513</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Sukhoi_Su-7BKL_Fitter_6513_(8273542866).jpg" title="fig:Sukhoi_Su-7BKL_Fitter_6513_(8273542866).jpg">Sukhoi_Su-7BKL_Fitter_6513_(8273542866).jpg</a></p></td>
+<td><p>チェコ プラハ</p></td>
+<td><p>クベリ航空博物館</p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Su-7BKL</p></td>
+<td><p>赤806<br />
+7806</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Sukhoi_Su-7BKL_‘806’_(16827582815).jpg" title="fig:Sukhoi_Su-7BKL_‘806’_(16827582815).jpg">Sukhoi_Su-7BKL_‘806’_(16827582815).jpg</a></p></td>
+<td><p>ポーランド マウォポルスカ県</p></td>
+<td><p>クラクフ・ポーランド航空博物館</p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="http://muzeumlotnictwa.pl/zbiory_sz.php?ido=207&amp;w=a">24</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Su-7BKL</p></td>
+<td><p>赤807<br />
+7807</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Sukhoi_Su-7BKL_‘807’_(faded)_(16187341944).jpg" title="fig:Sukhoi_Su-7BKL_‘807’_(faded)_(16187341944).jpg">Sukhoi_Su-7BKL_‘807’_(faded)_(16187341944).jpg</a></p></td>
+<td><p>ポーランド マウォポルスカ県</p></td>
+<td><p>クラクフ・ポーランド航空博物館</p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="http://muzeumlotnictwa.pl/zbiory_sz.php?ido=207&amp;w=a">25</a></p></td>
+</tr>
+<tr class="even">
+<td><p>Su-7BKL</p></td>
+<td><p>赤809<br />
+7809</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Sukhoi_Su-7BKL_Fitter-A_&#39;809&#39;_(11656783354).jpg" title="fig:Sukhoi_Su-7BKL_Fitter-A_&#39;809&#39;_(11656783354).jpg">Sukhoi_Su-7BKL_Fitter-A_'809'_(11656783354).jpg</a></p></td>
+<td><p>ポーランド シフィェンティクシシュ県</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:White_Eagle_Museum" title="wikilink">白鷲博物館</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Su-7BKL</p></td>
+<td><p>赤815<br />
+7815</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Sukhoi_Su-7BKL_Fitter-A_&#39;815&#39;_(11105822055).jpg" title="fig:Sukhoi_Su-7BKL_Fitter-A_&#39;815&#39;_(11105822055).jpg">Sukhoi_Su-7BKL_Fitter-A_'815'_(11105822055).jpg</a></p></td>
+<td><p>ポーランド マゾフシェ県</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Museum_of_Polish_Military_Technology" title="wikilink">ポーランド軍事技術博物館</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Su-7BKL</p></td>
+<td><p>赤01</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Su-7_Cherkassy.jpg" title="fig:Su-7_Cherkassy.jpg">Su-7_Cherkassy.jpg</a></p></td>
+<td><p>ウクライナ チェルカースィ州</p></td>
+<td><p><a href="../Page/チェルカースィ.md" title="wikilink">チェルカースィ</a>市</p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p>国際空港北東の<a href="https://ja.wikipedia.org/wiki/環状交差点" title="wikilink">環状交差点</a>西側にある公園に展示されている。グーグルマップでは「Самолёт Су-7БКЛ」と表記されている。</p></td>
+</tr>
+<tr class="odd">
+<td><p>Su-7BKL</p></td>
+<td><p>赤926<br />
+</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Sukhoi_Su-7_BKL_&#39;926&#39;,_Polska_Nowa_Wieś_2018.10.10_(01).jpg" title="fig:Sukhoi_Su-7_BKL_&#39;926&#39;,_Polska_Nowa_Wieś_2018.10.10_(01).jpg">Sukhoi_Su-7_BKL_'926',_Polska_Nowa_Wieś_2018.10.10_(01).jpg</a></p></td>
+<td><p>ポーランド オポーレ県</p></td>
+<td><p>オポレ＝ポルスカ・ノヴァ・ヴィェシィ空港(Opole-Polska Nowa Wieś Airport)</p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p>小規模未舗装空港の入口に展示されている。</p></td>
+</tr>
+<tr class="even">
+<td><p>Su-7BKL</p></td>
+<td></td>
+<td></td>
+<td><p>アフガニスタン カーブル州</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:OMAR_Mine_Museum" title="wikilink">OMAR地雷博物館</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Su-7BMK</p></td>
+<td><p>B784</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:B784_(13988518612).jpg" title="fig:B784_(13988518612).jpg">B784_(13988518612).jpg</a></p></td>
+<td><p>インド テランガーナ州</p></td>
+<td><p>インド空軍士官学校博物館<a href="https://indianairforce.nic.in/air-force-academy">26</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Su-7BMK</p></td>
+<td><p>B888</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:B888_Sukhoi_Su-7BMK_Indian_Air_Force_(8448370218).jpg" title="fig:B888_Sukhoi_Su-7BMK_Indian_Air_Force_(8448370218).jpg">B888_Sukhoi_Su-7BMK_Indian_Air_Force_(8448370218).jpg</a></p></td>
+<td><p>インド デリー首都圏</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/インド空軍博物館" title="wikilink">インド空軍博物館</a><a href="https://indianairforce.nic.in/content/air-force-museum">27</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Su-7BMK</p></td>
+<td><p>黒257<br />
+黒803 (EAF)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:صور_من_داخل_المتحف_الحربي_القومي_من_داخل_القلعة_50.jpg" title="fig:صور_من_داخل_المتحف_الحربي_القومي_من_داخل_القلعة_50.jpg">صور_من_داخل_المتحف_الحربي_القومي_من_داخل_القلعة_50.jpg</a></p></td>
+<td><p>エジプト カイロ県</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Egyptian_National_Military_Museum" title="wikilink">エジプト国立軍事博物館</a><a href="https://www.mod.gov.eg/ModWebSite/MuseumDetails.aspx?id=1">28</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p>アラビア語で「257」と記されている。</p></td>
+</tr>
+<tr class="even">
+<td><p>Su-7BMK</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:BeniSuefFighterMemorial.jpg" title="fig:BeniSuefFighterMemorial.jpg">BeniSuefFighterMemorial.jpg</a></p></td>
+<td><p>エジプト ベニスエフ県</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ベニ・スエフ" title="wikilink">ベニスエフ市</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p>グーグルマップでは「حديقة حيوان بني سويف (ベニスエフ動物園)」の東側道路にある中央分離帯に展示されている。</p></td>
+</tr>
+<tr class="odd">
+<td><p>Su-7UM</p></td>
+<td><p>黒1015<br />
+1015</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Sukhoi_Su-7UM_Moujik_1015_(8155461643).jpg" title="fig:Sukhoi_Su-7UM_Moujik_1015_(8155461643).jpg">Sukhoi_Su-7UM_Moujik_1015_(8155461643).jpg</a></p></td>
+<td><p>チェコ 南モラヴィア州</p></td>
+<td><p>航空機・地上技術博物館</p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="https://lhs-vyskov.cz/muzeum/letecke-exponaty/">29</a></p></td>
+</tr>
+<tr class="even">
+<td><p>Su-7UM</p></td>
+<td><p>黒1016<br />
+1016</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Sukhoi_Su-7UM_Moujik_1016_(8155441969).jpg" title="fig:Sukhoi_Su-7UM_Moujik_1016_(8155441969).jpg">Sukhoi_Su-7UM_Moujik_1016_(8155441969).jpg</a></p></td>
+<td><p>チェコ 南モラヴィア州</p></td>
+<td><p>航空機・地上技術博物館</p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="https://lhs-vyskov.cz/muzeum/letecke-exponaty/">30</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Su-7UM</p></td>
+<td><p>赤116<br />
+2116</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Sukhoi_Su-7UM_‘116’_(16824974032).jpg" title="fig:Sukhoi_Su-7UM_‘116’_(16824974032).jpg">Sukhoi_Su-7UM_‘116’_(16824974032).jpg</a></p></td>
+<td><p>ポーランド マウォポルスカ県</p></td>
+<td><p>クラクフ・ポーランド航空博物館</p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="http://muzeumlotnictwa.pl/zbiory_sz.php?ido=206&amp;w=a">31</a></p></td>
+</tr>
+<tr class="even">
+<td><p>Su-7UM</p></td>
+<td><p>赤43<br />
+2318</p></td>
+<td></td>
+<td><p>ラトヴィア リーガ市</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Riga_Aviation_Museum" title="wikilink">リーガ航空博物館</a><a href="http://en.airmuseum.lv/home/">32</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="http://en.airmuseum.lv/blog/sukhoi-su-7u/">33</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Su-7UM</p></td>
+<td><p>赤702<br />
+3702</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Sukhoi_Su-7UM_&#39;702&#39;_(13310217105).jpg" title="fig:Sukhoi_Su-7UM_&#39;702&#39;_(13310217105).jpg">Sukhoi_Su-7UM_'702'_(13310217105).jpg</a></p></td>
+<td><p>ポーランド ルブリン県</p></td>
+<td><p>デンブリン空軍博物館</p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 関連項目
 

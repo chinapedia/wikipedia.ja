@@ -39,7 +39,7 @@
 
   - [製品安全データシート 硫酸銅](http://www.mmc.co.jp/japanese/news/2007/news20070213-2.pdf)
 
-[Category:銅(II)の化合物](https://ja.wikipedia.org/wiki/Category:銅\(II\)の化合物 "wikilink") [Category:硫酸塩](https://ja.wikipedia.org/wiki/Category:硫酸塩 "wikilink")
+[Category:銅(II)の化合物](https://ja.wikipedia.org/wiki/Category:銅\(II\)の化合物 "wikilink") [Category:硫酸塩](https://ja.wikipedia.org/wiki/Category:硫酸塩 "wikilink") [Category:乾燥剤](https://ja.wikipedia.org/wiki/Category:乾燥剤 "wikilink")
 
 1.  [富山大学](../Page/富山大学.md "wikilink")・基礎物性工学研究室 [「MSDS 硫酸銅(II)五水和物」](http://piezo.eng.u-toyama.ac.jp/inside-lab/MSDS/J_07516.pdf)
 2.  [厚生労働省](../Page/厚生労働省.md "wikilink") [「各添加物の使用基準及び保存基準」](http://www.ffcr.or.jp/Zaidan/mhwinfo.nsf/a11c0985ea3cb14b492567ec002041df/8aa11687a2aaf0c4492570650018d5ba?OpenDocument)

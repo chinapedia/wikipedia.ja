@@ -23,7 +23,7 @@
   - [衛府の七忍](https://ja.wikipedia.org/wiki/衛府の七忍 "wikilink")（[山口貴由](../Page/山口貴由.md "wikilink")）2015年5月号 -
   - [神さまの怨結び](https://ja.wikipedia.org/wiki/神さまの怨結び "wikilink")（守月史貴）2015年7月号 - 、※『チャンピオンRED いちご』より同誌の休刊後に移籍。
   - [人狼機ウィンヴルガ](https://ja.wikipedia.org/wiki/人狼機ウィンヴルガ "wikilink")（[綱島志朗](../Page/綱島志朗.md "wikilink")）2016年10月号 -
-  - [神呪のネクタール](https://ja.wikipedia.org/wiki/神呪のネクタール "wikilink")（原作：[吉野弘幸](../Page/吉野弘幸_\(脚本家\).md "wikilink")、漫画：[佐藤健悦](https://ja.wikipedia.org/wiki/佐藤健悦 "wikilink")）2017年1月号 -
+  - [神呪のネクタール](https://ja.wikipedia.org/wiki/神呪のネクタール "wikilink")（原作：[吉野弘幸](../Page/吉野弘幸_\(脚本家\).md "wikilink")、漫画：[佐藤健悦](../Page/佐藤健悦.md "wikilink")）2017年1月号 -
   - [銀河鉄道999 ANOTHER STORY アルティメットジャーニー](../Page/銀河鉄道999.md "wikilink")（原作：[松本零士](../Page/松本零士.md "wikilink")、漫画：[島崎譲](../Page/島崎譲.md "wikilink")）2018年5月号 -
   - [ニンジャスレイヤー](https://ja.wikipedia.org/wiki/ニンジャスレイヤー "wikilink")・キョート・ヘル・オン・アース（原作：ブラッドレー・ボンド＋フィリップ・N・モーゼズ、脚本：[田畑由秋](../Page/田畑由秋.md "wikilink")、作画：[余湖裕輝](../Page/余湖裕輝.md "wikilink")））2018年6月号 -
   - [どろろと百鬼丸伝](https://ja.wikipedia.org/wiki/どろろ#リメイク・続編作品の製作 "wikilink")（原作：[手塚治虫](../Page/手塚治虫.md "wikilink")、漫画：[士貴智志](../Page/士貴智志.md "wikilink")）2018年12月号 -
@@ -52,7 +52,7 @@
 
   - [真マジンガー 衝撃\! H編](https://ja.wikipedia.org/wiki/真マジンガー_衝撃!_Z編 "wikilink")（[永井豪](../Page/永井豪.md "wikilink")とダイナミックプロ）
   - [スクライドビギンズ](../Page/スクライド_\(漫画\).md "wikilink")（シナリオ：[黒田洋介](../Page/黒田洋介.md "wikilink")（[スタジオオルフェ](https://ja.wikipedia.org/wiki/スタジオオルフェ "wikilink")）、漫画：[戸田泰成](../Page/戸田泰成.md "wikilink")）
-  - [舞-乙HiME SUPER H](../Page/舞-乙HiME_\(漫画\).md "wikilink")（[佐藤健悦](https://ja.wikipedia.org/wiki/佐藤健悦 "wikilink")）
+  - [舞-乙HiME SUPER H](../Page/舞-乙HiME_\(漫画\).md "wikilink")（[佐藤健悦](../Page/佐藤健悦.md "wikilink")）
 
 ## 読み物
 
@@ -93,7 +93,7 @@
   - N.S.Q（有川祐）2003年10月号 - 2004年2月号
   - [エル・カザド](../Page/エル・カザド.md "wikilink")（原作：Project Leviathan、漫画：廣瀬周）2007年5月号 - 2007年10月号
   - [おキツネさまでChu♥](../Page/おキツネさまでChu♥.md "wikilink")（[速野悠二](../Page/速野悠二.md "wikilink")）2003年6月号 - 2006年7月号
-  - 乙女とちぎり（[佐藤健悦](https://ja.wikipedia.org/wiki/佐藤健悦 "wikilink")）2016年10月号 - 2016年12月号
+  - 乙女とちぎり（[佐藤健悦](../Page/佐藤健悦.md "wikilink")）2016年10月号 - 2016年12月号
   - 鬼切姫 〜オードバスタープリンセス〜（[林雄一](https://ja.wikipedia.org/wiki/林雄一 "wikilink")）2005年11月号 - 2006年4月号
   - [お姉ちゃんバラ 紅](../Page/お姉チャンバラ.md "wikilink")（原作：[TAMSOFT](../Page/タムソフト.md "wikilink")/[D3 PUBLISHER](../Page/ディースリー・パブリッシャー.md "wikilink")、漫画：服部三枝）2008年12月号 - 2009年8月号
   - おもちゃイイフォメーション（[山本賢治](../Page/山本賢治.md "wikilink")）2004年2月号 - 2004年11月号
@@ -143,7 +143,7 @@
   - 侵略妹（シスター）アリス（しまだわかば）2007年5月号 - 2007年11月号
   - [スクール人魚](https://ja.wikipedia.org/wiki/スクール人魚 "wikilink")（[吉富昭仁](../Page/吉富昭仁.md "wikilink")）2013年3月号 - 2013年11月号、2016年9月号 - 2018年2月号、※『週刊少年チャンピオン』で短期連載された作品が、『RED』に移籍され本格連載。2016年8月号にプレストーリーを掲載した後、2016年9月号から再連載開始。
   - [スマガ](https://ja.wikipedia.org/wiki/スマガ "wikilink")RE（原作：[ニトロプラス](../Page/ニトロプラス.md "wikilink")、脚本：[下倉バイオ](https://ja.wikipedia.org/wiki/下倉バイオ "wikilink")、漫画：廣瀬周）2009年7月号 - 2009年12月号
-  - [聖痕のクェイサー](https://ja.wikipedia.org/wiki/聖痕のクェイサー "wikilink")（原作：[吉野弘幸](../Page/吉野弘幸_\(脚本家\).md "wikilink")、漫画：[佐藤健悦](https://ja.wikipedia.org/wiki/佐藤健悦 "wikilink")）2006年10月号 - 2016年9月号
+  - [聖痕のクェイサー](https://ja.wikipedia.org/wiki/聖痕のクェイサー "wikilink")（原作：[吉野弘幸](../Page/吉野弘幸_\(脚本家\).md "wikilink")、漫画：[佐藤健悦](../Page/佐藤健悦.md "wikilink")）2006年10月号 - 2016年9月号
   - 生徒会副会長矢上さゆりは頑張っている\!（原作：[稲光伸二](../Page/稲光伸二.md "wikilink")、漫画：[柚木N'](https://ja.wikipedia.org/wiki/柚木N' "wikilink")）2014年8月号 - 2016年7月号、※隔月連載。2015年2月号より毎号連載。
   - [制服ぬいだら♪](../Page/制服ぬいだら♪.md "wikilink")（[渡辺航](../Page/渡辺航_\(漫画家\).md "wikilink")）2002年11月号 - 2005年2月号、※未完
   - [聖闘士星矢EPISODE.G](https://ja.wikipedia.org/wiki/聖闘士星矢EPISODE.G "wikilink")（原作：[車田正美](https://ja.wikipedia.org/wiki/車田正美 "wikilink")、漫画：[岡田芽武](../Page/岡田芽武.md "wikilink")）2003年2月号 - 2013年8月号\[10\]

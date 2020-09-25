@@ -1,7 +1,7 @@
 > この記事は[G\'zOne](https://ja.wikipedia.org/wiki/G\'zOne)から翻訳されています。
 
 
-**G'zOne**（**ジーズワン**）は、かつて[カシオ計算機](../Page/カシオ計算機.md "wikilink")および[カシオ日立モバイルコミュニケーションズ](../Page/カシオ日立モバイルコミュニケーションズ.md "wikilink")→[NECカシオモバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/NECモバイルコミュニケーションズ "wikilink")（現・[日本電気](../Page/日本電気.md "wikilink")(NEC)）が開発・製造・発売していた、耐衝撃・[防水](../Page/防水.md "wikilink")・防塵（[G'zOne TYPE-X以降の機種のみ](https://ja.wikipedia.org/wiki/G'zOne_TYPE-X "wikilink")）性能を特徴とする[携帯電話](../Page/携帯電話.md "wikilink")（[フィーチャーフォン](https://ja.wikipedia.org/wiki/フィーチャーフォン "wikilink")）及び[Android](../Page/Android.md "wikilink")搭載[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")の各種ブランドである。
+**G'zOne**（**ジーズワン**）は、かつて[カシオ計算機](../Page/カシオ計算機.md "wikilink")および[カシオ日立モバイルコミュニケーションズ](../Page/カシオ日立モバイルコミュニケーションズ.md "wikilink")→[NECカシオモバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/NECモバイルコミュニケーションズ "wikilink")（現・[日本電気](../Page/日本電気.md "wikilink")(NEC)）が開発・製造・発売していた、耐衝撃・[防水](../Page/防水.md "wikilink")・防塵（[G'zOne TYPE-X以降の機種のみ](https://ja.wikipedia.org/wiki/G'zOne_TYPE-X "wikilink")）性能を特徴とする[携帯電話](../Page/携帯電話.md "wikilink")（[フィーチャーフォン](https://ja.wikipedia.org/wiki/フィーチャーフォン "wikilink")）及び[Android搭載](../Page/Android_\(オペレーティングシステム\).md "wikilink")[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")の各種ブランドである。
 
 ## 概要
 
@@ -49,7 +49,7 @@
   - [G'zOne TYPE-X](https://ja.wikipedia.org/wiki/G'zOne_TYPE-X "wikilink")（CDMA CAY01） ⇔ [N-03C](https://ja.wikipedia.org/wiki/N-03C "wikilink")
     2010年11月25日順次発売。大容量バッテリー、[Wi-Fi WINに対応](https://ja.wikipedia.org/wiki/Wi-Fi_WIN "wikilink")。G'zOneシリーズ10周年記念端末である。[フィーチャーフォンとしては最後のG](https://ja.wikipedia.org/wiki/フィーチャー・フォン "wikilink")'zOne機種となった。
   - [IS11CA](https://ja.wikipedia.org/wiki/IS11CA "wikilink")（CDMA CAI11）
-    2011年7月14日発売。シリーズ初の[Android](../Page/Android.md "wikilink") OS2.3搭載[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")。[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")対応。
+    2011年7月14日発売。シリーズ初の[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink") OS2.3搭載[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")。[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")対応。
   - [G'zOne TYPE-L CAL21](https://ja.wikipedia.org/wiki/CAL21 "wikilink")（CDMA CAL21） ⇔ [MEDIAS](https://ja.wikipedia.org/wiki/MEDIAS "wikilink") U [N-02E](https://ja.wikipedia.org/wiki/N-02E "wikilink")
     2012年11月2日発売。シリーズ初の[LTEサービス](https://ja.wikipedia.org/wiki/Long_Term_Evolution "wikilink")「[au 4G LTE](https://ja.wikipedia.org/wiki/au_4G_LTE "wikilink")」対応。インカメラ搭載。国内向けG'zOneシリーズの最終機種。
 
@@ -362,7 +362,7 @@ COMMANDO</a></p></td>
 <td><p>メイン：3.6インチカラーTFT液晶(480x800)</p></td>
 <td><p>500万<br />
 画素</p></td>
-<td><p><a href="../Page/Android.md" title="wikilink">Android</a> 2.2</p></td>
+<td><p><a href="../Page/Android_(オペレーティングシステム).md" title="wikilink">Android</a> 2.2</p></td>
 </tr>
 <tr class="even">
 <td><p>G'zOne<br />
@@ -393,7 +393,7 @@ COMMANDO 4G LTE</p></td>
 <td><p>メイン：4.0インチカラーTFT液晶(480x800)</p></td>
 <td><p>810万<br />
 画素</p></td>
-<td><p><a href="../Page/Android.md" title="wikilink">Android</a> 4.0</p></td>
+<td><p><a href="../Page/Android_(オペレーティングシステム).md" title="wikilink">Android</a> 4.0</p></td>
 </tr>
 </tbody>
 </table>

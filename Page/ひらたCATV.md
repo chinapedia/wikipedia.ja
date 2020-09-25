@@ -91,7 +91,7 @@
 
   - インターネット接続サービス
   - 音声告知放送
-  - FMラジオ（[エフエム山陰](../Page/エフエム山陰.md "wikilink")・[BSSラジオ](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")・[NHK-FM](../Page/NHK松江放送局.md "wikilink")）※お天気チャンネルのデータ放送での提供
+  - FMラジオ（[エフエム山陰](../Page/エフエム山陰.md "wikilink")・[BSSラジオ](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")・[NHK-FM](../Page/NHK松江放送局.md "wikilink")）※わがとこテレビ12chのデータ放送のみでの提供
 
 ## 脚注
 

@@ -414,11 +414,12 @@
 
 ### オリジナルサウンドトラック
 
-  - ストリートファイターEX （[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")2月21日 [ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")/[サイトロン](https://ja.wikipedia.org/wiki/サイトロン "wikilink")）
+  - ストリートファイターEX（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")2月21日 [ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink") / [サイトロン](https://ja.wikipedia.org/wiki/サイトロン "wikilink")）
   - ストリートファイターEX アレンジ サウンド トラック（1997年3月5日）
   - ストリートファイターEX2（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")6月17日）
-  - ストリートファイターEX2 PLUS（[2000年](../Page/2000年.md "wikilink")2月1日 [カプコン](../Page/カプコン.md "wikilink")/セルピュータ）
-  - ストリートファイターEX3 （2000年5月24日）
+  - ストリートファイターEX2 PLUS（[2000年](../Page/2000年.md "wikilink")2月1日 [カプコン](../Page/カプコン.md "wikilink") / セルピュータ）
+  - ストリートファイターEX3（2000年5月24日）
+  - FIGHTING EX LAYER Soundtracks（2018年12月12日 [Sweep Record](https://ja.wikipedia.org/wiki/スーパースィープ "wikilink")） - 『EX』シリーズのBGMを収録。
 
 ### 書籍・ビデオ
 

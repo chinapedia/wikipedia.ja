@@ -576,7 +576,7 @@ PCI Express 1.1までは2.5GT/sでデータ転送しているが、PCI Express 2
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>PCI Express x1 カードは 32 番ピンまでを備える</p></td>
+<td><p>PCI Express x4 カードは 32 番ピンまでを備える</p></td>
 <td></td>
 <td></td>
 <td></td>

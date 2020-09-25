@@ -66,7 +66,7 @@
 
 <references/>
 
-[Category:2003年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のラジオ番組_\(日本\) "wikilink") [Category:ラジオのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:ラジオのニュース・報道番組 "wikilink") [Category:TOKYO_FMの帯番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組 "wikilink") [Category:JFN系ラジオ番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオ番組 "wikilink")
+[Category:2003年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のラジオ番組_\(日本\) "wikilink") [Category:ラジオのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:ラジオのニュース・報道番組 "wikilink") [Category:TOKYO_FMの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組の歴史 "wikilink")
 
 1.  [4月2日(月) 新社会人に一言、新社会人から一言｜クロノス - TOKYO FM/JFN - 中西哲生/速水健朗/高橋万里恵](http://www.tfm.co.jp/ch/index.php?itemid=50099)
 2.  2010年4月 - 2016年3月は月 - 金を担当

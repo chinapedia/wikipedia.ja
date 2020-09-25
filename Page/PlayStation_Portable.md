@@ -1,7 +1,7 @@
 > この記事は[PlayStation Portable](https://ja.wikipedia.org/wiki/PlayStation_Portable)から翻訳されています。
 
 
-**PlayStation Portable**（プレイステーション・ポータブル、略: **PSP**\[1\]）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で[2004年](../Page/2004年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")に発売された[携帯型ゲーム](../Page/携帯型ゲーム.md "wikilink")機\[2\]。発売元はソニー・コンピュータエンタテインメント（略: SCE、現: [ソニー・インタラクティブエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・インタラクティブエンタテインメント "wikilink")）。
+**PlayStation Portable**（プレイステーション・ポータブル、略: **PSP**\[1\]）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で[2004年](../Page/2004年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")に発売された[携帯型ゲーム](../Page/携帯型ゲーム.md "wikilink")機\[2\]。発売元はソニー・コンピュータエンタテインメント（略: SCE、現: [ソニー・インタラクティブエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・インタラクティブエンタテインメント "wikilink")〈SIE〉）。
 
 [PlayStationの発売](../Page/PlayStation_\(ゲーム機\).md "wikilink")10周年を記念して発売された（発表当初は「[21世紀](../Page/21世紀.md "wikilink")の[ウォークマン](../Page/ウォークマン.md "wikilink")」と位置づけられた）\[3\]。[2009年](../Page/2009年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")には、姉妹機である「[PSP go](https://ja.wikipedia.org/wiki/PlayStation_Portable_go "wikilink")」が発売された\[4\]。
 
@@ -61,6 +61,63 @@
 ## 仕様
 
 ### ハードウェア
+
+**概要**
+
+  -
+    外形寸法（幅、高さ、奥行き）
+      -
+        PSP-1000シリーズ 約170×23×74 mm
+        PSP-2000/3000シリーズ 約169.4×18.6×71.4 mm
+    重量（バッテリーを含む）
+      -
+        PSP-2000シリーズ 約280 g
+        PSP-2000/3000シリーズ 約189 g
+    電源
+      -
+        交換可能 リチウムイオンバッテリー（3.6V。別売りで2,200mAhもある）
+          -
+            PSP-1000シリーズ 1,800 mAh
+            PSP-2000/3000シリーズ 1,200 mAh
+        ACアダプター
+
+**[CPU](../Page/CPU.md "wikilink")**
+
+  -
+    クロック周波数: 333 MHz（標準は222 MHz）
+    1基の[MIPSベース](../Page/MIPSアーキテクチャ.md "wikilink") 32ビットコア
+
+**[GPU](https://ja.wikipedia.org/wiki/GPU "wikilink")**
+
+  -
+    クロック周波数: 166 MHz（標準は111MHz）
+
+**メモリ**
+
+  -
+    メインメモリ: 32 MB（PSP-2000/3000は64 MB）
+    サブメモリ: 4 MB（グラフィックスコアとビデオデコーダーに2 MBずつ固定的に割り当て）
+
+**ディスクメディア**
+
+  -
+    [UMD](../Page/ユニバーサル・メディア・ディスク.md "wikilink")
+  - 通信
+    無線LAN: IEEE 802.11b（[Wi-Fi](../Page/Wi-Fi.md "wikilink")認証取得、PSP-E1000は非搭載）
+    赤外線通信: IrDA（PSP-1000のみ）
+
+**AV出力**
+
+  -
+    アナログ出力: 独自端子×1（PSP-2000/3000のみ。D端子、コンポーネント端子、S端子、コンポジット端子へ変換可能）
+    アナログ音声出力: ステレオミニプラグ×1
+
+**I/O**
+
+  -
+    USB 2.0ポート×1
+    メモリースティック PRO Duoスロット×1
+    独自端子×1（音声入力や音楽再生時の操作に使用可能。PSP-2000/3000のみ、テレビへの映像出力が可能）
 
 #### PSP-1000シリーズ
 

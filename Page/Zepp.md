@@ -1,7 +1,7 @@
 > この記事は[Zepp](https://ja.wikipedia.org/wiki/Zepp)から翻訳されています。
 
 
-**Zepp**（ゼップ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")及び[東南アジア](../Page/東南アジア.md "wikilink")で展開されている[ライブハウス](../Page/ライブハウス.md "wikilink")（コンサートホール）の名称。日本では[ソニー・ミュージックエンタテインメントの](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")[子会社](../Page/子会社.md "wikilink")である**Zeppホールネットワーク**が運営を行う。
+**Zepp**（ゼップ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")及び[東南アジア](../Page/東南アジア.md "wikilink")で展開されている[ライブハウス](../Page/ライブハウス.md "wikilink")（[コンサートホール](../Page/コンサートホール.md "wikilink")）の名称。日本では[ソニー・ミュージックエンタテインメントの](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")[子会社](../Page/子会社.md "wikilink")である**Zeppホールネットワーク**が運営を行う。
 
 ## 概要
 
@@ -103,7 +103,7 @@ Zeppライブでは、[橋元恵一](https://ja.wikipedia.org/wiki/橋元恵一 
 <td></td>
 <td><p>KT Zepp Yokohama<br />
 <small>KT Zepp 横浜</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:KT_Zepp_Yokohama.jpg&lt;!--File:Gthumb.svg--&gt;" title="fig:KT_Zepp_Yokohama.jpg&lt;!--File:Gthumb.svg--&gt;">KT_Zepp_Yokohama.jpg&lt;!--File:Gthumb.svg--&gt;</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:KT_Zepp_Yokohama_03.jpg&lt;!--File:Gthumb.svg--&gt;" title="fig:KT_Zepp_Yokohama_03.jpg&lt;!--File:Gthumb.svg--&gt;">KT_Zepp_Yokohama_03.jpg&lt;!--File:Gthumb.svg--&gt;</a></p></td>
 <td><p>2,146人<br />
 <small>1階・1,630人（ス）/735人（座）<br />
 2階・516人（座）</p></td>
@@ -319,7 +319,7 @@ Zepp Nagoya以前に設置された施設は、[2002年](../Page/2002年.md "wik
     [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")6月から[2009年](../Page/2009年.md "wikilink")1月の期間で、同地の土地を所有する[大阪市](../Page/大阪市.md "wikilink")および[大阪港振興協会](https://ja.wikipedia.org/wiki/大阪港振興協会 "wikilink")との間の賃貸借契約があったほか、大阪港振興協会とホールネットワークとの間で同期間の事業用定期借地契約を結んでおり\[38\]、期限までに土地所有者の大阪市へ更地にした上で返却する必要があった。このため、当初の予定では[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")11月末の閉鎖の方向で進んでいた\[39\]。
     [2012年](../Page/2012年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")、代替施設として「**Zepp Namba (OSAKA)**」\[40\]を開業し\[41\]\[42\]、[4月8日](../Page/4月8日.md "wikilink")にこれに先立って当施設を閉館。[2017年](../Page/2017年.md "wikilink")にはかつての当施設の所在地だった[住之江区](../Page/住之江区.md "wikilink")へ隣接する[此花区](../Page/此花区.md "wikilink")に、新たに「**Zepp Osaka Bayside**」をオープンさせた\[43\]。
   - Zepp Tokyo （営業継続）
-    当初、入居する[パレットタウン](../Page/パレットタウン.md "wikilink")が[東京都](../Page/東京都.md "wikilink")との間で結んでいた定期借地契約は12年間\[44\]であり、敷地は2010年5月の閉鎖・解体後に都へ返還され、[森ビル](../Page/森ビル.md "wikilink")・[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が跡地部分を再度購入して複合商業施設を新たに建設する予定が立てられていた\[45\]。しかし、2008年[9月15日](../Page/9月15日.md "wikilink")の[リーマン・ショック](https://ja.wikipedia.org/wiki/リーマン・ショック "wikilink")以降に起こった[世界金融危機によって急激に経済状況が悪化し](https://ja.wikipedia.org/wiki/世界金融危機_\(2007年-\) "wikilink")、2009年（平成21年）[11月5日](../Page/11月5日.md "wikilink")には再開発計画が先送りとなる見通しとなった\[46\]。その後、Zepp Tokyoなどの既存施設は「[2012年](../Page/2012年.md "wikilink")頃まで存続する見込み」と報道され\[47\]、[2011年](../Page/2011年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")には施設の存続が発表された\[48\]。
+    当初、入居する[パレットタウン](../Page/パレットタウン.md "wikilink")が[東京都](../Page/東京都.md "wikilink")との間で結んでいた定期借地契約は12年間\[44\]であり、敷地は2010年5月の閉鎖・解体後に都へ返還され、[森ビル](../Page/森ビル.md "wikilink")・[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が跡地部分を再度購入して複合商業施設を新たに建設する予定が立てられていた\[45\]。しかし、2008年[9月15日](../Page/9月15日.md "wikilink")の[リーマン・ショック](https://ja.wikipedia.org/wiki/リーマン・ショック "wikilink")以降に起こった[世界金融危機によって急激に経済状況が悪化し](https://ja.wikipedia.org/wiki/世界金融危機_\(2007年-\) "wikilink")、2009年（平成21年）[11月5日](../Page/11月5日.md "wikilink")には再開発計画が先送りとなる見通しとなった\[46\]。その後、Zepp Tokyoなどの既存施設は「[2012年](../Page/2012年.md "wikilink")頃まで存続する見込み」と報道され\[47\]、[2011年](../Page/2011年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")には施設の存続が発表された\[48\]。2020年時点では、再開発が始まる前の[2022年](../Page/2022年.md "wikilink")頃まで存続する見込みである（詳細は「[パレットタウン\#施設の閉鎖と跡地開発](https://ja.wikipedia.org/wiki/パレットタウン#施設の閉鎖と跡地開発 "wikilink")」を参照）。
     [2012年](../Page/2012年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")、[三井不動産](../Page/三井不動産.md "wikilink")と[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")が共同で開業した[ダイバーシティ東京](https://ja.wikipedia.org/wiki/ダイバーシティ東京 "wikilink")内に「**Zepp DiverCity（TOKYO）**」\[49\]を開業\[50\]\[51\]。なお、ダイバーシティ東京はパレットタウンと同じく[東京臨海副都心](../Page/東京臨海副都心.md "wikilink")に所在するため、これによって[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")内に2ヶ所のZeppが所在することとなったが、Zepp Tokyoも並列して営業を継続している\[52\]\[53\]。
   - Zepp Sendai （閉館）
     当初の定期借地契約期限は2010年（平成22年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")末までであり、2008年秋には土地の所有者である[東日本旅客鉄道仙台支社](../Page/東日本旅客鉄道仙台支社.md "wikilink")（JR東日本仙台支社）との間で契約延長の協議を行っていた\[54\]。しかし、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）が[2015年](../Page/2015年.md "wikilink")の[仙台市地下鉄東西線](https://ja.wikipedia.org/wiki/仙台市地下鉄東西線 "wikilink")開業に合わせてJR仙台駅東口一帯の[再開発](../Page/再開発.md "wikilink")を計画していたため\[55\]、2009年春の時点で交渉の難航が報道された\[56\]。すると、地元の女子大学生を中心とした存続に関する[署名運動](https://ja.wikipedia.org/wiki/署名運動 "wikilink")が起こり、2009年[10月27日](../Page/10月27日.md "wikilink")に定期借地契約の2年延長が発表された\[57\]。これに伴い、[2012年](../Page/2012年.md "wikilink")5月上旬までの営業継続後に施設を撤去・[更地](https://ja.wikipedia.org/wiki/更地 "wikilink")化し、7月末までにJR側へ返還することが決まったが、その後の移転計画は「[白紙](https://ja.wikipedia.org/wiki/白紙 "wikilink")」となった\[58\]\[59\]。

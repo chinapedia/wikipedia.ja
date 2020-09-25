@@ -1,7 +1,7 @@
 > この記事は[イオー・ジマ \(LHD-7\)](https://ja.wikipedia.org/wiki/イオー・ジマ_\(LHD-7\))から翻訳されています。
 
 
-**イオー・ジマ**（USS Iwo Jima, LHD-7）は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[強襲揚陸艦](https://ja.wikipedia.org/wiki/強襲揚陸艦 "wikilink")。[ワスプ級強襲揚陸艦](../Page/ワスプ級強襲揚陸艦.md "wikilink")の7番艦。[2005年](../Page/2005年.md "wikilink")2月から[第2艦隊](https://ja.wikipedia.org/wiki/第2艦隊_\(アメリカ軍\) "wikilink")[旗艦](../Page/旗艦.md "wikilink")を務める。艦名は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の[激戦地であった](https://ja.wikipedia.org/wiki/硫黄島の戦い "wikilink")[硫黄島に因んで名付けられており](../Page/硫黄島_\(東京都\).md "wikilink")、アメリカ海軍所属艦艇の同名の[強襲揚陸艦](https://ja.wikipedia.org/wiki/強襲揚陸艦 "wikilink")としては2代目、先代は[1993年](../Page/1993年.md "wikilink")に退役した[イオー・ジマ級](../Page/イオー・ジマ級強襲揚陸艦.md "wikilink")1番艦[イオー・ジマ](https://ja.wikipedia.org/wiki/イオー・ジマ_\(LPH-2\) "wikilink")（[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")就役 ）である。
+**イオー・ジマ**（USS Iwo Jima, LHD-7）は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[強襲揚陸艦](../Page/強襲揚陸艦.md "wikilink")。[ワスプ級強襲揚陸艦](../Page/ワスプ級強襲揚陸艦.md "wikilink")の7番艦。[2005年](../Page/2005年.md "wikilink")2月から[第2艦隊](https://ja.wikipedia.org/wiki/第2艦隊_\(アメリカ軍\) "wikilink")[旗艦](../Page/旗艦.md "wikilink")を務める。艦名は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の[激戦地であった](https://ja.wikipedia.org/wiki/硫黄島の戦い "wikilink")[硫黄島に因んで名付けられており](../Page/硫黄島_\(東京都\).md "wikilink")、アメリカ海軍所属艦艇の同名の[強襲揚陸艦](../Page/強襲揚陸艦.md "wikilink")としては2代目、先代は[1993年](../Page/1993年.md "wikilink")に退役した[イオー・ジマ級](../Page/イオー・ジマ級強襲揚陸艦.md "wikilink")1番艦[イオー・ジマ](https://ja.wikipedia.org/wiki/イオー・ジマ_\(LPH-2\) "wikilink")（[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")就役 ）である。
 
 ## 艦歴
 
@@ -15,7 +15,7 @@
 
 ## 関連項目
 
-  - [強襲揚陸艦](https://ja.wikipedia.org/wiki/強襲揚陸艦 "wikilink")
+  - [強襲揚陸艦](../Page/強襲揚陸艦.md "wikilink")
   - [アメリカ海軍艦艇一覧](https://ja.wikipedia.org/wiki/アメリカ海軍艦艇一覧 "wikilink")
 
 ## 外部リンク

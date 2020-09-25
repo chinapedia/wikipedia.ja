@@ -7,7 +7,7 @@
 
 女性版[SASUKE](https://ja.wikipedia.org/wiki/SASUKE "wikilink")として、2001年12月に初めて放送され、2018年7月の時点で11回開催されている。番組タイトルは女性の[忍者](../Page/忍者.md "wikilink")「[くノ一](../Page/くノ一.md "wikilink")」に由来。
 
-完全制覇は、[2004年](../Page/2004年.md "wikilink")末の第4回、[2006年](../Page/2006年.md "wikilink")新春の第5回、[2006年](../Page/2006年.md "wikilink")秋の第6回に、[三宅綾子](../Page/三宅綾子.md "wikilink")が、[2009年](../Page/2009年.md "wikilink")秋の第8回に[小宮理英](../Page/小宮理英.md "wikilink")、[門井佐登美](https://ja.wikipedia.org/wiki/門井佐登美 "wikilink")がそれぞれ達成している。
+完全制覇は、[2004年](../Page/2004年.md "wikilink")末の第4回、[2006年](../Page/2006年.md "wikilink")新春の第5回、[2006年](../Page/2006年.md "wikilink")秋の第6回に、[三宅綾子](../Page/三宅綾子.md "wikilink")が、[2009年](../Page/2009年.md "wikilink")秋の第8回に[小宮理英](../Page/小宮理英.md "wikilink")、[門井佐登美](https://ja.wikipedia.org/wiki/門井佐登美 "wikilink")がそれぞれ達成している。完全制覇の確率は0.52%
 
 毎回50人（第8回までは100人）が出場し、4つのステージに分かれたさまざまな障害物を[アクションゲーム](../Page/アクションゲーム.md "wikilink")のようにクリアしていく巨大フィールドアスレチック。途中で池に落下するか、池の水面に着水したり、コースアウト、タイムオーバーになるとその場でリタイアとなる。
 
@@ -134,7 +134,7 @@
 | 78   | 浅見清香                                                  | 3rd   | 倒連板 | 29 - 30枚目        |
 | 85   | 渡辺和江                                                  | 3rd   | 倒連板 | 25 - 26枚目        |
 | 70   | 吉浜愛梨                                                  | 3rd   | 倒連板 | 25 - 26枚目        |
-| 5    | 中西百重                                                  | 3rd   | 倒連板 | 4 - 5枚目          |
+| 5    | [中西百重](../Page/中西百重.md "wikilink")                    | 3rd   | 倒連板 | 4 - 5枚目          |
 | 84   | RUO                                                   | 3rd   | 二連棒 | 2本目、コースアウト       |
 | 71   | [西村知恵](https://ja.wikipedia.org/wiki/西村知恵 "wikilink") | 3rd   | 二連棒 | 2本目、コースアウト       |
 

@@ -38,7 +38,7 @@ MP3.comを1998年に設立したMichael Robertsonは、のちに[Lindows, Incを
   - [MP3.com](https://mp3.com/)
   - [Mood Media North America](https://us.moodmedia.com/)
   - [CNET Download](https://download.cnet.com/), CNETの音楽ダウンロードサービス
-  - [RIAA Sues MP3.com](http://web.archive.org/web/20000511111516/www.mp3newswire.net/stories/2000/riaavmp3.html) - 音楽業界とMy.MP3.comとの訴訟に関する2000年1月の記事（英語）
-  - [The Merits in the MP3.com Lawsuit](http://web.archive.org/web/20000619111301/www.mp3newswire.net/stories/2000/mp3courtpoint.html) - Universal/MP3.com裁判に関する2000年5月の記事（英語）
+  - [RIAA Sues MP3.com](https://web.archive.org/web/20000511111516/www.mp3newswire.net/stories/2000/riaavmp3.html) - 音楽業界とMy.MP3.comとの訴訟に関する2000年1月の記事（英語）
+  - [The Merits in the MP3.com Lawsuit](https://web.archive.org/web/20000619111301/www.mp3newswire.net/stories/2000/mp3courtpoint.html) - Universal/MP3.com裁判に関する2000年5月の記事（英語）
 
 [Category:音楽のウェブサイト](https://ja.wikipedia.org/wiki/Category:音楽のウェブサイト "wikilink") [Category:かつて存在した音楽配信サービス](https://ja.wikipedia.org/wiki/Category:かつて存在した音楽配信サービス "wikilink") [Category:MP3](https://ja.wikipedia.org/wiki/Category:MP3 "wikilink")

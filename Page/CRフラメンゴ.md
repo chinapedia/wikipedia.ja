@@ -43,10 +43,10 @@
 
   - **タッサ・ドス・カンピオンイス・リオ＝サンパウロ　 : 1回**
       - 1955
-  - **[カンピオナート・カリオカ](https://ja.wikipedia.org/wiki/カンピオナート・カリオカ "wikilink") : 35回**
+  - **[カンピオナート・カリオカ](https://ja.wikipedia.org/wiki/カンピオナート・カリオカ "wikilink") : 36回**
       - 1914, 1915, 1920, 1921, 1925, 1927, 1939, 1942, 1943, 1944, 1953, 1954, 1955, 1963, 1965,
         1972, 1974, 1978, 1979, 1979ex, 1981, 1986, 1991, 1996, 1999, 2000, 2001, 2004, 2007, 2008,
-        2009, 2011, 2014, 2017, 2019
+        2009, 2011, 2014, 2017, 2019 , 2020
 
 <!-- end list -->
 
@@ -89,223 +89,223 @@
 <thead>
 <tr class="header">
 <th><p>年</p></th>
-<th><p><a href="../Page/カンピオナート・ブラジレイロ.md" title="wikilink">全国選手権</a></p></th>
-<th><p>順位</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/コパ・ド・ブラジル" title="wikilink">ブラジル杯</a></p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/カンピオナート・カリオカ" title="wikilink">カリオカ</a></p></th>
+<th><p><a href="../Page/カンピオナート・ブラジレイロ.md" title="wikilink">ブラジレイロ</a></p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/コパ・ド・ブラジル" title="wikilink">コパ・ド・ブラジル</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/コパ・リベルタドーレス" title="wikilink">コパ・リベルタドーレス</a></p></th>
 <th><p><a href="../Page/コパ・スダメリカーナ.md" title="wikilink">コパ・スダメリカーナ</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/カンピオナート・カリオカ" title="wikilink">リオ州選手権</a></p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/クラブワールドカップ" title="wikilink">クラブワールドカップ</a></p></th>
 <th><p>その他</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2001_カンピオナート・ブラジレイロ・セリエA" title="wikilink">2001</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a></p></td>
-<td><p>24位</p></td>
+<td><p><a href="../Page/2001年.md" title="wikilink">2001</a></p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2001_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 24位</p></td>
 <td><p>ベスト8</p></td>
 <td><p>-</p></td>
 <td><p>準優勝</p></td>
-<td><p><strong>優勝</strong></p></td>
-<td><p>•コパ・ドス・カンピオンイス</p></td>
+<td><p>-</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/コパ・ドス・カンピオンイス" title="wikilink">コパ・ドス・カンピオンイス</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2002_カンピオナート・ブラジレイロ・セリエA" title="wikilink">2002</a></p></td>
-<td><p>18位</p></td>
+<td><p><a href="../Page/2002年.md" title="wikilink">2002</a></p></td>
+<td><p>8位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2002_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 18位</p></td>
 <td><p>-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/コパ・リベルタドーレス2002" title="wikilink">グループリーグ敗退</a></p></td>
 <td><p>-</p></td>
-<td><p>8位</p></td>
-<td></td>
+<td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2003_カンピオナート・ブラジレイロ・セリエA" title="wikilink">2003</a></p></td>
-<td><p>8位</p></td>
+<td><p><a href="../Page/2003年.md" title="wikilink">2003</a></p></td>
+<td><p>3位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2003_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 8位</p></td>
 <td><p>準優勝</p></td>
 <td><p>-</p></td>
 <td><p>プレーオフ敗退</p></td>
-<td><p>3位</p></td>
-<td></td>
+<td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2004_カンピオナート・ブラジレイロ・セリエA" title="wikilink">2004</a></p></td>
-<td><p>17位</p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004</a></p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2004_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 17位</p></td>
 <td><p>準優勝</p></td>
 <td><p>-</p></td>
 <td><p>プレーオフ敗退</p></td>
-<td><p><strong>優勝</strong></p></td>
-<td></td>
+<td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005_カンピオナート・ブラジレイロ・セリエA" title="wikilink">2005</a></p></td>
-<td><p>15位</p></td>
-<td><p>ベスト16</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005</a></p></td>
 <td><p>8位</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2005_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 15位</p></td>
+<td><p>ベスト16</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006_カンピオナート・ブラジレイロ・セリエA" title="wikilink">2006</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006</a></p></td>
 <td><p>11位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2006_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 11位</p></td>
 <td><p><strong>優勝</strong></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>11位</p></td>
-<td></td>
+<td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2007_カンピオナート・ブラジレイロ・セリエA" title="wikilink">2007</a></p></td>
-<td><p>3位</p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007</a></p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2007_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 3位</p></td>
 <td><p>-</p></td>
 <td><p>ベスト16</p></td>
 <td><p>-</p></td>
-<td><p><strong>優勝</strong></p></td>
-<td></td>
+<td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2008_カンピオナート・ブラジレイロ・セリエA" title="wikilink">2008</a></p></td>
-<td><p>5位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008</a></p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2008_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 5位</p></td>
 <td><p>-</p></td>
 <td><p>ベスト16</p></td>
 <td><p>-</p></td>
-<td><p><strong>優勝</strong></p></td>
-<td></td>
+<td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2009_カンピオナート・ブラジレイロ・セリエA" title="wikilink">2009</a></p></td>
+<td><p><a href="../Page/2009年.md" title="wikilink">2009</a></p></td>
 <td><p><strong>優勝</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2009_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> <strong>優勝</strong></p></td>
 <td><p>ベスト8</p></td>
 <td><p>-</p></td>
 <td><p>グループリーグ敗退</p></td>
-<td><p><strong>優勝</strong></p></td>
-<td></td>
+<td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2010_カンピオナート・ブラジレイロ・セリエA" title="wikilink">2010</a></p></td>
-<td><p>14位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010</a></p></td>
+<td><p>準優勝</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2010_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 14位</p></td>
 <td><p>-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/コパ・リベルタドーレス2010" title="wikilink">ベスト8</a></p></td>
 <td><p>-</p></td>
-<td><p>準優勝</p></td>
-<td></td>
+<td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2011_カンピオナート・ブラジレイロ・セリエA" title="wikilink">2011</a></p></td>
-<td><p>4位</p></td>
+<td><p><a href="../Page/2011年.md" title="wikilink">2011</a></p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2011_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 4位</p></td>
 <td><p>ベスト8</p></td>
 <td><p>-</p></td>
 <td><p>ベスト16</p></td>
-<td><p><strong>優勝</strong></p></td>
-<td></td>
+<td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2012_カンピオナート・ブラジレイロ・セリエA" title="wikilink">2012</a></p></td>
-<td><p>11位</p></td>
+<td><p><a href="../Page/2012年.md" title="wikilink">2012</a></p></td>
+<td><p>3位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2012_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 11位</p></td>
 <td><p>-</p></td>
 <td><p>2次リーグ敗退</p></td>
 <td><p>-</p></td>
-<td><p>3位</p></td>
-<td></td>
+<td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2013_カンピオナート・ブラジレイロ・セリエA" title="wikilink">2013</a></p></td>
-<td><p>16位</p></td>
+<td><p><a href="../Page/2013年.md" title="wikilink">2013</a></p></td>
+<td><p>3位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2013_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 16位</p></td>
 <td><p><strong>優勝</strong></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>3位</p></td>
-<td></td>
+<td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2014_カンピオナート・ブラジレイロ・セリエA" title="wikilink">2014</a></p></td>
-<td><p>10位</p></td>
+<td><p><a href="../Page/2014年.md" title="wikilink">2014</a></p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2014_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 10位</p></td>
 <td><p>ベスト4</p></td>
 <td><p>2次リーグ敗退</p></td>
 <td><p>-</p></td>
-<td><p><strong>優勝</strong></p></td>
-<td></td>
+<td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2015_カンピオナート・ブラジレイロ・セリエA" title="wikilink">2015</a></p></td>
-<td><p>12位</p></td>
+<td><p><a href="../Page/2015年.md" title="wikilink">2015</a></p></td>
+<td><p>準優勝</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2015_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 12位</p></td>
 <td><p>ベスト16</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>準優勝</p></td>
-<td></td>
+<td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2016_カンピオナート・ブラジレイロ・セリエA" title="wikilink">2016</a></p></td>
-<td><p>3位</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>ベスト16</p></td>
+<td><p><a href="../Page/2016年.md" title="wikilink">2016</a></p></td>
 <td><p>4位</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2017_カンピオナート・ブラジレイロ・セリエA" title="wikilink">2017</a></p></td>
-<td><p>6位</p></td>
-<td><p>準優勝</p></td>
-<td><p>グループリーグ敗退</p></td>
-<td><p>準優勝</p></td>
-<td><p><strong>優勝</strong></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2018_カンピオナート・ブラジレイロ・セリエA" title="wikilink">2018</a></p></td>
-<td><p>準優勝</p></td>
-<td><p>ベスト4</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2016_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 3位</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
 <td><p>ベスト16</p></td>
 <td><p>-</p></td>
-<td><p>ベスト4</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2019_カンピオナート・ブラジレイロ・セリエA" title="wikilink">2019</a></p></td>
+<td><p><a href="../Page/2017年.md" title="wikilink">2017</a></p></td>
 <td><p><strong>優勝</strong></p></td>
-<td><p>ベスト8</p></td>
-<td><p><strong>優勝</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2017_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 6位</p></td>
+<td><p>準優勝</p></td>
+<td><p><a href="../Page/コパ・リベルタドーレス2018.md" title="wikilink">グループリーグ敗退</a></p></td>
+<td><p>準優勝</p></td>
 <td><p>-</p></td>
-<td><p><strong>優勝</strong></p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2020_カンピオナート・ブラジレイロ・セリエA" title="wikilink">2020</a></p></td>
+<td><p><a href="../Page/2018年.md" title="wikilink">2018</a></p></td>
+<td><p>ベスト4</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2018_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> 準優勝</p></td>
+<td><p>ベスト4</p></td>
+<td><p><a href="../Page/コパ・リベルタドーレス2018.md" title="wikilink">ベスト16</a></p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2019年.md" title="wikilink">2019</a></p></td>
+<td><p><strong>優勝</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2019_カンピオナート・ブラジレイロ・セリエA" title="wikilink">セリエA</a> <strong>優勝</strong></p></td>
+<td><p>ベスト8</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/コパ・リベルタドーレス2019" title="wikilink">優勝</a></strong></p></td>
+<td><p>-</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FIFAクラブワールドカップ2019" title="wikilink">準優勝</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020</a></p></td>
+<td><p><strong>優勝</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>•スーペルコパ・ド・ブラジル</p>
-<p>•レコパ・スダメリカーナ　　</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/スーペルコパ・ド・ブラジル" title="wikilink">スーペルコパ・ド・ブラジル</a><br />
+<a href="../Page/レコパ・スダメリカーナ2020.md" title="wikilink">レコパ・スダメリカーナ</a></p></td>
 </tr>
 </tbody>
 </table>
 
 ## 現所属メンバー
 
-  - 2019シーズン 主要フォーメーション
+  - 2020シーズン 主要フォーメーション
 
 <div style="position: relative;">
 

@@ -217,6 +217,22 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><strong>31</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大上健" title="wikilink">大上健</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テクノネット大阪" title="wikilink">テクノネット大阪</a></p></td>
+<td><p>2020年</p></td>
+<td><p>新加入</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>35</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/岡本涼" title="wikilink">岡本涼</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/エルドラドFC" title="wikilink">エルドラドFC</a></p></td>
+<td><p>2020年</p></td>
+<td><p>新加入</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -283,7 +299,7 @@
 <tr class="odd">
 <td><p><strong>25</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/岡田優樹" title="wikilink">岡田優樹</a></p></td>
-<td><p>ルネス学園SC</p></td>
+<td><p><a href="../Page/ルネス学園甲賀サッカークラブ.md" title="wikilink">ルネス学園SC</a></p></td>
 <td><p>2020年</p></td>
 <td><p>新加入</p></td>
 <td></td>
@@ -358,6 +374,14 @@
 <td><p><a href="../Page/東山中学校・高等学校.md" title="wikilink">東山高校</a></p></td>
 <td><p>2020年</p></td>
 <td><p>新加入</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>

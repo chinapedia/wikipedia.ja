@@ -12,7 +12,7 @@
 
 ### 連載終了
 
-  - [激戦区・ツンぷに食堂](https://ja.wikipedia.org/wiki/激戦区・ツンぷに食堂 "wikilink")（[まんがライフMOMO](../Page/まんがライフMOMO.md "wikilink") 2007年11月号・2008年3月号、11月号（以上読切）、2009年3月号 - 2012年4月号、既刊2巻）
+  - [激戦区・ツンぷに食堂](https://ja.wikipedia.org/wiki/激戦区・ツンぷに食堂 "wikilink")（[まんがライフMOMO](../Page/まんがライフMOMO.md "wikilink") 2007年11月号・2008年3月号、11月号（以上読切）、2009年3月号 - 2012年4月号、全3巻）
   - [丼ぐり。](../Page/丼ぐり。.md "wikilink")（[コミックメガストアH](https://ja.wikipedia.org/wiki/コミックメガストアH "wikilink") 2004年12月号 - 2008年2月号、全2巻）
   - [サイバーボッツ](../Page/サイバーボッツ.md "wikilink")（[コミックゲーメスト](../Page/コミックゲーメスト.md "wikilink")）
   - SCRIPTダウナーズ（[コミックガム](../Page/コミックガム.md "wikilink")、全2巻）

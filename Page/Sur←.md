@@ -7,7 +7,7 @@
 
 ## 解説
 
-本作のタイトルは「sur（[シュール](https://ja.wikipedia.org/wiki/シュール "wikilink")）」を「←（左）」、即ち反対から読む意味で「ルーシュ」と読む（正確なデザインは「sur」の上に「←」が乗っている）。コンセプトは「シュールな歌謡曲」であり、リリース当時、[早川タケジ](https://ja.wikipedia.org/wiki/早川タケジ "wikilink")のデザインによるかなりどぎついジャケ写が話題になった。『[JULIE IV 今僕は倖せです](../Page/JULIE_IV_今僕は倖せです.md "wikilink")』以来実に23年ぶりの沢田研二セルフプロデュース作品。
+本作のタイトルは「sur（[シュール](https://ja.wikipedia.org/wiki/シュール "wikilink")）」を「←（左）」、即ち反対から読む意味で「ルーシュ」と読む（正確なデザインは「sur」の上に「←」が乗っている）。コンセプトは「シュールな歌謡曲」であり、ジャケットは[早川タケジ](https://ja.wikipedia.org/wiki/早川タケジ "wikilink")のデザインによる。『[JULIE IV 今僕は倖せです](../Page/JULIE_IV_今僕は倖せです.md "wikilink")』以来実に23年ぶりの沢田研二セルフプロデュース作品。
 
 本作では[大村憲司](../Page/大村憲司.md "wikilink")、[白井良明](https://ja.wikipedia.org/wiki/白井良明 "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")勢と[小林信吾](https://ja.wikipedia.org/wiki/小林信吾 "wikilink")、[朝本浩文](../Page/朝本浩文.md "wikilink")の[キーボーディスト](../Page/キーボーディスト.md "wikilink")勢に大別できるが多くのミュージシャンを起用し、多彩な音色を構築している。また[PYG](../Page/PYG.md "wikilink")以来苦楽を共にしていた[井上堯之](../Page/井上堯之.md "wikilink")が1曲提供している。前述通り本作は沢田自身のプロデュースにより、以後の作品は現在に至るまで沢田本人の強固な意志の元に製作されている作品である。
 

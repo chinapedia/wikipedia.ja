@@ -27,7 +27,7 @@
 
 ## エピソード
 
-[チャールズ王太子](https://ja.wikipedia.org/wiki/チャールズ王太子 "wikilink")の21歳の誕生日に寄贈され、その後プライベートカーとして使用していたこともあり、[2011年](../Page/2011年.md "wikilink")4月29日に行われた、[ウィリアム王子と](https://ja.wikipedia.org/wiki/ウィリアム_\(ケンブリッジ公\) "wikilink")[キャサリン妃の結婚披露で](../Page/キャサリン_\(ケンブリッジ公爵夫人\).md "wikilink")、[バッキンガム宮殿](../Page/バッキンガム宮殿.md "wikilink")から公邸までの移動にブルーメタリックの「DB6Mk2ヴォランテ」が使われ、[ライセンスプレートも](../Page/ナンバープレート.md "wikilink")、「JUST WED」に掛けた「JU5T WED」という凝ったものが使用された。
+[チャールズ王太子](https://ja.wikipedia.org/wiki/チャールズ王太子 "wikilink")の21歳の誕生日に寄贈され、その後プライベートカーとして使用していたこともあり、[2011年](../Page/2011年.md "wikilink")4月29日に行われた、[ウィリアム王子と](https://ja.wikipedia.org/wiki/ウィリアム_\(ケンブリッジ公\) "wikilink")[キャサリン妃の](../Page/キャサリン_\(ケンブリッジ公爵夫人\).md "wikilink")[結婚披露で](https://ja.wikipedia.org/wiki/ウィリアム王子とキャサリン・ミドルトンの婚礼 "wikilink")、[バッキンガム宮殿](../Page/バッキンガム宮殿.md "wikilink")から公邸までの移動にブルーメタリックの「DB6Mk2ヴォランテ」が使われ、[ライセンスプレートも](../Page/ナンバープレート.md "wikilink")、「JUST WED」に掛けた「JU5T WED」という凝ったものが使用された。
 
 ## 関連項目
 

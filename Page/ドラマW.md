@@ -1889,12 +1889,13 @@
 <tr class="odd">
 <td><p>44</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/夜がどれほど暗くても#テレビドラマ" title="wikilink">夜がどれほど暗くても</a></p></td>
-<td><p>11月 - （予定）</p></td>
+<td><p>11月22日 - 12月13日<br />
+（予定）</p></td>
 <td><p>全4回</p></td>
 <td><p><a href="../Page/橋本一.md" title="wikilink">橋本一</a><br />
 <a href="https://ja.wikipedia.org/wiki/谷口正晃" title="wikilink">谷口正晃</a></p></td>
 <td><p><a href="../Page/大石哲也.md" title="wikilink">大石哲也</a></p></td>
-<td><p>上川隆也</p></td>
+<td><p>上川隆也、<a href="https://ja.wikipedia.org/wiki/加藤シゲアキ" title="wikilink">加藤シゲアキ</a></p></td>
 <td><p>中山七里</p></td>
 <td></td>
 </tr>
@@ -1916,7 +1917,7 @@
 <td><p>全12回</p></td>
 <td><p>若松節朗</p></td>
 <td><p>戸田山雅司</p></td>
-<td><p>伊藤英明、中山優馬</p></td>
+<td><p>伊藤英明、<a href="../Page/中山優馬.md" title="wikilink">中山優馬</a></p></td>
 <td><p>清武英利　</p></td>
 <td></td>
 </tr>

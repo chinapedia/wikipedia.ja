@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1970年](../Page/1970年.md "wikilink")に**大宮美人座**として開業。その後**大宮DX劇場**を経て現館名となる。北関東では最もステージが広い劇場の一つであり、演出の内容も、通常の[ポラロイド](../Page/ポラロイド.md "wikilink")ダンスショーのみならず、[ソロ](https://ja.wikipedia.org/wiki/ソロ "wikilink")ダンスショー、[SMショー](../Page/SM_\(性風俗\).md "wikilink")、[レズショーなど多角的であった](../Page/レズビアン.md "wikilink")。
+[1970年](../Page/1970年.md "wikilink")に**大宮美人座**として開業。その後**大宮DX劇場**を経て現館名となる。北関東では最もステージが広い劇場の一つであり、演出の内容も、通常の[ポラロイド](../Page/ポラロイド.md "wikilink")ダンスショーのみならず、[ソロ](../Page/ソロ.md "wikilink")ダンスショー、[SMショー](../Page/SM_\(性風俗\).md "wikilink")、[レズショーなど多角的であった](../Page/レズビアン.md "wikilink")。
 
 しかし、[2004年](../Page/2004年.md "wikilink")末に経営者が変わってから、興行内容の幅が狭まり、場内の雰囲気も寂れ、観客の足も遠のき[2005年](../Page/2005年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")を最後に興行が打ち切られた。閉館後、しばらくは2階の[成人映画館](https://ja.wikipedia.org/wiki/成人映画館 "wikilink")「[大宮オークラ劇場](https://ja.wikipedia.org/wiki/大宮オークラ劇場 "wikilink")」（[大蔵映画](../Page/大蔵映画.md "wikilink")運営）のみ営業していたがこれも[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月17日](../Page/2月17日.md "wikilink")付で閉鎖・廃業している。現在、建物は取り壊され跡地は[コインパーキング](../Page/コインパーキング.md "wikilink")となっている。
 

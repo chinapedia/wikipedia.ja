@@ -15,9 +15,8 @@
   - 名古屋事務所 - [名古屋市](../Page/名古屋市.md "wikilink")[中村区](../Page/中村区.md "wikilink")[名駅](../Page/名駅.md "wikilink")1丁目1番4号 [JRセントラルタワーズ](../Page/JRセントラルタワーズ.md "wikilink")
   - 大阪事務所 - [大阪市](../Page/大阪市.md "wikilink")[北区梅田](../Page/北区_\(大阪市\).md "wikilink")2丁目4番9号 [ブリーゼタワー](https://ja.wikipedia.org/wiki/ブリーゼタワー "wikilink")
   - 福岡事務所 - [福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[博多区](../Page/博多区.md "wikilink")博多駅中央街8番1号 [JRJP博多ビル](https://ja.wikipedia.org/wiki/JRJP博多ビル "wikilink")
-  - 人員 - 2,550名（2016年9月30日現在）
-  - 出資金 - 10億円（2016年4月1日現在）
-  - クライアント数 - 監査業務930社・非監査業務1,075社
+  - 人員 - 3,156名（2020年6月30日現在）
+  - クライアント数 - 監査業務1,182社・非監査業務1,263社（2020年6月30日現在）
 
 ## 大口クライアント
 
@@ -133,6 +132,18 @@
 <td><p>149人</p></td>
 <td><p>1203社</p></td>
 <td><p>196社</p></td>
+</tr>
+<tr class="odd">
+<td><p>2020年6月期</p></td>
+<td><p>543億4300万円</p></td>
+<td><p>261億400万円</p></td>
+<td><p>282億3800万円</p></td>
+<td><p>28億3800万円</p></td>
+<td><p>24億6100万円</p></td>
+<td><p>1675人</p></td>
+<td><p>157人</p></td>
+<td><p>1182社</p></td>
+<td><p>193社</p></td>
 </tr>
 </tbody>
 </table>

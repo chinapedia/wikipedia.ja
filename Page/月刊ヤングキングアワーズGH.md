@@ -21,8 +21,10 @@
   - 異世界狙撃手（スナイパー）は女戦士のモフモフ愛玩動物（ペット）（原作：[光永康則](../Page/光永康則.md "wikilink")、作画：いのまる）
   - 美味しいエルフ（[ISUTOSHI](https://ja.wikipedia.org/wiki/ISUTOSHI "wikilink")）
   - [おくさん](https://ja.wikipedia.org/wiki/おくさん "wikilink")（[大井昌和](../Page/大井昌和.md "wikilink")）
+  - おぼこい魔女はまじわりたい\!（仲邑エンジツ）
   - 俺のキスで世界が変わるなら（[紺條夏生](https://ja.wikipedia.org/wiki/紺條夏生 "wikilink")）
   - オレは床で寝ます\!（9℃）
+  - かみくじむら〜ぬめりロワイヤル〜（[大見武士](https://ja.wikipedia.org/wiki/大見武士 "wikilink")）
   - 社長、恋人のフリをして私の父に会ってください。（[塩野干支郎次](../Page/塩野干支郎次.md "wikilink")）
   - [出撃\!喫茶あるぺじお](https://ja.wikipedia.org/wiki/蒼き鋼のアルペジオ#コラム・トリビュート作など "wikilink")（[小竹田貴弘](../Page/小竹田貴弘.md "wikilink")）
   - 心理学は役に立たない\!?（原作：[ゆうきゆう](https://ja.wikipedia.org/wiki/ゆうきゆう "wikilink")、作画：[ソウ](https://ja.wikipedia.org/wiki/ソウ_\(漫画家\) "wikilink")） ※2017年9月号にて『カウンセリングを学ぶ話を聞かない13人』→『心理学は役に立たない\!?』に改題
@@ -34,7 +36,6 @@
   - マンガで分かる肉体改造（原作：ゆうきゆう、作画：ソウ）
       - 免疫力アップ編
   - メガネさんは意外とかわいい（[新居さとし](../Page/新居さとし.md "wikilink")）
-  - ヨタモノサダメ〜八百八町の鑑定奇譚〜（瀬戸一里）
 
 ## 連載終了作品
 
@@ -146,6 +147,7 @@
   - MOMOの娘\!（[Boichi](../Page/Boichi.md "wikilink")）
   - ゆるゆる（[たかみち](../Page/たかみち.md "wikilink")）
   - [ようこそ蒼き鋼へ\!](https://ja.wikipedia.org/wiki/蒼き鋼のアルペジオ#コラム・トリビュート作など "wikilink")（十一虎）
+  - ヨタモノサダメ〜八百八町の鑑定奇譚〜（瀬戸一里）
   - ラブスマ LOVELY♥ SMASH（夕凪薫）
   - ルーザー（[コウノコウジ](https://ja.wikipedia.org/wiki/コウノコウジ "wikilink")）
   - 連載島（[金平守人](../Page/金平守人.md "wikilink")）

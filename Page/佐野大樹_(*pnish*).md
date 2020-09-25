@@ -3,7 +3,7 @@
 
 **佐野 大樹**（さの だいき、[1979年](../Page/1979年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[俳優](../Page/俳優.md "wikilink")である。愛称は、**大樹っちゃん。**ラ・セッテを2019年末をもって離れる。現在は自身が社長を務める[WBB](http://www.w-b-bros.jp/)所属。
 
-[静岡県](../Page/静岡県.md "wikilink")[富士宮市](../Page/富士宮市.md "wikilink")出身。[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長175cm。体重56kg。[兄](../Page/兄.md "wikilink")は俳優の[佐野瑞樹](../Page/佐野瑞樹_\(俳優\).md "wikilink")。
+[静岡県](../Page/静岡県.md "wikilink")[富士宮市](../Page/富士宮市.md "wikilink")出身。[血液型](../Page/ABO式血液型.md "wikilink")[O型](../Page/ABO式血液型.md "wikilink")。身長175cm。体重56kg。[兄](../Page/兄.md "wikilink")は俳優の[佐野瑞樹](../Page/佐野瑞樹_\(俳優\).md "wikilink")。
 
 ## 人物
 

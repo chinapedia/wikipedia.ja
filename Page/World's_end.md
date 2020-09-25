@@ -42,7 +42,7 @@
 
 ## メディア展開
 
-下記の関連作品群の他、[プリンセスソフト](../Page/プリンセスソフト.md "wikilink")より[PlayStation 2で](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームが発売される予定だったが](../Page/コンピュータゲーム.md "wikilink")、中止になっている。
+下記の関連作品群の他、[プリンセスソフト](../Page/プリンセスソフト.md "wikilink")より[PlayStation 2で](../Page/PlayStation_2.md "wikilink")[ゲームが発売される予定だったが](../Page/コンピュータゲーム.md "wikilink")、中止になっている。
 
 ### 書籍
 

@@ -7,7 +7,7 @@
 
 ## 解説
 
-今作では作曲家に白井良明、八島順一（[HOUND DOG](../Page/HOUND_DOG.md "wikilink")）、上久保純、[土屋昌巳](../Page/土屋昌巳.md "wikilink")（[一風堂](../Page/一風堂_\(バンド\).md "wikilink")）、[浜圭介](../Page/浜圭介.md "wikilink")らバラエティ豊かな面々を迎えている。作詞は近作の傾向と同じく沢田、[覚和歌子](../Page/覚和歌子.md "wikilink")、GRACEの3人。全編曲は[白井良明](https://ja.wikipedia.org/wiki/白井良明 "wikilink")、デザインは[早川タケジ](https://ja.wikipedia.org/wiki/早川タケジ "wikilink")。パッケージデザインはシングルと連動しており、シングルは[ホットケーキ](../Page/ホットケーキ.md "wikilink")、アルバムはクロックマダム（外箱のデザインが類似している）。「届かない花々」は老人介護サービス企業（サニーライフ）のCMソングに起用され、特にラジオを中心に非常に長期間オンエアーされた。一説には同社の社長（ないし幹部）がこの曲を高く評価したためとされている。沢田の自作詞の作風もこの頃には「老後」を見据えた作品が散見されるようになっている。
+今作では作曲家に白井良明、八島順一（[HOUND DOG](../Page/HOUND_DOG.md "wikilink")）、上久保純、[土屋昌巳](../Page/土屋昌巳.md "wikilink")（[一風堂](../Page/一風堂_\(バンド\).md "wikilink")）、[浜圭介](../Page/浜圭介.md "wikilink")らバラエティ豊かな面々を迎えている。作詞は沢田、[覚和歌子](../Page/覚和歌子.md "wikilink")、GRACEの3人。全編曲は[白井良明](https://ja.wikipedia.org/wiki/白井良明 "wikilink")、デザインは[早川タケジ](https://ja.wikipedia.org/wiki/早川タケジ "wikilink")。パッケージデザインはシングルは[ホットケーキ](../Page/ホットケーキ.md "wikilink")、アルバムはクロックマダム（外箱のデザインが類似している）。「届かない花々」は老人介護サービス企業（サニーライフ）のCMソングに起用され、テレビ、ラジオでオンエアーされた。
 
 ## 収録曲
 

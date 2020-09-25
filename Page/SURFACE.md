@@ -287,23 +287,27 @@
 
   - [Linda](https://ja.wikipedia.org/wiki/Linda_\(ユニット\) "wikilink")（双子デュオ）
 
-:\* 「ダーリン」（作詞：椎名慶治、作曲：永谷喬夫）
+:\* 「ダーリン」（作詞：椎名慶治、作曲・編曲：永谷喬夫）
 
   - FULL OF HARMONY
 
-:\* 「UTAKATA」（作詞：椎名慶治・[HIRO](https://ja.wikipedia.org/wiki/HIRO "wikilink")、作曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")）
+:\* 「UTAKATA」（作詞：椎名慶治・[HIRO](https://ja.wikipedia.org/wiki/HIRO "wikilink")、作曲・編曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")）
 
   - [喜多修平](../Page/喜多修平.md "wikilink")
 
-:\* 「[Breakin' through](https://ja.wikipedia.org/wiki/Breakin'_through "wikilink")」（作詞：椎名慶治、作曲：[TAKUYA](../Page/TAKUYA.md "wikilink")）
+:\* 「[Breakin' through](https://ja.wikipedia.org/wiki/Breakin'_through "wikilink")」（作詞：椎名慶治、作曲：[TAKUYA](../Page/TAKUYA.md "wikilink")、編曲：TAKUYA・h-wonder）
 
 :\* 「Determination」（作詞：椎名慶治、作曲：[y@suo ohtani](../Page/大谷靖夫.md "wikilink")）
 
-:\* 「[一斉の声](https://ja.wikipedia.org/wiki/一斉の声 "wikilink")」（作詞：椎名慶治、作曲：TAKUYA）
+:\* 「[一斉の声](https://ja.wikipedia.org/wiki/一斉の声 "wikilink")」（作詞：椎名慶治、作曲：TAKUYA、編曲：TAKUYA・h-wonder）
 
-:\* 「[Rain of mind](https://ja.wikipedia.org/wiki/一斉の声 "wikilink")」 （作詞：椎名慶治 / 作曲：川副克弥） 羽田野渉
+:\* 「[Rain of mind](https://ja.wikipedia.org/wiki/一斉の声 "wikilink")」 （作詞：椎名慶治、作曲：川副克弥、編曲：[nishi-ken](https://ja.wikipedia.org/wiki/nishi-ken "wikilink")）
 
-  - 「フワリ フワリ」（作詞：椎名慶治、野口圭　作曲：椎名慶治、永谷喬夫）2019年
+  - [羽多野渉](../Page/羽多野渉.md "wikilink")
+
+<!-- end list -->
+
+  - 「フワリ フワリ」（作詞：椎名慶治・野口圭　作曲：椎名慶治・永谷喬夫、編曲：永谷喬夫）2019年
 
 ## 出典
 

@@ -158,6 +158,16 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/アル・アヘドFC" title="wikilink">アル・アヘド</a></strong></p></td>
 <td><p>(A*)<strong>1 - 0</strong></p></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/AFCカップ2020" title="wikilink">2020</a></p></td>
+<td><p><a href="../Page/新型コロナウイルス感染症の世界的流行_(2019年-).md" title="wikilink">COVID-19流行の影響によりシーズン途中で打ち切り</a>[6][7]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/AFCカップ2021" title="wikilink">2021</a></p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -413,3 +423,5 @@
 3.  （第2節・第4節を参照）
 4.
 5.
+6.
+7.

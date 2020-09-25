@@ -393,8 +393,7 @@ PlayStation 4</p></td>
   -
   - [PlayStation公式サイト ゲームアーカイブス 天地を喰らう II 赤壁の戦い](http://www.jp.playstation.com/software/title/jp0102npjj00608_000000000000000001.html)
 
-  - （英語）
-
+  -
 [Category:1992年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1992年のアーケードゲーム "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:カプコンのゲームソフト](https://ja.wikipedia.org/wiki/Category:カプコンのゲームソフト "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink") [Category:天地を喰らう](https://ja.wikipedia.org/wiki/Category:天地を喰らう "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:ベルトスクロールアクションゲーム](https://ja.wikipedia.org/wiki/Category:ベルトスクロールアクションゲーム "wikilink") [Category:漫画のキャラクターゲーム](https://ja.wikipedia.org/wiki/Category:漫画のキャラクターゲーム "wikilink")
 
 1.  コンシューマ版（『カプコン ベルトアクション コレクション』を除く）は最大2人。

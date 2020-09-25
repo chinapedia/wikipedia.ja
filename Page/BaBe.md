@@ -119,7 +119,7 @@
 
   - It's So Wonderful（You're The Part Of Mine）（Extended Med. Club Mix）　c/w　Love In The First Degree（1988年）
       -
-        B面曲はアルバム『Fight\!』にも収録されている楽曲だが、A面曲の方は元々、BaBeのアルバム用に録音されたが、収録から漏れた楽曲。それを1988年の夏にDJリミックスチーム「[M.I.D（Mixs International DJ）](https://ja.wikipedia.org/wiki/Mixs_International_DJ "wikilink")」の丸本修がFMラジオ番組のオンエア用ソースとしてRemixし、「**BABY-SITTERS LIMITED**」と銘打たれ、BaBeではなく「**Vis-à-Vis**（ヴィザヴィ）」名義で、xyz recordsから7inchレコードと12inchレコードの2種でプロモーショナルオンリーでアナログプレスされた。なお、7inchと12inchとではそれぞれエディットが異なっている。[大村雅朗](../Page/大村雅朗.md "wikilink")がアレンジし、バックコーラスには女性バックダンサーチーム「[Dee-Dee](https://ja.wikipedia.org/wiki/Dee-Dee "wikilink")」の元メンバー、キャリアン（Carrie Ann）が参加している。
+        B面曲はアルバム『Fight\!』にも収録されている楽曲だが、A面曲の方は元々BaBeのアルバム用に録音されたものの収録から漏れた楽曲。それを1988年の夏にDJリミックスチーム「[M.I.D（Mixs International DJ）](https://ja.wikipedia.org/wiki/Mixs_International_DJ "wikilink")」の丸本修がFMラジオ番組のオンエア用ソースとしてRemixし、「**BABY-SITTERS LIMITED**」と銘打たれ、BaBeではなく「**Vis-à-Vis**（ヴィザヴィ）」名義で、xyz recordsから7inchレコードと12inchレコードの2種でプロモーショナルオンリーでアナログプレスされた。なお、7inchと12inchとではそれぞれエディットが異なっている。[大村雅朗](../Page/大村雅朗.md "wikilink")がアレンジし、バックコーラスには女性バックダンサーチーム「[Dee-Dee](https://ja.wikipedia.org/wiki/Dee-Dee "wikilink")」の元メンバー、キャリアン（Carrie Ann）が参加している。
 
 ### オリジナルアルバム
 
@@ -133,8 +133,8 @@
         2.  The Boy is Mine
         3.  ひとりぼっちのWarriors
         4.  Set Me Free 〜哀しみのFitness〜
-        5.  They Don't Know 〜哀しみは朝の雫のように〜
-        6.  大人は判ってくれない
+        5.  They Don't Know 〜哀しみは朝の雫のように〜 (CDのみ)
+        6.  大人は判ってくれない (CDのみ)
         7.  じゃじゃ馬ならし（近藤のソロ曲）
         8.  月夜のポプリ
         9.  I Don't Know\! -New Mix-
@@ -1343,7 +1343,7 @@
 
 ### ラジオ番組
 
-  - カモン・BaBeのハローボーイ夢工場（[ニッポン放送](../Page/ニッポン放送.md "wikilink")） - [嘉門達夫](https://ja.wikipedia.org/wiki/嘉門達夫 "wikilink")との番組
+  - [カモン・BaBeのハロームービー夢工場](https://ja.wikipedia.org/wiki/カモン・BaBeのハロームービー夢工場 "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")） - [嘉門達夫](https://ja.wikipedia.org/wiki/嘉門達夫 "wikilink")と共演の番組
   - [ジャジャ馬BaBeのハロームービー](../Page/ジャジャ馬BaBeのハロームービー.md "wikilink")（ニッポン放送）
   - [ABC東京発 アーチストNOW](../Page/ABC東京発_アーチストNOW.md "wikilink")（[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")、1988年4月 - ） - [パール兄弟](../Page/パール兄弟.md "wikilink")の[サエキけんぞう](../Page/サエキけんぞう.md "wikilink")と共に水曜レギュラー
   - Lo-Dライブコンサート（1988年5月28日、[エフエム東京](../Page/エフエム東京.md "wikilink")） - [麹町](../Page/麹町.md "wikilink")の[エフエム東京ホール](https://ja.wikipedia.org/wiki/TOKYO_FM_HALL "wikilink")（キャパ350人）での公開生放送ライブ。司会：[井上堯之](../Page/井上堯之.md "wikilink")、田中美登里。

@@ -9,7 +9,7 @@ MATLABは、**MAT**rix **LAB**oratoryを略したものであり、[行列](http
 
 MATLABを用いると、[C言語](../Page/C言語.md "wikilink")や[FORTRAN](../Page/FORTRAN.md "wikilink")といった従来のプログラミング言語よりも短時間で簡単に科学技術計算を行うことができる。類似フリーウェアに[Scilab](../Page/Scilab.md "wikilink")、[GNU Octave](../Page/GNU_Octave.md "wikilink")、[FreeMat](https://ja.wikipedia.org/wiki/FreeMat "wikilink")などがある。
 
-また、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")、[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink") ([iPod touch](https://ja.wikipedia.org/wiki/iPod_touch "wikilink"))、[Android](../Page/Android.md "wikilink")で動作するアプリ[「MATLAB Mobile」](http://jp.mathworks.com/products/matlab-mobile/)がある。\[1\]Webブラウザで動作する\[<http://jp.mathworks.com/products/matlab-online/>　「MATLAB Online」\]も提供されている。
+また、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")、[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink") ([iPod touch](https://ja.wikipedia.org/wiki/iPod_touch "wikilink"))、[Androidで動作するアプリ](../Page/Android_\(オペレーティングシステム\).md "wikilink")[「MATLAB Mobile」](http://jp.mathworks.com/products/matlab-mobile/)がある。\[1\]Webブラウザで動作する\[<http://jp.mathworks.com/products/matlab-online/>　「MATLAB Online」\]も提供されている。
 
 MATLABで使われるデータ型には数値型や文字列型、時刻・日付、構造体、cell配列、テーブル、カテゴリカル配列などがある。数値型はint64型、single型、double型などに、 文字列型はchar型やstring型にそれぞれ細分化される \[2\]。
 

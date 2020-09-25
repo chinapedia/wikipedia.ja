@@ -25,7 +25,7 @@
 
 ## ライバル
 
-同じサンパウロ州を本拠地とする、[コリンチャンス](../Page/SCコリンチャンス・パウリスタ.md "wikilink")、[サントスFC](../Page/サントスFC.md "wikilink")、[パルメイラスとはサンパウロFCを含め](../Page/SEパルメイラス.md "wikilink")、サンパウロのビッグ4と呼ばれ、これらのチームとの対戦は、クラシコと呼ばれる。コリンチャンスとのクラシコは[クラシコ・マジェストゾ](https://ja.wikipedia.org/wiki/クラシコ・マジェストソ "wikilink")（clássico majestoso：雄大なダービー）、パルメイラスとのクラシコはショケ・ヘイ（choque rei：王者の衝突）とサントスFCとのクラシコは[サン・サン](https://ja.wikipedia.org/wiki/サン・サン "wikilink")（san-são：両チームの頭文字）と呼ばれている。
+同じサンパウロ州を本拠地とする、[コリンチャンス](../Page/SCコリンチャンス・パウリスタ.md "wikilink")、[サントスFC](../Page/サントスFC.md "wikilink")、[パルメイラスとはサンパウロFCを含め](../Page/SEパルメイラス.md "wikilink")、サンパウロのビッグ4と呼ばれ、これらのチームとの対戦は、クラシコと呼ばれる。コリンチャンスとのクラシコは[クラシコ・マジェストゾ](https://ja.wikipedia.org/wiki/クラシコ・マジェストソ "wikilink")（clássico majestoso：雄大なダービー）、パルメイラスとのクラシコはショキ・ヘイ（choque rei：王者の衝突）とサントスFCとのクラシコは[サン・サン](https://ja.wikipedia.org/wiki/サン・サン "wikilink")（san-são：両チームの頭文字）と呼ばれている。
 
 ## タイトル
 
@@ -104,21 +104,27 @@
 
 ## 現所属メンバー
 
-  - 2020年3月16日現在
+  - 2020年9月5日現在
 
 ※括弧内の国旗はその他の保有国籍を示す。
 
-  - [監督](../Page/監督.md "wikilink") [ディエゴ・アギーレ](https://ja.wikipedia.org/wiki/ディエゴ・アギーレ "wikilink")
+  - [監督](../Page/監督.md "wikilink")
+
+<!-- end list -->
+
+  - [フェルナンド・ジニス](https://ja.wikipedia.org/wiki/フェルナンド・ジニス・シウヴァ "wikilink")
 
 ## 歴代監督
 
-  - [リカルド・ゴメス](../Page/リカルド・ゴメス・ライムンド.md "wikilink")2016
+  - [リカルド・ゴメス](../Page/リカルド・ゴメス・ライムンド.md "wikilink") 2016
 
-  - [ロジェリオ・セニ](../Page/ロジェリオ・セニ.md "wikilink")2017
+  - [ロジェリオ・セニ](../Page/ロジェリオ・セニ.md "wikilink") 2017
 
-  - [ドリヴァル・ジュニオール](https://ja.wikipedia.org/wiki/ドリヴァル・ジュニオール "wikilink")2017
+  - [ドリヴァル・ジュニオール](https://ja.wikipedia.org/wiki/ドリヴァル・ジュニオール "wikilink") 2017
 
-  - [ディエゴ・アギーレ](https://ja.wikipedia.org/wiki/ディエゴ・アギーレ "wikilink")2018-
+  - [ディエゴ・アギーレ](https://ja.wikipedia.org/wiki/ディエゴ・アギーレ "wikilink") 2018-2019
+
+  - [フェルナンド・ジニス](https://ja.wikipedia.org/wiki/フェルナンド・ジニス・シウヴァ "wikilink") 2020-
 
 ## 歴代所属選手
 

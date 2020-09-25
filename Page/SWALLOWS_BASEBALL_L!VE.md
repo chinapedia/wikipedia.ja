@@ -265,7 +265,7 @@
 
 ## 外部リンク
 
-  - [SWALLOWS BASEBALL L\!VE2018](https://otn.fujitv.co.jp/b_hp/918200012.html) - [フジテレビワンツーネクスト](../Page/フジテレビワンツーネクスト.md "wikilink")
+  - [SWALLOWS BASEBALL L\!VE2020](https://otn.fujitv.co.jp/b_hp/920200019.html) - [フジテレビワンツーネクスト](../Page/フジテレビワンツーネクスト.md "wikilink")
 
 [Category:フジテレビのCS放送の番組](https://ja.wikipedia.org/wiki/Category:フジテレビのCS放送の番組 "wikilink") [Category:フジテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:フジテレビのスポーツ番組 "wikilink") [Category:CSのスポーツ番組](https://ja.wikipedia.org/wiki/Category:CSのスポーツ番組 "wikilink") [Category:野球番組_(テレビ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(テレビ\) "wikilink") [Category:東京ヤクルトスワローズ関連作品](https://ja.wikipedia.org/wiki/Category:東京ヤクルトスワローズ関連作品 "wikilink") [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink")
 

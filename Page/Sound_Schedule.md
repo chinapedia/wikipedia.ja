@@ -130,7 +130,7 @@
 </tbody>
 </table>
 
-### アルバム
+### スタジオアルバム
 
 <table>
 <thead>
@@ -145,7 +145,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p>2000年11月1日</p></td>
+<td><p>2000年<a href="../Page/11月1日.md" title="wikilink">11月1日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ここからはじまるストーリー" title="wikilink">ここからはじまるストーリー</a></strong></p></td>
 <td><p>KGH-C-007</p></td>
 <td><p>インディーズ盤<br />
@@ -173,39 +173,25 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Best</p></td>
-<td><p>2006年<a href="../Page/9月20日.md" title="wikilink">9月20日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/THE_COMPLETE_SS" title="wikilink">THE COMPLETE SS</a></strong></p></td>
-<td><p>YCCL-10004</p></td>
-<td><p>オリコン44位</p></td>
-</tr>
-<tr class="even">
 <td><p>5th</p></td>
 <td><p>2011年<a href="../Page/9月14日.md" title="wikilink">9月14日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/PLACE_(Sound_Scheduleのアルバム)" title="wikilink">PLACE</a></strong></p></td>
 <td><p>YCCL-10008</p></td>
 <td><p>オリコン47位</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6th</p></td>
 <td><p>2012年<a href="../Page/9月5日.md" title="wikilink">9月5日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/FUTURE_(Sound_Scheduleのアルバム)" title="wikilink">FUTURE</a></strong></p></td>
 <td><p>YCCL-10009B</p></td>
 <td><p>オリコン79位</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>7th</p></td>
-<td><p>2014年9月10日</p></td>
+<td><p>2014年<a href="../Page/9月10日.md" title="wikilink">9月10日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/LIVE_(Sound_Scheduleのアルバム)" title="wikilink">LIVE</a></strong></p></td>
 <td><p>DDCZ-1971</p></td>
 <td><p>オリコン73位</p></td>
-</tr>
-<tr class="odd">
-<td><p>Best</p></td>
-<td><p>2019年3月27日</p></td>
-<td><p><strong>Sound Schedule ALL TIME BEST</strong></p></td>
-<td><p>YCCL-10010～11</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -216,6 +202,14 @@
 </tr>
 </tbody>
 </table>
+
+### ベストアルバム
+
+|     | 発売日                                       | タイトル                                                                            | 規格品番          | 備考      |
+| --- | ----------------------------------------- | ------------------------------------------------------------------------------- | ------------- | ------- |
+| 1st | 2006年[9月20日](../Page/9月20日.md "wikilink") | **[THE COMPLETE SS](https://ja.wikipedia.org/wiki/THE_COMPLETE_SS "wikilink")** | YCCL-10004    | オリコン44位 |
+| 2nd | 2019年[3月27日](../Page/3月27日.md "wikilink") | **Sound Schedule ALL TIME BEST**                                                | YCCL-10010～11 | オリコン42位 |
+|     |                                           |                                                                                 |               |         |
 
 ### 映像作品
 
@@ -309,7 +303,7 @@
 
 <references/>
 
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ヤマハミュージックコミュニケーションズのアーティスト](https://ja.wikipedia.org/wiki/Category:ヤマハミュージックコミュニケーションズのアーティスト "wikilink") [Category:兵庫県立大学出身の人物](https://ja.wikipedia.org/wiki/Category:兵庫県立大学出身の人物 "wikilink")
+[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ヤマハミュージックコミュニケーションズのアーティスト](https://ja.wikipedia.org/wiki/Category:ヤマハミュージックコミュニケーションズのアーティスト "wikilink") [Category:兵庫県立大学出身の人物](https://ja.wikipedia.org/wiki/Category:兵庫県立大学出身の人物 "wikilink") [Category:2011年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2011年に再結成した音楽グループ "wikilink")
 
 1.
 2.  [ピーターパン・シンドローム](https://ja.wikipedia.org/wiki/ピーターパン・シンドローム "wikilink")を演奏。

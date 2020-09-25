@@ -1,7 +1,7 @@
 > この記事は[ジェームズ・R・シュレシンジャー](https://ja.wikipedia.org/wiki/ジェームズ・R・シュレシンジャー)から翻訳されています。
 
 
-**ジェームズ・ロドニー・シュレシンジャー**（**James Rodney Schlesinger**, 1929年2月15日から2014年3月27日まで）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の政治家。[リチャード・ニクソン](../Page/リチャード・ニクソン.md "wikilink")政権及びジェラルド・R・フォード政権での[アメリカ合衆国国防長官](../Page/アメリカ合衆国国防長官.md "wikilink")であった。
+**ジェームズ・ロドニー・シュレシンジャー**（**James Rodney Schlesinger**, [1929年](../Page/1929年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink") - [2014年](../Page/2014年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の政治家。[リチャード・ニクソン](../Page/リチャード・ニクソン.md "wikilink")政権及び[ジェラルド・R・フォード](../Page/ジェラルド・R・フォード.md "wikilink")政権で12代目[アメリカ合衆国国防長官](../Page/アメリカ合衆国国防長官.md "wikilink")、[ジミー・カーター](../Page/ジミー・カーター.md "wikilink")政権で初代[アメリカ合衆国エネルギー長官](../Page/アメリカ合衆国エネルギー長官.md "wikilink")を務めた。
 
 ## 生い立ち及び経歴
 
@@ -9,11 +9,11 @@
 
 ## リチャード・ニクソン政権への参加
 
-1969年にシュレシンジャーは[アメリカ合衆国行政管理予算局](https://ja.wikipedia.org/wiki/アメリカ合衆国行政管理予算局 "wikilink")次長補（主に国防問題担当）を振り出しにニクソン政権の要職を歴任した。
+1969年にシュレシンジャーは[アメリカ合衆国行政管理予算局](https://ja.wikipedia.org/wiki/アメリカ合衆国行政管理予算局 "wikilink")次長補（主に国防問題担当）を振り出しにリチャード・ニクソン政権の要職を歴任した。
 
 ### アメリカ原子力委員会委員長
 
-1971年、[アメリカ原子力委員会](../Page/アメリカ原子力委員会.md "wikilink")委員長に任命。原子力委員会の業務改善のため広範囲な組織改編を行った。また、同年[11月6日](../Page/11月6日.md "wikilink")には[アラスカ州](../Page/アラスカ州.md "wikilink")[アムチトカ島](../Page/アムチトカ島.md "wikilink")で行われた、過去最大級の[地下核実験](https://ja.wikipedia.org/wiki/地下核実験 "wikilink")（[カニキン](https://ja.wikipedia.org/wiki/アムチトカ島#カニキン "wikilink")）の爆発に立ち会った。アメリカ国内でも爆発による環境への影響などが懸念された[核実験](https://ja.wikipedia.org/wiki/核実験 "wikilink")であったが、現地に妻と2人の娘を同伴させて安全性をPRした\[2\]。
+1971年に[アメリカ原子力委員会](../Page/アメリカ原子力委員会.md "wikilink")委員長に任命され、原子力委員会の業務改善のため広範囲な組織改編を行った。また、同年11月6日には[アラスカ州](../Page/アラスカ州.md "wikilink")[アムチトカ島](../Page/アムチトカ島.md "wikilink")で行われた、過去最大級の[地下核実験](https://ja.wikipedia.org/wiki/地下核実験 "wikilink")（[カニキン](https://ja.wikipedia.org/wiki/アムチトカ島#カニキン "wikilink")）の爆発に立ち会った。アメリカ国内でも爆発による環境への影響などが懸念された[核実験](https://ja.wikipedia.org/wiki/核実験 "wikilink")であったが、現地に妻と2人の娘を同伴させて安全性をPRした\[2\]。
 
 ### アメリカ中央情報局長官
 
@@ -31,7 +31,7 @@
 
 1977年8月から1979年8月までの[ジミー・カーター](../Page/ジミー・カーター.md "wikilink")大統領時代に初代[アメリカ合衆国エネルギー省長官](https://ja.wikipedia.org/wiki/アメリカ合衆国エネルギー省長官 "wikilink")を務めた。
 
-2014年3月27日に[肺炎](https://ja.wikipedia.org/wiki/肺炎 "wikilink")に伴う合併症のため死去\[6\]。。
+2014年3月27日に[肺炎](https://ja.wikipedia.org/wiki/肺炎 "wikilink")に伴う合併症のため死去\[6\]した。85歳であった。
 
 ## 脚注
 

@@ -9,9 +9,9 @@
 
 PocketPCという語が考案されて普及する以前の[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に**Palm PC**として発表されたが、この名称はPalm Computing社から発売されてヒット中だった[Palm](../Page/Palm.md "wikilink")シリーズに酷似しすぎていたため、すぐに**Palm-size PC**という名前に変更され、さらに[2000年](../Page/2000年.md "wikilink")に発表されたバージョンからは**Pocket PC**と改称された。[2003年](../Page/2003年.md "wikilink")のバージョンからOSの正式名称が「Windows Mobile （バージョン名）for Pocket PC」となったが、その後もOS名の略称や商品名は引き続き「Pocket PC」であった。2005年の「Windows Mobile 5.0 for Pocket PC」以降は**Windows Mobile**あるいは**Windows Mobile機**と呼ばれることが増えた。
 
-日本国内では[2002年](../Page/2002年.md "wikilink")から[2003年](../Page/2003年.md "wikilink")ごろにかけて相次いで国内外各社が参入し、多くのPocketPC機が投入された。しかし多機能型の[携帯電話](../Page/携帯電話.md "wikilink")が急速に普及したことから通話機能を持たない純粋なPDAの売り上げは低迷し、さらに2007年になって[ネットブック](https://ja.wikipedia.org/wiki/ネットブック "wikilink")や[UMPCの登場が追い討ちをかけた](../Page/Ultra-Mobile_PC.md "wikilink")。その結果、[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")のiPAQ、[デル](../Page/デル.md "wikilink")のAximなどを最後にPocketPC機は市場から消えた。2012年現在、通話機能を持たないPDAとしては[iPod touch](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")、[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")、[Android](../Page/Android.md "wikilink")搭載[タブレットが主流となっている](../Page/タブレット_\(コンピュータ\).md "wikilink")。
+日本国内では[2002年](../Page/2002年.md "wikilink")から[2003年](../Page/2003年.md "wikilink")ごろにかけて相次いで国内外各社が参入し、多くのPocketPC機が投入された。しかし多機能型の[携帯電話](../Page/携帯電話.md "wikilink")が急速に普及したことから通話機能を持たない純粋なPDAの売り上げは低迷し、さらに2007年になって[ネットブック](https://ja.wikipedia.org/wiki/ネットブック "wikilink")や[UMPCの登場が追い討ちをかけた](../Page/Ultra-Mobile_PC.md "wikilink")。その結果、[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")のiPAQ、[デル](../Page/デル.md "wikilink")のAximなどを最後にPocketPC機は市場から消えた。2012年現在、通話機能を持たないPDAとしては[iPod touch](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")、[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")、[Android搭載](../Page/Android_\(オペレーティングシステム\).md "wikilink")[タブレットが主流となっている](../Page/タブレット_\(コンピュータ\).md "wikilink")。
 
-一方で、スマートフォンとしてのWindows Mobile機は[HTC](https://ja.wikipedia.org/wiki/HTC "wikilink")、[サムスン](https://ja.wikipedia.org/wiki/サムスン "wikilink")、[モトローラ](../Page/モトローラ.md "wikilink")、ヒューレット・パッカードなどから相次いで発売され、全世界で一定のシェアを獲得するに至った。日本国内では2005年に[ウィルコム](../Page/ウィルコム.md "wikilink")から[W-ZERO3](../Page/W-ZERO3.md "wikilink")が発売されてヒット商品となり、NTTドコモ、ソフトバンクモバイル、イー・モバイルからもWindows Mobile機が発売された。しかし2010年以降は[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")や[Android](../Page/Android.md "wikilink")スマートフォンの爆発的なヒットにより販売は低迷し、2012年現在、市場からほぼ姿を消した。マイクロソフトは後継のスマートフォン向けOSとして[Windows Phone 7を](https://ja.wikipedia.org/wiki/Windows_Phone_7 "wikilink")2010年末に投入しており、WindowsCEベースのPDAやスマートフォンが今後新規に登場する可能性はほとんど無い。
+一方で、スマートフォンとしてのWindows Mobile機は[HTC](https://ja.wikipedia.org/wiki/HTC "wikilink")、[サムスン](https://ja.wikipedia.org/wiki/サムスン "wikilink")、[モトローラ](../Page/モトローラ.md "wikilink")、ヒューレット・パッカードなどから相次いで発売され、全世界で一定のシェアを獲得するに至った。日本国内では2005年に[ウィルコム](../Page/ウィルコム.md "wikilink")から[W-ZERO3](../Page/W-ZERO3.md "wikilink")が発売されてヒット商品となり、NTTドコモ、ソフトバンクモバイル、イー・モバイルからもWindows Mobile機が発売された。しかし2010年以降は[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")や[Androidスマートフォンの爆発的なヒットにより販売は低迷し](../Page/Android_\(オペレーティングシステム\).md "wikilink")、2012年現在、市場からほぼ姿を消した。マイクロソフトは後継のスマートフォン向けOSとして[Windows Phone 7を](https://ja.wikipedia.org/wiki/Windows_Phone_7 "wikilink")2010年末に投入しており、WindowsCEベースのPDAやスマートフォンが今後新規に登場する可能性はほとんど無い。
 
 Pocket PCは**PPC**あるいは**P/PC**と略す。正確にはOSに限った名称ではないが、OS名として呼ばれることも多い。なお現在の（プラットフォーム名称としての）最新版は「Windows Mobile 6.5」である。こちらは俗にWM6などと略される。しかしこの語が電子デバイスのカテゴリーを指す場合にはバージョン番号は普通つかない。名称の変遷があったため、Windows Mobile機のためのアプリケーションソフトは、Windows Mobile用のみでなく、PocketPC用、Windows CE用とされる物でも使える場合がある。
 
@@ -262,7 +262,7 @@ WindowsXP,Vista等のソフトウエアをWindows Mobile上でそのまま実行
   - [スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")
   - [Googleのサービス](../Page/Googleのサービス.md "wikilink")
   - [iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")
-  - [Android](../Page/Android.md "wikilink")
+  - [Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")
 
 ## 外部リンク
 

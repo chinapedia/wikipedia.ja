@@ -19,7 +19,7 @@
 <!-- end list -->
 
   -
-    1962年3月12日生まれ。[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+    1962年3月12日生まれ。[血液型はB型](../Page/ABO式血液型.md "wikilink")。
 
 <!-- end list -->
 

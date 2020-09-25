@@ -11,7 +11,7 @@
 
 携帯電話のCDMA方式では、韓国政府の支援もあって商用化に成功し、CDMA方式の携帯電話の生産も伸びて世界的にも高いシェアを獲得できた。しかし基幹技術を含む特許は米[クアルコム](../Page/クアルコム.md "wikilink")社が保有していて、主要な半導体の供給もクアルコム社から受けていたために、[ロイヤリティ](https://ja.wikipedia.org/wiki/ロイヤリティ "wikilink")を支払う必要があった。こういった苦い経験から特許戦略の重要性を認識したことで、海外企業に依存している移動通信分野の半導体産業を育成して、国内企業の国際競争力を高めるため、独自規格を策定するに至ったのだと考えられている。
 
-故に本規格は政府機関「ETRI（[韓国電子通信研究院](https://ja.wikipedia.org/wiki/韓国電子通信研究院 "wikilink"))」を中心とした、電子機器メーカー[サムスン電子](../Page/サムスン電子.md "wikilink")や[LG](https://ja.wikipedia.org/wiki/LG "wikilink")、通信事業者[KTなどの韓国企業が協力し策定した規格である](https://ja.wikipedia.org/wiki/KT_\(通信企業\) "wikilink")。
+故に本規格は政府機関「ETRI（[韓国電子通信研究院](../Page/韓国電子通信研究院.md "wikilink"))」を中心とした、電子機器メーカー[サムスン電子](../Page/サムスン電子.md "wikilink")や[LG](https://ja.wikipedia.org/wiki/LG "wikilink")、通信事業者[KTなどの韓国企業が協力し策定した規格である](https://ja.wikipedia.org/wiki/KT_\(通信企業\) "wikilink")。
 
 本規格は、WiMAX(IEEE 802.16-2004、2004年6月策定)のライバルになると当初は予想されていたが\[1\]、2004年11月に[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")(WiMAXフォーラム参加企業)とLG Electronics(WiBroフォーラム参加企業)が提携し、WiMAX(IEEE 802.16-2004)の技術仕様を本規格に取り入れた。
 

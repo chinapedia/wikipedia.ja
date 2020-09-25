@@ -7,7 +7,7 @@
 
 SNKプレイモア（当時、のち[SNK](../Page/SNK_\(2001年設立の企業\).md "wikilink")）の[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")シリーズ『[ザ・キング・オブ・ファイターズ](../Page/ザ・キング・オブ・ファイターズ.md "wikilink")』を原作とする[アニメ](../Page/アニメ.md "wikilink")作品。劇中のキャラクター設定は、同シリーズの『[KOF MAXIMUM IMPACT](../Page/KOF_MAXIMUM_IMPACT.md "wikilink")』と『ザ・キング・オブ・ファイターズXI』の両タイトルからの続きとなっており、更に『MAXIMUM IMPACT 2』へと続く話となっているが、「実際は『MI』の世界観に本シリーズのキャラクターがゲスト出演した形の[パラレルストーリーである](../Page/パラレルワールド.md "wikilink")」と[FALCOON](https://ja.wikipedia.org/wiki/FALCOON "wikilink")により明かされている。実際、八神庵が炎を出せなくなっている（『XI』の事件で炎を操る力を奪われた）事を匂わせる描写があるため、『MAXIMUM IMPACT 2』では八神庵が通常通り炎を操っている事と矛盾しており、『MAXIMUM IMPACT 2』とは正式に繋がっていない事がはっきりしている。
 
-本作のDVDは[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『KOF MAXIMUM IMPACT 2』の初回限定版に付属しており、それ以外の形ではセールスされていない。2005年4月 - 9月まで[GyaOで配信された](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")。『MI2』発売のプロモーションも兼ね2006年3月に[アニマックス](../Page/アニマックス.md "wikilink")、4月に[キッズステーション](../Page/キッズステーション.md "wikilink")でも放送された。
+本作のDVDは[PlayStation 2用ソフト](../Page/PlayStation_2.md "wikilink")『KOF MAXIMUM IMPACT 2』の初回限定版に付属しており、それ以外の形ではセールスされていない。2005年4月 - 9月まで[GyaOで配信された](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")。『MI2』発売のプロモーションも兼ね2006年3月に[アニマックス](../Page/アニマックス.md "wikilink")、4月に[キッズステーション](../Page/キッズステーション.md "wikilink")でも放送された。
 
 ## 登場人物
 

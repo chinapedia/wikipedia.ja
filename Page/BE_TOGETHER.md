@@ -7,7 +7,7 @@
 
 ## TM NETWORK
 
-後にシングル『[Get Wild](../Page/Get_Wild.md "wikilink")(再発盤)』のカップリング曲としてシングルカットされている。[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の4枚目のシングル「[B・BLUE](../Page/B・BLUE.md "wikilink")」に対抗して作ったという。こういう曲がないとBOØWYみたいな勢いのあるバンドに敵わないだろうと[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")は思ったという\[1\]。
+後にシングル『[Get Wild](../Page/Get_Wild.md "wikilink")(再発盤)』のカップリング曲としてシングルカットされている。[BOØWY](../Page/BOØWY.md "wikilink")の4枚目のシングル「[B・BLUE](../Page/B・BLUE.md "wikilink")」に対抗して作ったという。こういう曲がないとBOØWYみたいな勢いのあるバンドに敵わないだろうと[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")は思ったという\[1\]。
 
 ギターは[B'z](../Page/B'z.md "wikilink")の[松本孝弘](../Page/松本孝弘.md "wikilink")が演奏しており、ソロの演奏は難しいのではないかと小室はインタビューに答えている\[2\]。ドラムは[レベッカの](../Page/レベッカ_\(バンド\).md "wikilink")[小田原豊](../Page/小田原豊.md "wikilink")が叩いている。[小田原豊](../Page/小田原豊.md "wikilink")のドラムには、海外でパンクシーンから[ポリス的なものが生まれてきたような](../Page/ポリス_\(バンド\).md "wikilink")、スピード感があると[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") は評している\[3\]。
 

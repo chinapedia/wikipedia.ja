@@ -55,8 +55,10 @@
 
   - 『I.Q Intelligent Qube』（[PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink")、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月31日](../Page/1月31日.md "wikilink")、売上本数101万本）
       - 2018年12月3日に発売された『[プレイステーション クラシック](https://ja.wikipedia.org/wiki/プレイステーション_クラシック "wikilink")』にも収録されている。
+      - ナレーションは[中田譲治](../Page/中田譲治.md "wikilink")が担当。
   - 『I.Q FINAL』（PlayStation、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月23日](../Page/12月23日.md "wikilink")）
-  - 『I.Q REMIX+』（[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[2000年](../Page/2000年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")）
+      - ナレーションは[ピーター・バラカン](../Page/ピーター・バラカン.md "wikilink")が担当。
+  - 『I.Q REMIX+』（[PlayStation 2](../Page/PlayStation_2.md "wikilink")、[2000年](../Page/2000年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")）
   - 『I.Q Mania』（[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")、[2006年](../Page/2006年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink")）
   - 『I.Q』（携帯用アプリ）（[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")、[EZweb](../Page/EZweb.md "wikilink")、[Yahoo\!ケータイ](../Page/Yahoo!ケータイ.md "wikilink")、[CLUB AIR-EDGE](https://ja.wikipedia.org/wiki/エアーエッジ "wikilink")） - その中で[W-ZERO3](../Page/W-ZERO3.md "wikilink")シリーズ用に配信されたものに限りタッチ操作が可能。
 

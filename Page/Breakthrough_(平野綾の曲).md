@@ -5,7 +5,7 @@
 
 ## 概要
 
-[声優](../Page/声優.md "wikilink")・[平野綾](../Page/平野綾.md "wikilink")のデビュー[シングル](../Page/シングル.md "wikilink")。表題曲「Breakthrough」とカップリングの「一番星」 は、[PS2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[ふぁいなりすと](../Page/ふぁいなりすと.md "wikilink")』の[オープニングテーマと](../Page/主題歌.md "wikilink")[エンディングテーマとして使用された](../Page/主題歌.md "wikilink")。ファーストアルバム「[RIOT GIRL](../Page/RIOT_GIRL.md "wikilink")」には、アレンジを一新したバージョンが収録されている。
+[声優](../Page/声優.md "wikilink")・[平野綾](../Page/平野綾.md "wikilink")のデビュー[シングル](../Page/シングル.md "wikilink")。表題曲「Breakthrough」とカップリングの「一番星」 は、[PS2用](../Page/PlayStation_2.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[ふぁいなりすと](../Page/ふぁいなりすと.md "wikilink")』の[オープニングテーマと](../Page/主題歌.md "wikilink")[エンディングテーマとして使用された](../Page/主題歌.md "wikilink")。ファーストアルバム「[RIOT GIRL](../Page/RIOT_GIRL.md "wikilink")」には、アレンジを一新したバージョンが収録されている。
 
 2013年9月9日、メキシコの DJやプロデューサーDJ Laxxell非公式リリースリ ミックスバージョンのみ Bandcampを通じてEDM独 自の形式。
 

@@ -35,7 +35,7 @@
 
 [2009年](../Page/2009年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")からオリジナル版が[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")の[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")で配信された。
 
-[2011年](../Page/2011年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")にリメイク版が[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")、[iPod touch向けに配信開始](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")。同年[4月21日](../Page/4月21日.md "wikilink")に[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")版が、[2012年](../Page/2012年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")に[Android](../Page/Android.md "wikilink")版が配信開始。ニンテンドーDS版をベースに背景グラフィックなどを高解像度対応している。2012年[9月20日](../Page/9月20日.md "wikilink")には追加要素を加えた[PlayStation Portable版が発売された](../Page/PlayStation_Portable.md "wikilink")。
+[2011年](../Page/2011年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")にリメイク版が[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")、[iPod touch向けに配信開始](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")。同年[4月21日](../Page/4月21日.md "wikilink")に[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")版が、[2012年](../Page/2012年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")に[Android版が配信開始](../Page/Android_\(オペレーティングシステム\).md "wikilink")。ニンテンドーDS版をベースに背景グラフィックなどを高解像度対応している。2012年[9月20日](../Page/9月20日.md "wikilink")には追加要素を加えた[PlayStation Portable版が発売された](../Page/PlayStation_Portable.md "wikilink")。
 
 [2014年](../Page/2014年.md "wikilink")[1月8日](../Page/1月8日.md "wikilink")からオリジナル版が[Wii Uのバーチャルコンソールで](https://ja.wikipedia.org/wiki/Wii_U "wikilink")、また同年[4月23日](../Page/4月23日.md "wikilink")から[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")のバーチャルコンソールでも配信された。
 
@@ -461,12 +461,12 @@
 主人公たちと行動を共にし、主人公たちをサポートしてくれるキーパーソン的な存在。町やダンジョン内ではBボタンを押すことで会話ができ、冒険のヒントをくれることもある。ただし、これらのキャラクターは単に行動を共にするだけで、戦闘には参加しない。
 
   - サラ・アルテニー（Sara Altney）
-    本作のヒロイン。サスーン国王ダウの娘。「ミスリルの指輪」を持っていたため、ジンの呪いから逃れられた。ジンの呪いにかかった城の人々を助けるために単身で封印の洞窟へと向かい、そこで主人公たちと出会った。21歳。
+    サスーン国王ダウの娘。「ミスリルの指輪」を持っていたため、ジンの呪いから逃れられた。ジンの呪いにかかった城の人々を助けるために単身で封印の洞窟へと向かい、そこで主人公たちと出会った。21歳。
   - [シド・ヘイズ](https://ja.wikipedia.org/wiki/シド_\(ファイナルファンタジー\) "wikilink")（Cid Haze）
-    カナーンに妻と2人で暮らす貿易商。飛空艇製造の第一人者であり、アーガス王との親交も深い。64歳。ネルブの谷をふさぐ大岩を破壊する方法を教えてくれる。飛空艇も貸してくれるが、最初はすぐに壊れてしまう。
+    カナーンに妻と2人で暮らす貿易商。飛空艇製造の第一人者であり、アーガス王との親交も深い。64歳。ネルブの谷をふさぐ大岩を破壊する方法を教えてくれる。飛空艇も貸してくれるが、最初はすぐに壊れてしまう。飛空艇に詳しく、永久機関「時の歯車」を使って帆船エンタープライズ号に飛行能力を与える。
   - デッシュ（Desch）
     声 - [佐々木望](../Page/佐々木望.md "wikilink")（『[ディシディア ファイナルファンタジー オペラオムニア](https://ja.wikipedia.org/wiki/ディシディア_ファイナルファンタジー_オペラオムニア "wikilink")』）
-    記憶喪失の風来坊。実は古代人の生き残りで、オーエンの塔の監視人。主人公と冒険を共にすることによって、記憶を取り戻していく。女好きで軽い性格。カナーンに住むサリーナとは恋仲関係。年齢不詳。
+    記憶喪失の失の風来坊。実は古代人の生き残りで、オーエンの塔の監視人。主人公と冒険を共にすることによって記憶を取り戻していく。メデューサとの戦いで自身の使命を思い出し、損壊寸前の塔を命がけで修復。奇跡的に一命を取りとめ、クリスタルタワーでザンデと相対する光の戦士たちに力を貸した。女好きで軽い性格。カナーンに住むサリーナとは恋仲関係。年齢不詳。
   - エリア・ベネット（Aria Benett）
     大地震の被害を受け、難破船で漂流していた少女。水の神殿に仕える巫女。15歳。水のクリスタルを解放する力を持っている。水の洞窟でクラーケンが放った呪いの矢から主人公たちを庇って死亡。
   - アルス・レストー（Allus Restor）
@@ -678,7 +678,7 @@
 
 ## 評価
 
-  - ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では、9・9・10・8の合計36点（満40点）でプラチナ殿堂を獲得\[78\]\[79\]、レビュアーからはジョブチェンジシステムに関して肯定的な意見が多数挙げられ、[東府屋ファミ坊は](https://ja.wikipedia.org/wiki/塩崎剛三 "wikilink")「かなり遊べるシステム」と称賛、森下万里子は「ジョブチェンジしてもレベルがそのままっていうのも嬉しい」と評価、TACOXはシステム的に面倒であると指摘しつつも慣れてしまえば問題ないと肯定的に評価した\[80\]。演出面に関しては様々な意見が挙げられ、水野店長は本作を『[ドラゴンクエストIV](https://ja.wikipedia.org/wiki/ドラゴンクエストIV "wikilink")』（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）と比較し「（ドラクエIVを）追い越しているといっても過言ではない」と指摘した上で各イベントが凝りに凝っていると称賛、一方でTACOXはストーリー展開の速さに関して「とまどいを覚えた」と指摘した\[81\]。その他、東府屋と水野はダンジョンに関して途中でセーブができない事や道中が長すぎるとして否定的に評価した\[82\]。
+  - ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では、9・9・10・8の合計36点（満40点）でプラチナ殿堂を獲得\[78\]\[79\]、レビュアーからはジョブチェンジシステムに関して肯定的な意見が多数挙げられ、[東府屋ファミ坊は](https://ja.wikipedia.org/wiki/塩崎剛三 "wikilink")「かなり遊べるシステム」と称賛、森下万里子は「ジョブチェンジしてもレベルがそのままっていうのも嬉しい」と評価、TACOXはシステム的に面倒であると指摘しつつも慣れてしまえば問題ないと肯定的に評価した\[80\]。演出面に関しては様々な意見が挙げられ、水野店長は本作を『[ドラゴンクエストIV 導かれし者たち](../Page/ドラゴンクエストIV_導かれし者たち.md "wikilink")』（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）と比較し「（ドラクエIVを）追い越しているといっても過言ではない」と指摘した上で各イベントが凝りに凝っていると称賛、一方でTACOXはストーリー展開の速さに関して「とまどいを覚えた」と指摘した\[81\]。その他、東府屋と水野はダンジョンに関して途中でセーブができない事や道中が長すぎるとして否定的に評価した\[82\]。
 
 <!-- end list -->
 
@@ -766,8 +766,7 @@
   -
   -
   -
-  - （英語）
-
+  -
   -
 [Category:1990年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1990年のファミリーコンピュータ用ソフト "wikilink") [Category:1990年のファミ通クロスレビュープラチナ殿堂入りソフト](https://ja.wikipedia.org/wiki/Category:1990年のファミ通クロスレビュープラチナ殿堂入りソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:ニンテンドー3DS用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドー3DS用バーチャルコンソール対応ソフト "wikilink") [Category:ファイナルファンタジーのコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ファイナルファンタジーのコンピュータゲーム "wikilink") [Category:冒険ゲーム](https://ja.wikipedia.org/wiki/Category:冒険ゲーム "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink")
 

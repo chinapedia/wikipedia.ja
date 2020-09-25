@@ -143,6 +143,7 @@
 | 2015年2月27日 | Tomorrow Never Dies |
 | 2020年5月8日  | 2020                |
 | 2020年8月21日 | INFINITY ZOO        |
+| 2020年9月8日  | ガッチだぜ               |
 
 ### コラボレーションシングル
 
@@ -327,6 +328,7 @@
 | ASTRO BOY 〜GO\!GO\!アトム〜                                                                                                     | [テレビ東京系列](../Page/TXNネットワーク.md "wikilink")『[GO\!GO\!アトム](https://ja.wikipedia.org/wiki/GO!GO!アトム "wikilink")』オープニングテーマ                                                              |
 | ずっと                                                                                                                         | [中京テレビ](../Page/中京テレビ放送.md "wikilink")『[PS純金](https://ja.wikipedia.org/wiki/PS純金 "wikilink")』 2019年11月度エンディングテーマ                                                                    |
 | 2020                                                                                                                        | [読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")『浜ちゃんが！』2020年4月、5月度 エンディングテーマ                                                                                                |
+| ガッチだぜ                                                                                                                       |                                                                                                                                                                                     |
 
 ## ライブ
 
@@ -625,6 +627,7 @@ DOBERMAN INFINITY presents D.Island
 ### 配信
 
   - LIVE×ONLINE（2020年7月4日：ABEMA）\[32\]
+  - LIVE×ONLINE IMAGINATION（2020年9月22日：ABEMA）
 
 ## 出演
 
@@ -636,20 +639,24 @@ DOBERMAN INFINITY presents D.Island
 
   - 漢部 ～真ノ男道～\[34\]（其ノ二：2014年11月20日\[35\]、其ノ四：2015年1月20日\[36\]、[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")）
 
+### WebCM
+
+  - 「Gatti」（2019年 - ）\[37\]
+
 ### ミュージックビデオ
 
-  - [EXILE THE SECOND](https://ja.wikipedia.org/wiki/EXILE_THE_SECOND "wikilink")「[YEAH\!\! YEAH\!\! YEAH\!\!](https://ja.wikipedia.org/wiki/YEAH!!_YEAH!!_YEAH!! "wikilink")」（2016年）\[37\]
+  - [EXILE THE SECOND](https://ja.wikipedia.org/wiki/EXILE_THE_SECOND "wikilink")「[YEAH\!\! YEAH\!\! YEAH\!\!](https://ja.wikipedia.org/wiki/YEAH!!_YEAH!!_YEAH!! "wikilink")」（2016年）\[38\]
 
 ### その他
 
-  - マリアナ観光大使（2019年）\[38\]
-  - 日本の花火『エール』プロジェクト アンバサダー（2020年）\[39\]
+  - マリアナ観光大使（2019年）\[39\]
+  - 日本の花火『エール』プロジェクト アンバサダー（2020年）\[40\]
 
 ## プロデュース
 
 ### アーティスト
 
-  - [BALLISTIK BOYZ from EXILE TRIBE](https://ja.wikipedia.org/wiki/BALLISTIK_BOYZ_from_EXILE_TRIBE "wikilink") （[EXILE HIROと共同プロデュース](../Page/五十嵐広行.md "wikilink")） \[40\]
+  - [BALLISTIK BOYZ from EXILE TRIBE](https://ja.wikipedia.org/wiki/BALLISTIK_BOYZ_from_EXILE_TRIBE "wikilink") （[EXILE HIROと共同プロデュース](../Page/五十嵐広行.md "wikilink")） \[41\]
 
 ## DOBERMAN INCの作品
 
@@ -808,3 +815,4 @@ DOBERMAN INFINITY presents D.Island
 38.
 39.
 40.
+41.

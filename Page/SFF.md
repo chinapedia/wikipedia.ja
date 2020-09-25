@@ -41,7 +41,7 @@
 ### 軍事
 
   - [特殊野戦部隊](https://ja.wikipedia.org/wiki/特殊野戦部隊 "wikilink") () - [ナミビア](../Page/ナミビア.md "wikilink")の[準軍事組織](../Page/準軍事組織.md "wikilink")。
-  - [特殊国境部隊](https://ja.wikipedia.org/wiki/特殊国境部隊 "wikilink")（） - [ダライ・ラマ14世](https://ja.wikipedia.org/wiki/ダライ・ラマ14世 "wikilink")がインドの支援を受け結成した、[ガンデンポタン](../Page/ガンデンポタン.md "wikilink")の反中ゲリラ組織。
+  - [特殊国境部隊](https://ja.wikipedia.org/wiki/特殊国境部隊 "wikilink")（） - 亡命[チベット人によって編成されている](../Page/チベット民族.md "wikilink")[インド](../Page/インド.md "wikilink")の[準軍事組織](../Page/準軍事組織.md "wikilink")。
   - [自己鍛造弾](../Page/自己鍛造弾.md "wikilink") () - [成形炸薬弾](../Page/成形炸薬弾.md "wikilink")の一種。
 
 ### 組織と企業

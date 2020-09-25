@@ -1,7 +1,7 @@
 > この記事は[EVE new generation](https://ja.wikipedia.org/wiki/EVE_new_generation)から翻訳されています。
 
 
-『**EVE new generation**』（イブ ニュージェネレーション）は、[2006年](../Page/2006年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")に[角川書店](../Page/角川書店.md "wikilink")から発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。「[EVEシリーズ](../Page/EVEシリーズ.md "wikilink")」の6作目。主人公は私立探偵「天城小次郎」と捜査官「法条まりな」。2人の主人公を操作してストーリーを進めていくマルチサイト[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。18禁要素を加えたPC版『**EVE 〜new generation X〜**』や、ストーリーに[脱衣麻雀](../Page/脱衣麻雀.md "wikilink")要素を加えた『**EVE雀**』がタイレルラボラトリー（[F\&C](../Page/F&C.md "wikilink")系列）から発売された。また、同社刊の『[コンプエース](../Page/月刊コンプエース.md "wikilink")』で[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")化作品も連載された。
+『**EVE new generation**』（イブ ニュージェネレーション）は、[2006年](../Page/2006年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")に[角川書店](../Page/角川書店.md "wikilink")から発売された[PlayStation 2用](../Page/PlayStation_2.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。「[EVEシリーズ](../Page/EVEシリーズ.md "wikilink")」の6作目。主人公は私立探偵「天城小次郎」と捜査官「法条まりな」。2人の主人公を操作してストーリーを進めていくマルチサイト[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。18禁要素を加えたPC版『**EVE 〜new generation X〜**』や、ストーリーに[脱衣麻雀](../Page/脱衣麻雀.md "wikilink")要素を加えた『**EVE雀**』がタイレルラボラトリー（[F\&C](../Page/F&C.md "wikilink")系列）から発売された。また、同社刊の『[コンプエース](../Page/月刊コンプエース.md "wikilink")』で[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")化作品も連載された。
 
 ## ストーリー
 

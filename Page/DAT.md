@@ -1,7 +1,7 @@
 > この記事は[DAT](https://ja.wikipedia.org/wiki/DAT)から翻訳されています。
 
 
-*'  [thumbとのシェル](https://ja.wikipedia.org/wiki/ファイル:Cassette_DAT-130311-0002WP.jpg "wikilink")（ハーフ）の大きさの違い\]\] **DAT**（ダット、ディー・エー・ティー、*Digital Audio Tape''）とは、音声を[A/D変換してデジタルで記録](../Page/アナログ-デジタル変換回路.md "wikilink")、[D/A変換して再生する](../Page/デジタル-アナログ変換回路.md "wikilink")[テープレコーダー](../Page/テープレコーダー.md "wikilink")またはそのテープ、また特にその標準化された規格のことである。 [DAT-tape.jpg](https://ja.wikipedia.org/wiki/File:DAT-tape.jpg "fig:DAT-tape.jpg") [SONY_DTC-500ES.jpg](https://ja.wikipedia.org/wiki/File:SONY_DTC-500ES.jpg "fig:SONY_DTC-500ES.jpg")
+*'   [thumbとのシェル](https://ja.wikipedia.org/wiki/ファイル:Cassette_DAT-130311-0002WP.jpg "wikilink")（ハーフ）の大きさの違い\]\] **DAT**（ダット、ディー・エー・ティー、*Digital Audio Tape''）とは、音声を[A/D変換してデジタルで記録](../Page/アナログ-デジタル変換回路.md "wikilink")、[D/A変換して再生する](../Page/デジタル-アナログ変換回路.md "wikilink")[テープレコーダー](../Page/テープレコーダー.md "wikilink")またはそのテープ、また特にその標準化された規格のことである。 [DAT-tape.jpg](https://ja.wikipedia.org/wiki/File:DAT-tape.jpg "fig:DAT-tape.jpg") [SONY_DTC-500ES.jpg](https://ja.wikipedia.org/wiki/File:SONY_DTC-500ES.jpg "fig:SONY_DTC-500ES.jpg")
 
 ## 広義のDAT
 

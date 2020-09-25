@@ -75,7 +75,7 @@ Remember my memories</p></th>
 **2004年**
 
   - [10月2日](../Page/10月2日.md "wikilink") - テレビアニメ『**To Heart 〜Remember my Memories〜**』放送開始
-  - [12月28日](../Page/12月28日.md "wikilink") - この日発売の『ToHeart & ToHeart2 限定デラックスパック』に、本作の[PlayStation 2版が同梱](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")
+  - [12月28日](../Page/12月28日.md "wikilink") - この日発売の『ToHeart & ToHeart2 限定デラックスパック』に、本作の[PlayStation 2版が同梱](../Page/PlayStation_2.md "wikilink")
 
 **2009年**
 

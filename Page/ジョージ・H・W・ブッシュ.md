@@ -1,7 +1,7 @@
 > この記事は[ジョージ・H・W・ブッシュ](https://ja.wikipedia.org/wiki/ジョージ・H・W・ブッシュ)から翻訳されています。
 
 
-**ジョージ・ハーバート・ウォーカー・ブッシュ**（**George Herbert Walker Bush**、[1924年](../Page/1924年.md "wikilink")[6月12日](../Page/6月12日.md "wikilink") - [2018年](../Page/2018年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[政治家](../Page/政治家.md "wikilink")。同国下院議員、[アメリカ合衆国国連大使](https://ja.wikipedia.org/wiki/アメリカ合衆国国際連合大使 "wikilink")、第11代中央情報局長官、第43代[副大統領](../Page/アメリカ合衆国副大統領.md "wikilink")、第41代[大統領を歴任](../Page/アメリカ合衆国大統領.md "wikilink")。
+**ジョージ・ハーバート・ウォーカー・ブッシュ**（**George Herbert Walker Bush**、[1924年](../Page/1924年.md "wikilink")[6月12日](../Page/6月12日.md "wikilink") - [2018年](../Page/2018年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[政治家](../Page/政治家.md "wikilink")。同国下院議員、[アメリカ合衆国国連大使](https://ja.wikipedia.org/wiki/アメリカ合衆国国際連合大使 "wikilink")、第11代中央情報局長官、ロナルド・レーガン政権で第43代[アメリカ合衆国副大統領](../Page/アメリカ合衆国副大統領.md "wikilink")、第41代[大統領を歴任](../Page/アメリカ合衆国大統領.md "wikilink")。
 
 日本では第43代大統領でありファーストネームが同じである長男の[ジョージ・ウォーカー・ブッシュと区別する為に](../Page/ジョージ・W・ブッシュ.md "wikilink")、「**父ブッシュ（パパブッシュ）**」・「**大ブッシュ**」・「**ブッシュ・シニア**」と呼ばれることもある。死去時最高齢のアメリカ合衆国大統領経験者であったが、2019年3月22日に[ジミー・カーター](../Page/ジミー・カーター.md "wikilink")が最高齢記録を更新した。
 
@@ -9,7 +9,7 @@
 
 ### 生い立ち
 
-[George_H_W_Bush_at_Age_One_and_One-Half,_ca_1925.gif](https://ja.wikipedia.org/wiki/File:George_H_W_Bush_at_Age_One_and_One-Half,_ca_1925.gif "fig:George_H_W_Bush_at_Age_One_and_One-Half,_ca_1925.gif") [ブッシュ家](../Page/ブッシュ家.md "wikilink")は雑系の先祖が[イギリス王室](../Page/イギリス王室.md "wikilink")に連なる家柄であり、[プレスコット・ブッシュ](../Page/プレスコット・ブッシュ.md "wikilink")とドロシー・ウォーカー夫妻の次男として生まれた。兄に[プレスコット・ブッシュ・ジュニア](https://ja.wikipedia.org/wiki/プレスコット・ブッシュ・ジュニア "wikilink")（[米中商工会議所](https://ja.wikipedia.org/wiki/米中商工会議所 "wikilink")議長）がいる。父親は[コネチカット州](../Page/コネチカット州.md "wikilink")のリベラルな[アメリカ共和党](../Page/共和党_\(アメリカ\).md "wikilink")[上院議員で](../Page/アメリカ合衆国上院.md "wikilink")、著名な投資銀行「」に在籍していた。
+[George_H_W_Bush_at_Age_One_and_One-Half,_ca_1925.gif](https://ja.wikipedia.org/wiki/File:George_H_W_Bush_at_Age_One_and_One-Half,_ca_1925.gif "fig:George_H_W_Bush_at_Age_One_and_One-Half,_ca_1925.gif") [ブッシュ家](../Page/ブッシュ家.md "wikilink")は雑系の先祖が[イギリス王室](../Page/イギリス王室.md "wikilink")に連なる家柄であり、[プレスコット・ブッシュ](../Page/プレスコット・ブッシュ.md "wikilink")とドロシー・ウォーカー夫妻の次男として生まれた。兄に[プレスコット・ブッシュ・ジュニア](https://ja.wikipedia.org/wiki/プレスコット・ブッシュ・ジュニア "wikilink")（[米中商工会議所](https://ja.wikipedia.org/wiki/米中商工会議所 "wikilink")議長）がいる。父親は[コネチカット州](../Page/コネチカット州.md "wikilink")のリベラルな[共和党](../Page/共和党_\(アメリカ\).md "wikilink")[上院議員で](../Page/アメリカ合衆国上院.md "wikilink")、著名な投資銀行「」に在籍していた。
 
 ### 学校
 
@@ -47,13 +47,13 @@
 
 [George_Herbert_Walker_Bush_and_Eisenhower_1.jpg](https://ja.wikipedia.org/wiki/File:George_Herbert_Walker_Bush_and_Eisenhower_1.jpg "fig:George_Herbert_Walker_Bush_and_Eisenhower_1.jpg")とともに\]\] [thumbにて](https://ja.wikipedia.org/wiki/ファイル:George_Bush_as_United_States_Liaison_to_China,_1974-1975_-_NARA_-_186378.tif "wikilink")([1975年](../Page/1975年.md "wikilink"))\]\] [1964年](../Page/1964年.md "wikilink")にブッシュは、テキサスのアメリカ共和党員[ジョン・タワー](https://ja.wikipedia.org/wiki/ジョン・タワー "wikilink")上院議員を含む南部の政治家のほとんどが反対した公民権法に賛成した[アメリカ民主党の](../Page/民主党_\(アメリカ\).md "wikilink")[ラルフ・ヤーボロー](../Page/ラルフ・ヤーボロー.md "wikilink")上院議員に対抗して上院議員選挙に出馬し、政治家に乗り出した。
 
-ヤーボローがブッシュを「ちょうど彼らが[ニューヨーク証券取引所](../Page/ニューヨーク証券取引所.md "wikilink")の席を買ったように」上院議員の席を買おうとする「渡り政治屋」であると批判したことに対し、ブッシュはヤーボローを「極論者」および「左翼扇動政治家」と呼んで対抗したが、ブッシュは1964年の民主党の地滑り勝利により敗北を喫した。
+ヤーボローがブッシュを「ちょうど彼らが[ニューヨーク証券取引所](../Page/ニューヨーク証券取引所.md "wikilink")の席を買ったように」上院議員の席を買おうとする「渡り政治屋」であると批判したことに対し、ブッシュはヤーボローを「極論者」及び「左翼扇動政治家」と呼んで対抗したが、ブッシュは1964年の民主党の地滑り勝利により敗北を喫した。
 
 ブッシュは1966年と1968年の終わりにテキサスの第7区から[下院議員に選任された](../Page/アメリカ合衆国下院.md "wikilink")。彼はその後[1970年](../Page/1970年.md "wikilink")に民主党の[予備選挙](../Page/予備選挙.md "wikilink")でヤーボローを破った[ロイド・ベンツェン](../Page/ロイド・ベンツェン.md "wikilink")に2度目の[上院議員選挙で敗れた](../Page/アメリカ合衆国上院.md "wikilink")。
 
 ### アメリカ合衆国国際連合大使とアメリカ中央情報局長官
 
-ブッシュは1970年代を通して、[リチャード・ニクソン](../Page/リチャード・ニクソン.md "wikilink")及び[ジェラルド・フォードの](../Page/ジェラルド・R・フォード.md "wikilink")2人の共和党の大統領の下で、[アメリカ共和党全国委員会委員長](https://ja.wikipedia.org/wiki/共和党全国委員会 "wikilink")・[アメリカ合衆国国連大使](https://ja.wikipedia.org/wiki/アメリカ合衆国国際連合大使 "wikilink")・[中華人民共和国](../Page/中華人民共和国.md "wikilink")への特命全権公使（[米中連絡事務所](https://ja.wikipedia.org/wiki/米中連絡事務所 "wikilink")所長）・危機委員会評議員などの要職を歴任した。当初フォード大統領はブッシュを副大統領候補に検討していたが、ブッシュの選挙キャンペーンにニクソンの秘密資金が流入していた疑惑を特別検察官が捜査していた為に[ネルソン・ロックフェラー](../Page/ネルソン・ロックフェラー.md "wikilink")を選択したとされる\[5\]。
+ブッシュは1970年代を通して、[リチャード・ニクソン](../Page/リチャード・ニクソン.md "wikilink")及び[ジェラルド・フォードの](../Page/ジェラルド・R・フォード.md "wikilink")2人の共和党の大統領の下で共和党全国委員会委員長・[アメリカ合衆国国連大使](https://ja.wikipedia.org/wiki/アメリカ合衆国国際連合大使 "wikilink")・[中華人民共和国](../Page/中華人民共和国.md "wikilink")への特命全権公使（[米中連絡事務所](https://ja.wikipedia.org/wiki/米中連絡事務所 "wikilink")所長）・危機委員会評議員などの要職を歴任した。当初フォード大統領はブッシュを副大統領候補に検討していたが、ブッシュの選挙キャンペーンにニクソンの秘密資金が流入していた疑惑を特別検察官が捜査していた為に[ネルソン・ロックフェラー](../Page/ネルソン・ロックフェラー.md "wikilink")を選択したとされる\[5\]。
 
 ニクソン政権下で国連大使として中華人民共和国の[国際連合](../Page/国際連合.md "wikilink")加盟を認めた[アルバニア決議](../Page/アルバニア決議.md "wikilink")やそれに伴う次期[国際連合事務総長の選出をめぐるアメリカ合衆国と](https://ja.wikipedia.org/wiki/国連事務総長 "wikilink")[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")と中華人民共和国の三つ巴の駆け引きへの対応に追われ\[6\]\[7\]、米中連絡事務所所長となった際は訪中したフォード大統領に同行して最高指導者の[毛沢東](../Page/毛沢東.md "wikilink")とも2度会見した\[8\]。事実上の特命全権公使として中国で過ごした経験は世界の問題に対するアメリカの強い関与の必要性をブッシュに確信させたとされる\[9\]。
 
@@ -63,9 +63,9 @@
 
 #### レーガンからの信頼
 
-[220pxを務めた](https://ja.wikipedia.org/wiki/ファイル:1981_US_Cabinet.jpg "wikilink")[ロナルド・レーガン](../Page/ロナルド・レーガン.md "wikilink")政権の[閣僚](https://ja.wikipedia.org/wiki/閣僚 "wikilink")とともに([1981年](../Page/1981年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink"))\]\] [George_HW_Bush,_Nancy_Reagan,_Raisa_Gorbachova_1987-12-08_C44086-07.jpg](https://ja.wikipedia.org/wiki/File:George_HW_Bush,_Nancy_Reagan,_Raisa_Gorbachova_1987-12-08_C44086-07.jpg "fig:George_HW_Bush,_Nancy_Reagan,_Raisa_Gorbachova_1987-12-08_C44086-07.jpg")と[ライサ・ゴルバチョワ](../Page/ライサ・ゴルバチョワ.md "wikilink")とともに（1987年）\]\] 1980年にブッシュはアメリカ共和党の大統領指名を争う予備選挙に出馬する。そこでブッシュは、学界では批判の多い[サプライサイド経済学](../Page/サプライサイド経済学.md "wikilink")に基づく[レーガンの経済政策を](../Page/レーガノミクス.md "wikilink")「ブードゥー（呪術）経済学」と批判したものの、結局は指名を得ることに失敗してしまう。
+[220pxを務めた](https://ja.wikipedia.org/wiki/ファイル:1981_US_Cabinet.jpg "wikilink")[ロナルド・レーガン](../Page/ロナルド・レーガン.md "wikilink")政権の[閣僚](https://ja.wikipedia.org/wiki/閣僚 "wikilink")とともに([1981年](../Page/1981年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink"))\]\] [George_HW_Bush,_Nancy_Reagan,_Raisa_Gorbachova_1987-12-08_C44086-07.jpg](https://ja.wikipedia.org/wiki/File:George_HW_Bush,_Nancy_Reagan,_Raisa_Gorbachova_1987-12-08_C44086-07.jpg "fig:George_HW_Bush,_Nancy_Reagan,_Raisa_Gorbachova_1987-12-08_C44086-07.jpg")と[ライサ・ゴルバチョワ](../Page/ライサ・ゴルバチョワ.md "wikilink")とともに（1987年）\]\] 1980年にブッシュは共和党の大統領指名を争う予備選挙に出馬する。そこでブッシュは、学界では批判の多い[サプライサイド経済学](../Page/サプライサイド経済学.md "wikilink")に基づく[レーガンの経済政策を](../Page/レーガノミクス.md "wikilink")「ブードゥー（呪術）経済学」と批判したものの、結局は指名を得ることに失敗してしまう。
 
-アメリカ共和党大会直前に[ロナルド・レーガン](../Page/ロナルド・レーガン.md "wikilink")に副大統領候補として指名され、1981年に副大統領に就任する。ブッシュはレーガンと予備選挙の時こそ対立したものの、副大統領としてはレーガンに忠実に仕えた。レーガンも[銃撃事件で病院に担ぎ込まれた際にブッシュが周囲より大統領職権の臨時代行を勧められるも断ったことをきっかけに](../Page/レーガン大統領暗殺未遂事件.md "wikilink")、ブッシュの謙虚な人格を信頼するようになった。
+共和党大会直前に[ロナルド・レーガン](../Page/ロナルド・レーガン.md "wikilink")に副大統領候補として指名され、1981年1月20日に副大統領に就任する。ブッシュはレーガンと予備選挙の時こそ対立したものの、副大統領としてはレーガンに忠実に仕えた。レーガンも[銃撃事件で病院に担ぎ込まれた際にブッシュが周囲より大統領職権の臨時代行を勧められるも断ったことをきっかけに](../Page/レーガン大統領暗殺未遂事件.md "wikilink")、ブッシュの謙虚な人格を信頼するようになった。
 
 #### 外交
 
@@ -143,7 +143,7 @@
 
 #### 対中
 
-対中関係では[六四天安門事件](../Page/六四天安門事件.md "wikilink")で[経済制裁](../Page/経済制裁.md "wikilink")を行うも議会と対立してまで最恵国待遇を更新するなど制裁全面化に消極的であり\[37\]\[38\]、当時の中国の最高指導者である[鄧小平](https://ja.wikipedia.org/wiki/鄧小平 "wikilink")には書簡で「先日のサミットの共同宣言の草案には中国を過度に非難する文言があったが、アメリカと日本が取り除いた。アメリカ議会は中国との経済関係を断ち切ることを求めているが、私は波風を立てないよう全力を尽くす」と述べていた\[39\]。秘密裏に[ヘンリー・キッシンジャー](../Page/ヘンリー・キッシンジャー.md "wikilink")やブレント・スコウクロフトを中国に派遣して民主化運動家の[方励之](https://ja.wikipedia.org/wiki/方励之 "wikilink")の出国をめぐる交渉を行ったとされる\[40\]\[41\]\[42\]。方励之の出国を条件に融資再開を日本は中国に持ちかけたともされ\[43\]、ブッシュは[第16回先進国首脳会議](https://ja.wikipedia.org/wiki/第16回先進国首脳会議 "wikilink")で対中円借款再開を表明した日本の[海部俊樹](../Page/海部俊樹.md "wikilink")首相に同調した\[44\]。
+対中関係では[六四天安門事件](../Page/六四天安門事件.md "wikilink")で[経済制裁](../Page/経済制裁.md "wikilink")を行うも議会と対立してまで最恵国待遇を更新するなど制裁全面化に消極的であり\[37\]\[38\]、当時の中国の最高指導者である[鄧小平](../Page/鄧小平.md "wikilink")には書簡で「先日のサミットの共同宣言の草案には中国を過度に非難する文言があったが、アメリカと日本が取り除いた。アメリカ議会は中国との経済関係を断ち切ることを求めているが、私は波風を立てないよう全力を尽くす」と述べていた\[39\]。秘密裏に[ヘンリー・キッシンジャー](../Page/ヘンリー・キッシンジャー.md "wikilink")やブレント・スコウクロフトを中国に派遣して民主化運動家の[方励之](https://ja.wikipedia.org/wiki/方励之 "wikilink")の出国をめぐる交渉を行ったとされる\[40\]\[41\]\[42\]。方励之の出国を条件に融資再開を日本は中国に持ちかけたともされ\[43\]、ブッシュは[第16回先進国首脳会議](https://ja.wikipedia.org/wiki/第16回先進国首脳会議 "wikilink")で対中円借款再開を表明した日本の[海部俊樹](../Page/海部俊樹.md "wikilink")首相に同調した\[44\]。
 
 また、国際連合での対イラク武力行使容認決議の際には中国が[拒否権](../Page/拒否権.md "wikilink")を行使しなければ天安門事件以来の制裁の緩和と[銭其琛](../Page/銭其琛.md "wikilink")外交部長の訪米を受け入れると取引を持ちかけたことから中国は棄権して可決できた\[45\]\[46\]。
 

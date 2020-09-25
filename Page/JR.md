@@ -1,7 +1,7 @@
 > この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:JR_logo_JRgroup.svg "wikilink") **JR**（ジェイアール、\[1\]）は、**[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")（国鉄）**の[分割民営化により発足した](../Page/国鉄分割民営化.md "wikilink")、**[北海道旅客鉄道](../Page/北海道旅客鉄道.md "wikilink")（JR北海道）・[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）・[東海旅客鉄道](../Page/東海旅客鉄道.md "wikilink")（JR東海）・[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）・[四国旅客鉄道](../Page/四国旅客鉄道.md "wikilink")（JR四国）・[九州旅客鉄道](../Page/九州旅客鉄道.md "wikilink")（JR九州）・[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）**、以上の[鉄道事業者](https://ja.wikipedia.org/wiki/鉄道事業者 "wikilink")を中心とした企業群の総称である。また、企業群における個別の会社に対する略称・[通称](../Page/通称.md "wikilink")（例：「JR東日本」）としても用いられる。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:JR_logo_JRgroup.svg "wikilink")  **JR**（ジェイアール、\[1\]）は、**[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")（国鉄）**の[分割民営化により発足した](../Page/国鉄分割民営化.md "wikilink")、**[北海道旅客鉄道](../Page/北海道旅客鉄道.md "wikilink")（JR北海道）・[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）・[東海旅客鉄道](../Page/東海旅客鉄道.md "wikilink")（JR東海）・[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）・[四国旅客鉄道](../Page/四国旅客鉄道.md "wikilink")（JR四国）・[九州旅客鉄道](../Page/九州旅客鉄道.md "wikilink")（JR九州）・[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）**、以上の[鉄道事業者](https://ja.wikipedia.org/wiki/鉄道事業者 "wikilink")を中心とした企業群の総称である。また、企業群における個別の会社に対する略称・[通称](../Page/通称.md "wikilink")（例：「JR東日本」）としても用いられる。
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）[4月1日](../Page/4月1日.md "wikilink")に、国鉄から地域または分野別に事業を継承した12（その後、合併等によって数は変化している）の法人で構成されている。
 
@@ -9,7 +9,7 @@
 
 ## JRグループ
 
-各事業者・法人の総称としては**JRグループ**とも呼ばれるが、このグループは概ね以下の3種に分類される独自の資本体制に依拠した法人の総称で（次項「[\#民営化から現在までの状況](https://ja.wikipedia.org/wiki/#民営化から現在までの状況 "wikilink")」も参照）、なおかつ資本体制に関わらず経営はそれぞれ独立しており、グループを代表して各社を統括する[持ち株会社](https://ja.wikipedia.org/wiki/持ち株会社 "wikilink")および統括会社は存在しない。類似事例として、持ち株会社設立解禁後に[日本道路公団](../Page/日本道路公団.md "wikilink")より民営化されて発足した高速道路会社主要3社を含む[NEXCOグループ各社間でも同じくグループ全体を統括する会社は存在していない](../Page/ネクスコ.md "wikilink")。
+各事業者・法人の総称としては**JRグループ**とも呼ばれるが、このグループは概ね以下の3種に分類される独自の資本体制に依拠した法人の総称で（次項「[\#民営化から現在までの状況](https://ja.wikipedia.org/wiki/#民営化から現在までの状況 "wikilink")」も参照）、なおかつ資本体制に関わらず経営はそれぞれ独立しており、グループを代表して各社を統括する[持株会社](../Page/持株会社.md "wikilink")および統括会社は存在しない。類似事例として、持株会社設立解禁後に[日本道路公団](../Page/日本道路公団.md "wikilink")より民営化されて発足した高速道路会社主要3社を含む[NEXCOグループ各社間でも同じくグループ全体を統括する会社は存在していない](../Page/ネクスコ.md "wikilink")。
 
 発足当初は会社相互間の[株式持ち合い](../Page/株式持ち合い.md "wikilink")関係も存在しなかったが、後に純粋民間会社となった4社の間では僅か（保有割合は1%未満）ながら持ち合いが行われている\[3\]。
 
@@ -162,7 +162,7 @@ JR総研</p></td>
 <td><p>東京都<a href="https://ja.wikipedia.org/wiki/港区_(東京都)" title="wikilink">港区</a></p></td>
 <td><p>日本全域</p></td>
 <td><p>2001年、JRグループとの資本関係解消。<br />
-2015年に<a href="https://ja.wikipedia.org/wiki/ソフトバンク" title="wikilink">ソフトバンク</a>モバイル（現：ソフトバンク、元は日本テレコム子会社のジェイフォン）に吸収合併された、<a href="../Page/ソフトバンクテレコム.md" title="wikilink">ソフトバンクテレコム</a>の前身（<a href="https://ja.wikipedia.org/wiki/ソフトバンクテレコム#歴史" title="wikilink">参照</a>）。</p></td>
+2015年に<a href="https://ja.wikipedia.org/wiki/ソフトバンク" title="wikilink">ソフトバンク</a>モバイル（現：ソフトバンク、元は日本テレコム子会社のジェイフォン）に吸収合併された、<a href="../Page/ソフトバンクテレコム.md" title="wikilink">ソフトバンクテレコム</a>の前身（→<a href="https://ja.wikipedia.org/wiki/ソフトバンクテレコム#歴史" title="wikilink">ソフトバンクテレコム#歴史</a>）。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -250,15 +250,15 @@ JRマークはわずかな例外を除き、各社の鉄道車両に掲出され
   - [国鉄・JRの車両形式の一覧](../Page/国鉄・JRの車両形式の一覧.md "wikilink")
   - [JRカード](../Page/JRカード.md "wikilink")
   - [二谷英明](../Page/二谷英明.md "wikilink")・[白川由美](../Page/白川由美.md "wikilink")
-  - [ソフトバンクテレコム](../Page/ソフトバンクテレコム.md "wikilink") - JRが資本関係を持っていた鉄道通信および日本テレコムを主たる系譜とする企業で、2011年現在もJRグループ内の専用電話網「[JRほっとライン](https://ja.wikipedia.org/wiki/鉄道電話#JRほっとライン "wikilink")」のサービスを提供している。なお、両社が合併後、[ボーダフォン](https://ja.wikipedia.org/wiki/ボーダフォン "wikilink")（[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")）に買収されたことによりJRとは資本関係を持たなくなったが、もとは鉄道通信が権利者であった灰色のJR[ロゴタイプ](../Page/ロゴタイプ.md "wikilink")は、2011年現在もソフトバンクテレコムを権利者として登録されている 。 (2016年3月29日で権利消滅)
-  - [遠くへ行きたい (テレビ番組)](../Page/遠くへ行きたい_\(テレビ番組\).md "wikilink") - [読売テレビが制作し](../Page/讀賣テレビ放送.md "wikilink")、[日本テレビ系列で放送されている](../Page/日本テレビネットワーク協議会.md "wikilink")[紀行番組](../Page/紀行番組.md "wikilink")。国鉄時代から[スポンサー](../Page/スポンサー.md "wikilink")となっており、2011年現在もJRグループが筆頭スポンサーである。
+  - [ソフトバンクテレコム](../Page/ソフトバンクテレコム.md "wikilink") - JRが資本関係を持っていた鉄道通信および日本テレコムを主たる系譜とする企業 。
+  - [遠くへ行きたい (テレビ番組)](../Page/遠くへ行きたい_\(テレビ番組\).md "wikilink") - [読売テレビが制作し](../Page/讀賣テレビ放送.md "wikilink")、[日本テレビ系列で放送されている](../Page/日本テレビネットワーク協議会.md "wikilink")[紀行番組](../Page/紀行番組.md "wikilink")。国鉄時代から[スポンサー](../Page/スポンサー.md "wikilink")となっており、2020年現在もJRグループが スポンサーである。
   - [産経児童出版文化賞](https://ja.wikipedia.org/wiki/産経児童出版文化賞 "wikilink") - JR貨物を含むJR7社が協賛している。
 
 ## 外部リンク
 
   - [JRサイバーステーション](http://www.jr.cyberstation.ne.jp/)
   - [JAPAN RAIL PASS - ジャパンレールパス](https://japanrailpass.net/)
-  - [旅客鉄道株式会社及び日本貨物鉄道株式会社に関する法律（昭和61年法律第88号）](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=361AC0000000088)
+  - [旅客鉄道株式会社及び日本貨物鉄道株式会社に関する法律（昭和61年法律第88号）](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=361AC0000000088)（[e-Gov法令検索](https://ja.wikipedia.org/wiki/e-Gov法令検索 "wikilink")）
   - [国鉄分割民営化 JR発足（1987年）](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009030214_00000) - [NHKアーカイブス](../Page/NHKアーカイブス.md "wikilink")
 
 [Category:JR](https://ja.wikipedia.org/wiki/Category:JR "wikilink") [Category:日本の鉄道事業者](https://ja.wikipedia.org/wiki/Category:日本の鉄道事業者 "wikilink") [Category:日本の鉄道](https://ja.wikipedia.org/wiki/Category:日本の鉄道 "wikilink") [Category:登録商標](https://ja.wikipedia.org/wiki/Category:登録商標 "wikilink")

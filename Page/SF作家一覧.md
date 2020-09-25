@@ -404,7 +404,7 @@
   - [ラルフ・ミルン・ファーリィ](https://ja.wikipedia.org/wiki/ロジャー・シャーマン・ホアー "wikilink")（Ralph Milne Farley）
   - [デイヴィッド・ファインタック](https://ja.wikipedia.org/wiki/デイヴィッド・ファインタック "wikilink") (David Feintuch)
   - [ジャック・フィニイ](../Page/ジャック・フィニイ.md "wikilink") (Jack Finney)
-  - [ジャスパー・フォード](https://ja.wikipedia.org/wiki/ジャスパー・フォード "wikilink") (Jasper Fforde)
+  - [ジャスパー・フォード](../Page/ジャスパー・フォード.md "wikilink") (Jasper Fforde)
   - [ロバート・L・フォワード](../Page/ロバート・L・フォワード.md "wikilink") (Robert Lull Forward)
   - [フレドリック・ブラウン](../Page/フレドリック・ブラウン.md "wikilink")（Fredric William Brown）
   - [リイ・ブラケット](../Page/リイ・ブラケット.md "wikilink") (Leigh Brackett)

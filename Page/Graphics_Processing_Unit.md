@@ -179,7 +179,7 @@ AMDのGPUは、[Radeon](https://ja.wikipedia.org/wiki/Radeon "wikilink") HD 2000
 
 <!-- end list -->
 
-  - [PlayStation 2に搭載された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[Graphics Synthesizer](https://ja.wikipedia.org/wiki/Emotion_Engine#Graphics_Synthesizer "wikilink") (GS)
+  - [PlayStation 2に搭載された](../Page/PlayStation_2.md "wikilink")[Graphics Synthesizer](https://ja.wikipedia.org/wiki/Emotion_Engine#Graphics_Synthesizer "wikilink") (GS)
 
 <!-- end list -->
 

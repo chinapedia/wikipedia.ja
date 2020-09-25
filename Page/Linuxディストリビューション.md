@@ -799,7 +799,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/PS2_Linux.md" title="wikilink">PS2 Linux</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2上で動作する</a>。<a href="https://ja.wikipedia.org/wiki/Kondara_MNU/Linux" title="wikilink">Kondara MNU/Linux派生</a>。</p></td>
+<td><p><a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2上で動作する</a>。<a href="https://ja.wikipedia.org/wiki/Kondara_MNU/Linux" title="wikilink">Kondara MNU/Linux派生</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Puppy_Linux.md" title="wikilink">Puppy Linux</a></p></td>

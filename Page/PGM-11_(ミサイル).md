@@ -5,7 +5,7 @@
 
 ## 概要
 
-レッドストーンは[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")の[V2ロケット](../Page/V2ロケット.md "wikilink")の技術を用いて改良・大型化された[弾道ミサイル](../Page/弾道ミサイル.md "wikilink")で、本体全長21 [m](../Page/メートル.md "wikilink")、直径1.8 [m](../Page/メートル.md "wikilink")、質量約28,000 [kg](https://ja.wikipedia.org/wiki/キログラム "wikilink")。生産は[クライスラー](../Page/クライスラー.md "wikilink")が担当した。ロケットエンジンとして25%の水と75%のエチル[アルコール](https://ja.wikipedia.org/wiki/アルコール "wikilink")（[エタノール](https://ja.wikipedia.org/wiki/エタノール "wikilink")）を[燃料](../Page/燃料.md "wikilink")とし、[液体酸素](../Page/液体酸素.md "wikilink")を[酸化剤](../Page/酸化剤.md "wikilink")として用いたA-6型を採用、真空中の推力は414.3 [kN](../Page/ニュートン_\(単位\).md "wikilink") (42,251 [kgf](../Page/重量キログラム.md "wikilink")) であった。
+レッドストーンは[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")の[V2ロケット](../Page/V2ロケット.md "wikilink")の技術を用いて改良・大型化された[弾道ミサイル](../Page/弾道ミサイル.md "wikilink")で、本体全長21 [m](../Page/メートル.md "wikilink")、直径1.8 [m](../Page/メートル.md "wikilink")、質量約28,000 [kg](https://ja.wikipedia.org/wiki/キログラム "wikilink")。生産は[クライスラー](../Page/クライスラー.md "wikilink")が担当した。ロケットエンジンとして25%の水と75%のエチル[アルコール](https://ja.wikipedia.org/wiki/アルコール "wikilink")（[エタノール](../Page/エタノール.md "wikilink")）を[燃料](../Page/燃料.md "wikilink")とし、[液体酸素](../Page/液体酸素.md "wikilink")を[酸化剤](../Page/酸化剤.md "wikilink")として用いたA-6型を採用、真空中の推力は414.3 [kN](../Page/ニュートン_\(単位\).md "wikilink") (42,251 [kgf](../Page/重量キログラム.md "wikilink")) であった。
 
 ## 歴史
 
@@ -23,7 +23,7 @@
 
 ジュピターC () は弾道ミサイル[ジュピターIRBMの前の世代の弾道ミサイル](../Page/ジュピター_\(ミサイル\).md "wikilink")**レッドストーンSRBM**を改良した大気圏再突入テスト用又は衛星打ち上げ用ロケットである。似通った名前を使っているジュピターIRBMとは設計が全く異なる。
 
-1段目は、レッドストーンSRBMの燃料タンクを延長し容量を増やし燃焼時間を延ばした。エンジンはA-6の改良型のA-7を用いた。また、燃料は[エタノール](https://ja.wikipedia.org/wiki/エタノール "wikilink")水溶液から[Hydyne](https://ja.wikipedia.org/wiki/Hydyne "wikilink")に変更し、毒性があるが、推力と比推力を向上させた。さらに、[サージェント](https://ja.wikipedia.org/wiki/サージェント "wikilink")SRBMから派生した小型の固体燃料ロケット「ベイビー・サージェント」を、11本円環状に並べたものを2段目とした。その2段目の中央に、第3段として同型の固体燃料ロケットが3本備わる。
+1段目は、レッドストーンSRBMの燃料タンクを延長し容量を増やし燃焼時間を延ばした。エンジンはA-6の改良型のA-7を用いた。また、燃料は[エタノール](../Page/エタノール.md "wikilink")水溶液から[Hydyne](https://ja.wikipedia.org/wiki/Hydyne "wikilink")に変更し、毒性があるが、推力と比推力を向上させた。さらに、[サージェント](https://ja.wikipedia.org/wiki/サージェント "wikilink")SRBMから派生した小型の固体燃料ロケット「ベイビー・サージェント」を、11本円環状に並べたものを2段目とした。その2段目の中央に、第3段として同型の固体燃料ロケットが3本備わる。
 
 ジュピターCロケットの上に、先端の衛星と一体となった推力816kgの「ベイビー・サージェント」固体ロケット1本を4段目として備えたものをジュノー ()またはジュノーI() と呼ぶ。このロケットモーターは最後まで衛星と分離されないで、一体となって軌道を回る。
 
@@ -46,7 +46,7 @@
   - 直径： 1.78 m （70 in）
   - 発射重量： 27,800 kg （61,300 lb）
   - 機関： [ノースアメリカン](../Page/ノースアメリカン.md "wikilink")/[ロケットダイン](../Page/ロケットダイン.md "wikilink") NAA75-100 (A-6) 液体燃料ロケット・モーター
-  - 燃料/酸化剤： [エタノール](https://ja.wikipedia.org/wiki/エタノール "wikilink")水溶液/[液体酸素](../Page/液体酸素.md "wikilink")
+  - 燃料/酸化剤： [エタノール](../Page/エタノール.md "wikilink")水溶液/[液体酸素](../Page/液体酸素.md "wikilink")
   - 推力： 347 kN （78,000 lbf）
   - 速度： [M](../Page/マッハ数.md "wikilink") 5.5
   - 到達高度： 92 km （57 mi）

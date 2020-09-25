@@ -203,7 +203,7 @@
 <li><a href="../Page/鴻池組.md" title="wikilink">鴻池組</a></li>
 <li><a href="../Page/大京.md" title="wikilink">大京</a></li>
 <li><a href="../Page/双日.md" title="wikilink">双日</a>[24]</li>
-<li><a href="https://ja.wikipedia.org/wiki/髙島屋" title="wikilink">髙島屋</a></li>
+<li><a href="../Page/髙島屋.md" title="wikilink">髙島屋</a></li>
 <li><a href="../Page/大丸.md" title="wikilink">大丸</a></li>
 <li><a href="../Page/ダイエー.md" title="wikilink">ダイエー</a></li>
 <li><a href="../Page/セブン&amp;アイ・ホールディングス.md" title="wikilink">セブン&amp;アイ・ホールディングス</a>

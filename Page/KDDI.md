@@ -1,7 +1,7 @@
 > この記事は[KDDI](https://ja.wikipedia.org/wiki/KDDI)から翻訳されています。
 
 
-**KDDI株式会社**（ケイディーディーアイ、英:KDDI CORPORATION）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[電気通信事業者](../Page/電気通信事業者.md "wikilink")。 [日経平均株価](../Page/日経平均株価.md "wikilink")及び[TOPIX Core30の構成銘柄の一つである](../Page/TOPIX_Core30.md "wikilink")。
+**KDDI株式会社**（ケイディーディーアイ、英:KDDI CORPORATION）は、日本の[電気通信事業者](../Page/電気通信事業者.md "wikilink")。[日経平均株価](../Page/日経平均株価.md "wikilink")及び[TOPIX Core30の構成銘柄の一つである](../Page/TOPIX_Core30.md "wikilink")。
 
 ## 概要
 
@@ -138,19 +138,19 @@
       - 5月 - 本社機能、東京地区の業務拠点を東京都千代田区飯田橋3丁目10番10号（ガーデンエアタワー）に移転・集約させる（登記上の本店は、西新宿の[KDDIビル](../Page/KDDIビル.md "wikilink")のまま変更されず）。
   - [2004年](../Page/2004年.md "wikilink")（平成16年）
       - [6月21日](../Page/6月21日.md "wikilink") - PHS事業の子会社[DDIポケット株式会社](../Page/ウィルコム.md "wikilink")（のち[WILLCOM](https://ja.wikipedia.org/wiki/WILLCOM "wikilink")、現[Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")）を[カーライル・グループ](../Page/カーライル・グループ.md "wikilink")が[MBOにより買収することを最終合意し発表](../Page/マネジメント・バイアウト.md "wikilink")、同年[10月5日](../Page/10月5日.md "wikilink")投資実行\[12\]。
-      - [10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - 子会社4社を統合し[KDDIネットワーク&ソリューションズ](https://ja.wikipedia.org/wiki/KDDIネットワーク&ソリューションズ "wikilink")を設立。
+      - 10月 - 子会社4社を統合し[KDDIネットワーク&ソリューションズ](https://ja.wikipedia.org/wiki/KDDIネットワーク&ソリューションズ "wikilink")を設立。
   - [2005年](../Page/2005年.md "wikilink")（平成17年）
       - [1月1日](../Page/1月1日.md "wikilink") - DDIポケットの経営がカーライル・グループへ移行手続き完了。
       - [3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") - KDDI株式会社が携帯電話事業の[ツーカー](../Page/ツーカー.md "wikilink")グループ各社（株式会社ツーカーセルラー東京、株式会社ツーカーセルラー東海、株式会社ツーカーホン関西）を株式交換により完全子会社とする。
-      - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 株式会社KDDIテクニカルエンジニアリングサービス設立 （現KDDIエンジニアリング株式会社)
+      - 4月 - 株式会社KDDIテクニカルエンジニアリングサービス設立 （現KDDIエンジニアリング株式会社)
       - [10月1日](../Page/10月1日.md "wikilink") - KDDI株式会社を存続会社として、株式会社ツーカーセルラー東京、株式会社ツーカーセルラー東海、株式会社ツーカーホン関西を吸収合併。
   - [2006年](../Page/2006年.md "wikilink")（平成18年）
       - [1月1日](../Page/1月1日.md "wikilink") - KDDI株式会社を存続会社として、業務提携相手の東京電力が傘下に持つ株式会社パワードコムを吸収合併。株式交換により、東京電力が京セラ、トヨタに次ぐ大株主となり、東京電力など電力系の通信インフラを活用しサービスの向上を図ることとなる。
-      - [2月](https://ja.wikipedia.org/wiki/2月 "wikilink") - [DeNAと協業で](../Page/ディー・エヌ・エー.md "wikilink")、ケータイ業界初の直営ECサイト「au oneショッピングモール」を開業。
-      - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - [ジャパンケーブルネット](../Page/ジャパンケーブルネット.md "wikilink")と同社の持株会社であるジャパンケーブルネットホールディングスの[株式](../Page/株式.md "wikilink")を[セコム](../Page/セコム.md "wikilink")と[丸紅](../Page/丸紅.md "wikilink")から譲り受け、傘下に収める。
-      - [8月](../Page/8月.md "wikilink") - BTとともに[KDDI\&BTグローバルソリューションズ](https://ja.wikipedia.org/wiki/KDDI&BTグローバルソリューションズ "wikilink")を設立。
+      - 2月 - [DeNAと協業で](../Page/ディー・エヌ・エー.md "wikilink")、ケータイ業界初の直営ECサイト「au oneショッピングモール」を開業。
+      - 3月 - [ジャパンケーブルネット](../Page/ジャパンケーブルネット.md "wikilink")と同社の持株会社であるジャパンケーブルネットホールディングスの[株式](../Page/株式.md "wikilink")を[セコム](../Page/セコム.md "wikilink")と[丸紅](../Page/丸紅.md "wikilink")から譲り受け、傘下に収める。
+      - 8月 - BTとともに[KDDI\&BTグローバルソリューションズ](https://ja.wikipedia.org/wiki/KDDI&BTグローバルソリューションズ "wikilink")を設立。
   - [2007年](../Page/2007年.md "wikilink")（平成19年）
-      - [6月](../Page/6月.md "wikilink") - [ジャパンケーブルネット](../Page/ジャパンケーブルネット.md "wikilink")とジャパンケーブルネットホールディングスの株式を[富士通](../Page/富士通.md "wikilink")から譲り受け、両社を[連結子会社](../Page/連結子会社.md "wikilink")化。
+      - 6月 - [ジャパンケーブルネット](../Page/ジャパンケーブルネット.md "wikilink")とジャパンケーブルネットホールディングスの株式を[富士通](../Page/富士通.md "wikilink")から譲り受け、両社を[連結子会社](../Page/連結子会社.md "wikilink")化。
       - [8月29日](../Page/8月29日.md "wikilink") - [WiMAX](https://ja.wikipedia.org/wiki/WiMAX "wikilink")事業準備・運営会社「ワイヤレスブロードバンド企画株式会社」を設立。（[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")には同社に[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")・[JR東日本](../Page/東日本旅客鉄道.md "wikilink")・京セラ・[大和證券](../Page/大和証券グループ本社.md "wikilink")・[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")が増資)
       - [10月1日](../Page/10月1日.md "wikilink") - KDDIネットワーク&ソリューションズから会社分割で法人のシステムソリューション業務、法人向け通信事業の営業部門を移管する。（KDDIネットワーク&ソリューションズは、衛星携帯電話専業会社へ移行）
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）
@@ -397,7 +397,7 @@ KDDIフランスは、パリに本社を置く現地法人[5](http://www.fr.kddi
 | テレビ朝日系 | \[\[帰れマンデー見っけ隊                                                                                            | |帰れマンデー見っけ隊 | \]\]       | 30秒      | 2020年4月 -  |
 | テレビ朝日系 | [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")                                     | 30秒         | 不明         | ●        |            |
 | テレビ朝日系 | [ナニコレ珍百景](https://ja.wikipedia.org/wiki/ナニコレ珍百景 "wikilink")                                               | 30秒         | 2020年4月 -  |          |            |
-| テレビ東京系 | [モヤモヤさまぁ〜ず2](../Page/モヤモヤさまぁ〜ず2.md "wikilink")                                                            | 30秒         | 2014年4月 -  |          | ●          |
+| テレビ東京系 | [モヤモヤさまぁ?ず2](https://ja.wikipedia.org/wiki/モヤモヤさまぁ?ず2 "wikilink")                                         | 30秒         | 2014年4月 -  |          | ●          |
 | テレビ東京系 | [有吉ぃぃeeeee\!そうだ\!今からお前んチでゲームしない?](https://ja.wikipedia.org/wiki/有吉ぃぃeeeee!そうだ!今からお前んチでゲームしない? "wikilink") | 30秒         | 2018年10月 - | ●        |            |
 
 ### テレビ番組：ローカル番組
@@ -424,24 +424,24 @@ KDDIフランスは、パリに本社を置く現地法人[5](http://www.fr.kddi
 一定規模の災害や、auの通信サービス障害が発生した場合において、通常のCMを自粛し、[ACジャパン](../Page/ACジャパン.md "wikilink")や[災害用伝言板](../Page/災害用伝言板.md "wikilink")を告知するCMが放送されるケースがある。差替えの範囲は、全国ネットワークかローカルかはまちまちである。過去にあった主なケースは以下。
 
   - 2011年[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")発生後しばらくは通常のCMは自粛し、[災害用伝言板](../Page/災害用伝言板.md "wikilink")を告知するCMが放送された。
-  - 2013年5月29日より発生した関東地区でのLTE通信障害　提供番組は提供クレジットは表示されず、[ACジャパン](../Page/ACジャパン.md "wikilink")のCMへ差し替えられた。
+  - 2013年5月29日より発生した関東地区でのLTE通信障害 提供番組は提供クレジットは表示されず、[ACジャパン](../Page/ACジャパン.md "wikilink")のCMへ差し替えられた。
 
 ## 協力
 
   - [みまもりくん](https://ja.wikipedia.org/wiki/みまもりくん "wikilink")（同社が[いすゞ自動車](../Page/いすゞ自動車.md "wikilink")と共同開発した**世界初のインターネット・デジタル[タコグラフ](../Page/タコグラフ.md "wikilink")**システム）
-  - [スペースシャワーネットワーク](../Page/スペースシャワーネットワーク.md "wikilink")（[2011年](../Page/2011年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")より業務提携開始。これに伴い、同社は[伊藤忠商事](https://ja.wikipedia.org/wiki/伊藤忠商事 "wikilink")から14.03%の株式を取得した）
-  - [キラー・ヴァージンロード](https://ja.wikipedia.org/wiki/キラー・ヴァージンロード "wikilink")（[2009年](../Page/2009年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")に公開された劇場用[映画](../Page/映画.md "wikilink")で同社はこの作品に制作協力している）
-  - [FLOWERS -フラワーズ-](https://ja.wikipedia.org/wiki/FLOWERS_-フラワーズ- "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月12日](../Page/6月12日.md "wikilink")に公開された劇場用映画で同社はこの作品に制作協力している）
-  - [コクリコ坂から](https://ja.wikipedia.org/wiki/コクリコ坂から "wikilink")（[2011年](../Page/2011年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")に公開された[スタジオジブリ](../Page/スタジオジブリ.md "wikilink")制作の劇場用アニメーション映画で同社はこの作品に特別協賛している）
-  - [ガール](https://ja.wikipedia.org/wiki/ガール_\(小説\)#映画 "wikilink")（[2012年](../Page/2012年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")に公開された劇場用映画で同社はこの作品に制作協力している）
-  - [るろうに剣心](https://ja.wikipedia.org/wiki/るろうに剣心_\(映画\) "wikilink")（2012年[8月25日](../Page/8月25日.md "wikilink")に公開された劇場用映画で同社はこの作品に制作協力している）
-  - [劇場版 HUNTER×HUNTER 緋色の幻影](https://ja.wikipedia.org/wiki/劇場版_HUNTER×HUNTER_緋色の幻影 "wikilink")（[2013年](../Page/2013年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")に公開された劇場用アニメーション映画で同社はこの作品に制作協力している）
-  - [風立ちぬ](https://ja.wikipedia.org/wiki/風立ちぬ_\(2013年の映画\) "wikilink")（2013年[7月20日](../Page/7月20日.md "wikilink")に公開されたスタジオジブリ制作の劇場用アニメーション映画で同社はこの作品に提携している）
-  - [かぐや姫の物語](https://ja.wikipedia.org/wiki/かぐや姫の物語 "wikilink")（2013年[11月23日](../Page/11月23日.md "wikilink")に公開されたスタジオジブリ制作の劇場用アニメーション映画で同社はこの作品に提携している）
-  - [永遠の0](https://ja.wikipedia.org/wiki/永遠の0 "wikilink")（2013年[12月21日](../Page/12月21日.md "wikilink")に公開された劇場用映画で同社はこの作品に制作協力している）
-  - [劇場版 HUNTER×HUNTER -The LAST MISSION-](https://ja.wikipedia.org/wiki/劇場版_HUNTER×HUNTER_-The_LAST_MISSION- "wikilink")（2013年[12月27日](../Page/12月27日.md "wikilink")に公開された劇場用アニメーション映画）
-  - [Hello\! Project ひなフェス2014 〜Fullコース〜 supported by au](../Page/ハロー!プロジェクト.md "wikilink")（[2014年](../Page/2014年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink") - [3月30日](../Page/3月30日.md "wikilink")に[パシフィコ横浜](https://ja.wikipedia.org/wiki/パシフィコ横浜 "wikilink")展示ホールにて開催された[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")\[49\]のコンサートで同社はこのコンサートに特別協賛している）
-  - [思い出のマーニー](https://ja.wikipedia.org/wiki/思い出のマーニー "wikilink")（2014年[7月19日](../Page/7月19日.md "wikilink")に公開されたスタジオジブリ制作の劇場用アニメーション映画で同社はこの作品に提携している\[50\]）
+  - [スペースシャワーネットワーク](../Page/スペースシャワーネットワーク.md "wikilink")（2011年3月8日より業務提携開始。これに伴い、同社は[伊藤忠商事](https://ja.wikipedia.org/wiki/伊藤忠商事 "wikilink")から14.03%の株式を取得した）
+  - [キラー・ヴァージンロード](https://ja.wikipedia.org/wiki/キラー・ヴァージンロード "wikilink")（2009年9月12日に公開された劇場用[映画](../Page/映画.md "wikilink")で同社はこの作品に制作協力している）
+  - [FLOWERS -フラワーズ-](https://ja.wikipedia.org/wiki/FLOWERS_-フラワーズ- "wikilink")（2010年6月12日に公開された劇場用映画で同社はこの作品に制作協力している）
+  - [コクリコ坂から](https://ja.wikipedia.org/wiki/コクリコ坂から "wikilink")（2011年7月16日に公開された[スタジオジブリ](../Page/スタジオジブリ.md "wikilink")制作の劇場用アニメーション映画で同社はこの作品に特別協賛している）
+  - [ガール](https://ja.wikipedia.org/wiki/ガール_\(小説\)#映画 "wikilink")（2012年5月26日に公開された劇場用映画で同社はこの作品に制作協力している）
+  - [るろうに剣心](https://ja.wikipedia.org/wiki/るろうに剣心_\(映画\) "wikilink")（2012年8月25日に公開された劇場用映画で同社はこの作品に制作協力している）
+  - [劇場版 HUNTER×HUNTER 緋色の幻影](https://ja.wikipedia.org/wiki/劇場版_HUNTER×HUNTER_緋色の幻影 "wikilink")（2013年1月12日に公開された劇場用アニメーション映画で同社はこの作品に制作協力している）
+  - [風立ちぬ](https://ja.wikipedia.org/wiki/風立ちぬ_\(2013年の映画\) "wikilink")（2013年7月20日に公開されたスタジオジブリ制作の劇場用アニメーション映画で同社はこの作品に提携している）
+  - [かぐや姫の物語](https://ja.wikipedia.org/wiki/かぐや姫の物語 "wikilink")（2013年11月23日に公開されたスタジオジブリ制作の劇場用アニメーション映画で同社はこの作品に提携している）
+  - [永遠の0](https://ja.wikipedia.org/wiki/永遠の0 "wikilink")（2013年12月21日に公開された劇場用映画で同社はこの作品に制作協力している）
+  - [劇場版 HUNTER×HUNTER -The LAST MISSION-](https://ja.wikipedia.org/wiki/劇場版_HUNTER×HUNTER_-The_LAST_MISSION- "wikilink")（2013年12月27日に公開された劇場用アニメーション映画）
+  - [Hello\! Project ひなフェス2014 〜Fullコース〜 supported by au](../Page/ハロー!プロジェクト.md "wikilink")（2014年3月29日 - 3月30日に[パシフィコ横浜](https://ja.wikipedia.org/wiki/パシフィコ横浜 "wikilink")展示ホールにて開催された[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")\[49\]のコンサートで同社はこのコンサートに特別協賛している）
+  - [思い出のマーニー](https://ja.wikipedia.org/wiki/思い出のマーニー "wikilink")（2014年7月19日に公開されたスタジオジブリ制作の劇場用アニメーション映画で同社はこの作品に提携している\[50\]）
   - [ルパン三世 (2014年の映画)](https://ja.wikipedia.org/wiki/ルパン三世_\(2014年の映画\) "wikilink")（2014年8月30日に公開された劇場用映画で同社はこの作品に制作協力している）
   - [アオハライド](https://ja.wikipedia.org/wiki/アオハライド#映画 "wikilink")（2014年12月13日に公開された劇場用映画）
   - [映画 妖怪ウォッチ 誕生の秘密だニャン\!](https://ja.wikipedia.org/wiki/妖怪ウォッチ_\(アニメ\)#劇場版 "wikilink")（2014年12月20日に公開された劇場用アニメーション映画で同社はこの作品に制作協力している）
@@ -456,7 +456,7 @@ KDDIフランスは、パリに本社を置く現地法人[5](http://www.fr.kddi
 
 ## 参照
 
-<https://media3.kddi.com/extlib/files/corporate/kddi/annai/pdf/all.pdf>
+  - <https://media3.kddi.com/extlib/files/corporate/kddi/annai/pdf/all.pdf>
 
 ## 脚注
 
@@ -493,7 +493,7 @@ KDDIフランスは、パリに本社を置く現地法人[5](http://www.fr.kddi
 18.
 19. [KDDI、高級旅館の予約会社を買収](https://www.nikkei.com/article/DGXLASDZ07HQL_X00C17A2TI5000/)日本経済新聞 2017年2月9日
 20.
-21. [KDDI、携帯復旧へ船から電波　北海道地震で](https://www.nikkei.com/article/DGXMZO35147170Y8A900C1000000/) 日本経済新聞 2018年9月8日
+21. [KDDI、携帯復旧へ船から電波 北海道地震で](https://www.nikkei.com/article/DGXMZO35147170Y8A900C1000000/) 日本経済新聞 2018年9月8日
 22.
 23.
 24.
@@ -512,7 +512,7 @@ KDDIフランスは、パリに本社を置く現地法人[5](http://www.fr.kddi
 37.
 38.  企業戦略|url=[https://toyokeizai.net/articles/-/11511|website=東洋経済オンライン|date=2012-10-18|accessdate=2020-01-03|language=ja](https://toyokeizai.net/articles/-/11511%7Cwebsite=東洋経済オンライン%7Cdate=2012-10-18%7Caccessdate=2020-01-03%7Clanguage=ja)}}
 39.  ビジネスの本音に迫る|accessdate=2020-01-02|last=松井克明}}
-40. [KDDI株式会社に対する事故防止に係る指導　報道資料](http://warp.da.ndl.go.jp/info:ndljp/pid/8315893/www.soumu.go.jp/menu_news/s-news/01kiban05_02000053.html)（WARP [国立国会図書館インターネット情報選択的蓄積事業](https://ja.wikipedia.org/wiki/国立国会図書館#電子図書館事業 "wikilink")）
+40. [KDDI株式会社に対する事故防止に係る指導 報道資料](http://warp.da.ndl.go.jp/info:ndljp/pid/8315893/www.soumu.go.jp/menu_news/s-news/01kiban05_02000053.html)（WARP [国立国会図書館インターネット情報選択的蓄積事業](https://ja.wikipedia.org/wiki/国立国会図書館#電子図書館事業 "wikilink")）
 41.
 42.
 43.

@@ -7,7 +7,7 @@
 
 神に滅ぼされようとする地球を救うために**頭だけの姿**で地上に降臨した[愛](../Page/愛.md "wikilink")の[女神](../Page/女神.md "wikilink")に愛を注ぐという**生首育成ゲーム**である。
 
-日本では、2002年3月、[サンソフト](https://ja.wikipedia.org/wiki/サンソフト "wikilink")より[Windows版が発売](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。同年12月19日には[PlayStation 2版も発売される](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。なお、「Tomak()」とは、韓国語で「切れ端」「断片」といった意味である。
+日本では、2002年3月、[サンソフト](https://ja.wikipedia.org/wiki/サンソフト "wikilink")より[Windows版が発売](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。同年12月19日には[PlayStation 2版も発売される](../Page/PlayStation_2.md "wikilink")。なお、「Tomak()」とは、韓国語で「切れ端」「断片」といった意味である。
 
 続編としてSeed9社より『again』が発売されたが、これは恋愛シミュレーションゲームではなくアーケード版[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")である。
 

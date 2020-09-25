@@ -252,7 +252,7 @@
       - 登場作品 - [黒ベエ](../Page/黒ベエ.md "wikilink")、[笑ゥせぇるすまん](../Page/笑ゥせぇるすまん.md "wikilink")、[フータくん](../Page/フータくん.md "wikilink") 他
   - 山川キヨシ
     有名な少年[点描](../Page/点描.md "wikilink")画家。[山下清](../Page/山下清.md "wikilink")のパロディ。サインとして[プテラノドン](../Page/プテラノドン.md "wikilink")が描かれているものには数百万円の価値がある。作品によっては日本語がよく喋れない場合もあり、「点！点！点！」と叫んで絵を仕上げる。
-      - 登場作品 - [フータくん](../Page/フータくん.md "wikilink")NOW\!、[チャンピョンマンガ科](../Page/まんが道.md "wikilink")、[パラソルヘンべえ](../Page/パラソルヘンべえ.md "wikilink")
+      - 登場作品 - [フータくん](../Page/フータくん.md "wikilink")NOW\!、[チャンピオンマンガ科](../Page/まんが道.md "wikilink")、[パラソルヘンべえ](../Page/パラソルヘンべえ.md "wikilink")
   - サンスケの親父
     サンスケの親父で風呂屋の[番台](https://ja.wikipedia.org/wiki/番台 "wikilink")を務める。サンスケのイタズラには困っている。尚、[旅館](../Page/旅館.md "wikilink")の社長、[会社](../Page/会社.md "wikilink")の上役など上の仕事をする事が多い。
       - 登場作品 - [サンスケ](../Page/わかとの.md "wikilink")、[忍者ハットリくん](../Page/忍者ハットリくん.md "wikilink")、[フータくん](../Page/フータくん.md "wikilink")NOW\!

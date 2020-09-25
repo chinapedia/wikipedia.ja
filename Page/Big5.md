@@ -1,7 +1,7 @@
 > この記事は[Big5](https://ja.wikipedia.org/wiki/Big5)から翻訳されています。
 
 
-**Big5**（ビッグファイブ、中国語名：**大五碼**あるいは**五大碼**）は、[繁体字](../Page/繁体字.md "wikilink")[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")の[文字コード](../Page/文字コード.md "wikilink")（[文字集合](../Page/文字集合.md "wikilink")）で、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")・[マカオ](../Page/マカオ.md "wikilink")といった繁体字圏で最も一般的に使われている。
+**Big5**（ビッグファイブ、中国語名：**大五碼**あるいは**五大碼**）は、[繁体字](../Page/繁体字.md "wikilink")[中国語](../Page/中国語.md "wikilink")の[文字コード](../Page/文字コード.md "wikilink")（[文字集合](../Page/文字集合.md "wikilink")）で、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")・[マカオ](../Page/マカオ.md "wikilink")といった繁体字圏で最も一般的に使われている。
 
 ## 特徴
 

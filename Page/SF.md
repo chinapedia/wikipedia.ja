@@ -14,7 +14,7 @@
   - [特殊部隊](../Page/特殊部隊.md "wikilink")（special forces）
   - [安全率](../Page/安全率.md "wikilink")（safety factor）
   - [セックスフレンド](https://ja.wikipedia.org/wiki/セックスフレンド "wikilink")（sex friend）
-  - [平方フィート](https://ja.wikipedia.org/wiki/平方フィート "wikilink")（square foot） - 面積の単位。
+  - [平方フィート](../Page/平方フィート.md "wikilink")（square foot） - 面積の単位。
   - [自発核分裂](../Page/自発核分裂.md "wikilink")（spontaneous fission）
   - [犠牲フライ](../Page/犠牲フライ.md "wikilink")（Sacrifice Fly）
   - SF商法 - [新製品普及会](https://ja.wikipedia.org/wiki/新製品普及会 "wikilink")（Shin-seihin Fukyuukai）が開発した[催眠商法](../Page/催眠商法.md "wikilink")のこと。同種業態をさしてSF商法ともいう。法定義・規制等は[訪問販売](../Page/訪問販売.md "wikilink")を参照。
@@ -26,7 +26,7 @@
 
 ### 組織
 
-  - [ホンダ・SF](https://ja.wikipedia.org/wiki/ホンダ・SF "wikilink")は、嘗て存在した[本田技研工業](../Page/本田技研工業.md "wikilink")㈱の直営[ディーラー](https://ja.wikipedia.org/wiki/ディーラー "wikilink")網である。(SFは、SERVISFACTRYの略である。)
+  - [ホンダ・SF](https://ja.wikipedia.org/wiki/ホンダ・SF "wikilink")は、嘗て存在した[本田技研工業](../Page/本田技研工業.md "wikilink")㈱の直営[ディーラー](../Page/ディーラー.md "wikilink")網である。(SFは、SERVISFACTRYの略である。)
   - [サウンドファクトリー](../Page/サウンドファクトリー.md "wikilink")（Sound Factory） - [JR東日本に](../Page/東日本旅客鉄道.md "wikilink")[発車メロディ](../Page/発車メロディ.md "wikilink")を供給している会社。(代表的なものはSF10-60など) 。
   - [東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")（JOSF）
   - [スターフライヤー](../Page/スターフライヤー.md "wikilink")（SFJ） - 日本の航空会社。

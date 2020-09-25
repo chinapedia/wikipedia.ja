@@ -37,7 +37,7 @@
   - SCENE:2 [CROSS BONE GUNDAM](../Page/クロスボーン・ガンダム.md "wikilink")
   - SCENE:3 [DEVIL GUNDAM](../Page/デビルガンダム.md "wikilink")
   - SCENE:4 LM314V21 [VICTORY TWO GUNDAM](https://ja.wikipedia.org/wiki/ヴィクトリーガンダム#V2ガンダム "wikilink")
-  - SCENE:5 MSZ-010 [ΖΖ GUNDAM](https://ja.wikipedia.org/wiki/ΖΖガンダム "wikilink")
+  - SCENE:5 MSZ-010 [ΖΖ GUNDAM](../Page/ΖΖガンダム.md "wikilink")
   - SCENE:6 RX-79(G) [GUNDAM MASS-PRODUCT TYPE](../Page/陸戦型ガンダム.md "wikilink")
   - SCENE:7 MRX-009 [PSYCHO GUNDAM](../Page/サイコガンダム.md "wikilink")
   - SCENE:8 [GAIA GEARα](https://ja.wikipedia.org/wiki/ガイア・ギアの登場兵器#ガイア・ギアα "wikilink")

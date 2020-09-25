@@ -44,7 +44,7 @@ Jポップからロック・R\&B・ヒップホップ・テクノ・レゲエ・
 
 ## 外部リンク
 
-  - [Napster Japan](http://web.archive.org/web/20100106031407/http://www.napster.jp/) - 閉鎖。（2010年1月6日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [Napster Japan](https://web.archive.org/web/20100106031407/http://www.napster.jp/) - 閉鎖。（2010年1月6日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
 [Category:かつて存在した音楽配信サービス](https://ja.wikipedia.org/wiki/Category:かつて存在した音楽配信サービス "wikilink")
 

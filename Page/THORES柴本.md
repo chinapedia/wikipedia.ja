@@ -9,7 +9,7 @@
 
 ### 挿絵・表紙
 
-  - [トリニティ・ブラッド](../Page/トリニティ・ブラッド.md "wikilink")（著者：[吉田直](../Page/吉田直.md "wikilink")　[スニーカー文庫](https://ja.wikipedia.org/wiki/スニーカー文庫 "wikilink")）
+  - [トリニティ・ブラッド](../Page/トリニティ・ブラッド.md "wikilink")\[1\]（著者：[吉田直](../Page/吉田直.md "wikilink")　[スニーカー文庫](https://ja.wikipedia.org/wiki/スニーカー文庫 "wikilink")）
   - 『[オペラ](https://ja.wikipedia.org/wiki/オペラシリーズ "wikilink")』シリーズ（著者：[栗原ちひろ](../Page/栗原ちひろ.md "wikilink")　[ビーンズ文庫](https://ja.wikipedia.org/wiki/ビーンズ文庫 "wikilink")）
   - 新[バイオニック・ソルジャーシリーズ](https://ja.wikipedia.org/wiki/バイオニック・ソルジャーシリーズ "wikilink") [新・魔界行](https://ja.wikipedia.org/wiki/新・魔界行 "wikilink")1～3（著者：[菊地秀行](../Page/菊地秀行.md "wikilink")　[祥伝社](../Page/祥伝社.md "wikilink")[ノン・ノベル](https://ja.wikipedia.org/wiki/ノン・ノベル "wikilink")）
   - [オーラバトラー戦記](../Page/オーラバトラー戦記.md "wikilink") 第7巻 東京上空（著者：[富野由悠季](../Page/富野由悠季.md "wikilink")　[スニーカー文庫](https://ja.wikipedia.org/wiki/スニーカー文庫 "wikilink")）
@@ -41,7 +41,7 @@
   - [王立探偵シオンの過ち](https://ja.wikipedia.org/wiki/王立探偵シオンの過ち "wikilink")（著者：[我鳥彩子](https://ja.wikipedia.org/wiki/我鳥彩子 "wikilink")　コバルト文庫)
   - 無限回廊案内人（著者：千年、[小学館](../Page/小学館.md "wikilink")文庫キャラブン\!）
   - 獣の巫女は祈らない（著者：[中村ふみ](https://ja.wikipedia.org/wiki/中村ふみ "wikilink")、講談社X文庫ホワイトハート）
-  - ヴァンパイア探偵 禁断の運命の血（著者：[喜多喜久](https://ja.wikipedia.org/wiki/喜多喜久 "wikilink")、小学館文庫キャラブン\!）
+  - ヴァンパイア探偵（著者：[喜多喜久](https://ja.wikipedia.org/wiki/喜多喜久 "wikilink")、小学館文庫キャラブン\!）
   - シェイクスピア警察 マクベスは世界の王になれるか（著者：[菅野彰](../Page/菅野彰.md "wikilink")、集英社オレンジ文庫）
 
 ### 連載作品
@@ -70,3 +70,5 @@
   - [オペラシリーズ](http://www.kadokawa.co.jp/beans/series/index.php?id=12)（[角川ビーンズ文庫](../Page/角川ビーンズ文庫.md "wikilink")公式サイト内）
 
 [Category:日本のイラストレーター](https://ja.wikipedia.org/wiki/Category:日本のイラストレーター "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+
+1.

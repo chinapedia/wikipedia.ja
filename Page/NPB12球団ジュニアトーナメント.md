@@ -1,7 +1,7 @@
 > この記事は[NPB12球団ジュニアトーナメント](https://ja.wikipedia.org/wiki/NPB12球団ジュニアトーナメント)から翻訳されています。
 
 
-**NPB12球団ジュニアトーナメント**（NPB12きゅうだんジュニアトーナメント）は、[2005年](../Page/2005年.md "wikilink")より毎年12月下旬に、[日本野球機構](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")（NPB）及び同機構に属する[プロ野球](../Page/プロ野球.md "wikilink")12球団が主催する[少年野球](../Page/少年野球.md "wikilink")の大会である。第10回（2014年）までは[JX日鉱日石エネルギー特別協賛としてENEOS](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink") CUP、第11回から第15回までは[日能研](../Page/日能研.md "wikilink")が特別協賛を務めた。
+**NPB12球団ジュニアトーナメント**（NPB12きゅうだんジュニアトーナメント）は、[2005年](../Page/2005年.md "wikilink")より毎年12月下旬に、[日本野球機構](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")（NPB）及び同機構に属する[プロ野球](../Page/プロ野球.md "wikilink")12球団が主催する[少年野球](../Page/少年野球.md "wikilink")の大会である。第10回（2014年）までは[JX日鉱日石エネルギー特別協賛としてENEOS](../Page/ENEOS.md "wikilink") CUP、第11回から第15回までは[日能研](../Page/日能研.md "wikilink")が特別協賛を務めた。
 
 12球団ごとに小学5 - 6年生を中心としたジュニアチームを結成。3チームずつ4グループに分かれてグループリーグを戦い、各1位の計4チームが決勝トーナメントに進出。王者を決める。後述するように、この大会からプロ野球に進んだ選手も存在している。 選手はプロ球団とほぼ同じ[ユニフォーム](../Page/ユニフォーム.md "wikilink")を着て試合をするが、ジュニアのユニフォームは各ジュニアチームの脇から横腹の辺りに太い線がある等若干の違いがある。また、選手のユニフォーム・ウインドブレーカーの左肩には特別協賛社のロゴマークが刺繍される。
 
@@ -384,15 +384,15 @@ DeNA</a>[4]</p></th>
 </tr>
 <tr class="even">
 <td><p>16</p></td>
+<td><p><a href="../Page/須永英輝.md" title="wikilink">須永英輝</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>| <a href="../Page/西村健太朗.md" title="wikilink">西村健太朗</a></p></td>
+<td><p><a href="../Page/西村健太朗.md" title="wikilink">西村健太朗</a></p></td>
 <td><p><a href="../Page/秦裕二.md" title="wikilink">秦裕二</a></p></td>
 <td></td>
 <td><p><a href="../Page/白仁田寛和.md" title="wikilink">白仁田寛和</a></p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>

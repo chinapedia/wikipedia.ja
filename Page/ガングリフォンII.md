@@ -56,7 +56,7 @@
 
 <!-- end list -->
 
-  - [ガングリフォン ブレイズ](../Page/ガングリフォン_ブレイズ.md "wikilink") (GUNGRRIFFON BLAZE) [PlayStation 2専用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") [2000年](../Page/2000年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink") 発売
+  - [ガングリフォン ブレイズ](../Page/ガングリフォン_ブレイズ.md "wikilink") (GUNGRRIFFON BLAZE) [PlayStation 2専用](../Page/PlayStation_2.md "wikilink") [2000年](../Page/2000年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink") 発売
   - [ガングリフォン アライド ストライク](https://ja.wikipedia.org/wiki/ガングリフォン_アライド_ストライク "wikilink") (GUNGRIFFON Allied Strike) [Xbox専用](../Page/Xbox_\(ゲーム機\).md "wikilink") [2004年](../Page/2004年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink") 発売
 
 [Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink") [Category:ゲームアーツのゲームソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーツのゲームソフト "wikilink")

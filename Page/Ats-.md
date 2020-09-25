@@ -167,7 +167,7 @@
       - ring\!Ring\!\!RING\!\!\!（編曲） [サンリオ](../Page/サンリオ.md "wikilink")「夢がキラめくクリスマス」イメージソング
       - traveller（編曲） [日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』エンディングテーマ
       - Callin' 〜ぼくを呼ぶ声〜（編曲） 映画『[コアラ課長](https://ja.wikipedia.org/wiki/コアラ課長 "wikilink")』エンディングテーマ
-      - 勇気のチカラ（編曲） [カプコン](../Page/カプコン.md "wikilink")社[PlayStation 2専用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[史上最強の弟子ケンイチ 激闘\!ラグナレク八拳豪](https://ja.wikipedia.org/wiki/史上最強の弟子ケンイチ#ゲーム "wikilink")』オープニングテーマ
+      - 勇気のチカラ（編曲） [カプコン](../Page/カプコン.md "wikilink")社[PlayStation 2専用ソフト](../Page/PlayStation_2.md "wikilink")『[史上最強の弟子ケンイチ 激闘\!ラグナレク八拳豪](https://ja.wikipedia.org/wiki/史上最強の弟子ケンイチ#ゲーム "wikilink")』オープニングテーマ
   - [Ruppina](https://ja.wikipedia.org/wiki/Ruppina "wikilink")
       - [Thousand Lights](https://ja.wikipedia.org/wiki/FAITH/Thousand_Lights "wikilink")（編曲） [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[プラチナチケット](../Page/プラチナチケット.md "wikilink")』内コーナー「ラヴ・ダウト」テーマソング
       - [i](https://ja.wikipedia.org/wiki/Ruppina_II "wikilink")（編曲） [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[プラチナチケット](../Page/プラチナチケット.md "wikilink")』内コーナー「ラヴ・ダウト」テーマソング
@@ -200,7 +200,7 @@
       - ONE（編曲）
       - G:I:C:O:D:E（編曲） 東映配給映画「[偶然にも最悪な少年](../Page/偶然にも最悪な少年.md "wikilink")」主題歌
   - [鋼の錬金術師](../Page/鋼の錬金術師.md "wikilink")
-      - RETURNABLE MEMORIES（作曲・編曲） [エドワード・エルリック](../Page/エドワード・エルリック.md "wikilink")[鋼の錬金術師](../Page/鋼の錬金術師.md "wikilink")（[朴璐美](https://ja.wikipedia.org/wiki/朴璐美 "wikilink")） キャラクターソング
+      - RETURNABLE MEMORIES（作曲・編曲） [エドワード・エルリック](../Page/エドワード・エルリック.md "wikilink")[鋼の錬金術師](../Page/鋼の錬金術師.md "wikilink")（[朴璐美](../Page/朴璐美.md "wikilink")） キャラクターソング
   - [mink](https://ja.wikipedia.org/wiki/mink "wikilink")
       - おまじない（編曲）
   - [REIRA starring YUNA ITO](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")
@@ -511,6 +511,10 @@
   - [大阪☆春夏秋冬](https://ja.wikipedia.org/wiki/大阪☆春夏秋冬 "wikilink")
 
       - Makkkkko Shobu(作曲)
+
+  - [畠中祐](https://ja.wikipedia.org/wiki/畠中祐 "wikilink")
+
+      - Promise for the future (編曲)テレビ東京系ドラマ「[ウルトラマンZ](../Page/ウルトラマンZ.md "wikilink")」エンディングテーマ
 
 ## 出典
 

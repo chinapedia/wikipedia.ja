@@ -44,7 +44,7 @@
 
   - 2009年
 
-:\* [キラ☆キラ 〜Rock'n'RollShow〜](https://ja.wikipedia.org/wiki/キラ☆キラ_〜Rock'n'RollShow〜 "wikilink")（キラ☆キラの[PS2移植作品](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）
+:\* [キラ☆キラ 〜Rock'n'RollShow〜](https://ja.wikipedia.org/wiki/キラ☆キラ_〜Rock'n'RollShow〜 "wikilink")（キラ☆キラの[PS2移植作品](../Page/PlayStation_2.md "wikilink")）
 
 :\* [この青空に約束を― てのひらのらくえん](../Page/この青空に約束を―.md "wikilink")
 

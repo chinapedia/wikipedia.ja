@@ -1,7 +1,7 @@
 > この記事は[機動戦士ガンダム クライマックスU.C.](https://ja.wikipedia.org/wiki/機動戦士ガンダム_クライマックスU.C.)から翻訳されています。
 
 
-『**機動戦士ガンダム クライマックスU.C.**』（きどうせんしガンダム クライマックスユーシー）は、[2006年](../Page/2006年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。ジャンルは3D[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")で、プログレスモード、クロニクルモード、エクストラモード、VSモードの4種類のゲームをプレイする事ができる。本項目では本作を題材とした漫画『**機動戦士ガンダム クライマックスU.C. 紡がれし血統**』についても併せて記載する。
+『**機動戦士ガンダム クライマックスU.C.**』（きどうせんしガンダム クライマックスユーシー）は、[2006年](../Page/2006年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[PlayStation 2用ゲームソフト](../Page/PlayStation_2.md "wikilink")。ジャンルは3D[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")で、プログレスモード、クロニクルモード、エクストラモード、VSモードの4種類のゲームをプレイする事ができる。本項目では本作を題材とした漫画『**機動戦士ガンダム クライマックスU.C. 紡がれし血統**』についても併せて記載する。
 
 ## 概要
 
@@ -255,7 +255,7 @@
       - [マラサイ](../Page/マラサイ.md "wikilink")
       - [バイアラン](https://ja.wikipedia.org/wiki/ティターンズの機動兵器#バイアラン "wikilink")※
   - **機動戦士ガンダムΖΖ**
-      - [ΖΖガンダム](https://ja.wikipedia.org/wiki/ΖΖガンダム "wikilink")
+      - [ΖΖガンダム](../Page/ΖΖガンダム.md "wikilink")
       - [ザクIII](https://ja.wikipedia.org/wiki/ザクIII "wikilink")
       - [ザクIII改](https://ja.wikipedia.org/wiki/ザクIII#ザクIII改 "wikilink")
       - [ドーベン・ウルフ](../Page/ドーベン・ウルフ.md "wikilink")

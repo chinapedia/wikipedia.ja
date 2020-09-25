@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2004年](../Page/2004年.md "wikilink")10月にユーザー生成コンテンツをホスティングする動画共有サービスとして開始された。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[英語](../Page/英語.md "wikilink")・[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")・[日本語](../Page/日本語.md "wikilink")のサポートを開始し、[朝鮮語](../Page/朝鮮語.md "wikilink")を含め4か国語対応となった。
+[2004年](../Page/2004年.md "wikilink")10月にユーザー生成コンテンツをホスティングする動画共有サービスとして開始された。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[英語](../Page/英語.md "wikilink")・[中国語](../Page/中国語.md "wikilink")・[日本語](../Page/日本語.md "wikilink")のサポートを開始し、[朝鮮語](../Page/朝鮮語.md "wikilink")を含め4か国語対応となった。
 
 2005年頃からライブストリーミングサービスを提供している\[1\]\[2\]。
 
@@ -15,7 +15,7 @@
 
 ## ビジネス
 
-パンドラTV社は、動画サービス「パンドラTV（pandora.tv）」とマルチメディアビデオプレーヤーの「KMプレーヤー」、動画広告プラットフォーム「プリズム（PRISM）」、ブロックチェーンコミュニティプラットフォーム「COBAK」を運営しており、100％子会社に[ネイバーと](https://ja.wikipedia.org/wiki/ネイバー_\(企業\) "wikilink")[カカオなどのウェブサイトの広告代理店であるHeeil](https://ja.wikipedia.org/wiki/カカオ_\(企業\) "wikilink") Communications、動画ファイルを中心とした[ウェブハード](https://ja.wikipedia.org/wiki/ウェブハード "wikilink")サイト「ファイルクッキー（FileKuki）\[6\]」を提供するmonsterがある。パンドラTV社単独の収益モデルは、パンドラTV、KMプレーヤー、Naver TV、GOMTV、Dailymotionなどで採用されている韓国向けの動画広告ネットワーク「プリズム」からの広告収入、他社広告ネットワークからの広告収入、日本向けに展開しているPANDORA.TVプレミアムからの課金収入がある。
+パンドラTV社は、動画サービス「パンドラTV（pandora.tv）」とマルチメディアビデオプレーヤーの「KMプレーヤー」、動画広告プラットフォーム「プリズム（PRISM）」、ブロックチェーンコミュニティプラットフォーム「COBAK」を運営しており、100％子会社に[ネイバーと](../Page/ネイバー_\(企業\).md "wikilink")[カカオなどのウェブサイトの広告代理店であるHeeil](https://ja.wikipedia.org/wiki/カカオ_\(企業\) "wikilink") Communications、動画ファイルを中心とした[ウェブハード](https://ja.wikipedia.org/wiki/ウェブハード "wikilink")サイト「ファイルクッキー（FileKuki）\[6\]」を提供するmonsterがある。パンドラTV社単独の収益モデルは、パンドラTV、KMプレーヤー、Naver TV、GOMTV、Dailymotionなどで採用されている韓国向けの動画広告ネットワーク「プリズム」からの広告収入、他社広告ネットワークからの広告収入、日本向けに展開しているPANDORA.TVプレミアムからの課金収入がある。
 
 ## 歴史
 

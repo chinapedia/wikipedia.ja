@@ -3,6 +3,15 @@
 
 <noinclude></noinclude> 新規記事作成後は[索引にも追加してください](https://ja.wikipedia.org/wiki/Wikipedia:索引 "wikilink")（[新着を探す](https://ja.wikipedia.org/wiki/特別:新しいページ "wikilink")）
 
+  - 20/9/7 - [ケビン・キューネルト](https://ja.wikipedia.org/wiki/ケビン・キューネルト "wikilink")
+  - 20/9/5 - [マイネルツハーゲン](https://ja.wikipedia.org/wiki/マイネルツハーゲン "wikilink")
+  - 20/9/4 - [ラントフルフト](https://ja.wikipedia.org/wiki/ラントフルフト "wikilink")
+  - 20/9/3 - [シュヴァルツヴァルト線 (バーデン)](https://ja.wikipedia.org/wiki/シュヴァルツヴァルト線_\(バーデン\) "wikilink")
+  - 20/8/28 - [キールスペ](../Page/キールスペ.md "wikilink")
+  - 20/8/22 - [ハルヴァー](../Page/ハルヴァー.md "wikilink")
+  - 20/8/15 - [リューデンシャイト](../Page/リューデンシャイト.md "wikilink")
+  - 20/8/5 - [シャルクスミューレ](../Page/シャルクスミューレ.md "wikilink")
+  - 20/8/2 - [ナハロート＝ヴィプリングヴェルデ](../Page/ナハロート＝ヴィプリングヴェルデ.md "wikilink")
   - 20/7/26 - [アルテナ](../Page/アルテナ.md "wikilink")
   - 20/7/11 - [メンデン (ザウアーラント)](../Page/メンデン_\(ザウアーラント\).md "wikilink")
   - 20/7/4 - [ヴェーザータール](../Page/ヴェーザータール.md "wikilink")
@@ -11,7 +20,7 @@
   - 20/6/24 - [ヘーマー](../Page/ヘーマー.md "wikilink")
   - 20/6/19 - [ライプツィヒ - ホーフ線](https://ja.wikipedia.org/wiki/ライプツィヒ_-_ホーフ線 "wikilink")
   - 20/6/6 - [バルヴェ](../Page/バルヴェ.md "wikilink")
-  - 0/6/4 - [ホッホシュタット - プロブストツェラ線](https://ja.wikipedia.org/wiki/ホッホシュタット_-_プロブストツェラ線 "wikilink")
+  - 20/6/4 - [ホッホシュタット - プロブストツェラ線](https://ja.wikipedia.org/wiki/ホッホシュタット_-_プロブストツェラ線 "wikilink")
   - 20/5/30 - [ノイエンラーデ](../Page/ノイエンラーデ.md "wikilink")
   - 20/5/27 - [マンハイム - ザールブリュッケン線](https://ja.wikipedia.org/wiki/マンハイム_-_ザールブリュッケン線 "wikilink")
   - 20/5/22 - [ヴェルドール](../Page/ヴェルドール.md "wikilink")
@@ -29,6 +38,7 @@
   - 20/4/20 - [オーバーリークシンゲン](../Page/オーバーリークシンゲン.md "wikilink")
   - 20/4/19 - [ザクセンハイム](../Page/ザクセンハイム.md "wikilink")
   - 20/4/18 - [マルクグレーニンゲン](../Page/マルクグレーニンゲン.md "wikilink")
+  - 20/4/14 - [在新潟ドイツ領事館](../Page/在新潟ドイツ領事館.md "wikilink")
   - 20/4/11 - [タム (ドイツ)](../Page/タム_\(ドイツ\).md "wikilink"), [アスペルク](../Page/アスペルク.md "wikilink")
   - 20/4/9 - [メークリンゲン](../Page/メークリンゲン.md "wikilink")
   - 20/4/7 - [コルンヴェストハイム](../Page/コルンヴェストハイム.md "wikilink")

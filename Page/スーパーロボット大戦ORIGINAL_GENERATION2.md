@@ -13,7 +13,7 @@
 
 演出の面では、ほとんどのユニットグラフィックが描き換えられアニメーションも強化されている。前作ではパイロットカットインのない者が多かったが、本作ではほとんどのパイロットにカットインが存在。戦闘BGMはユニット・パイロットごとに指定された数種から任意に設定可能になった。
 
-[2007年](../Page/2007年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")には[PlayStation 2用ソフトとして前作と本作](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、OVA『[スーパーロボット大戦ORIGINAL GENERATION THE ANIMATION](../Page/スーパーロボット大戦ORIGINAL_GENERATION_THE_ANIMATION.md "wikilink")』とその前後を描いたドラマCDのエピソードを加えてリメイクした『[スーパーロボット大戦OG ORIGINAL GENERATIONS](../Page/スーパーロボット大戦OG_ORIGINAL_GENERATIONS.md "wikilink")』が発売された。
+[2007年](../Page/2007年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")には[PlayStation 2用ソフトとして前作と本作](../Page/PlayStation_2.md "wikilink")、OVA『[スーパーロボット大戦ORIGINAL GENERATION THE ANIMATION](../Page/スーパーロボット大戦ORIGINAL_GENERATION_THE_ANIMATION.md "wikilink")』とその前後を描いたドラマCDのエピソードを加えてリメイクした『[スーパーロボット大戦OG ORIGINAL GENERATIONS](../Page/スーパーロボット大戦OG_ORIGINAL_GENERATIONS.md "wikilink")』が発売された。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")10月からは、本作をベースとした[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[スーパーロボット大戦OG -ジ・インスペクター-](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_-ジ・インスペクター- "wikilink")』が放映された。
 

@@ -148,7 +148,7 @@ ED</p></td>
 <div style="float: left; vertical-align: top; margin-right: 1em;">
 
   - [山口県](../Page/山口県.md "wikilink") ★[山口朝日放送](../Page/山口朝日放送.md "wikilink")
-  - [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink") ★[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")
+  - [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink") ★[四国放送](../Page/四国放送.md "wikilink")
   - [愛媛県](../Page/愛媛県.md "wikilink") [テレビ愛媛](../Page/テレビ愛媛.md "wikilink")
   - [高知県](../Page/高知県.md "wikilink") [高知さんさんテレビ](../Page/高知さんさんテレビ.md "wikilink")
   - [長崎県](../Page/長崎県.md "wikilink") [テレビ長崎](../Page/テレビ長崎.md "wikilink")
@@ -178,6 +178,6 @@ ED</p></td>
 
 ## 外部リンク
 
-  - [music\>holic](http://web.archive.org/web/20070322234530/http://musicholic.tv/index.html)（番組公式） - 閉鎖。（2007年3月22日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [music\>holic](https://web.archive.org/web/20070322234530/http://musicholic.tv/index.html)（番組公式） - 閉鎖。（2007年3月22日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
 [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:岩手めんこいテレビの番組](https://ja.wikipedia.org/wiki/Category:岩手めんこいテレビの番組 "wikilink") [Category:東北地方の深夜テレビ番組](https://ja.wikipedia.org/wiki/Category:東北地方の深夜テレビ番組 "wikilink") [Category:ローカルテレビ局の音楽番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の音楽番組 "wikilink")

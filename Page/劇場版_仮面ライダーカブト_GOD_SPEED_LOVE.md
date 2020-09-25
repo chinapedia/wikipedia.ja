@@ -66,7 +66,7 @@
 
 初登場時に正座していたのはスーツアクターの[岡元次郎](../Page/岡元次郎.md "wikilink")の提案によるもので、武道のイメージと登場時のインパクトを意図している。
 
-[PS2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『仮面ライダーカブト』では[中田譲治](../Page/中田譲治.md "wikilink")が声を担当。[PS3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")・[Wii Uソフト](https://ja.wikipedia.org/wiki/Wii_U "wikilink")『[仮面ライダー バトライド・ウォーII](https://ja.wikipedia.org/wiki/仮面ライダー_バトライド・ウォー "wikilink")』では黒崎を演じた[武蔵が声を担当](../Page/武蔵_\(格闘家\).md "wikilink")。
+[PS2版](../Page/PlayStation_2.md "wikilink")『仮面ライダーカブト』では[中田譲治](../Page/中田譲治.md "wikilink")が声を担当。[PS3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")・[Wii Uソフト](https://ja.wikipedia.org/wiki/Wii_U "wikilink")『[仮面ライダー バトライド・ウォーII](https://ja.wikipedia.org/wiki/仮面ライダー_バトライド・ウォー "wikilink")』では黒崎を演じた[武蔵が声を担当](../Page/武蔵_\(格闘家\).md "wikilink")。
 
 #### 仮面ライダーヘラクス
 

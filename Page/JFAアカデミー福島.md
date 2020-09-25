@@ -158,6 +158,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 | [2016](https://ja.wikipedia.org/wiki/高円宮杯U-18サッカーリーグ2016 "wikilink") | [プリンスリーグ東海](https://ja.wikipedia.org/wiki/高円宮杯_JFA_U-18サッカープリンスリーグ東海 "wikilink")  | 18     | **41** | 12 | 5  | 1  | 48 | 17   | \+31 | 1位 | 10   |
 | [2017](https://ja.wikipedia.org/wiki/高円宮杯U-18サッカーリーグ2017 "wikilink") | 18                                                                                | **30** | 10     | 0  | 8  | 33 | 26 | \+7  | 4位   | 10 |      |
 | [2018](https://ja.wikipedia.org/wiki/高円宮杯U-18サッカーリーグ2018 "wikilink") | 18                                                                                | **43** | 14     | 1  | 3  | 47 | 13 | \+34 | 2位   | 10 |      |
+| [2019](https://ja.wikipedia.org/wiki/高円宮杯U-18サッカーリーグ2019 "wikilink") | 18                                                                                | **46** | 15     | 1  | 2  | 46 | 14 | \+32 | 1位   | 10 |      |
 
 ### 女子
 
@@ -182,505 +183,70 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 
 ## 主な卒業生
 
-### 男子
+| 期生 | 名前                                                                    | 在籍年         | 卒業後進路                                                               | 現所属                                                             |
+| -- | --------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------- | --------------------------------------------------------------- |
+| 1  | [幸野志有人](https://ja.wikipedia.org/wiki/幸野志有人 "wikilink")               | 2006 - 2010 | [FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")               | [V・ファーレン長崎](https://ja.wikipedia.org/wiki/V・ファーレン長崎 "wikilink") |
+| 1  | [呉大陸](https://ja.wikipedia.org/wiki/呉大陸 "wikilink")                   | 2006 - 2011 | [ファジアーノ岡山](../Page/ファジアーノ岡山FC.md "wikilink")                        | 未定                                                              |
+| 1  | [三幸秀稔](https://ja.wikipedia.org/wiki/三幸秀稔 "wikilink")                 | 2006 - 2011 | [ヴァンフォーレ甲府](https://ja.wikipedia.org/wiki/ヴァンフォーレ甲府 "wikilink")     | [湘南ベルマーレ](https://ja.wikipedia.org/wiki/湘南ベルマーレ "wikilink")     |
+| 1  | [金城クリストファー達樹](https://ja.wikipedia.org/wiki/金城クリストファー達樹 "wikilink")   | 2006 - 2011 | [フォルトゥナ・デュッセルドルフ](../Page/フォルトゥナ・デュッセルドルフ.md "wikilink")U-19        | 現役引退                                                            |
+| 1  | [遠藤翼](https://ja.wikipedia.org/wiki/遠藤翼 "wikilink")                   | 2006 - 2011 | [メリーランド大学](https://ja.wikipedia.org/wiki/メリーランド大学 "wikilink")       | [トロントFC](../Page/トロントFC.md "wikilink")\[6\]                     |
+| 2  | [松本昌也](https://ja.wikipedia.org/wiki/松本昌也 "wikilink")                 | 2007 - 2012 | [大分トリニータ](https://ja.wikipedia.org/wiki/大分トリニータ "wikilink")         | [ジュビロ磐田](../Page/ジュビロ磐田.md "wikilink")                          |
+| 2  | [幡野貴紀](https://ja.wikipedia.org/wiki/幡野貴紀 "wikilink")                 | 2007 - 2012 | [ファジアーノ岡山](../Page/ファジアーノ岡山FC.md "wikilink")                        | [ブリオベッカ浦安](https://ja.wikipedia.org/wiki/ブリオベッカ浦安 "wikilink")   |
+| 2  | [平澤俊輔](https://ja.wikipedia.org/wiki/平澤俊輔 "wikilink")                 | 2007 - 2012 | [早稲田大学](../Page/早稲田大学ア式蹴球部.md "wikilink")                           | [いわきFC](https://ja.wikipedia.org/wiki/いわきFC "wikilink")         |
+| 3  | [金子翔太](https://ja.wikipedia.org/wiki/金子翔太 "wikilink")                 | 2008 - 2013 | [清水エスパルス](../Page/清水エスパルス.md "wikilink")                            | [清水エスパルス](../Page/清水エスパルス.md "wikilink")                        |
+| 3  | [安東輝](https://ja.wikipedia.org/wiki/安東輝 "wikilink")                   | 2008 - 2013 | [湘南ベルマーレ](https://ja.wikipedia.org/wiki/湘南ベルマーレ "wikilink")         | [水戸ホーリーホック](../Page/水戸ホーリーホック.md "wikilink")                    |
+| 3  | [平岡将豪](https://ja.wikipedia.org/wiki/平岡将豪 "wikilink")                 | 2008 - 2013 | [AC長野パルセイロ](../Page/AC長野パルセイロ.md "wikilink")                        | [いわきFC](https://ja.wikipedia.org/wiki/いわきFC "wikilink")         |
+| 3  | [小池龍太](https://ja.wikipedia.org/wiki/小池龍太 "wikilink")                 | 2008 - 2013 | [レノファ山口FC](../Page/レノファ山口FC.md "wikilink")                          | [横浜F・マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")   |
+| 3  | [木下諒](https://ja.wikipedia.org/wiki/木下諒 "wikilink")                   | 2008 - 2013 | 早稲田大学                                                               | 現役引退                                                            |
+| 4  | [金城ジャスティン俊樹](https://ja.wikipedia.org/wiki/金城ジャスティン俊樹 "wikilink")     | 2009 - 2014 | [1860ミュンヘン](https://ja.wikipedia.org/wiki/1860ミュンヘン "wikilink")U-19 | [ザスパクサツ群馬](https://ja.wikipedia.org/wiki/ザスパクサツ群馬 "wikilink")   |
+| 4  | [似鳥康太](https://ja.wikipedia.org/wiki/似鳥康太 "wikilink")                 | 2009 - 2014 | [ファジアーノ岡山](../Page/ファジアーノ岡山FC.md "wikilink")                        | いわきFC                                                           |
+| 4  | [草野侑己](https://ja.wikipedia.org/wiki/草野侑己 "wikilink")                 | 2009 - 2014 | [阪南大学](https://ja.wikipedia.org/wiki/阪南大学 "wikilink")               | [横浜FC](../Page/横浜FC.md "wikilink")                              |
+| 4  | [吉永大志](https://ja.wikipedia.org/wiki/吉永大志 "wikilink")                 | 2009 - 2011 | [前橋育英高校](https://ja.wikipedia.org/wiki/前橋育英高校 "wikilink")           | [福島ユナイテッドFC](../Page/福島ユナイテッドFC.md "wikilink")                  |
+| 5  | [オビ・パウエル・オビンナ](https://ja.wikipedia.org/wiki/オビ・パウエル・オビンナ "wikilink") | 2010 - 2015 | [流通経済大学](https://ja.wikipedia.org/wiki/流通経済大学サッカー部 "wikilink")      | [栃木SC](../Page/栃木SC.md "wikilink")                              |
+| 6  | [下口稚葉](https://ja.wikipedia.org/wiki/下口稚葉 "wikilink")                 | 2011 - 2016 | ファジアーノ岡山                                                            | ファジアーノ岡山                                                        |
+| 9  | [植中朝日](../Page/植中朝日.md "wikilink")                                    | 2014 - 2019 | [V・ファーレン長崎](https://ja.wikipedia.org/wiki/V・ファーレン長崎 "wikilink")     | V・ファーレン長崎                                                       |
+| 9  | [加藤聖](../Page/加藤聖_\(サッカー選手\).md "wikilink")                           | 2014 - 2019 | V・ファーレン長崎                                                           | V・ファーレン長崎                                                       |
+| 9  | [廣岡睦樹](../Page/廣岡睦樹.md "wikilink")                                    | 2014 - 2019 | [モンテディオ山形](https://ja.wikipedia.org/wiki/モンテディオ山形 "wikilink")       | モンテディオ山形                                                        |
+| 9  | [鎌田大夢](../Page/鎌田大夢.md "wikilink")                                    | 2014 - 2016 | [昌平高校](https://ja.wikipedia.org/wiki/昌平中学校・高等学校 "wikilink")         | [福島ユナイテッドFC](../Page/福島ユナイテッドFC.md "wikilink")                  |
 
-<table>
-<thead>
-<tr class="header">
-<th><p>期生</p></th>
-<th><p>名前</p></th>
-<th></th>
-<th><p>{{Abbr|卒業</p></th>
-<th><p>卒業年度}}</p></th>
-<th><p>卒業後進路</p></th>
-<th><p>現所属</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><center>
-<p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/幸野志有人" title="wikilink">幸野志有人</a></p></td>
-<td><p>2006</p></td>
-<td><p>2010</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FC東京" title="wikilink">FC東京</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/V・ファーレン長崎" title="wikilink">V・ファーレン長崎</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/呉大陸" title="wikilink">呉大陸</a></p></td>
-<td><p>2006</p></td>
-<td><p>2011</p></td>
-<td><p><a href="../Page/ファジアーノ岡山FC.md" title="wikilink">ファジアーノ岡山</a></p></td>
-<td><p>未定</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三幸秀稔" title="wikilink">三幸秀稔</a></p></td>
-<td><p>2006</p></td>
-<td><p>2011</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴァンフォーレ甲府" title="wikilink">ヴァンフォーレ甲府</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/湘南ベルマーレ" title="wikilink">湘南ベルマーレ</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金城クリストファー達樹" title="wikilink">金城クリストファー達樹</a></p></td>
-<td><p>2006</p></td>
-<td><p>2011</p></td>
-<td><p><a href="../Page/フォルトゥナ・デュッセルドルフ.md" title="wikilink">フォルトゥナ・デュッセルドルフ</a>U-19</p></td>
-<td><p>現役引退</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/遠藤翼" title="wikilink">遠藤翼</a></p></td>
-<td><p>2006</p></td>
-<td><p>2011</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/メリーランド大学" title="wikilink">メリーランド大学</a></p></td>
-<td><p><a href="../Page/トロントFC.md" title="wikilink">トロントFC</a>[6]</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松本昌也" title="wikilink">松本昌也</a></p></td>
-<td><p>2007</p></td>
-<td><p>2012</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大分トリニータ" title="wikilink">大分トリニータ</a></p></td>
-<td><p><a href="../Page/ジュビロ磐田.md" title="wikilink">ジュビロ磐田</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/幡野貴紀" title="wikilink">幡野貴紀</a></p></td>
-<td><p>2007</p></td>
-<td><p>2012</p></td>
-<td><p><a href="../Page/ファジアーノ岡山FC.md" title="wikilink">ファジアーノ岡山</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブリオベッカ浦安" title="wikilink">ブリオベッカ浦安</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/平澤俊輔" title="wikilink">平澤俊輔</a></p></td>
-<td><p>2007</p></td>
-<td><p>2012</p></td>
-<td><p><a href="../Page/早稲田大学ア式蹴球部.md" title="wikilink">早稲田大学</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/いわきFC" title="wikilink">いわきFC</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金子翔太" title="wikilink">金子翔太</a></p></td>
-<td><p>2008</p></td>
-<td><p>2013</p></td>
-<td><p><a href="../Page/清水エスパルス.md" title="wikilink">清水エスパルス</a></p></td>
-<td><p><a href="../Page/清水エスパルス.md" title="wikilink">清水エスパルス</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/安東輝" title="wikilink">安東輝</a></p></td>
-<td><p>2008</p></td>
-<td><p>2013</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/湘南ベルマーレ" title="wikilink">湘南ベルマーレ</a></p></td>
-<td><p><a href="../Page/水戸ホーリーホック.md" title="wikilink">水戸ホーリーホック</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/平岡将豪" title="wikilink">平岡将豪</a></p></td>
-<td><p>2008</p></td>
-<td><p>2013</p></td>
-<td><p><a href="../Page/AC長野パルセイロ.md" title="wikilink">AC長野パルセイロ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/いわきFC" title="wikilink">いわきFC</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小池龍太" title="wikilink">小池龍太</a></p></td>
-<td><p>2008</p></td>
-<td><p>2013</p></td>
-<td><p><a href="../Page/レノファ山口FC.md" title="wikilink">レノファ山口FC</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/横浜F・マリノス" title="wikilink">横浜F・マリノス</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/木下諒" title="wikilink">木下諒</a></p></td>
-<td><p>2008</p></td>
-<td><p>2013</p></td>
-<td><p>早稲田大学</p></td>
-<td><p>現役引退</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/似鳥康太" title="wikilink">似鳥康太</a></p></td>
-<td><p>2009</p></td>
-<td><p>2014</p></td>
-<td><p><a href="../Page/ファジアーノ岡山FC.md" title="wikilink">ファジアーノ岡山</a></p></td>
-<td><p>いわきFC</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金城ジャスティン俊樹" title="wikilink">金城ジャスティン俊樹</a></p></td>
-<td><p>2009</p></td>
-<td><p>2014</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1860ミュンヘン" title="wikilink">1860ミュンヘン</a>U-19</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ザスパクサツ群馬" title="wikilink">ザスパクサツ群馬</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オビ・パウエル・オビンナ" title="wikilink">オビ・パウエル・オビンナ</a></p></td>
-<td><p>2010</p></td>
-<td><p>2015</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/流通経済大学サッカー部" title="wikilink">流通経済大学</a></p></td>
-<td><p><a href="../Page/栃木SC.md" title="wikilink">栃木SC</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>6</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/下口稚葉" title="wikilink">下口稚葉</a></p></td>
-<td><p>2011</p></td>
-<td><p>2016</p></td>
-<td><p>ファジアーノ岡山</p></td>
-<td><p>ファジアーノ岡山</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>9</p></td>
-<td><p><a href="../Page/植中朝日.md" title="wikilink">植中朝日</a></p></td>
-<td><p>2014</p></td>
-<td><p>2019</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/V・ファーレン長崎" title="wikilink">V・ファーレン長崎</a></p></td>
-<td><p>V・ファーレン長崎</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>9</p></td>
-<td><p><a href="../Page/加藤聖_(サッカー選手).md" title="wikilink">加藤聖</a></p></td>
-<td><p>2014</p></td>
-<td><p>2019</p></td>
-<td><p>V・ファーレン長崎</p></td>
-<td><p>V・ファーレン長崎</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>9</p></td>
-<td><p><a href="../Page/廣岡睦樹.md" title="wikilink">廣岡睦樹</a></p></td>
-<td><p>2014</p></td>
-<td><p>2019</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モンテディオ山形" title="wikilink">モンテディオ山形</a></p></td>
-<td><p>モンテディオ山形</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>9</p></td>
-<td><p><a href="../Page/鎌田大夢.md" title="wikilink">鎌田大夢</a></p></td>
-<td><p>2014</p></td>
-<td><p>2016</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/昌平中学校・高等学校" title="wikilink">昌平高校</a></p></td>
-<td><p><a href="../Page/福島ユナイテッドFC.md" title="wikilink">福島ユナイテッドFC</a></p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+男子
 
-### 女子
+| 期生 | 名前                                                               | 在籍年              | 卒業後進路                                                                     | 現所属                                                                     |
+| -- | ---------------------------------------------------------------- | ---------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 1  | [山根恵里奈](https://ja.wikipedia.org/wiki/山根恵里奈 "wikilink")          | 2006 - 2008      | [TEPCOマリーゼ](https://ja.wikipedia.org/wiki/東京電力女子サッカー部マリーゼ "wikilink")     | [レアル・ベティス](../Page/レアル・ベティス.md "wikilink")・バロンピエ・フェミナス                  |
+| 1  | [菅澤優衣香](https://ja.wikipedia.org/wiki/菅澤優衣香 "wikilink")          | 2006 - 2008      | [アルビレックス新潟レディース](https://ja.wikipedia.org/wiki/アルビレックス新潟レディース "wikilink") | [浦和レッズレディース](../Page/浦和レッドダイヤモンズ・レディース.md "wikilink")                   |
+| 1  | [亀岡夏美](https://ja.wikipedia.org/wiki/亀岡夏美 "wikilink")            | 2006 - 2008      | TEPCOマリーゼ                                                                 | 未定                                                                      |
+| 1  | [山名真妃](https://ja.wikipedia.org/wiki/山名真妃 "wikilink")            | 2006 - 2009      | [日本体育大学](https://ja.wikipedia.org/wiki/日本体育大学女子サッカー部 "wikilink")          | 引退                                                                      |
+| 1  | [石原愛海](https://ja.wikipedia.org/wiki/石原愛海 "wikilink")            | 2006 - 2009      | [慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")                 | [ニッパツ横浜FCシーガルズ](https://ja.wikipedia.org/wiki/横浜FCシーガルズ "wikilink")     |
+| 1  | [浜田遥](https://ja.wikipedia.org/wiki/浜田遥 "wikilink")              | 2006 - 2010      | TEPCOマリーゼ                                                                 | [マイナビベガルタ仙台レディース](https://ja.wikipedia.org/wiki/ベガルタ仙台レディース "wikilink") |
+| 1  | [中村沙樹](https://ja.wikipedia.org/wiki/中村沙樹 "wikilink")            | 2006 - 2010      | [スペランツァFC大阪高槻](https://ja.wikipedia.org/wiki/スペランツァFC大阪高槻 "wikilink")     |                                                                         |
+| 1  | [田中陽子](https://ja.wikipedia.org/wiki/田中陽子_\(サッカー選手\) "wikilink") | 2006 - 2011      | [INAC神戸レオネッサ](https://ja.wikipedia.org/wiki/INAC神戸レオネッサ "wikilink")       | [ノジマステラ神奈川相模原](https://ja.wikipedia.org/wiki/ノジマステラ神奈川相模原 "wikilink")   |
+| 1  | [川島はるな](https://ja.wikipedia.org/wiki/川島はるな "wikilink")          | 2006 - 2011      | ベガルタ仙台レディース                                                               | ノジマステラ神奈川相模原                                                            |
+| 1  | [和田奈央子](https://ja.wikipedia.org/wiki/和田奈央子 "wikilink")          | 2006 - 2011      | [浦和レッズレディース](../Page/浦和レッドダイヤモンズ・レディース.md "wikilink")                     | ノジマステラ神奈川相模原                                                            |
+| 1  | [若林美里](https://ja.wikipedia.org/wiki/若林美里 "wikilink")            | 2006 - 2011      | アルビレックス新潟レディース                                                            | [ジェフ千葉レディース](../Page/ジェフユナイテッド市原・千葉レディース.md "wikilink")                 |
+| 1  | [吉見夏稀](https://ja.wikipedia.org/wiki/吉見夏稀 "wikilink")            | 2006 - 2011      | [ノジマステラ神奈川](https://ja.wikipedia.org/wiki/ノジマステラ神奈川相模原 "wikilink")        | ノジマステラ神奈川相模原                                                            |
+| 1  | [本多由佳](https://ja.wikipedia.org/wiki/本多由佳 "wikilink")            | 2006 - 2011      | [大阪体育大学](../Page/大阪体育大学.md "wikilink")                                    | [ASハリマ アルビオン](https://ja.wikipedia.org/wiki/ASハリマ_アルビオン "wikilink")     |
+| 1  | [浦田佳穂](https://ja.wikipedia.org/wiki/浦田佳穂 "wikilink")            | 2006 - 2011      | [順天堂大学](https://ja.wikipedia.org/wiki/順天堂大学 "wikilink")                   | ニッパツ横浜FCシーガルズ                                                           |
+| 2  | [成宮唯](https://ja.wikipedia.org/wiki/成宮唯 "wikilink")              | 2007 - 2012      | ベガルタ仙台レディース                                                               | ジェフ千葉レディース                                                              |
+| 2  | [吉武愛美](https://ja.wikipedia.org/wiki/吉武愛美 "wikilink")            | 2007 - 2012      | [FC吉備国際大学Charme](https://ja.wikipedia.org/wiki/FC吉備国際大学Charme "wikilink") | ASハリマ アルビオン                                                             |
+| 2  | [須永愛海](https://ja.wikipedia.org/wiki/須永愛海 "wikilink")            | 2007 - 2012      | [仙台大学](../Page/仙台大学.md "wikilink")                                        | ASハリマ アルビオン                                                             |
+| 3  | [三宅史織](https://ja.wikipedia.org/wiki/三宅史織 "wikilink")            | 2008 - 2013      | INAC神戸レオネッサ                                                               | INAC神戸レオネッサ                                                             |
+| 3  | [増矢理花](https://ja.wikipedia.org/wiki/増矢理花 "wikilink")            | 2008 - 2013      | INAC神戸レオネッサ                                                               | INAC神戸レオネッサ                                                             |
+| 3  | [乗松瑠華](https://ja.wikipedia.org/wiki/乗松瑠華 "wikilink")            | 2008 - 2013      | 浦和レッズレディース                                                                | 浦和レッズレディース                                                              |
+| 3  | [井上ねね](https://ja.wikipedia.org/wiki/井上ねね "wikilink")            | 2008 - 2013      | [日体大FIELDS横浜](https://ja.wikipedia.org/wiki/日本体育大学女子サッカー部 "wikilink")     | 日体大FIELDS横浜                                                             |
+| 4  | [小島美玖](https://ja.wikipedia.org/wiki/小島美玖 "wikilink")            | 2009 - 2014      | アルビレックス新潟レディース                                                            | アルビレックス新潟レディース                                                          |
+| 4  | [平尾知佳](https://ja.wikipedia.org/wiki/平尾知佳 "wikilink")            | 2009 - 2014      | 浦和レッズレディース                                                                | アルビレックス新潟レディース                                                          |
+| 4  | [守屋都弥](https://ja.wikipedia.org/wiki/守屋都弥 "wikilink")            | 2009 - 2014      | INAC神戸レオネッサ                                                               | INAC神戸レオネッサ                                                             |
+| 4  | [鳴海若菜](https://ja.wikipedia.org/wiki/鳴海若菜 "wikilink")            | 2009 - 2014      | [ノルディーア北海道](https://ja.wikipedia.org/wiki/ノルディーア北海道 "wikilink")           | 群馬FCホワイトスター                                                             |
+| 5  | [北川ひかる](https://ja.wikipedia.org/wiki/北川ひかる "wikilink")          | 2010 - 2015      | 浦和レッズレディース                                                                | 浦和レッズレディース                                                              |
+| 5  | [浅野菜摘](https://ja.wikipedia.org/wiki/浅野菜摘 "wikilink")            | 2010 - 2015      | [ASエルフェン埼玉](https://ja.wikipedia.org/wiki/ASエルフェン埼玉 "wikilink")           | ちふれASエルフェン埼玉                                                            |
+| 5  | [橋沼真帆](https://ja.wikipedia.org/wiki/橋沼真帆 "wikilink")            | 2010 - 2015      | ASエルフェン埼玉                                                                 | ちふれASエルフェン埼玉                                                            |
+| 6  | [スタンボー華](https://ja.wikipedia.org/wiki/スタンボー華 "wikilink")        | 2011 - 2016      | INAC神戸レオネッサ                                                               | INAC神戸レオネッサ                                                             |
+| 6  | [大熊良奈](https://ja.wikipedia.org/wiki/大熊良奈 "wikilink")            | 2011 - 2016      | 浦和レッズレディース                                                                | 浦和レッズレディース                                                              |
+| 7  | [高平美憂](https://ja.wikipedia.org/wiki/高平美憂 "wikilink")            | 2012 - 2017      | マイナビベガルタ仙台レディース                                                           | マイナビベガルタ仙台レディース                                                         |
+| 7  | [代居鈴香](https://ja.wikipedia.org/wiki/代居鈴香 "wikilink")            | 2015 - 2017\[7\] | コノミヤ・スペランツァ大阪高槻                                                           | コノミヤ・スペランツァ大阪高槻                                                         |
 
-<table>
-<thead>
-<tr class="header">
-<th><p>期生</p></th>
-<th><p>名前</p></th>
-<th><p>在籍年</p></th>
-<th><p>卒業後進路</p></th>
-<th><p>現所属</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><center>
-<p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山根恵里奈" title="wikilink">山根恵里奈</a></p></td>
-<td><p>2006-2008</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京電力女子サッカー部マリーゼ" title="wikilink">TEPCOマリーゼ</a></p></td>
-<td><p><a href="../Page/レアル・ベティス.md" title="wikilink">レアル・ベティス</a>・バロンピエ・フェミナス</p></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/菅澤優衣香" title="wikilink">菅澤優衣香</a></p></td>
-<td><p>2006-2008</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アルビレックス新潟レディース" title="wikilink">アルビレックス新潟レディース</a></p></td>
-<td><p><a href="../Page/浦和レッドダイヤモンズ・レディース.md" title="wikilink">浦和レッズレディース</a></p></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/亀岡夏美" title="wikilink">亀岡夏美</a></p></td>
-<td><p>2006-2008</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京電力女子サッカー部マリーゼ" title="wikilink">TEPCOマリーゼ</a></p></td>
-<td><p>未定</p></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山名真妃" title="wikilink">山名真妃</a></p></td>
-<td><p>2006-2009</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本体育大学女子サッカー部" title="wikilink">日本体育大学</a></p></td>
-<td><p>引退</p></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石原愛海" title="wikilink">石原愛海</a></p></td>
-<td><p>2006-2009</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/慶應義塾大学" title="wikilink">慶應義塾大学</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/横浜FCシーガルズ" title="wikilink">ニッパツ横浜FCシーガルズ</a></p></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浜田遥" title="wikilink">浜田遥</a></p></td>
-<td><p>2006-2010</p></td>
-<td><p>TEPCOマリーゼ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベガルタ仙台レディース" title="wikilink">マイナビベガルタ仙台レディース</a></p></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中村沙樹" title="wikilink">中村沙樹</a></p></td>
-<td><p>2006-2010</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スペランツァFC大阪高槻" title="wikilink">スペランツァFC大阪高槻</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田中陽子_(サッカー選手)" title="wikilink">田中陽子</a></p></td>
-<td><p>2006-2011</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/INAC神戸レオネッサ" title="wikilink">INAC神戸レオネッサ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ノジマステラ神奈川相模原" title="wikilink">ノジマステラ神奈川相模原</a></p></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川島はるな" title="wikilink">川島はるな</a></p></td>
-<td><p>2006-2011</p></td>
-<td><p>ベガルタ仙台レディース</p></td>
-<td><p>ノジマステラ神奈川相模原</p></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/和田奈央子" title="wikilink">和田奈央子</a></p></td>
-<td><p>2006-2011</p></td>
-<td><p><a href="../Page/浦和レッドダイヤモンズ・レディース.md" title="wikilink">浦和レッズレディース</a></p></td>
-<td><p>ノジマステラ神奈川相模原</p></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/若林美里" title="wikilink">若林美里</a></p></td>
-<td><p>2006-2011</p></td>
-<td><p>アルビレックス新潟レディース</p></td>
-<td><p><a href="../Page/ジェフユナイテッド市原・千葉レディース.md" title="wikilink">ジェフ千葉レディース</a></p></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉見夏稀" title="wikilink">吉見夏稀</a></p></td>
-<td><p>2006-2011</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ノジマステラ神奈川相模原" title="wikilink">ノジマステラ神奈川</a></p></td>
-<td><p>ノジマステラ神奈川相模原</p></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/本多由佳" title="wikilink">本多由佳</a></p></td>
-<td><p>2006-2011</p></td>
-<td><p><a href="../Page/大阪体育大学.md" title="wikilink">大阪体育大学</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ASハリマ_アルビオン" title="wikilink">ASハリマ アルビオン</a></p></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浦田佳穂" title="wikilink">浦田佳穂</a></p></td>
-<td><p>2006-2011</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/順天堂大学" title="wikilink">順天堂大学</a></p></td>
-<td><p>ニッパツ横浜FCシーガルズ</p></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/成宮唯" title="wikilink">成宮唯</a></p></td>
-<td><p>2007-2012</p></td>
-<td><p>ベガルタ仙台レディース</p></td>
-<td><p>ジェフ千葉レディース</p></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉武愛美" title="wikilink">吉武愛美</a></p></td>
-<td><p>2007-2012</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FC吉備国際大学Charme" title="wikilink">FC吉備国際大学Charme</a></p></td>
-<td><p>ASハリマ アルビオン</p></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/須永愛海" title="wikilink">須永愛海</a></p></td>
-<td><p>2007-2012</p></td>
-<td><p><a href="../Page/仙台大学.md" title="wikilink">仙台大学</a></p></td>
-<td><p>ASハリマ アルビオン</p></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三宅史織" title="wikilink">三宅史織</a></p></td>
-<td><p>2008-2013</p></td>
-<td><p>INAC神戸レオネッサ</p></td>
-<td><p>INAC神戸レオネッサ</p></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/増矢理花" title="wikilink">増矢理花</a></p></td>
-<td><p>2008-2013</p></td>
-<td><p>INAC神戸レオネッサ</p></td>
-<td><p>INAC神戸レオネッサ</p></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/乗松瑠華" title="wikilink">乗松瑠華</a></p></td>
-<td><p>2008-2013</p></td>
-<td><p>浦和レッズレディース</p></td>
-<td><p>浦和レッズレディース</p></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/井上ねね" title="wikilink">井上ねね</a></p></td>
-<td><p>2008-2013</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本体育大学女子サッカー部" title="wikilink">日体大FIELDS横浜</a></p></td>
-<td><p>日体大FIELDS横浜</p></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小島美玖" title="wikilink">小島美玖</a></p></td>
-<td><p>2009-2014</p></td>
-<td><p>アルビレックス新潟レディース</p></td>
-<td><p>アルビレックス新潟レディース</p></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/平尾知佳" title="wikilink">平尾知佳</a></p></td>
-<td><p>2009-2014</p></td>
-<td><p>浦和レッズレディース</p></td>
-<td><p>アルビレックス新潟レディース</p></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/守屋都弥" title="wikilink">守屋都弥</a></p></td>
-<td><p>2009-2014</p></td>
-<td><p>INAC神戸レオネッサ</p></td>
-<td><p>INAC神戸レオネッサ</p></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鳴海若菜" title="wikilink">鳴海若菜</a></p></td>
-<td><p>2009-2014</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ノルディーア北海道" title="wikilink">ノルディーア北海道</a></p></td>
-<td><p>群馬FCホワイトスター</p></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北川ひかる" title="wikilink">北川ひかる</a></p></td>
-<td><p>2010-2015</p></td>
-<td><p>浦和レッズレディース</p></td>
-<td><p>浦和レッズレディース</p></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浅野菜摘" title="wikilink">浅野菜摘</a></p></td>
-<td><p>2010-2015</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ASエルフェン埼玉" title="wikilink">ASエルフェン埼玉</a></p></td>
-<td><p>ちふれASエルフェン埼玉</p></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/橋沼真帆" title="wikilink">橋沼真帆</a></p></td>
-<td><p>2010-2015</p></td>
-<td><p>ASエルフェン埼玉</p></td>
-<td><p>ちふれASエルフェン埼玉</p></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>6</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スタンボー華" title="wikilink">スタンボー華</a></p></td>
-<td><p>2011-2016</p></td>
-<td><p>INAC神戸レオネッサ</p></td>
-<td><p>INAC神戸レオネッサ</p></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>6</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大熊良奈" title="wikilink">大熊良奈</a></p></td>
-<td><p>2011-2016</p></td>
-<td><p>浦和レッズレディース</p></td>
-<td><p>浦和レッズレディース</p></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>7</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高平美憂" title="wikilink">高平美憂</a></p></td>
-<td><p>2012-2017</p></td>
-<td><p>マイナビベガルタ仙台レディース</p></td>
-<td><p>マイナビベガルタ仙台レディース</p></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>7</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/代居鈴香" title="wikilink">代居鈴香</a></p></td>
-<td><p>2015-2017[7]</p></td>
-<td><p>コノミヤ・スペランツァ大阪高槻</p></td>
-<td><p>コノミヤ・スペランツァ大阪高槻</p></td>
-</tr>
-</tbody>
-</table>
+女子
 
 ## 脚注
 
@@ -695,8 +261,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 
 ## 外部リンク
 
-  - [JFAアカデミー福島](http://fukushima.jfa-academy.jp/)
-
+  -
 [Category:日本サッカー協会](https://ja.wikipedia.org/wiki/Category:日本サッカー協会 "wikilink") [Category:日本のサッカーアカデミー](https://ja.wikipedia.org/wiki/Category:日本のサッカーアカデミー "wikilink") [Category:福島県のサッカー](https://ja.wikipedia.org/wiki/Category:福島県のサッカー "wikilink") [Category:富岡町](https://ja.wikipedia.org/wiki/Category:富岡町 "wikilink") [Category:楢葉町](https://ja.wikipedia.org/wiki/Category:楢葉町 "wikilink") [Category:広野町](https://ja.wikipedia.org/wiki/Category:広野町 "wikilink") [Category:2006年開設のスポーツ施設](https://ja.wikipedia.org/wiki/Category:2006年開設のスポーツ施設 "wikilink")
 
 1.

@@ -1,7 +1,7 @@
 > この記事は[グローランサーII](https://ja.wikipedia.org/wiki/グローランサーII)から翻訳されています。
 
 
-『**グローランサーII**』（GROW LANSER II -The sense of justice-）は、[アトラスから](../Page/アトラス_\(ゲーム会社\).md "wikilink")[2001年](../Page/2001年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")に発売された[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。Best版は[2002年](../Page/2002年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")に発売。
+『**グローランサーII**』（GROW LANSER II -The sense of justice-）は、[アトラスから](../Page/アトラス_\(ゲーム会社\).md "wikilink")[2001年](../Page/2001年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")に発売された[PlayStation 2用ゲームソフト](../Page/PlayStation_2.md "wikilink")。Best版は[2002年](../Page/2002年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")に発売。
 
 ## 概要
 

@@ -19,7 +19,7 @@
 
 ## Gift -prism-
 
-PC版『Gift 〜ギフト〜』の[PlayStation 2移植版で](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、2006年10月19日に[ブロッコリーのゲームブランドSweetsから発売された](../Page/ブロッコリー_\(企業\).md "wikilink")。PC版ではMOONSTONEの単独著作権だったものが、このPS2移植版ではMOONSTONE・CIRCUS・ブロッコリーの3社表記になっている。
+PC版『Gift 〜ギフト〜』の[PlayStation 2移植版で](../Page/PlayStation_2.md "wikilink")、2006年10月19日に[ブロッコリーのゲームブランドSweetsから発売された](../Page/ブロッコリー_\(企業\).md "wikilink")。PC版ではMOONSTONEの単独著作権だったものが、このPS2移植版ではMOONSTONE・CIRCUS・ブロッコリーの3社表記になっている。
 
 PC版ではヒロインの人数は5人だったが、このPS2版では3人追加され8人になった。また、サブキャラクターも何人か追加された。
 

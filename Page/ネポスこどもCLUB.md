@@ -24,7 +24,7 @@
   - ラズー（[坂本千夏](../Page/坂本千夏.md "wikilink")）
   - リモ（[かないみか](../Page/かないみか.md "wikilink")）
   - ナップル（[泉久実子](../Page/泉久実子.md "wikilink")）
-  - ポポック（[田中結子](https://ja.wikipedia.org/wiki/田中結子 "wikilink")）
+  - ポポック（[田中結子](https://ja.wikipedia.org/wiki/たなかゆうこ "wikilink")）
   - ティモ（[柿原徹也](https://ja.wikipedia.org/wiki/柿原徹也 "wikilink")）
   - ドントス（[岩田光央](../Page/岩田光央.md "wikilink")）
   - パーヤ（[岩尾万太郎](../Page/岩尾万太郎.md "wikilink")）

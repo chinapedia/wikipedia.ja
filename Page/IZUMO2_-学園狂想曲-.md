@@ -3,7 +3,7 @@
 
 『**IZUMO2 -学園狂想曲-**』（イズモ2 がくえんきょうそうきょく）は[Studio e.go\!のアダルトゲーム](../Page/Studio_e.go!.md "wikilink")『[IZUMO2](https://ja.wikipedia.org/wiki/IZUMO2 "wikilink")』の正統な続編であるが、前作のどのエンディングからもつながっていない。前作から間もない時間帯でのストーリー。Studio e.go\!ではお馴染みの原画家[山本和枝](../Page/山本和枝.md "wikilink")によってキャラのデザインは一新され、新キャラクターなども登場する。
 
-[GN Softwareによる](../Page/GN_Software.md "wikilink")[PlayStation 2の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[コンシューマーゲーム](../Page/コンシューマーゲーム.md "wikilink")への移植が2008年1月31日に『**IZUMO2 -学園狂想曲- ダブルタクト**』のタイトルで発売された（[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")12才以上対象）。
+[GN Softwareによる](../Page/GN_Software.md "wikilink")[PlayStation 2の](../Page/PlayStation_2.md "wikilink")[コンシューマーゲーム](../Page/コンシューマーゲーム.md "wikilink")への移植が2008年1月31日に『**IZUMO2 -学園狂想曲- ダブルタクト**』のタイトルで発売された（[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")12才以上対象）。
 
 ## ストーリー
 

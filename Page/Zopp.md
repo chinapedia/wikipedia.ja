@@ -1,7 +1,7 @@
 > この記事は[Zopp](https://ja.wikipedia.org/wiki/Zopp)から翻訳されています。
 
 
-**zopp**（ゾップ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[2月29日](../Page/2月29日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[作詞家](../Page/作詞家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。[ザザ所属](https://ja.wikipedia.org/wiki/ザザ_\(企業\) "wikilink")。[血液型はO型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")\[2\]。代表作に[修二と彰](../Page/修二と彰.md "wikilink")「[青春アミーゴ](../Page/青春アミーゴ.md "wikilink")」、[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")「[抱いてセニョリータ](../Page/抱いてセニョリータ.md "wikilink")」がある\[3\]。
+**zopp**（ゾップ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[2月29日](../Page/2月29日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[作詞家](../Page/作詞家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。[ザザ所属](https://ja.wikipedia.org/wiki/ザザ_\(企業\) "wikilink")。[血液型はO型](../Page/ABO式血液型.md "wikilink")\[2\]。代表作に[修二と彰](../Page/修二と彰.md "wikilink")「[青春アミーゴ](../Page/青春アミーゴ.md "wikilink")」、[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")「[抱いてセニョリータ](../Page/抱いてセニョリータ.md "wikilink")」がある\[3\]。
 
 ## 略歴
 
@@ -104,7 +104,7 @@
       - [タイムマシン](https://ja.wikipedia.org/wiki/テゴマスの青春 "wikilink")（2014年）
   - [Hey\! Say\! JUMP](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")
       - [OVER](https://ja.wikipedia.org/wiki/OVER_\(Hey!_Say!_JUMPの曲\) "wikilink")（2011年）
-  - [髙木雄也](https://ja.wikipedia.org/wiki/髙木雄也 "wikilink")
+  - [髙木雄也](../Page/髙木雄也.md "wikilink")
       - [題名の無い物語](https://ja.wikipedia.org/wiki/SENSE_or_LOVE "wikilink")
   - [SMAP](../Page/SMAP.md "wikilink")
       - [Cry for the Smile](https://ja.wikipedia.org/wiki/We_are_SMAP! "wikilink")（2010年）
@@ -255,6 +255,8 @@
       - 私には夢がある（2019年）
   - [つぼみ大革命](https://ja.wikipedia.org/wiki/つぼみ大革命 "wikilink")
       - 走り出せ希望（2019年）
+  - [風男塾](https://ja.wikipedia.org/wiki/風男塾 "wikilink")
+      - [DDD](https://ja.wikipedia.org/wiki/笑う門に明日は来る "wikilink")（2020年）
 
 ### 男性アイドル・アーティスト
 

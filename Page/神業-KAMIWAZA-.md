@@ -1,7 +1,7 @@
 > この記事は[神業-KAMIWAZA-](https://ja.wikipedia.org/wiki/神業-KAMIWAZA-)から翻訳されています。
 
 
-『**神業－KAMIWAZA－**』（かみわざ）は[2006年](../Page/2006年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")に[アクワイアより発売の](../Page/アクワイア_\(ゲーム会社\).md "wikilink")[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+『**神業－KAMIWAZA－**』（かみわざ）は[2006年](../Page/2006年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")に[アクワイアより発売の](../Page/アクワイア_\(ゲーム会社\).md "wikilink")[PlayStation 2用ゲームソフト](../Page/PlayStation_2.md "wikilink")。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月19日](../Page/3月19日.md "wikilink")にベスト版（ACQUIRE THE BEST）が発売。
 

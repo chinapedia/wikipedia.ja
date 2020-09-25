@@ -1,7 +1,7 @@
 > この記事は[グローランサーIII](https://ja.wikipedia.org/wiki/グローランサーIII)から翻訳されています。
 
 
-『**グローランサーIII**』 (GROW LANSER III -The dual darkness-) は、[2001年](../Page/2001年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")に[アトラスから発売された](../Page/アトラス_\(ゲーム会社\).md "wikilink")[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") (PS2) 用ゲームソフト。Best版は[2003年](../Page/2003年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")に新作『[グローランサーIV](../Page/グローランサーIV.md "wikilink")』と同時発売された。
+『**グローランサーIII**』 (GROW LANSER III -The dual darkness-) は、[2001年](../Page/2001年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")に[アトラスから発売された](../Page/アトラス_\(ゲーム会社\).md "wikilink")[PlayStation 2](../Page/PlayStation_2.md "wikilink") (PS2) 用ゲームソフト。Best版は[2003年](../Page/2003年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")に新作『[グローランサーIV](../Page/グローランサーIV.md "wikilink")』と同時発売された。
 
 ## 概要
 

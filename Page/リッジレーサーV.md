@@ -1,7 +1,7 @@
 > この記事は[リッジレーサーV](https://ja.wikipedia.org/wiki/リッジレーサーV)から翻訳されています。
 
 
-『**リッジレーサーV**』（リッジレーサーファイブ、*RIDGE RACER V*）とは、[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")（後の[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")）から発売された[レースゲーム](../Page/レースゲーム.md "wikilink")。単に『**リッジV**』とも\[1\]、『**RRV**』とも\[2\]。
+『**リッジレーサーV**』（リッジレーサーファイブ、*RIDGE RACER V*）とは、[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")（後の[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")）から発売された[レースゲーム](../Page/レースゲーム.md "wikilink")。単に『**リッジV**』\[1\]、『**RRV**』とも\[2\]。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 時間に応じてさまざまな雰囲気の変化を見せる背景のリッジシティを舞台に、昼夜を問わないバトルが繰り広げられる設定となっている。
 
-[PlayStation 2の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ローンチタイトル](../Page/ローンチタイトル.md "wikilink")として発売され、シリーズで初めて60[fps](https://ja.wikipedia.org/wiki/fps "wikilink")で描写されるようになった。『リッジレーサーシリーズ』は[プレイステーションでは計](../Page/PlayStation_\(ゲーム機\).md "wikilink")4作発売されたが、PS2で発売されたタイトルは本作のみである\[3\]。
+[PlayStation 2の](../Page/PlayStation_2.md "wikilink")[ローンチタイトル](../Page/ローンチタイトル.md "wikilink")として発売され、シリーズで初めて60[fps](https://ja.wikipedia.org/wiki/fps "wikilink")で描写されるようになった。『リッジレーサーシリーズ』は[プレイステーションでは計](../Page/PlayStation_\(ゲーム機\).md "wikilink")4作発売されたが、PS2で発売されたタイトルは本作のみである\[3\]。
 
 『[R4 -RIDGE RACER TYPE 4-](../Page/R4_-RIDGE_RACER_TYPE_4-.md "wikilink")』と同様コンティニュー回数に制限がある（3回まで。例外もある）。また難易度ではHARDはリッジレーサーシリーズの中でも高めであり、ゲーム開始時に選択するEASY・NORMAL・HARDの難易度は途中からの変更はできない。
 
@@ -445,7 +445,7 @@
 
 [Category:2000年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2000年のコンピュータゲーム "wikilink") [Category:2000年のファミ通クロスレビュープラチナ殿堂入りソフト](https://ja.wikipedia.org/wiki/Category:2000年のファミ通クロスレビュープラチナ殿堂入りソフト "wikilink") [Category:大型筐体ゲーム](https://ja.wikipedia.org/wiki/Category:大型筐体ゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:リッジレーサー](https://ja.wikipedia.org/wiki/Category:リッジレーサー "wikilink")
 
-1.  \[<http://bandainamcoent.co.jp/cs/list/ridgeracer-v/essay/page01-02.html>　リッジレーサーV公式サイト・リレーエッセイ第1回2p\]
+1.  [リッジレーサーV公式サイト・リレーエッセイ第1回2p](http://bandainamcoent.co.jp/cs/list/ridgeracer-v/essay/page01-02.html)
 2.  \[<http://bandainamcoent.co.jp/cs/list/ridgeracer-v/essay/page01-03.html>　リッジレーサーV公式サイト・リレーエッセイ第1回3p\]
 3.  ただし派生タイトルとしては『[R:RACING EVOLUTION](https://ja.wikipedia.org/wiki/R:RACING_EVOLUTION "wikilink")』が発売されている。
 4.

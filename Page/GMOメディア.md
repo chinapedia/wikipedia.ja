@@ -90,7 +90,7 @@ AutoPage（オートページ）はteacup.の[ブログ](../Page/ブログ.md "w
 
 **ヤプログ！**（**yaplog\!**）は、GMOメディアが運営していたレンタル[ブログ](../Page/ブログ.md "wikilink")サービス。ネット初心者の女性ユーザを主たるターゲットにしており、[GUI](https://ja.wikipedia.org/wiki/GUI "wikilink")を用いて視覚的で簡便な操作性を意識して構築されているのが特徴である。
 
-500種類以上のスキン（ブログ[テンプレート](../Page/テンプレート.md "wikilink")）があり、[パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")、[携帯](https://ja.wikipedia.org/wiki/携帯 "wikilink")、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")に対応。[HTML](https://ja.wikipedia.org/wiki/HTML "wikilink")の知識がなくてもマウスクリックだけで思い通りのブログデザインが完成できるようになっている。HTML・[CSS](../Page/CSS.md "wikilink")が編集可能の「フリースキン」もある。
+500種類以上のスキン（ブログ[テンプレート](../Page/テンプレート.md "wikilink")）があり、[パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")、[携帯](https://ja.wikipedia.org/wiki/携帯 "wikilink")、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")に対応。[HTML](https://ja.wikipedia.org/wiki/HTML "wikilink")の知識がなくてもマウスクリックだけで思い通りのブログデザインが完成できるようになっている。HTML・[CSSが編集可能の](../Page/Cascading_Style_Sheets.md "wikilink")「フリースキン」もある。
 
 2020年1月31日をもってサービスを終了した\[3\]\[4\]。
 

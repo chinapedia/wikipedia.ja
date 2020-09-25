@@ -40,7 +40,7 @@
 
 ## ゲーム機
 
-  - [PS2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『実戦パチスロ必勝法\!アラジンA』が2002年7月18日に発売されている。
+  - [PS2用ソフト](../Page/PlayStation_2.md "wikilink")『実戦パチスロ必勝法\!アラジンA』が2002年7月18日に発売されている。
   - [オンラインゲーム](../Page/オンラインゲーム.md "wikilink")サイト『[777town.net](../Page/777town.net.md "wikilink")』にてプレイが可能である。
   - PS2ソフト『[龍が如く2](../Page/龍が如く2.md "wikilink")』にてプレイが可能である。また本作の[PS3移植版として発売された](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[龍が如く1&2 HD EDITIONにてもプレイ可能である](https://ja.wikipedia.org/wiki/龍が如く1&2_HD_EDITION "wikilink")。
   - [携帯サイト](https://ja.wikipedia.org/wiki/携帯サイト "wikilink")『[サミー777タウン](https://ja.wikipedia.org/wiki/サミー777タウン "wikilink")』にてプレイが可能である。

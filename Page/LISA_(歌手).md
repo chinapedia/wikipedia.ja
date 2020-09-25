@@ -216,7 +216,7 @@ LISA LIONの名で[ラップ](../Page/ラップ.md "wikilink")パートを行う
   - バビロンの奇跡 - [キリンビール](../Page/麒麟麦酒.md "wikilink")「[氷結](https://ja.wikipedia.org/wiki/氷結_\(チューハイ\) "wikilink")」CMソング
   - I'm all you - [EDWIN](../Page/エドウイン.md "wikilink")「SOMETHING」TV CFソング、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")」エンディングテーマ（2002年10月〜12月）
   - My Dearest - [集英社](../Page/集英社.md "wikilink")「[MORE](../Page/MORE_\(雑誌\).md "wikilink")」TVCMソング、テレビ朝日系列「[おかずのクッキング](../Page/おかずのクッキング.md "wikilink")」テーマ曲
-  - SWITCH feat. [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink") & [Heartsdales](https://ja.wikipedia.org/wiki/Heartsdales "wikilink") - [PS2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")「クリムゾンティアーズ」CMソング・オープニングテーマ曲
+  - SWITCH feat. [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink") & [Heartsdales](https://ja.wikipedia.org/wiki/Heartsdales "wikilink") - [PS2用ソフト](../Page/PlayStation_2.md "wikilink")「クリムゾンティアーズ」CMソング・オープニングテーマ曲
   - I ONLY WANT TO BE WITH YOU - [TDK](../Page/TDK.md "wikilink")TV-CFソング
   - とんぼ feat. HOME GROWN - テレビ朝日系「[朝いち\!\!やじうま](https://ja.wikipedia.org/wiki/朝いち!!やじうま "wikilink")」8月度テーマ曲
   - So Beautiful - [ニベア花王](../Page/ニベア花王.md "wikilink")「ニベアボディ薬用ストレッチアップUV」CMソング

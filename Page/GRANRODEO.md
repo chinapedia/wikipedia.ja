@@ -87,7 +87,7 @@
 | 28th  | 2018年2月21日                                 | **Deadly Drive**                                                                            | LACM-34729   | LACM-14729 |
 | 29th  | 2018年7月11日                                 | *' BEASTFUL*'                                                                               | LACM-34772   | LACM-14772 |
 | 30th  | 2019年5月8日                                  | *' セツナの愛*'                                                                                  | LACM-34867   | LACM-14867 |
-| 31st  | 2020年9月9日予定                                | *' 情熱は覚えている*'                                                                               | LACM-34008   | LACM-24008 |
+| 31st  | 2020年9月9日                                  | *' 情熱は覚えている*'                                                                               | LACM-34008   | LACM-24008 |
 
 #### コラボシングル
 
@@ -116,11 +116,12 @@
 
 #### ベストアルバム
 
-| 発売日        | タイトル                                        | 規格品番        | 最高位 |
-| ---------- | ------------------------------------------- | ----------- | --- |
-| 2012年2月15日 | '''GRANRODEO B‐side Collection "W" '''      | LASA-9023/4 | 25位 |
-| 2013年3月6日  | **GRANRODEO GREATEST HITS 〜GIFT REGISTRY〜** | LACA-9270/1 | 9位  |
-| 2015年9月30日 | **GRANRODEO BEST ALBUM DECADE OF GR**       | LACA-9414/5 | 5位  |
+| 発売日          | タイトル                                                | 規格品番        | 最高位 |
+| ------------ | --------------------------------------------------- | ----------- | --- |
+| 2012年2月15日   | '''GRANRODEO B‐side Collection "W" '''              | LASA-9023/4 | 25位 |
+| 2013年3月6日    | **GRANRODEO GREATEST HITS 〜GIFT REGISTRY〜**         | LACA-9270/1 | 9位  |
+| 2015年9月30日   | **GRANRODEO BEST ALBUM DECADE OF GR**               | LACA-9414/5 | 5位  |
+| 2020年11月4日予定 | **GRANRODEO Singles Collection “RODEO BEAT SHAKE”** |             |     |
 
 #### コンセプトミニアルバム
 
@@ -879,6 +880,19 @@
 </div>
 </div></td>
 </tr>
+<tr class="even">
+<td><p>2020年</p></td>
+<td><p>GRANRODEO 15th ANNIVERSARY Startup Live 〜たかが15年〜</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全1公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<p><a href="../Page/7月31日.md" title="wikilink">7月31日</a>　<br />
+</p>
+</div>
+</div></td>
+</tr>
 </tbody>
 </table>
 
@@ -1078,7 +1092,7 @@
   - ROCK BEATS CANCER FES Vol.1,Vol.5
   - めざにゅ〜 10th Anniversary Live 共演：[ヒャダイン](https://ja.wikipedia.org/wiki/前山田健一 "wikilink")（2013年7月18日）
   - [きたまえ↑ 札幌☆マンガ・アニメフェスティバル](https://ja.wikipedia.org/wiki/きたまえ↑_札幌☆マンガ・アニメフェスティバル "wikilink")（2013年9月1日）
-  - [イナズマロックフェス](https://ja.wikipedia.org/wiki/イナズマロックフェス "wikilink") 2013,2016
+  - [イナズマロックフェス](https://ja.wikipedia.org/wiki/イナズマロックフェス "wikilink") 2013,2016,2020(コメント出演)
   - [アニメ紅白歌合戦](../Page/アニメ紅白歌合戦.md "wikilink")Vol.3（2014年1月19日）
   - [氣志團](../Page/氣志團.md "wikilink")現象2014「極東ロックンロール・ハイスクール 第弍章」\#35 GRANRODEO vs 氣志團〜熱血硬派ろでおくん、ヤンキー集団に絡まれる、の巻。〜（2014年4月24日）
   - BSフジ「[カンニングのDAI安☆吉日\!](../Page/カンニングのDAI安吉日!.md "wikilink")」10周年記念イベント VERY LUCKY DAY\!\!（2014年8月4日）
@@ -1092,6 +1106,7 @@
   - お台場夢大陸 めざましライブ（2017年8月1日）
   - FLOW×GRANRODEO 1st LIVE TOUR "Howling" 大阪,東京,台湾
   - FM NORTH WAVE 25th ANNIVERSARY「[Anison-R](https://ja.wikipedia.org/wiki/Anison-R "wikilink")の春まつり\!\!」（2018年3月16日）
+  - [JAM Project](../Page/JAM_Project.md "wikilink") 20th Anniversary Special JAM FES.（2020年9月19日）
 
 </div>
 

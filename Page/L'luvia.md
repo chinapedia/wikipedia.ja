@@ -28,6 +28,8 @@
   - SATOSHI ドラム担当
   - SHINYA ドラム担当
 
+ex,TaKA fet S-Yteam(Dr) ﾏﾆｭﾋﾟﾚｰﾀｰ担当
+
 ## ディスコグラフィ
 
 ### デモテープ

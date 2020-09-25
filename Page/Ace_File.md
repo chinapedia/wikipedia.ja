@@ -1,7 +1,7 @@
 > この記事は[Ace File](https://ja.wikipedia.org/wiki/Ace_File)から翻訳されています。
 
 
-**Ace File**（エースファイル）は、[ホリ・エージェンシー](https://ja.wikipedia.org/wiki/ホリ・エージェンシー "wikilink")所属の女性[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")4人組ユニット。2000年結成。2002年解散。
+**Ace File**（エースファイル）は、[ホリ・エージェンシー](../Page/ホリ・エージェンシー.md "wikilink")所属の女性[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")4人組ユニット。2000年結成。2002年解散。
 
 ## 略歴
 

@@ -24,7 +24,7 @@
 4.  **[風のゆくえ](https://ja.wikipedia.org/wiki/風のゆくえ/yours "wikilink")**
       -
         作詞・作曲：栗林みな実／編曲：飯塚昌明
-        シングル「風のゆくえ/yours」収録。[PS2ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『君が望む永遠〜Rumbling hearts〜』オープニング曲。
+        シングル「風のゆくえ/yours」収録。[PS2ゲーム](../Page/PlayStation_2.md "wikilink")『君が望む永遠〜Rumbling hearts〜』オープニング曲。
 5.  **[yours](https://ja.wikipedia.org/wiki/風のゆくえ/yours "wikilink")**
       -
         作詞：[江幡育子](https://ja.wikipedia.org/wiki/江幡育子 "wikilink")／作曲・編曲：飯塚昌明

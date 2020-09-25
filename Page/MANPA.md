@@ -76,11 +76,13 @@
 
 ### 放送予定
 
-  - 未定
+  - 第1部
 
-:\* [ゴールデンカムイ](https://ja.wikipedia.org/wiki/ゴールデンカムイ "wikilink")（第三期）（2020年10月 - ）
+:\* [ゴールデンカムイ](https://ja.wikipedia.org/wiki/ゴールデンカムイ "wikilink")（第三期）（2020年10月6日 - ）
 
-:\* [トニカクカワイイ](https://ja.wikipedia.org/wiki/トニカクカワイイ "wikilink")（2020年10月 - ）
+  - 第2部
+
+:\* [トニカクカワイイ](https://ja.wikipedia.org/wiki/トニカクカワイイ "wikilink")（2020年10月6日 - ）
 
 ### アニ探\!
 
@@ -998,6 +1000,12 @@ BSフジ</p></td>
 <td><p>2019年7月16日 - 2020年4月7日</p></td>
 <td><p>2019年7月期は第1期、10月期以降は第4期を再放送。</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/ハクション大魔王.md" title="wikilink">ハクション大魔王</a>2020</p></td>
+<td><p>2020年4月14日 - 7月7日</p></td>
+<td><p>第2部（2:29 - 2:59）</p></td>
+<td><p>第10話までの再放送。</p></td>
 </tr>
 </tbody>
 </table>

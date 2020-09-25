@@ -130,7 +130,7 @@
   - 1995-1996 決勝 ユヴェントス 4-2 アヤックス
   - 2000-2001 決勝 バイエルン・ミュンヘン 5-4 [バレンシア](../Page/バレンシアCF.md "wikilink")
   - 2002-2003 決勝 ACミラン 3-2 ユヴェントス
-  - 2004-2005 準々決勝 PSV 4-2 [リヨン](https://ja.wikipedia.org/wiki/オリンピック・リヨン "wikilink")
+  - 2004-2005 準々決勝 PSV 4-2 [リヨン](../Page/オリンピック・リヨン.md "wikilink")
   - 2004-2005 決勝 リヴァプール 3-2 ACミラン
   - 2007-2008 決勝 [マンチェスターU.](../Page/マンチェスター・ユナイテッドFC.md "wikilink") 6-5 [チェルシー](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")
   - 2008-2009 1回戦 [アーセナル](../Page/アーセナルFC.md "wikilink") 7-6 [ASローマ](../Page/ASローマ.md "wikilink")

@@ -9,7 +9,7 @@
 
 創刊当初の表紙カバーデザインが[角川スニーカー文庫](https://ja.wikipedia.org/wiki/角川スニーカー文庫 "wikilink")と区別が付きにくく不評であったことなどを受け、創刊からわずか半年の2007年1月に刊行されたタイトルよりデザインが大幅に変更されたが、2016年9月刊行分より再びリニューアル\[1\]された。なお、背表紙では[ファミ通文庫](../Page/ファミ通文庫.md "wikilink")（[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")）と同様に「[シリーズ番号](https://ja.wikipedia.org/wiki/ファミ通文庫#概要 "wikilink")」を採用している。
 
-ライトノベル系レーベルとしては後発に属するものの創刊から短期間で日本国外へ進出し、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[東立出版社](../Page/東立出版社.md "wikilink")と独占契約を締結。同社の「<span lang="zh">東立輕小說</span>」レーベルでほぼ全タイトルが[繁体字](../Page/繁体字.md "wikilink")[中文に翻訳出版されている](https://ja.wikipedia.org/wiki/中国語 "wikilink")。
+ライトノベル系レーベルとしては後発に属するものの創刊から短期間で日本国外へ進出し、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[東立出版社](../Page/東立出版社.md "wikilink")と独占契約を締結。同社の「<span lang="zh">東立輕小說</span>」レーベルでほぼ全タイトルが[繁体字](../Page/繁体字.md "wikilink")[中文に翻訳出版されている](../Page/中国語.md "wikilink")。
 
 2007年に[ジュブナイルポルノ](../Page/ジュブナイルポルノ.md "wikilink")出身の[わかつきひかる](../Page/わかつきひかる.md "wikilink")が一般向け作品を刊行して以降、同分野の出身者を比較的多く取り込んでいる。他レーベルに見られる[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")の[小説化](../Page/小説化.md "wikilink")作品は創刊以来、長らく刊行されていなかったが[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に1点のみ刊行された。
 

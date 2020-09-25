@@ -495,6 +495,8 @@
 
 :\* 5月22日：活動休止後初の*オンラインイベント『9nine online event 2020 〜ONLINEのON9NINE\!〜』*をSHOWROOMから配信。
 
+:\* 9月9日：*オンラインイベント『Thank you Fan9 〜Re:lation〜』*を浅草九劇から[Vimeo](../Page/Vimeo.md "wikilink")を通して配信。この公演で、オンライン上で限定的に活動再開する事を発表。
+
 ## 作品
 
 ### シングル
@@ -1883,6 +1885,12 @@ WEB-CMソング</p></td>
 <td><p>各メンバーが自宅よりSHOWROOMを介して配信。</p></td>
 </tr>
 <tr class="odd">
+<td><p>2020年9月9日</p></td>
+<td><p><strong>Thank you Fan9 〜Re:lation〜</strong></p></td>
+<td><p><a href="../Page/Vimeo.md" title="wikilink">Vimeo</a></p></td>
+<td><p>浅草九劇より配信。</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

@@ -396,8 +396,7 @@ Windows（<a href="../Page/Steam.md" title="wikilink">Steam</a>）</p></td>
 
   - [ドラゴンスレイヤークロニクル（プロジェクトEGG）](http://www.amusement-center.com/project/egg/special/package_dragonslayerchronicle/)
 
-  - （英語）
-
+  -
   - [LSD4: Unofficial Archive of Legacy of the Wizard & Dragon Slayer 4](http://lsd4.starfree.jp/)
 
 [Category:1987年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1987年のファミリーコンピュータ用ソフト "wikilink") [Category:MSX/MSX2用ソフト](https://ja.wikipedia.org/wiki/Category:MSX/MSX2用ソフト "wikilink") [Category:オープンワールドゲーム](https://ja.wikipedia.org/wiki/Category:オープンワールドゲーム "wikilink") [Category:家族を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:家族を題材としたコンピュータゲーム "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:地下を舞台とした作品](https://ja.wikipedia.org/wiki/Category:地下を舞台とした作品 "wikilink") [Category:ドラゴンスレイヤーシリーズ](https://ja.wikipedia.org/wiki/Category:ドラゴンスレイヤーシリーズ "wikilink") [Category:ナムコのゲームソフト](https://ja.wikipedia.org/wiki/Category:ナムコのゲームソフト "wikilink") [Category:プロジェクトEGG対応ソフト](https://ja.wikipedia.org/wiki/Category:プロジェクトEGG対応ソフト "wikilink")

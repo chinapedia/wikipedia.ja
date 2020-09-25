@@ -7,7 +7,7 @@
 
 ## 歴史
 
-ZoneAlarmの開発元のZoneLabsは1997年に創業している。 ZoneAlarm Firewallのリリース履歴によるとWindows95に対応との記述があり、起源は当時に遡る。 一番最初の日付が確認できるリリース日は2001年4月30日で、Ver. 2.6である。
+ZoneAlarmの開発元のZoneLabsは1997年に創業している。 ZoneAlarm Firewallのリリース履歴によるとWindows95に対応との記述があり、起源は当時に遡る。 最初の日付が確認できるリリース日は2001年4月30日で、Ver. 2.6である。
 
 [ZoneAlarm Firewallのリリース履歴](https://www.zonealarm.com/software/free-firewall/release-history)はこちらを参照されたい。
 

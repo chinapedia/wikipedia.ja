@@ -7,7 +7,7 @@
 
 [COMPLEX](../Page/COMPLEX.md "wikilink")の活動休止後のソロ復帰アルバム。
 
-[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")や[COMPLEX](../Page/COMPLEX.md "wikilink")の音楽性とは大きく異なり、重厚なサウンドで構築されている。『[GUITARHYTHM](../Page/GUITARHYTHM.md "wikilink")』が海外進出を意識した作品だったのに対し、本作は日本のロック・ファンの為のアルバムとして制作されており、歌詞もカヴァー曲を除き日本語である。
+[BOØWY](../Page/BOØWY.md "wikilink")や[COMPLEX](../Page/COMPLEX.md "wikilink")の音楽性とは大きく異なり、重厚なサウンドで構築されている。『[GUITARHYTHM](../Page/GUITARHYTHM.md "wikilink")』が海外進出を意識した作品だったのに対し、本作は日本のロック・ファンの為のアルバムとして制作されており、歌詞もカヴァー曲を除き日本語である。
 
 本作の楽曲制作及びレコーディングをするに当たり、単身渡英。[ロンドン](../Page/ロンドン.md "wikilink")で生活を始め、全楽曲を1ヶ月で完成させた。COMPLEXのラストライブ翌日には飛行機に乗っていたという。リリース後には、ソロキャリアでは初となる全国ツアーも行われた。
 
@@ -45,7 +45,7 @@
 
 ## ライブ
 
-本作の発売前、1991年[8月6日](../Page/8月6日.md "wikilink")に[富士急ハイランド](https://ja.wikipedia.org/wiki/富士急ハイランド "wikilink")のムーンサルト・スクランブル前において、『**GUITARHYTHM REPRISE**』と題された野外ライブを開催。あいにくの雨に見舞われたが、『[GUITARHYTHM](../Page/GUITARHYTHM.md "wikilink")』収録曲や[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")時代の曲、ゲストボーカルに妻（当時）の[山下久美子](../Page/山下久美子.md "wikilink")を迎えての曲のほか、本作からも数曲が先行して演奏された。
+本作の発売前、1991年[8月6日](../Page/8月6日.md "wikilink")に[富士急ハイランド](https://ja.wikipedia.org/wiki/富士急ハイランド "wikilink")のムーンサルト・スクランブル前において、『**GUITARHYTHM REPRISE**』と題された野外ライブを開催。あいにくの雨に見舞われたが、『[GUITARHYTHM](../Page/GUITARHYTHM.md "wikilink")』収録曲や[BOØWY](../Page/BOØWY.md "wikilink")時代の曲、ゲストボーカルに妻（当時）の[山下久美子](../Page/山下久美子.md "wikilink")を迎えての曲のほか、本作からも数曲が先行して演奏された。
 
 本作を受けてのツアーは、『**GUITARHYTHM ACTIVE FLY INTO YOUR DREAM**』と題し、1991年[9月30日](../Page/9月30日.md "wikilink")の[群馬県民会館](../Page/群馬県民会館.md "wikilink")を皮切りに、23都市全33公演が行われている。[12月2日](../Page/12月2日.md "wikilink")には海外公演として[ロンドン](../Page/ロンドン.md "wikilink")にある[TOWN\&COUNTRY CLUBでの公演も行っており](https://ja.wikipedia.org/wiki/w:The_Forum,_London "wikilink")\[9\]、ツアーファイナルには[日本武道館](../Page/日本武道館.md "wikilink")公演4DAYSを実現。後にこのツアーの模様がライブ・アルバム『[GUITARHYTHM active tour '91-'92](../Page/GUITARHYTHM_active_tour_'91-'92.md "wikilink")』（1992年）と、ライブ・ビデオ『GUITARHYTHM active tour '91-'92』（1992年）としてリリースされている。
 
@@ -57,7 +57,7 @@
 
 ## エピソード
 
-本作のリリース後に布袋は[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")解散以来初めて[氷室京介](../Page/氷室京介.md "wikilink")と直接会話を交わしている。布袋が訪ねて行くと氷室は「聴いたよ」と答え、感想として「なげーよ」とコメントしたという。「いいけど長い」「長いのつくりたかったんだからいいんじゃない？」と氷室は答え、率直な感想をもらえたとして布袋はうれしかったとコメントしている\[11\]。
+本作のリリース後に布袋は[BOØWY](../Page/BOØWY.md "wikilink")解散以来初めて[氷室京介](../Page/氷室京介.md "wikilink")と直接会話を交わしている。布袋が訪ねて行くと氷室は「聴いたよ」と答え、感想として「なげーよ」とコメントしたという。「いいけど長い」「長いのつくりたかったんだからいいんじゃない？」と氷室は答え、率直な感想をもらえたとして布袋はうれしかったとコメントしている\[11\]。
 
 ## 収録曲
 
@@ -112,7 +112,7 @@
         ソロは自身初の[ボトルネックによるものであり](../Page/スライドギター.md "wikilink")、レコーディングでは何十回も録ったと語っている。\[25\]
 10. **ANGEL WALTZ**
       -
-        [BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")時代に作られた楽曲だが、バンドのイメージに合わないことから長年お蔵入りしていた。\[26\] BOØWYのアルバム『[JUST A HERO](https://ja.wikipedia.org/wiki/JUST_A_HERO_\(BOØWYのアルバム\) "wikilink")』用だった。
+        [BOØWY](../Page/BOØWY.md "wikilink")時代に作られた楽曲だが、バンドのイメージに合わないことから長年お蔵入りしていた。\[26\] BOØWYのアルバム『[JUST A HERO](../Page/JUST_A_HERO_\(BOØWYのアルバム\).md "wikilink")』用だった。
         作曲された当時は「マコトの[ワルツ](../Page/ワルツ.md "wikilink")」という仮タイトルで、[アヴァンギャルドなテイストだった](https://ja.wikipedia.org/wiki/前衛音楽 "wikilink")。\[27\]
 11. **[YOU](https://ja.wikipedia.org/wiki/YOU_\(布袋寅泰の曲\) "wikilink")**
       -
@@ -361,7 +361,7 @@
   - **ERIKO HIGUCHI** - スタイリスト　
   - **SHOKO KAWANO** - ヘアー、メイク
   - **[前田真宏](../Page/前田真宏_\(アニメ監督\).md "wikilink")** - イラストレーション
-  - **[草彅琢仁](https://ja.wikipedia.org/wiki/草彅琢仁 "wikilink")** - イラストレーション
+  - **[草彅琢仁](../Page/草彅琢仁.md "wikilink")** - イラストレーション
   - **菊地正典** - イラストレーション
   - **[武重洋二](https://ja.wikipedia.org/wiki/武重洋二 "wikilink")** - イラストレーション
 

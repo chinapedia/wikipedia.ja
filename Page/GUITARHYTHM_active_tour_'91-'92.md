@@ -11,7 +11,7 @@
 
   - 布袋寅泰としての初のソロツアーであり、[1991年](../Page/1991年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")から[1992年](../Page/1992年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")まで行われた『GUITARHYTHM active tour』全33公演の中から収録された作品。また、ソロとして初のライブアルバムとなった。
   - 日本以外に[ロンドン](../Page/ロンドン.md "wikilink")での公演なども含まれている。
-  - 本人のアルバム『[GUITARHYTHM](../Page/GUITARHYTHM.md "wikilink")』『[GUITARHYTHM II](../Page/GUITARHYTHM_II.md "wikilink")』からの選曲以外に、映画『[ブレードランナー](../Page/ブレードランナー.md "wikilink")』（[1982年](../Page/1982年.md "wikilink")）の曲や、[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")時代の曲のセルフカバーも含まれている。
+  - 本人のアルバム『[GUITARHYTHM](../Page/GUITARHYTHM.md "wikilink")』『[GUITARHYTHM II](../Page/GUITARHYTHM_II.md "wikilink")』からの選曲以外に、映画『[ブレードランナー](../Page/ブレードランナー.md "wikilink")』（[1982年](../Page/1982年.md "wikilink")）の曲や、[BOØWY](../Page/BOØWY.md "wikilink")時代の曲のセルフカバーも含まれている。
   - 同名のビデオ作品もリリースされており、その中の布袋自身へのインタビューでツアーでのファンの反応が100パーセント満足のいくものではなかった事を語っており、以後よりライブを意識した作品作りへと転換していく事となる。
 
 ## 収録曲
@@ -36,9 +36,9 @@
       -
         [エディ・コクラン](../Page/エディ・コクラン.md "wikilink")のカバー曲。
 10. **[MERRY-GO-ROUND](../Page/GUITARHYTHM_II.md "wikilink")**
-11. **[DANCE CRAZE](https://ja.wikipedia.org/wiki/BOØWY_\(アルバム\) "wikilink")**
+11. **[DANCE CRAZE](../Page/BOØWY_\(アルバム\).md "wikilink")**
       -
-        [BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")時代の曲だが、原曲から大幅にアレンジされ、[ハウス・ミュージック](https://ja.wikipedia.org/wiki/ハウス・ミュージック "wikilink")を取り入れたダンス・チューンになっている。また曲中で[ボレロの一節が挿入されている](../Page/ボレロ_\(ラヴェル\).md "wikilink")。
+        [BOØWY](../Page/BOØWY.md "wikilink")時代の曲だが、原曲から大幅にアレンジされ、[ハウス・ミュージック](https://ja.wikipedia.org/wiki/ハウス・ミュージック "wikilink")を取り入れたダンス・チューンになっている。また曲中で[ボレロの一節が挿入されている](../Page/ボレロ_\(ラヴェル\).md "wikilink")。
 12. **[FLY INTO YOUR DREAM](../Page/GUITARHYTHM_II.md "wikilink")**
 13. **[GLORIOUS DAYS](../Page/GUITARHYTHM.md "wikilink")**
 14. **[RADIO\! RADIO\! RADIO\!](https://ja.wikipedia.org/wiki/BEAT_EMOTION_\(布袋寅泰の曲\) "wikilink")**

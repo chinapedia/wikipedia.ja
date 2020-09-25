@@ -5,7 +5,7 @@
 
 ## 背景
 
-アイドルとしてデビューし、音楽以外にも映画やテレビ出演などで活動していた[吉川晃司](../Page/吉川晃司.md "wikilink")は、1988年2月3日にシングル「[プリティ・デイト](https://ja.wikipedia.org/wiki/プリティ・デイト "wikilink")」を発表後に1年間の休業宣言をし、事務所を独立、レコード会社を移籍して沈黙を続けていた。また、[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の解散後にソロアルバム『[GUITARHYTHM](../Page/GUITARHYTHM.md "wikilink")』を発表した[布袋寅泰](../Page/布袋寅泰.md "wikilink")は、その後の活動が注目されている状況であったが、1988年12月10日に突如2人のユニット「COMPLEX」の結成が発表される。その後、第一弾シングルとして本作「BE MY BABY」がリリースされた。
+アイドルとしてデビューし、音楽以外にも映画やテレビ出演などで活動していた[吉川晃司](../Page/吉川晃司.md "wikilink")は、1988年2月3日にシングル「[プリティ・デイト](https://ja.wikipedia.org/wiki/プリティ・デイト "wikilink")」を発表後に1年間の休業宣言をし、事務所を独立、レコード会社を移籍して沈黙を続けていた。また、[BOØWY](../Page/BOØWY.md "wikilink")の解散後にソロアルバム『[GUITARHYTHM](../Page/GUITARHYTHM.md "wikilink")』を発表した[布袋寅泰](../Page/布袋寅泰.md "wikilink")は、その後の活動が注目されている状況であったが、1988年12月10日に突如2人のユニット「COMPLEX」の結成が発表される。その後、第一弾シングルとして本作「BE MY BABY」がリリースされた。
 
 ## リリース
 

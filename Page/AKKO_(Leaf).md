@@ -7,11 +7,9 @@
 
 本名を初め、経歴については一切不明。[Leaf](../Page/Leaf.md "wikilink")のスタッフ発言によれば、実際は歌手が本業ではない一般人とのことである。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、Leafの依頼でPC版『[To Heart](../Page/To_Heart.md "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")に参加。当初はそれだけで終わる予定だったが、[作曲](../Page/作曲.md "wikilink")を担当した[下川直哉](../Page/下川直哉.md "wikilink")の「私の作曲した曲はAKKOさんの歌声以外では納得できない」などの理由で、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")の『[WHITE ALBUM](../Page/WHITE_ALBUM.md "wikilink")』以降も依頼があれば参加している。下川作曲のエンディングテーマは、2004年の『[ToHeart2](https://ja.wikipedia.org/wiki/ToHeart2 "wikilink")』まで全て彼女がボーカルを務めてきた。下川の作曲傾向を受けて、[バラード](../Page/バラード.md "wikilink")系の曲を歌うことが多い。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、Leafの依頼でPC版『[To Heart](../Page/To_Heart.md "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")に参加。当初はそれだけで終わる予定だったが、[作曲](../Page/作曲.md "wikilink")を担当した[下川直哉](../Page/下川直哉.md "wikilink")の「私の作曲した曲はAKKOさんの歌声以外では納得できない」などの理由で、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")の『[WHITE ALBUM](../Page/WHITE_ALBUM.md "wikilink")』以降も依頼があれば参加している。下川作曲のエンディングテーマは、2004年の『[ToHeart2](https://ja.wikipedia.org/wiki/ToHeart2 "wikilink")』まで全て彼女がボーカルを務めてきた。下川の作曲傾向を受けて、[バラード](../Page/バラード.md "wikilink")系の曲を歌うことが多い。 なお、[2013年](../Page/2013年.md "wikilink")現在まで、Leafと[アクアプラス](../Page/アクアプラス.md "wikilink")の作品のテーマ曲以外で発表した曲はない。
 
-また、上記の大アクアプラス祭のMCでは、アクアプラスの作品のキャラクターソングの仮歌も担当したことがあるという。
-
-なお、[2013年](../Page/2013年.md "wikilink")現在まで、Leafと[アクアプラス](../Page/アクアプラス.md "wikilink")の作品のテーマ曲以外で発表した曲はない。
+しかし、それまで表舞台には出ることはなかったが、2015年に開催された大アクアプラス祭に初めて出演し、生演奏を披露した。 そのステージMCでは、アクアプラスの作品のキャラクターソングの仮歌も担当したことがあるという。 現在は関西のライブハウスなどで歌手活動中である。
 
 ## 代表作
 

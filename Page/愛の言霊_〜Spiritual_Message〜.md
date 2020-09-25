@@ -27,6 +27,8 @@
         [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[土曜グランド劇場](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink")『[透明人間](../Page/透明人間_\(テレビドラマ\).md "wikilink")』主題歌。[au](../Page/Au_\(携帯電話\).md "wikilink")『[LISTEN MOBILE SERVICE](../Page/LISMO.md "wikilink")』キャンペーンソング\[5\]。
         また、本作が収録されているアルバム『[Young Love](../Page/Young_Love.md "wikilink")』の[CMソングでも使用されている](../Page/コマーシャルソング.md "wikilink")。
         歌詞には、[英語](../Page/英語.md "wikilink")・[日本語](../Page/日本語.md "wikilink")を用いた言葉遊びが多く用いられているほか、間奏時には[インドネシア語](../Page/インドネシア語.md "wikilink")も用いられている。ただしこの部分は桑田の声ではなく、[梅田英春](https://ja.wikipedia.org/wiki/梅田英春 "wikilink")による。また、桑田による造語も多く含まれている。[ラップ](../Page/ラップ.md "wikilink")部分の「T.C.」（魂の意）、「MESSAGE FROM T.C.」（言霊の意）「COME-A COOL RAP」（「[カマクラ](../Page/鎌倉市.md "wikilink")」を英語のように言い換えたもの）など。
+        歌詞については桑田曰く「梅雨の時期に、無風で波のない[由比ヶ浜](../Page/由比ヶ浜.md "wikilink")の沖から、陸地を眺めているという光景に痺れた。そこで材木座のお寺の鐘がなってね」といった制作当時サーフィンに凝り始めた時期に遭遇した風景に影響されたという\[6\]\[7\]。
+        アレンジ面について桑田は「アジアやニューヨーク、ヨーロッパの情報なども意識しつつアレンジした」と語っている。また、小貫信昭は「でも興味深い事に、逆にそれが[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")ならではの[侘や寂の感覚を浮かび上がらせたのだ](https://ja.wikipedia.org/wiki/侘び・寂び "wikilink")」と評している\[8\]。
         [2003年](../Page/2003年.md "wikilink")に放送された桑田のレギュラー番組である[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[桑田佳祐の音楽寅さん 〜MUSIC TIGER〜 サザンオールスターズスペシャル](https://ja.wikipedia.org/wiki/桑田佳祐の音楽寅さん_〜MUSIC_TIGER〜#桑田佳祐の音楽寅さん_〜MUSIC_TIGER〜_サザンオールスターズスペシャル "wikilink")」で披露したもの（披露場所は[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[鎌倉市](../Page/鎌倉市.md "wikilink")にある[建長寺](../Page/建長寺.md "wikilink")）がミュージックビデオではないが、[2004年](../Page/2004年.md "wikilink")に発売したPV集『[ベストヒットUSAS (Ultra Southern All Stars)](../Page/ベストヒットUSAS_\(Ultra_Southern_All_Stars\).md "wikilink")』に収録されている。
 2.  **恋のジャック・ナイフ** (4:37)
     （作詞・作曲：桑田佳祐　編曲:サザンオールスターズ）
@@ -85,3 +87,6 @@
 3.  [【オリコン】サザンオールスターズ 売上別TOP10＆主な記録](http://www.oricon.co.jp/news/54526/full/) オリコン 2015年1月22日閲覧。
 4.  「新曲『TSUNAMI』発売1週間で65万枚 サザン22年目の自己新\!\!」『[スポーツニッポン](../Page/スポーツニッポン.md "wikilink")』2000年2月4日付、25面。
 5.  2008年に使用
+6.  [桑田佳祐、明日開催！デビュー40周年キックオフライブについて語る「1曲目がこれだったら、びっくりすんぞー」リアルサウンド 2018年6月24日](https://realsound.jp/2018/06/post-211413.html)
+7.  [明日40周年を迎えるサザンオールスターズ！ 桑田佳祐「るるぶ片手に歌詞を書く」\!? 楽曲誕生秘話](https://news.ameba.jp/entry/20180624-202)abemaニュース2018年6月24日
+8.  [“青春期”の意味を新たに問い直した『Young Love』](https://tokyo.whatsin.jp/574593) WHAT's IN? tokyo

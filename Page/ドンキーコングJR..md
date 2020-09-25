@@ -305,8 +305,7 @@ SRD</p></td>
 
   - [GAME\&WATCH（ニンテンドーDSiウェア）](http://www.nintendo.co.jp/ds/dsiware/game_and_watch/index.html)
 
-  - （英語）
-
+  -
 [Category:ドンキーコングシリーズのコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ドンキーコングシリーズのコンピュータゲーム "wikilink") [Category:固定画面アクションゲーム](https://ja.wikipedia.org/wiki/Category:固定画面アクションゲーム "wikilink") [Category:1982年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1982年のアーケードゲーム "wikilink") [Category:1983年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1983年のファミリーコンピュータ用ソフト "wikilink") [Category:Atari_2600用ソフト](https://ja.wikipedia.org/wiki/Category:Atari_2600用ソフト "wikilink") [Category:Atari_7800用ソフト](https://ja.wikipedia.org/wiki/Category:Atari_7800用ソフト "wikilink") [Category:Atari_8ビット・コンピュータ用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Atari_8ビット・コンピュータ用ゲームソフト "wikilink") [Category:インテレビジョン用ソフト](https://ja.wikipedia.org/wiki/Category:インテレビジョン用ソフト "wikilink") [Category:コモドール64用ゲームソフト](https://ja.wikipedia.org/wiki/Category:コモドール64用ゲームソフト "wikilink") [Category:コレコビジョン用ソフト](https://ja.wikipedia.org/wiki/Category:コレコビジョン用ソフト "wikilink") [Category:ゲーム&ウオッチ](https://ja.wikipedia.org/wiki/Category:ゲーム&ウオッチ "wikilink") [Category:ファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:ファミリーコンピュータ用ソフト "wikilink") [Category:ディスクシステム用ソフト](https://ja.wikipedia.org/wiki/Category:ディスクシステム用ソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:ニンテンドー3DS用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドー3DS用バーチャルコンソール対応ソフト "wikilink") [Category:アーケードアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:アーケードアーカイブス対応ソフト "wikilink")
 
 1.  本作では主に「パパ」と表記されている。

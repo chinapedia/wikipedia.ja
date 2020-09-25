@@ -1,7 +1,7 @@
 > この記事は[PNCパーク](https://ja.wikipedia.org/wiki/PNCパーク)から翻訳されています。
 
 
-**PNCパーク**（*PNC Park* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")[ピッツバーグ](https://ja.wikipedia.org/wiki/ピッツバーグ "wikilink")にある[野球場](../Page/野球場.md "wikilink")。[MLB](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")[ピッツバーグ・パイレーツ](../Page/ピッツバーグ・パイレーツ.md "wikilink")のホーム球場でもある。
+**PNCパーク**（*PNC Park*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")[ピッツバーグ](https://ja.wikipedia.org/wiki/ピッツバーグ "wikilink")にある[野球場](../Page/野球場.md "wikilink")。[MLB](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")[ピッツバーグ・パイレーツ](../Page/ピッツバーグ・パイレーツ.md "wikilink")のホーム球場でもある。
 
 旧球場[スリー・リバース・スタジアム](../Page/スリー・リバース・スタジアム.md "wikilink")が[アメフトとの兼用球場だったため](../Page/アメリカンフットボール.md "wikilink")、ファンからの不満が次第に増えていった。そのため、1996年に、[野球](../Page/野球.md "wikilink")とアメフトそれぞれの専用球場を建設する計画が立ち上がった。
 

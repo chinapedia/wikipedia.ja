@@ -58,7 +58,7 @@
     解散後も主にタレント・俳優として活動。2010年代前半にはバラエティー番組で恐妻家として再注目される。
     デビュー直後からあらゆる場面で、SHAZNAの名前の由来は当初「NIYと好きな英単語を出し合って並べ替えたもの」と発言していたが、『[ろみひー](../Page/ろみひー.md "wikilink")』（[中京テレビ](../Page/中京テレビ放送.md "wikilink")）出演時にIZAMが自身の本名である日根良和（hine yoshikazu）を並べ替えた物であると発言（実際に一致する）。また、この出演時に年齢を4歳[サバを読んでいたこともカミングアウトしている](../Page/鯖読み.md "wikilink")。
   - AOI（アオイ）
-    [ギター](../Page/ギター.md "wikilink")担当。1972年[11月8日](../Page/11月8日.md "wikilink")生まれ、歳。本名は**萬 圭介**（よろず けいすけ）。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")生まれの[千葉県](../Page/千葉県.md "wikilink")育ち。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+    [ギター](../Page/ギター.md "wikilink")担当。1972年[11月8日](../Page/11月8日.md "wikilink")生まれ、歳。本名は**萬 圭介**（よろず けいすけ）。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")生まれの[千葉県](../Page/千葉県.md "wikilink")育ち。[血液型は](../Page/ABO式血液型.md "wikilink")[A型](../Page/ABO式血液型.md "wikilink")。
     初期は「A・O・I」名義。活動休止後はソロとして「AOI UNPLUGGED」にてVocal\&A.Guitarによる単独公演を開催。
     ショートフィルム『ガラクタノココロ』を「葵圭介」名義で自主制作。[インディーズムービー・フェスティバル](../Page/インディーズムービー・フェスティバル.md "wikilink")においてグランプリを受賞した。
     SHAZNAに加入する前はオーディションを受けており、ライヴハウスのスタッフの紹介で新宿の[マクドナルド](../Page/マクドナルド.md "wikilink")でメンバーと顔を合わせた。AOIは「僕も下手だから一緒に頑張ろうよ」と言い、SHAZNAに加入した。
@@ -79,7 +79,7 @@
     [ドラム担当](../Page/ドラムセット.md "wikilink")。7月20日生まれ。本名は**松浦 夏芽**（まつうら なつめ）。身長172cm、血液型B\[19\]。SHAZNA加入前はガールズバンド「Claddaph Ring」のメンバーとして活動していた。エースクルー・エンタテインメント所属。
     好きなものは[セーラームーン](https://ja.wikipedia.org/wiki/セーラームーン "wikilink")、[ミニーマウス](../Page/ミニーマウス.md "wikilink")。
   - Asuka（アスカ）
-    [サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")担当。4月23日生まれ。本名、身長、血液型は2019年現在非公表。IZAMがプロデュースを務める「東京エロティカルパレード（現在は無期限活動休止中）」のメンバー。[モデル](https://ja.wikipedia.org/wiki/モデル "wikilink")、コンパニオンとしても活動している。好きなものは[ディズニー](https://ja.wikipedia.org/wiki/ディズニー "wikilink")。IZAMとは誕生日が同じである。
+    [サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")担当。4月23日生まれ。本名、身長、血液型は2019年現在非公表。IZAMがプロデュースを務める「東京エロティカルパレード（現在は無期限活動休止中）」のメンバー。[モデル](../Page/モデル.md "wikilink")、コンパニオンとしても活動している。好きなものは[ディズニー](https://ja.wikipedia.org/wiki/ディズニー "wikilink")。IZAMとは誕生日が同じである。
 
 ## 元メンバー
 

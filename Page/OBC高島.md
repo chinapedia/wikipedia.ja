@@ -40,6 +40,7 @@
 
 ## 元プロ野球選手等の競技者登録
 
+  - [竹岡和宏](../Page/竹岡和宏.md "wikilink") - 選手兼任コーチ→退団（元：[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")）
   - [田中聡](../Page/田中聡.md "wikilink") - 選手兼任コーチ→退団（元：[日本ハムファイターズなど](../Page/北海道日本ハムファイターズ.md "wikilink")）
   - [野原祐也](https://ja.wikipedia.org/wiki/野原祐也 "wikilink") - 監督（元：[阪神タイガース](../Page/阪神タイガース.md "wikilink")）
   - [佐村・トラヴィス・幹久](https://ja.wikipedia.org/wiki/佐村・トラヴィス・幹久 "wikilink") - 選手→退団(元：[横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")など）

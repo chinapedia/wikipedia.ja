@@ -1,7 +1,7 @@
 > この記事は[Suara](https://ja.wikipedia.org/wiki/Suara)から翻訳されています。
 
 
-**Suara**（すあら、[1979年](../Page/1979年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性歌手](../Page/歌手.md "wikilink")。[大阪府](../Page/大阪府.md "wikilink")[豊中市](https://ja.wikipedia.org/wiki/豊中市 "wikilink")出身。[フィックスレコード](../Page/フィックスレコード.md "wikilink")所属。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。作詞、作曲などの[クレジットには](../Page/クレジットタイトル.md "wikilink")、出生名の**巽 明子**（たつみ あきこ）の名義を使用している。
+**Suara**（すあら、[1979年](../Page/1979年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性歌手](../Page/歌手.md "wikilink")。[大阪府](../Page/大阪府.md "wikilink")[豊中市](https://ja.wikipedia.org/wiki/豊中市 "wikilink")出身。[フィックスレコード](../Page/フィックスレコード.md "wikilink")所属。[血液型は](../Page/ABO式血液型.md "wikilink")[A型](../Page/ABO式血液型.md "wikilink")。作詞、作曲などの[クレジットには](../Page/クレジットタイトル.md "wikilink")、出生名の**巽 明子**（たつみ あきこ）の名義を使用している。
 
 ## 概要
 

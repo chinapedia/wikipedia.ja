@@ -42,7 +42,7 @@
 
   - [マイズカンパニー](http://members3.jcom.home.ne.jp/my-s/)
 
-[Category:日本の実業家](https://ja.wikipedia.org/wiki/Category:日本の実業家 "wikilink") [Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1964年生](https://ja.wikipedia.org/wiki/Category:1964年生 "wikilink") [Category:2013年没](https://ja.wikipedia.org/wiki/Category:2013年没 "wikilink")
+[Category:日本の実業家](https://ja.wikipedia.org/wiki/Category:日本の実業家 "wikilink") [Category:女性実業家](https://ja.wikipedia.org/wiki/Category:女性実業家 "wikilink") [Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink") [Category:日本の女性タレント](https://ja.wikipedia.org/wiki/Category:日本の女性タレント "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1964年生](https://ja.wikipedia.org/wiki/Category:1964年生 "wikilink") [Category:2013年没](https://ja.wikipedia.org/wiki/Category:2013年没 "wikilink")
 
 1.  週刊テレビ番組（東京ポスト）1987年5月29日号 p.26 より。
 2.

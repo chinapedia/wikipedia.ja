@@ -42,4 +42,4 @@ PLANETのチームはOGLE-2005-BLG-390Lの[重力マイクロレンズ現象](ht
   - [ESO press release](http://www.eso.org/outreach/press-rel/pr-2006/pr-03-06.html)
   - [BBC News](http://news.bbc.co.uk/2/hi/science/nature/4647142.stm)
 
-[Category:天文学に関する記事](https://ja.wikipedia.org/wiki/Category:天文学に関する記事 "wikilink") [Category:さそり座](https://ja.wikipedia.org/wiki/Category:さそり座 "wikilink") [Category:2006年発見の太陽系外惑星](https://ja.wikipedia.org/wiki/Category:2006年発見の太陽系外惑星 "wikilink") [Category:太陽系外地球型惑星](https://ja.wikipedia.org/wiki/Category:太陽系外地球型惑星 "wikilink") [Category:重力レンズ](https://ja.wikipedia.org/wiki/Category:重力レンズ "wikilink")
+[Category:天文学に関する記事](https://ja.wikipedia.org/wiki/Category:天文学に関する記事 "wikilink") [Category:さそり座](https://ja.wikipedia.org/wiki/Category:さそり座 "wikilink") [Category:2006年発見の太陽系外惑星](https://ja.wikipedia.org/wiki/Category:2006年発見の太陽系外惑星 "wikilink") [Category:太陽系外地球型惑星](https://ja.wikipedia.org/wiki/Category:太陽系外地球型惑星 "wikilink") [Category:重力レンズ](https://ja.wikipedia.org/wiki/Category:重力レンズ "wikilink") [Category:OGLEによって発見された太陽系外惑星](https://ja.wikipedia.org/wiki/Category:OGLEによって発見された太陽系外惑星 "wikilink")

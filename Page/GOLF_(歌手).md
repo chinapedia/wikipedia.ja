@@ -5,7 +5,7 @@
 
 ## 人物
 
-本名はPichaya Nitipaisalkul（ピチャヤ・ニティポーサンクン）。愛称の「GOLF」は、GOLFが生まれた頃にタイでゴルフが流行り始めたことに由来する。生年月日[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（[仏暦](https://ja.wikipedia.org/wiki/仏暦 "wikilink")2530年）[2月20日](../Page/2月20日.md "wikilink")[金曜日](../Page/金曜日.md "wikilink")、身長170cm、体重54kg、[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。家族構成は父、母、兄2人（ZAN・BANK）、弟1人（[MIKE](https://ja.wikipedia.org/wiki/MIKE "wikilink")）、妹1人（YING）の7人家族である。中華系の家系である。[シベリアン・ハスキー](../Page/シベリアン・ハスキー.md "wikilink")を飼っている。
+本名はPichaya Nitipaisalkul（ピチャヤ・ニティポーサンクン）。愛称の「GOLF」は、GOLFが生まれた頃にタイでゴルフが流行り始めたことに由来する。生年月日[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（[仏暦](https://ja.wikipedia.org/wiki/仏暦 "wikilink")2530年）[2月20日](../Page/2月20日.md "wikilink")[金曜日](../Page/金曜日.md "wikilink")、身長170cm、体重54kg、[血液型](../Page/ABO式血液型.md "wikilink")[B型](../Page/ABO式血液型.md "wikilink")。家族構成は父、母、兄2人（ZAN・BANK）、弟1人（[MIKE](https://ja.wikipedia.org/wiki/MIKE "wikilink")）、妹1人（YING）の7人家族である。中華系の家系である。[シベリアン・ハスキー](../Page/シベリアン・ハスキー.md "wikilink")を飼っている。
 
 幼少時、[オーストラリア](../Page/オーストラリア.md "wikilink")の[シドニー](../Page/シドニー.md "wikilink")に住んでいた。Pirintorn Kindergarten、Coverdale Christian School、Ruamrudee International Schoolを経て、現在Mahidol University International Collegeに在学中。
 

@@ -1093,7 +1093,7 @@
 
   - GANTZ THE GAME
     [CERO](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink") 18歳以上対象
-      - 機種 - [PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")
+      - 機種 - [PlayStation 2](../Page/PlayStation_2.md "wikilink")
       - メーカー - [コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")
       - ジャンル - 3Dアクションソフト
       - [2005年](../Page/2005年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")発売

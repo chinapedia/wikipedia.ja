@@ -7,13 +7,13 @@
 
 当初、老朽化した[F-5A/B フリーダムファイターと](../Page/F-5_\(戦闘機\).md "wikilink")[F-104 スターファイター戦闘機を更新するため](../Page/F-104_\(戦闘機\).md "wikilink")、[台湾総統府はアメリカ合衆国に](../Page/中華民国.md "wikilink") [F-16戦闘機の輸入を打診したが](../Page/F-16_\(戦闘機\).md "wikilink")、[アメリカ議会が](https://ja.wikipedia.org/wiki/アメリカ合衆国議会 "wikilink")[大陸中国を刺激するとして一度これを拒否した](../Page/中華人民共和国.md "wikilink")。その代替案として、アメリカ側はF-16のダウングレード版のF-16/79（当時の最新鋭機材ゆえに輸出規制対象だった[P\&W](../Page/プラット・アンド・ホイットニー.md "wikilink") [F100ではなく](../Page/プラット・アンド・ホイットニー_F100.md "wikilink")、旧式ながら輸出実績のある[GE](../Page/ゼネラル・エレクトリック.md "wikilink") [J79にエンジンを換装](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック_J79 "wikilink")）、あるいは[F-5の後継機](https://ja.wikipedia.org/wiki/F-5_\(航空機\) "wikilink")[F-20を台湾に提案する](../Page/F-20_\(戦闘機\).md "wikilink")。しかし、これらは[空軍の要求を満たさないとして拒否され](https://ja.wikipedia.org/wiki/中華民国空軍 "wikilink")、結局、台湾は戦闘機の自主開発を決定した。開発主契約者は航空工業発展中心（、現・[漢翔航空工業](https://ja.wikipedia.org/wiki/漢翔航空工業 "wikilink")股份有限公司：AIDC）であり、またアメリカ政府のもとでアメリカ軍事産業による技術的支援に関しては容認された。その結果、F-16の開発元である[ジェネラル・ダイナミクス](../Page/ジェネラル・ダイナミクス.md "wikilink")航空機部門（現[ロッキード・マーティン](../Page/ロッキード・マーティン.md "wikilink")）をはじめ、ギャレット（現[ハネウェル](../Page/ハネウェル.md "wikilink")）や[ウェスティングハウスが開発協力することとなった](../Page/ウェスティングハウス・エレクトリック.md "wikilink")。
 
-開発は[1982年](../Page/1982年.md "wikilink")より開始され、F-16レベルの戦力を目指した。そのため、機体はどことなくF-16の雰囲気があるが、おおむね当時の各国で開発された小型戦闘機・軽戦闘機と共通したスタイルとなっている。[1988年](../Page/1988年.md "wikilink")（[民国](https://ja.wikipedia.org/wiki/中華民国暦 "wikilink")77年）、当年の年初に世を去った[蒋経国](../Page/蒋経国.md "wikilink")中華民国総統を偲んで「経国」と名づけられた。この「経国」という彼の名は魏の文帝[曹丕](../Page/曹丕.md "wikilink")の「[文章経国](https://ja.wikipedia.org/wiki/文章経国 "wikilink")」から取られており、「国を経（おさ）める」という意味もある。[1989年](../Page/1989年.md "wikilink")（民国78年）[5月28日](../Page/5月28日.md "wikilink")に初飛行を達成し、[1994年](../Page/1994年.md "wikilink")（民国83年）に軍が制式採用した。
+開発は[1982年](../Page/1982年.md "wikilink")より開始され、F-16レベルの戦力を目指した。そのため、機体はどことなくF-16の雰囲気があるが、おおむね当時の各国で開発された小型戦闘機・軽戦闘機と共通したスタイルとなっている。[1988年](../Page/1988年.md "wikilink")（[民国](https://ja.wikipedia.org/wiki/中華民国暦 "wikilink")77年）、当年の年初に世を去った[蔣経国](../Page/蔣経国.md "wikilink")中華民国総統を偲んで「経国」と名づけられた。この「経国」という彼の名は魏の文帝[曹丕](../Page/曹丕.md "wikilink")の「[文章経国](https://ja.wikipedia.org/wiki/文章経国 "wikilink")」から取られており、「国を経（おさ）める」という意味もある。[1989年](../Page/1989年.md "wikilink")（民国78年）[5月28日](../Page/5月28日.md "wikilink")に初飛行を達成し、[1994年](../Page/1994年.md "wikilink")（民国83年）に軍が制式採用した。
 
 当初は256機が生産・配備される計画であったが、その後の情勢が変わりアメリカ議会が純正F-16の輸出を許可したため、この機体の製造数は約半数の130機に減らされることとなった。また、アメリカ政府との協定により、台湾がF-CK-1を他の国や地域に輸出することは不可能である。しかし、自国での兵器開発・生産能力を保持し、外国製品を輸入する際も相手側に完全な主導権を取られない実力を得たという点で、本機の存在意義は大きかったといえる。
 
 ## 仕様
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:IDF_F-CK-1A_Single_Front_View.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:IDF_F-CK-1B_1622_Display_in_Chiayi_AFB_20120811c.jpg "wikilink") [right](https://ja.wikipedia.org/wiki/ファイル:F-CK-1_cockpit.jpg "wikilink") 経国の全体の設計は、ジェネラル・ダイナミクスが協力したこともあってF-16に類似している点が多く見られる。[ブレンデッド・ウィング・ボディ](https://ja.wikipedia.org/wiki/ブレンデッド・ウィング・ボディ "wikilink")、大型の[ストレーキ](https://ja.wikipedia.org/wiki/ストレーキ "wikilink")、[クリップド・デルタ形主翼が採用されている](https://ja.wikipedia.org/wiki/翼平面形#クリップド・デルタ翼 "wikilink")。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:IDF_F-CK-1A_Single_Front_View.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:IDF_F-CK-1B_1622_Display_in_Chiayi_AFB_20120811c.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Aircraft_over_Tainan_2.JPG "wikilink") 経国の全体の設計は、ジェネラル・ダイナミクスが協力したこともあってF-16に類似している点が多く見られる。[ブレンデッド・ウィング・ボディ](https://ja.wikipedia.org/wiki/ブレンデッド・ウィング・ボディ "wikilink")、大型の[ストレーキ](https://ja.wikipedia.org/wiki/ストレーキ "wikilink")、[クリップド・デルタ形主翼が採用されている](https://ja.wikipedia.org/wiki/翼平面形#クリップド・デルタ翼 "wikilink")。
 
 フライトコントロールはF-16と同様に[デジタル・フライ・バイ・ワイヤで](../Page/フライ・バイ・ワイヤ.md "wikilink")、操縦桿の配置もパイロットの脇に置かれるサイドスティック方式が採用されている。フラッペロン、全遊動式の[水平尾翼](../Page/水平尾翼.md "wikilink")、フルスパン前縁[フラップ](https://ja.wikipedia.org/wiki/フラップ "wikilink")など、ほかにも特徴的な点でF-16の技術を取り入れている。アメリカ議会の圧力により大推力エンジンを採用できなかったため、アメリカ企業との合弁会社によって生産されているビジネス機用の[TFE731をベースに開発したハネウェル](../Page/ハネウェル_TFE731.md "wikilink")/[インターナショナル・タービン・エンジン・カンパニー](../Page/インターナショナル・タービン・エンジン・カンパニー.md "wikilink")（ITEC） の[アフターバーナー](../Page/アフターバーナー.md "wikilink")装備型であるF125[ターボファンエンジン](../Page/ターボファンエンジン.md "wikilink") (A/B推力 41.14kN)を2基搭載し、デジタル制御により高い整備性を誇る。双発機であることもあって、エアインテークはF-16とは異なり、楕円形のものがストレーキ下に一対ある。
 
@@ -23,7 +23,7 @@
 
 ## 兵装
 
-兵装は短射程AAM（TC-1、）と、[AIM-9と](../Page/サイドワインダー_\(ミサイル\).md "wikilink")[AIM-7](../Page/スパロー_\(ミサイル\).md "wikilink")、[アジア](../Page/アジア.md "wikilink")では初めてのアクティブ・レーダー誘導の中射程AAMだった[天剣二型](../Page/TC-2_\(ミサイル\).md "wikilink")（TC-2、）を装備、[視程外距離](https://ja.wikipedia.org/wiki/空対空ミサイル#運用術 "wikilink")（BVR）戦闘も可能になっている。
+兵装は短射程AAM[天剣一型](../Page/TC-1_\(ミサイル\).md "wikilink")（TC-1、）と、[AIM-9と](../Page/サイドワインダー_\(ミサイル\).md "wikilink")[AIM-7](../Page/スパロー_\(ミサイル\).md "wikilink")、[アジア](../Page/アジア.md "wikilink")では初めてのアクティブ・レーダー誘導の中射程AAMだった[天剣二型](../Page/TC-2_\(ミサイル\).md "wikilink")（TC-2、）を装備、[視程外距離](https://ja.wikipedia.org/wiki/空対空ミサイル#運用術 "wikilink")（BVR）戦闘も可能になっている。
 
 天剣一型は[AIM-9C サイドワインダーを元に開発した国産のAAMで](../Page/サイドワインダー_\(ミサイル\).md "wikilink")、主翼両端に専用のランチャーがあり、主翼下のハードポイントにも装備できる。天剣二型は、射程や外観は同じ中射程型の[AIM-7 スパローに酷似しているが](../Page/スパロー_\(ミサイル\).md "wikilink")、ターミナル誘導にアクティブ・レーダーを使用できる点でスパローよりも優れているAAMであり、胴体下に2発装備できる。
 
@@ -33,7 +33,7 @@
 
 ## 近代化改修
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:AIDC_F-CK-1_Brave_Hawk.jpg "wikilink") F-CK-1A/Bの生産を行っていたAIDCはIDF-Cと仮称されるF-CK-1A/Bの近代化改修型を提案、空軍は2000年に70億台湾ドルの研究開発予算を計上し、「翔昇専案」の計画名で開発を開始した。主な改修点は以下の通り。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:AIDC_F-CK-1_Brave_Hawk.jpg "wikilink") [right](https://ja.wikipedia.org/wiki/ファイル:F-CK-1_cockpit.jpg "wikilink") F-CK-1A/Bの生産を行っていたAIDCはIDF-Cと仮称されるF-CK-1A/Bの近代化改修型を提案、空軍は2000年に70億台湾ドルの研究開発予算を計上し、「翔昇専案」の計画名で開発を開始した。主な改修点は以下の通り。
 
   - コクピットの表示装置をカラー液晶多機能ディスプレイへ換装
   - ミッションコンピューター換装

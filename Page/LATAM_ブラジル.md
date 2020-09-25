@@ -278,7 +278,7 @@ LATAM ブラジル　運航機材一覧\[9\]
   - [エア・カナダ](../Page/エア・カナダ.md "wikilink")
   - [ブリュッセル航空](../Page/ブリュッセル航空.md "wikilink")
   - [オーストリア航空](../Page/オーストリア航空.md "wikilink")
-  - [深圳航空](https://ja.wikipedia.org/wiki/深圳航空 "wikilink")
+  - [深圳航空](../Page/深圳航空.md "wikilink")
   - [南アフリカ航空](../Page/南アフリカ航空.md "wikilink")
   - [シンガポール航空](../Page/シンガポール航空.md "wikilink")
   - [トルコ航空](https://ja.wikipedia.org/wiki/トルコ航空 "wikilink")

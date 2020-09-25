@@ -1,7 +1,7 @@
 > この記事は[ストリートファイターZERO ファイターズ ジェネレーション](https://ja.wikipedia.org/wiki/ストリートファイターZERO_ファイターズ_ジェネレーション)から翻訳されています。
 
 
-『**ストリートファイターZERO ファイターズジェネレーション**』 (*STREET FIGHTER ZERO Fighter's Generation*) は[カプコン](../Page/カプコン.md "wikilink")より発売された[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")『[ストリートファイターZERO](../Page/ストリートファイターZERO.md "wikilink")』シリーズ4作品と『[ポケットファイター](../Page/ポケットファイター.md "wikilink")』を1枚の[DVD-ROM](https://ja.wikipedia.org/wiki/DVD-ROM "wikilink")に収録した[PlayStation 2専用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。
+『**ストリートファイターZERO ファイターズジェネレーション**』 (*STREET FIGHTER ZERO Fighter's Generation*) は[カプコン](../Page/カプコン.md "wikilink")より発売された[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")『[ストリートファイターZERO](../Page/ストリートファイターZERO.md "wikilink")』シリーズ4作品と『[ポケットファイター](../Page/ポケットファイター.md "wikilink")』を1枚の[DVD-ROM](https://ja.wikipedia.org/wiki/DVD-ROM "wikilink")に収録した[PlayStation 2専用](../Page/PlayStation_2.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。
 
 日本では[2006年](../Page/2006年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")に発売され、[2007年](../Page/2007年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink")には[廉価版](../Page/廉価版.md "wikilink")「**Best Price\!**」として再登場した。日本国外版のタイトルは『*Street Fighter Alpha Anthology*』。
 

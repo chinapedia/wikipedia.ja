@@ -15,7 +15,7 @@
   - 「情熱の影-Silhouette-」は後に清春の15周年アルバム『[shade〜saw the light & shade〜](https://ja.wikipedia.org/wiki/shade〜saw_the_light_&_shade〜 "wikilink")』に再録され収録された。
   - 「解凍実験」は後に18thシングル「[Reverb](https://ja.wikipedia.org/wiki/Reverb_\(黒夢の曲\) "wikilink")」のCD ONLY盤に「解凍実験 (2014 NEW RECORDING)」として再録され収録された。
   - 「カマキリ」はライブの定番ナンバー。当時所属していた[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink")を皮肉った楽曲で、歌詞中の「Easy Money Island」はEMIの頭文字からとったものである。後に10thシングル「[Spray](../Page/Spray.md "wikilink")」にアレンジバージョンの「カマキリ -1997 BURST VERSION-」が収録された。
-  - 「Happy Birthday」は、のちにソロ名義で発売された黒夢のセルフカバーアルバムに収録されている。
+  - 「Happy Birthday」は清春名義で発売された黒夢時代の楽曲をセルフカバーしたアルバム「MEDLEY」に再録され収録された。
 
 ## 収録曲
 

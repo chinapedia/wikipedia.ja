@@ -55,7 +55,7 @@
   - [拳鋼少女リク](https://ja.wikipedia.org/wiki/拳鋼少女リク "wikilink")（[弐篠重太郎](https://ja.wikipedia.org/wiki/弐篠重太郎 "wikilink")）
   - [源流武闘伝 -ORIGIN-](https://ja.wikipedia.org/wiki/源流武闘伝_-ORIGIN- "wikilink")（[フカキショウコ](https://ja.wikipedia.org/wiki/フカキショウコ "wikilink")）
   - [ことこと。 〜子と孤島〜](https://ja.wikipedia.org/wiki/ことこと。_〜子と孤島〜 "wikilink")（[竹林月](../Page/竹林月.md "wikilink")）
-  - [THE ポッシボー 〜ロビンと魔法のエプロン〜](https://ja.wikipedia.org/wiki/THE_ポッシボー_〜ロビンと魔法のエプロン〜 "wikilink")（[野中友](https://ja.wikipedia.org/wiki/野中友 "wikilink") 原案：[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink") 原作：[安達元一](../Page/安達元一.md "wikilink")）
+  - [THE ポッシボー 〜ロビンと魔法のエプロン〜](https://ja.wikipedia.org/wiki/THE_ポッシボー_〜ロビンと魔法のエプロン〜 "wikilink")（[野中友](../Page/野中友.md "wikilink") 原案：[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink") 原作：[安達元一](../Page/安達元一.md "wikilink")）
   - [白球少女](https://ja.wikipedia.org/wiki/白球少女 "wikilink")（[山崎毅宜](https://ja.wikipedia.org/wiki/山崎毅宜 "wikilink")）
   - [神羅万送デリバリア](../Page/神羅万送デリバリア.md "wikilink")（[こやま基夫](../Page/こやま基夫.md "wikilink")）
   - [すいへーりーべ\!](../Page/すいへーりーべ!.md "wikilink")（[吾妻ナオミ](https://ja.wikipedia.org/wiki/MINCE_PIE "wikilink")）

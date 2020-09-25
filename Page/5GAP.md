@@ -1,13 +1,13 @@
 > この記事は[5GAP](https://ja.wikipedia.org/wiki/5GAP)から翻訳されています。
 
 
-**5GAP**（ファイブギャップ）は[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")に所属する[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")である。[東京NSC](../Page/吉本総合芸能学院.md "wikilink")5期生。
+**5GAP**（ファイブギャップ）は、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")に所属する[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")である。[東京NSC](../Page/吉本総合芸能学院.md "wikilink")5期生。
 
 コンビ名の由来は二人の年齢差が5つであることから。主に[コント](../Page/コント.md "wikilink")を行い、「ホワイト赤マン」のキャラが有名。初期は忍者コントをやっていた。
 
 ## メンバー
 
-  - **秋本智仁** （あきもと ともひと、 - ）
+  - **秋本 智仁** （あきもと ともひと、 - ）
 
 <!-- end list -->
 
@@ -24,7 +24,7 @@
 
 <!-- end list -->
 
-  - **久保田賢治** （くぼた けんじ、 - ）
+  - **久保田 賢治** （くぼた けんじ、 - ）
 
 <!-- end list -->
 
@@ -53,6 +53,7 @@
   - 2014年 キングオブコント準決勝進出
   - 2014年 日本かばん協会かばんNO.1コンペティション2014優勝（[エース（株）ProtecA](../Page/エース_\(鞄\).md "wikilink") STARIA EX × 金の卵芸人5GAP）
   - 2014年 [おはスタ](../Page/おはスタ.md "wikilink")初代ダジャ1王者
+  - 2020年 キングオブコント準決勝進出
 
 ## 出演番組
 

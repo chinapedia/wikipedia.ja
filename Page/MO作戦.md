@@ -1,7 +1,7 @@
 > この記事は[MO作戦](https://ja.wikipedia.org/wiki/MO作戦)から翻訳されています。
 
 
-**MO作戦**（MOさくせん）とは、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に日本軍が計画したポートモレスビー攻略作戦。「モ号作戦」とも言う\[1\]。[珊瑚海海戦](../Page/珊瑚海海戦.md "wikilink")の結果、中止された。
+**MO作戦**（MOさくせん）とは、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に日本軍が計画したポートモレスビー攻略作戦。別名は「モ号作戦」\[1\]。[珊瑚海海戦](../Page/珊瑚海海戦.md "wikilink")の結果、中止された。
 
 ## 計画内容
 

@@ -50,7 +50,7 @@
       -
         これまでのライブでは、後半の起爆剤だった。日替わりで、「ZERO」が演奏されており、アルバムツアーでは『[B'z LIVE-GYM 2002 "GREEN 〜GO★FIGHT★WIN〜"](../Page/A_BEAUTIFUL_REEL._B'z_LIVE-GYM_2002_GREEN_〜GO★FIGHT★WIN〜.md "wikilink")』以来、4年振りの演奏となった。
         イントロは冒頭部分が省略された。また、序盤での演奏のため、恒例の[コール&レスポンス](https://ja.wikipedia.org/wiki/コール&レスポンス "wikilink")はない。
-3.  **[ピエロ](https://ja.wikipedia.org/wiki/ピエロ_\(B'zの曲\) "wikilink")**
+3.  **[ピエロ](../Page/ピエロ_\(B'zの曲\).md "wikilink")**
       -
         演奏前の「B'zのLIVE-GYMにようこそ！」も日替わりで3パターン用意されていた。
 4.  **[ネテモサメテモ](https://ja.wikipedia.org/wiki/MONSTER_\(アルバム\)#収録曲 "wikilink")**

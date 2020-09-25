@@ -1,7 +1,7 @@
 > この記事は[KAIDO-峠の伝説-](https://ja.wikipedia.org/wiki/KAIDO-峠の伝説-)から翻訳されています。
 
 
-『**KAIDO-峠の伝説-**』（かいどう とうげのでんせつ）は、[元気](https://ja.wikipedia.org/wiki/元気 "wikilink")株式会社が[2005年](../Page/2005年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")に発売した[PlayStation 2用レースゲームである](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+『**KAIDO-峠の伝説-**』（かいどう とうげのでんせつ）は、[元気](https://ja.wikipedia.org/wiki/元気 "wikilink")株式会社が[2005年](../Page/2005年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")に発売した[PlayStation 2用レースゲームである](../Page/PlayStation_2.md "wikilink")。
 
 ## 概要
 

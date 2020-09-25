@@ -13,7 +13,7 @@
 
   - 木星探査機[ガリレオの姿勢制御コンピュータやNASA製航空機で使われた](../Page/ガリレオ_\(探査機\).md "wikilink") [Itek](https://ja.wikipedia.org/wiki/:en:Itek "wikilink") Advanced Technology Airborne Computer (ATAC)。Am2900ファミリを使った16ビットで16本のレジスタを持つコンピュータである。ガリレオに搭載されたATACには4つの特殊な命令が追加され、2901の放射線耐性を強化したバージョンも使われた\[6\]。
 
-  - [データゼネラル Nova 4](https://ja.wikipedia.org/wiki/データゼネラルNova "wikilink"): Am2901 [ALUを並列に構成して](https://ja.wikipedia.org/wiki/演算論理装置 "wikilink")16ビットワードを扱えるようにしていた。基板には15個の Am2901 ALU が搭載されたものもある\[7\]。
+  - [データゼネラル Nova 4](../Page/データゼネラルNova.md "wikilink"): Am2901 [ALUを並列に構成して](https://ja.wikipedia.org/wiki/演算論理装置 "wikilink")16ビットワードを扱えるようにしていた。基板には15個の Am2901 ALU が搭載されたものもある\[7\]。
 
   - [DEC](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink") [PDP-11](../Page/PDP-11.md "wikilink")の機種 PDP-11/23、PDP-11/34、PDP-11/44 の浮動小数点オプション（それぞれ FPF11、FP11-A、FP11-F）\[8\]\[9\]
 
@@ -49,13 +49,13 @@
 
   - 多くのSiemens TelepermとS5 PLCは、産業用制御で使用され、2900シリーズを使用して構築された。
 
-  - [AT\&T](../Page/AT&T.md "wikilink") [3B20D](https://ja.wikipedia.org/wiki/3Bシリーズ_\(コンピュータ\) "wikilink") : 通信制御用の多重化された高可用性プロセッサで、4個のAMD 2901を用いた\[21\]。
+  - [AT\&T](../Page/AT&T.md "wikilink") [3B20D](../Page/3Bシリーズ_\(コンピュータ\).md "wikilink") : 通信制御用の多重化された高可用性プロセッサで、4個のAMD 2901を用いた\[21\]。
 
   - Metheus / Barco Omega 400および500シリーズのグラフィックシステム: 1982年のディスプレイプロセッサで、4つのAm2901チップ(および8個のマイクロコードPROM)が使用された。
 
   - [Geac Computer Corporation](https://ja.wikipedia.org/wiki/:en:Geac_Computer_Corporation "wikilink") 2000, 6000, 8000, 9000はすべて4個のAM2901チップをベースとした。2000は薬局で、その他のモデルは図書館、銀行、保険の自動化に使用された。
 
-  - [Ferranti Argus 700](https://ja.wikipedia.org/wiki/:en:Ferranti_Argus#Argus%20600%20and%20700 "wikilink") (700F、700G): AM2901デバイスが使用され、A700の周辺チャネルコントローラの一部ではハードドライブやフロッピードライブなどに使用された。
+  - [Ferranti Argus 700](https://ja.wikipedia.org/wiki/:en:Ferranti_Argus#Argus_600_and_700 "wikilink") (700F、700G): AM2901デバイスが使用され、A700の周辺チャネルコントローラの一部ではハードドライブやフロッピードライブなどに使用された。
 
   - [High Level Hardware Limited Orion](https://ja.wikipedia.org/wiki/:en:HLH_Orion "wikilink"): Unixが動作するユーザ・マイクロコード可能なミニコンピュータ。書き込み可能なマイクロコードで、命令セットを再定義してカスタマイズできた\[22\]。
 

@@ -78,7 +78,7 @@
 1.
 2.  近藤康太郎はこの作品が[夢野久作](../Page/夢野久作.md "wikilink")の『[ドグラ・マグラ](../Page/ドグラ・マグラ.md "wikilink")』と似ていると指摘している（[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")2014年7月19日be）。
 3.
-4.  2018年10月27日に行われた第31回東京国際映画祭のインタビューより[1](https://www.youtube.com/watch?v=5hIbgSppWuI)。
+4.
 5.
 6.
 7.

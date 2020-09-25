@@ -137,7 +137,7 @@
 </tbody>
 </table>
 
-『**咲-Saki-**』（さき）は、[小林立](../Page/小林立.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[麻雀漫画](../Page/麻雀漫画.md "wikilink")。主人公を含めた多くの主要登場人物は[女子高生](../Page/女子高生.md "wikilink")。[麻雀](../Page/麻雀.md "wikilink")がより社会に浸透した架空の世界で、主人公たちは競技会に参加するなどして腕を競い合う。[2006年](../Page/2006年.md "wikilink")より雑誌連載が開始され、[2020年](../Page/2020年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")現在も連載中。
+『**咲-Saki-**』（さき）は、[小林立](../Page/小林立.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[麻雀漫画](../Page/麻雀漫画.md "wikilink")。主人公を含めた多くの主要登場人物は[女子高生](../Page/女子高生.md "wikilink")。[麻雀](../Page/麻雀.md "wikilink")がより社会に浸透した架空の世界で、主人公たちは競技会に参加するなどして腕を競い合う。[2006年](../Page/2006年.md "wikilink")より雑誌連載が開始され、[2020年](../Page/2020年.md "wikilink")[9月](../Page/9月.md "wikilink")現在も連載中。
 
 ## 概要
 
@@ -284,23 +284,23 @@
 
 ### 咲reの主な登場人物
 
-  - 宮永 咲（みやなが さき）
+  - 宮長 咲基（みやなが さき）
 
 <!-- end list -->
 
-  - 原村 和（はらむら のどか）
+  - 原邑 和加（はらむら のどか）
 
 <!-- end list -->
 
-  - 片岡 優希（かたおか ゆうき）
+  - 片丘 優季（かたおか ゆうき）
 
 <!-- end list -->
 
-  - 竹井 久（たけい ひさ）
+  - 竹居 久史（たけい ひさし）
 
 <!-- end list -->
 
-  - 染谷 まこ（そめや まこ）
+  - 染屋 真工（そめや まこう）
 
 ## 作中での競技ルール
 

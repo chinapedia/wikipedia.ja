@@ -1,7 +1,7 @@
 > この記事は[サクラ大戦V EPISODE 0〜荒野のサムライ娘〜](https://ja.wikipedia.org/wiki/サクラ大戦V_EPISODE_0〜荒野のサムライ娘〜)から翻訳されています。
 
 
-『**サクラ大戦V EPISODE 0〜荒野のサムライ娘〜**』（サクラたいせんふぁいぶ えぴそーどぜろ こうやのサムライむすめ）は、[株式会社セガ](https://ja.wikipedia.org/wiki/株式会社セガ "wikilink")が[2004年](../Page/2004年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")に発売した[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。日本語、中国語、韓国語版が同時発売された\[1\]。
+『**サクラ大戦V EPISODE 0〜荒野のサムライ娘〜**』（サクラたいせんふぁいぶ えぴそーどぜろ こうやのサムライむすめ）は、[株式会社セガ](https://ja.wikipedia.org/wiki/株式会社セガ "wikilink")が[2004年](../Page/2004年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")に発売した[PlayStation 2用ゲームソフト](../Page/PlayStation_2.md "wikilink")。日本語、中国語、韓国語版が同時発売された\[1\]。
 
 ## 概要
 
@@ -15,7 +15,7 @@
 
 ## 登場人物
 
-詳細は[サクラ大戦シリーズの登場人物](https://ja.wikipedia.org/wiki/サクラ大戦シリーズの登場人物 "wikilink")、ジェミニとラリーのみ[紐育華撃団\#ジェミニ・サンライズ](https://ja.wikipedia.org/wiki/紐育華撃団#ジェミニ・サンライズ "wikilink")を参照。
+詳細は[サクラ大戦シリーズの登場人物](../Page/サクラ大戦シリーズの登場人物.md "wikilink")、ジェミニとラリーのみ[紐育華撃団\#ジェミニ・サンライズ](https://ja.wikipedia.org/wiki/紐育華撃団#ジェミニ・サンライズ "wikilink")を参照。
 
 ## ゲームシステム
 

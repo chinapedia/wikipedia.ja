@@ -9,7 +9,7 @@
   - 歌詞カードの各ページも、白のほかにパステル調の5色（青・緑・黄・橙・紫）によるシルクのカーテンを基調にしている。
   - アルバムのキャッチコピーは「戦後最大のポップアルバム」である。
   - 当初は[ベストアルバムとして企画が上がったこともあり](../Page/ベスト・アルバム.md "wikilink")、アルバム未収録だったシングル「[BELIEVE](../Page/BELIEVE_\(渡辺美里の曲\).md "wikilink")」を新録する予定であったが、リマスターしたのち「Remix Version」という表記で収録された。
-  - 「10 years」は[大江千里が](../Page/大江千里_\(アーティスト\).md "wikilink")[2003年](../Page/2003年.md "wikilink")にリリースしたアルバム『[home at last〜Senri Sings Senri〜](https://ja.wikipedia.org/wiki/home_at_last〜Senri_Sings_Senri〜 "wikilink")』にて[セルフカバー](../Page/セルフカバー.md "wikilink")している。
+  - 「[10 years](https://ja.wikipedia.org/wiki/君の弱さ/10_years "wikilink")」は[大江千里が](../Page/大江千里_\(アーティスト\).md "wikilink")[2003年](../Page/2003年.md "wikilink")にリリースしたアルバム『[home at last〜Senri Sings Senri〜](https://ja.wikipedia.org/wiki/home_at_last〜Senri_Sings_Senri〜 "wikilink")』にて[セルフカバー](../Page/セルフカバー.md "wikilink")している。
   - 発売から30周年を記念して、[2018年](../Page/2018年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")に『**ribbon -30th Anniversary Edition-**』と題してリリースされた。
 
 {{-}}

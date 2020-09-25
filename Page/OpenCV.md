@@ -5,7 +5,7 @@
 
 ## 概要
 
-[画像処理](../Page/画像処理.md "wikilink")・画像解析および[機械学習](../Page/機械学習.md "wikilink")等の機能を持つ[C](../Page/C言語.md "wikilink")/[C++](../Page/C++.md "wikilink")、[Java](https://ja.wikipedia.org/wiki/Java "wikilink")、[Python](../Page/Python.md "wikilink")、[MATLAB](../Page/MATLAB.md "wikilink")用ライブラリ\[4\]。[プラットフォームとして](../Page/プラットフォーム_\(コンピューティング\).md "wikilink")[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")や[FreeBSD](../Page/FreeBSD.md "wikilink")等全ての[POSIX](../Page/POSIX.md "wikilink")に準拠した[Unix系](../Page/Unix系.md "wikilink")[OS](../Page/オペレーティングシステム.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Android](../Page/Android.md "wikilink")、[iOS等をサポートしている](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")。
+[画像処理](../Page/画像処理.md "wikilink")・画像解析および[機械学習](../Page/機械学習.md "wikilink")等の機能を持つ[C](../Page/C言語.md "wikilink")/[C++](../Page/C++.md "wikilink")、[Java](https://ja.wikipedia.org/wiki/Java "wikilink")、[Python](../Page/Python.md "wikilink")、[MATLAB](../Page/MATLAB.md "wikilink")用ライブラリ\[4\]。[プラットフォームとして](../Page/プラットフォーム_\(コンピューティング\).md "wikilink")[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")や[FreeBSD](../Page/FreeBSD.md "wikilink")等全ての[POSIX](../Page/POSIX.md "wikilink")に準拠した[Unix系](../Page/Unix系.md "wikilink")[OS](../Page/オペレーティングシステム.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")、[iOS等をサポートしている](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")。
 
 ## 歴史
 

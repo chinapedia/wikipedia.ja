@@ -9,7 +9,7 @@
 
 小室が1994年2月に休暇で[インドネシア](../Page/インドネシア.md "wikilink")に行き、現地で録音した[舞台芸術](../Page/舞台芸術.md "wikilink")[ケチャ](../Page/ケチャ.md "wikilink")の集団のコーラスをエンディング部分で使用しているほか、[パーカッショニスト](https://ja.wikipedia.org/wiki/パーカッショニスト "wikilink")の[仙波清彦](../Page/仙波清彦.md "wikilink")による[和楽器](../Page/和楽器.md "wikilink")の演奏を取り入れるなど民族音楽が融合している\[2\]。[1994年](../Page/1994年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")の『[第45回NHK紅白歌合戦](../Page/第45回NHK紅白歌合戦.md "wikilink")』にはこの曲で初出場を果たし、トップバッターを務めた。
 
-当時設立されたばかりの小室のプライベートスタジオ「[TK SEQUENCE](https://ja.wikipedia.org/wiki/TK_state "wikilink")」で一番最初に作られた曲である\[3\]。
+当時設立されたばかりの小室のプライベートスタジオ「[TK SEQUENCE](https://ja.wikipedia.org/wiki/TK_state "wikilink")」で最初に作られた曲である\[3\]。
 
 小室哲哉がそれまで作曲してきた曲で「一番苦労して完成した曲」と語っている。完成するまで1か月かかったとのこと。
 
@@ -43,20 +43,20 @@
 
 ## 収録曲
 
-全作詞・作曲・編曲：[TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
+全作詞・作曲：[TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")、編曲：ピート・ハモンド・スティーブ・ハモンド\[6\]
 
 1.  **BOY MEETS GIRL \[RADIO ON AIR MIX\]**
       -
-        「大陸の果てしなく大きな存在感」をイメージさせるようにした\[6\]。
+        「大陸の果てしなく大きな存在感」をイメージさせるようにした\[7\]。
 2.  **BOY MEETS GIRL \[DANCE 12″MIX\]**
       -
-        「12」はディスコで使用される[LP盤を意味し](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")、ダンスシーンを意識したミックス\[7\]。
+        「12」はディスコで使用される[LP盤を意味し](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")、ダンスシーンを意識したミックス\[8\]。
 3.  **BOY MEETS GIRL \[TRIBAL MIX “JAPANESE TRADITIONAL”\]**
       -
-        和楽器の[オーバー・ダビング](../Page/オーバー・ダビング.md "wikilink")を原曲より更に重ねている。アレンジは「[トライバル・ハウス](https://ja.wikipedia.org/wiki/トライバル・ハウス "wikilink")」「民族的な祭典で使われる音楽」を意識した\[8\]。
+        和楽器の[オーバー・ダビング](../Page/オーバー・ダビング.md "wikilink")を原曲より更に重ねている。アレンジは「[トライバル・ハウス](https://ja.wikipedia.org/wiki/トライバル・ハウス "wikilink")」「民族的な祭典で使われる音楽」を意識した\[9\]。
 4.  **BOY MEETS GIRL \[TWILIGHT MIX “TRIBUTE TO AYRTON SENNA”\]**
       -
-        [アイルトン・セナ](../Page/アイルトン・セナ.md "wikilink")に捧げている\[9\]。
+        [アイルトン・セナ](../Page/アイルトン・セナ.md "wikilink")に捧げている\[10\]。
 
 ## 脚注
 
@@ -71,7 +71,8 @@
 3.
 4.  [DJ KOO激白！小室哲哉のglobe参加に「正直、嫉妬はあった」](http://news.walkerplus.com/article/72161/)より。
 5.
-6.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』1994年7月号102Pより。
-7.
+6.
+7.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』1994年7月号「『BOY MEETS GIRL』セルフライナーノーツ」102Pより。
 8.
 9.
+10.

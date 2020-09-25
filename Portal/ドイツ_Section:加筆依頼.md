@@ -119,7 +119,7 @@
     [リートベルク伯領](https://ja.wikipedia.org/wiki/リートベルク伯領 "wikilink")（[en](https://ja.wikipedia.org/wiki/:en:County_of_Rietberg "wikilink")）
     [リューデスハイム (オイスキルヒェン)](https://ja.wikipedia.org/wiki/リューデスハイム_\(オイスキルヒェン\) "wikilink")([de](https://ja.wikipedia.org/wiki/:de:Rüdesheim_\(Euskirchen\) "wikilink"))
     [リューデスハイム (ナーエ)](https://ja.wikipedia.org/wiki/リューデスハイム_\(ナーエ\) "wikilink")([de](https://ja.wikipedia.org/wiki/:de:Rüdesheim_\(Nahe\) "wikilink"))
-    [リューデンシャイト](https://ja.wikipedia.org/wiki/リューデンシャイト "wikilink")（[en](https://ja.wikipedia.org/wiki/:en:Lüdenscheid "wikilink")）
+    [リューデンシャイト](../Page/リューデンシャイト.md "wikilink")（[en](https://ja.wikipedia.org/wiki/:en:Lüdenscheid "wikilink")）
     [レンツブルク](https://ja.wikipedia.org/wiki/レンツブルク "wikilink")([de](https://ja.wikipedia.org/wiki/:de:Rendsburg "wikilink"))
     [レンティング](https://ja.wikipedia.org/wiki/レンティング "wikilink")（[de](https://ja.wikipedia.org/wiki/:de:Lenting "wikilink")）
 
@@ -275,7 +275,7 @@
     [国民学校 (ドイツ)](https://ja.wikipedia.org/wiki/国民学校_\(ドイツ\) "wikilink")([:de:Volksschule](https://ja.wikipedia.org/wiki/:de:Volksschule "wikilink")、[国民学校](../Page/国民学校.md "wikilink")の言語間リンクの修正も。)
     [小鳥の結婚式](https://ja.wikipedia.org/wiki/小鳥の結婚式 "wikilink")([:de:Vogelhochzeit](https://ja.wikipedia.org/wiki/:de:Vogelhochzeit "wikilink")）
     [ジークルーン](https://ja.wikipedia.org/wiki/ジークルーン "wikilink")（[de](https://ja.wikipedia.org/wiki/:de:Siegrune "wikilink")）
-    [シュテルン (雑誌)](https://ja.wikipedia.org/wiki/シュテルン_\(雑誌\) "wikilink")（[en](https://ja.wikipedia.org/wiki/:en:Stern_\(magazine\) "wikilink")）
+    [シュテルン (雑誌)](../Page/シュテルン_\(雑誌\).md "wikilink")（[en](https://ja.wikipedia.org/wiki/:en:Stern_\(magazine\) "wikilink")）
     [ジャーマン・ディアスポラ](https://ja.wikipedia.org/wiki/ジャーマン・ディアスポラ "wikilink")（[en](https://ja.wikipedia.org/wiki/:en:German_diaspora "wikilink")）
     [タラールの下には千年来のカビ](https://ja.wikipedia.org/wiki/タラールの下には千年来のカビ "wikilink")（[de](https://ja.wikipedia.org/wiki/:de:Unter_den_Talaren_–_Muff_von_1000_Jahren "wikilink")）
     [ドイツ系ロシア人](../Page/ドイツ系ロシア人.md "wikilink")([en](https://ja.wikipedia.org/wiki/:en:History_of_Germans_in_Russia,_Ukraine_and_the_Soviet_Union "wikilink"))

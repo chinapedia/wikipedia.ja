@@ -59,7 +59,7 @@
 
   - [来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink") - 「[夢の途中](https://ja.wikipedia.org/wiki/夢の途中_\(来生たかおのアルバム\) "wikilink")」
   - [ザ・キングトーンズ](https://ja.wikipedia.org/wiki/ザ・キングトーンズ "wikilink") - 「[グッド・ナイト・ベイビー](https://ja.wikipedia.org/wiki/グッド・ナイト・ベイビー "wikilink")」
-  - [尾崎紀世彦](https://ja.wikipedia.org/wiki/尾崎紀世彦 "wikilink") - 「[また逢う日まで](../Page/また逢う日まで_\(尾崎紀世彦の曲\).md "wikilink")」
+  - [尾崎紀世彦](../Page/尾崎紀世彦.md "wikilink") - 「[また逢う日まで](../Page/また逢う日まで_\(尾崎紀世彦の曲\).md "wikilink")」
   - [欧陽菲菲](../Page/欧陽菲菲.md "wikilink") - 「[ラヴ・イズ・オーヴァー](https://ja.wikipedia.org/wiki/ラヴ・イズ・オーヴァー "wikilink")」
   - [もんた&ブラザース](https://ja.wikipedia.org/wiki/もんたよしのり "wikilink") - 「[ダンシング・オールナイト](../Page/ダンシング・オールナイト.md "wikilink")」
   - [加藤登紀子](../Page/加藤登紀子.md "wikilink") - 「ひとり寝の子守唄」

@@ -11,6 +11,8 @@
 
 [字幕放送](https://ja.wikipedia.org/wiki/字幕放送 "wikilink")は2013年4月7日放送分から開始された。[2015年](../Page/2015年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")に放送された回を最後として一旦終了し、[4月12日](../Page/4月12日.md "wikilink")から「**[新・BS日本のうた](https://ja.wikipedia.org/wiki/新・BS日本のうた "wikilink")**」としてリニューアルされた。
 
+[チャンネル銀河](../Page/チャンネル銀河.md "wikilink")で再放送されている。
+
 ## 司会
 
 いずれもNHKの男性アナウンサーが務めた。宮本のみ現在フリー、他は現職。

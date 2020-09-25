@@ -15,7 +15,7 @@
 
   - [ICS犀生国際大学A棟302号](https://ja.wikipedia.org/wiki/ICS犀生国際大学A棟302号 "wikilink")（『[月刊ウィングス](../Page/ウィングス_\(雑誌\).md "wikilink")』2003年1月号 - 2005年4月号） - 原案：[真山柚子](https://ja.wikipedia.org/wiki/真山柚子 "wikilink")、ドラマCDの[コミカライズ](https://ja.wikipedia.org/wiki/漫画化 "wikilink")
   - [GGBG\!](../Page/デ・ジ・キャラット.md "wikilink")（『[季刊デ・ジ・キャラット](../Page/コミデジ+.md "wikilink")』2003年春号 - 2004年夏号→『[コミックデ・ジ・キャラット](https://ja.wikipedia.org/wiki/コミックデ・ジ・キャラット "wikilink")』Vol.1（2004年10月） - Vol.7（2005年10月）→『[コミデジ](https://ja.wikipedia.org/wiki/コミデジ "wikilink")』Vol.1（2005年12月））
-  - [あさっての方向。](../Page/あさっての方向。.md "wikilink")（『[コミックブレイドMASAMUNE](../Page/コミックブレイドMASAMUNE.md "wikilink")』2003年秋号 - 2007年初夏号）
+  - [あさっての方向。](../Page/あさっての方向。.md "wikilink")\[10\]（『[コミックブレイドMASAMUNE](../Page/コミックブレイドMASAMUNE.md "wikilink")』2003年秋号 - 2007年初夏号）
       - 番外編（『[コミックブレイドZEBEL](../Page/コミックブレイドZEBEL.md "wikilink")』Vol.3（2006年3月） - Vol.6（2007年5月）、『[月刊コミックブレイド](../Page/月刊コミックブレイド.md "wikilink")』2006年7月号、12月号）
   - [さくら＊アパートメント](https://ja.wikipedia.org/wiki/さくら＊アパートメント "wikilink")（『[月刊Asuka](../Page/月刊Asuka.md "wikilink")』2005年7月号 - 12月号） - 未単行本化
   - [マジナ\!](https://ja.wikipedia.org/wiki/マジナ! "wikilink")（『[comic SYLPH](../Page/シルフ_\(雑誌\).md "wikilink")』Vol.5（2007年12月） - Vol.6（2008年3月）→『[シルフ](../Page/シルフ_\(雑誌\).md "wikilink")』Vol.1（2008年5月） - 2010年11月号） - 企画&原案：[EDEN'S NOTES](https://ja.wikipedia.org/wiki/EDEN'S_NOTES "wikilink")
@@ -90,3 +90,4 @@
 7.
 8.
 9.
+10.

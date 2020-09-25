@@ -5,7 +5,7 @@
 
 ## 来歴
 
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")　福村が雑誌にメンバー募集を出してLucy Van Peltを結成。バンド名は漫画『[PEANUTS](https://ja.wikipedia.org/wiki/ピーナッツ_\(漫画\) "wikilink")』の登場人物名から取った。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")　福村が雑誌にメンバー募集を出してLucy Van Peltを結成。バンド名は漫画『[PEANUTS](../Page/ピーナッツ_\(漫画\).md "wikilink")』の登場人物名から取った。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")　1枚目のアルバム『in Harmony』をGOD'S POP recordsより発売。直後に坂本が脱退。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")　シングル「シトラス e.p.」で[東芝EMIよりメジャーデビュー](../Page/EMIミュージック・ジャパン.md "wikilink")。同時にバンド名を（原作者から物言いが付いた事もあって）現在の「advantage Lucy」に変更。
   - [1999年](../Page/1999年.md "wikilink")　福村が脱退。
@@ -286,7 +286,7 @@ QIAG-70082</p></td>
 <li>Nico</li>
 <li>Red bicycle</li>
 </ol></td>
-<td><p>Lucy Van Pelt名義</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>

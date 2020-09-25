@@ -64,6 +64,7 @@ TBSテレビの略称が「TBS」\[1\]、TBSラジオの略称が「TBS R」\[2\
 
   - [JNN web](https://www.tbs.co.jp/jnn/)
   - [JRN](https://www.tbsradio.jp/jrn/)
+  - [TBS](https://www.themoviedb.org/network/160-tbs) - [TMDb](https://ja.wikipedia.org/wiki/TMDb "wikilink")
 
 [Category:TBSグループ](https://ja.wikipedia.org/wiki/Category:TBSグループ "wikilink") [Category:TBSテレビ](https://ja.wikipedia.org/wiki/Category:TBSテレビ "wikilink") [Category:TBSラジオ](https://ja.wikipedia.org/wiki/Category:TBSラジオ "wikilink")
 

@@ -121,7 +121,7 @@ SD誕生において、横井は漫画家　成井紀郎、江口寿史、鳥山
       - 「SDガンダム GGENERATION ギャザービート2」（WS）2001年
       - 「SDガンダム GGENERATION モノアイガンダムズ」（WS）[2002年](../Page/2002年.md "wikilink")
       - 「SDガンダム GGENERATION-DA」（PC）2002年
-      - 「SDガンダム GGENERATION NEO」（[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）2002年
+      - 「SDガンダム GGENERATION NEO」（[PS2](../Page/PlayStation_2.md "wikilink")）2002年
       - 「SDガンダム GGENERATION ADVANCE」（[GBA](../Page/ゲームボーイアドバンス.md "wikilink")）[2003年](../Page/2003年.md "wikilink")
       - 「SDガンダム GGENERATION SEED」（PS2）[2004年](../Page/2004年.md "wikilink")
       - 「SDガンダム GGENERATION DS」（[DS](../Page/ニンテンドーDS.md "wikilink")）[2005年](../Page/2005年.md "wikilink")

@@ -339,167 +339,175 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><strong>3</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大原彰輝" title="wikilink">大原彰輝</a></p></td>
+<td><p><a href="../Page/水戸ホーリーホック.md" title="wikilink">水戸ホーリーホック</a></p></td>
+<td><p>新加入<br />
+育成型期限付き移籍</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><strong>4</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/榎本滉大" title="wikilink">榎本滉大</a></p></td>
 <td><p><a href="../Page/VONDS市原.md" title="wikilink">VONDS市原</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>6</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/村上巧" title="wikilink">村上巧</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロアッソ熊本" title="wikilink">ロアッソ熊本</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>13</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/瓜生紘大" title="wikilink">瓜生紘大</a></p></td>
 <td><p>MIOびわこ滋賀</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>15</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/萩原大河" title="wikilink">萩原大河</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本体育大学学友会サッカー部" title="wikilink">日本体育大学</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>25</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/戸田拓海" title="wikilink">戸田拓海</a></p></td>
 <td><p><a href="../Page/大阪産業大学.md" title="wikilink">大阪産業大学</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>29</strong></p></td>
 <td><p><a href="../Page/福田健介.md" title="wikilink">福田健介</a></p></td>
 <td><p><a href="../Page/栃木SC.md" title="wikilink">栃木SC</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>30</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/清水良平" title="wikilink">清水良平</a></p></td>
 <td><p>大阪産業大学</p></td>
 <td><p>コーチ兼任</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>34</strong></p></td>
 <td><p><a href="../Page/尾本敬.md" title="wikilink">尾本敬</a></p></td>
 <td><p><a href="../Page/ブラウブリッツ秋田.md" title="wikilink">ブラウブリッツ秋田</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>35</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/有薗真吾" title="wikilink">有薗真吾</a></p></td>
 <td><p>奈良クラブ</p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>MF</strong></p></td>
 <td><p><strong>5</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/酒井大登" title="wikilink">酒井大登</a></p></td>
 <td><p><a href="../Page/ヴァンラーレ八戸.md" title="wikilink">ヴァンラーレ八戸</a></p></td>
 <td><p>新加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>7</strong></p></td>
 <td><p><a href="../Page/寺田紳一.md" title="wikilink">寺田紳一</a></p></td>
 <td><p>栃木SC</p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>14</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/平石直人" title="wikilink">平石直人</a></p></td>
 <td><p><a href="../Page/SC相模原.md" title="wikilink">SC相模原</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>18</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/堂安憂" title="wikilink">堂安憂</a></p></td>
 <td><p><a href="../Page/AC長野パルセイロ.md" title="wikilink">AC長野パルセイロ</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>19</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ラリエア・エマニュエル・サバン" title="wikilink">サバン・ライー</a></p></td>
 <td><p></p></td>
 <td><p>元<a href="../Page/サッカーガーナ代表.md" title="wikilink">ガーナ代表</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>20</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/高橋康平" title="wikilink">高橋康平</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FC今治" title="wikilink">FC今治</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>FW</strong></p></td>
 <td><p><strong>9</strong></p></td>
 <td><p><a href="../Page/原一樹.md" title="wikilink">原一樹</a></p></td>
 <td><p>ロアッソ熊本</p></td>
 <td><p>新加入</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>10</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/勝又慶典" title="wikilink">勝又慶典</a></p></td>
 <td><p>AC長野パルセイロ</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>11</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヤクブ・ナッサム・イブラヒム" title="wikilink">イブラヒム</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ポフマデFC" title="wikilink">ポフマデFC</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/U-23サッカーガーナ代表" title="wikilink">U-23ガーナ代表</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>16</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/後藤大輔_(サッカー選手)" title="wikilink">後藤大輔</a></p></td>
 <td><p><a href="../Page/名古屋経済大学.md" title="wikilink">名古屋経済大学</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>22</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/本吉トニー令欧" title="wikilink">本吉トニー令欧</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東海大学体育会サッカー部" title="wikilink">東海大学</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>23</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小久保裕也" title="wikilink">小久保裕也</a></p></td>
 <td><p>大阪産業大学</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

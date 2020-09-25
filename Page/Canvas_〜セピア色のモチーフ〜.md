@@ -15,7 +15,7 @@
   - 2001年9月21日 - ファンディスク『**NAKED BLUE Canvas Wallpaper Collection**』発売（18禁、[F\&C・FC01](https://ja.wikipedia.org/wiki/F&C・FC01 "wikilink")より発売）
   - 2001年11月22日 - 『**Canvas DVD 〜セピア色のモチーフ〜**』発売。ドリームキャスト版の追加要素を盛り込みDVDに対応。
   - 2001年12月25日 - [OVA](../Page/OVA.md "wikilink")が発売（全2巻・15禁、[れもんは〜と](https://ja.wikipedia.org/wiki/れもんは〜と "wikilink")より）
-  - 2003年4月10日 - [PlayStation 2版発売](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（全年齢対象、NECインターチャネルより発売）
+  - 2003年4月10日 - [PlayStation 2版発売](../Page/PlayStation_2.md "wikilink")（全年齢対象、NECインターチャネルより発売）
   - 2005年3月3日 - PlayStation 2向け廉価版発売（[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")12歳以上対象）
   - 2006年4月6日 - 『Canvas DVD 〜セピア色のモチーフ〜』のダウンロード販売開始（萌えキュンDLより）
   - 2007年5月25日 - [DLsite.com](https://ja.wikipedia.org/wiki/DLsite.com "wikilink")にてダウンロード販売開始。

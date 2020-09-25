@@ -25,62 +25,27 @@
 
 ### 現メンバー
 
-| 名前                                                                                                                            | パート                                                                                                                                                                 | 生年月日                                                                                          | 出身地                                                                                   | 在籍期間                                                                                                                                  | 備考                                                                                                                                      |
-| ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| <ruby><rb>**[ジェームス小野田](https://ja.wikipedia.org/wiki/ジェームス小野田 "wikilink")**</rb><rp>（</rp><rt>ジェームスおのだ</rt><rp>）</rp></ruby>  | [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")                                                                                                               | [1959年](../Page/1959年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")                      | [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink") | [1982年](../Page/1982年.md "wikilink") - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[2006年](../Page/2006年.md "wikilink") - |                                                                                                                                         |
-| <ruby><rb>**[カールスモーキー石井](https://ja.wikipedia.org/wiki/石井竜也 "wikilink")**</rb><rp>（</rp><rt>カールスモーキーいしい</rt><rp>）</rp></ruby> | ボーカル                                                                                                                                                                | 1959年[9月22日](../Page/9月22日.md "wikilink")                                                     | [茨城県](../Page/茨城県.md "wikilink")[北茨城市](../Page/北茨城市.md "wikilink")                    | 1982年 - 1997年、2006年 -                                                                                                                 |                                                                                                                                         |
-| <ruby><rb>**[BON](../Page/大久保謙作.md "wikilink")**</rb><rp>（</rp><rt>ボン</rt><rp>）</rp></ruby>                                   | [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")                                                                             | [1960年](../Page/1960年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")                        | 神奈川県川崎市                                                                               | 1982年 - 1997年、2006年 -                                                                                                                 | 米米CLUB[リーダー](https://ja.wikipedia.org/wiki/バンドマスター "wikilink")                                                                          |
-| <ruby><rb>**[フラッシュ金子](../Page/金子隆博.md "wikilink")**</rb><rp>（</rp><rt>フラッシュかねこ</rt><rp>）</rp></ruby>                          | [サックス](../Page/サクソフォーン.md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[三線](../Page/三線.md "wikilink")、コーラス、[プログラミング](../Page/デスクトップミュージック.md "wikilink") | [1964年](../Page/1964年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")                      | [千葉県](../Page/千葉県.md "wikilink")                                                      | [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") - 1997年、2006年 -                                                               | **BIG HORNS BEE**主宰者                                                                                                                    |
-| <ruby><rb>**[MARI](https://ja.wikipedia.org/wiki/天ヶ谷真利 "wikilink")**</rb><rp>（</rp><rt>マリ</rt><rp>）</rp></ruby>               | [ダンス](../Page/ダンス.md "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")、コーラス                                                                                      | 生年月日非公表                                                                                       | 茨城県                                                                                   | [1988年](../Page/1988年.md "wikilink") - 1997年、2006年 -                                                                                  | **SUE CREAM SUE**                                                                                                                       |
-| <ruby><rb>**[MINAKO](https://ja.wikipedia.org/wiki/金子美奈子 "wikilink")**</rb><rp>（</rp><rt>ミナコ</rt><rp>）</rp></ruby>            | [ダンス](../Page/ダンス.md "wikilink")、[振付](../Page/振付師.md "wikilink")、コーラス                                                                                               | [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[12月18日](../Page/12月18日.md "wikilink") | 茨城県                                                                                   | 1988年 - 1997年、2006年 -                                                                                                                 | **SUE CREAM SUE**。カールスモーキー石井の[妹](https://ja.wikipedia.org/wiki/妹 "wikilink")であり、フラッシュ金子の[妻](https://ja.wikipedia.org/wiki/妻 "wikilink") |
-| <ruby><rb>**[BE](../Page/林部直樹.md "wikilink")**</rb><rp>（</rp><rt>ベー</rt><rp>）</rp></ruby>                                     | [ギター](../Page/ギター.md "wikilink")、コーラス                                                                                                                               | [1965年](../Page/1965年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")                      | [東京都](../Page/東京都.md "wikilink")                                                      | [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - 1997年、2006年 -                                                               | 第1期はサポートメンバー、第2期から正規メンバー                                                                                                                |
-| <ruby><rb>**[RYO-J](../Page/坂口良治.md "wikilink")**</rb><rp>（</rp><rt>リョージ</rt><rp>）</rp></ruby>                                | [ドラムス](../Page/ドラムセット.md "wikilink")、コーラス                                                                                                                           | [1959年](../Page/1959年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")                      | [福岡県](../Page/福岡県.md "wikilink")                                                      | [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、2006年 -             |                                                                                                                                         |
-| <ruby><rb>**[ジョプリン得能](../Page/得能律郎.md "wikilink")**</rb><rp>（</rp><rt>ジョプリンとくのう</rt><rp>）</rp></ruby>                         | ギター、プログラミング、コーラス                                                                                                                                                    | 1959年[8月10日](../Page/8月10日.md "wikilink")                                                     | 東京都                                                                                   | [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") - 1995年、2006年 -                                                               |                                                                                                                                         |
+| 名前                                                                                                                            | パート                                                                                                                                                                 | 生年月日                                                                                          | 出身地                                                                                                                                     | 在籍期間                                                                                                                                  | 備考                       |
+| ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| <ruby><rb>**[ジェームス小野田](https://ja.wikipedia.org/wiki/ジェームス小野田 "wikilink")**</rb><rp>（</rp><rt>ジェームスおのだ</rt><rp>）</rp></ruby>  | [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")                                                                                                               | [1959年](../Page/1959年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")                      | [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")                                                   | [1982年](../Page/1982年.md "wikilink") - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[2006年](../Page/2006年.md "wikilink") - |                          |
+| <ruby><rb>**[カールスモーキー石井](https://ja.wikipedia.org/wiki/石井竜也 "wikilink")**</rb><rp>（</rp><rt>カールスモーキーいしい</rt><rp>）</rp></ruby> | 1959年[9月22日](../Page/9月22日.md "wikilink")                                                                                                                           | [茨城県](../Page/茨城県.md "wikilink")[北茨城市](../Page/北茨城市.md "wikilink")                            |                                                                                                                                         |                                                                                                                                       |                          |
+| <ruby><rb>**[BON](../Page/大久保謙作.md "wikilink")**</rb><rp>（</rp><rt>ボン</rt><rp>）</rp></ruby>                                   | [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")                                                                             | [1960年](../Page/1960年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")                        | 神奈川県川崎市                                                                                                                                 | 米米CLUB[リーダー](https://ja.wikipedia.org/wiki/バンドマスター "wikilink")                                                                        |                          |
+| <ruby><rb>**[フラッシュ金子](../Page/金子隆博.md "wikilink")**</rb><rp>（</rp><rt>フラッシュかねこ</rt><rp>）</rp></ruby>                          | [サックス](../Page/サクソフォーン.md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[三線](../Page/三線.md "wikilink")、コーラス、[プログラミング](../Page/デスクトップミュージック.md "wikilink") | [1964年](../Page/1964年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")                      | [千葉県](../Page/千葉県.md "wikilink")                                                                                                        | [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") - 1997年、2006年 -                                                               | **BIG HORNS BEE**主宰者     |
+| <ruby><rb>**[MARI](https://ja.wikipedia.org/wiki/天ヶ谷真利 "wikilink")**</rb><rp>（</rp><rt>マリ</rt><rp>）</rp></ruby>               | [ダンス](../Page/ダンス.md "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")、コーラス                                                                                      | 生年月日非公表                                                                                       | 茨城県                                                                                                                                     | [1988年](../Page/1988年.md "wikilink") - 1997年、2006年 -                                                                                  | **SUE CREAM SUE**        |
+| <ruby><rb>**[MINAKO](https://ja.wikipedia.org/wiki/金子美奈子 "wikilink")**</rb><rp>（</rp><rt>ミナコ</rt><rp>）</rp></ruby>            | [ダンス](../Page/ダンス.md "wikilink")、[振付](../Page/振付師.md "wikilink")、コーラス                                                                                               | [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[12月18日](../Page/12月18日.md "wikilink") | **SUE CREAM SUE**。カールスモーキー石井の[妹](https://ja.wikipedia.org/wiki/妹 "wikilink")であり、フラッシュ金子の[妻](https://ja.wikipedia.org/wiki/妻 "wikilink") |                                                                                                                                       |                          |
+| <ruby><rb>**[BE](../Page/林部直樹.md "wikilink")**</rb><rp>（</rp><rt>ベー</rt><rp>）</rp></ruby>                                     | [ギター](../Page/ギター.md "wikilink")、コーラス                                                                                                                               | [1965年](../Page/1965年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")                      | [東京都](../Page/東京都.md "wikilink")                                                                                                        | [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - 1997年、2006年 -                                                               | 第1期はサポートメンバー、第2期から正規メンバー |
+| <ruby><rb>**[RYO-J](../Page/坂口良治.md "wikilink")**</rb><rp>（</rp><rt>リョージ</rt><rp>）</rp></ruby>                                | [ドラムス](../Page/ドラムセット.md "wikilink")、コーラス                                                                                                                           | [1959年](../Page/1959年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")                      | [福岡県](../Page/福岡県.md "wikilink")                                                                                                        | [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、2006年 -             |                          |
+| <ruby><rb>**[ジョプリン得能](../Page/得能律郎.md "wikilink")**</rb><rp>（</rp><rt>ジョプリンとくのう</rt><rp>）</rp></ruby>                         | ギター、プログラミング、コーラス                                                                                                                                                    | 1959年[8月10日](../Page/8月10日.md "wikilink")                                                     | 東京都                                                                                                                                     | [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") - 1995年、2006年 -                                                               |                          |
 
 ### サポートメンバー
 
 名称・以前はK2C Cousinと呼ばれていたが、現在ではサポートメンバーと石井の紹介では言われている
 
-<table>
-<thead>
-<tr class="header">
-<th><p>名前</p></th>
-<th><p>パート</p></th>
-<th><p>生年月日</p></th>
-<th><p>出身地</p></th>
-<th><p>在籍期間</p></th>
-<th><p>備考</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><ruby><rb><strong><a href="../Page/三沢またろう.md" title="wikilink">MATARO</a></strong></rb><rp>（</rp><rt>マタロー</rt><rp>）</rp></ruby><br />
-</p></td>
-<td><p>パーカッション、コーラス</p></td>
-<td><p>1960年<a href="../Page/10月23日.md" title="wikilink">10月23日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a><a href="https://ja.wikipedia.org/wiki/苫小牧市" title="wikilink">苫小牧市</a></p></td>
-<td><p>1990年 - 1997年、2006年 -</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><ruby><rb><strong><a href="https://ja.wikipedia.org/wiki/菅木真智子" title="wikilink">MACHICO</a></strong></rb><rp>（</rp><rt>マチコ</rt><rp>）</rp></ruby><br />
-</p></td>
-<td><p>コーラス</p></td>
-<td><p>生年非公表<a href="../Page/12月3日.md" title="wikilink">12月3日</a></p></td>
-<td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
-<td><p><a href="../Page/1991年.md" title="wikilink">1991年</a> - 1997年、2006年 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/The_Coconut_Cups" title="wikilink">The Coconut Cupsのメンバー</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>テキーラまさはる</strong></p></td>
-<td><p>ダンス、MC、その他色々</p></td>
-<td><p>1985年12月17日</p></td>
-<td><p>ベネズエラ</p></td>
-<td><p>2013年2月 -</p></td>
-<td><p>2013年2月より米米CLUBアリーナツアーにサブボーカルとして参戦</p></td>
-</tr>
-</tbody>
-</table>
+| 名前                                                                                                                  | パート          | 生年月日                                        | 出身地                                                                                                      | 在籍期間                                                 | 備考                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| <ruby><rb>**[MATARO](../Page/三沢またろう.md "wikilink")**</rb><rp>（</rp><rt>マタロー</rt><rp>）</rp></ruby>                   | パーカッション、コーラス | 1960年[10月23日](../Page/10月23日.md "wikilink") | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[苫小牧市](https://ja.wikipedia.org/wiki/苫小牧市 "wikilink") | 1990年 - 1997年、2006年 -                                |                                                                                    |
+| <ruby><rb>**[MACHICO](https://ja.wikipedia.org/wiki/菅木真智子 "wikilink")**</rb><rp>（</rp><rt>マチコ</rt><rp>）</rp></ruby> | コーラス         | 生年非公表[12月3日](../Page/12月3日.md "wikilink")   | [岩手県](../Page/岩手県.md "wikilink")                                                                         | [1991年](../Page/1991年.md "wikilink") - 1997年、2006年 - | [The Coconut Cupsのメンバー](https://ja.wikipedia.org/wiki/The_Coconut_Cups "wikilink") |
+| **テキーラまさはる**                                                                                                        | ダンス、MC、その他色々 | 1985年12月17日                                 | ベネズエラ                                                                                                    | 2013年2月 -                                            | 2013年2月より米米CLUBアリーナツアーにサブボーカルとして参戦                                                 |
 
 ### 元メンバー
 
@@ -89,8 +54,8 @@
 | **[コータロー](../Page/竹下宏太郎.md "wikilink")**                                                                                              | ダンス                                    | 1967年3月11日                                                                                | 東京都                                                              | 1993年- 1997年、2009年-現時点では活動なし                                                                   |                                                                                                                                    |
 | <ruby><rb>**[博多めぐみ](../Page/坂本琢司.md "wikilink")**</rb><rp>（</rp><rt>はかためぐみ</rt><rp>）</rp></ruby>                                      | ギター                                    | [1962年](../Page/1962年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")                    | 神奈川県川崎市                                                          | [1982年](../Page/1982年.md "wikilink") - 1988年                                                   | 本名　坂本琢司。音楽性の違いで脱退。                                                                                                                 |
 | <ruby><rb>**[ジュリアーノ奈良部](../Page/奈良部匠平.md "wikilink")**</rb><rp>（</rp><rt>ジュリアーノならべ</rt><rp>）</rp></ruby>                              | キーボード                                  | 1961年[3月4日](../Page/3月4日.md "wikilink")                                                   | 東京都                                                              | 1993年 - [1994年](../Page/1994年.md "wikilink")                                                   |                                                                                                                                    |
-| <ruby><rb>**[ジュリアーノ勝又](https://ja.wikipedia.org/wiki/勝又隆一 "wikilink")**</rb><rp>（</rp><rt>ジュリアーノかつまた</rt><rp>）</rp></ruby>            | キーボード                                  | 生年月日非公表                                                                                   | 出身地非公表                                                           | [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - 1997年                                |                                                                                                                                    |
-| **[トシ](https://ja.wikipedia.org/wiki/高畠俊男 "wikilink")**                                                                               | ドラムス                                   | 生年月日非公表                                                                                   | 出身地非公表                                                           | 1995年 - 1997年                                                                                  |                                                                                                                                    |
+| <ruby><rb>**[ジュリアーノ勝又](https://ja.wikipedia.org/wiki/勝又隆一 "wikilink")**</rb><rp>（</rp><rt>ジュリアーノかつまた</rt><rp>）</rp></ruby>            | 生年月日非公表                                | 出身地非公表                                                                                    | [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - 1997年  |                                                                                                |                                                                                                                                    |
+| **[トシ](https://ja.wikipedia.org/wiki/高畠俊男 "wikilink")**                                                                               | ドラムス                                   | 生年月日非公表                                                                                   | 出身地非公表                                                           |                                                                                                |                                                                                                                                    |
 | **[マル](https://ja.wikipedia.org/wiki/丸山龍男 "wikilink")**                                                                               | パーカッション                                | [1960年](../Page/1960年.md "wikilink")[2月11日](../Page/2月11日.md "wikilink")                  | 神奈川県[横浜市](../Page/横浜市.md "wikilink")                             | 1982年 - 1988年                                                                                  |                                                                                                                                    |
 | <ruby><rb>**[ヒマラヤン下神](https://ja.wikipedia.org/wiki/下神竜哉 "wikilink")**</rb><rp>（</rp><rt>ヒマラヤンしもがみ</rt><rp>）</rp></ruby>              | [トランペット](../Page/トランペット.md "wikilink") | 1964年[7月15日](../Page/7月15日.md "wikilink")                                                 | 東京都[国立市](../Page/国立市.md "wikilink")                              | [1986年](../Page/1986年.md "wikilink") - 1997年                                                   | [BIG HORNS BEEのメンバーとして参加していたが](../Page/BIG_HORNS_BEE.md "wikilink")、第1期解散後に脱退。サポートメンバーとして状況に応じて参戦。2019年 a K2C tour 「おかわり」初日公演のみ参加。 |
 | <ruby><rb>**[アンデス村田](../Page/村田陽一.md "wikilink")**</rb><rp>（</rp><rt>アンデスむらた</rt><rp>）</rp></ruby>                                    | [トロンボーン](../Page/トロンボーン.md "wikilink") | [1963年](../Page/1963年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")                  | [静岡県](../Page/静岡県.md "wikilink")[静岡市](../Page/静岡市.md "wikilink") | [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") - 1986年                                | BIG HORNS BEEのメンバーとして参加していたが脱退。                                                                                                    |
@@ -187,9 +152,9 @@
 <td><p>2nd</p></td>
 <td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/4月21日.md" title="wikilink">4月21日</a></p></td>
 <td></td>
-<td><p>EP</p></td>
 <td><p>07-SH-1765</p></td>
 <td><p>54位</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
@@ -222,11 +187,10 @@
 <td><p><a href="../Page/1988年.md" title="wikilink">1988年</a><a href="../Page/2月1日.md" title="wikilink">2月1日</a><br />
 （<strong>山田実とトップ・ゴージャス</strong>）</p></td>
 <td></td>
-<td><p>EP<br />
-CT</p></td>
 <td><p>07-SH-2031<br />
 10-KH-2404</p></td>
 <td><p>42位</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>7th</p></td>
@@ -244,13 +208,11 @@ CT<br />
 <td><p>8th</p></td>
 <td><p>1988年<a href="../Page/10月21日.md" title="wikilink">10月21日</a></p></td>
 <td></td>
-<td><p>EP<br />
-CT<br />
-8cmCD</p></td>
 <td><p>07-SH-3129<br />
 10-WH-3129<br />
 10-EH-3129</p></td>
 <td><p>25位</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>9th</p></td>
@@ -266,42 +228,38 @@ CSDL-3011</p></td>
 <td><p>10th</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1990年" title="wikilink">1990年</a><a href="../Page/4月8日.md" title="wikilink">4月8日</a></p></td>
 <td></td>
-<td><p>CT<br />
-8cmCD</p></td>
 <td><p>CSSL-3088 （CT東日本版）<br />
 CSSL-3089 （CT西日本版）<br />
 CSDL-3088 （CD東日本版）<br />
 CSDL-3089 （CD西日本版）</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>11th</p></td>
 <td><p>1990年<a href="../Page/12月12日.md" title="wikilink">12月12日</a></p></td>
 <td></td>
-<td><p>CT<br />
-8cmCD</p></td>
 <td><p>CSSL-3211<br />
 CSDL-3211</p></td>
 <td><p>5位</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>12th</p></td>
 <td><p><a href="../Page/1991年.md" title="wikilink">1991年</a><a href="../Page/9月21日.md" title="wikilink">9月21日</a></p></td>
 <td></td>
-<td><p>CT<br />
-8cmCD</p></td>
 <td><p>SRSL-3298<br />
 SRDL-3356</p></td>
 <td><p>3位</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>13th</p></td>
 <td><p><a href="../Page/1992年.md" title="wikilink">1992年</a><a href="https://ja.wikipedia.org/wiki/5月4日" title="wikilink">5月4日</a></p></td>
 <td></td>
-<td><p>CT<br />
-8cmCD</p></td>
 <td><p>SRSL-3338<br />
 SRDL-3465</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -316,9 +274,9 @@ SRDL-3465</p></td>
 <td><p>15th</p></td>
 <td><p><a href="../Page/1993年.md" title="wikilink">1993年</a><a href="../Page/5月21日.md" title="wikilink">5月21日</a></p></td>
 <td></td>
-<td><p>8cmCD</p></td>
 <td><p>SRDL-3653</p></td>
 <td><p>3位</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>16th</p></td>
@@ -342,57 +300,57 @@ SRDL3465</p></td>
 <td><p>18th</p></td>
 <td><p>1994年<a href="../Page/9月21日.md" title="wikilink">9月21日</a></p></td>
 <td></td>
-<td><p>8cmCD</p></td>
 <td><p>SRDL-3916</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>19th</p></td>
 <td><p>1994年<a href="../Page/11月10日.md" title="wikilink">11月10日</a></p></td>
 <td></td>
-<td><p>8cmCD</p></td>
 <td><p>SRDL-3930</p></td>
 <td><p>6位</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>20th</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a><a href="../Page/4月21日.md" title="wikilink">4月21日</a></p></td>
 <td></td>
-<td><p>8cmCD</p></td>
 <td><p>SRDL-4004</p></td>
 <td><p>5位</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>21st</p></td>
 <td><p>1995年<a href="../Page/5月21日.md" title="wikilink">5月21日</a></p></td>
 <td></td>
-<td><p>8cmCD</p></td>
 <td><p>SRDL-4021</p></td>
 <td><p>18位</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>22nd</p></td>
 <td><p>1995年<a href="../Page/7月24日.md" title="wikilink">7月24日</a></p></td>
 <td></td>
-<td><p>8cmCD</p></td>
 <td><p>SRDL-4050</p></td>
 <td><p>7位</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>23rd</p></td>
 <td><p><a href="../Page/1996年.md" title="wikilink">1996年</a><a href="../Page/3月1日.md" title="wikilink">3月1日</a></p></td>
 <td></td>
-<td><p>8cmCD</p></td>
 <td><p>SRDL-4150</p></td>
 <td><p>23位</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>24th</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a><a href="../Page/1月25日.md" title="wikilink">1月25日</a></p></td>
 <td></td>
-<td><p>8cmCD</p></td>
 <td><p>SRDL-4329</p></td>
 <td><p>12位</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>25th</p></td>
@@ -406,9 +364,9 @@ SRDL3465</p></td>
 <td><p>26th</p></td>
 <td><p>2006年<a href="../Page/8月23日.md" title="wikilink">8月23日</a></p></td>
 <td></td>
-<td><p>12cmCD+DVD</p></td>
 <td><p>SRCL-6397〜6398</p></td>
 <td><p>5位</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>27th</p></td>
@@ -475,31 +433,28 @@ SRCL-7120（通常版）</p></td>
 <td><p>34th</p></td>
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/10月7日.md" title="wikilink">10月7日</a></p></td>
 <td></td>
-<td><p>12cmCD+DVD<br />
-12cmCD</p></td>
 <td><p>SRCL-7121〜7122（初回版）<br />
 SRCL-7123（通常版）</p></td>
 <td><p>12位</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>35th</p></td>
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/1月30日.md" title="wikilink">1月30日</a></p></td>
 <td></td>
-<td><p>12cmCD+DVD<br />
-12cmCD</p></td>
 <td><p>SRCL-8223〜24（初回版）<br />
 SRCL-8225（通常版）</p></td>
 <td><p>15位</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>36th</p></td>
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/11月27日.md" title="wikilink">11月27日</a></p></td>
 <td></td>
-<td><p>12cmCD+DVD<br />
-12cmCD</p></td>
 <td><p>SRCL-8417〜18（初回版）<br />
 SRCL-8419（通常版）</p></td>
 <td><p>31位</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -538,42 +493,33 @@ SRCL-30012〜3</p></td>
 <td><p>2nd</p></td>
 <td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/10月10日.md" title="wikilink">10月10日</a></p></td>
 <td></td>
-<td><p>LP<br />
-CD<br />
-CT<br />
-Blu-spec CD2+DVD</p></td>
 <td><p>28-AH-2090<br />
 32-DH-468, 32DH534<br />
 28-KH-1964<br />
 SRCL-30014〜5</p></td>
 <td><p>3位</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1987年" title="wikilink">1987年</a><a href="../Page/10月21日.md" title="wikilink">10月21日</a></p></td>
 <td></td>
-<td><p>LP<br />
-CD<br />
-CT<br />
-Blu-spec CD2+DVD</p></td>
 <td><p>28-AH-2250<br />
 32-DH-823<br />
 28-KH-2327<br />
 SRCL-30016〜7</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
 <td><p><a href="../Page/1988年.md" title="wikilink">1988年</a><a href="../Page/9月21日.md" title="wikilink">9月21日</a></p></td>
 <td></td>
-<td><p>LP<br />
-CD<br />
-CT<br />
-Blu-spec CD2+DVD</p></td>
 <td><p>28-AH-5117<br />
 32-DH-5117<br />
 28-KH-5117<br />
 SRCL-30018〜9</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -594,14 +540,11 @@ SRCL-30020〜1</p></td>
 <td><p>6th</p></td>
 <td><p><a href="../Page/1991年.md" title="wikilink">1991年</a><a href="../Page/1月25日.md" title="wikilink">1月25日</a></p></td>
 <td></td>
-<td><p>CD<br />
-<br />
-CT<br />
-Blu-spec CD2+DVD</p></td>
 <td><p>CSCL-1625〜1626（CD初回版2Disc）<br />
 CSCL-1627（CD通常版）<br />
 CSTL-1627<br />
 SRCL-30022〜3</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -654,15 +597,12 @@ SRCL-30030〜1</p></td>
 <td><p>11th</p></td>
 <td><p><a href="../Page/1994年.md" title="wikilink">1994年</a><a href="../Page/12月10日.md" title="wikilink">12月10日</a></p></td>
 <td></td>
-<td><p>CD<br />
-CT<br />
-MD<br />
-Blu-spec CD2+DVD</p></td>
 <td><p>SRCL-3087<br />
 SRTL-1877<br />
 SRYL-7120<br />
 SRCL-30033〜4</p></td>
 <td><p>3位</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>12th</p></td>
@@ -768,25 +708,25 @@ SRYL-7191</p></td>
 <td><p>SRCL-3781</p></td>
 </tr>
 <tr class="even">
-<td><p>シングルベスト</p></td>
 <td><p>1997年<a href="../Page/6月1日.md" title="wikilink">6月1日</a></p></td>
 <td></td>
-<td><p>CD</p></td>
 <td><p>SRCL-3951</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>企画ベスト</p></td>
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/1月30日.md" title="wikilink">1月30日</a></p></td>
 <td></td>
-<td><p>CD</p></td>
 <td><p>SRCL-4459</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>企画ベスト</p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/12月5日.md" title="wikilink">12月5日</a></p></td>
 <td></td>
-<td><p>CD</p></td>
 <td><p>MHCL-48</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>ファン投票ベスト</p></td>
@@ -830,11 +770,11 @@ SRCL-30051</p></td>
 <td><p>SRCL-2415</p></td>
 </tr>
 <tr class="even">
-<td><p>サウンドトラック</p></td>
 <td><p>1992年<a href="../Page/9月22日.md" title="wikilink">9月22日</a></p></td>
 <td></td>
-<td><p>CD</p></td>
 <td><p>SRCL-2481</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/ライブ・アルバム.md" title="wikilink">ライブ・アルバム</a></p></td>
@@ -889,29 +829,24 @@ LD<br />
 CSWM-6156</p></td>
 </tr>
 <tr class="odd">
-<td><p>ライブビデオ</p></td>
 <td><p>1989年<a href="../Page/8月10日.md" title="wikilink">8月10日</a></p></td>
 <td></td>
-<td><p>VHS<br />
-LD<br />
-8mm</p></td>
 <td><p>48ZH-250<br />
 48LH-250<br />
 CSWM-6157</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>ライブビデオ</p></td>
 <td><p>1989年<a href="../Page/8月21日.md" title="wikilink">8月21日</a></p></td>
 <td></td>
-<td><p>VHS<br />
-LD<br />
-8mm</p></td>
 <td><p>48ZH-251<br />
 48LH-251<br />
 CSWM-6158</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>ライブビデオ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1990年" title="wikilink">1990年</a><a href="../Page/4月21日.md" title="wikilink">4月21日</a></p></td>
 <td></td>
 <td><p>VHS<br />
@@ -922,84 +857,67 @@ LD<br />
 CSLM-175<br />
 CSWM-6175<br />
 CSUM-3175</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>ライブビデオ</p></td>
 <td><p>1990年<a href="../Page/9月21日.md" title="wikilink">9月21日</a></p></td>
 <td></td>
-<td><p>VHS<br />
-LD<br />
-8mm<br />
-β</p></td>
 <td><p>CSVM-203<br />
 CSLM-203<br />
 CSWM-6203<br />
 CSUM-3203</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>ライブビデオ</p></td>
-<td><p>1990年<a href="../Page/9月21日.md" title="wikilink">9月21日</a></p></td>
 <td></td>
-<td><p>VHS<br />
-LD<br />
-8mm<br />
-β</p></td>
 <td><p>CSVM-204<br />
 CSLM-204<br />
 CSWM-6204<br />
 CSUM-3204</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>ライブビデオ</p></td>
 <td><p>1991年2月21日</p></td>
 <td></td>
-<td><p>VHS<br />
-LD<br />
-8mm<br />
-β</p></td>
 <td><p>CSVM-233<br />
 CSLM-233<br />
 CSWM-6233<br />
 CSUM-3233</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>ライブビデオ</p></td>
-<td><p>1991年2月21日</p></td>
 <td></td>
-<td><p>VHS<br />
-LD<br />
-8mm<br />
-β</p></td>
 <td><p>CSVM-234<br />
 CSLM-234<br />
 CSWM-6234<br />
 CSUM-3234</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>ライブビデオ</p></td>
 <td><p><a href="../Page/1991年.md" title="wikilink">1991年</a><a href="../Page/8月1日.md" title="wikilink">8月1日</a></p></td>
 <td></td>
-<td><p>VHS<br />
-LD<br />
-8mm<br />
-β</p></td>
 <td><p>CSVM-265<br />
 CSLM-265<br />
 CSWM-6265<br />
 CSUM-3265</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>ミュージック・ビデオ</p></td>
 <td><p>1991年<a href="../Page/9月21日.md" title="wikilink">9月21日</a></p></td>
 <td></td>
-<td><p>VHS<br />
-LD<br />
-8mm<br />
-β</p></td>
 <td><p>SRVM-276<br />
 SRLM-276<br />
 SRWM-6276<br />
 SRUM-3276</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>ライブビデオ</p></td>
@@ -1013,7 +931,6 @@ SRLM-301〜302<br />
 SRUM-301〜302</p></td>
 </tr>
 <tr class="odd">
-<td><p>ライブビデオ</p></td>
 <td><p><a href="../Page/1993年.md" title="wikilink">1993年</a><a href="../Page/7月10日.md" title="wikilink">7月10日</a></p></td>
 <td></td>
 <td><p>VHS<br />
@@ -1022,40 +939,39 @@ LD （2枚組）<br />
 <td><p>SRVM-352<br />
 SRLM-352〜353<br />
 SRWM-6352〜6353</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>ライブビデオ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a><a href="../Page/2月20日.md" title="wikilink">2月20日</a></p></td>
 <td></td>
 <td><p>VHS<br />
 LD</p></td>
 <td><p>SRVM-449<br />
 SRLM-449</p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>ライブビデオ</p></td>
 <td><p>1995年<a href="../Page/3月24日.md" title="wikilink">3月24日</a></p></td>
 <td></td>
-<td><p>VHS<br />
-LD</p></td>
 <td><p>SRVM-434<br />
 SRLM-434</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>ライブビデオ</p></td>
 <td><p><a href="../Page/1996年.md" title="wikilink">1996年</a><a href="../Page/4月1日.md" title="wikilink">4月1日</a></p></td>
 <td></td>
-<td><p>VHS<br />
-LD</p></td>
 <td><p>SRVM-517<br />
 SRLM-517</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>ライブビデオ</p></td>
 <td><p>1996年<a href="../Page/9月21日.md" title="wikilink">9月21日</a></p></td>
 <td></td>
 <td><p>VHS</p></td>
 <td><p>SRVM-545</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>ミュージック・ビデオ+メイキング</p></td>
@@ -1081,24 +997,24 @@ SRBL-1062〜1063</p></td>
 </tr>
 <tr class="even">
 <td><p>ドキュメンタリービデオ</p></td>
-<td><p>1997年6月21日</p></td>
 <td></td>
 <td><p>VHS</p></td>
 <td><p>SRVM-5572</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>ライブビデオ</p></td>
 <td><p>1997年<a href="../Page/7月21日.md" title="wikilink">7月21日</a></p></td>
 <td></td>
-<td><p>VHS</p></td>
 <td><p>SRVM-5579</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>ライブビデオ</p></td>
-<td><p>1997年7月21日</p></td>
 <td></td>
-<td><p>VHS</p></td>
 <td><p>SRVM-5580</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>DVD-BOX</p></td>
@@ -1108,25 +1024,25 @@ SRBL-1062〜1063</p></td>
 <td><p>SRBL-1301〜1312</p></td>
 </tr>
 <tr class="even">
-<td><p>DVD-BOX</p></td>
 <td><p>2007年12月26日</p></td>
 <td></td>
 <td><p>DVD （3枚組）</p></td>
 <td><p>SRBL1341〜1343</p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>DVD-BOX</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/8月8日.md" title="wikilink">8月8日</a></p></td>
 <td></td>
 <td><p>DVD （12枚組）</p></td>
 <td><p>SRBL1351〜1362</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>DVD-BOX</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/8月8日.md" title="wikilink">8月8日</a></p></td>
 <td></td>
 <td><p>DVD （3枚組）</p></td>
 <td><p>SRBL1423〜14235</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>DVDシングル</p></td>
@@ -1201,7 +1117,6 @@ SRBL-1857（DVD版）</p></td>
 </tr>
 <tr class="even">
 <td><p>1986年4月13日 - 5月22日</p></td>
-<td><p>コンサートツアー</p></td>
 <td><p>NEO SHARISHARISM</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:left;">
@@ -1224,10 +1139,10 @@ SRBL-1857（DVD版）</p></td>
 </div>
 </div>
 <p>1stアルバム『シャリ・シャリズム』を引っ提げて敢行された第2ホールツアー。東名阪以外でも敢行された初のツアーでもある。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>1986年10月18日 - <a href="https://ja.wikipedia.org/wiki/1987年" title="wikilink">1987年</a>1月23日</p></td>
-<td><p>コンサートツアー</p></td>
 <td><p>RADICAL SHARISHARISM</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:left;">
@@ -1257,10 +1172,10 @@ SRBL-1857（DVD版）</p></td>
 </div>
 </div>
 <p>2ndアルバム『<a href="https://ja.wikipedia.org/wiki/E・B・I・S" title="wikilink">E・B・I・S</a>』を引っ提げて敢行されたホールツアー。初めて年を跨いで敢行された。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>1987年3月28日 - 6月30日</p></td>
-<td><p>コンサートツアー</p></td>
 <td><p>POST SHARISHARISM<br />
 ハードボイルド・ダンディズム編<br />
 ハワイアン・エキゾチカ編<br />
@@ -1318,10 +1233,10 @@ SRBL-1857（DVD版）</p></td>
 </div>
 </div>
 <p>2ndアルバム『E・B・I・S』を引っ提げて敢行された第2ホールツアー。セットリストが異なる3パターンの公演を振り分けて敢行された。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>1987年12月21日 - <a href="../Page/1988年.md" title="wikilink">1988年</a>3月22日</p></td>
-<td><p>コンサートツアー</p></td>
 <td><p>LAST SHARISHARISM<br />
 大江戸編<br />
 スペース編</p></td>
@@ -1370,6 +1285,7 @@ SRBL-1857（DVD版）</p></td>
 </div>
 </div>
 <p>3rdアルバム『<a href="https://ja.wikipedia.org/wiki/KOMEGUNY" title="wikilink">KOMEGUNY</a>』を引っ提げて敢行されたホールツアー。2年連続の年跨ぎによるツアーで、セットリストが異なる2パターンの公演を振り分けて敢行された。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>1988年3月29日 - 3月31日</p></td>
@@ -1833,7 +1749,7 @@ NHKホール<br />
 | 嫁津波                                                  | 映画「山田村ワルツ」主題歌（1988年）                                                                                                                                                                                                            |
 | 加油 (GAYU)                                            | 映画「[最終教師](../Page/最終教師.md "wikilink")」挿入歌（1988年）                                                                                                                                                                                |
 | TIME STOP                                            | [AIWA](https://ja.wikipedia.org/wiki/アイワ "wikilink") シュトラッサー CMソング（1988年）                                                                                                                                                       |
-| 僕らのスーパーヒーロー                                          | AIWA シュトラッサー CMソング（1988年）                                                                                                                                                                                                       |
+| 僕らのスーパーヒーロー                                          |                                                                                                                                                                                                                                 |
 | いつのまにか                                               | 腕時計CMソング（未詳）                                                                                                                                                                                                                    |
 | FUNK FUJIYAMA                                        | [SONY](../Page/ソニー.md "wikilink") マルチディスクプレーヤー CMソング（1989年）※本人出演                                                                                                                                                                |
 | インサートデザート                                            | SONY マルチディスクプレーヤー CMソング（1990年）※本人出演                                                                                                                                                                                             |

@@ -106,6 +106,8 @@
     **代表作：**[ムーンキャッスル](https://ja.wikipedia.org/wiki/ムーンキャッスル "wikilink")
   - [渡部恭久](../Page/渡部恭久.md "wikilink")（Yack.）
     **代表作：**[メタルブラック](../Page/メタルブラック.md "wikilink")、[サイバリオン](../Page/サイバリオン.md "wikilink")、[カイザーナックル](../Page/カイザーナックル.md "wikilink")、[ルナーク](https://ja.wikipedia.org/wiki/ルナーク "wikilink")、[ファイターズインパクト](https://ja.wikipedia.org/wiki/ファイターズインパクト "wikilink")
+  - PINCH-PUNCH（ピンチパンチ）
+    フリーランスのサウンドチームとして、1988年～1992年の間にタイトーのアーケードのゲームの音楽を担当した。代表作品は「[マスターオブウェポン](../Page/マスターオブウェポン.md "wikilink")」「[キャメルトライ](../Page/キャメルトライ.md "wikilink")」「[ダイノレックス](../Page/ダイノレックス.md "wikilink")」など。
 
 ## ZUNTATA NIGHT
 

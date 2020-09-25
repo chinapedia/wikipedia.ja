@@ -1,7 +1,7 @@
 > この記事は[TOKIO](https://ja.wikipedia.org/wiki/TOKIO)から翻訳されています。
 
 
-**TOKIO**（トキオ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")\[1\]、[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")\[2\]。所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")。 所属[レコード会社](../Page/レコード会社.md "wikilink")は[ジェイ・ストーム](../Page/ジェイ・ストーム.md "wikilink")。
+**TOKIO**（トキオ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/アイドル#男性アイドル史 "wikilink")\[1\]、[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")\[2\]。所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")。 所属[レコード会社](../Page/レコード会社.md "wikilink")は[ジェイ・ストーム](../Page/ジェイ・ストーム.md "wikilink")。
 
 ## メンバー
 

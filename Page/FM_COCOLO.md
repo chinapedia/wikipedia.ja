@@ -35,9 +35,11 @@
 
 2015年2月18日には『[上沼恵美子](../Page/上沼恵美子.md "wikilink")のオールナイトニッポンGOLD』としてFM COCOLOのスタジオからネット各社へと放送している。アシスタントとして[ヒロ寺平](../Page/ヒロ寺平.md "wikilink")が務めた。同年10月3日から半年間、ニッポン放送との共同制作番組として『[RADIO SHANGRI-LA](https://ja.wikipedia.org/wiki/RADIO_SHANGRI-LA "wikilink")』を開始。[全国ラジオネットワーク](../Page/全国ラジオネットワーク.md "wikilink")（NRN）向けネット番組の制作に非加盟局でありながら参加することになった。
 
-  - JFLとの関わり
+  - JFL・JFNとの関わり
 
 2014年2月11日、[JFL](../Page/JAPAN_FM_LEAGUE.md "wikilink") [HOLIDAY SPECIAL](../Page/J-WAVE_HOLIDAY_SPECIAL.md "wikilink")『Cafe [NESCAFE](../Page/ネスカフェ.md "wikilink") presents MEET AT BOOK CAFE』をネット。他地区はJFL加盟局での放送だったが、関西では**加盟局であるFM802ではなく同一の法人が運営するFM COCOLOでの放送**となった\[8\]。
+
+また、キー局のInterFMが2020年9月から[ジャパンエフエムネットワーク](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")（JFNC）の傘下かつ[エフエム東京](../Page/エフエム東京.md "wikilink")をキー局とする[全国FM放送協議会](../Page/全国FM放送協議会.md "wikilink")（JFN）の特別加盟局となったことから、[MegaNet](https://ja.wikipedia.org/wiki/MegaNet "wikilink")では関東と近畿がそれぞれ違う系列局の関連局となる現象が発生した。
 
 ## 局データ
 
@@ -536,11 +538,11 @@ CAMP</strong><br />
 
 開局以来、アジア・太平洋地域の言語での放送を行っている。外国人向け番組の中では日本語と母国語を織り交ぜた放送や母国語のみ、または日本語のみで放送する番組もある。
 
-放送時間は平日・30分の帯番組を15言語分放送する形をとったが、週1回・2時間の放送に改められた。2003年に午後8時以降に集約されたが、2004年から放送時間が縮小傾向にある。2010年4月現在、COCOLO Earth Colors（月〜金20:00〜21:00）としてKOREAN edition（月）CHINESE edition（火）ENGLISH edition（水）SPANISH edition（木）PORTUGUESE edition（金）の曜日別にハングル・中国語・英語・スペイン語・ポルトガル語の5言語と日本語を織り交ぜた放送とFROM OVERSEAS（毎日5:00〜6:00）としてSRI LANKA（月）PHILIPPINE（火）THAILAND（水）INDONESIA（木）VIETNAM（金）MALAYSIA（土）INDIA（日）の曜日別に7カ国のアジア地域の言語での放送が行われている。なおFROM OVERSEAS・詩境遊人は放送日翌日から[ポッドキャスト](../Page/ポッドキャスト.md "wikilink")にて楽曲を除いた内容で約4週間パソコンでの聴取・ダウンロードができる。
+放送時間は平日・30分の帯番組を15言語分放送する形をとったが、週1回・2時間の放送に改められた。2003年に午後8時以降に集約されたが、2004年から放送時間が縮小傾向にある。2010年4月現在、COCOLO Earth Colors（月〜金20:00〜21:00）としてKOREAN edition（月）CHINESE edition（火）ENGLISH edition（水）SPANISH edition（木）PORTUGUESE edition（金）の曜日別に韓国語・中国語・英語・スペイン語・ポルトガル語の5言語と日本語を織り交ぜた放送とFROM OVERSEAS（毎日5:00〜6:00）としてSRI LANKA（月）PHILIPPINE（火）THAILAND（水）INDONESIA（木）VIETNAM（金）MALAYSIA（土）INDIA（日）の曜日別に7カ国のアジア地域の言語での放送が行われている。なおFROM OVERSEAS・詩境遊人は放送日翌日から[ポッドキャスト](../Page/ポッドキャスト.md "wikilink")にて楽曲を除いた内容で約4週間パソコンでの聴取・ダウンロードができる。
 
 ### 自治体提供番組
 
-**LGI**（Local Government Information、地方自治体情報）と呼び、[PSA](https://ja.wikipedia.org/wiki/PSA "wikilink")と同じである。放送エリアにある2府4県と4つの政令指定都市が提供する広報番組を放送している。週末の放送が主であったが、平日に「Kansai Scope」として再編成。2009年4月から「COCOLO Earth Colors」内にて（月）ハングル（火）中国語（水）英語（木）スペイン語（金）ポルトガル語にて放送されている。また、2010年4月より、「COCOLO Earth Colors」が1時間番組になったため、平日（月～木）のワイド番組「AMUSIC MORNING 765」、「PACIFIC OASIS」、「AFTERNOON DELIGHT」、「MARK'E MUSIC MODE」の各番組内でも各自治体の情報を提供している。
+**LGI**（Local Government Information、地方自治体情報）と呼び、[PSA](https://ja.wikipedia.org/wiki/PSA "wikilink")と同じである。放送エリアにある2府4県と4つの政令指定都市が提供する広報番組を放送している。週末の放送が主であったが、平日に「Kansai Scope」として再編成。2009年4月から「COCOLO Earth Colors」内にて（月）韓国語（火）中国語（水）英語（木）スペイン語（金）ポルトガル語にて放送されている。また、2010年4月より、「COCOLO Earth Colors」が1時間番組になったため、平日（月～木）のワイド番組「AMUSIC MORNING 765」、「PACIFIC OASIS」、「AFTERNOON DELIGHT」、「MARK'E MUSIC MODE」の各番組内でも各自治体の情報を提供している。
 
 2005年4月に平日夜に移行、奈良県と滋賀県が提供から外れた。また、大阪府も広報関係予算削減の影響で提供を取りやめている。 2010年5月より兵庫県・京都府・京都市のLGIがポッドキャストにてパソコンでの聴取・ダウンロードが可能になった。(updateは放送日の翌日以降で、パソコンでの聴取・ダウンロードができる期間はupdateから約4週間)
 
@@ -551,7 +553,7 @@ CAMP</strong><br />
 <th><p>width="13%|日本語</p></th>
 <th><p>width="13%|英語</p></th>
 <th><p>width="13%|中国語</p></th>
-<th><p>width="13%|ハングル</p></th>
+<th><p>width="13%|韓国語</p></th>
 <th><p>width="13%|ポルトガル語</p></th>
 <th><p>width="13%|スペイン語</p></th>
 <th><p>width="13%|ベトナム語</p></th>

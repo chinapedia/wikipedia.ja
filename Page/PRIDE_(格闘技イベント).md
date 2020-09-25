@@ -260,4 +260,4 @@ KO、ギブアップ、TKO（レフェリーストップ、ドクターストッ
 19. [金子達仁](https://ja.wikipedia.org/wiki/金子達仁 "wikilink")『泣き虫』[幻冬舎](../Page/幻冬舎.md "wikilink")、2003年、p248.
 20. 『[kamipro](https://ja.wikipedia.org/wiki/kamipro "wikilink")』No.129、[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")。[浅草キッド](../Page/浅草キッド.md "wikilink")の発言。
 21. 2007年9月8日、[UFC 75において第](../Page/UFC_75.md "wikilink")2代ミドル級王者[ダン・ヘンダーソン](../Page/ダン・ヘンダーソン.md "wikilink")がUFC世界ライトヘビー級王者[クイントン・"ランペイジ"・ジャクソンに敗れ](../Page/クイントン・ジャクソン.md "wikilink")、ミドル級王座はUFC世界ライトヘビー級王座へ統合された。
-22. [PRIDE NEVADA OFFICIAL RULES](http://web.archive.org/web/*/http://www.prideofficial.com/free/rule/nevada_en.html) PRIDE公式サイト（Internet Archive）
+22. [PRIDE NEVADA OFFICIAL RULES](https://web.archive.org/web/*/http://www.prideofficial.com/free/rule/nevada_en.html) PRIDE公式サイト（Internet Archive）

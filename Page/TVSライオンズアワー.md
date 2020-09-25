@@ -155,13 +155,13 @@ CM枠では、回によって西武グループの催事案内を行う「西武
   - [森本稀哲](../Page/森本稀哲.md "wikilink")（2018年 - 、本数契約として出演。在札各局・[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")・[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")・[BS-TBS](../Page/BS-TBS.md "wikilink")・[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")解説者兼）
   - [長田秀一郎](../Page/長田秀一郎.md "wikilink")（2018年 -。西武球団制作中継解説者兼）※西武球団職員（ライオンズアカデミーコーチ）
   - [高木大成](../Page/高木大成.md "wikilink") (2019年 - 。本数契約として出演。西武球団制作中継・[BS朝日](https://ja.wikipedia.org/wiki/BS朝日 "wikilink")解説者兼) ※西武球団職員（球団事務所勤務）
-  - [平野謙](https://ja.wikipedia.org/wiki/平野謙 "wikilink") (2019年8月24日に、テレ玉40周年ウィークの際にゲスト解説として出演したが、2020年からは本数契約として出演。[J SPORTS](../Page/J_SPORTS.md "wikilink")・[STVラジオ](../Page/STVラジオ.md "wikilink")解説者兼)
+  - [平野謙](../Page/平野謙_\(野球\).md "wikilink") (2019年8月24日に、テレ玉40周年ウィークの際にゲスト解説として出演したが、2020年からは本数契約として出演。[J SPORTS](../Page/J_SPORTS.md "wikilink")・[STVラジオ](../Page/STVラジオ.md "wikilink")解説者兼)
+  - [石毛宏典](../Page/石毛宏典.md "wikilink") (2019年8月22日に、テレ玉40周年ウィークの際にゲスト解説として出演したが、2020年からは本数契約として出演)
 
 ### スペシャルゲスト解説者(テレ玉40周年記念として)
 
   - [G.G.佐藤](https://ja.wikipedia.org/wiki/佐藤隆彦 "wikilink") (2019年8月20日放送に出演。[東日本放送](../Page/東日本放送.md "wikilink")・千葉ロッテ球団制作中継解説者兼)
   - [新谷博](../Page/新谷博.md "wikilink") (2019年8月21日放送に出演。[HBCテレビ](https://ja.wikipedia.org/wiki/HBCテレビ "wikilink")・[HBCラジオ](../Page/HBCラジオ.md "wikilink")解説者兼)
-  - [石毛宏典](../Page/石毛宏典.md "wikilink") (2019年8月22日放送に出演)
   - [松沼博久](../Page/松沼博久.md "wikilink") (2019年8月25日放送に出演。西武球団制作中継・文化放送解説者兼)
 
 ### ゲスト

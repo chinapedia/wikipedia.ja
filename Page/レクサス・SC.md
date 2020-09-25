@@ -9,7 +9,7 @@
 
 いずれのモデルも日本ではトヨタブランド（[トヨタ店](../Page/トヨタ店.md "wikilink")・[トヨペット店](../Page/トヨペット店.md "wikilink")）から「**[トヨタ・ソアラ](../Page/トヨタ・ソアラ.md "wikilink")**」の3代目、4代目モデルとして販売され、[2005年](../Page/2005年.md "wikilink")8月のレクサス国内開業時に日本でも「レクサス・SC」に車名が変更された。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")7月末をもって生産終了となり、後継モデルの有無について現時点でレクサスから公式の発表はない\[1\]。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")末をもって生産終了となり、後継モデルの有無についてその時点でレクサスから公式の発表はなかった\[1\]が、[2017年](../Page/2017年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、事実上の後継車である[レクサス・LC](https://ja.wikipedia.org/wiki/レクサス・LC "wikilink")が発売された。
 
 ## 初代（1991年 - 2001年）
 

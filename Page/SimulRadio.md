@@ -25,7 +25,7 @@
       - [Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")のWebブラウザ（[Firefox](https://ja.wikipedia.org/wiki/Firefox "wikilink")など）でも聴取は可能。WMA互換のメディアプレイヤーとそのプラグインを利用する形になる（両者の組み合わせ次第では一部の局で再生不可になる事も）。
   - [W-ZERO3](../Page/W-ZERO3.md "wikilink")（[ウィルコム](../Page/ウィルコム.md "wikilink")） - [W+Radio](https://ja.wikipedia.org/wiki/W+Radio "wikilink")を起動することで、SimulRadioで聴取可能なほとんどの局の利用が可能。
   - [iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")（[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")、[iPod touch](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")） - CSRA公式の専用アプリ「コミュニティFM for iPhone （i-コミュラジ）」（有料）をダウンロードする必要がある（一部対象局のみ）。また、無料のインターネットラジオ聴取アプリ「TuneIn Radio」または「[Fstream](https://ja.wikipedia.org/wiki/Fstream "wikilink")」など各種非公式アプリを使用しての聴取も可能\[3\]。
-  - [Android](../Page/Android.md "wikilink") - 無料のインターネットラジオ聴取アプリ「TuneIn Radio」など各種非公式アプリを使用しての聴取が可能。専用アプリ「SimulRadio for Android」は遅くとも2014年12月にほぼ全局のサービスが終了している。
+  - [Android](../Page/Android_\(オペレーティングシステム\).md "wikilink") - 無料のインターネットラジオ聴取アプリ「TuneIn Radio」など各種非公式アプリを使用しての聴取が可能。専用アプリ「SimulRadio for Android」は遅くとも2014年12月にほぼ全局のサービスが終了している。
 
 いずれの方法も、都道府県域の民放ラジオ局で実施されている「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")」とは異なり、聴取エリアの制限はなく、全国および全世界で無料で（通信料のみで）利用できる。
 

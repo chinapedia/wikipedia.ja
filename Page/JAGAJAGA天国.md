@@ -94,7 +94,7 @@ UMKは『[さんさんサタデー](../Page/さんさんサタデー.md "wikilin
   - 以前、テーマ曲に[大滝詠一](https://ja.wikipedia.org/wiki/大滝詠一 "wikilink")の「[1969年のドラッグレース](../Page/EACH_TIME.md "wikilink")」が使われていた時期がある。
   - 年末年始特番時を除き番組が休止になることは少なかった。2010年6月26日は[2010 FIFAワールドカップ](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink")・[ポルトガル](../Page/サッカーポルトガル代表.md "wikilink")×[フランス戦のため](../Page/サッカーフランス代表.md "wikilink")、2時間繰り下げの14:00 - 14:55に放送された。また2011年3月12日は、前日に発生した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")関連の報道特番のため番組自体が臨時休止となった。
 
-## 出来事
+## 不祥事
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月14日](../Page/6月14日.md "wikilink")\[2\]、[高千穂町](../Page/高千穂町.md "wikilink")の尻[相撲](../Page/相撲.md "wikilink")大会の中継をしていた柳田哲志が生中継中に女尻相撲に参加させられ、落ちる際に空中で前転して頭から水田に落ちて動かなくなった。リポート終了後に[頸椎](../Page/頸椎.md "wikilink")[骨折](../Page/骨折.md "wikilink")や[脊髄損傷](../Page/脊髄損傷.md "wikilink")で重傷を負っていたことが明らかとなり、一時全身[麻痺](../Page/麻痺.md "wikilink")の状態に陥った。2010年8月2日付の柳田のブログ記事にて、自助具を用いたパソコン操作や髭剃りの訓練を行っていることが明らかにされている。
 

@@ -65,13 +65,17 @@
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[11月](../Page/11月.md "wikilink")
       - 2代目と入れ替わる形で販売終了。
 
+ファイル:1994Mitsubishi_rvr_rear.jpg|標準車体Xグレード（1994年式・リア） ファイル:Mitsubishi RVR 1997 1.jpg|ハイパースポーツギア（1997年式・左サイド） ファイル:Mitsubishi RVR 1997 2.jpg|ハイパースポーツギア（1997年式・右サイド）
+
+{{-}}
+
 ## 2代目（1997年-2003年）N61W/N64WG/N71W/N73WG/N74WG型
 
 先代同様にシャリオの後継、シャリオグランディスのコンポーネンツをショート化して流用した。シャリオは[3ナンバーサイズになったが](https://ja.wikipedia.org/wiki/日本のナンバープレート#分類番号 "wikilink")、RVRは5ナンバーでミニバン風のルックスの「GDI RVR」と3ナンバーで[クロスオーバーSUV](../Page/クロスオーバーSUV.md "wikilink")の「RVR スポーツギア」の2つに分けられるかたちとなった。 先代の特徴であったロングスライドシートやリアスライドドアなどの機構は踏襲されている。
 
 [1999年](../Page/1999年.md "wikilink")のマイナーチェンジ時に当時売れ行き好調であったシャリオグランディスの意匠をイメージさせる大幅なフェイスリフトが行われた。また要望の多かった両側スライドドア車も新設定された。スポーツギアはスペアタイヤキャリアや若干高められた車高等、オフロード色を二代目においても前面に出していたが、その後オンロードを重視した意匠の「スポーツギア・エアロ」が設定され、若者を中心にした新たなユーザー層開拓を図った。
 
-グレードは標準タイプの「X」（後期は「エクシード」）とスポーツタイプの「スポーツギア」に大きく分類され、標準タイプの「X」は1.8L ガソリンエンジンを、「スポーツギア」は2.4L GDIエンジンもしくは2L [4G63型ターボエンジンを搭載した](../Page/三菱・4G63.md "wikilink")。なお、最強モデルの「スポーツギアX3」は、レベライザー付き[キセノン](https://ja.wikipedia.org/wiki/キセノン "wikilink")[ヘッドライト](https://ja.wikipedia.org/wiki/ヘッドライト "wikilink")や本革巻ステアリング・シフトノブ、[ハチドリ](../Page/ハチドリ.md "wikilink")の模様が織り込まれたオリジナルシートなどが奢られていた。
+グレードは標準タイプの「X」（後期は「エクシード」）とスポーツタイプの「スポーツギア」に大きく分類され、標準タイプの「X」は1.8L ガソリンエンジンを、「スポーツギア」は2.4L GDIエンジンもしくは、[ランサーエボリューションと同じ](../Page/三菱・ランサーエボリューション.md "wikilink")2L [4G63型ターボエンジン](../Page/三菱・4G63.md "wikilink")（250PSにデチューン）を搭載した。なお、最強モデルの「スポーツギアX3」は、レベライザー付き[キセノン](https://ja.wikipedia.org/wiki/キセノン "wikilink")[ヘッドライト](https://ja.wikipedia.org/wiki/ヘッドライト "wikilink")や本革巻ステアリング・シフトノブ、[ハチドリ](../Page/ハチドリ.md "wikilink")の模様が織り込まれたオリジナルシートなどが奢られていた。
 
 ### 年表
 
@@ -206,7 +210,7 @@
       - 一部改良された\[15\]。
       - 外観は2017年2月のマイナーチェンジより導入されている「ダイナミックシールド」が進化され、パンパーのプロテクトを左右から中央に向かって包み込む形状に、フロントグリル部を水平・垂直基調のスクエアなラインで構成され、フロントフェイスに厚みを持たせた。フロントランプは視認性向上のため、ターンランプをヘッドランプから独立させ、フォグランプと共にバンパーサイドに配置した。リアはテールランプが水平基調デザインに変更され、バンパーサイドにブラックのガーニッシュを追加。「G」は新デザインの18インチアルミホイールが採用された。ボディカラーは赤系色の「レッドメタリック」を「レッドダイヤモンド（有料色）」に入れ替え、新色の「サンシャインオレンジメタリック（有料色）」を追加して7色展開となった。
       - 内装は「G」においてシート生地に[幾何学](../Page/幾何学.md "wikilink")パターンが採用され、室内天井がブラックに変更された。
-      - 新たに[Android](../Page/Android.md "wikilink")[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")や[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")用のUSBポートを設けて[Android Autoや](https://ja.wikipedia.org/wiki/Android_Auto "wikilink")[Apple CarPlayに対応した](https://ja.wikipedia.org/wiki/CarPlay "wikilink")8インチスマートフォン連携ナビゲーションをメーカーオプション設定し、「e-Assist」に前進時の誤発進抑制機能を追加、INVECS-III6速スポーツモードCVTにスポーツモードの常時設定を可能にするMポジションが新たに設けられた。
+      - 新たに[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")や[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")用のUSBポートを設けて[Android Autoや](https://ja.wikipedia.org/wiki/Android_Auto "wikilink")[Apple CarPlayに対応した](https://ja.wikipedia.org/wiki/CarPlay "wikilink")8インチスマートフォン連携ナビゲーションをメーカーオプション設定し、「e-Assist」に前進時の誤発進抑制機能を追加、INVECS-III6速スポーツモードCVTにスポーツモードの常時設定を可能にするMポジションが新たに設けられた。
       - なお、今回の一部改良により、排出ガスと[燃料消費率](../Page/燃料消費率.md "wikilink")がWLTCモード走行に対応し、「平成30年排出ガス基準50%低減レベル（☆☆☆☆）」認定を取得した。
   - 2019年12月12日
       - 特別仕様車「Black Edition」が発売された\[16\]。
@@ -594,7 +598,7 @@
 </table>
 
 ファイル:Mitsubishi Concept-cX.jpg|コンセプトCX
-（3代目の源流となったコンセプトモデル） ファイル:Mitsubishi RVR 302.JPG|サイド及びリヤ（1期。- 2012年10月モデル） <File:Mitsubishi> RVR G (GA4W) front.JPG|フロント（2期・17インチアルミホイール（切削光沢仕上げ）装着車。2014年4月－2017年2月モデル） <File:2017> Mitsubishi ASX (XD) LS wagon (2017-08-27).jpg|海外向け　ASX（3期） <File:Mitsubishi> RVR M (DBA-GA4W-XTSX) front.jpg|フロント　Ｍ（4期）
+（3代目の源流となったコンセプトモデル） ファイル:Mitsubishi RVR 302.JPG|サイド及びリヤ（1期・2012年10月モデル） [File:2011_mitsubishi_rvr_roadest.jpg|ローデストG(GA4W)フロント(1期・2011年10月モデル](File:2011_mitsubishi_rvr_roadest.jpg%7CローデストG\(GA4W\)フロント\(1期・2011年10月モデル)） <File:Mitsubishi> RVR G (GA4W) front.JPG|フロント（2期・17インチアルミホイール（切削光沢仕上げ）装着車。2014年4月-2017年2月モデル） <File:2017> Mitsubishi ASX (XD) LS wagon (2017-08-27).jpg|海外向け　ASX（3期） <File:Mitsubishi> RVR M (DBA-GA4W-XTSX) front.jpg|フロント　Ｍ（4期）
 
 ## 日本国外での販売ならびにOEM
 
@@ -605,7 +609,7 @@
   - ガソリンエンジンは、北米、シンガポール、中国、マレーシア、フィリピン、オーストラリア、ニュージーランド仕様に4B11 2,000cc、欧州仕様に4A92 1,600ccが設定され、ディーゼルエンジンは欧州とオーストラリア、ニュージーランド向けに4N13 1,800cc直噴ターボ・ディーゼルの設定がある。ロシア、ウクライナでは3種全てのガソリンエンジンが設定されている。
   - また2010年4月27日には[PSAグループとの間で](https://ja.wikipedia.org/wiki/PSA・プジョーシトロエン "wikilink")[アウトランダーに続きOEM供給することに合意し](../Page/三菱・アウトランダー.md "wikilink")、同日発表した\[21\]。プジョー版が**4008**、シトロエン版が**C4エアクロス**（*C4 AIRCROSS* ）という車名になる。いずれも外観はRVRと異なる独自の物である。
 
-ファイル:Eagle-Summit-wagon.jpg|イーグル・サミットワゴン ファイル:Mitsubishi Space Runner front 20080121.jpg|欧州仕様:スペースランナー ファイル:Mitsubishi Space Runner rear 20080121.jpg|欧州仕様:スペースランナー（リア） ファイル:2012-03-07 Motorshow Geneva 4382.JPG|プジョー・4008 ファイル:2012-03-07 Motorshow Geneva 4513.JPG|シトロエン・C4エアクロス
+ファイル:Eagle-Summit-wagon.jpg|イーグル・サミットワゴン ファイル:Mitsubishi Space Runner front 20080121.jpg|欧州仕様:スペースランナー ファイル:Mitsubishi Space Runner rear 20080121.jpg|欧州仕様:スペースランナー（リア） ファイル:Mitsubishi_Expo_LRV_1.jpg|米国仕様:Expo LRV ファイル:2012-03-07 Motorshow Geneva 4382.JPG|プジョー・4008 ファイル:2012-03-07 Motorshow Geneva 4513.JPG|シトロエン・C4エアクロス
 
 ## 車名の由来
 

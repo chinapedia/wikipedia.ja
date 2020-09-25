@@ -1,7 +1,7 @@
 > この記事は[レクサス・GS](https://ja.wikipedia.org/wiki/レクサス・GS)から翻訳されています。
 
 
-[Lexus_GS_L10_Hybrid_facelift_China_2016-04-16.jpg](https://ja.wikipedia.org/wiki/File:Lexus_GS_L10_Hybrid_facelift_China_2016-04-16.jpg "fig:Lexus_GS_L10_Hybrid_facelift_China_2016-04-16.jpg") **GS**（ジーエス、Lexus GS ）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が展開する[高級車](../Page/高級車.md "wikilink")ブランド「**[レクサス](../Page/レクサス.md "wikilink")**」が販売する4ドア[セダン](../Page/セダン.md "wikilink")である。
+[Lexus_GS_L10_Hybrid_facelift_China_2016-04-16.jpg](https://ja.wikipedia.org/wiki/File:Lexus_GS_L10_Hybrid_facelift_China_2016-04-16.jpg "fig:Lexus_GS_L10_Hybrid_facelift_China_2016-04-16.jpg") **GS**（ジーエス、Lexus GS ）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が展開する[高級車](../Page/高級車.md "wikilink")ブランド「**[レクサス](../Page/レクサス.md "wikilink")**」が販売した4ドア[セダン](../Page/セダン.md "wikilink")である。
 
 ## 概要
 
@@ -155,6 +155,8 @@
     エクステリアでは、F SPORT専用フロントグリルとフロントバンパーサイドベゼルに専用グロスブラック、F SPORT専用フレームとラゲージドアガーニッシュに専用漆黒メッキ、F SPORT専用のリアスポイラー及びアルミホイール（タイヤは235/40R19となり、GS350のAWD車を除くタイプではリアが265/35R19となる）とオート格納式電動ドアミラーに専用ブラック塗装（アルミホイールは[ナット](../Page/ナット.md "wikilink")もブラックとなる。リアスポイラーとドアミラーはボディカラーで「グラファイトブラックガラスフレーク」を選択した場合はボディカラー同色）が施され、三眼フルLEDヘッドランプ（ロー・ハイビーム）\&LEDフロントターンシグナルランプとヘッドランプクリーナーも装備。GS350の2WD車とGS450hにはF SPORT専用オレンジブレーキキャリパー（フロント・リア/フロントLEXUSロゴ）も採用された。
     インテリアでは、GS Fに採用されているアルカンターラ表皮（メーターフード/インストルメントパネル上部/センターコンソール/パームレスト/ドアトリム）やカーボンオーナメントパネル（ブラック）が採用され、随所にレッドステッチが施された。また、F SPORT専用ディンプル本革ステアリングやドアトリムの一部にフレアレッドの表皮を配した。
     機能面では、クリアランスソナー&バックソナー、アダプティブハイビームシステム、ブラインドスポットモニターが装備された。
+  - 2020年9月7日
+    折からのセダン市場の慢性的な冷え込み・縮小などに伴う販売不振のため、スポーツモデルのGS Fも含めて販売終了。これと同時に公式ホームページへの掲載を終了した。今後は駆動形式に[前輪駆動](../Page/前輪駆動.md "wikilink")（FF）を用いた既存の大型プレミアムサルーンである**[ES300hが事実上](https://ja.wikipedia.org/wiki/レクサス・ES "wikilink")、間接的な代替車種**となる。
 
 　
 

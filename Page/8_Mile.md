@@ -24,7 +24,7 @@
   - ソル・ジョージ - [オマー・ベンソン・ミラー](https://ja.wikipedia.org/wiki/オマー・ベンソン・ミラー "wikilink")（[奈良徹](../Page/奈良徹.md "wikilink")）
   - ウィンク - [ユージン・バード](https://ja.wikipedia.org/wiki/ユージン・バード "wikilink")（[伊藤健太郎](../Page/伊藤健太郎_\(声優\).md "wikilink")）
   - パパ・ドク - [アンソニー・マッキー](https://ja.wikipedia.org/wiki/アンソニー・マッキー "wikilink")（[内田夕夜](../Page/内田夕夜.md "wikilink")）
-  - ジャニーン -
+  - ジャニーン - [タリン・マニング](https://ja.wikipedia.org/wiki/タリン・マニング "wikilink")
   - グレッグ - [マイケル・シャノン](../Page/マイケル・シャノン.md "wikilink")（[咲野俊介](../Page/咲野俊介.md "wikilink")）
 
 ## 脚注
@@ -35,4 +35,4 @@
   -
   -
   -
-[Category:2002年の映画](https://ja.wikipedia.org/wiki/Category:2002年の映画 "wikilink") [Category:アメリカ合衆国のドラマ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のドラマ映画 "wikilink") [Category:ポピュラー音楽を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:ポピュラー音楽を題材とした映画作品 "wikilink") [Category:貧困を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:貧困を題材とした映画作品 "wikilink") [Category:人種差別を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:人種差別を題材とした映画作品 "wikilink") [Category:デトロイトを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:デトロイトを舞台とした映画作品 "wikilink") [Category:ユニバーサル・ピクチャーズの作品](https://ja.wikipedia.org/wiki/Category:ユニバーサル・ピクチャーズの作品 "wikilink") [Category:イマジン・エンターテインメントの作品](https://ja.wikipedia.org/wiki/Category:イマジン・エンターテインメントの作品 "wikilink") [Category:カーティス・ハンソンの監督映画](https://ja.wikipedia.org/wiki/Category:カーティス・ハンソンの監督映画 "wikilink") [Category:アカデミー賞受賞作](https://ja.wikipedia.org/wiki/Category:アカデミー賞受賞作 "wikilink")
+[Category:2002年の映画](https://ja.wikipedia.org/wiki/Category:2002年の映画 "wikilink") [Category:アメリカ合衆国のドラマ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のドラマ映画 "wikilink") [Category:ポピュラー音楽を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:ポピュラー音楽を題材とした映画作品 "wikilink") [Category:貧困を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:貧困を題材とした映画作品 "wikilink") [Category:人種差別を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:人種差別を題材とした映画作品 "wikilink") [Category:デトロイトを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:デトロイトを舞台とした映画作品 "wikilink") [Category:ミシガン州で製作された映画作品](https://ja.wikipedia.org/wiki/Category:ミシガン州で製作された映画作品 "wikilink") [Category:デトロイトで製作された映画作品](https://ja.wikipedia.org/wiki/Category:デトロイトで製作された映画作品 "wikilink") [Category:ユニバーサル・ピクチャーズの作品](https://ja.wikipedia.org/wiki/Category:ユニバーサル・ピクチャーズの作品 "wikilink") [Category:イマジン・エンターテインメントの作品](https://ja.wikipedia.org/wiki/Category:イマジン・エンターテインメントの作品 "wikilink") [Category:カーティス・ハンソンの監督映画](https://ja.wikipedia.org/wiki/Category:カーティス・ハンソンの監督映画 "wikilink") [Category:アカデミー賞受賞作](https://ja.wikipedia.org/wiki/Category:アカデミー賞受賞作 "wikilink")

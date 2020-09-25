@@ -18,6 +18,7 @@
   - 若月正幸（[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")→）
   - 大平拓也
   - 温水義成
+  - 野呂楓子
 
 ### 制作
 
@@ -262,7 +263,7 @@
   - [ジャネーノ\!?](https://ja.wikipedia.org/wiki/ジャネーノ!? "wikilink")（2014年4月 - 9月）
   - [オサレもん](https://ja.wikipedia.org/wiki/オサレもん "wikilink")（2014年10月 - 2015年3月）
   - [ニュースな晩餐会](https://ja.wikipedia.org/wiki/ニュースな晩餐会 "wikilink")（2014年10月 - 2015年3月）
-  - **[クレイジージャーニー](https://ja.wikipedia.org/wiki/クレイジージャーニー "wikilink")**（TBS 2015年4月 - ）
+  - [クレイジージャーニー](https://ja.wikipedia.org/wiki/クレイジージャーニー "wikilink")（TBS 2015年4月 - 2019年8月）
   - **[いただきハイジャンプ](https://ja.wikipedia.org/wiki/いただきハイジャンプ "wikilink")**（2015年7月 - ）
   - [EG-style](https://ja.wikipedia.org/wiki/EG-style "wikilink")（2015年10月 - 2016年3月）
   - **[MATSUぼっち](https://ja.wikipedia.org/wiki/MATSUぼっち "wikilink")**（2016年4月 - ）
@@ -396,8 +397,10 @@
 <!-- end list -->
 
   - [クイズ\!イチガン](https://ja.wikipedia.org/wiki/クイズ!イチガン "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")、[ディ・コンプレックス](../Page/ディ・コンプレックス.md "wikilink")　2012年4月 - 7月）
-  - **[村上信五とスポーツの神様たち](https://ja.wikipedia.org/wiki/村上信五とスポーツの神様たち "wikilink")**（ディ・コンプレックス　2015年4月 - ）
+  - [村上信五とスポーツの神様たち](https://ja.wikipedia.org/wiki/村上信五とスポーツの神様たち "wikilink")（ディ・コンプレックス　2015年4月 - ）
   - [スポーツジャングル](https://ja.wikipedia.org/wiki/スポーツジャングル "wikilink")（吉本興業、ビーダッシュ　2016年4月 - 2017年3月）
+  - **[ジャンクSPORTS](../Page/ジャンクSPORTS.md "wikilink")**（2018年1月 - ）
+  - **[林修のニッポンドリル](https://ja.wikipedia.org/wiki/林修のニッポンドリル "wikilink")**（ワタナベエンターテインメント、HiHo-TV　2018年10月 - ）
 
 <!-- end list -->
 
@@ -538,7 +541,7 @@
 <!-- end list -->
 
   - [どぅんつくぱ〜音楽の時間〜](https://ja.wikipedia.org/wiki/どぅんつくぱ〜音楽の時間〜 "wikilink")（2014年10月 - 12月）
-  - **[あたしの音楽](https://ja.wikipedia.org/wiki/あたしの音楽 "wikilink")**（[フジテレビNEXT](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")　2014年11月 - ）
+  - [あたしの音楽](https://ja.wikipedia.org/wiki/あたしの音楽 "wikilink")（[フジテレビNEXT](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")　2014年11月 - 2017年3月）
   - [音楽の時間 〜MUSIC HOUR〜](https://ja.wikipedia.org/wiki/音楽の時間_〜MUSIC_HOUR〜 "wikilink")（2015年1月 - 3月）
   - [水曜歌謡祭](https://ja.wikipedia.org/wiki/Love_music "wikilink")（2015年4月 - 9月）
   - **[Love music](https://ja.wikipedia.org/wiki/Love_music "wikilink")**（2015年10月 - ）
@@ -556,16 +559,51 @@
   - [2011 FNS歌謡祭](https://ja.wikipedia.org/wiki/2011_FNS歌謡祭 "wikilink")（2011年12月）
   - [リュウ達来ちゃいなよ\!ジャニーズ東西ドーム年越し生歌合戦\!\!](https://ja.wikipedia.org/wiki/ジャニーズカウントダウンライブ#リュウ達来ちゃいなよ!ジャニーズ東西ドーム年越し生歌合戦!! "wikilink")（2011年12月31日 - 2012年1月1日）
   - [とんねるずが生放送\!音楽番組全部見せます\!\!-名曲で元気になろう-](https://ja.wikipedia.org/wiki/とんねるずが生放送!音楽番組全部見せます!!-名曲で元気になろう- "wikilink")（2012年3月）
-  - [FNSうたの夏まつり2012](https://ja.wikipedia.org/wiki/FNSうたの夏まつり#2012年 "wikilink")（2012年8月）
+  - [2012](https://ja.wikipedia.org/wiki/2012_FNSうたの夏まつり "wikilink") [FNSうたの夏まつり](https://ja.wikipedia.org/wiki/FNSうたの夏まつり "wikilink")（2012年8月）
   - [2012 FNS歌謡祭](https://ja.wikipedia.org/wiki/2012_FNS歌謡祭 "wikilink")（2012年12月）
   - [平成25\!\!15年目だよ\!見なきゃソンSONGジャニーズ年越し生放送](https://ja.wikipedia.org/wiki/ジャニーズカウントダウンライブ#平成25!!15年目だよ!見なきゃソンSONGジャニーズ年越し生放送 "wikilink")（2012年12月31日 - 2013年1月1日）
-  - [FNSうたの夏まつり2013](https://ja.wikipedia.org/wiki/FNSうたの夏まつり#2013年 "wikilink")（2013年7月）
+  - [2013 FNSうたの夏まつり](https://ja.wikipedia.org/wiki/2013_FNSうたの夏まつり "wikilink")（2013年7月）
   - [FNS名曲の祭典 秘蔵映像で振り返る55年 -NO MUSIC, NO TV.-](https://ja.wikipedia.org/wiki/FNS名曲の祭典_秘蔵映像で振り返る55年_-NO_MUSIC,_NO_TV.- "wikilink")（2013年11月）
   - [2013 FNS歌謡祭](https://ja.wikipedia.org/wiki/2013_FNS歌謡祭 "wikilink")（2013年12月）
   - [ウマれる新たな伝説 ジャニーズ年越し生放送](https://ja.wikipedia.org/wiki/ジャニーズカウントダウンライブ#ウマれる新たな伝説_ジャニーズ年越し生放送 "wikilink")（2013年12月31日 - 2014年1月1日）
-  - [FNSうたの夏まつり2014](https://ja.wikipedia.org/wiki/FNSうたの夏まつり#2014年 "wikilink")（2014年8月）
+  - [2014 FNSうたの夏まつり](https://ja.wikipedia.org/wiki/2014_FNSうたの夏まつり "wikilink")（2014年8月）
   - [2014 FNS歌謡祭](https://ja.wikipedia.org/wiki/2014_FNS歌謡祭 "wikilink")（2014年12月）
-  - [FNSうたの夏まつり2015](https://ja.wikipedia.org/wiki/FNSうたの夏まつり#2015年 "wikilink")（2015年7月）
+  - [2015 FNSうたの夏まつり](https://ja.wikipedia.org/wiki/2015_FNSうたの夏まつり "wikilink")（2015年7月）
+  - [2015 FNS歌謡祭](https://ja.wikipedia.org/wiki/2015_FNS歌謡祭 "wikilink")（2015年12月）
+  - [2016 FNSうたの春まつり](https://ja.wikipedia.org/wiki/FNSうたの春まつり "wikilink")（2016年3月）
+  - [2016 FNSうたの夏まつり](https://ja.wikipedia.org/wiki/2016_FNSうたの夏まつり "wikilink")（2016年7月）
+  - [2016 FNS歌謡祭](https://ja.wikipedia.org/wiki/2016_FNS歌謡祭 "wikilink")（2016年12月）
+  - [2017 FNSうたの春まつり](https://ja.wikipedia.org/wiki/FNSうたの春まつり "wikilink")（2017年3月）
+  - [2017 FNSうたの夏まつり](https://ja.wikipedia.org/wiki/2017_FNSうたの夏まつり "wikilink")（2017年7月）
+  - **[三宅裕司と春風亭昇太のサンキュー歌謡曲一座](https://ja.wikipedia.org/wiki/三宅裕司と春風亭昇太のサンキュー歌謡曲一座 "wikilink")**（2017年11月 - ）
+  - [2017 FNS歌謡祭](https://ja.wikipedia.org/wiki/2017_FNS歌謡祭 "wikilink")（2017年12月）
+  - [2018 FNSうたの夏まつり](https://ja.wikipedia.org/wiki/2018_FNSうたの夏まつり "wikilink")（2018年7月）
+  - [2018 FNS歌謡祭](https://ja.wikipedia.org/wiki/2018_FNS歌謡祭 "wikilink")（2018年12月）
+  - [2019 FNSうたの夏まつり](https://ja.wikipedia.org/wiki/2019_FNSうたの夏まつり "wikilink")（2019年7月）
+  - [2019 FNS歌謡祭](https://ja.wikipedia.org/wiki/2019_FNS歌謡祭 "wikilink")（2019年12月）
+
+</div>
+
+</div>
+
+<div class="NavFrame" style="clear: both; border:0;">
+
+<div class="NavHead" style="text-align: left;">
+
+2020年代
+
+</div>
+
+<div class="NavContent" style="text-align: left;">
+
+  - レギュラー番組
+    単発・特別番組
+
+<!-- end list -->
+
+  - [オダイバ\!\!超次元音楽祭](../Page/オダイバ!!超次元音楽祭.md "wikilink")（2020年1月）
+  - [緊急生放送\! FNS音楽特別番組 春は必ず来る](../Page/緊急生放送!_FNS音楽特別番組_春は必ず来る.md "wikilink")（2020年3月）
+  - [2020 FNS歌謡祭 夏](../Page/2020_FNS歌謡祭_夏.md "wikilink")（2020年8月）
 
 </div>
 

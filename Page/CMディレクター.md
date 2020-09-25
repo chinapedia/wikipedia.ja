@@ -70,7 +70,7 @@ __NOTOC__
   - [グ・スーヨン](https://ja.wikipedia.org/wiki/グ・スーヨン "wikilink")
   - [カイル・クーパー](../Page/カイル・クーパー.md "wikilink")
   - [窪田崇](../Page/窪田崇.md "wikilink")
-  - [栗原博之](https://ja.wikipedia.org/wiki/栗原博之 "wikilink")
+  - [栗原博之](../Page/栗原博之.md "wikilink")
   - [ジョナサン・グレイザー](https://ja.wikipedia.org/wiki/ジョナサン・グレイザー "wikilink")
   - [黒田秀樹](../Page/黒田秀樹.md "wikilink")
   - [畔柳恵輔](https://ja.wikipedia.org/wiki/畔柳恵輔 "wikilink")

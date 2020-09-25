@@ -5,7 +5,7 @@
 
 本名及び旧芸名は**市川 博樹**（いちかわ ひろき）。
 
-[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[神楽坂](../Page/神楽坂.md "wikilink")出身。血液型は[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[神楽坂](../Page/神楽坂.md "wikilink")出身。血液型は[B型](../Page/ABO式血液型.md "wikilink")。
 
 ## 来歴・人物
 

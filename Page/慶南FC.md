@@ -65,7 +65,7 @@
 
   - [金鍾夫](https://ja.wikipedia.org/wiki/金鍾夫 "wikilink") 2016-2019
 
-  - [薛琦鉉](https://ja.wikipedia.org/wiki/薛琦鉉 "wikilink") 2020-
+  - [薛琦鉉](../Page/薛琦鉉.md "wikilink") 2020-
 
 ## 歴代所属選手
 
@@ -107,6 +107,6 @@
 
   - [公式サイト](http://www.gyeongnamfc.com)
 
-[Category:韓国のサッカークラブ](https://ja.wikipedia.org/wiki/Category:韓国のサッカークラブ "wikilink") [Category:慶尚南道](https://ja.wikipedia.org/wiki/Category:慶尚南道 "wikilink")
+[Category:韓国のサッカークラブ](https://ja.wikipedia.org/wiki/Category:韓国のサッカークラブ "wikilink") [Category:昌原市](https://ja.wikipedia.org/wiki/Category:昌原市 "wikilink")
 
 1.  [＜サッカー＞Ｋリーグチャンピオンの全北、２０１３年に審判買収…](http://japanese.joins.com/article/037/216037.html?servcode=600&sectcode=610) - [中央日報](../Page/中央日報.md "wikilink")

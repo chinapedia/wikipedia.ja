@@ -124,7 +124,7 @@
   - ドラムロールの種類
       - 通常のドラムロール
       - 設楽が口ずさむドラムロール
-      - 設楽が歌う[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink") のB・BLUE（途中で日村に止められる）
+      - 設楽が歌う[BOØWY](../Page/BOØWY.md "wikilink") のB・BLUE（途中で日村に止められる）
       - RUSSIAN ROULETTE（途中で日村に止められる）
       - バンビーナ（日村に止められる。過去設楽の誕生日の時のみ、発表まで到達した）
 

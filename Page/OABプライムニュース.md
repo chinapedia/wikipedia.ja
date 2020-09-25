@@ -12,7 +12,7 @@
 ## 歴代キャスター
 
   - [長田次郎](https://ja.wikipedia.org/wiki/長田次郎 "wikilink")
-  - [中村康人](https://ja.wikipedia.org/wiki/中村康人 "wikilink")
+  - [中村康人](../Page/中村康人.md "wikilink")
   - [宮地靖子](https://ja.wikipedia.org/wiki/宮地靖子 "wikilink")
   - [原田多美子](../Page/原田多美子.md "wikilink")
   - [鈴木麻里](https://ja.wikipedia.org/wiki/鈴木麻里 "wikilink")

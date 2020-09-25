@@ -22,10 +22,14 @@ Muttのスローガンに、「*All mail clients suck. This one just sucks less*
 ## 外部リンク
 
   - [Mutt（日本語版）](http://www.emaillab.org/mutt/)
-  - [Mutt公式サイト](http://www.mutt.org/)
-      - [Mutt公式サイト内のWiki](http://wiki.mutt.org/)
-  - [comp.mail.mutt Usenetのニュースグループ](news:comp.mail.mutt)
-  - [Mutt Primer](http://www.linux.ie/articles/tutorials/mutt.php)
-  - [Mutt on Windows](http://www.geocities.com/win32mutt/)
 
+  - [Mutt公式サイト](http://www.mutt.org/)
+
+      - [Mutt公式サイト内のWiki](http://wiki.mutt.org/)
+
+  - [comp.mail.mutt Usenetのニュースグループ](news:comp.mail.mutt)
+
+  - [Mutt Primer](http://www.linux.ie/articles/tutorials/mutt.php)
+
+  -
 [Category:電子メールソフト](https://ja.wikipedia.org/wiki/Category:電子メールソフト "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink")

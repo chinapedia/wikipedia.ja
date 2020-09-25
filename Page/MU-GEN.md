@@ -143,7 +143,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a></p></td>
+<td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a></p></td>
 <td><p>月曜 24:50 - 25:20</p></td>
 <td></td>
 </tr>
@@ -323,7 +323,7 @@
 | 2006年1月                    | 「[TANGO](../Page/TANGO.md "wikilink")」[北原愛子](../Page/北原愛子.md "wikilink")                                                   | 「[卒業〜虹色DAYS〜](../Page/卒業〜虹色DAYS〜.md "wikilink")」スパークリング☆ポイント                                                                                |
 | 2006年2月                    | 「[ベスト オブ ヒーロー](../Page/ベスト_オブ_ヒーロー.md "wikilink")」倉木麻衣                                                                     | 「[君の涙を無駄にしたくない](https://ja.wikipedia.org/wiki/君の涙を無駄にしたくない "wikilink")」滴草由実                                                                 |
 | 2006年3月                    | 「[GLORIOUS](https://ja.wikipedia.org/wiki/GLORIOUS/PRECIOUS_PLACE "wikilink")」愛内里菜                                         | 「[籟・来・也](../Page/籟・来・也.md "wikilink")」GARNET CROW                                                                                           |
-| 2006年4月                    | 「[ピエロ](https://ja.wikipedia.org/wiki/ピエロ_\(B'zの曲\) "wikilink")」[B'z](../Page/B'z.md "wikilink")                            | 「[ピエロ](https://ja.wikipedia.org/wiki/ピエロ_\(B'zの曲\)#上木彩矢によるカバー "wikilink")」上木彩矢                                                              |
+| 2006年4月                    | 「[ピエロ](../Page/ピエロ_\(B'zの曲\).md "wikilink")」[B'z](../Page/B'z.md "wikilink")                                               | 「[ピエロ](https://ja.wikipedia.org/wiki/ピエロ_\(B'zの曲\)#上木彩矢によるカバー "wikilink")」上木彩矢                                                              |
 | 2006年5月                    | 「[MIRACLE](../Page/MIRACLE_\(愛内里菜の曲\).md "wikilink")」愛内里菜                                                                  | 「[もう一度 君に恋している](../Page/もう一度_君に恋している.md "wikilink")」北原愛子                                                                                    |
 | 2006年6月                    | 「[Diamond Wave](../Page/Diamond_Wave.md "wikilink")」倉木麻衣                                                                   | 「[100もの扉](../Page/100もの扉.md "wikilink")」[愛内里菜&三枝夕夏](../Page/愛内里菜&三枝夕夏.md "wikilink")（コーラス：スパークリング☆ポイント）                                     |
 | 2006年7月                    | 「[Everybody Jump](../Page/Everybody_Jump.md "wikilink")」三枝夕夏 IN db                                                         | 「[夢・花火](../Page/夢・花火.md "wikilink")」GARNET CROW                                                                                             |

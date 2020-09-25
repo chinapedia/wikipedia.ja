@@ -33,6 +33,7 @@
   - [QuickTime](../Page/QuickTime.md "wikilink")
   - [Audio Video Interleave](../Page/Audio_Video_Interleave.md "wikilink")
   - [ffdshow](https://ja.wikipedia.org/wiki/ffdshow "wikilink")
+  - [GIFアニメーション](../Page/GIFアニメーション.md "wikilink") - 他の静止画フォーマットを連続表示する動画フォーマットの例。
 
 ## 外部リンク
 

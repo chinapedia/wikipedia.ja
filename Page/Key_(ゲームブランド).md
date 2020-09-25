@@ -15,7 +15,7 @@ Keyは、株式会社[ビジュアルアーツ](../Page/ビジュアルアーツ
 
 第1作『[Kanon](../Page/Kanon_\(ゲーム\).md "wikilink")』・第2作『[AIR](../Page/AIR_\(ゲーム\).md "wikilink")』・第3作『[CLANNAD](https://ja.wikipedia.org/wiki/CLANNAD_\(ゲーム\) "wikilink")』・第6作『[リトルバスターズ\!](../Page/リトルバスターズ!.md "wikilink")』・第7作『[リトルバスターズ\!](../Page/リトルバスターズ!.md "wikilink")エクスタシー』、というフル規格の作品で初版10万本以上の大ヒット級と言える売り上げを上げている。ブランドが立ち上がってから10年以上が経過しているにもかかわらず、長期にわたって人気が安定している息の長いブランドである。また、後の作品になるほどエンターテイメント性が強化されており、作中のミニゲームとしてシミュレーションRPGや野球ゲームなどが製作されている。単純にノベルゲームとして見ても、独特の手法が後進のブランド・シナリオライターに与えた影響は大きく、[奈須きのこ](../Page/奈須きのこ.md "wikilink")、[竜騎士07](../Page/竜騎士07.md "wikilink")\[3\]などがKeyから影響を受けたと語っている。
 
-key原作のゲームは[京都アニメーション](../Page/京都アニメーション.md "wikilink")などにより積極的にアニメ化されている。アニメ化されることによって、原作の認知度も上がり、それが売上やkeyブランドの向上につながっている。また、2010年にはkey社内のスタッフが脚本を務めたオリジナルアニメ作品『[Angel Beats\!](https://ja.wikipedia.org/wiki/Angel_Beats! "wikilink")』が、2015年には麻枝准が原作・脚本を手掛けるオリジナルアニメ作品『[Charlotte](https://ja.wikipedia.org/wiki/Charlotte_\(アニメ\) "wikilink")』が[P.A.WORKS](https://ja.wikipedia.org/wiki/P.A.WORKS "wikilink")によって制作され、更に2016年には『[Rewrite](https://ja.wikipedia.org/wiki/Rewrite_\(ゲーム\) "wikilink")』が[エイトビット](https://ja.wikipedia.org/wiki/エイトビット "wikilink")制作など、近年では他のアニメーション会社に制作されることが多くなった。
+key原作のゲームは[京都アニメーション](../Page/京都アニメーション.md "wikilink")や東映アニメーションなどにより積極的にアニメ化されてきた。アニメ化されることによって、原作の認知度も上がり、それが売上やkeyブランドの向上につながっている。また、2010年にはkey社内のスタッフが脚本を務めたオリジナルアニメ作品『[Angel Beats\!](https://ja.wikipedia.org/wiki/Angel_Beats! "wikilink")』が、2015年には麻枝准が原作・脚本を手掛けるオリジナルアニメ作品『[Charlotte](https://ja.wikipedia.org/wiki/Charlotte_\(アニメ\) "wikilink")』が[P.A.WORKS](https://ja.wikipedia.org/wiki/P.A.WORKS "wikilink")によって制作され、更に2016年には『[Rewrite](https://ja.wikipedia.org/wiki/Rewrite_\(ゲーム\) "wikilink")』が[エイトビット](https://ja.wikipedia.org/wiki/エイトビット "wikilink")制作など、近年ではこれまで以上に様々なアニメーション会社により制作されている。
 
 2007年にはネットラジオである『[Keyらじ](../Page/Keyらじ.md "wikilink")』の配信を開始するなど精力的な活動展開を繰り広げている。
 
@@ -108,7 +108,7 @@ Key設立から10年目の[2009年](../Page/2009年.md "wikilink")[2月28日](..
 
   - [Kanon](../Page/Kanon_\(ゲーム\).md "wikilink")
       - [ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版ゲーム：2000年9月14日発売（発売元：[インターチャネル](https://ja.wikipedia.org/wiki/インターチャネル・ホロン "wikilink")）
-      - [PlayStation 2版ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")：2002年2月28日発売（発売元：インターチャネル）
+      - [PlayStation 2版ゲーム](../Page/PlayStation_2.md "wikilink")：2002年2月28日発売（発売元：インターチャネル）
       - PlayStation 2版ベスト版：2004年12月22日発売（発売元：インターチャネル→[ガンホー・ワークス](../Page/ガンホー・ワークス.md "wikilink")）
       - [PlayStation Portable版ゲーム](../Page/PlayStation_Portable.md "wikilink")：2007年2月15日発売（発売元：[プロトタイプ](../Page/プロトタイプ_\(企業\).md "wikilink")）
       - iモード・ビジュアルアーツ★Motto版：2007年6月18日配信（発売元：プロトタイプ）

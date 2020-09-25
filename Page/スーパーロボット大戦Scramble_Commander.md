@@ -1,7 +1,7 @@
 > この記事は[スーパーロボット大戦Scramble Commander](https://ja.wikipedia.org/wiki/スーパーロボット大戦Scramble_Commander)から翻訳されています。
 
 
-『**スーパーロボット大戦Scramble Commander**』（スーパーロボットたいせん スクランブルコマンダー）とは、[バンプレスト](../Page/バンプレスト.md "wikilink")が発売した[PlayStation 2専用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+『**スーパーロボット大戦Scramble Commander**』（スーパーロボットたいせん スクランブルコマンダー）とは、[バンプレスト](../Page/バンプレスト.md "wikilink")が発売した[PlayStation 2専用ゲームソフト](../Page/PlayStation_2.md "wikilink")。
 
 キャッチコピーは「**戦局は指揮官が握る**」。
 
@@ -68,7 +68,7 @@
   - [グフカスタム](https://ja.wikipedia.org/wiki/グフ#グフカスタム "wikilink") / [アイナ・サハリン](https://ja.wikipedia.org/wiki/機動戦士ガンダム_第08MS小隊の登場人物#アイナ・サハリン "wikilink")
   - [Ζガンダム](../Page/Ζガンダム.md "wikilink") / [カミーユ・ビダン](../Page/カミーユ・ビダン.md "wikilink")
   - [百式](../Page/百式_\(ガンダムシリーズ\).md "wikilink") / [クワトロ・バジーナ](../Page/シャア・アズナブル.md "wikilink")
-  - [ΖΖガンダム](https://ja.wikipedia.org/wiki/ΖΖガンダム "wikilink") / [ジュドー・アーシタ](../Page/ジュドー・アーシタ.md "wikilink")
+  - [ΖΖガンダム](../Page/ΖΖガンダム.md "wikilink") / [ジュドー・アーシタ](../Page/ジュドー・アーシタ.md "wikilink")
   - [νガンダム](https://ja.wikipedia.org/wiki/νガンダム "wikilink") / アムロ・レイ
   - [ウイングガンダムゼロカスタム](https://ja.wikipedia.org/wiki/ウイングガンダムゼロ#Endless_Waltz版 "wikilink") / [ヒイロ・ユイ](../Page/ヒイロ・ユイ.md "wikilink")
   - [トールギス](../Page/トールギス.md "wikilink") / [ゼクス・マーキス](../Page/ゼクス・マーキス.md "wikilink")

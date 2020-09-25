@@ -9,6 +9,7 @@
   - 表題曲のタイアップ先のドラマのタイトルが、ZARDの楽曲・アルバムにある『揺れる想い』となっている。
   - 「[IN MY ARMS TONIGHT](../Page/IN_MY_ARMS_TONIGHT.md "wikilink")」以来の横型ジャケット。また横型ジャケットでは最後の作品である。
   - 本作の歌詞の冒頭に出てくる”擦り切れるほど聴いたアルバム”とは坂井の実話であり、1999年にZARDとしてもカバーした「[CAN'T TAKE MY EYES OFF OF YOU](https://ja.wikipedia.org/wiki/CAN'T_TAKE_MY_EYES_OFF_OF_YOU "wikilink")」のことである。
+  - ジャケット写真を中心としたほぼ静止画のみで構成されたショート映像しか公開されていなかったが、坂井の死後に開催された追悼ライブ『[What a beautiful memory 〜forever you〜](https://ja.wikipedia.org/wiki/What_a_beautiful_memory_〜forever_you〜 "wikilink")』において、大阪のGrand Cafeで収録されたフル歌唱映像が初公開された。また、本作のレコーディング時に曲をテンポを細かく確認するシーンや「良い曲ですよね」と語るシーンも初公開され、『[ZARD MUSIC VIDEO COLLECTION 〜25th ANNIVERSARY〜](https://ja.wikipedia.org/wiki/ZARD_MUSIC_VIDEO_COLLECTION_〜25th_ANNIVERSARY〜 "wikilink")』に収録された。
 
 ## 収録曲
 

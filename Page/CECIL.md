@@ -44,7 +44,7 @@
   - 夏時計 -2002 ENCORE EDITION-（2002年7月19日）
   - CECILMANIA\#203（2002年7月19日）2000枚限定生産、完売
       -
-        [PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ROOMMANIA\#203](https://ja.wikipedia.org/wiki/ROOMMANIA#203 "wikilink")』コラボレーションCD（提供楽曲のセルフカバー）
+        [PlayStation 2](../Page/PlayStation_2.md "wikilink")『[ROOMMANIA\#203](https://ja.wikipedia.org/wiki/ROOMMANIA#203 "wikilink")』コラボレーションCD（提供楽曲のセルフカバー）
         当初は1500枚限定生産の予定だったが、予約が殺到した結果2000枚限定生産となった。
   - タイガー・リリィ（2004年3月24日）
       -

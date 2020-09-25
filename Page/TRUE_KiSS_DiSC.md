@@ -7,11 +7,15 @@
 
 [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースによるアーティスト用として使用。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に設立。
 
-設立当初は小室哲哉の自費製作によるインディーズレーベルだったが、[1999年](../Page/1999年.md "wikilink")にSME傘下のレーベルとなった。
+レーベルのロゴデザインは[エイサップ・ファーグ](https://ja.wikipedia.org/wiki/エイサップ・ファーグ "wikilink")の実父であり、かつて[ショーン・コムズ](../Page/ショーン・コムズ.md "wikilink")の[バッド・ボーイ・レコード](../Page/バッド・ボーイ・レコード.md "wikilink")のロゴを手がけたデザイナーであるダロルド・ファーガソンが担当した\[1\]。
 
-レーベルの趣旨は「音色先行」で小室が面白がれて楽しいと思える物を[TRUE KiSS DESTiNATiONから初めて](../Page/Kiss_Destination.md "wikilink")、レーベルのイメージとロゴマークもそこから固めていくようにした。目標は「海外のアーティスト・セルフ・プロデュースの出来るアーティストが個性を上手く引き出せて、好きなことを自由にやり易い環境を作るレーベル」「[トミー・ボーイ・レコード](https://ja.wikipedia.org/wiki/トミー・ボーイ・レコード "wikilink")・[マーヴェリック・レコード](https://ja.wikipedia.org/wiki/:en:Maverick_\(company\) "wikilink")・[デフ・ジャム・レコーディングス](https://ja.wikipedia.org/wiki/デフ・ジャム・レコーディングス "wikilink")のレベルに近づく」「レーベルから出る全ての作品が『**Produced by Tetsuya Komuro**』ではなくレーベルが所属アーティストの代弁者になる」「デジタル配信や他メディアとの融合等のマルチメディア展開」を目指した\[1\]。
+設立当初は小室哲哉の自費製作によるインディーズレーベルだったが、[1999年](../Page/1999年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")にSME傘下のレーベルとなった\[2\]。
 
-作品第一弾は[TRUE KiSS DESTiNATiONのアナログレコード盤](../Page/Kiss_Destination.md "wikilink")｢[PRECiOUS MOMENTS -WHEN WILL I SEE YOU AGAIN-](https://ja.wikipedia.org/wiki/PRECiOUS_MOMENTS_-WHEN_WILL_I_SEE_YOU_AGAIN- "wikilink")」。SMEのレーベルとしての作品第一弾は[鈴木あみのシングルCD](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")｢[Nothing Without You](https://ja.wikipedia.org/wiki/Nothing_Without_You "wikilink")」。しかし、レーベルが発足する以前にも同じ型番で鈴木などのプロデュースを行っているため、それらを遡って含める場合もある\[2\]。
+レーベルの趣旨は「音色先行」で小室が面白がれて楽しいと思える物を[TRUE KiSS DESTiNATiONから初めて](../Page/Kiss_Destination.md "wikilink")、レーベルのイメージとロゴマークもそこから固めていくようにした。目標は「海外のアーティスト・セルフ・プロデュースの出来るアーティストが個性を上手く引き出せて、好きなことを自由にやり易い環境を作るレーベル」「[トミー・ボーイ・レコード](https://ja.wikipedia.org/wiki/トミー・ボーイ・レコード "wikilink")・[マーヴェリック・レコード](https://ja.wikipedia.org/wiki/:en:Maverick_\(company\) "wikilink")・[デフ・ジャム・レコーディングス](https://ja.wikipedia.org/wiki/デフ・ジャム・レコーディングス "wikilink")のレベルに近づく」「レーベルから出る全ての作品が『**Produced by Tetsuya Komuro**』ではなくレーベルが所属アーティストの代弁者になる」「デジタル配信や他メディアとの融合等のマルチメディア展開」を目指した\[3\]。
+
+作品第一弾は[TRUE KiSS DESTiNATiONのアナログレコード盤](../Page/Kiss_Destination.md "wikilink")｢[PRECiOUS MOMENTS -WHEN WILL I SEE YOU AGAIN-](https://ja.wikipedia.org/wiki/PRECiOUS_MOMENTS_-WHEN_WILL_I_SEE_YOU_AGAIN- "wikilink")」。SMEのレーベルとしての作品第一弾は[鈴木あみのシングルCD](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")｢[Nothing Without You](https://ja.wikipedia.org/wiki/Nothing_Without_You "wikilink")」。しかし、レーベルが発足する以前にも同じ型番で鈴木などのプロデュースを行っているため、それらを遡って含める場合もある\[4\]。
+
+1999年9月に本レーベルの所属アーティストと海外の有名アーティストがコラボレーションしたオムニバスアルバムの発売が企画されていた\[5\]。
 
 [2000年](../Page/2000年.md "wikilink")前半に、Kiss Destination、[TM NETWORK](../Page/TM_NETWORK.md "wikilink")（[宇都宮隆](https://ja.wikipedia.org/wiki/宇都宮隆 "wikilink")・[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")）が[Rojam Entertainmentへ移籍](../Page/Rojam_Entertainment.md "wikilink")（後に[R and C](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")/gaball screenに移籍）。最後に残った鈴木も契約トラブルにより新曲のリリースが不可能となり、2001年5月の[FUN for FANと](../Page/FUN_for_FAN.md "wikilink")7月に同名の[ビデオクリップ集のリリースを以てTRUE](../Page/ミュージック・ビデオ.md "wikilink") KiSS DiSCレーベルは活動休止となった。
 
@@ -48,5 +52,8 @@
 
 [Category:ソニー・ミュージックアソシエイテッドレコーズ](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアソシエイテッドレコーズ "wikilink") [Category:かつて存在した日本のレコード・レーベル](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のレコード・レーベル "wikilink") [Category:1998年設立](https://ja.wikipedia.org/wiki/Category:1998年設立 "wikilink") [Category:小室哲哉](https://ja.wikipedia.org/wiki/Category:小室哲哉 "wikilink")
 
-1.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』1999年7月号「小室哲哉 世紀末前夜、最強のTRAP始動」73P-75Pより。
-2.  所属レーベルは上述のままだが、鈴木が1998年7月にデビューした当初の表記名は、**Sony Music Entertainment (Japan) Inc.**のままとなっていた。
+1.  [角川書店](../Page/角川書店.md "wikilink")刊「[東京ウォーカー](../Page/東京ウォーカー.md "wikilink")」1999年7月13日号「“自由な方法論”が息づく小室哲哉のレーベル」pp.166-167より。
+2.
+3.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』1999年7月号「小室哲哉 世紀末前夜、最強のTRAP始動」73P-75Pより。
+4.  所属レーベルは上述のままだが、鈴木が1998年7月にデビューした当初の表記名は、**Sony Music Entertainment (Japan) Inc.**のままとなっていた。
+5.

@@ -2949,7 +2949,7 @@ Justy-Nasty / THE SLUT BANKS / D’ERLANGER</p></td>
 
 ## テレビ
 
-  - [夢で逢えたら](https://ja.wikipedia.org/wiki/夢で逢えたら "wikilink")（1991年9月　[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")） バッハスタジオIIに出演。[ダウンタウン](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")、[ウッチャンナンチャン](../Page/ウッチャンナンチャン.md "wikilink")と「盗まれた瞳」を演奏。
+  - [夢で逢えたら](../Page/夢で逢えたら_\(テレビ番組\).md "wikilink")（1991年9月　[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")） バッハスタジオIIに出演。[ダウンタウン](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")、[ウッチャンナンチャン](../Page/ウッチャンナンチャン.md "wikilink")と「盗まれた瞳」を演奏。
 
 ## ラジオ
 

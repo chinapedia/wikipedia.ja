@@ -123,7 +123,7 @@
     G-taste麻雀
       -
         [アーケード版](../Page/アーケードゲーム.md "wikilink")（2002年4月稼動）
-        [プレイステーション2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（フィギュア同梱スペシャル版/通常版：2003年4月24日、彩京べすと：2003年12月11日）
+        [プレイステーション2版](../Page/PlayStation_2.md "wikilink")（フィギュア同梱スペシャル版/通常版：2003年4月24日、彩京べすと：2003年12月11日）
 
 <!-- end list -->
 

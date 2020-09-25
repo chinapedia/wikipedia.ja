@@ -5,7 +5,7 @@
 
 ## 背景
 
-[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")解散後、程なくして発売された[布袋寅泰](../Page/布袋寅泰.md "wikilink")のファースト・ソロ・アルバム。
+[BOØWY](../Page/BOØWY.md "wikilink")解散後、程なくして発売された[布袋寅泰](../Page/布袋寅泰.md "wikilink")のファースト・ソロ・アルバム。
 
 「GUITARHYTHM」とは、GUITAR（[ギター](../Page/ギター.md "wikilink")）とRHYTHM（[リズム](../Page/リズム.md "wikilink")）を組み合わせた布袋による造語。また、アルバムのタイトルに冠した[シリーズ](../Page/シリーズ_\(作品\).md "wikilink")・[プロジェクト](../Page/プロジェクト.md "wikilink")の総称を指す。ちなみにこの言葉には「イズム＝主義」という意味も含まれている\[1\]。
 

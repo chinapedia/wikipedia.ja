@@ -21,7 +21,7 @@ iD会員番号は、 16桁であり「6900-11」から始まる。
 
 会員の数は、2007年11月に500万、2008年12月に1,000万、2010年8月末に1500万を突破しており\[12\]、2012年3月現在1,650万人を超えている\[13\]。
 
-[2011年](../Page/2011年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")から[Android](../Page/Android.md "wikilink")の[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")でもおサイフケータイを利用する事が出来るようになった。2016年[10月25日](../Page/10月25日.md "wikilink")から[Appleが提供する日本の](../Page/アップル_\(企業\).md "wikilink") [Apple Pay](https://ja.wikipedia.org/wiki/Apple_Pay "wikilink") で利用する事が出来るようになった\[14\]。[2019年](../Page/2019年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink")から[Google](../Page/Google.md "wikilink")が提供する日本の [Google Pay](https://ja.wikipedia.org/wiki/Google_Pay "wikilink") で利用する事が出来るようになった\[15\]。
+[2011年](../Page/2011年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")から[Androidの](../Page/Android_\(オペレーティングシステム\).md "wikilink")[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")でもおサイフケータイを利用する事が出来るようになった。2016年[10月25日](../Page/10月25日.md "wikilink")から[Appleが提供する日本の](../Page/アップル_\(企業\).md "wikilink") [Apple Pay](https://ja.wikipedia.org/wiki/Apple_Pay "wikilink") で利用する事が出来るようになった\[14\]。[2019年](../Page/2019年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink")から[Google](../Page/Google.md "wikilink")が提供する日本の [Google Pay](https://ja.wikipedia.org/wiki/Google_Pay "wikilink") で利用する事が出来るようになった\[15\]。
 
 他電子マネー等との関係では、2006年に[Suica](../Page/Suica.md "wikilink")との共用端末を開発すると発表し、その後、QUICPayやEdy（現[楽天Edy](../Page/楽天Edy.md "wikilink")）も合流する形で共用型読み取り機の開発が行われた。その後も端末の共用化が進み、10種類以上の[電子マネー](../Page/電子マネー.md "wikilink")に対応した『マルチリーダ端末』も存在する。
 

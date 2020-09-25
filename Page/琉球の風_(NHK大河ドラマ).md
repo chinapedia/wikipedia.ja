@@ -25,6 +25,8 @@
 
 [NHK沖縄放送局](../Page/NHK沖縄放送局.md "wikilink")は、2019年10月31日に発生した[首里城火災を受け](https://ja.wikipedia.org/wiki/首里城#2019年の火災 "wikilink")、これまで首里城を舞台にNHKで製作放送した番組を5夜連続再放送する企画「[名作シリーズ首里城](https://www.nhk.or.jp/okinawa/meisakushurijo/)」の一環として、総集編\[4\]を、2019年12月19日・20日の両日に渡り沖縄ローカルで再放送した。
 
+2020年現在、この作品以降大河ドラマで架空の主人公は採用されていない。
+
 ## 製作体制
 
 [250px](https://ja.wikipedia.org/wiki/画像:Ryukyu_no_Kaze.jpg "wikilink") 本作はNHK本体ではなく[NHKエンタープライズ](../Page/NHKエンタープライズ.md "wikilink")製作作品であり、外部製作だから可能な大胆なメディアミックスを駆使した試みがなされた。

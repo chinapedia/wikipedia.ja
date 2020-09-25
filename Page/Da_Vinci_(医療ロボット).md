@@ -1,7 +1,7 @@
 > この記事は[Da Vinci \(医療ロボット\)](https://ja.wikipedia.org/wiki/Da_Vinci_\(医療ロボット\))から翻訳されています。
 
 
-[Laproscopic_Surgery_Robot.jpg](https://ja.wikipedia.org/wiki/File:Laproscopic_Surgery_Robot.jpg "fig:Laproscopic_Surgery_Robot.jpg") **da Vinci**（ダ・ヴィンチ）こと、**da Vinci Surgical System**（ダ・ヴィンチ・サージカルシステム、ダ・ヴィンチ外科手術システム）は、米国[インテュイティヴ・サージカル](https://ja.wikipedia.org/wiki/インテュイティヴ・サージカル "wikilink")社が開発した[マスタースレイブ型](https://ja.wikipedia.org/wiki/マスタースレーブ "wikilink")[内視鏡下手術用の](https://ja.wikipedia.org/wiki/内視鏡#内視鏡手術 "wikilink")[手術用ロボット](https://ja.wikipedia.org/wiki/ロボット支援手術 "wikilink")。名称は[レオナルド・ダ・ヴィンチ](../Page/レオナルド・ダ・ヴィンチ.md "wikilink")にちなむ\[1\]。
+[Laproscopic_Surgery_Robot.jpg](https://ja.wikipedia.org/wiki/File:Laproscopic_Surgery_Robot.jpg "fig:Laproscopic_Surgery_Robot.jpg") **da Vinci**（ダビンチ）こと、**da Vinci Surgical System**（ダビンチ・サージカルシステム、ダビンチ外科手術システム）は、米国[インテュイティヴ・サージカル](https://ja.wikipedia.org/wiki/インテュイティヴ・サージカル "wikilink")社が開発した[マスタースレイブ型](https://ja.wikipedia.org/wiki/マスタースレーブ "wikilink")[内視鏡下手術用の](https://ja.wikipedia.org/wiki/内視鏡#内視鏡手術 "wikilink")[手術用ロボット](https://ja.wikipedia.org/wiki/ロボット支援手術 "wikilink")。名称は[レオナルド・ダ・ヴィンチ](../Page/レオナルド・ダ・ヴィンチ.md "wikilink")にちなむ\[1\]。
 
 [Cmglee_Cambridge_Science_Festival_2015_da_Vinci_console.jpg](https://ja.wikipedia.org/wiki/File:Cmglee_Cambridge_Science_Festival_2015_da_Vinci_console.jpg "fig:Cmglee_Cambridge_Science_Festival_2015_da_Vinci_console.jpg")
 
@@ -27,6 +27,8 @@
 
 2018年5月20日には、[TBS系テレビドラマ](../Page/TBSテレビ.md "wikilink")『[ブラックペアン](https://ja.wikipedia.org/wiki/ブラックペアン1988#テレビドラマ "wikilink")』第5話に「ダーウィン」の名称で登場している\[14\]。
 
+東京都杉並区にある[ニューハート・ワタナベ国際病院](https://ja.wikipedia.org/wiki/ニューハート・ワタナベ国際病院 "wikilink")は、2019年におけるロボット心臓手術執刀数において世界一となり、アメリカのintuitive surgical社より表彰を受けている\[15\]。
+
 ## バリエーション
 
   - da Vinci X
@@ -37,7 +39,7 @@
 
 ## 世界での普及と後続機
 
-2016年までに米国2,501台、欧州644台、アジア476台、全世界で3,803台が導入されている。 中国は天津大、南開大、天津医科大の共同プロジェクトとして、da Vinciに瓜二つの｢妙手A｣という名称の手術ロボットを開発し、2010年7月天津市科学技術委員会が承認した\[15\]。また、[東京工業大学](../Page/東京工業大学.md "wikilink")が開発した[EMARO](https://ja.wikipedia.org/wiki/EMARO "wikilink")や、[Google](../Page/Google.md "wikilink")は2015年にJ＆Jと手術支援ロボットの共同開発を発表している。
+2016年までに米国2,501台、欧州644台、アジア476台、全世界で3,803台が導入されている。 中国は天津大、南開大、天津医科大の共同プロジェクトとして、da Vinciに瓜二つの｢妙手A｣という名称の手術ロボットを開発し、2010年7月天津市科学技術委員会が承認した\[16\]。また、[東京工業大学](../Page/東京工業大学.md "wikilink")が開発した[EMARO](https://ja.wikipedia.org/wiki/EMARO "wikilink")や、[Google](../Page/Google.md "wikilink")は2015年にJ＆Jと手術支援ロボットの共同開発を発表している。
 
 ## 将来のロボット手術を見据えた試み
 
@@ -78,4 +80,5 @@
 12.
 13.
 14.
-15. [中国初の内視鏡手術ロボット、本当に「妙手」か？―天津市　レコードチャイナ　翻訳・編集/東亜通信](http://www.recordchina.co.jp/a43553.html) 配信日時：2010年7月7日(水) 21時47分
+15.
+16. [中国初の内視鏡手術ロボット、本当に「妙手」か？―天津市　レコードチャイナ　翻訳・編集/東亜通信](http://www.recordchina.co.jp/a43553.html) 配信日時：2010年7月7日(水) 21時47分

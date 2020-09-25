@@ -1,7 +1,7 @@
 > この記事は[ASUS](https://ja.wikipedia.org/wiki/ASUS)から翻訳されています。
 
 
-**ASUSTeK Computer Inc.**（エイスーステック・コンピューター・インク）、あるいは**華碩電脳股份有限公司**（かせきでんのうこぶんゆうげんこうし）は、[中華民国](../Page/中華民国.md "wikilink")[台北市](../Page/台北市.md "wikilink")に本社を置く[PCおよびPCパーツ](../Page/パーソナルコンピュータ.md "wikilink")、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")、周辺機器製造メーカー。日本法人は**ASUS JAPAN株式会社**。ASUSの正式な読みは、「エイスース」とされている（発音に関する経緯は[下記を参照](https://ja.wikipedia.org/wiki/ASUS#「ASUS」の発音 "wikilink")）。
+**ASUSTeK Computer Inc.**（エイスーステック・コンピューター・インク）、あるいは**華碩電脳股份有限公司**（かせきでんのうこぶんゆうげんこうし）は、[中華民国](../Page/中華民国.md "wikilink")[台北市](../Page/台北市.md "wikilink")に本社を置く[PCおよびPCパーツ](../Page/パーソナルコンピュータ.md "wikilink")、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")、周辺機器製造メーカー。日本法人は**ASUS JAPAN株式会社**。ASUSの正式な読みは、「エイスース」とされている（発音に関する経緯は[下記を参照](https://ja.wikipedia.org/wiki/ASUS#「ASUS」の発音 "wikilink")）
 
 ## 社名と由来
 
@@ -11,7 +11,7 @@
 
 当初、日本参入時からの「ASUS」の日本での読みは「アスース」が正式とされていた。日本法人の登記名も**アスース・ジャパン株式会社**であったが\[2\]、[2012年](../Page/2012年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に「ASUS」の呼称を「エイスース」に統一し、同時に日本法人のアスース・ジャパン株式会社をASUS JAPAN株式会社に社名変更した\[3\]。
 
-日本人に馴染みのある[ローマ字](https://ja.wikipedia.org/wiki/ローマ字 "wikilink")や[英語](../Page/英語.md "wikilink")とは異なる読み方であるため、誤って読まれることも少なくない。日本国内では「アスース」「エーサス」「アサス」、英語圏では「エイスス」に近い発音で読まれることが多い。[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")表記の発音は上記いずれとも全く異なり、「華碩」と書いて「ファーシュオ」に近い発音となる。しかし、おおむねどの読み方でも通じる。ASUSTeKは「どんな読み方をしても、ASUSに親しんでくれればいい」として放置、呼称に対する同社の曖昧な姿勢が混乱を招いていた\[4\]。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")12月に、「Ey-SUS」という発音表記の書かれた画像と、それを発音する動画がEngadgetにおいて公開された\[5\]。なお、同サイトの記事では古い発音として、最後に「アスース」と発音している以前のYouTubeのオフィシャル動画も示されている。
+日本人に馴染みのある[ローマ字](https://ja.wikipedia.org/wiki/ローマ字 "wikilink")や[英語](../Page/英語.md "wikilink")とは異なる読み方であるため、誤って読まれることも少なくない。日本国内では「アスース」「エーサス」「アサス」、英語圏では「エイスス」に近い発音で読まれることが多い。[中国語](../Page/中国語.md "wikilink")表記の発音は上記いずれとも全く異なり、「華碩」と書いて「ファーシュオ」に近い発音となる。しかし、おおむねどの読み方でも通じる。ASUSTeKは「どんな読み方をしても、ASUSに親しんでくれればいい」として放置、呼称に対する同社の曖昧な姿勢が混乱を招いていた\[4\]。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")12月に、「Ey-SUS」という発音表記の書かれた画像と、それを発音する動画がEngadgetにおいて公開された\[5\]。なお、同サイトの記事では古い発音として、最後に「アスース」と発音している以前のYouTubeのオフィシャル動画も示されている。
 
 この新しい発音の日本での公式なカナ表記が「エイスース」である\[6\]。
 
@@ -101,7 +101,7 @@
 
 ### タブレット端末
 
-[Android](../Page/Android.md "wikilink")搭載モデルの[タブレットは](../Page/タブレット_\(コンピュータ\).md "wikilink")、ビジネスシーンでも活用できるキーボード付のモデルを販売しているのが特徴である。タブレットPCのみや[Windows搭載モデルもある](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
+[Android搭載モデルの](../Page/Android_\(オペレーティングシステム\).md "wikilink")[タブレットは](../Page/タブレット_\(コンピュータ\).md "wikilink")、ビジネスシーンでも活用できるキーボード付のモデルを販売しているのが特徴である。タブレットPCのみや[Windows搭載モデルもある](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
   -   - [Eee Pad Transformer](https://ja.wikipedia.org/wiki/Asus_Eee_Pad_Transformer "wikilink") シリーズ - キーボードドック付のタブレットPC。キーボードドックの取り外しができる。
       - [Eee Pad Slider](https://ja.wikipedia.org/wiki/Eee_Pad_Slider "wikilink") シリーズ - キーボード一体型タブレットPC。

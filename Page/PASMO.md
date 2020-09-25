@@ -74,7 +74,7 @@ PASMOには以下の種類が存在する。
   - [2018年](../Page/2018年.md "wikilink")（平成30年）3月17日 - 出場時オートチャージサービス開始\[29\]。
   - 2018年（平成30年）4月1日 - [湘南モノレール](../Page/湘南モノレール.md "wikilink")で導入。
   - [2019年](../Page/2019年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")元年）9月1日 - PASMO PASSPORTの発売を開始\[30\]。
-  - [2020年](../Page/2020年.md "wikilink")（令和2年）3月18日 - [モバイルPASMO](../Page/モバイルPASMO.md "wikilink")のサービスを[Android](../Page/Android.md "wikilink")[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")向けに提供開始\[31\]\[32\]。
+  - [2020年](../Page/2020年.md "wikilink")（令和2年）3月18日 - [モバイルPASMO](../Page/モバイルPASMO.md "wikilink")のサービスを[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")向けに提供開始\[31\]\[32\]。
   - 2020年（令和2年）内 - モバイルPASMOのサービスを[iOS](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")（[Apple Pay](https://ja.wikipedia.org/wiki/Apple_Pay "wikilink")）搭載端末向けに提供開始予定\[33\]\[34\]。
 
 ### その他

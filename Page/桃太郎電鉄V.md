@@ -310,7 +310,7 @@
       -
         目的地周辺の駅から何の目を出せば到着できるかなど、細かいデータを収録。
   - 『桃太郎電鉄V旅はじめヴィクトリーガイド』（Vジャンプブックスゲームシリーズ、集英社、ISBN 4087790517）、1999年12月
-  - 『「桃太郎電鉄」～SOKOZIKARA』(「桃太郎電鉄V」ORIGINAL SOUND TRACK/「桃太郎電鉄」～「桃太郎電鉄7」BEST TRACK\&SPECIAL Version TRACK〉/関口和之&宮路一昭 (TYCY-10028)
+  - 『[「桃太郎電鉄」～SOKOZIKARA](../Page/桃太郎電鉄_〜SOKOZIKARA〜.md "wikilink")』(「桃太郎電鉄V」ORIGINAL SOUND TRACK/「桃太郎電鉄」～「桃太郎電鉄7」BEST TRACK\&SPECIAL Version TRACK〉/関口和之&宮路一昭 (TYCY-10028)
       -
         『V』で使用されたBGMを中心に収録したサウンドトラック。
 

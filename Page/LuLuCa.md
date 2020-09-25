@@ -190,7 +190,9 @@ LuLuCa\[POINT\]のポイントカード機能に加え、[三井住友VISAカー
 
 ## 脚注
 
-<references/>
+## 参考文献
+
+  - 「静岡鉄道株式会社　会社案内」
 
 ## 関連項目
 
@@ -198,10 +200,6 @@ LuLuCa\[POINT\]のポイントカード機能に加え、[三井住友VISAカー
   - [PiTaPa](../Page/PiTaPa.md "wikilink")（2007年9月1日より利用開始）
   - [ICOCA](../Page/ICOCA.md "wikilink")（同上）
   - [パサールカード](../Page/パサールカード.md "wikilink")
-
-## 参考文献
-
-  - 「静岡鉄道株式会社　会社案内」
 
 ## 外部リンク
 

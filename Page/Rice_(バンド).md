@@ -23,7 +23,7 @@
         歌を始めたきっかけは、小学校の音楽の授業で先生に歌を評価されたことから。学校推薦で横浜少年少女合唱団の入団テストを受け、合格する。小学4年から中学2年まで在団\[8\]。
         [1/fゆらぎ](https://ja.wikipedia.org/wiki/1/fゆらぎ "wikilink")が声に上下2波同時に現れる、世界に数例しかない特殊な声帯を持つ\[9\]。
         フザケたい病を患っており、日々FP（ふざけポイント）を稼ぐために思考の殆どを費やしている\[10\]。大の[ガチャピン](../Page/ガチャピン.md "wikilink")好き。所有物にガチャピングッズが多く、riceのグッズもガチャピンに似た色取りの物が多く存在する。
-        [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。[血液型B](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[愛称](../Page/愛称.md "wikilink")は「ゆうちゃん」「有紀さん」。
+        [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。[血液型B](../Page/ABO式血液型.md "wikilink")。[愛称](../Page/愛称.md "wikilink")は「ゆうちゃん」「有紀さん」。
   - **村田 一弘**（むらた かずひろ＝HIRO、[1981年](../Page/1981年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink") - 、[ドラム](../Page/ドラムセット.md "wikilink")）
       -
         歌唱力の高さにも定評があり、ライブやレコーディングではコーラスを取る他に「刑事ヒロンボ」としてCDとライブDVDもリリースしている。[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")、[BoA](../Page/BoA.md "wikilink")、[新谷良子](../Page/新谷良子.md "wikilink")、[古川雄大](../Page/古川雄大.md "wikilink")、[アイドルマスターシリーズ](https://ja.wikipedia.org/wiki/アイドルマスターシリーズ "wikilink")、[U-Kiss](https://ja.wikipedia.org/wiki/U-Kiss "wikilink")などのサポートドラマーとしての活動歴もある。

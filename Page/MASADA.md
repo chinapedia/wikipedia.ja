@@ -1,7 +1,9 @@
 > この記事は[MASADA](https://ja.wikipedia.org/wiki/MASADA)から翻訳されています。
 
 
-**MASADA**（*マサダ*）の[リングネーム](../Page/リングネーム.md "wikilink")で知られる**ブリガム・ドーン**（*Brigham Doane*、[1981年](../Page/1981年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ハードコア](https://ja.wikipedia.org/wiki/ハードコア・レスリング "wikilink")[レスラー](../Page/プロレスラー.md "wikilink")。[テキサス州](../Page/テキサス州.md "wikilink")[ウェーコ出身](https://ja.wikipedia.org/wiki/ウェーコ_\(テキサス州\) "wikilink")\[1\]。
+**MASADA**（*マサダ*、[1981年](../Page/1981年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ハードコア](https://ja.wikipedia.org/wiki/ハードコア・レスリング "wikilink")[レスラー](../Page/プロレスラー.md "wikilink")。
+
+本名、**ブリガム・ドーン**（*Brigham Doane*）。[テキサス州](../Page/テキサス州.md "wikilink")[ウェーコ出身](https://ja.wikipedia.org/wiki/ウェーコ_\(テキサス州\) "wikilink")\[1\]。
 
 [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[大日本プロレス](../Page/大日本プロレス.md "wikilink")や[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[コンバット・ゾーン・レスリング](../Page/コンバット・ゾーン・レスリング.md "wikilink")を始め、[アパッチプロレス軍](../Page/アパッチプロレス軍.md "wikilink")、[FREEDOMS](https://ja.wikipedia.org/wiki/プロレスリングFREEDOMS "wikilink")、[WMF](https://ja.wikipedia.org/wiki/WMF_\(プロレス\) "wikilink")、[ROH](../Page/ROH.md "wikilink")など、太平洋を股に掛けて様々な[プロレス団体](https://ja.wikipedia.org/wiki/プロレス団体 "wikilink")のマットに参戦。\[2\] 長身ながらも素早い動きとハイフライ・ムーブを得意とし、ともに三つ編みにした長い髪の毛とアゴ髭を外観上の特徴としている。
 

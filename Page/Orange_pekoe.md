@@ -6,7 +6,7 @@
 ## メンバー
 
   - 藤本一馬（[1979年](../Page/1979年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink") - ）
-      - [兵庫県](../Page/兵庫県.md "wikilink")[宝塚市](../Page/宝塚市.md "wikilink")出身。[血液型O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[ギター](../Page/ギター.md "wikilink")、[作曲](../Page/作曲.md "wikilink")、[アレンジ](../Page/編曲.md "wikilink")、[プログラミングを担当](../Page/ミュージックシーケンサー.md "wikilink")。[三田学園中学校・高等学校](../Page/三田学園中学校・高等学校.md "wikilink")卒業。
+      - [兵庫県](../Page/兵庫県.md "wikilink")[宝塚市](../Page/宝塚市.md "wikilink")出身。[血液型O型](../Page/ABO式血液型.md "wikilink")。[ギター](../Page/ギター.md "wikilink")、[作曲](../Page/作曲.md "wikilink")、[アレンジ](../Page/編曲.md "wikilink")、[プログラミングを担当](../Page/ミュージックシーケンサー.md "wikilink")。[三田学園中学校・高等学校](../Page/三田学園中学校・高等学校.md "wikilink")卒業。
   - ナガシマトモコ（本名：長島智子 [1979年](../Page/1979年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink") - ）
       - [兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")出身。血液型B型。[ヴォーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](../Page/作詞.md "wikilink")を担当。[親和女子中学校・高等学校](https://ja.wikipedia.org/wiki/親和女子中学校・高等学校 "wikilink")卒業。
 

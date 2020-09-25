@@ -5,7 +5,7 @@
 
 ## 経歴
 
-1879年に[アイルランド](../Page/アイルランド.md "wikilink")の[ダブリン](../Page/ダブリン.md "wikilink")に生まれる。[英国陸軍](https://ja.wikipedia.org/wiki/英国陸軍 "wikilink")の軍医だった父親の死後、母親の再婚相手が[ダウン県](https://ja.wikipedia.org/wiki/ダウン県 "wikilink")の教会の[大執事だったため](https://ja.wikipedia.org/wiki/執事_\(キリスト教\) "wikilink")、[アルスター](../Page/アルスター.md "wikilink")地方で育つ。その後、当地で鉄道技師となり、33歳で結婚したが、40歳の時に病で入院する。その療養後に手慰みに書いた処女作『[樽](../Page/樽_\(推理小説\).md "wikilink")』（[1920年](../Page/1920年.md "wikilink")発表）で名声を博し、推理作家への仲間入りを果たした。毎年1作ずつ新作を発表し、50歳まで本業の技師を続けるが、体調悪化により退職する。その後は[ロンドン](../Page/ロンドン.md "wikilink")近郊に転居して作家専業になり、[英国芸術学士院の会員になった](https://ja.wikipedia.org/wiki/ロイヤル・ソサエティ・オブ・アーツ "wikilink")\[1\]。
+1879年に[アイルランド](../Page/アイルランド.md "wikilink")の[ダブリン](../Page/ダブリン.md "wikilink")に生まれる。[英国陸軍](https://ja.wikipedia.org/wiki/英国陸軍 "wikilink")の軍医だった父親の死後、母親の再婚相手が[ダウン県](../Page/ダウン県.md "wikilink")の教会の[大執事だったため](https://ja.wikipedia.org/wiki/執事_\(キリスト教\) "wikilink")、[アルスター](../Page/アルスター.md "wikilink")地方で育つ。その後、当地で鉄道技師となり、33歳で結婚したが、40歳の時に病で入院する。その療養後に手慰みに書いた処女作『[樽](../Page/樽_\(推理小説\).md "wikilink")』（[1920年](../Page/1920年.md "wikilink")発表）で名声を博し、推理作家への仲間入りを果たした。毎年1作ずつ新作を発表し、50歳まで本業の技師を続けるが、体調悪化により退職する。その後は[ロンドン](../Page/ロンドン.md "wikilink")近郊に転居して作家専業になり、[英国芸術学士院の会員になった](https://ja.wikipedia.org/wiki/ロイヤル・ソサエティ・オブ・アーツ "wikilink")\[1\]。
 
 ## 作風
 
@@ -62,21 +62,18 @@
   - [1947年](../Page/1947年.md "wikilink") 『[殺人者はへまをする](https://ja.wikipedia.org/wiki/殺人者はへまをする "wikilink")』（*Murderers Make Mistakes*）
   - [1955年](../Page/1955年.md "wikilink") 『クロフツ短編集』1（*Many a Slip*）
   - 1956年 『クロフツ短編集』2（*The Mystery of the Sleeping Car Express*）
+  - 2020年 『F・W・クロフツ単行本未収録作品集』 - 同人誌。日本で独自に編纂。
 
 ### 短編
 
-  - 1939年　The Match - フレンチ警部シリーズの短編「狩猟舞踏会」の別バージョン。ジョン・ロード編“Detection Medley”収録。
-  - 1950年　Danger in Shroude Valley - ロビン・ブランドシリーズ。ジュヴナイル・アンソロジー“The Golden Book of the Year”収録。
-  - 1953年　Dark Waters - フレンチ警部シリーズ。1953年9月21日付け「ロンドン・イヴニング・スタンダート」紙掲載。トニー・メダウォー編“Bodies from the Library”収録。クラシックミステリ評論同人誌『Re-ClaM』第4号に「暗い川面」のタイトルで訳載。
-  - 1956年 「指紋」（*Fingerprints*） - フレンチ警部シリーズ。「世界探偵小説全集53　特集・世界の名探偵」（別冊宝石123号 1963年　宝石社）に収録の短編。前項の短編集のいずれにもに未収録。クラシックミステリ評論同人誌『Re-ClaM』第4号に「指紋の罠」のタイトルで新訳を掲載。
-  - A New Zealand Tragedy - 犯罪実話。
+  - 1939年　The Match - フレンチ警部シリーズ。
+  - 1953年　「暗い川面」（*Dark Waters*）- フレンチ警部シリーズ。
+  - 1956年 「指紋の罠」（*Fingerprints*） - フレンチ警部シリーズ。
   - The Faulty Stroke
-  - The Gorse Hall Mystery - 犯罪実話。
   - The Target
   - Nemesis
   - Teamwork Felonious
-  - Perilous Journey - ロビン・ブランドシリーズ。
-  - Who Killed C@ck Robin? - フレンチ警部シリーズ。
+  - Who Killed Cock Robin? - フレンチ警部シリーズ。
 
 ### その他
 
@@ -96,4 +93,4 @@
 [Category:イギリスの推理作家](https://ja.wikipedia.org/wiki/Category:イギリスの推理作家 "wikilink") [Category:アイルランドの推理作家](https://ja.wikipedia.org/wiki/Category:アイルランドの推理作家 "wikilink") [Category:北アイルランドの小説家](https://ja.wikipedia.org/wiki/Category:北アイルランドの小説家 "wikilink") [Category:ダブリン出身の人物](https://ja.wikipedia.org/wiki/Category:ダブリン出身の人物 "wikilink") [Category:1879年生](https://ja.wikipedia.org/wiki/Category:1879年生 "wikilink") [Category:1957年没](https://ja.wikipedia.org/wiki/Category:1957年没 "wikilink")
 
 1.  [クロフツ とは - コトバンク](http://kotobank.jp/word/%E3%82%AF%E3%83%AD%E3%83%95%E3%83%84)
-2.  渕上痩平のブログより <http://fuhchin.blog27.fc2.com/blog-entry-327.html>
+2.  ブログ『海外クラシック・ミステリ探訪記』 <http://fuhchin.blog27.fc2.com/blog-entry-327.html>

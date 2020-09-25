@@ -849,7 +849,7 @@
   - **　グループリーグにおける平均得点によりスペインが優勝
   - **　[PK戦](../Page/PK戦.md "wikilink")により勝敗を決したが、スコア不明
 
-## 統計・記録
+## 統計
 
 ### 代表別通算成績
 
@@ -1344,11 +1344,25 @@
  <a href="https://ja.wikipedia.org/wiki/ヴィクトル・ギョケレス" title="wikilink">ヴィクトル・ギョケレス</a></p></td>
 <td><p>3</p></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFA_U-19欧州選手権2018" title="wikilink">2018</a></p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジョアン・フィリペ" title="wikilink">ジョタ</a><br />
+ <a href="../Page/フランシスコ・トリンコン.md" title="wikilink">フランシスコ・トリンコン</a></p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFA_U-19欧州選手権2019" title="wikilink">2019</a></p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ゴンサロ・ラモス" title="wikilink">ゴンサロ・ラモス</a></p></td>
+<td><p>4</p></td>
+</tr>
 </tbody>
 </table>
 
 ## 関連項目
 
+  - [UEFA U-17欧州選手権](../Page/UEFA_U-17欧州選手権.md "wikilink")
   - [UEFA U-19女子選手権](https://ja.wikipedia.org/wiki/UEFA_U-19女子選手権 "wikilink")
 
 ## 外部リンク
@@ -1356,4 +1370,4 @@
   - [大会公式サイト](http://www.uefa.com/under19/index.html) - UEFA.com
   - [RSSSFによる記録](http://www.rsssf.com/tablese/europe-u18.html)
 
-[Category:UEFA_U-19欧州選手権](https://ja.wikipedia.org/wiki/Category:UEFA_U-19欧州選手権 "wikilink") [Category:ナショナルチームによる国際サッカー大会](https://ja.wikipedia.org/wiki/Category:ナショナルチームによる国際サッカー大会 "wikilink") [Category:UEFAサッカー大会](https://ja.wikipedia.org/wiki/Category:UEFAサッカー大会 "wikilink") [Category:育成年代の国際サッカー大会](https://ja.wikipedia.org/wiki/Category:育成年代の国際サッカー大会 "wikilink") [Category:1948年開始のイベント](https://ja.wikipedia.org/wiki/Category:1948年開始のイベント "wikilink")
+[Category:UEFA_U-19欧州選手権](https://ja.wikipedia.org/wiki/Category:UEFA_U-19欧州選手権 "wikilink") [Category:ナショナルチームによる国際サッカー大会](https://ja.wikipedia.org/wiki/Category:ナショナルチームによる国際サッカー大会 "wikilink") [Category:UEFAサッカー大会](https://ja.wikipedia.org/wiki/Category:UEFAサッカー大会 "wikilink") [Category:育成年代の国際サッカー大会](https://ja.wikipedia.org/wiki/Category:育成年代の国際サッカー大会 "wikilink") [Category:1948年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1948年開始のスポーツイベント "wikilink")

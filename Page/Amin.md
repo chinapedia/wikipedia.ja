@@ -11,7 +11,7 @@
 
 東京と上海を拠点にして活動し、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[2003年](../Page/2003年.md "wikilink")に[サントリー](../Page/サントリー.md "wikilink")[ウーロン茶のCMソングを歌って有名となった](../Page/烏龍茶.md "wikilink")。 [2005年](../Page/2005年.md "wikilink")の[愛・地球博を機に](../Page/2005年日本国際博覧会.md "wikilink")[松任谷由実](../Page/松任谷由実.md "wikilink")が結成した[YUMING](../Page/松任谷由実.md "wikilink") with [Friends Of Love The Earthに](../Page/Friends_Of_Love_The_Earth.md "wikilink")[ディック・リー](../Page/ディック・リー.md "wikilink")らと参加し、2005年の[NHK紅白歌合戦に中国本土出身の歌手として初出場したほか](../Page/第56回NHK紅白歌合戦.md "wikilink")、[2007年](../Page/2007年.md "wikilink")には中国[人民大会堂](../Page/人民大会堂.md "wikilink")で行われた「日中国交正常化35周年 ファイナルコンサート」に参加。2010年には[上海国際博覧会](https://ja.wikipedia.org/wiki/上海国際博覧会 "wikilink")で行われた開幕式コンサートに、中国を代表する歌手として出演した。
 
-現在、東京と[福岡で](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")のグループレッスン教室「amin Chinese Lounge」の講師も務めている。
+現在、東京と[福岡で](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[中国語](../Page/中国語.md "wikilink")のグループレッスン教室「amin Chinese Lounge」の講師も務めている。
 
 父は中国古典音楽[作曲家](../Page/作曲家.md "wikilink")で[碗琴](https://ja.wikipedia.org/wiki/碗琴 "wikilink")奏者の巫洪宝、姉は[二胡](../Page/二胡.md "wikilink")奏者の[ウェイウェイ・ウー](https://ja.wikipedia.org/wiki/ウェイウェイ・ウー "wikilink")（巫謝慧）。
 
@@ -40,7 +40,7 @@
 <!-- end list -->
 
   -
-    [YMOの](../Page/イエロー・マジック・オーケストラ.md "wikilink")「[RYDEEN](../Page/ライディーン_\(YMOの曲\).md "wikilink")」の[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")カバー「雷電」を発売。2ndアルバム『ACROSS —楼蘭の少女—』をリリース。
+    [YMOの](../Page/イエロー・マジック・オーケストラ.md "wikilink")「[RYDEEN](../Page/ライディーン_\(YMOの曲\).md "wikilink")」の[中国語](../Page/中国語.md "wikilink")カバー「雷電」を発売。2ndアルバム『ACROSS —楼蘭の少女—』をリリース。
     「愛・地球博」ファイナルテーマソング「Smile again」を松任谷由実 with Friends of Love the Earthとして歌い、[皇太子徳仁親王](https://ja.wikipedia.org/wiki/皇太子徳仁親王 "wikilink")や当時の首相[小泉純一郎](https://ja.wikipedia.org/wiki/小泉純一郎 "wikilink")の前でも披露。年末のNHK「紅白歌合戦」へも中国本土出身の歌手として史上初の出場を果たす。
 
 <!-- end list -->

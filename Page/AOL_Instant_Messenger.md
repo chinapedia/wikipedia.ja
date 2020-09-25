@@ -1,7 +1,7 @@
 > この記事は[AOL Instant Messenger](https://ja.wikipedia.org/wiki/AOL_Instant_Messenger)から翻訳されています。
 
 
-[Windows XP](../Page/Microsoft_Windows_XP.md "wikilink"){{・}}[Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink"){{・}}[7](../Page/Microsoft_Windows_7.md "wikilink"){{・}}[8](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink"){{・}}[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink"){{・}}[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink"){{・}}[Android](../Page/Android.md "wikilink") | 種別 = [インスタントメッセンジャー](../Page/インスタントメッセンジャー.md "wikilink") | ライセンス = [プロプライエタリ](../Page/プロプライエタリ・ソフトウェア.md "wikilink") | 公式サイト = <http://www.aim.com/> }}
+[Windows XP](../Page/Microsoft_Windows_XP.md "wikilink"){{・}}[Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink"){{・}}[7](../Page/Microsoft_Windows_7.md "wikilink"){{・}}[8](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink"){{・}}[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink"){{・}}[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink"){{・}}[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink") | 種別 = [インスタントメッセンジャー](../Page/インスタントメッセンジャー.md "wikilink") | ライセンス = [プロプライエタリ](../Page/プロプライエタリ・ソフトウェア.md "wikilink") | 公式サイト = <http://www.aim.com/> }}
 
 **AOL Instant Messenger**（略称：*AIM*）は、米[AOL](../Page/AOL.md "wikilink")が配布していた[インスタントメッセンジャー](../Page/インスタントメッセンジャー.md "wikilink")。インスタントメッセージやファイル転送の機能を備える。
 
@@ -11,7 +11,7 @@
 
 かつてのAOLのシェアの大きさから多くのユーザと多数の互換[クライアントソフトが存在し](../Page/クライアント_\(コンピュータ\).md "wikilink")、[MSN Messengerや](https://ja.wikipedia.org/wiki/MSN_Messenger "wikilink")[Yahoo\! Messengerと並ぶインスタントメッセージソフトだった](../Page/Yahoo!_Messenger.md "wikilink")。
 
-2016年現在においての公式クライアントは、[Windows版と](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")版、及びに[iOS版と](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[Android](../Page/Android.md "wikilink")版である。互換クライアントを利用すれば[Linux](../Page/Linux.md "wikilink")等の環境からも利用できる。公式サイトからWeb版へのサインインも可能。 なお利用にはAOLの[アカウント](../Page/アカウント.md "wikilink")かスクリーンネーム、あるいは.Macのアカウントが必要。
+2016年現在においての公式クライアントは、[Windows版と](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")版、及びに[iOS版と](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[Android版である](../Page/Android_\(オペレーティングシステム\).md "wikilink")。互換クライアントを利用すれば[Linux](../Page/Linux.md "wikilink")等の環境からも利用できる。公式サイトからWeb版へのサインインも可能。 なお利用にはAOLの[アカウント](../Page/アカウント.md "wikilink")かスクリーンネーム、あるいは.Macのアカウントが必要。
 
 またAOLでは[ICQ](../Page/ICQ.md "wikilink")ネットワークの運営も行っていたため、かつてはICQクライアントとメッセージをやり取りすることもできた。（現在のバージョンでは不可能）
 

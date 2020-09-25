@@ -15,7 +15,7 @@
 
 ## メンバー
 
-  - **田岡 美樹**（たおか みき／[1974年](../Page/1974年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")生まれ／[広島県](../Page/広島県.md "wikilink")出身／[AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")／[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[作詞](../Page/作詞.md "wikilink")担当）
+  - **田岡 美樹**（たおか みき／[1974年](../Page/1974年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")生まれ／[広島県](../Page/広島県.md "wikilink")出身／[AB型](../Page/ABO式血液型.md "wikilink")／[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[作詞](../Page/作詞.md "wikilink")担当）
 
 <!-- end list -->
 
@@ -24,7 +24,7 @@
 
 <!-- end list -->
 
-  - **市川 裕一**（いちかわ ゆういち／[1968年](../Page/1968年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink")生まれ／[東京都](../Page/東京都.md "wikilink")出身／[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")／[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")・トラックメイキング担当）
+  - **市川 裕一**（いちかわ ゆういち／[1968年](../Page/1968年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink")生まれ／[東京都](../Page/東京都.md "wikilink")出身／[O型](../Page/ABO式血液型.md "wikilink")／[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")・トラックメイキング担当）
 
 <!-- end list -->
 

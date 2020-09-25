@@ -426,7 +426,7 @@
 2.  さみしい… - （[Something](../Page/サムシング.md "wikilink")） - [日本共産党](../Page/日本共産党.md "wikilink")、[志位和夫](../Page/志位和夫.md "wikilink")、[不破哲三](../Page/不破哲三.md "wikilink")
 3.  [舛添居ず知らぬ間データ](../Page/舛添要一.md "wikilink") - （[Maxwell's Silver Hammer](../Page/マックスウェルズ・シルヴァー・ハンマー.md "wikilink")） - [年金問題](https://ja.wikipedia.org/wiki/年金問題 "wikilink")、[舛添要一](../Page/舛添要一.md "wikilink")
 4.  親だ〜れ\!? - （[Oh\! Darling](../Page/オー!ダーリン.md "wikilink")） - [小泉チルドレン](https://ja.wikipedia.org/wiki/小泉チルドレン "wikilink")、[郵政造反組復党問題](../Page/郵政造反組復党問題.md "wikilink")、[DAIGO](../Page/DAIGO.md "wikilink")
-5.  僕当選さす票田 - （[Octopus's Garden](https://ja.wikipedia.org/wiki/オクトパス・ガーデン "wikilink")） - [選挙運動](../Page/選挙運動.md "wikilink")
+5.  僕当選さす票田 - （[Octopus's Garden](../Page/オクトパス・ガーデン.md "wikilink")） - [選挙運動](../Page/選挙運動.md "wikilink")
 6.  [iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")中 - （[I Want You (She's So Heavy)](../Page/アイ・ウォント・ユー.md "wikilink")） - [円相場](../Page/円相場.md "wikilink")、[世界金融危機](https://ja.wikipedia.org/wiki/世界金融危機_\(2007年-\) "wikilink")
 7.  爪噛むおじさん - （[Here Comes The Sun](../Page/ヒア・カムズ・ザ・サン.md "wikilink")） - 麻生太郎、[鴻池祥肇](https://ja.wikipedia.org/wiki/鴻池祥肇 "wikilink")、[中川昭一](../Page/中川昭一.md "wikilink")
 8.  [民主党](../Page/民主党_\(日本_1998-2016\).md "wikilink") - （[Because](../Page/ビコーズ.md "wikilink")） - [小沢一郎](https://ja.wikipedia.org/wiki/小沢一郎 "wikilink")、[西松建設事件](https://ja.wikipedia.org/wiki/西松建設事件 "wikilink")

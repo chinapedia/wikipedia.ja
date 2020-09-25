@@ -11,7 +11,7 @@
 
 ## 沿革
 
-[1994年](../Page/1994年.md "wikilink")に山口県の[TBS系列の放送局](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")、[テレビ山口](../Page/テレビ山口.md "wikilink")（TYS）により「山口県ふるさとCM大賞」が開催され、2015年現在、もっとも長く続いているコンクールとなっている\[7\]。その後、[2000年](../Page/2000年.md "wikilink")に山形県の[テレビ朝日系列の放送局](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")、[山形テレビ](../Page/山形テレビ.md "wikilink")（YTS）が「[山形ふるさとCM大賞](https://ja.wikipedia.org/wiki/山形ふるさとCM大賞 "wikilink")」を開催して以後、2000年代初めに各地のテレビ朝日系列局\[8\]や他の[放送局](../Page/放送局.md "wikilink")、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局などが主催となってコンクールを開催し、現在に至っている。
+[1994年](../Page/1994年.md "wikilink")に山口県の[TBS系列の放送局](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")、[テレビ山口](../Page/テレビ山口.md "wikilink")（TYS）により「山口県ふるさとCM大賞」が開催され、2015年現在、もっとも長く続いているコンクールとなっている\[7\]。その後、[2000年](../Page/2000年.md "wikilink")に山形県の[テレビ朝日系列の放送局](../Page/オールニッポン・ニュースネットワーク.md "wikilink")、[山形テレビ](../Page/山形テレビ.md "wikilink")（YTS）が「[山形ふるさとCM大賞](https://ja.wikipedia.org/wiki/山形ふるさとCM大賞 "wikilink")」を開催して以後、各地のテレビ朝日系列局\[8\]や他の[放送局](../Page/放送局.md "wikilink")、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局などが主催となってコンクールを開催し、現在に至っている。
 
 ## 放送
 
@@ -30,22 +30,24 @@
   - あきたふるさと手作りCM大賞（AAB [秋田朝日放送](../Page/秋田朝日放送.md "wikilink")、2003年度 - \[24\]）
   - [山形ふるさとCM大賞](https://ja.wikipedia.org/wiki/山形ふるさとCM大賞 "wikilink")（YTS [山形テレビ](../Page/山形テレビ.md "wikilink")、2000年度 - ）- 県内全市町村参加、2010年度より15秒CM\[25\]。
   - ふくしまの元気\!応援ふるさとCM大賞（KFB [福島放送](../Page/福島放送.md "wikilink")、2002年度 - \[26\]）
-  - 富山県ふるさとCM大賞（TUT [チューリップテレビ](../Page/チューリップテレビ.md "wikilink")、2000年度 - 2009年度）- 27秒\[27\]、一般部門もあった\[28\]。
-  - 石川ふるさとCM大賞（HAB [北陸朝日放送](../Page/北陸朝日放送.md "wikilink")、2002年度 - \[29\]）
-  - ふるさとCM大賞NAGANO（abn [長野朝日放送](../Page/長野朝日放送.md "wikilink")、2001年度 - ）- 各市町村の個人作品も受付\[30\]。
-  - 福井ふるさとCM大賞コンクール（福井市教育メディア連絡協議会、[福井ケーブルテレビ](../Page/福井ケーブルテレビ.md "wikilink")、2002年度 - 2011年度\[31\]）
-  - しずおかふるさとCM大賞（SATV [静岡朝日テレビ](../Page/静岡朝日テレビ.md "wikilink")、2002年度 - 2008年度\[32\]）
-  - 晴れの国ふるさとCM大賞（岡山版）（KSB [瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")、2001年度 - 2003年度\[33\]）- 2004年度に岡山・香川ふるさとCM大賞に統合\[34\]。
-  - さぬきふるさとCM大賞（香川版）（KSB 瀬戸内海放送、2001年度 - 2003年度\[35\]\[36\]）- 2004年度に岡山・香川ふるさとCM大賞に統合\[37\]。
-  - 岡山・香川ふるさとCM大賞（KSB 瀬戸内海放送、2004年度）- 一般公募もあり\[38\]。
-  - HOMEふるさとCM大賞（HOME [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")、2002年度 - 2004年度\[39\]）
-  - 山口県ふるさとCM大賞（tys [テレビ山口](../Page/テレビ山口.md "wikilink")、1994年度 - ）- 小中学生部門と高校生以上の一般部門\[40\]。
-  - eatふるさとCM大賞えひめ（eat [愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink")、2005年度 - \[41\]）
-  - NCCふるさとCM大賞（NCC [長崎文化放送](https://ja.wikipedia.org/wiki/長崎文化放送 "wikilink")、2005年度 - ）- 一般部門もあり\[42\]。
-  - KABふるさとCM大賞（KAB [熊本朝日放送](../Page/熊本朝日放送.md "wikilink")、2002年度 - ）- 一般部門もあり\[43\]。
-  - 大分ふるさとCM大賞（OAB [大分朝日放送](../Page/大分朝日放送.md "wikilink")、2003年度 - ）- 全市町村参加、インターネット投票可能\[44\]。
-  - KKBふるさとCM大賞（KKB [鹿児島放送](../Page/鹿児島放送.md "wikilink")、2002年度 - \[45\]）
-  - 沖縄ふるさとCM大賞（QAB[琉球朝日放送](../Page/琉球朝日放送.md "wikilink") / [au 沖縄セルラー](../Page/沖縄セルラー電話.md "wikilink")、2015年 - ）- 一般部門\[46\]。
+  - ふるさとCM大賞（新潟版）（BSN [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")、1992年度 - 1998年度\[27\]）
+  - 新潟ふるさとCM大賞（UX [新潟テレビ21](https://ja.wikipedia.org/wiki/新潟テレビ21 "wikilink")、2020年度 - \[28\]）
+  - 富山県ふるさとCM大賞（TUT [チューリップテレビ](../Page/チューリップテレビ.md "wikilink")、2000年度 - 2009年度）- 27秒\[29\]、一般部門もあった\[30\]。
+  - 石川ふるさとCM大賞（HAB [北陸朝日放送](../Page/北陸朝日放送.md "wikilink")、2002年度 - \[31\]）
+  - ふるさとCM大賞NAGANO（abn [長野朝日放送](../Page/長野朝日放送.md "wikilink")、2001年度 - ）- 各市町村の個人作品も受付\[32\]。
+  - 福井ふるさとCM大賞コンクール（福井市教育メディア連絡協議会、[福井ケーブルテレビ](../Page/福井ケーブルテレビ.md "wikilink")、2002年度 - 2011年度\[33\]）
+  - しずおかふるさとCM大賞（SATV [静岡朝日テレビ](../Page/静岡朝日テレビ.md "wikilink")、2002年度 - 2008年度\[34\]）
+  - 晴れの国ふるさとCM大賞（岡山版）（KSB [瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")、2001年度 - 2003年度\[35\]）- 2004年度に岡山・香川ふるさとCM大賞に統合\[36\]。
+  - さぬきふるさとCM大賞（香川版）（KSB 瀬戸内海放送、2001年度 - 2003年度\[37\]\[38\]）- 2004年度に岡山・香川ふるさとCM大賞に統合\[39\]。
+  - 岡山・香川ふるさとCM大賞（KSB 瀬戸内海放送、2004年度）- 一般公募もあり\[40\]。
+  - HOMEふるさとCM大賞（HOME [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")、2002年度 - 2004年度\[41\]）
+  - 山口県ふるさとCM大賞（tys [テレビ山口](../Page/テレビ山口.md "wikilink")、1994年度 - ）- 小中学生部門と高校生以上の一般部門\[42\]。
+  - eatふるさとCM大賞えひめ（eat [愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink")、2005年度 - \[43\]）
+  - NCCふるさとCM大賞（NCC [長崎文化放送](https://ja.wikipedia.org/wiki/長崎文化放送 "wikilink")、2005年度 - ）- 一般部門もあり\[44\]。
+  - KABふるさとCM大賞（KAB [熊本朝日放送](../Page/熊本朝日放送.md "wikilink")、2002年度 - ）- 一般部門もあり\[45\]。
+  - 大分ふるさとCM大賞（OAB [大分朝日放送](../Page/大分朝日放送.md "wikilink")、2003年度 - ）- 全市町村参加、インターネット投票可能\[46\]。
+  - KKBふるさとCM大賞（KKB [鹿児島放送](../Page/鹿児島放送.md "wikilink")、2002年度 - \[47\]）
+  - 沖縄ふるさとCM大賞（QAB [琉球朝日放送](../Page/琉球朝日放送.md "wikilink") / [au 沖縄セルラー](../Page/沖縄セルラー電話.md "wikilink")、2015年度 - ）- 一般部門\[48\]。
 
 ## 関連項目
 
@@ -57,7 +59,7 @@
 
 ### 出典
 
-[Category:日本の放送](https://ja.wikipedia.org/wiki/Category:日本の放送 "wikilink") [Category:CM](https://ja.wikipedia.org/wiki/Category:CM "wikilink") [Category:日本のコンテスト](https://ja.wikipedia.org/wiki/Category:日本のコンテスト "wikilink") [Category:NHK北海道ネットワーク](https://ja.wikipedia.org/wiki/Category:NHK北海道ネットワーク "wikilink") [Category:青森朝日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:青森朝日放送のテレビ番組 "wikilink") [Category:秋田朝日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:秋田朝日放送のテレビ番組 "wikilink") [Category:岩手朝日テレビの番組](https://ja.wikipedia.org/wiki/Category:岩手朝日テレビの番組 "wikilink") [Category:東日本放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:東日本放送のテレビ番組 "wikilink") [Category:山形テレビの番組](https://ja.wikipedia.org/wiki/Category:山形テレビの番組 "wikilink") [Category:福島放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:福島放送のテレビ番組 "wikilink") [Category:チューリップテレビの番組](https://ja.wikipedia.org/wiki/Category:チューリップテレビの番組 "wikilink") [Category:北陸朝日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:北陸朝日放送のテレビ番組 "wikilink") [Category:長野朝日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:長野朝日放送のテレビ番組 "wikilink") [Category:静岡朝日テレビの番組](https://ja.wikipedia.org/wiki/Category:静岡朝日テレビの番組 "wikilink") [Category:広島ホームテレビの番組](https://ja.wikipedia.org/wiki/Category:広島ホームテレビの番組 "wikilink") [Category:テレビ山口の番組](https://ja.wikipedia.org/wiki/Category:テレビ山口の番組 "wikilink") [Category:瀬戸内海放送の番組](https://ja.wikipedia.org/wiki/Category:瀬戸内海放送の番組 "wikilink") [Category:愛媛朝日テレビの番組](https://ja.wikipedia.org/wiki/Category:愛媛朝日テレビの番組 "wikilink") [Category:長崎文化放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:長崎文化放送のテレビ番組 "wikilink") [Category:熊本朝日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:熊本朝日放送のテレビ番組 "wikilink") [Category:大分朝日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:大分朝日放送のテレビ番組 "wikilink") [Category:鹿児島放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:鹿児島放送のテレビ番組 "wikilink")
+[Category:日本の放送](https://ja.wikipedia.org/wiki/Category:日本の放送 "wikilink") [Category:CM](https://ja.wikipedia.org/wiki/Category:CM "wikilink") [Category:日本のコンテスト](https://ja.wikipedia.org/wiki/Category:日本のコンテスト "wikilink") [Category:NHK北海道ネットワーク](https://ja.wikipedia.org/wiki/Category:NHK北海道ネットワーク "wikilink") [Category:青森朝日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:青森朝日放送のテレビ番組 "wikilink") [Category:秋田朝日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:秋田朝日放送のテレビ番組 "wikilink") [Category:岩手朝日テレビの番組](https://ja.wikipedia.org/wiki/Category:岩手朝日テレビの番組 "wikilink") [Category:東日本放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:東日本放送のテレビ番組 "wikilink") [Category:山形テレビの番組](https://ja.wikipedia.org/wiki/Category:山形テレビの番組 "wikilink") [Category:福島放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:福島放送のテレビ番組 "wikilink") [Category:新潟放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:新潟放送のテレビ番組 "wikilink") [Category:新潟テレビ21の番組](https://ja.wikipedia.org/wiki/Category:新潟テレビ21の番組 "wikilink") [Category:チューリップテレビの番組](https://ja.wikipedia.org/wiki/Category:チューリップテレビの番組 "wikilink") [Category:北陸朝日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:北陸朝日放送のテレビ番組 "wikilink") [Category:長野朝日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:長野朝日放送のテレビ番組 "wikilink") [Category:静岡朝日テレビの番組](https://ja.wikipedia.org/wiki/Category:静岡朝日テレビの番組 "wikilink") [Category:広島ホームテレビの番組](https://ja.wikipedia.org/wiki/Category:広島ホームテレビの番組 "wikilink") [Category:テレビ山口の番組](https://ja.wikipedia.org/wiki/Category:テレビ山口の番組 "wikilink") [Category:瀬戸内海放送の番組](https://ja.wikipedia.org/wiki/Category:瀬戸内海放送の番組 "wikilink") [Category:愛媛朝日テレビの番組](https://ja.wikipedia.org/wiki/Category:愛媛朝日テレビの番組 "wikilink") [Category:長崎文化放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:長崎文化放送のテレビ番組 "wikilink") [Category:熊本朝日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:熊本朝日放送のテレビ番組 "wikilink") [Category:大分朝日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:大分朝日放送のテレビ番組 "wikilink") [Category:鹿児島放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:鹿児島放送のテレビ番組 "wikilink")
 
 1.
 2.
@@ -66,7 +68,7 @@
 5.
 6.
 7.
-8.  テレビ朝日系列（[ANNネットワーク](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")）加盟26局のうち17局が開催。キー局である[テレビ朝日](../Page/テレビ朝日.md "wikilink")、基幹局である[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")、[名古屋テレビ放送](../Page/名古屋テレビ放送.md "wikilink")、[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")、[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")、クロスネット局である[福井放送](../Page/福井放送.md "wikilink")、[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")、ほか、[新潟テレビ21](https://ja.wikipedia.org/wiki/新潟テレビ21 "wikilink")、[山口朝日放送](../Page/山口朝日放送.md "wikilink")、の9局では開催していない。
+8.  テレビ朝日系列（[ANNネットワーク](../Page/オールニッポン・ニュースネットワーク.md "wikilink")）加盟26局のうち18局が開催。キー局である[テレビ朝日](../Page/テレビ朝日.md "wikilink")、基幹局である[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")、[名古屋テレビ放送](../Page/名古屋テレビ放送.md "wikilink")、[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")、[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")、クロスネット局である[福井放送](../Page/福井放送.md "wikilink")、[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")、ほか、[山口朝日放送](../Page/山口朝日放送.md "wikilink")の8局では開催していない。
 9.
 10.
 11.
@@ -85,9 +87,9 @@
 24.
 25.
 26.
-27. 局制作のタイトルと枠をつけて放送するため。
+27.
 28.
-29.
+29. 局制作のタイトルと枠をつけて放送するため。
 30.
 31.
 32.
@@ -105,3 +107,5 @@
 44.
 45.
 46.
+47.
+48.

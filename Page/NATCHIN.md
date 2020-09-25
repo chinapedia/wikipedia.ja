@@ -1,7 +1,7 @@
 > この記事は[NATCHIN](https://ja.wikipedia.org/wiki/NATCHIN)から翻訳されています。
 
 
-**NATCHIN**（なっちん、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[10月15日](../Page/10月15日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である。本名は中川泰。[東京都](../Page/東京都.md "wikilink")出身。[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**NATCHIN**（なっちん、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[10月15日](../Page/10月15日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である。本名は中川泰。[東京都](../Page/東京都.md "wikilink")出身。[血液型はB型](../Page/ABO式血液型.md "wikilink")。
 
 ## 経歴
 
@@ -9,7 +9,7 @@
   - [1993年](../Page/1993年.md "wikilink") バンド名を**[SIAM SHADE](../Page/SIAM_SHADE.md "wikilink")**に改名
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") シングル『[RAIN](https://ja.wikipedia.org/wiki/RAIN_\(SIAM_SHADEの曲\) "wikilink")』でメジャーデビュー
   - [2001年](../Page/2001年.md "wikilink") 初の[日本武道館](../Page/日本武道館.md "wikilink")ライブを決行
-  - [2002年](../Page/2002年.md "wikilink") バンド解散。以降[ソロ](https://ja.wikipedia.org/wiki/ソロ "wikilink")活動を開始
+  - [2002年](../Page/2002年.md "wikilink") バンド解散。以降[ソロ](../Page/ソロ.md "wikilink")活動を開始
   - [2003年](../Page/2003年.md "wikilink") **NATIN**から**NATCHIN**に名義を変更
   - [2007年](../Page/2007年.md "wikilink") [Anchang](../Page/Anchang.md "wikilink")(ex.[SEX MACHINEGUNS](../Page/SEX_MACHINEGUNS.md "wikilink"))のライブにゲストとして参加
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") Anchang(ex.SEX MACHINEGUNS)と[ANNIE](../Page/菊地英二.md "wikilink")(ex.[THE YELLOW MONKEY](../Page/THE_YELLOW_MONKEY.md "wikilink"))らと共にバンド[BIG BITESを結成](https://ja.wikipedia.org/wiki/BIG_BITES "wikilink")。

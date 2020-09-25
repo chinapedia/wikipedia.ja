@@ -54,7 +54,7 @@
   - 2006年10月12日 [熱帯魚](https://ja.wikipedia.org/wiki/熱帯魚 "wikilink")学（[保坂尚希](../Page/保阪尚希.md "wikilink")）
   - 2006年10月19日 [現代美術学](../Page/近代美術と現代美術.md "wikilink")（[レイザーラモンHG](../Page/レイザーラモンHG.md "wikilink")）
   - 2006年10月26日 [チョコレート](https://ja.wikipedia.org/wiki/チョコレート "wikilink")学（[まちゃまちゃ](../Page/まちゃまちゃ.md "wikilink")）
-  - 2006年11月2日 [不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")学（[柳沢慎吾](../Page/柳沢慎吾.md "wikilink")）
+  - 2006年11月2日 [不動産](../Page/不動産.md "wikilink")学（[柳沢慎吾](../Page/柳沢慎吾.md "wikilink")）
   - 2006年11月9日 中間テスト（総集編）
   - 2006年11月23日 [グラビア学](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")（[インリン・オブ・ジョイトイ](https://ja.wikipedia.org/wiki/インリン・オブ・ジョイトイ "wikilink")）
   - 2006年11月30日 [R\&B学](../Page/リズム・アンド・ブルース.md "wikilink")（[所ジョージ](https://ja.wikipedia.org/wiki/所ジョージ "wikilink")）

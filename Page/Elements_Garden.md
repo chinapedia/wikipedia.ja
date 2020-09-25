@@ -91,7 +91,7 @@
 
 **2019年**
 
-  - [1月31日](../Page/1月31日.md "wikilink") - 末益涼太が脱退
+  - [1月31日](../Page/1月31日.md "wikilink") - 末益涼太が脱退。
 
 ## 主なスタッフ（クリエイター）
 
@@ -108,7 +108,7 @@
   - **竹田祐介**（たけだ ゆうすけ） - 2017年よりElements Gardenに参加。
   - **下田晃太郎**(しもだ こうたろう) - 2019年加入。
   - **日高勇輝**(ひだか ゆうき) - 2020年加入。
-  - **近藤世真**(こんどう せいま)
+  - **近藤世真**(こんどう せいま) - 2020年加入。
 
 ## かつて所属していたスタッフ（クリエイター）
 
@@ -1327,6 +1327,18 @@
 <td><p>水樹奈々</p></td>
 <td><p>TVアニメ『<a href="https://ja.wikipedia.org/wiki/戦姫絶唱シンフォギアGX" title="wikilink">戦姫絶唱シンフォギアGX</a>』OP</p></td>
 <td><p>編曲（作曲は上松範康）</p></td>
+</tr>
+<tr class="odd">
+<td><p>幻想の輪舞</p></td>
+<td><p>黒崎真音</p></td>
+<td><p>アニメ『<a href="https://ja.wikipedia.org/wiki/グリザイアシリーズ#主題歌（アニメ）" title="wikilink">グリザイア：ファントムトリガー</a>』OP</p></td>
+<td><p>作編曲</p></td>
+</tr>
+<tr class="even">
+<td><p>サヨナラの惑星</p></td>
+<td><p>南條愛乃</p></td>
+<td><p>アニメ『<a href="https://ja.wikipedia.org/wiki/グリザイアシリーズ#主題歌（アニメ）" title="wikilink">グリザイア：ファントムトリガー</a>』ED</p></td>
+<td><p>作編曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>HE★VENS GATE -Beginning of the Legend-</p></td>

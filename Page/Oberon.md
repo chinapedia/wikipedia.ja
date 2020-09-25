@@ -150,6 +150,6 @@ Oberon-Vは[数値解析](https://ja.wikipedia.org/wiki/数値解析 "wikilink")
 11. [stailaOS(ETHZ) Project Page](http://nativesystems.inf.ethz.ch/Main/WebHomeResearchStaila)
 12. Warren Keuffel, Whither Modula-2?, *Computer Language* 27-33, Dec. 1989
 13. Dick Pountain, Modula's Children Part II: Oberon, *BYTE* 135-142, March 1991
-14. 詳細については[The Programming Language Oberon-07](http://www.inf.ethz.ch/personal/wirth/Articles/Oberon/Oberon07.Report.pdf) を参照
+14. 詳細については[The Programming Language Oberon](https://people.inf.ethz.ch/wirth/Oberon/Oberon07.Report.pdf) を参照
 15. [Oberon-07 language revision 2008](http://exaprog.com/Oberon07.Report.pdf)
 16. "Seneca - A Language for Numerical Applications on Vectorcomputers", Proc CONPAR 90 - VAPP IV Conf. R. Griesemer, Diss Nr. 10277, ETH Zurich.

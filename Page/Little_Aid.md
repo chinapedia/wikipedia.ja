@@ -1,7 +1,7 @@
 > この記事は[Little Aid](https://ja.wikipedia.org/wiki/Little_Aid)から翻訳されています。
 
 
-『**Little Aid**』（リトルエイド）は、[2005年](../Page/2005年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")に[TAKUYO](https://ja.wikipedia.org/wiki/TAKUYO "wikilink")から発売された[PC用の](../Page/パーソナルコンピュータ.md "wikilink")[恋愛アドベンチャーゲーム](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")（[乙女ゲーム](../Page/乙女ゲーム.md "wikilink")）。[2005年](../Page/2005年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")には攻略対象キャラを追加した[PS2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[2007年](../Page/2007年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")には[PSP版が発売された](../Page/PlayStation_Portable.md "wikilink")。
+『**Little Aid**』（リトルエイド）は、[2005年](../Page/2005年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")に[TAKUYO](https://ja.wikipedia.org/wiki/TAKUYO "wikilink")から発売された[PC用の](../Page/パーソナルコンピュータ.md "wikilink")[恋愛アドベンチャーゲーム](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")（[乙女ゲーム](../Page/乙女ゲーム.md "wikilink")）。[2005年](../Page/2005年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")には攻略対象キャラを追加した[PS2版](../Page/PlayStation_2.md "wikilink")、[2007年](../Page/2007年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")には[PSP版が発売された](../Page/PlayStation_Portable.md "wikilink")。
 
 ## 概要
 

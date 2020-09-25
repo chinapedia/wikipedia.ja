@@ -7,7 +7,7 @@
 
 [ユダヤ系](https://ja.wikipedia.org/wiki/ユダヤ系 "wikilink")[ウクライナ人](../Page/ウクライナ人.md "wikilink")移民の家庭に生まれ、父親のルイス・J・セルズニックはサイレント映画の監督であった。[コロンビア大学](https://ja.wikipedia.org/wiki/コロンビア大学 "wikilink")で学び、1923年に父親の会社が破産するまでそこで映画製作に携わる。1926年に[メトロ・ゴールドウィン・メイヤー](../Page/メトロ・ゴールドウィン・メイヤー.md "wikilink")に入るが2年後に[パラマウント映画](../Page/パラマウント映画.md "wikilink")に移る。その3年後、今度は[RKO](../Page/RKO.md "wikilink")に移り、『[キング・コング](https://ja.wikipedia.org/wiki/キングコング_\(1933年の映画\) "wikilink")』などを制作。1935年に独立し、セルズニック・インターナショナル・ピクチャーズを設立した。1949年に女優の[ジェニファー・ジョーンズ](../Page/ジェニファー・ジョーンズ.md "wikilink")と再婚。
 
-作品に関しては監督に委任する方針を取らず、[ヒッチコックは](../Page/アルフレッド・ヒッチコック.md "wikilink")『[レベッカ](../Page/レベッカ_\(映画\).md "wikilink")』について「あのオスカー（アカデミー賞作品賞）はプロデューサーのセルズニックに与えられた賞だ」\[1\]と述べたほどである。
+作品に関しては監督に委任する方針を取らず、『[風と共に去りぬ](https://ja.wikipedia.org/wiki/風と共に去りぬ_\(映画\) "wikilink")』では、[ジョージ・キューカー](../Page/ジョージ・キューカー.md "wikilink")から[ヴィクター・フレミング](../Page/ヴィクター・フレミング.md "wikilink")へ交代させた上、[サム・ウッド](../Page/サム・ウッド.md "wikilink")にも分担させた。[ヒッチコックは](../Page/アルフレッド・ヒッチコック.md "wikilink")『[レベッカ](../Page/レベッカ_\(映画\).md "wikilink")』について「あのオスカー（アカデミー賞作品賞）はプロデューサーのセルズニックに与えられた賞だ」\[1\]と述べたほどである。
 
 うるさく口出しする方針が嫌われて、監督からも俳優からも疎んじられるようになり、契約を拒まれ、ろくに制作もできなくなるハメになった。最後には多額の負債を抱えて破産寸前にまでなり、精神科医にかかった事もあった。
 
@@ -34,7 +34,7 @@
   - [断崖](https://ja.wikipedia.org/wiki/断崖_\(映画\) "wikilink") *Suspicion* (1941)
   - [白い恐怖](../Page/白い恐怖.md "wikilink") *Spellbound* (1945)
   - [白昼の決闘](../Page/白昼の決闘.md "wikilink") *Duel in the Sun* (1946)　（脚本も書く）
-  - [パラダイン夫人の恋](../Page/パラダイン夫人の恋.md "wikilink") *The Paradine Case* (1947)
+  - [パラダイン夫人の恋](../Page/パラダイン夫人の恋.md "wikilink") *The Paradine Case* (1947)　（脚本も書く）
   - [ジェニイの肖像](https://ja.wikipedia.org/wiki/ジェニイの肖像 "wikilink") *Portrait of Jennie* (1948)
   - [第三の男](../Page/第三の男.md "wikilink") *The Third Man* (1949)
   - [終着駅](../Page/終着駅_\(映画\).md "wikilink") *Stazione Termini* (1953)

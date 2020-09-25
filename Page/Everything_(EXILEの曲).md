@@ -5,7 +5,7 @@
 
 ## 概要
 
-EXILE第二章初のシングル。「CD+DVD」「CDのみ」の2形態で発売。
+前作「[YES\!](../Page/YES!_\(EXILEの曲\).md "wikilink")」から9ヶ月ぶりのシングル。第二章が開幕し新体制となって初のシングルで、3ヶ月連続シングルリリースの第1弾。「CD+DVD」「CDのみ」の2形態で発売。
 
 カップリング曲の「Giver」は、メンバーの[TAKAHIROがグループ加入を決めた同年開催のEXILE新ボーカルオーディション](https://ja.wikipedia.org/wiki/TAKAHIRO_\(歌手\) "wikilink")「[VOCAL BATTLE AUDITION](https://ja.wikipedia.org/wiki/VOCAL_BATTLE_AUDITION#EXILE_VOCAL_BATTLE_AUDITION_2006_〜ASIAN_DREAM〜 "wikilink")」の3次審査課題曲であった\[1\]。
 

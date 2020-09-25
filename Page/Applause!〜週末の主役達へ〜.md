@@ -41,4 +41,4 @@
 ## 外部リンク
 
   -
-[Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink") [Category:JFNCの番組の歴史](https://ja.wikipedia.org/wiki/Category:JFNCの番組の歴史 "wikilink") [Category:ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ラジオの情報・ワイドショー番組 "wikilink")
+[Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink") [Category:JFNCの番組の歴史](https://ja.wikipedia.org/wiki/Category:JFNCの番組の歴史 "wikilink") [Category:JFN系ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの情報・ワイドショー番組 "wikilink")

@@ -27,7 +27,7 @@
       - 作詞：[陽花](https://ja.wikipedia.org/wiki/坂本麗衣 "wikilink")／作曲・編曲・オーケストラアレンジ：中野雄太
 6.  **[Garnet Moon](https://ja.wikipedia.org/wiki/Garnet_Moon/祈り "wikilink")**
       - 作詞：[六ツ見純代](https://ja.wikipedia.org/wiki/六ツ見純代 "wikilink")／作曲：迫茂樹／編曲：前嶋康明
-      - [プレイステーション2専用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[Another Century's Episode ～A.C.E.～](../Page/Another_Century's_Episode.md "wikilink")』イメージソング
+      - [プレイステーション2専用ソフト](../Page/PlayStation_2.md "wikilink")『[Another Century's Episode ～A.C.E.～](../Page/Another_Century's_Episode.md "wikilink")』イメージソング
 7.  **Mona Lisa**
       - 作詞：shungo.／作曲・編曲・オーケストラアレンジ：中野雄太
 8.  **kokoro**

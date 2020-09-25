@@ -68,7 +68,7 @@
 ## 外部リンク
 
   - [Kernel Log: Ext4 completes development phase as interim step to btrfs](http://heise-online.co.uk/news/Kernel-Log-Ext4-completes-development-phase-as-interim-step-to-btrfs--/111742)
-  - [Theodore Ts'o's discussion on ext4](http://archive.is/20120712143749/kerneltrap.org/node/6776)
+  - [Theodore Ts'o's discussion on ext4](https://archive.is/20120712143749/kerneltrap.org/node/6776)
   - [Real World Benchmarks Of The EXT4 File-System](http://phoronix.com/scan.php?page=article&item=ext4_benchmarks&num=1)
   - [Ext4 Wiki](http://ext4.wiki.kernel.org/)
   - ["Ext4 block and inode allocator improvements"](http://ols.fedoraproject.org/OLS/Reprints-2008/kumar-reprint.pdf) (Ottawa Linux Symposium 2008の資料)

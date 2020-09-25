@@ -1,13 +1,13 @@
 > この記事は[東方香霖堂 〜 Curiosities of Lotus Asia.](https://ja.wikipedia.org/wiki/東方香霖堂_〜_Curiosities_of_Lotus_Asia.)から翻訳されています。
 
 
-『**東方香霖堂 〜 Curiosities of Lotus Asia.**』（とうほうこうりんどう）は、「[東方Project](https://ja.wikipedia.org/wiki/東方Project "wikilink")」を題材にした日本の[小説](../Page/小説.md "wikilink")作品。著者は[ZUNで](https://ja.wikipedia.org/wiki/ZUN_\(ゲームクリエイター\) "wikilink")、挿絵は[唖采弦二が担当している](https://ja.wikipedia.org/wiki/輪くすさが "wikilink")。
+『**東方香霖堂 〜 Curiosities of Lotus Asia.**』（とうほうこうりんどう）は、「[東方Project](https://ja.wikipedia.org/wiki/東方Project "wikilink")」を題材にした[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[小説](../Page/小説.md "wikilink")作品。著者は[ZUNで](https://ja.wikipedia.org/wiki/ZUN_\(ゲームクリエイター\) "wikilink")、挿絵は[唖采弦二が担当している](https://ja.wikipedia.org/wiki/輪くすさが "wikilink")。
 
-東方Projectの舞台となる世界「[幻想郷](../Page/幻想郷.md "wikilink")」にある古道具屋「香霖堂（こうりんどう）」の店主「森近 霖之助（もりちか りんのすけ）」と、そこを訪れる人間や妖怪を中心に展開するストーリー。基本的に、物語は[主人公](../Page/主人公.md "wikilink")である霖之助の[一人称形式で展開されていく](https://ja.wikipedia.org/wiki/人称#「一人称」形式小説 "wikilink")。
+東方Projectの舞台となる世界「[幻想郷](../Page/幻想郷.md "wikilink")」にある古道具屋「香霖堂（こうりんどう）」の店主「森近 霖之助（もりちか りんのすけ）」と、そこを訪れる[人間](../Page/人間.md "wikilink")や[妖怪](../Page/妖怪.md "wikilink")を中心に展開するストーリー。基本的に、物語は[主人公](../Page/主人公.md "wikilink")である霖之助の[一人称形式で展開されていく](https://ja.wikipedia.org/wiki/人称#「一人称」形式小説 "wikilink")。
 
 本作は連載作品で、連載終了後に書籍化しているが、連載時は何度か掲載媒体の移籍を行なっている（[後述](https://ja.wikipedia.org/wiki/#掲載媒体の推移 "wikilink")）。
 
-2015年9月に発売された東方project専門雑誌、東方外來韋編で連載が再開された。
+[2015年](../Page/2015年.md "wikilink")9月に発売された東方project専門雑誌、東方外來韋編で連載が再開された。
 
 本項では、以降は『香霖堂』と称することとする。その他の本項で使用されている東方Project関連の略称については、[東方Project\#凡例](https://ja.wikipedia.org/wiki/東方Project#凡例 "wikilink")を参照。
 
@@ -18,7 +18,7 @@
 ここでは、『香霖堂』が初出の登場人物を解説する。以下に記載した以外にも、1話あるいは1エピソードだけの登場人物が複数存在する。
 
   - （もりちか りんのすけ）
-    本作の主人公。魔法の森の入り口にある古道具屋「[香霖堂](https://ja.wikipedia.org/wiki/幻想郷#香霖堂 "wikilink")（こうりんどう）」店主の男性。
+    本作の[主人公](../Page/主人公.md "wikilink")。魔法の森の入り口にある古道具屋「[香霖堂](https://ja.wikipedia.org/wiki/幻想郷#香霖堂 "wikilink")（こうりんどう）」店主の[男性](../Page/男性.md "wikilink")。
     「森近霖之助」という名前は自分で付けたもの\[1\]で、「森近」は魔法の「森」の「近」く、「霖」は「霧雨」と「森」を合わせたもの、また店名の「香（こう）」は「神（こう）」に通じて「神社」を意味している\[2\]。
     人間と妖怪の[ハーフであり](../Page/混血.md "wikilink")、人間と比べ寿命が長く\[3\]、霖之助曰く「彼女（霊夢）たちの「何倍も」永く生きている」とのこと\[4\]で、歳を重ねても成長や老化といった変化が少ない\[5\]。
     ｢**未知のアイテムの名称と用途がわかる程度の能力**｣を持つ。しかし、その道具の使い方までは知ることができない\[6\]。また、使い方が分からないため、能力で思い浮かぶ用途の意味を勘違いすることもある\[7\]。
@@ -35,7 +35,7 @@
   - [博麗霊夢](https://ja.wikipedia.org/wiki/博麗霊夢 "wikilink")
     [博麗神社の](https://ja.wikipedia.org/wiki/幻想郷#博麗神社 "wikilink")[巫女](../Page/巫女.md "wikilink")。霖之助を「霖之助さん」と呼ぶ。頻繁に用も無く訪れては店に入り浸っていく、客ではない常連の一人である。友人の魔理沙とよくつるんでいる。
   - [霧雨魔理沙](https://ja.wikipedia.org/wiki/霧雨魔理沙 "wikilink")
-    魔法使いの少女。霖之助を屋号の「香霖（こうりん）」と呼ぶ。霊夢と同じく客ではない常連の一人であるが、霊夢にも増して頻繁に香霖堂に通っては入り浸っている。
+    魔法使いの少女。霖之助を[屋号](../Page/屋号.md "wikilink")の「香霖（こうりん）」と呼ぶ。霊夢と同じく客ではない常連の一人であるが、霊夢にも増して頻繁に香霖堂に通っては入り浸っている。
     蒐集癖があり、要らない道具を霖之助に引き取ってもらっている。霖之助とは物心ついた頃からの付き合いであり、彼女が持つマジックアイテム「ミニ八卦炉」も彼が作ったものである\[22\]。鉄くずの収集癖\[23\]、星の魔法\[24\]など現在の性格を形成する上で霖之助の影響を大きく受けている。
   - 十六夜咲夜
     [紅魔館の](https://ja.wikipedia.org/wiki/幻想郷#紅魔館 "wikilink")[メイド](../Page/メイド.md "wikilink")長。頻度は少ないが、たまに香霖堂を訪れる。レミリアに仕えており、二人で来る事もある。香霖堂の数少ない「常連客」の一人である。
@@ -44,7 +44,7 @@
   - 魂魄妖夢
     [冥界の西行寺家に住み込みで働いている半人半霊の少女](https://ja.wikipedia.org/wiki/幻想郷#冥界 "wikilink")。
   - 八雲紫
-    妖怪少女。外の世界のことについてはあらゆる点で霖之助よりも詳しい。対面すると心を見透かされている様な気がするため、霖之助が苦手としている人物である\[25\]。
+    妖怪の少女。外の世界のことについてはあらゆる点で霖之助よりも詳しい。対面すると心を見透かされている様な気がするため、霖之助が苦手としている人物である\[25\]。
   - 稗田阿求
     人里にある稗田家の九代目の「御阿礼の子」。
 
@@ -52,11 +52,11 @@
 
 本作品は4回、掲載媒体を移している。
 
-まず、月刊の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")雑誌『[Colorful PUREGIRL](../Page/Colorful_PUREGIRL.md "wikilink")』（[ビブロス](../Page/ビブロス_\(出版社\).md "wikilink")）にて、2004年1月号に予告が掲載され、翌月号より連載が始まる。分量は1ページで、話数は前編後編に別れている場合は第1話前編と第1話後編などという形式がとられていた。しかし連載誌が、第5話後編（連載9回目）が掲載された2004年10月号で休刊を迎えた。
+まず、月刊の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")雑誌『[Colorful PUREGIRL](../Page/Colorful_PUREGIRL.md "wikilink")』（[ビブロス](../Page/ビブロス_\(出版社\).md "wikilink")）にて、[2004年](../Page/2004年.md "wikilink")1月号に予告が掲載され、翌月号より連載が始まる。分量は1ページで、話数は前編後編に別れている場合は第1話前編と第1話後編などという形式がとられていた。しかし連載誌が、第5話後編（連載9回目）が掲載された2004年10月号で休刊を迎えた。
 
 2004年10月からその後釜に当たる隔月刊雑誌『[magazine elfics](https://ja.wikipedia.org/wiki/エルフィックス "wikilink")』（ビブロス）に掲載されるようになる。分量は2ページになり、話数は再び第1話からとされた。第6話（連載通算15回目）にて再び連載誌が休刊。
 
-2005年12月、ビブロスのWebページ「エルナビ」上に連載の場を移し、過去の連載分を「Colorful PUREGIRLの第1話後編を第2話に」「magazine elficsの第1話を第10話に」のように話数が整理され、新連載分となる第16話以降がWeb上で無料で読めるようになった。また第15話までの過去の連載分の扉絵を閲覧できるギャラリーが設けられた。しかし、[2006年](../Page/2006年.md "wikilink")3月31日にビブロスが倒産し、2006年2月掲載分（第17話）で連載休止となってしまう。それに伴い、エルナビ掲載分の作品を見る事はできない状態になった。
+[2005年](../Page/2005年.md "wikilink")12月、ビブロスのWebページ「エルナビ」上に連載の場を移し、過去の連載分を「Colorful PUREGIRLの第1話後編を第2話に」「magazine elficsの第1話を第10話に」のように話数が整理され、新連載分となる第16話以降がWeb上で無料で読めるようになった。また第15話までの過去の連載分の扉絵を閲覧できるギャラリーが設けられた。しかし、[2006年](../Page/2006年.md "wikilink")3月31日にビブロスが倒産し、2006年2月掲載分（第17話）で連載休止となってしまう。それに伴い、エルナビ掲載分の作品を見る事はできない状態になった。
 
 その後2006年6月、『[電撃萌王](../Page/電撃萌王.md "wikilink")』（[メディアワークス](../Page/メディアワークス.md "wikilink")）2006年8月号にて連載を再開し、2007年12月号の第26話にて最終回を迎えた。
 
@@ -67,8 +67,8 @@
 ## 単行本
 
   - 東方香霖堂 〜 Curiosities of Lotus Asia.
-    2010年9月30日発売、[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink") ISBN 978-4-04-868501-6
-    装丁は[しおり紐付き](../Page/スピン_\(本\).md "wikilink")[ハードカバー](../Page/ハードカバー.md "wikilink")。連載されていた『香霖堂』全26話を収録。さらに同人誌『霊偲志異2』に掲載された「神々の道具」も収録されている。
+    [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")発売、[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink") ISBN 978-4-04-868501-6
+    装丁は[しおり紐付き](../Page/スピン_\(本\).md "wikilink")[ハードカバー](../Page/ハードカバー.md "wikilink")。連載されていた『香霖堂』全26話を収録。さらに[同人誌](../Page/同人誌.md "wikilink")『霊偲志異2』に掲載された「神々の道具」も収録されている。
     「神々の道具」は第12話とされ、「エルナビ」掲載のダイジェストおよび『電撃萌王』での話数が、12話以降一つずつずれることとなった（エルナビの第12話→単行本第13話、……、電撃萌王の第26話→単行本第27話）。
 
 ## 出典
@@ -83,7 +83,7 @@
 
   - 。
 
-[Category:東方Project](https://ja.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:電撃萌王](https://ja.wikipedia.org/wiki/Category:電撃萌王 "wikilink") [Category:日本の小説](https://ja.wikipedia.org/wiki/Category:日本の小説 "wikilink")
+[Category:東方Project](https://ja.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:東方Projectの書籍](https://ja.wikipedia.org/wiki/Category:東方Projectの書籍 "wikilink") [Category:電撃萌王](https://ja.wikipedia.org/wiki/Category:電撃萌王 "wikilink") [Category:日本の小説](https://ja.wikipedia.org/wiki/Category:日本の小説 "wikilink")
 
 1.
 2.

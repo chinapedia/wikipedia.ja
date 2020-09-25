@@ -3,7 +3,7 @@
 
 『**Scarlett**』（**スカーレット**）は、[ねこねこソフト](../Page/ねこねこソフト.md "wikilink")による[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。初回版は[2006年](../Page/2006年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")、通常版は同年[7月21日](../Page/7月21日.md "wikilink")発売。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月30日](../Page/10月30日.md "wikilink")に[角川書店](../Page/角川書店.md "wikilink")より[PS2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**Scarlett 〜日常の境界線〜**』として移植・発売された。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月30日](../Page/10月30日.md "wikilink")に[角川書店](../Page/角川書店.md "wikilink")より[PS2用ソフト](../Page/PlayStation_2.md "wikilink")『**Scarlett 〜日常の境界線〜**』として移植・発売された。
 
 キャッチコピーは「日常の中にある非日常、その境界線を越えた時－。」
 

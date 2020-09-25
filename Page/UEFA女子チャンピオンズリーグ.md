@@ -183,7 +183,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA女子チャンピオンズリーグ_2019-20" title="wikilink">2019-20</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/オリンピック・リヨン_(女子)" title="wikilink">オリンピック・リヨン</a></strong></p></td>
 <td><p><strong>3 - 1</strong></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/VfLヴォルフスブルク_(女子)" title="wikilink">ヴォルフスブルク</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/VfLヴォルフスブルク_(女子)" title="wikilink">ヴォルフスブルク</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エスタディオ・アノエタ" title="wikilink">エスタディオ・アノエタ</a>（<a href="../Page/サン・セバスティアン.md" title="wikilink">サン・セバスティアン</a>）</p></td>
 </tr>
 <tr class="even">
@@ -247,18 +247,18 @@
 <td><p>2002,2007,2008</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1.FFCトゥルビネ・ポツダム" title="wikilink">トゥルビネ・ポツダム</a></p></td>
-<td><p>2</p></td>
-<td><p>2</p></td>
-<td><p>2005,2010</p></td>
-<td><p>2006,2011</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/VfLヴォルフスブルク_(女子)" title="wikilink">ヴォルフスブルク</a></p></td>
 <td><p>2</p></td>
 <td><p><strong>3</strong></p></td>
 <td><p>2013,2014</p></td>
 <td><p>2016,2018,2020</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/1.FFCトゥルビネ・ポツダム" title="wikilink">トゥルビネ・ポツダム</a></p></td>
+<td><p>2</p></td>
+<td><p>2</p></td>
+<td><p>2005,2010</p></td>
+<td><p>2006,2011</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/アーセナル・ウィメンFC.md" title="wikilink">アーセナル</a></p></td>
@@ -339,7 +339,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/フランスサッカー連盟.md" title="wikilink">フランス</a></p></td>
-<td><p><strong>7</strong></p></td>
+<td><p>7</p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="odd">
@@ -372,7 +372,11 @@
 
 ## 脚注
 
-## 出典
+  - 注釈
+
+<!-- end list -->
+
+  - 出典
 
 ## 関連項目
 

@@ -1,9 +1,9 @@
 > この記事は[CJKV](https://ja.wikipedia.org/wiki/CJKV)から翻訳されています。
 
 
-[CJKV-logo.png](https://ja.wikipedia.org/wiki/File:CJKV-logo.png "fig:CJKV-logo.png") **CJKV** は、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")・[日本語](../Page/日本語.md "wikilink")・[朝鮮語](../Page/朝鮮語.md "wikilink")・[ベトナム語](../Page/ベトナム語.md "wikilink") () の略。特に、その四[言語](../Page/言語.md "wikilink")で共通して使われる、または使われていた[文字体系](https://ja.wikipedia.org/wiki/文字体系 "wikilink")である[漢字](../Page/漢字.md "wikilink")（[チュノム](../Page/チュノム.md "wikilink")を含む）のこと。[ソフトウェア](../Page/ソフトウェア.md "wikilink")の[国際化](../Page/国際化と地域化.md "wikilink")、中でも[文字コード](../Page/文字コード.md "wikilink")に関する分野で用いられる。
+[CJKV-logo.png](https://ja.wikipedia.org/wiki/File:CJKV-logo.png "fig:CJKV-logo.png") **CJKV** は、[中国語](../Page/中国語.md "wikilink")・[日本語](../Page/日本語.md "wikilink")・[朝鮮語](../Page/朝鮮語.md "wikilink")・[ベトナム語](../Page/ベトナム語.md "wikilink") () の略。特に、その四[言語](../Page/言語.md "wikilink")で共通して使われる、または使われていた[文字体系](https://ja.wikipedia.org/wiki/文字体系 "wikilink")である[漢字](../Page/漢字.md "wikilink")（[チュノム](../Page/チュノム.md "wikilink")を含む）のこと。[ソフトウェア](../Page/ソフトウェア.md "wikilink")の[国際化](../Page/国際化と地域化.md "wikilink")、中でも[文字コード](../Page/文字コード.md "wikilink")に関する分野で用いられる。
 
-比較的早くに漢字を廃止し、漢字に含めるべきか諸説あるチュノムを擁するベトナム語を除いた[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")、[日本語](../Page/日本語.md "wikilink")、[朝鮮語](../Page/朝鮮語.md "wikilink")の頭文字だけをとって **CJK** と呼ぶこともある。主な[東アジア](../Page/東アジア.md "wikilink")の[書記系](https://ja.wikipedia.org/wiki/書記系 "wikilink")を総称するときに用いられる。用語の使用頻度は CJKV より CJK のほうが多いが、CJK と言いながら実際は CJKV について述べていることも多い。
+比較的早くに漢字を廃止し、漢字に含めるべきか諸説あるチュノムを擁するベトナム語を除いた[中国語](../Page/中国語.md "wikilink")、[日本語](../Page/日本語.md "wikilink")、[朝鮮語](../Page/朝鮮語.md "wikilink")の頭文字だけをとって **CJK** と呼ぶこともある。主な[東アジア](../Page/東アジア.md "wikilink")の[書記系](https://ja.wikipedia.org/wiki/書記系 "wikilink")を総称するときに用いられる。用語の使用頻度は CJKV より CJK のほうが多いが、CJK と言いながら実際は CJKV について述べていることも多い。
 
 ## 特徴
 

@@ -167,7 +167,7 @@
   - 6月14日 [痛快\!スロットシューティング](https://ja.wikipedia.org/wiki/痛快!スロットシューティング "wikilink")（翔泳社）
   - 6月14日 [NBA LIVE96](../Page/NBA.md "wikilink")（エレクトロニック・アーツ・ビクター）●
   - 6月14日 [～麻雀戦術～ 安藤満プロの亜空間殺法](https://ja.wikipedia.org/wiki/～麻雀戦術～_安藤満プロの亜空間殺法 "wikilink")（童）
-  - 6月14日 [モータルコンバット](https://ja.wikipedia.org/wiki/モータルコンバット "wikilink")3（ソニー・コンピュータエンタテインメント）
+  - 6月14日 [モータルコンバット](../Page/モータルコンバット.md "wikilink")3（ソニー・コンピュータエンタテインメント）
   - 6月21日 EPSシリーズVOL.1 [森川友紀子](https://ja.wikipedia.org/wiki/森川友紀子 "wikilink")（アンティノスレコード）
   - 6月21日 EPSシリーズVOL.2 [仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")（アンティノスレコード）
   - 6月21日 EPSシリーズVOL.3 [角田智美](../Page/角田ともみ.md "wikilink")（アンティノスレコード）
@@ -223,7 +223,7 @@
   - 8月2日 [レイクマスターズ](https://ja.wikipedia.org/wiki/レイクマスターズ "wikilink")（ネクサスインターラクト）
   - 8月2日 [オーバーブラッド](https://ja.wikipedia.org/wiki/オーバーブラッド "wikilink")（リバーヒルソフト）
   - 8月2日 [信長の野望 リターンズ](../Page/信長の野望_\(初代\).md "wikilink")（光栄）
-  - 8月2日 [モータルコンバット](https://ja.wikipedia.org/wiki/モータルコンバット "wikilink")2（アクレイムジャパン）
+  - 8月2日 [モータルコンバット](../Page/モータルコンバット.md "wikilink")2（アクレイムジャパン）
   - 8月2日 [トバルNo.1](../Page/トバルNo.1.md "wikilink")（[スクウェア](../Page/スクウェア_\(ゲーム会社\).md "wikilink")、アクション）
   - 8月9日 [Cyber Speed](https://ja.wikipedia.org/wiki/Cyber_Speed "wikilink")（ギャガ・コミュニケーションズ）●
   - 8月9日 [七つの秘館](https://ja.wikipedia.org/wiki/七つの秘館 "wikilink")（光栄）

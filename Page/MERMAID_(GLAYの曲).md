@@ -6,7 +6,7 @@
 ## 概要
 
   - 前作「[HAPPINESS -WINTER MIX-](../Page/HAPPINESS_-WINTER_MIX-.md "wikilink")」から半年ぶりとなる新曲であった。
-  - ノンタイアップながらも発売週が同じであった「[STAY AWAY](../Page/STAY_AWAY.md "wikilink")」（[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")）、「[HOTEL PACIFIC](../Page/HOTEL_PACIFIC.md "wikilink")」（[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")）を抑えてオリコンチャート1位を獲得した。
+  - ノンタイアップながらも発売週が同じであった「[STAY AWAY](../Page/STAY_AWAY.md "wikilink")」（[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")）、「[HOTEL PACIFIC](../Page/HOTEL_PACIFIC.md "wikilink")」（[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")）を抑えてオリコンチャート1位を獲得した。[2000年](../Page/2000年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")放送の[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』ではGLAY、L'Arc〜en〜Ciel、サザンオールスターズが揃い踏みで出演している\[1\]。
   - ジャケットは紙製で歌詞カードと一体になっており、これは次作「[とまどい/SPECIAL THANKS](https://ja.wikipedia.org/wiki/とまどい/SPECIAL_THANKS "wikilink")」、次々作「[Missing You](../Page/Missing_You_\(GLAYの曲\).md "wikilink")」も同じ様な作りである。
   - 初回版としてロングケースのジャケットが存在する。そのジャケットの作りも後2作のシングルとベストアルバム『[DRIVE-GLAY complete BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")』に受け継がれる。
   - 初回版のサイズが大きいわけは、メンバーから統一したイメージを持たせたいと希望があり、いくつかの案から「写真も大きくなるし、おもしろいのでは」とインポート・サイズが採用されることになったためである。
@@ -41,4 +41,12 @@
 
   - [2000年の音楽](../Page/2000年の音楽.md "wikilink")
 
+## 脚注
+
+### 注釈
+
+### 出典
+
 [Category:GLAYの楽曲](https://ja.wikipedia.org/wiki/Category:GLAYの楽曲 "wikilink") [Category:TAKUROが制作した楽曲](https://ja.wikipedia.org/wiki/Category:TAKUROが制作した楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:2000年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2000年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink") [Category:ポニーキャニオンの楽曲](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンの楽曲 "wikilink")
+
+1.

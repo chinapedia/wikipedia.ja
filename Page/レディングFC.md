@@ -232,7 +232,7 @@
 
   - [シェーン・ロング](https://ja.wikipedia.org/wiki/シェーン・ロング "wikilink") 2005-2011
 
-  - [薛琦鉉](https://ja.wikipedia.org/wiki/薛琦鉉 "wikilink") 2006-2007
+  - [薛琦鉉](../Page/薛琦鉉.md "wikilink") 2006-2007
 
 ## 脚注
 

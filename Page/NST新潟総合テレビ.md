@@ -297,7 +297,7 @@ NSTでは、『[FNN Live News α](https://ja.wikipedia.org/wiki/FNN_Live_News_α
       - [11月](../Page/11月.md "wikilink") レギュラー情報番組『[エンドランサタデー](https://ja.wikipedia.org/wiki/エンドランサタデー "wikilink")』スタート。
       - [12月26日](../Page/12月26日.md "wikilink") [アンペックス](../Page/アンペックス.md "wikilink")社製のハイバンド方式による放送業務用[2インチカラーVTR](../Page/2インチVTR.md "wikilink")（アンペックス方式）を導入、稼動開始。同VTRは1983年頃まで運用された。
   - [1975年](../Page/1975年.md "wikilink")
-      - [3月31日](../Page/3月31日.md "wikilink") [腸捻転](https://ja.wikipedia.org/wiki/腸捻転 "wikilink")（ネットワークのねじれ現象）解消に伴い、[毎日放送製作の番組が](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")へ移行。[朝日放送製作の番組をネットするようになる](../Page/朝日放送テレビ.md "wikilink")（1983年9月30日まで続く）。
+      - [3月31日](../Page/3月31日.md "wikilink") [腸捻転](../Page/腸捻転.md "wikilink")（ネットワークのねじれ現象）解消に伴い、[毎日放送製作の番組が](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")へ移行。[朝日放送製作の番組をネットするようになる](../Page/朝日放送テレビ.md "wikilink")（1983年9月30日まで続く）。
       - [10月5日](../Page/10月5日.md "wikilink") それまで[TBS系列局である](../Page/TBSテレビ.md "wikilink")[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink") (BSN) で放送されていたフジテレビの看板アニメ番組『[サザエさん](https://ja.wikipedia.org/wiki/サザエさん_\(テレビアニメ\) "wikilink")』がNSTへ移行し、同番組はこの時より、フジテレビとの同時ネットで放送されるようになる\[20\]。
   - [1977年](../Page/1977年.md "wikilink")頃 アンペックス社製[1インチVTR](../Page/1インチVTR.md "wikilink")導入、運用開始。
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")
@@ -332,7 +332,7 @@ NSTでは、『[FNN Live News α](https://ja.wikipedia.org/wiki/FNN_Live_News_α
   - [2001年](../Page/2001年.md "wikilink")
       - 3月 放送データ作成システム及び[CMバンク](https://ja.wikipedia.org/wiki/CMバンク "wikilink")更新。
       - [10月6日](../Page/10月6日.md "wikilink") 『[スマイルスタジアムNST](../Page/スマイルスタジアムNST.md "wikilink")』スタート。
-  - [2002年](../Page/2002年.md "wikilink")4月1日 [CIの一環として](https://ja.wikipedia.org/wiki/コーポレートアイデンティティー "wikilink")、ロゴ変更。
+  - [2002年](../Page/2002年.md "wikilink")4月1日 [CIの一環として](../Page/コーポレートアイデンティティ.md "wikilink")、ロゴ変更。
   - [2003年](../Page/2003年.md "wikilink")
       - 3月 現社屋（市内八千代2、旧新潟鉄道管理局グラウンド跡）起工式・着工。
       - 開局35周年に伴い、自局初のキャラクター「**ナシテ君・ドシテちゃん**」が登場する。
@@ -390,7 +390,7 @@ NSTでは、『[FNN Live News α](https://ja.wikipedia.org/wiki/FNN_Live_News_α
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[10月1日](../Page/10月1日.md "wikilink") - この日発足した[FNSに加盟](../Page/フジネットワーク.md "wikilink")。
   - [1970年](../Page/1970年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink") - NET-朝日テレビニュース系列が[ANNとして発足し加盟](../Page/オールニッポン・ニュースネットワーク.md "wikilink")。
   - [1972年](../Page/1972年.md "wikilink")[6月14日](../Page/6月14日.md "wikilink") - [NNSに加盟](../Page/日本テレビネットワーク協議会.md "wikilink")。
-  - [1975年](../Page/1975年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") - [腸捻転](https://ja.wikipedia.org/wiki/腸捻転 "wikilink")解消に伴い、トリプルクロスのうちANN系列準キー局が[毎日放送から](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[朝日放送に変更される](../Page/朝日放送テレビ.md "wikilink")。
+  - [1975年](../Page/1975年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") - [腸捻転](../Page/腸捻転.md "wikilink")解消に伴い、トリプルクロスのうちANN系列準キー局が[毎日放送から](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[朝日放送に変更される](../Page/朝日放送テレビ.md "wikilink")。
   - [1981年](../Page/1981年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - [テレビ新潟放送網](../Page/テレビ新潟放送網.md "wikilink")の開局によりNNN・NNSを脱退。これにより、新潟放送からごく一部を除いたフジテレビ系列の番組が移行され、フジテレビ系列・テレビ朝日系列の均等クロスネットに移行したが、[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")から開局時移行されなかった[テレビ朝日](../Page/テレビ朝日.md "wikilink")の番組も[平日朝の情報番組](https://ja.wikipedia.org/wiki/テレビ朝日系列平日午前のワイドショー枠 "wikilink")（当時は『[モーニングショー](../Page/モーニングショー.md "wikilink")』）を含めて移行されたことで、フジテレビ制作の番組のうち[平日朝8時半からの生番組](https://ja.wikipedia.org/wiki/フジテレビ系列平日午前のワイドショー枠 "wikilink")（当時は『[小川宏ショー](../Page/小川宏ショー.md "wikilink")』）や[土曜朝8時半からの生番組](../Page/関西テレビ制作土曜朝のワイドショー.md "wikilink")（当時は『[ハイ\!土曜日です](../Page/ハイ!土曜日です.md "wikilink")』）などは打ち切りを余儀無くされた。
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[10月1日](../Page/10月1日.md "wikilink") - [新潟テレビ21](https://ja.wikipedia.org/wiki/新潟テレビ21 "wikilink")の開局によりANN脱退。[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")から移行しきれなかったフジテレビの番組が移行され、FNN・[FNSマストバイ化が完了するが競馬番組と](../Page/フジネットワーク.md "wikilink")[仙台放送](../Page/仙台放送.md "wikilink")製作の[東北電力](../Page/東北電力.md "wikilink")[一社提供](../Page/一社提供.md "wikilink")番組は新潟放送でネット継続。2年半前の時点で打ち切りになったフジテレビ制作の朝8時半からの生番組（当時は平日は『[おはよう\!ナイスデイ](https://ja.wikipedia.org/wiki/おはよう!ナイスデイ "wikilink")』、土曜は『[DOサタデー](../Page/DOサタデー.md "wikilink")』）のネットも再開する。
   - [2000年](../Page/2000年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink") - [フジテレビの競馬番組がようやく新潟放送から移行される](../Page/フジテレビ系列日曜午後の競馬番組.md "wikilink")。

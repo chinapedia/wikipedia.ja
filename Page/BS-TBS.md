@@ -279,13 +279,15 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><small>番組名</small></p></th>
-<th><p><small>放送日時</small></p></th>
-<th><p><small>備考</small></p></th>
+<th></th>
+<th><p>番組名</p></th>
+<th><p>放送日時</p></th>
+<th><p>備考</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>国内ドラマ</p></td>
 <td><p>ミステリー・セレクション</p></td>
 <td><p>月曜 - 金曜 9:59 - 11:55、 14:00 - 15:55<br />
 土曜 15:00 - 16:55<br />
@@ -294,18 +296,27 @@
 ほとんどの作品で<a href="https://ja.wikipedia.org/wiki/文字多重放送" title="wikilink">字幕放送を実施</a>。 土曜、日曜は開始終了時間変動の場合あり。</p></td>
 </tr>
 <tr class="even">
-<td><p>韓国時代劇「<a href="https://ja.wikipedia.org/wiki/オクニョ_運命の女" title="wikilink">オクニョ 運命の女</a>（ひと）」</p></td>
-<td><p>月曜 - 金曜 13:00 - 13:55</p></td>
+<td><p>ドラマ・<a href="../Page/浅草ふくまる旅館.md" title="wikilink">浅草ふくまる旅館</a></p></td>
+<td><p>月曜 - 金曜 17:00 - 17:54</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>ドラマ・<a href="https://ja.wikipedia.org/wiki/女系家族#2005年版" title="wikilink">女系家族</a></p></td>
-<td><p>月曜 - 金曜 17:00 - 17:54</p></td>
+<td><p>名作時代劇・<a href="https://ja.wikipedia.org/wiki/水戸黄門_(第22-28部)" title="wikilink">水戸黄門 第27部</a></p></td>
+<td><p>月曜 - 金曜 18:30 - 19:30</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>名作時代劇・<a href="https://ja.wikipedia.org/wiki/水戸黄門_(第22-28部)" title="wikilink">水戸黄門 第27部</a></p></td>
-<td><p>月曜 - 金曜 18:30 - 19:30</p></td>
+<td><p>海外ドラマ</p></td>
+<td><p>韓国時代劇「<a href="https://ja.wikipedia.org/wiki/王の顔" title="wikilink">王の顔</a>」</p></td>
+<td><p>日曜 - 水曜 27:00 - 28:00</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>韓国ドラマ「<a href="../Page/キム秘書はいったい、なぜ?.md" title="wikilink">キム秘書はいったい、なぜ？</a>」</p></td>
+<td><p>月曜 - 金曜 13:00 - 13:55</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -316,26 +327,26 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><small>番組名</small></p></th>
-<th><p><small>放送日時</small></p></th>
-<th><p><small>備考</small></p></th>
+<th><p>番組名</p></th>
+<th><p>放送日時</p></th>
+<th><p>備考</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>（枠名なしの映画枠）</p></td>
-<td><p><small>日曜 22:00 - 23:54</small></p></td>
+<td><p>日曜 22:00 - 23:54</p></td>
 <td><p>映画以外の<a href="../Page/特別番組.md" title="wikilink">特別番組</a>が編成される週もある。 元々邦画デラックスの枠で邦画のみ放送をしてたが、2020年3月29日放送の「座頭市」を最後に邦画は放送されていない。</p>
 <p>終了時間は変動の場合あり。</p></td>
 </tr>
 <tr class="even">
 <td><p>火曜デラックス</p></td>
-<td><p><small>火曜 21:00 - 22:54</small></p></td>
+<td><p>火曜 21:00 - 22:54</p></td>
 <td><p>終了時間は変動の場合あり。</p></td>
 </tr>
 <tr class="odd">
 <td><p>土曜デラックス</p></td>
-<td><p><small>土曜 21:00 - 22:54</small></p></td>
+<td><p>土曜 21:00 - 22:54</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -438,7 +449,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/裸のアスリート" title="wikilink">裸のアスリート</a>II</p></td>
-<td><p>第3・4土曜 11:00 - 11:30</p></td>
+<td><p>第3・4・5土曜 11:00 - 11:30</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -506,7 +517,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/SONG_TO_SOUL〜永遠の一曲〜" title="wikilink">SONG TO SOUL〜永遠の一曲〜</a></p></td>
 <td><p>火曜 23:00 or 23:30 - 23:54</p></td>
-<td><p>23:30開始時はSONG TO SOUL Remixと題して再放送編集版を放送する場合がある。<br />
+<td><p>SONG TO SOUL Remixと題して再放送編集版を放送する場合がある。<br />
 また、映画放送後のクッション枠で数分放送される場合もある。</p></td>
 </tr>
 <tr class="even">
@@ -529,27 +540,118 @@
 
 ### エンタメ
 
-| 番組名                                                                                     | 放送日時                | 備考                                                                                                         |
-| --------------------------------------------------------------------------------------- | ------------------- | ---------------------------------------------------------------------------------------------------------- |
-| [千客万来！中尾家deごはん](https://ja.wikipedia.org/wiki/千客万来！中尾家deごはん "wikilink")                 | 日曜 12:00 - 12:30    | 2020年4月5日スタート                                                                                              |
-| [ねこ自慢](https://ja.wikipedia.org/wiki/ねこ自慢 "wikilink")                                   | 日曜 13:30 - 14:00    | 2019年4月7日スタート 2020年3月29日までは日曜 11:00 - 11:30で放送していた。                                                        |
-| [魔法のワンプレート](https://ja.wikipedia.org/wiki/魔法のワンプレート "wikilink")                         | 月曜 15:55 - 16:00    | [エスビー食品](../Page/エスビー食品.md "wikilink")[一社提供](../Page/一社提供.md "wikilink")[ミニ番組](../Page/ミニ番組.md "wikilink") |
-| [神泡探訪記～最高の一杯を求めて～](https://ja.wikipedia.org/wiki/神泡探訪記～最高の一杯を求めて～ "wikilink")           | 月曜 20:54 - 21:00    | 2019年4月1日スタート                                                                                              |
-| [吉田類の酒場放浪記](https://ja.wikipedia.org/wiki/吉田類の酒場放浪記 "wikilink")                         | 月曜 21:00 - 22:00    |                                                                                                            |
-| [町中華で飲ろうぜ](../Page/町中華で飲ろうぜ.md "wikilink")                                              | 月曜 23:00 - 24:00    | 2019年4月1日スタート                                                                                              |
-| [TIME is LIFE〜トキメキの時〜](https://ja.wikipedia.org/wiki/TIME_is_LIFE〜トキメキの時〜 "wikilink")   | 火曜 21:54 - 22:00    |                                                                                                            |
-| [スイモクチャンネル](https://ja.wikipedia.org/wiki/スイモクチャンネル "wikilink")                         | 水・木曜 23:00 - 23:54  | 2020年4月1日スタート。 2020年4月8日から2020年5月7日までは新型コロナウイルスの感染拡大防止の為放送中止していた。                                          |
-| [釣り百景](https://ja.wikipedia.org/wiki/釣り百景 "wikilink")                                   | 木曜 22:00 - 22:54    |                                                                                                            |
-| [素晴らしい明日](https://ja.wikipedia.org/wiki/素晴らしい明日 "wikilink")                             | 金曜 20:54 - 21:00    | 2018年10月5日スタート                                                                                             |
-| [おんな酒場放浪記](https://ja.wikipedia.org/wiki/おんな酒場放浪記 "wikilink")                           | 金曜 23:00 - 24:00    | 『吉田類の酒場放浪記』の姉妹番組にあたる                                                                                       |
-| [BS-TBSエンタメ情報市場\!](https://ja.wikipedia.org/wiki/BS-TBSエンタメ情報市場! "wikilink")            | 金曜 27:00 - 27:30    | 2019年4月5日スタート                                                                                              |
-| [最旬トレンドサーチ](https://ja.wikipedia.org/wiki/最旬トレンドサーチ "wikilink")                         | 土曜 11:30 - 11:54    | 2019年4月6日スタート                                                                                              |
-| [かわいいアニマル大集合\!どうぶつのじかん](https://ja.wikipedia.org/wiki/かわいいアニマル大集合!どうぶつのじかん "wikilink")  | 月1回土曜 午後（時間不定）      | 2020年3月27日までは木・金曜 18:00 - 18:24で放送していた。                                                                    |
-| \[\[バナナマンのせっかくグルメ                                                                       | |バナナマンのせっかくグルメ      | 傑作選\]\]                                                                                                    |
-| [〜癒・笑・涙・夢〜夕焼け酒場](https://ja.wikipedia.org/wiki/夕焼け酒場 "wikilink")                        | 土曜 18:00 - 18:30    |                                                                                                            |
-| [ドリップスタイル 〜コーヒーがくれた時間〜](https://ja.wikipedia.org/wiki/ドリップスタイル_〜コーヒーがくれた時間〜 "wikilink") | 土曜 20:54 - 21:00    | 2018年10月13日スタート                                                                                            |
-| [落語研究会](../Page/落語研究会_\(落語会\).md "wikilink")                                            | 月1回土曜 27:00 - 29:00 | TBSチャンネルでも放送                                                                                               |
-| [高島礼子が家宝捜索！蔵の中には何がある？](https://ja.wikipedia.org/wiki/高島礼子が家宝捜索！蔵の中には何がある？ "wikilink")   | 不定期                 | 2020年3月26日までは木曜 21:00 - 21:54でレギュラー放送していた。                                                                 |
+<table>
+<thead>
+<tr class="header">
+<th><p>番組名</p></th>
+<th><p>放送日時</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/千客万来！中尾家deごはん" title="wikilink">千客万来！中尾家deごはん</a></p></td>
+<td><p>日曜 12:00 - 12:30</p></td>
+<td><p>2020年4月5日スタート</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ねこ自慢" title="wikilink">ねこ自慢</a></p></td>
+<td><p>日曜 13:30 - 14:00</p></td>
+<td><p>2019年4月7日スタート 2020年3月29日までは日曜 11:00 - 11:30で放送していた。</p>
+<p>2020年10月より、水曜 10:00 - 10:54へ放送時間変更予定。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/魔法のワンプレート" title="wikilink">魔法のワンプレート</a></p></td>
+<td><p>月曜 15:55 - 16:00</p></td>
+<td><p><a href="../Page/エスビー食品.md" title="wikilink">エスビー食品</a><a href="../Page/一社提供.md" title="wikilink">一社提供</a><a href="../Page/ミニ番組.md" title="wikilink">ミニ番組</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/神泡探訪記～最高の一杯を求めて～" title="wikilink">神泡探訪記～最高の一杯を求めて～</a></p></td>
+<td><p>月曜 20:54 - 21:00</p></td>
+<td><p>2019年4月1日スタート</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/吉田類の酒場放浪記" title="wikilink">吉田類の酒場放浪記</a></p></td>
+<td><p>月曜 21:00 - 22:00</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/町中華で飲ろうぜ.md" title="wikilink">町中華で飲ろうぜ</a></p></td>
+<td><p>月曜 23:00 - 24:00</p></td>
+<td><p>2019年4月1日スタート</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/TIME_is_LIFE〜トキメキの時〜" title="wikilink">TIME is LIFE〜トキメキの時〜</a></p></td>
+<td><p>火曜 21:54 - 22:00</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ヒロシのぼっちキャンプ_Season2" title="wikilink">ヒロシのぼっちキャンプ Season2</a></p></td>
+<td><p>火曜 23:00 - 24:00</p></td>
+<td><p>2020年10月6日スタート予定 Season1は2019年3月まで放送されていた<a href="https://ja.wikipedia.org/wiki/バイタルTV" title="wikilink">バイタルTV</a>のラインナップの1つで放送されていた。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/スイモクチャンネル" title="wikilink">スイモクチャンネル</a></p></td>
+<td><p>水・木曜 23:00 - 23:54</p></td>
+<td><p>2020年4月1日スタート 2020年4月8日から2020年5月7日までは新型コロナウイルスの感染拡大防止の為放送中止していた。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/釣り百景" title="wikilink">釣り百景</a></p></td>
+<td><p>木曜 22:00 - 22:54</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/素晴らしい明日" title="wikilink">素晴らしい明日</a></p></td>
+<td><p>金曜 20:54 - 21:00</p></td>
+<td><p>2018年10月5日スタート</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/おんな酒場放浪記" title="wikilink">おんな酒場放浪記</a></p></td>
+<td><p>金曜 23:00 - 24:00</p></td>
+<td><p>『吉田類の酒場放浪記』の姉妹番組にあたる</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/BS-TBSエンタメ情報市場!" title="wikilink">BS-TBSエンタメ情報市場!</a></p></td>
+<td><p>金曜 27:00 - 27:30</p></td>
+<td><p>2019年4月5日スタート</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/最旬トレンドサーチ" title="wikilink">最旬トレンドサーチ</a></p></td>
+<td><p>土曜 11:30 - 11:54</p></td>
+<td><p>2019年4月6日スタート</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/かわいいアニマル大集合!どうぶつのじかん" title="wikilink">かわいいアニマル大集合!どうぶつのじかん</a></p></td>
+<td><p>月1回土曜 午後（時間不定）</p></td>
+<td><p>2020年3月27日までは木・金曜 18:00 - 18:24で放送していた。</p></td>
+</tr>
+<tr class="even">
+<td><p>[[バナナマンのせっかくグルメ</p></td>
+<td><p>|バナナマンのせっかくグルメ</p></td>
+<td><p>傑作選]]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/夕焼け酒場" title="wikilink">〜癒・笑・涙・夢〜夕焼け酒場</a></p></td>
+<td><p>土曜 18:00 - 18:30</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ドリップスタイル_〜コーヒーがくれた時間〜" title="wikilink">ドリップスタイル 〜コーヒーがくれた時間〜</a></p></td>
+<td><p>土曜 20:54 - 21:00</p></td>
+<td><p>2018年10月13日スタート</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/落語研究会_(落語会).md" title="wikilink">落語研究会</a></p></td>
+<td><p>月1回土曜 27:00 - 29:00</p></td>
+<td><p>TBSチャンネルでも放送</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/高島礼子が家宝捜索！蔵の中には何がある？" title="wikilink">高島礼子が家宝捜索！蔵の中には何がある？</a></p></td>
+<td><p>不定期</p></td>
+<td><p>2020年3月26日までは木曜 21:00 - 21:54でレギュラー放送していた。</p></td>
+</tr>
+</tbody>
+</table>
 
 ### アニメ
 

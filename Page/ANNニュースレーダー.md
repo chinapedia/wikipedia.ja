@@ -13,7 +13,7 @@
 
 #### 『（新）ニュースレーダー』立ち上げ当初
 
-[腸捻転](https://ja.wikipedia.org/wiki/腸捻転 "wikilink")解消後の1975年3月31日に全国ネット番組に昇格。これと入れ替えで、ローカルニュースが『[ANN首都圏ニュース](https://ja.wikipedia.org/wiki/ANN首都圏ニュース "wikilink")』（その後、30分枠に拡大し、『[6時のサテライト](https://ja.wikipedia.org/wiki/6時のサテライト "wikilink")』『[ニュースイブニング朝日](https://ja.wikipedia.org/wiki/ニュースイブニング朝日 "wikilink")』『[首都圏レーダー](../Page/首都圏レーダー.md "wikilink")』と系譜）と改題される。従って放送順序は全国ニュース→ローカルニュースで変更はない\[1\]が、番組タイトルを事実上入れ替えた形となった。
+[腸捻転](../Page/腸捻転.md "wikilink")解消後の1975年3月31日に全国ネット番組に昇格。これと入れ替えで、ローカルニュースが『[ANN首都圏ニュース](https://ja.wikipedia.org/wiki/ANN首都圏ニュース "wikilink")』（その後、30分枠に拡大し、『[6時のサテライト](https://ja.wikipedia.org/wiki/6時のサテライト "wikilink")』『[ニュースイブニング朝日](https://ja.wikipedia.org/wiki/ニュースイブニング朝日 "wikilink")』『[首都圏レーダー](../Page/首都圏レーダー.md "wikilink")』と系譜）と改題される。従って放送順序は全国ニュース→ローカルニュースで変更はない\[1\]が、番組タイトルを事実上入れ替えた形となった。
 
 全国ネットへの「昇格」をきっかけに、『（新）ニュースレーダー』では専任のキャスターを登用し、その平日の初代キャスターがNETアナウンサーだった[吉岡晋也](../Page/吉岡晋也.md "wikilink")に固定された。[1976年](../Page/1976年.md "wikilink")度から月-金曜は当時[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")論説委員だった[小松錬平](../Page/小松錬平.md "wikilink")がキャスターに就任し、吉岡は土日に異動した。次第に同時期に放送されていた[TBSの](../Page/TBSテレビ.md "wikilink")『[JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink")』と共に、ジャーナリストがキャスターを務めるニュースショーに育った。
 
@@ -110,7 +110,7 @@
 
 ## オープニング
 
-## 全国ネット局
+## ネット局
 
 ※いずれも全国ネット番組昇格後
 

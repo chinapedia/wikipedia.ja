@@ -1,7 +1,7 @@
 > この記事は[BSD](https://ja.wikipedia.org/wiki/BSD)から翻訳されています。
 
 
-**BSD**（ビーエスディー、**B**erkeley **S**oftware **D**istribution）とは、1977年から1995年まで[カリフォルニア大学バークレー校](../Page/カリフォルニア大学バークレー校.md "wikilink") (University of California, Berkeley, UCB) の [Computer Systems Research Group](../Page/Computer_Systems_Research_Group.md "wikilink") (CSRG) が開発・配布したソフトウェア群、および[UNIX](../Page/UNIX.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS)を言う。なお、今日「BSD」という名称は同OSを元に開発された[BSDの子孫](../Page/BSDの子孫.md "wikilink")の総称として使われることもあるが、この項では主に前述のUCBによるソフトウェア群およびOSについて述べる。
+**BSD**（ビーエスディー、**B**erkeley **S**oftware **D**istribution）は、1977年から1995年まで[カリフォルニア大学バークレー校](../Page/カリフォルニア大学バークレー校.md "wikilink") (University of California, Berkeley, UCB) の [Computer Systems Research Group](../Page/Computer_Systems_Research_Group.md "wikilink") (CSRG) が開発・配布したソフトウェア群、および[UNIX](../Page/UNIX.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS)を言う。なお、今日「BSD」という名称は同OSを元に開発された[BSDの子孫](../Page/BSDの子孫.md "wikilink")の総称として使われることもあるが、この項では主に前述のUCBによるソフトウェア群およびOSについて述べる。
 
 元となったコードベースと設計は[AT\&T](../Page/AT&T.md "wikilink")のUNIXと共通であるため、歴史的にはBSDはUNIXの支流 "BSD UNIX" とみなされてきた。1980年代、[ワークステーション](../Page/ワークステーション.md "wikilink")クラスのシステムベンダーがプロプライエタリなUNIXとしてBSDを広く採用していた。例えば、[DECの](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")[Ultrix](../Page/Ultrix.md "wikilink")、[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")の[SunOS](../Page/SunOS.md "wikilink")などである。これは、ライセンス条件の容易だったためと、当時の多くの技術系企業の創業者がBSDを熟知していたためである。
 
@@ -53,7 +53,7 @@
 
 ### Net/2 と訴訟問題
 
-Net/1リリース後、BSD開発者は、BSDのAT\&Tとは無関係な部分をさらにNet/1と同じライセンスでリリースしようと提案した。そして彼はUnixの標準ユーティリティをAT\&Tのコードを使わずに再実装するプロジェクトを開始。例えば、[vi](https://ja.wikipedia.org/wiki/vi "wikilink")はAT\&T由来の [ed](https://ja.wikipedia.org/wiki/ed "wikilink") をベースにしていたので、全く新たに [nvi](https://ja.wikipedia.org/wiki/nvi "wikilink") (new vi) を書いた。18カ月でAT\&T由来のユーティリティを全て再実装して置換し、カーネルにもAT\&T由来のファイルは数えるほどしかない状態となった。それらのファイルを削除し、1991年6月、自由に再配布可能なほぼ完全なOSである **Networking Release 2 (Net/2)** をリリースした。
+Net/1リリース後、BSD開発者は、BSDのAT\&Tとは無関係な部分をさらにNet/1と同じライセンスでリリースしようと提案した。そして彼はUnixの標準ユーティリティをAT\&Tのコードを使わずに再実装するプロジェクトを開始。例えば、[vi](https://ja.wikipedia.org/wiki/vi "wikilink")はAT\&T由来の[edをベースにしていたので](https://ja.wikipedia.org/wiki/ed_\(テキストエディタ\) "wikilink")、全く新たに[nvi](https://ja.wikipedia.org/wiki/nvi "wikilink") (new vi) を書いた。18カ月でAT\&T由来のユーティリティを全て再実装して置換し、カーネルにもAT\&T由来のファイルは数えるほどしかない状態となった。それらのファイルを削除し、1991年6月、自由に再配布可能なほぼ完全なOSである **Networking Release 2 (Net/2)** をリリースした。
 
 Net/2 は [Intel 80386](../Page/Intel_80386.md "wikilink") アーキテクチャへの2つの独立したBSD移植プロジェクトの基盤となった。1つは[ウィリアム・ジョリッツ](https://ja.wikipedia.org/wiki/ウィリアム・ジョリッツ "wikilink")らによるフリーな[386BSD](../Page/386BSD.md "wikilink")で、もう1つは  (BSDi) の[プロプライエタリな](../Page/プロプライエタリ・ソフトウェア.md "wikilink")[BSD/386](https://ja.wikipedia.org/wiki/BSD/OS "wikilink")（後にBSD/OSに改称）である。386BSD自体は短命に終わったが、間もなくそれをベースとして[NetBSD](../Page/NetBSD.md "wikilink")と[FreeBSD](../Page/FreeBSD.md "wikilink")のプロジェクトが始まった。
 

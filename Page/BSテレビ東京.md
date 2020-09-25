@@ -865,7 +865,7 @@ or 17:29 - 17:58</p></td>
 <td><p>字幕放送実施</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ALWAYS_Baseball" title="wikilink">ALWAYS Baseball</a></p></td>
+<td><p><a href="../Page/ALWAYS_Baseball.md" title="wikilink">ALWAYS Baseball</a></p></td>
 <td><p>ナイター<br />
 17:58 - 20:54（最大24:00まで）</p>
 <hr>
@@ -1320,6 +1320,8 @@ or 17:29 - 17:58</p></td>
       - [恋はチーズ・イン・ザ・トラップ](https://ja.wikipedia.org/wiki/恋はチーズ・イン・ザ・トラップ "wikilink")
       - [馬医](https://ja.wikipedia.org/wiki/馬医 "wikilink")
       - [番人\!～もう一度、キミを守る～](https://ja.wikipedia.org/wiki/番人!～もう一度、キミを守る～ "wikilink")
+      - [帝王の娘 スベクヒャン](../Page/帝王の娘_スベクヒャン.md "wikilink")
+      - [師任堂、色の日記](https://ja.wikipedia.org/wiki/師任堂、色の日記 "wikilink")
   - 華流パラダイス☆
       - [王子様の条件](https://ja.wikipedia.org/wiki/王子様の条件 "wikilink")（字幕版）
       - [ハヤテのごとく\!](../Page/ハヤテのごとく!.md "wikilink")（字幕版）

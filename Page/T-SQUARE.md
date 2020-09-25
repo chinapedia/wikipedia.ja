@@ -69,7 +69,7 @@
 
 2019年2月には河野が[脳出血](../Page/脳出血.md "wikilink")で入院加療とリハビリを余儀なくされたため、ロサンゼルスで行われたアルバムのレコーディングには河野の代役として[フィリップ・セス](../Page/フィリップ・セス.md "wikilink")が参加し\[3\]、同年の3月から4月に開催されるライブには関しては、[白井アキト](https://ja.wikipedia.org/wiki/白井アキト "wikilink")や[佐藤雄大がサポートとしてキーボードを担当する](https://ja.wikipedia.org/wiki/佐藤雄大_\(キーボーディスト\) "wikilink")\[4\]。
 
-河野は2019年末の神戸チキンジョージの公演で復帰し翌年のアルバムにも参加したが、2020年8月27日、正式メンバーから退くことを公式サイトにて発表した。但し、河野は今後も音楽活動を続けていく意向であり、所属事務所も変わらない\[5\]。
+河野は2019年末の神戸チキンジョージの公演で復帰し翌2020年のアルバムにも参加したが、同年8月27日に「自身の体調とリハビリに集中する事を優先する為、T-SQUAREを離れ、自分のペースで音楽活動をしたい。」という本人の意向を受け、企画アルバム『Crème de la Crème』をもって正式メンバーから退くことを公式サイトにて発表した。但し、河野は今後も音楽活動を続けていく意向であり、所属事務所も変わらない\[5\]。
 
 ## メンバーの変遷
 
@@ -241,22 +241,21 @@ GROOVE GLOBE</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2005年 - 2019年</p></td>
+<td><p>2005年 - 2020年</p></td>
 <td><p>PASSION FLOWER<br />
 ↓<br />
-HORIZON</p></td>
+Crème de la Crème</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/坂東慧" title="wikilink">坂東慧</a>{{#tag:ref|坂東のスケジュールの都合で、2019年の韓国公演は<a href="https://ja.wikipedia.org/wiki/山本真央樹" title="wikilink">山本真央樹</a>が、2020年2月28日-3月1日に開催されたジャカルタ国際BNIジャワ・ジャズ・フェスティバルに出演した際は<a href="https://ja.wikipedia.org/wiki/川口千里_(ドラマー)" title="wikilink">川口千里が</a>、それぞれサポートで参加した。|group="注釈"}}</p></td>
-<td><p>河野啓三{{#tag:ref|2019年は河野が<a href="../Page/脳出血.md" title="wikilink">脳出血</a>での入院加療とリハビリによる休養のため、アルバム『HORIZON』のレコーディングは<a href="../Page/フィリップ・セス.md" title="wikilink">フィリップ・セス</a>が代役、ツアーは<a href="https://ja.wikipedia.org/wiki/白井アキト" title="wikilink">白井アキト</a>と<a href="https://ja.wikipedia.org/wiki/佐藤雄大_(キーボーディスト)" title="wikilink">佐藤雄大がサポートとして参加</a>。|group="注釈"}}</p></td>
-<td><p>（<a href="https://ja.wikipedia.org/wiki/田中晋吾" title="wikilink">田中晋吾</a> {{#tag:ref|2008年にデビュー30周年を記念して新旧メンバーで結成された「T-SQUARE SUPER BAND」には不参加。|group="注釈"}}）</p></td>
+<td><p>河野啓三{{#tag:ref|2019年は河野が<a href="../Page/脳出血.md" title="wikilink">脳出血</a>での入院加療とリハビリによる休養を余儀なくされたため、アルバム『HORIZON』のレコーディングは<a href="../Page/フィリップ・セス.md" title="wikilink">フィリップ・セス</a>が代役、ツアーは<a href="https://ja.wikipedia.org/wiki/白井アキト" title="wikilink">白井アキト</a>と<a href="https://ja.wikipedia.org/wiki/佐藤雄大_(キーボーディスト)" title="wikilink">佐藤雄大がサポートとして参加</a>。11月にはフィリップが来日して「T-SQUARE featuring Philippe Saisse」としてツアーを行った。河野は後に同年末の神戸チキンジョージ公演で復帰したが、2020年はリハビリ中のためアルバムと7月23日に開催された無観客生配信コンサートにのみサポートの白井と2人体制で参加した。|group="注釈"}}</p></td>
+<td><p>（<a href="https://ja.wikipedia.org/wiki/田中晋吾" title="wikilink">田中晋吾</a>{{#tag:ref|2008年にデビュー30周年を記念して新旧メンバーで結成された「T-SQUARE SUPER BAND」には不参加。|group="注釈"}}）</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2020年</p></td>
-<td><p>AI Factory</p></td>
-<td><p>河野啓三{{#tag:ref|2019年末の神戸チキンジョージ公演で復帰したが、リハビリ中のため2020年のアルバム『AI Factory』と7月23日に開催された無観客生配信コンサートにのみサポートの白井と2人体制で参加した。|group="注釈"}}<br />
-（<a href="https://ja.wikipedia.org/wiki/白井アキト" title="wikilink">白井アキト</a>）</p></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -424,11 +423,11 @@ HORIZON</p></td>
 
 ### コラボレーションアルバム
 
-| タイトル                   | 発売年月日      | 品番        | 備考                                                                                                                    |
-| :--------------------- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------------- |
-| *COLOR PALETTE*        | 1987.06.21 | 32DH-690  | THE SQUARE AND FRIENDS名義                                                                                              |
-| *F-1 GRAND PRIX WORLD* | 1992.02.21 | VRCL-2033 | F1イメージアルバム リマスター盤が2001年に発売。未表記だがT-SQUARE and FRIENDS名義的アルバム。「TRUTH \[with '91 Suzuka Grand Prix F-1 Sound ver.\]」を収録。 |
-| *SOLITUDE*             | 1994.10.01 | VRCL-2040 | [アイルトン・セナ](../Page/アイルトン・セナ.md "wikilink")追悼アルバム・T-SQUARE and FRIENDS名義 リマスター盤が2001年に発売。                              |
+| タイトル                                                            | 発売年月日      | 品番        | 備考                                                                                                                    |
+| :-------------------------------------------------------------- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------------- |
+| *COLOR PALETTE*                                                 | 1987.06.21 | 32DH-690  | THE SQUARE AND FRIENDS名義                                                                                              |
+| *F-1 GRAND PRIX WORLD*                                          | 1992.02.21 | VRCL-2033 | F1イメージアルバム リマスター盤が2001年に発売。未表記だがT-SQUARE and FRIENDS名義的アルバム。「TRUTH \[with '91 Suzuka Grand Prix F-1 Sound ver.\]」を収録。 |
+| *[SOLITUDE](https://ja.wikipedia.org/wiki/SOLITUDE "wikilink")* | 1994.10.01 | VRCL-2040 | [アイルトン・セナ](../Page/アイルトン・セナ.md "wikilink")追悼アルバム・T-SQUARE and FRIENDS名義 リマスター盤が2001年に発売。                              |
 
 ### シングル
 
@@ -468,21 +467,21 @@ HORIZON</p></td>
 
 #### リアレンジ／セルフカバーアルバム
 
-| タイトル                                         | 発売年月日      | 品番                 | 備考                                                                                                          |
-| :------------------------------------------- | ---------- | ------------------ | ----------------------------------------------------------------------------------------------------------- |
-| *NATURAL　〜U.S. Version〜*                     | 1990.08.21 | VRCL-2027          | 全米リリース用に異なるミックスが施された「NATURAL」のスペシャルアルバム。リマスター盤が2007年に発売。                                                    |
-| *Refreshest*                                 | 1991.12.01 | VRCL-2032          | リアレンジアルバム・T-SQUARE and FRIENDS名義 リマスター盤が2001年に発売。                                                           |
-| *CLASSICS*                                   | 1992.11.01 | VRCL-2035          | オーケストラアレンジアルバム・Royal Philharmonic Orchestra Plays T-SQUARE名義。 リマスター盤が2006年に発売。                              |
-| *HARMONY*                                    | 1993.08.21 | VRCL-2038          | オーケストラアレンジアルバム・T-SQUARE & ROYAL PHILHARMONIC ORCHESTRA名義。リマスター盤が2006年に発売。                                   |
-| *TAKARAJIMA*                                 | 1995.02.01 | VRCL-2041          | オーケストラアレンジアルバム・T-SQUARE with MUNCHEN SYMPHONY ORCHESTRA and CITY OF LONDON WIND ENSEMBLE名義。リマスター盤が2007年に発売。 |
-| *Miss You In New York*                       | 1995.09.21 | VRCL-2043          | リアレンジアルバム・T-SQUARE and FRIENDS名義 リマスター盤が2007年に発売。                                                           |
-| *TRUTH 21century*                            | 2001.09.19 | VRCL-3338          | リアレンジアルバム・T-SQUARE plus名義                                                                                   |
-| *Vocal2*                                     | 2002.08.21 | VRCL-3340          | ボーカルアレンジアルバム・T-SQUARE and FRIENDS名義                                                                         |
-| *T comes back*                               | 2003.09.18 | VRCL-10001         | リアレンジアルバム・T-SQUARE and FRIENDS名義                                                                            |
-| *宝曲 〜T-SQUARE plays THE SQUARE〜*             | 2010.10.27 | VRCL-10102         | セルフカバーアルバム                                                                                                  |
-| *夢曲 〜T-SQUARE plays THE SQUARE〜*             | 2011.10.26 | VRCL-10104         | セルフカバーアルバム                                                                                                  |
-| *虹曲 〜T-SQUARE plays T & THE SQUARE SPECIAL〜* | 2012.11.14 | VRCL-10108         | セルフカバーアルバム                                                                                                  |
-| *History*                                    | 2013.12.04 | VRCL-10112 - 10113 | リアレンジアルバム・T-SQUARE plus名義                                                                                   |
+| タイトル                                                                                    | 発売年月日      | 品番                 | 備考                                                                                                          |
+| :-------------------------------------------------------------------------------------- | ---------- | ------------------ | ----------------------------------------------------------------------------------------------------------- |
+| *NATURAL　〜U.S. Version〜*                                                                | 1990.08.21 | VRCL-2027          | 全米リリース用に異なるミックスが施された「NATURAL」のスペシャルアルバム。リマスター盤が2007年に発売。                                                    |
+| *[Refreshest](https://ja.wikipedia.org/wiki/Refreshest "wikilink")*                     | 1991.12.01 | VRCL-2032          | リアレンジアルバム・T-SQUARE and FRIENDS名義 リマスター盤が2001年に発売。                                                           |
+| *CLASSICS*                                                                              | 1992.11.01 | VRCL-2035          | オーケストラアレンジアルバム・Royal Philharmonic Orchestra Plays T-SQUARE名義。 リマスター盤が2006年に発売。                              |
+| *HARMONY*                                                                               | 1993.08.21 | VRCL-2038          | オーケストラアレンジアルバム・T-SQUARE & ROYAL PHILHARMONIC ORCHESTRA名義。リマスター盤が2006年に発売。                                   |
+| *TAKARAJIMA*                                                                            | 1995.02.01 | VRCL-2041          | オーケストラアレンジアルバム・T-SQUARE with MUNCHEN SYMPHONY ORCHESTRA and CITY OF LONDON WIND ENSEMBLE名義。リマスター盤が2007年に発売。 |
+| *[Miss You In New York](https://ja.wikipedia.org/wiki/Miss_You_In_New_York "wikilink")* | 1995.09.21 | VRCL-2043          | リアレンジアルバム・T-SQUARE and FRIENDS名義 リマスター盤が2007年に発売。                                                           |
+| *TRUTH 21century*                                                                       | 2001.09.19 | VRCL-3338          | リアレンジアルバム・T-SQUARE plus名義                                                                                   |
+| *Vocal2*                                                                                | 2002.08.21 | VRCL-3340          | ボーカルアレンジアルバム・T-SQUARE and FRIENDS名義                                                                         |
+| *[T comes back](https://ja.wikipedia.org/wiki/T_comes_back "wikilink")*                 | 2003.09.18 | VRCL-10001         | リアレンジアルバム・T-SQUARE and FRIENDS名義                                                                            |
+| *宝曲 〜T-SQUARE plays THE SQUARE〜*                                                        | 2010.10.27 | VRCL-10102         | セルフカバーアルバム                                                                                                  |
+| *夢曲 〜T-SQUARE plays THE SQUARE〜*                                                        | 2011.10.26 | VRCL-10104         | セルフカバーアルバム                                                                                                  |
+| *虹曲 〜T-SQUARE plays T & THE SQUARE SPECIAL〜*                                            | 2012.11.14 | VRCL-10108         | セルフカバーアルバム                                                                                                  |
+| *History*                                                                               | 2013.12.04 | VRCL-10112 - 10113 | リアレンジアルバム・T-SQUARE plus名義                                                                                   |
 
 #### ベストアルバム
 
@@ -687,5 +686,5 @@ OLXL-70011[Blu-ray]</p></td>
 2.  中村は現在[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")に在住しており、このライブのために一時帰国した。
 3.
 4.
-5.  \>
+5.
 6.

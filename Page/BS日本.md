@@ -287,7 +287,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/野球.md" title="wikilink">野球</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DRAMATIC_BASEBALL" title="wikilink">DRAMATIC BASEBALL</a></p></td>
+<td><p><a href="../Page/DRAMATIC_BASEBALL.md" title="wikilink">DRAMATIC BASEBALL</a></p></td>
 <td><p>18:00 - 20:54<br />
 （ナイトゲーム）</p>
 <hr/>
@@ -305,7 +305,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/月刊プロ野球!さまぁ〜ずスタジアム" title="wikilink">月刊プロ野球!さまぁ〜ずスタジアム</a></p></td>
 <td><p>月1回金曜 23:00 - 23:55</p></td>
-<td><p>2018年4月6日スタート</p></td>
+<td><p>2018年4月6日スタート 2020年10月から第2土曜 22:00 - 22:54へ放送枠変更予定。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -318,8 +318,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/新春スポーツスペシャル箱根駅伝" title="wikilink">箱根駅伝</a></p></td>
 <td><p>毎年<a href="../Page/1月2日.md" title="wikilink">1月2日</a>・<a href="../Page/1月3日.md" title="wikilink">3日</a><br />
 21:00 - 22:54</p></td>
-<td><p>2時間のダイジェスト放送（2012年までは3時間）。<br />
-</p></td>
+<td><p>2時間のダイジェスト放送（2012年までは3時間）。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -534,7 +533,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/オスマン帝国外伝〜愛と欲望のハレム〜" title="wikilink">オスマン帝国外伝〜愛と欲望のハレム〜</a> シーズン3</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Mother_(テレビドラマ)#トルコのテレビドラマ" title="wikilink">トルコ版「マザー」</a></p></td>
 <td><p>月曜 - 金曜 14:30 - 15:30</p></td>
 <td><p>海外ドラマの帯放送枠</p></td>
 <td></td>
@@ -566,163 +565,10 @@
 
   - 現在放送中の番組
 
-<table>
-<thead>
-<tr class="header">
-<th><p>番組名</p></th>
-<th><p>放送日時</p></th>
-<th><p>備考</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/それいけ!アンパンマン#それいけ!アンパンマンくらぶ" title="wikilink">それいけ! アンパンマンくらぶ</a></p></td>
-<td><p>月曜 - 金曜 8:00 - 9:00</p></td>
-<td><p>開局時から放送中</p></td>
-</tr>
-<tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アニメにむちゅ〜" title="wikilink">アニメにむちゅ〜</a></strong></p></td>
-<td><p>下記、または当該項目を参照</p></td>
-<td><p>2019年10月より開始</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>ぽっこりーず</p></td>
-<td><p>月曜 23:29 - 23:30</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/はてな☆イリュージョン" title="wikilink">はてな☆イリュージョン</a></p></td>
-<td><p>月曜 23:30 - 24:00</p></td>
-<td><p>再放送</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/デート・ア・ライブ" title="wikilink">デート・ア・ライブ</a></p></td>
-<td><p>月曜 24:00 - 24:30</p></td>
-<td><p>再放送</p></td>
-</tr>
-<tr class="odd">
-<td><p>[[デュラララ</p></td>
-<td><p>|デュラララ</p></td>
-<td><p>]]</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/One_Room_セカンドシーズン" title="wikilink">One Room セカンドシーズン</a></p></td>
-<td><p>月曜・火曜 25:00 - 25:06</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョジョの奇妙な冒険_スターダストクルセイダース" title="wikilink">ジョジョの奇妙な冒険 スターダストクルセイダース</a></p></td>
-<td><p>月曜 25:06 - 25:33、25:33 - 26:00</p></td>
-<td><p>2話連続放送</p></td>
-</tr>
-<tr class="even">
-<td><p>まるまるマヌル</p></td>
-<td><p>火曜 23:29 - 23:30</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>DEEMO THE MOVIE歌姫オーディション</p></td>
-<td><p>火曜 23:30 - 24:00</p></td>
-<td><p>非アニメ番組 再放送</p></td>
-</tr>
-<tr class="even">
-<td><p>あの子は漫画を読まない</p></td>
-<td><p>火曜 24:00 - 24:30</p></td>
-<td><p>非アニメ番組 2020年1月18日スタート 以前は不定期で放送していた。</p>
-<p>2020年3月28日までは土曜 23:30 - 24:00で放送していた。</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/しゅみじん。〜世界コスプレ計画〜" title="wikilink">しゅみじん。</a></p></td>
-<td><p>第4火曜 24:00 - 24:30</p></td>
-<td><p>非アニメ番組</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/戦乙女の食卓" title="wikilink">戦乙女の食卓</a></p></td>
-<td><p>火曜 24:28 - 24:34</p></td>
-<td><p>最速放送かつ独占放送</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョジョの奇妙な冒険_(テレビアニメ)" title="wikilink">ジョジョの奇妙な冒険</a></p></td>
-<td><p>火曜 25:06 - 25:33、25:33 - 26:00</p></td>
-<td><p>再放送 2話連続放送</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/アサシンズプライド" title="wikilink">アサシンズプライド</a></p></td>
-<td><p>水曜 23:30 - 24:00</p></td>
-<td><p>再放送</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/恋とプロデューサー〜EVOL×LOVE〜.md" title="wikilink">恋とプロデューサー～EVOL×LOVE～</a></p></td>
-<td><p>水曜 24:00 - 24:30</p></td>
-<td><p>最速放送</p></td>
-</tr>
-<tr class="even">
-<td><p>2.5次元ダンスライブ「SQ」ステージ BLAZING &amp; FREEZING</p></td>
-<td><p>水曜 24:30 - 25:00</p></td>
-<td><p>非アニメ番組</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/number24" title="wikilink">number24</a></p></td>
-<td><p>水曜 25:00 - 25:30</p></td>
-<td><p>再放送</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ちはやふる" title="wikilink">ちはやふる</a>３</p></td>
-<td><p>水曜 25:30 - 26:00</p></td>
-<td><p>再放送</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/RELEASE_THE_SPYCE" title="wikilink">RELEASE THE SPYCE</a></p></td>
-<td><p>木曜 23:30 - 24:00</p></td>
-<td><p>再放送</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/BanG_Dream!_3rd_Season" title="wikilink">BanG Dream! 3rd Season</a></p></td>
-<td><p>木曜 24:00 - 24:30</p></td>
-<td><p>再放送</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/牙狼-GARO-_〜MAKAISENKI〜" title="wikilink">牙狼〈GARO〉～MAKAISENKI～</a></p></td>
-<td><p>木曜 24:30 - 25:00</p></td>
-<td><p>非アニメ番組 再放送</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ダンガンロンパ_The_Animation" title="wikilink">ダンガンロンパ The Animation</a></p></td>
-<td><p>木曜 25:30 - 26:00</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/D4DJ#TV" title="wikilink">D4DJ TV</a></p></td>
-<td><p>土曜 24:00 - 24:30</p></td>
-<td><p>非アニメ番組</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Thunderbolt_Fantasy_東離劍遊紀" title="wikilink">Thunderbolt Fantasy 東離劍遊紀2</a></p></td>
-<td><p>土曜 24:30 - 25:00</p></td>
-<td><p>非アニメ番組</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/かくしごと" title="wikilink">かくしごと</a></p></td>
-<td><p>日曜 23:00 - 23:30</p></td>
-<td><p>再放送</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/91Days" title="wikilink">91Days</a></p></td>
-<td><p>日曜 23:30 - 24:00</p></td>
-<td><p>再放送</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン" title="wikilink">新世紀エヴァンゲリオン</a></p></td>
-<td><p>日曜 24:00 - 24:30</p></td>
-<td><p>再放送</p></td>
-</tr>
-</tbody>
-</table>
+| 番組名                                                                                     | 放送日時                | 備考           |
+| --------------------------------------------------------------------------------------- | ------------------- | ------------ |
+| [それいけ\! アンパンマンくらぶ](https://ja.wikipedia.org/wiki/それいけ!アンパンマン#それいけ!アンパンマンくらぶ "wikilink") | 月曜 - 金曜 8:00 - 9:00 | 開局時から放送中     |
+| **[アニメにむちゅ〜](https://ja.wikipedia.org/wiki/アニメにむちゅ〜 "wikilink")**                       | 当該項目を参照             | 2019年10月より開始 |
 
 ### エンターテインメント・情報
 
@@ -738,7 +584,7 @@
 <tr class="odd">
 <td><p>友近・礼二の妄想トレイン</p></td>
 <td><p>月曜 21:00 - 22:00</p></td>
-<td><p>2020年6月8日スタート 当初は2020年4月13日スタート予定だったが、<a href="../Page/2019新型コロナウイルス.md" title="wikilink">新型コロナウイルスの感染拡大防止の為延期となった</a>。</p></td>
+<td><p>2020年6月8日スタート[10]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/笑点_なつかし版" title="wikilink">笑点 なつかし版</a></p></td>
@@ -757,92 +603,98 @@
 <p>2020年3月30日までは月曜 21:00 - 22:00で放送していた。</p></td>
 </tr>
 <tr class="odd">
+<td><p>あの子は漫画を読まない</p></td>
+<td><p>火曜 24:00 - 24:30</p></td>
+<td><p>アニメにむちゅー枠 2020年1月18日スタート[11]</p>
+<p>2020年3月28日までは土曜 23:30 - 24:00で放送していた。</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/音のソノリティ.md" title="wikilink">音のソノリティ</a></p></td>
 <td><p>水曜 20:54 - 21:00</p></td>
 <td><p>日本テレビ製作 地上波より3日遅れ</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/極上!三ツ星キャンプ" title="wikilink">極上!三ツ星キャンプ</a></p></td>
 <td><p>水曜 21:00 - 22:00</p></td>
 <td><p>2018年10月3日スタート</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/笑点_特大号" title="wikilink">笑点 特大号</a></p></td>
 <td><p>木曜 19:00 - 19:54</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>照英・秋丸美帆の最強!釣りバカ対決</p></td>
 <td></td>
 <td><p>木曜 21:00 - 22:00</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/虹のかけ橋" title="wikilink">虹のかけ橋</a></p></td>
 <td><p>木曜 23:00 - 23:30</p></td>
-<td><p>2020年7月16日スタート予定</p></td>
-</tr>
-<tr class="even">
-<td><p>全国一斉生クイズバトル　Q-フェス！</p></td>
-<td><p>第3金曜 23:00 - 24:00</p></td>
-<td><p>2020年5月29日スタート 当初は2020年4月17日スタート予定だったが、<a href="../Page/2019新型コロナウイルス.md" title="wikilink">新型コロナウイルスの感染拡大防止の為延期となった</a>。</p></td>
+<td><p>2020年7月16日スタート</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/全国一斉生クイズバトル_Q-フェス!" title="wikilink">全国一斉生クイズバトル Q-フェス!</a></p></td>
+<td><p>第3金曜 23:00 - 24:00</p></td>
+<td><p>2020年5月29日スタート[12] 2020年10月から第3土曜 22:00 - 22:54へ放送枠変更予定。</p></td>
+</tr>
+<tr class="even">
 <td><p>てぇてぇTV</p></td>
 <td><p>金曜 23:30 - 24:00</p></td>
 <td><p>2019年10月18日スタート<br />
 2019年4月26日から9月27日までは、「月いちのてぇてぇTV」として最終金曜23:00 - 23:55に放送。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/めざせ!プログラミングスター_〜プロスタ★キッズ大集合〜" title="wikilink">今こそ知りたい！めざせ！プログラミングスター</a></p></td>
 <td><p>土曜 10:30 - 11:00</p></td>
 <td><p>2019年4月6日スタート</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>とびだせ!ぐーちょきぱーてぃー</p></td>
 <td><p>土曜 10:15 - 10:30</p></td>
 <td><p>2020年3月28日までは土曜 11:00 - 11:15で放送していた。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/チルテレ" title="wikilink">チルテレ</a></p></td>
 <td><p>土曜 17:00 - 17:30</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/おぎやはぎの愛車遍歴_NO_CAR,_NO_LIFE!" title="wikilink">おぎやはぎの愛車遍歴 NO CAR, NO LIFE!</a></p></td>
 <td><p>土曜 21:00 - 21:54</p></td>
 <td><p>制作協力 - 東阪企画</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/バカリズムの大人のたしなみズム" title="wikilink">バカリズムの大人のたしなみズム</a></p></td>
 <td><p>土曜 22:00 - 22:54</p></td>
-<td></td>
+<td><p>2020年10月から木曜 21:00 - 22:00へ放送枠変更予定。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/コーポレートファイル" title="wikilink">コーポレートファイル</a></p></td>
 <td><p>土曜 22:54 - 23:00</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ももクロと行く!" title="wikilink">ももクロと行く!</a></p></td>
 <td><p>土曜 23:30 - 24:00</p></td>
 <td><p>2019年10月4日スタート 2020年3月27日までは金曜 23:30 - 24:00で放送していた。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/旬感レシピ_〜最高の贈りもの〜" title="wikilink">旬感レシピ 〜最高の贈りもの〜</a></p></td>
 <td><p>日曜 18:00 - 18:30</p></td>
 <td><p>2019年1月20日スタート</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>汐留TV!-こちら、汐テレ★さきどり女子部-</p></td>
 <td><p>日曜 22:54 - 23:00</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>笑イザップ</p></td>
 <td><p>不定期</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>中国語で満喫!日本HOLIDAY</p></td>
 <td><p>不定期</p></td>
 <td></td>
@@ -925,7 +777,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/イマウタ_-Right_On!_Music-" title="wikilink">イマウタ -Right On! Music-</a></p></td>
 <td><p>月曜 23:00 - 23:29</p></td>
 <td><p>2019年10月7日より毎週放送に変更。<br />
-2019年4月19日 - 9月6日[10]は、第3金曜 23:00 - 23:55に放送された。</p></td>
+2019年4月19日 - 9月6日[13]は、第3金曜 23:00 - 23:55に放送された。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/新・3人の歌仲間" title="wikilink">新・3人の歌仲間 with DAM CHANNEL 演歌</a></p></td>
@@ -1280,7 +1132,7 @@
   - [ニュース朝いち430](../Page/ニュース朝いち430.md "wikilink")
   - [Oha\!4 NEWS LIVE](../Page/Oha!4_NEWS_LIVE.md "wikilink")・第1部 ※
   - タイムライン
-  - [NNNストレイトニュース](../Page/NNNストレイトニュース.md "wikilink")（平日版のみ）※\[11\]
+  - [NNNストレイトニュース](../Page/NNNストレイトニュース.md "wikilink")（平日版のみ）※\[14\]
   - [よい国のニュース](https://ja.wikipedia.org/wiki/よい国のニュース "wikilink")
 
 </div>
@@ -1291,14 +1143,14 @@
 
   - ロゴマークには、他の日本テレビグループと同様に「[なんだろう](../Page/なんだろう.md "wikilink")」が使われた。[2003年](../Page/2003年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")には日本テレビグループの企業ロゴの配色が変更されたが、BS日テレでは[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで旧来のロゴがそのまま使用されていた。
   - [2019年](../Page/2019年.md "wikilink")に、独自のマスコットキャラクター「バブちゅ～」を使用開始。地球に降り立った[宇宙人](../Page/宇宙人.md "wikilink")という設定で、[たこさんウィンナー](../Page/たこさんウィンナー.md "wikilink")をモチーフとしている。PR動画や「[アニメにむちゅ〜](https://ja.wikipedia.org/wiki/アニメにむちゅ〜 "wikilink")」のジングル等での音声は[秋本帆華](https://ja.wikipedia.org/wiki/秋本帆華 "wikilink")が担当している。
-  - 民放系のBSデジタル局の中でも[字幕放送対応番組は少ない](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")（[2017年](../Page/2017年.md "wikilink")10月現在は2番組のみ）。かつては平日昼の[ニュース番組](../Page/報道番組.md "wikilink")（[NNNストレイトニュース](../Page/NNNストレイトニュース.md "wikilink")\[12\]）や[紀行番組](../Page/紀行番組.md "wikilink")（番組名失念）で実施していた。[2011年](../Page/2011年.md "wikilink")9月に昼のニュース番組が打ち切られた後はしばらく字幕放送対応番組は無かったが、[2015年](../Page/2015年.md "wikilink")4月より対応番組が復活した。
+  - 民放系のBSデジタル局の中でも[字幕放送対応番組は少ない](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")（[2017年](../Page/2017年.md "wikilink")10月現在は2番組のみ）。かつては平日昼の[ニュース番組](../Page/報道番組.md "wikilink")（[NNNストレイトニュース](../Page/NNNストレイトニュース.md "wikilink")\[15\]）や[紀行番組](../Page/紀行番組.md "wikilink")（番組名失念）で実施していた。[2011年](../Page/2011年.md "wikilink")9月に昼のニュース番組が打ち切られた後はしばらく字幕放送対応番組は無かったが、[2015年](../Page/2015年.md "wikilink")4月より対応番組が復活した。
   - 放送業務の大半を日本テレビに委託しており、問い合わせ先もBS日テレ本体でなく、地上波・CS放送（[日テレジータス](../Page/日テレジータス.md "wikilink")、[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")）と一括で、日本テレビ視聴者センター（汐留本社）で受け付けている。例として、新聞の番組表に掲載されている問い合わせ先にも、日本テレビ視聴者センターの電話番号が記載されている。また、地上波局・BS局の共同制作番組における製作著作のクレジット表記も他局のBSデジタル局にある地上波局とBS局の併記はせず、BSオリジナル番組の場合でも「製作著作『（ロゴ）BS日テレ』」または「製作著作『日テレ（ロゴ）』」（2013年は日本テレビ開局60周年キャンペーンロゴである『0テレ Go\! Next 60』）のどちらかで表記される。
   - [緊急地震速報](../Page/緊急地震速報.md "wikilink")やNNNニュース速報などの速報テロップは、日本テレビや[系列各局と同じフォーマットである](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")。開局当初よりチャイム音は独自のもので「キンコーン」と鳴っていたが、2014年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")より日本テレビと同じチャイム音に変更された。
   - [提供クレジット](../Page/提供クレジット.md "wikilink")の表示は、開局当初は「カットイン・カットアウト」方式で行っていた。その後、2011年[11月](../Page/11月.md "wikilink")頃から民放系のBSデジタル局では唯一「フェードイン・カットアウト」方式に変更されたが、[2012年](../Page/2012年.md "wikilink")3月頃に「フェードイン・フェードアウト」方式に再変更された。ただし、書体などのレイアウトは開局以来変更はないが、一社・複数社を問わず、ほとんどの番組で薄い白地の絨毯をバックにカラー表示している。
   - 番組スポンサーがつかない番組では、提供クレジット部分で画面右下にチャンネルロゴを表示している。ただし、サスペンス名作選（[火曜サスペンス劇場](../Page/火曜サスペンス劇場.md "wikilink")）など一部番組では、チャンネルロゴではなく番組タイトルを表示している。また、提供ベースがない番組（特に深夜アニメの一部）では表示されない。
   - [韓国などのアジア地域で制作された](../Page/大韓民国.md "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")や[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")を、いわゆる「[韓流](../Page/韓流.md "wikilink")ブーム」が到来した頃から積極的に放映している。
-  - 近年は[Fun\!BASEBALL\!\!](../Page/Fun!BASEBALL!!.md "wikilink")の中継日数が[地上波](../Page/地上波.md "wikilink")よりも増加しており、「接触率」が地上波各局を上回る日もあり、年間・年度の各部門で首位を獲得したこともある\[13\]。
-      - 2011年[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")には将来の[3Dテレビ放送の普及をにらんだ試みとして](../Page/立体テレビ放送.md "wikilink")、プロ野球開幕戦「巨人対横浜」戦（[東京ドーム](../Page/東京ドーム.md "wikilink")）を「[VIERA](../Page/VIERA.md "wikilink")プロ野球開幕スペシャル」（[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")1社協賛）で3D映像を使って実況放送する予定を組んでいた\[14\]。しかし、この2週間前の[3月11日](../Page/3月11日.md "wikilink")に[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")が発生し、プロ野球開幕が[4月12日](../Page/4月12日.md "wikilink")の「巨人対ヤクルト」戦（[宇部市ユーピーアールスタジアム](../Page/宇部市野球場.md "wikilink")）まで延期されたため、この試みは中止となった。日テレグループはプロ野球3D中継を地上波・CS（日テレジータス・[日テレプラス](https://ja.wikipedia.org/wiki/日テレプラス_ドラマ・アニメ・スポーツ "wikilink")）を含めた新たなブランディング戦略の一環と位置付け、新たな野球中継の形を提案しようとする全社を挙げたプロジェクトとして大々的にPRしたが、これ以後も3D中継の企画は実現のめどが立たず、結果的に「幻の企画」となってしまった。
+  - 近年は[Fun\!BASEBALL\!\!](../Page/Fun!BASEBALL!!.md "wikilink")の中継日数が[地上波](../Page/地上波.md "wikilink")よりも増加しており、「接触率」が地上波各局を上回る日もあり、年間・年度の各部門で首位を獲得したこともある\[16\]。
+      - 2011年[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")には将来の[3Dテレビ放送の普及をにらんだ試みとして](../Page/立体テレビ放送.md "wikilink")、プロ野球開幕戦「巨人対横浜」戦（[東京ドーム](../Page/東京ドーム.md "wikilink")）を「[VIERA](../Page/VIERA.md "wikilink")プロ野球開幕スペシャル」（[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")1社協賛）で3D映像を使って実況放送する予定を組んでいた\[17\]。しかし、この2週間前の[3月11日](../Page/3月11日.md "wikilink")に[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")が発生し、プロ野球開幕が[4月12日](../Page/4月12日.md "wikilink")の「巨人対ヤクルト」戦（[宇部市ユーピーアールスタジアム](../Page/宇部市野球場.md "wikilink")）まで延期されたため、この試みは中止となった。日テレグループはプロ野球3D中継を地上波・CS（日テレジータス・[日テレプラス](https://ja.wikipedia.org/wiki/日テレプラス_ドラマ・アニメ・スポーツ "wikilink")）を含めた新たなブランディング戦略の一環と位置付け、新たな野球中継の形を提案しようとする全社を挙げたプロジェクトとして大々的にPRしたが、これ以後も3D中継の企画は実現のめどが立たず、結果的に「幻の企画」となってしまった。
   - 開局当初、特に平日の日中には長時間にわたって日テレNEWS24の[同時放送が行われており](../Page/サイマル放送.md "wikilink")、全時間帯の7割にも及んでいた。
       -
         [2001年](../Page/2001年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2002年](../Page/2002年.md "wikilink")3月までは[スカパー\!での放送が一時休止となり](../Page/スカパー!プレミアムサービス.md "wikilink")、プラット・ワン（当時）で放送が再開されるまでの間は、[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")での放送を除き番組を視聴することができなかったため、その振り替えとして編成されていた。
@@ -1335,8 +1187,11 @@
 7.  論理チャンネルの上2桁で、放送事業者とサービスを表す番号。
 8.
 9.
-10. 本来なら20日だが、ラグビーワールドカップ中継のため
-11. 2011年[9月30日](../Page/9月30日.md "wikilink")をもって打ち切り。BS日テレ全番組で唯一となる[字幕放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")（[リアルタイム字幕放送](../Page/リアルタイム字幕放送.md "wikilink")）を実施していた。
-12.
-13.
-14. [BS初！プロ野球巨人戦3D中継実施！](http://www.ntv.co.jp/info/pressrelease/601.html)（2011年3月7日 2014年6月11日閲覧）
+10. 当初は2020年4月13日スタート予定だったが、新型コロナウイルスの感染拡大防止の為延期となった。
+11. レギュラー放送開始前は不定期で放送していた
+12. 当初は2020年4月17日スタート予定だったが、新型コロナウイルスの感染拡大防止の為延期となった。
+13. 本来なら20日だが、ラグビーワールドカップ中継のため
+14. 2011年[9月30日](../Page/9月30日.md "wikilink")をもって打ち切り。BS日テレ全番組で唯一となる[字幕放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")（[リアルタイム字幕放送](../Page/リアルタイム字幕放送.md "wikilink")）を実施していた。
+15.
+16.
+17. [BS初！プロ野球巨人戦3D中継実施！](http://www.ntv.co.jp/info/pressrelease/601.html)（2011年3月7日 2014年6月11日閲覧）

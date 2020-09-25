@@ -3,7 +3,7 @@
 
 『**ANNニュースライナー**』（エイエヌエヌ ニュースライナー）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")（旧：日本教育テレビ）[系列で](https://ja.wikipedia.org/wiki/All-Nippon_News_Network "wikilink")[1975年](../Page/1975年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")までにかけて放送された、お昼の[ニュース番組である](../Page/報道番組.md "wikilink")。当時のANNのニュース番組のうち最もネット局が多かった番組だった。
 
-1993年[4月5日](../Page/4月5日.md "wikilink")に『[ザ・ニュースキャスター](../Page/ザ・ニュースキャスター.md "wikilink")』に吸収され、当番組は消滅したが、それ以降も、一部の系列局がニュース部分だけをネットする関係上、形式上は15分間の『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』として今日まで存在する。
+1993年[4月5日](../Page/4月5日.md "wikilink")に平日版が『[ザ・ニュースキャスター](../Page/ザ・ニュースキャスター.md "wikilink")』に吸収されたのをきっかけに当番組は消滅したが、それ以降も、一部の系列局がニュース部分だけをネットする関係上、形式上は15分間の『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』として今日まで存在する。
 
 ## 歴代のキャスター
 

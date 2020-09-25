@@ -746,12 +746,12 @@ ASCIIの rate-datは、ヒント機能の追加やユーザーインターフェ
   -
   - [アーベル](http://www.abelsoftware-jp.com/)
 
-  - [ピンクパイナップル](http://www.pinkpineapple.co.jp/)
+  - [ピンクパイナップル](https://www.pinkpineapple.co.jp/)
 
   - [リメイク版 公式サイト](http://yu-no.jp/)
 
   -
-  - [TVアニメ「この世の果てで恋を唄う少女YU-NO」](http://yuno-anime.com/)
+  - [TVアニメ「この世の果てで恋を唄う少女YU-NO」](https://yuno-anime.com/)
 
   -
   - [この世の果てで恋を唄う少女YU-NO｜水もん｜朝日放送テレビ](https://www.asahi.co.jp/anime/yuno-anime/)

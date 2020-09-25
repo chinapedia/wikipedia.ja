@@ -93,8 +93,6 @@
 
 :\* [キハ40系](../Page/国鉄キハ40系気動車_\(2代\).md "wikilink")（[はやとの風](../Page/はやとの風.md "wikilink")・[指宿のたまて箱](https://ja.wikipedia.org/wiki/指宿のたまて箱 "wikilink")・[いさぶろう・しんぺい](https://ja.wikipedia.org/wiki/いさぶろう・しんぺい "wikilink")・[かわせみ やませみ](https://ja.wikipedia.org/wiki/かわせみ_やませみ "wikilink")）
 
-:\* [キハ31形](../Page/国鉄キハ31形気動車.md "wikilink") (定期運用終了)
-
 :\* [キハ125形](../Page/JR九州キハ125形気動車.md "wikilink")
 
 :\* [キハ200・キハ220系](../Page/JR九州キハ200系気動車.md "wikilink")
@@ -186,6 +184,8 @@
   - 一般形
 
 :\* [キハ20系](../Page/国鉄キハ20系気動車.md "wikilink")
+
+:\* [キハ31形](../Page/国鉄キハ31形気動車.md "wikilink")
 
 :\* [キハ35系](../Page/国鉄キハ35系気動車.md "wikilink")
 

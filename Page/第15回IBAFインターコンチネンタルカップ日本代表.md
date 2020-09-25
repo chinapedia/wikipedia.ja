@@ -54,7 +54,7 @@
 | 10  | [木元邦之](../Page/木元邦之.md "wikilink")                    | [日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")                   | 24 |
 | 23  | [北川利之](../Page/北川利之.md "wikilink")☆                   | [川崎製鉄水島](https://ja.wikipedia.org/wiki/川崎製鉄水島硬式野球部 "wikilink")      | 23 |
 | 33  | [古木克明](../Page/古木克明.md "wikilink")                    | [横浜ベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")                      | 21 |
-| 52  | [川﨑宗則](https://ja.wikipedia.org/wiki/川﨑宗則 "wikilink") | [福岡ダイエーホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink") | 21 |
+| 52  | [川﨑宗則](../Page/川﨑宗則.md "wikilink")                    | [福岡ダイエーホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink") | 21 |
 
 ### 外野手
 

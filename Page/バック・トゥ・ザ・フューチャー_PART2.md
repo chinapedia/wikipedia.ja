@@ -127,7 +127,7 @@
 <td><p>ホワイティ<br />
 (Whitey)</p></td>
 <td><p><a href="../Page/ジェイソン・スコット・リー.md" title="wikilink">ジェイソン・スコット・リー</a></p></td>
-<td><p><a href="../Page/納谷六朗.md" title="wikilink">納谷六朗</a></p></td>
+<td><p><a href="../Page/稲葉実.md" title="wikilink">稲葉実</a></p></td>
 </tr>
 <tr class="even">
 <td><p>テリー<br />
@@ -181,7 +181,7 @@
 <tr class="odd">
 <td><p>ウェスタン・ユニオンの男</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョー・フラハティ" title="wikilink">ジョー・フラハティ</a></p></td>
-<td><p>納谷六朗</p></td>
+<td><p><a href="../Page/納谷六朗.md" title="wikilink">納谷六朗</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ビフ・タネン博物館のナレーター</p></td>
@@ -193,7 +193,6 @@
 <td></td>
 <td><p><a href="../Page/石森達幸.md" title="wikilink">石森達幸</a><br />
 <a href="../Page/竹口安芸子.md" title="wikilink">竹口安芸子</a><br />
-<a href="../Page/稲葉実.md" title="wikilink">稲葉実</a><br />
 <a href="../Page/深見梨加.md" title="wikilink">深実りか</a><br />
 <a href="../Page/吉田美保.md" title="wikilink">吉田美保</a><br />
 <a href="../Page/佐藤ユリ.md" title="wikilink">佐藤ユリ</a></p></td>

@@ -3,7 +3,7 @@
 
 **Dream Ami**（ドリーム アミ、[1988年](../Page/1988年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")。[Dream](../Page/Dream_\(音楽ユニット\).md "wikilink")、[E-girls](https://ja.wikipedia.org/wiki/E-girls "wikilink")の元メンバー。
 
-[大阪府](../Page/大阪府.md "wikilink")[箕面市](../Page/箕面市.md "wikilink")出身\[1\]。[LDH JAPAN所属](../Page/LDH_\(芸能プロダクション\).md "wikilink")\[2\]\[3\]。当初は本名で活動。現事務所所属以降はAmi名義を使用。ソロ活動時およびソロ活動専念以降はDream Ami名義を使用\[4\]。
+[大阪府](../Page/大阪府.md "wikilink")[箕面市](../Page/箕面市.md "wikilink")出身\[1\]。[LDH JAPAN所属](../Page/LDH_\(芸能プロダクション\).md "wikilink")\[2\]\[3\]。当初は本名で活動。LDHに所属した2008年以降はAmi名義を使用。ソロ活動時およびソロ活動専念以降はDream Ami名義を使用\[4\]。
 
 ## 略歴
 

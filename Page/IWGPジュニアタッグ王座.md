@@ -38,7 +38,7 @@
 </tr>
 <tr class="even">
 <td><p>第2代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ケンドー・カシン" title="wikilink">ケンドー・カシン</a>&amp;<a href="../Page/ドクトル・ワグナー・ジュニア.md" title="wikilink">ドクトル・ワグナーJr.</a></p></td>
+<td><p><a href="../Page/ケンドー・カシン.md" title="wikilink">ケンドー・カシン</a>&amp;<a href="../Page/ドクトル・ワグナー・ジュニア.md" title="wikilink">ドクトル・ワグナーJr.</a></p></td>
 <td><p>1</p></td>
 <td><p>2</p></td>
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a>1月4日</p></td>
@@ -416,7 +416,7 @@
 <td><p>2</p></td>
 <td><p>2016年6月19日</p></td>
 <td><p><a href="../Page/大阪城ホール.md" title="wikilink">大阪城ホール</a><br />
-前王者組、前々王者組、ボビー＆オライリー組との3WAY</p></td>
+前王者組、前々王者組、ボビー＆オライリー組との<a href="../Page/トリプルスレットマッチ.md" title="wikilink">3WAY</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第49代</p></td>
@@ -526,11 +526,11 @@
 </tr>
 <tr class="even">
 <td><p>第62代</p></td>
-<td></td>
-<td></td>
+<td><p>金丸義信&amp;エル・デスペラード</p></td>
+<td><p>2</p></td>
 <td></td>
 <td><p>2020年9月11日</p></td>
-<td><p>後楽園ホール、王者決定リーグ戦。</p></td>
+<td><p>後楽園ホール、BUSHI&amp;高橋ヒロム、王者決定リーグ戦。</p></td>
 </tr>
 </tbody>
 </table>

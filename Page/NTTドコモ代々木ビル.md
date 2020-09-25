@@ -32,7 +32,7 @@ NTTドコモは[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")代半
 
 ## ビル外観画像ギャラリー
 
-画像:NTTドコモ代々木ビル.jpg|[新宿御苑](../Page/新宿御苑.md "wikilink")から望む 画像:Yoyogi_NTTDocomo200505.jpg|[新宿タカシマヤタイムズスクエアと](https://ja.wikipedia.org/wiki/髙島屋 "wikilink")[新宿サザンテラス](../Page/新宿サザンテラス.md "wikilink")を結ぶイーストデッキから望む 画像:Starbucks Shinjuku.jpg|[新宿サザンテラス](../Page/新宿サザンテラス.md "wikilink")の[スターバックス](../Page/スターバックス.md "wikilink")・オープンテラスから望む夜景 画像:DoCoMoTower_ShinjukuSta.jpg|JR[新宿駅](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")山手線ホームから望む 画像:DoCoMoTower-Yoyogi-St-East.jpg|代々木駅東口から仰ぐ 画像:DoCoMoTower-View-From-DaiBiru.jpg|秋葉原ダイビルから
+画像:NTTドコモ代々木ビル.jpg|[新宿御苑](../Page/新宿御苑.md "wikilink")から望む 画像:Yoyogi_NTTDocomo200505.jpg|[新宿タカシマヤタイムズスクエアと](../Page/髙島屋.md "wikilink")[新宿サザンテラス](../Page/新宿サザンテラス.md "wikilink")を結ぶイーストデッキから望む 画像:Starbucks Shinjuku.jpg|[新宿サザンテラス](../Page/新宿サザンテラス.md "wikilink")の[スターバックス](../Page/スターバックス.md "wikilink")・オープンテラスから望む夜景 画像:DoCoMoTower_ShinjukuSta.jpg|JR[新宿駅](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")山手線ホームから望む 画像:DoCoMoTower-Yoyogi-St-East.jpg|代々木駅東口から仰ぐ 画像:DoCoMoTower-View-From-DaiBiru.jpg|秋葉原ダイビルから
 
 ## 脚注
 
@@ -50,7 +50,7 @@ NTTドコモは[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")代半
 
   - [建物グリーン設計ガイドラインの具体的取組み 「NTTドコモ代々木ビルの概要」](http://www.nttdocomo.co.jp/corporate/csr/ecology/environ_management/guideline/green_design/yoyogi.html) - NTTドコモ公式ページ
 
-[Category:渋谷区の超高層ビル](https://ja.wikipedia.org/wiki/Category:渋谷区の超高層ビル "wikilink") [Category:2000年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:2000年竣工の日本の建築物 "wikilink") [Category:代々木](https://ja.wikipedia.org/wiki/Category:代々木 "wikilink") [Category:高さ200m以上250m未満の超高層ビル](https://ja.wikipedia.org/wiki/Category:高さ200m以上250m未満の超高層ビル "wikilink") [Category:時計台](https://ja.wikipedia.org/wiki/Category:時計台 "wikilink") [Category:NTTドコモ](https://ja.wikipedia.org/wiki/Category:NTTドコモ "wikilink")
+[Category:渋谷区の超高層ビル](https://ja.wikipedia.org/wiki/Category:渋谷区の超高層ビル "wikilink") [Category:2000年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:2000年竣工の日本の建築物 "wikilink") [Category:代々木](https://ja.wikipedia.org/wiki/Category:代々木 "wikilink") [Category:千駄ヶ谷](https://ja.wikipedia.org/wiki/Category:千駄ヶ谷 "wikilink") [Category:高さ200m以上250m未満の超高層ビル](https://ja.wikipedia.org/wiki/Category:高さ200m以上250m未満の超高層ビル "wikilink") [Category:時計台](https://ja.wikipedia.org/wiki/Category:時計台 "wikilink") [Category:NTTドコモ](https://ja.wikipedia.org/wiki/Category:NTTドコモ "wikilink")
 
 1.  「東京・新空間 17 NTTドコモ代々木ビル 携帯の電波を中継」『読売新聞』都民版 2001年8月23日
 2.

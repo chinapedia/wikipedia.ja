@@ -118,9 +118,9 @@
 
 </div>
 
-  - [2020年](../Page/2020年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")現在
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Tunisia.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Dominican_Republic.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Nigeria.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))   ★  ★  ★       ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))   ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
+([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Tunisia.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Dominican_Republic.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Nigeria.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))   ★  ★  ★      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))    ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 
   - [監督](../Page/監督.md "wikilink")
 
@@ -186,7 +186,7 @@
 
   - [ベルント・シュスター](../Page/ベルント・シュスター.md "wikilink") 1976-1978
 
-  - [ダニエル・バイアー](https://ja.wikipedia.org/wiki/ダニエル・バイアー "wikilink") 2008-
+  - [ダニエル・バイアー](https://ja.wikipedia.org/wiki/ダニエル・バイアー "wikilink") 2008-2009, 2010-2020
 
   - [モリッツ・ライトナー](https://ja.wikipedia.org/wiki/モリッツ・ライトナー "wikilink") 2011, 2017-2018
 

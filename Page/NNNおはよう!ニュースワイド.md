@@ -146,7 +146,7 @@ NNN系列の朝の全国ニュース番組であった『[NNN朝のニュース]
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a></p></td>
+<td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a></p></td>
 <td><p>NNN</p></td>
 <td><p>自社製作番組『<a href="../Page/おはようとくしま.md" title="wikilink">おはようとくしま</a>』放送のため、7:00で飛び降り</p></td>
 </tr>

@@ -735,7 +735,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/オリンピック・リヨン" title="wikilink">オリンピック・リヨン</a></p></td>
+<td><p><a href="../Page/オリンピック・リヨン.md" title="wikilink">オリンピック・リヨン</a></p></td>
 <td><p>0–3</p></td>
 <td><p>1–1</p></td>
 <td></td>
@@ -845,7 +845,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/オリンピック・リヨン" title="wikilink">オリンピック・リヨン</a></p></td>
+<td><p><a href="../Page/オリンピック・リヨン.md" title="wikilink">オリンピック・リヨン</a></p></td>
 <td><p>3–5</p></td>
 <td><p>0–2</p></td>
 <td></td>

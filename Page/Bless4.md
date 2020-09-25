@@ -268,10 +268,13 @@ AKINOのソロ作品関連については[AKINO from bless4ディスコグラフ
 
 ## 外部リンク
 
-  - [bless4 official web site](http://bless4.jp/)
-  - [渡辺音楽出版によるアーティストページ](http://www.watanabe-music.co.jp/artist/07.html)
-  - [BMG JAPANによるアーティストページ](http://www.bmgjapan.com/_artist/info.php?id=1392)
-  - [bless4ラジオ番組のラジオ局HP](http://fm21.net)
-  - [世界平和親善画家HARU川満のホームページ](http://haru-art.jp/HOME.html)
+  -
+  -
+  -
+  -
+  - [川満アート・テイメント（株）オフィシャルホームページ](http://kawamitsu-at.com/)
 
+  -
+  -
+  -
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:沖縄県出身の人物](https://ja.wikipedia.org/wiki/Category:沖縄県出身の人物 "wikilink") [Category:兄弟姉妹の音楽グループ](https://ja.wikipedia.org/wiki/Category:兄弟姉妹の音楽グループ "wikilink")

@@ -910,7 +910,7 @@
   - 音楽 - [佐橋俊彦](../Page/佐橋俊彦.md "wikilink")
   - プロデューサー - 浜野貴敏、吉本聡、渡辺和哉、大井守
   - アニメーション制作 - [マッドハウス](../Page/マッドハウス.md "wikilink")
-  - 製作 - [中山晴喜](https://ja.wikipedia.org/wiki/中山晴喜 "wikilink")
+  - 製作 - 片岡義朗、[中山晴喜](https://ja.wikipedia.org/wiki/中山晴喜 "wikilink")
   - 制作 - [マーベラスエンターテイメント](https://ja.wikipedia.org/wiki/マーベラスAQL "wikilink")、フジテレビ
 
 #### 主題歌
@@ -1367,6 +1367,11 @@ BS11での放送に合わせて、15分間の[特別番組](../Page/特別番組
     [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月23日](../Page/4月23日.md "wikilink")発売 / 2015年4月29日再発
     アニメ第二期のボーカルアルバム。収録曲の大半がエンディング主題歌「dolls」という異色の構成となっており、多田葵とLiaによるオリジナル版の他、出演声優5人がそれぞれ歌ったバージョンを収録している。
 
+## 他作品とのコラボレーション
+
+  - [ドールズフロントライン](https://ja.wikipedia.org/wiki/ドールズフロントライン "wikilink")
+    [iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink") / [Android用アプリゲーム](../Page/Android_\(オペレーティングシステム\).md "wikilink")。2020年9月にコラボイベントが開催され、本作からヘンリエッタ、トリエラ、リコ、アンジェリカ、クラエスが登場。テレビアニメ第2期とのコラボで、ボイスはアニメから流用されている\[24\]。
+
 ## 脚注
 
 ### 注釈
@@ -1412,3 +1417,4 @@ BS11での放送に合わせて、15分間の[特別番組](../Page/特別番組
 21.
 22. 歌い手は話によって入れ替わる。
 23. [Gunslinger Girl：ニュース](http://www.gunslingergirl.com/news/041007.html)
+24.

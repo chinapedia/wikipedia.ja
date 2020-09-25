@@ -106,6 +106,8 @@ EVEシリーズの伝統である「2人の主人公の違った視点から1つ
   - **シャサ・ノバルティス** 声：[堀内賢雄](../Page/堀内賢雄.md "wikilink")
   - **グレン** 声：[飯塚昭三](../Page/飯塚昭三.md "wikilink")
 
+## 脚注
+
 [Category:EVEシリーズ](https://ja.wikipedia.org/wiki/Category:EVEシリーズ "wikilink") [Category:2000年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2000年のコンピュータゲーム "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:ドリームキャスト用ソフト](https://ja.wikipedia.org/wiki/Category:ドリームキャスト用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink")
 
 1.

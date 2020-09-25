@@ -12,7 +12,7 @@
 
 [2005年](../Page/2005年.md "wikilink")夏、[全薬工業](../Page/全薬工業.md "wikilink")株式会社「新ジキニン顆粒」のCM、および[CMソングが作られ](../Page/コマーシャルソング.md "wikilink")、2人で歌唱。
 
-同年秋、正式にCDデビューすることが決まり、15秒のCMソングに歌詞・曲が加筆され、「LENPHa」のユニット名で、11月30日にシングル『スウィート スマイル』をリリース。「LENPHa」は[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")で「恋花（れんふぁ）」と書き、響きが良く、女性の恋の歌を花のように優しく歌っていきたいという気持ちを込めて命名。オフィシャルサイトを開設したり、「♪LENPHa（れんふぁ）のぽかぽか日記♪」と題した[ブログ](../Page/ブログ.md "wikilink")も綴っていた。
+同年秋、正式にCDデビューすることが決まり、15秒のCMソングに歌詞・曲が加筆され、「LENPHa」のユニット名で、11月30日にシングル『スウィート スマイル』をリリース。「LENPHa」は[中国語](../Page/中国語.md "wikilink")で「恋花（れんふぁ）」と書き、響きが良く、女性の恋の歌を花のように優しく歌っていきたいという気持ちを込めて命名。オフィシャルサイトを開設したり、「♪LENPHa（れんふぁ）のぽかぽか日記♪」と題した[ブログ](../Page/ブログ.md "wikilink")も綴っていた。
 
 ## ディスコグラフィ
 
@@ -42,6 +42,6 @@
 
 ## 外部リンク
 
-  - [コロムビアミュージックエンタテインメント | LENPHa(レンファ)](http://columbia.jp/artist-info/lenpha/)
+  - [コロムビアミュージックエンタテインメント | LENPHa(レンファ)](https://columbia.jp/artist-info/lenpha/)
 
 [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink")

@@ -54,7 +54,7 @@
   - [福島テレビ](../Page/福島テレビ.md "wikilink") - 1968年10月からネット開始。福島中央テレビ開局でネットを打ち切るが1971年10月からネット再開\[2\]。FNNには1983年に加盟。
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")
   - [テレビ山口](../Page/テレビ山口.md "wikilink") - 当時はFNSには加盟していたがFNNには非加盟だったため、『**奥さまニュース**』というタイトルに差し替えていた。
-  - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")
+  - [四国放送](../Page/四国放送.md "wikilink")
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink") - FNN・FNSともに非加盟であるため、『**[高知新聞](../Page/高知新聞.md "wikilink")奥さまニュース**』というタイトルに差し替えていた。
 
 ## 脚注

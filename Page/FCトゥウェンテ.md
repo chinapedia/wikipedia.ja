@@ -95,13 +95,15 @@
 
 ## 現所属メンバー
 
-**2020年7月2日現在**\[3\]     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Belgium.svg "wikilink"))       ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Algeria.svg "wikilink"))      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_USA.svg "wikilink"))  ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
+**2020年9月15日現在**\[3\]            ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_USA.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Belgium.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Algeria.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))
+
+※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 
   - [監督](../Page/監督.md "wikilink")
 
 <!-- end list -->
 
-  - [ロン・ヤンス](../Page/ロン・ヤンス.md "wikilink")
+  - [ロン・ヤンス](../Page/ロン・ヤンス.md "wikilink")　
 
 ### ローン移籍
 

@@ -343,7 +343,7 @@
   - 8月不日 [Power Strike II](https://ja.wikipedia.org/wiki/Power_Strike_II "wikilink") (アレスタII)（セガ、512Kカセット）
   - 9月不日 [スター・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ "wikilink")（U.S.Gold、512Kカセット）
   - 9月不日 [Super Off Road](https://ja.wikipedia.org/wiki/Super_Off_Road "wikilink")（Virgin Games、128Kカセット）
-  - 9月13日 [モータルコンバット](https://ja.wikipedia.org/wiki/モータルコンバット "wikilink")（アクレイム、512Kカセット）
+  - 9月13日 [モータルコンバット](../Page/モータルコンバット.md "wikilink")（アクレイム、512Kカセット）
   - 10月25日 [ソニック＆テイルス](https://ja.wikipedia.org/wiki/ソニック＆テイルス "wikilink")（セガ、512Kカセット）
   - 10月不日 [チャックロックII](https://ja.wikipedia.org/wiki/チャックロックII "wikilink")（Core Design、512Kカセット）
   - 10月不日 [クールスポット](https://ja.wikipedia.org/wiki/クールスポット "wikilink")（Virgin Games、256Kカセット）

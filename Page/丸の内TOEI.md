@@ -19,7 +19,9 @@
 
 ## システム
 
-[2009年](../Page/2009年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")より、[全席指定](../Page/座席指定席.md "wikilink")・定員入替制を導入した。このため、1階のチケット売場で購入できる前売券・株主券などのチケットは、当日券（日時指定券）に引き換えてから入場するシステムとなった。 [Marunouchi_Toei_-_cpo57.jpg](https://ja.wikipedia.org/wiki/File:Marunouchi_Toei_-_cpo57.jpg "fig:Marunouchi_Toei_-_cpo57.jpg")（昭和57年）10月頃の写真。[同月30日封切の](../Page/10月30日.md "wikilink")『[制覇](https://ja.wikipedia.org/wiki/制覇 "wikilink")』（監督[中島貞夫](../Page/中島貞夫.md "wikilink")）の大看板が掲げられている。東映会館の右隣はかつて存在した[平和生命館](https://ja.wikipedia.org/wiki/マスミューチュアル生命保険 "wikilink")（跡地にはギンザ・グラッセが立地）。\]\]
+[2009年](../Page/2009年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")より、[全席指定](../Page/座席指定席.md "wikilink")・定員入替制を導入した。このため、1階のチケット売場で購入できる前売券・株主券などのチケットは、当日券（日時指定券）に引き換えてから入場するシステムとなった。
+
+また、2019年よりインターネットでチケットが購入できるシステムが導入された。
 
 ## 外部リンク
 

@@ -110,11 +110,16 @@
 
 ## 参加ミュージシャン
 
+  - [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")
+      - [桜井和寿](../Page/桜井和寿.md "wikilink")：Vocal, Guitar
+      - [田原健一](../Page/田原健一.md "wikilink")：Guitar
+      - [中川敬輔](../Page/中川敬輔.md "wikilink")：Bass
+      - [鈴木英哉](../Page/鈴木英哉.md "wikilink")：Drums
   - [小林武史](../Page/小林武史.md "wikilink")：Keyboards
-  - 吉田誠：Computer Programming
-  - 四家卯大：Cello
-  - 沖祥子：Violin
+  - 吉田誠：Computer Programing
   - 四家卯大ストリングス：Strings
+      - 四家卯大：Cello
+      - 沖祥子：Violin
   - [山本拓夫](../Page/山本拓夫.md "wikilink")：Sax, Flute
   - [松本治](https://ja.wikipedia.org/wiki/松本治 "wikilink")：Trombone
   - 広原正典：Trombone
@@ -126,90 +131,70 @@
 
 **蘇生**
 
-| 作品名                                                                                                                                                              | 備考 |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
-| [wonederful world on DEC 21](https://ja.wikipedia.org/wiki/wonederful_world_on_DEC_21 "wikilink")                                                                |    |
-| [Mr.Children Tour 2004 シフクノオト](../Page/Mr.Children_Tour_2004_シフクノオト.md "wikilink")                                                                               |    |
-| [ap bank fes '05](https://ja.wikipedia.org/wiki/ap_bank_fes_'05 "wikilink")                                                                                      |    |
-| [MR.CHILDREN DOME TOUR 2005 "I ♥ U" 〜FINAL IN TOKYO DOME〜](https://ja.wikipedia.org/wiki/MR.CHILDREN_DOME_TOUR_2005_"I_LOVE_U"_〜FINAL_IN_TOKYO_DOME〜 "wikilink") |    |
-| [Mr.Children "HOME" TOUR 2007](../Page/Mr.Children_"HOME"_TOUR_2007.md "wikilink")                                                                               |    |
-| [ap bank fes '09](https://ja.wikipedia.org/wiki/ap_bank_fes_'09 "wikilink")                                                                                      |    |
-| [MR.CHILDREN TOUR POPSAURUS 2012](https://ja.wikipedia.org/wiki/MR.CHILDREN_TOUR_POPSAURUS_2012 "wikilink")                                                      |    |
-| [Mr.Children Stadium Tour 2015 未完](https://ja.wikipedia.org/wiki/Mr.Children_Stadium_Tour_2015_未完 "wikilink")                                                    |    |
-| [Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")            |    |
+| 作品名                                                                                                                                                           | 備考 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
+| [wonederful world on DEC 21](https://ja.wikipedia.org/wiki/wonederful_world_on_DEC_21 "wikilink")                                                             |    |
+| [Mr.Children Tour 2004 シフクノオト](../Page/Mr.Children_Tour_2004_シフクノオト.md "wikilink")                                                                            |    |
+| [ap bank fes '05](https://ja.wikipedia.org/wiki/ap_bank_fes_'05 "wikilink")                                                                                   |    |
+| [MR.CHILDREN DOME TOUR 2005 "I ♥ U" 〜FINAL IN TOKYO DOME〜](https://ja.wikipedia.org/wiki/MR.CHILDREN_DOME_TOUR_2005_"I_♥_U"_〜FINAL_IN_TOKYO_DOME〜 "wikilink") |    |
+| [Mr.Children HOME TOUR 2007](../Page/Mr.Children_"HOME"_TOUR_2007.md "wikilink")                                                                              |    |
+| [ap bank fes '09](https://ja.wikipedia.org/wiki/ap_bank_fes_'09 "wikilink")                                                                                   |    |
+| [MR.CHILDREN TOUR POPSAURUS 2012](https://ja.wikipedia.org/wiki/MR.CHILDREN_TOUR_POPSAURUS_2012 "wikilink")                                                   |    |
+| [Mr.Children Stadium Tour 2015 未完](https://ja.wikipedia.org/wiki/Mr.Children_Stadium_Tour_2015_未完 "wikilink")                                                 |    |
+| [Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")         |    |
 
 **Dear wonderful world**
 
-| 作品名                                                                                               | 備考 |
-| ------------------------------------------------------------------------------------------------- | -- |
-| [wonederful world on DEC 21](https://ja.wikipedia.org/wiki/wonederful_world_on_DEC_21 "wikilink") |    |
+| 作品名                        | 備考 |
+| -------------------------- | -- |
+| wonederful world on DEC 21 |    |
 
 **渇いたkiss**
 
-| 作品名                                                                                               | 備考 |
-| ------------------------------------------------------------------------------------------------- | -- |
-| [wonederful world on DEC 21](https://ja.wikipedia.org/wiki/wonederful_world_on_DEC_21 "wikilink") |    |
+| 作品名                        | 備考 |
+| -------------------------- | -- |
+| wonederful world on DEC 21 |    |
 
 **youthful days** ** **ファスナー**
 
-<table>
-<thead>
-<tr class="header">
-<th><p>作品名</p></th>
-<th><p>備考</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/wonederful_world_on_DEC_21" title="wikilink">wonederful world on DEC 21</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/MR.CHILDREN_DOME_TOUR_2005_&quot;I_LOVE_U&quot;_〜FINAL_IN_TOKYO_DOME〜" title="wikilink">MR.CHILDREN DOME TOUR 2005 "I ♥ U" 〜FINAL IN TOKYO DOME〜</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Mr.Children_Tour_2009_〜終末のコンフィデンスソングス〜" title="wikilink">Mr.Children Tour 2009 〜終末のコンフィデンスソングス〜</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Mr.Children_/_Split_The_Difference" title="wikilink">Mr.Children / Split The Difference</a></p></td>
-<td><p><a href="../Page/ドキュメンタリー.md" title="wikilink">ドキュメンタリー</a><a href="../Page/映画.md" title="wikilink">映画</a>作品</p>
-<p><a href="../Page/スガシカオ.md" title="wikilink">スガシカオ</a>がゲストボーカルとして参加</p></td>
-</tr>
-</tbody>
-</table>
+| 作品名                                                                                                                       | 備考                                                 |
+| ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| wonederful world on DEC 21                                                                                                |                                                    |
+| MR.CHILDREN DOME TOUR 2005 "I ♥ U" 〜FINAL IN TOKYO DOME〜                                                                  |                                                    |
+| [Mr.Children Tour 2009 〜終末のコンフィデンスソングス〜](https://ja.wikipedia.org/wiki/Mr.Children_Tour_2009_〜終末のコンフィデンスソングス〜 "wikilink") |                                                    |
+| [Mr.Children / Split The Difference](https://ja.wikipedia.org/wiki/Mr.Children_/_Split_The_Difference "wikilink")         | [スガシカオ](../Page/スガシカオ.md "wikilink")がゲストボーカルとして参加。 |
+| [スガフェス\! 〜20年に一度のミラクルフェス〜](https://ja.wikipedia.org/wiki/スガフェス!_〜20年に一度のミラクルフェス〜 "wikilink")                              |                                                    |
 
 **Bird Cage**
 
-| 作品名                                                                                               | 備考 |
-| ------------------------------------------------------------------------------------------------- | -- |
-| [wonederful world on DEC 21](https://ja.wikipedia.org/wiki/wonederful_world_on_DEC_21 "wikilink") |    |
+| 作品名                        | 備考 |
+| -------------------------- | -- |
+| wonederful world on DEC 21 |    |
 
 **LOVEはじめました**
 
-| 作品名                                                                                                                                                                       | 備考 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
-| [wonederful world on DEC 21](https://ja.wikipedia.org/wiki/wonederful_world_on_DEC_21 "wikilink")                                                                         |    |
-| [MR.CHILDREN DOME TOUR 2005 "I ♥ U" 〜FINAL IN TOKYO DOME〜](https://ja.wikipedia.org/wiki/MR.CHILDREN_DOME_TOUR_2005_"I_LOVE_U"_〜FINAL_IN_TOKYO_DOME〜 "wikilink")          |    |
-| [Mr.Children DOME TOUR 2009 〜SUPERMARKET FANTASY〜 IN TOKYO DOME](https://ja.wikipedia.org/wiki/Mr.Children_DOME_TOUR_2009_〜SUPERMARKET_FANTASY〜_IN_TOKYO_DOME "wikilink") |    |
-| \[\[Mr.Children［(an_imitation)_blood_orange］Tour|Mr.Children \[(an imitation) blood orange\] Tour\]\]                                                                  |    |
+| 作品名                                                                                                                                                                     | 備考 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
+| wonederful world on DEC 21                                                                                                                                              |    |
+| MR.CHILDREN DOME TOUR 2005 "I ♥ U" 〜FINAL IN TOKYO DOME〜                                                                                                                |    |
+| [Mr.Children DOME TOUR 2009 SUPERMARKET FANTASY IN TOKYO DOME](https://ja.wikipedia.org/wiki/Mr.Children_DOME_TOUR_2009_〜SUPERMARKET_FANTASY〜_IN_TOKYO_DOME "wikilink") |    |
+| \[\[Mr.Children［(an_imitation)_blood_orange］Tour|Mr.Children \[(an imitation) blood orange\] Tour\]\]                                                                |    |
 
 **Drawing** ** **君が好き** ** **いつでも微笑みを**
 
-| 作品名                                                                                                       | 備考         |
-| --------------------------------------------------------------------------------------------------------- | ---------- |
-| [wonederful world on DEC 21](https://ja.wikipedia.org/wiki/wonederful_world_on_DEC_21 "wikilink")         |            |
-| [ap bank fes '05](https://ja.wikipedia.org/wiki/ap_bank_fes_'05 "wikilink")                               | 弾き語りで演奏された |
-| [Mr.Children "HOME" TOUR 2007](../Page/Mr.Children_"HOME"_TOUR_2007.md "wikilink")                        |            |
-| [ap bank fes '11 Fund for Japan](https://ja.wikipedia.org/wiki/ap_bank_fes_'11_Fund_for_Japan "wikilink") |            |
+| 作品名                                                                                                       | 備考          |
+| --------------------------------------------------------------------------------------------------------- | ----------- |
+| wonederful world on DEC 21                                                                                |             |
+| ap bank fes '05                                                                                           | 弾き語りで演奏された。 |
+| Mr.Children HOME TOUR 2007                                                                                |             |
+| [ap bank fes '11 Fund for Japan](https://ja.wikipedia.org/wiki/ap_bank_fes_'11_Fund_for_Japan "wikilink") |             |
 
 **優しい歌** ** **It's a wonderful world**
 
-| 作品名                                                                                               | 備考 |
-| ------------------------------------------------------------------------------------------------- | -- |
-| [wonederful world on DEC 21](https://ja.wikipedia.org/wiki/wonederful_world_on_DEC_21 "wikilink") |    |
-| [ap bank fes '05](https://ja.wikipedia.org/wiki/ap_bank_fes_'05 "wikilink")                       |    |
+| 作品名                        | 備考 |
+| -------------------------- | -- |
+| wonederful world on DEC 21 |    |
+| ap bank fes '05            |    |
 
 ## 脚注
 

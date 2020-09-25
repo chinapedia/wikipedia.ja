@@ -1,7 +1,7 @@
 > この記事は[Ricky](https://ja.wikipedia.org/wiki/Ricky)から翻訳されています。
 
 
-**Ricky**（リッキー、本名非公表、[10月20日](../Page/10月20日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[埼玉県](../Page/埼玉県.md "wikilink")新座市出身。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**Ricky**（リッキー、本名非公表、[10月20日](../Page/10月20日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[埼玉県](../Page/埼玉県.md "wikilink")新座市出身。[血液型はA型](../Page/ABO式血液型.md "wikilink")。
 
 ## 概要
 

@@ -233,7 +233,7 @@
   - [水野つかさ](https://ja.wikipedia.org/wiki/水野つかさ "wikilink")（2月）
   - [星沢なな](https://ja.wikipedia.org/wiki/星沢なな "wikilink")（4月）
   - [佐倉カオリ](https://ja.wikipedia.org/wiki/佐倉カオリ "wikilink")（5月）
-  - [相澤リナ](https://ja.wikipedia.org/wiki/相澤リナ "wikilink")（7月、改名）
+  - 相澤リナ（7月、改名）
   - [あずみ恋](https://ja.wikipedia.org/wiki/あずみ恋 "wikilink")（8月、改名）
   - 加藤ディーナ（9月）
   - [木下若菜](https://ja.wikipedia.org/wiki/木下若菜 "wikilink")（11月）

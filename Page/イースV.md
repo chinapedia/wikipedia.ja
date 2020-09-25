@@ -292,7 +292,7 @@
 
   - アドル・クリスティン（声 - [草尾毅](../Page/草尾毅.md "wikilink")）
   - ニーナ（声 - [川菜翠](../Page/KAORI..md "wikilink")）
-  - ウィリー（声 - [日髙のり子](https://ja.wikipedia.org/wiki/日髙のり子 "wikilink")）
+  - ウィリー（声 - [日髙のり子](../Page/日髙のり子.md "wikilink")）
   - オーウェル（声 - [梁田清之](../Page/梁田清之.md "wikilink")）
   - ストーカー（声 - [置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")）
   - フォレスタ（声 - [冬馬由美](../Page/冬馬由美.md "wikilink")）

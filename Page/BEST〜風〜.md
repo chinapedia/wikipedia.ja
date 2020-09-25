@@ -1,7 +1,7 @@
 > この記事は[BEST〜風〜](https://ja.wikipedia.org/wiki/BEST〜風〜)から翻訳されています。
 
 
-『**BEST〜風〜**』（ベスト・かぜ）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。2枚組。
+『**BEST〜風〜**』（ベスト・かぜ）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。2枚組。
 
 [2002年](../Page/2002年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")に[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")よりリリースされた。
 

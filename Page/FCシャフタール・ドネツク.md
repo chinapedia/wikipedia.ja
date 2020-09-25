@@ -1416,7 +1416,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_France.svg" title="fig:Flag_of_France.svg">Flag_of_France.svg</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オリンピック・リヨン" title="wikilink">リヨン</a></p></td>
+<td><p><a href="../Page/オリンピック・リヨン.md" title="wikilink">リヨン</a></p></td>
 <td><p>1-1</p></td>
 <td><p>2-2</p></td>
 <td></td>

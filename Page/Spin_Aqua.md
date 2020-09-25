@@ -5,7 +5,7 @@
 
 ## 概要
 
-KAZが当時[モデル](https://ja.wikipedia.org/wiki/モデル "wikilink")をしていたANNAを誘って結成\[2\]。[2002年](../Page/2002年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")、シングル「Unchained」でKi/oon Record（現・[Ki/oon Music](../Page/キューンミュージック.md "wikilink")）からデビュー。2002年12月に[東京ベイNKホール](../Page/東京ベイNKホール.md "wikilink")で行われたイベント「Devilock Night ‘02」で初ライブを披露する。[2004年](../Page/2004年.md "wikilink")、ANNAの結婚・出産に伴い解散\[3\]\[4\]\[5\]。
+KAZが当時[モデル](../Page/モデル.md "wikilink")をしていたANNAを誘って結成\[2\]。[2002年](../Page/2002年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")、シングル「Unchained」でKi/oon Record（現・[Ki/oon Music](../Page/キューンミュージック.md "wikilink")）からデビュー。2002年12月に[東京ベイNKホール](../Page/東京ベイNKホール.md "wikilink")で行われたイベント「Devilock Night ‘02」で初ライブを披露する。[2004年](../Page/2004年.md "wikilink")、ANNAの結婚・出産に伴い解散\[3\]\[4\]\[5\]。
 
 ## メンバー
 

@@ -57,7 +57,7 @@ Yahoo\!の提供する日本最大\[20\]の[インターネットオークショ
 
 ### Yahoo\!ファイナンス
 
-日本の[株式](../Page/株式.md "wikilink")情報や[税金](https://ja.wikipedia.org/wiki/税金 "wikilink")や[不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")に関する情報を網羅している。また、特定の企業を[登録](https://ja.wikipedia.org/wiki/登録 "wikilink")しておけば株式変動のレポートなども作成してくれる。2012年8月から日本の無料サービスでは初めて株価のリアルタイム更新を実施している\[25\]（それまでは20分遅れ。[東京証券取引所](../Page/東京証券取引所.md "wikilink")の方針変更によるもの）。2018年までは[textream掲示板とも直結しており](https://ja.wikipedia.org/wiki/#textream "wikilink")、2019年1月にtextream掲示板の「株式」、「為替、FX」のカテゴリを引き継いだ掲示板を加えた。
+日本の[株式](../Page/株式.md "wikilink")情報や[税金](https://ja.wikipedia.org/wiki/税金 "wikilink")や[不動産](../Page/不動産.md "wikilink")に関する情報を網羅している。また、特定の企業を[登録](https://ja.wikipedia.org/wiki/登録 "wikilink")しておけば株式変動のレポートなども作成してくれる。2012年8月から日本の無料サービスでは初めて株価のリアルタイム更新を実施している\[25\]（それまでは20分遅れ。[東京証券取引所](../Page/東京証券取引所.md "wikilink")の方針変更によるもの）。2018年までは[textream掲示板とも直結しており](https://ja.wikipedia.org/wiki/#textream "wikilink")、2019年1月にtextream掲示板の「株式」、「為替、FX」のカテゴリを引き継いだ掲示板を加えた。
 
 ### Yahoo\!きっず
 
@@ -233,7 +233,7 @@ Yahoo\!が提供していたチャットシステム。2007年4月3日より[Yah
 
 ### Yahoo\!翻訳
 
-[日本語](../Page/日本語.md "wikilink")を[英語](../Page/英語.md "wikilink")、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")、[韓国語](https://ja.wikipedia.org/wiki/韓国語 "wikilink")に翻訳できた。また、反対に英語、中国語、韓国語も日本語に翻訳できた。他にも「Web翻訳」というのもあり、英語等の[ウェブページ](../Page/ウェブページ.md "wikilink")を日本語に翻訳して表示するという機能もあった。
+[日本語](../Page/日本語.md "wikilink")を[英語](../Page/英語.md "wikilink")、[中国語](../Page/中国語.md "wikilink")、[韓国語](https://ja.wikipedia.org/wiki/韓国語 "wikilink")に翻訳できた。また、反対に英語、中国語、韓国語も日本語に翻訳できた。他にも「Web翻訳」というのもあり、英語等の[ウェブページ](../Page/ウェブページ.md "wikilink")を日本語に翻訳して表示するという機能もあった。
 
 「選択肢増え、役目終えた」としてヤフーは2017年6月29日をもってサービスを終了した\[48\]。
 
@@ -243,7 +243,7 @@ Yahoo\!が提供していたチャットシステム。2007年4月3日より[Yah
 
 ### Yahoo\!辞書
 
-Yahoo\![辞書](https://ja.wikipedia.org/wiki/辞書 "wikilink")は全7辞書（[大辞泉](../Page/大辞泉.md "wikilink")、[大辞林](../Page/大辞林.md "wikilink")、必携 類語実用辞典、[プログレッシブ (辞典)](../Page/プログレッシブ.md "wikilink")[英](../Page/英語.md "wikilink")[和](../Page/日本語.md "wikilink")[中辞典](https://ja.wikipedia.org/wiki/中国語 "wikilink")、新グローバル英和辞典、プログレッシブ和英中辞典、ニューセンチュリー和英辞典）、85万4000項目から検索できる。他にもコンピュータ用語辞典等があった。2019年5月31日をもってサービスを終了した。
+Yahoo\![辞書](https://ja.wikipedia.org/wiki/辞書 "wikilink")は全7辞書（[大辞泉](../Page/大辞泉.md "wikilink")、[大辞林](../Page/大辞林.md "wikilink")、必携 類語実用辞典、[プログレッシブ (辞典)](../Page/プログレッシブ.md "wikilink")[英](../Page/英語.md "wikilink")[和](../Page/日本語.md "wikilink")[中辞典](../Page/中国語.md "wikilink")、新グローバル英和辞典、プログレッシブ和英中辞典、ニューセンチュリー和英辞典）、85万4000項目から検索できる。他にもコンピュータ用語辞典等があった。2019年5月31日をもってサービスを終了した。
 
 ### X BRAND
 
@@ -441,7 +441,7 @@ Yahoo\! JAPANが2014年に創設した賞で、前年から検索数が最も上
       - お笑い芸人部門：カズレーザー（[メイプル超合金](https://ja.wikipedia.org/wiki/メイプル超合金 "wikilink")）
       - アスリート部門：[福原愛](../Page/福原愛.md "wikilink")
       - モデル部門：[りゅうちぇる](https://ja.wikipedia.org/wiki/りゅうちぇる "wikilink")
-      - ミュージシャン部門：[藤原さくら](https://ja.wikipedia.org/wiki/藤原さくら_\(シンガーソングライター\) "wikilink")
+      - ミュージシャン部門：[藤原さくら](https://ja.wikipedia.org/wiki/藤原さくら "wikilink")
       - アイドル部門：[欅坂46](https://ja.wikipedia.org/wiki/欅坂46 "wikilink")
       - 作家部門：[村田沙耶香](../Page/村田沙耶香.md "wikilink")
       - 声優部門：[中村悠一](../Page/中村悠一.md "wikilink")

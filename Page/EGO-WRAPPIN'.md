@@ -609,7 +609,7 @@ TFCC-86432:通常盤</p></td>
 </div>
 </div></li>
 </ol></td>
-<td><p>RD Records</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
@@ -630,7 +630,7 @@ TFCC-86432:通常盤</p></td>
 </div>
 </div></li>
 </ol></td>
-<td><p>オリコン最高66位、登場回数15回</p></td>
+<td><p>RD Records オリコン最高66位、登場回数15回</p></td>
 </tr>
 </tbody>
 </table>
@@ -813,7 +813,7 @@ TFCC-86267:通常盤</p></td>
 </div>
 </div></li>
 </ol></td>
-<td><p>METRO CREW RECORDS</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -1305,7 +1305,6 @@ SWEET MEMORIES feat.中納良恵</p></td>
 <td><p>2nd</p></td>
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="https://ja.wikipedia.org/wiki/12月13日" title="wikilink">12月13日</a></p></td>
 <td><p><strong>Midnight Dejavu SPECIAL 〜2006.12.13 at NHK HALL〜</strong></p></td>
-<td><p>DVD</p></td>
 <td><p>TFBQ-18079</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -1345,12 +1344,12 @@ SWEET MEMORIES feat.中納良恵</p></td>
 </div></li>
 </ol></td>
 <td><p>オリコン最高58位</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>2007年<a href="../Page/10月27日.md" title="wikilink">10月27日</a></p></td>
 <td><p><strong>BRAHMAN/EGO-WRAPPIN' SPECIAL LIVE SURE SHOT</strong></p></td>
-<td><p>DVD</p></td>
 <td><p>TFBQ-18109</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -1369,12 +1368,12 @@ SWEET MEMORIES feat.中納良恵</p></td>
 </div></li>
 </ol></td>
 <td><p>オリコン最高36位</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/4月27日.md" title="wikilink">4月27日</a></p></td>
 <td><p><strong>MIDNIGHT DEJAVU 10th ANNIVERSARY at 東京キネマ倶楽部</strong></p></td>
-<td><p>DVD</p></td>
 <td><p>TFBQ-18116</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -1417,6 +1416,7 @@ SWEET MEMORIES feat.中納良恵</p></td>
 </div></li>
 </ol></td>
 <td><p>オリコン最高55位</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>

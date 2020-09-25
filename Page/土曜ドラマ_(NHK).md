@@ -225,7 +225,7 @@
 
   - 1982年
 
-:\* [けものみち](https://ja.wikipedia.org/wiki/けものみち_\(松本清張\) "wikilink")
+:\* [けものみち](../Page/けものみち_\(松本清張\).md "wikilink")
 
   -
 
@@ -744,6 +744,8 @@
 :\*[路〜台湾エクスプレス〜](https://ja.wikipedia.org/wiki/路〜台湾エクスプレス〜 "wikilink")（5月16日 - 5月30日、全3回、原作：[吉田修一](../Page/吉田修一.md "wikilink")、主演：[波瑠](../Page/波瑠.md "wikilink")、共同制作：[PTS](https://ja.wikipedia.org/wiki/PTS "wikilink")）日台共同制作ドラマ
 
 :\*[天使にリクエストを〜人生最後の願い〜](../Page/天使にリクエストを〜人生最後の願い〜.md "wikilink")（9月19日\[45\] - 、全5回、主演：[江口洋介](https://ja.wikipedia.org/wiki/江口洋介 "wikilink")）
+
+:\*[ノースライト](https://ja.wikipedia.org/wiki/ノースライト_\(小説\) "wikilink")（12月12日 - 12月19日、全2回、原作：横山秀夫、主演：西島秀俊）
 
 ## 脚注
 

@@ -130,7 +130,7 @@
   - ガブリエル
     声 - [今井由香](../Page/今井由香.md "wikilink")
   - アンドリュー
-    声 - [日髙のり子](https://ja.wikipedia.org/wiki/日髙のり子 "wikilink")
+    声 - [日髙のり子](../Page/日髙のり子.md "wikilink")
   - アニエル
     声 - 平松晶子
   - リック・ウェーバー

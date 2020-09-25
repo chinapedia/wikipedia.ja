@@ -9,6 +9,8 @@
 
 2017年、[ディアステージのレーベル部門](https://ja.wikipedia.org/wiki/ディアステージ_\(企業\) "wikilink")「DearStage Records」に所属することを発表\[1\]
 
+ファンは「箱愚民」と呼ばれる。
+
 ## 作品
 
 ### メジャー作品

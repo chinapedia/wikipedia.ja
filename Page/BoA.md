@@ -129,7 +129,7 @@
       - 3月6日：[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")において、完全招待制の「BoA OUTGROW Special Live 2006」を[テレビ朝日](../Page/テレビ朝日.md "wikilink")主催で開催。
       - 4月15日：[日本武道館](../Page/日本武道館.md "wikilink")で開催された[Mnet](../Page/Mnet.md "wikilink")Japan開局記念ライブにスペシャルゲスト（サプライズ）として出演し、「OUTGROW〜Ready Butterfly〜」「DO THE MOTION」「Everlasting（韓国語版）」を歌い、今までに無いレゲエ風ヘアスタイルで登場した。
       - 7月15日：「[ap bank](https://ja.wikipedia.org/wiki/ap_bank "wikilink") fes'06」に出演し[桜井和寿](../Page/桜井和寿.md "wikilink")とのコラボレーションで「cosmic eyes」を歌った。
-      - [8月5日](../Page/8月5日.md "wikilink")：映画『森のリトル・ギャング』の公開初日に舞台挨拶をした。この映画では「[KEY OF HEART](https://ja.wikipedia.org/wiki/KEY_OF_HEART/DOTCH "wikilink")」が日本語版の主題歌となっており、BoA自身がヘザー役で[声優](../Page/声優.md "wikilink")に初挑戦した。また、韓国語版の同映画にも同じくヘザー役でBoAが声優として出演している。
+      - [8月5日](../Page/8月5日.md "wikilink")：映画『[森のリトル・ギャング](../Page/森のリトル・ギャング.md "wikilink")』の公開初日に舞台挨拶をした。この映画では「[KEY OF HEART](https://ja.wikipedia.org/wiki/KEY_OF_HEART/DOTCH "wikilink")」が日本語版の主題歌となっており、BoA自身がヘザー役で[声優](../Page/声優.md "wikilink")に初挑戦した。また、韓国語版の同映画にも同じくヘザー役でBoAが声優として出演している。
 
 <!-- end list -->
 

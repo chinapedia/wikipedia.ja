@@ -791,7 +791,7 @@
 ## ゲーム
 
   - 『PROJECT ARMS』
-    2002年3月28日に[バンダイ](../Page/バンダイ.md "wikilink")より発売された[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。3Dアクションゲーム。
+    2002年3月28日に[バンダイ](../Page/バンダイ.md "wikilink")より発売された[PlayStation 2用ソフト](../Page/PlayStation_2.md "wikilink")。3Dアクションゲーム。
   - 『PROJECT ARMS』
     2012年11月30日から[enish](https://ja.wikipedia.org/wiki/enish "wikilink")と[小学館集英社プロダクション](../Page/小学館集英社プロダクション.md "wikilink")により[GREE](https://ja.wikipedia.org/wiki/GREE "wikilink")で提供された。ソーシャルゲーム。
 

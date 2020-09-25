@@ -1,12 +1,12 @@
 > この記事は[Ever17 -the out of infinity-](https://ja.wikipedia.org/wiki/Ever17_-the_out_of_infinity-)から翻訳されています。
 
 
-『**Ever17 -the out of infinity-**』（エバーセブンティーン ジ・アウト・オブ・インフィニティ）は、[2002年](../Page/2002年.md "wikilink")[8月29日](../Page/8月29日.md "wikilink")に[KIDより](../Page/KID_\(ゲームブランド\).md "wikilink")[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")と[PlayStation 2で発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。内容は[SFアドベンチャーであり](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")、公式サイトでは「[シナリオ](https://ja.wikipedia.org/wiki/シナリオ "wikilink")に仕掛けられた謎の全貌を解き明かすことがゲームの目的」という旨のゲーム紹介がある。
+『**Ever17 -the out of infinity-**』（エバーセブンティーン ジ・アウト・オブ・インフィニティ）は、[2002年](../Page/2002年.md "wikilink")[8月29日](../Page/8月29日.md "wikilink")に[KIDより](../Page/KID_\(ゲームブランド\).md "wikilink")[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")と[PlayStation 2で発売された](../Page/PlayStation_2.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。内容は[SFアドベンチャーであり](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")、公式サイトでは「[シナリオ](https://ja.wikipedia.org/wiki/シナリオ "wikilink")に仕掛けられた謎の全貌を解き明かすことがゲームの目的」という旨のゲーム紹介がある。
 
 ## 歴史
 
   - Ever17 -the out of infinity-（原作版）
-    [2002年](../Page/2002年.md "wikilink")[8月29日](../Page/8月29日.md "wikilink")、[ドリームキャスト](../Page/ドリームキャスト.md "wikilink") (DC) 版と[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") (PS2) 版が発売。
+    [2002年](../Page/2002年.md "wikilink")[8月29日](../Page/8月29日.md "wikilink")、[ドリームキャスト](../Page/ドリームキャスト.md "wikilink") (DC) 版と[PlayStation 2](../Page/PlayStation_2.md "wikilink") (PS2) 版が発売。
   - Ever17 -the out of infinity- Premium Edition（改良版）
     [2003年](../Page/2003年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")、PC版 (CD-ROM) が発売。CGが追加されている。
     2003年[11月27日](../Page/11月27日.md "wikilink")、DC版（全年齢対象）およびPS2版（[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")15歳以上対象）が発売。

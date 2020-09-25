@@ -37,7 +37,7 @@
 
 [2016年](../Page/2016年.md "wikilink")（平成28年）、出産\[6\]。
 
-[2017年](../Page/2017年.md "wikilink")（平成29年）、[新潟県中越沖地震](../Page/新潟県中越沖地震.md "wikilink")10周年合同追悼式（主催:[柏崎市](../Page/柏崎市.md "wikilink")、[刈羽村](../Page/刈羽村.md "wikilink")）にて追悼献歌を行った。
+[2017年](../Page/2017年.md "wikilink")（平成29年）、[新潟県中越沖地震](../Page/新潟県中越沖地震.md "wikilink")10周年合同追悼式（主催:[柏崎市](../Page/柏崎市.md "wikilink")、[刈羽村](../Page/刈羽村.md "wikilink")）にて追悼献歌を行った。[2017年](../Page/2017年.md "wikilink")から、tontontonプロジェクトの一環として動物をテーマとしたアルバムをコキア印にてリリースしている\[7\]。
 
 ## 日本国外での人気・活動
 
@@ -47,9 +47,9 @@
 
 [2002年](../Page/2002年.md "wikilink")（平成14年）にはアルバム『[trip trip](https://ja.wikipedia.org/wiki/trip_trip "wikilink")』収録曲の「a gift」が[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")全土の[スバル](https://ja.wikipedia.org/wiki/スバル "wikilink")のテレビCMソングに起用された。また、[サントリー](../Page/サントリー.md "wikilink")[烏龍茶](../Page/烏龍茶.md "wikilink")のCM曲を書き下ろし、[中国](../Page/中国.md "wikilink")[上海で放送される](../Page/上海市.md "wikilink")。中国では、アルバム『trip trip』にこの曲を収録した特別バージョンが発売される。
 
-[2006年](../Page/2006年.md "wikilink")（平成18年）は音楽の国際見本市である[MIDEM](https://ja.wikipedia.org/wiki/MIDEM "wikilink")（[カンヌ](../Page/カンヌ.md "wikilink")）に、[Rin'](../Page/Rin'.md "wikilink")や[Rie fuらとともに出演](../Page/Rie_fu.md "wikilink")。フランスではアルバム『aigakikoeru』が日本盤に先駆けて発売された。また、[2006年](../Page/2006年.md "wikilink")・[2007年](../Page/2007年.md "wikilink")は[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")で、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")でライブを行った。特に[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")のパリ公演ではおよそ1,800人を動員し、フランスでも人気を確立しつつある\[7\]。
+[2006年](../Page/2006年.md "wikilink")（平成18年）は音楽の国際見本市である[MIDEM](https://ja.wikipedia.org/wiki/MIDEM "wikilink")（[カンヌ](../Page/カンヌ.md "wikilink")）に、[Rin'](../Page/Rin'.md "wikilink")や[Rie fuらとともに出演](../Page/Rie_fu.md "wikilink")。フランスではアルバム『aigakikoeru』が日本盤に先駆けて発売された。また、[2006年](../Page/2006年.md "wikilink")・[2007年](../Page/2007年.md "wikilink")は[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")で、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")でライブを行った。特に[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")のパリ公演ではおよそ1,800人を動員し、フランスでも人気を確立しつつある\[8\]。
 
-2008年（平成20年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")には、「MUSIC GIFT」プロジェクトと称して、「Remember the kiss」（[ブルックリンの教会で](../Page/ブルックリン区.md "wikilink")、地元のゴスペル聖歌隊と共に収録した英語バージョン）を収録したCDを、[ニューヨーク](../Page/ニューヨーク.md "wikilink")で1万枚、[サンタクロース](../Page/サンタクロース.md "wikilink")の衣装を着て、無料で配布した\[8\]。
+2008年（平成20年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")には、「MUSIC GIFT」プロジェクトと称して、「Remember the kiss」（[ブルックリンの教会で](../Page/ブルックリン区.md "wikilink")、地元のゴスペル聖歌隊と共に収録した英語バージョン）を収録したCDを、[ニューヨーク](../Page/ニューヨーク.md "wikilink")で1万枚、[サンタクロース](../Page/サンタクロース.md "wikilink")の衣装を着て、無料で配布した\[9\]。
 
 [2009年](../Page/2009年.md "wikilink")（平成21年）には、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")・[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ポーランド](../Page/ポーランド.md "wikilink")・[アイルランド](../Page/アイルランド.md "wikilink")でのライブを行った。ワールドツアーで複数の国で公演を行うのは2回目。
 
@@ -71,7 +71,7 @@
 
 大のエクアドル産[バナナ](https://ja.wikipedia.org/wiki/バナナ "wikilink")好きである。エクアドル産にこだわりを持ち、ラジオ番組では産地を明かされない状態の複数のバナナを出される中、食べ比べてエクアドル産バナナを言い当てた。
 
-幼少時より[スキー](../Page/スキー.md "wikilink")に親しみ、[SIA検定シルバークラスを取得した](../Page/日本職業スキー教師協会.md "wikilink")\[9\]。
+幼少時より[スキー](../Page/スキー.md "wikilink")に親しみ、[SIA検定シルバークラスを取得した](../Page/日本職業スキー教師協会.md "wikilink")\[10\]。
 
 ## ディスコグラフィ
 
@@ -229,7 +229,7 @@ VICL-35943（通常盤）</p></td>
 <tr class="even">
 <td><p>15th</p></td>
 <td><p>2007年3月16日</p></td>
-<td><p><strong>ありがとう…(the pearl edition)</strong>  [10]</p></td>
+<td><p><strong>ありがとう…(the pearl edition)</strong>  [11]</p></td>
 <td><p>VICL-36285</p></td>
 <td><p>139位</p></td>
 <td></td>
@@ -238,7 +238,7 @@ VICL-35943（通常盤）</p></td>
 <tr class="odd">
 <td><p>-</p></td>
 <td><p>2007年9月16日</p></td>
-<td><p><strong>私にできること</strong> [11]</p></td>
+<td><p><strong>私にできること</strong> [12]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -670,7 +670,7 @@ VOH-002（通常盤）</p></td>
 <tr class="even">
 <td><p>-</p></td>
 <td><p>2009年3月18日</p></td>
-<td><p><strong>AKIKO∞KOKIA 〜balance〜</strong>[12]</p>
+<td><p><strong>AKIKO∞KOKIA 〜balance〜</strong>[13]</p>
 <div class="NavFrame" style="clear:both;border:0">
 <div class="NavHead" style="text-align:left">
 </div>
@@ -807,6 +807,67 @@ VICL-64012（通常盤）</p></td>
 <td><p>VIZL-796（初回盤）<br />
 VICL-64312（通常盤）</p></td>
 <td><p>36位</p></td>
+</tr>
+<tr class="odd">
+<td><p>12th</p></td>
+<td><p>2018年4月25日</p></td>
+<td><p><strong>Tokyo Mermaid</strong></p>
+<div class="NavFrame" style="clear:both;border:0">
+<div class="NavHead" style="text-align:left">
+</div>
+<div class="NavContent" style="text-align:left">
+<ol>
+<li>お化けが怖いなんて</li>
+<li>Hello</li>
+<li>天気がいい ビール飲もう</li>
+<li>Aliens 〜宇宙人わかりました〜</li>
+<li>Nipponjin</li>
+<li>笑えない話</li>
+<li>ピエロの夢</li>
+<li>私の中の獣</li>
+<li>精霊の舞 ~Dance of the Spirit</li>
+<li>tori</li>
+<li>FURUSATO 〜故郷〜</li>
+<li>言葉の向こう側</li>
+<li>音のアルバム</li>
+<li>最後の眠り</li>
+</ol>
+</div>
+</div></td>
+<td><p>VICL-64986（通常盤）</p></td>
+<td><p>59位</p></td>
+</tr>
+</tbody>
+</table>
+
+#### 動物アルバム
+
+<table>
+<thead>
+<tr class="header">
+<th><p>枚</p></th>
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1st</p></td>
+<td><p>2017年</p></td>
+<td><p><strong>Animal CD vol.1</strong></p>
+<div class="NavFrame" style="clear:both;border:0"></td>
+</tr>
+<tr class="even">
+<td><p>2nd</p></td>
+<td><p>2018年</p></td>
+<td><p><strong>Animal CD vol.2</strong></p>
+<div class="NavFrame" style="clear:both;border:0"></td>
+</tr>
+<tr class="odd">
+<td><p>3rd</p></td>
+<td><p>2020年</p></td>
+<td><p><strong>Animal CD vol.3</strong></p>
+<div class="NavFrame" style="clear:both;border:0"></td>
 </tr>
 </tbody>
 </table>
@@ -1043,7 +1104,7 @@ VICL-63509</p></td>
 <td><p>2nd</p></td>
 <td><p>2016年4月</p></td>
 <td><p><strong>Watching from Above</strong></p></td>
-<td></td>
+<td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
 </tbody>
@@ -1112,16 +1173,16 @@ VICL-63509</p></td>
 | 発売日        | タイトル                                               | 順位   |
 | ---------- | -------------------------------------------------- | ---- |
 | 2006年2月1日  | **Jewel 〜The Best Video Collection〜**              | 100位 |
-| 2007年5月5日  | **Live in Paris 2007 les couleurs de Paris**\[13\] |      |
+| 2007年5月5日  | **Live in Paris 2007 les couleurs de Paris**\[14\] |      |
 | 2008年7月16日 | **The VOICE 〜10th anniversary concert〜**           | 48位  |
-| 2009年7月22日 | **KOKIA world tour 2009「∞」Infinity**\[14\]         |      |
+| 2009年7月22日 | **KOKIA world tour 2009「∞」Infinity**\[15\]         |      |
 | 2009年9月23日 | **Wherever I am 〜world tour 2009 in Europe〜**      | 86位  |
 | 2010年8月1日  | **oto no tabi bito KOKIA concert tour 2010**       |      |
-| 2011年      | *' momentのmoment*'\[15\]                           |      |
-| 2011年9月14日 | **The 5th season concert**\[16\]                   |      |
-| 2012年3月7日  | **music like a prayer**\[17\]                      |      |
-| 2012年8月31日 | **history**\[18\]                                  |      |
-| 2013年9月10日 | **COLOR OF LIFE**\[19\]                            |      |
+| 2011年      | *' momentのmoment*'\[16\]                           |      |
+| 2011年9月14日 | **The 5th season concert**\[17\]                   |      |
+| 2012年3月7日  | **music like a prayer**\[18\]                      |      |
+| 2012年8月31日 | **history**\[19\]                                  |      |
+| 2013年9月10日 | **COLOR OF LIFE**\[20\]                            |      |
 
 ### 参加作品
 
@@ -1141,10 +1202,10 @@ VICL-63509</p></td>
 | 紅〜願い                                     |                                    |                                                                                                         |
 | 菫〜陽と共に                                   |                                    |                                                                                                         |
 | 白〜私達の響き                                  |                                    |                                                                                                         |
-| 2008年10月6日                               | Demon's Souls                      | Original Soundtrack「[Demon's Souls](https://ja.wikipedia.org/wiki/Demon's_Souls "wikilink")」\[20\]      |
+| 2008年10月6日                               | Demon's Souls                      | Original Soundtrack「[Demon's Souls](https://ja.wikipedia.org/wiki/Demon's_Souls "wikilink")」\[21\]      |
 | Return to Slumber                        |                                    |                                                                                                         |
 | 2009年8月14日                               | あなたと出逢って                           | [“文学少女”と夢現の旋律](https://ja.wikipedia.org/wiki/“文学少女”シリーズ#CD "wikilink")                                  |
-| 2009年10月21日                              | 祈り†                                | [高垣彩陽](../Page/高垣彩陽.md "wikilink") come across フェルト・グレイス「祈り†／Justice」\[21\]                             |
+| 2009年10月21日                              | 祈り†                                | [高垣彩陽](../Page/高垣彩陽.md "wikilink") come across フェルト・グレイス「祈り†／Justice」\[22\]                             |
 | Justice                                  |                                    |                                                                                                         |
 | 2010年1月27日                               | EXEC_REBIRTHIA=PROTOCOL/.         | 咲夜琉命 〜Ar tonelicoIII hymmnos concert side. 蒼〜                                                           |
 | EXEC_COSMOFLIPS/.                       |                                    |                                                                                                         |
@@ -1382,18 +1443,19 @@ VICL-63509</p></td>
 4.  [「私たちの想い」が視聴できます。赤十字社員課広報係](http://www.osaka.jrc.or.jp/news/event/data/638.html)
 5.  [1](http://www.kokia.com/blog/2014/2014-1.html)
 6.  [2](http://www.kokia.com/blog/2016/post-1167.html)
-7.  [KOKIA : フランス、ベルギー…欧州でKOKIA人気拡大 / BARKS ニュース](http://www.barks.jp/news/?id=1000038856)
-8.  2008年11月26日の本人ブログ、週刊NY生活No.235・2008年12月13日号の4面。
-9.  [世界を包むぬくもり系ボイス ＫＯＫＩＡさんもSTOCKLI](http://www.vist.co.jp/stockli/2011/01/-stockli.html)
-10. ベストアルバム『pearl 〜The Best Collection〜』から「ありがとう… (the pearl edition)」を[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")、[カップリング](https://ja.wikipedia.org/wiki/カップリング "wikilink")曲として「歌う人」も収録。
-11. [柏崎市](../Page/柏崎市.md "wikilink")、[柏崎コミュニティ](https://ja.wikipedia.org/wiki/柏崎コミュニティ "wikilink")放送通信、神保町ブックフェスティバル限定販売。
-12. 配信およびオフィシャルサイト限定販売。
-13. オフィシャルサイト限定発売。
-14.
+7.  [2017年9月6日の本人ブログ](http://www.kokia.com/blog/2017/ton-ton-ton.html)
+8.  [KOKIA : フランス、ベルギー…欧州でKOKIA人気拡大 / BARKS ニュース](http://www.barks.jp/news/?id=1000038856)
+9.  2008年11月26日の本人ブログ、週刊NY生活No.235・2008年12月13日号の4面。
+10. [世界を包むぬくもり系ボイス ＫＯＫＩＡさんもSTOCKLI](http://www.vist.co.jp/stockli/2011/01/-stockli.html)
+11. ベストアルバム『pearl 〜The Best Collection〜』から「ありがとう… (the pearl edition)」を[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")、[カップリング](https://ja.wikipedia.org/wiki/カップリング "wikilink")曲として「歌う人」も収録。
+12. [柏崎市](../Page/柏崎市.md "wikilink")、[柏崎コミュニティ](https://ja.wikipedia.org/wiki/柏崎コミュニティ "wikilink")放送通信、神保町ブックフェスティバル限定販売。
+13. 配信およびオフィシャルサイト限定販売。
+14. オフィシャルサイト限定発売。
 15.
 16.
 17.
 18.
 19.
-20. 北米版、DeluxeEdition特典。
-21. 作詞、作曲を手掛けている。
+20.
+21. 北米版、DeluxeEdition特典。
+22. 作詞、作曲を手掛けている。

@@ -33,7 +33,7 @@
 
 [2005年](../Page/2005年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")、『Fate/stay night』ファンディスク『[Fate/hollow ataraxia](https://ja.wikipedia.org/wiki/Fate/hollow_ataraxia "wikilink")』が発売。
 
-[2006年](../Page/2006年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink")、初のコンシューマーゲームとして [PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『MELTY BLOOD Act Cadenza』が発売。
+[2006年](../Page/2006年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink")、初のコンシューマーゲームとして [PlayStation 2版](../Page/PlayStation_2.md "wikilink")『MELTY BLOOD Act Cadenza』が発売。
 
 [2007年](../Page/2007年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")、PlayStation 2版『Fate/stay night \[Realta Nua\]』が発売。
 
@@ -79,7 +79,7 @@
   - MELTY BLOOD Re・ACT Final Tuned（2005年）\[2\]
       - PCゲーム。『MELTY BLOOD』の追加ディスク。修正ファイル自体はインターネット上でダウンロード可能であるが、こちらのジャケットは武内崇の描きおろし。
   - MELTY BLOOD Act Cadenza（2005年、販売：[エコールソフトウェア](../Page/エコールソフトウェア.md "wikilink")）
-      - アーケードゲーム。『Re・ACT』に新キャラクターを追加し、バランス調整を施したもの。後に[PS2版も発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+      - アーケードゲーム。『Re・ACT』に新キャラクターを追加し、バランス調整を施したもの。後に[PS2版も発売された](../Page/PlayStation_2.md "wikilink")。
   - MELTY BLOOD Act Cadenza Ver.B（2006年、販売：エコールソフトウェア）
       - PCゲーム。PS2版をベースに調整された『Ver.B』をWindowsに移植したもの。タッグバトルなどの要素が追加されている。
   - MELTY BLOOD Actress Again（2008年、販売：エコールソフトウェア）

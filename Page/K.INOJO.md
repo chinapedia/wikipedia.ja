@@ -61,7 +61,7 @@
 
 <!-- end list -->
 
-  - [バーチャファイター2](../Page/バーチャファイター2.md "wikilink")「[セガサターン](../Page/セガサターン.md "wikilink")版/[プレイステーション2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")」「[Dancing Shadows](https://www.amazon.co.jp/Virtua-Fighter-2-Dancing-Shadows/dp/B00005GO32)」
+  - [バーチャファイター2](../Page/バーチャファイター2.md "wikilink")「[セガサターン](../Page/セガサターン.md "wikilink")版/[プレイステーション2版](../Page/PlayStation_2.md "wikilink")」「[Dancing Shadows](https://www.amazon.co.jp/Virtua-Fighter-2-Dancing-Shadows/dp/B00005GO32)」
 
 <!-- end list -->
 

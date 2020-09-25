@@ -5,8 +5,8 @@
 
 ## メンバー
 
-  - Vo.KEN（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[3月15日](../Page/3月15日.md "wikilink")-[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）
-  - Gu.KOHEI（[1979年](../Page/1979年.md "wikilink")[5月2日](../Page/5月2日.md "wikilink")-[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）
+  - Vo.KEN（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[3月15日](../Page/3月15日.md "wikilink")-[B型](../Page/ABO式血液型.md "wikilink")）
+  - Gu.KOHEI（[1979年](../Page/1979年.md "wikilink")[5月2日](../Page/5月2日.md "wikilink")-[A型](../Page/ABO式血液型.md "wikilink")）
   - Ba.DAIKI（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[7月27日](../Page/7月27日.md "wikilink")-[O型](https://ja.wikipedia.org/wiki/O型 "wikilink")）
   - Dr.SEISHIN（[1977年](../Page/1977年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink")-[AB型](https://ja.wikipedia.org/wiki/AB型 "wikilink")）
 

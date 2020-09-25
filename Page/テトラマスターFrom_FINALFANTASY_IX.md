@@ -5,7 +5,7 @@
 
 ## 概要
 
-[Windowsと](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") (PS2) で遊べる、『FFIX』の世界観と「クアッドミスト」を発展させた[プレイオンライン](https://ja.wikipedia.org/wiki/プレイオンライン "wikilink")対応[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")。それぞれ別ソフトに同梱されているため単品での購入は不可能、そしてソフトの本命である『FFXI』や『[FMO](https://ja.wikipedia.org/wiki/フロントミッションオンライン "wikilink")』と同時プレイができない事もあり、会員IDがやや伸び悩んでいる。初期はFFIXの絵柄しかなかったが、イベント等の追加で『[FFX](../Page/ファイナルファンタジーX.md "wikilink")』のキャラクターカードも増えた。
+[Windowsと](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[PlayStation 2](../Page/PlayStation_2.md "wikilink") (PS2) で遊べる、『FFIX』の世界観と「クアッドミスト」を発展させた[プレイオンライン](https://ja.wikipedia.org/wiki/プレイオンライン "wikilink")対応[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")。それぞれ別ソフトに同梱されているため単品での購入は不可能、そしてソフトの本命である『FFXI』や『[FMO](https://ja.wikipedia.org/wiki/フロントミッションオンライン "wikilink")』と同時プレイができない事もあり、会員IDがやや伸び悩んでいる。初期はFFIXの絵柄しかなかったが、イベント等の追加で『[FFX](../Page/ファイナルファンタジーX.md "wikilink")』のキャラクターカードも増えた。
 
 ### 収録パッケージ
 

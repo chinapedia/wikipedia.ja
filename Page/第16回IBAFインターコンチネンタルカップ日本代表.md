@@ -149,7 +149,7 @@
 <td><p>捕手</p></td>
 <td><p>22</p></td>
 <td><p><a href="../Page/高谷裕亮.md" title="wikilink">高谷裕亮</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/白鷗大学" title="wikilink">白鷗大学</a></p></td>
+<td><p><a href="../Page/白鷗大学.md" title="wikilink">白鷗大学</a></p></td>
 <td><p>右</p></td>
 <td><p>左</p></td>
 <td><p>のち福岡ソフトバンクホークス</p></td>

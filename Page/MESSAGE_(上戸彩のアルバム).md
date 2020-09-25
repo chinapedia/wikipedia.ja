@@ -22,7 +22,7 @@
 2.  **[贈る言葉](../Page/贈る言葉.md "wikilink")**
       -
         作詞：[武田鉄矢](../Page/武田鉄矢.md "wikilink")、作曲：[千葉和臣](../Page/千葉和臣.md "wikilink")、編曲：[Sin](https://ja.wikipedia.org/wiki/Sin_\(音楽プロデューサー\) "wikilink")
-        [PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[3年B組金八先生 伝説の教壇に立て\!](../Page/3年B組金八先生_伝説の教壇に立て!.md "wikilink") 』主題歌
+        [PS2](../Page/PlayStation_2.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[3年B組金八先生 伝説の教壇に立て\!](../Page/3年B組金八先生_伝説の教壇に立て!.md "wikilink") 』主題歌
         [海援隊のカバー曲](../Page/海援隊_\(フォークグループ\).md "wikilink")。シングル「[風/贈る言葉](https://ja.wikipedia.org/wiki/風_\(上戸彩の曲\) "wikilink")」としてリカットされた。
 3.  **[MESSAGE 〜album version〜](https://ja.wikipedia.org/wiki/MESSAGE/PERSONAL "wikilink")**
       -

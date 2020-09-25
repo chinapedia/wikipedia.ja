@@ -5,7 +5,7 @@
 
 ## 歴史
 
-DFBポカールの前身は[1935年](../Page/1935年.md "wikilink")から[1943年](../Page/1943年.md "wikilink")まで行われていた**チャンマーポカール**(*Tschammerpokal*)、正式名称**フォン・チャンマー・ウント・オステン・ポカール**(*von Tschammer und Osten Pokal*)。スポーツ指導者委員会長官[ハンス・フォン・チャンマー・ウント・オステン](https://ja.wikipedia.org/wiki/ハンス・フォン・チャンマー・ウント・オステン "wikilink")の名を冠していた。
+DFBポカールの前身は[1935年](../Page/1935年.md "wikilink")から[1943年](../Page/1943年.md "wikilink")まで行われていた**チャンマーポカール**(*Tschammerpokal*)、正式名称**フォン・チャンマー・ウント・オステン・ポカール**(*von Tschammer und Osten Pokal*)。スポーツ指導者委員会長官の名を冠していた。
 
 [第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")による10年の中断を挟んで、[1952年](../Page/1952年.md "wikilink")に[西ドイツサッカー連盟(DFB)によってDFBポカールの名称で再開されて現在に至る](https://ja.wikipedia.org/wiki/ドイツサッカー連盟 "wikilink")。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")以降の決勝戦は毎年[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")の[オリンピアシュタディオンで開催されている](../Page/ベルリン・オリンピアシュタディオン.md "wikilink")。
 

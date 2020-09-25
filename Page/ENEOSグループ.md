@@ -753,7 +753,7 @@ JX日鉱日石シッピング株式会社</p></td>
 <tr class="odd">
 <td><p>JX不動産株式会社</p></td>
 <td><p>横浜市中区</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/不動産" title="wikilink">不動産</a>の売買、賃貸借及び管理</p></td>
+<td><p><a href="../Page/不動産.md" title="wikilink">不動産</a>の売買、賃貸借及び管理</p></td>
 <td><p>新日石不動産株式会社<br />
 日鉱不動産株式会社<br />
 JOMOエンタープライズ株式会社の不動産事業部門</p></td>

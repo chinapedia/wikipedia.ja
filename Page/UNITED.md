@@ -35,7 +35,7 @@
 
 ## 来歴
 
-[1981年](../Page/1981年.md "wikilink")結成。旧知の仲である原（G、marchan)と塚原（Dr、Yasu)が、様々な音楽に価値観を同じくしたことが結成のきっかけとなった。中里（G)、OZ（B)、NAO（V）の加入により、UNITEDとして活動を開始。当初は[ジューダス・プリースト](../Page/ジューダス・プリースト.md "wikilink")のコピーバンドであり、他に[ブラック・サバス](../Page/ブラック・サバス.md "wikilink")、[オジー・オズボーン](../Page/オジー・オズボーン.md "wikilink")等を演奏していた。その後、原（G)、中里（G)、塚原（D)の3人が中心となりオリジナル曲の作曲も重ね、翌年より本格的に開始したライブ活動では、オリジナル曲が殆どで、コピー曲は主にアンコールで演奏していた。当時のヘヴィメタルバンドとしては友好関係が大変珍しく、当時結成間もない[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")（メンバー6人の頃）や東京ローズとも親交を持ち、お互いのライブにも行き来していた。
+[1981年](../Page/1981年.md "wikilink")結成。旧知の仲である原（G、marchan)と塚原（Dr、Yasu)が、様々な音楽に価値観を同じくしたことが結成のきっかけとなった。中里（G)、OZ（B)、NAO（V）の加入により、UNITEDとして活動を開始。当初は[ジューダス・プリースト](../Page/ジューダス・プリースト.md "wikilink")のコピーバンドであり、他に[ブラック・サバス](../Page/ブラック・サバス.md "wikilink")、[オジー・オズボーン](../Page/オジー・オズボーン.md "wikilink")等を演奏していた。その後、原（G)、中里（G)、塚原（D)の3人が中心となりオリジナル曲の作曲も重ね、翌年より本格的に開始したライブ活動では、オリジナル曲が殆どで、コピー曲は主にアンコールで演奏していた。当時のヘヴィメタルバンドとしては友好関係が大変珍しく、当時結成間もない[BOØWY](../Page/BOØWY.md "wikilink")（メンバー6人の頃）や東京ローズとも親交を持ち、お互いのライブにも行き来していた。
 
 [1982年](../Page/1982年.md "wikilink")、バンドの活動がさらにライブ中心に本格化する中、ベースのOZが突然脱退。数人のベーシストの加入を経て、横山明裕『YOKO』が正式メンバーとなる。
 
@@ -69,7 +69,7 @@
 
 [2003年](../Page/2003年.md "wikilink")、3月にザ・ホーンテッド(The Haunted)の来日サポートを行う。4月には『Hell Breaks Loose Tour 2003』を開催、[Wheel Of Doom](https://ja.wikipedia.org/wiki/Wheel_Of_Doom "wikilink")、[Defame](https://ja.wikipedia.org/wiki/Defame "wikilink")と共に各地を廻る。12月にドラムの中村雄介が脱退する。
 
-[2004年](../Page/2004年.md "wikilink")、4月に新ドラムとして元VacuumのAkiraが加入する。6月に『Hell Breaks Loose Tour 2004』を開催し[Youthquake](https://ja.wikipedia.org/wiki/Youthquake "wikilink")、[Abubaca](https://ja.wikipedia.org/wiki/Abubaca "wikilink")と共に各地を廻る。9月にはエクソダス(Exodus)の来日サポートを行うなど活動も順調だったが、12月にヴォーカルの湯浅が家庭の事情により脱退する。
+[2004年](../Page/2004年.md "wikilink")、4月に新ドラムとして元VacuumのAkiraが加入する。6月に『Hell Breaks Loose Tour 2004』を開催し[YOUTHQUAKE](https://ja.wikipedia.org/wiki/YOUTHQUAKE "wikilink")、[Abubaca](https://ja.wikipedia.org/wiki/Abubaca "wikilink")と共に各地を廻る。9月にはエクソダス(Exodus)の来日サポートを行うなど活動も順調だったが、12月にヴォーカルの湯浅が家庭の事情により脱退する。
 
 [2005年](../Page/2005年.md "wikilink")、6月に新ヴォーカルとしてDefameのNobが加入。12月には『METAL BLADE TOUR IN JAPAN』に参加し [インピオス](../Page/インピオス.md "wikilink")　[ザ・ブラック・ダリア・マーダー](https://ja.wikipedia.org/wiki/ザ・ブラック・ダリア・マーダー "wikilink")と共演。その後8thアルバム『Nine』をリリース。
 

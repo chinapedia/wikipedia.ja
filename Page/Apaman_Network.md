@@ -1,7 +1,7 @@
 > この記事は[Apaman Network](https://ja.wikipedia.org/wiki/Apaman_Network)から翻訳されています。
 
 
-**Apaman Network株式会社**（アパマンネットワーク）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に本社を置く不動産賃貸仲介会社。「**アパマンショップ**」のフランチャイズブランドを展開している。
+**Apaman Network株式会社**（アパマンネットワーク）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に本社を置く[不動産](../Page/不動産.md "wikilink")[賃貸](../Page/賃貸.md "wikilink")[仲介](https://ja.wikipedia.org/wiki/仲介 "wikilink")会社。「**アパマンショップ**」のフランチャイズブランドを展開している。
 
 ## 概要
 

@@ -21,7 +21,7 @@
   - [2016年](../Page/2016年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")、スカパー\!プレミアムサービスの衛星一般放送事業者が[スカパー・ブロードキャスティング](../Page/スカパー・ブロードキャスティング.md "wikilink")から[スカパー・エンターテイメント](../Page/スカパー・エンターテイメント.md "wikilink")に変更。
   - [2018年](../Page/2018年.md "wikilink")10月1日、[スカパー\!でもCh](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink").318にて放送を開始（衛星基幹放送事業者は[フジテレビ系列の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[サテライト・サービス](../Page/サテライト・サービス.md "wikilink")）。
   - 現在社名変更により、CJ ENM Japan株式会社となっており、事務所は東京都港区西新橋にある。
-  - また、スカパー\!や一部のIP系TVやケーブルテレビ局ではハイビジョン画質にて放送しており、韓国Mnetが制作した音楽・バラエティ番組はもちろん、[tvN](https://ja.wikipedia.org/wiki/tvN "wikilink")など、それ以外の韓国における姉妹チャンネルが制作したドラマ・バラエティなど、エンターテイメント全般を放送している。ただ、[トゥーニバース](../Page/トゥーニバース.md "wikilink")が自主的に制作した番組に関しては、余り放送されていない。番組編成としては、『tvN Asia』と内容がほぼ近い。また、番組によっては日韓同時生放送もある。視聴料はHDで月額：2,300円（税抜）。
+  - また、スカパー\!や一部のIP系TVやケーブルテレビ局ではハイビジョン画質にて放送しており、韓国Mnetが制作した音楽・バラエティ番組はもちろん、[tvN](https://ja.wikipedia.org/wiki/tvN "wikilink")など、それ以外の韓国における姉妹チャンネルが制作したドラマ・バラエティなど、エンターテイメント全般を放送している。CJ ENMが運営していない他の韓国チャンネルの番組もあるが、tvNが開局する前に積極的に放送しただけで、現在ではCJ ENMのテレビドラマ制作部門である製作番組\[4\]がほとんどである。ただ、[トゥーニバース](../Page/トゥーニバース.md "wikilink")が自主的に制作した番組に関しては、余り放送されていない。番組編成としては、『tvN Asia』と内容がほぼ近い。また、番組によっては日韓同時生放送もある。視聴料はHDで月額：2,300円（税抜）。
 
 ## 主な番組
 
@@ -54,7 +54,7 @@
 | 2017年 1月 – 2019年 1月                                       | *Move me, move the world, moveMnet*    |                   |
 | 2018年 6月 – 2019年 1月                                       | Mnet makes new K-pop star & trends     |                   |
 | 2019年 1月 – 2020年 1月                                       | We Are K-POP                           |                   |
-| 2020年 1月 –                                                | *Music Network, M.net\!*               |                   |
+| 2020年 1月 –                                                | *Music Network, Mnet\!*                |                   |
 
 ## 出典
 
@@ -70,6 +70,7 @@
 
 [Category:スカパー\!のチャンネル](https://ja.wikipedia.org/wiki/Category:スカパー!のチャンネル "wikilink") [Category:韓国のテレビ局](https://ja.wikipedia.org/wiki/Category:韓国のテレビ局 "wikilink")
 
-1.  [m.net紹介](http://web.archive.org/web/20010121214100/http://www.mnetjapan.com/mnetjapan/mnetjapan.htm)（旧公式サイト、[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+1.  [m.net紹介](https://web.archive.org/web/20010121214100/http://www.mnetjapan.com/mnetjapan/mnetjapan.htm)（旧公式サイト、[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 2.
-3.  [エム・ネットを愛して頂いた視聴者のみなさまへ](http://web.archive.org/web/20020225143812/http://www.mnet737.com/news/read.asp?id=6&page=1&table=bbs_news)（旧公式サイト掲示板、2002年1月9日、インターネット・アーカイブ）
+3.  [エム・ネットを愛して頂いた視聴者のみなさまへ](https://web.archive.org/web/20020225143812/http://www.mnet737.com/news/read.asp?id=6&page=1&table=bbs_news)（旧公式サイト掲示板、2002年1月9日、インターネット・アーカイブ）
+4.  『』など、日本初放送が当局ではないスタジオドラゴン制作番組もある。これは、[KBS2週末連続ドラマの枠そのものの日本初放送権を](https://ja.wikipedia.org/wiki/KBS第2テレビジョン "wikilink")『[KBSワールド](https://ja.wikipedia.org/wiki/KBSワールド "wikilink")』が有しているためである。

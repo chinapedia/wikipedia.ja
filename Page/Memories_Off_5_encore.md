@@ -1,7 +1,7 @@
 > この記事は[Memories Off 5 encore](https://ja.wikipedia.org/wiki/Memories_Off_5_encore)から翻訳されています。
 
 
-『**Memories Off \#5 encore**』（メモリーズオフ ファイヴ アンコール）は、[2007年](../Page/2007年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink")に[サイバーフロント](../Page/サイバーフロント.md "wikilink")より[PlayStation 2向けで発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。『[Memories Off \#5 とぎれたフィルム](../Page/Memories_Off_5_とぎれたフィルム.md "wikilink")』の後日談である。
+『**Memories Off \#5 encore**』（メモリーズオフ ファイヴ アンコール）は、[2007年](../Page/2007年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink")に[サイバーフロント](../Page/サイバーフロント.md "wikilink")より[PlayStation 2向けで発売された](../Page/PlayStation_2.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。『[Memories Off \#5 とぎれたフィルム](../Page/Memories_Off_5_とぎれたフィルム.md "wikilink")』の後日談である。
 
 ## ストーリー (そして始まる僕らのアンコール)
 

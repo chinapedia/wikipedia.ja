@@ -78,8 +78,8 @@ G1からG4まで4つの遺伝子型が報告されているが、豚から検出
 
   - [WHO hepatitis E factsheet(世界保健機関(WHO)によるE型肝炎概況報告書・英語)](http://www.who.int/mediacentre/factsheets/fs280/en/)
   - 厚生労働省
-      - [食肉を介するＥ型肝炎ウイルス感染事例について 通知](http://www.mhlw.go.jp/houdou/2003/08/h0819-2.html)
-      - [食肉を介するＥ型肝炎ウイルス感染事例について Q\&A](http://www.mhlw.go.jp/houdou/2003/08/h0819-2a.html)
+      - [食肉を介するＥ型肝炎ウイルス感染事例について 通知](https://www.mhlw.go.jp/houdou/2003/08/h0819-2.html)
+      - [食肉を介するＥ型肝炎ウイルス感染事例について Q\&A](https://www.mhlw.go.jp/houdou/2003/08/h0819-2a.html)
   - [急性ウイルス性肝炎](http://merckmanuals.jp/home/肝臓と胆嚢の病気/肝炎/急性ウイルス性肝炎.html) メルクマニュアル 家庭版
 
 [Category:ウイルス感染症](https://ja.wikipedia.org/wiki/Category:ウイルス感染症 "wikilink") [Category:ウイルス性肝炎](https://ja.wikipedia.org/wiki/Category:ウイルス性肝炎 "wikilink") [Category:輸入感染症](https://ja.wikipedia.org/wiki/Category:輸入感染症 "wikilink") [Category:食中毒](https://ja.wikipedia.org/wiki/Category:食中毒 "wikilink")

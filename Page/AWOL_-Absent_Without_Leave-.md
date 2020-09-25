@@ -84,6 +84,6 @@
 
 ## 外部リンク
 
-  - [TV アニメ エイウォール](http://www.allcinema.net/prog/show_c.php?num_c=88853) -
+  - [TV アニメ エイウォール](https://www.allcinema.net/cinema/88853) -
 
 [Category:アニメ作品_え](https://ja.wikipedia.org/wiki/Category:アニメ作品_え "wikilink") [Category:1998年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1998年のテレビアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:テレビ東京の深夜アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京の深夜アニメ "wikilink") [Category:スタジオディーン](https://ja.wikipedia.org/wiki/Category:スタジオディーン "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:SFアニメ](https://ja.wikipedia.org/wiki/Category:SFアニメ "wikilink")

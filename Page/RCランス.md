@@ -146,13 +146,15 @@
 
 <!-- end list -->
 
-  - [フィリップ・モンタニエ](https://ja.wikipedia.org/wiki/フィリップ・モンタニエ "wikilink")
+  - [フランク・エズ](https://ja.wikipedia.org/wiki/フランク・エズ "wikilink")
 
 ※17番は、[マルク・ヴィヴィアン・フォエ](https://ja.wikipedia.org/wiki/マルク・ヴィヴィアン・フォエ "wikilink")を偲んで永久欠番。
 
 ### レンタル移籍
 
 in
+
+out
 
 ## 歴代監督
 
@@ -182,7 +184,9 @@ in
 
   - [エリック・シコラ](https://ja.wikipedia.org/wiki/エリック・シコラ "wikilink") 2017-2018
 
-  - [フィリップ・モンタニエ](https://ja.wikipedia.org/wiki/フィリップ・モンタニエ "wikilink") 2018-
+  - [フィリップ・モンタニエ](https://ja.wikipedia.org/wiki/フィリップ・モンタニエ "wikilink") 2018-2020
+
+  - [フランク・エズ](https://ja.wikipedia.org/wiki/フランク・エズ "wikilink") 2020-
 
 ## 歴代所属選手
 

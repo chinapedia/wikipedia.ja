@@ -19,7 +19,7 @@
       - [ディップスイッチ](../Page/ディップスイッチ.md "wikilink")（DIP switch） - [電子回路](../Page/電子回路.md "wikilink")等に使用する小型の設定用[スイッチ](../Page/スイッチ.md "wikilink")
   - 遠位指節間関節（Distal interphalangeal joint） - [手](../Page/手.md "wikilink")の第一[関節](../Page/関節.md "wikilink")
   - [デジタル画像処理](../Page/デジタル画像処理.md "wikilink") (Digital image processing) -
-  - [Android](../Page/Android.md "wikilink")端末の画面デザインにおいて、物理的な解像度に依存しない（density-independent pixels）仮想ピクセル（[画素](https://ja.wikipedia.org/wiki/画素 "wikilink")）を設定できる。
+  - [Android端末の画面デザインにおいて](../Page/Android_\(オペレーティングシステム\).md "wikilink")、物理的な解像度に依存しない（density-independent pixels）仮想ピクセル（[画素](https://ja.wikipedia.org/wiki/画素 "wikilink")）を設定できる。
   - De-Inked Pulp - [古紙](../Page/古紙.md "wikilink")を原料とする[パルプ](../Page/パルプ.md "wikilink")を脱墨したもの。[再生紙](https://ja.wikipedia.org/wiki/再生紙 "wikilink")の原料となる。
   - Debtor in possession - 主に、倒産時の経営陣が倒産手続において引き続き経営することを指す法律用語。[民事再生法](../Page/民事再生法.md "wikilink")・[会社更生法](../Page/会社更生法.md "wikilink")
   - Drip Infusion Pyelography - 点滴静注腎盂造影

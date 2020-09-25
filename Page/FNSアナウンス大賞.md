@@ -226,7 +226,7 @@ FNS系列各局のアナウンサーの資質向上を目的に[1985年](https:/
 <td><p><a href="../Page/馬場鉄志.md" title="wikilink">馬場鉄志</a><br />
 （関西テレビ）</p></td>
 <td><p><a href="../Page/第66回菊花賞.md" title="wikilink">第66回菊花賞</a>実況中継</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/武井正晴" title="wikilink">武井正晴</a><br />
+<td><p><a href="../Page/武井正晴.md" title="wikilink">武井正晴</a><br />
 （東海テレビ）</p></td>
 </tr>
 <tr class="odd">

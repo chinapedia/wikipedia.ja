@@ -1,7 +1,7 @@
 > この記事は[RADIO JAPAN onSunday](https://ja.wikipedia.org/wiki/RADIO_JAPAN_onSunday)から翻訳されています。
 
 
-**RADIO JAPAN on Sunday**（レディオ・ジャパン・オン・サンデー）は[2002年](../Page/2002年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")まで、[JFNが製作するRADIO](../Page/全国FM放送協議会.md "wikilink") JAPANの日曜版。タイトルこそ「**RADIO JAPAN**」（レディオジャパン）だが、[土曜版と区別するためか](../Page/RADIO_JAPAN.md "wikilink")、番組や[ステッカーでは](https://ja.wikipedia.org/wiki/ジングル "wikilink")、「**RADIO JAPAN onSunday**」と呼ばれている。後番組は『[梶原しげるのNEXT ONE](../Page/梶原しげるのNEXT_ONE.md "wikilink")』。
+**RADIO JAPAN on Sunday**（レディオ・ジャパン・オン・サンデー）は[2002年](../Page/2002年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")まで、[JFN系列で放送されていた](../Page/全国FM放送協議会.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[RADIO JAPANの日曜版](../Page/RADIO_JAPAN.md "wikilink")。タイトルこそ「**RADIO JAPAN**」（レディオジャパン）だが、[土曜版と区別するためか](../Page/RADIO_JAPAN.md "wikilink")、番組や[ステッカーでは](https://ja.wikipedia.org/wiki/ジングル "wikilink")、「**RADIO JAPAN onSunday**」と呼ばれている。後番組は『[梶原しげるのNEXT ONE](../Page/梶原しげるのNEXT_ONE.md "wikilink")』。
 
 ## パーソナリティ
 
@@ -239,7 +239,7 @@
   - [レディオ・ジャパン・オン・サンデー](http://www2.jfn.co.jp/rj/sunday)
   - [本村由紀子のおいしい話](http://blog.sonymusic.co.jp/motomura/)（番組内で告知していた、彼女のブログ）
 
-[Category:2002年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のラジオ番組_\(日本\) "wikilink") [Category:JFNCの番組の歴史](https://ja.wikipedia.org/wiki/Category:JFNCの番組の歴史 "wikilink") [Category:ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ラジオの情報・ワイドショー番組 "wikilink")
+[Category:2002年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のラジオ番組_\(日本\) "wikilink") [Category:JFNCの番組の歴史](https://ja.wikipedia.org/wiki/Category:JFNCの番組の歴史 "wikilink") [Category:JFN系ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの情報・ワイドショー番組 "wikilink")
 
 1.  終了後、「[天使のモーニングコール](../Page/天使のモーニングコール.md "wikilink")」をネット。
 2.  放送開始 - 2005年3月は6:00 - 8:30、2005年4月 - 2006年4月16日は6:00 - 8:55にそれぞれ放送していた。

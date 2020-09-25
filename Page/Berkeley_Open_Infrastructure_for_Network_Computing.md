@@ -1,7 +1,7 @@
 > この記事は[Berkeley Open Infrastructure for Network Computing](https://ja.wikipedia.org/wiki/Berkeley_Open_Infrastructure_for_Network_Computing)から翻訳されています。
 
 
-**Berkeley Open Infrastructure for Network Computing** (バークレー・オープン・インフラストラクチャ・フォー・ネットワーク・コンピューティング) (**BOINC**, 発音  – "oink"と韻を踏む\[1\]) は、と[グリッド・コンピューティング](../Page/グリッド・コンピューティング.md "wikilink")のための[オープンソース](../Page/オープンソース.md "wikilink")の[ミドルウェア](../Page/ミドルウェア.md "wikilink")・システムである。もともとはSETI@homeプロジェクトをサポートするために開発されたが、数学、言語学、医学、分子生物学、気候学、環境科学、宇宙物理学などの多様な分野で、他の[分散アプリケーションのためのプラットフォームとして一般化された](../Page/分散コンピューティング.md "wikilink")\[2\]。BOINCは、研究者が世界中の複数の[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")の膨大なを利用できるようにすることを目的としている。
+**Berkeley Open Infrastructure for Network Computing** (バークレー・オープン・インフラストラクチャ・フォー・ネットワーク・コンピューティング) (**BOINC**, 発音  – "oink"と韻を踏む\[1\]) は、[ボランティア・コンピューティング](../Page/ボランティア・コンピューティング.md "wikilink")と[グリッド・コンピューティング](../Page/グリッド・コンピューティング.md "wikilink")のための[オープンソース](../Page/オープンソース.md "wikilink")の[ミドルウェア](../Page/ミドルウェア.md "wikilink")・システムである。もともとはSETI@homeプロジェクトをサポートするために開発されたが、数学、言語学、医学、分子生物学、気候学、環境科学、宇宙物理学などの多様な分野で、他の[分散アプリケーションのためのプラットフォームとして一般化された](../Page/分散コンピューティング.md "wikilink")\[2\]。BOINCは、研究者が世界中の複数の[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")の膨大なを利用できるようにすることを目的としている。
 
 BOINCの開発は、[カリフォルニア大学バークレー校](../Page/カリフォルニア大学バークレー校.md "wikilink")の (SSL) に拠点を置き、SETI@homeのリーダーでもある(David Anderson)が率いるチームから始まった。高性能分散コンピューティング・プラットフォームとして、BOINCは、2020年3月17日時点で、世界中の約137,805人のアクティブな参加者と791,443台のアクティブなコンピュータ (ホスト) を集め、平均41.548ペタ[フロップス](https://ja.wikipedia.org/wiki/フロップス "wikilink")で処理する\[3\] (スーパーコンピュータ[TOP500](https://ja.wikipedia.org/wiki/TOP500 "wikilink")リスト上の個々のスーパーコンピュータと比較した場合、世界で5番目に大きな処理能力となる)。[全米科学財団](../Page/アメリカ国立科学財団.md "wikilink") (NSF) は、SCI/0221529\[4\]、SCI/0438443\[5\]、SCI/0721124\[6\]の各賞を通じてBOINCに資金を提供している。[ギネス世界記録](../Page/ギネス世界記録.md "wikilink")では、BOINCは世界最大の計算グリッドとしてランク付けしている\[7\]。
 
@@ -521,6 +521,7 @@ ClimatePrediction.netの[BBC協賛版](../Page/英国放送協会.md "wikilink")
   - [分散コンピューティング](../Page/分散コンピューティング.md "wikilink")
   - [cell computing βirth](../Page/Cell_computing.md "wikilink")
   - [World Community Grid](../Page/World_Community_Grid.md "wikilink")
+  - [Rosetta@home](https://ja.wikipedia.org/wiki/Rosetta@home "wikilink")
 
 ## 外部リンク
 

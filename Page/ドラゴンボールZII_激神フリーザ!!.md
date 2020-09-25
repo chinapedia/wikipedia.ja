@@ -97,7 +97,7 @@
 #### 攻撃・攻撃補助系
 
   - じいちゃん
-    敵一体の行動を一ターン封じる。
+    敵1体の行動を1ターン封じる。
   - エンマさま
     手持ちのカードの中から1枚を選んで、その星の数を「Z」にすることができる。
   - 占いババ
@@ -442,8 +442,7 @@
 
 ## 外部リンク
 
-  - （英語）
-
+  -
 [Category:1991年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1991年のファミリーコンピュータ用ソフト "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:ドラゴンボールのゲーム](https://ja.wikipedia.org/wiki/Category:ドラゴンボールのゲーム "wikilink")
 
 1.

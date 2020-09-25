@@ -194,9 +194,9 @@ Baratte、Lechantre、Sommerlynck、1950年に獲得したCor van der Hartなど
 
 </div>
 
-  - 2020年9月1日現在
+  - 2020年9月4日現在
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ★   (副主将)    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Haiti.svg "wikilink")) ★   ★  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))    ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cabo_Verde.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_São_Tomé_and_Príncipe.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Comoros.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))  ★
+★   (副主将)    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Haiti.svg "wikilink")) ★   ★  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))    ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cabo_Verde.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_São_Tomé_and_Príncipe.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Comoros.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))  ★
 
 ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 

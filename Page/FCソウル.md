@@ -54,7 +54,7 @@
 
 ### 2004年-2008年（2004年 FCソウルに改名）
 
-  - [2004年](../Page/2004年.md "wikilink"):本拠地をソウルに移転し、同時に「FCソウル」と改称。6月から運営が[LGグループ](../Page/LGグループ.md "wikilink")から分離した[GSグループ](https://ja.wikipedia.org/wiki/GSグループ "wikilink")へ移管。リーグ総合5位。
+  - [2004年](../Page/2004年.md "wikilink"):本拠地をソウルに移転し、同時に「FCソウル」と改称。6月から運営が[LGグループ](../Page/LGグループ.md "wikilink")から分離した[GSグループ](../Page/GSグループ.md "wikilink")へ移管。リーグ総合5位。
     [2005年](../Page/2005年.md "wikilink"):注目の若手フォワードである[朴主永](../Page/朴主永.md "wikilink")を[高麗大学に在籍したまま加入させた](../Page/高麗大学校.md "wikilink")2005年途中からは観客動員数は飛躍的に伸び、ホーム戦どころかアウェイで遠征したクラブ（[釜山や](../Page/釜山アイパーク.md "wikilink")[光州](https://ja.wikipedia.org/wiki/光州尚武フェニックス "wikilink")）の最多動員記録に貢献することになった。リーグ総合6位、ハウゼンカップ5位。
     [2006年](../Page/2006年.md "wikilink"):リーグ総合3位、カップ大会優勝、[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")と親善試合（入場者61235人）
     [2007年](../Page/2007年.md "wikilink"):ハウゼンカップ準優勝、リーグ総合7位、プロスポーツ史上最多観客動員数達成（55,397人、４月8日 vs 水原）

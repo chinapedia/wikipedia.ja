@@ -39,22 +39,22 @@
   - The Bishop Murder Case, 1929
       - 『[僧正殺人事件](../Page/僧正殺人事件.md "wikilink")』 武田晃訳 新樹社 1950年
       - 『僧正殺人事件』 井上勇訳 東京創元社 1956年 のち文庫
-      - 『僧正殺人事件』 [中村能三](https://ja.wikipedia.org/wiki/中村能三 "wikilink")訳　新潮文庫 1959年
-      - 『僧正殺人事件』 [宇野利泰](https://ja.wikipedia.org/wiki/宇野利泰 "wikilink")訳　世界推理名作全集 第7 [中央公論社](https://ja.wikipedia.org/wiki/中央公論社 "wikilink") 1960年 のち文庫、嶋中文庫
+      - 『僧正殺人事件』 [中村能三](https://ja.wikipedia.org/wiki/中村能三 "wikilink")訳 新潮文庫 1959年
+      - 『僧正殺人事件』 [宇野利泰](https://ja.wikipedia.org/wiki/宇野利泰 "wikilink")訳 世界推理名作全集 第7 [中央公論社](https://ja.wikipedia.org/wiki/中央公論社 "wikilink") 1960年 のち文庫、嶋中文庫
       - 『僧正殺人事件』 [鈴木幸夫訳](https://ja.wikipedia.org/wiki/鈴木幸夫_\(英文学者\) "wikilink") 角川文庫 1961年 のち旺文社文庫
-      - 『僧正殺人事件』 [平井呈一](../Page/平井呈一.md "wikilink")訳　世界推理小説大系 7 講談社 1972年 のち文庫
-      - 『僧正殺人事件』 日暮雅通訳　[集英社文庫](../Page/集英社文庫.md "wikilink") 1999年 のち創元推理文庫
+      - 『僧正殺人事件』 [平井呈一](../Page/平井呈一.md "wikilink")訳 世界推理小説大系 7 講談社 1972年 のち文庫
+      - 『僧正殺人事件』 日暮雅通訳 [集英社文庫](../Page/集英社文庫.md "wikilink") 1999年 のち創元推理文庫
   - The Scarab Murder Case, 1930
       - 『甲虫殺人事件』 [森下雨村](https://ja.wikipedia.org/wiki/森下雨村 "wikilink")、山村不二訳 [新潮社](../Page/新潮社.md "wikilink") 1931年
       - 『カブト虫殺人事件』 井上勇訳 東京創元社 1959年 のち文庫
-      - 『甲虫殺人事件』 [能島武文](https://ja.wikipedia.org/wiki/能島武文 "wikilink")訳 新潮文庫 1960年 （本訳書は甲虫を「こうちゅう」と読ませる）
+      - 『甲虫殺人事件』 [能島武文](https://ja.wikipedia.org/wiki/能島武文 "wikilink")訳 新潮文庫 1960年（本訳書は甲虫を「こうちゅう」と読ませる）
   - The Kennel Murder Case, 1931
       - 『ケンネル殺人事件』 [延原謙](../Page/延原謙.md "wikilink")訳 [早川書房](../Page/早川書房.md "wikilink") 1954年
       - 『ケンネル殺人事件』 井上勇訳 東京創元社 1958年 のち文庫
   - The Dragon Murder Case, 1933
       - 『ドラゴン殺人事件』 杉公平訳 芸術社 1956年
       - 『ドラゴン殺人事件』 宇野利泰訳 早川書房 1956年
-      - 『ドラゴン殺人事件』 井上勇訳　創元推理文庫、1960年
+      - 『ドラゴン殺人事件』 井上勇訳 創元推理文庫、1960年
   - The Casino Murder Case\[4\], 1934
       - 『カジノ殺人事件』 杉公平訳 芸術社 1956年
       - 『カシノ殺人事件』 井上勇訳 創元推理文庫 1960年
@@ -76,7 +76,7 @@
 
 #### 短編
 
-  - 『ファイロ・ヴァンスの犯罪事件簿』 （日本で独自に編纂された短編集） [論創社](../Page/論創社.md "wikilink")、2007年
+  - 『ファイロ・ヴァンスの犯罪事件簿』（日本で独自に編纂された短編集） [論創社](../Page/論創社.md "wikilink")、2007年
       - The Scarlet Nemesis 「ジェルメーヌ・ベルトン事件」
       - A Murder in a Witches' Cauldron 「フランツィスカ・プルシャ事件 」
       - The Man in the Blue Overcoat 「ヤロスジンスキー事件 」
@@ -127,7 +127,7 @@
 ### リレー長編
 
   - The President's Mystery Plot, 1935
-      - 『大統領のミステリ』（大杜淑子訳　ハヤカワ・ミステリ文庫(早川書房)、1984年） [フランクリン・ルーズベルト](../Page/フランクリン・ルーズベルト.md "wikilink")の提出したプロットをもとに6人の作家が書き継ぐ（のちに[E・S・ガードナー](../Page/E・S・ガードナー.md "wikilink")が改訂）。
+      - 『大統領のミステリ』（大杜淑子訳 ハヤカワ・ミステリ文庫(早川書房)、1984年） [フランクリン・ルーズベルト](../Page/フランクリン・ルーズベルト.md "wikilink")の提出したプロットをもとに6人の作家が書き継ぐ（のちに[E・S・ガードナー](../Page/E・S・ガードナー.md "wikilink")が改訂）。
 
 ### 普通小説（ミステリ以外の長編）
 
@@ -135,7 +135,7 @@
 
 ### 評論
 
-  - 探偵小説論 （1926年）
+  - 探偵小説論（1926年）
   - 推理小説二十則\[10\]（1928年） **[ヴァン・ダインの二十則](../Page/ヴァン・ダインの二十則.md "wikilink")**として日本でも有名。
 
 ## 脚注
@@ -143,7 +143,7 @@
 ## 外部リンク
 
   - [Biography](http://www.classiccrimefiction.com/vandinebiog.htm)
-  - Contemporary Biography: [Biography](http://www.geocities.com/louisebrookssociety/vandine-bio.html)
+  - Contemporary Biography:
   - Bio and Work Analysis: [Biography](http://members.aol.com/MG4273/vandine.htm)
   - Bibliography of UK first Editions: [Bibliography](http://www.classiccrimefiction.com/ssvandinebib.htm)
 

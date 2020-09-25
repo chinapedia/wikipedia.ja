@@ -16,7 +16,7 @@
   - [2013年](../Page/2013年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink") - [DRAMAtical Murder re:connect](https://ja.wikipedia.org/wiki/DRAMAtical_Murder "wikilink")
   - [2017年](../Page/2017年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink") - [THE CHiRAL NIGHT rhythm carnival](https://ja.wikipedia.org/wiki/THE_CHiRAL_NIGHT_rhythm_carnival "wikilink")
   - [2018年](../Page/2018年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink") - [sweet pool リマスター版](https://ja.wikipedia.org/wiki/sweet_pool "wikilink")
-  - [2020年](../Page/2020年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - [スロウ・ダメージ](https://ja.wikipedia.org/wiki/スロウ・ダメージ "wikilink")\[1\]
+  - [2021年](../Page/2021年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink") - [スロウ・ダメージ](https://ja.wikipedia.org/wiki/スロウ・ダメージ "wikilink")\[1\]
 
 ## スタッフ
 

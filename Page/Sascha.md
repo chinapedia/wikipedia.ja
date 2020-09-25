@@ -1,7 +1,7 @@
 > この記事は[Sascha](https://ja.wikipedia.org/wiki/Sascha)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Sascha-summersonic-august16-2015.jpg "wikilink") **サッシャ**（Sascha [1976年](../Page/1976年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink") - ）は、[ラジオDJ](../Page/ディスクジョッキー.md "wikilink")、[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")。[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ヘッセン州](../Page/ヘッセン州.md "wikilink")生まれ。本名は**Sascha Boeckle** （ザッシャ・ベックレ）、血液型は[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Sascha-summersonic-august16-2015.jpg "wikilink") **サッシャ**（Sascha [1976年](../Page/1976年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink") - ）は、[ラジオDJ](../Page/ディスクジョッキー.md "wikilink")、[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")。[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ヘッセン州](../Page/ヘッセン州.md "wikilink")生まれ。本名は**Sascha Boeckle** （ザッシャ・ベックレ）、血液型は[B型](../Page/ABO式血液型.md "wikilink")。
 
 ## 来歴・人物
 
@@ -39,6 +39,7 @@
   - [F3](https://ja.wikipedia.org/wiki/フォーミュラ3 "wikilink") 世界一決定戦 〜[マカオGP](../Page/マカオグランプリ.md "wikilink")～ ([BSフジ](../Page/BSフジ.md "wikilink")) - 実況（2016 - ）
   - [ズームイン\!\!サタデー](../Page/ズームイン!!サタデー.md "wikilink")（日本テレビ、2019年4月6日 - ） - サブ司会・スポーツコーナー担当
   - [モーニングCROSS](https://ja.wikipedia.org/wiki/モーニングCROSS "wikilink")（[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")） - コメンテーター、金曜に不定期出演
+  - [ハクション大魔王2020](https://ja.wikipedia.org/wiki/ハクション大魔王#ゲストキャラクター "wikilink")　第18話（2020年9月5日、[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")） - サッシャ（本人役）\[12\]\[13\]\[14\]
 
 ### ラジオ番組
 
@@ -62,7 +63,7 @@
 
 ### 映画
 
-  - [風立ちぬ](https://ja.wikipedia.org/wiki/風立ちぬ_\(2013年の映画\) "wikilink")（2013年） - 声の出演（2役）、ドイツ語指導\[12\]
+  - [風立ちぬ](https://ja.wikipedia.org/wiki/風立ちぬ_\(2013年の映画\) "wikilink")（2013年） - 声の出演（2役）、ドイツ語指導\[15\]
 
 ### 参加CD
 
@@ -81,12 +82,14 @@
   - Sound Horizon 第一次領土復興遠征（2011年7月 - 9月、[ALSOKホール](../Page/広島県立文化芸術ホール.md "wikilink")・[愛知県芸術劇場](../Page/愛知県芸術劇場.md "wikilink")・[神戸国際会館](../Page/神戸国際会館.md "wikilink")・[大阪城ホール](../Page/大阪城ホール.md "wikilink")、[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")）
   - Sound Horizon Revo's Halloween Party（2013年10月26日、[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")）
   - Sound Horizon 9th Story Concert 「Nein」 〜西洋骨董屋根裏堂へようこそ〜（2015年4月 - 5月、3会場全11公演）
-  - 新感覚\!スペクタクルステージ『THE★JINRO』－イケメン人狼アイドルは誰だ\!\!－（2020年6月30日〜7月5日、[新宿シアターモリエール](../Page/新宿シアターモリエール.md "wikilink")）\[13\]
+  - 新感覚\!スペクタクルステージ『THE★JINRO』－イケメン人狼アイドルは誰だ\!\!－（2020年6月30日〜7月5日、[新宿シアターモリエール](../Page/新宿シアターモリエール.md "wikilink")）\[16\]
 
 ### CM
 
   - [オーディオテクニカ](../Page/オーディオテクニカ.md "wikilink") -　ナレーション、サウンドロゴ
   - [ひかりTV](https://ja.wikipedia.org/wiki/ひかりTV "wikilink")
+
+## 注釈
 
 ## 出典
 
@@ -117,5 +120,8 @@
 9.  [【前編】「第一志望は叶わなかった」・サッシャ | ページ 2 / 2 | マネたま](https://www.manetama.jp/report/sascha-1/2/#next2)
 10.
 11.
-12.
+12. 本人が作中の登場人物としてゲスト出演している。
 13.
+14.
+15.
+16.

@@ -1,7 +1,7 @@
 > この記事は[Zoey](https://ja.wikipedia.org/wiki/Zoey)から翻訳されています。
 
 
-**ZOEY**（ゾーイ [1984年](../Page/1984年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[歌手](../Page/歌手.md "wikilink")。[兵庫県](../Page/兵庫県.md "wikilink")[芦屋市](https://ja.wikipedia.org/wiki/芦屋市 "wikilink")出身、[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**ZOEY**（ゾーイ [1984年](../Page/1984年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[歌手](../Page/歌手.md "wikilink")。[兵庫県](../Page/兵庫県.md "wikilink")[芦屋市](https://ja.wikipedia.org/wiki/芦屋市 "wikilink")出身、[血液型は](../Page/ABO式血液型.md "wikilink")[O型](../Page/ABO式血液型.md "wikilink")。
 
 ## プロフィール
 

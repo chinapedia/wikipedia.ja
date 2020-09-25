@@ -15,7 +15,7 @@
 
 **藤田 大吾**（ふじた だいご、 - ）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")
 
-  - [福岡県](../Page/福岡県.md "wikilink")出身、[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")
+  - [福岡県](../Page/福岡県.md "wikilink")出身、[血液型はB型](../Page/ABO式血液型.md "wikilink")
   - 小倉小学校卒、思永中学校卒、[福岡県立小倉南高等学校](../Page/福岡県立小倉南高等学校.md "wikilink")卒
 
 **佐藤 帆乃佳**（さとう ほのか、 - ）[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")

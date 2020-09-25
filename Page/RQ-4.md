@@ -103,8 +103,6 @@ RQ-4B調達数
 
 ## 仕様
 
-[250px](https://ja.wikipedia.org/wiki/ファイル:Rq-4a-2.png "wikilink")
-
   - RQ-4A
 
 :\*全長：13.52m

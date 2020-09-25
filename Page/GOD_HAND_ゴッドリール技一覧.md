@@ -1,7 +1,7 @@
 > この記事は[GOD HAND ゴッドリール技一覧](https://ja.wikipedia.org/wiki/GOD_HAND_ゴッドリール技一覧)から翻訳されています。
 
 
-**GOD HAND ゴッドリール技一覧**（ゴッドハンド ゴッドリールわざいちらん）では、[クローバースタジオ](../Page/クローバースタジオ.md "wikilink")の[PlayStation 2専用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[GOD HAND](../Page/GOD_HAND.md "wikilink")』のゴッドリール技について紹介する。
+**GOD HAND ゴッドリール技一覧**（ゴッドハンド ゴッドリールわざいちらん）では、[クローバースタジオ](../Page/クローバースタジオ.md "wikilink")の[PlayStation 2専用ソフト](../Page/PlayStation_2.md "wikilink")『[GOD HAND](../Page/GOD_HAND.md "wikilink")』のゴッドリール技について紹介する。
 
 ## 概要
 

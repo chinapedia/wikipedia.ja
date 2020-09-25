@@ -14,7 +14,7 @@
 ### 春
 
   - [土田世紀](../Page/土田世紀.md "wikilink") 「未成年」 (1987年 四季賞)
-  - [髙橋ツトム](https://ja.wikipedia.org/wiki/髙橋ツトム "wikilink") 「GOTAVOICE」 (1987年 春準入選)
+  - [髙橋ツトム](../Page/髙橋ツトム.md "wikilink") 「GOTAVOICE」 (1987年 春準入選)
   - [松本大洋](../Page/松本大洋.md "wikilink") 「STRAIGHT」 (1987年 秋準入選)
   - [入江紀子](../Page/入江紀子.md "wikilink") 「猫の手貸します」 (1987年 冬四季大賞)
   - [太田垣康男](../Page/太田垣康男.md "wikilink") 「Roninハートブレイク！」 (1988年 夏佳作)

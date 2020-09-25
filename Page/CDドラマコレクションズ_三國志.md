@@ -78,7 +78,7 @@
   - **[関羽](https://ja.wikipedia.org/wiki/関羽 "wikilink")雲長**：[堀秀行](../Page/堀秀行.md "wikilink")
   - **[張飛](../Page/張飛.md "wikilink")翼徳**：[玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink")
   - **[趙雲](../Page/趙雲.md "wikilink")子龍**：[草尾毅](../Page/草尾毅.md "wikilink")
-  - [龐統](https://ja.wikipedia.org/wiki/龐統 "wikilink")士元：[古川登志夫](../Page/古川登志夫.md "wikilink")
+  - [龐統](../Page/龐統.md "wikilink")士元：[古川登志夫](../Page/古川登志夫.md "wikilink")
   - [馬超](../Page/馬超.md "wikilink")孟起：[神谷明](../Page/神谷明.md "wikilink")
   - [黄忠](../Page/黄忠.md "wikilink")漢升：[青野武](../Page/青野武.md "wikilink")
   - [魏延](../Page/魏延.md "wikilink")文長：[田中亮一](../Page/田中亮一.md "wikilink")
@@ -102,12 +102,12 @@
 ### 魏
 
   - **[曹操](../Page/曹操.md "wikilink")孟徳**：[銀河万丈](../Page/銀河万丈.md "wikilink")
-  - [荀彧](https://ja.wikipedia.org/wiki/荀彧 "wikilink")文若：[難波圭一](../Page/難波圭一.md "wikilink")
+  - [荀彧](../Page/荀彧.md "wikilink")文若：[難波圭一](../Page/難波圭一.md "wikilink")
   - [司馬懿](../Page/司馬懿.md "wikilink")仲達：[納谷六朗](../Page/納谷六朗.md "wikilink")
   - [夏侯惇](../Page/夏侯惇.md "wikilink")元譲：[佐藤正治](../Page/佐藤正治_\(声優\).md "wikilink")
   - [張遼](../Page/張遼.md "wikilink")文遠：[田中秀幸](../Page/田中秀幸_\(声優\).md "wikilink")
-  - [程昱](https://ja.wikipedia.org/wiki/程昱 "wikilink")仲徳：[増田有宏](https://ja.wikipedia.org/wiki/増田有宏 "wikilink")
-  - [賈詡](https://ja.wikipedia.org/wiki/賈詡 "wikilink")文和：[戸谷公次](../Page/戸谷公次.md "wikilink")
+  - [程昱](../Page/程昱.md "wikilink")仲徳：[増田有宏](https://ja.wikipedia.org/wiki/増田有宏 "wikilink")
+  - [賈詡](../Page/賈詡.md "wikilink")文和：[戸谷公次](../Page/戸谷公次.md "wikilink")
   - [郭嘉](../Page/郭嘉.md "wikilink")奉孝：[二又一成](../Page/二又一成.md "wikilink")
   - [曹丕](../Page/曹丕.md "wikilink")子桓：[檜山修之](../Page/檜山修之.md "wikilink")
   - [曹仁](../Page/曹仁.md "wikilink")子孝：[真地勇志](../Page/真地勇志.md "wikilink")
@@ -115,7 +115,7 @@
   - [曹叡](../Page/曹叡.md "wikilink")元仲：[阪口大助](../Page/阪口大助.md "wikilink")
   - [典韋](../Page/典韋.md "wikilink")：[立木文彦](../Page/立木文彦.md "wikilink")
   - [徐庶](../Page/徐庶.md "wikilink")元直：[中原茂](../Page/中原茂.md "wikilink")
-  - [蒋幹](../Page/蒋幹.md "wikilink")子翼：[田中和実](../Page/田中和実.md "wikilink")
+  - [蔣幹](../Page/蔣幹.md "wikilink")子翼：[田中和実](../Page/田中和実.md "wikilink")
 
 ### 呉
 
@@ -127,7 +127,7 @@
   - [魯粛](../Page/魯粛.md "wikilink")子敬：[遠藤武](../Page/遠藤武_\(声優\).md "wikilink")
   - [諸葛瑾](../Page/諸葛瑾.md "wikilink")子瑜：[平野正人](../Page/平野正人.md "wikilink")
   - [張昭](../Page/張昭.md "wikilink")子布：[池水通洋](../Page/池水通洋.md "wikilink")
-  - [闞沢](https://ja.wikipedia.org/wiki/闞沢 "wikilink")徳潤：[大倉正章](../Page/大倉正章.md "wikilink")
+  - [闞沢](../Page/闞沢.md "wikilink")徳潤：[大倉正章](../Page/大倉正章.md "wikilink")
   - [太史慈](../Page/太史慈.md "wikilink")子義：[梁田清之](../Page/梁田清之.md "wikilink")
   - [黄蓋](../Page/黄蓋.md "wikilink")公覆：[菅谷勇](../Page/菅谷勇.md "wikilink")
   - [丁奉](../Page/丁奉.md "wikilink")承淵：[田中一成](../Page/田中一成.md "wikilink")

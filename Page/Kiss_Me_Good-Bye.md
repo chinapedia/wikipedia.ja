@@ -9,7 +9,7 @@
 
 楽曲のキャッチコピーは『あなたが愛した人は、誰ですか?』。
 
-[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")制作[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ファイナルファンタジーXII](https://ja.wikipedia.org/wiki/ファイナルファンタジーXII "wikilink")』挿入歌として起用された。
+[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")制作[PlayStation 2用ゲームソフト](../Page/PlayStation_2.md "wikilink")『[ファイナルファンタジーXII](https://ja.wikipedia.org/wiki/ファイナルファンタジーXII "wikilink")』挿入歌として起用された。
 
 なお、アンジェラ作品としては唯一[UMDでプロモーションビデオが発売された作品であり](../Page/ユニバーサル・メディア・ディスク.md "wikilink")、自身最初の映像メディアとなった作品でもある。
 

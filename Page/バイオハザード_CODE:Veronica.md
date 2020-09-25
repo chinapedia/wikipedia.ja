@@ -224,7 +224,7 @@
 
 :: 初回限定版は超豪華「レッドケース」と特殊カラー使用のピクチャーレーベル仕様で、タイトル画面も限定版オリジナルである。また、予約特典としてロックフォート刑務所受刑者用メタルプレートが配布された。
 
-:; 『バイオハザード CODE：Veronica 完全版』（ドリームキャスト、[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）[2001年](../Page/2001年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")発売
+:; 『バイオハザード CODE：Veronica 完全版』（ドリームキャスト、[PlayStation 2](../Page/PlayStation_2.md "wikilink")）[2001年](../Page/2001年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")発売
 
 :: イベントシーンなどが追加された。
 

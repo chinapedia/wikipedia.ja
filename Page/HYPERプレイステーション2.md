@@ -1,7 +1,7 @@
 > この記事は[HYPERプレイステーション2](https://ja.wikipedia.org/wiki/HYPERプレイステーション2)から翻訳されています。
 
 
-『**HYPERプレイステーション2**』（ハイパープレイステーションツー）は、[1994年](../Page/1994年.md "wikilink")12月より[2006年](../Page/2006年.md "wikilink")6月まで[ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")（現[エムオン・エンタテインメント](https://ja.wikipedia.org/wiki/エムオン・エンタテインメント "wikilink")）が刊行していた[PlayStationおよび](../Page/PlayStation_\(ゲーム機\).md "wikilink")[PlayStation 2の専門](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")（[2000年](../Page/2000年.md "wikilink")より誌名に「2」を追加）。月刊ながら[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")のオフィシャル誌であった。[2000年](../Page/2000年.md "wikilink")から月2回刊となった時期があったが、程なく月刊の発刊体制に戻っている。
+『**HYPERプレイステーション2**』（ハイパープレイステーションツー）は、[1994年](../Page/1994年.md "wikilink")12月より[2006年](../Page/2006年.md "wikilink")6月まで[ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")（現[エムオン・エンタテインメント](https://ja.wikipedia.org/wiki/エムオン・エンタテインメント "wikilink")）が刊行していた[PlayStationおよび](../Page/PlayStation_\(ゲーム機\).md "wikilink")[PlayStation 2の専門](../Page/PlayStation_2.md "wikilink")[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")（[2000年](../Page/2000年.md "wikilink")より誌名に「2」を追加）。月刊ながら[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")のオフィシャル誌であった。[2000年](../Page/2000年.md "wikilink")から月2回刊となった時期があったが、程なく月刊の発刊体制に戻っている。
 
 創刊当初より[ゲームクリエイター](../Page/ゲームクリエイター.md "wikilink")のインタビュー記事などの「読ませる」記事に重点を置いて作成され、特に創刊直前の号ではPlayStationの設計やマーケティングに携わった人物へのインタビュー記事にかなりのページ数を割くなど、速報性よりも記事の内容の濃さを優先した誌面作りで、競合誌が週刊・隔週刊化される中、基本的に月刊での発刊ペースを守っていた。PlayStation 2発売以降は、同機種がDVDプレイヤーとしても機能することから、映画などのDVD作品の紹介記事なども掲載されるようになった。
 

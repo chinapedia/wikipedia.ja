@@ -1,7 +1,7 @@
 > この記事は[SEAMO](https://ja.wikipedia.org/wiki/SEAMO)から翻訳されています。
 
 
-**SEAMO**（シーモ、[1975年](../Page/1975年.md "wikilink")（昭和50年）[10月31日](../Page/10月31日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。本名は**高田 尚輝**（たかだ なおき）。作詞・作曲のクレジットは、2枚目のシングル「[DRIVE](https://ja.wikipedia.org/wiki/DRIVE_\(SEAMOの曲\) "wikilink")」までは高田尚輝、3枚目のシングル「[a love story](https://ja.wikipedia.org/wiki/a_love_story_\(SEAMOの曲\) "wikilink")」以降は**"Naoki Takada"**とローマ字表記されている。[NEWSに楽曲提供した](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")[Happy Birthdayだけ](https://ja.wikipedia.org/wiki/Happy_Birthday_\(NEWSの曲\) "wikilink")、作詞、作曲ともにSEAMO名義でクレジットされている。所属事務所は[tearbridge production](https://ja.wikipedia.org/wiki/tearbridge_production "wikilink")。
+**SEAMO**（シーモ、[1975年](../Page/1975年.md "wikilink")（昭和50年）[10月31日](../Page/10月31日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。[血液型はA型](../Page/ABO式血液型.md "wikilink")。本名は**高田 尚輝**（たかだ なおき）。作詞・作曲のクレジットは、2枚目のシングル「[DRIVE](../Page/DRIVE_\(SEAMOの曲\).md "wikilink")」までは高田尚輝、3枚目のシングル「[a love story](https://ja.wikipedia.org/wiki/a_love_story_\(SEAMOの曲\) "wikilink")」以降は**"Naoki Takada"**とローマ字表記されている。[NEWSに楽曲提供した](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")[Happy Birthdayだけ](https://ja.wikipedia.org/wiki/Happy_Birthday_\(NEWSの曲\) "wikilink")、作詞、作曲ともにSEAMO名義でクレジットされている。所属事務所は[tearbridge production](https://ja.wikipedia.org/wiki/tearbridge_production "wikilink")。
 
 [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[一宮市](../Page/一宮市.md "wikilink")出身。[名城大学附属高等学校](../Page/名城大学附属高等学校.md "wikilink")、[愛知学院大学](../Page/愛知学院大学.md "wikilink")文学部宗教学科卒業。
 
@@ -69,7 +69,7 @@
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>2005年<a href="../Page/7月13日.md" title="wikilink">7月13日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/DRIVE_(SEAMOの曲)" title="wikilink">DRIVE</a></strong></p></td>
+<td><p><strong><a href="../Page/DRIVE_(SEAMOの曲).md" title="wikilink">DRIVE</a></strong></p></td>
 <td><p>58位</p></td>
 <td><p><BVCR-19650></p></td>
 </tr>
@@ -724,7 +724,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
 | 楽曲                                                                                                                    | タイアップ                                                                                                                                                                                             |
 | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **[関白](../Page/関白_\(曲\).md "wikilink")**                                                                              | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")」[2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")度テーマ |
-| **[DRIVE](https://ja.wikipedia.org/wiki/DRIVE_\(SEAMOの曲\) "wikilink")**                                               | [中京テレビ](../Page/中京テレビ放送.md "wikilink")・日本テレビ系『[サルヂエ](../Page/サルヂエ.md "wikilink")』エンディングテーマ/中京テレビ・日本テレビ系『[少年チャンプル](../Page/少年チャンプル.md "wikilink")』エンディングテーマ                                        |
+| **[DRIVE](../Page/DRIVE_\(SEAMOの曲\).md "wikilink")**                                                                  | [中京テレビ](../Page/中京テレビ放送.md "wikilink")・日本テレビ系『[サルヂエ](../Page/サルヂエ.md "wikilink")』エンディングテーマ/中京テレビ・日本テレビ系『[少年チャンプル](../Page/少年チャンプル.md "wikilink")』エンディングテーマ                                        |
 | **[マタアイマショウ](../Page/マタアイマショウ.md "wikilink")**                                                                        | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")』エンディングテーマ/オリジナル短編アニメーション｢[東京マーブルチョコレート](../Page/東京マーブルチョコレート.md "wikilink")｣主題歌                        |
 | **[Cry Baby](../Page/Cry_Baby.md "wikilink")**                                                                        | [映画](../Page/映画.md "wikilink")「[クレヨンしんちゃん 嵐を呼ぶ 歌うケツだけ爆弾\!](../Page/クレヨンしんちゃん_嵐を呼ぶ_歌うケツだけ爆弾!.md "wikilink")」[主題歌](../Page/主題歌.md "wikilink")                                                       |
 | **Rising Dragon feat. [2BACKKA](../Page/2BACKKA.md "wikilink")**                                                      | [CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")『[ザ・プロ野球　燃えよドラゴンズ\!](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")』2007年度テーマ曲                                                  |

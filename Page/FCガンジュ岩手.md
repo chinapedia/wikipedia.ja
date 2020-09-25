@@ -387,7 +387,7 @@
 
   - [金子恵](https://ja.wikipedia.org/wiki/金子恵 "wikilink")（2007年）
 
-  - [房哲平](https://ja.wikipedia.org/wiki/房哲平 "wikilink")（2007年）
+  - 房哲平（2007年）
 
   - [吉木健一](https://ja.wikipedia.org/wiki/吉木健一 "wikilink")（2007年）
 

@@ -183,7 +183,7 @@ Image:W51SH.jpg|[W51SH](../Page/W51SH.md "wikilink") Image:W61SH クールブラ
 
 ## AQUOSケータイ・AQUOS K（2015年 - ）
 
-2015年初頭より、各キャリアから[Android](../Page/Android.md "wikilink")をベースとしたOSを搭載した[フィーチャーフォン](https://ja.wikipedia.org/wiki/フィーチャーフォン "wikilink")が販売されることとなったが、AQUOS Kを名乗るau版を除いたシャープ製のAndroidベースのOSを搭載したフィーチャーフォンについて、AQUOSケータイの名称が再び用いられている。ここ数年スペックが固定化していた過去のフィーチャーフォンに比べ、[液晶解像度](https://ja.wikipedia.org/wiki/液晶解像度 "wikilink")がqHD(960×540)であったり、裏面照射型CMOSセンサーが採用されたりと大幅なスペックアップが図られている。
+2015年初頭より、各キャリアから[AndroidをベースとしたOSを搭載した](../Page/Android_\(オペレーティングシステム\).md "wikilink")[フィーチャーフォン](https://ja.wikipedia.org/wiki/フィーチャーフォン "wikilink")が販売されることとなったが、AQUOS Kを名乗るau版を除いたシャープ製のAndroidベースのOSを搭載したフィーチャーフォンについて、AQUOSケータイの名称が再び用いられている。ここ数年スペックが固定化していた過去のフィーチャーフォンに比べ、[液晶解像度](https://ja.wikipedia.org/wiki/液晶解像度 "wikilink")がqHD(960×540)であったり、裏面照射型CMOSセンサーが採用されたりと大幅なスペックアップが図られている。
 
 ### 機種
 

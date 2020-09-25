@@ -480,10 +480,32 @@
 <td><p>16</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFA_U-17欧州選手権2020" title="wikilink">38</a></p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_(2019年)" title="wikilink">新型コロナウイルス感染症の影響で中止</a></p></td>
+<td><p>16</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFA_U-17欧州選手権2021" title="wikilink">39</a></p></td>
+<td><p><a href="../Page/2021年.md" title="wikilink">2021年</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>16</p></td>
+</tr>
 </tbody>
 </table>
 
-## 統計・記録
+## 統計
 
 ### 代表別通算成績
 
@@ -921,11 +943,25 @@
 <td><p><a href="../Page/アミーヌ・グイリ.md" title="wikilink">アミーヌ・グイリ</a></p></td>
 <td><p>8</p></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFA_U-17欧州選手権2018" title="wikilink">2018</a></p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ヨルベ・フェルテッセン" title="wikilink">ヨルベ・フェルテッセン</a><br />
+ <a href="https://ja.wikipedia.org/wiki/エドアルド・ヴェルガーニ" title="wikilink">エドアルド・ヴェルガーニ</a></p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFA_U-17欧州選手権2019" title="wikilink">2019</a></p></td>
+<td></td>
+<td><p><a href="../Page/アディル・アウシシュ.md" title="wikilink">アディル・アウシシュ</a></p></td>
+<td><p>9</p></td>
+</tr>
 </tbody>
 </table>
 
 ## 関連項目
 
+  - [UEFA U-19欧州選手権](../Page/UEFA_U-19欧州選手権.md "wikilink")
   - [UEFA U-17女子選手権](https://ja.wikipedia.org/wiki/UEFA_U-17女子選手権 "wikilink")
 
 ## 外部リンク

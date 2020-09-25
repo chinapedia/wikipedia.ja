@@ -56,7 +56,7 @@
 
 この企画は両雄に接点のある小林が発起しすすめた企画で「桜井が（音楽界の大御所である）桑田さんと共演することで、桜井にもっと成長してほしい」という意図があった。また、小林としては既に桑田サイド（ソロ、サザン含め）の長年のプロデュースから離れた時期でもあり、これが桑田作曲の最後のプロデュースとなっている。
 
-AAAは[AIDS患者救済基金を集めるためのプロジェクトであり](../Page/後天性免疫不全症候群.md "wikilink")、本作の発売はその一環である。ここではプロジェクトとしての概要を説明し、作品としての説明や売り上げの記録は「[奇跡の地球](../Page/奇跡の地球.md "wikilink")」を参照のこと。
+AAAは当時流れていた[エイズに対する誤解と偏見をなくし正しい知識を広めることを目的に設立されたエイズ患者救済基金を集めるためのプロジェクト](../Page/後天性免疫不全症候群.md "wikilink"){{Refnest|group="注"|実際に「\[\[奇跡の地球|奇跡のであり\[1\]、本作の発売はその一環である。ここではプロジェクトとしての概要を説明し、作品としての説明や売り上げの記録は「[奇跡の地球](../Page/奇跡の地球.md "wikilink")」を参照のこと。
 
 シングル「奇跡の地球」発売とそれによるテレビ出演などで活動を終え、「奇跡の地球」自体も1995年6月までの限定生産となっている。その後作品発表などで両者の共演はないが、桑田は「桜井君には勝てない」、[桜井和寿](../Page/桜井和寿.md "wikilink")も桑田をアーティストとして尊敬するコメントを雑誌などのインタビューなどでいくつか残しており、お互い同士を尊敬や讃え合うなど良好な関係が続いている。
 
@@ -64,7 +64,7 @@ AAAは[AIDS患者救済基金を集めるためのプロジェクトであり](.
 
 その後、桑田はサザンオールスターズとして「[マンピーのG★SPOT](../Page/マンピーのG★SPOT.md "wikilink")」で活動を再開、Mr.Childrenもシングルを続けて発売しヒットを飛ばすなど、共にヒットメーカーとして現在でもトップアーティストとして第一線でのセールスと活躍を続けている。桑田のソロ活動は前年の「[祭りのあと](../Page/祭りのあと_\(桑田佳祐の曲\).md "wikilink")」と本作で一旦終了し、その後2001年に7年ぶりに「[波乗りジョニー](../Page/波乗りジョニー.md "wikilink")」でソロ活動を再開した。
 
-Mr.Childrenは同年8月発売のシングル「[シーソーゲーム 〜勇敢な恋の歌〜](../Page/シーソーゲーム_〜勇敢な恋の歌〜.md "wikilink")」の売上金額、アーティスト印税の全てを全額[阪神淡路大震災](https://ja.wikipedia.org/wiki/阪神淡路大震災 "wikilink")の義援金として寄付している。桑田もこの後もほぼ毎年AAAへの出演を続けている。
+Mr.Childrenは同年8月発売のシングル「[シーソーゲーム 〜勇敢な恋の歌〜](../Page/シーソーゲーム_〜勇敢な恋の歌〜.md "wikilink")」の売上金額、アーティスト印税の全てを全額[阪神淡路大震災](https://ja.wikipedia.org/wiki/阪神淡路大震災 "wikilink")の義援金として寄付している。桑田もこの後もAAA活動では単一のテーマに沿ったコンサートを行ったほか、AAA活動と関係のない通常のコンサートにおいてもエイズに関する啓発パンフレットを配布したり、エイズ啓発をテーマにしたグッズの制作・販売及びそこから得た利益を啓発パンフレット・ポスターの制作・教育機関や保健所への発送に充てるなど、役割を果たし終えるまでAAA活動への貢献を続けた\[2\]。また、自身のベストアルバム『[TOP OF THE POPS](../Page/TOP_OF_THE_POPS_\(桑田佳祐のアルバム\).md "wikilink")』の初回出荷分の売り上げ収入や「[奇跡の{{Ruby](../Page/奇跡の地球.md "wikilink")」を始めとした一部収録曲の印税の寄付も行っている\[3\]。
 
 2001年には桜井（サポートとして[ドラムスの](../Page/ドラムセット.md "wikilink")[鈴木英哉](../Page/鈴木英哉.md "wikilink")）が桑田のレギュラー番組『[桑田佳祐の音楽寅さん 〜MUSIC TIGER〜](../Page/桑田佳祐の音楽寅さん_〜MUSIC_TIGER〜.md "wikilink")』にゲスト出演し、[カラオケPRIDE対決と題して共演した](https://ja.wikipedia.org/wiki/桑田佳祐の音楽寅さん_～MUSIC_TIGER～#STAGE_23・24_ミスチル桜井VS寅さん_カラオケPRIDE対決 "wikilink")。それぞれがお互いの持ち歌や他アーティストの楽曲をカラオケで歌い最後には2人で「奇跡の地球」を披露したが、カラオケ機の採点した得点はまさかの39点であった（対決自体は桜井の圧勝に終わっている）。
 
@@ -88,13 +88,23 @@ Mr.Childrenは同年8月発売のシングル「[シーソーゲーム 〜勇敢
   - [ap bank](https://ja.wikipedia.org/wiki/ap_bank "wikilink")
   - [SUPER CHIMPANZEE](../Page/SUPER_CHIMPANZEE.md "wikilink")
 
+## 脚注
+
+### 注釈
+
+### 出典
+
 ## 外部リンク
 
   - [SOUTHERN ALL STARS OFFICIAL SITE](https://southernallstars.jp/)（サザンオールスターズ公式サイト）
-  - [MR.CHILDREN OFFICIAL SITE](http://www.mrchildren.jp/)（Mr.Children公式サイト）
+  - [Mr.Children](http://www.mrchildren.jp/)（Mr.Children公式サイト）
   - [Victor Entertainment](https://www.jvcmusic.co.jp/)（ビクターエンタテインメント公式サイト）
   - [TOY'S FACTORY](https://www.toysfactory.co.jp/)（トイズファクトリー公式サイト）
   - [AMUSE](https://www.amuse.co.jp/)（アミューズ公式サイト）
   - [OORONG-SHA](http://www.oorong-sha.jp/)（烏龍舎公式サイト）
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:桑田佳祐](https://ja.wikipedia.org/wiki/Category:桑田佳祐 "wikilink") [Category:Mr.Children](https://ja.wikipedia.org/wiki/Category:Mr.Children "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:1995年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1995年の日本の音楽 "wikilink")
+
+1.  [＜岸谷五朗・寺脇康文インタビュー＞岸谷「やってきたことは無駄ではなかった。だから今年も開催出来る、開催する、しなきゃいけない、って繋がっていく感じかな。」岸谷五朗と寺脇康文が考えるAct Against AIDS（アクト・アゲインスト・エイズ）「THE VARIETY」（ザ・バラエティー）](http://jaras-web.net/news/music/13305/)JARA 2018年11月18日
+2.  [桑田佳祐、今年はグッズ制作＆販売で「Act Against AIDS 2014」に参加](https://rockinon.com/news/detail/114398) 2016年3月31日閲覧
+3.  [STANDOOH\! AREEENA\!\! C'MOOOON\!\!\!](http://www.jvcmusic.co.jp/what/newrelease/topofthepops.html)

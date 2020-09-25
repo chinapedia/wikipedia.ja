@@ -11,7 +11,7 @@
 
 2007年10月26日に外伝『**√<span style="text-decoration:overline;">after and another</span>**』が発売され、2009年7月31日には『HO』と『√<span style="text-decoration:overline;">after and another</span>』を1本のソフトにまとめた上で新規CGの追加と[Windows Vistaへの対応を行った](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")『**HO √<span style="text-decoration:overline;">after and another</span> Complete Story Edition**』が発売されている。
 
-2008年4月24日には[角川書店](../Page/角川書店.md "wikilink")よりイベントCGが追加された[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**HO+**』（プラス）（[レジスタ開発](../Page/レジスタ_\(ゲーム会社\).md "wikilink")）も発売された。18禁から15歳以上対象となり、Windows版『HO』のメッセージテキストは画面全体に表示される[ビジュアルノベル](../Page/ビジュアルノベル.md "wikilink")形式であったのに対し、PlayStation 2版は画面下部のウィンドウに表示される通常の[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")形式となっている。
+2008年4月24日には[角川書店](../Page/角川書店.md "wikilink")よりイベントCGが追加された[PlayStation 2版](../Page/PlayStation_2.md "wikilink")『**HO+**』（プラス）（[レジスタ開発](../Page/レジスタ_\(ゲーム会社\).md "wikilink")）も発売された。18禁から15歳以上対象となり、Windows版『HO』のメッセージテキストは画面全体に表示される[ビジュアルノベル](../Page/ビジュアルノベル.md "wikilink")形式であったのに対し、PlayStation 2版は画面下部のウィンドウに表示される通常の[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")形式となっている。
 
 [狗神煌](../Page/狗神煌.md "wikilink")の描く漫画版は[角川書店](../Page/角川書店.md "wikilink")の[漫画雑誌](../Page/漫画雑誌.md "wikilink")「[コンプエース](../Page/月刊コンプエース.md "wikilink")」VOL.11（2007年1月26日発売）より連載された。[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")は2008年1月より放映された。放映に先行して、[monet](https://ja.wikipedia.org/wiki/monet "wikilink")が歌うWindows版主題歌のアレンジバージョンを収録したCD『HO -Prelude-』が2007年[12月21日](../Page/12月21日.md "wikilink")に発売された。
 
@@ -43,7 +43,7 @@ HOとは、メインヒロインの3人を指す。H（小日向**は**やみ、
         アニメ版では最初は目が不自由という設定だが、第1話のラストで夢の中に出てきた音羽のおまじないによって視力を取り戻した。だが第11話で母の死の真相から目を背け受け入れる事ができず、再び視力を失う（作中では写真などから最初から視力は戻っておらず、音羽の力で幻を見ていたと思われる）。さらにはやみのことを「お母さん」と呼ぶようになり幼児退行まで引き起こす。それを見かねた弘瀬家は琢磨を東京に引き戻すことになり、はやみと一緒に東京で暮らすことになる。その間、踏切の事故ではやみを失うことで琢磨はようやく母の死を理解し、自分の中の呪縛から解放され幼児退行はなくなり完全に目が見えるようになった。その数年後、はやみとの思い出の丘で琢磨は風車台を建て、はやみと再会する（音羽が精霊会議で頼み込んで実現したという説あり）。原作のような変態ぶりは見られない。[月刊コンプエース](../Page/月刊コンプエース.md "wikilink")に連載されたコミック版では、最終話で病気を克服し、視力を取り戻した。
   - 小日向 はやみ（こひなた はやみ）
     声 - [和泉真優](https://ja.wikipedia.org/wiki/和泉真優 "wikilink") / [櫻井浩美](../Page/櫻井浩美.md "wikilink")
-    [12月25日](../Page/12月25日.md "wikilink")生まれ。[身長](../Page/身長.md "wikilink")146 [cm](../Page/センチメートル.md "wikilink")。[血液型O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[趣味](https://ja.wikipedia.org/wiki/趣味 "wikilink"):読書 [特技](https://ja.wikipedia.org/wiki/特技 "wikilink"):節約 好きな色:赤 得意科目:全教科
+    [12月25日](../Page/12月25日.md "wikilink")生まれ。[身長](../Page/身長.md "wikilink")146 [cm](../Page/センチメートル.md "wikilink")。[血液型O型](../Page/ABO式血液型.md "wikilink")。[趣味](https://ja.wikipedia.org/wiki/趣味 "wikilink"):読書 [特技](https://ja.wikipedia.org/wiki/特技 "wikilink"):節約 好きな色:赤 得意科目:全教科
     琢磨が転校した学校に通う途中で出会った少女。学校では彼の隣の席に座っている。性格は無愛想でとげとげしく、他人を拒絶し友達を作りたがろうとしない。腕っ節は強く、琢磨からは[熊のように強いと言われている](https://ja.wikipedia.org/wiki/クマ "wikilink")。[クモ](https://ja.wikipedia.org/wiki/クモ "wikilink")が大の苦手。家が貧しくて[水着](../Page/水着.md "wikilink")を買えず、[水泳](../Page/水泳.md "wikilink")の授業に参加できないので泳ぐことは苦手らしい（決して泳げないわけではない）。琢磨のことは苗字を呼び捨てで「弘瀬」と呼ぶ。また、年齢の割に聡い。
     村の掟により小日向家は差別されており、彼女も在籍しているクラスで陰湿な[いじめ](https://ja.wikipedia.org/wiki/いじめ "wikilink")を受けている。元々小日向家は沢衣村の名家だったが、「山の者」（沢衣村で差別されている人たちのこと）と関わりを持ったために没落。現在はその日の食事にも困るような生活をしている。はやみの父親は働いているようだが、労働に見合った給金を支払われていないようで、家では酒を飲み暴力を振るうこともある様子。はやみは村の情勢や人の心をよく理解していたため、いじめられても決して反撃せずひたすら耐える日々を送っていたが、友達になれると思っていたひなた（ほたる）から裏切られたことがきっかけで、誰にも心を開かない少女になってしまった。しかし、根底にある優しい心は失っていない。
       -
@@ -96,7 +96,7 @@ HOとは、メインヒロインの3人を指す。H（小日向**は**やみ、
 ## 制作スタッフ
 
   - 原画（各キャラクターごとに担当者が異なる）
-      - 小日向はやみ：[基4%](https://ja.wikipedia.org/wiki/基4% "wikilink")
+      - 小日向はやみ：[基4%](../Page/基4%.md "wikilink")
       - 音羽・御桜稟：[月音](../Page/月音.md "wikilink")
       - 神楽ひなた：[硯](../Page/硯_\(イラストレーター\).md "wikilink")
       - 田端ゆい・サブキャラ全般：[籠目](https://ja.wikipedia.org/wiki/籠目_\(イラストレーター\) "wikilink")
@@ -116,7 +116,7 @@ HOとは、メインヒロインの3人を指す。H（小日向**は**やみ、
 ### スタッフ
 
   - 原作 - [枕](../Page/枕_\(ゲームブランド\).md "wikilink")
-  - 原案イラスト - [基4%](https://ja.wikipedia.org/wiki/基4% "wikilink")、[月音](../Page/月音.md "wikilink")、[硯](../Page/硯_\(イラストレーター\).md "wikilink")、[籠目](https://ja.wikipedia.org/wiki/籠目_\(イラストレーター\) "wikilink")、[すかぢ](../Page/SCA-自.md "wikilink")、砌煉炭
+  - 原案イラスト - [基4%](../Page/基4%.md "wikilink")、[月音](../Page/月音.md "wikilink")、[硯](../Page/硯_\(イラストレーター\).md "wikilink")、[籠目](https://ja.wikipedia.org/wiki/籠目_\(イラストレーター\) "wikilink")、[すかぢ](../Page/SCA-自.md "wikilink")、砌煉炭
   - 企画 - [安田猛](https://ja.wikipedia.org/wiki/安田猛_\(角川書店\) "wikilink")
   - 製作 - [伊藤敦](https://ja.wikipedia.org/wiki/伊藤敦_\(プロデューサー\) "wikilink")、小畑良治、内野秀紀、[夏野剛](../Page/夏野剛.md "wikilink")、阿佐美弘恭、酒匂暢彦
   - 監督 - 橘秀樹

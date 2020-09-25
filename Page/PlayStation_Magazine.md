@@ -1,7 +1,7 @@
 > この記事は[PlayStation Magazine](https://ja.wikipedia.org/wiki/PlayStation_Magazine)から翻訳されています。
 
 
-『**PlayStation Magazine**』（プレイステーションマガジン）は、[徳間書店インターメディア](../Page/徳間書店インターメディア.md "wikilink")が[1994年](../Page/1994年.md "wikilink")11月から[1999年](../Page/1999年.md "wikilink")12月まで刊行していた[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")の[PlayStation専門の](../Page/PlayStation_\(ゲーム機\).md "wikilink")[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")。PlayStation専門誌としては唯一、[PlayStation 2が発売される前に休刊となったゲーム雑誌である](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+『**PlayStation Magazine**』（プレイステーションマガジン）は、[徳間書店インターメディア](../Page/徳間書店インターメディア.md "wikilink")が[1994年](../Page/1994年.md "wikilink")11月から[1999年](../Page/1999年.md "wikilink")12月まで刊行していた[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")の[PlayStation専門の](../Page/PlayStation_\(ゲーム機\).md "wikilink")[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")。PlayStation専門誌としては唯一、[PlayStation 2が発売される前に休刊となったゲーム雑誌である](../Page/PlayStation_2.md "wikilink")。
 
 ## 概要
 

@@ -13,7 +13,7 @@
 
 矢沢がテレビやラジオ出演した時、矢沢に関する事を紹介する時、あるいはそっくりさんが登場する時に[BGMとして使用される事が多く](../Page/バックグラウンドミュージック.md "wikilink")、矢沢永吉をイメージさせる曲として定着している。
 
-[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink")、[岩村明憲](https://ja.wikipedia.org/wiki/岩村明憲 "wikilink")、[川﨑宗則](https://ja.wikipedia.org/wiki/川﨑宗則 "wikilink")、[三浦大輔](../Page/三浦大輔.md "wikilink")、[菊池雄星](https://ja.wikipedia.org/wiki/菊池雄星 "wikilink")（[2013年](../Page/2013年.md "wikilink")から）、[茂木栄五郎](https://ja.wikipedia.org/wiki/茂木栄五郎 "wikilink")が登場曲として使用している。かつては元[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")の[村田真一](../Page/村田真一.md "wikilink")も使用していた。プロボクサーの[金子大樹](https://ja.wikipedia.org/wiki/金子大樹 "wikilink")やキックボクサー・総合格闘家の[那須川天心](https://ja.wikipedia.org/wiki/那須川天心 "wikilink")も入場曲に使用している。
+[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink")、[岩村明憲](https://ja.wikipedia.org/wiki/岩村明憲 "wikilink")、[川﨑宗則](../Page/川﨑宗則.md "wikilink")、[三浦大輔](../Page/三浦大輔.md "wikilink")、[菊池雄星](https://ja.wikipedia.org/wiki/菊池雄星 "wikilink")（[2013年](../Page/2013年.md "wikilink")から）、[茂木栄五郎](https://ja.wikipedia.org/wiki/茂木栄五郎 "wikilink")が登場曲として使用している。かつては元[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")の[村田真一](../Page/村田真一.md "wikilink")も使用していた。プロボクサーの[金子大樹](https://ja.wikipedia.org/wiki/金子大樹 "wikilink")やキックボクサー・総合格闘家の[那須川天心](https://ja.wikipedia.org/wiki/那須川天心 "wikilink")も入場曲に使用している。
 
 [フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[大喜利](../Page/大喜利.md "wikilink")王座決定戦『[IPPONグランプリ](https://ja.wikipedia.org/wiki/IPPONグランプリ "wikilink")』で番組テーマ曲に採用された。
 

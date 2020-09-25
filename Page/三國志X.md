@@ -1,7 +1,7 @@
 > この記事は[三國志X](https://ja.wikipedia.org/wiki/三國志X)から翻訳されています。
 
 
-『**三國志X**』（さんごくし・テン）は、2004年に[コーエー](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）から発売された[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。「[三國志シリーズ](../Page/三國志シリーズ.md "wikilink")」の第10作。[パソコン用で発売された後](../Page/パーソナルコンピュータ.md "wikilink")、[PlayStation 2に移植された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。音楽は[池頼広](../Page/池頼広.md "wikilink")が担当。
+『**三國志X**』（さんごくし・テン）は、2004年に[コーエー](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）から発売された[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。「[三國志シリーズ](../Page/三國志シリーズ.md "wikilink")」の第10作。[パソコン用で発売された後](../Page/パーソナルコンピュータ.md "wikilink")、[PlayStation 2に移植された](../Page/PlayStation_2.md "wikilink")。音楽は[池頼広](../Page/池頼広.md "wikilink")が担当。
 
 [パワーアップキット](../Page/パワーアップキット.md "wikilink")はWindows版のみが発売されており、またそれまでの作品のパワーアップキットにはコーエーのサイト「GAMECITY」でのユーザー登録用[シリアルは付属していなかったが](../Page/製造番号.md "wikilink")、本作のパワーアップキットではシリアルも付属している。
 
@@ -27,7 +27,7 @@ Windows版は[ソースネクスト](../Page/ソースネクスト.md "wikilink"
 
 ### 在野武将
 
-実行できる行動が増加した。在野でありながら[私兵](https://ja.wikipedia.org/wiki/私兵 "wikilink")を率いることができ、戦争に援軍として参加したり、都市を攻撃したりすることが可能となった。
+実行できる行動が増加した。在野でありながら[私兵](../Page/私兵.md "wikilink")を率いることができ、戦争に援軍として参加したり、都市を攻撃したりすることが可能となった。
 
 ### 舌戦
 

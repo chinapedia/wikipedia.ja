@@ -19,7 +19,7 @@
         作詞・作曲：[tororo](https://ja.wikipedia.org/wiki/tororo "wikilink")、編曲：[Angel Note](../Page/Angel_Note.md "wikilink")
     <!-- end list -->
       - [PCゲーム](../Page/パソコンゲーム.md "wikilink")『[D.C.II 〜ダ・カーポII〜](../Page/D.C.II_〜ダ・カーポII〜.md "wikilink")』オープニングテーマ
-      - [PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")『[D.C.II P.S. 〜ダ・カーポII〜 プラスシチュエーション](../Page/D.C.II_P.S._〜ダ・カーポII〜_プラスシチュエーション.md "wikilink")』オープニングテーマ
+      - [PS2](../Page/PlayStation_2.md "wikilink")[ゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")『[D.C.II P.S. 〜ダ・カーポII〜 プラスシチュエーション](../Page/D.C.II_P.S._〜ダ・カーポII〜_プラスシチュエーション.md "wikilink")』オープニングテーマ
       - PCゲーム『[D.C.II P.C. 〜ダ・カーポII〜 プラスコミュニケーション](https://ja.wikipedia.org/wiki/D.C.II_P.C._〜ダ・カーポII〜_プラスコミュニケーション "wikilink")』オープニングテーマ
       - [PSPゲーム](../Page/PlayStation_Portable.md "wikilink")『[D.C.I\&II P.S.P 〜ダ・カーポI\&II〜 プラスシチュエーション ポータブル](../Page/D.C.II_P.S._〜ダ・カーポII〜_プラスシチュエーション.md "wikilink")』オープニングテーマ
     <!-- end list -->

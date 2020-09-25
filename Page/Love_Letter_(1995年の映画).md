@@ -5,7 +5,7 @@
 
 ## 概要
 
-誤送された恋文から始まる、雪の[小樽と](../Page/小樽市.md "wikilink")[神戸を舞台にしたラブストーリー](../Page/神戸市.md "wikilink")。
+恋文から始まる、雪の[小樽と](../Page/小樽市.md "wikilink")[神戸を舞台にしたラブストーリー](../Page/神戸市.md "wikilink")。
 
 [第19回日本アカデミー賞](https://ja.wikipedia.org/wiki/第19回日本アカデミー賞 "wikilink")にて、作品が優秀作品賞を、秋葉茂を演じた[豊川悦司](../Page/豊川悦司.md "wikilink")が優秀助演男優賞と話題賞（俳優部門）を、少年時代の藤井樹を演じた[柏原崇](../Page/柏原崇.md "wikilink")と、少女時代の藤井樹を演じた[酒井美紀](https://ja.wikipedia.org/wiki/酒井美紀 "wikilink")が新人俳優賞を、[REMEDIOSが優秀音楽賞を受賞した](https://ja.wikipedia.org/wiki/麗美 "wikilink")\[3\]。一人二役を演じた[中山美穂](../Page/中山美穂.md "wikilink")は、[ブルーリボン賞](../Page/ブルーリボン賞_\(映画\).md "wikilink")、[報知映画賞](../Page/報知映画賞.md "wikilink")、[ヨコハマ映画祭](../Page/ヨコハマ映画祭.md "wikilink")、[高崎映画祭](../Page/高崎映画祭.md "wikilink")などで主演女優賞を受賞した\[4\]。1995年度『[キネマ旬報](../Page/キネマ旬報.md "wikilink")』ベストテン第3位、同・読者選出ベストテン第1位\[5\]。
 

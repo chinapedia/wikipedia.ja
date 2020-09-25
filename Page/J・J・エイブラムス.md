@@ -1,7 +1,7 @@
 > この記事は[J・J・エイブラムス](https://ja.wikipedia.org/wiki/J・J・エイブラムス)から翻訳されています。
 
 
-**J・J・エイブラムス**（**J.J. Abrams**, [1966年](../Page/1966年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[映画プロデューサー](../Page/映画プロデューサー.md "wikilink")・クリエイター、[テレビプロデューサー](../Page/テレビプロデューサー.md "wikilink")・クリエイター、ドラマ・[映画監督](../Page/映画監督.md "wikilink")、[脚本家](../Page/脚本家.md "wikilink")、[俳優](../Page/俳優.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")。本名は**ジェフリー・ジェイコブ・エイブラムス（Jeffrey Jacob Abrams）**。[アクション](../Page/アクション映画.md "wikilink")、[ドラマ](../Page/ドラマ.md "wikilink")、[サイエンス・フィクション](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")といったジャンルの作品で知られている。映画では[パラマウント映画](../Page/パラマウント映画.md "wikilink")、テレビドラマでは[ワーナー・ブラザース・テレビジョン](https://ja.wikipedia.org/wiki/ワーナー・ブラザース・テレビジョン "wikilink")と関係が深い。
+**ジェフリー・ジェイコブ・エイブラムス**（Jeffrey Jacob Abrams、[1966年](../Page/1966年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[映画プロデューサー](../Page/映画プロデューサー.md "wikilink")・クリエイター、[テレビプロデューサー](../Page/テレビプロデューサー.md "wikilink")・クリエイター、ドラマ・[映画監督](../Page/映画監督.md "wikilink")、[脚本家](../Page/脚本家.md "wikilink")、[俳優](../Page/俳優.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")。通称 **J・J・エイブラムス**。[アクション](../Page/アクション映画.md "wikilink")、[ドラマ](../Page/ドラマ.md "wikilink")、[サイエンス・フィクション](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")といったジャンルの作品で知られている。映画では[パラマウント映画](../Page/パラマウント映画.md "wikilink")、テレビドラマでは[ワーナー・ブラザース・テレビジョン](https://ja.wikipedia.org/wiki/ワーナー・ブラザース・テレビジョン "wikilink")と関係が深い。
 
 ## 学生時代まで
 
@@ -40,7 +40,7 @@
   - 徹底した秘密主義者であり、物語の核心の情報を制限した演出を多用する。
   - 「47」という数字が頻繁に登場する。
   - デジタルカメラを用いず、フィルムで撮影を行う。2014年8月にはフィルムメーカーの[コダック](../Page/コダック.md "wikilink")から今後 一定量のフィルムを購入する契約を締結したため、経営難だったコダックはフィルム製造の継続が可能になった\[10\]。
-  - [スポットライト](https://ja.wikipedia.org/wiki/スポットライト "wikilink")や[レンズフレア](../Page/レンズフレア.md "wikilink")など、光を用いた映像。
+  - [スポットライト](../Page/スポットライト.md "wikilink")や[レンズフレア](../Page/レンズフレア.md "wikilink")など、光を用いた映像。
   - 2009年には好きな作品として『[ジョーズ](../Page/ジョーズ.md "wikilink")』『[フィラデルフィア物語](../Page/フィラデルフィア物語.md "wikilink")』『[スター・ウォーズ エピソード4/新たなる希望](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード4/新たなる希望 "wikilink")』『[トッツィー](../Page/トッツィー.md "wikilink")』『[裏窓](../Page/裏窓.md "wikilink")』の5作品を挙げている\[11\]。
 
 ## 私生活

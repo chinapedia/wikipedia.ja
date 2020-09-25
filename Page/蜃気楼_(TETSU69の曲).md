@@ -9,11 +9,11 @@
 
 表題曲の「蜃気楼」は[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")を用いた、[ロックサウンドとキャッチーな](../Page/ロック_\(音楽\).md "wikilink")[サビ](../Page/サビ.md "wikilink")が特徴。歌詞の一節に[わらべうたの](../Page/童歌.md "wikilink")「通りゃんせ」の一節を引用している\[1\]。この楽曲には[ベース](../Page/ベース_\(弦楽器\).md "wikilink")[ソロが存在するが](../Page/ソロ_\(音楽\).md "wikilink")、[ギター](../Page/ギター.md "wikilink")ソロが存在しない。実際は、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の新曲にしたかったようだが、当時は活動停止していたためやむなくソロ名義でリリースしたという。また、[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")でtetsuyaが持っているベースはL'Arc〜en〜Cielのシングル「[finale](https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale "wikilink")」のMVに登場する「BORN TO ROCK F4b 1993」と同じモデルである。
 
-[2019年](../Page/2019年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")に開催されたライブイベント「中村佳嗣生誕五十年記念祭」において、主宰者の中村佳嗣、[清春](../Page/清春.md "wikilink")（[黒夢](../Page/黒夢.md "wikilink")、[SADS](../Page/SADS.md "wikilink")）、[sakura](../Page/Sakura_\(ドラマー\).md "wikilink")（[ZIGZO](../Page/ZIGZO.md "wikilink")、[Rayflower](https://ja.wikipedia.org/wiki/Rayflower "wikilink")、ex.L'Arc〜en〜Ciel）で表題曲のカバーを披露している。
+[2019年](../Page/2019年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")に開催されたライブイベント「中村佳嗣生誕五十年記念祭」において、主宰者の中村佳嗣、[清春](../Page/清春.md "wikilink")（[黒夢](../Page/黒夢.md "wikilink")、[SADS](../Page/SADS.md "wikilink")）、[sakura](../Page/Sakura_\(ドラマー\).md "wikilink")（[ZIGZO](../Page/ZIGZO.md "wikilink")、[Rayflower](https://ja.wikipedia.org/wiki/Rayflower "wikilink")、ex.L'Arc〜en〜Ciel）で表題曲のカバーを披露している\[2\]。
 
-なお、週間チャートでは3位を記録したが、発売日当日のみオリコンデイリーチャートで1位を獲得している\[2\]。
+なお、週間チャートでは3位を記録したが、発売日当日のみオリコンデイリーチャートで1位を獲得している\[3\]。
 
-この曲の発売にあわせて、tetsuyaがパッケージデザイン等を発案したミネラルウォーター「銘水 蜃気楼」を生産。当初は関係者に配布していたが、一般発売が決まり[2002年](../Page/2002年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")に[ファミマ・ドット・コム](https://ja.wikipedia.org/wiki/ファミマ・ドット・コム "wikilink")から予約販売をしていた\[3\]。
+この曲の発売にあわせて、tetsuyaがパッケージデザイン等を発案したミネラルウォーター「銘水 蜃気楼」を生産。当初は関係者に配布していたが、一般発売が決まり[2002年](../Page/2002年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")に[ファミマ・ドット・コム](https://ja.wikipedia.org/wiki/ファミマ・ドット・コム "wikilink")から予約販売をしていた\[4\]。
 
 ## 収録曲
 
@@ -44,5 +44,6 @@
 [Category:tetsuyaの楽曲](https://ja.wikipedia.org/wiki/Category:tetsuyaの楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:tetsuyaが制作した楽曲](https://ja.wikipedia.org/wiki/Category:tetsuyaが制作した楽曲 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")
 
 1.  [TETSU69 / Suite November](http://artist.cdjournal.com/d/suite-november/3202100706) - CDJournal
-2.  ちなみにウィークリーチャートでは[平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")の「[大きな古時計](../Page/大きな古時計.md "wikilink")」が初登場で首位となった
-3.  [ラルクtetsu発案の｢銘水｣発売](http://web.archive.org/web/20030405130024/http://www.sponichi.co.jp/entertainment/kiji/2002/09/23/08.html)、[スポニチアネックス](../Page/スポーツニッポン.md "wikilink")、2002年9月23日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+2.
+3.  ちなみにウィークリーチャートでは[平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")の「[大きな古時計](../Page/大きな古時計.md "wikilink")」が初登場で首位となった
+4.  [ラルクtetsu発案の｢銘水｣発売](http://web.archive.org/web/20030405130024/http://www.sponichi.co.jp/entertainment/kiji/2002/09/23/08.html)、[スポニチアネックス](../Page/スポーツニッポン.md "wikilink")、2002年9月23日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）

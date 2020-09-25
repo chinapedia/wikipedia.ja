@@ -364,7 +364,7 @@
   - [黒塚まや](../Page/黒塚まや.md "wikilink")（元・[テレビ山梨](../Page/テレビ山梨.md "wikilink")他 / 一旦産休の後に復帰）
   - [鹿内美沙](https://ja.wikipedia.org/wiki/鹿内美沙 "wikilink")（元・[中京テレビ放送](../Page/中京テレビ放送.md "wikilink")）
   - [杉江奏子](https://ja.wikipedia.org/wiki/杉江奏子 "wikilink")（元・[テレビ信州](../Page/テレビ信州.md "wikilink") / 一旦降板の後に復帰）
-  - [笹岡樹里](../Page/笹岡樹里.md "wikilink")（元・[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")ほか）
+  - [笹岡樹里](../Page/笹岡樹里.md "wikilink")（元・[四国放送](../Page/四国放送.md "wikilink")ほか）
   - [佐藤美樹](https://ja.wikipedia.org/wiki/佐藤美樹_\(キャスター\) "wikilink")（元・[NHK前橋放送局](../Page/NHK前橋放送局.md "wikilink")および[とちぎテレビ](../Page/とちぎテレビ.md "wikilink")）
 
 ## スポンサー

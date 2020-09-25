@@ -21,7 +21,7 @@
 
 CPU以外の[GPUなどの](../Page/Graphics_Processing_Unit.md "wikilink")[プロセッサ](../Page/プロセッサ.md "wikilink")、あるいはもっと他の[集積回路](../Page/集積回路.md "wikilink")で発熱の著しいものにおける冷却、あるいはパソコン以前から存在して冷却が行われていた[メインフレーム](../Page/メインフレーム.md "wikilink")や[スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")、あるいは[ワークステーション](../Page/ワークステーション.md "wikilink")や[サーバ](../Page/サーバ.md "wikilink")における冷却も、本質的には同様である。ビデオカードの主に[GPUを冷却するものは](../Page/Graphics_Processing_Unit.md "wikilink")「**GPUクーラー**」または「**VGAクーラー**」と呼ぶ。
 
-パソコン以外の機器では、家庭用[ゲーム機](../Page/ゲーム機.md "wikilink")の場合の一例として[PlayStation](https://ja.wikipedia.org/wiki/PlayStation "wikilink")シリーズの場合、[初代PSでは自然通風による冷却のみであったが](../Page/PlayStation_\(ゲーム機\).md "wikilink")[PS2ではファン等を含む冷却システムが組み込まれている](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。他にも、[薄型テレビ](../Page/薄型テレビ.md "wikilink")など[黒物家電にはメイン](../Page/娯楽家電.md "wikilink")[LSIを冷やすため何かしらの冷却機構を採用した物が多い](../Page/集積回路.md "wikilink")。
+パソコン以外の機器では、家庭用[ゲーム機](../Page/ゲーム機.md "wikilink")の場合の一例として[PlayStation](https://ja.wikipedia.org/wiki/PlayStation "wikilink")シリーズの場合、[初代PSでは自然通風による冷却のみであったが](../Page/PlayStation_\(ゲーム機\).md "wikilink")[PS2ではファン等を含む冷却システムが組み込まれている](../Page/PlayStation_2.md "wikilink")。他にも、[薄型テレビ](../Page/薄型テレビ.md "wikilink")など[黒物家電にはメイン](../Page/娯楽家電.md "wikilink")[LSIを冷やすため何かしらの冷却機構を採用した物が多い](../Page/集積回路.md "wikilink")。
 
 ## 背景と歴史
 

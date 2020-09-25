@@ -1,7 +1,7 @@
 > この記事は[NICO Touches the Walls](https://ja.wikipedia.org/wiki/NICO_Touches_the_Walls)から翻訳されています。
 
 
-**NICO Touches the Walls**（ニコ・タッチズ・ザ・ウォールズ）は、[2004年](../Page/2004年.md "wikilink")に結成をし、[2019年](../Page/2019年.md "wikilink")に活動終了を発表した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。略称は『**NICO**』『**ニコ**』（公式TwitterのIDや一部グッズには『**NTtW**』の表記も見られる）。2015年以降、アコースティック編成の名義として『**ACO Touches the Walls**』が用いられることもある。
+**NICO Touches the Walls**（ニコ・タッチズ・ザ・ウォールズ）は、[2004年](../Page/2004年.md "wikilink")に結成した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。略称は『**NICO**』『**ニコ**』（公式TwitterのIDや一部グッズには『**NTtW**』の表記も見られる）。2015年以降、アコースティック編成の名義として『**ACO Touches the Walls**』が用いられることもある。[2019年](../Page/2019年.md "wikilink")に解散。
 
 ## メンバー
 
@@ -325,7 +325,7 @@
 
 :\* 6月
 
-:\*\*5日、7th アルバム『[QUIZMASTER](../Page/QUIZMASTER.md "wikilink")』をリリース。
+:\*\*5日、7th アルバム『[QUIZMASTER](../Page/QUIZMASTER.md "wikilink")』をリリース。これが活動終了する前の最後のアルバムだった。
 
 :\* 11月
 

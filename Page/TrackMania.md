@@ -87,7 +87,7 @@ TrackMania Unitedに少し改良を加えたもの。
 
 ### Trackmania
 
-TrackMania Nationsのリメイク版で、PC向けに[Uplay](https://ja.wikipedia.org/wiki/Uplay "wikilink")及びで2020年7月1日にリリース予定\[1\]\[2\]。無料でプレイ可能だが、一部機能へのアクセスや、特定大会への参加には期間制の利用権の購入（[サブスクリプション](https://ja.wikipedia.org/wiki/サブスクリプション "wikilink")）が必要\[3\]。
+TrackMania Nationsのリメイク版で、PC向けに[Uplay](https://ja.wikipedia.org/wiki/Uplay "wikilink")及び[Epic Gamesストアで](https://ja.wikipedia.org/wiki/Epic_Gamesストア "wikilink")2020年7月1日にリリース予定\[1\]\[2\]。無料でプレイ可能だが、一部機能へのアクセスや、特定大会への参加には期間制の利用権の購入（[サブスクリプション](https://ja.wikipedia.org/wiki/サブスクリプション "wikilink")）が必要\[3\]。
 
 ## 音楽ファイルについて
 

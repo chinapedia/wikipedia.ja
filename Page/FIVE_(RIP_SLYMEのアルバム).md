@@ -5,7 +5,7 @@
 
 ## 概要
 
-RIP SLYMEの記念すべきメジャーデビュー後初のアルバム。
+RIP SLYMEのメジャーデビュー後初となるアルバム。
 
 [オリコンチャート](../Page/オリコンチャート.md "wikilink")最高位は6位だが、後に発売された「[One](../Page/One_\(RIP_SLYMEの曲\).md "wikilink")」でのブレイクなどもあり、登場週数は『[TOKYO CLASSIC](../Page/TOKYO_CLASSIC.md "wikilink")』に次ぐ30週を記録している。また、『[TIME TO GO](../Page/TIME_TO_GO.md "wikilink")』発売時にも相乗効果で再チャートインを果たしている。
 

@@ -30,7 +30,8 @@
   - [ALIA's CARNIVAL\!](https://ja.wikipedia.org/wiki/ALIA's_CARNIVAL! "wikilink") (NanaWind)\[1\]
   - [ALIA's CARNIVAL\! Flowering Sky](https://ja.wikipedia.org/wiki/ALIA's_CARNIVAL! "wikilink") (NanaWind)
   - [ALIA's CARNIVAL\! Wパッケージ](https://ja.wikipedia.org/wiki/ALIA's_CARNIVAL! "wikilink") (NanaWind)
-  - [春音アリス\*グラム](https://ja.wikipedia.org/wiki/春音アリス*グラム "wikilink") (NanaWind)
+  - [白恋サクラ\*グラム](https://ja.wikipedia.org/wiki/春音アリス*グラム "wikilink") (NanaWind)
+  - [春音アリス\*グラム Wパッケージ](https://ja.wikipedia.org/wiki/春音アリス*グラム "wikilink") (NanaWind)\[2\]
 
 <!-- end list -->
 
@@ -42,7 +43,7 @@
 
 ### 一般ゲーム
 
-  - Gift -Prism- ([PS2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") : Sweets、[PSP版](../Page/PlayStation_Portable.md "wikilink") : [サイバーフロント](../Page/サイバーフロント.md "wikilink"))
+  - Gift -Prism- ([PS2版](../Page/PlayStation_2.md "wikilink") : Sweets、[PSP版](../Page/PlayStation_Portable.md "wikilink") : [サイバーフロント](../Page/サイバーフロント.md "wikilink"))
   - Clear 〜新しい風の吹く丘で〜 (Sweets)
   - ユユカナ -under the Starlight- （萌えAPP）
   - ALIA's CARNIVAL\! (萌えAPP)
@@ -71,7 +72,7 @@
 
 起用されたいきさつは、それまでのヘビーユーザー向けからライトユーザー向けに作風を変更した[MOONSTONE](../Page/MOONSTONE.md "wikilink")がそれに合った画風を持つ原画家を1から探すべく、代表の恋純ほたるがまだ他のメーカーに起用されていない人物であることを条件にイラストレーター系のサイトを[ネットサーフィン](https://ja.wikipedia.org/wiki/ネットサーフィン "wikilink")し、その結果目に留まったのが彼女だったという。しかし、選考は恋純の独断だったため、彼女の起用を伝えられたMOONSTONEのスタッフは「こんな絵じゃ売れない」と酷評した。そんな中、唯一人プロデュース協力していた[CIRCUSのtororoは](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")「原画家の原石としての素材は非常に良い」と評価した。結果、前作『[何処へ行くの、あの日](../Page/何処へ行くの、あの日.md "wikilink")』の2倍以上の約1万6千本を売り上げ、その評価を証明する事になった。
 
-起用されたメーカーとその人間関係の影響で登場キャラクターの一人藤宮千紗が『[D.C. 〜ダ・カーポ〜](../Page/D.C._〜ダ・カーポ〜.md "wikilink")』の[芳乃さくら](../Page/芳乃さくら.md "wikilink")の盗作ではないかと言われたことがあるが、金髪・ツインテール・魔女っ子・変な形をしたペットなどの[プロット](https://ja.wikipedia.org/wiki/プロット "wikilink")を提示したのは他ならぬtororoであった\[2\]。なお、本人は[アリスソフト](../Page/アリスソフト.md "wikilink")『[ぱすてるチャイム](https://ja.wikipedia.org/wiki/ぱすてるチャイム "wikilink")』のキャラクター、コレット・ブラウゼを一部参考にしてデザインしたことは語っている\[3\]。
+起用されたメーカーとその人間関係の影響で登場キャラクターの一人藤宮千紗が『[D.C. 〜ダ・カーポ〜](../Page/D.C._〜ダ・カーポ〜.md "wikilink")』の[芳乃さくら](../Page/芳乃さくら.md "wikilink")の盗作ではないかと言われたことがあるが、金髪・ツインテール・魔女っ子・変な形をしたペットなどの[プロット](https://ja.wikipedia.org/wiki/プロット "wikilink")を提示したのは他ならぬtororoであった\[3\]。なお、本人は[アリスソフト](../Page/アリスソフト.md "wikilink")『[ぱすてるチャイム](https://ja.wikipedia.org/wiki/ぱすてるチャイム "wikilink")』のキャラクター、コレット・ブラウゼを一部参考にしてデザインしたことは語っている\[4\]。
 
 ## 参考文献
 
@@ -88,5 +89,6 @@
 [Category:日本の女性イラストレーター](https://ja.wikipedia.org/wiki/Category:日本の女性イラストレーター "wikilink") [Category:ゲームのグラフィッカー・原画家](https://ja.wikipedia.org/wiki/Category:ゲームのグラフィッカー・原画家 "wikilink") [Category:同人作家](https://ja.wikipedia.org/wiki/Category:同人作家 "wikilink") [Category:MOONSTONE](https://ja.wikipedia.org/wiki/Category:MOONSTONE "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
-2.  オデッセウス刊『[PC Angel](https://ja.wikipedia.org/wiki/PC_Angel "wikilink")』2004年12月号より。tororoは呉のシナリオの味付けによって既存の認知のキャラクター性とは違う認知になると思うとも語っている。
-3.  2005年6月19日Indico lite発行の同人誌『Gift-After Spring days-』（2007年8月19日発行の『RAINBOW2』に再録）より。具体的にはお嬢様風の豪華なリボンのデザインを参考にしたとの事。
+2.
+3.  オデッセウス刊『[PC Angel](https://ja.wikipedia.org/wiki/PC_Angel "wikilink")』2004年12月号より。tororoは呉のシナリオの味付けによって既存の認知のキャラクター性とは違う認知になると思うとも語っている。
+4.  2005年6月19日Indico lite発行の同人誌『Gift-After Spring days-』（2007年8月19日発行の『RAINBOW2』に再録）より。具体的にはお嬢様風の豪華なリボンのデザインを参考にしたとの事。

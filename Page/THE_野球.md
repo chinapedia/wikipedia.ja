@@ -3,7 +3,7 @@
 
 **THE 野球**（ざ やきゅう）は、[2000年代](../Page/2000年代.md "wikilink")前半に[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より廉価版[ゲームソフト](../Page/ゲームソフト.md "wikilink")シリーズ『[SIMPLEシリーズ](../Page/SIMPLEシリーズ.md "wikilink")』の作品として発売された[野球](../Page/野球.md "wikilink")[ゲームシリーズである](../Page/スポーツゲーム.md "wikilink")。
 
-[PlayStationにおいて](../Page/PlayStation_\(ゲーム機\).md "wikilink")『SIMPLE1500シリーズ』として上記タイトルで、[PlayStation 2において](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『SIMPLE2000シリーズ』として『**THE プロ野球**（ざ プロやきゅう）』のタイトルで発売された。
+[PlayStationにおいて](../Page/PlayStation_\(ゲーム機\).md "wikilink")『SIMPLE1500シリーズ』として上記タイトルで、[PlayStation 2において](../Page/PlayStation_2.md "wikilink")『SIMPLE2000シリーズ』として『**THE プロ野球**（ざ プロやきゅう）』のタイトルで発売された。
 
 ## 作品概要
 

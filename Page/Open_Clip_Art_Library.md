@@ -5,7 +5,7 @@
 
 ## パッケージやアプリ
 
-  - Openclipart for [Android](../Page/Android.md "wikilink") \[2\]
+  - Openclipart for [Android](../Page/Android_\(オペレーティングシステム\).md "wikilink") \[2\]
   - [iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink") Clipart,\[3\] iOS PosterMaker\[4\]
   - Clipart plugin\[5\] for [WordPress](../Page/WordPress.md "wikilink")
   - [LibreOffice](https://ja.wikipedia.org/wiki/LibreOffice "wikilink") extension\[6\]

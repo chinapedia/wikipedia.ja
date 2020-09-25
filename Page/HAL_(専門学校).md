@@ -52,7 +52,7 @@
 
 ### 新ビル
 
-名古屋駅前の旧三井ビル跡に完成した[モード学園スパイラルタワーズ](../Page/モード学園スパイラルタワーズ.md "wikilink")（地上36階、地下3階、2008年3月竣工、2008年4月開校）には、[名古屋モード学園](../Page/名古屋モード学園.md "wikilink")、HAL名古屋、[名古屋医専](../Page/名古屋医専.md "wikilink")が入る。 設備は、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")、[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")、[プレイステーション2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[プレイステーション3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[Xbox 360を備えたゲーム開発ルームや](../Page/Xbox_360.md "wikilink")、[モーションキャプチャー](https://ja.wikipedia.org/wiki/モーションキャプチャー "wikilink")ルームや、レコーディングスタジオ（フルデジタルサラウンド）など最新のものが備えられている。尚、これまで使用していたHAL名古屋の旧校舎は改装され、過去に名古屋医専の南校舎として利用されていたが、現在は[2013年](../Page/2013年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に譲渡され[駿台予備校](https://ja.wikipedia.org/wiki/駿台予備校 "wikilink")が名古屋校校舎として使用している。
+名古屋駅前の旧三井ビル跡に完成した[モード学園スパイラルタワーズ](../Page/モード学園スパイラルタワーズ.md "wikilink")（地上36階、地下3階、2008年3月竣工、2008年4月開校）には、[名古屋モード学園](../Page/名古屋モード学園.md "wikilink")、HAL名古屋、[名古屋医専](../Page/名古屋医専.md "wikilink")が入る。 設備は、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")、[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")、[プレイステーション2](../Page/PlayStation_2.md "wikilink")、[プレイステーション3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[Xbox 360を備えたゲーム開発ルームや](../Page/Xbox_360.md "wikilink")、[モーションキャプチャー](https://ja.wikipedia.org/wiki/モーションキャプチャー "wikilink")ルームや、レコーディングスタジオ（フルデジタルサラウンド）など最新のものが備えられている。尚、これまで使用していたHAL名古屋の旧校舎は改装され、過去に名古屋医専の南校舎として利用されていたが、現在は[2013年](../Page/2013年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に譲渡され[駿台予備校](https://ja.wikipedia.org/wiki/駿台予備校 "wikilink")が名古屋校校舎として使用している。
 
 新宿駅西口の旧朝日生命本社跡に完成した[モード学園コクーンタワー](../Page/モード学園コクーンタワー.md "wikilink")（地上50階、地下4階、2008年10月末日竣工、2009年4月開校）には、[東京モード学園](../Page/東京モード学園.md "wikilink")、HAL東京、[首都医校](https://ja.wikipedia.org/wiki/首都医校 "wikilink")\[1\]が入る。学校法人としては日本一高い超高層ビルである\[2\]。
 
@@ -78,7 +78,7 @@
   - 一瀬泰範\[5\]：『[モンスターハンターポータブル2nd](https://ja.wikipedia.org/wiki/モンスターハンターポータブル2nd "wikilink")』『[モンスターハンターポータブル2ndG](https://ja.wikipedia.org/wiki/モンスターハンターポータブル2ndG "wikilink")』『[モンスターハンターX](https://ja.wikipedia.org/wiki/モンスターハンターシリーズ "wikilink")』ディレクター
   - 山際眞晃\[6\]：『[Bloodborne](https://ja.wikipedia.org/wiki/Bloodborne "wikilink")』プロデューサー
   - 浜口直樹\[7\]：『[LIGHTNING RETURNS: FINAL FANTASY XIII](https://ja.wikipedia.org/wiki/ライトニング_リターンズ_ファイナルファンタジーXIII "wikilink")』メインプログラマー、『[MOBIUS FINAL FANTASY](https://ja.wikipedia.org/wiki/メビウス_ファイナルファンタジー "wikilink")』プロジェクトリーダー、『[FINAL FANTASY VII REMAKE](https://ja.wikipedia.org/wiki/ファイナルファンタジーVII_リメイク "wikilink")』制作総指揮
-  - [伊東ライフ](https://ja.wikipedia.org/wiki/伊東ライフ "wikilink")\[8\]\[9\]\[10\]：イラストレーター
+  - [伊東ライフ](https://ja.wikipedia.org/wiki/伊東ライフ "wikilink")\[8\]\[9\]\[10\]：イラストレーター、バーチャルYouTuber
   - [加藤利彦](../Page/加藤利彦.md "wikilink") - [日本の実業家](https://ja.wikipedia.org/wiki/日本の実業家 "wikilink")、IT参謀
   - [箕崎准](../Page/箕崎准.md "wikilink")：作家、シナリオライター
 

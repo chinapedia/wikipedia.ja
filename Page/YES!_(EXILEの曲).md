@@ -5,9 +5,9 @@
 
 ## 概要
 
-4thアルバム『[ASIA](../Page/ASIA_\(アルバム\).md "wikilink")』からの先行シングル。同アルバムの発売日をもってグループを脱退した[SHUNが参加した最後のシングル](../Page/清木場俊介.md "wikilink")。「CD+DVD」「CDのみ」の2形態で発売。
+前作「[ただ…逢いたくて](../Page/ただ…逢いたくて.md "wikilink")」から3か月ぶりのシングル。4thアルバム『[ASIA](../Page/ASIA_\(アルバム\).md "wikilink")』からの先行シングルで、同アルバムをもってグループを脱退した[SHUNが参加した最後のシングル](../Page/清木場俊介.md "wikilink")。「CD+DVD」「CDのみ」の2形態で発売。
 
-オリコン週間シングルランキングでは前作から2作連続通算3作目の首位獲得となった。2作連続は初。
+オリコン週間シングルランキングでは前作から2作連続通算3作目の首位獲得となった\[1\]。2作連続は初。
 
 ## 収録曲
 
@@ -31,3 +31,5 @@
 ## 脚注
 
 [Category:EXILEの楽曲](https://ja.wikipedia.org/wiki/Category:EXILEの楽曲 "wikilink") [Category:ATSUSHIが制作した楽曲](https://ja.wikipedia.org/wiki/Category:ATSUSHIが制作した楽曲 "wikilink") [Category:山口寛雄が制作した楽曲](https://ja.wikipedia.org/wiki/Category:山口寛雄が制作した楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:2006年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2006年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:音楽戦士_MUSIC_FIGHTER](https://ja.wikipedia.org/wiki/Category:音楽戦士_MUSIC_FIGHTER "wikilink") [Category:サッカー音楽](https://ja.wikipedia.org/wiki/Category:サッカー音楽 "wikilink") [Category:医薬品のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:医薬品のコマーシャルソング "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")
+
+1.

@@ -1,7 +1,7 @@
 > この記事は[CARNELIAN](https://ja.wikipedia.org/wiki/CARNELIAN)から翻訳されています。
 
 
-**CARNELIAN**（**カーネリアン**、[女性](../Page/女性.md "wikilink")、[9月21日](../Page/9月21日.md "wikilink")）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[イラストレーター](../Page/イラストレーター.md "wikilink")、同人作家、[ゲームクリエイター](../Page/ゲームクリエイター.md "wikilink")、[原画家](https://ja.wikipedia.org/wiki/原画家 "wikilink")、実業家である。
+**CARNELIAN**（**カーネリアン**、女性、[9月21日](../Page/9月21日.md "wikilink")生）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[イラストレーター](../Page/イラストレーター.md "wikilink")、同人作家、[ゲームクリエイター](../Page/ゲームクリエイター.md "wikilink")、[原画家](https://ja.wikipedia.org/wiki/原画家 "wikilink")、実業家である。
 
 [ARIDESIGN](https://ja.wikipedia.org/wiki/ARIDESIGN "wikilink") （[アリデザイン](https://ja.wikipedia.org/wiki/アリデザイン "wikilink")）[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[代表取締役](../Page/代表取締役.md "wikilink")、[有限会社](../Page/有限会社.md "wikilink")[オービット](../Page/オービット.md "wikilink")[代表取締役](../Page/代表取締役.md "wikilink")。有限会社ルーツ取締役。
 
@@ -46,7 +46,7 @@
       - [D 〜その景色の向こう側〜](https://ja.wikipedia.org/wiki/D_〜その景色の向こう側〜 "wikilink")（[Pure Platinum](https://ja.wikipedia.org/wiki/Pure_Platinum "wikilink")、1999年）
       - [闇夜のクレナイ](https://ja.wikipedia.org/wiki/闇夜のクレナイ "wikilink")((Root/Clover企畫、1999年))オービットファンクラブに連載
       - [アージュマニアックス 〜伊隅四姉妹最期の日〜](https://ja.wikipedia.org/wiki/アージュマニアックス_〜伊隅四姉妹最期の日〜 "wikilink")（[アージュ](../Page/アージュ.md "wikilink")、[2000年](../Page/2000年.md "wikilink")）※一部
-      - [White Angel](https://ja.wikipedia.org/wiki/White_Angel "wikilink")（[light](https://ja.wikipedia.org/wiki/light "wikilink")、2000年）
+      - [White Angel](https://ja.wikipedia.org/wiki/White_Angel "wikilink")（[light](https://ja.wikipedia.org/wiki/light_\(ゲームブランド\) "wikilink")、2000年）
       - [レンズの向こう側…](https://ja.wikipedia.org/wiki/レンズの向こう側… "wikilink")（[MINA](../Page/スペースプロジェクト.md "wikilink")、2000年）
       - [恋ようび](https://ja.wikipedia.org/wiki/恋ようび "wikilink")（[ACTRESS](../Page/ACTRESS.md "wikilink")、2000年）
       - [將姫](https://ja.wikipedia.org/wiki/將姫 "wikilink")（[シーズウェア](../Page/シーズウェア.md "wikilink")、2000年）

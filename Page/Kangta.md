@@ -10,7 +10,7 @@
   - [2003年](../Page/2003年.md "wikilink")、初めてのソロ・コンサートを行った。シン・ヘソン（[シンファ](https://ja.wikipedia.org/wiki/シンファ "wikilink")）、[イ・ジフン](https://ja.wikipedia.org/wiki/イ・ジフン "wikilink")と[Sを結成](https://ja.wikipedia.org/wiki/:en:S_\(South_Korean_band\) "wikilink")、アルバム『Fr.in.Cl』をリリース。
   - [2005年](../Page/2005年.md "wikilink")、[中国に進出](../Page/中華人民共和国.md "wikilink")。中国ドラマ『魔術奇緣』で台湾の女優[林心如](../Page/林心如.md "wikilink")、台湾の俳優[蘇有朋と共演した](https://ja.wikipedia.org/wiki/アレック・スー "wikilink")。
   - [2006年](../Page/2006年.md "wikilink")、台湾のアイドルグループ[F4のメンバー](../Page/F4_\(ユニット\).md "wikilink")[Vannessと](../Page/呉建豪.md "wikilink")[Kangta & Vannessを結成](https://ja.wikipedia.org/wiki/Kangta_&_Vanness "wikilink")、ミニアルバム『Scandal』をリリース。
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")曲のデジタル・シングル『愛、頻率』をリリース。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、[中国語](../Page/中国語.md "wikilink")曲のデジタル・シングル『愛、頻率』をリリース。
   - [2013年](../Page/2013年.md "wikilink")、韓国ドラマ『[その冬、風が吹く](https://ja.wikipedia.org/wiki/その冬、風が吹く "wikilink")』のOSTを製作。
   - [2014年](../Page/2014年.md "wikilink")、Sのミニアルバム『Autumn Breeze』をリリース。
 

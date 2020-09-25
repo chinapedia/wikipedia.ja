@@ -5,16 +5,16 @@
 
 ## 概要
 
-[Sharp_14G-SF1_with_Secret-of-Mana_cartridge_20190601.jpg](https://ja.wikipedia.org/wiki/File:Sharp_14G-SF1_with_Secret-of-Mana_cartridge_20190601.jpg "fig:Sharp_14G-SF1_with_Secret-of-Mana_cartridge_20190601.jpg") 以下の形式が発売された（価格は税抜き）。
+[Sharp_14G-SF1_20200919.jpg](https://ja.wikipedia.org/wiki/File:Sharp_14G-SF1_20200919.jpg "fig:Sharp_14G-SF1_20200919.jpg") 以下の形式が発売された（価格は税抜き）。
 
   - **14G-SF1**（14型）10万円
   - **21G-SF1**（21型）13万3,000円
 
 ボディはグレーで、画面の上に[ロムカセット](../Page/ロムカセット.md "wikilink")差込スロットがある。2つのボタンを同時に押すと、リモコン操作でリセットできる。「ゲーム」用の画質が設定されている。また電源コードとコントローラ以外のケーブルが露出していない。スーパーファミコンとは内部で[S端子](../Page/S端子.md "wikilink")接続されており、画質は鮮明である。
 
-14型の場合、付属コントローラーのコード長が普通の本体についているものと同じだが、21型はコードが長い。そのため[マウスなどには社外品の延長ケーブルを併用することを推奨する](../Page/スーパーファミコンマウス.md "wikilink")。音声は[モノラル](https://ja.wikipedia.org/wiki/モノラル "wikilink")であり、外部入力も1系統のみの対応であるため、ステレオ音声でのプレイはできない。
+14型の場合、付属コントローラーのコード長が普通の本体についているものと同じだが、21型はコードが長い。そのため[マウスなどには社外品の延長ケーブルを併用することを推奨する](../Page/スーパーファミコンマウス.md "wikilink")。音声は[モノラル](https://ja.wikipedia.org/wiki/モノラル "wikilink")であり、外部入力も1系統のみの対応であるため、[ステレオ](../Page/ステレオ.md "wikilink")音声でのプレイはできない。
 
-拡張端子とAV出力端子は、本体上のスーパーファミコン部の背面に斜め上に向かって付いており、ほこりを防ぐカバーが付いている。[RF端子](https://ja.wikipedia.org/wiki/RF端子 "wikilink")とチャンネル切替スイッチはない。
+拡張端子と[AV端子](../Page/AV端子.md "wikilink")は、本体上のスーパーファミコン部の背面に斜め上に向かって付いており、ほこりを防ぐカバーが付いている。[RF端子](https://ja.wikipedia.org/wiki/RF端子 "wikilink")とチャンネル切替スイッチはない。
 
 ## 外部リンク
 

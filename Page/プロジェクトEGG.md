@@ -199,8 +199,11 @@ D4エンタープライズの代表となった鈴木は、ゲームの開発に
 
 ## 外部リンク
 
-  - [プロジェクトEGG（Amusement-Center.com内）](https://www.amusement-center.com/project/egg/)
+  - [プロジェクトEGG](https://www.amusement-center.com/project/egg/)
 
+  -
+  -
+  -
 [Category:コンピュータゲームのダウンロードサービス](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのダウンロードサービス "wikilink")
 
 1.

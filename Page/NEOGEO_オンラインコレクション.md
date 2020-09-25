@@ -1,7 +1,7 @@
 > この記事は[NEOGEO オンラインコレクション](https://ja.wikipedia.org/wiki/NEOGEO_オンラインコレクション)から翻訳されています。
 
 
-『**NEOGEO オンラインコレクション**』（ネオジオ オンラインコレクション）とは、[2005年](../Page/2005年.md "wikilink")から[SNKプレイモアが発売している](../Page/SNK_\(2001年設立の企業\).md "wikilink")、かつて[ネオジオ](https://ja.wikipedia.org/wiki/ネオジオ "wikilink")でリリースされた[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")（一部例外あり）を[PlayStation 2へと完全移植した復刻版のシリーズである](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。復刻版であるため、[オリジナル](https://ja.wikipedia.org/wiki/オリジナル "wikilink")と違いBGMが[アレンジされていたり](../Page/編曲.md "wikilink")、一部の描写が差し替えられているなど、若干の変更がある。また、過去にPlayStation 2で同名のタイトルが単品で移植されていたものも一部あるが、本シリーズはネオジオ版をベースとした復刻版のため、以前の家庭用移植版にあった独自追加要素は一部を除いて外されている。
+『**NEOGEO オンラインコレクション**』（ネオジオ オンラインコレクション）とは、[2005年](../Page/2005年.md "wikilink")から[SNKプレイモアが発売している](../Page/SNK_\(2001年設立の企業\).md "wikilink")、かつて[ネオジオ](https://ja.wikipedia.org/wiki/ネオジオ "wikilink")でリリースされた[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")（一部例外あり）を[PlayStation 2へと完全移植した復刻版のシリーズである](../Page/PlayStation_2.md "wikilink")。復刻版であるため、[オリジナル](https://ja.wikipedia.org/wiki/オリジナル "wikilink")と違いBGMが[アレンジされていたり](../Page/編曲.md "wikilink")、一部の描写が差し替えられているなど、若干の変更がある。また、過去にPlayStation 2で同名のタイトルが単品で移植されていたものも一部あるが、本シリーズはネオジオ版をベースとした復刻版のため、以前の家庭用移植版にあった独自追加要素は一部を除いて外されている。
 
 「[オンライン](../Page/オンライン.md "wikilink")」という名称通り、全タイトルが[KDDI](../Page/KDDI.md "wikilink")による通信対戦サービス「[マルチマッチングBB](https://ja.wikipedia.org/wiki/マルチマッチングBB "wikilink")」に対応していたが、ネットワークサービスは2010年9月20日をもって終了している\[1\]。
 

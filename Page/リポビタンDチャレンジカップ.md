@@ -322,6 +322,7 @@
 
   - [リポビタンDツアー](https://ja.wikipedia.org/wiki/リポビタンDツアー "wikilink") - 大正製薬が協賛するラグビー日本代表の海外遠征ツアー
   - [キリンチャレンジカップ](../Page/キリンチャレンジカップ.md "wikilink") - サッカー日本代表の強化試合
+  - [eリポビタンDチャレンジカップ2020](https://ja.wikipedia.org/wiki/eリポビタンDチャレンジカップ2020 "wikilink") - 大正製薬が協賛するeスポーツのオンライン大会
   - [冠大会](../Page/冠大会.md "wikilink")
 
 ## 外部リンク

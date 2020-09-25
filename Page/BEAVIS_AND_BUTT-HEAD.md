@@ -46,7 +46,7 @@
     B\&Bのクラス担任。常に物腰の柔らかい男性教師だが、やはりB\&Bには手を焼いており、時に理不尽な仕打ちに逢う損な性分。恋人はいるが未婚。花、写真、平和、音楽といった趣味や時代錯誤なファッションセンスからB\&Bから[ヒッピー](../Page/ヒッピー.md "wikilink")呼ばわりされたことがある。
   - ブラッレイ・バズカット（Coach Bradley Buzzcut）
     声：マイク・ジャッジ
-    B\&Bらの体育教師。軍隊上がりで、常に怒鳴るような口調で話すコワモテだが、決して暴力はふるわない。そのままの口調で面白い冗談を飛ばすことも。髪型はフラットトップ。
+    B\&Bらの体育教師。軍隊上がりで、常に怒鳴るような口調で話すコワモテだが、決して暴力はふるわない。そのままの口調で面白い冗談を飛ばすことも。髪型が[ウド鈴木](../Page/ウド鈴木.md "wikilink")。
   - マクビッカー校長（Principal McVicker）
     声：マイク・ジャッジ
     HIGHLAND HIGH SCHOOLの校長先生。重篤な糖尿病を患っており、常に震えながら「あぁあぁあぁ〜」と声を発している（妻と6人の幼い子供たちがいるが、全員同じ症状がある）。B\&Bは「[マラデッカー](../Page/巨根.md "wikilink")（Mc<span style="color:red">**D**</span>icker）」と呼んでおちょくったことも。他の誰よりも強くB\&Bを憎んでおり、[アスベスト](https://ja.wikipedia.org/wiki/アスベスト "wikilink")の処理をマスクなしでやらせたり、[ビル・クリントン](../Page/ビル・クリントン.md "wikilink")大統領（当時）が同校を訪れた際、[SPにB](../Page/セキュリティポリス.md "wikilink")\&Bの写真を見せ「こいつらは生徒ではない。武装したテロリストだ。大統領の半径5km以内に近づけるな！」と指示した。また、最終話で「B\&Bが死んだ」という[訃報](https://ja.wikipedia.org/wiki/訃報 "wikilink")（無論[誤報](../Page/誤報.md "wikilink")）を聞いたとき、泣き崩れるドリーセンを横目に「記念パーティを開こう！」とバズカットらと狂喜乱舞した。もしもバットヘッドがこの世に生まれていなければ、病気もなく頭髪もフサフサなはずだった。
@@ -72,4 +72,4 @@
   - [公式サイト](http://www.mtv.com/shows/beavis_and_butthead/series.jhtml)
   - [MTV日本内](http://www.mtvjapan.com/onair/program/2050)
 
-[Category:アニメ作品_ひ](https://ja.wikipedia.org/wiki/Category:アニメ作品_ひ "wikilink") [Category:マーベル・コミックのアニメーション作品](https://ja.wikipedia.org/wiki/Category:マーベル・コミックのアニメーション作品 "wikilink") [Category:ギャグアニメ](https://ja.wikipedia.org/wiki/Category:ギャグアニメ "wikilink") [Category:1990年代のアメリカ合衆国のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1990年代のアメリカ合衆国のテレビアニメ "wikilink") [Category:テキサス州を舞台としたテレビ番組](https://ja.wikipedia.org/wiki/Category:テキサス州を舞台としたテレビ番組 "wikilink") [Category:架空の二人組](https://ja.wikipedia.org/wiki/Category:架空の二人組 "wikilink")
+[Category:アニメ作品_ひ](https://ja.wikipedia.org/wiki/Category:アニメ作品_ひ "wikilink") [Category:マーベル・コミックのアニメーション作品](https://ja.wikipedia.org/wiki/Category:マーベル・コミックのアニメーション作品 "wikilink") [Category:ギャグアニメ](https://ja.wikipedia.org/wiki/Category:ギャグアニメ "wikilink") [Category:1990年代のアメリカ合衆国のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1990年代のアメリカ合衆国のテレビアニメ "wikilink") [Category:テキサス州を舞台としたテレビ番組](https://ja.wikipedia.org/wiki/Category:テキサス州を舞台としたテレビ番組 "wikilink") [Category:架空の二人組](https://ja.wikipedia.org/wiki/Category:架空の二人組 "wikilink") [Category:自己検閲](https://ja.wikipedia.org/wiki/Category:自己検閲 "wikilink")

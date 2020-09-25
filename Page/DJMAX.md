@@ -39,7 +39,7 @@
       - 新難易度「EX」登場、また、人気のガールズグループ[KARA](https://ja.wikipedia.org/wiki/KARA "wikilink")の新音源も収録される。
   - DJMAX TECHNIKA TUNE（PSVita [2012年](../Page/2012年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")発売）
       - 日本語版も発売。
-  - DJMAX RAY（[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")/[Android](../Page/Android.md "wikilink") [2012年](../Page/2012年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")配信)
+  - DJMAX RAY（[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")/[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink") [2012年](../Page/2012年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")配信)
       - TapSonicのシステムを使ったシリーズ初のスマートフォン専用ソフト。
   - DJMAX TECHNIKA Q（iOS/Android [2013年](../Page/2013年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink")配信）
       - TECHNIKA TUNEとRAYのシステムを準用したTECHNIKAシリーズ最新作。

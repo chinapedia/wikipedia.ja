@@ -122,7 +122,7 @@ Ambitious バージョン</p></td>
 
   - [UP-FRONT WORKSディスコグラフィー](http://www.up-front-works.jp/discography/hachama/07/list.html)
   - [GAM結成時のつんく♂コメント（ハロー\!プロジェクト公式サイト）](http://www.helloproject.com/news/gam_tunku.html)
-  - [つんく♂オフィシャルウェブサイトのコメント](http://www.tsunku.net/producework.php?Music_ArtistID=7)
+  - [つんく♂オフィシャルウェブサイトのコメント](https://www.tsunku.net/producework.php?Music_ArtistID=7)
 
 [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:ハロー\!プロジェクトのユニット](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクトのユニット "wikilink") [Category:ハロー\!プロジェクトのポップ・グループ](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクトのポップ・グループ "wikilink") [Category:2006年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2006年に結成した音楽グループ "wikilink")
 

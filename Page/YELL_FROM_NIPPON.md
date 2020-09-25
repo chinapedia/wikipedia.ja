@@ -29,7 +29,7 @@
   - [松本素生](../Page/松本素生.md "wikilink")、[中澤寛規](https://ja.wikipedia.org/wiki/中澤寛規 "wikilink")（[GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink")）
   - [斉藤和義](../Page/斉藤和義.md "wikilink")
   - [坂井真紀](https://ja.wikipedia.org/wiki/坂井真紀 "wikilink")
-  - [﨑山龍男](https://ja.wikipedia.org/wiki/﨑山龍男 "wikilink")（[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")）
+  - [﨑山龍男](../Page/﨑山龍男.md "wikilink")（[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")）
   - [佐藤タイジ](../Page/佐藤タイジ.md "wikilink")（[THEATRE BROOK](../Page/THEATRE_BROOK.md "wikilink")）
   - [佐野史郎](../Page/佐野史郎.md "wikilink")
   - [椎名純平](../Page/椎名純平.md "wikilink")

@@ -88,7 +88,7 @@ B'zはあまり[コンセプト](https://ja.wikipedia.org/wiki/コンセプト "
         『B'z LIVE-GYM 2005 "CIRCLE OF ROCK"』で演奏した際は[イントロに](../Page/導入部.md "wikilink")[ピアノ](../Page/ピアノ.md "wikilink")の[メロディ](../Page/メロディ.md "wikilink")があった。
         PVが存在しており、『B'z LIVE-GYM 2005 "CIRCLE OF ROCK"』で演奏された際の映像とそのリハーサルの映像が使用されている。
         『B'z LIVE-GYM 2006 "MONSTER'S GARAGE"』では、松本と稲葉、[増田隆宣](../Page/増田隆宣.md "wikilink")、[シェーン・ガラース](../Page/シェーン・ガラース.md "wikilink")、徳永暁人、[大田紳一郎](../Page/大田紳一郎.md "wikilink")の6人による[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")主体のアコースティック・バージョンで披露された\[30\]。
-11. **[ピエロ](https://ja.wikipedia.org/wiki/ピエロ_\(B'zの曲\) "wikilink")** (3:13)
+11. **[ピエロ](../Page/ピエロ_\(B'zの曲\).md "wikilink")** (3:13)
       -
         41stシングル『ゆるぎないものひとつ』[2nd beat](https://ja.wikipedia.org/wiki/B'zの作品#シングル曲の表記 "wikilink")。
         2nd beatがオリジナル・アルバムに収録されるのは珍しいが、松本は周囲からの評判がよく、アルバムの構成として悪くならなければいいという事で収録となった\[31\]。

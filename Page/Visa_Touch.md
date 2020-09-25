@@ -5,7 +5,7 @@
 
 ## 概要
 
-Visaが[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で提供するサービスである。[日本信販](https://ja.wikipedia.org/wiki/日本信販 "wikilink")株式会社（現[三菱UFJニコス](../Page/三菱UFJニコス.md "wikilink")株式会社）が開発した[Smartplus](../Page/Smartplus.md "wikilink")をベースとするサービスであるため\[1\]、Smartplusの加盟店は Visa Touch も取り扱う事が出来、またこの逆も可能である。しかし、Smartplusは日本でのみ展開しているサービスであり、これをベースとする Visa Touch も、国際ブランド「VISA」を運営するVisaインターナショナルが提供するサービスでありながら日本以外の国や地域で利用する事は出来ない。また、Visaが日本以外の国や地域で提供している他の非接触決済サービスとの互換性もない。この為、国際ブランドのサービスでありながら利用は日本に限られている。
+Visaが[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で提供するサービスである。[日本信販](https://ja.wikipedia.org/wiki/日本信販 "wikilink")株式会社（現[三菱UFJニコス](../Page/三菱UFJニコス.md "wikilink")株式会社）が開発した[Smartplus](../Page/Smartplus.md "wikilink")をベースとするサービスであるため\[1\]、Smartplusの加盟店は Visa Touch も取り扱う事が出来、またこの逆も可能である。しかし、Smartplusは日本でのみ展開しているサービスであり、これをベースとする Visa Touch も、国際ブランド「VISA」を運営するVisaインターナショナルが提供するサービスでありながら日本以外の国や地域で利用する事は出来ない。また、Visaが日本以外の国や地域で提供している他の非接触決済サービスとの互換性もない。
 
 その日本においても名称に「Visa」がついていながら、[三井住友カード](../Page/三井住友カード.md "wikilink")をはじめとする[VJA](../Page/VJA.md "wikilink")（旧VISAジャパン協会）に属するカード会社は Visa Touch を導入していない。また、VJAに属さないVISA発行会社でも導入しているのは[UCS](../Page/UCS.md "wikilink")と[セディナ](https://ja.wikipedia.org/wiki/セディナ "wikilink")のみと少数である。さらに、VisaTouch/Smartplusを利用できる店舗の数は、同様の非接触決済サービスである[iDや](https://ja.wikipedia.org/wiki/iD_\(クレジット決済サービス\) "wikilink")[QUICPay](../Page/QUICPay.md "wikilink")を使える店舗の数よりもはるかに少ない。
 

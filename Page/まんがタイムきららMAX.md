@@ -68,7 +68,7 @@
 2018年11月現在。
 
   - [ご注文はうさぎですか?](https://ja.wikipedia.org/wiki/ご注文はうさぎですか? "wikilink") - 2016年3月3日発売、機種：[PlayStation Vita](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")
-  - [きんいろモザイク](https://ja.wikipedia.org/wiki/きんいろモザイク "wikilink") - 2016年12月26日配信開始、機種：[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")/[Android](../Page/Android.md "wikilink")
+  - [きんいろモザイク](https://ja.wikipedia.org/wiki/きんいろモザイク "wikilink") - 2016年12月26日配信開始、機種：[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")/[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")
 
 この他、[クロスオーバー作品](../Page/クロスオーバー作品.md "wikilink")への参加事例として以下の作品がある。
 
@@ -136,7 +136,7 @@
   - [スズナリ\!](../Page/スズナリ!.md "wikilink") （石見翔子、2004年11月号 - 2007年5月号 ）
   - [ももえん。](https://ja.wikipedia.org/wiki/ももえん。 "wikilink") （[一智啓](https://ja.wikipedia.org/wiki/一智啓 "wikilink")、2004年11月号 - 2007年6月号）
   - [きらきらきら](https://ja.wikipedia.org/wiki/きらきらきら "wikilink") （[藤島じゅん](../Page/藤島じゅん.md "wikilink")、2004年11月号 - 2007年7月号）（2006年6月号から産休のため休載含む）
-  - [にこプリトランス](../Page/にこプリトランス.md "wikilink") （[白雪しおん](https://ja.wikipedia.org/wiki/白雪しおん "wikilink")、2004年11月号 - 2009年1月号）
+  - [にこプリトランス](../Page/にこプリトランス.md "wikilink") （[白雪しおん](../Page/白雪しおん.md "wikilink")、2004年11月号 - 2009年1月号）
   - [○本の住人](../Page/○本の住人.md "wikilink") （[kashmir](https://ja.wikipedia.org/wiki/kashmir "wikilink")、2004年11月号 - 2015年12月号）
   - [ひより日和](https://ja.wikipedia.org/wiki/ひより日和 "wikilink") （[高藤アユミ](https://ja.wikipedia.org/wiki/高藤アユミ "wikilink")、2004年12月号 - 2006年3月号）
   - [看板娘はさしおさえ](../Page/看板娘はさしおさえ.md "wikilink") （[鈴城芹](../Page/鈴城芹.md "wikilink")、2004年12月号 - 2009年5月号）
@@ -164,7 +164,7 @@
   - [フィギュ☆モ](https://ja.wikipedia.org/wiki/フィギュ☆モ "wikilink") （[中平凱](https://ja.wikipedia.org/wiki/中平凱 "wikilink")、2008年7月号 - 2010年9月号）
   - [ねこにゆ〜り](https://ja.wikipedia.org/wiki/ねこにゆ〜り "wikilink") （[kodomo兎](https://ja.wikipedia.org/wiki/kodomo兎 "wikilink")、2008年1、3、6 - 8月号ゲスト、10月号 - 2010年9月号）
   - [ぽすから](https://ja.wikipedia.org/wiki/ぽすから "wikilink") （[中村哲也](../Page/中村哲也.md "wikilink")、2008年11月号 - 2010年12月号）
-  - [レンタルきゅーと](../Page/レンタルきゅーと.md "wikilink") （[白雪しおん](https://ja.wikipedia.org/wiki/白雪しおん "wikilink")、2004年11月号、2005年4、6、10月号、2006年4月号、2007年3、8月号、2008年5月号掲載の後、2009年2月号 - 2010年10月号、偶数号隔月連載）
+  - [レンタルきゅーと](../Page/レンタルきゅーと.md "wikilink") （[白雪しおん](../Page/白雪しおん.md "wikilink")、2004年11月号、2005年4、6、10月号、2006年4月号、2007年3、8月号、2008年5月号掲載の後、2009年2月号 - 2010年10月号、偶数号隔月連載）
   - [くすりのマジョラム](https://ja.wikipedia.org/wiki/くすりのマジョラム "wikilink") （[鈴城芹](../Page/鈴城芹.md "wikilink")、2009年7月号 - 2012年10月号）
   - [つかえて\!コハル](https://ja.wikipedia.org/wiki/つかえて!コハル "wikilink") （[ねことうふ](../Page/ねことうふ.md "wikilink")、2009年7 - 8月号ゲスト、10月号 - 2011年1月号）
   - [おしおきっ\!](https://ja.wikipedia.org/wiki/おしおきっ! "wikilink") （[かぐらゆうき](https://ja.wikipedia.org/wiki/かぐらゆうき "wikilink")、2009年10月号 - 2010年12月号）

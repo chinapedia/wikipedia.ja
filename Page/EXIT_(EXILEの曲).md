@@ -5,7 +5,7 @@
 
 ## 概要
 
-前作「[HERO](../Page/HERO_\(EXILEの曲\).md "wikilink")」から8ヶ月ぶりのシングル。「CD+DVD」「CD」の2形態で発売。EXILEのシングルでDVD付属となったのは本作が初である。
+前作「[HERO](../Page/HERO_\(EXILEの曲\).md "wikilink")」から8ヶ月ぶりのシングル。「CD+DVD」「CDのみ」の2形態で発売。EXILEのシングルでDVD付属となったのは本作が初である。
 
 EXILE第二章以降に発売されたベストアルバム『[EXILE CATCHY BEST](../Page/EXILE_CATCHY_BEST.md "wikilink")』『[EXTREME BEST](https://ja.wikipedia.org/wiki/EXTREME_BEST "wikilink")』には、[ATSUSHI](https://ja.wikipedia.org/wiki/ATSUSHI_\(歌手\) "wikilink")、[TAKAHIROによって再録された表題曲が収録されている](https://ja.wikipedia.org/wiki/TAKAHIRO_\(歌手\) "wikilink")。
 

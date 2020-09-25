@@ -577,7 +577,7 @@ AICL-2104:通常盤</p></td>
 | 2002年01月23日 | 喫茶ロック now                                                                                                                               | FVCC-80149 | 春雨道中                            | Flavour                       |
 | 2005年6月22日  | [冨田ラボ](https://ja.wikipedia.org/wiki/冨田ラボ "wikilink")「アタタカイ雨 feat.[田中拡邦](https://ja.wikipedia.org/wiki/田中拡邦 "wikilink") (MAMALAID RAG)」 | AICL-1624  | アタタカイ雨 feat.田中拡邦 (MAMALAID RAG) | Sony Music Associated Records |
 | 2007年11月21日 | Sunshine Days of 70's tribute album"サニーロック\!"                                                                                           | SRCD-1001  | ソバカスのある少女                       | SUNNY ROCK                    |
-| 2008年05月21日 | サンシャインデイズ Special Edition                                                                                                               | SRCD-1002  | ソバカスのある少女／田中拡邦 (ママレイドラグ)        | SUNNY ROCK                    |
+| 2008年05月21日 | サンシャインデイズ Special Edition                                                                                                               | SRCD-1002  | ソバカスのある少女／田中拡邦 (ママレイドラグ)        |                               |
 | 2009年10月21日 | tabiuta -旅へ 歌を- ～鉄旅ガールズ recommend～                                                                                                      | MHCL-1616  | そばにいたい                          | GT music                      |
 |             |                                                                                                                                         |            |                                 |                               |
 

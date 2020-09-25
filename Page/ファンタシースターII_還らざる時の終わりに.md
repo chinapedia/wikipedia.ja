@@ -316,7 +316,7 @@
 <td><p>13</p></td>
 <td><p>ファンタシースターII 還らざる時の終わりに</p></td>
 <td></td>
-<td><p><a href="../Page/Android.md" title="wikilink">Android</a></p></td>
+<td><p><a href="../Page/Android_(オペレーティングシステム).md" title="wikilink">Android</a></p></td>
 <td><p>セガ</p></td>
 <td><p>セガ</p></td>
 <td><p>ダウンロード</p></td>
@@ -410,8 +410,7 @@
 
 <!-- end list -->
 
-  - （英語）
-
+  -
 [Category:1989年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1989年のコンピュータゲーム "wikilink") [Category:Android用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト "wikilink") [Category:iPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPhone用ゲームソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:Xbox_Live_Arcade対応ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_Live_Arcade対応ソフト "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:ファンタシースターのコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ファンタシースターのコンピュータゲーム "wikilink") [Category:冒険ゲームブック](https://ja.wikipedia.org/wiki/Category:冒険ゲームブック "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink")
 
 1.  [株式会社QBQ](http://qbq.jp/)編　『懐かしのメガドライブ 蘇れメガドライバー \!\!』マイウェイ出版発行、2018年。ISBN 9784865118704 p72

@@ -5,7 +5,7 @@
 
 ## 概要
 
-本編は[2005年](../Page/2005年.md "wikilink")[8月](../Page/8月.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[6月](../Page/6月.md "wikilink")まで、「[週刊少年チャンピオン](https://ja.wikipedia.org/wiki/週刊少年チャンピオン "wikilink")」において連載（[シナリオ](https://ja.wikipedia.org/wiki/シナリオ "wikilink")：[吉野弘幸](../Page/吉野弘幸_\(脚本家\).md "wikilink")、樋口達人・作画：[佐藤健悦](https://ja.wikipedia.org/wiki/佐藤健悦 "wikilink")）。コミックスは全5巻。2006年秋から漫画版の続編『**舞-乙HiME嵐**』を連載すると予告されていたが、実際にはかなり遅れて2007年18号（3月29日発売）より短期連載となった。
+本編は[2005年](../Page/2005年.md "wikilink")[8月](../Page/8月.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[6月](../Page/6月.md "wikilink")まで、「[週刊少年チャンピオン](https://ja.wikipedia.org/wiki/週刊少年チャンピオン "wikilink")」において連載（[シナリオ](https://ja.wikipedia.org/wiki/シナリオ "wikilink")：[吉野弘幸](../Page/吉野弘幸_\(脚本家\).md "wikilink")、樋口達人・作画：[佐藤健悦](../Page/佐藤健悦.md "wikilink")）。コミックスは全5巻。2006年秋から漫画版の続編『**舞-乙HiME嵐**』を連載すると予告されていたが、実際にはかなり遅れて2007年18号（3月29日発売）より短期連載となった。
 
 冒頭で本物の真白姫が殺され、影武者としてガルデローベに呼ばれた少年「マシロくん」が主人公となるという、前作以上にアニメ版とかけ離れた設定（この点は前作『[舞-HiME](../Page/舞-HiME.md "wikilink")』の[谷口悟朗](../Page/谷口悟朗.md "wikilink")クリエイティブプロデューサーの意向を受け継いでいる）で物語が始まる。アニメ版に多くあった悲劇的な要素がほぼ払拭されているのも特徴で（例えばアリカとニナは同じ男性（マシロくん）を好きになるが、特に深刻な確執は起こらない。
 

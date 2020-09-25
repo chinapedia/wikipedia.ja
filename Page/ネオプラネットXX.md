@@ -66,7 +66,7 @@
 
 ## ゲーム機への移植
 
-  - 本機種は[プレイステーション2に移植され](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、系列会社の[ヤマサエンタテイメント](https://ja.wikipedia.org/wiki/ヤマサエンタテイメント "wikilink")より「[山佐デジワールドSP](../Page/山佐Digiシリーズ.md "wikilink")」として発売された（発売日：[2003年](../Page/2003年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")）。内容は実機[シミュレーション](../Page/シミュレーション.md "wikilink")の他に、連荘数やコイン枚数を競うものや、[リーチ目](../Page/リーチ目.md "wikilink")を当てるゲームなどが搭載されていた。
+  - 本機種は[プレイステーション2に移植され](../Page/PlayStation_2.md "wikilink")、系列会社の[ヤマサエンタテイメント](https://ja.wikipedia.org/wiki/ヤマサエンタテイメント "wikilink")より「[山佐デジワールドSP](../Page/山佐Digiシリーズ.md "wikilink")」として発売された（発売日：[2003年](../Page/2003年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")）。内容は実機[シミュレーション](../Page/シミュレーション.md "wikilink")の他に、連荘数やコイン枚数を競うものや、[リーチ目](../Page/リーチ目.md "wikilink")を当てるゲームなどが搭載されていた。
   - 「山佐デジワールドSP DX」という限定版も発売され、本機種で使用されているサウンドを収録した「山佐SoundコレクションII」が同梱されていた。
   - 現在は[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")サイト『[777town.net](../Page/777town.net.md "wikilink")』にてプレイが可能である。
   - 現在は[Yahoo\! JAPANのゲームアプリ](../Page/Yahoo!_JAPAN.md "wikilink")『パチ・スロタウン』（開発：[DeNA](../Page/ディー・エヌ・エー.md "wikilink")、バタフライ）にてプラネット999がプレイ可能である。

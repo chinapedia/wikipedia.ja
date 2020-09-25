@@ -1,7 +1,7 @@
 > この記事は[RING of RED](https://ja.wikipedia.org/wiki/RING_of_RED)から翻訳されています。
 
 
-『**RING of RED**』（リング・オブ・レッド）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")（[コナミコンピュータエンタテインメントスタジオ](../Page/コナミコンピュータエンタテインメントスタジオ.md "wikilink")）より[2000年](../Page/2000年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")に発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")。
+『**RING of RED**』（リング・オブ・レッド）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")（[コナミコンピュータエンタテインメントスタジオ](../Page/コナミコンピュータエンタテインメントスタジオ.md "wikilink")）より[2000年](../Page/2000年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")に発売された[PlayStation 2用](../Page/PlayStation_2.md "wikilink")[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")。
 
 ## 概要
 

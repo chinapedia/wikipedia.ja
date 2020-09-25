@@ -119,7 +119,9 @@ DEV LARGEにディスされたほか、[剣桃太郎から](https://ja.wikipedia
 
 ## 交友関係
 
-派閥的な対立はほとんどせず、上記の対立関係にあるラッパーと友好的なミュージシャン（RIP SLYMEやKICK THE CAN CREWの兄貴分であり、DEV LARGEとも親交を持つ宇多丸など）でも交流を持つ事が多い。盟友・DJ OASISの他、『第三会議室』で共演している宇多丸が在籍する[RHYMESTER](../Page/RHYMESTER.md "wikilink")、[DABO](../Page/DABO.md "wikilink")、[DJ MASTERKEYら親交がある](../Page/DJ_MASTERKEY.md "wikilink")。思想
+派閥的な対立はほとんどせず、上記の対立関係にあるラッパーと友好的なミュージシャン（RIP SLYMEやKICK THE CAN CREWの兄貴分であり、DEV LARGEとも親交を持つ宇多丸など）でも交流を持つ事が多い。盟友・DJ OASISの他、『第三会議室』で共演している宇多丸が在籍する[RHYMESTER](../Page/RHYMESTER.md "wikilink")、[DABO](../Page/DABO.md "wikilink")、[DJ MASTERKEYら親交がある](../Page/DJ_MASTERKEY.md "wikilink")。
+
+## 思想
 
 [靖国神社](../Page/靖国神社.md "wikilink")に積極的に参拝、[ロシア](../Page/ロシア.md "wikilink")で行われた世界愛国者政党会議に[一水会と共に参加するなど](../Page/一水会_\(思想団体\).md "wikilink")、[保守](../Page/保守.md "wikilink")的なラッパーとして知られていたが、[2013年](../Page/2013年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")に[安倍首相が](../Page/安倍晋三.md "wikilink")[靖国神社](../Page/靖国神社.md "wikilink")に参拝した際、[中国](../Page/中華人民共和国.md "wikilink")・[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")との関係が日々悪化している事と、その日が[毛沢東](../Page/毛沢東.md "wikilink")の誕生日である事を理由に批判\[38\]するなど、主に[保守派](https://ja.wikipedia.org/wiki/保守派 "wikilink")から支持を集めている[安倍政権には概ね批判的である](https://ja.wikipedia.org/wiki/安倍内閣 "wikilink")。また、[義務教育](../Page/義務教育.md "wikilink")で[小学校](../Page/小学校.md "wikilink")低学年には「[自由](../Page/自由.md "wikilink")」という教科を設け、自由と自分勝手、無秩序の違いや、人としての尊厳がなぜ守られるべきなのか? といった基本的なことについて授業してほしいと述べるなど、[リベラル色が強まりつつ](https://ja.wikipedia.org/wiki/自由主義 "wikilink")[自由主義](https://ja.wikipedia.org/wiki/自由主義 "wikilink")的な思想や考え方も多く主張する様になった\[39\]。
 

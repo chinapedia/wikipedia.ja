@@ -233,8 +233,7 @@
 
   - [プレイステーションオフィシャルサイト スーパーロボット大戦EX（ゲームアーカイブス版） 紹介ページ](http://www.jp.playstation.com/software/title/jp0700npjj00499_000000000000000001.html)
 
-  - （英語）
-
+  -
 [en:Super Robot Wars EX](https://ja.wikipedia.org/wiki/en:Super_Robot_Wars_EX "wikilink")
 
 [Category:1994年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1994年のコンピュータゲーム "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:異世界への転生・転移を題材とした作品](https://ja.wikipedia.org/wiki/Category:異世界への転生・転移を題材とした作品 "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:スーパーロボット大戦のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:スーパーロボット大戦のコンピュータゲーム "wikilink") [Category:バンプレストのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:バンプレストのクロスオーバー作品 "wikilink")

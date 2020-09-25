@@ -280,7 +280,7 @@
 
 ## テレビゲーム
 
-  - [ニード・フォー・スピード アンダーカバー](../Page/ニード・フォー・スピード_アンダーカバー.md "wikilink") （2008年、[PS3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[Xbox 360](../Page/Xbox_360.md "wikilink")、[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、[PSP](../Page/PlayStation_Portable.md "wikilink")）
+  - [ニード・フォー・スピード アンダーカバー](../Page/ニード・フォー・スピード_アンダーカバー.md "wikilink") （2008年、[PS3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[Xbox 360](../Page/Xbox_360.md "wikilink")、[PS2](../Page/PlayStation_2.md "wikilink")、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、[PSP](../Page/PlayStation_Portable.md "wikilink")）
 
 ## 出典
 

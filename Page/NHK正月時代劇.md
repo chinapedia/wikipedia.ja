@@ -1,13 +1,13 @@
 > この記事は[NHK正月時代劇](https://ja.wikipedia.org/wiki/NHK正月時代劇)から翻訳されています。
 
 
-**NHK正月時代劇**（えぬえいちけいしょうがつじだいげき）は、[NHKが](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「正月時代劇」として[NHK総合テレビにて](../Page/NHK総合テレビジョン.md "wikilink")[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から毎年[1月1日](../Page/1月1日.md "wikilink")から[1月4日](../Page/1月4日.md "wikilink")の4日間のうちに放送している単発の時代劇[特別番組](../Page/特別番組.md "wikilink")の[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。
+**NHK正月時代劇**（えぬえいちけいしょうがつじだいげき）は、[NHKが](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「**正月時代劇**」として[NHK総合テレビにて](../Page/NHK総合テレビジョン.md "wikilink")[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から毎年[1月1日](../Page/1月1日.md "wikilink")から[1月4日](../Page/1月4日.md "wikilink")の4日間のうちに放送している単発の時代劇[特別番組](../Page/特別番組.md "wikilink")の[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。
 
 放送時間は作品により1時間30分から2時間15分程度で、放送日・時間帯は一定ではない。レギュラー放送した作品や[大河ドラマ](../Page/大河ドラマ.md "wikilink")の特別版を放送することがある。
 
 [2001年](../Page/2001年.md "wikilink")以降は[BShiで初めに先行放送し](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")、その2日後に地上波の総合テレビで放送する、という状態になっていたが、[2009年](../Page/2009年.md "wikilink")は同日放送した。
 
-[2019年](../Page/2019年.md "wikilink")には前後編による初の2夜連続放送\[1\]。また「BS4K開局記念正月時代劇」として[NHK BS4Kで先行放送が行われたが](https://ja.wikipedia.org/wiki/NHK_BS4K "wikilink")、[2020年](../Page/2020年.md "wikilink")は同日放送する。
+[2019年](../Page/2019年.md "wikilink")には前後編による初の2夜連続放送\[1\]。また「BS4K開局記念正月時代劇」として[NHK BS4Kで先行放送が行われたが](https://ja.wikipedia.org/wiki/NHK_BS4K "wikilink")、[2020年](../Page/2020年.md "wikilink")以降は同日放送する。
 
 ## 放送作品一覧
 
@@ -274,6 +274,17 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/辻堂魁" title="wikilink">辻堂魁</a></p></td>
 <td><p><a href="../Page/宮村優子_(脚本家).md" title="wikilink">宮村優子</a></p></td>
 <td><p><a href="../Page/向井理.md" title="wikilink">向井理</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2021年</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ライジング若冲_天才_かく覚醒せり" title="wikilink">ライジング若冲 天才 かく覚醒せり</a></p></td>
+<td><p>1月2日</p></td>
+<td><p>書き下ろし作品</p></td>
+<td><p><a href="../Page/源孝志.md" title="wikilink">源孝志</a></p></td>
+<td><p><a href="../Page/中村七之助_(2代目).md" title="wikilink">中村七之助</a><br />
+<a href="https://ja.wikipedia.org/wiki/永山瑛太" title="wikilink">永山瑛太</a></p></td>
 <td></td>
 <td></td>
 </tr>

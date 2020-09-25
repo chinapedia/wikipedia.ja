@@ -111,8 +111,7 @@
 
 ## 外部リンク
 
-  - （英語）
-
+  -
 [Category:1989年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1989年のファミリーコンピュータ用ソフト "wikilink") [Category:警察官を主人公としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:警察官を主人公としたコンピュータゲーム "wikilink") [Category:ニューヨーク市を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ニューヨーク市を舞台としたコンピュータゲーム "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:忍者を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:忍者を題材としたコンピュータゲーム "wikilink") [Category:横スクロールアクションゲーム](https://ja.wikipedia.org/wiki/Category:横スクロールアクションゲーム "wikilink")
 
 1.

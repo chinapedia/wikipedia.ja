@@ -380,6 +380,6 @@
 
 ## 外部リンク
 
-  - [Milkyway](http://web.archive.org/web/20100218140829/http://www.l-heart.ne.jp/milkyway/news.html) - れもんは〜と公式サイト（2010年2月18日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [Milkyway](https://web.archive.org/web/20100218140829/http://www.l-heart.ne.jp/milkyway/news.html) - れもんは〜と公式サイト（2010年2月18日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
 [Category:2000年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2000年のアダルトゲーム "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:2003年の成人向けOVA](https://ja.wikipedia.org/wiki/Category:2003年の成人向けOVA "wikilink")

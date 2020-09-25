@@ -86,7 +86,7 @@ reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Pa
 
 ### 海外での発売
 
-本作は[英語](../Page/英語.md "wikilink")・[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")・[ドイツ語](../Page/ドイツ語.md "wikilink")・[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")・[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")・[韓国語](https://ja.wikipedia.org/wiki/韓国語 "wikilink")などの諸外国語に翻訳され、世界各国で発売されている。
+本作は[英語](../Page/英語.md "wikilink")・[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")・[ドイツ語](../Page/ドイツ語.md "wikilink")・[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")・[中国語](../Page/中国語.md "wikilink")・[韓国語](https://ja.wikipedia.org/wiki/韓国語 "wikilink")などの諸外国語に翻訳され、世界各国で発売されている。
 
   - 海外での出版社
 
@@ -102,7 +102,7 @@ reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Pa
 
 :\*[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")：東立出版社（豪華版も刊行）
 
-:\*[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")：[チャン・イー](https://ja.wikipedia.org/wiki/チャン・イー "wikilink")（Chuang Yi／創芸）（[英語](../Page/英語.md "wikilink")版と[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")版を刊行。）
+:\*[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")：[チャン・イー](https://ja.wikipedia.org/wiki/チャン・イー "wikilink")（Chuang Yi／創芸）（[英語](../Page/英語.md "wikilink")版と[中国語](../Page/中国語.md "wikilink")版を刊行。）
 
 :\*[タイ](../Page/タイ王国.md "wikilink")：[ウィブーンキッド・パブリッシング](https://ja.wikipedia.org/wiki/ウィブーンキッド・パブリッシング "wikilink")（Vibulkij Publishing）
 

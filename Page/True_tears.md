@@ -1,7 +1,7 @@
 > この記事は[True tears](https://ja.wikipedia.org/wiki/True_tears)から翻訳されています。
 
 
-『**true tears**』（トゥルー ティアーズ）は、[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に、[Windows用ソフトとして](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[La'cryma](https://ja.wikipedia.org/wiki/La'cryma "wikilink")から発売された[恋愛アドベンチャーゲームである](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。また、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月7日](../Page/8月7日.md "wikilink")には[PlayStation 2移植版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（CERO-B）となる『**true tears 〜トゥルーティアーズ〜**』が発売された。ゲームを中心に各種メディアミックス展開が行われた。
+『**true tears**』（トゥルー ティアーズ）は、[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に、[Windows用ソフトとして](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[La'cryma](https://ja.wikipedia.org/wiki/La'cryma "wikilink")から発売された[恋愛アドベンチャーゲームである](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。また、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月7日](../Page/8月7日.md "wikilink")には[PlayStation 2移植版](../Page/PlayStation_2.md "wikilink")（CERO-B）となる『**true tears 〜トゥルーティアーズ〜**』が発売された。ゲームを中心に各種メディアミックス展開が行われた。
 
 ## 概要
 

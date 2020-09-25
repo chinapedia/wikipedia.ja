@@ -1,7 +1,7 @@
 > この記事は[Mafia: The City of Lost Heaven](https://ja.wikipedia.org/wiki/Mafia:_The_City_of_Lost_Heaven)から翻訳されています。
 
 
-『**Mafia: The City of Lost Heaven**』（通称:マフィア）は、[チェコ](../Page/チェコ.md "wikilink")共和国のゲーム製作会社が開発し、より発売された[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")。2002年8月27日に[Microsoft Windows版](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、2004年に[プレイステーション2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[Xboxが発売された](../Page/Xbox_\(ゲーム機\).md "wikilink")。日本語版はPC版が[ズーより](https://ja.wikipedia.org/wiki/ズー_\(会社\) "wikilink")[2003年](../Page/2003年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")に発売された\[1\]。
+『**Mafia: The City of Lost Heaven**』（通称:マフィア）は、[チェコ](../Page/チェコ.md "wikilink")共和国のゲーム製作会社が開発し、より発売された[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")。2002年8月27日に[Microsoft Windows版](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、2004年に[プレイステーション2](../Page/PlayStation_2.md "wikilink")、[Xboxが発売された](../Page/Xbox_\(ゲーム機\).md "wikilink")。日本語版はPC版が[ズーより](https://ja.wikipedia.org/wiki/ズー_\(会社\) "wikilink")[2003年](../Page/2003年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")に発売された\[1\]。
 
 ## 概要
 

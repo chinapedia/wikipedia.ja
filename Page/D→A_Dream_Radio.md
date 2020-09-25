@@ -1,7 +1,7 @@
 > この記事は[D→A Dream Radio](https://ja.wikipedia.org/wiki/D→A_Dream_Radio)から翻訳されています。
 
 
-『**D→A Dream Radio**』（ディーエー ドリームラジオ）は、[トンキンハウス](../Page/トンキンハウス.md "wikilink")の[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[D→A:BLACK](https://ja.wikipedia.org/wiki/D→A:BLACK "wikilink")』及び『[D→A:WHITE](https://ja.wikipedia.org/wiki/D→A:WHITE "wikilink")』に関連した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[声優](../Page/声優.md "wikilink")の[松来未祐](../Page/松来未祐.md "wikilink")とトンキンハウスのゲームプロデューサーである盛政樹。[2003年](../Page/2003年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")から配信を開始。[2005年](../Page/2005年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")配信分で終了した。全56回。
+『**D→A Dream Radio**』（ディーエー ドリームラジオ）は、[トンキンハウス](../Page/トンキンハウス.md "wikilink")の[PlayStation 2用ゲームソフト](../Page/PlayStation_2.md "wikilink")『[D→A:BLACK](https://ja.wikipedia.org/wiki/D→A:BLACK "wikilink")』及び『[D→A:WHITE](https://ja.wikipedia.org/wiki/D→A:WHITE "wikilink")』に関連した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[声優](../Page/声優.md "wikilink")の[松来未祐](../Page/松来未祐.md "wikilink")とトンキンハウスのゲームプロデューサーである盛政樹。[2003年](../Page/2003年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")から配信を開始。[2005年](../Page/2005年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")配信分で終了した。全56回。
 
 インターネットラジオの配信方法として主流の[ストリーミング](../Page/ストリーミング.md "wikilink")方式ではなく、[ZIP圧縮された](../Page/ZIP_\(ファイルフォーマット\).md "wikilink")[MP3](../Page/MP3.md "wikilink")ファイルを[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")する方式で配信された。配信はトンキンハウスのウェブサイトが閉鎖される2008年1月まで行われていた。
 

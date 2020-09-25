@@ -50,7 +50,7 @@
 <td><p><a href="../Page/VALENTI.md" title="wikilink">VALENTI</a></p></td>
 <td><p><a href="../Page/BoA.md" title="wikilink">BoA</a></p></td>
 <td><p>2002年8月28日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">プレイステーション2用ソフト</a>「PROJECT MINERVA」イメージソング<br />
+<td><p><a href="../Page/PlayStation_2.md" title="wikilink">プレイステーション2用ソフト</a>「PROJECT MINERVA」イメージソング<br />
 <a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系</a>「『<a href="../Page/AX_MUSIC-TV.md" title="wikilink">AX MUSIC-TV</a>』AX POWER PLAY #009」テーマソング</p></td>
 <td></td>
 </tr>
@@ -184,7 +184,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/倖田來未" title="wikilink">倖田來未</a></p></td>
 <td><p>2003年3月5日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/rhythm_zone" title="wikilink">rhythm zone</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">プレイステーション2用ソフト</a>「<a href="https://ja.wikipedia.org/wiki/ファイナルファンタジーX-2" title="wikilink">FINAL FANTASY X-2</a>」オープニング・テーマ曲</p></td>
+<td><p><a href="../Page/PlayStation_2.md" title="wikilink">プレイステーション2用ソフト</a>「<a href="https://ja.wikipedia.org/wiki/ファイナルファンタジーX-2" title="wikilink">FINAL FANTASY X-2</a>」オープニング・テーマ曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>

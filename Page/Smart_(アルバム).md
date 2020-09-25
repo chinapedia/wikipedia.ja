@@ -68,7 +68,7 @@
 2.  **ともだちだよ**
       -
         作詞：Vandrythem、作曲：[板垣祐介](https://ja.wikipedia.org/wiki/板垣祐介 "wikilink")、編曲：鈴木雅也
-3.  **Yes\!** - 怪盗y-ELLOW-voice（[山田涼介](https://ja.wikipedia.org/wiki/山田涼介 "wikilink")・[髙木雄也](https://ja.wikipedia.org/wiki/髙木雄也 "wikilink")・[八乙女光](../Page/八乙女光.md "wikilink")）
+3.  **Yes\!** - 怪盗y-ELLOW-voice（[山田涼介](https://ja.wikipedia.org/wiki/山田涼介 "wikilink")・[髙木雄也](../Page/髙木雄也.md "wikilink")・[八乙女光](../Page/八乙女光.md "wikilink")）
       -
         作詞：亜美、作曲：宮崎歩，亜美、編曲：宮崎歩
 4.  **Super Super Night** - ナイトスタイルピーポー（[知念侑李](https://ja.wikipedia.org/wiki/知念侑李 "wikilink")・[中島裕翔](https://ja.wikipedia.org/wiki/中島裕翔 "wikilink")・[薮宏太](../Page/薮宏太.md "wikilink")）

@@ -6,7 +6,7 @@
 ## 概要
 
   - 1枚目のアルバム『[open_d](https://ja.wikipedia.org/wiki/open_d "wikilink")』の先行シングル。
-  - 『[ウルトラマンネクサス](../Page/ウルトラマンネクサス.md "wikilink")』（[CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）第1期オープニングテーマ（最終回でもエンディングテーマとして使用）および[プレイステーション2専用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ウルトラマンネクサス](https://ja.wikipedia.org/wiki/ウルトラマンネクサス_\(プレイステーション2版\) "wikilink")』主題歌。
+  - 『[ウルトラマンネクサス](../Page/ウルトラマンネクサス.md "wikilink")』（[CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）第1期オープニングテーマ（最終回でもエンディングテーマとして使用）および[プレイステーション2専用ソフト](../Page/PlayStation_2.md "wikilink")『[ウルトラマンネクサス](https://ja.wikipedia.org/wiki/ウルトラマンネクサス_\(プレイステーション2版\) "wikilink")』主題歌。
   - プロモーションビデオは、スタジオでの演奏・歌唱を収録した全編モノトーンの映像。機材のコードが異様に絡んでいる傍ら、吉本大樹が走り回るなどしている。
   - 2010年には『[ウルトラ銀河伝説外伝 ウルトラマンゼロVSダークロプスゼロ](https://ja.wikipedia.org/wiki/ウルトラ銀河伝説外伝_ウルトラマンゼロVSダークロプスゼロ "wikilink")』の主題歌を歌った[voyagerによってカバー曲が製作されている](https://ja.wikipedia.org/wiki/Voyager_\(音楽ユニット\) "wikilink")。
   - 2017年8月26日に行われた「[Animelo Summer Live 2017 -THE CARD-](https://ja.wikipedia.org/wiki/Animelo_Summer_Live "wikilink")」において、[鈴村健一](../Page/鈴村健一.md "wikilink")と[羽多野渉](../Page/羽多野渉.md "wikilink")が当楽曲のカバーを披露した。同ライブにおいてアニメソング以外が披露されるのは極めて異例\[1\]。

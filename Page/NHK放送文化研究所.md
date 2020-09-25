@@ -19,7 +19,6 @@
   - [斉藤孝信](../Page/斉藤孝信.md "wikilink")（さいとう・たかのぶ）
   - [柴田厚](https://ja.wikipedia.org/wiki/柴田厚 "wikilink")（しばた・あつし）
   - [中山準之助](../Page/中山準之助.md "wikilink")（なかやま・じゅんのすけ）
-  - [野地俊二](../Page/野地俊二.md "wikilink")（のじ・しゅんじ）
   - [山口勝](../Page/山口勝_\(アナウンサー\).md "wikilink")（やまぐち・まさる）
   - [和田成弘](https://ja.wikipedia.org/wiki/和田成弘 "wikilink")（わだ・しげひろ）
 

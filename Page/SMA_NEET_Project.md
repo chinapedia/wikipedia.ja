@@ -48,13 +48,11 @@
   - [ハッピーエンド](../Page/ハッピーエンド_\(お笑い\).md "wikilink")（山本譲城／田中慎之介）
   - [ガシャァン](https://ja.wikipedia.org/wiki/ガシャァン "wikilink")（[たいがー・りー](../Page/たいがー・りー.md "wikilink")／肩パット／コールユーブンゲン）
   - [2世代ターボ](https://ja.wikipedia.org/wiki/2世代ターボ "wikilink")（[河崎健男](../Page/キリングセンス.md "wikilink")／栗本宗昌）
-  - [じゃむ](https://ja.wikipedia.org/wiki/じゃむ "wikilink")（牧山俊之／じゃむじゅん）
   - [松下ひもの](https://ja.wikipedia.org/wiki/松下ひもの "wikilink")（松下泰久／ひもの）
   - [だーりんず](https://ja.wikipedia.org/wiki/だーりんず "wikilink")（松本りんす／小田祐一郎）
   - [ムシャムシャ](https://ja.wikipedia.org/wiki/ムシャムシャ "wikilink")（児島淳子／村上友香）
   - [バイきんぐ](https://ja.wikipedia.org/wiki/バイきんぐ "wikilink")（[小峠英二](https://ja.wikipedia.org/wiki/小峠英二 "wikilink")／[西村瑞樹](https://ja.wikipedia.org/wiki/西村瑞樹 "wikilink")）
   - [ツインクル](../Page/ツインクル_\(お笑いコンビ\).md "wikilink")（ポリスじろう\[5\]／クック井上。\[6\]）
-  - [つくし野センター](https://ja.wikipedia.org/wiki/つくし野センター "wikilink")（鈴木トド／松井瀬己）
   - [プラッチック](https://ja.wikipedia.org/wiki/プラッチック_\(お笑い\) "wikilink")（[一丁](https://ja.wikipedia.org/wiki/一丁 "wikilink")／[ニッタロビンソン](https://ja.wikipedia.org/wiki/仁田和伸 "wikilink")）
   - [キリンキリン](https://ja.wikipedia.org/wiki/キリンキリン "wikilink")（きりん田／岡下浩也）
   - [しめじクリニック](https://ja.wikipedia.org/wiki/しめじクリニック "wikilink")（中山亮／あんご）
@@ -67,7 +65,6 @@
   - [リッチドッグ](https://ja.wikipedia.org/wiki/リッチドッグ "wikilink")（山中陽裕／宮本裕平）
   - [Wニードロップ](https://ja.wikipedia.org/wiki/Wニードロップ "wikilink")（[小橋太っ太](https://ja.wikipedia.org/wiki/3フランシスコ "wikilink")／奥村CEO）
   - [万福](https://ja.wikipedia.org/wiki/万福 "wikilink")（桑本／トントン\[8\]）
-  - [愛のゼブラ](https://ja.wikipedia.org/wiki/愛のゼブラ "wikilink")（田中ゼブラ／愛のかたまり）
   - [あるてぃんぐ](https://ja.wikipedia.org/wiki/あるてぃんぐ "wikilink")（大矢はるき／鷲尾あきと）
   - [社長のおにぎり](https://ja.wikipedia.org/wiki/社長のおにぎり "wikilink")（ヤキオニギリ／社長）
   - [ベイボイン](https://ja.wikipedia.org/wiki/ベイボイン "wikilink")
@@ -236,7 +233,7 @@
 
 <!-- end list -->
 
-  - [有刺鉄線](https://ja.wikipedia.org/wiki/有刺鉄線_\(お笑い\) "wikilink")
+  - [有刺鉄線](../Page/有刺鉄線_\(お笑い\).md "wikilink")
   - [レッドクリスマス](https://ja.wikipedia.org/wiki/レッドクリスマス "wikilink")
   - [渡辺塾国民学校](../Page/渡辺塾国民学校.md "wikilink")
   - [鼻エンジン](../Page/鼻エンジン.md "wikilink")（[村田渚](../Page/村田渚.md "wikilink")）

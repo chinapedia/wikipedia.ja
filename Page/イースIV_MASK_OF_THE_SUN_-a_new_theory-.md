@@ -1,7 +1,7 @@
 > この記事は[イースIV MASK OF THE SUN -a new theory-](https://ja.wikipedia.org/wiki/イースIV_MASK_OF_THE_SUN_-a_new_theory-)から翻訳されています。
 
 
-『**イースIV MASK OF THE SUN -a new theory-**』（イースフォー マスクオブザサン アニユーセオリー）とは、[日本ファルコム](../Page/日本ファルコム.md "wikilink")の[アクションRPGシリーズである](../Page/アクションロールプレイングゲーム.md "wikilink")〈[イースシリーズ](../Page/イースシリーズ.md "wikilink")〉第4作となる[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")の1つ。[1993年](../Page/1993年.md "wikilink")（平成5年）にオリジナル2作品が発売された『イースIV』の[リメイク](../Page/リメイク.md "wikilink")作品で、[2005年](../Page/2005年.md "wikilink")（平成17年）5月26日に[PlayStation 2用ソフトとして](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から発売された。
+『**イースIV MASK OF THE SUN -a new theory-**』（イースフォー マスクオブザサン アニユーセオリー）とは、[日本ファルコム](../Page/日本ファルコム.md "wikilink")の[アクションRPGシリーズである](../Page/アクションロールプレイングゲーム.md "wikilink")〈[イースシリーズ](../Page/イースシリーズ.md "wikilink")〉第4作となる[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")の1つ。[1993年](../Page/1993年.md "wikilink")（平成5年）にオリジナル2作品が発売された『イースIV』の[リメイク](../Page/リメイク.md "wikilink")作品で、[2005年](../Page/2005年.md "wikilink")（平成17年）5月26日に[PlayStation 2用ソフトとして](../Page/PlayStation_2.md "wikilink")[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から発売された。
 
 本稿ではゲーム作品『イースIV MASK OF THE SUN -a new theory-』に関する記述を中心とし、シリーズや『イースIV』の全体像については原則として扱わない。これらの詳細については「[イースシリーズ](../Page/イースシリーズ.md "wikilink")」および「[イースIV](../Page/イースIV.md "wikilink")」を参照。また本作と同じ副題を持つオリジナル作品については「[イースIV MASK OF THE SUN](../Page/イースIV_MASK_OF_THE_SUN.md "wikilink")」を参照。
 
@@ -11,7 +11,7 @@
 
 。ただし副題の「新説」の名の通りに全面的に作り直されており、ストーリーのベース部分以外での共通点は少ない\[1\]。例えば本作では新たな冒険を求めセルセタの地を訪れたアドルが、あるはずのない7冊目のイースの書の噂を聞き、その謎を追うために物語が始まり、オリジナル版では両作に見られたエステリア再訪を完全にカットしている。また重要なアイテムであった太陽の仮面についても新解釈を用いるなど大胆なアレンジが試みられている。
 
-タイトーは[2004年](../Page/2004年.md "wikilink")（平成16年）に[PlayStation 2向け事業でファルコムと提携しており](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")\[2\]この前後約1年の間に『[III](../Page/イースIII.md "wikilink")』『IV』『[V](../Page/イースV.md "wikilink")』のPS2向けリメイクを立て続けに発売しているが、本作に続いて発売された『V』はシステム面での共通部分が多い。
+タイトーは[2004年](../Page/2004年.md "wikilink")（平成16年）に[PlayStation 2向け事業でファルコムと提携しており](../Page/PlayStation_2.md "wikilink")\[2\]この前後約1年の間に『[III](../Page/イースIII.md "wikilink")』『IV』『[V](../Page/イースV.md "wikilink")』のPS2向けリメイクを立て続けに発売しているが、本作に続いて発売された『V』はシステム面での共通部分が多い。
 
 ## ゲームシステム
 

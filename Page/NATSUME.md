@@ -148,7 +148,7 @@
 ### その他
 
   - [Something ELseシングル](../Page/Something_ELse.md "wikilink")「1M」ジャケット写真（2003年）
-  - [PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[Xbox](../Page/Xbox_\(ゲーム機\).md "wikilink")・「レッド・デッド・リボルバー」イメージガール（2005年、[CAPCOM](../Page/カプコン.md "wikilink")）
+  - [PS2](../Page/PlayStation_2.md "wikilink")、[Xbox](../Page/Xbox_\(ゲーム機\).md "wikilink")・「レッド・デッド・リボルバー」イメージガール（2005年、[CAPCOM](../Page/カプコン.md "wikilink")）
   - [PSP](../Page/PlayStation_Portable.md "wikilink")・「メタルギアアシッド2」（2005年、[KONAMI](https://ja.wikipedia.org/wiki/コナミ "wikilink")）
   - [HOT☆FANTASY ODAIBA](https://ja.wikipedia.org/wiki/HOT☆FANTASY_ODAIBA "wikilink")2005イメージキャラクター・「電車ガールズ」（2005年）
   - [東芝](../Page/東芝.md "wikilink")[HDD](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")＆[DVDレコーダー](../Page/DVDレコーダー.md "wikilink")「[VARDIA](../Page/VARDIA.md "wikilink")」総合カタログ（2007年）

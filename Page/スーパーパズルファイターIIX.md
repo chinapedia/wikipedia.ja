@@ -204,7 +204,7 @@
   - [ポケットファイター](../Page/ポケットファイター.md "wikilink")
     [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月](../Page/9月.md "wikilink")にアーケードで登場した、本作と同じSDキャラクターを使用した[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。ゲームジャンルや登場キャラクターの一部は異なるが雰囲気は本作と似通っており、ジェムが引き続き登場。
   - [ストリートファイターZERO ファイターズ ジェネレーション](../Page/ストリートファイターZERO_ファイターズ_ジェネレーション.md "wikilink")
-    [2006年](../Page/2006年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")に発売された、『[ストリートファイターZERO](../Page/ストリートファイターZERO.md "wikilink")』シリーズと上記の『ポケットファイター』を1本にまとめた[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。本作自体は収録されていないものの、『ポケットファイター』の追加要素として一部モードで『スパズル』のBGMがそのまま使用され、サウンドテストにもアーケード版およびPS、SS版『スパズル』の全曲が（さくらの歌も含め）収録されている。
+    [2006年](../Page/2006年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")に発売された、『[ストリートファイターZERO](../Page/ストリートファイターZERO.md "wikilink")』シリーズと上記の『ポケットファイター』を1本にまとめた[PlayStation 2用ソフト](../Page/PlayStation_2.md "wikilink")。本作自体は収録されていないものの、『ポケットファイター』の追加要素として一部モードで『スパズル』のBGMがそのまま使用され、サウンドテストにもアーケード版およびPS、SS版『スパズル』の全曲が（さくらの歌も含め）収録されている。
   - [アイルーでパズルー](https://ja.wikipedia.org/wiki/アイルーでパズルー "wikilink")
     2012年7月19日に発売された[PlayStation Portable用ソフト](../Page/PlayStation_Portable.md "wikilink")。『[モンハン日記 ぽかぽかアイルー村](https://ja.wikipedia.org/wiki/モンハン日記_ぽかぽかアイルー村 "wikilink")』のキャラクターが登場する対戦パズルアクション。ゲームシステムは本作のものを流用しているが、キャラクターごとの特殊攻撃「必殺技」の要素がある。
   - ストリートファイター パズルスピリッツ

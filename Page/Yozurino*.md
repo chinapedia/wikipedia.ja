@@ -40,7 +40,7 @@
 </tr>
 <tr class="even">
 <td><p>Hello Future</p></td>
-<td><p><small><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PS2ゲーム</a>『<a href="../Page/D.C._Four_Seasons_〜ダ・カーポ〜_フォーシーズンズ.md" title="wikilink">D.C. Four Seasons 〜ダ・カーポ〜 フォーシーズンズ</a>』<a href="../Page/主題歌.md" title="wikilink">オープニングテーマ</a></small></p></td>
+<td><p><small><a href="../Page/PlayStation_2.md" title="wikilink">PS2ゲーム</a>『<a href="../Page/D.C._Four_Seasons_〜ダ・カーポ〜_フォーシーズンズ.md" title="wikilink">D.C. Four Seasons 〜ダ・カーポ〜 フォーシーズンズ</a>』<a href="../Page/主題歌.md" title="wikilink">オープニングテーマ</a></small></p></td>
 </tr>
 <tr class="odd">
 <td><p>BELIEVE</p></td>

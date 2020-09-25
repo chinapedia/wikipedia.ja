@@ -1,7 +1,7 @@
 > この記事は[イースI・II](https://ja.wikipedia.org/wiki/イースI・II)から翻訳されています。
 
 
-『**イースI・II** 』（イースワン・ツー、Ys I・II）とは、[日本ファルコム](../Page/日本ファルコム.md "wikilink")の[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink") (ARPG)、〈[イースシリーズ](../Page/イースシリーズ.md "wikilink")〉の第1作『[イース](../Page/イースI.md "wikilink")』 (Ys I) と第2作『[イースII](../Page/イースII.md "wikilink")』 (Ys II) を一本にまとめて発売された物。[PCエンジン](../Page/PCエンジン.md "wikilink") (PCE) [CD-ROM<sup>2</sup>](../Page/CD-ROM2.md "wikilink")、[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") (Win)、[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") (PS2)、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink") (PSP) で発売された。
+『**イースI・II** 』（イースワン・ツー、Ys I・II）とは、[日本ファルコム](../Page/日本ファルコム.md "wikilink")の[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink") (ARPG)、〈[イースシリーズ](../Page/イースシリーズ.md "wikilink")〉の第1作『[イース](../Page/イースI.md "wikilink")』 (Ys I) と第2作『[イースII](../Page/イースII.md "wikilink")』 (Ys II) を一本にまとめて発売された物。[PCエンジン](../Page/PCエンジン.md "wikilink") (PCE) [CD-ROM<sup>2</sup>](../Page/CD-ROM2.md "wikilink")、[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") (Win)、[PlayStation 2](../Page/PlayStation_2.md "wikilink") (PS2)、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink") (PSP) で発売された。
 
 Win版の正式販売タイトルは『**イースI・II完全版**』（Ys I・II COMPLETE）『**イースI\&IIクロニクルズ**』 (Ys I\&II Chronicles)、PS2版は『**イースI・IIエターナルストーリー** 』（Ys I・II ETERNAL STORY）、PSP版は『**イースI\&IIクロニクルズ**』 (Ys I\&II Chronicles)。
 
@@ -85,7 +85,7 @@ PCエンジンへの移植作品。これまではそれぞれ別個に移植さ
 
 ## イースI・IIエターナルストーリー
 
-『イースI・IIエターナルストーリー（I・IIES）』はWin版『イースI・II完全版（I・IIC）』を元として[PS2に移植された作品である](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。「**Ys I・II ETERNAL STORY**」、「**Ys I ETERNAL**」、「**Ys II ETERNAL**」の3種類のモードが用意されている。それぞれのモードは独立しているため、当然「IEモード」をクリアしなくても「IIEモード」をはじめる事が可能である。
+『イースI・IIエターナルストーリー（I・IIES）』はWin版『イースI・II完全版（I・IIC）』を元として[PS2に移植された作品である](../Page/PlayStation_2.md "wikilink")。「**Ys I・II ETERNAL STORY**」、「**Ys I ETERNAL**」、「**Ys II ETERNAL**」の3種類のモードが用意されている。それぞれのモードは独立しているため、当然「IEモード」をクリアしなくても「IIEモード」をはじめる事が可能である。
 
 なお、「Ys I ETERNAL」・「Ys II ETERNAL」の両モードはWinの『I・IIC』からのほぼ忠実な移植のため、詳細についてはそれぞれ『[イースI\#イースエターナル・イースI完全版](https://ja.wikipedia.org/wiki/イースI#イースエターナル・イースI完全版 "wikilink")』、『[イースII\#イースIIエターナル・イースII完全版](https://ja.wikipedia.org/wiki/イースII#イースIIエターナル・イースII完全版 "wikilink")』の項を参照。
 

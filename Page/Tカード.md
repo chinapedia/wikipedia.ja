@@ -7,7 +7,7 @@
 
 ## 都電・都バス用
 
-  - [1993年](../Page/1993年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")に[都電と](https://ja.wikipedia.org/wiki/東京都電車 "wikilink")[都バスで使える乗車カードとして発売されたものである](../Page/都営バス.md "wikilink")。[神奈川中央交通](../Page/神奈川中央交通.md "wikilink")の[バスカード](../Page/バスカード.md "wikilink")と同じシステムを採用した。
+  - [1993年](../Page/1993年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")に[都電と](https://ja.wikipedia.org/wiki/東京都電車 "wikilink")[都バスで使える乗車カードとして発売されたものである](../Page/都営バス.md "wikilink")\[1\]。[神奈川中央交通](../Page/神奈川中央交通.md "wikilink")の[バスカード](../Page/バスカード.md "wikilink")と同じシステムを採用した。
   - [1994年](../Page/1994年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に[バス共通カード](../Page/バス共通カード.md "wikilink")が東京23区に拡大されたのに伴い、バス共通カードの発売に切り替えられた（ただし[JTB](../Page/JTB.md "wikilink")の都営交通取扱店ではその後もしばらくの間発売された）。
 
 ## 地下鉄用（→パスネット）
@@ -21,7 +21,7 @@
 
 ### 都営地下鉄専用
 
-  - 1994年[6月25日](../Page/6月25日.md "wikilink")に都営地下鉄全駅の出改札の自動化が完了したのを受けて、11月1日に都営地下鉄全線に拡大された\[1\]。これにより、12号線専用のTカードも都営地下鉄全線で使えるようになった。
+  - 1994年[6月25日](../Page/6月25日.md "wikilink")に都営地下鉄全駅の出改札の自動化が完了したのを受けて、11月1日に都営地下鉄全線に拡大された\[2\]。これにより、12号線専用のTカードも都営地下鉄全線で使えるようになった。
 
 ### 都営地下鉄・営団地下鉄共通
 
@@ -45,14 +45,15 @@
 
 ## PASMO導入
 
-[2007年](../Page/2007年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")から[JR東日本の](../Page/東日本旅客鉄道.md "wikilink")「[Suica](../Page/Suica.md "wikilink")」と相互利用ができ、かつ首都圏の路線バスと共通で使用する[ICカード](../Page/ICカード.md "wikilink")「[PASMO](../Page/PASMO.md "wikilink")」が発売され、その引き換えとしてパスネット（Tカード）は券売機のみの発売となった。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[1月10日](../Page/1月10日.md "wikilink")の終電をもって発売を終了、[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")の終電をもってパスネット（Tカード）の自動改札機での使用を終了した。その後も券売機等での乗車券購入等で利用可能だったが、利用状況の減少・PASMOへの代替が進んだことにより、2015年3月31日をもってTカード（「パスネット」表記の有無に関係なく）の券売機等での利用が終了され、払い戻しの取り扱いも[資金決済に関する法律](https://ja.wikipedia.org/wiki/資金決済に関する法律 "wikilink")に基づいて2018年1月31日をもって終了することが明らかになった\[2\]。
+[2007年](../Page/2007年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")から[JR東日本の](../Page/東日本旅客鉄道.md "wikilink")「[Suica](../Page/Suica.md "wikilink")」と相互利用ができ、かつ首都圏の路線バスと共通で使用する[ICカード](../Page/ICカード.md "wikilink")「[PASMO](../Page/PASMO.md "wikilink")」が発売され、その引き換えとしてパスネット（Tカード）は券売機のみの発売となった。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[1月10日](../Page/1月10日.md "wikilink")の終電をもって発売を終了、[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")の終電をもってパスネット（Tカード）の自動改札機での使用を終了した。その後も券売機等での乗車券購入等で利用可能だったが、利用状況の減少・PASMOへの代替が進んだことにより、2015年3月31日をもってTカード（「パスネット」表記の有無に関係なく）の券売機等での利用が終了され、払い戻しの取り扱いも[資金決済に関する法律](https://ja.wikipedia.org/wiki/資金決済に関する法律 "wikilink")に基づいて2018年1月31日をもって終了することが明らかになった\[3\]。
 
-また、かつて発売されていた都電・都バス用のTカードについては、[2009年](../Page/2009年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")の交通局ニュースリリースにて発表された「バス共通カードのサービス終了について」の告知内には全く触れられなかったが、その後、都バス乗継割引カードとともに、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月31日](../Page/7月31日.md "wikilink")の利用をもって終了することが、2010年[1月13日](../Page/1月13日.md "wikilink")付けの交通局ニュースリリース\[3\]にて明らかになった。これに伴い、取扱い終了の翌日から5年間までの間、プレミア分を差し引いた上で無手数料での払い戻しを実施する。
+また、かつて発売されていた都電・都バス用のTカードについては、[2009年](../Page/2009年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")の交通局ニュースリリースにて発表された「バス共通カードのサービス終了について」の告知内には全く触れられなかったが、その後、都バス乗継割引カードとともに、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月31日](../Page/7月31日.md "wikilink")の利用をもって終了することが、2010年[1月13日](../Page/1月13日.md "wikilink")付けの交通局ニュースリリース\[4\]にて明らかになった。これに伴い、取扱い終了の翌日から5年間までの間、プレミア分を差し引いた上で無手数料での払い戻しを実施する。
 
 ## 脚注
 
 [Category:東京都交通局](https://ja.wikipedia.org/wiki/Category:東京都交通局 "wikilink") [Category:乗車カード](https://ja.wikipedia.org/wiki/Category:乗車カード "wikilink")
 
 1.
-2.  [パスネットの使用終了と残額の払い戻しについて](http://www.kotsu.metro.tokyo.jp/newsevent/news/subway/2014/sub_p_201412154809_h.html) パスネット協議会 2014年12月15日発表
-3.  [乗継割引カード及び都バス都電専用Tカードの取り扱い終了について](http://www.kotsu.metro.tokyo.jp/newsevent/news/bus/2010/bus_i_201001131_h.html)（東京都交通局ニュースリリース 2010年1月13日発表）
+2.
+3.  [パスネットの使用終了と残額の払い戻しについて](http://www.kotsu.metro.tokyo.jp/newsevent/news/subway/2014/sub_p_201412154809_h.html) パスネット協議会 2014年12月15日発表
+4.  [乗継割引カード及び都バス都電専用Tカードの取り扱い終了について](http://www.kotsu.metro.tokyo.jp/newsevent/news/bus/2010/bus_i_201001131_h.html)（東京都交通局ニュースリリース 2010年1月13日発表）

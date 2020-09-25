@@ -27,7 +27,7 @@
         「ゼスプリ・ゴールド[キウイ](https://ja.wikipedia.org/wiki/キウイフルーツ "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")
 2.  **Beautiful Fighters "Original Mix"**
       -
-        作曲：[Kazuhito Kikuchi](../Page/菊池一仁.md "wikilink") / 編曲：[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")
+        作曲：[Kazuhito Kikuchi](../Page/菊池一仁.md "wikilink") / 編曲：[CMJK](../Page/CMJK.md "wikilink")
         [Panasonic](https://ja.wikipedia.org/wiki/Panasonic "wikilink")「[D-snap](../Page/D-snap.md "wikilink") Audio」/「D-dock」CMソング
 3.  **[Ladies Night 〜another night〜](../Page/\(miss\)understood.md "wikilink")**
       -

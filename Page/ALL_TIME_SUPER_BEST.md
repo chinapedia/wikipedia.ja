@@ -5,7 +5,7 @@
 
 ## 解説
 
-ソロ名義でのベスト・アルバムとしては4枚目で、[1981年](../Page/1981年.md "wikilink")に[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")として初めてステージに立ってから[2006年](../Page/2006年.md "wikilink")で25周年になるのを記念した作品\[1\]。本作について布袋は「振り返るべき過去みたいなものを自分も背負ったというのもあるし、ここでもう一度自分自身を見つめ直すのには良いチャンスだったというのがきっかけ。」としている\[2\]。
+ソロ名義でのベスト・アルバムとしては4枚目で、[1981年](../Page/1981年.md "wikilink")に[BOØWY](../Page/BOØWY.md "wikilink")として初めてステージに立ってから[2006年](../Page/2006年.md "wikilink")で25周年になるのを記念した作品\[1\]。本作について布袋は「振り返るべき過去みたいなものを自分も背負ったというのもあるし、ここでもう一度自分自身を見つめ直すのには良いチャンスだったというのがきっかけ。」としている\[2\]。
 
 本作には、BOØWY時代の曲「[BAD FEELING](../Page/BAD_FEELING.md "wikilink")」と「[BEAT SWEET](../Page/BEAT_EMOTION.md "wikilink")」、[COMPLEX](../Page/COMPLEX.md "wikilink")時代の曲「[BE MY BABY](../Page/BE_MY_BABY.md "wikilink")」を自らの[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")で[セルフカバーした楽曲とソロ時代のヒット曲をアレンジを変えて新たにレコーディングした全](../Page/カバー.md "wikilink")15曲が収録され\[3\]、15曲中8曲が新録音となっている\[4\]。
 
@@ -17,7 +17,7 @@
 
 1.  **[BAD FEELING](../Page/BAD_FEELING.md "wikilink")** <small>\[25YEARS ANNIVERSARY VERSION\]</small>
       -
-        [BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の楽曲のカバーで、原曲よりも曲の長さが短くなっている。
+        [BOØWY](../Page/BOØWY.md "wikilink")の楽曲のカバーで、原曲よりも曲の長さが短くなっている。
 2.  **[BE MY BABY](../Page/BE_MY_BABY.md "wikilink")** <small>\[25YEARS ANNIVERSARY VERSION\]</small>
       -
         [COMPLEX](../Page/COMPLEX.md "wikilink")の楽曲のカバー。

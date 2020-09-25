@@ -10,7 +10,7 @@
 ## メンバー
 
   - 多胡 淳（たご あつし）
-    リーダー。パートは3rd。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[鎌倉市](../Page/鎌倉市.md "wikilink")生まれ。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。1歳になる前に父親の転勤により[中米に渡り](../Page/中央アメリカ.md "wikilink")、週末は父親のギター伴奏のもと家族とのハモりで歌っていた。6歳で帰国後は日本語に苦労したという。高校時代は吹奏楽部でサキソフォンを吹く。[美川憲一](../Page/美川憲一.md "wikilink")のものまねが得意。[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")の[北山陽一](../Page/北山陽一.md "wikilink")と**kitago-yama**というユニットを結成。唯一発表されている楽曲「Rebirth」がアニメ『[エンジェル・ハート](../Page/エンジェル・ハート.md "wikilink")』の挿入歌として採用。
+    リーダー。パートは3rd。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[鎌倉市](../Page/鎌倉市.md "wikilink")生まれ。[血液型はA型](../Page/ABO式血液型.md "wikilink")。1歳になる前に父親の転勤により[中米に渡り](../Page/中央アメリカ.md "wikilink")、週末は父親のギター伴奏のもと家族とのハモりで歌っていた。6歳で帰国後は日本語に苦労したという。高校時代は吹奏楽部でサキソフォンを吹く。[美川憲一](../Page/美川憲一.md "wikilink")のものまねが得意。[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")の[北山陽一](../Page/北山陽一.md "wikilink")と**kitago-yama**というユニットを結成。唯一発表されている楽曲「Rebirth」がアニメ『[エンジェル・ハート](../Page/エンジェル・ハート.md "wikilink")』の挿入歌として採用。
   - 青木 肇（あおき はじめ）
     パートはVocal Bass。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")生まれ。血液型はA型。[早稲田大学](../Page/早稲田大学.md "wikilink")第一文学部東洋哲学専修卒。
   - 松永 ちづる（まつなが ちづる）
@@ -89,17 +89,18 @@
 
 ### 2020年
 
-| 日付         | ライブ                                                 | 会場                  | 備考                        |
-| ---------- | --------------------------------------------------- | ------------------- | ------------------------- |
-| 2020/01/25 | TRY-TONE A Cappella Live                            | 横浜馬車道King’s Bar     | 新森春花・Shin-Imayama 出演      |
-| 2020/02/15 | TRY-TONE A Cappella Live                            | 池袋Apple Jump        | 新森春花・とおるす 出演              |
-| 2020/03/28 | 松永ちづるソロライブ'うたと私とピアノ’2020春                           | 池袋Apple Jump        | 【中止】15:00〜                |
-| 2020/03/28 | Try3 from TRY-TONE A Cappella Night with 長野次郎(sax.） | 池袋Apple Jump        | 【中止】19:00〜                |
-| 2020/04/14 | HOTひといきコンサート(Try3 with 松原ヒロ)                        | 成増アクトホール            | 【延期】                      |
-| 2020/04/24 | TRY-TONE Acappella Live「僕らの青春メモリイズ」 Part2           | 目黒Blues Alley Japan | 【延期】新森春花・Shin-Imayama 出演  |
-| 2020/05/16 | TRY-TONE A Cappella Live                            | 池袋Apple Jump        | 【延期】                      |
-| 2020/08/09 | Try3 from TRY-TONE A Cappella Night                 | 横浜馬車道King’s Bar     |                           |
-| 2020/08/30 | WAVOC presents 災害ボランティア支援 ゴスペラーズ　アカペラコンサート          | 配信ライブ               | 新森春花・Shin-Imayamaと共にゲスト出演 |
+| 日付                | ライブ                                                        | 会場                  | 備考                          |
+| ----------------- | ---------------------------------------------------------- | ------------------- | --------------------------- |
+| 2020/01/25        | TRY-TONE A Cappella Live                                   | 横浜馬車道King’s Bar     | 新森春花・Shin-Imayama 出演        |
+| 2020/02/15        | TRY-TONE A Cappella Live                                   | 池袋Apple Jump        | 新森春花・とおるす 出演                |
+| <s>2020/03/28</s> | <s>松永ちづるソロライブ'うたと私とピアノ’2020春</s>                           | 池袋Apple Jump        | 【中止】15:00〜                  |
+| <s>2020/03/28</s> | <s>Try3 from TRY-TONE A Cappella Night with 長野次郎(sax.）</s> | 池袋Apple Jump        | 【中止】19:00〜                  |
+| <s>2020/04/14</s> | <s>HOTひといきコンサート(Try3 with 松原ヒロ)</s>                        | 成増アクトホール            | 【延期】                        |
+| <s>2020/04/24</s> | <s>TRY-TONE Acappella Live「僕らの青春メモリイズ」 Part2</s>           | 目黒Blues Alley Japan | 【延期】新森春花・Shin-Imayama 出演    |
+| <s>2020/05/16</s> | <s>TRY-TONE A Cappella Live</s>                            | 池袋Apple Jump        | 【延期】                        |
+| 2020/08/09        | Try3 from TRY-TONE A Cappella Night                        | 横浜馬車道King’s Bar     |                             |
+| 2020/08/30        | WAVOC presents 災害ボランティア支援 ゴスペラーズ　アカペラコンサート                 | 配信ライブ               | 新森春花・Shin-Imayamaと共にゲスト出演   |
+| 2020/09/24        | TRY-TONE Acappella Night ‘September Special'               | 目黒Blues Alley Japan | 新森春花・Shin-Imayama 出演 生配信もあり |
 
 ### 2019年
 

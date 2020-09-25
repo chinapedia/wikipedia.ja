@@ -178,6 +178,17 @@
 <td><p><strong>8 - 0</strong></p></td>
 <td><p>|- style="text-align: center; background-color:#D0E7FF</p></td>
 </tr>
+<tr class="odd">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><br />
+<a href="https://ja.wikipedia.org/wiki/2020_AFCフットサル選手権" title="wikilink">詳細</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

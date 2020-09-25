@@ -23,7 +23,7 @@
 
   - 大川 七瀬（おおかわ ななせ）（旧名：大川緋芭）
     [1967年](../Page/1967年.md "wikilink")[5月2日](../Page/5月2日.md "wikilink")\[6\]、[大阪府](../Page/大阪府.md "wikilink")出身。
-    [血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+    [血液型はA型](../Page/ABO式血液型.md "wikilink")。
     大学時代の専攻は『[八犬伝](../Page/南総里見八犬伝.md "wikilink")』で、過去に八犬伝をモチーフにした作品『[破軍星戦記](https://ja.wikipedia.org/wiki/破軍星戦記 "wikilink")』を『[KID's](https://ja.wikipedia.org/wiki/KID's "wikilink")』において連載していたが、同誌の廃刊に伴って打ち切りとなったことがある。作品がアニメ化される際も、脚本として参加することが多い。
   - いがらし 寒月（- さつき）（旧名：五十嵐さつき）
     [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[2月8日](../Page/2月8日.md "wikilink")\[7\]、[京都府](../Page/京都府.md "wikilink")生まれの[滋賀県](../Page/滋賀県.md "wikilink")出身。
@@ -148,7 +148,7 @@
   - [撲殺天使ドクロちゃん です](../Page/撲殺天使ドクロちゃん.md "wikilink")（[メディアワークス](../Page/メディアワークス.md "wikilink") 2006年6月）
   - [魔女館シリーズ](https://ja.wikipedia.org/wiki/魔女館シリーズ "wikilink")（[青い鳥文庫](../Page/青い鳥文庫.md "wikilink") 2006年6月15日 - 2011年10月8日）
   - [xxxHOLiC アナザーホリック ランドルト環エアロゾル](https://ja.wikipedia.org/wiki/XXXHOLiC#ノベライズ "wikilink")（[西尾維新](../Page/西尾維新.md "wikilink") 講談社 2006年8月1日）
-  - [舞姫](https://ja.wikipedia.org/wiki/舞姫_\(森鷗外\) "wikilink")・[うたかたの記](../Page/うたかたの記.md "wikilink")（[森鷗外](https://ja.wikipedia.org/wiki/森鷗外 "wikilink") [角川文庫](../Page/角川文庫.md "wikilink") 2008年6月25日）
+  - [舞姫](../Page/舞姫_\(森鷗外\).md "wikilink")・[うたかたの記](../Page/うたかたの記.md "wikilink")（[森鷗外](https://ja.wikipedia.org/wiki/森鷗外 "wikilink") [角川文庫](../Page/角川文庫.md "wikilink") 2008年6月25日）
   - [山椒大夫](../Page/山椒大夫.md "wikilink")・[高瀬舟](../Page/高瀬舟_\(小説\).md "wikilink")・[阿部一族](../Page/阿部一族.md "wikilink")（森鴎外 角川文庫 2008年6月25日）
   - [神々シリーズ](https://ja.wikipedia.org/wiki/神々シリーズ "wikilink")（[あさのあつこ](../Page/あさのあつこ.md "wikilink") 講談社 2009年10月1日 - 2013年10月29日）
   - おもしろい話が読みたい\! マジカル編（アンソロジー 青い鳥文庫 2010年8月5日）

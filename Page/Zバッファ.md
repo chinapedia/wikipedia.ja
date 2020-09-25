@@ -23,7 +23,7 @@ Zバッファという名前は、Z-coordinate（3次元空間の次元軸を表
 
 [初代PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink") (PS1) \[5\]や[3DO](../Page/3DO.md "wikilink")、[セガサターン](../Page/セガサターン.md "wikilink")にはZバッファが搭載されていなかった。そのため、ポリゴン単位で前後関係を判定する[Zソート法](https://ja.wikipedia.org/wiki/Zソート法 "wikilink")が使用されていた。この方法はZバッファよりも省メモリであるというメリットがあるが、一方で交差するポリゴンを正しく描画できない、ソートのための処理時間を必要とする、などのデメリットもある。
 
-なお、[NINTENDO64](../Page/NINTENDO64.md "wikilink")にはZバッファが搭載されていた。以降、[PlayStation 2や](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")などの後継機種では、Zバッファが搭載されることが標準的になっていった。
+なお、[NINTENDO64](../Page/NINTENDO64.md "wikilink")にはZバッファが搭載されていた。以降、[PlayStation 2や](../Page/PlayStation_2.md "wikilink")[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")などの後継機種では、Zバッファが搭載されることが標準的になっていった。
 
 ## 脚注
 

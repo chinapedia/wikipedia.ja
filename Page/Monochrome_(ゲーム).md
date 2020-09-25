@@ -1,7 +1,7 @@
 > この記事は[Monochrome \(ゲーム\)](https://ja.wikipedia.org/wiki/Monochrome_\(ゲーム\))から翻訳されています。
 
 
-『**Monochrome**』（モノクローム）は、[KIDより](../Page/KID_\(ゲームブランド\).md "wikilink")[2004年](../Page/2004年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")に[PlayStation 2で発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。[2005年](../Page/2005年.md "wikilink")[11月24日](../Page/11月24日.md "wikilink")に[サクセスより](../Page/サクセス_\(ゲーム会社\).md "wikilink")[SuperLite2000シリーズにて](../Page/SuperLiteシリーズ.md "wikilink")、廉価版も発売されている。
+『**Monochrome**』（モノクローム）は、[KIDより](../Page/KID_\(ゲームブランド\).md "wikilink")[2004年](../Page/2004年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")に[PlayStation 2で発売された](../Page/PlayStation_2.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。[2005年](../Page/2005年.md "wikilink")[11月24日](../Page/11月24日.md "wikilink")に[サクセスより](../Page/サクセス_\(ゲーム会社\).md "wikilink")[SuperLite2000シリーズにて](../Page/SuperLiteシリーズ.md "wikilink")、廉価版も発売されている。
 
 KIDからは限定版と通常版の2種類が発売され、限定版には作中[BGMの収録された](../Page/バックグラウンドミュージック.md "wikilink")[サウンドトラック](../Page/サウンドトラック.md "wikilink")CDと[アンソロジー](../Page/アンソロジー.md "wikilink")[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")集が同梱されている。
 

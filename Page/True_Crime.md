@@ -16,7 +16,7 @@
 
 ## True Crime:Streets of LA
 
-2003年11月3日[Activisionから](../Page/アクティビジョン.md "wikilink")[プレイステーション2と](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[Xboxそして](../Page/Xbox_\(ゲーム機\).md "wikilink")[PC](../Page/パーソナルコンピュータ.md "wikilink")(PC版は2004年5月11日)で発売された[ゲームソフト](../Page/ゲームソフト.md "wikilink")。日本語版は2004年10月28日に[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[カプコン](../Page/カプコン.md "wikilink")から[プレイステーション2と](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[Xboxで発売](../Page/Xbox_\(ゲーム機\).md "wikilink")。
+2003年11月3日[Activisionから](../Page/アクティビジョン.md "wikilink")[プレイステーション2と](../Page/PlayStation_2.md "wikilink")[Xboxそして](../Page/Xbox_\(ゲーム機\).md "wikilink")[PC](../Page/パーソナルコンピュータ.md "wikilink")(PC版は2004年5月11日)で発売された[ゲームソフト](../Page/ゲームソフト.md "wikilink")。日本語版は2004年10月28日に[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[カプコン](../Page/カプコン.md "wikilink")から[プレイステーション2と](../Page/PlayStation_2.md "wikilink")[Xboxで発売](../Page/Xbox_\(ゲーム機\).md "wikilink")。
 
 舞台は[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")。主人公は精鋭作戦部E.O.D（Elite Operetions Division）の捜査員となり、チャイニーズマフィアやロシアンマフィアなどの組織犯罪を追う。
 
@@ -41,7 +41,7 @@
 
 ## True Crime: New York City
 
-Street of LAの続編。2005年11月15日[Activisionから](../Page/アクティビジョン.md "wikilink")[プレイステーション2と](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[Xboxそして](../Page/Xbox_\(ゲーム機\).md "wikilink")[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")で発売された[ゲームソフト](../Page/ゲームソフト.md "wikilink")。
+Street of LAの続編。2005年11月15日[Activisionから](../Page/アクティビジョン.md "wikilink")[プレイステーション2と](../Page/PlayStation_2.md "wikilink")[Xboxそして](../Page/Xbox_\(ゲーム機\).md "wikilink")[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")で発売された[ゲームソフト](../Page/ゲームソフト.md "wikilink")。
 
 [PCでは](../Page/パーソナルコンピュータ.md "wikilink")、2006年3月24日発売。日本語版は[スパイクから](../Page/スパイク_\(ゲーム会社\).md "wikilink")2006年7月27日にプレイステーション2で発売された。
 

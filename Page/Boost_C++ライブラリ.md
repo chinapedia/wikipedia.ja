@@ -392,6 +392,8 @@ int main()
   - Boost.Threads [API reference](https://www.boost.org/doc/libs/release/libs/thread/).
   - [threadpool library](http://threadpool.sourceforge.net) based on Boost.Thread
 
+## 脚注
+
 ## 外部リンク
 
   - [Boost Webサイト（英語）](https://www.boost.org/)

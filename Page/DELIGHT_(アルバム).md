@@ -21,7 +21,7 @@
         作曲：大野愛果、編曲：[葉山たけし](../Page/葉山たけし.md "wikilink")
         21stシングル「GLORIOUS／PRECIOUS PLACE」の1曲目。
     <!-- end list -->
-      - [バンプレスト](../Page/バンプレスト.md "wikilink")[プレイステーション2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[Another Century's Episode 2](https://ja.wikipedia.org/wiki/Another_Century's_Episode#Another_Century's_Episode_2 "wikilink")』オープニングテーマ。
+      - [バンプレスト](../Page/バンプレスト.md "wikilink")[プレイステーション2用ゲームソフト](../Page/PlayStation_2.md "wikilink")『[Another Century's Episode 2](https://ja.wikipedia.org/wiki/Another_Century's_Episode#Another_Century's_Episode_2 "wikilink")』オープニングテーマ。
 3.  **[PRECIOUS PLACE](https://ja.wikipedia.org/wiki/GLORIOUS/PRECIOUS_PLACE "wikilink")** \[4:15\]
       -
         作詞：愛内里菜、作曲：[小松未歩](../Page/小松未歩.md "wikilink")、編曲：津久井箇人

@@ -1,7 +1,7 @@
 > この記事は[キングダム ハーツII](https://ja.wikipedia.org/wiki/キングダム_ハーツII)から翻訳されています。
 
 
-『**キングダム ハーツII**』（キングダム ハーツ ツー、*KINGDOM HEARTS II*、略称: **KH2**、**KHII**）は、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")より[2005年](../Page/2005年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")に発売された[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。名前は『II』だが、[キングダム ハーツ シリーズの第](../Page/キングダム_ハーツ_シリーズ.md "wikilink")3作目にあたる。
+『**キングダム ハーツII**』（キングダム ハーツ ツー、*KINGDOM HEARTS II*、略称: **KH2**、**KHII**）は、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")より[2005年](../Page/2005年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")に発売された[PlayStation 2用ゲームソフト](../Page/PlayStation_2.md "wikilink")。名前は『II』だが、[キングダム ハーツ シリーズの第](../Page/キングダム_ハーツ_シリーズ.md "wikilink")3作目にあたる。
 
 ## 概要
 

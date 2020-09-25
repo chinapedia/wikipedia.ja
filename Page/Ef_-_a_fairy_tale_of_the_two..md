@@ -3,7 +3,7 @@
 
 『**ef - a fairy tale of the two.**』（エフ ア フェアリー テイル オブ ザ トゥー）は、[minori](https://ja.wikipedia.org/wiki/minori "wikilink")制作の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")、およびそれを原作とした関連商品の総称である。テーマは「minori's 4th challenge about "Will"」。前編の『the first tale.』が[2006年](../Page/2006年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")に、後編の『the latter tale.』は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月30日](../Page/5月30日.md "wikilink")にそれぞれ発売された。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月29日](../Page/4月29日.md "wikilink")には、『the first tale.』と『the latter tale.』を共に収録した、[PlayStation 2移植作](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『ef - a fairy tale of the two.』が[COMFORT](https://ja.wikipedia.org/wiki/COMFORT "wikilink")より発売。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月29日](../Page/4月29日.md "wikilink")には、『the first tale.』と『the latter tale.』を共に収録した、[PlayStation 2移植作](../Page/PlayStation_2.md "wikilink")『ef - a fairy tale of the two.』が[COMFORT](https://ja.wikipedia.org/wiki/COMFORT "wikilink")より発売。
 
 また、『ef - a fairy tale of the two.』の後日談を収録した、ファンディスク『天使の日曜日-ef Pleasurable Box-』が2010年9月17日に発売された。
 

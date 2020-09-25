@@ -1,7 +1,7 @@
 > この記事は[バトルスタジアム D.O.N](https://ja.wikipedia.org/wiki/バトルスタジアム_D.O.N)から翻訳されています。
 
 
-『**バトルスタジアム D.O.N**』（バトルスタジアム ディー・オー・エヌ）は、[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")から発売された[アクションゲーム](../Page/アクションゲーム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")に[PlayStation 2と](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームキューブのマルチで発売された](../Page/ニンテンドーゲームキューブ.md "wikilink")。
+『**バトルスタジアム D.O.N**』（バトルスタジアム ディー・オー・エヌ）は、[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")から発売された[アクションゲーム](../Page/アクションゲーム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")に[PlayStation 2と](../Page/PlayStation_2.md "wikilink")[ゲームキューブのマルチで発売された](../Page/ニンテンドーゲームキューブ.md "wikilink")。
 
 ## 概要
 

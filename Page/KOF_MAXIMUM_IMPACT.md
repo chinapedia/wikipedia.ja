@@ -11,7 +11,7 @@
 
 ### KOF MAXIMUM IMPACT
 
-[2004年](../Page/2004年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink")に[PlayStation 2で発売](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。制作は[ノイズファクトリー](https://ja.wikipedia.org/wiki/ノイズファクトリー "wikilink")。オリジナルキャラクターのデザインは[FALCOON](https://ja.wikipedia.org/wiki/FALCOON "wikilink")が手がける。SNKプレイモアとしては初めてのテレビ[CMが放映された](../Page/コマーシャルメッセージ.md "wikilink")。
+[2004年](../Page/2004年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink")に[PlayStation 2で発売](../Page/PlayStation_2.md "wikilink")。制作は[ノイズファクトリー](https://ja.wikipedia.org/wiki/ノイズファクトリー "wikilink")。オリジナルキャラクターのデザインは[FALCOON](https://ja.wikipedia.org/wiki/FALCOON "wikilink")が手がける。SNKプレイモアとしては初めてのテレビ[CMが放映された](../Page/コマーシャルメッセージ.md "wikilink")。
 
 #### KOF MAXIMUM IMPACT MANIAX
 

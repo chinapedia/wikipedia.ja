@@ -94,7 +94,7 @@
 
 ## 関連項目
 
-  - [光が丘](https://ja.wikipedia.org/wiki/光が丘 "wikilink") / [光が丘駅](https://ja.wikipedia.org/wiki/光が丘駅 "wikilink")
+  - [光が丘](../Page/光が丘.md "wikilink") / [光が丘駅](https://ja.wikipedia.org/wiki/光が丘駅 "wikilink")
   - [リヴィン](../Page/リヴィン.md "wikilink") / [西友](../Page/西友.md "wikilink")
   - [忠実屋](../Page/忠実屋.md "wikilink") / [過去に存在したダイエーの店舗](../Page/過去に存在したダイエーの店舗.md "wikilink")
 

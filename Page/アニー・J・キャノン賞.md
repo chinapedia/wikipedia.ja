@@ -1,7 +1,7 @@
 > この記事は[アニー・J・キャノン賞](https://ja.wikipedia.org/wiki/アニー・J・キャノン賞)から翻訳されています。
 
 
-**アニー・J・キャノン賞**（アニー・J・キャノンしょう、*Annie J. Cannon Award in Astronomy*）は、[アメリカ天文学会](https://ja.wikipedia.org/wiki/アメリカ天文学会 "wikilink")が天文学の分野で功績のあった女性の非常勤の博士課程卒業者に贈る賞である。アメリカ合衆国の女性天文学者[アニー・ジャンプ・キャノン](../Page/アニー・ジャンプ・キャノン.md "wikilink")の功績を記念して設けられた。1974年から2004年までは[米国大学婦人協会](https://ja.wikipedia.org/wiki/米国大学婦人協会 "wikilink")（American Association of University Women）がアメリカ天文学会の助言をもとに単独で贈っていた。
+**アニー・J・キャノン賞**（アニー・J・キャノンしょう、*Annie J. Cannon Award in Astronomy*）は、[アメリカ天文学会](https://ja.wikipedia.org/wiki/アメリカ天文学会 "wikilink")が天文学の分野で功績のあった女性の非常勤の博士課程修了者に贈る賞である。アメリカ合衆国の女性天文学者[アニー・ジャンプ・キャノン](../Page/アニー・ジャンプ・キャノン.md "wikilink")の功績を記念して設けられた。1974年から2004年までは[米国大学婦人協会](https://ja.wikipedia.org/wiki/米国大学婦人協会 "wikilink")（American Association of University Women）がアメリカ天文学会の助言をもとに単独で贈っていた。
 
 ## 受賞者一覧
 

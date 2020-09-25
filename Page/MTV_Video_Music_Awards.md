@@ -447,6 +447,18 @@ MTV、MTV2と[VH1](https://ja.wikipedia.org/wiki/VH1 "wikilink")で[プライム
 <li><a href="https://ja.wikipedia.org/wiki/リル・ナズ・X" title="wikilink">リル・ナズ・X</a> (featuring <a href="https://ja.wikipedia.org/wiki/ビリー・レイ・サイラス" title="wikilink">ビリー・レイ・サイラス</a>) - オールド・タウン・ロード (Remix) </small></li>
 </ul></td>
 </tr>
+<tr class="odd">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ザ・ウィークエンド" title="wikilink">ザ・ウィークエンド</a> - <a href="../Page/ブラインディング・ライツ.md" title="wikilink">ブラインディング・ライツ</a></p></td>
+<td><p><small></p>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/ビリー・アイリッシュ" title="wikilink">ビリー・アイリッシュ</a> - エブリシング・アイ・ウォンテッド</li>
+<li><a href="https://ja.wikipedia.org/wiki/エミネム" title="wikilink">エミネム</a> - ゴジラ</li>
+<li><a href="https://ja.wikipedia.org/wiki/フューチャー_(ラッパー)" title="wikilink">フューチャー</a> (featuring <a href="https://ja.wikipedia.org/wiki/ドレイク_(ラッパー)" title="wikilink">ドレイク</a>) - ライフ・イズ・グッド</li>
+<li><a href="https://ja.wikipedia.org/wiki/レディー・ガガ" title="wikilink">レディー・ガガ</a> (with <a href="https://ja.wikipedia.org/wiki/アリアナ・グランデ" title="wikilink">アリアナ・グランデ</a>) - レイン・オン・ミー</li>
+<li><a href="https://ja.wikipedia.org/wiki/テイラー・スウィフト" title="wikilink">テイラー・スウィフト</a> - ザ・マン　</small></li>
+</ul></td>
+</tr>
 </tbody>
 </table>
 

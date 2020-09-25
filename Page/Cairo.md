@@ -25,7 +25,7 @@
 
 ## 関連項目
 
-  - [Skia](https://ja.wikipedia.org/wiki/Skia "wikilink") - [Google Chrome](https://ja.wikipedia.org/wiki/Google_Chrome "wikilink") や [Android](../Page/Android.md "wikilink") で使用
+  - [Skia](https://ja.wikipedia.org/wiki/Skia "wikilink") - [Google Chrome](https://ja.wikipedia.org/wiki/Google_Chrome "wikilink") や [Android](../Page/Android_\(オペレーティングシステム\).md "wikilink") で使用
 
 ## 参照
 

@@ -40,7 +40,7 @@
 
 ## 外部リンク
 
-  - [業務用MARTIAL BEAT公式ページ](http://web.archive.org/web/20060104050305/http://www.konami.co.jp/am/mbeat/)（アーカイブ）
+  - [業務用MARTIAL BEAT公式ページ](https://web.archive.org/web/20060104050305/http://www.konami.co.jp/am/mbeat/)（アーカイブ）
   - [家庭用MARTIAL BEAT公式ページ](http://www.konami.jp/products/marsyalbeat_ps/)（再発売盤）
   - [家庭用MARTIAL BEAT2公式ページ](http://www.konami.jp/products/marsyalbeat2_ps/)（再発売盤）
 

@@ -7,7 +7,7 @@
 
 開発は[チュンソフト](../Page/チュンソフト.md "wikilink")が行い、前作からスタッフを引き継ぐ形でプロデューサーは[千田幸信](../Page/千田幸信.md "wikilink")、シナリオおよびゲーム・デザインは[堀井雄二](../Page/堀井雄二.md "wikilink")、音楽は[すぎやまこういち](https://ja.wikipedia.org/wiki/すぎやまこういち "wikilink")、キャラクター・デザインは[鳥山明](../Page/鳥山明.md "wikilink")が担当している他、新たに前作までプログラムを手掛けていた[山名学](../Page/山名学.md "wikilink")がディレクターを担当している。
 
-[リメイク](../Page/リメイク.md "wikilink")版として2004年に[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（以下PS2）版が、2008年に[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")（以下DS）版が、スマートフォン（[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、[Android](../Page/Android.md "wikilink")）版が[2014年](../Page/2014年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")に発売されている（PS2版およびDS版はのちに[廉価版](../Page/廉価版.md "wikilink")「[アルティメットヒッツ](../Page/アルティメットヒッツ.md "wikilink")」として発売された）。
+[リメイク](../Page/リメイク.md "wikilink")版として2004年に[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（以下PS2）版が、2008年に[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")（以下DS）版が、スマートフォン（[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")）版が[2014年](../Page/2014年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")に発売されている（PS2版およびDS版はのちに[廉価版](../Page/廉価版.md "wikilink")「[アルティメットヒッツ](../Page/アルティメットヒッツ.md "wikilink")」として発売された）。
 
 当時のエニックスが[SNES（日本国外版スーパーファミコン）に参入しなかったこともあって](https://ja.wikipedia.org/wiki/スーパーファミコン#Super_Nintendo_Entertainment_System "wikilink")、長らく日本国外では発売されなかったが、2009年、DS版が[北米で](../Page/北アメリカ.md "wikilink")『**Dragon Quest V: Hand of the Heavenly Bride**』として、[欧州では](../Page/ヨーロッパ.md "wikilink")『V』を除いた『**Dragon Quest: The Hand of the Heavenly Bride**』として発売された。
 
@@ -656,7 +656,7 @@
 <td><p>5</p></td>
 <td><p>ドラゴンクエストV 天空の花嫁</p></td>
 <td></td>
-<td><p><a href="../Page/Android.md" title="wikilink">Android</a><br />
+<td><p><a href="../Page/Android_(オペレーティングシステム).md" title="wikilink">Android</a><br />
 <a href="https://ja.wikipedia.org/wiki/iPhone_4" title="wikilink">iPhone 4</a><br />
 <a href="https://ja.wikipedia.org/wiki/iPod_touch_(第5世代)" title="wikilink">iPod touch (第5世代)</a><br />
 <a href="https://ja.wikipedia.org/wiki/iPad_2" title="wikilink">iPad 2以上</a><br />
@@ -1081,20 +1081,13 @@ DS版『IV』発売後の2007年末、DS版『V』の画面の公開が開始\[1
 
 ## 外部リンク
 
-  - [ドラゴンクエストV 天空の花嫁](http://www.square-enix.com/jp/archive/dq5/) - スーパーファミコン版 ソフト紹介
-
-  - [ドラゴンクエストV 天空の花嫁](http://www.square-enix.co.jp/dragonquest/dqv/) - PlayStation 2版 スペシャルサイト
-
-  - [ニンテンドーDS版『ドラゴンクエスト』天空シリーズ](http://www.square-enix.co.jp/dragonquest/4to6/index.html)
+  - [ドラゴンクエストV 天空の花嫁](https://www.jp.square-enix.com/game/detail/dq5/)
 
   - [DRAGON QUEST V | SQUARE ENIX](http://na.square-enix.com/dq5)  - 北米DS版 公式サイト
 
-  - （英語）
-
-  - （英語）
-
-  - （英語）
-
+  -
+  -
+  -
 [Category:ドラゴンクエストのコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ドラゴンクエストのコンピュータゲーム "wikilink") [Category:1992年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1992年のコンピュータゲーム "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:Android用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト "wikilink") [Category:iPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPhone用ゲームソフト "wikilink") [Category:チュンソフト開発のゲームソフト](https://ja.wikipedia.org/wiki/Category:チュンソフト開発のゲームソフト "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:すれちがい通信対応ソフト](https://ja.wikipedia.org/wiki/Category:すれちがい通信対応ソフト "wikilink") [Category:ファミ通クロスレビューゴールド殿堂入りソフト](https://ja.wikipedia.org/wiki/Category:ファミ通クロスレビューゴールド殿堂入りソフト "wikilink") [Category:冒険ゲーム](https://ja.wikipedia.org/wiki/Category:冒険ゲーム "wikilink") [Category:王子を主人公としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:王子を主人公としたコンピュータゲーム "wikilink") [Category:君主を主人公としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:君主を主人公としたコンピュータゲーム "wikilink") [Category:双子を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:双子を題材としたコンピュータゲーム "wikilink") [Category:恋愛ゲーム](https://ja.wikipedia.org/wiki/Category:恋愛ゲーム "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:1992年のファミ通クロスレビュープラチナ殿堂入りソフト](https://ja.wikipedia.org/wiki/Category:1992年のファミ通クロスレビュープラチナ殿堂入りソフト "wikilink") [Category:結婚を題材とした作品](https://ja.wikipedia.org/wiki/Category:結婚を題材とした作品 "wikilink")
 
 1.

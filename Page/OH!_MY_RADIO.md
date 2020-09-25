@@ -159,8 +159,8 @@
 ## 外部リンク
 
   - [OH\! MY RADIO（J-WAVE）](http://www.j-wave.co.jp/original/ohmyradio/) - 番組公式サイト。現在は後番組[RADIPEDIA](https://ja.wikipedia.org/wiki/RADIPEDIA "wikilink")へのリダイレクトになっている。
-  - [2001年10月3日時点(Webarchiveキャッシュ)](http://web.archive.org/web/20011003200002/http://www.j-wave.co.jp/original/ohmyradio/)
-  - [DoCoMo MOONLIGHT COMPASS（2001年11月21日時点のWebarchiveキャッシュ）](http://web.archive.org/web/20011121050518/http://www.j-wave.co.jp/original/moonlight/contents.htm)
+  - [2001年10月3日時点(Webarchiveキャッシュ)](https://web.archive.org/web/20011003200002/http://www.j-wave.co.jp/original/ohmyradio/)
+  - [DoCoMo MOONLIGHT COMPASS（2001年11月21日時点のWebarchiveキャッシュ）](https://web.archive.org/web/20011121050518/http://www.j-wave.co.jp/original/moonlight/contents.htm)
   - [nemu ring ring](http://www.j-wave.co.jp/original/ringring/cgi-bin/guest.cgi)
   - [OH\! MY RADIO〜FOR MY DREAM](http://www.j-wave.co.jp/holiday/20081231_omr/) - 特別番組サイト（2008年）
 

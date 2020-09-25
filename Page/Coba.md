@@ -1,7 +1,7 @@
 > この記事は[Coba](https://ja.wikipedia.org/wiki/Coba)から翻訳されています。
 
 
-**coba**（コバ、1959年4月29日 - ）は、日本のアコーディオニスト、作曲家。本名および旧名義は、**小林 靖宏**（こばやし やすひろ）。
+**coba**（コバ、[1959年](../Page/1959年.md "wikilink")[4月29日](../Page/4月29日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アコーディオニスト](../Page/アコーディオン.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")。本名および旧名義は、**小林 靖宏**（こばやし やすひろ）。
 
 ## 人物
 
@@ -17,7 +17,7 @@
 
 2004年10月に楽器メーカー・ローランド社が開発した世界初のフルデジタル式アコーディオン「Vアコーディオン」のお披露目発表会でデモ演奏を行ったが、高校時代にもローランドの初期の電子アコーディオンを弾いたことがある\[30\]\[31\]。また本人も独自にデジタル・アコーディオンの開発を行ったことがあり、「シンセアコーダー」いう楽器を作って1985年の[つくば科学万博](https://ja.wikipedia.org/wiki/つくば科学万博 "wikilink")で披露した\[32\]\[33\]。
 
-[バンクーバーオリンピック](https://ja.wikipedia.org/wiki/バンクーバーオリンピック "wikilink")の[フィギュアスケート](../Page/フィギュアスケート.md "wikilink")で銅メダルを受賞した[高橋大輔](https://ja.wikipedia.org/wiki/高橋大輔 "wikilink")が「eye」を[ショートプログラム](../Page/ショートプログラム.md "wikilink")に使用。また、[ロンドンオリンピックの](https://ja.wikipedia.org/wiki/ロンドンオリンピック_\(2012年\) "wikilink")[体操競技](../Page/体操競技.md "wikilink")で[寺本明日香](https://ja.wikipedia.org/wiki/寺本明日香 "wikilink")が「時の扉」を使用した。
+[バンクーバーオリンピック](https://ja.wikipedia.org/wiki/バンクーバーオリンピック "wikilink")の[フィギュアスケート](../Page/フィギュアスケート.md "wikilink")で銅メダルを受賞した[高橋大輔が](../Page/高橋大輔_\(フィギュアスケート選手\).md "wikilink")「eye」を[ショートプログラム](../Page/ショートプログラム.md "wikilink")に使用。また、[ロンドンオリンピックの](https://ja.wikipedia.org/wiki/ロンドンオリンピック_\(2012年\) "wikilink")[体操競技](../Page/体操競技.md "wikilink")で[寺本明日香](https://ja.wikipedia.org/wiki/寺本明日香 "wikilink")が「時の扉」を使用した。
 
 アコーディオンは、イタリアの[ヴィクトリア・アコーディオンズ](https://ja.wikipedia.org/wiki/ヴィクトリア・アコーディオンズ "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[キャバニョロ・アコーディオン](https://ja.wikipedia.org/wiki/キャバニョロ・アコーディオン "wikilink")を使用。[トレードマーク](https://ja.wikipedia.org/wiki/トレードマーク "wikilink")のボーダーTシャツはフランスのセント・ジェームスを愛用している。
 

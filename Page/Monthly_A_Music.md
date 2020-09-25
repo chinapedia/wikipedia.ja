@@ -153,7 +153,7 @@
   - 2月「風になって」／[オトナモード](../Page/オトナモード.md "wikilink")
   - 3月「[春風LOVER SONG](https://ja.wikipedia.org/wiki/春風LOVER_SONG "wikilink")」／[CHERRYBLOSSOM](../Page/CHERRYBLOSSOM.md "wikilink")
   - 4月「[CHANGE](https://ja.wikipedia.org/wiki/CHANGE_\(福原美穂の曲\) "wikilink")」／[福原美穂](https://ja.wikipedia.org/wiki/福原美穂 "wikilink")
-  - 5月「雨傘物語」／[森翼](https://ja.wikipedia.org/wiki/森翼 "wikilink")
+  - 5月「[雨傘物語](https://ja.wikipedia.org/wiki/雨傘物語/オレンジの街 "wikilink")」／[森翼](https://ja.wikipedia.org/wiki/森翼 "wikilink")
   - 6月「[キズナ](https://ja.wikipedia.org/wiki/キズナ_\(Hi-Fi_CAMPの曲\) "wikilink")」／[Hi-Fi CAMP](https://ja.wikipedia.org/wiki/Hi-Fi_CAMP "wikilink")
   - 7月「[CHU-BURA](https://ja.wikipedia.org/wiki/CHU-BURA "wikilink")」／[KELUN](../Page/KELUN.md "wikilink")
   - 8月「This world is yours」／[プリングミン](https://ja.wikipedia.org/wiki/プリングミン "wikilink")
@@ -248,7 +248,7 @@
   - 9月「オドループ」／[フレデリック](https://ja.wikipedia.org/wiki/フレデリック_\(バンド\) "wikilink")
   - 10月「一生懸命はやめられない」／[ワタナベフラワー](../Page/ワタナベフラワー.md "wikilink")
   - 11月「誰かのサンタクロース」／[TWIN CROSS](https://ja.wikipedia.org/wiki/TWIN_CROSS "wikilink")
-  - 12月「恋い雪」／[Silent Siren](https://ja.wikipedia.org/wiki/Silent_Siren "wikilink")
+  - 12月「[恋い雪](https://ja.wikipedia.org/wiki/恋い雪 "wikilink")」／[Silent Siren](https://ja.wikipedia.org/wiki/Silent_Siren "wikilink")
 
 ### 2015年（平成27年）
 
@@ -306,7 +306,7 @@
   - 7月「It's all in the game」／[Qyoto](https://ja.wikipedia.org/wiki/Qyoto "wikilink")
   - 8月「ALRIGHT」／[竹内アンナ](https://ja.wikipedia.org/wiki/竹内アンナ "wikilink")
   - 9月「フェイドンに告ぐ」／[噓とカメレオン](https://ja.wikipedia.org/wiki/噓とカメレオン "wikilink")
-  - 10月「Stand By You」／[Official髭男dism](https://ja.wikipedia.org/wiki/Official髭男dism "wikilink")
+  - 10月「[Stand By You](https://ja.wikipedia.org/wiki/Stand_By_You_EP "wikilink")」／[Official髭男dism](https://ja.wikipedia.org/wiki/Official髭男dism "wikilink")
   - 11月「Silver Shoes」／[Rei](https://ja.wikipedia.org/wiki/Rei_\(シンガーソングライター\) "wikilink")
   - 12月「生きていく」／[Hump Back](https://ja.wikipedia.org/wiki/Hump_Back "wikilink")
 
@@ -317,6 +317,25 @@
   - 3月「さらば友よ」／[DREAM MAKER](https://ja.wikipedia.org/wiki/DREAM_MAKER "wikilink")
   - 4月「イチリンソウ」／[山本彩](https://ja.wikipedia.org/wiki/山本彩 "wikilink")
   - 5月「Innocent Rain」／[村松徳一](https://ja.wikipedia.org/wiki/村松徳一 "wikilink")
+  - 6月「Frozen」／[FOMARE](https://ja.wikipedia.org/wiki/FOMARE "wikilink")
+  - 7月「Hey girl\!\!\!\!」／[有華](../Page/有華.md "wikilink")
+  - 8月「us」／[milet](https://ja.wikipedia.org/wiki/milet "wikilink")
+  - 9月「ダイヤモンド」／[kobore](https://ja.wikipedia.org/wiki/kobore "wikilink")
+  - 10月「FRASH」／[Lucky Kilimanjaro](https://ja.wikipedia.org/wiki/Lucky_Kilimanjaro "wikilink")
+  - 11月「SPOTLIGHT」／[eill](https://ja.wikipedia.org/wiki/eill "wikilink")
+  - 12月「Stay With Me」／[Seven Billion Dots](https://ja.wikipedia.org/wiki/Seven_Billion_Dots "wikilink")
+
+### 2020年（令和2年）
+
+  - 1月「Party All Night」／[FAITH](../Page/FAITH_\(バンド\).md "wikilink")
+  - 2月「ユースレスマシーン」／[ハンブレッダーズ](../Page/ハンブレッダーズ.md "wikilink")
+  - 3月「Nights（feat.∅ZI & eill）」／[さなり](https://ja.wikipedia.org/wiki/さなり "wikilink")
+  - 4月「矜羯羅がる」／[yonawo](https://ja.wikipedia.org/wiki/yonawo "wikilink")
+  - 5月「抱き寄せ 高まる 君の体温と共に」／[WANDS](../Page/WANDS.md "wikilink")
+  - 6月「素敵な人よ」／[海蔵亮太](https://ja.wikipedia.org/wiki/海蔵亮太 "wikilink")
+  - 7月「パレード」／ [MOSAKI WIN](../Page/森崎ウィン.md "wikilink")
+  - 8月「Lust Masic」／ [Attractions](https://ja.wikipedia.org/wiki/Attractions "wikilink")
+  - 9月「君はロボット」／ [大橋ちっぽけ](https://ja.wikipedia.org/wiki/大橋ちっぽけ "wikilink")
 
 ## その他
 

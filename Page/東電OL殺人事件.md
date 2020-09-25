@@ -34,7 +34,7 @@
   - 現場アパートの鍵を被告人が所持していたが、事件2日前に管理人に返すために同室の人間に鍵を渡し、鍵を所持していなかったとする被告人の供述の信用性。
   - 交遊関係を詳細に記し、事件直前に会ったのが被告人であるとする被害者の手帳の信用性。
   - 事件前に7万円しか所持していなかった被告人が、事件後に10万円を知人に渡した金の工面。
-  - 被告人が働いていた[海浜幕張駅](https://ja.wikipedia.org/wiki/海浜幕張駅 "wikilink")近くの料理店で閉店の22時まで働いた場合、殺害時刻とされる午後23時30分前後までに[渋谷駅](https://ja.wikipedia.org/wiki/渋谷駅 "wikilink")付近の現場に辿り着けるか。
+  - 被告人が働いていた[海浜幕張駅](https://ja.wikipedia.org/wiki/海浜幕張駅 "wikilink")近くの料理店で閉店の22時まで働いた場合、殺害時刻とされる23時30分前後までに[渋谷駅](https://ja.wikipedia.org/wiki/渋谷駅 "wikilink")付近の現場に辿り着けるか。
   - 被害者の[定期券](https://ja.wikipedia.org/wiki/定期券 "wikilink")が、被告人の土地勘のない[豊島区](https://ja.wikipedia.org/wiki/豊島区 "wikilink")の民家で発見されたこと。
 
 [2000年](../Page/2000年.md "wikilink")（平成12年）[4月14日](../Page/4月14日.md "wikilink")、[東京地方裁判所](../Page/東京地方裁判所.md "wikilink")（[大渕敏和](../Page/大渕敏和.md "wikilink")裁判長、[森健二](https://ja.wikipedia.org/wiki/森健二 "wikilink")・[高山光明](https://ja.wikipedia.org/wiki/高山光明 "wikilink")裁判官）で、現場から第三者の体毛が見つかったことなどを「解明できない疑問点」として挙げ、「第三者が犯行時に現場にいた可能性も否定できず、立証不十分」として、無罪[判決](https://ja.wikipedia.org/wiki/判決 "wikilink")が言い渡された。しかし、[4月18日](../Page/4月18日.md "wikilink")に検察側が[控訴](../Page/控訴.md "wikilink")した。

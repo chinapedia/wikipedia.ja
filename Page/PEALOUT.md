@@ -626,6 +626,6 @@
 ## 外部リンク
 
   - [PEALOUT OFFICIAL WEBSITE](http://www.pealout.com/) - 公式ウェブサイト
-  - [@Victor Entertainment PEALOUT](http://www.jvcmusic.co.jp/-/Discography/A013913/-.html) - [ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")による公式ウェブサイト
+  - [@Victor Entertainment PEALOUT](https://www.jvcmusic.co.jp/-/Discography/A013913/-.html) - [ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")による公式ウェブサイト
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:1994年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1994年に結成した音楽グループ "wikilink") [Category:2005年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に解散した音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")

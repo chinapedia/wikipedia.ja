@@ -167,7 +167,7 @@
 [Category:日本のAV女優](https://ja.wikipedia.org/wiki/Category:日本のAV女優 "wikilink") [Category:ピンク映画の女優](https://ja.wikipedia.org/wiki/Category:ピンク映画の女優 "wikilink") [Category:マドンナ女優](https://ja.wikipedia.org/wiki/Category:マドンナ女優 "wikilink") [Category:愛知県出身の人物](https://ja.wikipedia.org/wiki/Category:愛知県出身の人物 "wikilink") [Category:1979年生](https://ja.wikipedia.org/wiki/Category:1979年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
-2.  [第16回ピンク大賞](http://pg-pinkfilm.com/award/2003.htm) PG-Web-Site
+2.
 3.  [日本映画売り上げ全米NO.1は意外にも\!?](https://npn.co.jp/article/detail/11800266/) [リアルライブ](https://ja.wikipedia.org/wiki/リアルライブ "wikilink") 2011年5月7日
 4.  [安田理央](https://ja.wikipedia.org/wiki/安田理央 "wikilink")『安田理央のAVレビュー大全1987-2012』2012年。
 5.  [山口玲子](https://www.japanese-cinema-db.jp/KeywordSearches/result?keyword=%E5%B1%B1%E5%8F%A3%E7%8E%B2%E5%AD%90&keyword_kind=cast) 日本映画情報システム（[文化庁](../Page/文化庁.md "wikilink")）

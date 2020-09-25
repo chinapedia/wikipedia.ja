@@ -241,7 +241,7 @@
 
 ## コンシューマ移植
 
-  - [パチパラシリーズ](../Page/パチパラシリーズ.md "wikilink")（いずれも[プレイステーション2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）
+  - [パチパラシリーズ](../Page/パチパラシリーズ.md "wikilink")（いずれも[プレイステーション2用](../Page/PlayStation_2.md "wikilink")）
       - 『[三洋パチンコパラダイス8 〜新海物語〜](http://www.irem.co.jp/official/pp8/index.html)』（[2003年](../Page/2003年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")発売）に『CR新海物語M27』が収録
       - 『[三洋パチンコパラダイス9 〜新海おかわりっ\!〜](http://www.irem.co.jp/official/pp9/)』（2003年[11月6日](../Page/11月6日.md "wikilink")発売）に『CR新海物語M56』、『CR新海物語L52』が収録
       - 『[三洋パチンコパラダイス11 〜新海とさらば銀玉の狼〜](http://www.irem.co.jp/official/pp11/index.html)』（[2005年](../Page/2005年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")発売）に『CR新海物語』M6Z、『CR新海物語M8Z』が収録

@@ -56,7 +56,7 @@
 
 [2011年](../Page/2011年.md "wikilink")、全国ツアー『COLOR collection 2011』を開催。
 
-[2013年](../Page/2013年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")に4rdフルアルバム「Hot Number」リリース。6月に[アメリカで](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")5年ぶりとなるロサンゼルス公演、7月には初のブラジル公演を行った。
+[2013年](../Page/2013年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")に4thフルアルバム「Hot Number」リリース。6月に[アメリカで](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")5年ぶりとなるロサンゼルス公演、7月には初のブラジル公演を行った。
 
 [2014年](../Page/2014年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")初のベストアルバム「BEST (2003-2013)」をリリース。
 
@@ -66,7 +66,7 @@
 
 [2016年](../Page/2016年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")、moricoが育児に専念するため脱退を発表\[7\]。[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")、[スカ](../Page/スカ.md "wikilink")、[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")カルチャー系イベント「[Stay Irie, Go Rudy](http://sigr2016.mystrikingly.com/)」を[渋谷club aisaにて開催](../Page/Club_Asia.md "wikilink")。
 
-[3月9日](../Page/3月9日.md "wikilink")、5thシングル「NEXSPOT / ¡Fiebre\!」リリース。6月にサポートメンバーのADD（[テナーサックス](../Page/サクソフォーン.md "wikilink")）の正式加入を発表し、[11月23日](../Page/11月23日.md "wikilink")、5rdフルアルバム「Slogan」をリリース。
+[3月9日](../Page/3月9日.md "wikilink")、5thシングル「NEXSPOT / ¡Fiebre\!」リリース。6月にサポートメンバーのADD（[テナーサックス](../Page/サクソフォーン.md "wikilink")）の正式加入を発表し、[11月23日](../Page/11月23日.md "wikilink")、5thフルアルバム「Slogan」をリリース。
 
 [2017年](../Page/2017年.md "wikilink")はアルバム「Slogan」リリースツアー "HAPPY\!\! SURVIVE\!\! 2017"を開催。[梅田クラブクアトロ](../Page/CLUB_QUATTRO.md "wikilink")、[名古屋E.L.L.](https://ja.wikipedia.org/wiki/Electric_Lady_Land "wikilink")、[恵比寿LIQUIDROOMにて東名阪ワンマンライブを行う](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")。
 

@@ -36,8 +36,8 @@
 <tr class="odd">
 <td><p>2002年02月27日</p></td>
 <td></td>
-<td><p><a href="../Page/MIDI.md" title="wikilink">MIDI</a></p></td>
 <td><p>MDCL-1420</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2004年06月23日</p></td>
@@ -48,14 +48,14 @@
 <tr class="odd">
 <td><p>2005年07月21日</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CROWN" title="wikilink">CROWN</a></p></td>
 <td><p>CRCP-40114</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2006年02月08日</p></td>
 <td><p>(Remix Album)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CROWN" title="wikilink">CROWN</a></p></td>
 <td><p>CRCP-40131</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2007年04月11日</p></td>
@@ -115,8 +115,8 @@
 <tr class="odd">
 <td><p>2005年08月25日</p></td>
 <td></td>
-<td><p>HORIZON</p></td>
 <td><p>HRZF-021</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2006年08月09日</p></td>
@@ -172,79 +172,79 @@
 <tr class="odd">
 <td><p>1999年05月19日</p></td>
 <td></td>
-<td><p><a href="../Page/MIDI.md" title="wikilink">MIDI</a></p></td>
 <td><p>CD</p></td>
 <td><p>MDCS-1024</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>1999年07月26日</p></td>
 <td></td>
-<td><p><a href="../Page/MIDI.md" title="wikilink">MIDI</a></p></td>
 <td><p>12inch Vinyl</p></td>
 <td><p>CXLP1017</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2000年</p></td>
 <td></td>
-<td><p><a href="../Page/MIDI.md" title="wikilink">MIDI</a></p></td>
-<td><p>12inch Vinyl</p></td>
 <td><p>CXLP1030</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2000年</p></td>
 <td></td>
-<td><p><a href="../Page/MIDI.md" title="wikilink">MIDI</a></p></td>
 <td><p>CD</p></td>
 <td><p>CX1070</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2000年</p></td>
 <td></td>
-<td><p><a href="../Page/MIDI.md" title="wikilink">MIDI</a></p></td>
 <td><p>12inch Vinyl</p></td>
 <td><p>CXLP1032</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2000年09月27日</p></td>
 <td></td>
-<td><p><a href="../Page/MIDI.md" title="wikilink">MIDI</a></p></td>
 <td><p>CD</p></td>
 <td><p>CXCA1073</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2000年</p></td>
 <td></td>
-<td><p><a href="../Page/MIDI.md" title="wikilink">MIDI</a></p></td>
 <td><p>12inch Vinyl</p></td>
 <td><p>CXLP1034</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2000年</p></td>
 <td></td>
-<td><p><a href="../Page/MIDI.md" title="wikilink">MIDI</a></p></td>
-<td><p>12inch Vinyl</p></td>
 <td><p>CXLP1035</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2001年12月12日</p></td>
 <td></td>
-<td><p><a href="../Page/MIDI.md" title="wikilink">MIDI</a></p></td>
 <td><p>CD</p></td>
 <td><p>MDCS-1053</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2001年12月12日</p></td>
 <td></td>
-<td><p><a href="../Page/MIDI.md" title="wikilink">MIDI</a></p></td>
 <td><p>12inch Vinyl</p></td>
 <td><p>CXLP1046</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2004年03月29日</p></td>
 <td></td>
 <td><p>Tacky Boy</p></td>
-<td><p>12inch Vinyl</p></td>
 <td><p>TB001</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2004年05月21日</p></td>
@@ -256,9 +256,9 @@
 <tr class="odd">
 <td><p>2004年05月21日</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CROWN" title="wikilink">CROWN</a></p></td>
-<td><p>CD</p></td>
 <td><p>CRCP-10070</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2004年09月23日</p></td>
@@ -270,9 +270,9 @@
 <tr class="odd">
 <td><p>2004年09月23日</p></td>
 <td></td>
-<td><p>HORIZON</p></td>
-<td><p>12inch Vinyl</p></td>
 <td><p>HRZN-016T</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2005年04月27日</p></td>
@@ -306,57 +306,57 @@
 <td><p>2006年02月08日</p></td>
 <td></td>
 <td><p>Hussle Black</p></td>
-<td><p>12inch Vinyl</p></td>
 <td><p>HUSSYB016</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2006年02月08日</p></td>
 <td></td>
 <td><p>Tanga Records</p></td>
-<td><p>12inch Vinyl</p></td>
 <td><p>VLMX 1769-3</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2006年04月28日</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/NITELIST_MUSIC" title="wikilink">NITELIST MUSIC</a></p></td>
-<td><p>12inch Vinyl</p></td>
 <td><p>NM-21020</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2006年05月12日</p></td>
 <td></td>
 <td><p>HORIZON</p></td>
-<td><p>12inch Vinyl</p></td>
 <td><p>HRZN-027</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2006年05月24日</p></td>
 <td></td>
-<td><p>HORIZON</p></td>
-<td><p>12inch Vinyl</p></td>
 <td><p>HRZN-028</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2006年08月25日</p></td>
 <td></td>
-<td><p>HORIZON</p></td>
-<td><p>12inch Vinyl</p></td>
 <td><p>HRZN-029</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2007年02月19日</p></td>
 <td></td>
 <td><p>Brickhouse Records</p></td>
-<td><p>12inch Vinyl</p></td>
 <td><p>BH029</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2007年04月06日</p></td>
 <td></td>
 <td><p>HORIZON</p></td>
-<td><p>12inch Vinyl</p></td>
 <td><p>HRZN-034</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2007年07月30日</p></td>
@@ -375,9 +375,9 @@
 <tr class="even">
 <td><p>2008年08月15日</p></td>
 <td></td>
-<td><p>HORIZON</p></td>
-<td><p>12inch Vinyl</p></td>
 <td><p>HRZN-037</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2011年03月31日</p></td>
@@ -411,155 +411,155 @@
 <td><p>2013年12月25日</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS" title="wikilink">BASS WORKS RECORDINGS</a></p></td>
-<td><p>DOWNLOAD</p></td>
 <td><p>BWR036</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2014年02月05日</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS" title="wikilink">BASS WORKS RECORDINGS</a></p></td>
-<td><p>DOWNLOAD</p></td>
 <td><p>BWR041</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2014年03月19日</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS" title="wikilink">BASS WORKS RECORDINGS</a></p></td>
-<td><p>DOWNLOAD</p></td>
 <td><p>BWR047</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2014年03月19日</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS" title="wikilink">BASS WORKS RECORDINGS</a></p></td>
-<td><p>DOWNLOAD</p></td>
 <td><p>BWR066</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2014年10月22日</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS" title="wikilink">BASS WORKS RECORDINGS</a></p></td>
-<td><p>DOWNLOAD</p></td>
 <td><p>BWR079</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2014年11月12日</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS" title="wikilink">BASS WORKS RECORDINGS</a></p></td>
-<td><p>DOWNLOAD</p></td>
 <td><p>BWR079</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2014年12月11日</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS" title="wikilink">BASS WORKS RECORDINGS</a></p></td>
-<td><p>DOWNLOAD</p></td>
 <td><p>BWR085</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2014年12月24日</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS" title="wikilink">BASS WORKS RECORDINGS</a></p></td>
-<td><p>DOWNLOAD</p></td>
 <td><p>BWR087</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2015年01月07日</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS" title="wikilink">BASS WORKS RECORDINGS</a></p></td>
-<td><p>DOWNLOAD</p></td>
 <td><p>BWR088</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2015年02月06日</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS" title="wikilink">BASS WORKS RECORDINGS</a></p></td>
-<td><p>DOWNLOAD</p></td>
 <td><p>BWR092</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2015年03月11日</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS" title="wikilink">BASS WORKS RECORDINGS</a></p></td>
-<td><p>DOWNLOAD</p></td>
 <td><p>BWR097</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2015年07月01日</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS" title="wikilink">BASS WORKS RECORDINGS</a></p></td>
-<td><p>DOWNLOAD</p></td>
 <td><p>BWR103</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2015年07月29日</p></td>
 <td></td>
 <td><p>Totem Traxx</p></td>
-<td><p>DOWNLOAD</p></td>
 <td><p>TTDG46</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2015年08月26日</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS" title="wikilink">BASS WORKS RECORDINGS</a></p></td>
-<td><p>DOWNLOAD</p></td>
 <td><p>BWR111</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2015年09月16日</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS" title="wikilink">BASS WORKS RECORDINGS</a></p></td>
-<td><p>DOWNLOAD</p></td>
 <td><p>BWR114</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2015年10月07日</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS" title="wikilink">BASS WORKS RECORDINGS</a></p></td>
-<td><p>DOWNLOAD</p></td>
 <td><p>BWR117</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2015年11月04日</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS" title="wikilink">BASS WORKS RECORDINGS</a></p></td>
-<td><p>DOWNLOAD</p></td>
 <td><p>BWR117</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2015年11月04日</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS" title="wikilink">BASS WORKS RECORDINGS</a></p></td>
-<td><p>DOWNLOAD</p></td>
 <td><p>BWR127</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2015年12月14日</p></td>
 <td></td>
 <td><p>Dirty Music</p></td>
-<td><p>DOWNLOAD</p></td>
 <td><p>DMR132</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2016年03月02日</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS" title="wikilink">BASS WORKS RECORDINGS</a></p></td>
-<td><p>DOWNLOAD</p></td>
 <td><p>BWR134</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2016年05月09日</p></td>
 <td></td>
 <td><p>Dirty Music</p></td>
-<td><p>DOWNLOAD</p></td>
 <td><p>DMR149</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2016年07月18日</p></td>
 <td></td>
 <td><p>No Signal Records</p></td>
-<td><p>DOWNLOAD</p></td>
 <td><p>NSR050</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -573,33 +573,33 @@
 
 ### コラボレーション作品
 
-|             |                                                                                            |                                                                                         |                                                                                         |          |          |
-| ----------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------- | -------- |
-| リリース日       | タイトル                                                                                       | アーティスト名                                                                                 | レーベル                                                                                    | メディア     | 規格品番     |
-| 2012年11月23日 | DIAMOND EP                                                                                 | [DJ KOUTAROU.A](https://ja.wikipedia.org/wiki/DJ_KOUTAROU.A "wikilink") & Sugiurumn     | Ole Music                                                                               | DOWNLOAD | OLE029   |
-| 2012年12月19日 | Deep Bisket EP                                                                             | [DJ KOUTAROU.A](https://ja.wikipedia.org/wiki/DJ_KOUTAROU.A "wikilink") & Sugiurumn     | One With Music                                                                          | DOWNLOAD | OWM013   |
-| 2013年05月22日 | Mohawk , Wicker Man                                                                        | Sugiurumn & Satoshi Fumi                                                                | [BASS WORKS RECORDINGS](https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS "wikilink") | DOWNLOAD | BWR005   |
-| 2013年07月03日 | Afrotron                                                                                   | Sugiurumn & [Hideo Kobayashi](https://ja.wikipedia.org/wiki/Hideo_Kobayashi "wikilink") | [BASS WORKS RECORDINGS](https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS "wikilink") | DOWNLOAD | BWR010   |
-| 2013年07月17日 | Billy The Kid                                                                              | Sugiurumn & Dr.Shingo                                                                   | [BASS WORKS RECORDINGS](https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS "wikilink") | DOWNLOAD | BWR013   |
-| 2013年07月17日 | Juranodon                                                                                  | Sugiurumn & [Hideo Kobayashi](https://ja.wikipedia.org/wiki/Hideo_Kobayashi "wikilink") | [BASS WORKS RECORDINGS](https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS "wikilink") | DOWNLOAD | BWR014   |
-| 2013年07月17日 | ACID ZOMBIE – Club Halloween                                                               | DJ [EMMA](../Page/EMMA.md "wikilink") & SUGIURUMN                                       | [NITELIST MUSIC](https://ja.wikipedia.org/wiki/NITELIST_MUSIC "wikilink")               | CD       | NM21032  |
-| 2013年07月24日 | First Ride EP                                                                              | Hito & Sugiurumn                                                                        | [BASS WORKS RECORDINGS](https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS "wikilink") | DOWNLOAD | BWR018   |
-| 2013年09月11日 | Wide Awake EP                                                                              | Sugiurumn & Dr.Shingo                                                                   | [BASS WORKS RECORDINGS](https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS "wikilink") | DOWNLOAD | BWR021   |
-| 2013年10月09日 | Jetron                                                                                     | Sugiurumn & [Hideo Kobayashi](https://ja.wikipedia.org/wiki/Hideo_Kobayashi "wikilink") | [BASS WORKS RECORDINGS](https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS "wikilink") | DOWNLOAD | BWR025   |
-| 2014年01月22日 | Afrotron [KEN ISHII](https://ja.wikipedia.org/wiki/KEN_ISHII "wikilink") Remix Part2 & Dub | Sugiurumn & [Hideo Kobayashi](https://ja.wikipedia.org/wiki/Hideo_Kobayashi "wikilink") | [BASS WORKS RECORDINGS](https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS "wikilink") | DOWNLOAD | BWR039   |
-| 2014年03月05日 | Quo Vadis / Petro                                                                          | Remy & Sugiurumn                                                                        | [BASS WORKS RECORDINGS](https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS "wikilink") | DOWNLOAD | BWR045   |
-| 2014年05月14日 | Hypnorex                                                                                   | Sugiurumn & [Hideo Kobayashi](https://ja.wikipedia.org/wiki/Hideo_Kobayashi "wikilink") | [BASS WORKS RECORDINGS](https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS "wikilink") | DOWNLOAD | BWR056   |
-| 2014年03月05日 | Lemon / Melon                                                                              | Sugiurumn & Mr. STERENE                                                                 | [BASS WORKS RECORDINGS](https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS "wikilink") | DOWNLOAD | BWR057   |
-| 2014年06月04日 | Lost In Asylum                                                                             | Sugiurumn & Zane                                                                        | [BASS WORKS RECORDINGS](https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS "wikilink") | DOWNLOAD | BWR059   |
-| 2015年01月28日 | Q                                                                                          | Sugiurumn & Sunseaker                                                                   | [BASS WORKS RECORDINGS](https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS "wikilink") | DOWNLOAD | BWR091   |
-| 2015年02月11日 | Bushman                                                                                    | Sugiurumn & Shinkawa                                                                    | [BASS WORKS RECORDINGS](https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS "wikilink") | DOWNLOAD | BWR093   |
-| 2015年03月24日 | Bug Bag                                                                                    | SUGIURUMN & OSAKAMAN                                                                    | [BASS WORKS RECORDINGS](https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS "wikilink") | DOWNLOAD | BWR098   |
-| 2015年03月25日 | 99％                                                                                        | SUGIURUMN & Nao Nomura                                                                  | [BASS WORKS RECORDINGS](https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS "wikilink") | DOWNLOAD | BWR099   |
-| 2015年01月06日 | BWX                                                                                        | SUGIURUMN & NaoNomura & OSAKAMAN                                                        | [BASS WORKS RECORDINGS](https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS "wikilink") | DOWNLOAD | BWR128   |
-| 2016年03月03日 | Into the Woods                                                                             | YØSHI & SUGIURUMN                                                                       | [BASS WORKS RECORDINGS](https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS "wikilink") | DOWNLOAD | BWR138   |
-| 2016年07月25日 | Are You Ready                                                                              | Jeremy Bass & SUGIURUMN                                                                 | Dirty Music                                                                             | DOWNLOAD | DMR156   |
-| 2016年08月11日 | Drive Shaft                                                                                | KO KIMURA & SUGIURUMN                                                                   | FUTIC RECORDINGS TOKYO                                                                  | DOWNLOAD | FUTIC035 |
-|             |                                                                                            |                                                                                         |                                                                                         |          |          |
+|             |                                                                                            |                                                                                         |                                                                                         |          |         |
+| ----------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------- | ------- |
+| リリース日       | タイトル                                                                                       | アーティスト名                                                                                 | レーベル                                                                                    | メディア     | 規格品番    |
+| 2012年11月23日 | DIAMOND EP                                                                                 | [DJ KOUTAROU.A](https://ja.wikipedia.org/wiki/DJ_KOUTAROU.A "wikilink") & Sugiurumn     | Ole Music                                                                               | DOWNLOAD | OLE029  |
+| 2012年12月19日 | Deep Bisket EP                                                                             | One With Music                                                                          | OWM013                                                                                  |          |         |
+| 2013年05月22日 | Mohawk , Wicker Man                                                                        | Sugiurumn & Satoshi Fumi                                                                | [BASS WORKS RECORDINGS](https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS "wikilink") | BWR005   |         |
+| 2013年07月03日 | Afrotron                                                                                   | Sugiurumn & [Hideo Kobayashi](https://ja.wikipedia.org/wiki/Hideo_Kobayashi "wikilink") | BWR010                                                                                  |          |         |
+| 2013年07月17日 | Billy The Kid                                                                              | Sugiurumn & Dr.Shingo                                                                   | BWR013                                                                                  |          |         |
+| 2013年07月17日 | Juranodon                                                                                  | Sugiurumn & [Hideo Kobayashi](https://ja.wikipedia.org/wiki/Hideo_Kobayashi "wikilink") | BWR014                                                                                  |          |         |
+| 2013年07月17日 | ACID ZOMBIE – Club Halloween                                                               | DJ [EMMA](../Page/EMMA.md "wikilink") & SUGIURUMN                                       | [NITELIST MUSIC](https://ja.wikipedia.org/wiki/NITELIST_MUSIC "wikilink")               | CD       | NM21032 |
+| 2013年07月24日 | First Ride EP                                                                              | Hito & Sugiurumn                                                                        | [BASS WORKS RECORDINGS](https://ja.wikipedia.org/wiki/BASS_WORKS_RECORDINGS "wikilink") | DOWNLOAD | BWR018  |
+| 2013年09月11日 | Wide Awake EP                                                                              | Sugiurumn & Dr.Shingo                                                                   | BWR021                                                                                  |          |         |
+| 2013年10月09日 | Jetron                                                                                     | Sugiurumn & [Hideo Kobayashi](https://ja.wikipedia.org/wiki/Hideo_Kobayashi "wikilink") | BWR025                                                                                  |          |         |
+| 2014年01月22日 | Afrotron [KEN ISHII](https://ja.wikipedia.org/wiki/KEN_ISHII "wikilink") Remix Part2 & Dub | BWR039                                                                                  |                                                                                         |          |         |
+| 2014年03月05日 | Quo Vadis / Petro                                                                          | Remy & Sugiurumn                                                                        | BWR045                                                                                  |          |         |
+| 2014年05月14日 | Hypnorex                                                                                   | Sugiurumn & [Hideo Kobayashi](https://ja.wikipedia.org/wiki/Hideo_Kobayashi "wikilink") | BWR056                                                                                  |          |         |
+| 2014年03月05日 | Lemon / Melon                                                                              | Sugiurumn & Mr. STERENE                                                                 | BWR057                                                                                  |          |         |
+| 2014年06月04日 | Lost In Asylum                                                                             | Sugiurumn & Zane                                                                        | BWR059                                                                                  |          |         |
+| 2015年01月28日 | Q                                                                                          | Sugiurumn & Sunseaker                                                                   | BWR091                                                                                  |          |         |
+| 2015年02月11日 | Bushman                                                                                    | Sugiurumn & Shinkawa                                                                    | BWR093                                                                                  |          |         |
+| 2015年03月24日 | Bug Bag                                                                                    | SUGIURUMN & OSAKAMAN                                                                    | BWR098                                                                                  |          |         |
+| 2015年03月25日 | 99％                                                                                        | SUGIURUMN & Nao Nomura                                                                  | BWR099                                                                                  |          |         |
+| 2015年01月06日 | BWX                                                                                        | SUGIURUMN & NaoNomura & OSAKAMAN                                                        | BWR128                                                                                  |          |         |
+| 2016年03月03日 | Into the Woods                                                                             | YØSHI & SUGIURUMN                                                                       | BWR138                                                                                  |          |         |
+| 2016年07月25日 | Are You Ready                                                                              | Jeremy Bass & SUGIURUMN                                                                 | Dirty Music                                                                             | DMR156   |         |
+| 2016年08月11日 | Drive Shaft                                                                                | KO KIMURA & SUGIURUMN                                                                   | FUTIC RECORDINGS TOKYO                                                                  | FUTIC035 |         |
+|             |                                                                                            |                                                                                         |                                                                                         |          |         |
 
 ### 主なリミックス作品
 
@@ -608,7 +608,7 @@
 | リリース日       | 曲名                                                                                                       | アーティスト名                                                                                                     |
 | 1998年02月28日 | WATCH OUT EXTENTION98 (MAXI SINGLE REMIX)                                                                | EXTENTION58                                                                                                 |
 | 1999年08月18日 | スロウライダー "EIJI SUGIURA INDISKO MIX"                                                                       | [サニーデイ・サービス](https://ja.wikipedia.org/wiki/サニーデイ・サービス "wikilink")                                           |
-| 2000年02月19日 | [宇宙刑事ギャバン](https://ja.wikipedia.org/wiki/宇宙刑事ギャバン "wikilink") Remixed by SUGIURUMN                       | EXTREME CYCLONE -REBIRTH OF SUPER HEROES-                                                                   |
+| 2000年02月19日 | [宇宙刑事ギャバン](../Page/宇宙刑事ギャバン.md "wikilink") Remixed by SUGIURUMN                                          | EXTREME CYCLONE -REBIRTH OF SUPER HEROES-                                                                   |
 | 2000年02月19日 | [マジンガーZ](../Page/マジンガーZ.md "wikilink") Remixed by SUGIURUMN                                              | IRON FIST -REBIRTH OF SUPER ROBOTS-                                                                         |
 | 2000年02月25日 | MARRIED TO A FRENCHMAN -ROK STUDY MIX- Remixed by SUGIURUMN                                              | [POLYSICS](../Page/POLYSICS.md "wikilink")                                                                  |
 | 2000年02月25日 | FRESHMINT\! (SUGIURUMN Remix)                                                                            | REGURGITATOR                                                                                                |
@@ -734,44 +734,44 @@
 
 ### ライセンス収録
 
-|             |                                                       |                                                                                 |                                                                      |
-| ----------- | ----------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| リリース日       | タイトル                                                  | レーベル                                                                            | トラック                                                                 |
-| 2005年09月13日 | Emma House -Live At Yellow-                           | Cutting Edge                                                                    | Sweet Amazing (Malawi Rocks Remix)                                   |
-| 2000年11月30日 | Emma House Rocks                                      | Cutting Edge                                                                    | Boogie Nights                                                        |
-| 2006年05月27日 | Sessions Three                                        | [Ministry of Sound](https://ja.wikipedia.org/wiki/Ministry_of_Sound "wikilink") | Star Baby (Axwell Remix)                                             |
-| 2006年08月09日 | Live At Pacha Ibiza                                   | [Avex](https://ja.wikipedia.org/wiki/Avex "wikilink")                           | Star Baby (Axwell Remix) ,Oh\! No\! ,Boogie Nights                   |
-| 2006年09月28日 | Big City Beats 5                                      | Indigo                                                                          | Star Baby (Axwell Remix)                                             |
-| 2006年09月19日 | Sensation White 2006                                  | [Ministry of Sound](https://ja.wikipedia.org/wiki/Ministry_of_Sound "wikilink") | Star Baby (Axwell Remix)                                             |
-| 2006年10月11日 | Compact Vinyl Upper House Vol.1                       | [Cisco](https://ja.wikipedia.org/wiki/Cisco "wikilink") Stevier                 | What Time Is Summer Of Love?                                         |
-| 2006年11月27日 | Cream Anthems 2007                                    | [Ministry of Sound](https://ja.wikipedia.org/wiki/Ministry_of_Sound "wikilink") | Star Baby (Axwell Remix)                                             |
-| 2006年01月06日 | Live At Pacha – Winter Sessions Vol.5                 | Pacha Recordings                                                                | Star Baby (Axwell Remix) ,Oh\! No\! ,Boogie Nights                   |
-| 2007年02月13日 | House Nation No Party, No Life.                       | [Avex](https://ja.wikipedia.org/wiki/Avex "wikilink")                           | Star Baby                                                            |
-| 2007年04月18日 | Theory X Free Tempo                                   | Universal                                                                       | Star Baby                                                            |
-| 2007年04月24日 | Attractive Club Sweets Vol.2                          | ZYX Music                                                                       | Star Baby (Axwell Remix)                                             |
-| 2007年05月01日 | DJ Romeo VIP Mix 04                                   | Radio Record                                                                    | Star Baby (Axwell Remix)                                             |
-| 2007年08月07日 | House Zone Vol 01                                     | More Music & Media G                                                            | X-TAXI (Steve Angello Remix)                                         |
-| 2007年08月08日 | House Nation Tea Dance -Premiere Gig-                 | [Avex](https://ja.wikipedia.org/wiki/Avex "wikilink")                           | Travelling                                                           |
-| 2007年08月08日 | Live At Pacha Ibiza Mixed By Sugiurumn & Richard Grey | [Avex](https://ja.wikipedia.org/wiki/Avex "wikilink")                           | What Time Is Summer Of Love? (Richard Grey Remix), Travelling        |
-| 2007年11月14日 | NITELIST MUSIC Mixed by DJ EMMA                       | [rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")             | Sweet Amazing (Malawi Rocks Remix)                                   |
-| 2008年03月12日 | Live At Pacha Vol.3 Mixed By Sugiurumn & Richard Grey | Pacha Recordings                                                                | What Time Is Summer Of Love? (Richard Grey Remix), Travelling        |
-| 2009年07月13日 | PACHA IBIZA: CLUB, CRUCIAL & CROSSOVER, Travelling    | Pacha Recordings                                                                | What Time Is Summer Of Love? (Richard Grey Remix), Travelling        |
-| 2008年08月06日 | LIVE AT PACHA IBIZA mixed by sugiurumn & DJ EMMA      | [Avex](https://ja.wikipedia.org/wiki/Avex "wikilink")                           | Travelling (Plastik Funk Remix), Don’t Sleep (D-Nox & Beckers Remix) |
-| 2009年08月05日 | House Nation Aquamarine                               | [Avex](https://ja.wikipedia.org/wiki/Avex "wikilink")                           | Magick Lantern Cycle(Sugiurumn Extended Vocal)                       |
-| 2009年12月02日 | House Nation Diamond                                  | [Avex](https://ja.wikipedia.org/wiki/Avex "wikilink")                           | Star Baby (GTS HOUSE NATION Remix)                                   |
-| 2012年05月04日 | House Nation Diamond                                  | [Avex](https://ja.wikipedia.org/wiki/Avex "wikilink")                           | Star Baby (GTS HOUSE NATION Remix)                                   |
-| 2013年01月25日 | TECH-WONDO                                            | Xelon Entertainment                                                             | Don't Sleep (D-Nox & Becker Remix)                                   |
-| 2016年01月22日 | RE:COMMENDED -TECH HOUSE EDITION VOL. 5-              | Re:vibe Music                                                                   | Neutrino (Jeremy Bass & Branchie Remix)                              |
-| 2016年01月22日 | DEEP IN THE DARK-TECH HOUSE & TECHNO SELECTION-       | Re:vibe Music                                                                   | Neutrino (Jeremy Bass & Branchie Remix)                              |
-| 2016年05月07日 | RE:FORMATION VOL. 27-TECH HOUSE SELECTION-            | Reflective Music                                                                | Don't You (Sugiurumn Remix)                                          |
-| 2016年06月11日 | TECHY VIBES, VOL. 9                                   | Re:vibe Music                                                                   | Neutrino (Dany Deep Remix)                                           |
-| 2016年07月23日 | DEEP IN THE DARK -TECH HOUSE & TECHNO SELECTION-      | Reflective Music                                                                | Don't You (Sugiurumn Remix)                                          |
-| 2016年09月27日 | TECH IT DOWN\! VOL. 2                                 | RH2                                                                             | Are You Ready (Branchie Remix)                                       |
-| 2016年10月29日 | UNIVERSAL LANGUAGE, VOL. 12                           | Re:vibe Music                                                                   | Are You Ready (Original MIx)                                         |
-| 2016年10月29日 | WE'LL HOUSE U\!-TECH HOUSE & HOUSE EDITION VOL. 23-   | Club Session                                                                    | Are You Ready (Joy Marquez Remix)                                    |
-| 2017年01月24日 | RE-FRESHED FREQUENCIES VOL. 5                         | Club Session                                                                    | Are You Ready (Joy Marquez Remix)                                    |
-| 2017年02月02日 | RE-FRESHED FREQUENCIES VOL. 5                         | Re:vibe Music                                                                   | Are You Ready (Original MIx)                                         |
-|             |                                                       |                                                                                 |                                                                      |
+|                                                     |                                                       |                                                                                 |                                                                      |
+| --------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| リリース日                                               | タイトル                                                  | レーベル                                                                            | トラック                                                                 |
+| 2005年09月13日                                         | Emma House -Live At Yellow-                           | Cutting Edge                                                                    | Sweet Amazing (Malawi Rocks Remix)                                   |
+| 2000年11月30日                                         | Emma House Rocks                                      | Boogie Nights                                                                   |                                                                      |
+| 2006年05月27日                                         | Sessions Three                                        | [Ministry of Sound](https://ja.wikipedia.org/wiki/Ministry_of_Sound "wikilink") | Star Baby (Axwell Remix)                                             |
+| 2006年08月09日                                         | Live At Pacha Ibiza                                   | [Avex](https://ja.wikipedia.org/wiki/Avex "wikilink")                           | Star Baby (Axwell Remix) ,Oh\! No\! ,Boogie Nights                   |
+| 2006年09月28日                                         | Big City Beats 5                                      | Indigo                                                                          | Star Baby (Axwell Remix)                                             |
+| 2006年09月19日                                         | Sensation White 2006                                  | [Ministry of Sound](https://ja.wikipedia.org/wiki/Ministry_of_Sound "wikilink") |                                                                      |
+| 2006年10月11日                                         | Compact Vinyl Upper House Vol.1                       | [Cisco](https://ja.wikipedia.org/wiki/Cisco "wikilink") Stevier                 | What Time Is Summer Of Love?                                         |
+| 2006年11月27日                                         | Cream Anthems 2007                                    | [Ministry of Sound](https://ja.wikipedia.org/wiki/Ministry_of_Sound "wikilink") | Star Baby (Axwell Remix)                                             |
+| 2006年01月06日                                         | Live At Pacha – Winter Sessions Vol.5                 | Pacha Recordings                                                                | Star Baby (Axwell Remix) ,Oh\! No\! ,Boogie Nights                   |
+| 2007年02月13日                                         | House Nation No Party, No Life.                       | [Avex](https://ja.wikipedia.org/wiki/Avex "wikilink")                           | Star Baby                                                            |
+| 2007年04月18日                                         | Theory X Free Tempo                                   | Universal                                                                       |                                                                      |
+| 2007年04月24日                                         | Attractive Club Sweets Vol.2                          | ZYX Music                                                                       | Star Baby (Axwell Remix)                                             |
+| 2007年05月01日                                         | DJ Romeo VIP Mix 04                                   | Radio Record                                                                    |                                                                      |
+| 2007年08月07日                                         | House Zone Vol 01                                     | More Music & Media G                                                            | X-TAXI (Steve Angello Remix)                                         |
+| 2007年08月08日                                         | House Nation Tea Dance -Premiere Gig-                 | [Avex](https://ja.wikipedia.org/wiki/Avex "wikilink")                           | Travelling                                                           |
+| 2007年08月08日                                         | Live At Pacha Ibiza Mixed By Sugiurumn & Richard Grey | What Time Is Summer Of Love? (Richard Grey Remix), Travelling                   |                                                                      |
+| 2007年11月14日                                         | NITELIST MUSIC Mixed by DJ EMMA                       | [rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")             | Sweet Amazing (Malawi Rocks Remix)                                   |
+| 2008年03月12日                                         | Live At Pacha Vol.3 Mixed By Sugiurumn & Richard Grey | Pacha Recordings                                                                | What Time Is Summer Of Love? (Richard Grey Remix), Travelling        |
+| 2009年07月13日                                         | PACHA IBIZA: CLUB, CRUCIAL & CROSSOVER, Travelling    |                                                                                 |                                                                      |
+| 2008年08月06日                                         | LIVE AT PACHA IBIZA mixed by sugiurumn & DJ EMMA      | [Avex](https://ja.wikipedia.org/wiki/Avex "wikilink")                           | Travelling (Plastik Funk Remix), Don’t Sleep (D-Nox & Beckers Remix) |
+| 2009年08月05日                                         | House Nation Aquamarine                               | Magick Lantern Cycle(Sugiurumn Extended Vocal)                                  |                                                                      |
+| 2009年12月02日                                         | House Nation Diamond                                  | Star Baby (GTS HOUSE NATION Remix)                                              |                                                                      |
+| 2012年05月04日                                         | House Nation Diamond                                  |                                                                                 |                                                                      |
+| 2013年01月25日                                         | TECH-WONDO                                            | Xelon Entertainment                                                             | Don't Sleep (D-Nox & Becker Remix)                                   |
+| 2016年01月22日                                         | RE:COMMENDED -TECH HOUSE EDITION VOL. 5-              | Re:vibe Music                                                                   | Neutrino (Jeremy Bass & Branchie Remix)                              |
+| DEEP IN THE DARK-TECH HOUSE & TECHNO SELECTION-     |                                                       |                                                                                 |                                                                      |
+| 2016年05月07日                                         | RE:FORMATION VOL. 27-TECH HOUSE SELECTION-            | Reflective Music                                                                | Don't You (Sugiurumn Remix)                                          |
+| 2016年06月11日                                         | TECHY VIBES, VOL. 9                                   | Re:vibe Music                                                                   | Neutrino (Dany Deep Remix)                                           |
+| 2016年07月23日                                         | DEEP IN THE DARK -TECH HOUSE & TECHNO SELECTION-      | Reflective Music                                                                | Don't You (Sugiurumn Remix)                                          |
+| 2016年09月27日                                         | TECH IT DOWN\! VOL. 2                                 | RH2                                                                             | Are You Ready (Branchie Remix)                                       |
+| 2016年10月29日                                         | UNIVERSAL LANGUAGE, VOL. 12                           | Re:vibe Music                                                                   | Are You Ready (Original MIx)                                         |
+| WE'LL HOUSE U\!-TECH HOUSE & HOUSE EDITION VOL. 23- | Club Session                                          | Are You Ready (Joy Marquez Remix)                                               |                                                                      |
+| 2017年01月24日                                         | RE-FRESHED FREQUENCIES VOL. 5                         |                                                                                 |                                                                      |
+| 2017年02月02日                                         | RE-FRESHED FREQUENCIES VOL. 5                         | Re:vibe Music                                                                   | Are You Ready (Original MIx)                                         |
+|                                                     |                                                       |                                                                                 |                                                                      |
 
 ### 参加作品
 
@@ -823,6 +823,9 @@
   - CHITTODEN -Pray for Kyushu-（2016年05月23日）
       -
         [熊本地震チャリティー](https://ja.wikipedia.org/wiki/熊本地震_\(2016年\) "wikilink")・アルバム。「One Things」で参加。
+  - [ukka](https://ja.wikipedia.org/wiki/ukka "wikilink")（元 桜エビ〜ず）
+      -
+        「[Magik Melody](https://ja.wikipedia.org/wiki/octave_\(桜エビ〜ずのアルバム\) "wikilink")」（作詞・作曲・編曲）、「グラジェネ」（作詞）、「[時間。光り輝く螺旋の球。](https://ja.wikipedia.org/wiki/恋、いちばんめ "wikilink")」（作詞・編曲）に、「杉浦英治」名義で参加。
 
 ### プロデュース
 

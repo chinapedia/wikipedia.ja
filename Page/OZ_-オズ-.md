@@ -1,7 +1,7 @@
 > この記事は[OZ -オズ-](https://ja.wikipedia.org/wiki/OZ_-オズ-)から翻訳されています。
 
 
-『**OZ -オズ-**』は、2005年6月30日に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")3D[アクションゲーム](../Page/アクションゲーム.md "wikilink")。また、2006年1月26日に[廉価版](../Page/廉価版.md "wikilink")が発売されている。
+『**OZ -オズ-**』は、2005年6月30日に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から発売された[PlayStation 2用](../Page/PlayStation_2.md "wikilink")3D[アクションゲーム](../Page/アクションゲーム.md "wikilink")。また、2006年1月26日に[廉価版](../Page/廉価版.md "wikilink")が発売されている。
 
 ## 概要
 

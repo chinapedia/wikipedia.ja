@@ -1,7 +1,7 @@
 > この記事は[サクラ大戦V 〜さらば愛しき人よ〜](https://ja.wikipedia.org/wiki/サクラ大戦V_〜さらば愛しき人よ〜)から翻訳されています。
 
 
-『**サクラ大戦V 〜さらば愛しき人よ〜**』（サクラたいせんファイブ さらばいとしきひとよ）は、[株式会社セガ](https://ja.wikipedia.org/wiki/株式会社セガ "wikilink")が[2005年](../Page/2005年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に発売した[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。[サクラ大戦シリーズ](https://ja.wikipedia.org/wiki/サクラ大戦シリーズ "wikilink")のナンバリングタイトル第5作目。
+『**サクラ大戦V 〜さらば愛しき人よ〜**』（サクラたいせんファイブ さらばいとしきひとよ）は、[株式会社セガ](https://ja.wikipedia.org/wiki/株式会社セガ "wikilink")が[2005年](../Page/2005年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に発売した[PlayStation 2用ゲームソフト](../Page/PlayStation_2.md "wikilink")。[サクラ大戦シリーズ](https://ja.wikipedia.org/wiki/サクラ大戦シリーズ "wikilink")のナンバリングタイトル第5作目。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月には、欧米における初のサクラ大戦シリーズとして、PlayStation 2版と[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")版が[NIS Americaから](../Page/日本一ソフトウェア.md "wikilink")『*Sakura Wars: So Long, My Love*』のタイトルで発売\[1\]された。
 

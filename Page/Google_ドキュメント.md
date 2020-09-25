@@ -40,7 +40,7 @@ Google ドキュメントから直接[ブログ](../Page/ブログ.md "wikilink"
   - 2006年10月 - 「Google Docs & Spreadsheets」としてワープロと表計算機能を統合
   - 2006年11月 - [Gmail](../Page/Gmail.md "wikilink")と連携し、Microsoft Excelの添付ファイルを直接オープン可能に
   - 2007年1月 - Gmailと連携し、Microsoft Wordの添付ファイルを直接オープン可能に
-  - 2007年2月 - [ドイツ語](../Page/ドイツ語.md "wikilink")、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")など対応言語を11言語追加。[Google Appsで利用可能に](https://ja.wikipedia.org/wiki/Google_Apps "wikilink")
+  - 2007年2月 - [ドイツ語](../Page/ドイツ語.md "wikilink")、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")、[中国語](../Page/中国語.md "wikilink")など対応言語を11言語追加。[Google Appsで利用可能に](https://ja.wikipedia.org/wiki/Google_Apps "wikilink")
   - 2007年3月 - [日本語](../Page/日本語.md "wikilink")に対応
   - 2007年4月 - スプレッドシートにグラフ描画機能追加
   - 2007年6月 - トップページのデザインを変更、フォルダによる分類を導入

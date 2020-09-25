@@ -750,7 +750,7 @@ ST終了後50回</p></td>
 
 ## コンシューマ移植
 
-  - [パチパラシリーズ](../Page/パチパラシリーズ.md "wikilink")（[プレイステーション2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）
+  - [パチパラシリーズ](../Page/パチパラシリーズ.md "wikilink")（[プレイステーション2用](../Page/PlayStation_2.md "wikilink")）
       - 『[パチパラ12 〜大海と夏の思い出〜](http://www.irem.co.jp/official/pp12/index.html)』（2005年[12月15日](../Page/12月15日.md "wikilink")発売）に『CR大海物語M56』、『CR大海物語M2』が収録。
 
 ## 脚注

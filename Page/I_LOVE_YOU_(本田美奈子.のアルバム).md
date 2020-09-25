@@ -17,7 +17,7 @@
         [テレビ朝日](../Page/テレビ朝日.md "wikilink")系アニメ「[明日のナージャ](https://ja.wikipedia.org/wiki/明日のナージャ "wikilink")」オープニングテーマ。
 3.  愛の砂漠
       -
-        [PlayStation 2ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")「Dog Of Bay」プレイ中の曲。
+        [PlayStation 2ゲーム](../Page/PlayStation_2.md "wikilink")「Dog Of Bay」プレイ中の曲。
 4.  晴れた空お天気
       -
         フジテレビ系アニメ「HUNTER×HUNTER」カップリング曲。

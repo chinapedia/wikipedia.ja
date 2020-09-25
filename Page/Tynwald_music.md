@@ -5,7 +5,7 @@
 
 ## 経歴・音楽性
 
-樋口とWHITE-LIPSの2人は1999年にユニットを結成した。主に[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")（[美少女ゲーム](../Page/美少女ゲーム.md "wikilink")）の楽曲制作を手掛けており、ゲーム音楽（BGM）と主題歌・挿入歌等の制作提供を行っている。初期からはアダルトゲームブランドである[light](https://ja.wikipedia.org/wiki/light "wikilink")や[ぱれっとから委託を受けるほか](../Page/ぱれっと_\(ゲームブランド\).md "wikilink")、[株式会社ビジュアルアーツ傘下のブランドである](../Page/ビジュアルアーツ.md "wikilink")[SAGA PLANETSやその他のブランドにも数多くの楽曲を提供している](../Page/SAGA_PLANETS.md "wikilink")。主題歌等ではWHITE-LIPSが歌唱を務める曲だけでなく、各ゲームのヒロイン（演じた声優）が歌う主題歌・キャラクターソング等の作詞・作曲も行っている。そのほか[コミックマーケット](../Page/コミックマーケット.md "wikilink")などで頒布する同人誌のイメージソングも手がけている。
+樋口とWHITE-LIPSの2人は1999年にユニットを結成した。主に[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")（[美少女ゲーム](../Page/美少女ゲーム.md "wikilink")）の楽曲制作を手掛けており、ゲーム音楽（BGM）と主題歌・挿入歌等の制作提供を行っている。初期からはアダルトゲームブランドである[lightや](https://ja.wikipedia.org/wiki/light_\(ゲームブランド\) "wikilink")[ぱれっとから委託を受けるほか](../Page/ぱれっと_\(ゲームブランド\).md "wikilink")、[株式会社ビジュアルアーツ傘下のブランドである](../Page/ビジュアルアーツ.md "wikilink")[SAGA PLANETSやその他のブランドにも数多くの楽曲を提供している](../Page/SAGA_PLANETS.md "wikilink")。主題歌等ではWHITE-LIPSが歌唱を務める曲だけでなく、各ゲームのヒロイン（演じた声優）が歌う主題歌・キャラクターソング等の作詞・作曲も行っている。そのほか[コミックマーケット](../Page/コミックマーケット.md "wikilink")などで頒布する同人誌のイメージソングも手がけている。
 
 [民族音楽](../Page/民族音楽.md "wikilink")や[オーケストラ](../Page/オーケストラ.md "wikilink")の要素を組み込んだ[ポップ・ミュージック](../Page/ポップ・ミュージック.md "wikilink")を制作しており、中にはを想わせる楽曲もある。そのほか、[アコースティック楽器](https://ja.wikipedia.org/wiki/アコースティック楽器 "wikilink")を交えた作品を得意としている。ヴォーカルのWHITE-LIPSは、ゲーム『[僕と、僕らの夏](../Page/僕と、僕らの夏.md "wikilink")』・『[ぽぽたん](../Page/ぽぽたん.md "wikilink")』・『[Dear My Friend](../Page/Dear_My_Friend_\(ゲーム\).md "wikilink")』などの作品において透明感のある歌声を披露している。
 
@@ -207,7 +207,7 @@
 
 <!-- end list -->
 
-  - [僕と、僕らの夏](../Page/僕と、僕らの夏.md "wikilink")（[light](https://ja.wikipedia.org/wiki/light "wikilink")）
+  - [僕と、僕らの夏](../Page/僕と、僕らの夏.md "wikilink")（[light](https://ja.wikipedia.org/wiki/light_\(ゲームブランド\) "wikilink")）
       - 僕と、僕らの夏（作詞・作曲・編曲：樋口秀樹、歌：WHITE-LIPS）
   - 僕と、僕らの夏 完全版
       - 贈り物（作詞：WHITE-LIPS、作曲：樋口秀樹、編曲：[ヨナオケイシ](../Page/ヨナオケイシ.md "wikilink")、歌：富山あかり）

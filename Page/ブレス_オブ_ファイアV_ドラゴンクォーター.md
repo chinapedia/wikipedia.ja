@@ -1,7 +1,7 @@
 > この記事は[ブレス オブ ファイアV ドラゴンクォーター](https://ja.wikipedia.org/wiki/ブレス_オブ_ファイアV_ドラゴンクォーター)から翻訳されています。
 
 
-『**ブレス オブ ファイアV ドラゴンクォーター**』（ブレス オブ ファイア ファイブ ドラゴンクォーター）は、[カプコン](../Page/カプコン.md "wikilink")より[2002年](../Page/2002年.md "wikilink")[11月14日](../Page/11月14日.md "wikilink")に発売された[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+『**ブレス オブ ファイアV ドラゴンクォーター**』（ブレス オブ ファイア ファイブ ドラゴンクォーター）は、[カプコン](../Page/カプコン.md "wikilink")より[2002年](../Page/2002年.md "wikilink")[11月14日](../Page/11月14日.md "wikilink")に発売された[PlayStation 2用ゲームソフト](../Page/PlayStation_2.md "wikilink")。
 
 ## 概要
 

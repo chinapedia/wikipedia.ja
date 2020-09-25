@@ -29,6 +29,15 @@
 4.  **すべて、愛だった -Lavie d'une petite fille- (Acoustic Version)**
 5.  **Blue Jean (Instrumental)**
 
+## 演奏
+
+  - [永井利光](../Page/永井利光.md "wikilink")：Drums
+  - [佐久間正英](../Page/佐久間正英.md "wikilink")：Keyboards, Piano, Guitar, Programming
+  - [くず](https://ja.wikipedia.org/wiki/くず "wikilink") ([ANIKI](../Page/山口智充.md "wikilink")＆[HIRO](https://ja.wikipedia.org/wiki/宮迫博之 "wikilink"))：Featuring Vocal (\#2)
+  - [YUKI](../Page/YUKI.md "wikilink")：Featuring Vocal (\#2)
+  - [洞口桃子](https://ja.wikipedia.org/wiki/洞口桃子 "wikilink")：Chorus (\#2)
+  - [金原千恵子](../Page/金原千恵子.md "wikilink")ストリングス：(\#1.3.4.5)
+
 ## タイアップ
 
   - エステティックTBC 2004サマーキャンペーンCMソング（\#1）

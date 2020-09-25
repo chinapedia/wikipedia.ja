@@ -1,7 +1,7 @@
 > この記事は[レーシングバトル -C1 GRAND PRIX-](https://ja.wikipedia.org/wiki/レーシングバトル_-C1_GRAND_PRIX-)から翻訳されています。
 
 
-『**レーシングバトル -C1 GRAND PRIX-**』（レーシングバトル シーワングランプリ）は、[元気より](../Page/元気_\(ゲーム会社\).md "wikilink")[2005年](../Page/2005年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")に発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[レースゲーム](../Page/レースゲーム.md "wikilink")。
+『**レーシングバトル -C1 GRAND PRIX-**』（レーシングバトル シーワングランプリ）は、[元気より](../Page/元気_\(ゲーム会社\).md "wikilink")[2005年](../Page/2005年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")に発売された[PlayStation 2用](../Page/PlayStation_2.md "wikilink")[レースゲーム](../Page/レースゲーム.md "wikilink")。
 
 『[首都高バトルシリーズ](../Page/首都高バトルシリーズ.md "wikilink")』と『[街道バトルシリーズ](../Page/街道バトルシリーズ.md "wikilink")』を組み合わせた作品で、実在する日本各地の[サーキット](../Page/サーキット.md "wikilink")のほか、[首都高速道路](https://ja.wikipedia.org/wiki/首都高速道路 "wikilink")と[阪神高速道路](https://ja.wikipedia.org/wiki/阪神高速道路 "wikilink")も登場する。
 

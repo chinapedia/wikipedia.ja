@@ -11,17 +11,17 @@
 <thead>
 <tr class="header">
 <th><p> </p></th>
-<th></th>
+<th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th></th>
-<th></th>
-<th></th>
+<th><p>規格品番</p></th>
+<th><p>収録曲</p></th>
+<th><p>備考</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p>2003214</p></td>
+<td><p>2003年2月14日</p></td>
 <td><p><strong>HALF WORKS</strong></p></td>
 <td><p>SRCD-002</p></td>
 <td><ol>
@@ -37,7 +37,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p>2005105</p></td>
+<td><p>2005年10月5日</p></td>
 <td><p><strong>GREEN HOURS</strong></p></td>
 <td><p>SRCDS-010</p></td>
 <td><ol>
@@ -54,13 +54,15 @@
 <li>Daddy Is High</li>
 <li>Soulful Lover puppy</li>
 </ol></td>
-<td><p>SECOND ROYAL RECORDSオリコン207</p></td>
+<td><p>SECOND ROYAL RECORDS<br />
+オリコン最高207位</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p>2007829</p></td>
+<td><p>2007年8月29日</p></td>
 <td><p><strong>SIDE FARMERS</strong></p></td>
-<td><p>TFCC-86230:(かい)TFCC-86236:</p></td>
+<td><p>TFCC-86230:初回生産限定盤<br />
+TFCC-86236:通常盤</p></td>
 <td><ol>
 <li>THE RAPID THAMES [1:08]</li>
 <li>HALFBEAT [3:44]</li>
@@ -74,18 +76,19 @@
 <li>FARMER’S DELIGHT [1:55]</li>
 <li>SCARECROW MAN [3:11]</li>
 </ol>
-<p>(かい)DVD</p>
+<p>初回生産限定盤DVD</p>
 <ol>
 <li>SCREW THE PLAN -MUSIC CLIP-</li>
 <li>HALFBEAT -MUSIC CLIP-</li>
 <li>STAR TRACK -MUSIC CLIP-</li>
 <li>SLIP ON -MUSIC CLIP-</li>
 </ol></td>
-<td><p>Major 1st アルバムオリコン42、(かい)4</p></td>
+<td><p>Major 1st アルバム<br />
+オリコン最高42位、登場回数4回</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p>2010519</p></td>
+<td><p>2010年5月19日</p></td>
 <td><p><strong>THE ISLAND OF CURIOSITY</strong></p></td>
 <td><p>XQGE-1025</p></td>
 <td><ol>
@@ -101,11 +104,12 @@
 <li>The Island Of Curiosity [4:50]</li>
 <li>Peace Pipe [3:52]</li>
 </ol></td>
-<td><p>SECOND ROYAL RECORDSオリコン153</p></td>
+<td><p>SECOND ROYAL RECORDS<br />
+オリコン最高153位</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
-<td><p>20111116</p></td>
+<td><p>2011年11月16日</p></td>
 <td><p><strong>LEADERS OF THE NEW SCHOOL</strong></p></td>
 <td><p>XQGE-1030</p></td>
 <td><ol>
@@ -121,11 +125,12 @@
 <li>Love Step [5:48]</li>
 <li>Methods Of Droppin’ Mental [3:30]</li>
 </ol></td>
-<td><p>SECOND ROYAL RECORDSオリコン</p></td>
+<td><p>SECOND ROYAL RECORDS<br />
+オリコン圏外</p></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
-<td><p>20151111</p></td>
+<td><p>2015年11月11日</p></td>
 <td><p><strong>INNN HAWAII</strong></p></td>
 <td><p>PECF-1129</p></td>
 <td><ol>
@@ -143,52 +148,39 @@
 <li>Morning Glass Coffee feat.VIDEOTAPEMUSIC</li>
 <li>Kids feat.Alfred Beach Sandal</li>
 </ol></td>
-<td><p>felicityオリコン</p></td>
+<td><p>felicity<br />
+オリコン圏外</p></td>
 </tr>
 <tr class="odd">
-<td><p>7th</p></td>
-<td><p>20180905</p></td>
-<td><p><strong>LAST ALOHA</strong></p></td>
-<td><p>EMF-087</p></td>
-<td><ol>
-<li>Last Aloha</li>
-<li>The Sun</li>
-<li>Pearl City</li>
-<li>Underwater</li>
-<li>All Supported by Aloha</li>
-<li>Diamond Head</li>
-<li>くりす</li>
-<li>In &amp; Out of Town</li>
-<li>Waikiki Rain</li>
-<li>Countryside</li>
-<li>Beach of Memories</li>
-<li>Honeymoon</li>
-<li>The Wonderful World of Aloha (Album Version)</li>
-</ol></td>
-<td><p>felicityオリコン</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
 
 ### シングル
 
-（て(かい)完）
+（全て初回完全限定生産）
 
 <table>
 <thead>
 <tr class="header">
 <th><p> </p></th>
-<th></th>
+<th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th></th>
-<th></th>
-<th></th>
+<th><p>規格品番</p></th>
+<th><p>収録曲</p></th>
+<th><p>備考</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p>2006726</p></td>
+<td><p>2006年7月26日</p></td>
 <td><p><strong>SCREW THE PLAN</strong></p></td>
 <td><p>TFCC-89175</p></td>
 <td><ol>
@@ -197,11 +189,11 @@
 <li>MAN MOUNTAIN [2:03]</li>
 <li>SCREW THE PLAN (dEAD deAD HALF gOOD REMIX [5:37]</li>
 </ol></td>
-<td><p>オリコン183</p></td>
+<td><p>オリコン最高183位</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p>20061025</p></td>
+<td><p>2006年10月25日</p></td>
 <td><p><strong>HALFBEAT</strong></p></td>
 <td><p>TFCC-89186</p></td>
 <td><ol>
@@ -210,11 +202,11 @@
 <li>EDISON STREET [4:00]</li>
 <li>HALFBEAT (HALF BEAT HAPPENING MIX) [3:17]</li>
 </ol></td>
-<td><p>オリコン110</p></td>
+<td><p>オリコン最高110位</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p>2007328</p></td>
+<td><p>2007年3月28日</p></td>
 <td><p><strong>STAR TRACK</strong></p></td>
 <td><p>TFCC-89194</p></td>
 <td><ol>
@@ -223,11 +215,11 @@
 <li>YOUNG DIXIE RUNNERS [4:46]</li>
 <li>STAR TRACK (TRUCK TRAIN TRACTOR MIX) [4:19]</li>
 </ol></td>
-<td><p>オリコン111、(かい)3</p></td>
+<td><p>オリコン最高111位、登場回数3回</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p>2007627</p></td>
+<td><p>2007年6月27日</p></td>
 <td><p><strong>Slip ON</strong></p></td>
 <td><p>TFCC-89207</p></td>
 <td><ol>
@@ -236,16 +228,14 @@
 <li>BOOKSTORE PAL ON BRICK STREET (SHORT EDIT) [1:44]</li>
 <li>Slip ON (HALFBY’S Slip THAT DISCO REMIX) [3:21]</li>
 </ol></td>
-<td><p>オリコン157</p></td>
+<td><p>オリコン最高157位</p></td>
 </tr>
 <tr class="odd">
-<td><p>5th</p></td>
-<td><p>20161222</p></td>
-<td><p><strong>Let's DANCE</strong></p></td>
 <td></td>
-<td><ol>
-<li>Let's DANCE</li>
-</ol></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -253,25 +243,25 @@
 
 ### シングルレコード
 
-|     |          | タイトル                                                                                                  |         |
-| --- | -------- | ----------------------------------------------------------------------------------------------------- | ------- |
-| 1st | 20021010 | **and the coconut ep**                                                                                | EMF-001 |
-| 2nd | 20050430 | **RODEO MACHINE**                                                                                     | EMF-009 |
-| 3rd | 20051201 | **BRING IT BACK**                                                                                     | EMF-10  |
-| 4th | 20061020 | **MARY MARY**                                                                                         | EMF-18  |
-| 5th | 20070614 | **STAR TRACK**                                                                                        | EMF-022 |
-| 6th | 20071019 | **Slip ON**                                                                                           | EMF-24  |
-|     | 20091120 | **[カジヒデキ](../Page/カジヒデキ.md "wikilink")/HALFBY「HOT CLUB OF CHRIST/HALFBEAT (STROLL OF RUDOLPH EDIT)」** | EMF-033 |
-| 7th | 20100519 | **MAN ON FIRE**                                                                                       | EMF-035 |
-|     |          |                                                                                                       |         |
+|     | 発売日         | タイトル                                                                                                  | 規格品番    |
+| --- | ----------- | ----------------------------------------------------------------------------------------------------- | ------- |
+| 1st | 2002年10月10日 | **and the coconut ep**                                                                                | EMF-001 |
+| 2nd | 2005年04月30日 | **RODEO MACHINE**                                                                                     | EMF-009 |
+| 3rd | 2005年12月01日 | **BRING IT BACK**                                                                                     | EMF-10  |
+| 4th | 2006年10月20日 | **MARY MARY**                                                                                         | EMF-18  |
+| 5th | 2007年06月14日 | **STAR TRACK**                                                                                        | EMF-022 |
+| 6th | 2007年10月19日 | **Slip ON**                                                                                           | EMF-24  |
+|     | 2009年11月20日 | **[カジヒデキ](../Page/カジヒデキ.md "wikilink")/HALFBY「HOT CLUB OF CHRIST/HALFBEAT (STROLL OF RUDOLPH EDIT)」** | EMF-033 |
+| 7th | 2010年05月19日 | **MAN ON FIRE**                                                                                       | EMF-035 |
+|     |             |                                                                                                       |         |
 
-### シングル
+### 配信シングル
 
-|     |          | タイトル                                            |
-| --- | -------- | ----------------------------------------------- |
-| 1st | 20061129 | '''Halfbeat (Stroll of Rudolph Edit) '''        |
-| 2nd | 20090422 | **Reach for Tomorrow (Halfby and Coconut Mix)** |
-|     |          |                                                 |
+|     | 発売日         | タイトル                                            |
+| --- | ----------- | ----------------------------------------------- |
+| 1st | 2006年11月29日 | '''Halfbeat (Stroll of Rudolph Edit) '''        |
+| 2nd | 2009年04月22日 | **Reach for Tomorrow (Halfby and Coconut Mix)** |
+|     |             |                                                 |
 
 ## 参加作品
 

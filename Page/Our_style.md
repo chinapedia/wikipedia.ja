@@ -1,7 +1,7 @@
 > この記事は[Our style](https://ja.wikipedia.org/wiki/Our_style)から翻訳されています。
 
 
-『**our style**』（アワー スタイル）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の1枚目のオリジナル・アルバム。[2002年](../Page/2002年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
+『**our style**』（アワー スタイル）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の1枚目のオリジナル・アルバム。2002年3月6日に[rhythm zoneから発売された](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
@@ -106,7 +106,7 @@ EXILEの前身グループである[J Soul Brothers](https://ja.wikipedia.org/wi
 
 ## 脚注
 
-[Category:EXILEのアルバム](https://ja.wikipedia.org/wiki/Category:EXILEのアルバム "wikilink") [Category:2002年のアルバム](https://ja.wikipedia.org/wiki/Category:2002年のアルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink")
+[Category:EXILEのアルバム](https://ja.wikipedia.org/wiki/Category:EXILEのアルバム "wikilink") [Category:2002年のアルバム](https://ja.wikipedia.org/wiki/Category:2002年のアルバム "wikilink")
 
 1.
 2.

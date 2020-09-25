@@ -7,7 +7,7 @@
 
 ## 概要
 
-1990年より発売開始。ALLORAは、厳密にはミニミニコンポの分類に属する。第1号モデルはXA7である。また、[ピーナッツとのコラボレーション広告やCMが特徴だった](https://ja.wikipedia.org/wiki/ピーナッツ_\(漫画\) "wikilink")。
+1990年より発売開始。ALLORAは、厳密にはミニミニコンポの分類に属する。第1号モデルはXA7である。また、[ピーナッツとのコラボレーション広告やCMが特徴だった](../Page/ピーナッツ_\(漫画\).md "wikilink")。
 
 最大の特徴としては、他社が単品コンポーネント比半分の横幅サイズを採用したのに対して、ケンウッドはXA7の開発にあたり、全体の横幅を1000mm(1m)とした上で、本体の横幅はミニコンポ比約4分の3にあたる270mmを採用した点にある。
 
@@ -394,6 +394,6 @@ ALLORA機種別主要機能比較表
   - [JVCケンウッド](https://ja.wikipedia.org/wiki/JVCケンウッド "wikilink")
       - [ケンウッド](../Page/ケンウッド.md "wikilink")
   - [ミニコンポ](../Page/ミニコンポ.md "wikilink")
-  - [ピーナッツ (漫画)](https://ja.wikipedia.org/wiki/ピーナッツ_\(漫画\) "wikilink") - カタログや広告に起用された。
+  - [ピーナッツ (漫画)](../Page/ピーナッツ_\(漫画\).md "wikilink") - カタログや広告に起用された。
 
 [Category:音響機器](https://ja.wikipedia.org/wiki/Category:音響機器 "wikilink") [Category:JVCケンウッドの歴史](https://ja.wikipedia.org/wiki/Category:JVCケンウッドの歴史 "wikilink")

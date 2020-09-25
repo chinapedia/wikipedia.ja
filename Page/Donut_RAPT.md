@@ -26,6 +26,6 @@ donut Rが開発停止したため、当時、[ヘルプ](https://ja.wikipedia.o
 ## 外部リンク
 
   - [Donut RAPT 配布所](http://www.rapt21.com/)
-  - [JOBBY's 小物置場](http://www.geocities.com/jobbya/)
 
+  -
 [Category:IEコンポーネントブラウザ](https://ja.wikipedia.org/wiki/Category:IEコンポーネントブラウザ "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink")

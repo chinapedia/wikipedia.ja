@@ -6499,7 +6499,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/りゅうおうのおしごと!" title="wikilink">りゅうおうのおしごと!</a></p></td>
-<td><p>AT-X</p></td>
+<td><p>AT-X 、BSフジ</p></td>
 <td><p>1月8日</p></td>
 <td></td>
 </tr>
@@ -7423,7 +7423,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ノブナガ先生の幼な妻" title="wikilink">ノブナガ先生の幼な妻</a></p></td>
-<td></td>
+<td><p>AT-X、NTV[1]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -7999,15 +7999,15 @@
 | 作品名                                                   | 製作局                                                     | 開始日    | 備考             |
 | ----------------------------------------------------- | ------------------------------------------------------- | ------ | -------------- |
 | **1998年**                                             |                                                         |        |                |
-| [頭文字D](../Page/頭文字D.md "wikilink")                    | [CX](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink") | \-     | \[1\]          |
+| [頭文字D](../Page/頭文字D.md "wikilink")                    | [CX](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink") | \-     | \[2\]          |
 | **1999年**                                             |                                                         |        |                |
-| [頭文字D Second Stage](../Page/頭文字D.md "wikilink")       | CX                                                      | 10月    | \[2\]          |
+| [頭文字D Second Stage](../Page/頭文字D.md "wikilink")       | CX                                                      | 10月    | \[3\]          |
 | **2001年**                                             |                                                         |        |                |
 | [HELLSING](../Page/HELLSING.md "wikilink")            | CX                                                      | 10月18日 | 関西圏ではSUNで放送    |
 | **2002年**                                             |                                                         |        |                |
 | [ラーゼフォン](../Page/ラーゼフォン.md "wikilink")                | CX                                                      | 1月21日  | 関西圏では独立局全5局で放送 |
 | **2003年**                                             |                                                         |        |                |
-| [フルメタル・パニック? ふもっふ](../Page/フルメタル・パニック!.md "wikilink") | CX                                                      | 8月26日  | \[3\]          |
+| [フルメタル・パニック? ふもっふ](../Page/フルメタル・パニック!.md "wikilink") | CX                                                      | 8月26日  | \[4\]          |
 
 ### WOWOW
 
@@ -8103,13 +8103,13 @@
 <td><p><a href="../Page/フルメタル・パニック!.md" title="wikilink">フルメタル・パニック!</a></p></td>
 <td><p>-</p></td>
 <td><p>1月8日</p></td>
-<td><p>[4]</p></td>
+<td><p>[5]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/フルメタル・パニック!.md" title="wikilink">フルメタル・パニック! The Second Raid</a></p></td>
 <td><p>-</p></td>
 <td><p>6月24日</p></td>
-<td><p>WOWOW制作協力[5]</p></td>
+<td><p>WOWOW制作協力[6]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/BUZZER_BEATER#TVアニメ" title="wikilink">BUZZER BEATER（第1期）</a></p></td>
@@ -8231,8 +8231,8 @@ TOKYO MXで3話連続集中放送。</p></td>
 | 作品名                                                                                 | 製作局                                  | 開始日   | 備考                                                 |
 | ----------------------------------------------------------------------------------- | ------------------------------------ | ----- | -------------------------------------------------- |
 | **2005年**                                                                           |                                      |       |                                                    |
-| [超生命体トランスフォーマー ビーストウォーズリターンズ](../Page/超生命体トランスフォーマー_ビーストウォーズリターンズ.md "wikilink")    | \-                                   | 4月2日  | \[6\]                                              |
-| [エルフェンリート](../Page/エルフェンリート.md "wikilink")                                          | \-                                   | 4月3日  | \[7\]                                              |
+| [超生命体トランスフォーマー ビーストウォーズリターンズ](../Page/超生命体トランスフォーマー_ビーストウォーズリターンズ.md "wikilink")    | \-                                   | 4月2日  | \[7\]                                              |
+| [エルフェンリート](../Page/エルフェンリート.md "wikilink")                                          | \-                                   | 4月3日  | \[8\]                                              |
 | **2009年**                                                                           |                                      |       |                                                    |
 | [亡念のザムド](https://ja.wikipedia.org/wiki/亡念のザムド "wikilink")                           | \-                                   | 4月11日 | [Webアニメ](../Page/Webアニメ.md "wikilink")             |
 | \[\[ファイト一発\!_充電ちゃん                                                                 | |ファイト一発\! 充電ちゃん                      | \]\]  | AT-X                                               |
@@ -8256,7 +8256,7 @@ TOKYO MXで3話連続集中放送。</p></td>
 | **2002年**                                                                                                       |                                                    |        |                                                                                                                        |
 | [ナースウィッチ小麦ちゃんマジカルて](../Page/ナースウィッチ小麦ちゃんマジカルて.md "wikilink")                                                    | \-                                                 | 8月3日   | [tvk](../Page/テレビ神奈川.md "wikilink")（『[Anime-TV](../Page/アニメTV.md "wikilink")』内）。[OVA](../Page/OVA.md "wikilink")の先行放送。 |
 | **2003年**                                                                                                       |                                                    |        |                                                                                                                        |
-| [ミッドナイトホラースクール](../Page/ミッドナイトホラースクール.md "wikilink")                                                            | \-                                                 | \-     | tvk（2003年）ほか\[8\]                                                                                                      |
+| [ミッドナイトホラースクール](../Page/ミッドナイトホラースクール.md "wikilink")                                                            | \-                                                 | \-     | tvk（2003年）ほか\[9\]                                                                                                      |
 | **2004年**                                                                                                       |                                                    |        |                                                                                                                        |
 | [天罰エンジェルラビィ☆](../Page/天罰エンジェルラビィ☆.md "wikilink")                                                                | \-                                                 | 1月2日   | [ctc](../Page/千葉テレビ放送.md "wikilink")、tvk、[TVS](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")。OVAの先行放送                |
 | [ナースウィッチ小麦ちゃんマジカルて](../Page/ナースウィッチ小麦ちゃんマジカルて.md "wikilink")Z                                                   |                                                    | 8月28日  | tvk（『Anime-TV』内）。OVAの先行放送                                                                                              |
@@ -8267,8 +8267,8 @@ TOKYO MXで3話連続集中放送。</p></td>
 | **2006年**                                                                                                       |                                                    |        |                                                                                                                        |
 | [大魔法峠](../Page/大魔法峠.md "wikilink")                                                                              | \-                                                 | 3月18日  | tvk。『Anime-TV』にてOVAの先行放送                                                                                               |
 | [妖怪人間ベム（第2作）](https://ja.wikipedia.org/wiki/妖怪人間ベム_#第2作 "wikilink")                                             | \-                                                 | 7月4日   | MX                                                                                                                     |
-| [ドーラといっしょに大冒険](https://ja.wikipedia.org/wiki/ドーラといっしょに大冒険 "wikilink")                                           | [ニコロデオン](../Page/ニコロデオン_\(TVチャンネル\).md "wikilink") | 10月2日  | MX\[9\]                                                                                                                |
-| [HANOKA〜葉ノ香〜](../Page/HANOKA〜葉ノ香〜.md "wikilink")                                                                | \-                                                 | 11月    | [Flashアニメ](../Page/Adobe_Flash.md "wikilink")。『[アニメ天国](https://ja.wikipedia.org/wiki/アニメ天国 "wikilink")』内\[10\]         |
+| [ドーラといっしょに大冒険](https://ja.wikipedia.org/wiki/ドーラといっしょに大冒険 "wikilink")                                           | [ニコロデオン](../Page/ニコロデオン_\(TVチャンネル\).md "wikilink") | 10月2日  | MX\[10\]                                                                                                               |
+| [HANOKA〜葉ノ香〜](../Page/HANOKA〜葉ノ香〜.md "wikilink")                                                                | \-                                                 | 11月    | [Flashアニメ](../Page/Adobe_Flash.md "wikilink")。『[アニメ天国](https://ja.wikipedia.org/wiki/アニメ天国 "wikilink")』内\[11\]         |
 | **2007年**                                                                                                       |                                                    |        |                                                                                                                        |
 | [FLAG](../Page/FLAG_\(アニメ\).md "wikilink")                                                                      | \--                                                | 1月3日   | MX、[Webアニメ](../Page/Webアニメ.md "wikilink")                                                                              |
 | [撲殺天使ドクロちゃん](../Page/撲殺天使ドクロちゃん.md "wikilink")2                                                                 | \-                                                 | 8月11日  | tvk（『Anime-TV』内）。OVAの先行放送（テレビ放送向けに修正箇所あり）。                                                                             |
@@ -8277,7 +8277,7 @@ TOKYO MXで3話連続集中放送。</p></td>
 | **2008年**                                                                                                       |                                                    |        |                                                                                                                        |
 | [ファイアボール](../Page/ファイアボール_\(アニメ\).md "wikilink")                                                                | \-                                                 | 4月7日   | MX                                                                                                                     |
 | [エレキング the Animation](../Page/エレキング_\(漫画\).md "wikilink")                                                       | \-                                                 | \-     | tvk                                                                                                                    |
-| [ワンダフルワールド](../Page/ファーストクラス_\(バラエティー番組\).md "wikilink")                                                        | \-                                                 | \-     | tvk\[11\]                                                                                                              |
+| [ワンダフルワールド](../Page/ファーストクラス_\(バラエティー番組\).md "wikilink")                                                        | \-                                                 | \-     | tvk\[12\]                                                                                                              |
 | [ペンギン娘](../Page/ペンギン娘.md "wikilink")?はぁと                                                                        | \-                                                 | 7月31日  | tvk。『[@Tunes.](../Page/@Tunes..md "wikilink")』内 特別番組「公開収録版+α」                                                          |
 | [天体戦士サンレッド](../Page/天体戦士サンレッド.md "wikilink")（第1シリーズ）                                                            | \-                                                 | 10月3日  | tvk                                                                                                                    |
 | **2009年**                                                                                                       |                                                    |        |                                                                                                                        |
@@ -8313,14 +8313,15 @@ TOKYO MXで3話連続集中放送。</p></td>
 
 [Category:UHFアニメ](https://ja.wikipedia.org/wiki/Category:UHFアニメ "wikilink") [Category:テレビ番組一覧](https://ja.wikipedia.org/wiki/Category:テレビ番組一覧 "wikilink")
 
-1.  関西圏ではKBSで本放送されたが、後に2003年9月よりMBSでも放送された。
-2.
-3.  2008年1月より、UHFアニメの形態で地上波10局で一斉に放送された（第1期→『The Second Raid』→『ふもっふ』）。
-4.
+1.  日本テレビの子会社である日本テレビ音楽が制作に関与。
+2.  関西圏ではKBSで本放送されたが、後に2003年9月よりMBSでも放送された。
+3.
+4.  2008年1月より、UHFアニメの形態で地上波10局で一斉に放送された（第1期→『The Second Raid』→『ふもっふ』）。
 5.
-6.  地上波では独立局のみの放映
-7.  [AT-Xで](../Page/アニメシアターX.md "wikilink")2004年4月から放送。同年10月に「DVD発売記念」と題したダイジェスト版も放送。
-8.  2002年10月1日以降、フジテレビ系列の地方局で放送された作品。
-9.  後に、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")[系列でも](https://ja.wikipedia.org/wiki/TXN "wikilink")2009年4月より『ドーラ』のタイトルで全国放送された（ただし、キャストは異なる）。
-10. 同年7月～10月に[キッズステーション](../Page/キッズステーション.md "wikilink")（[アニメパラダイス\!](https://ja.wikipedia.org/wiki/アニメパラダイス! "wikilink")内）で放送された作品。
-11. [バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[ファーストクラス](../Page/ファーストクラス_\(バラエティー番組\).md "wikilink")』内で放送。
+6.
+7.  地上波では独立局のみの放映
+8.  [AT-Xで](../Page/アニメシアターX.md "wikilink")2004年4月から放送。同年10月に「DVD発売記念」と題したダイジェスト版も放送。
+9.  2002年10月1日以降、フジテレビ系列の地方局で放送された作品。
+10. 後に、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")[系列でも](https://ja.wikipedia.org/wiki/TXN "wikilink")2009年4月より『ドーラ』のタイトルで全国放送された（ただし、キャストは異なる）。
+11. 同年7月～10月に[キッズステーション](../Page/キッズステーション.md "wikilink")（[アニメパラダイス\!](https://ja.wikipedia.org/wiki/アニメパラダイス! "wikilink")内）で放送された作品。
+12. [バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[ファーストクラス](../Page/ファーストクラス_\(バラエティー番組\).md "wikilink")』内で放送。

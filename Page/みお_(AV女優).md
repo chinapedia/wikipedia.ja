@@ -36,7 +36,7 @@
   - 放課後美少女H みお18才 Part.6（2003年1月1日 DVD 、オーロラ・プロジェクト）
   - 放課後美少女H みお18才 Part.7（2003年3月1日 DVD 、オーロラ・プロジェクト）
   - 放課後美少女H みお18才 Part.8 FINAL（2003年3月1日 DVD 、オーロラ・プロジェクト） - 引退作。
-  - オーロラプロジェクト未収録映像集 スクラップブック Vol-01（2003年8月7日 DVD 、オーロラ・プロジェクト） - ラブホテルのバスルームでの収録。他に、[小澤春香](https://ja.wikipedia.org/wiki/小澤春香 "wikilink")、[水原たま](../Page/水原たま.md "wikilink")、[田中瞳](https://ja.wikipedia.org/wiki/田中瞳 "wikilink")、[河原鮎子](https://ja.wikipedia.org/wiki/河原鮎子 "wikilink")。
+  - オーロラプロジェクト未収録映像集 スクラップブック Vol-01（2003年8月7日 DVD 、オーロラ・プロジェクト） - ラブホテルのバスルームでの収録。他に、[小澤春香](https://ja.wikipedia.org/wiki/小澤春香 "wikilink")、[水原たま](../Page/水原たま.md "wikilink")、[田中瞳](https://ja.wikipedia.org/wiki/田中瞳_\(AV女優\) "wikilink")、[河原鮎子](https://ja.wikipedia.org/wiki/河原鮎子 "wikilink")。
   - 放課後美少女H みお18才 Part.1&2（2006年3月23日 DVD 、オーロラ・プロジェクト） - 廉価版発売。
 
 ## 外部リンク

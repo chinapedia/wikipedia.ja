@@ -41,7 +41,7 @@
 8.  **no more words "[Laugh & Peace](../Page/Laugh_and_Peace.md "wikilink") Mix"**
       - リミックス: Laugh & Peace
 9.  **Daybreak "HΛL's Mix 2002 -Instrumental-"**
-10. **[opening Run](../Page/I_am....md "wikilink") "[JK](https://ja.wikipedia.org/wiki/CMJK "wikilink")'s extended mix"**
+10. **[opening Run](../Page/I_am....md "wikilink") "[JK](../Page/CMJK.md "wikilink")'s extended mix"**
 
 ### アナログ盤
 

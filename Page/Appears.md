@@ -1,13 +1,13 @@
 > この記事は[Appears](https://ja.wikipedia.org/wiki/Appears)から翻訳されています。
 
 
-「**appears**」（アピアーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の11th[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**appears**」（アピアーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の11枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 [2000年](../Page/2000年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売\[2\]。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")では[2005年](../Page/2005年.md "wikilink")に**Ayu**名義で発売。
 
 ## 解説
 
-2ndアルバム『[LOVEppears](../Page/LOVEppears.md "wikilink")』と同時発売の30万枚完全限定生産シングル。『LOVEppears』収録版とはミックスが異なっている。
+2枚目のアルバム『[LOVEppears](../Page/LOVEppears.md "wikilink")』と同時発売の30万枚完全限定生産シングル。『LOVEppears』収録版とはミックスが異なっている。
 
 [オリコン週間ランキング初登場](../Page/オリコンチャート.md "wikilink")2位で累計売上は29.1万枚（オリコン調べ）を記録。
 
@@ -19,7 +19,7 @@
 
 ## LOVEppears / appears -20th Anniversary Edition-
 
-本作「appears」およびアルバム『[LOVEppears](../Page/LOVEppears.md "wikilink")』リリースから20年後である[2019年](../Page/2019年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")に、リマスター盤「**LOVEppears / appears -20th Anniversary Edition-**」（ラヴピアーズ / アピアーズ・トゥエンティーズ・アニバーサリー・エディション）が発売された。こちらは、浜崎公認である。収録曲全てマスターテープからリマスタリングを施し\[7\]、さらに「appears」のリミックス、ライブなど複数のバージョンを1枚にコンパイルした特典ディスクに加え、収録曲のPVと完全初公開となる「Trauma」の振り付け映像が収録されたDVDが追加される。
+オリジナル・シングル「appears」およびアルバム『[LOVEppears](../Page/LOVEppears.md "wikilink")』リリースから20年後である[2019年](../Page/2019年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")に、リマスター盤「**LOVEppears / appears -20th Anniversary Edition-**」（ラヴピアーズ / アピアーズ・トゥエンティーズ・アニバーサリー・エディション）が発売された。こちらは、浜崎公認である。収録曲全てマスターテープからリマスタリングを施し\[7\]、さらに「appears」のリミックス、ライブなど複数のバージョンを1枚にコンパイルした特典ディスクに加え、収録曲のPVと完全初公開となる「Trauma」の振り付け映像が収録されたDVDが追加される。
 
 初回生産限定盤には、縦長デジパック透明スリーヴ仕様、特設サイトアクセスカードが封入されている\[8\]。
 
@@ -110,7 +110,7 @@
 8.  Who... (Live Lyric Video)
 9.  Trauma (ayupan振り付け映像)
 
-## 収録アルバム
+## 各曲の収録アルバム
 
   - **appears**
       - 『[LOVEppears](../Page/LOVEppears.md "wikilink")』(アルバムバージョン)
@@ -121,17 +121,13 @@
   - **immature**
       - 『[LOVEppears](../Page/LOVEppears.md "wikilink")』(アルバムバージョン)
 
-## appears (Ayuの曲)
+## Ayuのシングル
 
-「**appears**」（アピアーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[Ayuの](../Page/浜崎あゆみ.md "wikilink")5th[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のDrizzly Recordsより発売。
-
-### 解説
-
-Ayu（浜崎あゆみ）がヨーロッパで発売した5thシングル。[Armin van BuurenやKyau](https://ja.wikipedia.org/wiki/アーミン・ヴァン・ブーレン "wikilink") & Albertらが[リミックス](../Page/リミックス.md "wikilink")を手がけた。
+「**appears**」は、[2005年](../Page/2005年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のDrizzly Recordsより発売された。浜崎あゆみがAyu名義によりヨーロッパで発売した5枚目のシングルである。[アーミン・ヴァン・ブーレン](https://ja.wikipedia.org/wiki/アーミン・ヴァン・ブーレン "wikilink")やKyau & Albertらが[リミックス](../Page/リミックス.md "wikilink")を手がけた。
 
 [2001年](../Page/2001年.md "wikilink")に日本で発売されたリミックス・アルバム『[Cyber TRANCE presents ayu trance](../Page/Cyber_TRANCE_presents_ayu_trance.md "wikilink")』に収録されている「appears "Armin Van Buuren remix"」は未収録。
 
-### 収録曲
+### 収録曲（Ayu）
 
   - CD\[12\]
 
@@ -169,7 +165,7 @@ Ayu（浜崎あゆみ）がヨーロッパで発売した5thシングル。[Armi
 
   - [DISCOGRAPHY – ayumi hamasaki](http://avex.jp/ayu/discography/detail.php?id=1003302)
 
-[Category:浜崎あゆみの楽曲](https://ja.wikipedia.org/wiki/Category:浜崎あゆみの楽曲 "wikilink") [Category:Ayuの楽曲](https://ja.wikipedia.org/wiki/Category:Ayuの楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:1999年の楽曲](https://ja.wikipedia.org/wiki/Category:1999年の楽曲 "wikilink") [Category:菊池一仁が制作した楽曲](https://ja.wikipedia.org/wiki/Category:菊池一仁が制作した楽曲 "wikilink") [Category:冬を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:冬を題材とした楽曲 "wikilink") [Category:花王のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:花王のコマーシャルソング "wikilink") [Category:化粧品のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:化粧品のコマーシャルソング "wikilink") [Category:桃の天然水のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:桃の天然水のコマーシャルソング "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
+[Category:浜崎あゆみの楽曲](https://ja.wikipedia.org/wiki/Category:浜崎あゆみの楽曲 "wikilink") [Category:Ayuの楽曲](https://ja.wikipedia.org/wiki/Category:Ayuの楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:菊池一仁が制作した楽曲](https://ja.wikipedia.org/wiki/Category:菊池一仁が制作した楽曲 "wikilink") [Category:冬を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:冬を題材とした楽曲 "wikilink") [Category:花王のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:花王のコマーシャルソング "wikilink") [Category:化粧品のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:化粧品のコマーシャルソング "wikilink") [Category:桃の天然水のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:桃の天然水のコマーシャルソング "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
 
 1.  [アナログ盤](http://www.discogs.com/ja/Ayumi-Hamasaki-Appears-Whatever/release/140020)のみ[Rhythm REPUBLICより発売](../Page/Rhythm_REPUBLIC.md "wikilink")。
 2.  2000年[1月28日](../Page/1月28日.md "wikilink")には、6thシングル「[WHATEVER](../Page/WHATEVER_\(浜崎あゆみの曲\).md "wikilink")」と両A面のアナログ盤「[appears/WHATEVER](http://avex.jp/ayu/discography/detail.php?id=1003305)」も発売された。

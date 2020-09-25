@@ -92,14 +92,10 @@
 **外部ミュージシャン**
 
   - [シンセサイザー](../Page/シンセサイザー.md "wikilink")：[飯田高広](https://ja.wikipedia.org/wiki/飯田高広 "wikilink")
-
-:\* アコースティック・ギター：[林部直樹](../Page/林部直樹.md "wikilink")
-
+      - アコースティック・ギター：[林部直樹](../Page/林部直樹.md "wikilink")
   - [ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")：[NAOTO Strings](../Page/NAOTO_\(ヴァイオリニスト\).md "wikilink")
   - [パーカッション](../Page/パーカッション.md "wikilink")：[三沢またろう](../Page/三沢またろう.md "wikilink")
-
-:\* コーラス：[障子久美](../Page/障子久美.md "wikilink")（\#9）、DJ Nowdig（\#9）
-
+      - コーラス：[障子久美](../Page/障子久美.md "wikilink")（\#9）、DJ Nowdig（\#9）
   - [ブラス担当](../Page/ブラスバンド.md "wikilink")：THE THRILL
   - [ドラムス](../Page/ドラムセット.md "wikilink")：[村石雅行](../Page/村石雅行.md "wikilink")
   - その他全ての[音源](../Page/音源.md "wikilink")：[ak.homma](../Page/本間昭光.md "wikilink")

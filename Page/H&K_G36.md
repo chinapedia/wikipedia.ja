@@ -95,6 +95,7 @@ G36C（および一部のG36K）は、標準では光学照準器を装備しな
     ウェイランド社に雇われた[傭兵](../Page/傭兵.md "wikilink")たちが装備。[タクティカルライトと](../Page/懐中電灯.md "wikilink")[緑光レーザーサイトが装着されている](https://ja.wikipedia.org/wiki/照準器#オプティカルサイト（Optical_sight） "wikilink")。
 
   - 『[エクスペンダブルズ2](https://ja.wikipedia.org/wiki/エクスペンダブルズ2 "wikilink")』
+    『[エクスペンダブルズ3 ワールドミッション](https://ja.wikipedia.org/wiki/エクスペンダブルズ3_ワールドミッション "wikilink")』
     『[エンド・オブ・キングダム](https://ja.wikipedia.org/wiki/エンド・オブ・キングダム "wikilink")』
     マイク・バニングがテロリストからG36Cを奪って[ストックを折り畳んだまま使用](../Page/銃床.md "wikilink")。他デイヴィス[大尉](../Page/大尉.md "wikilink")率いる[SAS隊員がG](../Page/特殊空挺部隊.md "wikilink")36Kを使用。
 
@@ -103,6 +104,7 @@ G36C（および一部のG36K）は、標準では光学照準器を装備しな
     『[キャプテン・アメリカ/ウィンター・ソルジャー](https://ja.wikipedia.org/wiki/キャプテン・アメリカ/ウィンター・ソルジャー "wikilink")』
     『[ステルス](../Page/ステルス.md "wikilink")』
     『[西部警察](../Page/西部警察.md "wikilink")』
+    『[ターミネーター3](../Page/ターミネーター3.md "wikilink")』
     『[ターミネーター サラ・コナー・クロニクルズ](../Page/ターミネーター_サラ・コナー・クロニクルズ.md "wikilink")』
     『[ダイ・ハード4.0](../Page/ダイ・ハード4.0.md "wikilink")』
     [テロリストがC](https://ja.wikipedia.org/wiki/テロリズム "wikilink")-More ドットサイトとフラッシュライトを装着したG36Cを使用する。
@@ -186,7 +188,8 @@ G36C（および一部のG36K）は、標準では光学照準器を装備しな
     『[エースコンバット6 解放への戦火](../Page/エースコンバット6_解放への戦火.md "wikilink")』
     [エストバキア軍](https://ja.wikipedia.org/wiki/エストバキア連邦#エストバキアの軍事 "wikilink")[兵士](../Page/兵士.md "wikilink")がムービー中に所持している。
 
-  - 『[グランド・セフト・オートV](https://ja.wikipedia.org/wiki/グランド・セフト・オートV "wikilink")』
+  - 『[ガンサバイバー4 バイオハザード HEROES NEVER DIE](../Page/ガンサバイバーシリーズ.md "wikilink")』
+    『[グランド・セフト・オートV](https://ja.wikipedia.org/wiki/グランド・セフト・オートV "wikilink")』
     「特殊カービン」の名称でG36Cが登場する。
 
   - 『[ゴーストリコン](../Page/ゴーストリコン.md "wikilink")』

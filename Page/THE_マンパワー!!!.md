@@ -51,7 +51,7 @@
 
   - [UP-FRONT WORKS](http://www.up-front-works.jp/release/detail/EPCE-5348/)
   - [リリース詳細｜ハロー！プロジェクト　オフィシャルサイト](http://www.helloproject.com/release/detail/EPCE-5348/)
-  - [つんく♂公式サイト コメント](http://www.tsunku.net/producework.php?Music_ArtistID=56&@DB_ID@=296#01)
+  - [つんく♂公式サイト コメント](https://www.tsunku.net/producework.php?Music_ArtistID=56&@DB_ID@=296#01)
   - ミュージック・ビデオ
       -
 [Category:モーニング娘。の楽曲](https://ja.wikipedia.org/wiki/Category:モーニング娘。の楽曲 "wikilink") [Category:つんくが制作した楽曲](https://ja.wikipedia.org/wiki/Category:つんくが制作した楽曲 "wikilink") [Category:東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/Category:東北楽天ゴールデンイーグルス "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:プロ野球の音楽](https://ja.wikipedia.org/wiki/Category:プロ野球の音楽 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink")

@@ -1,11 +1,11 @@
 > この記事は[UNITE!](https://ja.wikipedia.org/wiki/UNITE!)から翻訳されています。
 
 
-「**UNITE\!**」（ユナイト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の23rd[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")では[2005年](../Page/2005年.md "wikilink")に**Ayu**名義で発売（[UNITE\! (Ayuの曲)参照](https://ja.wikipedia.org/wiki/#UNITE!_\(Ayuの曲\) "wikilink")）。
+「**UNITE\!**」（ユナイト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の23枚目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")では[2005年](../Page/2005年.md "wikilink")に**Ayu**名義で発売された。
 
 ## 解説
 
-前作「[Endless sorrow](../Page/Endless_sorrow.md "wikilink")」より、2ヶ月振りのリリース。
+前作「[Endless sorrow](../Page/Endless_sorrow.md "wikilink")」より、2か月振りのリリース。
 
 初登場1位、累計売上57.1万枚。
 
@@ -29,7 +29,7 @@
 9.  **[Key](../Page/Duty.md "wikilink") "nicely nice waterfowl remix"**
 10. **UNITE\! "Original Mix -Instrumental-"**
 
-## 収録アルバム
+## 各曲の収録アルバム
 
   - **UNITE\!**
       - 『[I am...](../Page/I_am....md "wikilink")』
@@ -37,17 +37,13 @@
       - 『[A COMPLETE 〜ALL SINGLES〜](https://ja.wikipedia.org/wiki/A_COMPLETE_〜ALL_SINGLES〜 "wikilink")』
       - 『[A SUMMER BEST](https://ja.wikipedia.org/wiki/A_SUMMER_BEST "wikilink")』
 
-## UNITE\! (Ayuの曲)
+## Ayuのシングル
 
-「**UNITE\!**」（ユナイト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[Ayuの](../Page/浜崎あゆみ.md "wikilink")6th[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のDrizzly Recordsより発売\[1\]。
-
-### 解説
-
-Ayu（浜崎あゆみ）がヨーロッパで発売した6thシングル。
+「**UNITE\!**」は、[2005年](../Page/2005年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のDrizzly Recordsより発売された\[1\]。浜崎あゆみがAyu名義によりヨーロッパで発売した6枚目のシングルである。
 
 2001年に日本で発売されたリミックス・アルバム『[Cyber TRANCE presents ayu trance](../Page/Cyber_TRANCE_presents_ayu_trance.md "wikilink")』に収録されている「UNITE\! "Airwave remix"」は未収録。
 
-### 収録曲
+### 収録曲（Ayu）
 
   - CD\[2\]
 

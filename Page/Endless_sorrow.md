@@ -21,7 +21,7 @@
 
 1.  **Endless sorrow "Original Mix"**
       -
-        [作詞](../Page/作詞.md "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[CREA](../Page/浜崎あゆみ.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")、[Junichi Matsuda](../Page/松田純一.md "wikilink")
+        [作詞](../Page/作詞.md "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[CREA](../Page/浜崎あゆみ.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[CMJK](../Page/CMJK.md "wikilink")、[Junichi Matsuda](../Page/松田純一.md "wikilink")
         [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[昔の男](../Page/昔の男.md "wikilink")』主題歌
 2.  **[vogue](https://ja.wikipedia.org/wiki/vogue_\(浜崎あゆみの曲\) "wikilink") "Kirari Natsu Ayu Mix"**
       -

@@ -35,7 +35,7 @@ CDジャーナルは、「浜崎あゆみ初のミニ・アルバム。(3)(6)の
         Panasonic デジタルカメラ「[LUMIX](../Page/LUMIX.md "wikilink")」CMソング
 4.  **[ourselves](../Page/&_\(シングル\).md "wikilink")** (4:33)
       -
-        composition：BOUNCEBACK / arrangement：[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")
+        composition：BOUNCEBACK / arrangement：[CMJK](../Page/CMJK.md "wikilink")
         29thシングル『&』収録曲
 5.  **[HANABI 〜episode II〜](../Page/&_\(シングル\).md "wikilink")** (4:55)
       -

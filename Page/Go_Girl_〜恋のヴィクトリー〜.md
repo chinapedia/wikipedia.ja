@@ -20,7 +20,7 @@
         モーニング娘。のシングルで数少ないソロパートの無いユニゾン形式の楽曲で、メンバーは3人、4人にグループ分け**（**・****・****・**〇白**）されている。
         [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")には各メンバーがカメラに向かって「好き」と囁くシーンが収録されている。
         [2007年](../Page/2007年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に発売されたコンピレーションアルバム『[つんく♂ベスト作品集（上）「シャ乱Q 〜モーニング娘。」 〜つんく♂芸能生活15周年記念アルバム〜](../Page/つんく♂ベスト作品集\(上\)「シャ乱Q〜モーニング娘。」〜つんく♂芸能生活15周年記念アルバム〜.md "wikilink")』に収録されており、付属のブックレットにはこの曲のパート割りが記載されている。
-        [ハロプロ台湾](https://ja.wikipedia.org/wiki/ハロプロ台湾 "wikilink")のユニット、[アイスクリー娘。](https://ja.wikipedia.org/wiki/アイスクリー娘。 "wikilink")の1st[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")『1st最高\!』には本曲の[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")Ver.が収録されている。また、同じくハロプロ台湾のグループ[大小姐](https://ja.wikipedia.org/wiki/大小姐 "wikilink")の1stミニアルバムにも「GO GO Girl」として本曲の中国語Ver.が収録されている。
+        [ハロプロ台湾](https://ja.wikipedia.org/wiki/ハロプロ台湾 "wikilink")のユニット、[アイスクリー娘。](https://ja.wikipedia.org/wiki/アイスクリー娘。 "wikilink")の1st[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")『1st最高\!』には本曲の[中国語](../Page/中国語.md "wikilink")Ver.が収録されている。また、同じくハロプロ台湾のグループ[大小姐](https://ja.wikipedia.org/wiki/大小姐 "wikilink")の1stミニアルバムにも「GO GO Girl」として本曲の中国語Ver.が収録されている。
 2.  **恋ING** \[5:22\]
       -
         タイトルは「こいアイエヌジー」と読み、[恋愛](../Page/恋愛.md "wikilink")に[進行形](../Page/進行形.md "wikilink")の「ing」を合わせたもの。
@@ -48,7 +48,7 @@
 
   - [リリース詳細｜ハロー\!プロジェクト　オフィシャルサイト](http://www.helloproject.com/release/detail/EPCE-5237/)
   - [UP-FRONT WORKS ディスコグラフィ](http://www.up-front-works.jp/release/detail/EPCE-5237/)
-  - [つんく♂公式サイト コメント](http://www.tsunku.net/producework.php?Music_ArtistID=56&@DB_ID@=239#01)
+  - [つんく♂公式サイト コメント](https://www.tsunku.net/producework.php?Music_ArtistID=56&@DB_ID@=239#01)
   - ミュージック・ビデオ
       -
 [Category:モーニング娘。の楽曲](https://ja.wikipedia.org/wiki/Category:モーニング娘。の楽曲 "wikilink") [Category:つんくが制作した楽曲](https://ja.wikipedia.org/wiki/Category:つんくが制作した楽曲 "wikilink") [Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:フジテレビのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビのテレビドラマ主題歌 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink")

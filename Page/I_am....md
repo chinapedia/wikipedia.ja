@@ -25,7 +25,7 @@ CDジャーナルは、「『Dearest』『Endless sorrow』『UNITE\!』『NEVER
         [コーセー](../Page/コーセー.md "wikilink")「ヴィセ」CM曲
 2.  **opening Run** (0:57)
       -
-        作曲・編曲：[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")
+        作曲・編曲：[CMJK](../Page/CMJK.md "wikilink")
         インスト
 3.  **[Connected](https://ja.wikipedia.org/wiki/Connected "wikilink")** (3:21)
       -

@@ -7,7 +7,7 @@
 
 ## 歴史
 
-当初、本家版は[朝鮮語](../Page/朝鮮語.md "wikilink")と[英語](../Page/英語.md "wikilink")の二言語を実装していたが、後に英語版を切り離し、2014年には[韓国語](https://ja.wikipedia.org/wiki/韓国語 "wikilink")、[日本語](../Page/日本語.md "wikilink")、[英語](../Page/英語.md "wikilink")、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")、[台湾語](../Page/台湾語.md "wikilink")、[中国語、ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")、タイ語と個別の言語版が存在した。
+当初、本家版は[朝鮮語](../Page/朝鮮語.md "wikilink")と[英語](../Page/英語.md "wikilink")の二言語を実装していたが、後に英語版を切り離し、2014年には[韓国語](https://ja.wikipedia.org/wiki/韓国語 "wikilink")、[日本語](../Page/日本語.md "wikilink")、[英語](../Page/英語.md "wikilink")、[中国語](../Page/中国語.md "wikilink")、[台湾語](../Page/台湾語.md "wikilink")、[中国語、ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")、タイ語と個別の言語版が存在した。
 
 日本国内だけで累計800万件以上ダウンロードされており、多くのパソコン雑誌などで紹介されている\[1\]。『[週刊アスキー](../Page/週刊アスキー.md "wikilink")』が発表した「08年度超人気無料ソフトベスト100ランキング」では第1位となった\[2\]。
 

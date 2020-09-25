@@ -19,7 +19,7 @@
 
 1.  **forgiveness**
       -
-        [作曲](../Page/作曲.md "wikilink")：[CREA](../Page/浜崎あゆみ.md "wikilink") + [D・A・I](../Page/長尾大.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")
+        [作曲](../Page/作曲.md "wikilink")：[CREA](../Page/浜崎あゆみ.md "wikilink") + [D・A・I](../Page/長尾大.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[CMJK](../Page/CMJK.md "wikilink")
         [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[高原へいらっしゃい](../Page/高原へいらっしゃい.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink")
 2.  **[ourselves](../Page/&_\(シングル\).md "wikilink") "Kentaro Takizawa remix"**
 3.  **[HANABI 〜episode II〜](../Page/&_\(シングル\).md "wikilink") "[HΛL](../Page/HΛL.md "wikilink")'S MIX 2003"**

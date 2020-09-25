@@ -27,7 +27,7 @@ CDジャーナルは、「シーンのトップを走り続ける彼女の通算
 
 1.  **Catcher In The Light** (2:43)
       -
-        作曲・編曲：[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")
+        作曲・編曲：[CMJK](../Page/CMJK.md "wikilink")
 2.  **About You** (3:58)
       -
         作曲：[菊池一仁](../Page/菊池一仁.md "wikilink") / 編曲：[tasuku](https://ja.wikipedia.org/wiki/tasuku "wikilink")
@@ -50,7 +50,7 @@ CDジャーナルは、「シーンのトップを走り続ける彼女の通算
         作詞： 池本雷太 / 編曲： HΛL
 7.  **HOPE or PAIN** (4:22)
       -
-        作曲：[湯汲哲也](../Page/湯汲哲也.md "wikilink") / 編曲：[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")
+        作曲：[湯汲哲也](../Page/湯汲哲也.md "wikilink") / 編曲：[CMJK](../Page/CMJK.md "wikilink")
 8.  **HAPPY ENDING** (4:43)
       -
         作曲： 湯汲哲也 / 編曲：CMJK

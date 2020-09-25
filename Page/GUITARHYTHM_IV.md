@@ -9,7 +9,7 @@
 
 [1993年](../Page/1993年.md "wikilink")7月に「[ロンドン](../Page/ロンドン.md "wikilink")に行ってくる。今回はレコーディングの予定はまったくない。曲が出来ても[デモテープ](https://ja.wikipedia.org/wiki/デモテープ "wikilink")は作らない。曲が出来るまでは戻ってくる気はない」と宣言し単身渡英。ロンドンで生活する中、[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")1本で全楽曲のデモを完成させた。この時期に布袋は[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")や[アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink")、[ジャマイカ](../Page/ジャマイカ.md "wikilink")をはじめ様々な土地への旅も経験しており、後のインタビューで「作ろうと思って作った曲は1曲もない。ロンドンでの生活や旅の経験がなければ出来なかったものばかりだから」と語っている。\[1\]
 
-ある程度の方向性を決めてから楽曲作りを始めたこれまでの作品とは異なり、「**ノーコンセプト**」として始動したアルバムである。GUITARHYTHM本来のコンセプトである「ギターとコンピューターの融合」から離れ、アルバム全体が**[バンドサウンド](https://ja.wikipedia.org/wiki/バンドサウンド "wikilink")を主体**として構築されている。またこれまでのソロ・キャリアでは意図的に抑えてきたメロディアスなサウンドを、本作ではある程度取り入れている。インタビュー上では「[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")然り[COMPLEX](../Page/COMPLEX.md "wikilink")然り、基本的に[メロディ](../Page/メロディ.md "wikilink")が湧いてくるタイプなんだけど、サウンド・コラージュという[コンセプト](https://ja.wikipedia.org/wiki/コンセプト "wikilink")がまずあったから『[GUITARHYTHM III](../Page/GUITARHYTHM_III.md "wikilink")』まではそういうのを殺してきた部分もあった。今回は言葉とメロディ、歌が流れていくようにって思えたんで、素直にメロディも昇華してると思う」とされている。\[2\]
+ある程度の方向性を決めてから楽曲作りを始めたこれまでの作品とは異なり、「**ノーコンセプト**」として始動したアルバムである。GUITARHYTHM本来のコンセプトである「ギターとコンピューターの融合」から離れ、アルバム全体が**[バンドサウンド](https://ja.wikipedia.org/wiki/バンドサウンド "wikilink")を主体**として構築されている。またこれまでのソロ・キャリアでは意図的に抑えてきたメロディアスなサウンドを、本作ではある程度取り入れている。インタビュー上では「[BOØWY](../Page/BOØWY.md "wikilink")然り[COMPLEX](../Page/COMPLEX.md "wikilink")然り、基本的に[メロディ](../Page/メロディ.md "wikilink")が湧いてくるタイプなんだけど、サウンド・コラージュという[コンセプト](https://ja.wikipedia.org/wiki/コンセプト "wikilink")がまずあったから『[GUITARHYTHM III](../Page/GUITARHYTHM_III.md "wikilink")』まではそういうのを殺してきた部分もあった。今回は言葉とメロディ、歌が流れていくようにって思えたんで、素直にメロディも昇華してると思う」とされている。\[2\]
 
 現在のところ、全曲布袋が作詞を手掛けた唯一のアルバムである。「今回は詞と曲を一緒に書きたいと思っていた。書きたいことがけっこうあったし、第三者に依頼する以前にデモの段階で歌詞が出てきた」と布袋は語っている。\[3\]
 
@@ -25,7 +25,7 @@
 
 また布袋は、ロンドンで生活中に[フェンダー・テレキャスター・カスタム](https://ja.wikipedia.org/wiki/フェンダー・テレキャスター・カスタム "wikilink")と[マッチレスの](https://ja.wikipedia.org/wiki/マッチレス・アンプ "wikilink")「DC-30」を手に入れており、レコーディングとツアーのメイン機材として使用された。「DC-30」は以後長らくメイン・アンプのひとつとして定着していく。
 
-[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")や[COMPLEX](../Page/COMPLEX.md "wikilink")を始め、ソロ作品でも前作『[GUITARHYTHM III](../Page/GUITARHYTHM_III.md "wikilink")』まで布袋のアルバムに携わってきた[エンジニアのマイケル](../Page/レコーディング・エンジニア.md "wikilink")・ツィマリングが本作には参加しておらず、[クイーンや](../Page/クイーン_\(バンド\).md "wikilink")[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")などを手掛けた が[ミックスを担当している](../Page/ミキシング.md "wikilink")。
+[BOØWY](../Page/BOØWY.md "wikilink")や[COMPLEX](../Page/COMPLEX.md "wikilink")を始め、ソロ作品でも前作『[GUITARHYTHM III](../Page/GUITARHYTHM_III.md "wikilink")』まで布袋のアルバムに携わってきた[エンジニアのマイケル](../Page/レコーディング・エンジニア.md "wikilink")・ツィマリングが本作には参加しておらず、[クイーンや](../Page/クイーン_\(バンド\).md "wikilink")[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")などを手掛けた が[ミックスを担当している](../Page/ミキシング.md "wikilink")。
 
 ## リリース
 

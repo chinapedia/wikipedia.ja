@@ -468,8 +468,7 @@
 
   - [時空の覇者 Sa・Ga3 \[完結編](http://www.square-enix.com/jp/archive/saga3/) ‐ SQUARE ENIX\]
 
-  - （英語）
-
+  -
 [Category:1991年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1991年のコンピュータゲーム "wikilink") [Category:Sa・Gaシリーズ](https://ja.wikipedia.org/wiki/Category:Sa・Gaシリーズ "wikilink") [Category:ゲームボーイ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイ用ソフト "wikilink") [Category:タイムトラベルを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:タイムトラベルを題材としたコンピュータゲーム "wikilink") [Category:ムー文明を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ムー文明を題材としたコンピュータゲーム "wikilink")
 
 1.

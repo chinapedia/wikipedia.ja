@@ -1,11 +1,11 @@
 > この記事は[Tert-ブチルアルコール](https://ja.wikipedia.org/wiki/Tert-ブチルアルコール)から翻訳されています。
 
 
-}} ***tert*-ブチルアルコール**（ターシャリー\[tertiary\]-ブチルアルコール、*tert*-butyl alcohol）または**2-メチル-2-プロパノール**とは最も単純な構造の[第三級アルコールで](https://ja.wikipedia.org/wiki/アルコール "wikilink")、四種存在する[ブタノール](https://ja.wikipedia.org/wiki/ブタノール "wikilink")の[異性体](https://ja.wikipedia.org/wiki/異性体 "wikilink")の一つである。なお、特に産業分野では「*tert*-ブタノール」と称されることがあり、特許公報などでは広く用いられているが、この名称は[IUPAC命名法](https://ja.wikipedia.org/wiki/IUPAC命名法 "wikilink")に反する誤った名称であり、使うべきではない。*tert*-ブチルアルコールは透明な液体で[樟脳](../Page/樟脳.md "wikilink")のような臭いを持ち、[水](../Page/水.md "wikilink")、[エタノール](https://ja.wikipedia.org/wiki/エタノール "wikilink")、[ジエチルエーテル](../Page/ジエチルエーテル.md "wikilink")と均一に混和する。融点が摂氏25度をわずかに上回るので、常温で固体になるという特徴はブタノールの異性体の中でも唯一である。
+}} ***tert*-ブチルアルコール**（ターシャリー\[tertiary\]-ブチルアルコール、*tert*-butyl alcohol）または**2-メチル-2-プロパノール**とは最も単純な構造の[第三級アルコールで](https://ja.wikipedia.org/wiki/アルコール "wikilink")、四種存在する[ブタノール](https://ja.wikipedia.org/wiki/ブタノール "wikilink")の[異性体](https://ja.wikipedia.org/wiki/異性体 "wikilink")の一つである。なお、特に産業分野では「*tert*-ブタノール」と称されることがあり、特許公報などでは広く用いられているが、この名称は[IUPAC命名法](https://ja.wikipedia.org/wiki/IUPAC命名法 "wikilink")に反する誤った名称であり、使うべきではない。*tert*-ブチルアルコールは透明な液体で[樟脳](../Page/樟脳.md "wikilink")のような臭いを持ち、[水](../Page/水.md "wikilink")、[エタノール](../Page/エタノール.md "wikilink")、[ジエチルエーテル](../Page/ジエチルエーテル.md "wikilink")と均一に混和する。融点が摂氏25度をわずかに上回るので、常温で固体になるという特徴はブタノールの異性体の中でも唯一である。
 
 ## 利用
 
-*tert*-ブチルアルコールは工業用[エタノール](https://ja.wikipedia.org/wiki/エタノール "wikilink")とする添加剤、塗料の[溶剤](https://ja.wikipedia.org/wiki/溶剤 "wikilink")、[ガソリン](../Page/ガソリン.md "wikilink")の助撚剤・添加剤など[溶媒](https://ja.wikipedia.org/wiki/溶媒 "wikilink")成分として利用される他に、香料などの日用化成品の合成原料としても利用される。
+*tert*-ブチルアルコールは工業用[エタノール](../Page/エタノール.md "wikilink")とする添加剤、塗料の[溶剤](https://ja.wikipedia.org/wiki/溶剤 "wikilink")、[ガソリン](../Page/ガソリン.md "wikilink")の助撚剤・添加剤など[溶媒](https://ja.wikipedia.org/wiki/溶媒 "wikilink")成分として利用される他に、香料などの日用化成品の合成原料としても利用される。
 
 ## 製造
 

@@ -1025,7 +1025,7 @@ VICL-61703(1ヶ月限定スペシャル価格)</p></td>
 
   - [FUZZY CONTROL オフィシャルウェブサイト](http://www.fuzzycontrol.jp/)
 
-  - [ビクターサイト](http://www.jvcmusic.co.jp/-/Discography/A017973/-.html)
+  - [ビクターサイト](https://www.jvcmusic.co.jp/-/Discography/A017973/-.html)
 
   - [DCTgarden.com](http://www.dctgarden.com/)
 

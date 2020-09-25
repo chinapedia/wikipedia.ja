@@ -161,7 +161,7 @@
 <td><p>9</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タイトーメモリーズ#タイトーメモリーズ_下巻" title="wikilink">タイトーメモリーズ 下巻</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2</a></p></td>
+<td><p><a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a></p></td>
 <td><p>タイトー</p></td>
 <td><p>タイトー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/DVD-ROM" title="wikilink">DVD-ROM</a></p></td>

@@ -190,7 +190,7 @@
   - [三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")
   - [山口朝日放送](../Page/山口朝日放送.md "wikilink")（2007年に途中打ち切り）
-  - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")
+  - [四国放送](../Page/四国放送.md "wikilink")
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")
   - [中国放送](../Page/中国放送.md "wikilink")

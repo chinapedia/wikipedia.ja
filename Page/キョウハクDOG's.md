@@ -74,7 +74,7 @@
 
 ## 備考
 
-  - [PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[乃木坂春香の秘密 こすぷれ、はじめました♥](https://ja.wikipedia.org/wiki/乃木坂春香の秘密#PS2ゲーム "wikilink")』に『キョウハクDOG's』の登場人物が友情出演しており、千代啓二役を[浅沼晋太郎](../Page/浅沼晋太郎.md "wikilink")、八咲せつな役を[花澤香菜](../Page/花澤香菜.md "wikilink")が演じている。
+  - [PlayStation 2用ゲームソフト](../Page/PlayStation_2.md "wikilink")『[乃木坂春香の秘密 こすぷれ、はじめました♥](https://ja.wikipedia.org/wiki/乃木坂春香の秘密#PS2ゲーム "wikilink")』に『キョウハクDOG's』の登場人物が友情出演しており、千代啓二役を[浅沼晋太郎](../Page/浅沼晋太郎.md "wikilink")、八咲せつな役を[花澤香菜](../Page/花澤香菜.md "wikilink")が演じている。
 
 ## 既刊一覧
 

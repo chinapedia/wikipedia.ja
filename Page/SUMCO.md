@@ -53,12 +53,12 @@
 **現在**
 
   - [ちびまる子ちゃん](../Page/ちびまる子ちゃん.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系列）
-  - [林修の今でしょ！講座](https://ja.wikipedia.org/wiki/林修の今でしょ!講座 "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列）
+  - [林修の今でしょ\!講座](https://ja.wikipedia.org/wiki/林修の今でしょ!講座 "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列）
 
 **過去**
 
   - [にじいろジーン](https://ja.wikipedia.org/wiki/にじいろジーン "wikilink") （[関西テレビ制作フジテレビ系列](../Page/関西テレビ放送.md "wikilink")）（2019年3月まで提供、後に他局のテレビ朝日の番組「林修の今でしょ！講座」に提供枠移行）
-  - [おらが県ランキング ダイナンイ⁉︎](https://ja.wikipedia.org/wiki/おらが県ランキング_ダイナンイ⁉︎ "wikilink")（テレビ朝日系列）※2019年5月3日の回のみ（21時台提供）
+  - [おらが県ランキング ダイナンイ\!?](https://ja.wikipedia.org/wiki/おらが県ランキング_ダイナンイ!? "wikilink")（テレビ朝日系列）※2019年5月3日の回のみ（21時台提供）
   - [ガイアの夜明け](../Page/日経スペシャル_ガイアの夜明け.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列）
 
 ## 脚注

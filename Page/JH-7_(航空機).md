@@ -61,7 +61,7 @@ JH-7Aを基に機体を再設計しステルス性を高め、アビオニクス
       - [対地](../Page/空対地ミサイル.md "wikilink")：YJ-8K[対艦ミサイル](../Page/対艦ミサイル.md "wikilink")、YJ-85対地[巡航ミサイル](../Page/巡航ミサイル.md "wikilink")、Kh-27[TVミサイル](https://ja.wikipedia.org/wiki/ミサイル# "wikilink")
       - [対レーダーミサイル](../Page/対レーダーミサイル.md "wikilink")：[YJ-91](../Page/YJ-91_\(ミサイル\).md "wikilink")、[Kh-31P](../Page/Kh-31_\(ミサイル\).md "wikilink")
   - [爆弾](../Page/爆弾.md "wikilink")：[レーザー誘導爆弾](../Page/レーザー誘導爆弾.md "wikilink")、無誘導爆弾
-  - レーダーFCS：JL-10A型
+  - レーダーFCS：[JL-10A型](https://ja.wikipedia.org/wiki/JL-10A_\(レーダー\) "wikilink")
 
 ## 出典
 

@@ -24,7 +24,7 @@
   - 月曜
       - [加藤隆弘](https://ja.wikipedia.org/wiki/加藤隆弘 "wikilink")
   - 火曜
-      - [工藤東子](https://ja.wikipedia.org/wiki/工藤東子 "wikilink")
+      - [工藤東子](../Page/工藤東子.md "wikilink")
   - 水曜
       - [宇奈月満](../Page/宇奈月満.md "wikilink")
   - 木曜

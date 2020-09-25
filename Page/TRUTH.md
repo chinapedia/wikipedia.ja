@@ -90,7 +90,7 @@ F1を題材としたゲームのいくつかは、本曲をアレンジ収録し
   - 『[実況おしゃべりパロディウス](https://ja.wikipedia.org/wiki/実況おしゃべりパロディウス "wikilink")』（1995年発売・[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")、[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")） - PS版「‐～forever with me～」のおまけ2ステージにて、本曲を元とする「P1グランド・プリンのテーマ」が流れる。このゲームはシューティングゲームだが、このステージでは「P-1 GRAND PRIN in 鐘鹿」と題しサーキットを走りゴールまでのタイムアタックを行う。[PSP版](../Page/PlayStation_Portable.md "wikilink")「[パロディウス ポータブル](../Page/パロディウス_ポータブル.md "wikilink")」では著作権上の都合により、「Paruth」というそっくりな曲に変更されている。
   - 『[Formula1 97](https://ja.wikipedia.org/wiki/Formula1_97 "wikilink")』（1998年発売・[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")、[PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink")） - タイトル画面で、本作のためにレコーディングした「TRUTH 1997」が流れる。曲の最後まで聞くことが可能。
   - 『[ビートマニア ガッチャミックス2](https://ja.wikipedia.org/wiki/ビートマニア "wikilink")GB』（1999年発売・[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")、[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")） - 音楽ゲーム。演奏中に流れるアニメにはF1を意識したものが使用されている。
-  - 『[Formula One 2005](../Page/Formula_One_2005.md "wikilink")』（2005年発売・ソニー・コンピュータエンタテインメント、[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")） - 『Formula1 97』同様、本作のためにレコーディングした「TRUTH -Version'05-」が流れる。
+  - 『[Formula One 2005](../Page/Formula_One_2005.md "wikilink")』（2005年発売・ソニー・コンピュータエンタテインメント、[PlayStation 2](../Page/PlayStation_2.md "wikilink")） - 『Formula1 97』同様、本作のためにレコーディングした「TRUTH -Version'05-」が流れる。
   - 『[太鼓の達人 ぽ～たぶる](../Page/太鼓の達人.md "wikilink")』（2005年発売・[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")） - 音楽ゲーム。特別な演出はない。
 
 ### フジテレビ「F1グランプリ」と"TRUTH＝F1"のイメージ

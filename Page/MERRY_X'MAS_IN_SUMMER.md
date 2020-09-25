@@ -66,7 +66,7 @@
 
 ## 外国語によるカバー
 
-  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、**[テレサ・テン](../Page/テレサ・テン.md "wikilink")**が「**夏日聖誕**」というタイトルで[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")の歌詞でカバーした。
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、**[テレサ・テン](../Page/テレサ・テン.md "wikilink")**が「**夏日聖誕**」というタイトルで[中国語](../Page/中国語.md "wikilink")の歌詞でカバーした。
 
 ## 脚注
 

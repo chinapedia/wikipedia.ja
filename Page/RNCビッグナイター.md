@@ -41,7 +41,7 @@
 
 ## 関連項目
 
-  - [DRAMATIC BASEBALL](https://ja.wikipedia.org/wiki/DRAMATIC_BASEBALL "wikilink")（RNCテレビ・日本テレビ系列）
+  - [DRAMATIC BASEBALL](../Page/DRAMATIC_BASEBALL.md "wikilink")（RNCテレビ・日本テレビ系列）
 
 [Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:西日本放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:西日本放送のラジオ番組 "wikilink")
 

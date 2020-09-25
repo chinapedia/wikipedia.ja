@@ -63,7 +63,7 @@
 </tr>
 <tr class="even">
 <td><p>メアリー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/朴璐美" title="wikilink">朴璐美</a></p></td>
+<td><p><a href="../Page/朴璐美.md" title="wikilink">朴璐美</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

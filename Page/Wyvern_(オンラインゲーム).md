@@ -1,7 +1,7 @@
 > この記事は[Wyvern \(オンラインゲーム\)](https://ja.wikipedia.org/wiki/Wyvern_\(オンラインゲーム\))から翻訳されています。
 
 
-***Wyvern***は[アメリカのGhost](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") Track社の運営する[無料](../Page/無料.md "wikilink")のスマートフォン・タブレット向け[ファンタジー](../Page/ファンタジー.md "wikilink")系[MMORPG](../Page/MMORPG.md "wikilink")である。[iOS](https://ja.wikipedia.org/wiki/iOS "wikilink")および[Android](../Page/Android.md "wikilink")上で動作する。2011年までCabochon Technologiesが運営していた。開発者はSteve Yegge(Rhialto)。[PDA版は](../Page/携帯情報端末.md "wikilink")2002年の[COMDEX](../Page/COMDEX.md "wikilink")で大賞を受賞している。
+***Wyvern***は[アメリカのGhost](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") Track社の運営する[無料](../Page/無料.md "wikilink")のスマートフォン・タブレット向け[ファンタジー](../Page/ファンタジー.md "wikilink")系[MMORPG](../Page/MMORPG.md "wikilink")である。[iOS](https://ja.wikipedia.org/wiki/iOS "wikilink")および[Android上で動作する](../Page/Android_\(オペレーティングシステム\).md "wikilink")。2011年までCabochon Technologiesが運営していた。開発者はSteve Yegge(Rhialto)。[PDA版は](../Page/携帯情報端末.md "wikilink")2002年の[COMDEX](../Page/COMDEX.md "wikilink")で大賞を受賞している。
 
 Wyvernの特徴は[ローグライクゲーム](../Page/ローグライクゲーム.md "wikilink")のそれに始まり、タイルベースのグラフィックシステム、豊富な入力コマンド、[魔法](https://ja.wikipedia.org/wiki/魔法 "wikilink")、スキル、難解なクエスト、[チェス](../Page/チェス.md "wikilink")や[Sokobanなどの](../Page/倉庫番.md "wikilink")[ミニゲーム](../Page/ミニゲーム.md "wikilink")、探索し尽くすことのできないほど広大なマップなどである。遊び要素を含んだ[アイテム](../Page/アイテム.md "wikilink")も多数存在する。[NetHack](../Page/NetHack.md "wikilink")や[Crossfire](https://ja.wikipedia.org/wiki/Crossfire "wikilink")から大きな影響を受けている。
 

@@ -1,7 +1,7 @@
 > この記事は[Amika](https://ja.wikipedia.org/wiki/Amika)から翻訳されています。
 
 
-**Amika**（あみか、[1976年](../Page/1976年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink")-）は日本の[歌手](../Page/歌手.md "wikilink")である。[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。1998年[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりデビュー、その後[東芝EMIにレーベル](../Page/EMIミュージック・ジャパン.md "wikilink")（バリアフリー）ごと移籍。2002年フリーになり、現在ライブやCM音楽を中心として活動している。
+**Amika**（あみか、[1976年](../Page/1976年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink")-）は日本の[歌手](../Page/歌手.md "wikilink")である。[B型](../Page/ABO式血液型.md "wikilink")。1998年[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりデビュー、その後[東芝EMIにレーベル](../Page/EMIミュージック・ジャパン.md "wikilink")（バリアフリー）ごと移籍。2002年フリーになり、現在ライブやCM音楽を中心として活動している。
 
 ## 作品
 
@@ -599,7 +599,7 @@
   - 2007 [林原](https://ja.wikipedia.org/wiki/林原グループ "wikilink")　[トレハロース](../Page/トレハロース.md "wikilink")
   - 2011 [明治乳業](https://ja.wikipedia.org/wiki/明治乳業 "wikilink") カロリー70%オフ 『オフスタイル』
   - 2011 『SuperStar』エンディングテーマ(国際短編映画祭ショートフィルムフェスティバル＆アジア出品作品)
-  - 2011 [新生銀行](../Page/新生銀行.md "wikilink")　[レイク](https://ja.wikipedia.org/wiki/レイク "wikilink")　-CM『いつでもどこでも篇』
+  - 2011 [新生銀行](../Page/新生銀行.md "wikilink")　[レイク](../Page/レイク.md "wikilink")　-CM『いつでもどこでも篇』
   - 2013 [Miche Bloomin'(ミッシュブルーミン)](https://ja.wikipedia.org/wiki/Miche_Bloomin'\(ミッシュブルーミン\) "wikilink")　[つけまつげ](https://ja.wikipedia.org/wiki/つけまつげ "wikilink")　-CM
   - 2017 [イオン機能性防寒下着](https://ja.wikipedia.org/wiki/イオン_\(店舗ブランド\) "wikilink")『Peace Fit』　-CMの歌とナレーション
 

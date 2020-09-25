@@ -1,7 +1,7 @@
 > この記事は[Train Simulator Real THE 京浜急行](https://ja.wikipedia.org/wiki/Train_Simulator_Real_THE_京浜急行)から翻訳されています。
 
 
-**Train Simulator Real THE 京浜急行**（トレインシミュレーター リアル ザ けいひんきゅうこう）は、[2002年](../Page/2002年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")に[音楽館](../Page/音楽館.md "wikilink")から[Train Simulator Realシリーズとして発売された](../Page/Train_Simulator_\(音楽館\).md "wikilink")、[京浜急行電鉄](../Page/京浜急行電鉄.md "wikilink")の[本線](https://ja.wikipedia.org/wiki/京急本線 "wikilink")・[久里浜線](https://ja.wikipedia.org/wiki/京急久里浜線 "wikilink")・[空港線を舞台とする](https://ja.wikipedia.org/wiki/京急空港線 "wikilink")[PlayStation 2用の鉄道運転](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")である。
+**Train Simulator Real THE 京浜急行**（トレインシミュレーター リアル ザ けいひんきゅうこう）は、[2002年](../Page/2002年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")に[音楽館](../Page/音楽館.md "wikilink")から[Train Simulator Realシリーズとして発売された](../Page/Train_Simulator_\(音楽館\).md "wikilink")、[京浜急行電鉄](../Page/京浜急行電鉄.md "wikilink")の[本線](https://ja.wikipedia.org/wiki/京急本線 "wikilink")・[久里浜線](https://ja.wikipedia.org/wiki/京急久里浜線 "wikilink")・[空港線を舞台とする](https://ja.wikipedia.org/wiki/京急空港線 "wikilink")[PlayStation 2用の鉄道運転](../Page/PlayStation_2.md "wikilink")[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")である。
 
 ## 特徴
 

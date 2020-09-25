@@ -5,17 +5,15 @@
 
 ## 歴史
 
-山本ムーグと[ハバナ・エキゾチカ](https://ja.wikipedia.org/wiki/ハバナ・エキゾチカ "wikilink")（Havana Exotica）を解散したシュガー吉永と大野由美子で[1993年](../Page/1993年.md "wikilink")に結成。結成当初は日本のインデペンデント・レーベル「Cardinal」（ミニコミ「米国音楽」主宰）と契約していたが、その後[ビースティー・ボーイズ](https://ja.wikipedia.org/wiki/ビースティー・ボーイズ "wikilink")の経営するグランド・ロイヤル（[Grand Royal](https://ja.wikipedia.org/wiki/:en:Grand_Royal "wikilink")）に移籍、フルアルバムやリミックスアルバムなどをリリースする。2002年にはアメリカで『I』を[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")のレーベル、エンペラー・ノートン（[Emperor Norton](https://ja.wikipedia.org/wiki/:en:Emperor_Norton_Records "wikilink")）よりリリースした。2010年自らのレーベル「Buffalo Ranch」を設立し、スタジオアルバム『The Weapons Of Math Destruction』をリリース。2013年、結成20周年を記念したベスト盤『ReDiscoVer. Best, Re-recordings and Remixes of Buffalo Daughter』をU/M/A/Aよりリリース。新録3曲、リミックス2曲、ライヴ音源2曲を含む、計14の代表曲を収録。通常のベスト盤とは異なるコンパイルの仕方が話題に。このベスト盤には、アドロック（ビースティ・ボーイズ）、小山田圭吾、日暮愛葉 (THE GIRL)、有島コレスケ (told)、Avec Avec、KAKATO (環ROY×鎮座DOPENESS)、立花ハジメがゲストとして参加。発売されたCDは空のCDRも付いた2枚組でリスナーが自分の好きな曲を集めて自分だけのベスト盤を作れるというコンセプト。2014年、4年振りのオリジナル・アルバム『Konjac-tion』（U/M/A/A）をリリース。“コニャクション”というタイトルは、世界中の多数クリエイターとの繋がりを表す“コネクション”と日本人らしい柔軟性を表す“こんにゃく”が結びついた造語。カバー・アートの絵は、イギリス在住の現代アーティストである、ピーター・マクドナルドの作品。
+[1993年](../Page/1993年.md "wikilink")に山本ムーグと[ハバナ・エキゾチカ](https://ja.wikipedia.org/wiki/ハバナ・エキゾチカ "wikilink")（Havana Exotica）を解散したシュガー吉永と大野由美子で結成。結成当初は日本のインデペンデント・レーベル「Cardinal」（ミニコミ「米国音楽」主宰）と契約していたが、その後[ビースティー・ボーイズ](https://ja.wikipedia.org/wiki/ビースティー・ボーイズ "wikilink")の経営するグランド・ロイヤル（[Grand Royal](https://ja.wikipedia.org/wiki/:en:Grand_Royal "wikilink")）に移籍、フルアルバムやリミックスアルバムなどをリリースする。
 
-## その他
+2002年にはアメリカで『I』を[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")のレーベル、エンペラー・ノートン（[Emperor Norton](https://ja.wikipedia.org/wiki/:en:Emperor_Norton_Records "wikilink")）よりリリースした。
 
-  - 大野曰くバンド名の由来は「バンドの力強いサウンドを表すbuffalo（[スイギュウ](../Page/スイギュウ.md "wikilink")）」と「女の子がメンバーなのでdaughter（娘）」を組み合わせたもの。\[1\]
-  - 小川の脱退以来決まったドラマーはおらず、必要な場合はその都度サポートメンバーを起用する。
-  - [TB-303](https://ja.wikipedia.org/wiki/TB-303 "wikilink")、[TR-606](https://ja.wikipedia.org/wiki/TR-606 "wikilink")（[Roland TR-606](https://ja.wikipedia.org/wiki/:en:Roland_TR-606 "wikilink")）や[ミニモーグなどの電子楽器を使うことで知られる](../Page/モーグ・シンセサイザー.md "wikilink")。
-  - 日本国内のみならず海外での活動も活発に行っている。
-  - 2006年には、雑誌『ニューズウィーク日本版』の"世界が尊敬する日本人100人"に選ばれる\[2\]。
-  - バンドのグラフィックデザインなどはムーグが担当する。
-  - レコーディングエンジニアはFISHMANS、Cibo Matto、BOREDOMS、UA、竹村延和、その他多数の仕事で知られるzAk（st-robo）
+2010年自らのレーベル「Buffalo Ranch」を設立し、スタジオアルバム『The Weapons Of Math Destruction』をリリース。
+
+2013年、結成20周年を記念したベスト盤『ReDiscoVer. Best, Re-recordings and Remixes of Buffalo Daughter』をU/M/A/Aよりリリース。新録3曲、リミックス2曲、ライヴ音源2曲を含む、計14の代表曲を収録。通常のベスト盤とは異なるコンパイルの仕方が話題になった。このベスト盤には、アドロック（ビースティ・ボーイズ）、小山田圭吾、日暮愛葉 (THE GIRL)、有島コレスケ (told)、Avec Avec、KAKATO (環ROY×鎮座DOPENESS)、立花ハジメがゲストとして参加。発売されたCDは空のCDRも付いた2枚組でリスナーが自分の好きな曲を集めて自分だけのベスト盤を作れるというコンセプト。
+
+2014年、4年振りのオリジナル・アルバム『Konjac-tion』（U/M/A/A）をリリース。“コニャクション”というタイトルは、世界中の多数クリエイターとの繋がりを表す“コネクション”と日本人らしい柔軟性を表す“こんにゃく”が結びついた造語。カバー・アートの絵は、イギリス在住の現代アーティストである、ピーター・マクドナルドの作品。
 
 ## メンバー
 
@@ -31,6 +29,16 @@
 
   - [松下敦](https://ja.wikipedia.org/wiki/松下敦 "wikilink") - ドラムス（元[ズボンズ](../Page/ズボンズ.md "wikilink")、現[ZAZEN BOYS](../Page/ZAZEN_BOYS.md "wikilink")）
   - [茂木欣一](../Page/茂木欣一.md "wikilink") - ドラムス（[東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")、[フィッシュマンズ](../Page/フィッシュマンズ.md "wikilink")）
+
+## その他
+
+  - 大野曰くバンド名の由来は「バンドの力強いサウンドを表すbuffalo（[スイギュウ](../Page/スイギュウ.md "wikilink")）」と「女の子がメンバーなのでdaughter（娘）」を組み合わせたもの\[1\]。
+  - 小川の脱退以来決まったドラマーはおらず、必要な場合はその都度サポートメンバーを起用する。
+  - [TB-303](https://ja.wikipedia.org/wiki/TB-303 "wikilink")、[TR-606](https://ja.wikipedia.org/wiki/TR-606 "wikilink")（[Roland TR-606](https://ja.wikipedia.org/wiki/:en:Roland_TR-606 "wikilink")）や[ミニモーグなどの電子楽器を使うことで知られる](../Page/モーグ・シンセサイザー.md "wikilink")。
+  - 日本国内のみならず海外での活動も活発に行っている。
+  - 2006年には、雑誌『ニューズウィーク日本版』の"世界が尊敬する日本人100人"に選ばれる\[2\]。
+  - バンドのグラフィックデザインなどはムーグが担当する。
+  - レコーディングエンジニアはFISHMANS、Cibo Matto、BOREDOMS、UA、竹村延和、その他多数の仕事で知られるzAk（st-robo）。
 
 ## ディスコグラフィー
 

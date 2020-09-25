@@ -5,7 +5,7 @@
 
 ## メンバー
 
-  - **黒田 学**（くろだ まなぶ、[1976年](../Page/1976年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink") - ） - [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[岡山市](../Page/岡山市.md "wikilink")出身、[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink"): A型、[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")担当
+  - **黒田 学**（くろだ まなぶ、[1976年](../Page/1976年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink") - ） - [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[岡山市](../Page/岡山市.md "wikilink")出身、[血液型](../Page/ABO式血液型.md "wikilink"): A型、[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")担当
   - **宍倉 聖悟**（ししくら せいご、[1975年](../Page/1975年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink") - ） - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")出身、血液型: O型、[ギター](../Page/ギター.md "wikilink")担当
 
 ## 来歴

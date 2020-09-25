@@ -1,7 +1,7 @@
 > この記事は[幻想水滸伝IV](https://ja.wikipedia.org/wiki/幻想水滸伝IV)から翻訳されています。
 
 
-『**幻想水滸伝IV**』（げんそうすいこでんフォー）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")より[2004年](../Page/2004年.md "wikilink")[8月19日](../Page/8月19日.md "wikilink")に発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")作品である。『[幻想水滸伝シリーズ](../Page/幻想水滸伝シリーズ.md "wikilink")』の第4作目である。キャッチコピーは「**108人の待つ海へ。それは、冒険か。出会いか。**」。
+『**幻想水滸伝IV**』（げんそうすいこでんフォー）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")より[2004年](../Page/2004年.md "wikilink")[8月19日](../Page/8月19日.md "wikilink")に発売された[PlayStation 2用](../Page/PlayStation_2.md "wikilink")[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")作品である。『[幻想水滸伝シリーズ](../Page/幻想水滸伝シリーズ.md "wikilink")』の第4作目である。キャッチコピーは「**108人の待つ海へ。それは、冒険か。出会いか。**」。
 
 [2005年](../Page/2005年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に廉価版である「PlayStation 2 the Best」としても発売された。なお、本作はシリーズ最初の声付きの作品であり、クリア済みのセーブデータを継承して最初からプレイする周回制を用いた作品である。
 

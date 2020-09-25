@@ -5,9 +5,9 @@
 
 ## 放送時間
 
-  - [文化放送](../Page/文化放送.md "wikilink")　水曜日 25:30～26:00
-  - [ラジオ大阪](../Page/大阪放送.md "wikilink")　木曜日 24:30～25:00
-  - [BSQR489](../Page/BSQR489.md "wikilink")　金曜日 21:00～21:30
+  - [文化放送](../Page/文化放送.md "wikilink") 水曜 25:30 - 26:00
+  - [ラジオ大阪](../Page/大阪放送.md "wikilink") 木曜 24:30 - 25:00
+  - [BSQR489](../Page/BSQR489.md "wikilink") 金曜 21:00 - 21:30
 
 ## ゲスト
 

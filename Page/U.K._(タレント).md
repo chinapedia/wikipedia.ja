@@ -23,7 +23,7 @@
 
 ## 人物
 
-  - [大阪市](../Page/大阪市.md "wikilink")[西区出身](../Page/西区_\(大阪市\).md "wikilink")。[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：B型、[身長](../Page/身長.md "wikilink")：170cm、[体重](../Page/体重.md "wikilink")：60kg。
+  - [大阪市](../Page/大阪市.md "wikilink")[西区出身](../Page/西区_\(大阪市\).md "wikilink")。[血液型](../Page/ABO式血液型.md "wikilink")：B型、[身長](../Page/身長.md "wikilink")：170cm、[体重](../Page/体重.md "wikilink")：60kg。
   - [既婚者](https://ja.wikipedia.org/wiki/既婚者 "wikilink")で一男一女の父。地元・関西では長女&長男と一緒に雑誌やテレビ番組へ登場することもある。
   - 「DJ風タレント」や「関西エンタメ界のタレ目王子」と言われるほど、ラジオ以外のメディアへ露出する機会も多い。[2004年](../Page/2004年.md "wikilink")からは、関西を代表する早朝の生放送番組『[おはよう朝日です](../Page/おはよう朝日です.md "wikilink")』（[ABCテレビ](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")）へ、1年間[リポーター](../Page/リポーター.md "wikilink")として出演。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から1年間は、関西地区で平日の夕方に放送中の『[あほやねん\!すきやねん\!](https://ja.wikipedia.org/wiki/あほやねん!すきやねん! "wikilink")』（[NHK総合テレビ](https://ja.wikipedia.org/wiki/NHK総合テレビ "wikilink")）において、金曜日の司会を担当した。[2009年](../Page/2009年.md "wikilink")からは、『[ちちんぷいぷい](https://ja.wikipedia.org/wiki/ちちんぷいぷい_\(テレビ番組\) "wikilink")』（MBSテレビ）へ出演中。同番組で「**くっすん**」と呼ばれるようになったこと（後述）を機に、毎日放送の番組では、自己紹介で「**『くっすん』ことU.K.**」「**『くっすん』こと楠雄二朗**」と名乗るようになった。
   - 大学時代には、[真樹日佐夫](../Page/真樹日佐夫.md "wikilink")主宰の「真樹道場」で[空手](https://ja.wikipedia.org/wiki/空手 "wikilink")を教わっていた。当時から芸能界を志していたため、真樹の勧めによって、『[ワル外伝](https://ja.wikipedia.org/wiki/ワル_\(漫画\)#映像化作品 "wikilink")』（真樹原作の漫画を基に制作された[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")の[実写映画](https://ja.wikipedia.org/wiki/実写映画 "wikilink")）に「空手道場で主演の[本宮泰風](../Page/本宮泰風.md "wikilink")を迎え撃つ[黒帯](../Page/黒帯.md "wikilink")（有段者）」という役で出演している。

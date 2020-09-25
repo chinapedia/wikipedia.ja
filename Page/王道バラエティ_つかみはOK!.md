@@ -36,6 +36,7 @@
   - [清水アキラ](../Page/清水アキラ.md "wikilink")
   - [堺正章](../Page/堺正章.md "wikilink")
   - [瀬戸朝香](../Page/瀬戸朝香.md "wikilink")
+  - [白木みのる](../Page/白木みのる.md "wikilink")
 
 ゲスト
 

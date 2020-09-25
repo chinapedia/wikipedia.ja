@@ -56,7 +56,7 @@ RGB接続は垂直同期信号 (V SYNC) と水平同期信号 (H SYNC) を別に
 ## RGB21ピン端子で接続できる機器（純正ケーブルあり）
 
   - [スーパーファミコン](../Page/スーパーファミコン.md "wikilink")（SHVC-010で対応）※ケーブル内のコンデンサが劣化している場合あり\[5\]。現在はコンデンサを格納しやすく設計された自作用基板が存在する\[6\]。
-  - [PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink")、[PS one](../Page/PS_one.md "wikilink")、[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")（SCPH-1050で対応）※サードパーティ製のRGBケーブルは空中配線で、音声の左右が逆に接続されている\[7\]。自作に必要なコンデンサ・抵抗の仕様はスーパーファミコン用と同じ\[8\]。
+  - [PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink")、[PS one](../Page/PS_one.md "wikilink")、[PlayStation 2](../Page/PlayStation_2.md "wikilink")、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")（SCPH-1050で対応）※サードパーティ製のRGBケーブルは空中配線で、音声の左右が逆に接続されている\[7\]。自作に必要なコンデンサ・抵抗の仕様はスーパーファミコン用と同じ\[8\]。
   - [セガサターン](../Page/セガサターン.md "wikilink")（HSS-0109で対応）※純正RGBケーブルはグランドが接続されておらず音声ノイズが乗る\[9\]。
   - [ネオジオ](https://ja.wikipedia.org/wiki/ネオジオ "wikilink")、[ネオジオCD](../Page/ネオジオCD.md "wikilink")（FCG-9で対応）
   - [スーパーカセットビジョン](../Page/スーパーカセットビジョン.md "wikilink")（専用RGB接続コードで対応）

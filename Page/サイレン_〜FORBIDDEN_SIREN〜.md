@@ -3,7 +3,7 @@
 
 『**サイレン 〜FORBIDDEN SIREN〜**』（サイレン フォビドゥン・サイレン）は、[2006年](../Page/2006年.md "wikilink")[2月11日](../Page/2月11日.md "wikilink")[東宝](../Page/東宝.md "wikilink")[洋画](https://ja.wikipedia.org/wiki/洋画 "wikilink")系で公開された日本の[ホラー映画](../Page/ホラー映画.md "wikilink")である。
 
-ベースは、[PlayStation 2で発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ホラー](https://ja.wikipedia.org/wiki/ホラーゲーム "wikilink")[ステルスゲーム](../Page/ステルスゲーム.md "wikilink")の『[SIREN2](../Page/SIREN2.md "wikilink")』。
+ベースは、[PlayStation 2で発売された](../Page/PlayStation_2.md "wikilink")[ホラー](https://ja.wikipedia.org/wiki/ホラーゲーム "wikilink")[ステルスゲーム](../Page/ステルスゲーム.md "wikilink")の『[SIREN2](../Page/SIREN2.md "wikilink")』。
 
 監督は[堤幸彦](../Page/堤幸彦.md "wikilink")で、[市川由衣](https://ja.wikipedia.org/wiki/市川由衣 "wikilink")、[田中直樹](../Page/田中直樹_\(お笑い芸人\).md "wikilink")、[阿部寛](../Page/阿部寛.md "wikilink")、[森本レオ](../Page/森本レオ.md "wikilink")等が出演している。
 

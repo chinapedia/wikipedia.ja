@@ -63,8 +63,8 @@ PDP-1のシミュレーションとして、[SIMHと](https://ja.wikipedia.org/w
 
   - [Restoring the DEC PDP-1 Computer Exhibit](http://www.computerhistory.org/pdp-1/) — [コンピュータ歴史博物館](https://ja.wikipedia.org/wiki/コンピュータ歴史博物館 "wikilink")のPDP-1復元プロジェクト
   - [CHM Archives](http://archive.computerhistory.org/resources/moving-image/DEC/PDP-1_Online/) – コンピュータ歴史博物館のPDP-1復元プロジェクトに関する動画アーカイブ。音楽ファイルも含まれている。
-  - [PDP-1 Restoration Project](http://web.archive.org/web/20090429072610/http://pdp-1.org/) – コンピュータ歴史博物館のPDP-1復元プロジェクト
-  - [DEC PDP-1 information](http://web.archive.org/web/20070203102336/http://www.dbit.com/~greeng3/pdp1/) – `greeng3@rpi.edu`によるウェブサイト。DECの *PROGRAMMED DATA PROCESSOR-1 HANDBOOK*(1963年)がある。
+  - [PDP-1 Restoration Project](https://web.archive.org/web/20090429072610/http://pdp-1.org/) – コンピュータ歴史博物館のPDP-1復元プロジェクト
+  - [DEC PDP-1 information](https://web.archive.org/web/20070203102336/http://www.dbit.com/~greeng3/pdp1/) – `greeng3@rpi.edu`によるウェブサイト。DECの *PROGRAMMED DATA PROCESSOR-1 HANDBOOK*(1963年)がある。
   - [bitsavers.org PDP-1 directory](http://www.bitsavers.org/pdf/dec/pdp1/) – PDP-1 ハンドブック、保守マニュアル、価格表、診断用文書などがある。
   - [PDP-1 Music](http://www.dpbsmith.com/pdp1music/) – PDP-1で作られた音楽が聴ける(MP3)
   - [The Dot Eaters entry](http://www.thedoteaters.com/stage1.php) PDP-1とスペースウォー\!開発について

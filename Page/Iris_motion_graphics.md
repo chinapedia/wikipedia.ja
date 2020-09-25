@@ -36,7 +36,7 @@ Iris motion graphicsが制作を行った映像作品群について、関連す
 #### 一般向け
 
   - [Wind -a breath of heart-](../Page/Wind_-a_breath_of_heart-.md "wikilink")（[DC](../Page/ドリームキャスト.md "wikilink")）
-  - [PHANTOM OF INFERNO](../Page/Phantom_-PHANTOM_OF_INFERNO-.md "wikilink")（[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）
+  - [PHANTOM OF INFERNO](../Page/Phantom_-PHANTOM_OF_INFERNO-.md "wikilink")（[PS2](../Page/PlayStation_2.md "wikilink")）
   - [機神咆吼デモンベイン](https://ja.wikipedia.org/wiki/斬魔大聖デモンベイン "wikilink")（PS2）
   - [君が望む永遠](../Page/君が望む永遠.md "wikilink")（DC）
   - [咎狗の血 True Blood](../Page/咎狗の血.md "wikilink")（PS2）

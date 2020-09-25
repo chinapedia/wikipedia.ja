@@ -1346,7 +1346,7 @@ UEFAランキングには以下の3種類がある。
 <tr class="even">
 <td><p>27</p></td>
 <td><p>+11</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オリンピック・リヨン" title="wikilink">リヨン</a></p></td>
+<td><p><a href="../Page/オリンピック・リヨン.md" title="wikilink">リヨン</a></p></td>
 <td><p><a href="../Page/フランスサッカー連盟.md" title="wikilink">フランス</a></p></td>
 </tr>
 <tr class="odd">

@@ -1,7 +1,7 @@
 > この記事は[幻想水滸伝III](https://ja.wikipedia.org/wiki/幻想水滸伝III)から翻訳されています。
 
 
-『**幻想水滸伝III**』（げんそうすいこでんスリー）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")より[2002年](../Page/2002年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")に発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")作品である。『[幻想水滸伝シリーズ](../Page/幻想水滸伝シリーズ.md "wikilink")』の第3作目である。キャッチコピーは「**信じる道ならば進むのでしょう。それは、人の性なのですから。**」。
+『**幻想水滸伝III**』（げんそうすいこでんスリー）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")より[2002年](../Page/2002年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")に発売された[PlayStation 2用](../Page/PlayStation_2.md "wikilink")[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")作品である。『[幻想水滸伝シリーズ](../Page/幻想水滸伝シリーズ.md "wikilink")』の第3作目である。キャッチコピーは「**信じる道ならば進むのでしょう。それは、人の性なのですから。**」。
 
 [2004年](../Page/2004年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")にKONAMI the Bestで、[2005年](../Page/2005年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")にコナミ殿堂セレクションで発売された。なお、シリーズ初の3Dポリゴンによるグラフィックが採用された作品である。
 

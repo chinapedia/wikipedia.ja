@@ -21,7 +21,7 @@
 </tbody>
 </table>
 
-**Memories Off \#5 とぎれたフィルム**は、[2005年](../Page/2005年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")に[KIDより](../Page/KID_\(ゲームブランド\).md "wikilink")[PlayStation 2で発売した](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")である。[2006年](../Page/2006年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")にサクセスよりSuperLite2000シリーズにて発売された。[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")15歳以上対象。
+**Memories Off \#5 とぎれたフィルム**は、[2005年](../Page/2005年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")に[KIDより](../Page/KID_\(ゲームブランド\).md "wikilink")[PlayStation 2で発売した](../Page/PlayStation_2.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")である。[2006年](../Page/2006年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")にサクセスよりSuperLite2000シリーズにて発売された。[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")15歳以上対象。
 
 同社が誇る「[Memories Offシリーズ](../Page/Memories_Offシリーズ.md "wikilink")」の5作目である。副題は「5つの想いが叶うとき……とぎれたフィルムは静かに回りだす」。
 

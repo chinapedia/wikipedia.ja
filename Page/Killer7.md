@@ -1,7 +1,7 @@
 > この記事は[Killer7](https://ja.wikipedia.org/wiki/Killer7)から翻訳されています。
 
 
-『**killer7**』（キラーセブン）は、[グラスホッパー・マニファクチュア](../Page/グラスホッパー・マニファクチュア.md "wikilink")（以下ghm）が開発し、[カプコン](../Page/カプコン.md "wikilink")より[2005年](../Page/2005年.md "wikilink")に発売された[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")および[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[アクションアドベンチャーゲーム](../Page/アクションアドベンチャーゲーム.md "wikilink")。メーカー側のジャンル呼称は「多層人格アドベンチャー」。
+『**killer7**』（キラーセブン）は、[グラスホッパー・マニファクチュア](../Page/グラスホッパー・マニファクチュア.md "wikilink")（以下ghm）が開発し、[カプコン](../Page/カプコン.md "wikilink")より[2005年](../Page/2005年.md "wikilink")に発売された[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")および[PlayStation 2用](../Page/PlayStation_2.md "wikilink")[アクションアドベンチャーゲーム](../Page/アクションアドベンチャーゲーム.md "wikilink")。メーカー側のジャンル呼称は「多層人格アドベンチャー」。
 
 ## 概要
 

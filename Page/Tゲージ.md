@@ -23,7 +23,7 @@
     屋根上機器のディテールもなされており、[パンタグラフは](../Page/集電装置.md "wikilink")[エッチング](../Page/エッチング.md "wikilink")による金属製の一体成型である。
     車種は[103系通勤電車をはじめとした国鉄型電車が主であり](https://ja.wikipedia.org/wiki/国鉄103系電車 "wikilink")、2009年から[阪急9000系電車](../Page/阪急9000系電車.md "wikilink")と[キハ40系気動車が加わり](../Page/国鉄キハ40系気動車_\(2代\).md "wikilink")、より優れた機構が搭載されている。これらは一部のイベントで販売されたが、香港のメーカーに売却したこともあり、国内での流通が止まり、入手は国外からの通販が中心となっている。
   - 線路
-    [レールは磁力が働くよう鉄製であり](https://ja.wikipedia.org/wiki/軌条 "wikilink")、その高さは約1.016 mmで[コード](https://ja.wikipedia.org/wiki/コード "wikilink")40に相当する。道床と組み合わされており、金属製の[ジョイナーで接続する](https://ja.wikipedia.org/wiki/ジョイナー_\(鉄道模型\) "wikilink")。
+    [レールは磁力が働くよう鉄製であり](https://ja.wikipedia.org/wiki/軌条 "wikilink")、その高さは約1.016 mmで[コード](../Page/コード.md "wikilink")40に相当する。道床と組み合わされており、金属製の[ジョイナーで接続する](https://ja.wikipedia.org/wiki/ジョイナー_\(鉄道模型\) "wikilink")。
     また一部の線路にはフィーダーを差し込むことができ、代わりに[赤外線センサ](../Page/赤外線センサ.md "wikilink")を装着することで自動往復運転も可能である。
     曲線レールは半径120mmと132.5mm、直線レールは全長30mmと60mmが用意されており、2010年第一半期に[分岐器](https://ja.wikipedia.org/wiki/分岐器 "wikilink")と[クロッシングレールが生産の最終段階にある](../Page/ダイヤモンドクロッシング.md "wikilink")。長さ1m長のフレキシブルレール（道床無し、[枕木](../Page/枕木.md "wikilink")は木製と[PC](../Page/プレストレスト・コンクリート.md "wikilink")。）、架線柱も用意されている。
   - 電源

@@ -50,6 +50,7 @@
   - MSM-07 [グラブロ](https://ja.wikipedia.org/wiki/ジオン公国の機動兵器#グラブロ "wikilink")（+ザクI）
   - MA-08 [ビグ・ザム](../Page/ビグ・ザム.md "wikilink")（+ザクII）
   - MAN-03 [ブラウ・ブロ](../Page/ブラウ・ブロ.md "wikilink")
+  - MAN-08 [エルメス](../Page/エルメス_\(ガンダムシリーズ\).md "wikilink")
 
 ## 関連書籍
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-`grep` の名の由来は、[ラインエディタ](https://ja.wikipedia.org/wiki/ラインエディタ "wikilink")[ed](https://ja.wikipedia.org/wiki/ed "wikilink")のコマンド `g/re/p` である。その意味するところは「global regular expression print(ファイル全体から/正規表現に一致する行を/表示する)」で略号になっている\[1\]。
+`grep` の名の由来は、[ラインエディタ](https://ja.wikipedia.org/wiki/ラインエディタ "wikilink")[edのコマンド](https://ja.wikipedia.org/wiki/ed_\(テキストエディタ\) "wikilink") `g/re/p` である。その意味するところは「global regular expression print(ファイル全体から/正規表現に一致する行を/表示する)」で略号になっている\[1\]。
 
 姉妹コマンドとして、正規表現ではなくリテラル（即値文字列）のみを扱う高速な `fgrep`\[2\]、拡張正規表現が使える `egrep`\[3\] がある。 では `fgrep`、`egrep` を旧形式としていて、それぞれ `grep -F`、`grep -E` を使うことを標準としている。Linux Standard Baseでも指定コマンドになっている\[4\]。
 
@@ -41,7 +41,7 @@
 ## 関連項目
 
   - [フィルタ](../Page/フィルタ_\(ソフトウェア\).md "wikilink")
-  - [`find`](https://ja.wikipedia.org/wiki/find "wikilink")
+  - [`find`](https://ja.wikipedia.org/wiki/find_\(UNIX\) "wikilink")
   - [`agrep`](https://ja.wikipedia.org/wiki/agrep "wikilink")
 
 ## 外部リンク

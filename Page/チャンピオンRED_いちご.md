@@ -23,7 +23,7 @@
   - [グリザイアの果実 -サンクチュアリ フェローズ-](https://ja.wikipedia.org/wiki/グリザイアの果実 "wikilink")（原作：[フロントウイング](../Page/フロントウイング.md "wikilink")・脚本：[鳴海瑛二](https://ja.wikipedia.org/wiki/鳴海瑛二 "wikilink")・漫画：[廣瀬周](https://ja.wikipedia.org/wiki/廣瀬周 "wikilink")）
   - [※生徒会がおいしくいただきました。](https://ja.wikipedia.org/wiki/※生徒会がおいしくいただきました。 "wikilink")（[kashmir](https://ja.wikipedia.org/wiki/kashmir "wikilink")）
   - [聖闘士星矢EPISODE.G アサシン](https://ja.wikipedia.org/wiki/聖闘士星矢EPISODE.G_アサシン "wikilink")（原作：[車田正美](https://ja.wikipedia.org/wiki/車田正美 "wikilink")・漫画：[岡田芽武](../Page/岡田芽武.md "wikilink")）
-  - [大日本サムライガール](https://ja.wikipedia.org/wiki/大日本サムライガール "wikilink")（原作：[至道流星](https://ja.wikipedia.org/wiki/至道流星 "wikilink")・漫画：[佐藤健悦](https://ja.wikipedia.org/wiki/佐藤健悦 "wikilink")）
+  - [大日本サムライガール](https://ja.wikipedia.org/wiki/大日本サムライガール "wikilink")（原作：[至道流星](https://ja.wikipedia.org/wiki/至道流星 "wikilink")・漫画：[佐藤健悦](../Page/佐藤健悦.md "wikilink")）
   - [ぽかぽかばんぱいあ](https://ja.wikipedia.org/wiki/ぽかぽかばんぱいあ "wikilink")（[しまだわかば](https://ja.wikipedia.org/wiki/しまだわかば "wikilink")）
   - [僕の女神さま](https://ja.wikipedia.org/wiki/僕の女神さま "wikilink")（[コバヤシテツヤ](https://ja.wikipedia.org/wiki/コバヤシテツヤ "wikilink")）
   - [ポコと田舎でいっしょ\!](https://ja.wikipedia.org/wiki/ポコと田舎でいっしょ! "wikilink")（[D.P](https://ja.wikipedia.org/wiki/D.P "wikilink")）
@@ -72,7 +72,7 @@
   - [純情ハレンチキッズ](https://ja.wikipedia.org/wiki/純情ハレンチキッズ "wikilink")（[牛乳リンダ](../Page/牛乳リンダ.md "wikilink")）
   - [水月 〜久遠の契り〜](https://ja.wikipedia.org/wiki/水月_弐 "wikilink")（原作：水月2制作委員会・漫画：[火事屋](https://ja.wikipedia.org/wiki/火事屋 "wikilink")）
   - [SWEET SISTER](https://ja.wikipedia.org/wiki/SWEET_SISTER "wikilink")（[しぐにゃん](https://ja.wikipedia.org/wiki/しぐにゃん "wikilink")）
-  - [すたどる\!](https://ja.wikipedia.org/wiki/すたどる! "wikilink")（原作：[abelia](https://ja.wikipedia.org/wiki/abelia "wikilink")・コンテ：[速野悠二](../Page/速野悠二.md "wikilink")・漫画：[YUKIRIN](https://ja.wikipedia.org/wiki/YUKIRIN "wikilink")）
+  - [すたどる\!](https://ja.wikipedia.org/wiki/すたどる! "wikilink")（原作：[abelia](https://ja.wikipedia.org/wiki/abelia "wikilink")・コンテ：[速野悠二](../Page/速野悠二.md "wikilink")・漫画：[YUKIRIN](../Page/YUKIRIN.md "wikilink")）
   - [せいせら](https://ja.wikipedia.org/wiki/せいせら "wikilink")（[海月れおな](https://ja.wikipedia.org/wiki/海月れおな "wikilink")）
   - [セーラー服と重戦車](https://ja.wikipedia.org/wiki/セーラー服と重戦車 "wikilink")（[野上武志](https://ja.wikipedia.org/wiki/野上武志 "wikilink")） - 「チャンピオンRED」に移籍
   - [ちょっきんぱにっく](https://ja.wikipedia.org/wiki/ちょっきんぱにっく "wikilink")（[やぎさわ景一](../Page/やぎさわ景一.md "wikilink")）

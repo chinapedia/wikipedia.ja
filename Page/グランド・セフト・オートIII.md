@@ -5,19 +5,19 @@
 
 前作『[グランド・セフト・オート2](../Page/グランド・セフト・オート2.md "wikilink")』などは、[アラビア数字](../Page/アラビア数字.md "wikilink")(『GTAII』とは書かれない)だったが、今作『GTAIII』から今後のナンバリングタイトルの作品(『[グランド・セフト・オートIV](../Page/グランド・セフト・オートIV.md "wikilink")』、『[グランド・セフト・オートV](https://ja.wikipedia.org/wiki/グランド・セフト・オートV "wikilink")』など)は、全て**[ローマ数字](../Page/ローマ数字.md "wikilink")**に統一された。また、『[GTA](../Page/グランド・セフト・オート・サンアンドレアス.md "wikilink")』、『GTA2』は見下ろし型となっていたが、今作から現在のGTAの様に[TPS](https://ja.wikipedia.org/wiki/TPS "wikilink")視点(一部例外あり)となった。今作の[パッケージ](../Page/パッケージ.md "wikilink")の[タイトルロゴ](https://ja.wikipedia.org/wiki/タイトルロゴ "wikilink")は今後のGTAシリーズ、全てに使用されてる事になった。また、次回作から現在まで『GTAIII』を基本とし、今後のGTAシリーズが構築されていく事になった。
 
-[PS2版は](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、北米版が[2001年](../Page/2001年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")に発売され、その後[2003年](../Page/2003年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")に日本版が発売された。
+[PS2版は](../Page/PlayStation_2.md "wikilink")、北米版が[2001年](../Page/2001年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")に発売され、その後[2003年](../Page/2003年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")に日本版が発売された。
 
 [PC版は](../Page/パーソナルコンピュータ.md "wikilink")、[2002年](../Page/2002年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink")に北米版が発売され、日本版は2003年9月25日にPS2版と同時発売された。
 
 [Xbox版は](../Page/Xbox_\(ゲーム機\).md "wikilink")、2003年[10月31日](../Page/10月31日.md "wikilink")に北米版が発売された。日本版は[2004年](../Page/2004年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")に発売された。
 
-[ios](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")/[Android](../Page/Android.md "wikilink")版は、[2011年](../Page/2011年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に全世界同時有料配信となった。
+[ios](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")/[Android版は](../Page/Android_\(オペレーティングシステム\).md "wikilink")、[2011年](../Page/2011年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に全世界同時有料配信となった。
 
 [PS3](https://ja.wikipedia.org/wiki/PS3 "wikilink")版は、北米版が[2012年](../Page/2012年.md "wikilink")9月25日に発売されたが、日本版は未定である。
 
 ## 概要
 
-[北米](https://ja.wikipedia.org/wiki/北米 "wikilink")において[2001年](../Page/2001年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")に[PlayStation 2で発売](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。後に[PCや](../Page/パーソナルコンピュータ.md "wikilink")[Xboxにも移植され](../Page/Xbox_\(ゲーム機\).md "wikilink")、世界中で1450万本を売り上げる大ヒット作となった。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でも[2003年](../Page/2003年.md "wikilink")秋に[カプコン](../Page/カプコン.md "wikilink")より[CERO](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")[レーティング](https://ja.wikipedia.org/wiki/レーティング "wikilink")18歳以上対象ソフトとしてPlayStation 2版とXbox版（続編である[GTA:VCとのセットでのみ](../Page/グランド・セフト・オート・バイスシティ.md "wikilink")）が発売\[1\]\[2\]され、当時の海外製ゲーム（所謂[洋ゲー](../Page/洋ゲー.md "wikilink")）としては異例の30万本、[廉価版](../Page/廉価版.md "wikilink")を含めて40万本のヒットを記録\[3\]した。
+[北米](https://ja.wikipedia.org/wiki/北米 "wikilink")において[2001年](../Page/2001年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")に[PlayStation 2で発売](../Page/PlayStation_2.md "wikilink")。後に[PCや](../Page/パーソナルコンピュータ.md "wikilink")[Xboxにも移植され](../Page/Xbox_\(ゲーム機\).md "wikilink")、世界中で1450万本を売り上げる大ヒット作となった。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でも[2003年](../Page/2003年.md "wikilink")秋に[カプコン](../Page/カプコン.md "wikilink")より[CERO](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")[レーティング](https://ja.wikipedia.org/wiki/レーティング "wikilink")18歳以上対象ソフトとしてPlayStation 2版とXbox版（続編である[GTA:VCとのセットでのみ](../Page/グランド・セフト・オート・バイスシティ.md "wikilink")）が発売\[1\]\[2\]され、当時の海外製ゲーム（所謂[洋ゲー](../Page/洋ゲー.md "wikilink")）としては異例の30万本、[廉価版](../Page/廉価版.md "wikilink")を含めて40万本のヒットを記録\[3\]した。
 
 シリーズで初めて3Dシステムを採用している。街全体が[オープンワールド](../Page/オープンワールド.md "wikilink")で構築され、前作、前々作に比べ自由度は大幅に向上した。[架空の街](https://ja.wikipedia.org/wiki/ヴァーチャルリアリティ "wikilink")「[リバティーシティ](../Page/リバティーシティ.md "wikilink")」の中をプレイヤーが自由に行動できることが人気の要因となった。同時に、[暴力](../Page/暴力.md "wikilink")描写、特に[チート](../Page/チート.md "wikilink")を使用することで体がバラバラになる描写が話題となり\[4\]、青少年による暴力や無差別殺人事件を誘発したとして批判され、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")では[有害図書](../Page/有害図書.md "wikilink")に認定されている。また、発売された同年リバティーシティのモデルであるニューヨークでは[アメリカ同時多発テロ事件](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")発生したため、作中内で飛行機が高層ビルに近いところを飛ばないようにするなどの修正を行った\[5\]。
 

@@ -73,7 +73,7 @@
 
 ## タイアップ
 
-  - [アイディアファクトリー](../Page/アイディアファクトリー.md "wikilink")製[PlayStation 2専用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『スカイサーファー』[オープニングテーマ](../Page/主題歌.md "wikilink") (\#4)
+  - [アイディアファクトリー](../Page/アイディアファクトリー.md "wikilink")製[PlayStation 2専用](../Page/PlayStation_2.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『スカイサーファー』[オープニングテーマ](../Page/主題歌.md "wikilink") (\#4)
 
 ## 注釈
 

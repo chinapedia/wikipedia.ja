@@ -110,7 +110,7 @@
   - [シェリーに口づけ](../Page/シェリーに口づけ.md "wikilink")（[ミッシェル・ポルナレフ](../Page/ミッシェル・ポルナレフ.md "wikilink")）、TBS系2004年春クールの木曜ドラマ「[新しい風](../Page/新しい風_\(テレビドラマ\).md "wikilink")」のイメージソング。
   - [狙いうち](https://ja.wikipedia.org/wiki/狙いうち "wikilink")（[山本リンダ](https://ja.wikipedia.org/wiki/山本リンダ "wikilink")）
   - [ジンギスカン](../Page/ジンギスカン_\(曲\).md "wikilink")（[ジンギスカン](https://ja.wikipedia.org/wiki/ジンギスカン_\(グループ\) "wikilink")）
-  - [♡桃色片想い♡](https://ja.wikipedia.org/wiki/♡桃色片想い♡ "wikilink")（[松浦亜弥](../Page/松浦亜弥.md "wikilink")）
+  - [♡桃色片想い♡](../Page/♡桃色片想い♡.md "wikilink")（[松浦亜弥](../Page/松浦亜弥.md "wikilink")）
   - [天国と地獄](../Page/地獄のオルフェ.md "wikilink")（[ジャック・オッフェンバック](../Page/ジャック・オッフェンバック.md "wikilink")）
   - 虹（福山雅治）
 

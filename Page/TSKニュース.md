@@ -48,6 +48,15 @@
 
 <references />
 
+## 外部リンク
+
+  - ローカルニュースはTSKの公式サイトでは配信していない。
+
+<!-- end list -->
+
+  - [FNNプライムオンライン TSKさんいん中央テレビ](https://www.fnn.jp/category/news-tsk)
+  - [Yahoo\!ニュース TSKさんいん中央テレビ](https://news.yahoo.co.jp/media/tsk)
+
 [Category:山陰中央テレビジョン放送の番組](https://ja.wikipedia.org/wiki/Category:山陰中央テレビジョン放送の番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:中国・四国地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのミニ番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:FNNニュースレポート11:30](https://ja.wikipedia.org/wiki/Category:FNNニュースレポート11:30 "wikilink") [Category:FNNスピーク](https://ja.wikipedia.org/wiki/Category:FNNスピーク "wikilink") [Category:産経テレニュースFNN](https://ja.wikipedia.org/wiki/Category:産経テレニュースFNN "wikilink") [Category:FNNニュース6:30](https://ja.wikipedia.org/wiki/Category:FNNニュース6:30 "wikilink") [Category:FNNニュースレポート600・630・530](https://ja.wikipedia.org/wiki/Category:FNNニュースレポート600・630・530 "wikilink") [Category:FNNレインボー発](https://ja.wikipedia.org/wiki/Category:FNNレインボー発 "wikilink")
 
 1.  [なるほど\!吉田くんのしまねゼミ](http://www.tsk-tv.com/tv/shimane-zemi/) TSK山陰中央テレビ

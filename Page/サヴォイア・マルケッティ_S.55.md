@@ -15,7 +15,7 @@
   - 全長：16.75m（55ft 0in）
   - 翼巾：24.00m（74ft 9in）
   - 全高：5.00m（16ft 5in）
-  - 翼面積：93.0[m<sup>2</sup>](../Page/平方メートル.md "wikilink")（1,001[ft<sup>2</sup>](https://ja.wikipedia.org/wiki/平方フィート "wikilink")）
+  - 翼面積：93.0[m<sup>2</sup>](../Page/平方メートル.md "wikilink")（1,001[ft<sup>2</sup>](../Page/平方フィート.md "wikilink")）
   - 機体重量：5,750kg（12,677lb）
   - 最大離陸重量：8,260kg（18,210lb）
   - 動力：2x Isotta-Fraschini Asso 750V, 各656kW（880hp）

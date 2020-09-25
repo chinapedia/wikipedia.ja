@@ -41,7 +41,7 @@
   - スライム
     チラノたちと共に派遣されたポーン。ルーツは[スライム](https://ja.wikipedia.org/wiki/スライム_\(架空の生物\) "wikilink")。体内に相手を取り込み、体はもとより骨まで溶かしてしまう。自分の意志によるエボリューション能力に完全に開眼した翔に倒される。
   - トリケラトプス
-    チラノたちと共に派遣されたポーン。通称、トリケラ。ルーツは[トリケラトプス](../Page/トリケラトプス.md "wikilink")。不用意な発言でクルーガーの不況を買う。スライム戦で覚醒した直後の翔に瞬殺。KO後しばらくすると透けたシェルターの残骸から人型が見えた（他のポーンも同様）。
+    チラノたちと共に派遣されたポーン。通称、トリケラ。ルーツは[トリケラトプス](../Page/トリケラトプス.md "wikilink")。不用意な発言でクルーガーの不興を買う。スライム戦で覚醒した直後の翔に瞬殺。KO後しばらくすると透けたシェルターの残骸から人型が見えた（他のポーンも同様）。
   - パキケファロサウルス
     チラノたちと共に派遣されたポーン。通称、パキケファロ。ルーツは[パキケファロサウルス](../Page/パキケファロサウルス.md "wikilink")。得意技は自称・地上最強のヘッドバットだが、階級が上の翔には敵わず、倒される。
   - ステゴザウルス
@@ -80,7 +80,7 @@
   - 城（しろ）
     ネオ・ソサエティ最大エリア。ルックは普段はこの城の玉座に鎮座しており、神人類の矢も本来はこの城に保管されていた。他にも各国の拠点として日本エリアなどが存在する。
   - 神人類（しんじんるい）
-    エボリューション能力を身につけた人間。
+    エボリューション能力を身につけた人間。ナイト以上の神人類の胸にはそれぞれのルーツを象った浮かび上がるアザがあるのも特徴（エボリューション後はシェルターの胸部にデザインされている）。
   - 神人類の矢（しんじんるいのや）
     ネオ・ソサエティきっての秘宝。ネオ・ソサエティに敵対する者が手にすれば、ネオ・ソサエティ全てを崩壊させるほどの力を秘めているという。ルックも気づかぬ間にシスターにより盗み出され、翔が育った教会のマリア像の中に隠されていた。
     連載時は「青龍の矢」と呼ばれており、[四神](../Page/四神.md "wikilink")に対応した4つのアイテムの一つという設定だった。
@@ -114,7 +114,7 @@
   - 『週刊少年ジャンプ』 平成4年35号-48号、集英社、1992年
   - 車田正美『SILENT KNIGHT翔』全2巻 集英社、1993年
 
-[Category:車田正美](https://ja.wikipedia.org/wiki/Category:車田正美 "wikilink") [Category:漫画作品_さ](https://ja.wikipedia.org/wiki/Category:漫画作品_さ "wikilink") [Category:1992年の漫画](https://ja.wikipedia.org/wiki/Category:1992年の漫画 "wikilink") [Category:週刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年ジャンプの漫画作品 "wikilink") [Category:未完の漫画作品](https://ja.wikipedia.org/wiki/Category:未完の漫画作品 "wikilink") [Category:変身ヒーロー](https://ja.wikipedia.org/wiki/Category:変身ヒーロー "wikilink")
+[Category:車田正美](https://ja.wikipedia.org/wiki/Category:車田正美 "wikilink") [Category:漫画作品_さ](https://ja.wikipedia.org/wiki/Category:漫画作品_さ "wikilink") [Category:1992年の漫画](https://ja.wikipedia.org/wiki/Category:1992年の漫画 "wikilink") [Category:週刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年ジャンプの漫画作品 "wikilink") [Category:未完の漫画作品](https://ja.wikipedia.org/wiki/Category:未完の漫画作品 "wikilink") [Category:変身ヒーロー](https://ja.wikipedia.org/wiki/Category:変身ヒーロー "wikilink") [Category:パワードスーツ・プロテクターを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:パワードスーツ・プロテクターを題材とした漫画作品 "wikilink")
 
 1.  [ジャンプの伝説打ち切り漫画『サイレントナイト翔』とは？ - エキサイトニュース](https://www.excite.co.jp/news/article/E1489548979632/)
 2.  [ジャンプの伝説打ち切り漫画『サイレントナイト翔』とは？ - エキサイトニュース(2/3)](https://www.excite.co.jp/news/article/E1489548979632/?p=2)

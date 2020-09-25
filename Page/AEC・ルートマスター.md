@@ -74,14 +74,22 @@
 ## 外部リンク
 
   - [Save the Routemaster](http://www.savetheroutemaster.com/)
+
   - [Routemaster Operators and Owners Association](http://www.routemaster.org.uk/)
+
   - [The London Bus Page](http://www.londonbuspage.com/)
-  - [Routemaster Bus Tribute](http://www.geocities.com/londondestruction/bus.html) Bring back the Routemaster.
+
+  - Bring back the Routemaster.
+
   - [The AEC Society](http://aecsociety.com/)
+
   - [AEC Southall](http://www.aecsouthall.co.uk/)
-  - [The London Routemaster Heritage Routes](http://www.geocities.com/routemasterheritageroute/index.html)
+
+  -
   - [Short article on the demise of the Routemaster in London](http://www.londonbooks.co.uk/shop/page.php?xPage=articles.html&articleID=1)
+
   - [アップスター](http://www.upstar.co.jp/)
+
   - [エキシマジャパンリミテッド](http://www.excima.co.jp/)
 
 [Category:ロンドンのバス交通](https://ja.wikipedia.org/wiki/Category:ロンドンのバス交通 "wikilink") [Category:バス車両](https://ja.wikipedia.org/wiki/Category:バス車両 "wikilink") [Category:イギリスの交通史](https://ja.wikipedia.org/wiki/Category:イギリスの交通史 "wikilink")

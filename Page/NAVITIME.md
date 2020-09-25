@@ -9,7 +9,7 @@
 
 携帯電話向けには、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")、[ワイモバイル](../Page/ワイモバイル.md "wikilink")に提供中で、[KDDI](../Page/KDDI.md "wikilink")の[EZナビウォーク](../Page/EZナビウォーク.md "wikilink")のエンジンとしても利用されている。PC、アクトビラ（テレビインターネット)、携帯電話向けのサービスと、履歴や登録情報を共有できることが特徴となっている。主な機能は有料である。
 
-[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")用のサービスも提供されている。[Windows Mobileや](../Page/Windows_Mobile.md "wikilink")[BlackBerry](../Page/BlackBerry.md "wikilink")向けのサービスも提供している。[2009年](../Page/2009年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")には[Android](../Page/Android.md "wikilink")（当初は[HT-03A](https://ja.wikipedia.org/wiki/HT-03A "wikilink")）向けアプリの提供を開始している。
+[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")用のサービスも提供されている。[Windows Mobileや](../Page/Windows_Mobile.md "wikilink")[BlackBerry](../Page/BlackBerry.md "wikilink")向けのサービスも提供している。[2009年](../Page/2009年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")には[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")（当初は[HT-03A](https://ja.wikipedia.org/wiki/HT-03A "wikilink")）向けアプリの提供を開始している。
 
 CMでは、[イアン・ムーア](https://ja.wikipedia.org/wiki/イアン・ムーア "wikilink")を起用。
 

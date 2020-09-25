@@ -5,7 +5,7 @@
 
 ## 概要
 
-[リガンド](https://ja.wikipedia.org/wiki/リガンド "wikilink")であるグルタミン酸を受容することで、陽イオンを透過させる、[イオンチャネル](../Page/イオンチャネル.md "wikilink")共役型[受容体](../Page/受容体.md "wikilink")である。透過させるイオンは主として[ナトリウム](https://ja.wikipedia.org/wiki/ナトリウム "wikilink")イオンであるが、さほど選択性は強くなく、[カリウム](../Page/カリウム.md "wikilink")イオンも透過させ、またサブユニット構成によっては[カルシウム](../Page/カルシウム.md "wikilink")イオンも透過させる(後述)。
+[リガンド](../Page/リガンド.md "wikilink")であるグルタミン酸を受容することで、陽イオンを透過させる、[イオンチャネル](../Page/イオンチャネル.md "wikilink")共役型[受容体](../Page/受容体.md "wikilink")である。透過させるイオンは主として[ナトリウム](https://ja.wikipedia.org/wiki/ナトリウム "wikilink")イオンであるが、さほど選択性は強くなく、[カリウム](../Page/カリウム.md "wikilink")イオンも透過させ、またサブユニット構成によっては[カルシウム](../Page/カルシウム.md "wikilink")イオンも透過させる(後述)。
 
 ## 構造
 

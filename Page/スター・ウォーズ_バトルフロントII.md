@@ -1,7 +1,7 @@
 > この記事は[スター・ウォーズ バトルフロントII](https://ja.wikipedia.org/wiki/スター・ウォーズ_バトルフロントII)から翻訳されています。
 
 
-『**スター・ウォーズ バトルフロントII**』 (*STAR WARS BATTLEFRONT II*)は、[ルーカスアーツ](https://ja.wikipedia.org/wiki/ルーカスアーツ "wikilink")開発、[エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink")販売の[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")用[コンピューターゲーム](https://ja.wikipedia.org/wiki/コンピューターゲーム "wikilink")で日本でも販売されている。『[スター・ウォーズ・シリーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ・シリーズ "wikilink")』を題材にした3人称視点のアクション・シューティング（TPS）であり、『[スター・ウォーズ バトルフロント](../Page/スター・ウォーズ_バトルフロント.md "wikilink")』の続編となる。
+『**スター・ウォーズ バトルフロントII**』 (*STAR WARS BATTLEFRONT II*)は、[ルーカスアーツ](https://ja.wikipedia.org/wiki/ルーカスアーツ "wikilink")開発、[エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink")販売の[PlayStation 2](../Page/PlayStation_2.md "wikilink")、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")用[コンピューターゲーム](https://ja.wikipedia.org/wiki/コンピューターゲーム "wikilink")で日本でも販売されている。『[スター・ウォーズ・シリーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ・シリーズ "wikilink")』を題材にした3人称視点のアクション・シューティング（TPS）であり、『[スター・ウォーズ バトルフロント](../Page/スター・ウォーズ_バトルフロント.md "wikilink")』の続編となる。
 
 ## 概要
 

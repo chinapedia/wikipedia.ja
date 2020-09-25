@@ -3,7 +3,7 @@
 
 **AZUSA**（アズサ、旧名：**千駄 あずさ**、[1973年](../Page/1973年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink") - ）は日本の[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")を中心に活動している[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")、[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")。拠点は名古屋であるが、[東京に本社を持つ](../Page/東京都.md "wikilink")「[サンディ](../Page/サンディ_\(芸能事務所\).md "wikilink")」に所属している。
 
-[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[渥美郡](../Page/渥美郡.md "wikilink")[渥美町](../Page/渥美町.md "wikilink")（現在の[田原市](../Page/田原市.md "wikilink")）出身、[血液型はO型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[専修大学](../Page/専修大学.md "wikilink")[文学部](../Page/文学部.md "wikilink")英米文学科卒業。
+[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[渥美郡](../Page/渥美郡.md "wikilink")[渥美町](../Page/渥美町.md "wikilink")（現在の[田原市](../Page/田原市.md "wikilink")）出身、[血液型はO型](../Page/ABO式血液型.md "wikilink")。[専修大学](../Page/専修大学.md "wikilink")[文学部](../Page/文学部.md "wikilink")英米文学科卒業。
 
 女性[ラクロス](../Page/ラクロス.md "wikilink")のクラブチームである「[名古屋ラクロスクラブ](https://ja.wikipedia.org/wiki/名古屋ラクロスクラブ "wikilink")」の一員でもある。[上級救命士の資格も持っている](https://ja.wikipedia.org/wiki/救命士 "wikilink")。
 
@@ -36,9 +36,12 @@
 ## 外部リンク
 
   - [ZIP-FM 77.8MHz | ライフスタイル情報とグッドミュージック！名古屋ナンバーワンFM](http://zip-fm.co.jp/index1.asp)
+
       - [++ ZIP-FM 77.8++](http://www.zip-fm.co.jp/pro_index/navigator/#n21) - ZIP-FMによるプロフィール
+
   - [Blog](http://web.archive.org/20070510021341/web.mac.com/yyjgy292/iWeb/Site/Blog/Blog.html) - 本人のブログ（更新は不定期）
+
       -
-  - [名古屋ラクロスクラブ](http://www5e.biglobe.ne.jp/~nlc/member/51.htm) - 名古屋ラクロスクラブによるプロフィール
+  - \- 名古屋ラクロスクラブによるプロフィール
 
 [Category:ZIP-FMのミュージックナビゲーター](https://ja.wikipedia.org/wiki/Category:ZIP-FMのミュージックナビゲーター "wikilink") [Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink") [Category:中部地方のローカルタレント](https://ja.wikipedia.org/wiki/Category:中部地方のローカルタレント "wikilink") [Category:日本のラクロス選手](https://ja.wikipedia.org/wiki/Category:日本のラクロス選手 "wikilink") [Category:専修大学出身の人物](https://ja.wikipedia.org/wiki/Category:専修大学出身の人物 "wikilink") [Category:愛知県出身の人物](https://ja.wikipedia.org/wiki/Category:愛知県出身の人物 "wikilink") [Category:1973年生](https://ja.wikipedia.org/wiki/Category:1973年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

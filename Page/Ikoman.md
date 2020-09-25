@@ -5,7 +5,7 @@
 
 ## 来歴・人物
 
-[香川県](../Page/香川県.md "wikilink")出身\[3\]。。高校時代はギター同好会に所属していた\[4\]。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")\[5\]。
+[香川県](../Page/香川県.md "wikilink")出身\[3\]。。高校時代はギター同好会に所属していた\[4\]。[血液型はA型](../Page/ABO式血液型.md "wikilink")\[5\]。
 
 [大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")\[6\]、[FLOW](../Page/FLOW.md "wikilink")、[エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink")、[Rie fu](../Page/Rie_fu.md "wikilink")\[7\]、[WILD FLOWER](https://ja.wikipedia.org/wiki/WILD_FLOWER "wikilink")、[YUI](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")\[8\]、[Younha](https://ja.wikipedia.org/wiki/Younha "wikilink")、[DUSTZ](https://ja.wikipedia.org/wiki/DUSTZ "wikilink")、[ステレオポニー](https://ja.wikipedia.org/wiki/ステレオポニー "wikilink")、[紗希](../Page/紗希.md "wikilink")\[9\]、[外川陽子](https://ja.wikipedia.org/wiki/外川陽子 "wikilink")、Leno、[RYTHEM](../Page/RYTHEM.md "wikilink")\[10\]、[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")、[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")、[SEKAI NO OWARI](https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI "wikilink")、[藤田麻衣子](../Page/藤田麻衣子.md "wikilink")、[杉恵ゆりか](https://ja.wikipedia.org/wiki/杉恵ゆりか "wikilink")、[wacci](https://ja.wikipedia.org/wiki/wacci "wikilink")、[AAA](../Page/AAA_\(音楽グループ\).md "wikilink")…等のサウンドプロデュース、楽曲提供、アレンジ、マニピュレートなどを手掛ける。
 

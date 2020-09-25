@@ -23,7 +23,7 @@ VRSCシリーズはVRSCA、VRSCB、VRSCR、VRSCD、VRSCAW、VRSCDX、VRSCF（日
 
 ### 2004年
 
-高めの値段設定([ダイナ](https://ja.wikipedia.org/wiki/ダイナ "wikilink")と[ソフテイル](https://ja.wikipedia.org/wiki/ソフテイル "wikilink")の中間ほど)であったVRSCAの廉価版となるべくメッキパーツをブラックアウトしたVRSCBを販売。VRSCAに比べ20万円近く安い価格設定と、黒くまとめられたコンセプトが人気を博し、現在に続くナイトロッドスペシャルの元となる
+高めの値段設定([ダイナ](../Page/ダイナ.md "wikilink")と[ソフテイル](https://ja.wikipedia.org/wiki/ソフテイル "wikilink")の中間ほど)であったVRSCAの廉価版となるべくメッキパーツをブラックアウトしたVRSCBを販売。VRSCAに比べ20万円近く安い価格設定と、黒くまとめられたコンセプトが人気を博し、現在に続くナイトロッドスペシャルの元となる
 
 ### 2005年
 

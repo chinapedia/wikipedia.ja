@@ -34,8 +34,8 @@
 ## 外部リンク
 
   - [melma\!](http://melma.com/)
-  - [CLICK INCOME](http://web.archive.org/web/*/www.clickincome.net/) （Web Archive）
-  - [あるあるネット](http://web.archive.org/web/*/aru2.net/) （Web Archive）
+  - [CLICK INCOME](https://web.archive.org/web/*/www.clickincome.net/) （Web Archive）
+  - [あるあるネット](https://web.archive.org/web/*/aru2.net/) （Web Archive）
   - [クリックインカム問題](http://www.jiten.com/dicmi/docs/k8/15672s.htm)
 
 [Category:メールマガジン](https://ja.wikipedia.org/wiki/Category:メールマガジン "wikilink") [Category:サイバーエージェント](https://ja.wikipedia.org/wiki/Category:サイバーエージェント "wikilink")

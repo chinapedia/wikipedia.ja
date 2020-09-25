@@ -11,10 +11,10 @@
 
 ## メンバー
 
-  - **谷川正憲** （たにがわ まさのり、[1982年](../Page/1982年.md "wikilink")[11月14日](../Page/11月14日.md "wikilink") - 、[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")） [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")
+  - **谷川正憲** （たにがわ まさのり、[1982年](../Page/1982年.md "wikilink")[11月14日](../Page/11月14日.md "wikilink") - 、[A型](../Page/ABO式血液型.md "wikilink")） [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")
   - **佐藤将文** （さとう まさふみ、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[8月16日](../Page/8月16日.md "wikilink") - 、[O型](https://ja.wikipedia.org/wiki/O型 "wikilink")） ギター・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - **谷浩彰** （たに ひろあき、[1982年](../Page/1982年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink") - 、A型） [ベース](../Page/ベース_\(弦楽器\).md "wikilink")・コーラス
-  - **吉田昇吾** （よしだ しょうご、[1982年](../Page/1982年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink") - 、[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")） [ドラム](../Page/ドラムセット.md "wikilink")、[ivory7 chordのメンバーとしても活動している](https://ja.wikipedia.org/wiki/ivory7_chord "wikilink")
+  - **吉田昇吾** （よしだ しょうご、[1982年](../Page/1982年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink") - 、[B型](../Page/ABO式血液型.md "wikilink")） [ドラム](../Page/ドラムセット.md "wikilink")、[ivory7 chordのメンバーとしても活動している](https://ja.wikipedia.org/wiki/ivory7_chord "wikilink")
 
 ## ディスコグラフィー
 

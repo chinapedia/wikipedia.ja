@@ -39,7 +39,7 @@
   - 『[Do The A-side](../Page/Do_The_A-side.md "wikilink")』
   - 『[Do The Best "Great Supporters Selection"](https://ja.wikipedia.org/wiki/Do_The_Best_"Great_Supporters_Selection" "wikilink")』
   - 『[The Best of Do As Infinity](https://ja.wikipedia.org/wiki/The_Best_of_Do_As_Infinity "wikilink")』
-  - 『[Anime and Game COLLECTION](https://ja.wikipedia.org/wiki/Anime_and_Game_COLLECTION "wikilink")』
+  - 『[Anime and Game COLLECTION](../Page/Anime_and_Game_COLLECTION.md "wikilink")』
   - 『\[\[2_of_Us\#2_of_Us_RED_-14_Re:SINGLES-|2 of Us \[RED\] -14 Re:SINGLES-\]\]』（アレンジ・新録音して収録）
 
 <!-- end list -->

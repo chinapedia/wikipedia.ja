@@ -129,7 +129,7 @@
           - [フォワード](../Page/いすゞ・フォワード.md "wikilink")/フォワード特定中型仕様車 (PKG-FRR90/PKG-FSR90)
           - フォワード総輪駆動車/総輪駆動・特定中型仕様車 (PKG-FRS90/PKG-FSS90)
           - [エルガミオ](https://ja.wikipedia.org/wiki/いすゞ・エルガミオ "wikilink") (SDG-LR290)
-          - [エルガ](https://ja.wikipedia.org/wiki/いすゞ・エルガ "wikilink")（ハイブリッド以外の2代目全車）
+          - [エルガ](../Page/いすゞ・エルガ.md "wikilink")（ハイブリッド以外の2代目全車）
       - 日野自動車
           - [ブルーリボン](../Page/日野・ブルーリボン.md "wikilink")（ハイブリッド以外の2代目全車）
           - [レインボーⅡ](../Page/日野・レインボー.md "wikilink") (SDG-KR290)
@@ -139,7 +139,7 @@
           - フォワード総重量14,5t/総輪駆動・総重量14t仕様車 (PDG-FTR34/PDG-FTS34)
           - フォワード総重量16t/総重量20t仕様車 (PDG-FVR34/PDG-FVZ34)
           - [エルガミオ](https://ja.wikipedia.org/wiki/いすゞ・エルガミオ "wikilink") (PA-LR234/PDG-LR234)
-          - [エルガ](https://ja.wikipedia.org/wiki/いすゞ・エルガ "wikilink")（KL-LV834、PJ-LV234、PKG-LV234及びPDG-LV234、LKG-LV234及びLDG-LV234、QPG-LV234及びQKG-LV234及びQDG-LV234）
+          - [エルガ](../Page/いすゞ・エルガ.md "wikilink")（KL-LV834、PJ-LV234、PKG-LV234及びPDG-LV234、LKG-LV234及びLDG-LV234、QPG-LV234及びQKG-LV234及びQDG-LV234）
       - [日野自動車](../Page/日野自動車.md "wikilink")
           - [レインボーⅡ](../Page/日野・レインボー.md "wikilink") (PA-KR234/PDG-KR234)
           - [ブルーリボンⅡ](../Page/日野・ブルーリボン.md "wikilink")（PJ-KV234及びPKG-KV234及びPDG-KV234、LKG-KV234及びLDG-KV234、QPG-KV234及びQKG-KV234及びQDG-KV234）

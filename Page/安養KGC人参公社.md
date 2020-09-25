@@ -31,4 +31,4 @@
 
   - [公式HP](http://www.kgcsports.com/02_basketball/main/20000_bbmain.php)
 
-[Category:韓国のバスケットボールチーム](https://ja.wikipedia.org/wiki/Category:韓国のバスケットボールチーム "wikilink") [Category:京畿道](https://ja.wikipedia.org/wiki/Category:京畿道 "wikilink")
+[Category:韓国のバスケットボールチーム](https://ja.wikipedia.org/wiki/Category:韓国のバスケットボールチーム "wikilink") [Category:安養市](https://ja.wikipedia.org/wiki/Category:安養市 "wikilink")

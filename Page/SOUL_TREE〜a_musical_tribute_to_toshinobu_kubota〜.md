@@ -13,7 +13,7 @@
         1stミニアルバム
 3.  **[Missing](https://ja.wikipedia.org/wiki/Missing_\(久保田利伸の曲\) "wikilink")**（『[火の鳥](https://ja.wikipedia.org/wiki/火の鳥_\(中島美嘉の曲\) "wikilink")』収録） / [中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")
       -
-        1stアルバム「[SHAKE IT PARADISE](https://ja.wikipedia.org/wiki/SHAKE_IT_PARADISE "wikilink")」収録
+        1stアルバム「[SHAKE IT PARADISE](../Page/SHAKE_IT_PARADISE.md "wikilink")」収録
 4.  **流星のサドル** / [SOULHEAD](../Page/SOULHEAD.md "wikilink")
       -
         2ndシングル「[TIMEシャワーに射たれて…](https://ja.wikipedia.org/wiki/TIMEシャワーに射たれて… "wikilink")」カップリング

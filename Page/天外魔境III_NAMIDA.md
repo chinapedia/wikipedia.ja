@@ -1,7 +1,7 @@
 > この記事は[天外魔境III NAMIDA](https://ja.wikipedia.org/wiki/天外魔境III_NAMIDA)から翻訳されています。
 
 
-『**天外魔境III NAMIDA**』（てんがいまきょうスリー なみだ）は、[2005年](../Page/2005年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")に[ハドソン](../Page/ハドソン.md "wikilink")から発売された[プレイステーション2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")[ソフト](../Page/ゲームソフト.md "wikilink")。ジャンルは[ロールプレイングゲーム（RPG）](../Page/コンピュータRPG.md "wikilink")。
+『**天外魔境III NAMIDA**』（てんがいまきょうスリー なみだ）は、[2005年](../Page/2005年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")に[ハドソン](../Page/ハドソン.md "wikilink")から発売された[プレイステーション2用](../Page/PlayStation_2.md "wikilink")[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")[ソフト](../Page/ゲームソフト.md "wikilink")。ジャンルは[ロールプレイングゲーム（RPG）](../Page/コンピュータRPG.md "wikilink")。
 
 ## 発売までの経緯
 
@@ -173,7 +173,7 @@
   - 音楽監督・作編曲：[加藤和彦](../Page/加藤和彦.md "wikilink")
   - オーケストラ指揮：[佐渡裕](../Page/佐渡裕.md "wikilink")
   - 演奏：[新日本フィルハーモニー交響楽団](../Page/新日本フィルハーモニー交響楽団.md "wikilink")
-  - 主題歌：『NAMIDA (When Firebirds Cry)』（[サラ・ブライトマン](https://ja.wikipedia.org/wiki/サラ・ブライトマン "wikilink")）
+  - 主題歌：『NAMIDA (When Firebirds Cry)』（[サラ・ブライトマン](../Page/サラ・ブライトマン.md "wikilink")）
   - プロデューサー：木本旬、小栗丈知、三上寛幸、三上哲
   - エグゼクティブプロデューサー：[和気正則](https://ja.wikipedia.org/wiki/和気正則 "wikilink")、[名越康晃](https://ja.wikipedia.org/wiki/名越康晃 "wikilink")
 

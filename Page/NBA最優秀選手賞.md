@@ -408,6 +408,12 @@
 <td><p>1</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>|style="background-color:#aaffff"| <a href="https://ja.wikipedia.org/wiki/ヤニス・アデトクンボ" title="wikilink">ヤニス・アデトクンボ</a></p></td>
+<td><p>ミルウォーキー・バックス</p></td>
+<td><p>2[7]</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -430,3 +436,4 @@
 4.
 5.
 6.
+7.

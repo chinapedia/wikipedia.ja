@@ -42,7 +42,7 @@ DVD2には、[2006年](../Page/2006年.md "wikilink")[12月30日](../Page/12月3
         24thシングル
 2.  **[CAROLS](../Page/CAROLS.md "wikilink")** (5:30)
       -
-        作曲: [Tomoya Kinoshita](https://ja.wikipedia.org/wiki/木下智哉 "wikilink") / 編曲: [CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")
+        作曲: [Tomoya Kinoshita](https://ja.wikipedia.org/wiki/木下智哉 "wikilink") / 編曲: [CMJK](../Page/CMJK.md "wikilink")
         34thシングル
 3.  **[No way to say](../Page/No_way_to_say.md "wikilink")** (4:45)
       -

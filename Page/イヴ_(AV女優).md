@@ -5,7 +5,7 @@
 
 ## 人物
 
-[静岡県](../Page/静岡県.md "wikilink")[田方郡](../Page/田方郡.md "wikilink")出身\[1\]。本名、勝又君枝。[身長](../Page/身長.md "wikilink")160cm・[スリーサイズ](../Page/スリーサイズ.md "wikilink")はB89・W58・H88。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+[静岡県](../Page/静岡県.md "wikilink")[田方郡](../Page/田方郡.md "wikilink")出身\[1\]。本名、勝又君枝。[身長](../Page/身長.md "wikilink")160cm・[スリーサイズ](../Page/スリーサイズ.md "wikilink")はB89・W58・H88。[血液型は](../Page/ABO式血液型.md "wikilink")[O型](../Page/ABO式血液型.md "wikilink")。
 
 [歌舞伎町](../Page/歌舞伎町.md "wikilink")、[ノーパン喫茶嬢出身](https://ja.wikipedia.org/wiki/風俗店の歴史#ノーパン喫茶 "wikilink")\[2\]、[1984年](../Page/1984年.md "wikilink")に[ロマンポルノ](https://ja.wikipedia.org/wiki/ロマンポルノ "wikilink")『イヴちゃんの花びら』で主演デビュー。『[トゥナイト](../Page/トゥナイト_\(テレビ番組\).md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）を始めテレビ番組にもよく取上げられ、**ノーパン喫茶の女王**、**歌舞伎町のアイドル**と称された\[3\]。
 

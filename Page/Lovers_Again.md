@@ -5,7 +5,7 @@
 
 ## 概要
 
-3ヶ月連続シングルリリースの第2弾。「CD+DVD」「CDのみ」の2形態で発売。
+前作「[Everything](../Page/Everything_\(EXILEの曲\).md "wikilink")」から1ヶ月ぶりのシングル。3ヶ月連続シングルリリースの第2弾。「CD+DVD」「CDのみ」の2形態で発売。
 
 表題曲は、メンバーの[TAKAHIROがグループ加入を決めた](https://ja.wikipedia.org/wiki/TAKAHIRO_\(歌手\) "wikilink")2006年開催のEXILE新ボーカルオーディション「[VOCAL BATTLE AUDITION](https://ja.wikipedia.org/wiki/VOCAL_BATTLE_AUDITION#EXILE_VOCAL_BATTLE_AUDITION_2006_〜ASIAN_DREAM〜 "wikilink")」の2次審査課題曲であった\[1\]。
 

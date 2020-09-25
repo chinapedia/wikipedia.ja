@@ -91,11 +91,11 @@
 
 ### 2005年
 
-  - 小雪主演のクリスマスをテーマにしたドラマを中心とした構成。その間に、[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")と[佐藤竹善](../Page/佐藤竹善.md "wikilink")（[SING LIKE TALKING](https://ja.wikipedia.org/wiki/SING_LIKE_TALKING "wikilink")）が共演して[山下達郎](../Page/山下達郎.md "wikilink")の「[クリスマス・イブ](https://ja.wikipedia.org/wiki/クリスマス・イブ_\(山下達郎の曲\) "wikilink")」を披露。[鈴木雅之と](../Page/鈴木雅之_\(歌手\).md "wikilink")[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")は、[としまえん](../Page/としまえん.md "wikilink")のメリーゴーランド「エルドラド」の前で大瀧詠一の「[夢で逢えたら](https://ja.wikipedia.org/wiki/夢で逢えたら_\(大瀧詠一の曲\) "wikilink")」を披露。また[杏子](../Page/杏子_\(ミュージシャン\).md "wikilink")、[山崎まさよし](https://ja.wikipedia.org/wiki/山崎まさよし "wikilink")、[スガシカオ](../Page/スガシカオ.md "wikilink")によるスペシャルユニット「[福耳](../Page/福耳_\(音楽\).md "wikilink")」が再結成されたり[松任谷正隆](../Page/松任谷正隆.md "wikilink")と[Char](../Page/Char.md "wikilink")が30年ぶりにセッションを行ったりするなど、数々の楽曲をこの番組ならではのスペシャルバーションで披露。エンディングには登場アーティストによる[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")の「[HAPPY XMAS（WAR IS OVER）](../Page/ハッピー・クリスマス（戦争は終った）.md "wikilink")」の大合唱もあった。辛島美登里はトリノから「サイレント・イヴ」を熱唱した。
+  - 小雪主演のクリスマスをテーマにしたドラマを中心とした構成。その間に、[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")と[佐藤竹善](../Page/佐藤竹善.md "wikilink")（[SING LIKE TALKING](../Page/SING_LIKE_TALKING.md "wikilink")）が共演して[山下達郎](../Page/山下達郎.md "wikilink")の「[クリスマス・イブ](https://ja.wikipedia.org/wiki/クリスマス・イブ_\(山下達郎の曲\) "wikilink")」を披露。[鈴木雅之と](../Page/鈴木雅之_\(歌手\).md "wikilink")[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")は、[としまえん](../Page/としまえん.md "wikilink")のメリーゴーランド「エルドラド」の前で大瀧詠一の「[夢で逢えたら](https://ja.wikipedia.org/wiki/夢で逢えたら_\(大瀧詠一の曲\) "wikilink")」を披露。また[杏子](../Page/杏子_\(ミュージシャン\).md "wikilink")、[山崎まさよし](https://ja.wikipedia.org/wiki/山崎まさよし "wikilink")、[スガシカオ](../Page/スガシカオ.md "wikilink")によるスペシャルユニット「[福耳](../Page/福耳_\(音楽\).md "wikilink")」が再結成されたり[松任谷正隆](../Page/松任谷正隆.md "wikilink")と[Char](../Page/Char.md "wikilink")が30年ぶりにセッションを行ったりするなど、数々の楽曲をこの番組ならではのスペシャルバーションで披露。エンディングには登場アーティストによる[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")の「[HAPPY XMAS（WAR IS OVER）](../Page/ハッピー・クリスマス（戦争は終った）.md "wikilink")」の大合唱もあった。辛島美登里はトリノから「サイレント・イヴ」を熱唱した。
 
 ### 2006年
 
-  - 前年に引き続き、小雪主演のドラマを中心として音楽を放送する構成。ただし司会者は置かれなかった。[ジャネット・ジャクソン](../Page/ジャネット・ジャクソン.md "wikilink")、[寺尾聰](../Page/寺尾聰.md "wikilink")、[サラ・ブライトマン](https://ja.wikipedia.org/wiki/サラ・ブライトマン "wikilink")、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")、福耳（杏子、[スキマスイッチ](../Page/スキマスイッチ.md "wikilink")、[元ちとせ](https://ja.wikipedia.org/wiki/元ちとせ "wikilink")）などが出演。また[井上陽水](../Page/井上陽水.md "wikilink")と[奥田民生](../Page/奥田民生.md "wikilink")のユニット「井上陽水奥田民生」によるパフォーマンス（同月にこのコンビとして9年ぶりのシングルを発売）やCharと[鮎川誠](../Page/鮎川誠.md "wikilink")による演奏、鈴木雅之が[松浦亜弥](../Page/松浦亜弥.md "wikilink")、[Skoop On Somebodyと](../Page/Skoop_On_Somebody.md "wikilink")「Liberty」「HAPPY XMAS（WAR IS OVER）」を披露。また、竹内まりやがテーマソングとして新曲「クリスマスは一緒に」を提供した。
+  - 前年に引き続き、小雪主演のドラマを中心として音楽を放送する構成。ただし司会者は置かれなかった。[ジャネット・ジャクソン](../Page/ジャネット・ジャクソン.md "wikilink")、[寺尾聰](../Page/寺尾聰.md "wikilink")、[サラ・ブライトマン](../Page/サラ・ブライトマン.md "wikilink")、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")、福耳（杏子、[スキマスイッチ](../Page/スキマスイッチ.md "wikilink")、[元ちとせ](https://ja.wikipedia.org/wiki/元ちとせ "wikilink")）などが出演。また[井上陽水](../Page/井上陽水.md "wikilink")と[奥田民生](../Page/奥田民生.md "wikilink")のユニット「井上陽水奥田民生」によるパフォーマンス（同月にこのコンビとして9年ぶりのシングルを発売）やCharと[鮎川誠](../Page/鮎川誠.md "wikilink")による演奏、鈴木雅之が[松浦亜弥](../Page/松浦亜弥.md "wikilink")、[Skoop On Somebodyと](../Page/Skoop_On_Somebody.md "wikilink")「Liberty」「HAPPY XMAS（WAR IS OVER）」を披露。また、竹内まりやがテーマソングとして新曲「クリスマスは一緒に」を提供した。
 
 ### 2007年
 
@@ -110,7 +110,7 @@
       - [コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink") 「[赤い糸](https://ja.wikipedia.org/wiki/赤い糸_\(コブクロの曲\) "wikilink")」、「[時の足音](https://ja.wikipedia.org/wiki/時の足音 "wikilink")」
       - [絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink") 「[きよしこの夜](../Page/きよしこの夜.md "wikilink")」、「今夜も星に抱かれて…」
       - [広瀬香美](https://ja.wikipedia.org/wiki/広瀬香美 "wikilink") 「[DEAR...again](../Page/DEAR...again.md "wikilink")」
-      - [サラ・ブライトマン](https://ja.wikipedia.org/wiki/サラ・ブライトマン "wikilink") 「HAPPY CHRISTMAS (WAR IS OVER)」、「SYMPHONY」
+      - [サラ・ブライトマン](../Page/サラ・ブライトマン.md "wikilink") 「HAPPY CHRISTMAS (WAR IS OVER)」、「SYMPHONY」
       - [徳永英明](../Page/徳永英明.md "wikilink") 「[レイニー ブルー](https://ja.wikipedia.org/wiki/Rainy_Blue_\(徳永英明の曲\) "wikilink")」、「[雪の華](https://ja.wikipedia.org/wiki/雪の華_\(曲\) "wikilink")」
       - [エンヤ](../Page/エンヤ.md "wikilink") 「Orinico Flow」、「TRAINS AND WINTER RAINS」
 

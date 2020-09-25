@@ -3,7 +3,7 @@
 
 『**REX 恐竜物語**』（レックス きょうりゅうものがたり）は、[1993年](../Page/1993年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")に公開された[日本映画](../Page/日本映画.md "wikilink")である。[安達祐実](../Page/安達祐実.md "wikilink")の映画デビュー作。[キャッチコピー](../Page/キャッチコピー.md "wikilink")は「それは、地球からの贈りもの。レックス。ともだちは、レックス。」。2002年の『[ロード・オブ・ザ・リング](../Page/ロード・オブ・ザ・リング.md "wikilink")』に抜かれるまで[松竹](../Page/松竹.md "wikilink")の歴代[興行収入](../Page/興行収入.md "wikilink")（[配給収入](https://ja.wikipedia.org/wiki/配給収入 "wikilink")）1位だった\[1\]。
 
-[CLAMP](../Page/CLAMP.md "wikilink")により漫画化（[コミカライズ](https://ja.wikipedia.org/wiki/コミカライズ "wikilink")）、[関修一](../Page/関修一.md "wikilink")により絵本化されている。
+[CLAMP](../Page/CLAMP.md "wikilink")により漫画化（[コミカライズ](../Page/コミカライズ.md "wikilink")）、[関修一](../Page/関修一.md "wikilink")により絵本化されている。
 
 ## あらすじ
 

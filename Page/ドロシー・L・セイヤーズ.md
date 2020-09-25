@@ -84,7 +84,23 @@
 
 ### 短編
 
-1.  Suspicion (1931) 『疑惑』 - ノンシリーズのスリラー。新しく雇った料理女が、逃亡中の毒殺魔ではないかと疑う男に迫る恐怖。東京創元社や早川書房など多くのアンソロジーに和訳あり。
+1.  Suspicion (1931) 「疑惑」 - ノンシリーズのスリラー。新しく雇った料理女が、逃亡中の毒殺魔ではないかと疑う男に迫る恐怖。東京創元社や早川書房など多くのアンソロジーに和訳あり。
+2.  The Man Who Knew How (1932) 「殺人法を知っていた男」\[1\] - ノンシリーズのパズラー。浴槽での殺人事件と捜査一課（殺人課）の捜査を描く。
+3.  The Entertaining Episode of the Article in Question (1934) 「文法の問題」 - ミステリ歴史書『クイーンの定員』で有名。女装のギャング首領によるダイヤモンド強奪。[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")の知識がないと解りにくい。
+4.  The Poisoned Dow '08 (1934) 「エッグ君の鼻」 - モンタギュー・エッグもの最初の短編。エッグ探偵はピーター卿と並ぶセイヤーズのシリーズキャラクターだが、日本では余り知られていない。
+
+### 評論
+
+1.  Great Short Stories of Detection, Mystery and Horror (1928) 「探偵小説論」\[2\] - セイヤーズによるミステリ論。古典作品のネタバレも多いため初心者は要注意。
+2.  The Muder of Julia Wallace (1931) 「ジュリア・ウォレス殺し」 - セイヤーズが実在の犯罪事件を推理したもの。
+
+## 脚注
+
+<div class="references-small">
+
+<references />
+
+</div>
 
 ## 参考
 
@@ -95,8 +111,16 @@
   - *Op. I* by Dorothy Sayers (poetry): <http://digital.library.upenn.edu/women/sayers/opi/dls-opi.html>
   - *The Lost Tools of Learning* by Dorothy L. Sayers: <http://www.gbt.org/text/sayers.html>
 
+## 関連項目
+
+  - [推理小説](../Page/推理小説.md "wikilink")
+  - [ピーター・ウィムジイ卿](../Page/ピーター・ウィムジイ卿.md "wikilink")
+
 ## 外部リンク
 
   - [The Dorothy L Sayers Society](http://www.sayers.org.uk/) - セイヤーズ協会（英語）。出版、テレビシリーズの販売も。
 
 [Category:イングランドの小説家](https://ja.wikipedia.org/wiki/Category:イングランドの小説家 "wikilink") [Category:イギリスの推理作家](https://ja.wikipedia.org/wiki/Category:イギリスの推理作家 "wikilink") [Category:イギリスの言語学者](https://ja.wikipedia.org/wiki/Category:イギリスの言語学者 "wikilink") [Category:オックスフォード大学出身の人物](https://ja.wikipedia.org/wiki/Category:オックスフォード大学出身の人物 "wikilink") [Category:オックスフォード出身の人物](https://ja.wikipedia.org/wiki/Category:オックスフォード出身の人物 "wikilink") [Category:1893年生](https://ja.wikipedia.org/wiki/Category:1893年生 "wikilink") [Category:1957年没](https://ja.wikipedia.org/wiki/Category:1957年没 "wikilink")
+
+1.  「新青年'35」など戦前の抄訳では「殺人第一課」。
+2.  研究社出版「推理小説の美学』（'74）などでは「犯罪オムニバス」のタイトル。

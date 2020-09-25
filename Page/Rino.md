@@ -1,7 +1,7 @@
 > この記事は[Rino](https://ja.wikipedia.org/wiki/Rino)から翻訳されています。
 
 
-**rino**（りの、[9月19日](../Page/9月19日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")。[愛媛県](../Page/愛媛県.md "wikilink")出身。[音楽ユニット](../Page/音楽ユニット.md "wikilink")「**[CooRie](../Page/CooRie.md "wikilink")**」の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")。[乙女座](../Page/処女宮.md "wikilink")。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[Lantis](../Page/ランティス.md "wikilink")・Peak A Soul+所属。
+**rino**（りの、[9月19日](../Page/9月19日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")。[愛媛県](../Page/愛媛県.md "wikilink")出身。[音楽ユニット](../Page/音楽ユニット.md "wikilink")「**[CooRie](../Page/CooRie.md "wikilink")**」の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")。[乙女座](../Page/処女宮.md "wikilink")。[血液型は](../Page/ABO式血液型.md "wikilink")[B型](../Page/ABO式血液型.md "wikilink")。[Lantis](../Page/ランティス.md "wikilink")・Peak A Soul+所属。
 
 ## 概要・人物
 

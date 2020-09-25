@@ -8,6 +8,8 @@
 ACMには多くの[SIGが組織されている](https://ja.wikipedia.org/wiki/Association_for_Computing_Machinery#SIG_\(Special_Interest_Group\) "wikilink")。一部のSIGは小規模な「Special Interest Committee（SIC）」として始まり、最初のグループが1961年に組織された。ACMは、カンファレンスで行われる一時的で非公式な（BoF）と呼ばれるグループディスカッションのために、SIG内に支部（subdivision）を組織することをサポートしている\[7\]\[8\]。以下にACM SIGに関する概要を引用する。
 
 > ACM's Special Interest Groups (SIGs) represent major areas of computing, addressing the interests of technical communities that drive innovation. SIGs offer a wealth of conferences, publications and activities focused on specific computing sub-disciplines. They enable members to share expertise, discovery and best practices.\[9\]
+>
+> （ACMのSpecial Interrest Group（SIG）は、コンピュータ科学の主要な分野を代表するもので、イノベーションを促進する技術コミュニティの関心事項に取り組みます。SIGは、コンピュータ科学の特別な専門分野に特化した、多数のカンファレンス、出版物、活動を提供します。それにより、メンバーは経験、発見、ベストプラクティスなどを共有することが可能になります。）
 
 には、芸術からウェブまでのさまざまな分野に関する14のSIGがある\[10\]\[11\]。
 

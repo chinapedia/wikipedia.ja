@@ -118,7 +118,7 @@
 </tr>
 <tr class="odd">
 <td><p>★</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/天野♥こころ" title="wikilink">天野♥こころ</a></p></td>
+<td><p><a href="../Page/天野♥こころ.md" title="wikilink">天野♥こころ</a></p></td>
 <td><p>24時間いつでもどこでもぶっかけザーメン 天野♥こころ(2002-10-5)</p></td>
 </tr>
 <tr class="even">
@@ -929,6 +929,8 @@
   - 林龍太朗
   - 宮門良輔
   - 宮瀬博教\[16\]
+  - 小松(17)
+  - きっしー
 
 <!-- end list -->
 

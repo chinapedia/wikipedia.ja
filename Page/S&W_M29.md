@@ -94,6 +94,8 @@
     [岸谷五朗](../Page/岸谷五朗.md "wikilink")が演じるチャイニーズ・マフィア「劉グループ」幹部の[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")、溝口の愛銃としてヘビーバレルモデルが登場する。
   - 『[バイオハザードII アポカリプス](../Page/バイオハザードII_アポカリプス.md "wikilink")』（2004年）
     マッケンジーがM629を使用する。マッケンジーが死亡した後に[ジル・バレンタイン](https://ja.wikipedia.org/wiki/ジル・バレンタイン "wikilink")に拾われ、使用される。
+  - 『[シューテム・アップ](https://ja.wikipedia.org/wiki/シューテム・アップ "wikilink")』（2007年）
+    ローン・マン（[グレッグ・ブリック](https://ja.wikipedia.org/wiki/グレッグ・ブリック "wikilink")）がM629を使用する。
   - 『[バイオハザードIII](../Page/バイオハザードIII.md "wikilink")』（2007年）
     チェイス・マラヴォイがサイドアームとして所持。メイン武器の[L85](../Page/L85.md "wikilink")が弾切れしたため使用する。
   - 『[バイオハザードV リトリビューション](https://ja.wikipedia.org/wiki/バイオハザードV_リトリビューション "wikilink")』（2012年）

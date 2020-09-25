@@ -1,11 +1,11 @@
 > この記事は[LL・クール・J](https://ja.wikipedia.org/wiki/LL・クール・J)から翻訳されています。
 
 
-**LL・クール・J**（LL Cool J, エルエルクールジェイ、本名**James Todd Smith**、[1968年](../Page/1968年.md "wikilink")[1月14日](../Page/1月14日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ヒップホップMC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")・[俳優](../Page/俳優.md "wikilink")。
+**LL・クール・J**（LL Cool J, エルエルクールジェイ、[1968年](../Page/1968年.md "wikilink")[1月14日](../Page/1月14日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ヒップホップMC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")・[俳優](../Page/俳優.md "wikilink")。本名はジェームズ・トッド・スミス（James Todd Smith）。
 
 ## 略歴
 
-[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")[ウェストチェスターでジェームズ](../Page/ウエストチェスター郡_\(ニューヨーク州\).md "wikilink")・オンドレア夫妻の一人息子として生まれるが、[両親](https://ja.wikipedia.org/wiki/両親 "wikilink")の間で[喧嘩](../Page/喧嘩.md "wikilink")が絶えず、4歳のときに両親は[離婚](../Page/離婚.md "wikilink")。母に引き取られ母の実家のある[ニューヨーク](../Page/ニューヨーク.md "wikilink")[クイーンズ区](../Page/クイーンズ区.md "wikilink")で育つ。教会の[聖歌隊](https://ja.wikipedia.org/wiki/聖歌隊 "wikilink")の一員としての活動、サッカー、[ボーイスカウト](../Page/ボーイスカウト.md "wikilink")などをこなす活発な子供であった。
+[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")[ウェストチェスターでジェームズ](../Page/ウエストチェスター郡_\(ニューヨーク州\).md "wikilink")・オンドレア夫妻の一人息子として生まれるが、両親の間で喧嘩が絶えず、4歳のときに両親は離婚、母に引き取られ母の実家のある[ニューヨーク](../Page/ニューヨーク.md "wikilink")[クイーンズ区](../Page/クイーンズ区.md "wikilink")で育つ。教会の[聖歌隊](https://ja.wikipedia.org/wiki/聖歌隊 "wikilink")の一員としての活動、サッカー、[ボーイスカウト](../Page/ボーイスカウト.md "wikilink")などをこなす活発な子供であった。
 
 [2017年](../Page/2017年.md "wikilink")には、ヒップホップ・ミュージシャン初の[ケネディ・センター名誉賞](https://ja.wikipedia.org/wiki/ケネディ・センター名誉賞 "wikilink")を受賞した\[1\]。
 
@@ -113,7 +113,7 @@
 </tr>
 <tr class="even">
 <td><p>2000</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チャーリーズ・エンジェル_(映画)" title="wikilink">チャーリーズ・エンジェル</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/チャーリーズ・エンジェル_(2000年の映画)" title="wikilink">チャーリーズ・エンジェル</a><br />
 <em>Charlie's Angels</em></p></td>
 <td><p>ミスター・ジェイソン</p></td>
 <td></td>
@@ -266,11 +266,11 @@
 ## 外部リンク
 
   -
-  - [日本コロムビア内サイト](http://columbia.jp/artist-info/llcoolj/index.html)
+  - [日本コロムビア内サイト](https://columbia.jp/artist-info/llcoolj/index.html)
 
   -
   -
-[Category:アフリカ系アメリカ人のミュージシャン](https://ja.wikipedia.org/wiki/Category:アフリカ系アメリカ人のミュージシャン "wikilink") [Category:アメリカ合衆国の男優](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の男優 "wikilink") [Category:アメリカ合衆国のラッパー](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のラッパー "wikilink") [Category:デフ・ジャム・レコーディングスのアーティスト](https://ja.wikipedia.org/wiki/Category:デフ・ジャム・レコーディングスのアーティスト "wikilink") [Category:ニューヨーク州ウエストチェスター郡出身の人物](https://ja.wikipedia.org/wiki/Category:ニューヨーク州ウエストチェスター郡出身の人物 "wikilink") [Category:1968年生](https://ja.wikipedia.org/wiki/Category:1968年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:グラミー賞受賞者](https://ja.wikipedia.org/wiki/Category:グラミー賞受賞者 "wikilink")
+[Category:アフリカ系アメリカ人のミュージシャン](https://ja.wikipedia.org/wiki/Category:アフリカ系アメリカ人のミュージシャン "wikilink") [Category:アメリカ合衆国の男優](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の男優 "wikilink") [Category:アメリカ合衆国のラッパー](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のラッパー "wikilink") [Category:デフ・ジャム・レコーディングスのアーティスト](https://ja.wikipedia.org/wiki/Category:デフ・ジャム・レコーディングスのアーティスト "wikilink") [Category:グラミー賞受賞者](https://ja.wikipedia.org/wiki/Category:グラミー賞受賞者 "wikilink") [Category:ニューヨーク州ウエストチェスター郡出身の人物](https://ja.wikipedia.org/wiki/Category:ニューヨーク州ウエストチェスター郡出身の人物 "wikilink") [Category:1968年生](https://ja.wikipedia.org/wiki/Category:1968年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  [ライオネル・リッチーら5人受賞！ケネディ・センター名誉賞 - ライブドアニュース](https://news.livedoor.com/article/detail/13998297/)
 2.  [「NCIS:LA」のLL・クール・J 宅に侵入して取り押さえられた男　故殺で服役していたことも - ライブドアニュース](https://news.livedoor.com/article/detail/6942229/)

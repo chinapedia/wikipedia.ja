@@ -1,7 +1,7 @@
 > この記事は[Ikuo](https://ja.wikipedia.org/wiki/Ikuo)から翻訳されています。
 
 
-**IKUO** （イクオ、[9月24日](../Page/9月24日.md "wikilink") - ）は、[島根県](../Page/島根県.md "wikilink")[益田市](../Page/益田市.md "wikilink")出身の[男性](../Page/男性.md "wikilink")[ベーシスト](../Page/ベーシスト.md "wikilink")/[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。本名は**渋谷郁央** （しぶたにいくお）である。
+**IKUO** （イクオ、[9月24日](../Page/9月24日.md "wikilink") - ）は、[島根県](../Page/島根県.md "wikilink")[益田市](../Page/益田市.md "wikilink")出身の[男性](../Page/男性.md "wikilink")[ベーシスト](../Page/ベーシスト.md "wikilink")/[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。[A型](../Page/ABO式血液型.md "wikilink")。本名は**渋谷郁央** （しぶたにいくお）である。
 
 ## 経歴
 
@@ -91,14 +91,11 @@
 
 ### コンピレーション
 
-  - 『仮面ライダーファイズソングコレクション』
-  - 2003年11月27日発売 （avex mode）
+  - 『仮面ライダーファイズソングコレクション』-2003年11月27日発売 （avex mode）
       - DELTA STRIP ～White Ring～
-  - 『仮面ライダーファイズ コンプリート CD-BOX Final Call』
-  - 2004年1月15日発売 （avex mode）
+  - 『仮面ライダーファイズ コンプリート CD-BOX Final Call』-2004年1月15日発売 （avex mode）
       - DELTA STRIP ～White Ring～
-  - 『デジモン10th ANNIVERSARY -夢への架け橋-』
-  - 2007年8月1日発売 （インデックスミュージック）
+  - 『デジモン10th ANNIVERSARY -夢への架け橋-』-2007年8月1日発売 （インデックスミュージック）
       - TRY AGAIN\!\!
           - テレビアニメ『デジモンセイバーズ』イメージソング
           - 作詞・作曲・編曲：Ikuo
@@ -139,7 +136,7 @@
   - [Rayflower](https://ja.wikipedia.org/wiki/Rayflower "wikilink")
       -
         Runaway Brain （作曲・編曲）
-        SOCIAL NETWORK GENERATION （作曲・編曲）
+        SOCIAL NETWORK GENERATION （作曲・編曲）ほか
 
 ## サポート・レコーディング
 
@@ -196,6 +193,10 @@
   -
     など
 
+## 出演
+
+  - [狛江FM](../Page/狛江市.md "wikilink")(コマラジ)『IKUOのMAZE OF LIFE』- レギュラーパーソナリティー(2019年11月14日 - )\[2\]
+
 ## 脚注
 
 ### 出典
@@ -222,3 +223,4 @@
 [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:島根県出身の人物](https://ja.wikipedia.org/wiki/Category:島根県出身の人物 "wikilink") [Category:日本のベーシスト](https://ja.wikipedia.org/wiki/Category:日本のベーシスト "wikilink") [Category:日本の男性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ロック歌手 "wikilink") [Category:日本の男性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ポップ歌手 "wikilink") [Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:ヴィジュアル系ミュージシャン](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系ミュージシャン "wikilink")
 
 1.
+2.  <https://m.facebook.com/mazeoflifek/> 番組Facebook

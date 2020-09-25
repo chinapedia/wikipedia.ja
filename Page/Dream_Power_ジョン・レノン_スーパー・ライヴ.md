@@ -195,7 +195,7 @@
 18. MC <small>(愛のメッセージキャンペーンの紹介)</small> - 押葉真吾
 19. [アイ・ノウ](https://ja.wikipedia.org/wiki/アイ・ノウ "wikilink") - 押葉真吾
 20. イマジン <small>(歌詞日本語訳朗読)</small> - 宮沢りえ
-21. [ストロベリー・フィールズ・フォーエバー](../Page/ストロベリー・フィールズ・フォーエバー.md "wikilink") <small>(フィルム上映)</small> <small>(NEWアルバム『[LOVE](https://ja.wikipedia.org/wiki/LOVE_\(ビートルズのアルバム\) "wikilink")』より)</small>
+21. [ストロベリー・フィールズ・フォーエバー](../Page/ストロベリー・フィールズ・フォーエバー.md "wikilink") <small>(フィルム上映)</small> <small>(NEWアルバム『[LOVE](../Page/LOVE_\(ビートルズのアルバム\).md "wikilink")』より)</small>
 22. [ヘルプ\!](../Page/ヘルプ!_\(ビートルズの曲\).md "wikilink") <small>(シングル『Aha\!(All We Want)』カップリング曲バージョン)</small> - LOVE PSYCHEDELICO
 23. [スタンド・バイ・ミー](https://ja.wikipedia.org/wiki/スタンド・バイ・ミー_\(ベン・E・キングの曲\) "wikilink") - LOVE PSYCHEDELICO
 24. [浮気娘](../Page/浮気娘.md "wikilink") - スキマスイッチ

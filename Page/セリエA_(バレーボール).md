@@ -206,4 +206,4 @@
   - [セリエA男子バレーボール 公式サイト](http://www.legavolley.it/)
   - [セリエA女子バレーボール 公式サイト](http://www.legavolleyfemminile.it/)
 
-[Category:バレーボールリーグ](https://ja.wikipedia.org/wiki/Category:バレーボールリーグ "wikilink") [Category:イタリアのバレーボール](https://ja.wikipedia.org/wiki/Category:イタリアのバレーボール "wikilink") [Category:イタリアのスポーツリーグ](https://ja.wikipedia.org/wiki/Category:イタリアのスポーツリーグ "wikilink") [Category:1946年開始のイベント](https://ja.wikipedia.org/wiki/Category:1946年開始のイベント "wikilink")
+[Category:バレーボールリーグ](https://ja.wikipedia.org/wiki/Category:バレーボールリーグ "wikilink") [Category:イタリアのバレーボール](https://ja.wikipedia.org/wiki/Category:イタリアのバレーボール "wikilink") [Category:イタリアのスポーツリーグ](https://ja.wikipedia.org/wiki/Category:イタリアのスポーツリーグ "wikilink") [Category:1946年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1946年開始のスポーツイベント "wikilink")

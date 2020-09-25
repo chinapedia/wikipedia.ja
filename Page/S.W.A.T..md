@@ -66,7 +66,7 @@
 | ソフト版            | [日本テレビ版](../Page/日本テレビ放送網.md "wikilink")                                 |                                                       |
 | ダン・“ホンドー”・ハレルソン | [サミュエル・L・ジャクソン](../Page/サミュエル・L・ジャクソン.md "wikilink")                     | [大塚明夫](../Page/大塚明夫.md "wikilink")                    |
 | ジム・ストリート        | [コリン・ファレル](../Page/コリン・ファレル.md "wikilink")                               | [森川智之](../Page/森川智之.md "wikilink")                    |
-| クリス・サンチェス       | [ミシェル・ロドリゲス](../Page/ミシェル・ロドリゲス.md "wikilink")                           | [朴璐美](https://ja.wikipedia.org/wiki/朴璐美 "wikilink")   |
+| クリス・サンチェス       | [ミシェル・ロドリゲス](../Page/ミシェル・ロドリゲス.md "wikilink")                           | [朴璐美](../Page/朴璐美.md "wikilink")                      |
 | ディーコン・“ディーク”・ケイ | [LL・クール・J](../Page/LL・クール・J.md "wikilink")                               | [山野井仁](../Page/山野井仁.md "wikilink")                    |
 | マイケル・ボクサー       | [ブライアン・ヴァン・ホルト](https://ja.wikipedia.org/wiki/ブライアン・ヴァン・ホルト "wikilink")  | [古田信幸](../Page/古田信幸.md "wikilink")                    |
 | ブライアン・ギャンブル     | [ジェレミー・レナー](https://ja.wikipedia.org/wiki/ジェレミー・レナー "wikilink")          | [高木渉](../Page/高木渉.md "wikilink")                      |

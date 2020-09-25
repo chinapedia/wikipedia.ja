@@ -11,7 +11,7 @@
 
 ストーリーは旧作同様「漢」「戦い」「純愛」が主要テーマとなっている。ワンプレイで攻略し得るヒロインは一人のみで、二股をかけると強制的にバッドエンドになってしまうが、逆に特定のヒロインと結ばれずにストーリーを進めることでのみ辿り着けるエンディングも存在するなど、ゲームとしてもストイックな作りになっている。
 
-アリスソフトの作品としては珍しく[コンシューマー機に](../Page/コンシューマーゲーム.md "wikilink")[移植されている](../Page/移植_\(ソフトウェア\).md "wikilink")。[2002年](../Page/2002年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")にジェネックス社より、『**Only you リベルクルス ドラマCD付**』のタイトルで[PlayStation 2用ソフトとして販売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。『リベルクルス』では、セックスシーンが全面カットされたかわりに、イベントがフルボイスになっており、オープニングやイベントシーンにアニメーションを収録している。また、2003年4月24日にパッケージイラストを一新してゲーム本体のみを再パッケージしたものが、2005年10月20日にBEST HIT セレクション(廉価版)が発売されている。
+アリスソフトの作品としては珍しく[コンシューマー機に](../Page/コンシューマーゲーム.md "wikilink")[移植されている](../Page/移植_\(ソフトウェア\).md "wikilink")。[2002年](../Page/2002年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")にジェネックス社より、『**Only you リベルクルス ドラマCD付**』のタイトルで[PlayStation 2用ソフトとして販売された](../Page/PlayStation_2.md "wikilink")。『リベルクルス』では、セックスシーンが全面カットされたかわりに、イベントがフルボイスになっており、オープニングやイベントシーンにアニメーションを収録している。また、2003年4月24日にパッケージイラストを一新してゲーム本体のみを再パッケージしたものが、2005年10月20日にBEST HIT セレクション(廉価版)が発売されている。
 
 ## 旧作との主な相違点
 
@@ -90,6 +90,6 @@
 ## 外部リンク
 
   - [アリスソフトホームページ](http://www.alicesoft.com/)（年齢確認有）
-  - [リベルクルス公式ページ](http://web.archive.org/web/20110613000403/http://www.generation-x.co.jp/soft/onlyyou/)
+  - [リベルクルス公式ページ](https://web.archive.org/web/20110613000403/http://www.generation-x.co.jp/soft/onlyyou/)
 
 [Category:アリスソフトのゲームソフト](https://ja.wikipedia.org/wiki/Category:アリスソフトのゲームソフト "wikilink") [Category:2001年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2001年のアダルトゲーム "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:リメイクゲーム](https://ja.wikipedia.org/wiki/Category:リメイクゲーム "wikilink")

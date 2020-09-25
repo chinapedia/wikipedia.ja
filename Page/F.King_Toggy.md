@@ -1,7 +1,7 @@
 > この記事は[F.King Toggy](https://ja.wikipedia.org/wiki/F.King_Toggy)から翻訳されています。
 
 
-**F.King Toggy**（**エフ・キング・トギー**、[1967年](../Page/1967年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")-）は[福岡県](../Page/福岡県.md "wikilink")を拠点に活動する[DJ](../Page/ディスクジョッキー.md "wikilink")・[パーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")・[ローカルタレント](../Page/ローカルタレント.md "wikilink")・[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。別名・*' 中洲の山田さん*'（なかすのやまださん）。血液型[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長180cm、体重75kg。
+**F.King Toggy**（**エフ・キング・トギー**、[1967年](../Page/1967年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")-）は[福岡県](../Page/福岡県.md "wikilink")を拠点に活動する[DJ](../Page/ディスクジョッキー.md "wikilink")・[パーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")・[ローカルタレント](../Page/ローカルタレント.md "wikilink")・[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。別名・*' 中洲の山田さん*'（なかすのやまださん）。血液型[A型](../Page/ABO式血液型.md "wikilink")。身長180cm、体重75kg。
 
 ## 略歴
 

@@ -49,6 +49,7 @@
 
   - [TOTALFAT](https://ja.wikipedia.org/wiki/TOTALFAT "wikilink")（[2012年](../Page/2012年.md "wikilink")、トリビュートアルバム『[L'Arc〜en〜Ciel Tribute](https://ja.wikipedia.org/wiki/L'Arc〜en〜Ciel_Tribute "wikilink")』に収録）
   - [緒方恵美](../Page/緒方恵美.md "wikilink") （[2017年](../Page/2017年.md "wikilink")、カバーアルバム『アニメグ。25th』に収録）
+  - [Mary's Blood](https://ja.wikipedia.org/wiki/Mary's_Blood "wikilink") （[2020年](../Page/2020年.md "wikilink")、カバーアルバム『Re\>Animator』に収録）
 
 ## 収録アルバム
 

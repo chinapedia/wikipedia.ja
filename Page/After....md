@@ -7,7 +7,7 @@
 
   - 2003年6月27日 - Windows版発売。
   - 2003年[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink") - 外伝ストーリーとWindows用アクセサリー集を収録したファンディスク『After... -Sweet Kiss-』発売。
-  - [2004年](../Page/2004年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink") - [ドリームキャスト](../Page/ドリームキャスト.md "wikilink")・[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『After... 〜忘れえぬ絆〜』発売。
+  - [2004年](../Page/2004年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink") - [ドリームキャスト](../Page/ドリームキャスト.md "wikilink")・[PlayStation 2版](../Page/PlayStation_2.md "wikilink")『After... 〜忘れえぬ絆〜』発売。
   - [2005年](../Page/2005年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink") - 本編と『After... -Sweet Kiss-』のストーリーパートを収録した廉価版パッケージ『After... Story Edition』発売。
   - [2007年](../Page/2007年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink") - アダルトアニメ版『After... THE ANIMATION』第1章発売。
   - [2007年](../Page/2007年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink") - ダウンロード（Windows Vista対応）版『After...』発売。

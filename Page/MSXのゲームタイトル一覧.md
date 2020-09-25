@@ -2292,7 +2292,7 @@
     [電脳学園](../Page/電脳学園.md "wikilink")シナリオ3トップをねらえ！（11月20日、DISK）
 
   - [カクテルソフト](../Page/カクテル・ソフト.md "wikilink")
-    [きゃんきゃんバニースペリオール](https://ja.wikipedia.org/wiki/きゃんきゃんバニーシリーズ "wikilink")（7月11日、DISK）
+    [きゃんきゃんバニースペリオール](../Page/きゃんきゃんバニーシリーズ.md "wikilink")（7月11日、DISK）
 
     セーラー服戦士フェリス（DISK）
 

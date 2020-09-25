@@ -84,7 +84,7 @@
   - [刑事くん](../Page/刑事くん.md "wikilink") - 1971年および1972年　楽曲使用
   - [太陽にほえろ\!](../Page/太陽にほえろ!.md "wikilink") - 第1話 マカロニ張込みシーンにて『ブルージンの子守唄』が使われた。
 
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:過去の渡辺プロ系列所属者](https://ja.wikipedia.org/wiki/Category:過去の渡辺プロ系列所属者 "wikilink") [Category:ザ・タイガース](https://ja.wikipedia.org/wiki/Category:ザ・タイガース "wikilink") [Category:ザ・スパイダース](https://ja.wikipedia.org/wiki/Category:ザ・スパイダース "wikilink") [Category:1971年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1971年に結成した音楽グループ "wikilink") [Category:1972年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1972年に解散した音楽グループ "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink")
+[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:過去の渡辺プロ系列所属者](https://ja.wikipedia.org/wiki/Category:過去の渡辺プロ系列所属者 "wikilink") [Category:ザ・タイガース](https://ja.wikipedia.org/wiki/Category:ザ・タイガース "wikilink") [Category:ザ・スパイダース](https://ja.wikipedia.org/wiki/Category:ザ・スパイダース "wikilink") [Category:萩原健一](https://ja.wikipedia.org/wiki/Category:萩原健一 "wikilink") [Category:1971年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1971年に結成した音楽グループ "wikilink") [Category:1972年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1972年に解散した音楽グループ "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink")
 
 1.  「モナリザの微笑」「花の首飾り」などがヒット
 2.  「神様お願い」「エメラルドの伝説」などがヒット

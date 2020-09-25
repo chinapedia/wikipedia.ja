@@ -15,7 +15,7 @@
 
 作詞は今まで二人三脚で制作してきた[森雪之丞](../Page/森雪之丞.md "wikilink")から離れ、元[INU](../Page/INU.md "wikilink")のボーカリストであり第123回[芥川賞](https://ja.wikipedia.org/wiki/芥川賞 "wikilink")受賞作家でもある[町田康](../Page/町田康.md "wikilink")、布袋の愛読作家である[小池真理子](../Page/小池真理子.md "wikilink")、[吉田修一](../Page/吉田修一.md "wikilink")といった作家陣、布袋の友人でもある俳優の[豊川悦司](../Page/豊川悦司.md "wikilink")とのコラボレーションで制作された\[2\]。
 
-[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")時代のバンドメイトである[松井常松](../Page/松井常松.md "wikilink")、[そうる透](../Page/そうる透.md "wikilink")、[佐野康夫](../Page/佐野康夫.md "wikilink")等が参加している。
+[BOØWY](../Page/BOØWY.md "wikilink")時代のバンドメイトである[松井常松](../Page/松井常松.md "wikilink")、[そうる透](../Page/そうる透.md "wikilink")、[佐野康夫](../Page/佐野康夫.md "wikilink")等が参加している。
 
 ## 録音
 
@@ -37,7 +37,7 @@ CDにはパソコンで見ることが出来るデータが含まれており、
 
 本作を引っ提げたツアーは『HOTEI ROCK THE FUTURE 2003-2004 DOBERMAN TOUR』と題し、[2003年](../Page/2003年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")の[日本武道館](../Page/日本武道館.md "wikilink")を皮切りに34都市44公演が行われた。またツアー開始前にファンクラブ限定の[ライブハウス](../Page/ライブハウス.md "wikilink")公演『beat crazy presents B.C.D.B.TOUR@club』が3都市5公演行われている。
 
-レコーディングで使用した[デジタル](../Page/デジタル.md "wikilink")・アンプ「zenTera」をツアーでも使用。「zenTera」の[パワーブック](https://ja.wikipedia.org/wiki/パワーブック "wikilink")にセッティングをセーブできる機能を活かし、CDと同等の音質をステージにて再現できることを謳い「**音殺** (音で殺す)」がツアー・コンセプトとして掲げられた。またメイン・ギターが従来のHOTEIモデル「TE-HT」から、今回新たに制作された[ZODIACWORKSの](https://ja.wikipedia.org/wiki/ゾディアック・ワークス "wikilink")[カーボン製ギター](https://ja.wikipedia.org/wiki/炭素繊維強化プラスチック "wikilink")「DARKSTAR」にシフトしている。「TE-HT」を使用していないツアーは[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")時代と[COMPLEX](../Page/COMPLEX.md "wikilink")時代を含めても初であり、現在のところ唯一。
+レコーディングで使用した[デジタル](../Page/デジタル.md "wikilink")・アンプ「zenTera」をツアーでも使用。「zenTera」の[パワーブック](https://ja.wikipedia.org/wiki/パワーブック "wikilink")にセッティングをセーブできる機能を活かし、CDと同等の音質をステージにて再現できることを謳い「**音殺** (音で殺す)」がツアー・コンセプトとして掲げられた。またメイン・ギターが従来のHOTEIモデル「TE-HT」から、今回新たに制作された[ZODIACWORKSの](https://ja.wikipedia.org/wiki/ゾディアック・ワークス "wikilink")[カーボン製ギター](https://ja.wikipedia.org/wiki/炭素繊維強化プラスチック "wikilink")「DARKSTAR」にシフトしている。「TE-HT」を使用していないツアーは[BOØWY](../Page/BOØWY.md "wikilink")時代と[COMPLEX](../Page/COMPLEX.md "wikilink")時代を含めても初であり、現在のところ唯一。
 
 バンドメンバーはレコーディングにも参加した[松井常松](../Page/松井常松.md "wikilink")、渡部充一、[岸利至](../Page/岸利至.md "wikilink")、[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")や[ブルース・スプリングスティーン](https://ja.wikipedia.org/wiki/ブルース・スプリングスティーン "wikilink")等のサポートも務めているザッカリー・アルフォードの4名。全員が前回ツアーと同メンバーであり、ツアーファイナルとなった[2004年](../Page/2004年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")の[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")公演ではこのバンドにてちょうど100ステージ目を迎えている\[4\]。また今回はメンバー全員が[コーラスも兼任した](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。
 リハーサル期間中に[クエンティン・タランティーノ](../Page/クエンティン・タランティーノ.md "wikilink")から[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")での映画『[キル・ビル](../Page/キル・ビル.md "wikilink")』のワールドプレミアに招かれ、出席している。当初はリハーサル中の為、欠席の意を伝えたものの、バンドメンバーから「滅多にない機会だから絶対に行って来い。自分たちだけでやってるから」と背中を押され、最終的に出席する運びとなった\[5\]。
@@ -56,7 +56,7 @@ CDにはパソコンで見ることが出来るデータが含まれており、
 2.  **弾丸ロック**
       -
         [町田康](../Page/町田康.md "wikilink")が作詞で参加。町田は後の布袋作品にも参加している。
-        なお布袋と町田はこれまで面識なかったものの、[1980年代](../Page/1980年代.md "wikilink")にそれぞれ[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")と[INU](../Page/INU.md "wikilink")のメンバーとして[新宿LOFT](https://ja.wikipedia.org/wiki/新宿LOFT "wikilink")を拠点に活動していた\[7\]。
+        なお布袋と町田はこれまで面識なかったものの、[1980年代](../Page/1980年代.md "wikilink")にそれぞれ[BOØWY](../Page/BOØWY.md "wikilink")と[INU](../Page/INU.md "wikilink")のメンバーとして[新宿LOFT](https://ja.wikipedia.org/wiki/新宿LOFT "wikilink")を拠点に活動していた\[7\]。
         発売から3年後の[ヤンキースタジアム公式戦での](../Page/ヤンキー・スタジアム_\(1923年\).md "wikilink")[松井秀喜](https://ja.wikipedia.org/wiki/松井秀喜 "wikilink")のテーマ曲として使用された\[8\]。
 3.  **TWISTED BON VOYAGRE**
 4.  **やるだけやっちまえ！**

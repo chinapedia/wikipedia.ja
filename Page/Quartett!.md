@@ -1,7 +1,7 @@
 > この記事は[Quartett!](https://ja.wikipedia.org/wiki/Quartett!)から翻訳されています。
 
 
-『**Quartett\!**』（カルテット）は[2004年](../Page/2004年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")に[Littlewitch](../Page/Littlewitch.md "wikilink")より発売された[Windows用の](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。[2006年](../Page/2006年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")には[プレイステーション2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**Quartett\! 〜THE STAGE OF LOVE〜**』が発売された。
+『**Quartett\!**』（カルテット）は[2004年](../Page/2004年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")に[Littlewitch](../Page/Littlewitch.md "wikilink")より発売された[Windows用の](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。[2006年](../Page/2006年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")には[プレイステーション2版](../Page/PlayStation_2.md "wikilink")『**Quartett\! 〜THE STAGE OF LOVE〜**』が発売された。
 
 ## 概要
 
@@ -23,7 +23,7 @@
 
 ## キャラクター
 
-＊[声は](../Page/声優.md "wikilink")[PS2版のもの](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+＊[声は](../Page/声優.md "wikilink")[PS2版のもの](../Page/PlayStation_2.md "wikilink")。
 
 ### メインキャラクター
 

@@ -12,7 +12,6 @@ talkプロトコルで不正な形式の情報を送信する"flash"というプ
 ## 関連項目
 
   - [UNIXユーティリティの一覧](https://ja.wikipedia.org/wiki/UNIXユーティリティの一覧 "wikilink")
-  - [write](https://ja.wikipedia.org/wiki/write "wikilink")
-  - [wall](https://ja.wikipedia.org/wiki/wall "wikilink")
+  - [write (UNIX)](https://ja.wikipedia.org/wiki/write_\(UNIX\) "wikilink")
 
 [Category:UNIXのソフトウェア](https://ja.wikipedia.org/wiki/Category:UNIXのソフトウェア "wikilink")

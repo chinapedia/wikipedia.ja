@@ -92,7 +92,7 @@ NTTドコモ、au、ソフトバンクモバイルでは、[コンビニ払い](
 
 ## jigbrowser+
 
-jigブラウザをベースに開発された[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")向けのブラウザ。無料。2012年2月に[Android](../Page/Android.md "wikilink")向け[β版](https://ja.wikipedia.org/wiki/β版 "wikilink")を公開し、同年6月にAndroid・[iOS向け正式版を公開した](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")\[2\]。iOS版は[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")と[iPod touchに対応する](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")（iOS 5が必要）。
+jigブラウザをベースに開発された[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")向けのブラウザ。無料。2012年2月に[Android向け](../Page/Android_\(オペレーティングシステム\).md "wikilink")[β版](https://ja.wikipedia.org/wiki/β版 "wikilink")を公開し、同年6月にAndroid・[iOS向け正式版を公開した](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")\[2\]。iOS版は[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")と[iPod touchに対応する](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")（iOS 5が必要）。
 
 ## 関連項目
 

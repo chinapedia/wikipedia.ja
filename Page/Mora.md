@@ -27,7 +27,7 @@
 
 さらに、2010年前後を境にスマートフォンが普及し、[ウォークマン](../Page/ウォークマン.md "wikilink")にドラッグ&ドロップ転送システムが採用されたこともあり、配信サービスの見直しを余儀なくされ、2012年のリニューアル時よりOpenMG XとATRACフォーマットによる楽曲ファイルでの配信終了とAACでの楽曲配信が開始された。
 
-ただし、AAC採用の動きは[着うた](../Page/着うた.md "wikilink")を開始した当初から見られ、2010年4月から[Android](../Page/Android.md "wikilink")スマートフォン専用サービス「mora touch」を開始した際は、AAC 128kbpsを採用していた\[1\]。2012年10月のリニューアルでmoraと統合された。
+ただし、AAC採用の動きは[着うた](../Page/着うた.md "wikilink")を開始した当初から見られ、2010年4月から[Androidスマートフォン専用サービス](../Page/Android_\(オペレーティングシステム\).md "wikilink")「mora touch」を開始した際は、AAC 128kbpsを採用していた\[1\]。2012年10月のリニューアルでmoraと統合された。
 
 ### 2012年10月以降（全面DRMフリー化）
 
@@ -175,7 +175,7 @@ USB-DACやビットパーフェクト再生（<a href="../Page/ASIO.md" title="w
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Android.md" title="wikilink">Android</a>アプリ</p></td>
+<td><p><a href="../Page/Android_(オペレーティングシステム).md" title="wikilink">Androidアプリ</a></p></td>
 <td><p>Android端末を利用している場合。<a href="https://ja.wikipedia.org/wiki/Google_Play" title="wikilink">Google Playからのダウンロードが必要</a>。<br />
 ハイレゾは対応機種が限られる。<br />
 拡張子は、Android搭載ウォークマンの場合は上段、それ以外のAndroid端末の場合は下段。</p></td>

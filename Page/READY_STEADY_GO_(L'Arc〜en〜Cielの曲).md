@@ -57,9 +57,10 @@
 ## カバー
 
   - [柿原徹也](https://ja.wikipedia.org/wiki/柿原徹也 "wikilink") - 2007年、コンピレーションアルバム『[百歌声爛 男性声優編](https://ja.wikipedia.org/wiki/百歌声爛 "wikilink")』に収録。
-  - [朴璐美](https://ja.wikipedia.org/wiki/朴璐美 "wikilink") - 2008年、コンピレーションアルバム『百歌声爛 女性声優編II』に収録。
+  - [朴璐美](../Page/朴璐美.md "wikilink") - 2008年、コンピレーションアルバム『百歌声爛 女性声優編II』に収録。
   - [ZEBRAHEAD](../Page/ゼブラヘッド.md "wikilink") - 2012年、トリビュートアルバム『[L'Arc〜en〜Ciel Tribute](https://ja.wikipedia.org/wiki/L'Arc〜en〜Ciel_Tribute "wikilink")』に初収録\[6\]。
   - [Afterglow](https://ja.wikipedia.org/wiki/BanG_Dream!の登場人物#Afterglow "wikilink")［美竹蘭（[佐倉綾音](https://ja.wikipedia.org/wiki/佐倉綾音 "wikilink")） / コーラス：宇田川巴（[日笠陽子](https://ja.wikipedia.org/wiki/日笠陽子 "wikilink")）］ - 2017年10月27日にゲーム『[バンドリ\! ガールズバンドパーティ\!](https://ja.wikipedia.org/wiki/バンドリ!_ガールズバンドパーティ! "wikilink")』に追加収録。音源としては2018年6月27日発売の『バンドリ！ ガールズバンドパーティ！ カバーコレクション Vol.1』で初収録。
+  - JEALOUS［LOKI.（[森久保祥太郎](../Page/森久保祥太郎.md "wikilink")）］ - 2020年、シングル『LOVE JACKAL君だけE.P』に収録。
 
 ## 収録アルバム
 

@@ -1,7 +1,7 @@
 > この記事は[SHEILA](https://ja.wikipedia.org/wiki/SHEILA)から翻訳されています。
 
 
-**SHEILA**（シェイラ、[1973年](../Page/1973年.md "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink") - ）は、[ファッションモデル](../Page/ファッションモデル.md "wikilink")・[タレント](../Page/タレント.md "wikilink")・[スポーツキャスター](https://ja.wikipedia.org/wiki/スポーツキャスター "wikilink")・[女優](../Page/俳優.md "wikilink")。所属[事務所は](../Page/芸能事務所.md "wikilink")[ホリプロ](../Page/ホリプロ.md "wikilink")。[キューバ](../Page/キューバ.md "wikilink")出身。父親が日本人（[鹿児島県](../Page/鹿児島県.md "wikilink")[枕崎市](../Page/枕崎市.md "wikilink")出身）で母親がキューバ人。弟はZyo（ジョー）である。[身長](../Page/身長.md "wikilink")164cm、[血液型はO型で](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[左利き](../Page/左利き.md "wikilink")。
+**SHEILA**（シェイラ、[1973年](../Page/1973年.md "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink") - ）は、[ファッションモデル](../Page/ファッションモデル.md "wikilink")・[タレント](../Page/タレント.md "wikilink")・[スポーツキャスター](https://ja.wikipedia.org/wiki/スポーツキャスター "wikilink")・[女優](../Page/俳優.md "wikilink")。所属[事務所は](../Page/芸能事務所.md "wikilink")[ホリプロ](../Page/ホリプロ.md "wikilink")。[キューバ](../Page/キューバ.md "wikilink")出身。父親が日本人（[鹿児島県](../Page/鹿児島県.md "wikilink")[枕崎市](../Page/枕崎市.md "wikilink")出身）で母親がキューバ人。弟はZyo（ジョー）である。[身長](../Page/身長.md "wikilink")164cm、[血液型はO型で](../Page/ABO式血液型.md "wikilink")[左利き](../Page/左利き.md "wikilink")。
 
 ## 来歴
 
@@ -14,7 +14,10 @@
   - 『[ロンドンハーツ](../Page/ロンドンハーツ.md "wikilink")』初登場となった「オシャレゲート」のコーナーでは、辛口ファッションチェックの[ドン小西にちなんで](../Page/小西良幸.md "wikilink")「**ドンSHEILA**」と言われ的確なファッションアドバイスが好評でイベントなどの依頼が多い。
   - 小学生の頃から大の[スヌーピー](../Page/スヌーピー.md "wikilink")ファンで、同作品の翻訳を手がける[谷川俊太郎](../Page/谷川俊太郎.md "wikilink")に認められ、タレントとしては初となるニューブランド、「SNOOPY Star★d'or」を立ち上げスヌーピーの大人向けアクセサリーやその他のアイテムを多数手がける。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")2月4日にウエディングドレスとカクテルドレスをデザインしたブランド「Feliz　boda」を発表。
-  - [2009年](../Page/2009年.md "wikilink")7月8日に会社役員の一般男性（１歳年下）と11年の交際を実らせて結婚。その後[2011年](../Page/2011年.md "wikilink")10月に妊娠5か月であることを発表した。[2013年](../Page/2013年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に第2子長男を出産した後は[尿漏れ](https://ja.wikipedia.org/wiki/尿漏れ "wikilink")が酷く、[トランポリン](../Page/トランポリン.md "wikilink")した時に、びっくりするぐらいジャーッっと漏れたことがあり、日常生活でもくしゃみや子供を抱くとチョロっと漏れ、蛇口のように出るなど全く制御が効かないことをテレビで打ち明けた\[1\]。
+
+<!-- end list -->
+
+  - [2009年](../Page/2009年.md "wikilink")7月8日に会社役員の一般男性（１歳年下）と11年の交際を実らせて結婚。その後[2011年](../Page/2011年.md "wikilink")10月に妊娠5か月であることを発表した。[2013年](../Page/2013年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に第2子長男を出産した後は[尿漏れが酷く](../Page/尿失禁.md "wikilink")、[トランポリン](../Page/トランポリン.md "wikilink")した時に、びっくりするぐらいジャーッっと漏れたことがあり、日常生活でもくしゃみや子供を抱くとチョロっと漏れ、蛇口のように出るなど全く制御が効かないことをテレビで打ち明けた\[1\]。
 
 <!-- end list -->
 

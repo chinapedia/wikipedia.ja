@@ -46,7 +46,7 @@
   - [キングレコード](../Page/キングレコード.md "wikilink")所属の[バンドグループ](../Page/バンド_\(音楽\).md "wikilink")・[angelaの](../Page/Angela_\(音楽ユニット\).md "wikilink")[2006年](../Page/2006年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")発売の[ミニアルバム](../Page/アルバム.md "wikilink")「ドラマ『[ライオン丸G](../Page/ライオン丸G.md "wikilink")』トリビュートミニアルバム 〜[新宿狂詩曲](https://ja.wikipedia.org/wiki/新宿狂詩曲 "wikilink")〜」のスタッフに「超ハンドクラップ隊 Rice<sup>5</sup>」という表記が確認されている。こちらも、今回のエンディングの件との関連性は不明である。
   - 放送翌日にある有志が電話で問い合わせたところ、担当者から「[声優](../Page/声優.md "wikilink")は含まれていない」と回答が返ってきたとのことである。
   - 啓太役の[福山潤](../Page/福山潤.md "wikilink")がラジオ関西の番組「[青春ラジメニア](../Page/青春ラジメニア.md "wikilink")」に出演した際、当ユニットについて語っている。それによると、Rice<sup>5</sup>については関係各所にどこまで明かしてよいか確認を取っていないため語れないようであったが、すーぱーぞうさんずについてはテレビアニメ『いぬかみっ\!』の製作スタッフであるらしい。何れも「普段は表に出てくることのない人」ということらしく、やはり[声優](../Page/声優.md "wikilink")は含まれていないようだ。同時に『友情物語・男子 (?) バージョン』が初めてテレビ放映された際に「何で呼んでくれなかったんですか\!?」と漏らしたということも明かしている。
-  - 『[Aice<sup>5</sup> In Wonder RADIO](../Page/Aice5_In_Wonder_RADIO.md "wikilink")』2007年07月13日配信分によると、Rice<sup>5</sup>のメンバーは全員[メガネで](../Page/眼鏡.md "wikilink")[血液型はB型であるらしい](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+  - 『[Aice<sup>5</sup> In Wonder RADIO](../Page/Aice5_In_Wonder_RADIO.md "wikilink")』2007年07月13日配信分によると、Rice<sup>5</sup>のメンバーは全員[メガネで](../Page/眼鏡.md "wikilink")[血液型はB型であるらしい](../Page/ABO式血液型.md "wikilink")。
 
 ## 脚注
 

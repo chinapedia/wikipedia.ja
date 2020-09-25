@@ -600,7 +600,7 @@ SGLP-1:LP</p></td>
 </tr>
 <tr class="even">
 <td><p>2003年12月24日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/BOØWY_Respect" title="wikilink">BOØWY Respect</a></strong></p></td>
+<td><p><strong><a href="../Page/BOØWY_Respect.md" title="wikilink">BOØWY Respect</a></strong></p></td>
 <td><p>FLCF-3994</p></td>
 <td><p>18.ENDLESS（SENSHO1500 from smorgas）</p></td>
 </tr>

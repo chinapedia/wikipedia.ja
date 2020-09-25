@@ -10,7 +10,7 @@ __NOTOC__  **eDRAM**(Embedded DRAM)、**混載DRAM**は、メインの[ASIC](../
 ## 「eDRAM」を搭載しているプロセッサ
 
   - [IBM](../Page/IBM.md "wikilink") - [POWER7](https://ja.wikipedia.org/wiki/POWER7 "wikilink")
-  - [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink") - [Core i7](https://ja.wikipedia.org/wiki/Intel_Core_i7 "wikilink") (第4世代以降)、 [Core i5](https://ja.wikipedia.org/wiki/Intel_Core_i5 "wikilink") (第5世代以降)、 [Core i3](https://ja.wikipedia.org/wiki/Intel_Core_i3 "wikilink") (第6世代以降)のIris搭載一部CPU
+  - [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink") - [Core i7](https://ja.wikipedia.org/wiki/Intel_Core_i7 "wikilink") (第4世代以降)、 [Core i5](https://ja.wikipedia.org/wiki/Intel_Core_i5 "wikilink") (第5世代以降)、 [Core i3](https://ja.wikipedia.org/wiki/Intel_Core_i3 "wikilink") (第6世代以降)のIris搭載一部CPU\[1\]
 
 ## 「eDRAM」を搭載している機器
 
@@ -18,7 +18,7 @@ __NOTOC__  **eDRAM**(Embedded DRAM)、**混載DRAM**は、メインの[ASIC](../
 
 <!-- end list -->
 
-  - [ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink") - [PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")
+  - [ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink") - [PlayStation 2](../Page/PlayStation_2.md "wikilink")、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")
   - [任天堂](../Page/任天堂.md "wikilink") - [Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、[ゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")
   - [マイクロソフト](../Page/マイクロソフト.md "wikilink") - [Xbox 360](../Page/Xbox_360.md "wikilink")
 
@@ -34,6 +34,8 @@ __NOTOC__  **eDRAM**(Embedded DRAM)、**混載DRAM**は、メインの[ASIC](../
 
 ## 脚注
 
+<references group="脚注"/>
+
 ## 出典
 
 ## 関連項目
@@ -48,3 +50,5 @@ __NOTOC__  **eDRAM**(Embedded DRAM)、**混載DRAM**は、メインの[ASIC](../
   - \[<http://www.intel.co.jp>　インテル株式会社　- ホームページ\]
 
 [Category:半導体メモリ](https://ja.wikipedia.org/wiki/Category:半導体メモリ "wikilink")
+
+1.  「Intel Iris (Plus) Graphics xxx」（xxxの中には任意の数字が入る）という表記で、Grahicsの表記の後に数字が入るIrisがeDRAM搭載となる。数字のないIrisはeDRAM非搭載。

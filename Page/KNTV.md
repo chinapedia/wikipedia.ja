@@ -61,8 +61,8 @@
 ## 関連項目
 
   - [スカパー\! チャンネル一覧](../Page/スカパー!_チャンネル一覧.md "wikilink")
-  - [文化放送(MBC)](../Page/文化放送_\(韓国\).md "wikilink")
-  - [SBS (韓国)](../Page/SBS_\(韓国\).md "wikilink")
+  - [文化放送（MBC）](../Page/文化放送_\(韓国\).md "wikilink")
+  - [SBS（韓国）](../Page/SBS_\(韓国\).md "wikilink")
   - [MTVジャパン](../Page/MTVジャパン.md "wikilink") - 社長の沼倉重夫は一時期KNTV社長を兼務
 
 ## 脚注

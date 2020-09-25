@@ -3,7 +3,7 @@
 
 『**FESTA\!\! -HYPER GIRLS POP-**』（フェスタ\!\! -ハイパーガールズポップ-）は、[2005年](../Page/2005年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")に発売された[Lass](../Page/Lass.md "wikilink")の第3作目の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ソフト。
 
-[2006年](../Page/2006年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")には新キャラクター「黒田七海」やCGを追加した[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**FESTA\!\! -HYPER GIRLS PARTY-**』（**フェスタ\!\! -ハイパーガールズパーティー-**）が[KIDより発売された](../Page/KID_\(ゲームブランド\).md "wikilink")。本作がLassにとっては初めてコンシューマ機への移植作であり尚且つ初の全年齢仕様での移植がされた作品となった。
+[2006年](../Page/2006年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")には新キャラクター「黒田七海」やCGを追加した[PlayStation 2版](../Page/PlayStation_2.md "wikilink")『**FESTA\!\! -HYPER GIRLS PARTY-**』（**フェスタ\!\! -ハイパーガールズパーティー-**）が[KIDより発売された](../Page/KID_\(ゲームブランド\).md "wikilink")。本作がLassにとっては初めてコンシューマ機への移植作であり尚且つ初の全年齢仕様での移植がされた作品となった。
 
 シナリオを細かいショートストーリーに分け、それを選択する「ストーリースティック」というシステムを採用している。選択するストーリーによって、攻略対象となるキャラが決まっていく形になっている。
 

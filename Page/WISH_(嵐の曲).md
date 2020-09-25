@@ -7,7 +7,7 @@
 
 前作「[サクラ咲ケ](../Page/サクラ咲ケ.md "wikilink")」から約8か月ぶりのリリース。前作との間のリリース間隔が当時としては歴代最長であった。
 
-楽曲はメンバーの[松本潤](../Page/松本潤.md "wikilink")が主演したTBS系ドラマ『[花より男子](https://ja.wikipedia.org/wiki/花より男子 "wikilink")』主題歌に用いられた。シークレットトークの時間は過去最大の45分。PVの監督は、直（ちょく）。
+楽曲はメンバーの[松本潤](../Page/松本潤.md "wikilink")が出演したTBS系ドラマ『[花より男子](https://ja.wikipedia.org/wiki/花より男子 "wikilink")』(主演:井上真央)主題歌に用いられた。シークレットトークの時間は過去最大の45分。PVの監督は、直（ちょく）。
 
 『[ARASHI Anniversary Tour 5×10](https://ja.wikipedia.org/wiki/ARASHI_Anniversary_Tour_5×10 "wikilink")』では松本がソロで歌った。
 

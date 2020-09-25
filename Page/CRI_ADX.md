@@ -7,7 +7,7 @@
 
 主に[ゲームソフト](../Page/ゲームソフト.md "wikilink")等に用いられる独自[コーデック](../Page/コーデック.md "wikilink")で、音声ファイルを通常の10～25%程度に[圧縮できるとしている](../Page/データ圧縮.md "wikilink")。
 
-[Windowsや](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")、[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")、[Xbox](../Page/Xbox_\(ゲーム機\).md "wikilink")、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")、[Xbox 360](../Page/Xbox_360.md "wikilink")、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")など様々なプラットフォームに対応することによって、1,000以上の家庭用ゲームタイトルに採用されている。
+[Windowsや](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")、[PlayStation 2](../Page/PlayStation_2.md "wikilink")、[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")、[Xbox](../Page/Xbox_\(ゲーム機\).md "wikilink")、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")、[Xbox 360](../Page/Xbox_360.md "wikilink")、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")など様々なプラットフォームに対応することによって、1,000以上の家庭用ゲームタイトルに採用されている。
 
 また、『[ムシキング](https://ja.wikipedia.org/wiki/ムシキング "wikilink")』や『[THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")』など、[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")での採用事例もある。
 

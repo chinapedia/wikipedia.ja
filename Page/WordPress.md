@@ -30,7 +30,7 @@ WordPressの[テンプレート](../Page/テンプレート.md "wikilink")はす
 
 WordPressは[gettext](https://ja.wikipedia.org/wiki/gettext "wikilink")を利用した[i18n](../Page/国際化と地域化.md "wikilink") (internationalization) をサポートしている。では日本語を含む160以上の地域と言語のプロジェクトが進められており、その半数以上の地域と言語ではコアのほとんどまたは全ての地域化がなされている。同サイトではWordPressのコア以外にもWordPress.orgの各地域・言語毎のサイトやプラグインディレクトリ、テーマディレクトリに掲載されているプラグインやテーマの翻訳なども行われている。
 
-[RTLのような特殊な言語への対応や](https://ja.wikipedia.org/wiki/:en:Right-to-left "wikilink")[CJK圏などにおいて単語数ではなく文字数でカウントするような言語事情考慮も行われるようになっているが](../Page/CJKV.md "wikilink")、対応不十分な部分があるため[日本語](../Page/日本語.md "wikilink")版や[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")（[簡体字](https://ja.wikipedia.org/wiki/簡体字 "wikilink")）版などの一部のパッケージでは[パッチ](../Page/パッチ.md "wikilink")プラグインを同梱しているものがある\[3\]。なお、こういったプラグインの有無を除けば英語版とローカライズ版の違いはほぼ言語ファイルの有無のみである\[4\]。
+[RTLのような特殊な言語への対応や](https://ja.wikipedia.org/wiki/:en:Right-to-left "wikilink")[CJK圏などにおいて単語数ではなく文字数でカウントするような言語事情考慮も行われるようになっているが](../Page/CJKV.md "wikilink")、対応不十分な部分があるため[日本語](../Page/日本語.md "wikilink")版や[中国語](../Page/中国語.md "wikilink")（[簡体字](https://ja.wikipedia.org/wiki/簡体字 "wikilink")）版などの一部のパッケージでは[パッチ](../Page/パッチ.md "wikilink")プラグインを同梱しているものがある\[3\]。なお、こういったプラグインの有無を除けば英語版とローカライズ版の違いはほぼ言語ファイルの有無のみである\[4\]。
 
 ### 動作環境
 

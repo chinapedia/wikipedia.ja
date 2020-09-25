@@ -7,7 +7,7 @@
 
 開発はタイトー大阪研究所が行い、ゲーム・デザインは『[オペレーションサンダーボルト](../Page/オペレーションサンダーボルト.md "wikilink")』（1988年）を手掛けた酒匂弘幸が担当し、音楽は[ゴダイゴ](../Page/ゴダイゴ.md "wikilink")のギタリストである[浅野孝已](../Page/浅野孝已.md "wikilink")が担当している。
 
-欧州にて各種ホビーパソコンに移植された他、[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")や[PCエンジン](../Page/PCエンジン.md "wikilink")等の家庭用ゲーム機、[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")や[ゲームギア](../Page/ゲームギア.md "wikilink")等の携帯型ゲーム機、[FM TOWNS](../Page/FM_TOWNS.md "wikilink")、[X68000](https://ja.wikipedia.org/wiki/X68000 "wikilink")等の日本国産パソコン等にも移植された。アレンジ移植版としては、[メガドライブ](../Page/メガドライブ.md "wikilink")用ソフト『**スーパーH.Q.**』（[1992年](../Page/1992年.md "wikilink")）や[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用ソフト『**スーパーH.Q. クリミナルチェイサー**』（[1993年](../Page/1993年.md "wikilink")）等が発売された。[2004年](../Page/2004年.md "wikilink")以降は[携帯電話ゲーム](../Page/携帯電話ゲーム.md "wikilink")として『**CHASE H.Q. 3D**』が配信された。アーケード版は[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**[タイトーメモリーズ 下巻](../Page/タイトーメモリーズ.md "wikilink")II**』（[2007年](../Page/2007年.md "wikilink")）に収録され、PCエンジン版は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ソフトとして[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")にて配信された。
+欧州にて各種ホビーパソコンに移植された他、[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")や[PCエンジン](../Page/PCエンジン.md "wikilink")等の家庭用ゲーム機、[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")や[ゲームギア](../Page/ゲームギア.md "wikilink")等の携帯型ゲーム機、[FM TOWNS](../Page/FM_TOWNS.md "wikilink")、[X68000](https://ja.wikipedia.org/wiki/X68000 "wikilink")等の日本国産パソコン等にも移植された。アレンジ移植版としては、[メガドライブ](../Page/メガドライブ.md "wikilink")用ソフト『**スーパーH.Q.**』（[1992年](../Page/1992年.md "wikilink")）や[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用ソフト『**スーパーH.Q. クリミナルチェイサー**』（[1993年](../Page/1993年.md "wikilink")）等が発売された。[2004年](../Page/2004年.md "wikilink")以降は[携帯電話ゲーム](../Page/携帯電話ゲーム.md "wikilink")として『**CHASE H.Q. 3D**』が配信された。アーケード版は[PlayStation 2用ソフト](../Page/PlayStation_2.md "wikilink")『**[タイトーメモリーズ 下巻](../Page/タイトーメモリーズ.md "wikilink")II**』（[2007年](../Page/2007年.md "wikilink")）に収録され、PCエンジン版は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ソフトとして[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")にて配信された。
 
 PCエンジン版はゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」にてシルバー殿堂入りを獲得した。
 
@@ -243,7 +243,7 @@ I.T.L.</p></td>
 <td><p>18</p></td>
 <td><p><a href="../Page/タイトーメモリーズ.md" title="wikilink">タイトーメモリーズ 下巻</a>II</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2</a></p></td>
+<td><p><a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a></p></td>
 <td><p>タイトー</p></td>
 <td><p>タイトー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/DVD-ROM" title="wikilink">DVD-ROM</a></p></td>

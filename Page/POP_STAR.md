@@ -15,6 +15,25 @@
 
 ## 収録曲
 
+## 演奏
+
+**POP STAR**
+
+  - [亀田誠治](../Page/亀田誠治.md "wikilink")：Produce, Arrangement, Bass
+  - [中西康晴](../Page/中西康晴.md "wikilink")：Piano
+  - [石成正人](https://ja.wikipedia.org/wiki/石成正人 "wikilink")：Guitar
+  - [弦一徹](https://ja.wikipedia.org/wiki/弦一徹 "wikilink")ストリングス：Strings
+  - [飯田高広](https://ja.wikipedia.org/wiki/飯田高広 "wikilink")：Synthesizer
+
+**ため息キップ**
+
+  - [松浦晃久](https://ja.wikipedia.org/wiki/松浦晃久 "wikilink")：Produce, Arrangement, Piano
+  - [石成正人](https://ja.wikipedia.org/wiki/石成正人 "wikilink")：Guitar
+  - [美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink")：Bass
+  - [Armin Takeshi Linzbichler](https://ja.wikipedia.org/wiki/Armin_Takeshi_Linzbichler "wikilink")：Drums
+  - [朝川朋之](../Page/朝川朋之.md "wikilink")：Harp
+  - [小池弘之](https://ja.wikipedia.org/wiki/小池弘之 "wikilink")ストリングス：Strings
+
 ## 「POP STAR」が収録された音楽シミュレーションゲーム
 
 収録されているものは基本的に、歌い手が異なるカバーバージョンとなっている。

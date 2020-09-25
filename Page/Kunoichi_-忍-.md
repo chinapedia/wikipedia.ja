@@ -1,7 +1,7 @@
 > この記事は[Kunoichi -忍-](https://ja.wikipedia.org/wiki/Kunoichi_-忍-)から翻訳されています。
 
 
-『**Kunoichi -忍-**』（くのいち）は、[2003年](../Page/2003年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")にセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）から発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")。『[Shinobi](../Page/Shinobi.md "wikilink") -忍-』の続編に当たる。 主人公である緋花を使い、華麗な連撃により敵を倒すゲーム。
+『**Kunoichi -忍-**』（くのいち）は、[2003年](../Page/2003年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")にセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）から発売された[PlayStation 2用](../Page/PlayStation_2.md "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")。『[Shinobi](../Page/Shinobi.md "wikilink") -忍-』の続編に当たる。 主人公である緋花を使い、華麗な連撃により敵を倒すゲーム。
 
 ## 内容
 

@@ -30,6 +30,7 @@
         歌詞は、女性目線で書かれた男女の恋愛を歌うラブソングであり、無防備で不器用でピュアな信頼関係を描いている\[2\]。
         2004年発売の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[KinKi Single Selection II](../Page/KinKi_Single_Selection_II.md "wikilink")』に唯一c/wから選曲されているほか、さらに3年後のベスト・アルバム『[39](../Page/39_\(KinKi_Kidsのアルバム\).md "wikilink")』にはファン投票第1位楽曲として収録された。
         アルバム『[F album](../Page/F_album.md "wikilink")』にはアコースティック・バージョンとして、『[M album](https://ja.wikipedia.org/wiki/M_album "wikilink")(通常盤)』には「Memories＆Moments」というコンセプトのもと、リテイクされたものがそれぞれ収録されている。
+        KinKi Kidsの二人は後日、「ターニングポイントとなった曲」として、1997年に発表したデビュー曲『[硝子の少年](../Page/硝子の少年.md "wikilink")』とこの曲の2曲を挙げている\[3\]
         出版：ジャニーズ出版
 3.  **Hey\! みんな元気かい? (Instrumental)**
 4.  **愛のかたまり (Instrumental)**
@@ -83,3 +84,4 @@
 
 1.  [KinKi Kids、デビュー時の“苦難”乗り越えて受賞\!](http://www.oricon.co.jp/news/22611/full/) オリコン 2015年12月25日閲覧
 2.  [【コラム】名曲しかないKinKi Kidsのバラードベストは、まるでふたりの心の結びつきを映す鏡だ](http://sp.ro69.jp/news/detail/154541) RO69 2017年1月15日閲覧
+3.

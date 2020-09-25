@@ -3,7 +3,7 @@
 
 『**BALDR FORCE**』（バルドフォース）は、[戯画が発売した](../Page/戯画_\(ブランド\).md "wikilink")[18禁](https://ja.wikipedia.org/wiki/成人向け "wikilink")[PCアダルトゲームである](../Page/アダルトゲーム.md "wikilink")。ジャンルはオリジナルロボット[アクションアドベンチャーゲーム](../Page/アクションアドベンチャーゲーム.md "wikilink")。
 
-後に[アルケミストによって](../Page/アルケミスト_\(企業\).md "wikilink")『**BALDR FORCE EXE**』（バルドフォースエグゼ）が[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")、[PlayStation 2に移植されている](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+後に[アルケミストによって](../Page/アルケミスト_\(企業\).md "wikilink")『**BALDR FORCE EXE**』（バルドフォースエグゼ）が[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")、[PlayStation 2に移植されている](../Page/PlayStation_2.md "wikilink")。
 
 ## ストーリー
 

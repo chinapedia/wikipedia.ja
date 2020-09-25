@@ -8,7 +8,7 @@
 
 </div>
 
-**ガザC**（ガザ・シー、*GAZA-C*）は、「[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")」に登場する架空の兵器。[有人操縦式の人型ロボット兵器](../Page/架空のロボット兵器の一覧.md "wikilink")「**[モビルスーツ](../Page/モビルスーツ.md "wikilink")**」(MS)の一つ。初出は、1985年放送の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[機動戦士Ζガンダム](https://ja.wikipedia.org/wiki/機動戦士Ζガンダム "wikilink")』。
+**ガザC**（ガザ・シー、*GAZA-C*）は、「[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")」に登場する架空の兵器。有人操縦式の人型[ロボット兵器](https://ja.wikipedia.org/wiki/ロボット兵器 "wikilink")「**[モビルスーツ](../Page/モビルスーツ.md "wikilink")**」(MS)の一つ。初出は、1985年放送の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[機動戦士Ζガンダム](https://ja.wikipedia.org/wiki/機動戦士Ζガンダム "wikilink")』。
 
 作中の軍事勢力の一つ[「アクシズ」(のちのネオ・ジオン軍)の量産機](https://ja.wikipedia.org/wiki/ネオ・ジオン#アクシズ（ネオ・ジオン） "wikilink")。通常の人型を外れた独特の形状が特徴で、鳥のような両脚を持つ砲撃形態に変形する[可変MS](../Page/可変モビルスーツ.md "wikilink") (TMS)。作業機を改造しているため性能は低いが、集団を組んでの砲撃戦では高い威力を発揮する。
 

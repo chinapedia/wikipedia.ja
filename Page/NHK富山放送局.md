@@ -211,12 +211,13 @@
 <tr class="even">
 <td><p><a href="../Page/鹿沼健介.md" title="wikilink">鹿沼健介</a></p></td>
 <td><p><a href="../Page/NHK佐賀放送局.md" title="wikilink">佐賀</a></p></td>
-<td><p>富山県のニュース</p></td>
+<td><p>放送部副部長<br />
+富山県のニュース</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/齋藤湧希" title="wikilink">齋藤湧希</a></p></td>
 <td><p><strong>初任地</strong></p></td>
-<td></td>
+<td><p>富山県のニュース</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/柴田拡正" title="wikilink">柴田拡正</a></p></td>

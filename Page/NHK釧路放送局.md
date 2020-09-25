@@ -264,13 +264,13 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/鈴木貴彦" title="wikilink">鈴木貴彦</a></p></td>
-<td><p><a href="../Page/NHK札幌放送局.md" title="wikilink">札幌</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/小山凌" title="wikilink">小山凌</a></p></td>
+<td><p><a href="../Page/NHK鹿児島放送局.md" title="wikilink">鹿児島</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ほっとニュース北海道" title="wikilink">ほっとニュース北海道 釧路</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/小山凌" title="wikilink">小山凌</a></p></td>
-<td><p><a href="../Page/NHK鹿児島放送局.md" title="wikilink">鹿児島</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/横山哲也" title="wikilink">横山哲也</a></p></td>
+<td><p><a href="../Page/NHK札幌放送局.md" title="wikilink">札幌</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

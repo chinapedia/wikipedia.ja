@@ -13,7 +13,7 @@
 
 ### 企業
 
-  - [ホンダ・SR](https://ja.wikipedia.org/wiki/ホンダ・SR "wikilink") - かつて存在した、[本田技研工業](../Page/本田技研工業.md "wikilink")株式会社の直営[ディーラー](https://ja.wikipedia.org/wiki/ディーラー "wikilink")網の1つ。(SRはSHOWROOMの略)。
+  - [ホンダ・SR](https://ja.wikipedia.org/wiki/ホンダ・SR "wikilink") - かつて存在した、[本田技研工業](../Page/本田技研工業.md "wikilink")株式会社の直営[ディーラー](../Page/ディーラー.md "wikilink")網の1つ。(SRはSHOWROOMの略)。
   - [スイス航空](../Page/スイス航空.md "wikilink") () の[IATA航空会社コード](https://ja.wikipedia.org/wiki/IATA航空会社コード "wikilink")。
   - [スーパーレジン工業](https://ja.wikipedia.org/wiki/スーパーレジン工業 "wikilink")の略称 ()
   - [サザン鉄道](https://ja.wikipedia.org/wiki/サザン鉄道 "wikilink")の略称。(Southern Railway)

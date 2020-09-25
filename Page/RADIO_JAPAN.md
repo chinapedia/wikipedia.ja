@@ -1,9 +1,9 @@
 > この記事は[RADIO JAPAN](https://ja.wikipedia.org/wiki/RADIO_JAPAN)から翻訳されています。
 
 
-『**RADIO JAPAN**』（レディオ・ジャパン）は、土曜日の朝に[JFN系列に向けて](../Page/全国FM放送協議会.md "wikilink")[生放送](../Page/生放送.md "wikilink")されているラジオ番組。『[MORNING CUBE〜SATURDAY NETWORK〜](../Page/MORNING_CUBE〜SATURDAY_NETWORK〜.md "wikilink")』の後番組として、[2002年](../Page/2002年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで放送された。
+『**RADIO JAPAN**』（レディオ・ジャパン）は、土曜日の朝に[JFN系列に向けて](../Page/全国FM放送協議会.md "wikilink")[生放送](../Page/生放送.md "wikilink")されていたラジオ番組。『[MORNING CUBE〜SATURDAY NETWORK〜](../Page/MORNING_CUBE〜SATURDAY_NETWORK〜.md "wikilink")』の後番組として、[2002年](../Page/2002年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで放送された。
 
-後番組は『[SATURDAY ON THE WAY](../Page/SATURDAY_ON_THE_WAY.md "wikilink")』で、日曜版『[RADIO JAPAN onSunday](../Page/RADIO_JAPAN_onSunday.md "wikilink")』も同年[9月24日](../Page/9月24日.md "wikilink")で終了した。
+後番組は『[SATURDAY ON THE WAY](../Page/SATURDAY_ON_THE_WAY.md "wikilink")』。日曜版『[RADIO JAPAN onSunday](../Page/RADIO_JAPAN_onSunday.md "wikilink")』も同年[9月24日](../Page/9月24日.md "wikilink")で終了した。
 
 ## パーソナリティ
 
@@ -92,7 +92,7 @@
 
   - [レディオ･ジャパン　サタデー](http://www2.jfn.co.jp/rj/saturday)
 
-[Category:2002年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のラジオ番組_\(日本\) "wikilink") [Category:JFNCの番組の歴史](https://ja.wikipedia.org/wiki/Category:JFNCの番組の歴史 "wikilink") [Category:ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ラジオの情報・ワイドショー番組 "wikilink")
+[Category:2002年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のラジオ番組_\(日本\) "wikilink") [Category:JFNCの番組の歴史](https://ja.wikipedia.org/wiki/Category:JFNCの番組の歴史 "wikilink") [Category:JFN系ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの情報・ワイドショー番組 "wikilink")
 
 1.  前身である「[MORNING CUBE〜SATURDAY NETWORK〜](../Page/MORNING_CUBE〜SATURDAY_NETWORK〜.md "wikilink")」の時からのコンビである。さらに前身の「さわやかスタジオ」からJFNの土曜の朝のワイド番組のパーソナリティを勤めている。
 2.  前身である「MORNING CUBE〜SATURDAY NETWORK〜」の時からのコンビである。

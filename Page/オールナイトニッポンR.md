@@ -226,7 +226,7 @@
 
   - [桃乃未琴](../Page/平岡恵子_\(歌手\).md "wikilink")（[桃乃未琴のオールナイトニッポンR](https://ja.wikipedia.org/wiki/桃乃未琴のオールナイトニッポンR "wikilink")）/1998年4月 - 1998年12月
   - [TRICERATOPS](../Page/TRICERATOPS.md "wikilink")/1999年1月 - 1999年3月
-      - 1999年3月 - 1999年9月は金曜com（26:30 - 27:00）を担当。
+      - 1999年3月 - 2001年6月は金曜com（26:30 - 27:00→26:00 - 26:30）を担当。
   - [プロデューサーズナイト](https://ja.wikipedia.org/wiki/プロデューサーズナイト "wikilink")（月1回持ち回り制）/1999年3月 - 2000年9月
     1.  [松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")/1999年3月 - 2000年9月
     2.  [和田薫](../Page/和田薫_\(芸能事務所社長\).md "wikilink")（当時[モーニング娘。](../Page/モーニング娘。.md "wikilink")マネージャー、現[ハーモニープロモーション](../Page/ハーモニープロモーション.md "wikilink")代表取締役社長）/1999年3月 - 2000年9月
@@ -1923,7 +1923,7 @@ ONLY ONE</a></p></th>
 <td><p>6日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カミナリ_(お笑いコンビ)" title="wikilink">カミナリ</a></p></td>
 <td><p>13日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤原さくら_(シンガーソングライター)" title="wikilink">藤原さくら</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/藤原さくら" title="wikilink">藤原さくら</a></p></td>
 <td><p>20日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/茅原実里" title="wikilink">茅原実里</a></p></td>
 </tr>
@@ -2256,7 +2256,7 @@ ONLY ONE</a></p></th>
 128. 当初は[川上アキラ](https://ja.wikipedia.org/wiki/川上アキラ "wikilink")（[ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")チーフ[マネージャー](../Page/マネージャー.md "wikilink")）が担当する予定だったが、主催者の都合で変更。[2](http://event.1242.com/momoclo_2015/kawakami.html)
 129. ニッポン放送「[アイアプレゼンツ SKE48\&HKT48のアイアイトーク](https://ja.wikipedia.org/wiki/アイアプレゼンツ_SKE48&HKT48のアイアイトーク "wikilink")」で行なわれた、出演権を賭けた対決企画の勝者特典。出演者 - 穴井千尋、田中美久、矢吹奈子、[森保まどか](https://ja.wikipedia.org/wiki/森保まどか "wikilink")
 130.
-131. ゲスト：[藤原さくら](https://ja.wikipedia.org/wiki/藤原さくら_\(シンガーソングライター\) "wikilink")、電話ゲスト：[岡野昭仁](https://ja.wikipedia.org/wiki/岡野昭仁 "wikilink")（[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")）
+131. ゲスト：[藤原さくら](https://ja.wikipedia.org/wiki/藤原さくら "wikilink")、電話ゲスト：[岡野昭仁](https://ja.wikipedia.org/wiki/岡野昭仁 "wikilink")（[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")）
 132.
 133. [2016年](../Page/2016年.md "wikilink")1月より「[清水富美加 みなぎるPM](https://ja.wikipedia.org/wiki/清水富美加_みなぎるPM "wikilink")」パーソナリティ
 134. 一部地域のみ28:30～29:00は「真夏の[ブスと野獣](https://ja.wikipedia.org/wiki/ブスと野獣 "wikilink")スペシャル」

@@ -1,16 +1,17 @@
 > この記事は[GOING UNDER GROUND](https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND)から翻訳されています。
 
 
-**GOING UNDER GROUND**（ゴーイング・アンダー・グラウンド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。略称は『ゴーイング』、『GUG』。 稀に、｢ゴイアグラ｣とも呼ばれることがある。
-[松本素生](../Page/松本素生.md "wikilink")によると、この呼び方をする者はかなりの通であるとのこと。
-ビクター在籍時にレコード会社がつけたキャッチコピーは、｢全日本胸キュン党｣
+**GOING UNDER GROUND**（ゴーイング・アンダー・グラウンド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。略称は『ゴーイング』、『GUG』、｢ゴイアグラ｣など。
 
 ## プロフィール
 
 [埼玉県](../Page/埼玉県.md "wikilink")[桶川市](../Page/桶川市.md "wikilink")周辺出身の3人組。[THE BLUE HEARTSに憧れた当時中学一年生のメンバーたちにより結成され](../Page/THE_BLUE_HEARTS.md "wikilink")、その後何度かのメンバーチェンジを経てデビュー当時の5人体制となる。2度のメンバー脱退があったが、サポートメンバーを迎えながら継続的に活動。バンド名の由来は[THE JAMの同名曲より](../Page/ザ・ジャム.md "wikilink")。ロゴマークは正五角形。
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")頃より[下北沢](../Page/下北沢.md "wikilink")のライブハウスを中心に順調にライブ活動を続けた。当時は[ウィーザー](../Page/ウィーザー.md "wikilink")に影響されていたという（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")6月2日[NHK-FM](../Page/NHK-FM放送.md "wikilink")「[ミュージックスクエア](../Page/ミュージックスクエア_\(NHK-FM\).md "wikilink")」より）。
-[2001年](../Page/2001年.md "wikilink")6月21日、シングル「[グラフティー](../Page/グラフティー.md "wikilink")」にてメジャーデビュー。[2003年](../Page/2003年.md "wikilink")に「[ハートビート](../Page/ハートビート_\(GOING_UNDER_GROUNDの曲\).md "wikilink")」が[ボーダフォン（現ソフトバンクモバイル）の](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")、[2005年](../Page/2005年.md "wikilink")に「[STAND BY ME](../Page/STAND_BY_ME_\(GOING_UNDER_GROUNDの曲\).md "wikilink")」が[三ツ矢サイダー](../Page/三ツ矢サイダー.md "wikilink")のテレビCMに起用される。[2005年](../Page/2005年.md "wikilink")2月にリリースしたアルバム『[h.o.p.s.](https://ja.wikipedia.org/wiki/h.o.p.s. "wikilink")』が自己最高のオリコン初登場10位を記録。同タイトルの全国ツアーにて、7月に念願の[日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")公演を行った。
+[2001年](../Page/2001年.md "wikilink")6月21日、シングル「[グラフティー](../Page/グラフティー.md "wikilink")」にてメジャーデビュー。
+在籍していたビクターが当時、付けていたキャッチコピーは
+｢全日本胸キュン党｣
+[2003年](../Page/2003年.md "wikilink")に「[ハートビート](../Page/ハートビート_\(GOING_UNDER_GROUNDの曲\).md "wikilink")」が[ボーダフォン（現ソフトバンクモバイル）の](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")、[2005年](../Page/2005年.md "wikilink")に「[STAND BY ME](../Page/STAND_BY_ME_\(GOING_UNDER_GROUNDの曲\).md "wikilink")」が[三ツ矢サイダー](../Page/三ツ矢サイダー.md "wikilink")のテレビCMに起用される。[2005年](../Page/2005年.md "wikilink")2月にリリースしたアルバム『[h.o.p.s.](https://ja.wikipedia.org/wiki/h.o.p.s. "wikilink")』が自己最高のオリコン初登場10位を記録。同タイトルの全国ツアーにて、7月に念願の[日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")公演を行った。
 同年「[トゥモロウズ ソング](https://ja.wikipedia.org/wiki/きらり/トゥモロウズ_ソング "wikilink")」を[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』に提供。
 
 メジャーデビュー5周年となった[2006年](../Page/2006年.md "wikilink")には2月にアルバム『[TUTTI](../Page/TUTTI.md "wikilink")』、5月にシングル「[VISTA/ハミングライフ](https://ja.wikipedia.org/wiki/VISTA/ハミングライフ "wikilink")」、6月にベストアルバム『[BEST OF GOING UNDER GROUND with YOU](../Page/BEST_OF_GOING_UNDER_GROUND_with_YOU.md "wikilink")』を相次いでリリースすると共に、3月からのツアー「TUTTI」にて7月6日、[ワンマン](https://ja.wikipedia.org/wiki/ワンマン "wikilink")では初の[日本武道館](../Page/日本武道館.md "wikilink")公演を実施。後にこの公演は、全曲ノーカットで[DVD](../Page/DVD.md "wikilink")化された。
@@ -459,7 +460,7 @@
       -
         [栗コーダーカルテット](../Page/栗コーダーカルテット.md "wikilink")とのジョイントライブを収録したライブアルバム。
         ライブ会場及び公式サイト通販にて販売されていたが2020年現在品切れのため入手不可。
-2.  **GOING CLASSICS live at HOKUTOPIA**
+2.  **GOING CLASSICS live at HOKUTOPIA** (2012年5月10日、ampa-004)
       -
         2012年1月21日に開催されたファンクラブイベント「TAMARIBA」でのポップ・クラシックバンド[everly](https://ja.wikipedia.org/wiki/everly "wikilink")とのジョイントライブを収録したライブアルバム。
         ライブ会場及び公式サイト通販にて販売されていたが2020年現在品切れのため入手不可。

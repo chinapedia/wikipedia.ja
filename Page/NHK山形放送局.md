@@ -194,79 +194,78 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/中谷文彦.md" title="wikilink">中谷文彦</a>*</p></td>
-<td><p><a href="../Page/NHK放送研修センター・日本語センター.md" title="wikilink">日本語センター出向</a></p></td>
-<td><p>放送部副部長<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/羽隅将一" title="wikilink">羽隅将一</a>*</p></td>
+<td><p><a href="../Page/NHK盛岡放送局.md" title="wikilink">盛岡</a></p></td>
+<td><p>アナウンス統括<br />
 山形県のニュース</p></td>
-<td></td>
+<td><p>山形県出身</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/大沢幸広" title="wikilink">大沢幸広</a></p></td>
-<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
+<td><p><a href="../Page/柴田徹_(アナウンサー).md" title="wikilink">柴田徹</a>*</p></td>
+<td><p><a href="../Page/NHK熊本放送局.md" title="wikilink">熊本</a></p></td>
 <td><p>山形県のニュース</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/柴田徹_(アナウンサー).md" title="wikilink">柴田徹</a>*</p></td>
-<td><p><a href="../Page/NHK熊本放送局.md" title="wikilink">熊本</a></p></td>
-<td><p>山形県出身</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大沢幸広" title="wikilink">大沢幸広</a></p></td>
+<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/羽隅将一" title="wikilink">羽隅将一</a>*</p></td>
-<td><p><a href="../Page/NHK盛岡放送局.md" title="wikilink">盛岡</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>吉岡篤史</p></td>
 <td><p><strong>初任地</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/野口葵衣" title="wikilink">野口葵衣</a></p></td>
 <td><p>やままる（キャスター）<br />
 山形県のニュース</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/金子峻" title="wikilink">金子峻</a></p></td>
 <td><p><a href="../Page/NHK松山放送局.md" title="wikilink">松山</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>阿部千明</p></td>
 <td></td>
-<td><p>やままる</p></td>
+<td><p>|やままる（キャスター）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>石塚綾乃</p></td>
+<td></td>
+<td><p>やままる（スポーツ）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>石塚綾乃</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>木下愛季子</p></td>
 <td></td>
 <td><p>やままる<br />
 （リポーター）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>岩内美優</p></td>
 <td></td>
-<td><p>やままる<br />
-（スポまるキャスター）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>野田奈那</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -277,19 +276,12 @@
 <td><p>山形県出身</p></td>
 </tr>
 <tr class="odd">
-<td><p>野田奈那</p></td>
-<td></td>
-<td><p>やままる<br />
-山形県のニュース</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/福嶋アダム" title="wikilink">福嶋アダム</a></p></td>
 <td></td>
 <td><p>やままる</p></td>

@@ -29,5 +29,5 @@
 
 **ed**
 
-  - [ed](https://ja.wikipedia.org/wiki/ed "wikilink") - UNIX系OS上のラインエディタ。
+  - [ed (テキストエディタ)](https://ja.wikipedia.org/wiki/ed_\(テキストエディタ\) "wikilink") - UNIX系OS上のラインエディタ。
   - 「education」の略で、教育機関を表す[ドメイン名](../Page/ドメイン名.md "wikilink")の要素として使われる。

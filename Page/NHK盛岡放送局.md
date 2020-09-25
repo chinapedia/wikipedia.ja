@@ -195,32 +195,20 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/三好正人.md" title="wikilink">三好正人</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/佐々木芳史" title="wikilink">佐々木芳史</a></p></td>
+<td><p><a href="../Page/NHK福井放送局.md" title="wikilink">福井</a></p></td>
 <td><p>岩手県のニュース</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/佐々木芳史" title="wikilink">佐々木芳史</a></p></td>
-<td><p><a href="../Page/NHK福井放送局.md" title="wikilink">福井</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>河島康一</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>中村慎吾</p></td>
-<td><p><strong>初任地</strong></p></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td><p><a href="../Page/菅谷鈴夏.md" title="wikilink">菅谷鈴夏</a></p></td>
-<td></td>
+<td><p><strong>初任地</strong></p></td>
 <td></td>
 <td></td>
 </tr>

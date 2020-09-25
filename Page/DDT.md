@@ -3,7 +3,7 @@
 
 [right頃に](https://ja.wikipedia.org/wiki/ファイル:DDT_WWII_soldier.jpg "wikilink")[アメリカ軍](../Page/アメリカ軍.md "wikilink")で使われた携行式DDT散布器\]\]
 
-**DDT**（ディー・ディー・ティー）とはdichlorodiphenyltrichloroethane（ジクロロジフェニルトリクロロエタン）の略であり、かつて使われていた[有機塩素系の](https://ja.wikipedia.org/wiki/有機塩素化合物 "wikilink")[殺虫剤](../Page/殺虫剤.md "wikilink")、[農薬](../Page/農薬.md "wikilink")である。日本では[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（[昭和](../Page/昭和.md "wikilink")46年）5月に農薬登録が失効した。なお、上記の名称は化学的には正確ではなく、4,4'-(2,2,2-トリクロロエタン-1,1-ジイル)ビス(クロロベンゼン)が正確な名称である。DDTの構造中で、トリクロロメチル基がジクロロメチル基となったものを（ジクロロジフェニルジクロロエタン、DDD）という。
+**DDT**（ディー・ディー・ティー）とは**d**ichloro**d**iphenyl**t**richloroethane（ジクロロジフェニルトリクロロエタン）の略であり、かつて使われていた[有機塩素系の](https://ja.wikipedia.org/wiki/有機塩素化合物 "wikilink")[殺虫剤](../Page/殺虫剤.md "wikilink")、[農薬](../Page/農薬.md "wikilink")である。日本では[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（[昭和](../Page/昭和.md "wikilink")46年）5月に農薬登録が失効した。なお、上記の名称は化学的には正確ではなく、4,4'-(2,2,2-トリクロロエタン-1,1-ジイル)ビス(クロロベンゼン)が正確な名称である。DDTの構造中で、トリクロロメチル基がジクロロメチル基となったものを（ジクロロジフェニルジクロロエタン、DDD）という。
 
 ## 殺虫剤として
 

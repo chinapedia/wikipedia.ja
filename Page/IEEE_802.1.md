@@ -11,38 +11,155 @@
 
 ## IEEE 802.1 標準規格
 
-| WG                                                               | 時期             | 内容                                                                      |
-| ---------------------------------------------------------------- | -------------- | ----------------------------------------------------------------------- |
-| 802.1b                                                           |                | LAN/MANマネジメント                                                           |
-| [802.1D](https://ja.wikipedia.org/wiki/IEEE_802.1D "wikilink")   | 1998、2004      | MAC[ブリッジ](../Page/ブリッジ_\(ネットワーク機器\).md "wikilink")                      |
-| 802.1e                                                           |                | システム・ロード・プロトコル                                                          |
-| 802.1f                                                           | 1993           | IEEE 802マネジメント情報に関する共通定義および手続き                                          |
-| 802.1G                                                           | 1998           | リモートMACブリッジ                                                             |
-| 802.1h                                                           | 1997           | [イーサネット](../Page/イーサネット.md "wikilink")MACブリッジ                           |
-| 802.1p                                                           | 802.1D-2004に統合 | Traffic Class Expediting and Dynamic Multicast Filtering （QoSの要素のひとつ）   |
-| [802.1Q](https://ja.wikipedia.org/wiki/IEEE_802.1Q "wikilink")   | 1998, 2003     | Virtual LANs （VLAN）                                                     |
-| 802.1r                                                           | 取下げ            | GARP Proprietary Attribute Registration Protocol (GPRP)                 |
-| 802.1s                                                           | 802.1Q-2003に統合 | Multiple Spanning Trees                                                 |
-| 802.1v                                                           | 802.1Q-2003に統合 | VLAN Classification by Protocol and Port                                |
-| 802.1w                                                           | 802.1D-2004に統合 | Rapid Reconfiguration of Spanning Tree                                  |
-| [802.1x](../Page/IEEE_802.1X.md "wikilink")                      | 2001           | Port Based Network Access Control                                       |
-| 802.1AB                                                          | 2005/4策定終了     | Station and Media Access Control Connectivity Discovery                 |
-| 802.1ad                                                          | 2006/5策定終了     | [プロバイダ](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")・ブリッジ |
-| 802.1AE                                                          | 2006/6策定終了     | MACセキュリティ                                                               |
-| 802.1af                                                          | 802.1X-2004に統合 | KeySec                                                                  |
-| 802.1ag                                                          | 作業中            | Connectivity Fault Management                                           |
-| 802.1ah                                                          | 作業中            | プロバイダ・[バックボーン](https://ja.wikipedia.org/wiki/バックボーン "wikilink")・ブリッジ    |
-| 802.1aj                                                          | 作業中            | Two-port MAC Relay                                                      |
-| 802.1ak                                                          | 作業中            | Multiple Registration Protocol                                          |
-| 802.1ap                                                          | 作業中            | VLAN Bridge MIBs                                                        |
-| [802.1aq](https://ja.wikipedia.org/wiki/IEEE_802.1aq "wikilink") | 作業中            | Shortest Path Bridging                                                  |
-| 802.1AR                                                          | 作業中            | Secure Device Identity                                                  |
-| 802.1AS                                                          | 作業中            | Timing and Synchronization (Audio/Video Bridging)                       |
-| 802.1at                                                          | 作業中            | Stream Reservation Protocol (Audio/Video Bridging)                      |
-| 802.1au                                                          | 作業中            | Congestion Notification (Congestion Management)                         |
+<table>
+<thead>
+<tr class="header">
+<th><p>WG</p></th>
+<th><p>時期</p></th>
+<th><p>内容</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>| 802.1b</p></td>
+<td></td>
+<td><p>LAN/MANマネジメント</p></td>
+</tr>
+<tr class="even">
+<td><p>| <a href="https://ja.wikipedia.org/wiki/IEEE_802.1D" title="wikilink">802.1D</a></p></td>
+<td><p>1998、2004</p></td>
+<td><p>MAC<a href="../Page/ブリッジ_(ネットワーク機器).md" title="wikilink">ブリッジ</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>| 802.1e</p></td>
+<td></td>
+<td><p>システム・ロード・プロトコル</p></td>
+</tr>
+<tr class="even">
+<td><p>| 802.1f</p></td>
+<td><p>1993</p></td>
+<td><p>IEEE 802マネジメント情報に関する共通定義および手続き</p></td>
+</tr>
+<tr class="odd">
+<td><p>| 802.1G</p></td>
+<td><p>1998</p></td>
+<td><p>リモートMACブリッジ</p></td>
+</tr>
+<tr class="even">
+<td><p>| 802.1h</p></td>
+<td><p>1997</p></td>
+<td><p><a href="../Page/イーサネット.md" title="wikilink">イーサネット</a>MACブリッジ</p></td>
+</tr>
+<tr class="odd">
+<td><p>| 802.1p</p></td>
+<td><p>802.1D-2004に統合</p></td>
+<td><p>Traffic Class Expediting and Dynamic Multicast Filtering （QoSの要素のひとつ）</p></td>
+</tr>
+<tr class="even">
+<td><p>| <a href="https://ja.wikipedia.org/wiki/IEEE_802.1Q" title="wikilink">802.1Q</a></p></td>
+<td><p>1998, 2003</p></td>
+<td><p>Virtual LANs （VLAN）</p></td>
+</tr>
+<tr class="odd">
+<td><p>| 802.1r</p></td>
+<td><p>取下げ</p></td>
+<td><p>GARP Proprietary Attribute Registration Protocol (GPRP)</p></td>
+</tr>
+<tr class="even">
+<td><p>| 802.1s</p></td>
+<td><p>802.1Q-2003に統合</p></td>
+<td><p>Multiple Spanning Trees</p></td>
+</tr>
+<tr class="odd">
+<td><p>| 802.1v</p></td>
+<td><p>802.1Q-2003に統合</p></td>
+<td><p>VLAN Classification by Protocol and Port</p></td>
+</tr>
+<tr class="even">
+<td><p>| 802.1w</p></td>
+<td><p>802.1D-2004に統合</p></td>
+<td><p>Rapid Reconfiguration of Spanning Tree</p></td>
+</tr>
+<tr class="odd">
+<td><p>| <a href="../Page/IEEE_802.1X.md" title="wikilink">802.1x</a></p></td>
+<td><p>2001</p></td>
+<td><p>Port Based Network Access Control</p></td>
+</tr>
+<tr class="even">
+<td><p>| 802.1AB</p></td>
+<td><p>2005/4策定終了</p></td>
+<td><p>Station and Media Access Control Connectivity Discovery</p></td>
+</tr>
+<tr class="odd">
+<td><p>| 802.1ad</p></td>
+<td><p>2006/5策定終了</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ" title="wikilink">プロバイダ</a>・ブリッジ</p></td>
+</tr>
+<tr class="even">
+<td><p>| 802.1AE</p></td>
+<td><p>2006/6策定終了</p></td>
+<td><p>MACセキュリティ</p></td>
+</tr>
+<tr class="odd">
+<td><p>| 802.1af</p></td>
+<td><p>802.1X-2004に統合</p></td>
+<td><p>KeySec</p></td>
+</tr>
+<tr class="even">
+<td><p>| 802.1ag</p></td>
+<td><p>作業中</p></td>
+<td><p>Connectivity Fault Management</p></td>
+</tr>
+<tr class="odd">
+<td><p>| 802.1ah</p></td>
+<td><p>作業中</p></td>
+<td><p>プロバイダ・<a href="https://ja.wikipedia.org/wiki/バックボーン" title="wikilink">バックボーン</a>・ブリッジ</p></td>
+</tr>
+<tr class="even">
+<td><p>| 802.1aj</p></td>
+<td><p>作業中</p></td>
+<td><p>Two-port MAC Relay</p></td>
+</tr>
+<tr class="odd">
+<td><p>| 802.1ak</p></td>
+<td><p>作業中</p></td>
+<td><p>Multiple Registration Protocol</p></td>
+</tr>
+<tr class="even">
+<td><p>| 802.1ap</p></td>
+<td><p>作業中</p></td>
+<td><p>VLAN Bridge MIBs</p></td>
+</tr>
+<tr class="odd">
+<td><p>| <a href="https://ja.wikipedia.org/wiki/IEEE_802.1aq" title="wikilink">802.1aq</a></p></td>
+<td><p>作業中</p></td>
+<td><p>Shortest Path Bridging</p></td>
+</tr>
+<tr class="even">
+<td><p>| 802.1AR</p></td>
+<td><p>作業中</p></td>
+<td><p>Secure Device Identity</p></td>
+</tr>
+<tr class="odd">
+<td><p>| 802.1AS</p></td>
+<td><p>作業中</p></td>
+<td><p>Timing and Synchronization (Audio/Video Bridging)</p></td>
+</tr>
+<tr class="even">
+<td><p>| 802.1at</p></td>
+<td><p>作業中</p></td>
+<td><p>Stream Reservation Protocol (Audio/Video Bridging)</p></td>
+</tr>
+<tr class="odd">
+<td><p>| 802.1au</p></td>
+<td><p>作業中</p></td>
+<td><p>Congestion Notification (Congestion Management)</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 外部リンク
 
-  - [IEEE 802.1](http://grouper.ieee.org/groups/802/1/)（英語）
+  - [IEEE 802.1 Working Group](https://1.ieee802.org/)
 
 [Category:IEEE_802](https://ja.wikipedia.org/wiki/Category:IEEE_802 "wikilink")

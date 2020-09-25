@@ -9,7 +9,7 @@
 
 1988年に解散した日本のロックバンドである[BOØWY](../Page/BOØWY.md "wikilink")の楽曲を様々なミュージシャンがカバーしている。
 
-このアルバムには著名なミュージシャンが参加しているが、インディーズ系のミュージシャンが参加した『[BOØWY Respect](https://ja.wikipedia.org/wiki/BOØWY_Respect "wikilink")』も同時発売されている。
+このアルバムには著名なミュージシャンが参加しているが、インディーズ系のミュージシャンが参加した『[BOØWY Respect](../Page/BOØWY_Respect.md "wikilink")』も同時発売されている。
 
 ## リリース履歴
 

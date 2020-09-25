@@ -1,9 +1,9 @@
 > この記事は[牙狼-GARO-](https://ja.wikipedia.org/wiki/牙狼-GARO-)から翻訳されています。
 
 
-『**牙狼〈GARO〉**』（ガロ）は、[2005年](../Page/2005年.md "wikilink")（平成17年）[10月7日](../Page/10月7日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")（平成18年）[3月31日](../Page/3月31日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で全25話が放映された、[特撮](../Page/特撮.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")（[深夜特撮](../Page/深夜特撮.md "wikilink")）作品。近年では、テレビアニメや舞台などにも派生している。
+『**牙狼〈GARO〉**』（ガロ）は、[2005年](../Page/2005年.md "wikilink")（平成17年）[10月7日](../Page/10月7日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")（平成18年）[3月31日](../Page/3月31日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で全25話が放映された[特撮](../Page/特撮.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")（[深夜特撮](../Page/深夜特撮.md "wikilink")）である。近年では、テレビアニメや舞台などにも派生している。
 
-この世の闇に潜む魔物「ホラー」を狩ることを宿命付けられた「牙狼」の称号を持つ魔戒騎士・冴島鋼牙の活躍を描いた作品である。
+この世の闇に潜む魔物「ホラー」を狩ることを宿命付けられた「牙狼」の称号を持つ魔戒騎士・冴島鋼牙の活躍を描く。
 
 本項では、この作品の続編・関連作品についても簡易的に記載している。（[別節を参照のこと](https://ja.wikipedia.org/wiki/#続編など "wikilink")）
 

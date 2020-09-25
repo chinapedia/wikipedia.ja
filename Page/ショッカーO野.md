@@ -41,6 +41,7 @@
 
 ### OVA・ラジオドラマ
 
+  - [アイドルプロジェクト](../Page/アイドルプロジェクト.md "wikilink")（ポリゴニアンズ、店長）
   - [おたくの星座](../Page/おたくの星座.md "wikilink")（寿五郎）
   - [GOLDEN BOY さすらいのお勉強野郎](../Page/GOLDEN_BOY.md "wikilink")（ミキサー）
   - [世紀末リーダー外伝たけし\!](https://ja.wikipedia.org/wiki/世紀末リーダー外伝たけし! "wikilink")（ナレーション）

@@ -84,7 +84,7 @@
 
 ## 外部リンク
 
-  - [THE ROCK ODYSSEY 2004](http://web.archive.org/web/20040725045805/http://eee.eplus.co.jp/ro04/top.html) - [e+サイト](https://ja.wikipedia.org/wiki/エンタテインメントプラス "wikilink")。閉鎖（2004年7月25日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [THE ROCK ODYSSEY 2004](https://web.archive.org/web/20040725045805/http://eee.eplus.co.jp/ro04/top.html) - [e+サイト](https://ja.wikipedia.org/wiki/エンタテインメントプラス "wikilink")。閉鎖（2004年7月25日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
 [Category:日本のロックフェスティバル](https://ja.wikipedia.org/wiki/Category:日本のロックフェスティバル "wikilink") [Category:2004年の日本の音楽](https://ja.wikipedia.org/wiki/Category:2004年の日本の音楽 "wikilink") [Category:港北区の歴史](https://ja.wikipedia.org/wiki/Category:港北区の歴史 "wikilink") [Category:横浜市の音楽](https://ja.wikipedia.org/wiki/Category:横浜市の音楽 "wikilink") [Category:大阪ドームの行事・イベント](https://ja.wikipedia.org/wiki/Category:大阪ドームの行事・イベント "wikilink") [Category:大阪市の音楽](https://ja.wikipedia.org/wiki/Category:大阪市の音楽 "wikilink") [Category:2004年7月](https://ja.wikipedia.org/wiki/Category:2004年7月 "wikilink") [Category:ザ・フー](https://ja.wikipedia.org/wiki/Category:ザ・フー "wikilink") [Category:エアロスミス](https://ja.wikipedia.org/wiki/Category:エアロスミス "wikilink") [Category:L'Arc〜en〜Ciel](https://ja.wikipedia.org/wiki/Category:L'Arc〜en〜Ciel "wikilink") [Category:レッド・ホット・チリ・ペッパーズ](https://ja.wikipedia.org/wiki/Category:レッド・ホット・チリ・ペッパーズ "wikilink") [Category:矢沢永吉](https://ja.wikipedia.org/wiki/Category:矢沢永吉 "wikilink") [Category:ウルフルズ](https://ja.wikipedia.org/wiki/Category:ウルフルズ "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")
 

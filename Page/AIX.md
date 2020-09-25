@@ -165,7 +165,7 @@ AIX 5L 5.3 でのスケーラビリティは以下の通りである。
   - [IBM AIX — 日本IBM](https://www.ibm.com/jp-ja/it-infrastructure/power/os/aix)
   - [Power Systemsソフトウェア — 日本IBM](https://www.ibm.com/jp-ja/it-infrastructure/power/software)
   - [IBM マーケットプレイス](https://www.ibm.com/jp-ja/products)
-  - [IBM ソフトウェア](https://www.ibm.com/software/jp/)
+  - [IBM ソフトウェア](https://www.ibm.com/jp-ja/products/software)
   - [AIX - 日立製作所](http://www.hitachi.co.jp/Prod/comp/soft1/AIX/product/lineup/aix5los.html)
   - [IBM AIX 7.1 インフォメーションセンター](http://publib.boulder.ibm.com/infocenter/aix/v7r1/index.jsp)
   - [developerworks AIX and UNIX](http://www.ibm.com/developerworks/aix/)

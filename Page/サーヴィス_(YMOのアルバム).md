@@ -93,7 +93,7 @@
         [諸星大二郎](../Page/諸星大二郎.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")「[マッドメン](https://ja.wikipedia.org/wiki/マッドメン_\(漫画\) "wikilink")」から[インスパイア](https://ja.wikipedia.org/wiki/インスパイア "wikilink")された曲。細野がほとんど一人で作り上げた。坂本によると細野の演奏するベースが「国宝級」とのこと\[43\]。
 4.  **S.E.T.**
       -
-        [イントロに使われている曲は](../Page/導入部.md "wikilink")、当時、YNOと同じ[アルファレコード](../Page/アルファレコード.md "wikilink")に所属していた[フュージョン](../Page/フュージョン_\(音楽\).md "wikilink")[バンドの](../Page/バンド_\(音楽\).md "wikilink")[カシオペアが](../Page/カシオペア_\(バンド\).md "wikilink")[1982年](../Page/1982年.md "wikilink")にリリースされたアルバム『[MINT JAMS](../Page/MINT_JAMS.md "wikilink")』に収録されている「TIME LIMIT」という楽曲である。
+        [イントロに使われている曲は](../Page/導入部.md "wikilink")、当時、YMOと同じ[アルファレコード](../Page/アルファレコード.md "wikilink")に所属していた[フュージョン](../Page/フュージョン_\(音楽\).md "wikilink")[バンドの](../Page/バンド_\(音楽\).md "wikilink")[カシオペアが](../Page/カシオペア_\(バンド\).md "wikilink")[1982年](../Page/1982年.md "wikilink")にリリースされたアルバム『[MINT JAMS](../Page/MINT_JAMS.md "wikilink")』に収録されている「TIME LIMIT」という楽曲である。
 5.  **CHINESE WHISPERS**
       -
         高橋はこの当時、全然活力が無かったらしく、この曲も好きではないとコメントしている\[44\]。

@@ -235,7 +235,7 @@ EHRGEIZはドイツ語で「野心」「大志」という意味で、英語のa
 
 ## 外部リンク
 
-  - [ネクスト戦記　EHRGEIZ](http://www.allcinema.net/prog/show_c.php?num_c=88927) - allcinema
+  - [ネクスト戦記　EHRGEIZ](https://www.allcinema.net/cinema/88927) - allcinema
   - [ネクスト戦記 EHRGEIZ 作品紹介ページ](http://www.dmm.com/digital/bandai/-/title/=/title_code=1531/) - DMM.com
 
 [Category:アニメ作品_ね](https://ja.wikipedia.org/wiki/Category:アニメ作品_ね "wikilink") [Category:1997年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1997年のテレビアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:テレビ東京の深夜アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京の深夜アニメ "wikilink") [Category:スタジオディーン](https://ja.wikipedia.org/wiki/Category:スタジオディーン "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:巨大ロボットを題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたアニメ作品 "wikilink")

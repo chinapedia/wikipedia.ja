@@ -212,8 +212,7 @@ SDI&amp;カルテット〜SEGA SYSTEM 16 COLLECTION〜</p></td>
 
 ## 外部リンク
 
-  - （英語）
-
+  -
 [Category:1987年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1987年のアーケードゲーム "wikilink") [Category:Amiga用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Amiga用ゲームソフト "wikilink") [Category:Amstrad_CPC用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Amstrad_CPC用ゲームソフト "wikilink") [Category:Atari_ST用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Atari_ST用ゲームソフト "wikilink") [Category:ZX_Spectrum用ゲームソフト](https://ja.wikipedia.org/wiki/Category:ZX_Spectrum用ゲームソフト "wikilink") [Category:アクティビジョンのゲームソフト](https://ja.wikipedia.org/wiki/Category:アクティビジョンのゲームソフト "wikilink") [Category:宇宙を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:宇宙を舞台としたコンピュータゲーム "wikilink") [Category:コモドール64用ゲームソフト](https://ja.wikipedia.org/wiki/Category:コモドール64用ゲームソフト "wikilink") [Category:セガのアーケードゲーム](https://ja.wikipedia.org/wiki/Category:セガのアーケードゲーム "wikilink") [Category:セガのゲームソフト](https://ja.wikipedia.org/wiki/Category:セガのゲームソフト "wikilink") [Category:セガ・マークIII&マスターシステム用ソフト](https://ja.wikipedia.org/wiki/Category:セガ・マークIII&マスターシステム用ソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:横スクロールシューティングゲーム](https://ja.wikipedia.org/wiki/Category:横スクロールシューティングゲーム "wikilink")
 
 1.

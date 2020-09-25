@@ -1,7 +1,7 @@
 > この記事は[BOØWY COMPLETE](https://ja.wikipedia.org/wiki/BOØWY_COMPLETE)から翻訳されています。
 
 
-『**BOØWY COMPLETE**』（ボウイ・コンプリート）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")のアルバム集ボックス・セット。
+『**BOØWY COMPLETE**』（ボウイ・コンプリート）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")[BOØWY](../Page/BOØWY.md "wikilink")のアルバム集ボックス・セット。
 
 [1991年](../Page/1991年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")に『**BOØWY COMPLETE LIMITED EDITION**』として[東芝EMIのイーストワールドレーベルより限定](../Page/EMIミュージック・ジャパン.md "wikilink")10万セットでリリースされた。
 
@@ -74,11 +74,11 @@
 
 ### DISC III：BOØWY
 
-1985年6月21日リリース。詳細は**[BOØWY](https://ja.wikipedia.org/wiki/BOØWY_\(アルバム\) "wikilink")**の項を参照。
+1985年6月21日リリース。詳細は**[BOØWY](../Page/BOØWY_\(アルバム\).md "wikilink")**の項を参照。
 
 ### DISC IV：JUST A HERO
 
-1986年3月1日リリース。詳細は**[JUST A HERO](https://ja.wikipedia.org/wiki/JUST_A_HERO_\(BOØWYのアルバム\) "wikilink")**の項を参照。
+1986年3月1日リリース。詳細は**[JUST A HERO](../Page/JUST_A_HERO_\(BOØWYのアルバム\).md "wikilink")**の項を参照。
 
 ### DISC V：“GIGS” JUST A HERO TOUR 1986
 
@@ -139,7 +139,7 @@
     <!-- end list -->
       -
         5thシングル「[ONLY YOU](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOØWYの曲\) "wikilink")」のB面曲。「ROCK'N'ROLL CIRCUS」ツアー1987年2月24日武道館での演奏を録音したものである。『[GIGS at BUDOKAN BEAT EMOTION ROCK'N ROLL CIRCUS TOUR 1986.11.11〜1987.02.24](../Page/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24.md "wikilink")』に収録されている同テイクとは異なり、こちらはリミックスバージョンである。
-8.  **[BABY ACTION](https://ja.wikipedia.org/wiki/BOØWY_\(アルバム\) "wikilink") (Live Version)** (3:12)
+8.  **[BABY ACTION](../Page/BOØWY_\(アルバム\).md "wikilink") (Live Version)** (3:12)
       - 作詞：氷室京介 / 作曲・編曲：布袋寅泰
     <!-- end list -->
       -

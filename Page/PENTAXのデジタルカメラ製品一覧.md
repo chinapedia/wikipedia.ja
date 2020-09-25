@@ -1,7 +1,7 @@
 > この記事は[PENTAXのデジタルカメラ製品一覧](https://ja.wikipedia.org/wiki/PENTAXのデジタルカメラ製品一覧)から翻訳されています。
 
 
-**PENTAXのデジタルカメラ製品一覧**とは、[PENTAX](https://ja.wikipedia.org/wiki/PENTAX "wikilink")ブランドで発売された[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")関係の製品の一覧である。
+**PENTAXのデジタルカメラ製品一覧**とは、[PENTAX](../Page/PENTAX.md "wikilink")ブランドで発売された[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")関係の製品の一覧である。
 
 ## デジタル一眼レフカメラ
 
@@ -391,8 +391,8 @@ PENTAXの一眼レフデジタルカメラについては、長らく[35mmフル
 
 ## 関連項目
 
-  - [PENTAX](https://ja.wikipedia.org/wiki/PENTAX "wikilink")
-  - [PENTAXのカメラ製品一覧](https://ja.wikipedia.org/wiki/PENTAXのカメラ製品一覧 "wikilink")
+  - [PENTAX](../Page/PENTAX.md "wikilink")
+  - [PENTAXのカメラ製品一覧](../Page/PENTAXのカメラ製品一覧.md "wikilink")
   - [PENTAXの写真レンズ製品一覧](../Page/PENTAXの写真レンズ製品一覧.md "wikilink")
   - [一眼レフカメラ](../Page/一眼レフカメラ.md "wikilink")
   - [中判カメラ](../Page/中判カメラ.md "wikilink")

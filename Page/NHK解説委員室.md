@@ -833,7 +833,7 @@
 <td><p>中近東</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/白鷗大学" title="wikilink">白鷗大学</a>総合研究所客員教授</p></td>
+<td><p><a href="../Page/白鷗大学.md" title="wikilink">白鷗大学</a>総合研究所客員教授</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/藤澤秀敏.md" title="wikilink">藤澤秀敏</a></p></td>

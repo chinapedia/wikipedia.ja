@@ -61,7 +61,7 @@ Qt 5のモジュール群の一部を以下に示す\[1\]。
   - Qt 3D
     2Dや3Dレンダリングをサポートする近リアルタイムシミュレーションシステムのための機能。
   - Qt Android Extras
-    [Android](../Page/Android.md "wikilink")固有の機能を使うためのAPI。
+    [Android固有の機能を使うためのAPI](../Page/Android_\(オペレーティングシステム\).md "wikilink")。
   - Qt Bluetooth
     [Bluetooth](../Page/Bluetooth.md "wikilink")ハードウェアへのアクセスを提供する。
   - Qt Canvas 3D
@@ -177,7 +177,7 @@ KDEがLinuxで主要なデスクトップ環境になることが明確になっ
 
 Chromiumを援用することがQt5.6で決まったものの、その性能の悪さからすぐに批判され、現在ではQtWebEngineとQtWebKitが混在している。Qt WebBrowser\[4\]も思ったほどの普及になっていない。これはChromiumの採用バージョンが最新よりかなり遅れることが原因である。
 
-2012年8月9日にがノキアからQtを買収した\[5\]。[Android](../Page/Android.md "wikilink")や[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、[Windows 8へのQtの早急な対応を目標に](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink")、約125人のQt開発者たちがディジアに移籍された\[6\]\[7\]。
+2012年8月9日にがノキアからQtを買収した\[5\]。[Androidや](../Page/Android_\(オペレーティングシステム\).md "wikilink")[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、[Windows 8へのQtの早急な対応を目標に](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink")、約125人のQt開発者たちがディジアに移籍された\[6\]\[7\]。
 
 ## Qtを使用している主なソフトウェア
 

@@ -1120,7 +1120,13 @@ DMM.comのアニメーション制作・ライセンスビジネス事業。
 </tr>
 <tr class="odd">
 <td><p>2021年</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/俺だけ入れる隠しダンジョン" title="wikilink">俺だけ入れる隠しダンジョン</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ましろのおと" title="wikilink">ましろのおと</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>

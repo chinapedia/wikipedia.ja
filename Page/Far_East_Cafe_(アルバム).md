@@ -38,40 +38,40 @@
 
 ## クレジット
 
-|                                                                                                                                                                                    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| CARLOS VEGA / DRUMS                                                                                                                                                                |
-| [NATHAN EAST](../Page/ネイザン・イースト.md "wikilink") / BASS                                                                                                                              |
-| CLAUDE GADETTE / KEYBOARDS                                                                                                                                                         |
-| [K.ODA](../Page/小田和正.md "wikilink") / KEYBOARDS                                                                                                                                    |
-| DEAN PARKS / GUITARS                                                                                                                                                               |
-| [YOSHIYUKI SAHASHI](../Page/佐橋佳幸.md "wikilink") / GUITARS                                                                                                                          |
-| K.ODA / GUITARS                                                                                                                                                                    |
-| LUIS CONTE / PERCUSSION                                                                                                                                                            |
-| TATSUYA FUNAKOSHI / PERCUSSION                                                                                                                                                     |
-| BILL MEYERS / HORN ARRANGEMENT                                                                                                                                                     |
-| [JERRY HEY](../Page/ジェリー・ヘイ.md "wikilink") / TRUMPET                                                                                                                               |
-| GARY GRANT / TRUMPET                                                                                                                                                               |
-| LEW McCREARY / TRUMPET                                                                                                                                                             |
-| BRANDON FIELDS / SAX                                                                                                                                                               |
-| GARY HERBIG / SAX                                                                                                                                                                  |
-| TOMMY MORGAN / HARMONICA                                                                                                                                                           |
-| MITSUHIRO SONOYAMA / SAX & CLARINET                                                                                                                                                |
-| KIM HUTCHTROFT / BARITONE FLUTE                                                                                                                                                    |
-| HIDEKI MOCHIZUKI / SYNTH & DRUMS PROGRAMMING                                                                                                                                       |
-| RICK RISO / BACKGROUND VOCALS                                                                                                                                                      |
-| GARY FOGGITT / BACKGROUND VOCALS                                                                                                                                                   |
-| LOSE STONE / BACKGROUND VOCALS                                                                                                                                                     |
-| VONCIEL FOGGITT / BACKGROUND VOCALS                                                                                                                                                |
-| [MASAYUKI SUZUKI](../Page/鈴木雅之_\(歌手\).md "wikilink") / BACKGROUND VOCALS                                                                                                           |
-| [EPO](../Page/EPO.md "wikilink") / BACKGROUND VOCALS                                                                                                                               |
-| [CHIKUZEN SATOH](../Page/佐藤竹善.md "wikilink") / BACKGROUND VOCALS                                                                                                                   |
-| [YASUHIRO ABE](../Page/安部恭弘.md "wikilink") / BACKGROUND VOCALS                                                                                                                     |
-| [YASUHIRO KIDO](../Page/木戸やすひろ.md "wikilink") / BACKGROUND VOCALS                                                                                                                  |
-| KIYOSHI HIYAMA / BACKGROUND VOCALS                                                                                                                                                 |
-| K.ODA / BACKGROUND VOCALS                                                                                                                                                          |
-|                                                                                                                                                                                    |
-| (MASAYUKI SUZUKI - Courtesy of [EPIC SONY](../Page/エピックレコードジャパン.md "wikilink") / CHIKUZEN SATOH - [SING LIKE TALKING](https://ja.wikipedia.org/wiki/SING_LIKE_TALKING "wikilink")) |
+|                                                                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CARLOS VEGA / DRUMS                                                                                                                                             |
+| [NATHAN EAST](../Page/ネイザン・イースト.md "wikilink") / BASS                                                                                                           |
+| CLAUDE GADETTE / KEYBOARDS                                                                                                                                      |
+| [K.ODA](../Page/小田和正.md "wikilink") / KEYBOARDS                                                                                                                 |
+| DEAN PARKS / GUITARS                                                                                                                                            |
+| [YOSHIYUKI SAHASHI](../Page/佐橋佳幸.md "wikilink") / GUITARS                                                                                                       |
+| K.ODA / GUITARS                                                                                                                                                 |
+| LUIS CONTE / PERCUSSION                                                                                                                                         |
+| TATSUYA FUNAKOSHI / PERCUSSION                                                                                                                                  |
+| BILL MEYERS / HORN ARRANGEMENT                                                                                                                                  |
+| [JERRY HEY](../Page/ジェリー・ヘイ.md "wikilink") / TRUMPET                                                                                                            |
+| GARY GRANT / TRUMPET                                                                                                                                            |
+| LEW McCREARY / TRUMPET                                                                                                                                          |
+| BRANDON FIELDS / SAX                                                                                                                                            |
+| GARY HERBIG / SAX                                                                                                                                               |
+| TOMMY MORGAN / HARMONICA                                                                                                                                        |
+| MITSUHIRO SONOYAMA / SAX & CLARINET                                                                                                                             |
+| KIM HUTCHTROFT / BARITONE FLUTE                                                                                                                                 |
+| HIDEKI MOCHIZUKI / SYNTH & DRUMS PROGRAMMING                                                                                                                    |
+| RICK RISO / BACKGROUND VOCALS                                                                                                                                   |
+| GARY FOGGITT / BACKGROUND VOCALS                                                                                                                                |
+| LOSE STONE / BACKGROUND VOCALS                                                                                                                                  |
+| VONCIEL FOGGITT / BACKGROUND VOCALS                                                                                                                             |
+| [MASAYUKI SUZUKI](../Page/鈴木雅之_\(歌手\).md "wikilink") / BACKGROUND VOCALS                                                                                        |
+| [EPO](../Page/EPO.md "wikilink") / BACKGROUND VOCALS                                                                                                            |
+| [CHIKUZEN SATOH](../Page/佐藤竹善.md "wikilink") / BACKGROUND VOCALS                                                                                                |
+| [YASUHIRO ABE](../Page/安部恭弘.md "wikilink") / BACKGROUND VOCALS                                                                                                  |
+| [YASUHIRO KIDO](../Page/木戸やすひろ.md "wikilink") / BACKGROUND VOCALS                                                                                               |
+| KIYOSHI HIYAMA / BACKGROUND VOCALS                                                                                                                              |
+| K.ODA / BACKGROUND VOCALS                                                                                                                                       |
+|                                                                                                                                                                 |
+| (MASAYUKI SUZUKI - Courtesy of [EPIC SONY](../Page/エピックレコードジャパン.md "wikilink") / CHIKUZEN SATOH - [SING LIKE TALKING](../Page/SING_LIKE_TALKING.md "wikilink")) |
 
 ### スタッフ
 

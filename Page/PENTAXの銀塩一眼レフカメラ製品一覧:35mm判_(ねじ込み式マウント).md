@@ -87,8 +87,8 @@
 
 ## 関連項目
 
-  - [PENTAX](https://ja.wikipedia.org/wiki/PENTAX "wikilink")（旧・[旭光学工業](https://ja.wikipedia.org/wiki/旭光学工業 "wikilink")）
-  - [PENTAXのカメラ製品一覧](https://ja.wikipedia.org/wiki/PENTAXのカメラ製品一覧 "wikilink")
+  - [PENTAX](../Page/PENTAX.md "wikilink")（旧・[旭光学工業](https://ja.wikipedia.org/wiki/旭光学工業 "wikilink")）
+  - [PENTAXのカメラ製品一覧](../Page/PENTAXのカメラ製品一覧.md "wikilink")
   - [PENTAXの銀塩一眼レフカメラ製品一覧:中判・110フィルム用](../Page/PENTAXの銀塩一眼レフカメラ製品一覧:中判・110フィルム用.md "wikilink")
   - [PENTAXの銀塩コンパクト・APSカメラ製品一覧](../Page/PENTAXの銀塩コンパクト・APSカメラ製品一覧.md "wikilink")
   - [PENTAXのデジタルカメラ製品一覧](../Page/PENTAXのデジタルカメラ製品一覧.md "wikilink")

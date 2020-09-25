@@ -120,8 +120,8 @@
 
 ## 関連項目
 
-  - [PENTAX](https://ja.wikipedia.org/wiki/PENTAX "wikilink")（旧・[旭光学工業](https://ja.wikipedia.org/wiki/旭光学工業 "wikilink")）
-  - [PENTAXのカメラ製品一覧](https://ja.wikipedia.org/wiki/PENTAXのカメラ製品一覧 "wikilink")
+  - [PENTAX](../Page/PENTAX.md "wikilink")（旧・[旭光学工業](https://ja.wikipedia.org/wiki/旭光学工業 "wikilink")）
+  - [PENTAXのカメラ製品一覧](../Page/PENTAXのカメラ製品一覧.md "wikilink")
   - [PENTAXのデジタルカメラ製品一覧](../Page/PENTAXのデジタルカメラ製品一覧.md "wikilink")
   - [PENTAXの写真レンズ製品一覧](../Page/PENTAXの写真レンズ製品一覧.md "wikilink")
   - [写真フィルム](../Page/写真フィルム.md "wikilink")

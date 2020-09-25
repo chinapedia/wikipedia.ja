@@ -13,8 +13,8 @@
 
 ### 人物
 
-  - **[UCO](../Page/U_\(歌手\).md "wikilink")**（ゆーこ）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・作詞・作曲担当／[6月25日](../Page/6月25日.md "wikilink")生まれ／[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")／[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身
-  - **吉見**（よしみ）[ギター](../Page/ギター.md "wikilink")・[ベース](../Page/ベース_\(弦楽器\).md "wikilink")・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")・作曲・編曲担当／[7月23日](../Page/7月23日.md "wikilink")生まれ／[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")／[兵庫県](../Page/兵庫県.md "wikilink")出身
+  - **[UCO](../Page/U_\(歌手\).md "wikilink")**（ゆーこ）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・作詞・作曲担当／[6月25日](../Page/6月25日.md "wikilink")生まれ／[A型](../Page/ABO式血液型.md "wikilink")／[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身
+  - **吉見**（よしみ）[ギター](../Page/ギター.md "wikilink")・[ベース](../Page/ベース_\(弦楽器\).md "wikilink")・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")・作曲・編曲担当／[7月23日](../Page/7月23日.md "wikilink")生まれ／[O型](../Page/ABO式血液型.md "wikilink")／[兵庫県](../Page/兵庫県.md "wikilink")出身
 
 ## 作品
 

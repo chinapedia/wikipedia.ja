@@ -1,7 +1,7 @@
 > この記事は[F2H \(航空機\)](https://ja.wikipedia.org/wiki/F2H_\(航空機\))から翻訳されています。
 
 
-{{ Infobox 航空機 | 名称=F2H バンシー | 画像=画像:F2H_Banshee_VF-11_over_Wonsan_colour_1952.jpg | キャプション=飛行するF2H-2 125663号機
+{{ Infobox 航空機 | 名称=F2H / F-2 バンシー | 画像=画像:F2H_Banshee_VF-11_over_Wonsan_colour_1952.jpg | キャプション=飛行するF2H-2 125663号機
 ([VF-11戦闘飛行隊所属](https://ja.wikipedia.org/wiki/:en:VF-11 "wikilink")、[1952年](../Page/1952年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")撮影) | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類=[艦上戦闘機](../Page/艦上戦闘機.md "wikilink") | 設計者= | 製造者=[マクダネル・エアクラフト社](../Page/マクドネル・エアクラフト.md "wikilink") | 運用者 more=
 \*\*
 
@@ -19,13 +19,13 @@
 
 | 運用状況=退役 | 原型機=[FH ファントム](../Page/FH_\(航空機\).md "wikilink") | ユニットコスト= }} **F2H バンシー**（*McDonnell F2H Banshee* ）は、[マクダネル社が開発し](../Page/マクドネル・エアクラフト.md "wikilink")、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")が運用した[艦上戦闘機](../Page/艦上戦闘機.md "wikilink")。
 
-愛称の「**[バンシー](../Page/バンシー.md "wikilink")**(Banshee)」は、スコットランドに伝わる女の妖精のこと。
+愛称の「**[バンシー](../Page/バンシー.md "wikilink")**(Banshee)」は、スコットランドに伝わる女の妖精のこと。[1962年](../Page/1962年.md "wikilink")に行われた命名規則の改正に伴い、**F-2 バンシー**へと改称された。
 
 ## 概要
 
-F2Hは世界初の純ジェット[艦上戦闘機](../Page/艦上戦闘機.md "wikilink")である[FH（FH-1）ファントム（初代）の発展型として開発された](../Page/FH_\(航空機\).md "wikilink")、事実上アメリカ海軍初の実用ジェット艦上戦闘機である。
+F2Hは世界初の純ジェット[艦上戦闘機](../Page/艦上戦闘機.md "wikilink")である[FH ファントムの発展型として開発された](../Page/FH_\(航空機\).md "wikilink")、事実上アメリカ海軍初の実用ジェット艦上戦闘機である。
 
-第二次世界大戦が終結したこともあり少数が発注されたのみのFHに比べ、F2Hは[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")の生産終了までに800機以上が生産され、[カナダ海軍](../Page/カナダ海軍.md "wikilink")でも運用された。
+第二次世界大戦が終結したこともあり少数のみの発注に終わったFHに比べ、F2Hは[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")の生産終了までに800機以上が生産され、[カナダ海軍](../Page/カナダ海軍.md "wikilink")でも運用された。
 
 ## 開発
 
@@ -191,6 +191,151 @@ F2Hは第7艦隊の空母機動部隊艦載機として、[朝鮮戦争](https:/
         最終生産型。レーダーを搭載した全天候戦闘機型であり、150機製造。新呼称、F-2D。
 
 ファイル:XF2D-1 NAN8-47.jpg|試作型 XF2D-1 ファイル:McDonnell F2H-3 and F2H-2P Banshee in flight, in 1952.jpg|F2H-3及び偵察機型のF2H-2P ファイル:F2H-2P camera equipment NAN3-57.jpg|搭載する偵察機材を並べたF2F-2P ファイル:Royal Canadian Navy McDonnell F2H-3 Banshee in flight, 1957.jpg|カナダ海軍のF-2C（F2H-3）
+
+## 現存する機体
+
+<table>
+<thead>
+<tr class="header">
+<th><p>型名　　</p></th>
+<th><p>番号　</p></th>
+<th><p>機体写真　　　　</p></th>
+<th><p>所在地</p></th>
+<th><p>所有者</p></th>
+<th><p>公開状況</p></th>
+<th><p>状態</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>F2H-2</p></td>
+<td><p>124988<br />
+291</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:McDonnell_F2H-2_Banshee_(22039417566).jpg" title="fig:McDonnell_F2H-2_Banshee_(22039417566).jpg">McDonnell_F2H-2_Banshee_(22039417566).jpg</a></p></td>
+<td><p>アメリカ カリフォルニア州</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Flying_Leatherneck_Aviation_Museum" title="wikilink">飛行海兵航空博物館</a><a href="https://flyingleathernecks.org/">1</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="https://flyingleathernecks.org/project/mcdonnell-f2h-2-banshee/">2</a></p></td>
+</tr>
+<tr class="even">
+<td><p>F2H-2</p></td>
+<td><p>125052<br />
+375</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:F2H_Banshee_USS_Lexington.JPG" title="fig:F2H_Banshee_USS_Lexington.JPG">F2H_Banshee_USS_Lexington.JPG</a></p></td>
+<td><p>アメリカ テキサス州</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:USS_Lexington_(CV-16)#USS_Lexington_Museum" title="wikilink">航空母艦レキシントン博物館</a><a href="https://usslexington.com/">3</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="https://usslexington.com/aircraft/f2h-2-banshee/">4</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>F2H-2P</p></td>
+<td><p>125690<br />
+348</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:125690_BANSHEE_MCDONNEL_F2H-2P_(13507403643).jpg" title="fig:125690_BANSHEE_MCDONNEL_F2H-2P_(13507403643).jpg">125690_BANSHEE_MCDONNEL_F2H-2P_(13507403643).jpg</a></p></td>
+<td><p>アメリカ アリゾナ州</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Pima_Air_&amp;_Space_Museum" title="wikilink">ピマ航空宇宙博物館</a><a href="https://pimaair.org/">5</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="https://pimaair.org/museum-aircraft/mcdonnell-f2h-2p/">6</a></p></td>
+</tr>
+<tr class="even">
+<td><p>F2H-2P</p></td>
+<td><p>126673<br />
+402</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:NavalAirMuseum_4-30-17-2515_(34326977401).jpg" title="fig:NavalAirMuseum_4-30-17-2515_(34326977401).jpg">NavalAirMuseum_4-30-17-2515_(34326977401).jpg</a></p></td>
+<td><p>アメリカ フロリダ州</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/国立海軍航空博物館" title="wikilink">国立海軍航空博物館</a><a href="https://www.navalaviationmuseum.org/">7</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="https://www.navalaviationmuseum.org/aircraft/f2h-2p-photo-banshee/">8</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>F2H-2P</p></td>
+<td><p>128885<br />
+491</p></td>
+<td></td>
+<td><p>アメリカ ルイジアナ州</p></td>
+<td><p>ハウエル公園<a href="http://www.brec.org/index.cfm/park/HowellCommunityPark">9</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p>風防はレプリカとなっており、さらに壊れている。</p></td>
+</tr>
+<tr class="even">
+<td><p>F2H-3<br />
+F-2C</p></td>
+<td><p>126334<br />
+44</p></td>
+<td></td>
+<td><p>カナダ アルバータ州</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:The_Military_Museums" title="wikilink">軍事博物館群</a><a href="https://themilitarymuseums.ca/visit/">10</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>F2H-3<br />
+F-2C</p></td>
+<td><p>126402<br />
+112</p></td>
+<td></td>
+<td><p>カナダ ノヴァスコシア州</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Shearwater_Aviation_Museum" title="wikilink">シアウォーター航空博物館</a><a href="http://shearwateraviationmuseum.ns.ca/">11</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="http://shearwateraviationmuseum.ns.ca/exhibits/banshee.htm">12</a></p></td>
+</tr>
+<tr class="even">
+<td><p>F2H-3<br />
+F-2C</p></td>
+<td><p>126464<br />
+174</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:126464_McDonnell_F2H-3_Banshee_Canadian_Navy_(7637614726).jpg" title="fig:126464_McDonnell_F2H-3_Banshee_Canadian_Navy_(7637614726).jpg">126464_McDonnell_F2H-3_Banshee_Canadian_Navy_(7637614726).jpg</a></p></td>
+<td><p>カナダ オンタリオ州</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Canada_Aviation_and_Space_Museum" title="wikilink">カナダ航空宇宙博物館 (オタワ)</a><a href="https://ingeniumcanada.org/casm">13</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="https://ingeniumcanada.org/artifact/mcdonnell-f2h-3-banshee">14</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>F2H-4<br />
+F-2D</p></td>
+<td><p>127663<br />
+297</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:NavalAirMuseum_4-30-17-2466_(33615126654).jpg" title="fig:NavalAirMuseum_4-30-17-2466_(33615126654).jpg">NavalAirMuseum_4-30-17-2466_(33615126654).jpg</a></p></td>
+<td><p>アメリカ フロリダ州</p></td>
+<td><p>国立海軍航空博物館</p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p>F2H-3 126419号機の塗装がされている。<a href="https://www.navalaviationmuseum.org/aircraft/f2h-4-banshee/">15</a></p></td>
+</tr>
+<tr class="even">
+<td><p>F2H-4<br />
+F-2D</p></td>
+<td><p>127693<br />
+327</p></td>
+<td></td>
+<td><p>アメリカ ヴァージニア州</p></td>
+<td><p>オウシアナ海軍航空基地航空公園<br />
+(Naval Air Station Oceana Airpark)</p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 登場作品
 

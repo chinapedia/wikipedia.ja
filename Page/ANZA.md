@@ -3,7 +3,7 @@
 
 **ANZA**（アンザ、[1976年](../Page/1976年.md "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[女優](../Page/俳優.md "wikilink")。本名および旧芸名は**大山 アンザ**（おおやま -）。
 
-[長崎県](../Page/長崎県.md "wikilink")[大村市](../Page/大村市.md "wikilink")生まれの、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[東海市](https://ja.wikipedia.org/wiki/東海市 "wikilink")育ち。[堀越高等学校](../Page/堀越高等学校.md "wikilink")卒業。身長160cm。血液型は[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+[長崎県](../Page/長崎県.md "wikilink")[大村市](../Page/大村市.md "wikilink")生まれの、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[東海市](https://ja.wikipedia.org/wiki/東海市 "wikilink")育ち。[堀越高等学校](../Page/堀越高等学校.md "wikilink")卒業。身長160cm。血液型は[A型](../Page/ABO式血液型.md "wikilink")。
 
 元[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")所属。[桜っ子クラブさくら組](https://ja.wikipedia.org/wiki/桜っ子クラブさくら組 "wikilink")の元メンバー。
 
@@ -75,7 +75,7 @@
 
 ### 声優出演
 
-  - テレビアニメ『[カードキャプターさくら](../Page/カードキャプターさくら.md "wikilink")』（1999年、女の子）
+  - テレビアニメ『[カードキャプターさくら](../Page/カードキャプターさくら.md "wikilink")』第43話（1999年6月1日） - 女の子\[1\]
 
 ## ディスコグラフィ
 
@@ -93,6 +93,10 @@
 
   - ANZA COMPLETE（1997年8月発売、[ジャパンミックス](https://ja.wikipedia.org/wiki/ジャパンミックス "wikilink")刊）ISBN 4-88321-382-X
 
+## 脚注
+
+<references/>
+
 ## 関連項目
 
   - [森野文子](../Page/森野文子.md "wikilink")
@@ -109,3 +113,5 @@
 
   -
 [Category:日本の女性アイドル](https://ja.wikipedia.org/wiki/Category:日本の女性アイドル "wikilink") [Category:日本の女優](https://ja.wikipedia.org/wiki/Category:日本の女優 "wikilink") [Category:日本のミュージカル女優](https://ja.wikipedia.org/wiki/Category:日本のミュージカル女優 "wikilink") [Category:日本の女性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ロック歌手 "wikilink") [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:日本の女性ヘヴィメタル歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ヘヴィメタル歌手 "wikilink") [Category:スペイン系日本人](https://ja.wikipedia.org/wiki/Category:スペイン系日本人 "wikilink") [Category:南アフリカ系日本人](https://ja.wikipedia.org/wiki/Category:南アフリカ系日本人 "wikilink") [Category:日本の女性作詞家](https://ja.wikipedia.org/wiki/Category:日本の女性作詞家 "wikilink") [Category:日本の女性作曲家](https://ja.wikipedia.org/wiki/Category:日本の女性作曲家 "wikilink") [Category:日本のヘヴィメタル・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル・ミュージシャン "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:過去のスターダストプロモーション所属者](https://ja.wikipedia.org/wiki/Category:過去のスターダストプロモーション所属者 "wikilink") [Category:堀越高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:堀越高等学校出身の人物 "wikilink") [Category:長崎県出身の人物](https://ja.wikipedia.org/wiki/Category:長崎県出身の人物 "wikilink") [Category:愛知県出身の人物](https://ja.wikipedia.org/wiki/Category:愛知県出身の人物 "wikilink") [Category:1976年生](https://ja.wikipedia.org/wiki/Category:1976年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+
+1.  作中で自身が歌っている主題歌「[扉をあけて](https://ja.wikipedia.org/wiki/扉をあけて "wikilink")」をくちずさんでいる。

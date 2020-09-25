@@ -77,8 +77,8 @@
 
 ## 関連項目
 
-  - [PENTAX](https://ja.wikipedia.org/wiki/PENTAX "wikilink")（旧旭光学工業）
-  - [PENTAXのカメラ製品一覧](https://ja.wikipedia.org/wiki/PENTAXのカメラ製品一覧 "wikilink")
+  - [PENTAX](../Page/PENTAX.md "wikilink")（旧旭光学工業）
+  - [PENTAXのカメラ製品一覧](../Page/PENTAXのカメラ製品一覧.md "wikilink")
   - [PENTAXの写真レンズ製品一覧](../Page/PENTAXの写真レンズ製品一覧.md "wikilink")
   - [PENTAXのデジタルカメラ製品一覧](../Page/PENTAXのデジタルカメラ製品一覧.md "wikilink")
   - [一眼レフカメラ](../Page/一眼レフカメラ.md "wikilink")

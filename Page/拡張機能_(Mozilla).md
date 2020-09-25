@@ -17,7 +17,7 @@
 
 ## 技術
 
-2015年にMozillaがアドオンをWebExtensionsに移行させることを発表する前には\[13\]、[XUL](../Page/XUL.md "wikilink")/[XPCOM](../Page/XPCOM.md "wikilink")オーバーレイ、ブートストラップ型拡張機能、Add-on SDKを利用した開発方法が存在した。しかし、WebExtensionsが採用されるようになってからは、それらの技術を利用したアドオンは廃止されることになった。WebExtensionsはクロスブラウザで動作可能なアドオンを開発するための技術で、[Google Chromeや](https://ja.wikipedia.org/wiki/Google_Chrome "wikilink")[Opera](https://ja.wikipedia.org/wiki/Opera "wikilink")のextension APIと互換性があり、わずかな変更だけでFirefoxでも動作させることができる。WebExtensionsは[JavaScript](../Page/JavaScript.md "wikilink")、[HTML](https://ja.wikipedia.org/wiki/HTML "wikilink")、[CSS](../Page/CSS.md "wikilink")などの開発者が使い慣れたWebベースの技術を使用して作成されている。Webページ上のJavaScriptと同じWeb APIを活用できるが、拡張機能は独自のJavaScript APIセットにもアクセスできる\[14\]\[15\] 。
+2015年にMozillaがアドオンをWebExtensionsに移行させることを発表する前には\[13\]、[XUL](../Page/XUL.md "wikilink")/[XPCOM](../Page/XPCOM.md "wikilink")オーバーレイ、ブートストラップ型拡張機能、Add-on SDKを利用した開発方法が存在した。しかし、WebExtensionsが採用されるようになってからは、それらの技術を利用したアドオンは廃止されることになった。WebExtensionsはクロスブラウザで動作可能なアドオンを開発するための技術で、[Google Chromeや](https://ja.wikipedia.org/wiki/Google_Chrome "wikilink")[Opera](https://ja.wikipedia.org/wiki/Opera "wikilink")のextension APIと互換性があり、わずかな変更だけでFirefoxでも動作させることができる。WebExtensionsは[JavaScript](../Page/JavaScript.md "wikilink")、[HTML](https://ja.wikipedia.org/wiki/HTML "wikilink")、[CSSなどの開発者が使い慣れたWebベースの技術を使用して作成されている](../Page/Cascading_Style_Sheets.md "wikilink")。Webページ上のJavaScriptと同じWeb APIを活用できるが、拡張機能は独自のJavaScript APIセットにもアクセスできる\[14\]\[15\] 。
 
 ## インストールと管理
 

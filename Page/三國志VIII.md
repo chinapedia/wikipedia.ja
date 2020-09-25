@@ -65,7 +65,7 @@ PSP版の定番シリーズは、誤って[UMDの内容を](../Page/ユニバー
 
 さらにPS2、PSP版では、全武将が一堂に会した「英雄集結」シナリオが追加された。年代設定は271年になっているが、実際の271年の状況とは関係なく、全武将を集結させた[架空](../Page/架空.md "wikilink")シナリオである。このシナリオのみ[寿命](../Page/寿命.md "wikilink")の設定がない。
 
-また、[257年](https://ja.wikipedia.org/wiki/257年 "wikilink")の[諸葛誕](../Page/諸葛誕.md "wikilink")反乱のシナリオや[264年](https://ja.wikipedia.org/wiki/264年 "wikilink")に[鄧艾](https://ja.wikipedia.org/wiki/鄧艾 "wikilink")や[鍾会](../Page/鍾会.md "wikilink")が反乱を起こしたというifシナリオがユーザーズページから[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")できる。これは通常であればファンクラブに入っていないとダウンロードできないが、[DVD-ROM](https://ja.wikipedia.org/wiki/DVD-ROM "wikilink")版では最初から付属している。
+また、[257年](https://ja.wikipedia.org/wiki/257年 "wikilink")の[諸葛誕](../Page/諸葛誕.md "wikilink")反乱のシナリオや[264年](https://ja.wikipedia.org/wiki/264年 "wikilink")に[鄧艾](../Page/鄧艾.md "wikilink")や[鍾会](../Page/鍾会.md "wikilink")が反乱を起こしたというifシナリオがユーザーズページから[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")できる。これは通常であればファンクラブに入っていないとダウンロードできないが、[DVD-ROM](https://ja.wikipedia.org/wiki/DVD-ROM "wikilink")版では最初から付属している。
 
 ## 脚注
 

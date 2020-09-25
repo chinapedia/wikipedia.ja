@@ -1,7 +1,7 @@
 > この記事は[GAO \(歌手\)](https://ja.wikipedia.org/wiki/GAO_\(歌手\))から翻訳されています。
 
 
-**GAO**（ガオ、[9月14日](../Page/9月14日.md "wikilink") - ）は、[山口県](../Page/山口県.md "wikilink")[徳山市](../Page/徳山市.md "wikilink")（現：[周南市](../Page/周南市.md "wikilink")）出身の[女性](../Page/女性.md "wikilink")[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。生年非公開。一見少年の様に見える[ユニセックス](../Page/ユニセックス.md "wikilink")的なルックスと[ハスキーボイス](../Page/ハスキーボイス.md "wikilink")が特徴。「GAO」とは発声練習中に声をつぶし、その声からつけられたあだ名。四人姉妹の末っ子。身長165cm。血液型は[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**GAO**（ガオ、[9月14日](../Page/9月14日.md "wikilink") - ）は、[山口県](../Page/山口県.md "wikilink")[徳山市](../Page/徳山市.md "wikilink")（現：[周南市](../Page/周南市.md "wikilink")）出身の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")。生年非公開。一見少年の様に見える[ユニセックス](../Page/ユニセックス.md "wikilink")的なルックスと[ハスキーボイス](../Page/ハスキーボイス.md "wikilink")が特徴。「GAO」とは発声練習中に声をつぶし、その声からつけられたあだ名。四人姉妹の末っ子。身長165cm。血液型は[A型](../Page/ABO式血液型.md "wikilink")。
 
 ## 来歴
 
@@ -283,6 +283,6 @@
   -
   -
   -
-[Category:日本の女性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の女性シンガーソングライター "wikilink") [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:バップのアーティスト](https://ja.wikipedia.org/wiki/Category:バップのアーティスト "wikilink") [Category:山口県出身の人物](https://ja.wikipedia.org/wiki/Category:山口県出身の人物 "wikilink") [Category:生年非公表](https://ja.wikipedia.org/wiki/Category:生年非公表 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の女性歌手](https://ja.wikipedia.org/wiki/Category:日本の女性歌手 "wikilink") [Category:日本の女性作詞家](https://ja.wikipedia.org/wiki/Category:日本の女性作詞家 "wikilink") [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:バップのアーティスト](https://ja.wikipedia.org/wiki/Category:バップのアーティスト "wikilink") [Category:山口県出身の人物](https://ja.wikipedia.org/wiki/Category:山口県出身の人物 "wikilink") [Category:生年非公表](https://ja.wikipedia.org/wiki/Category:生年非公表 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.

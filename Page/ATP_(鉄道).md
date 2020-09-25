@@ -3,7 +3,7 @@
 
 **ATP**（Automatic Train Protection）とは[鉄道](../Page/鉄道.md "wikilink")における[自動列車保安装置](../Page/自動列車保安装置.md "wikilink")の一種である。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[自動列車停止装置](../Page/自動列車停止装置.md "wikilink")（ATS）または[自動列車制御装置](../Page/自動列車制御装置.md "wikilink")（ATC）にほぼ相当している。日本語では「**自動列車防護装置**」\[1\]、「**自動列車保護装置**」などの訳が用いられる。主に欧米諸国の[鉄道事業者](https://ja.wikipedia.org/wiki/鉄道事業者 "wikilink")において用いられている。
 
-[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")圏では「自動列車保障装置」、「自動列車防護系統」とも称する。
+[中国語](../Page/中国語.md "wikilink")圏では「自動列車保障装置」、「自動列車防護系統」とも称する。
 
 ## 概要
 

@@ -1,7 +1,7 @@
 > この記事は[Flickr](https://ja.wikipedia.org/wiki/Flickr)から翻訳されています。
 
 
-**Flickr**（フリッカー）は、[写真](../Page/写真.md "wikilink")の共有を目的としたコミュニティサイトである。
+**Flickr**（フリッカー）は、[写真](../Page/写真.md "wikilink")の共有を目的としたコミュニティウェブサイトである。
 
 ## 概要
 

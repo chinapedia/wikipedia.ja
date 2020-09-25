@@ -110,6 +110,7 @@
 ## 外部リンク
 
   - [activebasic.com](http://www.activebasic.com/) （Activebasic公式Webサイト）
-  - [NoVVest](http://www5e.biglobe.ne.jp/~imanisi/) （完全定義ファイルの配布）
+
+  - （完全定義ファイルの配布）
 
 [Category:BASIC](https://ja.wikipedia.org/wiki/Category:BASIC "wikilink") [Category:統合開発環境](https://ja.wikipedia.org/wiki/Category:統合開発環境 "wikilink") [Category:コンパイラ](https://ja.wikipedia.org/wiki/Category:コンパイラ "wikilink") [Category:フリーウェア](https://ja.wikipedia.org/wiki/Category:フリーウェア "wikilink") [Category:オブジェクト指向言語](https://ja.wikipedia.org/wiki/Category:オブジェクト指向言語 "wikilink")

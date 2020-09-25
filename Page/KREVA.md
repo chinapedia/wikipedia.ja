@@ -537,7 +537,7 @@ CD+DVD</p></td>
       - オムニバスアルバム「monday night studio session」に収録
   - climax（2016年7月13日）
       - 鈴木雅之、アルバム「[dolce](https://ja.wikipedia.org/wiki/dolce_\(鈴木雅之のアルバム\) "wikilink")」に収録
-  - Glory / [絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink")＆KREVA （2018年8月31日）
+  - Glory / [絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink") & KREVA （2018年8月31日）
       - 配信シングル「Glory」に収録（その後、2018年11月14日発売の絢香のアルバム「30 y/o」に収録）
   - Answer feat. KREVA（2018年11月28日）
       - [向井太一](https://ja.wikipedia.org/wiki/向井太一 "wikilink")、アルバム「PURE」に収録
@@ -552,7 +552,9 @@ CD+DVD</p></td>
   - 夢追人 feat. KREVA（2020年7月1日）
       - [PUNPEE](https://ja.wikipedia.org/wiki/PUNPEE "wikilink")、配信アルバム「[The Sofakingdom](../Page/The_Sofakingdom.md "wikilink")」に収録
   - One Mic feat. KREVA（2020年8月19日）
-      - [ZORN](https://ja.wikipedia.org/wiki/ZORN "wikilink")、配信シングル「[One Mic feat. KREVA](../Page/One_Mic_feat._KREVA.md "wikilink")」に収録
+      - [ZORN](https://ja.wikipedia.org/wiki/ZORN "wikilink")、配信シングル「[One Mic feat. KREVA](https://ja.wikipedia.org/wiki/One_Mic "wikilink")」に収録
+  - RUN REMIX feat. KREVA & [VaVa](https://ja.wikipedia.org/wiki/VaVa "wikilink")（2020年9月4日）
+      - tofubeats、配信アルバム「RUN REMIXES」に収録
 
 ### リミックス
 

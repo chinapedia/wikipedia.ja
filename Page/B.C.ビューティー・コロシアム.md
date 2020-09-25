@@ -1,7 +1,8 @@
 > この記事は[B.C.ビューティー・コロシアム](https://ja.wikipedia.org/wiki/B.C.ビューティー・コロシアム)から翻訳されています。
 
 
-『**B. C. ビューティー・コロシアム**』は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で放送されている](../Page/フジネットワーク.md "wikilink")[容姿の悩みを相談し](../Page/容貌.md "wikilink")、解決していく[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[2001年](../Page/2001年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")の間に[金曜日](../Page/金曜日.md "wikilink")19:00 - 19:57（[JST](../Page/日本標準時.md "wikilink")）でレギュラー放送され、レギュラー放送終了後は『[カスペ\!](../Page/カスペ!.md "wikilink")』枠を中心に不定期の[特別番組](../Page/特別番組.md "wikilink")として放送。[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。[ステレオ放送](../Page/ステレオ放送.md "wikilink")が実施されている。
+『**B. C. ビューティー・コロシアム**』は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で放送されている](../Page/フジネットワーク.md "wikilink")[容姿の悩みを相談し](../Page/容貌.md "wikilink")、解決していく[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。[ステレオ放送](../Page/ステレオ放送.md "wikilink")が実施されている。
+[2001年](../Page/2001年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")の間に[金曜日](../Page/金曜日.md "wikilink")19:00 - 19:57（[JST](../Page/日本標準時.md "wikilink")）でレギュラー放送され、レギュラー放送終了後は『[カスペ\!](../Page/カスペ!.md "wikilink")』枠を中心に不定期の[特別番組](../Page/特別番組.md "wikilink")として放送。[2020年](../Page/2020年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink")には『[日曜THEリアル\!](https://ja.wikipedia.org/wiki/日曜THEリアル! "wikilink")』枠で、同コンセプトの『**美容ゴットハンド**（ビューティ・ゴットハンド）』が番組編成された。
 
 ## 概要
 
@@ -33,65 +34,19 @@
 
 ### 司会
 
-**2001年10月26日 - 2004年6月1日**
-
-  - [和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")
-  - [島田紳助](../Page/島田紳助.md "wikilink")
-
-**2004年11月16日 - 2011年2月22日**
+**2001年10月26日 - 2004年6月1日**  **2004年11月16日 - 2011年2月22日**
 
   - 和田アキ子
 
 ### 主なビューティー・コメンテーター
 
-  - [中尾彬](../Page/中尾彬.md "wikilink")
-  - [梅宮辰夫](https://ja.wikipedia.org/wiki/梅宮辰夫 "wikilink")
-  - [奈美悦子](../Page/奈美悦子.md "wikilink")
-  - [ピーター](https://ja.wikipedia.org/wiki/池畑慎之介☆ "wikilink")
-  - [石田純一](../Page/石田純一.md "wikilink")
-  - [柳沢慎吾](../Page/柳沢慎吾.md "wikilink")
-  - [薬丸裕英](../Page/薬丸裕英.md "wikilink")
-  - [山咲トオル](../Page/山咲トオル.md "wikilink")
-  - [飯星景子](../Page/飯星景子.md "wikilink")
-  - [光浦靖子](https://ja.wikipedia.org/wiki/光浦靖子 "wikilink")
-  - [加藤明日美](../Page/加藤明日美.md "wikilink")
-  - [熊切あさ美](https://ja.wikipedia.org/wiki/熊切あさ美 "wikilink")
-  - [浜口順子](../Page/浜口順子.md "wikilink")
-  - [室井佑月](https://ja.wikipedia.org/wiki/室井佑月 "wikilink")
-  - [宮崎美子](../Page/宮崎美子.md "wikilink")
-  - [長井秀和](../Page/長井秀和.md "wikilink")
-  - [阿藤快](../Page/阿藤快.md "wikilink")
-  - [西村知美](https://ja.wikipedia.org/wiki/西村知美 "wikilink")
-  - [杉本彩](../Page/杉本彩.md "wikilink")
-  - [熊田曜子](https://ja.wikipedia.org/wiki/熊田曜子 "wikilink")
-  - [カンニング竹山](https://ja.wikipedia.org/wiki/竹山隆範 "wikilink")
-  - [東貴博](../Page/東貴博.md "wikilink")
-  - [土田晃之](https://ja.wikipedia.org/wiki/土田晃之 "wikilink")
-  - [鈴木紗理奈](../Page/鈴木紗理奈.md "wikilink")
-  - [千原ジュニア](../Page/千原ジュニア.md "wikilink")
-  - [はるな愛](../Page/はるな愛.md "wikilink") ほか
-
 ### 美のプロフェッショナル
 
 #### ヘアー
 
-  - [坂巻哲也](https://ja.wikipedia.org/wiki/坂巻哲也 "wikilink")
-  - [宮村浩気](../Page/宮村浩気.md "wikilink")
-  - [野沢道生](https://ja.wikipedia.org/wiki/野沢道生 "wikilink")
-
 #### メイク
 
-  - [TAKAKO (ビューティークリエイター)](https://ja.wikipedia.org/wiki/TAKAKO_\(ビューティークリエイター\) "wikilink")
-  - [大橋タカコ](https://ja.wikipedia.org/wiki/大橋タカコ "wikilink")
-  - [三上宏幸](https://ja.wikipedia.org/wiki/三上宏幸 "wikilink")
-  - [白土淳子](https://ja.wikipedia.org/wiki/白土淳子 "wikilink")
-
 #### スタイリスト
-
-  - [桐原三恵子](https://ja.wikipedia.org/wiki/桐原三恵子 "wikilink")
-  - [遠山真紀](https://ja.wikipedia.org/wiki/遠山真紀 "wikilink")
-  - [松本光司](https://ja.wikipedia.org/wiki/松本光司_\(スタイリスト\) "wikilink")
-  - [鬼塚美代子](https://ja.wikipedia.org/wiki/鬼塚美代子 "wikilink")
 
 #### エステティシャン
 
@@ -255,6 +210,7 @@
 ## 外部リンク
 
   - [番組情報ページ](https://www.fujitv.co.jp/b_hp/beautyc/index.html)
+  - [日曜THEリアル！・あなたを美しくします！美容（ビューティ）ゴッドハンド](https://www.fujitv.co.jp/b_hp/beautygodhand/)
 
 [Category:カスペ\!](https://ja.wikipedia.org/wiki/Category:カスペ! "wikilink") [Category:フジテレビの特別番組](https://ja.wikipedia.org/wiki/Category:フジテレビの特別番組 "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:2001年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のテレビ番組_\(日本\) "wikilink") [Category:美容を題材とした番組](https://ja.wikipedia.org/wiki/Category:美容を題材とした番組 "wikilink") [Category:和田アキ子](https://ja.wikipedia.org/wiki/Category:和田アキ子 "wikilink") [Category:島田紳助](https://ja.wikipedia.org/wiki/Category:島田紳助 "wikilink")
 

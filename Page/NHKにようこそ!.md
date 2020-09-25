@@ -418,5 +418,5 @@ Kim Jung-Chul</p></td>
 
 [Category:日本の小説](https://ja.wikipedia.org/wiki/Category:日本の小説 "wikilink") [Category:2001年の小説](https://ja.wikipedia.org/wiki/Category:2001年の小説 "wikilink") [Category:漫画作品_え](https://ja.wikipedia.org/wiki/Category:漫画作品_え "wikilink") [Category:月刊少年エースの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊少年エースの漫画作品 "wikilink") [Category:おたくを主題とする小説](https://ja.wikipedia.org/wiki/Category:おたくを主題とする小説 "wikilink") [Category:おたくを主題とする漫画作品](https://ja.wikipedia.org/wiki/Category:おたくを主題とする漫画作品 "wikilink") [Category:引きこもりを題材とした小説](https://ja.wikipedia.org/wiki/Category:引きこもりを題材とした小説 "wikilink") [Category:川崎市を舞台とした小説](https://ja.wikipedia.org/wiki/Category:川崎市を舞台とした小説 "wikilink") [Category:引きこもりを題材とした漫画](https://ja.wikipedia.org/wiki/Category:引きこもりを題材とした漫画 "wikilink") [Category:川崎市を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:川崎市を舞台とした漫画作品 "wikilink")
 
-1.  [N・H・Kにようこそ！サポーターズクラブ「日本ひ○こ○り協会BEWE支部」](http://web.archive.org/web/20100115183242/http://testbewe.bewe.sc/nhk) BEWE、2009年8月28日 閲覧。（2010年1月15日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+1.  [N・H・Kにようこそ！サポーターズクラブ「日本ひ○こ○り協会BEWE支部」](https://web.archive.org/web/20100115183242/http://testbewe.bewe.sc/nhk) BEWE、2009年8月28日 閲覧。（2010年1月15日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 2.  [ＮＨＫにようこそ！（１）](https://www.kadokawa.co.jp/product/200403000017/)角川書店公式サイト

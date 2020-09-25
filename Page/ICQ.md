@@ -1,7 +1,7 @@
 > この記事は[ICQ](https://ja.wikipedia.org/wiki/ICQ)から翻訳されています。
 
 
-[Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink"){{・}}[7](../Page/Microsoft_Windows_7.md "wikilink"){{・}}[8](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink"){{・}}[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink"){{・}}[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink"){{・}}[Android](../Page/Android.md "wikilink") | 対応プラットフォーム = | 種別 = [インスタントメッセンジャー](../Page/インスタントメッセンジャー.md "wikilink") | ライセンス = ICQ [EULA](../Page/ライセンス.md "wikilink") | 公式サイト = [ICQ.com](http://www.icq.com/) }} **ICQ**（アイシーキュー）は、[1996年](../Page/1996年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink")に[イスラエル](../Page/イスラエル.md "wikilink")のMirabilis社により開発された[インスタントメッセンジャー](../Page/インスタントメッセンジャー.md "wikilink")（以下IM）である\[1\]。このICQという名称は、"I seek you"のフレーズに由来する。
+[Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink"){{・}}[7](../Page/Microsoft_Windows_7.md "wikilink"){{・}}[8](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink"){{・}}[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink"){{・}}[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink"){{・}}[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink") | 対応プラットフォーム = | 種別 = [インスタントメッセンジャー](../Page/インスタントメッセンジャー.md "wikilink") | ライセンス = ICQ [EULA](../Page/ライセンス.md "wikilink") | 公式サイト = [ICQ.com](http://www.icq.com/) }} **ICQ**（アイシーキュー）は、[1996年](../Page/1996年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink")に[イスラエル](../Page/イスラエル.md "wikilink")のMirabilis社により開発された[インスタントメッセンジャー](../Page/インスタントメッセンジャー.md "wikilink")（以下IM）である\[1\]。このICQという名称は、"I seek you"のフレーズに由来する。
 
 ## 概要
 

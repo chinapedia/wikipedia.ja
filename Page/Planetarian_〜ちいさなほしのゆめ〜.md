@@ -31,7 +31,7 @@
   - [2011年](../Page/2011年.md "wikilink")
       - [5月12日](../Page/5月12日.md "wikilink") - イベント限定販売であったPSPパッケージ版を、同年3月11日に発生した[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")を受け、『東北地方太平洋沖地震被災地チャリティー版』として初回生産分のみ一般販売\[3\]。16,663本の発注を受け、諸経費を差し引いた[プロトタイプの利益や](../Page/プロトタイプ_\(企業\).md "wikilink")[版権](../Page/版権.md "wikilink")元のビジュアルアーツに入る[ロイヤルティー](../Page/ロイヤルティー.md "wikilink")などの合計金額およそ2,000万円を、[日本赤十字社](https://ja.wikipedia.org/wiki/日本赤十字社 "wikilink")を通じて全額被災地への義援金に充てた\[4\]。
       - [11月8日](../Page/11月8日.md "wikilink") - [スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")用ゲームとして、[iOS版](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、配信開始（全キャラクターフルボイス対応）。
-      - [11月30日](../Page/11月30日.md "wikilink") - [Android](../Page/Android.md "wikilink")版（全キャラクターフルボイス対応）、デジタルノベルアプリ『星の人〜planetarian サイドストーリー〜』（全4話）配信開始。
+      - [11月30日](../Page/11月30日.md "wikilink") - [Android版](../Page/Android_\(オペレーティングシステム\).md "wikilink")（全キャラクターフルボイス対応）、デジタルノベルアプリ『星の人〜planetarian サイドストーリー〜』（全4話）配信開始。
   - [2016年](../Page/2016年.md "wikilink")
       - 7月7日 - WEBアニメ「planetarian 〜ちいさなほしのゆめ〜」配信開始。全5話。
       - [7月29日](../Page/7月29日.md "wikilink") - [Windows Vista以降に対応し](https://ja.wikipedia.org/wiki/Windows_Vista "wikilink")、グラフィックの解像度を上げるなど、現在のPC環境に合わせた変更を受けたPC版『HDエディション』発売。

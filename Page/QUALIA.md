@@ -1,7 +1,7 @@
 > この記事は[QUALIA](https://ja.wikipedia.org/wiki/QUALIA)から翻訳されています。
 
 
-**QUALIA**（クオリア）は、かつて[ソニー](../Page/ソニー.md "wikilink")が展開していた[AV機器](https://ja.wikipedia.org/wiki/AV機器 "wikilink")の高級[ブランド](../Page/ブランド.md "wikilink")である。「感覚の質感」という意味の学術用語「[クオリア](../Page/クオリア.md "wikilink")」に由来する。
+[Sony_Qualia_016_Q016-WE1_CP+_2011.jpg](https://ja.wikipedia.org/wiki/File:Sony_Qualia_016_Q016-WE1_CP+_2011.jpg "fig:Sony_Qualia_016_Q016-WE1_CP+_2011.jpg") **QUALIA**（クオリア）は、かつて[ソニー](../Page/ソニー.md "wikilink")が展開していた[AV機器](https://ja.wikipedia.org/wiki/AV機器 "wikilink")の高級[ブランド](../Page/ブランド.md "wikilink")である。「感覚の質感」という意味の学術用語「[クオリア](../Page/クオリア.md "wikilink")」に由来する。
 
 ## 概要
 

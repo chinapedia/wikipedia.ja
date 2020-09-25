@@ -275,11 +275,7 @@ JFLまたは九州サッカーリーグのみ
   - **[全国地域リーグ決勝大会](https://ja.wikipedia.org/wiki/全国地域リーグ決勝大会 "wikilink")**
       - 3位：2回 (2004年、2008年)
 
-<!-- end list -->
-
-  - 個人
-
-<!-- end list -->
+### 個人
 
   - JFLベストイレブン
       - 2016年 - [肝付将臣](https://ja.wikipedia.org/wiki/肝付将臣 "wikilink")

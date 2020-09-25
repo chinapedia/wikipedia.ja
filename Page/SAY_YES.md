@@ -54,12 +54,12 @@
 1.  **SAY YES** (4:46)
     （作詞・作曲：[飛鳥涼](https://ja.wikipedia.org/wiki/ASKA "wikilink")　編曲：[十川知司](../Page/十川ともじ.md "wikilink")）
       -
-        [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[月9](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[101回目のプロポーズ](../Page/101回目のプロポーズ.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink")。また、[三菱自動車](../Page/三菱自動車工業.md "wikilink")「[グランディス](../Page/三菱・グランディス.md "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")\[21\]。
+        [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[月9](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[101回目のプロポーズ](../Page/101回目のプロポーズ.md "wikilink")』主題歌。また、[三菱自動車](../Page/三菱自動車工業.md "wikilink")「[グランディス](../Page/三菱・グランディス.md "wikilink")」CMソング\[21\]。
         ドラマのテーマソングの制作依頼があり第1週分の台本が届いたが、ASKAは当時台本を読むパワーと時間が無かったためにスタッフに台本の内容を読んでもらいながら自分なりに作り、ドラマのイメージと運よく重なったと言う\[22\]。
         『101回目のプロポーズ』の2クール前に同枠で放送されていた『[東京ラブストーリー](https://ja.wikipedia.org/wiki/東京ラブストーリー#テレビドラマ "wikilink")』の主題歌に起用された[小田和正](../Page/小田和正.md "wikilink")の「[ラブ・ストーリーは突然に](../Page/ラブ・ストーリーは突然に.md "wikilink")」はドラマの内容に合わないとプロデューサーに言われて小田が書き直したが、逆に「SAY YES」はASKAが自信作であったことと、視聴者から「別れてさせないでほしい」という要望が殺到したことによりドラマの結末内容が曲の歌詞に合わせて書き直された\[23\]\[24\]。
         [2005年](../Page/2005年.md "wikilink")に放送された『[第56回NHK紅白歌合戦](../Page/第56回NHK紅白歌合戦.md "wikilink")』の「[スキウタ〜紅白みんなでアンケート〜](../Page/スキウタ〜紅白みんなでアンケート〜.md "wikilink")」で白組67位にランクインした。また、[NEWSポストセブン](https://ja.wikipedia.org/wiki/NEWSポストセブン "wikilink")が[2017年](../Page/2017年.md "wikilink")に発表した「ドラマ好き女性1000人に聞いた人生史上いちばん好きな主題歌ランキング」で6位にランクインしている\[25\]。
         2002年に発売された[セルフカバー](../Page/セルフカバー.md "wikilink")・アルバム『[STAMP](https://ja.wikipedia.org/wiki/STAMP_\(CHAGE_and_ASKAのアルバム\) "wikilink")』では、大胆に[アレンジした楽曲を収録している](../Page/編曲.md "wikilink")。また、企画シングル盤「[SEAMLESS SINGLES](https://ja.wikipedia.org/wiki/SEAMLESS_SINGLES "wikilink")」にも収録された。
-        [ゴールデンボンバーの](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")[鬼龍院翔](https://ja.wikipedia.org/wiki/鬼龍院翔 "wikilink")と[氣志團](../Page/氣志團.md "wikilink")の[綾小路翔](https://ja.wikipedia.org/wiki/綾小路翔 "wikilink")がこの楽曲のイントロに衝撃と感動したことを[ラジオ番組](../Page/ラジオ番組.md "wikilink")『[綾小路翔のオールナイトニッポンPremium](https://ja.wikipedia.org/wiki/オールナイトニッポンpremium "wikilink")』で述べている\[26\]。歌手の[新妻聖子](../Page/新妻聖子.md "wikilink")は、大好きな楽曲として自身の[Twitter](../Page/Twitter.md "wikilink")にてコメントしている\[27\]。
+        [ゴールデンボンバーの](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")[鬼龍院翔](https://ja.wikipedia.org/wiki/鬼龍院翔 "wikilink")と[氣志團](../Page/氣志團.md "wikilink")の[綾小路翔](https://ja.wikipedia.org/wiki/綾小路翔 "wikilink")がこの楽曲のイントロに衝撃と感動したことを[ラジオ番組](../Page/ラジオ番組.md "wikilink")『[綾小路翔のオールナイトニッポンPremium](https://ja.wikipedia.org/wiki/オールナイトニッポンpremium "wikilink")』で述べている\[26\]。歌手の[新妻聖子](../Page/新妻聖子.md "wikilink")は、大好きな楽曲として自身の[Twitter](../Page/Twitter.md "wikilink")にてコメントしている\[27\]。[嵐の](../Page/嵐_\(グループ\).md "wikilink")[櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")は初めて人前で歌った楽曲として、この楽曲を挙げている\[28\]。
 2.  **告白** (5:49)
     （作詞：青木せい子　作曲：[CHAGE](../Page/Chage.md "wikilink")　編曲：十川知司）
       -
@@ -116,15 +116,15 @@
   - [柴田知美](https://ja.wikipedia.org/wiki/柴田知美 "wikilink")（2013年、カバー・アルバム『Cover Collection』）
   - [高杉さと美](../Page/高杉さと美.md "wikilink")（2013年、カバー・アルバム『Satomi』）
   - リー・ダイモー（李代沫）（2013年、中国版映画『[101回目のプロポーズ　〜SAY YES〜](https://ja.wikipedia.org/wiki/101回目のプロポーズ#映画版 "wikilink")』主題歌）
-  - [中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")（2017年、カバー・アルバム『[ROOTS 〜Piano & Voice〜](https://ja.wikipedia.org/wiki/ROOTS_〜Piano_&_Voice〜 "wikilink")』\[28\]）
-  - 吉田悠樹（2017年、カバーアルバム『ROAM』\[29\]）
+  - [中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")（2017年、カバー・アルバム『[ROOTS 〜Piano & Voice〜](https://ja.wikipedia.org/wiki/ROOTS_〜Piano_&_Voice〜 "wikilink")』\[29\]）
+  - 吉田悠樹（2017年、カバーアルバム『ROAM』\[30\]）
 
 ## 関連項目
 
   - [1991年の音楽](../Page/1991年の音楽.md "wikilink")
   - [101回目のプロポーズ](../Page/101回目のプロポーズ.md "wikilink")
   - [SAY NO](https://ja.wikipedia.org/wiki/イミテイション・ゴールド〜金爆の名曲二番搾り〜#収録曲 "wikilink")
-      - [ゴールデンボンバーの楽曲](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")。「SAY YES」をパロディ化したものを『[イミテイション・ゴールド〜金爆の名曲二番搾り〜](https://ja.wikipedia.org/wiki/イミテイション・ゴールド〜金爆の名曲二番搾り〜 "wikilink")』に収録している\[30\]。
+      - [ゴールデンボンバーの楽曲](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")。「SAY YES」をパロディ化したものを『[イミテイション・ゴールド〜金爆の名曲二番搾り〜](https://ja.wikipedia.org/wiki/イミテイション・ゴールド〜金爆の名曲二番搾り〜 "wikilink")』に収録している\[31\]。
   - [オリコンチャート\#オリコンシングルの売上枚数ベスト20](https://ja.wikipedia.org/wiki/オリコンチャート#オリコンシングルの売上枚数ベスト20 "wikilink")
   - [西鉄特急](../Page/西鉄特急.md "wikilink") - [8000系運用の際に](../Page/西鉄8000形電車.md "wikilink")[二日市到着時の車内放送に使われた](https://ja.wikipedia.org/wiki/西鉄二日市駅 "wikilink")。
 
@@ -169,6 +169,7 @@
 25. [女性1000人が選んだ「いちばん好きなドラマ主題歌」トップ10](http://www.news-postseven.com/archives/20171221_638989.html?PAGE=1#container) [NEWSポストセブン](https://ja.wikipedia.org/wiki/NEWSポストセブン "wikilink") 2017年12月22日閲覧
 26. [綾小路翔と鬼龍院翔が白熱！チャゲアス「SAY YES」の魅力](http://www.allnightnippon.com/news/20171031-11027/) 2017年11月12日閲覧
 27. [新妻聖子(@seikoniizuma) 2018年11月27日23:21のツイート](https://twitter.com/seikoniizuma/status/1067425595087183874?s=21) Twitter 2019年10月24日閲覧
-28. [中島美嘉 全新録カヴァーアルバム発売決定！ 玉置浩二/スピッツ/桑田佳祐らに「ご縁返し」](http://www.billboard-japan.com/sp/d_news/detail/51821) ビルボードジャパン 2017年6月24日閲覧
-29. [吉田悠樹、チャゲアスや王貞治カバー収めた初のソロアルバムリリース](http://natalie.mu/music/news/245818) 音楽ナタリー 2017年9月3日閲覧
-30. [祝紅白\! ゴールデンボンバーの楽しみ方](http://bylines.news.yahoo.co.jp/fukuryu/20121230-00022890/) Yahoo\!ニュース 2016年8月20日閲覧。
+28. [【音楽】嵐「君のうた」に反響「さっき天使いたよね？」](https://www.musicvoice.jp/news/202009120163244/) ミュージックヴォイス 2020年9月12日配信, 2020年9月14日閲覧
+29. [中島美嘉 全新録カヴァーアルバム発売決定！ 玉置浩二/スピッツ/桑田佳祐らに「ご縁返し」](http://www.billboard-japan.com/sp/d_news/detail/51821) ビルボードジャパン 2017年6月24日閲覧
+30. [吉田悠樹、チャゲアスや王貞治カバー収めた初のソロアルバムリリース](http://natalie.mu/music/news/245818) 音楽ナタリー 2017年9月3日閲覧
+31. [祝紅白\! ゴールデンボンバーの楽しみ方](http://bylines.news.yahoo.co.jp/fukuryu/20121230-00022890/) Yahoo\!ニュース 2016年8月20日閲覧。

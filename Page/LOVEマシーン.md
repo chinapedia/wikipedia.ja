@@ -178,7 +178,7 @@
 
   - [リリース詳細｜ハロー！プロジェクト　オフィシャルサイト](http://www.helloproject.com/release/detail/EPDE-1052/)
 
-  - [つんく♂オフィシャルウェブサイトのコメント](http://www.tsunku.net/producework.php?Music_ArtistID=56&@DB_ID@=65#01)
+  - [つんく♂オフィシャルウェブサイトのコメント](https://www.tsunku.net/producework.php?Music_ArtistID=56&@DB_ID@=65#01)
 
   -
   - [ライムスター宇多丸のウィークエンド・シャッフル　放送後記第66回](http://www.tbsradio.jp/utamaru/2008/07/index2.html)

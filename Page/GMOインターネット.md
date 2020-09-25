@@ -43,7 +43,7 @@
   - [1999年](../Page/1999年.md "wikilink")
       - 4月 - [ICANN](../Page/ICANN.md "wikilink")より商用ドメイン名登録機関（[レジストラ](https://ja.wikipedia.org/wiki/レジストラ "wikilink")）に選出。
       - 8月 - 株式を店頭（現:[ジャスダック](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")）公開。
-      - 9月 - [子会社](../Page/子会社.md "wikilink")として、株式会社まぐクリック（現:[GMOアドパートナーズ](https://ja.wikipedia.org/wiki/GMOアドパートナーズ "wikilink")株式会社）を設立。
+      - 9月 - [子会社](../Page/子会社.md "wikilink")として、株式会社まぐクリック（現:[GMOアドパートナーズ](../Page/GMOアドパートナーズ.md "wikilink")株式会社）を設立。
   - [2000年](../Page/2000年.md "wikilink")
       - 9月 - 株式会社まぐクリックがNASDAQジャパン（現:[ジャスダック](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")）に上場。
       - 12月 - ドメイン登録サービス「お名前.com」にて、登録数10万件突破。

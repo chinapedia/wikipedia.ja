@@ -1,7 +1,7 @@
 > この記事は[Eyes on Japan](https://ja.wikipedia.org/wiki/Eyes_on_Japan)から翻訳されています。
 
 
-**Eyes on Japan**（アイズ・オン・ジャパン）は、[JFN系各局にて](../Page/全国FM放送協議会.md "wikilink")2006年4月3日から9月29日まで生放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+**Eyes on Japan**（アイズ・オン・ジャパン）は、[JFN系列各局にて](../Page/全国FM放送協議会.md "wikilink")[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[9月29日](../Page/9月29日.md "wikilink")まで生放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 ## 概要
 
@@ -233,4 +233,4 @@
 
   - [Eyes on Japan](http://www.tfm.co.jp/eyes/) - [リンク切れ](../Page/リンク切れ.md "wikilink")
 
-[Category:TOKYO_FMの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組の歴史 "wikilink") [Category:JFNCの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:JFNCの帯番組の歴史 "wikilink") [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink")
+[Category:TOKYO_FMの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組の歴史 "wikilink") [Category:JFNCの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:JFNCの帯番組の歴史 "wikilink") [Category:JFN系ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの情報・ワイドショー番組 "wikilink") [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink")

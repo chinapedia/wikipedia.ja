@@ -5,7 +5,7 @@
 
 後にパソコン用にも移植され、[1996年](../Page/1996年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")に[Windows版](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[2000年](../Page/2000年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")にPCゲームBestシリーズ版（発売：[サイバーフロント](../Page/サイバーフロント.md "wikilink")）、[2004年](../Page/2004年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")にPCゲームBestシリーズプラチナセレクション版（発売：サイバーフロント）が発売されている。
 
-[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")版は[2011年](../Page/2011年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")より[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")にて、[2013年](../Page/2013年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")より[Wii Uにて](https://ja.wikipedia.org/wiki/Wii_U "wikilink")、[2016年](../Page/2016年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink")より[Newニンテンドー3DS](https://ja.wikipedia.org/wiki/Newニンテンドー3DS "wikilink")にてそれぞれ配信が開始された。 [iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")版は[2012年](../Page/2012年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")に配信が開始された。
+[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")版は[2011年](../Page/2011年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")より[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")にて、[2013年](../Page/2013年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")より[Wii Uにて](https://ja.wikipedia.org/wiki/Wii_U "wikilink")、[2016年](../Page/2016年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink")より[Newニンテンドー3DS](https://ja.wikipedia.org/wiki/Newニンテンドー3DS "wikilink")にてそれぞれ配信が開始された。[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")版は[2012年](../Page/2012年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")に配信が開始された。
 
 ## 概要
 
@@ -158,7 +158,7 @@
 
 エックスは初期装備のエックスバスター以外に8つのステージの各ボスを倒すと、そのボスが所有する特殊武器を入手できる。また、アームパーツの入手によりチャージが可能になる。
 
-※ **名称の記述は「入手する特殊武器 - 所有するボス」とし、以下に述べる**
+※**名称の記述は「入手する特殊武器 - 所有するボス」とし、以下に述べる**
 
   - ホーミングトーピード（Homing Torpedo\[5\]） - ランチャー・オクトパルド
 
@@ -305,7 +305,7 @@
 <td><p>カプコン</p></td>
 <td><p><a href="../Page/サイバーフロント.md" title="wikilink">サイバーフロント</a></p></td>
 <td><p>CD-ROM<br />
-(PCゲームBestシリーズ)</p></td>
+（PCゲームBestシリーズ）</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>廉価版</p></td>
@@ -318,7 +318,7 @@
 <td><p>カプコン</p></td>
 <td><p>サイバーフロント</p></td>
 <td><p>CD-ROM<br />
-(PCゲームBestシリーズプラチナセレクション)</p></td>
+（PCゲームBestシリーズプラチナセレクション）</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>廉価版</p></td>
@@ -345,7 +345,7 @@
 <td><p>カプコン</p></td>
 <td><p>カプコン</p></td>
 <td><p><a href="../Page/ダウンロード販売.md" title="wikilink">ダウンロード</a><br />
-(<a href="../Page/バーチャルコンソール.md" title="wikilink">バーチャルコンソール</a>)</p></td>
+（<a href="../Page/バーチャルコンソール.md" title="wikilink">バーチャルコンソール</a>）</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -359,7 +359,7 @@
 <td><p>カプコン</p></td>
 <td><p>カプコン</p></td>
 <td><p>ダウンロード<br />
-(<a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">ios</a>)</p></td>
+（<a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">ios</a>）</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -372,7 +372,7 @@
 <td><p>カプコン</p></td>
 <td><p>カプコン</p></td>
 <td><p>ダウンロード<br />
-(バーチャルコンソール)</p></td>
+（バーチャルコンソール）</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -385,7 +385,7 @@
 <td><p>カプコン</p></td>
 <td><p>カプコン</p></td>
 <td><p>ダウンロード<br />
-(バーチャルコンソール)</p></td>
+（バーチャルコンソール）</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td></td>

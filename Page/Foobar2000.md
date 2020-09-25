@@ -200,7 +200,7 @@ Default User Interfaceより以前からカラムを使用しており、**UI ex
 
 ### ポータブル機器のサポート
 
-サードパーティー製のコンポーネントである**iPod manager**や'''foo-androidsync '''によって、foobar2000で[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")、[iOS端末](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")（Ver.4.3.5まで）や[Android](../Page/Android.md "wikilink")端末を管理することができる\[24\]。 iPodシリーズのほとんどにおいて、転送には[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")のインストールを必要とする。\[25\]
+サードパーティー製のコンポーネントである**iPod manager**や'''foo-androidsync '''によって、foobar2000で[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")、[iOS端末](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")（Ver.4.3.5まで）や[Android端末を管理することができる](../Page/Android_\(オペレーティングシステム\).md "wikilink")\[24\]。 iPodシリーズのほとんどにおいて、転送には[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")のインストールを必要とする。\[25\]
 
 機能は、iPodへのファイルの転送・管理、iPod未対応の形式に対して転送時にエンコードする機能（MP3 (LAME)、AAC (Nero)、Apple Lossless (ffmpeg) のプリセットが用意されている）、リプレイゲインをサウンドチェックに変換、ギャップレス情報の転送（LAME MP3、Nero AAC、iTunes AACに対応）、アルバムアートの転送、プレイリストの管理などである。
 

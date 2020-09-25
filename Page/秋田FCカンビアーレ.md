@@ -5,7 +5,7 @@
 
 ## 概要
 
-2005年に旧 **[秋田市役所](https://ja.wikipedia.org/wiki/秋田市役所 "wikilink")サッカー部**と、**足利工務店河辺FC**が合流し発足した。
+2005年に旧**[秋田市役所](https://ja.wikipedia.org/wiki/秋田市役所 "wikilink")サッカー部**と、**足利工務店河辺FC**が合流し発足した。
 
 チーム名の「Cambiare」とは、[イタリア語](../Page/イタリア語.md "wikilink")で「変化する」、「進化する」を意味する動詞である。
 

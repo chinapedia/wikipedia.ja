@@ -53,4 +53,4 @@
 
   - 聴取率調査週間ではリクエストゾーンに、当時夕方で放送されていた「[カタクリコ・ホットライン](https://ja.wikipedia.org/wiki/カタクリコホットライン・ゴールドラッシュ "wikilink")」のDJだった、[鈴木しょう治](https://ja.wikipedia.org/wiki/鈴木しょう治 "wikilink") ・[今泉圭姫子](https://ja.wikipedia.org/wiki/今泉圭姫子 "wikilink") コンビ、市川博樹([DJ ARCHE](../Page/ARCHE.md "wikilink"))・[小田靜枝](https://ja.wikipedia.org/wiki/小田靜枝 "wikilink") コンビが登場して電リク企画が放送された(1992年)。
 
-[Category:TOKYO_FMの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組の歴史 "wikilink") [Category:ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ラジオの情報・ワイドショー番組 "wikilink") [Category:1992年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1992年のラジオ番組_\(日本\) "wikilink")
+[Category:TOKYO_FMの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組の歴史 "wikilink") [Category:JFN系ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの情報・ワイドショー番組 "wikilink") [Category:1992年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1992年のラジオ番組_\(日本\) "wikilink")

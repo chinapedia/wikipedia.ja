@@ -219,10 +219,10 @@ AVCD-38324</p></td>
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2002年8月21日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/STEP_TO_THE_NEW_WORLD" title="wikilink">STEP TO THE NEW WORLD</a></strong></p></td>
+<td><p><strong>STEP TO THE NEW WORLD</strong></p></td>
 <td><p>AICL-1387</p></td>
 <td><ol>
-<li><a href="https://ja.wikipedia.org/wiki/STEP_TO_THE_NEW_WORLD" title="wikilink">STEP TO THE NEW WORLD</a></li>
+<li>STEP TO THE NEW WORLD</li>
 <li>TOO LATE</li>
 <li>STEP TO THE NEW WORLD-instrumental-</li>
 <li>TOO LATE-instrumental-</li>

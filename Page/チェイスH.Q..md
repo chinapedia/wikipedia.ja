@@ -16,7 +16,7 @@ PCエンジン版はゲーム誌『[ファミコン通信](https://ja.wikipedia.
 ## ゲーム内容
 
   - 全5ステージから成り、各ステージの序盤は司令室・ナンシーからの指令に基づき、[犯罪](https://ja.wikipedia.org/wiki/犯罪 "wikilink")を犯し逃走する犯人の車に追いつくべくトニーとレイモンドの二人の刑事が乗る車が急行するモードからはじまる。ステアリング、シフトレバー、ブレーキ、アクセルペダルを巧みに操作して同じ道を行く一般車輌に衝突することのないように走行し、犯人車輌に追いつくと追跡・逮捕モードに移行。
-  - 逃げる[犯人](https://ja.wikipedia.org/wiki/犯人 "wikilink")車輌を追いかけ、体当たりを重ねて走行不能に陥れ、逮捕へ結びつけるとステージクリアとなる。
+  - 逃げる[犯人](../Page/犯人.md "wikilink")車輌を追いかけ、体当たりを重ねて走行不能に陥れ、逮捕へ結びつけるとステージクリアとなる。
       - 実は隠し要素として、犯人車両を追い抜く（一定時間前に出る）ことでもステージクリアになる。成功するとダメージメーターが満タンでなくても犯人の車が停車する。
   - 1ゲームにつき、[ニトロが数回](../Page/ナイトラス・オキサイド・システム.md "wikilink")（設定により変更可能：通常は3回）使用できる。ニトロを使用すると一定時間最高速となり、犯人車輌への体当たりにおいても敵側に与えるダメージは強力なものとなる。
   - 犯人車輌を取り逃がすと、ナンシーから辛辣なコメントがプレイヤーに浴びせられ、犯人車輌が高速で検問を突破する様子が流れてゲームオーバー。
@@ -329,14 +329,13 @@ I.T.L.</p></td>
 
   - [タイトーメモリーズII 下巻](http://www.taito.co.jp/csm/title/2007/taito_memories2/g-14.html)
 
-  - [KLOV（英語）](http://www.klov.com/game_detail.php?letter=C&game_id=7318)
+  - [KLOV](http://www.klov.com/game_detail.php?letter=C&game_id=7318)
 
   - [チェイスH.Q.2](http://www.taito.co.jp/arc/title/2007/details/chase_hq2.html)
 
   - [アーケード『チェイスH.Q.2』…パトカーを操って犯人追跡\!](http://response.jp/article/2008/01/23/104522.html)
 
-  - （英語）
-
+  -
 [Category:1988年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1988年のアーケードゲーム "wikilink") [Category:1989年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1989年のファミリーコンピュータ用ソフト "wikilink") [Category:Amiga用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Amiga用ゲームソフト "wikilink") [Category:Amstrad_CPC用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Amstrad_CPC用ゲームソフト "wikilink") [Category:Atari_ST用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Atari_ST用ゲームソフト "wikilink") [Category:FM_TOWNS用ゲームソフト](https://ja.wikipedia.org/wiki/Category:FM_TOWNS用ゲームソフト "wikilink") [Category:I-revoゲーム対応ソフト](https://ja.wikipedia.org/wiki/Category:I-revoゲーム対応ソフト "wikilink") [Category:MSX/MSX2用ソフト](https://ja.wikipedia.org/wiki/Category:MSX/MSX2用ソフト "wikilink") [Category:PCエンジン用ソフト](https://ja.wikipedia.org/wiki/Category:PCエンジン用ソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:X68000用ゲームソフト](https://ja.wikipedia.org/wiki/Category:X68000用ゲームソフト "wikilink") [Category:ZX_Spectrum用ゲームソフト](https://ja.wikipedia.org/wiki/Category:ZX_Spectrum用ゲームソフト "wikilink") [Category:大型筐体ゲーム](https://ja.wikipedia.org/wiki/Category:大型筐体ゲーム "wikilink") [Category:警察官を主人公としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:警察官を主人公としたコンピュータゲーム "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:ゲームギア用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームギア用ソフト "wikilink") [Category:ゲームボーイ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイ用ソフト "wikilink") [Category:コモドール64用ゲームソフト](https://ja.wikipedia.org/wiki/Category:コモドール64用ゲームソフト "wikilink") [Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink") [Category:セガ・マークIII&マスターシステム用ソフト](https://ja.wikipedia.org/wiki/Category:セガ・マークIII&マスターシステム用ソフト "wikilink") [Category:タイトーのアーケードゲーム](https://ja.wikipedia.org/wiki/Category:タイトーのアーケードゲーム "wikilink") [Category:タイトーのゲームソフト](https://ja.wikipedia.org/wiki/Category:タイトーのゲームソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:ファミ通クロスレビューシルバー殿堂入りソフト](https://ja.wikipedia.org/wiki/Category:ファミ通クロスレビューシルバー殿堂入りソフト "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink") [Category:カーレースゲーム](https://ja.wikipedia.org/wiki/Category:カーレースゲーム "wikilink")
 
 1.

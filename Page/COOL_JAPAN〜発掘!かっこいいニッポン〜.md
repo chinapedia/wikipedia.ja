@@ -142,7 +142,7 @@
   - [阿部陽子](../Page/阿部陽子.md "wikilink")（2007年度まで）
   - [岩槻里子](../Page/岩槻里子.md "wikilink")（2008年度から）
   - [柘植恵水](../Page/柘植恵水.md "wikilink")（2011年度から）
-  - [日髙のり子](https://ja.wikipedia.org/wiki/日髙のり子 "wikilink")（2012年度から）
+  - [日髙のり子](../Page/日髙のり子.md "wikilink")（2012年度から）
 
 ## 番組のスタイル
 

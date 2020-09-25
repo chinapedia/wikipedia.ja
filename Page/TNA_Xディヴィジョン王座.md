@@ -648,27 +648,34 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/エース・オースチン" title="wikilink">エース・オースチン</a></p></td>
+<td></td>
 <td><p>1</p></td>
 <td><p>2019年10月20日</p></td>
 <td><p><a href="../Page/イリノイ州.md" title="wikilink">イリノイ州</a><a href="https://ja.wikipedia.org/wiki/ヴィラパーク" title="wikilink">ヴィラパーク</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ウィリー・マック" title="wikilink">ウィリー・マック</a></p></td>
+<td></td>
 <td><p>1</p></td>
 <td><p>2020年4月21日放送分[1]</p></td>
 <td><p>テネシー州ナッシュビル</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/クリス・ベイ" title="wikilink">クリス・ベイ</a></p></td>
+<td></td>
 <td><p>1</p></td>
 <td><p>2020年7月18日</p></td>
 <td><p>テネシー州ナッシュビル</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td><p>1</p></td>
+<td><p>2020年8月14日</p></td>
+<td><p>テネシー州ナッシュビル</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

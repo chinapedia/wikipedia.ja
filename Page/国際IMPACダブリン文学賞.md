@@ -349,7 +349,7 @@
 
 :\* [Michel Laub](https://ja.wikipedia.org/wiki/:en:Michel_Laub "wikilink"), *Diary of the Fall*(ポルトガル語作品より翻訳)
 
-:\* , *Our Lady of the Nile*(フランス語作品より翻訳)
+:\* [スコラスティック・ムカソンガ](../Page/スコラスティック・ムカソンガ.md "wikilink"), *Our Lady of the Nile*(フランス語作品より翻訳)
 
 :\* , *Dept. of Speculation*
 
@@ -365,7 +365,7 @@
 
 :\* [Kim Leine](https://ja.wikipedia.org/wiki/:en:Kim_Leine "wikilink"), *The Prophets of Eternal Fjord*(デンマーク語作品より翻訳)
 
-:\* , *The Story of My Teeth*'(スペイン語作品より翻訳、日本語訳『俺の歯の話』ISBN 4560097380)
+:\* [バレリア・ルイセリ](../Page/バレリア・ルイセリ.md "wikilink"), *The Story of My Teeth*'(スペイン語作品より翻訳、日本語訳『俺の歯の話』ISBN 4560097380)
 
 :\* , *The Sympathizer*（日本語訳『シンパサイザー』ISBN 4151828516）
 

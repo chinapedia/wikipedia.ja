@@ -84,7 +84,7 @@
 </tr>
 <tr class="odd">
 <td><p>第11回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キャディラック" title="wikilink">キャディラック</a>・STS</p></td>
+<td><p><a href="../Page/キャデラック.md" title="wikilink">キャディラック・STS</a></p></td>
 <td><p><a href="../Page/ポルシェ・カイエン.md" title="wikilink">ポルシェ・カイエン</a><br />
 （建築家・大江匡）</p></td>
 </tr>
@@ -113,6 +113,4 @@
   - [パソコンテレビ GyaO](https://web.archive.org/web/20090904061334/http://www.gyao.jp/)
   - [久米宏・CAR TOUCH速報](http://www.kumehiroshi.jp/cartuch.html)
 
-[Category:自動車番組](https://ja.wikipedia.org/wiki/Category:自動車番組 "wikilink")
-
-[Category:GYAO\!のオリジナル番組](https://ja.wikipedia.org/wiki/Category:GYAO!のオリジナル番組 "wikilink") [Category:オフィス・トゥー・ワン](https://ja.wikipedia.org/wiki/Category:オフィス・トゥー・ワン "wikilink") [Category:久米宏](https://ja.wikipedia.org/wiki/Category:久米宏 "wikilink")
+[Category:自動車番組](https://ja.wikipedia.org/wiki/Category:自動車番組 "wikilink") [Category:GYAO\!のオリジナル番組](https://ja.wikipedia.org/wiki/Category:GYAO!のオリジナル番組 "wikilink") [Category:オフィス・トゥー・ワン](https://ja.wikipedia.org/wiki/Category:オフィス・トゥー・ワン "wikilink") [Category:久米宏](https://ja.wikipedia.org/wiki/Category:久米宏 "wikilink")

@@ -9,7 +9,7 @@
 
 印刷物に[印刷](../Page/印刷.md "wikilink")することにより、[視覚障害者](../Page/視覚障害者.md "wikilink")にも情報の提供が出来る様になるため、[地方公共団体](../Page/地方公共団体.md "wikilink")\[7\]や[金融機関](../Page/金融機関.md "wikilink")が出す印刷物や[病院](../Page/病院.md "wikilink")の[処方箋](../Page/処方箋.md "wikilink")やいわゆる[お薬手帳](https://ja.wikipedia.org/wiki/お薬手帳 "wikilink")の服薬指導などの情報、[ピザ](../Page/ピザ.md "wikilink")宅配会社のメニューなどにも、SPコードの添付が見られる\[8\]。
 
-専用の読み取り装置としては「スピーチオ（2009年3月5日販売中止）」と、その後継機種である「スピーチオプラス（平成21年9月5日発売）」、「テルミー」があり\[9\]\[10\]、[Android](../Page/Android.md "wikilink")の[Google Playアプリもある](https://ja.wikipedia.org/wiki/Google_Play "wikilink")。
+専用の読み取り装置としては「スピーチオ（2009年3月5日販売中止）」と、その後継機種である「スピーチオプラス（平成21年9月5日発売）」、「テルミー」があり\[9\]\[10\]、[Androidの](../Page/Android_\(オペレーティングシステム\).md "wikilink")[Google Playアプリもある](https://ja.wikipedia.org/wiki/Google_Play "wikilink")。
 
 SPコードの『SP』とは「スーパー」の意味である\[11\]。
 

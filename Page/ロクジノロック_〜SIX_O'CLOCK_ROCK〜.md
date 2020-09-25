@@ -106,7 +106,7 @@
 
 [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink") [Category:静岡エフエム放送の番組](https://ja.wikipedia.org/wiki/Category:静岡エフエム放送の番組 "wikilink") [Category:JFN系ラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの音楽番組の歴史 "wikilink")
 
-1.  [ソロ](https://ja.wikipedia.org/wiki/ソロ "wikilink")ミュージシャンの場合は[苗字](../Page/名字.md "wikilink")。
+1.  [ソロ](../Page/ソロ.md "wikilink")ミュージシャンの場合は[苗字](../Page/名字.md "wikilink")。
 2.  前身番組「ROCK28」が始まる前、金曜夕方の番組「[カローラ静岡](https://ja.wikipedia.org/wiki/トヨタカローラ店#中部地方 "wikilink") PRESENTS GOOD DAYS GOLDIES」を担当。
 3.  年末年始[特番の関係で](../Page/特別番組.md "wikilink")、[TOKYO FM制作](../Page/エフエム東京.md "wikilink")「[放送室](../Page/放送室_\(ラジオ番組\).md "wikilink")」が休止したため。
 4.  それまで放送していた[レディオ・ジャパンは](../Page/RADIO_JAPAN_onSunday.md "wikilink")2006年3月はネット打ち切り。

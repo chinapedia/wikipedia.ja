@@ -49,7 +49,7 @@
       - 月曜：時をこえて〜今〜（元々は、西日本放送開局50周年記念企画として始まったコーナー）
       - 水曜：おうち de レストラン
       - 木曜：耳寄り百貨
-      - 金曜：3海トピックス（[日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")・[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")と共同制作放送。現在は[広島テレビ](../Page/広島テレビ放送.md "wikilink")・[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")・[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")も加わっている）
+      - 金曜：3海トピックス（[日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")・[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")と共同制作放送。現在は[広島テレビ](../Page/広島テレビ放送.md "wikilink")・[四国放送](../Page/四国放送.md "wikilink")・[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")も加わっている）
           - 3海トピックスは配信される局によってはVTRもHD。
   - 18:36 リアルSports●
   - 18:46 ニュース（2項目程度）

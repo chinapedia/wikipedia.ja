@@ -146,7 +146,7 @@
   - 杉野BEAT（[漫画家](../Page/漫画家.md "wikilink")）
   - 瀬川ナミ（ジャズダンサー）
   - [藤原浩](https://ja.wikipedia.org/wiki/藤原浩 "wikilink")（[フードアナリスト](https://ja.wikipedia.org/wiki/フードアナリスト "wikilink")）
-  - [元川悦子](https://ja.wikipedia.org/wiki/元川悦子 "wikilink")（[スポーツライター](https://ja.wikipedia.org/wiki/スポーツライター "wikilink")）
+  - [元川悦子](https://ja.wikipedia.org/wiki/元川悦子 "wikilink")（[スポーツライター](../Page/スポーツライター.md "wikilink")）
   - 森田舞（[社会保険労務士](../Page/社会保険労務士.md "wikilink")）
   - 森山木の実（人形劇ぱぴぃ）
   - [山崎夏菜](https://ja.wikipedia.org/wiki/山崎夏菜 "wikilink")（[イメージコンサルタント](https://ja.wikipedia.org/wiki/イメージコンサルタント "wikilink")）

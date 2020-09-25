@@ -342,7 +342,7 @@
 <td><p>第1話</p></td>
 <td><p>4月4日</p></td>
 <td><p>昭和50年の思い出</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/西郷輝彦" title="wikilink">西郷輝彦</a>:牧田信吾<br />
+<td><p><a href="../Page/西郷輝彦.md" title="wikilink">西郷輝彦</a>:牧田信吾<br />
 <a href="../Page/松田賢二.md" title="wikilink">松田賢二</a>:牧田海</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/稲本達郎" title="wikilink">稲本達郎</a></p></td>
 <td><p>女医さんとデート</p></td>

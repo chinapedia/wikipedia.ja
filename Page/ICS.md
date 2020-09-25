@@ -27,7 +27,7 @@
 
   - [インターネット接続共有](https://ja.wikipedia.org/wiki/インターネット接続共有 "wikilink") () - 複数のコンピュータでインターネット接続を共有する機能。
 
-  - \- [Android](../Page/Android.md "wikilink") 4.0 のコードネーム。
+  - \- [Android](../Page/Android_\(オペレーティングシステム\).md "wikilink") 4.0 のコードネーム。
 
   - \- 人工造雪システム
 

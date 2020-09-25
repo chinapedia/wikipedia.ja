@@ -3,7 +3,7 @@
 
 **やじきた道中記X**は、[2003年](../Page/2003年.md "wikilink")にミズホが開発し、[ユニバーサルエンターテインメント](../Page/ユニバーサルエンターテインメント.md "wikilink")が販売した[パチスロ](../Page/パチスロ.md "wikilink")機。ビッグ、[レギュラーボーナス](https://ja.wikipedia.org/wiki/レギュラーボーナス "wikilink")のほか[ATのやじきた祭りを搭載した](https://ja.wikipedia.org/wiki/アシストタイム "wikilink")[Aタイプ](https://ja.wikipedia.org/wiki/Aタイプ "wikilink")である。
 
-新機種の『**やじきた道中記乙**』が[2014年](../Page/2014年.md "wikilink")8月4日に販売された\[1\]。[iOSおよび](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[Android](../Page/Android.md "wikilink")用のアプリが、[App Storeと](../Page/App_Store.md "wikilink")[Google Playにて配信されている](https://ja.wikipedia.org/wiki/Google_Play "wikilink")\[2\]。
+新機種の『**やじきた道中記乙**』が[2014年](../Page/2014年.md "wikilink")8月4日に販売された\[1\]。[iOSおよび](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[Android用のアプリが](../Page/Android_\(オペレーティングシステム\).md "wikilink")、[App Storeと](../Page/App_Store.md "wikilink")[Google Playにて配信されている](https://ja.wikipedia.org/wiki/Google_Play "wikilink")\[2\]。
 
 ## 概要
 

@@ -7,15 +7,25 @@
 
 [TM NETWORKの代表曲](../Page/TM_NETWORK.md "wikilink")。テレビアニメ『[シティーハンター](../Page/シティーハンター_\(アニメ\).md "wikilink")』の[エンディングテーマとなったことから](../Page/主題歌.md "wikilink")、グループ初のオリコンシングルベストテン入りし、以後7月中旬まで10位前後にランクインし続け、1987年のベスト100には26週ランクインするというロングセールスとなった。売上は22万枚、1987年度年間22位を獲得した。
 
-同アニメの続編『シティーハンター2』第50話と『シティーハンター3』最終話では[挿入歌](https://ja.wikipedia.org/wiki/挿入歌 "wikilink")として使われた後、テレビスペシャル『シティーハンター 緊急生中継\!? 凶悪犯冴羽の最期』、そして2019年2月8日に公開された『劇場版シティーハンター \<新宿プライベート・アイズ\>』ではエンディングテーマとして使われた。
+同アニメの続編『シティーハンター2』第50話と『シティーハンター3』最終話では[挿入歌](https://ja.wikipedia.org/wiki/挿入歌 "wikilink")として使われた後、テレビスペシャル『シティーハンター 緊急生中継\!? 凶悪犯冴羽獠の最期』、そして2019年2月8日に公開された『劇場版シティーハンター \<新宿プライベート・アイズ\>』ではエンディングテーマとして使われた。
 
 このシングルの発売3か月後にTM初のベストアルバム『[Gift for Fanks](../Page/Gift_for_Fanks.md "wikilink")』が発売され、その1曲目に収録されたため、オリジナルアルバム未収録曲となっている。[C/W曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")「Fighting（君のファイティング）」は4thアルバム『[Self Control](../Page/Self_Control_\(TM_NETWORKのアルバム\).md "wikilink")』からの[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")であり、同アニメの挿入歌としても起用されている。
 
-当初から同アニメありきで作られており、イントロは制作会社の[サンライズからの](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")「ピカーンと光がする音」というオーダーに応じたものである。また、ドラマーの[山木秀夫](../Page/山木秀夫.md "wikilink")の提案により、スネアドラムを入れないアレンジがされている\[1\]。
+当初から同アニメありきで作られており、イントロは制作会社の[サンライズからの](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")「ピカーンと光がする音」というオーダーに応じたものである。また、ドラマーの[山木秀夫](../Page/山木秀夫.md "wikilink")の提案により、[スネアドラム](../Page/スネアドラム.md "wikilink")を入れないアレンジがされている\[1\]。そのアイディアを小室は「『踊らないとノレない[ユーロビート](../Page/ユーロビート.md "wikilink")を作りたい』という思いと偶然にも見事にかみ合った」と振り返っている\[2\]。
+
+スケジュールが差し迫っていたため、シンセサイザー1台でリズムの素材を作り、おおむねのアレンジ作業が終わるまで、2時間しかかけなかった\[3\]。
+
+サビは、あえて小室の過去の作品の要素を入り混ぜている。「『[渡辺美里](../Page/渡辺美里.md "wikilink")のあの曲を作った人だ』とわかってくれたらいいな」と開き直るように作った\[4\]。
 
 同アニメの原作[完全版](../Page/完全版コミックス.md "wikilink")『CITY HUNTER COMPLETE EDITION』Volume:Z（[徳間書店](../Page/徳間書店.md "wikilink")）には、この曲のみを収録した8cmCDが特別付録として封入されている。
 
-2017年秋の[園遊会](../Page/園遊会.md "wikilink")では、招待された[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")との歓談中に、[眞子内親王](../Page/眞子内親王.md "wikilink")が本曲を話題に挙げている\[2\]。
+## 反響
+
+2017年秋の[園遊会](../Page/園遊会.md "wikilink")では、招待された[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")との歓談中に、[眞子内親王](../Page/眞子内親王.md "wikilink")が本曲を話題に挙げている\[5\]。
+
+2020年9月6日にテレビ朝日系列にて放送された『[国民13万人がガチ投票\! アニメソング総選挙](https://ja.wikipedia.org/wiki/国民13万人がガチ投票!_アニメソング総選挙 "wikilink")』では、第8位にランクインした\[6\]。
+
+2020年9月11日には、会社を退勤する際に本曲を聴いて良い気分になる行為を指す「Get Wild退勤」が、[Twitter](../Page/Twitter.md "wikilink")のトレンドで第1位になったことが報じられた\[7\]\[8\]。
 
 ## 再発盤
 
@@ -25,7 +35,7 @@
 
 2014年1月度の日本レコード協会発表にてフル配信50万ダウンロードに認定された。1980年代初出の作品によるフル配信50万DL達成は本作と、[久保田利伸](../Page/久保田利伸.md "wikilink")『[Missing](https://ja.wikipedia.org/wiki/Missing "wikilink")』、[プリンセス・プリンセス](https://ja.wikipedia.org/wiki/プリンセス・プリンセス "wikilink")『[M](../Page/Diamonds_\(プリンセス_プリンセスの曲\).md "wikilink")』、[オフコース](https://ja.wikipedia.org/wiki/オフコース "wikilink")『[言葉にできない](../Page/言葉にできない.md "wikilink")』、[米米CLUB](../Page/米米CLUB.md "wikilink")『[浪漫飛行](../Page/浪漫飛行.md "wikilink")』5例のみである。
 
-[2017年](../Page/2017年.md "wikilink")にはシングルレコード発売から30周年を迎えたことを記念し、30周年記念企画作が相次いでリリースされた。同年[4月5日](../Page/4月5日.md "wikilink")には同曲のみだけを収録したコンピレーションアルバム『[GET WILD SONG MAFIA](https://ja.wikipedia.org/wiki/GET_WILD_SONG_MAFIA "wikilink")』が、同年[4月12日](../Page/4月12日.md "wikilink")には完全限定盤として12インチ・アナログレコードが\[3\]、同年[6月21日](../Page/6月21日.md "wikilink")にはすでに配信・CD化済の小室哲哉によるリミックスアレンジ「GET WILD 2017 TK REMIX」が12インチアナログレコードとしてそれぞれ発売された。こちらに収録されているリミックスは、同年4月に発売されたコンピレーション集『GET WILD SONG MAFIA』に収録されていたものと、[石野卓球](../Page/石野卓球.md "wikilink")が手掛けた「GET WILD（Takkyu Ishino Latino Remix）」のリミックス音源が収録されている。なお、石野によるリミックス音源は上記のコンピレーションアルバムに収録されているアレンジとは異なる\[4\]。
+[2017年](../Page/2017年.md "wikilink")にはシングルレコード発売から30周年を迎えたことを記念し、30周年記念企画作が相次いでリリースされた。同年[4月5日](../Page/4月5日.md "wikilink")には同曲のみだけを収録したコンピレーションアルバム『[GET WILD SONG MAFIA](https://ja.wikipedia.org/wiki/GET_WILD_SONG_MAFIA "wikilink")』が、同年[4月12日](../Page/4月12日.md "wikilink")には完全限定盤として12インチ・アナログレコードが\[9\]、同年[6月21日](../Page/6月21日.md "wikilink")にはすでに配信・CD化済の小室哲哉によるリミックスアレンジ「GET WILD 2017 TK REMIX」が12インチアナログレコードとしてそれぞれ発売された。こちらに収録されているリミックスは、同年4月に発売されたコンピレーション集『GET WILD SONG MAFIA』に収録されていたものと、[石野卓球](../Page/石野卓球.md "wikilink")が手掛けた「GET WILD（Takkyu Ishino Latino Remix）」のリミックス音源が収録されている。なお、石野によるリミックス音源は上記のコンピレーションアルバムに収録されているアレンジとは異なる\[10\]。
 
 ## アレンジ・リミックス
 
@@ -34,7 +44,7 @@
   - [1989年](../Page/1989年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")に海外のプロデューサー・[ピート・ハモンドによるリミックスバージョン](https://ja.wikipedia.org/wiki/ストック・エイトキン・ウォーターマン "wikilink")『[GET WILD '89](../Page/GET_WILD_'89.md "wikilink")』がリリースされ、同年[5月12日](../Page/5月12日.md "wikilink")には同リミックスバージョンを収録したリプロダクションアルバム『[DRESS](../Page/DRESS_\(TM_NETWORKのアルバム\).md "wikilink")』がリリースされた。
   - [1993年](../Page/1993年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")に『[GET WILD '89](../Page/GET_WILD_'89.md "wikilink")』を元に小室によるオーバーダビングを施した『Get Wild (techno overdub mix)』が収録されたリミックスアルバム『[TMN CLASSIX 1](../Page/TMN_CLASSIX.md "wikilink")』がリリースされた。
   - [1999年](../Page/1999年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")、TM NETWORKの再始動の第1弾シングルとして、[セルフ](https://ja.wikipedia.org/wiki/セルフ "wikilink")[カヴァー](https://ja.wikipedia.org/wiki/カヴァー "wikilink")バージョンである『[GET WILD DECADE RUN](../Page/GET_WILD_DECADE_RUN.md "wikilink")』がリリースされた。また、同シングルのカップリング曲にはリミックスバージョン『GET WILD DECADE RUN - 112 CLUB MIX』が収録されている。
-  - [2004年](../Page/2004年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")にリリースされた限定BOX「[WORLD HERITAGE DOUBLE-DECADE COMPLETE BOX](../Page/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX.md "wikilink")」には『**ALL the "Get Wild" ALBUM**』と題した「Get Wild」の原曲を含め、リミックス、[ライヴバージョンが](../Page/演奏会.md "wikilink")1枚のCDにまるごと収録されている。なお、『ALL the "Get Wild" ALBUM』の[ジャケットは](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")1987年当時の[デザイン](../Page/デザイン.md "wikilink")（アナログ盤）を復刻させた仕様となっている。ただし、[2003年](../Page/2003年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")にリリースされた蔵出し音源集「**[キヲクトキロク](../Page/キヲクトキロク_〜_Major_Turn-Round.md "wikilink")**」に収録されている『**Get Wild (Live from 2001 RENDEZVOUS IN SPACE)**』及び、『**GET WILD DECADE RUN (’99 Version)**』の2曲については本作では未収録\[5\]となっている。また、アナログ盤のみ収録だった『GET WILD DECADE RUN』のインストゥルメンタルバージョン、PV用のサビ以外がインストゥルメンタルとなっているバージョンも未収録である。
+  - [2004年](../Page/2004年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")にリリースされた限定BOX「[WORLD HERITAGE DOUBLE-DECADE COMPLETE BOX](../Page/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX.md "wikilink")」には『**ALL the "Get Wild" ALBUM**』と題した「Get Wild」の原曲を含め、リミックス、[ライヴバージョンが](../Page/演奏会.md "wikilink")1枚のCDにまるごと収録されている。なお、『ALL the "Get Wild" ALBUM』の[ジャケットは](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")1987年当時の[デザイン](../Page/デザイン.md "wikilink")（アナログ盤）を復刻させた仕様となっている。ただし、[2003年](../Page/2003年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")にリリースされた蔵出し音源集「**[キヲクトキロク](../Page/キヲクトキロク_〜_Major_Turn-Round.md "wikilink")**」に収録されている『**Get Wild (Live from 2001 RENDEZVOUS IN SPACE)**』及び、『**GET WILD DECADE RUN (’99 Version)**』の2曲については本作では未収録\[11\]となっている。また、アナログ盤のみ収録だった『GET WILD DECADE RUN』のインストゥルメンタルバージョン、PV用のサビ以外がインストゥルメンタルとなっているバージョンも未収録である。
   - [2013年](../Page/2013年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")発売の小室哲哉ソロアルバム「[DEBF3](https://ja.wikipedia.org/wiki/DEBF3 "wikilink")」2枚目においては、『[GET WILD '89](../Page/GET_WILD_'89.md "wikilink")』を元に『Get Wild (techno overdub mix)』とは異なるシンセサイザーの音をオーバーダビングさせたバージョンが収録されている。
   - [2014年](../Page/2014年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")に『Get Wild 2014』が収録されたセルフリプロダクションアルバム『[DRESS2](https://ja.wikipedia.org/wiki/DRESS2 "wikilink")』がリリースされた。このバージョンは[2013年](../Page/2013年.md "wikilink")に行われたライブ『[TM NETWORK FINAL MISSION -START investigation-](https://ja.wikipedia.org/wiki/TM_NETWORK_FINAL_MISSION_-START_investigation- "wikilink")』にて披露されたバージョンが元になっており、演奏時間は8分を超える。
   - [2015年](../Page/2015年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")に『[Get Wild 2015](https://ja.wikipedia.org/wiki/Get_Wild_2015 "wikilink")』がライヴ会場限定販売された。このバージョンは[2014年](../Page/2014年.md "wikilink")から[2015年](../Page/2015年.md "wikilink")にかけて行われたライブでのアレンジが元となっており、演奏時間は11分を超える。
@@ -159,7 +169,7 @@
 <td><p><a href="../Page/前田尚紀_(ミュージシャン).md" title="wikilink">NMR</a></p></td>
 <td><p>アルバム『pop'n music 13 カーニバル AC ♥ CS pop'n music 11 オリジナルサウンドトラック』</p></td>
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/2月1日.md" title="wikilink">2月1日</a></p></td>
-<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月7日.md" title="wikilink">9月7日</a>に稼動を開始した<a href="../Page/コナミデジタルエンタテインメント.md" title="wikilink">KONAMIの</a><a href="../Page/アーケードゲーム.md" title="wikilink">アーケード用</a><a href="../Page/音楽ゲーム.md" title="wikilink">音楽ゲーム</a>『<a href="https://ja.wikipedia.org/wiki/pop&#39;n_music" title="wikilink">pop'n music</a> 13 カーニバル』ではNMR（<a href="../Page/前田尚紀_(ミュージシャン).md" title="wikilink">前田尚紀</a>）が編曲・カバーを行ったバージョンが収録され[6]、<a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/9月28日.md" title="wikilink">9月28日</a>発売の<a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2移植版</a>『pop'n music 13 カーニバル』にも収録されている。アーケード版では以降のシリーズでも引き続き継続収録されている。<br />
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月7日.md" title="wikilink">9月7日</a>に稼動を開始した<a href="../Page/コナミデジタルエンタテインメント.md" title="wikilink">KONAMIの</a><a href="../Page/アーケードゲーム.md" title="wikilink">アーケード用</a><a href="../Page/音楽ゲーム.md" title="wikilink">音楽ゲーム</a>『<a href="https://ja.wikipedia.org/wiki/pop&#39;n_music" title="wikilink">pop'n music</a> 13 カーニバル』ではNMR（<a href="../Page/前田尚紀_(ミュージシャン).md" title="wikilink">前田尚紀</a>）が編曲・カバーを行ったバージョンが収録され[12]、<a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/9月28日.md" title="wikilink">9月28日</a>発売の<a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2移植版</a>『pop'n music 13 カーニバル』にも収録されている。アーケード版では以降のシリーズでも引き続き継続収録されている。<br />
 「GET WILD SONG MAFIA」には未収録。</p></td>
 <td></td>
 </tr>
@@ -233,7 +243,7 @@
 
 1.  **Get Wild**
       -
-        [TM NETWORKの](../Page/TM_NETWORK.md "wikilink")**Get Wild**をカバーし、アレンジしている。プロデュースを当時の作曲した小室哲哉本人が担当。
+        [TM NETWORKの](../Page/TM_NETWORK.md "wikilink")**Get Wild**をカバーし、アレンジしている。プロデュースを作曲した小室哲哉本人が担当。
         アルバム『[Speciality](../Page/Speciality.md "wikilink")』『[Graduation 〜Singles〜](../Page/Graduation_〜Singles〜.md "wikilink")』『GET WILD SONG MAFIA』（Disc4の5曲目）に収録。
 2.  **Get Wild-DX MIX-**
       -
@@ -260,7 +270,13 @@
 
 1.  「TM NETWORK 30th Anniversary Special Issue 小室哲哉ぴあ TM編 (ぴあMOOK)」45ページの[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") のインタビューより。
 2.
-3.
+3.  [オリコン・エンタテインメント](../Page/オリコン・エンタテインメント.md "wikilink")刊『[オリコン・ウィークリー](https://ja.wikipedia.org/wiki/オリコン・エンタテインメント#オリ★スタ "wikilink")』1987年4月27日号「ヒット・チャートをにぎわすソング・クリエイターの素顔 ～君も作詞家・作曲家・編曲家になれる\!?～」29Pより。
 4.
-5.  レコードレーベルがそれぞれ異なるため。
+5.
 6.
+7.
+8.
+9.
+10.
+11. レコードレーベルがそれぞれ異なるため。
+12.

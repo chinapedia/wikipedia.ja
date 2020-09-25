@@ -120,7 +120,7 @@
     [馬越嘉彦](../Page/馬越嘉彦.md "wikilink") 奥田佳子 馬場充子 駒井一也 [吉田徹](../Page/吉田徹.md "wikilink")
     杉浦幸次 [橋本敬史](../Page/橋本敬史.md "wikilink") [福田道生](../Page/福田道生.md "wikilink") [芳垣祐介](https://ja.wikipedia.org/wiki/芳垣祐介 "wikilink") 新井浩一
     [伊藤嘉之](../Page/伊藤嘉之.md "wikilink") [中鶴勝祥](../Page/中鶴勝祥.md "wikilink") 崔ふみひで [白石亜由美](https://ja.wikipedia.org/wiki/劇団イヌカレー "wikilink") [松本憲生](../Page/松本憲生.md "wikilink")
-    加藤裕美 桑原幹根 [森久司](../Page/森久司.md "wikilink") 楠三十郎 [入好さとる](../Page/入好さとる.md "wikilink")
+    加藤裕美 [桑原幹根](../Page/桑原幹根.md "wikilink") [森久司](../Page/森久司.md "wikilink") 楠三十郎 [入好さとる](../Page/入好さとる.md "wikilink")
     [今石洋之](../Page/今石洋之.md "wikilink") 黒柳賢治 ROSETTE.K 鈴木勤 [渡部圭祐](../Page/渡部圭祐.md "wikilink")
     佐藤裕子 ミサワユキヒロ 一ノ関敦 [吉成曜](../Page/吉成曜.md "wikilink") 浅野恭司
     矢崎良美 佐藤陽子 [平川哲生](https://ja.wikipedia.org/wiki/平川哲生 "wikilink") 寺尾洋之 猿渡聖加

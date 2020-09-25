@@ -1,7 +1,7 @@
 > この記事は[SKY \(ラジオ番組\)](https://ja.wikipedia.org/wiki/SKY_\(ラジオ番組\))から翻訳されています。
 
 
-**SKY**（スカイ）は、[TOKYO FM](../Page/エフエム東京.md "wikilink")・[JFNCのラジオ番組](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")。TOKYO FM（東京半蔵門）のアースギャラリーから放送を行っていた。   [thumb](https://ja.wikipedia.org/wiki/image:Zeppelin_NT_Japan.jpg "wikilink")
+**SKY**（スカイ）は、[TOKYO FM](../Page/エフエム東京.md "wikilink")・[JFNCのラジオ番組](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")。TOKYO FMのアースギャラリーから放送を行っていた。   [thumb](https://ja.wikipedia.org/wiki/image:Zeppelin_NT_Japan.jpg "wikilink")
 
 ## 概要
 
@@ -279,7 +279,7 @@
   -
     尚、放送では[JFNのアドレス www.jfn.co.jp/sky](http://www.jfn.co.jp/sky/)で案内されるが、内容は両者とも全く同じである。（前番組のEyesもJFNで案内したが、こちらは後になってTFMアドレスのページにジャンプした。）
 
-[Category:TOKYO_FMの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組の歴史 "wikilink") [Category:JFNCの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:JFNCの帯番組の歴史 "wikilink") [Category:ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ラジオの情報・ワイドショー番組 "wikilink") [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink")
+[Category:TOKYO_FMの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組の歴史 "wikilink") [Category:JFNCの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:JFNCの帯番組の歴史 "wikilink") [Category:JFN系ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの情報・ワイドショー番組 "wikilink") [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink")
 
 1.  放送当時、[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")や[ドコデモFM](https://ja.wikipedia.org/wiki/ドコデモFM "wikilink")、[LISMO WAVEなどの放送エリア外の放送局をインターネットで聴取できる手段はなかった](https://ja.wikipedia.org/wiki/LISMO#LISMO_WAVE "wikilink")
 2.  この番組を放送していた時期はfm osakaもfm fukuokaと同様7時開始だったが、番組終了に伴いBライン枠もネットされるようになった。

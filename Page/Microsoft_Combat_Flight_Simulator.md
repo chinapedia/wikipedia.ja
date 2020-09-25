@@ -142,9 +142,9 @@
 
 いずれもInternet Archive保管版HP。閲覧の際、画面右下の「Impatient?」をクリック。
 
-  - [Microsoft Combat Flight Simulator1](http://web.archive.org/web/20070607171717/http://www.microsoft.com/japan/games/cfs/)
-  - [Microsoft Combat Flight Simulator 2](http://web.archive.org/web/20100111203506/http://www.microsoft.com/japan/games/cfs2/)
-  - [Microsoft Combat Flight Simulator 3](http://web.archive.org/web/20100128224847/http://www.microsoft.com/japan/games/cfs3/)
+  - [Microsoft Combat Flight Simulator1](https://web.archive.org/web/20070607171717/http://www.microsoft.com/japan/games/cfs/)
+  - [Microsoft Combat Flight Simulator 2](https://web.archive.org/web/20100111203506/http://www.microsoft.com/japan/games/cfs2/)
+  - [Microsoft Combat Flight Simulator 3](https://web.archive.org/web/20100128224847/http://www.microsoft.com/japan/games/cfs3/)
 
 #### 英語
 

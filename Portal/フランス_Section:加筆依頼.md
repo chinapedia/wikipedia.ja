@@ -116,6 +116,7 @@
   - [パリ・オペラ座バレエ団](https://ja.wikipedia.org/wiki/パリ・オペラ座バレエ団 "wikilink")(現在は[パリ国立オペラ](https://ja.wikipedia.org/wiki/パリ国立オペラ "wikilink")への転送。[en](https://ja.wikipedia.org/wiki/:en:Paris_Opera_Ballet "wikilink")/[fr](https://ja.wikipedia.org/wiki/:fr:Ballet_de_l'Opéra_national_de_Paris "wikilink"))
   - [ラベル・ルージュ](https://ja.wikipedia.org/wiki/ラベル・ルージュ "wikilink")([:fr:label rouge](https://ja.wikipedia.org/wiki/:fr:label_rouge "wikilink"))
   - [リヨン料理](https://ja.wikipedia.org/wiki/リヨン料理 "wikilink") ([:fr:Cuisine lyonnaise](https://ja.wikipedia.org/wiki/:fr:Cuisine_lyonnaise "wikilink"))
+  - [フランス帝国の鷲](https://ja.wikipedia.org/wiki/フランス帝国の鷲 "wikilink") ([:en:French Imperial Eagle](https://ja.wikipedia.org/wiki/:en:French_Imperial_Eagle "wikilink"))
 
 <noinclude> </noinclude>
 

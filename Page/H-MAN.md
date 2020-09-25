@@ -1,7 +1,7 @@
 > この記事は[H-MAN](https://ja.wikipedia.org/wiki/H-MAN)から翻訳されています。
 
 
-**H-MAN**（エイチマン）は[横浜市](../Page/横浜市.md "wikilink")出身の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である。オーバーヒートミュージック所属。
+**H-MAN**（エイチマン）は[横浜市](../Page/横浜市.md "wikilink")出身の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である。OVERHEAT MUSIC所属。
 
 90年代初頭に活動を始め、横浜や湘南を中心に活動している。リリックは日本語にこだわっている。
 
@@ -392,6 +392,5 @@
 
 ## 外部リンク
 
-  - [OVERHEAT.COM](http://www.overheat.com/)
-
+  -
 [Category:日本の歌手](https://ja.wikipedia.org/wiki/Category:日本の歌手 "wikilink") [Category:日本のレゲエ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のレゲエ・ミュージシャン "wikilink") [Category:横浜市出身の人物](https://ja.wikipedia.org/wiki/Category:横浜市出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

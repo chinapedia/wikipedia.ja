@@ -109,13 +109,13 @@
 
 ## メンバー
 
-**庭瀬幸一郎**（Vo\&AG） - [1975年](../Page/1975年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")生まれ、[AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")、[大阪府](../Page/大阪府.md "wikilink")出身、既婚
+**庭瀬幸一郎**（Vo\&AG） - [1975年](../Page/1975年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")生まれ、[AB型](../Page/ABO式血液型.md "wikilink")、[大阪府](../Page/大阪府.md "wikilink")出身、既婚
 
   -
     立ち位置：左
     担当：Vocal,Acoustic Guiter,Electric Guiter,Piano,三線 etc...
 
-**宇田晋也**（Vo\&AG） - [1974年](../Page/1974年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink")生まれ、[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")、[大阪府](../Page/大阪府.md "wikilink")出身、既婚
+**宇田晋也**（Vo\&AG） - [1974年](../Page/1974年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink")生まれ、[O型](../Page/ABO式血液型.md "wikilink")、[大阪府](../Page/大阪府.md "wikilink")出身、既婚
 
   -
     立ち位置：右

@@ -44,7 +44,7 @@
 
 **フットボールリーグ・ディヴィジョン1**（1992-2004）
 
-| シーズン    | １位                                                          | ２位                                                                        | プレーオフ勝者                                                        |
+| シーズン    | 1位                                                          | 2位                                                                        | プレーオフ勝者                                                        |
 | ------- | ----------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | 1992-93 | [ニューカッスル・ユナイテッド](../Page/ニューカッスル・ユナイテッドFC.md "wikilink")    | [ウェストハム・ユナイテッド](https://ja.wikipedia.org/wiki/ウェストハム・ユナイテッドFC "wikilink") | [スウィンドン・タウン](../Page/スウィンドン・タウンFC.md "wikilink")               |
 | 1993-94 | [クリスタル・パレス](../Page/クリスタル・パレスFC.md "wikilink")              | [ノッティンガム・フォレスト](../Page/ノッティンガム・フォレストFC.md "wikilink")                    | [レスター・シティ](../Page/レスター・シティFC.md "wikilink")                   |
@@ -61,7 +61,7 @@
 
 **チャンピオンシップ**（2004-現在）
 
-| シーズン                                                                             | １位                                                                   | ２位                                                                 | プレーオフ勝者                                                                   |
+| シーズン                                                                             | 1位                                                                   | 2位                                                                 | プレーオフ勝者                                                                   |
 | -------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------- |
 | 2004-05                                                                          | [サンダーランド](../Page/サンダーランドAFC.md "wikilink")                          | [ウィガン・アスレティック](../Page/ウィガン・アスレティックFC.md "wikilink")               | [ウェストハム・ユナイテッド](https://ja.wikipedia.org/wiki/ウェストハム・ユナイテッドFC "wikilink") |
 | 2005-06                                                                          | [レディング](../Page/レディングFC.md "wikilink")                               | [シェフィールド・ユナイテッド](../Page/シェフィールド・ユナイテッドFC.md "wikilink")           | [ワトフォード](../Page/ワトフォードFC.md "wikilink")                                  |
@@ -249,38 +249,38 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2004–05</p></td>
+<td><p>2004-05</p></td>
 <td><p><a href="../Page/ネイサン・エリントン.md" title="wikilink">ネイサン・エリントン</a></p></td>
 <td><p><a href="../Page/ウィガン・アスレティックFC.md" title="wikilink">ウィガン・アスレティック</a></p></td>
 <td><p>24</p></td>
 </tr>
 <tr class="even">
-<td><p>2005–06</p></td>
+<td><p>2005-06</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マーロン・キング" title="wikilink">マーロン・キング</a></p></td>
 <td><p><a href="../Page/ワトフォードFC.md" title="wikilink">ワトフォード</a></p></td>
 <td><p>21</p></td>
 </tr>
 <tr class="odd">
-<td><p>2006–07</p></td>
+<td><p>2006-07</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジェイミー・カートン" title="wikilink">ジェイミー・カートン</a></p></td>
 <td><p><a href="../Page/コルチェスター・ユナイテッドFC.md" title="wikilink">コルチェスター・ユナイテッド</a></p></td>
 <td><p>23</p></td>
 </tr>
 <tr class="even">
-<td><p>2007–08</p></td>
+<td><p>2007-08</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/シルヴァン・イーバンクス＝ブレイク" title="wikilink">シルヴァン・イーバンクス＝ブレイク</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/プリマス・アーガイルFC" title="wikilink">プリマス・アーガイル</a><br />
 <a href="../Page/ウルヴァーハンプトン・ワンダラーズFC.md" title="wikilink">ウルヴァーハンプトン・ワンダラーズ</a></p></td>
 <td><p>23</p></td>
 </tr>
 <tr class="odd">
-<td><p>2008–09</p></td>
+<td><p>2008-09</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/シルヴァン・イーバンクス＝ブレイク" title="wikilink">シルヴァン・イーバンクス＝ブレイク</a></p></td>
 <td><p><a href="../Page/ウルヴァーハンプトン・ワンダラーズFC.md" title="wikilink">ウルヴァーハンプトン・ワンダラーズ</a></p></td>
 <td><p>25</p></td>
 </tr>
 <tr class="even">
-<td><p>2009–10</p></td>
+<td><p>2009-10</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ピーター・ウィッティンガム" title="wikilink">ピーター・ウィッティンガム</a></p></td>
 <td><p><a href="../Page/カーディフ・シティFC.md" title="wikilink">カーディフ・シティ</a></p></td>
 <td><p>20</p></td>
@@ -292,55 +292,55 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2010–11</p></td>
+<td><p>2010-11</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ダニー・グレアム" title="wikilink">ダニー・グレアム</a></p></td>
 <td><p><a href="../Page/ワトフォードFC.md" title="wikilink">ワトフォード</a></p></td>
 <td><p>24</p></td>
 </tr>
 <tr class="odd">
-<td><p>2011–12</p></td>
+<td><p>2011-12</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/リッキー・ランバート" title="wikilink">リッキー・ランバート</a></p></td>
 <td><p><a href="../Page/サウサンプトンFC.md" title="wikilink">サウサンプトン</a></p></td>
 <td><p>27</p></td>
 </tr>
 <tr class="even">
-<td><p>2012–13</p></td>
+<td><p>2012-13</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/グレン・マレー" title="wikilink">グレン・マレー</a></p></td>
 <td><p><a href="../Page/クリスタル・パレスFC.md" title="wikilink">クリスタル・パレス</a></p></td>
 <td><p>30</p></td>
 </tr>
 <tr class="odd">
-<td><p>2013–14</p></td>
+<td><p>2013-14</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロス・マコーマック" title="wikilink">ロス・マコーマック</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/リーズ・ユナイテッドAFC" title="wikilink">リーズ・ユナイテッド</a></p></td>
 <td><p>28</p></td>
 </tr>
 <tr class="even">
-<td><p>2014–15</p></td>
+<td><p>2014-15</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ダリル・マーフィー" title="wikilink">ダリル・マーフィー</a></p></td>
 <td><p><a href="../Page/イプスウィッチ・タウンFC.md" title="wikilink">イプスウィッチ・タウン</a></p></td>
 <td><p>27</p></td>
 </tr>
 <tr class="odd">
-<td><p>2015–16</p></td>
+<td><p>2015-16</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アンドレ・グレイ" title="wikilink">アンドレ・グレイ</a></p></td>
 <td><p><a href="../Page/バーンリーFC.md" title="wikilink">バーンリー</a></p></td>
 <td><p>25</p></td>
 </tr>
 <tr class="even">
-<td><p>2016–17</p></td>
+<td><p>2016-17</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クリス・ウッド" title="wikilink">クリス・ウッド</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/リーズ・ユナイテッドAFC" title="wikilink">リーズ・ユナイテッド</a></p></td>
 <td><p>27</p></td>
 </tr>
 <tr class="odd">
-<td><p>2017–18</p></td>
+<td><p>2017-18</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マチェイ・ヴィドラ" title="wikilink">マチェイ・ヴィドラ</a></p></td>
 <td><p><a href="../Page/ダービー・カウンティFC.md" title="wikilink">ダービー・カウンティ</a></p></td>
 <td><p>21</p></td>
 </tr>
 <tr class="even">
-<td><p>2018–19</p></td>
+<td><p>2018-19</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/テーム・プッキ" title="wikilink">テーム・プッキ</a></p></td>
 <td><p><a href="../Page/ノリッジ・シティFC.md" title="wikilink">ノリッジ・シティ</a></p></td>
 <td><p>29</p></td>

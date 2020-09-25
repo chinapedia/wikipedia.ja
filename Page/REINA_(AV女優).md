@@ -1,7 +1,7 @@
 > この記事は[REINA \(AV女優\)](https://ja.wikipedia.org/wiki/REINA_\(AV女優\))から翻訳されています。
 
 
-**REINA**（れいな、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[8月1日](../Page/8月1日.md "wikilink") - ）は、[沖縄県](../Page/沖縄県.md "wikilink")出身の元[AV女優](../Page/AV女優.md "wikilink")。[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：B型 、身長：172cm、[スリーサイズ](../Page/スリーサイズ.md "wikilink")：B80・W59・H83、Bカップ\[1\]。
+**REINA**（れいな、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[8月1日](../Page/8月1日.md "wikilink") - ）は、[沖縄県](../Page/沖縄県.md "wikilink")出身の元[AV女優](../Page/AV女優.md "wikilink")。[血液型](../Page/ABO式血液型.md "wikilink")：B型 、身長：172cm、[スリーサイズ](../Page/スリーサイズ.md "wikilink")：B80・W59・H83、Bカップ\[1\]。
 
 ## 略歴
 

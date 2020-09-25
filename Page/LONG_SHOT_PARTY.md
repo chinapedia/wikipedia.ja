@@ -7,7 +7,7 @@ __TOC__ {{-}}
 
 ## 解散時メンバー
 
-  - **sasaji**（ササジ、[1977年](../Page/1977年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink") - ）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")出身。[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")。
+  - **sasaji**（ササジ、[1977年](../Page/1977年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink") - ）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")出身。[血液型](../Page/ABO式血液型.md "wikilink")[A型](../Page/ABO式血液型.md "wikilink")。[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")。
 
 <!-- end list -->
 
@@ -15,11 +15,11 @@ __TOC__ {{-}}
 
 <!-- end list -->
 
-  - **秀一**（シュウイチ、1978年[5月31日](../Page/5月31日.md "wikilink") - ）[ギター](../Page/ギター.md "wikilink")担当。[岩手県](../Page/岩手県.md "wikilink")[奥州市](../Page/奥州市.md "wikilink")出身。血液型[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+  - **秀一**（シュウイチ、1978年[5月31日](../Page/5月31日.md "wikilink") - ）[ギター](../Page/ギター.md "wikilink")担当。[岩手県](../Page/岩手県.md "wikilink")[奥州市](../Page/奥州市.md "wikilink")出身。血液型[B型](../Page/ABO式血液型.md "wikilink")。
 
 <!-- end list -->
 
-  - **PxOxN**（ポン、[1979年](../Page/1979年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink") - ）[ドラム担当](../Page/ドラムセット.md "wikilink")。富山県[魚津市](../Page/魚津市.md "wikilink")出身。血液型[AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+  - **PxOxN**（ポン、[1979年](../Page/1979年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink") - ）[ドラム担当](../Page/ドラムセット.md "wikilink")。富山県[魚津市](../Page/魚津市.md "wikilink")出身。血液型[AB型](../Page/ABO式血液型.md "wikilink")。
 
 <!-- end list -->
 
@@ -27,7 +27,7 @@ __TOC__ {{-}}
 
 <!-- end list -->
 
-  - **kj**（ケージェイ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[10月20日](../Page/10月20日.md "wikilink") - ）[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")担当。[埼玉県](../Page/埼玉県.md "wikilink")[蓮田市](../Page/蓮田市.md "wikilink")出身。血液型[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+  - **kj**（ケージェイ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[10月20日](../Page/10月20日.md "wikilink") - ）[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")担当。[埼玉県](../Page/埼玉県.md "wikilink")[蓮田市](../Page/蓮田市.md "wikilink")出身。血液型[O型](../Page/ABO式血液型.md "wikilink")。
 
 ## 過去のメンバー
 

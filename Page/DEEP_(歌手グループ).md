@@ -514,14 +514,15 @@
   - DEEP LIVE TOUR 2012 "YOUR STORY"（3月3日 - 4月29日）
   - DEEP LIVE HOUSE TOUR 2013 "DEEP BEST"（3月2日 - 6月28日）
   - DEEP LIVE TOUR 2013 "HISTORY ～Love & Harmony～"（9月21日 - 12月13日）
+  - VOCAL BATTLE AUDITION Presents "VOCAL BATTLE STAGE 2014"（4月24日 - 4月25日）\[20\]
   - DEEP LIVE TOUR 2014 "Just The Way You Are"（11月7日 - 12月28日）
   - DEEP COUNTDOWN LIVE 2014-2015（12月31日）
   - DEEP LIVE HOUSE TOUR 2015 "Love Light"（3月25日 - 5月30日）
   - DEEP OFFICIAL FAN CLUB LIVE 2015 "MORE DEEP"（10月11日 - 12月23日）
   - DEEP COUNTDOWN LIVE 2015-2016（12月31日）
-  - EXILE THE SECOND LIVE TOUR 2017-2018 "ROUTE 6・6"（10月28日 - 5月24日）\[20\]
+  - EXILE THE SECOND LIVE TOUR 2017-2018 "ROUTE 6・6"（10月28日 - 5月24日）\[21\]
   - DEEP LIVE TOUR 2018 "THE SINGER"（11月26日 - 12月26日）
-  - LDH PERFECT YEAR 2020 SPECIAL STAGE 〜MUSIC BOX〜（<s>3月25日、4月4日</s>）新型コロナウイルスによる政府の自粛要請に従い中止）\[21\]
+  - LDH PERFECT YEAR 2020 SPECIAL STAGE 〜MUSIC BOX〜（<s>3月25日、4月4日</s>）新型コロナウイルスによる政府の自粛要請に従い中止）\[22\]
 
 ## 出演
 
@@ -536,30 +537,30 @@
 
 ### 配信
 
-  - 漢部 〜真ノ男道〜（2014年10月\[22\] - 2015年2月\[23\]、[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")）\[24\]
+  - 漢部 〜真ノ男道〜（2014年10月\[23\] - 2015年2月\[24\]、[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")）\[25\]
 
 ## DEEP SQUAD
 
-**DEEP SQUAD**（ディープ スクワッド）は、DEEPによるプロジェクト。レーベルは[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")\[25\]。
+**DEEP SQUAD**（ディープ スクワッド）は、DEEPによるプロジェクト。レーベルは[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")\[26\]。
 
-2019年2月19日、「DEEP VOCALIST AUDITION」の開催を発表\[26\]。同年4月より始動した1次審査は、約1万2千人が参加した。同年7月22日に赤坂BLITZで最終審査を行い、DEEPと合格者によるプロジェクト「DEEP SQUAD」を発表\[27\]。
+2019年2月19日、「DEEP VOCALIST AUDITION」の開催を発表\[27\]。同年4月より始動した1次審査は、約1万2千人が参加した。同年7月22日に赤坂BLITZで最終審査を行い、DEEPと合格者によるプロジェクト「DEEP SQUAD」を発表\[28\]。
 
 **DEEP以外のメンバー**
 
   - 宇原雄飛（うはら ゆうひ、[2001年](../Page/2001年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink") - ）
-      - [大阪府](../Page/大阪府.md "wikilink")出身。身長178cm\[28\]。
+      - [大阪府](../Page/大阪府.md "wikilink")出身。身長178cm\[29\]。
   - 杉山亮司（すぎやま りょうじ、[1996年](../Page/1996年.md "wikilink")[5月15日](../Page/5月15日.md "wikilink") - ）
-      - [埼玉県](../Page/埼玉県.md "wikilink")出身。身長177cm\[29\]。
+      - [埼玉県](../Page/埼玉県.md "wikilink")出身。身長177cm\[30\]。
   - 比嘉涼樹（ひが すずき、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月14日](../Page/8月14日.md "wikilink") - ）
-      - [沖縄県](../Page/沖縄県.md "wikilink")出身。身長175cm\[30\]。
+      - [沖縄県](../Page/沖縄県.md "wikilink")出身。身長175cm\[31\]。
 
 **配信シングル**
 
-  - [Get With You](../Page/Get_With_You.md "wikilink")（2020年7月22日）\[31\]
+  - [Get With You](../Page/Get_With_You.md "wikilink")（2020年7月22日）\[32\]
 
 **ライブ**
 
-  - LDH PERFECT YEAR 2020 SPECIAL STAGE 〜MUSIC BOX〜（<s>3月26日、4月5日</s>）新型コロナウイルスによる政府の自粛要請に従い中止\[32\]
+  - LDH PERFECT YEAR 2020 SPECIAL STAGE 〜MUSIC BOX〜（<s>3月26日、4月5日</s>）新型コロナウイルスによる政府の自粛要請に従い中止\[33\]
 
 ## 脚注
 
@@ -625,3 +626,4 @@
 30.
 31.
 32.
+33.

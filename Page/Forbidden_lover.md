@@ -1,13 +1,13 @@
 > この記事は[Forbidden lover](https://ja.wikipedia.org/wiki/Forbidden_lover)から翻訳されています。
 
 
-「**forbidden lover**」（フォービドゥン ラヴァー）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の14作目のシングル。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月14日](../Page/10月14日.md "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。本作がL'Arc〜en〜Cielでは最後の[8cm盤シングルとなった](https://ja.wikipedia.org/wiki/8センチCD "wikilink")。
+{{ external media | width = 300px | align = right | video1 =  }} 「**forbidden lover**」（フォービドゥン ラヴァー）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の14作目のシングル。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月14日](../Page/10月14日.md "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。本作がL'Arc〜en〜Cielでは最後の[8cm盤シングルとなった](https://ja.wikipedia.org/wiki/8センチCD "wikilink")。
 
 ## 解説
 
 前週発売の「[snow drop](https://ja.wikipedia.org/wiki/snow_drop_\(L'Arc〜en〜Cielの曲\) "wikilink")」と合わせ、**シングル2週連続発売**の2週目に発売されたシングル。
 
-本作リリース前に放映されたCMでは、3作同時シングル発売に引き続き[プロレスラー](../Page/プロレスラー.md "wikilink")の[藤原喜明](../Page/藤原喜明.md "wikilink")が出演している。
+本作リリース前に放映されたCMでは、3作同時シングル発売に引き続き[プロレスラー](../Page/プロレスラー.md "wikilink")の[藤原喜明](../Page/藤原喜明.md "wikilink")が刑事役で出演している。[2019年](../Page/2019年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink")にはこのCMをセルフリメイフし、サブスクリプションサービス（定額制音楽配信）にて楽曲の一斉配信を開始する旨を発表した。
 
 通算5作目のオリコン週間シングルチャート初登場1位を記録するとともに、前週リリースの「[snow drop](https://ja.wikipedia.org/wiki/snow_drop_\(L'Arc〜en〜Cielの曲\) "wikilink")」が2位を記録したことにより、チャートの1位・2位を独占した。L'Arc〜en〜Cielは既に1998年7月、「[HONEY](../Page/HONEY_\(L'Arc〜en〜Cielの曲\).md "wikilink")」と「[浸食 〜lose control〜](../Page/浸食_〜lose_control〜.md "wikilink")」で1位・2位を独占しており、これにより**史上初の2度目のオリコン週間シングルチャート1位・2位独占**を記録した。
 

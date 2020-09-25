@@ -1,7 +1,7 @@
 > この記事は[THIS MORNING](https://ja.wikipedia.org/wiki/THIS_MORNING)から翻訳されています。
 
 
-は、平日早朝にJFN系各局をネットして1991年4月から2000年3月まで放送された番組。新聞のラジオ欄では「ジス・モーニング」と表記された。
+は、平日早朝に[JFN系各局をネットして](../Page/全国FM放送協議会.md "wikilink")1991年4月から2000年3月まで放送された番組。新聞のラジオ欄では「ジス・モーニング」と表記された。
 
 基本的に自社制作の早朝番組を組まない地方局向けのBラインの番組であるが、一部時間帯でAライン（全国共通番組）が放送された。
 
@@ -91,4 +91,4 @@
   - 岩崎康雄は金曜日の放送前、前枠の番組「[林マヤ](../Page/林マヤ.md "wikilink")の[まんたんミュージック](https://ja.wikipedia.org/wiki/まんたんミュージック "wikilink")」に出演していたことがあった。
   - 1997年10月～1998年3月まで、一部放送局ではTHIS MORNINGを中断して6:00～6:30に[TOKYO FM制作](../Page/エフエム東京.md "wikilink")「[DJ赤坂のスタンダード・レディオ](https://ja.wikipedia.org/wiki/DJ赤坂のスタンダード・レディオ "wikilink")」をネットしていた。
 
-[Category:1991年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1991年のラジオ番組_\(日本\) "wikilink") [Category:JFNCの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:JFNCの帯番組の歴史 "wikilink") [Category:ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ラジオの情報・ワイドショー番組 "wikilink")
+[Category:1991年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1991年のラジオ番組_\(日本\) "wikilink") [Category:JFNCの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:JFNCの帯番組の歴史 "wikilink") [Category:JFN系ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの情報・ワイドショー番組 "wikilink")

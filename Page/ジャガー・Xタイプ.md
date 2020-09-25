@@ -14,6 +14,10 @@
   - エンジンはガソリンエンジンが、FF専用の[V型6気筒](../Page/V型6気筒.md "wikilink")2.1L、4WD用としてV型6気筒2.5LとV型6気筒3.0Lで、日本未投入のディーゼルエンジンは[直列4気筒](../Page/直列4気筒.md "wikilink")2.0L及び直列4気筒2.2Lが設定されている。
   - 日本向けは、セダンはFWDの2.1LとAWDの2.5Lと3.0L、エステートはFWDの2.1LとAWDの2.5Lのみである。
 
+## 脚注
+
+<references />
+
 ## 関連項目
 
   - [ジャガー (自動車)](../Page/ジャガー_\(自動車\).md "wikilink")
@@ -21,14 +25,6 @@
   - [ジャガー・XE](https://ja.wikipedia.org/wiki/ジャガー・XE "wikilink")
   - [フォード・モーター](../Page/フォード・モーター.md "wikilink")
   - [フォード・モンデオ](../Page/フォード・モンデオ.md "wikilink")
-
-## 脚注
-
-<div class="references-small">
-
-<references />
-
-</div>
 
 [Category:ジャガーの車種](https://ja.wikipedia.org/wiki/Category:ジャガーの車種 "wikilink") [Category:セダン](https://ja.wikipedia.org/wiki/Category:セダン "wikilink") [Category:ステーションワゴン](https://ja.wikipedia.org/wiki/Category:ステーションワゴン "wikilink") [Category:四輪駆動車](https://ja.wikipedia.org/wiki/Category:四輪駆動車 "wikilink")
 

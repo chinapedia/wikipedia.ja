@@ -11,7 +11,7 @@
 
 ### システム
 
-スパイの情報争奪戦をテーマとした対戦型アクションゲーム。白の[スパイ](../Page/スパイ.md "wikilink")「ヘッケル」と黒の「ジャッケル」を操作し、部屋のどこかに隠された『カバン』『[設計図](../Page/図面.md "wikilink")』『[パスポート](https://ja.wikipedia.org/wiki/パスポート "wikilink")』『金』『[鍵](https://ja.wikipedia.org/wiki/鍵 "wikilink")』の4種類の[アイテム](../Page/アイテム.md "wikilink")を探し出し、相手よりも早く[空港](../Page/空港.md "wikilink")から飛行機で脱出することが目的である\[1\]。カバンを除くそれぞれのアイテムは2つ以上は持てないので、カバンを手に入れて他のアイテムを運ばなくてはならない。なお、武器、カバンを含むアイテムとプレーヤーは、マップ上に青く表示される。カバンに4種類のアイテムを入れて、制限時間内に空港のドアを出た方の勝ちとなる。アイテムが揃っていないのに空港のドアを開けると、はじかれて一回気絶する。
+スパイの情報争奪戦をテーマとした対戦型アクションゲーム。白の[スパイ](../Page/スパイ.md "wikilink")「ヘッケル」と黒の「ジャッケル」を操作し、部屋のどこかに隠された『カバン』『[設計図](../Page/図面.md "wikilink")』『[パスポート](https://ja.wikipedia.org/wiki/パスポート "wikilink")』『金』『[鍵](https://ja.wikipedia.org/wiki/鍵 "wikilink")』の5種類の[アイテム](../Page/アイテム.md "wikilink")を探し出し、相手よりも早く[空港](../Page/空港.md "wikilink")から飛行機で脱出することが目的である\[1\]。カバンを除くそれぞれのアイテムは2つ以上は持てないので、カバンを手に入れて他のアイテムを運ばなくてはならない。なお、武器、カバンを含むアイテムとプレーヤーは、マップ上に青く表示される。カバンに4種類のアイテムを入れて、制限時間内に空港のドアを出た方の勝ちとなる。アイテムが揃っていないのに空港のドアを開けると、はじかれて一回気絶する。
 
 以下の罠の要素を使って相手の動きを妨害することができる。設置された罠に引っかかると死亡し、一定時間行動不能となり、ペナルティとして制限時間が30秒マイナスされる。制限時間が0秒になった場合[ゲームオーバー](../Page/ゲームオーバー.md "wikilink")になるので、気絶した回数が多いと不利になる。
 
@@ -149,7 +149,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Spy_vs._Spy_(2005_video_game)" title="wikilink">Spy vs. Spy</a></p></td>
 <td></td>
 <td><p><a href="../Page/Xbox_(ゲーム機).md" title="wikilink">Xbox</a><br />
-<a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2</a></p></td>
+<a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:2K_Play" title="wikilink">Global Star Software</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Vicious_Cycle_Software" title="wikilink">Vicious Cycle Software</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/DVD-ROM" title="wikilink">DVD-ROM</a></p></td>
@@ -172,7 +172,7 @@
 <td><p>10</p></td>
 <td><p>Spy vs. Spy</p></td>
 <td></td>
-<td><p><a href="../Page/Android.md" title="wikilink">Android</a></p></td>
+<td><p><a href="../Page/Android_(オペレーティングシステム).md" title="wikilink">Android</a></p></td>
 <td><p>Robots and Pencils</p></td>
 <td><p>Robots and Pencils</p></td>
 <td><p>ダウンロード</p></td>
@@ -242,19 +242,17 @@
 
   - Spy vs. Spy II: THE ISLAND CAPER（1985年）
       - 南国の無人島を舞台にしたシリーズ第2弾。『[南国指令\!\!スパイvsスパイ](../Page/南国指令!!スパイvsスパイ.md "wikilink")』のタイトルで、[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")にも移植された。
-  - Spy vs Spy III: AECTIC ANTICS（1987年）
+  - Spy vs Spy III: ARCTIC ANTICS（1987年）
       - [南極](../Page/南極.md "wikilink")を舞台にしたシリーズ第3弾。日本製ハードには移植されなかった。
-  - Spy vs Spy　[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")/[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")版（2012年）、[Android](../Page/Android.md "wikilink")版（2014年）
+  - Spy vs Spy　[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")/[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")版（2012年）、[Android版](../Page/Android_\(オペレーティングシステム\).md "wikilink")（2014年）
       - シリーズ第1作のリメイク版。海外産アプリのため、メニュー画面など全て英語表記となる。グラフィックは現代風に描き直されているが、レトロモードを選べばオリジナル版のグラフィックでも楽しめる。尚、Android版は現在では日本国内での購入は不可能となっている。
 
 ## 脚注
 
 ## 外部リンク
 
-  - （英語）
-
-  - （英語）
-
+  -
+  -
 [Category:1984年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1984年のコンピュータゲーム "wikilink") [Category:1986年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1986年のファミリーコンピュータ用ソフト "wikilink") [Category:Apple_II用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Apple_II用ゲームソフト "wikilink") [Category:Amiga用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Amiga用ゲームソフト "wikilink") [Category:Amstrad_CPC用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Amstrad_CPC用ゲームソフト "wikilink") [Category:Android用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト "wikilink") [Category:Atari_8ビット・コンピュータ用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Atari_8ビット・コンピュータ用ゲームソフト "wikilink") [Category:Atari_ST用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Atari_ST用ゲームソフト "wikilink") [Category:iPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPhone用ゲームソフト "wikilink") [Category:PC-8800用ゲームソフト](https://ja.wikipedia.org/wiki/Category:PC-8800用ゲームソフト "wikilink") [Category:X1用ゲームソフト](https://ja.wikipedia.org/wiki/Category:X1用ゲームソフト "wikilink") [Category:ZX_Spectrum用ゲームソフト](https://ja.wikipedia.org/wiki/Category:ZX_Spectrum用ゲームソフト "wikilink") [Category:アニメのキャラクターゲーム](https://ja.wikipedia.org/wiki/Category:アニメのキャラクターゲーム "wikilink") [Category:アメリカで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:アメリカで開発されたコンピュータゲーム "wikilink") [Category:固定画面アクションゲーム](https://ja.wikipedia.org/wiki/Category:固定画面アクションゲーム "wikilink") [Category:コトブキシステムのゲームソフト](https://ja.wikipedia.org/wiki/Category:コトブキシステムのゲームソフト "wikilink") [Category:コモドール64用ゲームソフト](https://ja.wikipedia.org/wiki/Category:コモドール64用ゲームソフト "wikilink") [Category:ゲームボーイ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイ用ソフト "wikilink") [Category:スパイを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:スパイを題材としたコンピュータゲーム "wikilink") [Category:セガ・マークIII&マスターシステム用ソフト](https://ja.wikipedia.org/wiki/Category:セガ・マークIII&マスターシステム用ソフト "wikilink") [Category:対戦アクションゲーム](https://ja.wikipedia.org/wiki/Category:対戦アクションゲーム "wikilink") [Category:漫画のキャラクターゲーム](https://ja.wikipedia.org/wiki/Category:漫画のキャラクターゲーム "wikilink")
 
 1.  M.B.MOOK『懐かしゲームボーイパーフェクトガイド』 (ISBN 9784866400259)、26ページ

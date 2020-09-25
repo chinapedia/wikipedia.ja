@@ -3,7 +3,7 @@
 
 **いつか**（いつか、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[11月11日](../Page/11月11日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV女優](../Page/AV女優.md "wikilink")。[POPSTARグループ](https://ja.wikipedia.org/wiki/POPSTARグループ "wikilink")所属。笹岡三咲、峰島今日子、岡本裕美　名義でも活動している。
 
-[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：B型。
+[血液型](../Page/ABO式血液型.md "wikilink")：B型。
 
 ## 略歴
 

@@ -176,10 +176,8 @@
 
 ## 外部リンク
 
-  - （英語）
-
-  - （英語）
-
+  -
+  -
 [Category:1987年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1987年のファミリーコンピュータ用ソフト "wikilink") [Category:Apple_II用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Apple_II用ゲームソフト "wikilink") [Category:アニメのキャラクターゲーム](https://ja.wikipedia.org/wiki/Category:アニメのキャラクターゲーム "wikilink") [Category:アメリカで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:アメリカで開発されたコンピュータゲーム "wikilink") [Category:ゲームボーイ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイ用ソフト "wikilink") [Category:コトブキシステムのゲームソフト](https://ja.wikipedia.org/wiki/Category:コトブキシステムのゲームソフト "wikilink") [Category:スパイを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:スパイを題材としたコンピュータゲーム "wikilink") [Category:対戦アクションゲーム](https://ja.wikipedia.org/wiki/Category:対戦アクションゲーム "wikilink") [Category:漫画のキャラクターゲーム](https://ja.wikipedia.org/wiki/Category:漫画のキャラクターゲーム "wikilink") [Category:無人島を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:無人島を舞台としたコンピュータゲーム "wikilink") [Category:ファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:ファミリーコンピュータ用ソフト "wikilink")
 
 1.

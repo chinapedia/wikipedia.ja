@@ -1343,7 +1343,7 @@ flumpool</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a> (JRT)</p></td>
+<td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a> (JRT)</p></td>
 <td><p>×</p></td>
 <td></td>
 <td></td>
@@ -1423,7 +1423,7 @@ flumpool</p></td>
 
 ## Mラバ+
 
-番組と連動するアプリで、コメント動画や次回予告動画などが見ることができる。[Android](../Page/Android.md "wikilink")専用のアプリとなっており、この他にauスマートパス利用者専用のMラバ+ for auスマートパスもある。こちらでは通常版にはないプレゼントの応募や、番組観覧募集もできる。
+番組と連動するアプリで、コメント動画や次回予告動画などが見ることができる。[Android専用のアプリとなっており](../Page/Android_\(オペレーティングシステム\).md "wikilink")、この他にauスマートパス利用者専用のMラバ+ for auスマートパスもある。こちらでは通常版にはないプレゼントの応募や、番組観覧募集もできる。
 
 ## 脚注
 

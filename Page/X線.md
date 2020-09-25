@@ -84,14 +84,13 @@ K.RothkammとM.Lobrichは、ヒト細胞において、高線量のX線照射に
 ## 関連項目
 
   - [X線天文学](../Page/X線天文学.md "wikilink")
-  - [X線撮影](../Page/X線撮影.md "wikilink")
+  - [X線撮影 (レントゲン)](../Page/X線撮影.md "wikilink")
   - [コンピュータ断層撮影](../Page/コンピュータ断層撮影.md "wikilink")
   - [エネルギー分散型X線分析](https://ja.wikipedia.org/wiki/エネルギー分散型X線分析 "wikilink")
   - [蛍光X線](../Page/蛍光X線.md "wikilink")
   - [X線小角散乱](../Page/X線小角散乱.md "wikilink")
   - [診療エックス線技師](../Page/診療エックス線技師.md "wikilink") - [診療放射線技師](../Page/診療放射線技師.md "wikilink")に一本化された。
   - [エックス線作業主任者](../Page/エックス線作業主任者.md "wikilink")
-  - [レントゲン](https://ja.wikipedia.org/wiki/レントゲン "wikilink")
 
 ### 関連人物
 

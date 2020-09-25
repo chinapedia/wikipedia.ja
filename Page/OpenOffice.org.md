@@ -27,7 +27,7 @@ OpenOffice.orgは、オープンソース・ソフトウェアとして開発さ
 
 その後、オラクルは[2011年](../Page/2011年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")\[15\]に、[非営利団体](../Page/非営利団体.md "wikilink")が管理するのが望ましいと声明を発表し、[2011年](../Page/2011年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")に、[Apacheソフトウェア財団](../Page/Apacheソフトウェア財団.md "wikilink")に、ソースコードの著作権ならびにOpenOffice.orgの商標の提供を提案した\[16\]。
 
-[Apacheソフトウェア財団](../Page/Apacheソフトウェア財団.md "wikilink")は、2011年[6月13日](../Page/6月13日.md "wikilink")に投票の開票結果を受けて\[17\]Apacheのインキュベータープロジェクトして承認した。その結果、OpenOffice.orgの資産はオラクルからApacheソフトウェア財団に寄贈・譲渡され、OpenOffice.orgプロジェクトならびにOpenOffice.orgは終了した。
+[Apacheソフトウェア財団](../Page/Apacheソフトウェア財団.md "wikilink")は、2011年[6月13日](../Page/6月13日.md "wikilink")に投票の開票結果を受けて\[17\]Apacheのインキュベータープロジェクトとして承認した。その結果、OpenOffice.orgの資産はオラクルからApacheソフトウェア財団に寄贈・譲渡され、OpenOffice.orgプロジェクトならびにOpenOffice.orgは終了した。
 
 ### マーケットシェア
 
@@ -517,7 +517,7 @@ OpenOffice.orgの最後のバージョン。</p></td>
 
   - [OpenOffice.org](https://www.openoffice.org/ja/)
   - [OpenOffice.org](https://www.openoffice.org/)
-  - [OpenOffice.org 日本ユーザー会](http://oooug.jp/)
+  - [オーユージー](http://oooug.jp/)
   - [OpenOffice.org Q\&A](http://oooug.jp/faq/)
 
 [Category:オラクル](https://ja.wikipedia.org/wiki/Category:オラクル "wikilink") [Category:サン・マイクロシステムズ](https://ja.wikipedia.org/wiki/Category:サン・マイクロシステムズ "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:クロスプラットフォームのソフトウェア](https://ja.wikipedia.org/wiki/Category:クロスプラットフォームのソフトウェア "wikilink") [Category:OpenDocument](https://ja.wikipedia.org/wiki/Category:OpenDocument "wikilink") [Category:オフィスソフト](https://ja.wikipedia.org/wiki/Category:オフィスソフト "wikilink") [Category:PDFソフト](https://ja.wikipedia.org/wiki/Category:PDFソフト "wikilink") [Category:文書作成ソフト](https://ja.wikipedia.org/wiki/Category:文書作成ソフト "wikilink") [Category:Webオーサリングソフト](https://ja.wikipedia.org/wiki/Category:Webオーサリングソフト "wikilink") [Category:表計算ソフト](https://ja.wikipedia.org/wiki/Category:表計算ソフト "wikilink") [Category:データベース管理システム](https://ja.wikipedia.org/wiki/Category:データベース管理システム "wikilink") [Category:ドローソフト](https://ja.wikipedia.org/wiki/Category:ドローソフト "wikilink") [Category:2002年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2002年のソフトウェア "wikilink")

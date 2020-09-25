@@ -233,12 +233,13 @@
   - [ヘブンリーシンフォニー](https://ja.wikipedia.org/wiki/ヘブンリーシンフォニー "wikilink")（セガ/[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - [ぽっぷるメイル](../Page/ぽっぷるメイル.md "wikilink")（[セガ・ファルコム](../Page/セガ・ファルコム.md "wikilink")）
   - [魔法の少女シルキーリップ](../Page/魔法の少女シルキーリップ.md "wikilink")（日本テレネット）
-  - [モータルコンバット](https://ja.wikipedia.org/wiki/モータルコンバット "wikilink")完全版（アクレイムジャパン/ミッドウェイゲームズ）
+  - [モータルコンバット](../Page/モータルコンバット.md "wikilink")完全版（アクレイムジャパン/ミッドウェイゲームズ）
   - [ゆみみみっくす](../Page/ゆみみみっくす.md "wikilink")（ゲームアーツ）
   - [夢見館の物語](https://ja.wikipedia.org/wiki/夢見館の物語 "wikilink")（セガ/システムサコム）
   - [バットマン・リターンズ](https://ja.wikipedia.org/wiki/バットマン・リターンズ "wikilink")（北米・欧州版のみ）
   - ジョンモンタナフットボール（北米・欧州版のみ）
   - DUNE（ヴァージンゲーム、海外のみ）
+  - [ロードス島戦記 英雄戦争](https://ja.wikipedia.org/wiki/ロードス島戦記#コンピュータゲーム "wikilink")（セガ/グループSNE）
   - [ロードブラスター](../Page/ロードブラスター.md "wikilink")（ウルフチーム/データイースト）
   - [LUNAR](../Page/LUNAR.md "wikilink")シリーズ（ゲームアーツ）
       - [LUNAR ザ・シルバースター](../Page/LUNAR_ザ・シルバースター.md "wikilink")（ゲームアーツ）

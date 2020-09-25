@@ -1,7 +1,7 @@
 > この記事は[FIFAコンフェデレーションズカップ](https://ja.wikipedia.org/wiki/FIFAコンフェデレーションズカップ)から翻訳されています。
 
 
-**FIFAコンフェデレーションズカップ**（）は、1992年に[サウジアラビアが開始し](https://ja.wikipedia.org/wiki/サウジアラビアサッカー連盟 "wikilink")、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")第3回大会から[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")（FIFA）が主催し各大陸の王者によって争われた[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の国際大会である。各大陸の代表は、それぞれの大陸連盟が主催する大陸選手権大会で決まる。日本国内では「コンフェデ」や「コンフェデ杯」などと略される。
+**FIFAコンフェデレーションズカップ**（）は、1992年に[サウジアラビアが開始し](https://ja.wikipedia.org/wiki/サウジアラビアサッカー連盟 "wikilink")、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の第3回大会から[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")（FIFA）が主催し各大陸の王者によって争われた[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の国際大会である。各大陸の代表は、それぞれの大陸連盟が主催する大陸選手権大会で決まる。日本国内では「コンフェデ」や「コンフェデ杯」などと略される。
 
 [2017年大会をもって廃止され](https://ja.wikipedia.org/wiki/FIFAコンフェデレーションズカップ2017 "wikilink")、代替大会として[FIFAクラブワールドカップ](../Page/FIFAクラブワールドカップ.md "wikilink")を2021年より4年に1度開催する予定である\[1\]。
 
@@ -96,9 +96,7 @@
   - 決勝トーナメント
     準決勝はA組1位とB組2位・A組2位とB組1位が其々対戦。準決勝の敗者で3位決定戦を、勝者で決勝戦を行う。
 
-## 結果と統計
-
-### 記録
+## 結果
 
 <table>
 <thead>
@@ -268,6 +266,8 @@
       - aet - [延長戦](../Page/延長戦.md "wikilink")終了時の結果
       - GG - [ゴールデンゴール](../Page/ゴールデンゴール.md "wikilink")による結果
       - PK - [PK戦](../Page/PK戦.md "wikilink")による結果
+
+## 統計
 
 ### 代表別通算成績
 
@@ -1012,7 +1012,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/マゾウク・アル・オタイビ" title="wikilink">アル・オタイビ</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/FIFAコンフェデレーションズカップ2001.md" title="wikilink">2001 韓国/日本</a></p></td>
+<td><p><a href="../Page/FIFAコンフェデレーションズカップ2001.md" title="wikilink">2001 日本/韓国</a></p></td>
 <td><p><a href="../Page/ロベール・ピレス.md" title="wikilink">ロベール・ピレス</a></p></td>
 <td><p><a href="../Page/パトリック・ヴィエラ.md" title="wikilink">パトリック・ヴィエラ</a></p></td>
 <td><p><a href="../Page/中田英寿.md" title="wikilink">中田英寿</a></p></td>
@@ -1084,7 +1084,7 @@
 <td><p>6</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/FIFAコンフェデレーションズカップ2001.md" title="wikilink">2001 韓国/日本</a></p></td>
+<td><p><a href="../Page/FIFAコンフェデレーションズカップ2001.md" title="wikilink">2001 日本/韓国</a></p></td>
 <td><p><a href="../Page/ロベール・ピレス.md" title="wikilink">ロベール・ピレス</a></p></td>
 <td><p>2</p></td>
 <td><p><a href="../Page/エリック・カリエール.md" title="wikilink">エリック・カリエール</a></p></td>
@@ -1188,7 +1188,7 @@
 <td><p>/ </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/FIFAコンフェデレーションズカップ2001.md" title="wikilink">2001 韓国/日本</a></p></td>
+<td><p><a href="../Page/FIFAコンフェデレーションズカップ2001.md" title="wikilink">2001 日本/韓国</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

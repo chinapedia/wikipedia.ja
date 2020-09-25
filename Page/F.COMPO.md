@@ -288,11 +288,11 @@
   - [RASH\!\!](../Page/RASH!!.md "wikilink") - 前作。
   - [少年たちのいた夏 〜Melody of Jenny〜](../Page/少年たちのいた夏_〜Melody_of_Jenny〜.md "wikilink") - 『RASH\!\!』後、作連載開始前に描かれた短編を収録。
   - [エンジェル・ハート](../Page/エンジェル・ハート.md "wikilink") - 次作。
-  - [シティーハンター](../Page/シティーハンター.md "wikilink") - 同作の[冴羽獠](https://ja.wikipedia.org/wiki/冴羽獠 "wikilink")が作中に[モブキャラクター](../Page/モブキャラクター.md "wikilink")として登場。
+  - [シティーハンター](../Page/シティーハンター.md "wikilink") - 同作の[冴羽獠](../Page/冴羽獠.md "wikilink")が作中に[モブキャラクター](../Page/モブキャラクター.md "wikilink")として登場。
 
 [Category:北条司](https://ja.wikipedia.org/wiki/Category:北条司 "wikilink") [Category:漫画作品_ふ](https://ja.wikipedia.org/wiki/Category:漫画作品_ふ "wikilink") [Category:1996年の漫画](https://ja.wikipedia.org/wiki/Category:1996年の漫画 "wikilink") [Category:MANGAオールマン](https://ja.wikipedia.org/wiki/Category:MANGAオールマン "wikilink") [Category:家族を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:家族を題材とした漫画作品 "wikilink") [Category:LGBT関連漫画](https://ja.wikipedia.org/wiki/Category:LGBT関連漫画 "wikilink") [Category:女装漫画](https://ja.wikipedia.org/wiki/Category:女装漫画 "wikilink") [Category:男装漫画](https://ja.wikipedia.org/wiki/Category:男装漫画 "wikilink") [Category:豊島区を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:豊島区を舞台とした漫画作品 "wikilink")
 
 1.  「HOJO TSUKASA interview」『北条司 漫画家20周年記念 イラストレーションズ』集英社、2000年12月25日、ISBN 4-08-782598-1、105 - 107頁
 2.  『F.COMPO』14巻、表紙そで
 3.
-4.  『[キャッツ♡アイ](../Page/キャッツ・アイ.md "wikilink")』の内海俊夫は、具体的な身長は不明だが、女性としては長身の来生泪がハイヒールを履いても同じ身長にならないことから、身長180cm台半ば以上と推測される。『[シティーハンター](../Page/シティーハンター.md "wikilink")』の[冴羽獠](https://ja.wikipedia.org/wiki/冴羽獠 "wikilink")は身長186cm、体重72kgで比較的大柄な体系である。
+4.  『[キャッツ♡アイ](../Page/キャッツ・アイ.md "wikilink")』の内海俊夫は、具体的な身長は不明だが、女性としては長身の来生泪がハイヒールを履いても同じ身長にならないことから、身長180cm台半ば以上と推測される。『[シティーハンター](../Page/シティーハンター.md "wikilink")』の[冴羽獠](../Page/冴羽獠.md "wikilink")は身長186cm、体重72kgで比較的大柄な体系である。

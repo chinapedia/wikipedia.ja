@@ -106,7 +106,7 @@
 
 ## クライシス帝国
 
-異次元世界である怪魔界に存在する国家。文明の発展とともに汚染や砂漠化といった環境破壊が進んだため、地球の全人類を抹殺して臣民50億人を1年後に移住させようと目論み、その戦略基地を確保するために日本を狙う。
+異次元世界である怪魔界に存在する独裁国家。文明の発展とともに汚染や砂漠化といった環境破壊が深刻化したため、地球の全人類を抹殺して臣民50億人を1年後に移住させようと目論み、その戦略基地を確保するために日本を狙う。
 
 クライシス皇帝の命を受けたジャーク将軍の指揮の下、4大隊長がそれぞれの配下である怪魔戦士を用いて作戦を展開したが、RXの活躍により作戦は遅々として進まず、このため中盤以降は皇帝直属の査察官・ダスマダー大佐が加わった。
 
@@ -1197,7 +1197,7 @@
   - [広島県](../Page/広島県.md "wikilink")：RCC [中国放送](../Page/中国放送.md "wikilink")
   - [鳥取県](../Page/鳥取県.md "wikilink")・[島根県](../Page/島根県.md "wikilink")：BSS [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")
   - [山口県](../Page/山口県.md "wikilink")：TYS [テレビ山口](../Page/テレビ山口.md "wikilink")
-  - [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")：JRT [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")（日本テレビ系）
+  - [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")：JRT [四国放送](../Page/四国放送.md "wikilink")（日本テレビ系）
   - [愛媛県](../Page/愛媛県.md "wikilink")：RNB [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")（日本テレビ系）
   - [高知県](../Page/高知県.md "wikilink")：KUTV [テレビ高知](../Page/テレビ高知.md "wikilink")（遅れネット、水曜16:30 - 17:00放送。TBS系列局でありながら番販扱い）
   - [福岡県](../Page/福岡県.md "wikilink")：RKB [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")

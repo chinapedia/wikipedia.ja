@@ -267,6 +267,7 @@ SFコミュニティを超えて、ハインラインのいくつかの造語が
   - [スターシップ・トゥルーパーズ2](../Page/スターシップ・トゥルーパーズ2.md "wikilink") *Starship Troopers 2: Hero of the Federation*（2003年）原案
   - [ザ・フューチャーズ](https://ja.wikipedia.org/wiki/ザ・フューチャーズ "wikilink") *Masters of Science Fiction*（2007年）テレビ映画の1編 原作『人造人間』
   - [プリデスティネーション](https://ja.wikipedia.org/wiki/プリデスティネーション "wikilink") *Predestination*（2014年）原作『輪廻の蛇』
+  - [夏への扉](https://ja.wikipedia.org/wiki/夏への扉#映画 "wikilink")（2021年公開予定）原作『夏への扉』
 
 ## 脚注・出典
 

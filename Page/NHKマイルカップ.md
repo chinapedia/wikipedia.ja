@@ -13,7 +13,7 @@
 
 創設当初より[外国産馬](../Page/外国産馬.md "wikilink")が出走可能なほか、[指定交流競走](../Page/指定交流競走.md "wikilink")として所定の条件を満たした[地方競馬](../Page/地方競馬.md "wikilink")所属馬も出走が可能となっている\[6\]。2009年より[国際競走](../Page/国際競走.md "wikilink")となり、[外国馬](../Page/外国馬.md "wikilink")も出走可能になった\[7\]。
 
-[NHK交響楽団](../Page/NHK交響楽団.md "wikilink")のメンバー（正式には、正団員以外を交えた「NHK交響楽団とその仲間たちによる[金管](../Page/金管楽器.md "wikilink")[アンサンブル](https://ja.wikipedia.org/wiki/アンサンブル "wikilink")」）が、発走前の[ファンファーレを生演奏するのが恒例となっている](https://ja.wikipedia.org/wiki/ファンファーレ_\(競馬\) "wikilink")\[8\]\[9\]。
+[NHK交響楽団](../Page/NHK交響楽団.md "wikilink")のメンバー（正式には、正団員以外を交えた「NHK交響楽団とその仲間たちによる[金管](../Page/金管楽器.md "wikilink")[アンサンブル](../Page/アンサンブル.md "wikilink")」）が、発走前の[ファンファーレを生演奏するのが恒例となっている](https://ja.wikipedia.org/wiki/ファンファーレ_\(競馬\) "wikilink")\[8\]\[9\]。
 
 ### 競走条件
 

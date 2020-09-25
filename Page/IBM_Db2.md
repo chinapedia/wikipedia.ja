@@ -134,8 +134,8 @@ DB2では、非常に多くの[プログラミング言語](../Page/プログラ
 
   - [IBM DB2- 日本IBM](https://www.ibm.com/jp-ja/analytics/database-management)
   - [IBM マーケットプレイス](https://www.ibm.com/jp-ja/products)
-  - [IBM ソフトウェア](https://www.ibm.com/software/jp/)
-  - [IBM 無料評価版](https://www.ibm.com/software/jp/info/trials/)
+  - [IBM ソフトウェア](https://www.ibm.com/jp-ja/products/software)
+  - [IBM 無料評価版](https://www.ibm.com/jp-ja/products/trials)
   - [IBM DB2 product family web page](http://www.ibm.com/software/data/)
       - [DB2 Express-C](https://www.ibm.com/jp-ja/products/db2-database/) - DB2の無料版
   - [IBM DB2 Developer Domain - Japan](http://www.ibm.com/jp/software/data/developer/)

@@ -1,7 +1,7 @@
 > この記事は[XO醤](https://ja.wikipedia.org/wiki/XO醤)から翻訳されています。
 
 
-[XO_sauce.jpg](https://ja.wikipedia.org/wiki/File:XO_sauce.jpg "fig:XO_sauce.jpg") **XO醤**（エックスオージャン、広東語 XO醬 エクシーオウジョン）は[1980年代](../Page/1980年代.md "wikilink")後半に[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")で考案されたあわせ[調味料](../Page/調味料.md "wikilink")である。
+[XO_sauce.jpg](https://ja.wikipedia.org/wiki/File:XO_sauce.jpg "fig:XO_sauce.jpg") **XO醤**（エックスオージャン、広東語 XO醬 エクシーオウジョン）は[1980年代](../Page/1980年代.md "wikilink")後半に[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")で考案された、あわせ[調味料](../Page/調味料.md "wikilink")である。
 
 ## 概要
 
@@ -15,7 +15,7 @@ XO醤は各レストランや店舗によって材料・作り方に大きく差
 
 ## 開発の経緯
 
-1980年代の中国の料理人の間では、「新派」と呼ばれる諸外国の料理の手法を取り入れた中華料理を創作する動きが加速していた。その中で香港・[ペニンシュラホテル](https://ja.wikipedia.org/wiki/ペニンシュラホテル "wikilink")の[広東料理](../Page/広東料理.md "wikilink")レストラン「嘉麟楼」の料理長だった許成が高級食材をふんだんに使った新しい調味料を開発した。それがXO醤である。XO醤は新しいもの好きな香港人の心をとらえ、その名に恥じぬ味も相まって瞬く間に大流行。今日では世界各地に広まっている。
+[1980年代](../Page/1980年代.md "wikilink")の[中華料理](../Page/中華料理.md "wikilink")界では、「新派」と呼ばれる諸外国の料理の手法を取り入れた中華料理を創作する動きが加速していた。その中で[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")・[ペニンシュラホテル](https://ja.wikipedia.org/wiki/ペニンシュラホテル "wikilink")の[広東料理](../Page/広東料理.md "wikilink")レストラン「嘉麟楼」の[料理長だった許成が高級食材をふんだんに使ったXO醤を開発した](../Page/シェフ.md "wikilink")。XO醤は新しいもの好きな香港人の心をとらえ、その名に恥じぬ味も相まって瞬く間に大流行。今日では世界各地に広まっている。
 
 ## 代表的な材料
 

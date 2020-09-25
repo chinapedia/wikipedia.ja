@@ -17,7 +17,7 @@
 
 [2007年](../Page/2007年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")、[Windows Media Player 11](../Page/Windows_Media_Player.md "wikilink") for [Windows XPが](../Page/Microsoft_Windows_XP.md "wikilink")、[Windows Vistaの発売にあわせ正式公開された](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")。それまではβ版コーデックを入れないといけなかったが、WMP 11にはVC-1コーデック(WVC1)が同梱され、扱いやすくなった。なお、Windows Vistaには最初からWMP 11が含まれているため、VC-1コーデックに標準で対応している。
 
-2014年現在、ffmpegはエンコードをサポートせずVC-1をエンコードできるエンコーダーは商用、非商用とも僅かである。またマルチプラットホームでの再生にも難があり、普及率ではH.264に大きく後れをとっている。
+現在、ffmpegはエンコードをサポートしているが、マルチプラットホームでの再生にも難があり、普及率ではH.264に大きく後れをとっている。
 
 ## 符号化技術
 

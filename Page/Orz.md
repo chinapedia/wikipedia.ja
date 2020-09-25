@@ -135,7 +135,7 @@
 [Category:アスキーアート作品](https://ja.wikipedia.org/wiki/Category:アスキーアート作品 "wikilink") [Category:インターネット・ミーム](https://ja.wikipedia.org/wiki/Category:インターネット・ミーム "wikilink")
 
 1.  教えてBBS内での雑談などは管理者の判断（資料としての視認性を増すため）により、ログから削除された。
-2.  一言板での第一声は、2002年[12月23日](../Page/12月23日.md "wikilink")に「＜正直＞アフターバーナー予約してしまいました＿|￣|○←早速使ってみるｗ 　(12/23 00:20)」「＜＿|￣|○＞←イイねー！ 　(12/23 01:11)」などが[TECHSIDE一言板。の過去ログ（Internet Archive：題名がＦＦ11となっているが、一言板のログ。年に関してはInternet Archiveがログを収集した年月から逆算できる）](http://web.archive.org/web/20030430024441/http://210.136.179.189/cgi-bin/ch/log/log.html)で確認できる。また、話題になった「教えてBBS」では、こちらの[音が鳴りません](http://techside.sakura.ne.jp/msearch/osiete/48438.htm)というスレッドで2002/12/21 22:42に使われており、これが現存最古の＿|￣|○となっている。
+2.  一言板での第一声は、2002年[12月23日](../Page/12月23日.md "wikilink")に「＜正直＞アフターバーナー予約してしまいました＿|￣|○←早速使ってみるｗ 　(12/23 00:20)」「＜＿|￣|○＞←イイねー！ 　(12/23 01:11)」などが[TECHSIDE一言板。の過去ログ（Internet Archive：題名がＦＦ11となっているが、一言板のログ。年に関してはInternet Archiveがログを収集した年月から逆算できる）](https://web.archive.org/web/20030430024441/http://210.136.179.189/cgi-bin/ch/log/log.html)で確認できる。また、話題になった「教えてBBS」では、こちらの[音が鳴りません](http://techside.sakura.ne.jp/msearch/osiete/48438.htm)というスレッドで2002/12/21 22:42に使われており、これが現存最古の＿|￣|○となっている。
 3.  [- orzの発音 - コッソリアンケートβ](http://find.moritapo.jp/enq/result.php/41348?SF)
 4.  [- orzの発音 - コッソリアンケートβ](http://find.moritapo.jp/enq/result.php/41348?SF)
 5.  [orzの読み方は「オリザノール」と判明](http://r25.yahoo.co.jp/fushigi/jikenbo_detail/?id=20101007-00003851-r25) [web R25](../Page/R25_\(雑誌\).md "wikilink")、リクルート、2010年10月7日

@@ -27,6 +27,11 @@
   - [門奈哲寛](../Page/門奈哲寛.md "wikilink") - 投手→退団（元：[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")）
   - [菊池俊夫](../Page/菊池俊夫.md "wikilink") - 内野手→退団（元：[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")）
 
+## かつて在籍した主な選手
+
+  - [蔵本雅由](../Page/蔵本雅由.md "wikilink")（投手） - 選手として在籍。[英智](../Page/英智.md "wikilink")の実兄。
+  - [永井浩二](https://ja.wikipedia.org/wiki/永井浩二_\(野球\) "wikilink")（捕手） - 選手として在籍。退団後、[浜松大学](../Page/浜松大学.md "wikilink")（のちに[常葉大学](../Page/常葉大学.md "wikilink")に統合）監督→[オイスカ高等学校](../Page/オイスカ高等学校.md "wikilink")監督。
+
 ## 脚注
 
 ## 関連項目

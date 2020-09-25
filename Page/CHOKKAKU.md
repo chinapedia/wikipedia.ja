@@ -77,6 +77,10 @@
   - 「listen up」（編曲）
   - 「TOKYO」（編曲）
 
+**[A.B.C-Z](../Page/A.B.C-Z.md "wikilink")**
+
+  - 「[Oh\! Teacher](https://ja.wikipedia.org/wiki/CONTINUE?_\(アルバム\) "wikilink")」（編曲）
+
 **[AKB48グループ](https://ja.wikipedia.org/wiki/AKB48グループ "wikilink")**
 
   - **[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")**

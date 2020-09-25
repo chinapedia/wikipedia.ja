@@ -289,8 +289,7 @@
 
   - 「[『女神転生II』や『ストラデウス』などの名作がYahoo！ケータイ向けに一挙に配信！ - ファミ通.com](http://www.famitsu.com/k_tai/news/2006/12/01/607,1164903100,63833,0,0.html)」 ファミ通.com、2006年12月1日
 
-  - （英語）
-
+  -
 [Category:1990年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1990年のファミリーコンピュータ用ソフト "wikilink") [Category:1991年のアルバム](https://ja.wikipedia.org/wiki/Category:1991年のアルバム "wikilink") [Category:3DダンジョンRPG](https://ja.wikipedia.org/wiki/Category:3DダンジョンRPG "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:東京を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:東京を舞台としたコンピュータゲーム "wikilink") [Category:ナムコのゲームソフト](https://ja.wikipedia.org/wiki/Category:ナムコのゲームソフト "wikilink") [Category:ビクター音楽産業のアルバム](https://ja.wikipedia.org/wiki/Category:ビクター音楽産業のアルバム "wikilink") [Category:ファミ通クロスレビューゴールド殿堂入りソフト](https://ja.wikipedia.org/wiki/Category:ファミ通クロスレビューゴールド殿堂入りソフト "wikilink") [Category:冒険ゲームブック](https://ja.wikipedia.org/wiki/Category:冒険ゲームブック "wikilink") [Category:魔界を舞台にした作品](https://ja.wikipedia.org/wiki/Category:魔界を舞台にした作品 "wikilink") [Category:女神転生シリーズ](https://ja.wikipedia.org/wiki/Category:女神転生シリーズ "wikilink")
 
 1.  『女神転生Ⅰ・Ⅱ合体版』説明書56ページより

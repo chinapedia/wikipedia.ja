@@ -3,21 +3,23 @@
 
 **Avast Antivirus（日本語名：アバスト アンチウイルス）** とは、[Avast Software](../Page/Avast_Software.md "wikilink") s.r.o.が開発、提供する[ウイルス対策ソフトである](../Page/アンチウイルスソフトウェア.md "wikilink")。
 
+__TOC__{{-}}
+
 ## 概要
 
-家庭での非営利使用であればずっと無料で利用できる「Avast Free Antivirus」（アバスト無料アンチウイルス）のほか、有料版として「Avast Premium Security」（アバスト プレミアムセキュリティ）、「Avast Ultimate Suite」（アバスト アルティメットスイート）「Avast Mobile Security\]（アバスト モバイルセキュリティ）などが提供されている。また、小規模企業向けに無料で利用できる「Avast Business Security Cloud」もある。
+家庭での非営利使用であれば、ずっと無料で利用できる「Avast Free Antivirus」（アバスト無料アンチウイルス）のほか、有料版として「Avast Premium Security」（アバスト プレミアムセキュリティ）、「Avast Ultimate Suite」（アバスト アルティメットスイート）「Avast Mobile Security\]（アバスト モバイルセキュリティ）などが提供されている。また、小規模企業向けに無料で利用できる「Avast Business Security Cloud」もある。
 
 かつて、Free Antivirusは30日間の[体験版](../Page/体験版.md "wikilink")として動作し、無料のユーザ登録を行えば利用期間を延長できる仕組みだったが、現在はユーザ登録不要で半永久的に無料で利用ができる。[Google パックにも](https://ja.wikipedia.org/wiki/Google_パック "wikilink")[Spyware Doctorに代わって含まれていた時期がある](../Page/Spyware_Doctor.md "wikilink")\[1\]。
 
 4.8までは無料版の名称が「Avast Home Edition」、有料版が「Avast Professional Edition」であった。4.8までのProfessional Editionはバージョン5ではPro Antivirusに該当する。4.8では[Windows 95](../Page/Microsoft_Windows_95.md "wikilink")・[98](../Page/Microsoft_Windows_98.md "wikilink")・[Me](https://ja.wikipedia.org/wiki/Microsoft_Windows_Me "wikilink")・[NT等の旧式OSまでサポートが行われていたが](../Page/Microsoft_Windows_NT.md "wikilink")、5.0以降は対応OSから外された。6.0では[Windows 2000がサポート対象リストから外されているが](https://ja.wikipedia.org/wiki/Windows_2000 "wikilink")、無料アンチウイルス、プロアンチウイルスについては2000でも利用可能であった（インターネットセキュリティのみ2000非対応）が、7.0以降で対応OSからは外された。また5.0以降ではインターフェイスが大きく変更された。
 
-2013年に「Avast 2014」を発表し、これ以後はバージョン表記に年を使用している\[2\]\[3\]。
+[2013年](../Page/2013年.md "wikilink")に「Avast 2014」を発表し、これ以後はバージョン表記に年を使用している\[2\]\[3\]。
 
 ## 対応
 
-無料のアンチウイルスソフトウェアとして日本で先行していた[AVG Anti-Virusの無償利用可能版は](../Page/AVG_Anti-Virus.md "wikilink")、非公式な日本語化ファイルを使って日本語表示にすることは可能だったが、[2007年](../Page/2007年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")まで公式な日本語版が存在しなかった。一方、Avast Antivirusは個人のボランティア作業によるヘルプファイルを含めた日本語訳が公式に採用されたため、[2004年](../Page/2004年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")より特別な言語ファイルを必要とせずインストール段階から完全に[日本語](../Page/日本語.md "wikilink")表示されるようになった。また、[2006年](../Page/2006年.md "wikilink")[9月](../Page/9月.md "wikilink")からは公式サイトにも日本語のページが開設された。
+無料のアンチウイルスソフトウェアとして[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で先行していた[AVG Anti-Virusの無償利用可能版は](../Page/AVG_Anti-Virus.md "wikilink")、非公式な[日本語](../Page/日本語.md "wikilink")化ファイルを使って日本語表示にすることは可能だったが、[2007年](../Page/2007年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")まで公式な日本語版が存在しなかった。一方、Avast Antivirusは個人のボランティア作業によるヘルプファイルを含めた日本語訳が公式に採用されたため、[2004年](../Page/2004年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")より特別な言語ファイルを必要とせずインストール段階から完全に[日本語](../Page/日本語.md "wikilink")表示されるようになった。また、[2006年](../Page/2006年.md "wikilink")[9月](../Page/9月.md "wikilink")からは公式サイトにも日本語のページが開設された。
 
-Windows向けアンチウイルスソフトウェアの中で、Windowsの最新版への対応が非常に速いことで知られる(一般発売前の段階で対応するなど)。
+[Windows向けアンチウイルスソフトウェアの中で](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、Windowsの最新版への対応が非常に速いことで知られる(一般発売前の段階で対応するなど)。
 
 [2009年](../Page/2009年.md "wikilink")[12月3日](../Page/12月3日.md "wikilink")に配信されたパターンファイル91203-0において[Spybot - Search & Destroyをはじめとする多数のBorland製開発環境で作られたソフトウェアをWin](../Page/Spybot_-_Search_&_Destroy.md "wikilink")32:Delf-MZGまたはWin32:Zbot-MKKとして誤検出する問題が発生。同日午前5時50分にこの問題を解決したパターンファイル91203-1を配信した\[4\]。
 
@@ -41,7 +43,7 @@ Windows向けアンチウイルスソフトウェアの中で、Windowsの最新
     スクリーンセーバー実行中にウイルスチェックをするように設定することができる。スクリーンセーバーは好みのものが設定できるが、進行状況を示す小さな青い画面が表示される。その画面を消すことは今のところできないが、動画を利用するスクリーンセーバー（3D飛行物体など）なら、ある程度隠すことができる。
   - スパム・フィッシング対策フィルタ
     バージョン5から新たに搭載された。
-  - ファイアウォール
+  - [ファイアウォール](../Page/ファイアウォール.md "wikilink")
     バージョン5から新たに搭載された。
   - サンドボックス
     指定したアプリケーションを[サンドボックス内で実行する事ができる](../Page/サンドボックス_\(セキュリティ\).md "wikilink")。バージョン5から新たに搭載された。
@@ -52,7 +54,7 @@ Windows向けアンチウイルスソフトウェアの中で、Windowsの最新
   - リモートアシスタンス
     相手方からの依頼をもとに、相手方のコンピュータにアクセスして遠隔操作できる機能。バージョン7から新たに搭載され、バージョン2015ではどこでもアクセス機能を統合した。
   - ストリーミングアップデート
-    アップデートを細かい単位で配信し、常に最新の定義情報を利用できるようにする機能。バージョン7から新たに搭載され、バージョン9で頻度と内容が改良された。
+    [アップデート](https://ja.wikipedia.org/wiki/アップデート "wikilink")を細かい単位で配信し、常に最新の定義情報を利用できるようにする機能。バージョン7から新たに搭載され、バージョン9で頻度と内容が改良された。
   - ソフトウェア更新状況
     コンピュータにインストールされているソフトウェアのうち、マルウェアの標的となりやすいソフトウェアのアップデート情報を通知する機能。有償版では自動アップデートも可能。バージョン8から新たに搭載された。
   - ディープスクリーン
@@ -103,7 +105,7 @@ Windows向けアンチウイルスソフトウェアの中で、Windowsの最新
   - 挙動監視シールド
     プログラムによるレジストリ、ネットワーク、ファイルアクセスなどを監視し、怪しい挙動があった場合に警告する機能。バージョン5から新たに搭載されたが、バージョン9では単体のシールドとしては表示されなくなった。
   - 自動サンドボックス
-    怪しいと判定されたアプリケーションを自動的にサンドボックス内で実行する機能。バージョン6で新たに搭載されたが、バージョン9ではディープスクリーンへと置き換えられた。
+    怪しいと判定されたアプリケーションを自動的に[サンドボックス内で実行する機能](../Page/ソフトウェアテスト.md "wikilink")。バージョン6で新たに搭載されたが、バージョン9ではディープスクリーンへと置き換えられた。
 
 ### バージョン2015まで存在
 
@@ -112,11 +114,11 @@ Windows向けアンチウイルスソフトウェアの中で、Windowsの最新
 
 ## 製品
 
-ほかにサーバ向けの[Linux](../Page/Linux.md "wikilink")版、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")版などがある。スマートフォン等に採用されている[Android](../Page/Android.md "wikilink")および[iOSにも](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")「Avast Mobile Security」として無料で提供されている。
+ほかにサーバ向けの[Linux](../Page/Linux.md "wikilink")版、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")版などがある。スマートフォン等に採用されている[Androidおよび](../Page/Android_\(オペレーティングシステム\).md "wikilink")[iOSにも](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")「Avast Mobile Security」として無料で提供されている。
 
 ## 無断でユーザーデータ販売報道
 
-2020年1月、Avast Software s.r.o.がセキュリティソフトをインストールしたユーザーのアクティビティデータを収集し、収集したデータを匿名化して子会社であるマーケティング解析企業[Jumpshot](https://ja.wikipedia.org/wiki/Jumpshot "wikilink")を介して企業に販売していたと米メディアの[Motherboard](https://ja.wikipedia.org/wiki/Motherboard "wikilink")と[PCMag](https://ja.wikipedia.org/wiki/PCMag "wikilink")が報じた\[5\]。Motherboardの調べでは[Google](../Page/Google.md "wikilink")、[Yelp](https://ja.wikipedia.org/wiki/Yelp "wikilink")、[Microsoft](https://ja.wikipedia.org/wiki/Microsoft "wikilink")、[McKinsey](https://ja.wikipedia.org/wiki/McKinsey "wikilink")、[Pepsi](https://ja.wikipedia.org/wiki/Pepsi "wikilink")、[Sephora](https://ja.wikipedia.org/wiki/Sephora "wikilink")、[Home Depot](https://ja.wikipedia.org/wiki/Home_Depot "wikilink")、[Conde Nast](https://ja.wikipedia.org/wiki/Conde_Nast "wikilink")、[Intuit](https://ja.wikipedia.org/wiki/Intuit "wikilink")などがJumpshotの顧客であると判明している。報じられたことについてAvast側はデータ収集はオプトインでユーザーに許可を得ているとしているがMotherboardがユーザーに取材してみたところ多数のユーザーは許可した自覚はなくデータ販売がされていることについても知らなかったと答えている。また匿名化していることについて専門家はデータから個人を特定するのは簡単であると答えた\[6\]。
+[2020年](../Page/2020年.md "wikilink")1月、Avast Software s.r.o.がセキュリティソフトをインストールしたユーザーのアクティビティデータを収集し、収集したデータを匿名化して子会社であるマーケティング解析企業[Jumpshot](https://ja.wikipedia.org/wiki/Jumpshot "wikilink")を介して企業に販売していたと米メディアの[Motherboard](https://ja.wikipedia.org/wiki/Motherboard "wikilink")と[PCMag](https://ja.wikipedia.org/wiki/PCMag "wikilink")が報じた\[5\]。Motherboardの調べでは[Google](../Page/Google.md "wikilink")、[Yelp](https://ja.wikipedia.org/wiki/Yelp "wikilink")、[Microsoft](https://ja.wikipedia.org/wiki/Microsoft "wikilink")、[McKinsey](https://ja.wikipedia.org/wiki/McKinsey "wikilink")、[Pepsi](https://ja.wikipedia.org/wiki/Pepsi "wikilink")、[Sephora](https://ja.wikipedia.org/wiki/Sephora "wikilink")、[Home Depot](https://ja.wikipedia.org/wiki/Home_Depot "wikilink")、[Conde Nast](https://ja.wikipedia.org/wiki/Conde_Nast "wikilink")、[Intuit](https://ja.wikipedia.org/wiki/Intuit "wikilink")などがJumpshotの顧客であると判明している。報じられたことについてAvast側はデータ収集はオプトインでユーザーに許可を得ているとしているがMotherboardがユーザーに取材してみたところ多数のユーザーは許可した自覚はなくデータ販売がされていることについても知らなかったと答えている。また匿名化していることについて専門家はデータから個人を特定するのは簡単であると答えた\[6\]。
 
 この報道の直後、Avastは子会社Jumpshotの事業終了およびアクティビティデータ収集の終了を発表。現在は製品ポリシー等の規約類にこの種のデータの利用許諾に関する言及はなくなっている。
 
@@ -130,9 +132,9 @@ Windows向けアンチウイルスソフトウェアの中で、Windowsの最新
 
 ## 外部リンク
 
-  - [アバスト](https://www.avast.co.jp/)
+  - [アバスト 公式サイト](https://www.avast.co.jp/)
 
-  - [Avast ブログ](https://blog.avast.com/jp)
+  - [Avast ブログ](https://blog.avast.com/jp)（2016年9月22日 - ）
 
   - [アバスト モバイル セキュリティ](https://www.avast.co.jp/free-mobile-security)
 
@@ -140,8 +142,10 @@ Windows向けアンチウイルスソフトウェアの中で、Windowsの最新
 
   - [アバスト パートナー検索](https://www.avast.co.jp/locate-dealer)
 
-  -
-  -
+  - （2019年4月11日 06:22:55 - ）**※ [UTC表記](../Page/協定世界時.md "wikilink")。**
+
+  - （2019年4月5日 - ）
+
 [Category:セキュリティソフト](https://ja.wikipedia.org/wiki/Category:セキュリティソフト "wikilink")
 
 1.  当初は[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")・[ドイツ語](../Page/ドイツ語.md "wikilink")・[イタリア語](../Page/イタリア語.md "wikilink")・[チェコ語](../Page/チェコ語.md "wikilink")・[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")・[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")・[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")・[ポーランド語](../Page/ポーランド語.md "wikilink")版のみだったが、現在は日本語版にも含まれている。[avast\! blog » Free avast\! 5 Chosen for Google Pack](http://blog.avast.com/2010/01/14/free-avast-5-chosen-for-google-pack/)より。

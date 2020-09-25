@@ -5,7 +5,7 @@
 
 ## 概要
 
-WANDSにとって約10ヶ月ぶりのシングルである。シングルとしては「[ふりむいて抱きしめて](../Page/ふりむいて抱きしめて.md "wikilink")」以来のメンバーだけによる[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")となった。作曲に際しては、[上杉昇](../Page/上杉昇.md "wikilink")が最初は[鼻歌](https://ja.wikipedia.org/wiki/鼻歌 "wikilink")でメロディーを練り、[ギター](../Page/ギター.md "wikilink")を爪弾きながらがなり立てるように[サビ](../Page/サビ.md "wikilink")を作り、その後「どうしても[コードが付かない](../Page/和音.md "wikilink")」と柴崎に相談、2人が電話越しに作り上げたというエピソードがある。
+前作から約10ヶ月ぶりにリリースされた。シングルでは2nd「[ふりむいて抱きしめて](../Page/ふりむいて抱きしめて.md "wikilink")」以来のメンバーだけによる[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")となった。作曲に際しては、[上杉昇](../Page/上杉昇.md "wikilink")が最初は[鼻歌](https://ja.wikipedia.org/wiki/鼻歌 "wikilink")でメロディーを練り、[ギター](../Page/ギター.md "wikilink")を爪弾きながらがなり立てるように[サビ](../Page/サビ.md "wikilink")を作り、その後「どうしても[コードが付かない](../Page/和音.md "wikilink")」と柴崎に相談、2人が電話越しに作り上げたというエピソードがある。
 
 ## ミュージックビデオ
 
@@ -17,7 +17,7 @@ PVの撮影風景が「[BEST OF WANDS VIDEO HISTORY](https://ja.wikipedia.org/wi
 
 1.  **Same Side**
       - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[NBA FAST BREAK](https://ja.wikipedia.org/wiki/NBA_FAST_BREAK "wikilink")』エンディングテーマ。
-      - 元々はアルバム曲用で制作されており、[英語](../Page/英語.md "wikilink")詞を乗せるつもりだったという。曲はほとんど[上杉昇](../Page/上杉昇.md "wikilink")が書いたもので、スタジオに入ってアレンジを固める時に間奏前と最後の「♪Same Side」の部分を柴崎が付け足した。このことについて上杉が「勝手に付け加えられてムッとした」と語っている\[1\]。
+      - 元々はアルバム曲用で制作されており、[英語](../Page/英語.md "wikilink")詞を乗せるつもりだったという。曲はほとんど[上杉昇](../Page/上杉昇.md "wikilink")が書いたもので、スタジオに入ってアレンジを固める時に間奏前と最後の「♪Same Side」の部分を柴崎が付け足した。このことについて上杉が「勝手に付け加えられてムッとした(笑)」と語っている\[1\]。
       - [2006年](../Page/2006年.md "wikilink")に、上杉が[セルフカバー](../Page/セルフカバー.md "wikilink")した際に「この曲が今の自分の音楽の原点となった」と述べている。
 2.  **Sleeping Fish**
       - メロディは柴崎が「Same Side」の制作中にふと思いつき、[ラジカセを押して](../Page/ラジオカセットレコーダー.md "wikilink")[アドリブで](../Page/即興.md "wikilink")[鼻歌](https://ja.wikipedia.org/wiki/鼻歌 "wikilink")を入れるという作り方で時間もかからず完成した。その[デモテープ](https://ja.wikipedia.org/wiki/デモテープ "wikilink")を聴いた上杉が、その良さを生かそうとラジカセで録音した音源をイントロに使用。また、[ベースは柴崎が弾いている](../Page/ベース_\(弦楽器\).md "wikilink")。

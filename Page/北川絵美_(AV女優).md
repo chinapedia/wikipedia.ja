@@ -5,7 +5,7 @@
 
 AV女優の[北川明花](../Page/北川明花.md "wikilink")（現・明花）は[従姉妹](https://ja.wikipedia.org/wiki/従姉妹 "wikilink")である。[AVデビュー前には清純系女優として](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")[映画](../Page/映画.md "wikilink")、[Vシネマ等に出演している](../Page/オリジナルビデオ.md "wikilink")。
 
-[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：B型。身長：156cm。[スリーサイズ](../Page/スリーサイズ.md "wikilink")：B86（E）・W58・H84。
+[血液型](../Page/ABO式血液型.md "wikilink")：B型。身長：156cm。[スリーサイズ](../Page/スリーサイズ.md "wikilink")：B86（E）・W58・H84。
 
 ## 略歴
 

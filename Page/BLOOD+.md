@@ -764,7 +764,7 @@ D67を追う「赤い盾」は、その出所が[ベトナム](https://ja.wikipe
 
   - コンシューマーゲーム
     『[BLOOD+ 双翼のバトル輪舞曲（ロンド）](../Page/BLOOD+_双翼のバトル輪舞曲.md "wikilink")』
-    [PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。2006年7月27日発売。ベトナム編とロシア編の間のストーリー。
+    [PlayStation 2用ソフト](../Page/PlayStation_2.md "wikilink")。2006年7月27日発売。ベトナム編とロシア編の間のストーリー。
   - 『[BLOOD+ ONE NIGHT KISS](../Page/BLOOD+_ONE_NIGHT_KISS.md "wikilink")』
     PlayStation 2用ソフト。2006年8月31日発売。沖縄編とベトナム編の間のストーリー。
   - 『BLOOD+ ファイナルピース〜最後のかけら〜』

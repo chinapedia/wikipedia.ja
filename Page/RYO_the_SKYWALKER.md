@@ -1,7 +1,7 @@
 > この記事は[RYO the SKYWALKER](https://ja.wikipedia.org/wiki/RYO_the_SKYWALKER)から翻訳されています。
 
 
-**RYO the SKYWALKER**（リョー・ザ・スカイウォーカー、[1974年](../Page/1974年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink") - ）は[大阪府](../Page/大阪府.md "wikilink")出身の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[プロデューサー](../Page/プロデューサー.md "wikilink")である。本名は**山口 良**（やまぐち りょう）。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[Ｏ型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**RYO the SKYWALKER**（リョー・ザ・スカイウォーカー、[1974年](../Page/1974年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink") - ）は[大阪府](../Page/大阪府.md "wikilink")出身の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[プロデューサー](../Page/プロデューサー.md "wikilink")である。本名は**山口 良**（やまぐち りょう）。[血液型は](../Page/ABO式血液型.md "wikilink")[Ｏ型](../Page/ABO式血液型.md "wikilink")。
 
 ## 来歴
 

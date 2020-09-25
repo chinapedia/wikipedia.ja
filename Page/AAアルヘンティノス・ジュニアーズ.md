@@ -42,7 +42,7 @@
 
 ### 国際タイトル
 
-  - **[コパ・インテルアメリカーナ](../Page/コパ・インテルアメリカーナ.md "wikilink") : 1回**
+  - **[コパ・インテラメリカーナ](../Page/コパ・インテルアメリカーナ.md "wikilink") : 1回**
       - 1985
   - **[コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink") : 1回**
       - [1985](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス1985 "wikilink")

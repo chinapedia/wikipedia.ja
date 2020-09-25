@@ -5,7 +5,9 @@
 
 ## 概要
 
-[Bank Bandとして](../Page/Bank_Band.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")1枚を発売し、ライブの開催などを行っていたが、シングルの発売は初となった。[バンド初のオリジナル楽曲の発売となる](../Page/バンド_\(音楽\).md "wikilink")。
+通常盤のみの1形態で発売。[アートディレクター](../Page/アートディレクター.md "wikilink")は[丹下紘希](../Page/丹下紘希.md "wikilink")。
+
+[Bank Bandとして](../Page/Bank_Band.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")1枚を発売しライブの開催などを行っていたが、シングルの発売は初となった。[バンド初のオリジナル楽曲となる](../Page/バンド_\(音楽\).md "wikilink")。
 
 ## 収録曲
 
@@ -13,27 +15,27 @@
 
 <!-- end list -->
 
-1.  **to U** \[7:12\]
+1.  **to U** / Bank Band with Salyu \[7:12\]
       - 作詞：[櫻井和寿](../Page/桜井和寿.md "wikilink") / 作曲：小林武史 / 編曲：[Bank Band](../Page/Bank_Band.md "wikilink")
     <!-- end list -->
       -
-        [TBS系](../Page/TBSテレビ.md "wikilink")『[筑紫哲也 NEWS23](../Page/筑紫哲也_NEWS23.md "wikilink")』テーマソング（[2005年](../Page/2005年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")）。
-        [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")名義の作品で作曲が共作であるものは存在するが、それぞれを2人が担当する組み合わせは初となる。
-        タイトルの「**to U**」の「**U**」は「**you**」（あなた）と「**Universe**」（全世界）のダブルミーニングであり、曲の世界観のスケールの大きさとそのメッセージが個人のレベルにまで浸透していくストーリーを端的に表している。
-        当初は[Lily Chou-Chouプロジェクトを終えたSalyuが単独で仮歌を歌っていたが](../Page/Lily_Chou-Chou.md "wikilink")、後に櫻井が歌詞を書き加えた上で自らもボーカルに参加し、櫻井とSalyuのデュエット形式で歌われている。そのためこの曲の名義は**Bank Band with Salyu**となっている。
-        『[ap bank fes](https://ja.wikipedia.org/wiki/ap_bank#ap_bank_fes "wikilink")』のコンセプトソングにもなっており、イベントの最後には当日の出演者ほぼ全員で歌うことが多い。
+        [TBS系](../Page/TBSテレビ.md "wikilink")『[筑紫哲也 NEWS23](../Page/筑紫哲也_NEWS23.md "wikilink")』テーマソング（[2005年](../Page/2005年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")）。発表から約1年4ヶ月の時を経て正式に音源化された。そのため発表当時の音源とは微妙に異なっている。
+        [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")名義の作品で作曲が櫻井と小林の共作であるものは存在するが、それぞれを2人が担当する組み合わせは初となる。
+        当初は[Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")が単独で仮歌を歌っていたが、小林はこの曲を複数のシンガーで歌うことを想定していたため、その雛型として櫻井とSalyuのデュエット形式となった\[1\]。実際、イベント『[ap bank fes](https://ja.wikipedia.org/wiki/ap_bank#ap_bank_fes "wikilink")』の最後には当日の出演者ほぼ全員で歌うことが多い。
+        タイトルの「**to U**」の "**U**" は "**you**" と "**Universe**" のダブルミーニングである\[2\]。歌詞について、櫻井は[ap bankのほかに](https://ja.wikipedia.org/wiki/ap_bank "wikilink")[新潟県中越地震](https://ja.wikipedia.org/wiki/新潟県中越地震 "wikilink")にも影響を受けていると語っている\[3\]。
         [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が制作されており、櫻井と小林とSalyuが出演している。
-        『筑紫哲也 NEWS23』では番組オープニングとして本作には収録されていないSalyuの[スキャット](../Page/スキャット.md "wikilink")が入るアップテンポにした[アレンジの](../Page/編曲.md "wikilink")[インストゥルメンタルバージョン](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")（金曜日は[CD収録のピアノバージョン](../Page/コンパクトディスク.md "wikilink")）、[2006年](../Page/2006年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")のリニューアル以降は別アレンジのバージョンが使用されていた。エンディング（月曜と金曜は第1部のエンディング）では当初はオリジナル、月曜日「マンデープラス」と金曜日「金曜深夜便」のエンディングおよび2006年9月のリニューアル以降の全曜日でピアノバージョンが使用された。[2005年](../Page/2005年.md "wikilink")[5月2日](../Page/5月2日.md "wikilink")のマンデープラス枠にて同曲が披露されている。
-        当時は番組と[ap bankのためだけに書き下ろしたという理由ですぐにはCD化されず](https://ja.wikipedia.org/wiki/ap_bank "wikilink")、発表から約1年4ヶ月の時を経て正式に音源化された。そのため発表当時の音源とは微妙に異なっている。
-        [2006年](../Page/2006年.md "wikilink")[12月28日](../Page/12月28日.md "wikilink")放送の[TBS系](../Page/TBSテレビ.md "wikilink")『[クリスマスの約束](../Page/クリスマスの約束.md "wikilink")2006』で[小田和正](../Page/小田和正.md "wikilink")が[松たか子](https://ja.wikipedia.org/wiki/松たか子 "wikilink")とのデュエットでこの曲をカバーしているほか、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月7日](../Page/8月7日.md "wikilink")放送の[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[MUSIC FAIR](../Page/ミュージックフェア.md "wikilink")』ではSalyuと[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")、[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")の3組によるコラボレーションで演奏された。
-2.  **[生まれ来る子供たちのために](https://ja.wikipedia.org/wiki/生まれ来る子供たちのために "wikilink")** \[5:16\]
+        『筑紫哲也 NEWS23』では番組オープニングとして本作には収録されていないSalyuの[スキャット](../Page/スキャット.md "wikilink")が入るアップテンポにした[アレンジの](../Page/編曲.md "wikilink")[インストゥルメンタルバージョン](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")（金曜日は[CD収録のピアノバージョン](../Page/コンパクトディスク.md "wikilink")）、[2006年](../Page/2006年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")のリニューアル以降は別アレンジのバージョンが使用されていた。エンディング（月曜と金曜は第1部のエンディング）では当初はオリジナル、月曜日「マンデープラス」と金曜日「金曜深夜便」のエンディングおよび2006年9月のリニューアル以降の全曜日でピアノバージョンが使用された。また、2005年[5月2日](../Page/5月2日.md "wikilink")のマンデープラス枠にて同曲が披露されている。
+        2006年[12月28日](../Page/12月28日.md "wikilink")放送の[TBS系](../Page/TBSテレビ.md "wikilink")『[クリスマスの約束](../Page/クリスマスの約束.md "wikilink")2006』で[小田和正](../Page/小田和正.md "wikilink")が[松たか子](https://ja.wikipedia.org/wiki/松たか子 "wikilink")とのデュエットでこの曲をカバーしているほか、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月7日](../Page/8月7日.md "wikilink")放送の[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[MUSIC FAIR](../Page/ミュージックフェア.md "wikilink")』ではSalyuと[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")、[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")の3組によるコラボレーションで演奏された。
+2.  **[生まれ来る子供たちのために](https://ja.wikipedia.org/wiki/生まれ来る子供たちのために "wikilink")** / Bank Band \[5:16\]
       - 作詞・作曲：小田和正 / 編曲：Bank Band
     <!-- end list -->
       -
-        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[ドラマ・コンプレックス](https://ja.wikipedia.org/wiki/ドラマ・コンプレックス "wikilink")』終戦六十年スペシャルドラマ『[火垂るの墓 -ほたるのはか-](https://ja.wikipedia.org/wiki/火垂るの墓#ドラマ版 "wikilink")』エンディングテーマ。
-        [オフコース](https://ja.wikipedia.org/wiki/オフコース "wikilink")の楽曲のカバー。ライブ『[BGM Vol.2 ～沿志奏逢](https://ja.wikipedia.org/wiki/BGM_Vol.2_～沿志奏逢 "wikilink")』でも演奏されている。その際の映像は[DVD](../Page/DVD.md "wikilink")化もされたが、ドラマタイアップが決定したことを受けて新たにスタジオレコーディングされた。
-        CD化される前に[iTunes Storeのみで](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")[2005年](../Page/2005年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")から[11月30日](../Page/11月30日.md "wikilink")までの期間限定で配信された。
-3.  **to U (Piano Version)** \[7:41\]
+        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[ドラマ・コンプレックス](../Page/DRAMA_COMPLEX.md "wikilink")』終戦六十年スペシャルドラマ『[火垂るの墓 -ほたるのはか-](https://ja.wikipedia.org/wiki/火垂るの墓#テレビドラマ "wikilink")』エンディングテーマ。
+        [オフコース](https://ja.wikipedia.org/wiki/オフコース "wikilink")の楽曲のカバー。ライブ『[BGM Vol.2 〜沿志奏逢](../Page/BGM_Vol.2_〜沿志奏逢.md "wikilink")』でも演奏されている。その際の映像は[DVD](../Page/DVD.md "wikilink")化もされたが、ドラマタイアップが決定したことを受けて新たにスタジオレコーディングされた。
+        CD化される前に[iTunes Storeのみで](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")2005年[11月2日](../Page/11月2日.md "wikilink")から[11月30日](../Page/11月30日.md "wikilink")までの期間限定で配信された。
+3.  **to U (Piano Version)** / Bank Band \[7:41\]
+      - 作曲：小林武史
+    <!-- end list -->
       -
         ピアノによる[インストゥルメンタルとなっている](../Page/器楽曲.md "wikilink")。
 
@@ -82,11 +84,11 @@
 
 ## to U (Tokyo Metro version)
 
-[2017年](../Page/2017年.md "wikilink")に[東京メトロ](https://ja.wikipedia.org/wiki/東京メトロ "wikilink")キャンペーン「Find my Tokyo.」[CMソングに起用され](../Page/コマーシャルソング.md "wikilink")、「**to U (Tokyo Metro version)**」として[櫻井和寿と](../Page/桜井和寿.md "wikilink")[Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")により新たに歌い直された\[1\]。このバージョンは、[2018年](../Page/2018年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")発売に発売された[小林武史](../Page/小林武史.md "wikilink")のアルバム『[Takeshi Kobayashi meets Very Special Music Bloods](../Page/Takeshi_Kobayashi_meets_Very_Special_Music_Bloods.md "wikilink")』に収録されている。
+[2017年](../Page/2017年.md "wikilink")に[東京メトロ](https://ja.wikipedia.org/wiki/東京メトロ "wikilink")キャンペーン「Find my Tokyo.」[CMソングに起用され](../Page/コマーシャルソング.md "wikilink")、「**to U (Tokyo Metro version)**」として[櫻井和寿と](../Page/桜井和寿.md "wikilink")[Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")により新たに歌い直された\[4\]。このバージョンは、[2018年](../Page/2018年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")発売に発売された[小林武史](../Page/小林武史.md "wikilink")のアルバム『[Takeshi Kobayashi meets Very Special Music Bloods](../Page/Takeshi_Kobayashi_meets_Very_Special_Music_Bloods.md "wikilink")』に収録されている。
 
 ## to U -PROTECT "to U" version-
 
-[ap bankが](https://ja.wikipedia.org/wiki/ap_bank "wikilink")[新型コロナウイルス感染症 (COVID-19)](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink") 拡大防止の支援施策として、保健、福祉、行政、医療周辺、教育系施設向けにマスクを寄付する新プロジェクト「PROTECT "to U"」の一貫として、[2020年](../Page/2020年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink")にap bankの[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")公式チャンネルにて[Bank Band](../Page/Bank_Band.md "wikilink") with [Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")による「**to U -PROTECT "to U" version-**」の映像が公開された。これは新型コロナウイルスと向き合う医療従事者や、状況に不安な思いを抱えている人たちに向けて制作されたもので、リモートセッションによって撮影が行われた。監督は袴田晃司。[小林武史](../Page/小林武史.md "wikilink")は「**Bank Bandのみんなも町内会の有志みたいに集まってくれた。こんな時期に協力してくれたスタッフや、人との接触が避けられない仕事に従事されている方々、そしてなにより医療の現場でがんばってくれている人たちに感謝します。また、聴いていただいたみなさんにとってこれが何らかの力になることを願ってます**」と語っている\[2\]。
+[ap bankが](https://ja.wikipedia.org/wiki/ap_bank "wikilink")[新型コロナウイルス感染症 (COVID-19)](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink") 拡大防止の支援施策として、保健、福祉、行政、医療周辺、教育系施設向けにマスクを寄付する新プロジェクト「PROTECT "to U"」の一貫として、[2020年](../Page/2020年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink")にap bankの[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")公式チャンネルにて[Bank Band](../Page/Bank_Band.md "wikilink") with [Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")による「**to U -PROTECT "to U" version-**」の映像が公開された。これは新型コロナウイルスと向き合う医療従事者や、状況に不安な思いを抱えている人たちに向けて制作されたもので、リモートセッションによって撮影が行われた。監督は袴田晃司。[小林武史](../Page/小林武史.md "wikilink")は「**Bank Bandのみんなも町内会の有志みたいに集まってくれた。こんな時期に協力してくれたスタッフや、人との接触が避けられない仕事に従事されている方々、そしてなにより医療の現場でがんばってくれている人たちに感謝します。また、聴いていただいたみなさんにとってこれが何らかの力になることを願ってます**」と語っている\[5\]。
 
 ## 参加ミュージシャン
 
@@ -147,5 +149,8 @@
   -
 [Category:Bank_Bandの楽曲](https://ja.wikipedia.org/wiki/Category:Bank_Bandの楽曲 "wikilink") [Category:桜井和寿が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桜井和寿が制作した楽曲 "wikilink") [Category:小林武史が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小林武史が制作した楽曲 "wikilink") [Category:トイズファクトリーのシングル](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのシングル "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:TBSの主題歌](https://ja.wikipedia.org/wiki/Category:TBSの主題歌 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")
 
-1.
-2.
+1.  『[ap bank fes '05](https://ja.wikipedia.org/wiki/ap_bank_fes_'05 "wikilink")』パンフレット、2005年、77頁
+2.  『ap bank fes '05』パンフレット、2005年、30頁
+3.  『ap bank fes '05』パンフレット、2005年、27頁
+4.
+5.

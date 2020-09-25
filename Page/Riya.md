@@ -1,7 +1,7 @@
 > この記事は[Riya](https://ja.wikipedia.org/wiki/Riya)から翻訳されています。
 
 
-**riya**（りや、[2月18日](../Page/2月18日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[作詞家](../Page/作詞家.md "wikilink")。[音楽ユニット](../Page/音楽ユニット.md "wikilink")「**[eufonius](https://ja.wikipedia.org/wiki/eufonius "wikilink")**」のボーカリスト。[福岡県](../Page/福岡県.md "wikilink")出身。[血液型はAB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**riya**（りや、[2月18日](../Page/2月18日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[作詞家](../Page/作詞家.md "wikilink")。[音楽ユニット](../Page/音楽ユニット.md "wikilink")「**[eufonius](https://ja.wikipedia.org/wiki/eufonius "wikilink")**」のボーカリスト。[福岡県](../Page/福岡県.md "wikilink")出身。[血液型はAB型](../Page/ABO式血液型.md "wikilink")。
 
 ## 概要・略歴
 
@@ -47,7 +47,7 @@
     4.  遠い旅の記憶（作詞：riya／作曲：折戸伸治／編曲：たくまる）
     5.  一万の軌跡（作詞：Key／作曲：折戸伸治・[戸越まごめ](../Page/戸越まごめ.md "wikilink")／編曲：まにょっ）
     6.  空に光る（作詞：Key／作曲：戸越まごめ／編曲：たくまる）
-  - [PlayStation 2ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")「[アカイイト](../Page/アカイイト.md "wikilink")」オリジナル[サウンドトラック](../Page/サウンドトラック.md "wikilink")（[2004年](../Page/2004年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")発売／[キングレコード](../Page/キングレコード.md "wikilink")より）
+  - [PlayStation 2ゲーム](../Page/PlayStation_2.md "wikilink")「[アカイイト](../Page/アカイイト.md "wikilink")」オリジナル[サウンドトラック](../Page/サウンドトラック.md "wikilink")（[2004年](../Page/2004年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")発売／[キングレコード](../Page/キングレコード.md "wikilink")より）
       - オープニング主題歌「廻る世界で（作詞：[麓川智之](https://ja.wikipedia.org/wiki/麓川智之 "wikilink")／作曲・編曲：[MANYO](../Page/MANYO.md "wikilink") ([Little Wing](https://ja.wikipedia.org/wiki/Little_Wing "wikilink"))）」
       - エンディング主題歌「旅路の果て（作詞：麓川智之／作曲・編曲：MANYO (Little Wing)）」
           - ※ いずれも[霜月はるか](../Page/霜月はるか.md "wikilink")とのツインボーカルによる。

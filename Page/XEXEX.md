@@ -317,8 +317,7 @@
 
   -
   -
-  - （英語）
-
+  -
 [Category:1991年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1991年のアーケードゲーム "wikilink") [Category:SFコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:SFコンピュータゲーム "wikilink") [Category:コナミのゲームソフト](https://ja.wikipedia.org/wiki/Category:コナミのゲームソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:横スクロールシューティングゲーム](https://ja.wikipedia.org/wiki/Category:横スクロールシューティングゲーム "wikilink")
 
 1.  サウンドトラック『XEXEX』（コナミ矩形波倶楽部、1992年1月21日発売 規格品番：KICA-7508）収録「おまけ その1（自己紹介編）」

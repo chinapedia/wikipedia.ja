@@ -36,7 +36,7 @@
 ### 天主
 
   - 侶蘭＜ロラン＞（[ロラン・セアック](../Page/ロラン・セアック.md "wikilink")）
-    声 - [朴璐美](https://ja.wikipedia.org/wiki/朴璐美 "wikilink")（『SDガンダム GGENERATION-F』）
+    声 - [朴璐美](../Page/朴璐美.md "wikilink")（『SDガンダム GGENERATION-F』）
     白の武士団の少年武士。一人称は拙者（コミックボンボン掲載時）、僕（単行本）。月姫を救うべく、武者ターンエーと共に黒の武士団と戦っていく。
   - 緋色＜ヒイロ＞（[ヒイロ・ユイ](../Page/ヒイロ・ユイ.md "wikilink")）
     蒼の隠密団団員。

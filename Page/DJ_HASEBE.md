@@ -478,7 +478,7 @@ LEXCD-12012</p></td>
 
 <!-- end list -->
 
-  - [トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")「[BOØWY Tribute](https://ja.wikipedia.org/wiki/BOØWY_Tribute "wikilink")」（2003年12月24日）
+  - [トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")「[BOØWY Tribute](../Page/BOØWY_Tribute.md "wikilink")」（2003年12月24日）
 
 <!-- end list -->
 

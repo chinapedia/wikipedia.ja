@@ -295,7 +295,7 @@ CRスーパー海物語の後継機として以下の機種が発売され、シ
 
 ## コンシューマ移植
 
-  - [パチパラシリーズ](../Page/パチパラシリーズ.md "wikilink")（いずれも[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）
+  - [パチパラシリーズ](../Page/パチパラシリーズ.md "wikilink")（いずれも[PlayStation 2用](../Page/PlayStation_2.md "wikilink")）
       - 『[パチパラ13 ～スーパー海とパチプロ風雲録～](http://www.irem.co.jp/official/pp13/index.html)』（2006年[10月26日](../Page/10月26日.md "wikilink")発売）に『CRスーパー海物語M55W』と『CRスーパー海物語M55X』が収録
       - 『[パチパラ14 ～風と雲とスーパー海IN沖縄～](http://www.irem.co.jp/official/pp14/)』（2007年[7月26日](../Page/7月26日.md "wikilink")発売）に『CRスーパー海物語IN沖縄MTA』と『CRスーパー海物語IN沖縄SAD』が収録
 

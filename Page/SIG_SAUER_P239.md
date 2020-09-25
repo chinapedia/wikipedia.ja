@@ -30,6 +30,8 @@ P239は同社の[P229のマガジンをシングルカラムにし](https://ja.w
     シーマスがスライドシルバーモデルを使用。
   - 『[Hawaii Five-0](https://ja.wikipedia.org/wiki/Hawaii_Five-0 "wikilink")』
     第2シーズンでロリ・ウェストンが使用。
+  - 『[インセプション](https://ja.wikipedia.org/wiki/インセプション "wikilink")』
+    ユスフ（[ディリープ・ラオ](https://ja.wikipedia.org/wiki/ディリープ・ラオ "wikilink")）が使用。
 
 ### 漫画
 

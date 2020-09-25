@@ -11,7 +11,7 @@
 
 1.  **Peaceお届け\!\!**
       -
-        作詞：鈴木亜美・THC\!\!/ 作曲・編曲：THC\!\!・[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")
+        作詞：鈴木亜美・THC\!\!/ 作曲・編曲：THC\!\!・[CMJK](../Page/CMJK.md "wikilink")
 2.  **Peaceお届け\!\! ～夏の湘南キャンペーンセットver.～**
       -
         Remixed by [KAI](../Page/THC!!.md "wikilink")

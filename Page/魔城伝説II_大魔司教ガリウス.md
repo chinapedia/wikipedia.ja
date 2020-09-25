@@ -299,8 +299,7 @@ MSX版と同様、敵を倒すとEXP（[経験値](../Page/経験値.md "wikilin
 
   - [i-revo『ガリウスの迷宮』](http://game.i-revo.jp/dl/search/displayDetail.do?productId=10012)
 
-  - （英語）
-
+  -
 [Category:1987年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1987年のファミリーコンピュータ用ソフト "wikilink") [Category:I-revoゲーム対応ソフト](https://ja.wikipedia.org/wiki/Category:I-revoゲーム対応ソフト "wikilink") [Category:アクションRPG](https://ja.wikipedia.org/wiki/Category:アクションRPG "wikilink") [Category:魔城伝説シリーズ](https://ja.wikipedia.org/wiki/Category:魔城伝説シリーズ "wikilink") [Category:ハイファンタジーコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ハイファンタジーコンピュータゲーム "wikilink")
 
 1.

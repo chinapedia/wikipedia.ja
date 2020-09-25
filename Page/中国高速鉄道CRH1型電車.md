@@ -11,7 +11,7 @@ CRH1型電車は、[中華人民共和国](../Page/中華人民共和国.md "wik
 
 この電車の原形車は[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")・[SJ AB社の](../Page/SJ_AB.md "wikilink")[Regina C2008形である](https://ja.wikipedia.org/wiki/Regina_\(鉄道車両\) "wikilink")。
 
-[2007年](../Page/2007年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")から広深線（[広州](../Page/広州市.md "wikilink") - [深圳](https://ja.wikipedia.org/wiki/深圳市 "wikilink")）で営業運転を開始した。現在は上海近隣など他地域でも運転されている。
+[2007年](../Page/2007年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")から広深線（[広州](../Page/広州市.md "wikilink") - [深圳](../Page/深圳市.md "wikilink")）で営業運転を開始した。現在は上海近隣など他地域でも運転されている。
 
 なお、外国からの技術移転を基に[ライセンス生産](../Page/ライセンス生産.md "wikilink")されているCRH車両は「[和諧号](../Page/和諧号.md "wikilink")」（和諧＝調和の意）と呼ばれている。
 

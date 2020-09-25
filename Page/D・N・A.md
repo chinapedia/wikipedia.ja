@@ -183,7 +183,7 @@
 
 ## タイアップ
 
-  - [アイディアファクトリー](../Page/アイディアファクトリー.md "wikilink")製[PlayStation 2専用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『スカイサーファー』[オープニングテーマ](../Page/主題歌.md "wikilink") (\#2)
+  - [アイディアファクトリー](../Page/アイディアファクトリー.md "wikilink")製[PlayStation 2専用](../Page/PlayStation_2.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『スカイサーファー』[オープニングテーマ](../Page/主題歌.md "wikilink") (\#2)
   - [テレビ東京系列](../Page/TXNネットワーク.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[スキヤキ\!\!ロンドンブーツ大作戦](../Page/スキヤキ!!ロンドンブーツ大作戦.md "wikilink")』[エンディングテーマ](https://ja.wikipedia.org/wiki/エンディング曲 "wikilink") (\#4)
   - [テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[討論バラエティ番組](../Page/討論番組.md "wikilink")『[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")』エンディングテーマ (\#8)
   - テレビ朝日系列バラエティ番組『[ネプいっ\!](../Page/おネプ!.md "wikilink")』エンディングテーマ (\#10)

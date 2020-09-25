@@ -3376,7 +3376,7 @@ x<br />
 〈ゲストボーカル〉岩崎慧(セカイイチ)、石崎ひゅーい、小宮山雄飛(ホフディラン)、堂島孝平、長岡亮介(ペトロールズ)<br />
 〈ゲストミュージシャン〉小暮晋也(ヒックスヴィル)、玉川裕高、高野勲</li>
 <li><a href="https://ja.wikipedia.org/wiki/iki_orchestra" title="wikilink">iki orchestra</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/藤原さくら_(シンガーソングライター)" title="wikilink">藤原さくら</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/藤原さくら" title="wikilink">藤原さくら</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/片平里菜" title="wikilink">片平里菜</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Schroeder-Headz" title="wikilink">Schroeder-Headz</a><br />
 Guest:沖祐市(東京スカパラダイスオーケストラ)</li>
@@ -3771,7 +3771,7 @@ x<br />
 <li><a href="../Page/GRAPEVINE.md" title="wikilink">GRAPEVINE</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/雨のパレード" title="wikilink">雨のパレード</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/FLOWER_FLOWER" title="wikilink">FLOWER FLOWER</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/藤原さくら_(シンガーソングライター)" title="wikilink">藤原さくら</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/藤原さくら" title="wikilink">藤原さくら</a></li>
 <li><a href="../Page/フレンズ.md" title="wikilink">フレンズ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/魔法少女になり隊" title="wikilink">魔法少女になり隊</a></li>
 </ul></td>
@@ -3849,6 +3849,287 @@ x<br />
 <li><a href="https://ja.wikipedia.org/wiki/あいみょん" title="wikilink">あいみょん</a></li>
 <li>マイア・ヒラサワ</li>
 </ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### ARABAKI ROCK FEST.19
+
+#### 出演者
+
+<table>
+<thead>
+<tr class="header">
+<th><p>開催日</p></th>
+<th><p>エリア</p></th>
+<th><p>出演者</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>4月27日</p></td>
+<td><p>陸奥</p></td>
+<td><ul>
+<li><a href="../Page/9mm_Parabellum_Bullet.md" title="wikilink">9mm Parabellum Bullet</a>「15th ANNIVERSARY CARNIVAL OF CHAOS in ARABAKI」<br />
+GUEST:斎藤宏介(UNISON SQUARE GARDEN)、チャラン・ポ・ランタン、TOSHI-LOW×ウエノコウジ、橋本絵莉子、東出真緒(BIGMAMA)、山田将司×ホリエアツシ、和嶋慎治(人間椅子)、剣舞(みちのくプロレス)、西馬音内盆踊り</li>
+<li><a href="https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN" title="wikilink">UNISON SQUARE GARDEN</a></li>
+<li><a href="../Page/10-FEET.md" title="wikilink">10-FEET</a></li>
+<li><a href="../Page/サンボマスター.md" title="wikilink">サンボマスター</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/SiM" title="wikilink">SiM</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/Dizzy_Sunfist" title="wikilink">Dizzy Sunfist</a></li>
+</ul>
+<dl>
+<dt>HASEKURA Revolution</dt>
+
+</dl>
+<ul>
+<li><AUDITION WINNER>THE GREENBACK</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>鰰</p></td>
+<td><ul>
+<li><a href="https://ja.wikipedia.org/wiki/THE_BAWDIES" title="wikilink">THE BAWDIES</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/水曜日のカンパネラ" title="wikilink">水曜日のカンパネラ</a></li>
+<li><a href="../Page/ZAZEN_BOYS.md" title="wikilink">ZAZEN BOYS</a></li>
+<li><a href="../Page/フラワーカンパニーズ.md" title="wikilink">フラワーカンパニーズ</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/Creepy_Nuts" title="wikilink">Creepy Nuts</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/LUCKY_TAPE" title="wikilink">LUCKY TAPE</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/TENDOUJI" title="wikilink">TENDOUJI</a></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>津軽</p></td>
+<td><ul>
+<li><a href="https://ja.wikipedia.org/wiki/曽我部恵一BAND" title="wikilink">曽我部恵一BAND</a></li>
+<li><a href="../Page/真心ブラザーズ.md" title="wikilink">真心ブラザーズ</a>の石狩フォーク村<br />
+村の若者たち:Drs.小松シゲル、Ba.岡部晴彦、Key.奥野真哉<br />
+旅人：仲井戸"CHABO"麗市、TAKUMA(10-FEET)、山口隆(サンボマスター)、チャラン・ポ・ランタン</li>
+<li><a href="https://ja.wikipedia.org/wiki/片平里菜" title="wikilink">片平里菜</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ハンバートハンバート" title="wikilink">ハンバートハンバート</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/古市コータロー" title="wikilink">古市コータロー</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/緑黄色社会" title="wikilink">緑黄色社会</a></li>
+<li><a href="../Page/アンテナ.md" title="wikilink">アンテナ</a></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>荒吐</p></td>
+<td><ul>
+<li><a href="../Page/勝手にしやがれ.md" title="wikilink">勝手にしやがれ</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/a_flood_of_circle" title="wikilink">a flood of circle</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ドレスコーズ" title="wikilink">ドレスコーズ</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/SCANDAL" title="wikilink">SCANDAL</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/人間椅子" title="wikilink">人間椅子</a><br />
+GUEST:志摩遼平（ドレスコーズ）</li>
+<li><a href="../Page/女王蜂.md" title="wikilink">女王蜂</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/チャラン・ポ・ランタン" title="wikilink">チャラン・ポ・ランタン</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/月に吠える。" title="wikilink">月に吠える。</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/SIX_LOUNGE" title="wikilink">SIX LOUNGE</a></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>花笠</p></td>
+<td><ul>
+<li>第一興商 presents スナック定禅寺ブギー<br />
+堂島孝平・上中丈弥・ミスター小西(フラワーカンパニーズ)・藤原美幸・角田哲哉・佐藤まお(司会進行)</li>
+</ul>
+<dl>
+<dt>MAZRI produce 映像と音の祭</dt>
+
+</dl>
+<ul>
+<li>THE ARABAKI ROCKERS SATURDAY NIGHT ROCK'N'ROLL SHOW<br />
+出演者：池畑潤二（ROCK'N'ROLL GYPSIES／HEATWAVE）、陣内孝則／澄田健／百々和宏／穴井仁吉／田中元尚（TH eROCKERS）、山口洋／細海魚（HEATWAVE）、花田裕之／市川勝也（ROCK'N'ROLL GYPSIES）、仲井戸"CHABO"麗市／土屋公平／早川岳晴（From麗蘭）</li>
+</ul>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/earstern_youth" title="wikilink">earstern youth</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/spike_shoes" title="wikilink">spike shoes</a></li>
+<li>みちのくプロレス</li>
+<li><a href="https://ja.wikipedia.org/wiki/リーガルリリー" title="wikilink">リーガルリリー</a></li>
+<li><a href="../Page/G-FREAK_FACTORY.md" title="wikilink">G-FREAK FACTORY</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/Age_Factory" title="wikilink">Age Factory</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/cinema_staff" title="wikilink">cinema staff</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ユアネス" title="wikilink">ユアネス</a></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>磐越</p></td>
+<td><ul>
+<li><a href="https://ja.wikipedia.org/wiki/LOW_IQ_01" title="wikilink">LOW IQ 01</a> &amp; THE RHYTHM MAKERS＋ 「LOW IQ 01 20th Anniversary Special with buddies in ARABAKI」<br />
+LOW IQ 01 &amp; THE RHYTHM MAKERS＋:LOW IQ 01、フルカワユタカ、山崎聖之、安野勇太（HAWAIIAN6）<br />
+GUEST:細美武士（the HIATUS / MONOEYES / ELLEGARDEN）、TOSHI-LOW（BRAHMAN/OAU）、ホリエアツシ（ストレイテナー）、大木伸夫（ACIDMAN）、TAKUMA（10-FEET）、茂木洋晃（G-FREAK FACTORY）</li>
+<li><a href="../Page/The_Birthday.md" title="wikilink">The Birthday</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/the_HIATUS" title="wikilink">the HIATUS</a></li>
+<li><a href="../Page/ACIDMAN.md" title="wikilink">ACIDMAN</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/竹原ピストル" title="wikilink">竹原ピストル</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/go!go!vanillas" title="wikilink">go!go!vanillas</a></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>HASEKURA Revolution<br />
+x<br />
+東北ライブハウス大作戦STAGE</p></td>
+<td><ul>
+<li>武藤昭平 with ウエノコウジ</li>
+<li>ニセ☆忌野清志郎</li>
+<li>コレサワ</li>
+<li><a href="https://ja.wikipedia.org/wiki/大森靖子" title="wikilink">大森靖子</a></li>
+<li>TOSHI-LOW（BRAHMAN/OAU）</li>
+<li>坂口有望</li>
+<li>ヤマサキセイヤ（キュウソネコカミ）</li>
+<li><a href="https://ja.wikipedia.org/wiki/Drop&#39;s" title="wikilink">Drop's</a></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>ZAO View Village</p></td>
+<td><ul>
+<li>つしまみれ</li>
+<li>カネコアヤノ</li>
+<li>村松徳一</li>
+<li>mahina</li>
+<li>中村佳穂</li>
+<li>竹内アンナ</li>
+<li>バレーボウイズ</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>4月28日</p></td>
+<td><p>陸奥</p></td>
+<td><ul>
+<li><a href="https://ja.wikipedia.org/wiki/the_pillows" title="wikilink">the pillows</a> 「30th ANNIVERSARY CARNIVAL OF BUSTERS in ARABAKI」<br />
+〈Guest〉佐々木亮介(a flood of circle)、佐野元春、菅原卓郎(9mm Parabellum Bullet)、JIRO(THE PREDATORS/GLAY)、関根史織(Base Ball Bear)、田淵智也(UNISON SQUARE GARDEN)、TERU(GLAY)、ホリエアツシ(ストレイテナー)、宮崎朝子(SHISHAMO)</li>
+<li><a href="https://ja.wikipedia.org/wiki/SHISHAMO" title="wikilink">SHISHAMO</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/あいみょん" title="wikilink">あいみょん</a></li>
+<li><a href="../Page/THE_BACK_HORN.md" title="wikilink">THE BACK HORN</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/04_Limited_Sazabys" title="wikilink">04 Limited Sazabys</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/THE_King_ALL_STARS" title="wikilink">THE King ALL STARS</a> 「2019 ARABAKI MAXIMUM」<br />
+〈Guest〉伊藤ふみお／コバヤシケン／河村光博／須賀裕之(KEMURI)、TOSHI-LOW(BRAHMAN/OAU)、のん</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>鰰</p></td>
+<td><ul>
+<li><a href="../Page/フレデリック.md" title="wikilink">フレデリック</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/Chara" title="wikilink">Chara</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/浅井健一" title="wikilink">浅井健一</a> &amp; THE INTERCHANGE KILLS</li>
+<li><a href="https://ja.wikipedia.org/wiki/King_Gnu" title="wikilink">King Gnu</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/TENDRE" title="wikilink">TENDRE</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/PUSHIM" title="wikilink">PUSHIM</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ヒトリエ" title="wikilink">ヒトリエ</a>の音楽を聴く時間</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>津軽</p></td>
+<td><ul>
+<li><a href="https://ja.wikipedia.org/wiki/ソウル・フラワー・ユニオン" title="wikilink">ソウル・フラワー・ユニオン</a></li>
+<li><a href="../Page/KAN.md" title="wikilink">KAN</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/BIGMAMA" title="wikilink">BIGMAMA</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/indigo_la_end" title="wikilink">indigo la end</a></li>
+<li><a href="../Page/佐藤千亜妃.md" title="wikilink">佐藤千亜妃</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/崎山蒼志" title="wikilink">崎山蒼志</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/No_title" title="wikilink">No title</a></li>
+</ul>
+<dl>
+<dt>HASEKURA Revolution</dt>
+
+</dl>
+<ul>
+<li><AUDITION>イタバシケ</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>荒吐</p></td>
+<td><ul>
+<li><a href="../Page/ROTTENGRAFFTY.md" title="wikilink">ROTTENGRAFFTY</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ポルカドットスティングレイ" title="wikilink">ポルカドットスティングレイ</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/SHADOWS" title="wikilink">SHADOWS</a></li>
+<li><a href="../Page/ZIGGY.md" title="wikilink">ZIGGY</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/打首獄門同好会" title="wikilink">打首獄門同好会</a></li>
+<li><a href="../Page/TOMOVSKY.md" title="wikilink">TOMOVSKY</a></li>
+<li><a href="../Page/Base_Ball_Bear.md" title="wikilink">Base Ball Bear</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/赤い公園" title="wikilink">赤い公園</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ネクライトーキー" title="wikilink">ネクライトーキー</a></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>花笠</p></td>
+<td><dl>
+<dt>MAZRI produce 映像と音の祭</dt>
+
+</dl>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/the_telephones" title="wikilink">the telephones</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/s**t_kingz" title="wikilink">s**t kingz</a></li>
+</ul>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/iki_orchestra" title="wikilink">iki orchestra</a>（Rei, Sarah, 達也, ひなっち）</li>
+<li><a href="../Page/SIRUP.md" title="wikilink">SIRUP</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/折坂悠太" title="wikilink">折坂悠太</a>（合奏）</li>
+<li>みちのくプロレス</li>
+<li><a href="https://ja.wikipedia.org/wiki/ドミコ" title="wikilink">ドミコ</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/マカロニえんぴつ" title="wikilink">マカロニえんぴつ</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/BURNOUT_SYNDROMES" title="wikilink">BURNOUT SYNDROMES</a></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>磐越</p></td>
+<td><ul>
+<li><a href="../Page/石野卓球.md" title="wikilink">石野卓球</a></li>
+<li><a href="../Page/東京スカパラダイスオーケストラ.md" title="wikilink">東京スカパラダイスオーケストラ</a></li>
+<li><a href="../Page/BARBEE_BOYS.md" title="wikilink">BARBEE BOYS</a></li>
+<li><a href="../Page/ウルフルズ.md" title="wikilink">ウルフルズ</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ヤバイTシャツ屋さん" title="wikilink">ヤバイTシャツ屋さん</a></li>
+<li><a href="../Page/堂島孝平.md" title="wikilink">堂島孝平</a>（荒吐親善大使） 「堂島孝平とアラバキ・ニューブリード Presents 春のヒットスタジオ</li>
+</ul>
+<p>磐越編」<br />
+出演者：<a href="../Page/堂島孝平.md" title="wikilink">堂島孝平</a>、Guest Vo: 藤井隆、Guest Vo: 椿鬼奴、Guest Vo: レイザーラモンRG<br />
+Dr: 岡本啓佑 [黒猫チェルシー]、、Ba: 鹿島達也 [鹿の一族]、Gt: 八橋義幸 [The Uranus]、Key: 渡辺シュンスケ [Schroeder-Headz]、Key: sugarbeans [Tommy &amp; Sammy]、Cho: 真城めぐみ [ヒックスヴィル / HEA]、Cho: 伊沢麻未 [Tommy &amp; Sammy]</p>
+<ul>
+<li>川崎中学校吹奏楽部</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>HASEKURA Revolution<br />
+x<br />
+東北ライブハウス大作戦STAGE</p></td>
+<td><ul>
+<li>Have a Nice Day!</li>
+<li>タカヒロキ（忘れらんねえよ柴田隆浩、LEGO BIG MORLタナカヒロキ）</li>
+</ul>
+<ul>
+<li>3人ピーズ</li>
+<li>佐藤タイジ &amp; 華純連</li>
+<li>ホリエアツシ</li>
+<li>大木温之（ピーズ）</li>
+<li>indischord</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>ZAO View Village</p></td>
+<td><ul>
+<li>大宮エリー＋キヨサク（MONGOL800）</li>
+<li>マイア・ヒラサワ</li>
+<li>関取花</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>

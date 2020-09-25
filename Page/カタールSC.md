@@ -92,7 +92,7 @@
 
   - [バカリ・コネ](https://ja.wikipedia.org/wiki/バカリ・コネ "wikilink") 2012-2013
 
-  - [曺永哲](../Page/チョ永哲.md "wikilink") 2014-2015
+  - [曺永哲](https://ja.wikipedia.org/wiki/曺永哲 "wikilink") 2014-2015
 
 ## 脚注
 

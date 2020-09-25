@@ -1,7 +1,7 @@
 > この記事は[ケロロ軍曹 メロメロバトルロイヤルZ](https://ja.wikipedia.org/wiki/ケロロ軍曹_メロメロバトルロイヤルZ)から翻訳されています。
 
 
-『**ケロロ軍曹 メロメロバトルロイヤルZ**』（ケロロぐんそう メロメロバトルロイヤルゼット）は、[2005年](../Page/2005年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[PlayStation 2専用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。ジャンルは「ドタバタ3Dアクション」と名付けられた[対戦アクションゲーム](../Page/対戦アクションゲーム.md "wikilink")である。
+『**ケロロ軍曹 メロメロバトルロイヤルZ**』（ケロロぐんそう メロメロバトルロイヤルゼット）は、[2005年](../Page/2005年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[PlayStation 2専用](../Page/PlayStation_2.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。ジャンルは「ドタバタ3Dアクション」と名付けられた[対戦アクションゲーム](../Page/対戦アクションゲーム.md "wikilink")である。
 
 ## 概要
 

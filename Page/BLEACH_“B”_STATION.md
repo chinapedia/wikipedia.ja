@@ -103,7 +103,7 @@
 <td><p>6月</p></td>
 <td><p>|<a href="../Page/立木文彦.md" title="wikilink">立木文彦</a><br />
 （<a href="../Page/更木剣八.md" title="wikilink">更木剣八</a>役）</p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/朴璐美" title="wikilink">朴璐美</a><br />
+<td><p>|<a href="../Page/朴璐美.md" title="wikilink">朴璐美</a><br />
 （<a href="../Page/日番谷冬獅郎.md" title="wikilink">日番谷冬獅郎</a>役）</p></td>
 <td><p>|<a href="../Page/川上とも子.md" title="wikilink">川上とも子</a><br />
 （<a href="https://ja.wikipedia.org/wiki/護廷十三隊#砕蜂" title="wikilink">砕蜂役</a>）</p></td>

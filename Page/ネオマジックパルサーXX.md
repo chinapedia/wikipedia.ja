@@ -64,7 +64,7 @@
 
 ## 家庭用ゲーム機
 
-  - 本機種は[プレイステーション2に移植され](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、系列会社の[ヤマサエンタテイメント](https://ja.wikipedia.org/wiki/ヤマサエンタテイメント "wikilink")より「[山佐デジワールドSP ネオマジックパルサーXX](../Page/山佐Digiシリーズ.md "wikilink")」として発売された（発売日：[2003年](../Page/2003年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")）。
+  - 本機種は[プレイステーション2に移植され](../Page/PlayStation_2.md "wikilink")、系列会社の[ヤマサエンタテイメント](https://ja.wikipedia.org/wiki/ヤマサエンタテイメント "wikilink")より「[山佐デジワールドSP ネオマジックパルサーXX](../Page/山佐Digiシリーズ.md "wikilink")」として発売された（発売日：[2003年](../Page/2003年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")）。
 
 ## 関連項目
 

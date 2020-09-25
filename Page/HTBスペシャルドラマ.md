@@ -37,7 +37,7 @@
   - [藤堂志津子](../Page/藤堂志津子.md "wikilink")スペシャル 黒い瞳 (1999年、主演:[清水美砂](https://ja.wikipedia.org/wiki/清水美砂 "wikilink"))
   - ☆◎[ひかりのまち](https://ja.wikipedia.org/wiki/ひかりのまち_\(テレビドラマ\) "wikilink") (2000年、主演:[尾野真千子](https://ja.wikipedia.org/wiki/尾野真千子 "wikilink"))
   - 丘をこえて (2001年、主演:[伊藤淳史](../Page/伊藤淳史.md "wikilink"))
-  - ☆★夏の約束 (2002年、主演:[夏川結衣](https://ja.wikipedia.org/wiki/夏川結衣 "wikilink"))
+  - ☆★[夏の約束](https://ja.wikipedia.org/wiki/夏の約束_\(テレビドラマ\) "wikilink") (2002年、主演:[夏川結衣](https://ja.wikipedia.org/wiki/夏川結衣 "wikilink"))
   - ☆そして明日から (2003年、主演:[水橋研二](../Page/水橋研二.md "wikilink"))
   - ★六月のさくら (2004年、主演:[大塚寧々](https://ja.wikipedia.org/wiki/大塚寧々 "wikilink"))
   - ★うみのほたる (2005年、主演:[小澤征悦](../Page/小澤征悦.md "wikilink"))

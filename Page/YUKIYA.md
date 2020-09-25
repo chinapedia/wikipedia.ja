@@ -18,7 +18,7 @@
   - プロデュース業をこなしながら、自らのバンド[Kαin](https://ja.wikipedia.org/wiki/Kαin "wikilink")のヴォーカリストとして活動している。「高田純三」などの名義で他アーティストへの楽曲の提供も行っている。
   - D≒SIRE結成前のアマチュアバンド（マッハ団の原型）ではギタリストだった。
   - [CRAZE](../Page/CRAZE.md "wikilink")の[瀧川一郎](../Page/瀧川一郎.md "wikilink")モデルのピックを愛用している。
-  - [BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")、[ARB](../Page/ARB_\(バンド\).md "wikilink")、[PERSONZ](../Page/PERSONZ.md "wikilink")らを敬愛し、彼らと同じく自らも本拠地とする[新宿LOFT](https://ja.wikipedia.org/wiki/新宿LOFT "wikilink")への深い愛着を公言している。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")より10年間、[12月24日](../Page/12月24日.md "wikilink")に新宿LOFTでワンマンライブを行っていた。
+  - [BOØWY](../Page/BOØWY.md "wikilink")、[ARB](../Page/ARB_\(バンド\).md "wikilink")、[PERSONZ](../Page/PERSONZ.md "wikilink")らを敬愛し、彼らと同じく自らも本拠地とする[新宿LOFT](https://ja.wikipedia.org/wiki/新宿LOFT "wikilink")への深い愛着を公言している。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")より10年間、[12月24日](../Page/12月24日.md "wikilink")に新宿LOFTでワンマンライブを行っていた。
   - 尊敬する人物として、上京した際に自らを吉本興業に誘った[大崎洋](../Page/大崎洋.md "wikilink")（現在の吉本興業社長）と清水義則の名を度々あげている。
 
 ## 作品

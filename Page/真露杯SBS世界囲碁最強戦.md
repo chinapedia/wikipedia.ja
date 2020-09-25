@@ -49,7 +49,7 @@
 <a href="https://ja.wikipedia.org/wiki/林海峰" title="wikilink">林海峰</a>（李、<a href="../Page/劉小光.md" title="wikilink">劉小光</a>）<br />
 <a href="../Page/徐奉洙.md" title="wikilink">徐奉洙</a>（林、<a href="../Page/馬暁春.md" title="wikilink">馬暁春</a>）<br />
 <a href="../Page/武宮正樹.md" title="wikilink">武宮正樹</a>（徐）<br />
-<a href="../Page/チョ薫鉉.md" title="wikilink">曺薫鉉</a>（武宮）</p></td>
+<a href="../Page/曺薫鉉.md" title="wikilink">曺薫鉉</a>（武宮）</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>

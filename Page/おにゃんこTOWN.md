@@ -150,8 +150,7 @@
 
 ## 外部リンク
 
-  - （英語）
-
+  -
 [Category:1985年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1985年のファミリーコンピュータ用ソフト "wikilink") [Category:アクションゲーム](https://ja.wikipedia.org/wiki/Category:アクションゲーム "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:ネコを主題とする作品](https://ja.wikipedia.org/wiki/Category:ネコを主題とする作品 "wikilink") [Category:ポニーキャニオンのゲームソフト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのゲームソフト "wikilink")
 
 1.  M.B.MOOK『懐かしファミコンパーフェクトガイド』17ページ

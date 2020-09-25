@@ -3,6 +3,8 @@
 
 **F-Secure インターネットセキュリティ**（エフセキュア インターネットセキュリティ）とは、[フィンランド](../Page/フィンランド.md "wikilink")の[F-Secure](../Page/F-Secure.md "wikilink")社が開発する[インターネットセキュリティスイート](../Page/インターネットセキュリティスイート.md "wikilink")。日本での販売は、現地法人のエフセキュア株式会社による。
 
+__TOC__{{-}}
+
 ## 概要
 
 エフセキュアインターネットセキュリティは、個人ユーザーや[SOHO](https://ja.wikipedia.org/wiki/SOHO "wikilink")ユーザー向けに開発された、統合セキュリティ製品である。
@@ -65,9 +67,10 @@
 
   - [F‑Secure インターネット セキュリティ](https://www.f-secure.com/jp-ja/home/products/internet-security)
 
-  - [エフセキュアブログ](http://blog.f-secure.jp/)
+  - [エフセキュアブログ](http://blog.f-secure.jp/)（2009年3月31日 17:30 - 2017年10月4日 09:43）
 
-  -
+  - （2009年7月28日 17:16:24 - ）**※ [UTC表記](../Page/協定世界時.md "wikilink")。**
+
 [Category:セキュリティソフト](https://ja.wikipedia.org/wiki/Category:セキュリティソフト "wikilink")
 
 1.

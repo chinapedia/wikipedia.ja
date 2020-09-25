@@ -161,7 +161,6 @@
 <td><p>2nd</p></td>
 <td><p><a href="../Page/1996年.md" title="wikilink">1996年</a><a href="../Page/5月22日.md" title="wikilink">5月22日</a></p></td>
 <td><p><strong>ドレッドライダー</strong></p></td>
-<td><p>CD</p></td>
 <td><p>ECSB-1731</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -175,12 +174,12 @@
 </div></li>
 </ol></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a><a href="../Page/5月1日.md" title="wikilink">5月1日</a></p></td>
 <td><p><strong>捨てちまえ</strong></p></td>
-<td><p>CD</p></td>
 <td><p>EBDB-3756</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -194,12 +193,12 @@
 </div>
 </div></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a><a href="../Page/8月1日.md" title="wikilink">8月1日</a></p></td>
 <td><p><strong>まばたき</strong></p></td>
-<td><p>CD</p></td>
 <td><p>ESDB-3781</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -213,12 +212,12 @@
 </div></li>
 </ol></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="../Page/6月20日.md" title="wikilink">6月20日</a></p></td>
 <td><p><strong>SOUL DIVER</strong></p></td>
-<td><p>CD</p></td>
 <td><p>ESCB-1877</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -233,12 +232,12 @@
 </div></li>
 </ol></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="../Page/10月21日.md" title="wikilink">10月21日</a></p></td>
 <td><p><strong>まぶたの裏に</strong></p></td>
-<td><p>CD</p></td>
 <td><p>ESDB-3868</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -252,12 +251,12 @@
 </div></li>
 </ol></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>7th</p></td>
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/1月21日.md" title="wikilink">1月21日</a></p></td>
 <td><p><strong>ノックし続ける男</strong></p></td>
-<td><p>CD</p></td>
 <td><p>ESCB-1935</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -271,12 +270,12 @@
 </div></li>
 </ol></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/5月21日.md" title="wikilink">5月21日</a></p></td>
 <td><p><strong>涙の海</strong></p></td>
-<td><p>CD</p></td>
 <td><p>ESCB-1987</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -291,12 +290,12 @@
 </div></li>
 </ol></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>9th</p></td>
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/2月2日.md" title="wikilink">2月2日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ありったけの愛" title="wikilink">ありったけの愛</a></strong></p></td>
-<td><p>CD</p></td>
 <td><p>ESCB-2083</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -310,12 +309,12 @@
 </div></li>
 </ol></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>10th</p></td>
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/3月23日.md" title="wikilink">3月23日</a></p></td>
 <td><p><strong>心臓の目覚めるとき/ただの道</strong></p></td>
-<td><p>CD</p></td>
 <td><p>ESCB-2107</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -328,6 +327,7 @@
 </div>
 </div></li>
 </ol></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -482,7 +482,6 @@
 <td><p>3rd</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a><a href="../Page/6月21日.md" title="wikilink">6月21日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/CALM_DOWN" title="wikilink">CALM DOWN</a></strong></p></td>
-<td><p>CD</p></td>
 <td><p>ESCB-1598</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -499,6 +498,7 @@
 </div></li>
 </ol></td>
 <td><p>公式サイトではシングル扱い</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -557,7 +557,6 @@
 <td><p>2nd</p></td>
 <td><p><a href="../Page/1996年.md" title="wikilink">1996年</a><a href="../Page/6月24日.md" title="wikilink">6月24日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/TALISMAN" title="wikilink">TALISMAN</a></strong></p></td>
-<td><p>CD</p></td>
 <td><p>ESCB-1746</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -584,12 +583,12 @@
 </div></li>
 </ol></td>
 <td><p>オリコン最高38位、登場回数4回</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a><a href="../Page/10月22日.md" title="wikilink">10月22日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/TROPOPAUSE" title="wikilink">TROPOPAUSE</a></strong></p></td>
-<td><p>CD</p></td>
 <td><p>ESCB-1837</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -611,12 +610,12 @@
 </div></li>
 </ol></td>
 <td><p>オリコン最高50位</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/2月20日.md" title="wikilink">2月20日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/VIRACOCHA" title="wikilink">VIRACOCHA</a></strong></p></td>
-<td><p>CD</p></td>
 <td><p>ESCB-1928</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -640,6 +639,7 @@
 </div></li>
 </ol></td>
 <td><p>オリコン最高44位</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>1999年4月10日</p></td>
@@ -720,7 +720,6 @@
 <td><p>7th</p></td>
 <td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/6月22日.md" title="wikilink">6月22日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Reincarnation_(アルバム)" title="wikilink">Reincarnation</a></strong></p></td>
-<td><p>CD</p></td>
 <td><p>FLCG-3117</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -744,6 +743,7 @@
 </div></li>
 </ol></td>
 <td><p>オリコン最高114位</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
@@ -1184,7 +1184,6 @@
 <td><p>ライブビデオ</p></td>
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/4月19日.md" title="wikilink">4月19日</a></p></td>
 <td><p><strong>THEATRE BROOK 16mm AT S.P.C</strong></p></td>
-<td><p>VHS</p></td>
 <td><p>ESVU-512</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -1201,6 +1200,7 @@
 </div>
 </div></li>
 </ol></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">

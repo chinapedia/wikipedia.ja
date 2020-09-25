@@ -102,10 +102,9 @@
 
 ## 外部リンク
 
-  - [公式ウェブサイト](http://sitestan.net/)
-
   -
-  - [コロムビア公式ウェブサイト](http://columbia.jp/artist-info/stan/index.html)
+  -
+  - [コロムビア公式ウェブサイト](https://columbia.jp/artist-info/stan/index.html)
 
   - [nau デジタルデータ作品配信サイト](http://n-a-u.jp/)
 

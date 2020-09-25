@@ -1,7 +1,7 @@
 > この記事は[PHYLLITE](https://ja.wikipedia.org/wiki/PHYLLITE)から翻訳されています。
 
 
-**株式会社PHYLLITE**（フィライト）は、かつて存在した[不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")業等を営む会社。[EMCOMホールディングス](https://ja.wikipedia.org/wiki/EMCOMホールディングス "wikilink")傘下であった。
+**株式会社PHYLLITE**（フィライト）は、かつて存在した[不動産](../Page/不動産.md "wikilink")業等を営む会社。[EMCOMホールディングス](https://ja.wikipedia.org/wiki/EMCOMホールディングス "wikilink")傘下であった。
 
 ## 沿革
 

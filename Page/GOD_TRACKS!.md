@@ -1,7 +1,7 @@
 > この記事は[GOD TRACKS!](https://ja.wikipedia.org/wiki/GOD_TRACKS!)から翻訳されています。
 
 
-『**GOD TRACKS\!**』（ゴッドトラックス）は、[クローバースタジオ](../Page/クローバースタジオ.md "wikilink")企画・開発、[カプコン](../Page/カプコン.md "wikilink")より[2006年](../Page/2006年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink")に発売の[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")『[GOD HAND](../Page/GOD_HAND.md "wikilink")』に同梱の[サウンドトラック](../Page/サウンドトラック.md "wikilink")CD。同作品中で使用されている曲や、サウンドトラックオリジナルの曲を収録。
+『**GOD TRACKS\!**』（ゴッドトラックス）は、[クローバースタジオ](../Page/クローバースタジオ.md "wikilink")企画・開発、[カプコン](../Page/カプコン.md "wikilink")より[2006年](../Page/2006年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink")に発売の[PlayStation 2用](../Page/PlayStation_2.md "wikilink")[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")『[GOD HAND](../Page/GOD_HAND.md "wikilink")』に同梱の[サウンドトラック](../Page/サウンドトラック.md "wikilink")CD。同作品中で使用されている曲や、サウンドトラックオリジナルの曲を収録。
 
 ## 曲リスト
 

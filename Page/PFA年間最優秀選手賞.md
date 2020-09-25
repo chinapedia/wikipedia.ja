@@ -299,6 +299,12 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/プレミアリーグ2019-2020" title="wikilink">2019-20</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ケヴィン・デ・ブライネ" title="wikilink">ケヴィン・デ・ブライネ</a></p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -360,20 +366,20 @@
 <tr class="even">
 <td></td>
 <td><center>
-<p>1</p></td>
-<td><p>1975-76</p></td>
+<p>2</p></td>
+<td><p>2014-15, 2019-20</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><center>
 <p>1</p></td>
-<td><p>2013-14</p></td>
+<td><p>1975-76</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><center>
 <p>1</p></td>
-<td><p>2014-15</p></td>
+<td><p>2013-14</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -490,6 +496,12 @@
 <td><center>
 <p>1</p></td>
 <td><p>2015-16</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><center>
+<p>1</p></td>
+<td><p>2019-20</p></td>
 </tr>
 </tbody>
 </table>

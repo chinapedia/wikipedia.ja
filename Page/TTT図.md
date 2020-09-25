@@ -44,6 +44,6 @@ TTT図は以下の線からなっている。
 ## 関連項目
 
   - [CCT図](https://ja.wikipedia.org/wiki/CCT図 "wikilink")
-  - [熱処理](https://ja.wikipedia.org/wiki/熱処理 "wikilink")
+  - [熱処理](../Page/熱処理.md "wikilink")
 
 [Category:鋼](https://ja.wikipedia.org/wiki/Category:鋼 "wikilink") [Category:物理学の曲線](https://ja.wikipedia.org/wiki/Category:物理学の曲線 "wikilink") [Category:温度](https://ja.wikipedia.org/wiki/Category:温度 "wikilink") [Category:熱処理](https://ja.wikipedia.org/wiki/Category:熱処理 "wikilink")

@@ -50,7 +50,13 @@
         8634F（虹・音符・楽器柄・車内表示装置（千鳥配置）・自動放送装備）
         8637F（シャボン玉柄 青帯・車内表示装置（千鳥配置）・自動放送装備）
 
+画像:Tokyu9000TOQ-BOX.jpg|東横線9000系9006F TOQ-BOX号虹色装飾（2004年11月3日、多摩川） 画像:Tokyu-9000-bubble.jpg|東横線9000系9013F TOQ-BOX号シャボン玉装飾（2005年7月2日、自由が丘駅～田園調布） 画像:Tokyu9000 Pretty Cure Train.JPG|東横線9013F プリキュアトレイン（2005年12月25日、代官山） 画像:Tokyu-8537-CATV.jpg|田園都市線8637F ケーブルテレビ号（1997年5月11日、二子玉川園（現・二子玉川）） 画像:Tokyu-8500-8637F.jpg|田園都市線8637F 2004年2月～現在（2007年6月17日、宮崎台） 画像:Tokyu-8500-8634F-TOQ-BOX.jpg|田園都市線8634F TOQ-BOX号虹色装飾（2007年8月16日）
+
 ### バス車両
+
+AO237号車の除籍を皮切りに、2013年2月までに他のTOQ-BOX車もすべて解除され、東急バスからTOQ-BOX車はから消滅。事実上、TOQ-BOXの歴史に幕を閉じた。
+
+AO237号車は除籍後、元\[\[東急グループの\[\[宗谷バス|東急グループの[宗谷バス](../Page/宗谷バス.md "wikilink")に移籍し、TOQ-BOXロゴはないがラッピング装飾は残されていた。
 
 **[東急バス](https://ja.wikipedia.org/wiki/東急バス "wikilink")[目黒営業所](https://ja.wikipedia.org/wiki/東急バス目黒営業所 "wikilink")**
 
@@ -62,7 +68,7 @@
 
   - 日野自動車・[ブルーリボンシティ](https://ja.wikipedia.org/wiki/日野・ブルーリボンシティ "wikilink")
       -
-        AO235号車（写真）→AO237号車
+        AO235号車→AO237号車
 
 **[東急バス弦巻営業所](../Page/東急バス弦巻営業所.md "wikilink")**
 
@@ -72,23 +78,22 @@
 
 **[東急バス虹が丘営業所](../Page/東急バス虹が丘営業所.md "wikilink")**
 
-  - いすゞ自動車・[エルガ](https://ja.wikipedia.org/wiki/いすゞ・エルガ "wikilink")
+  - いすゞ自動車・[エルガ](../Page/いすゞ・エルガ.md "wikilink")
       -
         NJ8753号車
 
-AO237号車の廃車を皮切りに、ほかのTOQ-BOX車もすべて解除（2013年2月）され、TOQ-BOXはバスから消滅。事実上、TOQ-BOXの歴史に幕を閉じた。ちなみに、AO237号車は宗谷バスで、TOQ-BOXロゴはないが、ラッピングは見ることができる。
-
-画像:Tokyu9000TOQ-BOX.jpg|東横線9000系9006F TOQ-BOX号虹色装飾（2004年11月3日、多摩川） 画像:Tokyu-9000-bubble.jpg|東横線9000系9013F TOQ-BOX号シャボン玉装飾（2005年7月2日、自由が丘駅～田園調布） 画像:Tokyu9000 Pretty Cure Train.JPG|東横線9013F プリキュアトレイン（2005年12月25日、代官山） 画像:Tokyu-8537-CATV.jpg|田園都市線8637F ケーブルテレビ号（1997年5月11日、二子玉川園（現・二子玉川）） 画像:Tokyu-8500-8637F.jpg|田園都市線8637F 2004年2月～現在（2007年6月17日、宮崎台） 画像:Tokyu-8500-8634F-TOQ-BOX.jpg|田園都市線8634F TOQ-BOX号虹色装飾（2007年8月16日） 画像:Tokyubus-toqbox.jpg|東急バス TOQ-BOX号（2006年6月14日）
+<File:Tokyu> Bus T365.jpg|東急バス TOQ-BOX号 (T365) 画像:Tokyubus-toqbox.jpg|東急バス TOQ-BOX号 (AO235)
 
 ## 関連項目
 
-  - [広告貸切列車](https://ja.wikipedia.org/wiki/広告貸切列車 "wikilink")
-  - [ADトレイン](../Page/ADトレイン.md "wikilink")ｰ(JR)
-  - [GreenBox](../Page/GreenBox.md "wikilink")ｰ(相模鉄道)
-  - [U-Liner](https://ja.wikipedia.org/wiki/U-Liner "wikilink")
-  - [アド・ギャラリー](https://ja.wikipedia.org/wiki/アド・ギャラリー "wikilink")
   - [伊豆のなつ号](../Page/伊豆のなつ号.md "wikilink")
-  - [Train Simulator+電車でGO\! 東京急行編](../Page/Train_Simulator+電車でGO!_東京急行編.md "wikilink")（9013F、8637Fが広告統一を行った[プレイステーション2用ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）
+  - [GreenBox](../Page/GreenBox.md "wikilink") ｰ [相模鉄道](https://ja.wikipedia.org/wiki/相模鉄道 "wikilink")・[相鉄バス](../Page/相鉄バス.md "wikilink")
+  - [ADトレイン](../Page/ADトレイン.md "wikilink") ｰ JR
+  - [広告貸切列車](https://ja.wikipedia.org/wiki/広告貸切列車 "wikilink")
+
+<!-- end list -->
+
+  - [Train Simulator+電車でGO\! 東京急行編](../Page/Train_Simulator+電車でGO!_東京急行編.md "wikilink")（9013F、8637Fが広告統一を行った[プレイステーション2用ゲーム](../Page/PlayStation_2.md "wikilink")）
   - [きかんしゃトーマス](https://ja.wikipedia.org/wiki/きかんしゃトーマス "wikilink")（9013Fが生誕60周年記念車両となった）
   - [ふたりはプリキュア Max Heart](https://ja.wikipedia.org/wiki/ふたりはプリキュア_Max_Heart "wikilink")（9013Fが映画宣伝車両となり、[試写会](https://ja.wikipedia.org/wiki/試写会 "wikilink")への[臨時列車](../Page/臨時列車.md "wikilink")にもなった）
 

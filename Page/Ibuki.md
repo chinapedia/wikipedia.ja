@@ -34,11 +34,11 @@
 3.  [モリアオガエル](../Page/モリアオガエル.md "wikilink")
 4.  [オオサンショウウオ](../Page/オオサンショウウオ.md "wikilink")
 5.  [ハヤブサ](../Page/ハヤブサ.md "wikilink")
-6.  [ナミテントウムシ](https://ja.wikipedia.org/wiki/ナミテントウムシ "wikilink")
+6.  [ナミテントウ](../Page/ナミテントウ.md "wikilink")ムシ
 7.  [エゾモモンガ](https://ja.wikipedia.org/wiki/エゾモモンガ "wikilink")
 8.  [ヒメネズミ](../Page/ヒメネズミ.md "wikilink")
 9.  [エゾフクロウ](https://ja.wikipedia.org/wiki/エゾフクロウ "wikilink")
-10. [エゾリス](../Page/キタリス.md "wikilink")
+10. [エゾリス](https://ja.wikipedia.org/wiki/エゾリス "wikilink")
 11. [カワセミ](../Page/カワセミ.md "wikilink")
 12. [ニホンザル](../Page/ニホンザル.md "wikilink")
 13. [ダイヤモンドダスト](../Page/氷霧.md "wikilink")

@@ -21,7 +21,7 @@
   - [暴力脱獄](https://ja.wikipedia.org/wiki/暴力脱獄 "wikilink") *Cool Hand Luke* （1966年）
   - [冷血](https://ja.wikipedia.org/wiki/冷血_\(映画\) "wikilink") *In Cold Blood* （1967年）
   - [太平洋の地獄](https://ja.wikipedia.org/wiki/太平洋の地獄 "wikilink") *Hell in the Pacific* （1968年）
-  - [夕陽に向って走れ](https://ja.wikipedia.org/wiki/夕陽に向って走れ "wikilink") *Tell Them Willie Boy Is Here* （1969年）
+  - [夕陽に向って走れ](../Page/夕陽に向って走れ.md "wikilink") *Tell Them Willie Boy Is Here* （1969年）
   - [明日に向って撃て\!](../Page/明日に向って撃て!.md "wikilink") *Butch Cassidy and the Sundance Kid* （1969年）
   - [グライド・イン・ブルー](https://ja.wikipedia.org/wiki/グライド・イン・ブルー "wikilink") *Electra Glide In Blue* （1973年）
   - [イナゴの日](https://ja.wikipedia.org/wiki/イナゴの日 "wikilink") *The Day of the Locust* （1975年）

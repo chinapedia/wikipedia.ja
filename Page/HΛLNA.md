@@ -1,7 +1,7 @@
 > この記事は[HΛLNA](https://ja.wikipedia.org/wiki/HΛLNA)から翻訳されています。
 
 
-**HΛLNA**（ハルナ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[2月7日](../Page/2月7日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性歌手](../Page/歌手.md "wikilink")。音楽ユニット[HΛL](../Page/HΛL.md "wikilink")の元ボーカリスト。本名は**浜田 春菜**（はまだ はるな）。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[厚木市](../Page/厚木市.md "wikilink")出身。水瓶座、[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長153cm、B83・W58・H83。所属事務所[スーパースタープロモーション](https://ja.wikipedia.org/wiki/スーパースタープロモーション "wikilink")→[アクシヴ](https://ja.wikipedia.org/wiki/アクシヴ "wikilink")。
+**HΛLNA**（ハルナ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[2月7日](../Page/2月7日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性歌手](../Page/歌手.md "wikilink")。音楽ユニット[HΛL](../Page/HΛL.md "wikilink")の元ボーカリスト。本名は**浜田 春菜**（はまだ はるな）。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[厚木市](../Page/厚木市.md "wikilink")出身。水瓶座、[血液型はA型](../Page/ABO式血液型.md "wikilink")。身長153cm、B83・W58・H83。所属事務所[スーパースタープロモーション](https://ja.wikipedia.org/wiki/スーパースタープロモーション "wikilink")→[アクシヴ](https://ja.wikipedia.org/wiki/アクシヴ "wikilink")。
 
 ## 来歴
 

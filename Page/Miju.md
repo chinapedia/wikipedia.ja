@@ -1,7 +1,7 @@
 > この記事は[Miju](https://ja.wikipedia.org/wiki/Miju)から翻訳されています。
 
 
-**Miju**（みじゅ、[1976年](../Page/1976年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")\[1\] - ）は、日本の[歌手](../Page/歌手.md "wikilink")。[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")\[2\]。[東京都](../Page/東京都.md "wikilink")出身\[3\]。本名 ちだ ゆきこ。
+**Miju**（みじゅ、[1976年](../Page/1976年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")\[1\] - ）は、日本の[歌手](../Page/歌手.md "wikilink")。[A型](../Page/ABO式血液型.md "wikilink")\[2\]。[東京都](../Page/東京都.md "wikilink")出身\[3\]。本名 ちだ ゆきこ。
 
 ## 来歴
 

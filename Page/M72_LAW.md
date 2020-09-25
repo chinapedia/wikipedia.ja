@@ -69,6 +69,6 @@ M72は[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")時代の兵
   - [Gary's U.S. Infantry Weapons Reference Guide](http://www.inetres.com/gp/military/infantry/antiarmor/M72.html)
   - [Nazarian\`s Gun\`s Recognition Guide](http://www.nazarian.no/wep.asp?id=409&group_id=24&country_id=186&lang=0)
   - [Article on the reintroduction of the LAW in Iraq by the USMC](http://www.defenseindustrydaily.com/2005/03/marines-fought-the-law-and-the-law-won/index.php)
-  - [Modern Firearms](http://world.guns.ru/grenade/gl12-e.htm)（英語）
+  - [Modern Firearms](http://world.guns.ru/grenade/gl12-e.htm)
 
 [Category:対戦車擲弾発射器](https://ja.wikipedia.org/wiki/Category:対戦車擲弾発射器 "wikilink") [Category:対戦車ロケット弾](https://ja.wikipedia.org/wiki/Category:対戦車ロケット弾 "wikilink")

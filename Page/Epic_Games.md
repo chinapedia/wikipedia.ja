@@ -5,7 +5,7 @@
 
 ## 概要
 
-Epic Gamesの前身は、1991年に[ティム・スウィーニーによってPotomac](https://ja.wikipedia.org/wiki/ティム・スウィーニー_\(ゲームクリエイター\) "wikilink") Computer Systemsとして設立した\[1\]。設立当初は、[メリーランド州](../Page/メリーランド州.md "wikilink")[ポトマックにある実家を拠点としていた](https://ja.wikipedia.org/wiki/ポトマック_\(メリーランド州\) "wikilink")。同年に最初の作品『』をリリース、1992年初頭にEpic MegaGames, Inc.へと改組し、ビジネスパートナーとして[マーク・レインを招き入れた](https://ja.wikipedia.org/wiki/マーク・レイン_\(ソフトウェアエグゼクティブ\) "wikilink")。1999年に本社をノースカロライナ州ケーリーに移し、社名をEpic Gamesへと簡略化した\[2\]。
+Epic Gamesの前身は、1991年に[ティム・スウィーニーによってPotomac](../Page/ティム・スウィーニー_\(ゲームクリエイター\).md "wikilink") Computer Systemsとして設立した\[1\]。設立当初は、[メリーランド州](../Page/メリーランド州.md "wikilink")[ポトマックにある実家を拠点としていた](https://ja.wikipedia.org/wiki/ポトマック_\(メリーランド州\) "wikilink")。同年に最初の作品『』をリリース、1992年初頭にEpic MegaGames, Inc.へと改組し、ビジネスパートナーとして[マーク・レインを招き入れた](../Page/マーク・レイン_\(ソフトウェアエグゼクティブ\).md "wikilink")。1999年に本社をノースカロライナ州ケーリーに移し、社名をEpic Gamesへと簡略化した\[2\]。
 
 Epic Gamesは、[ゲームエンジン](../Page/ゲームエンジン.md "wikilink")の「[Unreal Engine](../Page/Unreal_Engine.md "wikilink")」を開発している。このエンジンは『[フォートナイト](https://ja.wikipedia.org/wiki/フォートナイト_\(ゲーム\) "wikilink")』や『[Unreal](../Page/Unreal.md "wikilink")』『[Gears of War](../Page/Gears_of_War.md "wikilink")』『Infinity Blade』など自社で開発したコンピュータゲームにも採用している。商用利用も可能であり、2014年には[ギネス世界記録](../Page/ギネス世界記録.md "wikilink")によって「最も成功したゲームエンジン」に選ばれた\[3\]。
 
@@ -13,7 +13,7 @@ Epic Gamesは、[ゲームエンジン](../Page/ゲームエンジン.md "wikili
 
 ## 歴史
 
-  - [1991年](../Page/1991年.md "wikilink") - [ティム・スウィーニーによって](https://ja.wikipedia.org/wiki/ティム・スウィーニー_\(ゲームクリエイター\) "wikilink")[メリーランド州](../Page/メリーランド州.md "wikilink")[ロックビルに](https://ja.wikipedia.org/wiki/ロックビル_\(メリーランド州\) "wikilink")**Potomac Computer Systems**の名前の下創立された。同じ年に最初の製品である『ZZT』を発売した。会社は**Epic Mega Games**として知られるようになった。
+  - [1991年](../Page/1991年.md "wikilink") - [ティム・スウィーニーによって](../Page/ティム・スウィーニー_\(ゲームクリエイター\).md "wikilink")[メリーランド州](../Page/メリーランド州.md "wikilink")[ロックビルに](https://ja.wikipedia.org/wiki/ロックビル_\(メリーランド州\) "wikilink")**Potomac Computer Systems**の名前の下創立された。同じ年に最初の製品である『ZZT』を発売した。会社は**Epic Mega Games**として知られるようになった。
   - [1994年](../Page/1994年.md "wikilink")[6月](../Page/6月.md "wikilink") - 横スクロールアクションゲームである『Jazz Jackrabbit』が発売される。後に『Gears of War』を設計する[クリフ・ブレジンスキー](../Page/クリフ・ブレジンスキー.md "wikilink")が最初に手がけたゲームでもある。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink") - ストーリー物の[3D](../Page/3D.md "wikilink")[FPSである](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")『[Unreal](../Page/Unreal.md "wikilink")』を発売した。これはUnrealシリーズに拡大した。Epic Mega Gamesは基幹技術である[Unreal Engine](../Page/Unreal_Engine.md "wikilink")(アンリアルエンジン)のライセンス販売をし始め、他のゲーム開発会社の開発用ソフトウェアとして使用された。
   - [1999年](../Page/1999年.md "wikilink") - 社名を**Epic Games**に変更し、ロックビル本社を含むオフィスをローリーに移転した。
@@ -35,9 +35,9 @@ Epic Gamesは、[ゲームエンジン](../Page/ゲームエンジン.md "wikili
   - [2013年](../Page/2013年.md "wikilink") - マイクロソフトはEpicと共同で管理していた『Gears of War』のEpicが持つ版権を取得。
   - [2014年](../Page/2014年.md "wikilink") - [フォートナイトβテストが開始](https://ja.wikipedia.org/wiki/フォートナイト_\(ゲーム\) "wikilink")
   - [2017年](../Page/2017年.md "wikilink") - [フォートナイトを](https://ja.wikipedia.org/wiki/フォートナイト_\(ゲーム\) "wikilink")[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")、[Xbox One](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")、[PC](../Page/PC.md "wikilink")向けにリリース。
-  - [2018年](../Page/2018年.md "wikilink") - [フォートナイトを](https://ja.wikipedia.org/wiki/フォートナイト_\(ゲーム\) "wikilink")[iOS](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")、[Nintendo Switch](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")、[Android](../Page/Android.md "wikilink")(一部の機種)(ベータ版)にリリース。
+  - [2018年](../Page/2018年.md "wikilink") - [フォートナイトを](https://ja.wikipedia.org/wiki/フォートナイト_\(ゲーム\) "wikilink")[iOS](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")、[Nintendo Switch](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")、[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")(一部の機種)(ベータ版)にリリース。
   - [2018年](../Page/2018年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - デジタルゲームストア「[Epic Gamesストア](https://ja.wikipedia.org/wiki/Epic_Gamesストア "wikilink")」を開設
-  - [2019年](../Page/2019年.md "wikilink") - [BattleBreakersを](https://ja.wikipedia.org/wiki/BattleBreakers_（ゲーム） "wikilink")[iOS](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")、[Android](../Page/Android.md "wikilink")、[PC](../Page/PC.md "wikilink")向けにリリース。
+  - [2019年](../Page/2019年.md "wikilink") - [BattleBreakersを](https://ja.wikipedia.org/wiki/BattleBreakers_（ゲーム） "wikilink")[iOS](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")、[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")、[PC](../Page/PC.md "wikilink")向けにリリース。
   - [2020年](../Page/2020年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink") - Unreal Engine 5(アンリアルエンジン5)が[PlayStation 5のプレイ映像で発表](https://ja.wikipedia.org/wiki/PlayStation_5 "wikilink")。
   - [2020年](../Page/2002年.md "wikilink") - Unreal Engine 5(アンリアルエンジン5)が公開。
   - [2020年](../Page/2020年.md "wikilink")[8月](../Page/8月.md "wikilink") - [App Store](../Page/App_Store.md "wikilink")、[Google PlayからFortniteが削除](https://ja.wikipedia.org/wiki/Google_Play "wikilink")。削除を受けEpic Gamesは[Appleと](../Page/アップル_\(企業\).md "wikilink")[Google](../Page/Google.md "wikilink")を[訴訟](../Page/訴訟.md "wikilink")。詳しくは[AppleとGoogleへの訴訟](https://ja.wikipedia.org/wiki/Epic_Games#AppleとGoogleへの訴訟 "wikilink")\[6\]\[7\]
@@ -60,7 +60,7 @@ Epic Online Servicesは、『フォートナイト』で使用されたシステ
 
 ### AppleとGoogleへの訴訟
 
-[2020年](../Page/2020年.md "wikilink")[8月](../Page/8月.md "wikilink")にEpicは[Appleと](../Page/アップル_\(企業\).md "wikilink")[Google](../Page/Google.md "wikilink")に訴訟を起こした。この背景には、Epicがモバイル版『フォートナイト』で[App Storeや](../Page/App_Store.md "wikilink")[Google Playの手数料を迂回する独自の課金システム](https://ja.wikipedia.org/wiki/Google_Play "wikilink")「[Epic Direct Payment](https://ja.wikipedia.org/wiki/Epic_Direct_Payment "wikilink")」を実装\[11\]したことが挙げられる。Epicの発表を受けて、AppleとGoogleは『フォートナイト』を規約違反としてApp StoreとGoogle Playから削除した。『フォートナイト』の削除を受けて、Epicは両社に訴訟を起こした。Epicからの訴訟を受け、AppleはEpic GamesへApp Storeを利用するEpic Gamesの全開発者の[8月28日](../Page/8月28日.md "wikilink")以降のアカウント停止を通告。この通告に伴い、Unreal Engineを使用するiOS、Macのゲームのサポートの将来性に問題が浮上し、Epicはアメリカ連邦地方裁判所へ文書を送った\[12\]。 初審理では、「フォートナイトのApp storeの復帰は認めないが、Appleによる開発者アカウント停止は認めない」との判決が下った\[13\]。この影響により、Epic Gamesは、26日に行われる予定だったmacOS版がアップデートの対象外にすると発表した\[14\]。
+[2020年](../Page/2020年.md "wikilink")[8月](../Page/8月.md "wikilink")にEpicは[Appleと](../Page/アップル_\(企業\).md "wikilink")[Google](../Page/Google.md "wikilink")に訴訟を起こした。この背景には、Epicがモバイル版『フォートナイト』に[App Storeや](../Page/App_Store.md "wikilink")[Google Playが提示している](https://ja.wikipedia.org/wiki/Google_Play "wikilink")30%の手数料を「反競争的な拘束と独占的慣行を使用している」\[11\]としてそれらを迂回するための独自の課金システム「Epic Direct Payment」を実装\[12\]したことが挙げられる。Epicの発表を受けて、AppleとGoogleは『フォートナイト』を規約違反としてApp StoreとGoogle Playから削除した。『フォートナイト』の削除を受けて、Epicは両社に訴訟を起こした。
 
 ## 脚注
 
@@ -90,5 +90,3 @@ Epic Online Servicesは、『フォートナイト』で使用されたシステ
 10.
 11.
 12.
-13.
-14.

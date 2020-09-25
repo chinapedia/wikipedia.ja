@@ -1,17 +1,17 @@
 > この記事は[EVERYTHING \(アルバム\)](https://ja.wikipedia.org/wiki/EVERYTHING_\(アルバム\))から翻訳されています。
 
 
-『**EVERYTHING**』（エヴリシング）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の1枚目の[ミニ・アルバムである](../Page/コンパクト盤.md "wikilink")。[1992年](../Page/1992年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された。
+『**EVERYTHING**』（エヴリシング）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の1枚目の[ミニ・アルバム](../Page/コンパクト盤.md "wikilink")。[1992年](../Page/1992年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された。
 
 ## 概要
 
-[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")のメジャーデビュー作品。アートディレクターは[信藤三雄](../Page/信藤三雄.md "wikilink")。「[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")」と「[フルアルバム](https://ja.wikipedia.org/wiki/フルアルバム "wikilink")」は区別されることが多いが、Mr.Childrenは公式にミニアルバムである本作を1stアルバム、初のフルアルバム『[Kind of Love](../Page/Kind_of_Love.md "wikilink")』を2ndアルバムと位置付けている。
+[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")のメジャーデビュー作品。アートディレクターは[信藤三雄](../Page/信藤三雄.md "wikilink")。「[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")」と「[フルアルバム](https://ja.wikipedia.org/wiki/フルアルバム "wikilink")」は区別されることが多いがMr.Childrenは公式にミニアルバムである本作を1stアルバム、初のフルアルバム『[Kind of Love](../Page/Kind_of_Love.md "wikilink")』を2ndアルバムと位置付けている。
 
-[1991年](../Page/1991年.md "wikilink")の後半に[小林武史](../Page/小林武史.md "wikilink")と初対面し、同年12月からサウンドスカイ・スタジオとスターシップ・スタジオにてレコーディングを開始した。アルバムタイトル「**EVERYTHING**」は何より大切なものという意味で、桜井の「本作を聞いた人の大切な1枚になって欲しい」という想いが込められている。
+[1991年](../Page/1991年.md "wikilink")の後半に[小林武史](../Page/小林武史.md "wikilink")と初対面し、同年12月からサウンドスカイ・スタジオとスターシップ・スタジオにてレコーディングを開始。タイトル「**EVERYTHING**」は何より大切なものといった意味で、「本作を聞いた人の大切な1枚になって欲しい」という桜井の想いが込められている。
 
-全曲アマチュア時代からのライブレパートリーで、本作に収録するにあたり小林がストリングスなどのアレンジを加えたほか、彼のアドバイスによって桜井は歌詞を一部変更した。また予算の関係か、本作は生のストリングスは一切使われていない。当時は無名だったこともあり最高順位は25位とあまり高くなかったが、ブレイク後に売り上げを大きく伸ばし最終的には40万枚以上の売上を記録した。
+全曲アマチュア時代からのライブレパートリーで、本作へ収録するにあたり小林がストリングスなどのアレンジを加えた他アドバイスによって桜井は歌詞を一部変更した。また、予算の関係か本作は生のストリングスが一切使われていない。当時は無名だったこともあり最高順位は25位とあまり高くなかったが、ブレイク後に売り上げを大きく伸ばし最終的に40万枚以上の売上を記録した。
 
-本作発売後にメジャーデビュー後初のライブツアー『'92 EVERYTHING TOUR』を、その数ヵ月後に『'92 Your Everything Tour』を開催。両ツアーとも約半分の公演が[対バン](https://ja.wikipedia.org/wiki/対バン "wikilink")形式のライブで、このとき対バンした[the pillowsとは現在でも親交がある](https://ja.wikipedia.org/wiki/the_pillows "wikilink")。
+本作発売後にメジャーデビュー後初のライブツアー『'92 EVERYTHING TOUR』、その数ヵ月後に『'92 Your Everything Tour』を開催。両ツアーとも約半分の公演が[対バン](https://ja.wikipedia.org/wiki/対バン "wikilink")形式のライブで、当時対バンした[the pillowsとは現在でも親交がある](https://ja.wikipedia.org/wiki/the_pillows "wikilink")。
 
 初回プレス盤と通常盤ではレーベル面が異なり、初回プレス盤はクリアオレンジの塗装、通常盤はマットオレンジの塗装である。
 
@@ -23,25 +23,25 @@
 
 1.  **ロード・アイ・ミス・ユー** \[3:41\]
       -
-        『Mr.Children '95 Tour Atomic Heart』のアンコール以降演奏されていない楽曲。バンドサウンドを生かした曲を作りたいという思いから作られた曲である。
+        『Mr.Children '95 Tour Atomic Heart』のアンコール以降は演奏されていない。バンドサウンドを活かしたいという思いから作られた。
 2.  **Mr. Shining Moon** \[4:22\]
 3.  **[君がいた夏](../Page/君がいた夏_\(曲\).md "wikilink")** \[5:50\]
       -
-        後に1stシングルとして[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")。
+        後に1stシングルとして[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")された。
 4.  **風 〜The wind knows how I feel〜** \[3:16\]
       -
-        アマチュア時代のタイトルは「**風**」でサブタイトルがない。
-        後に『[ap bank fes '07](https://ja.wikipedia.org/wiki/ap_bank_fes_'07 "wikilink")』で、久しぶりに演奏された。
+        アマチュア時代のタイトルは「**風**」で、サブタイトルがない。
+        後に『[ap bank fes '07](https://ja.wikipedia.org/wiki/ap_bank_fes_'07 "wikilink")』において久々に演奏された。
 5.  **ためいきの日曜日** \[5:54\]
       -
-        桜井が風呂に入っている時にサビの構成が浮かび、そこから一気に書き上げた曲である。
+        桜井が風呂に入っている時にサビの構成が浮かび、そこから一気に書き上げられた曲。
 6.  **友達のままで** \[3:54\]
       -
-        アマチュア時代のタイトルは「**友達のまま**」。イントロの鍵盤ハーモニカは田原の演奏である。
+        アマチュア時代のタイトルは「**友達のまま**」。楽曲中の[鍵盤ハーモニカ](../Page/鍵盤ハーモニカ.md "wikilink")は[田原健一](../Page/田原健一.md "wikilink")によるもの。
 7.  **CHILDREN'S WORLD** \[5:06\]
       -
         アマチュア時代から存在する曲で、当時とは一部歌詞が異なる。
-        後に、『[Mr.Children Stadium Tour 2015 未完](https://ja.wikipedia.org/wiki/Mr.Children_Stadium_Tour_2015_未完 "wikilink")』で、『Mr.Children STADIUM TOUR -Hounen Mansaku- 夏祭り1995 空\[ku:\]』以来20年ぶりに演奏され、同時に初めてライブ映像として映像化された。
+        後に『[Mr.Children Stadium Tour 2015 未完](https://ja.wikipedia.org/wiki/Mr.Children_Stadium_Tour_2015_未完 "wikilink")』にて『Mr.Children STADIUM TOUR -Hounen Mansaku- 夏祭り1995 空\[ku:\]』以来20年ぶりに演奏され、同時に初めてライブ映像として映像化された。
 
 ## 参加ミュージシャン
 

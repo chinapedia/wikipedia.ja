@@ -7,7 +7,7 @@
 
   - シングルとしては9thシングル「[THUNDERBIRD](../Page/THUNDERBIRD_\(T.M.Revolutionの曲\).md "wikilink")」以来7年ぶりのバラード。タイトルは英語で「傷痕」の意。「傷は治ってもずっと痕が残るもの」であることから、人間の業について歌い上げる楽曲。累計売上は17.7万枚を記録し、2作連続でオリコン1位を獲得した\[1\]。
   - タイトル曲「vestige -ヴェスティージ-」は、『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』シリーズを総括する曲として、[MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS系アニメ](../Page/TBSテレビ.md "wikilink")『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』挿入歌に起用され、同番組の総集編『FINAL-PLUS 選ばれた<ruby><rb>未来</rb><rp>（</rp><rt>あした</rt><rp>）</rp></ruby>』やHDリマスター版ではオープニングテーマ（後者は第4期のみ）としても使用された。
-  - カップリング曲「crosswise」は、[カプコン](../Page/カプコン.md "wikilink")の[プレイステーション2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[戦国BASARA](../Page/戦国BASARA.md "wikilink")』『戦国BASARA X』主題歌に起用された。
+  - カップリング曲「crosswise」は、[カプコン](../Page/カプコン.md "wikilink")の[プレイステーション2用ゲームソフト](../Page/PlayStation_2.md "wikilink")『[戦国BASARA](../Page/戦国BASARA.md "wikilink")』『戦国BASARA X』主題歌に起用された。
   - ストーリー性を持つPVは、2006年のライブツアー『T.M.R.LIVE REVOLUTION'06 -UNDER:COVER-』の本編中に挿入された新規取り下ろしの映像『vestige -another story-』（DVD『T.M.Revolution T.M.R.LIVE REVOLUTION'06 -UNDER:COVER-』に収録）と連動している。PVに登場する建物は、[明治神宮外苑](../Page/明治神宮外苑.md "wikilink")[聖徳記念絵画館](../Page/聖徳記念絵画館.md "wikilink")である。
   - 初回特典のステッカーの他に期間特典として、リクエストセルフカバーベストアルバム『[UNDER:COVER](../Page/UNDER:COVER.md "wikilink")』への投票パスワード入りチラシが封入された。投票はホームページで行われ、4万件以上の参加があった。
 

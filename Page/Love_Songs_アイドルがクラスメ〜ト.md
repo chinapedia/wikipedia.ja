@@ -1,7 +1,7 @@
 > この記事は[Love Songs アイドルがクラスメ〜ト](https://ja.wikipedia.org/wiki/Love_Songs_アイドルがクラスメ〜ト)から翻訳されています。
 
 
-『**Love Songs アイドルがクラスメ〜ト**』（ラブソングス アイドルがクラスメート）は、[2001年](../Page/2001年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")に[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")が発売した[PlayStation 2用の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[恋愛シミュレーションゲーム](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。ゲーム内容は全く違いはないパッケージ違いの3バージョンを出したことで話題となった。[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")・[原画](../Page/原画.md "wikilink")は[きみづか葵](../Page/きみづか葵.md "wikilink")。
+『**Love Songs アイドルがクラスメ〜ト**』（ラブソングス アイドルがクラスメート）は、[2001年](../Page/2001年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")に[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")が発売した[PlayStation 2用の](../Page/PlayStation_2.md "wikilink")[恋愛シミュレーションゲーム](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。ゲーム内容は全く違いはないパッケージ違いの3バージョンを出したことで話題となった。[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")・[原画](../Page/原画.md "wikilink")は[きみづか葵](../Page/きみづか葵.md "wikilink")。
 
 [2003年](../Page/2003年.md "wikilink")[8月14日](../Page/8月14日.md "wikilink")には、[SIMPLE2000シリーズ Ultimateとして廉価版が発売された](../Page/SIMPLEシリーズ.md "wikilink")。この際には、同シリーズで発売された『[ラブ★スマッシュ\!](https://ja.wikipedia.org/wiki/ラブ★スマッシュ! "wikilink")』、『[ラブ★マージャン\!](https://ja.wikipedia.org/wiki/ラブ★マージャン! "wikilink")』、『[ラブ★アッパー\!](https://ja.wikipedia.org/wiki/ラブ★アッパー! "wikilink")』に合わせる形で『**ラブ★ソングス♪アイドルがクラスメ〜ト**』というタイトル表記となっている。
 

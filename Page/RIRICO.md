@@ -3,7 +3,7 @@
 
 **RIRICO**（りりこ、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[5月6日](../Page/5月6日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")。**RIRIKO**として出演している作品もある。
 
-[東京都](../Page/東京都.md "wikilink")出身。[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：A型、身長：163cm 、[スリーサイズ](../Page/スリーサイズ.md "wikilink")：B93・W60・H90 、Gカップ。
+[東京都](../Page/東京都.md "wikilink")出身。[血液型](../Page/ABO式血液型.md "wikilink")：A型、身長：163cm 、[スリーサイズ](../Page/スリーサイズ.md "wikilink")：B93・W60・H90 、Gカップ。
 
 ## 略歴
 

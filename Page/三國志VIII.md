@@ -11,7 +11,7 @@
 
 ### 武将
 
-武将数は551人、[パワーアップキット](../Page/パワーアップキット.md "wikilink")（以下、PK）版及び[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（以下、PS2）や[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")（以下、PSP）各版では611人\[1\]。
+武将数は551人、[パワーアップキット](../Page/パワーアップキット.md "wikilink")（以下、PK）版及び[PlayStation 2](../Page/PlayStation_2.md "wikilink")（以下、PS2）や[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")（以下、PSP）各版では611人\[1\]。
 
 ### 身分
 

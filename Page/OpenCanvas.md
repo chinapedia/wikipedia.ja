@@ -73,12 +73,16 @@ openCanvas 5.5からは[Valve Corporationが運営する](../Page/Valve_Corporat
 
 openCanvas 6 LITEは2014年11月に期間限定で無償配布されていたエディション。ベースはopenCanvas 6 32bitをいくつか機能制限したもので、使用期限は無く試用版とは異なる。初回の起動時のみ表示されるアンケートに答える仕様となっていたり、製品へのアップグレード版を購入することができる。2017年11月時点でもアップデートは続けられている\[16\]。
 
+## ガイドブック
+
+  - 『openCanvas イラストメイキングガイド』（[晋遊舎](../Page/晋遊舎.md "wikilink")、2014年11月17日発売）ISBN 978-4-8018-0106-6
+
 ## 関連項目
 
   - [CGillust](../Page/CGillust.md "wikilink") - openCanvasのOEM版
   - [コミラボ](https://ja.wikipedia.org/wiki/コミラボ "wikilink") - 姉妹製品（mdiappのOEM版）
   - [mdiapp](https://ja.wikipedia.org/wiki/mdiapp "wikilink")
-  - [FireAlpaca](https://ja.wikipedia.org/wiki/FireAlpaca "wikilink")
+  - [FireAlpaca](https://ja.wikipedia.org/wiki/FireAlpaca "wikilink") - openCanvasと同じ開発元のフリーペイントツール。
   - [ComicWorks](../Page/ComicWorks.md "wikilink") - openCanvasを基に開発された漫画制作ソフト。NEO版以降では[インターフェイス](https://ja.wikipedia.org/wiki/インターフェイス "wikilink")をmdiapp+と同じになる。
 
 ## 脚注

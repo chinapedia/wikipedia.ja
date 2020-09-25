@@ -54,6 +54,7 @@
 | 2017-18 | 1.HNL                                                     | 36                                                                    | 14                                                     |
 | 2018-19 | 1.HNL                                                     | 36                                                                    | 18                                                     |
 | 2019-20 | 1.HNL                                                     | 36                                                                    | 17                                                     |
+| 2020-21 | 1.HNL                                                     | 36                                                                    |                                                        |
 
 ## 欧州の成績
 
@@ -261,6 +262,16 @@
 <td><p>'''1-1<br />
 (3-4 <a href="../Page/PK戦.md" title="wikilink">p</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+</tr>
+<tr class="even">
+<td><p>rowspan="" | 2020-21</p></td>
+<td><p>rowspan="" align=left | <a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2020-21" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
+<td><p>予選2回戦</p></td>
+<td><p><a href="../Page/FCバーゼル.md" title="wikilink">バーゼル</a></p></td>
+<td></td>
+<td><p>style="background-color:#CFF" align="center" </p></td>
+<td><p>style="background-color:#CFF" align="center" </p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

@@ -7,7 +7,7 @@
 
 ## 概要
 
-今までの君主を操作する君主プレイから武将一人一人を操作する武将プレイに変わった。そのため、いずれかの勢力が統一すると終了となり、[ゲームオーバー](../Page/ゲームオーバー.md "wikilink")条件は担当武将が死亡したときに血縁武将が存在せず後継できる武将がいないときとなった。武将の身分は、[君主](../Page/君主.md "wikilink")、[太守](../Page/太守.md "wikilink")、[軍師](../Page/軍師.md "wikilink")、一般、[在野](../Page/在野.md "wikilink")の5つである。[主人公](../Page/主人公.md "wikilink")に選べる登場人物は520人。[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[PlayStation Portable版ではさらに](../Page/PlayStation_Portable.md "wikilink")18人追加されている。また、この他にも自分で作った新武将を登場させることができる。
+今までの君主を操作する君主プレイから武将一人一人を操作する武将プレイに変わった。そのため、いずれかの勢力が統一すると終了となり、[ゲームオーバー](../Page/ゲームオーバー.md "wikilink")条件は担当武将が死亡したときに血縁武将が存在せず後継できる武将がいないときとなった。武将の身分は、[君主](../Page/君主.md "wikilink")、[太守](../Page/太守.md "wikilink")、[軍師](../Page/軍師.md "wikilink")、一般、[在野](../Page/在野.md "wikilink")の5つである。[主人公](../Page/主人公.md "wikilink")に選べる登場人物は520人。[PlayStation 2](../Page/PlayStation_2.md "wikilink")、[PlayStation Portable版ではさらに](../Page/PlayStation_Portable.md "wikilink")18人追加されている。また、この他にも自分で作った新武将を登場させることができる。
 
 シナリオは全部で7個あり、有料ダウンロードサービスを利用することでWindows版ではさらに2つのシナリオを選択できるようになった。また、PlayStation 2版以降では上記の追加シナリオに加え、[黄巾の乱](../Page/黄巾の乱.md "wikilink")シナリオもプレイできるようになった。
 

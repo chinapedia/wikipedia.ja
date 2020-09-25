@@ -65,7 +65,7 @@
       -
         作詞：松原憲、作曲：[LISA](../Page/LISA_\(歌手\).md "wikilink")、編曲：LISA・Ryuichiro Yamaki
     <!-- end list -->
-      - [SONY](../Page/ソニー.md "wikilink")・[プレイステーション2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")「[クリムゾンティアーズ](../Page/クリムゾンティアーズ.md "wikilink")」EDテーマ。
+      - [SONY](../Page/ソニー.md "wikilink")・[プレイステーション2用ゲームソフト](../Page/PlayStation_2.md "wikilink")「[クリムゾンティアーズ](../Page/クリムゾンティアーズ.md "wikilink")」EDテーマ。
 12. **[COME WITH ME](../Page/COME_WITH_ME.md "wikilink")**
       -
         作詞：倖田來未、作曲・編曲：h-wonder

@@ -17,7 +17,7 @@
 
 2008年11月、「[ゲットアンプド2](https://ja.wikipedia.org/wiki/ゲットアンプド2 "wikilink")」正式サービス開始。
 
-2018年12月21日、[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")・[Android](../Page/Android.md "wikilink")・[Nintendo Switch向けに](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")「ゲットアンプドモバイル」を配信開始。2019年8月29日サービス終了。
+2018年12月21日、[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")・[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")・[Nintendo Switch向けに](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")「ゲットアンプドモバイル」を配信開始。2019年8月29日サービス終了。
 
 ## オリジナルスキンエディットシステム
 

@@ -1,7 +1,7 @@
 > この記事は[シャドウハーツII](https://ja.wikipedia.org/wiki/シャドウハーツII)から翻訳されています。
 
 
-『**シャドウハーツII**』（SHADOW HEARTS II）は、[2004年](../Page/2004年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")に[アルゼから発売された](../Page/ユニバーサルエンターテインメント.md "wikilink")[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。
+『**シャドウハーツII**』（SHADOW HEARTS II）は、[2004年](../Page/2004年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")に[アルゼから発売された](../Page/ユニバーサルエンターテインメント.md "wikilink")[PlayStation 2用](../Page/PlayStation_2.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。
 
 ## 概要
 

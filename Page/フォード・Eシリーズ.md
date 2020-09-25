@@ -9,7 +9,7 @@
 
 ## 1961 - 1967
 
-[1st-Ford-Econoline.jpg](https://ja.wikipedia.org/wiki/File:1st-Ford-Econoline.jpg "fig:1st-Ford-Econoline.jpg") 初代モデル。小型車である[フォード・ファルコン](https://ja.wikipedia.org/wiki/:en:Ford_Falcon "wikilink")。[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")に登場した[シボレー・コルベア](https://ja.wikipedia.org/wiki/シボレー・コルベア "wikilink")・サポートバンと[フォルクスワーゲン・タイプ2](../Page/フォルクスワーゲン・タイプ2.md "wikilink")と競合していた。
+[1st-Ford-Econoline.jpg](https://ja.wikipedia.org/wiki/File:1st-Ford-Econoline.jpg "fig:1st-Ford-Econoline.jpg") 初代モデル。ベースは小型車である[フォード・ファルコン](https://ja.wikipedia.org/wiki/:en:Ford_Falcon "wikilink")。[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")に登場した[シボレー・コルベア](https://ja.wikipedia.org/wiki/シボレー・コルベア "wikilink")・サポートバンと[フォルクスワーゲン・タイプ2](../Page/フォルクスワーゲン・タイプ2.md "wikilink")と競合していた。
 
 エンジンがフロントシート直下に搭載され、前車軸が運転席直下に配置される[フルキャブオーバー方式となっていた](../Page/キャブオーバー.md "wikilink")。
 

@@ -1,7 +1,7 @@
 > この記事は[Anchang](https://ja.wikipedia.org/wiki/Anchang)から翻訳されています。
 
 
-**ANCHANG**（あんちゃん、本名：**安藤 弘司** - あんどう こうじ、[1970年](../Page/1970年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink") - ）は、[愛媛県](../Page/愛媛県.md "wikilink")[新居浜市](../Page/新居浜市.md "wikilink")出身の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[身長](../Page/身長.md "wikilink")は174cm（BIG BITES公式サイトより）。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[第一工業大学](../Page/第一工業大学.md "wikilink")[工学部](../Page/工学部.md "wikilink")卒業。[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、**[SEX MACHINEGUNS](../Page/SEX_MACHINEGUNS.md "wikilink")**のリーダー。[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")と[ギターを担当し](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")、ほとんどの[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")を手掛ける。
+**ANCHANG**（あんちゃん、本名：**安藤 弘司** - あんどう こうじ、[1970年](../Page/1970年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink") - ）は、[愛媛県](../Page/愛媛県.md "wikilink")[新居浜市](../Page/新居浜市.md "wikilink")出身の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[身長](../Page/身長.md "wikilink")は174cm（BIG BITES公式サイトより）。[血液型は](../Page/ABO式血液型.md "wikilink")[A型](../Page/ABO式血液型.md "wikilink")。[第一工業大学](../Page/第一工業大学.md "wikilink")[工学部](../Page/工学部.md "wikilink")卒業。[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、**[SEX MACHINEGUNS](../Page/SEX_MACHINEGUNS.md "wikilink")**のリーダー。[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")と[ギターを担当し](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")、ほとんどの[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")を手掛ける。
 
 ## 人物
 

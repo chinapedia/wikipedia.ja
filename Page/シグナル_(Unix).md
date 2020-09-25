@@ -215,7 +215,7 @@ DFは、シグナル受信時のデフォルト動作を示しており、以下
 </tr>
 <tr class="odd">
 <td><p>SIGTRAP*</p></td>
-<td><p>トレース/<a href="https://ja.wikipedia.org/wiki/ブレークポイント" title="wikilink">ブレークポイント</a>による</p></td>
+<td><p>トレース/<a href="https://ja.wikipedia.org/wiki/ブレークポイント" title="wikilink">ブレークポイント</a>による<a href="../Page/トラップ_(コンピュータ).md" title="wikilink">トラップ</a></p></td>
 <td><p>A</p></td>
 <td><p>何らかのデバッグ機能で使用される（アーキテクチャによって異なる）。</p></td>
 <td><p>5</p></td>

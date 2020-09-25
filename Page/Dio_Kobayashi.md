@@ -1,7 +1,7 @@
 > この記事は[Dio Kobayashi](https://ja.wikipedia.org/wiki/Dio_Kobayashi)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Dior21.jpg "wikilink")**Dio**（ディオ、海外名 Dio Kobayashi、[1972年](../Page/1972年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink") - ）は、[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")[羽咋郡](../Page/羽咋郡.md "wikilink")[志賀町](../Page/志賀町.md "wikilink")出身の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[サーカス](../Page/サーカス.md "wikilink")プレーヤー。ウェップジャパン所属。身長172cm、体重68kg。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。サーカスを中心に[映画](../Page/映画.md "wikilink")、[テレビドラマ](../Page/テレビドラマ.md "wikilink")、[舞台](../Page/舞台.md "wikilink")、[テレビコマーシャル](https://ja.wikipedia.org/wiki/テレビコマーシャル "wikilink")と幅広く活躍している。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Dior21.jpg "wikilink")**Dio**（ディオ、海外名 Dio Kobayashi、[1972年](../Page/1972年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink") - ）は、[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")[羽咋郡](../Page/羽咋郡.md "wikilink")[志賀町](../Page/志賀町.md "wikilink")出身の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[サーカス](../Page/サーカス.md "wikilink")プレーヤー。ウェップジャパン所属。身長172cm、体重68kg。[血液型はA型](../Page/ABO式血液型.md "wikilink")。サーカスを中心に[映画](../Page/映画.md "wikilink")、[テレビドラマ](../Page/テレビドラマ.md "wikilink")、[舞台](../Page/舞台.md "wikilink")、[テレビコマーシャル](https://ja.wikipedia.org/wiki/テレビコマーシャル "wikilink")と幅広く活躍している。
 
 Dio はデビュー時のキャラクター名が定着した呼び名。海外ではDio.Kobayashiの名で活動。本名は**小林 睦史**（コバヤシ アツシ）。この他にも、ピエロジョーカー、乙羽起之介(オトワキノスケ)、Kinosukeなどのキャラクター名でも活動。[Ramu](https://ja.wikipedia.org/wiki/Ramu "wikilink")は長女（元妻との実子）。元妻はモデルの[Yu-Ko](https://ja.wikipedia.org/wiki/Yu-Ko "wikilink")。
 

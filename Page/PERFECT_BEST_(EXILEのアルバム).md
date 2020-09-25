@@ -15,7 +15,7 @@
 
 初回盤特典として『PERFECT BEST』はスリーブケース＋カラーケース仕様。『SINGLE BEST』『SELECT BEST』は特殊ジャケット仕様。
 
-本作は通算2作目のミリオンセラーとなった\[2\]。累計売上は160万枚を超えており\[3\]、グループの作品の中では『[EXILE BALLAD BEST](../Page/EXILE_BALLAD_BEST.md "wikilink")』に次いで2番目の売上を記録。
+本作は通算2作目のミリオンセラー作品となった\[2\]。累計売上は160万枚を超えており\[3\]、グループの作品の中では『[EXILE BALLAD BEST](../Page/EXILE_BALLAD_BEST.md "wikilink")』に次いで2番目の売上を記録。
 
 ## 収録曲
 

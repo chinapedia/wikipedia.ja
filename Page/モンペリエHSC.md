@@ -223,7 +223,7 @@
 </tr>
 <tr class="odd">
 <td><p>決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オリンピック・リヨン" title="wikilink">リヨン</a></p></td>
+<td><p><a href="../Page/オリンピック・リヨン.md" title="wikilink">リヨン</a></p></td>
 <td><p>0-1</p></td>
 <td><p>2-3</p></td>
 <td><p>'''2-4</p></td>
@@ -474,7 +474,7 @@
 
   - [フォデ・マンサレ](https://ja.wikipedia.org/wiki/フォデ・マンサレ "wikilink") 2003-2005
 
-  - [スレイマン・カマラ](https://ja.wikipedia.org/wiki/スレイマン・カマラ "wikilink") 2007-
+  - [スレイマン・カマラ](https://ja.wikipedia.org/wiki/スレイマン・カマラ "wikilink") 2007-2020
 
   - [オリヴィエ・ジルー](https://ja.wikipedia.org/wiki/オリヴィエ・ジルー "wikilink") 2010-2012
 

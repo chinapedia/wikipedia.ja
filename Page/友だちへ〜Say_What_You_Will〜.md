@@ -39,7 +39,7 @@
 
 ## 外部リンク
 
-  - [友だちへ〜Say What You Will〜 - Victor Entertainment](http://www.jvcmusic.co.jp/-/Discography/A002763/VICL-35787.html)
+  - [友だちへ〜Say What You Will〜 - Victor Entertainment](https://www.jvcmusic.co.jp/-/Discography/A002763/VICL-35787.html)
 
 [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:SMAPの楽曲](https://ja.wikipedia.org/wiki/Category:SMAPの楽曲 "wikilink") [Category:エリック・クラプトンの楽曲](https://ja.wikipedia.org/wiki/Category:エリック・クラプトンの楽曲 "wikilink") [Category:エリック・クラプトンが作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:エリック・クラプトンが作詞作曲した楽曲 "wikilink") [Category:竹内まりやが制作した楽曲](https://ja.wikipedia.org/wiki/Category:竹内まりやが制作した楽曲 "wikilink") [Category:2005年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2005年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:友達を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:友達を題材とした楽曲 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")
 

@@ -192,7 +192,7 @@ BMG JAPANから移籍</p></td>
 <td><p>2014年10月に<a href="https://ja.wikipedia.org/wiki/OORONG_RECORDS" title="wikilink">OORONG RECORDSから移籍</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/藤原さくら_(シンガーソングライター)" title="wikilink">藤原さくら</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/藤原さくら" title="wikilink">藤原さくら</a></p></td>
 <td><p>ふじわらさくら</p></td>
 <td><p>2015年〜</p></td>
 <td></td>
@@ -1469,5 +1469,5 @@ VIZL-117</p></td>
 [Category:ビクターエンタテインメント](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメント "wikilink") [Category:日本のレコード・レーベル](https://ja.wikipedia.org/wiki/Category:日本のレコード・レーベル "wikilink") [Category:ロック・レーベル](https://ja.wikipedia.org/wiki/Category:ロック・レーベル "wikilink") [Category:1992年設立](https://ja.wikipedia.org/wiki/Category:1992年設立 "wikilink")
 
 1.  [ロックレーベルの名門「スピードスター」が15周年 創始者が明かす、その原点と次への野望](http://trendy.nikkeibp.co.jp/article/column/20071029/1003941/?ST=trnmobile) 日経トレンディネット 2015年11月17日閲覧
-2.  [SPEEDSTAR RECORDSレーベル長、小野朗氏インタビュー「メジャーレーベルとして、タコツボの臨界を超えていく」](http://realsound.jp/2016/04/post-7155_entry.html) リアルサウンド 2016年4月17日配信 2016年4月18日閲覧。 っr
+2.  [SPEEDSTAR RECORDSレーベル長、小野朗氏インタビュー「メジャーレーベルとして、タコツボの臨界を超えていく」](http://realsound.jp/2016/04/post-7155_entry.html) リアルサウンド 2016年4月17日配信 2016年4月18日閲覧。
 3.  『ヘドバン』Vol.2（[シンコーミュージック・エンタテイメント](../Page/シンコーミュージック・エンタテイメント.md "wikilink") 2013年12月10日発行） 103p

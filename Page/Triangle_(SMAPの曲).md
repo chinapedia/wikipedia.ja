@@ -54,7 +54,7 @@ SMAPの曲では、「[オリジナルスマイル](https://ja.wikipedia.org/wik
 
 ## 外部リンク
 
-  - [Triangle - Victor Entertainment](http://www.jvcmusic.co.jp/-/Discography/A002763/VICL-36333.html)
+  - [Triangle - Victor Entertainment](https://www.jvcmusic.co.jp/-/Discography/A002763/VICL-36333.html)
 
 [Category:SMAPの楽曲](https://ja.wikipedia.org/wiki/Category:SMAPの楽曲 "wikilink") [Category:市川喜康が制作した楽曲](https://ja.wikipedia.org/wiki/Category:市川喜康が制作した楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:2005年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2005年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:平和を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:平和を題材とした楽曲 "wikilink") [Category:反戦歌](https://ja.wikipedia.org/wiki/Category:反戦歌 "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:24時間テレビ](https://ja.wikipedia.org/wiki/Category:24時間テレビ "wikilink") [Category:テレビ朝日の主題歌](https://ja.wikipedia.org/wiki/Category:テレビ朝日の主題歌 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")
 

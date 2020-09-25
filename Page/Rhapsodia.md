@@ -1,7 +1,7 @@
 > この記事は[Rhapsodia](https://ja.wikipedia.org/wiki/Rhapsodia)から翻訳されています。
 
 
-『**Rhapsodia**』（ラプソディア）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")より[2005年](../Page/2005年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")に発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションRPG "wikilink")作品である。『[幻想水滸伝IV](../Page/幻想水滸伝IV.md "wikilink")』の外伝作目である。英語版表記は「Suikoden Tactics」。なお、「Rhapsodia」とは「Rhapsode（ラプソード）」（語る人）の造語\[1\]\[2\]。
+『**Rhapsodia**』（ラプソディア）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")より[2005年](../Page/2005年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")に発売された[PlayStation 2用](../Page/PlayStation_2.md "wikilink")[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションRPG "wikilink")作品である。『[幻想水滸伝IV](../Page/幻想水滸伝IV.md "wikilink")』の外伝作目である。英語版表記は「Suikoden Tactics」。なお、「Rhapsodia」とは「Rhapsode（ラプソード）」（語る人）の造語\[1\]\[2\]。
 
 ## 概要
 
@@ -24,7 +24,7 @@
 ### 主要人物
 
   - キリル
-    [声](../Page/声優.md "wikilink") - [朴璐美](https://ja.wikipedia.org/wiki/朴璐美 "wikilink")
+    [声](../Page/声優.md "wikilink") - [朴璐美](../Page/朴璐美.md "wikilink")
     幼少の頃から父・ウォルターとともに旅をしており、その道程で群島諸国を訪れた。太陽暦291年生まれ（18歳）。父の死を目の当たりし、二度と同じ犠牲者を出さないよう紋章砲を破壊するための旅を続ける。だが、その悲劇は深い心の傷となって成長した後も長く引きずることになる。が、物語終盤、コルセリアを守るために魚人化した彼女の父マルティンを斬ったのを契機に克服する。母･ヨーンの影響か、不老長寿である。ダブルブレードと呼ばれる特殊な武器と、燕（ツバクロ）の紋章という特殊な固有紋章を持つ。
   - ウォルター
     声 - [川田紳司](../Page/川田紳司.md "wikilink")

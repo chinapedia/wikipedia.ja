@@ -6,38 +6,21 @@ NANAの登場人物（ナナのとうじょうじんぶつ）では、[矢沢あ
 ## 主人公
 
   - 大崎 ナナ（おおさき ナナ）
-    アニメでの[声優](../Page/声優.md "wikilink")：[朴璐美](https://ja.wikipedia.org/wiki/朴璐美 "wikilink")/アニメでの歌唱役：[土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")/PS2ゲームでの声優：[皆川純子](../Page/皆川純子.md "wikilink")/映画1・2：[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")
-
+    アニメでの[声優](../Page/声優.md "wikilink")：[朴璐美](../Page/朴璐美.md "wikilink")/アニメでの歌唱役：[土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")/PS2ゲームでの声優：[皆川純子](../Page/皆川純子.md "wikilink")/映画1・2：[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")
     [1981年](../Page/1981年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")生まれ。コミック1巻第2話では18歳。2巻から20巻まで20歳。21巻で21歳を迎えた（現在）。[身長](../Page/身長.md "wikilink")：162cm。[体重](../Page/体重.md "wikilink")：43kg。[星座](../Page/星座.md "wikilink")：[魚座](https://ja.wikipedia.org/wiki/魚座 "wikilink")。[血液型](../Page/血液型.md "wikilink")：A型。
-
     本作の[主人公](../Page/主人公.md "wikilink")。[バンド](https://ja.wikipedia.org/wiki/バンド "wikilink")**BLACK STONES**（ブラックストーンズ、ブラスト）のメイン[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカル "wikilink")。二の[腕](../Page/腕.md "wikilink")に「[蓮](../Page/蓮.md "wikilink")（レン）の[タトゥー](https://ja.wikipedia.org/wiki/入れ墨 "wikilink")」を持つ。[セブンスター](../Page/セブンスター.md "wikilink")を愛煙。[2001年](../Page/2001年.md "wikilink")3月5日、20歳の誕生日に、小松奈々（通称ハチ）と[上京](../Page/上京.md "wikilink")する[新幹線](../Page/新幹線.md "wikilink")の中で偶然知り合い、その後ひょんなことから[ルームメイト](https://ja.wikipedia.org/wiki/ルームメイト "wikilink")になる。
-
     [母親](../Page/母親.md "wikilink")はナナが4歳の時に蒸発し、[父親](../Page/父親.md "wikilink")に至っては全く知らない。育ててくれた祖母・美雪も、ナナが[高校](https://ja.wikipedia.org/wiki/高校 "wikilink")を[退学](../Page/退学.md "wikilink")して間もない15歳の時に[死去](https://ja.wikipedia.org/wiki/死去 "wikilink")しており、天涯孤独である。その後、ノブの紹介で本城蓮と出会い、[同棲](../Page/同棲.md "wikilink")し始める。しかし、蓮がトラネスに引き抜かれて上京する時、同行せず一旦[破局](https://ja.wikipedia.org/wiki/破局 "wikilink")する（1巻）。上京した後に復縁するがあるトラブルから喧嘩になり一方的に別れ、それが最後の言葉となってしまった。
-
     性格は男勝りで、レンの影響からか言葉遣いは荒く、キレやすい。思い込みの激しいハチの[ツッコミ](https://ja.wikipedia.org/wiki/ツッコミ "wikilink")役的存在である。その一方、ヤスには依存しきったような所がある。[異性愛](../Page/異性愛.md "wikilink")者であるが、気軽に同性と[キス](../Page/キス.md "wikilink")をする。
-
     母親に置き去りにされた[心的外傷](../Page/心的外傷.md "wikilink")からか、所有欲が強い。レンが恋人である自分より仕事を優先することなど周囲が自分の思い通りにふるまってくれないことで生じた心労から[過呼吸](../Page/過呼吸.md "wikilink")を発症（11巻）してしまう。
-
     ブラストのボーカルとしてデビューするも、シンの[不祥事](../Page/不祥事.md "wikilink")で活動休止に追い込まれたために、金本に提案されてソロデビューを決意した（18巻）。
-
     数年後、何らかの理由により[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の生活を捨て、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で暮らしていることが発覚。[バーなどで歌を歌っている姿が倉田に目撃されている](../Page/バー_\(酒場\).md "wikilink")（16-17巻）。
-
   - 一ノ瀬 奈々（いちのせ なな）
-
-    <hr/>
-
     アニメでの声優：[KAORI](../Page/KAORI..md "wikilink")/PS2ゲームでの声優：[宍戸留美](../Page/宍戸留美.md "wikilink")/映画1：[宮﨑あおい](https://ja.wikipedia.org/wiki/宮﨑あおい "wikilink")/映画2：[市川由衣](https://ja.wikipedia.org/wiki/市川由衣 "wikilink")
-
     [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[11月30日](../Page/11月30日.md "wikilink")生まれ。[旧姓](https://ja.wikipedia.org/wiki/旧姓 "wikilink")は小松（こまつ）。16巻で21歳を迎えた。コミック1巻第1話では18歳（高校3年生）、2巻から16巻まで20歳。身長：158cm、体重：46kg。星座：[射手座](https://ja.wikipedia.org/wiki/射手座 "wikilink")。血液型：B型。
-
     本作におけるもうひとりの主人公。共同生活初日にナナから「妙になつっこくて従順なんだけどすっげぇ世話がかかる[犬](https://ja.wikipedia.org/wiki/犬 "wikilink")みたい」という発言からハチと呼ばれ始め（2巻）、以来ナナと区別するためにブラストのメンバーやレンなどからはハチ、もしくはハチ子と呼ばれることが当たり前のようになる。
-
     ナナとは違い、一般家庭のもと、3人姉妹の次女で県内の普通レベルの女子高卒と、至って普通な生い立ちである。性格はナナとは対照的に、呑気で天真爛漫。不器用な所もあるがちゃっかりしており、わがままな一面がある。一目惚れが多い。男性遍歴としては、高校時代に既婚の男性（浅野）と[不倫](https://ja.wikipedia.org/wiki/不倫 "wikilink")\[1\]。その後、デザインの[専門学校](../Page/専門学校.md "wikilink")で出会った章司と付き合い始め、東京都内の[美術大学](https://ja.wikipedia.org/wiki/美術大学 "wikilink")に入学した章司を追って上京。
-
     [ファンクラブ](../Page/ファンクラブ.md "wikilink")の[会員](https://ja.wikipedia.org/wiki/会員 "wikilink")になっているほどトラネスが好きで、特にタクミのファン。
-
     上京して間もない頃に、ノブの作った曲にナナがデタラメな[英語](../Page/英語.md "wikilink")を乗せて歌ったのを聞き、ブラストの東京ファン（自称）第1号となる（2巻-3巻）。浮気した章司と別れた後、ナナとレンの仲介で知り合ったトラネスのメンバー・タクミと関係を持つ。そんな中、ブラストのメンバー・ノブに対する自分の想いに気付き、タクミに別れを告げ（ることができたと本人は思っていた）、晴れてノブと付き合う事になるが、[妊娠](../Page/妊娠.md "wikilink")している事が発覚してしまう。その事実をタクミから知らされたノブは、タクミとの付き合いが続いていたのではないかと奈々を非難。ノブを愛していながらも、結局は自分を理解して優しくしてくれたタクミを選び、ノブとは別れる事となる。諸事情でタクミとは[白金の](../Page/白金_\(東京都港区\).md "wikilink")[家賃](../Page/家賃.md "wikilink")70万円の[マンション](https://ja.wikipedia.org/wiki/マンション "wikilink")に同棲しながらも[結婚](../Page/結婚.md "wikilink")出来ない日々が続いたが、[2001年](../Page/2001年.md "wikilink")11月13日に入籍。晴れて一ノ瀬奈々となる。
-
     ナナと奈々がしている[ダイヤのついた婚約](../Page/ダイヤモンド.md "wikilink")[指輪](https://ja.wikipedia.org/wiki/指輪 "wikilink")は同じモデルの指輪である。タクミが奈々に贈った物を、蓮がタクミから聞き出し、ナナに渡した。
 
 ## BLACK STONES

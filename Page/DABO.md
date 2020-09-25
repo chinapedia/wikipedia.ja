@@ -1040,7 +1040,7 @@
 ## その他
 
   - [麻波25](https://ja.wikipedia.org/wiki/麻波25 "wikilink")「ADVANCED PLAYER」（2000年4月19日） - CDジャケットのイラストデザインを担当。
-  - 「Def Jam VENDETTA」（[エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink")、2003年8月21日） - [PlayStation 2用の格闘ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。日本版にてS-WORDと共にキャラクターとして登場。
+  - 「Def Jam VENDETTA」（[エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink")、2003年8月21日） - [PlayStation 2用の格闘ゲームソフト](../Page/PlayStation_2.md "wikilink")。日本版にてS-WORDと共にキャラクターとして登場。
   - 「札と月」（[トランスワールドジャパン](../Page/トランスワールドジャパン.md "wikilink")、2009年11月24日） - DABOによる初の著書。
 
 ## 脚注

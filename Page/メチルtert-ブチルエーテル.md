@@ -18,7 +18,7 @@
 
 ## 地下水汚染問題
 
-米国では[地下水](../Page/地下水.md "wikilink")を[飲用に供している](../Page/飲料水.md "wikilink")[町](../Page/町.md "wikilink")がある。これまでもガソリンスタンドの老朽化した地下ガソリンタンクからガソリンは漏洩していたが、ガソリンは水と混ざらないので地下[細菌](../Page/細菌.md "wikilink")によって[分解](../Page/分解.md "wikilink")されていた。しかし MTBE や[アルコール](https://ja.wikipedia.org/wiki/アルコール "wikilink")は[水和](https://ja.wikipedia.org/wiki/水和 "wikilink")性のため、漏洩した MTBE が地下水に混入し、飲用不適になってしまう問題が起こった。[エタノール](https://ja.wikipedia.org/wiki/エタノール "wikilink")はガソリン分解細菌の[活性を低下させるという意見もあったが](../Page/活性化.md "wikilink")、過剰に摂取しない限り人体無害なので、米国では MTBE の禁止とともに[バイオエタノール](https://ja.wikipedia.org/wiki/バイオエタノール "wikilink")の需要が激増した。なお、老朽化した地下タンクを使い、周辺の地下水を飲用に使う場合、[メタノール](../Page/メタノール.md "wikilink")でも MTBE と同様の問題は発生しうる。 \[1\] \[2\]
+米国では[地下水](../Page/地下水.md "wikilink")を[飲用に供している](../Page/飲料水.md "wikilink")[町](../Page/町.md "wikilink")がある。これまでもガソリンスタンドの老朽化した地下ガソリンタンクからガソリンは漏洩していたが、ガソリンは水と混ざらないので地下[細菌](../Page/細菌.md "wikilink")によって[分解](../Page/分解.md "wikilink")されていた。しかし MTBE や[アルコール](https://ja.wikipedia.org/wiki/アルコール "wikilink")は[水和](https://ja.wikipedia.org/wiki/水和 "wikilink")性のため、漏洩した MTBE が地下水に混入し、飲用不適になってしまう問題が起こった。[エタノール](../Page/エタノール.md "wikilink")はガソリン分解細菌の[活性を低下させるという意見もあったが](../Page/活性化.md "wikilink")、過剰に摂取しない限り人体無害なので、米国では MTBE の禁止とともに[バイオエタノール](https://ja.wikipedia.org/wiki/バイオエタノール "wikilink")の需要が激増した。なお、老朽化した地下タンクを使い、周辺の地下水を飲用に使う場合、[メタノール](../Page/メタノール.md "wikilink")でも MTBE と同様の問題は発生しうる。 \[1\] \[2\]
 
 ## 出典
 

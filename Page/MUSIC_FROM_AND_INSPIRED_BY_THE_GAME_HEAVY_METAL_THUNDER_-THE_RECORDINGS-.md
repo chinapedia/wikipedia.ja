@@ -1,7 +1,7 @@
 > この記事は[MUSIC FROM AND INSPIRED BY THE GAME HEAVY METAL THUNDER -THE RECORDINGS-](https://ja.wikipedia.org/wiki/MUSIC_FROM_AND_INSPIRED_BY_THE_GAME_HEAVY_METAL_THUNDER_-THE_RECORDINGS-)から翻訳されています。
 
 
-『**MUSIC FROM AND INSPIRED BY THE GAME HEAVY METAL THUNDER -THE RECORDINGS-**』（ミュージック・フロム・アンド・インスパイアド・バイ・ザ・ゲーム・ヘビー・メタル・サンダー -ザ レコーディングス-）は、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")から発売された[PS2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲーム](../Page/ゲーム.md "wikilink")『[ヘビーメタルサンダー](../Page/ヘビーメタルサンダー.md "wikilink")』の[サウンドトラック](../Page/サウンドトラック.md "wikilink")。
+『**MUSIC FROM AND INSPIRED BY THE GAME HEAVY METAL THUNDER -THE RECORDINGS-**』（ミュージック・フロム・アンド・インスパイアド・バイ・ザ・ゲーム・ヘビー・メタル・サンダー -ザ レコーディングス-）は、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")から発売された[PS2用](../Page/PlayStation_2.md "wikilink")[ゲーム](../Page/ゲーム.md "wikilink")『[ヘビーメタルサンダー](../Page/ヘビーメタルサンダー.md "wikilink")』の[サウンドトラック](../Page/サウンドトラック.md "wikilink")。
 
 ## 収録曲
 

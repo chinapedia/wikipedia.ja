@@ -74,7 +74,7 @@
 
 ## 外部リンク
 
-  - [BANG\! BANG\! バカンス\! - Victor Entertainment](http://www.jvcmusic.co.jp/-/Discography/A002763/VICL-35888.html)
+  - [BANG\! BANG\! バカンス\! - Victor Entertainment](https://www.jvcmusic.co.jp/-/Discography/A002763/VICL-35888.html)
 
 [Category:SMAPの楽曲](https://ja.wikipedia.org/wiki/Category:SMAPの楽曲 "wikilink") [Category:宮藤官九郎が制作した楽曲](https://ja.wikipedia.org/wiki/Category:宮藤官九郎が制作した楽曲 "wikilink") [Category:小森田実が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小森田実が制作した楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:2005年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2005年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:テレビ朝日の主題歌](https://ja.wikipedia.org/wiki/Category:テレビ朝日の主題歌 "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink") [Category:夏を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夏を題材とした楽曲 "wikilink")
 

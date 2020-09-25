@@ -1,7 +1,7 @@
 > この記事は[W・アヴェレル・ハリマン](https://ja.wikipedia.org/wiki/W・アヴェレル・ハリマン)から翻訳されています。
 
 
-**ウィリアム・アヴェレル・ハリマン**（, [1891年](../Page/1891年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink") - [1986年](../Page/1986年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[政治家](../Page/政治家.md "wikilink")、[外交官](../Page/外交官.md "wikilink")、[銀行家](https://ja.wikipedia.org/wiki/銀行家 "wikilink")、[実業家](../Page/実業家.md "wikilink")。[トルーマン政権の](../Page/ハリー・S・トルーマン.md "wikilink")[アメリカ合衆国商務長官](https://ja.wikipedia.org/wiki/アメリカ合衆国商務長官 "wikilink")（[1946年](../Page/1946年.md "wikilink") - [1948年](../Page/1948年.md "wikilink")）、[ニューヨーク州知事](https://ja.wikipedia.org/wiki/ニューヨーク州知事 "wikilink")（[1955年](../Page/1955年.md "wikilink") - [1959年](../Page/1959年.md "wikilink")）。[アメリカ対日協議会](https://ja.wikipedia.org/wiki/アメリカ対日協議会 "wikilink")のスポンサー。
+**ウィリアム・アヴェレル・ハリマン**（, [1891年](../Page/1891年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink") - [1986年](../Page/1986年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[政治家](../Page/政治家.md "wikilink")、[外交官](../Page/外交官.md "wikilink")、[銀行家](https://ja.wikipedia.org/wiki/銀行家 "wikilink")、[実業家](../Page/実業家.md "wikilink")。[ハリー・S・トルーマン](../Page/ハリー・S・トルーマン.md "wikilink")政権にて11代目[アメリカ合衆国商務長官](https://ja.wikipedia.org/wiki/アメリカ合衆国商務長官 "wikilink")、48代目[ニューヨーク州知事](https://ja.wikipedia.org/wiki/ニューヨーク州知事 "wikilink")を務めた。[アメリカ対日協議会](https://ja.wikipedia.org/wiki/アメリカ対日協議会 "wikilink")のスポンサー。
 
 ## 生涯
 
@@ -11,7 +11,7 @@
 
 ### 投資銀行家
 
-1915年に父の経営するユニオン・パシフィック鉄道に入社し、1932年には同社の最高経営責任者に就任した。一方で父の投資銀行を引き継ぎ、「W・A・ハリマン」社を創設、同社には弟のE・R・ハリマンやその友人で後に上院議員になる[プレスコット・ブッシュ](../Page/プレスコット・ブッシュ.md "wikilink")、ブッシュの義父の[ジョージ・ハーバート・ウォーカー](https://ja.wikipedia.org/wiki/ジョージ・ハーバート・ウォーカー "wikilink")が在籍していた。 ちなみにプレスコット・ブッシュは41代目アメリカ合衆国大統領[ジョージ・H・W・ブッシュ](../Page/ジョージ・H・W・ブッシュ.md "wikilink")の父で、かつ第43代大統領[ジョージ・W・ブッシュの祖父である](https://ja.wikipedia.org/wiki/ジョージ・ウォーカー・ブッシュ "wikilink")。同社は1931年に「ブラウン・ブラザース」社と合併し、「[ブラウン・ブラザーズ・ハリマン](https://ja.wikipedia.org/wiki/ブラウン・ブラザーズ・ハリマン "wikilink")」に改組した。
+1915年に父の経営するユニオン・パシフィック鉄道に入社し、1932年には同社の最高経営責任者に就任した。一方で父の投資銀行を引き継ぎ、「W・A・ハリマン」社を創設、同社には弟のE・R・ハリマンやその友人で後に上院議員になる[プレスコット・ブッシュ](../Page/プレスコット・ブッシュ.md "wikilink")、ブッシュの義父の[ジョージ・H・W・ブッシュ](../Page/ジョージ・H・W・ブッシュ.md "wikilink")が在籍していた。 ちなみにプレスコット・ブッシュは41代目アメリカ合衆国大統領[ジョージ・H・W・ブッシュ](../Page/ジョージ・H・W・ブッシュ.md "wikilink")の父で、かつ43代目アメリカ合衆国大統領[ジョージ・W・ブッシュ](../Page/ジョージ・W・ブッシュ.md "wikilink")の祖父である。同社は1931年に「ブラウン・ブラザース」社と合併し、「[ブラウン・ブラザーズ・ハリマン](https://ja.wikipedia.org/wiki/ブラウン・ブラザーズ・ハリマン "wikilink")」に改組した。
 
 ### 全国復興庁
 
@@ -33,13 +33,13 @@
 
 1952年には大統領候補としての指名を求め、民主党大会でニューヨーク州、[アイダホ州](../Page/アイダホ州.md "wikilink")、[ワイオミング州](../Page/ワイオミング州.md "wikilink")、[ユタ州](../Page/ユタ州.md "wikilink")の代議員団の票を獲得したが、[アドレー・スティーブンソン](../Page/アドレー・スティーブンソン.md "wikilink")[イリノイ州](../Page/イリノイ州.md "wikilink")知事に敗れた。
 
-1954年、[トマス・デューイ](https://ja.wikipedia.org/wiki/トマス・デューイ "wikilink")[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")知事がこの年の知事選に出馬しないことを決めると、彼は立候補し、共和党候補でデューイの後援を受けた[アーヴィング・アイヴス](https://ja.wikipedia.org/wiki/アーヴィング・アイヴス "wikilink")[上院議員](https://ja.wikipedia.org/wiki/上院議員 "wikilink")を破りニューヨーク州知事となった。しかし、1958年には[ネルソン・ロックフェラー](../Page/ネルソン・ロックフェラー.md "wikilink")の前に敗北し、彼のニューヨーク州知事としての任期はわずか1期であった。1956年にも再び大統領候補指名争いに加わり、[トルーマン前大統領の推薦を受けたが失敗した](../Page/ハリー・S・トルーマン.md "wikilink")。
+1954年に[トマス・デューイ](https://ja.wikipedia.org/wiki/トマス・デューイ "wikilink")[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")知事がこの年の知事選挙に出馬しないことを決めると、彼は立候補し、共和党候補でデューイの後援を受けた[アーヴィング・アイヴス](https://ja.wikipedia.org/wiki/アーヴィング・アイヴス "wikilink")[上院議員](https://ja.wikipedia.org/wiki/上院議員 "wikilink")を破りニューヨーク州知事となった。しかし、1958年には[ネルソン・ロックフェラー](../Page/ネルソン・ロックフェラー.md "wikilink")の前に敗北し、彼のニューヨーク州知事としての任期はわずか1期であった。1956年にも再び大統領候補指名争いに加わり、[ハリー・S・トルーマン](../Page/ハリー・S・トルーマン.md "wikilink")前大統領の推薦を受けたが失敗した。
 
 ### 国務次官
 
-1961年、[ケネディ政権が発足するとハリマンは無所任大使に任命され](../Page/ジョン・F・ケネディ.md "wikilink")、次いで1961年には[極東担当国務次官補に任命される](../Page/アメリカ合衆国国務次官補（東アジア・太平洋担当）.md "wikilink")。1963年には国務省ナンバー3のポストである[政治担当国務次官に昇格し](../Page/アメリカ合衆国国務次官（政治担当）.md "wikilink")、続く[ジョンソン政権でも同職にとどまったが](../Page/リンドン・ジョンソン.md "wikilink")、閣僚も経験し、外交官としてのキャリアも豊富なハリマンにとっては地位の低いポストだった。
+1961年1月20日に[ジョン・F・ケネディ](../Page/ジョン・F・ケネディ.md "wikilink")政権が発足するとハリマンは無所任大使に任命され、次いで1961年には[極東担当国務次官補に任命される](../Page/アメリカ合衆国国務次官補（東アジア・太平洋担当）.md "wikilink")。1963年には国務省ナンバー3のポストである[政治担当国務次官に昇格し](../Page/アメリカ合衆国国務次官（政治担当）.md "wikilink")、続く[ジョンソン政権でも同職にとどまったが](../Page/リンドン・ジョンソン.md "wikilink")、閣僚も経験し、外交官としてのキャリアも豊富なハリマンにとっては地位の低いポストだった。
 
-しかし、ケネディ政権時代に始まった[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")をめぐり悪化する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")をはじめとするアジア諸国との関係強化に尽力した。[リチャード・ニクソン](../Page/リチャード・ニクソン.md "wikilink")政権下においてベトナム戦争を終結させるため[北ベトナム](https://ja.wikipedia.org/wiki/北ベトナム "wikilink")との[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")和平交渉がスタートすると、ハリマンはキャリアを生かし、68‐69年、ベトナム和平交渉のアメリカ代表として重要な役割を果たした。
+しかし、ケネディ政権時代に始まった[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")をめぐり悪化する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")をはじめとするアジア諸国との関係強化に尽力した。[リチャード・ニクソン](../Page/リチャード・ニクソン.md "wikilink")政権下においてベトナム戦争を終結させるため[北ベトナム](https://ja.wikipedia.org/wiki/北ベトナム "wikilink")との[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")和平交渉がスタートすると、ハリマンはキャリアを生かし、1968年から69年にベトナム和平交渉のアメリカ代表として重要な役割を果たした。
 
 ### 晩年
 

@@ -17,7 +17,7 @@
 
 [1931年](../Page/1931年.md "wikilink")に発売開始。プロイセン州警察からの要請に基づき、ショルダーホルスターを用いて拳銃を携行する私服警官向けのコンパクトなモデルとして設計された\[3\]。
 
-[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")時代（1933年 - 1945年）には、警察組織のほかに[ドイツ国防軍](../Page/ドイツ国防軍.md "wikilink")、[国家社会主義ドイツ労働者党](https://ja.wikipedia.org/wiki/国家社会主義ドイツ労働者党 "wikilink")（NSDAP, ナチ党）指揮下の準軍事組織（[SA](../Page/突撃隊.md "wikilink")、[SSなど](../Page/親衛隊_\(ナチス\).md "wikilink")）によって制式拳銃として採用されていた。[ゲシュタポ](../Page/ゲシュタポ.md "wikilink")のエージェントらには[.32ACP弾](../Page/.32ACP弾.md "wikilink")（7.65mm）仕様のモデルが好まれた。また、総統[アドルフ・ヒトラー](https://ja.wikipedia.org/wiki/アドルフ・ヒトラー "wikilink")も7.65mm仕様のPPKを所持しており、彼が1945年の[自殺に用いたのもPPKだった](https://ja.wikipedia.org/wiki/アドルフ・ヒトラーの死 "wikilink")\[4\]。
+[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")時代（1933年 - 1945年）には、警察組織のほかに[ドイツ国防軍](../Page/ドイツ国防軍.md "wikilink")、[国家社会主義ドイツ労働者党](https://ja.wikipedia.org/wiki/国家社会主義ドイツ労働者党 "wikilink")（NSDAP, ナチ党）指揮下の準軍事組織（[SA](../Page/突撃隊.md "wikilink")、[SSなど](../Page/親衛隊_\(ナチス\).md "wikilink")）によって制式拳銃として採用されていた。[ゲシュタポ](../Page/ゲシュタポ.md "wikilink")のエージェントらには[.32ACP弾](../Page/.32ACP弾.md "wikilink")（7.65mm）仕様のモデルが好まれた。また、総統[アドルフ・ヒトラー](https://ja.wikipedia.org/wiki/アドルフ・ヒトラー "wikilink")も7.65mm（32ACP弾）仕様のPPKを所持しており、彼が1945年の[自殺に用いたのもPPKだった](https://ja.wikipedia.org/wiki/アドルフ・ヒトラーの死 "wikilink")\[4\]。
 
 [第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中から戦後にかけて、PPおよびPPKは各国の小型拳銃の設計に影響を与えた。例えば[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")の[マカロフ拳銃](https://ja.wikipedia.org/wiki/マカロフ_PM "wikilink")、[ハンガリー](../Page/ハンガリー.md "wikilink")の、[チェコ](../Page/チェコ.md "wikilink")のなどはPPおよびPPKの影響を受けて開発された\[5\]。大戦中の生産数は150,000丁を上回った\[6\]。
 

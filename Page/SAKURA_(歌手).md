@@ -125,7 +125,6 @@
 <td><p>2nd</p></td>
 <td><p>1998年1月16日</p></td>
 <td><p>IF YOU LOVE ME</p></td>
-<td><p>CD</p></td>
 <td><p>TOCT-4094</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -145,12 +144,12 @@
 </div>
 </div></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ダニー・ハザウェイ" title="wikilink">ダニー・ハザウェイ</a>のカヴァー曲を含む、元<a href="https://ja.wikipedia.org/wiki/オリジナル・ラヴ" title="wikilink">オリジナル・ラヴ</a>のキハラ龍太郎プロデュースによる全3曲を収録。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
 <td><p>1998年7月8日</p></td>
 <td><p>I believe</p></td>
-<td><p>CD</p></td>
 <td><p>TOCT-4103</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -170,12 +169,12 @@
 </div>
 </div></td>
 <td><p>オリコン50位。キハラ龍太郎プロデュース。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>4th</p></td>
 <td><p>1998年11月6日</p></td>
 <td><p>君のために</p></td>
-<td><p>CD</p></td>
 <td><p>TOCT-4122</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -194,12 +193,12 @@
 </div>
 </div></td>
 <td><p>オリコン50位。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>5th</p></td>
 <td><p>1999年1月27日</p></td>
 <td><p>ONLY FOR YOU</p></td>
-<td><p>CD</p></td>
 <td><p>TOCT-4134</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -219,12 +218,12 @@
 </div>
 </div></td>
 <td><p>オリコン56位。桜井秀俊（<a href="../Page/真心ブラザーズ.md" title="wikilink">真心ブラザーズ</a>）プロデュース。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>6th</p></td>
 <td><p>1999年6月9日</p></td>
 <td><p>Paradise Calling</p></td>
-<td><p>CD</p></td>
 <td><p>TOCT-4152</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -239,12 +238,12 @@
 </div>
 </div></td>
 <td><p>オリコン68位。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>7th</p></td>
 <td><p>1999年11月17日</p></td>
 <td><p>Oh I...</p></td>
-<td><p>CD</p></td>
 <td><p>TOCT-4172</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -259,12 +258,12 @@
 </div>
 </div></td>
 <td><p>オリコン85位。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>8th</p></td>
 <td><p>2000年2月16日</p></td>
 <td><p>HEART OF GOLD</p></td>
-<td><p>CD</p></td>
 <td><p>TOCT-4188</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -284,12 +283,12 @@
 </div>
 </div></td>
 <td><p>オリコン54位。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>9th</p></td>
 <td><p>2000年3月23日</p></td>
 <td><p>Day in, Day out</p></td>
-<td><p>CD</p></td>
 <td><p>TOCT-4202</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -309,12 +308,12 @@
 </div>
 </div></td>
 <td><p>オリコン89位。朝本浩文プロデュース。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>10th</p></td>
 <td><p>2001年2月16日</p></td>
 <td><p>コエヲキカセテ</p></td>
-<td><p>CD</p></td>
 <td><p>TOCT-4276</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -329,12 +328,12 @@
 </div>
 </div></td>
 <td><p>オリコン77位。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>11th</p></td>
 <td><p>2001年9月27日</p></td>
 <td><p>光の海</p></td>
-<td><p>CD</p></td>
 <td><p>TOCT-4327</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -349,12 +348,12 @@
 </div>
 </div></td>
 <td><p>オリコン99位。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>12th</p></td>
 <td><p>2002年3月6日</p></td>
 <td><p>Flow with me</p></td>
-<td><p>CD</p></td>
 <td><p>TOCT-4358</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -369,6 +368,7 @@
 </div>
 </div></td>
 <td><p>アルバム『the star』からの先行シングル。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>13th</p></td>
@@ -399,7 +399,6 @@
 <td><p>14th</p></td>
 <td><p>2003年2月14日</p></td>
 <td><p>LOVE 4 REAL</p></td>
-<td><p>CCCD</p></td>
 <td><p>TOCT-4452</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -414,12 +413,12 @@
 </div>
 </div></td>
 <td><p>オリコン78位。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>15th</p></td>
 <td><p>2003年5月28日</p></td>
 <td><p>GOOD LOVE</p></td>
-<td><p>CCCD</p></td>
 <td><p>TOCT-4483</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -433,12 +432,12 @@
 </div>
 </div></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>16th</p></td>
 <td><p>2004年2月11日</p></td>
 <td><p>虹へのプレリュード</p></td>
-<td><p>CCCD</p></td>
 <td><p>TOCT-4688</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -453,12 +452,12 @@
 </div>
 </div></td>
 <td><p>オリコン148位。<a href="../Page/CHEMISTRY.md" title="wikilink">CHEMISTRY</a>、<a href="../Page/Leyona.md" title="wikilink">Leyona</a>他を手掛ける益田トッシュがプロデュースを担当。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>17th</p></td>
 <td><p>2004年4月28日</p></td>
 <td><p>言の葉</p></td>
-<td><p>CCCD</p></td>
 <td><p>TOCT-4713</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -472,6 +471,7 @@
 </ol>
 </div>
 </div></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -499,7 +499,6 @@
 <td><p>19th</p></td>
 <td><p>2006年11月18日</p></td>
 <td><p>いつまでも〜すべての人の心へ届けversion〜</p></td>
-<td><p>CD</p></td>
 <td><p>SSR-0001</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -515,12 +514,12 @@
 </div>
 </div></td>
 <td><p>オリコン114位。自主レーベル【sakura咲楽records】第1弾シングル。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>20th</p></td>
 <td><p>2007年5月23日</p></td>
 <td><p>Peace of Mind</p></td>
-<td><p>CD</p></td>
 <td><p>UMCF-5005</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -536,6 +535,7 @@
 </div>
 </div></td>
 <td><p>オリコン150位。Def TechのMicroが立ち上げたPrimary Color Recordzの第2弾作品。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -587,7 +587,6 @@
 <td><p>2nd</p></td>
 <td><p>1999年2月24日</p></td>
 <td><p>LOVE ON WINGS</p></td>
-<td><p>CD</p></td>
 <td><p>TOCT-24066</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -596,12 +595,12 @@
 <div class="NavContent" style="text-align:left;">
 <p>{{tracklist</p></td>
 <td><p>collapsed =</p></td>
+<td><p>headline = CD</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p>2000年4月26日</p></td>
 <td><p>daylight</p></td>
-<td><p>CD</p></td>
 <td><p>TOCT-24322</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -610,12 +609,12 @@
 <div class="NavContent" style="text-align:left;">
 <p>{{tracklist</p></td>
 <td><p>collapsed =</p></td>
+<td><p>headline = CD</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
 <td><p>2001年4月11日</p></td>
 <td><p>シシラ 涼季</p></td>
-<td><p>CD</p></td>
 <td><p>TOCT-24563</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -624,12 +623,12 @@
 <div class="NavContent" style="text-align:left;">
 <p>{{tracklist</p></td>
 <td><p>collapsed =</p></td>
+<td><p>headline = CD</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>2002年3月27日</p></td>
 <td><p>the star XVII</p></td>
-<td><p>CD</p></td>
 <td><p>TOCT-24748</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -638,6 +637,7 @@
 <div class="NavContent" style="text-align:left;">
 <p>{{tracklist</p></td>
 <td><p>collapsed =</p></td>
+<td><p>headline = CD</p></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
@@ -657,7 +657,6 @@
 <td><p>7th</p></td>
 <td><p>2004年6月16日</p></td>
 <td><p>Lana</p></td>
-<td><p>CCCD</p></td>
 <td><p>TOCT-25391</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -666,6 +665,7 @@
 <div class="NavContent" style="text-align:left;">
 <p>{{tracklist</p></td>
 <td><p>collapsed =</p></td>
+<td><p>headline =</p></td>
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
@@ -685,7 +685,6 @@
 <td><p>9th</p></td>
 <td><p>2007年6月27日</p></td>
 <td><p>G.L.M. 〜Girl's Life Music〜</p></td>
-<td><p>CD</p></td>
 <td><p>UMCF-1003</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -694,12 +693,12 @@
 <div class="NavContent" style="text-align:left;">
 <p>{{tracklist</p></td>
 <td><p>collapsed =</p></td>
+<td><p>headline = CD</p></td>
 </tr>
 <tr class="even">
 <td><p>10th</p></td>
 <td><p>2009年8月12日</p></td>
 <td><p>Real Love</p></td>
-<td><p>CD</p></td>
 <td><p>VIA-0091</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -708,6 +707,7 @@
 <div class="NavContent" style="text-align:left;">
 <p>{{tracklist</p></td>
 <td><p>collapsed =</p></td>
+<td><p>headline = CD</p></td>
 </tr>
 <tr class="odd">
 <td></td>

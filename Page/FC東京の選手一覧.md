@@ -179,6 +179,16 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><strong>25</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/蓮川壮大" title="wikilink">蓮川壮大</a></p></td>
+<td></td>
+<td><p>2020年9月 -</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/明治大学体育会サッカー部" title="wikilink">明治大学在学中</a></p></td>
+<td><p>U-18出身<br />
+特別指定選手</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><strong>32</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョアン・オマリ" title="wikilink">ジョアン・オマリ</a></p></td>
 <td></td>
@@ -187,7 +197,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>37</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/中村帆高" title="wikilink">中村帆高</a></p></td>
 <td></td>
@@ -196,7 +206,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>47</strong></p></td>
 <td><p><a href="../Page/木村誠二.md" title="wikilink">木村誠二</a></p></td>
 <td></td>
@@ -205,7 +215,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>49</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バングーナガンデ佳史扶" title="wikilink">バングーナガンデ佳史扶</a></p></td>
 <td></td>
@@ -214,7 +224,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/ミッドフィールダー.md" title="wikilink">MF</a></p></td>
 <td><p><strong>7</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/三田啓貴" title="wikilink">三田啓貴</a></p></td>
@@ -224,7 +234,7 @@
 <td><p><a href="../Page/ヴィッセル神戸.md" title="wikilink">ヴィッセル神戸</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>8</strong></p></td>
 <td><p><a href="../Page/高萩洋次郎.md" title="wikilink">髙萩洋次郎</a></p></td>
 <td></td>
@@ -233,7 +243,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>10</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東慶悟" title="wikilink">東慶悟</a> </p></td>
 <td></td>
@@ -242,7 +252,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>15</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アダイウトン・ドス・サントス・ダ・シルバ" title="wikilink">アダイウトン</a></p></td>
 <td></td>
@@ -251,7 +261,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>19</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/宮崎幾笑" title="wikilink">宮崎幾笑</a></p></td>
 <td></td>
@@ -260,7 +270,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>20</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウェベルソン・レアンドロ・オリベイラ・モウラ" title="wikilink">レアンドロ</a></p></td>
 <td></td>
@@ -269,7 +279,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>28</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/内田宅哉" title="wikilink">内田宅哉</a></p></td>
 <td></td>
@@ -278,7 +288,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>31</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/安部柊斗" title="wikilink">安部柊斗</a></p></td>
 <td></td>
@@ -287,7 +297,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>35</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/鈴木喜丈" title="wikilink">鈴木喜丈</a></p></td>
 <td></td>
@@ -296,7 +306,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>38</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/紺野和也" title="wikilink">紺野和也</a></p></td>
 <td></td>
@@ -305,7 +315,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>40</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/平川怜" title="wikilink">平川怜</a></p></td>
 <td></td>
@@ -315,7 +325,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>44</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/品田愛斗" title="wikilink">品田愛斗</a></p></td>
 <td></td>
@@ -324,7 +334,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>45</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アルトゥール・シウヴァ・フェイトーザ" title="wikilink">アルトゥール・シルバ</a></p></td>
 <td></td>
@@ -333,7 +343,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/フォワード_(サッカー).md" title="wikilink">FW</a></p></td>
 <td><p><strong>9</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ディエゴ・オリヴェイラ・デ・ケイロス" title="wikilink">ディエゴ・オリヴェイラ</a></p></td>
@@ -342,7 +352,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/柏レイソル" title="wikilink">柏レイソル</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>11</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/永井謙佑" title="wikilink">永井謙佑</a></p></td>
 <td></td>
@@ -351,7 +361,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>23</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/矢島輝一" title="wikilink">矢島輝一</a></p></td>
 <td></td>
@@ -360,7 +370,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>24</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/原大智_(サッカー選手)" title="wikilink">原大智</a></p></td>
 <td></td>
@@ -369,7 +379,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>27</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/田川亨介" title="wikilink">田川亨介</a></p></td>
 <td></td>
@@ -378,7 +388,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -519,9 +529,18 @@
 <td></td>
 <td><p>2021年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/明治大学体育会サッカー部" title="wikilink">明治大学</a></p></td>
-<td><p>ユース出身</p></td>
+<td><p>U-18出身<br />
+現在特別指定選手として在籍</p></td>
 </tr>
 <tr class="odd">
+<td><p>DF</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大森理生" title="wikilink">大森理生</a></p></td>
+<td></td>
+<td><p>2021年</p></td>
+<td><p>FC東京U-18</p></td>
+<td><p>トップ昇格</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1351,7 +1370,7 @@
 <td><p>中村拓海</p></td>
 <td><p>矢島輝一</p></td>
 <td><p>原大智</p></td>
-<td><p>-</p></td>
+<td><p>蓮川壮大</p></td>
 <td><p>-</p></td>
 <td><p>田川亨介</p></td>
 <td><p>内田宅哉</p></td>

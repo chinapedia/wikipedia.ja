@@ -11,7 +11,7 @@
 
 [2009年](../Page/2009年.md "wikilink")第3四半期、Windows Mobileのスマートフォン市場における市場占有率は20%減少\[3\]、1年前より下降\[4\]した。スマートフォンにおける世界的な市場占有率は7.9%で、[Symbian OS](../Page/Symbian_OS.md "wikilink")、[BlackBerry OS](../Page/BlackBerry.md "wikilink")、[iPhone OSに次ぎ第](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")4位\[5\]で、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")内の企業向けスマートフォンOSとしての市場占有率は24%で、BlackBerry OS と iPhone OS に次いで第3位\[6\]であった。
 
-類似するものに、[アップルの](../Page/アップル_\(企業\).md "wikilink")[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、[Google](../Page/Google.md "wikilink")の[Android](../Page/Android.md "wikilink")、[ノキア](../Page/ノキア.md "wikilink")（旧[シンビアン](../Page/シンビアン.md "wikilink")）の[Symbian OS](../Page/Symbian_OS.md "wikilink")、[クアルコム](../Page/クアルコム.md "wikilink")の[BREW](../Page/BREW.md "wikilink")およびBrew MPなどがある。
+類似するものに、[アップルの](../Page/アップル_\(企業\).md "wikilink")[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、[Google](../Page/Google.md "wikilink")の[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")、[ノキア](../Page/ノキア.md "wikilink")（旧[シンビアン](../Page/シンビアン.md "wikilink")）の[Symbian OS](../Page/Symbian_OS.md "wikilink")、[クアルコム](../Page/クアルコム.md "wikilink")の[BREW](../Page/BREW.md "wikilink")およびBrew MPなどがある。
 
 次期モバイルOSの[Windows Phone 7が発表されたあとも](https://ja.wikipedia.org/wiki/Windows_Phone_7 "wikilink")、Windows Mobile 6.x系シリーズは**Windows Phone Classic**に名称を改めて、並行展開を予定されている\[7\]が、現時点では6.5.5以来全くリリースされないことや、[Windows Phone 8がリリースされ](https://ja.wikipedia.org/wiki/Windows_Phone_8 "wikilink")、[Windows CEベースから](https://ja.wikipedia.org/wiki/Windows_CE "wikilink")[Windows NT系ベースへ変更され](../Page/Windows_NT系.md "wikilink")、マイクロソフトのカーネル一本化へと方向性がかえられており、Windows Mobileシリーズは今後リリースされないと思われる。
 

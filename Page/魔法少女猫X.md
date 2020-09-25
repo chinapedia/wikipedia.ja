@@ -1,23 +1,17 @@
 > この記事は[魔法少女猫X](https://ja.wikipedia.org/wiki/魔法少女猫X)から翻訳されています。
 
 
-『**魔法少女猫X**』（まほうしょうじょねこエックス）は、[おりもとみまな](../Page/おりもとみまな.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。
+『**魔法少女猫X**』（まほうしょうじょねこエックス）は、[おりもとみまな](../Page/おりもとみまな.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品\[1\]。単行本は全2巻。
 
-## 概要
+本作は『[月刊ドラゴンエイジ](../Page/月刊ドラゴンエイジ.md "wikilink")』（[富士見書房](../Page/富士見書房.md "wikilink")刊）にて連載されたが、性的な描写を多数含んでいる。また、「[ふたなり](../Page/ふたなり.md "wikilink")」「アイノコ」といったセリフの一部の単語が単行本の発売元である[角川書店](../Page/角川書店.md "wikilink")の規定で差し替えられた。これは、後述の同人誌で作者本人が言及している。
 
-『[月刊ドラゴンエイジ](../Page/月刊ドラゴンエイジ.md "wikilink")』（[富士見書房](../Page/富士見書房.md "wikilink")刊）連載作品。単行本は全2巻。
+連載終了後、作者のおりもとみまなは、物語を補完するため、「魔法少女猫XXX」、「魔法少女猫XXX2」、「魔法少女猫XXXF」という成人向けの同人誌を発表している。また、これらの同人誌を一冊にまとめた「魔法少女猫XXX総集編」も発表しており、サイドストーリーなども入っている。
 
-過激なお色気描写や性描写が多数あり、[有害図書](../Page/有害図書.md "wikilink")指定ギリギリの内容である。
+## 内容
 
 [保健所](../Page/保健所.md "wikilink")の職員でもある高校生・山本ヤマトは、人と獣人が暮らす[東京](../Page/東京.md "wikilink")で、ペットの[猫獣人](../Page/ネコ.md "wikilink")・ペケと共に超能力を身に付けた獣人「EVO」を捕獲させる仕事を与えられる。そしてそのペケもまた「EVO」であり、首輪の封印を解くと「魔法少女猫X（エックス）」に変身する。
 
 ふだんは「ご主人様」ヤマトのただの“虐待”にも見える[SM的愛情で同棲している](../Page/SM_\(性風俗\).md "wikilink")。
-
-## 本作における逸話
-
-セリフの一部の単語「[ふたなり](../Page/ふたなり.md "wikilink")」「アイノコ」が単行本発売元、[角川書店](../Page/角川書店.md "wikilink")の規定で差し替えられた。これは、後述の同人誌で作者本人が言及している。
-
-連載終了後、作者のおりもとみまなが、物語の補完として、魔法少女猫XXX、魔法少女猫XXX2、魔法少女猫XXXF、魔法少女猫XXX総集編（XXX、XXX2、XXXFを一冊にまとめた物）が同人誌（[18禁](https://ja.wikipedia.org/wiki/18禁 "wikilink")）としてある。それでペケの過去などを詳しく知ることができる。ちなみにXXX総集編には、サイドストーリーなども入っている。
 
 ## 登場人物
 
@@ -33,9 +27,13 @@
   - アオシマ都知事
     都知事。川にやってきたアザラシを「金タマ男」とし住民票登録しようとしたが、獣人から反感を買う。
 
+## 脚注
+
 ## 単行本
 
 1.  2004年11月29日、ISBN 4-04-712380-3
 2.  2005年3月29日、ISBN 4-04-712393-5
 
-[Category:漫画作品_ま](https://ja.wikipedia.org/wiki/Category:漫画作品_ま "wikilink") [Category:月刊ドラゴンエイジ](https://ja.wikipedia.org/wiki/Category:月刊ドラゴンエイジ "wikilink") [Category:ネコを主題とする作品](https://ja.wikipedia.org/wiki/Category:ネコを主題とする作品 "wikilink") [Category:魔法少女](https://ja.wikipedia.org/wiki/Category:魔法少女 "wikilink") [Category:BDSM作品](https://ja.wikipedia.org/wiki/Category:BDSM作品 "wikilink")
+[Category:漫画作品_ま](https://ja.wikipedia.org/wiki/Category:漫画作品_ま "wikilink") [Category:月刊ドラゴンエイジ](https://ja.wikipedia.org/wiki/Category:月刊ドラゴンエイジ "wikilink") [Category:ネコを主題とする作品](https://ja.wikipedia.org/wiki/Category:ネコを主題とする作品 "wikilink") [Category:魔法少女](https://ja.wikipedia.org/wiki/Category:魔法少女 "wikilink") [Category:BDSM作品](https://ja.wikipedia.org/wiki/Category:BDSM作品 "wikilink") [Category:東京都を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:東京都を舞台とした漫画作品 "wikilink")
+
+1.

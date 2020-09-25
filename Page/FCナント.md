@@ -603,7 +603,7 @@ FCナントのライバルは[FCジロンダン・ボルドー](../Page/FCジロ
 
 </div>
 
-  - [2020年](../Page/2020年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")現在
 
 <!-- end list -->
 

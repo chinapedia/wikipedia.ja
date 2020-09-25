@@ -248,8 +248,7 @@
 
 ## 外部リンク
 
-  - （英語）
-
+  -
 [Category:1990年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1990年のファミリーコンピュータ用ソフト "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:ドラゴンボールのゲーム](https://ja.wikipedia.org/wiki/Category:ドラゴンボールのゲーム "wikilink")
 
 1.  [Vジャンプ](https://ja.wikipedia.org/wiki/Vジャンプ "wikilink")1995年6月号付録『DBソフト1000万本突破記念\! 孫悟空ゲームミュージアム』[集英社](../Page/集英社.md "wikilink")、1994年6月1日、17頁。

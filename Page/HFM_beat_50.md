@@ -16,17 +16,15 @@
 
 ## 休暇中のピンチヒッター
 
-  - [木村ミチタ](https://ja.wikipedia.org/wiki/木村ミチタ "wikilink")・・・[MUSIC MANIA](../Page/ミュージック・マニア.md "wikilink")(現：キムラミチタのVibe　ON！MUSIC）のDJだが、ピンチヒッターをした当時は[MUSIC MANIAのDJではなかった](../Page/ミュージック・マニア.md "wikilink")。
-  - 渡辺裕之…SUNMALL　LIVE ON RADIO、STREET"H" のDJ
-  - 冨永晃道…[MUSIC SOLEIL LUNCHTIME SATELLITEのDJ](../Page/MUSIC_SOLEIL_LUNCHTIME_SATELLITE.md "wikilink")、庄司が所属している事務所の後輩。
-  - [藤沢俊一郎](../Page/藤沢俊一郎.md "wikilink")…大阪のラジオで活躍中。
-  - [小嶋晶子](https://ja.wikipedia.org/wiki/小嶋晶子 "wikilink")…[FM802](../Page/FM802.md "wikilink")や[FM愛知で活躍中](../Page/エフエム愛知.md "wikilink")。庄司が所属している事務所の後輩、冨永晃道の先輩である。
-  - 屋形英貴…[-WEEKLY PARTY- 週末オトナ計画のパーソナリティ](../Page/-WEEKLY_PARTY-_週末オトナ計画.md "wikilink")
-  - ケンちゃん…番組の初代ミキサー
+  - [木村ミチタ](https://ja.wikipedia.org/wiki/木村ミチタ "wikilink") - [MUSIC MANIA](../Page/ミュージック・マニア.md "wikilink")(現：キムラミチタのVibe ON！MUSIC）のDJだが、ピンチヒッターをした当時は[MUSIC MANIAのDJではなかった](../Page/ミュージック・マニア.md "wikilink")。
+  - 渡辺裕之 - SUNMALL LIVE ON RADIO、STREET"H" のDJ。
+  - 冨永晃道 - [MUSIC SOLEIL LUNCHTIME SATELLITEのDJ](../Page/MUSIC_SOLEIL_LUNCHTIME_SATELLITE.md "wikilink")、庄司が所属している事務所の後輩。
+  - [藤沢俊一郎](../Page/藤沢俊一郎.md "wikilink") - 大阪のラジオで活躍中。
+  - [小嶋晶子](https://ja.wikipedia.org/wiki/小嶋晶子 "wikilink") - [FM802](../Page/FM802.md "wikilink")や[FM愛知で活躍中](../Page/エフエム愛知.md "wikilink")。庄司が所属している事務所の後輩、冨永晃道の先輩である。
+  - 屋形英貴 - [-WEEKLY PARTY- 週末オトナ計画のパーソナリティ](../Page/-WEEKLY_PARTY-_週末オトナ計画.md "wikilink")。
+  - ケンちゃん - 番組の初代ミキサー。
 
-<!-- end list -->
-
-  -   - ピンチヒッターを一番多く務めたのは渡部裕之である。
+ピンチヒッターを一番多く務めたのは渡部裕之である。
 
 ## コーナー
 
@@ -38,9 +36,7 @@
   - お名前ロケンロー
   - ゲット・ニュービート
 
-<!-- end list -->
-
-  -   - イントロの匠、お名前ロケンローのコーナーは、庄司悟のリクエスト魂でも継続されている。
+イントロの匠、お名前ロケンローのコーナーは、庄司悟のリクエスト魂でも継続されている。
 
 ### 過去のコーナー
 
@@ -75,7 +71,7 @@
   - 17:05 トラフィックインフォメーション
   - 17:15 イントロの匠
   - 17:30 トラフィックインフォメーション＜提供：[パインリッジリゾーツ芸北](https://ja.wikipedia.org/wiki/パインリッジリゾーツ芸北 "wikilink")＞
-  - 17:35 ゲットニュービート＜提供：[みやび](https://ja.wikipedia.org/wiki/みやび "wikilink")＞
+  - 17:35 ゲットニュービート＜提供：[みやび](https://ja.wikipedia.org/wiki/雅_\(曖昧さ回避\) "wikilink")＞
   - 18:05 トラフィックインフォメーション
   - 18:30 トラフィックインフォメーション＜提供：[日産プリンス広島](https://ja.wikipedia.org/wiki/日産プリンス広島 "wikilink")＞
   - 18:35 音楽アレアレ大辞典
@@ -86,15 +82,15 @@
 
 ### 番組終了時点のスタッフ
 
-  - ディレクター　ワケルくん
-  - ミキサー　　　草ちゃん（1月に新加入。番組終了に伴い1クールで卒業したが、2006年3月31日のリクエスト魂からスタッフに復帰）
-  - AD　　　　　　ナナミ
+  - ディレクター - ワケルくん
+  - ミキサー - 草ちゃん（1月に新加入。番組終了に伴い1クールで卒業したが、2006年3月31日のリクエスト魂からスタッフに復帰）
+  - AD - ナナミ
       - ディレクターとADは庄司悟のリクエスト魂を引き続き担当。2006年3月31日の放送から、ミキサーの草ちゃんも仲間に加わった
 
 ### 初代のスタッフ
 
-  - ディレクター　キャサリン
-  - ミキサー　　　ケンちゃん
-  - AD　　　　　　くわっち（ナナコ）
+  - ディレクター - キャサリン
+  - ミキサー - ケンちゃん
+  - AD - くわっち（ナナコ）
 
 [Category:広島エフエム放送の番組](https://ja.wikipedia.org/wiki/Category:広島エフエム放送の番組 "wikilink") [Category:2001年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のラジオ番組_\(日本\) "wikilink")

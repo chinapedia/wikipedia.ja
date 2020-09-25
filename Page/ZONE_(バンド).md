@@ -11,7 +11,7 @@
 
 デビュー時には、「[バンド](../Page/バンド_\(音楽\).md "wikilink")」でもなく、また「[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")」でもない、[音楽ユニット](../Page/音楽ユニット.md "wikilink")の新ジャンル「**[バンドル](https://ja.wikipedia.org/wiki/バンドル_\(アイドル\) "wikilink")**(*BANDOL*)」として売り出される。当初は楽器の演奏力はなく、1stシングルと2ndシングルはパフォーマンスの一環として[楽器](../Page/楽器.md "wikilink")を持っているのみだった。しかし、3rdシングルからは本格的に楽器演奏をはじめ（4thシングルを除く）、最終的には実力派ガールズバンドとしても注目されるようになった。
 
-名前の由来は、ふたつの意味と願いが込められている。 ひとつ目は、まず『ZONE』が本来持つ「領域」という意味。 「彼女たち自身が持って生まれた果てしない領域を超えた存在であるように…」彼女たちが持つ未知なる可能性と新しい世代のパワーを信じ、広がる「領域」。また、現実の「領域」を超える存在になってほしいという願い…。札幌から始まり、北海道～日本中、日本～世界中に広がってほしいという願いが込められている。ふたつ目は、アルファベットのいちばん最後である「Ｚ」から始まること。『ZONE』という単語はアルファベットの最後の文字である「Ｚ」から始まる。「Ｚ」からのスタート… すなわち底辺の位置、「ゼロ」からスタートして、「TOP」を目指して上へ登りつめていってほしいという願いが込められている。
+名前の由来は、ふたつの意味と願いが込められている。 ひとつ目は、まず『ZONE』が本来持つ「領域」という意味。 「彼女たち自身が持って生まれた果てしない領域を超えた存在であるように…」彼女たちが持つ未知なる可能性と新しい世代のパワーを信じ、広がる「領域」。また、現実の「領域」を超える存在になってほしいという願い…。札幌から始まり、北海道～日本中、日本～世界中に広がってほしいという願いが込められている。ふたつ目は、アルファベットの最後である「Ｚ」から始まること。『ZONE』という単語はアルファベットの最後の文字である「Ｚ」から始まる。「Ｚ」からのスタート… すなわち底辺の位置、「ゼロ」からスタートして、「TOP」を目指して上へ登りつめていってほしいという願いが込められている。
 
 代表曲は[2001年](../Page/2001年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")に発売し、[TBSドラマ](../Page/TBSテレビ.md "wikilink")『[キッズ・ウォー](../Page/キッズ・ウォー.md "wikilink")3』（[CBC制作](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）の主題歌にもなり、[オリコンチャート](../Page/オリコンチャート.md "wikilink")最高2位を獲得した「[secret base 〜君がくれたもの〜](https://ja.wikipedia.org/wiki/secret_base_〜君がくれたもの〜 "wikilink")」。[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")出場3回のうち、2回で披露されたほか、2005年[4月1日](../Page/4月1日.md "wikilink")、[日本武道館](../Page/日本武道館.md "wikilink")から解散[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")の模様を『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系）で全国生中継された際にもこの曲が演奏された。
 
@@ -30,7 +30,7 @@
     ボーカル、[ギター](../Page/ギター.md "wikilink")担当。最年長のメンバーで初代[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")を務めた。結成時から在籍していたが2003年末に卒業し、以降、ZONEに関する活動・再結成には関与していない。
   - [MIZUHO](../Page/MIZUHO.md "wikilink")（ミズホ）A型
     本名：斉藤瑞穂(さいとう みずほ) 生年月日：
-    ボーカル、[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")担当。5thシングル「[夢ノカケラ・・・](../Page/夢ノカケラ・・・.md "wikilink")」ではキーボードも担当。後に2代目リーダー。結成時から2005年の解散まで在籍。再結成には参加していない。既に結婚し子供もいることと音楽から遠ざかりドラムももう叩けないことを理由に断られたことが雑誌やTVで語られている\[4\]。
+    ボーカル、[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")担当。5thシングル「[夢ノカケラ・・・](../Page/夢ノカケラ・・・.md "wikilink")」ではキーボードも担当。後に2代目リーダー。結成時から2005年の解散まで在籍。再結成には参加していない。理由としては、既に結婚し子供もいることと音楽から遠ざかりドラムはもう叩けないことを理由に断られたことが雑誌やTVで語られている\[4\]。
   - [TOMOKA](../Page/西村朝香.md "wikilink")（トモカ）O型
     本名：西村朝香（にしむら ともか） 生年月日：
     ボーカル、ギター、[キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。インディーズデビュー時の最終候補の5人に入っており、外された後はソロや[RunZ](../Page/RunZ.md "wikilink")のメンバーとして活動していた。2004年にTAKAYOの後任として加入(事実上復帰)し、[2011年](../Page/2011年.md "wikilink")[8月](../Page/8月.md "wikilink")の再結成後も在籍していたが、1度目の再結成延長期間中の同年10月に突如として体調不良を理由に脱退および[芸能界](https://ja.wikipedia.org/wiki/芸能界 "wikilink")[引退](../Page/引退.md "wikilink")を発表し、コメントのみで即日引退した。
@@ -60,9 +60,9 @@
 
 ### 解散
 
-[2005年](../Page/2005年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")、MIZUHOの脱退表明により解散が決定した。MIZUHOが「今年、高校卒業となり、一度自分を見つめ直す時間を持ちたい」と表明したところ、他の3人のメンバーも「MIZUHOが卒業するのでは続けていけない」という結論を出したことがその理由である。
+[2005年](../Page/2005年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")、MIZUHOの脱退表明により解散が決定した。MIZUHOが「今年、高校卒業\[11\]となり、一度自分を見つめ直す時間を持ちたい」と表明したところ、他の3人のメンバーも「MIZUHOが卒業するのでは続けていけない」という結論を出したことがその理由である。
 
-なお、解散後に発売されたベスト盤『[E 〜Complete A side Singles〜](../Page/E_〜Complete_A_side_Singles〜.md "wikilink")』はZONEにとって最初で最後のオリコン1位獲得となった\[11\]。
+なお、解散後に発売されたベスト盤『[E 〜Complete A side Singles〜](../Page/E_〜Complete_A_side_Singles〜.md "wikilink")』はZONEにとって最初で最後のオリコン1位獲得となった\[12\]。
 
 解散までの活動期間は[CDデビュー日から数えて](../Page/コンパクトディスク.md "wikilink")4年（1515日）だった。期間中にはシングル15枚、アルバム3枚＋ベスト1枚の計19枚、ミュージックビデオ3本をリリースした。
 
@@ -76,9 +76,9 @@
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月29日](../Page/4月29日.md "wikilink")、長瀬実夕と舞衣子が、[SHOW-YA](../Page/SHOW-YA.md "wikilink")の[寺田恵子](https://ja.wikipedia.org/wiki/寺田恵子 "wikilink")がプロデュースするライブイベント『[NAONのYAON](../Page/NAONのYAON.md "wikilink")』で「secret base 〜君がくれたもの〜」を披露した。また、この日に限って長瀬実夕、舞衣子と元[プリンセス・プリンセス](https://ja.wikipedia.org/wiki/プリンセス・プリンセス "wikilink")の[富田京子](../Page/富田京子.md "wikilink")、[渡辺敦子](../Page/渡辺敦子.md "wikilink")で「ゾンプリ」というユニットが結成された。なお、ギターとして[SHOW-YA](../Page/SHOW-YA.md "wikilink")のメンバーらも参加した。
 
-2008年[11月30日](../Page/11月30日.md "wikilink")、[東京都](../Page/東京都.md "wikilink")[港区にある](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[ライブハウス](../Page/ライブハウス.md "wikilink")、[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")で開催された麻薬・覚せい剤乱用防止啓発ライブ『POWER OF ART PROJECT 2nd LIVE』に、元ZONEのメンバーのうち長瀬実夕、舞衣子、西村朝香の3人が出演し、全員のステージが終わった後、ステージ上に3人が揃い、「笑顔日和」を披露した\[12\]。
+2008年[11月30日](../Page/11月30日.md "wikilink")、[東京都](../Page/東京都.md "wikilink")[港区にある](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[ライブハウス](../Page/ライブハウス.md "wikilink")、[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")で開催された麻薬・覚せい剤乱用防止啓発ライブ『POWER OF ART PROJECT 2nd LIVE』に、元ZONEのメンバーのうち長瀬実夕、舞衣子、西村朝香の3人が出演し、全員のステージが終わった後、ステージ上に3人が揃い、「笑顔日和」を披露した\[13\]。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")、舞衣子は「MARIA」解散から7ヶ月後に5人組バンド「FRASH BACK」\[13\]の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")として活動している。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")、舞衣子は「MARIA」解散から7ヶ月後に5人組バンド「FRASH BACK」\[14\]の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")として活動を開始した。
 
 ### 再結成
 
@@ -86,25 +86,25 @@
 
 2011年[4月2日](../Page/4月2日.md "wikilink")北海道の札幌ペニーレーン24にて、長瀬実夕、MAIKO、西村朝香の3人だけで初の3マンライブ「Z-ONE（ゼットマイナスワン）東北地方太平洋沖地震復興支援LIVE」を行う。ちなみに変更前のタイトルは「2011年お待たせしました〜Z-ONE LIVE決定\!\!」である。
 
-2011年8月に、「[secret base 〜君がくれたもの〜](https://ja.wikipedia.org/wiki/secret_base_〜君がくれたもの〜 "wikilink")」の歌詞に登場する「10年後の8月」の言葉通り、6年ぶりに1ヶ月限定で再結成する\[14\]。再結成のメンバーは、MIYU、MAIKO、TOMOKAの3人で、解散当時メンバーであったMIZUHOや途中脱退したTAKAYOは不参加。MIZUHOは3人に参加を打診されたが、既に結婚し子供がいること、「もうドラムも叩けない」事を理由に不参加となった\[15\]。ライブでは男性のサポートメンバーがドラムを演奏した。TAKAYOに関しては不参加の理由は公表されていない。それと同時にZONEと同世代の女性アーティストが歌うZONEのトリビュートアルバム『[ZONEトリビュート〜君がくれたもの〜](https://ja.wikipedia.org/wiki/ZONEトリビュート〜君がくれたもの〜 "wikilink")』がリリースされることになった。この中で「secret base 〜君がくれたもの〜」のアンサーソングとして書き下ろされた、「約束〜August, 10years later〜」を発表し、8月14日と15日には赤坂BLITZで再結成ライブを行った\[16\]。
+2011年8月に、「[secret base 〜君がくれたもの〜](https://ja.wikipedia.org/wiki/secret_base_〜君がくれたもの〜 "wikilink")」の歌詞に登場する「10年後の8月」の言葉通り、6年ぶりに1ヶ月限定で再結成する\[15\]。再結成のメンバーは、MIYU、MAIKO、TOMOKAの3人で、解散当時メンバーであったMIZUHOや途中脱退したTAKAYOは不参加。MIZUHOは3人に参加を打診されたが、既に結婚し子供がいること、「もうドラムも叩けない」事を理由に不参加となった\[16\]。ライブでは男性のサポートメンバーがドラムを演奏した。TAKAYOに関しては不参加の理由は公表されていない。それと同時にZONEと同世代の女性アーティストが歌うZONEのトリビュートアルバム『[ZONEトリビュート〜君がくれたもの〜](https://ja.wikipedia.org/wiki/ZONEトリビュート〜君がくれたもの〜 "wikilink")』がリリースされることになった。この中で「secret base 〜君がくれたもの〜」のアンサーソングとして書き下ろされた、「約束〜August, 10years later〜」を発表し、8月14日と15日には赤坂BLITZで再結成ライブを行った\[17\]。
 
 その赤坂BLITZでの再結成ライブにて、今後はチャリティイベントなどの出演を中心に活動していくことを明かし、当初8月のみの予定だった活動を年内いっぱいまで延長することを宣言した。
 
-その後2011年[10月15日](../Page/10月15日.md "wikilink")に福家書店新宿サブナード店で写真集『一期一会 ZONE～2011年8月の軌跡～The Promise of year 10th』の発売記念握手会を開催。その握手会にて「私たちの歌を必要としてくれる人たちがいるなら、歌っていきたい」と述べ、継続的な活動を約束した。事実上の完全復活と思われたが、後日誤報であったと事務所から発表された\[17\]\[18\]。
+その後2011年[10月15日](../Page/10月15日.md "wikilink")に福家書店新宿サブナード店で写真集『一期一会 ZONE～2011年8月の軌跡～The Promise of year 10th』の発売記念握手会を開催。その握手会にて「私たちの歌を必要としてくれる人たちがいるなら、歌っていきたい」と述べ、継続的な活動を約束した。事実上の完全復活と思われたが、後日誤報であったと事務所から発表された\[18\]\[19\]。
 
-2011年[10月31日](../Page/10月31日.md "wikilink") 所属事務所ウェブサイトにて、体調不良により同年10月をもってTOMOKAの脱退および芸能界引退を発表。それに伴い、同年11月以降はMIYU、MAIKOの2人での活動となる\[19\]。
+2011年[10月31日](../Page/10月31日.md "wikilink") 所属事務所ウェブサイトにて、体調不良により同年10月をもってTOMOKAの脱退および芸能界引退を発表。それに伴い、同年11月以降はMIYU、MAIKOの2人での活動となる\[20\]。
 
-2011年[12月20日](../Page/12月20日.md "wikilink")、[Zepp](../Page/Zepp.md "wikilink")Tokyoで行われたチャリティライブ『ガンバレ\!\!東北 チャリティーLIVE〜SUPER GIRLS BAND “MESSAGE”〜』に出演。ライブ中のMCで2度目の活動延長を発表。今度は期限を設けず、[2012年](../Page/2012年.md "wikilink")以降も活動を継続することを発表した\[20\]。
+2011年[12月20日](../Page/12月20日.md "wikilink")、[Zepp](../Page/Zepp.md "wikilink")Tokyoで行われたチャリティライブ『ガンバレ\!\!東北 チャリティーLIVE〜SUPER GIRLS BAND “MESSAGE”〜』に出演。ライブ中のMCで2度目の活動延長を発表。今度は期限を設けず、[2012年](../Page/2012年.md "wikilink")以降も活動を継続することを発表した\[21\]。
 
 2012年には現役時代以来の新作にして結果的に唯一の新作シングルを発売し、ツアーを行った。同年12月にツアーのDVD/Blu-rayが発表されたが、これがZONEとしての最終作品となった。
 
-[2013年](../Page/2013年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink")、[MIYUが当日付で契約解除されたことが所属事務所から発表された](../Page/長瀬実夕.md "wikilink")\[21\]。原因は前述の通りだが、これによりメンバーは[MAIKO一人のみとなった](../Page/MAIKO_\(ソロシンガー\).md "wikilink")。
+[2013年](../Page/2013年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink")、[MIYUが当日付で契約解除されたことが所属事務所から発表された](../Page/長瀬実夕.md "wikilink")\[22\]。原因は前述の通りだが、これによりメンバーは[MAIKO一人のみとなった](../Page/MAIKO_\(ソロシンガー\).md "wikilink")。
 
-2013年[2月15日](../Page/2月15日.md "wikilink")、MIYUのオフィシャルブログが閉鎖された\[22\]。
+2013年[2月15日](../Page/2月15日.md "wikilink")、MIYUのオフィシャルブログが閉鎖された\[23\]。
 
 ### 活動終了
 
-2013年[3月2日](../Page/3月2日.md "wikilink")、オフィシャルサイトにて唯一人残ったメンバーのMAIKOがメッセージを発表、同年[4月7日](../Page/4月7日.md "wikilink")にShibuya O-Eastで開催されるイベント「ZONE FINAL EVENT」をもって活動を終了させることを発表した\[23\]\[24\]\[25\]。
+2013年[3月2日](../Page/3月2日.md "wikilink")、オフィシャルサイトにて唯一人残ったメンバーのMAIKOがメッセージを発表、同年[4月7日](../Page/4月7日.md "wikilink")にShibuya O-Eastで開催されるイベント「ZONE FINAL EVENT」をもって活動を終了させることを発表した\[24\]\[25\]\[26\]。
 
 4月7日、MAIKOによるイベント「ZONE FINAL EVENT」を持って活動終了。MAIKOはJack & Queenとして1人事務所に残留しミニアルバムをリリースしたが、2014年2月には音楽性の違いを理由に解散。これによりZONEメンバー全員が事務所を離脱し、芸能界から引退した。
 
@@ -129,9 +129,9 @@
   - 2004年[8月](../Page/8月.md "wikilink") 『ZONE SUMMER LIVE 2004〜ガッツン！といっきまSHOW\!\!〜』
   - 2005年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") 『ZONE SPRING TOUR 2005〜夏まで待てない！ZONE 桜ツアー〜改め ZONE卒業コンサート』
   - 2005年[4月1日](../Page/4月1日.md "wikilink") [日本武道館](../Page/日本武道館.md "wikilink")にて卒業コンサート最後の公演。同日で解散。
-  - [2011年](../Page/2011年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink") 2011年8月の1ヶ月間限定で再結成することを発表\[26\]。
+  - [2011年](../Page/2011年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink") 2011年8月の1ヶ月間限定で再結成することを発表\[27\]。
   - 2011年[8月14日](../Page/8月14日.md "wikilink")・[15日](../Page/8月15日.md "wikilink") 『「10年後の8月・・・」ZONE復活しまっSHOW\!\!〜同窓会だよ全員集合！〜』内で年内いっぱいまでの活動をすることを発表。実質、再結成の活動期間が延長されることになった。
-  - 2011年[10月31日](../Page/10月31日.md "wikilink") TOMOKA、脱退および芸能界引退を発表\[27\]。
+  - 2011年[10月31日](../Page/10月31日.md "wikilink") TOMOKA、脱退および芸能界引退を発表\[28\]。
   - 2011年[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") 2人となったZONEが2012年以降も活動継続を発表。
   - 2012年[6月](../Page/6月.md "wikilink") 約7年ぶりのニューシングル「[treasure of the heart 〜キミとボクの奇跡〜](https://ja.wikipedia.org/wiki/treasure_of_the_heart_〜キミとボクの奇跡〜 "wikilink")」を6日にリリース。その3日後の9日からは再結成後初の全国ライブツアー『ZONE7年振りツアー「2人になりましたけど…NANIKA?」』が行われる。
   - 2013年2月 所属事務所がMIYUとの契約を解除。
@@ -294,7 +294,7 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/treasure_of_the_heart_〜キミとボクの奇跡〜" title="wikilink">treasure of the heart 〜キミとボクの奇跡〜</a></strong></p></td>
 <td><p>18位</p></td>
 <td><p>MIYU、MAIKOの2人体制になった新生ZONEの7年振りのシングル。<br />
-チャリティーシングル。[28]</p></td>
+チャリティーシングル。[29]</p></td>
 </tr>
 </tbody>
 </table>
@@ -416,8 +416,8 @@
 
   - ぞーんぽた〜じゅ
     2003年、[北海道文化放送](../Page/北海道文化放送.md "wikilink")制作・放送のテレビ番組。毎週土曜日の18:30〜19:00までの番組で、ZONEのメンバーが司会進行を務めたほか、当時ZONE加入前であったTOMOKAも、サポートメンバー[RunZ](../Page/RunZ.md "wikilink")の「ともか」として出演していた。
-      - ゲスト出演者には「鈴の音」（みさこのみ）や半沢悠などランタイム所属(当時)のタレントだったが、1度だけランタイム所属タレント以外のゲストを招いたことがある。その時のゲストは[IZAM](../Page/IZAM.md "wikilink")だった。
-      - エンディングは放送時点でのZONEの新曲を起用したが、「鈴の音」がリリース前後には「心の扉」がエンディングに起用された。
+      - 基本的にゲスト出演者は「鈴の音」（みさこのみ）や半沢悠などランタイム所属(当時)のタレントだったが、1度だけランタイム所属タレント以外のゲストを招いたことがある。その時のゲストは[IZAM](../Page/IZAM.md "wikilink")だった。
+      - エンディングは放送時点でのZONEの新曲を起用したが、「鈴の音」の「心の扉」がエンディングに起用された事がある。
       - 当初は番組タイトルが決まらず、事前にZONEの公式サイトにて、応募された中からダーツで選ばれた。
       - 番組企画としては以下のものがあった。
           - 「大スタアへの道」（ZONEが大スターになるための修行？企画。一位になればポイントを獲得できる仕組みである）
@@ -425,11 +425,11 @@
           - 「MIZUHOのストライクZONE」（コーナーの進行はMIZUHOで、笑いのツボにはまった写真をZONEが判定する企画。最終回では、番組スタッフが判定員になった。）
           - また特別企画としては、ZONEとRunZと鈴の音のれいなとともに修学旅行をしたり、MIZUHOプロデュースでRunZのメンバー同士で、ボウリング大会や、カラオケチキン（当時は、77点に近いと点数が加算される仕組み）などの企画があった。
       - この番組の後期から、とあるケーキ屋の新しいケーキをメンバーがプロデュースし、売上に貢献した。
-      - 第19回の放送を最後に終了した（休止宣言をしたものの、それ以降復活したことはない）。
+      - 第19回の放送を最後に終了した\[30\]。
   - CDTV-NEO（[TBS](../Page/TBSテレビ.md "wikilink")）
     CDTV-NEOの番組内にて放送された、ZONEの旅行企画。
       - 「ぶらり東京4人旅」
-        2001年11月16日と23日に、前編・後編で2週にわたって放送された。ZONEメンバーが東京を旅するという企画。[浅草花やしき](../Page/浅草花やしき.md "wikilink")、[下北沢](../Page/下北沢.md "wikilink")、[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")を訪れた。道中、MIZUHOが財布を落とすというハプニングが起こった。
+        2001年11月16日と23日に、前編・後編で2週にわたって放送された。ZONEメンバーが東京を旅するという企画で、[浅草花やしき](../Page/浅草花やしき.md "wikilink")、[下北沢](../Page/下北沢.md "wikilink")、[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")を訪れた。道中、MIZUHOが財布を落とすというハプニングが起こった。
   - 北の熱血フード応援団 ケッパレ\!ごはん（2012年4月25日 -12月 、[HBC](../Page/北海道放送.md "wikilink")）
     毎月最終週水曜日番組内コーナー「お泊まり＊ZONE」出演。
     10月から毎月最終月曜日に変更。
@@ -515,7 +515,7 @@
       - 3月22日 愛知厚生年金会館（名古屋）
       - 3月25日 [NHKホール](../Page/NHKホール.md "wikilink")（東京）
       - 3月28日 [北海道厚生年金会館](../Page/さっぽろ芸術文化の館.md "wikilink")（札幌）
-  - ZONE FINAL in 日本武道館（ラストコンサート）\[29\]
+  - ZONE FINAL in 日本武道館（ラストコンサート）\[31\]
       - 4月1日 [日本武道館](../Page/日本武道館.md "wikilink")（東京）
 
 #### 2011年
@@ -570,7 +570,7 @@
   -
 [Category:ZONE](https://ja.wikipedia.org/wiki/Category:ZONE "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:ガールズバンド](https://ja.wikipedia.org/wiki/Category:ガールズバンド "wikilink") [Category:ランタイムミュージックエンタテインメント](https://ja.wikipedia.org/wiki/Category:ランタイムミュージックエンタテインメント "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:1997年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に結成した音楽グループ "wikilink") [Category:2005年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に解散した音楽グループ "wikilink") [Category:2011年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2011年に再結成した音楽グループ "wikilink") [Category:2013年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2013年に解散した音楽グループ "wikilink")
 
-1.  ZONE解散と共に2005年4月30日にファンクラブの運営を完了した。後日、一部の会員には会費の払い戻しや、直筆サイン色紙と卒業コンサート記念写真が送付された。
+1.  ZONE解散に伴い、2005年4月30日を持ってファンクラブの運営を終了した。後日、一部の会員には会費の払い戻しが行われた他、直筆サイン色紙と卒業コンサート記念写真が送付された。
 2.  [MAIKOのみ](../Page/MAIKO_\(ソロシンガー\).md "wikilink")、出生は[大阪府](../Page/大阪府.md "wikilink")[吹田市](../Page/吹田市.md "wikilink")で幼少期まで過ごしていた。
 3.  なお、後に加入する**[TOMOKA](../Page/西村朝香.md "wikilink")**も最終候補に入っていた。
 4.  一部メディアでは産休のため活動休止中と扱われたが、誤りである。
@@ -580,22 +580,24 @@
 8.  [secret base 〜君がくれたもの〜のクレジットと夢ノカケラ](https://ja.wikipedia.org/wiki/secret_base_〜君がくれたもの〜 "wikilink")・・・のPVで確認出来る。
 9.  [glory colorsのクレジットおよびPVで確認出来る](https://ja.wikipedia.org/wiki/glory_colors "wikilink")。
 10. [ZONE期間限定復活SP〜第二夜 ニコニコ本社原宿にZONEが登場！〜 - ニコニコ生放送](http://live.nicovideo.jp/watch/lv58141361) 閲覧：2011年8月6日
-11. 解散後にシングル、アルバムを通じて初のオリコンチャート1位獲得は[ビートルズ](../Page/ビートルズ.md "wikilink")以来2組目。また[邦楽](../Page/邦楽.md "wikilink")では史上初、また最近では[デスティニーズ・チャイルド](../Page/デスティニーズ・チャイルド.md "wikilink")のラストアルバム『ナンバーワンズ』が1位になっている。
-12. 舞衣子はMARIAのメンバーとして出演した。このほか、半澤悠も出演した。また、西村朝香は復帰後初のライブである。
-13. [本日「Voice＆Rythme vol.23」開催です\!](http://blog.livedoor.jp/vws_voice/archives/51484530.html)、11月20日、閲覧：11月30日
-14. ただし、本人達がその歌詞に気づいたのは再結成決定後だった。
-15.
-16. [ZONE“10年後の8月”限定で再結成](http://www.sanspo.com/geino/news/110520/gnj1105200505013-n1.htm)（サンスポ、2011年5月20日）
-17. [今回の報道について](http://ameblo.jp/nagasemiyu/entry-11049341885.html)2011年10月16日、閲覧：2011年12月14日
-18. [「ZONE活動期間延長宣言」報道について](http://www.runtime.co.jp/runtime_info.php?info_id=17)2011年10月16日、閲覧：2011年12月14日
-19. [ZONEのTOMOKAこと西村 朝香 より皆さんへご報告があります。](http://www.runtime.co.jp/runtime_info.php?info_id=19)、2011年10月31日、閲覧：11月1日
-20.
+11. この年(2005年)はMIYU以外のメンバーが高校を卒業する年だった。
+12. 解散後にシングル、アルバムを通じて初のオリコンチャート1位獲得は[ビートルズ](../Page/ビートルズ.md "wikilink")以来2組目で、[邦楽](../Page/邦楽.md "wikilink")では史上初。なお、最近では[デスティニーズ・チャイルド](../Page/デスティニーズ・チャイルド.md "wikilink")のラストアルバム『ナンバーワンズ』が同様に1位になっている。
+13. 舞衣子はMARIAのメンバーとして出演した。このほか、半澤悠も出演した。また、西村朝香は復帰後初のライブである。
+14. [本日「Voice＆Rythme vol.23」開催です\!](http://blog.livedoor.jp/vws_voice/archives/51484530.html)、11月20日、閲覧：11月30日
+15. ただし、本人達がその歌詞に気づいたのは再結成決定後だった。
+16.
+17. [ZONE“10年後の8月”限定で再結成](http://www.sanspo.com/geino/news/110520/gnj1105200505013-n1.htm)（サンスポ、2011年5月20日）
+18. [今回の報道について](http://ameblo.jp/nagasemiyu/entry-11049341885.html)2011年10月16日、閲覧：2011年12月14日
+19. [「ZONE活動期間延長宣言」報道について](http://www.runtime.co.jp/runtime_info.php?info_id=17)2011年10月16日、閲覧：2011年12月14日
+20. [ZONEのTOMOKAこと西村 朝香 より皆さんへご報告があります。](http://www.runtime.co.jp/runtime_info.php?info_id=19)、2011年10月31日、閲覧：11月1日
 21.
 22.
 23.
 24.
 25.
-26. [★ご報告★](http://ameblo.jp/nagasemiyu/entry-10896999497.html)、2011年5月20日、閲覧：6月25日
-27. [ZONEのTOMOKAこと西村 朝香 より皆さんへご報告があります。](http://www.runtime.co.jp/runtime_info.php?info_id=19)、2011年10月31日、閲覧：11月1日
-28.
-29. [FENDER OFFICIAL FAN CLUB JAPAN](http://www.fender.jp/artist/detail.php?aid=fa_0076)
+26.
+27. [★ご報告★](http://ameblo.jp/nagasemiyu/entry-10896999497.html)、2011年5月20日、閲覧：6月25日
+28. [ZONEのTOMOKAこと西村 朝香 より皆さんへご報告があります。](http://www.runtime.co.jp/runtime_info.php?info_id=19)、2011年10月31日、閲覧：11月1日
+29.
+30. 休止宣言をしたものの、それ以降復活したことはない。
+31. [FENDER OFFICIAL FAN CLUB JAPAN](http://www.fender.jp/artist/detail.php?aid=fa_0076)

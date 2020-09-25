@@ -64,7 +64,10 @@
 | [2014](https://ja.wikipedia.org/wiki/2014_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 7位  | **61** | 38  | 17 | 10 | 11 | 36 | 24 |
 | [2015](https://ja.wikipedia.org/wiki/2015_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 3位  | **68** | 38  | 20 | 8  | 10 | 52 | 32 |
 | [2016](https://ja.wikipedia.org/wiki/2016_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 9位  | **53** | 38  | 14 | 11 | 13 | 41 | 44 |
-| [2017](https://ja.wikipedia.org/wiki/2017_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") |     |        |     |    |    |    |    |    |
+| [2017](https://ja.wikipedia.org/wiki/2017_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | ４位  |        |     |    |    |    |    |    |
+| 2018                                                                      | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 4位  |        |     |    |    |    |    |    |
+| 2019                                                                      | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 4位  |        |     |    |    |    |    |    |
+| 2020                                                                      | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") |     |        |     |    |    |    |    |    |
 
 ## 現所属メンバー
 

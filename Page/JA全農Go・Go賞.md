@@ -751,7 +751,7 @@
 <td><p>好捕賞</p></td>
 <td><p>英智</p></td>
 <td><p>中日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中村真人" title="wikilink">中村真人</a></p></td>
+<td><p><a href="../Page/中村真人_(野球).md" title="wikilink">中村真人</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>8月</p></td>

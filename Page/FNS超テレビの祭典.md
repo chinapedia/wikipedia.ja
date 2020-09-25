@@ -67,14 +67,14 @@
 
 ## 主なスタッフ
 
-  - 技術：共同テレビジョン、八峯テレビ
-  - 美術：フジアール、アックス
-  - 編集：ビームテレビセンター、IMAGICA、TDKコア、ヴィジュアルベイ
+  - 技術：[共同テレビジョン](../Page/共同テレビジョン.md "wikilink")、[八峯テレビ](../Page/八峯テレビ.md "wikilink")
+  - 美術：[フジアール](../Page/フジアール.md "wikilink")、[アックス](../Page/アックス.md "wikilink")
+  - 編集：ビームテレビセンター、[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")、[TDKコア](https://ja.wikipedia.org/wiki/TDKコア "wikilink")、ヴィジュアルベイ
   - 音響効果：ジャイロ 現・スカイウォーカー（有馬克己、橅木正志）ほか
-  - ディレクター：今井康之（平成教育ブロック）、[井上晃一](../Page/井上晃一.md "wikilink")（ヒポカンパスブロック）ほか
+  - ディレクター：今井康之（平成教育ブロック）、[井上晃一](../Page/井上晃一.md "wikilink")（ヒポカンパスブロック）、[田中経一](../Page/田中経一.md "wikilink")（料理の鉄人ブロック） ほか
   - 演出：[上川伸廣](../Page/上川伸廣.md "wikilink")（イースト）／[坪田譲治](https://ja.wikipedia.org/wiki/坪田譲治 "wikilink")
-  - プロデューサー：角井英之 ほか
-  - 協力：日本テレワーク（料理の鉄人ブロック）、BEE BRAIN（BANG BANG BANGブロック）、ユニオン映画（ヒポカンパスブロック）
+  - プロデューサー：角井英之／[水口昌彦](../Page/水口昌彦.md "wikilink")、西敏也、岡崎洋三、[松尾利彦](https://ja.wikipedia.org/wiki/松尾利彦 "wikilink") ほか
+  - 協力：[日本テレワーク](../Page/日本テレワーク.md "wikilink")（料理の鉄人ブロック）、BEE BRAIN（BANG BANG BANGブロック）、[ユニオン映画](../Page/ユニオン映画.md "wikilink")（ヒポカンパスブロック）
   - 制作協力：[イースト](https://ja.wikipedia.org/wiki/イースト・エンタテインメント "wikilink")
   - 制作著作：フジテレビ
 

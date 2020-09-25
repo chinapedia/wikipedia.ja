@@ -252,8 +252,7 @@ M2</p></td>
 
   - [ディグダグII（ファミリーコンピュータ版）](https://www.nintendo.co.jp/titles/20010000013747) - [Wii U](https://ja.wikipedia.org/wiki/Wii_U "wikilink")[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")
 
-  - （英語）
-
+  -
 [Category:1985年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1985年のアーケードゲーム "wikilink") [Category:1986年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1986年のファミリーコンピュータ用ソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:X68000用ゲームソフト](https://ja.wikipedia.org/wiki/Category:X68000用ゲームソフト "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:固定画面アクションゲーム](https://ja.wikipedia.org/wiki/Category:固定画面アクションゲーム "wikilink") [Category:島を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:島を舞台としたコンピュータゲーム "wikilink") [Category:ディスクシステム用ソフト](https://ja.wikipedia.org/wiki/Category:ディスクシステム用ソフト "wikilink") [Category:バンダイナムコのアーケードゲーム](https://ja.wikipedia.org/wiki/Category:バンダイナムコのアーケードゲーム "wikilink") [Category:ナムコのゲームソフト](https://ja.wikipedia.org/wiki/Category:ナムコのゲームソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink")
 
 1.

@@ -75,7 +75,7 @@ MY OLYMPICおよびMY OLYMPIC+→MY OLYMPIC STORYは前番組『[EXILE EX-PRESS]
 
 MY OLYMPICはFM大阪・FM AICHI・FM FUKUOKA以外は『[ONE MORNING（月曜 - 木曜） / ONE MORNING FRIDAY（金曜）](https://ja.wikipedia.org/wiki/ONE_MORNING "wikilink")』に内包\[3\]。かつては東京・大阪・福岡などの基幹局で放送時間が異なる例が多々あった\[4\]。その後は徐々に放送時間がそろえられていったが、福岡では2019年3月まで自主編成を優先していたため1時間先行放送していた。同年4月より同時ネットへ移行し、放送開始から20年でようやく全局同時放送へこぎつけた。
 
-MY OLYMPIC αはTOKYO FMでは独立に、JFN系列の一部地域では『[Seasoning -season your life with music-](https://ja.wikipedia.org/wiki/Seasoning_-season_your_life_with_music- "wikilink")』（月曜 - 木曜）、『[FRIDAY GOES ON\! 〜あっ、それいただきっ\!〜](../Page/FRIDAY_GOES_ON!_〜あっ、それいただきっ!〜.md "wikilink")』（金曜）にそれぞれ内包して放送。\[5\]
+MY OLYMPIC αはTOKYO FMでは独立に、JFN系列の一部地域では『[Seasoning -season your life with music-](https://ja.wikipedia.org/wiki/Seasoning_-season_your_life_with_music- "wikilink")』（月曜 - 木曜）、『[FRIDAY GOES ON\! 〜あっ、それいただきっ\!〜](../Page/FRIDAY_GOES_ON!_〜あっ、それいただきっ!〜.md "wikilink")』（金曜）にそれぞれ内包して放送\[5\]。
 
 全局、「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")」・「radiko.jpプレミアム」で聴取可能。放送時間の早い順から記載。
 
@@ -188,67 +188,67 @@ MY OLYMPIC αはTOKYO FMでは独立に、JFN系列の一部地域では『[Seas
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/三重県" title="wikilink">三重県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三重エフエム放送" title="wikilink">三重エフエム放送</a>（レディオキューブ FM三重）★</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/三重エフエム放送" title="wikilink">三重エフエム放送</a>（レディオキューブ FM三重）</p></td>
 <td><p>[16]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
-<td><p><a href="../Page/エフエム大阪.md" title="wikilink">エフエム大阪</a>（FM大阪）★</p></td>
+<td><p><a href="../Page/エフエム大阪.md" title="wikilink">エフエム大阪</a>（FM大阪）</p></td>
 <td><p>[17]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/兵庫県.md" title="wikilink">兵庫県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/兵庫エフエム放送" title="wikilink">兵庫エフエム放送</a>（Kiss FM KOBE）★</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/兵庫エフエム放送" title="wikilink">兵庫エフエム放送</a>（Kiss FM KOBE）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/滋賀県.md" title="wikilink">滋賀県</a></p></td>
-<td><p><a href="../Page/エフエム滋賀.md" title="wikilink">エフエム滋賀</a>（e-radio）★</p></td>
+<td><p><a href="../Page/エフエム滋賀.md" title="wikilink">エフエム滋賀</a>（e-radio）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/広島県.md" title="wikilink">広島県</a></p></td>
-<td><p><a href="../Page/広島エフエム放送.md" title="wikilink">広島エフエム放送</a>（HFM）★</p></td>
+<td><p><a href="../Page/広島エフエム放送.md" title="wikilink">広島エフエム放送</a>（HFM）</p></td>
 <td><p>[18]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エフエム山口" title="wikilink">エフエム山口</a>（FMY）★</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/エフエム山口" title="wikilink">エフエム山口</a>（FMY）</p></td>
 <td><p>[19]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/島根県.md" title="wikilink">島根県</a>・<a href="../Page/鳥取県.md" title="wikilink">鳥取県</a></p></td>
-<td><p><a href="../Page/エフエム山陰.md" title="wikilink">エフエム山陰</a>（V-air）★</p></td>
+<td><p><a href="../Page/エフエム山陰.md" title="wikilink">エフエム山陰</a>（V-air）</p></td>
 <td><p>[20]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a></p></td>
-<td><p><a href="../Page/岡山エフエム放送.md" title="wikilink">岡山エフエム放送</a>（FM OKAYAMA）★</p></td>
+<td><p><a href="../Page/岡山エフエム放送.md" title="wikilink">岡山エフエム放送</a>（FM OKAYAMA）</p></td>
 <td><p>[21]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/香川県.md" title="wikilink">香川県</a></p></td>
-<td><p><a href="../Page/エフエム香川.md" title="wikilink">エフエム香川</a>（FM香川）★</p></td>
+<td><p><a href="../Page/エフエム香川.md" title="wikilink">エフエム香川</a>（FM香川）</p></td>
 <td><p>[22]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/愛媛県.md" title="wikilink">愛媛県</a></p></td>
-<td><p><a href="../Page/エフエム愛媛.md" title="wikilink">エフエム愛媛</a>（JOEU-FM）★</p></td>
+<td><p><a href="../Page/エフエム愛媛.md" title="wikilink">エフエム愛媛</a>（JOEU-FM）</p></td>
 <td><p>[23]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/高知県.md" title="wikilink">高知県</a></p></td>
-<td><p><a href="../Page/エフエム高知.md" title="wikilink">エフエム高知</a>（Hi-Six）★</p></td>
+<td><p><a href="../Page/エフエム高知.md" title="wikilink">エフエム高知</a>（Hi-Six）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -260,61 +260,61 @@ MY OLYMPIC αはTOKYO FMでは独立に、JFN系列の一部地域では『[Seas
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
-<td><p><a href="../Page/エフエム福岡.md" title="wikilink">エフエム福岡</a>（FM FUKUOKA）★</p></td>
+<td><p><a href="../Page/エフエム福岡.md" title="wikilink">エフエム福岡</a>（FM FUKUOKA）</p></td>
 <td><p><ref>MY OLYMPIC αは『[[〜Ultra_Radio_Connection〜DIG</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/佐賀県.md" title="wikilink">佐賀県</a></p></td>
-<td><p><a href="../Page/エフエム佐賀.md" title="wikilink">エフエム佐賀</a>（FMS）★</p></td>
+<td><p><a href="../Page/エフエム佐賀.md" title="wikilink">エフエム佐賀</a>（FMS）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
-<td><p><a href="../Page/エフエム長崎.md" title="wikilink">エフエム長崎</a>（FM Nagasaki）★</p></td>
+<td><p><a href="../Page/エフエム長崎.md" title="wikilink">エフエム長崎</a>（FM Nagasaki）</p></td>
 <td><p>[25]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/大分県.md" title="wikilink">大分県</a></p></td>
-<td><p><a href="../Page/エフエム大分.md" title="wikilink">エフエム大分</a>（Air-Radio FM88）★</p></td>
+<td><p><a href="../Page/エフエム大分.md" title="wikilink">エフエム大分</a>（Air-Radio FM88）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
-<td><p><a href="../Page/エフエム熊本.md" title="wikilink">エフエム熊本</a>（FMK）★</p></td>
+<td><p><a href="../Page/エフエム熊本.md" title="wikilink">エフエム熊本</a>（FMK）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/宮崎県.md" title="wikilink">宮崎県</a></p></td>
-<td><p><a href="../Page/エフエム宮崎.md" title="wikilink">エフエム宮崎</a>（JOY FM）★</p></td>
+<td><p><a href="../Page/エフエム宮崎.md" title="wikilink">エフエム宮崎</a>（JOY FM）</p></td>
 <td><p>[26]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
-<td><p><a href="../Page/エフエム鹿児島.md" title="wikilink">エフエム鹿児島</a>（μFM）★</p></td>
+<td><p><a href="../Page/エフエム鹿児島.md" title="wikilink">エフエム鹿児島</a>（μFM）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="../Page/エフエム秋田.md" title="wikilink">エフエム秋田</a>（AFM）★</p></td>
+<td><p><a href="../Page/エフエム秋田.md" title="wikilink">エフエム秋田</a>（AFM）</p></td>
 <td><p>13:55 - 14:00</p></td>
 <td><p>[27][28]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/群馬県" title="wikilink">群馬県</a></p></td>
-<td><p><a href="../Page/エフエム群馬.md" title="wikilink">エフエム群馬</a>（FM GUNMA）★</p></td>
+<td><p><a href="../Page/エフエム群馬.md" title="wikilink">エフエム群馬</a>（FM GUNMA）</p></td>
 <td><p>[29]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
-<td><p><a href="../Page/エフエム沖縄.md" title="wikilink">エフエム沖縄</a>（FM沖縄）★</p></td>
+<td><p><a href="../Page/エフエム沖縄.md" title="wikilink">エフエム沖縄</a>（FM沖縄）</p></td>
 <td><p>21:55 - 22:00</p></td>
 <td><p>[30]</p></td>
 </tr>

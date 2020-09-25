@@ -60,7 +60,7 @@ X2000にあったハモリ・ボイスチェンジ機能はない。
 
 ## 外部リンク
 
-  - [ホームページ](http://web.archive.org/web/20100501222543/http://www.lavca.jp/)（2010年5月1日アーカイブ分）
-  - [製品紹介（株式会社エクシング）](http://web.archive.org/web/20100420145457/http://www.joysound.com/biz/lavca.html)（2010年4月20日アーカイブ分）
+  - [ホームページ](https://web.archive.org/web/20100501222543/http://www.lavca.jp/)（2010年5月1日アーカイブ分）
+  - [製品紹介（株式会社エクシング）](https://web.archive.org/web/20100420145457/http://www.joysound.com/biz/lavca.html)（2010年4月20日アーカイブ分）
 
 [Category:カラオケ](https://ja.wikipedia.org/wiki/Category:カラオケ "wikilink") [Category:エクシング](https://ja.wikipedia.org/wiki/Category:エクシング "wikilink") [Category:タイトー](https://ja.wikipedia.org/wiki/Category:タイトー "wikilink")

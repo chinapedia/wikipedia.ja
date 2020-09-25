@@ -30,7 +30,7 @@
   - [1962年](../Page/1962年.md "wikilink")（昭和37年）4月 - 北海道[阿寒湖温泉](../Page/阿寒湖温泉.md "wikilink")（北海道[阿寒郡](../Page/阿寒郡.md "wikilink")[阿寒町](../Page/阿寒町.md "wikilink")阿寒湖温泉（現：[釧路市](../Page/釧路市.md "wikilink")阿寒町））に支店を開設
   - [1965年](../Page/1965年.md "wikilink")（昭和40年）4月 - [ニュー阿寒ホテル](https://ja.wikipedia.org/wiki/ニュー阿寒ホテル "wikilink")（51室）を阿寒湖温泉に開業
   - [1968年](../Page/1968年.md "wikilink")（昭和43年）[11月](../Page/11月.md "wikilink") - **カラカミ観光株式会社**に商号変更
-  - [1965年](../Page/1965年.md "wikilink")（昭和40年）4月 - 洞爺パークホテル（90室）を洞爺湖温泉に開業
+  - [1970年](../Page/1970年.md "wikilink")（昭和45年）4月 - 洞爺パークホテル（90室）を洞爺湖温泉に開業
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（昭和53年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 洞爺パークホテル サンパレス（335室）（[洞爺サンパレスリゾート&スパ](https://ja.wikipedia.org/wiki/洞爺サンパレスリゾート&スパ "wikilink")）を[洞爺湖温泉](../Page/洞爺湖温泉.md "wikilink")（北海道壮瞥郡[壮瞥町](../Page/壮瞥町.md "wikilink")字[壮瞥温泉](../Page/壮瞥温泉.md "wikilink")）に開業
   - [1979年](../Page/1979年.md "wikilink")（昭和54年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - ニュー阿寒ホテルに高級別館クリスタルを増築オープン（全280室）
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")（昭和55年）[5月](https://ja.wikipedia.org/wiki/5月 "wikilink") - 洞爺パークホテルサンパレスの隣にあったホテル大東を買収・改装の上、「高級別館クリスタル」としてオープン（全459室）

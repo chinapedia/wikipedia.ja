@@ -64,6 +64,7 @@ J-WAVEでのオンエアチャート・[インターネット](../Page/インタ
   - [2019年](../Page/2019年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink") レギュラーチャート30年分を再集計した「究極のJ-WAVEヒット中のヒット100曲」をカウントダウンする9時間の新春特番『**J-WAVE 30TH ANNIVERSARY SPECIAL SAISON CARD TOKIO HOT 100 30 YEAR ULTIMATE COUNTDOWN**』を放送（9:00〜17:55）\[31\]。
   - [2019年](../Page/2019年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink") [あいみょん](https://ja.wikipedia.org/wiki/あいみょん "wikilink")が2月13日にリリースした『瞬間的シックスセンス』から6曲同時チャートインを果たし、歴代最高記録となった\[32\]。さらにこの記録は3週連続続き、こちらも歴代最高記録となっている\[33\]。
   - [2019年](../Page/2019年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") 番組公式Instagramがスタート。さらに[SHISHAMO](https://ja.wikipedia.org/wiki/SHISHAMO "wikilink")がJ-WAVEのスタジオで生演奏した。
+  - [2020年](../Page/2020年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink") [BTSの](https://ja.wikipedia.org/wiki/BTS_\(音楽グループ\) "wikilink")『DYNAMITE』がこのチャートでK-POP初の1位となる\[34\]。
 
 ## ナビゲーター
 
@@ -81,10 +82,10 @@ J-WAVEでのオンエアチャート・[インターネット](../Page/インタ
 <!-- end list -->
 
   -
-    2013年9月22日は仕事の都合で休みとなり、[Sascha](../Page/Sascha.md "wikilink")がピンチヒッターとして出演した\[34\]。
-    2015年1月11日にはクリスが番組直前に体調不良となったため、[DJ TAROと](../Page/DJ_TARO.md "wikilink")[リアド慈英蘭](https://ja.wikipedia.org/wiki/リアド慈英蘭 "wikilink")が急きょ代打ナビゲーターを務めた\[35\]。
-    2017年2月12日はクリスが仕事の都合で休みとなり、[SASCHAと](../Page/Sascha.md "wikilink")[藤田琢己](../Page/藤田琢己.md "wikilink")がピンチヒッターを務めた。ツインでの放送は2004年（前述）以来13年ぶり\[36\]。
-    2017年2月19日はクリスがインフルエンザにかかったことから、2月12日と同様に[SASCHAと](../Page/Sascha.md "wikilink")[藤田琢己](../Page/藤田琢己.md "wikilink")が代打ナビゲートを急遽務めた。2週連続の代打による放送は今回が初めて\[37\]。
+    2013年9月22日は仕事の都合で休みとなり、[Sascha](../Page/Sascha.md "wikilink")がピンチヒッターとして出演した\[35\]。
+    2015年1月11日にはクリスが番組直前に体調不良となったため、[DJ TAROと](../Page/DJ_TARO.md "wikilink")[リアド慈英蘭](https://ja.wikipedia.org/wiki/リアド慈英蘭 "wikilink")が急きょ代打ナビゲーターを務めた\[36\]。
+    2017年2月12日はクリスが仕事の都合で休みとなり、[SASCHAと](../Page/Sascha.md "wikilink")[藤田琢己](../Page/藤田琢己.md "wikilink")がピンチヒッターを務めた。ツインでの放送は2004年（前述）以来13年ぶり\[37\]。
+    2017年2月19日はクリスがインフルエンザにかかったことから、2月12日と同様に[SASCHAと](../Page/Sascha.md "wikilink")[藤田琢己](../Page/藤田琢己.md "wikilink")が代打ナビゲートを急遽務めた。2週連続の代打による放送は今回が初めて\[38\]。
 
 <!-- end list -->
 
@@ -121,7 +122,7 @@ J-WAVEでのオンエアチャート・[インターネット](../Page/インタ
 <!-- end list -->
 
   -
-    今でこそJ-WAVEを代表するナビゲーターの1人である西沢だが、J-WAVE開局初期は裏方の仕事がメインであり、番組初期にディレクターを務めた1人である（二代目。1989年 - 1994年\[38\]）。かつて、2度クリスが遅刻したときにクリスに代わって「**つなぎ**」で喋ったのが西沢。2008年10月のタイムテーブル上での「クリス・ペプラーとジョン・カビラの対談」の中や、TOKIO HOT 100の1000回目の放送でも語られている。\[39\]
+    今でこそJ-WAVEを代表するナビゲーターの1人である西沢だが、J-WAVE開局初期は裏方の仕事がメインであり、番組初期にディレクターを務めた1人である（二代目。1989年 - 1994年\[39\]）。かつて、2度クリスが遅刻したときにクリスに代わって「**つなぎ**」で喋ったのが西沢。2008年10月のタイムテーブル上での「クリス・ペプラーとジョン・カビラの対談」の中や、TOKIO HOT 100の1000回目の放送でも語られている。\[40\]
 
 ## 放送・配信時間
 
@@ -150,7 +151,7 @@ J-WAVEでのオンエアチャート・[インターネット](../Page/インタ
 
 なお、「SLAM JAM」放送週の最新チャートは番組内でTOP10のみ放送される。ただし2013年度分は、前述の通り2013年12月31日に放送された。
 
-また2013年12月31日には「TOKIO HOT 100 WHOLE OF FAME」と名付け、1988-2013年までの26年分の年間チャートで1位をとった曲をFIREWORKS DJ'S DJ URAKENがミックスしたものが放送された\[40\]。
+また2013年12月31日には「TOKIO HOT 100 WHOLE OF FAME」と名付け、1988-2013年までの26年分の年間チャートで1位をとった曲をFIREWORKS DJ'S DJ URAKENがミックスしたものが放送された\[41\]。
 
 レギュラーチャートで1位を獲得したことがないのに年間1位になったのは1996年の[ERIC CLAPTONの](../Page/エリック・クラプトン.md "wikilink")『CHANGE THE WORLD』のみ。またこの楽曲は、レギュラーチャートのTOP10に27週間もエントリーしていたことから、2019年1月1日に放送された30年の総合チャートでも1位となった。
 
@@ -202,7 +203,7 @@ J-WAVEでのオンエアチャート・[インターネット](../Page/インタ
 
 また、毎年10 - 11月に一般のリスナーにポスターを制作してもらい、それらを採用するという企画もある。
 
-なお、2011年度は[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")後に音楽の力が見直された事もあり、"HOPE FOR THE FUTURE"をキャッチフレーズとしたライヴイベント「**TOKIO HOT 100 LIVE 〜Heart to Heart〜**」を行うことになり、開催はなし。2012年度からは名称を「CHART OF THE YEAR」に変更。発表会はJ-WAVEの本社近くの[EX THEATER ROPPONGIで開催](https://ja.wikipedia.org/wiki/EX_THEATER_ROPPONGI "wikilink")。2015年度からは新木場[STUDIO COASTで](../Page/STUDIO_COAST.md "wikilink")「TOKIO HOT 100 FESTIVAL」を開催するようになり、受賞関連のイベントは行われなくなった\[41\]\[42\]。
+なお、2011年度は[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")後に音楽の力が見直された事もあり、"HOPE FOR THE FUTURE"をキャッチフレーズとしたライヴイベント「**TOKIO HOT 100 LIVE 〜Heart to Heart〜**」を行うことになり、開催はなし。2012年度からは名称を「CHART OF THE YEAR」に変更。発表会はJ-WAVEの本社近くの[EX THEATER ROPPONGIで開催](https://ja.wikipedia.org/wiki/EX_THEATER_ROPPONGI "wikilink")。2015年度からは新木場[STUDIO COASTで](../Page/STUDIO_COAST.md "wikilink")「TOKIO HOT 100 FESTIVAL」を開催するようになり、受賞関連のイベントは行われなくなった\[42\]\[43\]。
 
 <table>
 <thead>
@@ -636,7 +637,7 @@ Olympicグループになってからは「Olympic HOT 10 RANKING」と題して
       - 番組開始10周年記念として、第1弾（EMI、PONY CANYON、SONY、Victor、WARNERの各盤）、第2弾（avex、BMG、east west、EMI VOL.II、MERCURY、POLYDOR、UNIVERSALの各盤）の2期に分けて各社からオムニバスCDが発売された。
   - J-WAVE TOKIO HOT100 NEW☆S（2000年）
       - 各レコード会社所属の新鋭アーティストの楽曲を収録した3枚（EMI、SME、WEAの各盤）のオムニバスCDが発売された。
-  - J-WAVE TOKIO HOT 100 30th ANNIVERSARY HITS（2018年）\[43\]\[44\]
+  - J-WAVE TOKIO HOT 100 30th ANNIVERSARY HITS（2018年）\[44\]\[45\]
       - 開局30周年を記念し、各年の代表曲を収録したコンピレーションCD。J-POP EDITION（発売元：[GT music](../Page/ソニー・ミュージックダイレクト.md "wikilink")）と洋楽 EDITION（発売元：[ソニー・ミュージックジャパンインターナショナル](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\)#ソニー・ミュージックレーベルズ "wikilink")）の2種類で、それぞれCD2枚組30曲収録。
 
 ## コミュニティFMで配信されている局
@@ -664,13 +665,13 @@ Olympicグループになってからは「Olympic HOT 10 RANKING」と題して
   - [FMハイ](../Page/シティエフエム静岡.md "wikilink")（静岡）
   - [コーストFM](../Page/エフエムぬまづ.md "wikilink")（沼津）
   - [レディオf](../Page/富士コミュニティエフエム放送.md "wikilink")（富士）
-  - [FM Haro\!](../Page/浜松エフエム放送.md "wikilink")（浜松）\[45\]
+  - [FM Haro\!](../Page/浜松エフエム放送.md "wikilink")（浜松）\[46\]
   - [YES-fm](../Page/エフエムちゅうおう.md "wikilink")（大阪）
-  - [BAN-BANラジオ](https://ja.wikipedia.org/wiki/BAN-BANテレビ#BAN-BANラジオ "wikilink")（加古川、2018年4月から）\[46\]
+  - [BAN-BANラジオ](https://ja.wikipedia.org/wiki/BAN-BANテレビ#BAN-BANラジオ "wikilink")（加古川、2018年4月から）\[47\]
   - [RADIOBIRD](../Page/FM鳥取.md "wikilink")（鳥取）
   - [FMくらしき](../Page/エフエムくらしき.md "wikilink")（倉敷）
   - [FMちゅーピー](../Page/中国コミュニケーションネットワーク.md "wikilink")（広島）
-  - [レディオビンゴ](../Page/エフエムふくやま.md "wikilink")（福山、週によっては休止する場合あり））\[47\]
+  - [レディオビンゴ](../Page/エフエムふくやま.md "wikilink")（福山、週によっては休止する場合あり））\[48\]
   - [FM NANAKO](../Page/エフエム萩.md "wikilink")（萩）
   - [FM761](https://ja.wikipedia.org/wiki/FMサン "wikilink")（坂出、15時から飛び乗り）
   - [ホエールステーション](../Page/高知シティエフエムラジオ放送.md "wikilink")（高知）
@@ -752,17 +753,18 @@ Olympicグループになってからは「Olympic HOT 10 RANKING」と題して
 31. [J-WAVE 30th ANNIVERSARY SPECIAL SAISON CARD TOKIO HOT 100 30 YEAR ULTIMATE COUNTDOWN](https://www.j-wave.co.jp/holiday/20190101/) - J-WAVE 81.3 FM RADIO 2018年12月27日閲覧
 32.  - 2019年2月17日閲覧
 33.  - 2019年3月10日閲覧
-34.  - 2017年2月5日閲覧
+34.  - 2020年9月13日閲覧
 35.  - 2017年2月5日閲覧
 36.  - 2017年2月5日閲覧
-37.  - 2017年2月19日閲覧
-38. このころから『THE VILLAGE』や『[Across The View](../Page/Across_The_View.md "wikilink")』のナビゲーターを務めるようになる。
-39. [J-WAVE WEBSITE : TOKIO HOT100](http://www.j-wave.co.jp/original/tokiohot100/guest_past/past_20071202.htm) - 2016年1月4日閲覧
-40. <http://www.j-wave.co.jp/holiday/20131231_tokio/> - 2016年6月28日閲覧。
-41. <http://www.j-wave.co.jp/sp/topics/1512_tokio.htm>
-42. <http://www.j-wave.co.jp/sp/topics/1701_tokio.htm>
-43. [J-WAVE開局30周年記念CDのジャケット、デザイン決定！ : J-WAVE 81.3 FM RADIO](https://www.j-wave.co.jp/topics/1808_jkt.htm)
-44. [インフォメーション | コンピレーション（邦楽） | ソニーミュージック オフィシャルサイト](https://www.sonymusic.co.jp/artist/Compilation/info/499271)
-45. FM電波のみ。[JCBAインターネットサイマルラジオ](https://ja.wikipedia.org/wiki/JCBAインターネットサイマルラジオ "wikilink")などのインターネットでは[ミュージックバード](../Page/ミュージックバード.md "wikilink")の「J-POP REFRAIN」チャンネルの内容をサイマル放送。
-46. FM電波のみ。JCBAインターネットサイマルラジオなどのインターネットではミュージックバードの「J-Hits」チャンネルの内容をサイマル放送。
-47. FM電波のみ。JCBAインターネットサイマルラジオなどのインターネットではミュージックバードの『Resort Winds』（[エフエム軽井沢](../Page/エフエム軽井沢.md "wikilink")製作）を放送。
+37.  - 2017年2月5日閲覧
+38.  - 2017年2月19日閲覧
+39. このころから『THE VILLAGE』や『[Across The View](../Page/Across_The_View.md "wikilink")』のナビゲーターを務めるようになる。
+40. [J-WAVE WEBSITE : TOKIO HOT100](http://www.j-wave.co.jp/original/tokiohot100/guest_past/past_20071202.htm) - 2016年1月4日閲覧
+41. <http://www.j-wave.co.jp/holiday/20131231_tokio/> - 2016年6月28日閲覧。
+42. <http://www.j-wave.co.jp/sp/topics/1512_tokio.htm>
+43. <http://www.j-wave.co.jp/sp/topics/1701_tokio.htm>
+44. [J-WAVE開局30周年記念CDのジャケット、デザイン決定！ : J-WAVE 81.3 FM RADIO](https://www.j-wave.co.jp/topics/1808_jkt.htm)
+45. [インフォメーション | コンピレーション（邦楽） | ソニーミュージック オフィシャルサイト](https://www.sonymusic.co.jp/artist/Compilation/info/499271)
+46. FM電波のみ。[JCBAインターネットサイマルラジオ](https://ja.wikipedia.org/wiki/JCBAインターネットサイマルラジオ "wikilink")などのインターネットでは[ミュージックバード](../Page/ミュージックバード.md "wikilink")の「J-POP REFRAIN」チャンネルの内容をサイマル放送。
+47. FM電波のみ。JCBAインターネットサイマルラジオなどのインターネットではミュージックバードの「J-Hits」チャンネルの内容をサイマル放送。
+48. FM電波のみ。JCBAインターネットサイマルラジオなどのインターネットではミュージックバードの『Resort Winds』（[エフエム軽井沢](../Page/エフエム軽井沢.md "wikilink")製作）を放送。

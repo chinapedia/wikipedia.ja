@@ -56,6 +56,6 @@
 
   - [株式会社ZAC](http://f-zac.com/)
 
-[Category:コンサルティングファーム](https://ja.wikipedia.org/wiki/Category:コンサルティングファーム "wikilink") [Category:東京都中央区の企業](https://ja.wikipedia.org/wiki/Category:東京都中央区の企業 "wikilink") [Category:2002年設立の企業](https://ja.wikipedia.org/wiki/Category:2002年設立の企業 "wikilink")
+[Category:日本のコンサルティングファーム](https://ja.wikipedia.org/wiki/Category:日本のコンサルティングファーム "wikilink") [Category:東京都中央区の企業](https://ja.wikipedia.org/wiki/Category:東京都中央区の企業 "wikilink") [Category:2002年設立の企業](https://ja.wikipedia.org/wiki/Category:2002年設立の企業 "wikilink")
 
 1.

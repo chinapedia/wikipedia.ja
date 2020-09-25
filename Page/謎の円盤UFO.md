@@ -354,6 +354,8 @@ DVD<br />
   - ★[北日本放送](../Page/北日本放送.md "wikilink")\[10\]
   - ★[福井放送](../Page/福井放送.md "wikilink")\[11\]
   - ★[日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")
+  - ★[西日本放送](../Page/西日本放送.md "wikilink")
+  - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")
 
 ## 書籍
 

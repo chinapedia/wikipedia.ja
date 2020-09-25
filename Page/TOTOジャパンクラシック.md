@@ -15,9 +15,9 @@
 
 優勝者にはレース・トゥ・CMEグローブポイント500点が獲得される。
 
-国内はもちろん、[アメリカからもプレーヤーが賞金総額](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")150万ドル、優勝賞金22万5000ドル（2019年現在）\[3\]を賭けて争う。また、優勝者には副賞として[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")（2008年から）が贈呈される（かつては[BMW](../Page/BMW.md "wikilink")、さらにマツダが副賞だった）。しかし開催時期がアメリカツアーではシーズン終盤戦にあたるため、トップ選手は来日しない。そのため日本選手にとってはアメリカ女子ツアーの大会の中では最も優勝しやすい大会といえる。
+国内はもちろん、[アメリカからもプレーヤーが賞金総額](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")150万ドル、優勝賞金22万5000ドル（2019年現在）\[3\]を賭けて争う。また、優勝者には副賞として[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")（2008年から）が贈呈される（かつては[BMW](../Page/BMW.md "wikilink")、さらにマツダが副賞だった）。2001年から2005年まで[アニカ・ソレンスタム](../Page/アニカ・ソレンスタム.md "wikilink")が5連覇したトーナメントとして有名である。
 
-2001年から2005年まで[アニカ・ソレンスタム](../Page/アニカ・ソレンスタム.md "wikilink")が5連覇したトーナメントとして有名である。
+なおは2020年は新型コロナウイルスによる渡航制限を受けて、JLPGA特別公認競技として無観客開催予定\[4\]。
 
 ## 歴代優勝者
 
@@ -172,7 +172,7 @@
 <tr class="even">
 <td><p>1990年</p></td>
 <td><p>デビー・マッシー</p></td>
-<td><p>-11[4]</p></td>
+<td><p>-11[5]</p></td>
 <td><p>埼玉県</p></td>
 <td><p>武蔵丘ゴルフコース</p></td>
 <td></td>
@@ -363,7 +363,7 @@
 </tr>
 <tr class="even">
 <td><p>2014年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Lee_Mi-hyang" title="wikilink">李美香</a>（イ・ミヒャン）[5]　</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Lee_Mi-hyang" title="wikilink">李美香</a>（イ・ミヒャン）[6]　</p></td>
 <td><p>-11</p></td>
 <td></td>
 <td></td>
@@ -372,7 +372,7 @@
 <tr class="odd">
 <td><p>2015年</p></td>
 <td><p><strong>TOTOジャパンクラシック</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アン・ソンジュ" title="wikilink">アン・ソンジュ</a>[6]　</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アン・ソンジュ" title="wikilink">アン・ソンジュ</a>[7]　</p></td>
 <td><p>-16</p></td>
 <td></td>
 <td></td>
@@ -380,14 +380,14 @@
 <tr class="even">
 <td><p>2016年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/馮珊珊" title="wikilink">フォン・シャンシャン</a></p></td>
-<td><p>-13[7]</p></td>
-<td><p>茨城県[8]</p></td>
-<td><p><a href="../Page/太平洋クラブ.md" title="wikilink">太平洋クラブ</a>美野里コース[9]</p></td>
+<td><p>-13[8]</p></td>
+<td><p>茨城県[9]</p></td>
+<td><p><a href="../Page/太平洋クラブ.md" title="wikilink">太平洋クラブ</a>美野里コース[10]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
-<td><p>-19[10]</p></td>
+<td><p>-19[11]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -396,25 +396,25 @@
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/畑岡奈紗" title="wikilink">畑岡奈紗</a></p></td>
-<td><p>-14[11]</p></td>
+<td><p>-14[12]</p></td>
 <td><p>滋賀県</p></td>
 <td><p>瀬田ゴルフコース・北コース</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鈴木愛" title="wikilink">鈴木愛</a>[12]</p></td>
-<td><p>-17[13]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/鈴木愛" title="wikilink">鈴木愛</a>[13]</p></td>
+<td><p>-17[14]</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2020年</p></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>茨城県</p></td>
+<td><p>太平洋C美野里C</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -423,7 +423,7 @@
 ## テレビ放送について
 
   - アメリカ国内ではLPGAツアーの放映権を持つ[ゴルフ・チャンネルで生中継される](../Page/ザ・ゴルフ・チャンネル.md "wikilink")。しかし2009年以降はWGCの[HSBCチャンピオンズ](https://ja.wikipedia.org/wiki/HSBCチャンピオンズ "wikilink")（開催は中国・上海）と時期が重なることと、大会主催者のMBSの配慮から『[ゴルフセントラル](https://ja.wikipedia.org/wiki/ゴルフセントラル "wikilink")』内でハイライトのみが放送されている。
-  - 日本においては第2日・最終日が毎日放送を制作局として、[JNN](https://ja.wikipedia.org/wiki/JNN "wikilink")系列全国28局ネットで放送されており、2日目が生中継、最終日は録画中継されている。\[14\]また[CS放送の](https://ja.wikipedia.org/wiki/日本における衛星放送#CSデジタル放送 "wikilink")[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")では大会3日間すべて放送されており、初日は生中継、2日目及び最終日は、前半が生中継、後半が録画放送となっている。2019年大会のコメンタリー陣を以下に記す。
+  - 日本においては第2日・最終日が毎日放送を制作局として、[JNN](https://ja.wikipedia.org/wiki/JNN "wikilink")系列全国28局ネットで放送されており、2日目が生中継、最終日は録画中継されている。\[15\]また[CS放送の](https://ja.wikipedia.org/wiki/日本における衛星放送#CSデジタル放送 "wikilink")[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")では大会3日間すべて放送されており、初日は生中継、2日目及び最終日は、前半が生中継、後半が録画放送となっている。2019年大会のコメンタリー陣を以下に記す。
   - 解説 : [戸張捷](../Page/戸張捷.md "wikilink")（初日および地上波）、[小田美岐](https://ja.wikipedia.org/wiki/小田美岐 "wikilink")（GAORAの2日目及び最終日）
   - ラウンド解説（初日および地上波）: [平瀬真由美](https://ja.wikipedia.org/wiki/平瀬真由美 "wikilink")
   - 実況 : [井上雅雄](../Page/井上雅雄.md "wikilink")（初日および地上波）、[馬野雅行](../Page/馬野雅行.md "wikilink")（GAORAの2日目及び最終日）
@@ -432,7 +432,7 @@
 
 <!-- end list -->
 
-  - 2006年の大会では、宮里藍の成績を**首位に立っていないにも関わらず、首位に立ったように表示（LEADER表示）**して、1ヶ月後の12月8日に制作局の毎日放送が[総務省](../Page/総務省.md "wikilink")から厳重注意を受けた。\[15\]
+  - 2006年の大会では、宮里藍の成績を**首位に立っていないにも関わらず、首位に立ったように表示（LEADER表示）**して、1ヶ月後の12月8日に制作局の毎日放送が[総務省](../Page/総務省.md "wikilink")から厳重注意を受けた。\[16\]
   - かつては第2日、最終日は2時間で放送されていたが、現在は第2日のみ1時間半に短縮されている。
 
 ## 脚注
@@ -453,15 +453,16 @@
 1.  [全米女子プロゴルフ協会公式戦 茨城・太平洋クラブ美野里コースに決定](http://www.sponichi.co.jp/sports/news/2016/01/21/kiji/K20160121011893780.html) - スポニチアネックス、2016年1月21日閲覧
 2.
 3.
-4.  最終日が悪天候のため中止。2日間36ホールに短縮。
-5.  [イ・ミヒャンがツアー初勝利　香妻琴乃はプレーオフで散る](http://news.golfdigest.co.jp/lpga/4727/article/53881/4/?car=top_nw_t02) - ゴルフダイジェスト・オンライン（2014年11月9日）
-6.  [アン・ソンジュがプレーオフ制し今季２勝目　史上最速で生涯７億円突破](http://news.golfdigest.co.jp/lpga/4990/article/60358/4/) - ゴルフダイジェスト・オンライン（2015年11月8日）
-7.  [フォン・シャンシャン2週連続V、堀琴音が3位タイ](http://www.nikkansports.com/sports/golf/news/1734479.html) - 日刊スポーツ、2016年11月6日閲覧
-8.
+4.  [全米女子プロゴルフ協会公式戦「ＴＯＴＯジャパンクラシック」開催中止、および日本女子プロゴルフ協会特別公認大会開催の決定について](https://jp.toto.com/company/press/2020/09/15_010800.htm) TOTO、MBS、スポニチ、JLPGA
+5.  最終日が悪天候のため中止。2日間36ホールに短縮。
+6.  [イ・ミヒャンがツアー初勝利　香妻琴乃はプレーオフで散る](http://news.golfdigest.co.jp/lpga/4727/article/53881/4/?car=top_nw_t02) - ゴルフダイジェスト・オンライン（2014年11月9日）
+7.  [アン・ソンジュがプレーオフ制し今季２勝目　史上最速で生涯７億円突破](http://news.golfdigest.co.jp/lpga/4990/article/60358/4/) - ゴルフダイジェスト・オンライン（2015年11月8日）
+8.  [フォン・シャンシャン2週連続V、堀琴音が3位タイ](http://www.nikkansports.com/sports/golf/news/1734479.html) - 日刊スポーツ、2016年11月6日閲覧
 9.
-10. [フォン・シャンシャンが大会連覇 畑岡奈紗は33位](https://www.nikkansports.com/sports/golf/news/201711050000462.html) - 日刊スポーツ、2017年11月5日閲覧
-11. [畑岡奈紗が米ツアー2勝目 7年ぶりの日本勢優勝](https://www.nikkansports.com/sports/golf/news/201811040000546.html) - 日刊スポーツ、2018年11月4日配信、同日閲覧
-12.
-13. [鈴木愛が完全Vで米ツアー初勝利 賞金女王へ前進](https://www.nikkansports.com/sports/golf/news/201911100000392.html) - 日刊スポーツ、2019年11月10日配信、同日閲覧
-14. 2019年大会は、天皇皇后両陛下の即位パレード「祝賀御列の儀」の生中継を放送するため、最終日も生中継された。ただ、延長対応が無かったため、後刻、速報番組の中で最終結果が放送された。
-15. [「宮里藍首位\!」はうそｰ民放スポーツ中継の自殺行為](http://blogs.yahoo.co.jp/columnoffside/42959874.html) - 成田好三のスポーツコラム・オフサイド2006年12月12日19:28配信
+10.
+11. [フォン・シャンシャンが大会連覇 畑岡奈紗は33位](https://www.nikkansports.com/sports/golf/news/201711050000462.html) - 日刊スポーツ、2017年11月5日閲覧
+12. [畑岡奈紗が米ツアー2勝目 7年ぶりの日本勢優勝](https://www.nikkansports.com/sports/golf/news/201811040000546.html) - 日刊スポーツ、2018年11月4日配信、同日閲覧
+13.
+14. [鈴木愛が完全Vで米ツアー初勝利 賞金女王へ前進](https://www.nikkansports.com/sports/golf/news/201911100000392.html) - 日刊スポーツ、2019年11月10日配信、同日閲覧
+15. 2019年大会は、天皇皇后両陛下の即位パレード「祝賀御列の儀」の生中継を放送するため、最終日も生中継された。ただ、延長対応が無かったため、後刻、速報番組の中で最終結果が放送された。
+16. [「宮里藍首位\!」はうそｰ民放スポーツ中継の自殺行為](http://blogs.yahoo.co.jp/columnoffside/42959874.html) - 成田好三のスポーツコラム・オフサイド2006年12月12日19:28配信

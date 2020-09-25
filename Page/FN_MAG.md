@@ -52,7 +52,7 @@ FN MAGは、80ヶ国以上で採用されている。下記に五十音順で列
   -
     [オーストラリア国防軍](../Page/オーストラリア国防軍.md "wikilink")に採用された。特に[陸軍は](https://ja.wikipedia.org/wiki/オーストラリア陸軍 "wikilink")、**MAG 58**として制式採用した。
 
-[thumb発生時に出動した](https://ja.wikipedia.org/wiki/ファイル:Gijzelingsdrama_Den_Haag_,_verhoogde_paraatheid_op_Schip_soldaat_met_machinegewe,_Bestanddeelnr_927-4572.jpg "wikilink")[オランダ陸軍](https://ja.wikipedia.org/wiki/オランダ陸軍 "wikilink")の兵士（[1974年](../Page/1974年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink")）\]\]
+[thumb発生時に出動した](https://ja.wikipedia.org/wiki/ファイル:Gijzelingsdrama_Den_Haag_,_verhoogde_paraatheid_op_Schip_soldaat_met_machinegewe,_Bestanddeelnr_927-4572_1.jpg "wikilink")[オランダ陸軍](https://ja.wikipedia.org/wiki/オランダ陸軍 "wikilink")の兵士（[1974年](../Page/1974年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink")）\]\]
 
   -
     歩兵部隊において長期間運用され続けている。

@@ -280,7 +280,7 @@ NCS-10054:タワーレコード限定</p></td>
 <li>My Brave Face</li>
 <li>Winter Day Song</li>
 </ol></td>
-<td><p>LD &amp; K</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>カバー</p></td>
@@ -468,7 +468,7 @@ VIBL-524</p></td>
 | 発売日         | タイトル                                                                                                       | 規格品番       | 収録曲                           | 備考            |
 | ----------- | ---------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------- | ------------- |
 | 2001年02月25日 | **T LOVE NY LD & K～anthology 36～**                                                                         | 36-LDKCD   | 17\. I'm a believer           | LD & K        |
-| 2001年09月25日 | **killermont street 2001**                                                                                 | 37-LDKCD   | 2\. （Love Is Like）A Heat Wave | LD & K        |
+| 2001年09月25日 | **killermont street 2001**                                                                                 | 37-LDKCD   | 2\. （Love Is Like）A Heat Wave |               |
 | 2002年02月21日 | **キンキー・ブート～トリビュート・トゥ・[ザ・キンクス](https://ja.wikipedia.org/wiki/ザ・キンクス "wikilink")**                           | VICL-60847 | 10.デス・オブ・ア・クラウン               | ビクターエンタテインメント |
 | 2002年10月23日 | **BEAT OFFENDERS ～A TRIBUTE TO [THE COLLECTORS](https://ja.wikipedia.org/wiki/THE_COLLECTORS "wikilink")** | AMCT-10009 | 6.S・P・Y                       | イーストウエスト・ジャパン |
 | 2003年03月05日 | **Tachytelic Night～welcomes you to the FAR EAST～**                                                         | CTCR-14243 | 15.Wingspan                   | カッティング・エッジ    |

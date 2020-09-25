@@ -5,7 +5,7 @@
 
 ## 人物
 
-元[女優で今は歌手のかたわら](../Page/俳優.md "wikilink")[デザイナー](../Page/デザイナー.md "wikilink")としても活躍している。[アメリカではその声質をかわれ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、レコーディングテストなどの経験もある。精力的に[歌手](../Page/歌手.md "wikilink")活動は行なっていないが、[インディーズ](../Page/インディーズ.md "wikilink")の[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")達に[作詞](../Page/作詞.md "wikilink")提供などを行なっている。また、バックコーラス参加などもする。
+元[女優で今は歌手のかたわら](../Page/俳優.md "wikilink")[デザイナー](../Page/デザイナー.md "wikilink")としても活躍している。[アメリカではその声質をかわれ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、レコーディングテストなどの経験もある。精力的に[歌手](../Page/歌手.md "wikilink")活動は行なっていないが、メインボーカルやゲストとしても活動し、[インディーズ](../Page/インディーズ.md "wikilink")の[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")達に[作詞](../Page/作詞.md "wikilink")提供などを行なっている。また、バックコーラス参加などもする。
 
 [歌舞伎](../Page/歌舞伎.md "wikilink")[俳優](../Page/俳優.md "wikilink")の[市村家橘の長女として生まれる](../Page/市村家橘_\(17代目\).md "wikilink")。父方の祖父は[市村吉五郎](https://ja.wikipedia.org/wiki/市村吉五郎_\(2代目\) "wikilink")、祖母は[清元の出である](../Page/清元節.md "wikilink")。[十八代目中村勘三郎](../Page/中村勘三郎_\(18代目\).md "wikilink")、[波乃久里子](../Page/波乃久里子.md "wikilink")は実父の従姉弟になる。[中村勘九郎](../Page/中村勘九郎_\(6代目\).md "wikilink")、[中村七之助は従兄弟にあたる](../Page/中村七之助_\(2代目\).md "wikilink")。
 
@@ -22,14 +22,20 @@
 
 心霊オーガナイザーとして活躍中の[池田辰雄](https://ja.wikipedia.org/wiki/池田辰雄 "wikilink")と共演を果たす。
 
-[コマーシャルでは声入れ](../Page/コマーシャルメッセージ.md "wikilink")、差し替えウォーキングなどをこなす。 ゲーム：実写版競馬ゲームの牧場調教師
+[コマーシャルでは声入れ](../Page/コマーシャルメッセージ.md "wikilink")(アフレコ、アテレコ)差し替えウォーキングなどをこなす。
 
-携帯電話情報チャンネルでゲスト出演。
+•ゲーム：実写版競馬ゲームの牧場調教師
+
+•携帯電話情報チャンネルでゲスト出演。
+
+•雑誌WAWAWAチェアウォーカーでは自身のページを連載。
 
 ### 雑誌
 
   - [女性セブン](../Page/女性セブン.md "wikilink")
-  - [SAY](https://ja.wikipedia.org/wiki/SAY "wikilink")　など
+  - [SAY](https://ja.wikipedia.org/wiki/SAY "wikilink")　
+  - WAWAWAチェアウォーカー
+  - など
 
 ### ライブ活動
 

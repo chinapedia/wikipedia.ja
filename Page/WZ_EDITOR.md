@@ -140,6 +140,6 @@ WZ EDITORの機能を[Windows CE上に移植した](https://ja.wikipedia.org/wik
 
   - [株式会社WZソフトウェア](http://www.wzsoft.jp/index.html) - 発売元
   - [WZ EDITOR Wiki](http://www.wikiroom.com/WZEditor/index.php)
-  - [WZ EDITOR ユーザーズグループ](http://archive.fo/QoQhC)
+  - [WZ EDITOR ユーザーズグループ](https://archive.fo/QoQhC)
 
 [Category:テキストエディタ](https://ja.wikipedia.org/wiki/Category:テキストエディタ "wikilink") [Category:Windowsのソフトウェア](https://ja.wikipedia.org/wiki/Category:Windowsのソフトウェア "wikilink") [Category:1995年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1995年のソフトウェア "wikilink")

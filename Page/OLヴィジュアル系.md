@@ -379,6 +379,6 @@
 
 ## 外部リンク
 
-  - [OLヴィジュアル系 - テレビ朝日](http://web.archive.org/web/20011024184804/http://www.tv-asahi.co.jp/ov/) - 2001年10月24日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")
+  - [OLヴィジュアル系 - テレビ朝日](https://web.archive.org/web/20011024184804/http://www.tv-asahi.co.jp/ov/) - 2001年10月24日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")
 
 [Category:漫画作品_お](https://ja.wikipedia.org/wiki/Category:漫画作品_お "wikilink") [Category:女性誌掲載漫画作品](https://ja.wikipedia.org/wiki/Category:女性誌掲載漫画作品 "wikilink") [Category:テレビドラマのシリーズ](https://ja.wikipedia.org/wiki/Category:テレビドラマのシリーズ "wikilink") [Category:土曜ナイトドラマ_(テレビ朝日)](https://ja.wikipedia.org/wiki/Category:土曜ナイトドラマ_\(テレビ朝日\) "wikilink") [Category:金曜ナイトドラマ](https://ja.wikipedia.org/wiki/Category:金曜ナイトドラマ "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:2000年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2000年のテレビドラマ "wikilink") [Category:2001年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2001年のテレビドラマ "wikilink") [Category:美容を題材とした作品](https://ja.wikipedia.org/wiki/Category:美容を題材とした作品 "wikilink") [Category:職場恋愛を扱った作品](https://ja.wikipedia.org/wiki/Category:職場恋愛を扱った作品 "wikilink") [Category:かつて存在したテレビ朝日の年末年始特番](https://ja.wikipedia.org/wiki/Category:かつて存在したテレビ朝日の年末年始特番 "wikilink")

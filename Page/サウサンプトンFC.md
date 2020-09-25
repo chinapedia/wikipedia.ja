@@ -35,7 +35,7 @@
 
 [チャンピオンシップ](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")1年目となった2005-06シーズンは、2005年8月29日の[コヴェントリー・シティ戦から](../Page/コヴェントリー・シティFC.md "wikilink")2006年3月28日の[バーンリー戦まで](../Page/バーンリーFC.md "wikilink")35試合でわずか5勝しかできず、1部昇格どころか2部残留も危ぶまれたが、最後の6試合で5勝してシーズンを12位で終了し、降格を免れた。なお、シーズン中の2005年12月、[ハリー・レドナップ](../Page/ハリー・レドナップ.md "wikilink")は辞任して再び[ポーツマスの監督に復帰した](../Page/ポーツマスFC.md "wikilink")。2006年1月、期待の若手の[セオ・ウォルコット](../Page/セオ・ウォルコット.md "wikilink")（当時16歳）が報酬500万ポンドから1200万ポンドという条件で[アーセナルに移籍した](../Page/アーセナルFC.md "wikilink")\[6\]。
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Before_the_Kick-off_-_geograph.org.uk_-_431355.jpg "wikilink") 2006-07シーズンはボーランド人ストライカーのグレゴーシュ・ラジアック、[マレク・サガノフスキ](https://ja.wikipedia.org/wiki/マレク・サガノフスキ "wikilink")、当時17歳の[ガレス・ベイル](../Page/ガレス・ベイル.md "wikilink")の活躍もあって、6位で終了して昇格プレーオフに出場するも、準決勝でPK戦の末に[ダービー・カウンティに敗れて昇格を逃した](../Page/ダービー・カウンティFC.md "wikilink")。翌2007-08シーズンは、クラブの財政状況の悪化を防ぐために[ガレス・ベイル](../Page/ガレス・ベイル.md "wikilink")、[ケンウィン・ジョーンズなどの主力選手を売却せざるを得なくなったこともあり](../Page/ケンワイン・ジョーンズ.md "wikilink")、一転して残留争いに巻き込まれ、最終節で[シェフィールド・ユナイテッドに](../Page/シェフィールド・ユナイテッドFC.md "wikilink")3-2で勝利してようやく残留を決めた。ところが、翌2008-09シーズンには運営会社が会社再建手続に入ったため勝ち点10を剥奪された結果、23位で終了して[リーグ1](https://ja.wikipedia.org/wiki/フットボールリーグ1 "wikilink")（3部）に降格し、2009-10シーズンも勝ち点-10からスタートすることとなった。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Before_the_Kick-off_-_geograph.org.uk_-_431355.jpg "wikilink") 2006-07シーズンはボーランド人ストライカーの[グジェゴシュ・ラシャク](https://ja.wikipedia.org/wiki/グジェゴシュ・ラシャク "wikilink")、[マレク・サガノフスキ](https://ja.wikipedia.org/wiki/マレク・サガノフスキ "wikilink")、当時17歳の[ガレス・ベイル](../Page/ガレス・ベイル.md "wikilink")の活躍もあって、6位で終了して昇格プレーオフに出場するも、準決勝でPK戦の末に[ダービー・カウンティに敗れて昇格を逃した](../Page/ダービー・カウンティFC.md "wikilink")。翌2007-08シーズンは、クラブの財政状況の悪化を防ぐために[ガレス・ベイル](../Page/ガレス・ベイル.md "wikilink")、[ケンウィン・ジョーンズなどの主力選手を売却せざるを得なくなったこともあり](../Page/ケンワイン・ジョーンズ.md "wikilink")、一転して残留争いに巻き込まれ、最終節で[シェフィールド・ユナイテッドに](../Page/シェフィールド・ユナイテッドFC.md "wikilink")3-2で勝利してようやく残留を決めた。ところが、翌2008-09シーズンには運営会社が会社再建手続に入ったため勝ち点10を剥奪された結果、23位で終了して[リーグ1](https://ja.wikipedia.org/wiki/フットボールリーグ1 "wikilink")（3部）に降格し、2009-10シーズンも勝ち点-10からスタートすることとなった。
 
 ### プレミアリーグへの復帰
 
@@ -133,7 +133,7 @@
 
   - [2020年](../Page/2020年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink")現在
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Antigua_and_Barbuda.svg "wikilink"))  ★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Nigeria.svg "wikilink"))               ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Tunisia.svg "wikilink"))   ★
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Antigua_and_Barbuda.svg "wikilink"))   ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Nigeria.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Tunisia.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ★
 
 ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 
@@ -313,7 +313,7 @@
 
   - [アンティ・ニエミ](../Page/アンティ・ニエミ.md "wikilink") 2002-2006
 
-  - [アルトゥール・ボルツ](../Page/アルトゥール・ボルツ.md "wikilink") 2012-
+  - [アルトゥール・ボルツ](../Page/アルトゥール・ボルツ.md "wikilink") 2012-2015
 
 **[DF](../Page/ディフェンダー_\(サッカー\).md "wikilink")**
 
@@ -329,7 +329,7 @@
 
   - [ルーク・ショー](https://ja.wikipedia.org/wiki/ルーク・ショー "wikilink") 2012-2014
 
-  - [ナサニエル・クライン](https://ja.wikipedia.org/wiki/ナサニエル・クライン "wikilink") 2012-
+  - [ナサニエル・クライン](https://ja.wikipedia.org/wiki/ナサニエル・クライン "wikilink") 2012-2014
 
   - [吉田麻也](../Page/吉田麻也.md "wikilink") 2012-2020
 

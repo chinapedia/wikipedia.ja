@@ -41,7 +41,7 @@
 
 #### 1部復帰後
 
-降格1年で1部に復帰となった2017-18シーズンは、昨年からの続投となる[ホセ・ボルダラス](https://ja.wikipedia.org/wiki/ホセ・ボルダラス "wikilink")監督のもと、相手のミスに乗じて攻めるリアクションサッカーを展開した。その甲斐あって、昇格1年目にして5年ぶりの1部トップ10入りを実現させた。2018-19シーズンはリーグ開幕戦こそ[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")に0-2と敗れるも、その後は安定したパフォーマンスを見せた。DFでは[ジェネ・ダコナム](https://ja.wikipedia.org/wiki/ジェネ・ダコナム "wikilink")や[ヴィトリーノ・アントゥネス](https://ja.wikipedia.org/wiki/ヴィトリーノ・アントゥネス "wikilink")、MFは[ネマニャ・マクシモヴィッチ](https://ja.wikipedia.org/wiki/ネマニャ・マクシモヴィッチ "wikilink")や[ウルグアイ人](https://ja.wikipedia.org/wiki/ウルグアイ人 "wikilink")の[マウロ・アランバリ](https://ja.wikipedia.org/wiki/マウロ・アランバリ "wikilink")、そしてFW陣では共にリーグ14ゴールの37歳の[ホルヘ・モリーナ](https://ja.wikipedia.org/wiki/ホルヘ・モリーナ "wikilink")と3月に[スペイン代表デビューを果たした](https://ja.wikipedia.org/wiki/サッカースペイン代表 "wikilink")[ハイメ・マタ](https://ja.wikipedia.org/wiki/ハイメ・マタ "wikilink")らの活躍によって、惜しくもCL出場権を逃したものの、リーグ5位でフィニッシュし、EL出場権を獲得し大成功と言える1年となった。
+降格1年で1部に復帰となった2017-18シーズンは、昨年からの続投となる[ホセ・ボルダラス](https://ja.wikipedia.org/wiki/ホセ・ボルダラス "wikilink")監督のもと、相手のミスに乗じて攻めるリアクションサッカーを展開した。その甲斐あって、昇格1年目にして5年ぶりの1部トップ10入りを実現させた。2018-19シーズンはリーグ開幕戦こそ[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")に0-2と敗れるも、その後は安定したパフォーマンスを見せた。DFでは[ジェネ・ダコナム](https://ja.wikipedia.org/wiki/ジェネ・ダコナム "wikilink")や[ヴィトリーノ・アントゥネス](https://ja.wikipedia.org/wiki/ヴィトリーノ・アントゥネス "wikilink")、MFは[ネマニャ・マクシモヴィッチ](https://ja.wikipedia.org/wiki/ネマニャ・マクシモヴィッチ "wikilink")や[ウルグアイ人](https://ja.wikipedia.org/wiki/ウルグアイ人 "wikilink")の[マウロ・アランバリ](https://ja.wikipedia.org/wiki/マウロ・アランバリ "wikilink")、そしてFW陣では共にリーグ14ゴールの37歳の[ホルヘ・モリーナ](https://ja.wikipedia.org/wiki/ホルヘ・モリーナ "wikilink")と3月に[スペイン代表デビューを果たした](https://ja.wikipedia.org/wiki/サッカースペイン代表 "wikilink")[ハイメ・マタ](https://ja.wikipedia.org/wiki/ハイメ・マタ "wikilink")らの活躍によって、CL出場権を逃したもののリーグ5位でフィニッシュし、EL出場権を獲得し大成功と言える1年となった。
 
 ## ユニフォーム
 
@@ -289,9 +289,9 @@
 
 </div>
 
-  - 2020年8月14日時点
+  - 2020年8月31日時点
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ★      ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))    ★    ★  ★  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))  ★     ★  ★
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))       ★  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))      ★  ★  ★  ★  ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))
 
 ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 
@@ -331,7 +331,7 @@
 
   - [コスミン・コントラ](https://ja.wikipedia.org/wiki/コスミン・コントラ "wikilink") 2014
 
-  - [キケ・サンチェス・フローレス](../Page/キケ・サンチェス・フローレス.md "wikilink") 2015
+  - キケ・サンチェス・フローレス 2015
 
   - [パブロ・フランコ](https://ja.wikipedia.org/wiki/パブロ・フランコ・マルティン "wikilink") 2015
 

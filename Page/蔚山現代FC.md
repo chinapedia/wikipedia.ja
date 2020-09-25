@@ -17,7 +17,7 @@
 
 2012年、[AFCチャンピオンズリーグでは](https://ja.wikipedia.org/wiki/AFCチャンピオンズリーグ2012 "wikilink")[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")、[北京国安](https://ja.wikipedia.org/wiki/北京国安足球倶楽部 "wikilink")、[ブリスベン・ロアーと一緒になったグループリーグFを](https://ja.wikipedia.org/wiki/ブリスベン・ロアーFC "wikilink")4勝2分の無敗で1位突破し、決勝トーナメント1回戦で[柏レイソル](https://ja.wikipedia.org/wiki/柏レイソル "wikilink")、準決勝で[ブニョドコル](../Page/FCブニョドコル.md "wikilink")、決勝で[アル・アハリを破って初優勝した](../Page/アル・アハリ・ジッダ.md "wikilink")。 同年の12月6日に開催された[FIFAクラブワールドカップ2012](https://ja.wikipedia.org/wiki/FIFAクラブワールドカップ2012 "wikilink")では準々決勝で[モンテレイに](../Page/CFモンテレイ.md "wikilink")3対1で敗れて初戦敗退、続く5位決定戦で[サンフレッチェ広島に](https://ja.wikipedia.org/wiki/サンフレッチェ広島F.C "wikilink")3対2で敗れ、最終順位は6位に終わった。
 
-2019年、[AFCチャンピオンズリーグではラウンド](https://ja.wikipedia.org/wiki/AFCチャンピオンズリーグ2019 "wikilink")16で[浦和レッズに](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")2戦合計2-4で敗れた。ホームスタジアムである蔚山文殊サッカースタジアムの芝生補修のため、7月から[蔚山総合運動場](../Page/蔚山総合運動場.md "wikilink")でホームゲームを開催する（2019年末まで）。
+2019年、[AFCチャンピオンズリーグではラウンド](https://ja.wikipedia.org/wiki/AFCチャンピオンズリーグ2019 "wikilink")16で[浦和レッズに](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")2戦合計2-4で敗れた。ホームスタジアムである蔚山文殊サッカースタジアムの芝生補修のため、7月から[蔚山総合運動場](../Page/蔚山総合運動場.md "wikilink")でホームゲームを開催した。
 
 ## タイトル
 
@@ -105,7 +105,7 @@
 
 </div>
 
-**[2020年](../Page/2020年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink")現在**      ★                    ★
+**[2020年](../Page/2020年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink")現在**      ★                     ★
 
   - [監督](../Page/監督.md "wikilink")
 

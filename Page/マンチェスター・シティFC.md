@@ -57,7 +57,7 @@
 
 その後も両チームはデットヒートを繰り広げ、4月にはマンチェスター・ユナイテッドとの勝ち点差8とまで広がり2位に甘んじるも、ユナイテッドが終盤に入り勝ち点を取りこぼし、一方のシティはCLのバイエルン戦で交代出場の指示を拒否したとして戦力外扱いになっていたが、マンチーニ監督と和解した[カルロス・テベス](../Page/カルロス・テベス.md "wikilink")が無断帰国から復帰してチームに合流。息を吹き返したシティは連勝を重ね、マンチェスター・ダービー前には勝ち点3にまで差を詰めて迎えた第36節のユナイテッドとのマンチェスター・ダービーを[ヴァンサン・コンパニ](../Page/ヴァンサン・コンパニ.md "wikilink")のヘディングシュートで1-0で制し、第27節以来の首位に立った。そして最終節の[QPR戦は勝てば得失点差でシティの優勝がほぼ決まる状況だったが](../Page/クイーンズ・パーク・レンジャーズFC.md "wikilink")、後半途中で相手が1人少なくなったにもかかわらず、やはり勝てばプレミア残留が決まるQPRの前に2点を奪われ、1-2で逆転を許した。しかしアディショナルタイムに入り、まずジェコのヘディングシュートで同点とし、最後はアグエロのシュートが決まり、3-2の逆転勝利で劇的な44シーズンぶりのリーグ制覇を果たした。シティ戦がATに入った時点で同時刻KOだった[サンダーランド](../Page/サンダーランドAFC.md "wikilink")vsマンチェスター・ユナイテッド戦はユナイテッドが0-1で先に勝利したため、シティは引き分けでも優勝を逃すという状況だった。
 
-また、初出場となった[UEFAチャンピオンズリーグでは](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2011-12 "wikilink")、[バイエルン・ミュンヘン](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")、[SSCナポリ](https://ja.wikipedia.org/wiki/SSCナポリ "wikilink")、[ビジャレアルCF](../Page/ビジャレアルCF.md "wikilink")と同組の「死の組」に入り、3勝2敗1分けの勝ち点10を奪ったが、ナポリに競り負け惜しくも3位となり、[UEFAヨーロッパリーグに回ることになった](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2011-12 "wikilink")。そのヨーロッパリーグでも決勝トーナメント・ラウンド32で[FCポルト](../Page/FCポルト.md "wikilink")には勝利したが、ラウンド16で[スポルティングCPにアウェーゴールの差で敗退し](../Page/スポルティング・クルーベ・デ・ポルトゥガル.md "wikilink")、欧州の舞台で輝きを放つことはできなかった。
+また、初出場となった[UEFAチャンピオンズリーグでは](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2011-12 "wikilink")、[バイエルン・ミュンヘン](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")、[SSCナポリ](https://ja.wikipedia.org/wiki/SSCナポリ "wikilink")、[ビジャレアルCF](../Page/ビジャレアルCF.md "wikilink")と同組の「死の組」に入り、3勝2敗1分けの勝ち点10を奪ったが、ナポリに競り負け3位となり、[UEFAヨーロッパリーグに回ることになった](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2011-12 "wikilink")。そのヨーロッパリーグでも決勝トーナメント・ラウンド32で[FCポルト](../Page/FCポルト.md "wikilink")には勝利したが、ラウンド16で[スポルティングCPにアウェーゴールの差で敗退し](../Page/スポルティング・クルーベ・デ・ポルトゥガル.md "wikilink")、欧州の舞台で輝きを放つことはできなかった。
 
 #### 2012-13
 
@@ -71,7 +71,7 @@
 
 2013年夏の移籍市場では、[カルロス・テベス](../Page/カルロス・テベス.md "wikilink")らを放出する一方、[アルバロ・ネグレド](https://ja.wikipedia.org/wiki/アルバロ・ネグレド "wikilink")、[ヘスス・ナバス](../Page/ヘスス・ナバス.md "wikilink")、[フェルナンジーニョ](https://ja.wikipedia.org/wiki/フェルナンド・ルイス・ローザ "wikilink")、[ステヴァン・ヨヴェティッチ](https://ja.wikipedia.org/wiki/ステヴァン・ヨヴェティッチ "wikilink")、[マルティン・デミチェリス](../Page/マルティン・デミチェリス.md "wikilink")を獲得した。
 
-2013-14シーズンは序盤は1試合平均3点を越すようなハイペースで得点を重ねる一方、アウェイでの戦いでは格下相手に不覚を取るなど好不調の差が目立った。しかし徐々に安定感が増していき、勝ち点を積み重ね続ける。4月13日に行われた[リヴァプールとのプレミア頂上決戦は一時は](../Page/リヴァプールFC.md "wikilink")2点差を追いつきながらも2-3で惜敗し、その後第26節の延期分サンダーランド戦にも2-2で何とか引き分け、自力優勝はおろか2位の可能性も一度は消滅したものの、リヴァプールが控えメンバー主体のチェルシーにアンフィールドで0-2で敗れた事で自力優勝の可能性が復活。諦めずにサンダーランド戦以降の5戦は全勝し、2シーズンぶりにプレミアリーグの覇権を奪回した。シティがこのシーズン首位に立ってた期間はわずか14日であった（これはキャピタルワンカップで決勝まで勝ち進んだことによってリーグ戦が延期され、常に消化試合数がリヴァプールやチェルシーやアーセナルに比べて少なかったのが大きい。）。また[リーグカップも決勝でサンダーランドを](https://ja.wikipedia.org/wiki/フットボールリーグカップ "wikilink")3-1で下し二冠を達成した。また、[チャンピオンズリーグでは初めてグループステージを突破したものの](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2013-14 "wikilink")、ラウンド16で[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")にホームでの第1戦で膠着状態の後半に[マルティン・デミチェリス](../Page/マルティン・デミチェリス.md "wikilink")が[リオネル・メッシ](../Page/リオネル・メッシ.md "wikilink")に犯した微妙な位置でのファールがPK&デミチェリスの退場と判定されたのが大きく響き、2試合合計1-4で破れベスト16に終わった。
+2013-14シーズンは序盤は1試合平均3点を越すようなハイペースで得点を重ねる一方、アウェイでの戦いでは格下相手に不覚を取るなど好不調の差が目立った。しかし徐々に安定感が増していき、勝ち点を積み重ね続ける。4月13日に行われた[リヴァプールとのプレミア頂上決戦は一時は](../Page/リヴァプールFC.md "wikilink")2点差を追いつきながらも2-3で敗北し、その後第26節の延期分サンダーランド戦にも2-2で何とか引き分け、自力優勝はおろか2位の可能性も一度は消滅したものの、リヴァプールが控えメンバー主体のチェルシーにアンフィールドで0-2で敗れたことで自力優勝の可能性が復活。諦めずにサンダーランド戦以降の5戦は全勝し、2シーズンぶりにプレミアリーグの覇権を奪回した。シティがこのシーズン首位に立ってた期間はわずか14日であった（これはキャピタルワンカップで決勝まで勝ち進んだことによってリーグ戦が延期され、常に消化試合数がリヴァプールやチェルシーやアーセナルに比べて少なかったのが大きい。）。また[リーグカップも決勝でサンダーランドを](https://ja.wikipedia.org/wiki/フットボールリーグカップ "wikilink")3-1で下し二冠を達成した。また、[チャンピオンズリーグでは初めてグループステージを突破したものの](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2013-14 "wikilink")、ラウンド16で[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")にホームでの第1戦で膠着状態の後半に[マルティン・デミチェリス](../Page/マルティン・デミチェリス.md "wikilink")が[リオネル・メッシ](../Page/リオネル・メッシ.md "wikilink")に犯した微妙な位置でのファールがPK&デミチェリスの退場と判定されたのが大きく響き、2試合合計1-4で破れベスト16に終わった。
 
 #### 2014-15
 
@@ -117,7 +117,7 @@
 
 [CLでは](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2015-16 "wikilink")、グループステージで[ユヴェントス](../Page/ユヴェントスFC.md "wikilink")、[セビージャ](../Page/セビージャFC.md "wikilink")、[ボルシアMGと同組になり](../Page/ボルシア・メンヒェングラートバッハ.md "wikilink")、4勝2敗で1位通過\[34\]。決勝トーナメント・ラウンド16の[ディナモ・キエフ戦を](../Page/FCディナモ・キエフ.md "wikilink")2戦合計スコア3-1で勝利し、壁となっていたベスト16突破を成し遂げた\[35\]。さらに、準々決勝[PSG戦も](https://ja.wikipedia.org/wiki/パリ・サンジェルマンFC "wikilink")2戦合計スコアが3-2で突破しクラブ史上初のベスト4入りを果たした\[36\]。準決勝[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")戦は、1stレグをスコアレスドローで終えると、2ndレグでは前半早々守備の要であった[コンパニが負傷退場し](../Page/ヴァンサン・コンパニ.md "wikilink")、前半20分にオウンゴールで失点、その後も得点を奪うことが出来ず1-0で敗れ、2戦合計スコアが0-1で[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")に決勝進出を許した\[37\]。[キャピタル・ワン・カップは決勝を](https://ja.wikipedia.org/wiki/フットボールリーグカップ2015-2016 "wikilink")[リヴァプールと](../Page/リヴァプールFC.md "wikilink")1-1で引き分けPK戦を1-3で勝利し、4回目の優勝を果たした\[38\]。[FAカップは](https://ja.wikipedia.org/wiki/FAカップ2015-2016 "wikilink")5回戦で[チェルシーに](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")5-1で敗れた\[39\]。
 
-6月2日、[ドルトムントからドイツ代表MF](../Page/ボルシア・ドルトムント.md "wikilink")[イルカイ・ギュンドアン](https://ja.wikipedia.org/wiki/イルカイ・ギュンドアン "wikilink")を獲得した。しかし、５月のドルトムントでのトレーニング中に膝蓋（しつがい）骨の脱臼という重傷を負い、本格的なチームへの加入は来シーズンの9月半ば頃となった\[40\]。
+6月2日、[ドルトムントからドイツ代表MF](../Page/ボルシア・ドルトムント.md "wikilink")[イルカイ・ギュンドアン](https://ja.wikipedia.org/wiki/イルカイ・ギュンドアン "wikilink")を獲得した。しかし、5月のドルトムントでのトレーニング中に膝蓋（しつがい）骨の脱臼という重傷を負い、本格的なチームへの加入は来シーズンの9月半ば頃となった\[40\]。
 
 ### [グアルディオラの監督就任](../Page/ジョゼップ・グアルディオラ.md "wikilink")
 
@@ -170,11 +170,11 @@
 </tbody>
 </table>
 
-夏の移籍市場では[レスターからクラブ史上最高額となる](../Page/レスター・シティFC.md "wikilink")6000万ポンド\[57\]で[リヤド・マフレズ](https://ja.wikipedia.org/wiki/リヤド・マフレズ "wikilink")\[58\]、[ズウォレから](https://ja.wikipedia.org/wiki/PECズウォレ "wikilink")[フィリップ・サンドレル](https://ja.wikipedia.org/wiki/フィリップ・サンドレル "wikilink")\[59\]を獲得したのみで動きは少なく、主力を維持していく方針をとった。一方で[ベルサント・ツェリナ](https://ja.wikipedia.org/wiki/ベルサント・ツェリナ "wikilink")を[スウォンジー](../Page/スウォンジー・シティAFC.md "wikilink")\[60\]、[ジェイソン・デナイヤー](https://ja.wikipedia.org/wiki/ジェイソン・デナイヤー "wikilink")を[リヨン](https://ja.wikipedia.org/wiki/オリンピック・リヨン "wikilink")\[61\]、[ジョー・ハート](https://ja.wikipedia.org/wiki/ジョー・ハート "wikilink")を[バーンリーに](../Page/バーンリーFC.md "wikilink")\[62\]、パブロ・マフェオをシュツットガルトに放出するなど人員整理に努めた。
+夏の移籍市場では[レスターからクラブ史上最高額となる](../Page/レスター・シティFC.md "wikilink")6000万ポンド\[57\]で[リヤド・マフレズ](https://ja.wikipedia.org/wiki/リヤド・マフレズ "wikilink")\[58\]、[ズウォレから](https://ja.wikipedia.org/wiki/PECズウォレ "wikilink")[フィリップ・サンドレル](https://ja.wikipedia.org/wiki/フィリップ・サンドレル "wikilink")\[59\]を獲得したのみで動きは少なく、主力を維持していく方針をとった。一方で[ベルサント・ツェリナ](https://ja.wikipedia.org/wiki/ベルサント・ツェリナ "wikilink")を[スウォンジー](../Page/スウォンジー・シティAFC.md "wikilink")\[60\]、[ジェイソン・デナイヤー](https://ja.wikipedia.org/wiki/ジェイソン・デナイヤー "wikilink")を[リヨン](../Page/オリンピック・リヨン.md "wikilink")\[61\]、[ジョー・ハート](https://ja.wikipedia.org/wiki/ジョー・ハート "wikilink")を[バーンリーに](../Page/バーンリーFC.md "wikilink")\[62\]、パブロ・マフェオをシュツットガルトに放出するなど人員整理に努めた。
 
 [コミュニティ・シールドでは](../Page/FAコミュニティ・シールド.md "wikilink")[チェルシーを](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")0-2で破り、5回目の優勝を果たした。シーズン開始後もチーム完成度の高さを見せつけ、開幕15戦無敗(13勝2分)で首位を快走。しかし第16節チェルシー戦で敗れると、第18節、第19節と2年ぶりにリーグ戦連敗を喫する。その後は[ケヴィン・デ・ブライネ](https://ja.wikipedia.org/wiki/ケヴィン・デ・ブライネ "wikilink")が怪我がちで離脱が多かったものの、[ベルナルド・シウバ](https://ja.wikipedia.org/wiki/ベルナルド・シウバ "wikilink")がその穴を埋める活躍を見せ、リヴァプールと激しいデットヒートを繰り広げ、第25節から最終節まで14連勝でフィニッシュ。数々のリーグ記録を打ち立てた昨シーズンまでとは行かなかったものの、2年連続で32勝(2分4敗)を挙げ、勝点98という好記録を残しリバプールを勝ち点差1で振り切ってクラブ史上初のリーグ連覇を果たした\[63\]。[カラバオ・カップも順調に勝ち進み](https://ja.wikipedia.org/wiki/フットボールリーグカップ "wikilink")、決勝は[チェルシーと](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")0-0で引き分けPK戦を3-4で勝利し、2連覇を達成した。また、[FAカップも勝ち進んで決勝で](https://ja.wikipedia.org/wiki/FAカップ2018-2019 "wikilink")[ワトフォードに](../Page/ワトフォードFC.md "wikilink")6-0で大勝、イングランド史上初となる国内3冠([プレミアリーグ](https://ja.wikipedia.org/wiki/プレミアリーグ2018-2019 "wikilink")、[FAカップ](https://ja.wikipedia.org/wiki/FAカップ2018-2019 "wikilink")、[カラバオカップ](https://ja.wikipedia.org/wiki/EFLカップ2018-2019 "wikilink"))を達成した\[64\]。
 
-[CLでは](../Page/UEFAチャンピオンズリーグ.md "wikilink")、グループステージで[リヨン](https://ja.wikipedia.org/wiki/オリンピック・リヨン "wikilink")、[シャフタール・ドネツク](../Page/FCシャフタール・ドネツク.md "wikilink")、[ホッフェンハイムと同組になり](../Page/TSG1899ホッフェンハイム.md "wikilink")、4勝1敗1分で下馬評通り1位通過\[65\]。ラウンド16では[シャルケを](../Page/シャルケ04.md "wikilink")2戦合計10-2で下した。準々決勝で[トッテナム戦](../Page/トッテナム・ホットスパーFC.md "wikilink")1stレグでは、[アグエロがPKを](../Page/セルヒオ・アグエロ.md "wikilink")[ウーゴ・ロリス](../Page/ウーゴ・ロリス.md "wikilink")に止められしまうなどして、0-1で敗れた\[66\]。ホームでの2ndレグは開始11分で2-2と激しい打ち合いになり、4-2(2戦合計4-3)となった後半、[フェルナンド・ジョレンテ](../Page/フェルナンド・ジョレンテ.md "wikilink")に得点を許したが、このゴールはハンドにも見えたがVARの介入後も判定は覆らなかった。そして4-3(2戦合計4-4)となった後半終了間際、アグエロの折り返しを[ラヒーム・スターリング](https://ja.wikipedia.org/wiki/ラヒーム・スターリング "wikilink")が決めて逆転したように思われたが、VARでアグエロのオフサイドを取られて取り消しとなり、スコアは動かず試合終了。2戦合計4-4、アウェーゴール差で2シーズン連続ベスト8で敗退した。
+[CLでは](../Page/UEFAチャンピオンズリーグ.md "wikilink")、グループステージで[リヨン](../Page/オリンピック・リヨン.md "wikilink")、[シャフタール・ドネツク](../Page/FCシャフタール・ドネツク.md "wikilink")、[ホッフェンハイムと同組になり](../Page/TSG1899ホッフェンハイム.md "wikilink")、4勝1敗1分で下馬評通り1位通過\[65\]。ラウンド16では[シャルケを](../Page/シャルケ04.md "wikilink")2戦合計10-2で下した。準々決勝で[トッテナム戦](../Page/トッテナム・ホットスパーFC.md "wikilink")1stレグでは、[アグエロがPKを](../Page/セルヒオ・アグエロ.md "wikilink")[ウーゴ・ロリス](../Page/ウーゴ・ロリス.md "wikilink")に止められしまうなどして、0-1で敗れた\[66\]。ホームでの2ndレグは開始11分で2-2と激しい打ち合いになり、4-2(2戦合計4-3)となった後半、[フェルナンド・ジョレンテ](../Page/フェルナンド・ジョレンテ.md "wikilink")に得点を許したが、このゴールはハンドにも見えたがVARの介入後も判定は覆らなかった。そして4-3(2戦合計4-4)となった後半終了間際、アグエロの折り返しを[ラヒーム・スターリング](https://ja.wikipedia.org/wiki/ラヒーム・スターリング "wikilink")が決めて逆転したように思われたが、VARでアグエロのオフサイドを取られて取り消しとなり、スコアは動かず試合終了。2戦合計4-4、アウェーゴール差で2シーズン連続ベスト8で敗退した。
 
 冬の移籍市場では、[コロンバス・クルー](../Page/コロンバス・クルー.md "wikilink")から[ザック・ステッフェン](https://ja.wikipedia.org/wiki/ザック・ステッフェン "wikilink")（チームへの加入は、2019年夏の移籍市場が開かれる2019年7月9日以降\[67\]）を獲得する一方、下部組織出身でトップチーム登録もされていた[ブラヒム・ディアス](https://ja.wikipedia.org/wiki/ブラヒム・ディアス "wikilink")が[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")に移籍することになった\[68\]。
 
@@ -290,7 +290,7 @@ CLではグループステージでアタランタ、シャフタール・ドネ
 
   - [2020年](../Page/2020年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink")現在
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ★  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cote_d'Ivoire.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Turkey.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))         ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Senegal.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))  ★  ☆  ☆
+  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ★  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cote_d'Ivoire.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Turkey.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))        ☆  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Senegal.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))  ★  ☆  ☆
 
 ※括弧内の国旗はその他の保有国籍を、★はホーム・グロウン選手、☆はU-21登録選手を示す。
 
@@ -346,7 +346,7 @@ CLではグループステージでアタランタ、シャフタール・ドネ
 
   - [ジョー・ハート](https://ja.wikipedia.org/wiki/ジョー・ハート "wikilink") 2006-2018
 
-  - [クラウディオ・ブラーボ](https://ja.wikipedia.org/wiki/クラウディオ・ブラーボ "wikilink") 2016-
+  - [クラウディオ・ブラーボ](https://ja.wikipedia.org/wiki/クラウディオ・ブラーボ "wikilink") 2016-2020
 
   - [アリヤネット・ムリッチ](https://ja.wikipedia.org/wiki/アリヤネット・ムリッチ "wikilink") 2017-
 
@@ -422,6 +422,8 @@ CLではグループステージでアタランタ、シャフタール・ドネ
 
   - [ジョアン・カンセロ](https://ja.wikipedia.org/wiki/ジョアン・カンセロ "wikilink") 2019-
 
+  - [ナタン・アケ](https://ja.wikipedia.org/wiki/ナタン・アケ "wikilink") 2020-
+
 ### MF
 
   - [ビリー・メレディス](https://ja.wikipedia.org/wiki/ビリー・メレディス "wikilink") 1894-1906,1921-1924
@@ -480,7 +482,7 @@ CLではグループステージでアタランタ、シャフタール・ドネ
 
   - [ファビアン・デルフ](https://ja.wikipedia.org/wiki/ファビアン・デルフ "wikilink") 2015-2019
 
-  - [ダビド・シルバ](../Page/ダビド・シルバ.md "wikilink") 2010-
+  - [ダビド・シルバ](../Page/ダビド・シルバ.md "wikilink") 2010-2020
 
   - [フェルナンジーニョ](https://ja.wikipedia.org/wiki/フェルナンド・ルイス・ローザ "wikilink") 2013-
 

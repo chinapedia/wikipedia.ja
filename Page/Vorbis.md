@@ -61,7 +61,7 @@ Vorbisは主に[Ogg](../Page/Ogg.md "wikilink")コンテナフォーマットに
       - 近年のハードウェアの進歩により、昔に比べるとエンコードの速度は問題とされなくなってきている。
   - 対応プレイヤーが少ない
       - Vorbisに対応している携帯プレイヤーは[iriver](https://ja.wikipedia.org/wiki/iriver "wikilink")や[Cowon](../Page/Cowon.md "wikilink")などの韓国メーカーのものがほとんどで、全体のシェアからすれば数は少なく、その点ではデファクトスタンダードである[MP3](../Page/MP3.md "wikilink")や、大企業の後押しのある[Windows Media Audio](../Page/Windows_Media_Audio.md "wikilink")、[AAC](../Page/AAC.md "wikilink")に大きく及ばない。この状況はハイレゾ対応携帯プレイヤーでも変わらない。ただし、[Rockbox](../Page/Rockbox.md "wikilink")に対応している携帯プレイヤーに導入すれば、Vorbisを再生することは可能となる。
-      - [Android](../Page/Android.md "wikilink") OSはVorbisのデコーダを内蔵しており\[5\]、その端末の急速な拡大によって再生環境の普及という面は改善されつつある。一方、iOSはOgg Vorbisには対応していないので、対応するソフトウェアをインストールする必要がある。
+      - [Android](../Page/Android_\(オペレーティングシステム\).md "wikilink") OSはVorbisのデコーダを内蔵しており\[5\]、その端末の急速な拡大によって再生環境の普及という面は改善されつつある。一方、iOSはOgg Vorbisには対応していないので、対応するソフトウェアをインストールする必要がある。
   - ユーザが自発的にエンコード環境を構築する必要がある
       - 圧倒的な普及率を誇るMP3以外の非可逆圧縮音声フォーマットで、Ogg Vorbisと比較されるものは、プロプライエタリであるWMAとAACである。WMAはWindows OSがエンコーダを内蔵するWindows Media Playerをバンドルしている。AACはMac OS Xがエンコーダを内蔵するiTunesをバンドルしている。また、Windows用iTunesもAppleが無料配布している。iPod又はiPhoneを所持する場合、iTunesは事実上必須である。すなわち、パソコンを所持していればWMAとAACは比較的容易にCDリッピングによるエンコードが可能になる。
       - 一方、Ogg Vorbisの場合、ユーザが自発的にエンコーダをネットで探してパソコンにインストールする必要がある。このようにエンコード環境と再生環境が比較的整っているWMAとAACに比べると、Ogg Vorbisはエンコード環境と再生環境が整っているとは言い難い。

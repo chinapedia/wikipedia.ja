@@ -549,10 +549,8 @@
   -
   - [バーチャルコンソールアーケード - ニューラリーX](http://www.bandainamcogames.co.jp/cs/download/virtual_consolearcade/detail/detail36/36.html)
 
-  - （英語）
-
-  - （英語）
-
+  -
+  -
 [Category:1980年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1980年のコンピュータゲーム "wikilink") [Category:1980年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1980年のアーケードゲーム "wikilink") [Category:HAL研究所のゲームソフト](https://ja.wikipedia.org/wiki/Category:HAL研究所のゲームソフト "wikilink") [Category:FM-7シリーズ用ゲームソフト](https://ja.wikipedia.org/wiki/Category:FM-7シリーズ用ゲームソフト "wikilink") [Category:MSX/MSX2用ソフト](https://ja.wikipedia.org/wiki/Category:MSX/MSX2用ソフト "wikilink") [Category:X1用ゲームソフト](https://ja.wikipedia.org/wiki/Category:X1用ゲームソフト "wikilink") [Category:Xbox_Live_Arcade対応ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_Live_Arcade対応ソフト "wikilink") [Category:固定画面アクションゲーム](https://ja.wikipedia.org/wiki/Category:固定画面アクションゲーム "wikilink") [Category:ドットイートゲーム](https://ja.wikipedia.org/wiki/Category:ドットイートゲーム "wikilink") [Category:ナムコのゲームソフト](https://ja.wikipedia.org/wiki/Category:ナムコのゲームソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:バンダイナムコのアーケードゲーム](https://ja.wikipedia.org/wiki/Category:バンダイナムコのアーケードゲーム "wikilink")
 
 1.

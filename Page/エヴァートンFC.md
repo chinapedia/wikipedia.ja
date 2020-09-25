@@ -588,7 +588,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/オリンピック・リヨン" title="wikilink">リヨン</a></p></td>
+<td><p><a href="../Page/オリンピック・リヨン.md" title="wikilink">リヨン</a></p></td>
 <td><p>1-2</p></td>
 <td><p>0-3</p></td>
 <td></td>
@@ -610,9 +610,9 @@
 
 </div>
 
-  - 2020年7月30日現在
+  - 2020年9月8日現在
 
-★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guyana.svg "wikilink"))   ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))   ★  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ivory_Coast.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guyana.svg "wikilink"))   ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))   ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Mali.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Congo.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))  ★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ivory_Coast.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))
 
 ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 

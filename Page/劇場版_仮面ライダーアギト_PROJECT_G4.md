@@ -252,7 +252,7 @@ G3とG3-Xが合わさった外見であるが、基本カラーは[黒](https://
   - 撮影 - [松村文雄](../Page/松村文雄.md "wikilink")、[いのくままさお](../Page/いのくままさお.md "wikilink")
   - キャラクターデザイン - [早瀬マサト](../Page/早瀬マサト.md "wikilink")（[石森プロ](https://ja.wikipedia.org/wiki/石森プロ "wikilink")）、[野中剛](../Page/野中剛.md "wikilink")・山田耕次・竹内一恵・小林大祐（[PLEX](../Page/プレックス.md "wikilink")）
   - アンノウンデザイン - [出渕裕](../Page/出渕裕.md "wikilink")
-  - ESPシステムデザイン - [草彅琢仁](https://ja.wikipedia.org/wiki/草彅琢仁 "wikilink")
+  - ESPシステムデザイン - [草彅琢仁](../Page/草彅琢仁.md "wikilink")
   - 編集 - 長田直樹
   - 助監督 - [鈴村展弘](../Page/鈴村展弘.md "wikilink")、木村繁仁、近藤信子
   - アクション監督補 - [宮崎剛](../Page/宮崎剛_\(俳優\).md "wikilink")

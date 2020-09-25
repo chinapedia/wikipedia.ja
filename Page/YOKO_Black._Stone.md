@@ -751,6 +751,17 @@ Double S、<a href="https://ja.wikipedia.org/wiki/有木竜郎" title="wikilink"
 <td><p><a href="../Page/白石乃梨.md" title="wikilink">白石乃梨</a>、安部智樹</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2020年</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Jamflavor" title="wikilink">JamFlavor</a></p></td>
+<td><p><strong>M.U.M.M</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>　</p></td>
+<td><p>JamFlavor</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

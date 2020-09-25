@@ -405,9 +405,9 @@
 
 </div>
 
-  - [2020年](../Page/2020年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")現在\[13\]
+  - [2020年](../Page/2020年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink")現在\[13\]
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Croatia.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink"))★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Nigeria.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Nigeria.svg "wikilink"))
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Croatia.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink"))★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Nigeria.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Nigeria.svg "wikilink"))
 
 ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 

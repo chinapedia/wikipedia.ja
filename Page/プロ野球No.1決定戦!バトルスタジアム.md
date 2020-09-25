@@ -25,7 +25,7 @@
 
 ## 放送日時
 
-基本的には、毎年1月第1[日曜日](../Page/日曜日.md "wikilink")の午後に2時間程度（元日 - 1月3日が日曜日の場合は1月の第2日曜日）、日本テレビ系列（[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")/[NNS](../Page/日本テレビネットワーク協議会.md "wikilink")）全国24局ネット（[マストバイ22局](https://ja.wikipedia.org/wiki/フルネット "wikilink")＋[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")・[北日本放送](../Page/北日本放送.md "wikilink")）にて放送される。
+基本的には、毎年1月第1[日曜日](../Page/日曜日.md "wikilink")の午後に2時間程度（元日 - 1月3日が日曜日の場合は1月の第2日曜日）、日本テレビ系列（[NNN](../Page/日本ニュースネットワーク.md "wikilink")/[NNS](../Page/日本テレビネットワーク協議会.md "wikilink")）全国24局ネット（[秋田放送](../Page/秋田放送.md "wikilink")・[福井放送](../Page/福井放送.md "wikilink")・[四国放送](../Page/四国放送.md "wikilink")・[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")・[テレビ大分](../Page/テレビ大分.md "wikilink")を除く）にて放送される。
 
 なお、放送当日は、読売テレビなどでは通常レギュラー番組である『[そこまで言って委員会NP](https://ja.wikipedia.org/wiki/そこまで言って委員会NP "wikilink")』\[1\]の放送時間が移動となる\[2\]（年により、短縮か休止の場合もある）。
 
@@ -53,7 +53,7 @@
 <!-- end list -->
 
   - [宮根誠司](../Page/宮根誠司.md "wikilink") - 2010年度からMCとして出演。かつては、一部のゲームにも参加していた。2013年度には「宮根オールスターズ」のキャプテン、2016年度には競技のメイン実況も担当。2017年度には、「打No.1決定戦」の番外編として企画された「宮根からの挑戦状」（大阪城ホールのある[大阪城公園](../Page/大阪城公園.md "wikilink")内の軟式野球場で収録）にも携わった。
-  - [千鳥](../Page/千鳥_\(お笑いコンビ\).md "wikilink")（[ノブ](https://ja.wikipedia.org/wiki/ノブ "wikilink")・[大悟](https://ja.wikipedia.org/wiki/千鳥_\(お笑いコンビ\)#大悟 "wikilink")） - 2019年度からMCを担当。
+  - [千鳥](../Page/千鳥_\(お笑いコンビ\).md "wikilink")（[ノブ](https://ja.wikipedia.org/wiki/ノブ_\(お笑い芸人\) "wikilink")・[大悟](https://ja.wikipedia.org/wiki/大悟_\(お笑い芸人\) "wikilink")） - 2019年度からMCを担当。
   - [宇垣美里](https://ja.wikipedia.org/wiki/宇垣美里 "wikilink") - 同上。
   - [かまいたち](../Page/かまいたち_\(お笑いコンビ\).md "wikilink")（[濱家隆一](https://ja.wikipedia.org/wiki/かまいたち_\(お笑いコンビ\)#濱家_隆一 "wikilink")・[山内健司](https://ja.wikipedia.org/wiki/かまいたち_\(お笑いコンビ\)#山内_健司 "wikilink")） - 2019年度から「パネラー」として、競技の進行やバックステージ企画に参加。
   - [NMB48](https://ja.wikipedia.org/wiki/NMB48 "wikilink") - アシスタント。2012年度は一部のゲームに参加。

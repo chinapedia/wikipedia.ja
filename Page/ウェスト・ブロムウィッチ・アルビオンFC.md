@@ -448,9 +448,11 @@
 
 ## 現所属メンバー
 
-  - [2019年](../Page/2019年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink")現在
 
-<!-- end list -->
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Barbados.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Côte_d'Ivoire.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))        ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))     ★   ★    ★
+
+※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 
   - [監督](../Page/監督.md "wikilink")
 
@@ -594,7 +596,7 @@
 
   - [ヴィクター・アニチェベ](https://ja.wikipedia.org/wiki/ヴィクター・アニチェベ "wikilink") 2013 - 2016
 
-  - [オリヴァー・バーク](https://ja.wikipedia.org/wiki/オリヴァー・バーク "wikilink") 2017 -
+  - [オリヴァー・バーク](https://ja.wikipedia.org/wiki/オリヴァー・バーク "wikilink") 2017 - 2020
 
 ## 脚注
 

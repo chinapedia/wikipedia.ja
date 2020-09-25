@@ -36,7 +36,7 @@
 
 ## 外部リンク
 
-  - 「[VDT作業における労働衛生環境管理のためのガイドライン](http://www.mhlw.go.jp/file/06-Seisakujouhou-11200000-Roudoukijunkyoku/0000184703.pdf)」（厚生労働省、2002年4月）
+  - 「[VDT作業における労働衛生環境管理のためのガイドライン](https://www.mhlw.go.jp/file/06-Seisakujouhou-11200000-Roudoukijunkyoku/0000184703.pdf)」（厚生労働省、2002年4月）
   - 田淵昭雄「[子どものIT眼症](http://www.gankaikai.or.jp/health/36/)」日本眼科医会
 
 [Category:職業病](https://ja.wikipedia.org/wiki/Category:職業病 "wikilink") [Category:コンピュータ](https://ja.wikipedia.org/wiki/Category:コンピュータ "wikilink")

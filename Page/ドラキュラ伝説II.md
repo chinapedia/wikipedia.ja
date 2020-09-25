@@ -244,8 +244,7 @@
 
   - [悪魔城ドラキュラシリーズ公式サイト](https://www.konami.com/games/castlevania/jp/ja/)
 
-  - （英語）
-
+  -
 [Category:1991年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1991年のコンピュータゲーム "wikilink") [Category:悪魔城ドラキュラ](https://ja.wikipedia.org/wiki/Category:悪魔城ドラキュラ "wikilink") [Category:ゲームボーイ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイ用ソフト "wikilink") [Category:横スクロールアクションゲーム](https://ja.wikipedia.org/wiki/Category:横スクロールアクションゲーム "wikilink")
 
 1.

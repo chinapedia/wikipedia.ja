@@ -113,12 +113,12 @@
 
 ### 映画
 
-  - [TOKYO TRIBE](../Page/TOKYO_TRIBE.md "wikilink") (2014年) - ANARCHY役
+  - [TOKYO TRIBE](../Page/TOKYO_TRIBE.md "wikilink") (2014年) - 本人 役
   - [HiGH\&LOW](https://ja.wikipedia.org/wiki/HiGH&LOW〜THE_STORY_OF_S.W.O.R.D.〜 "wikilink")（2016年 - 2017年）- 9 役
       - HiGH\&LOW THE MOVIE（2016年）
       - HiGH\&LOW THE MOVIE2 / END OF SKY（2017年）
       - HiGH\&LOW THE MOVIE3 / FINAL MISSION（2017年）
-  - BLKFLG the movie （2016年） - 主演・本人 役
+  - BLKFLG the movie （2016年） - **主演・本人** 役
 
 ## 脚注
 

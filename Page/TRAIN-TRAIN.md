@@ -19,7 +19,7 @@
 
 また、元WBA世界スーパーウェルター級暫定王者[石田順裕](../Page/石田順裕.md "wikilink")の入場曲としても使用されている。
 
-[プレイステーション2ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")「[鉄1〜電車でバトル\!〜](../Page/鉄1〜電車でバトル!〜.md "wikilink")」ではゲームのデモ画面で流れたり、[三共から出された](../Page/三共_\(パチンコ\).md "wikilink")[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")台「[フィーバー電車でGO\!](../Page/フィーバー電車でGO!.md "wikilink")2」や[西陣](../Page/西陣.md "wikilink")の[CRエーストレイン](https://ja.wikipedia.org/wiki/CRエーストレイン "wikilink")では大当たりしたときの曲として流れる場合がある。また[PSP用ソフト](../Page/PlayStation_Portable.md "wikilink")「[喧嘩番長3 全国制覇](https://ja.wikipedia.org/wiki/喧嘩番長3_全国制覇 "wikilink")」では、ゲームのデモ画面とタイトル画面で流れている（タイトル画面はメロディのみ）。
+[プレイステーション2ソフト](../Page/PlayStation_2.md "wikilink")「[鉄1〜電車でバトル\!〜](../Page/鉄1〜電車でバトル!〜.md "wikilink")」ではゲームのデモ画面で流れたり、[三共から出された](../Page/三共_\(パチンコ\).md "wikilink")[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")台「[フィーバー電車でGO\!](../Page/フィーバー電車でGO!.md "wikilink")2」や[西陣](../Page/西陣.md "wikilink")の[CRエーストレイン](https://ja.wikipedia.org/wiki/CRエーストレイン "wikilink")では大当たりしたときの曲として流れる場合がある。また[PSP用ソフト](../Page/PlayStation_Portable.md "wikilink")「[喧嘩番長3 全国制覇](https://ja.wikipedia.org/wiki/喧嘩番長3_全国制覇 "wikilink")」では、ゲームのデモ画面とタイトル画面で流れている（タイトル画面はメロディのみ）。
 
 [2007年](../Page/2007年.md "wikilink")には[NTT西日本の](../Page/西日本電信電話.md "wikilink")[フレッツ](../Page/フレッツ.md "wikilink")・光プレミアムの[CMソングに](../Page/コマーシャルソング.md "wikilink")、この曲の替え歌が使われていた。ちなみに同時期の[NTT東日本の](../Page/東日本電信電話.md "wikilink")[BフレッツのCMソングには同じTHE](../Page/フレッツ.md "wikilink") BLUE HEARTSの「[夢](../Page/夢_\(THE_BLUE_HEARTSの曲\).md "wikilink")」の替え歌が使われていた。 後に、嘉門達夫が替え歌で歌っている。
 

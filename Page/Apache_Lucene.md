@@ -26,7 +26,7 @@
   - [Lucene(開発者)](http://lucene.apache.org/who.html)
   - [関口宏司のLuceneブログ](http://lucene.jugem.jp/)
   - [インデックス型全文検索ツール：Search++](http://www.searchplusplus.jp/)
-  - 分散インデックス型 全文検索ソフト： [Pokuda Search Pro](http://pokuda-tyoubun.blogspot.com/p/pokuda-search-pro.html)
+  - [分散インデックス型 全文検索ソフト： Pokuda Search Pro](http://pokuda-tyoubun.blogspot.com/p/pokuda-search-pro.html)
 
 [Category:Apacheソフトウェア財団](https://ja.wikipedia.org/wiki/Category:Apacheソフトウェア財団 "wikilink") [Category:全文検索](https://ja.wikipedia.org/wiki/Category:全文検索 "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink")
 

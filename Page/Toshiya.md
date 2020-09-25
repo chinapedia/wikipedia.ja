@@ -5,7 +5,7 @@
 
 ## 概略
 
-中学時代は[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")等に熱中。高校の学園祭で行ったバンドを切っ掛けにバンド活動にのめり込み、卒業後進学した専門学校に半年行ったくらいを辞め、本格的に活動を開始する。GOSICKと[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")のローディーを半年あまり勤めた後、[1996年](../Page/1996年.md "wikilink")に[東京で](../Page/東京都.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、GOSICKにサポート[ベーシスト](../Page/ベーシスト.md "wikilink")として加入。\[1\]その後、地元でD+L(サポートギター)のバンド活動を経た後、[京](../Page/京_\(ミュージシャン\).md "wikilink")、[薫](../Page/薫_\(ミュージシャン\).md "wikilink")、[Die](../Page/Die_\(ミュージシャン\).md "wikilink")、[Shinya](../Page/Shinya.md "wikilink")の4人が新バンド結成のためにベーシストとして京に勧誘され、その結果[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")へ行くことになり、[Dir en grey結成](../Page/DIR_EN_GREY.md "wikilink")。\[2\][1999年](../Page/1999年.md "wikilink")1月、Dir en greyのベーシストとして[イーストウエスト・ジャパンよりメジャーデビュー](../Page/ワーナーミュージック・ジャパン.md "wikilink")。
+中学時代は[BOØWY](../Page/BOØWY.md "wikilink")等に熱中。高校の学園祭で行ったバンドを切っ掛けにバンド活動にのめり込み、卒業後進学した専門学校に半年行ったくらいを辞め、本格的に活動を開始する。GOSICKと[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")のローディーを半年あまり勤めた後、[1996年](../Page/1996年.md "wikilink")に[東京で](../Page/東京都.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、GOSICKにサポート[ベーシスト](../Page/ベーシスト.md "wikilink")として加入。\[1\]その後、地元でD+L(サポートギター)のバンド活動を経た後、[京](../Page/京_\(ミュージシャン\).md "wikilink")、[薫](../Page/薫_\(ミュージシャン\).md "wikilink")、[Die](../Page/Die_\(ミュージシャン\).md "wikilink")、[Shinya](../Page/Shinya.md "wikilink")の4人が新バンド結成のためにベーシストとして京に勧誘され、その結果[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")へ行くことになり、[Dir en grey結成](../Page/DIR_EN_GREY.md "wikilink")。\[2\][1999年](../Page/1999年.md "wikilink")1月、Dir en greyのベーシストとして[イーストウエスト・ジャパンよりメジャーデビュー](../Page/ワーナーミュージック・ジャパン.md "wikilink")。
 
 ## 音楽性
 

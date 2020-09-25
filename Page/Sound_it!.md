@@ -5,7 +5,7 @@
 
 ## 概要
 
-同社が発売をしている[Singer Song Writerとは兄弟のような関係であり](../Page/Singer_Song_Writer.md "wikilink")、、実際Singer Song WriterとSound it\!の基本的な操作概念やエフェクター画面などは共通化されている。
+同社が発売をしている[Singer Song Writerとは兄弟のような関係であり](../Page/Singer_Song_Writer.md "wikilink")、実際Singer Song WriterとSound it\!の基本的な操作概念やエフェクター画面などは共通化されている。
 
 Singer Song Writerが[ローランド](../Page/ローランド.md "wikilink")の[DTM音源のパッケージ製品](../Page/デスクトップミュージック.md "wikilink")[ミュージ郎](../Page/ミュージ郎.md "wikilink")にバンドルされたのと同様に、Sound it\!もローランドの[オーディオ](https://ja.wikipedia.org/wiki/オーディオ "wikilink")・[インタフェースにバンドルされたことで知名度を拡大させた](../Page/インタフェース_\(情報技術\).md "wikilink")。しかし、こちらもSinger Song Writer同様にバンドルソフトが[SONAR LEに差し替えられている](https://ja.wikipedia.org/wiki/Cakewalk_SONAR "wikilink")。
 

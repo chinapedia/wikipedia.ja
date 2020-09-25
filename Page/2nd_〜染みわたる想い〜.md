@@ -63,6 +63,6 @@
 ## 外部リンク
 
   - [2nd 〜染みわたる想い〜](http://www.up-front-works.jp/release/detail/HKCN-50034/) - [UP-FRONT WORKS](../Page/アップフロントワークス.md "wikilink")
-  - [2nd 〜染みわたる想い〜](http://www.tsunku.net/producework.php?Music_ArtistID=61&@DB_ID@=334#01) - つんく♂オフィシャルウェブサイト（つんく♂コメント）
+  - [2nd 〜染みわたる想い〜](https://www.tsunku.net/producework.php?Music_ArtistID=61&@DB_ID@=334#01) - つんく♂オフィシャルウェブサイト（つんく♂コメント）
 
 [Category:安倍なつみのアルバム](https://ja.wikipedia.org/wiki/Category:安倍なつみのアルバム "wikilink") [Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink")

@@ -11,7 +11,7 @@
 
 引地洋輔は[INSPi](../Page/INSPi.md "wikilink")の大倉智之と共に日記歌唱ユニット[Love Diaryに所属](https://ja.wikipedia.org/wiki/Love_Diary "wikilink")。大倉が書いた実際の日記から歌詞を選び、引地が曲を付けるスタイルをとっている。
 
-加藤慶之・荒井健一はジャズアカペラグループ・[BROAD6](https://ja.wikipedia.org/wiki/BROAD6 "wikilink")に所属。[INSPi](../Page/INSPi.md "wikilink")の杉田篤史・奥村伸二・北剛彦・吉田圭介もメンバーで、計6人。リーダーは加藤。[TAKE6や](../Page/テイク6.md "wikilink")[ビートルズ](../Page/ビートルズ.md "wikilink")などのカバー曲がレパートリー。
+加藤慶之・荒井健一はジャズアカペラグループ・[BROAD6](../Page/BROAD6.md "wikilink")に所属。[INSPi](../Page/INSPi.md "wikilink")の杉田篤史・奥村伸二・北剛彦・吉田圭介もメンバーで、計6人。リーダーは加藤。[TAKE6や](../Page/テイク6.md "wikilink")[ビートルズ](../Page/ビートルズ.md "wikilink")などのカバー曲がレパートリー。
 
 2011年3月から休止していたが、2012年12月より活動再開。
 
@@ -176,7 +176,7 @@
 
   - 2013年 4月 加藤、荒井、引地がBSフジ「堺でございます」に不定期出演となる。
   - 2013年 6月13日 加納が昨年12月30日で脱退していた事が公式HP上で発表される。
-  - 2013年10月 3日 - 10日 ファンクラブ限定ライブ「CIRCLE TOUR UTAMATSURI 2013」開催。土屋は[TTRE](https://ja.wikipedia.org/wiki/TTRE "wikilink")で別のファンクラブIN TH PANTSを立ち上げており、重複しないため加入していなかったが、ゲスト枠で出演。
+  - 2013年10月 3日 - 10日 ファンクラブ限定ライブ「CIRCLE TOUR UTAMATSURI 2013」開催。土屋は[TTRE](https://ja.wikipedia.org/wiki/TTRE "wikilink")で別のファンクラブIN THE PANTSを立ち上げており、重複しないため加入していなかったが、ゲスト枠で出演。
 
 ### 2014年
 
@@ -212,20 +212,21 @@
 ### 2020年
 
   - 2020年3月 2021年に迎えるデビュー20周年に向けて「RAG FAIR LIVE 2020」を発表し2021年にかけての全国公演を予定していたが、新型コロナウイルスの情勢を鑑み中止を決定。
-  - 2020年4月 RAGFAIR公式YouTubeチャンネル[「RAGFAIR movie」](https://www.youtube.com/channel/UCkeAGU7-NQgu4oD7z7QN2og)を開設。月2回「RAG FAIR movieのライブストリーム」と題し、Zoomでメンバー4人を繋いでのトークを生配信している。
+  - 2020年4月 RAGFAIR公式YouTubeチャンネル「[RAGFAIR movie](https://www.youtube.com/channel/UCkeAGU7-NQgu4oD7z7QN2og)」を開設。月2回「RAG FAIR movieのライブストリーム」と題し、Zoomでメンバー4人を繋いでのトークを生配信している。
+  - 2020年6月 BASEにて「[RAG FAIR shop](https://ragfair.thebase.in/)」をオープン。オフィシャルグッズと関連グッズのオンライン販売を始める。グッズのタンブラーは発売から定期的に販売するも即時完売が続出し、8月には受注生産の予約販売を行う。ショップの運営・代表は引地が務め、グッズはメンバー自らの手で梱包、発送される。RAG FAIR全員の写真にメンバー誰か1人のサインが入ったカードがランダムで同梱されている。
   - 2020年7月20日 「アートにエールを！
     東京プロジェクト」にて[RAG FAIR ＆ INSPi 世界アカペラトラベラー](https://cheerforart.jp/detail/1906)を公開。
-  - 2020年8月29日 配信ライブ「RAG FAIRの音楽室」を開催。
+  - 2020年8月29日 配信ライブ「RAG FAIRの音楽室」を開催、以降定期的に配信していく。歌やトークに加えて音楽にまつわる実験のコーナーもあり、配信のコンテンツをフルに活かしたRAG FAIRならではの魅力の詰まった内容となっている。
 
 ## メンバー
 
 ### 土屋礼央
 
-**土屋 礼央**（つちや れお、 - ）、[東京都](../Page/東京都.md "wikilink")[国分寺市](../Page/国分寺市.md "wikilink")出身。[血液型O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[東京都立国分寺高等学校](../Page/東京都立国分寺高等学校.md "wikilink")卒業。
+**土屋 礼央**（つちや れお、 - ）、[東京都](../Page/東京都.md "wikilink")[国分寺市](../Page/国分寺市.md "wikilink")出身。[血液型O型](../Page/ABO式血液型.md "wikilink")。[東京都立国分寺高等学校](../Page/東京都立国分寺高等学校.md "wikilink")卒業。
 
 ### 引地洋輔
 
-**引地 洋輔**（ひきち ようすけ、 - ）、[福島県](../Page/福島県.md "wikilink")[福島市](../Page/福島市.md "wikilink")出身。血液型[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。RAG FAIR結成時のメンバーで、2002年6月26日に[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")に就任（それまではリーダーを決めていなかった）。愛称は「よーすけ」。[絶対音感](../Page/絶対音感.md "wikilink")をもつ。多くの曲[編曲](../Page/編曲.md "wikilink")担当。[福島県立福島高等学校](../Page/福島県立福島高等学校.md "wikilink")から[埼玉大学](../Page/埼玉大学.md "wikilink")[教養学部](../Page/教養学部.md "wikilink")へ進学。2012年4月、入籍を発表。
+**引地 洋輔**（ひきち ようすけ、 - ）、[福島県](../Page/福島県.md "wikilink")[福島市](../Page/福島市.md "wikilink")出身。血液型[B型](../Page/ABO式血液型.md "wikilink")。RAG FAIR結成時のメンバーで、2002年6月26日に[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")に就任（それまではリーダーを決めていなかった）。愛称は「よーすけ」。[絶対音感](../Page/絶対音感.md "wikilink")をもつ。多くの曲[編曲](../Page/編曲.md "wikilink")担当。[福島県立福島高等学校](../Page/福島県立福島高等学校.md "wikilink")から[埼玉大学](../Page/埼玉大学.md "wikilink")[教養学部](../Page/教養学部.md "wikilink")へ進学。2012年4月、入籍を発表。
 
 [土屋礼央のオールナイトニッポン](../Page/土屋礼央のオールナイトニッポン.md "wikilink")のサブ作家だった。[東海ラジオで](../Page/東海ラジオ放送.md "wikilink")2003年から放送の「[RAG FAIRよーすけのブランニューR](https://ja.wikipedia.org/wiki/RAG_FAIRよーすけのブランニューR "wikilink")」において、[パーソナリティとして活躍](../Page/ラジオパーソナリティ.md "wikilink")。 本当はテレビなどの裏方をしたいために大学へ行ったが、まさか自分が表に出て仕事するとは思っていなかったと同番組のブロードバンド版番組・ブランニューRBBで話している。番組は2010年4月4日をもって終了した。 ほとんどの楽曲において、[コーラスアレンジを担当している](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。RAG FAIRをやっていなかったら、旅人か[パチプロ](../Page/パチプロ.md "wikilink")になっていたという。学年で4つ下の弟がいる。デビュー後にも[埼玉大学](../Page/埼玉大学.md "wikilink")に在学しており、平成17年9月末日をもって8年半の大学生生活に無事終止符を打つ。卒業論文はRAG FAIRの活動報告だった。現在、ブログ「記念日だらけのカレンダー」を開設している。トレードマークは[眼鏡](../Page/眼鏡.md "wikilink")。一度コンタクトにしようと思ったが、自分で目薬を点せないからコンタクトも自分で出来ないだろうと思い、眼鏡をかけている\[14\]。役割はバリトン（テノールとバスの中間）であったが、ベース担当・加納の脱退に伴い、ベース担当になった。
 
@@ -243,7 +244,7 @@
 
 ### 荒井健一
 
-**荒井 健一**（あらい けんいち、 - ）、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")出身、[埼玉県](../Page/埼玉県.md "wikilink")育ち。血液型[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長は164cm。足のサイズは25.5cm。
+**荒井 健一**（あらい けんいち、 - ）、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")出身、[埼玉県](../Page/埼玉県.md "wikilink")育ち。血液型[A型](../Page/ABO式血液型.md "wikilink")。身長は164cm。足のサイズは25.5cm。
 
 主に海外アーティストのカバー曲でリードボーカルを担当。邦楽では「[大都会](../Page/大都会_\(曲\).md "wikilink")」が得意。愛称は「けんいち」（または、けんいっちゃん、けんちゃん）。[さいたま市立常盤中学校](../Page/さいたま市立常盤中学校.md "wikilink")\[15\]、[早稲田大学本庄高等学院](../Page/早稲田大学本庄高等学院.md "wikilink")卒業、[早稲田大学](../Page/早稲田大学.md "wikilink")[教育学部](../Page/教育学部.md "wikilink")に進学するが、早稲田大学よりもRAGFAIRの母体であるチョコレッツが在籍する[埼玉大学](../Page/埼玉大学.md "wikilink")に多く通うようになってしまい中退。学生時代は服装が2パターンしかなく、[眼鏡](../Page/眼鏡.md "wikilink")は割れていたという。その風貌から[ストリートミュージシャン](https://ja.wikipedia.org/wiki/ストリートミュージシャン "wikilink")時代、ファンからよく[服](https://ja.wikipedia.org/wiki/服 "wikilink")や[貴金属](../Page/貴金属.md "wikilink")などを贈られていた。RAG FAIRのメンバーの中では最年少。RAGFAIR結成の発起人。
 
@@ -251,7 +252,7 @@
 
 ### 加藤慶之
 
-**加藤 慶之**（かとう よしゆき、 - ）、[東京都](../Page/東京都.md "wikilink")[国分寺市](../Page/国分寺市.md "wikilink")出身。血液型[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。チョコレッツ結成時のメンバーの1人。[バンドで活動していた土屋礼央をRAG](../Page/バンド_\(音楽\).md "wikilink") FAIRに誘った人物。愛称は「かとうさん」。RAG FAIRでのパートはハイテナー。本人曰く、地声で出せる一番高い音はhiD。大食いで1人暮らしの時に一升炊きの炊飯器を所持していたが、実際には7合しか炊いていなかった。
+**加藤 慶之**（かとう よしゆき、 - ）、[東京都](../Page/東京都.md "wikilink")[国分寺市](../Page/国分寺市.md "wikilink")出身。血液型[A型](../Page/ABO式血液型.md "wikilink")。チョコレッツ結成時のメンバーの1人。[バンドで活動していた土屋礼央をRAG](../Page/バンド_\(音楽\).md "wikilink") FAIRに誘った人物。愛称は「かとうさん」。RAG FAIRでのパートはハイテナー。本人曰く、地声で出せる一番高い音はhiD。大食いで1人暮らしの時に一升炊きの炊飯器を所持していたが、実際には7合しか炊いていなかった。
 ハマったらとことんのめり込む性格で、幼稚園の頃はハーモニカ、小学生の頃は一輪車やコマ回しや縄跳びにはまる。縄跳びは小学1年の時に市民大会に出場し二重飛びの部門で3位、続け飛びの部門で優勝をする。0歳から始めた水泳の成果で高校の時に水泳大会で好記録をマーク。水泳部員に勧誘されるが卓球部に入部。活動日が重なっていなかったため合唱部にも入部。
 音楽は幼稚園の頃からエレクトーンを学んでいた。音源の入ったカセットテープと楽譜を渡されても音源を聞いて覚えて終わりにしてしまう。テープが渡されなかったことがあり、弾けなかった時に「テープがなかったから弾けませんでした」と言って先生に怒られた\[16\]。 中学の時、音楽の成績は低かったが、先生と友人の影響で成績が上がる。
 [東京都立国分寺高等学校](../Page/東京都立国分寺高等学校.md "wikilink")出身で高校の卓球部の1学年上に土屋が在籍。印象は「ただ変わった人、一匹狼、どこか1人違う雰囲気の人」だった\[17\]。その土屋をRAG FAIRに誘ったのは、高校時代一度だけ一緒に行った[カラオケ](../Page/カラオケ.md "wikilink")がきっかけ。[光田健一](../Page/光田健一.md "wikilink")の「Naturalman」にコーラスとして参加。 高校3年の時に合唱祭でアカペラデビューをする。よく響くトイレで練習しており、本番でアヒル声の曲を歌っていたところ全校生徒にウケたのでDUCKSと命名。 [埼玉大学](../Page/埼玉大学.md "wikilink")[工学部](../Page/工学部.md "wikilink")[情報システム](../Page/情報システム.md "wikilink")工学科を専攻。テニスサークルに入っていたが、先輩に「アカペラサークルを作る」と言われDUCKSのスキルを活かすため加入。
@@ -264,7 +265,7 @@
 
 ### 加納孝政
 
-**加納 孝政**（かのう たかまさ、 - ）、[埼玉県](../Page/埼玉県.md "wikilink")[川越市](../Page/川越市.md "wikilink")出身。血液型[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**加納 孝政**（かのう たかまさ、 - ）、[埼玉県](../Page/埼玉県.md "wikilink")[川越市](../Page/川越市.md "wikilink")出身。血液型[A型](../Page/ABO式血液型.md "wikilink")。
 
 パートは[ベース](../Page/バス_\(声域\).md "wikilink")。[埼玉県立所沢北高等学校](../Page/埼玉県立所沢北高等学校.md "wikilink")を卒業後[埼玉大学](../Page/埼玉大学.md "wikilink")[経済学部](../Page/経済学部.md "wikilink")に進学し卒業。RAG FAIRの結成当初からのメンバーで、当時はコーラスを担当していたが、大学卒業と同時に脱退。全国チェーンのファッションセンター[しまむら](../Page/しまむら.md "wikilink")に勤め店長をしていたが、RAG FAIRの[ベースボーカル](https://ja.wikipedia.org/wiki/ベースボーカル "wikilink")の脱退を機に退職、再加入した。RAG FAIR内で一番早く結婚した。妻は店長時代のアルバイト店員である。妻からは「タカさん」と呼ばれている。兄がいる。
 
@@ -342,312 +343,321 @@
 <td><p>茨城 江戸崎町運動公園</p></td>
 </tr>
 <tr class="odd">
+<td><p>2000年</p></td>
+<td><p>りんご祭り 2000</p></td>
+<td><p>池袋 サンシャインシティ</p></td>
+</tr>
+<tr class="even">
 <td><p>2001年</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2001年 6月20日</p></td>
 <td><p>「力の限りゴーゴゴー‼︎」関東予選[32]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2001年 8月 1日</p></td>
 <td><p>「力の限りゴーゴゴー‼︎」北海道・東北予選[33]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2001年 8月25日</p></td>
 <td><p>2001 えどさき夏まつり</p></td>
 <td><p>茨城 江戸崎町運動公園</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2001年 8月28日</p></td>
 <td><p>RAG FAIR復活ライブ[34]</p></td>
 <td><p>六本木Y2K</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2001年10月 6日</p></td>
 <td><p>Vocal Night 〜アカペラ秋の夜〜[35]</p></td>
 <td><p>表参道FAB</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2001年10月 8日</p></td>
 <td><p>ジェーム・ズボンド 〜レオは二度出る〜[36]</p></td>
 <td><p>六本木Y2K</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2001年11月 3日</p></td>
 <td><p>RAG FAIR ＆ INSPi LIVE</p></td>
 <td><p>ON AIR OSAKA</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2001年11月 4日</p></td>
 <td><p>RAG FAIR LIVE</p></td>
 <td><p>岐阜 ACTIVE G</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2001年11月30日</p></td>
 <td><p>m-pact来日公演[37]</p></td>
 <td><p>表参道FAB</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2001年12月19日</p></td>
 <td><p>デビュー記念ライブ[38]</p></td>
 <td><p>ZEPP TOKYO</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2001年12月24日</p></td>
 <td><p>ハモネプイベント</p></td>
 <td><p>福岡スペースワールド</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2001年12月26日</p></td>
 <td><p>インストアライブ</p></td>
 <td><p>横浜ジョイナス</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2001年12月27日</p></td>
 <td><p>フォーラム・ミレナリオクラブ2001[39]</p></td>
 <td><p>東京国際フォーラム</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2001年12月29日</p></td>
 <td><p>S.E.P.</p></td>
 <td><p>名古屋 Electric Lady Land ＆ ell.FITS.ALL</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2002年</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2002年 1月26日</p></td>
 <td><p>力の限りゴーゴゴー‼︎ 青春まつり</p></td>
 <td><p>沖縄 はにんす宜野湾 屋上駐車場</p></td>
 </tr>
-<tr class="even">
-<td><p>2002年1月27日- 2月11日</p></td>
-<td><p>フリーライブサーキット<br />
-“ ふり〜ふり〜ライブでチュウ ” [40]</p></td>
+<tr class="odd">
+<td><p>2002年 1月27日- 2月11日</p></td>
+<td><p>フリーライブサーキット “ ふり〜ふり〜ライブでチュウ ” [40]</p></td>
 <td><p>福岡[41]・大阪[42]・北海道[43]・東京[44]・宮城[45]・愛知[46]</p></td>
 </tr>
-<tr class="odd">
-<td><p>2002年3月21日- 3月31日</p></td>
+<tr class="even">
+<td><p>2002年 3月21日- 3月31日</p></td>
 <td><p>月に願ってフリフリでツアー[47]</p></td>
 <td><p>福岡[48]・大阪[49]・東京[50]・宮城[51]・北海道[52]・愛知[53]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2002年 5月 4日</p></td>
 <td><p>フラワーフェスティバル2002</p></td>
 <td><p>広島</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2002年 6月27日</p></td>
 <td><p>大江千里のLive Depot[54]</p></td>
 <td><p>TOKYO FMホール</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2002年 6月30日</p></td>
 <td><p>渋谷HMVリニューアル インストアライブ</p></td>
 <td><p>渋谷HMV</p></td>
 </tr>
-<tr class="odd">
-<td><p>2002年7月27日- 8月11日</p></td>
+<tr class="even">
+<td><p>2002年 7月27日- 8月11日</p></td>
 <td><p>うたまつり[55]</p></td>
 <td><p>山梨[56]・福岡[57]・岡山[58]・岩手[59]・大阪[60]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2002年 8月 2日</p></td>
 <td><p>RAG FAIRライブ</p></td>
 <td><p>足柄商工会館</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2002年 8月16日</p></td>
 <td><p>APiTA presents RAG FAIR LIVE</p></td>
 <td><p>岐阜</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2002年 8月29日</p></td>
 <td><p>そんなのアリ〜な⁉︎ エピソード3[61]</p></td>
 <td><p>横浜アリーナ</p></td>
 </tr>
-<tr class="odd">
-<td><p>2002年8月31日, 9月1日</p></td>
+<tr class="even">
+<td><p>2002年 8月31日, 9月1日</p></td>
 <td><p>OUT OF ORDER[62]</p></td>
 <td><p>横浜ランドマークホール</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2002年 9月16日</p></td>
 <td><p>RAG FAIRファンクラブ会員限定ライブ</p></td>
 <td><p>表参道FAB</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2002年 9月20日</p></td>
 <td><p>学園祭</p></td>
 <td><p>宇都宮 TBC学院</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2002年 9月29日</p></td>
 <td><p>ASIA 2002 MUSIC FESTIVAL[63]</p></td>
 <td><p>上海東方電視台ホール</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2002年10月 3日</p></td>
 <td><p>学園祭</p></td>
 <td><p>三重 津商業高校</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2002年10月12日</p></td>
 <td><p>学園祭</p></td>
 <td><p>神奈川 文教大学</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2002年10月14日- 20日</p></td>
 <td><p>OUT OF ORDER</p></td>
 <td><p>横浜ランドマークホール</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2002年11月 2日</p></td>
 <td><p>学園祭</p></td>
 <td><p>千葉 明海大学</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2002年11月 3日</p></td>
 <td><p>学園祭</p></td>
 <td><p>日本大学法学部</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2002年11月 4日</p></td>
 <td><p>学園祭</p></td>
 <td><p>埼玉 電機大学</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2003年</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>2003年1月11日, 13日</p></td>
+<tr class="odd">
+<td><p>2003年 1月11日, 13日</p></td>
 <td><p>OUT OF ORDER</p></td>
 <td><p>横浜ランドマークホール</p></td>
 </tr>
-<tr class="odd">
-<td><p>2003年2月7日- 3月11日</p></td>
+<tr class="even">
+<td><p>2003年 2月7日- 3月11日</p></td>
 <td><p>RAG FAIR TOUR 2003 Live “ RAG F ”[64]</p></td>
 <td><p>埼玉[65]・岩手[66]・宮城[67]・東京[68]・北海道[69]・新潟[70]<br />
 広島[71]・愛知[72]・大阪[73]・福岡[74]香川[75]</p></td>
 </tr>
+<tr class="odd">
+<td><p>2003年 3月21日- 23日</p></td>
+<td><p>OUT OF ORDER</p></td>
+<td><p>横浜ランドマークホール</p></td>
+</tr>
 <tr class="even">
-<td><p>2003年3月21日- 23日</p></td>
+<td><p>2003年 4月28日- 30日</p></td>
 <td><p>OUT OF ORDER</p></td>
 <td><p>横浜ランドマークホール</p></td>
 </tr>
 <tr class="odd">
-<td><p>2003年4月28日- 30日</p></td>
-<td><p>OUT OF ORDER</p></td>
-<td><p>横浜ランドマークホール</p></td>
-</tr>
-<tr class="even">
-<td><p>2003年8月8日- 10日</p></td>
+<td><p>2003年 8月8日- 10日</p></td>
 <td><p>OUT OF ORDER</p></td>
 <td><p>大阪ABCホール</p></td>
 </tr>
-<tr class="odd">
-<td><p>2003年8月15日, 17日</p></td>
+<tr class="even">
+<td><p>2003年 8月15日, 17日</p></td>
 <td><p>OUT OF ORDER</p></td>
 <td><p>横浜ランドマークホール</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2003年 8月16日</p></td>
 <td><p>こんなのアリ〜な⁉︎ アマゾン[76]</p></td>
 <td><p>横浜アリーナ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2003年11月14日- 22日</p></td>
 <td><p>RAG FAIRの音楽会 VOL.1[77]</p></td>
-<td><p>東京[78]・大阪[79]</p></td>
+<td><p>東京 国際フォーラムホールC (11月14日, 15日)・大阪 シンフォニーホール (11月22日)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2004年</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2004年 2月 8日</p></td>
 <td><p>リネージュII オープンベータテスト開始記念ジャパンプレミアム</p></td>
 <td><p>六本木ヒルズアリーナ</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2004年 2月29日</p></td>
 <td><p>Mio SUPER MUSIC COLLECTION Vol.7</p></td>
 <td><p>Zepp Osaka</p></td>
 </tr>
-<tr class="odd">
-<td><p>2004年4月29日, 5月2日</p></td>
-<td><p>ラグ＆ピースイベント</p></td>
-<td><p>大阪[80]・東京[81]</p></td>
-</tr>
 <tr class="even">
+<td><p>2004年 4月29日, 5月2日</p></td>
+<td><p>ラグ＆ピースイベント</p></td>
+<td><p>Zepp Osaka (4月29日) 2回公演・Zepp Tokyo (5月2日) 3回公演</p></td>
+</tr>
+<tr class="odd">
 <td><p>2004年 8月 4日</p></td>
-<td><p>ラグ＆ピース in お台場冒険王[82]</p></td>
+<td><p>ラグ＆ピース in お台場冒険王[78]</p></td>
 <td><p>お台場冒険王 冒険ランド内冒険ステージ</p></td>
 </tr>
-<tr class="odd">
-<td><p>2004年8月13日- 15日</p></td>
+<tr class="even">
+<td><p>2004年 8月13日- 15日</p></td>
 <td><p>OUT OF ORDER</p></td>
 <td><p>大阪ABCホール</p></td>
 </tr>
-<tr class="even">
-<td><p>2004年8月24日- 29日</p></td>
+<tr class="odd">
+<td><p>2004年 8月24日- 29日</p></td>
 <td><p>OUT OF ORDER 笑うな!</p></td>
 <td><p>青山劇場</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2004年 9月 9日</p></td>
 <td><p>坂本九音楽祭 〜九ちゃん‼︎ 夢であいましょう・あいたかった</p></td>
 <td><p>ミューザ川崎シンフォニーホール</p></td>
 </tr>
-<tr class="even">
-<td><p>2004年9月16日- 10月25日</p></td>
-<td><p>RAG FAIR LIVE TOUR'04 “ CIRCLE ”[83]</p></td>
-<td><p>東京[84]・福井[85]・新潟[86]・札幌[87]・広島[88]・福岡[89]<br />
-愛媛[90] ・名古屋[91]・大阪[92]・仙台[93]</p></td>
-</tr>
 <tr class="odd">
+<td><p>2004年 9月16日- 10月25日</p></td>
+<td><p>RAG FAIR LIVE TOUR'04 “ CIRCLE ”[79]</p></td>
+<td><p>東京[80]・福井[81]・新潟[82]・札幌[83]・広島[84]・福岡[85]<br />
+愛媛[86] ・名古屋[87]・大阪[88]・仙台[89]</p></td>
+</tr>
+<tr class="even">
 <td><p>2004年10月11日</p></td>
 <td><p>NESCAFE SantaMarta MUSIC BIORHYTHM</p></td>
 <td><p>新宿ステーションスクエア</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2005年</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>2005年1月22日,23日</p></td>
-<td><p>FCR LIVE 〜RAG FAIRのあなたの夢叶えます！[94]</p></td>
-<td><p>東京[95]・大阪[96]</p></td>
-</tr>
 <tr class="even">
+<td><p>2005年 1月22日,23日</p></td>
+<td><p>FCR LIVE 〜RAG FAIRのあなたの夢叶えます！[90]</p></td>
+<td><p>東京 きゅりあん 大ホール (1月22日)・大阪 クレオ大阪北 (1月23日)</p></td>
+</tr>
+<tr class="odd">
 <td><p>2005年 1月25日</p></td>
 <td><p>日韓国交正常化40周年記念式典 日韓友情年2005開幕式</p></td>
 <td><p>代々木競技場 第二体育館</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2005年 2月24日</p></td>
-<td><p>大江千里のLive Depot[97]</p></td>
+<td><p>大江千里のLive Depot[91]</p></td>
 <td><p>TOKYO FMホール</p></td>
 </tr>
-<tr class="even">
-<td><p>2005年3月15日- 4月25日</p></td>
-<td><p>RAG FAIRの音楽会 Vol.2 地球の音楽にハレルヤ[98]</p></td>
-<td><p>埼玉[99]・仙台[100]・東京[101]・大阪[102]・新潟[103]・名古屋[104]・福岡[105]</p></td>
-</tr>
 <tr class="odd">
+<td><p>2005年 3月15日- 4月25日</p></td>
+<td><p>RAG FAIRの音楽会 Vol.2 地球の音楽にハレルヤ[92]</p></td>
+<td><p>埼玉[93]・仙台[94]・東京[95]・大阪[96]・新潟[97]・名古屋[98]・福岡[99]</p></td>
+</tr>
+<tr class="even">
 <td><p>2005年 3月19日</p></td>
 <td><p>愛・地球博開幕記念イベント SUPER LIVE 2005</p></td>
 <td><p>名古屋市総合体育館 レインボーホール</p></td>
+</tr>
+<tr class="odd">
+<td><p>2005年 4月8日</p></td>
+<td><p>GROOVE LINE 公開生放送</p></td>
+<td><p>J-WAVE SHIBUYA HMV STUDIO</p></td>
 </tr>
 <tr class="even">
 <td><p>2005年 5月10日</p></td>
@@ -665,19 +675,29 @@
 <td><p>青島海水浴場特設ステージ</p></td>
 </tr>
 <tr class="odd">
-<td><p>2005年8月21日,29日,30日</p></td>
-<td><p>LIVE ON THE JUKE VOX[106]</p></td>
-<td><p>東京[107]・仙台[108]・青森[109]</p></td>
+<td><p>2005年 7月18日</p></td>
+<td><p>FM yokohama 公開生放送 ＆ スペシャルライブ</p></td>
+<td><p>江ノ島 特設ステージ</p></td>
 </tr>
 <tr class="even">
+<td><p>2005年8月21日,29日,30日</p></td>
+<td><p>LIVE ON THE JUKE VOX[100]</p></td>
+<td><p>中野サンプラザ (8月21日)・仙台サンプラザ (8月29日)・八戸市公会堂 (8月30日)</p></td>
+</tr>
+<tr class="odd">
 <td><p>2005年 9月 4日</p></td>
 <td><p>LIVE Y＆音楽缶 presents SUMITOMA 2</p></td>
 <td><p>横浜BLITZ</p></td>
 </tr>
+<tr class="even">
+<td><p>2005年 9月 6日</p></td>
+<td><p>丸ビル 3rd Anniversary Special TFM<br />
+「坂上みきのBeautiful」＆ スペシャルライブ</p></td>
+<td><p>丸ビル MARUCUBE</p></td>
+</tr>
 <tr class="odd">
 <td><p>2005年 9月 8日</p></td>
-<td><p>ショートショート フィルムフェスティバル<br />
-EXPO 2005[110]</p></td>
+<td><p>ショートショート フィルムフェスティバル EXPO 2005[101]</p></td>
 <td><p>愛・地球広場エキスポビジョン</p></td>
 </tr>
 <tr class="even">
@@ -698,8 +718,7 @@ EXPO 2005[110]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2005年10月 8日</p></td>
-<td><p>第1回脊髄損傷者支援イベント<br />
-Walk Again 2005〜2007</p></td>
+<td><p>第1回脊髄損傷者支援イベント Walk Again 2005〜2007</p></td>
 <td><p>めぐろパーシモンホール</p></td>
 </tr>
 <tr class="even">
@@ -740,10 +759,9 @@ Walk Again 2005〜2007</p></td>
 <tr class="odd">
 <td><p>2005年12月22日-<br />
 2006年 1月17日</p></td>
-<td><p>フィルムコンサート<br />
-“ RAG FAIR ストリートライブ！ in 武道館 ”[111]</p></td>
-<td><p>岡山[112]・大阪[113]・愛知[114]・福島[115]・埼玉[116]・熊本[117]・石川[118]<br />
-愛媛[119]・長野[120]・東京[121]・北海道[122]</p></td>
+<td><p>フィルムコンサート “ RAG FAIR ストリートライブ！ in 武道館 ”[102]</p></td>
+<td><p>岡山[103]・大阪[104]・愛知[105]・福島[106]・埼玉[107]・熊本[108]・石川[109]<br />
+愛媛[110]・長野[111]・東京[112]・北海道[113]</p></td>
 </tr>
 <tr class="even">
 <td><p>2006年</p></td>
@@ -751,9 +769,9 @@ Walk Again 2005〜2007</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2006年1月28日,29日</p></td>
-<td><p>FCR LIVE Vol.2 〜僕らの夢叶えます！〜[123]</p></td>
-<td><p>大阪[124]・東京[125]</p></td>
+<td><p>2006年 1月28日,29日</p></td>
+<td><p>FCR LIVE Vol.2 〜僕らの夢叶えます！〜[114]</p></td>
+<td><p>クレオ大阪北 (1月28日)・東京 九段会館 (1月29日)</p></td>
 </tr>
 <tr class="even">
 <td><p>2006年 3月18日</p></td>
@@ -771,13 +789,13 @@ Walk Again 2005〜2007</p></td>
 <td><p>六本木ヒルズアリーナ</p></td>
 </tr>
 <tr class="odd">
-<td><p>2006年5月8日- 17日</p></td>
-<td><p>RAG FAIR Live Circuit “ the WAVE ”[126]</p></td>
-<td><p>北海道[127]・宮城[128]・大阪[129]・愛知[130]・福岡[131]・東京[132]</p></td>
+<td><p>2006年 5月8日- 17日</p></td>
+<td><p>RAG FAIR Live Circuit “ the WAVE ”[115]</p></td>
+<td><p>北海道[116]・宮城[117]・大阪[118]・愛知[119]・福岡[120]・東京[121]</p></td>
 </tr>
 <tr class="even">
 <td><p>2006年 6月29日</p></td>
-<td><p>大江千里のLive Depot[133]</p></td>
+<td><p>大江千里のLive Depot[122]</p></td>
 <td><p>TOKYO FMホール</p></td>
 </tr>
 <tr class="odd">
@@ -786,13 +804,13 @@ Walk Again 2005〜2007</p></td>
 <td><p>サンシャインスターライトドーム“満天”</p></td>
 </tr>
 <tr class="even">
-<td><p>2006年8月11日, 12日</p></td>
+<td><p>2006年 8月11日, 12日</p></td>
 <td><p>Blue Note Live</p></td>
-<td><p>NAGOYA Blue Note[134]</p></td>
+<td><p>NAGOYA Blue Note[123]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2006年 9月16日</p></td>
-<td><p>LaLaport MUSIC JAM vol.14[135]</p></td>
+<td><p>LaLaport MUSIC JAM vol.14[124]</p></td>
 <td><p>TOKYO-BAY LaLaport センターコート</p></td>
 </tr>
 <tr class="even">
@@ -801,9 +819,19 @@ Walk Again 2005〜2007</p></td>
 <td><p>文化放送サテライトプラス</p></td>
 </tr>
 <tr class="odd">
+<td><p>2006年 9月24日</p></td>
+<td><p>STVミュージックキャンプ Vol.2 Love＆Harmony</p></td>
+<td><p>札幌 STVホール</p></td>
+</tr>
+<tr class="even">
 <td><p>2006年 9月30日</p></td>
 <td><p>渋谷をもっと好きになる</p></td>
 <td><p>SHIBUYA109裏 イベントスペース</p></td>
+</tr>
+<tr class="odd">
+<td><p>2006年10月 7日</p></td>
+<td><p>ZIP SUPER SQUARE with TokaiWalker スペシャル・ライブ[125]</p></td>
+<td><p>名古屋 久屋大通公園 久屋広場</p></td>
 </tr>
 <tr class="even">
 <td><p>2006年10月 9日</p></td>
@@ -827,14 +855,14 @@ Walk Again 2005〜2007</p></td>
 </tr>
 <tr class="even">
 <td><p>2006年11月4日-<br />
-2007年1月17日</p></td>
-<td><p>RAG FAIR TOUR 2006 “ オクリモノ ”[136]</p></td>
-<td><p>千葉[137]・香川[138]・広島[139]・北海道[140]・宮城[141]<br />
-新潟[142]・愛知[143]・東京[144]・福岡[145]・大阪[146]</p></td>
+2007年 1月17日</p></td>
+<td><p>RAG FAIR TOUR 2006 “ オクリモノ ”[126]</p></td>
+<td><p>千葉[127]・香川[128]・広島[129]・北海道[130]・宮城[131]<br />
+新潟[132]・愛知[133]・東京[134]・福岡[135]・大阪[136]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2006年11月16日</p></td>
-<td><p>大江千里のLive Depo[147]</p></td>
+<td><p>大江千里のLive Depo[137]</p></td>
 <td><p>TOKYO FMホール</p></td>
 </tr>
 <tr class="even">
@@ -843,202 +871,222 @@ Walk Again 2005〜2007</p></td>
 <td><p>品川教会</p></td>
 </tr>
 <tr class="odd">
-<td><p>2006年12月20日,21日,24日</p></td>
-<td><p>クリスマスディナーショー2006<br />
-“ RAG FAIR ＆ INSPi 12人のHoly Night ”</p></td>
-<td><p>東京[148]・大阪[149]</p></td>
+<td><p>2006年11月18日</p></td>
+<td><p>大阪教育大学附属 創立記念式典</p></td>
+<td><p>大阪中央公会堂</p></td>
 </tr>
 <tr class="even">
+<td><p>2006年12月20日,21日,24日</p></td>
+<td><p>クリスマスディナーショー2006 “ RAG FAIR ＆ INSPi 12人のHoly Night ”</p></td>
+<td><p>グランドプリンスホテル赤坂 (12月20日,21日)・ホテル阪急インターナショナル (12月24日)</p></td>
+</tr>
+<tr class="odd">
 <td><p>2006年12月23日</p></td>
 <td><p>Christmas Premium Live</p></td>
 <td><p>KDDI DESINING STUDIO</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2007年</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>2007年1月20日, 21日</p></td>
-<td><p>FCR LIVE Vol.3 秘密倶楽部 2007[150]</p></td>
-<td><p>大阪[151]・東京[152]</p></td>
-</tr>
 <tr class="odd">
+<td><p>2007年 1月20日, 21日</p></td>
+<td><p>FCR LIVE Vol.3 秘密倶楽部 2007[138]</p></td>
+<td><p>大阪 御堂会館 (1月20日)・東京 日本教育会館 一ツ橋ホール (1月21日)</p></td>
+</tr>
+<tr class="even">
 <td><p>2007年 2月12日</p></td>
 <td><p>THE FLOWER'S SESSION 2</p></td>
 <td><p>クレアこうのす</p></td>
 </tr>
-<tr class="even">
-<td><p>2007年3月21日- 26日,<br />
-3月31日, 4月1日</p></td>
-<td><p>OUT OF ORDER 〜偉人伝心〜[153]</p></td>
-<td><p>青山劇場[154]・大阪 厚生年金会館 芸術ホール[155]</p></td>
-</tr>
 <tr class="odd">
+<td><p>2007年 3月21日- 26日,<br />
+3月31日, 4月1日</p></td>
+<td><p>OUT OF ORDER 〜偉人伝心〜[139]</p></td>
+<td><p>青山劇場 (3月21日- 3月26日)<br />
+大阪 厚生年金会館 芸術ホール (3月31日, 4月1日)</p></td>
+</tr>
+<tr class="even">
 <td><p>2007年 4月29日</p></td>
 <td><p>J-WAVE MUSIC GARDEN LIVE</p></td>
 <td><p>六本木ヒルズアリーナ</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2007年 4月22日</p></td>
 <td><p>コスモアースコンシャス アクト アースデー・コンサート</p></td>
 <td><p>日本武道館</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2007年 4月28日</p></td>
 <td><p>ズームSUPERステージ</p></td>
 <td><p>名古屋 久屋大通公園 久屋広場</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2007年 4月29日</p></td>
 <td><p>J-WAVE MUSIC GARDEN LIVE</p></td>
 <td><p>六本木ヒルズアリーナ</p></td>
 </tr>
+<tr class="even">
+<td><p>2007年 5月15日, 17日</p></td>
+<td><p>エコッツェリア・オープニングイベント「グリーンメディアエキスポ」<br />
+〜アジアの温暖化対策のため、丸の内から世界へ地球温暖化防止を呼びかける〜</p></td>
+<td><p>新丸ビル エコッツェリア</p></td>
+</tr>
 <tr class="odd">
-<td><p>2007年7月10日- 31日</p></td>
-<td><p>ザ・ヒットパレード 〜ショウと私を愛した夫〜[156]</p></td>
-<td><p>ル テアトル銀座</p></td>
+<td><p>2007年 6月10日</p></td>
+<td><p>RAG FAIR 大聖堂LIVE[140]</p></td>
+<td><p>茨城 ラ・フォレスタ・ディ・マニフィカ内 大聖堂ドゥオモ・ディ・トリニータ</p></td>
 </tr>
 <tr class="even">
+<td><p>2007年 7月10日- 31日</p></td>
+<td><p>ザ・ヒットパレード 〜ショウと私を愛した夫〜[141]</p></td>
+<td><p>ル テアトル銀座</p></td>
+</tr>
+<tr class="odd">
 <td><p>2007年 8月 6日</p></td>
 <td><p>音霊 SEA STUDIO 2007</p></td>
 <td><p>音霊 OTODAMA SEA STUDIO</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2007年 8月14日</p></td>
 <td><p>POWER OF ATAMIX '07</p></td>
 <td><p>熱海観光港芝生広場 野外特設ステージ</p></td>
 </tr>
-<tr class="even">
-<td><p>2007年8月25日- 9月12日</p></td>
-<td><p>LIVE HOUSE TOUR<br />
-“ RAG FAIR LIVE Rally 2007 ”[157]</p></td>
-<td><p>神奈川[158]・新潟[159]・広島[160]・香川[161]・福岡[162]<br />
-愛知[163]・大阪[164]・宮城[165]・北海道[166]・東京[167]</p></td>
-</tr>
 <tr class="odd">
+<td><p>2007年 8月25日- 9月12日</p></td>
+<td><p>LIVE HOUSE TOUR “ RAG FAIR LIVE Rally 2007 ”[142]</p></td>
+<td><p>神奈川[143]・新潟[144]・広島[145]・香川[146]・福岡[147]<br />
+愛知[148]・大阪[149]・宮城[150]・北海道[151]・東京[152]</p></td>
+</tr>
+<tr class="even">
 <td><p>2007年 8月29日</p></td>
-<td><p>あなたが主役 音楽のある街で[168]</p></td>
+<td><p>あなたが主役 音楽のある街で[153]</p></td>
 <td><p>千葉県文化会館</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2007年 9月13日</p></td>
-<td><p>BS永遠の音楽 叙情歌大全集[169]</p></td>
+<td><p>BS永遠の音楽 叙情歌大全集[154]</p></td>
 <td><p>NHKホール</p></td>
 </tr>
-<tr class="odd">
-<td><p>2007年9月18日, 20日</p></td>
-<td><p>WHAT's IN Presents<br />
-LIVE for MUSIC PEOPLE WE LOVE MUSIC Vol.3</p></td>
-<td><p>宮城[170]・北海道[171]</p></td>
-</tr>
 <tr class="even">
+<td><p>2007年 9月18日, 20日</p></td>
+<td><p>WHAT's IN Presents LIVE for MUSIC PEOPLE WE LOVE MUSIC Vol.3</p></td>
+<td><p>Zepp Sendai (9月18日)・Zepp Sapporo (9月20日)</p></td>
+</tr>
+<tr class="odd">
 <td><p>2007年 9月22日</p></td>
 <td><p>FM香川開局20周年記念イベント“ スーパーカウントダウン ”</p></td>
 <td><p>サンポート高松 デックスガレリア</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2007年 9月29日</p></td>
-<td><p>大江千里のLive Depot[172]</p></td>
+<td><p>大江千里のLive Depot[155]</p></td>
 <td><p>TOKYO FMホール</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2007年10月 6日</p></td>
-<td><p>第40回 社会福祉大相撲[173]</p></td>
+<td><p>第40回 社会福祉大相撲[156]</p></td>
 <td><p>両国国技館</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2007年10月 7日</p></td>
 <td><p>ZIP SUPER SQUARE</p></td>
 <td><p>久屋大通公園 久屋広場</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2007年11月10日</p></td>
 <td><p>RAG FAIRスペシャルライブ</p></td>
-<td><p>国分寺エル[174]</p></td>
+<td><p>国分寺エル[157]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2007年12月 7日</p></td>
 <td><p>冬乃唱会</p></td>
 <td><p>渋谷Q-AXシネマ</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2007年12月11日</p></td>
 <td><p>J-WAVE CHRISTMAS LIVE</p></td>
 <td><p>TOKYO CITY VIEW</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2007年12月12日</p></td>
 <td><p>第31回ラジオチャリティミュージックソン特別企画<br />
 RAG FAIR CHRISTMAS CHARITY LIVE</p></td>
 <td><p>郡山市民文化センター</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2007年12月14日</p></td>
 <td><p>IBCラジオ チャリティミュージックソン30周年記念<br />
 RAG FAIRチャリティーライブ</p></td>
 <td><p>岩手教育会館</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2007年12月20日, 24日</p></td>
 <td><p>RAG FAIR クリスマスディナーショー2007</p></td>
-<td><p>東京[175]・大阪[176]</p></td>
+<td><p>グランドプリンスホテル赤坂 (12月20日)・ホテル阪急インターナショナル (12月24日)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2008年</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2008年 1月 6日</p></td>
-<td><p>魅惑のスタンダードポップス[177]</p></td>
+<td><p>魅惑のスタンダードポップス[158]</p></td>
 <td><p>目黒 Blues Alley Japan</p></td>
 </tr>
+<tr class="odd">
+<td><p>2008年 1月19日, 20日</p></td>
+<td><p>FCR LIVE Vol.4 秘密倶楽部2008 〜ラグ主総会〜[159]</p></td>
+<td><p>東京 日本教育会館 一ツ橋ホール (1月19日)・大阪 クレオ大阪北 (1月20日)</p></td>
+</tr>
 <tr class="even">
-<td><p>2008年1月19日, 20日</p></td>
-<td><p>FCR LIVE Vol.4 秘密倶楽部2008 〜ラグ主総会〜[178]</p></td>
-<td><p>東京[179]・大阪[180]</p></td>
+<td><p>2008年 3月1月- 4月11日</p></td>
+<td><p>RAG FAIR TOUR '08 HALL Rally 〜カラーズ〜[160]</p></td>
+<td><p>大阪[161]・新潟[162]・東京[163]・埼玉[164]・宮城[165]・北海道[166]<br />
+広島[167]・福岡[168]・香川[169]・高知[170]・愛知[171]</p></td>
 </tr>
 <tr class="odd">
-<td><p>2008年3月1月- 4月11日</p></td>
-<td><p>RAG FAIR TOUR '08 HALL Rally 〜カラーズ〜[181]</p></td>
-<td><p>大阪[182]・新潟[183]・東京[184]・埼玉[185]・宮城[186]・北海道[187]<br />
-広島[188]・福岡[189]・香川[190]・高知[191]・愛知[192]</p></td>
-</tr>
-<tr class="even">
 <td><p>2008年 3月 9日</p></td>
-<td><p>NOCTY MUSIC CONTESTチャンピオン大会ドリームステージ[193]</p></td>
+<td><p>NOCTY MUSIC CONTESTチャンピオン大会ドリームステージ[172]</p></td>
 <td><p>高津市民館 ノクティホール</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2008年 4月12日</p></td>
 <td><p>FCR AFTER PARTY '08 〜カラーズed〜</p></td>
 <td><p>名古屋 CLUB QUATTRO</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2008年 7月26日</p></td>
 <td><p>楢葉町サマーフェスティバル2008 RAG FAIR野外ライブ</p></td>
 <td><p>天神岬スポーツ公園</p></td>
 </tr>
+<tr class="even">
+<td><p>2008年 8月10日- 28日</p></td>
+<td><p>RAG FAIR Special Summer '08 Live[173]</p></td>
+<td><p>Billboard Live FUKUOKA (8月10日)・NAGOYA Blue Note (8月12日, 13日)<br />
+Billboard Live OSAKA (8月15日, 16日)・Motion Blue yokohama (8月27日, 28日)</p></td>
+</tr>
 <tr class="odd">
-<td><p>2008年8月10日- 28日</p></td>
-<td><p>RAG FAIR Special Summer '08 Live[194]</p></td>
-<td><p>福岡[195]・愛知[196]・大阪[197]・神奈川[198]</p></td>
+<td><p>2008年 8月31日</p></td>
+<td><p>青春アカペラ甲子園 全国アカペラリーグ Presents RAG FAIR LIVE‼︎</p></td>
+<td><p>お台場冒険ランド 冒険王スタジアム</p></td>
 </tr>
 <tr class="even">
-<td><p>2008年 8月31日</p></td>
-<td><p>冒険王ファイナル 青春アカペラ甲子園 RAG FAIR LIVE</p></td>
-<td><p>お台場冒険王</p></td>
-</tr>
-<tr class="odd">
 <td><p>2008年 9月21日</p></td>
 <td><p>Sunshine City The 30th Anniversary Live -KiseKi-</p></td>
 <td><p>池袋 サンシャインシティ噴水広場</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2008年10月 5日</p></td>
 <td><p>ZIP-FM 15th ANNIVERSARY “ZIP SUPER SQUARE”</p></td>
 <td><p>久屋大通公園 久屋広場</p></td>
+</tr>
+<tr class="even">
+<td><p>2008年10月11日</p></td>
+<td><p>FM AICHI AUTUMN PREMIUM LIVE in DENPARK</p></td>
+<td><p>愛知 安城産業文化公園 デンパーク 水のステージ</p></td>
 </tr>
 <tr class="odd">
 <td><p>2008年10月13日</p></td>
@@ -1048,172 +1096,176 @@ RAG FAIRチャリティーライブ</p></td>
 </tr>
 <tr class="even">
 <td><p>2008年10月19日</p></td>
-<td><p>『Good Good Day！/ Let's ハーモニー』<br />
-リリースイベント</p></td>
+<td><p>『Good Good Day！/ Let's ハーモニー』リリースイベント</p></td>
 <td><p>東京ドームシティ ラクーアガーデンステージ</p></td>
 </tr>
 <tr class="odd">
 <td><p>2008年10月25日</p></td>
-<td><p>コスモ アースコンシャス アクト<br />
-クリーン・キャンペーン in 東京[199]</p></td>
+<td><p>コスモ アースコンシャス アクト クリーン・キャンペーン in 東京[174]</p></td>
 <td><p>渋谷C.C.Lemonホール前広場</p></td>
 </tr>
 <tr class="even">
 <td><p>2008年10月26日</p></td>
-<td><p>『Good Good Day！/ Let's ハーモニー』<br />
-リリース記念イベント</p></td>
+<td><p>『Good Good Day！/ Let's ハーモニー』リリース記念イベント</p></td>
 <td><p>サンリオピューロランド</p></td>
 </tr>
 <tr class="odd">
+<td><p>2008年10月30日</p></td>
+<td><p>MUSIC ON! TV[175]<br />
+MUSIC EXPRESS from Break -Tokyo Station-</p></td>
+<td><p>東京駅構内 Break</p></td>
+</tr>
+<tr class="even">
 <td><p>2008年11月 3日</p></td>
 <td><p>中央学院大学 学園祭あびこ祭</p></td>
 <td><p>中央学院大学 野外特設ステージ</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2008年11月15日</p></td>
-<td><p>クリスマスイルミネーション点灯式[200]</p></td>
+<td><p>クリスマスイルミネーション点灯式[176]</p></td>
 <td><p>横浜ベイクォーター</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2008年11月16日</p></td>
 <td><p>全国ハモネプリーグ スペシャルライブ2008</p></td>
 <td><p>代々木 山野ホール</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2008年11月22日</p></td>
 <td><p>スマイルツリー点灯式＆MerryスマイルChristmasライブ</p></td>
 <td><p>アクアシティお台場</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2008年11月28日</p></td>
 <td><p>プレミアムパーティー</p></td>
 <td><p>横浜クリフサイド</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2008年12月 6日</p></td>
-<td><p>RAG FAIR MUSIC LAND[201]</p></td>
+<td><p>RAG FAIR MUSIC LAND[177]</p></td>
 <td><p>サンリオピューロランド エンターテインメントホール</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2008年12月 7日</p></td>
 <td><p>京葉銀行 presents JOY OF CHRISTMAS LIVE</p></td>
 <td><p>ららぽーと 柏の葉</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2008年12月18日,19日,24日</p></td>
 <td><p>RAG FAIR クリスマスディナーショー2008</p></td>
-<td><p>東京[202]・大阪[203]</p></td>
+<td><p>グランドプリンスホテル赤坂 (12月18日,19日)・ホテル阪急インターナショナル (12月24日)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2008年12月20日</p></td>
 <td><p>TOKYO MIDTOWN クリスマススペシャルライブ</p></td>
 <td><p>TOKYO MIDTOWN特設ステージ</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2008年12月21日</p></td>
-<td><p>Merry Snow Christmas Live 2008[204]</p></td>
+<td><p>Merry Snow Christmas Live 2008[178]</p></td>
 <td><p>横浜ランドマークプラザ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2008年12月23日</p></td>
-<td><p>〜ありがとう、半世紀。〜<br />
-TOKYO TOWER 50TH ANNIVERSARY X'MAS</p></td>
+<td><p>〜ありがとう、半世紀。〜 TOKYO TOWER 50TH ANNIVERSARY X'MAS</p></td>
 <td><p>東京タワー正面玄関前特設ステージ</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2008年12月25日</p></td>
-<td><p>MerryスマイルChristmas<br />
-<a href="../Page/葉加瀬太郎.md" title="wikilink">葉加瀬太郎</a> ＆ RAG FAIR スペシャルライブ</p></td>
+<td><p>MerryスマイルChristmas <a href="../Page/葉加瀬太郎.md" title="wikilink">葉加瀬太郎</a> ＆ RAG FAIR スペシャルライブ</p></td>
 <td><p>アクアシティお台場 アクアアリーナ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2008年12月28日</p></td>
-<td><p>松永貴志ジャズ・コンサート<br />
-Jazz Box 〜年末のおもちゃ箱〜[205]</p></td>
+<td><p>松永貴志ジャズ・コンサート Jazz Box 〜年末のおもちゃ箱〜[179]</p></td>
 <td><p>Bunkamura オーチャードホール</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2008年12月31日</p></td>
 <td><p>カウントダウンパーティー '08 -'09</p></td>
 <td><p>東京ジョイポリス</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2009年</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2009年 1月10日, 11日</p></td>
+<td><p>FCR LIVE Vol.5 秘密倶楽部2009 〜告白歌合戦〜[180]</p></td>
+<td><p>クレオ大阪北 (1月10日)・東京 九段会館 (1月11日)</p></td>
+</tr>
 <tr class="even">
-<td><p>2009年1月10日, 11日</p></td>
-<td><p>FCR LIVE Vol.5 秘密倶楽部2009 〜告白歌合戦〜[206]</p></td>
-<td><p>大阪[207]・東京[208]</p></td>
+<td><p>2009年 3月5日- 4月5日</p></td>
+<td><p>ザ・ヒットパレード 〜ショウと私を愛した夫〜[181]</p></td>
+<td><p>ル テアトル銀座 (3月5日- 25日)・大阪 シアターBRAVA! (4月1日- 5日)</p></td>
 </tr>
 <tr class="odd">
-<td><p>2009年3月5日- 4月5日</p></td>
-<td><p>ザ・ヒットパレード 〜ショウと私を愛した夫〜[209]</p></td>
-<td><p>東京[210]・大阪[211]</p></td>
-</tr>
-<tr class="even">
 <td><p>2009年 4月 7日</p></td>
 <td><p>2009 <a href="https://ja.wikipedia.org/wiki/埼玉西武ライオンズ" title="wikilink">埼玉西武ライオンズ</a> ホーム開幕戦セレモニー</p></td>
 <td><p>西武ドーム</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2009年 4月17日</p></td>
 <td><p>Marunouchi Love's music</p></td>
 <td><p>丸ビル MARUCUBE</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2009年 4月18日</p></td>
 <td><p>音楽のまち・かわさき アジア交流音楽祭 〜ASIAN HEALING 2009〜</p></td>
 <td><p>ミューザ川崎 シンフォニーホール</p></td>
 </tr>
-<tr class="odd">
-<td><p>2009年4月30日- 5月8日</p></td>
-<td><p>2009 RAG FAIR NEO PROJECT<br />
-“ Non Stop Hour ”[212]</p></td>
-<td><p>大阪[213]・東京[214]・愛知[215]</p></td>
-</tr>
 <tr class="even">
+<td><p>2009年 4月30日- 5月8日</p></td>
+<td><p>2009 RAG FAIR NEO PROJECT “ Non Stop Hour ”[182]</p></td>
+<td><p>Zepp Osaka (4月30日)・Zepp Tokyo (5月5日, 6日)[183]・Zepp Nagoya (5月8日)</p></td>
+</tr>
+<tr class="odd">
 <td><p>2009年 5月23日</p></td>
-<td><p>LaLaport MUSIC JAM Vol.26[216]</p></td>
+<td><p>LaLaport MUSIC JAM Vol.26[184]</p></td>
 <td><p>ららぽーとTOKYO BAY</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2009年 6月23日</p></td>
 <td><p>メリミー‼︎ リリースイベント</p></td>
 <td><p>池袋サンシャインシティ噴水広場</p></td>
 </tr>
-<tr class="even">
-<td><p>2009年6月27日, 7月4日</p></td>
+<tr class="odd">
+<td><p>2009年 6月27日, 7月4日</p></td>
 <td><p>Yohito Teraoka Presents Golden Circle vol.13</p></td>
-<td><p>東京[217]・大阪[218]</p></td>
+<td><p>品川ステラボウル (6月27日)・なんばHatch (7月4日)</p></td>
+</tr>
+<tr class="even">
+<td><p>2009年 7月28日- 8月4日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Boyz_II_Men" title="wikilink">Boyz II Men</a> with New York Symphony Ensemble JAPAN TOUR 2009[185]</p></td>
+<td><p>梅田芸術劇場メインホール (7月28日,29日)・名古屋国際会議場センチュリーホール (8月1日)<br />
+パシフィコ横浜 国立大ホール (8月4日)</p></td>
 </tr>
 <tr class="odd">
-<td><p>2009年7月28日- 8月4日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Boyz_II_Men" title="wikilink">Boyz II Men</a> with New York Symphony Ensemble<br />
-JAPAN TOUR 2009[219]</p></td>
-<td><p>大阪[220]・愛知[221]・神奈川[222]</p></td>
-</tr>
-<tr class="even">
 <td><p>2009年 7月31日</p></td>
 <td><p>Fei！CR LIVE</p></td>
 <td><p>東京ドームシティ Gロッソ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2009年 8月 9日</p></td>
-<td><p>土屋礼央 presents REO-LIVE-ing I.J.P 〜Vol.0〜[223]</p></td>
+<td><p>土屋礼央 presents REO-LIVE-ing I.J.P 〜Vol.0〜[186]</p></td>
 <td><p>CLUB CITTA' 川崎</p></td>
 </tr>
-<tr class="even">
-<td><p>2009年8月28日- 9月27日</p></td>
-<td><p>Magical Music Tour[224]</p></td>
-<td><p>愛知[225]・宮城[226]・北海道[227]・東京[228]・石川[229]<br />
-大阪[230]・広島[231]・高知[232]・福岡[233]</p></td>
-</tr>
 <tr class="odd">
+<td><p>2009年 8月28日- 9月27日</p></td>
+<td><p>Magical Music Tour[187]</p></td>
+<td><p>愛知[188]・宮城[189]・北海道[190]・東京[191]・石川[192]<br />
+大阪[193]・広島[194]・高知[195]・福岡[196]</p></td>
+</tr>
+<tr class="even">
 <td><p>2009年 8月29日</p></td>
 <td><p>大鉄道博 スペシャルステージ</p></td>
 <td><p>グランドプリンスホテル新高輪 大宴会場 飛天</p></td>
+</tr>
+<tr class="odd">
+<td><p>2009年10月 4日</p></td>
+<td><p>三内丸山縄文遺跡コンサート 〜FEEL THE ROOTS〜</p></td>
+<td><p>青森 特別史跡 <a href="../Page/三内丸山遺跡.md" title="wikilink">三内丸山遺跡</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2009年10月11日</p></td>
@@ -1231,76 +1283,85 @@ JAPAN TOUR 2009[219]</p></td>
 <td><p>文教大学越谷キャンパス 体育館</p></td>
 </tr>
 <tr class="odd">
+<td><p>2009年11月14日</p></td>
+<td><p>Japan A cappella Movement 2009 〜SEED〜[197]</p></td>
+<td><p>イクスピアリ セレブレーション・プラザ</p></td>
+</tr>
+<tr class="even">
 <td><p>2009年11月15日</p></td>
-<td><p>FCR5th Anniversary event ALL REQUEST LIVE[234]</p></td>
+<td><p>FCR5th Anniversary event ALL REQUEST LIVE[198]</p></td>
 <td><p>CLUB CITTA' 川崎</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2009年12月18日,19日,24日</p></td>
 <td><p>RAG FAIR クリスマスディナーショー2009</p></td>
-<td><p>東京[235]・大阪[236]</p></td>
-</tr>
-<tr class="odd">
-<td><p>2009年12月23日</p></td>
-<td><p>Bright Christmas 2009<br />
-MUSIC ON! TV presents Xmas live in 東京丸の内[237]</p></td>
-<td><p>丸ビル MARUCUBE</p></td>
+<td><p>グランドプリンスホテル赤坂 (12月18日,19日)・ホテル阪急インターナショナル (12月24日)</p></td>
 </tr>
 <tr class="even">
+<td><p>2009年12月23日</p></td>
+<td><p>Bright Christmas 2009<br />
+MUSIC ON! TV presents Xmas live in 東京丸の内[199]</p></td>
+<td><p>丸ビル MARUCUBE</p></td>
+</tr>
+<tr class="odd">
 <td><p>2010年</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>2010年2月5日- 7日</p></td>
+<tr class="even">
+<td><p>2010年 2月5日- 7日</p></td>
 <td><p>ハモネプSUPERライブ〜2010年冬〜</p></td>
 <td><p>品川ステラボウル</p></td>
 </tr>
-<tr class="even">
-<td><p>2010年3月30日- 4月30日</p></td>
-<td><p>RAG FAIR Non Stop Hour 2010[238]</p></td>
-<td><p>神奈川[239]・東京[240]・愛知[241]・大阪[242]・福岡[243]・宮城[244]・北海道[245]</p></td>
-</tr>
 <tr class="odd">
+<td><p>2010年 3月30日- 4月30日</p></td>
+<td><p>RAG FAIR Non Stop Hour 2010[200]</p></td>
+<td><p>神奈川[201]・東京[202]・愛知[203]・大阪[204]・福岡[205]・宮城[206]・北海道[207]</p></td>
+</tr>
+<tr class="even">
 <td><p>2010年 5月 4日</p></td>
 <td><p>MUSIC DAY 2010 SUPER LIVE ハモネプ PARK</p></td>
 <td><p>駒沢オリンピック公園</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2010年 5月30日</p></td>
-<td><p>FCR LIVE Vol.6 秘密倶楽部2010[246]</p></td>
+<td><p>FCR LIVE Vol.6 秘密倶楽部2010[208]</p></td>
 <td><p>Shibuya O-EAST</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2010年 7月 8日</p></td>
-<td><p>MUSIC ON! TV×OTODAMA SEA STUDIO<br />
-“SEA OF LOVE Vol.2”</p></td>
+<td><p>MUSIC ON! TV×OTODAMA SEA STUDIO “SEA OF LOVE Vol.2”</p></td>
 <td><p>音霊-OTODAMA SEA STUDIO 2010</p></td>
 </tr>
-<tr class="even">
-<td><p>2010年7月24日, 25日</p></td>
-<td><p>わたおん presents “ KIWAMI ”[247]</p></td>
+<tr class="odd">
+<td><p>2010年 7月24日, 25日</p></td>
+<td><p>わたおん presents “ KIWAMI ”[209]</p></td>
 <td><p>品川ステラボウル</p></td>
 </tr>
-<tr class="odd">
-<td><p>2010年8月7日- 9日</p></td>
-<td><p>Non Stop Hour ACTION![248]</p></td>
+<tr class="even">
+<td><p>2010年 8月7日- 9日</p></td>
+<td><p>Non Stop Hour ACTION![210]</p></td>
 <td><p>赤坂ACTシアター</p></td>
 </tr>
-<tr class="even">
-<td><p>2010年9月1日- 23日</p></td>
-<td><p>RAG FAIR Non Stop Hour 2010秋[249]</p></td>
-<td><p>東京[250]・ 愛知[251]・福岡[252]・宮城[253]・北海道[254]・大阪[255]</p></td>
-</tr>
 <tr class="odd">
+<td><p>2010年 9月1日- 23日</p></td>
+<td><p>RAG FAIR Non Stop Hour 2010秋[211]</p></td>
+<td><p>東京[212]・ 愛知[213]・福岡[214]・宮城[215]・北海道[216]・大阪[217]</p></td>
+</tr>
+<tr class="even">
 <td><p>2010年10月31日</p></td>
 <td><p>学園祭 第1回 こもれび祭</p></td>
 <td><p>東洋大学</p></td>
 </tr>
+<tr class="odd">
+<td><p>2010年12月 2日</p></td>
+<td><p>“A Cappella X'mas” INSPi presents 今夜はパーティー・ナイト 〜サンタが街にやって来る〜</p></td>
+<td><p>表参道GROUND</p></td>
+</tr>
 <tr class="even">
 <td><p>2010年12月17日,18日,23日</p></td>
 <td><p>RAG FAIR クリスマスディナーショー2010</p></td>
-<td><p>東京[256]・大阪[257]</p></td>
+<td><p>グランドプリンスホテル赤坂 (12月17日,18日)・ホテル阪急インターナショナル (12月23日)</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011年</p></td>
@@ -1308,28 +1369,30 @@ MUSIC ON! TV presents Xmas live in 東京丸の内[237]</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2011年2月19日- 4月16日</p></td>
-<td><p>TOUR 2011 “ That's RAG FAIR‼︎ ”[258]</p></td>
-<td><p>愛知[259]・大阪[260]・東京[261] 2011年4月16日の公演をもって活動休止</p></td>
+<td><p>2011年 2月19日- 4月16日</p></td>
+<td><p>TOUR 2011 “ That's RAG FAIR‼︎ ”[218]</p></td>
+<td><p>Zepp Nagoya (2月19日)・なんばHatch (2月21日, 22日)・Shibuya O-EAST (3月2日)<br />
+Zepp Tokyo (3月7日, 8日, 4月16日[219]) 2011年4月16日の公演をもって活動休止</p></td>
 </tr>
 </tbody>
 </table>
 
 活動休止期間 (2011年4月17日 - 2012年11月30日)
-{|class=wikitable style=font-size:small |- \! 公演日 \!\! タイトル \!\! 会場 \!\! 備考 |- \!colspan=7|2012年 |- | style="white-space:nowrap" | 2012年12月1日- 3日 || スマイルとうほくプロジェクト || 岩手\[262\]・宮城\[263\]・福島\[264\] || RAG FAIRが再集結し、活動を再開\[265\] |- | 2012年12月17日, 18日
-12月24日 || RAG FAIR クリスマスディナーショー2012 || 東京\[266\]・大阪\[267\] || |- | 2012年12月29日, 30日 || RAG FAIRディナーショー 〜おなかいっぱいのあなたに〜 || ル テアトル銀座 || |- \!colspan=7|2013年 |- | 2013年10月3日- 10日 || CIRCLE TOUR UTAMATSURI 2013 || 東京\[268\]・愛知\[269\]・大阪\[270\] || ファンクラブ会員限定ライブ
+{|class=wikitable style=font-size:small |- \! 公演日 \!\! タイトル \!\! 会場 \!\! 備考 |- \!colspan=7|2012年 |- | style="white-space:nowrap" | 2012年12月1日- 3日 || スマイルとうほくプロジェクト || 岩手\[220\]・宮城\[221\]・福島\[222\] || RAG FAIRが再集結し、活動を再開\[223\] |- | 2012年12月17日, 18日
+12月24日 || RAG FAIR クリスマスディナーショー2012 || 東京\[224\]・大阪\[225\] || |- | 2012年12月29日, 30日 || RAG FAIRディナーショー 〜おなかいっぱいのあなたに〜 || ル テアトル銀座 || |- \!colspan=7|2013年 |- | 2013年10月3日- 10日 || CIRCLE TOUR UTAMATSURI 2013 || 東京\[226\]・愛知\[227\]・大阪\[228\] || ファンクラブ会員限定ライブ
 加納が脱退して初めての公演。土屋は[TTRE](https://ja.wikipedia.org/wiki/TTRE "wikilink")でもゲスト出演した |- \!colspan=7|2014年 |- | 2014年1月30日-2月2日 || RAG FAIR 2014 “Raggage” || 池袋サンシャイン劇場 || 構成・演出に[今村ねずみ](../Page/今村ねずみ.md "wikilink")を迎えた。全5公演 |- \!colspan=7|2015年 |- | 2015年 1月18日 || CIRCLE +
-KICKOFF EVENT\[271\] || 表参道GROUND || |- \!colspan=7|2016年 |- | 2016年5月3日- 8日 || RAG FAIR presents
-“ ヒッヒッフー ”＆“ LIVE ” || 本多劇場 || 全11公演\[272\]
+KICKOFF EVENT\[229\] || 表参道GROUND || |- \!colspan=7|2016年 |- | 2016年 5月3日- 8日 || RAG FAIR presents
+“ ヒッヒッフー ”＆“ LIVE ” || 本多劇場 || 全11公演\[230\]
 サポートベースボーカルに[ダイナマイトしゃかりきサ〜カス](https://ja.wikipedia.org/wiki/ダイナマイトしゃかりきサ〜カス "wikilink")のKWANIを迎える |- | 2016年10月16日 || 福島フェス2016 || 六本木ヒルズアリーナ || サポートベースボーカル: KWANI |- \!colspan=7|2017年 |- | 2017年 5月 6日 || Hanno Green Carnival 2017
 〜マナブ アソブ ツナガル〜 || 駿河台大学キャンパス エリアヤルヴィ || ステージライブと「RAG FAIRとうたおう」ワークショップを開催
 サポートベースボーカル: KWANI |- | 2017年10月14日 || 福島フェス2017 || 六本木ヒルズアリーナ || サポートベースボーカル: 中田啓一郎 |- \!colspan=7|2018年 |- | 2018年3月23日, 24日
 4月7日 || fukushima さくらプロジェクト
 はるか2018
-〜戊辰の風 春の風〜 || 会津若松\[273\]・白河\[274\] || プロジェクションマッピングのクライマックスで
-復興支援ソング「花は咲く」を歌った |- | 2018年10月20日 || 福島フェス2018 || 六本木ヒルズアリーナ || サポートベースボーカル: KWANI |- \!colspan=7|2019年 |- | 2019年9月28日 || ユナフェス Presents
+〜戊辰の風 春の風〜 || 会津若松 鶴ヶ城\[231\]
+白河小峰城 \[232\] || プロジェクションマッピングのクライマックスで
+復興支援ソング「花は咲く」を歌った |- | 2018年10月20日 || 福島フェス2018 || 六本木ヒルズアリーナ || サポートベースボーカル: KWANI |- \!colspan=7|2019年 |- | 2019年 9月28日 || ユナフェス Presents
 RAG FAIR LIVE || club NEO || 奥村が脱退して初めての公演
-サポートベースボーカル: KWANI、ボイパサポート: [Daichi](https://ja.wikipedia.org/wiki/Daichi "wikilink") |- | 2019年11月16日 || 福島フェス2019\[275\] || 六本木ヒルズアリーナ || サポートベースボーカル: KWANI、ボイパサポート: Daichi |- | 2019年11月28日,29日 || RAG FAIR We\!プレ LIVE 2019 || 表参道GROUND || We\!プレ会員限定ライブ
+サポートベースボーカル: [KWANI](https://ja.wikipedia.org/wiki/ダイナマイトしゃかりきサ〜カス "wikilink")、ボイパサポート: [Daichi](https://ja.wikipedia.org/wiki/Daichi "wikilink") |- | 2019年11月16日 || 福島フェス2019\[233\] || 六本木ヒルズアリーナ || サポートベースボーカル: KWANI、ボイパサポート: Daichi |- | 2019年11月28日,29日 || RAG FAIR We\!プレ LIVE 2019 || 表参道GROUND || We\!プレ会員限定ライブ
 サポートベースボーカル: KWANI、ボイパサポート: Daichi |- \!colspan=7|2020年 |- | 2020年 8月29日 || RAG FAIRの音楽室 || [ZAIKO](https://zaiko.io/) || 初めての配信ライブ
 サポートベースボーカル: KWANI、ボイパサポート: Daichi |}
 
@@ -1543,7 +1606,7 @@ RAG FAIR LIVE || club NEO || 奥村が脱退して初めての公演
 
 ### CM
 
-  - 横浜市 STAY IN YOKOHAMA(出演：2002年11月21日 -）\[276\]
+  - 横浜市 STAY IN YOKOHAMA(出演：2002年11月21日 -）\[234\]
   - [任天堂](../Page/任天堂.md "wikilink")　ウィンターキャンペーン（イメージソング担当：2003年12月 - ）
   - [Aviva](../Page/アビバ.md "wikilink")（出演&イメージソング担当：2004年1月 - ）
   - [マクドナルド](../Page/日本マクドナルド.md "wikilink")　フィッシュマックディッパー（出演&イメージソング担当：2004年3月 - ）
@@ -1655,215 +1718,173 @@ RAG FAIR LIVE || club NEO || 奥村が脱退して初めての公演
 62. ワタナベエンターテインメントプロデュースのイベント、初開催
 63. 初の海外ライブ。NHK BS2で12月7日放送
 64. 12会場15公演
-65. 三郷市文化会館 (2月7日)、大宮ソニックシティ (3月11日)
+65. 三郷市文化会館 (2月7日)・大宮ソニックシティ (3月11日)
 66. 岩手県民会館 (2月12日)
 67. 宮城県民会館 (2月13日)
-68. NHKホール (2月15日、16日)
+68. NHKホール (2月15日, 16日)
 69. 札幌市民会館 (2月19日)
 70. 新潟テルサ (2月22日)
 71. 広島郵便貯金ホール (2月25日)
-72. 愛知勤労会館 (2月26日、27日)
-73. 大阪フェスティバルホール (3月1日、2日)
+72. 愛知勤労会館 (2月26日, 27日)
+73. 大阪フェスティバルホール (3月1日, 2日)
 74. 福岡市民会館 (3月6日)
 75. 香川県民ホール グランド (3月8日)
 76. ニッポン放送主催の夏のイベント。2002年に引き続き出演
 77. 全3公演
-78. 国際フォーラムホールC (11月14日、15日)
-79. シンフォニーホール (11月22日)
-80. Zepp Osaka (4月29日) 2回公演
-81. Zepp Tokyo (5月2日) 3回公演
-82. 2回公演
-83. 11会場14公演
-84. 府中の森芸術劇場 どりーむホール (9月16日)・ 東京国際フォーラム ホールA (10月24日、25日)
-85. 福井フェニックスプラザ (9月23日)
-86. 新潟テルサ (9月24日)
-87. 北海道厚生年金会館 (9月29日)
-88. 広島アステールプラザ (10月1日)
-89. 福岡市民会館 (10月3日)
-90. 松山市民会館 (10月4日)
-91. 愛知県勤労会館 (10月12日、13日)
-92. 大阪厚生年金会館 (10月16日、17日)
-93. 仙台サンプラザ (10月19日)
-94. ファンクラブ会員限定ライブ
-95. きゅりあん 大ホール (1月22日)
-96. クレオ大阪北 (1月23日)
-97. TOKYO FM、公開生放送＆ネット配信
-98. 7都市10公演
-99. サンシティ越谷 (3月15日)
-100. 仙台電力ホール (3月25日)
-101. 東京国際フォーラム ホールC (4月1日、2日)
-102. NHK大阪ホール (4月15日、16日)
-103. 新潟市民芸術文化会館 劇場 (4月19日)
-104. 名古屋市民会館 中ホール (4月21日、22日)
-105. メルパルクホールFUKUOKA (4月25日)
-106. [佐藤竹善](../Page/佐藤竹善.md "wikilink")、[サスケ](https://ja.wikipedia.org/wiki/サスケ "wikilink")と共に3都市を回った
-107. 中野サンプラザ (8月21日)
-108. 仙台サンプラザ (8月29日)
-109. 八戸市公会堂 (8月30日)
-110. ライブ＆シネマトーク
-111. 11都市18公演
-112. オルガホール (12月22日)
-113. 寝屋川市民会館 (12月23日) 2回公演
-114. 東海市立文化センター (12月24日) 2回公演
-115. 福島県文化センター (12月25日) 2回公演
-116. 彩の国さいたま芸術劇場 大ホール (1月5日) 2回公演
-117. 熊本国際交流センター (1月6日) 2回公演
-118. 金沢市アートホール (1月7日)
-119. 松山ビビットホール (1月9日)
-120. 長野NBSホール (1月14日) 2回公演
-121. 小金井市公会堂 (1月15日) 2回公演
-122. 札幌市教育文化会館 小ホール (1月17日)
-123. ファンクラブ会員限定ライブ
-124. クレオ大阪北 (1月28日)
-125. 九段会館 (1月29日)
-126. 6会場7公演
-127. 札幌 PENNY LANE24 (5月8日)
-128. 仙台 CLUB JUNK BOX (5月10日)
-129. なんばHatch (5月12日)
-130. クラブダイアモンドホール (5月13日)
-131. DRUM LOGOS (5月14日)
-132. SHIBUYA-AX (5月16日、17日)
-133. TOKYO FM 公開生放送＆ネット配信
-134. 2回公演
-135. bayfm公開録音
-136. 10都市12公演
-137. 松戸 森のホール21 (11月4日)
-138. 香川県民ホール アクト (11月6日)
-139. 広島アステールプラザ (11月8日)
-140. 道新ホール (11月12日)
-141. 仙台電力ホール (11月20日)
-142. 新潟市民芸術文化会館ホール (11月30日)
-143. 愛知勤労会館 (12月1日)
-144. NHKホール (12月6日、1月17日 追加公演)
-145. 福岡国際会議場 (12月9日)
-146. メルパルクホール (12月14日、15日)
-147. TOKYO FM 公開生放送
-148. グランドプリンスホテル赤坂 (12月20日、21日)
-149. ホテル阪急インターナショナル (12月24日)
-150. ファンクラブ会員限定ライブ
-151. 大阪 御堂会館 (1月20日)
-152. 日本教育会館 一ツ橋ホール(1月21日)
-153. 土屋は不参加
-154. 3月21日- 3月26日
-155. 3月31日、4月1日
-156. ワタナベエンターテインメントプロデュースのミュージカル
-157. 10会場11公演
-158. 横浜BLITZ (8月25日)
-159. 新潟LOTS (8月26日)
-160. 広島 CLUB QUATTRO (8月31日)
-161. 高松 DIME (9月1日)
-162. 福岡 DRUM LOGOS (9月2日)
-163. 名古屋クラブダイアモンドホール (9月5日)
-164. なんばHatch (9月6日)
-165. 仙台 CLUB JUNK BOX (9月8日)
-166. 札幌ペニーレーン24 (9月9日)
-167. SHIBUYA-AX (9月11日、12日)
-168. NHKBS2公開収録 (9月28日放送)
-169. NHKBS2公開収録 (9月22日放送)
-170. Zepp Sendai (9月18日)
-171. Zepp Sapporo (9月20日)
-172. 最終回。TOKYO FM 公開生放送＆ネット配信
-173. テレビ朝日公開録画 (11月9日放送)
-174. 100組200名の招待制ライブ
-175. グランドプリンスホテル赤坂 (12月20日)
-176. ホテル阪急インターナショナル (12月24日)
-177. NHKBS2公開収録 (1月19日放送)
-178. ファンクラブ会員限定ライブ
-179. 日本教育会館 一ツ橋ホール (1月19日)
-180. クレオ大阪北 (1月20日)
-181. 12会場14公演
-182. NHK大阪ホール (3月1日、2日)
-183. 新潟市民芸術文化会館 劇場 (3月8日)
-184. 府中の森芸術劇場 どりーむホール (3月10日) 、JCBホール (4月2日、3日)
-185. サンシティ越谷市民ホール (3月11日)
-186. 仙台電力ホール (3月15日)
-187. 札幌教育文化会館 (3月20日)
-188. NTTクレドホール (3月22日)
-189. 福岡国際会議場 (3月23日)
-190. 香川県県民ホール アクト (3月27日)
-191. BAY5 SQUARE (3月29日)
-192. 愛知県勤労会館 (4月11日)
-193. スペシャルゲストとして出演
-194. 各日2回公演
-195. Billboard Live 福岡 (8月10日)
-196. 名古屋 Blue Note (8月12日、13日)
-197. Billboard Live OSAKA (8月15日、16日)
-198. Motion Blue yokohama (8月27日、28日)
-199. [AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")と共に清掃活動とトークショーが行われた
-200. ミニライブ＆トークショー
-201. 2回公演
-202. グランドプリンスホテル赤坂 (12月18日、19日)
-203. ホテル阪急インターナショナル (12月24日)
-204. FM yokohama主催
-205. スペシャルゲストとして出演
-206. ファンクラブ会員限定ライブ
-207. クレオ大阪北 (1月10日)
-208. 九段会館 (1月11日)
-209. ワタナベエンターテインメントプロデュースのミュージカル。終演後RAG FAIRアフタートークショーも開催
-210. ル テアトル銀座 (3月5日-3月25日)
-211. シアターBRAVA\! (4月1日-4月5日)
-212. 3都市6公演
-213. Zepp Osaka (4月30日)
-214. Zepp Tokyo (5月5日、6日) 各日2回公演
-215. Zepp Nagoya (5月8日)
-216. bayfm 公開録音
-217. 品川ステラボウル (6月27日)
-218. なんばHatch (7月4日)
-219. 本編公演前にスペシャルゲストライブを行った
-220. 梅田芸術劇場 メインホール (7月28日、29日)
-221. 名古屋国際会議場 センチュリーホール (8月1日)
-222. パシフィコ横浜 国立大ホール (8月4日)
-223. ズボンドズボンも出演
-224. 9都市11公演
-225. 中京大学文化市民会館プルニエホール (8月28日)
-226. 仙台市民会館 (8月30日)
-227. Zepp Sapporo (9月5日)
-228. JCBホール (9月11日 追加公演 、12日、13日)
-229. 石川県文教会館 (9月19日)
-230. NHK大阪ホール (9月21日)
-231. NTTクレドホール (9月23日)
-232. BAY5 SQUARE (9月26日)
-233. ZEPP FUKUOKA (9月27日) 終演後別会場にてアフターパーティーも開催
-234. ファンクラブ会員限定ライブ
-235. グランドプリンスホテル赤坂 (12月18日、19日)
-236. ホテル阪急インターナショナル (12月24日)
-237. [MUSIC ON\! TVにて生中継！丸ビルに登場のRAG FAIRをレポート！ CDJournal ニュース(2009年12月24日)](https://www.cdjournal.com/i/news/rag-fair/28203)
-238. 7都市9公演
-239. 横浜BLITZ (3月30日)
-240. Zepp Tokyo (4月3日、4月30日)
-241. Zepp Nagoya (4月9日)
-242. Zepp Osaka (4月16日)
-243. Zepp Fukuoka (4月18日)
-244. Zepp Sendai (4月23日)
-245. Zepp Sapporo (4月25日)
-246. ファンクラブ会員限定ライブ
-247. Love Diaryも出演
-248. 全4公演
-249. 7会場8公演
-250. SHIBUYA-AX (9月1日) 追加公演、土屋の誕生日。終演後ファンクラブ会員限定イベント「プレミアムトーク“34”〜礼央さんを褒めちぎる会〜」も開催 / Zepp Tokyo (9月23日) 2回公演
-251. Zepp Nagoya (9月3日)
-252. Zepp Fukuoka (9月5日)
-253. Zepp Sendai (9月10日) 加納の誕生日。 終演後ファンクラブ会員限定イベント「プレミアムトーク“34” 〜加納さんを褒めちぎる会〜」も開催
-254. Zepp Sapporo (9月12日)
-255. Zepp Osaka (9月18日)
-256. グランドプリンスホテル赤坂 (12月17日、18日)
-257. ホテル阪急インターナショナル (12月23日)
-258. 3都市4会場7公演。活動休止発表後のライブツアー
-259. Zepp Nagoya (2月19日)
-260. なんばHatch (2月21日、22日)
-261. Shibuya O-EAST (3月2日)、Zepp Tokyo (3月7日、8日 / 4月16日はファンクラブ会員限定公演)
-262. 陸前高田 (12月1日)
-263. 石巻・鮎川 (12月2日)
-264. 福島市 (12月3日)
-265. [RAG FAIR(2012.11月号掲載 DI:GA s.p.interview) DISK GARAGE](https://www.diskgarage.com/feature/interview/1211ragfair.html)
-266. ザ・プリンス パークタワー東京 (12月17日、18日)
-267. ホテル阪急インターナショナル (12月24日)
-268. SHIBUYA-AX(10月3日)
-269. 名古屋ダイアモンドホール(10月9日)
-270. umeda AKASO(10月10日)
-271. ファンクラブ会員限定ライブ
-272. 各日“ヒッヒッフー”と“LIVE”の2公演、5月5日のみ “ヒッヒッフー”1公演 (5月5日、6日は子供ウエルカムデー)
-273. 鶴ヶ城 (3月23日、24日) 奥村は不参加
-274. 白河小峰城 (4月7日)
-275. 当初10月12日の出演を予定していたが[令和元年東日本台風](https://ja.wikipedia.org/wiki/令和元年東日本台風 "wikilink")の接近に伴い中止となり、11月16日に振替開催した
-276. ORICON NEWS　https://www.oricon.co.jp/prof/287718/cm/
+78. 2回公演
+79. 11会場14公演
+80. 府中の森芸術劇場 どりーむホール (9月16日)・ 東京国際フォーラム ホールA (10月24日, 25日)
+81. 福井フェニックスプラザ (9月23日)
+82. 新潟テルサ (9月24日)
+83. 北海道厚生年金会館 (9月29日)
+84. 広島アステールプラザ (10月1日)
+85. 福岡市民会館 (10月3日)
+86. 松山市民会館 (10月4日)
+87. 愛知県勤労会館 (10月12日, 13日)
+88. 大阪厚生年金会館 (10月16日, 17日)
+89. 仙台サンプラザ (10月19日)
+90. ファンクラブ会員限定ライブ
+91. TOKYO FM、公開生放送＆ネット配信
+92. 7都市10公演
+93. サンシティ越谷 (3月15日)
+94. 仙台電力ホール (3月25日)
+95. 東京国際フォーラム ホールC (4月1日, 2日)
+96. NHK大阪ホール (4月15日, 16日)
+97. 新潟市民芸術文化会館 劇場 (4月19日)
+98. 名古屋市民会館 中ホール (4月21日, 22日)
+99. メルパルクホールFUKUOKA (4月25日)
+100. [佐藤竹善](../Page/佐藤竹善.md "wikilink")、[サスケ](https://ja.wikipedia.org/wiki/サスケ "wikilink")と共に3都市を回った
+101. ライブ＆シネマトーク
+102. 11都市18公演
+103. オルガホール (12月22日)
+104. 寝屋川市民会館 (12月23日) 2回公演
+105. 東海市立文化センター (12月24日) 2回公演
+106. 福島県文化センター (12月25日) 2回公演
+107. 彩の国さいたま芸術劇場 大ホール (1月5日) 2回公演
+108. 熊本国際交流センター (1月6日) 2回公演
+109. 金沢市アートホール (1月7日)
+110. 松山ビビットホール (1月9日)
+111. 長野NBSホール (1月14日) 2回公演
+112. 小金井市公会堂 (1月15日) 2回公演
+113. 札幌市教育文化会館 小ホール (1月17日)
+114. ファンクラブ会員限定ライブ
+115. 6会場7公演
+116. 札幌 PENNY LANE24 (5月8日)
+117. 仙台 CLUB JUNK BOX (5月10日)
+118. なんばHatch (5月12日)
+119. クラブダイアモンドホール (5月13日)
+120. DRUM LOGOS (5月14日)
+121. SHIBUYA-AX (5月16日, 17日・追加公演)
+122. TOKYO FM 公開生放送＆ネット配信
+123. 2回公演
+124. bayfm公開録音
+125. ZIP-FM特別番組で10月29日に放送
+126. 10都市12公演
+127. 松戸 森のホール21 (11月4日)
+128. 香川県民ホール アクト (11月6日)
+129. 広島アステールプラザ (11月8日)
+130. 道新ホール (11月12日)
+131. 仙台電力ホール (11月20日)
+132. 新潟市民芸術文化会館ホール (11月30日)
+133. 愛知勤労会館 (12月1日)
+134. NHKホール (12月6日, 1月17日 追加公演)
+135. 福岡国際会議場 (12月9日)
+136. メルパルクホール (12月14日, 15日)
+137. TOKYO FM 公開生放送
+138. ファンクラブ会員限定ライブ
+139. 土屋は不参加
+140. 200組400名の招待制ライブ
+141. ワタナベエンターテインメントプロデュースのミュージカル
+142. 10会場11公演
+143. 横浜BLITZ (8月25日)
+144. 新潟LOTS (8月26日)
+145. 広島 CLUB QUATTRO (8月31日)
+146. 高松 DIME (9月1日)
+147. 福岡 DRUM LOGOS (9月2日)
+148. 名古屋クラブダイアモンドホール (9月5日)
+149. なんばHatch (9月6日)
+150. 仙台 CLUB JUNK BOX (9月8日)
+151. 札幌ペニーレーン24 (9月9日)
+152. SHIBUYA-AX (9月11日, 12日)
+153. NHKBS2公開収録 (9月28日放送)
+154. NHKBS2公開収録 (9月22日放送)
+155. 最終回。TOKYO FM 公開生放送＆ネット配信
+156. テレビ朝日公開録画 (11月9日放送)
+157. 100組200名の招待制ライブ
+158. NHKBS2公開収録 (1月19日放送)
+159. ファンクラブ会員限定ライブ
+160. 12会場14公演
+161. NHK大阪ホール (3月1日, 2日)
+162. 新潟市民芸術文化会館 劇場 (3月8日)
+163. 府中の森芸術劇場 どりーむホール (3月10日) 、JCBホール (4月2日、3日)
+164. サンシティ越谷市民ホール (3月11日)
+165. 仙台電力ホール (3月15日)
+166. 札幌教育文化会館 (3月20日)
+167. NTTクレドホール (3月22日)
+168. 福岡国際会議場 (3月23日)
+169. 香川県県民ホール アクト (3月27日)
+170. BAY5 SQUARE (3月29日)
+171. 愛知県勤労会館 (4月11日)
+172. スペシャルゲストとして出演
+173. 各日2回公演
+174. [AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")と共に清掃活動とトークショーが行われた
+175. 11月16日, 23日に放送
+176. ミニライブ＆トークショー
+177. 2回公演
+178. FM yokohama主催
+179. スペシャルゲストとして出演
+180. ファンクラブ会員限定ライブ
+181. ワタナベエンターテインメントプロデュースのミュージカル。終演後RAG FAIRアフタートークショーも開催
+182. 3都市6公演
+183. 各日2回公演
+184. bayfm 公開録音
+185. 本編公演前にスペシャルゲストライブを行った
+186. ズボンドズボンも出演
+187. 9都市11公演
+188. 中京大学文化市民会館プルニエホール (8月28日)
+189. 仙台市民会館 (8月30日)
+190. Zepp Sapporo (9月5日)
+191. JCBホール (9月11日 追加公演 、12日, 13日)
+192. 石川県文教会館 (9月19日)
+193. NHK大阪ホール (9月21日)
+194. NTTクレドホール (9月23日)
+195. BAY5 SQUARE (9月26日)
+196. Zepp Fukuoka (9月27日) 終演後別会場にてアフターパーティーも開催
+197. スペシャルゲストとして出演
+198. ファンクラブ会員限定ライブ
+199. [MUSIC ON\! TVにて生中継！丸ビルに登場のRAG FAIRをレポート！ CDJournal ニュース(2009年12月24日)](https://www.cdjournal.com/i/news/rag-fair/28203)
+200. 7都市9公演
+201. 横浜BLITZ (3月30日)
+202. Zepp Tokyo (4月3日, 4月30日)
+203. Zepp Nagoya (4月9日)
+204. Zepp Osaka (4月16日)
+205. Zepp Fukuoka (4月18日)
+206. Zepp Sendai (4月23日)
+207. Zepp Sapporo (4月25日)
+208. ファンクラブ会員限定ライブ
+209. Love Diaryも出演
+210. 全4公演
+211. 7会場8公演
+212. SHIBUYA-AX (9月1日) 追加公演、土屋の誕生日。終演後ファンクラブ会員限定イベント「プレミアムトーク“34”〜礼央さんを褒めちぎる会〜」も開催 / Zepp Tokyo (9月23日) 2回公演
+213. Zepp Nagoya (9月3日)
+214. Zepp Fukuoka (9月5日)
+215. Zepp Sendai (9月10日) 加納の誕生日。 終演後ファンクラブ会員限定イベント「プレミアムトーク“34” 〜加納さんを褒めちぎる会〜」も開催
+216. Zepp Sapporo (9月12日)
+217. Zepp Osaka (9月18日)
+218. 3都市4会場7公演。活動休止発表後のライブツアー。最終公演は当初3月20日に東京国際フォーラム ホールCで予定されていたが、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")により延期となり、4月16日のZepp Tokyoでのファンクラブ会員限定公演が最終公演となった
+219. 4月16日はファンクラブ会員限定公演
+220. 陸前高田 (12月1日)
+221. 石巻・鮎川 (12月2日)
+222. 福島市 (12月3日)
+223. [RAG FAIR(2012.11月号掲載 DI:GA s.p.interview) DISK GARAGE](https://www.diskgarage.com/feature/interview/1211ragfair.html)
+224. ザ・プリンス パークタワー東京 (12月17日, 18日)
+225. ホテル阪急インターナショナル (12月24日)
+226. SHIBUYA-AX(10月3日)
+227. 名古屋ダイアモンドホール(10月9日)
+228. umeda AKASO(10月10日)
+229. ファンクラブ会員限定ライブ
+230. 各日“ヒッヒッフー”と“LIVE”の2公演、5月5日のみ “ヒッヒッフー”1公演 (5月5日, 6日は子供ウエルカムデー)
+231. (3月23日, 24日) 奥村は不参加
+232. (4月7日)
+233. 当初10月12日の出演を予定していたが[令和元年東日本台風](https://ja.wikipedia.org/wiki/令和元年東日本台風 "wikilink")の接近に伴い中止となり、11月16日に振替開催した
+234. ORICON NEWS　https://www.oricon.co.jp/prof/287718/cm/

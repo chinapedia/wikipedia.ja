@@ -1,7 +1,7 @@
 > この記事は[Limited Express \(has gone\?\)](https://ja.wikipedia.org/wiki/Limited_Express_\(has_gone\?\))から翻訳されています。
 
 
-**Limited Express(has gone?)**（リミテッド・エキスプレス・ハズ・ゴーン）は、[京都府](../Page/京都府.md "wikilink")出身の[バンド](../Page/バンド_\(音楽\).md "wikilink")。現在はその活動の拠点を[東京](../Page/東京.md "wikilink")に移し\[1\]、YUKARI(VO)、JJ(Gt)、もんでんやすのり(Dr)、[Less Than TVの谷ぐち順](https://ja.wikipedia.org/wiki/Less_Than_TV "wikilink")(B)の４人を中心に、サポートメンバーに小森良太(SAX)などをむかえ活動している\[2\]。
+**Limited Express(has gone?)**（リミテッド・エキスプレス・ハズ・ゴーン）は、[京都府](../Page/京都府.md "wikilink")出身の[バンド](../Page/バンド_\(音楽\).md "wikilink")。現在はその活動の拠点を[東京](../Page/東京.md "wikilink")に移し\[1\]、YUKARI(VO)、JJ(Gt)、もんでんやすのり(Dr)、[Less Than TVの谷ぐち順](../Page/Less_Than_TV.md "wikilink")(B)の４人を中心に、サポートメンバーに小森良太(SAX)などをむかえ活動している\[2\]。
 
 ## 来歴
 
@@ -147,7 +147,7 @@
 
 <!-- end list -->
 
-  - 6月、スプリット・アルバム『Limited Express (has gone?)×DODDODO』を[Less Than TVからリリース](https://ja.wikipedia.org/wiki/Less_Than_TV "wikilink")。
+  - 6月、スプリット・アルバム『Limited Express (has gone?)×DODDODO』を[Less Than TVからリリース](../Page/Less_Than_TV.md "wikilink")。
 
 <!-- end list -->
 

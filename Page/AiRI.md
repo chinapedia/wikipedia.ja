@@ -3,7 +3,7 @@
 
 **AiRI**（あいり、[9月13日](../Page/9月13日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性歌手](../Page/歌手.md "wikilink")。
 
-[関西地方](https://ja.wikipedia.org/wiki/関西地方 "wikilink")出身。[Lantis](https://ja.wikipedia.org/wiki/Lantis "wikilink")、STUDIO696所属。旧名は**UR@N**（URAN / うらん）。主に[美少女ゲーム](../Page/美少女ゲーム.md "wikilink")や[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")の主題歌、挿入歌、イメージソングを歌っており、PCゲーム『[キラ☆キラ](../Page/キラ☆キラ.md "wikilink")』に登場する架空の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")「**[第二文芸部](https://ja.wikipedia.org/wiki/第二文芸部 "wikilink")**」では、現実においてのライブ活動で[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の椎野きらり役を担当している。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")\[1\]。身長160[cm](../Page/センチメートル.md "wikilink")\[2\]。
+[関西地方](https://ja.wikipedia.org/wiki/関西地方 "wikilink")出身。[Lantis](https://ja.wikipedia.org/wiki/Lantis "wikilink")、STUDIO696所属。旧名は**UR@N**（URAN / うらん）。主に[美少女ゲーム](../Page/美少女ゲーム.md "wikilink")や[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")の主題歌、挿入歌、イメージソングを歌っており、PCゲーム『[キラ☆キラ](../Page/キラ☆キラ.md "wikilink")』に登場する架空の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")「**[第二文芸部](https://ja.wikipedia.org/wiki/第二文芸部 "wikilink")**」では、現実においてのライブ活動で[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の椎野きらり役を担当している。[血液型は](../Page/ABO式血液型.md "wikilink")[O型](../Page/ABO式血液型.md "wikilink")\[1\]。身長160[cm](../Page/センチメートル.md "wikilink")\[2\]。
 
 ## 人物
 
@@ -782,16 +782,468 @@ PCゲーム『[君が主で執事が俺で](../Page/君が主で執事が俺で.
 
 ### タイアップ
 
-| 楽曲                     | タイアップ                                                                                              |
-| ---------------------- | -------------------------------------------------------------------------------------------------- |
-| learn together         | テレビアニメ『[30歳の保健体育](https://ja.wikipedia.org/wiki/30歳の保健体育 "wikilink")』エンディングテーマ                     |
-| 運命                     | テレビアニメ『[魔乳秘剣帖](https://ja.wikipedia.org/wiki/魔乳秘剣帖 "wikilink")』オープニングテーマ                           |
-| 二つの足跡                  | テレビアニメ『魔乳秘剣帖』エンディングテーマ                                                                             |
-| Pieces                 | テレビアニメ『[境界線上のホライゾン](https://ja.wikipedia.org/wiki/境界線上のホライゾン "wikilink")』エンディングテーマ -Side Ariadust- |
-| 君と僕はそこにいた              | テレビアニメ『[機動戦士ガンダムAGE](https://ja.wikipedia.org/wiki/機動戦士ガンダムAGE "wikilink")』挿入歌                     |
-| Dreamer                | テレビアニメ『[TARI TARI](https://ja.wikipedia.org/wiki/TARI_TARI "wikilink")』オープニングテーマ                   |
-| Imagination \> Reality | テレビアニメ『[ガンダムビルドファイターズ](https://ja.wikipedia.org/wiki/ガンダムビルドファイターズ "wikilink")』エンディングテーマ           |
-| DREAM×SCRAMBLE\!       | テレビアニメ『\[\[競女                                                                                      |
+<table>
+<thead>
+<tr class="header">
+<th><p>楽曲</p></th>
+<th><p>タイアップ</p></th>
+<th><p>時期</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>KOKOROのKOTOBA</p></td>
+<td><p>PCゲーム『<a href="https://ja.wikipedia.org/wiki/蒼刻の月_～蒼ク輝ク月ノ夜ニ…～" title="wikilink">蒼刻の月 ～蒼ク輝ク月ノ夜ニ…～</a>』オープニングテーマ</p></td>
+<td><p>2002年</p></td>
+</tr>
+<tr class="even">
+<td><p>空</p></td>
+<td><p>PCゲーム『<a href="https://ja.wikipedia.org/wiki/蒼刻の月_～蒼ク輝ク月ノ夜ニ…～" title="wikilink">蒼刻の月 ～蒼ク輝ク月ノ夜ニ…～</a>』エンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>秘密の森</p></td>
+<td><p>PCゲーム『<a href="https://ja.wikipedia.org/wiki/お願い" title="wikilink">お願い</a>』オープニングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>彩り</p></td>
+<td><p>PS2ゲーム『グリーングリーン 〜鐘ノ音ダイナミック〜』楠木かおりルートエンディングテーマ</p></td>
+<td><p>2003年</p></td>
+</tr>
+<tr class="odd">
+<td><p>スクールバス</p></td>
+<td><p>PS2ゲーム『グリーングリーン 〜鐘ノ音ロマティック〜』月森こずえルートエンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Precious Memories</p></td>
+<td><p>ドラマCD『Maple Colors』主題歌</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>冤罪</p></td>
+<td><p>ドラマCD『夜勤病棟・弐〜眩惑の堕天使〜第一章 風間愛』主題歌</p></td>
+<td><p>2004年</p></td>
+</tr>
+<tr class="even">
+<td><p>リミット・ナイト</p></td>
+<td><p>PCゲーム『24時、君のハートは盗まれる ～怪盗ジェイド～』主題歌</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Like a Green</p></td>
+<td><p>PCゲーム『グリーングリーン2 恋のスペシャルサマー』オープニングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>My Way</p></td>
+<td><p>PCゲーム『グリーングリーン2 恋のスペシャルサマー』柊麻里亜ルートエンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>君がいるから</p></td>
+<td><p>PCゲーム『黎明のラヴェンデュラ』オープニングテーマ</p></td>
+<td><p>2005年</p></td>
+</tr>
+<tr class="even">
+<td><p>Precious Angeric…</p></td>
+<td><p>PCゲーム『黎明のラヴェンデュラ』エンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>虹の向こうのHorizon</p></td>
+<td><p>PCゲーム『ぱすてるチャイムContinue』エンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Love Bell Sound</p></td>
+<td><p>PCゲーム『グリーングリーン3 ハローグッバイ』天神葉月ルートエンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>EXEC_NULLASCENTION/.(UR@N&amp;松本さち)</p></td>
+<td><p>PS2ゲーム『アルトネリコ 世界の終わりで詩い続ける少女』イメージソング</p></td>
+<td><p>2006年</p></td>
+</tr>
+<tr class="even">
+<td><p>グラスホッパー</p></td>
+<td><p>PCゲーム『鐘ノ音ダイナティック』オープニングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Vision</p></td>
+<td><p>PCゲーム『ウィズ アニバーサリィー』オープニングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>晴れた日の午後に</p></td>
+<td><p>PCゲーム『エーデルワイス』蘭ルートエンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>愛に満ちた未来へと</p></td>
+<td><p>PCゲーム『遊撃警艦パトベセル 〜こちら首都圏上空青空署〜』イメージソング</p></td>
+<td><p>2007年</p></td>
+</tr>
+<tr class="even">
+<td><p>refrain moon</p></td>
+<td><p>PCゲーム『片恋いの月』オープニングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>明日へ</p></td>
+<td><p>PCゲーム『任侠華乙女』エンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>二つめの空</p></td>
+<td><p>PCゲーム『Aster』オープニングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Give me ×××</p></td>
+<td></td>
+<td><p>PCゲーム『エーデルワイス』鴨池蘭イメージテーマ</p></td>
+</tr>
+<tr class="even">
+<td><p>さくら日記</p></td>
+<td><p>PCゲーム『エーデルワイス』高瀬さくらイメージテーマ(2007年)<br />
+PCゲーム『エーデルワイス 詠伝ファンタジア』さくらエンディングテーマ(2008年)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>風のように 炎のように</p></td>
+<td><p>PCゲーム『超昂閃忍ハルカ』主題歌</p></td>
+<td><p>2008年</p></td>
+</tr>
+<tr class="even">
+<td><p>Reincarnation</p></td>
+<td><p>PCゲーム『超昂閃忍ハルカ』イメージソング</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Moon Story</p></td>
+<td><p>PCゲーム『片恋いの月えくすとら』オープニングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>beautiful flavors</p></td>
+<td><p>PCゲーム『それは舞い散る桜のように 完全版』挿入歌</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Get Over</p></td>
+<td><p>PCゲーム『MapleColors2』主題歌</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Wonder Land</p></td>
+<td><p>ドラマCD『私は私のまま、誰にでも変われる』主題歌</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>七色の地図</p></td>
+<td><p>PCゲーム『なないろ航路』オープニングテーマ</p></td>
+<td><p>2010年</p></td>
+</tr>
+<tr class="even">
+<td><p>シアワセ♪</p></td>
+<td><p>PCゲーム『なないろ航路』エンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>learn together</p></td>
+<td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/30歳の保健体育" title="wikilink">30歳の保健体育</a>』エンディングテーマ</p></td>
+<td><p>2011年</p></td>
+</tr>
+<tr class="even">
+<td><p>運命</p></td>
+<td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/魔乳秘剣帖" title="wikilink">魔乳秘剣帖</a>』オープニングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>二つの足跡</p></td>
+<td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/魔乳秘剣帖" title="wikilink">魔乳秘剣帖</a>』エンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Pieces</p></td>
+<td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/境界線上のホライゾン" title="wikilink">境界線上のホライゾン</a>』エンディングテーマ -Side Ariadust-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>愛乞う者</p></td>
+<td><p>PCゲーム『カミカゼ☆エクスプローラー!』グランドエンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>君の夢のそばで</p></td>
+<td><p>PCゲーム『電激ストライカー』零の章エンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Bonds</p></td>
+<td><p>PCゲーム『電激ストライカー』天の章エンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>BREAKING!(遠藤正明&amp;AiRI)</p></td>
+<td><p>PCゲーム『電激ストライカー』挿入歌</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>桜が見てた</p></td>
+<td><p>PCゲーム『Princess Evangile ～プリンセス エヴァンジール～』エンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>アガスティアストーン</p></td>
+<td><p>PSP&amp;XB360ゲーム『code_18』主題歌</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>ヒカリ</p></td>
+<td><p>PSP&amp;XB360ゲーム『code_18』エンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>フルスロットルHeart(Duca&amp;AiRI)</p></td>
+<td><p>PCゲーム『恋色空模様 after happiness and extra hearts』オープニングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Eternity</p></td>
+<td><p>PCゲーム『ましろサマー』片瀬亜季テーマソング</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Tears</p></td>
+<td><p>PCゲーム『ましろサマー』美崎澪テーマソング</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>君と僕はそこにいた</p></td>
+<td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/機動戦士ガンダムAGE" title="wikilink">機動戦士ガンダムAGE</a>』挿入歌</p></td>
+<td><p>2012年</p></td>
+</tr>
+<tr class="even">
+<td><p>Dreamer</p></td>
+<td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/TARI_TARI" title="wikilink">TARI TARI</a>』オープニングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Voice</p></td>
+<td><p>PSPゲーム『Gift -prism-』挿入歌</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Reflection Moon</p></td>
+<td><p>PCゲーム『初恋1/1』月島叶イメージソング</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>my place</p></td>
+<td><p>PCゲーム『超電激ストライカー』エンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Imagination &gt; Reality</p></td>
+<td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/ガンダムビルドファイターズ" title="wikilink">ガンダムビルドファイターズ</a>』エンディングテーマ</p></td>
+<td><p>2013年</p></td>
+</tr>
+<tr class="odd">
+<td><p>プリズミック</p></td>
+<td><p>PCゲーム『プリズム◇リコレクション!』オープニングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>光の標</p></td>
+<td><p>PCゲーム『プリズム◇リコレクション!』エンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>乙女心1000000％</p></td>
+<td><p>PCゲーム『ラヴレッシブ』オープニングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>月歌</p></td>
+<td><p>PCゲーム『プリズム◇リコレクション!』柚姫ルートエンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>送れないラブレター</p></td>
+<td><p>PCゲーム『グリーングリーン OVERDRIVE EDITION』双葉ルートエンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Baby</p></td>
+<td><p>PCゲーム『赤さんと吸血鬼。』オープニングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>One Scene</p></td>
+<td><p>PCゲーム『赤さんと吸血鬼。』エンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>And Jump</p></td>
+<td></td>
+<td><p>PCゲーム『まじかりっく⇔スカイハイ －空飛ぶホウキに想いをのせて－』オープニングテーマ</p></td>
+</tr>
+<tr class="odd">
+<td><p>La eterno</p></td>
+<td><p>PCゲーム『天秤のLa DEA。 戦女神MEMORIA』オープニングテーマ</p></td>
+<td><p>2014年</p></td>
+</tr>
+<tr class="even">
+<td><p>Equilibrio Alba</p></td>
+<td><p>PCゲーム『天秤のLa DEA。 戦女神MEMORIA』エンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>ミラクルハイプレッシャー</p></td>
+<td><p>PCゲーム『夏恋ハイプレッシャー』オープニングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>MEMORIA</p></td>
+<td><p>PCゲーム『サキガケ⇒ジェネレーション!』オープニングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>きみとふたりで</p></td>
+<td><p>PCゲーム『サキガケ⇒ジェネレーション!』エンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Just Love The Moment</p></td>
+<td><p>PCゲーム『星織ユメミライ』夏希イメージソング</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>あの夏の宝物</p></td>
+<td><p>PCゲーム『星織ユメミライ』夏希ルートエンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Wonderful! Wonderful!</p></td>
+<td><p>PCゲーム『G.I.B. ガールズ・イン・ブラック』オープニングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Dash Out</p></td>
+<td></td>
+<td><p>PCゲーム『南十字星恋歌 Southern Cross Love Song』挿入歌</p></td>
+</tr>
+<tr class="even">
+<td><p>神託のConductor(AiRI×飛蘭)</p></td>
+<td><p>PCゲーム『神のラプソディ』オープニングテーマ</p></td>
+<td><p>2015年</p></td>
+</tr>
+<tr class="odd">
+<td><p>ポンコツロケンロー</p></td>
+<td><p>PCゲーム『僕と恋するポンコツアクマ。』オープニングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>君とつくるもうひとつの未来</p></td>
+<td><p>PCゲーム『ここから夏のイノセンス!』オープニングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>夏空</p></td>
+<td><p>PCゲーム『ここから夏のイノセンス!』アリカ、いろはルートエンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Innocent Summer</p></td>
+<td><p>PCゲーム『ここから夏のイノセンス!』ユノ、寿ルートエンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>DREAM×SCRAMBLE!</p></td>
+<td><p>テレビアニメ『[[競女</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Liar for you xxx</p></td>
+<td><p>PCゲーム『ナツウソ -Ahead of the reminiscence-』オープニングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>ウルトラハレーション</p></td>
+<td><p>PCゲーム『僕と恋するポンコツアクマ。すっごいえっち!』オープニングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>猛き羽風</p></td>
+<td><p>PCゲーム『聖鍵遣いの命題』エンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>永遠に咲く花</p></td>
+<td><p>PCゲーム『枯れない世界と終わる花』オープニングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>BE WITH YOU</p></td>
+<td><p>PCゲーム『はるるみなもに!』オープニングテーマ</p></td>
+<td><p>2017年</p></td>
+</tr>
+<tr class="odd">
+<td><p>Hello</p></td>
+<td><p>PCゲーム『はるるみなもに!』エンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>風に吹かれて</p></td>
+<td><p>PCゲーム『はるるみなもに!』エンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Honey&amp;Devil</p></td>
+<td><p>PCゲーム『はにデビ! Honey&amp;Devil』オープニングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Hello</p></td>
+<td><p>Hello</p></td>
+<td><p>Hello</p></td>
+</tr>
+<tr class="odd">
+<td><p>Melt Together</p></td>
+<td><p>PCゲーム『二人と始める打算的なラブコメ』オープニングテーマ</p></td>
+<td><p>2018年</p></td>
+</tr>
+<tr class="even">
+<td><p>ABILiTY To BELiEVE</p></td>
+<td><p>PCゲーム『ソーサレス＊アライヴ! ～the World's End Fallen Star～』オープニングテーマ</p></td>
+<td><p>2019年</p></td>
+</tr>
+<tr class="odd">
+<td><p>紅藍 ～kure-ai～</p></td>
+<td><p>PCゲーム『Ninja Girl and the Mysterious Army of Urban Legend Monsters』主題歌</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>ミスリルの浮かぶ空の下で</p></td>
+<td><p>PCゲーム『ココロネ=ペンデュラム!』オープニングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>光よ、そこで見守っていて</p></td>
+<td><p>PCゲーム『ココロネ=ペンデュラム!』エンディングテーマ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>The road we belong</p></td>
+<td><p>PCゲーム『まいてつ Last Run</p></td>
+<td><p>』ハチロク劇中テーマ曲2</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 出演
 
@@ -845,11 +1297,9 @@ PCゲーム『[君が主で執事が俺で](../Page/君が主で執事が俺で.
 
 ## 外部リンク
 
-  - [AiRI Official Website High-tone](http://www.airi-hightone.net/)
-
-  - [AiRI OFFICIAL BLOG](https://ameblo.jp/airi-hightone/)
-
-  - [AiRIのブログ](https://ameblo.jp/uranebigasuki/)（旧ブログ）
+  -
+  -
+  - （旧ブログ）
 
   -
 [Category:日本の女性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ロック歌手 "wikilink") [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:ゲーム音楽家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽家 "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:ランティスのアーティスト](https://ja.wikipedia.org/wiki/Category:ランティスのアーティスト "wikilink") [Category:生年非公表](https://ja.wikipedia.org/wiki/Category:生年非公表 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

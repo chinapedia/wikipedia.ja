@@ -148,8 +148,7 @@
 ## 外部リンク
 
   -
-  - （英語）
-
+  -
 [Category:1995年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1995年のコンピュータゲーム "wikilink") [Category:落ち物パズル](https://ja.wikipedia.org/wiki/Category:落ち物パズル "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:ボンバーマン](https://ja.wikipedia.org/wiki/Category:ボンバーマン "wikilink")
 
 1.  パッケージ裏より。

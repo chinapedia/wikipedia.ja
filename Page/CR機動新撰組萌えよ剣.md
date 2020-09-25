@@ -7,7 +7,7 @@
 
 ## 概要
 
-[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")・「[機動新撰組 萌えよ剣](../Page/機動新撰組_萌えよ剣.md "wikilink")」とのタイアップ機。
+[PlayStation 2用ゲームソフト](../Page/PlayStation_2.md "wikilink")・「[機動新撰組 萌えよ剣](../Page/機動新撰組_萌えよ剣.md "wikilink")」とのタイアップ機。
 
 確変大当たりのうち、「ミッションモード」の一部で当選する2R確変は初当たり時のみ潜伏し、2度目の2R確変で電チューサポートが付く仕様。
 

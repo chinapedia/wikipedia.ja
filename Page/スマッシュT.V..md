@@ -255,8 +255,7 @@ Xbox 360</p></td>
 ## 外部リンク
 
   -
-  - （英語）
-
+  -
 [Category:1990年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1990年のアーケードゲーム "wikilink") [Category:1991年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1991年のファミリーコンピュータ用ソフト "wikilink") [Category:Amiga用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Amiga用ゲームソフト "wikilink") [Category:Amstrad_CPC用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Amstrad_CPC用ゲームソフト "wikilink") [Category:Atari_ST用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Atari_ST用ゲームソフト "wikilink") [Category:Xbox_Live_Arcade対応ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_Live_Arcade対応ソフト "wikilink") [Category:ZX_Spectrum用ゲームソフト](https://ja.wikipedia.org/wiki/Category:ZX_Spectrum用ゲームソフト "wikilink") [Category:アクションシューティングゲーム](https://ja.wikipedia.org/wiki/Category:アクションシューティングゲーム "wikilink") [Category:アメリカで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:アメリカで開発されたコンピュータゲーム "wikilink") [Category:ウィリアムス_(ゲーム)](https://ja.wikipedia.org/wiki/Category:ウィリアムス_\(ゲーム\) "wikilink") [Category:ゲームギア用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームギア用ソフト "wikilink") [Category:コモドール64用ゲームソフト](https://ja.wikipedia.org/wiki/Category:コモドール64用ゲームソフト "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:セガ・マークIII&マスターシステム用ソフト](https://ja.wikipedia.org/wiki/Category:セガ・マークIII&マスターシステム用ソフト "wikilink") [Category:デス・ゲームを題材とした作品](https://ja.wikipedia.org/wiki/Category:デス・ゲームを題材とした作品 "wikilink") [Category:ファミ通クロスレビューシルバー殿堂入りソフト](https://ja.wikipedia.org/wiki/Category:ファミ通クロスレビューシルバー殿堂入りソフト "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink")
 
 1.

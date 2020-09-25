@@ -348,7 +348,7 @@
       - [東京バイパス指令](../Page/東京バイパス指令.md "wikilink")→[ゴールドアイ](../Page/ゴールドアイ.md "wikilink")、[熱中時代](../Page/熱中時代.md "wikilink")（教師編第1シリーズ。刑事編と教師編第2シリーズはBSNにて放送）等
   - [大都会シリーズ](https://ja.wikipedia.org/wiki/大都会_\(テレビドラマ\) "wikilink")
   - [大追跡](../Page/大追跡_\(テレビドラマ\).md "wikilink")
-  - [探偵物語](../Page/探偵物語.md "wikilink")（再放送はTeNYで放送）
+  - [探偵物語](../Page/探偵物語.md "wikilink")（再放送はBSNとTeNYで放送）
   - [巨泉×前武ゲバゲバ90分\!](../Page/巨泉×前武ゲバゲバ90分!.md "wikilink")
   - [火曜8時枠時代劇](../Page/日本テレビ火曜8時枠時代劇.md "wikilink")
       - [伝七捕物帳](https://ja.wikipedia.org/wiki/伝七捕物帳#日本テレビ版 "wikilink")、[新五捕物帳](../Page/新五捕物帳.md "wikilink")

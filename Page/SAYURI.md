@@ -48,8 +48,8 @@
 
 映画中で描かれる日本像には、特に日本において公開当初から疑問の声が多数上がった。代表的なものとして、
 
-  - 着物の着方(左前、帯でウエストを強調など)
-  - 所作(歩き方など)
+  - 着物の着方（左前、帯でウエストを強調など）
+  - 所作（歩き方など）
   - 建造物など舞台美術に中国的要素が強い
   - 舞踊があまりに前衛的
   - 旦那衆が座敷遊びを知らない
@@ -80,8 +80,9 @@
 
 ## 外部リンク
 
-  -
-  - [Memoirs of a Geisha - Zhang Ziyi at HelloZiyi.us](http://www.helloziyi.us/Movies/memoirs-of-a-geisha.htm) チャン・ツィイー公式サイトによる本作の情報ページ
+  - [MEMOIRS OF A GEISHA | Sony Pictures Entertainment](https://www.sonypictures.com/movies/memoirsofageisha)
+
+  - [SAYURI(ブルーレイ） | 松竹DVD倶楽部](https://www.shochiku-home-enta.com/c/foreign/SHBR25)
 
   -
   -

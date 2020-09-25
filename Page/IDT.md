@@ -1,11 +1,11 @@
 > この記事は[IDT](https://ja.wikipedia.org/wiki/IDT)から翻訳されています。
 
 
-**Integrated Device Technology, Inc.**（**IDT**）は、かつて存在した[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[半導体企業](../Page/半導体素子.md "wikilink")。本社は[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンノゼ](../Page/サンノゼ.md "wikilink")。通信・コンピュータ・一般向け機器などで使用する低消費電力で高性能なアナログ-デジタル混在半導体部品の設計と製造を行っている。主に[OEM](../Page/OEM.md "wikilink")製品を扱っている。1980年、通信・コンピュータ向けの[CMOS](../Page/CMOS.md "wikilink")製品メーカーとして創業。現在は、通信部門、コンピュータ部門、コンシューマ部門で構成されている。2020年にルネサスエレクトロニクスに吸収合併された。
+**Integrated Device Technology, Inc.**（**IDT**）は、かつて存在した[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[半導体企業](../Page/半導体素子.md "wikilink")。本社は[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンノゼ](../Page/サンノゼ.md "wikilink")。通信・コンピュータ・一般向け機器などで使用する低消費電力で高性能なアナログ-デジタル混在半導体部品の設計と製造を行っていた。主に[OEM](../Page/OEM.md "wikilink")製品を扱っている。1980年、通信・コンピュータ向けの[CMOS](../Page/CMOS.md "wikilink")製品メーカーとして創業し、特に複数の[回路間でタイミングを合わせるのに不可欠な](../Page/電子回路.md "wikilink")[クロック](../Page/クロック.md "wikilink")関連のマイコン開発に強みを持つ。2020年をもってルネサスエレクトロニクスに吸収合併された。
 
 ## 事業内容
 
-通信部門は、通信用クロック、無線基地局向けの[RapidIO](https://ja.wikipedia.org/wiki/RapidIO "wikilink")ソリューション、高周波製品、デジタルロジック製品、[FIFO](../Page/FIFO.md "wikilink")メモリ、統合通信プロセッサ、[SRAM製品](../Page/Static_Random_Access_Memory.md "wikilink")、通信用半導体素子などを扱っている\[1\]。主に企業、[データセンター](https://ja.wikipedia.org/wiki/データセンター "wikilink")、無線業界を顧客としている。
+通信部門は、通信用クロック、無線基地局向けのソリューション、高周波製品、デジタルロジック製品、[FIFO](../Page/FIFO.md "wikilink")メモリ、統合通信プロセッサ、[SRAM製品](../Page/Static_Random_Access_Memory.md "wikilink")、通信用半導体素子などを扱っている\[1\]。主に企業、[データセンター](https://ja.wikipedia.org/wiki/データセンター "wikilink")、無線業界を顧客としている。
 
 コンピュータ部門は、タイミング製品、[PCI Express](../Page/PCI_Express.md "wikilink") 関連ソリューション、高性能サーバ用メモリインタフェース、マルチポート製品、製品、PC向けオーディオ/ビデオ製品などを扱っている\[2\]。デスクトップPC、ノートPC、サブノートPC、ストレージ、サーバなどを対象としている。
 

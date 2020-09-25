@@ -13,7 +13,7 @@
 
 7月には完全な新曲としてシングル「[MARIONETTE](../Page/Marionette_\(BOØWYの曲\).md "wikilink")」をリリース。これまでシングルでの1位獲得作品はなかったが、ラブソング中心であった当時のヒットチャートでは異例の売上1位を獲得する。
 
-その後、[神戸と](../Page/神戸市.md "wikilink")[横浜でデビュー以来のほぼ全ての楽曲を演奏するという](../Page/横浜市.md "wikilink")4時間にも渡るライブ『[CASE OF BOØWY](https://ja.wikipedia.org/wiki/“GIGS”_CASE_OF_BOØWY "wikilink")』を成し遂げるなど、その人気はさらに上昇し続けていた。
+その後、[神戸と](../Page/神戸市.md "wikilink")[横浜でデビュー以来のほぼ全ての楽曲を演奏するという](../Page/横浜市.md "wikilink")4時間にも渡るライブ『[CASE OF BOØWY](../Page/“GIGS”_CASE_OF_BOØWY.md "wikilink")』を成し遂げるなど、その人気はさらに上昇し続けていた。
 
 アルバムタイトルの「PSYCHOPATH」とは英語で「精神異常者」と言う意味だが、表現上問題があるために、発売当初は「イカれた奴」「プッツン野郎」と言う意味だとインタビューなどで説明されていた。
 
@@ -224,7 +224,7 @@ LP盤のレーベルを再現</p></td>
     <!-- end list -->
 
       -
-        ベストアルバム『[THIS BOØWY](https://ja.wikipedia.org/wiki/THIS_BOØWY "wikilink")』リリース時にはこの曲をベースにした[PVが作られた](../Page/ミュージック・ビデオ.md "wikilink")。
+        ベストアルバム『[THIS BOØWY](../Page/THIS_BOØWY.md "wikilink")』リリース時にはこの曲をベースにした[PVが作られた](../Page/ミュージック・ビデオ.md "wikilink")。
 
 6.  **[季節が君だけを変える](../Page/季節が君だけを変える.md "wikilink")** (4:40)
 

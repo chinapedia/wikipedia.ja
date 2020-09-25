@@ -6,7 +6,7 @@
 ## リリース
 
   - [1988年](../Page/1988年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")に[東芝EMIのイーストワールドレーベルより](../Page/EMIミュージック・ジャパン.md "wikilink")、[LP](../Page/レコード.md "wikilink")、[CD](../Page/コンパクトディスク.md "wikilink")、[CTの](../Page/カセットテープ.md "wikilink")3形態でリリースされた。
-  - ベストアルバム第2弾となる『[THIS BOØWY](https://ja.wikipedia.org/wiki/THIS_BOØWY "wikilink")』（1998年）が発売された際に一度廃盤になったが、2007年12月24日に期間限定で紙ジャケット仕様にて再発、その後もブルースペックCD2での発売も行われた。
+  - ベストアルバム第2弾となる『[THIS BOØWY](../Page/THIS_BOØWY.md "wikilink")』（1998年）が発売された際に一度廃盤になったが、2007年12月24日に期間限定で紙ジャケット仕様にて再発、その後もブルースペックCD2での発売も行われた。
 
 ## 構成
 

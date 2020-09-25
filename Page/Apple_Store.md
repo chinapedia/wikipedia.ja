@@ -40,7 +40,7 @@
 <thead>
 <tr class="header">
 <th><p>国 / 地域</p></th>
-<th><p>最初の店舗の日付</p></th>
+<th><p>初店舗のオープン日</p></th>
 <th><p>店舗数</p></th>
 <th><p>出典</p></th>
 </tr>
@@ -68,140 +68,140 @@
 <td></td>
 <td></td>
 <td><p>29</p></td>
-<td><p>[25][26]</p></td>
+<td><p>[25]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td><p>17</p></td>
-<td><p>[27]</p></td>
+<td><p>[26]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td><p>22</p></td>
-<td><p>[28]</p></td>
+<td><p>[27]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td><p>42</p></td>
-<td><p>[29]</p></td>
+<td><p>[28]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td><p>4</p></td>
-<td><p>[30][31]</p></td>
+<td><p>[29]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td><p>15</p></td>
-<td><p>[32]</p></td>
+<td><p>[30]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td><p>20</p></td>
-<td><p>[33]</p></td>
+<td><p>[31]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td><p>11</p></td>
-<td><p>[34]</p></td>
+<td><p>[32]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td><p>6</p></td>
+<td><p>[33]</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td><p>3</p></td>
+<td><p>[34]</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td><p>3</p></td>
 <td><p>[35]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p>3</p></td>
+<td><p>2</p></td>
 <td><p>[36]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
-<td><p>3</p></td>
+<td><p>2</p></td>
 <td><p>[37]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p>2</p></td>
+<td><p>1</p></td>
 <td><p>[38]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
-<td><p>2</p></td>
+<td><p>3</p></td>
 <td><p>[39]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p>1</p></td>
-<td><p>[40][41]</p></td>
+<td><p>2</p></td>
+<td><p>[40]</p></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td><p>2</p></td>
+<td><p>[41]</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>3</p></td>
 <td><p>[42]</p></td>
 </tr>
-<tr class="odd">
-<td></td>
+<tr class="even">
+<td><p>(<a href="https://ja.wikipedia.org/wiki/台湾" title="wikilink">台湾</a>)</p></td>
 <td></td>
 <td><p>2</p></td>
 <td><p>[43]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>[44]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>[45]</p></td>
 </tr>
-<tr class="even">
-<td><p>（<a href="https://ja.wikipedia.org/wiki/台湾" title="wikilink">台湾</a>）</p></td>
+<tr class="odd">
+<td></td>
 <td></td>
 <td><p>2</p></td>
 <td><p>[46]</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td><p>1</p></td>
-<td><p>[47]</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td><p>1</p></td>
-<td><p>[48]</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td><p>2</p></td>
-<td><p>[49]</p></td>
 </tr>
 </tbody>
 </table>
 
 ### アメリカ合衆国
 
-[2016年](../Page/2016年.md "wikilink")6月現在、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")内の53店舗や[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")内の19店舗を含む、45州内に260店舗以上の直営店がある。アップルミニストア\[50\] は、[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")に拠点を置くコラボレーティブデザイン事務所[エイトインク](https://ja.wikipedia.org/wiki/エイトインク "wikilink")(Eight Inc.)によって設計された\[51\]。
+2020年9月現在、271店舗が営業している。\[47\]アップルミニストア\[48\] は、[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")に拠点を置くコラボレーティブデザイン事務所[エイトインク](https://ja.wikipedia.org/wiki/エイトインク "wikilink")(Eight Inc.)によって設計された\[49\]。
 
 ### 日本
 
@@ -218,8 +218,8 @@
 <tr class="odd">
 <td><p>Apple Store 札幌</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a><a href="https://ja.wikipedia.org/wiki/札幌市" title="wikilink">札幌市</a><a href="../Page/中央区_(札幌市).md" title="wikilink">中央区南</a>1条西3丁目8-20 QB 札幌</p></td>
-<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/6月24日.md" title="wikilink">6月24日</a>[52]<br />
-<small>(2016年2月26日閉店)</small>[53]</p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/6月24日.md" title="wikilink">6月24日</a>[50]<br />
+<small>(2016年2月26日閉店)</small>[51]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -229,36 +229,36 @@
 <tr class="odd">
 <td><p><a href="http://www.apple.com/jp/retail/sendaiichibancho/">Apple 仙台一番町</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/宮城県" title="wikilink">宮城県</a><a href="../Page/仙台市.md" title="wikilink">仙台市</a><a href="../Page/青葉区_(仙台市).md" title="wikilink">青葉区一番町</a>3-10-24</p></td>
-<td><p>2005年<a href="../Page/12月10日.md" title="wikilink">12月10日</a>[54]（2019年1月25日閉店）[55]</p></td>
+<td><p>2005年<a href="../Page/12月10日.md" title="wikilink">12月10日</a>[52]（2019年1月25日閉店）[53]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://www.apple.com/jp/retail/marunouchi/">Apple 丸の内</a></p></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/千代田区" title="wikilink">千代田区</a><a href="../Page/丸の内.md" title="wikilink">丸の内</a>2-5-2 <a href="https://ja.wikipedia.org/wiki/三菱ビル" title="wikilink">三菱ビル</a></p></td>
-<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/9月7日.md" title="wikilink">9月7日</a>[56]<br />
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/9月7日.md" title="wikilink">9月7日</a>[54]<br />
 </p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="http://www.apple.com/jp/retail/ginza/">Apple 銀座</a></p></td>
 <td><p>東京都<a href="https://ja.wikipedia.org/wiki/中央区_(東京都)" title="wikilink">中央区</a><a href="https://ja.wikipedia.org/wiki/銀座" title="wikilink">銀座</a>3-5-12 サヱグサビル本館</p></td>
-<td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/11月30日.md" title="wikilink">11月30日</a>[57]<br />
+<td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/11月30日.md" title="wikilink">11月30日</a>[55]<br />
 </p></td>
 </tr>
 <tr class="even">
 <td><p><a href="http://www.apple.com/jp/retail/shibuya/">Apple 渋谷</a></p></td>
 <td><p>東京都<a href="https://ja.wikipedia.org/wiki/渋谷区" title="wikilink">渋谷区</a><a href="../Page/神南.md" title="wikilink">神南</a>1-20-9 <a href="../Page/ABCマート.md" title="wikilink">ABC-Mart</a><a href="../Page/渋谷公園通り.md" title="wikilink">公園通りビル</a></p></td>
-<td><p>2005年<a href="../Page/8月6日.md" title="wikilink">8月6日</a>[58]<br />
+<td><p>2005年<a href="../Page/8月6日.md" title="wikilink">8月6日</a>[56]<br />
 2017年<a href="https://ja.wikipedia.org/wiki/11月26日" title="wikilink">11月26日</a>より一時休業<br />
 2018年<a href="../Page/10月26日.md" title="wikilink">10月26日</a>にリニューアルオープン</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="http://www.apple.com/jp/retail/omotesando/">Apple 表参道</a></p></td>
 <td><p>東京都渋谷区<a href="../Page/神宮前_(渋谷区).md" title="wikilink">神宮前</a>4-2-13</p></td>
-<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/6月13日.md" title="wikilink">6月13日</a>[59]</p></td>
+<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/6月13日.md" title="wikilink">6月13日</a>[57]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://www.apple.com/jp/retail/shinjuku/">Apple 新宿</a></p></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/新宿区" title="wikilink">新宿区</a>新宿3-30-13 <a href="https://ja.wikipedia.org/wiki/丸井#東京都" title="wikilink">新宿マルイ本館</a></p></td>
-<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/4月7日.md" title="wikilink">4月7日</a>[60]</p></td>
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/4月7日.md" title="wikilink">4月7日</a>[58]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://www.apple.com/jp/retail/kawasaki/">Apple 川崎</a></p></td>
@@ -268,22 +268,22 @@
 <tr class="even">
 <td><p><a href="http://www.apple.com/jp/retail/nagoyasakae/">Apple 名古屋栄</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a><a href="../Page/名古屋市.md" title="wikilink">名古屋市</a><a href="../Page/中区_(名古屋市).md" title="wikilink">中区</a><a href="../Page/栄_(名古屋市).md" title="wikilink">栄</a>3-17-15 エフエックスビル</p></td>
-<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/1月22日.md" title="wikilink">1月22日</a>[61]</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/1月22日.md" title="wikilink">1月22日</a>[59]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://www.apple.com/jp/retail/kyoto/">Apple 京都</a></p></td>
 <td><p><a href="../Page/京都府.md" title="wikilink">京都府</a><a href="../Page/京都市.md" title="wikilink">京都市</a><a href="../Page/下京区.md" title="wikilink">下京区</a><a href="../Page/四条通.md" title="wikilink">四条通</a><a href="../Page/高倉通.md" title="wikilink">高倉東入立売中之町</a>83-1 京都ゼロゲート</p></td>
-<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/8月25日.md" title="wikilink">8月25日</a>[62]</p></td>
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/8月25日.md" title="wikilink">8月25日</a>[60]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="http://www.apple.com/jp/retail/shinsaibashi/">Apple 心斎橋</a></p></td>
 <td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a><a href="../Page/大阪市.md" title="wikilink">大阪市</a><a href="../Page/中央区_(大阪市).md" title="wikilink">中央区西</a><a href="../Page/心斎橋.md" title="wikilink">心斎橋</a>1-5-5 アーバンBLD心斎橋</p></td>
-<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/8月28日.md" title="wikilink">8月28日</a>[63]</p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/8月28日.md" title="wikilink">8月28日</a>[61]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Apple 福岡天神</p></td>
 <td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a><a href="https://ja.wikipedia.org/wiki/福岡市" title="wikilink">福岡市</a><a href="../Page/中央区_(福岡市).md" title="wikilink">中央区</a><a href="../Page/天神_(福岡市).md" title="wikilink">天神</a>2-3-24 天神ルーチェ</p></td>
-<td><p>2005年<a href="../Page/12月3日.md" title="wikilink">12月3日</a>[64]<br />
+<td><p>2005年<a href="../Page/12月3日.md" title="wikilink">12月3日</a>[62]<br />
 （2019年9月27日閉店）</p></td>
 </tr>
 <tr class="even">
@@ -300,28 +300,28 @@
 
 なお、銀座店のみの[エレベーター](../Page/エレベーター.md "wikilink")「シャトル」は、階数表示こそあるが、階数を指定するボタンは無く、操作盤にはドア開ボタンとEmergency Call（非常用）ボタンのみ配置されている。
 
-札幌店は、入居していたビルが再開発で取り壊されるため、2016年2月26日に閉店したが、「より利用しやすい場所で再び開業したい」とし、移転先を探して再開を目指していることが明らかにされている\[65\]。また、2017年1月現在、移転先及びオープン日は未定のままである。
+札幌店は、入居していたビルが再開発で取り壊されるため、2016年2月26日に閉店したが、「より利用しやすい場所で再び開業したい」とし、移転先を探して再開を目指していることが明らかにされている\[63\]。また、2017年1月現在、移転先及びオープン日は未定のままである。
 
-仙台一番町店は、2019年1月25日をもって閉店された。\[66\]
+仙台一番町店は、2019年1月25日をもって閉店された。\[64\]
 
-その他、アップル製品のサポートについては公認の「Apple正規サービスプロバイダ」および、アップルへ郵送することで行われている\[67\]。
+その他、アップル製品のサポートについては公認の「Apple正規サービスプロバイダ」および、アップルへ郵送することで行われている\[65\]。
 
-店名を「Apple Store＋地域名」から「Apple＋地域名」に変更する作業が北米の店舗で実施されていたが、日本では2016年8月中旬に一斉に実施された\[68\]。
+店名を「Apple Store＋地域名」から「Apple＋地域名」に変更する作業が北米の店舗で実施されていたが、日本では2016年8月中旬に一斉に実施された\[66\]。
 
 #### 建物
 
-日本のApple Storeでは、2014年開業の表参道店と2019年開業の福岡店が独立店舗として独自にデザインされた建物であり、2005年開業の福岡天神店（2019年閉店）と2018年開業の京都店がビルの建設時に入居を前提にデザインされた店舗であり、その他は既存建築物の柱や床を抜くなどの大規模改修工事によるデザイン変更した建築物である。特に銀座店は、建物全体でアップルのコンピュータ(2003年当時の)を想起させるデザインとなっている\[69\]。銀座店についてはリノベーション工事中も6階以上のテナントは変わらず営業を継続し、6ヵ月半という異例の短工期で行われた。ガラスの[カーテンウォール](../Page/カーテンウォール.md "wikilink")の奥に、本来の躯体のコンクリート柱・梁を見ることができる\[70\]。
+日本のApple Storeでは、2014年開業の表参道店と2019年開業の福岡店が独立店舗として独自にデザインされた建物であり、2005年開業の福岡天神店（2019年閉店）と2018年開業の京都店がビルの建設時に入居を前提にデザインされた店舗であり、その他は既存建築物の柱や床を抜くなどの大規模改修工事によるデザイン変更した建築物である。特に銀座店は、建物全体でアップルのコンピュータ(2003年当時の)を想起させるデザインとなっている\[67\]。銀座店についてはリノベーション工事中も6階以上のテナントは変わらず営業を継続し、6ヵ月半という異例の短工期で行われた。ガラスの[カーテンウォール](../Page/カーテンウォール.md "wikilink")の奥に、本来の躯体のコンクリート柱・梁を見ることができる\[68\]。
 
-日本国内の Apple Store はすべて、アパレルブランドの旗艦店が行うような、建物自体を特徴的な外観としランドマークとするためにリノベーションないし新築しており、世界でも同様の例が多いが、香港の Festival Walk\[71\] や ルイジアナ州 Lakeside Shopping Center\[72\] のように、海外ではショッピングセンターのテナントであり店舗外観自体を持たないApple Storeもある。
+日本国内の Apple Store はすべて、アパレルブランドの旗艦店が行うような、建物自体を特徴的な外観としランドマークとするためにリノベーションないし新築しており、世界でも同様の例が多いが、香港の Festival Walk\[69\] や ルイジアナ州 Lakeside Shopping Center\[70\] のように、海外ではショッピングセンターのテナントであり店舗外観自体を持たないApple Storeもある。
 
 ## その他
 
-  - [中華人民共和国](../Page/中華人民共和国.md "wikilink")[雲南省](../Page/雲南省.md "wikilink")[昆明市](../Page/昆明市.md "wikilink")内において、外観や内装、スタッフが着用しているTシャツまで模写した、偽物の2店舗の存在が2011年7月に発覚した。看板には「Apple **Stoer**」と表記されており、勤務していたスタッフの中には「本物の直営店」だと思っていた者もいたが、Appleから許可を得ていないことを認めたスタッフもいた\[73\]。なお、2017年には昆明市内に正規のApple Storeが開店している\[74\]\[75\]。
+  - [中華人民共和国](../Page/中華人民共和国.md "wikilink")[雲南省](../Page/雲南省.md "wikilink")[昆明市](../Page/昆明市.md "wikilink")内において、外観や内装、スタッフが着用しているTシャツまで模写した、偽物の2店舗の存在が2011年7月に発覚した。看板には「Apple **Stoer**」と表記されており、勤務していたスタッフの中には「本物の直営店」だと思っていた者もいたが、Appleから許可を得ていないことを認めたスタッフもいた\[71\]。なお、2017年には昆明市内に正規のApple Storeが開店している\[72\]\[73\]。
   - 日本の場合Apple Storeの他、個人向けとしては以下の様な店舗形態がある。いずれもApple直営では無い。
       - Apple正規販売店([家電量販店](../Page/家電量販店.md "wikilink")などでは店舗内コーナーとして小規模な売り場が設置されている。)
       - Apple Premium Reseller(アップルプレミアムリセラー。独立した店舗を持ち、Apple社製品を専門的に扱う。)
 
-この内Apple Premium Resellerについては修理窓口(店舗がApple正規サービスプロバイダを兼ねる)を併設していたり製品に関するセミナーを開くなど、Apple Storeに近い機能を持つ店舗もある\[76\]。
+この内Apple Premium Resellerについては修理窓口(店舗がApple正規サービスプロバイダを兼ねる)を併設していたり製品に関するセミナーを開くなど、Apple Storeに近い機能を持つ店舗もある\[74\]。
 
 ## ギャラリー
 
@@ -361,58 +361,56 @@
 19.
 20.
 21.
-22.
-23. [アップル - Apple Store - ストア一覧](https://www.apple.com/jp/retail/storelist/)
-24. [Apple Retail Store (United Kingdom) - Store List](https://www.apple.com/uk/retail/storelist/)
-25. [Apple Retail Store (Canada) - Store List](https://www.apple.com/ca/retail/storelist/)
-26. [Apple Store (Canada) - Liste des boutiques](https://www.apple.com/ca/fr/retail/storelist/)
-27. [Apple Store (Italia) - Elenco negozi](https://www.apple.com/it/retail/storelist/)
-28. [Apple Retail Store (Australia) - Store List](https://www.apple.com/au/retail/storelist/)
-29.
-30. [Apple Store (Schweiz) - Liste der Stores](https://www.apple.com/chde/retail/storelist/)
-31. [Apple Store (Suisse) - Liste des magasins](https://www.apple.com/chfr/retail/storelist/)
-32. [Apple Store (Deutschland) - Liste der Stores](https://www.apple.com/de/retail/storelist/)
-33. [Apple Store (France) - Liste des magasins](https://www.apple.com/fr/retail/storelist/)
-34. [Apple Store (España) - Lista de tiendas](https://www.apple.com/es/retail/storelist/)
-35. [Apple Store (Hong Kong) - 店舖列表](https://www.apple.com/hk/retail/storelist/)
-36. [Apple Store (Nederland) - Lijst van Stores](https://www.apple.com/nl/retail/storelist/)
-37. [Apple Store (Sverige) - Lista över butiker](https://www.apple.com/se/retail/storelist/)
-38. [Apple Store - Lista de Iojas](https://www.apple.com/br/retail/storelist/)
-39. [Apple Store - Mağaza Listesi](https://www.apple.com/tr/retail/storelist/)
-40. [Apple Store (Belgique) - Liste des Magasins](http://www.apple.com/befr/retail/storelist/)
-41. [Apple Store (België) - Lijst van Stores](https://www.apple.com/benl/retail/storelist/)
-42. [Apple Retail Store (UAE) - Store List](https://www.apple.com/ae/retail/storelist/)
-43. [Apple Store (Macau) - Store List](https://www.apple.com/mo/retail/storelist/)
-44. [Apple Store (Mexico) - Lista de Tiendas](https://www.apple.com/mx/retail/storelist/)
-45. [Apple Store (Singapore) - Store List](https://www.apple.com/sg/retail/orchardroad/)
-46. [直營店列表 - Apple 直營店 - Apple (台灣)](https://www.apple.com/tw/retail/storelist/)
-47. [매장 목록 - Apple Store - Apple (KR)](https://www.apple.com/kr/retail/storelist/)（韓国語）
-48. [Apple Store – Liste der Stores - Apple (AT)](https://www.apple.com/at/retail/storelist/)
-49. [รายชื่อร้าน - Apple Store - Apple (TH)](https://www.apple.com/th/retail/storelist/)
-50. chi-athenaeum: [Good Design Winners](http://www.chi-athenaeum.org/gdesign/winners05.htm)
+22. [Store List - Apple Store - Apple](https://www.apple.com/retail/storelist/)
+23. [ストア一覧 - Apple Store - Apple（日本）](https://www.apple.com/jp/retail/storelist/)
+24. [Retail Store - Store List - Apple (UK)](https://www.apple.com/uk/retail/storelist/)
+25. [Apple Retail Store - Store List - Apple (CA)](https://www.apple.com/ca/retail/storelist/)
+26. [Apple Store (Italia) - Elenco negozi](https://www.apple.com/it/retail/storelist/)
+27. [Apple Retail Store (Australia) - Store List](https://www.apple.com/au/retail/storelist/)
+28. [零售店列表 - Apple Store 零售店 - Apple (中国大陆)](https://www.apple.com.cn/retail/storelist/)
+29. [Apple Store – Liste der Stores - Apple (CH)](https://www.apple.com/chde/retail/storelist/)
+30. [Apple Store (Deutschland) - Liste der Stores](https://www.apple.com/de/retail/storelist/)
+31. [Apple Store (France) - Liste des magasins](https://www.apple.com/fr/retail/storelist/)
+32. [Apple Store (España) - Lista de tiendas](https://www.apple.com/es/retail/storelist/)
+33. [零售店列表 - Apple Store - Apple (香港)](https://www.apple.com/hk/retail/storelist/)
+34. [Apple Store (Nederland) - Lijst van Stores](https://www.apple.com/nl/retail/storelist/)
+35. [Apple Store (Sverige) - Lista över butiker](https://www.apple.com/se/retail/storelist/)
+36. [Apple Store - Lista de Iojas](https://www.apple.com/br/retail/storelist/)
+37. [Apple Store - Mağaza Listesi](https://www.apple.com/tr/retail/storelist/)
+38. [Apple Store - Lijst van Stores - Apple (BE)](https://www.apple.com/benl/retail/storelist/)
+39. [Apple Retail Store (UAE) - Store List](https://www.apple.com/ae/retail/storelist/)
+40. [零售店列表 - Apple Store - Apple (澳門)](https://www.apple.com/mo/retail/storelist/)
+41. [Lista de tiendas - Apple Store - Apple (MX)](https://www.apple.com/mx/retail/storelist/)
+42. [Store List - Apple Store - Apple (SG)](https://www.apple.com/sg/retail/storelist/)
+43. [直營店列表 - Apple 直營店 - Apple (台灣)](https://www.apple.com/tw/retail/storelist/)
+44. [매장 목록 - Apple Store - Apple (KR)](https://www.apple.com/kr/retail/storelist/)
+45. [Apple Store – Liste der Stores - Apple (AT)](https://www.apple.com/at/retail/storelist/)
+46. [รายชื่อร้าน - Apple Store - Apple (TH)](https://www.apple.com/th/retail/storelist/)
+47. [Store List - Apple Store - Apple](https://www.apple.com/retail/storelist/)
+48. chi-athenaeum: [Good Design Winners](http://www.chi-athenaeum.org/gdesign/winners05.htm)
+49.
+50.
 51.
 52.
 53.
 54.
 55.
-56.
-57.
-58. [アップルストア渋谷、今週土曜日にオープン](http://www.apple.com/jp/pr/library/2005/08/04Apple-Store-Shibuya-Opens-This-Saturday.html)
-59. [アップルストア表参道ホームページ](http://www.apple.com/jp/retail/omotesando/)
+56. [アップルストア渋谷、今週土曜日にオープン](http://www.apple.com/jp/pr/library/2005/08/04Apple-Store-Shibuya-Opens-This-Saturday.html)
+57. [アップルストア表参道ホームページ](http://www.apple.com/jp/retail/omotesando/)
+58.
+59.
 60.
 61.
 62.
 63.
 64.
-65.
+65. [Genius Barの予約とAppleサポートのオプション](https://www.apple.com/jp/retail/geniusbar/) - Apple（日本）
 66.
-67. [Genius Barの予約とAppleサポートのオプション](https://www.apple.com/jp/retail/geniusbar/) - Apple（日本）
+67.
 68.
 69.
-70.
+70. [Apple Lakeside Shopping Center](https://www.apple.com/retail/lakesideshoppingcenter/)
 71.
-72. [Apple Lakeside Shopping Center](https://www.apple.com/retail/lakesideshoppingcenter/)
+72.
 73.
-74.
-75.
-76. とはいえ、iPhoneやiPad(WI-FI+Cellularモデル)のSIMフリー版に関しては全部または一部の扱いが無かったり、携帯電話キャリアとの契約必須などの条件付き販売の場合があるなどの品揃えや一部サービスの有無などApple Storeとの差異がある。
+74. とはいえ、iPhoneやiPad(WI-FI+Cellularモデル)のSIMフリー版に関しては全部または一部の扱いが無かったり、携帯電話キャリアとの契約必須などの条件付き販売の場合があるなどの品揃えや一部サービスの有無などApple Storeとの差異がある。

@@ -247,11 +247,15 @@
 
 ## 現所属選手
 
-  - [2020年](../Page/2020年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")現在
 
 ### ローン移籍
 
   - in
+
+<!-- end list -->
+
+  - out
 
 ## 歴代監督
 

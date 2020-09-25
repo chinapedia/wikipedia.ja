@@ -43,38 +43,38 @@ MG-Mは市販もされたが2013年6月現在、生産されていない。
   - **MG-M prototype Black "T'S TOYS"**（1988年）
   - **MG-M prototype WHITE** （1989年）
       -
-        『[BAD COMMUNICATION](../Page/BAD_COMMUNICATION.md "wikilink")』PV等で使用。
+        「[BAD COMMUNICATION](https://ja.wikipedia.org/wiki/BAD_COMMUNICATION#収録曲 "wikilink")」のPV等で使用。
   - **MG-M BLUE** （1989年）
   - **MG-MII prototype purple**（1990年）
       -
-        『LIVE-GYM [BREAK THROUGHTOUR](../Page/BREAK_THROUGH.md "wikilink")』で使用。カーリーメイプルトップ、マホガニーバック仕様。
+        『B'z LIVE-GYM "BREAK THROUGH"』で使用。カーリーメイプルトップ、マホガニーバック仕様。
   - **MG-MII BLUE** （1990年）
       -
-        『[RISKY](../Page/RISKY_\(アルバム\).md "wikilink")』で使用。所有機3本の内2本がPleasure'93で演奏され、爆破された。残りの1本がPleasure2008で演奏された「だからその手を離して」で使用された。
+        『[RISKY](../Page/RISKY_\(アルバム\).md "wikilink")』で使用。所有機3本の内2本が『[B'z LIVE-GYM Pleasure '93 "JAP THE RIPPER"](../Page/LIVE_RIPPER.md "wikilink")』で演奏され、爆破された。残りの1本が『[B'z LIVE-GYM Pleasure 2008 -GLORY DAYS-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_Pleasure_2008_-GLORY_DAYS- "wikilink")』で演奏された「[だからその手を離して](../Page/だからその手を離して.md "wikilink")」で使用された。
   - **MG-MIIG Neon** （1991年）
       -
         「[LADY NAVIGATION](../Page/LADY_NAVIGATION.md "wikilink")」「[ALONE](../Page/ALONE_\(B'zの曲\).md "wikilink")」「[BLOWIN'](../Page/BLOWIN'.md "wikilink")」 で使用。プロトタイプの為、紫色のラインが市販品よりも太い。
   - **MG-M CUSTOM NATURAL** （1993年）
       -
-        「B'z LIVE-GYM '93 "RUN"」 で使用。12フレットのインレイがチョーカーになっている。
+        『B'z LIVE-GYM '93 "RUN"』で使用。12フレットのインレイがチョーカーになっている。
   - **MG-M CUSTOM ZEBRA** （1993年）
       -
-        「[JAP THE RIPPER](../Page/The_7th_Blues.md "wikilink")」で使用。2本製作され後に1本は[サスティナー](https://ja.wikipedia.org/wiki/サスティナー "wikilink")を搭載する改造が施され2003年頃までレコーディングで使用されていた。もう1本は[GLAY](../Page/GLAY.md "wikilink")の[TAKURO](../Page/TAKURO.md "wikilink")に譲っている。
+        「[JAP THE RIPPER](https://ja.wikipedia.org/wiki/The_7th_Blues#DISC_2 "wikilink")」で使用。2本製作され後に1本は[サスティナー](https://ja.wikipedia.org/wiki/サスティナー "wikilink")を搭載する改造が施され2003年頃までレコーディングで使用されていた。もう1本は[GLAY](../Page/GLAY.md "wikilink")の[TAKURO](../Page/TAKURO.md "wikilink")に譲っている。
   - **MG-MIII ZEBRA** （1994年）
       -
         廉価版。ゼブラの白色に淡い緑色が付け加えられている。本人は使用していない。
   - **MG-M CUSTOM Red Sunburst** （1994年）
       -
-        「B'z LIVE-GYM '94 "The 9th Blues"【PART 2】」「[love me, I love you](https://ja.wikipedia.org/wiki/love_me,_I_love_you "wikilink")」レコーディングで使用。キルトメイプルトップ、マホガニーバック仕様。イケベ楽器特注品。
+        『B'z LIVE-GYM '94 "The 9th Blues"〈PART2〉』や「[love me, I love you](https://ja.wikipedia.org/wiki/love_me,_I_love_you "wikilink")」のレコーディングで使用。キルトメイプルトップ、マホガニーバック仕様。イケベ楽器特注品。
   - **MG-M CUSTOM Black Burst** （1994年）
       -
-        「B'z LIVE-GYM '94 "The 9th Blues"【PART 2】」】「love me, I love you」ジャケット「[LOVE PHANTOM](../Page/LOVE_PHANTOM.md "wikilink")」レコーディング、'95 Live "BUZZ\!\!"で使用。ボディにもバインディングが施され、マッチングヘッド、レスポールと同じ三点スイッチ仕様になっている。同仕様の物が2本製作された。
+        『B'z LIVE-GYM '94 "The 9th Blues"〈PART2〉』やシングル『love me, I love you』のジャケット、「[LOVE PHANTOM](../Page/LOVE_PHANTOM.md "wikilink")」のレコーディング、『[B'z LIVE-GYM Pleasure '95 "BUZZ\!\!"](../Page/"BUZZ!!"_THE_MOVIE.md "wikilink")』で使用。ボディにもバインディングが施され、マッチングヘッド、レスポールと同じ三点スイッチ仕様になっている。同仕様の物が2本製作された。
   - **MG-M CUSTOM Double Neck**
       -
-        日本文化好きな[ヤマハ](../Page/ヤマハ.md "wikilink")USAのビルダーが製作。ピックアップは[HSH](https://ja.wikipedia.org/wiki/HSH "wikilink")レイアウトで指板にはビルダーの趣味で｢大五郎｣の文字や侍のインレイが施されている。
+        日本文化好きな[ヤマハ](../Page/ヤマハ.md "wikilink")USAのビルダーが製作。ピックアップは[HSH](https://ja.wikipedia.org/wiki/HSH "wikilink")レイアウトで指板にはビルダーの趣味で「大五郎」の文字や侍のインレイが施されている。
 
 ## 関連項目
 
   - [ヤマハ・MG-K](https://ja.wikipedia.org/wiki/ヤマハ・MG-K "wikilink") - [パッパラー河合](../Page/パッパラー河合.md "wikilink")シグネイチャー・モデル。
 
-[Category:ヤマハ製ギター](https://ja.wikipedia.org/wiki/Category:ヤマハ製ギター "wikilink") [Category:B'z](https://ja.wikipedia.org/wiki/Category:B'z "wikilink")
+[Category:ギターの機種](https://ja.wikipedia.org/wiki/Category:ギターの機種 "wikilink") [Category:ヤマハ製ギター](https://ja.wikipedia.org/wiki/Category:ヤマハ製ギター "wikilink") [Category:B'z](https://ja.wikipedia.org/wiki/Category:B'z "wikilink")

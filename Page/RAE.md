@@ -13,7 +13,7 @@
 
 1988年12月：[発電所](../Page/発電所.md "wikilink")の故障に伴う深刻な電力不足に対処する為、[サマータイム制が導入された](../Page/夏時間.md "wikilink")（以後、夏時間入りしている期間に限り、RAEの番組も放送開始時刻（[UTC](../Page/協定世界時.md "wikilink")）が一律で1時間繰り上げ）\[1\]。
 
-2013年5月現在：アルゼンチンの[公用語](../Page/公用語.md "wikilink")でもある[カスティーリャ語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")（スペイン語）をはじめ、英語、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")、[ドイツ語](../Page/ドイツ語.md "wikilink")、[イタリア語](../Page/イタリア語.md "wikilink")、[日本語](../Page/日本語.md "wikilink")、[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")の8言語で[短波放送](../Page/短波放送.md "wikilink")を実施。
+2013年5月現在：アルゼンチンの[公用語](../Page/公用語.md "wikilink")でもある[カスティーリャ語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")（スペイン語）をはじめ、英語、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")、[ドイツ語](../Page/ドイツ語.md "wikilink")、[イタリア語](../Page/イタリア語.md "wikilink")、[日本語](../Page/日本語.md "wikilink")、[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")、[中国語](../Page/中国語.md "wikilink")の8言語で[短波放送](../Page/短波放送.md "wikilink")を実施。
 
 2013年2月12日：RAE 放送開始55周年を迎える。
 

@@ -1,7 +1,7 @@
 > この記事は[AI将棋](https://ja.wikipedia.org/wiki/AI将棋)から翻訳されています。
 
 
-**AI将棋**（エーアイしょうぎ）は、[コンピュータ将棋](https://ja.wikipedia.org/wiki/コンピュータ将棋 "wikilink")の[ソフトウェア](../Page/ソフトウェア.md "wikilink")。製品ラインナップは[Microsoft Windows版を中心に展開されているが](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、バージョンによっては[Macintosh](../Page/Macintosh.md "wikilink")版・[PlayStation 2版も販売されている](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+**AI将棋**（エーアイしょうぎ）は、[コンピュータ将棋](https://ja.wikipedia.org/wiki/コンピュータ将棋 "wikilink")の[ソフトウェア](../Page/ソフトウェア.md "wikilink")。製品ラインナップは[Microsoft Windows版を中心に展開されているが](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、バージョンによっては[Macintosh](../Page/Macintosh.md "wikilink")版・[PlayStation 2版も販売されている](../Page/PlayStation_2.md "wikilink")。
 
 思考エンジンには、[世界コンピュータ将棋選手権](https://ja.wikipedia.org/wiki/世界コンピュータ将棋選手権 "wikilink")の強豪ソフトとして知られる、[山下宏](https://ja.wikipedia.org/wiki/山下宏 "wikilink")作のソフト「YSS」を採用している。市販ソフト版は、2007年3月までは株式会社[アイフォー](../Page/アイフォー.md "wikilink")（旧:サムシンググッド）が販売していたが、アイフォーが[イーフロンティア](../Page/イーフロンティア.md "wikilink")に合併・吸収されたため、現在はイーフロンティアが開発・販売を引き継いでいる。
 
@@ -68,7 +68,7 @@ AIマッチングシステムを利用して通信対局ができる。最近の
   - AI将棋 Version 12 for Windows - [2004年](../Page/2004年.md "wikilink")[12月3日](../Page/12月3日.md "wikilink")
   - AI将棋 優勝記念版 for Windows - [2004年](../Page/2004年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")
   - AI将棋2004 for Windows
-  - AI将棋2003 - [PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。[ジェネックス発売](../Page/サイバーフロント.md "wikilink")、[2003年](../Page/2003年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")
+  - AI将棋2003 - [PlayStation 2版](../Page/PlayStation_2.md "wikilink")。[ジェネックス発売](../Page/サイバーフロント.md "wikilink")、[2003年](../Page/2003年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")
   - AI将棋セレクション - [PlayStation版](../Page/PlayStation_\(ゲーム機\).md "wikilink")。
   - AI将棋2002 for Windows
   - AI将棋2001 for Windows / Macintosh

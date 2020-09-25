@@ -330,7 +330,7 @@
       - [シェンロンガンダム](../Page/シェンロンガンダム.md "wikilink")
       - [ガンダムエピオン](../Page/ガンダムエピオン.md "wikilink")
       - [ガンダムGP03S](https://ja.wikipedia.org/wiki/ガンダム開発計画#ガンダム試作3号機（ステイメン） "wikilink")
-      - [ΖΖガンダム](https://ja.wikipedia.org/wiki/ΖΖガンダム "wikilink")
+      - [ΖΖガンダム](../Page/ΖΖガンダム.md "wikilink")
       - [ガンダムGP01](https://ja.wikipedia.org/wiki/ガンダム開発計画#ガンダム試作1号機（ゼフィランサス） "wikilink")
       - [ゴッドガンダム](../Page/ゴッドガンダム.md "wikilink")
       - [ストライクフリーダムガンダム](https://ja.wikipedia.org/wiki/ストライクフリーダムガンダム "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[ソード・ワールドRPGリプレイ第1部](https://ja.wikipedia.org/wiki/ソード・ワールドRPGリプレイ第1部)から翻訳されています。
 
 
-**ソード・ワールドRPGリプレイ第1部**（ソード・ワールドアールピージーリプレイだいいちぶ）は、『[月刊ドラゴンマガジン](../Page/ドラゴンマガジン_\(富士見書房\).md "wikilink")』[1988年](../Page/1988年.md "wikilink")11月号に初出し[1989年](../Page/1989年.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")まで連載された、[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink") (TRPG) 『[ソード・ワールドRPG](https://ja.wikipedia.org/wiki/ソード・ワールドRPG "wikilink")』の[リプレイ作品](../Page/リプレイ_\(TRPG\).md "wikilink")。全3巻9話。リプレイ第1部、**スチャラカ冒険隊編**とも称される。新装版は**スチャラカ編**と正式に銘打たれた。[ゲームマスター](../Page/ゲームマスター.md "wikilink") (GM) は[山本弘](../Page/山本弘_\(作家\).md "wikilink")。イラストレーターは[草彅琢仁](https://ja.wikipedia.org/wiki/草彅琢仁 "wikilink")。
+**ソード・ワールドRPGリプレイ第1部**（ソード・ワールドアールピージーリプレイだいいちぶ）は、『[月刊ドラゴンマガジン](../Page/ドラゴンマガジン_\(富士見書房\).md "wikilink")』[1988年](../Page/1988年.md "wikilink")11月号に初出し[1989年](../Page/1989年.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")まで連載された、[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink") (TRPG) 『[ソード・ワールドRPG](https://ja.wikipedia.org/wiki/ソード・ワールドRPG "wikilink")』の[リプレイ作品](../Page/リプレイ_\(TRPG\).md "wikilink")。全3巻9話。リプレイ第1部、**スチャラカ冒険隊編**とも称される。新装版は**スチャラカ編**と正式に銘打たれた。[ゲームマスター](../Page/ゲームマスター.md "wikilink") (GM) は[山本弘](../Page/山本弘_\(作家\).md "wikilink")。イラストレーターは[草彅琢仁](../Page/草彅琢仁.md "wikilink")。
 
 [プレイヤー・キャラクター](https://ja.wikipedia.org/wiki/プレイヤーズ・キャラクター "wikilink") (PC) は、ザボ、ケッチャ、ユズ、ディーボ、アリシアン、ケインの6人。
 
@@ -139,7 +139,7 @@ GMが演じるキャラクター([NPC](../Page/ノンプレイヤーキャラク
 ## 関連項目
 
   - [山本弘](../Page/山本弘_\(作家\).md "wikilink")
-  - [草彅琢仁](https://ja.wikipedia.org/wiki/草彅琢仁 "wikilink")
+  - [草彅琢仁](../Page/草彅琢仁.md "wikilink")
   - [スチャラカ冒険隊](../Page/スチャラカ冒険隊.md "wikilink")
 
 [Category:ソード・ワールドRPGのリプレイ](https://ja.wikipedia.org/wiki/Category:ソード・ワールドRPGのリプレイ "wikilink")

@@ -169,7 +169,7 @@
 
 ## 外部リンク
 
-  - [「FMVファミリー」へようこそ](http://web.archive.org/web/19991011095750/http://www.softbank.co.jp/softbank/publishing/fmvf/)（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+  - [「FMVファミリー」へようこそ](https://web.archive.org/web/19991011095750/http://www.softbank.co.jp/softbank/publishing/fmvf/)（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
 
 [Category:コンピュータゲーム雑誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:コンピュータゲーム雑誌_\(休廃刊\) "wikilink") [Category:SBクリエイティブの雑誌](https://ja.wikipedia.org/wiki/Category:SBクリエイティブの雑誌 "wikilink") [Category:パソコン雑誌の歴史](https://ja.wikipedia.org/wiki/Category:パソコン雑誌の歴史 "wikilink") [Category:パソコンゲーム雑誌](https://ja.wikipedia.org/wiki/Category:パソコンゲーム雑誌 "wikilink") [Category:1982年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1982年創刊の雑誌 "wikilink") [Category:1996年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:1996年休廃刊の雑誌 "wikilink")
 

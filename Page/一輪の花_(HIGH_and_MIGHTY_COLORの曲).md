@@ -19,7 +19,7 @@
 
 1.  **一輪の花** \[3:40\]
       - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[BLEACH](https://ja.wikipedia.org/wiki/BLEACH_\(アニメ\) "wikilink")』オープニングテーマ（[2005年](../Page/2005年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")〜[2006年](../Page/2006年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")放送分）
-      - [PS2専用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[BLEACH 〜放たれし野望〜](../Page/BLEACH_〜放たれし野望〜.md "wikilink")』主題歌。
+      - [PS2専用ゲームソフト](../Page/PlayStation_2.md "wikilink")『[BLEACH 〜放たれし野望〜](../Page/BLEACH_〜放たれし野望〜.md "wikilink")』主題歌。
       - [ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")専用ゲームソフト『[BLEACH 蒼天に駆ける運命](https://ja.wikipedia.org/wiki/BLEACH_DS "wikilink")』主題歌。
     <!-- end list -->
       -

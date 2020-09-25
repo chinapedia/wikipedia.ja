@@ -9,7 +9,7 @@
 
 Special EditionのDVDには4週連続シングルリリース曲のミュージッククリップ、インタビュー、ライブ映像を収録。
 
-オリコン週間アルバムランキングでは初の2週連続の首位獲得となった\[1\]。また、本作は初のミリオンセラーとなった\[2\]。2004年3月、ミリオンセラーを記念して、本作を含む3枚のオリジナルアルバムの初回限定盤をまとめた『[祝ミリオン・初回アルバム3枚組 BOX SET 〜Appreciation to the million breakthrough〜](https://ja.wikipedia.org/wiki/祝ミリオン・初回アルバム3枚組_BOX_SET_〜Appreciation_to_the_million_breakthrough〜 "wikilink")』が限定発売された\[3\]。
+オリコン週間アルバムランキングでは初の2週連続の首位獲得となった\[1\]。また、本作はグループ初のミリオンセラー作品となった\[2\]。2004年3月、ミリオンセラーを記念して、本作を含む3枚のオリジナルアルバムの初回限定盤をまとめた『[祝ミリオン・初回アルバム3枚組 BOX SET 〜Appreciation to the million breakthrough〜](https://ja.wikipedia.org/wiki/祝ミリオン・初回アルバム3枚組_BOX_SET_〜Appreciation_to_the_million_breakthrough〜 "wikilink")』が限定発売された\[3\]。
 
 ## 収録曲
 

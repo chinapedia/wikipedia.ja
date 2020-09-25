@@ -37,7 +37,7 @@
     2012年10月10日発売\[14\]。USB接続。
     [NFCフォーラムの認定を取得した](../Page/近距離無線通信.md "wikilink")。タッチ面には従来までの[モバイル非接触IC通信マーク](https://www.felicanetworks.co.jp/contact/brand.html)ではなく、NFCフォーラムのNマークが書かれている。PC/SC 2.0準拠。
     業務用途専用モデルとしてアメリカ・ヨーロッパでの[電波法](../Page/電波法.md "wikilink")にも準拠したRC-S380/Sも発売\[15\]。
-  - RC-S390◎
+  - RC-S390○
     2013年10月7日発売\[16\]\[17\]。[Bluetooth](../Page/Bluetooth.md "wikilink")接続。
     iOS専用の個人向けモデルRC-S390、iOS専用の法人向けモデルRC-S390/S、Windows対応の法人向けモデルRC-S390/SWがある。
 

@@ -1,13 +1,13 @@
 > この記事は[Snow drop \(L\'Arc〜en〜Cielの曲\)](https://ja.wikipedia.org/wiki/Snow_drop_\(L\'Arc〜en〜Cielの曲\))から翻訳されています。
 
 
-「**snow drop**」（スノー ドロップ）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の13作目のシングル。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月7日](../Page/10月7日.md "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。
+{{ external media | width = 300px | align = right | video1 =  }} 「**snow drop**」（スノー ドロップ）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の13作目のシングル。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月7日](../Page/10月7日.md "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。
 
 ## 解説
 
 翌週発売の「[forbidden lover](https://ja.wikipedia.org/wiki/forbidden_lover "wikilink")」と合わせ、**シングル2週連続発売**の1週目に発売されたシングル。
 
-本作リリース前に放映されたCMでは、3作同時シングル発売に引き続き[プロレスラー](../Page/プロレスラー.md "wikilink")の[藤原喜明](../Page/藤原喜明.md "wikilink")が出演している。
+本作リリース前に放映されたCMでは、3作同時シングル発売に引き続き[プロレスラー](../Page/プロレスラー.md "wikilink")の[藤原喜明](../Page/藤原喜明.md "wikilink")が刑事役で出演している。[2019年](../Page/2019年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink")にはこのCMをセルフリメイフし、サブスクリプションサービス（定額制音楽配信）にて楽曲の一斉配信を開始する旨を発表した。
 
 通算4作目の[オリコン週間シングルチャート初登場](../Page/オリコンチャート.md "wikilink")1位を記録するとともに、10thシングル「[HONEY](../Page/HONEY_\(L'Arc〜en〜Cielの曲\).md "wikilink")」、11thシングル「[花葬](../Page/花葬.md "wikilink")」に続きシングルでは3作目の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")（114.6万枚）となった。L'Arc〜en〜Cielのシングル作品の中では「HONEY」に次いで2番目に多く売り上げている。
 

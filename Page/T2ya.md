@@ -1,7 +1,7 @@
 > この記事は[T2ya](https://ja.wikipedia.org/wiki/T2ya)から翻訳されています。
 
 
-**T2ya**（てつや、[5月14日](../Page/5月14日.md "wikilink")生）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。本名は橋長 哲也（はしなが てつや）、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")出身。[血液型O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**T2ya**（てつや、[5月14日](../Page/5月14日.md "wikilink")生）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。本名は橋長 哲也（はしなが てつや）、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")出身。[血液型O型](../Page/ABO式血液型.md "wikilink")。
 
 ## 経歴
 

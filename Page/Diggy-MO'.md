@@ -23,7 +23,7 @@ Diggy-MO'という名前の[由来](https://ja.wikipedia.org/wiki/由来 "wikili
 
 ### ソロ活動開始
 
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")、『[爆走夢歌](https://ja.wikipedia.org/wiki/爆走夢歌 "wikilink")』で、[ソロ](https://ja.wikipedia.org/wiki/ソロ "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。[アニメ](../Page/アニメ.md "wikilink")、「[ソウルイーター](https://ja.wikipedia.org/wiki/ソウルイーター "wikilink")」のエンディングテーマになる。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")、『[爆走夢歌](https://ja.wikipedia.org/wiki/爆走夢歌 "wikilink")』で、[ソロ](../Page/ソロ.md "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。[アニメ](../Page/アニメ.md "wikilink")、「[ソウルイーター](https://ja.wikipedia.org/wiki/ソウルイーター "wikilink")」のエンディングテーマになる。
   - [2009年](../Page/2009年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")、2ndシングル『[JUVES/VEGA](https://ja.wikipedia.org/wiki/JUVES/VEGA "wikilink")』をリリース。
   - [3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に、1stアルバム『[Diggyism](https://ja.wikipedia.org/wiki/Diggyism "wikilink")』をリリース。
   - Diggy-MO'初のソロツアー『Diggy-MO' Live Tour 2009“WHO THE Fxxx IS JUVE?”』を行う。

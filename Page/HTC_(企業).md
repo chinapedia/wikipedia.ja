@@ -2,7 +2,7 @@
 
 
 [Htc_new_logo.svg](https://ja.wikipedia.org/wiki/File:Htc_new_logo.svg "fig:Htc_new_logo.svg") [HTC_台北新店總部大樓.jpg](https://ja.wikipedia.org/wiki/File:HTC_台北新店總部大樓.jpg "fig:HTC_台北新店總部大樓.jpg") [220px](https://ja.wikipedia.org/wiki/ファイル:HT-01A.jpg "wikilink")
-（[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink") [HT-01A](https://ja.wikipedia.org/wiki/HT-01A "wikilink")）\]\] **HTC Corporation**（エイチ・ティー・シー・コーポレーション、）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")を拠点とする[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")・[携帯情報端末](../Page/携帯情報端末.md "wikilink")（PDA）メーカー。[Windows Mobileや](../Page/Windows_Mobile.md "wikilink")[Windows Phone](https://ja.wikipedia.org/wiki/Windows_Phone "wikilink")、[Android](../Page/Android.md "wikilink")を搭載したPDAやスマートフォンを世界中で発売している。かつては**High Tech Computer Corporation**（ハイ・テック・コンピューター・コーポレーション）と名乗っていた。
+（[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink") [HT-01A](https://ja.wikipedia.org/wiki/HT-01A "wikilink")）\]\] **HTC Corporation**（エイチ・ティー・シー・コーポレーション、）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")を拠点とする[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")・[携帯情報端末](../Page/携帯情報端末.md "wikilink")（PDA）メーカー。[Windows Mobileや](../Page/Windows_Mobile.md "wikilink")[Windows Phone](https://ja.wikipedia.org/wiki/Windows_Phone "wikilink")、[Androidを搭載したPDAやスマートフォンを世界中で発売している](../Page/Android_\(オペレーティングシステム\).md "wikilink")。かつては**High Tech Computer Corporation**（ハイ・テック・コンピューター・コーポレーション）と名乗っていた。
 
 [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")法人は**HTC NIPPON株式会社**（エイチ・ティー・シー・ニッポン）で、2006年に設立された。[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")と[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")、[イー・アクセス](https://ja.wikipedia.org/wiki/イー・アクセス "wikilink")（[イー・モバイル](../Page/イー・モバイル.md "wikilink")ブランド、現在の[ワイモバイル](../Page/ワイモバイル.md "wikilink")）、[KDDI](../Page/KDDI.md "wikilink")（[auブランド](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")、[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")を含む）にPDA型携帯端末を供給している。
 
@@ -12,7 +12,7 @@
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に、[中華民国](../Page/中華民国.md "wikilink")にて[王永慶](../Page/王永慶.md "wikilink")の次女である（Cher Wang、現[会長](../Page/会長.md "wikilink")）、（ピーター・チョウ、Peter Chou、現[最高経営責任者](../Page/最高経営責任者.md "wikilink")）らにより設立。以降[Palm](../Page/Palm.md "wikilink")や[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink") [iPAQ](https://ja.wikipedia.org/wiki/iPAQ "wikilink")の製造を受注して急速に発展した。
 
-[Google](../Page/Google.md "wikilink")から[Android](../Page/Android.md "wikilink")が発表されると、その発展に賭け、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には世界初のAndroid端末 HTC Dream （[T-Mobile G1](https://ja.wikipedia.org/wiki/T-Mobile_G1 "wikilink")）をリリース、以降[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")ブームに乗って勢力を伸ばす。日本では[2009年](../Page/2009年.md "wikilink")7月に[HT-03A](https://ja.wikipedia.org/wiki/HT-03A "wikilink")を発表して以降認知度を高めている（それまでも[Windows Mobile端末を日本で展開していたが](../Page/Windows_Mobile.md "wikilink")、一般的な認知度は低く、「htc」のロゴが[日立の略と勘違いされることもあったと言われる](../Page/日立製作所.md "wikilink")）\[2\]。
+[Google](../Page/Google.md "wikilink")から[Androidが発表されると](../Page/Android_\(オペレーティングシステム\).md "wikilink")、その発展に賭け、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には世界初のAndroid端末 HTC Dream （[T-Mobile G1](https://ja.wikipedia.org/wiki/T-Mobile_G1 "wikilink")）をリリース、以降[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")ブームに乗って勢力を伸ばす。日本では[2009年](../Page/2009年.md "wikilink")7月に[HT-03A](https://ja.wikipedia.org/wiki/HT-03A "wikilink")を発表して以降認知度を高めている（それまでも[Windows Mobile端末を日本で展開していたが](../Page/Windows_Mobile.md "wikilink")、一般的な認知度は低く、「htc」のロゴが[日立の略と勘違いされることもあったと言われる](../Page/日立製作所.md "wikilink")）\[2\]。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、アメリカ合衆国における[マルチタッチ](https://ja.wikipedia.org/wiki/マルチタッチ "wikilink")に関する特許を始めとする20件の特許を侵害したとして[アップルにより提訴される](../Page/アップル_\(企業\).md "wikilink")\[3\]。アップルが訴えた理由として、Android携帯を脅威に感じつつも、[Google](../Page/Google.md "wikilink")と直接対立するのを避け、比較的新興かつ小規模なHTCのみを相手にするのが有利だと考えたからだという説がある\[4\]。
 
@@ -46,7 +46,7 @@
 
 <!-- end list -->
 
-  - docomo PRO series [HT-03A](https://ja.wikipedia.org/wiki/HT-03A "wikilink")（HTC Magic） - [Android](../Page/Android.md "wikilink") 1.5→1.6
+  - docomo PRO series [HT-03A](https://ja.wikipedia.org/wiki/HT-03A "wikilink")（HTC Magic） - [Android](../Page/Android_\(オペレーティングシステム\).md "wikilink") 1.5→1.6
 
 <!-- end list -->
 

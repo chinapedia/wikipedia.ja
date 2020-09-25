@@ -38,7 +38,7 @@
   - [DOWAエコシステム](../Page/DOWAエコシステム.md "wikilink")株式会社（[環境](../Page/環境.md "wikilink")・[リサイクル](../Page/リサイクル.md "wikilink")事業）
   - [DOWAエレクトロニクス](https://ja.wikipedia.org/wiki/DOWAエレクトロニクス "wikilink")株式会社（[電子](https://ja.wikipedia.org/wiki/電子 "wikilink")材料事業）
   - [DOWAメタルテック](https://ja.wikipedia.org/wiki/DOWAメタルテック "wikilink")株式会社（[金属加工](../Page/金属加工.md "wikilink")事業）
-  - [DOWAサーモテック](https://ja.wikipedia.org/wiki/DOWAサーモテック "wikilink")株式会社（[熱処理](https://ja.wikipedia.org/wiki/熱処理 "wikilink")事業）
+  - [DOWAサーモテック](https://ja.wikipedia.org/wiki/DOWAサーモテック "wikilink")株式会社（[熱処理](../Page/熱処理.md "wikilink")事業）
 
 ### 事業サポート会社
 

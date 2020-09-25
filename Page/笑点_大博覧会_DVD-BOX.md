@@ -1,7 +1,7 @@
 > この記事は[笑点 大博覧会 DVD-BOX](https://ja.wikipedia.org/wiki/笑点_大博覧会_DVD-BOX)から翻訳されています。
 
 
-『**笑点大博覧会DVD-BOX**』（しょうてんだいはくらんかいでぃーぶいでぃーぼっくす）は、『[笑点](https://ja.wikipedia.org/wiki/笑点 "wikilink")』40周年記念として[2005年](../Page/2005年.md "wikilink")（平成17年）[11月23日](../Page/11月23日.md "wikilink")に発売された[DVD](../Page/DVD.md "wikilink")。発売元は[制作日本テレビアックスオン](https://ja.wikipedia.org/wiki/制作日本テレビアックスオン "wikilink")。
+『**笑点大博覧会DVD-BOX**』（しょうてんだいはくらんかいでぃーぶいでぃーぼっくす）は、『[笑点](https://ja.wikipedia.org/wiki/笑点 "wikilink")』40周年記念として[2005年](../Page/2005年.md "wikilink")（平成17年）[11月23日](../Page/11月23日.md "wikilink")に発売された[DVD](../Page/DVD.md "wikilink")。製作･発売元は[日テレアックスオン](../Page/日テレアックスオン.md "wikilink")。
 
 ## 概要
 

@@ -165,13 +165,14 @@
 
 ## 得意技
 
-[Asuka_"Asuka_lock"_NXT_Takeover_Dallas_2016.jpg](https://ja.wikipedia.org/wiki/File:Asuka_"Asuka_lock"_NXT_Takeover_Dallas_2016.jpg "fig:Asuka_\"Asuka_lock\"_NXT_Takeover_Dallas_2016.jpg")
+WWEでは目の下に緑のペイントをしコミカルなダンスで相手をからかったりマイクアピールでは汚い大阪弁で詰るギミックが特徴。 [Asuka_"Asuka_lock"_NXT_Takeover_Dallas_2016.jpg](https://ja.wikipedia.org/wiki/File:Asuka_"Asuka_lock"_NXT_Takeover_Dallas_2016.jpg "fig:Asuka_\"Asuka_lock\"_NXT_Takeover_Dallas_2016.jpg")
 
-### フィニッシュホールド
+### フィニッシュ・ホールド
 
   - アスカロック（旧称：カナロック ）
     グランドチキンウィング胴締めスリーパー
-    日本では「**カナロック**」 、WWEでは「**アスカロック**」の技名で使用。主なフィニッシャー。
+    背後から相手の片腕をチキンウィングで捕らえ、そのままグラウンドに移行し、胴締め式で締め上げる変型[スリーパー・ホールド](https://ja.wikipedia.org/wiki/裸締め "wikilink")。
+    日本では「**カナロック**」 、WWE所属後に「**アスカロック**」の改名。で使用。以後、絶対的フィニッシャーとしてWWE女子戦線で猛威を振るう。バリエーションも豊富。ダブル・チキンウイングから開脚式シットダウンで臀部を打ちつけてから移行するタイプも使用。
   - [スピンキック](../Page/回し蹴り.md "wikilink")
     [スピンキックは](../Page/回し蹴り.md "wikilink")、NXTにおいてフィニッシャーとして使用される。
 
@@ -186,8 +187,11 @@
   - [ドロップキック](../Page/ドロップキック.md "wikilink")
     [低空ドロップキック](https://ja.wikipedia.org/wiki/ドロップキック#低空式ドロップキック "wikilink")
     [延髄斬り](../Page/延髄斬り.md "wikilink")
-    **バズソーキック**
+    [バズソーキック](https://ja.wikipedia.org/wiki/蹴り技#バズソーキック "wikilink")
     仰向けになった相手の上半身を起こして相手の左側頭部を強烈な右ミドルキックを打ち込み振り抜いた右足の甲で相手の頭部を蹴り飛ばす技。
+  - [ポップアップ・ニー・ストライク](https://ja.wikipedia.org/wiki/膝蹴り#ニーアッパー "wikilink")
+    走り込んできた相手に対し、アームドラッグの体勢で左脇下に右手を差し込んで軽く宙に担ぎ上げ、同時に左膝を振り上げ、相手の顔面をカチ上げる打撃技。
+    1軍昇格後に使用し始めた、アスカの繋ぎ技の1つ。
 
 **各種蹴り技**
 
@@ -229,7 +233,7 @@
 
 ### その他
 
-  - グリーンミスト
+  - [グリーンミスト](../Page/毒霧.md "wikilink")
 
 ## 決め台詞
 
@@ -364,7 +368,7 @@
   -
   - [華名の動画ちゃんねる](https://ameblo.jp/anak-anak/) - 旧公式ブログ（2008年12月 - 2012年10月31日）
 
-[Category:日本の女子プロレスラー](https://ja.wikipedia.org/wiki/Category:日本の女子プロレスラー "wikilink") [Category:WNCに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:WNCに所属したプロレスラー "wikilink") [Category:SMASH](https://ja.wikipedia.org/wiki/Category:SMASH "wikilink") [Category:プロレスリングWAVE](https://ja.wikipedia.org/wiki/Category:プロレスリングWAVE "wikilink") [Category:666](https://ja.wikipedia.org/wiki/Category:666 "wikilink") [Category:REINA](https://ja.wikipedia.org/wiki/Category:REINA "wikilink") [Category:WWEに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:WWEに参戦したプロレスラー "wikilink") [Category:日本のプロレスのプロモーター](https://ja.wikipedia.org/wiki/Category:日本のプロレスのプロモーター "wikilink") [Category:ゲームライター](https://ja.wikipedia.org/wiki/Category:ゲームライター "wikilink") [Category:日本の実業家](https://ja.wikipedia.org/wiki/Category:日本の実業家 "wikilink") [Category:大阪芸術大学短期大学部出身の人物](https://ja.wikipedia.org/wiki/Category:大阪芸術大学短期大学部出身の人物 "wikilink") [Category:大阪国際滝井高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:大阪国際滝井高等学校出身の人物 "wikilink") [Category:在アメリカ合衆国日本人のプロレスラー](https://ja.wikipedia.org/wiki/Category:在アメリカ合衆国日本人のプロレスラー "wikilink") [Category:大阪市出身の人物](https://ja.wikipedia.org/wiki/Category:大阪市出身の人物 "wikilink") [Category:1981年生](https://ja.wikipedia.org/wiki/Category:1981年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の女子プロレスラー](https://ja.wikipedia.org/wiki/Category:日本の女子プロレスラー "wikilink") [Category:WNCに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:WNCに所属したプロレスラー "wikilink") [Category:SMASH](https://ja.wikipedia.org/wiki/Category:SMASH "wikilink") [Category:プロレスリングWAVE](https://ja.wikipedia.org/wiki/Category:プロレスリングWAVE "wikilink") [Category:666](https://ja.wikipedia.org/wiki/Category:666 "wikilink") [Category:REINA](https://ja.wikipedia.org/wiki/Category:REINA "wikilink") [Category:WWEに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:WWEに参戦したプロレスラー "wikilink") [Category:ペイントレスラー](https://ja.wikipedia.org/wiki/Category:ペイントレスラー "wikilink") [Category:日本のプロレスのプロモーター](https://ja.wikipedia.org/wiki/Category:日本のプロレスのプロモーター "wikilink") [Category:ゲームライター](https://ja.wikipedia.org/wiki/Category:ゲームライター "wikilink") [Category:日本の実業家](https://ja.wikipedia.org/wiki/Category:日本の実業家 "wikilink") [Category:女性実業家](https://ja.wikipedia.org/wiki/Category:女性実業家 "wikilink") [Category:大阪芸術大学短期大学部出身の人物](https://ja.wikipedia.org/wiki/Category:大阪芸術大学短期大学部出身の人物 "wikilink") [Category:大阪国際滝井高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:大阪国際滝井高等学校出身の人物 "wikilink") [Category:在アメリカ合衆国日本人のプロレスラー](https://ja.wikipedia.org/wiki/Category:在アメリカ合衆国日本人のプロレスラー "wikilink") [Category:大阪市出身の人物](https://ja.wikipedia.org/wiki/Category:大阪市出身の人物 "wikilink") [Category:1981年生](https://ja.wikipedia.org/wiki/Category:1981年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.  [2011年6月8日に行われたSMASH.18記者会見にて](https://www.youtube.com/watch?v=DXneY_McM9Y)

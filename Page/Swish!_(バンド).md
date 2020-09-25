@@ -63,11 +63,11 @@
 ## メンバー
 
   - 3人共[大阪府](../Page/大阪府.md "wikilink")[枚方市](../Page/枚方市.md "wikilink")出身である。
-  - **石田 順三**（いしだ じゅんぞう、 - [A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）
+  - **石田 順三**（いしだ じゅんぞう、 - [A型](../Page/ABO式血液型.md "wikilink")）
       - [ピアノ](../Page/ピアノ.md "wikilink")、作曲担当。このバンドのリーダーを務める。
       - [ベースの演奏も出来る](../Page/ベース_\(弦楽器\).md "wikilink")。カップリング等でベースを担当する事もある。
       - SSSの楽曲の詞の半分は石田が書いている。
-  - **佐伯 大介**（さえき だいすけ、 - [O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink") ）
+  - **佐伯 大介**（さえき だいすけ、 - [O型](../Page/ABO式血液型.md "wikilink") ）
       - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。高音の透き通った声でボーカルを務める。
       - 以前営業マンだったがSunSet Swish初ライブの翌日に退社。
       - 音楽雑誌R\&R NEWSMAKER（現在は休刊）の連載バトルにて、『SunSet Swish佐伯大介の妄想た{{～}}いむ\!』を連載していた。この連載は初登場以来常に1位獲得し、かなりの人気を誇っていた。

@@ -11,7 +11,7 @@
 
 1990年代半ば以降、Marcard、Stein & Co.、Carl F. Plump & Co.、Bankhaus Halbaum & Co.、Loebbecke & Co.といったドイツ国内の多数の[プライベート・バンク](https://ja.wikipedia.org/wiki/プライベート・バンク "wikilink")を買収し、事業規模を拡大した。
 
-子会社として、[スイス](../Page/スイス.md "wikilink")にM・M・ヴァールブルク銀行AGと[ルクセンブルク](../Page/ルクセンブルク.md "wikilink")にM・M・ヴァールブルクSAがある。また[投資信託](../Page/投資信託.md "wikilink")会社や[不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")会社なども傘下に置いている。が[1946年](../Page/1946年.md "wikilink")に[ロンドン](../Page/ロンドン.md "wikilink")で設立した[S. G. Warburg & Co.は](https://ja.wikipedia.org/wiki/:en:S._G._Warburg_&_Co. "wikilink")、1960年代から1980年代にかけて[シティで最も有力な投資銀行であった](../Page/シティ・オブ・ロンドン.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にS. G. Warburg & Co.は[スイス銀行コーポレイション](../Page/スイス銀行コーポレイション.md "wikilink")に売却され、[UBS](https://ja.wikipedia.org/wiki/UBS "wikilink")（[スイス銀行](../Page/スイス銀行.md "wikilink")とも呼ばれる）の一部門となった。
+子会社として、[スイス](../Page/スイス.md "wikilink")にM・M・ヴァールブルク銀行AGと[ルクセンブルク](../Page/ルクセンブルク.md "wikilink")にM・M・ヴァールブルクSAがある。また[投資信託](../Page/投資信託.md "wikilink")会社や[不動産](../Page/不動産.md "wikilink")会社なども傘下に置いている。が[1946年](../Page/1946年.md "wikilink")に[ロンドン](../Page/ロンドン.md "wikilink")で設立した[S. G. Warburg & Co.は](https://ja.wikipedia.org/wiki/:en:S._G._Warburg_&_Co. "wikilink")、1960年代から1980年代にかけて[シティで最も有力な投資銀行であった](../Page/シティ・オブ・ロンドン.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にS. G. Warburg & Co.は[スイス銀行コーポレイション](../Page/スイス銀行コーポレイション.md "wikilink")に売却され、[UBS](https://ja.wikipedia.org/wiki/UBS "wikilink")（[スイス銀行](../Page/スイス銀行.md "wikilink")とも呼ばれる）の一部門となった。
 
 美術史家[アビ・ヴァールブルク](../Page/アビ・ヴァールブルク.md "wikilink")は、この銀行の創業者一族から出た。
 

@@ -91,7 +91,7 @@
 <!-- end list -->
 
   - アルバム『SYNCHRONICITIZM』のプロデューサーに[Dragon AshのIKUZONEを迎えている](../Page/Dragon_Ash.md "wikilink")。これはIKUZONEからの申し出から叶ったことであった。
-  - 2003年に参加した『[BOØWY Respect](https://ja.wikipedia.org/wiki/BOØWY_Respect "wikilink")』では「MARIONETTE」がやりたかったが、N∀OKIの「モラルの無い『MORAL』やりたい」というところからカバーする経緯になった。
+  - 2003年に参加した『[BOØWY Respect](../Page/BOØWY_Respect.md "wikilink")』では「MARIONETTE」がやりたかったが、N∀OKIの「モラルの無い『MORAL』やりたい」というところからカバーする経緯になった。
   - アルバム『Walk』収録の「D.A.N.C.E.」は急死した[馬場育三](https://ja.wikipedia.org/wiki/馬場育三 "wikilink")へ向けて作られた歌で、歌詞中にも「IKÜZÖNE」が登場する\[12\]。
 
 <!-- end list -->
@@ -350,7 +350,7 @@ VICL-37319（通常盤）</p></td>
 </div></li>
 </ol></td>
 <td><p>10位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビ" title="wikilink">フジテレビ</a>「<a href="https://ja.wikipedia.org/wiki/ドラゴンボール超" title="wikilink">ドラゴンボール超</a>」ED</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
@@ -379,7 +379,7 @@ VICL-37509（通常盤）</p></td>
 </div></li>
 </ol></td>
 <td><p>9位</p></td>
-<td><p><a href="../Page/北海道放送.md" title="wikilink">HBCテレビ</a>「<a href="https://ja.wikipedia.org/wiki/白い恋人#白い恋人_PARK_AIR" title="wikilink">白い恋人 PARK AIR</a>」テーマソング</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -818,7 +818,7 @@ VICL-65344～65345(通常盤)</p></td>
 <li>DISC 3(Compiled with Cover &amp; Collaboration Songs、数量限定20thアニヴァーサリー・ボックス・セット/完全生産限定盤)</li>
 </ul>
 <ol>
-<li>MORAL(2003年発表、『<a href="https://ja.wikipedia.org/wiki/BOØWY_Respect" title="wikilink">BOØWY Respect</a>』収録)</li>
+<li>MORAL(2003年発表、『<a href="../Page/BOØWY_Respect.md" title="wikilink">BOØWY Respect</a>』収録)</li>
 <li>マジンガーZ(2005年発表、『GO ! GO ! NAGAI Tribute to the 永井豪』収録)</li>
 <li>RAT FINK(2006年発表、『GELUGUGU AMIGOS』収録)</li>
 <li>HOLD IN LOVE［赤い雨につつまれて］(2010年発表、『ピエロとスイカと88ライダー』収録)</li>
@@ -1485,7 +1485,7 @@ PINE-0032:BD</p></td>
 </tr>
 <tr class="even">
 <td><p>2003年12月24日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/BOØWY_Respect" title="wikilink">BOØWY Respect</a></strong></p></td>
+<td><p><strong><a href="../Page/BOØWY_Respect.md" title="wikilink">BOØWY Respect</a></strong></p></td>
 <td><p>FLCF-3994</p></td>
 <td><p>『MORAL』カバー参加</p></td>
 <td><p>FOR LIFE MUSIC ENTERTAINMENT</p></td>
@@ -1632,9 +1632,7 @@ VICL-64420(通常盤)</p></td>
 </div>
 </div></td>
 <td><p>6位</p></td>
-<td><p>発売中止<br />
-「Life Is Beautiful」…<a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列</a>「<a href="https://ja.wikipedia.org/wiki/musicる_TV" title="wikilink">musicる TV</a>」10月度オープニングテーマ<br />
-「P.I.L」…映画「復讐したい」主題歌</p></td>
+<td><p>発売中止</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -2410,11 +2408,58 @@ VICL-64420(通常盤)</p></td>
 
 ## タイアップ
 
-| 曲名          | タイアップ先                                                                                                 |
-| ----------- | ------------------------------------------------------------------------------------------------------ |
-| THIS WORLD  | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[やりすぎコージー](../Page/やりすぎコージー.md "wikilink")」ED |
-| P.I.L       | 映画『[復讐したい](https://ja.wikipedia.org/wiki/復讐したい "wikilink")』主題歌\[28\]                                   |
-| 「70cm四方の窓辺」 | フジテレビ系アニメ「[ドラゴンボール超](https://ja.wikipedia.org/wiki/ドラゴンボール超 "wikilink")」 10月度エンディングテーマ\[29\]           |
+<table>
+<thead>
+<tr class="header">
+<th><p>年</p></th>
+<th><p>曲名</p></th>
+<th><p>タイアップ先</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2010</p></td>
+<td><p>THIS WORLD</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系「<a href="../Page/やりすぎコージー.md" title="wikilink">やりすぎコージー</a>」ED</p></td>
+</tr>
+<tr class="even">
+<td><p>2011</p></td>
+<td><p>金色グラフティー</p></td>
+<td><p>テレビ東京系「<a href="https://ja.wikipedia.org/wiki/くだまき八兵衛X" title="wikilink">くだまき八兵衛X</a>」1月度エンディングテーマ<br />
+テレビ東京「<a href="../Page/音流〜On_Ryu〜.md" title="wikilink">音流</a>」1月度エンディングテーマ[28]</p></td>
+</tr>
+<tr class="odd">
+<td><p>2015</p></td>
+<td><p>Life Is Beautiful</p></td>
+<td><p><a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">テレビ朝日系列</a>「<a href="https://ja.wikipedia.org/wiki/musicる_TV" title="wikilink">musicる TV</a>」10月度オープニングテーマ</p></td>
+</tr>
+<tr class="even">
+<td><p>P.I.L</p></td>
+<td><p>映画『<a href="https://ja.wikipedia.org/wiki/復讐したい" title="wikilink">復讐したい</a>』主題歌[29]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016</p></td>
+<td><p>So...Start</p></td>
+<td><p><a href="../Page/北海道テレビ放送.md" title="wikilink">HTB</a>「<a href="../Page/夢チカ18.md" title="wikilink">夢チカ18</a>」オープニングテーマ</p></td>
+</tr>
+<tr class="even">
+<td><p>2017</p></td>
+<td><p>「70cm四方の窓辺」</p></td>
+<td><p>フジテレビ系アニメ「<a href="https://ja.wikipedia.org/wiki/ドラゴンボール超" title="wikilink">ドラゴンボール超</a>」 10月度エンディングテーマ[30]</p></td>
+</tr>
+<tr class="odd">
+<td><p>SHRED</p></td>
+<td><p><a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">テレビ朝日系</a>「<a href="../Page/ワールドプロレスリング.md" title="wikilink">ワールドプロレスリング</a>」2017年10・11月ファイティングミュージック[31]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019</p></td>
+<td><p>ハレルヤ</p></td>
+<td><p><a href="../Page/北海道放送.md" title="wikilink">HBCテレビ</a>「<a href="https://ja.wikipedia.org/wiki/白い恋人#白い恋人_PARK_AIR" title="wikilink">白い恋人 PARK AIR</a>」テーマソング</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 脚注
 
@@ -2459,3 +2504,5 @@ VICL-64420(通常盤)</p></td>
 27.
 28.
 29.
+30.
+31.

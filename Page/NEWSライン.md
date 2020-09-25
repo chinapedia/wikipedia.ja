@@ -40,6 +40,6 @@
 
 ## 外部リンク
 
-  - [NEWSライン](http://web.archive.org/web/20080326191147/http://www.naratv.co.jp/news/line.html)（インターネット・アーカイブ保存データ）
+  - [NEWSライン](https://web.archive.org/web/20080326191147/http://www.naratv.co.jp/news/line.html)（インターネット・アーカイブ保存データ）
 
 [Category:奈良テレビ放送の番組](https://ja.wikipedia.org/wiki/Category:奈良テレビ放送の番組 "wikilink") [Category:近畿地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:近畿地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:近畿地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:近畿地方のテレビの帯番組 "wikilink") [Category:2001年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のテレビ番組_\(日本\) "wikilink")

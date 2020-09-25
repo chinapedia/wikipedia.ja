@@ -1,7 +1,7 @@
 > この記事は[HOME \(B\'zの曲\)](https://ja.wikipedia.org/wiki/HOME_\(B\'zの曲\))から翻訳されています。
 
 
-「**HOME**」(ホーム)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。1998年7月8日に[Rooms RECORDSより](../Page/VERMILLION_RECORDS.md "wikilink")25作目の[シングル](../Page/シングル.md "wikilink")として発売された。
+「**HOME**」（ホーム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。1998年7月8日に[Rooms RECORDSより](../Page/VERMILLION_RECORDS.md "wikilink")25作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 
@@ -28,7 +28,7 @@
         オリジナル・アルバムには未収録であり、[バラード](../Page/バラード.md "wikilink")・ベスト・アルバム『[The Ballads 〜Love & B'z〜](../Page/The_Ballads_〜Love_&_B'z〜.md "wikilink")』でアルバム初収録となった\[13\]。
         音楽番組においては、アコースティック・ギターのパートから始まるアレンジで披露された\[14\]。
         リリース直前まで行われていた『B'z LIVE-GYM '98 "SURVIVE"』では披露されず、翌年に開催された『[B'z LIVE-GYM '99 "Brotherhood"](../Page/Once_upon_a_time_in_横浜_〜B'z_LIVE_GYM'99_"Brotherhood"〜.md "wikilink")』でライブ初演奏となった。なおこの際イントロのアコースティック・ギターのパートは省かれている。
-        ベスト・アルバム『[B'z The Best "Pleasure II"](https://ja.wikipedia.org/wiki/B'z_The_Best_"Pleasure_II" "wikilink")』発売時に[iTunes Music Storeにてこの曲の英語バージョンが現れたが](https://ja.wikipedia.org/wiki/iTunes_Music_Store "wikilink")、すぐに姿を消した(その後ミニ・アルバム『[B'z](../Page/B'z_\(2007年のアルバム\).md "wikilink")』に収録され配信されていた)。このバージョンはベストアルバム『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』でファン投票17位にランクインされ\[15\]、初CD化された(ライブでは2006年9月1日に行われたdwango提供の完全招待制のプレミアムライブ『[B'z NETWORK LIVE in Japan](../Page/B'z_LIVE_in_なんば.md "wikilink")』にて初披露されている)。2011年に、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の支援を目的としたコンピレーションアルバム『[ダウンロード・トゥ・ドネート・フォー・ジャパン](https://ja.wikipedia.org/wiki/ダウンロード・トゥ・ドネート・フォー・ジャパン "wikilink")』にも収録された\[16\]。
+        ベスト・アルバム『[B'z The Best "Pleasure II"](https://ja.wikipedia.org/wiki/B'z_The_Best_"Pleasure_II" "wikilink")』発売時に[iTunes Music Storeにてこの曲の英語バージョンが現れたが](https://ja.wikipedia.org/wiki/iTunes_Music_Store "wikilink")、すぐに姿を消した（その後ミニ・アルバム『[B'z](../Page/B'z_\(2007年のアルバム\).md "wikilink")』に収録され配信されていた）。このバージョンはベストアルバム『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』でファン投票17位にランクインされ\[15\]、初CD化された（ライブでは2006年9月1日に行われたdwango提供の完全招待制のプレミアムライブ『[B'z NETWORK LIVE in Japan](../Page/B'z_LIVE_in_なんば.md "wikilink")』にて初披露されている）。2011年に、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の支援を目的としたコンピレーションアルバム『[ダウンロード・トゥ・ドネート・フォー・ジャパン](https://ja.wikipedia.org/wiki/ダウンロード・トゥ・ドネート・フォー・ジャパン "wikilink")』にも収録された\[16\]。
         2020年4月27日、[新型コロナウイルスの外出自粛に伴い](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink")、公式[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネルにてメンバー2人でこの曲をセッションする動画が公開され\[17\]\[18\]\[19\]、4月30日には『[B'z LIVE-GYM 2019 -Whole Lotta NEW LOVE-](../Page/B'z_LIVE-GYM_2019_-Whole_Lotta_NEW_LOVE-.md "wikilink")』のサポートメンバーを加えたバンドセッション動画を公開した\[20\]\[21\]\[22\]。
         上記のセッション動画について松本曰く『B'zとして何かアクションを起こすべき』という想いから行われた。当初は新しい曲を作るつもりだったがまだ出せないと判断し、その後稲葉から「HOME」を演奏することを提案され、松本もタイトルも歌詞の内容的にもわかりやすいとのことで「HOME」が選曲された\[23\]。
 2.  **The Wild Wind** (3:45)
@@ -43,30 +43,30 @@
 
 ## タイアップ
 
-  - [角川文庫](../Page/角川文庫.md "wikilink")CMソング (\#1)
-  - [東映](../Page/東映.md "wikilink")・[アスミック・エース](../Page/アスミック・エース.md "wikilink")映画『[不夜城](https://ja.wikipedia.org/wiki/不夜城_\(小説\) "wikilink")』主題歌 (\#2)
+  - [角川文庫](../Page/角川文庫.md "wikilink")CMソング（\#1）
+  - [東映](../Page/東映.md "wikilink")・[アスミック・エース](../Page/アスミック・エース.md "wikilink")映画『[不夜城](https://ja.wikipedia.org/wiki/不夜城_\(小説\) "wikilink")』主題歌（\#2）
 
 ## 参加ミュージシャン
 
   - [松本孝弘](../Page/松本孝弘.md "wikilink"):[ギター](../Page/ギター.md "wikilink")、全曲[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")
   - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink"):[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、全曲[作詞](../Page/作詞.md "wikilink")・編曲
-  - [池田大介](../Page/池田大介_\(編曲家\).md "wikilink"):[シンセサイザープログラミング](../Page/ミュージックシーケンサー.md "wikilink")、全曲編曲
+  - [池田大介](../Page/池田大介_\(編曲家\).md "wikilink"):[シンセサイザープログラミング](../Page/ミュージックシーケンサー.md "wikilink")
   - [山木秀夫](../Page/山木秀夫.md "wikilink"):[ドラム](../Page/ドラムセット.md "wikilink")
   - [明石昌夫](../Page/明石昌夫.md "wikilink"):[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
-  - [和泉宏隆](../Page/和泉宏隆.md "wikilink"):[ピアノ](../Page/ピアノ.md "wikilink")・[アコーディオン](../Page/アコーディオン.md "wikilink") (\#1)
-  - [斎藤ノブ](https://ja.wikipedia.org/wiki/斎藤ノブ "wikilink"):[パーカッション](../Page/パーカッション.md "wikilink") (\#1)
-  - [篠崎Strings](https://ja.wikipedia.org/wiki/篠崎正嗣 "wikilink"):[ストリングス](../Page/弦楽器.md "wikilink") (\#2)
+  - [和泉宏隆](../Page/和泉宏隆.md "wikilink"):[ピアノ](../Page/ピアノ.md "wikilink")・[アコーディオン](../Page/アコーディオン.md "wikilink")（\#1）
+  - [斎藤ノブ](https://ja.wikipedia.org/wiki/斎藤ノブ "wikilink"):[パーカッション](../Page/パーカッション.md "wikilink")（\#1）
+  - [篠崎Strings](https://ja.wikipedia.org/wiki/篠崎正嗣 "wikilink"):[ストリングス](../Page/弦楽器.md "wikilink")（\#2）
 
 ## 収録アルバム
 
 **HOME**
 
-  - [B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink") ([シークレットトラックとしてアコースティックショートバージョンが収録](../Page/隠しトラック.md "wikilink"))
+  - [B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")（[シークレットトラックとしてアコースティックショートバージョンが収録](../Page/隠しトラック.md "wikilink")）
   - [The Ballads 〜Love & B'z〜](../Page/The_Ballads_〜Love_&_B'z〜.md "wikilink")
   - [B'z The Best "Pleasure II"](https://ja.wikipedia.org/wiki/B'z_The_Best_"Pleasure_II" "wikilink")
-  - [B'z (2007年のアルバム)](../Page/B'z_\(2007年のアルバム\).md "wikilink") (英語詞バージョン「Home」)
+  - [B'z (2007年のアルバム)](../Page/B'z_\(2007年のアルバム\).md "wikilink")（英語詞バージョン「Home」）
   - [B'z The Best "ULTRA Pleasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Pleasure" "wikilink")
-  - [B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink") (英語詞バージョン「Home」)
+  - [B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")（英語詞バージョン「Home」）
   - [B'z The Best XXV 1988-1998](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1988-1998 "wikilink")
 
 **The Wild Wind**
@@ -78,12 +78,12 @@
 **HOME**
 
   - [once upon a time in 横浜 〜B'z LIVE GYM'99 "Brotherhood"〜](https://ja.wikipedia.org/wiki/once_upon_a_time_in_横浜_〜B'z_LIVE_GYM'99_"Brotherhood"〜 "wikilink")
-  - [B'z The Best "Pleasure II"](https://ja.wikipedia.org/wiki/B'z_The_Best_"Pleasure_II" "wikilink") (特典映像ダウンロード)
+  - [B'z The Best "Pleasure II"](https://ja.wikipedia.org/wiki/B'z_The_Best_"Pleasure_II" "wikilink")（特典映像ダウンロード）
   - [B'z LIVE in なんば](../Page/B'z_LIVE_in_なんば.md "wikilink")（英語詞バージョン「Home」）
-  - [B'z LIVE in なんば 2006 & B'z SHOWCASE 2007 -19- at Zepp Tokyo](https://ja.wikipedia.org/wiki/B'z_LIVE_in_なんば_2006_&_B'z_SHOWCASE_2007_-19-_at_Zepp_Tokyo "wikilink") (英語詞バージョン「Home」)
+  - [B'z LIVE in なんば 2006 & B'z SHOWCASE 2007 -19- at Zepp Tokyo](https://ja.wikipedia.org/wiki/B'z_LIVE_in_なんば_2006_&_B'z_SHOWCASE_2007_-19-_at_Zepp_Tokyo "wikilink")（英語詞バージョン「Home」）
   - [B'z LIVE-GYM 2001 -ELEVEN-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2001_-ELEVEN- "wikilink")
-  - [EPIC DAY](https://ja.wikipedia.org/wiki/EPIC_DAY "wikilink") (特典DVD/英語詞バージョン「Home」)
-  - [B'z COMPLETE SINGLE BOX](https://ja.wikipedia.org/wiki/B'z_COMPLETE_SINGLE_BOX "wikilink") (特典DVD)
+  - [EPIC DAY](https://ja.wikipedia.org/wiki/EPIC_DAY "wikilink")（特典DVD/英語詞バージョン「Home」）
+  - [B'z COMPLETE SINGLE BOX](https://ja.wikipedia.org/wiki/B'z_COMPLETE_SINGLE_BOX "wikilink")（特典DVD）
 
 **The Wild Wind**
 

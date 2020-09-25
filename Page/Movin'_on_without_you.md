@@ -57,4 +57,4 @@
 
 [Category:宇多田ヒカルの楽曲](https://ja.wikipedia.org/wiki/Category:宇多田ヒカルの楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:1999年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:日産自動車のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:日産自動車のコマーシャルソング "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_む](https://ja.wikipedia.org/wiki/Category:楽曲_む "wikilink")
 
-1.  [ヒッキー17歳長者「税金高いなー」](http://web.archive.org/web/20010305224632/http://www.sanspo.com/enter/music/m0005/top2000051702.html)、SANSPO.COM、2000年5月16日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+1.  [ヒッキー17歳長者「税金高いなー」](https://web.archive.org/web/20010305224632/http://www.sanspo.com/enter/music/m0005/top2000051702.html)、SANSPO.COM、2000年5月16日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）

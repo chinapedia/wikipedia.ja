@@ -49,7 +49,7 @@
 <tr class="odd">
 <td><p>の電気に関する科学技術に対する先駆的貢献</p></td>
 <td><p><a href="../Page/1836年.md" title="wikilink">1836年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キルデア県" title="wikilink">キルデア県</a><a href="https://ja.wikipedia.org/wiki/メイヌース" title="wikilink">メイヌース</a></p></td>
+<td><p><a href="../Page/キルデア県.md" title="wikilink">キルデア県</a><a href="https://ja.wikipedia.org/wiki/メイヌース" title="wikilink">メイヌース</a></p></td>
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td></td>
 </tr>
@@ -91,7 +91,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ヴァレンティア島" title="wikilink">ケリー県大西洋横断ケーブル局</a></p></td>
 <td><p><a href="../Page/1866年.md" title="wikilink">1866年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ケリー県" title="wikilink">ケリー県</a></p></td>
+<td><p><a href="../Page/ケリー県.md" title="wikilink">ケリー県</a></p></td>
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a></p></td>
 <td></td>
 </tr>
@@ -138,7 +138,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>初の技術会議</p></td>
+<td><p>初の<a href="https://ja.wikipedia.org/wiki/米国電気学会" title="wikilink">米国電気学会</a>技術会議</p></td>
 <td><p><a href="../Page/1884年.md" title="wikilink">1884年</a></p></td>
 <td><p><a href="../Page/ペンシルベニア州.md" title="wikilink">ペンシルベニア州</a><a href="../Page/フィラデルフィア.md" title="wikilink">フィラデルフィア</a></p></td>
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a></p></td>
@@ -455,7 +455,7 @@
 <tr class="odd">
 <td><p><a href="../Page/アイルランド自由国.md" title="wikilink">アイルランド自由国</a>の電化のための</p></td>
 <td><p><a href="../Page/1929年.md" title="wikilink">1929年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リムリック県" title="wikilink">リムリック県</a>アードナクラッシャ</p></td>
+<td><p><a href="../Page/リムリック県.md" title="wikilink">リムリック県</a>アードナクラッシャ</p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a></p></td>
 <td></td>
 </tr>
@@ -488,7 +488,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>による世界初の<a href="../Page/エニグマ_(暗号機).md" title="wikilink">エニグマ暗号の</a><a href="../Page/暗号解読.md" title="wikilink">解読</a>（<a href="https://ja.wikipedia.org/wiki/マリアン・レイェフスキ" title="wikilink">マリアン・レイェフスキ</a>、、<a href="../Page/イェジ・ルジツキ.md" title="wikilink">イェジ・ルジツキ</a>）</p></td>
+<td><p>による世界初の<a href="../Page/エニグマ_(暗号機).md" title="wikilink">エニグマ暗号の</a><a href="../Page/暗号解読.md" title="wikilink">解読</a>（<a href="https://ja.wikipedia.org/wiki/マリアン・レイェフスキ" title="wikilink">マリアン・レイェフスキ</a>、<a href="https://ja.wikipedia.org/wiki/ヘンリク・ジガルスキ" title="wikilink">ヘンリク・ジガルスキ</a>、<a href="../Page/イェジ・ルジツキ.md" title="wikilink">イェジ・ルジツキ</a>）</p></td>
 <td><p><a href="../Page/1932年.md" title="wikilink">1932年</a>-<a href="../Page/1939年.md" title="wikilink">1939年</a></p></td>
 <td><p><a href="../Page/ワルシャワ.md" title="wikilink">ワルシャワ</a></p></td>
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>

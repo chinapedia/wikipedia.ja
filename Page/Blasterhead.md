@@ -49,7 +49,7 @@
 
 ## 出演
 
-  - [オトチンオーバードライブ](https://ja.wikipedia.org/wiki/オトチンオーバードライブ "wikilink")
+  - [オトチンオーバードライブ](../Page/オトチンオーバードライブ.md "wikilink")
 
 ## 脚注
 

@@ -495,8 +495,7 @@ PC-9801以外のパソコン機種として[FM TOWNSに移植された他](../Pa
 
   - [PlayStation.com(Japan)｜ソフトウェアカタログ｜三國志IV with パワーアップキット](https://www.jp.playstation.com/software/title/slps00979.html)
 
-  - （英語）
-
+  -
 [Category:1994年のパソコンゲーム](https://ja.wikipedia.org/wiki/Category:1994年のパソコンゲーム "wikilink") [Category:3DO用ソフト](https://ja.wikipedia.org/wiki/Category:3DO用ソフト "wikilink") [Category:FM_TOWNS用ゲームソフト](https://ja.wikipedia.org/wiki/Category:FM_TOWNS用ゲームソフト "wikilink") [Category:PC-9800シリーズ用ゲームソフト](https://ja.wikipedia.org/wiki/Category:PC-9800シリーズ用ゲームソフト "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:三國志シリーズ](https://ja.wikipedia.org/wiki/Category:三國志シリーズ "wikilink") [Category:スーパー32X用ソフト](https://ja.wikipedia.org/wiki/Category:スーパー32X用ソフト "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink")
 
 1.

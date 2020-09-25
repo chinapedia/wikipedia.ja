@@ -32,7 +32,7 @@
         [日産自動車](../Page/日産自動車.md "wikilink")「X-TRAIL CUP」 オフィシャルテーマソング
 2.  **alterna "Original Mix"**
       -
-        作曲：Shintarou Hagiwara & Sousaku Sasaki / 編曲：[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")
+        作曲：Shintarou Hagiwara & Sousaku Sasaki / 編曲：[CMJK](../Page/CMJK.md "wikilink")
         [Panasonicデジタルカメラ](https://ja.wikipedia.org/wiki/パナソニック "wikilink")「[LUMIX](../Page/LUMIX.md "wikilink") FX8」CMソング
 3.  **[STEP you](https://ja.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink") "[DJ TAKI-SHIT](https://ja.wikipedia.org/wiki/DJ_TAKI-SHIT "wikilink") More Step Up Remix"**
 4.  **fairyland "Bright Field mix"**
@@ -62,4 +62,4 @@
   - [DISCOGRAPHY - ayumi hamasaki](http://avex.jp/ayu/discography/detail.php?id=1003390)
 
   -
-[Category:浜崎あゆみの楽曲](https://ja.wikipedia.org/wiki/Category:浜崎あゆみの楽曲 "wikilink") [Category:2005年の楽曲](https://ja.wikipedia.org/wiki/Category:2005年の楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:2005年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2005年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:音楽戦士_MUSIC_FIGHTER](https://ja.wikipedia.org/wiki/Category:音楽戦士_MUSIC_FIGHTER "wikilink") [Category:宝飾のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:宝飾のコマーシャルソング "wikilink") [Category:夏を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夏を題材とした楽曲 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
+[Category:浜崎あゆみの楽曲](https://ja.wikipedia.org/wiki/Category:浜崎あゆみの楽曲 "wikilink") [Category:2005年の楽曲](https://ja.wikipedia.org/wiki/Category:2005年の楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:2005年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2005年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:音楽戦士_MUSIC_FIGHTER](https://ja.wikipedia.org/wiki/Category:音楽戦士_MUSIC_FIGHTER "wikilink") [Category:宝飾のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:宝飾のコマーシャルソング "wikilink") [Category:妖精を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:妖精を題材とした楽曲 "wikilink") [Category:夏を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夏を題材とした楽曲 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")

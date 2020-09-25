@@ -269,7 +269,7 @@ Jリーグ発足後しばらくはJリーグ発足などによるサッカーブ
 <tr class="odd">
 <td><p><a href="../Page/徳島ヴォルティス.md" title="wikilink">徳島</a></p></td>
 <td><p><a href="../Page/NHK徳島放送局.md" title="wikilink">NHK徳島</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a></p></td>
+<td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/愛媛FC" title="wikilink">愛媛</a></p></td>
@@ -736,7 +736,7 @@ AX-ON</p></td>
 <tr class="odd">
 <td><p><a href="../Page/徳島ヴォルティス.md" title="wikilink">徳島</a></p></td>
 <td><p>クロステレビ四国[58]<br />
-<a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a>*</p></td>
+<a href="../Page/四国放送.md" title="wikilink">四国放送</a>*</p></td>
 <td><p>2007 - 2009<br />
 2010 -</p></td>
 </tr>

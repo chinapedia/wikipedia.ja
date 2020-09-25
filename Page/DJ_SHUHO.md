@@ -1,7 +1,7 @@
 > この記事は[DJ SHUHO](https://ja.wikipedia.org/wiki/DJ_SHUHO)から翻訳されています。
 
 
-**DJ SHUHO**（ディージェイ・シューホー 本名:**古橋 秀鷹**（ふるはし しゅうほう）、 [1976年](../Page/1976年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink") - ）は、日本の[DJ](../Page/ディスクジョッキー.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[昭島市](../Page/昭島市.md "wikilink")出身。[FUNKY GRAMMAR UNIT所属](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")。身長185cm、[血液型B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。大好物は油である。
+**DJ SHUHO**（ディージェイ・シューホー 本名:**古橋 秀鷹**（ふるはし しゅうほう）、 [1976年](../Page/1976年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink") - ）は、日本の[DJ](../Page/ディスクジョッキー.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[昭島市](../Page/昭島市.md "wikilink")出身。[FUNKY GRAMMAR UNIT所属](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")。身長185cm、[血液型B型](../Page/ABO式血液型.md "wikilink")。大好物は油である。
 
 ## 来歴
 

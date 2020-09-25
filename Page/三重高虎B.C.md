@@ -17,6 +17,10 @@
 
   - [ナショナルクラブベースボールシリーズ](../Page/ナショナルクラブベースボールシリーズ.md "wikilink")：出場1回
 
+## 元プロ野球選手の競技者登録
+
+  - [森一馬](https://ja.wikipedia.org/wiki/森一馬_\(野球\) "wikilink")（元：[KBOリーグ](https://ja.wikipedia.org/wiki/KBOリーグ "wikilink")・[ロッテ・ジャイアンツ](../Page/ロッテ・ジャイアンツ.md "wikilink")） - 投手→退団
+
 ## 脚注
 
 ## 関連項目

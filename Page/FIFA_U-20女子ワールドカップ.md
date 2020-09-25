@@ -7,35 +7,35 @@
 
 ## 歴史
 
-### 2002年
+  - 2002年
 
 女子ユース世代では初の世界選手権、**[2002 FIFA U-19女子世界選手権](https://ja.wikipedia.org/wiki/2002_FIFA_U-19女子世界選手権 "wikilink")**は[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")で開催された。決勝戦は[アルバート州](https://ja.wikipedia.org/wiki/アルバート州 "wikilink")[エドモントン](../Page/エドモントン.md "wikilink")の[コモンウェルス・スタジアムで行われ](../Page/コモンウェルス・スタジアム_\(エドモントン\).md "wikilink")、47,000人を超える観客が来場した\[4\]。[アメリカ合衆国が延長戦での](https://ja.wikipedia.org/wiki/サッカーアメリカ合衆国女子代表 "wikilink")[リンゼイ・タープリー](https://ja.wikipedia.org/wiki/リンゼイ・タープリー "wikilink")の得点で1-0で開催国[カナダに勝利し優勝した](../Page/サッカーカナダ女子代表.md "wikilink")。カナダ代表の[クリスティン・シンクレア](https://ja.wikipedia.org/wiki/クリスティン・シンクレア "wikilink")が大会最優秀選手賞（ゴールデンボール）と大会得点王（ゴールデンシューズ、10得点）を獲得した\[5\]。
 
-### 2004年
+  - 2004年
 
 **[2004 FIFA U-19女子世界選手権](https://ja.wikipedia.org/wiki/2004_FIFA_U-19女子世界選手権 "wikilink")**は[タイにて開催された](../Page/タイ王国.md "wikilink")。決勝戦は[バンコク](../Page/バンコク.md "wikilink")都内の[ラジャマンガラ・スタジアム](https://ja.wikipedia.org/wiki/ラジャマンガラ・スタジアム "wikilink")で行われ、[ドイツが](../Page/サッカードイツ女子代表.md "wikilink")[ジモーネ・ラウデアー](https://ja.wikipedia.org/wiki/ジモーネ・ラウデアー "wikilink")と[メラニー・ベーリンガー](https://ja.wikipedia.org/wiki/メラニー・ベーリンガー "wikilink")の得点で[中国に勝利して初優勝した](../Page/サッカー中華人民共和国女子代表.md "wikilink")\[6\]。[ブラジル代表の](../Page/サッカーブラジル女子代表.md "wikilink")[マルタが大会最優秀選手賞を](../Page/マルタ・ビエイラ・ダ・シルバ.md "wikilink")\[7\]、[カナダ代表の](../Page/サッカーカナダ女子代表.md "wikilink")[ブリタニー・ティムコ](https://ja.wikipedia.org/wiki/ブリタニー・ティムコ "wikilink")が大会得点王を獲得した。
 
-### 2006年
+  - 2006年
 
 **[2006 FIFA U-20女子世界選手権](https://ja.wikipedia.org/wiki/2006_FIFA_U-20女子世界選手権 "wikilink")**は、[ロシア](../Page/ロシア.md "wikilink")国内にて8月17日から9月3日まで開催された。この大会から、FIFAは年齢の上限を従来の19歳から1歳上げて20歳とした。大会は[モスクワ](../Page/モスクワ.md "wikilink")市内の3会場（[ディナモ](https://ja.wikipedia.org/wiki/VTBアレナ "wikilink")、[ロコモティフ](https://ja.wikipedia.org/wiki/ロコモティフ・スタジアム_\(モスクワ\) "wikilink")、[トルペド](https://ja.wikipedia.org/wiki/エドゥアルド・ストレリツォフ・スタジアム "wikilink")）に[シチョルコヴォ](https://ja.wikipedia.org/wiki/シチョルコヴォ "wikilink")市内の[ポドモスコヴィと](https://ja.wikipedia.org/wiki/ポドモスコヴィ・スタジアム "wikilink")[サンクトペテルブルク](../Page/サンクトペテルブルク.md "wikilink")市内の[ペトロフスキーを加えた](https://ja.wikipedia.org/wiki/ペトロフスキー・スタジアム "wikilink")5会場にて行われた。
 
 ロコモティフ・スタジアムにて開催された決勝戦は[北朝鮮と](../Page/サッカー朝鮮民主主義人民共和国女子代表.md "wikilink")[中国のアジア勢対決となり](../Page/サッカー中華人民共和国女子代表.md "wikilink")、 北朝鮮が[キム・ソンヒのハットトリックを含む](https://ja.wikipedia.org/wiki/金ソンヒ "wikilink")5得点を挙げて中国に勝利し初優勝した。準優勝した中国の[馬暁旭](../Page/馬暁旭.md "wikilink")が大会最優秀選手賞と大会得点王（6得点）を受賞した\[8\]。
 
-### 2008年
+  - 2008年
 
 **[2008 FIFA U-20女子ワールドカップ](../Page/2008_FIFA_U-20女子ワールドカップ.md "wikilink")**は「ワールドカップ」の名称が初めて大会名称に用いられた\[9\]大会であった。[チリ](../Page/チリ.md "wikilink")国内にて11月20日より開催された同大会では、第1回大会優勝チームのアメリカと、前回大会優勝チームの北朝鮮による決勝戦となり、アメリカが[シドニー・ルルー](https://ja.wikipedia.org/wiki/シドニー・ルルー "wikilink")と[アレックス・モーガン](https://ja.wikipedia.org/wiki/アレックス・モーガン "wikilink")の得点で2-1で勝利し優勝した\[10\]。ルルーが大会最優秀選手賞と大会得点王を受賞した。
 
-### 2010年
+  - 2010年
 
 **[2010 FIFA U-20女子ワールドカップ](https://ja.wikipedia.org/wiki/2010_FIFA_U-20女子ワールドカップ "wikilink")**は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")国内にて2010年7月13日から8月1日まで開催された。[ビーレフェルト](../Page/ビーレフェルト.md "wikilink")市内の[ビーレフェルダー・アルム](https://ja.wikipedia.org/wiki/ビーレフェルダー・アルム "wikilink")（[Bielefelder Alm](https://ja.wikipedia.org/wiki/:de:SchücoArena "wikilink")）にて行われた決勝戦では、開催国ドイツと[ナイジェリアとの対決となり](../Page/サッカーナイジェリア女子代表.md "wikilink")、ドイツが[アレクサンドラ・ポップ](https://ja.wikipedia.org/wiki/アレクサンドラ・ポップ "wikilink")の得点を含む2得点で勝利し優勝した。ポップが大会最優秀選手賞と大会得点王を受賞した。
 
-### 2012年
+  - 2012年
 
 **[2012 FIFA U-20女子ワールドカップ](https://ja.wikipedia.org/wiki/2012_FIFA_U-20女子ワールドカップ "wikilink")**は[ウズベキスタン](../Page/ウズベキスタン.md "wikilink")国内での開催が決定していたが、施設等が規準に満たない等の理由により、FIFAは2011年12月に同国での開催を取りやめ、他国で代替開催する事を決定した\[11\]。代替開催地として挙げられた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")\[12\]国内で協議の末、翌2012年2月に日本での開催が正式に決定した\[13\]\[14\]\[15\]。
 
 [東京都](../Page/東京都.md "wikilink")の[国立霞ヶ丘競技場にて行われた決勝戦は](../Page/国立霞ヶ丘陸上競技場.md "wikilink")、前回大会優勝国のドイツと、2008年大会で優勝したアメリカとの対決となり、アメリカが[キーリア・オーハイ](https://ja.wikipedia.org/wiki/キーリア・オーハイ "wikilink")の得点で1-0で勝利し優勝した。準優勝したドイツの[ジェニファー・マロジャン](https://ja.wikipedia.org/wiki/ジェニファー・マロジャン "wikilink")が大会最優秀選手賞を、ベスト8に入った北朝鮮の[金恩花](https://ja.wikipedia.org/wiki/金恩花 "wikilink")が大会得点王を受賞した\[16\]。
 
-### 2014年
+  - 2014年
 
 **[2014 FIFA U-20女子ワールドカップ](https://ja.wikipedia.org/wiki/2014_FIFA_U-20女子ワールドカップ "wikilink")**は[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")国内で2014年8月5日から8月24日まで開催された。決勝は[モントリオール](../Page/モントリオール.md "wikilink")でドイツvsナイジェリアで行われ、ドイツが延長戦の末、1-0でナイジェリアを下して2大会ぶり3度目の優勝を飾った。得点王は7得点のナイジェリアの[アシサト・オショアラ](https://ja.wikipedia.org/wiki/アシサト・オショアラ "wikilink")が大会最優秀選手とのダブル受賞となった。
 
@@ -216,7 +216,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2020_FIFA_U-20女子ワールドカップ" title="wikilink">10</a></p></td>
 <td><p><a href="../Page/2021年.md" title="wikilink">2021年</a></p></td>
-<td><p>/</p></td>
+<td><p>/ </p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -232,7 +232,7 @@
       - GG - [ゴールデンゴール](../Page/ゴールデンゴール.md "wikilink")による結果
       - PK - [PK戦](../Page/PK戦.md "wikilink")による結果
 
-## 統計・記録
+## 統計
 
 ### 代表別通算成績
 

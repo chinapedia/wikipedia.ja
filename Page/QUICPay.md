@@ -7,7 +7,7 @@
 
 ## 概要
 
-QUICPay及びQUICPay+は、[FeliCa](../Page/FeliCa.md "wikilink")（[ソニー](../Page/ソニー.md "wikilink")が[開発](../Page/開発.md "wikilink")し後にソニーの[子会社](../Page/子会社.md "wikilink")である[ソニーイメージングプロダクツ&ソリューションズ](https://ja.wikipedia.org/wiki/ソニーイメージングプロダクツ&ソリューションズ "wikilink")に移管されたが現在もソニーの登録[商標](../Page/商標.md "wikilink")である）を採用した[決済](https://ja.wikipedia.org/wiki/決済 "wikilink")（[非接触決済](../Page/非接触型決済.md "wikilink")）サービスである。QUICPayに対応した[カード](../Page/カード.md "wikilink")（[ICカード](../Page/ICカード.md "wikilink")）・[携帯電話](../Page/携帯電話.md "wikilink")（[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")）やQUICPay+に対応した[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")・[スマートウォッチ](https://ja.wikipedia.org/wiki/スマートウォッチ "wikilink")を加盟店の端末に翳して利用する事が出来る。「Pay」（ペイ）という名称を使用しているが、[QR・バーコード決済](https://ja.wikipedia.org/wiki/QR・バーコード決済 "wikilink")やネット決済には対応していない。QUICPay及びQUICPay+は、[ジェーシービー](../Page/ジェーシービー.md "wikilink")(JCB)の登録[商標](../Page/商標.md "wikilink")である。
+QUICPay及びQUICPay+は、[FeliCa](../Page/FeliCa.md "wikilink")（[ソニー](../Page/ソニー.md "wikilink")が[開発](../Page/開発.md "wikilink")し後にソニーの[子会社](../Page/子会社.md "wikilink")である[ソニーイメージングプロダクツ&ソリューションズ](https://ja.wikipedia.org/wiki/ソニーイメージングプロダクツ&ソリューションズ "wikilink")に移管されたが現在もソニーの登録[商標](../Page/商標.md "wikilink")である）を採用した[決済](https://ja.wikipedia.org/wiki/決済 "wikilink")（[非接触決済](../Page/非接触型決済.md "wikilink")）サービスである。QUICPayに対応した[カード](../Page/カード.md "wikilink")（[ICカード](../Page/ICカード.md "wikilink")）・[携帯電話](../Page/携帯電話.md "wikilink")（[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")）やQUICPay+に対応した[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")・[スマートウォッチ](https://ja.wikipedia.org/wiki/スマートウォッチ "wikilink")を加盟店の端末に翳して利用する事が出来る。「Pay」（ペイ）という名称を使用しているが、[QR・バーコード決済](https://ja.wikipedia.org/wiki/QR・バーコード決済 "wikilink")やネット決済には対応していない。QUICPay及びQUICPay+は[ジェーシービー](../Page/ジェーシービー.md "wikilink")(JCB)の登録[商標](../Page/商標.md "wikilink")（第4838718号ほか）である。
 
 [キューペイ](https://ja.wikipedia.org/wiki/キューペイ "wikilink")というオリジナルキャラクターがいる。
 
@@ -1690,7 +1690,7 @@ QUICPay+に対応する端末の数は、2019年[12月末時点で約](../Page/1
   - [SoftBank](../Page/SoftBank_\(携帯電話\).md "wikilink") （[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")）
   - [Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink") （ソフトバンク及び[ウィルコム沖縄](../Page/ウィルコム沖縄.md "wikilink")） - 旧ウィルコムのPHSのおサイフケータイは、2016年6月30日を以て終了している\[95\]。
 
-上記の外、[SIMフリー](https://ja.wikipedia.org/wiki/SIMフリー "wikilink")の機種でも利用する事が出来る。但し、みずほ銀行が提供するみずほWalletを利用する場合は、 [Android](../Page/Android.md "wikilink") 5.0以降に限られる。
+上記の外、[SIMフリー](https://ja.wikipedia.org/wiki/SIMフリー "wikilink")の機種でも利用する事が出来る。但し、みずほ銀行が提供するみずほWalletを利用する場合は、 [Android](../Page/Android_\(オペレーティングシステム\).md "wikilink") 5.0以降に限られる。
 
 ### Google Pay
 

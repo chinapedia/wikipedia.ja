@@ -167,8 +167,7 @@ Q太郎と犬の垂直座標が同じ前後1コマ分で重なると、犬は吼
 
 ## 外部リンク
 
-  - （英語）
-
+  -
 [Category:1985年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1985年のファミリーコンピュータ用ソフト "wikilink") [Category:オバケのQ太郎](https://ja.wikipedia.org/wiki/Category:オバケのQ太郎 "wikilink") [Category:アニメのキャラクターゲーム](https://ja.wikipedia.org/wiki/Category:アニメのキャラクターゲーム "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:日本を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本を舞台としたコンピュータゲーム "wikilink") [Category:バンダイのゲームソフト](https://ja.wikipedia.org/wiki/Category:バンダイのゲームソフト "wikilink") [Category:藤子不二雄の映像作品](https://ja.wikipedia.org/wiki/Category:藤子不二雄の映像作品 "wikilink") [Category:漫画のキャラクターゲーム](https://ja.wikipedia.org/wiki/Category:漫画のキャラクターゲーム "wikilink") [Category:横スクロールアクションゲーム](https://ja.wikipedia.org/wiki/Category:横スクロールアクションゲーム "wikilink")
 
 1.  M.B.MOOK『懐かしファミコンパーフェクトガイド』61ページ

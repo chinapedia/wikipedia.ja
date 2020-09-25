@@ -400,7 +400,7 @@ IMAX最大級のスクリーンサイズ(22.86ｍ以上)に合わせ新開発さ
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/髙島屋" title="wikilink">髙島屋</a>東京IMAXシアター</p></td>
+<td><p><a href="../Page/髙島屋.md" title="wikilink">髙島屋</a>東京IMAXシアター</p></td>
 <td><p>3D 18m×25m</p></td>
 <td><p>1996年～2002年2月1日</p></td>
 <td><p><a href="../Page/タカシマヤタイムズスクエア.md" title="wikilink">高島屋新宿店内にて営業</a>。閉館後は、映画館<a href="../Page/東京テアトル.md" title="wikilink">テアトル</a><a href="../Page/タカシマヤタイムズスクエア.md" title="wikilink">タイムズスクエア</a>（2002年4月27日開館～2009年8月30日閉館）となっていた。</p></td>

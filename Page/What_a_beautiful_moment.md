@@ -25,7 +25,7 @@
 | 5月10日                                            | [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")   | [仙台サンプラザ](../Page/仙台サンプラザ.md "wikilink")・ホール         |                                                  |    |
 | 6月2日                                             | 愛知県                                                   | [名古屋国際会議場](../Page/名古屋国際会議場.md "wikilink")・センチュリーホール |                                                  |    |
 | 6月11日                                            | [福岡県](../Page/福岡県.md "wikilink")                      | [福岡サンパレス](../Page/福岡サンパレス.md "wikilink")・ホール         |                                                  |    |
-| 7月23                                             | 東京都                                                   | [日本武道館](../Page/日本武道館.md "wikilink")                 |                                                  |    |
+| 7月23日                                            | 東京都                                                   | [日本武道館](../Page/日本武道館.md "wikilink")                 |                                                  |    |
 
 生前
 
@@ -44,13 +44,19 @@
 
 #### Disc.1
 
+  -
+    ※編曲：大賀好修（「永遠」のみ池田大介）
+
+<!-- end list -->
+
 1.
 
     <li value="00">
 
     '''Opening:[永遠 (What a beautiful moment Tour Opening Ver.)](../Page/かけがえのないもの.md "wikilink")
 
-      - **Instrumental**
+      -
+        **Instrumental**
 
 2.  **[揺れる想い](../Page/揺れる想い.md "wikilink")**
 
@@ -84,8 +90,11 @@
 
 17. **[君がいない](../Page/君がいない.md "wikilink")**
 
-      - **Today is another day (Alternate Version)**
-      - メンバー紹介:**Good-bye My Loneliness〜君に逢いたくなったら… 〜きっと忘れない(Instrumental)**
+      -
+        **Today is another day (Alternate Version)**
+        メンバー紹介
+          -
+            **Good-bye My Loneliness〜君に逢いたくなったら… 〜きっと忘れない(Instrumental)**
 
 18. **[マイ フレンド](../Page/マイ_フレンド.md "wikilink")**
 
@@ -96,8 +105,6 @@
 21. **[止まっていた時計が今動き出した](../Page/止まっていた時計が今動き出した.md "wikilink")**
 
 22. **[Don't you see\!](../Page/Don't_you_see!.md "wikilink")**
-
-※編曲：大賀好修（「永遠」のみ池田大介）
 
 #### 特典Disc
 
@@ -143,7 +150,8 @@
 
 <!-- end list -->
 
-  - \+ 特典映像 (予定)
+  -
+    \+ 特典映像 (予定)
 
 ## 参加ミュージシャン
 

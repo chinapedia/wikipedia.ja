@@ -463,6 +463,6 @@
 ## 外部リンク
 
   -
-  - [TV アニメ バブルガムクライシス TOKYO2040](http://www.allcinema.net/prog/show_c.php?num_c=88895) -
+  - [TV アニメ バブルガムクライシス TOKYO2040](https://www.allcinema.net/cinema/88895) -
 
 [Category:アニメ作品_は](https://ja.wikipedia.org/wiki/Category:アニメ作品_は "wikilink") [Category:テレビ東京の深夜アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京の深夜アニメ "wikilink") [Category:1998年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1998年のテレビアニメ "wikilink") [Category:AIC](https://ja.wikipedia.org/wiki/Category:AIC "wikilink") [Category:ビクターエンタテインメントのアニメ作品](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアニメ作品 "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:サイバーパンク作品](https://ja.wikipedia.org/wiki/Category:サイバーパンク作品 "wikilink") [Category:東京を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:東京を舞台としたアニメ作品 "wikilink") [Category:パワードスーツ・プロテクターを題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:パワードスーツ・プロテクターを題材としたアニメ作品 "wikilink") [Category:リメイクアニメ](https://ja.wikipedia.org/wiki/Category:リメイクアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink")

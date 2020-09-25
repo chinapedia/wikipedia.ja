@@ -62,7 +62,7 @@
   - [スターダストレビュー](../Page/スターダストレビュー.md "wikilink") （1987年[4月27日](../Page/4月27日.md "wikilink")）
   - [EPO](../Page/EPO.md "wikilink") （1987年[4月28日](../Page/4月28日.md "wikilink")）
   - [吉川十和子](../Page/君島十和子.md "wikilink") （1987年[4月29日](../Page/4月29日.md "wikilink")）
-  - [BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink") （1987年[4月30日](../Page/4月30日.md "wikilink")、同年[9月8日](../Page/9月8日.md "wikilink")、1988年[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")）
+  - [BOØWY](../Page/BOØWY.md "wikilink") （1987年[4月30日](../Page/4月30日.md "wikilink")、同年[9月8日](../Page/9月8日.md "wikilink")、1988年[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")）
   - [香坂みゆき](../Page/香坂みゆき.md "wikilink") （1987年[5月5日](../Page/5月5日.md "wikilink")、同年[10月14日](../Page/10月14日.md "wikilink")）
   - [おきゃんぴー](../Page/おきゃんぴー.md "wikilink") （1987年[5月12日](../Page/5月12日.md "wikilink")、同年[7月14日](../Page/7月14日.md "wikilink")、同年[9月1日](../Page/9月1日.md "wikilink")）
   - [東てる美](../Page/東てる美.md "wikilink") （1987年[5月13日](../Page/5月13日.md "wikilink")）

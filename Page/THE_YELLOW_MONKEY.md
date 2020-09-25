@@ -171,7 +171,7 @@
 <!-- end list -->
 
   -
-    1997年は『[PUNCH DRUNKARD](../Page/PUNCH_DRUNKARD.md "wikilink")』のレコーディングなどで多忙だったこともあり、1年空いている。「PUNCH DRUNKARD TOUR」中の開催であり、武道館2DAYSの後日でもあったため、充分なリハーサルができない状態であったが、メンバーの強い希望により行われた。前回と同様、1st - 3rdアルバムの楽曲が中心である。アンコールの「MERRY X'MAS」では、吉井が『[jaguar hard pain](https://ja.wikipedia.org/wiki/jaguar_hard_pain "wikilink")』に登場するマリーに女装して披露された。トリを飾った「[SO YOUNG](https://ja.wikipedia.org/wiki/SO_YOUNG "wikilink")」はこの日が初披露であり、後に18thシングルとしてリリースされた。
+    1997年は『[PUNCH DRUNKARD](../Page/PUNCH_DRUNKARD.md "wikilink")』のレコーディングなどで多忙だったこともあり、1年空いている。「PUNCH DRUNKARD TOUR」中の開催であり、武道館2DAYSの後日でもあったため、充分なリハーサルができない状態であったが、メンバーの強い希望により行われた。前回と同様、1st - 3rdアルバムの楽曲が中心である。アンコールの「MERRY X'MAS」では、吉井が『[jaguar hard pain](https://ja.wikipedia.org/wiki/jaguar_hard_pain "wikilink")』に登場するマリーに女装して披露された。トリを飾った「[SO YOUNG](https://ja.wikipedia.org/wiki/SO_YOUNG_\(THE_YELLOW_MONKEYの曲\) "wikilink")」はこの日が初披露であり、後に18thシングルとしてリリースされた。
 
 <!-- end list -->
 
@@ -509,7 +509,7 @@
 **1999年**
 
   - 所属レコード会社[ファンハウスが](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")[BMGジャパンに吸収合併され](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")、[BMGファンハウスとなる](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")（後に[BMG JAPANに改称](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。現在は[ソニー・ミュージックエンタテインメント傘下の](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")）。
-  - 3月3日、18thシングル「[SO YOUNG](https://ja.wikipedia.org/wiki/SO_YOUNG "wikilink")」リリース。
+  - 3月3日、18thシングル「[SO YOUNG](https://ja.wikipedia.org/wiki/SO_YOUNG_\(THE_YELLOW_MONKEYの曲\) "wikilink")」リリース。
   - 3月10日、延べ55万人を動員した「PUNCH DRUNKARD TOUR」を終了。バンドは約2ヶ月間の休養期間へ。
   - 5月26日、「PUNCH DRUNKARD TOUR」から選曲された[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")『[SO ALIVE](../Page/SO_ALIVE.md "wikilink")』リリース。
   - 6月23日、ライブビデオ『[PUNCH DRUNKARD TOUR 1998/99 FINAL 3.10 横浜アリーナ](https://ja.wikipedia.org/wiki/PUNCH_DRUNKARD_TOUR_1998/99_FINAL_3.10_横浜アリーナ "wikilink")』リリース。
@@ -808,7 +808,7 @@
 <tr class="even">
 <td><p>18th</p></td>
 <td><p>1999年3月3日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SO_YOUNG" title="wikilink">SO YOUNG</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/SO_YOUNG_(THE_YELLOW_MONKEYの曲)" title="wikilink">SO YOUNG</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>FHDF-1713</p></td>
 <td><p>5位</p></td>
@@ -1773,6 +1773,20 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>ライブビデオ</p></td>
+<td><p>2019年8月2日</p></td>
+<td><p><strong>THE YELLOW MONKEY SUPER BIG EGG 2017</strong></p></td>
+<td><p>DVD</p></td>
+<td><p>COBA-7091〜2</p></td>
+</tr>
+<tr class="even">
+<td><p>Blu-ray</p></td>
+<td><p>COXA-1180</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -1790,6 +1804,7 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 | ------------ | ---------------------------------------------------------------------------------------------------------- |
 | セミシグレ        | ある不良青年の一生を描いた楽曲。1997年の『TOUR '97 〜紫の炎〜』にて披露される予定であったが、見送られた。1999年に出版された『So YOUNG―吉井和哉詩集』に歌詞が掲載されている。        |
 | DUST TO DUST | 1994年の『TOUR '94 "jaguar hard pain"』のオープニングにて、偽ジャガーの登場とともに披露された楽曲。映像作品『jaguar hard pain Live'94』ではカットされている。 |
+| PENITENT     | 1989年結成後すぐにカセットテープ内に収録されているデモ音源。30th Anniversary DOME TOUR で流れた。                                           |
 
 ## ライブ・コンサートツアー
 
@@ -2749,7 +2764,7 @@ BUDOKAN SPECIAL</p></td>
 | 1997年                                                                                                              | [BURN](../Page/BURN_\(THE_YELLOW_MONKEYの曲\).md "wikilink")                                                                                                                  | 13thシングル                                                                                                                                               | TBS系ドラマ「[職員室](../Page/職員室.md "wikilink")」主題歌                                                                                                        |
 | 1998年                                                                                                              | [球根](../Page/球根_\(曲\).md "wikilink")                                                                                                                                        | 14thシングル                                                                                                                                               | NHK「ポップジャム」エンディングテーマ                                                                                                                                |
 | [O.K.](https://ja.wikipedia.org/wiki/MY_WINDING_ROAD "wikilink")                                                   | 17thシングル C/W                                                                                                                                                                | [WOWOW](../Page/WOWOW.md "wikilink")「[WOWOWスーパーサッカー](https://ja.wikipedia.org/wiki/WOWOWスーパーサッカー "wikilink")」エンディングテーマ                                 |                                                                                                                                                     |
-| 1999年                                                                                                              | [SO YOUNG](https://ja.wikipedia.org/wiki/SO_YOUNG "wikilink")                                                                                                               | 18thシングル                                                                                                                                               | テレビ朝日系「[ニュースステーション](../Page/ニュースステーション.md "wikilink")」3月度ウェザーテーマ                                                                                    |
+| 1999年                                                                                                              | [SO YOUNG](https://ja.wikipedia.org/wiki/SO_YOUNG_\(THE_YELLOW_MONKEYの曲\) "wikilink")                                                                                       | 18thシングル                                                                                                                                               | テレビ朝日系「[ニュースステーション](../Page/ニュースステーション.md "wikilink")」3月度ウェザーテーマ                                                                                    |
 | 映画「[trancemission](https://ja.wikipedia.org/wiki/trancemission_\(1999年の映画\) "wikilink")」主題歌                        |                                                                                                                                                                             |                                                                                                                                                        |                                                                                                                                                     |
 | [バラ色の日々](https://ja.wikipedia.org/wiki/バラ色の日々_\(THE_YELLOW_MONKEYの曲\) "wikilink")                                  | 19thシングル                                                                                                                                                                    | NHK「ポップジャム」エンディングテーマ                                                                                                                                   |                                                                                                                                                     |
 | 2000年                                                                                                              | [聖なる海とサンシャイン](https://ja.wikipedia.org/wiki/聖なる海とサンシャイン "wikilink")                                                                                                         | 20thシングル                                                                                                                                               | テレビ朝日系「[おネプ\!](../Page/おネプ!.md "wikilink")」エンディングテーマ                                                                                                |

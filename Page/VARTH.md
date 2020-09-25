@@ -82,6 +82,6 @@
 
 ## 移植
 
-日本国内ではどの機種にも家庭用移植されていないが、日本国外では[PlayStation Portable版](../Page/PlayStation_Portable.md "wikilink")『[Capcom Classics Collection Remixed](../Page/カプコン_クラシックス_コレクション.md "wikilink")』および[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[Xbox版](../Page/Xbox_\(ゲーム機\).md "wikilink")『Capcom Classics Collection Vol.2』に収録されている。
+日本国内ではどの機種にも家庭用移植されていないが、日本国外では[PlayStation Portable版](../Page/PlayStation_Portable.md "wikilink")『[Capcom Classics Collection Remixed](../Page/カプコン_クラシックス_コレクション.md "wikilink")』および[PlayStation 2](../Page/PlayStation_2.md "wikilink")、[Xbox版](../Page/Xbox_\(ゲーム機\).md "wikilink")『Capcom Classics Collection Vol.2』に収録されている。
 
 [Category:1992年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1992年のアーケードゲーム "wikilink") [Category:縦スクロールシューティングゲーム](https://ja.wikipedia.org/wiki/Category:縦スクロールシューティングゲーム "wikilink") [Category:カプコンのゲームソフト](https://ja.wikipedia.org/wiki/Category:カプコンのゲームソフト "wikilink")

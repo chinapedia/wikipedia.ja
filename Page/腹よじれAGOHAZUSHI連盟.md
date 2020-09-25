@@ -78,7 +78,7 @@
 <li><a href="../Page/山口放送.md" title="wikilink">山口放送</a>▲</li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a></li>
+<li><a href="../Page/四国放送.md" title="wikilink">四国放送</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/南海放送" title="wikilink">南海放送</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/高知放送" title="wikilink">高知放送</a></li>
 <li><a href="../Page/KBCラジオ.md" title="wikilink">九州朝日放送</a>○◎</li>

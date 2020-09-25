@@ -130,6 +130,6 @@
 
 ## 外部リンク
 
-  - [flying DOGによる紹介ページ](http://www.jvcmusic.co.jp/flyingdog/-/Discography/A008957/VTCL-60212.html)
+  - [flying DOGによる紹介ページ](https://www.jvcmusic.co.jp/flyingdog/-/Discography/A008957/VTCL-60212.html)
 
 [Category:1998年のアルバム](https://ja.wikipedia.org/wiki/Category:1998年のアルバム "wikilink") [Category:坂本真綾のアルバム](https://ja.wikipedia.org/wiki/Category:坂本真綾のアルバム "wikilink")

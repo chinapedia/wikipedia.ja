@@ -77,7 +77,7 @@
   - GO GO HAPPY DAY （[NOKKO](../Page/NOKKO.md "wikilink")）
   - things （[PARADISE LOST](https://ja.wikipedia.org/wiki/Paradise_Lost_\(日本の音楽グループ\) "wikilink")）
   - 僕の心を貫いて（[THE POSTMEN](https://ja.wikipedia.org/wiki/THE_POSTMEN "wikilink")）
-  - Seasons Of Change（[SING LIKE TALKING](https://ja.wikipedia.org/wiki/SING_LIKE_TALKING "wikilink")）
+  - Seasons Of Change（[SING LIKE TALKING](../Page/SING_LIKE_TALKING.md "wikilink")）
 
 ## 脚注
 

@@ -7,14 +7,14 @@
 
   - 同じ那覇中学校の出身。玉城は水泳部、宮平はサッカー部。
   - [コンビ名](https://ja.wikipedia.org/wiki/コンビ名 "wikilink")の由来は、二人が生まれた[1977年](../Page/1977年.md "wikilink")の「77」からとったもの。
-  - ともに東京[NSC](../Page/吉本総合芸能学院.md "wikilink")8期生。同期に[キャベツ確認中](../Page/キャベツ確認中.md "wikilink")、[パリパリポリパリ](../Page/BAN_BAN_BAN_\(お笑いコンビ\).md "wikilink")、[グレートホーン](https://ja.wikipedia.org/wiki/グレートホーン "wikilink")（解散）、[若月](https://ja.wikipedia.org/wiki/若月_\(お笑い\) "wikilink")、[こりゃめでてーな](../Page/こりゃめでてーな.md "wikilink")、[ジョイマン](https://ja.wikipedia.org/wiki/ジョイマン_\(お笑いコンビ\) "wikilink")、[長崎亭キヨちゃんぽん](https://ja.wikipedia.org/wiki/長崎亭キヨちゃんぽん "wikilink")、[スリムクラブ](../Page/スリムクラブ.md "wikilink")らがいる。
+  - ともに東京[NSC](../Page/吉本総合芸能学院.md "wikilink")8期生。同期に[キャベツ確認中](../Page/キャベツ確認中.md "wikilink")、[パリパリポリパリ](../Page/BAN_BAN_BAN_\(お笑いコンビ\).md "wikilink")、[グレートホーン](https://ja.wikipedia.org/wiki/尾形貴弘 "wikilink")（解散）、[若月](https://ja.wikipedia.org/wiki/若月_\(お笑い\) "wikilink")、[こりゃめでてーな](../Page/こりゃめでてーな.md "wikilink")、[ジョイマン](https://ja.wikipedia.org/wiki/ジョイマン_\(お笑いコンビ\) "wikilink")、[長崎亭キヨちゃんぽん](https://ja.wikipedia.org/wiki/長崎亭キヨちゃんぽん "wikilink")、[スリムクラブ](../Page/スリムクラブ.md "wikilink")らがいる。
   - [パンクブーブー](../Page/パンクブーブー.md "wikilink")率いる地味な若手芸人のグループ・「華無会」の一員である。
   - 玉城は[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")所属のアニメキャラ芸人たちによるコメディーショー「[劇団アニメ座](https://ja.wikipedia.org/wiki/劇団アニメ座 "wikilink")」のメンバーである\[2\]。
   - [2014年](../Page/2014年.md "wikilink")に、引退した「[少年少女](../Page/少年少女_\(お笑いコンビ\).md "wikilink")」の阿部が「10年間の芸能界で一番楽しかったライブ」として、セブンbyセブンの単独ライブ「くやしくてクワマン」を挙げた。
 
 ## メンバー
 
-  - **玉城泰拙**（たまき だいせつ、1977年[12月22日](../Page/12月22日.md "wikilink")\[3\] - ）
+  - **玉城 泰拙**（たまき だいせつ、1977年[12月22日](../Page/12月22日.md "wikilink")\[3\] - ）
 
 <!-- end list -->
 
@@ -28,7 +28,7 @@
 
 <!-- end list -->
 
-  - **宮平享奈緒**（みやひら きょうなお、1977年[5月27日](../Page/5月27日.md "wikilink")\[6\] - ）
+  - **宮平 享奈緒**（みやひら きょうなお、1977年[5月27日](../Page/5月27日.md "wikilink")\[6\] - ）
 
 <!-- end list -->
 

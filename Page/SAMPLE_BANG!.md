@@ -120,6 +120,6 @@
 
 ## 外部リンク
 
-  - [SAMPLE BANG\!](http://www.jvcmusic.co.jp/-/Discography/A002763/VICL-61888.html) （ビクターエンタテインメント）
+  - [SAMPLE BANG\!](https://www.jvcmusic.co.jp/-/Discography/A002763/VICL-61888.html) （ビクターエンタテインメント）
 
 [Category:SMAPのアルバム](https://ja.wikipedia.org/wiki/Category:SMAPのアルバム "wikilink") [Category:2005年のアルバム](https://ja.wikipedia.org/wiki/Category:2005年のアルバム "wikilink") [Category:2005年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2005年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコン月間アルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間アルバムチャート1位獲得作品 "wikilink")

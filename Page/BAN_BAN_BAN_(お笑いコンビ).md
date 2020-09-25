@@ -1,18 +1,18 @@
 > この記事は[BAN BAN BAN \(お笑いコンビ\)](https://ja.wikipedia.org/wiki/BAN_BAN_BAN_\(お笑いコンビ\))から翻訳されています。
 
 
-**BAN BAN BAN**（ばんばんばん）は、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")に所属する\[1\]日本の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。共に[鹿児島県](../Page/鹿児島県.md "wikilink")[鹿児島市](../Page/鹿児島市.md "wikilink")出身。旧コンビ名は「**パリパリポリパリ**」\[2\]。アニソンDJイベント「[アニソンディスコ](https://ja.wikipedia.org/wiki/アニソンディスコ "wikilink")」でも活動している。
+**BAN BAN BAN**（ばんばんばん）は、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")に所属する\[1\]日本の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。両者共に[鹿児島県](../Page/鹿児島県.md "wikilink")[鹿児島市](../Page/鹿児島市.md "wikilink")出身。旧コンビ名は「**パリパリポリパリ**」\[2\]。アニソンDJイベント「[アニソンディスコ](https://ja.wikipedia.org/wiki/アニソンディスコ "wikilink")」でも活動している。
 
 ## メンバー
 
-  - 鮫島一六三
+  - 鮫島 一六三
     （さめしま ひろみ、\[3\]）
       - [東京NSC](../Page/吉本総合芸能学院.md "wikilink")8期生\[4\]。
       - ボケ（時々ツッコミ）・ネタ作り担当。身長 174cm。血液型O型\[5\]。
       - 趣味 プロレス観戦
-      - 本名、旧芸名は**鮫島博己**。
+      - 本名、旧芸名は**鮫島博己**（読み同じ）。
       - アニメ系のクラブイベントでDJなどの活動も行っている\[6\]。その際は**鮫島ヒロミ**として活動する場合が多かった。
-      - 山本が[フリーザ](https://ja.wikipedia.org/wiki/フリーザ "wikilink")に扮してネタを行う事が多いので、以前は鮫島も[鳥山明](../Page/鳥山明.md "wikilink")のコスプレでネタを行なっていた\[7\]が、2012年頃以降はあまり見られない\[8\]。
+      - 山本が[フリーザ](https://ja.wikipedia.org/wiki/フリーザ "wikilink")に扮してネタを行う事が多いので、以前は鮫島も[鳥山明](../Page/鳥山明.md "wikilink")のコスプレでネタを行っていた\[7\]が、2012年頃以降はあまり見られない\[8\]。
       - 『映画 けいおん！ライブスタイル上映』のイベント後、有志により「鮫ちゃんペロペロの会」と言うファンクラブ（コミュニティ）が立ち上がっている。しかし、メンバーのほとんど男性で、活動内容は「鮫島をペロペロする事」。なお、本人が公認したファンクラブである\[9\]。
       - 妻と娘がいる。なお、妻からは上記のライブスタイル上映の際、「今後芸人としての収入が10万円を超えなければ芸人を辞めてもらう。」という約束をしていたことを明かしている。その後その約束がどうなったかは不明である。
       - [ラッキィ池田](../Page/ラッキィ池田.md "wikilink")の弟子で、振付師として舞台の振り付けなども担当する\[10\]。
@@ -20,14 +20,14 @@
 
 <!-- end list -->
 
-  - 山本正剛
+  - 山本 正剛
     （やまもと まさたけ、\[11\] ）
       - 東京NSC8期生扱い。
-      - ツッコミ担当。身長 158cm。血液型A型\[12\]。
+      - ツッコミ（時々ボケ）担当。身長 158cm。血液型A型\[12\]。
       - 趣味 アニメ鑑賞 声優モノマネ
       - [フリーザ](https://ja.wikipedia.org/wiki/フリーザ "wikilink")・[ばいきんまん](https://ja.wikipedia.org/wiki/ばいきんまん "wikilink")など、[中尾隆聖](../Page/中尾隆聖.md "wikilink")が演じるキャラクターのモノマネが得意で、[R-1ぐらんぷり](../Page/R-1ぐらんぷり.md "wikilink")2010では「フリーザVSばいきんまん in[ファミリーレストラン](../Page/ファミリーレストラン.md "wikilink")」というネタを披露した。もともとはばいきんまんのモノマネの方が先であり、[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")ファンのアルバイト先の同僚から声優が同じであることを教えられ、フリーザのモノマネを始めた。山本自身はドラゴンボールを初期だけで卒業していたため、モノマネを始めてから勉強し直した\[13\]。
-      - [フリーザ](https://ja.wikipedia.org/wiki/フリーザ "wikilink")の[物真似](../Page/物真似.md "wikilink")、[コスプレ](../Page/コスプレ.md "wikilink")をしてネタを行う事が多い\[14\]が、お笑いLIVEではコスプレをせず、[漫才](../Page/漫才.md "wikilink")、[コント](../Page/コント.md "wikilink")を行う。
-      - 中尾隆聖の妻とマネージャーにモノマネで電話で話したところ、全くばれずに過ごしたと言う伝説を持つほど中尾の[声帯模写](https://ja.wikipedia.org/wiki/声帯模写 "wikilink")が上手い。あまり知られてはいないが[八奈見乗児](../Page/八奈見乗児.md "wikilink")、[郷里大輔](../Page/郷里大輔.md "wikilink")、[オール巨人](https://ja.wikipedia.org/wiki/オール巨人 "wikilink")、[トランペット](../Page/トランペット.md "wikilink")、[花火](../Page/花火.md "wikilink")等のモノマネが得意。
+      - [フリーザ](https://ja.wikipedia.org/wiki/フリーザ "wikilink")の[物真似](../Page/物真似.md "wikilink")、[コスプレ](../Page/コスプレ.md "wikilink")をしてネタを行う事が多い\[14\]が、お笑いライブではコスプレをせず、[漫才](../Page/漫才.md "wikilink")、[コント](../Page/コント.md "wikilink")を行う。
+      - 中尾隆聖の妻とマネージャーにモノマネで電話で話したところ、全くばれずに過ごしたと言う伝説を持つほど中尾の[声帯模写](https://ja.wikipedia.org/wiki/声帯模写 "wikilink")が上手い。あまり知られてはいないが[八奈見乗児](../Page/八奈見乗児.md "wikilink")、[郷里大輔](../Page/郷里大輔.md "wikilink")、[オール巨人](../Page/オール巨人.md "wikilink")、[トランペット](../Page/トランペット.md "wikilink")、[花火](../Page/花火.md "wikilink")等のモノマネが得意。
       - 18歳の時に大阪吉本でアカペラバンドを組み歌手として活動しながらbaseよしもとで行われていた「baseプレステージ」に前のコンビ、ドック・タグ(後のグリーンボール)で参加。その時、大阪NSC21期生扱いとして活動していた\[15\]。その後、解散し上京後に幼馴染の鮫島とパリパリポリパリを結成、鮫島が東京NSC8期生\[16\]の為（大阪NSC25期生相当）山本も東京NSC8期生扱い。実際の所、NSCには大阪、東京共に通ってはいない。
       - 声優オーディションの方にも参加をしており2013年発売 アニメ『[蒼い世界の中心で](https://ja.wikipedia.org/wiki/蒼い世界の中心で "wikilink")』DVD特典作品「外伝 勇者ミョムト」の600人参加のオーディションに合格し教祖イブリル役に選ばれた。
       - 2016年、第1子女児が誕生\[17\]。
@@ -36,12 +36,12 @@
 ## 略歴
 
   - 2003年『**パリパリポリパリ**』を結成\[18\]。
-  - 2008年6月9日に旧コンビ名『**パリパリポリパリ**』から改名をした\[19\]。
+  - 2008年6月9日に旧コンビ名『**パリパリポリパリ**』から現在のコンビ名に改名した\[19\]。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")8月、山本の体調不良により活動休止\[20\] していたが、同年12月末活動再開。
   - 2010年8月からコンビでアニソンDJイベント「アニソンディスコ」を立ち上げ\[21\]、2012年2月にはニコファーレでの単独イベント\[22\]を成功させ、ニコ生合わせて67200人を動員させた。
   - 2013年1月4日 (金) 初めてオールナイトライブを行い、鮫島には内緒で『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")』声優陣の[野沢雅子](../Page/野沢雅子.md "wikilink")、[古川登志夫](../Page/古川登志夫.md "wikilink")、[中尾隆聖](../Page/中尾隆聖.md "wikilink")、タレントの[浜田由梨](https://ja.wikipedia.org/wiki/浜田由梨 "wikilink")、[涼本めぐみ](https://ja.wikipedia.org/wiki/涼本めぐみ "wikilink")からもらったお祝いのメッセージを披露し会場のお客や鮫島を驚かせた。
   - 2015年10月末、アニメ「[昼夜伝](https://ja.wikipedia.org/wiki/昼夜伝 "wikilink")」制作プロジェクトの応援隊長に就任\[23\]。
-  - 2019年1月8日、鮫島ヒロミが同年1月20日開催「アニソンディスコ 鮫島生誕祭」において、目標来場者数に達成しなければ芸名を改名すると発表\[24\]。結果は目標数に届かず、2019年1月21日付けで**鮫島一六三**に改名した\[25\]。
+  - 2019年1月8日、鮫島ヒロミが同年1月20日開催「アニソンディスコ 鮫島生誕祭」において、目標来場者数に達成しなければ芸名を改名すると発表\[24\]。結果は目標数に届かず、2019年1月21日付けで**鮫島 一六三**に改名した\[25\]。
 
 ## 出演番組
 
@@ -131,7 +131,7 @@
   - [メタルマックス4 月光のディーヴァ](https://ja.wikipedia.org/wiki/メタルマックス4_月光のディーヴァ "wikilink")（[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")、2013年11月7日発売、山本のみ、サソリスタン役\[33\]）
   - ハロウィンナイト キャンディマニア（[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")/[iPod touch](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")、2015年11月5日配信開始、山本のみ、お化け役）
   - [スカッとゴルフ パンヤ](../Page/スカッとゴルフ_パンヤ.md "wikilink")（[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、2015年11月26日実装開始、山本のみ、マックス役\[34\]）
-  - アルテイルクロニクル（[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")・[Android](../Page/Android.md "wikilink")、2016年11月15日配信開始\[35\]、山本のみ、ラルトヴァイス役\[36\]）
+  - アルテイルクロニクル（[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")・[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")、2016年11月15日配信開始\[35\]、山本のみ、ラルトヴァイス役\[36\]）
   - ファンタジースクワッド（iOS・Android、2017年2月21日配信開始\[37\]、山本のみ、カジョ役\[38\]）
   - 三国志ディフェンちゅ\[39\]（iOS・Android、2018年5月29日配信開始\[40\]、山本のみ、白い馬役）
   - LOST TRIGGER ロストトリガー（iOS・Android、2018年5月18日配信開始、山本のみ、シェフ役\[41\]）
@@ -401,16 +401,18 @@
 
 ## 外部リンク
 
-  - \- 鮫島のブログ
+  - [公式プロフィール](https://profile.yoshimoto.co.jp/talent/detail?id=3208)
+  - 鮫島 一六三
+      -
+      - [よしもと芸人 BAN BAN BAN鮫島のブログじょうず](https://ameblo.jp/banbanbansame/)
 
-  - \- 山本のブログ
+      - \- （旧ブログ）
+  - 山本 正剛
+      -
+      -
+      - [BANBANBAN 山本正剛オフィシャルブログ「背伸びブログ超」](https://ameblo.jp/banbanbanyama)
 
-  -
-  -
-  -
-  - [よしもと芸人 BAN BAN BAN鮫島のブログじょうず](https://ameblo.jp/banbanbansame/)
-
-  - [BANBANBAN 山本正剛オフィシャルブログ「背伸びブログ超」](https://ameblo.jp/banbanbanyama)
+      - \- （旧ブログ）
 
 [Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink") [Category:ものまねタレント](https://ja.wikipedia.org/wiki/Category:ものまねタレント "wikilink") [Category:鹿児島県出身の人物](https://ja.wikipedia.org/wiki/Category:鹿児島県出身の人物 "wikilink")
 

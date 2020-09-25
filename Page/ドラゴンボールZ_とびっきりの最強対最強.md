@@ -36,7 +36,7 @@
 
   - クウラ機甲戦隊
     クウラ直属の配下で、フリーザ直属の配下[ギニュー特戦隊](../Page/ギニュー特戦隊.md "wikilink")に相当する戦隊。全宇宙から精鋭を集めた3人のエリート部隊。フリーザ直属の幹部であるギニュー特戦隊やザーボンやドドリアをも上回る戦闘力を持つ。悟空から何者だと聞かれた際には特戦隊同様に3人揃ってのファイティングポーズを披露している。また、メンバーは3人と少数だが、1日で7個の惑星を破壊できる実力を持つとされる。彼らが着用している戦闘服はフリーザ軍の惑星戦士が着用しているものとほぼ同様のデザインだが、カラーリングは白を基調としている。また、肩パットは右肩部分のみで、上向きの放物線状のマークをあしらっている。20年前の回想から外見に変化は見られず、新型と同様のスカウターを着用していた。名前はいずれも調味料に由来する。
-    [PlayStation 2専用のゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ドラゴンボールZ Sparking\! NEO](../Page/ドラゴンボールZ_Sparking!_NEO.md "wikilink")』および続編の『ドラゴンボールZ Sparking\! METEOR』では隊長のサウザーのみ登場。ギニュー特戦隊とは仲が悪く、彼らとの戦闘では「おちゃらけ軍団」と罵っている。[PlayStation 3専用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")『[ドラゴンボール レイジングブラスト2](https://ja.wikipedia.org/wiki/ドラゴンボール_レイジングブラスト "wikilink")』では全員登場。クウラとの戦闘では3人とも、反旗を翻す態度を取る。
+    [PlayStation 2専用のゲームソフト](../Page/PlayStation_2.md "wikilink")『[ドラゴンボールZ Sparking\! NEO](../Page/ドラゴンボールZ_Sparking!_NEO.md "wikilink")』および続編の『ドラゴンボールZ Sparking\! METEOR』では隊長のサウザーのみ登場。ギニュー特戦隊とは仲が悪く、彼らとの戦闘では「おちゃらけ軍団」と罵っている。[PlayStation 3専用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")『[ドラゴンボール レイジングブラスト2](https://ja.wikipedia.org/wiki/ドラゴンボール_レイジングブラスト "wikilink")』では全員登場。クウラとの戦闘では3人とも、反旗を翻す態度を取る。
 
 <span id="サウザー"></span>
 

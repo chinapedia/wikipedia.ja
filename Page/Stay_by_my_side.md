@@ -44,6 +44,6 @@
 
 ## カバー
 
-  - 2016年[7月13日](../Page/7月13日.md "wikilink")、[南條愛乃](../Page/南條愛乃.md "wikilink")が2ndアルバム『Nのハコ』でカバー。
+  - [南條愛乃](../Page/南條愛乃.md "wikilink")が、[2016年](../Page/2016年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink")発売の2ndアルバム『[Nのハコ](https://ja.wikipedia.org/wiki/Nのハコ "wikilink")』でカバー。
 
 [Category:倉木麻衣の楽曲](https://ja.wikipedia.org/wiki/Category:倉木麻衣の楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:2000年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2000年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:大野愛果が制作した楽曲](https://ja.wikipedia.org/wiki/Category:大野愛果が制作した楽曲 "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink")

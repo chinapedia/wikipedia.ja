@@ -216,7 +216,7 @@ SRIの [Augmentation Research Center](https://ja.wikipedia.org/wiki/:en:Augmenta
 
   - [SRIインターナショナル 公式サイト](http://www.sri.com/)
 
-  - [SRI インターナショナル日本支社](http://www.sri.com/japanese/)
+  - [SRI インターナショナル日本支社](https://www.sri.com/ja)
 
 [Category:SRIインターナショナル](https://ja.wikipedia.org/wiki/Category:SRIインターナショナル "wikilink") [Category:アメリカ合衆国の科学技術](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の科学技術 "wikilink") [Category:スタンフォード大学](https://ja.wikipedia.org/wiki/Category:スタンフォード大学 "wikilink")
 

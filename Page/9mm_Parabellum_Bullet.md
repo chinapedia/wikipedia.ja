@@ -751,7 +751,7 @@ Welcome! [Alexandros]</p></td>
 <td><p>2020年9月9日</p></td>
 <td><p>白夜の日々</p></td>
 <td><p>COCA-17780</p></td>
-<td></td>
+<td><p>19位</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1131,7 +1131,7 @@ Welcome! [Alexandros]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>1</p></td>
+<td></td>
 <td><p>2014年7月9日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Greatest_Hits_(9mm_Parabellum_Bulletのアルバム)" title="wikilink">Greatest Hits</a></p></td>
 <td><p>初回盤：2CD／TYCT-69027、69028<br />
@@ -1146,11 +1146,11 @@ Welcome! [Alexandros]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>1</p></td>
+<td></td>
 <td><p>2020年9月9日</p></td>
 <td><p>CHAOSMOLOGY</p></td>
 <td><p>COCP-41241～2</p></td>
-<td></td>
+<td><p>14位</p></td>
 </tr>
 <tr class="even">
 <td></td>

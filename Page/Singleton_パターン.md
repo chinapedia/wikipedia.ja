@@ -74,7 +74,7 @@ final class Singleton {
 
 上記のSingletonは、Javaクラスのアンロードを考慮していない。Javaでは、参照されなくなったクラスは[ガベージコレクション](../Page/ガベージコレクション.md "wikilink")により回収され、[Java仮想マシン](../Page/Java仮想マシン.md "wikilink") (JVM) からアンロードされることがありえる。クラスのアンロードにより、そのクラスのstaticフィールドもまた無効となる。つまり、staticフィールドの寿命はアプリケーションの寿命と同一ではなくなる。アンロードされたクラスは再度必要になったときにリロードされ、クラスのstaticイニシャライザも再度呼び出される。こうした一連の動作によりstaticフィールド上のインスタンスは再生成されてしまう。また、各staticフィールドはJVMごとにひとつ存在するのではなく、ロードされたクラスごとにひとつ存在するため、Singletonが破たんするケースもありえる\[3\]。
 
-[Android](../Page/Android.md "wikilink")の[Dalvik](../Page/Dalvik仮想マシン.md "wikilink")/[ART環境上では](https://ja.wikipedia.org/wiki/Android_Runtime "wikilink")、サスペンドされたアプリケーションのActivityは、メモリが足らなくなったときや長時間放置されたときなどに破棄されることがあるが、その際、Activityコンテキストに属するすべての[android.view.View](https://developer.android.com/reference/android/view/View)が無効となり、これらは通例アプリケーション再開時に呼ばれるandroid.app.Activity.onCreate()で再初期化することになる。しかし、クラス自体がアンロードされることも起こりうる\[4\]。アンロードされたクラスはアプリケーションの再開時に必要に応じてリロードされる。
+[Androidの](../Page/Android_\(オペレーティングシステム\).md "wikilink")[Dalvik](../Page/Dalvik仮想マシン.md "wikilink")/[ART環境上では](https://ja.wikipedia.org/wiki/Android_Runtime "wikilink")、サスペンドされたアプリケーションのActivityは、メモリが足らなくなったときや長時間放置されたときなどに破棄されることがあるが、その際、Activityコンテキストに属するすべての[android.view.View](https://developer.android.com/reference/android/view/View)が無効となり、これらは通例アプリケーション再開時に呼ばれるandroid.app.Activity.onCreate()で再初期化することになる。しかし、クラス自体がアンロードされることも起こりうる\[4\]。アンロードされたクラスはアプリケーションの再開時に必要に応じてリロードされる。
 
 Android環境下でアプリケーションの寿命と同等のstaticフィールドを使用したい場合、独自の[android.app.Application](https://developer.android.com/reference/android/app/Application)派生クラスを定義してAndroidManifest.xmlに記述する。通常はApplicationのサブクラス化は必要なく、たいていのケースでは、（クラスの再初期化が起こりうることに注意してさえいれば）staticシングルトンで同等機能を提供できるとされている\[5\]。
 

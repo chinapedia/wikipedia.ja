@@ -44,7 +44,7 @@
   - G2〜Guns Gunner　（ハンゲーム、PCオンライン）
   - Cyphers　（Neople、PCオンライン）
   - [StreetGears](../Page/StreetGears.md "wikilink")　（エヌフレーバー、PCオンライン）
-  - [マグナカルタ](../Page/マグナカルタ_\(ゲーム\).md "wikilink")　（SOFTMAX、Windows、[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）
+  - [マグナカルタ](../Page/マグナカルタ_\(ゲーム\).md "wikilink")　（SOFTMAX、Windows、[PS2](../Page/PlayStation_2.md "wikilink")）
   - [4LEAF](../Page/ルーンの子供たち.md "wikilink")　（SOFTMAX、PCオンライン）
   - [BnB](https://ja.wikipedia.org/wiki/BnB "wikilink") Adventure　（SOFTMAX、NEXON、Windows）
   - Dream Chaser　（SOFTMAX、Windows）

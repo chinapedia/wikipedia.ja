@@ -80,4 +80,4 @@
   - [2002年東京宝塚劇場公演（宝塚歌劇公式）](http://kageki.hankyu.co.jp/revue/backnumber/0211tuki/index.html)
   - [2003年中日劇場公演（宝塚歌劇公式）](http://kageki.hankyu.co.jp/revue/backnumber/0302tuki/index.html)
 
-[Category:宝塚歌劇団の作品](https://ja.wikipedia.org/wiki/Category:宝塚歌劇団の作品 "wikilink") [Category:2002年の舞台作品](https://ja.wikipedia.org/wiki/Category:2002年の舞台作品 "wikilink") [Category:音楽を題材とした作品](https://ja.wikipedia.org/wiki/Category:音楽を題材とした作品 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")
+[Category:宝塚歌劇団の作品](https://ja.wikipedia.org/wiki/Category:宝塚歌劇団の作品 "wikilink") [Category:2002年の舞台作品](https://ja.wikipedia.org/wiki/Category:2002年の舞台作品 "wikilink") [Category:音楽を題材とした作品](https://ja.wikipedia.org/wiki/Category:音楽を題材とした作品 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink") [Category:東南アジアを舞台とした作品](https://ja.wikipedia.org/wiki/Category:東南アジアを舞台とした作品 "wikilink") [Category:中国を舞台とした作品](https://ja.wikipedia.org/wiki/Category:中国を舞台とした作品 "wikilink") [Category:岡田敬二](https://ja.wikipedia.org/wiki/Category:岡田敬二 "wikilink") [Category:紫吹淳](https://ja.wikipedia.org/wiki/Category:紫吹淳 "wikilink")

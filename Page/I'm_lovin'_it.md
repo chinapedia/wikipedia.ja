@@ -146,7 +146,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/フィリピン" title="wikilink">フィリピン</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/中国語" title="wikilink">中国語</a></p></td>
+<td><p><a href="../Page/中国語.md" title="wikilink">中国語</a></p></td>
 <td><p>（簡体字）<br />
 （繁体字）</p></td>
 <td><p>ウォー・ジォウ・シーホワン<br />

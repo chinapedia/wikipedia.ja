@@ -5,35 +5,31 @@
 
 [小説](../Page/小説.md "wikilink")のみにとどまらず、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、[批評](https://ja.wikipedia.org/wiki/批評 "wikilink")書も刊行しており、「ハイブリッド・レーベル」を標榜している。銀の箱に入った装丁が特徴だったが、2010年11月からは[講談社BOX新人賞](https://ja.wikipedia.org/wiki/講談社BOX新人賞 "wikilink")“Powers”受賞作の専用レーベル「Powers BOX」が異なる装丁で並行して刊行され、末期はソフトカバーでの刊行が主体となっていた。
 
-創刊当初から[講談社BOX新人賞](https://ja.wikipedia.org/wiki/講談社BOX新人賞 "wikilink")を主催し新人作家・イラストレーターを積極的に世に出していた。また、2008年から2009年にかけて雑誌『[パンドラ](../Page/パンドラ_\(文芸誌\).md "wikilink")』を刊行し、2011年2月からは電子雑誌『[BOX-AiR](https://ja.wikipedia.org/wiki/BOX-AiR "wikilink")』を刊行していた。
+創刊当初から[講談社BOX新人賞](https://ja.wikipedia.org/wiki/講談社BOX新人賞 "wikilink")を主催し、積極的に新人作家・イラストレーターを世に出していた。また、2008年から2009年にかけて雑誌『[パンドラ](../Page/パンドラ_\(文芸誌\).md "wikilink")』を刊行し、2011年2月からは電子雑誌『[BOX-AiR](https://ja.wikipedia.org/wiki/BOX-AiR "wikilink")』を刊行していた。
 
 ## 概要
 
 講談社文芸図書第三出版部所属で文芸誌『[ファウスト](../Page/ファウスト_\(文芸誌\).md "wikilink")』編集長の[太田克史](../Page/太田克史.md "wikilink")が、2006年10月に新設された海外文芸出版部へ異動したことから、特例に近い形で創刊された。[キャッチコピー](../Page/キャッチコピー.md "wikilink")は 「**Everything is Boxed, KODANSHA BOX. 開けるのは“あなた”です。**」。
 
-初代部長だった太田は2008年12月に部長を退任し、講談社ノベルスで[島田荘司](../Page/島田荘司.md "wikilink")、[竹本健治](../Page/竹本健治.md "wikilink")、[綾辻行人](../Page/綾辻行人.md "wikilink")、[麻耶雄嵩](../Page/麻耶雄嵩.md "wikilink")などを担当していた[秋元直樹](https://ja.wikipedia.org/wiki/秋元直樹 "wikilink")が二代目部長となった（2008年12月〜）。2011年3月の公式メールマガジンで、「P」（本名不明）が三代目部長になったことが報告された。
+初代部長だった太田は2008年12月に部長を退任し、[星海社](https://ja.wikipedia.org/wiki/星海社 "wikilink")を設立。代わりに講談社ノベルスで[島田荘司](../Page/島田荘司.md "wikilink")、[竹本健治](../Page/竹本健治.md "wikilink")、[綾辻行人](../Page/綾辻行人.md "wikilink")、[麻耶雄嵩](../Page/麻耶雄嵩.md "wikilink")などを担当していた[秋元直樹](https://ja.wikipedia.org/wiki/秋元直樹 "wikilink")が二代目部長となった（2008年12月〜）。その後、2011年3月の公式メールマガジンで「P」が三代目部長になったことが報告された。「P」こと佐藤辰宣は後に2016年から2019年まで『[群像](../Page/群像.md "wikilink")』編集長を務めている。
 
-小説・漫画・批評を、銀の箱という統一フォーマットで刊行していたが、箱に入っていない「講談社BOXピース」も刊行しており、末期は箱の色や形状が作品ごとに変えられたり、ソフトカバーでの刊行も多かった。また、創刊当初から[講談社BOX新人賞](https://ja.wikipedia.org/wiki/講談社BOX新人賞 "wikilink")を主催し、2008年からは雑誌『[パンドラ](../Page/パンドラ_\(文芸誌\).md "wikilink")』を刊行していた。刊行冊数は、2009年5月の[鏡征爾](https://ja.wikipedia.org/wiki/鏡征爾 "wikilink")『白の断章』で100冊に到達した（銀の箱に入った刊行書籍のみカウントされている）。
+小説・漫画・批評を「銀の箱」という統一フォーマットで刊行していたが、箱に入っていない「講談社BOXピース」も刊行しており、末期は箱の色や形状が作品ごとに変えられたり、ソフトカバーでの刊行も多かった。また、創刊当初から[講談社BOX新人賞](https://ja.wikipedia.org/wiki/講談社BOX新人賞 "wikilink")を主催し、2008年から2009年は『ファウスト』から枝分かれする形で、雑誌『[パンドラ](../Page/パンドラ_\(文芸誌\).md "wikilink")』も刊行していた。刊行冊数は2009年5月の[鏡征爾](https://ja.wikipedia.org/wiki/鏡征爾 "wikilink")『白の断章』で100冊に到達したが、これは銀の箱に入った刊行書籍のみをカウントしている。
 
-特別企画も多く行っていた。新人批評家を選考・育成しデビューさせる『[東浩紀のゼロアカ道場](https://ja.wikipedia.org/wiki/東浩紀のゼロアカ道場 "wikilink")』（2008年3月〜2009年8月）、参加者16名全員の漫画家デビューを目指す『[西島大介のひらめき☆マンガ学校](https://ja.wikipedia.org/wiki/西島大介のひらめき☆マンガ学校 "wikilink")』（2009年7月〜）、クリエーターと読者が集う場所を作った『[KOBOCAFE](https://ja.wikipedia.org/wiki/#KOBACAFE "wikilink")』（2008年5月〜8月）などがあった。
+初期から中期にかけては、採算を度外視した特別企画も多く行っていた。これには新人批評家を選考・育成しデビューさせる『[東浩紀のゼロアカ道場](https://ja.wikipedia.org/wiki/東浩紀のゼロアカ道場 "wikilink")』（2008年3月〜2009年8月）、参加者16名全員の漫画家デビューを目指す『[西島大介のひらめき☆マンガ学校](https://ja.wikipedia.org/wiki/西島大介のひらめき☆マンガ学校 "wikilink")』（2009年7月〜）、クリエーターと読者が集う場所を作る『[KOBOCAFE](https://ja.wikipedia.org/wiki/#KOBACAFE "wikilink")』（2008年5月〜8月）などがあった。また、一時期、[amazon.co.jp](https://ja.wikipedia.org/wiki/amazon.co.jp "wikilink")内に公式コーナーが設置されていた\[1\]、作家へのインタビューなどが読めるほか、女優の[多部未華子](https://ja.wikipedia.org/wiki/多部未華子 "wikilink")や声優の[中原麻衣](https://ja.wikipedia.org/wiki/中原麻衣 "wikilink")によるレビューを載せるなど、積極的にPRが行われていた。
 
-[amazon.co.jp](https://ja.wikipedia.org/wiki/amazon.co.jp "wikilink")内には公式コーナーが設置されていた\[1\]、作家へのインタビューなどが読めるほか、女優の[多部未華子](https://ja.wikipedia.org/wiki/多部未華子 "wikilink")や声優の[中原麻衣](https://ja.wikipedia.org/wiki/中原麻衣 "wikilink")によるレビューを載せるなど、積極的にPRが行われていた。
+太田克史部長時代の講談社BOX編集部は、2007年に建設された講談社第1別館（新）に[オフィス](../Page/オフィス.md "wikilink")があり、本館と隣接しているとはいえ、別の場所にあったことから、「部独自の[カルチャー](https://ja.wikipedia.org/wiki/カルチャー "wikilink")みたいなもの」が次第に生まれつつと太田は述べていた。毎日編集部に作家が遊びにくるようなところは、講談社の他の書籍系の編集部にはなく、そのことを誇りに思っているという。\[2\]
 
-講談社BOXの開始当初の講談社内での位置づけは、「講談社文芸局 海外文芸出版部 講談社BOX編集部」であった。当時、講談社が新設した文芸局海外文芸出版部の中へ入れ子細工のように「講談社BOX」編集部が作られた\[2\]。その後は「文芸局講談社BOX」という扱いを経て、2013年に文芸図書第三出版部へ統合された。
+2010年、2008年に講談社BOXの企画編集から離れていた太田克史が新会社・[星海社](https://ja.wikipedia.org/wiki/星海社 "wikilink")を立ち上げ、副社長に就任。それに伴い、[西尾維新](../Page/西尾維新.md "wikilink")以外の主力作家が流出\[3\]。上記の特別企画はすべて見直しとなり、『パンドラ』は休刊。編集人員や作家の不足から刊行点数も減少していく。講談社BOXの創刊は2003年創刊の『ファウスト』が成功したことを背景としていたが、[ライトノベル](../Page/ライトノベル.md "wikilink")とジャンル小説、文学の融合というゼロ年代の文芸ムーブメントが沈静化し、[西尾維新](../Page/西尾維新.md "wikilink")、[舞城王太郎](../Page/舞城王太郎.md "wikilink")、[佐藤友哉](../Page/佐藤友哉.md "wikilink")、[奈須きのこ](../Page/奈須きのこ.md "wikilink")などに続くスター作家の台頭もなかったことから、2009年頃から失速しつつあった。そして、講談社BOXと星海社のレーベル分裂は衰退への決定打となった。
 
-太田克史部長時代の講談社BOX編集部は、2007年に建設された講談社第1別館（新）に[オフィス](../Page/オフィス.md "wikilink")があり、本館と隣接しているとはいえ、別の場所にあったことから、「部独自の[カルチャー](https://ja.wikipedia.org/wiki/カルチャー "wikilink")みたいなもの」が次第に生まれつつと太田は述べていた。毎日編集部に作家が遊びにくるようなところは、講談社の他の書籍系の編集部にはなく、そのことを誇りに思っているという。\[3\]
+創刊時の講談社内での位置づけは、「講談社文芸局 海外文芸出版部 講談社BOX編集部」で、講談社が新設した文芸局海外文芸出版部の中へ入れ子細工のように「講談社BOX」編集部が作られていた\[4\]。その後は「文芸局講談社BOX」という扱いを経て、2013年10月、文芸図書第三出版部へ統合。文芸シリーズ出版部となったが、2015年8月、新レーベル・[講談社タイガ](https://ja.wikipedia.org/wiki/講談社タイガ "wikilink")創刊に伴い、作家陣の整理が行われたことが公になる\[5\]。『パンドラ』休刊後、[キングレコード](../Page/キングレコード.md "wikilink")の参画で創刊した電子雑誌『[BOX-AiR](https://ja.wikipedia.org/wiki/BOX-AiR "wikilink")』も、2015年7月刊の52号を最後に終刊した\[6\]。
 
-2010年、講談社BOXの企画編集から離れていた太田克史が新会社・[星海社](https://ja.wikipedia.org/wiki/星海社 "wikilink")を立ち上げ、副社長に就任する。それに伴い、[西尾維新](../Page/西尾維新.md "wikilink")以外の主力作家が流出\[4\]。上記の特別企画は見直しとなり、『パンドラ』は休刊。刊行点数も減少していく。
-
-2013年10月、講談社BOXと文芸図書第三出版部は合併。文芸シリーズ出版部となった。
-
-2015年8月、新レーベル・[講談社タイガ](https://ja.wikipedia.org/wiki/講談社タイガ "wikilink")創刊に伴い、作家陣の整理が行われたことが公になる\[5\]。『[BOX-AiR](https://ja.wikipedia.org/wiki/BOX-AiR "wikilink")』も2015年7月刊の52号を最後に終刊した\[6\]。以降は、西尾維新「[〈物語〉シリーズ](../Page/〈物語〉シリーズ.md "wikilink")」「[忘却探偵シリーズ](https://ja.wikipedia.org/wiki/忘却探偵シリーズ "wikilink")」とノベライズの刊行レーベルとして名前を残しているが、それ以外のシリーズは刊行されていない\[7\]。末期のラインナップを担っていた講談社BOX新人賞出身の若手作家たちは、京都大学推理小説研究会系の[円居挽](https://ja.wikipedia.org/wiki/円居挽 "wikilink")や[森川智喜](https://ja.wikipedia.org/wiki/森川智喜 "wikilink")が講談社タイガや星海社に残ったが、それ以外は[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")、[早川書房](../Page/早川書房.md "wikilink")、[実業之日本社](../Page/実業之日本社.md "wikilink")、[東京創元社](../Page/東京創元社.md "wikilink")、[小学館](../Page/小学館.md "wikilink")など他社へ流出した。
+以降は、西尾維新「[〈物語〉シリーズ](../Page/〈物語〉シリーズ.md "wikilink")」「[忘却探偵シリーズ](https://ja.wikipedia.org/wiki/忘却探偵シリーズ "wikilink")」とノベライズの刊行レーベルとして名前を残しているが、それ以外のシリーズは刊行されていない\[7\]。末期のラインナップを担っていた講談社BOX新人賞出身の若手作家たちは、京都大学推理小説研究会系の[円居挽](https://ja.wikipedia.org/wiki/円居挽 "wikilink")や[森川智喜](https://ja.wikipedia.org/wiki/森川智喜 "wikilink")が講談社タイガや星海社に残っているが、それ以外の作家は[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")、[早川書房](../Page/早川書房.md "wikilink")、[実業之日本社](../Page/実業之日本社.md "wikilink")、[東京創元社](../Page/東京創元社.md "wikilink")、[小学館](../Page/小学館.md "wikilink")など他社へ流出した。
 
 2020年3月、公式サイトの消滅が確認された。
 
 ### 刊行内容
 
-小説作品は、当初は講談社の文芸誌『[メフィスト](../Page/メフィスト_\(文芸誌\).md "wikilink")』『[ファウスト](../Page/ファウスト_\(文芸誌\).md "wikilink")』『[群像](../Page/群像.md "wikilink")』などに掲載された作品を刊行していたが、創刊から1年半ほどしてから[講談社BOX新人賞](https://ja.wikipedia.org/wiki/講談社BOX新人賞 "wikilink")受賞者の作品の刊行を開始し、以来、多くの新人作家を輩出していた。
+小説作品は、当初は講談社の文芸誌『[メフィスト](../Page/メフィスト_\(文芸誌\).md "wikilink")』『[ファウスト](../Page/ファウスト_\(文芸誌\).md "wikilink")』『[群像](../Page/群像.md "wikilink")』などに掲載された作品を刊行していたが、創刊から1年半ほどしてから[講談社BOX新人賞](https://ja.wikipedia.org/wiki/講談社BOX新人賞 "wikilink")受賞者の作品の刊行を開始し、以来、多くの新人作家を輩出した。
 
 また、創刊直後の2007年1月から、作家が12か月連続で単行本を刊行する「[大河ノベル](https://ja.wikipedia.org/wiki/#大河ノベル "wikilink")」の企画が実施され、2009年まで3年間続けられた。
 
@@ -55,7 +51,7 @@
 <!-- end list -->
 
   -
-    [小柳粒男](https://ja.wikipedia.org/wiki/小柳粒男 "wikilink")、[泉和良](https://ja.wikipedia.org/wiki/泉和良 "wikilink")（小説デビュー以前に、ゲームクリエーターとして活躍している）、[黒乃翔](https://ja.wikipedia.org/wiki/黒乃翔 "wikilink")、[天原聖海](https://ja.wikipedia.org/wiki/天原聖海 "wikilink")、[梓](https://ja.wikipedia.org/wiki/梓_\(小説家\) "wikilink")、[岩城裕明](https://ja.wikipedia.org/wiki/岩城裕明 "wikilink")、[架神恭介](https://ja.wikipedia.org/wiki/架神恭介 "wikilink")（受賞以前から小説以外の書籍は刊行していた）、手代木正太郎
+    [小柳粒男](https://ja.wikipedia.org/wiki/小柳粒男 "wikilink")、[泉和良](https://ja.wikipedia.org/wiki/泉和良 "wikilink")（小説デビュー以前に、ゲームクリエーターとして活躍している）、[黒乃翔](https://ja.wikipedia.org/wiki/黒乃翔 "wikilink")、[天原聖海](https://ja.wikipedia.org/wiki/天原聖海 "wikilink")、[梓](https://ja.wikipedia.org/wiki/梓_\(小説家\) "wikilink")、[岩城裕明](https://ja.wikipedia.org/wiki/岩城裕明 "wikilink")、[架神恭介](https://ja.wikipedia.org/wiki/架神恭介 "wikilink")（受賞以前から小説以外の書籍は刊行していた）、[手代木正太郎](https://ja.wikipedia.org/wiki/手代木正太郎 "wikilink")
 
 <!-- end list -->
 
@@ -75,9 +71,9 @@
   -
     [針谷卓史](https://ja.wikipedia.org/wiki/針谷卓史 "wikilink")（[三田文学新人賞](../Page/三田文学新人賞.md "wikilink")受賞後、講談社BOXより単行本デビュー）、[円居挽](https://ja.wikipedia.org/wiki/円居挽 "wikilink")（『パンドラ』の[下剋上ボックスよりデビュー](https://ja.wikipedia.org/wiki/講談社BOX新人賞#下剋上ボックス "wikilink")）、[藍内友紀](https://ja.wikipedia.org/wiki/藍内友紀 "wikilink")（「ササクラ」名義で第5回BOX-AiR新人賞よりデビュー）
 
-漫画作品は既に一度発売された作品の[復刊](https://ja.wikipedia.org/wiki/復刊 "wikilink")がほとんどだが（復刊の場合、まだ別レーベルで手に入るものを刊行する場合もある）、海外のウェブコミックを単行本化した『[メガトーキョー](../Page/メガトーキョー.md "wikilink")』などもあった。後年、『[パンドラ](../Page/パンドラ_\(文芸誌\).md "wikilink")』や『[ファウスト](../Page/ファウスト_\(文芸誌\).md "wikilink")』に掲載された新作漫画は、KCデラックス（[講談社の漫画レーベル](../Page/講談社の漫画レーベル.md "wikilink")）として刊行された。
+漫画作品は1990年代に[ヤングマガジン](https://ja.wikipedia.org/wiki/ヤングマガジン "wikilink")系などで一度発売された作品の[復刊](https://ja.wikipedia.org/wiki/復刊 "wikilink")がほとんどだが、まだ別レーベルで手に入るものを刊行していたケースもあり、海外のウェブコミックを単行本化した『[メガトーキョー](../Page/メガトーキョー.md "wikilink")』などもあった。後年、『[パンドラ](../Page/パンドラ_\(文芸誌\).md "wikilink")』や『[ファウスト](../Page/ファウスト_\(文芸誌\).md "wikilink")』に掲載された新作漫画は、KCデラックス（[講談社の漫画レーベル](../Page/講談社の漫画レーベル.md "wikilink")）として刊行されている。
 
-批評・ノンフィクションでは、[東浩紀](../Page/東浩紀.md "wikilink")や[渡辺浩弐](../Page/渡辺浩弐.md "wikilink")の著作が刊行されていた。批評・ノンフィクションは、[新書](../Page/新書.md "wikilink")が[サラリーマン](../Page/サラリーマン.md "wikilink")世代の読み物となってしまっている現状では、10代や20代に届くはずの批評も届いていない現状を変えたいという考えで出版されている。初代部長の太田克史は「『搾取される若者たち―バイク便ライダーは見た\!』（[阿部真大](../Page/阿部真大.md "wikilink")、集英社新書、2006年）は新書で販売されているから若者に届かないだけで、これが講談社BOXだったら届く」と、講談社BOXが批評を出版する意味を語っていた。
+批評・ノンフィクションでは、[東浩紀](../Page/東浩紀.md "wikilink")や[渡辺浩弐](../Page/渡辺浩弐.md "wikilink")の著作が刊行されていた。批評・ノンフィクションは、[新書](../Page/新書.md "wikilink")が[サラリーマン](../Page/サラリーマン.md "wikilink")世代の読み物となってしまっている現状では、10代や20代に届くはずの批評も届いていない現状を変えたいという考えで出版されていた。初代部長の太田克史は「『搾取される若者たち―バイク便ライダーは見た\!』（[阿部真大](../Page/阿部真大.md "wikilink")、集英社新書、2006年）は新書で販売されているから若者に届かないだけで、これが講談社BOXだったら届く」と、講談社BOXが批評を出版する意味を語っていた。
 
 取り扱う作品の作風は、漫画作品も含めて「[思春期](../Page/思春期.md "wikilink")の自意識」をテーマにした作品が多かったが、雑誌『パンドラ』のキャッチコピーだった**「思春期の自意識を生きるシンフォニー・マガジン」**という言葉は、2009年4月発売のVol.3から「文芸と批評とコミックが「交差」（クロスオーバー）する講談社BOXマガジン」に変更されており、『パンドラ』Vol.3の編集後記では、今後の出版傾向の変更が示唆されたが、Vol.4を最後に刊行を休止した。
 
@@ -110,7 +106,7 @@
   - [清涼院流水](../Page/清涼院流水.md "wikilink")『[パーフェクト・ワールド What a perfect world\!](../Page/パーフェクト・ワールド_What_a_perfect_world!.md "wikilink")』
   - [西尾維新](../Page/西尾維新.md "wikilink")『[刀語](https://ja.wikipedia.org/wiki/刀語 "wikilink")』
       - 清涼院流水は[執筆](https://ja.wikipedia.org/wiki/執筆 "wikilink")ペースがギリギリだったため、最終巻に近づくにつれて「初[校了](https://ja.wikipedia.org/wiki/校了 "wikilink")」（通常2回行うチェックと修正を1回のみで終えること）などの出版の裏技が行われた。
-      - シリーズ完結以降、清涼院流水は2008年の[講談社文庫](../Page/講談社文庫.md "wikilink")版『[彩紋家事件](https://ja.wikipedia.org/wiki/彩紋家事件 "wikilink")III』刊行を最後に講談社での執筆が途絶え、西尾維新も太田克史が講談社BOXから離れた『ファウスト』Vol.8では執筆していない。
+      - シリーズ完結以降、清涼院流水は2008年の[講談社文庫](../Page/講談社文庫.md "wikilink")版『[彩紋家事件](https://ja.wikipedia.org/wiki/彩紋家事件 "wikilink")III』刊行を最後に講談社での執筆が途絶え、西尾維新も太田克史が講談社BOXから離れた『ファウスト』Vol.8以降は執筆していない。
 
 **大河ノベル2008**
 
@@ -128,7 +124,7 @@
   - [定金伸治](../Page/定金伸治.md "wikilink")『[四方世界の王](https://ja.wikipedia.org/wiki/四方世界の王 "wikilink")』
       - 当初、2009年1月から12か月連続刊行予定だったが、著者の体調不良を理由に4月発売の4巻以降は刊行休止となった。
       - 2010年6月、刊行再開された。大幅なボリュームアップに伴い、刊行ペースは不定期となり、刊行数は全12巻予定から全14巻予定へと変更となった。
-      - 2015年08月24日付の著者ブログでシリーズ打ち切りが発表され、[講談社タイガ](https://ja.wikipedia.org/wiki/講談社タイガ "wikilink")創刊に伴う講談社BOX作家陣の整理が公になった。また、担当引き継ぎも行われなかったことから、特典小冊子を個人配布した。
+      - 2015年08月24日付の著者ブログでシリーズ打ち切りが発表され、[講談社タイガ](https://ja.wikipedia.org/wiki/講談社タイガ "wikilink")創刊に伴う講談社BOXの作家陣整理が公になった。また、担当引き継ぎも行われなかったことから、特典小冊子を個人配布した。
 
 ### LINK\! project
 
@@ -891,9 +887,9 @@
 [Category:講談社BOX](https://ja.wikipedia.org/wiki/Category:講談社BOX "wikilink") [Category:講談社の出版物](https://ja.wikipedia.org/wiki/Category:講談社の出版物 "wikilink") [Category:日本の文学叢書](https://ja.wikipedia.org/wiki/Category:日本の文学叢書 "wikilink") [Category:書籍レーベル](https://ja.wikipedia.org/wiki/Category:書籍レーベル "wikilink") [Category:2006年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:2006年刊行開始の刊行物 "wikilink")
 
 1.  [amazon.co.jp 講談社ストア スペシャル・フィーチャー 講談社BOX](https://web.archive.org/web/20090820002111/http://www.amazon.co.jp/%E8%AC%9B%E8%AB%87%E7%A4%BE%E3%82%B9%E3%83%88%E3%82%A2-COOP-%E5%92%8C%E6%9B%B8/b?ie=UTF8&node=3078071)（2009年8月20日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
-2.  [島田先生のデジカメ日記【第280回9-21 講談社BOX】](http://www.harashobo.co.jp/online-shimada/shukan/backnumber/index280.html)より
-3.  [Amazon.co.jp内フィーチャーストア・講談社BOX　ゲスト・レビュアー：第7回 太田克史（講談社BOX編集長）](https://archive.is/20120721091559/http://www.amazon.co.jp/gp/feature.html?docId=1000145166)（2012年7月21日時点の[アーカイブ](https://ja.wikipedia.org/wiki/archive.is "wikilink")）より
-4.  [講談社BOX『日日日&ゆずはらとしゆきの与太話放談〈龍〉』](http://kodansha-box.jp/topics/hhh/yotabanashi.html)より
+2.  [Amazon.co.jp内フィーチャーストア・講談社BOX　ゲスト・レビュアー：第7回 太田克史（講談社BOX編集長）](https://archive.is/20120721091559/http://www.amazon.co.jp/gp/feature.html?docId=1000145166)（2012年7月21日時点の[アーカイブ](https://ja.wikipedia.org/wiki/archive.is "wikilink")）より
+3.  [講談社BOX『日日日&ゆずはらとしゆきの与太話放談〈龍〉』](https://yuz4.fanbox.cc/posts/1084608)（転載版）より
+4.  [島田先生のデジカメ日記【第280回9-21 講談社BOX】](http://www.harashobo.co.jp/online-shimada/shukan/backnumber/index280.html)より
 5.  作家 [定金伸治](../Page/定金伸治.md "wikilink") の日記[カリスマイソギンチャクの日記 四方世界の王](http://sadakane-ss.net/article/162157618.html)より
 6.  [勝手気ままな漫ろ言](http://recentchats.blog.fc2.com/blog-entry-542.html)
 7.  唯一、[森川智喜](https://ja.wikipedia.org/wiki/森川智喜 "wikilink")の「名探偵三途川理シリーズ」が講談社タイガへ移籍している。

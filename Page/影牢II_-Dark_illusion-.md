@@ -1,7 +1,7 @@
 > この記事は[影牢II -Dark illusion-](https://ja.wikipedia.org/wiki/影牢II_-Dark_illusion-)から翻訳されています。
 
 
-『**影牢II -Dark illusion-**』（かげろうツー ダークイリュージョン）は、2005年6月に[テクモ](../Page/テクモ.md "wikilink")株式会社から発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")である。企画制作は株式会社パオン（当時、のち[パオン・ディーピー](../Page/パオン・ディーピー.md "wikilink")）。
+『**影牢II -Dark illusion-**』（かげろうツー ダークイリュージョン）は、2005年6月に[テクモ](../Page/テクモ.md "wikilink")株式会社から発売された[PlayStation 2用](../Page/PlayStation_2.md "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")である。企画制作は株式会社パオン（当時、のち[パオン・ディーピー](../Page/パオン・ディーピー.md "wikilink")）。
 
 ## 概要
 

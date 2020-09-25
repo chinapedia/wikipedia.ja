@@ -1,7 +1,7 @@
 > この記事は[NJS \(企業\)](https://ja.wikipedia.org/wiki/NJS_\(企業\))から翻訳されています。
 
 
-**株式会社 NJS** は、[東京都](../Page/東京都.md "wikilink")[港区芝浦に本社を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[建設コンサルタント](../Page/建設コンサルタント.md "wikilink")会社で、[上水道](https://ja.wikipedia.org/wiki/上水道 "wikilink")・[下水道](../Page/下水道.md "wikilink")に関するコンサルタント業務を主体とし、関連ソフトウェアの開発・販売、そのほか学生向けマンションの賃貸も生業としている。
+**株式会社 NJS** は、[東京都](../Page/東京都.md "wikilink")[港区芝浦に本社を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[建設コンサルタント](../Page/建設コンサルタント.md "wikilink")会社で、[上水道](https://ja.wikipedia.org/wiki/上水道 "wikilink")・[下水道](../Page/下水道.md "wikilink")に関するコンサルタント業務を主体とし、関連ソフトウェア・点検調査用ドローンの開発・販売、そのほか学生向けマンションの賃貸も生業としている。
 
 ## 沿革
 
@@ -20,7 +20,7 @@
 ## 主要事業所
 
   - 本社（東京都[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")）
-  - 東京総合事務所（東京都港区）
+  - 東京総合事務所（東京都[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")）
   - 名古屋総合事務所（[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[中区](../Page/中区_\(名古屋市\).md "wikilink")）
   - 大阪総合事務所（大阪府大阪市[中央区](../Page/中央区_\(大阪市\).md "wikilink")）
   - 九州総合事務所（福岡県福岡市[博多区](../Page/博多区.md "wikilink")）
@@ -29,15 +29,21 @@
 
 ## 関連会社
 
-  - 株式会社 NJSコンサルタンツ（NJS CONSULTANTS CO.,LTD）
   - 株式会社 NJS･E\&M
-  - オリオンプラントサービス 株式会社
+  - 株式会社 NJSコンサルタンツ（NJS Consultants Co. Ltd.）
   - 株式会社 水道アセットサービス
+  - 日本Ｘ線検査 株式会社
   - 株式会社 北王インフラサイエンス
-  - NJS CONSULTANTS，INC.
+  - オリオンプラントサービス 株式会社
+  - 株式会社 クリンパートナーズ須崎
   - B\&E ENGINEERS
-  - CONSORCIO NJS-SOGREAH S.A.
   - NJS ENGINEERS INDIA PVT.LTD.
+  - CONSORCIO NJS-SOGREAH S.A.
+
+## 点検調査用ドローン
+
+  - Air Slider® AS400
+    口径400mm以上の主に下水道の管路を対象とした調査点検用ドローン。通常のドローンが飛べない閉鎖空間での飛行を実現している点が特徴である。実動画は右記より閲覧可能 [AS400_飛行原理.png](https://ja.wikipedia.org/wiki/File:AS400_飛行原理.png "fig:AS400_飛行原理.png")
 
 ## 不祥事
 
@@ -49,7 +55,11 @@
 
 ## 外部リンク
 
-  - [株式会社NJS](https://www.njs.co.jp/)
+  - [株式会社ＮＪＳ](https://www.njs.co.jp/)
+  - [株式会社ＮＪＳ (Facebook)](https://www.facebook.com/NJSJAPAN/)
+  - [日本Ｘ線検査株式会社](https://nxk.co.jp/)
+  - [NJS Consultants Co. Ltd.](http://njs-consultants.com/)
+  - [NJS Engineers India Pvt. Ltd.](https://www.njsei.com/)
 
 [Category:日本の建設コンサルタント](https://ja.wikipedia.org/wiki/Category:日本の建設コンサルタント "wikilink") [Category:1951年設立の企業](https://ja.wikipedia.org/wiki/Category:1951年設立の企業 "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:2002年上場の企業](https://ja.wikipedia.org/wiki/Category:2002年上場の企業 "wikilink")
 

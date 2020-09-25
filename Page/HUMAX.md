@@ -70,4 +70,4 @@
   - [ヒューマックストルコ](http://www.humaxmarketim.com/)
   - [ドイツのヒューマックス](https://de.humaxdigital.com/)
 
-[Category:韓国の企業](https://ja.wikipedia.org/wiki/Category:韓国の企業 "wikilink") [Category:映像機器メーカー](https://ja.wikipedia.org/wiki/Category:映像機器メーカー "wikilink") [Category:ケーブルテレビ](https://ja.wikipedia.org/wiki/Category:ケーブルテレビ "wikilink") [Category:情報機器](https://ja.wikipedia.org/wiki/Category:情報機器 "wikilink") [Category:京畿道](https://ja.wikipedia.org/wiki/Category:京畿道 "wikilink")
+[Category:韓国の企業](https://ja.wikipedia.org/wiki/Category:韓国の企業 "wikilink") [Category:映像機器メーカー](https://ja.wikipedia.org/wiki/Category:映像機器メーカー "wikilink") [Category:ケーブルテレビ](https://ja.wikipedia.org/wiki/Category:ケーブルテレビ "wikilink") [Category:情報機器](https://ja.wikipedia.org/wiki/Category:情報機器 "wikilink") [Category:龍仁市](https://ja.wikipedia.org/wiki/Category:龍仁市 "wikilink")

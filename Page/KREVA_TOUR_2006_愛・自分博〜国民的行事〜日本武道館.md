@@ -46,7 +46,7 @@
         [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")の[POP STARの替え歌を歌っている](../Page/POP_STAR.md "wikilink")。
 13. 今夜はブギー・バック
       -
-        [小沢健二](../Page/小沢健二.md "wikilink")&[スチャダラパー](../Page/スチャダラパー.md "wikilink")による[今夜はブギー・バック](../Page/今夜はブギー・バック.md "wikilink")をカバーした。[竹内朋康](../Page/竹内朋康.md "wikilink")と[マボロシ](../Page/マボロシ.md "wikilink")・バンド（[竹内朋康 & The Laidbacks](https://ja.wikipedia.org/wiki/竹内朋康_&_The_Laidbacks "wikilink")）が登場。
+        [小沢健二](../Page/小沢健二.md "wikilink")&[スチャダラパー](../Page/スチャダラパー.md "wikilink")による[今夜はブギー・バック](../Page/今夜はブギー・バック.md "wikilink")をカバーした。[竹内朋康](../Page/竹内朋康.md "wikilink")と[マボロシ](../Page/マボロシ.md "wikilink")・バンド（[竹内朋康 & The Laidbacks](../Page/竹内朋康_&_The_Laidbacks.md "wikilink")）が登場。
 14. ファンキーグラマラス feat. [Mummy-D](../Page/Mummy-D.md "wikilink")
       -
         Mummy-Dが登場。

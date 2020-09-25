@@ -1,7 +1,7 @@
 > この記事は[DJ JIN](https://ja.wikipedia.org/wiki/DJ_JIN)から翻訳されています。
 
 
-**DJ JIN**（ディージェー・ジン、本名：**山本 仁**（やまもと じん）、[1973年](../Page/1973年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")グループ[RHYMESTER](../Page/RHYMESTER.md "wikilink")の2代目[DJ](../Page/ディスクジョッキー.md "wikilink")。[血液型O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**DJ JIN**（ディージェー・ジン、本名：**山本 仁**（やまもと じん）、[1973年](../Page/1973年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")グループ[RHYMESTER](../Page/RHYMESTER.md "wikilink")の2代目[DJ](../Page/ディスクジョッキー.md "wikilink")。[血液型O型](../Page/ABO式血液型.md "wikilink")。
 
 ## 来歴・人物
 

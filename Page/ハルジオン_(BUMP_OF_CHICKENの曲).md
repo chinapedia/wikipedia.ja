@@ -1,0 +1,36 @@
+> この記事は[ハルジオン \(BUMP OF CHICKENの曲\)](https://ja.wikipedia.org/wiki/ハルジオン_\(BUMP_OF_CHICKENの曲\))から翻訳されています。
+
+
+『**ハルジオン**』は、[BUMP OF CHICKENの](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")3枚目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")から発売された。
+
+## 概要
+
+  - ジャケットの写真撮影は直井。隠しジャケットに写っている犬は、増川の飼い犬の「おおじろう」。
+  - 初回版には、メンバーそれぞれによるイラストのオリジナルシール4種類のうちのいずれか1枚が同梱されていた。
+
+## 収録曲
+
+1.  **ハルジオン**
+      - 作詞・作曲：藤原基央　編曲：BUMP OF CHICKEN
+    <!-- end list -->
+      -
+        [作詞](../Page/作詞.md "wikilink")にはツアーもはさんで5か月が費やされた。全ての歌詞が完成したきっかけは、「自分（藤原）の部屋に、ブリキのジョウロが転がっている夢を見たから」らしい。
+        [ハルジオン](../Page/ハルジオン.md "wikilink")はどこにでも生えている雑草だが、PVに登場する花はハルジオンではない。
+2.  **彼女と星の椅子**
+      - 作詞・作曲：藤原基央・直井由文　編曲：BUMP OF CHICKEN
+    <!-- end list -->
+      -
+        直井が17歳の時に（当時は英語詞で）製作したものに、後から藤原と直井が手を加えて完成させた合作。
+        登場する「彼女」は直井曰く「当時の自分そのまま」とのこと。
+        [2017年](../Page/2017年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")に開催された「BUMP OF CHICKEN TOUR 2017-2018 PATHFINDER」静岡[エコパアリーナ公演では](../Page/静岡県小笠山総合運動公園アリーナ.md "wikilink")、直井がこの日誕生日を迎えたことから、アンコールにて直井の弾き語りによりこの曲が披露されている。
+
+<!-- end list -->
+
+  - [隠しトラック](../Page/隠しトラック.md "wikilink")に「**LOVE**」（作詞・作曲:BUMP OF CHICKEN）が収録されている。
+
+## 収録アルバム
+
+  - 『[jupiter](https://ja.wikipedia.org/wiki/jupiter_\(BUMP_OF_CHICKENのアルバム\) "wikilink")』（\#1）
+  - 『[present from you](https://ja.wikipedia.org/wiki/present_from_you "wikilink")』（\#2）
+
+[Category:BUMP_OF_CHICKENの楽曲](https://ja.wikipedia.org/wiki/Category:BUMP_OF_CHICKENの楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")
